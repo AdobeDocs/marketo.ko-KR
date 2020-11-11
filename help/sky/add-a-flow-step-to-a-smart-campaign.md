@@ -1,0 +1,61 @@
+---
+title: add-a-flow-step-to-a-smart-campaign
+description: 스마트 캠페인에 흐름 단계 추가
+translation-type: tm+mt
+source-git-commit: 642fd57105afff1031f18883c5809206f136b7c6
+workflow-type: tm+mt
+source-wordcount: '214'
+ht-degree: 0%
+
+---
+
+
+# 스마트 캠페인에 흐름 단계 추가
+
+흐름 단계는 자격이 있는 사용자 그룹에 어떤 일이 발생할지 Marketing에게 알려 줍니다.
+
+## 흐름 단계 추가
+
+1. 에서 스마트 캠페인 [!UICONTROL Marketing Activities]을 선택하고 흐름 [!UICONTROL **을 클릭합니다**].
+
+   ![이미지 원](/help/sky/assets/smart-campaigns/add-a-flow-step-to-a-smart-campaign/add-a-flow-step-to-a-smart-campaign-1.png)
+
+1. 흐름 단계를 검색하려면 입력한 다음 캔버스로 드래그하여 놓습니다. 여러 흐름 단계에 대해 반복합니다.
+
+   ![이미지 2](/help/sky/assets/smart-campaigns/add-a-flow-step-to-a-smart-campaign/add-a-flow-step-to-a-smart-campaign-2.png)
+
+**딥 다이브**
+
+다양한 [흐름 단계에 대해 자세히 알아보십시오](http://docs.marketo.com/display/DOCS/Flow+Actions).
+
+1. 드롭다운을 클릭하고 적절한 옵션을 선택합니다.
+
+   ![이미지 3](/help/sky/assets/smart-campaigns/add-a-flow-step-to-a-smart-campaign/add-a-flow-step-to-a-smart-campaign-3.png)
+
+1. 값을 입력합니다.
+
+   ![이미지 4](/help/sky/assets/smart-campaigns/add-a-flow-step-to-a-smart-campaign/add-a-flow-step-to-a-smart-campaign-4.png)
+
+**미리 알림**
+
+흐름 단계는 나열된 순서대로 실행됩니다. [흐름 단계를](https://docs.marketo.com/display/MER/Add+a+Flow+Step+to+a+Smart+Campaign#AddaFlowSteptoaSmartCampaign-ReorderFlowSteps) 재정렬하여 올바른 시퀀스에 맞게 유지할 수 있습니다.
+
+>[!TIP]
+>
+>잘못된 항목의 경우 빨간색 선이 표시됩니다. 줄 위로 마우스를 가져가면 수정 방법이 표시됩니다.
+>
+>예약하거나 활성화하기 전에 [스마트 캠페인을](https://docs.marketo.com/display/DOCS/Smart+Campaign+Checklist) 검토하고 확인해야 합니다.
+
+## 흐름 단계 순서 변경
+
+1. 여기 주문 원본입니다. 한 흐름을 다른 흐름에 드래그하여 놓습니다.
+
+   ![이미지 5](/help/sky/assets/smart-campaigns/add-a-flow-step-to-a-smart-campaign/add-a-flow-step-to-a-smart-campaign-5.png)
+
+1. 이동 중인 흐름이 변경 중에 사라집니다.
+
+   ![이미지 6](/help/sky/assets/smart-campaigns/add-a-flow-step-to-a-smart-campaign/add-a-flow-step-to-a-smart-campaign-6.png)
+
+1. 이제, 흐름은 위치를 바꾸었습니다.
+
+   ![이미지 7](/help/sky/assets/smart-campaigns/add-a-flow-step-to-a-smart-campaign/add-a-flow-step-to-a-smart-campaign-7.png)
