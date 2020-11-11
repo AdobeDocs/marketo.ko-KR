@@ -1,0 +1,27 @@
+---
+title: override an-inherited-my-token
+description: 상속된 내 토큰 무시
+translation-type: tm+mt
+source-git-commit: 642fd57105afff1031f18883c5809206f136b7c6
+workflow-type: tm+mt
+source-wordcount: '64'
+ht-degree: 0%
+
+---
+
+
+# 상속된 내 토큰 무시
+
+<br> 
+
+하위 프로그램 또는 캠페인 폴더에서 상속된 토큰을 무시하는 방법입니다.
+
+1. 탭에서 [!UICONTROL My Tokens] 섹션에서 무시할 토큰을 [!UICONTROL Inherited Tokens] 찾습니다.
+
+   ![이미지 원](/help/sky/assets/my-tokens/override-an-inherited-my-token/override-an-inherited-my-token-1.png)
+
+1. 토큰 값 [!UICONTROL **을**] 클릭하고 변경합니다. 이 토큰의 값을 변경하면 자동으로 섹션으로 [!UICONTROL Overridden Tokens] 이동합니다.
+
+   ![이미지 2](/help/sky/assets/my-tokens/override-an-inherited-my-token/override-an-inherited-my-token-2.png)
+
+   ![이미지 3](/help/sky/assets/my-tokens/override-an-inherited-my-token/override-an-inherited-my-token-3.png)
