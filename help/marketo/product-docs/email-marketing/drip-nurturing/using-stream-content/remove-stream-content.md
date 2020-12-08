@@ -1,0 +1,35 @@
+---
+unique-page-id: 2359915
+description: 스트림 컨텐츠 제거 - 마케팅 문서 - 제품 설명서
+title: 스트림 컨텐츠 제거
+translation-type: tm+mt
+source-git-commit: 00887ea53e395bea3a11fd28e0ac98b085ef6ed8
+workflow-type: tm+mt
+source-wordcount: '120'
+ht-degree: 0%
+
+---
+
+
+# 스트림 컨텐츠 제거 {#remove-stream-content}
+
+컨텐츠를 제거하거나 보관할 수 있습니다. 스트림 컨텐츠를 제거하는 것과 달리, [보관은 컨텐츠와 연관된 모든 내역을](archive-and-unarchive-stream-content.md) 유지합니다. 일부 컨텐츠의 내역 상태를 그대로 유지하면서 제거할 수 있는 방법은 다음과 같습니다.
+
+1. 마케팅 활동 **으로 이동합니다**.
+
+   ![](assets/login-marketing-activities-1.png)
+
+1. 참여 프로그램을 선택한 다음 스트림 **탭을** 클릭합니다.
+
+   ![](assets/cloneasteam-3.jpg)
+
+1. 제거할 컨텐츠 위로 마우스를 가져간 다음 톱니바퀴 아이콘이 나타나면 아이콘을 클릭하고 **제거를 클릭합니다**.
+
+   ![](assets/image2014-9-15-17-3a38-3a15.png)
+
+   >[!CAUTION]
+   >
+   >내역에 신경 쓰지 않는 경우에만 컨텐츠를 제거할 수 있습니다. 기록을 보존하려면 대신 [보관하십시오](archive-and-unarchive-stream-content.md) .
+
+   바로 그거야! 이제 컨텐츠를 제거하는 방법을 알 수 있습니다.
+
