@@ -2,9 +2,9 @@
 title: my token-actions-edit-delete-clone-and-copy-token-names
 description: 내 토큰 작업 토큰 이름 편집, 삭제, 복제 및 복사
 translation-type: tm+mt
-source-git-commit: 642fd57105afff1031f18883c5809206f136b7c6
+source-git-commit: d2195ba23fb1241b54b493d625c50aa4c1704845
 workflow-type: tm+mt
-source-wordcount: '186'
+source-wordcount: '183'
 ht-degree: 0%
 
 ---
@@ -50,6 +50,6 @@ ht-degree: 0%
 
 ## 토큰 이름 복사
 
-토큰의 이름을 클립보드로 복사하려면(예: {{my.Event Calendar File}) 토큰을 마우스 오른쪽 단추로 클릭하고 [토큰 이름 [!UICONTROL **복사]를 선택합니다**].
+토큰의 이름을 클립보드로 복사하려면(예: `{{my.Event Calendar File}}`) 토큰을 마우스 오른쪽 단추로 클릭하고 토큰 이름 **복사를 선택합니다**.
 
 ![이미지 7](/help/sky/assets/my-tokens/my-token-actions-edit-delete-clone-and-copy-token-names/my-token-actions-edit-delete-clone-and-copy-token-names-7.png)
