@@ -1,0 +1,71 @@
+---
+unique-page-id: 2359798
+description: 추가 랜딩 페이지 CNAME 추가 - 마케팅 문서 - 제품 설명서
+title: 추가 랜딩 페이지 CNAME 추가
+translation-type: tm+mt
+source-git-commit: 00887ea53e395bea3a11fd28e0ac98b085ef6ed8
+workflow-type: tm+mt
+source-wordcount: '244'
+ht-degree: 0%
+
+---
+
+
+# 추가 랜딩 페이지 CNAME 추가 {#add-additional-landing-page-cnames}
+
+다른 URL이 Marketing To 랜딩 페이지를 가리키도록 하기 위해 랜딩 페이지 CNAME을 추가할 수 있습니다. 아래 단계를 수행하면 여러 도메인을 관리하는 데 도움이 됩니다.
+
+>[!CAUTION]
+>
+>도메인 간에 쿠키를 공유할 수 없습니다.
+
+>[!TIP]
+>
+>**동일한 최상위 도메인 - 좋습니다! 쿠키는 shared.go**.mycompany.com > **info**.mycompany.com다른 최상위 도메인 -**잘못됨! 쿠키는 공유되지 않습니다.**
+>가세요&#x200B;**mycompany**.com > go.**mynewcompany**.com
+
+>[!NOTE]
+>
+>**관리자 권한 필요**
+
+## 계정 문자열 찾기 {#find-your-account-string}
+
+1. 관리 **영역으로** 이동하고 **랜딩 페이지를 클릭합니다**.
+
+   ![](assets/image2014-9-16-15-3a19-3a54.png)
+
+1. 설정 **섹션에서 계정 문자열** 을 **복사합니다** .
+
+   ![](assets/image2014-9-16-15-3a20-3a2.png)
+
+1. 다음 단계를 위해 메모해 두십시오.
+
+## IT로 요청 보내기 {#send-request-to-it}
+
+1. 다음 CNAME을 설정하도록 IT 부서에 요청합니다.(CNAME 단어 [를] 선택한 CNAME으로 바꾸고 [계정 문자열을] 이전 단계의 텍스트로 바꿉니다.)
+
+   [CNAME].YourCompany.com > [ACCOUNT STRING].mktoweb.com
+
+## 새 CNAME 추가 {#add-a-new-cname}
+
+1. IT 부서에서 CNAME을 만들면 **관리자로 이동한** 다음 **랜딩 페이지를 클릭합니다**.
+
+   ![](assets/image2014-9-16-15-3a20-3a20.png)
+
+1. 새로 **만들기를** 클릭한 다음 **새 도메인 별칭을 선택합니다**.
+
+   ![](assets/image2014-9-16-15-3a20-3a28.png)
+
+1. 도메인 **별칭을 입력합니다.** 방문자가 **URL을 입력하지** 않으면 기본 페이지가 표시됩니다. 해당 케이스의 위치를 입력하십시오.
+
+   >[!NOTE]
+   >
+   >기본 페이지의 경우, 랜딩 페이지나 공개 웹 사이트와 같은 외부 URL을 선택할 수 있습니다.
+
+   ![](assets/image2014-9-16-15-3a20-3a36.png)
+
+1. 기본 페이지 **를** 입력하고 만들기를 **클릭합니다**.
+
+   ![](assets/image2014-9-16-15-3a20-3a43.png)
+
+좋아! 이제 CNAME을 추가하고 싶은 경우 어떻게 해야 할지 알 수 있습니다.
