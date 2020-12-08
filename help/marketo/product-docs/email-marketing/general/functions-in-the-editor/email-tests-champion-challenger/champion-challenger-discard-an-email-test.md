@@ -1,0 +1,43 @@
+---
+unique-page-id: 2359587
+description: Champion/Challenger -이메일 테스트 취소 - Marketing Docs - 제품 설명서
+title: Champion/Challenger -이메일 테스트 취소
+translation-type: tm+mt
+source-git-commit: 96cc6a30c63c8e8dca793a52e4bf7ecaef8c08dc
+workflow-type: tm+mt
+source-wordcount: '90'
+ht-degree: 0%
+
+---
+
+
+# 챔피언/도전자:이메일 테스트 취소 {#champion-challenger-discard-an-email-test}
+
+이메일 테스트를 계속 실행하지 않으려는 경우 언제든지 취소할 수 있습니다. 방법
+
+>[!NOTE]
+>
+>**사전 요구 사항**
+>
+>* [챔피언/도전자:이메일 테스트 승인](champion-challenger-approve-your-email-test.md)
+
+>
+
+
+
+1. 마케팅 활동 **으로 이동합니다**.
+
+   ![](assets/login-marketing-activities-3.png)
+
+1. 이메일 테스트를 찾아 마우스 오른쪽 단추로 클릭한 다음 테스트 **취소를 클릭합니다**.
+
+   ![](assets/champion5.jpg)
+
+1. 삭제를 **클릭하여** 확인합니다.
+
+   ` ![](assets/image2014-9-15-14-3a17-3a11.png)
+
+   `
+
+   이제 끝났어요! 테스트를 다시 설정할 것인지 여부를 결정했다면 계속해서 이메일 챔피언/도전자 [를 추가합니다](add-an-email-champion-challenger.md).
+
