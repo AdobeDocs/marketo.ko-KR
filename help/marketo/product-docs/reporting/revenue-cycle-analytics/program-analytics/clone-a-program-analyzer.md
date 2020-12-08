@@ -1,0 +1,50 @@
+---
+unique-page-id: 11383877
+description: 프로그램 분석기 복제 - 마케팅 문서 - 제품 설명서
+title: 프로그램 분석기 복제
+translation-type: tm+mt
+source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+workflow-type: tm+mt
+source-wordcount: '112'
+ht-degree: 0%
+
+---
+
+
+# 프로그램 분석기 복제 {#clone-a-program-analyzer}
+
+분석기를 저장한 후에는 복제하여 새 분석기를 만들 수 있습니다. 그런 다음, 새 내용을 변경해야 할 경우 해당 위치로 이동하여 편집합니다.
+
+1. **Analytics **타일을 클릭합니다.
+
+   ![](assets/2017-05-01-08-20-37.png)
+
+1. 프로그램 분석기 **타일을** 클릭합니다.
+
+   ![](assets/program-analyzer-icon-hand.png)
+
+1. 저장된 분석기가 열려 있는 동안 Analyzer 작업 드롭다운을 열고 **클론 분석기를 선택합니다**.
+
+   ![](assets/image2016-10-31-16-3a12-3a6.png)
+
+1. 클론 대상 및 폴더 **드롭다운에서 복제된 분석기** 위치를 **** 선택합니다.
+
+   ![](assets/image2016-10-31-16-3a13-3a42.png)
+
+1. 복제된 분석기의 이름을 지정하고 복제를 **클릭합니다**.
+
+   ![](assets/image2016-10-31-16-3a15-3a15.png)
+
+1. 자, 여러분은 이름이 다른 두 개의 동일한 분석기를 가지고 있습니다. 클론을 열어 필요한 사항을 변경합니다.
+
+   ![](assets/image2016-10-31-16-3a17-3a11.png)
+
+   >[!NOTE]
+   >
+   >**관련 문서**
+   >
+   >    
+   >    
+   >    * [프로그램 분석기 만들기](create-a-program-analyzer.md)
+
+
