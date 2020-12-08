@@ -1,0 +1,37 @@
+---
+unique-page-id: 2360295
+description: 모든 마케팅 API 필드 이름 목록 내보내기 - 마케팅 문서 - 제품 설명서
+title: 모든 마케팅 API 필드 이름 목록 내보내기
+translation-type: tm+mt
+source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+workflow-type: tm+mt
+source-wordcount: '101'
+ht-degree: 0%
+
+---
+
+
+# 모든 마케팅 API 필드 이름 목록 내보내기 {#export-a-list-of-all-marketo-api-field-names}
+
+SOAP API 또는 Munchkin API를 사용하는 경우 모든 필드 및 해당 API 이름 목록이 필요합니다. 이 목록을 얻는 방법
+
+>[!NOTE]
+>
+>**관리자 권한 필요**
+
+1. 관리자로 **이동하고** 필드 **관리를 클릭합니다**.
+
+   ![](assets/image2014-9-24-14-3a4-3a54.png)
+
+1. 필드 **이름 내보내기를** 클릭하여 스프레드시트를 다운로드합니다.
+
+   ![](assets/image2014-9-24-14-3a5-3a6.png)
+
+좋아! 이제 모든 필드 및 API 이름 목록이 포함된 스프레드시트가 있습니다.
+
+![](assets/image2014-9-24-14-3a5-3a19.png)
+
+>[!NOTE]
+>
+>MLM API 이름의 문자 제한은 255자입니다.
+
