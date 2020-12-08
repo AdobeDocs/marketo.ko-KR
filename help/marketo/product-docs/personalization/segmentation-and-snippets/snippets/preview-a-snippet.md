@@ -1,0 +1,47 @@
+---
+unique-page-id: 2359498
+description: 코드 조각 미리 보기 - 마케팅 문서 - 제품 설명서
+title: 코드 조각 미리 보기
+translation-type: tm+mt
+source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+workflow-type: tm+mt
+source-wordcount: '62'
+ht-degree: 0%
+
+---
+
+
+# 코드 조각 미리 보기 {#preview-a-snippet}
+
+>[!NOTE]
+>
+>**사전 요구 사항**
+>
+>* [코드 조각에 컨텐츠 추가](add-content-to-a-snippet.md)
+
+>
+
+
+
+코드 조각은 세그멘테이션 규칙에 따라 변경되는 동적 컨텐츠 블록입니다.
+
+1. Design **Studio로 이동합니다.**
+
+   ![](assets/designstudio-3.png)
+
+1. 코드 조각을 클릭한 다음 코드 조각 **미리 보기를 클릭합니다**.
+
+   ![](assets/image2014-9-16-9-3a48-3a32.png)
+
+미리 보기는 각 세그먼트에서 콘텐츠가 올바로 표시되는지 확인하는 데 유용합니다.
+
+>[!NOTE]
+>
+>**관련 문서**
+>
+>* [코드 조각 승인](approve-a-snippet.md)
+
+>
+
+
+
