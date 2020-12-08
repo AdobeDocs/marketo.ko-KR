@@ -1,0 +1,47 @@
+---
+unique-page-id: 1146976
+description: 대기 흐름 단계에서 특정 날짜 사용 - Marketing To Docs - 제품 설명서
+title: 대기 흐름 단계에서 특정 날짜 사용
+translation-type: tm+mt
+source-git-commit: 00887ea53e395bea3a11fd28e0ac98b085ef6ed8
+workflow-type: tm+mt
+source-wordcount: '111'
+ht-degree: 0%
+
+---
+
+
+# 대기 흐름 단계에서 특정 날짜 사용 {#use-a-specific-date-in-a-wait-flow-step}
+
+대기 **** 흐름 단계를 사용하여 특정 날짜까지 스마트 캠페인을 통해 한 사람의 이동을 일시 중지할 수 있습니다.
+
+1. 스마트 캠페인 흐름 **탭에서** 대기 **흐름** 단계 위로드래그합니다.
+
+   ![](assets/image2014-9-22-11-3a50-3a55.png)
+
+   오른쪽에 있는 톱니바퀴 아이콘을 클릭합니다.
+
+   ![](assets/image2014-9-22-11-3a50-3a59.png)
+
+   유형 드롭다운에서 날짜를 선택합니다.
+
+   ![](assets/image2014-9-22-11-3a51-3a27.png)
+
+   다시 시작할 특정 날짜를 선택합니다.
+
+   ![](assets/image2014-9-22-11-3a51-3a20.png)
+
+   시간(선택 사항)을 지정하고 저장을 클릭합니다.
+   ![](assets/image2014-9-22-11-3a51-3a13.png)
+
+>[!NOTE]
+>
+>**관련 문서**
+>
+>* [대기 흐름 단계에서 지속 시간 사용](use-a-duration-in-a-wait-flow-step.md)
+>* [대기 흐름 단계에서 날짜 토큰 사용](use-a-date-token-in-a-wait-flow-step.md)
+
+>
+
+
+
