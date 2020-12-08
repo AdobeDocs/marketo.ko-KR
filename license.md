@@ -1,5 +1,5 @@
 ---
-source-git-commit: 394be8f9a301fae26dbe3d397623eb2921b8fbf1
+source-git-commit: 0dbdb1f26a4dcf59f351511b072a6385935de86f
 workflow-type: tm+mt
 translation-type: tm+mt
 source-wordcount: '170'
@@ -8,7 +8,7 @@ ht-degree: 0%
 ---
 # MIT 라이센스
 
-Copyright 2018 Adobe. 모든 권리 보유.
+Copyright 2020 Adobe. 모든 권리 보유.
 
 본 소프트웨어 및 관련 문서 파일(&quot;소프트웨어&quot;)의 카피를 받은 사람에게는, 다음 조건에 따라, 소프트웨어를 사용, 복사, 수정, 병합, 출판, 배포, 서브라이센스 및/또는 판매할 수 있는 권리를 비롯하여, 소프트웨어에 대한 제한 없이 거래를 할 수 있는 권한, 그리고 소프트웨어를 제공한 사람에게 허용할 수 있는 권한(&quot;소프트웨어&quot;)이 무료로 부여됩니다.
 
