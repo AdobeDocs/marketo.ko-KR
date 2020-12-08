@@ -1,0 +1,47 @@
+---
+unique-page-id: 2359463
+description: 코드 조각 승인 - 마케팅 문서 - 제품 설명서
+title: 코드 조각 승인
+translation-type: tm+mt
+source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+workflow-type: tm+mt
+source-wordcount: '60'
+ht-degree: 0%
+
+---
+
+
+# 코드 조각 승인 {#approve-a-snippet}
+
+>[!NOTE]
+>
+>**사전 요구 사항**
+>
+>* [코드 조각에 컨텐츠 추가](add-content-to-a-snippet.md)
+
+>
+
+
+
+코드 조각을 사용하려면 먼저 승인해야 합니다.
+
+1. ** Design Studio로 이동합니다.**
+
+   ![](assets/image2014-9-16-8-3a55-3a15.png)
+
+1. 코드 조각 **을**&#x200B;클릭한 다음 코드 조각 작업 아래에서&#x200B;**승인을** **클릭합니다**.
+
+   ![](assets/image2014-9-16-8-3a55-3a24.png)
+
+바로 그거야! 코드 조각의 상태가 초안에서 승인됨으로 변경됩니다.
+
+>[!NOTE]
+>
+>**관련 문서**
+>
+>* [초안 없는 코드 조각 승인](approve-a-snippet-with-no-draft.md)
+
+>
+
+
+
