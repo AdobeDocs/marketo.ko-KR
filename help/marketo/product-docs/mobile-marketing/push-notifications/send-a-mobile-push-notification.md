@@ -1,0 +1,57 @@
+---
+unique-page-id: 7512457
+description: 모바일 푸시 알림 전송 - Marketing Docs - 제품 설명서
+title: 모바일 푸시 알림 보내기
+translation-type: tm+mt
+source-git-commit: c33b7ab59e612f37d3f64bb954579700dc574068
+workflow-type: tm+mt
+source-wordcount: '99'
+ht-degree: 0%
+
+---
+
+
+# 모바일 푸시 알림 보내기 {#send-a-mobile-push-notification}
+
+모바일 앱을 사용하는 사람에게 푸시 알림을 보냅니다.
+
+>[!NOTE]
+>
+>**사전 요구 사항**
+>
+>* [새 스마트 캠페인 만들기](../../../product-docs/core-marketo-concepts/smart-campaigns/creating-a-smart-campaign/create-a-new-smart-campaign.md)
+>* [푸시 알림 만들기](create-a-push-notification.md)
+
+>
+
+
+
+1. 마케팅 활동 **영역으로** 이동합니다.
+
+   ![](assets/image2015-4-22-18-3a31-3a54.png)
+
+1. 스마트 캠페인을 선택하고 **스마트 목록을 클릭합니다**.
+
+   ![](assets/image2015-4-23-17-3a57-3a46.png)
+
+1. 스마트 목록을 정의한 다음 **흐름을 클릭합니다.**
+
+   ![](assets/image2015-4-22-18-3a33-3a13.png)
+
+1. 푸시 알림을 선택합니다. 예약을 **클릭합니다**
+
+   ![](assets/image2015-4-22-18-3a33-3a38.png)
+
+   >[!NOTE]
+   >
+   >푸시 알림이 드롭다운에 표시되기 전에 승인되어야 합니다.
+
+1. 한 번 **실행을 클릭합니다.**
+
+   ![](assets/image2015-4-23-18-3a0-3a54.png)
+
+1. 날짜와 시간을 선택합니다. 저장을 **클릭합니다.**
+
+   ![](assets/image2015-4-23-18-3a1-3a33.png)
+
+뒤로 물러나 푸시 알림이 전송될 때까지 기다리십시오.
