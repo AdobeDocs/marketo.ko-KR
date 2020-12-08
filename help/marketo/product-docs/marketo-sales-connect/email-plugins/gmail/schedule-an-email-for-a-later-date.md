@@ -1,0 +1,27 @@
+---
+unique-page-id: 14352441
+description: 나중에 보내도록 이메일 예약 - 마케팅 문서 - 제품 설명서
+title: 나중에 보내도록 이메일 예약
+translation-type: tm+mt
+source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+workflow-type: tm+mt
+source-wordcount: '141'
+ht-degree: 0%
+
+---
+
+
+# 나중에 보내도록 이메일 예약 {#schedule-an-email-for-a-later-date}
+
+Gmail에서 이메일을 예약하려면 다음 단계를 따르십시오.
+
+1. 이메일을 작성할 때 [예약] **단추를** 클릭합니다.
+1. 이메일을 보낼 시간을 선택할 수 있는 창이 나타납니다.
+1. 나중에 보내도록 선택하면 선택한 시간으로 단추가 업데이트됩니다.
+1. 이메일을 예약하면 Gmail의 **초안** 폴더에 [예약된 이메일 **보내기]라는 레이블이**&#x200B;있는것으로 나타납니다.
+1. 초안을 열면 이메일의 내용을 편집할 수 있지만 **예약** 을 다시 클릭하고 예약 시간을 다시 선택한 다음 [시간 **취소]를 클릭합니다**.
+
+   >[!NOTE]
+   >
+   >언제든지 [웹 애플리케이션의 **Scheduled **폴더에서 예약된 이메일을 확인할 수 있습니다.](http://toutapp.com/login)
+
