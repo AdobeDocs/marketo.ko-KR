@@ -1,0 +1,93 @@
+---
+unique-page-id: 557339
+description: 중복 사용자 찾기 및 병합 - 마케팅 문서 - 제품 설명서
+title: 중복 사용자 찾기 및 병합
+translation-type: tm+mt
+source-git-commit: 23428a6e0ba9b2108a8f2f7dd6a69929dd069834
+workflow-type: tm+mt
+source-wordcount: '481'
+ht-degree: 0%
+
+---
+
+
+# 중복 사용자 찾기 및 병합 {#find-and-merge-duplicate-people}
+
+Marketing to는 새 사용자가 시스템에 들어올 때 자동으로 중복 제거 기능을 제공합니다. 그러나 CRM에서 처음에 중복 항목을 Marketing To로 전송했을 수 있습니다. 이를 병합하는 방법을 소개합니다.
+
+>[!NOTE]
+>
+>**FYI**
+>
+>Marketing은 이제 모든 구독 간의 언어를 표준화하므로 구독에 리드/리드 및 docs.markto.com에 있는 사람/사람을 볼 수 있습니다. 이 용어는 같은 것을 의미한다.아티클 지침에는 영향을 주지 않습니다. 다른 변화도 있습니다 [자세한](http://docs.marketo.com/display/DOCS/Updates+to+Marketo+Terminology)내용
+
+>[!NOTE]
+>
+>Salesforce 또는 Microsoft Dynamics 동기화에 대해 또는 수동으로 사람을 입력할 때 Marketing To는 자동으로 중복 제거 기능을 제공하지 않습니다.
+
+>[!NOTE]
+>
+>**사전 요구 사항**
+>
+>중복 항목을 찾아 병합하면 [내장된/시스템 스마트 목록이 사용됩니다](../../../../product-docs/core-marketo-concepts/smart-lists-and-static-lists/using-smart-lists/use-built-in-system-smart-lists.md).
+
+## 중복 항목 찾기 {#find-duplicates}
+
+1. 데이터베이스 **영역으로** 이동합니다.
+
+   ![](assets/db.png)
+
+   >[!CAUTION]
+   >
+   >Salesforce 개인 계정을 사용하는 경우 Marketing에서 사람을 병합하면 작동하지 않을 수 있습니다. 가능한 경우 Salesforce의 기록을 병합하십시오.
+
+1. 가능한 중복 **시스템****** 스마트 목록을 **선택하고** 사람탭을클릭합니다.
+
+   ![](assets/two.png)
+
+   >[!NOTE]
+   >
+   >사용자 지정 [로직을 사용하여 중복 사용자를 찾을 수도 있습니다](find-duplicate-people-with-custom-logic.md).
+
+## 수동으로 사람 병합 {#merge-people-manually}
+
+>[!CAUTION]
+>
+>사람을 병합할 때, 유실된 사람에게 Marketing 사용자 지정 개체가 있으면, 이 개체가 우승자와 다시 연결되어 **되지 않습니다** . 병합을 수행하기 전에 사용자 지정 개체를 다시 부모하십시오.
+
+Ctrl/Cmd를 누른 상태에서 클릭하여 중복 항목을 선택한 다음 사람 병합을 클릭합니다.
+![](assets/three.png)
+
+>[!TIP]
+>
+>동일한 사용자에 대해 두 개 이상의 중복 항목이 있을 수 있습니다. 한 번에 모두 선택하십시오.
+
+1. 일치하지 *않는 레코드 사이의 값이* 표시됩니다. 각 필드에 유지할 값을 선택합니다. 완료되면 **병합** 을 클릭합니다. 두 값 중 하나를 원하지 않는 경우 **사용자** 지정을 선택하고 원하는 값을 입력할 수 있습니다.
+
+   ![](assets/four.png)
+
+   >[!NOTE]
+   >
+   >수동으로 사람을 병합하면 첫 번째로 선택한 사람이 &quot;우승자&quot;가 됩니다. 198과 199의 레코드 ID를 병합하는 경우 [인물] 탭에서 199를 먼저 클릭하면 199가 병합된 사람의 레코드 ID가 됩니다. 두 개 이상의 레코드가 병합된 경우에도 적용됩니다.
+
+   >[!TIP]
+   >
+   >병합은 삭제하는 것보다 낫습니다. 모든 내역(페이지 방문, 링크 클릭, 이메일 열기, 양식 채우기 등)을 보존합니다.
+
+## Salesforce의 효과 {#effect-in-salesforce}
+
+Salesforce와의 통합을 통해 Salesforce의 리드 병합에 대한 몇 가지 사항이 있습니다.
+
+    * 리드만 병합하거나 연락처만 병합하는 경우 일반 Salesforce 규칙별로 병합됩니다.
+    * 리드 및 연락처를 병합할 때 모든 리드는 일반적인 Salesforce 규칙에 따라 병합되기 전에 연락처로 변환됩니다.
+
+리드 또는 연락처를 병합할 때 Salesforce 동작에 대한 자세한 내용은 다음 Salesforce 문서를 확인하십시오.
+
+    * [중복 리드 병합](https://help.salesforce.com/HTViewHelpDoc?id=leads_merge.htm&amp;language=en_US)
+    * [중복 연락처 병합](https://help.salesforce.com/HTViewHelpDoc?id=contacts_merge.htm&amp;language=en_US)
+
+## 벌크 병합 {#bulk-merging}
+
+수동으로 병합할 중복 항목이 너무 많으면 고객 성공 관리자에게 문의하여 옵션에 대해 상담하십시오.
+
+수퍼! CRM에 연결되어 있으면 레코드가 아래 규칙에 따라 병합됩니다.
