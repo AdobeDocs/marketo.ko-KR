@@ -1,0 +1,100 @@
+---
+unique-page-id: 2359971
+description: 웹 페이지 활동 보고서 - 마케팅 문서 - 제품 설명서
+title: 웹 페이지 활동 보고서
+translation-type: tm+mt
+source-git-commit: 1a29614ec938074902af201b2ffc11cfaa625f7a
+workflow-type: tm+mt
+source-wordcount: '350'
+ht-degree: 0%
+
+---
+
+
+# 웹 페이지 활동 보고서 {#web-page-activity-report}
+
+이 보고서에서는 웹 사이트를 방문하는 사용자가 누구인지 확인하고 이메일 버전의 보고서를 구독할 수도 있습니다.
+
+알려진 사람 또는 익명 사용자를 표시하도록 선택할 수 있지만 동일한 보고서에서 두 종류 모두 표시할 수는 없습니다.
+
+>[!NOTE]
+>
+>**사전 요구 사항**
+>
+>* [웹 사이트에 문킨 추적 코드 추가](../../../../product-docs/administration/additional-integrations/add-munchkin-tracking-code-to-your-website.md)
+
+
+1. [보고서를](../../../../product-docs/reporting/basic-reporting/creating-reports/create-a-report-in-a-program.md)만들고** 웹 페이지 활동 보고서** [보고서 유형을 선택합니다](report-type-overview.md).
+1. 보고서에 [알려진 사람](../../../../product-docs/reporting/basic-reporting/report-activity/display-people-or-anonymous-visitors-in-web-reports.md) 또는 익명 사람을 표시하도록 선택합니다.
+1. [보고서](../../../../product-docs/reporting/basic-reporting/editing-reports/change-a-report-time-frame.md) 기간을 설정하고 **보고서** 탭을 클릭합니다.
+1. 됐다! 보고서를 검토하여 사이트를 방문하는 사람을 확인합니다.
+
+   ![](assets/image2017-3-29-9-3a21-3a36.png)
+
+   >[!NOTE]
+   >
+   >데이터가 웹 페이지 활동 보고서에 반영되는 데 최대 24시간이 걸릴 수 있습니다.
+
+   >[!TIP]
+   >
+   >사이트를 가장 많이 방문한 사용자를 찾으려면 [페이지 보기 열](../../../../product-docs/reporting/basic-reporting/editing-reports/sort-report-on-columns.md) 에 보고서를 [](../../../../product-docs/reporting/basic-reporting/editing-reports/sort-report-on-columns.md)정렬하고 *내림차순* 정렬을선택합니다.
+
+   [Marketing to는 익명](../../../../product-docs/reporting/basic-reporting/report-activity/tracking-anonymous-activity-and-people.md) 웹 사이트 방문자를 데이터베이스에 추가하고 이 보고서에 표시하도록 선택할 수 있습니다. 익명이 아니어도 정보가 풍부하다.\
+   [웹 페이지 활동 보고서에 대해 선택할](../../../../product-docs/reporting/basic-reporting/editing-reports/select-report-columns.md) 수 있는 열은 다음과 같습니다.
+
+<table> 
+ <thead> 
+  <tr> 
+   <th>열</th> 
+   <th>설명</th> 
+  </tr> 
+ </thead> 
+ <tbody> 
+  <tr> 
+   <td>사용자</td> 
+   <td>방문자의 이름, 제목 및 회사입니다.<br><strong>개인 세부 사항 및 활동 내역을 보려면 을 클릭합니다</strong> .</td> 
+  </tr> 
+  <tr> 
+   <td>첫 번째/마지막 방문(시간대)</td> 
+   <td>이 회사의 모든 사용자가 처음/마지막으로 방문한 날짜 및 시간입니다.</td> 
+  </tr> 
+  <tr> 
+   <td>페이지 보기 횟수</td> 
+   <td>이 방문자가 로드한 페이지 수입니다.<br><strong><a href="web-page-activity-report/web-pages-viewed-web-page-activity-report.md">방문한 페이지를 보려면 클릭하십시오</a></strong> .</td> 
+  </tr> 
+  <tr> 
+   <td>HTTP Referer</td> 
+   <td>방문자가 페이지로 이동했던 링크가 포함된 페이지의 URL입니다.</td> 
+  </tr> 
+  <tr> 
+   <td>시작 페이지</td> 
+   <td>방문자가 방문한 첫 페이지 </td> 
+  </tr> 
+  <tr> 
+   <td>유추 회사 또는 ISP</td> 
+   <td>방문자의 IP 주소로 유추된 회사. <strong>굵게</strong> 표시된 이름은 ISP가 아니라 회사임을 나타냅니다. </td> 
+  </tr> 
+  <tr> 
+   <td>유추 국가, 주/지역 및 구/군/시</td> 
+   <td>IP 주소로부터 유추되는 방문자의 지리적 위치.</td> 
+  </tr> 
+ </tbody> 
+</table>
+
+>[!TIP]
+>
+>세일즈 담당자를 감동시킬 수 있습니다. [영역에](../../../../product-docs/reporting/basic-reporting/editing-reports/filter-people-in-a-report-with-a-smart-list.md)대한 보고서를 필터링하고 [구독합니다](../../../../product-docs/reporting/basic-reporting/report-subscriptions/subscribe-to-a-basic-report.md)!
+
+>[!NOTE]
+>
+>**관련 문서**
+>
+>* [본 웹 페이지, 웹 페이지 활동 보고서](web-page-activity-report/web-pages-viewed-web-page-activity-report.md)
+>* [웹 보고서에 사람 또는 익명 방문자 표시](../../../../product-docs/reporting/basic-reporting/report-activity/display-people-or-anonymous-visitors-in-web-reports.md)
+
+
+>[!NOTE]
+>
+>**딥 다이브**
+>
+>기본 보고의 다른 흥미로운 보고서에 대해 [알아보십시오](http://docs.marketo.com/display/docs/basic+reporting).
