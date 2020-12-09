@@ -3,9 +3,9 @@ unique-page-id: 11377640
 description: Marketing To Outlook 플러그인 승인 - Marketing Docs - 제품 설명서
 title: Marketing To Outlook 플러그인 승인
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '130'
+source-wordcount: '129'
 ht-degree: 0%
 
 ---
@@ -15,9 +15,7 @@ ht-degree: 0%
 
 Outlook에서 Marketing MSI 플러그인을 사용하려면 인증해야 합니다.
 
->[!NOTE]
->
->**사전 요구 사항**
+>[!PREREQUISITES]
 >
 >플러그인은 이미 설치되어 있어야 하며 Marketing Admin에서 플러그인 사용자로 인증되어야 합니다.
 
