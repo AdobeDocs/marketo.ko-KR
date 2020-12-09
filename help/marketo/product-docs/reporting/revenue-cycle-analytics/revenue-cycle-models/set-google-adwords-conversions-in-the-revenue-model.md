@@ -3,9 +3,9 @@ unique-page-id: 6095029
 description: 매출 모델 - Marketing Docs - 제품 문서에서 Google AdWords 전환 설정
 title: 매출 모델에서 Google AdWords 전환 설정
 translation-type: tm+mt
-source-git-commit: 00887ea53e395bea3a11fd28e0ac98b085ef6ed8
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '504'
+source-wordcount: '503'
 ht-degree: 0%
 
 ---
@@ -27,9 +27,7 @@ Google의 [오프라인 전환 가져오기 기능에 대한 자세한 내용을
 
 단계 작업을 사용하는 경우 Marketing에서 새 AdWords 오프라인 전환을 만들 수 있습니다.
 
->[!NOTE]
->
->**사전 요구 사항**
+>[!PREREQUISITES]
 >
 >* [Google AdWords를 LaunchPoint 서비스로 추가](../../../../product-docs/administration/additional-integrations/add-google-adwords-as-a-launchpoint-service.md)
 
