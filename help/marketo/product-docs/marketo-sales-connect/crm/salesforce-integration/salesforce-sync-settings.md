@@ -3,9 +3,9 @@ unique-page-id: 18317669
 description: Salesforce 동기화 설정 - Marketing To Docs - 제품 설명서
 title: Salesforce 동기화 설정
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '439'
+source-wordcount: '437'
 ht-degree: 0%
 
 ---
@@ -17,9 +17,7 @@ ht-degree: 0%
 
 Web Services API를 통해 통합을 구입한 경우 이 기능을 사용하려면 Enterprise/Unlimited edition of Salesforce 또는 Professional 에디션에 있어야 합니다.
 
->[!NOTE]
->
->**사전 요구 사항**
+>[!PREREQUISITES]
 >
 >Salesforce 및 Sales Engage는 연결되어 있어야 합니다.
 
@@ -47,9 +45,7 @@ Web Services API를 통해 통합을 구입한 경우 이 기능을 사용하려
 
 &quot;Salesforce에 이메일(BCC)&quot;을 활성화하면 판매 이메일의 숨은 참조 정보가 수신되고 이메일 정보가 기회, 리드 및 연락처에 대한 활동으로 기록됩니다.
 
->[!NOTE]
->
->**사전 요구 사항**
+>[!PREREQUISITES]
 >
 >Salesforce 및 Sales Engage는 연결되어 있어야 합니다.
 
