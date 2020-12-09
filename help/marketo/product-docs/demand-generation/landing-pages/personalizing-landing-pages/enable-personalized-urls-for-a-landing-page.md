@@ -3,9 +3,9 @@ unique-page-id: 2359803
 description: 랜딩 페이지에 대해 개인화된 URL 활성화 - Marketing To Docs - 제품 설명서
 title: 랜딩 페이지에 대해 개인화된 URL 활성화
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '85'
+source-wordcount: '84'
 ht-degree: 0%
 
 ---
@@ -15,9 +15,7 @@ ht-degree: 0%
 
 개인화된 URL은 인쇄 메일 캠페인에 적합합니다.
 
->[!NOTE]
->
->**사전 요구 사항**
+>[!PREREQUISITES]
 >
 >* [계정에 대해 개인화된 URL 활성화](enable-personalized-urls-for-your-account.md)
 
