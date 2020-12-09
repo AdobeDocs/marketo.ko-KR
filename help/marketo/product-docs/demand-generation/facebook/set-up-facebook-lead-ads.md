@@ -3,9 +3,9 @@ unique-page-id: 11379622
 description: Facebook 리드 광고 설정 - 마케팅 문서 - 제품 설명서
 title: Facebook 리드 광고 설정
 translation-type: tm+mt
-source-git-commit: 00887ea53e395bea3a11fd28e0ac98b085ef6ed8
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '307'
+source-wordcount: '305'
 ht-degree: 0%
 
 ---
@@ -81,9 +81,7 @@ Facebook [리드](https://www.facebook.com/business/a/lead-ads) 광고를 사용
 
    ![](assets/image2016-11-29-12-3a32-3a54.png)
 
->[!NOTE]
->
->**관련 문서**
+>[!MORELIKETHIS]
 >
 >* [스마트 캠페인에서 리드 광고 필터 및 트리거 사용](use-lead-ads-filters-and-triggers-in-a-smart-campaign.md)
 >* [사용자 지정 필드를 Marketing에 매핑](set-up-facebook-lead-ads/map-custom-fields-to-marketo.md)
