@@ -3,9 +3,9 @@ unique-page-id: 4718656
 description: 새 매출 모델 만들기 - 마케팅 문서 - 제품 설명서
 title: 새 매출 모델 만들기
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '119'
+source-wordcount: '117'
 ht-degree: 0%
 
 ---
@@ -35,9 +35,7 @@ ht-degree: 0%
 
 예뻐! 당신은 방금 멋진 모델 세계에 진입했습니다.
 
->[!NOTE]
->
->**관련 문서**
+>[!MORELIKETHIS]
 >
 >매출 모델 인벤토리 단계 [사용에 대해 자세히 알아보십시오](using-revenue-model-inventory-stages.md).
 
