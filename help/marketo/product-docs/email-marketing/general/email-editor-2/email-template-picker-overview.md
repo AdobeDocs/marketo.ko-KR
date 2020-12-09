@@ -3,9 +3,9 @@ unique-page-id: 10912237
 description: 이메일 템플릿 선택기 개요 - 마케팅 문서 - 제품 설명서
 title: 이메일 템플릿 선택기 개요
 translation-type: tm+mt
-source-git-commit: f27e2bac90570f9f795dc6bdd5fcf208c446be14
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '345'
+source-wordcount: '343'
 ht-degree: 0%
 
 ---
@@ -65,9 +65,7 @@ Design Studio 트리의 이메일 > 템플릿 아래에 표시되는 모든 폴�
 
 예쁘다!
 
->[!NOTE]
->
->**관련 문서**
+>[!MORELIKETHIS]
 >
 >* [이메일 템플릿 구문](email-template-syntax.md)
 >* [이메일 만들기](../../../../product-docs/email-marketing/general/creating-an-email/create-an-email.md)
