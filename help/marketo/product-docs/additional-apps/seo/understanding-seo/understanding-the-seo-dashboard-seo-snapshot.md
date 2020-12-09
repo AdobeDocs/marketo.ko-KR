@@ -3,9 +3,9 @@ unique-page-id: 2949178
 description: SEO 대시보드 이해 -SEO 스냅샷 - Marketing Docs - 제품 설명서
 title: SEO 대시보드 이해 -SEO 스냅샷
 translation-type: tm+mt
-source-git-commit: 96cc6a30c63c8e8dca793a52e4bf7ecaef8c08dc
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '255'
+source-wordcount: '253'
 ht-degree: 0%
 
 ---
@@ -61,9 +61,7 @@ SEO 노력을 개선하기 위해 주력할 사항을 알아보려면 이 대시
 
 진정해, 그렇지? 이제 이 대시보드의 Recommendations 섹션을 확인해 보겠습니다.
 
->[!NOTE]
->
->**관련 문서**
+>[!MORELIKETHIS]
 >
 >* [대시보드 이해:SEO Recommendations](understanding-the-seo-dashboard-seo-recommendations.md)
 
