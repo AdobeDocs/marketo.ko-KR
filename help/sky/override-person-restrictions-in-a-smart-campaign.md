@@ -2,9 +2,9 @@
 title: miride-person-restrictions-in-a-smart-campaign
 description: 스마트 캠페인에서 개인 제한 무시
 translation-type: tm+mt
-source-git-commit: 642fd57105afff1031f18883c5809206f136b7c6
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '139'
+source-wordcount: '130'
 ht-degree: 0%
 
 ---
@@ -20,11 +20,11 @@ Marketing을 사용하면 스마트 캠페인에 활용할 수 있는 최대 사
 >
 >Marketing [에서 스마트 캠페인에 대한 사용자](https://docs.marketo.com/display/DOCS/Enable+Person+Restrictions+for+Smart+Campaigns) 제한을 활성화해야 합니다 [!UICONTROL Admin].
 
-1. 스마트한 캠페인을 찾아 예약을 [!UICONTROL **클릭합니다**].
+1. 스마트한 캠페인을 찾아 클릭합니다 **[!UICONTROL Schedule]**.
 
    ![이미지 원](/help/sky/assets/smart-campaigns/override-person-restrictions-in-a-smart-campaign/override-person-restrictions-in-a-smart-campaign-1.png)
 
-1. 검증 [!UICONTROL **규칙을 클릭합니다**].
+1. 을 **[!UICONTROL Qualification Rules]**&#x200B;클릭합니다.
 
    ![이미지 2](/help/sky/assets/smart-campaigns/override-person-restrictions-in-a-smart-campaign/override-person-restrictions-in-a-smart-campaign-2.png)
 
@@ -32,7 +32,7 @@ Marketing을 사용하면 스마트 캠페인에 활용할 수 있는 최대 사
    >
    >기본 제한은 관리자에 설정된 것입니다.
 
-1. 자격이 [!UICONTROL **있는 리드가 초과되는**]&#x200B;경우 캠페인 중단 옆에 새 제한을 입력합니다.
+1. 옆에 **[!UICONTROL Abort campaign if qualified leads exceed]**&#x200B;새 제한을 입력합니다.
 
    ![이미지 3](/help/sky/assets/smart-campaigns/override-person-restrictions-in-a-smart-campaign/override-person-restrictions-in-a-smart-campaign-3.png)
 
