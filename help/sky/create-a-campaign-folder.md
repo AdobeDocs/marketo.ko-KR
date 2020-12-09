@@ -2,9 +2,9 @@
 title: create-a-campaign-folder
 description: 캠페인 폴더 만들기
 translation-type: tm+mt
-source-git-commit: cd1b7e65c73de0b31f20289402f1c0832c382b33
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '124'
+source-wordcount: '120'
 ht-degree: 0%
 
 ---
@@ -16,7 +16,7 @@ ht-degree: 0%
 
 캠페인 폴더를 사용하면 깔끔한 작업 영역을 유지할 수 있습니다. 이 간단한 단계를 따라 자동화를 실현하십시오.
 
-1. 작업 공간 지구본이나 기존 폴더를 마우스 오른쪽 단추로 클릭하고 [!UICONTROL **새 캠페인 폴더를 선택합니다**].
+1. 작업 공간 지구본이나 기존 폴더를 마우스 오른쪽 단추로 클릭하고 선택합니다 **[!UICONTROL New Campaign Folder]**.
 
    ![이미지 원](/help/sky/assets/campaign-folders/create-a-campaign-folder/create-a-campaign-folder-1.png)
 
@@ -24,7 +24,7 @@ ht-degree: 0%
 
    ![이미지 원](/help/sky/assets/campaign-folders/create-a-campaign-folder/create-a-campaign-folder-2.png)
 
-1. 필요에 따라 캠페인 폴더에 설명 및/또는 레이블을 추가할 수 있습니다. 기존 폴더 내에 캠페인 폴더를 만드는 경우 상위 자산에서 레이블을 복사할 수도 있습니다. 만들기를 [!UICONTROL **클릭합니다**].
+1. 필요에 따라 캠페인 폴더에 설명 및/또는 레이블을 추가할 수 있습니다. 기존 폴더 내에 캠페인 폴더를 만드는 경우 상위 자산에서 레이블을 복사할 수도 있습니다. 을 **[!UICONTROL Create]**&#x200B;클릭합니다.
 
    ![이미지 원](/help/sky/assets/campaign-folders/create-a-campaign-folder/create-a-campaign-folder-3.png)
 
