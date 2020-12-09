@@ -3,9 +3,9 @@ unique-page-id: 2949281
 description: Marketing To Email Add-in 라이센스 - Marketing Docs - 제품 설명서 문제
 title: Marketing To Email Add-in 라이선스 발행
 translation-type: tm+mt
-source-git-commit: 95ca406109e04f56c9846f83cb2c4202bf606518
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '313'
+source-wordcount: '311'
 ht-degree: 0%
 
 ---
@@ -50,9 +50,7 @@ Marketing to Email Outlook Add-in을 사용하려면 먼저 라이선스를 발�
    >
    >세일즈 담당자가 자신의 컴퓨터에 대한 관리자 액세스 권한을 가지고 있는 경우 해당 상자를 선택하면 작업이 완료됩니다.
 
->[!NOTE]
->
->**관련 문서**
+>[!MORELIKETHIS]
 >
 >* [Enterprise 키를 사용하여 Outlook용 Marketing To Add-in 설치](install-the-marketo-add-in-for-outlook-with-an-enterprise-key.md)
 >* [등록 코드가 있는 Outlook용 Marketing To Email 추가 기능 설치](install-the-marketo-email-add-in-for-outlook-with-a-registration-code.md)
