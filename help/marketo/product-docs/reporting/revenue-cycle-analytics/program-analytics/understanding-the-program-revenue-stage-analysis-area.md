@@ -3,9 +3,9 @@ unique-page-id: 7514009
 description: 프로그램 수익 단계 분석 영역 이해 - 마케팅 문서 - 제품 설명서
 title: 프로그램 수익 단계 분석 영역 이해
 translation-type: tm+mt
-source-git-commit: 1c4c4c62215550a09125f76fb76017348aba2bdf
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '420'
+source-wordcount: '418'
 ht-degree: 0%
 
 ---
@@ -151,8 +151,6 @@ Dimension 및 측정은 기능별로 분류되며 시스템에서 노란색 또�
  </tbody> 
 </table>
 
->[!NOTE]
->
->**관련 문서**
+>[!MORELIKETHIS]
 >
 >[매출 탐색기 보고서 만들기](../../../../product-docs/reporting/revenue-cycle-analytics/revenue-explorer/create-a-revenue-explorer-report.md)
