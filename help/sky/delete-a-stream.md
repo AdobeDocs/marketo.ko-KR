@@ -2,9 +2,9 @@
 title: delete-a-stream
 description: 스트림 삭제
 translation-type: tm+mt
-source-git-commit: 642fd57105afff1031f18883c5809206f136b7c6
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '78'
+source-wordcount: '76'
 ht-degree: 0%
 
 ---
@@ -20,7 +20,7 @@ ht-degree: 0%
 
    ![이미지 원](/help/sky/assets/engagement-programs/delete-a-stream/delete-a-stream-1.png)
 
-1. 스트림 [!UICONTROL **탭을**] 클릭합니다.
+1. 탭을 **[!UICONTROL Streams]** 클릭합니다.
 
    ![이미지 2](/help/sky/assets/engagement-programs/delete-a-stream/delete-a-stream-2.png)
 
@@ -29,7 +29,7 @@ ht-degree: 0%
    >스트림을 삭제하면
    >해당 스트림의 콘텐츠
 
-1. 톱니바퀴 아이콘을 클릭한 다음 [!UICONTROL **삭제를 선택합니다**].
+1. 톱니바퀴 아이콘을 클릭한 다음 선택합니다 **[!UICONTROL Delete]**.
 
    ![이미지 3](/help/sky/assets/engagement-programs/delete-a-stream/delete-a-stream-3.png)
 
