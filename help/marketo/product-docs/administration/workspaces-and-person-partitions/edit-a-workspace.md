@@ -3,9 +3,9 @@ unique-page-id: 11380986
 description: 작업 영역 편집 - 마케팅 문서 - 제품 설명서
 title: 작업 공간 편집
 translation-type: tm+mt
-source-git-commit: 00887ea53e395bea3a11fd28e0ac98b085ef6ed8
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '204'
+source-wordcount: '202'
 ht-degree: 0%
 
 ---
@@ -69,9 +69,7 @@ ht-degree: 0%
    >
    >작업 영역 언어는 변경할 수 없습니다.
 
->[!NOTE]
->
->**관련 문서**
+>[!MORELIKETHIS]
 >
 >* [새 작업 공간 만들기](create-a-new-workspace.md)
 >* [작업 영역 및 개인 파티션 이해](understanding-workspaces-and-person-partitions.md)
