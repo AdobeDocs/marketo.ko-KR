@@ -3,9 +3,9 @@ unique-page-id: 10099408
 description: 이메일 인사이트 개요 - 마케팅 문서 - 제품 설명서
 title: 이메일 인사이트 개요
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '214'
+source-wordcount: '212'
 ht-degree: 0%
 
 ---
@@ -59,9 +59,7 @@ Sends [페이지에서](email-insights-sends-overview.md) 최근 이메일 커�
 
 모든 표준 마케팅 차원이 포함되지만 최대 10개의 사용자 지정 차원을 추가할 수 있습니다. [사용자 지정 차원은](custom-dimensions-for-email-insights.md) 세그먼테이션 및 프로그램 태그로 구성됩니다.
 
->[!NOTE]
->
->**관련 문서**
+>[!MORELIKETHIS]
 >
 >* [이메일 인사이트 분석 개요](email-insights-analytics-overview.md)
 >* [이메일 인사이트를 통한 개요](email-insights-sends-overview.md)
