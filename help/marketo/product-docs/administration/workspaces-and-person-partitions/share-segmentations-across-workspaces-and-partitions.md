@@ -3,9 +3,9 @@ unique-page-id: 7515767
 description: 작업 영역 및 분할 영역 간 세그먼트 공유 - 마케팅 문서 - 제품 설명서
 title: 작업 영역 및 분할 영역 간 세그먼트 공유
 translation-type: tm+mt
-source-git-commit: 00887ea53e395bea3a11fd28e0ac98b085ef6ed8
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '484'
+source-wordcount: '483'
 ht-degree: 0%
 
 ---
@@ -13,9 +13,7 @@ ht-degree: 0%
 
 # 작업 영역 및 분할 영역 간 세그먼트 공유 {#share-segmentations-across-workspaces-and-partitions}
 
->[!NOTE]
->
->**사전 요구 사항**
+>[!PREREQUISITES]
 >
 >이 문서는 작업 영역 및 파티션이 있는 고객에게만 해당됩니다.
 
