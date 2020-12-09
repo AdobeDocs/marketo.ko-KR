@@ -2,9 +2,9 @@
 title: set-stream-cadence
 description: 스트림 패턴 설정
 translation-type: tm+mt
-source-git-commit: 642fd57105afff1031f18883c5809206f136b7c6
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '388'
+source-wordcount: '373'
 ht-degree: 0%
 
 ---
@@ -22,11 +22,11 @@ ht-degree: 0%
 
    ![이미지 원](/help/sky/assets/engagement-programs/set-stream-cadence/set-stream-cadence-1.png)
 
-1. [ [!UICONTROL **스트림**] ] 탭을 클릭한 다음 [ [!UICONTROL **범위 설정]을 클릭합니다**].
+1. 탭을 **[!UICONTROL Streams]** 클릭한 다음 을 클릭합니다 **[!UICONTROL Set Cadence]**.
 
    ![이미지 2](/help/sky/assets/engagement-programs/set-stream-cadence/set-stream-cadence-2.png)
 
-1. 케이지가 반복될 빈도를 선택합니다. 주별, [!UICONTROL **월별**]&#x200B;또 [!UICONTROL **는 없음으로**]&#x200B;선택할 수 [!UICONTROL **있습니다**].
+1. 케이지가 반복될 빈도를 선택합니다. 선택 **[!UICONTROL Weekly]**&#x200B;또는 **[!UICONTROL Monthly]**&#x200B;또는 **[!UICONTROL None]**.
 
 >[!NOTE]
 >
@@ -34,7 +34,7 @@ ht-degree: 0%
 
 ## 주별
 
-1. [ [!UICONTROL **주별]을 선택합니다**].
+1. 선택합니다 **[!UICONTROL Weekly]**.
 
    ![이미지 3](/help/sky/assets/engagement-programs/set-stream-cadence/set-stream-cadence-3.png)
 
@@ -52,9 +52,9 @@ ht-degree: 0%
 
    >[!TIP]
    >
-   >반복 횟수를 선택하면 케이지가 매일 실행되도록 설정할 수 [!UICONTROL **있습니다.매주**] / [!UICONTROL **매:1주**] / [!UICONTROL **기준:**] 하루 종일
+   >하루 종일 **[!UICONTROL Repeats: Weekly]** / **[!UICONTROL Every: 1 Week]** 을 골라서 매일 연습할 수 있게 **[!UICONTROL On:]** 한다.
 
-1. 이제 시간을 선택하십시오. 수신자 표준 시간대 [(예: 현지 시간대로](https://docs.marketo.com/display/DOCS/Schedule+Engagement+Programs+with+Recipient+Time+Zone) 배달)를 사용하려면 확인란을 선택한 다음 [!UICONTROL **저장을 클릭합니다**].
+1. 이제 시간을 선택하십시오. 수신자 표준 시간대 [(예: 현지 시간대에 따라 배달)를 사용하려면](https://docs.marketo.com/display/DOCS/Schedule+Engagement+Programs+with+Recipient+Time+Zone) 확인란을 선택하고 을 클릭합니다 **[!UICONTROL Save]**.
 
    ![이미지 7](/help/sky/assets/engagement-programs/set-stream-cadence/set-stream-cadence-7.png)
 
@@ -74,7 +74,7 @@ ht-degree: 0%
 
 ## 월별
 
-1. 반복 횟수 [!UICONTROL **에 대해**] [월별]을 선택합니다.
+1. 반복 횟수 **[!UICONTROL Monthly]** 에 대해 선택합니다.
 
    ![이미지 9](/help/sky/assets/engagement-programs/set-stream-cadence/set-stream-cadence-9.png)
 
@@ -94,7 +94,7 @@ ht-degree: 0%
    >
    >또는 요일을 선택할 수도 있습니다.
 
-1. A를 [!UICONTROL Time] 선택하고 [!UICONTROL **저장을 클릭합니다**].
+1. 한 개 [!UICONTROL Time] 를 선택하고 을 클릭합니다 **[!UICONTROL Save]**.
 
    ![이미지 13](/help/sky/assets/engagement-programs/set-stream-cadence/set-stream-cadence-13.png)
 
