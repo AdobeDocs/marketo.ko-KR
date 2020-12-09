@@ -3,9 +3,9 @@ unique-page-id: 2359537
 description: 랜딩 페이지에 코드 조각 추가 - Marketing Docs - 제품 설명서
 title: 랜딩 페이지에 코드 조각 추가
 translation-type: tm+mt
-source-git-commit: 00887ea53e395bea3a11fd28e0ac98b085ef6ed8
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '119'
+source-wordcount: '118'
 ht-degree: 0%
 
 ---
@@ -15,9 +15,7 @@ ht-degree: 0%
 
 코드 조각은 규칙을 준수하고 개인화된 콘텐츠를 저장할 수 있는 HTML의 작은 조각입니다.
 
->[!NOTE]
->
->**사전 요구 사항**
+>[!PREREQUISITES]
 >
 >* [코드 조각 만들기](../../../../product-docs/personalization/segmentation-and-snippets/snippets/create-a-snippet.md)
 
