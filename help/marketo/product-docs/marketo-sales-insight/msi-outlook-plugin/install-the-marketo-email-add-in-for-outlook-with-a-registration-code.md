@@ -3,9 +3,9 @@ unique-page-id: 2949711
 description: 등록 코드 - Marketing Docs - 제품 설명서를 사용하여 Outlook용 Marketing To Email 추가 기능 설치
 title: 등록 코드가 있는 Outlook용 Marketing To Email 추가 기능 설치
 translation-type: tm+mt
-source-git-commit: 07ae1b3f3ee3e9d7f35373eea039d336bd786f97
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '391'
+source-wordcount: '390'
 ht-degree: 0%
 
 ---
@@ -17,9 +17,7 @@ ht-degree: 0%
 
 초대 이메일을 받지 못한 경우 마케팅 관리자에게 초대를 요청하십시오.
 
->[!NOTE]
->
->**사전 요구 사항**
+>[!PREREQUISITES]
 >
 >* Marketing [To Email Add-in 라이선스를 발급받아야 합니다](issue-a-marketo-email-add-in-license.md).
 
