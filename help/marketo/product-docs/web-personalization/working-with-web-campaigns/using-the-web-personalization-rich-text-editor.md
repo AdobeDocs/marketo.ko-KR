@@ -3,9 +3,9 @@ unique-page-id: 4719179
 description: 웹 개인화 리치 텍스트 편집기 사용 - Marketing Docs - 제품 설명서
 title: 웹 개인화 리치 텍스트 편집기 사용
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '206'
+source-wordcount: '204'
 ht-degree: 0%
 
 ---
@@ -53,9 +53,7 @@ ht-degree: 0%
 >
 >웹 토큰은 계정 설정 > 데이터베이스의 웹 개인화에서 관리되는 [Marketing Database의 사용자 데이터를](http://docs.marketo.com/display/DOCS/Manage+Person+Data) 사용합니다. 웹 토큰이 계정 설정 > 데이터베이스에 아직 없는 새 데이터베이스 필드인 경우 자동으로 추가되고 활성화하는데 최대 24시간이 걸릴 수 있습니다.
 
->[!NOTE]
->
->**관련 문서**
+>[!MORELIKETHIS]
 >
 >[리치 텍스트 편집기 사용](http://docs.marketo.com/display/docs/using+the+rich+text+editor#usingtherichtexteditor-features)
 
