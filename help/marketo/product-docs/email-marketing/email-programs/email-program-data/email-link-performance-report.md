@@ -3,9 +3,9 @@ unique-page-id: 2359478
 description: 이메일 링크 성능 보고서 - 마케팅 문서 - 제품 설명서
 title: 이메일 링크 성능 보고서
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '208'
+source-wordcount: '206'
 ht-degree: 0%
 
 ---
@@ -76,9 +76,7 @@ ht-degree: 0%
 >
 >개인 사용자의 행동을 정확히 알고 싶으면 프로그램의 멤버 탭에서 [개인 세부](../../../../product-docs/core-marketo-concepts/smart-lists-and-static-lists/managing-people-in-smart-lists/filter-activity-types-in-the-activity-log-of-a-person.md) 정보 페이지에서 [활동](../../../../product-docs/core-marketo-concepts/smart-lists-and-static-lists/managing-people-in-smart-lists/using-the-person-detail-page.md) 로그를 열 수 있습니다.
 
->[!NOTE]
->
->**관련 문서**
+>[!MORELIKETHIS]
 >
 >* [이메일 성능 보고서](email-performance-report.md)
 >* [이메일 보고서에서 자산 필터링](../../../../product-docs/reporting/basic-reporting/report-activity/filter-assets-in-an-email-report.md)
