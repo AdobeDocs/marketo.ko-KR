@@ -2,9 +2,9 @@
 title: disable-or-enable-ussed-content-notifications
 description: 고갈된 컨텐츠 알림 비활성화 또는 활성화
 translation-type: tm+mt
-source-git-commit: 642fd57105afff1031f18883c5809206f136b7c6
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '76'
+source-wordcount: '74'
 ht-degree: 0%
 
 ---
@@ -20,11 +20,11 @@ ht-degree: 0%
 
    ![이미지 원](/help/sky/assets/engagement-programs/disable-or-enable-exhausted-content-notifications/disable-or-enable-exhausted-content-notifications-1.png)
 
-1. 설정 [!UICONTROL **탭을**] 클릭합니다.
+1. 탭을 **[!UICONTROL Setup]** 클릭합니다.
 
    ![이미지 2](/help/sky/assets/engagement-programs/disable-or-enable-exhausted-content-notifications/disable-or-enable-exhausted-content-notifications-2.png)
 
-1. 아래로 [!UICONTROL Settings] 스크롤하여 [!UICONTROL **해제**] (또는 [!UICONTROL On])를 선택합니다.
+1. 아래로 스크롤하여 [!UICONTROL Settings] 선택하고 **[!UICONTROL Off]** (또는 [!UICONTROL On]) 선택합니다.
 
    ![이미지 3](/help/sky/assets/engagement-programs/disable-or-enable-exhausted-content-notifications/disable-or-enable-exhausted-content-notifications-3.png)
 
