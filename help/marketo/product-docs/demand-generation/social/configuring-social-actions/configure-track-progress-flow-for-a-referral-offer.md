@@ -3,9 +3,9 @@ unique-page-id: 2950573
 description: 참조 오퍼에 대한 추적 진행률 흐름 구성 - Marketing To Docs - 제품 설명서
 title: 참조 오퍼에 대한 추적 진행률 흐름 구성
 translation-type: tm+mt
-source-git-commit: 00887ea53e395bea3a11fd28e0ac98b085ef6ed8
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '175'
+source-wordcount: '173'
 ht-degree: 0%
 
 ---
@@ -47,9 +47,7 @@ ht-degree: 0%
 
    ![](assets/image2014-9-22-14-3a36-3a43.png)
 
->[!NOTE]
->
->**관련 문서**
+>[!MORELIKETHIS]
 >
 >그런 다음 **마침 > 승인 및 닫기를** 클릭하고 참조 오퍼를 [게시합니다](../../../../product-docs/demand-generation/social/referral-offers/publish-a-referral-offer.md).
 
