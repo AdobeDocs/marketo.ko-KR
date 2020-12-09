@@ -3,9 +3,9 @@ unique-page-id: 7512276
 description: ON24를 LaunchPoint 서비스로 추가 - Marketing Docs - 제품 설명서
 title: ON24를 LaunchPoint 서비스로 추가
 translation-type: tm+mt
-source-git-commit: 00887ea53e395bea3a11fd28e0ac98b085ef6ed8
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '127'
+source-wordcount: '125'
 ht-degree: 0%
 
 ---
@@ -43,9 +43,7 @@ ON24 웨비나 등록 및 참석을 관리하는 Marketing입니다.
 
    ![](assets/on24.png)
 
->[!NOTE]
->
->**관련 문서**
+>[!MORELIKETHIS]
 >
 >ON24 [에서 웨비나 이벤트를 만드는 방법을 알아봅니다](../../../product-docs/demand-generation/events/create-an-event/create-an-event-with-the-marketo-on24-adapter/create-your-webinar-event-in-on24.md).
 
