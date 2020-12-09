@@ -3,9 +3,9 @@ unique-page-id: 2949471
 description: 설정 체크리스트 - 마케팅 문서 - 제품 설명서
 title: 설정 검사 목록
 translation-type: tm+mt
-source-git-commit: 313266a67243f0c70c25010cb4825efb7f3db0ab
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '206'
+source-wordcount: '204'
 ht-degree: 0%
 
 ---
@@ -49,9 +49,7 @@ Marketing에 오신 것을 환영합니다! 다음 검사 목록을 시각적인
 
 1. 웹 개발자와 협력하여 웹 사이트에 추적 코드 추가
 
->[!NOTE]
->
->**관련 문서**
+>[!MORELIKETHIS]
 >
 >[설정 단계](../../getting-started/setup-steps.md)
 
