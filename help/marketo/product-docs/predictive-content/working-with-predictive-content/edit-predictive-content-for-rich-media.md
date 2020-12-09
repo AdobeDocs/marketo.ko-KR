@@ -3,9 +3,9 @@ unique-page-id: 11385940
 description: 리치 미디어용 예측 컨텐츠 편집 - Marketing To Docs - 제품 설명서
 title: 리치 미디어용 예측 컨텐츠 편집
 translation-type: tm+mt
-source-git-commit: f74d028e491aa70913fbe5cf14e536e50dbee32b
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '233'
+source-wordcount: '232'
 ht-degree: 0%
 
 ---
@@ -19,9 +19,7 @@ ht-degree: 0%
 
 리치 미디어용 예측 컨텐츠를 설정하는 방법은 다음과 같습니다.
 
->[!NOTE]
->
->**사전 요구 사항**
+>[!PREREQUISITES]
 >
 >모든 컨텐츠 페이지에서 예측 컨텐츠 [에 대해 컨텐츠가](/help/marketo/product-docs/predictive-content/working-with-all-content/approve-a-title-for-predictive-content.md) 승인되어야 합니다.
 
