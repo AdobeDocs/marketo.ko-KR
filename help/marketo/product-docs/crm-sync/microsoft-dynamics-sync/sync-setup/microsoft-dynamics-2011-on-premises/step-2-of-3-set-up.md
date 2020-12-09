@@ -3,9 +3,9 @@ unique-page-id: 3571807
 description: 3단계 중 2단계 - Dynamics에서 Marketing To Sync 사용자 설정(2011 온-프레미스) - Marketing Docs - 제품 설명서
 title: 3단계 중 2단계 - Dynamics에서 Marketing To 동기화 사용자 설정(2011 온-프레미스)
 translation-type: tm+mt
-source-git-commit: dc20aede0894a09e6c0bcd3d1580859b5fecb5f1
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '349'
+source-wordcount: '348'
 ht-degree: 0%
 
 ---
@@ -15,9 +15,7 @@ ht-degree: 0%
 
 이전 단계를 완성하는 데 훌륭한 일을 계속하자.
 
->[!NOTE]
->
->**사전 요구 사항**
+>[!PREREQUISITES]
 >
 >* [3단계 중 1단계:Marketing Solution(2011 온프레미스) 설치](step-1-of-3-install.md)
 
