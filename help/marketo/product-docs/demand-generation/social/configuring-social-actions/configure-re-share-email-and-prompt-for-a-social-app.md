@@ -3,9 +3,9 @@ unique-page-id: 2950559
 description: 이메일 다시 공유 구성 및 소셜 앱 확인 - Marketing To Docs - 제품 설명서
 title: 이메일 다시 공유 구성 및 소셜 앱 확인
 translation-type: tm+mt
-source-git-commit: 00887ea53e395bea3a11fd28e0ac98b085ef6ed8
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '177'
+source-wordcount: '175'
 ht-degree: 0%
 
 ---
@@ -41,9 +41,7 @@ ht-degree: 0%
 
    ![](assets/image2014-9-22-11-3a7-3a49.png)
 
->[!NOTE]
->
->**관련 문서**
+>[!MORELIKETHIS]
 >
 >다음으로, 참조 오퍼에서 [진행](configure-track-progress-flow-for-a-referral-offer.md)흐름 **을 구성하거나,** 마침 > 승인 및 닫기를 [클릭하여 참조 오퍼](../../../../product-docs/demand-generation/social/referral-offers/publish-a-referral-offer.md) 또는 경품 이벤트를 [게시할 수](../../../../product-docs/demand-generation/social/sweepstakes/create-sweepstakes.md)있습니다.
 
