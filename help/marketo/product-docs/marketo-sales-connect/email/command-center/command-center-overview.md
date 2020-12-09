@@ -3,9 +3,9 @@ unique-page-id: 14352530
 description: 명령 센터 개요 - 마케팅 문서 - 제품 설명서
 title: 명령 센터 개요
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '585'
+source-wordcount: '583'
 ht-degree: 0%
 
 ---
@@ -92,9 +92,7 @@ The Administry Center is a single, unified view that helps you next step, while 
 
 보너스:고급 검색을 저장하는 경우 동적 목록으로 사용되고 수신자가 이메일을 보거나 클릭하면 참여 기준에 맞는 이메일을 추가합니다.
 
->[!NOTE]
->
->**관련 문서**
+>[!MORELIKETHIS]
 >
 >* [작업](http://docs.marketo.com/x/qwDb)
 >* [고급 검색 개요](http://docs.marketo.com/x/KQM6Ag)
