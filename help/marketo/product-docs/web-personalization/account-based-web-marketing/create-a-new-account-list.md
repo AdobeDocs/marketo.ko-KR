@@ -3,9 +3,9 @@ unique-page-id: 4720232
 description: 새 계정 목록 만들기 - 마케팅 문서 - 제품 설명서
 title: 새 계정 목록 만들기
 translation-type: tm+mt
-source-git-commit: 1a29614ec938074902af201b2ffc11cfaa625f7a
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '417'
+source-wordcount: '415'
 ht-degree: 0%
 
 ---
@@ -91,9 +91,7 @@ CSV 파일이 기존 파일을 대체합니다. 기존 목록은 새 파일 처�
 
    ![](assets/delete-notification-hand.jpg)
 
->[!NOTE]
->
->**관련 문서**
+>[!MORELIKETHIS]
 >
 >* [계정 목록을 사용하여 세그먼트 만들기](create-a-segment-using-an-account-list.md)
 >* [지정된 계정 목록 보기](http://docs.marketo.com/pages/viewpage.action?pageid=4720244)
