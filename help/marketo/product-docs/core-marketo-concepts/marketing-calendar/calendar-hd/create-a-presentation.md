@@ -3,9 +3,9 @@ unique-page-id: 7503971
 description: 프레젠테이션 만들기 - 마케팅 문서 - 제품 설명서
 title: 프레젠테이션 만들기
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '84'
+source-wordcount: '82'
 ht-degree: 0%
 
 ---
@@ -39,9 +39,7 @@ HDTV에서 팀의 달력 보기와 목표를 투영하는 프레젠테이션을 
 
    잘했어! 이제 프레젠테이션을 사용자 요구에 맞게 변경할 수 있습니다.
 
->[!NOTE]
->
->**관련 문서**
+>[!MORELIKETHIS]
 >
 >* [프레젠테이션 사용자 정의](customize-a-presentation.md)
 
