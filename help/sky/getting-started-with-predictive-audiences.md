@@ -2,9 +2,9 @@
 title: getting-started-with-predictive-audiences
 description: 예측 대상자 시작하기
 translation-type: tm+mt
-source-git-commit: 642fd57105afff1031f18883c5809206f136b7c6
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '172'
+source-wordcount: '166'
 ht-degree: 0%
 
 ---
@@ -29,8 +29,8 @@ AI/ML 모델의 성능은 구독의 데이터에 의존합니다. 모델이 더 
 
 예측 대상은 Prime 또는 Ultimate 가격 번들을 사용하는 인스턴스에 자동으로 포함되고 활성화됩니다. 이 기능을 이용하는 방법에 대한 자세한 내용은 고객 성공 관리자에게 문의하십시오.
 
-1. 인스턴스에 기능이 추가되면 의 관리 영역에 있는 [!UICONTROL **예측 대상**] 페이지 [!UICONTROL **로**] 이동합니다 [!DNL Marketo Classic].
+1. 인스턴스에 기능이 추가되면 의 영역 **[!UICONTROL Predictive Audiences]** 에 있는 페이지로 **[!UICONTROL Admin]** 이동합니다 [!DNL Marketo Classic].
 
-1. 예측&#x200B;[!UICONTROL **대상자**] 활성화를 선택하여 기능을 활성화합니다. 모든 프로세스가 설정을 완료하는 데 최대 24시간이 걸릴 수 있습니다.
+1. 기능&#x200B;**[!UICONTROL Enable Predictive Audiences]** 을 활성화하려면 선택합니다. 모든 프로세스가 설정을 완료하는 데 최대 24시간이 걸릴 수 있습니다.
 
    ![이미지 원](/help/sky/assets/predictive-audiences/getting-started-with-predictive-audiences/getting-started-with-predictive-audiences-1.png)
