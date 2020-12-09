@@ -3,9 +3,9 @@ unique-page-id: 1900577
 description: 이메일 스크립트 토큰 만들기 - 마케팅 문서 - 제품 설명서
 title: 이메일 스크립트 토큰 만들기
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '238'
+source-wordcount: '236'
 ht-degree: 0%
 
 ---
@@ -67,9 +67,7 @@ ht-degree: 0%
 
 이제 이메일에 이 토큰을 사용할 수 있습니다. 이메일이 전송될 때마다 스크립트가 실행됩니다.
 
->[!NOTE]
->
->**관련 문서**
+>[!MORELIKETHIS]
 >
 >* [이메일에 이메일 스크립트 토큰 추가](add-an-email-script-token-to-your-email.md)
 
