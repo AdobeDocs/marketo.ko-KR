@@ -3,9 +3,9 @@ unique-page-id: 10098812
 description: 디지털 광고 캠페인에 대한 매출 속성 설정 - Marketing To Docs - 제품 설명서
 title: 디지털 광고 캠페인에 대한 매출 속성 설정
 translation-type: tm+mt
-source-git-commit: 00887ea53e395bea3a11fd28e0ac98b085ef6ed8
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '912'
+source-wordcount: '911'
 ht-degree: 0%
 
 ---
@@ -25,9 +25,7 @@ Marketing to에서 첫 번째 광고 프로그램을 설정한 후 다른 채널
 
 별도의 프로그램을 통해 각 프로그램의 전환 수를 추적하고 프로그램 분석기, 기회 영향 분석기 및 기타 Marketing to Analytics 기능에서 프로그램을 확인할 수 있습니다.
 
->[!NOTE]
->
->**사전 요구 사항**
+>[!PREREQUISITES]
 >
 >* 상태 값 및 프로그램 성공(예: 디지털 광고 또는 소셜 유료 및 PPC)을 포함하는 채널 태그 설정
 >* 양식을 만들거나 편집하여 개인 사용자와 쿼리 문자열 전달
