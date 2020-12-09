@@ -3,9 +3,9 @@ unique-page-id: 5472283
 description: 무료 랜딩 페이지에 대한 모바일 보기 사용자 정의 - Marketing To Docs - 제품 설명서
 title: 자유로운 형식의 랜딩 페이지에 맞게 모바일 보기 사용자 정의
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '371'
+source-wordcount: '370'
 ht-degree: 0%
 
 ---
@@ -13,9 +13,7 @@ ht-degree: 0%
 
 # 자유로운 형식의 랜딩 페이지에 맞게 모바일 보기 사용자 정의 {#customize-mobile-view-for-your-free-form-landing-page}
 
->[!NOTE]
->
->**사전 요구 사항**
+>[!PREREQUISITES]
 >
 >* [자유로운 형식의 랜딩 페이지에 대한 모바일 보기 추가](add-a-mobile-view-for-your-free-form-landing-page.md)
 
