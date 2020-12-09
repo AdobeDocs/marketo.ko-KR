@@ -3,9 +3,9 @@ unique-page-id: 2359608
 description: 양식 글꼴 제품군 변경 - 마케팅 문서 - 제품 설명서
 title: 양식 글꼴 모음 변경
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '146'
+source-wordcount: '144'
 ht-degree: 0%
 
 ---
@@ -62,9 +62,7 @@ Google Fonts는 탁월한 기능을 제공하므로 양식 편집기에 바로 �
 
 양식에서 글꼴 모음을 손쉽게 변경하는 방법을 살펴보십시오. 좋아요. 이제 양식 글꼴 크기를 변경하는 방법을 알아보겠습니다.
 
->[!NOTE]
->
->**관련 문서**
+>[!MORELIKETHIS]
 >
 >* [양식 글꼴 크기 변경](change-the-form-font-size.md)
 
