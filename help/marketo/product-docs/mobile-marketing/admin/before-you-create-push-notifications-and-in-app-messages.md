@@ -3,9 +3,9 @@ unique-page-id: 11376159
 description: 푸시 알림 및 인앱 메시지를 만들기 전에 - Marketing Docs - 제품 설명서
 title: 푸시 알림 및 인앱 메시지를 만들기 전
 translation-type: tm+mt
-source-git-commit: d88fb92a00e4c20509617e6ef8b2e51b66cc085b
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '362'
+source-wordcount: '360'
 ht-degree: 0%
 
 ---
@@ -32,9 +32,7 @@ ht-degree: 0%
 
 인앱 메시지 및 푸시 알림에 대한 모든 준비가 완료되면 시작할 때입니다!
 
->[!NOTE]
->
->**관련 문서**
+>[!MORELIKETHIS]
 >
 >* [인앱 메시지 만들기](http://docs.marketo.com/display/docs/create+an+in-app+message)
    >
