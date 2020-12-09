@@ -3,9 +3,9 @@ unique-page-id: 7512454
 description: 모바일 푸시 알림 구성 - 마케팅 문서 - 제품 설명서
 title: 모바일 푸시 알림 구성
 translation-type: tm+mt
-source-git-commit: 313266a67243f0c70c25010cb4825efb7f3db0ab
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '472'
+source-wordcount: '470'
 ht-degree: 0%
 
 ---
@@ -101,9 +101,7 @@ ht-degree: 0%
 
 즉, 앱의 딥 링크 구조가 위 예제와 다를 수 있습니다. 개발자는 딥 링크 URI를 정의할 수 있는 여러 옵션이 있으므로 개발자에게 사용하고자 하는 페이지의 URI(링크)를 전송하도록 요청합니다. 이렇게 하면 푸시 메시지에 입력한 URI가 올바른 위치를 가리키도록 할 수 있습니다. 개발자는 여기에서 [자세한 정보를 찾을 수 있습니다](http://developers.marketo.com/mobile/enabling-deep-links-in-your-app/).
 
->[!NOTE]
->
->**관련 문서**
+>[!MORELIKETHIS]
 >
 >* [모바일 푸시 알림 보내기](send-a-mobile-push-notification.md)
 
