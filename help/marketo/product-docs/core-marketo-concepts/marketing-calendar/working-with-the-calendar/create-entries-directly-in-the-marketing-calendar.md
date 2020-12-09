@@ -3,9 +3,9 @@ unique-page-id: 2953348
 description: 마케팅 달력 - 마케팅 문서 - 제품 문서에서 직접 항목 만들기
 title: 마케팅 달력에서 직접 항목 만들기
 translation-type: tm+mt
-source-git-commit: 00887ea53e395bea3a11fd28e0ac98b085ef6ed8
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '126'
+source-wordcount: '124'
 ht-degree: 0%
 
 ---
@@ -45,9 +45,7 @@ Marketing에서는 프로그램 포커스 모드를 사용하여 마케팅 달�
 
    ![](assets/image2014-10-20-13-3a8-3a29.png)
 
->[!NOTE]
->
->**관련 문서**
+>[!MORELIKETHIS]
 >
 >* [마케팅 달력에서 직접 항목 편집](edit-entries-directly-in-the-marketing-calendar.md)
 
