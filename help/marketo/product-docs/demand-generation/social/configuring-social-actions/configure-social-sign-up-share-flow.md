@@ -3,9 +3,9 @@ unique-page-id: 2950530
 description: 소셜 등록/공유 흐름 구성 - 마케팅 문서 - 제품 설명서
 title: 소셜 등록/공유 흐름 구성
 translation-type: tm+mt
-source-git-commit: 00887ea53e395bea3a11fd28e0ac98b085ef6ed8
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '459'
+source-wordcount: '457'
 ht-degree: 0%
 
 ---
@@ -113,9 +113,7 @@ ht-degree: 0%
 >
 >이미지를 업로드하면 소셜 앱 편집기를 닫았다가 다시 열기 전까지 여기에 표시되지 않습니다.
 
->[!NOTE]
->
->**관련 문서**
+>[!MORELIKETHIS]
 >
 >그런 다음 **마침 > 승인 및 닫기를** 클릭하고 소셜 앱을 랜딩 페이지에 배치할 수 있습니다. 또한 [사람 캡처](configure-person-capture-for-a-social-app.md) 또는 [다시 공유 프롬프트를 구성할 수도 있습니다](configure-re-share-email-and-prompt-for-a-social-app.md).
 
