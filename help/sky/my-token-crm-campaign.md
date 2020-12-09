@@ -2,9 +2,9 @@
 title: my-token-crm-campaign
 description: 내 토큰 CRM 캠페인
 translation-type: tm+mt
-source-git-commit: cd1b7e65c73de0b31f20289402f1c0832c382b33
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '91'
+source-wordcount: '88'
 ht-degree: 0%
 
 ---
@@ -20,11 +20,11 @@ ht-degree: 0%
 >
 >CRM 캠페인 내 토큰은 Salesforce 통합에만 사용할 수 있습니다.
 
-1. 프로그램 또는 폴더의 내 토큰 탭에서 [!UICONTROL **CRM 캠페인**] 토큰을 로컬 토큰 캔버스로 드래그합니다.
+1. 프로그램 또는 폴더의 내 토큰 탭에서 **[!UICONTROL CRM Campaign]** 토큰을 로컬 토큰 캔버스로 드래그합니다.
 
    ![이미지 원](/help/sky/assets/my-tokens/my-token-crm-campaign/my-token-crm-campaign-1.png)
 
-2. 새 토큰의 이름을 입력한 다음 드롭다운에서 CRM 캠페인을 선택합니다. 저장을 [!UICONTROL **클릭합니다**].
+2. 새 토큰의 이름을 입력한 다음 드롭다운에서 CRM 캠페인을 선택합니다. 을 **[!UICONTROL Save]**&#x200B;클릭합니다.
 
    ![이미지 2](/help/sky/assets/my-tokens/my-token-crm-campaign/my-token-crm-campaign-2.png)
 
