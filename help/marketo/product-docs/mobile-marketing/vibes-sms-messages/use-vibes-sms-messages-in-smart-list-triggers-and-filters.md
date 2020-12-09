@@ -3,9 +3,9 @@ unique-page-id: 11378871
 description: 스마트 목록 트리거 및 필터에서 Vibes SMS 메시지 사용 - Marketing Docs - 제품 설명서
 title: 스마트 목록 트리거 및 필터에서 Vibes SMS 메시지 사용
 translation-type: tm+mt
-source-git-commit: 00887ea53e395bea3a11fd28e0ac98b085ef6ed8
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '289'
+source-wordcount: '287'
 ht-degree: 0%
 
 ---
@@ -59,9 +59,7 @@ SMS 메시지**에서 링크를 클릭하면 SMS 메시지의 링크를 클릭�
 
 스마트 목록에서 Vibes 트리거 및 필터를 설정한 후 흐름을 [정의할 수 있습니다](add-a-flow-step-for-sms.md).
 
->[!NOTE]
->
->**관련 문서**
+>[!MORELIKETHIS]
 >
 >* [스마트 캠페인에 대한 스마트 목록 정의 | 트리거](../../../product-docs/core-marketo-concepts/smart-campaigns/creating-a-smart-campaign/define-smart-list-for-smart-campaign-trigger.md)
 >* [스마트 목록에 필터 찾기 및 추가](../../../product-docs/core-marketo-concepts/smart-lists-and-static-lists/creating-a-smart-list/find-and-add-filters-to-a-smart-list.md)
