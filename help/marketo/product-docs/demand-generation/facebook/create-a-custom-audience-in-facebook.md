@@ -3,9 +3,9 @@ unique-page-id: 4720275
 description: Facebook에서 사용자 지정 대상 만들기 - Marketing Docs - 제품 설명서
 title: Facebook에서 사용자 지정 대상 만들기
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '280'
+source-wordcount: '279'
 ht-degree: 0%
 
 ---
@@ -13,9 +13,7 @@ ht-degree: 0%
 
 # Facebook에서 사용자 지정 대상 만들기 {#create-a-custom-audience-in-facebook}
 
->[!NOTE]
->
->**사전 요구 사항**
+>[!PREREQUISITES]
 >
 >* [관리 섹션에서 Facebook 사용자 지정 대상을 LaunchPoint 서비스로](../../../product-docs/demand-generation/ad-network-integrations/add-facebook-custom-audiences-as-a-launchpoint-service.md) 추가합니다.
 >* [Facebook 계정 내에서 Facebook의 사용자 지정 대상](https://www.facebook.com/ads/manage/customaudiences/tos.php) 약관에 동의합니다.
