@@ -3,9 +3,9 @@ unique-page-id: 1146958
 description: 경고 보내기 - 마케팅 문서 - 제품 설명서
 title: 경고 보내기
 translation-type: tm+mt
-source-git-commit: 5c9683c6b00ccbf9e9d606fd4513432c9872ad00
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '222'
+source-wordcount: '220'
 ht-degree: 0%
 
 ---
@@ -61,9 +61,7 @@ Marketing은 개인 정보가 포함된 이메일 경고를 판매자, 파트너
 
 바로 그거야! 이제 경고 **전송 흐름 단계를 사용하는 방법을** 알 수 있습니다.
 
->[!NOTE]
->
->**관련 문서**
+>[!MORELIKETHIS]
 >
 >[이메일 만들기](../../../../product-docs/email-marketing/general/creating-an-email/create-an-email.md)
 
