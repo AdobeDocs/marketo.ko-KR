@@ -3,9 +3,9 @@ unique-page-id: 2359567
 description: Champion/Challenger -보고서 경고 구성 - Marketing Docs - 제품 설명서
 title: Champion/Challenger -보고서 경고 구성
 translation-type: tm+mt
-source-git-commit: 96cc6a30c63c8e8dca793a52e4bf7ecaef8c08dc
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '142'
+source-wordcount: '141'
 ht-degree: 0%
 
 ---
@@ -15,9 +15,7 @@ ht-degree: 0%
 
 Marketing will send you on how the email test is going. 예약 방법
 
->[!NOTE]
->
->**사전 요구 사항**
+>[!PREREQUISITES]
 >
 >* [챔피언/도전자:챔피언 기준 정의](champion-challenger-define-champion-criteria.md)
 
