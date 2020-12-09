@@ -3,9 +3,9 @@ unique-page-id: 10096400
 description: 이메일 템플릿 만들기 - 마케팅 문서 - 제품 설명서
 title: 이메일 템플릿 만들기
 translation-type: tm+mt
-source-git-commit: f27e2bac90570f9f795dc6bdd5fcf208c446be14
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '245'
+source-wordcount: '243'
 ht-degree: 0%
 
 ---
@@ -69,9 +69,7 @@ ht-degree: 0%
 
 이메일 템플릿을 사용자 정의하려면 아래 문서를 참조하십시오.
 
->[!NOTE]
->
->**관련 문서**
+>[!MORELIKETHIS]
 >
 >[이메일 템플릿 구문](email-template-syntax.md)
 
