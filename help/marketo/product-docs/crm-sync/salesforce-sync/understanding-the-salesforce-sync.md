@@ -3,9 +3,9 @@ unique-page-id: 4719283
 description: Salesforce 동기화 이해 - Marketing To Docs - 제품 설명서
 title: Salesforce 동기화 이해
 translation-type: tm+mt
-source-git-commit: 00887ea53e395bea3a11fd28e0ac98b085ef6ed8
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '265'
+source-wordcount: '263'
 ht-degree: 0%
 
 ---
@@ -44,9 +44,7 @@ Salesforce와 Marketing의 동기화는 리드, 연락처 및 Salesforce 캠페�
 
 Salesforce 동기화에 대한 많은 미묘한 점과 기능이 있습니다. SFDC 동기화 세부 정보 섹션에서 [세부 사항을 확인하십시오](http://docs.marketo.com/display/docs/sfdc+sync+details).
 
->[!NOTE]
->
->**관련 문서**
+>[!MORELIKETHIS]
 >
 >* [Salesforce 동기화 설정](http://docs.marketo.com/display/docs/setup)
 >* [SFDC 동기화 세부 정보](http://docs.marketo.com/display/docs/sfdc+sync+details)
