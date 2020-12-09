@@ -3,9 +3,9 @@ unique-page-id: 2359661
 description: 양식 필드를 숨김으로 설정 - 마케팅 문서 - 제품 설명서
 title: 양식 필드를 숨김으로 설정
 translation-type: tm+mt
-source-git-commit: 00887ea53e395bea3a11fd28e0ac98b085ef6ed8
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '81'
+source-wordcount: '79'
 ht-degree: 0%
 
 ---
@@ -31,9 +31,7 @@ ht-degree: 0%
 >
 >키보드 단축키! 양식 필드를 선택한 후 Ctrl+Alt+H를 눌러 숨김 상태로 만듭니다.
 
->[!NOTE]
->
->**관련 문서**
+>[!MORELIKETHIS]
 >
 >[숨겨진 양식 필드 값 설정](set-a-hidden-form-field-value.md)
 
