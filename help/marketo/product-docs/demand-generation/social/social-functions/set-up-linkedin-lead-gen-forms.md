@@ -3,9 +3,9 @@ unique-page-id: 12976798
 description: LinkedIn 리드 세대 Forms - Marketing To Docs - 제품 설명서 설정
 title: LinkedIn 리드 세대 Forms 설정
 translation-type: tm+mt
-source-git-commit: 00887ea53e395bea3a11fd28e0ac98b085ef6ed8
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '434'
+source-wordcount: '432'
 ht-degree: 0%
 
 ---
@@ -83,9 +83,7 @@ LinkedIn 리드 세대 Forms을 사용하여 LinkedIn에서 광고 캠페인을 
 >
 >단일 LinkedIn 사용자 계정만 승인할 수 있습니다. Marketing에 연결할 여러 개의 비즈니스 계정이 있는 경우, 인증되는 사용자의 LinkedIn 계정에 LinkedIn의 비즈니스 계정에 대한 리드 생성 양식 관리자 권한이 있는지 확인하십시오.
 
->[!NOTE]
->
->**관련 문서**
+>[!MORELIKETHIS]
 >
 >* [스마트 캠페인에서 LinkedIn 리드 생성 양식 필터 및 트리거 사용](use-linkedin-lead-gen-form-filters-and-triggers-in-a-smart-campaign.md)
 
