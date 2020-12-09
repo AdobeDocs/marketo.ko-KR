@@ -3,9 +3,9 @@ unique-page-id: 1147243
 description: 프로그램 일정 보기 시작 유형 - 마케팅 문서 - 제품 설명서
 title: 프로그램 스케줄 뷰 입력 유형
 translation-type: tm+mt
-source-git-commit: 00887ea53e395bea3a11fd28e0ac98b085ef6ed8
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '150'
+source-wordcount: '148'
 ht-degree: 0%
 
 ---
@@ -58,9 +58,7 @@ ht-degree: 0%
  </tbody> 
 </table>
 
->[!NOTE]
->
->**관련 문서**
+>[!MORELIKETHIS]
 >
 >* [사용자 지정 항목 유형 만들기](create-custom-entry-types.md)
 
