@@ -3,9 +3,9 @@ unique-page-id: 2360350
 description: ReST API와 함께 사용할 사용자 지정 서비스 만들기 - Marketing To Docs - 제품 설명서
 title: ReST API와 함께 사용할 사용자 지정 서비스 만들기
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '228'
+source-wordcount: '227'
 ht-degree: 0%
 
 ---
@@ -15,9 +15,7 @@ ht-degree: 0%
 
 ReST API를 통해 Marketing To와 통합하려면 사용자 지정 서비스를 만들어야 합니다. 방법
 
->[!NOTE]
->
->**사전 요구 사항**
+>[!PREREQUISITES]
 >
 >* [API 전용 사용자 역할 만들기](../../../product-docs/administration/users-and-roles/create-an-api-only-user-role.md)
 >* [API 전용 사용자 만들기](../../../product-docs/administration/users-and-roles/create-an-api-only-user.md)
