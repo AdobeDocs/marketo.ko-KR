@@ -3,9 +3,9 @@ unique-page-id: 2359474
 description: 세그멘테이션 편집 - 마케팅 문서 - 제품 설명서
 title: 세그멘테이션 편집
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '207'
+source-wordcount: '205'
 ht-degree: 0%
 
 ---
@@ -70,9 +70,7 @@ ht-degree: 0%
 
 동적 컨텐츠에 사용되지 않는 세그먼테이션을 자유롭게 실험해 볼 수 있습니다.
 
->[!NOTE]
->
->**관련 문서**
+>[!MORELIKETHIS]
 >
 >* [세그멘테이션 삭제](delete-a-segmentation.md)
 
