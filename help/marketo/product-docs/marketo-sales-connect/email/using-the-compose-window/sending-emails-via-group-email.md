@@ -3,9 +3,9 @@ unique-page-id: 37356584
 description: 그룹 이메일을 통해 이메일 보내기 - Marketing To Docs - 제품 설명서
 title: 그룹 이메일을 통해 이메일 보내기
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '188'
+source-wordcount: '186'
 ht-degree: 0%
 
 ---
@@ -56,9 +56,7 @@ ht-degree: 0%
    >
    >그룹 이메일을 보낼 때 이메일/템플릿을 일괄적으로 편집할 수는 있지만 목록에서 특정 수신자를 개별적으로 편집할 수는 없습니다.
 
->[!NOTE]
->
->**관련 문서**
+>[!MORELIKETHIS]
 >
 >* [일괄 전송 옵션](http://docs.marketo.com/x/HwQ6Ag)
 >* [작성 창에서 템플릿 사용](http://docs.marketo.com/x/MQQ6Ag)
