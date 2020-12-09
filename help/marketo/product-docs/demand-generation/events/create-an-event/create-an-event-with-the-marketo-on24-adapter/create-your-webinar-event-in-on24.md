@@ -3,9 +3,9 @@ unique-page-id: 10096712
 description: ON24 - Marketing Docs - 제품 문서에서 웨비나 이벤트 만들기
 title: 24에서 웨비나 이벤트 만들기
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '172'
+source-wordcount: '170'
 ht-degree: 0%
 
 ---
@@ -29,9 +29,7 @@ ON24 웨비나를 만들 때 Marketing과 ON24에서만 사용되는 특정 설�
 
 다음 단계는 Marketing [To에서 이벤트를 만드는 것입니다](create-an-event-in-marketo.md).
 
->[!NOTE]
->
->**관련 문서**
+>[!MORELIKETHIS]
 >
 >* [Marketing ON24 어댑터 이벤트 이해](understanding-marketo-on24-adapter-events.md)
 
