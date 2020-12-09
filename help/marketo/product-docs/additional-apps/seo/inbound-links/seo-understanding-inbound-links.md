@@ -3,9 +3,9 @@ unique-page-id: 2949226
 description: SEO - 인바운드 링크 이해 - 마케팅 문서 - 제품 설명서
 title: SEO - 인바운드 링크 이해
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '122'
+source-wordcount: '120'
 ht-degree: 0%
 
 ---
@@ -30,9 +30,7 @@ ht-degree: 0%
 
 달콤해 이제 인바운드 링크를 이해했으므로 Adobe는 사이트에 대한 더 많은 인바운드 링크 기회를 제안할 수 있습니다.
 
->[!NOTE]
->
->**관련 문서**
+>[!MORELIKETHIS]
 >
 >* [인바운드 링크 제안 받기](seo-get-inbound-link-suggestions.md)
 
