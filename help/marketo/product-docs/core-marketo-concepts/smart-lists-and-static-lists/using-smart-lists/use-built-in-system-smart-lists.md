@@ -3,9 +3,9 @@ unique-page-id: 557275
 description: 기본 제공/시스템 스마트 목록 사용 - Marketing To Docs - 제품 설명서
 title: 내장/시스템 스마트 목록 사용
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '244'
+source-wordcount: '242'
 ht-degree: 0%
 
 ---
@@ -50,9 +50,7 @@ Marketing에는 매우 유용한 내장 스마트 목록이 있습니다. 확인
 >
 >시스템 스마트 목록은 삭제할 수 없습니다. 가능한 중복 목록(Possible Duplications) 목록을 제외하고, 이러한 데이터 또한 편집할 수 없습니다.
 
->[!NOTE]
->
->**관련 문서**
+>[!MORELIKETHIS]
 >
 >* [스마트 목록 만들기](../../../../product-docs/core-marketo-concepts/smart-lists-and-static-lists/creating-a-smart-list/create-a-smart-list.md)
 
