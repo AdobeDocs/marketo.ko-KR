@@ -3,9 +3,9 @@ unique-page-id: 26837421
 description: LinkedIn에서 일치하는 대상 만들기 - Marketing To Docs - 제품 설명서
 title: LinkedIn에서 일치하는 대상 만들기
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '154'
+source-wordcount: '153'
 ht-degree: 0%
 
 ---
@@ -15,9 +15,7 @@ ht-degree: 0%
 
 LinkedIn 광고 타깃팅에 대한 ABM 계정 목록에서 일치하는 대상을 만듭니다.
 
->[!NOTE]
->
->**사전 요구 사항**
+>[!PREREQUISITES]
 >
 >[LaunchPoint 서비스로 LinkedIn 일치 대상 추가](http://docs.marketo.com/x/I4Fy)
 
