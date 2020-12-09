@@ -3,9 +3,9 @@ unique-page-id: 2359870
 description: 업로드된 이미지 또는 파일의 URL 찾기 - Marketing Docs - 제품 설명서
 title: 업로드된 이미지 또는 파일의 URL 찾기
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '110'
+source-wordcount: '108'
 ht-degree: 0%
 
 ---
@@ -29,9 +29,7 @@ ht-degree: 0%
 
 일을 잘 해낼 수 있도록 자신을 칭찬하라!
 
->[!NOTE]
->
->**관련 문서**
+>[!MORELIKETHIS]
 >
 >* [업로드된 이미지 또는 파일 바꾸기](replace-an-uploaded-image-or-file.md)
 
