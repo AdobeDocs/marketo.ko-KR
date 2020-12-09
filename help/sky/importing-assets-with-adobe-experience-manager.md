@@ -2,9 +2,9 @@
 title: importing-assets-with-adobe-experience-manager
 description: Adobe Experience Manager에서 자산 가져오기
 translation-type: tm+mt
-source-git-commit: d2195ba23fb1241b54b493d625c50aa4c1704845
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '228'
+source-wordcount: '217'
 ht-degree: 0%
 
 ---
@@ -26,15 +26,15 @@ ht-degree: 0%
 >
 >현재 이 기능은 Firefox에서만 완전히 지원됩니다. Safari에서는 지원되지 않으며 SameSite 쿠키 설정에 따라 최신 버전의 Chrome에서는 작동하지 않을 수 있습니다.
 
-1. 에서 [!UICONTROL Design Studio]이미지 및 파일 [!UICONTROL **을 선택합니다**].
+1. 에서 [!UICONTROL Design Studio]를 선택합니다 **[!UICONTROL Images and Files]**.
 
    ![이미지 원](/help/sky/assets/design-studio/importing-assets-with-adobe-experience-manager/importing-assets-with-adobe-experience-manager-1.png)
 
-1. 드롭다운을 [!UICONTROL Images and Files] 클릭하고 이미지 [!UICONTROL **또는 파일 가져오기를 선택합니다**].
+1. 드롭다운을 [!UICONTROL Images and Files] 클릭하고 선택합니다 **[!UICONTROL Import Image or File]**.
 
    ![이미지 2](/help/sky/assets/design-studio/importing-assets-with-adobe-experience-manager/importing-assets-with-adobe-experience-manager-2.png)
 
-1. 옆에 있는 라디오 단추 [!DNL Adobe Experience Manager] 를 클릭하고 [!UICONTROL **다음을 클릭합니다**].
+1. 옆에 있는 라디오 단추 [!DNL Adobe Experience Manager] 를 클릭하고 을 클릭합니다 **[!UICONTROL Next]**.
 
    ![이미지 3](/help/sky/assets/design-studio/importing-assets-with-adobe-experience-manager/importing-assets-with-adobe-experience-manager-3.png)
 
@@ -42,7 +42,7 @@ ht-degree: 0%
 
    ![이미지 4](/help/sky/assets/design-studio/importing-assets-with-adobe-experience-manager/importing-assets-with-adobe-experience-manager-4.png)
 
-1. 폴더를 선택하십시오. 원하는 이미지를 선택하고(최대 10개 선택 가능) 선택을 [!UICONTROL **클릭합니다**].
+1. 폴더를 선택하십시오. 원하는 이미지를 선택하고(최대 10개 선택 가능) 을 클릭합니다 **[!UICONTROL Select]**.
 
    ![이미지 5](/help/sky/assets/design-studio/importing-assets-with-adobe-experience-manager/importing-assets-with-adobe-experience-manager-5.png)
 
@@ -50,11 +50,11 @@ ht-degree: 0%
    >
    >이미지는 100MB를 초과할 수 없습니다.
 
-1. 선택한 이미지를 확인하고, 대상 폴더(기본값)[!UICONTROL Images and Files] 를 선택하고 [다음]을 [!UICONTROL **클릭합니다**].
+1. 선택한 이미지를 확인하고, 대상 폴더(기본값)[!UICONTROL Images and Files] 를 선택하고 을 클릭합니다 **[!UICONTROL Next]**.
 
    ![이미지 6](/help/sky/assets/design-studio/importing-assets-with-adobe-experience-manager/importing-assets-with-adobe-experience-manager-6.png)
 
-그게 다야! [ [!UICONTROL **닫기**] ]를 클릭하여 이미지 및 파일로 돌아갑니다.
+그게 다야! 이미지 및 파일 **[!UICONTROL Close]** 로 돌아가려면 을 클릭합니다.
 
 ![이미지 7](/help/sky/assets/design-studio/importing-assets-with-adobe-experience-manager/importing-assets-with-adobe-experience-manager-7.png)
 
