@@ -3,9 +3,9 @@ unique-page-id: 4720796
 description: 웹 개인화 데이터를 사용한 리타겟팅 - Marketing To Docs - 제품 설명서
 title: 웹 개인화 데이터를 사용한 리타겟팅
 translation-type: tm+mt
-source-git-commit: 6f49037bf698b1646004720815897f992911f716
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '417'
+source-wordcount: '415'
 ht-degree: 0%
 
 ---
@@ -103,9 +103,7 @@ ht-degree: 0%
 
    이제 웹 개인화의 재타깃팅 설정을 완료하고, 재타깃팅 플랫폼에 로그인하고, 이 데이터를 기반으로 대상을 만들고, 재타깃팅 광고 캠페인을 설정합니다.
 
->[!NOTE]
->
->**관련 문서**
+>[!MORELIKETHIS]
 >
 >* [Google의 개인화된 리마케팅](personalized-remarketing-in-google.md)
 >* [Facebook에서 개인화된 리마케팅](personalized-remarketing-in-facebook.md)
