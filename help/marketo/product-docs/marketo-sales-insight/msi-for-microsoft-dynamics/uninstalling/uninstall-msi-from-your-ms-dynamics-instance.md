@@ -3,9 +3,9 @@ unique-page-id: 37355600
 description: MS Dynamics 인스턴스에서 MSI 제거 - Marketing Docs - 제품 설명서
 title: MS Dynamics 인스턴스에서 MSI 제거
 translation-type: tm+mt
-source-git-commit: 23428a6e0ba9b2108a8f2f7dd6a69929dd069834
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '169'
+source-wordcount: '168'
 ht-degree: 0%
 
 ---
@@ -15,9 +15,7 @@ ht-degree: 0%
 
 MS Dynamics 인스턴스에서 MSI를 제거하려면 Marketing 및 MS Dynamics 모두에서 단계를 수행해야 합니다.
 
->[!NOTE]
->
->**사전 요구 사항**
+>[!PREREQUISITES]
 >
 >[전역 MS Dynamics 동기화 비활성화](http://docs.marketo.com/x/TAA6Ag)
 
