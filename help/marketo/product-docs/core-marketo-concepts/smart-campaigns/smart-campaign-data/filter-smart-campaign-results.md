@@ -3,9 +3,9 @@ unique-page-id: 1147068
 description: 스마트 캠페인 결과 필터링 - 마케팅 문서 - 제품 설명서
 title: 스마트 캠페인 결과 필터링
 translation-type: tm+mt
-source-git-commit: 23428a6e0ba9b2108a8f2f7dd6a69929dd069834
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '154'
+source-wordcount: '153'
 ht-degree: 0%
 
 ---
@@ -13,9 +13,7 @@ ht-degree: 0%
 
 # 스마트 캠페인 결과 필터링 {#filter-smart-campaign-results}
 
->[!NOTE]
->
->**사전 요구 사항**
+>[!PREREQUISITES]
 >
 >* [스마트 캠페인 결과 보기](view-smart-campaign-results.md)
 
