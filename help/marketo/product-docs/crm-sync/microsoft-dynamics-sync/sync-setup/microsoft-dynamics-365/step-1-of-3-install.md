@@ -3,9 +3,9 @@ unique-page-id: 3571822
 description: 3단계 중 1단계 - Marketing To 솔루션 설치(온라인) - Marketing Docs - 제품 설명서
 title: 3단계 중 1단계 - Marketing Solution(온라인) 설치
 translation-type: tm+mt
-source-git-commit: dc20aede0894a09e6c0bcd3d1580859b5fecb5f1
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '264'
+source-wordcount: '263'
 ht-degree: 0%
 
 ---
@@ -28,9 +28,7 @@ Microsoft Dynamics 365 및 Marketing To를 동기화하려면 먼저 Dynamics에
 >
 >Marketing을 CRM에 동기화한 후에는 인스턴스를 대체하지 않으면 새 동기화를 수행할 수 없습니다.
 
->[!NOTE]
->
->**사전 요구 사항**
+>[!PREREQUISITES]
 >
 >[마케팅 리드 관리 솔루션 다운로드](../../../../../product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/download-the-marketo-lead-management-solution.md)
 
