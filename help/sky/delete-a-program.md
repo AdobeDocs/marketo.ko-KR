@@ -2,9 +2,9 @@
 title: 프로그램 삭제
 description: 프로그램 삭제
 translation-type: tm+mt
-source-git-commit: 642fd57105afff1031f18883c5809206f136b7c6
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '117'
+source-wordcount: '109'
 ht-degree: 0%
 
 ---
@@ -16,11 +16,11 @@ ht-degree: 0%
 
 프로그램 삭제 방법
 
-1. 삭제할 프로그램을 찾은 다음 드롭다운에서 [!UICONTROL **삭제**] 를 [!UICONTROL Program Actions] 선택합니다.
+1. 삭제할 프로그램을 찾은 다음 드롭다운 **[!UICONTROL Delete]** 에서 [!UICONTROL Program Actions] 선택합니다.
 
    ![이미지 원](/help/sky/assets/programs/delete-a-program/delete-a-program-1.png)
 
-1. 프로그램 삭제의 부작용에 대해 검토한 다음 위에 [!UICONTROL **나열된 모든 항목 삭제를 선택합니다**]. 제출을 [!UICONTROL **클릭합니다**].
+1. 프로그램 삭제의 부작용은 검토한 후 확인하십시오 **[!UICONTROL Delete all the items listed above]**. 을 **[!UICONTROL Submit]**&#x200B;클릭합니다.
 
    ![이미지 2](/help/sky/assets/programs/delete-a-program/delete-a-program-2.png)
 
