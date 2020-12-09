@@ -3,9 +3,9 @@ unique-page-id: 3571743
 description: Salesforce Professional Edition에서 Marketing To Sales Insight 구성 - Marketing Docs - 제품 설명서
 title: Salesforce Professional Edition에서 Marketing to Sales Insight 구성
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '921'
+source-wordcount: '920'
 ht-degree: 0%
 
 ---
@@ -15,9 +15,7 @@ ht-degree: 0%
 
 다음은 Salesforce Professional Edition에서 Marketing to Sales Insight를 구성하는 데 필요한 단계입니다. 시작하기
 
->[!NOTE]
->
->**사전 요구 사항**
+>[!PREREQUISITES]
 >
 >[Salesforce Professional Edition에 Marketing 설치](http://docs.marketo.com/display/docs/professional+edition)
 >
