@@ -3,9 +3,9 @@ unique-page-id: 2949863
 description: WebEx - Marketing Docs - 제품 설명서를 사용하여 이벤트 만들기
 title: WebEx를 사용하여 이벤트 만들기
 translation-type: tm+mt
-source-git-commit: c8a77dc84c023e05fbb442f575269aac108ffb29
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '941'
+source-wordcount: '940'
 ht-degree: 0%
 
 ---
@@ -13,9 +13,7 @@ ht-degree: 0%
 
 # WebEx를 사용하여 이벤트 만들기 {#create-an-event-with-webex}
 
->[!NOTE]
->
->**사전 요구 사항**
+>[!PREREQUISITES]
 >
 >* [WebEx를 LaunchPoint 서비스로 추가](/help/marketo/product-docs/administration/additional-integrations/add-webex-as-a-launchpoint-service.md)
 >* [새 이벤트 프로그램 만들기](/help/marketo/product-docs/demand-generation/events/understanding-events/create-a-new-event-program.md)
