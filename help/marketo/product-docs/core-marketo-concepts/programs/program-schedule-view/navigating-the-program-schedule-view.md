@@ -3,9 +3,9 @@ unique-page-id: 1147100
 description: 프로그램 예약 보기 탐색 - 마케팅 문서 - 제품 설명서
 title: 프로그램 스케줄 보기 탐색
 translation-type: tm+mt
-source-git-commit: 00887ea53e395bea3a11fd28e0ac98b085ef6ed8
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '186'
+source-wordcount: '184'
 ht-degree: 0%
 
 ---
@@ -61,9 +61,7 @@ ht-degree: 0%
 
 좋아요! 이제 여러분이 프로그램을 보는 방법을 알고 있으니, 여러분이 할 수 있는 다른 멋진 것들을 배워봅시다.
 
->[!NOTE]
->
->**관련 문서**
+>[!MORELIKETHIS]
 >
 >* [프로그램 스케줄 뷰에서 항목 생성](creating-an-entry-in-the-program-schedule-view.md)
 
