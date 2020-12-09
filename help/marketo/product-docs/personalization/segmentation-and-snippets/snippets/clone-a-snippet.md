@@ -3,9 +3,9 @@ unique-page-id: 2359514
 description: 코드 조각 복제 - 마케팅 문서 - 제품 설명서
 title: 코드 조각 복제
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '71'
+source-wordcount: '69'
 ht-degree: 0%
 
 ---
@@ -29,9 +29,7 @@ ht-degree: 0%
 
 대단해! 이제 필요에 맞게 복제된 조각을 수정할 수 있습니다.
 
->[!NOTE]
->
->**관련 문서**
+>[!MORELIKETHIS]
 >
 >* [동적 콘텐트를 사용하여 코드 조각 편집](edit-snippets-with-dynamic-content.md)
 
