@@ -3,9 +3,9 @@ unique-page-id: 2359757
 description: 랜딩 페이지에 소셜 단추 추가 - 마케팅 문서 - 제품 설명서
 title: 랜딩 페이지에 소셜 단추 추가
 translation-type: tm+mt
-source-git-commit: 44ed91b485b52173922c709de63a4353e16c5072
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '245'
+source-wordcount: '243'
 ht-degree: 0%
 
 ---
@@ -53,8 +53,6 @@ ht-degree: 0%
 >
 >시간을 절약하기 위해 복제 위치 **옵션을 사용하여** 기존 소셜 단추에서 모든 설정을 복사할 수 있습니다.
 
->[!NOTE]
->
->**관련 문서**
+>[!MORELIKETHIS]
 >
 >완료했지만 필요한 경우 소셜 단추의 설정을 변경할 수 있습니다. 먼저 단추 스타일 [을 사용자](../../../../product-docs/demand-generation/social/configuring-social-actions/customize-social-app-button.md) 지정하고 표시되는 공유 메시지 [를](../../../../product-docs/demand-generation/social/configuring-social-actions/configure-social-sign-up-share-flow.md) 편집합니다.
