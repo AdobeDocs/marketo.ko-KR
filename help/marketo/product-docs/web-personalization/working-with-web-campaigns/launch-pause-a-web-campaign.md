@@ -3,9 +3,9 @@ unique-page-id: 4719406
 description: 웹 캠페인 시작/일시 중지 - 마케팅 문서 - 제품 설명서
 title: 웹 캠페인 시작/일시 중지
 translation-type: tm+mt
-source-git-commit: 00887ea53e395bea3a11fd28e0ac98b085ef6ed8
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '171'
+source-wordcount: '169'
 ht-degree: 0%
 
 ---
@@ -45,9 +45,7 @@ ht-degree: 0%
 
    ![](assets/image2014-11-26-17-3a32-3a48.png)
 
->[!NOTE]
->
->**관련 문서**
+>[!MORELIKETHIS]
 >
 >* [새 대화 상자 웹 캠페인 만들기](create-a-new-dialog-web-campaign.md)
 >* [영역에서 새 웹 캠페인 만들기](create-a-new-in-zone-web-campaign.md)
