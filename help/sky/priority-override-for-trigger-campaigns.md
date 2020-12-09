@@ -2,9 +2,9 @@
 title: priority-override-for-trigger-campaigns
 description: 트리거 캠페인에 대한 우선 순위 무시
 translation-type: tm+mt
-source-git-commit: 642fd57105afff1031f18883c5809206f136b7c6
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '320'
+source-wordcount: '301'
 ht-degree: 0%
 
 ---
@@ -26,11 +26,11 @@ ht-degree: 0%
 
 ## 우선 순위 재정의
 
-1. 트리거 캠페인에서 예약 탭 [!UICONTROL **을**] 클릭한 다음 우선 [!UICONTROL **순위 무시를 클릭합니다**].
+1. 트리거 캠페인에서 **[!UICONTROL Schedule]** 탭을 클릭한 다음 을 클릭합니다 **[!UICONTROL Override Priority]**.
 
    ![이미지 원](/help/sky/assets/smart-campaigns/priority-override-for-trigger-campaigns/priority-override-for-trigger-campaigns-1.png)
 
-1. 드롭다운에서 새 우선 순위 수준을 선택합니다. 확인을 [!UICONTROL **클릭합니다**].
+1. 드롭다운에서 새 우선 순위 수준을 선택합니다. 을 **[!UICONTROL Confirm]**&#x200B;클릭합니다.
 
    ![이미지 2](/help/sky/assets/smart-campaigns/priority-override-for-trigger-campaigns/priority-override-for-trigger-campaigns-2.png)
 
@@ -44,11 +44,11 @@ ht-degree: 0%
 
 ## 우선 순위 재설정
 
-1. 캠페인 우선 순위를 시스템 기본값으로 다시 설정하려면 트리거 캠페인의 [!UICONTROL **예약**] 탭으로 이동한 후 [!UICONTROL **우선 순위**]&#x200B;재설정을 클릭합니다.
+1. 캠페인 우선 순위를 시스템 기본값으로 다시 설정하려면 트리거 캠페인의 **[!UICONTROL Schedule]** 탭으로 이동한 후 을 클릭합니다 **[!UICONTROL Reset Priority]**.
 
    ![이미지 4](/help/sky/assets/smart-campaigns/priority-override-for-trigger-campaigns/priority-override-for-trigger-campaigns-4.png)
 
-1. 재설정을 [!UICONTROL **클릭하여**] 확인합니다.
+1. 을 **[!UICONTROL Reset]** 클릭하여 확인합니다.
 
    ![이미지 5](/help/sky/assets/smart-campaigns/priority-override-for-trigger-campaigns/priority-override-for-trigger-campaigns-5.png)
 
@@ -62,21 +62,21 @@ ht-degree: 0%
 >
 >관리자 또는 관리자 권한이 있는 사용자만 캠페인 우선 순위 무시 액세스 권한을 가져야 합니다.
 
-1. 영역에서 [!UICONTROL Admin] 사용자 및 역할 [!UICONTROL **을 클릭합니다**].
+1. 영역에서 [!UICONTROL Admin] 을 클릭합니다 **[!UICONTROL Users & Roles]**.
 
    ![이미지 6](/help/sky/assets/smart-campaigns/priority-override-for-trigger-campaigns/priority-override-for-trigger-campaigns-6.png)
 
-1. 역할 [!UICONTROL **탭을**] 클릭하고 액세스 권한을 부여할 사용자를 선택한 다음 역할 [!UICONTROL **편집을 클릭합니다**].
+1. 탭을 **[!UICONTROL Roles]** 클릭하고 액세스 권한을 부여할 사용자를 선택한 다음 을 클릭합니다 **[!UICONTROL Edit Role]**.
 
    ![이미지 7](/help/sky/assets/smart-campaigns/priority-override-for-trigger-campaigns/priority-override-for-trigger-campaigns-7.png)
 
-1. 아래에서 트리거 캠페인 [!UICONTROL Access Marketing Activities]우선 순위 편집을 선택합니다 [!UICONTROL ****]. 저장을 [!UICONTROL **클릭합니다**].
+1. 아래 [!UICONTROL Access Marketing Activities]에서 확인 **[!UICONTROL Edit Trigger Campaign Priority]**&#x200B;하세요 을 **[!UICONTROL Save]**&#x200B;클릭합니다.
 
    ![이미지 8](/help/sky/assets/smart-campaigns/priority-override-for-trigger-campaigns/priority-override-for-trigger-campaigns-8.png)
 
 ## Marketing To Classic에서 캠페인 우선 순위 보기
 
-트리거 캠페인 내의 예약 [!DNL Classic] 탭을 클릭하여 [!UICONTROL ****] 경험에서 캠페인 우선 순위를 볼 수 있습니다.
+트리거 캠페인 내 [!DNL Classic] 탭을 클릭하여 경험에서 캠페인 우선 **[!UICONTROL Schedule]** 순위를 볼 수 있습니다.
 
 ![이미지 9](/help/sky/assets/smart-campaigns/priority-override-for-trigger-campaigns/priority-override-for-trigger-campaigns-9.png)
 
