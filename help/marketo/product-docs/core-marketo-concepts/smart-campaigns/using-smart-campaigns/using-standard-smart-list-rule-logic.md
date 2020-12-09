@@ -3,9 +3,9 @@ unique-page-id: 1147001
 description: 표준 스마트 목록 규칙 논리 사용 - 마케팅 문서 - 제품 설명서
 title: 표준 스마트 목록 규칙 논리 사용
 translation-type: tm+mt
-source-git-commit: 00887ea53e395bea3a11fd28e0ac98b085ef6ed8
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '182'
+source-wordcount: '180'
 ht-degree: 0%
 
 ---
@@ -33,9 +33,7 @@ ht-degree: 0%
 
 위의 단어:`<pre data-theme="Confluence">IF person fills out My Form OR IF person visits My Page AND Industry is Marketing AND Country is USA THEN follow the campaign's flow step(s)</pre>` 따라서 사용자가 양식을 채우거나 **** 페이지를 방문하는 경우 캠페인은 사용한 설정에 따라 다음 필터의 **all **또는 **any **를 기준으로 해당 사람을 평가합니다.
 
->[!NOTE]
->
->**관련 문서**
+>[!MORELIKETHIS]
 >
 >* [고급 스마트 목록 규칙 논리 사용](../../../../product-docs/core-marketo-concepts/smart-lists-and-static-lists/using-smart-lists/using-advanced-smart-list-rule-logic.md)
 
