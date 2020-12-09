@@ -3,9 +3,9 @@ unique-page-id: 7512457
 description: 모바일 푸시 알림 전송 - Marketing Docs - 제품 설명서
 title: 모바일 푸시 알림 보내기
 translation-type: tm+mt
-source-git-commit: c33b7ab59e612f37d3f64bb954579700dc574068
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '99'
+source-wordcount: '98'
 ht-degree: 0%
 
 ---
@@ -15,9 +15,7 @@ ht-degree: 0%
 
 모바일 앱을 사용하는 사람에게 푸시 알림을 보냅니다.
 
->[!NOTE]
->
->**사전 요구 사항**
+>[!PREREQUISITES]
 >
 >* [새 스마트 캠페인 만들기](../../../product-docs/core-marketo-concepts/smart-campaigns/creating-a-smart-campaign/create-a-new-smart-campaign.md)
 >* [푸시 알림 만들기](create-a-push-notification.md)
