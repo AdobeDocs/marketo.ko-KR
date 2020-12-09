@@ -3,9 +3,9 @@ unique-page-id: 2949180
 description: SEO 대시보드 이해 -SEO Recommendations - Marketing Docs - 제품 설명서
 title: SEO 대시보드 이해 -SEO Recommendations
 translation-type: tm+mt
-source-git-commit: 95ca406109e04f56c9846f83cb2c4202bf606518
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '158'
+source-wordcount: '156'
 ht-degree: 0%
 
 ---
@@ -41,9 +41,7 @@ ht-degree: 0%
 
 좋아! 심층 분석
 
->[!NOTE]
->
->**관련 문서**
+>[!MORELIKETHIS]
 >
 >* [페이지 세부 사항 드릴다운](../../../../product-docs/additional-apps/seo/pages/seo-using-the-page-detail-drill-down.md)
 
