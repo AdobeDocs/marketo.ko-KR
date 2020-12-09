@@ -3,9 +3,9 @@ unique-page-id: 1147239
 description: 프로그램 보고서에 프로그램 상태 열 추가 - 마케팅 문서 - 제품 설명서
 title: 프로그램 보고서에 프로그램 상태 열 추가
 translation-type: tm+mt
-source-git-commit: c33b7ab59e612f37d3f64bb954579700dc574068
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '149'
+source-wordcount: '147'
 ht-degree: 0%
 
 ---
@@ -47,9 +47,7 @@ ht-degree: 0%
 >
 >프로그램의 각 상태에 대한 열이 표시되지 않으면 보고서에 표시할 열을 [선택했는지](../../../../product-docs/reporting/basic-reporting/editing-reports/select-report-columns.md) 확인하십시오.
 
->[!NOTE]
->
->**관련 문서**
+>[!MORELIKETHIS]
 >
 >* [태그를 기준으로 프로그램 보고서 필터링](filter-a-program-report-by-tag.md)
 
