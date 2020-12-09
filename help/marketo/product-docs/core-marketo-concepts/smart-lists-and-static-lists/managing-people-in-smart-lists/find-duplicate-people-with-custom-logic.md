@@ -3,9 +3,9 @@ unique-page-id: 2952636
 description: 사용자 정의 로직을 사용하여 중복 사용자 찾기 - Marketing To Docs - 제품 설명서
 title: 사용자 지정 로직을 사용하여 중복 사용자 찾기
 translation-type: tm+mt
-source-git-commit: 00887ea53e395bea3a11fd28e0ac98b085ef6ed8
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '163'
+source-wordcount: '162'
 ht-degree: 0%
 
 ---
@@ -21,9 +21,7 @@ Marketing에는 이메일 주소와 일치시켜 중복 사용자를 찾는 시�
 >
 >Marketing은 이제 모든 구독 간의 언어를 표준화하므로 구독에 리드/리드 및 docs.markto.com에 있는 사람/사람을 볼 수 있습니다. 이 용어는 같은 것을 의미한다.아티클 지침에는 영향을 주지 않습니다. 다른 변화도 있습니다 [자세한](http://docs.marketo.com/display/DOCS/Updates+to+Marketo+Terminology)내용
 
->[!NOTE]
->
->**사전 요구 사항**
+>[!PREREQUISITES]
 >
 >* [스마트 목록 만들기](../../../../product-docs/core-marketo-concepts/smart-lists-and-static-lists/creating-a-smart-list/create-a-smart-list.md)
 
