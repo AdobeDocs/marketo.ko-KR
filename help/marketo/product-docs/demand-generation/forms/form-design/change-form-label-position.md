@@ -3,9 +3,9 @@ unique-page-id: 2359612
 description: 양식 레이블 위치 변경 - 마케팅 문서 - 제품 설명서
 title: 양식 레이블 위치 변경
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '128'
+source-wordcount: '126'
 ht-degree: 0%
 
 ---
@@ -57,9 +57,7 @@ ht-degree: 0%
 
 잘했다! 양식에서 레이블 위치를 손쉽게 변경하는 방법을 살펴보십시오. 자, 양식 레이블의 글꼴을 변경하는 것에 대해 어떻게 할 수 있는지 살펴봅시다.
 
->[!NOTE]
->
->**관련 문서**
+>[!MORELIKETHIS]
 >
 >* [양식 글꼴 모음 변경](change-the-form-font-family.md)
 
