@@ -3,9 +3,9 @@ unique-page-id: 45417125
 description: 네이티브 Salesforce 통합을 위한 Sales Insight - Marketing To Docs - 제품 설명서
 title: 네이티브 Salesforce 통합을 위한 세일즈 인사이트
 translation-type: tm+mt
-source-git-commit: 00887ea53e395bea3a11fd28e0ac98b085ef6ed8
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '1270'
+source-wordcount: '1269'
 ht-degree: 0%
 
 ---
@@ -15,9 +15,7 @@ ht-degree: 0%
 
 Marketing To 계정이 사용자 지정 또는 비기본 통합을 통해 Salesforce에 연결된 경우 이 문서를 사용하여 Sales Insight를 구성합니다.
 
->[!NOTE]
->
->**사전 요구 사항**
+>[!PREREQUISITES]
 >
 >* Marketing To 인스턴스에 대해 &quot;MSI Non-Native&quot; 기능을 활성화하려면 고객 성공 관리자에게 문의하십시오.
 >* MSI 패키지 설정이 있는 Salesforce 계정.
