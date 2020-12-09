@@ -3,9 +3,9 @@ unique-page-id: 2949839
 description: 태블릿에서 이벤트 확인 - Marketing Docs - 제품 설명서
 title: 태블릿에서 이벤트 확인
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '867'
+source-wordcount: '866'
 ht-degree: 0%
 
 ---
@@ -23,9 +23,7 @@ ht-degree: 0%
 >
 >Marketing은 이제 모든 구독 간의 언어를 표준화하므로 구독에 리드/리드 및 docs.markto.com에 있는 사람/사람을 볼 수 있습니다. 이 용어는 같은 것을 의미한다.아티클 지침에는 영향을 주지 않습니다. 다른 변화도 있습니다 [자세한](http://docs.marketo.com/display/DOCS/Updates+to+Marketo+Terminology)내용
 
->[!NOTE]
->
->**사전 요구 사항**
+>[!PREREQUISITES]
 >
 >* Marketing에서 이벤트를 만들고 초대된 사람 및 등록된 사람으로 채웁니다.
 >* Android 또는 [iOS용 태블릿](https://play.google.com/store/apps/details?id=com.marketo.eventcheckin&amp;hl=en) 앱 [다운로드](https://itunes.apple.com/us/app/marketo-events/id522766637?mt=8)
