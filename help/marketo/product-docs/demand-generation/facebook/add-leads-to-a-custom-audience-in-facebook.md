@@ -3,9 +3,9 @@ unique-page-id: 11376700
 description: Facebook에서 사용자 지정 대상에 리드 추가 - Marketing Docs - 제품 설명서
 title: Facebook에서 사용자 지정 대상에 리드 추가
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '172'
+source-wordcount: '171'
 ht-degree: 0%
 
 ---
@@ -15,9 +15,7 @@ ht-degree: 0%
 
 이미 Facebook에 사용자 지정 대상자가 있고 더 많은 리드를 추가하고 싶으십니까? 방법
 
->[!NOTE]
->
->**사전 요구 사항**
+>[!PREREQUISITES]
 >
 >* [Facebook에서 사용자 지정 대상 만들기](create-a-custom-audience-in-facebook.md)
 >* [Facebook 계정 내에서 Facebook의 사용자 지정 대상 약관에](https://www.facebook.com/ads/manage/customaudiences/tos.php) 동의합니다.
