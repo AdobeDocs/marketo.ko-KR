@@ -3,9 +3,9 @@ unique-page-id: 4718683
 description: 단계 승인 및 할당 결과 매출 모델 - 마케팅 문서 - 제품 설명서
 title: 단계 승인 및 리드 할당 결과 매출 모델
 translation-type: tm+mt
-source-git-commit: 5c9683c6b00ccbf9e9d606fd4513432c9872ad00
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '309'
+source-wordcount: '307'
 ht-degree: 0%
 
 ---
@@ -91,9 +91,7 @@ ht-degree: 0%
 
    ![](assets/image2015-4-29-14-3a4-3a23.png)
 
->[!NOTE]
->
->**관련 문서**
+>[!MORELIKETHIS]
 >
 >모델을 승인하려면 ** 매출 모델 [승인 및 미승인](approve-unapprove-a-revenue-model.md)**의 도움말 페이지를 참조하십시오.
 
