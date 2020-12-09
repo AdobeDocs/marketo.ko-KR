@@ -3,9 +3,9 @@ unique-page-id: 11383945
 description: Facebook 오프라인 전환 이해 - 마케팅 문서 - 제품 설명서
 title: Facebook 오프라인 전환 이해
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '224'
+source-wordcount: '222'
 ht-degree: 0%
 
 ---
@@ -46,9 +46,7 @@ Facebook [으로 오프라인 광고 성과를](set-up-facebook-offline-conversi
 1. Facebook에서 매출 주기 모델의 단계를 오프라인 전환 단계에 매핑합니다.
 1. Facebook 리드 생성에서 매핑된 스테이지에 도달하면, Marketing은 보안 자동화된 API를 통해 하루에 여러 번 오프라인 전환 데이터를 Facebook으로 보냅니다. 데이터는 Facebook 광고 관리자 보고서에 나타납니다.
 
->[!NOTE]
->
->**관련 문서**
+>[!MORELIKETHIS]
 >
 >* [Facebook 오프라인 전환 설정](set-up-facebook-offline-conversions.md)
 
