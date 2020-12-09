@@ -3,9 +3,9 @@ unique-page-id: 4719402
 description: 새 위젯 웹 캠페인 만들기 - 마케팅 문서 - 제품 설명서
 title: 새 위젯 웹 캠페인 만들기
 translation-type: tm+mt
-source-git-commit: 6f49037bf698b1646004720815897f992911f716
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '644'
+source-wordcount: '642'
 ht-degree: 0%
 
 ---
@@ -125,9 +125,7 @@ ht-degree: 0%
 
 1. 웹 캠페인을 삭제할지 여부를 확인하는 확인 메시지가 나타납니다.
 
->[!NOTE]
->
->**관련 문서**
+>[!MORELIKETHIS]
 >
 >* [영역에서 새 웹 캠페인 만들기](create-a-new-in-zone-web-campaign.md)
 >* [새 대화 상자 웹 캠페인 만들기](create-a-new-dialog-web-campaign.md)
