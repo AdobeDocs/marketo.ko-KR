@@ -3,9 +3,9 @@ unique-page-id: 7512944
 description: Google Chrome용 Marketing Insights 사용 - Marketing Docs - 제품 설명서
 title: Google Chrome용 Marketing To Insights 사용
 translation-type: tm+mt
-source-git-commit: 00887ea53e395bea3a11fd28e0ac98b085ef6ed8
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '236'
+source-wordcount: '235'
 ht-degree: 0%
 
 ---
@@ -15,9 +15,7 @@ ht-degree: 0%
 
 Google Chrome용 Marketing To Insights를 사용하여 Google 이메일을 보내고 추적할 수 있습니다.
 
->[!NOTE]
->
->**사전 요구 사항**
+>[!PREREQUISITES]
 >
 >* [Google Chrome용 Marketing To Insights 설치](install-marketo-insights-for-google-chrome.md)
 
