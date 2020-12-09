@@ -3,9 +3,9 @@ unique-page-id: 2359866
 description: 웹 페이지에서 이미지 가져오기 - Marketing To Docs - 제품 설명서
 title: 웹 페이지에서 이미지 가져오기
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '175'
+source-wordcount: '173'
 ht-degree: 0%
 
 ---
@@ -45,9 +45,7 @@ ht-degree: 0%
 
 잘했어요, 이미지 마스터!
 
->[!NOTE]
->
->**관련 문서**
+>[!MORELIKETHIS]
 >
 >* [Marketing에 이미지 및 파일 추가](add-images-and-files-to-marketo.md)
 >* [폴더를 사용하여 이미지 및 파일 구성](organize-your-images-and-files-using-folders.md)
