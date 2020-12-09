@@ -3,9 +3,9 @@ unique-page-id: 4719297
 description: 사용자 지정 개체 동기화 활성화/비활성화 - Marketing To Docs - 제품 설명서
 title: 사용자 지정 개체 동기화 활성화/비활성화
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '220'
+source-wordcount: '218'
 ht-degree: 0%
 
 ---
@@ -81,9 +81,7 @@ Salesforce 인스턴스에서 만든 사용자 정의 개체는 Marketing To의 
 
    훌륭해! 이제 이 사용자 지정 개체의 데이터를 스마트 캠페인 및 스마트 목록에 사용할 수 있습니다.
 
->[!NOTE]
->
->**관련 문서**
+>[!MORELIKETHIS]
 >
 >* [사용자 지정 개체 필드를 스마트 목록/트리거 제약 조건으로 추가/제거](add-remove-custom-object-field-as-smart-list-trigger-constraints.md)
 
