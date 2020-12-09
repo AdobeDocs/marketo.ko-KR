@@ -3,9 +3,9 @@ unique-page-id: 10099389
 description: Microsoft Dynamics용 Marketing Plugin 릴리스 - Marketing Docs - 제품 설명서
 title: Microsoft Dynamics용 Marketing To 플러그인 릴리스
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '348'
+source-wordcount: '346'
 ht-degree: 7%
 
 ---
@@ -100,13 +100,7 @@ Microsoft Dynamics에 처음 동기화하면 Marketing용 플러그인의 최신
  </tbody> 
 </table>
 
->[!NOTE]
->
->**관련 문서**
+>[!MORELIKETHIS]
 >
 >* [마케팅 리드 관리 솔루션 다운로드](sync-setup/download-the-marketo-lead-management-solution.md)
-
->
-
-
 
