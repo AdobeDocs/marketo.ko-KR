@@ -3,9 +3,9 @@ unique-page-id: 3571800
 description: 3단계 중 3단계 - Connect Marketing 및 Salesforce(Professional) - Marketing Docs - 제품 설명서
 title: 3단계 중 3단계 - Connect Marketing 및 Salesforce(Professional)
 translation-type: tm+mt
-source-git-commit: 96cc6a30c63c8e8dca793a52e4bf7ecaef8c08dc
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '407'
+source-wordcount: '406'
 ht-degree: 0%
 
 ---
@@ -15,9 +15,7 @@ ht-degree: 0%
 
 이 문서에서는 구성된 Salesforce 인스턴스와 동기화하도록 Marketing을 구성합니다.
 
->[!NOTE]
->
->**사전 요구 사항**
+>[!PREREQUISITES]
 >
 >* [3단계 중 1단계:Salesforce에 마케팅 필드 추가(Professional)](step-1-of-3-add-marketo-fields-to-salesforce-professional.md)
 >* [3단계 중 2단계:Marketing(Professional)용 Salesforce 사용자 만들기](step-2-of-3-create-a-salesforce-user-for-marketo-professional.md)
