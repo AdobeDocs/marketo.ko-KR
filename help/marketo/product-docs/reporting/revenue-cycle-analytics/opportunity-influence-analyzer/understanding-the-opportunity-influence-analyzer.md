@@ -3,9 +3,9 @@ unique-page-id: 4718648
 description: 기회 영향 분석기 이해 - 마케팅 문서 - 제품 설명서
 title: 기회 영향 분석기 이해
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '257'
+source-wordcount: '255'
 ht-degree: 0%
 
 ---
@@ -39,9 +39,7 @@ Marketing에서는 CRM ID를 사용하여 계정을 고유하게 식별합니다
 >
 >거래를 성사시킬 때마다 다음날 이 분석기에서 찾아보세요. 영업 담당자와 공유합니다. 그들은 여러분이 하는 모든 힘든 일을 알게 될 것이다 - 그리고, 여러분은 왜 특정 사람들이 &quot;영향력 있는&quot; 것처럼 보이지만 CRM에서 할당된 역할을 받지 못하는지 물어볼 수 있다.
 
->[!NOTE]
->
->**관련 문서**
+>[!MORELIKETHIS]
 >
 >* [기회 영향 분석기를 사용하여 마케팅 스토리 전달](tell-the-marketing-story-with-an-opportunity-influence-analyzer.md)
 >* [기회 영향 분석기 만들기](create-an-opportunity-influence-analyzer.md)
