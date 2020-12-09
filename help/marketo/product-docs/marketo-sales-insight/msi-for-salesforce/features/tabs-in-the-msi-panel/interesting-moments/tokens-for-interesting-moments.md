@@ -3,9 +3,9 @@ unique-page-id: 1146999
 description: 흥미로운 순간을 위한 토큰 - Marketing Docs - 제품 설명서
 title: 흥미로운 순간을 위한 토큰
 translation-type: tm+mt
-source-git-commit: 5c9683c6b00ccbf9e9d606fd4513432c9872ad00
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '266'
+source-wordcount: '265'
 ht-degree: 0%
 
 ---
@@ -13,9 +13,7 @@ ht-degree: 0%
 
 # 흥미로운 순간을 위한 토큰 {#tokens-for-interesting-moments}
 
->[!NOTE]
->
->**사전 요구 사항**
+>[!PREREQUISITES]
 >
 >* 흥미로운 [순간 흐름 단계를 사용하는 방법을 알아봅니다](../../../../../../product-docs/core-marketo-concepts/smart-campaigns/flow-actions/interesting-moment.md).
 >* 토큰에 대한 자세한 [내용을 살펴보십시오](http://docs.marketo.com/display/docs/tokens).
