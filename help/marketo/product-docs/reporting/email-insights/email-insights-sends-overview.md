@@ -3,9 +3,9 @@ unique-page-id: 10099413
 description: 이메일 인사이트에서 개요 보내기 - Marketing To Docs - 제품 설명서
 title: 이메일 인사이트를 통한 개요
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '174'
+source-wordcount: '172'
 ht-degree: 0%
 
 ---
@@ -43,9 +43,7 @@ Analytics에서 이메일의 상태를 보려면 점수 옆에 마우스를 놓�
 
 멋진 것들이야
 
->[!NOTE]
->
->**관련 문서**
+>[!MORELIKETHIS]
 >
 >[이메일 인사이트 분석 개요](email-insights-analytics-overview.md)
 
