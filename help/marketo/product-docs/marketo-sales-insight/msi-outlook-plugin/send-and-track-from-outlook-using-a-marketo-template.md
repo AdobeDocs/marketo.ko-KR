@@ -3,9 +3,9 @@ unique-page-id: 2949283
 description: Marketing To 템플릿을 사용하여 Outlook에서 전송 및 추적 - Marketing To Docs - 제품 설명서
 title: 마케팅 템플릿을 사용하여 Outlook에서 보내기 및 추적
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '143'
+source-wordcount: '141'
 ht-degree: 0%
 
 ---
@@ -40,9 +40,7 @@ ht-degree: 0%
 
    자, 자! 멋진 마케팅 팀이 만든 템플릿을 사용하여 많은 시간을 절약할 수 있었습니다.
 
->[!NOTE]
->
->**관련 문서**
+>[!MORELIKETHIS]
 >
 >* [리드의 인바운드 메일 로그인](../../../product-docs/marketo-sales-insight/using-msi/log-inbound-mail-from-your-leads-in-marketo.md)
 
