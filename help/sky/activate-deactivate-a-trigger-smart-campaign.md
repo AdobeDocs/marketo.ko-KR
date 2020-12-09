@@ -2,9 +2,9 @@
 title: activate-deactivate-a-trigger-smart-campaign
 description: 스마트 캠페인 트리거 활성화/비활성화
 translation-type: tm+mt
-source-git-commit: cd1b7e65c73de0b31f20289402f1c0832c382b33
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '127'
+source-wordcount: '123'
 ht-degree: 0%
 
 ---
@@ -16,7 +16,7 @@ ht-degree: 0%
 
 ## 트리거 캠페인 활성화
 
-1. 스마트 캠페인에서 예약 [!UICONTROL **탭을**] 클릭합니다.
+1. 스마트 캠페인에서 **[!UICONTROL Schedule]** 탭을 클릭합니다.
 
    ![이미지 원](/help/sky/assets/smart-campaigns/activate-deactivate-a-trigger-smart-campaign/activate-deactivate-a-trigger-smart-campaign-1.png)
 
@@ -24,7 +24,7 @@ ht-degree: 0%
    >
    >활성화하기 전에 스마트 캠페인을 검토하십시오.
 
-1. 활성화를 [!UICONTROL **클릭합니다**].
+1. 을 **[!UICONTROL Activate]**&#x200B;클릭합니다.
 
    ![이미지 2](/help/sky/assets/smart-campaigns/activate-deactivate-a-trigger-smart-campaign/activate-deactivate-a-trigger-smart-campaign-2.png)
 
@@ -36,11 +36,11 @@ ht-degree: 0%
 
 ## 트리거 캠페인 비활성화
 
-1. 스마트 캠페인에서 예약 [!UICONTROL **탭을**] 클릭합니다.
+1. 스마트 캠페인에서 **[!UICONTROL Schedule]** 탭을 클릭합니다.
 
    ![이미지 3](/help/sky/assets/smart-campaigns/activate-deactivate-a-trigger-smart-campaign/activate-deactivate-a-trigger-smart-campaign-3.png)
 
-1. 비활성화를 [!UICONTROL **클릭합니다**].
+1. 을 **[!UICONTROL Deactivate]**&#x200B;클릭합니다.
 
    ![이미지 4](/help/sky/assets/smart-campaigns/activate-deactivate-a-trigger-smart-campaign/activate-deactivate-a-trigger-smart-campaign-4.png)
 
