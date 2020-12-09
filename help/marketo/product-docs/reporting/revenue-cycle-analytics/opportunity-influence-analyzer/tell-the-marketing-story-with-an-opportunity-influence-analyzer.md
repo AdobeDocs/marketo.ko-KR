@@ -3,9 +3,9 @@ unique-page-id: 2360237
 description: 기회 영향 분석기 - Marketing To Docs - 제품 설명서를 통해 마케팅 스토리 전달
 title: 기회 영향 분석기를 사용하여 마케팅 스토리 전달
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '374'
+source-wordcount: '373'
 ht-degree: 0%
 
 ---
@@ -15,9 +15,7 @@ ht-degree: 0%
 
 기회 영향 분석기를 사용하여 중요한 기회의 마케팅 역할을 설명합니다. 첫 번째 접점에서 기회 창출 및 성취 등 다양한 측면에서 마케팅을 어떻게 활용하고 있는지 보여줍니다.
 
->[!NOTE]
->
->**사전 요구 사항**
+>[!PREREQUISITES]
 >
 >* [기회 영향 분석기 만들기](create-an-opportunity-influence-analyzer.md)
 
