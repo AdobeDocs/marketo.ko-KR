@@ -3,9 +3,9 @@ unique-page-id: 7515207
 description: 자유 양식과 안내 랜딩 페이지 이해 - Marketing Docs - 제품 설명서
 title: 자유 양식과 안내 랜딩 페이지 이해
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '211'
+source-wordcount: '209'
 ht-degree: 0%
 
 ---
@@ -34,9 +34,7 @@ ht-degree: 0%
 
 ![](assets/two-1.png)
 
->[!NOTE]
->
->**관련 문서**
+>[!MORELIKETHIS]
 >
 >* [자유형 랜딩 페이지](http://docs.marketo.com/display/public/DOCS/Free-Form+Landing+Pages)
 >* [안내 랜딩 페이지](http://docs.marketo.com/display/DOCS/Guided+Landing+Pages)
