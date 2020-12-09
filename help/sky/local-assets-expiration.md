@@ -2,9 +2,9 @@
 title: local-assets-expiration
 description: 로컬 자산 만료
 translation-type: tm+mt
-source-git-commit: cd1b7e65c73de0b31f20289402f1c0832c382b33
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '195'
+source-wordcount: '185'
 ht-degree: 0%
 
 ---
@@ -14,13 +14,13 @@ ht-degree: 0%
 
 <br> 
 
-종료 날짜/시간을 설정하여 랜딩 페이지 게시 취소, 트리거 캠페인 비활성화 또는 반복 배치 캠페인을 중지합니다. 이 기능은 자산 탭 아래의 [!UICONTROL **만료**] 섹션에서 [!UICONTROL **찾을 수**] 있습니다.
+종료 날짜/시간을 설정하여 랜딩 페이지 게시 취소, 트리거 캠페인 비활성화 또는 반복 배치 캠페인을 중지합니다. 이 기능은 탭 아래의 **[!UICONTROL Expiration]** 섹션에서 찾을 수 **[!UICONTROL Assets]** 있습니다.
 
 ![이미지 원](/help/sky/assets/programs/local-assets-expiration/local-assets-expiration-1.png)
 
 ## 만료 날짜 설정
 
-1. 만료 날짜를 설정할 자산을 선택한 다음 만료 [!UICONTROL **설정을 클릭합니다**].
+1. 만료 날짜를 설정할 자산을 선택한 다음 을 클릭합니다 **[!UICONTROL Set Expiration]**.
 
    ![이미지 2](/help/sky/assets/programs/local-assets-expiration/local-assets-expiration-2.png)
 
@@ -28,13 +28,13 @@ ht-degree: 0%
 
    ![이미지 3](/help/sky/assets/programs/local-assets-expiration/local-assets-expiration-3.png)
 
-1. 영향을 받는 자산을 검토한 다음 확인을 [!UICONTROL **클릭합니다**].
+1. 영향을 받는 자산을 검토한 다음 을 클릭합니다 **[!UICONTROL Confirm]**.
 
    ![이미지 4](/help/sky/assets/programs/local-assets-expiration/local-assets-expiration-4.png)
 
 >[!NOTE]
 >
->기존 만료 날짜를 편집하려면 자산을 확인하고 만료 [!UICONTROL **설정을 클릭합니다**].
+>기존 만료 날짜를 편집하려면 자산을 확인하고 클릭하면 됩니다 **[!UICONTROL Set Expiration]**.
 
 >[!NOTE]
 >
@@ -42,11 +42,11 @@ ht-degree: 0%
 
 ## 만료 날짜 제거
 
-1. 만료 날짜를 제거하려면 자산을 확인하고 만료 [!UICONTROL **제거를 클릭합니다**].
+1. 만료 날짜를 제거하려면 자산을 확인하고 클릭합니다 **[!UICONTROL Remove Expiration]**.
 
    ![이미지 5](/help/sky/assets/programs/local-assets-expiration/local-assets-expiration-5.png)
 
-1. 영향을 받는 자산을 검토한 다음 확인을 [!UICONTROL **클릭합니다**].
+1. 영향을 받는 자산을 검토한 다음 을 클릭합니다 **[!UICONTROL Confirm]**.
 
    ![이미지 6](/help/sky/assets/programs/local-assets-expiration/local-assets-expiration-6.png)
 
