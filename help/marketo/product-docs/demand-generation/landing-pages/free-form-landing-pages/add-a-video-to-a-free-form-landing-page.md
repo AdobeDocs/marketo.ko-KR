@@ -3,9 +3,9 @@ unique-page-id: 2359722
 description: 무료 랜딩 페이지에 비디오 추가 - Marketing Docs - 제품 설명서
 title: 자유로운 형식의 랜딩 페이지에 비디오 추가
 translation-type: tm+mt
-source-git-commit: 00887ea53e395bea3a11fd28e0ac98b085ef6ed8
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '237'
+source-wordcount: '235'
 ht-degree: 0%
 
 ---
@@ -47,9 +47,7 @@ ht-degree: 0%
 
 축하합니다! 무료 랜딩 페이지에 비디오 공유를 추가했습니다. 랜딩 페이지를 승인하면 비디오 공유가 라이브됩니다. 랜딩 페이지를 [Facebook에](../../../../product-docs/demand-generation/facebook/publish-landing-pages-to-facebook.md) 게시하거나 웹 사이트에 [비디오 공유를 게시할 수도 있습니다](../../../../product-docs/demand-generation/social/social-functions/deploy-social-on-your-website.md).
 
->[!NOTE]
->
->**관련 문서**
+>[!MORELIKETHIS]
 >
 >완료했지만 필요한 경우 비디오 공유 설정을 변경할 수 있습니다. 공유 흐름 [을 사용자](../../../../product-docs/demand-generation/social/configuring-social-actions/customize-video-share-flow.md) 지정하는 것으로 시작합니다(공유 프롬프트가 열리는 시간과 장소).
 
