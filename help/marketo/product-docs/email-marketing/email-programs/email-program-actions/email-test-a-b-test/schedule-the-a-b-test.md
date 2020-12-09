@@ -3,9 +3,9 @@ unique-page-id: 2359547
 description: A/B 테스트 예약 - 마케팅 문서 - 제품 설명서
 title: A/B 테스트 예약
 translation-type: tm+mt
-source-git-commit: 00887ea53e395bea3a11fd28e0ac98b085ef6ed8
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '213'
+source-wordcount: '212'
 ht-degree: 0%
 
 ---
@@ -15,9 +15,7 @@ ht-degree: 0%
 
 이메일 프로그램에 A/B 테스트를 추가하고 테스트가 시작될 때 예약해야 하는 우승자 기준을 정의하면 됩니다. 방법
 
->[!NOTE]
->
->**사전 요구 사항**
+>[!PREREQUISITES]
 >
 >* [A/B 테스트 추가](add-an-a-b-test.md)
 
