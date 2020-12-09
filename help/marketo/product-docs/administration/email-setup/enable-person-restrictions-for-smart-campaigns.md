@@ -3,9 +3,9 @@ unique-page-id: 2360243
 description: 스마트 캠페인에 대한 사용자 제한 활성화 - Marketing To Docs - 제품 설명서
 title: 스마트 캠페인에 대한 사용자 제한 활성화
 translation-type: tm+mt
-source-git-commit: 00887ea53e395bea3a11fd28e0ac98b085ef6ed8
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '205'
+source-wordcount: '203'
 ht-degree: 0%
 
 ---
@@ -58,9 +58,7 @@ ht-degree: 0%
 
 빙고! 방금 안전스위치를 켜셨네요 좋은 생각이죠?
 
->[!NOTE]
->
->**관련 문서**
+>[!MORELIKETHIS]
 >
 >* [스마트 캠페인에서 개인 제한 무시](../../../product-docs/core-marketo-concepts/smart-campaigns/using-smart-campaigns/override-person-restrictions-in-a-smart-campaign.md)
 
