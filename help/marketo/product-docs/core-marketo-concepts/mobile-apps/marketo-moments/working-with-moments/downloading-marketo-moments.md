@@ -3,9 +3,9 @@ unique-page-id: 8782024
 description: 마케팅 문서 다운로드 - 마케팅 문서 - 제품 설명서
 title: 마케팅 모멘트 다운로드
 translation-type: tm+mt
-source-git-commit: 00887ea53e395bea3a11fd28e0ac98b085ef6ed8
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '109'
+source-wordcount: '107'
 ht-degree: 0%
 
 ---
@@ -46,9 +46,7 @@ App Store 또는 Google Play에서 Marketing To Moments 다운로드 및 Voila! 
 >
 >SAML(Security Assertion Markup Language)의 SSO(Single Sign-On)는 Marketing-to-Moment에서 지원되지 않습니다.
 
->[!NOTE]
->
->**관련 문서**
+>[!MORELIKETHIS]
 >
 >[마케팅 모멘트 이해](../../../../../product-docs/core-marketo-concepts/mobile-apps/marketo-moments/understanding-moments/understanding-marketo-moments.md)
 
