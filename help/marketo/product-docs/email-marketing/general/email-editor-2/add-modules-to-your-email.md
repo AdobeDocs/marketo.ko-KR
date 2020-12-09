@@ -3,9 +3,9 @@ unique-page-id: 11371065
 description: 이메일에 모듈 추가 - 마케팅 문서 - 제품 설명서
 title: 이메일에 모듈 추가
 translation-type: tm+mt
-source-git-commit: f27e2bac90570f9f795dc6bdd5fcf208c446be14
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '262'
+source-wordcount: '260'
 ht-degree: 0%
 
 ---
@@ -65,9 +65,7 @@ ht-degree: 0%
 
 그게 전부야
 
->[!NOTE]
->
->**관련 문서**
+>[!MORELIKETHIS]
 >
 >[이메일 템플릿 구문](email-template-syntax.md)
 
