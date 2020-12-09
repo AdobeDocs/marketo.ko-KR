@@ -3,9 +3,9 @@ unique-page-id: 10093192
 description: Marketing To 사용자 지정 개체 만들기 - Marketing To Docs - 제품 설명서
 title: 마케팅 사용자 지정 개체 만들기
 translation-type: tm+mt
-source-git-commit: 00887ea53e395bea3a11fd28e0ac98b085ef6ed8
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '712'
+source-wordcount: '710'
 ht-degree: 0%
 
 ---
@@ -133,9 +133,7 @@ Marketing의 사용자 지정 개체를 사용하여 비즈니스별 지표를 �
 
    다음 단계는 중간 개체를 개인/회사 및 사용자 지정 개체에 연결할 링크 필드 [를](add-marketo-custom-object-link-fields.md) 추가하는 것입니다.
 
->[!NOTE]
->
->**관련 문서**
+>[!MORELIKETHIS]
 >
 >* [마케팅 사용자 지정 개체 필드 추가](add-marketo-custom-object-fields.md)
 >* [Marketing to 사용자 지정 개체 링크 필드 추가](add-marketo-custom-object-link-fields.md)
