@@ -3,9 +3,9 @@ unique-page-id: 557337
 description: 목록 및 스마트 목록에 대한 보기 만들기 및 변경 - Marketing To Docs - 제품 설명서
 title: 목록 및 스마트 목록에 대한 보기 만들기 및 변경
 translation-type: tm+mt
-source-git-commit: 00887ea53e395bea3a11fd28e0ac98b085ef6ed8
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '226'
+source-wordcount: '224'
 ht-degree: 0%
 
 ---
@@ -70,9 +70,7 @@ ht-degree: 0%
 
 보기 드롭다운에서 만든 사용자 지정 보기만 볼 수 있으므로 친구들에게 직접 만들어야 한다고 말합니다.
 
->[!NOTE]
->
->**관련 문서**
+>[!MORELIKETHIS]
 >
 >* [내장/시스템 스마트 목록 사용](use-built-in-system-smart-lists.md)
 >* [스마트 목록 만들기](../../../../product-docs/core-marketo-concepts/smart-lists-and-static-lists/creating-a-smart-list/create-a-smart-list.md)
