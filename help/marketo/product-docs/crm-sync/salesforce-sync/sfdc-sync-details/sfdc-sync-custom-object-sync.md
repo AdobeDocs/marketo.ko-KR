@@ -3,9 +3,9 @@ unique-page-id: 2953471
 description: SFDC 동기화 - 사용자 정의 개체 동기화 - Marketing To Docs - 제품 설명서
 title: SFDC 동기화 - 사용자 정의 개체 동기화
 translation-type: tm+mt
-source-git-commit: 23428a6e0ba9b2108a8f2f7dd6a69929dd069834
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '216'
+source-wordcount: '215'
 ht-degree: 0%
 
 ---
@@ -19,9 +19,7 @@ Salesforce 인스턴스에서 만든 사용자 정의 개체는 Marketing To의 
 >
 >**관리자 권한 필요**
 
->[!NOTE]
->
->**사전 요구 사항**
+>[!PREREQUISITES]
 >
 >사용자 지정 개체를 사용하려면 Salesforce의 [리드](sfdc-sync-lead-sync.md), [](sfdc-sync-contact-sync.md)컨테이너 [](sfdc-sync-account-sync.md)계정에 연결해야 합니다.
 
