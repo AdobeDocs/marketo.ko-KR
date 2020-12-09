@@ -3,9 +3,9 @@ unique-page-id: 4720710
 description: 이메일 전달 기능에 대한 SPF 및 DKIM 설정 - Marketing Docs - 제품 설명서
 title: 이메일 전달 기능에 대해 SPF 및 DKIM 설정
 translation-type: tm+mt
-source-git-commit: 07ae1b3f3ee3e9d7f35373eea039d336bd786f97
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '456'
+source-wordcount: '454'
 ht-degree: 0%
 
 ---
@@ -47,9 +47,7 @@ DKIM을 어떻게 설정합니까?
 
 사용자 [지정 DKIM 서명 설정을 참조하십시오](set-up-a-custom-dkim-signature.md).
 
->[!NOTE]
->
->**관련 문서**
+>[!MORELIKETHIS]
 >
 >* [SPF와 SPF의 작동 방식에 대한 자세한 내용](http://www.open-spf.org/Introduction/)
 >* [Marketing&#39;s Email Delivery Tools](https://www.marketo.com/software/email-marketing/email-deliverability/)
