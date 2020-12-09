@@ -3,9 +3,9 @@ unique-page-id: 1147118
 description: 프로그램에서 기간 비용 사용 - 마케팅 문서 - 제품 설명서
 title: 프로그램에서 기간 비용 사용
 translation-type: tm+mt
-source-git-commit: 00887ea53e395bea3a11fd28e0ac98b085ef6ed8
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '238'
+source-wordcount: '236'
 ht-degree: 0%
 
 ---
@@ -80,9 +80,7 @@ ht-degree: 0%
 
    ![](assets/image2014-9-18-14-3a4-3a35.png)
 
->[!NOTE]
->
->**관련 문서**
+>[!MORELIKETHIS]
 >
 >* [기간 비용 이해](understanding-period-costs.md)
 >* [매출 주기 분석](http://docs.marketo.com/display/docs/revenue+cycle+analytics)
