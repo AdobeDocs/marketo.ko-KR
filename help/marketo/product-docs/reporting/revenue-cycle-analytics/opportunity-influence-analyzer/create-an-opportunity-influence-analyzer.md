@@ -3,9 +3,9 @@ unique-page-id: 2360235
 description: 기회 영향 분석기 만들기 - 마케팅 문서 - 제품 설명서
 title: 기회 영향 분석기 만들기
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '227'
+source-wordcount: '225'
 ht-degree: 0%
 
 ---
@@ -62,9 +62,7 @@ ht-degree: 0%
 >
 >Marketing [University에서 Opportunity Affect Analyzer에 대한 비디오를 볼 수도 있습니다](https://learn.marketo.com). (지금은 조금 다르게 보이지만 아직도 많은 것을 배울 수 있습니다!)
 
->[!NOTE]
->
->**관련 문서**
+>[!MORELIKETHIS]
 >
 >* [기회 영향 분석기를 사용하여 마케팅 스토리 전달](tell-the-marketing-story-with-an-opportunity-influence-analyzer.md)
 >* [기회 영향 분석기 구성](configure-an-opportunity-influence-analyzer.md)
