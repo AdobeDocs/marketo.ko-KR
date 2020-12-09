@@ -3,9 +3,9 @@ unique-page-id: 7504923
 description: 관리자 계정 - Marketing Docs - 제품 설명서를 사용하여 매출 모델에서 Google AdWords 전환 설정
 title: 관리자 계정으로 매출 모델에서 Google AdWords 전환 설정
 translation-type: tm+mt
-source-git-commit: 00887ea53e395bea3a11fd28e0ac98b085ef6ed8
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '449'
+source-wordcount: '448'
 ht-degree: 0%
 
 ---
@@ -22,9 +22,7 @@ Google AdWords 계정을 Marketing에 연결하여 Marketing에서 Google AdWord
 * 스테이지 동작
 * AdWords 매핑
 
->[!NOTE]
->
->**사전 요구 사항**
+>[!PREREQUISITES]
 >
 >* [관리자 계정을 사용하여 Google AdWords를 Launchpoint 서비스로 추가](../../../../product-docs/administration/additional-integrations/add-google-adwords-as-a-launchpoint-service-with-a-manager-account.md)
 
