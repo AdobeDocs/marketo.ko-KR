@@ -2,9 +2,9 @@
 title: save-smart-list-rules
 description: 스마트 목록 규칙 저장
 translation-type: tm+mt
-source-git-commit: 642fd57105afff1031f18883c5809206f136b7c6
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '184'
+source-wordcount: '170'
 ht-degree: 0%
 
 ---
@@ -22,7 +22,7 @@ ht-degree: 0%
 
    ![이미지 원](/help/sky/assets/smart-lists-and-static-lists/save-smart-list-rules/save-smart-list-rules-1.png)
 
-1. 스마트 [!UICONTROL **목록을 클릭합니다**].
+1. 을 **[!UICONTROL Smart List]**&#x200B;클릭합니다.
 
    ![이미지 2](/help/sky/assets/smart-lists-and-static-lists/save-smart-list-rules/save-smart-list-rules-2.png)
 
@@ -32,11 +32,11 @@ ht-degree: 0%
 
    ![이미지 4](/help/sky/assets/smart-lists-and-static-lists/save-smart-list-rules/save-smart-list-rules-4.png)
 
-1. 필터/트리거 추가를 완료하면 [!UICONTROL **스마트 캠페인 작업**] 드롭다운 [!UICONTROL **을 클릭하고 스마트 목록 규칙 저장을 선택합니다**].
+1. 필터/트리거 추가를 완료하면 **[!UICONTROL Smart Campaign Actions]** 드롭다운을 클릭하고 선택합니다 **[!UICONTROL Save Smart List Rule]**.
 
    ![이미지 5](/help/sky/assets/smart-lists-and-static-lists/save-smart-list-rules/save-smart-list-rules-5.png)
 
-1. 규칙 세트의 이름을 지정하고 저장을 [!UICONTROL **클릭합니다**].
+1. 규칙 세트의 이름을 지정하고 을 클릭합니다 **[!UICONTROL Save]**.
 
    ![이미지 6](/help/sky/assets/smart-lists-and-static-lists/save-smart-list-rules/save-smart-list-rules-6.png)
 
@@ -48,11 +48,11 @@ ht-degree: 0%
 
    ![이미지 7](/help/sky/assets/smart-lists-and-static-lists/save-smart-list-rules/save-smart-list-rules-7.png)
 
-1. 스마트 [!UICONTROL **목록을 클릭합니다**].
+1. 을 **[!UICONTROL Smart List]**&#x200B;클릭합니다.
 
    ![이미지 8](/help/sky/assets/smart-lists-and-static-lists/save-smart-list-rules/save-smart-list-rules-8.png)
 
-1. 저장된 [!UICONTROL **규칙**] 드롭다운을 클릭합니다.
+1. 드롭다운을 **[!UICONTROL Saved Rule]** 클릭합니다.
 
    ![이미지 9](/help/sky/assets/smart-lists-and-static-lists/save-smart-list-rules/save-smart-list-rules-9.png)
 
