@@ -3,9 +3,9 @@ unique-page-id: 2950561
 description: 사용자 지정 이벤트에 대한 전환 스크립트 - 마케팅 문서 - 제품 설명서
 title: 사용자 지정 이벤트에 대한 전환 스크립트
 translation-type: tm+mt
-source-git-commit: 1a29614ec938074902af201b2ffc11cfaa625f7a
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '280'
+source-wordcount: '278'
 ht-degree: 0%
 
 ---
@@ -58,9 +58,7 @@ ht-degree: 0%
 
 대단해! 이제 웹 사이트에서 Marketing To를 사용하여 사용자 지정 소셜 홍보 목표를 캡처하고 있습니다.
 
->[!NOTE]
->
->**관련 문서**
+>[!MORELIKETHIS]
 >
 >* [참조 오퍼에 대한 목표 지정](../../../../product-docs/demand-generation/social/referral-offers/specify-goal-for-referral-offer.md)
 >* [참조 오퍼 만들기](../../../../product-docs/demand-generation/social/referral-offers/create-a-referral-offer.md)
