@@ -2,9 +2,9 @@
 title: move-a-smart-campaign
 description: 스마트 캠페인 이동
 translation-type: tm+mt
-source-git-commit: cd1b7e65c73de0b31f20289402f1c0832c382b33
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '48'
+source-wordcount: '46'
 ht-degree: 0%
 
 ---
@@ -20,7 +20,7 @@ ht-degree: 0%
 
    ![이미지 원](/help/sky/assets/smart-campaigns/move-a-smart-campaign/move-a-smart-campaign-1.png)
 
-1. 마우스 오른쪽 버튼을 클릭하고 [!UICONTROL **이동을 선택합니다**].
+1. 마우스 오른쪽 버튼을 클릭하고 선택합니다 **[!UICONTROL Move]**.
 
    ![이미지 2](/help/sky/assets/smart-campaigns/move-a-smart-campaign/move-a-smart-campaign-2.png)
 
@@ -28,6 +28,6 @@ ht-degree: 0%
 
    ![이미지 3](/help/sky/assets/smart-campaigns/move-a-smart-campaign/move-a-smart-campaign-3.png)
 
-1. 이동을 [!UICONTROL **클릭합니다**].
+1. 을 **[!UICONTROL Move]**&#x200B;클릭합니다.
 
    ![이미지 4](/help/sky/assets/smart-campaigns/move-a-smart-campaign/move-a-smart-campaign-4.png)
