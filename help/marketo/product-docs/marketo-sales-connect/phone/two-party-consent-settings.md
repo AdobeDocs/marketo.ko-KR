@@ -3,9 +3,9 @@ unique-page-id: 45416566
 description: 2자 동의 설정 - 마케팅 문서 - 제품 설명서
 title: 2자 동의 설정
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '159'
+source-wordcount: '158'
 ht-degree: 0%
 
 ---
@@ -15,9 +15,7 @@ ht-degree: 0%
 
 전화 통화 시 미국 양자 동의 법을 준수하기 위해 관리자는 통화 중 시작될 때 자신이 선택한 메시지 중 미리 녹화된 메시지를 활성화할 수 있습니다.
 
->[!NOTE]
->
->**사전 요구 사항**
+>[!PREREQUISITES]
 >
 >아래 단계를 수행하기 전에 먼저 전화 [기록을 활성화해야 합니다.](http://docs.marketo.com/x/dAC1Ag)
 
