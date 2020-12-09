@@ -3,9 +3,9 @@ unique-page-id: 1146995
 description: 흐름 단계의 토큰 사용 - Marketing To Docs - 제품 설명서
 title: 흐름 단계에서 토큰 사용
 translation-type: tm+mt
-source-git-commit: 728066ab05de82f6123bfaa1f0b05af8632e32b2
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '203'
+source-wordcount: '202'
 ht-degree: 0%
 
 ---
@@ -13,9 +13,7 @@ ht-degree: 0%
 
 # 흐름 단계에서 토큰 사용 {#use-tokens-in-flow-steps}
 
->[!NOTE]
->
->**사전 요구 사항**
+>[!PREREQUISITES]
 >
 >* [스마트 캠페인에 흐름 단계 추가](add-a-flow-step-to-a-smart-campaign.md)
 
