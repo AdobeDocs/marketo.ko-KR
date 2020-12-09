@@ -3,9 +3,9 @@ unique-page-id: 2359553
 description: 이메일 챔피언/도전자(Challenger) 추가 - 마케팅 문서 - 제품 설명서
 title: 이메일 챔피언/도전자 추가
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '217'
+source-wordcount: '216'
 ht-degree: 0%
 
 ---
@@ -17,9 +17,7 @@ ht-degree: 0%
 테스트하고 있는 기존 이메일이 챔피언으로 간주됩니다. 테스트 내에서 만드는 모든 변형이 도전자로 간주됩니다. 챔피언 콘텐츠 또는 도전자 콘텐트를 받는 사람들의 백분율을 결정합니다. 여러 도전자를 정의한 경우 도전자 그룹 간에 균등하게 배포됩니다.\
 시작하기
 
->[!NOTE]
->
->**사전 요구 사항**
+>[!PREREQUISITES]
 >
 >* [프로그램 만들기](../../../../../product-docs/core-marketo-concepts/programs/creating-programs/create-a-program.md)
 >* [이메일 만들기](../../../../../product-docs/email-marketing/general/creating-an-email/create-an-email.md)
