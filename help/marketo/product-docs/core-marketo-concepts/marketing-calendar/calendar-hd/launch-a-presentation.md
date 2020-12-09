@@ -3,9 +3,9 @@ unique-page-id: 7504120
 description: 프레젠테이션 시작 - 마케팅 문서 - 제품 설명서
 title: 프레젠테이션 실행
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '116'
+source-wordcount: '115'
 ht-degree: 0%
 
 ---
@@ -21,9 +21,7 @@ ht-degree: 0%
 >
 >모든 고객이 이 기능을 구입하지는 않았습니다. 자세한 내용은 영업 담당자에게 문의하십시오.
 
->[!NOTE]
->
->**사전 요구 사항**
+>[!PREREQUISITES]
 >
 >* [프레젠테이션 만들기](create-a-presentation.md)
 >* [프레젠테이션 사용자 정의](customize-a-presentation.md)
