@@ -3,9 +3,9 @@ unique-page-id: 2360437
 description: 프로그램 분석기를 사용한 프로그램 및 채널 세부 정보 살펴보기 - Marketing Docs - 제품 설명서
 title: 프로그램 분석기를 사용하여 프로그램 및 채널 세부 사항 살펴보기
 translation-type: tm+mt
-source-git-commit: f74d028e491aa70913fbe5cf14e536e50dbee32b
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '214'
+source-wordcount: '213'
 ht-degree: 0%
 
 ---
@@ -15,9 +15,7 @@ ht-degree: 0%
 
 프로그램 분석기에서 자세한 프로그램 및 채널 상태를 확인할 수 있습니다. 매출 주기 탐색기에서 열 수도 있습니다.
 
->[!NOTE]
->
->**사전 요구 사항**
+>[!PREREQUISITES]
 >
 >* [프로그램 분석기 만들기](create-a-program-analyzer.md)
 
