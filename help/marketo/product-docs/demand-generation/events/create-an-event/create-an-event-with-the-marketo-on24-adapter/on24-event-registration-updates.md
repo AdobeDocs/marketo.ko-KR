@@ -3,9 +3,9 @@ unique-page-id: 10096683
 description: ON24 이벤트 등록 업데이트 - Marketing Docs - 제품 설명서
 title: ON24 이벤트 등록 업데이트
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '284'
+source-wordcount: '282'
 ht-degree: 0%
 
 ---
@@ -39,9 +39,7 @@ ht-degree: 0%
 
 Marketing Cloud는 매일 밤 약 오후 11시에 참석 정보를 자동으로 가져옵니다. 참석 정보를 수동으로 업데이트하려면 [이벤트 작업] 아래에서 **웨비나** 제공자로부터 **새로 고침을 클릭합니다**.
 
->[!NOTE]
->
->**관련 문서**
+>[!MORELIKETHIS]
 >
 >* [Marketing ON24 어댑터 이벤트 이해](understanding-marketo-on24-adapter-events.md)
 
