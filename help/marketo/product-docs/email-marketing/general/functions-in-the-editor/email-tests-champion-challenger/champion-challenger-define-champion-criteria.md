@@ -3,9 +3,9 @@ unique-page-id: 2359562
 description: Champion/Challenger -Define Champion Criteria - Marketing Docs - 제품 설명서
 title: 챔피언/도전자 -챔피언 기준 정의
 translation-type: tm+mt
-source-git-commit: 313266a67243f0c70c25010cb4825efb7f3db0ab
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '182'
+source-wordcount: '181'
 ht-degree: 0%
 
 ---
@@ -15,9 +15,7 @@ ht-degree: 0%
 
 테스트 유형을 설정했으면 챔피언 기준을 정의해야 합니다. 방법
 
->[!NOTE]
->
->**사전 요구 사항**
+>[!PREREQUISITES]
 >
 >* [이메일 챔피언/도전자 추가](add-an-email-champion-challenger.md)
 
