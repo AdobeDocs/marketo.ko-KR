@@ -3,9 +3,9 @@ unique-page-id: 11377406
 description: 작업 영역 - Marketing To Docs - 제품 설명서를 사용하여 기본 브랜딩 도메인 편집
 title: 작업 영역을 사용하여 기본 브랜딩 도메인 편집
 translation-type: tm+mt
-source-git-commit: c33b7ab59e612f37d3f64bb954579700dc574068
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '162'
+source-wordcount: '160'
 ht-degree: 0%
 
 ---
@@ -41,9 +41,7 @@ ht-degree: 0%
 
 이제 작업 영역에 필요한 브랜딩 도메인 [을 더](add-an-additional-branding-domain-with-workspaces.md) 추가할 수 있습니다.
 
->[!NOTE]
->
->**관련 문서**
+>[!MORELIKETHIS]
 >
 >* [작업 영역을 사용하여 추가 브랜딩 도메인 추가](add-an-additional-branding-domain-with-workspaces.md)
 
