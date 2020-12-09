@@ -3,9 +3,9 @@ unique-page-id: 1147154
 description: 프로그램과 SFDC 캠페인 동기화 - Marketing To Docs - 제품 설명서
 title: 프로그램과 SFDC 캠페인 동기화
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '177'
+source-wordcount: '176'
 ht-degree: 0%
 
 ---
@@ -15,9 +15,7 @@ ht-degree: 0%
 
 Marketing을 사용하면 프로그램을 Salesforce 캠페인과 동기화하여 상태 등 두 시스템에서 동일한 사용자 목록을 유지할 수 있습니다. 시작합시다!
 
->[!NOTE]
->
->**사전 요구 사항**
+>[!PREREQUISITES]
 >
 >먼저 Salesforce 캠페인 [동기화를](../../../../product-docs/crm-sync/salesforce-sync/setup/optional-steps/enable-disable-campaign-sync.md) 활성화해야 합니다.
 
