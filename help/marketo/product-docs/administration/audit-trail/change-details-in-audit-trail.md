@@ -3,9 +3,9 @@ unique-page-id: 11379928
 description: 감사 추적 - 마케팅 문서 - 제품 설명서의 세부 사항 변경
 title: 감사 추적 시 세부 사항 변경
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '1903'
+source-wordcount: '1901'
 ht-degree: 0%
 
 ---
@@ -799,9 +799,7 @@ Audit Trail은 Marketing To 구독에서 누가 무엇을 하는지를 매우 �
  </tbody> 
 </table>
 
->[!NOTE]
->
->**관련 문서**
+>[!MORELIKETHIS]
 >
 >* [감사 추적 내의 필터링](filtering-in-audit-trail.md)
 
