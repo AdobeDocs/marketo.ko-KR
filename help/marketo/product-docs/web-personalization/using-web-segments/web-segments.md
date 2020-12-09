@@ -3,9 +3,9 @@ unique-page-id: 4719093
 description: 웹 세그먼트 - 마케팅 문서 - 제품 설명서
 title: 웹 세그먼트
 translation-type: tm+mt
-source-git-commit: c33b7ab59e612f37d3f64bb954579700dc574068
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '2033'
+source-wordcount: '2031'
 ht-degree: 0%
 
 ---
@@ -342,8 +342,7 @@ Mobile OS를 세그먼트 편집기로 드래그하여 놓기
 
 좋아요! 세그먼트 섹션을 이해했으므로 캠페인에 대해 알아 보겠습니다.
 
->[!NOTE]
-**관련 문서**
+>[!MORELIKETHIS]
 * [기본 웹 세그먼트 만들기](create-a-basic-web-segment.md)
 * [새 대화 상자 웹 캠페인 만들기](../../../product-docs/web-personalization/working-with-web-campaigns/create-a-new-dialog-web-campaign.md)
 * [영역에서 새 웹 캠페인 만들기](../../../product-docs/web-personalization/working-with-web-campaigns/create-a-new-in-zone-web-campaign.md)
