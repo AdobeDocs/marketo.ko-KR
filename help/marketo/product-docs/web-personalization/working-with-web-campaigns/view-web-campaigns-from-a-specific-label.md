@@ -3,9 +3,9 @@ unique-page-id: 4720075
 description: 특정 레이블에서 웹 캠페인 보기 - 마케팅 문서 - 제품 설명서
 title: 특정 레이블에서 웹 캠페인 보기
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '84'
+source-wordcount: '82'
 ht-degree: 0%
 
 ---
@@ -29,9 +29,7 @@ ht-degree: 0%
 
    ![](assets/web-campaigns-label-showing-1.jpg)
 
->[!NOTE]
->
->**관련 문서**
+>[!MORELIKETHIS]
 >
 >* [웹 캠페인 레이블 지정](label-your-web-campaigns.md)
 >* [특정 레이블에서 세그먼트 보기](../../../product-docs/web-personalization/using-web-segments/view-segments-from-a-specific-label.md)
