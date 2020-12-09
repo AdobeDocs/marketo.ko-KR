@@ -3,9 +3,9 @@ unique-page-id: 2359498
 description: 코드 조각 미리 보기 - 마케팅 문서 - 제품 설명서
 title: 코드 조각 미리 보기
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '62'
+source-wordcount: '61'
 ht-degree: 0%
 
 ---
@@ -13,9 +13,7 @@ ht-degree: 0%
 
 # 코드 조각 미리 보기 {#preview-a-snippet}
 
->[!NOTE]
->
->**사전 요구 사항**
+>[!PREREQUISITES]
 >
 >* [코드 조각에 컨텐츠 추가](add-content-to-a-snippet.md)
 
