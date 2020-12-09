@@ -3,9 +3,9 @@ unique-page-id: 557273
 description: 스마트 목록에 필터 찾기 및 추가 - 마케팅 문서 - 제품 설명서
 title: 스마트 목록에 필터 찾기 및 추가
 translation-type: tm+mt
-source-git-commit: 00887ea53e395bea3a11fd28e0ac98b085ef6ed8
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '185'
+source-wordcount: '183'
 ht-degree: 0%
 
 ---
@@ -45,9 +45,7 @@ ht-degree: 0%
 
 완벽해! 이제 이러한 필터를 정의하겠습니다.
 
->[!NOTE]
->
->**관련 문서**
+>[!MORELIKETHIS]
 >
 >* [스마트 목록 만들기](create-a-smart-list.md)
 >* [스마트 목록 필터 정의](define-smart-list-filters.md)
