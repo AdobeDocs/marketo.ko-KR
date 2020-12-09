@@ -3,9 +3,9 @@ unique-page-id: 2359581
 description: Champion/Challenger -이메일 테스트 승인 - Marketing Docs - 제품 설명서
 title: Champion/Challenger -이메일 테스트 승인
 translation-type: tm+mt
-source-git-commit: 96cc6a30c63c8e8dca793a52e4bf7ecaef8c08dc
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '145'
+source-wordcount: '144'
 ht-degree: 0%
 
 ---
@@ -15,9 +15,7 @@ ht-degree: 0%
 
 이메일 테스트를 승인하기 위한 최종 단계입니다. 방법
 
->[!NOTE]
->
->**사전 요구 사항**
+>[!PREREQUISITES]
 >
 >* [챔피언/도전자:보고서 경고 구성](champion-challenger-configure-report-alerts.md)
 
