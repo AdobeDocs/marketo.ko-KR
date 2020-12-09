@@ -3,9 +3,9 @@ unique-page-id: 2360274
 description: 태그 값 관리 - 마케팅 문서 - 제품 설명서
 title: 태그 값 관리
 translation-type: tm+mt
-source-git-commit: 00887ea53e395bea3a11fd28e0ac98b085ef6ed8
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '175'
+source-wordcount: '174'
 ht-degree: 0%
 
 ---
@@ -19,9 +19,7 @@ ht-degree: 0%
 >
 >**관리자 권한 필요**
 
->[!NOTE]
->
->**사전 요구 사항**
+>[!PREREQUISITES]
 >
 >[새 프로그램 태그 및 태그 값 만들기](create-a-new-program-tag-and-tag-values.md)
 
