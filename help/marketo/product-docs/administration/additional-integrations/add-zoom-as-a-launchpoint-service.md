@@ -3,9 +3,9 @@ unique-page-id: 17728028
 description: LaunchPoint 서비스로 확대/축소 추가 - Marketing Docs - 제품 설명서
 title: LaunchPoint 서비스로 확대/축소 추가
 translation-type: tm+mt
-source-git-commit: 00887ea53e395bea3a11fd28e0ac98b085ef6ed8
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '143'
+source-wordcount: '141'
 ht-degree: 0%
 
 ---
@@ -55,9 +55,7 @@ Marketing to에서 확대/축소 등록 및 참석을 관리합니다.
 >
 >확대/축소에서 암호를 업데이트할 때는 Marketing Cloud에서도 암호를 업데이트해야 합니다.
 
->[!NOTE]
->
->**관련 문서**
+>[!MORELIKETHIS]
 >
 >확대/축소 [를 사용하여 이벤트를 만드는 방법을 알아봅니다](../../../product-docs/demand-generation/events/create-an-event/create-an-event-with-zoom.md).
 
