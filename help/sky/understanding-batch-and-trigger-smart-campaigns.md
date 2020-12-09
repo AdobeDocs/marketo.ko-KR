@@ -2,9 +2,9 @@
 title: alunderstanding-batch-and-trigger-smart-campaigns
 description: 일괄 처리 이해 및 스마트 캠페인 트리거
 translation-type: tm+mt
-source-git-commit: cd1b7e65c73de0b31f20289402f1c0832c382b33
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '292'
+source-wordcount: '290'
 ht-degree: 0%
 
 ---
@@ -24,7 +24,7 @@ ht-degree: 0%
 
 ![이미지 원](/help/sky/assets/smart-campaigns/understanding-batch-and-trigger-smart-campaigns/understanding-batch-and-trigger-smart-campaigns-1.png)
 
-예약 [!UICONTROL **탭을**] 클릭하면 스마트 캠페인이 &quot;일괄 처리&quot;로 설정되어 있는지 확인합니다.
+이 **[!UICONTROL Schedule]** 탭을 클릭하면 스마트 캠페인이 &quot;배치&quot;로 설정되어 있는지 확인합니다.
 
 ![이미지 2](/help/sky/assets/smart-campaigns/understanding-batch-and-trigger-smart-campaigns/understanding-batch-and-trigger-smart-campaigns-2.png)
 
@@ -42,7 +42,7 @@ ht-degree: 0%
 
 ![이미지 3](/help/sky/assets/smart-campaigns/understanding-batch-and-trigger-smart-campaigns/understanding-batch-and-trigger-smart-campaigns-3.png)
 
-예약 [!UICONTROL **탭을**] 클릭하면 스마트 캠페인이 &quot;트리거&quot;로 설정되어 있는지 확인합니다.
+이 **[!UICONTROL Schedule]** 탭을 클릭하면 스마트 캠페인이 &quot;트리거&quot;로 설정되어 있는지 확인합니다.
 
 ![이미지 4](/help/sky/assets/smart-campaigns/understanding-batch-and-trigger-smart-campaigns/understanding-batch-and-trigger-smart-campaigns-4.png)
 
