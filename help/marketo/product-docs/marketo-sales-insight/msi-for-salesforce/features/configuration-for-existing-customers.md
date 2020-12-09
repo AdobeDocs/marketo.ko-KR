@@ -3,9 +3,9 @@ unique-page-id: 42762519
 description: 기존 고객을 위한 구성 - Marketing Docs - 제품 설명서
 title: 기존 고객을 위한 구성
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '184'
+source-wordcount: '183'
 ht-degree: 0%
 
 ---
@@ -15,9 +15,7 @@ ht-degree: 0%
 
 새 인사이트 대시보드 사용을 시작하려면 다음 구성을 설정하십시오.
 
->[!NOTE]
->
->**사전 요구 사항**
+>[!PREREQUISITES]
 >
 >Salesforce 패키지를 최신 버전으로 업그레이드했는지 확인하십시오.
 
