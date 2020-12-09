@@ -3,9 +3,9 @@ unique-page-id: 11377392
 description: 기본 브랜딩 도메인 편집 - Marketing To Docs - 제품 설명서
 title: 기본 브랜딩 도메인 편집
 translation-type: tm+mt
-source-git-commit: c33b7ab59e612f37d3f64bb954579700dc574068
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '113'
+source-wordcount: '112'
 ht-degree: 0%
 
 ---
@@ -15,9 +15,7 @@ ht-degree: 0%
 
 기본 브랜딩 도메인을 편집하는 것은 브랜드 도메인 작업의 첫 번째 단계입니다.
 
->[!NOTE]
->
->**사전 요구 사항**
+>[!PREREQUISITES]
 >
 >Marketing To에서 브랜딩 도메인을 [추가하기 전에 DNS에](../../../../getting-started/setup-steps/configure-protocols-for-marketo.md) CNAME을 설정해야 합니다.
 
