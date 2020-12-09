@@ -3,9 +3,9 @@ unique-page-id: 2949904
 description: 랜딩 페이지 테스트 그룹 - 마케팅 문서 - 제품 설명서
 title: 랜딩 페이지 테스트 그룹
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '202'
+source-wordcount: '201'
 ht-degree: 0%
 
 ---
@@ -15,9 +15,7 @@ ht-degree: 0%
 
 Marketing to는 테스트 그룹 내의 테스트된 각 페이지에서 페이지 보기 및 양식 완료 수를 추적합니다. 테스트 그룹 결과를 사용하여 가장 매력적인 랜딩 페이지를 결정할 수 있습니다. 테스트 그룹을 만드는 방법은 다음과 같습니다.
 
->[!NOTE]
->
->**사전 요구 사항**
+>[!PREREQUISITES]
 >
 >[두 개 이상의 랜딩 페이지](../../../../getting-started/quick-wins/landing-page-with-a-form.md)(가급적이면 양식과 함께)를 만듭니다.
 
