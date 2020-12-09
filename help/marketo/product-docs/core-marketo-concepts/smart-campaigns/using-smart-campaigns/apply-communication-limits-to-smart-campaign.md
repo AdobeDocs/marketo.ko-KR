@@ -3,9 +3,9 @@ unique-page-id: 1147064
 description: 스마트 캠페인에 통신 제한 적용 - 마케팅 문서 - 제품 설명서
 title: 스마트 캠페인에 통신 제한 적용
 translation-type: tm+mt
-source-git-commit: c33b7ab59e612f37d3f64bb954579700dc574068
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '137'
+source-wordcount: '136'
 ht-degree: 0%
 
 ---
@@ -13,9 +13,7 @@ ht-degree: 0%
 
 # 스마트 캠페인에 통신 제한 적용 {#apply-communication-limits-to-smart-campaign}
 
->[!NOTE]
->
->**사전 요구 사항**
+>[!PREREQUISITES]
 >
 >* [통신 제한 사용](../../../../product-docs/administration/email-setup/enable-communication-limits.md)
 
