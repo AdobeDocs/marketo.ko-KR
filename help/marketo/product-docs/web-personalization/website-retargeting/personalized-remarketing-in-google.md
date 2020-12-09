@@ -3,9 +3,9 @@ unique-page-id: 4720810
 description: Google에서 개인화된 리마케팅 - Marketing Docs - 제품 설명서
 title: Google의 개인화된 리마케팅
 translation-type: tm+mt
-source-git-commit: 09dbd3a141fed0525aec8bf1ca6d141be2a6ce46
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '300'
+source-wordcount: '299'
 ht-degree: 0%
 
 ---
@@ -15,9 +15,7 @@ ht-degree: 0%
 
 개인화된 리마케팅을 사용하면 Google 디스플레이 네트워크의 접근성을 통해 RTP 데이터 및 강력한 Google Analytics을 사용하여 사용자와 다시 교류할 수 있습니다.
 
->[!NOTE]
->
->**사전 요구 사항**
+>[!PREREQUISITES]
 >
 >* 웹 [개인화 데이터 구성을 사용하여 리타겟팅](retargeting-with-web-personalization-data.md) 완료
 >* Google Analytics [로 리마케팅 검토 도움말](https://support.google.com/analytics/topic/2611283?hl=en&amp;ref_topic=3413645) 설명서
