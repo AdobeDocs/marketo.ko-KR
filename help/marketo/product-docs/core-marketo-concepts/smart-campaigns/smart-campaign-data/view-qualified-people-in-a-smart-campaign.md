@@ -3,9 +3,9 @@ unique-page-id: 1146966
 description: 스마트 캠페인 - 마케팅 문서 - 제품 문서에서 적격한 사람 보기
 title: 스마트 캠페인에서 자격이 있는 사람 보기
 translation-type: tm+mt
-source-git-commit: 00887ea53e395bea3a11fd28e0ac98b085ef6ed8
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '169'
+source-wordcount: '167'
 ht-degree: 0%
 
 ---
@@ -37,9 +37,7 @@ ht-degree: 0%
 
 달콤해 이 목록을 사용하여 스마트 캠페인을 실행하기 전에 흐름을 거칠 수 있는 사람을 확인할 수 있습니다.
 
->[!NOTE]
->
->**관련 문서**
+>[!MORELIKETHIS]
 >
 >* [스마트 캠페인 멤버 보기](view-smart-campaign-members.md)
 >* [스마트 캠페인에서 차단된 사람 보기](view-blocked-people-in-a-smart-campaign.md)
