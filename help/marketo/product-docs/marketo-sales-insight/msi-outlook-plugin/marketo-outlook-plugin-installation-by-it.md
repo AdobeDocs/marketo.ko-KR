@@ -3,9 +3,9 @@ unique-page-id: 11382815
 description: IT별 Marketing Outlook 플러그인 설치 - Marketing Docs - 제품 설명서
 title: IT별 Marketing Outlook 플러그인 설치
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '192'
+source-wordcount: '191'
 ht-degree: 0%
 
 ---
@@ -15,9 +15,7 @@ ht-degree: 0%
 
 기업 정책에 따라 IT 팀이 직원의 컴퓨터에 모든 소프트웨어를 설치해야 하는 경우가 있습니다. 이러한 경우 IT는 자체 배포 소프트웨어를 사용하여 원격으로 이러한 작업을 수행하는 경우가 많습니다. 이 문서는 Outlook 플러그인을 원격으로 설치하는 배포 프로세스 동안 입력으로 사용할 명령줄을 제공합니다.
 
->[!NOTE]
->
->**사전 요구 사항**
+>[!PREREQUISITES]
 >
 >[기업](http://docs.marketo.com/display/DOCS/Install+the+Marketo+Add-in+for+Outlook+with+an+Enterprise+Key) 키를 설정합니다.
 
