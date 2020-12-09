@@ -2,9 +2,9 @@
 title: archive-a-program
 description: 프로그램 보관
 translation-type: tm+mt
-source-git-commit: 642fd57105afff1031f18883c5809206f136b7c6
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '253'
+source-wordcount: '243'
 ht-degree: 0%
 
 ---
@@ -14,23 +14,23 @@ ht-degree: 0%
 
 프로그램을 보관하려면 별도의 보관 폴더로 이동해야 합니다.
 
-1. 작업장 지구 마우스 오른쪽 단추를 클릭하고 새 캠페인 폴더 [!UICONTROL **를 선택하여 새 캠페인 폴더를 만듭니다**].
+1. 작업장 지구 마우스 오른쪽 단추를 클릭하고 선택하여 새 캠페인 폴더를 만듭니다 **[!UICONTROL New Campaign Folder]**.
 
    ![이미지 원](/help/sky/assets/programs/archive-a-program/archive-a-program-1.png)
 
-1. 새 폴더의 이름을 입력한 다음, 선택적 설명을 추가합니다. 만들기를 [!UICONTROL **클릭합니다**].
+1. 새 폴더의 이름을 입력한 다음, 선택적 설명을 추가합니다. 을 **[!UICONTROL Create]**&#x200B;클릭합니다.
 
    ![이미지 2](/help/sky/assets/programs/archive-a-program/archive-a-program-2.png)
 
-1. 프로그램을 보관하려면 먼저 트리에서 해당 프로그램을 마우스 오른쪽 버튼으로 클릭하고 이동을 선택하여 새로 만든 폴더에 [!UICONTROL **추가합니다**].
+1. 프로그램을 보관하려면 먼저 트리에서 해당 프로그램을 마우스 오른쪽 단추로 클릭하고 선택하여 새로 만든 폴더에 추가합니다 **[!UICONTROL Move]**.
 
    ![이미지 3](/help/sky/assets/programs/archive-a-program/archive-a-program-3.png)
 
-1. 새 폴더를 검색하려면 입력한 다음 드롭다운에서 선택합니다. 이동을 [!UICONTROL **클릭합니다**].
+1. 새 폴더를 검색하려면 입력한 다음 드롭다운에서 선택합니다. 을 **[!UICONTROL Move]**&#x200B;클릭합니다.
 
    ![이미지 4](/help/sky/assets/programs/archive-a-program/archive-a-program-4.png)
 
-1. 폴더를 마우스 오른쪽 단추로 클릭하고 [보관 폴더로 [!UICONTROL **변환]을 선택합니다**].
+1. 폴더를 마우스 오른쪽 단추로 클릭하고 선택합니다 **[!UICONTROL Convert To Archive Folder]**.
 
    ![이미지 5](/help/sky/assets/programs/archive-a-program/archive-a-program-5.png)
 
