@@ -3,9 +3,9 @@ unique-page-id: 10096677
 description: ON24 이벤트 통합 테스트 - Marketing Docs - 제품 설명서
 title: ON24 이벤트 통합 테스트
 translation-type: tm+mt
-source-git-commit: 5c9683c6b00ccbf9e9d606fd4513432c9872ad00
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '193'
+source-wordcount: '191'
 ht-degree: 0%
 
 ---
@@ -33,9 +33,7 @@ ht-degree: 0%
 * Marketing은 매일 밤 ON24에서 참석자 데이터를 검색합니다.
 * 참석자 데이터가 Marketing과 ON24 간에 동기화되면 Marketing에서 회원 상태를 [참석자], [주문형] 또는 [표시 안 함]으로 업데이트합니다. 이벤트의 [ **요약** ] 탭에서 이벤트 상태가 [ **이벤트 완료]로 업데이트됩니다**.
 
->[!NOTE]
->
->**관련 문서**
+>[!MORELIKETHIS]
 >
 >* [ON24 이벤트 통합 예](example-on24-event-integration.md)
 >* [Marketing ON24 어댑터 이벤트 이해](understanding-marketo-on24-adapter-events.md)
