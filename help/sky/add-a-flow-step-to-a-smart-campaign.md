@@ -2,9 +2,9 @@
 title: add-a-flow-step-to-a-smart-campaign
 description: 스마트 캠페인에 흐름 단계 추가
 translation-type: tm+mt
-source-git-commit: 642fd57105afff1031f18883c5809206f136b7c6
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '214'
+source-wordcount: '213'
 ht-degree: 0%
 
 ---
@@ -16,7 +16,7 @@ ht-degree: 0%
 
 ## 흐름 단계 추가
 
-1. 에서 스마트 캠페인 [!UICONTROL Marketing Activities]을 선택하고 흐름 [!UICONTROL **을 클릭합니다**].
+1. 에서 [!UICONTROL Marketing Activities]스마트 캠페인을 선택하고 을 클릭합니다 **[!UICONTROL Flow]**.
 
    ![이미지 원](/help/sky/assets/smart-campaigns/add-a-flow-step-to-a-smart-campaign/add-a-flow-step-to-a-smart-campaign-1.png)
 
