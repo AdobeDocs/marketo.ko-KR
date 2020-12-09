@@ -3,9 +3,9 @@ unique-page-id: 7512270
 description: LaunchPoint 서비스로 Adobe Connect 추가 - Marketing Docs - 제품 설명서
 title: LaunchPoint 서비스로 Adobe Connect 추가
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '203'
+source-wordcount: '201'
 ht-degree: 0%
 
 ---
@@ -66,9 +66,7 @@ Adobe Connect 웨비나 등록 및 참석을 관리하는 Marketing Cloud
 
    ![](assets/adobe-connect-service.png)
 
->[!NOTE]
->
->**관련 문서**
+>[!MORELIKETHIS]
 >
 >Adobe Connect에서 [이벤트를 만드는 방법을 알아봅니다](../../../product-docs/demand-generation/events/create-an-event/create-an-event-with-adobe-connect.md).
 
