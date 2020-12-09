@@ -2,9 +2,9 @@
 title: create-a-smart-campaign
 description: 스마트 캠페인 만들기
 translation-type: tm+mt
-source-git-commit: 642fd57105afff1031f18883c5809206f136b7c6
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '90'
+source-wordcount: '86'
 ht-degree: 0%
 
 ---
@@ -20,7 +20,7 @@ ht-degree: 0%
 
    ![이미지 원](/help/sky/assets/smart-campaigns/create-a-smart-campaign/create-a-smart-campaign-1.png)
 
-1. 선택 항목을 마우스 오른쪽 단추로 클릭하고 스마트 캠페인 [!UICONTROL **만들기를 선택합니다**].
+1. 선택 항목을 마우스 오른쪽 단추로 클릭하고 선택합니다 **[!UICONTROL Create Smart Campaign]**.
 
    ![이미지 2](/help/sky/assets/smart-campaigns/create-a-smart-campaign/create-a-smart-campaign-2.png)
 
@@ -28,6 +28,6 @@ ht-degree: 0%
 >
 >모든 프로그램의 로컬 자산으로 스마트 캠페인을 만들 수 있습니다.
 
-1. 스마트 캠페인 이름 지정(및 선택적 설명/레이블 추가)과 만들기를 [!UICONTROL **클릭합니다**].
+1. 스마트 캠페인 이름 지정(및 선택적 설명/레이블 추가)을 하고 을 클릭합니다 **[!UICONTROL Create]**.
 
    ![이미지 3](/help/sky/assets/smart-campaigns/create-a-smart-campaign/create-a-smart-campaign-3.png)
