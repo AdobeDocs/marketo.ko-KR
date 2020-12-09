@@ -3,9 +3,9 @@ unique-page-id: 2949720
 description: 관심 항목 개요 - Marketing Docs - 제품 설명서
 title: 관심 영역 개요
 translation-type: tm+mt
-source-git-commit: f28ff1acb0090892bdb92b75ef90d489db7abf20
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '97'
+source-wordcount: '95'
 ht-degree: 0%
 
 ---
@@ -31,9 +31,7 @@ ht-degree: 0%
 
 흥미로운 순간에 토큰을 사용하여 매우 유용한 동적 설명을 만들 수도 있습니다.
 
->[!NOTE]
->
->**관련 문서**
+>[!MORELIKETHIS]
 >
 >* [흥미로운 순간 사용](using-interesting-moments.md)
 >* [흥미로운 순간을 위한 토큰](tokens-for-interesting-moments.md)
