@@ -3,9 +3,9 @@ unique-page-id: 37356575
 description: 일괄 전송 옵션 - Marketing To Docs - 제품 설명서
 title: 일괄 전송 옵션
 translation-type: tm+mt
-source-git-commit: 00887ea53e395bea3a11fd28e0ac98b085ef6ed8
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '280'
+source-wordcount: '278'
 ht-degree: 0%
 
 ---
@@ -62,9 +62,7 @@ ht-degree: 0%
 
 기본적으로 모든 수신자에 대해 편집하게 됩니다. 개별 이메일을 선택하여 원하는 대로 편집할 수도 있습니다. 보다 개인화된 방식으로 설정하고자 하는 수신자에게 한 개 이상의 고유한 사용자 지정 행을 추가하는 데 유용합니다.
 
->[!NOTE]
->
->**관련 문서**
+>[!MORELIKETHIS]
 >
 >* [선택 및 전송을 사용하여 일괄 이메일 구성](http://docs.marketo.com/display/public/DOCS/Composing+Bulk+Emails+with+Select+and+Send#ComposingBulkEmailswithSelectandSend-SendingEmails)
 >* [그룹 이메일을 통해 이메일 보내기](http://docs.marketo.com/x/KAQ6Ag)
