@@ -3,9 +3,9 @@ unique-page-id: 2953415
 description: 개인 세부 정보 페이지 사용 - 마케팅 문서 - 제품 설명서
 title: 개인 세부 사항 페이지 사용
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '585'
+source-wordcount: '583'
 ht-degree: 0%
 
 ---
@@ -115,9 +115,7 @@ ht-degree: 0%
 >
 시스템 관리 [필드에 대한 자세한 내용을 살펴보십시오](../../../../product-docs/administration/field-management/understanding-system-managed-fields.md).
 
->[!NOTE]
->
->**관련 문서**
+>[!MORELIKETHIS]
 >
 >* [개인 세부 사항 페이지에 대한 사용자 정의 탭 생성](../../../../product-docs/administration/settings/creating-a-custom-tab-for-the-person-detail-page.md)
 
