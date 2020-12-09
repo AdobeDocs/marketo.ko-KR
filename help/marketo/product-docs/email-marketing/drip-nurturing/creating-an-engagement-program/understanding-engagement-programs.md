@@ -3,9 +3,9 @@ unique-page-id: 2359647
 description: 참여 프로그램 이해 - 마케팅 문서 - 제품 설명서
 title: 참여 프로그램 이해
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '345'
+source-wordcount: '341'
 ht-degree: 0%
 
 ---
@@ -94,9 +94,7 @@ ht-degree: 0%
 
 ![](assets/image2014-9-15-15-3a26-3a5.png)
 
->[!NOTE]
->
->**관련 문서**
+>[!MORELIKETHIS]
 >
 >* [콘텐츠가 고갈된 사람](../../../../product-docs/email-marketing/drip-nurturing/using-engagement-programs/people-who-have-exhausted-content.md)
 
@@ -108,9 +106,7 @@ ht-degree: 0%
 
 콘텐츠 참여 수준은 Marketing에서 사용자에게 제공할 0-100포인트 점수입니다. 이 숫자는 열기, 클릭, 가입 취소, 프로그램 성공 및 기타 요소를 사용하는 정교한 수식에 의해 결정됩니다.
 
->[!NOTE]
->
->**관련 문서**
+>[!MORELIKETHIS]
 >
 >* [관여 점수 이해](../../../../product-docs/email-marketing/drip-nurturing/reports-and-notifications/understanding-the-engagement-score.md)
 
