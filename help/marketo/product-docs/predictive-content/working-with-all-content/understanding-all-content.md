@@ -3,9 +3,9 @@ unique-page-id: 11384645
 description: 모든 컨텐츠 이해 - 마케팅 문서 - 제품 설명서
 title: 모든 컨텐츠 이해
 translation-type: tm+mt
-source-git-commit: 313266a67243f0c70c25010cb4825efb7f3db0ab
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '321'
+source-wordcount: '319'
 ht-degree: 0%
 
 ---
@@ -50,9 +50,7 @@ ht-degree: 0%
 
 1. 이제 선택한 날짜 범위의 컨텐츠에 대한 분석이 표시됩니다.
 
->[!NOTE]
->
->**관련 문서**
+>[!MORELIKETHIS]
 >
 >* [새 컨텐츠 추가](add-new-content.md)
 >* [콘텐트 삭제](delete-content.md)
