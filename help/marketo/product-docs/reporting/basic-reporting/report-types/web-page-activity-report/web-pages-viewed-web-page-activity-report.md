@@ -3,9 +3,9 @@ unique-page-id: 2360052
 description: 본 웹 페이지, 웹 페이지 활동 보고서 - Marketing To Docs - 제품 설명서
 title: 본 웹 페이지, 웹 페이지 활동 보고서
 translation-type: tm+mt
-source-git-commit: 00887ea53e395bea3a11fd28e0ac98b085ef6ed8
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '134'
+source-wordcount: '133'
 ht-degree: 0%
 
 ---
@@ -15,9 +15,7 @@ ht-degree: 0%
 
 웹 [페이지 활동 보고서에서](../../../../../product-docs/reporting/basic-reporting/report-types/web-page-activity-report.md)보고서의 사용자가 본 특정 페이지를 볼 수 있습니다.
 
->[!NOTE]
->
->**사전 요구 사항**
+>[!PREREQUISITES]
 >
 >Marketing에서 웹 사이트의 활동을 캡처하려면 먼저 사이트에 Munchkin을 [설정해야 합니다](../../../../../product-docs/administration/additional-integrations/add-munchkin-tracking-code-to-your-website.md).
 
