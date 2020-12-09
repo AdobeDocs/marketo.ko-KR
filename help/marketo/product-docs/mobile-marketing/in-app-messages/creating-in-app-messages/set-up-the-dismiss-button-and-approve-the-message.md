@@ -3,9 +3,9 @@ unique-page-id: 10912178
 description: 해제 단추를 설정하고 메시지 - 마케팅 문서 - 제품 설명서 승인
 title: 해제 단추 설정 및 메시지 승인
 translation-type: tm+mt
-source-git-commit: f28ff1acb0090892bdb92b75ef90d489db7abf20
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '368'
+source-wordcount: '366'
 ht-degree: 0%
 
 ---
@@ -73,9 +73,7 @@ ht-degree: 0%
 
 이제 메시지를 [보낼 때입니다](http://docs.marketo.com/display/docs/send+your+in-app+message).
 
->[!NOTE]
->
->**관련 문서**
+>[!MORELIKETHIS]
 >
 >* [인앱 메시지 이해](../../../../product-docs/mobile-marketing/in-app-messages/understanding-in-app-messages.md)
 >* [인앱 메시지 보내기](http://docs.marketo.com/display/docs/send+your+in-app+message)
