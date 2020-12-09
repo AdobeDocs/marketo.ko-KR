@@ -3,9 +3,9 @@ unique-page-id: 1147249
 description: 글로벌 오버레이 사용 - 마케팅 문서 - 제품 설명서
 title: 전역 오버레이 사용
 translation-type: tm+mt
-source-git-commit: 23428a6e0ba9b2108a8f2f7dd6a69929dd069834
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '152'
+source-wordcount: '151'
 ht-degree: 0%
 
 ---
@@ -15,9 +15,7 @@ ht-degree: 0%
 
 프로그램 일정 보기의 글로벌 오버레이를 사용하면 다른 예약된 자산과 관련하여 프로그램을 볼 수 있습니다.
 
->[!NOTE]
->
->**사전 요구 사항**
+>[!PREREQUISITES]
 >
 >이 기능을 사용하려면 [마케팅 달력](../../../../product-docs/core-marketo-concepts/marketing-calendar/understanding-the-calendar/issue-revoke-a-marketing-calendar-license.md) 라이선스가 있어야 합니다.
 
