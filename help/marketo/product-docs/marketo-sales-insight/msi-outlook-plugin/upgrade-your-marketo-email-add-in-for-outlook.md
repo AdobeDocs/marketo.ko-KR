@@ -3,9 +3,9 @@ unique-page-id: 2949279
 description: Outlook용 Marketing To Email Add-In 업그레이드 - Marketing Docs - 제품 설명서
 title: Outlook용 Marketing To Email 추가 기능 업그레이드
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '346'
+source-wordcount: '344'
 ht-degree: 0%
 
 ---
@@ -154,9 +154,7 @@ Outlook용 Marketing To Email Add-in의 새 버전을 사용할 수 있으면 �
 
    ![](assets/image2016-8-24-15-3a47-3a38.png)
 
->[!NOTE]
->
->**관련 문서**
+>[!MORELIKETHIS]
 >
 >* [Outlook용 Marketing To 이메일 추가 기능을 사용하여 이메일 보내기 및 추적](send-and-track-an-email-with-the-email-add-in-for-outlook.md)
 >* [마케팅 템플릿을 사용하여 Outlook에서 보내기 및 추적](send-and-track-from-outlook-using-a-marketo-template.md)
