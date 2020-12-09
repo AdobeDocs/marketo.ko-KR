@@ -3,9 +3,9 @@ unique-page-id: 12979282
 description: Account Insight 플러그인 개요 - Marketing Docs - 제품 설명서
 title: Account Insight 플러그인 개요
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '318'
+source-wordcount: '316'
 ht-degree: 0%
 
 ---
@@ -80,9 +80,7 @@ Account Insight는 세일즈 팀에 실행 가능한 ABM과 계정 통찰력을 
 
 정말 멋진 것들이야
 
->[!NOTE]
->
->**관련 문서**
+>[!MORELIKETHIS]
 >
 >* [계정 인사이트 설정](set-up-account-insight.md)
 
