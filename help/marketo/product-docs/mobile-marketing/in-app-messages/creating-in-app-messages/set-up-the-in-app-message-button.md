@@ -3,9 +3,9 @@ unique-page-id: 10100644
 description: 인앱 메시지 단추 - Marketing To Docs - 제품 설명서 설정
 title: 인앱 메시지 단추 설정
 translation-type: tm+mt
-source-git-commit: f28ff1acb0090892bdb92b75ef90d489db7abf20
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '266'
+source-wordcount: '264'
 ht-degree: 0%
 
 ---
@@ -78,9 +78,7 @@ ht-degree: 0%
 
 거의 다 왔어 마지막 단계는 .
 
->[!NOTE]
->
->**관련 문서**
+>[!MORELIKETHIS]
 >
 >* [인앱 메시지 이해](../../../../product-docs/mobile-marketing/in-app-messages/understanding-in-app-messages.md)
 >* [인앱 메시지에 사용할 레이아웃 선택](choose-a-layout-for-your-in-app-message.md)
