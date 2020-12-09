@@ -3,9 +3,9 @@ unique-page-id: 10096681
 description: 웨비나 프로그램 상태 이해 - 마케팅 문서 - 제품 설명서
 title: 웨비나 프로그램 상태 이해
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '414'
+source-wordcount: '412'
 ht-degree: 0%
 
 ---
@@ -53,9 +53,7 @@ ht-degree: 0%
 >
 >Marketing에서 [표시 안 함] 상태를 가져오기 위해서는 사람들이 Marketing *To에 등록되어 있어야 합니다*. On24 데이터 피드에서 나오는 표시 없음을 캡처할 수 없습니다.
 
->[!NOTE]
->
->**관련 문서**
+>[!MORELIKETHIS]
 >
 >* [Marketing ON24 어댑터 이벤트 이해](understanding-marketo-on24-adapter-events.md)
 
