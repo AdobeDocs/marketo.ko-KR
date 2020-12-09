@@ -3,9 +3,9 @@ unique-page-id: 2953338
 description: Microsoft Dynamics - Marketing Docs - 제품 문서에서 Marketing to Sales 이메일 보내기
 title: Microsoft Dynamics에서 Marketing To Sales 이메일 보내기
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '157'
+source-wordcount: '155'
 ht-degree: 0%
 
 ---
@@ -43,9 +43,7 @@ ht-degree: 0%
 
 잘 했어! 이제 Microsoft Dynamics에서 바로 Marketing to에서 추적된 이메일을 전송하는 방법을 알 수 있습니다.
 
->[!NOTE]
->
->**관련 문서**
+>[!MORELIKETHIS]
 >
 >* [Microsoft Dynamics에서 마케팅 캠페인에 리드/연락처 추가](add-a-lead-contact-to-a-marketo-campaign-from-microsoft-dynamics.md)
 
