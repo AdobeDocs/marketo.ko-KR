@@ -3,9 +3,9 @@ unique-page-id: 10096420
 description: 영업 인텔리전스 - 마케팅 문서 - 제품 설명서
 title: 영업 인텔리전스
 translation-type: tm+mt
-source-git-commit: f74d028e491aa70913fbe5cf14e536e50dbee32b
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '199'
+source-wordcount: '197'
 ht-degree: 0%
 
 ---
@@ -29,9 +29,7 @@ Marketing to Web Personalization 플랫폼, 일별/주별 이메일 보고서를
 >
 >Adobe에서는 Marketing to Web Personalization에서 보기 전용 권한을 사용하여 영업 임원을 설정하는 것이 좋습니다. 즉, 모든 페이지를 볼 수는 있지만 기능을 만들거나, 편집하거나, 삭제할 수는 없습니다.
 
->[!NOTE]
->
->**관련 문서**
+>[!MORELIKETHIS]
 >
 >* [이메일 보고서](email-reports.md)
 
