@@ -3,9 +3,9 @@ unique-page-id: 11377488
 description: 기업 키를 사용하여 Outlook용 Marketing To Add-in 설치 - Marketing Docs - 제품 설명서
 title: Enterprise 키를 사용하여 Outlook용 Marketing To Add-in 설치
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '195'
+source-wordcount: '194'
 ht-degree: 0%
 
 ---
@@ -15,9 +15,7 @@ ht-degree: 0%
 
 세일즈 담당자는 자신의 랩탑에 대한 관리 권한이 없으며 IT 팀은 모든 소프트웨어를 원격으로 설치할 수 있습니다. Outlook용 Marketing To Add-in은 Enterprise Key를 사용하여 이러한 방식으로 설치할 수 있습니다. Enterprise Key는 Admin의 Sales Insight 섹션에 있습니다.
 
->[!NOTE]
->
->**사전 요구 사항**
+>[!PREREQUISITES]
 >
 >관리자는 Marketing To Email Add-In 라이선스를 [발행해야 합니다](issue-a-marketo-email-add-in-license.md).
 
