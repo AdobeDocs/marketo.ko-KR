@@ -3,9 +3,9 @@ unique-page-id: 4720257
 description: Facebook 사용자 지정 대상을 LaunchPoint 서비스로 추가 - Marketing Docs - 제품 설명서
 title: LaunchPoint 서비스로 Facebook 사용자 지정 대상 추가
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '325'
+source-wordcount: '323'
 ht-degree: 0%
 
 ---
@@ -65,9 +65,7 @@ ht-degree: 0%
    >
    >오가기 전에 Facebook 계정 내에서 [Facebook의 사용자 지정 대상 약관에](https://www.facebook.com/ads/manage/customaudiences/tos.php) 동의해야 합니다! 이렇게 하지 않으면 대상 업데이트가 실패합니다.
 
->[!NOTE]
->
->**관련 문서**
+>[!MORELIKETHIS]
 >
 >* [Facebook에서 사용자 지정 대상 만들기](../../../product-docs/demand-generation/facebook/create-a-custom-audience-in-facebook.md)
    >
