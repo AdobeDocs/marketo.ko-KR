@@ -3,9 +3,9 @@ unique-page-id: 12982903
 description: 수신자 시간대 - 마케팅 문서 - 제품 설명서를 사용하여 이메일 프로그램 예약
 title: 받는 사람 시간대에서 이메일 프로그램 예약
 translation-type: tm+mt
-source-git-commit: 313266a67243f0c70c25010cb4825efb7f3db0ab
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '827'
+source-wordcount: '825'
 ht-degree: 0%
 
 ---
@@ -94,9 +94,7 @@ ht-degree: 0%
 >
 >이메일 전송을 시작한 시간과 실제 배달된 시간 사이에 구독을 취소하는 사람은 여전히 이메일을 수신하게 됩니다. 구독 취소 알림을 조정하여 미가입자의 처리에 영업일 기준 1-2일이 걸릴 수 있습니다.
 
->[!NOTE]
->
->**관련 문서**
+>[!MORELIKETHIS]
 >
 >* [수신자 시간대 이해](understanding-recipient-time-zone.md)
 >* [이메일 프로그램 시작](../../../../../product-docs/email-marketing/email-programs/email-program-actions/head-start-for-email-programs.md)
