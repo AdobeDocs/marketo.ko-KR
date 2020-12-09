@@ -3,9 +3,9 @@ unique-page-id: 1900565
 description: 이메일 - 마케팅 문서 - 제품 문서에 달력 이벤트(.ics) 포함
 title: 이메일에 달력 이벤트(.ics) 포함
 translation-type: tm+mt
-source-git-commit: 00887ea53e395bea3a11fd28e0ac98b085ef6ed8
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '93'
+source-wordcount: '92'
 ht-degree: 0%
 
 ---
@@ -15,9 +15,7 @@ ht-degree: 0%
 
 달력 파일 토큰을 사용하면 달력 이벤트(.ics) 링크를 마케팅 이메일에 추가할 수 있습니다.
 
->[!NOTE]
->
->**사전 요구 사항**
+>[!PREREQUISITES]
 >
 >* [달력 이벤트(.ics) 파일 만들기](create-a-calendar-event-ics-file.md)
 
