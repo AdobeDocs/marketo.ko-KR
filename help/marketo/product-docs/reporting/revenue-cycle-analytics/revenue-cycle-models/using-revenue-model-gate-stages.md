@@ -3,9 +3,9 @@ unique-page-id: 4718670
 description: 매출 모델 게이트 단계 사용 - 마케팅 문서 - 제품 설명서
 title: 수익 모델 게이트 단계 사용
 translation-type: tm+mt
-source-git-commit: 07ae1b3f3ee3e9d7f35373eea039d336bd786f97
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '274'
+source-wordcount: '272'
 ht-degree: 0%
 
 ---
@@ -81,9 +81,7 @@ ht-degree: 0%
 
 축하합니다! 이제 여러분은 문단의 멋진 세계를 이해하실 겁니다.
 
->[!NOTE]
->
->**관련 문서**
+>[!MORELIKETHIS]
 >
 >* [수익 모델 재고 단계 사용](using-revenue-model-inventory-stages.md)
 >* [수익 모델 SLA 단계 사용](using-revenue-model-sla-stages.md)
