@@ -3,9 +3,9 @@ unique-page-id: 27656223
 description: Professional Edition 고객을 위한 Salesforce Customization 설치 - Marketing Docs - 제품 설명서
 title: Professional Edition 고객을 위한 Salesforce Customization 설치
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '271'
+source-wordcount: '270'
 ht-degree: 0%
 
 ---
@@ -15,9 +15,7 @@ ht-degree: 0%
 
 Salesforce Professional Edition을 사용하는 고객은 다음 단계에 따라 사용자 지정을 설치해야 합니다.
 
->[!NOTE]
->
->**사전 요구 사항**
+>[!PREREQUISITES]
 >
 >* Sales Connect 관리자는 Salesforce 및 Sales Connect 계정을 연결해야 합니다.
 >* 사용된 Salesforce 인스턴스에는 13개의 사용자 지정 활동 필드를 설치할 공간이 필요합니다.
