@@ -3,9 +3,9 @@ unique-page-id: 2360389
 description: 수익 탐색기 및 분석기에서 기간 비용 없이 프로그램 제작 - Marketing To Docs - 제품 설명서
 title: 수익 탐색기 및 분석기에서 기간 비용 없이 프로그램 사용 가능
 translation-type: tm+mt
-source-git-commit: c33b7ab59e612f37d3f64bb954579700dc574068
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '261'
+source-wordcount: '259'
 ht-degree: 0%
 
 ---
@@ -49,9 +49,7 @@ ht-degree: 0%
 
 잘했어! 이제 수정된 채널을 사용하는 모든 프로그램은 기간 비용 없이 매출 탐색기 및 분석기에 포함됩니다.
 
->[!NOTE]
->
->**관련 문서**
+>[!MORELIKETHIS]
 >
 >* [프로그램 수준에서 분석 동작 무시](override-analytics-behavior-at-the-program-level.md)
 
