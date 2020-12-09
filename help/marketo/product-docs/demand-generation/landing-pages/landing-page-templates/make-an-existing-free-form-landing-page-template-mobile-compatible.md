@@ -3,9 +3,9 @@ unique-page-id: 5472348
 description: 기존의 자유로운 형식의 랜딩 페이지 템플릿 모바일 호환 - Marketing To Docs - 제품 설명서
 title: 기존의 자유로운 형식의 랜딩 페이지 템플릿 모바일 호환 만들기
 translation-type: tm+mt
-source-git-commit: 23428a6e0ba9b2108a8f2f7dd6a69929dd069834
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '279'
+source-wordcount: '277'
 ht-degree: 0%
 
 ---
@@ -85,9 +85,7 @@ ht-degree: 0%
 
 대단해! 이제 이 템플릿을 [사용하는 모든 랜딩 페이지의 모바일 보기를](../../../../product-docs/demand-generation/landing-pages/free-form-landing-pages/customize-mobile-view-for-your-free-form-landing-page.md) 사용자 지정할 수 있습니다.
 
->[!NOTE]
->
->**관련 문서**
+>[!MORELIKETHIS]
 >
 >* [자유로운 형식의 랜딩 페이지에 맞게 모바일 보기 사용자 정의](../../../../product-docs/demand-generation/landing-pages/free-form-landing-pages/customize-mobile-view-for-your-free-form-landing-page.md)
 
