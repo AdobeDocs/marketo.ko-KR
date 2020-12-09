@@ -3,9 +3,9 @@ unique-page-id: 11378814
 description: 계정 목록 - 마케팅 문서 - 제품 설명서
 title: 계정 목록
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '362'
+source-wordcount: '360'
 ht-degree: 0%
 
 ---
@@ -89,9 +89,7 @@ ht-degree: 0%
 
    ![](assets/six.png)
 
->[!NOTE]
->
->**관련 문서**
+>[!MORELIKETHIS]
 >
 >* [계정 목록에 기존 명명 계정 추가](named-accounts/add-an-existing-named-account-to-an-account-list.md)
 >* [계정 목록 통찰력](../../../product-docs/account-based-marketing/measure/account-list-insights.md)
