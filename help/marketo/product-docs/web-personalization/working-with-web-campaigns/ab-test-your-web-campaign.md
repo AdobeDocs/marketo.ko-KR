@@ -3,9 +3,9 @@ unique-page-id: 4719404
 description: AB 웹 캠페인 테스트 - 마케팅 문서 - 제품 설명서
 title: AB 웹 캠페인 테스트
 translation-type: tm+mt
-source-git-commit: 00887ea53e395bea3a11fd28e0ac98b085ef6ed8
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '330'
+source-wordcount: '328'
 ht-degree: 0%
 
 ---
@@ -77,9 +77,7 @@ A/B가 개인화된 캠페인을 테스트하려면 두 개 이상의 캠페인�
 
 
 
->[!NOTE]
->
->**관련 문서**
+>[!MORELIKETHIS]
 >
 >* [대화 상자 캠페인 만들기](create-a-new-dialog-web-campaign.md)
 >* [영역 내 RTP 캠페인 만들기](create-a-new-in-zone-web-campaign.md)
