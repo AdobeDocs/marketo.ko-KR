@@ -3,9 +3,9 @@ unique-page-id: 2359476
 description: 이메일 프로그램 대시보드 - 마케팅 문서 - 제품 설명서 사용
 title: 이메일 프로그램 대시보드 사용
 translation-type: tm+mt
-source-git-commit: 00887ea53e395bea3a11fd28e0ac98b085ef6ed8
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '329'
+source-wordcount: '327'
 ht-degree: 0%
 
 ---
@@ -75,9 +75,7 @@ ht-degree: 0%
 
 ![](assets/refreshicon.png)
 
->[!NOTE]
->
->**관련 문서**
+>[!MORELIKETHIS]
 >
 >* [이메일 프로그램 대시보드 - A/B 테스트 보기 사용](../../../../product-docs/email-marketing/email-programs/email-program-actions/email-test-a-b-test/use-the-email-program-dashboard-a-b-test-view.md)
 
