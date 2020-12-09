@@ -3,9 +3,9 @@ unique-page-id: 10096673
 description: 웨비나를 통해 이벤트 설정 구성 및 마케팅 동기화 - Marketing To Docs - 제품 설명서
 title: 웨비나와 이벤트 설정 구성 및 마케팅 동기화
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '236'
+source-wordcount: '234'
 ht-degree: 0%
 
 ---
@@ -57,9 +57,7 @@ ON24 웨비나와 연관된 이벤트를 설정하면 이벤트 일정이 ON24�
 
 이제 다음 단계로 이동할 수 있습니다..
 
->[!NOTE]
->
->**관련 문서**
+>[!MORELIKETHIS]
 >
 >* [Marketing To On24 어댑터 이벤트 이해](understanding-marketo-on24-adapter-events.md)
 >* [하위 캠페인 및 로컬 자산 만들기](create-child-campaigns-and-local-assets.md)
