@@ -2,9 +2,9 @@
 title: use-filters-to-sort-the-tree
 description: 필터를 사용하여 트리 정렬
 translation-type: tm+mt
-source-git-commit: 642fd57105afff1031f18883c5809206f136b7c6
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '210'
+source-wordcount: '207'
 ht-degree: 0%
 
 ---
@@ -24,7 +24,7 @@ ht-degree: 0%
 
 이 기능을 사용하여 특정 날짜 범위 내에서 만들거나 수정한 자산을 찾을 수 있습니다.예: 지난 주, 지난 3개월 등
 
-기본적으로 Marketing은 지난 6개월 동안의 모든 컨텐츠를 로드합니다. 변경하려면 날짜 범위 [!UICONTROL **선택 드롭다운에서 범위를**] 선택합니다. 이러한 설정은 고정되어 있으며 다음에 Marketing To에 로그인할 때 적용됩니다.
+기본적으로 Marketing은 지난 6개월 동안의 모든 컨텐츠를 로드합니다. 이를 변경하려면 **[!UICONTROL Choose Date Range]** 드롭다운에서 범위를 선택합니다. 이러한 설정은 고정되어 있으며 다음에 Marketing To에 로그인할 때 적용됩니다.
 
 ![이미지 2](/help/sky/assets/tree/use-filters-to-sort-the-tree/use-filters-to-sort-the-tree-2.png)
 
