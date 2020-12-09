@@ -3,9 +3,9 @@ unique-page-id: 2359488
 description: 세그먼트별로 이메일 보고서 그룹화 - 마케팅 문서 - 제품 설명서
 title: 세그먼트별로 이메일 보고서 그룹화
 translation-type: tm+mt
-source-git-commit: 00887ea53e395bea3a11fd28e0ac98b085ef6ed8
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '124'
+source-wordcount: '123'
 ht-degree: 0%
 
 ---
@@ -15,9 +15,7 @@ ht-degree: 0%
 
 세그먼테이션은 동적 컨텐츠에만 국한되지 않습니다. 세그먼트별로 [이메일 성과 보고서](../../../../product-docs/email-marketing/email-programs/email-program-data/email-performance-report.md) 를 [그룹화할](http://docs.marketo.com/display/docs/segmentation+and+snippets)수도 있습니다.
 
->[!NOTE]
->
->**사전 요구 사항**
+>[!PREREQUISITES]
 >
 >* [세그멘테이션 승인](approve-a-segmentation.md)
 
