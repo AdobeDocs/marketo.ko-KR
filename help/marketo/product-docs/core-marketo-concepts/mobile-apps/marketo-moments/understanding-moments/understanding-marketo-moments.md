@@ -3,9 +3,9 @@ unique-page-id: 8781845
 description: 마케팅 모멘트 이해 - 마케팅 문서 - 제품 설명서
 title: 마케팅 모멘트 이해
 translation-type: tm+mt
-source-git-commit: 00887ea53e395bea3a11fd28e0ac98b085ef6ed8
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '567'
+source-wordcount: '565'
 ht-degree: 0%
 
 ---
@@ -153,9 +153,7 @@ Analytics Moment 카드에서는 다음 기간 동안 이메일 및 이벤트가
 
 자세한 내용
 
->[!NOTE]
->
->**관련 문서**
+>[!MORELIKETHIS]
 >
 >* [이메일 프로그램 카드 이해](understanding-email-program-cards.md)
 >* [이벤트 카드 이해](understanding-event-cards.md)
