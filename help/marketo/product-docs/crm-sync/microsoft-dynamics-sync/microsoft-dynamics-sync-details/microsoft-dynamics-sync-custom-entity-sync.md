@@ -3,9 +3,9 @@ unique-page-id: 3571846
 description: Microsoft Dynamics 동기화 - 사용자 지정 엔티티 동기화 - Marketing To Docs - 제품 설명서
 title: Microsoft Dynamics 동기화 - 사용자 지정 엔티티 동기화
 translation-type: tm+mt
-source-git-commit: 96cc6a30c63c8e8dca793a52e4bf7ecaef8c08dc
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '218'
+source-wordcount: '217'
 ht-degree: 0%
 
 ---
@@ -19,9 +19,7 @@ Marketing To에서 Dynamics 데이터를 사용할 수 있도록 초기 사용�
 >
 >**관리자 권한 필요**
 
->[!NOTE]
->
->**사전 요구 사항**
+>[!PREREQUISITES]
 >
 >사용자 지정 개체를 사용하려면 Dynamics의 [리드](microsoft-dynamics-sync-lead-sync.md), [연락처](microsoft-dynamics-sync-contact-sync.md)또는 [](microsoft-dynamics-sync-account-sync.md)계정에 연결해야합니다.
 
