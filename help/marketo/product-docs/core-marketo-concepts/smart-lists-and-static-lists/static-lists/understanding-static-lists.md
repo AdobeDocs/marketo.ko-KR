@@ -3,9 +3,9 @@ unique-page-id: 2949891
 description: 정적 목록 이해 - 마케팅 문서 - 제품 설명서
 title: 정적 목록 이해
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '272'
+source-wordcount: '270'
 ht-degree: 0%
 
 ---
@@ -52,9 +52,7 @@ ht-degree: 0%
 
 LIST의 강력한 기능 활용
 
->[!NOTE]
->
->**관련 문서**
+>[!MORELIKETHIS]
 >
 >[정적 목록 만들기](https://docs.marketo.com/x/ecKt)
 
