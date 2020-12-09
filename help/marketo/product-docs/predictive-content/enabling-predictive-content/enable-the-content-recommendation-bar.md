@@ -3,9 +3,9 @@ unique-page-id: 4720108
 description: 컨텐츠 권장 사항 막대 - Marketing Docs - 제품 설명서 활성화
 title: 컨텐츠 권장 사항 막대 활성화
 translation-type: tm+mt
-source-git-commit: 3c24395e55c756184615941327e15e050fa7d0ac
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '311'
+source-wordcount: '310'
 ht-degree: 0%
 
 ---
@@ -15,9 +15,7 @@ ht-degree: 0%
 
 컨텐츠 추천 엔진은 예측 분석 및 머신 러닝 알고리즘을 사용하여 각 웹 방문자에게 관련 컨텐츠를 제공합니다. 추천 엔진은 방문자당 가장 성과가 좋은 컨텐츠를 예측합니다. 엔진의 컨텐츠는 Recommendations 페이지에서 모니터링하고 제어되므로 컨텐츠 ROI를 최적화할 수 있습니다.
 
->[!NOTE]
->
->**사전 요구 사항**
+>[!PREREQUISITES]
 >
 >예측 컨텐츠를 활성화하려면 먼저 다음을 수행해야 합니다.
 >
