@@ -3,9 +3,9 @@ unique-page-id: 2359659
 description: 스트림에 컨텐츠 추가 - 마케팅 문서 - 제품 설명서
 title: 스트림에 컨텐츠 추가
 translation-type: tm+mt
-source-git-commit: 00887ea53e395bea3a11fd28e0ac98b085ef6ed8
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '313'
+source-wordcount: '311'
 ht-degree: 0%
 
 ---
@@ -116,9 +116,7 @@ ht-degree: 0%
 
 잘했어! 이제 프로그램 스트림에 컨텐츠를 추가하는 다양한 방법을 알고 있습니다. 양육에 필요한 만큼 추가하세요. 자세한 내용은 아래 관련 문서를 참조하십시오.
 
->[!NOTE]
->
->**관련 문서**
+>[!MORELIKETHIS]
 >
 >* [참여 프로그램 스트림에 프로그램 추가](adding-a-program-to-an-engagement-program-stream.md)
 
