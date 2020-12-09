@@ -3,9 +3,9 @@ unique-page-id: 10098625
 description: Microsoft Dynamics Sync 이해 - Marketing To Docs - 제품 설명서
 title: Microsoft Dynamics 동기화 이해
 translation-type: tm+mt
-source-git-commit: dc20aede0894a09e6c0bcd3d1580859b5fecb5f1
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '278'
+source-wordcount: '276'
 ht-degree: 0%
 
 ---
@@ -49,9 +49,7 @@ Dynamics 동기화에 대한 미묘한 차이와 기능이 많습니다. 자세�
 >
 >현재 Marketing to Dynamics Sync에 대한 샌드박스 새로 고침을 지원하지 않습니다. Dynamics CRM 샌드박스를 새로 고쳐야 하는 경우 새로운 Marketing To 샌드박스가 필요합니다. 자세한 내용은 고객 성공 관리자에게 문의하십시오.
 
->[!NOTE]
->
->**관련 문서**
+>[!MORELIKETHIS]
 >
 >* [설정 동기화](http://docs.marketo.com/display/docs/sync+setup)
    >
