@@ -3,9 +3,9 @@ unique-page-id: 2359718
 description: 자유 형식 랜딩 페이지에 소셜 단추 추가 - Marketing To Docs - 제품 설명서
 title: 자유로운 형식의 랜딩 페이지에 소셜 단추 추가
 translation-type: tm+mt
-source-git-commit: 95ca406109e04f56c9846f83cb2c4202bf606518
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '246'
+source-wordcount: '244'
 ht-degree: 0%
 
 ---
@@ -55,8 +55,6 @@ ht-degree: 0%
 
 축하합니다! 랜딩 페이지에 소셜 단추를 추가했습니다. 랜딩 페이지를 승인해야 합니다.
 
->[!NOTE]
->
->**관련 문서**
+>[!MORELIKETHIS]
 >
 >완료했지만 필요한 경우 소셜 단추의 설정을 변경할 수 있습니다. 먼저 단추 스타일 [을 사용자 정의하거나](../../../../product-docs/demand-generation/social/configuring-social-actions/customize-social-app-button.md) 표시되는 공유 메시지 [를](../../../../product-docs/demand-generation/social/configuring-social-actions/configure-social-sign-up-share-flow.md) 편집합니다.
