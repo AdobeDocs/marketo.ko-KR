@@ -3,9 +3,9 @@ unique-page-id: 10095644
 description: 초안 없는 코드 조각 - Marketing Docs - 제품 문서 승인
 title: 초안 없는 코드 조각 승인
 translation-type: tm+mt
-source-git-commit: 00887ea53e395bea3a11fd28e0ac98b085ef6ed8
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '233'
+source-wordcount: '231'
 ht-degree: 0%
 
 ---
@@ -40,9 +40,7 @@ ht-degree: 0%
 >
 >이 기능은 코드 조각 승인 워크플로우로 시간을 절약할 수 있도록 고안되었습니다. 그러나 몇 가지 제한 사항을 알고 있습니다. 자세한 내용은 [이 문서를](https://nation.marketo.com/docs/DOC-4415) 참조하십시오. 이 문서에는 오류 처리 및 문제 해결 정보도 포함되어 있습니다.
 
->[!NOTE]
->
->**관련 문서**
+>[!MORELIKETHIS]
 >
 >[코드 단편에 초안 없음 사용](../../../../product-docs/administration/users-and-roles/managing-user-roles-and-permissions/enable-no-draft-for-snippets.md)
 
