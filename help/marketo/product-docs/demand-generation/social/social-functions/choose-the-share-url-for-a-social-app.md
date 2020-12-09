@@ -3,9 +3,9 @@ unique-page-id: 2359811
 description: 소셜 앱용 공유 URL - Marketing To Docs - 제품 설명서 선택
 title: 소셜 앱에 대한 공유 URL 선택
 translation-type: tm+mt
-source-git-commit: 00887ea53e395bea3a11fd28e0ac98b085ef6ed8
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '125'
+source-wordcount: '123'
 ht-degree: 0%
 
 ---
@@ -45,9 +45,7 @@ ht-degree: 0%
    >    * **외부 URL**:비마케팅 랜딩 페이지입니다.
 
 
->[!NOTE]
->
->**관련 문서**
+>[!MORELIKETHIS]
 >
 >* [소셜 앱에 개인정보 보호 정책 추가](add-your-privacy-policy-to-a-social-app.md)
 
