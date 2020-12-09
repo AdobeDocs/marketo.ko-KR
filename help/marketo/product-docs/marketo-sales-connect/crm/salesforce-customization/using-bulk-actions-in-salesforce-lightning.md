@@ -3,9 +3,9 @@ unique-page-id: 42762825
 description: Salesforce Lightning의 일괄 작업 사용 - Marketing Docs - 제품 설명서
 title: Salesforce Lightning에서 일괄 작업 사용
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '437'
+source-wordcount: '436'
 ht-degree: 0%
 
 ---
@@ -15,9 +15,7 @@ ht-degree: 0%
 
 캠페인에 리드 추가, 대량 이메일 전송, Salesforce에서 Sales Connect로 리드 전달 등 일괄 작업을 수행하는 방법을 알아봅니다.
 
->[!NOTE]
->
->**사전 요구 사항**
+>[!PREREQUISITES]
 >
 >최신 버전의 Sales Connect 패키지로 업데이트하고 리드/연락처 보기에 벌크 작업 단추를 설치합니다. [지침을 보려면 여기를 클릭하십시오](http://s3.amazonaws.com/tout-user-store/salesforce/assets/SF+Guide+for+Lightning.pdf).
 
