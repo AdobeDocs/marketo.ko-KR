@@ -3,9 +3,9 @@ unique-page-id: 7504437
 description: 프레젠테이션에 배경 이미지 추가 - 마케팅 문서 - 제품 설명서
 title: 프레젠테이션에 배경 이미지 추가
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '94'
+source-wordcount: '93'
 ht-degree: 0%
 
 ---
@@ -15,9 +15,7 @@ ht-degree: 0%
 
 배경 이미지를 선택하여 프레젠테이션을 사용자 정의합니다.
 
->[!NOTE]
->
->**사전 요구 사항**
+>[!PREREQUISITES]
 >
 >* [프레젠테이션 만들기](create-a-presentation.md)
 
