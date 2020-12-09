@@ -3,9 +3,9 @@ unique-page-id: 10093157
 description: 웹 캠페인 복제 - 마케팅 문서 - 제품 설명서
 title: 웹 캠페인 복제
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '172'
+source-wordcount: '170'
 ht-degree: 0%
 
 ---
@@ -37,9 +37,7 @@ ht-degree: 0%
    >
    >웹 캠페인의 모든 컨텐츠는 분할 테스트를 제외한 복제 캠페인에 복사되므로 다른 사용자에 대해 테스트하려는 경우 복제된 캠페인에 분할 테스트 그룹을 추가하는 것을 잊지 마십시오.
 
->[!NOTE]
->
->**관련 문서**
+>[!MORELIKETHIS]
 >
 >* [영역에서 새 웹 캠페인 만들기](create-a-new-in-zone-web-campaign.md)
 >* [새 위젯 웹 캠페인 만들기](create-a-new-widget-web-campaign.md)
