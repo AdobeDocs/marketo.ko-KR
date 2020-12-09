@@ -3,9 +3,9 @@ unique-page-id: 2360403
 description: 프로그램 분석기와 프로그램 효과 비교 - 마케팅 문서 - 제품 설명서
 title: 프로그램 분석기와 프로그램 효과 비교
 translation-type: tm+mt
-source-git-commit: f74d028e491aa70913fbe5cf14e536e50dbee32b
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '487'
+source-wordcount: '486'
 ht-degree: 0%
 
 ---
@@ -15,9 +15,7 @@ ht-degree: 0%
 
 프로그램 분석기를 사용하여 프로그램 비용, 회원 확보, 파이프라인 및 매출을 비교하여 가장 효과적인 프로그램을 식별합니다.
 
->[!NOTE]
->
->**사전 요구 사항**
+>[!PREREQUISITES]
 >
 >* [프로그램 분석기 만들기](create-a-program-analyzer.md)
 
