@@ -3,9 +3,9 @@ unique-page-id: 2359815
 description: 개인화된 URL이 있는 목록 내보내기 - Marketing Docs - 제품 설명서
 title: 개인화된 URL을 사용하여 목록 내보내기
 translation-type: tm+mt
-source-git-commit: 00887ea53e395bea3a11fd28e0ac98b085ef6ed8
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '176'
+source-wordcount: '175'
 ht-degree: 0%
 
 ---
@@ -13,9 +13,7 @@ ht-degree: 0%
 
 # 개인화된 URL을 사용하여 목록 내보내기 {#export-a-list-with-personalized-urls}
 
->[!NOTE]
->
->**사전 요구 사항**
+>[!PREREQUISITES]
 >
 >* [계정에 대해 개인화된 URL 활성화](enable-personalized-urls-for-your-account.md)
 >* [랜딩 페이지에 대해 개인화된 URL 활성화](enable-personalized-urls-for-a-landing-page.md)
