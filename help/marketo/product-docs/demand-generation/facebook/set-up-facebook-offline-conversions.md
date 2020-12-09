@@ -3,9 +3,9 @@ unique-page-id: 11383953
 description: Facebook 오프라인 전환 설정 - 마케팅 문서 - 제품 설명서
 title: Facebook 오프라인 전환 설정
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '341'
+source-wordcount: '340'
 ht-degree: 0%
 
 ---
@@ -15,9 +15,7 @@ ht-degree: 0%
 
 광고 팀은 리드 광고를 통해 만든 사람들을 위해 오프라인 전환 데이터를 Facebook으로 다시 전송함으로써 광고 지출을 보다 효과적으로 최적화할 수 있습니다. 설정 방법
 
->[!NOTE]
->
->**사전 요구 사항**
+>[!PREREQUISITES]
 >
 >* Facebook [리드 광고를 설정해야 합니다](set-up-facebook-lead-ads.md).
 >* 매출 주기 모델러에 승인된 모델이 [있어야 합니다](http://docs.marketo.com/display/docs/revenue+cycle+models).
