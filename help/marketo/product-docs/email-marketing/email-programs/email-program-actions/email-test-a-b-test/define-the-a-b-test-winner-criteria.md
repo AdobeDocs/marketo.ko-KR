@@ -3,9 +3,9 @@ unique-page-id: 2359545
 description: A/B 테스트 우승자 기준 정의 - Marketing To Docs - 제품 설명서
 title: A/B 테스트 우승자 기준 정의
 translation-type: tm+mt
-source-git-commit: 23428a6e0ba9b2108a8f2f7dd6a69929dd069834
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '430'
+source-wordcount: '429'
 ht-degree: 0%
 
 ---
@@ -15,9 +15,7 @@ ht-degree: 0%
 
 이메일 프로그램에 [A/B 테스트를](add-an-a-b-test.md) 추가할 때 테스트 유형을 선택하고 A/B 테스트를 [예약한 다음 우승자 기준을 정의해야](schedule-the-a-b-test.md)합니다. 성공적인 이메일 마케팅을 위한 방법
 
->[!NOTE]
->
->**사전 요구 사항**
+>[!PREREQUISITES]
 >
 >* [A/B 테스트 추가](add-an-a-b-test.md)
 
