@@ -3,9 +3,9 @@ unique-page-id: 14745982
 description: Facebook에서 LaunchPoint 서비스로 작업 공간 추가 - Marketing Docs - 제품 설명서
 title: LaunchPoint 서비스로 Facebook별 작업 공간 추가
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '289'
+source-wordcount: '288'
 ht-degree: 0%
 
 ---
@@ -22,9 +22,7 @@ ht-degree: 0%
 >
 >**관리자 권한 필요**
 
->[!NOTE]
->
->**사전 요구 사항**
+>[!PREREQUISITES]
 >
 >이미 작업 공간 알림을 활성화하지 않은 경우 지원 [센터에 문의하십시오](http://docs.marketo.com/cdn-cgi/l/email-protection#5b282e2b2b34292f1b363a29303e2f3475383436).
 
