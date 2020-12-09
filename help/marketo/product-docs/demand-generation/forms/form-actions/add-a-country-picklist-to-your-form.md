@@ -3,9 +3,9 @@ unique-page-id: 2949966
 description: 양식에 국가 선택 목록 추가 - 마케팅 문서 - 제품 설명서
 title: 양식에 국가 선택 목록 추가
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '191'
+source-wordcount: '189'
 ht-degree: 0%
 
 ---
@@ -73,9 +73,7 @@ ht-degree: 0%
 
 그게 너무 쉬웠기 때문에 더 이상은 안 하는 게 어때? 사용자가 목록에서 국가를 선택하여 [주] 필드를 동적으로 표시하는 것은 어떻습니까? 아래 관련 문서를 참조하여 사용 방법을 확인하십시오.
 
->[!NOTE]
->
->**관련 문서**
+>[!MORELIKETHIS]
 >
 >* [동적으로 양식 필드의 표시 여부 전환](../../../../product-docs/demand-generation/forms/form-fields/dynamically-toggle-visibility-of-a-form-field.md)
 
