@@ -3,9 +3,9 @@ unique-page-id: 10098134
 description: 참여 프로그램 스트림에 프로그램 추가 - 마케팅 문서 - 제품 설명서
 title: 참여 프로그램 스트림에 프로그램 추가
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '463'
+source-wordcount: '461'
 ht-degree: 0%
 
 ---
@@ -55,9 +55,7 @@ ht-degree: 0%
 >
 >무언가를 재전송하려면 새로운 프로그램과 스마트 캠페인을 만드는 것이 가장 안전합니다.
 
->[!NOTE]
->
->**관련 문서**
+>[!MORELIKETHIS]
 >
 >* [스트림에 컨텐츠 추가](add-content-to-a-stream.md)
 >* [프로그램 이해](../../../../product-docs/core-marketo-concepts/programs/creating-programs/understanding-programs.md)
