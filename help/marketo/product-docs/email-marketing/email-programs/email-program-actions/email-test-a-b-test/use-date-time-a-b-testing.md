@@ -3,9 +3,9 @@ unique-page-id: 2359520
 description: '"날짜/시간" A/B 테스트 - 마케팅 문서 - 제품 설명서 사용'
 title: '"날짜/시간" A/B 테스트 사용'
 translation-type: tm+mt
-source-git-commit: 00887ea53e395bea3a11fd28e0ac98b085ef6ed8
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '270'
+source-wordcount: '269'
 ht-degree: 0%
 
 ---
@@ -15,9 +15,7 @@ ht-degree: 0%
 
 A/B에서 이메일을 쉽게 테스트할 수 있습니다. 한 번의 테스트는 **날짜/시간 **테스트입니다. 이메일을 보내는 데 가장 적합한 요일 또는 요일을 테스트합니다. 설정 방법
 
->[!NOTE]
->
->**사전 요구 사항**
+>[!PREREQUISITES]
 >
 >* [A/B 테스트 추가](add-an-a-b-test.md)
 
