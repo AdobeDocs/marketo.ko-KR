@@ -3,9 +3,9 @@ unique-page-id: 2949190
 description: SEO - 검색 엔진 지역/국가 선택 - 마케팅 문서 - 제품 설명서
 title: SEO - 검색 엔진의 지역/국가 선택
 translation-type: tm+mt
-source-git-commit: c33b7ab59e612f37d3f64bb954579700dc574068
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '122'
+source-wordcount: '120'
 ht-degree: 0%
 
 ---
@@ -39,9 +39,7 @@ SEO 관리자는 키워드 등급 정보를 가져올 검색 엔진의 영역을
 
 ![](assets/image2014-9-17-21-3a8-3a15.png)
 
->[!NOTE]
->
->**관련 문서**
+>[!MORELIKETHIS]
 >
 >* [대시보드 이해:SEO 스냅샷](understanding-the-seo-dashboard-seo-snapshot.md)
 >* [대시보드 이해:SEO Recommendations](understanding-the-seo-dashboard-seo-recommendations.md)
