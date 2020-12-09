@@ -2,9 +2,9 @@
 title: pause-people-in-an-engagement-program
 description: 참여 프로그램에서 사람 일시 중지
 translation-type: tm+mt
-source-git-commit: 642fd57105afff1031f18883c5809206f136b7c6
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '170'
+source-wordcount: '164'
 ht-degree: 0%
 
 ---
@@ -16,7 +16,7 @@ ht-degree: 0%
 
 개인이 참여 프로그램의 멤버인 경우 모든 컨텐츠가 [소진될 때까지 컨텐츠를 수신하게 됩니다](https://docs.marketo.com/display/DOCS/People+Who+Have+Exhausted+Content). 참여 프로그램 [전환](https://docs.marketo.com/display/DOCS/Change+Engagement+Program+Cadence) 흐름 단계를 사용하여 아직 다 쓰지 않은 컨텐츠도 사람들이 컨텐츠를 받지 못하도록 할 수 있습니다.
 
-1. 스마트 캠페인의 스마트 목록에서 일시 중지할 사람/사람을 선택합니다. 그런 다음 플로우에서 참여 프로그램 [!UICONTROL **전환 흐름 동작을 찾아 드래그합니다**] .
+1. 스마트 캠페인의 스마트 목록에서 일시 중지할 사람/사람을 선택합니다. 그런 다음 플로우에서 흐름 동작을 찾아 **[!UICONTROL Change Engagement Program Cadence]** 드래그합니다.
 
    ![이미지 원](/help/sky/assets/engagement-programs/pause-people-in-an-engagement-program/pause-people-in-an-engagement-program-1.png)
 
@@ -24,11 +24,11 @@ ht-degree: 0%
 
    ![이미지 2](/help/sky/assets/engagement-programs/pause-people-in-an-engagement-program/pause-people-in-an-engagement-program-2.png)
 
-1. 개인이 [!UICONTROL **컨텐츠**] 수신을 중지하려면 일시 중지됨을 새 값으로 선택합니다.
+1. 신규 값 **[!UICONTROL Paused]** 으로 선택하여 개인에 대한 컨텐츠 수신을 중지합니다.
 
    ![이미지 3](/help/sky/assets/engagement-programs/pause-people-in-an-engagement-program/pause-people-in-an-engagement-program-3.png)
 
-사용자가 컨텐츠를 다시 수신하도록 [!UICONTROL **하려면**] 사람을 [일반]으로 다시 설정할 수 있습니다. 그들은 그들이 중단한 곳에서 다시 시작할 것입니다.
+사용자가 컨텐츠 수신을 다시 시작하기를 원하는 **[!UICONTROL Normal]** 경우 이 사람을 다시 설정할 수 있습니다. 그들은 그들이 중단한 곳에서 다시 시작할 것입니다.
 
 >[!NOTE]
 >
