@@ -3,9 +3,9 @@ unique-page-id: 11385942
 description: 추천 막대에 대한 예측 컨텐츠 편집 - Marketing Docs - 제품 설명서
 title: 권장 사항 막대에 대한 예측 컨텐츠 편집
 translation-type: tm+mt
-source-git-commit: 3c24395e55c756184615941327e15e050fa7d0ac
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '128'
+source-wordcount: '127'
 ht-degree: 0%
 
 ---
@@ -19,9 +19,7 @@ ht-degree: 0%
 
 다음은 권장 사항 막대에 대한 예측 컨텐츠를 설정하는 방법입니다.
 
->[!NOTE]
->
->**사전 요구 사항**
+>[!PREREQUISITES]
 >
 >모든 컨텐츠 페이지에서 예측 컨텐츠 [에 대해 컨텐츠가](/help/marketo/product-docs/predictive-content/working-with-all-content/approve-a-title-for-predictive-content.md) 승인되어야 합니다.
 
