@@ -3,9 +3,9 @@ unique-page-id: 8781988
 description: 분석 카드 이해 - 마케팅 문서 - 제품 설명서
 title: 분석 카드 이해
 translation-type: tm+mt
-source-git-commit: 00887ea53e395bea3a11fd28e0ac98b085ef6ed8
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '236'
+source-wordcount: '234'
 ht-degree: 0%
 
 ---
@@ -59,9 +59,7 @@ Analytics 카드를 눌러 표시합니다.
 
 이제 아시겠죠.
 
->[!NOTE]
->
->**관련 문서**
+>[!MORELIKETHIS]
 >
 >* [마케팅 모멘트 이해](understanding-marketo-moments.md)
 >* [이벤트 카드 이해](understanding-event-cards.md)
