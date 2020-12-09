@@ -3,9 +3,9 @@ unique-page-id: 7514126
 description: 속성 예 1 - Marketing Docs - 제품 설명서
 title: 속성 예 1
 translation-type: tm+mt
-source-git-commit: 1a29614ec938074902af201b2ffc11cfaa625f7a
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '172'
+source-wordcount: '170'
 ht-degree: 0%
 
 ---
@@ -48,9 +48,7 @@ ht-degree: 0%
 
 모든 예제를 사용해 보십시오. 그러면 귀사는 기여도 분석 전문가가 됩니다!
 
->[!NOTE]
->
->**관련 문서**
+>[!MORELIKETHIS]
 >
 >* [속성 예 2](attribution-example-2.md)
 >* [속성 예 3](attribution-example-3.md)
