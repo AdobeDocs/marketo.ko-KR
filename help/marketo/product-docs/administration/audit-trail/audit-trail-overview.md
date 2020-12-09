@@ -3,9 +3,9 @@ unique-page-id: 11377945
 description: 감사 추적 개요 - 마케팅 문서 - 제품 설명서
 title: 감사 추적 개요
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '378'
+source-wordcount: '376'
 ht-degree: 0%
 
 ---
@@ -80,9 +80,7 @@ Marketing will audit the [create, edit and delete](http://docs.marketo.com/displ
 >
 >**알 수 없음:** 감사 추적 시 사용자의 이름과 이메일이 &quot;알 수 없음&quot;으로 나열될 수 있습니다. 이 문제는 CRM에서 선택 목록 값을 변경하면 발생합니다. 이러한 값은 Marketing Cloud 양식 및 랜딩 페이지에 표시됩니다. CRM 쪽에서 이 업데이트를 하면 양식을 참조하는 랜딩 페이지의 초안을 자동으로 작성합니다. 감사 추적 시 랜딩 페이지가 작성되었음을 캡처하지만 CRM 측에서 사용자 정보를 캡처할 수 없으므로 사용자의 이름과 이메일은 &quot;알 수 없음&quot;으로 표시됩니다.
 
->[!NOTE]
->
->**관련 문서**
+>[!MORELIKETHIS]
 >
 >* [감사 추적 사용](enable-audit-trail.md)
 
