@@ -3,9 +3,9 @@ unique-page-id: 4720917
 description: Facebook에서 개인화된 리마케팅 - 마케팅 문서 - 제품 설명서
 title: Facebook에서 개인화된 리마케팅
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '312'
+source-wordcount: '311'
 ht-degree: 0%
 
 ---
@@ -15,9 +15,7 @@ ht-degree: 0%
 
 개인화된 리마케팅을 사용하면 RTP 데이터 및 Facebook 리마케팅의 강력한 기능을 사용하여 사용자와 다시 교류할 수 있습니다.
 
->[!NOTE]
->
->**사전 요구 사항**
+>[!PREREQUISITES]
 >
 >* 웹 [개인화 데이터](retargeting-with-web-personalization-data.md) 설정 완료
 >* 사용자 지정 [](https://developers.facebook.com/docs/ads-for-websites/website-custom-audiences/getting-started#install-the-pixel) 대상 및 [리마케팅에 대한](https://developers.facebook.com/docs/ads-for-websites/website-custom-audiences/getting-started#install-the-pixel)Facebook 설명서 검토
