@@ -3,9 +3,9 @@ unique-page-id: 13796464
 description: 영업 연결 개요 - 마케팅 문서 - 제품 설명서
 title: Sales Connect 개요
 translation-type: tm+mt
-source-git-commit: f28ff1acb0090892bdb92b75ef90d489db7abf20
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '250'
+source-wordcount: '248'
 ht-degree: 0%
 
 ---
@@ -88,9 +88,7 @@ Marketing Sales Connect는 다양한 기능을 제공하는 다면적인 영업 
 
 시작할 준비가 되셨습니까? 설치 지침을 보려면 아래 링크를 클릭하십시오.
 
->[!NOTE]
->
->**관련 문서**
+>[!MORELIKETHIS]
 >
 >* [Sales Connect 시작하기](http://docs.marketo.com/x/coTS)
 
