@@ -3,9 +3,9 @@ unique-page-id: 557318
 description: 목록 또는 스마트 목록 새로 고침 - 마케팅 문서 - 제품 설명서
 title: 목록 또는 스마트 목록 새로 고침
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '186'
+source-wordcount: '184'
 ht-degree: 0%
 
 ---
@@ -35,9 +35,7 @@ ht-degree: 0%
 >
 >경우에 따라 스마트 목록을 실행하고 나중에 다시 보면 오른쪽 하단에 있는 사람 카운트 앞에 &quot;정보&quot;라는 단어를 볼 수 있습니다. 숫자가 대략적임을 나타냅니다. 카운트 자체를 클릭하여 새로 고치고 정확한 업데이트된 카운트를 가져옵니다.
 
->[!NOTE]
->
->**관련 문서**
+>[!MORELIKETHIS]
 >
 >* [목록 또는 스마트 목록에서 사용자를 Excel로 내보내기](../../../../product-docs/core-marketo-concepts/smart-lists-and-static-lists/managing-people-in-smart-lists/export-people-to-excel-from-a-list-or-smart-list.md)
 
