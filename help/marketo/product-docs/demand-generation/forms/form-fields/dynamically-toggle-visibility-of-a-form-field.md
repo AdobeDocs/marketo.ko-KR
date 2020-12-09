@@ -3,9 +3,9 @@ unique-page-id: 2949962
 description: 양식 필드의 동적으로 가시성 전환 - 마케팅 문서 - 제품 설명서
 title: 동적으로 양식 필드의 표시 여부 전환
 translation-type: tm+mt
-source-git-commit: 00887ea53e395bea3a11fd28e0ac98b085ef6ed8
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '212'
+source-wordcount: '211'
 ht-degree: 0%
 
 ---
@@ -13,9 +13,7 @@ ht-degree: 0%
 
 # 동적으로 양식 필드의 표시 여부 전환 {#dynamically-toggle-visibility-of-a-form-field}
 
->[!NOTE]
->
->**사전 요구 사항**
+>[!PREREQUISITES]
 >
 >* [양식에 국가 선택 목록 추가](../../../../product-docs/demand-generation/forms/form-actions/add-a-country-picklist-to-your-form.md)
 
