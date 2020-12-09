@@ -3,9 +3,9 @@ unique-page-id: 7512289
 description: LaunchPoint 서비스로 GoToWebinar 추가 - Marketing To Docs - 제품 설명서
 title: LaunchPoint 서비스로 GoToWebinar 추가
 translation-type: tm+mt
-source-git-commit: 00887ea53e395bea3a11fd28e0ac98b085ef6ed8
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '165'
+source-wordcount: '163'
 ht-degree: 0%
 
 ---
@@ -65,9 +65,7 @@ Marketing에서 GoToWebinar 등록 및 참석을 관리합니다.
 >
 >GoToWebinar에서 암호를 업데이트할 때는 Marketing Cloud에서도 암호를 업데이트해야 합니다.
 
->[!NOTE]
->
->**관련 문서**
+>[!MORELIKETHIS]
 >
 >GotoWebinar로 이벤트 [를 만드는 방법을 알아봅니다](../../../product-docs/demand-generation/events/create-an-event/create-an-event-with-gotowebinar.md).
 
