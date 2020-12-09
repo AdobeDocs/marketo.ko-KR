@@ -3,9 +3,9 @@ unique-page-id: 2360362
 description: 3단계 중 1단계 - Salesforce에 마케팅 필드 추가(Enterprise/Unlimited) - Marketing Docs - 제품 설명서
 title: 3단계 중 1단계 - Salesforce에 마케팅 필드 추가(Enterprise/Unlimited)
 translation-type: tm+mt
-source-git-commit: c33b7ab59e612f37d3f64bb954579700dc574068
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '754'
+source-wordcount: '753'
 ht-degree: 0%
 
 ---
@@ -13,9 +13,7 @@ ht-degree: 0%
 
 # 3단계 중 1단계:Salesforce에 마케팅 필드 추가(Enterprise/Unlimited) {#step-of-add-marketo-fields-to-salesforce-enterprise-unlimited}
 
->[!NOTE]
->
->**사전 요구 사항**
+>[!PREREQUISITES]
 >
 >Marketing To와 Salesforce 간에 동기화하려면 Salesforce API에 액세스할 수 있어야 합니다.
 
