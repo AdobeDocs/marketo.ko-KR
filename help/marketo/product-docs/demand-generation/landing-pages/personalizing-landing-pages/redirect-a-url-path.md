@@ -3,9 +3,9 @@ unique-page-id: 2359826
 description: URL 경로 리디렉션 - 마케팅 문서 - 제품 설명서
 title: URL 경로 리디렉션
 translation-type: tm+mt
-source-git-commit: 00887ea53e395bea3a11fd28e0ac98b085ef6ed8
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '148'
+source-wordcount: '146'
 ht-degree: 0%
 
 ---
@@ -50,9 +50,7 @@ Marketing을 사용하면 URL 경로를 선택한 페이지로 쉽게 리디렉�
 
 축하합니다!  URL 경로를 리디렉션했습니다.
 
->[!NOTE]
->
->**관련 문서**
+>[!MORELIKETHIS]
 >
 >* [마케팅 랜딩 페이지를 다른 페이지로 리디렉션](../../../../product-docs/demand-generation/landing-pages/landing-page-actions/redirect-a-marketo-landing-page-to-another-page.md)
 
