@@ -3,9 +3,9 @@ unique-page-id: 10096671
 description: Marketing - Marketing Docs - 제품 설명서에 ON24 자격 증명을 입력하십시오.
 title: Marketing To에 ON24 자격 증명 입력
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '282'
+source-wordcount: '280'
 ht-degree: 0%
 
 ---
@@ -69,9 +69,7 @@ ht-degree: 0%
 
 다음 단계는 ON24에서 웨비나 [이벤트를 만드는 것입니다](create-your-webinar-event-in-on24.md).
 
->[!NOTE]
->
->**관련 문서**
+>[!MORELIKETHIS]
 >
 >* [Marketing ON24 어댑터 이벤트 이해](understanding-marketo-on24-adapter-events.md)
 
