@@ -2,9 +2,9 @@
 title: 내 토큰 이해
 description: 내 토큰 이해
 translation-type: tm+mt
-source-git-commit: 642fd57105afff1031f18883c5809206f136b7c6
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '329'
+source-wordcount: '327'
 ht-degree: 0%
 
 ---
@@ -45,7 +45,7 @@ ht-degree: 0%
 * **[재정의된 토큰:](/help/sky/override-an-inherited-my-token.md)** 토큰이 상속되었지만 이 프로그램 또는 폴더에서 예외가 발생했습니다.
 * **상속된 토큰:** 토큰이 트리 위로 더 높은 수준의 프로그램 또는 폴더 어딘가에 만들어졌습니다.
 
-프로그램 또는 캠페인 폴더의 [!UICONTROL **내 토큰**] 탭 아래에서 이 세 가지 유형을 찾을 수 있습니다.
+프로그램 또는 캠페인 폴더의 **[!UICONTROL My Tokens]** 탭 아래에서 이러한 세 가지 유형을 찾을 수 있습니다.
 
 ![이미지 2](/help/sky/assets/my-tokens/understanding-my-tokens/understanding-my-tokens-2.png)
 
