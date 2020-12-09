@@ -3,9 +3,9 @@ unique-page-id: 3571819
 description: 3단계 중 3단계 - Connect Marketing 및 Dynamics(2013년 온프레미스) - Marketing Docs - 제품 설명서
 title: 3단계 중 3단계 - Connect Marketing 및 Dynamics(2013년 온프레미스)
 translation-type: tm+mt
-source-git-commit: ce8b67b8549d23ff4ddd1d341632c6c5ff33990d
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '431'
+source-wordcount: '430'
 ht-degree: 0%
 
 ---
@@ -21,9 +21,7 @@ ht-degree: 0%
 
 좋아! 솔루션을 설치하고 동기화 사용자를 구성했습니다. Adobe는 Marketing To와 Dynamics를 연계해야 합니다.
 
->[!NOTE]
->
->**사전 요구 사항**
+>[!PREREQUISITES]
 >
 >* [3단계 중 1단계:Dynamics에서 Marketing Solution 설치(2013 온프레미스)](step-1-of-3-install.md)
 >* [3단계 중 2단계:Marketing(2013 온-프레미스)용 사용자 동기화 구성](step-2-of-3-configure.md)
