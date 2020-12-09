@@ -3,9 +3,9 @@ unique-page-id: 1900595
 description: 스마트 목록으로 대상 정의 - 마케팅 문서 - 제품 설명서
 title: 스마트 목록으로 대상 정의
 translation-type: tm+mt
-source-git-commit: 00887ea53e395bea3a11fd28e0ac98b085ef6ed8
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '296'
+source-wordcount: '295'
 ht-degree: 0%
 
 ---
@@ -15,9 +15,7 @@ ht-degree: 0%
 
 이메일 프로그램 [을](../../../../product-docs/email-marketing/email-programs/creating-an-email-program/create-an-email-program.md)만들면 이메일을 보낼 사람을 알려주어야 합니다. 사람 [의 목록을 가져오거나 스마트](define-an-audience-by-importing-a-list.md) 목록을 사용하여 이 작업을 수행할 수 있습니다. 스마트한 목록을 통해 이를 실현하는 방법을 소개합니다.
 
->[!NOTE]
->
->**사전 요구 사항**
+>[!PREREQUISITES]
 >
 >* [이메일 프로그램 만들기](../../../../product-docs/email-marketing/email-programs/creating-an-email-program/create-an-email-program.md)
 
