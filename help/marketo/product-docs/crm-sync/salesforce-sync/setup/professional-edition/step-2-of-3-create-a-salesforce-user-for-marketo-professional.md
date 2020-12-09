@@ -3,9 +3,9 @@ unique-page-id: 3571797
 description: 3단계 중 2단계 - Marketing용 Salesforce 사용자 만들기(Professional) - Marketing Docs - 제품 설명서
 title: 3단계 중 2단계 - Marketing용 Salesforce 사용자 만들기(Professional)
 translation-type: tm+mt
-source-git-commit: 96cc6a30c63c8e8dca793a52e4bf7ecaef8c08dc
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '427'
+source-wordcount: '426'
 ht-degree: 0%
 
 ---
@@ -17,9 +17,7 @@ ht-degree: 0%
 >
 >이러한 단계는 Salesforce 관리자가 완료해야 합니다.
 
->[!NOTE]
->
->**사전 요구 사항**
+>[!PREREQUISITES]
 >
 >* [3단계 중 1단계:Salesforce에 마케팅 필드 추가(Professional)](step-1-of-3-add-marketo-fields-to-salesforce-professional.md)
 
