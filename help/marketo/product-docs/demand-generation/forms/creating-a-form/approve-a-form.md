@@ -3,9 +3,9 @@ unique-page-id: 2359578
 description: 양식 승인 - 마케팅 문서 - 제품 설명서
 title: 양식 승인
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '153'
+source-wordcount: '152'
 ht-degree: 0%
 
 ---
@@ -45,9 +45,7 @@ ht-degree: 0%
 
 양식을 변경하는 경우 편집기에서 바로 페이지를 승인할 수 있습니다.
 
->[!NOTE]
->
->**사전 요구 사항**
+>[!PREREQUISITES]
 >
 >* [양식 편집](../../../../product-docs/demand-generation/forms/form-actions/edit-a-form.md)
 
