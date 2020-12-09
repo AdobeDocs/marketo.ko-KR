@@ -3,9 +3,9 @@ unique-page-id: 2360203
 description: API 전용 사용자 역할 만들기 - Marketing Docs - 제품 설명서
 title: API 전용 사용자 역할 만들기
 translation-type: tm+mt
-source-git-commit: 00887ea53e395bea3a11fd28e0ac98b085ef6ed8
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '130'
+source-wordcount: '128'
 ht-degree: 0%
 
 ---
@@ -39,9 +39,7 @@ REST API를 통해 Marketing [](http://developers.marketo.com/documentation/rest
 >
 >필요한 최소 권한만 부여하는 것이 좋습니다.
 
->[!NOTE]
->
->**관련 문서**
+>[!MORELIKETHIS]
 >
 >좋아, 잘했다! 이제 API [전용 사용자를 만듭니다](create-an-api-only-user.md).
 
