@@ -3,9 +3,9 @@ unique-page-id: 2951877
 description: 프로그램 기회 분석 영역 이해 - 마케팅 문서 - 제품 설명서
 title: 프로그램 기회 분석 영역 이해
 translation-type: tm+mt
-source-git-commit: 1c4c4c62215550a09125f76fb76017348aba2bdf
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '898'
+source-wordcount: '896'
 ht-degree: 0%
 
 ---
@@ -188,8 +188,6 @@ Marketing to는 프로그램 전반에 걸쳐 두 번 계산 기회를 사용하
 
 **프로그램에 어떠한 유형의 기여도 크레딧을 제공한 모든 기회. 기회는 하나 이상의 리드 및 하나 이상의 프로그램에 의해 영향을 받을 수 있습니다.*
 
->[!NOTE]
->
->**관련 문서**
+>[!MORELIKETHIS]
 >
 >[매출 탐색기 보고서 만들기](../../../../product-docs/reporting/revenue-cycle-analytics/revenue-explorer/create-a-revenue-explorer-report.md)
