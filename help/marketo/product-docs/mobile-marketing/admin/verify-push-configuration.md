@@ -3,9 +3,9 @@ unique-page-id: 7512445
 description: 푸시 구성 확인 - Marketing Docs - 제품 설명서
 title: 푸시 구성 확인
 translation-type: tm+mt
-source-git-commit: d88fb92a00e4c20509617e6ef8b2e51b66cc085b
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '82'
+source-wordcount: '81'
 ht-degree: 0%
 
 ---
@@ -13,9 +13,7 @@ ht-degree: 0%
 
 # 푸시 구성 확인 {#verify-push-configuration}
 
->[!NOTE]
->
->**사전 요구 사항**
+>[!PREREQUISITES]
 >
 >모바일 개발자가 모바일 앱에 Marketing의 SDK 코드를 추가해야 합니다.
 
