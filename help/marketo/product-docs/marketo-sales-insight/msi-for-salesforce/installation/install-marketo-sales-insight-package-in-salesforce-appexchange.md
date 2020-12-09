@@ -3,9 +3,9 @@ unique-page-id: 7516390
 description: Salesforce AppExchange에 Marketing To Sales Insight 패키지 설치 - Marketing Docs - 제품 설명서
 title: Salesforce AppExchange에 Marketing to Sales Insight 패키지 설치
 translation-type: tm+mt
-source-git-commit: 00887ea53e395bea3a11fd28e0ac98b085ef6ed8
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '288'
+source-wordcount: '286'
 ht-degree: 0%
 
 ---
@@ -74,9 +74,7 @@ Sales Insight가 제공하는 모든 혜택을 누리려면 먼저 Salesforce �
 
 잘했어! 이제 Marketing To Sales Insight를 설치 및 배포했습니다. 영업 팀에 맞게 구성하고 세일즈 기회를 확인하십시오.
 
->[!NOTE]
->
->**관련 문서**
+>[!MORELIKETHIS]
 >
 >[Salesforce Professional Edition에서 Marketing to Sales Insight 구성](../../../../product-docs/marketo-sales-insight/msi-for-salesforce/configuration/configure-marketo-sales-insight-in-salesforce-professional-edition.md)
 >
