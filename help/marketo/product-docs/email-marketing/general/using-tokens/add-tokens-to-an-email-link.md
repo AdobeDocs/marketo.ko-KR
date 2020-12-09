@@ -3,9 +3,9 @@ unique-page-id: 1147360
 description: 이메일 링크에 토큰 추가 - 마케팅 문서 - 제품 설명서
 title: 이메일 링크에 토큰 추가
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '89'
+source-wordcount: '87'
 ht-degree: 0%
 
 ---
@@ -37,9 +37,7 @@ ht-degree: 0%
 
    그게 다야!
 
->[!NOTE]
->
->**관련 문서**
+>[!MORELIKETHIS]
 >
 >* [내 토큰에서 URL 사용](using-urls-in-my-tokens.md)
 
