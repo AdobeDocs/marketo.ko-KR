@@ -3,9 +3,9 @@ unique-page-id: 2359732
 description: 무료 랜딩 페이지에서 동적 컨텐츠 사용 - Marketing To Docs - 제품 설명서
 title: 자유형 랜딩 페이지에서 동적 컨텐츠 사용
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '209'
+source-wordcount: '208'
 ht-degree: 0%
 
 ---
@@ -15,9 +15,7 @@ ht-degree: 0%
 
 랜딩 페이지에서 동적 컨텐츠를 사용하면 타겟팅된 정보를 고객에게 제공할 수 있습니다.
 
->[!NOTE]
->
->**사전 요구 사항**
+>[!PREREQUISITES]
 >
 >* [세그멘테이션 만들기](../../../../product-docs/personalization/segmentation-and-snippets/segmentation/create-a-segmentation.md)
 >* [자유 형식 랜딩 페이지 만들기](create-a-free-form-landing-page.md)
