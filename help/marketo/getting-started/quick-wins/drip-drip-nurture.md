@@ -3,9 +3,9 @@ unique-page-id: 2359420
 description: Drip, Dump, Develope - Marketing Docs - 제품 설명서
 title: 드립, 드립, 양육
 translation-type: tm+mt
-source-git-commit: 09dbd3a141fed0525aec8bf1ca6d141be2a6ce46
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '519'
+source-wordcount: '518'
 ht-degree: 0%
 
 ---
@@ -23,9 +23,7 @@ Marketing To에서 고급 교육 시스템을 쉽게 만들 수 있습니다. �
 >
 >Marketing은 이제 모든 구독 간의 언어를 표준화하므로 구독에 리드/리드 및 docs.markto.com에 있는 사람/사람을 볼 수 있습니다. 이 용어는 같은 것을 의미한다.아티클 지침에는 영향을 주지 않습니다. 다른 변화도 있습니다 [자세한](http://docs.marketo.com/display/DOCS/Updates+to+Marketo+Terminology)내용
 
->[!NOTE]
->
->**사전 요구 사항**
+>[!PREREQUISITES]
 >
 >* [설정 및 사람 추가](get-set-up-and-add-a-person.md)
 >* [사람 목록 가져오기](import-a-list-of-people.md)
