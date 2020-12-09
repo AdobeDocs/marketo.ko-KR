@@ -3,9 +3,9 @@ unique-page-id: 11382122
 description: 감사 추적 활성화 - 마케팅 문서 - 제품 설명서
 title: 감사 추적 사용
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '269'
+source-wordcount: '268'
 ht-degree: 0%
 
 ---
@@ -53,9 +53,7 @@ ht-degree: 0%
 
 ## 사용자에게 감사 추적 역할 할당 {#assign-audit-trail-role-to-a-user}
 
->[!NOTE]
->
->**사전 요구 사항**
+>[!PREREQUISITES]
 >
 >[기존 역할을 만들거나](http://docs.marketo.com/display/DOCS/Create,+Delete,+Edit+and+Change+a+User+Role#Create,Delete,EditandChangeaUserRole-CreateaRole) [활성화하여](#Enable) 감사 추적 권한을 부여할 수 있습니다.
 
