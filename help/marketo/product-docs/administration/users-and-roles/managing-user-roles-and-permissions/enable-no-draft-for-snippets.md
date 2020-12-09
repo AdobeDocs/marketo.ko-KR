@@ -3,9 +3,9 @@ unique-page-id: 10095636
 description: 코드 단편에 대해 초안 작성 안 함 활성화 - Marketing To Docs - 제품 설명서
 title: 코드 단편에 초안 없음 사용
 translation-type: tm+mt
-source-git-commit: 00887ea53e395bea3a11fd28e0ac98b085ef6ed8
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '149'
+source-wordcount: '147'
 ht-degree: 0%
 
 ---
@@ -49,9 +49,7 @@ ht-degree: 0%
 >
 >[초안 없음]을 비활성화하려면 위의 1-4단계를 따르고 [초안 없음] 확인란의 선택을 취소한 다음 [ **저장]을 클릭합니다**.
 
->[!NOTE]
->
->**관련 문서**
+>[!MORELIKETHIS]
 >
 >[초안 없는 코드 조각 승인](../../../../product-docs/personalization/segmentation-and-snippets/snippets/approve-a-snippet-with-no-draft.md)
 
