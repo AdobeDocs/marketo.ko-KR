@@ -3,9 +3,9 @@ unique-page-id: 15368208
 description: Salesforce 샌드박스에서 사용자 정의 설치 방법 - Marketing Docs - 제품 설명서
 title: Salesforce 샌드박스에서 사용자 정의 설치 방법
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '103'
+source-wordcount: '102'
 ht-degree: 0%
 
 ---
@@ -17,9 +17,7 @@ ht-degree: 0%
 >
 >**관리자 권한 필요**
 
->[!NOTE]
->
->**사전 요구 사항**
+>[!PREREQUISITES]
 >
 >[Salesforce 샌드박스와 세일즈 연결](http://docs.marketo.com/x/DYDq)
 
