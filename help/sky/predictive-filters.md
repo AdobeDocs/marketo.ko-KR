@@ -2,9 +2,9 @@
 title: 예측 필터
 description: 예측 필터
 translation-type: tm+mt
-source-git-commit: 642fd57105afff1031f18883c5809206f136b7c6
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '257'
+source-wordcount: '255'
 ht-degree: 0%
 
 ---
@@ -44,7 +44,7 @@ ht-degree: 0%
 
 이 두 개의 필터는 다른 프로그램 또는 스마트 목록의 구성원과 유사한 추가 리드를 타깃팅하여 현재 대상을 확장할 수 있도록 도와줍니다. 유사 필터에서는 리드 속성, 이메일 활동, 웹 활동 및 참여 등 50개 이상의 요소를 고려합니다.
 
-제한&#x200B;[!UICONTROL **추가를**] 클릭하여 선택한 프로그램 구성원의 성공 기준을 선택합니다.
+선택한 프로그램&#x200B;**[!UICONTROL Add Constraint]** 의 구성원에 대한 성공 기준을 선택하려면 을(를) 클릭합니다.
 
 프로그램 드롭다운 옆에 있는 + 아이콘을 클릭하여 여러 프로그램/스마트 목록을 하나의 필터에 손쉽게 추가할 수 있습니다.
 
