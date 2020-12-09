@@ -3,9 +3,9 @@ unique-page-id: 2360352
 description: SOAP API 설정 구성 - Marketing Docs - 제품 설명서
 title: SOAP API 설정 구성
 translation-type: tm+mt
-source-git-commit: 00887ea53e395bea3a11fd28e0ac98b085ef6ed8
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '88'
+source-wordcount: '86'
 ht-degree: 0%
 
 ---
@@ -33,9 +33,7 @@ ht-degree: 0%
 >
 >SOAP 끝점과 사용자 ID는 고유합니다.이 문서의 스크린샷을 개발자에게 보내지 마십시오.
 
->[!NOTE]
->
->**관련 문서**
+>[!MORELIKETHIS]
 >
 >[SOAP API 설명서](http://developers.marketo.com/documentation/soap/)
 
