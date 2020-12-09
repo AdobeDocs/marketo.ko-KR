@@ -3,9 +3,9 @@ unique-page-id: 11375827
 description: Dynamics와 Marketing Docs를 동기화하는 데 필요한 필드 - 제품 설명서
 title: Dynamics와 마케팅을 동기화하는 데 필요한 필드
 translation-type: tm+mt
-source-git-commit: c33b7ab59e612f37d3f64bb954579700dc574068
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '180'
+source-wordcount: '178'
 ht-degree: 0%
 
 ---
@@ -55,9 +55,7 @@ ht-degree: 0%
 >
 >문제가 해결되었는지 확인하기 전에 동기화가 실행되려면 최소 10분 정도 기다려야 합니다.
 
->[!NOTE]
->
->**관련 문서**
+>[!MORELIKETHIS]
 >
 >[리드/연락처 레코드에 대한 별과 불꽃 설정](http://docs.marketo.com/x/BICMAg)
 
