@@ -3,9 +3,9 @@ unique-page-id: 2360281
 description: 프로그램 채널 삭제 - 마케팅 문서 - 제품 설명서
 title: 프로그램 채널 삭제
 translation-type: tm+mt
-source-git-commit: 00887ea53e395bea3a11fd28e0ac98b085ef6ed8
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '99'
+source-wordcount: '97'
 ht-degree: 0%
 
 ---
@@ -35,9 +35,7 @@ ht-degree: 0%
 
 밤! 채널에서 특정 상태를 [삭제할 수도 있습니다](delete-a-program-status-from-a-program-channel.md).
 
->[!NOTE]
->
->**관련 문서**
+>[!MORELIKETHIS]
 >
 >* [프로그램 채널에서 프로그램 상태 삭제](delete-a-program-status-from-a-program-channel.md)
 
