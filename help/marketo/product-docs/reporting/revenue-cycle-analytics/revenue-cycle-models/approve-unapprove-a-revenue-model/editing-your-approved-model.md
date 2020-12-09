@@ -3,9 +3,9 @@ unique-page-id: 5472402
 description: 승인된 모델 편집 - 마케팅 문서 - 제품 설명서
 title: 승인된 모델 편집
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '261'
+source-wordcount: '259'
 ht-degree: 0%
 
 ---
@@ -57,9 +57,7 @@ ht-degree: 0%
 
 한 번에 하나의 승인된 모델만 가질 수 있습니다. 모델을 승인하지만 이미 하나의 승인을 받은 경우 현재 모델의 승인을 먼저 취소해야 합니다. 가능하면 새 모델을 만드는 대신 모델을 편집해 보십시오.
 
->[!NOTE]
->
->**관련 문서**
+>[!MORELIKETHIS]
 >
 >[새 매출 모델 만들기](../../../../../product-docs/reporting/revenue-cycle-analytics/revenue-cycle-models/create-a-new-revenue-model.md)
 
