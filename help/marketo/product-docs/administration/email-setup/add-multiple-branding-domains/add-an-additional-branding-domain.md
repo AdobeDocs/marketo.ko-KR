@@ -3,9 +3,9 @@ unique-page-id: 11377395
 description: 추가 브랜딩 도메인 추가 - 마케팅 문서 - 제품 설명서
 title: 추가 브랜딩 도메인 추가
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '138'
+source-wordcount: '137'
 ht-degree: 0%
 
 ---
@@ -15,9 +15,7 @@ ht-degree: 0%
 
 단일 Marketing To 인스턴스에서 여러 브랜드를 실행할 때 추가적인 브랜딩 도메인을 추가하고 각 브랜드에 고유한 브랜드 추적 링크를 추가하도록 할 수 있습니다.
 
->[!NOTE]
->
->**사전 요구 사항**
+>[!PREREQUISITES]
 >
 >추가 브랜드 도메인을 추가하기 전에 일반 추적 링크 [를 브랜드 도메인으로](edit-your-default-branding-domain.md) 대체해야 합니다.
 
