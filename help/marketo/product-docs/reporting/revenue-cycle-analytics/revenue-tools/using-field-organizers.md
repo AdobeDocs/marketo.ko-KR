@@ -3,9 +3,9 @@ unique-page-id: 3571892
 description: 필드 주관자 사용 - 마케팅 문서 - 제품 설명서
 title: 필드 주관자 사용
 translation-type: tm+mt
-source-git-commit: f74d028e491aa70913fbe5cf14e536e50dbee32b
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '166'
+source-wordcount: '164'
 ht-degree: 0%
 
 ---
@@ -47,8 +47,6 @@ ht-degree: 0%
 
 필요한 경우 같은 방식으로 더 많은 필드 주관자를 만들 수 있습니다. 여기 있습니다.
 
->[!NOTE]
->
->**관련 문서**
+>[!MORELIKETHIS]
 >
 >[필드 구성기를 사용하여 사용자 지정 필드 그룹 만들기](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-tools/field-organizers/create-custom-field-groups-using-the-field-organizer.md)
