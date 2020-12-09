@@ -3,9 +3,9 @@ unique-page-id: 3571890
 description: 모델 성능 분석에 대한 사용자 정의 필드 그룹 활성화(리드) - Marketing Docs - 제품 설명서
 title: 모델 성능 분석에 대한 사용자 지정 필드 그룹 활성화(리드)
 translation-type: tm+mt
-source-git-commit: 3c24395e55c756184615941327e15e050fa7d0ac
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '345'
+source-wordcount: '344'
 ht-degree: 0%
 
 ---
@@ -13,9 +13,7 @@ ht-degree: 0%
 
 # 모델 성능 분석에 대한 사용자 지정 필드 그룹 활성화(리드) {#enable-custom-field-groups-for-model-performance-analysis-leads}
 
->[!NOTE]
->
->**사전 요구 사항**
+>[!PREREQUISITES]
 >
 >Marketing의 Field Organizer를 통해 보고용 표준 또는 사용자 지정 필드를 그룹으로 분류합니다. 자세한 내용은 [필드 구성기를 통해 사용자 지정 필드 그룹 만들기를 참조하십시오](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-tools/field-organizers/create-custom-field-groups-using-the-field-organizer.md).
 
