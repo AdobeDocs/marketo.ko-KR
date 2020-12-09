@@ -3,9 +3,9 @@ unique-page-id: 7514985
 description: 프로그램 예약 보기 - 마케팅 문서 - 제품 문서에서 일괄 처리 스마트 캠페인 예약
 title: 프로그램 예약 보기에서 일괄 처리 스마트 캠페인 예약
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '108'
+source-wordcount: '106'
 ht-degree: 0%
 
 ---
@@ -25,9 +25,7 @@ ht-degree: 0%
 
    ![](assets/image2015-5-19-12-3a15-3a38.png)
 
->[!NOTE]
->
->**관련 문서**
+>[!MORELIKETHIS]
 >
 >[스케줄 뷰에서 전체 프로그램 스케줄 조정](rescheduling-an-entire-program-from-the-schedule-view.md)
 
