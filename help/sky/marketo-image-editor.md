@@ -2,9 +2,9 @@
 title: marketing-to-image-editor
 description: Marketing To Image Editor
 translation-type: tm+mt
-source-git-commit: 642fd57105afff1031f18883c5809206f136b7c6
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '62'
+source-wordcount: '59'
 ht-degree: 0%
 
 ---
@@ -24,10 +24,10 @@ ht-degree: 0%
 
    ![이미지 2](/help/sky/assets/design-studio/marketo-image-editor/marketo-image-editor-2.png)
 
-1. [이미지 [!UICONTROL **편집] 단추를**] 클릭합니다.
+1. 단추를 **[!UICONTROL Edit Image]** 클릭합니다.
 
    ![이미지 3](/help/sky/assets/design-studio/marketo-image-editor/marketo-image-editor-3.png)
 
-1. 상단에 있는 툴바에서 다양한 기능을 선택할 수 있습니다. 완료되면 [!UICONTROL **저장을**] 클릭합니다.
+1. 상단에 있는 툴바에서 다양한 기능을 선택할 수 있습니다. 완료되면 을 **[!UICONTROL Save]** 클릭합니다.
 
    ![이미지 4](/help/sky/assets/design-studio/marketo-image-editor/marketo-image-editor-4.png)
