@@ -3,9 +3,9 @@ unique-page-id: 1147066
 description: 스마트 캠페인의 개인 제한 무시 - 마케팅 문서 - 제품 설명서
 title: 스마트 캠페인에서 개인 제한 무시
 translation-type: tm+mt
-source-git-commit: 00887ea53e395bea3a11fd28e0ac98b085ef6ed8
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '190'
+source-wordcount: '189'
 ht-degree: 0%
 
 ---
@@ -21,9 +21,7 @@ Marketing cloud를 사용하면 스마트 캠페인에 사용할 수 있는 최�
 >
 >Marketing은 이제 모든 구독 간의 언어를 표준화하므로 구독에 리드/리드 및 docs.markto.com에 있는 사람/사람을 볼 수 있습니다. 이 용어는 같은 것을 의미한다.아티클 지침에는 영향을 주지 않습니다. 다른 변화도 있습니다 [자세한](http://docs.marketo.com/display/DOCS/Updates+to+Marketo+Terminology)내용
 
->[!NOTE]
->
->**사전 요구 사항**
+>[!PREREQUISITES]
 >
 >Marketing to [Admin에서 스마트 캠페인에 대한 사용자](../../../../product-docs/administration/email-setup/enable-person-restrictions-for-smart-campaigns.md) 제한을 활성화해야 합니다.
 
