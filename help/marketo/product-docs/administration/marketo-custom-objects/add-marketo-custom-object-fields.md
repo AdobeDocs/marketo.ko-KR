@@ -3,9 +3,9 @@ unique-page-id: 10093688
 description: Marketing to 사용자 지정 개체 필드 추가 - Marketing To Docs - 제품 설명서
 title: 마케팅 사용자 지정 개체 필드 추가
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '285'
+source-wordcount: '283'
 ht-degree: 0%
 
 ---
@@ -62,9 +62,7 @@ ht-degree: 0%
    >
    >일대다 구조를 작성하는 경우 사용자 지정 개체에 링크 필드를 추가해야 합니다. 다대다 구조의 경우 사용자 지정 개체에 링크 필드가 필요하지 않지만 중간 개체에 두 개의 링크 필드를 추가해야 합니다. 사용자 지정 개체 유형에 대한 자세한 내용은 [마케팅](add-marketo-custom-object-link-fields.md) 사용자 지정 개체 링크 필드 추가 [와 사용자 지정 개체](understanding-marketo-custom-objects.md) 이해를 참조하십시오.
 
->[!NOTE]
->
->**관련 문서**
+>[!MORELIKETHIS]
 >
 >* [Marketing to 사용자 지정 개체 링크 필드 추가](add-marketo-custom-object-link-fields.md)
 >* [마케팅 사용자 지정 개체 편집 및 삭제](edit-and-delete-a-marketo-custom-object.md)
