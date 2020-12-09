@@ -3,9 +3,9 @@ unique-page-id: 2359703
 description: 자유 형식 랜딩 페이지에 이미지 추가 - Marketing To Docs - 제품 설명서
 title: 자유 형식 랜딩 페이지에 이미지 추가
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '74'
+source-wordcount: '73'
 ht-degree: 0%
 
 ---
@@ -13,9 +13,7 @@ ht-degree: 0%
 
 # 자유 형식 랜딩 페이지에 이미지 추가 {#add-an-image-to-a-free-form-landing-page}
 
->[!NOTE]
->
->**사전 요구 사항**
+>[!PREREQUISITES]
 >
 >* [Marketing에 이미지 및 파일 추가](../../../../product-docs/demand-generation/images-and-files/add-images-and-files-to-marketo.md)
 
