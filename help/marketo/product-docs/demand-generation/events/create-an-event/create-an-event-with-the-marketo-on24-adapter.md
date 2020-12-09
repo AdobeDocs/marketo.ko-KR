@@ -3,9 +3,9 @@ unique-page-id: 10096656
 description: Marketing ON24 어댑터 - Marketing Docs - 제품 설명서를 사용하여 이벤트 만들기
 title: Marketing ON24 어댑터로 이벤트 만들기
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '307'
+source-wordcount: '305'
 ht-degree: 0%
 
 ---
@@ -50,9 +50,7 @@ Marketing ON24 통합을 사용하려면 다음이 필요합니다.
 1. [웨비나 프로그램 상태 이해](create-an-event-with-the-marketo-on24-adapter/understanding-webinar-program-statuses.md)
 1. [ON24 이벤트 등록 업데이트](create-an-event-with-the-marketo-on24-adapter/on24-event-registration-updates.md)
 
->[!NOTE]
->
->**관련 문서**
+>[!MORELIKETHIS]
 >
 >* [Marketing ON24 어댑터 이벤트 이해](create-an-event-with-the-marketo-on24-adapter/understanding-marketo-on24-adapter-events.md)
 
