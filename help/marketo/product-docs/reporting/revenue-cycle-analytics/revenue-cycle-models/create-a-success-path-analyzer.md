@@ -3,9 +3,9 @@ unique-page-id: 2360411
 description: 성공 경로 분석기 만들기 - 마케팅 문서 - 제품 설명서
 title: 성공 경로 분석기 만들기
 translation-type: tm+mt
-source-git-commit: c33b7ab59e612f37d3f64bb954579700dc574068
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '192'
+source-wordcount: '191'
 ht-degree: 0%
 
 ---
@@ -15,9 +15,7 @@ ht-degree: 0%
 
 수익 주기 모델을 통해 속도와 흐름을 시각적으로 [확인할 수 있습니다](http://docs.marketo.com/display/docs/revenue+cycle+analytics).
 
->[!NOTE]
->
->**사전 요구 사항**
+>[!PREREQUISITES]
 >
 >[새 매출 모델 만들기](create-a-new-revenue-model.md)
 
