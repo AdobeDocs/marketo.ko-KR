@@ -3,9 +3,9 @@ unique-page-id: 2359763
 description: 소셜 성능 보기 - 마케팅 문서 - 제품 설명서
 title: 소셜 성능 보기
 translation-type: tm+mt
-source-git-commit: 00887ea53e395bea3a11fd28e0ac98b085ef6ed8
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '484'
+source-wordcount: '482'
 ht-degree: 0%
 
 ---
@@ -78,9 +78,7 @@ ht-degree: 0%
 
    ![](assets/image2014-9-23-17-3a11-3a35.png)
 
->[!NOTE]
->
->**관련 문서**
+>[!MORELIKETHIS]
 >
 >또한 트리거 및 필터를 사용하여 컨텐츠를 공유하고 소셜 앱과의 상호 작용을 확인할 수 있으므로 이러한 상호 작용에 따라 행동할 수 있습니다. 소셜 [활동에 트리거 및 필터 사용을 참조하십시오](triggers-and-filters-for-social-activities.md).
 
