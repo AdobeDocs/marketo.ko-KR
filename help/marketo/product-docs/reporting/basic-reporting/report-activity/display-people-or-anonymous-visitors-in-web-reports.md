@@ -3,9 +3,9 @@ unique-page-id: 2360008
 description: 웹 보고서에 사람 또는 익명 방문자 표시 - 마케팅 문서 - 제품 설명서
 title: 웹 보고서에 사람 또는 익명 방문자 표시
 translation-type: tm+mt
-source-git-commit: 00887ea53e395bea3a11fd28e0ac98b085ef6ed8
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '160'
+source-wordcount: '159'
 ht-degree: 0%
 
 ---
@@ -13,9 +13,7 @@ ht-degree: 0%
 
 # 웹 보고서에 사람 또는 익명 방문자 표시 {#display-people-or-anonymous-visitors-in-web-reports}
 
->[!NOTE]
->
->**사전 요구 사항**
+>[!PREREQUISITES]
 >
 >[웹 사이트에 문킨 추적 코드 추가](../../../../product-docs/administration/additional-integrations/add-munchkin-tracking-code-to-your-website.md)
 
