@@ -3,9 +3,9 @@ unique-page-id: 2359459
 description: 코드 조각 만들기 - 마케팅 문서 - 제품 설명서
 title: 코드 조각 만들기
 translation-type: tm+mt
-source-git-commit: 00887ea53e395bea3a11fd28e0ac98b085ef6ed8
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '79'
+source-wordcount: '77'
 ht-degree: 0%
 
 ---
@@ -29,9 +29,7 @@ ht-degree: 0%
 
 잘했어! 다이내믹한 컨텐츠에 대한 코드 조각을 만들어 작업을 간소화할 수 있습니다. 이제 새로운 코드 조각에 컨텐츠를 [추가할 수 있습니다](add-content-to-a-snippet.md).
 
->[!NOTE]
->
->**관련 문서**
+>[!MORELIKETHIS]
 >
 >* [코드 조각에 컨텐츠 추가](add-content-to-a-snippet.md)
 >* [동적 컨텐츠 이해](../../../../product-docs/personalization/segmentation-and-snippets/segmentation/understanding-dynamic-content.md)
