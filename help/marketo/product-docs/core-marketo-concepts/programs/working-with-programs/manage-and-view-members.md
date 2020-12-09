@@ -3,9 +3,9 @@ unique-page-id: 1147122
 description: 구성원 관리 및 보기 - Marketing Docs - 제품 설명서
 title: 구성원 관리 및 보기
 translation-type: tm+mt
-source-git-commit: 5c9683c6b00ccbf9e9d606fd4513432c9872ad00
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '306'
+source-wordcount: '304'
 ht-degree: 0%
 
 ---
@@ -93,9 +93,7 @@ ht-degree: 0%
 
 많은 기능이 있지만 매우 간단합니다. 즐기세요!
 
->[!NOTE]
->
->**관련 문서**
+>[!MORELIKETHIS]
 >
 >* [프로그램 성능 보고서 만들기](../../../../product-docs/core-marketo-concepts/programs/program-performance-report/create-a-program-performance-report.md)
 
