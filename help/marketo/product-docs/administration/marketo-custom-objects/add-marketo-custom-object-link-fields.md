@@ -3,9 +3,9 @@ unique-page-id: 10097613
 description: Marketing to 사용자 지정 개체 링크 필드 추가 - 마케팅 문서 - 제품 설명서
 title: Marketing to 사용자 지정 개체 링크 필드 추가
 translation-type: tm+mt
-source-git-commit: 23428a6e0ba9b2108a8f2f7dd6a69929dd069834
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '604'
+source-wordcount: '603'
 ht-degree: 0%
 
 ---
@@ -69,9 +69,7 @@ ht-degree: 0%
 
 다음은 다대다 구조에서 사용할 중간 개체에 링크 필드를 만드는 방법입니다.
 
->[!NOTE]
->
->**사전 요구 사항**
+>[!PREREQUISITES]
 >
 >중간 개체와 연결할 사용자 지정 개체를 이미 만들었어야 합니다.
 
