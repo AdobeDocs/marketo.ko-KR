@@ -3,9 +3,9 @@ unique-page-id: 7504739
 description: Dynamics 2015 On-Prem 및 2016 365 On-Prem 2단계 - Marketing Docs - 제품 설명서 설치
 title: Dynamics 2015 On-Prem 및 2016 365 On-Prem 2단계 설치
 translation-type: tm+mt
-source-git-commit: dc20aede0894a09e6c0bcd3d1580859b5fecb5f1
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '328'
+source-wordcount: '327'
 ht-degree: 0%
 
 ---
@@ -17,9 +17,7 @@ ht-degree: 0%
 
 이전 단계를 수료한 데 큰 도움이 되었습니다. 계속 진행합시다.
 
->[!NOTE]
->
->**사전 요구 사항**
+>[!PREREQUISITES]
 >
 >* [Dynamics 2015 On-Prem 및 2016 365 On-Prem 1단계 설치](step-1-of-3-install.md)
 
