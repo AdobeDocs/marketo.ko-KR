@@ -3,9 +3,9 @@ unique-page-id: 2359768
 description: 투표 만들기 - 마케팅 문서 - 제품 설명서
 title: 투표 만들기
 translation-type: tm+mt
-source-git-commit: 00887ea53e395bea3a11fd28e0ac98b085ef6ed8
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '307'
+source-wordcount: '306'
 ht-degree: 0%
 
 ---
@@ -21,9 +21,7 @@ ht-degree: 0%
 >
 >모든 고객이 이 기능을 구입하지는 않았습니다. 자세한 내용은 영업 담당자에게 문의하십시오.
 
->[!NOTE]
->
->**사전 요구 사항**
+>[!PREREQUISITES]
 >
 >투표에 이미지를 사용하려면 시작하기 전에 Marketing To 이미지 및 파일 라이브러리에 이미지를 추가하십시오. 각 투표 항목에 대해 60x60px 이미지를 추가합니다. Marketing [에 이미지 및 파일 추가를 참조하십시오](../../../../product-docs/demand-generation/images-and-files/add-images-and-files-to-marketo.md).
 
