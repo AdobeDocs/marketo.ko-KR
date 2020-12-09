@@ -3,9 +3,9 @@ unique-page-id: 8783141
 description: 푸시 알림 샘플 보내기 - Marketing To Docs - 제품 설명서
 title: 푸시 알림 샘플 보내기
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '271'
+source-wordcount: '270'
 ht-degree: 0%
 
 ---
@@ -15,9 +15,7 @@ ht-degree: 0%
 
 샘플을 보내 푸시 알림이 올바르게 작동하는지 확인할 수 있습니다.
 
->[!NOTE]
->
->**사전 요구 사항**
+>[!PREREQUISITES]
 >
 >샘플을 전송하는 장치에 앱이 설치되어 있는지 확인합니다.
 
