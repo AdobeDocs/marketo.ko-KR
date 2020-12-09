@@ -2,9 +2,9 @@
 title: my-token-link
 description: 내 토큰 링크
 translation-type: tm+mt
-source-git-commit: 642fd57105afff1031f18883c5809206f136b7c6
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '188'
+source-wordcount: '187'
 ht-degree: 0%
 
 ---
@@ -39,6 +39,6 @@ ht-degree: 0%
    >
    >mkt_tok 포함이 선택된 경우, Marketing은 브랜드 추적 도메인(예: http://mkto-sjqe3355.com/mn/...)의 링크 미리 보기를 표시합니다. 이 확인란을 선택 해제하면 링크가 변경됩니다. 이메일 또는 랜딩 페이지에 대한 링크 추적을 끄면 >URL이 기본 길이(예: www.examplepage.com)으로 단축됩니다.
 
-1. 원할 경우, 아래에서 CSS를 사용하여 링크 [!UICONTROL Advanced]를 사용자 정의할 수 있습니다. 저장을 [!UICONTROL **클릭합니다**].
+1. 원할 경우, 아래에서 CSS를 사용하여 링크 [!UICONTROL Advanced]를 사용자 정의할 수 있습니다. 을 **[!UICONTROL Save]**&#x200B;클릭합니다.
 
    ![이미지 4](/help/sky/assets/my-tokens/my-token-link/my-token-link-4.png)
