@@ -3,9 +3,9 @@ unique-page-id: 2949168
 description: 템플릿을 사용하여 웹 캠페인 만들기 - Marketing Docs - 제품 설명서
 title: 템플릿을 사용하여 웹 캠페인 만들기
 translation-type: tm+mt
-source-git-commit: c33b7ab59e612f37d3f64bb954579700dc574068
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '145'
+source-wordcount: '143'
 ht-degree: 0%
 
 ---
@@ -63,9 +63,7 @@ ht-degree: 0%
 
 잘 했어! 템플릿을 사용하여 저장한 시간을 확인했습니까?
 
->[!NOTE]
->
->**관련 문서**
+>[!MORELIKETHIS]
 >
 >* [템플릿으로 캠페인 저장](save-your-campaign-as-a-template.md)
 
