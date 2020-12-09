@@ -3,9 +3,9 @@ unique-page-id: 2950396
 description: 우선 순위, 긴급성, 상대적인 점수 및 최우수 - 마케팅 문서 - 제품 설명서
 title: 우선 순위, 긴급성, 상대적인 점수 및 최고점
 translation-type: tm+mt
-source-git-commit: 1a29614ec938074902af201b2ffc11cfaa625f7a
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '464'
+source-wordcount: '462'
 ht-degree: 0%
 
 ---
@@ -55,9 +55,7 @@ Marketing To Sales Insight는 우선 순위에 따라 최고의 리드 및 연�
 >
 >상대 긴급성(불꽃) 및 상대 점수(별개) 수는 Marketing의 정수입니다. 각 값에 가능한 값은 0-3입니다.
 
->[!NOTE]
->
->**관련 문서**
+>[!MORELIKETHIS]
 >
 >* [Marketing To Sales Insight](http://docs.marketo.com/display/docs/marketo+sales+insight)
 
