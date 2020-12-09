@@ -3,9 +3,9 @@ unique-page-id: 10097747
 description: 매출 탐색기 보고서에 사용자 지정 측정값 추가 - Marketing Docs - 제품 설명서
 title: 매출 탐색기 보고서에 사용자 지정 측정값 추가
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '207'
+source-wordcount: '206'
 ht-degree: 0%
 
 ---
@@ -17,9 +17,7 @@ ht-degree: 0%
 
 아래 예에서, 이미 보고서에 지표를 가져오고 기본 계산을 사용하여 새 지표를 만드는 소프트 바운스에 대한 계산된 지표를 만들고 있습니다. 다른 유형의 측정을 만들 수도 있습니다.
 
->[!NOTE]
->
->**사전 요구 사항**
+>[!PREREQUISITES]
 >
 >보고서에 지표가 하나 이상 필요하지만 사용자 지정 측정을 정의하는 데 사용하는 측정 단위 중 하나가 될 필요는 없습니다.
 
