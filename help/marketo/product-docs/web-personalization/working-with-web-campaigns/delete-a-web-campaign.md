@@ -3,9 +3,9 @@ unique-page-id: 4719410
 description: 웹 캠페인 삭제 - 마케팅 문서 - 제품 설명서
 title: 웹 캠페인 삭제
 translation-type: tm+mt
-source-git-commit: c33b7ab59e612f37d3f64bb954579700dc574068
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '74'
+source-wordcount: '72'
 ht-degree: 0%
 
 ---
@@ -27,9 +27,7 @@ ht-degree: 0%
 
 1. 웹 캠페인을 삭제할지 여부를 확인하는 확인 메시지가 나타납니다.
 
->[!NOTE]
->
->**관련 문서**
+>[!MORELIKETHIS]
 >
 >* [웹 캠페인 편집](edit-an-existing-web-campaign.md)
 >* [웹 캠페인 시작/일시 중지](launch-pause-a-web-campaign.md)
