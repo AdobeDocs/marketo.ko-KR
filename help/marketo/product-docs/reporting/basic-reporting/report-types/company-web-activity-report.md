@@ -3,9 +3,9 @@ unique-page-id: 2360005
 description: 회사 웹 활동 보고서 - 마케팅 문서 - 제품 설명서
 title: 회사 웹 활동 보고서
 translation-type: tm+mt
-source-git-commit: 1a29614ec938074902af201b2ffc11cfaa625f7a
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '342'
+source-wordcount: '341'
 ht-degree: 0%
 
 ---
@@ -23,9 +23,7 @@ ht-degree: 0%
 
 사이트를 방문하고 있는 개별 사용자를 볼 수 있는 [웹 페이지 활동 보고서를](web-page-activity-report.md) 만듭니다.
 
->[!NOTE]
->
->**사전 요구 사항**
+>[!PREREQUISITES]
 >
 >Marketing에서 웹 사이트의 활동을 캡처하려면 먼저 사이트에 Munchkin [을 설정해야 합니다](../../../../product-docs/administration/additional-integrations/add-munchkin-tracking-code-to-your-website.md).
 
