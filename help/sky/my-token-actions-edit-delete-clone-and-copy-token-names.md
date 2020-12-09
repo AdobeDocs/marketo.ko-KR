@@ -2,9 +2,9 @@
 title: my token-actions-edit-delete-clone-and-copy-token-names
 description: 내 토큰 작업 토큰 이름 편집, 삭제, 복제 및 복사
 translation-type: tm+mt
-source-git-commit: d2195ba23fb1241b54b493d625c50aa4c1704845
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '183'
+source-wordcount: '177'
 ht-degree: 0%
 
 ---
@@ -14,23 +14,23 @@ ht-degree: 0%
 
 ## 토큰 편집
 
-캠페인 폴더 또는 프로그램 [!UICONTROL My Tokens] 의 탭에서 편집할 토큰의 [!UICONTROL **값**] 을 클릭합니다. 그러면 편집기 창이 열립니다.
+캠페인 폴더 또는 프로그램 [!UICONTROL My Tokens] 탭에서 편집할 토큰 **[!UICONTROL Value]** 을 클릭합니다. 그러면 편집기 창이 열립니다.
 
 ![이미지 원](/help/sky/assets/my-tokens/my-token-actions-edit-delete-clone-and-copy-token-names/my-token-actions-edit-delete-clone-and-copy-token-names-1.png)
 
 >[!NOTE]
 >
->텍스트 토큰에는 별도의 편집기 창이 없습니다. 값을 [!UICONTROL **클릭하여**] 인라인 편집을 수행합니다.
+>텍스트 토큰에는 별도의 편집기 창이 없습니다. 아이콘을 **[!UICONTROL Value]** 클릭하여 인라인 편집을 수행합니다.
 
 ![이미지 2](/help/sky/assets/my-tokens/my-token-actions-edit-delete-clone-and-copy-token-names/my-token-actions-edit-delete-clone-and-copy-token-names-2.png)
 
 ## 토큰 삭제
 
-1. 토큰을 마우스 오른쪽 단추로 클릭한 다음 [!UICONTROL **삭제를 선택합니다**].
+1. 토큰을 마우스 오른쪽 단추로 클릭한 다음 선택합니다 **[!UICONTROL Delete]**.
 
    ![이미지 3](/help/sky/assets/my-tokens/my-token-actions-edit-delete-clone-and-copy-token-names/my-token-actions-edit-delete-clone-and-copy-token-names-3.png)
 
-1. 확인을 [!UICONTROL **클릭합니다**].
+1. 을 **[!UICONTROL Confirm]**&#x200B;클릭합니다.
 
    ![이미지 4](/help/sky/assets/my-tokens/my-token-actions-edit-delete-clone-and-copy-token-names/my-token-actions-edit-delete-clone-and-copy-token-names-4.png)
 
@@ -40,11 +40,11 @@ ht-degree: 0%
 
 ## 토큰 복제
 
-1. 내 토큰을 복제하려면 마우스 오른쪽 버튼을 클릭하고 복제를 [!UICONTROL **선택합니다**].
+1. 내 토큰을 복제하려면 마우스 오른쪽 버튼을 클릭하고 선택합니다 **[!UICONTROL Clone]**.
 
    ![이미지 5](/help/sky/assets/my-tokens/my-token-actions-edit-delete-clone-and-copy-token-names/my-token-actions-edit-delete-clone-and-copy-token-names-5.png)
 
-1. 복제 토큰의 새 이름을 입력하고 필요한 경우 편집한 다음 [저장]을 [!UICONTROL **클릭합니다**].
+1. 복제 토큰의 새 이름을 입력하고 필요한 경우 편집한 다음 을 클릭합니다 **[!UICONTROL Save]**.
 
    ![이미지 6](/help/sky/assets/my-tokens/my-token-actions-edit-delete-clone-and-copy-token-names/my-token-actions-edit-delete-clone-and-copy-token-names-6.png)
 
