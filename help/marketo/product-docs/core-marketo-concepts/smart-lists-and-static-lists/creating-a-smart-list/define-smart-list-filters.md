@@ -3,9 +3,9 @@ unique-page-id: 557316
 description: 스마트 목록 필터 정의 - 마케팅 문서 - 제품 설명서
 title: 스마트 목록 필터 정의
 translation-type: tm+mt
-source-git-commit: 00887ea53e395bea3a11fd28e0ac98b085ef6ed8
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '159'
+source-wordcount: '158'
 ht-degree: 0%
 
 ---
@@ -13,9 +13,7 @@ ht-degree: 0%
 
 # 스마트 목록 필터 정의 {#define-smart-list-filters}
 
->[!NOTE]
->
->**사전 요구 사항**
+>[!PREREQUISITES]
 >
 >* [스마트 목록 만들기](create-a-smart-list.md)
 >* [스마트 목록에 필터 찾기 및 추가](find-and-add-filters-to-a-smart-list.md)
