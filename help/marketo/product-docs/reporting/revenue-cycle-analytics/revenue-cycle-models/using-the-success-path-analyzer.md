@@ -3,9 +3,9 @@ unique-page-id: 3571886
 description: 성공 경로 분석기 - Marketing To Docs - 제품 설명서 사용
 title: 성공 경로 분석기 사용
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '374'
+source-wordcount: '373'
 ht-degree: 0%
 
 ---
@@ -15,9 +15,7 @@ ht-degree: 0%
 
 성공 경로 분석기를 사용하여 [매출 주기 모델 단계를 통해 사람들의 흐름(양)과 속도(일 기준 속도)를 모두 반영하는 구체적인 세부 사항을 탐색합니다](understanding-revenue-models.md).
 
->[!NOTE]
->
->**사전 요구 사항**
+>[!PREREQUISITES]
 >
 >[성공 경로 분석기 만들기](create-a-success-path-analyzer.md)
 
