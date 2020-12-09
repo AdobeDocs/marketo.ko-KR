@@ -3,9 +3,9 @@ unique-page-id: 2359467
 description: 이메일 성능 보고서 - 마케팅 문서 - 제품 설명서
 title: 이메일 성능 보고서
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '439'
+source-wordcount: '437'
 ht-degree: 0%
 
 ---
@@ -62,9 +62,7 @@ ht-degree: 0%
 >
 >동일한 캠페인에서 동일한 사람에게 전송되는 여러 개가 한 번만 카운트됩니다.
 
->[!NOTE]
->
->**관련 문서**
+>[!MORELIKETHIS]
 >
 >* [캠페인 이메일 보고서의 자산 필터링](../../../../product-docs/reporting/basic-reporting/report-activity/filter-assets-in-a-campaign-email-reports.md)
 >* [이메일 링크 성능 보고서](email-link-performance-report.md)
