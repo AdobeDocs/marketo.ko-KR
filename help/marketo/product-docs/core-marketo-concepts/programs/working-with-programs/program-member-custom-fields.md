@@ -3,9 +3,9 @@ unique-page-id: 37355569
 description: 프로그램 멤버 사용자 정의 필드 - 마케팅 문서 - 제품 설명서
 title: 프로그램 멤버 사용자 정의 필드
 translation-type: tm+mt
-source-git-commit: 5c9683c6b00ccbf9e9d606fd4513432c9872ad00
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '392'
+source-wordcount: '390'
 ht-degree: 0%
 
 ---
@@ -71,9 +71,7 @@ ht-degree: 0%
 * 라이브러리 [](http://docs.marketo.com/x/egAk)API를 통해 가져오기 및 [](http://developers.marketo.com/)내보내기가 지원됩니다.
 * 두 사람을 병합하면 우승자의 프로그램 구성원 사용자 정의 필드 데이터가 사용됩니다. 하지만 패자가 없는 경우는 그 가치를 매긴다.
 
->[!NOTE]
->
->**관련 문서**
+>[!MORELIKETHIS]
 >
 >[Marketing To에서 사용자 지정 필드 만들기](../../../../product-docs/administration/field-management/create-a-custom-field-in-marketo.md)
 
