@@ -3,9 +3,9 @@ unique-page-id: 2359880
 description: 폴더를 사용하여 이미지 및 파일 구성 - Marketing To Docs - 제품 설명서
 title: 폴더를 사용하여 이미지 및 파일 구성
 translation-type: tm+mt
-source-git-commit: 00887ea53e395bea3a11fd28e0ac98b085ef6ed8
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '107'
+source-wordcount: '105'
 ht-degree: 0%
 
 ---
@@ -33,9 +33,7 @@ ht-degree: 0%
 
 하이 파이브! 폴더 유토피아를 위한 모든 준비가 완료되었습니다.
 
->[!NOTE]
->
->**관련 문서**
+>[!MORELIKETHIS]
 >
 >* [업로드된 이미지 및 파일 검색](search-uploaded-images-and-files.md)
 
