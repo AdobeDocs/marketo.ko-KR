@@ -3,9 +3,9 @@ unique-page-id: 2950578
 description: 소셜 프로필 데이터 관리 - 마케팅 문서 - 제품 설명서
 title: 소셜 프로필 데이터 관리
 translation-type: tm+mt
-source-git-commit: 313266a67243f0c70c25010cb4825efb7f3db0ab
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '398'
+source-wordcount: '396'
 ht-degree: 0%
 
 ---
@@ -85,9 +85,7 @@ ht-degree: 0%
 >
 >소셜 양식 채우기는 사용자가 양식에 입력하는 *경우에만* 이메일 주소를 캡처합니다. 이메일 주소가 필요한 경우 양식에서 필수 [필드로 만들어야 합니다](../../../../product-docs/demand-generation/forms/creating-a-form/make-a-form-field-required.md).
 
->[!NOTE]
->
->**관련 문서**
+>[!MORELIKETHIS]
 >
 >양식에서 이 정보를 캡처하려면 [소셜 양식 채우기를 활성화합니다](../../../../product-docs/demand-generation/forms/form-actions/enable-social-form-fill-on-a-form.md).
 
