@@ -2,9 +2,9 @@
 title: model-health-and-data-validity
 description: 모델 상태 및 데이터 유효성
 translation-type: tm+mt
-source-git-commit: cd1b7e65c73de0b31f20289402f1c0832c382b33
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '156'
+source-wordcount: '149'
 ht-degree: 0%
 
 ---
@@ -16,7 +16,7 @@ ht-degree: 0%
 
 모델의 성능은 입력 데이터의 품질과 완벽성에 따라 달라집니다. 모델 건강도 평가해 보세요.
 
-Marketing Classic의 관리 [!UICONTROL **영역**] 에 있는 [!UICONTROL **예측 대상**] 아래의 [!UICONTROL ****] 모델 및 데이터 상태섹션으로이동합니다. 모든 모델과 상태를 확인할 수 있습니다.
+Marketing Classic의 **[!UICONTROL Models and Data Health]** 영역 **[!UICONTROL Predictive Audiences]** 에 있는 **[!UICONTROL Admin]** 섹션으로 이동합니다. 모든 모델과 상태를 확인할 수 있습니다.
 
 ![이미지 원](/help/sky/assets/predictive-audiences/model-health-and-data-validity/model-health-and-data-validity-1.png)
 
