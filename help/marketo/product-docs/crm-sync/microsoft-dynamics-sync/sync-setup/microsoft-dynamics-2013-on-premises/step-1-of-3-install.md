@@ -3,9 +3,9 @@ unique-page-id: 3571813
 description: 3단계 중 1단계 - Dynamics에서 Marketing To 솔루션 설치(2013 온프레미스) - Marketing Docs - 제품 설명서
 title: 3단계 중 1단계 - Dynamics에서 Marketing To 솔루션 설치(2013 온프레미스)
 translation-type: tm+mt
-source-git-commit: ce8b67b8549d23ff4ddd1d341632c6c5ff33990d
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '293'
+source-wordcount: '292'
 ht-degree: 0%
 
 ---
@@ -19,9 +19,7 @@ Microsoft Dynamics 온-프레미스 및 Marketing To를 동기화하려면 먼�
 >
 >Marketing을 CRM에 동기화한 후에는 인스턴스를 대체하지 않으면 새 동기화를 수행할 수 없습니다.
 
->[!NOTE]
->
->**사전 요구 사항**
+>[!PREREQUISITES]
 >
 >ADFS(Active Directory Federation Services [2.0, 2.1 또는 3.0)이 구성된](http://www.microsoft.com/en-us/download/confirmation.aspx?id=41701) IFD(Internet Facing Deployment [](https://msdn.microsoft.com/en-us/library/bb897402.aspx) )가 있어야 합니다. 참고:링크를 클릭하면 IFD 문서가 자동으로 다운로드됩니다.
 >
