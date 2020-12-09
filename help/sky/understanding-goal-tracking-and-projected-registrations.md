@@ -2,9 +2,9 @@
 title: 목표 추적 및 예상 등록 이해
 description: 목표 추적 및 예상 등록 이해
 translation-type: tm+mt
-source-git-commit: 1231bc32a3abdf66c10864d6605234763618dbe0
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '976'
+source-wordcount: '969'
 ht-degree: 0%
 
 ---
@@ -22,11 +22,11 @@ ht-degree: 0%
 
 ## 목표 추적 및 예상 등록
 
-1. 이벤트 프로그램의 보고서 [!UICONTROL **탭에서 목표**] 추적 세부 사항을 찾을 수 있습니다. 이 특정 예에서는 지금까지 200(75%)의 목표에 반해서 150명의 등록된 구성원이 있습니다.
+1. 이벤트 프로그램의 **[!UICONTROL Reports]** 탭에서 목표 추적 세부 사항을 확인할 수 있습니다. 이 특정 예에서는 지금까지 200(75%)의 목표에 반해서 150명의 등록된 구성원이 있습니다.
 
    ![이미지 원](/help/sky/assets/predictive-audiences/understanding-goal-tracking-and-projected-registrations/understanding-goal-tracking-and-projected-registrations-1.png)
 
-예상 등록도 [!UICONTROL **확인할**] 수 있습니다. 정보 아이콘 위로 마우스를 가져가면 이 수의 분류가 Adobe Target 세그먼트별로 표시됩니다.
+등록도 **[!UICONTROL Projected]** 표시됩니다. 정보 아이콘 위로 마우스를 가져가면 이 수의 분류가 Adobe Target 세그먼트별로 표시됩니다.
 
 ![이미지 2](/help/sky/assets/predictive-audiences/understanding-goal-tracking-and-projected-registrations/understanding-goal-tracking-and-projected-registrations-2.png)
 
@@ -69,7 +69,7 @@ ht-degree: 0%
 
 ## 개인 수준 예측
 
-모든 프로그램 구성원을&#x200B;[!UICONTROL **보려면 구성원**] 탭을 클릭합니다. 등록 [!UICONTROL **가능성**] 또는 참석 가능성 [!UICONTROL ****] 막대 위로 마우스를 가져가면 정확한 비율 및 분류가 표시됩니다. 그런 다음 특정 카테고리(예: &quot;가능성이 적은&quot; 모든 구성원이 카테고리를 등록하도록 함)의 멤버에 대해 조치를 취하여 특정 멤버를 타깃팅하여 잠재적으로 등록 번호를 높일 수 있습니다.
+모든 프로그램 구성원을 보려면&#x200B;**[!UICONTROL Members]** 탭을 클릭합니다. 비율을 정확히 **[!UICONTROL Registration Likelihood]** 표시하거나 **[!UICONTROL Attendance Likelihood]** 범주를 마우스로 가리켜서 분류할 수 있습니다. 그런 다음 특정 카테고리(예: &quot;가능성이 적은&quot; 모든 구성원이 카테고리를 등록하도록 함)의 멤버에 대해 조치를 취하여 특정 멤버를 타깃팅하여 잠재적으로 등록 번호를 높일 수 있습니다.
 
 ![이미지 7](/help/sky/assets/predictive-audiences/understanding-goal-tracking-and-projected-registrations/understanding-goal-tracking-and-projected-registrations-7.png)
 
