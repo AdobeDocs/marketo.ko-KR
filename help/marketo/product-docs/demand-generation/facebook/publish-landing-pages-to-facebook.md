@@ -3,9 +3,9 @@ unique-page-id: 2359823
 description: Facebook에 랜딩 페이지 게시 - 마케팅 문서 - 제품 설명서
 title: Facebook에 랜딩 페이지 게시
 translation-type: tm+mt
-source-git-commit: 00887ea53e395bea3a11fd28e0ac98b085ef6ed8
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '304'
+source-wordcount: '303'
 ht-degree: 0%
 
 ---
@@ -21,9 +21,7 @@ ht-degree: 0%
 >
 >SMB Spark, Standard 및 Select 별도의 라이선스 기능이 포함된 엔터프라이즈
 
->[!NOTE]
->
->**사전 요구 사항**
+>[!PREREQUISITES]
 >
 >Facebook에 게시하려면 페이지에 좋아요가 2,000개 이상 있어야 합니다.
 
