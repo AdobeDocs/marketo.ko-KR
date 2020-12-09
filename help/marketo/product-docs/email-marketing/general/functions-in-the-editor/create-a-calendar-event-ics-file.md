@@ -3,9 +3,9 @@ unique-page-id: 1900563
 description: 달력 이벤트(.ics) 파일 만들기 - 마케팅 문서 - 제품 설명서
 title: 달력 이벤트(.ics) 파일 만들기
 translation-type: tm+mt
-source-git-commit: 00887ea53e395bea3a11fd28e0ac98b085ef6ed8
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '97'
+source-wordcount: '95'
 ht-degree: 0%
 
 ---
@@ -33,9 +33,7 @@ ht-degree: 0%
 
 임무 완료! 반드시 테스트해 보십시오.
 
->[!NOTE]
->
->**관련 문서**
+>[!MORELIKETHIS]
 >
 >* [이메일에 달력 이벤트(.ics) 포함](include-a-calendar-event-ics-in-an-email.md)
 >* [랜딩 페이지에 달력 이벤트 ICS 파일 포함](../../../../product-docs/demand-generation/landing-pages/personalizing-landing-pages/include-a-calendar-event-ics-file-in-a-landing-page.md)
