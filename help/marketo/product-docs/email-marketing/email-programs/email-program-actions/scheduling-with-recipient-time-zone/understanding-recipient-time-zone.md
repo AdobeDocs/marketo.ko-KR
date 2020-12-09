@@ -3,9 +3,9 @@ unique-page-id: 12983291
 description: 수신자 시간대 이해 - 마케팅 문서 - 제품 설명서
 title: 수신자 시간대 이해
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '392'
+source-wordcount: '390'
 ht-degree: 0%
 
 ---
@@ -47,9 +47,7 @@ Marketing은 사용자의 구/군/시, 주, 국가 또는 우편번호에 따라
 >
 >위의 입력 필드가 변경되면 Marketing Cloud에서 사용자의 시간대를 자동으로 다시 계산합니다.
 
->[!NOTE]
->
->**관련 문서**
+>[!MORELIKETHIS]
 >
 >* [받는 사람 시간대에서 이메일 프로그램 예약](schedule-email-programs-with-recipient-time-zone.md)
 >* [이메일 프로그램 시작](../../../../../product-docs/email-marketing/email-programs/email-program-actions/head-start-for-email-programs.md)
