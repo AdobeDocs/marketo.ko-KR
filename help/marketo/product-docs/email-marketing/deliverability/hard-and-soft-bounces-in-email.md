@@ -3,9 +3,9 @@ unique-page-id: 1147328
 description: 이메일의 하드 및 소프트 바운스 수 - 마케팅 문서 - 제품 설명서
 title: 이메일의 하드 및 소프트 바운스
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '340'
+source-wordcount: '339'
 ht-degree: 0%
 
 ---
@@ -37,9 +37,7 @@ Marketing To에는 문제가 있는 이메일 전달과 관련된 5개의 사용
 >
 >개인이 **이메일 잘못으로**&#x200B;표시된 경우, 본인의 레코드의 [개인 정보] 탭에서 [이메일 잘못됨] 상자를 선택 취소하여 수동으로 재설정만 할 수 있습니다(해당 이메일이 유효한 경우 알고 있는 경우에만 권장됨).
 
->[!NOTE]
->
->**사전 요구 사항**
+>[!PREREQUISITES]
 >
 >이 단계 [에](../../../product-docs/email-marketing/email-programs/email-program-data/email-performance-report.md) 따라 바운스 데이터를 생성하는 이메일 성능 보고서를 만듭니다.
 
