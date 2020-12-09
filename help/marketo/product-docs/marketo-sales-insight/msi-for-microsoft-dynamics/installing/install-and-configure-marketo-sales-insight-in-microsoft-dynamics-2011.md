@@ -3,9 +3,9 @@ unique-page-id: 3571735
 description: Microsoft Dynamics 2011에서 Marketing To Sales Insight 설치 및 구성 - Marketing Docs - 제품 설명서
 title: Microsoft Dynamics 2011에서 Marketing To Sales Insight 설치 및 구성
 translation-type: tm+mt
-source-git-commit: 313266a67243f0c70c25010cb4825efb7f3db0ab
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '413'
+source-wordcount: '412'
 ht-degree: 0%
 
 ---
@@ -15,9 +15,7 @@ ht-degree: 0%
 
 Marketing To Sales Insight는 세일즈 팀에 탁월한 툴입니다. 다음은 Microsoft Dynamics 2011 온-프레미스에서 설치 및 구성하는 방법에 대한 단계별 지침입니다.
 
->[!NOTE]
->
->**사전 요구 사항**
+>[!PREREQUISITES]
 >
 >Marketing- [Microsoft 통합을 완료합니다](http://docs.marketo.com/x/DoA2).
 >
