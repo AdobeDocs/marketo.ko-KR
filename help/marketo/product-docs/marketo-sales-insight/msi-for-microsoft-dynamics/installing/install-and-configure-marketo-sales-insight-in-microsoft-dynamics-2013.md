@@ -3,9 +3,9 @@ unique-page-id: 3571737
 description: Microsoft Dynamics 2013에서 Marketing To Sales Insight 설치 및 구성 - Marketing Docs - 제품 설명서
 title: Microsoft Dynamics 2013에서 Marketing To Sales Insight 설치 및 구성
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '445'
+source-wordcount: '444'
 ht-degree: 0%
 
 ---
@@ -15,9 +15,7 @@ ht-degree: 0%
 
 Marketing Sales Insight는 세일즈 팀에 마케팅 팀의 데이터를 &quot;창&quot;으로 제공할 수 있는 탁월한 툴입니다. 설치 및 구성 방법
 
->[!NOTE]
->
->**사전 요구 사항**
+>[!PREREQUISITES]
 >
 >Marketing- [Microsoft 통합을 완료합니다](http://docs.marketo.com/x/EIA2).
 >
