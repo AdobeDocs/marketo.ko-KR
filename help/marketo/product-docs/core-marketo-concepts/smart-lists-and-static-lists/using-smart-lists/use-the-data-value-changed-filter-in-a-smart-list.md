@@ -3,9 +3,9 @@ unique-page-id: 557324
 description: 스마트 목록 - 마케팅 문서 - 제품 문서에서 데이터 값 변경 필터 사용
 title: 스마트 목록에서 데이터 값 변경 필터 사용
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '157'
+source-wordcount: '156'
 ht-degree: 0%
 
 ---
@@ -15,9 +15,7 @@ ht-degree: 0%
 
 Marketing To 데이터베이스에서 값이 계속 변경되고 업데이트됩니다. 특정 가치를 찾는 대신 가치가 변한 사람을 찾는 경우가 있습니다. 방법
 
->[!NOTE]
->
->**사전 요구 사항**
+>[!PREREQUISITES]
 >
 >* [스마트 목록 만들기](../../../../product-docs/core-marketo-concepts/smart-lists-and-static-lists/creating-a-smart-list/create-a-smart-list.md)
 
