@@ -3,9 +3,9 @@ unique-page-id: 2360423
 description: 매출 주기 모델에서 모든 리드 찾기 - 마케팅 문서 - 제품 설명서
 title: 매출 주기 모델에서 모든 리드 찾기
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '184'
+source-wordcount: '183'
 ht-degree: 0%
 
 ---
@@ -15,9 +15,7 @@ ht-degree: 0%
 
 스마트 목록을 사용하면 수익 주기 모델의 모든 멤버를 쉽게 찾을 수 있습니다.
 
->[!NOTE]
->
->**사전 요구 사항**
+>[!PREREQUISITES]
 >
 >[스마트 목록 만들기](../../../../product-docs/core-marketo-concepts/smart-lists-and-static-lists/creating-a-smart-list/create-a-smart-list.md)
 
