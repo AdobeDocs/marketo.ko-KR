@@ -3,9 +3,9 @@ unique-page-id: 2951640
 description: 관심 분야 - 마케팅 문서 - 제품 설명서
 title: 흥미로운 순간 사용
 translation-type: tm+mt
-source-git-commit: 728066ab05de82f6123bfaa1f0b05af8632e32b2
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '345'
+source-wordcount: '337'
 ht-degree: 0%
 
 ---
@@ -15,9 +15,7 @@ ht-degree: 0%
 
 흥미로운 순간은 Marketing To Sales Insight 앱을 통해 세일즈 팀과 커뮤니케이션하는 열쇠입니다.
 
->[!NOTE]
->
->**가용성**
+>[!AVAILABILITY]
 >
 >Marketing To Sales Insight 및 Marketing [To Sales Connect](http://docs.marketo.com/x/fgTLAQ) 고객에게만 제공됩니다.
 
@@ -31,7 +29,7 @@ ht-degree: 0%
 
 ## 흥미로운 순간을 어떻게 창조해야 합니까?  {#how-do-i-create-an-interesting-moment}
 
-1. [마트 캠페인](../../../../../../product-docs/core-marketo-concepts/smart-campaigns/understanding-smart-campaigns.md) 을 [](http://docs.marketo.com/display/docs/smart+campaigns)선택합니다. 가급적이면 판매 팀이 흥미로운 캠페인을 찾습니다.
+1. 원하는 경우 [스마트한 캠페인](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/understanding-smart-campaigns.md)선택(가급적이면 판매 팀에서 흥미로운 캠페인 찾기)
 
    ![](assets/image2015-1-8-18-3a8-3a54.png)
 
@@ -76,4 +74,3 @@ Marketing To Sales Insight 앱 [을](../../../../../../product-docs/marketo-sale
 Salesforce1용 Marketing To Sales Insight를 설치 또는 업데이트하면 리드의 관련 링크 아래에 흥미로운 순간이 표시됩니다.
 
 ![](assets/seven.png)
-
