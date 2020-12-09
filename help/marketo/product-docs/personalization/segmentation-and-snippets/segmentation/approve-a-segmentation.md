@@ -3,9 +3,9 @@ unique-page-id: 2359457
 description: 세그멘테이션 승인 - 마케팅 문서 - 제품 설명서
 title: 세그멘테이션 승인
 translation-type: tm+mt
-source-git-commit: 00887ea53e395bea3a11fd28e0ac98b085ef6ed8
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '291'
+source-wordcount: '290'
 ht-degree: 0%
 
 ---
@@ -21,9 +21,7 @@ ht-degree: 0%
 >
 >Marketing은 이제 모든 구독 간의 언어를 표준화하므로 구독에 리드/리드 및 docs.markto.com에 있는 사람/사람을 볼 수 있습니다. 이 용어는 같은 것을 의미한다.아티클 지침에는 영향을 주지 않습니다. 다른 변화도 있습니다 [자세한](http://docs.marketo.com/display/DOCS/Updates+to+Marketo+Terminology)내용
 
->[!NOTE]
->
->**사전 요구 사항**
+>[!PREREQUISITES]
 >
 >* [세그멘테이션 만들기](create-a-segmentation.md)
 >* [세그먼트 규칙 정의](define-segment-rules.md)
