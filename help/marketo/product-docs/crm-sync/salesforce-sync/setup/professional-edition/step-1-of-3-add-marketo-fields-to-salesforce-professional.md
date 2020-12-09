@@ -3,9 +3,9 @@ unique-page-id: 11372975
 description: 3단계 중 1단계 - Salesforce에 마케팅 필드 추가(Professional) - Marketing To Docs - 제품 설명서
 title: 3단계 중 1단계 - Salesforce에 마케팅 필드 추가(Professional)
 translation-type: tm+mt
-source-git-commit: c33b7ab59e612f37d3f64bb954579700dc574068
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '750'
+source-wordcount: '749'
 ht-degree: 0%
 
 ---
@@ -13,9 +13,7 @@ ht-degree: 0%
 
 # 3단계 중 1단계:Salesforce에 마케팅 필드 추가(Professional) {#step-of-add-marketo-fields-to-salesforce-professional}
 
->[!NOTE]
->
->**사전 요구 사항**
+>[!PREREQUISITES]
 >
 >Salesforce 인스턴스는 Marketing과 Salesforce 간에 데이터를 동기화하려면 Salesforce API에 액세스할 수 있어야 합니다.
 
