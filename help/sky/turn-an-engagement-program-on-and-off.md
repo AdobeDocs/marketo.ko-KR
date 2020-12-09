@@ -2,9 +2,9 @@
 title: 참여 프로그램 설정/해제
 description: 참여 프로그램 설정 및 해제
 translation-type: tm+mt
-source-git-commit: 642fd57105afff1031f18883c5809206f136b7c6
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '105'
+source-wordcount: '102'
 ht-degree: 0%
 
 ---
@@ -20,7 +20,7 @@ ht-degree: 0%
 
    ![이미지 원](/help/sky/assets/engagement-programs/turn-an-engagement-program-on-and-off/turn-an-engagement-program-on-and-off-1.png)
 
-1. 설정 [!UICONTROL **탭을**] 클릭합니다.
+1. 탭을 **[!UICONTROL Setup]** 클릭합니다.
 
    ![이미지 2](/help/sky/assets/engagement-programs/turn-an-engagement-program-on-and-off/turn-an-engagement-program-on-and-off-2.png)
 
@@ -28,7 +28,7 @@ ht-degree: 0%
    >
    >가입 한도를 초과하지 않는 경우 참여 프로그램은 기본적으로 켜져 있습니다.
 
-1. 오른쪽에 [!UICONTROL Program] 단추가 있습니다 [ [!UICONTROL **켜기**] ] 또는 [ [!UICONTROL **해제]를 선택합니다**].
+1. 오른쪽에 [!UICONTROL Program] 단추가 있습니다 또는 **[!UICONTROL On]** 를 선택합니다 **[!UICONTROL Off]**.
 
    ![이미지 3](/help/sky/assets/engagement-programs/turn-an-engagement-program-on-and-off/turn-an-engagement-program-on-and-off-3.png)
 
