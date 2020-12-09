@@ -3,9 +3,9 @@ unique-page-id: 2359858
 description: Marketing to - Marketing Docs - 제품 문서에 이미지 및 파일 추가
 title: Marketing에 이미지 및 파일 추가
 translation-type: tm+mt
-source-git-commit: 00887ea53e395bea3a11fd28e0ac98b085ef6ed8
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '194'
+source-wordcount: '192'
 ht-degree: 0%
 
 ---
@@ -67,9 +67,7 @@ ht-degree: 0%
 
 `<iframe width="630" height="470" src="//play.vidyard.com/ZWBeQ5oiXRKG2QAP5E7g6Q.html?v=3.1.1" frameborder="0" allowfullscreen></iframe>`
 
->[!NOTE]
->
->**관련 문서**
+>[!MORELIKETHIS]
 >
 >* [폴더를 사용하여 이미지 및 파일 구성](organize-your-images-and-files-using-folders.md)
 
