@@ -3,9 +3,9 @@ unique-page-id: 11377958
 description: 사용자 로그인 내역 - 마케팅 문서 - 제품 설명서
 title: 사용자 로그인 내역
 translation-type: tm+mt
-source-git-commit: 00887ea53e395bea3a11fd28e0ac98b085ef6ed8
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '180'
+source-wordcount: '179'
 ht-degree: 0%
 
 ---
@@ -15,9 +15,7 @@ ht-degree: 0%
 
 사용자 로그인 내역은 실패한 로그인 시도를 포함하여 사용료 지불 옵션에 로그인하는 사용자를 정확하게 표시하여 책임과 보안을 유지하는 데 도움이 됩니다.
 
->[!NOTE]
->
->**사전 요구 사항**
+>[!PREREQUISITES]
 >
 >사용자 로그인 내역을 보려면 액세스 로그인 내역 권한이 설정된 역할이 있어야 합니다.
 
