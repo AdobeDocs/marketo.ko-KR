@@ -2,9 +2,9 @@
 title: 이벤트 목표 설정
 description: 이벤트 목표 설정 방법
 translation-type: tm+mt
-source-git-commit: 642fd57105afff1031f18883c5809206f136b7c6
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '77'
+source-wordcount: '76'
 ht-degree: 0%
 
 ---
@@ -27,7 +27,7 @@ ht-degree: 0%
 
    ![이미지 2](/help/sky/assets/event-programs/setting-event-goals/setting-event-goals-2.png)
 
-1. 목표를 [!UICONTROL Registered] 입력한 다음 만들기 [!UICONTROL Attended]를 [!UICONTROL **클릭합니다**] ([!UICONTROL Description] [!UICONTROL Labels] 및 선택 사항).
+1. 목표를 [!UICONTROL Registered] 입력하고 [!UICONTROL Attended]를 **[!UICONTROL Create]** 클릭합니다([!UICONTROL Description] 및 [!UICONTROL Labels] 선택 사항).
 
    ![이미지 원](/help/sky/assets/event-programs/setting-event-goals/setting-event-goals-3.png)
 
