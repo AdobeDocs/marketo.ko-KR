@@ -3,9 +3,9 @@ unique-page-id: 10093188
 description: 마케팅 사용자 지정 개체 이해 - 마케팅 문서 - 제품 설명서
 title: 마케팅 사용자 지정 개체 이해
 translation-type: tm+mt
-source-git-commit: 313266a67243f0c70c25010cb4825efb7f3db0ab
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '734'
+source-wordcount: '732'
 ht-degree: 0%
 
 ---
@@ -99,9 +99,7 @@ CRM 또는 Marketing-to 전용 레코드에 있는 Marketing To에 여러 명의
 
 자세한 [내용은 사용자 지정 개체 데이터](import-custom-object-data.md) 가져오기를 참조하십시오.
 
->[!NOTE]
->
->**관련 문서**
+>[!MORELIKETHIS]
 >
 >* [마케팅 사용자 지정 개체 만들기](create-marketo-custom-objects.md)
 >* [사용자 지정 개체 승인](approve-a-custom-object.md)
