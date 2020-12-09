@@ -3,9 +3,9 @@ unique-page-id: 4719300
 description: 사용자 지정 개체 필드를 스마트 목록/트리거 제약 조건으로 추가/제거 - Marketing To Docs - 제품 설명서
 title: 사용자 지정 개체 필드를 스마트 목록/트리거 제약 조건으로 추가/제거
 translation-type: tm+mt
-source-git-commit: 00887ea53e395bea3a11fd28e0ac98b085ef6ed8
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '195'
+source-wordcount: '193'
 ht-degree: 0%
 
 ---
@@ -68,9 +68,7 @@ Marketing에서는 Salesforce 사용자 정의 개체 동기화를 세부적으�
 
 와! 스마트한 목록 및 스마트한 캠페인의 강력한 기능
 
->[!NOTE]
->
->**관련 문서**
+>[!MORELIKETHIS]
 >
 >* [사용자 지정 개체 동기화 활성화/비활성화](enable-disable-custom-object-sync.md)
 
