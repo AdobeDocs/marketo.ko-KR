@@ -3,9 +3,9 @@ unique-page-id: 2359500
 description: 세그멘테이션 주문 우선 순위 - 마케팅 문서 - 제품 설명서
 title: 세그멘테이션 주문 우선 순위
 translation-type: tm+mt
-source-git-commit: 00887ea53e395bea3a11fd28e0ac98b085ef6ed8
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '157'
+source-wordcount: '156'
 ht-degree: 0%
 
 ---
@@ -15,9 +15,7 @@ ht-degree: 0%
 
 세그멘테이션에서 **주문** 시 사용자 평가를 위한 우선 순위를 설정하는 방법을 이해하는 것이 중요합니다.
 
->[!NOTE]
->
->**사전 요구 사항**
+>[!PREREQUISITES]
 >
 >* [세그멘테이션 만들기](create-a-segmentation.md)
 >* [세그먼트 규칙 정의](define-segment-rules.md)
