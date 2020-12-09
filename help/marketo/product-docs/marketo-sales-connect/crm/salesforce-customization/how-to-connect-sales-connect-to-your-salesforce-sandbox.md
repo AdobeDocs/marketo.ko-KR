@@ -3,9 +3,9 @@ unique-page-id: 15368205
 description: Salesforce 샌드박스와 Sales Connect를 연결하는 방법 - Marketing Docs - 제품 설명서
 title: Salesforce 샌드박스와 세일즈 연결 방법
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '157'
+source-wordcount: '156'
 ht-degree: 0%
 
 ---
@@ -13,9 +13,7 @@ ht-degree: 0%
 
 # Salesforce 샌드박스와 세일즈 연결 방법 {#how-to-connect-sales-connect-to-your-salesforce-sandbox}
 
->[!NOTE]
->
->**사전 요구 사항**
+>[!PREREQUISITES]
 >
 >샌드박스에 대한 연결을 설정할 때 Sales Connect 계정을 이미 Salesforce에 연결할 수 없습니다. 그렇다면 이 문서의 단계를 [수행하기](http://docs.marketo.com/x/FoDq) 전에 연결을 끊어야 합니다.
 
