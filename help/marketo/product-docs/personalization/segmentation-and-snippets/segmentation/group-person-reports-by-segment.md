@@ -3,9 +3,9 @@ unique-page-id: 2359492
 description: 세그먼트별 사람 보고서 그룹화 - 마케팅 문서 - 제품 설명서
 title: 세그먼트별 사람 보고서 그룹화
 translation-type: tm+mt
-source-git-commit: 00887ea53e395bea3a11fd28e0ac98b085ef6ed8
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '240'
+source-wordcount: '238'
 ht-degree: 0%
 
 ---
@@ -58,9 +58,7 @@ ht-degree: 0%
 >
 >세그먼트에 대한 자세한 내용과 세그먼트를 만들고 관리하는 방법에 대한 자세한 내용은 [세그멘테이션](http://docs.marketo.com/display/docs/segmentation+and+snippets) 심층 설명을 참조하십시오.
 
->[!NOTE]
->
->**관련 문서**
+>[!MORELIKETHIS]
 >
 >* [사람 보고서에 사용자 지정 열 추가](../../../../product-docs/reporting/basic-reporting/editing-reports/add-custom-columns-to-a-person-report.md)
 
