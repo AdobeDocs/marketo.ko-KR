@@ -3,9 +3,9 @@ unique-page-id: 7515069
 description: 안내 템플릿의 요소 및 변수 이해 - Marketing Docs - 제품 설명서
 title: 안내 템플릿의 요소 및 변수 이해
 translation-type: tm+mt
-source-git-commit: 00887ea53e395bea3a11fd28e0ac98b085ef6ed8
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '189'
+source-wordcount: '187'
 ht-degree: 0%
 
 ---
@@ -58,9 +58,7 @@ ht-degree: 0%
  </tbody> 
 </table>
 
->[!NOTE]
->
->**관련 문서**
+>[!MORELIKETHIS]
 >
 >[안내 랜딩 페이지 템플릿 만들기](create-a-guided-landing-page-template.md)
 
