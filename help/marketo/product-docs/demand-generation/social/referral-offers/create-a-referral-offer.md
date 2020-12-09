@@ -3,9 +3,9 @@ unique-page-id: 2359781
 description: 참조 오퍼 만들기 - 마케팅 문서 - 제품 설명서
 title: 참조 오퍼 만들기
 translation-type: tm+mt
-source-git-commit: 00887ea53e395bea3a11fd28e0ac98b085ef6ed8
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '269'
+source-wordcount: '267'
 ht-degree: 0%
 
 ---
@@ -67,9 +67,7 @@ ht-degree: 0%
 
 축하합니다! 참조 오퍼를 만들었습니다.
 
->[!NOTE]
->
->**관련 문서**
+>[!MORELIKETHIS]
 >
 >다음 단계는 랜딩 페이지, 웹 사이트 또는 Facebook에 [참조](publish-a-referral-offer.md) 오퍼를 게시하는 것입니다.
 
