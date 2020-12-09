@@ -3,9 +3,9 @@ unique-page-id: 2360368
 description: Salesforce Enterprise/Unlimited에서 Marketing To Sales Insight 구성 - Marketing Docs - 제품 설명서
 title: Salesforce Enterprise에서 Marketing to Sales Insight 구성/제한 없음
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '923'
+source-wordcount: '922'
 ht-degree: 0%
 
 ---
@@ -15,9 +15,7 @@ ht-degree: 0%
 
 다음은 Salesforce Enterprise/Unlimited Editions에서 Marketing to Sales Insight를 구성하는 데 필요한 단계입니다. 시작하기
 
->[!NOTE]
->
->**사전 요구 사항**
+>[!PREREQUISITES]
 >
 >* [Salesforce Enterprise/Unlimited Edition에서 Marketing to 필드 동기화 구성](http://docs.marketo.com/pages/viewpage.action?pageid=2360372)
 >* [Salesforce AppExchange에 Marketing to Sales Insight 패키지 설치](../../../../product-docs/marketo-sales-insight/msi-for-salesforce/installation/install-marketo-sales-insight-package-in-salesforce-appexchange.md)
