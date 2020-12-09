@@ -2,9 +2,9 @@
 title: rename-a-stream
 description: 스트림 이름 변경
 translation-type: tm+mt
-source-git-commit: cd1b7e65c73de0b31f20289402f1c0832c382b33
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '62'
+source-wordcount: '61'
 ht-degree: 0%
 
 ---
@@ -20,7 +20,7 @@ ht-degree: 0%
 
    ![이미지 원](/help/sky/assets/engagement-programs/rename-a-stream/rename-a-stream-1.png)
 
-1. 스트림 [!UICONTROL **탭을**] 클릭합니다.
+1. 탭을 **[!UICONTROL Streams]** 클릭합니다.
 
    ![이미지 2](/help/sky/assets/engagement-programs/rename-a-stream/rename-a-stream-2.png)
 
