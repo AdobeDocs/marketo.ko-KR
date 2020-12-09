@@ -3,9 +3,9 @@ unique-page-id: 2359665
 description: 스트림 캐덴스 설정 - 마케팅 문서 - 제품 설명서
 title: 스트림 패턴 설정
 translation-type: tm+mt
-source-git-commit: 00887ea53e395bea3a11fd28e0ac98b085ef6ed8
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '380'
+source-wordcount: '378'
 ht-degree: 0%
 
 ---
@@ -106,9 +106,7 @@ ht-degree: 0%
 
 이제 여러분은 스트림 캐더스를 어떻게 설정하는지 알고 있습니다!
 
->[!NOTE]
->
->**관련 문서**
+>[!MORELIKETHIS]
 >
 >* [수신자 시간대 이해](../../../../product-docs/email-marketing/email-programs/email-program-actions/scheduling-with-recipient-time-zone/understanding-recipient-time-zone.md)
 >* [받는 사람 시간대에서 참여 프로그램 예약](set-stream-cadence/schedule-engagement-programs-with-recipient-time-zone.md)
