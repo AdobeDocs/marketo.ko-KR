@@ -3,9 +3,9 @@ unique-page-id: 2359791
 description: 참조 오퍼 - 마케팅 문서 - 제품 설명서 목표 지정
 title: 참조 오퍼에 대한 목표 지정
 translation-type: tm+mt
-source-git-commit: 00887ea53e395bea3a11fd28e0ac98b085ef6ed8
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '300'
+source-wordcount: '298'
 ht-degree: 0%
 
 ---
@@ -55,9 +55,7 @@ ht-degree: 0%
 >
 >소셜 활동을 모니터링하기 위해 스마트 캠페인에서 사용할 수 있는 새로운 필터 및 트리거가 있습니다. 소셜 활동에 대한 [트리거 및 필터 사용을 참조하십시오](../../../../product-docs/demand-generation/social/social-functions/triggers-and-filters-for-social-activities.md).
 
->[!NOTE]
->
->**관련 문서**
+>[!MORELIKETHIS]
 >
 >그런 다음, [조회 오퍼에서 전송할 등록 및 이행 이메일을](send-referral-offer-fulfillment-email.md) 선택할 수 있습니다.
 
