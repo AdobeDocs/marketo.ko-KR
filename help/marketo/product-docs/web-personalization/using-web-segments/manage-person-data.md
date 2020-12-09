@@ -3,9 +3,9 @@ unique-page-id: 7504051
 description: 개인 데이터 관리 - 마케팅 문서 - 제품 설명서
 title: 개인 데이터 관리
 translation-type: tm+mt
-source-git-commit: 00887ea53e395bea3a11fd28e0ac98b085ef6ed8
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '198'
+source-wordcount: '196'
 ht-degree: 0%
 
 ---
@@ -106,9 +106,7 @@ ht-degree: 0%
 
 새 웹 개인화 계정에 대해 기본적으로 다음 리드 필드가 제공됩니다.
 
->[!NOTE]
->
->**관련 문서**
+>[!MORELIKETHIS]
 >
 >* [알려진 사람 데이터를 사용하여 세그먼트 만들기](create-a-segment-using-known-person-data.md)
 
