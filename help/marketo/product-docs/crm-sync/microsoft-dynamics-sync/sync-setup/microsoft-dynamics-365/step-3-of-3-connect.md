@@ -3,9 +3,9 @@ unique-page-id: 3571830
 description: 3단계 중 3단계 - Microsoft Dynamics와 Marketing(온라인) - Marketing Docs - 제품 설명서
 title: 3단계 중 3단계 - Microsoft Dynamics와 Marketing(온라인) 연결
 translation-type: tm+mt
-source-git-commit: dc20aede0894a09e6c0bcd3d1580859b5fecb5f1
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '369'
+source-wordcount: '368'
 ht-degree: 0%
 
 ---
@@ -21,9 +21,7 @@ ht-degree: 0%
 
 동기화 마지막 단계입니다. 거의 다 왔어!
 
->[!NOTE]
->
->**사전 요구 사항**
+>[!PREREQUISITES]
 >
 >* [3단계 중 1단계:Marketing To 솔루션(온라인) 설치](step-1-of-3-install.md)
    >
