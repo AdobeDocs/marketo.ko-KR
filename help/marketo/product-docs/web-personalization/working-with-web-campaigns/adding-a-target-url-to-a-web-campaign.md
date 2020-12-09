@@ -3,9 +3,9 @@ unique-page-id: 6094879
 description: 웹 캠페인에 Target URL 추가 - 마케팅 문서 - 제품 설명서
 title: 웹 캠페인에 Target URL 추가
 translation-type: tm+mt
-source-git-commit: 6f49037bf698b1646004720815897f992911f716
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '267'
+source-wordcount: '265'
 ht-degree: 0%
 
 ---
@@ -79,8 +79,7 @@ Target URL은 [캠페인 설정] 페이지 아래에 있으며 웹 캠페인이 
 
    ![](assets/set-web-campaign-multiple-hands.jpg)
 
->[!NOTE]
-**관련 문서**
+>[!MORELIKETHIS]
 * [새 대화 상자 웹 캠페인 만들기](create-a-new-dialog-web-campaign.md)
 * [영역에서 새 웹 캠페인 만들기](create-a-new-in-zone-web-campaign.md)
 * [새 위젯 웹 캠페인 만들기](create-a-new-widget-web-campaign.md)
