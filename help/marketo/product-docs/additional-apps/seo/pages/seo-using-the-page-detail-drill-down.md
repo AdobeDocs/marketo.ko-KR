@@ -3,9 +3,9 @@ unique-page-id: 2949186
 description: SEO - 페이지 세부 정보 드릴다운 사용 - Marketing Docs - 제품 설명서
 title: SEO - 페이지 세부 사항 드릴다운 사용
 translation-type: tm+mt
-source-git-commit: 23428a6e0ba9b2108a8f2f7dd6a69929dd069834
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '281'
+source-wordcount: '279'
 ht-degree: 0%
 
 ---
@@ -62,9 +62,7 @@ ht-degree: 0%
 
 예쁘죠? 자세한 내용은 여기를 참조하십시오.
 
->[!NOTE]
->
->**관련 문서**
+>[!MORELIKETHIS]
 >
 >* [타깃팅된 키워드를 사용하여 특정 페이지 최적화](../../../../product-docs/additional-apps/seo/keywords/seo-optimize-specific-pages-with-targeted-keywords.md)
 
