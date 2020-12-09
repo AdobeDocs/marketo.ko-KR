@@ -3,9 +3,9 @@ unique-page-id: 2359557
 description: Champion/Challener -Subject Line - Marketing Docs - 제품 설명서
 title: Champion/Challenger -Subject Line
 translation-type: tm+mt
-source-git-commit: 96cc6a30c63c8e8dca793a52e4bf7ecaef8c08dc
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '241'
+source-wordcount: '240'
 ht-degree: 0%
 
 ---
@@ -15,9 +15,7 @@ ht-degree: 0%
 
 여러 제목 라인을 쉽게 테스트할 수 있습니다. 테스트가 완료되면 가장 효과적인 이메일을 보낼 수 있습니다. 방법
 
->[!NOTE]
->
->**사전 요구 사항**
+>[!PREREQUISITES]
 >
 >* [이메일 챔피언/도전자 추가](add-an-email-champion-challenger.md)
 
