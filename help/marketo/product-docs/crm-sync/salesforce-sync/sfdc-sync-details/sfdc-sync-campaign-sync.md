@@ -3,9 +3,9 @@ unique-page-id: 2953469
 description: SFDC 동기화 - 캠페인 동기화 - Marketing To Docs - 제품 설명서
 title: SFDC 동기화 - 캠페인 동기화
 translation-type: tm+mt
-source-git-commit: 96cc6a30c63c8e8dca793a52e4bf7ecaef8c08dc
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '379'
+source-wordcount: '377'
 ht-degree: 0%
 
 ---
@@ -70,9 +70,7 @@ Marketing **프로그램 멤버** 및 ** [진행 상태](../../../../product-doc
 >
 >Salesforce 캠페인 및 매핑된 Marketing To 프로그램이 호환되지 않는 프로그램 상태에 있는 경우 오류 메시지가 표시될 수 있습니다. 프로그램 상태 [를 동기화하기 전에 일치시키는 것이 좋습니다](sfdc-errors/how-to-match-program-statuses-and-salesforce-campaign-statuses-prior-to-sync.md).
 
->[!NOTE]
->
->**관련 문서**
+>[!MORELIKETHIS]
 >
 >* [프로그램과 SFDC 캠페인 동기화](../../../../product-docs/core-marketo-concepts/programs/working-with-programs/sync-an-sfdc-campaign-with-a-program.md)
 >* [프로그램 회원 이해](../../../../product-docs/core-marketo-concepts/programs/creating-programs/understanding-program-membership.md)
