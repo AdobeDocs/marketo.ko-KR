@@ -3,9 +3,9 @@ unique-page-id: 14745611
 description: 마케팅 캠페인에 추가 - 마케팅 문서 - 제품 설명서
 title: 마케팅 캠페인에 추가
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '340'
+source-wordcount: '339'
 ht-degree: 0%
 
 ---
@@ -13,9 +13,7 @@ ht-degree: 0%
 
 # 마케팅 캠페인에 추가 {#add-to-marketing-campaign}
 
->[!NOTE]
->
->**사전 요구 사항**
+>[!PREREQUISITES]
 >
 >[판매 사용자에게 캠페인 표시](http://docs.marketo.com/x/NwDh)
 
