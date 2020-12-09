@@ -3,9 +3,9 @@ unique-page-id: 7504343
 description: 알려진 개인 데이터를 사용하여 세그먼트 만들기 - Marketing Docs - 제품 설명서
 title: 알려진 사람 데이터를 사용하여 세그먼트 만들기
 translation-type: tm+mt
-source-git-commit: 00887ea53e395bea3a11fd28e0ac98b085ef6ed8
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '185'
+source-wordcount: '184'
 ht-degree: 0%
 
 ---
@@ -15,9 +15,7 @@ ht-degree: 0%
 
 알려진 사람 데이터 값을 사용하여 세그먼트를 만드는 방법을 설명합니다.
 
->[!NOTE]
->
->**사전 요구 사항**
+>[!PREREQUISITES]
 >
 >[개인 데이터 관리](manage-person-data.md)
 
