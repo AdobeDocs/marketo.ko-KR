@@ -3,9 +3,9 @@ unique-page-id: 2360222
 description: 통신 제한 활성화 - 마케팅 문서 - 제품 설명서
 title: 통신 제한 사용
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '163'
+source-wordcount: '161'
 ht-degree: 0%
 
 ---
@@ -66,9 +66,7 @@ ht-degree: 0%
    >
    >커뮤니케이션 제한은 모든 이메일 및 참여 프로그램에 자동으로 적용됩니다.
 
->[!NOTE]
->
->**관련 문서**
+>[!MORELIKETHIS]
 >
 >[스마트 캠페인에 통신 제한 적용](../../../product-docs/core-marketo-concepts/smart-campaigns/using-smart-campaigns/apply-communication-limits-to-smart-campaign.md)
 
