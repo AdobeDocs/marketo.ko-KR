@@ -3,9 +3,9 @@ unique-page-id: 2359469
 description: 이메일 프로그램 대시보드 - 마케팅 문서 - 제품 설명서 보기
 title: 이메일 프로그램 대시보드 보기
 translation-type: tm+mt
-source-git-commit: 23428a6e0ba9b2108a8f2f7dd6a69929dd069834
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '152'
+source-wordcount: '150'
 ht-degree: 0%
 
 ---
@@ -45,9 +45,7 @@ A/B 테스트를 사용하거나 사용하지 않고 이메일 프로그램이 �
 >
 >커서를 차트 위젯 위로 가져가면 원하는 결과를 얻을 수 있습니다. 추가 정보가 표시됩니다.
 
->[!NOTE]
->
->**관련 문서**
+>[!MORELIKETHIS]
 >
 >* [이메일 프로그램 대시보드 - A/B 테스트 보기 사용](../../../../product-docs/email-marketing/email-programs/email-program-actions/email-test-a-b-test/use-the-email-program-dashboard-a-b-test-view.md)
 >* [이메일 프로그램 대시보드 사용](use-the-email-program-dashboard.md)
