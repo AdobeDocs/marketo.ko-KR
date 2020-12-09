@@ -3,9 +3,9 @@ unique-page-id: 2953120
 description: 스마트 캠페인 이해 - 마케팅 문서 - 제품 설명서
 title: 스마트 캠페인 이해
 translation-type: tm+mt
-source-git-commit: 728066ab05de82f6123bfaa1f0b05af8632e32b2
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '214'
+source-wordcount: '212'
 ht-degree: 0%
 
 ---
@@ -57,9 +57,7 @@ Markto가 강력한 차라면 스마트 캠페인은 진정한 엔진이다. 간
 
 스마트한 캠페인이 할 수 있는 것은 엄청나게 많다. Adobe Marketing Cloud의 모든 기능이 더욱 수월해졌습니다.
 
->[!NOTE]
->
->**관련 문서**
+>[!MORELIKETHIS]
 >
 >* [새 스마트 캠페인 만들기](creating-a-smart-campaign/create-a-new-smart-campaign.md)
 
