@@ -3,9 +3,9 @@ unique-page-id: 4719344
 description: 기본 웹 세그먼트 만들기 - 마케팅 문서 - 제품 설명서
 title: 기본 웹 세그먼트 만들기
 translation-type: tm+mt
-source-git-commit: 00887ea53e395bea3a11fd28e0ac98b085ef6ed8
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '168'
+source-wordcount: '166'
 ht-degree: 0%
 
 ---
@@ -55,9 +55,7 @@ ht-degree: 0%
 
 이제 미국 방문자를 세분화하여 금융 서비스 업계를 강화하십시오.
 
->[!NOTE]
->
->**관련 문서**
+>[!MORELIKETHIS]
 >
 >* [웹 세그먼트](http://docs.marketo.com/x/9QFI)
 
