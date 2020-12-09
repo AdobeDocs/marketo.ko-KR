@@ -3,9 +3,9 @@ unique-page-id: 2360354
 description: 웹 사이트에 Munchkin 추적 코드 추가 - Marketing Docs - 제품 설명서
 title: 웹 사이트에 문킨 추적 코드 추가
 translation-type: tm+mt
-source-git-commit: 44ed91b485b52173922c709de63a4353e16c5072
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '673'
+source-wordcount: '672'
 ht-degree: 0%
 
 ---
@@ -15,9 +15,7 @@ ht-degree: 0%
 
 Munchkin이라고 하는 Marketing의 사용자 지정 JavaScript 추적 코드는 자동화된 마케팅 캠페인을 통해 방문자의 방문에 대응할 수 있도록 웹 사이트를 방문하는 모든 사람을 추적합니다. 익명의 방문자도 IP 주소 및 기타 정보와 함께 추적됩니다. ** 이 추적 코드가 없으면 웹 사이트에서 방문 또는 기타 활동을 추적할 수 없습니다.**
 
->[!NOTE]
->
->**사전 요구 사항**
+>[!PREREQUISITES]
 >
 >숙련된 JavaScript 개발자에 대한 액세스 권한이 있는지 확인하십시오. 사용자 지정 JavaScript 문제 해결을 지원하기 위해 Marketing To 기술 지원이 설정되지 않았습니다.
 
