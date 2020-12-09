@@ -3,9 +3,9 @@ unique-page-id: 2359555
 description: Champion/Challenger -전체 이메일 - Marketing Docs - 제품 설명서
 title: 챔피언/도전자 - 전체 이메일
 translation-type: tm+mt
-source-git-commit: 96cc6a30c63c8e8dca793a52e4bf7ecaef8c08dc
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '211'
+source-wordcount: '210'
 ht-degree: 0%
 
 ---
@@ -15,9 +15,7 @@ ht-degree: 0%
 
 이메일 전체를 서로 비교하면서 테스트할 수 있습니다. 테스트가 끝나면 최고의 수행자를 전송합니다.
 
->[!NOTE]
->
->**사전 요구 사항**
+>[!PREREQUISITES]
 >
 >* [이메일 챔피언/도전자 추가](add-an-email-champion-challenger.md)
 
