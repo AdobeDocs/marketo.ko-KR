@@ -3,9 +3,9 @@ unique-page-id: 2359734
 description: 동적 컨텐츠가 있는 랜딩 페이지 미리 보기 - Marketing Docs - 제품 설명서
 title: 동적 컨텐츠가 있는 랜딩 페이지 미리 보기
 translation-type: tm+mt
-source-git-commit: 00887ea53e395bea3a11fd28e0ac98b085ef6ed8
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '89'
+source-wordcount: '88'
 ht-degree: 0%
 
 ---
@@ -15,9 +15,7 @@ ht-degree: 0%
 
 다이내믹 컨텐츠를 추가한 후 랜딩 페이지를 미리 보고 모든 것이 의도한 대로 표시되는지 확인합니다.
 
->[!NOTE]
->
->**사전 요구 사항**
+>[!PREREQUISITES]
 >
 >* [랜딩 페이지에서 동적 컨텐츠 사용](../../../../product-docs/demand-generation/landing-pages/personalizing-landing-pages/use-dynamic-content-in-a-landing-page.md)
 >* [랜딩 페이지 미리 보기](preview-a-landing-page.md)
