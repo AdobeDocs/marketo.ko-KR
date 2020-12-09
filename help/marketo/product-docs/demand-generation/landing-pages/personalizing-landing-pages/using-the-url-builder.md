@@ -3,9 +3,9 @@ unique-page-id: 2359801
 description: URL 빌더 - 마케팅 문서 - 제품 설명서 사용
 title: URL 빌더 사용
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '188'
+source-wordcount: '187'
 ht-degree: 0%
 
 ---
@@ -21,9 +21,7 @@ URL 빌더를 사용하면 Marketing to 숨김 양식 필드를 채울 수 있�
 >
 >Marketing은 이제 모든 구독 간의 언어를 표준화하므로 구독에 리드/리드 및 docs.markto.com에 있는 사람/사람을 볼 수 있습니다. 이 용어는 같은 것을 의미한다.아티클 지침에는 영향을 주지 않습니다. 다른 변화도 있습니다 [자세한](http://docs.marketo.com/display/DOCS/Updates+to+Marketo+Terminology)내용
 
->[!NOTE]
->
->**사전 요구 사항**
+>[!PREREQUISITES]
 >
 >양식에 숨김 필드를 만들고 양식 필드를 숨김으로 [설정에서 해당 설정을 편집하는 방법을 알아봅니다](../../../../product-docs/demand-generation/forms/form-fields/set-a-form-field-as-hidden.md).
 
