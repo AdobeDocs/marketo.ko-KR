@@ -2,9 +2,9 @@
 title: campaign-folder-overview-tab
 description: 캠페인 폴더 개요 탭
 translation-type: tm+mt
-source-git-commit: 642fd57105afff1031f18883c5809206f136b7c6
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '109'
+source-wordcount: '105'
 ht-degree: 0%
 
 ---
@@ -12,7 +12,7 @@ ht-degree: 0%
 
 # 캠페인 폴더:개요 탭
 
-캠페인 폴더 탭 아래에는 두 개의 섹션이 [!UICONTROL Overview] 있습니다. [!UICONTROL **세부 사항**] 및 [!UICONTROL **보고서**].
+캠페인 폴더 탭 아래에는 두 개의 섹션이 [!UICONTROL Overview] 있습니다. **[!UICONTROL Details]** 및 **[!UICONTROL Reports]**.
 
 ![이미지 원](/help/sky/assets/campaign-folders/campaign-folder-overview-tab/campaign-folder-overview-tab-1.png)
 
@@ -22,7 +22,7 @@ ht-degree: 0%
 
 ![이미지 원](/help/sky/assets/campaign-folders/campaign-folder-overview-tab/campaign-folder-overview-tab-2.png)
 
-[!UICONTROL **폴더 작업**]
+**[!UICONTROL Folder Actions]**
 
 오른쪽 상단에 있는 폴더 작업 드롭다운을 클릭하여 기본 기능에 빠르게 액세스할 수 있습니다.
 
