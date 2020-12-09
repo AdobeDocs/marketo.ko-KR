@@ -3,9 +3,9 @@ unique-page-id: 10095429
 description: Dynamics 유효성 검사 동기화 문제 수정 - Marketing To Docs - 제품 설명서
 title: Dynamics 유효성 검사 동기화 문제 수정
 translation-type: tm+mt
-source-git-commit: 5c9683c6b00ccbf9e9d606fd4513432c9872ad00
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '409'
+source-wordcount: '407'
 ht-degree: 0%
 
 ---
@@ -111,9 +111,7 @@ Microsoft Dynamics로 ![가서 Marketing To](assets/delete.png) 설치가 있는
 
 Microsoft Dynamics ![의 Marketing Config 기본 설정 단계의 Marketing to 사용자 필드에 적절한 동기화 사용자를 할당해야 합니다](assets/delete.png) .
 
->[!NOTE]
->
->**관련 문서**
+>[!MORELIKETHIS]
 >
 >[Microsoft Dynamics 동기화 유효성 검사](../../../../../product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/validate-microsoft-dynamics-sync.md)
 
