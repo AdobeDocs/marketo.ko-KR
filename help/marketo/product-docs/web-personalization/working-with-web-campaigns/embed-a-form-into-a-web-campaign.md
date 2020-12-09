@@ -3,9 +3,9 @@ unique-page-id: 10095554
 description: 웹 캠페인에 양식 포함 - 마케팅 문서 - 제품 설명서
 title: 웹 캠페인에 양식 포함
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '353'
+source-wordcount: '351'
 ht-degree: 0%
 
 ---
@@ -84,9 +84,7 @@ ht-degree: 0%
 
    ![](assets/image2015-12-29-18-3a20-3a35.png)
 
->[!NOTE]
->
->**관련 문서**
+>[!MORELIKETHIS]
 >
 >* [양식 테마의 CSS 편집](https://docs.marketo.com/display/public/DOCS/Edit+the+CSS+of+a+Form+Theme)
 >* [후속 랜딩 페이지 없이 감사 메시지 표시](http://developers.marketo.com/blog/show-thank-you-message-without-a-follow-up-landing-page/)
