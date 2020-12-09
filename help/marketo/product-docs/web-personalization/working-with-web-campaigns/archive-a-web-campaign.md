@@ -3,9 +3,9 @@ unique-page-id: 12978938
 description: 웹 캠페인 보관 - 마케팅 문서 - 제품 설명서
 title: 웹 캠페인 보관
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '65'
+source-wordcount: '63'
 ht-degree: 0%
 
 ---
@@ -25,9 +25,7 @@ ht-degree: 0%
    >
    >보관된 웹 캠페인이 기본 필터에 표시되지 않습니다. 필터 아이콘을 클릭하고 **상태**&#x200B;아래에서 보관됨 **확인란을** 선택하고 적용을 **클릭합니다**.
 
->[!NOTE]
->
->**관련 문서**
+>[!MORELIKETHIS]
 >
 >* [웹 캠페인 삭제](delete-a-web-campaign.md)
 
