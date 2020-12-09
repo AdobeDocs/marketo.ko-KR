@@ -3,9 +3,9 @@ unique-page-id: 2360317
 description: 작업 영역에 개인 파티션 할당 - 마케팅 문서 - 제품 설명서
 title: 작업 영역에 개인 파티션 지정
 translation-type: tm+mt
-source-git-commit: 00887ea53e395bea3a11fd28e0ac98b085ef6ed8
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '191'
+source-wordcount: '190'
 ht-degree: 0%
 
 ---
@@ -25,9 +25,7 @@ ht-degree: 0%
 >
 >**관리자 권한 필요**
 
->[!NOTE]
->
->**사전 요구 사항**
+>[!PREREQUISITES]
 >
 >[새 작업 공간 만들기](create-a-new-workspace.md)
 
