@@ -2,9 +2,9 @@
 title: add-content-to-an-engagement-stream
 description: 참여 스트림에 컨텐츠 추가
 translation-type: tm+mt
-source-git-commit: 642fd57105afff1031f18883c5809206f136b7c6
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '174'
+source-wordcount: '168'
 ht-degree: 0%
 
 ---
@@ -20,11 +20,11 @@ ht-degree: 0%
 
    ![이미지 원](/help/sky/assets/engagement-programs/add-content-to-an-engagement-stream/add-content-to-an-engagement-stream-1.png)
 
-1. 스트림 [!UICONTROL **탭을**] 클릭합니다.
+1. 탭을 **[!UICONTROL Streams]** 클릭합니다.
 
    ![이미지 2](/help/sky/assets/engagement-programs/add-content-to-an-engagement-stream/add-content-to-an-engagement-stream-2.png)
 
-1. 콘텐츠 [!UICONTROL **추가를 클릭합니다**].
+1. 을 **[!UICONTROL Add Content]**&#x200B;클릭합니다.
 
    ![이미지 3](/help/sky/assets/engagement-programs/add-content-to-an-engagement-stream/add-content-to-an-engagement-stream-3.png)
 
@@ -42,11 +42,11 @@ ht-degree: 0%
 
    ![이미지 5](/help/sky/assets/engagement-programs/add-content-to-an-engagement-stream/add-content-to-an-engagement-stream-5.png)
 
-1. 스트림 [!UICONTROL **탭을**] 클릭합니다.
+1. 탭을 **[!UICONTROL Streams]** 클릭합니다.
 
    ![이미지 6](/help/sky/assets/engagement-programs/add-content-to-an-engagement-stream/add-content-to-an-engagement-stream-6.png)
 
-1. 콘텐츠 [!UICONTROL **추가를 클릭합니다**].
+1. 을 **[!UICONTROL Add Content]**&#x200B;클릭합니다.
 
    ![이미지 7](/help/sky/assets/engagement-programs/add-content-to-an-engagement-stream/add-content-to-an-engagement-stream-7.png)
 
