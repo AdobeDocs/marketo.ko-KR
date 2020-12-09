@@ -3,9 +3,9 @@ unique-page-id: 10096675
 description: 하위 캠페인 및 로컬 자산 만들기 - 마케팅 문서 - 제품 설명서
 title: 하위 캠페인 및 로컬 자산 만들기
 translation-type: tm+mt
-source-git-commit: 5c9683c6b00ccbf9e9d606fd4513432c9872ad00
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '675'
+source-wordcount: '673'
 ht-degree: 0%
 
 ---
@@ -99,9 +99,7 @@ Marketing을 사용하여 이벤트에 대한 확인 이메일을 보냅니다. 
 
 다음 단계는 ON24 이벤트 통합을 [테스트하는 것입니다](test-your-on24-event-integration.md).
 
->[!NOTE]
->
->**관련 문서**
+>[!MORELIKETHIS]
 >
 >* [Marketing ON24 어댑터 이벤트 이해](understanding-marketo-on24-adapter-events.md)
 >* [ON24 이벤트 통합 예](example-on24-event-integration.md)
