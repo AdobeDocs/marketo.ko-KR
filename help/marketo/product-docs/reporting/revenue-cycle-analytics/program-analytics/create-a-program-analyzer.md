@@ -3,9 +3,9 @@ unique-page-id: 2360399
 description: 프로그램 분석기 만들기 - 마케팅 문서 - 제품 설명서
 title: 프로그램 분석기 만들기
 translation-type: tm+mt
-source-git-commit: f74d028e491aa70913fbe5cf14e536e50dbee32b
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '312'
+source-wordcount: '310'
 ht-degree: 0%
 
 ---
@@ -65,9 +65,7 @@ ht-degree: 0%
 
 ![](assets/november-custom-report.png)
 
->[!NOTE]
->
->**관련 문서**
+>[!MORELIKETHIS]
 >
 >* [프로그램 분석기와 채널 효과 비교](compare-channel-effectiveness-with-the-program-analyzer.md)
 >* [프로그램 분석기와 프로그램 효과 비교](compare-program-effectiveness-with-the-program-analyzer.md)
