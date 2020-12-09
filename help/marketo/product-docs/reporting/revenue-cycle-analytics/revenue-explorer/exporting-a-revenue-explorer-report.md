@@ -3,9 +3,9 @@ unique-page-id: 7504749
 description: 매출 탐색기 보고서 내보내기 - 마케팅 문서 - 제품 설명서
 title: 매출 탐색기 보고서 내보내기
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '87'
+source-wordcount: '85'
 ht-degree: 0%
 
 ---
@@ -36,9 +36,7 @@ ht-degree: 0%
 
    달콤해 이 파일을 배포하고 닌자 같은 마케팅 기술을 통해 동료에게 깊은 인상을 남길 수 있습니다.
 
->[!NOTE]
->
->**관련 문서**
+>[!MORELIKETHIS]
 >
 >* [매출 탐색기 보고서 구독](subscribe-to-a-revenue-explorer-report.md)
 
