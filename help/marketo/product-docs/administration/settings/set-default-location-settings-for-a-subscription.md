@@ -3,9 +3,9 @@ unique-page-id: 2359902
 description: 구독에 대한 기본 위치 설정 - Marketing Docs - 제품 설명서
 title: 구독에 대한 기본 위치 설정
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '248'
+source-wordcount: '246'
 ht-degree: 0%
 
 ---
@@ -59,9 +59,7 @@ ht-degree: 0%
 
    축하합니다! 구독에 대한 위치 설정이 변경되었습니다.
 
->[!NOTE]
->
->**관련 문서**
+>[!MORELIKETHIS]
 >
 >* [언어, 로케일 및 표준 시간대 선택](select-your-language-locale-and-time-zone.md)
 
