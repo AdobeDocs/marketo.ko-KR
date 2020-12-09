@@ -3,9 +3,9 @@ unique-page-id: 2359532
 description: 랜딩 페이지에서 동적 컨텐츠 사용 - 마케팅 문서 - 제품 설명서
 title: 랜딩 페이지에서 동적 컨텐츠 사용
 translation-type: tm+mt
-source-git-commit: 00887ea53e395bea3a11fd28e0ac98b085ef6ed8
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '199'
+source-wordcount: '198'
 ht-degree: 0%
 
 ---
@@ -13,9 +13,7 @@ ht-degree: 0%
 
 # 랜딩 페이지에서 동적 컨텐츠 사용 {#use-dynamic-content-in-a-landing-page}
 
->[!NOTE]
->
->**사전 요구 사항**
+>[!PREREQUISITES]
 >
 >* [세그멘테이션 만들기](../../../../product-docs/personalization/segmentation-and-snippets/segmentation/create-a-segmentation.md)
 >* [자유 형식 랜딩 페이지 만들기](../../../../product-docs/demand-generation/landing-pages/free-form-landing-pages/create-a-free-form-landing-page.md)
