@@ -2,9 +2,9 @@
 title: using-the-program-setup-tab
 description: 프로그램 설정 탭 사용
 translation-type: tm+mt
-source-git-commit: 642fd57105afff1031f18883c5809206f136b7c6
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '244'
+source-wordcount: '240'
 ht-degree: 0%
 
 ---
@@ -30,11 +30,11 @@ ht-degree: 0%
 
 ## 태그 추가
 
-1. 섹션 아래의 [!UICONTROL Tags] 속성 [!UICONTROL **드롭다운**] 을 클릭하고 사용 가능한 옵션에서 태그 속성을 선택합니다.
+1. 섹션 [!UICONTROL Tags] 아래에서 **[!UICONTROL Attribute]** 드롭다운을 클릭하고 사용 가능한 옵션에서 태그 속성을 선택합니다.
 
    ![이미지 3](/help/sky/assets/programs/using-the-program-setup-tab/using-the-program-setup-tab-3.png)
 
-1. 값 [!UICONTROL **드롭다운을**] 클릭하고 사용 가능한 옵션에서 태그 값을 선택합니다. 추가를 [!UICONTROL **클릭합니다**].
+1. 드롭다운을 **[!UICONTROL Value]** 클릭하고 사용 가능한 옵션에서 태그 값을 선택합니다. 을 **[!UICONTROL Add]**&#x200B;클릭합니다.
 
    ![이미지 4](/help/sky/assets/programs/using-the-program-setup-tab/using-the-program-setup-tab-4.png)
 
@@ -48,7 +48,7 @@ ht-degree: 0%
 
 ## 기간 비용 추가
 
-1. 섹션에서 월을 [!UICONTROL Period Costs] 선택하고 비용을 입력한 다음 간단한 이름이나 설명을 추가합니다. 추가를 [!UICONTROL **클릭합니다**].
+1. 섹션에서 월을 [!UICONTROL Period Costs] 선택하고 비용을 입력한 다음 간단한 이름이나 설명을 추가합니다. 을 **[!UICONTROL Add]**&#x200B;클릭합니다.
 
    ![이미지 6](/help/sky/assets/programs/using-the-program-setup-tab/using-the-program-setup-tab-6.png)
 
