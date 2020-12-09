@@ -2,9 +2,9 @@
 title: 레이블 추가 및 제거
 description: 레이블 추가 및 제거
 translation-type: tm+mt
-source-git-commit: 642fd57105afff1031f18883c5809206f136b7c6
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '131'
+source-wordcount: '125'
 ht-degree: 0%
 
 ---
@@ -19,11 +19,11 @@ ht-degree: 0%
 자산에 새 레이블을 추가하려면 탭 아래에 있는 자산의 [!UICONTROL Details] 페이지로 [!UICONTROL Overview] 이동합니다.
 <br> 
 
-섹션에서 [!UICONTROL Labels] 새 레이블 [!UICONTROL **추가를 클릭합니다**].
+섹션에서 를 [!UICONTROL Labels] 클릭합니다 **[!UICONTROL Add New Labels]**.
 
 ![이미지 원](/help/sky/assets/labels/add-and-remove-labels/add-and-remove-labels-1.jpg)
 
-이전에 사용하지 않은 레이블을 추가하는 경우 레이블 이름을 입력하고 새로 만들기 ____ [!UICONTROL **를 클릭합니다**].
+이전에 사용하지 않은 레이블을 추가하는 경우 레이블 이름을 입력하고 을 클릭합니다 **[!UICONTROL Create New ____]**.
 
 ![이미지 2](/help/sky/assets/labels/add-and-remove-labels/add-and-remove-labels-2.jpg)
 
@@ -37,6 +37,6 @@ ht-degree: 0%
 
 ## 레이블 제거
 
-X를 클릭하여 레이블을 제거할 수 [!UICONTROL **있습니다**].
+아이콘을 클릭하여 레이블을 제거할 수 있습니다 **[!UICONTROL X]**.
 
 ![이미지 4](/help/sky/assets/labels/add-and-remove-labels/add-and-remove-labels-4.jpg)
