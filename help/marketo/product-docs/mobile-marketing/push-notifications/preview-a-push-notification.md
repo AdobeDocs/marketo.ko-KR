@@ -3,9 +3,9 @@ unique-page-id: 10092730
 description: 푸시 알림 미리 보기 - Marketing Docs - 제품 설명서
 title: 푸시 알림 미리 보기
 translation-type: tm+mt
-source-git-commit: 00887ea53e395bea3a11fd28e0ac98b085ef6ed8
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '247'
+source-wordcount: '245'
 ht-degree: 0%
 
 ---
@@ -65,9 +65,7 @@ Android에서와 마찬가지로 키보드 화살표를 클릭하거나 사용�
 
 따라서 푸시 알림 미리 보기를 통해 고객의 동향을 파악할 수 있습니다.
 
->[!NOTE]
->
->**관련 문서**
+>[!MORELIKETHIS]
 >
 >* [푸시 알림 만들기](create-a-push-notification.md)
 >* [모바일 푸시 알림 구성](configure-mobile-push-notification.md)
