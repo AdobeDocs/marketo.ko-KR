@@ -2,9 +2,9 @@
 title: archive-unarchive-a-campaign-folder
 description: '캠페인 폴더 보관/보관 해제 '
 translation-type: tm+mt
-source-git-commit: 642fd57105afff1031f18883c5809206f136b7c6
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '213'
+source-wordcount: '209'
 ht-degree: 0%
 
 ---
@@ -14,7 +14,7 @@ ht-degree: 0%
 
 ## 보관 폴더로 변환
 
-폴더를 마우스 오른쪽 단추로 클릭하고 [보관 폴더로 [!UICONTROL **변환]을 선택합니다**].
+폴더를 마우스 오른쪽 단추로 클릭하고 선택합니다 **[!UICONTROL Convert To Archive Folder]**.
 
 ![이미지 원](/help/sky/assets/campaign-folders/archive-unarchive-a-campaign-folder/archive-unarchive-a-campaign-folder-1.png)
 
