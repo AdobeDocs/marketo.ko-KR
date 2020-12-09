@@ -3,9 +3,9 @@ unique-page-id: 2359400
 description: 양식 테마 - 마케팅 문서 - 제품 설명서 선택
 title: 양식 테마 선택
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '129'
+source-wordcount: '127'
 ht-degree: 0%
 
 ---
@@ -51,9 +51,7 @@ ht-degree: 0%
 
 얼마나 쉬웠죠?이제 HTML/CSS 북에서 먼지를 수집할 수 있습니다.
 
->[!NOTE]
->
->**관련 문서**
+>[!MORELIKETHIS]
 >
 >* [양식 테마의 CSS 편집](../../../../product-docs/demand-generation/forms/form-design/edit-the-css-of-a-form-theme.md)
 >* [양식에 필드 추가](add-a-field-to-a-form.md)
