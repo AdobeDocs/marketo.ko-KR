@@ -3,9 +3,9 @@ unique-page-id: 7511725
 description: 내 보고서 및 그룹 보고서 이해 - 마케팅 문서 - 제품 설명서
 title: 내 보고서 및 그룹 보고서 이해
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '73'
+source-wordcount: '71'
 ht-degree: 0%
 
 ---
@@ -25,9 +25,7 @@ Analytics 홈에서 **내 보고서 **및 **그룹 보고서 **를 만들 수 [�
 
 ![](assets/image2015-4-21-14-3a41-3a22.png)
 
->[!NOTE]
->
->**관련 문서**
+>[!MORELIKETHIS]
 >
 >* [보고서 저장](save-a-report.md)
 >* [보고서를 그룹 보고서로 복제](../../../../product-docs/reporting/basic-reporting/report-activity/clone-a-report-to-group-reports.md)
