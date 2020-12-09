@@ -3,9 +3,9 @@ unique-page-id: 2359909
 description: 사용자 역할 및 권한 관리 - 마케팅 문서 - 제품 설명서
 title: 사용자 역할 및 권한 관리
 translation-type: tm+mt
-source-git-commit: 5c9683c6b00ccbf9e9d606fd4513432c9872ad00
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '521'
+source-wordcount: '519'
 ht-degree: 0%
 
 ---
@@ -115,9 +115,7 @@ Marketing에서는 액세스 수준이 서로 다른 몇 가지 기본 제공 �
 
    ![](assets/image2014-9-9-18-3a10-3a50.png)
 
->[!NOTE]
->
->**관련 문서**
+>[!MORELIKETHIS]
 >
 >Marketing 시작하기 [에서 추가 사용자를 만들고 역할을 할당하는 방법에 대해 자세히 알아보십시오](../../../getting-started.md).
 
