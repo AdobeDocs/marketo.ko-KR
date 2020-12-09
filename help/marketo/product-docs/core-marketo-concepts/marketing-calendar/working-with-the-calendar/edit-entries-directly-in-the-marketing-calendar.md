@@ -3,9 +3,9 @@ unique-page-id: 2953352
 description: 마케팅 달력에서 직접 항목 편집 - 마케팅 문서 - 제품 설명서
 title: 마케팅 달력에서 직접 항목 편집
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '193'
+source-wordcount: '191'
 ht-degree: 0%
 
 ---
@@ -66,9 +66,7 @@ ht-degree: 0%
 
 바로 그거야! 보시다시피 마케팅 달력에서 직접 할 수 있는 작업은 많습니다.
 
->[!NOTE]
->
->**관련 문서**
+>[!MORELIKETHIS]
 >
 >* [마케팅 달력에서 직접 항목 삭제](https://community.marketo.com/MarketoArticle?id=kA050000000LPDyCAO)
 
