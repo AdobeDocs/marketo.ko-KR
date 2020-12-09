@@ -3,9 +3,9 @@ unique-page-id: 557339
 description: 중복 사용자 찾기 및 병합 - 마케팅 문서 - 제품 설명서
 title: 중복 사용자 찾기 및 병합
 translation-type: tm+mt
-source-git-commit: 23428a6e0ba9b2108a8f2f7dd6a69929dd069834
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '481'
+source-wordcount: '480'
 ht-degree: 0%
 
 ---
@@ -25,9 +25,7 @@ Marketing to는 새 사용자가 시스템에 들어올 때 자동으로 중복 
 >
 >Salesforce 또는 Microsoft Dynamics 동기화에 대해 또는 수동으로 사람을 입력할 때 Marketing To는 자동으로 중복 제거 기능을 제공하지 않습니다.
 
->[!NOTE]
->
->**사전 요구 사항**
+>[!PREREQUISITES]
 >
 >중복 항목을 찾아 병합하면 [내장된/시스템 스마트 목록이 사용됩니다](../../../../product-docs/core-marketo-concepts/smart-lists-and-static-lists/using-smart-lists/use-built-in-system-smart-lists.md).
 
