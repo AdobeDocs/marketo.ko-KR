@@ -3,9 +3,9 @@ unique-page-id: 2359559
 description: Champion/Challener -From Address - Marketing Docs - 제품 설명서
 title: Champion/Challenger -From 주소
 translation-type: tm+mt
-source-git-commit: 96cc6a30c63c8e8dca793a52e4bf7ecaef8c08dc
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '239'
+source-wordcount: '238'
 ht-degree: 0%
 
 ---
@@ -15,9 +15,7 @@ ht-degree: 0%
 
 간편하게 다른 보낸 사람 주소를 사용해 보고 싶으십니까? 방법
 
->[!NOTE]
->
->**사전 요구 사항**
+>[!PREREQUISITES]
 >
 >* [이메일 챔피언/도전자 추가](add-an-email-champion-challenger.md)
 
