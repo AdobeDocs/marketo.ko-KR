@@ -3,9 +3,9 @@ unique-page-id: 2949716
 description: Outlook용 이메일 추가 기능을 사용하여 이메일 보내기 및 추적 - Marketing To Docs - 제품 설명서
 title: Outlook용 이메일 추가 기능을 사용하여 이메일 보내기 및 추적
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '239'
+source-wordcount: '238'
 ht-degree: 0%
 
 ---
@@ -15,9 +15,7 @@ ht-degree: 0%
 
 Outlook에서 바로 Marketing To를 사용하여 이메일을 보내고 추적할 수 있습니다.
 
->[!NOTE]
->
->**사전 요구 사항**
+>[!PREREQUISITES]
 >
 >아직 설치하지 않은 경우 Outlook용 [Marketing To 이메일 추가 기능을 설치합니다](install-the-marketo-email-add-in-for-outlook-with-a-registration-code.md).
 
