@@ -3,9 +3,9 @@ unique-page-id: 2359971
 description: 웹 페이지 활동 보고서 - 마케팅 문서 - 제품 설명서
 title: 웹 페이지 활동 보고서
 translation-type: tm+mt
-source-git-commit: 1a29614ec938074902af201b2ffc11cfaa625f7a
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '350'
+source-wordcount: '349'
 ht-degree: 0%
 
 ---
@@ -17,9 +17,7 @@ ht-degree: 0%
 
 알려진 사람 또는 익명 사용자를 표시하도록 선택할 수 있지만 동일한 보고서에서 두 종류 모두 표시할 수는 없습니다.
 
->[!NOTE]
->
->**사전 요구 사항**
+>[!PREREQUISITES]
 >
 >* [웹 사이트에 문킨 추적 코드 추가](../../../../product-docs/administration/additional-integrations/add-munchkin-tracking-code-to-your-website.md)
 
