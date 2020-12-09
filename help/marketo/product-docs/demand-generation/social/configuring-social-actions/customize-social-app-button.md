@@ -3,9 +3,9 @@ unique-page-id: 2359759
 description: 소셜 앱 사용자 지정 단추 - 마케팅 문서 - 제품 설명서
 title: 소셜 앱 사용자 지정 단추
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '193'
+source-wordcount: '191'
 ht-degree: 0%
 
 ---
@@ -59,9 +59,7 @@ ht-degree: 0%
 >
 >참조 오퍼에서 진행 **추적 단추를 사용자 지정할 수도** 있습니다. 앱 **설정** > **진행률 스타일** 추적으로 이동하고 위와 동일한 단계를 따릅니다.
 
->[!NOTE]
->
->**관련 문서**
+>[!MORELIKETHIS]
 >
 >소셜 버튼의 경우 [언제 열지를 구성합니다](configure-when-social-button-opens.md). 참조 오퍼에 대해 오퍼 목표를 [지정합니다](../../../../product-docs/demand-generation/social/referral-offers/specify-goal-for-referral-offer.md).
 
