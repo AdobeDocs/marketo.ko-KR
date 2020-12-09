@@ -3,9 +3,9 @@ unique-page-id: 37356194
 description: 정적 목록을 Adobe Experience Cloud으로 내보내기 - Marketing Docs - 제품 문서
 title: 정적 목록을 Adobe Experience Cloud으로 내보내기
 translation-type: tm+mt
-source-git-commit: 5c9683c6b00ccbf9e9d606fd4513432c9872ad00
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '593'
+source-wordcount: '592'
 ht-degree: 0%
 
 ---
@@ -17,9 +17,7 @@ ht-degree: 0%
 >
 >Marketing To 인스턴스의 HIPAA에서 바로 사용할 수 있는 배포에서는 이 기능을 사용할 수 없습니다.
 
->[!NOTE]
->
->**사전 요구 사항**
+>[!PREREQUISITES]
 >
 >[Adobe Experience Cloud 대상 공유 설정](http://docs.marketo.com/x/D4GMAg)
 
