@@ -3,9 +3,9 @@ unique-page-id: 7505310
 description: 스마트 목록 구독 - 마케팅 문서 - 제품 설명서
 title: 스마트 목록 구독
 translation-type: tm+mt
-source-git-commit: 07ae1b3f3ee3e9d7f35373eea039d336bd786f97
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '476'
+source-wordcount: '474'
 ht-degree: 0%
 
 ---
@@ -108,9 +108,7 @@ ht-degree: 0%
 
 ![](assets/twelve.png)
 
->[!NOTE]
->
->**관련 문서**
+>[!MORELIKETHIS]
 >
 >* [스마트 목록 구독 편집](edit-a-smart-list-subscription.md)
 >* [구독 관리 설정 보호](secure-the-subscription-admin-setting.md)
