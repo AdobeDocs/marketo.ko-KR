@@ -3,9 +3,9 @@ unique-page-id: 7514956
 description: 웹 리치 미디어용 예측 컨텐츠 활성화 - Marketing To Docs - 제품 설명서
 title: 웹 리치 미디어용 예측 컨텐츠 사용
 translation-type: tm+mt
-source-git-commit: 3c24395e55c756184615941327e15e050fa7d0ac
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '281'
+source-wordcount: '280'
 ht-degree: 0%
 
 ---
@@ -15,9 +15,7 @@ ht-degree: 0%
 
 예측 컨텐츠는 머신 러닝 및 예측 분석을 기반으로 연관성이 가장 높은 컨텐츠를 제공하여 웹 방문자를 매료시킵니다. Web Rich Media를 사용하면 텍스트 설명 및 이미지로 컨텐츠를 강화하고 웹 사이트에 다양한 예측 컨텐츠 권장 사항을 포함시킬 수 있습니다.
 
->[!NOTE]
->
->**사전 요구 사항**
+>[!PREREQUISITES]
 >
 >예측 컨텐츠를 활성화하려면 먼저 다음을 수행해야 합니다.
 >
