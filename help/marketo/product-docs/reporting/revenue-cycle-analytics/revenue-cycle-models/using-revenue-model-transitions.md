@@ -3,9 +3,9 @@ unique-page-id: 4718672
 description: 매출 모델 전환 사용 - 마케팅 문서 - 제품 설명서
 title: 매출 모델 전환 사용
 translation-type: tm+mt
-source-git-commit: c33b7ab59e612f37d3f64bb954579700dc574068
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '216'
+source-wordcount: '215'
 ht-degree: 0%
 
 ---
@@ -13,9 +13,7 @@ ht-degree: 0%
 
 # 매출 모델 전환 사용 {#using-revenue-model-transitions}
 
->[!NOTE]
->
->**사전 요구 사항**
+>[!PREREQUISITES]
 >
 >[새 매출 모델 만들기](create-a-new-revenue-model.md)
 
