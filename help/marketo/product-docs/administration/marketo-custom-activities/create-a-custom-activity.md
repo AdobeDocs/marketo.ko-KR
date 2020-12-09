@@ -3,9 +3,9 @@ unique-page-id: 10098479
 description: 사용자 지정 활동 만들기 - 마케팅 문서 - 제품 설명서
 title: 사용자 지정 활동 만들기
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '115'
+source-wordcount: '113'
 ht-degree: 0%
 
 ---
@@ -49,9 +49,7 @@ ht-degree: 0%
 
    그게 다야!
 
->[!NOTE]
->
->**관련 문서**
+>[!MORELIKETHIS]
 >
 >* [사용자 지정 활동 이해](understanding-custom-activities.md)
 
