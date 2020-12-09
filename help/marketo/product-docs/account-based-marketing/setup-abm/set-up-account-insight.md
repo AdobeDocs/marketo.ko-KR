@@ -3,9 +3,9 @@ unique-page-id: 12979223
 description: 계정 인사이트 설정 - 마케팅 문서 - 제품 설명서
 title: 계정 인사이트 설정
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '119'
+source-wordcount: '118'
 ht-degree: 0%
 
 ---
@@ -15,9 +15,7 @@ ht-degree: 0%
 
 계정 인사이트를 설정하는 방법은 다음과 같습니다.
 
->[!NOTE]
->
->**사전 요구 사항**
+>[!PREREQUISITES]
 >
 >먼저 ABM 계정 점수를 구성해야 [합니다](http://docs.marketo.com/display/DOCS/Account+Score) .
 
