@@ -3,9 +3,9 @@ unique-page-id: 7512432
 description: 모바일 앱 구성 Android 푸시 액세스 - Marketing Docs - 제품 설명서
 title: 모바일 앱 Android 푸시 액세스 구성
 translation-type: tm+mt
-source-git-commit: d88fb92a00e4c20509617e6ef8b2e51b66cc085b
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '104'
+source-wordcount: '102'
 ht-degree: 0%
 
 ---
@@ -39,9 +39,7 @@ ht-degree: 0%
 
    달콤해 iOS를 사용하여 앱을 구성해야 합니다.
 
->[!NOTE]
->
->**관련 문서**
+>[!MORELIKETHIS]
 >
 >* [모바일 앱 iOS 푸시 액세스 구성](configure-mobile-app-ios-push-access.md)
 
