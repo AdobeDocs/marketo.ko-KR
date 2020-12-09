@@ -3,9 +3,9 @@ unique-page-id: 2360366
 description: 3단계 중 3단계 - Connect Marketing 및 Salesforce(Enterprise/Unlimited) - Marketing Docs - 제품 설명서
 title: 3단계 중 3단계 - Connect Marketing 및 Salesforce(Enterprise/Unlimited)
 translation-type: tm+mt
-source-git-commit: 96cc6a30c63c8e8dca793a52e4bf7ecaef8c08dc
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '446'
+source-wordcount: '445'
 ht-degree: 0%
 
 ---
@@ -15,9 +15,7 @@ ht-degree: 0%
 
 이 문서에서는 구성된 Salesforce 인스턴스와 동기화하도록 Marketing을 구성합니다.
 
->[!NOTE]
->
->**사전 요구 사항**
+>[!PREREQUISITES]
 >
 >* [3단계 중 1단계:Salesforce에 마케팅 필드 추가(Enterprise/Unlimited)](step-1-of-3-add-marketo-fields-to-salesforce-enterprise-unlimited.md)
 >* [3단계 중 2단계:Marketing To용 Salesforce 사용자 만들기(Enterprise/Unlimited)](../../../../../product-docs/crm-sync/salesforce-sync/setup/professional-edition/step-2-of-3-create-a-salesforce-user-for-marketo-professional.md) [](https://community.marketo.com/MarketoTutorial?id=kA250000000Kz5rCAC)
