@@ -3,9 +3,9 @@ unique-page-id: 11373011
 description: 이메일 편집기 2.0으로 전환 - 마케팅 문서 - 제품 설명서
 title: 이메일 편집기 2.0으로 전환
 translation-type: tm+mt
-source-git-commit: f27e2bac90570f9f795dc6bdd5fcf208c446be14
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '633'
+source-wordcount: '631'
 ht-degree: 0%
 
 ---
@@ -60,9 +60,7 @@ ht-degree: 0%
 
 * 몇 가지 **드문** 경우, v1.0 이메일은 이메일 편집기 2.0에서 열 수 없습니다. 이러한 경우 초안을 취소하고 Marketing Support에 문의하십시오.
 
->[!NOTE]
->
->**관련 문서**
+>[!MORELIKETHIS]
 >
 >* [이메일 편집기 2.0 개요](email-editor-v2-0-overview.md)
 >* [이메일 템플릿 구문](email-template-syntax.md)
