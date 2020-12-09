@@ -3,9 +3,9 @@ unique-page-id: 2951884
 description: 매출 탐색기에서 기회 분석 이해 - Marketing Docs - 제품 설명서
 title: 매출 탐색기에서 기회 분석 이해
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '901'
+source-wordcount: '899'
 ht-degree: 0%
 
 ---
@@ -149,9 +149,7 @@ ht-degree: 0%
    | 기회 금액(개설) | 오픈 기회 총 금액 두 개 이상의 리드가 기회와 연관된 경우 할당 금액은 리드 점수를 기반으로 합니다. |
    | 기회 금액(원) | 획득 기회의 총 금액입니다. 두 개 이상의 리드가 기회와 연관된 경우 할당 금액은 리드 점수를 기반으로 합니다. |
 
->[!NOTE]
->
->**관련 문서**
+>[!MORELIKETHIS]
 >
 >* [매출 탐색기 보고서 만들기](create-a-revenue-explorer-report.md)
 >* [매출 탐색기 보고서에 필드 추가](adding-fields-to-a-revenue-explorer-report.md)
