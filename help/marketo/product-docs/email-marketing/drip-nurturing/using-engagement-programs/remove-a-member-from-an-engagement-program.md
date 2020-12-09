@@ -3,9 +3,9 @@ unique-page-id: 2359951
 description: 참여 프로그램 - 마케팅 문서 - 제품 문서에서 멤버 제거
 title: 참여 프로그램에서 구성원 제거
 translation-type: tm+mt
-source-git-commit: 1a29614ec938074902af201b2ffc11cfaa625f7a
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '194'
+source-wordcount: '192'
 ht-degree: 0%
 
 ---
@@ -41,9 +41,7 @@ ht-degree: 0%
 
 때때로 참여 프로그램에서 사람들을 일시 중지하고 제거하지 않으려는 경우가 있습니다. 이 작업은 **변경 참여 프로그램 케이던스로 수행됩니다**.
 
->[!NOTE]
->
->**관련 문서**
+>[!MORELIKETHIS]
 >
 >* [참여 프로그램에서 사람 일시 중지](pause-people-in-an-engagement-program.md)
 
