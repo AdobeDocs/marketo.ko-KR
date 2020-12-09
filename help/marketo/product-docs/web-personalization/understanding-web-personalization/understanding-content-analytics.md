@@ -3,9 +3,9 @@ unique-page-id: 10093159
 description: 컨텐츠 분석 이해 - 마케팅 문서 - 제품 설명서
 title: 컨텐츠 분석 이해
 translation-type: tm+mt
-source-git-commit: 1a29614ec938074902af201b2ffc11cfaa625f7a
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '375'
+source-wordcount: '373'
 ht-degree: 0%
 
 ---
@@ -98,9 +98,7 @@ ht-degree: 0%
 
 컨텐츠 분석 페이지에서 삭제할 컨텐츠의 삭제 아이콘을 클릭합니다. 컨텐트를 삭제할지 확인하는 메시지가 나타납니다.
 
->[!NOTE]
->
->**관련 문서**
+>[!MORELIKETHIS]
 >
 >* [컨텐츠 권장 사항 막대 활성화](../../../product-docs/predictive-content/enabling-predictive-content/enable-the-content-recommendation-bar.md)
 >* [웹 리치 미디어용 예측 컨텐츠 사용](../../../product-docs/predictive-content/enabling-predictive-content/enable-predictive-content-for-web-rich-media.md)
