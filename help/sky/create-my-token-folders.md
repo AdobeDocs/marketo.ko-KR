@@ -2,9 +2,9 @@
 title: my-token-folders 만들기
 description: 내 토큰 폴더 만들기
 translation-type: tm+mt
-source-git-commit: 642fd57105afff1031f18883c5809206f136b7c6
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '108'
+source-wordcount: '102'
 ht-degree: 0%
 
 ---
@@ -20,7 +20,7 @@ ht-degree: 0%
 
    ![이미지 원](/help/sky/assets/my-tokens/create-my-token-folders/create-my-token-folders-1.png)
 
-1. 새 폴더의 이름을 입력한 다음 대상 드롭다운에서 [!UICONTROL **로컬 토큰**] 또는 [!UICONTROL **대체 토큰을**] 선택합니다. 저장을 [!UICONTROL **클릭합니다**].
+1. 새 폴더의 이름을 입력한 다음 대상 드롭다운에서 **[!UICONTROL Local Tokens]** 또는 **[!UICONTROL Overridden Tokens]** 를 선택합니다. 을 **[!UICONTROL Save]**&#x200B;클릭합니다.
 
    ![이미지 2](/help/sky/assets/my-tokens/create-my-token-folders/create-my-token-folders-2.png)
 
@@ -38,4 +38,4 @@ ht-degree: 0%
 
 >[!TIP]
 >
->폴더 이름을 변경하려면 폴더를 마우스 오른쪽 단추로 클릭하고 이름 [!UICONTROL **변경을 클릭합니다**].
+>폴더 이름을 변경하려면 폴더를 마우스 오른쪽 단추로 클릭하고 을 클릭합니다 **[!UICONTROL Rename]**.
