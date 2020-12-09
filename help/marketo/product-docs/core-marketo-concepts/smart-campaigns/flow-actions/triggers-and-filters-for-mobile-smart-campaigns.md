@@ -3,9 +3,9 @@ unique-page-id: 9437991
 description: 모바일 스마트 캠페인에 대한 트리거 및 필터 - Marketing Docs - 제품 설명서
 title: 모바일 스마트 캠페인에 대한 트리거 및 필터
 translation-type: tm+mt
-source-git-commit: 1c4c4c62215550a09125f76fb76017348aba2bdf
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '820'
+source-wordcount: '818'
 ht-degree: 0%
 
 ---
@@ -190,9 +190,7 @@ Marketing To에서 필터가 표시되는 방식은 다음과 같습니다.   ![
 
 ![](assets/image2015-8-21-14-3a3-3a50.png)
 
->[!NOTE]
->
->**관련 문서**
+>[!MORELIKETHIS]
 >
 >* [스마트 목록 필터에 제한 추가](../../../../product-docs/core-marketo-concepts/smart-lists-and-static-lists/using-smart-lists/add-a-constraint-to-a-smart-list-filter.md)
 >* [스마트 목록에서 비활동 필터 사용](../../../../product-docs/core-marketo-concepts/smart-lists-and-static-lists/using-smart-lists/use-inactivity-filters-in-a-smart-list.md)
