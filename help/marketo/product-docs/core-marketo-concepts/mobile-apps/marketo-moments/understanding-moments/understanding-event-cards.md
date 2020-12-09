@@ -3,9 +3,9 @@ unique-page-id: 8781974
 description: 이벤트 카드 이해 - 마케팅 문서 - 제품 설명서
 title: 이벤트 카드 이해
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '96'
+source-wordcount: '94'
 ht-degree: 0%
 
 ---
@@ -26,9 +26,7 @@ ht-degree: 0%
 
 넌 괜찮아!
 
->[!NOTE]
->
->**관련 문서**
+>[!MORELIKETHIS]
 >
 >* [마케팅 모멘트 이해](understanding-marketo-moments.md)
 >* [이메일 프로그램 카드 이해](understanding-email-program-cards.md)
