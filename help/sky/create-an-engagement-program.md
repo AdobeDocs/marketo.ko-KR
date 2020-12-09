@@ -2,9 +2,9 @@
 title: 참여 프로그램 제작
 description: 참여 프로그램 만들기
 translation-type: tm+mt
-source-git-commit: 642fd57105afff1031f18883c5809206f136b7c6
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '80'
+source-wordcount: '73'
 ht-degree: 0%
 
 ---
@@ -20,7 +20,7 @@ ht-degree: 0%
 
    ![이미지 원](/help/sky/assets/engagement-programs/create-an-engagement-program/create-an-engagement-program-1.png)
 
-1. 폴더 [!UICONTROL **작업**] 드롭다운을 클릭하고 [!UICONTROL **새 프로그램**]&#x200B;을 선택합니다.
+1. 드롭다운을 **[!UICONTROL Folder Actions]** 클릭하고 선택합니다 **[!UICONTROL New Program]**.
 
    ![이미지 2](/help/sky/assets/engagement-programs/create-an-engagement-program/create-an-engagement-program-2.png)
 
@@ -28,10 +28,10 @@ ht-degree: 0%
    >
    >폴더를 마우스 오른쪽 단추로 클릭하고 새 프로그램을 선택할 수도 있습니다.
 
-1. 이름 [!UICONTROL **을**]&#x200B;입력하고 [!UICONTROL Type] 드롭다운에서 [!UICONTROL **참여를 선택합니다**].
+1. a **[!UICONTROL Name]**&#x200B;를 입력하고 [!UICONTROL Type] 드롭다운에서 선택합니다 **[!UICONTROL Engagement]**.
 
    ![이미지 3](/help/sky/assets/engagement-programs/create-an-engagement-program/create-an-engagement-program-3.png)
 
-1. 및 [!UICONTROL Workspace] 을 선택합니다 [!UICONTROL Destination]. 선택 사항 [!UICONTROL Description] 및 [!UICONTROL Labels]을 추가합니다. 완료되면 [!UICONTROL **추가를**] 클릭합니다.
+1. 및 [!UICONTROL Workspace] 을 선택합니다 [!UICONTROL Destination]. 선택 사항 [!UICONTROL Description] 및 [!UICONTROL Labels]을 추가합니다. 완료되면 을 **[!UICONTROL Add]** 클릭합니다.
 
    ![이미지 4](/help/sky/assets/engagement-programs/create-an-engagement-program/create-an-engagement-program-4.png)
