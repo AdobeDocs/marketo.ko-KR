@@ -3,9 +3,9 @@ unique-page-id: 3571838
 description: Microsoft Dynamics 동기화 -필드 동기화 - Marketing To Docs - 제품 설명서
 title: Microsoft Dynamics 동기화 - 필드 동기화
 translation-type: tm+mt
-source-git-commit: 96cc6a30c63c8e8dca793a52e4bf7ecaef8c08dc
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '364'
+source-wordcount: '362'
 ht-degree: 0%
 
 ---
@@ -47,9 +47,7 @@ Marketing to Dynamics 동기화가 매우 강력합니다. 자세한 내용
 
 언제든지 필드를 추가할 수 있으며 데이터가 Dynamics에서 Marketing으로 새로 고쳐질 것으로 예상합니다. 자세한 [내용은 Microsoft Dynamics와 빠른 동기화 사용을](microsoft-dynamics-sync-field-sync/use-quick-sync-with-microsoft-dynamics-for-a-new-custom-field.md) 참조하십시오.
 
->[!NOTE]
->
->**관련 문서**
+>[!MORELIKETHIS]
 >
 >* [Microsoft Dynamics와 빠른 동기화를 사용하여 새 사용자 지정 필드 사용](microsoft-dynamics-sync-field-sync/use-quick-sync-with-microsoft-dynamics-for-a-new-custom-field.md)
 
