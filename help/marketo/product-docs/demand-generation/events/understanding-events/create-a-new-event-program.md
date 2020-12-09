@@ -3,9 +3,9 @@ unique-page-id: 2949844
 description: 새 이벤트 프로그램 만들기 - 마케팅 문서 - 제품 설명서
 title: 새 이벤트 프로그램 만들기
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '192'
+source-wordcount: '190'
 ht-degree: 0%
 
 ---
@@ -49,9 +49,7 @@ ht-degree: 0%
 
 짜잔! 이제 새 이벤트가 트리에 표시됩니다. 이벤트가 생성되면 [랜딩 페이지](../../../../product-docs/demand-generation/landing-pages/free-form-landing-pages/create-a-free-form-landing-page.md), [양식](../../../../product-docs/demand-generation/forms/creating-a-form/create-a-form.md)및 [이메일을](../../../../product-docs/email-marketing/email-programs/creating-an-email-program/create-an-email-program.md) 만들어 손님을 초대합니다. 또한 [프로그램 일정 보기에 대해서도 잘 알고 있어야 합니다](http://docs.marketo.com/display/docs/program+schedule+view).
 
->[!NOTE]
->
->**관련 문서**
+>[!MORELIKETHIS]
 >
 >* [마케팅 달력](http://docs.marketo.com/display/docs/marketing+calendar)
 >* [프로그램에서 기간 비용 사용](../../../../product-docs/core-marketo-concepts/programs/working-with-programs/using-period-costs-in-a-program.md)
