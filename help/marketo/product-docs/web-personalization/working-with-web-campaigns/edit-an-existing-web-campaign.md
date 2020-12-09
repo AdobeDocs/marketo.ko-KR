@@ -3,9 +3,9 @@ unique-page-id: 4719408
 description: 기존 웹 캠페인 편집 - 마케팅 문서 - 제품 설명서
 title: 기존 웹 캠페인 편집
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '62'
+source-wordcount: '60'
 ht-degree: 0%
 
 ---
@@ -25,9 +25,7 @@ ht-degree: 0%
    >
    >원하는 웹 캠페인을 쉽게 찾으려면 [필터 기능을 사용하십시오](filter-web-campaigns.md).
 
->[!NOTE]
->
->**관련 문서**
+>[!MORELIKETHIS]
 >
 >* [웹 캠페인 삭제](delete-a-web-campaign.md)
 >* [캠페인 시작/](launch-pause-a-web-campaign.md) 일시 [중지](launch-pause-a-web-campaign.md)
