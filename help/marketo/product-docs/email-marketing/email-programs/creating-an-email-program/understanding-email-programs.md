@@ -3,9 +3,9 @@ unique-page-id: 2953572
 description: 이메일 프로그램 이해 - 마케팅 문서 - 제품 설명서
 title: 이메일 프로그램 이해
 translation-type: tm+mt
-source-git-commit: 313266a67243f0c70c25010cb4825efb7f3db0ab
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '255'
+source-wordcount: '253'
 ht-degree: 0%
 
 ---
@@ -68,9 +68,7 @@ A/B 테스트를 통해 최적의 이메일을 제시할 수 있습니다.
 
 이메일 프로그램을 이해하셨다면 아래 관련 기사 중 하나를 사용해 보십시오.
 
->[!NOTE]
->
->**관련 문서**
+>[!MORELIKETHIS]
 >
 >* [이메일 프로그램 만들기](create-an-email-program.md)
    >
