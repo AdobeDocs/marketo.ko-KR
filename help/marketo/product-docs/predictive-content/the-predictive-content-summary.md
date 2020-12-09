@@ -3,9 +3,9 @@ unique-page-id: 11384634
 description: 예측 컨텐츠 요약 - 마케팅 문서 - 제품 설명서
 title: 예측 컨텐츠 요약
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '257'
+source-wordcount: '255'
 ht-degree: 0%
 
 ---
@@ -53,9 +53,7 @@ ht-degree: 0%
 >
 >카테고리 링크를 클릭하는 경우(위 이미지의 예:leadgen, 이메일 등) 클릭한 카테고리가 필터에 추가된 모든 컨텐츠 페이지가 열리고 해당 카테고리의 컨텐츠 분석이 표시됩니다.
 
->[!NOTE]
->
->**관련 문서**
+>[!MORELIKETHIS]
 >
 >* [모든 컨텐츠 작업](http://docs.marketo.com/display/docs/working+with+all+content)
 >* [예측 컨텐츠 사용](http://docs.marketo.com/display/docs/working+with+predictive+content)
