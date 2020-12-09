@@ -3,9 +3,9 @@ unique-page-id: 9437903
 description: 사용자 지정 Dynamics 동기화 필터 만들기 - Marketing To Docs - 제품 설명서
 title: 사용자 지정 Dynamics 동기화 필터 만들기
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '790'
+source-wordcount: '789'
 ht-degree: 0%
 
 ---
@@ -39,9 +39,7 @@ Marketing To는 자동 백그라운드 동기화 중에 이 필드를 찾고 이
 >
 >Marketing에게 레코드를 건너뛸 수 있도록 하는 유일한 방법은 필드 값을 명시적으로 [아니요]로 설정하는 **것입니다**. 필드 값이 비어 있어도 Marketing은 여전히 레코드를 동기화합니다.
 
->[!NOTE]
->
->**사전 요구 사항**
+>[!PREREQUISITES]
 >
 >최신 버전의 Marketing To 플러그인(3.0.0.1 이상)을 설치합니다. Marketing > 관리 > Microsoft Dynamics > Marketing Solution 다운로드로 이동합니다.
 
