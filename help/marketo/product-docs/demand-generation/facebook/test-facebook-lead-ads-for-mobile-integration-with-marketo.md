@@ -3,9 +3,9 @@ unique-page-id: 10098759
 description: Marketing To와 모바일 통합을 위한 Facebook 리드 광고 테스트 - Marketing Docs - 제품 설명서
 title: Marketing To와 모바일 통합을 위한 Facebook 리드 광고 테스트
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '234'
+source-wordcount: '233'
 ht-degree: 0%
 
 ---
@@ -15,9 +15,7 @@ ht-degree: 0%
 
 리드 광고를 만든 후 테스트해야 합니다!
 
->[!NOTE]
->
->**사전 요구 사항**
+>[!PREREQUISITES]
 >
 >Facebook [리드 광고 통합을 설정해야 합니다](set-up-facebook-lead-ads.md).
 
