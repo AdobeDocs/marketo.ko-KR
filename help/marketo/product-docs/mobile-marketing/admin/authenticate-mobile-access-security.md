@@ -3,9 +3,9 @@ unique-page-id: 10096158
 description: 모바일 액세스 보안 인증 - 마케팅 문서 - 제품 설명서
 title: 모바일 액세스 보안 인증
 translation-type: tm+mt
-source-git-commit: d88fb92a00e4c20509617e6ef8b2e51b66cc085b
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '146'
+source-wordcount: '145'
 ht-degree: 0%
 
 ---
@@ -17,9 +17,7 @@ ht-degree: 0%
 
 ID를 활성화하려면 코드를 입수하고 IT 부서에 제공하여 보안 일치를 설정해야 합니다.
 
->[!NOTE]
->
->**사전 요구 사항**
+>[!PREREQUISITES]
 >
 >이 기능을 활성화하려면 지원 센터에 연락하여 &quot;Vespa 보안 모드&quot;를 요청하십시오.
 
