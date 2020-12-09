@@ -3,9 +3,9 @@ unique-page-id: 1147257
 description: 마케팅 달력 탐색 - 마케팅 문서 - 제품 설명서
 title: 마케팅 달력 탐색
 translation-type: tm+mt
-source-git-commit: 5c9683c6b00ccbf9e9d606fd4513432c9872ad00
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '168'
+source-wordcount: '167'
 ht-degree: 0%
 
 ---
@@ -15,9 +15,7 @@ ht-degree: 0%
 
 마케팅 달력을 탐색하는 것은 1, 2, 3과 같이 쉽습니다!
 
->[!NOTE]
->
->**사전 요구 사항**
+>[!PREREQUISITES]
 >
 >마케팅 달력 라이선스가 있는지 [확인하십시오](issue-revoke-a-marketing-calendar-license.md) . 그렇지 않으면 마케팅 달력 타일이 내 마켓에 표시되지 않습니다.
 
