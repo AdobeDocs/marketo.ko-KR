@@ -2,9 +2,9 @@
 title: apply-communication-limits-to-a-smart-campaign
 description: 스마트 캠페인에 통신 제한 적용
 translation-type: tm+mt
-source-git-commit: 642fd57105afff1031f18883c5809206f136b7c6
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '125'
+source-wordcount: '121'
 ht-degree: 0%
 
 ---
@@ -22,11 +22,11 @@ ht-degree: 0%
 >
 >어떤 사람이 설정된 통신 제한을 초과하면 Marketing to는 비운용 이메일을 차단합니다(운영 이메일은 항상 전송).
 
-1. 스마트 캠페인을 선택하고 예약 [!UICONTROL **탭을**] 클릭합니다.
+1. 스마트 캠페인을 선택하고 **[!UICONTROL Schedule]** 탭을 클릭합니다.
 
    ![이미지 원](/help/sky/assets/smart-campaigns/apply-communication-limits-to-a-smart-campaign/apply-communication-limits-to-a-smart-campaign-1.png)
 
-1. 비작동 이메일 [!UICONTROL Qualification Rules] 차단 [!UICONTROL ****] 확인란을 열고 선택합니다.
+1. 확인란을 열고 [!UICONTROL Qualification Rules] **[!UICONTROL Block non-operational emails]** 선택합니다.
 
    ![이미지 2](/help/sky/assets/smart-campaigns/apply-communication-limits-to-a-smart-campaign/apply-communication-limits-to-a-smart-campaign-2.png)
 
