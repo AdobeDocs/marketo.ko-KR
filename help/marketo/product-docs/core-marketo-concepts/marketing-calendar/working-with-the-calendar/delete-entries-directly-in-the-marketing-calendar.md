@@ -3,9 +3,9 @@ unique-page-id: 2953358
 description: 마케팅 달력에서 직접 항목 삭제 - 마케팅 문서 - 제품 설명서
 title: 마케팅 달력에서 직접 항목 삭제
 translation-type: tm+mt
-source-git-commit: 00887ea53e395bea3a11fd28e0ac98b085ef6ed8
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '88'
+source-wordcount: '86'
 ht-degree: 0%
 
 ---
@@ -29,9 +29,7 @@ ht-degree: 0%
 
 항목에 따라 삭제를 확인해야 할 수도 있습니다. 하지만 그게 다야! 간편한 작업
 
->[!NOTE]
->
->**관련 문서**
+>[!MORELIKETHIS]
 >
 >* [마케팅 달력에서 직접 항목 확인](confirm-entries-directly-in-the-marketing-calendar.md)
 
