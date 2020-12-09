@@ -2,9 +2,9 @@
 title: using-the-program-overview-tab
 description: 프로그램 개요 탭 사용
 translation-type: tm+mt
-source-git-commit: 642fd57105afff1031f18883c5809206f136b7c6
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '165'
+source-wordcount: '154'
 ht-degree: 0%
 
 ---
@@ -14,7 +14,7 @@ ht-degree: 0%
 
 <br> 
 
-탭 아래에는 세 개의 섹션이 [!UICONTROL Program Overview] 있습니다. [!UICONTROL **세부 사항**], [!UICONTROL **일정**]&#x200B;및 [!UICONTROL **보고서**]. 여기 각각의 것들을 빨리 살펴보세요.
+탭 아래에는 세 개의 섹션이 [!UICONTROL Program Overview] 있습니다. **[!UICONTROL Details]**, **[!UICONTROL Schedule]** and **[!UICONTROL Reports]**. 여기 각각의 것들을 빨리 살펴보세요.
 
 ## 세부 정보
 
@@ -22,7 +22,7 @@ ht-degree: 0%
 
 ![이미지 원](/help/sky/assets/programs/using-the-program-overview-tab/using-the-program-overview-tab-1.png)
 
-페이지 아래쪽에는 두 개의 섹션이 있습니다. [!UICONTROL **프로그램 통계**] 및 [!UICONTROL **사용**]. [!UICONTROL **프로그램 통계**] 는 프로그램 성능에 대한 주요 지표를 보여주며 [!UICONTROL **사용자는**] Marketing To에서 프로그램이 사용되는 위치를 쉽게 확인할 수 있는 방법입니다.
+페이지 아래쪽에는 두 개의 섹션이 있습니다. **[!UICONTROL Program Stats]** 및 **[!UICONTROL Used By]**. **[!UICONTROL Program Stats]** 프로그램 성능에 대한 주요 지표를 보여주며, Marketing **[!UICONTROL Used By]** 에서 프로그램이 사용되는 위치를 쉽게 확인할 수 있습니다.
 
 ![이미지 2](/help/sky/assets/programs/using-the-program-overview-tab/using-the-program-overview-tab-2.png)
 
