@@ -3,9 +3,9 @@ unique-page-id: 4719289
 description: 캠페인 동기화 활성화/비활성화 - 마케팅 문서 - 제품 설명서
 title: 캠페인 동기화 활성화/비활성화
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '92'
+source-wordcount: '90'
 ht-degree: 0%
 
 ---
@@ -35,9 +35,7 @@ ht-degree: 0%
 
 여기 있습니다. Salesforce에서 데이터를 동기화할 수 있는 시간을 절약할 수 있습니다.
 
->[!NOTE]
->
->**관련 문서**
+>[!MORELIKETHIS]
 >
 >* [SFDC 동기화:캠페인 동기화](../../../../../product-docs/crm-sync/salesforce-sync/sfdc-sync-details/sfdc-sync-campaign-sync.md)
 >* [기본 리드 성 및 회사 값 설정](set-default-person-last-name-and-company-name.md)
