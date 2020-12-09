@@ -3,9 +3,9 @@ unique-page-id: 12615781
 description: 지정된 계정 만들기 - 마케팅 문서 - 제품 설명서
 title: 지정된 계정 만들기
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '62'
+source-wordcount: '60'
 ht-degree: 0%
 
 ---
@@ -27,9 +27,7 @@ ht-degree: 0%
    >
    >지정된 계정을 클릭하여 대시보드를 확인합니다.
 
->[!NOTE]
->
->**관련 문서**
+>[!MORELIKETHIS]
 >
 >* [지정된 계정에 사람 추가](add-people-to-a-named-account.md)
 
