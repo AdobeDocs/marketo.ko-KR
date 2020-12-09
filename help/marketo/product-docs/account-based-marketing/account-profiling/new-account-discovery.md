@@ -3,9 +3,9 @@ unique-page-id: 37355609
 description: 새 계정 검색 - Marketing Docs - 제품 설명서
 title: 새 계정 검색
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '283'
+source-wordcount: '282'
 ht-degree: 0%
 
 ---
@@ -15,9 +15,7 @@ ht-degree: 0%
 
 새 계정 검색은 이상적인 고객 프로필의 AI 기반 권장 사항을 사용하여 타게팅할 새 계정을 찾는 데 도움이 됩니다.
 
->[!NOTE]
->
->**사전 요구 사항**
+>[!PREREQUISITES]
 >
 >[계정 프로파일링 설정](http://docs.marketo.com/x/FgAKAQ)
 
