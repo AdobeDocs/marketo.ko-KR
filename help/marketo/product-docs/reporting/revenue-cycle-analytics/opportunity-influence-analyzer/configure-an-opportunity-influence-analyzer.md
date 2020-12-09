@@ -3,9 +3,9 @@ unique-page-id: 2360240
 description: 기회 영향 분석기 구성 - 마케팅 문서 - 제품 설명서
 title: 기회 영향 분석기 구성
 translation-type: tm+mt
-source-git-commit: efadb7eb3845012c273e1a60f9cd98ac884eb543
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '177'
+source-wordcount: '176'
 ht-degree: 0%
 
 ---
@@ -15,9 +15,7 @@ ht-degree: 0%
 
 기회 영향 분석기를 [만들면](create-an-opportunity-influence-analyzer.md)포함된 [관심](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/features/tabs-in-the-msi-panel/interesting-moments/interesting-moments-overview.md) 순간의 유형을 구성할 수 있습니다.
 
->[!NOTE]
->
->**사전 요구 사항**
+>[!PREREQUISITES]
 >
 >* [기회 영향 분석기 만들기](create-an-opportunity-influence-analyzer.md)
 
