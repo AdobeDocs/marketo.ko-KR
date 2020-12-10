@@ -3,7 +3,7 @@ unique-page-id: 2949471
 description: 설정 체크리스트 - 마케팅 문서 - 제품 설명서
 title: 설정 검사 목록
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: aff16097f274ade1aa3877c9bba6080a87d22bc0
 workflow-type: tm+mt
 source-wordcount: '204'
 ht-degree: 0%
@@ -13,7 +13,7 @@ ht-degree: 0%
 
 # 설정 검사 목록 {#setup-checklist}
 
-Marketing에 오신 것을 환영합니다! 다음 검사 목록을 시각적인 할 일 목록으로 사용하여 작업을 시작할 수 있습니다. 자세한 내용은 [설정 단계에서 확인할 수 있습니다](../../getting-started/setup-steps.md).
+Marketing에 오신 것을 환영합니다! 다음 검사 목록을 시각적인 할 일 목록으로 사용하여 작업을 시작할 수 있습니다. 자세한 내용은 [설정 단계에서 확인할 수 있습니다](/help/marketo/getting-started/setup-steps.md).
 
 ## Marketing에 로그인 및 추가 사용자 만들기 {#log-in-to-marketo-and-create-additional-users}
 
@@ -34,7 +34,7 @@ Marketing에 오신 것을 환영합니다! 다음 검사 목록을 시각적인
 1. 이메일 CNAME에 대한 DNS 레코드 설정 요청
 1. IT에 마케팅 허용 목록에 추가하다 정보 요청
 1. 관리 영역에서 DKIM 및 SPF 설정
-1. FromDomain1 [용 MX 설정]
+1. MX 설정 `[FromDomain1]`
 1. 이메일 CNAME을 사용하여 IT가 완료되면 Marketing To에서 이메일 CNAME을 설정합니다
 
 ## 랜딩 페이지 및 이메일 템플릿의 URL 제출 {#submit-a-url-for-landing-page-and-email-templates}
@@ -51,5 +51,4 @@ Marketing에 오신 것을 환영합니다! 다음 검사 목록을 시각적인
 
 >[!MORELIKETHIS]
 >
->[설정 단계](../../getting-started/setup-steps.md)
-
+>[설정 단계](/help/marketo/getting-started/setup-steps.md)
