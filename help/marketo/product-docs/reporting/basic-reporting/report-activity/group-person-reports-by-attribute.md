@@ -3,9 +3,9 @@ unique-page-id: 2360199
 description: 속성별 사람 보고서 그룹화 - 마케팅 문서 - 제품 설명서
 title: 속성별 사람 보고서 그룹화
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: d7d6aee63144c472e02fe0221c4a164183d04dd4
 workflow-type: tm+mt
-source-wordcount: '209'
+source-wordcount: '158'
 ht-degree: 0%
 
 ---
@@ -15,13 +15,7 @@ ht-degree: 0%
 
 개인 보고서 [를 개인 또는 회사](http://docs.marketo.com/display/docs/basic+reporting) 속성으로 그룹화할 수 있습니다.
 
->[!NOTE]
->
->**FYI**
->
->Marketing은 이제 모든 구독 간의 언어를 표준화하므로 구독에 리드/리드 및 docs.markto.com에 있는 사람/사람을 볼 수 있습니다. 이 용어는 같은 것을 의미한다.아티클 지침에는 영향을 주지 않습니다. 다른 변화도 있습니다 [자세한](http://docs.marketo.com/display/DOCS/Updates+to+Marketo+Terminology)내용
-
-1. 마케팅 활동 **(또는** 분석 **) 영역으로**&#x200B;이동합니다.
+1. 마케팅 활동( **또는** **Analytics**) 영역으로 이동합니다.
 
    ![](assets/image2017-3-28-10-3a22-3a53.png)
 
@@ -43,7 +37,7 @@ ht-degree: 0%
 
    >[!TIP]
    >
-   >만든 사람 또는 *연간 매출과* 같이 숫자 값이 있는 속성을 *선택하는 경우*&#x200B;오른쪽의 판매량 **드롭다운에서** 지표를선택합니다.
+   >만든 위치 또는 *연간 매출* 과 같이 숫자 값이 있는 속성을 선택하는 *경우***오른쪽의 판매량** 드롭다운에서 지표를선택합니다.
 
    바로 그거야! 보고서 탭을 클릭하여 그에 따라 그룹화된 보고서를 봅니다.
 
@@ -51,10 +45,10 @@ ht-degree: 0%
 
    >[!NOTE]
    >
-   >**딥 다이브**
+   >**자세히 알아보기**
    >
    >
-   >기본 보고서 심층 분석의 사람 보고서 및 기타 보고서 유형에 대해 [자세히](http://docs.marketo.com/display/docs/basic+reporting)알아보십시오.
+   >기본 보고의 개인 보고서 및 기타 보고서 유형에 대해 자세히 [](http://docs.marketo.com/display/docs/basic+reporting)알아보십시오.
 
    >[!NOTE]
    >
