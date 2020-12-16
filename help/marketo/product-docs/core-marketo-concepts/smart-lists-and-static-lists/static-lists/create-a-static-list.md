@@ -3,9 +3,9 @@ unique-page-id: 11387513
 description: 정적 목록 만들기 - 마케팅 문서 - 제품 설명서
 title: 정적 목록 만들기
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: d7d6aee63144c472e02fe0221c4a164183d04dd4
 workflow-type: tm+mt
-source-wordcount: '160'
+source-wordcount: '109'
 ht-degree: 0%
 
 ---
@@ -13,13 +13,7 @@ ht-degree: 0%
 
 # 정적 목록 만들기 {#create-a-static-list}
 
-정적 목록은 데이터베이스에 이미 있는 사용자 그룹입니다. 이를 위한 다양한 툴
-
->[!NOTE]
->
->**FYI**
->
->Marketing은 이제 모든 구독 간의 언어를 표준화하므로 구독에 리드/리드 및 docs.markto.com에 있는 사람/사람을 볼 수 있습니다. 이 용어는 같은 것을 의미한다.아티클 지침에는 영향을 주지 않습니다. 다른 변화도 있습니다 [자세한](http://docs.marketo.com/display/DOCS/Updates+to+Marketo+Terminology)내용
+정적 목록은 데이터베이스에 이미 있는 사용자 그룹입니다. 만드는 방법
 
 1. 데이터베이스로 **이동합니다**.
 
@@ -33,9 +27,9 @@ ht-degree: 0%
 
    ![](assets/three.png)
 
-   이제 빈 목록을 채울 준비가 되었습니다. 여기에 사람을 추가하는 방법을 [살펴보십시오](http://docs.marketo.com/display/DOCS/Understanding+Static+Lists#UnderstandingStaticLists-WaystoAdd/RemoveLeadsfromaList).
+   이제 빈 목록을 채울 준비가 되었습니다. 여기에 사람을 추가하는 방법을 [알아봅니다](http://docs.marketo.com/display/DOCS/Understanding+Static+Lists#UnderstandingStaticLists-WaystoAdd/RemoveLeadsfromaList).
 
    >[!NOTE]
    >
-   >목록에 원하는 횟수만큼 사람을 추가할 수 있지만 한 번만 표시됩니다. 사용자가 삭제할 때까지 목록에 남아 있습니다.
+   >원하는 만큼 목록에 사람을 추가할 수 있지만 한 번만 표시됩니다. 사용자가 삭제할 때까지 목록에 남아 있습니다.
 
