@@ -3,9 +3,9 @@ unique-page-id: 557318
 description: 목록 또는 스마트 목록 새로 고침 - 마케팅 문서 - 제품 설명서
 title: 목록 또는 스마트 목록 새로 고침
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: d7d6aee63144c472e02fe0221c4a164183d04dd4
 workflow-type: tm+mt
-source-wordcount: '184'
+source-wordcount: '133'
 ht-degree: 0%
 
 ---
@@ -13,13 +13,7 @@ ht-degree: 0%
 
 # 목록 또는 스마트 목록 새로 고침 {#refresh-a-list-or-smart-list}
 
->[!NOTE]
->
->**FYI**
->
->Marketing은 이제 모든 구독 간의 언어를 표준화하므로 구독에 리드/리드 및 docs.markto.com에 있는 사람/사람을 볼 수 있습니다. 이 용어는 같은 것을 의미한다.아티클 지침에는 영향을 주지 않습니다. 다른 변화도 있습니다 [자세한](http://docs.marketo.com/display/DOCS/Updates+to+Marketo+Terminology)내용
-
-스마트한 목록을 실행했는데 몇 분이 지나갔다면 결과가 달라질 수 있습니다. 새로 고침을 통해 확인할 수 있습니다.
+스마트 목록을 실행하고 몇 분이 경과했다면 이제 결과가 달라질 수 있습니다. 새로 고침을 통해 확인합니다.
 
 ## 결과 새로 고침 {#refresh-results}
 
@@ -33,11 +27,11 @@ ht-degree: 0%
 
 >[!TIP]
 >
->경우에 따라 스마트 목록을 실행하고 나중에 다시 보면 오른쪽 하단에 있는 사람 카운트 앞에 &quot;정보&quot;라는 단어를 볼 수 있습니다. 숫자가 대략적임을 나타냅니다. 카운트 자체를 클릭하여 새로 고치고 정확한 업데이트된 카운트를 가져옵니다.
+>때때로 스마트 목록을 실행하고 나중에 다시 돌아오면 오른쪽 하단에 있는 사람 수 앞에 &quot;정보&quot;라는 단어를 볼 수 있습니다. 이 숫자는 근사임을 나타냅니다. 카운트 자체를 클릭하여 새로 고치고 업데이트된 정확한 카운트를 얻습니다.
 
 >[!MORELIKETHIS]
 >
->* [목록 또는 스마트 목록에서 사용자를 Excel로 내보내기](../../../../product-docs/core-marketo-concepts/smart-lists-and-static-lists/managing-people-in-smart-lists/export-people-to-excel-from-a-list-or-smart-list.md)
+>* [목록 또는 스마트 목록에서 Excel로 인물 내보내기](../../../../product-docs/core-marketo-concepts/smart-lists-and-static-lists/managing-people-in-smart-lists/export-people-to-excel-from-a-list-or-smart-list.md)
 
 >
 
