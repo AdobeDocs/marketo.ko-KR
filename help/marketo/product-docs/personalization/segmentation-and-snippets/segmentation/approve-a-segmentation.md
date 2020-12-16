@@ -3,9 +3,9 @@ unique-page-id: 2359457
 description: 세그멘테이션 승인 - 마케팅 문서 - 제품 설명서
 title: 세그멘테이션 승인
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: d7d6aee63144c472e02fe0221c4a164183d04dd4
 workflow-type: tm+mt
-source-wordcount: '290'
+source-wordcount: '239'
 ht-degree: 0%
 
 ---
@@ -13,13 +13,7 @@ ht-degree: 0%
 
 # 세그멘테이션 승인 {#approve-a-segmentation}
 
-세그먼테이션을 사용하려면 먼저 승인해야 합니다.
-
->[!NOTE]
->
->**FYI**
->
->Marketing은 이제 모든 구독 간의 언어를 표준화하므로 구독에 리드/리드 및 docs.markto.com에 있는 사람/사람을 볼 수 있습니다. 이 용어는 같은 것을 의미한다.아티클 지침에는 영향을 주지 않습니다. 다른 변화도 있습니다 [자세한](http://docs.marketo.com/display/DOCS/Updates+to+Marketo+Terminology)내용
+세그멘테이션을 사용하려면 먼저 승인을 받아야 합니다.
 
 >[!PREREQUISITES]
 >
@@ -51,17 +45,17 @@ ht-degree: 0%
 
    >[!TIP]
    >
-   >각 세그먼트의 사람 수는 세그먼트 이름 옆에 괄호 안에 표시됩니다.
+   >각 세그먼트에 있는 사람의 수는 세그먼트 이름 옆에 괄호로 표시됩니다.
 
-1. 이제 **세그먼트** 의 **사람** 탭에세그먼트에 대한 최종 사용자 목록이 표시됩니다.
+1. 이제 **세그먼트** 의 사람 **탭에** 세그먼트에대한 최종 사람 목록이 표시됩니다.
 
    ![](assets/image2017-3-28-14-3a47-3a10.png)
 
 >[!CAUTION]
 >
->세그멘테이션에서 만들 수 있는 총 세그먼트 수는 사용된 필터 수와 유형 및 세그먼트의 논리가 얼마나 복잡한지를 기반으로 결정됩니다. 표준 필드를 사용하여 최대 100개의 세그먼트를 만들 수 있지만 다른 유형의 필터를 사용하면 복잡성이 가중되고 세그멘테이션을 승인하지 못할 수 있습니다. 몇 가지 예는 다음과 같습니다.사용자 정의 필드, 목록의 구성원, 리드 소유자 필드 및 매출 단계
+>세그멘테이션에서 만들 수 있는 총 세그먼트 수는 사용된 필터의 수와 유형 및 세그먼트의 논리가 얼마나 복잡한지에 따라 달라집니다. 표준 필드를 사용하여 최대 100개의 세그먼트를 만들 수 있지만, 다른 유형의 필터를 사용하면 복잡성이 가중되고 세그멘테이션이 승인되지 않을 수 있습니다. 예를 들면 다음과 같습니다.사용자 지정 필드, 목록 구성원, 리드 소유자 필드 및 매출 단계
 >
->승인 중에 오류 메시지가 표시되고 세그멘테이션의 복잡성을 줄이는 데 도움이 필요한 경우 Marketing [To 지원에 문의하십시오](http://docs.marketo.com/cdn-cgi/l/email-protection#93e0e6e3e3fce1e7d3fef2e1f8f6e7fcbdf0fcfe).
+>승인 중에 오류 메시지가 발생하고 세그멘테이션의 복잡성을 줄이는 데 도움이 필요한 경우 Marketing [To 지원](http://docs.marketo.com/cdn-cgi/l/email-protection#93e0e6e3e3fce1e7d3fef2e1f8f6e7fcbdf0fcfe)팀에 문의하십시오.
 
 >[!NOTE]
 >
