@@ -1,31 +1,25 @@
 ---
 unique-page-id: 2360305
-description: 개인 세부 사항 페이지에 대한 사용자 지정 탭 만들기 - Marketing Docs - 제품 설명서
-title: 개인 세부 사항 페이지에 대한 사용자 정의 탭 생성
+description: 개인 세부 사항 페이지에 대한 사용자 지정 탭 만들기 - 마케팅 문서 - 제품 설명서
+title: 개인 세부 사항 페이지에 대한 사용자 정의 탭 만들기
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: d7d6aee63144c472e02fe0221c4a164183d04dd4
 workflow-type: tm+mt
-source-wordcount: '199'
+source-wordcount: '148'
 ht-degree: 0%
 
 ---
 
 
-# 개인 세부 사항 페이지에 대한 사용자 정의 탭 생성 {#creating-a-custom-tab-for-the-person-detail-page}
+# 개인 세부 사항 페이지에 대한 사용자 정의 탭 만들기 {#creating-a-custom-tab-for-the-person-detail-page}
 
->[!NOTE]
->
->**FYI**
->
->Marketing은 이제 모든 구독 간의 언어를 표준화하므로 구독에 리드/리드 및 docs.markto.com에 있는 사람/사람을 볼 수 있습니다. 이 용어는 같은 것을 의미한다.아티클 지침에는 영향을 주지 않습니다. 다른 변화도 있습니다 [자세한](http://docs.marketo.com/display/DOCS/Updates+to+Marketo+Terminology)내용
-
-사람 세부 정보에 있는 특정 필드 세트를 계속 찾고 있는 경우 사용자 정의 레이아웃을 만들어 보다 손쉽게 만드는 것이 좋습니다.
+사람 세부 정보에 있는 특정 필드 세트를 계속 찾고 있는 경우 사용자 정의 레이아웃을 만들어 보다 쉽게 만드는 것이 좋습니다.
 
 1. 관리자로 **이동하고** 필드 **관리를 클릭합니다**.
 
    ![](assets/image2014-9-16-16-3a41-3a41.png)
 
-1. 사용자 지정 레이아웃 **디자이너** 탭을 클릭합니다.
+1. 사용자 **정의 레이아웃 디자이너** 탭을 클릭합니다.
 
    ![](assets/image2014-9-16-16-3a41-3a55.png)
 
@@ -33,7 +27,7 @@ ht-degree: 0%
 
    ![](assets/three-1.png)
 
-1. 원하는 방식으로 레이아웃을 사용할 때까지 필드를 계속 추가합니다.
+1. 원하는 방식으로 레이아웃을 작성할 때까지 필드를 계속 추가합니다.
 
    ![](assets/image2014-9-16-16-3a42-3a25.png)
 
