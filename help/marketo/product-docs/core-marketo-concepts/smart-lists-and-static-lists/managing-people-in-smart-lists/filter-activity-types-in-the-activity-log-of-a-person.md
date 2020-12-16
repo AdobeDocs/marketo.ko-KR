@@ -3,9 +3,9 @@ unique-page-id: 2952402
 description: 사람의 활동 로그에서 활동 유형 필터링 - 마케팅 문서 - 제품 설명서
 title: 개인의 활동 로그에서 활동 유형 필터링
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: d7d6aee63144c472e02fe0221c4a164183d04dd4
 workflow-type: tm+mt
-source-wordcount: '181'
+source-wordcount: '130'
 ht-degree: 0%
 
 ---
@@ -17,17 +17,11 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->**FYI**
->
->Marketing은 이제 모든 구독 간의 언어를 표준화하므로 구독에 리드/리드 및 docs.markto.com에 있는 사람/사람을 볼 수 있습니다. 이 용어는 같은 것을 의미한다.아티클 지침에는 영향을 주지 않습니다. 다른 변화도 있습니다 [자세한](http://docs.marketo.com/display/DOCS/Updates+to+Marketo+Terminology)내용
-
->[!NOTE]
->
->**딥 다이브**
+>**자세히 알아보기**
 >
 >활동 로그 [에 대해 자세히 알아보십시오](locate-the-activity-log-for-a-person.md).
 
-1. 개인 **세부 사항** 페이지로 이동합니다. 활동 **로그** 탭을 클릭합니다.
+1. 개인 **세부 사항** 페이지로 이동합니다. 활동 **로그 탭을** 클릭합니다.
 
    ![](assets/one.png)
 
@@ -45,7 +39,7 @@ ht-degree: 0%
 
    ![](assets/image2015-4-27-22-3a55-3a43.png)
 
-1. 사용자 **지정 필터 이름을 입력합니다**. 저장을 **클릭합니다**.
+1. 사용자 **정의 필터 이름을 입력합니다**. 저장을 **클릭합니다**.
 
    ![](assets/five-1.png)
 
@@ -61,7 +55,7 @@ ht-degree: 0%
 
    ![](assets/seven-1.png)
 
-1. 저장된 필터 **를 클릭합니다**. 저장된 필터는 아래에 나열되어 있습니다.
+1. 저장된 **필터를 클릭합니다**. 저장된 필터는 아래에 나열되어 있습니다.
 
    ![](assets/eight.png)
 
