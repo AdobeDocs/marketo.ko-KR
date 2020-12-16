@@ -1,11 +1,11 @@
 ---
 unique-page-id: 1147122
-description: 구성원 관리 및 보기 - Marketing Docs - 제품 설명서
+description: 구성원 관리 및 보기 - 마케팅 문서 - 제품 설명서
 title: 구성원 관리 및 보기
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: d7d6aee63144c472e02fe0221c4a164183d04dd4
 workflow-type: tm+mt
-source-wordcount: '304'
+source-wordcount: '253'
 ht-degree: 0%
 
 ---
@@ -17,19 +17,13 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->**FYI**
+>**자세히 알아보기**
 >
->Marketing은 이제 모든 구독 간의 언어를 표준화하므로 구독에 리드/리드 및 docs.markto.com에 있는 사람/사람을 볼 수 있습니다. 이 용어는 같은 것을 의미한다.아티클 지침에는 영향을 주지 않습니다. 다른 변화도 있습니다 [자세한](http://docs.marketo.com/display/DOCS/Updates+to+Marketo+Terminology)내용
+> 프로그램 [멤버십에 대한 자세한 내용을 살펴보십시오](../../../../product-docs/core-marketo-concepts/programs/creating-programs/understanding-program-membership.md).
 
->[!NOTE]
->
->**딥 다이브**
->
-> 프로그램 [멤버십에 대해 자세히 알아보십시오](../../../../product-docs/core-marketo-concepts/programs/creating-programs/understanding-program-membership.md).
+## 구성원 검색 {#search-for-a-member}
 
-## 멤버 검색 {#search-for-a-member}
-
-멤버 섹션 하단에서 검색 필드를 사용하여 이름, 이메일, 직책 또는 회사별로 프로그램 멤버를 검색합니다.
+구성원 섹션 하단에서 검색 필드를 사용하여 이름, 이메일, 직책 또는 회사별로 프로그램 구성원을 검색합니다.
 
 1. 프로그램의 **멤버** 탭을 클릭합니다.
 
@@ -39,29 +33,29 @@ ht-degree: 0%
 
    ![](assets/image2014-10-1-16-3a7-3a20.png)
 
-## 멤버 그리드 내보내기 {#export-the-members-grid}
+## 멤버 격자 내보내기 {#export-the-members-grid}
 
-검색 필드 옆에 있는 Excel 아이콘을 클릭하여 멤버 목록을 내보낼 수 있습니다.
+검색 필드 옆에 있는 Excel 아이콘을 클릭하여 구성원 목록을 내보낼 수 있습니다.
 
 ![](assets/image2014-10-1-16-3a9-3a55.png)
 
 ## 멤버 그리드의 열 관리 {#manage-columns-in-the-members-grid}
 
-* 열을 드래그 앤 드롭하여 순서를 변경합니다. 파란색 화살표 쌍은 열이 이동할 위치를 나타냅니다.
+* 열을 드래그하여 놓아 순서를 변경할 수 있습니다. 파란색 화살표 쌍은 열이 이동할 위치를 나타냅니다.
 
    ![](assets/image2014-10-1-16-3a25-3a30.png)
 
-* 열 헤더를 마우스 오른쪽 단추로 클릭하여 알파벳순으로 오름차순이나 내림차순으로 정렬합니다.
+* 열 헤더를 마우스 오른쪽 단추로 클릭하여 알파벳순으로 오름차순 또는 내림차순으로 정렬합니다.
 
    ![](assets/image2014-10-1-17-3a3-3a28.png)
 
 ## 격자에 표시할 열 선택 {#choose-which-columns-are-visible-in-the-grid}
 
-1. **뷰 **드롭다운 을 클릭하고 뷰 **생성을 선택합니다**.
+1. **View **드롭다운을 클릭하고 보기 **만들기를 선택합니다**.
 
    ![](assets/image2014-10-1-16-3a32-3a43.png)
 
-1. 사용자 지정 보기의 이름을 지정합니다. 열 제목을 선택합니다. *** 추가 **및** 제거 **를 클릭하여 열을 이동하고 뷰를 만듭니다.
+1. 사용자 정의 보기의 이름을 지정합니다. 열 제목을 선택합니다. 추가 **및** 제거**를 클릭하여 열을 이동하고 보기를 만듭니다.
 
    ![](assets/image2014-10-1-16-3a36-3a52.png)
 
@@ -69,15 +63,15 @@ ht-degree: 0%
 
    ![](assets/image2014-10-1-16-3a38-3a7.png)
 
-## 멤버 그리드 필터링  {#filter-the-members-grid}
+## 멤버 격자 필터링  {#filter-the-members-grid}
 
 1. 필터 **드롭다운을** 클릭하고 정렬할 승급 단계를 선택합니다.
 
    ![](assets/image2014-10-1-16-3a42-3a4.png)
 
-## 멤버 그리드의 개인 상태 관리 {#manage-person-status-in-the-members-grid}
+## 멤버 그리드에서 개인 상태 관리 {#manage-person-status-in-the-members-grid}
 
-멤버 격자 내의 사용자 상태를 변경할 수 있습니다.
+멤버 격자 내의 사람 상태를 변경할 수 있습니다.
 
 1. Ctrl/ **Cmd를** 누른 채 사람을 선택합니다.
 
@@ -87,7 +81,7 @@ ht-degree: 0%
 
    ![](assets/image2014-10-1-16-3a47-3a45.png)
 
-   시간이 좀 걸릴 수 있습니다. 완료되면 아래 메시지를 확인할 수 있습니다.
+   잠시 시간이 걸릴 수 있습니다. 완료되면 아래 메시지를 볼 수 있습니다.
 
    ![](assets/changestatusconfirm.png)
 
