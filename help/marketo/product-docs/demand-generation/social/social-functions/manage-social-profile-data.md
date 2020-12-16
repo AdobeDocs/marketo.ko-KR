@@ -3,9 +3,9 @@ unique-page-id: 2950578
 description: 소셜 프로필 데이터 관리 - 마케팅 문서 - 제품 설명서
 title: 소셜 프로필 데이터 관리
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: d7d6aee63144c472e02fe0221c4a164183d04dd4
 workflow-type: tm+mt
-source-wordcount: '396'
+source-wordcount: '345'
 ht-degree: 0%
 
 ---
@@ -13,15 +13,9 @@ ht-degree: 0%
 
 # 소셜 프로필 데이터 관리 {#manage-social-profile-data}
 
-누군가 Marketing to [소셜 앱과](../../../../product-docs/demand-generation/social/configuring-social-actions/customize-social-app-button.md)상호 작용하거나 소셜 네트워크에 [소셜 양식 채우기](../../../../product-docs/demand-generation/forms/form-actions/enable-social-form-fill-on-a-form.md)기능을 부여하면 Marketing to는 소셜 프로필에서 사용할 수 있는 모든 데이터를 캡처합니다. [ [개인 세부 사항] 페이지에서](http://docs.marketo.com/display/DOCS/Using+the+Person+Detail+Page)이 정보를 보거나 스마트 목록의 [사용자 정의 보기에서 열로 추가할 수 있습니다](http://docs.marketo.com/display/DOCS/Create+and+Change+Views+for+Lists+and+Smart+List).
+누군가 Marketing To [소셜](../../../../product-docs/demand-generation/social/configuring-social-actions/customize-social-app-button.md)앱과 상호 작용하거나 소셜 네트워크를 통해 [소셜 양식 채우기](../../../../product-docs/demand-generation/forms/form-actions/enable-social-form-fill-on-a-form.md)를 위해 Marketing 양식을 미리 작성할 수 있도록 승인하면 Marketing은 소셜 프로필에서 사용할 수 있는 모든 데이터를 캡처합니다. [개인 [세부 사항] 페이지에서](http://docs.marketo.com/display/DOCS/Using+the+Person+Detail+Page)이 정보를 보거나 스마트 목록의 [사용자 정의 보기에서 열로 추가할 수 있습니다](http://docs.marketo.com/display/DOCS/Create+and+Change+Views+for+Lists+and+Smart+List).
 
->[!NOTE]
->
->**FYI**
->
->Marketing은 이제 모든 구독 간의 언어를 표준화하므로 구독에 리드/리드 및 docs.markto.com에 있는 사람/사람을 볼 수 있습니다. 이 용어는 같은 것을 의미한다.아티클 지침에는 영향을 주지 않습니다. 다른 변화도 있습니다 [자세한](http://docs.marketo.com/display/DOCS/Updates+to+Marketo+Terminology)내용
-
-소셜 양식 채우기 및 소셜 앱은 약간 다른 필드 집합을 캡처합니다.아래 각 섹션을 참조하십시오.
+소셜 양식 채우기 및 소셜 앱은 약간 다른 필드 세트를 캡처합니다.아래 각 섹션을 참조하십시오.
 
 >[!NOTE]
 >
@@ -35,7 +29,7 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->소셜 네트워크의 추가 정보는 허가 후 약 5분 후에 개인 세부 사항 페이지에 나타납니다.
+>소셜 네트워크의 추가 정보는 개인이 승인하고 약 5분 후에 개인 세부 사항 페이지에 표시됩니다.
 
 ## Twitter에서: {#from-twitter}
 
@@ -58,7 +52,7 @@ ht-degree: 0%
 * 성별
 * 소셜 도달(친구 수)
 
-### 소셜 양식 채우기를 통해 캡처 {#captured-via-social-form-fill}
+### 소셜 양식 채우기를 통해 캡처됨 {#captured-via-social-form-fill}
 
 네트워크 및 사용자의 개인 정보 설정에 따라 다음 필드 중 하나 이상이 검색됩니다.
 
@@ -83,7 +77,7 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->소셜 양식 채우기는 사용자가 양식에 입력하는 *경우에만* 이메일 주소를 캡처합니다. 이메일 주소가 필요한 경우 양식에서 필수 [필드로 만들어야 합니다](../../../../product-docs/demand-generation/forms/creating-a-form/make-a-form-field-required.md).
+>소셜 양식 채우기는 사용자가 양식에 입력하는 *경우에만* 이메일 주소를 캡처합니다. 이메일 주소가 필요한 경우 양식에 [필수 필드로 지정해야 합니다](../../../../product-docs/demand-generation/forms/creating-a-form/make-a-form-field-required.md).
 
 >[!MORELIKETHIS]
 >
@@ -91,7 +85,7 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->**딥 다이브**
+>**자세히 알아보기**
 >
->자세한 내용은 [Forms](http://docs.marketo.com/display/docs/forms) 심층 분석 자료를 참조하십시오.
+>자세한 내용은 [Forms](http://docs.marketo.com/display/docs/forms) 심층 분석
 
