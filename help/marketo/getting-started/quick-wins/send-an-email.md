@@ -3,9 +3,9 @@ unique-page-id: 2359410
 description: 이메일 보내기 - 마케팅 문서 - 제품 설명서
 title: 이메일 보내기
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: d7d6aee63144c472e02fe0221c4a164183d04dd4
 workflow-type: tm+mt
-source-wordcount: '466'
+source-wordcount: '399'
 ht-degree: 0%
 
 ---
@@ -13,21 +13,11 @@ ht-degree: 0%
 
 # 이메일 보내기 {#send-an-email}
 
-모두가 가장 먼저 하고 싶어하는 일이잖아 Marketing To에서 이메일을 보내자!
-
->[!NOTE]
->
->**FYI**
->
->Marketing은 이제 모든 구독 간의 언어를 표준화하므로 구독에 리드/리드 및 docs.markto.com에 있는 사람/사람을 볼 수 있습니다. 이 용어는 같은 것을 의미한다.아티클 지침에는 영향을 주지 않습니다. 다른 변화도 있습니다 [자세한](http://docs.marketo.com/display/DOCS/Updates+to+Marketo+Terminology)내용
+누구나 원하는 첫 번째 단계입니다. Marketing To에서 이메일을 보냅니다.
 
 >[!PREREQUISITES]
 >
->* [설정 및 사람 추가](get-set-up-and-add-a-person.md)
-
->
-
-
+>[설정 및 사람 추가](/help/marketo/getting-started/quick-wins/get-set-up-and-add-a-person.md)
 
 ## 이메일 프로그램 만들기 {#create-an-email-program}
 
@@ -39,23 +29,21 @@ ht-degree: 0%
 
    ![](assets/two-1.png)
 
-1. **이름 **을 입력하고 프로그램 유형 **에 대해 이메일** 을 **선택합니다.**
+1. 이름을 **입력하고** [프로그램 유형 **에** 대한 **이메일]을선택합니다.**
 
    >[!TIP]
    >
-   >프로그램 이름의 끝에 이니셜을 추가하여 고유하게 만듭니다.
+   >프로그램 이름의 끝에 이니셜을 추가하여 고유하게 만드십시오.
 
    ![](assets/three.png)
 
-1. **채널 아래에서 **이메일 전송**&#x200B;을&#x200B;**선택하고**&#x200B;만들기를 클릭합니다&#x200B;**.** **
+1. 채널 **에서****이메일 전송을** 선택하고 만들기를 **클릭합니다**.
 
-   ** ![](assets/image2015-3-2-16-3a25-3a18.png)
-
-   **
+   ![](assets/image2015-3-2-16-3a25-3a18.png)
 
 ## 고객 정의 {#define-your-audience}
 
-1. 대상 타일 **아래에서 스마트 목록** 편집을 클릭합니다.
+1. 대상 **타일 아래에서 스마트** 목록 편집을 클릭합니다.
 
    ![](assets/five.png)
 
@@ -73,20 +61,17 @@ ht-degree: 0%
 
    >[!NOTE]
    >
-   >**미리 알림**
-   >
-   >
-   >이메일이 자동으로 채워지지 않으면 설정 [및 리드 추가를 잊어버렸을 수 있습니다.](get-set-up-and-add-a-person.md)
+   >이메일이 자동으로 채워지지 않으면 설정 및 리드 [추가를 잊어버렸을 수 있습니다.](/help/marketo/getting-started/quick-wins/get-set-up-and-add-a-person.md)
 
    >[!NOTE]
    >
-   >이 예에서는 본인 자신에게만 이메일을 보내지만 대상에 맞게 사용자 정의할 수 있습니다.
+   >이 예에서는 자신에게만 이메일을 보내지만 대상에 맞게 사용자를 변경할 수 있습니다.
 
-1. 기본 프로그램 탭으로 돌아가서 **사람에 대한 새로 고침 아이콘을 클릭합니다**.
+1. 기본 프로그램 탭으로 돌아가 Person의 새로 고침 아이콘을 **클릭합니다**.
 
    ![](assets/refresh-icon.png)
 
-   1명으로 계산되는 것을 보셔야 합니다 당신이에요!
+   사람 카운트가 1까지 올라가는 것을 보셔야 합니다. 너구나!
 
 ## 이메일 만들기 {#create-an-email}
 
@@ -94,7 +79,7 @@ ht-degree: 0%
 
    ![](assets/image2014-9-8-15-3a10-3a47.png)
 
-1. 이름 **을**&#x200B;입력하고 **템플릿을**&#x200B;선택한 다음* [만들기]**를 클릭합니다.
+1. 이름을 **입력하고**&#x200B;템플릿 **을**&#x200B;선택한 **다음 만들기를**&#x200B;클릭합니다.
 
    ![](assets/ten-1.png)
 
@@ -104,13 +89,13 @@ ht-degree: 0%
 
    >[!NOTE]
    >
-   >팝업 차단기가 있는 경우 [초안 **편집** ]을 클릭하여 이메일 편집기를 입력합니다.
+   >팝업 차단이 있는 경우 [초안 **편집** ]을 클릭하여 이메일 편집기를 입력합니다.
 
-1. 편집할 영역을 선택하고 오른쪽에 있는 톱니바퀴 아이콘을 클릭한 다음 **편집 **을 선택합니다. 편집할 편집 가능한 섹션을 두 번 클릭할 수도 있습니다.
+1. 편집할 영역을 선택하고 오른쪽에 있는 톱니바퀴 아이콘을 클릭한 다음 **편집을** 선택합니다(편집 가능한 섹션을 두 번 클릭하여 편집할 수도 있음).
 
    ![](assets/twelve.png)
 
-1. 원하는 컨텐츠를 입력하고 **저장을 클릭합니다**.
+1. 원하는 컨텐츠를 입력하고 저장을 **클릭합니다**.
 
    ![](assets/thirteen.png)
 
@@ -118,36 +103,38 @@ ht-degree: 0%
 
    ![](assets/fourteen.png)
 
-1. 이메일 작업 **드롭다운을** 클릭하고 승인을 **선택합니다**.
+1. 이메일 **작업** 드롭다운을 클릭하고 승인을 **선택합니다**.
 
    ![](assets/fifteen.png)
 
    >[!TIP]
    >
-   >이메일을 실행하기 전에 이메일이 어떻게 보이는지 간단한 샘플을 보내시겠습니까? 위 메뉴에서 **샘플** 보내기를 선택하거나 **이메일 작업** , 샘플 [**보내기**](../../product-docs/email-marketing/general/creating-an-email/send-a-sample-email.md)&#x200B;순으로클릭합니다.
+   >이메일을 실행하기 전에 간단한 샘플을 보내 이메일이 어떻게 표시되는지 확인하고자 하십니까? 위 메뉴 **에서 [샘플** 보내기]를 선택하거나 [ **이메일 동작]을** 클릭한 다음 [ [**샘플 보내기]**](/help/marketo/product-docs/email-marketing/general/creating-an-email/send-a-sample-email.md)&#x200B;를클릭합니다.
 
 1. 왼쪽 트리에서 이메일 프로그램을 선택합니다.
 
    ![](assets/sixteen.png)
 
-1. 예약 타일에서 이메일의 실행 날짜를 **오늘로 설정합니다.**
+1. 예약 타일에서 이메일의 시작 날짜를 오늘로 **설정합니다.**
 
    ![](assets/image2014-9-8-15-3a13-3a11.png)
 
-1. 향후 15분 이상의 시간을 선택하십시오.
+1. 향후 15분 이상의 시간을 선택합니다.
 
    ![](assets/image2014-9-8-15-3a13-3a25.png)
 
    >[!TIP]
    >
-   >기본 표준 시간대가 귀하의 것이 아닙니까? 여기에서 [업데이트하는 방법을 살펴보십시오](https://docs.marketo.com/display/DOCS/Select+Your+Language,+Locale+and+Time+Zone#SelectYourLanguage,LocaleandTimeZone-ChangeUserLanguage,Locale&amp;Timezone).
+   >기본 표준 시간대가 아닌 경우 여기에서 [업데이트하는 방법을 알아봅니다](/help/marketo/product-docs/administration/settings/select-your-language-locale-and-time-zone.md).
 
-1. 승인 **타일 아래의 프로그램** 승인을 클릭하면 완료됩니다!
+1. 승인 **타일** 아래의 프로그램 승인을 클릭하면 완료됩니다!
 
    ![](assets/image2014-9-8-15-3a13-3a34.png)
 
-예약된 날짜/시간 직후에 이메일을 수신해야 합니다.
+예약된 일/시간 바로 후에 이메일을 받게 됩니다.
 
 <br> 
 
-[◄을 사용하여 리드](get-set-up-and-add-a-person.md) 랜딩 [페이지를 설정하고 추가합니다.](landing-page-with-a-form.md)
+[◄ 설정 및 리드 추가](/help/marketo/getting-started/quick-wins/get-set-up-and-add-a-person.md)
+
+[양식이 있는 랜딩 페이지 ►](/help/marketo/getting-started/quick-wins/landing-page-with-a-form.md)
