@@ -1,29 +1,23 @@
 ---
 unique-page-id: 2951259
-description: 사용자 지정 필드 유형 용어집 - Marketing Docs - 제품 설명서
-title: 사용자 지정 필드 유형 용어집
+description: 사용자 지정 필드 유형 용어 - Marketing Docs - 제품 설명서
+title: 사용자 지정 필드 유형 용어
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: d7d6aee63144c472e02fe0221c4a164183d04dd4
 workflow-type: tm+mt
-source-wordcount: '657'
+source-wordcount: '606'
 ht-degree: 0%
 
 ---
 
 
-# 사용자 지정 필드 유형 용어집 {#custom-field-type-glossary}
-
->[!NOTE]
->
->**FYI**
->
->Marketing은 이제 모든 구독 간의 언어를 표준화하므로 구독에 리드/리드 및 docs.markto.com에 있는 사람/사람을 볼 수 있습니다. 이 용어는 같은 것을 의미한다.아티클 지침에는 영향을 주지 않습니다. 다른 변화도 있습니다 [자세한](http://docs.marketo.com/display/DOCS/Updates+to+Marketo+Terminology)내용
+# 사용자 지정 필드 유형 용어 {#custom-field-type-glossary}
 
 Marketing에서 사용자 정의 필드를 만들면 선택할 유형 목록이 있습니다.
 
 >[!PREREQUISITES]
 >
->* [Marketing To에서 사용자 지정 필드 만들기](create-a-custom-field-in-marketo.md)
+>* [Marketing To에서 사용자 정의 필드 만들기](create-a-custom-field-in-marketo.md)
 
 >
 
@@ -35,13 +29,13 @@ Marketing에서 사용자 정의 필드를 만들면 선택할 유형 목록이 
 
 >[!NOTE]
 >
->대부분의 필드는 문자 수에서 최대 제한이 없지만 대신 바이트 크기로 제한이 없습니다. 따라서 각 필드에 대해 정확한 문자 제한을 제공할 수 없습니다. 단, **문자열**&#x200B;은 255자로 계산됩니다.
+>대부분의 필드는 문자 수에서의 최대값을 초과하지 않고 바이트 수에서만 최대값을 유지합니다. 따라서 각 필드에 대해 정확한 문자 제한을 제공할 수 없습니다. 단, 255자로 **구성된** String은 예외입니다.
 
 ## 부울 {#boolean}
 
-**예제 이름:** 고객입니까? - 고객을 고객으로 태깅합니다.
+**예제 이름:** 고객입니까 - 고객을 고객으로 태깅합니다.
 
-**값 예:** 참(선택)/False(선택 안 함)
+**값 예:** 참(선택됨) / False(선택 취소)
 
 **연산자**:없음
 
@@ -51,7 +45,7 @@ Marketing에서 사용자 정의 필드를 만들면 선택할 유형 목록이 
 
 **값 예:** 100년
 
-**연산자**:is, is not, between, greater than, leak than, at most, is empty 아님
+**연산자**:은(는) not, between, greged, less than, at most, is not empty입니다.
 
 ## 날짜 {#date}
 
@@ -59,35 +53,35 @@ Marketing에서 사용자 정의 필드를 만들면 선택할 유형 목록이 
 
 **값 예:** 8/19/14
 
-**연산자**:is not, between, between, 과거, 과거, 미래, 이후, 시간 프레임, 뒤, 앞, 뒤, 또는 그 전, 은 비어 있지 않음
+**연산자**:is, between, between, 과거, 미래의 다음, 시간 프레임, after, before, after, on 또는 after, on 또는 그 이전, 이 중 또는 그 이전, 은 비어 있지 않음
 
-## 날짜/시간 {#datetime}
+## Datetime {#datetime}
 
-**예제 이름:** 생성 일자 - 개인이 생성된 날짜와 시간을 저장합니다
+**예제 이름:** 생성 일자 - 개인을 생성하는 날짜와 시간을 저장합니다.
 
 **값 예:** 8/19/14 2:00
 
-**연산자**:is not, between, between, 과거, 과거, 미래, 이후, 시간 프레임, 뒤, 앞, 뒤, 또는 그 전, 은 비어 있지 않음
+**연산자**:is, between, between, 과거, 미래의 다음, 시간 프레임, after, before, after, on 또는 after, on 또는 그 이전, 이 중 또는 그 이전, 은 비어 있지 않음
 
 ## 이메일 {#email}
 
-**예제 이름:** 대체 이메일 - 사람들의 대체 이메일 주소를 유지합니다. (기본 이메일 주소 필드처럼 이 필드에 이메일을 실제로 보낼 수는 없습니다. 즉, 특별한 이메일 주소임)
+**예제 이름:** 대체 이메일 - 사람들의 대체 이메일 주소를 유지합니다. (기본 이메일 주소 필드처럼 이 필드에 이메일을 실제로 보낼 수 없으며, 이 필드는 특별합니다.)
 
 **값 예:** [`[email protected]`](http://docs.marketo.com/cdn-cgi/l/email-protection#335d525e5673505c5e43525d4a1d505c5e)
 
-**연산자**:is, is not, starts with, not starts with, not started with, contains, not contains, is empty가 아님
+**연산자**:is not, starts with, not started with, not started with, contains, not contains, is empty가 아님
 
 ## 부동 {#float}
 
-**예제 이름:** 등급 포인트 평균 - 개인의 등급 포인트 평균 또는 소수가 있는 기타 숫자 값을 유지합니다.
+**예제 이름:** 등급 포인트 평균 - 개인의 등급 포인트 평균 또는 소수가 있는 기타 모든 숫자 값을 유지합니다.
 
 **값 예:** 2.47
 
-**연산자**:between, larger than, 적어도 than, at most, is empty는 비어 있지 않습니다.
+**연산자**:better, 보다 큼, 적어도 보다 작음, 적어도 대부분은 비어 있음, 비어 있지 않음
 
 ## 공식 {#formula}
 
-**예제 이름:** 영업 - [솔루션에 이 특수 필드를 사용하여 성별에 따라 적절한 인사말](create-and-use-a-concatenated-string-formula-field.md) 획득
+**예제 이름:** 영업 - 솔루션에 이 특수 필드를 사용하여 성별 [에 따라 적절한 인사말을 받습니다](create-and-use-a-concatenated-string-formula-field.md) .
 
 **값 예:** 연결된 솔루션 확인
 
@@ -97,7 +91,7 @@ Marketing에서 사용자 정의 필드를 만들면 선택할 유형 목록이 
 
 **값 예:** 600년
 
-**연산자**:is, is not, between, greater than, leak than, at most, is empty 아님
+**연산자**:은(는) not, between, greged, less than, at most, is not empty입니다.
 
 ## 백분율 {#percent}
 
@@ -105,7 +99,7 @@ Marketing에서 사용자 정의 필드를 만들면 선택할 유형 목록이 
 
 **값 예:** 85%
 
-**연산자**:is, is not, between, greater than, leak than, at most, is empty 아님
+**연산자**:은(는) not, between, greged, less than, at most, is not empty입니다.
 
 ## 전화 {#phone}
 
@@ -113,31 +107,31 @@ Marketing에서 사용자 정의 필드를 만들면 선택할 유형 목록이 
 
 **값 예:** 650-555-5555
 
-**연산자**:is, is not, starts with, not starts with, not started with, contains, not contains, is empty가 아님
+**연산자**:is not, starts with, not started with, not started with, contains, not contains, is empty가 아님
 
 ## 점수 {#score}
 
-**예제 이름:** 행동 점수/인구 통계 점수 - 다양한 속성을 추적할 수 있는 여러 점수 필드를 만듭니다.
+**예제 이름:** 행동 점수/인구 통계 점수 - 여러 다른 속성을 추적할 수 있도록 여러 점수 필드를 만듭니다.
 
 **값 예:** 14
 
-**연산자**:is, is not, between, greater than, leak than, at most, is empty 아님
+**연산자**:은(는) not, between, greged, less than, at most, is not empty입니다.
 
 ## 문자열 {#string}
 
-**예제 이름:** 가운데 이름 - 추가 텍스트 속성 저장
+**예제 이름:** 중간 이름 - 추가 텍스트 속성 저장
 
 **값 예:** 로즈
 
-**연산자**:is, is not, starts with, not starts with, not started with, contains, not contains, is empty가 아님
+**연산자**:is not, starts with, not started with, not started with, contains, not contains, is empty가 아님
 
 ## 텍스트 영역 {#text-area}
 
-**예제 이름:** 댓글 - 양식에 주석 필드를 추가하여 여러 줄의 텍스트 입력 가능
+**예제 이름:** 주석 - 양식에 주석 필드를 추가하여 여러 줄로 된 텍스트 입력 허용
 
-**값 예:** 이 기사는 정말 환상적이에요!
+**값 예:** 이 기사는 정말 환상적이다!
 
-**연산자**:is, is not, starts with, not starts with, not started with, contains, not contains, is empty가 아님
+**연산자**:is not, starts with, not started with, not started with, contains, not contains, is empty가 아님
 
 ## URL {#url}
 
@@ -145,4 +139,4 @@ Marketing에서 사용자 정의 필드를 만들면 선택할 유형 목록이 
 
 **값 예:** www.myblog.com
 
-**연산자**:is, is not, starts with, not starts with, not started with, contains, not contains, is empty가 아님
+**연산자**:is not, starts with, not started with, not started with, contains, not contains, is empty가 아님
