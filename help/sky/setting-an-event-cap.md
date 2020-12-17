@@ -1,6 +1,6 @@
 ---
 title: setting-an-event-cap
-description: 이벤트 최대 설정 방법
+description: 이벤트 상한선을 설정하는 방법
 translation-type: tm+mt
 source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
@@ -21,7 +21,7 @@ ht-degree: 0%
 >모든 고객이 이 기능을 구입하지는 않았습니다. 자세한 내용은 고객 성공 관리자에게 문의하십시오.
 
 >[!IMPORTANT]
->이벤트 제한을 설정하려면 먼저 프로그램에 두 개 이상의 승인된 랜딩 페이지(등록 페이지 및 등록 전체 페이지)가 있어야 합니다.
+>이벤트 제한을 설정하려면 먼저 두 개 이상의 승인된 랜딩 페이지(등록 페이지 및 등록 전체 페이지)가 프로그램에 있어야 합니다.
 
 <br> 
 
@@ -29,22 +29,22 @@ ht-degree: 0%
 
    ![이미지 원](/help/sky/assets/event-programs/setting-an-event-cap/setting-an-event-cap-1.png)
 
-1. 개요(Overview)에서 를 [!UICONTROL Event Cap] 찾아 클릭합니다 **[!UICONTROL Not Set]**.
+1. 개요에서 [!UICONTROL Event Cap]을 찾고 **[!UICONTROL Not Set]**&#x200B;을 클릭합니다.
 
    ![이미지 2](/help/sky/assets/event-programs/setting-an-event-cap/setting-an-event-cap-2.png)
 
-1. 이벤트에 등록할 수 있는 최대 사용자 수를 입력하고 을(를) 클릭합니다 **[!UICONTROL Next]**.
+1. 이벤트에 등록할 수 있는 최대 사용자 수를 입력하고 **[!UICONTROL Next]**&#x200B;을 클릭합니다.
 
    ![이미지 3](/help/sky/assets/event-programs/setting-an-event-cap/setting-an-event-cap-3.png)
 
-1. 드롭다운 [!UICONTROL Registration Page] 을 클릭하고 등록 페이지로 사용할 랜딩 페이지를 선택합니다.
+1. [!UICONTROL Registration Page] 드롭다운을 클릭하고 등록 페이지로 사용할 랜딩 페이지를 선택합니다.
 
    ![이미지 4](/help/sky/assets/event-programs/setting-an-event-cap/setting-an-event-cap-4.png)
 
-1. 드롭다운 **[!UICONTROL Registration Full Page]** 을 클릭하고 등록 전체 페이지로 사용할 랜딩 페이지를 선택합니다. 완료되면 을 **[!UICONTROL Set and Enable]** 클릭합니다.
+1. **[!UICONTROL Registration Full Page]** 드롭다운을 클릭하고 등록 전체 페이지로 사용할 랜딩 페이지를 선택합니다. 완료되면 **[!UICONTROL Set and Enable]**&#x200B;을 클릭합니다.
 
    ![이미지 5](/help/sky/assets/event-programs/setting-an-event-cap/setting-an-event-cap-5.png)
 
-   모든 준비가 완료되었습니다. 이벤트 상한 세부 사항을 편집하려는 경우 옆에 있는 파란색 텍스트를 클릭하고 3단계에서 [!UICONTROL Event Cap] 반복합니다.
+   모든 준비가 완료되었습니다. 이벤트 상한 세부 사항을 편집하기로 결정한 경우 [!UICONTROL Event Cap] 옆의 파란색 텍스트를 클릭하고 3단계에서 반복합니다.
 
    ![이미지 6](/help/sky/assets/event-programs/setting-an-event-cap/setting-an-event-cap-6.png)
