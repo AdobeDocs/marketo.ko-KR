@@ -1,7 +1,7 @@
 ---
 unique-page-id: 1147049
 description: 스마트 캠페인 이름 바꾸기 - 마케팅 문서 - 제품 설명서
-title: 스마트 캠페인 이름 변경
+title: 스마트 캠페인 이름 바꾸기
 translation-type: tm+mt
 source-git-commit: c33b7ab59e612f37d3f64bb954579700dc574068
 workflow-type: tm+mt
@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# 스마트 캠페인 이름 변경 {#rename-a-smart-campaign}
+# 스마트 캠페인 이름 바꾸기 {#rename-a-smart-campaign}
 
 기존 스마트 캠페인의 이름을 변경할 수 있습니다. 방법
 
@@ -35,4 +35,4 @@ ht-degree: 0%
    >
    >이전 이름은 탭에 표시되며 저장 시 변경됩니다.
 
-빠르고 간편하게 스마트 캠페인이 참조되는 모든 곳도 변경됩니다.
+빠르고 간편하게 스마트 캠페인이 참조되는 모든 위치도 변경됩니다.
