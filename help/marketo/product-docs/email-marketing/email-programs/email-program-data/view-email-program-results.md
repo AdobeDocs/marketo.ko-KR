@@ -15,7 +15,7 @@ ht-degree: 0%
 
 스마트 캠페인의 결과 탭과 마찬가지로 이메일 프로그램에서 동일한 정보를 볼 수 있습니다.
 
-1. 마케팅 활동 **으로 이동합니다**.
+1. **마케팅 활동**&#x200B;으로 이동합니다.
 
    ![](assets/login-marketing-activities-2.png)
 
@@ -27,11 +27,11 @@ ht-degree: 0%
    >
    >이메일 프로그램이 이미 실행된 경우 이메일 프로그램 대시보드로 바로 이동됩니다.
 
-1. 보기 **에서****Campaign 컨트롤 패널을 선택합니다**.
+1. **보기**&#x200B;에서 **Campaign 컨트롤 패널**&#x200B;을 선택합니다.
 
    ![](assets/controlpanelview.jpg)
 
-1. 대상 **타일 아래에서** 결과 **보기를 클릭합니다**.
+1. **대상** 타일 아래에서 **결과 보기**&#x200B;를 클릭합니다.
 
    ![](assets/audiencetile.jpg)
 
@@ -41,7 +41,7 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->**딥 다이브**
+>**자세히 알아보기**
 >
->이메일 프로그램에 대한 자세한 [내용을 살펴보시겠습니까](http://docs.marketo.com/display/docs/email+program+actions)?
+>[이메일 프로그램](http://docs.marketo.com/display/docs/email+program+actions)에 대해 자세히 알고 싶으십니까?
 
