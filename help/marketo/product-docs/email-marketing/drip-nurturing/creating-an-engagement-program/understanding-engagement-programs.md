@@ -17,11 +17,11 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->가입당 **활성** 참여 프로그램은 100개로 제한됩니다.
+>가입당 활성 **활성** 참여 프로그램은 100개로 제한됩니다.
 
 ## 참여 프로그램 {#engagement-program}
 
-참여 **프로그램****** 프로그램은 복잡한 양육 작업을 손쉽게 수행할 수 있는 프로그램 유형입니다.
+**참여 pr****ogram**&#x200B;은 복잡한 양성을 손쉽게 수행할 수 있는 프로그램 유형입니다.
 
 ![](assets/image2014-9-15-15-3a24-3a57.png)
 
@@ -31,7 +31,7 @@ ht-degree: 0%
 
 ## 스트림 {#stream}
 
-스트림 **은** 참여 프로그램이 사람을 양성하는 데 사용할 우선 순위 컨텐츠 풀입니다.
+**스트림**&#x200B;은 참여 프로그램이 사람을 양성하는 데 사용할 우선 순위가 지정된 컨텐츠 풀입니다.
 
 ![](assets/image2014-9-15-15-3a25-3a4.png)
 
@@ -40,9 +40,9 @@ ht-degree: 0%
 * [스트림 추가](add-a-stream.md)
 * [스트림 복제](../../../../product-docs/email-marketing/drip-nurturing/engagement-program-streams/clone-a-stream.md)
 
-## 컨텐츠 {#content}
+## 콘텐트 {#content}
 
-참여 프로그램 스트림에 추가할 수 있는 **컨텐츠** 유형에는 이메일과 프로그램이 있습니다. 방송 시간에 사람들에게 이메일이 전송됩니다.
+참여 프로그램 스트림(이메일 및 프로그램)에 추가할 수 있는 **content** 유형은 두 가지가 있습니다. 방송 시간에 사람들에게 이메일이 전송됩니다.
 
 ![](assets/image2014-9-15-15-3a25-3a18.png)
 
@@ -54,37 +54,37 @@ ht-degree: 0%
 * [스트림 콘텐츠 제거](../../../../product-docs/email-marketing/drip-nurturing/using-stream-content/remove-stream-content.md)
 * [스트림 컨텐츠 보관 및 보관 취소](../../../../product-docs/email-marketing/drip-nurturing/using-stream-content/archive-and-unarchive-stream-content.md)
 
-## 캐스트 {#cast}
+## {#cast} 캐스트
 
-캐스트는 **참여** 프로그램에서 이메일을 보내는 이벤트입니다.
+**cast**&#x200B;는 관여 프로그램에서 이메일을 보내는 이벤트입니다.
 
 >[!NOTE]
 >
 >참여 프로그램은 운영 이메일에 사용되지 않도록 설계되었습니다.
 
-## 스트림 커덴스 {#stream-cadence}
+## 스트림 대상 {#stream-cadence}
 
-스트림 캐디를 설정하여 캐스팅이 언제 **발생할지 결정합니다**. 정기적으로 컨텐츠를 발송하는 방법입니다.
+**stream cadence**&#x200B;를 설정하여 캐스팅이 발생하는 시기를 결정합니다. 정기적으로 컨텐츠를 발송하는 방법입니다.
 
-` ![](assets/image2014-9-15-15-3a25-3a27.png)
+&#39; ![](assets/image2014-9-15-15-3a25-3a27.png)
 
-`
+&#39;
 
 관련 문서:
 
 * [스트림 대상 설정](../../../../product-docs/email-marketing/drip-nurturing/engagement-program-streams/set-stream-cadence.md)
 
-## Person Cadence {#person-cadence}
+## 개인 참석자 {#person-cadence}
 
-사람 **경력은** 관여 프로그램에서 컨텐츠를 받는 능력을 정의하는 상태입니다. 참여 프로그램 **전환** 단계를 사용하여 일시 중지됨 또는 표준으로 변경할 수 있습니다.
+**사람 대상**&#x200B;은 관여 프로그램에서 콘텐트를 받는 기능을 정의하는 상태입니다. **참여 프로그램 대상 변경** 흐름 단계를 사용하여 일시 중지됨 또는 정상으로 변경할 수 있습니다.
 
-` ![](assets/image2014-9-15-15-3a25-3a55.png)
+&#39; ![](assets/image2014-9-15-15-3a25-3a55.png)
 
-`
+&#39;
 
-## 지쳤어요 {#exhausted}
+## 모두 소진됨 {#exhausted}
 
-한 사람이 모든 콘텐츠를 하나의 스트림으로 받으면, 우리는 그 사람을 **지쳤다라고 합니다**.
+한 사람이 스트림의 모든 콘텐트를 받은 후, 우리는 **Used**&#x200B;이라고 합니다.
 
 ![](assets/image2014-9-15-15-3a26-3a5.png)
 
