@@ -12,5 +12,5 @@ ht-degree: 0%
 
 # Design Studio
 
-* [Adobe Experience Manager에서 자산 가져오기](importing-assets-with-adobe-experience-manager.md)
-* [Marketing To Image Editor](marketo-image-editor.md)
+* [Adobe Experience Manager으로 자산 가져오기](importing-assets-with-adobe-experience-manager.md)
+* [Marketing To 이미지 편집기](marketo-image-editor.md)
