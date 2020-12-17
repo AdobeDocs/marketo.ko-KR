@@ -15,9 +15,9 @@ ht-degree: 0%
 
 ![](assets/image2014-12-24-11-3a37-3a0.png)
 
-Markto가 강력한 차라면 스마트 캠페인은 진정한 엔진이다. 간단한 시작이지만 원하는 거의 모든 작업을 수행할 수 있습니다.
+Markto가 강력한 자동차라면 스마트한 캠페인은 진정한 엔진이다. 간단한 시작이지만 원하는 거의 모든 작업을 수행할 수 있습니다.
 
-스마트 캠페인에는 3개의 주요 영역이 있습니다.고급 [목록](../../../product-docs/core-marketo-concepts/smart-lists-and-static-lists/understanding-smart-lists.md), [흐름](http://docs.marketo.com/display/DOCS/Flow+Actions) 및 [예약](using-smart-campaigns/schedule-a-recurring-batch-campaign.md) 탭.
+스마트 캠페인에는 3개의 주요 영역이 있습니다.[스마트 목록](../../../product-docs/core-marketo-concepts/smart-lists-and-static-lists/understanding-smart-lists.md), [흐름](http://docs.marketo.com/display/DOCS/Flow+Actions) 및 [예약](using-smart-campaigns/schedule-a-recurring-batch-campaign.md) 탭.
 
 ## 스마트 목록 {#smart-list}
 
@@ -33,12 +33,12 @@ Markto가 강력한 차라면 스마트 캠페인은 진정한 엔진이다. 간
   <tr> 
    <td>필터</td> 
    <td>클릭한 링크</td> 
-   <td><p>모든 고객을 일괄적으로 수집하여 현 시간에 적용</p></td> 
+   <td><p>현재 자격을 갖춘 모든 고객을 일괄적으로 수집할 수 있습니다.</p></td> 
   </tr> 
   <tr> 
    <td colspan="1">트리거</td> 
    <td colspan="1">클릭 링크</td> 
-   <td colspan="1">누군가가 뭔가를 하는 순간, 즉시 흐름을 불어라.</td> 
+   <td colspan="1">누군가 무언가를 하는 순간, 즉시 흐름을 불어라.</td> 
   </tr> 
  </tbody> 
 </table>
@@ -51,11 +51,11 @@ Markto가 강력한 차라면 스마트 캠페인은 진정한 엔진이다. 간
 
 ## 일정 {#schedule}
 
-마지막으로, 이 컨트롤은 스마트 캠페인을 실행할 때 사용됩니다. 반복은 반복 일정에 따라 실행되도록 설정할 수도 있습니다.
+마지막으로 이 컨트롤은 스마트 캠페인을 실행할 때 사용됩니다. 반복 일정에 따라 실행되도록 반복을 설정할 수도 있습니다.
 
 <br> 
 
-스마트한 캠페인이 할 수 있는 것은 엄청나게 많다. Adobe Marketing Cloud의 모든 기능이 더욱 수월해졌습니다.
+스마트한 캠페인이 할 수 있는 것은 엄청나게 많다. Adobe Marketing Cloud를 사용하면 이해하기 수월하게 모든 것을 파악할 수 있습니다.
 
 >[!MORELIKETHIS]
 >
