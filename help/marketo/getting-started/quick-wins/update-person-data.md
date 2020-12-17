@@ -13,7 +13,7 @@ ht-degree: 0%
 
 # 개인 데이터 업데이트 {#update-person-data}
 
-## 임무:개인의 연락처 정보 또는 기타 데이터 업데이트 {#mission-update-a-persons-contact-info-or-other-data}
+## 임무:개인의 연락처 정보 또는 기타 데이터 {#mission-update-a-persons-contact-info-or-other-data} 업데이트
 
 >[!PREREQUISITES]
 >
@@ -23,7 +23,7 @@ ht-degree: 0%
 
 최근 트레이드쇼에서 한 사람이 귀하에게 추가적인 연락처 정보를 제공했다고 가정해 봅시다. 개인 데이터를 업데이트하는 방법
 
-## 업데이트할 사람 찾기 {#find-the-person-you-need-to-update}
+## {#find-the-person-you-need-to-update}을(를) 업데이트해야 하는 사람을 찾습니다.
 
 1. 데이터베이스로 이동합니다.
 
@@ -43,7 +43,7 @@ ht-degree: 0%
 
    >[!TIP]
    >
-   >Marketing To에서 개인 데이터를 업데이트하는 방법은 다양합니다. 사람 [목록 가져오기](/help/marketo/getting-started/quick-wins/import-a-list-of-people.md) 및 [데이터 값 변경을 참조하십시오](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/change-data-value.md).
+   >Marketing To에서 개인 데이터를 업데이트하는 방법은 다양합니다. [인물 목록 가져오기](/help/marketo/getting-started/quick-wins/import-a-list-of-people.md) 및 [데이터 값 변경](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/change-data-value.md)을 참조하십시오.
 
 ## 개인 데이터 업데이트 {#update-the-person-data}
 
