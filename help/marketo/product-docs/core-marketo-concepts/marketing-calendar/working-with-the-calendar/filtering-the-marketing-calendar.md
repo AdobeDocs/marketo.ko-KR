@@ -19,21 +19,21 @@ ht-degree: 0%
 
 ![](assets/2017-05-10-15-30-47.png)
 
-1. 응모 **유형** **드롭다운을** 클릭합니다.
+1. **항목** **유형** 드롭다운을 클릭합니다.
 
    >[!NOTE]
    >
-   >기본 항목 유형은 **이메일** **프로그램** 및 **스마트** 캠페인 **이** 됩니다 **. 스마트** ****&#x200B;캠페인WithEmailPublish입니다.
+   >기본 시작 유형은 **이메일** **프로그램** 및 **스마트** **캠페인** **과** **이메일**&#x200B;입니다.
 
    ![](assets/image2014-9-24-10-3a46-3a54.png)
 
-1. 필터에 표시할 추가 입력 유형을 선택합니다.
+1. 필터에 표시할 추가 항목 유형을 선택합니다.
 
    ![](assets/image2014-9-24-10-3a47-3a0.png)
 
    >[!TIP]
    >
-   >표준 입력 유형에 대한 설명을 보려면 프로그램 스케줄 [뷰 입력 유형을 확인하십시오](../../../../product-docs/core-marketo-concepts/programs/program-schedule-view/program-schedule-view-entry-types.md).
+   >표준 항목 유형에 대한 설명은 [프로그램 스케줄 보기 시작 유형](../../../../product-docs/core-marketo-concepts/programs/program-schedule-view/program-schedule-view-entry-types.md)을 확인하십시오.
 
 1. 원하는 프로그램 태그를 선택합니다.
 
@@ -43,7 +43,7 @@ ht-degree: 0%
 
    ![](assets/image2014-9-24-10-3a47-3a9.png)
 
-   대단해! 이제 방금 정의한 필터에 적용되는 응모만 표시됩니다.
+   굉장해! 이제 방금 정의한 필터에 적용되는 항목만 표시됩니다.
 
    >[!NOTE]
    >
