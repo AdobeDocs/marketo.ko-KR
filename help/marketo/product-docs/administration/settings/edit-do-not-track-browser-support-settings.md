@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# 브라우저 지원 설정 편집 &quot;추적 안 함&quot; {#edit-do-not-track-browser-support-settings}
+# &quot;추적 안 함&quot; 브라우저 지원 설정 편집 {#edit-do-not-track-browser-support-settings}
 
 &quot;추적 안 함&quot;은 Marketing과 같은 시스템에서 추적되지 않도록 하는 브라우저 요청입니다. 다음 단계에 따라 해당 요청을 수락할 수 있습니다.
 
@@ -27,15 +27,15 @@ ht-degree: 0%
 
    ![](assets/one.png)
 
-1. [ **먼킨]을 클릭합니다**.
+1. **Munchkin**&#x200B;을 클릭합니다.
 
    ![](assets/two.png)
 
-1. 사람 **추적**&#x200B;아래에서 편집을 **클릭합니다**.
+1. **사람 추적**&#x200B;에서 **편집**&#x200B;을 클릭합니다.
 
    ![](assets/three-2.png)
 
-1. 지원 **을** 선택하고 저장을 **클릭합니다**.
+1. **지원**&#x200B;을 선택하고 **저장**&#x200B;을 클릭합니다.
 1. ![](assets/four-1.png)
 
    변경 내용을 저장하면 업데이트가 표시됩니다.
@@ -48,5 +48,5 @@ ht-degree: 0%
 
    >[!TIP]
    >
-   >&quot;추적 안 함&quot; 및 작동 방법에 대한 자세한 내용은 [이 페이지를 참조하십시오](https://en.wikipedia.org/wiki/Do_Not_Track).
+   >&quot;추적 안 함&quot; 및 작동 방법에 대한 자세한 내용은 [이 페이지](https://en.wikipedia.org/wiki/Do_Not_Track)를 방문하십시오.
 
