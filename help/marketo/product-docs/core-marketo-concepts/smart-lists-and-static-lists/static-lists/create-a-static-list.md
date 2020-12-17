@@ -15,19 +15,19 @@ ht-degree: 0%
 
 정적 목록은 데이터베이스에 이미 있는 사용자 그룹입니다. 만드는 방법
 
-1. 데이터베이스로 **이동합니다**.
+1. **데이터베이스**&#x200B;로 이동합니다.
 
    ![](assets/db.png)
 
-1. 새로 **만들기** 드롭다운을 클릭하고 **새 목록을 선택합니다**.
+1. **새로 만들기** 드롭다운을 클릭하고 **새 목록**&#x200B;을 선택합니다.
 
    ![](assets/two.png)
 
-1. 대상 폴더를 선택하고 새 목록에 이름을 지정한 다음 만들기를 **클릭합니다**.
+1. 대상 폴더를 선택하고 새 목록에 이름을 지정한 다음 **만들기**&#x200B;를 클릭합니다.
 
    ![](assets/three.png)
 
-   이제 빈 목록을 채울 준비가 되었습니다. 여기에 사람을 추가하는 방법을 [알아봅니다](http://docs.marketo.com/display/DOCS/Understanding+Static+Lists#UnderstandingStaticLists-WaystoAdd/RemoveLeadsfromaList).
+   이제 빈 목록을 채울 준비가 되었습니다. [여기](http://docs.marketo.com/display/DOCS/Understanding+Static+Lists#UnderstandingStaticLists-WaystoAdd/RemoveLeadsfromaList)에 사람을 추가하는 방법을 알아봅니다.
 
    >[!NOTE]
    >
