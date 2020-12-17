@@ -1,6 +1,6 @@
 ---
 unique-page-id: 14352439
-description: 템플릿을 추가하는 방법 - Marketing To Docs - 제품 설명서
+description: 템플릿을 추가하는 방법 - 마케팅 문서 - 제품 설명서
 title: 템플릿을 추가하는 방법
 translation-type: tm+mt
 source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
@@ -11,9 +11,9 @@ ht-degree: 0%
 ---
 
 
-# 템플릿을 추가하는 방법 {#how-to-add-a-template}
+# 템플릿 {#how-to-add-a-template} 추가 방법
 
-1. 새 메시지에서 **템플릿을 클릭합니다**.
+1. 새 메시지에서 **템플릿**&#x200B;을 클릭합니다.
 1. 기본적으로 최근에 사용한 템플릿이 표시됩니다.
 
    >[!TIP]
