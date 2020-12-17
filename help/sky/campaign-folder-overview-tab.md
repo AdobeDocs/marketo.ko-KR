@@ -12,7 +12,7 @@ ht-degree: 0%
 
 # 캠페인 폴더:개요 탭
 
-캠페인 폴더 탭 아래에는 두 개의 섹션이 [!UICONTROL Overview] 있습니다. **[!UICONTROL Details]** 및 **[!UICONTROL Reports]**.
+캠페인 폴더 [!UICONTROL Overview] 탭 아래에 두 개의 섹션이 있습니다.**[!UICONTROL Details]** 및 **[!UICONTROL Reports]**.
 
 ![이미지 원](/help/sky/assets/campaign-folders/campaign-folder-overview-tab/campaign-folder-overview-tab-1.png)
 
@@ -24,11 +24,11 @@ ht-degree: 0%
 
 **[!UICONTROL Folder Actions]**
 
-오른쪽 상단에 있는 폴더 작업 드롭다운을 클릭하여 기본 기능에 빠르게 액세스할 수 있습니다.
+기본 기능에 빠르게 액세스하려면 오른쪽 상단에 있는 폴더 작업 드롭다운을 클릭합니다.
 
 [!UICONTROL ## Reports]
 
-섹션에서 [!UICONTROL Reports] 폴더 내의 여러 캠페인에 대한 주요 정보를 찾을 수 있습니다.
+[!UICONTROL Reports] 섹션에서 폴더 내의 다른 캠페인에 대한 주요 정보를 찾을 수 있습니다.
 
 ![이미지 원](/help/sky/assets/campaign-folders/campaign-folder-overview-tab/campaign-folder-overview-tab-3.png)
 
