@@ -1,7 +1,7 @@
 ---
 unique-page-id: 557324
-description: 스마트 목록 - 마케팅 문서 - 제품 문서에서 데이터 값 변경 필터 사용
-title: 스마트 목록에서 데이터 값 변경 필터 사용
+description: 스마트 목록 - Marketing To Docs - 제품 문서에서 데이터 값 변경 필터 사용
+title: 스마트 목록에서 데이터 값 변경된 필터 사용
 translation-type: tm+mt
 source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
@@ -11,9 +11,9 @@ ht-degree: 0%
 ---
 
 
-# 스마트 목록에서 데이터 값 변경 필터 사용 {#use-the-data-value-changed-filter-in-a-smart-list}
+# 스마트 목록 {#use-the-data-value-changed-filter-in-a-smart-list}에서 변경된 데이터 값 필터 사용
 
-Marketing To 데이터베이스에서 값이 계속 변경되고 업데이트됩니다. 특정 가치를 찾는 대신 가치가 변한 사람을 찾는 경우가 있습니다. 방법
+값이 지속적으로 변경되고 Marketing 데이터베이스에서 업데이트됩니다. 특정 가치를 찾는 대신 가치가 달라진 사람을 찾는 경우도 있습니다. 방법
 
 >[!PREREQUISITES]
 >
@@ -23,7 +23,7 @@ Marketing To 데이터베이스에서 값이 계속 변경되고 업데이트됩
 
 
 
-1. **마케팅 활동 **영역으로 이동합니다.
+1. **마케팅 활동 ** 영역으로 이동합니다.
 
    ![](assets/ma.png)
 
@@ -31,15 +31,15 @@ Marketing To 데이터베이스에서 값이 계속 변경되고 업데이트됩
 
    ![](assets/two-1.png)
 
-1. 변경된 **데이터 값** 필터를 찾아 캔버스로 드래그합니다.
+1. **변경된 데이터 값** 필터를 찾아 캔버스로 드래그합니다.
 
    ![](assets/three-1.png)
 
-1. 속성 **을** 데이터 값 변경을 찾을 필드로 설정합니다.
+1. 데이터 값 변경을 찾을 필드에 **특성**&#x200B;을 설정합니다.
 
    ![](assets/four.png)
 
-이 필터는 상태에 대한 변경(모든 변경)을 가진 모든 사람을 찾습니다. 더 화려하려면 스마트 목록 필터에 제한을 [추가해 봅니다](add-a-constraint-to-a-smart-list-filter.md).
+이 필터는 상태에 대한 변경(모든 변경)이 있는 모든 사람을 찾습니다. 더 화려한 제목을 얻으려면 [스마트 목록 필터](add-a-constraint-to-a-smart-list-filter.md)에 제한을 추가해 보십시오.
 
 >[!NOTE]
 >
