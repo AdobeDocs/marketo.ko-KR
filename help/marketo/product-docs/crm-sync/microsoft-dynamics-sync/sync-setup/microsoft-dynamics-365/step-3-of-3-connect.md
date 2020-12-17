@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# 3단계 중 3단계:Microsoft Dynamics와 Marketing To 연결(온라인) {#step-of-connect-microsoft-dynamics-with-marketo-online}
+# 3단계 중 3단계:Microsoft Dynamics와 Marketing(온라인) {#step-of-connect-microsoft-dynamics-with-marketo-online} 연결
 
 동기화 마지막 단계입니다. 거의 다 왔어!
 
@@ -30,21 +30,21 @@ ht-degree: 0%
 >
 >**관리자 권한 필요**
 
-## Dynamics 동기화 사용자 정보 입력 {#enter-dynamics-sync-user-information}
+## Dynamics 동기화 사용자 정보 {#enter-dynamics-sync-user-information} 입력
 
-1. Marketing에 로그인하고 관리를 **클릭합니다**.
+1. Marketing에 로그인하고 **관리**&#x200B;를 클릭합니다.
 
    ![](assets/login-admin.png)
 
-1. CRM을 **클릭합니다**.
+1. **CRM**&#x200B;을 클릭합니다.
 
    ![](assets/image2015-3-16-9-3a47-3a34.png)
 
-1. Microsoft **를 선택합니다**.
+1. **Microsoft**&#x200B;를 선택합니다.
 
    ![](assets/image2015-3-16-9-3a50-3a6.png)
 
-1. 1단계 **에서** 편집을 **클릭합니다.자격 증명을 입력합니다**.
+1. **1단계에서**&#x200B;편집&#x200B;**을 클릭합니다.자격 증명**&#x200B;을 입력합니다.
 
    ![](assets/image2015-3-16-9-3a48-3a43.png)
 
@@ -52,43 +52,43 @@ ht-degree: 0%
    >
    >제출 후 스키마 변경 내용을 되돌릴 수 없으므로 자격 증명이 올바른지 확인하십시오. 잘못된 자격 증명이 저장되면 새 Marketing To 구독을 구해야 합니다.
 
-1. 사용자 **이름**, **암호**&#x200B;및 Microsoft Dynamics **URL** (클라이언트 ID 및 클라이언트 암호선택 사항)을 입력합니다. 완료되면 **저장을** 클릭합니다.
+1. **사용자 이름**, **암호** 및 Microsoft Dynamics **URL**(클라이언트 ID 및 클라이언트 암호는 선택 사항)을 입력합니다. 완료되면 **저장**&#x200B;을 클릭합니다.
 
    ![](assets/five-1.png)
 
    >[!NOTE]
    >
-   >Marketing의 사용자 이름은 CRM의 동기화 사용자의 사용자 이름과 일치해야 합니다. 형식은 DOMAIN\ [`[email protected]`](http://docs.marketo.com/cdn-cgi/l/email-protection#bcc9cfd9cefcd8d3d1ddd5d292dfd3d1) user일 수 있습니다.
+   >Marketing의 사용자 이름은 CRM의 동기화 사용자의 사용자 이름과 일치해야 합니다. 형식은 [`[email protected]`](http://docs.marketo.com/cdn-cgi/l/email-protection#bcc9cfd9cefcd8d3d1ddd5d292dfd3d1) 또는 DOMAIN\user일 수 있습니다.
 
 ## 동기화할 필드 선택 {#select-fields-to-sync}
 
-1. 2단계 **에서** 편집을 **클릭합니다.동기화할 필드를 선택합니다**.
+1. **2단계에서**&#x200B;편집&#x200B;**을 클릭합니다.동기화할 필드**&#x200B;를 선택합니다.
 
    ![](assets/image2015-3-16-9-3a51-3a28.png)
 
-1. Marketing To에 동기화하려는 필드를 선택하여 미리 선택합니다. 저장을 **클릭합니다**.
+1. Marketing To에 동기화하려는 필드를 선택하여 미리 선택합니다. **저장**&#x200B;을 클릭합니다.
 
    ![](assets/image2016-8-25-15-3a6-3a11.png)
 
-## 사용자 정의 필터에 대한 필드 동기화 {#sync-fields-for-a-custom-filter}
+## 사용자 지정 필터 {#sync-fields-for-a-custom-filter}에 대한 필드 동기화
 
 사용자 정의 필터를 만든 경우 해당 위치로 이동하여 Marketing To와 동기화할 새 필드를 선택하십시오.
 
-1. 관리자로 이동하고 **Microsoft Dynamics를 선택합니다**.
+1. 관리로 이동하고 **Microsoft Dynamics**&#x200B;을 선택합니다.
 
    ![](assets/image2015-10-9-9-3a50-3a9.png)
 
-1. 필드 **동기화** 세부 사항에서 편집을 클릭합니다.
+1. 필드 동기화 세부 정보에서 **편집**&#x200B;을 클릭합니다.
 
    ![](assets/image2015-10-9-9-3a52-3a23.png)
 
-1. 아래로 스크롤하여 확인합니다. 실제 이름은 new_synctomto여야 하지만 표시 이름은 무엇이든 될 수 있습니다. 저장을 **클릭합니다**.
+1. 아래로 스크롤하여 확인합니다. 실제 이름은 new_synctomto여야 하지만 표시 이름은 무엇이든 될 수 있습니다. **저장**&#x200B;을 클릭합니다.
 
    ![](assets/image2016-8-25-15-3a7-3a35.png)
 
-## 동기화 사용 {#enable-sync}
+## {#enable-sync} 동기화 사용
 
-1. 3단계 **에서** 편집을 **클릭합니다.동기화를 활성화합니다**.
+1. **단계 3:동기화**&#x200B;을(를) 활성화합니다.****
 
    ![](assets/image2015-3-16-9-3a52-3a2.png)
 
@@ -96,7 +96,7 @@ ht-degree: 0%
    >
    >Microsoft Dynamics 동기화 또는 수동으로 인물 또는 리드를 입력할 때 Marketing To는 자동으로 중복 제거 기능을 제공하지 않습니다.
 
-1. 팝업에서 모든 내용을 읽고 이메일 주소를 입력한 다음 [동기화 **시작]을 클릭합니다**.
+1. 팝업에서 모든 내용을 읽고 이메일 주소를 입력한 다음 **동기화 시작**&#x200B;을 클릭합니다.
 
    ![](assets/image2015-3-16-9-3a55-3a10.png)
 
