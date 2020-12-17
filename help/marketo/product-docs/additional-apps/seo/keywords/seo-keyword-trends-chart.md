@@ -13,17 +13,17 @@ ht-degree: 0%
 
 # SEO - 키워드 트렌드 차트 {#seo-keyword-trends-chart}
 
-키워드 [SERP 등급이 시간에 따라 트렌드](../../../../product-docs/additional-apps/seo/understanding-seo/understanding-search-engine-optimization.md) 트렌드를 추적하는 것이 중요합니다. 진행 상황을 모니터링하려면 이 멋진 차트를 확인하십시오.
+키워드 [SERP 등급](../../../../product-docs/additional-apps/seo/understanding-seo/understanding-search-engine-optimization.md)의 트렌드를 시간이 지남에 따라 모니터하는 것이 중요합니다. 진행 상황을 모니터링하려면 이 멋진 차트를 확인하십시오.
 
-1. 키워드 **섹션으로** 이동합니다.
+1. **키워드** 섹션으로 이동합니다.
 
    ![](assets/image2014-9-18-12-3a5-3a7.png)
 
-1. 트렌드할 키워드의 등급 상자를 클릭합니다.
+1. 트렌드를 표시할 키워드의 등급 상자를 클릭합니다.
 
    ![](assets/image2014-9-18-12-3a5-3a11.png)
 
-   봐 지난 30일 동안의 [SERP](../../../../product-docs/additional-apps/seo/understanding-seo/understanding-search-engine-optimization.md) 등급을 보여줍니다.
+   봐 지난 30일 동안의 [SERP 등급](../../../../product-docs/additional-apps/seo/understanding-seo/understanding-search-engine-optimization.md)이 표시됩니다.
 
    ![](assets/image2014-9-18-12-3a5-3a14.png)
 
