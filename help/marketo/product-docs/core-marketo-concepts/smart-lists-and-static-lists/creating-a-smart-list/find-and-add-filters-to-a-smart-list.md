@@ -11,9 +11,9 @@ ht-degree: 0%
 ---
 
 
-# 스마트 목록에 필터 찾기 및 추가 {#find-and-add-filters-to-a-smart-list}
+# 스마트 목록 {#find-and-add-filters-to-a-smart-list}에 필터 찾기 및 추가
 
-스마트 목록 [을 만든](create-a-smart-list.md)후에는 필터를 추가하고 [정의해야](define-smart-list-filters.md) 합니다. 필터를 찾고 추가하는 방법은 다음과 같습니다.
+[에 스마트 목록](create-a-smart-list.md)이 만들어지면 [필터를 추가하고 정의해야 합니다.](define-smart-list-filters.md). 필터를 찾고 추가하는 방법은 다음과 같습니다.
 
 이 예에서 점수가 50이 넘는 캘리포니아에 있는 모든 사람을 찾습니다.
 
@@ -21,7 +21,7 @@ ht-degree: 0%
 >
 >오른쪽에 있는 트리를 살펴보십시오. 필터는 매우 강력하며 다양한 기능을 제공합니다.
 
-1. 마케팅 활동 **으로 이동합니다**.
+1. **마케팅 활동**&#x200B;으로 이동합니다.
 
    ![](assets/ma.png)
 
@@ -29,11 +29,11 @@ ht-degree: 0%
 
    ![](assets/two.png)
 
-1. 상태 필터를 찾아 **캔버스로** 드래그합니다.
+1. **상태** 필터를 찾아 캔버스로 드래그합니다.
 
    ![](assets/three.png)
 
-1. 또한 점수 필터를 찾아 **위에** 드래그합니다.
+1. 또한 **점수** 필터를 찾아 드래그합니다.
 
    ![](assets/four.png)
 
