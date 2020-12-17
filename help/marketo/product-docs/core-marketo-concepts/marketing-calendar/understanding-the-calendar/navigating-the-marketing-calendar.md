@@ -13,17 +13,17 @@ ht-degree: 0%
 
 # 마케팅 달력 탐색 {#navigating-the-marketing-calendar}
 
-마케팅 달력을 탐색하는 것은 1, 2, 3과 같이 쉽습니다!
+마케팅 달력을 탐색하는 것은 쉽게 1, 2, 3입니다!
 
 >[!PREREQUISITES]
 >
->마케팅 달력 라이선스가 있는지 [확인하십시오](issue-revoke-a-marketing-calendar-license.md) . 그렇지 않으면 마케팅 달력 타일이 내 마켓에 표시되지 않습니다.
+>[마케팅 달력 라이선스](issue-revoke-a-marketing-calendar-license.md)가 있는지 확인하십시오. 그렇지 않으면 마케팅 달력 타일이 내 마케팅에 표시되지 않습니다.
 
-1. 마케팅 **달력으로 이동합니다**.
+1. **마케팅 달력**&#x200B;으로 이동합니다.
 
    ![](assets/2017-05-10-15-30-47.png)
 
-1. Marketing To 인스턴스에 예약된 자산의 조감입니다.
+1. Marketing 인스턴스에 예약된 자산의 조감도입니다.
 
    ![](assets/image2014-9-15-16-3a44-3a22.png)
 
@@ -33,25 +33,25 @@ ht-degree: 0%
 
    ![](assets/image2014-9-15-16-3a46-3a16.png)
 
-## 안건 보기 사용 {#use-the-agenda-view}
+## 의제 보기 {#use-the-agenda-view} 사용
 
 안건 보기에는 모든 항목이 목록으로 표시됩니다.
 
-1. 필터 **드롭다운을 클릭합니다**.
+1. **필터 드롭다운**&#x200B;을 클릭합니다.
 
-   ` ![](assets/image2014-9-26-10-3a29-3a6.png)
+   &#39; ![](assets/image2014-9-26-10-3a29-3a6.png)
 
-   `
+   &#39;
 
-1. 안건 **보기를** 선택합니다.
+1. **Agenda** 보기를 선택합니다.
 
    ![](assets/image2014-9-26-10-3a29-3a36.png)
 
-   대단해! 이것은 계획된 모든 것을 보기 위한 훌륭한 견해입니다.
+   굉장해! 이것은 계획된 모든 것을 보기 위한 훌륭한 견해입니다.
 
    ![](assets/image2014-9-26-10-3a30-3a9.png)
 
-## 탐색 기간 {#navigate-through-time}
+## 통과 시간 {#navigate-through-time} 탐색
 
 드로리안 없이! 내비게이션 버튼을 클릭하면 됩니다.
 
@@ -61,11 +61,11 @@ ht-degree: 0%
 
 | 작업 | 키보드 단축키 |
 |---|---|
-| 백타임 | alt/opt + 위로 |
-| 정시 앞으로 | alt/opt + down |
+| 다시 시작 시간 | alt/opt + up |
+| 시간 앞으로 | alt/opt + down |
 | &quot;오늘&quot;으로 이동 | alt/opt + t |
 
-대단해! 기본 사항 필터를 사용하여 보기를 사용자 정의할 수도 있습니다.
+굉장해! 기본 사항입니다. 필터를 사용하여 보기를 사용자 정의할 수도 있습니다.
 
 >[!NOTE]
 >
