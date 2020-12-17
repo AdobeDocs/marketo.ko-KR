@@ -13,7 +13,7 @@ ht-degree: 0%
 
 # 고급 스마트 목록 규칙 논리 사용 {#using-advanced-smart-list-rule-logic}
 
-스마트 목록 내의 여러 필터에 스마트 목록 규칙 논리를 적용하여 필요한 사람을 정확히 찾을 수 있습니다. 방법
+스마트 목록 내의 여러 필터에 스마트 목록 규칙 논리를 적용하여 필요한 사람을 정확하게 찾을 수 있습니다. 방법
 
 >[!PREREQUISITES]
 >
@@ -30,19 +30,19 @@ ht-degree: 0%
 
 ## 스마트 목록에 논리 추가 {#add-logic-to-a-smart-list}
 
-기본적으로 스마트 목록은 **모든** 필터(필터 1 *과* 2 *및* 3)와일치하는 사람을찾습니다. 규칙 논리를 변경하여 정의된 필터(필터 1 **또는** 2 *또는*** 3)의 ANY와 *일치하는* 사람을 찾거나 고급 필터(1및 SafetyFilters 2 *또는 *3)를 사용할 수 있습니다.
+기본적으로 스마트 목록은 **ALL** 필터(필터 1 *및* 2 *및* 3)와 일치하는 사람을 찾습니다. 정의된 필터(필터 1 *또는* 2 *또는* 3)의 **ANY**&#x200B;와 일치하는 사람을 찾도록 규칙 논리를 변경하거나 고급 필터(필터 1 *및* 2 *또는 *3)를 사용할 수 있습니다.
 
-이 예에서 점수가 최소 50점 *이상이거나* 상태가 &quot;Sales Qualified&quot;인 사람을 ** 찾고자 한다고 가정해 보겠습니다.
+이 예에서는 &quot;Sales Qualified&quot; 상태의 점수가 최소 50점 *또는*&#x200B;인 캘리포니아 *과*&#x200B;에 있는 사람을 찾고자 합니다.
 
-1. 드롭다운 **에서** **고급** **필터** 사용을선택합니다.
+1. 드롭다운에서 **Use** **Advanced** **filters**&#x200B;를 선택합니다.
 
    ![](assets/one.png)
 
    >[!NOTE]
    >
-   >고급 **** 필터를 사용하면 스마트 목록 멤버 필터를 사용하여 스마트 목록을 만들 필요가 줄어듭니다. 이를 통해 성능을 최적화할 수 있습니다.
+   >**고급** 필터를 사용하면 스마트 목록 멤버 필터로 스마트 목록을 만들 필요가 없습니다. 이는 성능을 최적화하는 데 도움이 됩니다.
 
-1. [ **고급** 필터 **** ] 텍스트 상자에 모든 필터 간의 기본값으로 &quot;and&quot;가 표시됩니다.
+1. **고급** **filters** 텍스트 상자는 모든 필터 사이에 기본값으로 &quot;and&quot;를 표시합니다.
 
    ![](assets/two-2.png)
 
@@ -52,21 +52,21 @@ ht-degree: 0%
 
    >[!CAUTION]
    >
-   >규칙 논리를 입력할 때는 &quot;or&quot; 앞에 &quot;and&quot;를 사용해야 합니다.
+   >규칙 논리를 입력할 때 &quot;or&quot; 앞에 &quot;and&quot;를 사용해야 합니다.
 
-1. &quot;2~3&quot; 사이의 &quot;and&quot;를 &quot;or&quot;으로 변경합니다.
+1. &quot;2~3&quot; 사이의 &quot;and&quot;를 &quot;or&quot;로 변경합니다.
 
    ![](assets/four-1.png)
 
-## &quot;And&quot; 및 &quot;Or&quot;를 혼합할 때 괄호를 사용합니다. {#use-parentheses-when-mixing-and-and-or}
+## &quot;And&quot; 및 &quot;Or {#use-parentheses-when-mixing-and-and-or} 혼합할 때 괄호를 사용합니다.
 
-&quot;and&quot; 및 &quot;or&quot; 논리를 혼합하려면 괄호가 있어야 의도를 알 수 있습니다.
+&quot;and&quot; 및 &quot;or&quot; 논리를 혼합하려면 의도를 명확히 하기 위해 괄호가 필요합니다.
 
 ![](assets/advancedfilters-parent.png)
 
-## 필요한 경우 4개 이상의 필터에 중첩 괄호 사용 {#use-nested-parentheses-for-four-or-more-filters-if-needed}
+## 필요한 경우 4개 이상의 필터에 중첩된 괄호를 사용합니다 {#use-nested-parentheses-for-four-or-more-filters-if-needed}
 
-용도에 따라 4개 이상의 필터를 사용할 때 괄호를 중첩해야 할 수도 있습니다.
+목적에 따라 4개 이상의 필터를 사용할 때 괄호를 중첩된 괄호를 추가해야 할 수도 있습니다.
 
 ![](assets/advancedfilters-nested.png)
 
