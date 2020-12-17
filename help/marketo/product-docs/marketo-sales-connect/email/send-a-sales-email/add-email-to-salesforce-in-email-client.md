@@ -11,8 +11,8 @@ ht-degree: 0%
 ---
 
 
-# 이메일 클라이언트에서 Salesforce에 이메일 추가 {#add-email-to-salesforce-in-email-client}
+# 이메일 클라이언트 {#add-email-to-salesforce-in-email-client}에서 Salesforce에 이메일 추가
 
-Salesforce에 이메일 **추가** 단추를 사용하면 받은 편지함에서 받은 모든 이메일을 Outlook 또는 Gmail의 Salesforce 계정으로 푸시할 수 있습니다. 이메일의 보낸 사람을 기준으로 조회하므로 현재 받은 이메일에만 이 단추를 사용할 수 있습니다.
+**Salesforce에 이메일 추가** 단추를 사용하면 받은 편지함에서 받은 이메일을 Outlook 또는 Gmail의 Salesforce 계정으로 푸시할 수 있습니다. 이메일의 보낸 사람을 기반으로 검색을 수행하므로 현재 받은 이메일에만 이 단추를 사용할 수 있습니다.
 
-이미 전송한 이메일에 대한 로그인 허용 기능을 변경하는 작업을 진행 중이지만 [활동 로그에서](http://toutapp.com/next#settings/crm/salesforce/activity)수신 또는 실패한 활동에 대해 자동으로 로그인하지 않으면 [Salesforce BCC 이메일 주소로 전달하면 됩니다](http://docs.marketo.com/x/soLS).
+이미 보낸 이메일을 기록할 수 있도록 기능을 변경하는 작업을 진행 중이지만, [활동 로그](http://toutapp.com/next#settings/crm/salesforce/activity)에서 실패한 활동에 전송하거나 표시할 때 자동으로 로그인하지 않으면 [Salesforce BCC 이메일 주소](http://docs.marketo.com/x/soLS)로 보낼 수 있습니다.
