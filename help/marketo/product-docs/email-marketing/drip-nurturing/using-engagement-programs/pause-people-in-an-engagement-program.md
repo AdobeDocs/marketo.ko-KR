@@ -11,19 +11,19 @@ ht-degree: 0%
 ---
 
 
-# 참여 프로그램에서 인물 일시 중지 {#pause-people-in-an-engagement-program}
+# 참여 프로그램 {#pause-people-in-an-engagement-program}에서 인물 일시 중지
 
-사용자가 참여 프로그램의 멤버라면 모든 컨텐츠를 [소진할 때까지 컨텐츠를 받게 됩니다](people-who-have-exhausted-content.md). 참여 프로그램 [전환](../../../../product-docs/core-marketo-concepts/smart-campaigns/program-flow-actions/change-engagement-program-cadence.md) 흐름 단계를 사용하여 아직 다 쓰지 않은 컨텐츠도 다른 사람이 컨텐츠를 받지 못하도록 할 수 있습니다.
+사용자가 참여 프로그램의 멤버인 경우 [모든 콘텐트가 소진될 때까지 콘텐트를 받습니다](people-who-have-exhausted-content.md). [참여 프로그램 대상 변경](../../../../product-docs/core-marketo-concepts/smart-campaigns/program-flow-actions/change-engagement-program-cadence.md) 흐름 단계를 사용하여 아직 컨텐츠가 다 소진되지 않았더라도 사람들이 컨텐츠를 받지 못하도록 할 수 있습니다.
 
 1. 참여 프로그램을 선택합니다.
 
    ![](assets/image2014-9-22-14-3a49-3a27.png)
 
-1. **Paused ** **새** 값으로 선택하면 사용자가 컨텐츠를 수신하지 못합니다.
+1. **Paused**를 **새 값**&#x200B;으로 선택하여 받는 사람이 콘텐트를 받지 못하게 합니다.
 
    ![](assets/image2014-9-22-14-3a49-3a31.png)
 
-   컨텐트를 다시 수신하도록 **하려면** 사람을 다시 [표준]으로 설정할 수 있습니다. 그들은 그들이 중단한 곳에서 다시 시작할 것입니다.
+   콘텐트를 다시 수신하도록 하려면 이 사람을 **Normal**&#x200B;으로 다시 설정할 수 있습니다. 그들은 그들이 중단한 곳에서 다시 시작할 것입니다.
 
    >[!NOTE]
    >
