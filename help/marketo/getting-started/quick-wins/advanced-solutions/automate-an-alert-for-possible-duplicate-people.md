@@ -17,8 +17,8 @@ ht-degree: 0%
 
 1. [새로운 스마트 캠페인을 만듭니다](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/creating-a-smart-campaign/create-a-new-smart-campaign.md). 다음 스마트 목록을 정의합니다.
 
-* 트리거: **사람이 만들어짐**
-* 필터: **중복 필드.** 필드 이름 **이 전체 이름입니다.**
+* 트리거:**사람이 만들어짐**
+* 필터:**중복 필드.** 필드 이름 **이 전체 이름입니다.**
 
    ![](assets/image2017-3-27-8-3a22-3a4.png)
 
@@ -26,13 +26,13 @@ ht-degree: 0%
    >
    >창의적인 아이디어 표현 여러 필드를 실험해 보면서 필터링 결과를 얻을 수 있습니다.
 
-1. 흐름 단계에서 경고 [흐름](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/send-alert.md) 전송 작업을 선택합니다.
+1. 흐름 단계에서 [경고 보내기](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/send-alert.md) 흐름 작업을 선택합니다.
 
    ![](assets/image2017-3-27-8-3a24-3a8.png)
 
    >[!TIP]
    >
-   >CRM [에 있는](/help/marketo/product-docs/email-marketing/general/using-tokens/use-the-send-alert-info-token.md) 사람에 대한 링크를 포함하려면 [알림 정보 보내기] 토큰을 사용합니다.
+   >CRM의 사용자에 대한 링크를 포함하려면 [경고 정보 보내기 토큰](/help/marketo/product-docs/email-marketing/general/using-tokens/use-the-send-alert-info-token.md)을 사용합니다.
 
    >[!CAUTION]
    >
@@ -40,7 +40,7 @@ ht-degree: 0%
    >
    >또한, 이름이 같은 두 사람이 자동으로 같은 사람임을 의미하지는 않습니다.
 
-1. 예약 탭에서 **캠페인을** 활성화합니다.
+1. **예약** 탭에서 캠페인을 활성화합니다.
 
    ![](assets/image2017-3-27-8-3a24-3a37.png)
 
