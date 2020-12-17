@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# 할당 규칙에 개인 파티션 지정 {#assigning-person-partitions-with-assignment-rules}
+# 할당 규칙 {#assigning-person-partitions-with-assignment-rules}에 개인 파티션 할당
 
 >[!NOTE]
 >
@@ -35,7 +35,7 @@ ht-degree: 0%
 
 ![](assets/image2014-9-17-10-3a32-3a55.png)
 
-1. **People 파티션 ** 탭에서 할당 **규칙을 클릭합니다**.
+1. **People 파티션 ** 탭에서 **할당 규칙**&#x200B;을 클릭합니다.
 
    ![](assets/two-6.png)
 
