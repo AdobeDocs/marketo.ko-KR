@@ -19,21 +19,21 @@ ht-degree: 0%
 
 이 옵션을 통해 Marketing은 프로그램 멤버십과 상태를 Salesforce 캠페인과 동기화하거나 그 반대의 경우도 마찬가지입니다.
 
-1. **Admin으로 이동, **Salesforce를 **클릭합니다.**
+1. **Admin으로 이동하고 ****Salesforce.**
 
    ** ![](assets/image2014-12-9-13-3a36-3a49.png)
 
    **
 
-1. 설정 **편집을 클릭합니다**.
+1. **설정 동기화 편집**&#x200B;을 클릭합니다.
 
    ![](assets/image2014-12-9-13-3a37-3a0.png)
 
-1. Salesforce **Campaign 동기화** 활성화를 선택하고 **저장을 클릭합니다**.
+1. **Salesforce 캠페인 동기화 활성화**&#x200B;를 선택하고 **저장**&#x200B;을 클릭합니다.
 
    ![](assets/image2014-12-9-13-3a37-3a8.png)
 
-여기 있습니다. Salesforce에서 데이터를 동기화할 수 있는 시간을 절약할 수 있습니다.
+여기 있습니다. Salesforce에서 데이터를 동기화할 수 있는 시간을 주시면 됩니다.
 
 >[!MORELIKETHIS]
 >
