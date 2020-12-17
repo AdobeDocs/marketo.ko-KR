@@ -15,7 +15,7 @@ ht-degree: 0%
 
 Salesforce별 흐름 단계가 실행되면 때때로 추가 단계가 자동으로 수행됩니다. 여기 규칙이 있습니다.
 
-이 규칙은 현재 *Salesforce.com에 연락처 또는 [리드로](http://Salesforce.com)* 있지 않은 경우에 적용됩니다.
+이 규칙은 사용자가 현재 [Salesforce.com](http://Salesforce.com)*에 연락처 또는 리드로 있지 않은 경우*&#x200B;이(가) 적용됩니다.
 
 <table> 
  <thead> 
@@ -31,7 +31,7 @@ Salesforce별 흐름 단계가 실행되면 때때로 추가 단계가 자동으
   </tr> 
   <tr> 
    <td>SFDC 캠페인의 상태 변경</td> 
-   <td>SFDCA에<br>사람 동기화SFDC 캠페인에 추가</td> 
+   <td>SFDC<br>SFDC 캠페인에 사람 동기화</td> 
   </tr> 
   <tr> 
    <td>소유자 변경</td> 
@@ -48,8 +48,8 @@ Salesforce별 흐름 단계가 실행되면 때때로 추가 단계가 자동으
  </tbody> 
 </table>
 
-연산자가 &quot;비어 있지 않음&quot;으로 설정된 **SFDC 유형** 필터를 사용하여 스마트 목록에 있는 SFDC 레코드를 필터링할 수 있습니다. 모든 SFDC 레코드에 이 필드에 값이 있습니다.
+연산자가 &quot;is not empty&quot;로 설정된 **SFDC 유형** 필터를 사용하여 스마트 목록에 있는 SFDC 레코드를 필터링할 수 있습니다. 모든 SFDC 레코드에 이 필드에 값이 있습니다.
 
-이러한 자동 작업은 리드가 현재 [Salesforce.com에 없는 경우에만 이루어집니다](http://Salesforce.com)
+이러한 자동 작업은 리드가 현재 [Salesforce.com](http://Salesforce.com)에 없는 경우에만 발생합니다.
 
 Salesforce 동기화는 수월합니다. 그렇죠?
