@@ -11,15 +11,15 @@ ht-degree: 0%
 ---
 
 
-# 대기 {#wait}
+# {#wait} 대기
 
 ## 개요 {#overview}
 
-간편한 **대기 단계를 통해 스마트한 캠페인 플로우의 사용자를 일시 중지합니다**.
+간편한 **대기 단계**&#x200B;를 사용하여 스마트 캠페인 플로우의 사람을 일시 중지합니다.
 
 ![](assets/wait-overview.png)
 
-&quot;4시간&quot;과 같이 자연어를 입력할 수 있는 방법을 확인하십시오. 그러나 단어(즉, 4시간)는 약어 하지 **마십시오**. 스마트 캠페인은 여전히 실행되지만 대기 단계는 무시됩니다.
+&quot;4시간&quot;과 같이 자연어를 입력할 수 있는 방법을 확인하십시오. 그러나 **not**&#x200B;은 단어(즉, 4시간)를 약식으로 표기합니다. 스마트 캠페인은 여전히 실행되지만 대기 단계는 무시됩니다.
 
 >[!CAUTION]
 >
@@ -27,7 +27,7 @@ ht-degree: 0%
 
 >[!TIP]
 >
->대기 단계에 이미 있는 사람이 있고 대기 기간이 끝난 후 진행하지 않으려면 대기 단계 바로 다음에 흐름에서 [제거를](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/remove-from-flow.md) 삽입합니다. 선택 항목 [추가 옵션을 사용하여 제거할 사용자를](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/use-add-choice-in-a-flow-step.md) 지정합니다.
+>대기 단계에 이미 있는 사람이 있고 대기 기간이 끝난 후 진행하기를 원하지 않는 경우 대기 단계 바로 뒤에 [흐름](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/remove-from-flow.md)에서 제거를 삽입합니다. [추가 선택](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/use-add-choice-in-a-flow-step.md) 옵션을 사용하여 제거할 사용자를 지정합니다.
 
 ## 사용량 {#usage}
 
