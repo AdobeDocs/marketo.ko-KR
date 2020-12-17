@@ -20,7 +20,7 @@ ht-degree: 0%
 
    ![이미지 원](/help/sky/assets/engagement-programs/rename-a-stream/rename-a-stream-1.png)
 
-1. 탭을 **[!UICONTROL Streams]** 클릭합니다.
+1. **[!UICONTROL Streams]** 탭을 클릭합니다.
 
    ![이미지 2](/help/sky/assets/engagement-programs/rename-a-stream/rename-a-stream-2.png)
 
@@ -32,6 +32,6 @@ ht-degree: 0%
 
    ![이미지 4](/help/sky/assets/engagement-programs/rename-a-stream/rename-a-stream-4.png)
 
-그게 다야! 이제 스트림 이름을 변경하는 방법을 알 수 있습니다.
+바로 그거야! 이제 스트림 이름을 변경하는 방법을 알 수 있습니다.
 
 ![이미지 5](/help/sky/assets/engagement-programs/rename-a-stream/rename-a-stream-5.png)
