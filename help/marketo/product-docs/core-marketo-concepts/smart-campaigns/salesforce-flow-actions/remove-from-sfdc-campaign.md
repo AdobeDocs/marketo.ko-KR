@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# SFDC 캠페인에서 제거 {#remove-from-sfdc-campaign}
+# SFDC 캠페인 {#remove-from-sfdc-campaign}에서 제거
 
 >[!NOTE]
 >
@@ -19,7 +19,7 @@ ht-degree: 0%
 
 ## 개요 {#overview}
 
-SFDC Campaign [에서 SFDC](add-to-sfdc-campaign.md)캠페인 및 [상태](change-status-in-sfdc-campaign.md)변경을 추가할 수 있는 것처럼 Salesforce 캠페인에서 인물 또는 리드를 제거할 수도 있습니다.
+[SFDC 캠페인](add-to-sfdc-campaign.md)및 [SFDC 캠페인의 상태 변경](change-status-in-sfdc-campaign.md)을 수행할 수 있는 것처럼 Salesforce 캠페인에서 인물 또는 리드를 제거할 수도 있습니다.
 
 ![](assets/image2014-9-22-15-3a54-3a34.png)
 
