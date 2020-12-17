@@ -14,12 +14,12 @@ ht-degree: 0%
 
 <br> 
 
-다음은 프로그램 및 캠페인 폴더에서 사용할 리치 텍스트 토큰을 설정하는 방법입니다.
+다음은 프로그램 및 캠페인 폴더에 사용할 리치 텍스트 토큰을 설정하는 방법입니다.
 
 1. 프로그램 또는 폴더의 [!UICONTROL My Tokens] 탭에서 **리치 텍스트** 토큰을 [!UICONTROL Local Tokens] 캔버스로 드래그합니다.
 
    ![이미지 원](/help/sky/assets/my-tokens/my-token-rich-text/my-token-rich-text-1.png)
 
-1. 새 토큰의 이름을 입력한 다음 편집기에서 원하는 텍스트를 추가합니다. 을 **[!UICONTROL Save]**&#x200B;클릭합니다.
+1. 새 토큰의 이름을 입력한 다음 편집기에 원하는 텍스트를 추가합니다. **[!UICONTROL Save]**&#x200B;을 클릭합니다.
 
    ![이미지 2](/help/sky/assets/my-tokens/my-token-rich-text/my-token-rich-text-2.png)
