@@ -11,9 +11,9 @@ ht-degree: 0%
 ---
 
 
-# 이메일에 달력 이벤트(.ics) 포함 {#include-a-calendar-event-ics-in-an-email}
+# 이메일 {#include-a-calendar-event-ics-in-an-email}에 달력 이벤트(.ics) 포함
 
-달력 파일 토큰을 사용하면 달력 이벤트(.ics) 링크를 마케팅 이메일에 추가할 수 있습니다.
+달력 파일 토큰을 사용하면 마케팅 이메일에 달력 이벤트(.ics) 링크를 추가할 수 있습니다.
 
 >[!PREREQUISITES]
 >
@@ -27,7 +27,7 @@ ht-degree: 0%
 
 ![](assets/one-6.png)
 
-1. 달력 파일 토큰을 선택하고 삽입을 **클릭합니다**.
+1. 달력 파일 토큰을 선택하고 **삽입**&#x200B;을 클릭합니다.
 
    ![](assets/image2014-9-11-16-3a53-3a30.png)
 
@@ -39,4 +39,4 @@ ht-degree: 0%
 
    ![](assets/image2014-9-11-16-3a53-3a48.png)
 
-임무 완료!
+임무 완수!
