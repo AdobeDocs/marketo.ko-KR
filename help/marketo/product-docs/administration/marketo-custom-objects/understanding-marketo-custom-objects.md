@@ -43,9 +43,9 @@ ht-degree: 0%
 >
 >사용자 정의 개체를 복원할 수 없으므로 삭제하기 전에 더 이상 필요하지 않은지 확인하십시오.
 
-## Marketing To 사용자 지정 개체에 액세스 {#accessing-marketo-custom-objects}
+## Marketing 사용자 지정 개체 액세스 {#accessing-marketo-custom-objects}
 
-1. Marketing to 사용자 지정 개체를 만들거나 편집하려면 **Admin **을 클릭한 다음 Marketing to **사용자 지정**&#x200B;개체 링크를 클릭합니다.
+1. Marketing 사용자 지정 개체를 만들거나 편집하려면 **Admin **을 클릭한 다음 **Marketing To 사용자 지정 개체** s 링크를 클릭합니다.
 
    ![](assets/image2016-5-18-16-3a59-3a30.png)
 
@@ -63,11 +63,11 @@ ht-degree: 0%
 
    ![](assets/image2016-6-10-15-3a15-3a29.png)
 
-## 개인에 연결된 사용자 정의 객체 보기 {#view-custom-objects-associated-to-a-person}
+## 사람 {#view-custom-objects-associated-to-a-person}에 연결된 사용자 지정 개체 보기
 
 사용자 지정 객체 구조를 만든 후 특정 사용자 지정 객체 데이터를 업로드하면 사용자 지정 객체의 링크 필드를 사용하여 사용자 지정 객체가 데이터베이스의 사용자와 자동으로 연결됩니다. 개인 정보 페이지의 사용자 지정 객체 탭에서 정보를 볼 수 있습니다.
 
-1. 데이터베이스로 **이동합니다**.
+1. **데이터베이스**&#x200B;로 이동합니다.
 
    ![](assets/db.png)
 
@@ -75,7 +75,7 @@ ht-degree: 0%
 
    ![](assets/five.png)
 
-1. 개인 세부 사항 페이지에서 사용자 정의 **개체** 탭을 클릭합니다. 드롭다운에서 객체를 선택합니다.
+1. 사람 세부 사항 페이지에서 **사용자 지정 개체** 탭을 클릭합니다. 드롭다운에서 객체를 선택합니다.
 
    ![](assets/six.png)
 
@@ -83,7 +83,7 @@ ht-degree: 0%
 
    ![](assets/seven.png)
 
-## 회사와 사용자 지정 개체 사용 {#using-custom-objects-with-companies}
+## 회사 {#using-custom-objects-with-companies}에서 사용자 지정 개체 사용
 
 CRM에서 회사를 동기화하거나 API를 사용하여 회사를 명시적으로 생성하는 경우 회사에 연결된 사용자 지정 개체가 가장 잘 작동합니다. 또한 회사 ID를 링크 필드로 사용하는 것이 좋습니다.
 
@@ -91,7 +91,7 @@ CRM 또는 마케팅 전용 레코드에 있는 Marketing To에 사용자가 여
 
 사용자 지정 개체는 단일 레코드에만 직접 연결할 수 있습니다. 즉, 사용자 지정 개체 유형이 회사 필드에 의해 연결되어 있는 경우, Marketing의 REST API를 사용하여 회사를 관리하는 경우, CRM에서 연락처 변환을 사용하거나 externalCompanyId 필드를 사용하여 개인 레코드가 회사와 연결되어 있는지 확인해야 합니다. 회사 레코드에 명시적으로 연결되어 있지 않은 개인 레코드의 경우 회사 필드의 값이 여러 사람에게 공유되더라도 회사를 사용하여 연결된 사용자 지정 객체는 무작위로 단일 레코드에 연결됩니다.
 
-자세한 [내용은 사용자 지정 개체](import-custom-object-data.md) 데이터 가져오기를 참조하십시오.
+자세한 내용은 [사용자 지정 개체 데이터 가져오기](import-custom-object-data.md)를 참조하십시오.
 
 >[!MORELIKETHIS]
 >
