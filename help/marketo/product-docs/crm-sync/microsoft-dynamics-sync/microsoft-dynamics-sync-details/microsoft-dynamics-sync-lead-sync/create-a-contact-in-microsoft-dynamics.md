@@ -1,6 +1,6 @@
 ---
 unique-page-id: 10095389
-description: Microsoft Dynamics에서 연락처 만들기 - Marketing Docs - 제품 설명서
+description: Microsoft Dynamics - Marketing Docs - 제품 문서에서 연락처 만들기
 title: Microsoft Dynamics에서 연락처 만들기
 translation-type: tm+mt
 source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
@@ -11,29 +11,29 @@ ht-degree: 0%
 ---
 
 
-# Microsoft Dynamics에서 연락처 만들기 {#create-a-contact-in-microsoft-dynamics}
+# Microsoft Dynamics {#create-a-contact-in-microsoft-dynamics}에서 연락처 만들기
 
-1. Dynamics에서 연락처로 만들 Marketing 전용 사람(Microsoft 유형은 비어 있음)을 선택합니다.
+1. Dynamics에서 연락처로 만들 마케팅 전용(Microsoft 유형이 비어 있음)을 선택합니다.
 
    ![](assets/one.png)
 
-1. [ **개인 작업]**&#x200B;및&#x200B;**Microsoft를** 클릭하고 **[** Microsoft에 사람 동기화]를 선택합니다.
+1. **사람 작업**&#x200B;및&#x200B;**Microsoft**&#x200B;을 클릭하고 **Microsoft**&#x200B;에 사람 동기화를 선택합니다.
 
    ![](assets/two.png)
 
-1. [다른 **이름으로** 동기화]를 클릭하고 [ **연락처]를 선택합니다**. 지금 **실행을 클릭합니다**.
+1. **다른 이름으로 동기화**&#x200B;를 클릭하고 **연락처**&#x200B;를 선택합니다. **지금 실행**&#x200B;을 클릭합니다.
 
    ![](assets/three.png)
 
    >[!NOTE]
    >
-   >&quot;사람과 Microsoft 동기화&quot; 플로우 동작(트리거 캠페인에만 해당)을 사용하는 경우 리드/연락처가 Dynamics에서 실시간으로 생성됩니다.
+   >&quot;Microsoft에 사람 동기화&quot; 흐름 작업을 사용하는 경우(트리거 캠페인에서만) 리드/연락처가 Dynamics에서 실시간으로 만들어집니다.
 
-1. Marketing to는 Dynamics의 특정 계정에 연결되지 않은 연락처에 Dynamics의 리드 레코드를 검증합니다.
+1. Dynamics의 리드 레코드가 Dynamics의 모든 계정에 연결되지 않은 연락처에 있는 경우 Marketing Cloud의 리드 레코드를 검증합니다.
 
    ![](assets/image2015-10-23-9-3a43-3a33.png)
 
-1. 이제 스마트 캠페인 필터에서 **다른 이름으로** 동기화 제한을 사용하는 경우 연락처를 선택할 수 있습니다.
+1. 이제 스마트 캠페인 필터에서 [다음으로 동기화] 제약 조건을 사용할 때 **연락처**&#x200B;를 선택할 수 있습니다.
 
    ![](assets/five.png)
 
