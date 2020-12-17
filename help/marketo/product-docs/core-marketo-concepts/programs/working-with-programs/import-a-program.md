@@ -11,40 +11,40 @@ ht-degree: 0%
 ---
 
 
-# 프로그램 가져오기 {#import-a-program}
+# 프로그램 {#import-a-program} 가져오기
 
 하나의 Marketing Cloud 구독에서 다른 Marketing Cloud 구독으로 프로그램을 가져올 수 있습니다. 예를 들어 샌드박스에서 프로그램을 만든 다음 라이브 구독으로 가져올 수 있습니다. 또한 Marketing To 프로그램 라이브러리에서 미리 작성된 프로그램을 가져올 수도 있습니다.
 
-## 프로그램 가져오기 {#import-a-program-1}
+## 프로그램 {#import-a-program-1} 가져오기
 
-1. 마케팅 활동 **으로 이동합니다.**
+1. **마케팅 활동**&#x200B;으로 이동합니다.
 
    ![](assets/ma.png)
 
-1. **새로 만들기 **드롭다운을 클릭합니다. 프로그램 **가져오기를 선택합니다**.
+1. **새로 만들기 **드롭다운을 클릭합니다. **프로그램 가져오기**&#x200B;를 선택합니다.
 
    ![](assets/image2014-9-17-12-3a15-3a4.png)
 
    >[!NOTE]
    >
-   >프로그램 가져오기는 프로그램 가져오기 권한이 활성화된 역할이 있는 사용자만 사용할 수 있습니다. 사용자 역할 및 권한 [관리에 대해 자세히 알아보십시오](../../../../product-docs/administration/users-and-roles/managing-user-roles-and-permissions.md).
+   >프로그램 가져오기는 프로그램 가져오기 권한이 활성화된 역할이 있는 사용자만 사용할 수 있습니다. [사용자 역할 및 권한 관리](../../../../product-docs/administration/users-and-roles/managing-user-roles-and-permissions.md)에 대해 자세히 알아보십시오.
    >
    >
-   >샌드박스 계정을 라이브 구독에 연결하려면 Marketing [To 지원에 문의하십시오](http://www.marketo.com/services/support/).
+   >샌드박스 계정을 라이브 구독에 연결하려면 [Marketing Support](http://www.marketo.com/services/support/)에 문의하십시오.
 
-1. Marketing To **구독** 및 가져올 프로그램을 선택합니다. 다음을 **클릭합니다**.
+1. Marketing **Subscription** 및 가져올 프로그램을 선택합니다. **다음**&#x200B;을 클릭합니다.
 
    ![](assets/image2014-9-17-12-3a20-3a13.png)
 
-1. 가져온 **프로그램의** 캠페인 폴더를 지정합니다. 다음을 **클릭합니다.**
+1. 가져온 프로그램에 대해 **캠페인 폴더**&#x200B;를 지정합니다. **다음.**&#x200B;을 클릭합니다.
 
    ![](assets/image2014-9-17-12-3a20-3a44.png)
 
    >[!NOTE]
    >
-   >반드시** ****기본 충돌** 규칙 사용이 선택되어 있는지 확인합니다. 동일한 이름의 에셋이 있는 인스턴스로 프로그램을 가져오는 경우 충돌 규칙이 필요합니다.
+   >기본 충돌 사용&#x200B;**규칙이 선택되어 있는지 확인합니다******. 동일한 이름의 에셋이 있는 인스턴스로 프로그램을 가져오는 경우 충돌 규칙이 필요합니다.
 
-1. 세부 사항을 미리 보고 **프로그램을** 가져옵니다.
+1. 미리 보기 세부 사항 및 **프로그램 가져오기**.
 
    ![](assets/image2014-9-17-12-3a21-3a36.png)
 
@@ -58,7 +58,7 @@ ht-degree: 0%
 >
 >가져온 배치 캠페인을 다시 예약하고 트리거 캠페인을 활성화해야 합니다. 시스템은 캠페인 일정을 자동으로 비활성화하고 가져온 프로그램에서 캠페인을 트리거합니다.
 
-## Marketing To 프로그램 라이브러리에서 사전 빌드된 프로그램 식별 {#identify-pre-built-programs-in-the-marketo-program-library}
+## 마케팅 프로그램 라이브러리 {#identify-pre-built-programs-in-the-marketo-program-library}에서 사전 빌드된 프로그램 식별
 
 Marketing To 프로그램 라이브러리에는 구독으로 가져올 수 있는 미리 만들어진 테스트된 프로그램이 포함되어 있습니다. 사용 가능한 프로그램에는 다음이 포함됩니다.
 
@@ -77,7 +77,7 @@ Marketing To 프로그램 라이브러리에는 구독으로 가져올 수 있�
 1. **새 사람을 CRM에 동기화합니다.** 새 사람을 CRM 시스템에 동기화하는 캠페인입니다. 그것은 판매 준비가 되지 않은 것으로 인식되는 개인 상태를 할당합니다.
 1. **이벤트 어댑터가 있는 웨비나.** 초대 및 미리 알림과 같은 모든 이메일과 프로그램을 통해 사용자를 이동할 수 있는 양식 및 캠페인이 포함된 랜딩 페이지를 포함할 수 있습니다. 이 프로그램은 등록, 참석 등에 대한 업데이트를 가져옵니다. WebEx와 같은 온라인 이벤트 제공업체를 통해 데이터를 전송할 수 있습니다.
 1. **이벤트 어댑터 없는 웨비나.** 위와 동일하지만 등록, 참석 등을 위한 수동 프로세스를 사용할 수 있습니다.
-1. **시리우스 결정 채점 프로그램**. 이 프로그램은 암묵적이고 명시적인 점수 지정 규칙 및 머릿 처리된 개인 지정을 포함하여 표준 Sirius Decision Scoring Model을 지원하도록 구축되었습니다. 자세한 [내용은 이](http://docs.marketo.com/display/docs/assets/sirius-decisions-scoring-program-overview.pdf)PDF를 참조하십시오.
+1. **시리우스 결정 채점 프로그램**. 이 프로그램은 암묵적이고 명시적인 점수 지정 규칙 및 머릿 처리된 개인 지정을 포함하여 표준 Sirius Decision Scoring Model을 지원하도록 구축되었습니다. 자세한 내용은 [이 PDF](http://docs.marketo.com/display/docs/assets/sirius-decisions-scoring-program-overview.pdf)를 참조하십시오.
 
 >[!CAUTION]
 >
@@ -103,7 +103,7 @@ Marketing To 프로그램 라이브러리에는 구독으로 가져올 수 있�
 
 >[!CAUTION]
 >
->프로그램을 가져올 때 [동적 컨텐츠가 포함된 랜딩 페이지](http://docs.marketo.com/x/yRAt) /이메일을 건너뜁니다.
+>프로그램을 가져올 때 [동적 컨텐츠](http://docs.marketo.com/x/yRAt)가 포함된 랜딩 페이지/이메일은 건너뜁니다.
 
 ## 비디오 보기 {#watch-a-video}
 
