@@ -20,10 +20,10 @@ ht-degree: 0%
 
    ![이미지 원](/help/sky/assets/program-schedule-view/delete-an-entry-in-program-schedule-view/delete-an-entry-in-program-schedule-view-1.png)
 
-1. 왼쪽 상단에 있는 휴지통 아이콘을 클릭합니다.
+1. 왼쪽 상단 모서리의 휴지통 아이콘을 클릭합니다.
 
    ![이미지 2](/help/sky/assets/program-schedule-view/delete-an-entry-in-program-schedule-view/delete-an-entry-in-program-schedule-view-2.png)
 
-1. 항목을 **[!UICONTROL Confirm]** 삭제하려면 클릭합니다.
+1. **[!UICONTROL Confirm]**&#x200B;을 클릭하여 항목을 삭제합니다.
 
    ![이미지 3](/help/sky/assets/program-schedule-view/delete-an-entry-in-program-schedule-view/delete-an-entry-in-program-schedule-view-3.png)
