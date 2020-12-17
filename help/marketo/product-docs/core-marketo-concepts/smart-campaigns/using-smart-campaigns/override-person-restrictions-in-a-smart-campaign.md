@@ -11,15 +11,15 @@ ht-degree: 0%
 ---
 
 
-# 스마트 캠페인에서 개인 제한 무시 {#override-person-restrictions-in-a-smart-campaign}
+# 스마트 캠페인 {#override-person-restrictions-in-a-smart-campaign}의 개인 제한 무시
 
-Marketing을 사용하면 스마트 캠페인을 사용할 수 있는 최대* *사람 수를 설정할 수 있습니다.이로 인해 실수로 전체 데이터베이스를 이메일로 전송하지 않아도 됩니다. 이 제한 *을* 무시하려면 다음 방법을 사용하십시오.
+Marketing을 사용하면 스마트 캠페인을 사용할 수 있는 최대* *사람 수를 설정할 수 있습니다.이로 인해 실수로 전체 데이터베이스를 이메일로 전송하지 않아도 됩니다. *이 제한*&#x200B;을 무시하려면 다음 방법을 사용하십시오.
 
 >[!PREREQUISITES]
 >
->Marketing to [Admin에서 스마트 캠페인에 대한 개인](../../../../product-docs/administration/email-setup/enable-person-restrictions-for-smart-campaigns.md) 제한을 활성화해야 합니다.
+>Marketing To Admin에서 스마트 캠페인[에 대한 사용자 제한 사항을 활성화해야 합니다.](../../../../product-docs/administration/email-setup/enable-person-restrictions-for-smart-campaigns.md)
 
-1. 마케팅 활동에서** **스마트 캠페인으로 이동하고 예약을 **클릭합니다**.
+1. 마케팅 활동에서 사용자** **스마트 캠페인으로 이동하고 **예약**&#x200B;을 클릭합니다.
 
    ![](assets/one.png)
 
@@ -30,7 +30,7 @@ Marketing을 사용하면 스마트 캠페인을 사용할 수 있는 최대* *�
    >
    >기본 제한은 관리에서 설정된 것입니다.
 
-1. 새 제한을 입력한 다음 저장을 **클릭합니다.**
+1. 새 제한을 입력한 다음 **저장을 클릭합니다.**
 
    ![](assets/three.png)
 
