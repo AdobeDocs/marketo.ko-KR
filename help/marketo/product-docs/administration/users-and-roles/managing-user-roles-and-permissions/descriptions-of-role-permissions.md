@@ -23,11 +23,11 @@ ht-degree: 0%
 
 ## 사용 가능한 권한 {#available-permissions}
 
-역할을 [만들거나 편집할](../../../../product-docs/administration/users-and-roles/managing-user-roles-and-permissions.md)때 적절한 상자를 선택하여 해당 역할에 대해 허용할 다음 권한을 선택할 수 있습니다.
+[역할](../../../../product-docs/administration/users-and-roles/managing-user-roles-and-permissions.md)을 만들거나 편집할 때 적절한 상자를 선택하여 해당 역할을 허용할 다음 권한 중 하나를 선택할 수 있습니다.
 
 ![](assets/createnewrole.png)
 
-## 액세스 관리자  {#access-admin}
+## 액세스 관리자 {#access-admin}
 
 관리자의 내 계정 섹션에서 설정을 보고 변경합니다.
 
@@ -35,8 +35,8 @@ ht-degree: 0%
 * 액세스 채널 - 다른 사용자 지정 태그가 아닌 채널 태그를 수정하기 위한 액세스 권한만 사용자에게 제공합니다.
 * 통신 제한 액세스 - 사용자에게는 관리에서 통신 제한을 활성화할 수 있는 액세스 권한을 제공합니다.
 * CRM 액세스 - Salesforce 또는 Microsoft Dynamics와 같은 CRM에 대한 액세스 권한을 Admin에서 부여할 수 있습니다.
-* Access [Data.com](http://Data.com) - 사용자에게 Data.com 흐름 작업에 대한 액세스 권한을 제공합니다.
-* 액세스 이메일 관리자 - 가입 해지 및 브랜딩 도메인과 같은 기본 설정을 변경할 수 있도록 사용자에게 이메일 관리자에게 제공합니다.
+* [Data.com](http://Data.com) 액세스 - 사용자에게 Data.com 흐름 작업에 대한 액세스 권한을 제공합니다.
+* 액세스 이메일 관리자 - 가입 해지 및 브랜딩 도메인과 같은 기본 설정을 변경할 수 있는 이메일 관리자에게 제공합니다.
 * 액세스 이벤트 파트너 - 관리에서 LaunchPoint에 대한 액세스 권한을 사용자에게 제공합니다.
 * 액세스 필드 관리 - 관리자의 필드 관리에 대한 액세스 권한을 사용자에게 제공합니다.
 * 액세스 파일 업로드 - Design Studio에 이미지와 파일을 업로드할 수 있는 기능을 제공합니다.
@@ -59,9 +59,9 @@ ht-degree: 0%
 * 액세스 웹후크 - 세부 사항 및 응답 매핑을 설정하는 데 필요한 Webhook에 사용자를 제공합니다.
 * 액세스 작업 영역 및 분할 영역 - 관리에서 작업 영역 및 분할 영역을 생성, 편집 및 삭제할 수 있는 액세스 권한을 사용자에게 제공합니다.
 
-## 액세스 API  {#access-api}
+## 액세스 API {#access-api}
 
-아래 나열된 개별 API에 대한 **API** 전용 **** 역할액세스 권한을 사용자에게 제공합니다.
+아래 나열된 개별 API에 대한 **API만** **역할** 액세스 권한을 가진 사용자에게 제공합니다.
 
 * 자산 승인
 * 캠페인 실행
@@ -94,13 +94,13 @@ ht-degree: 0%
 * 보고서 삭제 - 선택 취소는 사용자가 보고서를 삭제할 수 있는 기능을 제거합니다.
 * Analytics 데이터 내보내기 - 검사 취소를 사용하면 Analytics 데이터를 내보낼 수 있는 사용자의 기능이 제거됩니다.
 
-## 달력 Presentations 액세스 {#access-calendar-presentations}
+## 달력 Presentations {#access-calendar-presentations} 액세스
 
 사용자에게 달력 프레젠테이션?? 액세스 제공 - 맨 아래에 Presentations 단추를 표시할 수 있습니까?
 
 * 달력 Presentations 편집 - 사용자가 달력에서 프레젠테이션을 편집할 수 있도록 설정
 
-## Design Studio 액세스 {#access-design-studio}
+## Design Studio {#access-design-studio} 액세스
 
 사용자에게 Design Studio 탭과 트리 보기에 대한 액세스 권한을 제공하지만 세부 사항은 제공하지 않습니다.
 
@@ -108,10 +108,10 @@ ht-degree: 0%
 
    * 이메일 편집 - 사용자에게 이메일 편집, 만들기 및 복제 권한을 제공합니다.
 
-      * 이메일 작동 - 사용자에게 이메일을 사용할 수 있는 권한을 제공합니다. 참조: [이메일 작동](../../../../product-docs/email-marketing/general/functions-in-the-editor/make-an-email-operational.md)
+      * 이메일 작동 - 사용자에게 이메일을 사용할 수 있는 권한을 제공합니다. 참조:[전자 메일 작동](../../../../product-docs/email-marketing/general/functions-in-the-editor/make-an-email-operational.md)
    * 이메일 승인 - 사용자가 이메일을 승인할 수 있도록 해줍니다.
    * 이메일 삭제 - 사용자가 이메일을 삭제할 수 있습니다.
-   * 브랜드 도메인 설정 - 사용자가 브랜딩 도메인으로 작업할 수 있도록 합니다. 참조: [여러 브랜딩 도메인 추가](http://docs.marketo.com/display/docs/add+multiple+branding+domains)
+   * 브랜드 도메인 설정 - 사용자가 브랜딩 도메인으로 작업할 수 있도록 합니다. 참조:[여러 브랜딩 도메인 추가](http://docs.marketo.com/display/docs/add+multiple+branding+domains)
 
 
 * 이메일 템플릿 액세스
@@ -154,7 +154,7 @@ ht-degree: 0%
    * 소셜 앱 삭제
    * 소셜 앱 편집
 
-## 데이터베이스 액세스 {#access-database}
+## 데이터베이스 {#access-database} 액세스
 
 데이터베이스를 보고 스마트/정적 목록을 보고 편집할 수 있습니다.
 
@@ -172,7 +172,7 @@ ht-degree: 0%
 * 사용자 지정 개체 가져오기
 * 목록 가져오기
 * 사람 병합
-* 단일 흐름 작업 실행 - 사용자가 데이터베이스의 **사용자에 대해 데이터 값** 변경 플로우 단계를 실행할 수 있습니다.
+* 단일 흐름 작업 실행 - 사용자가 데이터베이스의 사용자에 대해 **데이터 값 변경** 흐름 단계를 실행할 수 있도록 합니다.
 
 * 기회 데이터 보기 - 개인 세부 정보 페이지에서 기회 정보를 숨깁니다.
 
