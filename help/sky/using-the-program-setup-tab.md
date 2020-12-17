@@ -14,7 +14,7 @@ ht-degree: 0%
 
 <br> 
 
-프로그램 [!UICONTROL Setup] 탭에서 채널을 선택하고, 태그 및 기간 비용을 추가하고, 설정을 변경할 수 있습니다.
+프로그램의 [!UICONTROL Setup] 탭에서 채널을 선택하고 태그 및 기간 비용을 추가하고 설정을 변경할 수 있습니다.
 
 ![이미지 원](/help/sky/assets/programs/using-the-program-setup-tab/using-the-program-setup-tab-1.png)
 
@@ -30,11 +30,11 @@ ht-degree: 0%
 
 ## 태그 추가
 
-1. 섹션 [!UICONTROL Tags] 아래에서 **[!UICONTROL Attribute]** 드롭다운을 클릭하고 사용 가능한 옵션에서 태그 속성을 선택합니다.
+1. [!UICONTROL Tags] 섹션에서 **[!UICONTROL Attribute]** 드롭다운을 클릭하고 사용 가능한 옵션에서 태그 속성을 선택합니다.
 
    ![이미지 3](/help/sky/assets/programs/using-the-program-setup-tab/using-the-program-setup-tab-3.png)
 
-1. 드롭다운을 **[!UICONTROL Value]** 클릭하고 사용 가능한 옵션에서 태그 값을 선택합니다. 을 **[!UICONTROL Add]**&#x200B;클릭합니다.
+1. **[!UICONTROL Value]** 드롭다운을 클릭하고 사용 가능한 옵션에서 태그 값을 선택합니다. **[!UICONTROL Add]**&#x200B;을 클릭합니다.
 
    ![이미지 4](/help/sky/assets/programs/using-the-program-setup-tab/using-the-program-setup-tab-4.png)
 
@@ -44,11 +44,11 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->Marketing To Classic에서 프로그램 태그를 [만들고 드롭다운에서](https://docs.marketo.com/display/public/DOCS/Create+a+New+Program+Tag+and+Tag+Values) 사용할 수 있도록 하는 방법을 알아봅니다.
+>Marketing To Classic[에서 프로그램 태그를 만들고 드롭다운에서 해당 태그를 사용할 수 있도록 하는 방법을 알아봅니다.](https://docs.marketo.com/display/public/DOCS/Create+a+New+Program+Tag+and+Tag+Values)
 
 ## 기간 비용 추가
 
-1. 섹션에서 월을 [!UICONTROL Period Costs] 선택하고 비용을 입력한 다음 간단한 이름이나 설명을 추가합니다. 을 **[!UICONTROL Add]**&#x200B;클릭합니다.
+1. [!UICONTROL Period Costs] 섹션에서 월을 선택하고 비용을 입력한 다음 짧은 이름 또는 설명을 추가합니다. **[!UICONTROL Add]**&#x200B;을 클릭합니다.
 
    ![이미지 6](/help/sky/assets/programs/using-the-program-setup-tab/using-the-program-setup-tab-6.png)
 
@@ -58,6 +58,6 @@ ht-degree: 0%
 
 ## 설정 변경
 
-섹션에서 동기화할 CRM 캠페인을 선택하거나(구독에 CRM 통합이 있는 경우) 프로그램에 대한 분석 동작을 변경할 수 있습니다. [!UICONTROL Settings]
+[!UICONTROL Settings] 섹션에서 동기화할 CRM 캠페인을 선택하거나(구독에 CRM 통합이 있는 경우) 프로그램에 대한 분석 동작을 변경할 수 있습니다.
 
 ![이미지 8](/help/sky/assets/programs/using-the-program-setup-tab/using-the-program-setup-tab-8.png)
