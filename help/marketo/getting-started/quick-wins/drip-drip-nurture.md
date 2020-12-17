@@ -11,9 +11,9 @@ ht-degree: 0%
 ---
 
 
-# 드립, 드립, 배드 {#drip-drip-nurture}
+# Drip, Drip, Promote {#drip-drip-nurture}
 
-## 임무:최근 무역 박람회에 참석한 사람들을 키우세요 {#mission-nurture-the-people-who-attended-your-recent-tradeshow}
+## 임무:최근 무역 박람회에 참석한 사람({#mission-nurture-the-people-who-attended-your-recent-tradeshow})
 
 Marketing To에서 고급 교육 시스템을 손쉽게 만들 수 있습니다. 방법
 
@@ -25,51 +25,51 @@ Marketing To에서 고급 교육 시스템을 손쉽게 만들 수 있습니다.
 
 ## 1단계:참여 프로그램 만들기 {#step-create-an-engagement-program}
 
-1. 마케팅 활동 **영역으로** 이동합니다.
+1. **마케팅 활동** 영역으로 이동합니다.
 
    ![](assets/one-3.png)
 
-1. [ **학습** ] 폴더를 **선택하고 [** 새로 **만들기] 드롭다운을 클릭한 다음 [**&#x200B;새 프로그램]을 선택합니다.
+1. **학습** 폴더를 선택하고 **새로 만들기** 드롭다운을 클릭한 다음 **새 프로그램**&#x200B;을 선택합니다.
 
    ![](assets/two-4.png)
 
-1. 이름을 **입력하고** **프로그램** 유형에 대한 **참여**&#x200B;를선택합니다.
+1. **이름**&#x200B;을 입력하고 **프로그램 유형**&#x200B;에 대해 **참여**&#x200B;를 선택합니다.
 
    ![](assets/three-3.png)
 
-1. [ **채널** ] 필드가 [교육] **인지** 확인하고 [만들기 **]를**&#x200B;클릭합니다.
+1. **채널** 필드가 **Removed**&#x200B;인지 확인하고 **만들기**&#x200B;를 클릭합니다.
 
    ![](assets/four-2.png)
 
    이제 참여 프로그램을 만들었습니다.
 
-## 2단계:이메일 만들기 {#step-create-an-email}
+## 2단계:이메일 {#step-create-an-email} 만들기
 
-1. 참여 프로그램을 선택한 다음 새로 **만들기를** 클릭하고 **새 로컬 자산을 선택합니다**.
+1. 참여 프로그램을 선택한 다음 **새로 만들기**&#x200B;를 클릭하고 **새 로컬 자산**&#x200B;을 선택합니다.
 
    ![](assets/five-3.png)
 
-1. 이메일을 **클릭합니다**.
+1. **이메일**&#x200B;을 클릭합니다.
 
    ![](assets/six-3.png)
 
-1. 이름을 **입력하고**&#x200B;사용할 **템플릿** 을 선택한 다음 만들기를 **클릭합니다**.
+1. **이름**&#x200B;을 입력하고 사용할 **템플릿**&#x200B;을 선택하고 **만들기**&#x200B;를 클릭합니다.
 
    ![](assets/seven-4.png)
 
    >[!NOTE]
    >
-   >이메일 편집기가 표시되지 않습니까? 브라우저가 창을 차단했을 수 있습니다. 브라우저에서 [app.marketing.com](https://app.marketo.com) 에서 팝업을 활성화하고 상단 메뉴 모음에서 **초안** 편집을 클릭합니다.
+   >이메일 편집기가 표시되지 않습니까? 브라우저가 창을 차단했을 수 있습니다. 브라우저의 [app.markto.com](https://app.marketo.com)에서 팝업을 활성화하고 맨 위 메뉴 모음에서 **초안 편집**&#x200B;을 클릭합니다.
 
 1. 제목을 입력합니다.
 
    ![](assets/eight-2.png)
 
-1. 편집할 이메일 영역을 선택하고 톱니바퀴 아이콘을 클릭한 다음 편집을 **선택합니다**.
+1. 편집할 이메일 영역을 선택하고 톱니바퀴 아이콘을 클릭한 다음 **편집**&#x200B;을 선택합니다.
 
    ![](assets/nine-1.png)
 
-1. 이메일을 편집하고 저장을 **클릭합니다**.
+1. 이메일을 편집하고 **저장**&#x200B;을 클릭합니다.
 
    ![](assets/ten-3.png)
 
@@ -77,7 +77,7 @@ Marketing To에서 고급 교육 시스템을 손쉽게 만들 수 있습니다.
 
    ![](assets/eleven-3.png)
 
-1. 이메일 **작업**&#x200B;아래에서 승인을 **클릭합니다**.
+1. **이메일 작업**&#x200B;에서 **승인**&#x200B;을 클릭합니다.
 
    ![](assets/twelve-2.png)
 
@@ -89,11 +89,11 @@ Marketing To에서 고급 교육 시스템을 손쉽게 만들 수 있습니다.
 
    ![](assets/thirteen-2.png)
 
-## 3단계:스트림에 컨텐츠 추가 {#step-add-content-to-your-stream}
+## 3단계:스트림 {#step-add-content-to-your-stream}에 콘텐츠 추가
 
 1. 이제 만든 이메일을 사용하여 참여 프로그램에 대한 콘텐츠 스트림을 만들 차례입니다.
 
-1. 참여 프로그램을 선택하고 스트림 탭을 **클릭합니다** .
+1. 참여 프로그램을 선택하고 **Streams** 탭을 클릭합니다.
 
    ![](assets/fourteen-2.png)
 
@@ -103,11 +103,11 @@ Marketing To에서 고급 교육 시스템을 손쉽게 만들 수 있습니다.
 
    >[!TIP]
    >
-   >[내용 **추가** ] 단추 또는 스트림 **+** 아이콘을 사용할 수도 있습니다.
+   >**콘텐츠 추가** 단추 또는 스트림 **+** 아이콘을 사용할 수도 있습니다.
 
 ## 4단계:스트림 콘텐츠 활성화 {#step-activate-stream-content}
 
-1. 스트림 톱니바퀴 아이콘을 클릭하여 모든 컨텐츠를 한 번에 활성화한 다음 **모든 컨텐츠**&#x200B;활성화를 클릭합니다.
+1. 스트림 톱니바퀴 아이콘을 클릭하여 모든 콘텐츠를 한 번에 활성화한 다음 **모든 콘텐츠 활성화**&#x200B;를 클릭합니다.
 
    ![](assets/image2014-9-24-12-3a48-3a28.png)
 
@@ -117,13 +117,13 @@ Marketing To에서 고급 교육 시스템을 손쉽게 만들 수 있습니다.
 
    멋진 작품! 한 단계 더 업그레이드하면 참여 프로그램이 준비됩니다.
 
-## 5단계:스트림 패턴 설정 {#step-set-the-stream-cadence}
+## 5단계:스트림 대상 {#step-set-the-stream-cadence} 설정
 
-1. [ **스트림 대상 설정]을 클릭합니다**.
+1. **스트림 대상 설정**&#x200B;을 클릭합니다.
 
    ![](assets/seventeen.png)
 
-1. 원하는 일정에 맞게 설정을 편집하고 저장을 **클릭합니다**.
+1. 원하는 일정에 맞게 설정을 편집하고 **저장**&#x200B;을 클릭합니다.
 
    ![](assets/image2014-9-24-12-3a49-3a5.png)
 
@@ -133,9 +133,9 @@ Marketing To에서 고급 교육 시스템을 손쉽게 만들 수 있습니다.
    >
    >테스트 담당자는 고객에게 보내기 전에 참여 프로그램을 확인하여 맞는지 테스트하는 사람입니다.
 
-## 6단계:참여 프로그램에 테스트 사람 추가 {#step-add-a-test-person-to-your-engagement-program}
+## 6단계:참여 프로그램 {#step-add-a-test-person-to-your-engagement-program}에 테스트 개인 추가
 
-1. 데이터베이스 **영역으로** 이동합니다.
+1. **데이터베이스** 영역으로 이동합니다.
 
    ![](assets/nineteen-1.png)
 
@@ -151,7 +151,7 @@ Marketing To에서 고급 교육 시스템을 손쉽게 만들 수 있습니다.
 
    ![](assets/twenty-one.png)
 
-1. 프로그램 **및** 스트림 **을**&#x200B;선택한 다음 지금 **실행을**&#x200B;클릭합니다.
+1. **Program** 및 **스트림**&#x200B;을 선택한 다음 **지금 실행**&#x200B;을 클릭합니다.
 
    ![](assets/twenty-two.png)
 
@@ -161,7 +161,7 @@ Marketing To에서 고급 교육 시스템을 손쉽게 만들 수 있습니다.
 
    >[!NOTE]
    >
-   >참여 프로그램에 대한 자세한 [내용을 살펴보십시오](/help/marketo/product-docs/email-marketing/drip-nurturing/creating-an-engagement-program/understanding-engagement-programs.md).
+   >[참여 프로그램](/help/marketo/product-docs/email-marketing/drip-nurturing/creating-an-engagement-program/understanding-engagement-programs.md)에 대해 자세히 알아보십시오.
 
 <br> 
 
