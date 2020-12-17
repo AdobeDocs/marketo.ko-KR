@@ -18,13 +18,13 @@ ht-degree: 0%
 
 ## 예약 보기 찾기
 
-트리에서 프로그램을 선택합니다. 탭 아래에서 을 [!UICONTROL Details] 클릭합니다 [!UICONTROL Schedule].
+트리에서 프로그램을 선택합니다. [!UICONTROL Details] 탭에서 [!UICONTROL Schedule]을 클릭합니다.
 
 ![이미지 원](/help/sky/assets/program-schedule-view/navigating-program-schedule-view/navigating-program-schedule-view-1.png)
 
 ## 보기 변경
 
-달력을 일, 주 또는 월별로 볼 수 있습니다.
+일, 주 또는 월별로 달력을 볼 수 있습니다.
 
 ![이미지 2](/help/sky/assets/program-schedule-view/navigating-program-schedule-view/navigating-program-schedule-view-2.png)
 
@@ -34,6 +34,6 @@ ht-degree: 0%
 
 ## 설정 보기
 
-프로그램 예약 보기의 오른쪽 상단 모서리에서 아이콘을 클릭하여 항목 [!UICONTROL View Settings] 을 [!UICONTROL Tentative], [!UICONTROL Confirmed]및/또는 [!UICONTROL Finished]기준으로 필터링합니다.
+프로그램 예약 보기의 오른쪽 상단 모서리에서 [!UICONTROL View Settings]을 클릭하여 [!UICONTROL Tentative], [!UICONTROL Confirmed] 및/또는 [!UICONTROL Finished]별로 항목을 필터링합니다.
 
 ![이미지 4](/help/sky/assets/program-schedule-view/navigating-program-schedule-view/navigating-program-schedule-view-4.png)
