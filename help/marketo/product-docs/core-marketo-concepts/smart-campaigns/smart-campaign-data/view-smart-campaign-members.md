@@ -13,7 +13,7 @@ ht-degree: 0%
 
 # 스마트 캠페인 멤버 보기 {#view-smart-campaign-members}
 
-스마트 캠페인 흐름을 이미 거친 사용자를 표시합니다.스마트한 캠페인 멤버
+스마트 캠페인 흐름을 이미 거친 사용자를 봅니다.스마트한 캠페인 구성원
 
 1. 마케팅 활동으로 이동합니다.
 
@@ -27,7 +27,7 @@ ht-degree: 0%
 >
 >스마트 캠페인 내의 아무 곳에서나 캠페인 구성원을 볼 수 있습니다.
 
-1. [ **캠페인 구성원** ] 탭에는 스마트 캠페인 흐름을 이미 거친 사람이 표시됩니다.
+1. **캠페인 구성원** 탭은 스마트 캠페인 흐름을 이미 실행한 사람을 표시합니다.
 
    ![](assets/smartcampaignheader-complete.jpg)
 
@@ -37,10 +37,10 @@ ht-degree: 0%
 
    >[!NOTE]
    >
-   >**딥 다이브**
+   >**자세히 알아보기**
    >
    >
-   >목록 [으로 수행할 수 있는 작업에 대해 자세히 알아보십시오](http://docs.marketo.com/display/docs/smart+lists+and+static+lists).
+   >[lists](http://docs.marketo.com/display/docs/smart+lists+and+static+lists)로 수행할 수 있는 작업에 대해 자세히 알아보십시오.
 
    >[!NOTE]
    >
