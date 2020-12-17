@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# 작업공간에 개인 파티션 지정 {#assign-person-partitions-to-workspaces}
+# 작업 영역 {#assign-person-partitions-to-workspaces}에 개인 파티션 할당
 
 개인 파티션/작업 공간 할당을 편집하는 방법은 다음과 같습니다.
 
@@ -25,13 +25,13 @@ ht-degree: 0%
 
 >[!CAUTION]
 >
->작업 공간과 개인 파티션은 복잡할 수 있습니다. 설정에 [대한 도움이 필요하면 Marketing](http://support.marketo.com/) 지원 센터에 문의하십시오.
+>작업 공간과 개인 파티션은 복잡할 수 있습니다. 설정에 대한 도움이 필요하면 [Marketing 지원](http://support.marketo.com/)에 문의하십시오.
 
 1. 관리에서 작업 영역 및 파티션을 클릭합니다.
 
 ![](assets/image2014-9-17-11-3a13-3a24.png)
 
-1. 작업 영역을 선택하고 작업 공간 **편집을 클릭합니다**.
+1. 작업 영역을 선택하고 **작업 영역 편집**&#x200B;을 클릭합니다.
 
    ![](assets/two-3.png)
 
@@ -43,9 +43,9 @@ ht-degree: 0%
 
    ![](assets/three-3.png)
 
-   1차 개인 분할 영역은 모든 국민이 입력되는 기본 영역입니다. 흐름 [단계](../../../product-docs/core-marketo-concepts/smart-campaigns/flow-actions/use-add-choice-in-a-flow-step.md) 또는 [할당 규칙을](assigning-person-partitions-with-assignment-rules.md) 사용하여 사람들을 이동시킬 수 있습니다.
+   1차 개인 분할 영역은 모든 국민이 입력되는 기본 영역입니다. 다른 사람을 이동하려면 [흐름 단계](../../../product-docs/core-marketo-concepts/smart-campaigns/flow-actions/use-add-choice-in-a-flow-step.md) 또는 [할당 규칙](assigning-person-partitions-with-assignment-rules.md)을 사용합니다.
 
-1. 저장을 **클릭합니다**.
+1. **저장**&#x200B;을 클릭합니다.
 
    ![](assets/four-3.png)
 
