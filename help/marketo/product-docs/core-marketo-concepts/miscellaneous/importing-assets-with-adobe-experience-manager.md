@@ -1,7 +1,7 @@
 ---
 unique-page-id: 37355768
-description: Adobe Experience Manager을 사용하여 자산 가져오기 - Marketing Docs - 제품 설명서
-title: Adobe Experience Manager에서 자산 가져오기
+description: Adobe Experience Manager을 사용하여 자산 가져오기 - Marketing To Docs - 제품 설명서
+title: Adobe Experience Manager으로 자산 가져오기
 translation-type: tm+mt
 source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
@@ -11,9 +11,9 @@ ht-degree: 0%
 ---
 
 
-# Adobe Experience Manager에서 자산 가져오기 {#importing-assets-with-adobe-experience-manager}
+# Adobe Experience Manager {#importing-assets-with-adobe-experience-manager}을(를) 사용하여 자산 가져오기
 
-자산 선택기를 사용하면 Marketing to 고객이 AEM 에셋을 액세스, 선택 및 Marketing의 Design Studio로 가져올 수 있습니다. **관리자 권한이 필요합니다**.
+자산 선택기를 사용하면 Marketing 고객이 AEM 자산을 액세스, 선택 및 Marketing의 Design Studio로 가져올 수 있습니다. **관리자 권한이 필요합니다**.
 
 >[!NOTE]
 >
@@ -23,17 +23,17 @@ ht-degree: 0%
 
 >[!PREREQUISITES]
 >
->이미 [AEM 구성을 수행했는지 확인하십시오](https://docs.marketo.com/x/FwPLAQ).
+>[AEM Configuration](https://docs.marketo.com/x/FwPLAQ)을 이미 수행했는지 확인하십시오.
 
 >[!CAUTION]
 >
->현재 이 기능은 Firefox에서만 완전히 지원됩니다. Safari에서는 지원되지 않으며 SameSite 쿠키 설정에 따라 최신 버전의 Chrome(v. 80)에서는 작동하지 않을 수 있습니다.
+>현재 이 기능은 Firefox에서만 완전히 지원됩니다. Safari에서는 지원되지 않으며 SameSite 쿠키 설정에 따라 최신 버전의 Chrome(v. 80)에서 작동하지 않을 수 있습니다.
 
-1. 디자인 **스튜디오를 클릭합니다**.
+1. **Design Studio**&#x200B;를 클릭합니다.
 
    ![](assets/one-1.png)
 
-1. 새로 만들기 드롭다운을 클릭하고 Adobe Experience Manager에서 **가져오기를 선택합니다**.
+1. 새로 만들기 드롭다운을 클릭하고 **Adobe Experience Manager에서 가져오기**&#x200B;를 선택합니다.
 
    ![](assets/two-1.png)
 
@@ -41,23 +41,23 @@ ht-degree: 0%
 
    ![](assets/three-1.png)
 
-1. Adobe Experience Manager에 로그인합니다(아직 설치하지 않은 경우).
+1. Adobe Experience Manager에 로그인합니다(아직 없는 경우).
 
    ![](assets/four-1.png)
 
-1. 폴더를 선택하십시오. 축소판을 클릭하여 원하는 이미지를 선택합니다(최대 10개 선택 가능). 완료되면 **선택을** 클릭합니다.
+1. 폴더를 선택합니다. 축소판을 클릭하여 원하는 이미지를 선택합니다(최대 10개의 이미지를 선택할 수 있음). 완료되면 **선택**&#x200B;을 클릭합니다.
 
    ![](assets/five.png)
 
    >[!NOTE]
    >
-   >이미지는 100MB를 초과할 수 없습니다.
+   >이미지 크기는 100MB를 초과할 수 없습니다.
 
-1. 가져오기를 **클릭하여** 프로세스를 완료합니다.
+1. **가져오기**&#x200B;를 클릭하여 프로세스를 완료합니다.
 
    ![](assets/six-1.png)
 
-   그게 다야! 닫기를 **클릭하여** Design Studio로 돌아갑니다.
+   바로 그거야! **닫기**&#x200B;를 클릭하여 디자인 스튜디오로 돌아갑니다.
 
    ![](assets/seven-1.png)
 
@@ -65,6 +65,6 @@ ht-degree: 0%
 
 Marketing은 현재 Adobe Experience Manager 버전 6.4 및 6.5를 지원합니다.
 
-인스턴스에 있는 모든 사용자는 가져온 이미지를 보거나 액세스할 수 있습니다.
+인스턴스의 모든 사용자는 가져온 이미지를 보거나 액세스할 수 있습니다.
 
-이미지는 자동으로 업데이트되지 않습니다. Marketing Design Studio로 가져온 이미지가 AEM에서 업데이트된 경우 Marketing To로 수동으로 다시 가져와야 합니다.
+이미지는 자동으로 업데이트되지 않습니다. Marketing To Design Studio로 가져온 이미지가 AEM에서 업데이트되는 경우 수동으로 Marketing To로 다시 가져와야 합니다.
