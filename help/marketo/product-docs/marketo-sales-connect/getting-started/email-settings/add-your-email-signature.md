@@ -11,27 +11,27 @@ ht-degree: 0%
 ---
 
 
-# 이메일 서명 추가 {#add-your-email-signature}
+# 전자 메일 서명 {#add-your-email-signature} 추가
 
-Adobe는 자체 이메일 클라이언트에서 이메일을 보낼 때 매끄러운 경험을 제공하기 위해 Sales Connect에서 이메일을 보내려고 합니다. 이메일 서명을 추가하는 것이 가장 좋은 방법입니다.
+자신의 이메일 클라이언트에서 이메일을 보낼 때 Sales Connect로 이메일을 보내 마치 매끄러운 경험처럼 느껴지길 바랍니다. 이메일 서명을 추가하는 것이 가장 좋습니다.
 
-1. 톱니바퀴 아이콘을 클릭하고 **설정을 선택합니다**.
+1. 톱니바퀴 아이콘을 클릭하고 **설정**&#x200B;을 선택합니다.
 
    ![](assets/add-your-email-signature-1.png)
 
-1. 내 계정에서 이메일 **설정을 선택합니다**.
+1. 내 계정에서 **이메일 설정**&#x200B;을 선택합니다.
 
    ![](assets/add-your-email-signature-2.png)
 
-1. [ **주소 및 서명** ]을 클릭하고 서명을 만들 이메일 ID를 선택합니다.
+1. **주소 및 서명**&#x200B;을 클릭하고 서명을 만들 이메일 ID를 선택합니다.
 
    ![](assets/add-your-email-signature-3.png)
 
-1. 서명 카드에서 **편집을 클릭합니다**.
+1. 서명 카드에서 **편집**&#x200B;을 클릭합니다.
 
    ![](assets/add-your-email-signature-4.png)
 
-1. 원하는 텍스트(또는 이미지)를 입력하고 **저장을 클릭합니다**.
+1. 원하는 텍스트(또는 이미지)를 입력하고 **저장**&#x200B;을 클릭합니다.
 
    ![](assets/add-your-email-signature-5.png)
 
