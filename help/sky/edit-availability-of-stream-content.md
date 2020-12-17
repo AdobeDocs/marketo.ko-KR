@@ -14,13 +14,13 @@ ht-degree: 0%
 
 <br> 
 
-컨텐츠가 스트림에서 활성화되도록 시간을 설정할 수 있습니다.
+콘텐츠가 스트림에서 활성 상태가 되도록 기간을 설정할 수 있습니다.
 
 1. 참여 프로그램을 선택합니다.
 
    ![이미지 원](/help/sky/assets/engagement-programs/edit-availability-of-stream-content/edit-availability-of-stream-content-1.png)
 
-1. 탭을 **[!UICONTROL Streams]** 클릭합니다.
+1. **[!UICONTROL Streams]** 탭을 클릭합니다.
 
    ![이미지 2](/help/sky/assets/engagement-programs/edit-availability-of-stream-content/edit-availability-of-stream-content-2.png)
 
@@ -28,22 +28,22 @@ ht-degree: 0%
 
    ![이미지 3](/help/sky/assets/engagement-programs/edit-availability-of-stream-content/edit-availability-of-stream-content-3.png)
 
-1. 선택합니다 **[!UICONTROL Edit Availability]**.
+1. **[!UICONTROL Edit Availability]**&#x200B;을 선택합니다.
 
    ![이미지 4](/help/sky/assets/engagement-programs/edit-availability-of-stream-content/edit-availability-of-stream-content-4.png)
 
-1. 날짜와 [!UICONTROL Active From] 날짜를 [!UICONTROL Active Through] 선택합니다.
+1. [!UICONTROL Active From] 날짜와 [!UICONTROL Active Through] 날짜를 선택합니다.
 
    ![이미지 5](/help/sky/assets/engagement-programs/edit-availability-of-stream-content/edit-availability-of-stream-content-5.png)
 
-1. 을 **[!UICONTROL Save]**&#x200B;클릭합니다.
+1. **[!UICONTROL Save]**&#x200B;을 클릭합니다.
 
    ![이미지 6](/help/sky/assets/engagement-programs/edit-availability-of-stream-content/edit-availability-of-stream-content-6.png)
 
 >[!TIP]
 >
->컨텐츠를 영구적으로 사용할 수 있도록 하려면 [!UICONTROL Active Through] 비워 둘 수 있습니다.
+>[!UICONTROL Active Through]을(를) 비워두면 컨텐츠를 영구적으로 사용할 수 있습니다.
 
-완벽해! 예약된 컨텐츠 옆에 시계 아이콘이 표시됩니다. 설정한 일정에 따라 활성화되고 비활성화됩니다.
+완벽해! 예약된 컨텐츠 옆에 시계 아이콘이 표시됩니다. 설정한 일정에 따라 활성화되고 비활성 상태가 됩니다.
 
 ![이미지 7](/help/sky/assets/engagement-programs/edit-availability-of-stream-content/edit-availability-of-stream-content-7.png)
