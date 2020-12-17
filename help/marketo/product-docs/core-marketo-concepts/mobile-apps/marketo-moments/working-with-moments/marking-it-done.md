@@ -1,6 +1,6 @@
 ---
 unique-page-id: 8783557
-description: 완료 표시 - Marketing Docs - 제품 설명서
+description: 완료 표시 - 마케팅 문서 - 제품 설명서
 title: 완료 표시
 translation-type: tm+mt
 source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
@@ -13,13 +13,13 @@ ht-degree: 0%
 
 # 완료 표시 {#marking-it-done}
 
-스트림에서 이메일 프로그램, 이벤트 또는 분석 카드를 [완료]로 표시하여 제거합니다. 두 가지 방법이 있습니다.
+이메일 프로그램, 이벤트 또는 분석 카드를 완료를 선택하여 스트림에서 제거합니다. 두 가지 방법이 있다.
 
 1. 작업 메뉴를 누릅니다.
 
    ![](assets/image2015-7-14-17-3a32-3a35.png)
 
-1. 완료를 **누릅니다**.
+1. **완료**&#x200B;를 누릅니다.
 
    ![](assets/image2015-7-14-17-3a36-3a31.png)
 
