@@ -13,25 +13,25 @@ ht-degree: 0%
 
 # 릴리스 노트:2013년 7월 {#release-notes-july}
 
-7월 26일 금요일에 롤아웃할 예정인 7월 릴리스에 다음 기능이 포함되어 있습니다.  기능을 사용할 수 있는지 [Marketing](http://docs.marketo.com/display/docs/assets/pricing.php) Edition을 확인하십시오.
+7월 26일 금요일에 롤아웃할 예정인 7월 릴리스에 다음 기능이 포함되어 있습니다.  기능을 사용할 수 있는지 확인하려면 [Marketing Edition](http://docs.marketo.com/display/docs/assets/pricing.php)을(를) 확인하십시오.
 
-릴리스 후 커뮤니티에서 [새로운 릴리스](release-notes-december-2013.md) 탭에서 각 기능에 대한 자세한 도움말 문서를 확인하십시오.
+릴리스 후 각 기능에 대한 자세한 도움말 문서를 보려면 커뮤니티의 [새 릴리스](release-notes-december-2013.md) 탭을 확인하십시오!
 
-## 대시보드의 지친 컨텐츠 위젯 {#exhausted-content-widget-on-the-dashboard}
+## 대시보드 {#exhausted-content-widget-on-the-dashboard}의 완료된 컨텐츠 위젯
 
-리드가 스트림 내의 컨텐츠를 언제 소모할지 정보를 제공합니다. 또한 소진된 컨텐츠에 도달하기 위해 잠재 고객 수 또는 리드가 소진된 기간에 대한 정보를 제공합니다.
+리드가 스트림 내의 컨텐츠를 언제 소모할지 정보를 제공합니다. 시스템에서 이용 가능한 리드 수 또는 리드가 소진된 기간에 대한 정보를 제공합니다.
 
 ![](assets/image2014-9-22-16-3a30-3a50.png)
 
 ## 통신 제한 {#communication-limits}
 
-리드의 이메일 전송을 중지하시겠습니까? 이제 각 개인별로 빈도를 자동으로 제한할 수 있습니다. 하루 또는 매주 통화할 수 있는 한도만 정하면 나머지는 자동으로 처리된다. Select, Enterprise 및 Standard 고객을 위한 Add-On 패키지에서 사용할 수 있습니다.
+리드의 이메일 전송을 중지하시겠습니까? 이제 각 개인에게 주기를 자동으로 제한할 수 있습니다. 하루 또는 매주 통화할 수 있는 한도만 정하면 나머지 비용은 자동으로 정해진다. Select, Enterprise 및 Standard 고객을 위한 Add-On 패키지에서 사용할 수 있습니다.
 
 ![](assets/image2014-9-22-16-3a31-3a13.png)
 
-## 코발트 사용자 인터페이스 {#cobalt-user-interface}
+## 사용자 인터페이스 {#cobalt-user-interface}
 
-앞으로 몇 달 동안 애플리케이션의 다양한 부분에서 새로운 테마가 점차 증가하고 있습니다. 이동 또는 제거되는 기능은 없습니다.
+향후 몇 개월 동안 애플리케이션의 다양한 부분에서 새로운 테마가 계속 추가될 예정입니다. 이동 또는 제거되는 기능이 없습니다.
 
 ![](assets/image2014-9-22-16-3a31-3a42.png)
 
@@ -41,7 +41,7 @@ ht-degree: 0%
 
 ![](assets/image2014-9-22-16-3a32-3a1.png)
 
-## WYSIWYG 편집기에서 맞춤법 검사 변경 {#changes-to-spell-check-in-wysiwyg-editor}
+## WYSIWYG 편집기에서 맞춤법 검사 변경 사항 {#changes-to-spell-check-in-wysiwyg-editor}
 
-WYSIWYG 편집자가 맞춤법 검사를 위해 사용한 서비스가 중단되었습니다. 대체를 찾을 때까지 편집기에서 맞춤법 검사 단추를 제거했습니다.
+맞춤법 검사를 위해 WYSIWYG 편집기에서 사용한 서비스가 중단되었습니다. 대체를 찾을 때까지 편집기에서 맞춤법 검사 단추를 제거했습니다.
 
