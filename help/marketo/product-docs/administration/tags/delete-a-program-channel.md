@@ -11,17 +11,17 @@ ht-degree: 0%
 ---
 
 
-# 프로그램 채널 삭제 {#delete-a-program-channel}
+# 프로그램 채널 {#delete-a-program-channel} 삭제
 
-프로그램 채널은 프로그램에서 진행해야 하는 상태 또는 체크포인트 모음입니다.
+프로그램 채널은 프로그램에서 수행해야 하는 상태 또는 체크포인트 모음입니다.
 
 실수로 만들거나 더 이상 필요하지 않은 경우 삭제할 수 있습니다.
 
-1. ** 관리* 섹션으로 이동합니다.
+1. Admin** 섹션으로 이동합니다**.
 
    ![](assets/image2014-9-24-16-3a6-3a41.png)
 
-1. 태그를 **클릭합니다**.
+1. **태그**&#x200B;를 클릭합니다.
 
    ![](assets/image2014-9-24-16-3a7-3a33.png)
 
@@ -33,7 +33,7 @@ ht-degree: 0%
 
    ![](assets/image2014-9-24-16-3a10-3a59.png)
 
-밤! 채널에서 특정 상태를 [삭제할 수도 있습니다](delete-a-program-status-from-a-program-channel.md).
+밤! 채널[에서 특정 상태를 삭제할 수도 있습니다.](delete-a-program-status-from-a-program-channel.md)
 
 >[!MORELIKETHIS]
 >
