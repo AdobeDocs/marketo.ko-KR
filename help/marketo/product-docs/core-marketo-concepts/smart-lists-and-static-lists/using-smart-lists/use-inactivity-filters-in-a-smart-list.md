@@ -1,6 +1,6 @@
 ---
 unique-page-id: 7511477
-description: 스마트 목록에서 비활동 필터 사용 - Marketing To Docs - 제품 설명서
+description: 스마트 목록에서 비활동 필터 사용 - 마케팅 문서 - 제품 설명서
 title: 스마트 목록에서 비활동 필터 사용
 translation-type: tm+mt
 source-git-commit: 00887ea53e395bea3a11fd28e0ac98b085ef6ed8
@@ -11,11 +11,11 @@ ht-degree: 0%
 ---
 
 
-# 스마트 목록에서 비활동 필터 사용 {#use-inactivity-filters-in-a-smart-list}
+# 스마트 목록 {#use-inactivity-filters-in-a-smart-list}에 비활동 필터 사용
 
-스마트 리스트에서 뭘 *안* 한 사람을 찾을 수 있다는 걸 알고 있었니? 이러한 비활동 필터를 확인하십시오.
+*뭔가 하지 않은 스마트 목록에 있는 사람을 찾을 수 있다는 것을 알고 계십니까?* 이러한 비활동 필터를 확인하십시오.
 
-1. 마케팅 활동 **으로 이동합니다**.
+1. **마케팅 활동**&#x200B;으로 이동합니다.
 
    ![](assets/login-marketing-activities-3.png)
 
@@ -29,11 +29,11 @@ ht-degree: 0%
 
    >[!TIP]
    >
-   >비활동 필터 폴더에는 많은 **필터가** 있습니다. Not **을** 검색하여 확인하십시오.
+   >**비활동 필터** 폴더에 많은 필터가 있습니다. **Not**&#x200B;을(를) 검색하고 확인합니다.
 
-1. 모든 연산자 **를** 선택합니다. 이렇게 하면 지난 30일 동안 어떤 페이지도 방문하지 않은 모든 사람들이 검색됩니다.
+1. **이(가)** 연산자입니다. 이렇게 하면 지난 30일 동안 페이지를 방문하지 않은 모든 사람이 표시됩니다.
 
    ![](assets/mysmartlist-people.jpg)
 
-   그렇게 쉽지 않았나요?
+   그렇게 쉽지 않았어?
 
