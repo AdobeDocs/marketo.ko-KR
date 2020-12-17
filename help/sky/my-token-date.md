@@ -20,6 +20,6 @@ ht-degree: 0%
 
    ![이미지 원](/help/sky/assets/my-tokens/my-token-date/my-token-date-1.jpg)
 
-1. 날짜 토큰의 이름을 입력하고 달력에서 날짜를 선택합니다. 을 **[!UICONTROL Save]**&#x200B;클릭합니다.
+1. 날짜 토큰의 이름을 입력하고 달력에서 날짜를 선택합니다. **[!UICONTROL Save]**&#x200B;을 클릭합니다.
 
    ![이미지 2](/help/sky/assets/my-tokens/my-token-date/my-token-date-2.jpg)
