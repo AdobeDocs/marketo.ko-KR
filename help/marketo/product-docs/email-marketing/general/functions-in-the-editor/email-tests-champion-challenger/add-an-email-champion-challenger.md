@@ -1,6 +1,6 @@
 ---
 unique-page-id: 2359553
-description: 이메일 챔피언/도전자(Challenger) 추가 - 마케팅 문서 - 제품 설명서
+description: 이메일 챔피언/도전자 - 마케팅 문서 - 제품 설명서 추가
 title: 이메일 챔피언/도전자 추가
 translation-type: tm+mt
 source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
@@ -11,11 +11,11 @@ ht-degree: 0%
 ---
 
 
-# 이메일 챔피언/도전자 추가 {#add-an-email-champion-challenger}
+# 이메일 챔피언/챌린저 {#add-an-email-champion-challenger} 추가
 
-자주 사용하는 모든 이메일을 테스트하여 이메일 사용 여부를 확인하는 것이 좋습니다. 한 가지 방법은 이메일의 효과를 다른 버전 또는 다른 도전자와 비교하는 것입니다. 챔피언/도전자 테스트에서 전체 이메일, 제목 줄 또는 보낸 사람 주소를 테스트할 수 있습니다.\
-테스트하고 있는 기존 이메일이 챔피언으로 간주됩니다. 테스트 내에서 만드는 모든 변형이 도전자로 간주됩니다. 챔피언 콘텐츠 또는 도전자 콘텐트를 받는 사람들의 백분율을 결정합니다. 여러 도전자를 정의한 경우 도전자 그룹 간에 균등하게 배포됩니다.\
-시작하기
+자주 사용하는 이메일을 테스트하여 이메일 작동이 되는지 확인하는 것이 좋습니다. 한 가지 방법은 이메일의 효과를 다른 버전 또는 도전자와 비교하는 것입니다. 챔피언/도전자 테스트에서 전체 이메일, 제목 줄 또는 보낸 사람 주소를 테스트할 수 있습니다.\
+테스트하고 있는 기존 이메일은 챔피언으로 간주됩니다. 테스트 내에서 만드는 모든 변형은 도전자로 간주됩니다. 챔피언 컨텐츠 또는 도전자 컨텐츠를 받는 사람들의 백분율을 결정합니다. 여러 개의 도전자를 정의한 경우 도전자 그룹 간에 균일하게 배포됩니다.\
+시작하는 방법은 다음과 같습니다.
 
 >[!PREREQUISITES]
 >
@@ -28,9 +28,9 @@ ht-degree: 0%
 
 >[!CAUTION]
 >
->챔피언/도전자 이메일은 트리거 캠페인 및 참여 프로그램 스트림에서만 작동합니다. 일괄 분류의 경우 이메일 프로그램의 [A/B 테스트 기능을 사용합니다](../../../../../product-docs/email-marketing/email-programs/email-program-actions/email-test-a-b-test/add-an-a-b-test.md).
+>챔피언/도전자 이메일은 트리거 캠페인 및 참여 프로그램 스트림에서만 작동합니다. 일괄 처리 메일에 대해서는 이메일 프로그램의 [A/B 테스트 기능](../../../../../product-docs/email-marketing/email-programs/email-program-actions/email-test-a-b-test/add-an-a-b-test.md)을 사용합니다.
 
-1. 마케팅 활동 **으로 이동합니다**.
+1. **마케팅 활동**&#x200B;으로 이동합니다.
 
    ![](assets/login-marketing-activities.png)
 
@@ -40,12 +40,12 @@ ht-degree: 0%
 
    >[!NOTE]
    >
-   >**딥 다이브**
+   >**자세히 알아보기**
    >
    >
-   >일회성 메일 폭발을 위한 [이메일 프로그램에 대한 자세한 내용을 살펴보십시오](http://docs.marketo.com/display/docs/email+programs).
+   >1회 메일 폭발의 경우 [이메일 프로그램](http://docs.marketo.com/display/docs/email+programs)에 대해 자세히 알아보십시오.
 
-1. 이메일 **작업**&#x200B;아래에서 **새 테스트를 클릭합니다**.
+1. **이메일 작업**&#x200B;에서 **새 테스트**&#x200B;를 클릭합니다.
 
    ![](assets/chmapion2.jpg)
 
