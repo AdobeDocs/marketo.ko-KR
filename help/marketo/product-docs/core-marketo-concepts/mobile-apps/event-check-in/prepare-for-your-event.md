@@ -11,23 +11,23 @@ ht-degree: 0%
 ---
 
 
-# 이벤트 준비 {#prepare-for-your-event}
+# 이벤트 {#prepare-for-your-event} 준비
 
 이벤트를 준비하는 데 몇 가지 해야 할 일이 있습니다.
 
 ## 새 마케팅 역할 만들기 {#create-a-new-marketo-role}
 
-Marketing에는 이벤트 체크인 앱에 대한 특수 사용자 역할이 있습니다.  [모바일 응용 프로그램에 액세스할 수 있는 권한을 사용하여 iPad 또는 Android 사용자를 위한 새 Marketing](https://docs.marketo.com/display/DOCS/Grant+User+Access+to+the+Check-in+App) 역할을 만듭니다.
+Marketing에는 이벤트 체크인 앱에 대한 특수 사용자 역할이 있습니다.  [모바일 응용 프로그램에 ](https://docs.marketo.com/display/DOCS/Grant+User+Access+to+the+Check-in+App) 액세스할 수 있는 권한을 사용하여 iPad 또는 Android 사용자를 위한 새 Marketing To Roleave를 만듭니다.
 
-## 이벤트에 새 태블릿 사용자 초대 {#invite-new-tablet-users-to-the-event}
+## 새 태블릿 사용자를 이벤트 {#invite-new-tablet-users-to-the-event}에 초대
 
-[새 태블릿 사용자를 이벤트에](https://docs.marketo.com/display/DOCS/Grant+User+Access+to+the+Check-in+App) 초대하고 새 역할을 할당합니다.
+[새 태블릿 사용자를 이벤트에 ](https://docs.marketo.com/display/DOCS/Grant+User+Access+to+the+Check-in+App) 초대하고 새 역할을 할당합니다.
 
-## 새 마케팅 이벤트 프로그램 만들기 {#create-a-new-marketo-event-program}
+## 새 마케팅 이벤트 프로그램 {#create-a-new-marketo-event-program} 만들기
 
-[새로운 Marketing To 이벤트 프로그램을](/help/marketo/product-docs/demand-generation/events/understanding-events/create-a-new-event-program.md) 만들어 다양한 단계를 거쳐 진행 중인 사람들의 상태를 포착하고 마케팅 이니셔티브에 대한 ROI를 정확하게 측정할 수 있습니다.
+[새로운 Marketing 이벤트 프로그램](/help/marketo/product-docs/demand-generation/events/understanding-events/create-a-new-event-program.md) 을 만들어 다양한 단계를 거쳐 진행 중인 사람들의 상태를 캡처하고 마케팅 이니셔티브에 대한 ROI를 정확하게 측정할 수 있습니다.
 
-## 이벤트 날짜 지정 {#specify-the-event-dates}
+## 이벤트 날짜 {#specify-the-event-dates} 지정
 
 이벤트 날짜를 설정하는 단축키입니다.
 
@@ -35,7 +35,7 @@ Marketing에는 이벤트 체크인 앱에 대한 특수 사용자 역할이 있
 
    ![](assets/image2016-4-6-15-3a27-3a35.png)
 
-1. 미정자를 확정됨 **으로** 변경하려면 **밀어서 넘어갑니다**.
+1. **미정**&#x200B;을(를) **확정**&#x200B;으로 변경하려면 밀어서 이동합니다.
 
    ![](assets/image2016-4-6-15-3a30-3a57.png)
 
@@ -45,29 +45,29 @@ Marketing에는 이벤트 체크인 앱에 대한 특수 사용자 역할이 있
 
 ## 이벤트에 사람 추가 {#add-people-to-your-event}
 
-이제 정확한 *시기를*&#x200B;알고 있으므로 **&#x200B;누구를누구로 지정할 차례다.
+이제 *when*&#x200B;을 알고 있으므로 *who*&#x200B;를 추가할 때입니다.
 
-1. 이미 사람 목록이 있는 경우 [내 마케팅]에서 [ **데이터베이스** ] 타일을 클릭합니다.
+1. 이미 사람 목록이 있는 경우 내 마켓에서 **데이터베이스** 타일을 클릭합니다.
 
    ![](assets/db.png)
 
-1. 사람이 있는 목록을 선택하고 [사람] 탭을 **클릭합니다** .
+1. 사람이 있는 목록을 선택하고 **사람** 탭을 클릭합니다.
 
    ![](assets/four.png)
 
-1. 목록에서 이벤트의 사람을 선택합니다. Ctrl ******(또는 Mac의** Command **)를 사용하여 여러 사람을 클릭하거나 [모두** 를 선택하여모든 사람을 표시합니다.
+1. 목록에서 이벤트의 사람을 선택합니다. **Ctrl**(또는 Mac의 **Command**)을 사용하여 여러 사람을 클릭하거나, **모두 선택**&#x200B;을 사용하여 모든 사람을 표시합니다.
 
    ![](assets/five.png)
 
-1. 사람 **작업**&#x200B;을 클릭하고 프로그램 **을** 마우스로 가리키고 프로그램 상태 **변경을 선택합니다**.
+1. **사람 작업**&#x200B;을 클릭하고 **프로그램** 위로 마우스를 가져간 다음 **프로그램 상태 변경**&#x200B;을 선택합니다.
 
    ![](assets/six.png)
 
-1. 프로그램 **** 드롭다운 목록을 클릭하고 이벤트를 선택합니다.
+1. **프로그램** 드롭다운 목록을 클릭하고 이벤트를 선택합니다.
 
    ![](assets/seven.png)
 
-1. New **Status** 드롭다운을 클릭하고 **Roadshow > Registered를 선택합니다**. 지금 **실행을 클릭합니다**.
+1. **새 상태** 드롭다운을 클릭하고 **로드쇼 > 등록됨**&#x200B;을 선택합니다. **지금 실행**&#x200B;을 클릭합니다.
 
    ![](assets/eight.png)
 
