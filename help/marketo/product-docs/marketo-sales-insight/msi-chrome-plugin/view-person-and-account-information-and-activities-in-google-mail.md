@@ -11,9 +11,9 @@ ht-degree: 0%
 ---
 
 
-# Google Mail에서 개인 및 계정 정보 및 활동 보기 {#view-person-and-account-information-and-activities-in-google-mail}
+# Google Mail {#view-person-and-account-information-and-activities-in-google-mail}에서 개인 및 계정 정보 및 활동 보기
 
-## Google Mail에서 활동 보기 {#view-activities-in-google-mail}
+## Google Mail {#view-activities-in-google-mail}에서 활동 보기
 
 컨텍스트 기반의 Marketing To Insights 창을 사용하여 계정 정보 및 최근 활동을 확인할 수 있습니다.
 
