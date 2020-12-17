@@ -11,11 +11,11 @@ ht-degree: 0%
 ---
 
 
-# 프로그램 보고서에 프로그램 상태 열 추가 {#add-program-status-columns-to-a-program-report}
+# 프로그램 보고서 {#add-program-status-columns-to-a-program-report}에 프로그램 상태 열 추가
 
-프로그램 상태에 대한 통계를 [프로그램 성과 보고서에 추가합니다](create-a-program-performance-report.md).
+프로그램 상태에 대한 통계를 [프로그램 성과 보고서](create-a-program-performance-report.md)에 추가합니다.
 
-1. 마케팅 활동(또는 분석)으로 이동합니다.
+1. 마케팅 활동(또는 Analytics)으로 이동합니다.
 
    ![](assets/login-marketing-activities-2.png)
 
@@ -33,19 +33,19 @@ ht-degree: 0%
 
    >[!TIP]
    >
-   >프로그램 상태 열을 표시하려면 보고서를 *하나의* 채널로 필터링해야 합니다.
+   >프로그램 상태 열을 표시하려면 보고서를 하나의&#x200B;*채널로 필터링해야 합니다.*
 
 1. 프로그램 상태 열 표시 옵션을 선택합니다. 적용을 클릭합니다.
 
    ![](assets/image2014-9-23-16-3a26-3a53.png)
 
-1. 네가 해냈어! 보고서 탭을 클릭하여 프로그램 상태 열이 있는 보고서를 봅니다.
+1. 당신이 해냈다! 보고서 탭을 클릭하여 프로그램 상태 열이 있는 보고서를 봅니다.
 
    ![](assets/programreport.jpg)
 
 >[!NOTE]
 >
->프로그램의 각 상태에 대한 열이 표시되지 않으면 보고서에 표시할 열을 [선택했는지](../../../../product-docs/reporting/basic-reporting/editing-reports/select-report-columns.md) 확인하십시오.
+>프로그램의 각 상태에 대한 열이 표시되지 않는 경우 보고서에 [표시할 열을 선택했는지 확인하십시오](../../../../product-docs/reporting/basic-reporting/editing-reports/select-report-columns.md).
 
 >[!MORELIKETHIS]
 >
@@ -57,7 +57,7 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->**딥 다이브**
+>**자세히 알아보기**
 >
->기본 보고의 자세한 [내용을 살펴보십시오](http://docs.marketo.com/display/docs/basic+reporting).
+>[기본 보고](http://docs.marketo.com/display/docs/basic+reporting)에서 자세히 알아보십시오.
 
