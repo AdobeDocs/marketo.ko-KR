@@ -17,29 +17,29 @@ ht-degree: 0%
 
 ![](assets/photo-collage.png)
 
-마케팅 계정 기반 마케팅이란 무엇입니까?
+Marketing To 계정 기반 마케팅이란 무엇입니까?
 
-Marketing To 계정 기반 마케팅은 영업 및 마케팅 팀을 통합하여 주요 고객을 고도로 조율한 방식으로 타깃팅하고 참여시킬 수 있도록 함으로써 계정 중심의 전략, 실행 및 성공 간의 격차를 해소하며 단일 플랫폼 내에서 모두 해결할 수 있습니다.
+Marketing To Account Based Marketing을 사용하면 세일즈 팀과 마케팅 팀이 협력하여 주요 고객을 타깃팅하고 고도로 조정된 방식으로 고객 중심의 전략, 실행 및 성공 간의 격차를 해소함으로써 단일 플랫폼 내에서 모두 해결할 수 있습니다.
 
 Marketing To 계정 기반 마케팅을 사용하는 이유는 무엇입니까?
 
-Marketing to는 하나의 솔루션에서 ABM과 리드 관리 기능을 통합하여 마케터는 하나의 모션으로 고객과 리드 모두에 대한 개인화된 캠페인을 손쉽게 실행할 수 있습니다. 또한 주요 의사 결정권자에 도달하고 영향력 행사자를 처리하는 것도 도움이 됩니다.
+마케터는 하나의 솔루션에서 ABM과 리드 관리를 통합하여 하나의 모션으로 고객과 리드 모두에 대해 개인화된 캠페인을 손쉽게 실행할 수 있습니다. 또한 주요 의사 결정자에게 도달하고 영향력 행사자를 거래를 함으로써 많은 이점을 얻을 수 있습니다.
 
-Marketing ABM은 다음 세 가지 구성 요소로 구성됩니다.
+Marketing ABM은 다음 3가지 구성 요소로 구성됩니다.
 
-**1) [Target](http://docs.marketo.com/display/docs/target)**
+**1)  [Target](http://docs.marketo.com/display/docs/target)**
 
 * 계정 검색
 * 리드-계정 일치
 * 지정된 계정 목록
 
-**2) [참여](http://docs.marketo.com/display/docs/engage)**
+**2)  [참여](http://docs.marketo.com/display/docs/engage)**
 
 * 계정 기반 개인화
 * 크로스채널 참여
 * 계정별 워크플로우
 
-**3) [조치](http://docs.marketo.com/display/docs/measure)**
+**3)  [조치](http://docs.marketo.com/display/docs/measure)**
 
 * 계정 및 목록 수준 인사이트
 * 계정 참여 점수
@@ -51,14 +51,14 @@ Marketing To Account Based Marketing은 다양한 채널에서 지정된 계정 
 * 웹 [개인화](http://docs.marketo.com/display/DOCS/Account-Based+Web+Marketing)
 * URL [개인화](http://docs.marketo.com/display/DOCS/Enable+Personalized+URLs+for+Your+Account)
 * 광고 [개인화](http://docs.marketo.com/display/DOCS/Create+a+Custom+Audience+in+Facebook)
-* [개인화된](http://docs.marketo.com/display/DOCS/Website+Retargeting) 리마케팅
+* [개인화된 ](http://docs.marketo.com/display/DOCS/Website+Retargeting) 리마케팅
 
 나 안에 있어! 시작하려면 어떻게 해야 합니까?
 
-절대 묻지 않을 줄 알았어 ABM은 Marketing To 구독에 대한 추가 기능으로 사용할 수 있으므로 해당 영업 담당자에게 연락하여 구현해 주십시오. 일단 구입하면 이 문서를 확인하십시오. [ABM](getting-started-with-abm.md)시작하기
+물어보지 않을 줄 알았어! ABM은 Marketing To 구독에 대한 추가 기능으로 사용할 수 있으므로 해당 영업 담당자에게 문의하여 구현하도록 하십시오. 이 문서를 받으면 다음 문서를 확인하십시오.[ABM 시작하기](getting-started-with-abm.md).
 
 >[!NOTE]
 >
->Marketing ABM에서 관리되는 네임드 계정은 웹 개인화에 필요한 경우 웹 ABM에서 직접 액세스할 수 있습니다. 자세한 [내용](http://docs.marketo.com/display/public/DOCS/Account-Based+Web+Marketing+with+ABM).
+>Marketing ABM에서 관리되는 명명 계정은 웹 개인화에 필요한 경우 웹 ABM에서 직접 액세스할 수 있습니다. [여기](http://docs.marketo.com/display/public/DOCS/Account-Based+Web+Marketing+with+ABM)에 대해 자세히 알아보십시오.
 
-Marketing To ABM에 오신 것을 환영합니다. 타깃팅된 마케팅을 경험해 보십시오!
+Marketing To ABM에 오신 것을 환영합니다. 타깃팅된 마케팅을 즐겨보세요!
