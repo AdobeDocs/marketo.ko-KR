@@ -37,5 +37,5 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->CRM에서 사용자를 제거하면 **Salesforce에서만 작동합니다**. Marketing에서 사용자를 삭제하고 Salesforce에 유지하도록 선택하면 Salesforce 레코드가 업데이트되면 Marketing Cloud에서 다시 생성됩니다.
+>CRM **에서 인물을 제거하면 Salesforce**&#x200B;에서만 작동합니다. Marketing에서 사용자를 삭제하고 Salesforce에 유지하도록 선택하면 Salesforce 레코드가 업데이트되면 Marketing Cloud에서 다시 생성됩니다.
 
