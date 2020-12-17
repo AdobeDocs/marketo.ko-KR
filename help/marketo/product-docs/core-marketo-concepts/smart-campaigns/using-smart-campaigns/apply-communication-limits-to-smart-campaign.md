@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# 스마트 캠페인에 통신 제한 적용 {#apply-communication-limits-to-smart-campaign}
+# 스마트 캠페인 {#apply-communication-limits-to-smart-campaign}에 통신 제한 적용
 
 >[!PREREQUISITES]
 >
@@ -21,11 +21,11 @@ ht-degree: 0%
 
 
 
-하루에 여러 번 또는 일주일에 너무 여러 번 이메일을 보내는 것은 좋지 않습니다, 그렇죠? 다행히도, 마케터는 도움을 줄 수 있는 통신 한계를 가지고 있다. 작업 방법
+하루에 여러 번 또는 일주일에 너무 여러 번 이메일을 보내는 것은 좋지 않아요, 그렇죠? 다행히도, 마케터는 도움을 줄 수 있는 의사 소통 한계를 가지고 있다. 작업 방식
 
 >[!NOTE]
 >
->어떤 사람이 설정된 통신 제한을 초과하면 Marketing to는 비운용 이메일을 차단합니다(운영 이메일은 항상 전송).
+>어떤 사람이 설정된 통신 제한을 초과하면 Marketing To는 비운영 이메일을 차단합니다(운영 이메일은 항상 전송).
 
 1. 스마트 캠페인에서 예약 탭을 클릭한 다음 설정 편집을 클릭합니다.
 
@@ -41,6 +41,6 @@ ht-degree: 0%
 
 >[!TIP]
 >
->이를 기본값으로 설정하려면 관리 섹션에서 [통신 제한을](../../../../product-docs/administration/email-setup/enable-communication-limits.md) 편집합니다.
+>이를 기본값으로 설정하려면 관리 섹션에서 [통신 제한](../../../../product-docs/administration/email-setup/enable-communication-limits.md)을 편집합니다.
 
 달콤해 실수로 많은 이메일을 고객에게 보내지 않아도 됩니다.
