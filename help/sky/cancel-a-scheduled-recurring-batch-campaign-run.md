@@ -18,15 +18,15 @@ ht-degree: 0%
 
 ## 전체 되풀이 취소
 
-1. 캠페인을 선택하고 탭으로 **[!UICONTROL Schedule]** 이동합니다.
+1. 캠페인을 선택하고 **[!UICONTROL Schedule]** 탭으로 이동합니다.
 
    ![이미지 원](/help/sky/assets/smart-campaigns/cancel-a-scheduled-recurring-batch-campaign-run/cancel-a-scheduled-recurring-batch-campaign-run-1.png)
 
-1. 을 **[!UICONTROL Edit Recurrence]**&#x200B;클릭합니다.
+1. **[!UICONTROL Edit Recurrence]**&#x200B;을 클릭합니다.
 
    ![이미지 2](/help/sky/assets/smart-campaigns/cancel-a-scheduled-recurring-batch-campaign-run/cancel-a-scheduled-recurring-batch-campaign-run-2.png)
 
-1. [반복]을 [없음]으로 설정하고 을 클릭합니다 **[!UICONTROL Confirm]**.
+1. [반복]을 [없음]으로 설정하고 **[!UICONTROL Confirm]**&#x200B;을 클릭합니다.
 
    ![이미지 3](/help/sky/assets/smart-campaigns/cancel-a-scheduled-recurring-batch-campaign-run/cancel-a-scheduled-recurring-batch-campaign-run-3.png)
 
@@ -36,15 +36,15 @@ ht-degree: 0%
 
 ## 단일 실행 취소
 
-1. 캠페인을 선택하고 탭으로 **[!UICONTROL Schedule]** 이동합니다.
+1. 캠페인을 선택하고 **[!UICONTROL Schedule]** 탭으로 이동합니다.
 
    ![이미지 4](/help/sky/assets/smart-campaigns/cancel-a-scheduled-recurring-batch-campaign-run/cancel-a-scheduled-recurring-batch-campaign-run-4.png)
 
-1. 을 **[!UICONTROL Scheduled Runs]**&#x200B;클릭합니다.
+1. **[!UICONTROL Scheduled Runs]**&#x200B;을 클릭합니다.
 
    ![이미지 5](/help/sky/assets/smart-campaigns/cancel-a-scheduled-recurring-batch-campaign-run/cancel-a-scheduled-recurring-batch-campaign-run-5.png)
 
-1. 취소할 단일 실행을 찾아 맨 오른쪽 **[!UICONTROL X]** 에 있는 을 클릭합니다.
+1. 취소할 단일 실행을 찾고 맨 오른쪽에 있는 **[!UICONTROL X]**&#x200B;을 클릭합니다.
 
    ![이미지 6](/help/sky/assets/smart-campaigns/cancel-a-scheduled-recurring-batch-campaign-run/cancel-a-scheduled-recurring-batch-campaign-run-6.png)
 
