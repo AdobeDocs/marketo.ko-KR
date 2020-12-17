@@ -22,4 +22,4 @@ Marketing에서는 현재 다음 브라우저를 지원합니다.
 | [Apple Safari](http://support.apple.com/downloads/#safari) | 최신 |
 | [Microsoft Edge](https://www.microsoft.com/en-us/windows/microsoft-edge) | 최신 |
 
-최상의 경험을 위해 브라우저를 **계속 업데이트하십시오**!
+최상의 경험을 위해 **브라우저를 업데이트**!
