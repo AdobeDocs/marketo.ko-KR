@@ -11,21 +11,21 @@ ht-degree: 0%
 ---
 
 
-# 프로그램 성능 보고서 만들기 {#create-a-program-performance-report}
+# 프로그램 성능 보고서 {#create-a-program-performance-report} 만들기
 
-이 보고서를 통해 프로그램의 상태를 확인하십시오.
+이 보고서를 통해 프로그램의 주요 상태를 확인할 수 있습니다.
 
-1. [프로그램에서](../../../../product-docs/reporting/basic-reporting/creating-reports/create-a-report-in-a-program.md) 보고서를 만들고 **프로그램 성능** 보고서 유형을 [선택합니다](../../../../product-docs/reporting/basic-reporting/report-types/report-type-overview.md).
-1. 보고서 **탭을** 클릭합니다.
-1. 거기 있어! 보고서에서 프로그램의 이용 현황을 확인할 수 있습니다.
+1. [프로그램에서 보고서를 만들고 ](../../../../product-docs/reporting/basic-reporting/creating-reports/create-a-report-in-a-program.md) 프로그램  **성과 보고서** [유형을 선택합니다](../../../../product-docs/reporting/basic-reporting/report-types/report-type-overview.md).
+1. **보고서** 탭을 클릭합니다.
+1. 거기 있었구나! 보고서에서 프로그램의 진행 상황을 확인할 수 있습니다.
 
    ![](assets/image2014-9-18-17-3a23-3a2.png)
 
 >[!TIP]
 >
->성공당 *비용*&#x200B;이 가장 낮은 프로그램을 찾으려면 해당 열을 기준으로 보고서 [를](../../../../product-docs/reporting/basic-reporting/editing-reports/sort-report-on-columns.md) 정렬하고 오름차순 **정렬을**&#x200B;선택합니다.
+>*성공당 비용*&#x200B;이 가장 낮은 프로그램을 찾으려면, 예를 들어 [해당 열에 보고서](../../../../product-docs/reporting/basic-reporting/editing-reports/sort-report-on-columns.md)을 정렬하고 **오름차순 정렬**&#x200B;을 선택합니다.
 
-프로그램 성능 보고서의 열에는 다음과 같은 내용이 포함됩니다.
+프로그램 성과 보고서의 열은 다음과 같습니다.
 
 <table> 
  <thead> 
@@ -41,7 +41,7 @@ ht-degree: 0%
   </tr> 
   <tr> 
    <td>새 이름</td> 
-   <td>이 프로그램에서 획득한 신규 사용자</td> 
+   <td>이 프로그램으로 획득한 신규 사용자.</td> 
   </tr> 
   <tr> 
    <td>성공</td> 
@@ -56,7 +56,7 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->**딥 다이브**
+>**자세히 알아보기**
 >
->기본 보고의 자세한 [내용을 살펴보십시오](http://docs.marketo.com/display/docs/basic+reporting).
+>[기본 보고](http://docs.marketo.com/display/docs/basic+reporting)에서 자세히 알아보십시오.
 
