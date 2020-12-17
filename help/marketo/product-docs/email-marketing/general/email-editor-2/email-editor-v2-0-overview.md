@@ -17,7 +17,7 @@ ht-degree: 0%
 
 **이메일 템플릿 선택기**
 
-새 이메일을 만들면 [이메일 템플릿 선택기로 이동합니다](email-template-picker-overview.md).
+새 이메일을 만들면 [이메일 템플릿 선택기](email-template-picker-overview.md)로 이동합니다.
 
 ![](assets/starter-templates-1.png)
 
@@ -29,19 +29,19 @@ ht-degree: 0%
 
 **모듈**
 
-편집자 오른쪽에 있는 것들을 모듈이라고 합니다. 이메일에 모듈을 [추가하는 방법을 알아봅니다](add-modules-to-your-email.md).
+편집기의 오른쪽에 있는 이러한 것들을 모듈이라고 합니다. [모듈을 이메일](add-modules-to-your-email.md)에 추가하는 방법을 알아봅니다.
 
 ![](assets/three-4.png)
 
 **텍스트 버전**
 
-이제 이메일의 HTML 버전과 텍스트 버전 간을 전환하는 것이 하단에 있는 편리한 탭에 있습니다. 이메일의 텍스트 버전 [을 편집하는 방법을 알아봅니다](../../../../product-docs/email-marketing/general/creating-an-email/edit-the-text-version-of-an-email.md).
+이제 이메일의 HTML 버전과 텍스트 버전 간을 전환하면 하단에 있는 편리한 탭에 있습니다. [이메일](../../../../product-docs/email-marketing/general/creating-an-email/edit-the-text-version-of-an-email.md)의 텍스트 버전을 편집하는 방법을 알아봅니다.
 
 ![](assets/four-3.png)
 
 **이메일 헤더**
 
-더 많은 디자인 공간을 원하십니까? 이메일 헤더는 [편집을 마친 후에 숨길 수 있습니다](../../../../product-docs/email-marketing/general/creating-an-email/edit-your-email-header.md). 이 아이콘을 클릭하면 됩니다.
+더 많은 디자인 공간을 원하십니까? 이메일 헤더는 [편집](../../../../product-docs/email-marketing/general/creating-an-email/edit-your-email-header.md)을 완료한 후 숨길 수 있습니다. 이 아이콘을 클릭하면 됩니다...
 
 ![](assets/five-4.png)
 
@@ -59,53 +59,53 @@ ht-degree: 0%
 
 ![](assets/eight-3.png)
 
-더 큰 미리 보기를 보려면 **이메일의 오른쪽** 상단에 있는 미리 보기를 클릭합니다.
+더 큰 미리 보기를 보려면 이메일의 오른쪽 상단에 있는 **미리 보기**&#x200B;를 클릭합니다.
 
 ![](assets/preview1.png)
 
-데스크톱 기본 보기..
+데스크톱 기본 보기...
 
 ![](assets/preview2.png)
 
-...모바일 디바이스에서 어떻게 보이는지 확인할 수 있습니다. 텍스트 버전도 미리 볼 수 있습니다! 오른쪽 위 **에서 초안** 편집을 클릭하면 편집을 다시 시작할 수 있습니다.
+...모바일 디바이스에서 어떻게 보이는지 확인할 수 있습니다. 텍스트 버전도 미리 볼 수 있습니다! 오른쪽 상단에서 **초안 편집**&#x200B;을 클릭하여 편집을 다시 시작합니다.
 
 [![](assets/preview3.png)](../../../../product-docs/demand-generation/images-and-files/grab-the-images-from-a-web-page.md)
 
 **이메일 작업**
 
-이메일 **작업**&#x200B;아래에서 몇 가지 새로운 기능을 확인할 수 있습니다. **이미지 또는 파일**&#x200B;업로드 및 **웹에서 이미지**&#x200B;가져오기 이메일 자체를 새 이메일 템플릿으로 저장할 수도 있습니다. 이름과 목적지를 주면 됩니다
+**이메일 작업**&#x200B;에서 몇 가지 새로운 기능을 확인할 수 있습니다. **이미지 또는 파일을 업로드하고** 웹에서  **이미지를 선택합니다**. 이메일 자체를 새 이메일 템플릿으로 저장할 수도 있습니다. 그냥 이름과 목적지를 주면 돼
 
 ![](assets/nine-3.png)
 
 >[!CAUTION]
 >
->이메일을 템플릿으로 저장할 때 변수 값은 이월되지 않습니다. 변수는 기본 템플릿에 지정된 기본값을 계속 사용합니다. 이메일에 있는 사용 가능한 모듈은 이메일 본문에 삽입되지 않는 한 이월되지 않습니다.
+>이메일을 템플릿으로 저장할 때 변수 값은 이월되지 않습니다. 변수는 기본 템플릿에 지정된 기본값을 계속 사용합니다. 이메일에 있는 사용 가능한 모듈은 이메일 본문에 삽입하지 않는 한 이월되지 않습니다.
 
 >[!NOTE]
 >
->** [Grab 이미지를 웹](../../../../product-docs/demand-generation/images-and-files/grab-the-images-from-a-web-page.md)**에서 사용하는 방법은 Design Studio와 유사합니다.
+>** [웹에서 이미지 가져오기](../../../../product-docs/demand-generation/images-and-files/grab-the-images-from-a-web-page.md)**는 디자인 스튜디오에서와 마찬가지로 작동합니다.
 
-**이메일 설정에서** 열기 추적 **을 비활성화하려면**&#x200B;필요한 경우 열기 추적을 비활성화할 수 있습니다.
+**[이메일 설정** 에서  **열기 추적**]을 비활성화하려면 필요한 경우 열기 추적을 비활성화할 수 있습니다.
 
 ![](assets/thirteen-1.png)
 
 **이메일 설정**
 
-미리 머리글을 추가할 수 있습니다. 미리 머리글은 받은 편지함에서 이메일을 볼 때 제목 줄 뒤에 오는 간단한 요약 텍스트입니다.
+미리 헤더를 추가할 수 있습니다. 미리 머리글은 받은 편지함에서 이메일을 볼 때 제목 줄 뒤에 오는 간단한 요약 텍스트입니다.
 
 ![](assets/edit-settings-preheader-2.png)
 
 >[!CAUTION]
 >
->이메일 편집기를 사용할 때 미리 머리글에서 토큰이 작동하지 않습니다. Preheader에서 토큰을 사용하려면 이메일 템플릿의 자체 HTML을 통해 토큰을 사용해야 합니다.
+>전자 메일 편집기를 사용할 때 미리 머리글에서 토큰이 작동하지 않습니다. 프리헤더에서 토큰을 사용하려면 이메일 템플릿에서 자신의 HTML을 통해 토큰을 사용해야 합니다.
 
-뛰어난 새로운 기능 재밌게 놀아!
+뛰어난 새로운 기능! 재미있게 놀아라!
 
 >[!NOTE]
 >
->**딥 다이브**
+>**자세히 알아보기**
 >
->보다 심층적으로 작업하려면 이 [유용한 비디오를 확인하십시오](https://nation.marketo.com/videos/1463).
+>더 깊이 이해하려면 이 [유용한 비디오](https://nation.marketo.com/videos/1463)를 확인하십시오.
 
 >[!MORELIKETHIS]
 >
