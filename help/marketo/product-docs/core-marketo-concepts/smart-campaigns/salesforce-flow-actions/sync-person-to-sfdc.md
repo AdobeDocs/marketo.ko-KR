@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# SFDC에 사람 동기화 {#sync-person-to-sfdc}
+# 사람을 SFDC {#sync-person-to-sfdc}에 동기화
 
 >[!NOTE]
 >
