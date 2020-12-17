@@ -19,7 +19,7 @@ Marketing 설명서에 다른 용어가 표시될 수 있지만 이러한 변경
 
 그래서, 무엇이 변경되었습니까?
 
-## 리드가 현재 개인임 {#lead-is-now-person}
+## 리드가 현재 개인 {#lead-is-now-person}
 
 가장 큰 변화는 리드/리드/사람/리드 이름 바꾸기입니다.
 
@@ -71,15 +71,15 @@ Marketing 설명서에 다른 용어가 표시될 수 있지만 이러한 변경
  </tbody> 
 </table>
 
-리드 및 **사람도 동일합니다**.
+리드 및 사람 **은(는)**&#x200B;과(와) 동일합니다.
 
 ## 토큰 {#tokens}
 
-리드가 포함된 토큰은 변경되지 **않습니다**. 혼란을 야기시킨 것에 대해 사과드립니다.그러나 새 용어와 일치하도록 모든 토큰을 변경하면 현재 사용 중인 토큰 수가 모두 손실됩니다. 따라서 &quot;`{{lead.First Name}}`&quot;와 같은 토큰이 표시됩니다. 개인별 토큰이 없습니다.
+**에서 리드를 사용하는 토큰이**&#x200B;을(를) 변경하지 않습니다. 혼란을 야기시킨 것에 대해 사과드립니다.그러나 새 용어와 일치하도록 모든 토큰을 변경하면 현재 사용 중인 토큰 수가 모두 손실됩니다. 따라서 &quot;`{{lead.First Name}}`&quot;과 같은 토큰이 계속 표시됩니다. 개인별 토큰이 없습니다.
 
 >[!NOTE]
 >
->&quot; *Person Notes&quot;라는 토큰이 있지만* 해당 토큰이 항상 있습니다. 일반적으로 CRM의 설명 필드에 사용됩니다(전혀 사용 안 함).
+>*is*&#x200B;는 &quot;Person Notes&quot;라는 토큰이 있지만 해당 토큰은 항상 있습니다. 일반적으로 CRM의 설명 필드에 사용됩니다(전혀 사용 안 함).
 
 ## 필드 관리 {#field-management}
 
@@ -110,7 +110,7 @@ Lead라는 용어가 포함된 필드는 Person으로 대체되거나 Lead라는
 
 >[!NOTE]
 >
->영향을 받는 필드 이름의 전체 목록은 이 [지원 문서를 참조하십시오](https://nation.marketo.com/docs/DOC-4218#jive_content_id_Field_Names_and_Tokens).
+>영향을 받는 필드 이름의 전체 목록을 보려면 이 [지원 문서](https://nation.marketo.com/docs/DOC-4218#jive_content_id_Field_Names_and_Tokens)를 방문하십시오.
 
 ## 실시간 개인화(RTP)가 이제 웹 개인화 {#real-time-personalization-rtp-is-now-web-personalization}
 
@@ -142,7 +142,7 @@ Lead라는 용어가 포함된 필드는 Person으로 대체되거나 Lead라는
 | ** [웹 개인화](http://docs.marketo.com/display/DOCS/Web+Personalization+-+RTP)** | 홈 화면에 고유한 타일 있음 |
 |---|---|
 | ** [계정 기반 웹 마케팅](http://docs.marketo.com/display/DOCS/Account-Based+Web+Marketing)** | 웹 개인화 타일을 통해 액세스 가능 |
-| ** [개인화된 리타겟팅](http://docs.marketo.com/display/DOCS/Website+Retargeting)** | 웹 개인화 타일을 통해 액세스 가능 |
+| ** [개인화된 재타깃팅](http://docs.marketo.com/display/DOCS/Website+Retargeting)** | 웹 개인화 타일을 통해 액세스 가능 |
 | ** [예측 컨텐츠](http://docs.marketo.com/display/DOCS/Predictive+Content)** | 홈 화면에 고유한 타일 있음 |
 
 >[!NOTE]
