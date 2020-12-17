@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# 개인에 대한 활동 로그 찾기 {#locate-the-activity-log-for-a-person}
+# {#locate-the-activity-log-for-a-person} 사람에 대한 활동 로그를 찾습니다.
 
 활동 로그는 진실의 최종 원천입니다. 마케팅을 통해 경험한 모든 사례를 소개합니다.
 
@@ -19,15 +19,15 @@ ht-degree: 0%
 
    ![](assets/db-2.png)
 
-1. 모든 **사람을 선택합니다**.
+1. **모든 사람**&#x200B;을 선택합니다.
 
    ![](assets/two-6.png)
 
-1. 사람 **탭을** 클릭합니다. 개인 **ID** 번호를 선택합니다.
+1. **사람** 탭을 클릭합니다. 사람 **Id** 번호를 선택합니다.
 
    ![](assets/three-5.png)
 
-1. 활동 **로그를 클릭합니다**.
+1. **활동 로그**&#x200B;를 클릭합니다.
 
    ![](assets/four-3.png)
 
@@ -40,5 +40,5 @@ ht-degree: 0%
    >**관련 문서**
    >
    >
-   >활동 [필터링에 대한 자세한 내용을](filter-activity-types-in-the-activity-log-of-a-person.md)참조하여 특정 개인 활동을 봅니다.
+   >특정 개인 활동을 보려면 활동 로그[를 필터링하는 방법에 대해 자세히 알아보십시오.](filter-activity-types-in-the-activity-log-of-a-person.md)
 
