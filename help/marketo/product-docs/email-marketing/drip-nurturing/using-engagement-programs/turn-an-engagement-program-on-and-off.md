@@ -1,6 +1,6 @@
 ---
 unique-page-id: 2359856
-description: 참여 프로그램 켜기/끄기 - Marketing Docs - 제품 설명서
+description: 참여 프로그램 켜기 및 끄기 - Marketing To Docs - 제품 설명서
 title: 참여 프로그램 설정 및 해제
 translation-type: tm+mt
 source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
@@ -11,15 +11,15 @@ ht-degree: 0%
 ---
 
 
-# 참여 프로그램 설정 및 해제 {#turn-an-engagement-program-on-and-off}
+# 참여 프로그램 켜기 및 끄기 {#turn-an-engagement-program-on-and-off}
 
-전환 버튼을 사용하여 참여 프로그램을 끌 수 있습니다. 그러면 모든 컨텐츠가 전송되지 않습니다. 방법
+전환 효과를 사용하여 참여 프로그램을 끌 수 있습니다. 그러면 모든 컨텐츠가 전송되지 않습니다. 방법
 
-1. 마케팅 활동 **으로 이동합니다**.
+1. **마케팅 활동**&#x200B;으로 이동합니다.
 
    ![](assets/login-marketing-activities.png)
 
-1. 참여 프로그램을 선택하고 **설정을 클릭합니다**.
+1. 참여 프로그램을 선택하고 **설정**&#x200B;을 클릭합니다.
 
    >[!NOTE]
    >
@@ -27,11 +27,11 @@ ht-degree: 0%
 
    ![](assets/image2014-9-15-17-3a14-3a56.png)
 
-1. 프로그램 상태 **를 두 번 클릭합니다**.
+1. **프로그램 상태**&#x200B;를 두 번 클릭합니다.
 
    ![](assets/image2014-9-15-17-3a14-3a59.png)
 
-1. 꺼짐을 **선택하고** 저장을 **클릭합니다**.
+1. **끄기**&#x200B;를 선택하고 **저장**&#x200B;을 클릭합니다.
 
    ![](assets/image2014-9-15-17-3a15-3a2.png)
 
