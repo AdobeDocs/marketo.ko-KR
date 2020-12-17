@@ -18,7 +18,7 @@ ht-degree: 0%
 
    ![이미지 원](/help/sky/assets/program-schedule-view/edit-an-entry-in-program-schedule-view/edit-an-entry-in-program-schedule-view-1.png)
 
-1. 팝업에서는 항목의 다른 요소를 편집할 수 있습니다. 항목이 스마트 캠페인 또는 이메일 프로그램인 경우 시작 제목을 클릭하여 캠페인/프로그램 개요를 엽니다.
+1. 팝업에서는 항목의 여러 요소를 편집할 수 있습니다. 항목이 스마트 캠페인 또는 이메일 프로그램인 경우 시작 제목을 클릭하여 캠페인/프로그램 개요를 엽니다.
 
    ![이미지 2](/help/sky/assets/program-schedule-view/edit-an-entry-in-program-schedule-view/edit-an-entry-in-program-schedule-view-2.png)
 
