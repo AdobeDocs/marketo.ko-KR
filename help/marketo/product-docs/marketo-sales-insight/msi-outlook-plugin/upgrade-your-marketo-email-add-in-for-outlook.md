@@ -1,7 +1,7 @@
 ---
 unique-page-id: 2949279
-description: Outlook용 Marketing To Email Add-In 업그레이드 - Marketing Docs - 제품 설명서
-title: Outlook용 Marketing To Email 추가 기능 업그레이드
+description: Outlook용 Marketing Cloud 이메일 추가 기능 업그레이드 - Marketing To Docs - 제품 설명서
+title: Outlook용 Marketing To Email Add-In 업그레이드
 translation-type: tm+mt
 source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# Outlook용 Marketing To Email 추가 기능 업그레이드 {#upgrade-your-marketo-email-add-in-for-outlook}
+# Outlook용 Marketing Cloud 전자 메일 추가 기능 업그레이드 {#upgrade-your-marketo-email-add-in-for-outlook}
 
 Outlook용 Marketing To Email Add-in의 새 버전을 사용할 수 있으면 다음 지침에 따라 업그레이드하십시오.
 
@@ -90,7 +90,7 @@ Outlook용 Marketing To Email Add-in의 새 버전을 사용할 수 있으면 �
    <td colspan="1"><a href="http://munchkin.marketo.net/MarketoAddInSetup64.msi" rel="nofollow">다운로드</a></td> 
   </tr> 
   <tr> 
-   <td colspan="1">Outlook O365(Windows만 해당)</td> 
+   <td colspan="1">Outlook O365(Windows 전용)</td> 
    <td colspan="1"><a href="http://munchkin.marketo.net/MarketoAddInSetup32.msi" rel="nofollow">다운로드</a></td> 
    <td colspan="1"><a href="http://munchkin.marketo.net/MarketoAddInSetup64.msi" rel="nofollow">다운로드</a></td> 
    <td colspan="1"><a href="http://munchkin.marketo.net/MarketoAddInSetup32.msi" rel="nofollow">다운로드</a></td> 
@@ -113,7 +113,7 @@ Outlook용 Marketing To Email Add-in의 새 버전을 사용할 수 있으면 �
  </tbody> 
 </table>
 
-## 업그레이드 {#upgrade}
+## {#upgrade} 업그레이드
 
 1. 설치 관리자를 실행합니다.
 
@@ -124,29 +124,29 @@ Outlook용 Marketing To Email Add-in의 새 버전을 사용할 수 있으면 �
 
    >[!NOTE]
    >
-   >경우에 따라 데이터가 누락됩니다. 등록 이메일에서 복사한 다음 Outlook을 닫습니다.
+   >경우에 따라 데이터가 누락될 수 있습니다. 등록 이메일에서 복사한 다음 Outlook을 닫습니다.
 
 1. Microsoft Outlook을 닫습니다.
 
    ![](assets/ent-key-close-outlook-hand.png)
 
-1. 모든 정보가 미리 입력되어 있음을 알 수 있습니다. 다음을 클릭하면 **됩니다**.
+1. 모든 정보가 미리 입력되어 있음을 알 수 있습니다. **다음**&#x200B;을 클릭하면 됩니다.
 
    ![](assets/image2014-9-23-16-3a54-3a40.png)
 
    >[!TIP]
    >
-   >설치에 실패하는 경우 IT 부서에 문의하여 HTTPS 트래픽이 차단되지 않도록 확인하십시오. 설치 프로그램을 사용하려면 HTTPS 트래픽을 열어야 합니다.
+   >설치에 실패하는 경우 IT 부서에 문의하여 HTTPS 트래픽이 차단되지 않도록 확인하십시오. 설치 관리자를 열려면 HTTPS 트래픽이 있어야 합니다.
 
-   기본 위치에 설치하려면 [다음]을 클릭합니다.
+   [다음]을 클릭하여 기본 위치에 설치합니다.
 
    ![](assets/image2014-9-23-16-3a54-3a55.png)
 
-1. 다음을 **클릭합니다**.
+1. **다음**&#x200B;을 클릭합니다.
 
    ![](assets/image2014-9-23-16-3a55-3a20.png)
 
-1. 이제 설치가 완료되었습니다. 닫기를 **클릭합니다**.
+1. 이제 설치가 완료되었습니다. **닫기**&#x200B;를 클릭합니다.
 
    ![](assets/image2014-9-23-16-3a55-3a34.png)
 
