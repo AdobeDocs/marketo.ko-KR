@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# 새 작업 공간 만들기 {#create-a-new-workspace}
+# 새 작업 영역 만들기 {#create-a-new-workspace}
 
 작업 영역은 회사를 하위 분할하는 데 유용합니다. 작업 영역을 설정하는 이유는 다음과 같습니다.
 
@@ -28,34 +28,34 @@ ht-degree: 0%
 >
 >**자세히 알아보기**
 >
->작업 영역 및 [개인 파티션 이해를 통해 먼저 파악합니다](understanding-workspaces-and-person-partitions.md).
+>[작업 영역 및 개인 파티션 이해](understanding-workspaces-and-person-partitions.md)로 먼저 파악합니다.
 
 >[!NOTE]
 >
->작업 공간 우수 사례에 대한 자세한 내용은 Marketing [to Professional 서비스에 문의하십시오](http://docs.marketo.com/cdn-cgi/l/email-protection#55263027233c363026153834273e30213a7b363a38).
+>작업 공간 우수 사례에 대한 자세한 내용은 [Marketing To Professional 서비스](http://docs.marketo.com/cdn-cgi/l/email-protection#55263027233c363026153834273e30213a7b363a38)에 문의하십시오.
 
-1. 관리 **에서**&#x200B;작업 영역 및 **파티션을 클릭합니다**.
+1. **관리**&#x200B;에서 **작업 영역 및 파티션**&#x200B;을 클릭합니다.
 
    ![](assets/image2014-9-17-11-3a59-3a11.png)
 
-1. 새 작업 공간 **을 클릭합니다**.
+1. **새 작업 공간**&#x200B;을 클릭합니다.
 
    ![](assets/two-1.png)
 
-1. 이름**을 입력하고 **사용할 사람** 파티션을 선택합니다. 기본 **개인 파티션을 선택합니다**.
+1. 이름**을 입력하고 사용할 **개인 파티션**&#x200B;을 선택합니다. **주 개인 파티션**&#x200B;을 선택합니다.
 
    >[!NOTE]
    >
    >**미리 알림**
    >
    >
-   >아직 [없는 경우 개인 파티션을](create-a-person-partition.md) 만들어야 합니다.
+   >아직 없는 경우 [개인 파티션 만들기](create-a-person-partition.md)를 확인하십시오.
 
    ![](assets/three-1.png)
 
    >[!NOTE]
    >
-   >모든 **개인 파티션**** 체크 상자는 이 작업 공간이 시스템의 모든 개인 파티션을 사용할 수 있음을 의미합니다.
+   >**모든 개인 파티션****확인란을 선택하면 이 작업 공간이 시스템의 모든 개인 파티션을 사용할 수 있습니다.
 
    >[!NOTE]
    >
@@ -76,7 +76,7 @@ ht-degree: 0%
 
    ![](assets/five.png)
 
-1. 만들기를 **클릭합니다**.
+1. **만들기**&#x200B;를 클릭합니다.
 
    ![](assets/six.png)
 
