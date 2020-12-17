@@ -14,13 +14,13 @@ ht-degree: 0%
 
 <br> 
 
-내 토큰을 폴더로 정렬하는 방법은 다음과 같습니다.
+내 토큰을 폴더로 분류하는 방법은 다음과 같습니다.
 
-1. 캠페인 폴더 또는 프로그램 [!UICONTROL My Tokens] 의 탭에서 오른쪽 상단의 [!UICONTROL Create Folder] 아이콘을 클릭합니다.
+1. 캠페인 폴더 또는 프로그램의 [!UICONTROL My Tokens] 탭에서 오른쪽 상단의 [!UICONTROL Create Folder] 아이콘을 클릭합니다.
 
    ![이미지 원](/help/sky/assets/my-tokens/create-my-token-folders/create-my-token-folders-1.png)
 
-1. 새 폴더의 이름을 입력한 다음 대상 드롭다운에서 **[!UICONTROL Local Tokens]** 또는 **[!UICONTROL Overridden Tokens]** 를 선택합니다. 을 **[!UICONTROL Save]**&#x200B;클릭합니다.
+1. 새 폴더의 이름을 입력한 다음 대상 드롭다운에서 **[!UICONTROL Local Tokens]** 또는 **[!UICONTROL Overridden Tokens]**&#x200B;을 선택합니다. **[!UICONTROL Save]**&#x200B;을 클릭합니다.
 
    ![이미지 2](/help/sky/assets/my-tokens/create-my-token-folders/create-my-token-folders-2.png)
 
@@ -38,4 +38,4 @@ ht-degree: 0%
 
 >[!TIP]
 >
->폴더 이름을 변경하려면 폴더를 마우스 오른쪽 단추로 클릭하고 을 클릭합니다 **[!UICONTROL Rename]**.
+>폴더 이름을 변경하려면 폴더를 마우스 오른쪽 단추로 클릭하고 **[!UICONTROL Rename]**&#x200B;을 클릭합니다.
