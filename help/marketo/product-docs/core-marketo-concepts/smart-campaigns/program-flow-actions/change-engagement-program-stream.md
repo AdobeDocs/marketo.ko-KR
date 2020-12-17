@@ -15,7 +15,7 @@ ht-degree: 0%
 
 ## 개요 {#overview}
 
-일반적으로 [스트림 전환 규칙을](../../../../product-docs/email-marketing/drip-nurturing/engagement-program-streams/transition-people-between-engagement-streams.md) 사용하여 이를 실현하지만 한 스트림에서 다른 스트림으로 사람들을 수동으로 이동하려는 경우에는 이 단계를 사용해야 합니다.
+일반적으로 이 작업을 수행하려면 [스트림 전환 규칙](../../../../product-docs/email-marketing/drip-nurturing/engagement-program-streams/transition-people-between-engagement-streams.md)을 사용하지만 한 스트림에서 다른 스트림으로 사람들을 수동으로 이동하려면 이 단계를 사용해야 합니다.
 
 ![](assets/image2014-9-22-14-3a52-3a14.png)
 
