@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# 사용자 지정 논리를 사용하여 중복 인물 찾기 {#find-duplicate-people-with-custom-logic}
+# 사용자 지정 논리 {#find-duplicate-people-with-custom-logic}을(를) 사용하여 중복 인물 찾기
 
 Marketing에는 이메일 주소와 일치시켜 중복 사용자를 찾는 시스템 스마트 목록이 있습니다. 다른 필드를 사용하여 중복 항목을 찾으려면 다음 방법을 참조하십시오.
 
