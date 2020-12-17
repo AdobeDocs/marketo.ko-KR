@@ -13,7 +13,7 @@ ht-degree: 0%
 
 # ABM 기본 대시보드 {#abm-main-dashboard}
 
-기본 대시보드는 계정 기반 마케팅 활동의 요약을 제공합니다. 성공을 보여주는 타겟 계정 또는 계정 목록과 더 많은 주의가 필요한 계정을 볼 수 있습니다.
+기본 대시보드에서는 계정 기반 마케팅 활동의 요약을 제공합니다. 성공을 보여주는 타겟 계정 또는 계정 목록과 더 많은 주의가 필요한 계정을 볼 수 있습니다.
 
 ![](assets/one.png)
 
@@ -21,11 +21,11 @@ ht-degree: 0%
 
 ![](assets/two.png)
 
-...원하는 영역을 선택할 수 있습니다. 이 예에서는 &quot;첨단 기술&quot; 계정 목록을 선택합니다.
+...선택한 이미지를 선택합니다. 이 예에서는 &quot;첨단 기술&quot; 계정 목록을 선택합니다.
 
 ![](assets/three.png)
 
-계정 [목록 대시보드를](http://docs.marketo.com/display/DOCS/Account+List+Insights#AccountListInsights-AccountListDashboard)보려면 선택한 계정 목록 이름을 클릭합니다.
+[계정 목록 대시보드](http://docs.marketo.com/display/DOCS/Account+List+Insights#AccountListInsights-AccountListDashboard)를 보려면 선택한 계정 목록 이름을 클릭합니다.
 
 ![](assets/four.png)
 
@@ -33,11 +33,11 @@ ht-degree: 0%
 
 ![](assets/five.png)
 
-지정된 계정으로 드릴다운하려는 계정 목록 대시보드를 보는 대신 **추가 세부 정보** ...를 클릭합니다.
+이름이 지정된 계정으로 드릴다운하려는 계정 목록 대시보드를 보는 대신 이름 아래에 있는 **추가 세부 정보**&#x200B;를 클릭합니다...
 
 ![](assets/six.png)
 
-...지정된 [계정의 통찰력을 볼 수 있습니다](http://docs.marketo.com/display/DOCS/Named+Account+Insights).
+...및 [명명된 계정의 통찰력](http://docs.marketo.com/display/DOCS/Named+Account+Insights)을 봅니다.
 
 ![](assets/seven.png)
 
