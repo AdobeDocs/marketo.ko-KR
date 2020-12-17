@@ -1,6 +1,6 @@
 ---
 unique-page-id: 10100275
-description: 마케팅 추가/편집/삭제 마케팅 활동 필드 - 마케팅 문서 - 제품 설명서
+description: 마케팅을 사용자 지정 활동 필드에 추가/편집/삭제 - 마케팅 문서 - 제품 설명서
 title: 사용자 지정 활동 필드에 마케팅 추가/편집/삭제
 translation-type: tm+mt
 source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
@@ -11,13 +11,13 @@ ht-degree: 0%
 ---
 
 
-# 사용자 지정 활동 필드에 마케팅 추가/편집/삭제 {#add-edit-delete-marketo-custom-activity-fields}
+# 사용자 지정 활동 필드 {#add-edit-delete-marketo-custom-activity-fields}에 마케팅 추가/편집/삭제
 
 사용자 지정 활동 필드를 추가, 변경 또는 제거해야 할 수도 있습니다. 방법
 
-## 사용자 지정 활동 필드 추가 {#add-a-custom-activity-field}
+## 사용자 지정 활동 필드 {#add-a-custom-activity-field} 추가
 
-1. 마케팅 사용자 지정 활동에서 필드를 **클릭합니다**.
+1. 마케팅 사용자 지정 활동에서 **필드**&#x200B;를 클릭합니다.
 
    ![](assets/one-3.png)
 
@@ -25,7 +25,7 @@ ht-degree: 0%
 
    ![](assets/two-3.png)
 
-1. 새 필드 **를 클릭합니다**.
+1. **새 필드**&#x200B;를 클릭합니다.
 
    ![](assets/three-3.png)
 
@@ -35,9 +35,9 @@ ht-degree: 0%
 
    >[!TIP]
    >
-   >어떤 항목을 선택해야 할지 확실하지 않습니까? 우리는 당신을 덮었습니다! 사용 가능한 모든 데이터 유형은 [이 아티클에 정의되어 있습니다](../../../product-docs/administration/field-management/custom-field-type-glossary.md).
+   >무엇을 선택해야 할지 확실하지 않습니까? 우리는 너를 보호했다! 사용 가능한 모든 데이터 유형은 [이 문서](../../../product-docs/administration/field-management/custom-field-type-glossary.md)에 정의되어 있습니다.
 
-1. 필드 이름을 지정합니다. API 이름이 자동으로 채워집니다. 완료되면 **저장을 클릭합니다**.
+1. 필드 이름을 지정합니다. Api 이름이 자동으로 채워집니다. 완료되면 **저장**&#x200B;을 클릭합니다.
 
    ![](assets/five-3.png)
 
@@ -45,7 +45,7 @@ ht-degree: 0%
 
 ## 사용자 지정 활동 필드 편집 {#edit-a-custom-activity-field}
 
-1. 마케팅 사용자 지정 활동에서 필드를 **클릭합니다**.
+1. 마케팅 사용자 지정 활동에서 **필드**&#x200B;를 클릭합니다.
 
    ![](assets/one-3.png)
 
@@ -53,21 +53,21 @@ ht-degree: 0%
 
    ![](assets/seven.png)
 
-1. 편집할 필드를 선택하고 **필드 작업** 드롭다운을 클릭한 다음 필드 **편집을 선택합니다**.
+1. 편집할 필드를 선택하고 **필드 작업** 드롭다운을 클릭한 다음 **필드 편집**&#x200B;을 선택합니다.
 
    ![](assets/eight.png)
 
-   [필드 편집] 팝업이 나타납니다. 이 예에서 필드 이름을 변경하겠습니다.
+   [필드 편집] 팝업 창이 나타납니다. 이 예에서 필드 이름을 변경하겠습니다.
 
    ![](assets/nine.png)
 
-1. 새 이름과 Api 이름을 입력한 다음 **저장을 클릭합니다**.
+1. 새 이름 및 API 이름을 입력한 다음 **저장**&#x200B;을 클릭합니다.
 
    ![](assets/ten.png)
 
    >[!NOTE]
    >
-   >필드를 편집할 때 Api 이름이 자동으로 채워지지 않습니다. 필드 이름과 API 이름이 일치해야 하는 것은 아니지만 사용할 것을 권장합니다.
+   >필드를 편집할 때 Api 이름이 자동으로 채워지지 않습니다. 필드 이름 및 API 이름이 일치해야 하지만 권장됩니다.
 
    >[!CAUTION]
    >
@@ -77,11 +77,11 @@ ht-degree: 0%
    >
    >기본 필드를 변경하려면 먼저 기존 필드를 선택 취소해야 합니다.
 
-이제 필드가 편집되었습니다.
+이제 필드를 편집했습니다!
 
-## 사용자 지정 활동 필드 삭제 {#delete-a-custom-activity-field}
+## 사용자 지정 활동 필드 {#delete-a-custom-activity-field} 삭제
 
-1. 마케팅 사용자 지정 활동에서 필드를 **클릭합니다**.
+1. 마케팅 사용자 지정 활동에서 **필드**&#x200B;를 클릭합니다.
 
    ![](assets/one-3.png)
 
@@ -89,7 +89,7 @@ ht-degree: 0%
 
    ![](assets/twelve.png)
 
-1. 삭제할 필드를 선택하고 **필드 작업** 드롭다운을 클릭한 다음 필드 **삭제를 선택합니다**.
+1. 삭제할 필드를 선택하고 **필드 작업** 드롭다운을 클릭한 다음 **필드 삭제**&#x200B;를 선택합니다.
 
    ![](assets/thirteen.png)
 
