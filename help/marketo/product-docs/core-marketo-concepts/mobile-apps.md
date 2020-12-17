@@ -13,4 +13,4 @@ ht-degree: 0%
 
 # 모바일 앱 {#mobile-apps}
 
-** ![이벤트](assets/mobile-checkin-icon.png)체크 인*** [이벤트 체크 인 태블릿에서 이벤트 체크인](https://docs.marketo.com/display/DOCS/Event+Check-in)     ** ![Marketing](assets/moments-icon.png)MomentMaps*** [Marketing To Moments 중요한 사항](https://docs.marketo.com/display/DOCS/Marketo+Moments)
+** ![이벤트 체크 인](assets/mobile-checkin-icon.png)이벤트 체크 인** [이벤트 체크인 고객이 태블릿에서 이벤트에 맞게 로그인합니다.](https://docs.marketo.com/display/DOCS/Event+Check-in)     **  ![Marketing ](assets/moments-icon.png)MomentMarketing**  [Marketing To Moments 중요한 요소를 신속하게 파악할 수 있습니다.](https://docs.marketo.com/display/DOCS/Marketo+Moments)
