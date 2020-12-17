@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# 즐겨찾기 만들기 {#creating-a-favorite}
+# 즐겨찾기 {#creating-a-favorite} 만들기
 
 나중에 쉽게 참조할 수 있도록 카드를 즐겨찾기로 지정합니다.
 
@@ -23,5 +23,5 @@ ht-degree: 0%
 
    ![](assets/image2015-7-14-16-3a36-3a22.png)
 
-   그게 다야!
+   그게 전부야!
 
