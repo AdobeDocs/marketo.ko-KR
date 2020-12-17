@@ -1,7 +1,7 @@
 ---
 unique-page-id: 7512292
-description: LaunchPoint 서비스로 레벨 3 웹 미팅 추가 - Marketing Docs - 제품 설명서
-title: LaunchPoint 서비스로 수준 3 웹 회의 추가
+description: 수준 3 웹 회의를 LaunchPoint 서비스로 추가 - Marketing To Docs - 제품 설명서
+title: 수준 3 웹 회의를 LaunchPoint 서비스로 추가
 translation-type: tm+mt
 source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# LaunchPoint 서비스로 수준 3 웹 회의 추가 {#add-level-web-meeting-as-a-launchpoint-service}
+# 수준 3 웹 회의를 LaunchPoint 서비스로 추가 {#add-level-web-meeting-as-a-launchpoint-service}
 
 Marketing에서 수준 3 웹 회의 등록 및 참석을 관리합니다.
 
@@ -23,29 +23,29 @@ Marketing에서 수준 3 웹 회의 등록 및 참석을 관리합니다.
 >
 >**미리 알림**
 >
->이 단계에서는 레벨 3 웹 미팅과 관리 권한에 대한 기존 가입이 필요합니다. 액세스 번호, 액세스 코드 및 패스코드를 준비하십시오.
+>이 단계에서는 레벨 3 웹 미팅에 대한 기존 구독과 관리 권한이 필요합니다. 액세스 번호, 액세스 코드 및 패스코드를 제공할 수 있습니다.
 
-1. 관리자로 **이동하고** LaunchPoint를 **선택합니다**.
+1. **관리**&#x200B;로 이동하고 **LaunchPoint**&#x200B;를 선택합니다.
 
    ![](assets/image2015-4-23-10-3a5-3a12.png)
 
-1. 새로 **만들기** , **새** ****&#x200B;서비스를 선택합니다.
+1. **새로 만들기**&#x200B;새로 만들기&#x200B;****&#x200B;서비스&#x200B;**를 선택합니다.**
 
    ![](assets/level-3-web-meeting-new-service.png)
 
-1. 디스플레이 **이름을** **입력합니다**. 서비스 **에서****수준 3 웹 회의를 선택합니다**.
+1. **표시** **이름**&#x200B;을 입력합니다. **서비스**&#x200B;에서 **수준 3 웹 회의**&#x200B;를 선택합니다.
 
    ![](assets/new-service-level-3.png)
 
-1. 액세스 **번호** , **액세스****코드** 를 입력하고 ************ Passcode 및 PasscodeVerncode를 입력한 다음 Flash를 클릭하십시오.
+1. **Access** **Number**, **Access** **Code** 및 **Passcode**&#x200B;를 입력한 다음 **만들기**&#x200B;를 클릭합니다.
 
    ![](assets/image2015-4-23-10-3a10-3a26.png)
 
-1. 경이롭네! *** Level 3 Web Meeting** 계정이 이제 Marketing To와 동기화됩니다.
+1. 대단해! 이제 Level 3 Web Meeting** 계정이 Marketing To와 동기화됩니다.
 
    ![](assets/level-3-web-meeting.png)
 
 >[!MORELIKETHIS]
 >
->수준 3 웹 회의를 [사용하여 이벤트를 만드는 방법을 알아봅니다](../../../product-docs/demand-generation/events/create-an-event/create-an-event-with-level-3-web-meeting.md).
+>[수준 3 웹 회의](../../../product-docs/demand-generation/events/create-an-event/create-an-event-with-level-3-web-meeting.md)로 이벤트를 만드는 방법을 알아봅니다.
 
