@@ -15,7 +15,7 @@ ht-degree: 0%
 
 Marketing to Dynamics 동기화가 매우 강력합니다. 자세한 내용은
 
-## 필드 세부 정보는 두 시스템 간에 어떻게 동기화됩니까? {#how-are-field-details-kept-in-sync-between-the-two-systems}
+## 필드 세부 정보는 두 시스템 간에 어떻게 동기화됩니까?{#how-are-field-details-kept-in-sync-between-the-two-systems}
 
 동기화는 리드 및 연락처 개체에 대한 양방향 동기화입니다. Dynamics 또는 Marketing To에서 리드 또는 담당자를 변경하는 경우 업데이트 내용이 두 시스템 모두에 반영됩니다.
 
@@ -25,21 +25,21 @@ Marketing to Dynamics 동기화가 매우 강력합니다. 자세한 내용은
 
 드문 경우이지만 Marketing은 사람(리드)을 확보하고 Dynamics는 고객 접점에서 승리하게 됩니다. 이는 Adobe가 마케팅 부서가 사람들에게 권한을 부여한다고 생각하는 반면 담당자를 위한 공식 기록 시스템은 판매(CRM) 부서에 있기 때문입니다. 단방향 동기화 엔티티의 경우 Dynamics는 항상 승리를 실현합니다.
 
-## Marketing To를 사용하여 Dynamics에서 필드를 만들 수 있습니까? {#can-i-create-a-field-in-dynamics-using-marketo}
+## Marketing To를 사용하여 Dynamics에서 필드를 만들 수 있습니까?{#can-i-create-a-field-in-dynamics-using-marketo}
 
 아니요, 현재 지원되지 않습니다.
 
-## Dynamics에서 필드를 만들었습니다. Marketing To에 동기화할 수 있습니까? {#i-created-a-field-in-dynamics-can-i-sync-it-to-marketo}
+## Dynamics에서 필드를 만들었습니다. Marketing To에 동기화할 수 있습니까?{#i-created-a-field-in-dynamics-can-i-sync-it-to-marketo}
 
-예. 동기화 사용자가 [Dynamics에서 필드에](https://docs.marketo.com/pages/viewpage.action?pageId=3571830#Step3of3:ConnectMicrosoftDynamicswithMarketo(Online)-SelectFieldstoSync) 액세스할 수 있는 한 필드를 동기화할 수 있습니다.
+예. 동기화 사용자가 Dynamics에서 필드](https://docs.marketo.com/pages/viewpage.action?pageId=3571830#Step3of3:ConnectMicrosoftDynamicswithMarketo(Online)-SelectFieldstoSync)을(를) 이용할 수 있는 경우 [동기화할 수 있습니다.
 
 Marketing To와 동기화할 필드는 무엇입니까?
 
-설정하는 동안 동기화할 [필드를](https://docs.marketo.com/pages/viewpage.action?pageId=3571830#Step3of3:ConnectMicrosoftDynamicswithMarketo(Online)-SelectFieldstoSync) 선택할 수 있습니다.
+설정 중에 [필드를 선택하여](https://docs.marketo.com/pages/viewpage.action?pageId=3571830#Step3of3:ConnectMicrosoftDynamicswithMarketo(Online)-SelectFieldstoSync)을 동기화할 수 있습니다.
 
-## Marketing To 및 Dynamics가 동기화된 후 사용자 정의 필드를 추가해야 하는 경우 어떻게 됩니까? {#what-if-i-need-to-add-a-custom-field-after-marketo-and-dynamics-are-synced}
+## Marketing To 및 Dynamics가 동기화된 후 사용자 정의 필드를 추가해야 하는 경우 어떻게 됩니까?{#what-if-i-need-to-add-a-custom-field-after-marketo-and-dynamics-are-synced}
 
-언제든지 필드를 추가할 수 있으며 데이터가 Dynamics에서 Marketing으로 새로 고쳐질 것으로 예상합니다. 자세한 [내용은 Microsoft Dynamics와 빠른 동기화](microsoft-dynamics-sync-field-sync/use-quick-sync-with-microsoft-dynamics-for-a-new-custom-field.md) 사용을 참조하십시오.
+언제든지 필드를 추가할 수 있으며 데이터가 Dynamics에서 Marketing으로 새로 고쳐질 것으로 예상합니다. 자세한 내용은 [새 사용자 지정 필드](microsoft-dynamics-sync-field-sync/use-quick-sync-with-microsoft-dynamics-for-a-new-custom-field.md)에 대해 Microsoft Dynamics와 빠른 동기화 사용을 참조하십시오.
 
 >[!MORELIKETHIS]
 >
