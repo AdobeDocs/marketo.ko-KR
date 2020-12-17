@@ -15,7 +15,7 @@ ht-degree: 0%
 
 스마트 캠페인에는 두 가지 유형이 있습니다.일괄 처리 및 트리거를 참조하십시오.
 
-## Batch Smart Campaign {#batch-smart-campaign}
+## 일괄 처리 스마트 캠페인 {#batch-smart-campaign}
 
 >[!NOTE]
 >
@@ -27,14 +27,14 @@ ht-degree: 0%
 
 ![](assets/batch-filter.png)
 
-예약 탭 **을** 클릭하면 스마트 캠페인이 &quot;일괄 처리&quot;로 설정되어 있는지 확인합니다.
+**예약** 탭을 클릭하면 스마트 캠페인이 &quot;일괄 처리&quot;로 설정되어 있는지 확인합니다.
 
 ![](assets/batch-c4.png)
 
 **스마트 캠페인 일괄 처리**
 
 * 일별, 주별, 월별 등 반복용으로 예약할 수 있습니다. 한 번만 실행하면 됩니다.
-* 프로그램 [예약 보기에서 볼 수 있습니다](../../../../product-docs/core-marketo-concepts/programs/program-schedule-view/navigating-the-program-schedule-view.md).\
+* [프로그램 일정 보기](../../../../product-docs/core-marketo-concepts/programs/program-schedule-view/navigating-the-program-schedule-view.md)에 표시됩니다.\
    *스마트 캠페인 내의 &quot;대기&quot; 단계 이후의 모든 것은 보기에 포함되지 않습니다.
 
 <br> 
@@ -51,7 +51,7 @@ ht-degree: 0%
 
 ![](assets/trigger.png)
 
-예약 탭 **을** 클릭하면 스마트 캠페인이 &quot;트리거됨&quot;으로 설정되어 있는지 확인합니다.
+**예약** 탭을 클릭하면 스마트 캠페인이 &quot;트리거됨&quot;으로 설정되어 있는지 확인합니다.
 
 ![](assets/trigger2.png)
 
@@ -66,5 +66,5 @@ ht-degree: 0%
 
 >[!TIP]
 >
->활동 [로그를](../../../../product-docs/core-marketo-concepts/smart-lists-and-static-lists/managing-people-in-smart-lists/locate-the-activity-log-for-a-person.md) 사용하여 스마트 캠페인 내에서 단계별 상황을 확인할 수 있습니다. 개인 세부 정보 페이지의 마지막 탭에서 활동 로그를 찾을 수 있습니다.
+>[활동 로그](../../../../product-docs/core-marketo-concepts/smart-lists-and-static-lists/managing-people-in-smart-lists/locate-the-activity-log-for-a-person.md)를 사용하여 스마트 캠페인 내에서 단계별로 발생한 상황을 확인합니다. 개인 세부 정보 페이지의 마지막 탭에서 활동 로그를 찾을 수 있습니다.
 
