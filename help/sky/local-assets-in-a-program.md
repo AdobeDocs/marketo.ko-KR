@@ -1,6 +1,6 @@
 ---
 title: local-assets-in-a-program
-description: 프로그램의 로컬 자산
+description: 프로그램의 로컬 에셋
 translation-type: tm+mt
 source-git-commit: 642fd57105afff1031f18883c5809206f136b7c6
 workflow-type: tm+mt
@@ -10,11 +10,11 @@ ht-degree: 0%
 ---
 
 
-# 프로그램의 로컬 자산
+# 프로그램의 로컬 에셋
 
 <br> 
 
-로컬 에셋은 프로그램을 구성하는 컨텐츠입니다. 자산을 사용자 정의할 수 있으며 자동화된 마케팅 전략을 구축할 수 있습니다. 여기에서 만들 수 있는 대부분의 로컬 에셋을 살펴보십시오 [!DNL Marketo Sky].
+로컬 자산은 프로그램을 구성하는 컨텐츠입니다. 에셋은 사용자 요구에 맞게 변경할 수 있으며 자동화된 마케팅 전략을 구축할 수 있습니다. [!DNL Marketo Sky]에서 만들 수 있는 대부분의 로컬 에셋을 살펴보겠습니다.
 
 ![이미지 원](/help/sky/assets/programs/local-assets-in-a-program/local-assets-in-a-program-1.jpg)
 
