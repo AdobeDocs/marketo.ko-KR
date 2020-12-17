@@ -1,7 +1,7 @@
 ---
 unique-page-id: 8782024
 description: 마케팅 문서 다운로드 - 마케팅 문서 - 제품 설명서
-title: 마케팅 모멘트 다운로드
+title: 마케팅 대상 클릭 수 다운로드
 translation-type: tm+mt
 source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
@@ -11,31 +11,31 @@ ht-degree: 0%
 ---
 
 
-# 마케팅 모멘트 다운로드 {#downloading-marketo-moments}
+# 마커 다운로드 시간 {#downloading-marketo-moments}
 
-App Store 또는 Google Play에서 Marketing To Moments 다운로드 및 Voila! 마케팅 마술
+App Store 또는 Google Play에서 Marketing To Moment를 다운로드하고 Voila! 마케팅 마법을 사용한 마케팅
 
-## iPhone용 {#for-iphone}
+## iPhone {#for-iphone}의 경우
 
-1. App [Store로 이동합니다](https://itunes.apple.com/us/genre/ios/id36?mt=8).\
+1. [App Store](https://itunes.apple.com/us/genre/ios/id36?mt=8)로 이동합니다.\
    ![](assets/image2015-7-15-14-3a52-3a13.png)
 
-1. 마케팅 모멘트를 검색하고 선택합니다.\
+1. 마케팅 순간을 검색하고 선택합니다.\
    ![](assets/image2015-7-7-17-3a19-3a7.png)
 
-1. 그런 다음 **열기를 누릅니다**.\
+1. 그런 다음 **열기**&#x200B;를 누릅니다.\
    ![](assets/image2015-7-7-17-3a20-3a51.png)
 
-## Android용 {#for-android}
+## Android {#for-android}의 경우
 
-1. Google [Play로 이동합니다](https://play.google.com/store?hl=en).
+1. [Google Play](https://play.google.com/store?hl=en)로 이동합니다.
 1. Marketing To Moment를 검색하고 을 눌러 다운로드합니다.\
    ![](assets/image2015-7-14-9-3a6-3a34.png)
 
-1. 승인을 **누릅니다**.\
+1. **수락**&#x200B;을 누릅니다.\
    ![](assets/image2015-7-7-16-3a41-3a47.png)
 
-1. 설치를 **누릅니다**.\
+1. **설치**&#x200B;를 누릅니다.\
    ![](assets/image2015-7-7-16-3a43-3a21.png)
 
 즐기세요!
@@ -44,9 +44,9 @@ App Store 또는 Google Play에서 Marketing To Moments 다운로드 및 Voila! 
 >
 >일반적인 Marketing To 로그인 및 암호로 로그인합니다.
 >
->SAML(Security Assertion Markup Language)의 SSO(Single Sign-On)는 Marketing-to-Moment에서 지원되지 않습니다.
+>SAML(Security Assertion Markup Language)의 SSO(Single Sign-On)는 마케팅 단계에서 지원되지 않습니다.
 
 >[!MORELIKETHIS]
 >
->[마케팅 모멘트 이해](../../../../../product-docs/core-marketo-concepts/mobile-apps/marketo-moments/understanding-moments/understanding-marketo-moments.md)
+>[마케팅을 위한 고객 의견 이해](../../../../../product-docs/core-marketo-concepts/mobile-apps/marketo-moments/understanding-moments/understanding-marketo-moments.md)
 
