@@ -13,7 +13,7 @@ ht-degree: 0%
 
 # 마케팅 달력에서 필터 정의 공유 {#sharing-a-filter-definition-in-the-marketing-calendar}
 
-필터는 여러 사용자 간에 공유할 수 있습니다.
+필터는 다른 사용자 간에 공유할 수 있습니다.
 
 >[!PREREQUISITES]
 >
@@ -36,7 +36,7 @@ ht-degree: 0%
 
    ![](assets/image2014-9-24-11-3a31-3a24.png)
 
-1. URL을 복사하고 다른 Marketing To 사용자와 공유합니다.
+1. URL을 복사하고 다른 Marketing Cloud 사용자와 공유합니다.
 
    ![](assets/image2014-9-24-11-3a31-3a29.png)
 
