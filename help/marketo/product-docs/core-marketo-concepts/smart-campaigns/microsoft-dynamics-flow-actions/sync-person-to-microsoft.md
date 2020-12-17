@@ -1,6 +1,6 @@
 ---
 unique-page-id: 7514027
-description: Microsoft와 개인 동기화 - Marketing To Docs - 제품 설명서
+description: Microsoft에 사람 동기화 - Marketing To Docs - 제품 설명서
 title: Microsoft에 사람 동기화
 translation-type: tm+mt
 source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
@@ -11,17 +11,17 @@ ht-degree: 0%
 ---
 
 
-# Microsoft에 사람 동기화 {#sync-person-to-microsoft}
+# Microsoft {#sync-person-to-microsoft}에 사람 동기화
 
-이 기능은 Microsoft Dynamics와 Marketing To를 통합하는 사용자에게만 적용됩니다.
+이 기능은 Marketing To를 Microsoft Dynamics와 통합한 사용자에게만 제공됩니다.
 
 ## 개요 {#overview}
 
-이 흐름 단계에서는 Marketing에서 만든 사람을 Dynamics CRM에 삽입합니다.
+이 흐름 단계는 Dynamics CRM에 Marketing-to에서 만든 사람을 삽입합니다.
 
 ![](assets/one.png)
 
-## 사용 {#usage}
+## 사용량 {#usage}
 
 Dynamics 사용자를 개인 소유자로 설정할 수 있습니다.
 
@@ -29,5 +29,5 @@ Dynamics 사용자를 개인 소유자로 설정할 수 있습니다.
 
 >[!NOTE]
 >
->&quot;사람과 Microsoft 동기화&quot; 플로우 동작(트리거 캠페인에만 해당)을 사용하는 경우 리드/연락처가 Dynamics에서 실시간으로 생성됩니다.
+>&quot;Microsoft에 사람 동기화&quot; 흐름 작업을 사용하는 경우(트리거 캠페인에서만) 리드/연락처가 Dynamics에서 실시간으로 만들어집니다.
 
