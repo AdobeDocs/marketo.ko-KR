@@ -1,7 +1,7 @@
 ---
 unique-page-id: 2360331
-description: 마케팅 사용자 지정 필드 유형 변경 - 마케팅 문서 - 제품 설명서
-title: 마케팅 사용자 지정 필드의 유형 변경
+description: 마케팅 유형 사용자 지정 필드 - 마케팅 문서 - 제품 설명서 변경
+title: 마케팅 유형 사용자 지정 필드 변경
 translation-type: tm+mt
 source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
 workflow-type: tm+mt
@@ -11,11 +11,11 @@ ht-degree: 0%
 ---
 
 
-# 마케팅 사용자 지정 필드의 유형 변경 {#change-the-type-of-a-marketo-custom-field}
+# 마케팅 유형 사용자 지정 필드 {#change-the-type-of-a-marketo-custom-field} 변경
 
 사용자 지정 필드의 필드 유형을 변경하는 방법은 다음과 같습니다.
 
-1. **Admin **으로 이동하고 필드 **관리를 클릭합니다**.
+1. **Admin **으로 이동하고 **필드 관리**&#x200B;를 클릭합니다.
 
    ![](assets/image2014-9-18-13-3a4-3a39.png)
 
@@ -23,7 +23,7 @@ ht-degree: 0%
 
    ![](assets/image2014-9-18-13-3a4-3a48.png)
 
-1. 필드 **작업** 드롭다운에서 유형 **변경을 클릭합니다**.
+1. **필드 작업** 드롭다운에서 **변경 유형**&#x200B;을 클릭합니다.
 
    ![](assets/image2014-9-18-13-3a4-3a57.png)
 
@@ -49,7 +49,7 @@ ht-degree: 0%
    >
    >    
    >    
-   >    * [Marketing To에서 사용자 지정 필드 만들기](create-a-custom-field-in-marketo.md)
+   >    * [Marketing To에서 사용자 정의 필드 만들기](create-a-custom-field-in-marketo.md)
 
 
-사용자 지정 필드의 형식이 변경되었습니다. 만세!
+이제 사용자 정의 필드의 유형이 다릅니다. 만세!
