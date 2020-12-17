@@ -18,11 +18,11 @@ ht-degree: 0%
 
    ![이미지 원](/help/sky/assets/engagement-programs/add-a-stream-to-an-engagement-program/add-a-stream-to-an-engagement-program-1.png)
 
-1. 탭을 **[!UICONTROL Streams]** 클릭합니다.
+1. **[!UICONTROL Streams]** 탭을 클릭합니다.
 
    ![이미지 2](/help/sky/assets/engagement-programs/add-a-stream-to-an-engagement-program/add-a-stream-to-an-engagement-program-2.png)
 
-1. 을 **[!UICONTROL Add Stream]**&#x200B;클릭합니다.
+1. **[!UICONTROL Add Stream]**&#x200B;을 클릭합니다.
 
    ![이미지 3](/help/sky/assets/engagement-programs/add-a-stream-to-an-engagement-program/add-a-stream-to-an-engagement-program-3.png)
 
