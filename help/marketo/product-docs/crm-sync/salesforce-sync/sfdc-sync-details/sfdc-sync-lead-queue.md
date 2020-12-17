@@ -13,9 +13,9 @@ ht-degree: 0%
 
 # SFDC 동기화:리드 큐 {#sfdc-sync-lead-queue}
 
-Marketing에서는 리드 배포에 도움이 되도록 [Salesforce 리드](https://help.salesforce.com/apex/HTViewHelpDoc?id=queues_overview.htm) 큐에 사람을 추가할 수 있습니다. 자세한 내용은
+Marketing에서는 리드 배포에 도움이 되도록 [Salesforce 리드 큐](https://help.salesforce.com/apex/HTViewHelpDoc?id=queues_overview.htm)에 사용자를 추가할 수 있습니다. 자세한 내용은
 
-## Marketing To의 대기열에 사람을 할당하는 방법 {#how-to-assign-a-person-to-a-queue-in-marketo}
+## Marketing To의 대기열에 사람을 할당하는 방법{#how-to-assign-a-person-to-a-queue-in-marketo}
 
 다음 흐름 작업 중 하나를 사용하여 Salesforce 리드 큐에 사람을 할당할 수 있습니다.
 
@@ -26,7 +26,7 @@ Marketing에서는 리드 배포에 도움이 되도록 [Salesforce 리드](http
 >
 >Marketing To에서 큐를 만들거나 변경할 수 없습니다.
 
-## 개인이 큐에 속해 있는 경우 리드 소유자 정보는 어떻게 저장됩니까? {#how-is-lead-owner-information-stored-if-the-person-belongs-to-a-queue}
+## 개인이 큐에 속해 있는 경우 리드 소유자 정보는 어떻게 저장됩니까?{#how-is-lead-owner-information-stored-if-the-person-belongs-to-a-queue}
 
 리드가 Salesforce의 대기열에 있는 경우 리드가 소유자에게 할당될 때까지 이러한 영업 소유자 필드는 비어 있게 됩니다.
 
