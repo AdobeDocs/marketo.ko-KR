@@ -14,17 +14,17 @@ ht-degree: 0%
 
 ![배너](/help/sky/assets/images/alt-sky-banner.png)
 
-이 [!DNL Marketo Sky] 인터페이스에서는 새로운 디자인, 워크플로우 및 기능을 활용하여 작업 시간을 단축할 수 있습니다 [!DNL Marketo].
+[!DNL Marketo Sky] 인터페이스는 새 디자인, 워크플로우 및 기능을 활용하여 [!DNL Marketo]의 이점을 최대한 활용할 수 있습니다.
 
 ## 시작하기
 
-* [Marketo Sky에서 사용 가능한 제품](/help/sky/marketo-sky-features.md)
+* [Marketo Sky에서 사용 가능한 항목](/help/sky/marketo-sky-features.md)
 
 * [시작하는 방법](/help/sky/how-to-enable-roles-for-marketo-sky.md)
 
-## 인기 문서
+## 인기 있는 문서
 
-* [Marketing To Image Editor](/help/sky/marketo-image-editor.md)
+* [Marketing To 이미지 편집기](/help/sky/marketo-image-editor.md)
 
 * [흐름 작업 저장](/help/sky/save-flow-actions.md)
 
