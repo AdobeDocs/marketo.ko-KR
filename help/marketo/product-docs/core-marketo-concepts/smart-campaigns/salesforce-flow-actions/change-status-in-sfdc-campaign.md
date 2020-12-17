@@ -11,27 +11,27 @@ ht-degree: 0%
 ---
 
 
-# SFDC 캠페인의 상태 변경 {#change-status-in-sfdc-campaign}
+# SFDC 캠페인 {#change-status-in-sfdc-campaign}의 상태 변경
 
 >[!NOTE]
 >
->Salesforce와 통합된 경우에만 제공됩니다.
+>Salesforce와 통합되어야 이용 가능
 
 ## 개요 {#overview}
 
 이 흐름 단계에서는 리드의 Salesforce 캠페인 멤버 상태를 변경할 수 있습니다.
 
-리드가 Salesforce에 없거나 아직 캠페인 멤버가 아닌 경우 자동으로 동기화되어 적절한 상태로 Salesforce 캠페인에 추가됩니다.
+리드가 Salesforce에 없거나 아직 캠페인 멤버가 아닌 경우 자동으로 동기화되고 적절한 상태로 Salesforce 캠페인에 추가됩니다.
 
 ![](assets/image2014-9-22-15-3a13-3a54.png)
 
-## 사용 {#usage}
+## 사용량 {#usage}
 
-1. 레코드가 포함된 Salesforce **캠페인** 을 먼저 찾아 선택합니다.
+1. 레코드가 있는 Salesforce **캠페인**&#x200B;을 먼저 찾아서 선택합니다.
 
    ![](assets/image2014-9-22-15-3a13-3a58.png)
 
-1. 그런 다음 **설정할** 새 **** 상태를 선택하면 됩니다.
+1. 그런 다음 설정할 **새로 만들기** **상태**&#x200B;를 선택하면 완료됩니다.
 
    ![](assets/image2014-9-22-15-3a14-3a0.png)
 
