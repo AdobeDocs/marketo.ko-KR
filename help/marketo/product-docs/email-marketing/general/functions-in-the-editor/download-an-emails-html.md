@@ -11,11 +11,11 @@ ht-degree: 0%
 ---
 
 
-# 이메일의 HTML 다운로드 {#download-an-emails-html}
+# 이메일의 HTML {#download-an-emails-html} 다운로드
 
-백업 및 기타 목적으로 Marketing에서 이메일의 HTML 내용을 다운로드할 수 있습니다.
+백업 및 기타 목적으로 Marketing에서 이메일의 HTML 컨텐츠를 다운로드할 수 있습니다.
 
-1. 이메일을 찾아 선택합니다. 이메일 **작업** 드롭다운에서 HTML **다운로드를 클릭합니다**.
+1. 이메일을 찾아 선택합니다. **이메일 작업** 드롭다운에서 **HTML** 다운로드를 클릭합니다.
 
    ![](assets/one-4.png)
 
