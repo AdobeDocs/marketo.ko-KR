@@ -1,7 +1,7 @@
 ---
 unique-page-id: 1147249
 description: 글로벌 오버레이 사용 - 마케팅 문서 - 제품 설명서
-title: 전역 오버레이 사용
+title: 글로벌 오버레이 사용
 translation-type: tm+mt
 source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
@@ -13,11 +13,11 @@ ht-degree: 0%
 
 # 전역 오버레이 사용 {#using-a-global-overlay}
 
-프로그램 일정 보기의 글로벌 오버레이를 사용하면 다른 예약된 자산과 관련하여 프로그램을 볼 수 있습니다.
+프로그램 예약 보기의 글로벌 오버레이를 사용하면 다른 예약된 자산과 관련하여 프로그램을 볼 수 있습니다.
 
 >[!PREREQUISITES]
 >
->이 기능을 사용하려면 [마케팅 달력](../../../../product-docs/core-marketo-concepts/marketing-calendar/understanding-the-calendar/issue-revoke-a-marketing-calendar-license.md) 라이선스가 있어야 합니다.
+>이 기능을 사용하려면 [마케팅 달력 라이선스](../../../../product-docs/core-marketo-concepts/marketing-calendar/understanding-the-calendar/issue-revoke-a-marketing-calendar-license.md)가 있어야 합니다.
 
 ## 전역 오버레이 사용 {#use-the-global-overlay}
 
@@ -25,11 +25,11 @@ ht-degree: 0%
 
    ![](assets/image2014-9-24-10-16-4.png)
 
-1. 오른쪽 **아래** 모서리에서 [오버레이]를 선택합니다.
+1. 오른쪽 아래 모서리에서 **오버레이**&#x200B;를 선택합니다.
 
    ![](assets/image2014-9-24-10-3a16-3a9.png)
 
-1. 실선은 해당 날짜의 항목을 나타냅니다. 세부 사항을 보려면 클릭하십시오.
+1. 단색 블록은 해당 날짜의 항목을 나타냅니다. 세부 사항을 보려면 을 클릭합니다.
 
    ![](assets/image2014-9-24-10-3a16-3a14.png)
 
@@ -39,13 +39,13 @@ ht-degree: 0%
 
 ## 저장된 필터를 오버레이로 사용 {#use-a-saved-filter-as-an-overlay}
 
-마케팅 달력에 필터를 [저장한 경우](../../../../product-docs/core-marketo-concepts/marketing-calendar/working-with-the-calendar/saving-a-filter-definition-in-the-marketing-calendar.md)프로그램 예약 보기에서 오버레이로 사용할 수 있습니다.
+[마케팅 달력](../../../../product-docs/core-marketo-concepts/marketing-calendar/working-with-the-calendar/saving-a-filter-definition-in-the-marketing-calendar.md)에 필터를 저장한 경우 프로그램 일정 보기에서 오버레이로 사용할 수 있습니다.
 
-1. 오버레이 **드롭다운을** 클릭하고 필터 정의를 선택합니다.
+1. **오버레이** 드롭다운을 클릭하고 필터 정의를 선택합니다.
 
    ![](assets/image2014-9-24-10-3a16-3a26.png)
 
-   정말 쉬워! 이제 저장 및 선택한 필터에 의해 정의된 오버레이가 표시됩니다.
+   너무 쉬워! 이제 저장 및 선택한 필터에 의해 정의된 오버레이가 표시됩니다.
 
    ![](assets/image2014-9-24-10-3a16-3a31.png)
 
