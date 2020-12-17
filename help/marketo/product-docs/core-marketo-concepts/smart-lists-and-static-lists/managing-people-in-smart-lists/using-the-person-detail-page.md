@@ -15,7 +15,7 @@ ht-degree: 0%
 
 개인 세부 사항 페이지에는 Marketing에서 개인에 대해 알고 있는 모든 정보가 들어 있습니다. 이 페이지에서 직접 데이터를 편집할 수 있습니다.
 
-## 개인 정보 페이지에 가져오기 {#getting-to-person-detail-page}
+## 개인 상세 정보 페이지 {#getting-to-person-detail-page} 가져오기
 
 특정한 사람들을 여는 많은 방법들이 있다. 다음은 몇 가지 예입니다.
 
@@ -23,10 +23,10 @@ ht-degree: 0%
 >
 >**예**
 >
->* 데이터베이스에서 **빠른**&#x200B;찾기를 사용하여
->* 스마트 **목록** 또는 목록
->* **프로그램의 멤버** 탭
->* **스마트 캠페인에서 캠페인** 구성원 보기
+>* **데이터베이스**&#x200B;에서 빠른 찾기에서 검색할 수 있습니다
+>* 모든 스마트 **목록** 또는 목록
+>* **프로그램** 멤버십
+>* **스마트** 캠페인에서 캠페인 구성원 보기
 >* 일부 **보고서**
 
 >
@@ -98,7 +98,7 @@ ht-degree: 0%
 >
 >**자세히 알아보기**
 >
->일부 필드는 편집할 수 *없습니다* .
+>일부 필드는 편집할 수 없는 *입니다.*
 >
 >* 회사 정보
 >* SFDC 연락처 기회
@@ -107,7 +107,7 @@ ht-degree: 0%
 
 >
 >
-시스템 관리 필드에 대한 자세한 [내용을 살펴보십시오](../../../../product-docs/administration/field-management/understanding-system-managed-fields.md).
+[시스템 관리 필드](../../../../product-docs/administration/field-management/understanding-system-managed-fields.md)에 대해 자세히 알아보십시오.
 
 >[!MORELIKETHIS]
 >
