@@ -14,29 +14,29 @@ ht-degree: 0%
 
 <br> 
 
-달력에서 직접 새 일괄 처리 스마트 캠페인을 만들 수 있습니다.
+달력에서 직접 새 일괄 스마트 캠페인을 만들 수 있습니다.
 
 >[!NOTE]
 >
 >일괄 처리 스마트 캠페인만 프로그램 예약 보기에서 만들 수 있습니다. 트리거 캠페인은 지원되지 않습니다.
 
-1. 트리에서 프로그램을 선택한 다음 아래의 **[!UICONTROL Schedule]** 탭으로 이동합니다 **[!UICONTROL Overview]**.
+1. 트리에서 프로그램을 선택한 다음 **[!UICONTROL Overview]** 아래의 **[!UICONTROL Schedule]** 탭으로 이동합니다.
 
    ![이미지 원](/help/sky/assets/program-schedule-view/create-a-batch-smart-campaign-in-program-schedule-view/create-a-batch-smart-campaign-in-program-schedule-view-1.png)
 
-1. 항목을 추가할 날짜 위로 마우스를 가져간 다음 을 클릭합니다 **[!UICONTROL Add]**.
+1. 항목을 추가할 날짜 위로 마우스를 가져간 다음 **[!UICONTROL Add]**&#x200B;을 클릭합니다.
 
    ![이미지 2](/help/sky/assets/program-schedule-view/create-a-batch-smart-campaign-in-program-schedule-view/create-a-batch-smart-campaign-in-program-schedule-view-2.png)
 
    >[!NOTE]
    >
-   >유사한 단계를 수행하여 일, 주 또는 어젠다 보기에서 일괄 스마트 캠페인을 만들 수도 있습니다.
+   >유사한 단계를 수행하여 일, 주 또는 안건 보기에서 일괄 스마트 캠페인을 만들 수도 있습니다.
 
-1. 새 스마트 캠페인의 이름을 입력한 다음 **[!UICONTROL Type]** 으로 변경합니다 [!UICONTROL Smart Campaign]. 항목을 수정하고 항목 **[!UICONTROL Start Date]**&#x200B;을 만든 후 일정에서 유지하려면 선택을 취소할 **[!UICONTROL Open In Agenda View]** 수도 있습니다. 을 **[!UICONTROL Save]**&#x200B;클릭합니다.
+1. 새 스마트 캠페인의 이름을 입력한 다음 **[!UICONTROL Type]**&#x200B;을 [!UICONTROL Smart Campaign]으로 변경합니다. 항목을 만든 후 일정에 있으려면 **[!UICONTROL Start Date]**&#x200B;을 수정하고 **[!UICONTROL Open In Agenda View]**&#x200B;의 선택을 취소할 수도 있습니다. **[!UICONTROL Save]**&#x200B;을 클릭합니다.
 
    ![이미지 3](/help/sky/assets/program-schedule-view/create-a-batch-smart-campaign-in-program-schedule-view/create-a-batch-smart-campaign-in-program-schedule-view-3.png)
 
-1. 이제 달력에서 스마트 캠페인을 찾을 수 있습니다. 마우스를 가져가면 자세한 내용이 표시됩니다..
+1. 이제 달력에서 스마트 캠페인을 찾을 수 있습니다. 마우스를 올려 놓으면 자세한 내용..
 
    ![이미지 4](/help/sky/assets/program-schedule-view/create-a-batch-smart-campaign-in-program-schedule-view/create-a-batch-smart-campaign-in-program-schedule-view-4.png)
 
