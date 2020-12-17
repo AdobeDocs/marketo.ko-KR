@@ -21,11 +21,11 @@ ht-degree: 0%
 
 >[!PREREQUISITES]
 >
->중복 항목을 찾아 병합하면 [내장된/시스템 스마트 목록이 사용됩니다](../../../../product-docs/core-marketo-concepts/smart-lists-and-static-lists/using-smart-lists/use-built-in-system-smart-lists.md).
+>중복 항목을 찾아 병합하면 [내장/시스템 스마트 목록](../../../../product-docs/core-marketo-concepts/smart-lists-and-static-lists/using-smart-lists/use-built-in-system-smart-lists.md)이(가) 사용됩니다.
 
 ## 중복 항목 찾기 {#find-duplicates}
 
-1. 데이터베이스 **영역으로** 이동합니다.
+1. **데이터베이스** 영역으로 이동합니다.
 
    ![](assets/db.png)
 
@@ -33,19 +33,19 @@ ht-degree: 0%
    >
    >Salesforce 사람 계정을 사용하는 경우 Marketing에서 사람을 병합하면 작동하지 않을 수 있습니다. 가능하면 Salesforce의 레코드를 병합하십시오.
 
-1. [ **가능한** 복제 **** 시스템 **** ] 스마트 목록을선택하고 [사람] 탭을클릭합니다.
+1. **가능한 항목** **중복** 시스템 스마트 목록을 선택하고 **사람** 탭을 클릭합니다.
 
    ![](assets/two.png)
 
    >[!NOTE]
    >
-   >사용자 지정 [논리를 사용하여 중복 사람을 찾을 수도 있습니다](find-duplicate-people-with-custom-logic.md).
+   >[사용자 지정 로직을 사용하여 중복 인물 찾기](find-duplicate-people-with-custom-logic.md)도 할 수 있습니다.
 
-## 수동으로 인물 병합 {#merge-people-manually}
+## 수동으로 사람 병합 {#merge-people-manually}
 
 >[!CAUTION]
 >
->사람을 병합할 때, 유실된 사람이 Marketing To 사용자 지정 개체를 가지고 있으면 이 개체가 우승자와 다시 연결되지는 **않습니다** . 병합을 수행하기 전에 사용자 지정 개체를 다시 부모하십시오.
+>사람을 병합할 때, 유실된 사람에게 Marketing 사용자 지정 개체가 있는 경우, 이 개체는 우승한 사람과 다시 연결되지는 **않습니다.** 병합을 수행하기 전에 사용자 지정 개체를 다시 부모하십시오.
 
 Ctrl/Cmd를 누른 채 클릭하여 중복 항목을 선택한 다음 사람 병합을 클릭합니다.
 ![](assets/three.png)
@@ -54,7 +54,7 @@ Ctrl/Cmd를 누른 채 클릭하여 중복 항목을 선택한 다음 사람 병
 >
 >동일한 사용자에 대해 두 개 이상의 중복 항목이 있을 수 있습니다. 한 번에 모두 선택하십시오.
 
-1. 일치하지 *않는 레코드 사이의 값이* 표시됩니다. 각 필드에 유지할 값을 선택합니다. 완료되면 **병합을** 클릭합니다. 두 값 중 하나를 원하지 않는 경우 [사용자 정의]를 **확인하고** 원하는 값을 입력할 수 있습니다.
+1. *일치하지 않는 레코드 사이의 값이 표시됩니다*. 각 필드에 유지할 값을 선택합니다. 완료되면 **병합**&#x200B;을 클릭합니다. 두 값 중 하나를 원하지 않는 경우 **사용자 지정**&#x200B;을 선택하고 원하는 값을 입력할 수 있습니다.
 
    ![](assets/four.png)
 
@@ -66,7 +66,7 @@ Ctrl/Cmd를 누른 채 클릭하여 중복 항목을 선택한 다음 사람 병
    >
    >병합은 삭제하는 것보다 낫습니다. 모든 내역(페이지 방문, 링크 클릭 수, 이메일 열기, 양식 채우기 등)을 보존합니다.
 
-## Salesforce의 효과 {#effect-in-salesforce}
+## Salesforce {#effect-in-salesforce}의 효과
 
 Salesforce와의 통합이 있는 경우 Salesforce에서 리드 병합이 미치는 영향에 대한 몇 가지 메모가 있습니다.
 
