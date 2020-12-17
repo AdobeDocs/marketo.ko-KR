@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# 작업 공간 삭제 {#delete-a-workspace}
+# 작업 영역 {#delete-a-workspace} 삭제
 
 >[!NOTE]
 >
