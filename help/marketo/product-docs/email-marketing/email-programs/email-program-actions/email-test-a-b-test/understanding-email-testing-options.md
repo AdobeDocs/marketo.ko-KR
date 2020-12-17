@@ -13,14 +13,14 @@ ht-degree: 0%
 
 # 이메일 테스트 옵션 이해 {#understanding-email-testing-options}
 
-이메일 테스트를 통해 참여도 향상 Marketing To에는 두 가지 유형의 이메일 테스트가 있습니다.
+이메일 테스트를 통해 참여 점수를 향상시킬 수 있습니다. Marketing Cloud에는 두 가지 유형의 이메일 테스트가 있습니다.
 
 ## A/B 테스트 {#a-b-testing}
 
-이는 [이메일 프로그램을 사용한 일회용 이메일입니다](http://docs.marketo.com/display/docs/email+programs). A/ [B 테스트를](add-an-a-b-test.md) 추가하면 작은 그룹이 테스트를 받게 되고 나머지는 우승자가 됩니다.
+이것은 [이메일 프로그램](http://docs.marketo.com/display/docs/email+programs)을 사용하는 일회성 이메일에 대한 것입니다. [A/B 테스트](add-an-a-b-test.md)를 추가하면 작은 그룹이 테스트를 받게 되고 나머지 그룹이 우승자가 됩니다.
 
 ## 이메일 챔피언/도전자 {#email-champion-challenger}
 
-스마트 캠페인 또는 [참여 프로그램](http://docs.marketo.com/display/docs/drip+nurturing)트리거 시 사용되는 지속적인 이메일의 경우 [이메일 챔피언/도전자](http://docs.marketo.com/pages/viewpage.action?pageid=2359551) 테스트를 추가할 수 있습니다. 이렇게 하면 받는 사람의 비율이 변경됩니다.
+스마트 캠페인 또는 [참여 프로그램](http://docs.marketo.com/display/docs/drip+nurturing)에 사용되는 진행 중인 이메일의 경우 [이메일 챔피언/도전자](http://docs.marketo.com/pages/viewpage.action?pageid=2359551) 테스트를 추가할 수 있습니다. 이렇게 하면 받는 사람의 비율이 변경됩니다.
 
-테스트 성공!
+테스트 완료!
