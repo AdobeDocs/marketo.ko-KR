@@ -1,7 +1,7 @@
 ---
 unique-page-id: 4720476
-description: 아이콘 용어집 - 마케팅 문서 - 제품 설명서
-title: 아이콘 용어집
+description: 아이콘 용어 - Marketing Docs - 제품 설명서
+title: 아이콘 용어
 translation-type: tm+mt
 source-git-commit: 0ec525defbefe610f0bd1227b1c8f8e125d8e362
 workflow-type: tm+mt
@@ -28,7 +28,7 @@ ht-degree: 0%
   <tr> 
    <td> 
     <div> 
-     <img alt="--" src="assets/image2016-2-24-11-3a16-3a17.png"> 
+     <img alt="—" src="assets/image2016-2-24-11-3a16-3a17.png"> 
     </div></td> 
    <td><span>폴더</span></td> 
   </tr> 
@@ -56,23 +56,23 @@ ht-degree: 0%
   <tr> 
    <td colspan="1"> 
     <div> 
-     <img alt="--" height="25" src="assets/share-to.png"> 
+     <img alt="—" height="25" src="assets/share-to.png"> 
     </div></td> 
-   <td colspan="1">다른 작업 공간과 공유한 소스 폴더</td> 
+   <td colspan="1">다른 작업 영역과 공유한 소스 폴더</td> 
   </tr> 
   <tr> 
    <td colspan="1"> 
     <div> 
-     <img alt="--" width="25" src="assets/share-from.png"> 
+     <img alt="—" width="25" src="assets/share-from.png"> 
     </div></td> 
-   <td colspan="1">다른 작업 영역에서 공유된 대상 폴더 <br>(자물쇠는 편집할 수 없음을 나타냅니다.)</td> 
+   <td colspan="1">다른 작업 공간 <br>(자물쇠는 편집할 수 없음을 나타냅니다.)</td> 
   </tr> 
   <tr> 
    <td> 
     <div> 
      <img src="assets/image2015-1-9-9-3a23-3a11.png"> 
     </div></td> 
-   <td>보관 폴더 또는 보관 폴더로 변환(모든 폴더 및 보관된 프로그램에 표시될 수 있음)</td> 
+   <td>보관 폴더 또는 보관 폴더로 변환(모든 폴더 및 보관된 프로그램에 대해 표시될 수 있음)</td> 
   </tr> 
   <tr> 
    <td> 
@@ -91,7 +91,7 @@ ht-degree: 0%
   <tr> 
    <td colspan="1"> 
     <div> 
-     <img alt="--" height="22" width="22" src="assets/trigger.png" title="--"> 
+     <img alt="—" height="22" width="22" src="assets/trigger.png" title="—"> 
     </div></td> 
    <td colspan="1">트리거</td> 
   </tr> 
@@ -107,7 +107,7 @@ ht-degree: 0%
     <div> 
      <img src="assets/image2015-1-9-10-3a38-3a59.png"> 
     </div></td> 
-   <td>역사</td> 
+   <td>내역</td> 
   </tr> 
   <tr> 
    <td> 
@@ -153,7 +153,7 @@ ht-degree: 0%
     <div> 
      <img src="assets/image2015-1-8-15-3a58-3a8.png"> 
     </div></td> 
-   <td>작업 영역 및 분할 영역</td> 
+   <td>작업 영역 및 파티션</td> 
   </tr> 
   <tr> 
    <td> 
@@ -251,7 +251,7 @@ ht-degree: 0%
     <div> 
      <img src="assets/image2015-1-8-18-3a25-3a25.png"> 
     </div></td> 
-   <td>문치킨</td> 
+   <td>먼크킨</td> 
   </tr> 
   <tr> 
    <td> 
@@ -300,14 +300,14 @@ ht-degree: 0%
     <div> 
      <img src="assets/image2015-1-9-8-3a40-3a3.png"> 
     </div></td> 
-   <td>관리</td> 
+   <td>관리자</td> 
   </tr> 
   <tr> 
    <td> 
     <div> 
      <img src="assets/image2015-1-9-8-3a46-3a19.png"> 
     </div></td> 
-   <td>알림 - 시스템 전체에 중요한 알림</td> 
+   <td>알림 - 시스템 전체 중요 알림</td> 
   </tr> 
  </tbody> 
 </table>
@@ -346,7 +346,7 @@ ht-degree: 0%
     <div> 
      <img src="assets/image2014-12-23-11-3a28-3a3.png"> 
     </div></td> 
-   <td>참여 증대</td> 
+   <td>참여 인재 양성</td> 
   </tr> 
   <tr> 
    <td> 
@@ -360,7 +360,7 @@ ht-degree: 0%
     <div> 
      <img src="assets/image2014-12-23-11-3a40-3a19.png"> 
     </div></td> 
-   <td>관여 점수 변경(일시 중지됨, 보통)</td> 
+   <td>관여 범위 변경(일시 중지됨, 표준)</td> 
   </tr> 
   <tr> 
    <td> 
@@ -381,7 +381,7 @@ ht-degree: 0%
     <div> 
      <img src="assets/image2015-1-5-11-3a12-3a45.png"> 
     </div></td> 
-   <td>요청된 스마트 캠페인(판매 통찰력 또는 마케팅 흐름 조치)</td> 
+   <td>요청된 스마트 캠페인(Sales Insight 또는 Marketing To Flow Action)</td> 
   </tr> 
   <tr> 
    <td> 
@@ -409,21 +409,21 @@ ht-degree: 0%
     <div> 
      <img src="assets/image2015-1-5-11-3a45-3a39.png"> 
     </div></td> 
-   <td>이메일 프로그램 <br>(빨간색 플래그 다운 = 이메일이 아직 전송되지 않음)</td> 
+   <td>이메일 프로그램 <br>(빨간색 플래그 다운 = 이메일이 아직 전송되지 않았습니다.)</td> 
   </tr> 
   <tr> 
    <td colspan="1"> 
     <div> 
-     <img alt="--" src="assets/hs-icon.png" title="--"> 
+     <img alt="—" src="assets/hs-icon.png" title="—"> 
     </div></td> 
-   <td colspan="1">바로 시작을 사용하여 예약된 이메일 프로그램</td> 
+   <td colspan="1">시작 시작 시 예약된 이메일 프로그램</td> 
   </tr> 
   <tr> 
    <td> 
     <div> 
      <img src="assets/image2015-1-5-11-3a51-3a1.png"> 
     </div></td> 
-   <td>스마트 캠페인 - 예약된 일괄 처리(확인 표시는 이전에 실행되었음을 나타냅니다)</td> 
+   <td>스마트 캠페인 - 예약된 배치(확인 표시는 이전에 실행되었음을 나타냅니다.)</td> 
   </tr> 
   <tr> 
    <td> 
@@ -458,7 +458,7 @@ ht-degree: 0%
     <div> 
      <img src="assets/image2015-1-9-14-3a40-3a19.png"> 
     </div></td> 
-   <td>양식 복제</td> 
+   <td>복제 양식</td> 
   </tr> 
   <tr> 
    <td> 
@@ -675,12 +675,12 @@ ht-degree: 0%
     <div> 
      <img src="assets/image2015-1-14-13-3a4-3a16.png"> 
     </div></td> 
-   <td colspan="1">전달 능력 도구</td> 
+   <td colspan="1">제공 가능 도구</td> 
   </tr> 
  </tbody> 
 </table>
 
-### Design Studio 아이콘 {#design-studio-icons}
+### 디자인 스튜디오 아이콘 {#design-studio-icons}
 
 <table> 
  <tbody> 
@@ -819,7 +819,7 @@ ht-degree: 0%
     <div> 
      <img src="assets/image2015-1-5-12-3a53-3a55.png"> 
     </div></td> 
-   <td>승인된 자산의 초안(초안이 승인될 때까지 라이브 상태가 아님)</td> 
+   <td>승인된 자산 초안(초안이 승인될 때까지 라이브 상태가 아님)</td> 
   </tr> 
   <tr> 
    <td> 
@@ -833,14 +833,14 @@ ht-degree: 0%
     <div> 
      <img src="assets/image2015-1-5-13-3a11-3a50.png"> 
     </div></td> 
-   <td>코드 조각 - 승인되지 않았거나 초안</td> 
+   <td>코드 단편 - 승인되지 않았거나 초안</td> 
   </tr> 
   <tr> 
    <td> 
     <div> 
      <img src="assets/image2015-1-5-13-3a29-3a18.png"> 
     </div></td> 
-   <td>코드 조각 - 승인됨</td> 
+   <td>코드 단편 - 승인됨</td> 
   </tr> 
   <tr> 
    <td colspan="1"> 
@@ -866,7 +866,7 @@ ht-degree: 0%
  </tbody> 
 </table>
 
-### Analytics 아이콘 {#analytics-icons}
+### 분석 아이콘 {#analytics-icons}
 
 <table> 
  <tbody> 
@@ -886,21 +886,21 @@ ht-degree: 0%
     <div> 
      <img src="assets/image2015-1-9-9-3a55-3a4.png"> 
     </div></td> 
-   <td>RCM(Revenue Cycle Model) - 승인되지 않음</td> 
+   <td>Revenue Cycle Model (RCM) - 승인되지 않음</td> 
   </tr> 
   <tr> 
    <td> 
     <div> 
      <img src="assets/image2015-1-9-9-3a56-3a30.png"> 
     </div></td> 
-   <td>RCM(Revenue Cycle Model) - 승인됨</td> 
+   <td>Revenue Cycle Model (RCM) - 승인됨</td> 
   </tr> 
   <tr> 
    <td> 
     <div> 
      <img src="assets/image2015-1-9-9-3a58-3a14.png"> 
     </div></td> 
-   <td>Revenue Cycle Model (RCM) - Approved with Draft</td> 
+   <td>수익 주기 모델(RCM) - 초안으로 승인됨</td> 
   </tr> 
   <tr> 
    <td> 
@@ -942,7 +942,7 @@ ht-degree: 0%
     <div> 
      <img src="assets/image2015-1-9-15-3a46-3a10.png"> 
     </div></td> 
-   <td>관심 영역 개요</td> 
+   <td>관심 항목 개요</td> 
   </tr> 
   <tr> 
    <td> 
@@ -988,7 +988,7 @@ ht-degree: 0%
     <div> 
      <img src="assets/image2015-1-5-13-3a53-3a27.png"> 
     </div></td> 
-   <td>달력 ICS - iCalendars, (통합 달력)</td> 
+   <td>달력 ICS - 달력,(통합 달력)</td> 
   </tr> 
   <tr> 
    <td> 
@@ -1009,7 +1009,7 @@ ht-degree: 0%
     <div> 
      <img src="assets/image2015-1-5-14-3a31-3a7.png"> 
     </div></td> 
-   <td>Salesforce(모든 SFDC 관련 항목 포함)</td> 
+   <td>Salesforce(모든 SFDC 관련 항목에도 있음)</td> 
   </tr> 
   <tr> 
    <td> 
@@ -1030,14 +1030,14 @@ ht-degree: 0%
     <div> 
      <img src="assets/image2015-1-5-15-3a47-3a48.png"> 
     </div></td> 
-   <td>새로 고침(일반적으로 실행 횟수, 보고서, 스마트 목록)</td> 
+   <td>새로 고침(보통 실행 횟수, 보고서, 스마트 목록)</td> 
   </tr> 
   <tr> 
    <td> 
     <div> 
      <img src="assets/image2015-1-5-16-3a1-3a29.png"> 
     </div></td> 
-   <td>스마트 멤버 보기(이전에 적격한 멤버와 최신)</td> 
+   <td>스마트 멤버 보기(이전에 적격한 항목 및 현재)</td> 
   </tr> 
  </tbody> 
 </table>
@@ -1055,7 +1055,7 @@ ht-degree: 0%
     <div> 
      <img src="assets/image2015-1-5-15-3a18-3a8.png"> 
     </div></td> 
-   <td>캠페인 되풀이 예약(여러 실행)</td> 
+   <td>캠페인 반복 예약(여러 실행)</td> 
   </tr> 
   <tr> 
    <td> 
@@ -1076,7 +1076,7 @@ ht-degree: 0%
     <div> 
      <img src="assets/image2015-1-5-14-3a31-3a7.png"> 
     </div></td> 
-   <td>Salesforce(모든 SFDC 관련 항목 포함)</td> 
+   <td>Salesforce(모든 SFDC 관련 항목에도 있음)</td> 
   </tr> 
   <tr> 
    <td> 
@@ -1090,14 +1090,14 @@ ht-degree: 0%
     <div> 
      <img src="assets/image2015-1-12-11-3a33-3a51.png"> 
     </div></td> 
-   <td>상대 점수(모든 점수 흐름 작업에도 표시)</td> 
+   <td>상대 점수(모든 채점 흐름 동작에 표시)</td> 
   </tr> 
   <tr> 
    <td> 
     <div> 
      <img src="assets/image2015-1-12-11-3a34-3a22.png"> 
     </div></td> 
-   <td>상대적 긴급성</td> 
+   <td>상대적인 긴급성</td> 
   </tr> 
   <tr> 
    <td> 
