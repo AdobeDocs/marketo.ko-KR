@@ -18,11 +18,11 @@ ht-degree: 0%
 
 ## 스마트 목록 규칙 저장
 
-1. 에서 [!UICONTROL Marketing Activities]스마트 캠페인을 선택하거나 새 캠페인을 만듭니다.
+1. [!UICONTROL Marketing Activities]에서 스마트 캠페인을 선택하거나 새 캠페인을 만듭니다.
 
    ![이미지 원](/help/sky/assets/smart-lists-and-static-lists/save-smart-list-rules/save-smart-list-rules-1.png)
 
-1. 을 **[!UICONTROL Smart List]**&#x200B;클릭합니다.
+1. **[!UICONTROL Smart List]**&#x200B;을 클릭합니다.
 
    ![이미지 2](/help/sky/assets/smart-lists-and-static-lists/save-smart-list-rules/save-smart-list-rules-2.png)
 
@@ -32,27 +32,27 @@ ht-degree: 0%
 
    ![이미지 4](/help/sky/assets/smart-lists-and-static-lists/save-smart-list-rules/save-smart-list-rules-4.png)
 
-1. 필터/트리거 추가를 완료하면 **[!UICONTROL Smart Campaign Actions]** 드롭다운을 클릭하고 선택합니다 **[!UICONTROL Save Smart List Rule]**.
+1. 필터/트리거 추가 작업이 완료되면 **[!UICONTROL Smart Campaign Actions]** 드롭다운을 클릭하고 **[!UICONTROL Save Smart List Rule]**&#x200B;을 선택합니다.
 
    ![이미지 5](/help/sky/assets/smart-lists-and-static-lists/save-smart-list-rules/save-smart-list-rules-5.png)
 
-1. 규칙 세트의 이름을 지정하고 을 클릭합니다 **[!UICONTROL Save]**.
+1. 규칙 세트의 이름을 지정하고 **[!UICONTROL Save]**&#x200B;을 클릭합니다.
 
    ![이미지 6](/help/sky/assets/smart-lists-and-static-lists/save-smart-list-rules/save-smart-list-rules-6.png)
 
-그게 다야! 다음에 스마트 캠페인을 만들 때 동일한 정확한 규칙 세트에 액세스할 수 있습니다. 사실, 지금 하자...
+바로 그거야! 다음에 스마트 캠페인을 만들 때 동일한 정확한 규칙 세트에 액세스할 수 있습니다. 사실, 지금...
 
 ## 저장된 스마트 목록 규칙 사용
 
-1. 에서 [!UICONTROL Marketing Activities]스마트 캠페인을 선택하거나 새 캠페인을 만듭니다.
+1. [!UICONTROL Marketing Activities]에서 스마트 캠페인을 선택하거나 새 캠페인을 만듭니다.
 
    ![이미지 7](/help/sky/assets/smart-lists-and-static-lists/save-smart-list-rules/save-smart-list-rules-7.png)
 
-1. 을 **[!UICONTROL Smart List]**&#x200B;클릭합니다.
+1. **[!UICONTROL Smart List]**&#x200B;을 클릭합니다.
 
    ![이미지 8](/help/sky/assets/smart-lists-and-static-lists/save-smart-list-rules/save-smart-list-rules-8.png)
 
-1. 드롭다운을 **[!UICONTROL Saved Rule]** 클릭합니다.
+1. **[!UICONTROL Saved Rule]** 드롭다운을 클릭합니다.
 
    ![이미지 9](/help/sky/assets/smart-lists-and-static-lists/save-smart-list-rules/save-smart-list-rules-9.png)
 
