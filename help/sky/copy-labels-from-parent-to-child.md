@@ -14,9 +14,9 @@ ht-degree: 0%
 
 <br> 
 
-상위에서 하위 자산으로 레이블을 복사하려면 탭 아래의 자산 [!UICONTROL Details] 페이지로 [!UICONTROL Overview] 이동합니다.
+상위에서 하위 자산으로 레이블을 복사하려면 [!UICONTROL Overview] 탭 아래의 자산의 [!UICONTROL Details] 페이지로 이동합니다.
 
-섹션에서 를 [!UICONTROL Labels] 클릭합니다 **[!UICONTROL Copy Labels From Parent]**.
+[!UICONTROL Labels] 섹션에서 **[!UICONTROL Copy Labels From Parent]**&#x200B;을 클릭합니다.
 
 ![이미지 원](/help/sky/assets/labels/copy-labels-from-parent-to-child/copy-labels-from-parent-to-child-1.jpg)
 
