@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# 시작 팩 이해 및 사용 {#understanding-and-using-the-launch-pack}
+# 시작 팩 {#understanding-and-using-the-launch-pack} 이해 및 사용
 
 ![](assets/coming-soon.png)
 
