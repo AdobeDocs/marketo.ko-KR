@@ -14,7 +14,7 @@ ht-degree: 0%
 
 <br> 
 
-트리의 아이콘은 캠페인 및 자산에 대한 많은 정보를 제공합니다. 여기 다양한 아이콘과 그 의미들의 목록이 있습니다.
+트리의 아이콘은 캠페인과 자산에 대한 많은 정보를 제공합니다. 다양한 아이콘과 그 의미에 대한 목록이 여기 있습니다.
 
 ![이미지 원](/help/sky/assets/tree/understanding-icons-in-the-tree/understanding-icons-in-the-tree-1.png)
 
