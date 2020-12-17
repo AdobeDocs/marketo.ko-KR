@@ -13,7 +13,7 @@ ht-degree: 0%
 
 # 시스템 관리 필드 이해 {#understanding-system-managed-fields}
 
-개인 [세부 정보 페이지에 Marketing To에서 만든 편집](../../../product-docs/core-marketo-concepts/smart-lists-and-static-lists/managing-people-in-smart-lists/using-the-person-detail-page.md) 불가능한 필드가 여러 개 있음을 인지했을 수 있습니다. 이 데이터는 다양한 소스에서 유래되며, 표시할 수 있는 값들이 많이 있습니다.
+[개인 세부 정보 페이지](../../../product-docs/core-marketo-concepts/smart-lists-and-static-lists/managing-people-in-smart-lists/using-the-person-detail-page.md)에 Marketing To에서 만든 편집 불가능한 필드가 여러 개 있다는 것을 인지했을 수 있습니다. 이 데이터는 다양한 소스에서 유래되며, 표시할 수 있는 값들이 많이 있습니다.
 
 ## 필드 유형 {#field-types}
 
