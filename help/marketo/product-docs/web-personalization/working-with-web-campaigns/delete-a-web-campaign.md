@@ -11,15 +11,15 @@ ht-degree: 0%
 ---
 
 
-# 웹 캠페인 삭제 {#delete-a-web-campaign}
+# 웹 캠페인 {#delete-a-web-campaign} 삭제
 
-1. 웹 **캠페인으로 이동합니다**.
+1. **웹 캠페인**&#x200B;으로 이동합니다.
 
    ![](assets/web-campaigns-hand-3.jpg)
 
    >[!NOTE]
    >
-   >원하는 웹 캠페인을 쉽게 찾으려면 [필터 기능을 사용하십시오](filter-web-campaigns.md).
+   >원하는 웹 캠페인을 쉽게 찾으려면 [필터 기능](filter-web-campaigns.md)을 사용하십시오.
 
 1. 웹 캠페인 페이지에서 삭제할 캠페인에서 **삭제 **를 클릭합니다.
 
