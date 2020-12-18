@@ -13,9 +13,9 @@ ht-degree: 0%
 
 # 보고서 유형 개요 {#report-type-overview}
 
-프로그램에서 보고서 [를 만들](../../../../product-docs/reporting/basic-reporting/creating-reports/create-a-report-in-a-program.md)때 원하는 보고서 유형을 선택합니다.
+[프로그램](../../../../product-docs/reporting/basic-reporting/creating-reports/create-a-report-in-a-program.md)에서 보고서를 만들 때 원하는 보고서 유형을 선택합니다.
 
-## 가장 많이 사용한 보고서 {#most-used-reports}
+## 가장 많이 사용된 보고서 {#most-used-reports}
 
 <table> 
  <thead> 
@@ -47,7 +47,7 @@ ht-degree: 0%
   </tr> 
   <tr> 
    <td><strong>  <a href="../../../../product-docs/reporting/revenue-cycle-analytics/revenue-tools/people-by-revenue-stage-report.md">매출 단계별 사람 보고서</a>  </strong></td> 
-   <td>매출 모델에 대한 <a href="http://docs.marketo.com/display/docs/revenue+cycle+analytics">기본 보고</a>. 자세한 보고 <a href="http://docs.marketo.com/display/docs/revenue+cycle+analytics">는</a> 매출 주기 분석을 참조하십시오.</td> 
+   <td><a href="http://docs.marketo.com/display/docs/revenue+cycle+analytics">매출 모델</a>에 대한 기본 보고. 자세한 보고는 <a href="http://docs.marketo.com/display/docs/revenue+cycle+analytics">매출 주기 분석</a>을 참조하십시오.</td> 
   </tr> 
   <tr> 
    <td><strong>  <a href="../../../../product-docs/demand-generation/landing-pages/understanding-landing-pages/landing-page-performance-report.md">랜딩 페이지 성능</a>  </strong></td> 
@@ -55,7 +55,7 @@ ht-degree: 0%
   </tr> 
   <tr> 
    <td><strong>  <a href="../../../../product-docs/core-marketo-concepts/programs/program-performance-report/create-a-program-performance-report.md">프로그램 성능</a>  </strong></td> 
-   <td>구성원 및 성공과 같은 기본 프로그램 지표. 자세한 보고 <a href="http://docs.marketo.com/display/docs/revenue+cycle+analytics">는</a> 매출 주기 분석을 참조하십시오.</td> 
+   <td>구성원 및 성공과 같은 기본 프로그램 지표. 자세한 보고는 <a href="http://docs.marketo.com/display/docs/revenue+cycle+analytics">매출 주기 분석</a>을 참조하십시오.</td> 
   </tr> 
   <tr> 
    <td><strong>  <a href="company-web-activity-report.md">회사 웹 활동</a>  </strong></td> 
@@ -71,7 +71,7 @@ ht-degree: 0%
   </tr> 
   <tr> 
    <td><strong> <a href="../../../../product-docs/email-marketing/drip-nurturing/reports-and-notifications/engagement-stream-performance-report.md">참여 스트림 성능 보고서</a> </strong></td> 
-   <td><p>참여 프로그램 <a href="http://docs.marketo.com/display/docs/drip+nurturing">의</a> 효과를 확인해 보십시오.</p></td> 
+   <td><p><a href="http://docs.marketo.com/display/docs/drip+nurturing">참여 프로그램</a>이(가) 얼마나 잘 작동하는지 확인합니다.</p></td> 
   </tr> 
  </tbody> 
 </table>
@@ -89,5 +89,5 @@ ht-degree: 0%
 >
 >**자세히 알아보기**
 >
->이러한 보고서를 사용하여 할 수 있는 모든 작업을 보려면 [기본 보고](http://docs.marketo.com/display/docs/basic+reporting) 심층 설명을 참조하십시오.
+>이러한 보고서를 사용하여 할 수 있는 모든 작업을 보려면 [기본 보고](http://docs.marketo.com/display/docs/basic+reporting) 세부 정보 검색을 참조하십시오.
 
