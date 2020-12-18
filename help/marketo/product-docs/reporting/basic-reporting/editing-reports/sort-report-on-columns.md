@@ -11,11 +11,11 @@ ht-degree: 0%
 ---
 
 
-# 열 기준 보고서 정렬 {#sort-report-on-columns}
+# {#sort-report-on-columns} 열에 대한 보고서 정렬
 
 열을 사용하여 보고서의 데이터를 정렬하고 가장 중요한 수치를 쉽게 찾을 수 있습니다.
 
-1. Analytics **** (또는 **마케팅 활동**)로 이동합니다.
+1. **Analytics**(또는 **마케팅 활동**)으로 이동합니다.
 
    ![](assets/login-marketing-activities.png)
 
@@ -42,8 +42,8 @@ ht-degree: 0%
 
    >[!NOTE]
    >
-   >**딥 다이브**
+   >**자세히 알아보기**
    >
    >
-   >기본 보고의 보고서 작업에 필요한 모든 기능을 [살펴볼 수 있습니다](http://docs.marketo.com/display/docs/basic+reporting).
+   >[기본 보고](http://docs.marketo.com/display/docs/basic+reporting)에서 보고서를 사용하여 작업하는 모든 기능을 알아봅니다.
 
