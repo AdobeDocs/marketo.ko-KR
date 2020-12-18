@@ -1,6 +1,6 @@
 ---
 unique-page-id: 9437562
-description: 템플릿 11-C - Marketing Docs - 제품 설명서
+description: 템플릿 11-C - 마케팅 문서 - 제품 설명서
 title: 템플릿 11-C
 translation-type: tm+mt
 source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
@@ -17,10 +17,10 @@ ht-degree: 0%
 
 ![](assets/image2015-8-4-14-3a3-3a44.png)
 
-이 템플릿에는 다음 컨텐츠가 포함되어 있습니다.
+이 템플릿에는 다음 내용이 포함되어 있습니다.
 
-* 헤더(선택 사항)
-* 메인 이미지, 헤더, 비디오 및 본문 텍스트가 있는 기본 섹션
+* 머리글(선택 사항)
+* 메인 이미지, 머리글, 비디오 및 본문 텍스트가 있는 기본 섹션
 * 4개의 본문 섹션(선택 사항)
 * 양식이 있는 바닥글(선택 사항)
 
