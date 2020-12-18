@@ -1,6 +1,6 @@
 ---
 unique-page-id: 9438212
-description: 템플릿 18-C - Marketing Docs - 제품 설명서
+description: 템플릿 18-C - 마케팅 문서 - 제품 설명서
 title: 템플릿 18-C
 translation-type: tm+mt
 source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
@@ -17,9 +17,9 @@ ht-degree: 0%
 
 ![](assets/image2015-8-17-18-3a13-3a28.png)
 
-이 템플릿에는 다음 컨텐츠가 포함되어 있습니다.
+이 템플릿에는 다음 내용이 포함되어 있습니다.
 
-* 헤더(선택 사항)
+* 머리글(선택 사항)
 * 기본 섹션
 
 * 
