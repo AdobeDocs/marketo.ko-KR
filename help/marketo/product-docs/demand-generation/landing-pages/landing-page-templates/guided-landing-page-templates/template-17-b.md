@@ -1,6 +1,6 @@
 ---
 unique-page-id: 9438194
-description: 템플릿 17-B - Marketing Docs - 제품 설명서
+description: 템플릿 17-B - 마케팅 문서 - 제품 설명서
 title: 템플릿 17-B
 translation-type: tm+mt
 source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
@@ -17,7 +17,7 @@ ht-degree: 0%
 
 ![](assets/image2015-8-17-16-3a50-3a15.png)
 
-이 템플릿에는 다음 컨텐츠가 포함되어 있습니다.
+이 템플릿에는 다음 내용이 포함되어 있습니다.
 
 * 기본 섹션
 
