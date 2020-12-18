@@ -1,7 +1,7 @@
 ---
 unique-page-id: 2359736
 description: 무료 랜딩 페이지 이미지에 링크 추가 - Marketing To Docs - 제품 설명서
-title: 자유로운 형식의 랜딩 페이지 이미지에 링크 추가
+title: 자유형 랜딩 페이지 이미지에 링크 추가
 translation-type: tm+mt
 source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
@@ -11,11 +11,11 @@ ht-degree: 0%
 ---
 
 
-# 자유로운 형식의 랜딩 페이지 이미지에 링크 추가 {#add-a-link-to-a-free-form-landing-page-image}
+# 자유형 랜딩 페이지 이미지에 링크 추가 {#add-a-link-to-a-free-form-landing-page-image}
 
 >[!PREREQUISITES]
 >
->* [자유 형식 랜딩 페이지에 이미지 추가](add-an-image-to-a-free-form-landing-page.md)
+>* [자유형 랜딩 페이지에 이미지 추가](add-an-image-to-a-free-form-landing-page.md)
 
 >
 
@@ -29,7 +29,7 @@ ht-degree: 0%
 
    ![](assets/image2014-9-18-15-3a29-3a0.png)
 
-1. 링크 URL에 mailto 링크를 **입력합니다.**
+1. **링크 URL에 mailto 링크를 입력합니다.**
 
    ![](assets/image2014-9-18-15-3a29-3a21.png)
 
