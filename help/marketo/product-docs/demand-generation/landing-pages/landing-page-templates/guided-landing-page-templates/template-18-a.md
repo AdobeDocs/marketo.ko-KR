@@ -1,6 +1,6 @@
 ---
 unique-page-id: 9438206
-description: 템플릿 18-A - Marketing Docs - 제품 설명서
+description: 템플릿 18-A - 마케팅 문서 - 제품 설명서
 title: 템플릿 18-A
 translation-type: tm+mt
 source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
@@ -13,16 +13,16 @@ ht-degree: 0%
 
 # 템플릿 18-A {#template-a}
 
-[템플릿 다운로드 18-A](http://docs.marketo.com/download/attachments/9438206/template-18a.html?version=1&amp;modificationdate=1439843149000&amp;api=v2)
+[템플릿 18-A 다운로드](http://docs.marketo.com/download/attachments/9438206/template-18a.html?version=1&amp;modificationdate=1439843149000&amp;api=v2)
 
 ![](assets/image2015-8-17-17-3a57-3a23.png)
 
-이 템플릿에는 다음 컨텐츠가 포함되어 있습니다.
+이 템플릿에는 다음 내용이 포함되어 있습니다.
 
-* 헤더(선택 사항)
+* 머리글(선택 사항)
 * 기본 섹션
 
-   * 영웅 텍스트 및 두 개의 버튼 포함
+   * 메인 텍스트 및 2개의 버튼 포함
 
 * 5개의 본문 섹션(선택 사항)
 * 바닥글(선택 사항)
