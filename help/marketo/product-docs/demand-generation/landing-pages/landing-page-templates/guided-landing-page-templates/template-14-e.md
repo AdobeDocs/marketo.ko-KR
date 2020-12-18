@@ -13,13 +13,13 @@ ht-degree: 0%
 
 # 템플릿 14-E {#template-e}
 
-[템플릿 다운로드 14-E](http://docs.marketo.com/download/attachments/9437813/template-14e.html?version=1&amp;modificationdate=1438980353000&amp;api=v2)
+[템플릿 14-E 다운로드](http://docs.marketo.com/download/attachments/9437813/template-14e.html?version=1&amp;modificationdate=1438980353000&amp;api=v2)
 
 ![](assets/image2015-8-13-10-3a48-3a0.png)
 
-이 템플릿에는 다음 컨텐츠가 포함되어 있습니다.
+이 템플릿에는 다음 내용이 포함되어 있습니다.
 
-* 헤더(선택 사항)
+* 머리글(선택 사항)
 * 기본 섹션
 
    * 영웅 이미지 포함 및 자세한 내용 단추
