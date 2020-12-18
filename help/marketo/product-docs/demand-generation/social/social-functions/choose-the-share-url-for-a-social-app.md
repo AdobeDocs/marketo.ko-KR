@@ -1,6 +1,6 @@
 ---
 unique-page-id: 2359811
-description: 소셜 앱용 공유 URL - Marketing To Docs - 제품 설명서 선택
+description: 소셜 앱용 공유 URL - 마케팅 문서 - 제품 설명서 선택
 title: 소셜 앱에 대한 공유 URL 선택
 translation-type: tm+mt
 source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
@@ -11,19 +11,19 @@ ht-degree: 0%
 ---
 
 
-# 소셜 앱에 대한 공유 URL 선택 {#choose-the-share-url-for-a-social-app}
+# 소셜 앱 {#choose-the-share-url-for-a-social-app}에 대한 공유 URL 선택
 
-소셜 앱을 만들 때 참가자의 게시물에서 공유할 URL을 선택할 수 있습니다.
+소셜 앱을 만들 때 참여자의 게시물에서 공유할 URL을 선택할 수 있습니다.
 
-1. 마케팅 활동 **으로 이동합니다**.
+1. **마케팅 활동**&#x200B;으로 이동합니다.
 
    ![](assets/login-marketing-activities-1.png)
 
-1. 앱을 선택하고 초안 **편집을 클릭합니다**.
+1. 앱을 선택하고 **초안 편집**&#x200B;을 클릭합니다.
 
    ![](assets/image2015-4-21-11-3a12-3a12.png)
 
-1. 소셜 앱 편집기에서 **앱 설정** , **고급 옵션으로 이동합니다**.
+1. 소셜 앱 편집기에서 **앱 설정**&#x200B;으로 이동한 다음 **고급 옵션**&#x200B;으로 이동합니다.
 
    ![](assets/image2015-4-21-11-3a14-3a46.png)
 
@@ -36,7 +36,7 @@ ht-degree: 0%
    >**정의**
    >
    >
-   >게시물 공유는 다음 세 곳에 링크될 수 있습니다.
+   >게시물 공유는 다음 3곳에 링크될 수 있습니다.
    >
    >    
    >    
@@ -47,7 +47,7 @@ ht-degree: 0%
 
 >[!MORELIKETHIS]
 >
->* [소셜 앱에 개인정보 보호 정책 추가](add-your-privacy-policy-to-a-social-app.md)
+>* [소셜 앱에 개인정보 보호정책 추가](add-your-privacy-policy-to-a-social-app.md)
 
 >
 
