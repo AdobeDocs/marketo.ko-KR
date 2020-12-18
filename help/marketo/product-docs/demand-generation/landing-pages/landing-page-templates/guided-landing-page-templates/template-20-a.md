@@ -1,6 +1,6 @@
 ---
 unique-page-id: 10092905
-description: 템플릿 20-A - Marketing Docs - 제품 설명서
+description: 템플릿 20-A - 마케팅 문서 - 제품 설명서
 title: 템플릿 20-A
 translation-type: tm+mt
 source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
@@ -17,7 +17,7 @@ ht-degree: 0%
 
 ![](assets/image2015-9-18-9-3a1-3a49.png)
 
-이 템플릿에는 다음 컨텐츠가 포함되어 있습니다.
+이 템플릿에는 다음 내용이 포함되어 있습니다.
 
 * 기본 섹션
 
