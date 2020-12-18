@@ -11,25 +11,25 @@ ht-degree: 0%
 ---
 
 
-# 동적 컨텐츠 이해 {#understanding-dynamic-content}
+# 동적 내용 이해 {#understanding-dynamic-content}
 
-&quot;Hi&quot;보다 개인화에 더 많은 것이 `{{First Name}}`있습니다. Marketing To 동적 내용을 사용하면 여러 사람이 랜딩 페이지 또는 이메일을 보는 방식을 사용자 정의할 수 있습니다.
+&quot;Hi `{{First Name}}`&quot;보다 개인화에 더 많은 기능이 있습니다. Marketing To 동적 내용을 사용하면 여러 사람이 랜딩 페이지 또는 이메일을 보는 방식을 사용자 정의할 수 있습니다.
 
 ![](assets/artboard-1.png)
 
-## 세분화 {#segmentation}
+## 세그먼테이션 {#segmentation}
 
-우선 사람들을 하위 그룹으로 나누어야 합니다. 이를 세그멘테이션이라고 [합니다](create-a-segmentation.md).
+우선 사람들을 하위 그룹으로 나누어야 합니다. 이를 [세그먼테이션](create-a-segmentation.md)이라고 합니다.
 
 >[!NOTE]
 >
 >**정의**
 >
->세그멘테이션은 [스마트 라이브러리를 기반으로 대상을 다른 하위 그룹으로](../../../../product-docs/core-marketo-concepts/smart-campaigns/understanding-smart-campaigns.md)분류합니다. 이러한 그룹을 세그먼트라고 합니다.
+>세그멘테이션은 [스마트 목록](../../../../product-docs/core-marketo-concepts/smart-campaigns/understanding-smart-campaigns.md)규칙을 기반으로 고객을 다른 하위 그룹으로 분류합니다. 이러한 그룹을 세그먼트라고 합니다.
 
 예를 들어 업계라는 세그먼테이션이 있는 경우 세그먼트 중 일부는 다음과 같을 수 있습니다.의료, 기술, 금융, 소비자 상품 등   ![](assets/artboard-2.png)
 
-## 동적 컨텐츠 {#dynamic-content}
+## 동적 내용 {#dynamic-content}
 
 다른 세그먼트를 만들면 랜딩 페이지 또는 이메일에 동적 콘텐츠 블록을 추가할 수 있습니다. 이를 통해 어떤 사람이 컨텐츠를 보는지에 따라 컨텐츠가 달라지도록 할 수 있습니다.
 
@@ -37,7 +37,7 @@ ht-degree: 0%
 
 ## 코드 조각 {#snippets}
 
-[코드](../../../../product-docs/personalization/segmentation-and-snippets/snippets/create-a-snippet.md) 조각은 Marketing To의 유용한 도구입니다. 한 번 만들면 여러 곳에서 사용할 수 있습니다. 코드 조각을 업데이트하면 코드 조각을 사용하는 모든 자산(랜딩 페이지 또는 이메일)이 자동으로 업데이트됩니다.
+[스나입트씨](../../../../product-docs/personalization/segmentation-and-snippets/snippets/create-a-snippet.md) 는 Marketing Cloud의 유용한 도구입니다. 한 번 만들면 여러 곳에서 사용할 수 있습니다. 코드 조각을 업데이트하면 코드 조각을 사용하는 모든 자산(랜딩 페이지 또는 이메일)이 자동으로 업데이트됩니다.
 
 >[!NOTE]
 >
