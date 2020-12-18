@@ -1,6 +1,6 @@
 ---
 unique-page-id: 12979010
-description: 성과 통찰력 트렌드 개요 - Marketing Docs - 제품 설명서
+description: 성과 통찰력 트렌드 개요 - 마케팅 문서 - 제품 설명서
 title: 성과 통찰력 트렌드 개요
 translation-type: tm+mt
 source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
@@ -23,11 +23,11 @@ ht-degree: 0%
 
 ![](assets/2-1.png)
 
-성과를 볼 지표를 선택합니다. 이 예에서는 [첫 번째 터치를 통해 얻은 기회를 살펴보겠습니다](http://docs.marketo.com/display/DOCS/Understanding+Attribution).
+성과를 보려는 지표를 선택합니다. 이 예에서는 [첫 번째 접촉](http://docs.marketo.com/display/DOCS/Understanding+Attribution)을 통해 획득한 기회를 살펴보겠습니다.
 
 ![](assets/3-2.png)
 
-지표는 다음 두 차트를 통해 제공됩니다.도넛과 줄
+지표는 다음 2개의 차트를 통해 제공됩니다.도넛과 줄.
 
 ![](assets/4-1.png)
 
@@ -39,15 +39,15 @@ ht-degree: 0%
 
 ![](assets/6-1.png)
 
-하나 이상의 채널을 선택하면 라인 차트에 채널 트렌드가 표시됩니다. 채널을 다시 클릭하여 선택 취소합니다.
+하나 이상의 채널을 선택하면 라인 차트에 채널 트렌드가 표시됩니다. 채널을 다시 클릭하여 선택 해제합니다.
 
 ![](assets/7.png)
 
-아래 데이터 그리드는 스프레드시트와 같이 작동하며 지난 12개월 동안 선택한 지표에 대해 사용 가능한 모든 트렌드 데이터를 표시합니다.
+아래 데이터 격자는 스프레드시트와 같이 작동하며 지난 12개월 동안 선택한 지표에 대해 사용 가능한 모든 트렌드 데이터를 표시합니다.
 
 ![](assets/8.png)
 
-채널을 확장하면 상위 10개 프로그램이 표시되고 나머지 프로그램이 결합됩니다.
+채널을 확장하여 상위 10개 프로그램이 포함된 프로그램을 확인합니다.
 
 ![](assets/9-1.png)
 
