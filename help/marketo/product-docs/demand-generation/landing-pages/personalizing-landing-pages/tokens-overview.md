@@ -13,7 +13,7 @@ ht-degree: 0%
 
 # 토큰 개요 {#tokens-overview}
 
-토큰은 Marketing에서 [스마트 캠페인](http://docs.marketo.com/display/DOCS/Smart+Campaigns) 흐름 단계, [이메일](http://docs.marketo.com/display/DOCS/General), [랜딩 페이지](http://docs.marketo.com/display/DOCS/Landing+Pages), [코드 단편](http://docs.marketo.com/display/DOCS/Segmentation+and+Snippets)및 [웹 캠페인에 사용할 수 있는](http://docs.marketo.com/display/public/DOCS/Using+the+Web+Personalization+Rich+Text+Editor)변수입니다.
+토큰은 Marketing에서 [스마트 캠페인](http://docs.marketo.com/display/DOCS/Smart+Campaigns) 흐름 단계, [이메일](http://docs.marketo.com/display/DOCS/General), [랜딩 페이지](http://docs.marketo.com/display/DOCS/Landing+Pages), [snippets](http://docs.marketo.com/display/DOCS/Segmentation+and+Snippets) 및 [웹 캠페인](http://docs.marketo.com/display/public/DOCS/Using+the+Web+Personalization+Rich+Text+Editor)에 사용할 수 있는 변수입니다.
 
 ## 기본값 이해 {#understanding-default-values}
 
@@ -87,7 +87,7 @@ ht-degree: 0%
 * `{{lead.Unsubscribed}}`
 * `{{lead.Unsubscribed Reason}}`
 * `{{lead.Updated At}}`
-* 사용자 정의 개인 필드는 표시 이름을 사용하는 경우에도 작동합니다(예: `{{lead.Custom Field Name}}`
+* 사용자 정의 개인 필드는 표시 이름을 사용하는 경우에도 작동합니다(예: `{{lead.Custom Field Name}}`).
 
 ## 회사 토큰 {#company-tokens}
 
@@ -110,7 +110,7 @@ ht-degree: 0%
 * `{{Company.Site}}`
 * `{{Company.State}}`
 * `{{Company.Website}}`
-* 사용자 지정 회사 필드는 표시 이름을 사용한 경우에도 작동합니다. `{{Company.Custom Field Name}}`
+* 사용자 지정 회사 필드는 표시 이름을 사용한 경우에도 작동합니다.`{{Company.Custom Field Name}}`
 
 ## 캠페인 토큰 {#campaign-tokens}
 
@@ -122,7 +122,7 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->이러한 토큰에 대한 자세한 내용은 [시스템 토큰 용어집에 있습니다](/help/marketo/product-docs/email-marketing/general/using-tokens/system-tokens-glossary.md).
+>이러한 토큰에 대한 자세한 내용은 [시스템 토큰 용어](/help/marketo/product-docs/email-marketing/general/using-tokens/system-tokens-glossary.md)에서 확인하십시오.
 
 * `{{system.date}}`
 * `{{system.time}}`
@@ -149,7 +149,7 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->스마트 캠페인에 사용된 [트리거를 기반으로](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/features/tabs-in-the-msi-panel/interesting-moments/tokens-for-interesting-moments.md) 흥미로운 순간에 토큰에 대한 자세한 내용을 확인할 수 있습니다.
+>스마트 캠페인에 사용된 트리거를 기반으로 [흥미로운 순간에 대한 토큰에 대한 자세한 내용을 찾습니다.](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/features/tabs-in-the-msi-panel/interesting-moments/tokens-for-interesting-moments.md)
 
 ## 프로그램 토큰 {#program-tokens}
 
@@ -161,14 +161,14 @@ ht-degree: 0%
 
 ## 내 토큰 {#my-tokens}
 
-내 토큰은 프로그램 내에서 정의되며 그 뒤에 토큰에 대해 만든 이름이 `{{my.` 표시됩니다. 프로그램의 [내 토큰에 대해 자세히 알아보십시오](/help/marketo/product-docs/core-marketo-concepts/programs/tokens/understanding-my-tokens-in-a-program.md).
+내 토큰은 프로그램 내에서 정의되며 `{{my.`로 시작하고 토큰에 대해 만든 이름이 이어집니다. 프로그램](/help/marketo/product-docs/core-marketo-concepts/programs/tokens/understanding-my-tokens-in-a-program.md)의 [내 토큰에 대해 자세히 알아보십시오.
 
 ## 멤버 토큰 {#member-token}
 
-멤버 토큰은 통합 서비스 파트너의 고유 값을 삽입하는 데 사용됩니다. 공통 용도는 웨비나 참석자를 위한 고유한 URL을 위한 것입니다. 각 사용자에게는 토큰을 사용하여 삽입할 수 있는 웨비나에 액세스할 수 있는 고유한 URL이 `{{member.webinar url}}` 있습니다. 이 `{{member.webinar url}}` 토큰은 서비스 공급자가 생성한 개인의 고유한 확인 URL을 자동으로 확인합니다.
+멤버 토큰은 통합 서비스 파트너의 고유 값을 삽입하는 데 사용됩니다. 공통 용도는 웨비나 참석자를 위한 고유한 URL을 위한 것입니다. 각 사용자에게는 `{{member.webinar url}}` 토큰을 사용하여 삽입할 수 있는 웨비나에 액세스할 수 있는 고유한 URL이 있습니다. `{{member.webinar url}}` 토큰은 서비스 공급자가 생성한 개인의 고유한 확인 URL을 자동으로 확인합니다.
 
 * `{{member.webinar url}}`
 
 >[!CAUTION]
 >
->토큰은 `{{member.webinar url}}` 이메일을 보내는 스마트 캠페인이 이벤트 프로그램의 하위 자산인 경우에만 채워집니다.
+>`{{member.webinar url}}` 토큰은 이메일을 보내는 스마트 캠페인이 이벤트 프로그램의 하위 자산인 경우에만 채워집니다.
