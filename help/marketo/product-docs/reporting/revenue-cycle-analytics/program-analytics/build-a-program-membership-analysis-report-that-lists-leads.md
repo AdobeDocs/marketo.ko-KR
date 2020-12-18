@@ -1,7 +1,7 @@
 ---
 unique-page-id: 2360405
-description: 리드 목록을 표시하는 프로그램 회원 분석 보고서 작성 - Marketing To Docs - 제품 설명서
-title: 리드를 나열하는 프로그램 멤버십 분석 보고서 작성
+description: 리드 목록 - Marketing To Docs - 제품 설명서를 나열하는 프로그램 회원 분석 보고서 작성
+title: 리드를 나열하는 프로그램 구성원 분석 보고서 만들기
 translation-type: tm+mt
 source-git-commit: c33b7ab59e612f37d3f64bb954579700dc574068
 workflow-type: tm+mt
@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# 리드를 나열하는 프로그램 멤버십 분석 보고서 작성 {#build-a-program-membership-analysis-report-that-lists-leads}
+# {#build-a-program-membership-analysis-report-that-lists-leads} 리드를 나열하는 프로그램 구성원 분석 보고서 만들기
 
 다음 단계에 따라 모든 프로그램 멤버 이름을 보여주는 프로그램 회원 분석 보고서를 만듭니다.
 
@@ -29,7 +29,7 @@ ht-degree: 0%
 
    ![](assets/two.png)
 
-1. 프로그램 회원 분석을 선택하고 확인을 클릭합니다.
+1. [프로그램 회원 분석]을 선택하고 [확인]을 클릭합니다.
 
    ![](assets/three.png)
 
@@ -45,11 +45,11 @@ ht-degree: 0%
 
    ![](assets/six.png)
 
-얼마나 쉬웠는지 알아?
+그게 얼마나 쉬운지 알아?
 
 ![](assets/seven.png)
 
-전체 이름과 같은 리드 속성을 신속하게 추가하여 **구성원이 누구인지** 확인할 수 있습니다.
+**전체 이름**&#x200B;과 같은 리드 속성을 빠르게 추가하여 구성원이 누구인지 확인할 수 있습니다.
 
 >[!TIP]
 >
