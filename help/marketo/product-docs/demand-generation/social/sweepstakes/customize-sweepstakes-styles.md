@@ -13,7 +13,7 @@ ht-degree: 0%
 
 # 경품 행사 스타일 사용자 지정 {#customize-sweepstakes-styles}
 
-경품 행사 [를 만들 때](create-sweepstakes.md)랜딩 페이지에서 경품 행사의 모양을 사용자 지정할 수 있습니다.
+[경품 행사](create-sweepstakes.md)를 만들 때 랜딩 페이지에서 경품 행사의 모습을 사용자 정의할 수 있습니다.
 
 >[!NOTE]
 >
@@ -25,23 +25,23 @@ ht-degree: 0%
 
 ![](assets/login-marketing-activities-1.png)
 
-1. 경품 이벤트를 선택하고 **초안** 편집을 **클릭합니다**.
+1. 경품 이벤트를 선택하고 **편집** **초안**&#x200B;을 클릭합니다.
 
    ![](assets/image2014-9-25-17-3a51-3a45.png)
 
-1. 경품 행사 편집기의 **앱** 설정 ******** Appearance **으로**&#x200B;이동합니다.
+1. 경품 행사 편집기에서 **App** **설정** **** **모양**&#x200B;으로 이동합니다.
 
    ![](assets/image2014-9-25-17-3a51-3a59.png)
 
-1. 등록 버튼과 진행 링크를 편집합니다.
+1. 등록 단추와 진행 링크의 텍스트를 편집합니다.
 1. ![](assets/image2014-9-25-17-3a52-3a22.png)
 
 1. 사용자 정의할 각 요소에 대해 사용자 지정 CSS 속성을 입력합니다.
 
    ![](assets/image2014-9-25-17-3a52-3a37.png)
 
-   입력 단추 **에 대한 CSS 예**:
-   `<pre>border: 5px solid #7B68EE; background-color: purple; padding: 10px; font: 16px; color: #FFFFFF; text-align: center;</pre>` 입력 단추 **에 대한 이미지 예**:
+   **Enter Button**에 대한 CSS 예:
+   `<pre>border: 5px solid #7B68EE; background-color: purple; padding: 10px; font: 16px; color: #FFFFFF; text-align: center;</pre>` 입력 단추에 대한  **이미지 예**:
    `<pre>background:url(http://app.marketo.com/images/public-site/button_sign-up-now.png) no-repeat center center; width:275px; height:95px; margin:auto; display:block;</pre>` `<pre>`
 
    >[!NOTE]
@@ -57,12 +57,12 @@ ht-degree: 0%
    >**미리 알림**
    >
    >
-   >이전 버전을 비롯한 여러 가지 브라우저에서 단추를 테스트할 수 있습니다.
+   >이전 버전을 비롯한 다양한 브라우저에서 단추를 테스트합니다.
 
    >[!NOTE]
    >
    >**관련 문서**
    >
    >
-   >다음 단계는 [등록 및 자격 부여 이메일을 경품 행사 이메일에 추가하는 것입니다](../../../../product-docs/demand-generation/social/social-functions/use-emails-in-social-promotions.md).
+   >다음 단계는 경품 행사](../../../../product-docs/demand-generation/social/social-functions/use-emails-in-social-promotions.md)에 [등록 및 주문 처리 이메일을 추가하는 것입니다.
 
