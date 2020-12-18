@@ -13,15 +13,15 @@ ht-degree: 0%
 
 # 템플릿 17-E {#template-e}
 
-[템플릿 다운로드 17-E](http://docs.marketo.com/download/attachments/9438203/template-17e.html?version=1&amp;modificationdate=1439843109000&amp;api=v2)
+[템플릿 17-E 다운로드](http://docs.marketo.com/download/attachments/9438203/template-17e.html?version=1&amp;modificationdate=1439843109000&amp;api=v2)
 
 ![](assets/image2015-8-17-17-3a43-3a20.png)
 
-이 템플릿에는 다음 컨텐츠가 포함되어 있습니다.
+이 템플릿에는 다음 내용이 포함되어 있습니다.
 
 * 기본 섹션
 
-   * 영웅 이미지 및 버튼 포함
+   * 메인 이미지 및 버튼 포함
 
 * 6개의 본문 섹션(선택 사항)
 * 바닥글(선택 사항)
