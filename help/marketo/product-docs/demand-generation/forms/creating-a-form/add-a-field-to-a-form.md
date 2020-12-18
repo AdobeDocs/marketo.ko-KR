@@ -11,19 +11,19 @@ ht-degree: 0%
 ---
 
 
-# 양식에 필드 추가 {#add-a-field-to-a-form}
+# {#add-a-field-to-a-form} 양식에 필드 추가
 
-양식을 [만들고 테마를](create-a-form.md) [선택하면](select-a-form-theme.md)사람들이 입력할 필드를 추가할 수 있습니다. 방법
+[양식](create-a-form.md)과 [테마](select-a-form-theme.md)을(를) 선택했으면 다른 사람이 채울 필드를 추가할 수 있습니다. 방법
 
-1. 마케팅 **활동** 으로 **이동합니다**.
+1. **Marketing** **활동**&#x200B;으로 이동합니다.
 
    ![](assets/login-marketing-activities-2.png)
 
-1. 양식을 선택하고 양식 **편집을** **클릭합니다**.
+1. 양식을 선택하고 **편집** **양식**&#x200B;을 클릭합니다.
 
    ![](assets/editform-1.png)
 
-1. Click the **+** sign.
+1. **+** 기호를 클릭합니다.
 
    ![](assets/image2014-9-15-17-18-17.png)
 
@@ -35,11 +35,11 @@ ht-degree: 0%
 
    ![](assets/image2014-9-15-17-3a18-3a26.png)
 
-1. 필요한 만큼 필드를 추가하고 마침을 **클릭합니다**.
+1. 필요한 만큼 필드를 추가하고 **완료**&#x200B;를 클릭합니다.
 
    ![](assets/image2014-9-15-17-3a18-3a35.png)
 
-1. 이제** 승인 및 닫기**를 클릭합니다.
+1. 이제 승인 및 닫기를 클릭합니다**.
 
    ![](assets/image2014-9-15-17-3a18-3a43.png)
 
@@ -49,4 +49,4 @@ ht-degree: 0%
 >
 >양식 변경으로 인해 만든 랜딩 페이지 초안을 승인해야 합니다.
 
-전혀 나쁘진 않아 좋은 일을 계속하세요! 다음에 양식 필드를 [만드는 방법을](make-a-form-field-required.md) 배우면 어떨까요?
+전혀 나쁘지 않아. 좋은 일을 계속해라! 다음에 [양식 필드를 필수](make-a-form-field-required.md)로 만드는 방법을 학습하는 것은 어떻습니까?
