@@ -13,13 +13,13 @@ ht-degree: 0%
 
 # 보고서 복제 {#clone-a-report}
 
-보고서 사본을 만들어 원본을 변경하지 않고 세부적으로 사용자 지정합니다.
+보고서 복제본을 만들어 원본을 변경하지 않고 세부적으로 사용자 지정합니다.
 
-1. 마케팅 활동 **(또는** 분석 **) 영역으로**&#x200B;이동합니다.
+1. **마케팅 활동**(또는 **Analytics**) 영역으로 이동합니다.
 
    ![](assets/image2014-9-16-14-3a23-3a46.png)
 
-1. 보고서를 선택합니다. 보고서 **작업 > 보고서 복제를 선택합니다**.
+1. 보고서를 선택합니다. **보고서 작업 > 보고서 복제**&#x200B;를 선택합니다.
 
    ![](assets/image2014-9-16-14-3a23-3a53.png)
 
@@ -31,7 +31,7 @@ ht-degree: 0%
 
    ![](assets/image2014-9-16-14-3a23-3a57.png)
 
-   이제 복제 작업을 사용자 정의할 수 있습니다.
+   바로 그것입니다. 클론 맞춤화를 시작할 준비가 되었습니다.
 
    >[!NOTE]
    >
@@ -39,8 +39,8 @@ ht-degree: 0%
    >
    >    
    >    
-   >    * [스마트 목록으로 사람 필터링](../../../../product-docs/reporting/basic-reporting/editing-reports/filter-people-in-a-report-with-a-smart-list.md)
+   >    * [스마트 목록을 사용하여 보고서에서 인물 필터링](../../../../product-docs/reporting/basic-reporting/editing-reports/filter-people-in-a-report-with-a-smart-list.md)
 
 
-   보고서를 사용자 정의하는 데 더 많은 작업을 수행합니다. 기본 [보고를 참조하십시오](http://docs.marketo.com/display/docs/basic+reporting).
+   보고서를 사용자 정의하는 데 더 많은 작업을 수행합니다. [기본 보고](http://docs.marketo.com/display/docs/basic+reporting)를 참조하십시오.
 
