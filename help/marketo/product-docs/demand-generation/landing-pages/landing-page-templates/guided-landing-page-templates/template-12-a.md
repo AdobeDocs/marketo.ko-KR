@@ -13,13 +13,13 @@ ht-degree: 0%
 
 # 템플릿 12-A {#template-a}
 
-[템플릿 다운로드 12-A](http://docs.marketo.com/download/attachments/9437574/template-12a.html?version=1&amp;modificationdate=1438211507000&amp;api=v2)
+[템플릿 12-A 다운로드](http://docs.marketo.com/download/attachments/9437574/template-12a.html?version=1&amp;modificationdate=1438211507000&amp;api=v2)
 
 ![](assets/image2015-8-4-14-3a23-3a23.png)
 
-이 템플릿에는 다음 컨텐츠가 포함되어 있습니다.
+이 템플릿에는 다음 내용이 포함되어 있습니다.
 
-* 헤더(선택 사항)
+* 머리글(선택 사항)
 * 기본 섹션
 
    * 영웅 제목, 영웅 텍스트 및 영웅 이미지 포함
