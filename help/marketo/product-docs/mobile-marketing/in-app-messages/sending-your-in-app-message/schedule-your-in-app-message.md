@@ -15,7 +15,7 @@ ht-degree: 0%
 
 지금 메시지를 보내거나 나중에 예약하십시오.
 
-1. 인앱 메시지를 예약하려면 미래 날짜 **를** 설정하고 드롭다운 달력에서 시작 날짜를 선택합니다.
+1. 인앱 메시지를 예약하려면 **미래 날짜 설정**&#x200B;을 선택하고 드롭다운 달력에서 시작 날짜를 선택합니다.
 
    ![](assets/schedule-your-in-app-message-1.png)
 
@@ -27,8 +27,8 @@ ht-degree: 0%
 
    ![](assets/schedule-your-in-app-message-3.png)
 
-1. 또는 지금 프로그램을 실행하려면 즉시 **실행을 선택합니다**. 시작 날짜 필드가 사라집니다.
+1. 또는 지금 프로그램을 실행하려면 **즉시 실행**&#x200B;을 선택합니다. 시작 날짜 필드가 사라집니다.
 
    ![](assets/schedule-your-in-app-message-4.png)
 
-진정해! 마지막은 승인 [단계입니다](approve-your-in-app-message.md) .
+진정해! 마지막은 [승인](approve-your-in-app-message.md) 단계입니다.
