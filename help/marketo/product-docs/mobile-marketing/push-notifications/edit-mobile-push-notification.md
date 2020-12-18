@@ -23,7 +23,7 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->**딥 다이브**
+>**자세히 알아보기**
 >
->여기에서 푸시 알림 [을 구성하는 방법에 대해](configure-mobile-push-notification.md) 알아보십시오.
+>여기에서 푸시 알림[을 구성하는 방법에 대해 자세히 알아보십시오.](configure-mobile-push-notification.md)
 
