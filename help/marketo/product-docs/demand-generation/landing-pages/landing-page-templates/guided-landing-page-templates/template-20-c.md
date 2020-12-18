@@ -1,6 +1,6 @@
 ---
 unique-page-id: 10092916
-description: 템플릿 20-C - Marketing Docs - 제품 설명서
+description: 템플릿 20-C - 마케팅 문서 - 제품 설명서
 title: 템플릿 20-C
 translation-type: tm+mt
 source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
@@ -17,7 +17,7 @@ ht-degree: 0%
 
 ![](assets/template-20c.png)
 
-이 템플릿에는 다음 컨텐츠가 포함되어 있습니다.
+이 템플릿에는 다음 내용이 포함되어 있습니다.
 
 * 기본 섹션
 
