@@ -21,13 +21,13 @@ ht-degree: 0%
 
 ![](assets/ss7.png)
 
-## 세그먼트 작업 공간 변경 {#change-a-segments-workspace}
+## 세그먼트의 작업 영역 {#change-a-segments-workspace} 변경
 
-1. 세그먼트 **** 페이지로 이동하고 세그먼트를 선택한 다음 편집 아이콘을 클릭합니다.
+1. **세그먼트** 페이지로 이동하여 세그먼트를 선택하고 편집 아이콘을 클릭합니다.
 
    ![](assets/ss4.png)
 
-1. 작업 공간 드롭다운에서 다른 작업 **영역을** 선택합니다.
+1. **작업 공간** 드롭다운에서 다른 작업 영역을 선택합니다.
 
    ![](assets/ss6.png)
 
@@ -35,5 +35,5 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->사용자는 액세스 권한이 있는 작업 영역과 연관된 웹 캠페인 및 세그먼트만 볼 수 있습니다. 사용자가 하나 이상의 작업 영역을 [이용할 수 있도록 하는 방법은 다음과 같습니다](../../../product-docs/administration/workspaces-and-person-partitions/allow-user-access-to-a-workspace.md).
+>사용자는 액세스 권한이 있는 작업 영역과 연관된 웹 캠페인 및 세그먼트만 볼 수 있습니다. 다음은 [사용자에게 하나 이상의 작업 영역](../../../product-docs/administration/workspaces-and-person-partitions/allow-user-access-to-a-workspace.md)에 대한 액세스 권한을 부여하는 방법입니다.
 
