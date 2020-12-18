@@ -1,7 +1,7 @@
 ---
 unique-page-id: 2359677
 description: Lightbox에서 양식 사용 - 마케팅 문서 - 제품 설명서
-title: Lightbox에서 양식 사용
+title: 라이트박스에서 양식 사용
 translation-type: tm+mt
 source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
 workflow-type: tm+mt
@@ -11,11 +11,11 @@ ht-degree: 0%
 ---
 
 
-# Lightbox에서 양식 사용 {#use-a-form-in-a-lightbox}
+# 라이트박스 {#use-a-form-in-a-lightbox}에서 양식 사용
 
 Lightbox는 표시하고자 할 때 컨텐츠 앞에서 양식을 여는 기술입니다. 방법
 
-1. 마케팅 **활동** 으로 **이동합니다**.
+1. **Marketing** **활동**&#x200B;으로 이동합니다.
 
    ![](assets/login-marketing-activities-8.png)
 
@@ -23,7 +23,7 @@ Lightbox는 표시하고자 할 때 컨텐츠 앞에서 양식을 여는 기술�
 
    ![](assets/image2014-9-15-14-3a32-3a15.png)
 
-1. 양식 **작업****에서****포함** 코드 **를**&#x200B;클릭합니다.
+1. **양식** **작업**&#x200B;에서 **포함** **코드**&#x200B;을 클릭합니다.
 
    >[!NOTE]
    >
@@ -34,11 +34,11 @@ Lightbox는 표시하고자 할 때 컨텐츠 앞에서 양식을 여는 기술�
 
    ![](assets/image2014-9-15-14-3a32-3a24.png)
 
-1. 코드 **유형****을** Lightbox로 **설정합니다**.
+1. **Code** **Type**&#x200B;을 **Lightbox**&#x200B;로 설정합니다.
 
    ![](assets/image2014-9-15-14-3a32-3a31.png)
 
-1. 코드를 선택/복사하고 **닫기를 클릭합니다**.
+1. 코드를 선택/복사하고 **닫기**&#x200B;를 클릭합니다.
 
    ![](assets/image2014-9-15-14-3a32-3a39.png)
 
