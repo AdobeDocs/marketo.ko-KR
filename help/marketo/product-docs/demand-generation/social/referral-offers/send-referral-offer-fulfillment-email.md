@@ -1,6 +1,6 @@
 ---
 unique-page-id: 2359785
-description: 참조 오퍼 이행 이메일 보내기 - Marketing To Docs - 제품 설명서
+description: 참조 오퍼 주문 처리 이메일 보내기 - 마케팅 문서 - 제품 설명서
 title: 참조 오퍼 이행 이메일 보내기
 translation-type: tm+mt
 source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
@@ -17,59 +17,59 @@ ht-degree: 0%
 
 >[!PREREQUISITES]
 >
->* [소셜 홍보에서 이메일 사용](../../../../product-docs/demand-generation/social/social-functions/use-emails-in-social-promotions.md)
+>* [소셜 프로모션에서 이메일 사용](../../../../product-docs/demand-generation/social/social-functions/use-emails-in-social-promotions.md)
 >* [참조 오퍼 만들기](create-a-referral-offer.md)
 
 >
 
 
 
-## 이행 배달 설정 {#set-up-fulfillment-delivery}
+## 주문 처리 배달 설정 {#set-up-fulfillment-delivery}
 
-1. 참조 오퍼를 선택합니다. 초안 **편집을 클릭합니다**.
+1. 참조 오퍼를 선택합니다. **초안 편집**&#x200B;을 클릭합니다.
 
    ![](assets/image2015-4-20-16-3a3-3a14.png)
 
-1. 앱 **설정에서**&#x200B;오퍼 **세부 사항을 선택합니다.**
+1. **앱 설정**&#x200B;에서 **오퍼 세부 정보.**
 
    ** ![](assets/image2015-4-23-12-3a53-3a16.png)
 
    **
 
-1. 등록 **이메일을 선택합니다**.
+1. **등록 이메일**&#x200B;을 선택합니다.
 
    ![](assets/image2015-4-23-12-3a58-3a52.png)
 
-1. 주문 처리 **이메일을 선택합니다**.
+1. **주문 처리 이메일**&#x200B;을 선택합니다.
 
    ![](assets/image2015-4-23-13-3a4-3a40.png)
 
    >[!NOTE]
    >
-   >**딥 다이브**
+   >**자세히 알아보기**
    >
    >
-   >소셜 홍보에서 이메일 [사용에 대해 자세히 알아보십시오](../../../../product-docs/demand-generation/social/social-functions/use-emails-in-social-promotions.md).
+   >소셜 판촉 행사[에서 이메일 사용에 대해 자세히 알아보십시오.](../../../../product-docs/demand-generation/social/social-functions/use-emails-in-social-promotions.md)
 
-1. 주문 처리 **배달** 드롭다운 **을 클릭하고 목표에 대해 자동을 선택합니다**.
+1. **주문 처리 배달** 드롭다운을 클릭하고 목표&#x200B;**에서**&#x200B;자동을 선택합니다.
 
    ![](assets/image2015-4-23-13-3a13-3a33.png)
 
-   주문 처리 이메일 **에서** 선택한 메시지는 목표를 충족하는 사람에게 자동으로 전송됩니다.
+   **주문 처리 이메일** 내에서 선택한 메시지는 목표를 충족하는 사람에게 자동으로 전송됩니다.
 
 ## 수동 전송 {#manual-send}
 
-목표에 도달하면 자격 부여 이메일을 수동으로 보낼 수 있습니다.
+목표에 도달하면 이행 이메일을 수동으로 보낼 수 있습니다.
 
-1. 참조 오퍼를 선택하고 [참가자] **탭을** 클릭합니다.
+1. 참조 오퍼를 선택하고 **참가자** 탭을 클릭합니다.
 
    ![](assets/image2015-4-20-15-3a37-3a14.png)
 
-1. **필터 기준 **옵션을 클릭하고 목표를 **선택합니다**.
+1. **필터링 기준 ** 옵션을 클릭하고 **목표**&#x200B;를 선택합니다.
 
    >[!NOTE]
    >
-   >이렇게 하면 참조 오퍼 목표에 도달한 사람이 선택됩니다.
+   >이렇게 하면 추천 제안 목표를 충족한 사람을 선택할 수 있습니다.
 
    ![](assets/image2015-4-20-15-3a59-3a11.png)
 
@@ -77,8 +77,8 @@ ht-degree: 0%
 
    ![](assets/2015-04-23-13-08-53.png)
 
-1. 마우스 오른쪽 단추를 클릭하고 [자격 부여 이메일 **보내기]를 선택합니다**.
+1. 마우스 오른쪽 단추를 클릭하고 **주문 처리 이메일 보내기**&#x200B;를 선택합니다.
 
    ![](assets/2015-04-20-15-54-13.png)
 
-대단해! 주문 처리 이메일을 받고 그 보상 소식을 받게 된다.
+굉장해! 그러면 주문 처리 이메일을 받게 되고 그 보상 소식을 받게 됩니다.
