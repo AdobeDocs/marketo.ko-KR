@@ -13,13 +13,13 @@ ht-degree: 0%
 
 # Analytics 홈 페이지 탐색 {#navigating-the-analytics-home-page}
 
-1. 분석 **영역으로** 이동합니다.
+1. **분석** 영역으로 이동합니다.
 1. ![](assets/image2015-4-27-8-3a38-3a10.png)
 
-1. 보고서 [유형을 선택합니다](../../../../product-docs/reporting/basic-reporting/report-types/report-type-overview.md).
+1. [보고서 유형](../../../../product-docs/reporting/basic-reporting/report-types/report-type-overview.md)을 선택합니다.
 1. ![](assets/image2015-4-27-8-3a38-3a22.png)
 
-1. 보고서를 실행한 후 작업 공간을 클릭하여 **Analytics 홈으로 돌아갑니다**.
+1. 보고서를 실행한 후 작업 공간을 클릭하여 **분석 홈**&#x200B;으로 돌아갑니다.
 
    ![](assets/image2015-4-27-8-3a38-3a34.png)
 
