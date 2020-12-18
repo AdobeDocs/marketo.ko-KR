@@ -1,7 +1,7 @@
 ---
 unique-page-id: 11376700
-description: Facebook에서 사용자 지정 대상에 리드 추가 - Marketing Docs - 제품 설명서
-title: Facebook에서 사용자 지정 대상에 리드 추가
+description: Facebook에서 사용자 지정 대상에 리드 추가 - 마케팅 문서 - 제품 설명서
+title: Facebook에서 사용자 지정 대상자에 리드 추가
 translation-type: tm+mt
 source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
@@ -11,14 +11,14 @@ ht-degree: 0%
 ---
 
 
-# Facebook에서 사용자 지정 대상에 리드 추가 {#add-leads-to-a-custom-audience-in-facebook}
+# Facebook {#add-leads-to-a-custom-audience-in-facebook}에서 사용자 지정 대상에 리드 추가
 
-이미 Facebook에 사용자 지정 대상자가 있고 더 많은 리드를 추가하고 싶으십니까? 방법
+Facebook에 이미 사용자 지정 대상자가 있고 더 많은 리드를 추가하려는 경우 방법
 
 >[!PREREQUISITES]
 >
->* [Facebook에서 사용자 지정 대상 만들기](create-a-custom-audience-in-facebook.md)
->* [Facebook 계정 내에서 Facebook의 사용자 지정 대상 약관에](https://www.facebook.com/ads/manage/customaudiences/tos.php) 동의합니다.
+>* [Facebook에서 사용자 지정 대상자 만들기](create-a-custom-audience-in-facebook.md)
+>* [Facebook 계정 내에서 Facebook의 사용자 지정 ](https://www.facebook.com/ads/manage/customaudiences/tos.php) 대상 용어를 수락합니다.
 
 >
 
@@ -28,28 +28,28 @@ ht-degree: 0%
 
    ![](assets/one.png)
 
-1. 리드 **탭을** 선택한 다음 하단에 있는 **광고 브리지를 통해 전송 **아이콘을 클릭합니다.
+1. **리드** 탭을 선택한 다음 맨 아래에 있는 **광고 브리지를 통해 전송 ** 아이콘을 클릭합니다.
 
    ![](assets/two-1.png)
 
-1. **Facebook **을 선택하고 다음을 **클릭합니다**.
+1. **Facebook **을 선택하고 **다음**&#x200B;을 클릭합니다.
 
    ![](assets/three.png)
 
-1. 대상 **** 드롭다운을 클릭하고 리드를 추가할 대상을 선택한 다음 **업데이트를 클릭합니다**.
+1. **대상자** 드롭다운을 클릭하고 리드를 추가할 대상자를 선택한 다음 **업데이트**&#x200B;를 클릭합니다.
 
    ![](assets/4.png)
 
    >[!NOTE]
    >
-   >**대상자에 리드 추가:** 사용자 지정 하위 유형의 Facebook 대상만 사용할 수 있습니다.\
-   >**대상에서 리드 제거**:Facebook 대상으로부터 정적 또는 스마트 목록의 리드를 제거합니다.
+   >**대상자에 리드 추가: 사용자 지정 하위 유형의** Facebook 대상만 사용할 수 있습니다.\
+   >**대상자로부터 리드 제거**:Facebook 대상으로부터 정적 또는 스마트 목록의 리드를 제거합니다.
 
 1. 완료되면 상태가 업데이트됩니다.
 
    ![](assets/five-1.png)
 
-   그게 다야!
+   그게 전부야!
 
    >[!NOTE]
    >
@@ -57,6 +57,6 @@ ht-degree: 0%
    >
    >    
    >    
-   >    * [Facebook에서 사용자 지정 대상 만들기](create-a-custom-audience-in-facebook.md)
+   >    * [Facebook에서 사용자 지정 대상자 만들기](create-a-custom-audience-in-facebook.md)
 
 
