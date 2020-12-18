@@ -11,15 +11,15 @@ ht-degree: 0%
 ---
 
 
-# 자유형 랜딩 페이지에서 동적 컨텐츠 사용 {#use-dynamic-content-in-a-free-form-landing-page}
+# 자유형 랜딩 페이지 {#use-dynamic-content-in-a-free-form-landing-page}에서 동적 콘텐츠 사용
 
-랜딩 페이지에서 동적 컨텐츠를 사용하면 타겟팅된 정보를 고객에게 제공할 수 있습니다.
+랜딩 페이지에서 동적 컨텐츠를 사용하면 타깃팅된 정보로 사용자의 참여를 유도할 수 있습니다.
 
 >[!PREREQUISITES]
 >
 >* [세그멘테이션 만들기](../../../../product-docs/personalization/segmentation-and-snippets/segmentation/create-a-segmentation.md)
->* [자유 형식 랜딩 페이지 만들기](create-a-free-form-landing-page.md)
->* [자유 형식 랜딩 페이지에 새 양식 추가](add-a-new-form-to-a-free-form-landing-page.md)
+>* [자유형 랜딩 페이지 만들기](create-a-free-form-landing-page.md)
+>* [자유형 랜딩 페이지에 새 양식 추가](add-a-new-form-to-a-free-form-landing-page.md)
 
 >
 
@@ -27,7 +27,7 @@ ht-degree: 0%
 
 ## 세그멘테이션 추가 {#add-segmentation}
 
-1. 마케팅 활동 **으로 이동합니다**.
+1. **마케팅 활동**&#x200B;으로 이동합니다.
 
    ![](assets/login-marketing-activities-2.png)
 
@@ -43,7 +43,7 @@ ht-degree: 0%
 
    ![](assets/image2014-9-17-12-3a8-3a53.png)
 
-   세그먼테이션과 해당 세그먼트가 오른쪽의 동적 아래에 나타납니다.
+   세그먼테이션과 해당 세그먼트가 오른쪽의 동적 아래에 표시됩니다.
 
    ![](assets/image2014-9-17-12-3a9-3a3.png)
 
@@ -53,27 +53,27 @@ ht-degree: 0%
 
 ## 요소를 동적으로 만들기 {#make-element-dynamic}
 
-1. 정적 콘텐츠 요소를 **동적** 으로 드래그하여 **놓습니다.**
+1. 동적 내용 요소를 **정적**&#x200B;에서 **동적.** 아래로 드래그하여 놓습니다.
 
    ![](assets/image2014-9-17-12-3a10-3a8.png)
 
-1. 요소 설정에서 **정적** 또는 **동적** 요소를 만들 수도 **있습니다.**
+1. **설정 요소에서**&#x200B;정적&#x200B;**또는**&#x200B;동적&#x200B;**요소를 만들 수도 있습니다.**
 
    ![](assets/image2014-9-17-12-3a10-3a14.png)
 
-## 동적 컨텐츠 적용 {#apply-dynamic-content}
+## 동적 내용 적용 {#apply-dynamic-content}
 
-1. 세그먼트 아래의 요소를 선택하고 설정 아이콘을 클릭한 다음 편집을 **클릭합니다**. 각 세그먼트에 대해 반복합니다.
+1. 세그먼트 아래의 요소를 선택하고 설정 아이콘을 클릭한 다음 **편집**&#x200B;을 클릭합니다. 각 세그먼트에 대해 반복합니다.
 
    ![](assets/image2014-9-17-12-3a11-3a43.png)
 
-1. 녹색 확인 표시는 해당 세그먼트에 해당하는 컨텐츠를 나타냅니다. 빈 필드는 기본 세그먼트 컨텐츠를 나타냅니다.
+1. 녹색 확인 표시는 해당 세그먼트에 해당하는 컨텐츠를 나타냅니다. 공백이 기본 세그먼트 컨텐츠를 나타냅니다.
 
    ![](assets/image2014-9-17-12-3a12-3a52.png)
 
 >[!CAUTION]
 >
->기본 세그먼트 컨텐츠 블록의 변경 사항이 모든 세그먼트에 적용됩니다.
+>기본 세그먼트 컨텐츠 블록에 대한 변경 사항은 모든 세그먼트에 적용됩니다.
 
 >[!TIP]
 >
