@@ -1,6 +1,6 @@
 ---
 unique-page-id: 7515616
-description: 안내 랜딩 페이지 템플릿 - Marketing Docs - 제품 설명서
+description: 안내 랜딩 페이지 템플릿 - 마케팅 문서 - 제품 설명서
 title: 안내 랜딩 페이지 템플릿
 translation-type: tm+mt
 source-git-commit: 44ed91b485b52173922c709de63a4353e16c5072
@@ -13,21 +13,21 @@ ht-degree: 0%
 
 # 안내 랜딩 페이지 템플릿 {#guided-landing-page-templates}
 
-안내 랜딩 페이지 편집기에 사용하기 위해 예제 템플릿 [을 찾아봅니다](../../../../product-docs/demand-generation/landing-pages/guided-landing-pages/create-a-guided-landing-page.md). 각 템플릿은 완전 응답적이며 Bootstrap 프레임워크을 기반으로 합니다.
+[안내 랜딩 페이지 편집기](../../../../product-docs/demand-generation/landing-pages/guided-landing-pages/create-a-guided-landing-page.md)에 사용하기 위해 예제 템플릿 컬렉션을 찾아봅니다. 각 템플릿은 Bootstrap 프레임워크을 기반으로 완벽하게 응답합니다.
 
 >[!NOTE]
 >
->HTML 문제 해결을 지원하기 위해 Marketing To 지원이 설정되지 않았습니다. 이러한 템플릿을 수정하는 데 도움이 필요한 경우 웹 개발자에게 문의하십시오.
+>HTML 문제 해결을 지원하기 위해 Marketing To 지원이 설정되어 있지 않습니다. 이러한 템플릿을 수정하는 데 도움이 필요한 경우 웹 개발자에게 문의하십시오.
 
 템플릿을 Marketing To로 가져오려면 다음을 수행하십시오.
 
 1. 더 큰 보기를 보려면 템플릿 이름을 클릭합니다.
 1. 선택한 템플릿을 다운로드합니다.
-1. Marketing에서 **Design Studio로 이동합니다.**
-1. 왼쪽 **트리에서 랜딩** 페이지를 클릭한 다음 템플릿을 **선택합니다.**
+1. Marketing에서 **Design Studio**&#x200B;로 이동합니다.
+1. 왼쪽 트리에서 **랜딩 페이지**&#x200B;를 클릭한 다음 **템플릿을 선택합니다.**
 
-1. 메뉴 모음에서 템플릿 **가져오기를 클릭합니다.**
-1. 다운로드한 파일을 선택하고 템플릿 이름을 입력한 다음 **가져오기를** 클릭합니다.(수사적 이름을 선택하고 편집 모드가 [안내]임을 **나타내야**&#x200B;합니다.)
+1. 메뉴 모음에서 **템플릿 가져오기를 클릭합니다.**
+1. 다운로드한 파일을 선택하고 템플릿 이름을 입력한 다음 **가져오기**&#x200B;를 클릭합니다. 자세한 이름을 선택하고 편집 모드가 **안내**&#x200B;임을 나타냅니다.
 
 |  |  |  |
 |---|---|---|
@@ -39,7 +39,7 @@ ht-degree: 0%
 | ![](assets/2a.jpg) | ![](assets/2b.jpg) | ![](assets/2c-2.jpg) |
 | [템플릿 2-D](guided-landing-page-templates/template-2-d.md) | [템플릿 3-A](guided-landing-page-templates/template-3-a.md) | [템플릿 3-B](guided-landing-page-templates/template-3-b.md) |
 | ![](assets/2d.jpg) | ![](assets/3a.jpg) | ![](assets/3b.jpg) |
-| [템플릿 3-C](guided-landing-page-templates/template-3-c.md) | [템플릿 3-D](guided-landing-page-templates/template-3-d.md) | [템플릿 4-A](guided-landing-page-templates/template-4-a.md) |
+| [템플릿 3-C](guided-landing-page-templates/template-3-c.md) | [템플릿 3D](guided-landing-page-templates/template-3-d.md) | [템플릿 4-A](guided-landing-page-templates/template-4-a.md) |
 | ![](assets/3c.jpg) | ![](assets/3d.jpg) | ![](assets/4a.jpg) |
 | [템플릿 4-B](guided-landing-page-templates/template-4-b.md) | [템플릿 4-C](guided-landing-page-templates/template-4-c.md) | [템플릿 5-A](guided-landing-page-templates/template-5-a.md) |
 | ![](assets/4b.jpg) | ![](assets/4c.jpg) | ![](assets/5a.jpg) |
@@ -73,9 +73,9 @@ ht-degree: 0%
 | ![](assets/11f.jpg) | ![](assets/12a.jpg) | ![](assets/12b.jpg) |
 | [템플릿 12-C](guided-landing-page-templates/template-12-c.md) | [템플릿 12-D](guided-landing-page-templates/template-12-d.md) | [템플릿 12-E](guided-landing-page-templates/template-12-e.md) |
 | ![](assets/12c.jpg) | ![](assets/12d.jpg) | ![](assets/12e.jpg) |
-| [템플릿 12-F](guided-landing-page-templates/template-12-f.md) | [템플릿 13-A](guided-landing-page-templates/template-13-a.md) | [템플릿 13-B](guided-landing-page-templates/template-13-b.md) |
+| [템플릿 12-F](guided-landing-page-templates/template-12-f.md) | [템플릿 13-C](guided-landing-page-templates/template-13-a.md) | [템플릿 13-B](guided-landing-page-templates/template-13-b.md) |
 | ![](assets/12f.jpg) | ![](assets/13a.jpg) | ![](assets/13b.jpg) |
-| [템플릿 13-A](guided-landing-page-templates/template-13-c.md) | [템플릿 13-D](guided-landing-page-templates/template-13-d.md) | [템플릿 13-E](guided-landing-page-templates/template-13-e.md) |
+| [템플릿 13-C](guided-landing-page-templates/template-13-c.md) | [템플릿 13-D](guided-landing-page-templates/template-13-d.md) | [템플릿 13-E](guided-landing-page-templates/template-13-e.md) |
 | ![](assets/13c.jpg) | ![](assets/13d.jpg) | ![](assets/13e.jpg) |
 | [템플릿 14-A](guided-landing-page-templates/template-14-a.md) | [템플릿 14-B](guided-landing-page-templates/template-14-b.md) | [템플릿 14-C](guided-landing-page-templates/template-14-c.md) |
 | ![](assets/14a.jpg) | ![](assets/14b.jpg) | ![](assets/14c.jpg) |
