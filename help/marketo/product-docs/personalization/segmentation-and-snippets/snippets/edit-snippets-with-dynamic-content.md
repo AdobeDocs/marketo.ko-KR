@@ -1,6 +1,6 @@
 ---
 unique-page-id: 2359466
-description: 동적 컨텐츠를 사용하여 코드 조각 편집 - Marketing To Docs - 제품 설명서
+description: 다이내믹 컨텐츠를 사용하여 코드 조각 편집 - Marketing To Docs - 제품 설명서
 title: 동적 콘텐트를 사용하여 코드 조각 편집
 translation-type: tm+mt
 source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
@@ -11,12 +11,12 @@ ht-degree: 0%
 ---
 
 
-# 동적 콘텐트를 사용하여 코드 조각 편집 {#edit-snippets-with-dynamic-content}
+# 동적 내용 {#edit-snippets-with-dynamic-content}을(를) 사용하여 코드 조각 편집
 
 >[!PREREQUISITES]
 >
 >* [세그멘테이션 만들기](../../../../product-docs/personalization/segmentation-and-snippets/segmentation/create-a-segmentation.md)
->* [코드 조각 만들기](create-a-snippet.md)
+>* [코드 단편 만들기](create-a-snippet.md)
 
 >
 
@@ -26,23 +26,23 @@ ht-degree: 0%
 
 ## 세그멘테이션 추가 {#add-segmentation}
 
-1. Design **Studio로 이동합니다**.
+1. **디자인 스튜디오**&#x200B;로 이동합니다.
 
    ![](assets/designstudio-1.png)
 
-1. **코드 조각 **을 클릭한 다음 초안 **편집을 클릭합니다**.
+1. **Snippet **을 클릭한 다음 **초안 편집**&#x200B;을 클릭합니다.
 
    ![](assets/image2014-9-16-8-3a59-3a14.png)
 
-1. 세그먼트 기준 **을 클릭합니다**.
+1. **세그먼트 기준**&#x200B;을 클릭합니다.
 
    ![](assets/image2014-9-16-8-3a59-3a27.png)
 
-1. **세그멘테이션 **을 입력하고 저장을 **클릭합니다**.
+1. **세그멘테이션 **을 입력하고 **저장**&#x200B;을 클릭합니다.
 
    ![](assets/image2014-9-16-8-3a59-3a42.png)
 
-## 동적 컨텐츠 적용 {#apply-dynamic-content}
+## 동적 내용 적용 {#apply-dynamic-content}
 
 1. **세그먼트 **를 클릭한 다음 컨텐츠를 편집합니다. 각 세그먼트에 대해 반복
 
@@ -61,7 +61,7 @@ ht-degree: 0%
 >**관련 문서**
 >
 >* [이메일에 코드 조각 추가](../../../../product-docs/email-marketing/general/functions-in-the-editor/add-a-snippet-to-an-email.md)
->* [랜딩 페이지에 코드 조각 추가](../../../../product-docs/demand-generation/landing-pages/personalizing-landing-pages/add-a-snippet-to-a-landing-page.md)
+>* [랜딩 페이지에 코드 단편 추가](../../../../product-docs/demand-generation/landing-pages/personalizing-landing-pages/add-a-snippet-to-a-landing-page.md)
 
 >
 
