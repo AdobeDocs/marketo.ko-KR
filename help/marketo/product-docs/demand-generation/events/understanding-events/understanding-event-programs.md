@@ -21,7 +21,7 @@ ht-degree: 0%
 
 ## 개요 {#overview}
 
-이벤트 프로그램은 오프라인 또는 온라인 이벤트를 자동화하는 데 사용할 수 있는 프로그램 유형입니다. 이벤트 프로그램은 특정 날짜 및 시간에 참석자가 있는 것으로 간주합니다.
+이벤트 프로그램은 오프라인 또는 온라인 이벤트를 자동화하는 데 사용할 수 있는 프로그램 유형입니다. 이벤트 프로그램을 특정 날짜와 시간에 참석자가 있는 것으로 간주합니다.
 
 >[!NOTE]
 >
@@ -36,7 +36,7 @@ ht-degree: 0%
 
 
 
-이벤트는 [iPad 체크인 앱과](launchpoint-event-partners.md) 동기화할 뿐만 아니라 웨비나 공급자에 자동으로 연결할 수 있습니다 [](../../../../product-docs/core-marketo-concepts/mobile-apps/event-check-in/check-people-into-your-event-from-your-tablet.md).
+이벤트는 [웨비나 공급자](launchpoint-event-partners.md)에 자동으로 연결할 수 있을 뿐만 아니라 [iPad 체크인 앱](../../../../product-docs/core-marketo-concepts/mobile-apps/event-check-in/check-people-into-your-event-from-your-tablet.md)과 동기화할 수 있습니다.
 
 ## 비디오 보기 {#watch-a-video}
 
@@ -44,7 +44,7 @@ ht-degree: 0%
 
 >[!MORELIKETHIS]
 >
->다음 유용한 링크를 사용하여 바로 시작해 보십시오.
+>다음 유용한 링크로 지금 시작해 보십시오.
 >
 >* [새 이벤트 프로그램 만들기](create-a-new-event-program.md)
    >
