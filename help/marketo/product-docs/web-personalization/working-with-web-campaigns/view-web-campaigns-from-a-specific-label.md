@@ -11,13 +11,13 @@ ht-degree: 0%
 ---
 
 
-# 특정 레이블에서 웹 캠페인 보기 {#view-web-campaigns-from-a-specific-label}
+# 특정 레이블 {#view-web-campaigns-from-a-specific-label}에서 웹 캠페인 보기
 
 특정 레이블에 따라 캠페인을 보고 필터링하려면
 
-## 기존 레이블별로 필터링 {#filter-by-existing-labels}
+## 기존 레이블 {#filter-by-existing-labels}별로 필터링
 
-1. 웹 **캠페인으로** **이동합니다**.
+1. **웹** **캠페인**&#x200B;으로 이동합니다.
 
    ![](assets/web-campaigns-hand-4.jpg)
 
@@ -25,15 +25,15 @@ ht-degree: 0%
 
    ![](assets/web-campaigns-my-campaigns-dropdown-1.jpg)
 
-1. 선택한 레이블과 연결된 캠페인만 표시된다는 점을 참고하십시오.
+1. 이제 선택한 레이블에 연결된 캠페인만 표시됩니까?
 
    ![](assets/web-campaigns-label-showing-1.jpg)
 
 >[!MORELIKETHIS]
 >
->* [웹 캠페인 레이블 지정](label-your-web-campaigns.md)
+>* [웹 캠페인에 레이블 지정](label-your-web-campaigns.md)
 >* [특정 레이블에서 세그먼트 보기](../../../product-docs/web-personalization/using-web-segments/view-segments-from-a-specific-label.md)
->* [세그먼트 레이블 지정](../../../product-docs/web-personalization/using-web-segments/label-your-segment.md)
+>* [세그먼트에 레이블 지정](../../../product-docs/web-personalization/using-web-segments/label-your-segment.md)
 
 >
 
