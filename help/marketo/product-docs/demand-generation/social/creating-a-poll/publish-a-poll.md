@@ -13,17 +13,17 @@ ht-degree: 0%
 
 # 투표 게시 {#publish-a-poll}
 
-투표를 [만든](create-a-poll.md)후 마케팅 랜딩 페이지, Facebook 및 웹 사이트에 게시할 수 있습니다.
+[투표](create-a-poll.md)를 만든 후 마케팅 랜딩 페이지, Facebook 및 웹 사이트에 게시할 수 있습니다.
 
-1. 랜딩 페이지로 이동하여 열어서 편집합니다.
+1. 랜딩 페이지로 이동하여 편집을 위해 엽니다.
 
    ![](assets/image2014-9-19-10-3a45-3a23.png)
 
-1. 오른쪽의 **팔레트에서 투표** 위로 드래그합니다.
+1. 오른쪽의 팔레트에서 **투표** 위로 드래그합니다.
 
    ![](assets/image2014-9-19-10-3a45-3a50.png)
 
-1. 투표를 선택하고 삽입을 **클릭합니다.**
+1. 투표를 선택하고 **삽입을 클릭합니다.**
 
    ![](assets/image2014-9-19-10-3a45-3a58.png)
 
@@ -33,9 +33,9 @@ ht-degree: 0%
 >
 >여기에서 투표를 사용할 수 있도록 하려면 투표를 승인해야 합니다.
 
-축하합니다! 랜딩 페이지를 승인하면 설문 조사가 라이브됩니다. 랜딩 페이지를 Facebook에 [게시하거나 웹 사이트](../../../../product-docs/demand-generation/facebook/publish-landing-pages-to-facebook.md)[에 투표를 게시할 수도 있습니다](../../../../product-docs/demand-generation/social/social-functions/deploy-social-on-your-website.md).
+축하합니다! 랜딩 페이지를 승인하고 투표를 라이브합니다. 랜딩 페이지를 Facebook[ 또는 ](../../../../product-docs/demand-generation/facebook/publish-landing-pages-to-facebook.md)웹 사이트[에 게시할 수도 있습니다.](../../../../product-docs/demand-generation/social/social-functions/deploy-social-on-your-website.md)
 
 >[!TIP]
 >
->투표를 테스트하고 세분화합니다. 웹 페이지의 투표에 참여하여 테스트 정보를 등록하십시오. 사용자 경험에 대해 변경할 모든 사항을 기록해 두십시오.
+>투표를 테스트하고 세분화합니다. 웹 페이지의 투표에 참여하여 테스트 정보를 등록하십시오. 사용자 경험에 대해 변경할 모든 것을 메모해 둡니다.
 
