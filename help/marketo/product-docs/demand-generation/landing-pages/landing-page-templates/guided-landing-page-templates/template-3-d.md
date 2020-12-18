@@ -1,7 +1,7 @@
 ---
 unique-page-id: 8160090
 description: 템플릿 3-D - 마케팅 문서 - 제품 설명서
-title: 템플릿 3-D
+title: 템플릿 3D
 translation-type: tm+mt
 source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
 workflow-type: tm+mt
@@ -13,18 +13,18 @@ ht-degree: 0%
 
 # 템플릿 3-D {#template-d}
 
-[템플릿 3-D 다운로드](http://docs.marketo.com/download/attachments/8160090/template3-d.html?version=1&amp;modificationdate=1434390935000&amp;api=v2)
+[템플릿 3D 다운로드](http://docs.marketo.com/download/attachments/8160090/template3-d.html?version=1&amp;modificationdate=1434390935000&amp;api=v2)
 
 ![](assets/image2015-6-15-11-3a29-3a7.png)
 
-이 템플릿에는 다음 컨텐츠가 포함되어 있습니다.
+이 템플릿에는 다음 내용이 포함되어 있습니다.
 
-* 로고와 3개의 단추가 있는 헤더(선택 사항)
+* 로고와 3개의 단추가 있는 머리글(선택 사항)
 * 기본 섹션
 
-   * 영웅 텍스트를 포함합니다.
+   * 영웅 텍스트가 포함되어 있습니다.
 
-* 세 개의 본문 섹션(선택 사항)
+* 3개의 본문 섹션(선택 사항)
 * 바닥글(선택 사항)
 
 **이 템플릿을 다운로드하려면 아래를 클릭하십시오.**
