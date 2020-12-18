@@ -1,6 +1,6 @@
 ---
 unique-page-id: 2949168
-description: 템플릿을 사용하여 웹 캠페인 만들기 - Marketing Docs - 제품 설명서
+description: 템플릿을 사용하여 웹 캠페인 만들기 - 마케팅 문서 - 제품 설명서
 title: 템플릿을 사용하여 웹 캠페인 만들기
 translation-type: tm+mt
 source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
@@ -13,11 +13,11 @@ ht-degree: 0%
 
 # 템플릿을 사용하여 웹 캠페인 만들기 {#using-templates-to-create-web-campaigns}
 
-내장된 템플릿을 사용하거나 직접 [저장하여 웹 캠페인 제작 프로세스를 가속화하고 간소화할 수 있습니다](save-your-campaign-as-a-template.md).
+내장된 템플릿을 사용하거나 [직접](save-your-campaign-as-a-template.md)저장 기능을 사용하여 웹 캠페인 제작 프로세스를 가속화하고 간소화할 수 있습니다.
 
 >[!NOTE]
 >
->템플릿은 데스크탑과 모바일 모두에 최적화된 모든 디바이스와 검색 환경입니다.
+>템플릿은 모든 장치에 최적화되어 데스크탑과 모바일 모두에 최적화된 검색 환경입니다.
 
 1. 웹 캠페인으로 이동합니다.
 
@@ -51,7 +51,7 @@ ht-degree: 0%
 
    >[!TIP]
    >
-   >모바일 캠페인의 경우 **모바일** 섹션에서 템플릿을 선택합니다.
+   >모바일 캠페인의 경우 **mobile** 섹션에서 템플릿을 선택합니다.
 
 1. 템플릿을 사용자 정의합니다.
 
@@ -61,7 +61,7 @@ ht-degree: 0%
 
    ![](assets/click-save-hand.jpg)
 
-잘 했어! 템플릿을 사용하여 저장한 시간을 확인했습니까?
+잘했다! 템플릿을 사용하여 저장한 시간을 확인했습니까?
 
 >[!MORELIKETHIS]
 >
