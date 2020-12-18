@@ -1,6 +1,6 @@
 ---
 unique-page-id: 8783935
-description: 템플릿 6-D - Marketing Docs - 제품 설명서
+description: 템플릿 6-D - 마케팅 문서 - 제품 설명서
 title: 템플릿 6-D
 translation-type: tm+mt
 source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
@@ -17,11 +17,11 @@ ht-degree: 0%
 
 ![](assets/image2015-7-29-12-3a1-3a21.png)
 
-이 템플릿에는 다음 컨텐츠가 포함되어 있습니다.
+이 템플릿에는 다음 내용이 포함되어 있습니다.
 
 * 기본 섹션
 
-   * 영웅 비디오, 제목, 자막, 본문 텍스트 및 단추가 포함되어 있습니다.
+   * 메인 비디오, 제목, 자막, 본문 텍스트 및 단추가 포함되어 있습니다.
 
 * 4개의 본문 섹션(선택 사항)
 * 바닥글(선택 사항)
