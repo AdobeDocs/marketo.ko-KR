@@ -15,9 +15,9 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->구매 날짜에 따라 마케팅 구독에 마케팅 토 예측 컨텐츠 또는 컨텐츠가 포함될 수 있습니다`<sup>AI</sup>`. 예측 컨텐츠를 사용하는 사용자의 경우 Marketing에서는 2018년 4월 30일까지 컨텐츠`<sup>AI</sup>` 분석 기능을 활성화합니다. 이러한 기능을 해당 날짜 이상으로 유지하려면 마케팅 고객 성공 관리자에게 문의하여 Marketing Cloud 콘텐츠로 업그레이드하십시오`<sup>AI</sup>`.
+>구매 날짜에 따라 마케팅 구독에 Marketing To 예측 컨텐츠 또는 컨텐츠`<sup>AI</sup>`가 포함될 수 있습니다. 예측 컨텐츠를 사용하는 사용자의 경우 Marketing에서는 2018년 4월 30일까지 컨텐츠`<sup>AI</sup>` 분석 기능을 활성화합니다. 이러한 기능을 해당 날짜 이상으로 유지하려면 마케팅 고객 성공 관리자에게 문의하여 Marketing To Content`<sup>AI</sup>`으로 업그레이드하십시오.
 
-스마트 캠페인에서 스마트 목록을 정의할 때 트리거 및 필터에서 예측 컨텐츠 활동을 사용할 수 있습니다. 리치 미디어 템플릿 [,](enabling-predictive-content/enable-predictive-content-for-web-rich-media.md)컨텐츠 권장 사항 막대 [](enabling-predictive-content/enable-the-content-recommendation-bar.md)또는 이메일을 통해 예측 컨텐츠를 클릭하는 모든 사용자에 대한 동작을 트리거할 수 있습니다.
+스마트 캠페인에서 스마트 목록을 정의할 때 트리거 및 필터에서 예측 컨텐츠 활동을 사용할 수 있습니다. [리치 미디어 템플릿](enabling-predictive-content/enable-predictive-content-for-web-rich-media.md), [컨텐트 권장 사항 막대](enabling-predictive-content/enable-the-content-recommendation-bar.md) 또는 이메일을 통해 예측 컨텐트를 클릭하는 모든 사용자에 대한 작업을 트리거할 수 있습니다.
 
 1. 스마트 캠페인에서 **스마트 목록** 탭으로 이동합니다.
 
@@ -25,10 +25,10 @@ ht-degree: 0%
 
    >[!NOTE]
    >
-   >**딥 다이브**
+   >**자세히 알아보기**
    >
    >
-   >스마트한 목록을 통해 멋진 작품을 만들 수 있습니다. 자세한 내용은 [스마트한 목록을 참조하십시오](../../product-docs/core-marketo-concepts/smart-campaigns/understanding-smart-campaigns.md).
+   >스마트 리스트는 놀라운 일을 할 수 있습니다. [고급 목록에서 자세히 알아보기](../../product-docs/core-marketo-concepts/smart-campaigns/understanding-smart-campaigns.md)를 참조하십시오.
 
 1. 트리거를 검색한 다음 캔버스에 드래그하여 놓습니다.
 
@@ -36,9 +36,9 @@ ht-degree: 0%
 
    >[!NOTE]
    >
-   >트리거가 있는 스마트 캠페인은 트리거 모드에서 실행됩니다. 트리거된 이벤트 및 추가된 필터를 기반으로 한 시간에 한 사람씩 실행됩니다.
+   >트리거가 있는 스마트 캠페인은 트리거 모드에서 실행됩니다. 트리거된 이벤트와 추가된 필터를 기반으로 한 번에 한 사람씩 실행됩니다.
 
-1. 이름 **드롭다운을** 클릭하고 연산자를 선택합니다.
+1. **이름** 드롭다운을 클릭하고 연산자를 선택합니다.
 
    ![](assets/smart-list-dropdown-hands.png)
 
@@ -46,7 +46,7 @@ ht-degree: 0%
 
    ![](assets/smart-lislt-select-content-hands.png)
 
-1. 유형 **제한을** 추가합니다.
+1. **Type** 제약 조건을 추가합니다.
 
    ![](assets/clicks-predictive-content-add-constraint-hands.png)
 
@@ -54,7 +54,7 @@ ht-degree: 0%
 
    ![](assets/pc-add-constraint.png)
 
-1. 예측 컨텐츠에 이메일 소스를 사용하는 경우 **이메일의 클릭 수 링크 **트리거를 추가합니다. 이메일을 선택하고 **true로 정의된 예측** 제한 **을 추가합니다**.
+1. 예측 컨텐트에 이메일 소스를 사용하는 경우 **클릭스루 이메일 **트리거를 추가합니다. 이메일을 선택하고 **true**&#x200B;로 정의된 **예측** 제약 조건을 추가합니다.
 
    ![](assets/clicks-link-in-email-trigger-hands.png)
 
@@ -64,11 +64,11 @@ ht-degree: 0%
 
    >[!TIP]
    >
-   >트리거와 필터가 모두 있는 스마트 캠페인에서 트리거가 맨 위에 표시됩니다. 트리거되면 필터 기준을 만족하는 사람만 흐름을 따라 이동합니다.
+   >트리거와 필터가 모두 있는 스마트 캠페인에서 트리거가 맨 위로 이동합니다. 트리거되면 필터 기준을 만족하는 사람만 흐름을 따라 이동합니다.
 
    >[!NOTE]
    >
-   >여러 개의 트리거를 사용하는 경우 트리거가 하나라도 활성화되면 사람이 흐름을 따라 이동합니다.
+   >트리거가 여러 개인 경우 트리거가 하나라도 활성화되면 사람이 해당 흐름을 탐색합니다.
 
    [일괄 처리 스마트 캠페인에 대한 스마트 목록 정의](../../product-docs/core-marketo-concepts/smart-campaigns/creating-a-smart-campaign/define-smart-list-for-smart-campaign-batch.md)
 
@@ -85,4 +85,4 @@ ht-degree: 0%
    >    * [컨텐츠 권장 사항 막대 활성화](enabling-predictive-content/enable-the-content-recommendation-bar.md)
 
 
-동시에 여러 사람 집합에서 캠페인을 실행하려면 방법을 알아봅니다.
+여러 사람 집합에서 동시에 캠페인을 실행하려면 방법을 알아보십시오.
