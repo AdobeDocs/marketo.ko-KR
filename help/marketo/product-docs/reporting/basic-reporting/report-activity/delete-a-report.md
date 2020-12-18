@@ -11,11 +11,11 @@ ht-degree: 0%
 ---
 
 
-# 보고서 삭제 {#delete-a-report}
+# 보고서 {#delete-a-report} 삭제
 
-일단 보고서 [를](../../../../product-docs/reporting/basic-reporting/creating-reports/create-a-report-in-a-program.md)만들면 많은 보고서를 신속하게 만들 수 있습니다. 더 이상 필요하지 않은 보고서를 삭제해야 합니다.
+[보고서 만들기](../../../../product-docs/reporting/basic-reporting/creating-reports/create-a-report-in-a-program.md)를 시작하면 많은 보고서 세트로 빠르게 끝낼 수 있습니다. 더 이상 필요하지 않은 보고서를 삭제해야 합니다.
 
-1. 트리에서 불필요한 보고서를 마우스 오른쪽 단추로 클릭하고 보고서 **삭제를 선택합니다**.
+1. 트리에서 필요 없는 보고서를 마우스 오른쪽 단추로 클릭하고 **보고서 삭제**&#x200B;를 선택합니다.
 
    ![](assets/image2014-9-16-14-3a26-3a48.png)
 
@@ -27,8 +27,8 @@ ht-degree: 0%
 
    >[!NOTE]
    >
-   >**딥 다이브**
+   >**자세히 알아보기**
    >
    >
-   >기본 보고 [심층 분석에서 보고서를 사용하여 수행할 수 있는 다른 모든](http://docs.marketo.com/display/docs/basic+reporting) 기능을 살펴볼 수 있습니다.
+   >[기본 보고](http://docs.marketo.com/display/docs/basic+reporting) 딥 다이빙에서 보고서에 사용할 수 있는 다른 모든 작업을 봅니다.
 
