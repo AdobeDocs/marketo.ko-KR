@@ -15,19 +15,19 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->구매 날짜에 따라 마케팅 구독에 마케팅 토 예측 컨텐츠 또는 컨텐츠가 포함될 수 있습니다`<sup>AI</sup>`. 예측 컨텐츠를 사용하는 사용자의 경우 Marketing에서는 2018년 4월 30일까지 컨텐츠`<sup>AI</sup>` 분석 기능을 활성화합니다. 이러한 기능을 해당 날짜 이상으로 유지하려면 마케팅 고객 성공 관리자에게 문의하여 Marketing Cloud 콘텐츠로 업그레이드하십시오`<sup>AI</sup>`.
+>구매 날짜에 따라 마케팅 구독에 Marketing To 예측 컨텐츠 또는 컨텐츠`<sup>AI</sup>`가 포함될 수 있습니다. 예측 컨텐츠를 사용하는 사용자의 경우 Marketing에서는 2018년 4월 30일까지 컨텐츠`<sup>AI</sup>` 분석 기능을 활성화합니다. 이러한 기능을 해당 날짜 이상으로 유지하려면 마케팅 고객 성공 관리자에게 문의하여 Marketing To Content`<sup>AI</sup>`으로 업그레이드하십시오.
 
-예측 컨텐츠 요약에는 테이블, 그래프 및 현재 숫자가 포함된 예측 컨텐츠에 대해 필요한 정보가 한 눈에 표시됩니다.
+예측 컨텐츠 요약에는 테이블, 그래프 및 현재 번호와 함께 예측 컨텐츠에 대해 필요한 정보가 한 눈에 표시됩니다.
 
-## 상단 막대 {#top-bar}
+## 위쪽 막대 {#top-bar}
 
-맨 위 막대는 콘텐트 및 보기에 대한 현재 번호와 활성화된 조각 수를 보여줍니다. 오른쪽 상단의 전체 페이지에 대해 지난 7일 또는 30일 보기를 선택합니다.
+상단 막대에 콘텐트 및 보기에 대한 현재 번호와 활성화된 조각 수가 표시됩니다. 오른쪽 상단의 전체 페이지에 대해 지난 7일 또는 30일 보기를 선택합니다.
 
 ![](assets/image2017-10-17-14-3a10-3a22.png)
 
-## 성능 표 {#performance-table}
+## 성능 테이블 {#performance-table}
 
-여기에서 보기, 직접 리드 및 전환율 등 검색된 상위 10개 콘텐츠를 확인할 수 있습니다.
+보기 횟수, 직접 리드 및 전환율 등 검색된 상위 10개 콘텐츠를 확인할 수 있습니다.
 
 ![](assets/image2017-10-3-10-3a4-3a40.png)
 
@@ -37,15 +37,15 @@ ht-degree: 0%
 
 ![](assets/predictive-engagement-actual.png)
 
-## 조회별 컨텐츠 트렌드  {#content-trend-by-views}
+## 뷰별 컨텐트 트렌드 {#content-trend-by-views}
 
-모든 컨텐츠의 보기가 예측 컨텐츠와 일치하는 방식을 비교해 보십시오.
+모든 컨텐츠의 뷰가 예측 컨텐츠와 일치하는 방식을 비교할 수 있습니다.
 
 ![](assets/4.png)
 
 ## 참여별 상위 카테고리 {#top-categories-by-engagement}
 
-가장 매력적인 콘텐츠 카테고리는 무엇입니까? 이 그래프에서 확인하십시오.
+가장 매력적인 컨텐츠 카테고리는 무엇입니까? 이 그래프에서 확인하십시오.
 
 ![](assets/5.png)
 
@@ -56,7 +56,7 @@ ht-degree: 0%
 >[!MORELIKETHIS]
 >
 >* [모든 컨텐츠 작업](http://docs.marketo.com/display/docs/working+with+all+content)
->* [예측 컨텐츠 사용](http://docs.marketo.com/display/docs/working+with+predictive+content)
+>* [예측 컨텐츠 작업](http://docs.marketo.com/display/docs/working+with+predictive+content)
 
 >
 
