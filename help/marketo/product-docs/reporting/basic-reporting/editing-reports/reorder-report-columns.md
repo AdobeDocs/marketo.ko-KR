@@ -15,7 +15,7 @@ ht-degree: 0%
 
 보고서의 열 순서를 변경할 수 있습니다.
 
-1. 마케팅 활동 **(또는** 분석 **) 영역으로**&#x200B;이동합니다.
+1. **마케팅 활동**(또는 **분석**) 영역으로 이동합니다.
 
    ![](assets/image2014-9-16-10-3a50-3a27.png)
 
@@ -44,8 +44,8 @@ ht-degree: 0%
 
    >[!NOTE]
    >
-   >**딥 다이브**
+   >**자세히 알아보기**
    >
    >
-   >기본 보고의 보고서 작업에 필요한 모든 기능을 [살펴볼 수 있습니다](http://docs.marketo.com/display/docs/basic+reporting).
+   >[기본 보고](http://docs.marketo.com/display/docs/basic+reporting)에서 보고서를 사용하여 작업하는 모든 기능을 알아봅니다.
 
