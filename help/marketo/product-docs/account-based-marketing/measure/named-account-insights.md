@@ -3,9 +3,9 @@ unique-page-id: 11380785
 description: 지정된 계정 인사이트 - 마케팅 문서 - 제품 설명서
 title: 지정된 계정 인사이트
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: e125f8469239a026aefb703fdb6ba99c32e33565
 workflow-type: tm+mt
-source-wordcount: '457'
+source-wordcount: '422'
 ht-degree: 0%
 
 ---
@@ -19,7 +19,7 @@ ht-degree: 0%
 
 ## 대시보드 {#dashboard}
 
-대시보드는 지정된 계정 내의 모든 사람으로부터 계정 수준에서 주요 통찰력을 집계하므로 각 사람에게 진행 상황을 평가할 필요가 없습니다. [이메일 인사이트](http://docs.marketo.com/display/DOCS/Filtering+in+Email+Insights#FilteringinEmailInsights-AccountBasedMarketing)를 사용하여 이메일 활동에 대해 자세히 드릴다운할 수 있습니다.
+대시보드는 지정된 계정 내의 모든 사람으로부터 계정 수준에서 주요 통찰력을 집계하므로 각 사람에게 진행 상황을 평가할 필요가 없습니다. [이메일 인사이트](/help/marketo/product-docs/reporting/email-insights/filtering-in-email-insights.md#account-based-marketing)를 사용하여 이메일 활동에 대해 자세히 드릴다운할 수 있습니다.
 
 >[!NOTE]
 >
@@ -52,13 +52,13 @@ ht-degree: 0%
 
 **흥미로운 순간**
 
-[Marketing To Sales Insight](http://docs.marketo.com/display/DOCS/Marketo+Sales+Insight) 사용자가 사용할 수 있는 계정 수준에서 롤업된 흥미로운 순간을 참조하십시오.
+Marketing to Sales Insight 사용자가 사용할 수 있는 계정 수준에서 롤업된 흥미로운 시간을 확인할 수 있습니다.
 
 ![](assets/int-mom.png)
 
 **상위 사람**
 
-이러한 사람은 이름이 지정된 계정의 사용자(매출 인사이트의 [최고의 베팅](http://docs.marketo.com/display/DOCS/Priority,+Urgency,+Relative+Score,+and+Best+Bets)과 동일) 또는 사용자가 정의한 점수와 같은 최근 또는 긴급한 상황을 기반으로 계산됩니다. **우선** 순위는 Marketing to Sales Insight 사용자에게만 제공됩니다.
+이러한 사람은 이름이 지정된 계정의 사용자(매출 인사이트의 [최고의 베팅](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/features/stars-and-flames/priority-urgency-relative-score-and-best-bets.md)과 동일) 또는 사용자가 정의한 점수와 같은 최근 또는 긴급한 상황을 기반으로 계산됩니다. **우선** 순위는 Marketing to Sales Insight 사용자에게만 제공됩니다.
 
 ![](assets/top-ten.png)
 
@@ -112,7 +112,6 @@ ht-degree: 0%
 
 ## ICP 표시기 {#icp-indicators}
 
-[모델](http://docs.marketo.com/display/DOCS/Account+AI+Overview#AccountAIOverview-ModelTuning)을 조정하면 내보내도록 선택한 ICP 표시기를 봅니다.
+[모델](/help/marketo/product-docs/account-based-marketing/account-profiling/account-profiling-ranking-and-tuning.md#model-tuning)을 조정하면 내보내도록 선택한 ICP 표시기를 봅니다.
 
 ![](assets/eight.png)
-
