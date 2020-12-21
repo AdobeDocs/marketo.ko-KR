@@ -3,9 +3,9 @@ unique-page-id: 11380732
 description: 계정 필터 - 마케팅 문서 - 제품 설명서
 title: 계정 필터
 translation-type: tm+mt
-source-git-commit: 3c24395e55c756184615941327e15e050fa7d0ac
+source-git-commit: e125f8469239a026aefb703fdb6ba99c32e33565
 workflow-type: tm+mt
-source-wordcount: '192'
+source-wordcount: '180'
 ht-degree: 0%
 
 ---
@@ -57,7 +57,7 @@ ht-degree: 0%
 
    ![](assets/eight.png)
 
-1. &quot;is any&quot; 한정자를 사용하는 경우 [constraints](http://docs.marketo.com/display/DOCS/Add+a+Constraint+to+a+Smart+List+Filter)를 사용하여 검색 결과를 좁힐 수 있습니다. 원하는 만큼 추가하세요!
+1. &quot;is any&quot; 한정자를 사용하는 경우 [constraints](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/using-smart-lists/add-a-constraint-to-a-smart-list-filter.md)를 사용하여 검색 결과를 좁힐 수 있습니다. 원하는 만큼 추가하세요!
 
    ![](assets/nine.png)
 
@@ -67,5 +67,4 @@ ht-degree: 0%
 
 >[!MORELIKETHIS]
 >
->* [계정 트리거](account-triggers.md)
-
+>[계정 트리거](/help/marketo/product-docs/account-based-marketing/engage/account-triggers.md)
