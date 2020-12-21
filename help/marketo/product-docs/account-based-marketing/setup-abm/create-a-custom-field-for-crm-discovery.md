@@ -3,7 +3,7 @@ unique-page-id: 12978647
 description: CRM 검색을 위한 사용자 정의 필드 만들기 - 마케팅 문서 - 제품 설명서
 title: CRM 검색을 위한 사용자 정의 필드 만들기
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: e125f8469239a026aefb703fdb6ba99c32e33565
 workflow-type: tm+mt
 source-wordcount: '134'
 ht-degree: 0%
@@ -46,4 +46,3 @@ ht-degree: 0%
    동기화되면 Discover CRM 격자의 오른쪽 끝에 새 필드가 나타납니다.
 
    ![](assets/eight.png)
-
