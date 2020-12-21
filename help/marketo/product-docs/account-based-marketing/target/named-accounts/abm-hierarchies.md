@@ -3,9 +3,9 @@ unique-page-id: 13795510
 description: ABM 계층 - 마케팅 문서 - 제품 설명서
 title: ABM 계층
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: e125f8469239a026aefb703fdb6ba99c32e33565
 workflow-type: tm+mt
-source-wordcount: '150'
+source-wordcount: '143'
 ht-degree: 0%
 
 ---
@@ -35,7 +35,6 @@ ABM 계층을 사용하면 지정된 계정 대시보드에서 전체 계층 또
 >
 >Marketing 인터페이스는 최대 10개 수준(상위 계정의 하위 및 손자 계정)만 표시되지만 만들 수 있는 하위 계정 수에는 제한이 없습니다.
 
-[한 번의 클릭](http://docs.marketo.com/display/DOCS/Account+Filters#AccountFilters-MemberofNamedAccount)으로 전체 계층에 대한 Target 및 보고
+[한 번의 클릭](/help/marketo/product-docs/account-based-marketing/engage/account-filters.md#member-of-named-account)으로 전체 계층에 대한 Target 및 보고
 
 ![](assets/member.png)
-
