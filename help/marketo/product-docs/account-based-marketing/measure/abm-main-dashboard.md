@@ -3,9 +3,9 @@ unique-page-id: 11380783
 description: ABM 기본 대시보드 - 마케팅 문서 - 제품 설명서
 title: ABM 기본 대시보드
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: e125f8469239a026aefb703fdb6ba99c32e33565
 workflow-type: tm+mt
-source-wordcount: '131'
+source-wordcount: '116'
 ht-degree: 0%
 
 ---
@@ -25,7 +25,7 @@ ht-degree: 0%
 
 ![](assets/three.png)
 
-[계정 목록 대시보드](http://docs.marketo.com/display/DOCS/Account+List+Insights#AccountListInsights-AccountListDashboard)를 보려면 선택한 계정 목록 이름을 클릭합니다.
+[계정 목록 대시보드](/help/marketo/product-docs/account-based-marketing/measure/account-list-insights.md#account-list-dashboard)를 보려면 선택한 계정 목록 이름을 클릭합니다.
 
 ![](assets/four.png)
 
@@ -37,7 +37,6 @@ ht-degree: 0%
 
 ![](assets/six.png)
 
-...및 [명명된 계정의 통찰력](http://docs.marketo.com/display/DOCS/Named+Account+Insights)을 봅니다.
+...및 [명명된 계정의 통찰력](/help/marketo/product-docs/account-based-marketing/measure/named-account-insights.md)을 봅니다.
 
 ![](assets/seven.png)
-
