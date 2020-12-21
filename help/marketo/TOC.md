@@ -5,7 +5,7 @@ audience: end-user
 user-guide-title: 마케팅 가이드
 user-guide-description: 마케팅 제품 설명서
 translation-type: tm+mt
-source-git-commit: d7d6aee63144c472e02fe0221c4a164183d04dd4
+source-git-commit: 55375469516d10c03d936abaed1e9177e578e2ec
 workflow-type: tm+mt
 source-wordcount: '7840'
 ht-degree: 0%
@@ -71,21 +71,21 @@ ht-degree: 0%
             + [계층 만들기](product-docs/account-based-marketing/target/named-accounts/abm-hierarchies/create-a-hierarchy.md)
          + [계정 목록](product-docs/account-based-marketing/target/account-lists.md)
          + [LinkedIn에서 일치하는 대상 만들기](product-docs/account-based-marketing/target/create-a-matched-audience-on-linkedin.md)
+      + {#engage} 참여
+         + [계정 필터](product-docs/account-based-marketing/engage/account-filters.md)
+         + [계정 트리거](product-docs/account-based-marketing/engage/account-triggers.md)
+      + 측정값 {#measure}
+         + [ABM 기본 대시보드](product-docs/account-based-marketing/measure/abm-main-dashboard.md)
+         + [ABM 보고서 설정](product-docs/account-based-marketing/measure/abm-report-setup.md)
+         + [ABM 판매 보고서](product-docs/account-based-marketing/measure/abm-sales-report.md)
+         + [계정 목록 통찰력](product-docs/account-based-marketing/measure/account-list-insights.md)
+         + [RCA의 지정된 계정 Dimension](product-docs/account-based-marketing/measure/named-account-dimension-in-rca.md)
+         + [지정된 계정 인사이트](product-docs/account-based-marketing/measure/named-account-insights.md)
+         + [페르시아 사용](product-docs/account-based-marketing/using-personas.md)
    + 계정 프로파일링 {#account-profiling}
       + [계정 프로파일링 설정](product-docs/account-based-marketing/account-profiling/setting-up-account-profiling.md)
       + [계정 프로파일링 등급 및 조정](product-docs/account-based-marketing/account-profiling/account-profiling-ranking-and-tuning.md)
       + [새 계정 검색](product-docs/account-based-marketing/account-profiling/new-account-discovery.md)
-   + {#engage} 참여
-      + [계정 필터](product-docs/account-based-marketing/engage/account-filters.md)
-      + [계정 트리거](product-docs/account-based-marketing/engage/account-triggers.md)
-   + 측정값 {#measure}
-      + [ABM 기본 대시보드](product-docs/account-based-marketing/measure/abm-main-dashboard.md)
-      + [ABM 보고서 설정](product-docs/account-based-marketing/measure/abm-report-setup.md)
-      + [ABM 판매 보고서](product-docs/account-based-marketing/measure/abm-sales-report.md)
-      + [계정 목록 통찰력](product-docs/account-based-marketing/measure/account-list-insights.md)
-      + [RCA의 지정된 계정 Dimension](product-docs/account-based-marketing/measure/named-account-dimension-in-rca.md)
-      + [지정된 계정 인사이트](product-docs/account-based-marketing/measure/named-account-insights.md)
-      + [페르시아 사용](product-docs/account-based-marketing/using-personas.md)
    + 추가 앱 {#additional-apps}
       + SEO {#seo}
          + SEO {#understanding-seo} 이해
