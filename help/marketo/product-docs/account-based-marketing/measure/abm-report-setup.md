@@ -3,7 +3,7 @@ unique-page-id: 11384438
 description: ABM 보고서 설정 - 마케팅 문서 - 제품 설명서
 title: ABM 보고서 설정
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: e125f8469239a026aefb703fdb6ba99c32e33565
 workflow-type: tm+mt
 source-wordcount: '162'
 ht-degree: 0%
@@ -78,4 +78,3 @@ ABM 판매 보고서는 계정 팀에 매주 개인화된 이메일입니다.
 1. 이메일을 다시 받을 사용자를 선택하고 **다시 구독**&#x200B;을 클릭합니다.
 
    ![](assets/eleven.png)
-
