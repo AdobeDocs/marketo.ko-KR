@@ -5,7 +5,7 @@ audience: end-user
 user-guide-title: 마케팅 가이드
 user-guide-description: 마케팅 제품 설명서
 translation-type: tm+mt
-source-git-commit: 55375469516d10c03d936abaed1e9177e578e2ec
+source-git-commit: d191e59d4ed96025194ebece423e905e3ac7a7d9
 workflow-type: tm+mt
 source-wordcount: '7840'
 ht-degree: 0%
@@ -68,7 +68,7 @@ ht-degree: 0%
             + [지정된 계정에서 필터링](product-docs/account-based-marketing/target/named-accounts/filtering-in-named-accounts.md)
             + [명명된 계정 삭제](product-docs/account-based-marketing/target/named-accounts/delete-a-named-account.md)
             + [ABM 계층](product-docs/account-based-marketing/target/named-accounts/abm-hierarchies.md)
-            + [계층 만들기](product-docs/account-based-marketing/target/named-accounts/abm-hierarchies/create-a-hierarchy.md)
+            + [계층 만들기](product-docs/account-based-marketing/target/named-accounts/create-a-hierarchy.md)
          + [계정 목록](product-docs/account-based-marketing/target/account-lists.md)
          + [LinkedIn에서 일치하는 대상 만들기](product-docs/account-based-marketing/target/create-a-matched-audience-on-linkedin.md)
       + {#engage} 참여
