@@ -3,9 +3,9 @@ unique-page-id: 11380789
 description: RCA의 명명 계정 Dimension - Marketing Docs - 제품 설명서
 title: RCA의 지정된 계정 Dimension
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: e125f8469239a026aefb703fdb6ba99c32e33565
 workflow-type: tm+mt
-source-wordcount: '161'
+source-wordcount: '149'
 ht-degree: 0%
 
 ---
@@ -17,9 +17,7 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->**정의**
->
->**Dimension **- 측정값에 대해 다른 보기를 제공하는 속성(노란색 점으로 표시됨)
+>**Dimension**  - 측정값에 대해 다른 보기를 제공하는 속성(노란색 점으로 표시됨)
 
 ![](assets/one-2.png)
 
@@ -35,8 +33,6 @@ ht-degree: 0%
 * 프로그램 회원 분석
 
 >[!NOTE]
->
->**예**
 >
 >다음은 매출 주기 분석에서 Marketing To ABM의 몇 가지 예입니다.
 
@@ -55,12 +51,3 @@ ht-degree: 0%
 지정된 계정 내에서 품질 리드 및 참여 범위
 
 ![](assets/five-2.png)
-
->[!MORELIKETHIS]
->
->* [매출 주기 분석](http://docs.marketo.com/display/docs/revenue+cycle+analytics)
-
->
-
-
-
