@@ -3,9 +3,9 @@ unique-page-id: 11378814
 description: 계정 목록 - 마케팅 문서 - 제품 설명서
 title: 계정 목록
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: e125f8469239a026aefb703fdb6ba99c32e33565
 workflow-type: tm+mt
-source-wordcount: '360'
+source-wordcount: '341'
 ht-degree: 0%
 
 ---
@@ -21,7 +21,7 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->Marketing to 계정 기반 마케팅에서 만든 계정 목록은 [웹 개인화](http://docs.marketo.com/display/DOCS/RTP+Segments)에서 스마트 목록 및 웹 캠페인을 작성할 때 자동으로 사용할 수 있습니다.
+>Marketing to 계정 기반 마케팅에서 만든 계정 목록은 [웹 개인화](/help/marketo/product-docs/web-personalization/using-web-segments/web-segments.md)에서 스마트 목록 및 웹 캠페인을 작성할 때 자동으로 사용할 수 있습니다.
 
 ## 새 계정 목록 만들기 {#create-a-new-account-list}
 
@@ -33,7 +33,7 @@ ht-degree: 0%
 
    ![](assets/three-0.png)
 
-1. 계정 목록을 만든 후 [에 명명된 계정을 추가하는 작업을 시작합니다](http://docs.marketo.com/display/DOCS/Add+an+Existing+Named+Account+to+an+Account+List)!
+1. 계정 목록을 만든 후 [에 명명된 계정을 추가하는 작업을 시작합니다](/help/marketo/product-docs/account-based-marketing/target/named-accounts/add-an-existing-named-account-to-an-account-list.md)!
 
    >[!NOTE]
    >
@@ -61,7 +61,7 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->이러한 단계는 계정 목록에만 적용됩니다. *동적* 계정 목록은 연결된 CRM 계정 보기의 이름을 사용합니다.
+>이러한 단계는 계정 목록에만 적용됩니다. _동적_ 계정 목록은 연결된 CRM 계정 보기의 이름을 사용합니다.
 
 1. 이름을 변경할 계정을 선택하고 **계정 목록 작업** 드롭다운을 클릭한 다음 **계정 목록 이름 바꾸기**&#x200B;를 선택합니다.
 
@@ -91,10 +91,6 @@ ht-degree: 0%
 
 >[!MORELIKETHIS]
 >
->* [계정 목록에 기존 명명 계정 추가](named-accounts/add-an-existing-named-account-to-an-account-list.md)
->* [계정 목록 통찰력](../../../product-docs/account-based-marketing/measure/account-list-insights.md)
-
->
-
-
+>* [계정 목록에 기존 명명 계정 추가](/help/marketo/product-docs/account-based-marketing/target/named-accounts/add-an-existing-named-account-to-an-account-list.md)
+>* [계정 목록 통찰력](/help/marketo/product-docs/account-based-marketing/measure/account-list-insights.md)
 
