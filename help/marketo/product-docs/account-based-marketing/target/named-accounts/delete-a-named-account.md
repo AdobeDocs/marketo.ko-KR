@@ -3,7 +3,7 @@ unique-page-id: 12615802
 description: 지정된 계정 삭제 - 마케팅 문서 - 제품 설명서
 title: 명명된 계정 삭제
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: e125f8469239a026aefb703fdb6ba99c32e33565
 workflow-type: tm+mt
 source-wordcount: '108'
 ht-degree: 0%
@@ -34,4 +34,3 @@ ht-degree: 0%
    >[!NOTE]
    >
    >CRM에 동기화된 계정은 ABM에서 삭제할 수 없습니다. 삭제 옵션을 사용할 수 없거나 &quot;하나 이상의 CRM 계정을 선택했기 때문에 이 계정을 삭제할 수 없습니다.&quot; 메시지가 표시되면 CRM에서 직접 삭제해야 합니다.
-
