@@ -3,9 +3,9 @@ unique-page-id: 12979223
 description: 계정 인사이트 설정 - 마케팅 문서 - 제품 설명서
 title: 계정 인사이트 설정
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: e125f8469239a026aefb703fdb6ba99c32e33565
 workflow-type: tm+mt
-source-wordcount: '118'
+source-wordcount: '106'
 ht-degree: 0%
 
 ---
@@ -17,7 +17,7 @@ ht-degree: 0%
 
 >[!PREREQUISITES]
 >
->ABM 계정 점수 [는 먼저 ](http://docs.marketo.com/display/DOCS/Account+Score)을 구성해야 합니다.
+>ABM 계정 점수 [는 먼저 ](/help/marketo/product-docs/account-based-marketing/setup-abm/account-score.md)을 구성해야 합니다.
 
 1. **관리**&#x200B;를 클릭합니다.
 
@@ -37,9 +37,8 @@ ht-degree: 0%
 
    >[!NOTE]
    >
-   >언제든지 [계정 점수 설정](http://docs.marketo.com/display/DOCS/Account+Score)이 업데이트되는 경우 관리자가 ABM 판매 아래의 구성을 업데이트하여 점수가 사용자의 기본 설정을 정확하게 반영하도록 해야 합니다. 사용자가 로그아웃한 후 다시 로그인하여 변경 내용을 확인합니다.
+   >언제든지 [계정 점수 설정](/help/marketo/product-docs/account-based-marketing/setup-abm/account-score.md)이 업데이트되는 경우 관리자가 ABM 판매 아래의 구성을 업데이트하여 점수가 사용자의 기본 설정을 정확하게 반영하도록 해야 합니다. 사용자가 로그아웃한 후 다시 로그인하여 변경 내용을 확인합니다.
 
 1. **저장**&#x200B;을 클릭합니다.
 
    ![](assets/five-4.png)
-
