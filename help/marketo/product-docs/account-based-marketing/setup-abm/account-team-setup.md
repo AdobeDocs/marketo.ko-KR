@@ -3,9 +3,9 @@ unique-page-id: 11384433
 description: 계정 팀 설정 - 마케팅 문서 - 제품 설명서
 title: 계정 팀 설정
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: e125f8469239a026aefb703fdb6ba99c32e33565
 workflow-type: tm+mt
-source-wordcount: '179'
+source-wordcount: '178'
 ht-degree: 0%
 
 ---
@@ -49,11 +49,6 @@ ht-degree: 0%
 
    >[!NOTE]
    >
-   >**설명**
+   >계정 소유자가 다른 여러 CRM 계정을 명명 계정으로 병합하면 Marketing에서 &quot;계정 소유자&quot; 하나를 선택하고 다른 계정 소유자를 &quot;계정 공유자&quot;로 추가합니다.
    >
-   >    
-   >    
-   >    * 계정 소유자가 다른 여러 CRM 계정을 명명 계정으로 병합하면 Marketing에서 &quot;계정 소유자&quot; 하나를 선택하고 다른 계정 소유자를 &quot;계정 공유자&quot;로 추가합니다.
-   >    * CRM &quot;역할&quot; 필드가 나중에 이름이 변경되거나 삭제되면 Marketing ABM은 사용자가 ABM에서 수동으로 설정을 업데이트할 때까지 업데이트된 값의 동기화를 중지합니다
-
-
+   >CRM &quot;역할&quot; 필드가 나중에 이름이 변경되거나 삭제되면 Marketing ABM은 사용자가 ABM에서 수동으로 설정을 업데이트할 때까지 업데이트된 값의 동기화를 중지합니다
