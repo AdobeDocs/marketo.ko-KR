@@ -3,9 +3,9 @@ unique-page-id: 15695924
 description: 계정 프로파일링 등급 및 조정 - 마케팅 문서 - 제품 설명서
 title: 계정 프로파일링 등급 및 조정
 translation-type: tm+mt
-source-git-commit: 5c9683c6b00ccbf9e9d606fd4513432c9872ad00
+source-git-commit: e125f8469239a026aefb703fdb6ba99c32e33565
 workflow-type: tm+mt
-source-wordcount: '394'
+source-wordcount: '381'
 ht-degree: 0%
 
 ---
@@ -21,7 +21,7 @@ ht-degree: 0%
 
 ![](assets/results.png)
 
-선택 사항이지만 자동 승격 확인란을 선택하면 작업 시간을 크게 절약할 수 있습니다. 그러나 각 계정을 통과하고 [수동으로 ](http://docs.marketo.com/display/DOCS/Discover+Accounts#DiscoverAccounts-DiscoverCRMAccounts)추가하려는 경우, 상자를 선택 취소하기만 하면 됩니다.
+선택 사항이지만 자동 승격 확인란을 선택하면 작업 시간을 크게 절약할 수 있습니다. 그러나 각 계정을 통과하고 [수동으로 ](/help/marketo/product-docs/account-based-marketing/target/named-accounts/discover-accounts.md#discover-crm-accounts)추가하려는 경우, 상자를 선택 취소하기만 하면 됩니다.
 
 <table> 
  <tbody> 
@@ -66,20 +66,89 @@ ht-degree: 0%
 
 ![](assets/tuning-page.png)
 
-표시기 범주
+**표시기 범주**
 
-| **규정 준수** | 인증, 규정 준수 관련 직위/고용 |
-|---|---|
-| **작업** | 업무 관련 직책/고용. |
-| **HR** | 인사 또는 급여 소프트웨어, 인사 관련 직위/고용 |
-| **엔지니어링** | 기술, 프레임워크, 엔지니어링 관련 직위/채용 |
-| **세일즈** | 영업, 영업 관련 직위/채용을 위한 솔루션 및 소프트웨어 |
-| **의도** | 의도 표시기. |
-| **IT** | 하드웨어 및 소프트웨어 솔루션, 기술, IT 관련 직위/채용 |
-| **재무** | 재무 소프트웨어, 금융 관련 직위/고용. |
-| **마케팅** | 마케팅 기술 및 소프트웨어, 마케팅 관련 직위/채용 |
-| **비즈니스** | Forbes 또는 Inc 목록 또는 비즈니스 파트너 |
-| **고객 경험 및 관계** | 고객 성공 및 고객 관계 직위/채용 |
+<table> 
+ <tbody> 
+  <tr> 
+   <td><strong>규정 준수</strong></td> 
+   <td> 
+    <div>
+      인증, 규정 준수 관련 직위/고용 
+    </div></td> 
+  </tr> 
+  <tr> 
+   <td><strong>작업</strong></td> 
+   <td> 
+    <div>
+      업무 관련 직책/고용. 
+    </div></td> 
+  </tr> 
+  <tr> 
+   <td><strong>HR</strong></td> 
+   <td> 
+    <div>
+      인사 또는 급여 소프트웨어, 인사 관련 직위/고용
+    </div></td> 
+  </tr> 
+  <tr> 
+   <td><strong>엔지니어링</strong></td> 
+   <td> 
+    <div>
+      기술, 프레임워크, 엔지니어링 관련 직위/채용 
+    </div></td> 
+  </tr> 
+  <tr> 
+   <td><strong>세일즈</strong></td> 
+   <td> 
+    <div>
+      영업, 영업 관련 직위/채용을 위한 솔루션 및 소프트웨어 
+    </div></td> 
+  </tr> 
+  <tr> 
+   <td><strong>의도</strong></td> 
+   <td> 
+    <div>
+      의도 표시기. 
+    </div></td> 
+  </tr> 
+  <tr> 
+   <td><strong>IT</strong></td> 
+   <td> 
+    <div>
+      하드웨어 및 소프트웨어 솔루션, 기술, IT 관련 직위/채용
+    </div></td> 
+  </tr> 
+  <tr> 
+   <td><strong>재무</strong></td> 
+   <td> 
+    <div>
+      재무 소프트웨어, 금융 관련 직위/고용. 
+    </div></td> 
+  </tr> 
+  <tr> 
+   <td><strong>마케팅</strong></td> 
+   <td> 
+    <div>
+      마케팅 기술 및 소프트웨어, 마케팅 관련 직위/채용 
+    </div></td> 
+  </tr> 
+  <tr> 
+   <td><strong>비즈니스</strong></td> 
+   <td> 
+    <div>
+      Forbes 또는 Inc 목록 또는 비즈니스 파트너 
+    </div></td> 
+  </tr> 
+  <tr> 
+   <td><strong>고객 경험 및 관계</strong></td> 
+   <td> 
+    <div>
+      고객 성공 및 고객 관계 직위/채용
+    </div></td> 
+  </tr> 
+ </tbody> 
+</table>
 
 각 열에 대한 설명을 보려면 도구 설명 위로 마우스를 가져갑니다.
 
@@ -89,7 +158,7 @@ ICP 표시기 추가 드롭다운을 클릭하여 모델에 추가 표시기를 
 
 ![](assets/add-icp.png)
 
-내보내기 상자를 선택하면 지정된 계정 세부 사항 페이지에서 ICP 표시기를 볼 수 있을 뿐만 아니라 선택한 ICP 표시기를 [명명된 계정 필터](http://docs.marketo.com/display/DOCS/Account+Filters)에 있는 제한 사항으로 사용할 수 있습니다.
+내보내기 상자를 선택하면 지정된 계정 세부 사항 페이지에서 ICP 표시기를 볼 수 있을 뿐만 아니라 선택한 ICP 표시기를 [명명된 계정 필터](/help/marketo/product-docs/account-based-marketing/engage/account-filters.md)에 있는 제한 사항으로 사용할 수 있습니다.
 
 ![](assets/export.png)
 
@@ -108,4 +177,3 @@ ICP 표시기 추가 드롭다운을 클릭하여 모델에 추가 표시기를 
 모델 조정이 완료되면(새로 고친 후) 모델 결과 탭으로 돌아가서 **등급 저장 및 적용**&#x200B;을 클릭합니다.
 
 ![](assets/ranks.png)
-
