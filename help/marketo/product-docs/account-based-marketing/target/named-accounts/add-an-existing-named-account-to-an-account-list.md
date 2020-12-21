@@ -3,7 +3,7 @@ unique-page-id: 12615798
 description: 계정 목록 - 마케팅 문서 - 제품 문서에 기존 명명 계정 추가
 title: 계정 목록에 기존 명명 계정 추가
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: e125f8469239a026aefb703fdb6ba99c32e33565
 workflow-type: tm+mt
 source-wordcount: '94'
 ht-degree: 0%
@@ -35,9 +35,4 @@ ht-degree: 0%
 
 >[!MORELIKETHIS]
 >
->* [지정된 계정 만들기](create-a-named-account.md)
-
->
-
-
-
+>[지정된 계정 만들기](/help/marketo/product-docs/account-based-marketing/target/named-accounts/create-a-named-account.md)
