@@ -3,9 +3,9 @@ unique-page-id: 26837421
 description: LinkedIn - Marketing To Docs - 제품 문서에서 일치하는 대상 만들기
 title: LinkedIn에서 일치하는 대상 만들기
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: e125f8469239a026aefb703fdb6ba99c32e33565
 workflow-type: tm+mt
-source-wordcount: '153'
+source-wordcount: '142'
 ht-degree: 0%
 
 ---
@@ -17,7 +17,7 @@ LinkedIn 광고 타깃팅에 대한 ABM 계정 목록에서 일치하는 대상�
 
 >[!PREREQUISITES]
 >
->[LinkedIn과 일치하는 대상을 LaunchPoint 서비스로 추가](http://docs.marketo.com/x/I4Fy)
+>[LinkedIn과 일치하는 대상을 LaunchPoint 서비스로 추가](/help/marketo/product-docs/demand-generation/ad-network-integrations/add-linkedin-matched-audiences-as-a-launchpoint-service.md)
 
 1. ABM에서 **계정 목록** 탭을 클릭합니다.
 
@@ -49,13 +49,6 @@ LinkedIn 광고 타깃팅에 대한 ABM 계정 목록에서 일치하는 대상�
 
    그게 다예요 대상이 LinkedIn으로 푸시되었습니다.
 
->[!NOTE]
+>[!MORELIKETHIS]
 >
->**관련 문서**
->
->* [LinkedIn 대상 세그먼트로 마케팅 목록 또는 스마트 목록 사용](http://docs.marketo.com/x/NIFy)
-
->
-
-
-
+>[LinkedIn 대상 세그먼트로 마케팅 목록 또는 스마트 목록 사용](/help/marketo/product-docs/demand-generation/social/social-functions/use-a-marketo-list-or-smart-list-as-a-linkedin-audience-segment.md)
