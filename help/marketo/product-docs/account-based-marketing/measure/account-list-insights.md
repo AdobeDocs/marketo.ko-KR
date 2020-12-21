@@ -3,7 +3,7 @@ unique-page-id: 11380787
 description: 계정 목록 통찰력 - 마케팅 문서 - 제품 설명서
 title: 계정 목록 통찰력
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: e125f8469239a026aefb703fdb6ba99c32e33565
 workflow-type: tm+mt
 source-wordcount: '167'
 ht-degree: 0%
@@ -57,4 +57,3 @@ ht-degree: 0%
 **Used By** 탭을 클릭하여 해당 계정 목록을 참조하는 자산을 확인합니다.
 
 ![](assets/four-2.png)
-
