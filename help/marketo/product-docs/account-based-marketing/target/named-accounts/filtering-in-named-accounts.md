@@ -3,7 +3,7 @@ unique-page-id: 12615804
 description: 지정된 계정에서 필터링 - 마케팅 문서 - 제품 설명서
 title: 지정된 계정에서 필터링
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: e125f8469239a026aefb703fdb6ba99c32e33565
 workflow-type: tm+mt
 source-wordcount: '127'
 ht-degree: 0%
@@ -25,7 +25,7 @@ ht-degree: 0%
 
    >[!NOTE]
    >
-   >여러 검색 매개 변수 조합이 있습니다. 이 예에서는 다음을 찾습니다.*산업 = 은행 업무, 국가 = 미국, 최대 직원 수 = 10000*.
+   >여러 검색 매개 변수 조합이 있습니다. 이 예에서는 다음을 찾습니다._산업 = 은행 업무, 국가 = 미국, 최대 직원 수 = 10000_.
 
 1. **업계** 드롭다운을 클릭하고 **은행 업무**&#x200B;를 선택합니다.
 
@@ -44,4 +44,3 @@ ht-degree: 0%
    >[!NOTE]
    >
    >선택할 필터를 더 추가하려면 양식의 왼쪽 하단에 있는 **필터 추가**&#x200B;를 클릭합니다.
-
