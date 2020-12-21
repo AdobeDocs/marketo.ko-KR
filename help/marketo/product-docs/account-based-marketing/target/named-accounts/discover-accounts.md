@@ -3,9 +3,9 @@ unique-page-id: 11378812
 description: Discover 계정 - 마케팅 문서 - 제품 설명서
 title: Discover 계정
 translation-type: tm+mt
-source-git-commit: c8a77dc84c023e05fbb442f575269aac108ffb29
+source-git-commit: e125f8469239a026aefb703fdb6ba99c32e33565
 workflow-type: tm+mt
-source-wordcount: '601'
+source-wordcount: '585'
 ht-degree: 0%
 
 ---
@@ -23,9 +23,11 @@ CRM에서 잠재적인 타겟 계정을 식별합니다.
 >
 >CRM을 Marketing ABM에 연결한 후 **Discover CRM 계정**&#x200B;은 올바른 명명 계정을 선택하는 데 도움이 되는 모든 CRM 계정 및 관련 정보를 표시합니다. Marketing은 CRM에서 받은 정보 위에 추가 정보를 추가합니다.
 
-**사람** (Discover CRM 계정 및 Discover 마케팅 회사):연락처 및 리드 모두를 포함합니다. 리드는 Marketing의 [리드-계정 일치](http://docs.marketo.com/display/DOCS/Lead+to+Account+Matching)를 사용하여 검색할 수 있습니다. **잠재적인 사람** (Discover CRM 계정 및 Discover 마케팅 회사):CRM 계정에 속할 수 있는 리드를 Marketing에서 찾은 횟수를 표시합니다.
+**사람** (Discover CRM 계정 및 Discover 마케팅 회사):연락처 및 리드 모두를 포함합니다. 리드는 Marketing의 [리드-계정 일치](/help/marketo/product-docs/account-based-marketing/target/named-accounts/lead-to-account-matching.md)를 사용하여 검색할 수 있습니다.
 
-**사용자 지정 CRM 필드** (Discover CRM 계정에만 해당):이렇게 하면 올바른 타겟 계정을 선택하기 위해 판매 및 마케팅 조직을 조정하는 데 도움이 됩니다. [사용자 지정 CRM 필드](http://docs.marketo.com/x/1wnG)를 Marketing to ABM과 매핑하면 대상 계정을 식별하는 데 도움이 되는 매핑된 데이터를 표시합니다.
+**잠재적인 사람** (Discover CRM 계정 및 Discover 마케팅 회사):CRM 계정에 속할 수 있는 리드를 Marketing에서 찾은 횟수를 표시합니다.
+
+**사용자 지정 CRM 필드** (Discover CRM 계정에만 해당):이렇게 하면 올바른 타겟 계정을 선택하기 위해 판매 및 마케팅 조직을 조정하는 데 도움이 됩니다. [사용자 지정 CRM 필드](/help/marketo/product-docs/account-based-marketing/setup-abm/create-a-custom-field-for-crm-discovery.md)를 Marketing to ABM과 매핑하면 대상 계정을 식별하는 데 도움이 되는 매핑된 데이터를 표시합니다.
 
 1. 지정된 계정에서 **새로 만들기** 드롭다운을 클릭하고 **Discover CRM 계정**&#x200B;을 선택합니다.
 
@@ -63,17 +65,17 @@ CRM에서 잠재적인 타겟 계정을 식별합니다.
    >
    >Discover Marketing To Company와 Discover CRM에서 Marketing은 자동으로 다음을 수행합니다.
    >
-   > * 해당 회사가 레코드에 나열되는 Marketing 데이터베이스에서 사용자를 찾습니다. 일부 속성(예: 산업)에 대해 여러 값이 표시되는 경우 Marketing에서 해당 개별 사용자에 대해 다른 값을 발견했기 때문입니다. 히트가 가장 많은 속성이 승리함
+   >* 해당 회사가 레코드에 나열되는 Marketing 데이터베이스에서 사용자를 찾습니다. 일부 속성(예: 산업)에 대해 여러 값이 표시되는 경우 Marketing에서 해당 개별 사용자에 대해 다른 값을 발견했기 때문입니다. 히트가 가장 많은 속성이 승리함
    >
    >**Discover CRM**&#x200B;에만 해당, Marketing이 자동으로 다음을 수행합니다.
    >
-   > * CRM 연락처를 지정된 계정에 동기화 및 연결
+   >* CRM 연락처를 지정된 계정에 동기화 및 연결
    >
    >**Discover Marketing Company**&#x200B;에만 해당, Marketing이 자동으로 다음을 수행합니다.
    >
-   > * 대부분의 인터넷 서비스 공급자 및 공개 도메인(예:[Yahoo.com](https://yahoo.com), [Gmail.com](https://gmail.com))을 회사 이름으로
+   >* 대부분의 인터넷 서비스 공급자 및 공개 도메인(예: yahoo.com, gmail.com)을 회사 이름으로 필터링합니다.
       >
-      > 
+      >
    * CRM 계정을 제거합니다. 한 개의 레코드와 &quot;Acme Inc&quot;(또는 다음 접미사 중 하나)에 &quot;Acme&quot;가 있는 경우:Co, Corp, Corporation, Gmbh, Inc, Incorporated, LLP, LP, Ltd, PA, PC, PLC, PLC)는 ABM에서 &quot;Acme&quot;로 병합합니다.
    >
    >Marketing To가 회사 이름 대신 CRM ID 또는 계정 소유자로 계정을 중복 제거하도록 하려면 [Marketing Support](https://nation.marketo.com/t5/Support/ct-p/Support)에 문의하십시오.
@@ -116,5 +118,4 @@ CRM에서 잠재적인 타겟 계정을 식별합니다.
 
 >[!MORELIKETHIS]
 >
->* [계정 일치로 이동](/help/marketo/product-docs/account-based-marketing/target/named-accounts/lead-to-account-matching.md)
-
+>[계정 일치로 이동](/help/marketo/product-docs/account-based-marketing/target/named-accounts/lead-to-account-matching.md)
