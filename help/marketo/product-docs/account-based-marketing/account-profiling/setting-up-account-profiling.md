@@ -3,9 +3,9 @@ unique-page-id: 17432598
 description: 계정 프로파일링 설정 - 마케팅 문서 - 제품 설명서
 title: 계정 프로파일링 설정
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: e125f8469239a026aefb703fdb6ba99c32e33565
 workflow-type: tm+mt
-source-wordcount: '133'
+source-wordcount: '124'
 ht-degree: 0%
 
 ---
@@ -45,5 +45,4 @@ ht-degree: 0%
 
    >[!TIP]
    >
-   >모델이 만들어지면 [계정 프로파일링 개요](http://docs.marketo.com/x/NIDv)에서 이를 조정하는 방법을 알아봅니다.
-
+   >모델이 만들어지면 [이(가)](/help/marketo/product-docs/account-based-marketing/account-profiling/account-profiling-ranking-and-tuning.md)을(를) 조정하는 방법을 학습합니다.
