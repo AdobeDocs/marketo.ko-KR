@@ -3,7 +3,7 @@ unique-page-id: 17727818
 description: 개인 사용 - 마케팅 문서 - 제품 설명서
 title: 페르시아 사용
 translation-type: tm+mt
-source-git-commit: 5c9683c6b00ccbf9e9d606fd4513432c9872ad00
+source-git-commit: e125f8469239a026aefb703fdb6ba99c32e33565
 workflow-type: tm+mt
 source-wordcount: '188'
 ht-degree: 0%
@@ -70,4 +70,3 @@ ht-degree: 0%
 1. 스마트 목록에 있는 페르소나 필터를 사용하여 특정 사용자 그룹을 마케팅합니다.
 
 ![](assets/one-b.png)
-
