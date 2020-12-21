@@ -3,9 +3,9 @@ unique-page-id: 37355609
 description: 새 계정 검색 - Marketing To Docs - 제품 설명서
 title: 새 계정 검색
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: e125f8469239a026aefb703fdb6ba99c32e33565
 workflow-type: tm+mt
-source-wordcount: '282'
+source-wordcount: '274'
 ht-degree: 0%
 
 ---
@@ -17,7 +17,7 @@ ht-degree: 0%
 
 >[!PREREQUISITES]
 >
->[계정 프로파일링 설정](http://docs.marketo.com/x/FgAKAQ)
+>[계정 프로파일링 설정](/help/marketo/product-docs/account-based-marketing/account-profiling/setting-up-account-profiling.md)
 
 >[!TIP]
 >
@@ -73,5 +73,4 @@ ht-degree: 0%
 
    >[!TIP]
    >
-   >계정이 저장되면 LinkedIn](http://docs.marketo.com/x/rYGZAQ)에서 [일치된 대상을 사용하여 대상을 타깃팅할 수 있습니다.
-
+   >계정이 저장되면 LinkedIn](/help/marketo/product-docs/account-based-marketing/target/create-a-matched-audience-on-linkedin.md)에서 [일치된 대상을 사용하여 대상을 타깃팅할 수 있습니다.
