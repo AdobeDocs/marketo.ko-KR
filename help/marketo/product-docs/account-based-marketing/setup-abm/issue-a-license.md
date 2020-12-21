@@ -3,9 +3,9 @@ unique-page-id: 11380771
 description: 라이센스 문제 - 마케팅 문서 - 제품 설명서
 title: 라이선스 발행
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: 55375469516d10c03d936abaed1e9177e578e2ec
 workflow-type: tm+mt
-source-wordcount: '96'
+source-wordcount: '95'
 ht-degree: 0%
 
 ---
@@ -33,5 +33,4 @@ ABM을 사용할 수 있는 라이선스를 사용자에게 설정해야 합니�
 
    >[!NOTE]
    >
-   >사용자 라이센스를 제거하려면 1단계를 수행한 다음 *un*&#x200B;확인란을 선택하고 **저장**&#x200B;을 클릭합니다.
-
+   >사용자 라이센스를 제거하려면 1단계를 수행한 다음 체크 상자의 선택을 취소하고 **저장**&#x200B;을 클릭합니다.
