@@ -3,7 +3,7 @@ unique-page-id: 2949178
 description: SEO 대시보드 이해 -SEO 스냅샷 - Marketing To Docs - 제품 설명서
 title: SEO 대시보드 - SEO 스냅샷 이해
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 37697e2d6f1d86a6cd1de5d567a3d384160415cb
 workflow-type: tm+mt
 source-wordcount: '253'
 ht-degree: 0%
@@ -15,13 +15,13 @@ ht-degree: 0%
 
 대시보드를 사용하여 키워드 등급이 어떻게 트렌드 표시되고 사이트가 SEO에 맞게 얼마나 최적화되어 있는지 세부적으로 확인할 수 있습니다.
 
-SEO 노력을 개선하기 위해 주력할 내용을 찾으려면 이 대시보드의 [Recommendations](understanding-the-seo-dashboard-seo-recommendations.md) 섹션을 사용하십시오.
+SEO 노력을 개선하기 위해 주력할 내용을 찾으려면 이 대시보드의 [Recommendations](/help/marketo/product-docs/additional-apps/seo/understanding-seo/understanding-the-seo-dashboard-seo-recommendations.md) 섹션을 사용하십시오.
 
 ![](assets/image2014-9-17-21-3a32-3a22.png)
 
 ## 키워드 등급 요약 {#keyword-rank-summary}
 
-이 섹션에서는 [키워드에 대한 사이트의 등급이 어떻게 지정되는지를 보여 줍니다](../../../../product-docs/additional-apps/seo/keywords/seo-add-keywords.md).
+이 섹션에서는 [키워드에 대한 사이트의 등급이 어떻게 지정되는지를 보여 줍니다](/help/marketo/product-docs/additional-apps/seo/keywords/seo-add-keywords.md).
 
 ![](assets/image2014-9-17-21-3a34-3a5.png)
 
@@ -33,7 +33,7 @@ SEO 노력을 개선하기 위해 주력할 내용을 찾으려면 이 대시보
 
 >[!TIP]
 >
->키워드의 [특정 목록](../../../../product-docs/additional-apps/seo/keywords/seo-add-remove-keywords-from-a-list.md)이 수행되는 방법을 볼 수도 있습니다. 드롭다운을 클릭하고 관심 있는 항목을 선택합니다.
+>키워드의 [특정 목록](/help/marketo/product-docs/additional-apps/seo/keywords/seo-add-remove-keywords-from-a-list.md)이 수행되는 방법을 볼 수도 있습니다. 드롭다운을 클릭하고 관심 있는 항목을 선택합니다.
 
 어서! 계속 움직이자
 
@@ -63,9 +63,4 @@ SEO 노력을 개선하기 위해 주력할 내용을 찾으려면 이 대시보
 
 >[!MORELIKETHIS]
 >
->* [대시보드 이해:SEO Recommendations](understanding-the-seo-dashboard-seo-recommendations.md)
-
->
-
-
-
+>[대시보드 이해:SEO Recommendations](/help/marketo/product-docs/additional-apps/seo/understanding-seo/understanding-the-seo-dashboard-seo-recommendations.md)
