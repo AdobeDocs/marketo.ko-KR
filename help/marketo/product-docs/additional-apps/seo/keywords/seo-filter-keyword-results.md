@@ -3,9 +3,9 @@ unique-page-id: 2949208
 description: SEO - 키워드 결과 필터링 - 마케팅 문서 - 제품 설명서
 title: SEO - 키워드 결과 필터링
 translation-type: tm+mt
-source-git-commit: 44ed91b485b52173922c709de63a4353e16c5072
+source-git-commit: 37697e2d6f1d86a6cd1de5d567a3d384160415cb
 workflow-type: tm+mt
-source-wordcount: '156'
+source-wordcount: '146'
 ht-degree: 0%
 
 ---
@@ -13,7 +13,7 @@ ht-degree: 0%
 
 # SEO - 키워드 결과 필터링 {#seo-filter-keyword-results}
 
-[키워드](seo-understanding-keywords.md)가 많을 수 있습니다. 다음과 같은 다양한 방법으로 필터링할 수 있습니다.
+[키워드](/help/marketo/product-docs/additional-apps/seo/keywords/seo-understanding-keywords.md)가 많을 수 있습니다. 다음과 같은 다양한 방법으로 필터링할 수 있습니다.
 
 ## 목록 기준 필터링: {#filter-by-list}
 
@@ -27,7 +27,7 @@ ht-degree: 0%
 
    >[!NOTE]
    >
-   >목록이 표시되지 않으면 [l](../../../../product-docs/additional-apps/seo/understanding-seo/seo-managing-lists.md) [키워드 목록](../../../../product-docs/additional-apps/seo/understanding-seo/seo-managing-lists.md)을 만드는 방법을 알아봅니다.
+   >목록이 표시되지 않으면 [키워드 목록](/help/marketo/product-docs/additional-apps/seo/understanding-seo/seo-managing-lists.md)을 만드는 방법을 학습합니다.
 
 달콤해! 이제 해당 목록의 키워드만 볼 수 있습니다.
 
@@ -37,7 +37,7 @@ ht-degree: 0%
 
    ![](assets/image2014-9-18-12-3a0-3a10.png)
 
-   주황색 사각형은 위쪽(왼쪽) 및 아래쪽(오른쪽) 제한을 정의합니다. 이 필터는 키워드의 [SERP 등급](../../../../product-docs/additional-apps/seo/understanding-seo/understanding-search-engine-optimization.md)에서 작동합니다.
+   주황색 사각형은 위쪽(왼쪽) 및 아래쪽(오른쪽) 제한을 정의합니다. 이 필터는 키워드의 [SERP 등급](/help/marketo/product-docs/additional-apps/seo/understanding-seo/understanding-search-engine-optimization.md)에서 작동합니다.
 
 1. 결과를 필터링하려면 주황색 사각형을 왼쪽/오른쪽으로 밀십시오.
 
@@ -54,6 +54,3 @@ ht-degree: 0%
 1. 검색 필드에 키워드를 입력합니다.
 
    ![](assets/image2014-9-18-12-3a1-3a7.png)
-
-   축하합니다! 이제 당신은 키워드 필터링 사무라이 전사입니다!
-
