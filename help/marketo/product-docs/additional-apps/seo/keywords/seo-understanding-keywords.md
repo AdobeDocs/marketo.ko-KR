@@ -3,7 +3,7 @@ unique-page-id: 2949182
 description: SEO - 키워드 이해 - 마케팅 문서 - 제품 설명서
 title: SEO - 키워드 이해
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 37697e2d6f1d86a6cd1de5d567a3d384160415cb
 workflow-type: tm+mt
 source-wordcount: '206'
 ht-degree: 0%
@@ -15,7 +15,7 @@ ht-degree: 0%
 
 키워드는 SEO 전략의 중추입니다. 비즈니스 관련 키워드에 대해 가능한 한 #1 가까운 첫 페이지에 도달하는 것이 목표입니다.
 
-키워드 섹션은 사이트가 이러한 목표를 달성하는 데 얼마나 성공했는지 그리고 [경쟁업체까지 쌓는 방법을 보여줍니다.](../../../../product-docs/additional-apps/seo/understanding-seo/seo-add-competitors.md)
+키워드 섹션은 사이트가 이러한 목표를 달성하는 데 얼마나 성공했는지 그리고 [경쟁](/help/marketo/product-docs/additional-apps/seo/understanding-seo/seo-add-competitors.md)까지 스택하는 방법을 보여줍니다.
 
 ## 키워드 - 요약 보기 {#keywords-summary-view}
 
@@ -62,10 +62,6 @@ ht-degree: 0%
 
 >[!MORELIKETHIS]
 >
->* [페이지 이해](../../../../product-docs/additional-apps/seo/pages/seo-understanding-pages.md)
->* [인바운드 링크 이해](../../../../product-docs/additional-apps/seo/inbound-links/seo-understanding-inbound-links.md)
-
->
-
-
+>* [페이지 이해](/help/marketo/product-docs/additional-apps/seo/pages/seo-understanding-pages.md)
+>* [인바운드 링크 이해](/help/marketo/product-docs/additional-apps/seo/inbound-links/seo-understanding-inbound-links.md)
 
