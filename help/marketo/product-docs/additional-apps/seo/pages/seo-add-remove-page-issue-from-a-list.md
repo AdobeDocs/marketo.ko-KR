@@ -3,9 +3,9 @@ unique-page-id: 2949266
 description: SEO - 목록에서 페이지 문제 추가/제거 - 마케팅 문서 - 제품 설명서
 title: SEO - 목록에서 페이지 문제 추가/제거
 translation-type: tm+mt
-source-git-commit: 44ed91b485b52173922c709de63a4353e16c5072
+source-git-commit: 37697e2d6f1d86a6cd1de5d567a3d384160415cb
 workflow-type: tm+mt
-source-wordcount: '183'
+source-wordcount: '182'
 ht-degree: 0%
 
 ---
@@ -22,13 +22,15 @@ ht-degree: 0%
    ![](assets/image2014-9-18-14-3a3-3a10.png)
 
 1. 페이지 탭에서 **문제**&#x200B;를 클릭합니다.
-1. ![](assets/image2014-9-18-14-3a3-3a18.png)
+
+   ![](assets/image2014-9-18-14-3a3-3a18.png)
 
 1. 추가할 페이지 문제 위로 마우스를 가져갑니다. **목록에서 추가/제거**&#x200B;를 클릭합니다.
 
    ![](assets/image2014-9-18-14-3a3-3a40.png)
 
    페이지 문제를 추가할 목록을 클릭합니다.
+
    ![](assets/image2014-9-18-14-3a3-3a44.png)
 
    >[!TIP]
