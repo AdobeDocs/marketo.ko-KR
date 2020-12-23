@@ -3,7 +3,7 @@ unique-page-id: 2949212
 description: SEO - 타깃팅된 키워드를 사용하여 특정 페이지 최적화 - 마케팅 문서 - 제품 설명서
 title: SEO - 타깃팅된 키워드를 사용하여 특정 페이지 최적화
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: 37697e2d6f1d86a6cd1de5d567a3d384160415cb
 workflow-type: tm+mt
 source-wordcount: '113'
 ht-degree: 0%
@@ -32,4 +32,3 @@ ht-degree: 0%
    ![](assets/image2014-9-18-12-3a52-3a46.png)
 
    좋아! 가능한 많은 페이지와 키워드에 대해 이 작업을 수행합니다.
-
