@@ -3,9 +3,9 @@ unique-page-id: 2949247
 description: SEO - 인바운드 링크 URL 수동 추가 - 마케팅 문서 - 제품 설명서
 title: SEO - 수동으로 인바운드 링크 URL 추가
 translation-type: tm+mt
-source-git-commit: 00887ea53e395bea3a11fd28e0ac98b085ef6ed8
+source-git-commit: 37697e2d6f1d86a6cd1de5d567a3d384160415cb
 workflow-type: tm+mt
-source-wordcount: '93'
+source-wordcount: '89'
 ht-degree: 0%
 
 ---
@@ -19,7 +19,7 @@ ht-degree: 0%
 
    ![](assets/image2014-9-18-13-3a40-3a3.png)
 
-1. **ADD URL**&#x200B;을 클릭합니다.
+1. **URL 추가**&#x200B;를 클릭합니다.
 
    ![](assets/image2014-9-18-13-3a40-3a8.png)
 
@@ -29,8 +29,9 @@ ht-degree: 0%
 
    >[!TIP]
    >
-   >새로 만들거나 기존 목록[에 인바운드 링크를 추가할 수 있다는 사실을 알고 계십니까? ](../../../../product-docs/additional-apps/seo/understanding-seo/seo-managing-lists.md) 확인!
+   >새로 만들거나 기존 목록[에 인바운드 링크를 추가할 수 있다는 사실을 알고 계십니까? ](/help/marketo/product-docs/additional-apps/seo/understanding-seo/seo-managing-lists.md) 확인!
 
    ![](assets/image2014-9-18-13-3a41-3a14.png)
 
-어서! 이제 목록에 추가된 새 URL이 표시됩니다. 모든 데이터를 수집하는 데 시간이 걸릴 수 있습니다. 인내는 미덕이다.
+어서! 이제 목록에 추가된 새 URL이 표시됩니다. 모든 데이터를 수집하는 데 시간이 걸릴 수 있습니다.
+
