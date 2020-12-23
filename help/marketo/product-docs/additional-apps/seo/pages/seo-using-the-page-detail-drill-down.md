@@ -3,7 +3,7 @@ unique-page-id: 2949186
 description: SEO - 페이지 세부 정보 드릴다운 사용 - 마케팅 문서 - 제품 설명서
 title: SEO - 페이지 세부 사항 드릴다운 사용
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 37697e2d6f1d86a6cd1de5d567a3d384160415cb
 workflow-type: tm+mt
 source-wordcount: '279'
 ht-degree: 0%
@@ -46,7 +46,7 @@ ht-degree: 0%
 
 ## 페이지가 {#keyword-s-that-page-is-optimized-for}에 대해 최적화된 키워드
 
-이 위치에서 [페이지를](../../../../product-docs/additional-apps/seo/keywords/seo-optimize-specific-pages-with-targeted-keywords.md)에 맞게 최적화할 키워드를 선택합니다.
+이 위치에서 [페이지를](/help/marketo/product-docs/additional-apps/seo/keywords/seo-optimize-specific-pages-with-targeted-keywords.md)에 맞게 최적화할 키워드를 선택합니다.
 
 >[!NOTE]
 >
@@ -64,9 +64,4 @@ ht-degree: 0%
 
 >[!MORELIKETHIS]
 >
->* [타깃팅된 키워드를 사용하여 특정 페이지 최적화](../../../../product-docs/additional-apps/seo/keywords/seo-optimize-specific-pages-with-targeted-keywords.md)
-
->
-
-
-
+>[타깃팅된 키워드를 사용하여 특정 페이지 최적화](/help/marketo/product-docs/additional-apps/seo/keywords/seo-optimize-specific-pages-with-targeted-keywords.md)
