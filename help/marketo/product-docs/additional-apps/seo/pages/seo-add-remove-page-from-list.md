@@ -3,9 +3,9 @@ unique-page-id: 2949218
 description: SEO - 목록에서 페이지 추가/제거 - 마케팅 문서 - 제품 설명서
 title: SEO - 목록에서 페이지 추가/제거
 translation-type: tm+mt
-source-git-commit: 44ed91b485b52173922c709de63a4353e16c5072
+source-git-commit: 37697e2d6f1d86a6cd1de5d567a3d384160415cb
 workflow-type: tm+mt
-source-wordcount: '204'
+source-wordcount: '203'
 ht-degree: 0%
 
 ---
@@ -37,7 +37,7 @@ ht-degree: 0%
 
    ![](assets/image2014-9-18-13-3a3-3a40.png)
 
-1. 야호! 이제 목록에 추가된 페이지가 표시됩니다.
+야호! 이제 목록에 추가된 페이지가 표시됩니다.
 
 ## 목록에서 페이지 제거 {#remove-page-from-a-list}
 
@@ -61,5 +61,4 @@ ht-degree: 0%
 
    ![](assets/image2014-9-18-13-3a5-3a40.png)
 
-1. 쾅. 완료. 페이지가 목록에서 제거됩니다.
-
+완료. 페이지가 목록에서 제거됩니다.
