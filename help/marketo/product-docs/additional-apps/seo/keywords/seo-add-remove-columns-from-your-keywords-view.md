@@ -3,9 +3,9 @@ unique-page-id: 2949243
 description: SEO - 키워드 보기에서 열 추가/제거 - 마케팅 문서 - 제품 설명서
 title: SEO - 키워드 보기에서 열 추가/제거
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: 37697e2d6f1d86a6cd1de5d567a3d384160415cb
 workflow-type: tm+mt
-source-wordcount: '82'
+source-wordcount: '80'
 ht-degree: 0%
 
 ---
@@ -21,7 +21,7 @@ ht-degree: 0%
 
    기본 열은 다음과 같습니다.
 
-1. ![](assets/image2014-9-18-13-3a37-3a36.png)
+   ![](assets/image2014-9-18-13-3a37-3a36.png)
 
 1. 톱니바퀴 아이콘을 클릭합니다.
 
@@ -35,12 +35,6 @@ ht-degree: 0%
 
    ![](assets/image2014-9-18-13-3a37-3a46.png)
 
-   >[!NOTE]
+   >[!MORELIKETHIS]
    >
-   >**관련 문서**
-   >
-   >    
-   >    
-   >    * [키워드 이해 - 요약 보기](seo-understanding-keywords.md)
-
-
+   >[키워드 이해 - 요약 보기](/help/marketo/product-docs/additional-apps/seo/keywords/seo-understanding-keywords.md)
