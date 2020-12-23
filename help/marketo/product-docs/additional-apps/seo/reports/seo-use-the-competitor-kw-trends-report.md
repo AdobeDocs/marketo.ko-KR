@@ -3,7 +3,7 @@ unique-page-id: 2949270
 description: SEO - 경쟁업체 KW 트렌드 보고서 - 마케팅 문서 - 제품 설명서 사용
 title: SEO - 경쟁업체 KW 트렌드 보고서 사용
 translation-type: tm+mt
-source-git-commit: 23428a6e0ba9b2108a8f2f7dd6a69929dd069834
+source-git-commit: 37697e2d6f1d86a6cd1de5d567a3d384160415cb
 workflow-type: tm+mt
 source-wordcount: '184'
 ht-degree: 0%
@@ -59,4 +59,3 @@ ht-degree: 0%
    ![](assets/image2014-9-18-14-3a9-3a49.png)
 
    더 많은 작업!
-
