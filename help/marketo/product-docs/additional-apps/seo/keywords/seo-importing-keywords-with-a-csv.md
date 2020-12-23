@@ -3,9 +3,9 @@ unique-page-id: 2949206
 description: SEO - CSV로 키워드 가져오기 - 마케팅 문서 - 제품 설명서
 title: SEO - CSV로 키워드 가져오기
 translation-type: tm+mt
-source-git-commit: 00887ea53e395bea3a11fd28e0ac98b085ef6ed8
+source-git-commit: 37697e2d6f1d86a6cd1de5d567a3d384160415cb
 workflow-type: tm+mt
-source-wordcount: '124'
+source-wordcount: '122'
 ht-degree: 0%
 
 ---
@@ -13,7 +13,8 @@ ht-degree: 0%
 
 # SEO - CSV {#seo-importing-keywords-with-a-csv}의 키워드 가져오기
 
-1. [키워드](seo-add-keywords.md)를 수동으로 추가하고, [키워드 제안](seo-get-suggested-keywords.md)을 가져오고, CSV 파일에서 키워드를 가져올 수도 있습니다. 가져오는 방법은 다음과 같습니다.
+1. [키워드](/help/marketo/product-docs/additional-apps/seo/keywords/seo-add-keywords.md)를 수동으로 추가하고, [키워드 제안](/help/marketo/product-docs/additional-apps/seo/keywords/seo-get-suggested-keywords.md)을 가져오고, CSV 파일에서 키워드를 가져올 수도 있습니다. 가져오는 방법은 다음과 같습니다.
+
 1. **키워드** 섹션으로 이동합니다.
 
    ![](assets/image2014-9-18-11-3a44-3a25.png)
@@ -44,13 +45,8 @@ ht-degree: 0%
 
    각 키워드와 연관된 모든 데이터를 로드하는 데 몇 분이 걸릴 수 있습니다. 인생의 의미를 명상하다.
 
-   >[!NOTE]
+   >[!MORELIKETHIS]
    >
-   >**관련 문서**
-   >
-   >    
-   >    
-   >    * [키워드 이해(요약 보기)](seo-understanding-keywords.md)
-   >    * [목록에서 키워드 추가/제거](seo-add-remove-keywords-from-a-list.md)
-
+   >* [키워드 이해(요약 보기)](/help/marketo/product-docs/additional-apps/seo/keywords/seo-understanding-keywords.md)
+   >* [목록에서 키워드 추가/제거](/help/marketo/product-docs/additional-apps/seo/keywords/seo-add-remove-keywords-from-a-list.md)
 
