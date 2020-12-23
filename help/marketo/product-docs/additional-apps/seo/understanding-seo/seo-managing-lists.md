@@ -3,7 +3,7 @@ unique-page-id: 2949232
 description: SEO - 목록 관리 - 마케팅 문서 - 제품 설명서
 title: SEO - 목록 관리
 translation-type: tm+mt
-source-git-commit: 00887ea53e395bea3a11fd28e0ac98b085ef6ed8
+source-git-commit: 37697e2d6f1d86a6cd1de5d567a3d384160415cb
 workflow-type: tm+mt
 source-wordcount: '101'
 ht-degree: 0%
@@ -29,11 +29,10 @@ ht-degree: 0%
 
    >[!TIP]
    >
-   >드롭다운에서 새 목록을 만들 수 있습니다. 제목을 입력하고 Return 키를 누릅니다. ![—](assets/image2014-9-18-13-3a25-3a8.png)   >
+   >드롭다운에서 새 목록을 만들 수 있습니다. 제목을 입력하고 Return 키를 누릅니다.
 
 1. **저장**&#x200B;을 클릭합니다.
 
    ![](assets/image2014-9-18-13-3a25-3a36.png)
 
    멋진 구성!
-
