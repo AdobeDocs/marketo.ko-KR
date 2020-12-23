@@ -3,9 +3,9 @@ unique-page-id: 2949251
 description: SEO - 목록에서 인바운드 링크 URL 추가/제거 - 마케팅 문서 - 제품 설명서
 title: SEO - 목록에서 인바운드 링크 URL 추가/제거
 translation-type: tm+mt
-source-git-commit: 00887ea53e395bea3a11fd28e0ac98b085ef6ed8
+source-git-commit: 37697e2d6f1d86a6cd1de5d567a3d384160415cb
 workflow-type: tm+mt
-source-wordcount: '189'
+source-wordcount: '192'
 ht-degree: 0%
 
 ---
@@ -21,7 +21,7 @@ ht-degree: 0%
 
    ![](assets/image2014-11-20-18-3a27-3a27.png)
 
-1. 분류할 인바운드 링크 URL 위로 마우스를 가져갑니다. 목록에서 추가/제거를 클릭합니다.
+1. 분류할 인바운드 링크 URL 위로 마우스를 가져갑니다. **목록에서 추가/제거**&#x200B;를 클릭합니다.
 
    ![](assets/image2014-11-20-18-3a27-3a40.png)
 
@@ -35,15 +35,17 @@ ht-degree: 0%
 
 ## 목록 {#remove-an-inbound-link-url-from-a-list}에서 인바운드 링크 URL 제거
 
-1. 목록에서 인바운드 링크 URL을 제거하려는 경우가 있습니다.
+목록에서 인바운드 링크 URL을 제거하려는 경우가 있습니다.
+
+1. **인바운드 링크**&#x200B;를 클릭합니다.
 
    ![](assets/image2014-11-20-18-3a28-3a41.png)
 
-1. 목록별 필터 드롭다운을 클릭합니다. 정리할 목록을 클릭합니다.
+1. **필터링 기준 목록** 드롭다운을 클릭합니다. 정리할 목록을 클릭합니다.
 
    ![](assets/image2014-11-20-18-3a28-3a57.png)
 
-1. 제거할 인바운드 링크 URL 위로 마우스를 가져갑니다. 목록에서 추가/제거를 클릭합니다.
+1. 제거할 인바운드 링크 URL 위로 마우스를 가져갑니다. **목록에서 추가/제거**&#x200B;를 클릭합니다.
 
    ![](assets/image2014-11-20-18-3a29-3a56.png)
 
