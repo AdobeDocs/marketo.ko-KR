@@ -3,9 +3,9 @@ unique-page-id: 2949204
 description: SEO - 키워드 추가 - 마케팅 문서 - 제품 설명서
 title: SEO - 키워드 추가
 translation-type: tm+mt
-source-git-commit: 00887ea53e395bea3a11fd28e0ac98b085ef6ed8
+source-git-commit: 37697e2d6f1d86a6cd1de5d567a3d384160415cb
 workflow-type: tm+mt
-source-wordcount: '86'
+source-wordcount: '84'
 ht-degree: 0%
 
 ---
@@ -17,7 +17,7 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->키워드가 많은 경우 CSV 파일](seo-importing-keywords-with-a-csv.md)과 함께 [키워드를 가져올 수 있습니다.
+>키워드가 많은 경우 CSV 파일](/help/marketo/product-docs/additional-apps/seo/keywords/seo-importing-keywords-with-a-csv.md)과 함께 [키워드를 가져올 수 있습니다.
 
 1. **키워드** 섹션으로 이동합니다.
 
@@ -33,13 +33,8 @@ ht-degree: 0%
 
    ![](assets/image2014-9-18-11-3a29-3a12.png)
 
-   >[!NOTE]
+   >[!MORELIKETHIS]
    >
-   >**관련 문서**
-   >
-   >    
-   >    
-   >    * [키워드 이해(요약 보기)](seo-understanding-keywords.md)
-
+   >[키워드 이해(요약 보기)](/help/marketo/product-docs/additional-apps/seo/keywords/seo-understanding-keywords.md)
 
 잘했다! 이제 키워드 목록에 새로 추가된 항목을 볼 수 있습니다.
