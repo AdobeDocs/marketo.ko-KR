@@ -3,9 +3,9 @@ unique-page-id: 2949184
 description: SEO - 페이지 이해 - 마케팅 문서 - 제품 설명서
 title: SEO - 페이지 이해
 translation-type: tm+mt
-source-git-commit: 00887ea53e395bea3a11fd28e0ac98b085ef6ed8
+source-git-commit: 37697e2d6f1d86a6cd1de5d567a3d384160415cb
 workflow-type: tm+mt
-source-wordcount: '284'
+source-wordcount: '278'
 ht-degree: 0%
 
 ---
@@ -19,9 +19,9 @@ ht-degree: 0%
 
 페이지 최적화 점수는 1-100의 점수로 페이지가 검색을 위해 최적화되는 전체 순위입니다. SEO의 수십 가지 모범 사례를 기반으로 합니다.
 
-* ~ 00 - 35 = 최적화되지 않음
-* ~ 35 - 70 = 오른쪽 트랙
-* ~ 70 - 100 = 잘하고 있어!
+* 0 - 35 = 최적화되지 않음
+* 35 - 70 = 오른쪽 트랙에서
+* 70 - 100 = 잘하고 있어!
 
 >[!TIP]
 >
@@ -38,7 +38,7 @@ ht-degree: 0%
 | 제목 | 도메인에 있는 모든 페이지의 제목과 URL입니다. 도메인을 확인합니다. |
 | 최적화 점수 | 1-100 축척의 검색을 위해 페이지가 얼마나 최적화되었는지 보여주는 데 사용되는 비밀 소스입니다. |
 | 링크 | 사이트에 대한 인바운드 링크가 1개 이상 있는 다른 도메인 수입니다. |
-| Target 키워드 | 각 페이지를 최적화하는 데 선택하는 키워드. [이 작업을 수행하려면 입력이 필요합니다](seo-using-the-page-detail-drill-down.md). |
+| Target 키워드 | 각 페이지를 최적화하는 데 선택하는 키워드. [이 작업을 수행하려면 입력이 필요합니다](/help/marketo/product-docs/additional-apps/seo/pages/seo-using-the-page-detail-drill-down.md). |
 
 ## 문제 탭 {#issues-tab}
 
@@ -53,7 +53,4 @@ ht-degree: 0%
 | 카테고리 | 보고되는 문제 유형. |
 | 상태 | 작업이 완료되었거나 아직 열려 있습니까? 사용자와 웹 마스터가 사이트의 문제를 수정하면 상태가 해결됨(녹색 확인)으로 변경됩니다. |
 
-멋집니다. 이제 페이지의 기본 사항에 대해 알고 있으므로 페이지 세부 사항 드릴다운 아티클을 통해 더 멋진 기능을 배울 수 있습니다.
-
-* [페이지 세부 사항 드릴다운 사용](seo-using-the-page-detail-drill-down.md)
-
+멋진 기능입니다. 이제 페이지의 기본 사항을 알고 있으므로 [페이지 세부 정보 드릴다운 문서](/help/marketo/product-docs/additional-apps/seo/pages/seo-using-the-page-detail-drill-down.md)에서 가능한 보다 멋진 작업을 확인하십시오.
