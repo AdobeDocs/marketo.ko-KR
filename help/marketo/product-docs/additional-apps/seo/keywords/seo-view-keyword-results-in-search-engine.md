@@ -3,7 +3,7 @@ unique-page-id: 2949238
 description: SEO - 검색 엔진에서 키워드 결과 보기 - 마케팅 문서 - 제품 설명서
 title: SEO - 검색 엔진에서 키워드 결과 보기
 translation-type: tm+mt
-source-git-commit: 00887ea53e395bea3a11fd28e0ac98b085ef6ed8
+source-git-commit: 37697e2d6f1d86a6cd1de5d567a3d384160415cb
 workflow-type: tm+mt
 source-wordcount: '83'
 ht-degree: 0%
@@ -30,4 +30,3 @@ ht-degree: 0%
 1. 굉장해! 이제 새 창에서 키워드에 대한 검색 결과를 볼 수 있습니다.
 
    ![](assets/image2014-9-18-13-3a34-3a24.png)
-
