@@ -3,7 +3,7 @@ unique-page-id: 2949180
 description: SEO 대시보드 이해 -SEO Recommendations - 마케팅 문서 - 제품 설명서
 title: SEO 대시보드 이해 -SEO Recommendations
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 37697e2d6f1d86a6cd1de5d567a3d384160415cb
 workflow-type: tm+mt
 source-wordcount: '156'
 ht-degree: 0%
@@ -21,7 +21,7 @@ Recommendations 섹션을 사용하여 향상시키는 방법도 확인할 수 �
 
 ## 상위 페이지 최적화 문제 {#top-page-optimization-issues}
 
-이렇게 하면 사이트 최적화를 바로 시작할 수 있는 5가지 효과적인 방법이 표시됩니다. 전체 [페이지 세부 사항 드릴다운](../../../../product-docs/additional-apps/seo/pages/seo-using-the-page-detail-drill-down.md)을 보려면 링크를 클릭하면 됩니다.
+이렇게 하면 사이트 최적화를 바로 시작할 수 있는 5가지 효과적인 방법이 표시됩니다. 전체 [페이지 세부 사항 드릴다운](/help/marketo/product-docs/additional-apps/seo/pages/seo-using-the-page-detail-drill-down.md)을 보려면 링크를 클릭하면 됩니다.
 
 >[!TIP]
 >
@@ -43,5 +43,4 @@ Recommendations 섹션을 사용하여 향상시키는 방법도 확인할 수 �
 
 >[!MORELIKETHIS]
 >
->* [페이지 세부 사항 드릴다운](../../../../product-docs/additional-apps/seo/pages/seo-using-the-page-detail-drill-down.md)
-
+>[페이지 세부 사항 드릴다운](../../../../product-docs/additional-apps/seo/pages/seo-using-the-page-detail-drill-down.md)
