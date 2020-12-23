@@ -3,9 +3,9 @@ unique-page-id: 2949678
 description: SEO - 목록에서 키워드 추가/제거 - 마케팅 문서 - 제품 설명서
 title: SEO - 목록에서 키워드 추가/제거
 translation-type: tm+mt
-source-git-commit: 44ed91b485b52173922c709de63a4353e16c5072
+source-git-commit: 37697e2d6f1d86a6cd1de5d567a3d384160415cb
 workflow-type: tm+mt
-source-wordcount: '198'
+source-wordcount: '196'
 ht-degree: 0%
 
 ---
@@ -53,15 +53,12 @@ ht-degree: 0%
 
    >[!NOTE]
    >
-   >키워드가 현재 속하는 모든 목록에는 확인 표시가 있습니다. 목록에서 제거되면 검사가 사라집니다. 마술!
+   >키워드가 현재 속하는 모든 목록에는 확인 표시가 있습니다. 목록에서 제거되면 검사가 사라집니다.
 
    ![](assets/image2014-9-18-11-3a50-3a41.png)
 
    좋습니다. 키워드가 더 이상 이 목록에 없습니다. 페이지를 새로 고쳐 디스플레이를 업데이트합니다.
 
-   >[!NOTE]
+   >[!MORELIKETHIS]
    >
-   >**관련 문서**
-   >    
-   >* [키워드 이해(요약 보기)](seo-understanding-keywords.md)
-
+   >[키워드 이해(요약 보기)](/help/marketo/product-docs/additional-apps/seo/keywords/seo-understanding-keywords.md)
