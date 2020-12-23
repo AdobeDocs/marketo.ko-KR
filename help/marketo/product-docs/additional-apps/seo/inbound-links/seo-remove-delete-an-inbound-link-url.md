@@ -3,9 +3,9 @@ unique-page-id: 2949253
 description: SEO - 인바운드 링크 URL 제거/삭제 - 마케팅 문서 - 제품 설명서
 title: SEO - 인바운드 링크 URL 제거/삭제
 translation-type: tm+mt
-source-git-commit: 00887ea53e395bea3a11fd28e0ac98b085ef6ed8
+source-git-commit: 37697e2d6f1d86a6cd1de5d567a3d384160415cb
 workflow-type: tm+mt
-source-wordcount: '61'
+source-wordcount: '59'
 ht-degree: 0%
 
 ---
@@ -22,8 +22,9 @@ ht-degree: 0%
 1. 삭제할 인바운드 링크 URL 위로 마우스를 가져갑니다.
 
    ![](assets/image2014-9-18-13-3a49-3a34.png)
-제거를 클릭합니다.
+
+1. **제거**&#x200B;를 클릭합니다.
+
    ![](assets/image2014-9-18-13-3a49-3a44.png)
 
-   일어나! 이제 이 인바운드 링크를 삭제했습니다.
-
+이제 이 인바운드 링크를 삭제했습니다.
