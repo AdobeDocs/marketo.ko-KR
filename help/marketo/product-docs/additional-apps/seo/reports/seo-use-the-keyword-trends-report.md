@@ -3,9 +3,9 @@ unique-page-id: 2949273
 description: SEO - 키워드 트렌드 보고서 사용 - 마케팅 문서 - 제품 설명서
 title: SEO - 키워드 트렌드 보고서 사용
 translation-type: tm+mt
-source-git-commit: 23428a6e0ba9b2108a8f2f7dd6a69929dd069834
+source-git-commit: 37697e2d6f1d86a6cd1de5d567a3d384160415cb
 workflow-type: tm+mt
-source-wordcount: '180'
+source-wordcount: '178'
 ht-degree: 0%
 
 ---
@@ -62,10 +62,5 @@ ht-degree: 0%
 
    >[!NOTE]
    >
-   >**관련 문서**
-   >
-   >    
-   >    
-   >    * [경쟁 KW 등급 트렌드 보고서 사용](seo-use-the-competitor-kw-trends-report.md)
-
+   >[경쟁 KW 등급 트렌드 보고서 사용](/help/marketo/product-docs/additional-apps/seo/reports/seo-use-the-competitor-kw-trends-report.md)
 
