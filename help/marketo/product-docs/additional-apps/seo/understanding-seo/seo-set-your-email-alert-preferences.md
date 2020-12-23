@@ -3,9 +3,9 @@ unique-page-id: 2949196
 description: SEO - 이메일 알림 기본 설정 - 마케팅 문서 - 제품 설명서 설정
 title: SEO - 이메일 알림 환경 설정 지정
 translation-type: tm+mt
-source-git-commit: 00887ea53e395bea3a11fd28e0ac98b085ef6ed8
+source-git-commit: 37697e2d6f1d86a6cd1de5d567a3d384160415cb
 workflow-type: tm+mt
-source-wordcount: '65'
+source-wordcount: '63'
 ht-degree: 0%
 
 ---
@@ -19,9 +19,6 @@ ht-degree: 0%
 
    ![](assets/image2014-9-17-21-3a23-3a28.png)
 
-1. 이메일을 통해 알리게 할 내용을 표시합니다.
+1. 이메일을 통해 알릴 내용을 표시하고 **저장**&#x200B;을 클릭합니다.
 
    ![](assets/image2014-9-17-21-3a23-3a33.png)
-
-   그럽다 환경 설정이 자동으로 저장됩니다.
-
