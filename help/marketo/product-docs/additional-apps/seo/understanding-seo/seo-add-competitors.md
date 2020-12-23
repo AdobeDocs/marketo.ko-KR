@@ -3,9 +3,9 @@ unique-page-id: 2949192
 description: SEO - 경쟁업체 추가 - 마케팅 문서 - 제품 설명서
 title: SEO - 경쟁업체 추가
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: 37697e2d6f1d86a6cd1de5d567a3d384160415cb
 workflow-type: tm+mt
-source-wordcount: '89'
+source-wordcount: '87'
 ht-degree: 0%
 
 ---
@@ -41,13 +41,8 @@ ht-degree: 0%
 
    축하합니다! 당신은 그것을 완전히 부수는데 한 걸음 더 가까이 있습니다.
 
-   >[!NOTE]
+   >[!MORELIKETHIS]
    >
-   >**관련 문서**
-   >
-   >    
-   >    
-   >    * [키워드 추가](../../../../product-docs/additional-apps/seo/keywords/seo-add-keywords.md)
-   >    * [키워드 이해(경쟁업체 보기)](../../../../product-docs/additional-apps/seo/keywords/seo-understanding-keywords.md)
-
+   >* [키워드 추가](/help/marketo//product-docs/additional-apps/seo/keywords/seo-add-keywords.md)
+   >* [키워드 이해(경쟁업체 보기)](/help/marketo/product-docs/additional-apps/seo/keywords/seo-understanding-keywords.md)
 
