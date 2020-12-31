@@ -3,7 +3,7 @@ unique-page-id: 4719093
 description: 웹 세그먼트 - 마케팅 문서 - 제품 설명서
 title: 웹 세그먼트
 translation-type: tm+mt
-source-git-commit: 44e4fd230bb1e997700f6b31290d224899561f9a
+source-git-commit: e3f4eb27d30887ef53d6636a6bd2929bc8f43a88
 workflow-type: tm+mt
 source-wordcount: '2031'
 ht-degree: 0%
