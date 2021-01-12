@@ -3,9 +3,9 @@ unique-page-id: 11382122
 description: 감사 추적 활성화 - 마케팅 문서 - 제품 설명서
 title: 감사 추적 활성화
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 78961a3e163ce903facf955a9dda6909b5e85bad
 workflow-type: tm+mt
-source-wordcount: '268'
+source-wordcount: '245'
 ht-degree: 0%
 
 ---
@@ -45,17 +45,15 @@ ht-degree: 0%
    >
    >**정의**
    >
-   >
    >**액세스 감사 추적:** 사용자에게 자산 감사 추적 및 관리 감사 추적 모두에 대한 액세스 권한을 제공합니다.
    >
-   >
-   >**액세스 로그인 내역:** 사용자에게  [사용자 로그인 기록에 대한 액세스 권한을 제공합니다](user-login-history.md).
+   >**액세스 로그인 내역:** 사용자에게  [사용자 로그인 기록에 대한 액세스 권한을 제공합니다](/help/marketo/product-docs/administration/audit-trail/user-login-history.md).
 
 ## {#assign-audit-trail-role-to-a-user} 사용자에게 감사 추적 역할 할당
 
 >[!PREREQUISITES]
 >
->[기존 역할](http://docs.marketo.com/display/DOCS/Create,+Delete,+Edit+and+Change+a+User+Role#Create,Delete,EditandChangeaUserRole-CreateaRole) 을  [](#Enable) 만들거나 활성화하여 감사 추적 권한을 부여할 수 있습니다.
+>[기존 역할](/help/marketo/product-docs/administration/users-and-roles/create-delete-edit-and-change-a-user-role.md#create-a-role) 을  [](#enable-audit-trail) 만들거나 활성화하여 감사 추적 권한을 부여할 수 있습니다.
 
 1. **사용자 및 역할**&#x200B;에서 **사용자**&#x200B;를 클릭합니다.
 
@@ -75,9 +73,8 @@ ht-degree: 0%
 
    >[!CAUTION]
    >
-   >작업 영역이 활성화되어 있으면 모든 작업 영역이 선택되는 역할의 확인란을 선택합니다. 개별 작업 영역을 선택 취소하면 감사 추적이 숨겨집니다. 즉, 모든 작업 공간에 대한 감사 추적 데이터가 표시됩니다. [필터링](http://docs.marketo.com/display/DOCS/Filtering+in+Audit+Trail)할 때 작업 영역을 숨기는 옵션이 있습니다.
+   >작업 영역이 활성화되어 있으면 모든 작업 영역이 선택되는 역할의 확인란을 선택합니다. 개별 작업 영역을 선택 취소하면 감사 추적이 숨겨집니다. 즉, 모든 작업 공간에 대한 감사 추적 데이터가 표시됩니다. [필터링](/help/marketo/product-docs/administration/audit-trail/filtering-in-audit-trail.md)할 때 작업 영역을 숨기는 옵션이 있습니다.
 
 1. **저장**&#x200B;을 클릭합니다.
 
    ![](assets/eight-1.png)
-
