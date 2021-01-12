@@ -3,9 +3,9 @@ unique-page-id: 2360354
 description: 웹 사이트 - Marketing To Docs - 제품 문서에 Munchkin 추적 코드 추가
 title: 웹 사이트에 Munchkin 추적 코드 추가
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 78961a3e163ce903facf955a9dda6909b5e85bad
 workflow-type: tm+mt
-source-wordcount: '672'
+source-wordcount: '673'
 ht-degree: 0%
 
 ---
@@ -13,7 +13,7 @@ ht-degree: 0%
 
 # 웹 사이트 {#add-munchkin-tracking-code-to-your-website}에 Munchkin 추적 코드 추가
 
-Munchkin이라고 불리는 Marketing의 사용자 지정 JavaScript 추적 코드는 자동화된 마케팅 캠페인을 통해 방문자의 방문에 대응할 수 있도록 웹 사이트를 방문하는 모든 사람을 추적합니다. 익명의 방문자도 IP 주소 및 기타 정보와 함께 추적됩니다. ** 이 추적 코드가 없으면 웹 사이트의 방문 또는 기타 활동을 추적할 수 없습니다.**
+Munchkin이라고 불리는 Marketing의 사용자 지정 JavaScript 추적 코드는 자동화된 마케팅 캠페인을 통해 방문자의 방문에 대응할 수 있도록 웹 사이트를 방문하는 모든 사람을 추적합니다. 익명의 방문자도 IP 주소 및 기타 정보와 함께 추적됩니다. **이 추적 코드가 없으면 웹 사이트에서 방문 또는 기타 활동을 추적할 수 없습니다**.
 
 >[!PREREQUISITES]
 >
@@ -54,39 +54,39 @@ Munchkin이라고 불리는 Marketing의 사용자 지정 JavaScript 추적 코�
 
 >[!TIP]
 >
->트래픽이 많이 발생하는 사이트(예: 매월 수십만 회 방문)의 경우 익명 사용자를 추적하지 않는 것이 좋습니다. [자세한 내용.](http://developers.marketo.com/documentation/websites/lead-tracking-munchkin-js/)
+>트래픽이 많이 발생하는 사이트(예: 매월 수십만 회 방문)의 경우 익명 사용자를 추적하지 않는 것이 좋습니다. [자세한](https://developers.marketo.com/documentation/websites/lead-tracking-munchkin-js/) 내용
 
 ## 여러 작업 영역 사용 시 추적 코드 추가 {#add-tracking-code-when-using-multiple-workspaces}
 
 Marketing To 계정에서 작업 영역을 사용하는 경우 작업 영역에 해당하는 별도의 웹 프레젠테이션도 있을 수 있습니다. 이러한 경우 Munchkin 추적 Javascript를 사용하여 익명의 사용자를 올바른 작업 공간과 파티션에 할당할 수 있습니다.
 
-1. 관리자로 이동하고 왼쪽의 트리에서 문킨을 클릭합니다.
+1. **관리**&#x200B;로 이동하고 왼쪽의 트리에서 **Munchkin**&#x200B;을 클릭합니다.
 
 ![](assets/image2015-8-25-16-3a28-3a41.png)
 
 1. 추적할 웹 페이지에 적합한 작업 영역을 선택합니다.
 
-![](assets/image2015-8-25-16-3a30-3a32.png)
+   ![](assets/image2015-8-25-16-3a30-3a32.png)
 
 >[!NOTE]
 >
 >특수 작업 공간 Munchkin 코드를 사용하지 않는 경우 계정이 설정되었을 때 만들어진 기본 파티션에 사람들이 할당됩니다. 초기에는 &quot;기본값&quot;이라고 지정되어 있지만 자체 Marketing 계정에서 변경했을 수 있습니다.
 
-1. 추적 코드 유형에 대해 비동기식을 선택합니다.
+1. 추적 코드 유형에 대해 **비동기**&#x200B;을 선택합니다.
 
    ![](assets/image2015-8-25-16-3a32-3a42.png)
 
 1. JavaScript 추적 코드를 클릭하고 복사하여 웹 사이트에 넣습니다.
 
-![](assets/image2015-8-25-16-3a34-3a7.png)
+   ![](assets/image2015-8-25-16-3a34-3a7.png)
 
->[!CAUTION]
->
->이 스크린샷에 표시된 코드를 사용하지 마십시오. 계정에 나타나는 고유한 코드를 사용해야 합니다.
+   >[!CAUTION]
+   >
+   >이 스크린샷에 표시된 코드를 사용하지 마십시오. 계정에 나타나는 고유한 코드를 사용해야 합니다.
 
 1. 추적 코드를 웹 페이지에 `<head>` 요소에 배치합니다. 이 페이지를 방문하는 새 사용자가 이 파티션에 할당됩니다.
 
-![](assets/image2015-8-25-16-3a5-3a20.png)
+   ![](assets/image2015-8-25-16-3a5-3a20.png)
 
 >[!CAUTION]
 >
@@ -109,6 +109,7 @@ Marketing To 계정에서 작업 영역을 사용하는 경우 작업 영역에 
 Munchkin 코드가 추가된 후 작동하는지 확인하려면:
 
 1. 웹 페이지를 방문하십시오.
+
 1. **Analytics**&#x200B;로 이동합니다.
 
    ![](assets/mainnav-analytics-hand.png)
@@ -124,4 +125,3 @@ Munchkin 코드가 추가된 후 작동하는지 확인하려면:
    ![](assets/activitysource.png)
 
 1. **보고서** 탭을 클릭합니다. 데이터가 표시되지 않으면 몇 분 정도 기다린 다음 맨 아래에 있는 새로 고침 아이콘을 클릭합니다.
-
