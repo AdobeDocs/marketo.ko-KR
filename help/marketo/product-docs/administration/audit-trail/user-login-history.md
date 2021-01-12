@@ -3,9 +3,9 @@ unique-page-id: 11377958
 description: 사용자 로그인 내역 - 마케팅 문서 - 제품 설명서
 title: 사용자 로그인 내역
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 78961a3e163ce903facf955a9dda6909b5e85bad
 workflow-type: tm+mt
-source-wordcount: '179'
+source-wordcount: '178'
 ht-degree: 0%
 
 ---
@@ -49,11 +49,9 @@ ht-degree: 0%
 
    ![](assets/filter-select-from-dropdown.jpg)
 
-1. **사용자** 드롭다운에서 사용자를 선택합니다.** **
+1. **사용자** 드롭다운에서 사용자를 선택합니다.
 
-   ** ![](assets/user-dropdown.jpg)
-
-   **
+   ![](assets/user-dropdown.jpg)
 
 1. 검색에 실패한 로그인만 표시하려면 **실패한 로그인만** 상자를 선택합니다.
 
@@ -69,10 +67,4 @@ ht-degree: 0%
 
    >[!NOTE]
    >
-   >**관련 문서**
-   >
-   >    
-   >    
-   >    * [감사 추적 개요](audit-trail-overview.md)
-
-
+   >[감사 추적 개요](/help/marketo/product-docs/administration/audit-trail/audit-trail-overview.md)
