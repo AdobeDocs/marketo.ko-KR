@@ -3,9 +3,9 @@ unique-page-id: 11377945
 description: 감사 추적 개요 - 마케팅 문서 - 제품 설명서
 title: 감사 추적 개요
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 78961a3e163ce903facf955a9dda6909b5e85bad
 workflow-type: tm+mt
-source-wordcount: '376'
+source-wordcount: '332'
 ht-degree: 0%
 
 ---
@@ -33,7 +33,7 @@ ht-degree: 0%
 
 ## 감사 대상 {#what-we-audit}
 
-Marketing Cloud는 다음 항목에 대해 [만들기, 편집 및 삭제합니다.](http://docs.marketo.com/display/DOCS/Change+Details+in+Audit+Trail)
+Marketing Cloud는 다음 항목에 대해 [만들기, 편집 및 삭제합니다.](/help/marketo/product-docs/administration/audit-trail/change-details-in-audit-trail.md)
 
 * 디자인 스튜디오 에셋
 * 모든 마케팅 프로그램
@@ -46,27 +46,27 @@ Marketing Cloud는 다음 항목에 대해 [만들기, 편집 및 삭제합니�
 
 >[!NOTE]
 >
->현재 Marketing은 **웹 개인화, 예측 컨텐츠 또는 영업 인사이트 내에서 수행된 변경 사항을 감사하지 않습니다.**
+>현재 Marketing은 _웹 개인화, 예측 컨텐츠 또는 영업 인사이트 내에서 수행된 변경 사항을 감사하지 않습니다._
 
 ## 감사 추적 구성 요소 {#audit-trail-components}
 
 감사 추적은 3개의 구성 요소로 이루어집니다.
 
-**1)  [자산 감사 추적](http://docs.marketo.com/display/DOCS/Change+Details+in+Audit+Trail#ChangeDetailsinAuditTrail-AssetAuditTrail)**
+**1)  [자산 감사 추적](/help/marketo/product-docs/administration/audit-trail/change-details-in-audit-trail.md#asset-audit-trail)**
 
 특정 자산에 대해 수행한 활동을 참조하십시오.
 
-**2)  [관리 감사 추적](http://docs.marketo.com/display/DOCS/Change+Details+in+Audit+Trail#ChangeDetailsinAuditTrail-AdminAuditTrail)**
+**2)  [관리 감사 추적](/help/marketo/product-docs/administration/audit-trail/change-details-in-audit-trail.md#admin-audit-trail)**
 
 사용자 기반 세부 사항 모니터링
 
-**3)  [사용자 로그인 내역](http://docs.marketo.com/display/DOCS/User+Login+History)**
+**3)  [사용자 로그인 내역](/help/marketo/product-docs/administration/audit-trail/user-login-history.md)**
 
 누가 사용료 지불 옵션에 로그인했는지 그리고 언제 로그인했는지 확인할 수 있습니다. 실패한 로그인 시도 또한 포함합니다.
 
 >[!TIP]
 >
->감사 추적을 사용하여 감사할 수 있는 것이 너무 많습니다. [필터링](http://docs.marketo.com/display/DOCS/Filtering+in+Audit+Trail)!
+>감사 추적을 사용하여 감사할 수 있는 것이 너무 많습니다. [필터링](/help/marketo/product-docs/administration/audit-trail/filtering-in-audit-trail.md)!
 
 ## 데이터 {#exporting-data} 내보내기
 
@@ -82,9 +82,4 @@ Marketing Cloud는 다음 항목에 대해 [만들기, 편집 및 삭제합니�
 
 >[!MORELIKETHIS]
 >
->* [감사 추적 활성화](enable-audit-trail.md)
-
->
-
-
-
+>[감사 추적 활성화](/help/marketo/product-docs/administration/audit-trail/enable-audit-trail.md)
