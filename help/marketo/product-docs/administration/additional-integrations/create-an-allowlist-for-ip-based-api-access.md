@@ -3,7 +3,7 @@ unique-page-id: 10098433
 description: IP 기반 API 액세스허용 목록에 추가하다에 대한 만들기 - Marketing To Docs - 제품 설명서
 title: IP 허용 목록에 추가하다 기반 API 액세스에 대한 만들기
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: 78961a3e163ce903facf955a9dda6909b5e85bad
 workflow-type: tm+mt
 source-wordcount: '132'
 ht-degree: 0%
@@ -23,7 +23,7 @@ ht-degree: 0%
 
    ![](assets/image2016-2-25-9-3a12-3a48.png)
 
-1. IP 제한 영역의 왼쪽 상단에서 **편집, **을 클릭하거나** IP 제한 편집 **을 클릭합니다.
+1. IP 제한 영역의 왼쪽 상단에서 **편집,**&#x200B;을 클릭하거나 **IP 제한 편집**&#x200B;을 클릭합니다.
 
    ![](assets/image2016-2-25-9-3a15-3a30.png)
 
@@ -42,4 +42,3 @@ ht-degree: 0%
 1. **저장**&#x200B;을 클릭합니다.
 
    ![](assets/image2016-2-25-9-3a28-3a21.png)
-
