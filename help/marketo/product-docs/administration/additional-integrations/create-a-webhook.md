@@ -3,9 +3,9 @@ unique-page-id: 2360360
 description: 웹 후크 만들기 - 마케팅 문서 - 제품 설명서
 title: 웹 후크 만들기
 translation-type: tm+mt
-source-git-commit: d7d6aee63144c472e02fe0221c4a164183d04dd4
+source-git-commit: 78961a3e163ce903facf955a9dda6909b5e85bad
 workflow-type: tm+mt
-source-wordcount: '200'
+source-wordcount: '197'
 ht-degree: 0%
 
 ---
@@ -15,13 +15,11 @@ ht-degree: 0%
 
 웹 후크를 사용하여 제3자 웹 서비스를 활용하여 문자 메시지를 전송하고 개인 데이터를 확장하는 등 다양한 작업을 할 수 있습니다.
 
->[!NOTE]
->
->**가용성**
+>[!AVAILABILITY]
 >
 >모든 고객이 이 기능을 구입하지는 않았습니다. 자세한 내용은 영업 담당자에게 문의하십시오.
 
-1. **Admin **으로 이동하고 **Webhook**&#x200B;을 클릭합니다.
+1. **관리**&#x200B;로 이동하고 **웹후크**&#x200B;를 클릭합니다.
 
    ![](assets/image2014-9-24-14-3a52-3a57.png)
 
@@ -51,7 +49,4 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->**자세히 알아보기**
->
 >[웹후크](http://developers.marketo.com/documentation/webhooks/)에서 자세한 내용을 살펴보십시오.
-
