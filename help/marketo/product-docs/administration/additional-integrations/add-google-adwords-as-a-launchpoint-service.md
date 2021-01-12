@@ -3,9 +3,9 @@ unique-page-id: 6095008
 description: Google AdWords를 LaunchPoint 서비스로 추가 - Marketing To Docs - 제품 설명서
 title: Google AdWords를 LaunchPoint 서비스로 추가
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: 78961a3e163ce903facf955a9dda6909b5e85bad
 workflow-type: tm+mt
-source-wordcount: '302'
+source-wordcount: '300'
 ht-degree: 0%
 
 ---
@@ -23,7 +23,7 @@ Google AdWords 계정을 Marketing에 연결하여 Marketing에서 Google AdWord
 
 >[!NOTE]
 >
->관리자 계정](add-google-adwords-as-a-launchpoint-service-with-a-manager-account.md)과 함께 [Google AdWords를 Launchpoint 서비스로 통합할 수도 있습니다.
+>관리자 계정](/help/marketo/product-docs/administration/additional-integrations/add-google-adwords-as-a-launchpoint-service-with-a-manager-account.md)과 함께 [Google AdWords를 Launchpoint 서비스로 통합할 수도 있습니다.
 
 1. **관리** 섹션으로 이동합니다.
 
@@ -61,7 +61,7 @@ Google AdWords 계정을 Marketing에 연결하여 Marketing에서 Google AdWord
 
    ![](assets/image2015-2-26-20-3a55-3a21.png)
 
-1. Marketing에서 Google AdWords **Weekly ** 또는 **Daily**&#x200B;로 오프라인 전환을 업로드합니다.
+1. Marketing에서 Google AdWords **주별** 또는 **일별**&#x200B;으로 오프라인 전환을 업로드합니다.
 
    ![](assets/image2015-2-23-16-3a53-3a4.png)
 
@@ -86,13 +86,8 @@ Google AdWords 계정을 Marketing에 연결하여 Marketing에서 Google AdWord
    >
    >[이 ](https://support.google.com/adwords/answer/1752125?hl=en) 기능이 작동하려면 자동 태그를 선택해야 합니다. 비활성화는 AdWords 내에서 수행해야 합니다.
 
-   >[!NOTE]
-   >
-   >**관련 문서**
-   >
-   >    
-   >    
-   >    * [매출 모델에서 Google AdWords 전환 설정](../../../product-docs/reporting/revenue-cycle-analytics/revenue-cycle-models/set-google-adwords-conversions-in-the-revenue-model.md)
-
-
 좋아요! 이제 매출 모델에서 AdWords 오프라인 전환을 매핑하는 방법을 알아보려면 아래 관련 문서를 참조하십시오.
+
+>[!MORELIKETHIS]
+>
+>[매출 모델에서 Google AdWords 전환 설정](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-cycle-models/set-google-adwords-conversions-in-the-revenue-model.md)
