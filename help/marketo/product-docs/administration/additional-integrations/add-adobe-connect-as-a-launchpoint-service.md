@@ -3,9 +3,9 @@ unique-page-id: 7512270
 description: LaunchPoint 서비스로 Adobe Connect 추가 - Marketing To Docs - 제품 설명서
 title: LaunchPoint 서비스로 Adobe Connect 추가
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 78961a3e163ce903facf955a9dda6909b5e85bad
 workflow-type: tm+mt
-source-wordcount: '201'
+source-wordcount: '198'
 ht-degree: 0%
 
 ---
@@ -20,8 +20,6 @@ Adobe Connect 웨비나 등록 및 참석을 관리하는 Marketing Cloud입니�
 >**관리자 권한 필요**
 
 >[!NOTE]
->
->**미리 알림**
 >
 >이 단계를 수행하려면 Adobe Connect 및 관리 권한에 대한 기존 구독이 필요합니다. 다음과 같은 설정이 있습니다.사용자 이름, 암호, 참가자 암호 및 회의 폴더 URL.
 
@@ -45,11 +43,9 @@ Adobe Connect 웨비나 등록 및 참석을 관리하는 Marketing Cloud입니�
 
    ![](assets/image2015-4-22-11-3a50-3a6.png)
 
-1. **회의 폴더 URL** 및 **참가자** **암호**,** **을 입력한 다음** 만들기.**
+1. **회의 폴더 URL** 및 **참가자 암호**&#x200B;를 입력하여 프로세스를 완료한 다음 **만들기**&#x200B;를 클릭합니다.
 
-   ** ![](assets/image2015-4-22-11-3a55-3a36.png)
-
-   **
+   ![](assets/image2015-4-22-11-3a55-3a36.png)
 
    >[!TIP]
    >
@@ -57,16 +53,12 @@ Adobe Connect 웨비나 등록 및 참석을 관리하는 Marketing Cloud입니�
 
    >[!NOTE]
    >
-   >**예**
-   >
-   >
-   >Adobe Connect 계정에 로그인하면 **세미나** 탭을 선택합니다. 특정 세미나로 드릴다운하지 않고 브라우저 막대의 URL을 **회의 폴더 URL**&#x200B;설정&#x200B;**으로 복사합니다.**
+   >Adobe Connect 계정에 로그인하면 **세미나** 탭을 선택합니다. 특정 세미나로 드릴다운하지 않고 브라우저 막대의 URL을 **회의 폴더 URL** 설정으로 복사합니다.
 
-1. 대단해! **Adobe Connect 서비스**&#x200B;가 이제 Marketing To와 동기화됩니다.
+이제 Adobe Connect 서비스가 Marketing To와 동기화됩니다!
 
-   ![](assets/adobe-connect-service.png)
+![](assets/adobe-connect-service.png)
 
 >[!MORELIKETHIS]
 >
->Adobe Connect[을(를) 사용하여 이벤트를 만드는 방법을 알아봅니다.](../../../product-docs/demand-generation/events/create-an-event/create-an-event-with-adobe-connect.md)
-
+>Adobe Connect[을(를) 사용하여 이벤트를 만드는 방법을 알아봅니다.](/help/marketo/product-docs/demand-generation/events/create-an-event/create-an-event-with-adobe-connect.md)
