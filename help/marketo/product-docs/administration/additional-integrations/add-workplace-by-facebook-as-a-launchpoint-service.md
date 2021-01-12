@@ -3,9 +3,9 @@ unique-page-id: 14745982
 description: Facebook에서 LaunchPoint 서비스로 작업 공간 추가 - Marketing To Docs - 제품 설명서
 title: Facebook에서 LaunchPoint 서비스로 작업 공간 추가
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 78961a3e163ce903facf955a9dda6909b5e85bad
 workflow-type: tm+mt
-source-wordcount: '288'
+source-wordcount: '281'
 ht-degree: 0%
 
 ---
@@ -24,7 +24,7 @@ ht-degree: 0%
 
 >[!PREREQUISITES]
 >
->이미 작업 공간 알림을 사용할 수 없는 경우 [지원 문의](http://docs.marketo.com/cdn-cgi/l/email-protection#5b282e2b2b34292f1b363a29303e2f3475383436)를 참조하십시오.
+>이미 작업 공간 알림을 사용할 수 없는 경우 [Marketing Support](https://nation.marketo.com/t5/Support/ct-p/Support)에 문의하십시오.
 
 1. **LaunchPoint**&#x200B;로 이동한 다음 **새로 만들기** 아래에서 **새 서비스**&#x200B;를 클릭합니다.
 
@@ -65,4 +65,3 @@ ht-degree: 0%
    이제 7단계에서 선택한 Facebook 그룹에 알림이 게시됩니다. 그들은 다음과 같이 보일 것입니다.
 
    ![](assets/example.png)
-
