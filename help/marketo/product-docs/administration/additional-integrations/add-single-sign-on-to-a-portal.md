@@ -3,9 +3,9 @@ unique-page-id: 2360356
 description: 포털에 단일 사인온 추가 - Marketing To Docs - 제품 설명서
 title: 포털에 단일 사인온 추가
 translation-type: tm+mt
-source-git-commit: c33b7ab59e612f37d3f64bb954579700dc574068
+source-git-commit: 78961a3e163ce903facf955a9dda6909b5e85bad
 workflow-type: tm+mt
-source-wordcount: '453'
+source-wordcount: '458'
 ht-degree: 0%
 
 ---
@@ -53,13 +53,13 @@ SSO가 활성화되면 IdP는 사용자의 자격 증명을 확인할 수 있습
 
 SSO는 기본적으로 비활성화되어 있습니다. SAML을 활성화하고 구성하려면 다음 단계를 따르십시오.
 
-1. **Admin **으로 이동하고 **단일 사인온**&#x200B;을 클릭합니다.
+1. **관리**&#x200B;로 이동하고 **단일 사인온**&#x200B;을 클릭합니다.
 
    ![](assets/image2014-9-24-14-3a36-3a50.png)
 
    >[!NOTE]
    >
-   >**관리**&#x200B;에 **단일 사인온**&#x200B;이 표시되지 않으면 [`[email protected]`](http://mailto:support@marketo.com)에 문의하십시오.
+   >**관리**&#x200B;에 **단일 사인온**&#x200B;이 표시되지 않으면 [[마케팅 지원]](https://nation.marketo.com/t5/Support/ct-p/Support)에 문의하십시오.
 
 1. **SAML 설정** 섹션에서 **편집**&#x200B;을 클릭합니다.
 
@@ -102,4 +102,3 @@ SSO는 기본적으로 비활성화되어 있습니다. SAML을 활성화하고 
    >[!NOTE]
    >
    >이 두 페이지는 모두 공개적으로 사용할 수 있어야 합니다.
-
