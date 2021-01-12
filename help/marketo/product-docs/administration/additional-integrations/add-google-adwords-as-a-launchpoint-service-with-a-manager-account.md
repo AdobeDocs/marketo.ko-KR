@@ -3,9 +3,9 @@ unique-page-id: 7504893
 description: 관리자 계정 - 마케팅 문서 - 제품 문서에서 Google AdWords를 Launchpoint 서비스로 추가
 title: 관리자 계정을 사용하여 Google AdWords를 Launchpoint 서비스로 추가
 translation-type: tm+mt
-source-git-commit: 00887ea53e395bea3a11fd28e0ac98b085ef6ed8
+source-git-commit: 78961a3e163ce903facf955a9dda6909b5e85bad
 workflow-type: tm+mt
-source-wordcount: '341'
+source-wordcount: '338'
 ht-degree: 0%
 
 ---
@@ -25,7 +25,7 @@ Google Adwords 계정이 여러 개 있는 경우 [Google AdWords Manager 계정
 
 >[!NOTE]
 >
->또한 [독립 실행형 Google AdWords 계정을 Launchpoint 서비스](add-google-adwords-as-a-launchpoint-service.md)로 통합할 수도 있습니다.
+>또한 [독립 실행형 Google AdWords 계정을 Launchpoint 서비스](/help/marketo/product-docs/administration/additional-integrations/add-google-adwords-as-a-launchpoint-service.md)로 통합할 수도 있습니다.
 
 1. **관리** 섹션으로 이동합니다.
 
@@ -63,7 +63,7 @@ Google Adwords 계정이 여러 개 있는 경우 [Google AdWords Manager 계정
 
    ![](assets/image2015-2-26-20-3a55-3a21.png)
 
-1. Marketing에서 Google AdWords **Weekly ** 또는 **Daily**&#x200B;로 오프라인 전환을 업로드합니다.
+1. Marketing에서 Google AdWords **주별** 또는 **일별**&#x200B;으로 오프라인 전환을 업로드합니다.
 
    ![](assets/image2015-3-27-14-3a7-3a45.png)
 
@@ -88,14 +88,8 @@ Google Adwords 계정이 여러 개 있는 경우 [Google AdWords Manager 계정
 
    ![](assets/image2015-3-27-14-3a12-3a51.png)
 
-   야호! 이제 매출 모델에서 AdWords 오프라인 전환을 매핑하는 방법은 아래 관련 문서를 참조하십시오.
+   이제 매출 모델에서 AdWords 오프라인 전환을 매핑하는 방법은 아래 관련 문서를 참조하십시오.
 
-   >[!NOTE]
+   >[!MORELIKETHIS]
    >
-   >**관련 문서**
-   >
-   >    
-   >    
-   >    * [관리자 계정으로 매출 모델에서 Google AdWords 전환 설정](../../../product-docs/reporting/revenue-cycle-analytics/revenue-cycle-models/set-google-adwords-conversions-in-the-revenue-model-with-a-manager-account.md)
-
-
+   >[관리자 계정으로 매출 모델에서 Google AdWords 전환 설정](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-cycle-models/set-google-adwords-conversions-in-the-revenue-model-with-a-manager-account.md)
