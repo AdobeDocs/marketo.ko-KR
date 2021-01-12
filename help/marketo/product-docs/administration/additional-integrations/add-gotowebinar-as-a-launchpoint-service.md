@@ -3,9 +3,9 @@ unique-page-id: 7512289
 description: GoToWebinar를 LaunchPoint 서비스 - Marketing Docs - 제품 설명서로 추가
 title: GoToWebinar를 LaunchPoint 서비스로 추가
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 78961a3e163ce903facf955a9dda6909b5e85bad
 workflow-type: tm+mt
-source-wordcount: '163'
+source-wordcount: '169'
 ht-degree: 0%
 
 ---
@@ -21,8 +21,6 @@ Marketing에서 GoToWebinar 등록 및 참석을 관리합니다.
 
 >[!NOTE]
 >
->**미리 알림**
->
 >이 단계를 수행하려면 GoToWebinar 및 관리 권한에 대한 기존 구독이 필요합니다. GoToWebinar에 로그인하는 데 사용하는 이메일 및 암호를 준비하십시오.
 
 >[!NOTE]
@@ -37,11 +35,11 @@ Marketing에서 GoToWebinar 등록 및 참석을 관리합니다.
 
    ![](assets/new-service-gotowebinar.png)
 
-1. `Enter a **Display Name**. Under **Service**, select`**GoToWebinar**.
+1. **표시 이름**&#x200B;을 입력합니다. **서비스**&#x200B;에서 **GoToWebinar**&#x200B;을 선택합니다.
 
    ![](assets/new-service-goto-webinar1.png)
 
-1. 그런 다음 **로그인** **GoToWebinar**&#x200B;을 클릭합니다.
+1. 그런 다음 **GoToWebinar에 로그인**&#x200B;을 클릭합니다.
 
    ![](assets/image2015-4-22-15-3a57-3a59.png)
 
@@ -67,5 +65,4 @@ Marketing에서 GoToWebinar 등록 및 참석을 관리합니다.
 
 >[!MORELIKETHIS]
 >
->[gotoWebinar](../../../product-docs/demand-generation/events/create-an-event/create-an-event-with-gotowebinar.md)로 이벤트를 만드는 방법을 알아봅니다.
-
+>[gotoWebinar](/help/marketo/product-docs/demand-generation/events/create-an-event/create-an-event-with-gotowebinar.md)로 이벤트를 만드는 방법을 알아봅니다.
