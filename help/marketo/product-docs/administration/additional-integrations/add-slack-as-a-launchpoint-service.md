@@ -3,9 +3,9 @@ unique-page-id: 12983619
 description: LaunchPoint 서비스로 Slack 추가 - Marketing To Docs - 제품 설명서
 title: LaunchPoint 서비스로 Slack 추가
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 78961a3e163ce903facf955a9dda6909b5e85bad
 workflow-type: tm+mt
-source-wordcount: '265'
+source-wordcount: '258'
 ht-degree: 0%
 
 ---
@@ -24,7 +24,7 @@ Slack 통합에는 두 가지 알림 유형이 포함되어 있습니다.
 
 >[!PREREQUISITES]
 >
->Slack 시스템 알림을 이미 사용할 수 없는 경우 [지원 문의](http://docs.marketo.com/cdn-cgi/l/email-protection#1d6e686d6d726f695d707c6f76786972337e7270)를 참조하십시오.
+>Slack 시스템 알림을 이미 사용할 수 없는 경우 [Marketing To 지원](https://nation.marketo.com/t5/Support/ct-p/Support)에 문의하십시오.
 
 1. **LaunchPoint**&#x200B;로 이동한 다음 **새로 만들기** 아래에서 **새 서비스**&#x200B;를 클릭합니다.
 
@@ -61,4 +61,3 @@ Slack 통합에는 두 가지 알림 유형이 포함되어 있습니다.
    이제 6단계에서 선택한 채널에 알림이 게시됩니다. 그들은 다음과 같이 보일 것입니다.
 
    ![](assets/samplenotification.png)
-
