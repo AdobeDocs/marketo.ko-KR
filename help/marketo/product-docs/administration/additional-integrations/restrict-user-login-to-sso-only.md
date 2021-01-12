@@ -3,7 +3,7 @@ unique-page-id: 2360358
 description: 사용자 로그인을 SSO로만 제한 - 마케팅 문서 - 제품 설명서
 title: 사용자 로그인을 SSO로만 제한
 translation-type: tm+mt
-source-git-commit: c33b7ab59e612f37d3f64bb954579700dc574068
+source-git-commit: 78961a3e163ce903facf955a9dda6909b5e85bad
 workflow-type: tm+mt
 source-wordcount: '167'
 ht-degree: 0%
@@ -19,21 +19,21 @@ ht-degree: 0%
 >
 >**관리자 권한 필요**
 
-1. 관리자로 이동하고 로그인 설정을 클릭합니다.
+1. **관리**&#x200B;로 이동하고 **로그인 설정**&#x200B;을 클릭합니다.
 
 ![](assets/image2014-9-24-14-3a44-3a40.png)
 
-1. 보안 설정 편집을 클릭합니다.
+1. **보안 설정 편집**&#x200B;을 클릭합니다.
 
    ![](assets/image2014-9-24-14-3a44-3a53.png)
 
-1. 고급 설정을 확장하고 SSO 필요를 선택한 다음 저장을 클릭합니다.
+1. 고급 설정을 확장하고 **SSO 필요**&#x200B;를 선택한 다음 **저장**&#x200B;을 클릭합니다.
 
 ![](assets/image2014-9-24-14-3a45-3a6.png)
 
 >[!TIP]
 >
->**SSO 필요**&#x200B;를 선택하는 경우 역할을 설정하는 동안 **단일 사인온 무시** 옵션을 선택하여 이 제한에서 [사용자 역할](../../../product-docs/administration/users-and-roles/create-delete-edit-and-change-a-user-role.md)을 제외할 수 있습니다. 이렇게 하면 사용자가 정상적으로 로그인할 수 있습니다. 예를 들어 관리 사용자는 로그인 화면을 통해 Marketing To에 계속 로그인해야 할 수 있습니다.
+>**SSO 필요**&#x200B;를 선택하는 경우 역할을 설정하는 동안 **단일 사인온 무시** 옵션을 선택하여 이 제한에서 [사용자 역할](/help/marketo/product-docs/administration/users-and-roles/create-delete-edit-and-change-a-user-role.md)을 제외할 수 있습니다. 이렇게 하면 사용자가 정상적으로 로그인할 수 있습니다. 예를 들어 관리 사용자는 로그인 화면을 통해 Marketing To에 계속 로그인해야 할 수 있습니다.
 
 >[!CAUTION]
 >
