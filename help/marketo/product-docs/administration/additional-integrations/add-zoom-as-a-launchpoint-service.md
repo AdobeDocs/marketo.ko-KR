@@ -3,9 +3,9 @@ unique-page-id: 17728028
 description: LaunchPoint 서비스로 확대/축소 추가 - 마케팅 문서 - 제품 설명서
 title: LaunchPoint 서비스로 확대/축소 추가
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 78961a3e163ce903facf955a9dda6909b5e85bad
 workflow-type: tm+mt
-source-wordcount: '141'
+source-wordcount: '147'
 ht-degree: 0%
 
 ---
@@ -21,19 +21,17 @@ Marketing Cloud에서 확대/축소 등록 및 참석을 관리합니다.
 
 >[!NOTE]
 >
->**미리 알림**
->
 >이 단계에서는 확대/축소 및 관리 권한에 대한 기존 구독이 필요합니다. [확대/축소]에 로그인하는 데 사용하는 전자 메일 및 암호가 있어야 합니다.
 
 1. **관리** 영역으로 이동하여 **LaunchPoint**&#x200B;를 클릭합니다.
 
    ![](assets/launchpoint.png)
 
-1. **New **드롭다운을 클릭하고 **새 서비스**&#x200B;를 선택합니다.
+1. **새로 만들기** 드롭다운을 클릭하고 **새 서비스**&#x200B;를 선택합니다.
 
    ![](assets/newservicelp.png)
 
-1. `Enter a **Display Name**. Under **Service**, select`**확대/축소**.
+1. **표시 이름**&#x200B;을 입력합니다. **서비스**&#x200B;에서 **확대/축소**&#x200B;를 선택합니다.
 
    ![](assets/newservice-1.png)
 
@@ -57,5 +55,4 @@ Marketing Cloud에서 확대/축소 등록 및 참석을 관리합니다.
 
 >[!MORELIKETHIS]
 >
->[확대/축소](../../../product-docs/demand-generation/events/create-an-event/create-an-event-with-zoom.md)로 이벤트를 만드는 방법을 알아봅니다.
-
+>[확대/축소](/help/marketo/product-docs/demand-generation/events/create-an-event/create-an-event-with-zoom.md)로 이벤트를 만드는 방법을 알아봅니다.
