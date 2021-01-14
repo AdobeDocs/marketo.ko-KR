@@ -3,7 +3,7 @@ unique-page-id: 10100269
 description: 사용자 지정 활동 편집 - 마케팅 문서 - 제품 설명서
 title: 사용자 지정 활동 편집
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: f865630638e7c0fe6ac2a449e196a7de4fbfeea1
 workflow-type: tm+mt
 source-wordcount: '103'
 ht-degree: 0%
@@ -44,4 +44,3 @@ ht-degree: 0%
    >[!NOTE]
    >
    >편집 시 활동이 초안이면 초안으로 남아 있습니다. 게시되면 상태가 초안과 함께 게시됨으로 변경됩니다.
-
