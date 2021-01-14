@@ -3,9 +3,9 @@ unique-page-id: 11378713
 description: 사용자 정의 개체 변경 트리거 - Marketing To Docs - 제품 설명서
 title: 사용자 정의 개체 변경 트리거
 translation-type: tm+mt
-source-git-commit: 00887ea53e395bea3a11fd28e0ac98b085ef6ed8
+source-git-commit: f865630638e7c0fe6ac2a449e196a7de4fbfeea1
 workflow-type: tm+mt
-source-wordcount: '194'
+source-wordcount: '196'
 ht-degree: 0%
 
 ---
@@ -23,7 +23,7 @@ ht-degree: 0%
 
 >
 >
-사용자 지정 개체 변경 트리거를 사용하도록 설정하려면 [Marketing Support](http://support.marketo.com)에 문의하십시오.
+사용자 지정 개체 변경 트리거를 사용하도록 설정하려면 [Marketing Support](https://nation.marketo.com/t5/Support/ct-p/Support)에 문의하십시오.
 
 스마트 캠페인의 스마트 목록에서 사용자 지정 개체가 개인 또는 회사에 추가될 때 흐름 작업을 트리거할 수 있습니다. 사용자 지정 개체의 *change*&#x200B;를 트리거로 사용하는 스마트 목록을 만들 수도 있습니다. 예를 들어, 강좌 이름이 업데이트되면 이메일을 보내는 데 이 아이콘을 사용합니다.
 
@@ -57,11 +57,6 @@ ht-degree: 0%
 
    >[!NOTE]
    >
-   >**관련 문서**
-   >
-   >    
-   >    
-   >    * [스마트 목록 만들기](../../../product-docs/core-marketo-concepts/smart-lists-and-static-lists/creating-a-smart-list/create-a-smart-list.md)
-   >    * [마케팅 사용자 지정 개체 이해](understanding-marketo-custom-objects.md)
-
+   >* [스마트 목록 만들기](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/creating-a-smart-list/create-a-smart-list.md)
+   >* [마케팅 사용자 지정 개체 이해](/help/marketo/product-docs/administration/marketo-custom-objects/understanding-marketo-custom-objects.md)
 
