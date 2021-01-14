@@ -3,9 +3,9 @@ unique-page-id: 10097613
 description: 마케팅 to 사용자 지정 개체 링크 필드 추가 - 마케팅 문서 - 제품 설명서
 title: 마케팅을 사용자 지정 개체 링크 필드에 추가
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: f865630638e7c0fe6ac2a449e196a7de4fbfeea1
 workflow-type: tm+mt
-source-wordcount: '603'
+source-wordcount: '601'
 ht-degree: 0%
 
 ---
@@ -50,7 +50,6 @@ ht-degree: 0%
    >
    >리드를 선택하면 ID, 이메일 주소 및 목록에 있는 모든 사용자 지정 필드가 표시됩니다.
    >
-   >
    >회사를 선택하면 ID와 사용자 정의 필드가 목록에 표시됩니다.
 
 1. 새 필드의 상위로 연결할 링크 필드를 선택합니다.
@@ -81,7 +80,7 @@ ht-degree: 0%
 
    ![](assets/image2016-1-18-9-3a10-3a29.png)
 
-1. **Fields **탭에서 **새 필드**&#x200B;를 클릭합니다.
+1. **필드** 탭에서 **새 필드**&#x200B;를 클릭합니다.
 
    ![](assets/image2016-1-18-9-3a31-3a43.png)
 
@@ -121,16 +120,10 @@ ht-degree: 0%
 
 ![](assets/image2016-1-14-15-3a57-3a59.png)
 
->[!NOTE]
+>[!MORELIKETHIS]
 >
->**관련 문서**
->
->* [마케팅을 사용자 지정 개체 필드에 추가](add-marketo-custom-object-fields.md)
->* [마케팅 사용자 지정 개체 편집 및 삭제](edit-and-delete-a-marketo-custom-object.md)
->* [마케팅 사용자 지정 개체 이해](understanding-marketo-custom-objects.md)
->* [마케팅 사용자 지정 개체 필드 편집 및 삭제](edit-and-delete-marketo-custom-object-fields.md)
-
->
-
-
+>* [마케팅을 사용자 지정 개체 필드에 추가](/help/marketo/product-docs/administration/marketo-custom-objects/add-marketo-custom-object-fields.md)
+>* [마케팅 사용자 지정 개체 편집 및 삭제](/help/marketo/product-docs/administration/marketo-custom-objects/edit-and-delete-a-marketo-custom-object.md)
+>* [마케팅 사용자 지정 개체 이해](/help/marketo/product-docs/administration/marketo-custom-objects/understanding-marketo-custom-objects.md)
+>* [마케팅 사용자 지정 개체 필드 편집 및 삭제](/help/marketo/product-docs/administration/marketo-custom-objects/edit-and-delete-marketo-custom-object-fields.md)
 
