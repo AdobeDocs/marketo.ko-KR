@@ -3,7 +3,7 @@ unique-page-id: 2360251
 description: 구독 취소 메시지 편집 - 마케팅 문서 - 제품 설명서
 title: 구독 취소 메시지 편집
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: f865630638e7c0fe6ac2a449e196a7de4fbfeea1
 workflow-type: tm+mt
 source-wordcount: '145'
 ht-degree: 0%
@@ -17,7 +17,7 @@ ht-degree: 0%
 >
 >**관리자 권한 필요**
 
-마케팅 이메일([operational](../../../product-docs/email-marketing/general/functions-in-the-editor/make-an-email-operational.md) 비)을 보낼 때 구독 취소 텍스트와 링크가 하단에 추가됩니다. 기본값을 변경할 수 있습니다. 방법
+마케팅 이메일을 보낼 때(비-[operational](/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/make-an-email-operational.md)), 구독 취소 텍스트 및 링크는 하단에 추가됩니다. 기본값을 변경할 수 있습니다. 방법
 
 ## 구독 취소 메시지 편집 {#edit-the-unsubscribe-message-1}
 
@@ -27,24 +27,21 @@ ht-degree: 0%
 
    >[!CAUTION]
    >
-   >
    >다음 변수는 중요합니다. 삭제하지 마세요!
    >
-   >    
-   >    
-   >    * **%mkt_opt_out_prefix%**
-   >    * **mkt_unsubscribe=1&amp;mkt_tok=##MKT_TOK##**
+   >* **%mkt_opt_out_prefix%**
+   >* **mkt_unsubscribe=1&amp;mkt_tok=##MKT_TOK##**
 
 
 1. 원하는 대로 **HTML 구독 취소** 및 **텍스트 구독 취소** 버전을 편집하고 **변경 내용 저장**&#x200B;을 클릭합니다.
 
    ![](assets/image2016-8-26-13-3a40-3a55.png)
 
-   여기 있습니다. **반드시 테스트하십시오!** 마케팅 이메일에 구독 취소 링크가 끊기는 것을 원하지 않습니다.
+   여기 있습니다. _반드시 테스트하십시오!_ 마케팅 이메일에 구독 취소 링크가 끊기는 것을 원하지 않습니다.
 
 >[!TIP]
 >
->[토큰](../../../product-docs/email-marketing/general/using-tokens/add-a-system-token-as-a-link-in-an-email.md)을 사용하여 이메일의 구독 취소 HTML의 위치를 사용자 지정할 수 있습니다.
+>[토큰](/help/marketo/product-docs/email-marketing/general/using-tokens/add-a-system-token-as-a-link-in-an-email.md)을 사용하여 이메일의 구독 취소 HTML의 위치를 사용자 지정할 수 있습니다.
 
 ## 기본 구독 취소 텍스트 {#default-unsubscribe-text}
 
@@ -56,9 +53,4 @@ HTML 구독 취소:
 
 >[!MORELIKETHIS]
 >
->* [&quot;웹 페이지로 보기&quot; 메시지 편집](edit-the-view-as-web-page-message.md)
-
->
-
-
-
+>[&quot;웹 페이지로 보기&quot; 메시지 편집](/help/marketo/product-docs/administration/email-setup/edit-the-view-as-web-page-message.md)
