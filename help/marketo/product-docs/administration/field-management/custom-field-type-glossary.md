@@ -3,9 +3,9 @@ unique-page-id: 2951259
 description: 사용자 지정 필드 유형 용어 - Marketing Docs - 제품 설명서
 title: 사용자 지정 필드 유형 용어
 translation-type: tm+mt
-source-git-commit: d7d6aee63144c472e02fe0221c4a164183d04dd4
+source-git-commit: f865630638e7c0fe6ac2a449e196a7de4fbfeea1
 workflow-type: tm+mt
-source-wordcount: '606'
+source-wordcount: '583'
 ht-degree: 0%
 
 ---
@@ -17,15 +17,11 @@ Marketing에서 사용자 정의 필드를 만들면 선택할 유형 목록이 
 
 >[!PREREQUISITES]
 >
->* [Marketing To에서 사용자 정의 필드 만들기](create-a-custom-field-in-marketo.md)
-
->
-
-
+>[Marketing To에서 사용자 정의 필드 만들기](/help/marketo/product-docs/administration/field-management/create-a-custom-field-in-marketo.md)
 
 >[!TIP]
 >
->필드 유형에 따라 [연산자](https://docs.marketo.com/display/public/DOCS/Smart+List+Filter+Operators+Glossary)가 다릅니다.
+>필드 유형에 따라 [연산자](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/creating-a-smart-list/smart-list-filter-operators-glossary.md)가 다릅니다.
 
 >[!NOTE]
 >
@@ -67,7 +63,7 @@ Marketing에서 사용자 정의 필드를 만들면 선택할 유형 목록이 
 
 **예 이름:** 대체 이메일 - 사람들의 대체 이메일 주소를 유지합니다. (기본 이메일 주소 필드처럼 이 필드에 이메일을 실제로 보낼 수 없으며, 이 필드는 특별합니다.)
 
-**값 예:** [`[email protected]`](http://docs.marketo.com/cdn-cgi/l/email-protection#335d525e5673505c5e43525d4a1d505c5e)
+**값 예:** name@company.com
 
 **연산자**:is not, starts with, not started with, not started with, contains, not contains, is empty가 아님
 
@@ -81,7 +77,7 @@ Marketing에서 사용자 정의 필드를 만들면 선택할 유형 목록이 
 
 ## 공식 {#formula}
 
-**예제 이름:** 분량 -  [솔루션에 있는 이 특수 필드를 사용하여 성에 따라 올바른 ](create-and-use-a-concatenated-string-formula-field.md) 분포를 얻습니다.
+**예제 이름:** 분량 -  [솔루션에 있는 이 특수 필드를 사용하여 성에 따라 올바른 ](/help/marketo/product-docs/administration/field-management/create-and-use-a-concatenated-string-formula-field.md) 분포를 얻습니다.
 
 **값 예: 연결된 솔루션** 확인
 
