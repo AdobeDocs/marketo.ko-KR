@@ -3,7 +3,7 @@ unique-page-id: 10093690
 description: 마케팅 사용자 지정 개체 편집 및 삭제 - 마케팅 문서 - 제품 설명서
 title: 마케팅 사용자 지정 개체 편집 및 삭제
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: f865630638e7c0fe6ac2a449e196a7de4fbfeea1
 workflow-type: tm+mt
 source-wordcount: '292'
 ht-degree: 0%
@@ -41,7 +41,7 @@ ht-degree: 0%
 
    ![](assets/image2015-9-15-16-3a48-3a39.png)
 
-1. [편집된 객체](approve-a-custom-object.md)를 승인해야 합니다.
+1. [편집된 객체](/help/marketo/product-docs/administration/marketo-custom-objects/approve-a-custom-object.md)를 승인해야 합니다.
 
 ## 사용자 지정 개체 {#delete-a-custom-object} 삭제
 
@@ -81,5 +81,4 @@ ht-degree: 0%
 
 >[!MORELIKETHIS]
 >
->[사용자 지정 개체 승인](approve-a-custom-object.md)
-
+>[사용자 지정 개체 승인](/help/marketo/product-docs/administration/marketo-custom-objects/approve-a-custom-object.md)
