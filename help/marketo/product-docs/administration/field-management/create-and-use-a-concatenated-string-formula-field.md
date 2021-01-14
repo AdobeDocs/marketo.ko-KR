@@ -3,7 +3,7 @@ unique-page-id: 2360337
 description: 연결된 문자열(공식) 필드 만들기 및 사용 - 마케팅 문서 - 제품 설명서
 title: 연결된 문자열(공식) 필드 만들기 및 사용
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: f865630638e7c0fe6ac2a449e196a7de4fbfeea1
 workflow-type: tm+mt
 source-wordcount: '161'
 ht-degree: 0%
@@ -39,7 +39,7 @@ ht-degree: 0%
 
    ![](assets/image2014-9-19-9-3a46-3a25.png)
 
-   흐름 단계](../../../product-docs/core-marketo-concepts/smart-campaigns/flow-actions/use-tokens-in-flow-steps.md)에 대한 [토큰에 대해 자세히 알아보십시오.
+   흐름 단계](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/use-tokens-in-flow-steps.md)에 대한 [토큰에 대해 자세히 알아보십시오.
 
 1. 이제 전자 메일에 토큰으로 공식 필드를 추가할 수 있습니다.
 
@@ -50,4 +50,3 @@ ht-degree: 0%
 >[!NOTE]
 >
 >공식 필드는 랜딩 페이지, 이메일 및 스마트 목록 열에 사용할 수 있습니다.내보낼 수 없습니다. 공식 필드가 있는 이메일은 일괄 캠페인을 통해 보낼 수 없습니다.
-
