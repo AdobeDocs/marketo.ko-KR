@@ -3,7 +3,7 @@ unique-page-id: 10100275
 description: 마케팅을 사용자 지정 활동 필드에 추가/편집/삭제 - 마케팅 문서 - 제품 설명서
 title: 사용자 지정 활동 필드에 마케팅 추가/편집/삭제
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: f865630638e7c0fe6ac2a449e196a7de4fbfeea1
 workflow-type: tm+mt
 source-wordcount: '304'
 ht-degree: 0%
@@ -35,7 +35,7 @@ ht-degree: 0%
 
    >[!TIP]
    >
-   >무엇을 선택해야 할지 확실하지 않습니까? 우리는 너를 보호했다! 사용 가능한 모든 데이터 유형은 [이 문서](../../../product-docs/administration/field-management/custom-field-type-glossary.md)에 정의되어 있습니다.
+   >무엇을 선택해야 할지 확실하지 않습니까? 우리는 너를 보호했다! 사용 가능한 모든 데이터 유형은 [이 문서](/help/marketo/product-docs/administration/field-management/custom-field-type-glossary.md)에 정의되어 있습니다.
 
 1. 필드 이름을 지정합니다. Api 이름이 자동으로 채워집니다. 완료되면 **저장**&#x200B;을 클릭합니다.
 
@@ -94,4 +94,3 @@ ht-degree: 0%
    ![](assets/thirteen.png)
 
    정말 간단해!
-
