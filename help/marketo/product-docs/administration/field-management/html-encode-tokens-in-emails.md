@@ -3,9 +3,9 @@ unique-page-id: 4720461
 description: 이메일의 HTML 인코딩 토큰 - 마케팅 문서 - 제품 설명서
 title: 이메일의 HTML 인코딩 토큰
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: f865630638e7c0fe6ac2a449e196a7de4fbfeea1
 workflow-type: tm+mt
-source-wordcount: '98'
+source-wordcount: '97'
 ht-degree: 0%
 
 ---
@@ -21,9 +21,7 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->**정의**
->
->인코딩은 문자를 HTML 코드 버전으로 변환하여 전송할 때 발생할 수 있는 혼동을 방지합니다(예:&quot;&amp;&quot;이(가) &quot;&amp;&quot;(으)로 변경되었습니다. 자세한 내용은 웹 개발자를 참조하십시오.
+>인코딩은 문자를 HTML 코드 버전으로 변환하여 전송할 때 발생할 수 있는 혼동을 방지합니다(예:&quot;&amp;&quot;이(가) `&amp;`(으)로 변경되었습니다. 자세한 내용은 웹 개발자를 참조하십시오.
 
 1. **관리**&#x200B;로 이동합니다.
 
@@ -42,4 +40,3 @@ ht-degree: 0%
    ![](assets/six.png)
 
    바로 그거야! 원하는 만큼 개별 필드에 적용할 수 있습니다.
-
