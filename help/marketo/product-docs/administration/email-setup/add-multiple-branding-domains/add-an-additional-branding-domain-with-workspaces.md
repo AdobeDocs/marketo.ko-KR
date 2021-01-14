@@ -3,9 +3,9 @@ unique-page-id: 11377408
 description: 작업 영역 - Marketing To Docs - 제품 설명서를 사용하여 추가 브랜딩 도메인 추가
 title: 작업 영역을 사용하여 추가 브랜딩 도메인 추가
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: f865630638e7c0fe6ac2a449e196a7de4fbfeea1
 workflow-type: tm+mt
-source-wordcount: '131'
+source-wordcount: '130'
 ht-degree: 0%
 
 ---
@@ -17,15 +17,15 @@ ht-degree: 0%
 
 >[!PREREQUISITES]
 >
->먼저 [기본 브랜딩 도메인](edit-your-default-branding-domain.md)을 편집해야 합니다.
+>먼저 [기본 브랜딩 도메인](/help/marketo/product-docs/administration/email-setup/add-multiple-branding-domains/edit-your-default-branding-domain.md)을 편집해야 합니다.
 >
->추가 브랜딩 도메인을 추가하기 전에 먼저 [범용 추적 링크](edit-your-default-branding-domain-with-workspaces.md)을 브랜딩 도메인으로 바꿔야 합니다.
+>추가 브랜딩 도메인을 추가하기 전에 먼저 [범용 추적 링크](/help/marketo/product-docs/administration/email-setup/add-multiple-branding-domains/edit-your-default-branding-domain-with-workspaces.md)을 브랜딩 도메인으로 바꿔야 합니다.
 
-1. **Admin **으로 이동한 다음 **이메일**&#x200B;을 클릭합니다.
+1. **관리**&#x200B;로 이동하고 **이메일**&#x200B;을 클릭합니다.
 
    ![](assets/image2016-6-29-16-3a42-3a20.png)
 
-1. **추가**를 클릭하여 추가적인 브랜딩 도메인을 추가합니다.
+1. 추가 브랜딩 도메인을 추가하려면 **추가**&#x200B;를 클릭합니다.
 
    ![](assets/branding-domains-add-workspaces.png)
 
@@ -40,4 +40,3 @@ ht-degree: 0%
 1. 새 브랜딩 도메인을 선택하고 **저장**&#x200B;을 클릭합니다.
 
    ![](assets/image2016-8-12-10-3a52-3a44.png)
-
