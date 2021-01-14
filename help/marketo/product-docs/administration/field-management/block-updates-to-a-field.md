@@ -3,7 +3,7 @@ unique-page-id: 2360291
 description: 필드 업데이트 차단 - 마케팅 문서 - 제품 설명서
 title: 필드에 대한 업데이트 차단
 translation-type: tm+mt
-source-git-commit: 00887ea53e395bea3a11fd28e0ac98b085ef6ed8
+source-git-commit: f865630638e7c0fe6ac2a449e196a7de4fbfeea1
 workflow-type: tm+mt
 source-wordcount: '159'
 ht-degree: 0%
@@ -33,5 +33,4 @@ ht-degree: 0%
 
    >[!CAUTION]
    >
-   >목록 가져오기를 수행할 때 가져오기 미리 보기에서 차단된 필드의 상태는 필드가 **정확히**&#x200B;과 일치하는 필드 이름을 기반으로 Marketing To에서 자동으로 인식되는 경우에만 표시됩니다(또는 별칭이 설정된 경우). 필드를 Marketing To 필드 드롭다운에서 수동으로 선택하면 차단된 상태가 가져오기 미리 보기에 표시되지 않지만 해당 필드에 대한 업데이트 차단 기능은 계속 구현됩니다.
-
+   >목록 가져오기를 수행할 때 가져오기 미리 보기에서 차단된 필드의 상태는 필드가 _정확히_&#x200B;과 일치하는 필드 이름을 기반으로 Marketing To에서 자동으로 인식되는 경우에만 표시됩니다(또는 별칭이 설정된 경우). 필드를 Marketing To 필드 드롭다운에서 수동으로 선택하면 차단된 상태가 가져오기 미리 보기에 표시되지 않지만 해당 필드에 대한 업데이트 차단 기능은 계속 구현됩니다.
