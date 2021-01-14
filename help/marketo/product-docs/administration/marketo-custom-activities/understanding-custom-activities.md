@@ -3,9 +3,9 @@ unique-page-id: 10100266
 description: 사용자 지정 활동 이해 - 마케팅 문서 - 제품 설명서
 title: 사용자 지정 활동 이해
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: f865630638e7c0fe6ac2a449e196a7de4fbfeea1
 workflow-type: tm+mt
-source-wordcount: '266'
+source-wordcount: '261'
 ht-degree: 0%
 
 ---
@@ -27,14 +27,14 @@ ht-degree: 0%
 >
 >사용자 지정 활동은 사용자 지정 객체와 다릅니다. 값을 변경할 수 있는 경우(예:&quot;자동차 색상&quot;은 파란색에서 빨간색으로 바뀝니다.) 발생한 순간을 추적할 때 사용자 지정 활동을 사용하고 세부 사항을 변경할 수 없습니다(예:&quot;구입차&quot;)를 참조하십시오.
 
-**필드** 활동과 연결할  [추가 ](https://docs.marketo.com/x/Mx6a) 필드를 추가할 수 있습니다. 기본 필드와 마찬가지로 스마트 목록에서 필터링 기준으로 사용할 수 있습니다.
+**필드** 활동과 연결할  [추가 ](/help/marketo/product-docs/administration/marketo-custom-activities/add-edit-delete-marketo-custom-activity-fields.md) 필드를 추가할 수 있습니다. 기본 필드와 마찬가지로 스마트 목록에서 필터링 기준으로 사용할 수 있습니다.
 
 **시작하기**
 
 사용자 지정 활동은 표준 활동과 같이 작동합니다. 하지만 설정하는 것은 두 부분으로 이루어진 프로세스입니다.
 
-1단계:[마케팅 계정에서 사용자 지정 활동 ](create-a-custom-activity.md) 만들기
+1단계:[마케팅 계정에서 사용자 지정 활동 ](/help/marketo/product-docs/administration/marketo-custom-activities/create-a-custom-activity.md) 만들기
 
-2단계:그런 다음 Adobe API를 사용하는 조직의 직원이 구현을 시작할 수 있습니다. 자세한 내용은[사용자 지정 활동 API](http://developers.marketo.com/documentation/rest/add-custom-activities/)
+2단계:그런 다음 Adobe API를 사용하는 조직의 직원이 구현을 시작할 수 있습니다. 자세한 내용은[사용자 지정 활동 API](https://developers.marketo.com/documentation/rest/add-custom-activities/)
 
 재미있게 놀아라!
