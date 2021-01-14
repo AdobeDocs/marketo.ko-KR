@@ -3,7 +3,7 @@ unique-page-id: 45417092
 description: 필드에 대한 데이터로 사용한 내보내기 - Marketing To Docs - 제품 설명서
 title: 필드에 대해 데이터에서 사용하는 내보내기
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: f865630638e7c0fe6ac2a449e196a7de4fbfeea1
 workflow-type: tm+mt
 source-wordcount: '100'
 ht-degree: 0%
@@ -42,4 +42,3 @@ ht-degree: 0%
    >[!TIP]
    >
    >각 관련 자산은 클릭할 수 있고 Marketing To에서 열리는 링크입니다.
-
