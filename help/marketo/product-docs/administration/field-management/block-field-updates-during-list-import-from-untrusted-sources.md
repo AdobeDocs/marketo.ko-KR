@@ -3,7 +3,7 @@ unique-page-id: 2360335
 description: 신뢰할 수 없는 출처의 목록을 가져오는 동안 필드 업데이트 차단 - Marketing To Docs - 제품 설명서
 title: 신뢰할 수 없는 출처의 목록을 가져오는 동안 필드 업데이트 차단
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: f865630638e7c0fe6ac2a449e196a7de4fbfeea1
 workflow-type: tm+mt
 source-wordcount: '205'
 ht-degree: 0%
@@ -41,10 +41,10 @@ ht-degree: 0%
 
 ## 신뢰할 수 없는 목록 가져오기 실행 {#running-an-untrusted-list-import}
 
-1. 목록 가져오기를 실행할 때 이전 단계에서 설정한 모든 필드를 안전하게 유지하려면 **Untrusted **을 선택하십시오.
+1. 목록 가져오기를 실행할 때 이전 단계에서 설정한 모든 필드를 안전하게 하려면 **신뢰할 수 없는**&#x200B;을 선택하십시오.
 
    ![](assets/importpersondetails.jpg)
 
-목록 가져오기에 대한 자세한 지침은 [사람 목록 가져오기](../../../getting-started/quick-wins/import-a-list-of-people.md)를 참조하십시오.
+목록 가져오기에 대한 자세한 지침은 [사람 목록 가져오기](/help/marketo/getting-started/quick-wins/import-a-list-of-people.md)를 참조하십시오.
 
 잘했어! 이제 신뢰할 수 없는 목록에서 키 필드를 안전하게 유지하는 방법을 알 수 있습니다.
