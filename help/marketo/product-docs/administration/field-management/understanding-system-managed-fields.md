@@ -3,7 +3,7 @@ unique-page-id: 5472615
 description: 시스템 관리 필드 이해 - 마케팅 문서 - 제품 설명서
 title: 시스템 관리 필드 이해
 translation-type: tm+mt
-source-git-commit: d7d6aee63144c472e02fe0221c4a164183d04dd4
+source-git-commit: f865630638e7c0fe6ac2a449e196a7de4fbfeea1
 workflow-type: tm+mt
 source-wordcount: '522'
 ht-degree: 0%
@@ -13,7 +13,7 @@ ht-degree: 0%
 
 # 시스템 관리 필드 이해 {#understanding-system-managed-fields}
 
-[개인 세부 정보 페이지](../../../product-docs/core-marketo-concepts/smart-lists-and-static-lists/managing-people-in-smart-lists/using-the-person-detail-page.md)에 Marketing To에서 만든 편집 불가능한 필드가 여러 개 있다는 것을 인지했을 수 있습니다. 이 데이터는 다양한 소스에서 유래되며, 표시할 수 있는 값들이 많이 있습니다.
+[개인 세부 정보 페이지](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/managing-people-in-smart-lists/using-the-person-detail-page.md)에 Marketing To에서 만든 편집 불가능한 필드가 여러 개 있다는 것을 인지했을 수 있습니다. 이 데이터는 다양한 소스에서 유래되며, 표시할 수 있는 값들이 많이 있습니다.
 
 ## 필드 유형 {#field-types}
 
@@ -67,4 +67,3 @@ ht-degree: 0%
 | Munchkin API | Marketing&#39;s Munchkin API를 통해 사람이 된 경우 |
 | 소셜 앱 | 소셜 위젯을 통해 사람이 되었습니다. |
 | 이벤트 파트너 | 연결된 웨비나 서비스를 통해 사람이 되었습니다. |
-
