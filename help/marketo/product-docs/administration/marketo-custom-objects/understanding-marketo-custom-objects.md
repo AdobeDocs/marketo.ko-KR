@@ -3,9 +3,9 @@ unique-page-id: 10093188
 description: 마케팅 사용자 지정 개체 이해 - 마케팅 문서 - 제품 설명서
 title: 마케팅 사용자 지정 개체 이해
 translation-type: tm+mt
-source-git-commit: d7d6aee63144c472e02fe0221c4a164183d04dd4
+source-git-commit: f865630638e7c0fe6ac2a449e196a7de4fbfeea1
 workflow-type: tm+mt
-source-wordcount: '681'
+source-wordcount: '679'
 ht-degree: 0%
 
 ---
@@ -15,9 +15,7 @@ ht-degree: 0%
 
 사용자 지정 개체를 사용하여 비즈니스별 지표를 추적할 수 있습니다.
 
->[!NOTE]
->
->**가용성**
+>[!AVAILABILITY]
 >
 >모든 고객이 이 기능을 구입하지는 않았습니다. 자세한 내용은 영업 담당자에게 문의하십시오.
 
@@ -45,7 +43,7 @@ ht-degree: 0%
 
 ## Marketing 사용자 지정 개체 액세스 {#accessing-marketo-custom-objects}
 
-1. Marketing 사용자 지정 개체를 만들거나 편집하려면 **Admin **을 클릭한 다음 **Marketing To 사용자 지정 개체** s 링크를 클릭합니다.
+1. Marketing 사용자 지정 개체를 만들거나 편집하려면 **관리**&#x200B;를 클릭한 다음 **마케팅 사용자 지정 개체** 링크를 클릭합니다.
 
    ![](assets/image2016-5-18-16-3a59-3a30.png)
 
@@ -91,18 +89,14 @@ CRM 또는 마케팅 전용 레코드에 있는 Marketing To에 사용자가 여
 
 사용자 지정 개체는 단일 레코드에만 직접 연결할 수 있습니다. 즉, 사용자 지정 개체 유형이 회사 필드에 의해 연결되어 있는 경우, Marketing의 REST API를 사용하여 회사를 관리하는 경우, CRM에서 연락처 변환을 사용하거나 externalCompanyId 필드를 사용하여 개인 레코드가 회사와 연결되어 있는지 확인해야 합니다. 회사 레코드에 명시적으로 연결되어 있지 않은 개인 레코드의 경우 회사 필드의 값이 여러 사람에게 공유되더라도 회사를 사용하여 연결된 사용자 지정 객체는 무작위로 단일 레코드에 연결됩니다.
 
-자세한 내용은 [사용자 지정 개체 데이터 가져오기](import-custom-object-data.md)를 참조하십시오.
+자세한 내용은 [사용자 지정 개체 데이터 가져오기](/help/marketo/product-docs/administration/marketo-custom-objects/import-custom-object-data.md)를 참조하십시오.
 
 >[!MORELIKETHIS]
 >
->* [Marketing to 사용자 지정 개체 만들기](create-marketo-custom-objects.md)
->* [사용자 지정 개체 승인](approve-a-custom-object.md)
->* [마케팅 사용자 지정 개체 편집 및 삭제](edit-and-delete-a-marketo-custom-object.md)
->* [마케팅을 사용자 지정 개체 필드에 추가](add-marketo-custom-object-fields.md)
->* [마케팅 사용자 지정 개체 필드 편집 및 삭제](edit-and-delete-marketo-custom-object-fields.md)
->* [사용자 지정 개체 데이터 가져오기](import-custom-object-data.md)
-
->
-
-
+>* [Marketing to 사용자 지정 개체 만들기](/help/marketo/product-docs/administration/marketo-custom-objects/create-marketo-custom-objects.md)
+>* [사용자 지정 개체 승인](/help/marketo/product-docs/administration/marketo-custom-objects/approve-a-custom-object.md)
+>* [마케팅 사용자 지정 개체 편집 및 삭제](/help/marketo/product-docs/administration/marketo-custom-objects/edit-and-delete-a-marketo-custom-object.md)
+>* [마케팅을 사용자 지정 개체 필드에 추가](/help/marketo/product-docs/administration/marketo-custom-objects/add-marketo-custom-object-fields.md)
+>* [마케팅 사용자 지정 개체 필드 편집 및 삭제](/help/marketo/product-docs/administration/marketo-custom-objects/edit-and-delete-marketo-custom-object-fields.md)
+>* [사용자 지정 개체 데이터 가져오기](/help/marketo/product-docs/administration/marketo-custom-objects/import-custom-object-data.md)
 
