@@ -3,9 +3,9 @@ unique-page-id: 2360222
 description: 통신 제한 사용 - 마케팅 문서 - 제품 설명서
 title: 통신 제한 사용
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: f865630638e7c0fe6ac2a449e196a7de4fbfeea1
 workflow-type: tm+mt
-source-wordcount: '161'
+source-wordcount: '153'
 ht-degree: 0%
 
 ---
@@ -22,11 +22,12 @@ ht-degree: 0%
 1. **관리**&#x200B;에서 **통신 제한**&#x200B;을 클릭합니다.
 
    ![](assets/image2014-9-18-15-3a53-3a37.png)
-편집을 클릭합니다.
+
+1. **편집**&#x200B;을 클릭합니다.
+
    ![](assets/image2014-9-18-15-3a53-3a47.png)
 
    >[!NOTE]
-   >
    >
    >일수는 구독 표준 시간대(자정-자정)의 달력 일을 기준으로 합니다.
 
@@ -48,7 +49,7 @@ ht-degree: 0%
 
    >[!NOTE]
    >
-   >[운영 이메일](http://docs.marketo.com/display/DOCS/Make+an+Email+Operational)에 대한 자세한 내용을 살펴보십시오.
+   >[운영 이메일](/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/make-an-email-operational.md)에 대한 자세한 내용을 살펴보십시오.
 
 1. **저장**&#x200B;을 클릭합니다.
 
@@ -58,15 +59,12 @@ ht-degree: 0%
    >
    >**예**
    >
-   >
    >위 설정은 사람들이 7일 기간 동안 **1개 이상의 전자 메일을 1일** 받거나 **5개 이상의 전자 메일을 받지 못한다는 것을 의미합니다**.
 
    >[!NOTE]
-   >
    >
    >커뮤니케이션 제한은 모든 이메일 및 참여 프로그램에 자동으로 적용됩니다.
 
 >[!MORELIKETHIS]
 >
->[스마트 캠페인에 통신 제한 적용](../../../product-docs/core-marketo-concepts/smart-campaigns/using-smart-campaigns/apply-communication-limits-to-smart-campaign.md)
-
+>[스마트 캠페인에 통신 제한 적용](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/using-smart-campaigns/apply-communication-limits-to-smart-campaign.md)
