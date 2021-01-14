@@ -3,9 +3,9 @@ unique-page-id: 10099680
 description: 사용자 지정 개체 데이터 가져오기 - 마케팅 문서 - 제품 설명서
 title: 사용자 지정 개체 데이터 가져오기
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: f865630638e7c0fe6ac2a449e196a7de4fbfeea1
 workflow-type: tm+mt
-source-wordcount: '242'
+source-wordcount: '233'
 ht-degree: 0%
 
 ---
@@ -13,7 +13,7 @@ ht-degree: 0%
 
 # 사용자 지정 개체 데이터 가져오기 {#import-custom-object-data}
 
-사용자 정의 개체 데이터를 데이터베이스로 쉽게 가져올 수 있습니다. 회사와 함께 사용자 지정 개체를 사용하는 경우 자세한 내용은 [회사와 사용자 지정 개체 사용](http://docs.marketo.com/display/DOCS/Understanding+Marketo+Custom+Objects#UnderstandingMarketoCustomObjects-customcompanyUsingCustomObjectswithCompanies)을 참조하십시오.
+사용자 정의 개체 데이터를 데이터베이스로 쉽게 가져올 수 있습니다. 회사와 함께 사용자 지정 개체를 사용하는 경우 자세한 내용은 [회사와 사용자 지정 개체 사용](/help/marketo/product-docs/administration/marketo-custom-objects/understanding-marketo-custom-objects.md#using-custom-objects-with-companies)을 참조하십시오.
 
 1. 내 마켓플레이스에서 **데이터베이스**&#x200B;로 이동합니다.
 
@@ -71,9 +71,4 @@ ht-degree: 0%
 
 >[!MORELIKETHIS]
 >
->* [마케팅 사용자 지정 개체 이해](understanding-marketo-custom-objects.md)
-
->
-
-
-
+>[마케팅 사용자 지정 개체 이해](/help/marketo/product-docs/administration/marketo-custom-objects/understanding-marketo-custom-objects.md)
