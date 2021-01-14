@@ -3,7 +3,7 @@ unique-page-id: 2360247
 description: 이메일 및 레이블 - 마케팅 문서 - 제품 문서에서 기본값 변경
 title: 이메일과 레이블에서 기본값 변경
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: f865630638e7c0fe6ac2a449e196a7de4fbfeea1
 workflow-type: tm+mt
 source-wordcount: '112'
 ht-degree: 0%
