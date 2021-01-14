@@ -3,9 +3,9 @@ unique-page-id: 10095453
 description: 마케팅을 사용자 지정 개체 필드로 편집 및 삭제 - 마케팅 문서 - 제품 설명서
 title: 마케팅 사용자 지정 개체 필드 편집 및 삭제
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: f865630638e7c0fe6ac2a449e196a7de4fbfeea1
 workflow-type: tm+mt
-source-wordcount: '132'
+source-wordcount: '130'
 ht-degree: 0%
 
 ---
@@ -49,14 +49,10 @@ ht-degree: 0%
 
    ![](assets/image2015-10-2-11-3a14-3a5.png)
 
-1. 사라졌어!
+   사라졌어!
 
    ![](assets/image2015-10-2-11-3a15-3a48.png)
 
    >[!NOTE]
    >
-   >**관련 문서**
-   >
-   >
-   >[마케팅을 사용자 지정 개체 필드에 추가](add-marketo-custom-object-fields.md)
-
+   >[마케팅을 사용자 지정 개체 필드에 추가](/help/marketo/product-docs/administration/marketo-custom-objects/add-marketo-custom-object-fields.md)
