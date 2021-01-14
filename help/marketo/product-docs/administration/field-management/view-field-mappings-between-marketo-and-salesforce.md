@@ -3,7 +3,7 @@ unique-page-id: 2360344
 description: Marketing To와 Salesforce 간 필드 매핑 보기 - Marketing To Docs - 제품 설명서
 title: Marketing To와 Salesforce 간 필드 매핑 보기
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: f865630638e7c0fe6ac2a449e196a7de4fbfeea1
 workflow-type: tm+mt
 source-wordcount: '97'
 ht-degree: 0%
