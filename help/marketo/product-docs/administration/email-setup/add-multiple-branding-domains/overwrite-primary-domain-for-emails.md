@@ -3,7 +3,7 @@ unique-page-id: 11378051
 description: 이메일의 기본 도메인 덮어쓰기 - 마케팅 문서 - 제품 문서
 title: 이메일의 기본 도메인 덮어쓰기
 translation-type: tm+mt
-source-git-commit: 00887ea53e395bea3a11fd28e0ac98b085ef6ed8
+source-git-commit: f865630638e7c0fe6ac2a449e196a7de4fbfeea1
 workflow-type: tm+mt
 source-wordcount: '88'
 ht-degree: 0%
@@ -30,4 +30,3 @@ ht-degree: 0%
    >[!NOTE]
    >
    >모든 사용자에게 이메일 기준으로 브랜드 도메인을 설정할 수 있는 권한이 있는 것은 아닙니다. 브랜드 도메인 드롭다운이 표시되지 않으면 관리자에게 문의하십시오.
-
