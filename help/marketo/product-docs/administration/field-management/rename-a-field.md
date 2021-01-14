@@ -3,7 +3,7 @@ unique-page-id: 2360293
 description: 필드 이름 바꾸기 - 마케팅 문서 - 제품 설명서
 title: 필드 이름 바꾸기
 translation-type: tm+mt
-source-git-commit: c33b7ab59e612f37d3f64bb954579700dc574068
+source-git-commit: f865630638e7c0fe6ac2a449e196a7de4fbfeea1
 workflow-type: tm+mt
 source-wordcount: '124'
 ht-degree: 0%
@@ -21,7 +21,7 @@ ht-degree: 0%
 >
 >**관리자 권한 필요**
 
-1. 관리자로 이동하고 필드 관리를 클릭합니다.
+1. 관리자로 이동하고 **필드 관리**&#x200B;를 클릭합니다.
 
    ![](assets/image2014-9-24-14-3a2-3a25.png)
 
@@ -33,7 +33,7 @@ ht-degree: 0%
 
    ![](assets/changefieldname.png)
 
-1. 필드의 이름을 변경하고 저장을 클릭합니다.
+1. 필드의 이름을 변경하고 **저장**&#x200B;을 클릭합니다.
 
    ![](assets/image2014-9-24-14-2-55.png)
 
@@ -42,4 +42,3 @@ ht-degree: 0%
 >[!CAUTION]
 >
 >Salesforce에서 API 이름의 이름을 바꾸면 Marketing에서 새 필드를 만들고 이전 필드를 뒤에 남깁니다!
-
