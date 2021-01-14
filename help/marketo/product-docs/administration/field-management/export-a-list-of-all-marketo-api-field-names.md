@@ -3,7 +3,7 @@ unique-page-id: 2360295
 description: 모든 마케팅 API 필드 이름 목록 내보내기 - 마케팅 문서 - 제품 설명서
 title: 모든 마케팅 API 필드 이름 목록 내보내기
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: f865630638e7c0fe6ac2a449e196a7de4fbfeea1
 workflow-type: tm+mt
 source-wordcount: '101'
 ht-degree: 0%
@@ -34,4 +34,3 @@ SOAP API 또는 Munchkin API를 사용하는 경우 모든 필드 및 해당 API
 >[!NOTE]
 >
 >MLM API 이름의 문자 제한은 255입니다.
-
