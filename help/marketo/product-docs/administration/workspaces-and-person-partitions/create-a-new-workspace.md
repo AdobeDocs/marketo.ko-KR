@@ -3,9 +3,9 @@ unique-page-id: 2360311
 description: 새 작업 영역 만들기 - 마케팅 문서 - 제품 설명서
 title: 새 작업 공간 만들기
 translation-type: tm+mt
-source-git-commit: d7d6aee63144c472e02fe0221c4a164183d04dd4
+source-git-commit: f79909ce8f2e37bf0748596774fe47ac03618696
 workflow-type: tm+mt
-source-wordcount: '225'
+source-wordcount: '211'
 ht-degree: 0%
 
 ---
@@ -26,13 +26,11 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->**자세히 알아보기**
->
->[작업 영역 및 개인 파티션 이해](understanding-workspaces-and-person-partitions.md)로 먼저 파악합니다.
+>[작업 영역 및 개인 파티션 이해](/help/marketo/product-docs/administration/workspaces-and-person-partitions/understanding-workspaces-and-person-partitions.md)로 먼저 파악합니다.
 
 >[!NOTE]
 >
->작업 공간 우수 사례에 대한 자세한 내용은 [Marketing To Professional 서비스](http://docs.marketo.com/cdn-cgi/l/email-protection#55263027233c363026153834273e30213a7b363a38)에 문의하십시오.
+>작업 공간 우수 사례에 대한 자세한 내용은 [Marketing To Professional 서비스](mailto:services@marketo.com)에 문의하십시오.
 
 1. **관리**&#x200B;에서 **작업 영역 및 파티션**&#x200B;을 클릭합니다.
 
@@ -42,33 +40,25 @@ ht-degree: 0%
 
    ![](assets/two-1.png)
 
-1. 이름**을 입력하고 사용할 **개인 파티션**&#x200B;을 선택합니다. **주 개인 파티션**&#x200B;을 선택합니다.
+1. **이름**&#x200B;을 입력하고 사용할 **개인 파티션**&#x200B;을 선택합니다. **주 개인 파티션**&#x200B;을 선택합니다.
 
    >[!NOTE]
    >
-   >**미리 알림**
-   >
-   >
-   >아직 없는 경우 [개인 파티션 만들기](create-a-person-partition.md)를 확인하십시오.
+   >아직 없는 경우 [개인 파티션 만들기](/help/marketo/product-docs/administration/workspaces-and-person-partitions/create-a-person-partition.md)를 확인하십시오.
 
    ![](assets/three-1.png)
 
    >[!NOTE]
    >
-   >**모든 개인 파티션****확인란을 선택하면 이 작업 공간이 시스템의 모든 개인 파티션을 사용할 수 있습니다.
-
-   >[!NOTE]
+   >**모든 개인 파티션** 확인란은 이 작업 공간이 시스템의 모든 개인 파티션을 사용할 수 있음을 의미합니다.
    >
-   >**미리 알림**
-   >
-   >
-   >** 기본 개인 파티션**은 기본 역할을 하며 모든 사람을 할당할 곳입니다.
+   >**주 개인 파티션**&#x200B;은(는) 기본 역할을 하며 모든 사람을 할당할 위치입니다.
 
    여러 개의 브랜드 도메인을 활성화한 경우 기본 브랜드 도메인을 선택해야 합니다.
 
    ![](assets/four-1.png)
 
-   작업 영역 언어를 선택합니다.
+1. 작업 영역 언어를 선택합니다.
 
    >[!NOTE]
    >
@@ -85,4 +75,3 @@ ht-degree: 0%
    작업 영역을 만든 후 업데이트가 표시됩니다!
 
    ![](assets/image2014-9-17-15-3a39-3a10.png)
-
