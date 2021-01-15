@@ -3,9 +3,9 @@ unique-page-id: 2360198
 description: 사용자 역할 만들기, 삭제, 편집 및 변경 - 마케팅 문서 - 제품 설명서
 title: 사용자 역할 만들기, 삭제, 편집 및 변경
 translation-type: tm+mt
-source-git-commit: 00887ea53e395bea3a11fd28e0ac98b085ef6ed8
+source-git-commit: f79909ce8f2e37bf0748596774fe47ac03618696
 workflow-type: tm+mt
-source-wordcount: '282'
+source-wordcount: '267'
 ht-degree: 0%
 
 ---
@@ -21,11 +21,11 @@ ht-degree: 0%
 
 ## 역할 {#create-a-role} 만들기
 
-1. **Admin **으로 이동하고 **사용자 및 역할**&#x200B;을 클릭합니다.
+1. **관리**&#x200B;로 이동하고 **사용자 및 역할**&#x200B;을 클릭합니다.
 
    ![](assets/image2014-9-16-13-3a29-3a48.png)
 
-1. [** 역할] 탭**로 이동하고 **새 역할**&#x200B;을 클릭합니다.
+1. **역할 탭**&#x200B;으로 이동하고 **새 역할**&#x200B;을 클릭합니다.
 
    ![](assets/image2014-9-16-13-3a30-3a0.png)
 
@@ -35,11 +35,11 @@ ht-degree: 0%
 
 ## 역할 {#delete-a-role} 삭제
 
-1. 관리에서 **사용자 및 역할**&#x200B;을 ** 클릭합니다.
+1. **관리**&#x200B;에서 **사용자 및 역할**&#x200B;을 클릭합니다.
 
    ![](assets/image2014-9-16-13-3a31-3a42.png)
 
-1. **Roles **tab 아래에서 역할을 선택하고 **역할 삭제**&#x200B;를 클릭합니다.
+1. **역할** 탭에서 역할을 선택하고 **역할 삭제**&#x200B;를 클릭합니다.
 
    ![](assets/image2014-9-16-13-3a31-3a56.png)
 
@@ -61,11 +61,11 @@ ht-degree: 0%
 
    ![](assets/image2014-9-16-13-3a34-3a2.png)
 
-1. **Roles ** 탭을 클릭합니다.
+1. **역할** 탭을 클릭합니다.
 
    ![](assets/image2014-9-16-13-3a34-3a22.png)
 
-1. 편집할 역할을 선택하고 역할 편집** 클릭합니다**.
+1. 편집할 역할을 선택하고 **역할 편집**&#x200B;을 클릭합니다.
 
    ![](assets/image2014-9-16-13-3a34-3a37.png)
 
@@ -79,7 +79,7 @@ ht-degree: 0%
 
    >[!TIP]
    >
-   >계정 이메일 주소를 업데이트하시겠습니까? [여기에서](http://docs.marketo.com/x/3wFI) 자세히 알아보십시오.
+   >계정 이메일 주소를 업데이트하시겠습니까? [여기에서](/help/marketo/product-docs/administration/settings/edit-account-settings.md) 자세히 알아보십시오.
 
 ## 사용자 역할 변경 {#change-a-users-role}
 
@@ -98,5 +98,3 @@ ht-degree: 0%
 >[!NOTE]
 >
 >여러 역할을 선택한 상태로 두면 Marketing To는 기본적으로 가장 제한적인 권한을 가집니다.
-
-굉장하다, 이제 너는 정말 승승장구하고 있어!  (얻을 수 있습니까?)
