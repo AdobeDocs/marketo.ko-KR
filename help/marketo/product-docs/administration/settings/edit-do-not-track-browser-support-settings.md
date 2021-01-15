@@ -3,9 +3,9 @@ unique-page-id: 6095047
 description: '"추적 안 함" 브라우저 지원 설정 편집 - Marketing To Docs - 제품 설명서'
 title: 브라우저 지원 설정 편집 "추적 안 함"
 translation-type: tm+mt
-source-git-commit: d7d6aee63144c472e02fe0221c4a164183d04dd4
+source-git-commit: f79909ce8f2e37bf0748596774fe47ac03618696
 workflow-type: tm+mt
-source-wordcount: '134'
+source-wordcount: '133'
 ht-degree: 0%
 
 ---
@@ -23,7 +23,7 @@ ht-degree: 0%
 >
 >&quot;추적 안 함&quot;은 기본적으로 [무시]로 설정되므로 원하는 경우 단계를 수행하지 않아도 됩니다.
 
-1. 관리** 클릭합니다**.
+1. **관리**&#x200B;를 클릭합니다.
 
    ![](assets/one.png)
 
@@ -36,7 +36,8 @@ ht-degree: 0%
    ![](assets/three-2.png)
 
 1. **지원**&#x200B;을 선택하고 **저장**&#x200B;을 클릭합니다.
-1. ![](assets/four-1.png)
+
+   ![](assets/four-1.png)
 
    변경 내용을 저장하면 업데이트가 표시됩니다.
 
@@ -49,4 +50,3 @@ ht-degree: 0%
    >[!TIP]
    >
    >&quot;추적 안 함&quot; 및 작동 방법에 대한 자세한 내용은 [이 페이지](https://en.wikipedia.org/wiki/Do_Not_Track)를 방문하십시오.
-
