@@ -3,9 +3,9 @@ unique-page-id: 2359909
 description: 사용자 역할 및 권한 관리 - 마케팅 문서 - 제품 설명서
 title: 사용자 역할 및 권한 관리
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: f79909ce8f2e37bf0748596774fe47ac03618696
 workflow-type: tm+mt
-source-wordcount: '519'
+source-wordcount: '473'
 ht-degree: 0%
 
 ---
@@ -23,17 +23,17 @@ ht-degree: 0%
 
 Marketing에서는 액세스 수준이 다른 몇 가지 기본 제공 역할을 제공합니다.
 
-* **Admin **- 관리 섹션을 포함한 애플리케이션의 모든 부분
-* **표준 사용자 ** - 관리 섹션을 제외한 애플리케이션의 모든 부분
+* **관리**  - 관리 섹션을 포함한 애플리케이션의 모든 부분
+* **표준 사용자**  - 관리 섹션을 제외한 애플리케이션의 모든 부분
 * **마케팅 사용자**  - 관리 섹션을 제외한 애플리케이션의 모든 부분
-* **Web Designer ** - Design Studio만 해당
-* **Analytics 사용자 ** - Analytics 섹션만
+* **웹 디자이너**  - Design Studio 전용
+* **Analytics 사용자**  - Analytics 섹션만
 
 관리자 및 표준 사용자 역할은 편집할 수 없지만 다른 역할은 편집할 수 있습니다. 회사의 특정 조직 구조에 맞게 새 사용자 지정 역할을 만들 수도 있습니다.
 
 ## 사용자에게 역할 할당 {#assign-roles-to-a-user}
 
-[처음으로 사용자를 만들거나 기존 사용자](managing-marketo-users.md)를 편집할 때 사용자에게 역할을 할당할 수 있습니다.[](http://docs.marketo.com/display/DOCS/Create%2C+Delete%2C+Edit+and+Change+a+User+Role)
+[처음으로 사용자를 만들거나 기존 사용자](/help/marketo/product-docs/administration/users-and-roles/managing-marketo-users.md)를 편집할 때 사용자에게 역할을 할당할 수 있습니다.](/help/marketo/product-docs/administration/users-and-roles/create-delete-edit-and-change-a-user-role.md)[
 
 1. 기존 사용자를 편집하려면 **관리**&#x200B;로 이동하고 **사용자 및 역할**&#x200B;을 클릭합니다.
 
@@ -49,25 +49,25 @@ Marketing에서는 액세스 수준이 다른 몇 가지 기본 제공 역할을
 
    >[!NOTE]
    >
-   >각 역할에 대해 배우려면 [역할 권한 설명](managing-user-roles-and-permissions/descriptions-of-role-permissions.md)을 참조하십시오.
+   >각 역할에 대해 배우려면 [역할 권한 설명](/help/marketo/product-docs/administration/users-and-roles/managing-user-roles-and-permissions/descriptions-of-role-permissions.md)을 참조하십시오.
 
 ## 새 역할 만들기 {#create-a-new-role}
 
 경우에 따라 조직에 권한이 사용자 정의 조합을 필요로 하는 매우 특별한 역할의 직원이 있습니다.
 
-1. 새 사용자 역할을 만들려면 관리자로 이동하고 사용자 및 역할을 클릭합니다.
+1. 새 사용자 역할을 만들려면 관리자로 이동하고 **사용자 및 역할**&#x200B;을 클릭합니다.
 
    ![](assets/image2014-9-9-18-3a8-3a12.png)
 
-1. 역할 탭을 클릭합니다.
+1. **역할** 탭을 클릭합니다.
 
    ![](assets/image2014-9-9-18-3a8-3a22.png)
 
-1. 새 역할을 클릭합니다.
+1. **새 역할**&#x200B;을 클릭합니다.
 
    ![](assets/image2014-9-9-18-3a8-3a38.png)
 
-1. 역할 이름, 설명(선택 사항)을 입력하고 이 역할의 사용자가 필요로 하는 권한을 선택합니다.
+1. **역할 이름**, **설명**(선택 사항)을 입력하고 이 역할의 사용자가 필요로 하는 권한을 선택합니다.
 
    ![](assets/image2014-9-9-18-3a9-3a3.png)
 
@@ -79,7 +79,7 @@ Marketing에서는 액세스 수준이 다른 몇 가지 기본 제공 역할을
 
    ![](assets/image2014-9-9-18-3a9-3a15.png)
 
-1. **Roles ** 탭을 클릭합니다.
+1. **역할** 탭을 클릭합니다.
 
    ![](assets/image2014-9-9-18-3a9-3a26.png)
 
@@ -87,7 +87,7 @@ Marketing에서는 액세스 수준이 다른 몇 가지 기본 제공 역할을
 
    ![](assets/image2014-9-9-18-3a9-3a40.png)
 
-1. 필요한 경우 **역할 이름** 및 **Description **을 변경한 다음 연결된 **권한**&#x200B;의 선택을 변경합니다.
+1. 필요한 경우 **역할 이름** 및 **설명**&#x200B;을 변경한 다음 연결된 **권한**&#x200B;의 선택을 변경합니다.
 
    ![](assets/image2014-9-9-18-3a10-3a3.png)
 
@@ -99,28 +99,18 @@ Marketing에서는 액세스 수준이 다른 몇 가지 기본 제공 역할을
 
 역할이 필요 없게 되면 삭제할 수 있습니다.
 
-1. 관리자로 이동하고 사용자 및 역할을 클릭합니다.
+1. 관리자로 이동하고 **사용자 및 역할**&#x200B;을 클릭합니다.
 
    ![](assets/image2014-9-9-18-3a10-3a15.png)
 
-1. 역할 탭을 클릭합니다.
+1. **역할** 탭을 클릭합니다.
 
    ![](assets/image2014-9-9-18-3a10-3a27.png)
 
-1. 목록에서 삭제할 역할을 선택하고 역할 삭제를 클릭합니다.
+1. 목록에서 삭제할 역할을 선택하고 **역할 삭제**&#x200B;를 클릭합니다.
 
    ![](assets/image2014-9-9-18-3a10-3a39.png)
 
-1. 삭제를 클릭하여 확인합니다.
+1. **삭제**&#x200B;를 클릭하여 확인합니다.
 
    ![](assets/image2014-9-9-18-3a10-3a50.png)
-
->[!MORELIKETHIS]
->
->추가 사용자를 만들고 [Marketing 시작하기](../../../getting-started.md)에서 사용자에게 역할을 할당하는 방법에 대해 자세히 알아보십시오.
-
->[!NOTE]
->
->**자세히 알아보기**
->
->[관리](http://docs.marketo.com/display/docs/administration) 딥 다이빙 시 다른 관리 작업에 대해 알아봅니다.
