@@ -3,7 +3,7 @@ unique-page-id: 2359902
 description: 구독에 대한 기본 위치 설정 - 마케팅 문서 - 제품 설명서
 title: 구독에 대한 기본 위치 설정
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: f79909ce8f2e37bf0748596774fe47ac03618696
 workflow-type: tm+mt
 source-wordcount: '246'
 ht-degree: 0%
@@ -21,9 +21,9 @@ ht-degree: 0%
 
 ## 구독 {#set-default-location-settings-for-a-subscription-1}에 대한 기본 위치 설정
 
-관리자가 기본 위치 설정을 변경하면 새로 만든 사용자가 이러한 설정을 상속합니다. 사용자는 개별 계정에서 항상 [자신의 언어, 로케일 및 시간대 환경 설정](select-your-language-locale-and-time-zone.md)을 변경할 수 있습니다.
+관리자가 기본 위치 설정을 변경하면 새로 만든 사용자가 이러한 설정을 상속합니다. 사용자는 개별 계정에서 항상 [자신의 언어, 로케일 및 시간대 환경 설정](/help/marketo/product-docs/administration/settings/select-your-language-locale-and-time-zone.md)을 변경할 수 있습니다.
 
-1. **관리**,**위치&#x200B;**를 클릭합니다.**
+1. **관리**&#x200B;에서 **위치**&#x200B;를 클릭합니다.
 
    ![](assets/image2014-11-7-11-3a39-3a17.png)
 
@@ -43,7 +43,7 @@ ht-degree: 0%
 
    >[!NOTE]
    >
-   >[Salesforce.com](http://salesforce.com/)에 대한 Marketing To Sales Insight는 프랑스어, 독일어, 일본어, 포르투갈어 및 스페인어를 지원합니다.
+   >[Salesforce.com](https://salesforce.com/)에 대한 Marketing To Sales Insight는 프랑스어, 독일어, 일본어, 포르투갈어 및 스페인어를 지원합니다.
 
 ## 구독 {#set-the-default-currency-settings-for-a-subscription}에 대한 기본 통화 설정
 
@@ -61,9 +61,5 @@ ht-degree: 0%
 
 >[!MORELIKETHIS]
 >
->* [언어, 로케일 및 표준 시간대 선택](select-your-language-locale-and-time-zone.md)
-
->
-
-
+>* [언어, 로케일 및 표준 시간대 선택](/help/marketo/product-docs/administration/settings/select-your-language-locale-and-time-zone.md)
 
