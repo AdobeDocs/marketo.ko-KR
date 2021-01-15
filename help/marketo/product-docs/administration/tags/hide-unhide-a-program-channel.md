@@ -3,9 +3,9 @@ unique-page-id: 2360276
 description: 프로그램 채널 숨기기/숨김 취소 - 마케팅 문서 - 제품 설명서
 title: 프로그램 채널 숨기기/숨김 취소
 translation-type: tm+mt
-source-git-commit: 00887ea53e395bea3a11fd28e0ac98b085ef6ed8
+source-git-commit: f79909ce8f2e37bf0748596774fe47ac03618696
 workflow-type: tm+mt
-source-wordcount: '111'
+source-wordcount: '102'
 ht-degree: 0%
 
 ---
@@ -17,7 +17,7 @@ ht-degree: 0%
 >
 >**관리자 권한 필요**
 
-프로그램에서 프로그램 채널](delete-a-program-channel.md)을 사용하지 않는 경우 [삭제할 수 있습니다.  하지만 일단 사용되면, 우리는 그것을 가지고 있어야 한다.  하지만 더 이상 필요하지 않으면 숨길 수 있습니다.
+프로그램에서 프로그램 채널](/help/marketo/product-docs/administration/tags/delete-a-program-channel.md)을 사용하지 않는 경우 [삭제할 수 있습니다.  하지만 일단 사용되면, 우리는 그것을 가지고 있어야 한다.  하지만 더 이상 필요하지 않으면 숨길 수 있습니다.
 
 ## 프로그램 채널 {#hide-a-program-channel} 숨기기
 
@@ -25,7 +25,7 @@ ht-degree: 0%
 
    ![](assets/image2014-9-24-15-3a45-3a7.png)
 
-1. **채널** 드롭다운을 클릭하고 숨길 **Channel **을 선택합니다.
+1. **채널** 드롭다운을 클릭하고 **채널**&#x200B;을 선택하여 숨기십시오.
 
    ![](assets/image2014-9-24-15-3a45-3a41.png)
 
@@ -41,4 +41,3 @@ ht-degree: 0%
 
    ![](assets/image2014-9-24-15-3a47-3a24.png)
 
-진정해, 진정해! (그것이 실제 표현입니까?)
