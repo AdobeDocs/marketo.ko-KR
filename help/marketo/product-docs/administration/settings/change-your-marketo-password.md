@@ -3,9 +3,9 @@ unique-page-id: 2359916
 description: 마케팅 암호 변경 - 마케팅 문서 - 제품 설명서
 title: 마케팅 암호 변경
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: f79909ce8f2e37bf0748596774fe47ac03618696
 workflow-type: tm+mt
-source-wordcount: '110'
+source-wordcount: '99'
 ht-degree: 0%
 
 ---
@@ -23,7 +23,7 @@ ht-degree: 0%
 
    ![](assets/image2014-9-10-9-3a43-3a47.png)
 
-1. 이전 암호 및 새 암호를 입력한 다음 새 암호가 모든 요구 사항에 부합되면 **저장 **을 클릭합니다.
+1. 이전 암호 및 새 암호를 입력한 다음 새 암호가 모든 요구 사항에 맞는 경우 **저장**&#x200B;을 클릭합니다.
 
    ![](assets/image2014-9-10-9-3a44-3a2.png)
 
@@ -31,5 +31,4 @@ ht-degree: 0%
 
    >[!TIP]
    >
-   >좋은 암호란 무엇입니까? &quot; [[email protected]](http://docs.marketo.com/cdn-cgi/l/email-protection) !$ [[email protected]](http://docs.marketo.com/cdn-cgi/l/email-protection)&quot;. 그건 빼고 창의적인 아이디어를 마음껏 표현하십시오.
-
+   >좋은 암호란 무엇입니까? &quot;M@rk3to!$ Gre@t&quot;. 그건 빼고 창의적인 아이디어를 마음껏 표현하십시오.
