@@ -3,7 +3,7 @@ unique-page-id: 10095636
 description: 코드 단편에 대한 초안 없음 활성화 - Marketing To Docs - 제품 설명서
 title: 코드 단편에 대해 초안 없음 사용
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: f79909ce8f2e37bf0748596774fe47ac03618696
 workflow-type: tm+mt
 source-wordcount: '147'
 ht-degree: 0%
@@ -51,5 +51,4 @@ ht-degree: 0%
 
 >[!MORELIKETHIS]
 >
->[초안 없이 코드 조각 승인](../../../../product-docs/personalization/segmentation-and-snippets/snippets/approve-a-snippet-with-no-draft.md)
-
+>[초안 없이 코드 조각 승인](/help/marketo/product-docs/personalization/segmentation-and-snippets/snippets/approve-a-snippet-with-no-draft.md)
