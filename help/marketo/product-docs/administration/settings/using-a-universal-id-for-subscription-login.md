@@ -3,7 +3,7 @@ unique-page-id: 10100311
 description: 구독 로그인에 범용 ID 사용 - Marketing Docs - 제품 설명서
 title: 구독 로그인에 범용 ID 사용
 translation-type: tm+mt
-source-git-commit: 00887ea53e395bea3a11fd28e0ac98b085ef6ed8
+source-git-commit: f79909ce8f2e37bf0748596774fe47ac03618696
 workflow-type: tm+mt
 source-wordcount: '601'
 ht-degree: 0%
@@ -66,4 +66,3 @@ ht-degree: 0%
 ## 모바일 플랫폼 {#mobile-platform}
 
 유니버설 ID를 가진 사용자는 마지막으로 로그인한 구독에서 Marketing To Moments 및 iPad 이벤트 체크인 응용 프로그램의 데이터를 볼 수 있습니다. 모바일 플랫폼 자체에서는 구독을 변경할 수 없습니다.
-
