@@ -3,9 +3,9 @@ unique-page-id: 2950682
 description: 프로그램 채널 만들기 - 마케팅 문서 - 제품 설명서
 title: 프로그램 채널 만들기
 translation-type: tm+mt
-source-git-commit: 00887ea53e395bea3a11fd28e0ac98b085ef6ed8
+source-git-commit: f79909ce8f2e37bf0748596774fe47ac03618696
 workflow-type: tm+mt
-source-wordcount: '440'
+source-wordcount: '427'
 ht-degree: 0%
 
 ---
@@ -21,9 +21,7 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->**자세히 알아보기**
->
->Marketing To에서 가장 중요한 요소인 [프로그램](http://docs.marketo.com/display/docs/programs)에 대해 자세히 알아보십시오.
+>Marketing To에서 가장 중요한 요소인 [프로그램](/help/marketo/product-docs/core-marketo-concepts/programs/creating-programs/understanding-programs.md)에 대해 자세히 알아보십시오.
 
 1. **관리** 섹션에서 **태그**&#x200B;를 클릭합니다.
 
@@ -45,27 +43,20 @@ ht-degree: 0%
    >
    >**예**
    >
-   >
    >채널:빌보드
    >
-   >    
-   >    
-   >    * 적용 대상:기본값
-   >    * 진행:구성원, 참여(확실하지 않은 경우 이 작업은 문제 없음)
-   >    * 성공:참여
+   >* 적용 대상:기본값
+   >* 진행:구성원, 참여(확실하지 않은 경우 이 작업은 문제 없음)
+   >* 성공:참여
 
-   >    
-   >    
+   >
    >채널:파티
    >
-   >    
-   >    
-   >    * 적용 대상:이벤트
-   >    * 진행:초대됨, 등록됨, 표시 및 참석 안 함
-   >    * 성공:참석한 사람
+   >* 적용 대상:이벤트
+   >* 진행:초대됨, 등록됨, 표시 및 참석 안 함
+   >* 성공:참석한 사람
 
-   >    
-   >    
+   >
    >기존 채널의 진행 상태를 확인하여 이를 사용하는 방법에 대해 알아보십시오.
 
 1. 자, 채널 예를 살펴보겠습니다. 새 **채널**&#x200B;의 이름을 지정하고 적용할 프로그램 유형을 선택합니다.
@@ -113,10 +104,7 @@ ht-degree: 0%
 
    >[!NOTE]
    >
-   >**미리 알림**
-   >
-   >
-   >[모바일 체크인 상태&#x200B;******&#x200B;등록&lt;a3/> 및 **참석한 사람**&#x200B;만 &lt;a6/>모바일 체크인 앱](http://docs.marketo.com/display/docs/events)에 표시됩니다.****
+   >[모바일 체크인 앱](/help/marketo/product-docs/core-marketo-concepts/mobile-apps/event-check-in/event-check-in-overview.md)에 **등록된** 및 **참석한**&#x200B;의 **모바일 체크인 상태를 가진 사람만 표시됩니다.**
 
    >[!TIP]
    >
@@ -127,4 +115,3 @@ ht-degree: 0%
    ![](assets/image2014-9-24-15-3a42-3a54.png)
 
    잘했다! 해당 유형의 새 프로그램을 만들면 이 새 채널이 선택 항목 중 하나가 됩니다.
-
