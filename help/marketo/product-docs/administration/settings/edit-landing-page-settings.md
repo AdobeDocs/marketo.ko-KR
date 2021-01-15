@@ -3,7 +3,7 @@ unique-page-id: 2359918
 description: 랜딩 페이지 설정 편집 - 마케팅 문서 - 제품 설명서
 title: 랜딩 페이지 설정 편집
 translation-type: tm+mt
-source-git-commit: 95ca406109e04f56c9846f83cb2c4202bf606518
+source-git-commit: f79909ce8f2e37bf0748596774fe47ac03618696
 workflow-type: tm+mt
 source-wordcount: '256'
 ht-degree: 0%
@@ -32,7 +32,7 @@ ht-degree: 0%
    | 기간 | 정의 |
    |---|---|
    | 랜딩 페이지의 도메인 이름 | CNAME입니다. CNAME은 랜딩 페이지에 대해 사람들에게 제공하는 URL의 첫 번째 부분입니다. 예를 들어 `http://go.yourCompany.com`에서 &quot;go&quot;는 CNAME입니다. 여러 개를 가질 수 있지만 대부분의 사람들은 그냥 여러 개를 사용합니다. |
-   | 폴백 페이지 | 랜딩 페이지가 존재하지 않거나 다운된 경우 이 위치에서 이동합니다. [폴백 페이지](set-a-fallback-page.md)에 대해 자세히 알아보십시오. |
+   | 폴백 페이지 | 랜딩 페이지가 존재하지 않거나 다운된 경우 이 위치에서 이동합니다. [폴백 페이지](/help/marketo/product-docs/administration/settings/set-a-fallback-page.md)에 대해 자세히 알아보십시오. |
    | 홈 페이지 | 회사 사이트 URL을 입력합니다. |
 
    ![](assets/three.png)
@@ -56,4 +56,3 @@ ht-degree: 0%
    ![](assets/six.png)
 
    잘했어요! 이제 랜딩 페이지에 올바른 정보가 있으며 바로 작업을 시작해야 합니다.
-
