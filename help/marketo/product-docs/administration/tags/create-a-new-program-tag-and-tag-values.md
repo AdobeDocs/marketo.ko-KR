@@ -3,7 +3,7 @@ unique-page-id: 2360272
 description: 새 프로그램 태그 및 태그 값 만들기 - 마케팅 문서 - 제품 설명서
 title: 새 프로그램 태그 및 태그 값 만들기
 translation-type: tm+mt
-source-git-commit: 00887ea53e395bea3a11fd28e0ac98b085ef6ed8
+source-git-commit: f79909ce8f2e37bf0748596774fe47ac03618696
 workflow-type: tm+mt
 source-wordcount: '161'
 ht-degree: 0%
@@ -17,7 +17,7 @@ ht-degree: 0%
 >
 >**관리자 권한 필요**
 
-프로그램에 대한 사용자 지정 [태그](../../../product-docs/core-marketo-concepts/programs/working-with-programs/understanding-tags.md)를 만들고 태그에 값을 할당할 수 있습니다.
+프로그램에 대한 사용자 지정 [태그](/help/marketo/product-docs/core-marketo-concepts/programs/working-with-programs/understanding-tags.md)를 만들고 태그에 값을 할당할 수 있습니다.
 
 >[!NOTE]
 >
