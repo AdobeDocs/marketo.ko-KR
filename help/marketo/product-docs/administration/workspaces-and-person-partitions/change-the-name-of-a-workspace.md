@@ -3,9 +3,9 @@ unique-page-id: 2360321
 description: 작업 공간 이름 변경 - 마케팅 문서 - 제품 설명서
 title: 작업 공간 이름 변경
 translation-type: tm+mt
-source-git-commit: d7d6aee63144c472e02fe0221c4a164183d04dd4
+source-git-commit: f79909ce8f2e37bf0748596774fe47ac03618696
 workflow-type: tm+mt
-source-wordcount: '80'
+source-wordcount: '77'
 ht-degree: 0%
 
 ---
@@ -19,15 +19,13 @@ ht-degree: 0%
 
 >[!PREREQUISITES]
 >
->[새 작업 공간 만들기](create-a-new-workspace.md)
+>[새 작업 공간 만들기](/help/marketo/product-docs/administration/workspaces-and-person-partitions/create-a-new-workspace.md)
 
 사용자는 작업 영역의 이름을 변경할 수 있습니다. 매우 간단합니다.
 
 >[!NOTE]
 >
->**자세히 알아보기**
->
->[작업 영역 및 개인 파티션 이해](understanding-workspaces-and-person-partitions.md)로 먼저 파악합니다.
+>[작업 영역 및 개인 파티션 이해](/help/marketo/product-docs/administration/workspaces-and-person-partitions/understanding-workspaces-and-person-partitions.md)로 먼저 파악합니다.
 
 1. **관리**&#x200B;에서 **작업 영역 및 파티션을 클릭합니다.**
 
@@ -44,4 +42,3 @@ ht-degree: 0%
 1. 저장 후 변경 사항이 표시됩니다!
 
    ![](assets/image2014-9-17-11-3a9-3a9.png)
-
