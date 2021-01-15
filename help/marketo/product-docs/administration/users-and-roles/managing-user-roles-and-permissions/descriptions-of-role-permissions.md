@@ -3,9 +3,9 @@ unique-page-id: 6848747
 description: 역할 권한 설명 - 마케팅 문서 - 제품 설명서
 title: 역할 권한 설명
 translation-type: tm+mt
-source-git-commit: d7d6aee63144c472e02fe0221c4a164183d04dd4
+source-git-commit: f79909ce8f2e37bf0748596774fe47ac03618696
 workflow-type: tm+mt
-source-wordcount: '1154'
+source-wordcount: '1144'
 ht-degree: 0%
 
 ---
@@ -23,7 +23,7 @@ ht-degree: 0%
 
 ## 사용 가능한 권한 {#available-permissions}
 
-[역할](../../../../product-docs/administration/users-and-roles/managing-user-roles-and-permissions.md)을 만들거나 편집할 때 적절한 상자를 선택하여 해당 역할을 허용할 다음 권한 중 하나를 선택할 수 있습니다.
+[역할](/help/marketo/product-docs/administration/users-and-roles/managing-user-roles-and-permissions.md)을 만들거나 편집할 때 적절한 상자를 선택하여 해당 역할을 허용할 다음 권한 중 하나를 선택할 수 있습니다.
 
 ![](assets/createnewrole.png)
 
@@ -35,7 +35,7 @@ ht-degree: 0%
 * 액세스 채널 - 다른 사용자 지정 태그가 아닌 채널 태그를 수정하기 위한 액세스 권한만 사용자에게 제공합니다.
 * 통신 제한 액세스 - 사용자에게는 관리에서 통신 제한을 활성화할 수 있는 액세스 권한을 제공합니다.
 * CRM 액세스 - Salesforce 또는 Microsoft Dynamics와 같은 CRM에 대한 액세스 권한을 Admin에서 부여할 수 있습니다.
-* [Data.com](http://Data.com) 액세스 - 사용자에게 Data.com 흐름 작업에 대한 액세스 권한을 제공합니다.
+* [Data.com](https://Data.com) 액세스 - 사용자에게 Data.com 흐름 작업에 대한 액세스 권한을 제공합니다.
 * 액세스 이메일 관리자 - 가입 해지 및 브랜딩 도메인과 같은 기본 설정을 변경할 수 있는 이메일 관리자에게 제공합니다.
 * 액세스 이벤트 파트너 - 관리에서 LaunchPoint에 대한 액세스 권한을 사용자에게 제공합니다.
 * 액세스 필드 관리 - 관리자의 필드 관리에 대한 액세스 권한을 사용자에게 제공합니다.
@@ -105,14 +105,12 @@ ht-degree: 0%
 사용자에게 Design Studio 탭과 트리 보기에 대한 액세스 권한을 제공하지만 세부 사항은 제공하지 않습니다.
 
 * 이메일 액세스
-
    * 이메일 편집 - 사용자에게 이메일 편집, 만들기 및 복제 권한을 제공합니다.
+      * 이메일 작동 - 사용자에게 이메일을 사용할 수 있는 권한을 제공합니다. 참조:[전자 메일 작동](/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/make-an-email-operational.md)
 
-      * 이메일 작동 - 사용자에게 이메일을 사용할 수 있는 권한을 제공합니다. 참조:[전자 메일 작동](../../../../product-docs/email-marketing/general/functions-in-the-editor/make-an-email-operational.md)
-   * 이메일 승인 - 사용자가 이메일을 승인할 수 있도록 해줍니다.
-   * 이메일 삭제 - 사용자가 이메일을 삭제할 수 있습니다.
-   * 브랜드 도메인 설정 - 사용자가 브랜딩 도메인으로 작업할 수 있도록 합니다. 참조:[여러 브랜딩 도메인 추가](http://docs.marketo.com/display/docs/add+multiple+branding+domains)
-
+      * 이메일 승인 - 사용자가 이메일을 승인할 수 있도록 해줍니다.
+      * 이메일 삭제 - 사용자가 이메일을 삭제할 수 있습니다.
+      * 브랜드 도메인 설정 - 사용자가 브랜딩 도메인으로 작업할 수 있도록 합니다. 참조:[추가 브랜딩 도메인 추가](/help/marketo/product-docs/administration/email-setup/add-multiple-branding-domains/add-an-additional-branding-domain.md)
 
 * 이메일 템플릿 액세스
 
@@ -220,5 +218,3 @@ SEO 액세스
 
 * 특정 작업 공간에 대한 관리 액세스(작업 영역을 활성화한 경우에만 해당)
 * 작업 영역 간에 에셋 이동(작업 영역이 활성화된 경우에만 해당)
-
-모바일 응용 프로그램 액세스
