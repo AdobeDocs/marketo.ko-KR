@@ -3,9 +3,9 @@ unique-page-id: 10617187
 description: 개인 정보 설정 이해 - 마케팅 문서 - 제품 설명서
 title: 개인 정보 설정 이해
 translation-type: tm+mt
-source-git-commit: efadb7eb3845012c273e1a60f9cd98ac884eb543
+source-git-commit: f79909ce8f2e37bf0748596774fe47ac03618696
 workflow-type: tm+mt
-source-wordcount: '534'
+source-wordcount: '521'
 ht-degree: 0%
 
 ---
@@ -28,7 +28,7 @@ ht-degree: 0%
 
 웹 방문자는 &quot;DNT(Do Not Track)&quot;를 선택하여 모든 웹 사이트의 추적을 방지하도록 브라우저를 설정할 수 있습니다. 이렇게 하면 이 특정 브라우저 및 장치에 대한 추적을 방지할 수 있습니다. 자세한 내용은 브라우저의 개인 정보 설정을 참조하십시오.
 
-Munchkin에서 마케터는 [브라우저의 DNT 설정](edit-do-not-track-browser-support-settings.md)을 지원할지 여부를 결정할 수 있습니다.
+Munchkin에서 마케터는 [브라우저의 DNT 설정](/help/marketo/product-docs/administration/settings/edit-do-not-track-browser-support-settings.md)을 지원할지 여부를 결정할 수 있습니다.
 
 웹 개인화에서 마케터는 [을(를) 지원할지 또는 브라우저의 DNT 설정](/help/marketo/product-docs/web-personalization/getting-started/setting-web-personalization-to-do-not-track.md)을 무시할지 결정할 수 있습니다.
 
@@ -76,5 +76,4 @@ Munchkin에서 마케터는 [브라우저의 DNT 설정](edit-do-not-track-brows
 
 * 웹 개인화(RTP)의 경우 javascript에 추가합니다.
 
-IP 익명화:rtp(&#39;send&#39;,&#39;view&#39;; 호출 전)rtp(&#39;set&#39;, &#39;settings&#39;, {&#39;animizeIP&#39; 추가 :true});
-
+`anonymize IP : before calling rtp('send','view'); add rtp('set', 'settings', {'anonymizeIP' : true});`
