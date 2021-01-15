@@ -3,7 +3,7 @@ unique-page-id: 2360211
 description: 역할에 대한 고급 목록 가져오기 권한 활성화 - Marketing To Docs - 제품 설명서
 title: 역할에 대한 고급 목록 가져오기 권한 활성화
 translation-type: tm+mt
-source-git-commit: 00887ea53e395bea3a11fd28e0ac98b085ef6ed8
+source-git-commit: f79909ce8f2e37bf0748596774fe47ac03618696
 workflow-type: tm+mt
 source-wordcount: '128'
 ht-degree: 0%
@@ -27,7 +27,7 @@ ht-degree: 0%
 
    ![](assets/image2014-9-17-11-3a50-3a38.png)
 
-1. **Roles **tab 아래에서 수정할 역할을 선택하고 **역할 편집**&#x200B;을 클릭합니다.
+1. **역할** 탭에서 수정할 역할을 선택하고 **역할 편집**&#x200B;을 클릭합니다.
 
    ![](assets/image2014-9-17-11-3a51-3a49.png)
 
