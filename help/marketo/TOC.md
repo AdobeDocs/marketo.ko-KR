@@ -5,9 +5,9 @@ audience: end-user
 user-guide-title: 마케팅 가이드
 user-guide-description: 마케팅 제품 설명서
 translation-type: tm+mt
-source-git-commit: d191e59d4ed96025194ebece423e905e3ac7a7d9
+source-git-commit: f79909ce8f2e37bf0748596774fe47ac03618696
 workflow-type: tm+mt
-source-wordcount: '7840'
+source-wordcount: '7829'
 ht-degree: 0%
 
 ---
@@ -783,7 +783,7 @@ ht-degree: 0%
                + [템플릿 12-F](product-docs/demand-generation/landing-pages/landing-page-templates/guided-landing-page-templates/template-12-f.md)
                + [템플릿 13-A](product-docs/demand-generation/landing-pages/landing-page-templates/guided-landing-page-templates/template-13-a.md)
                + [템플릿 13-B](product-docs/demand-generation/landing-pages/landing-page-templates/guided-landing-page-templates/template-13-b.md)
-               + [템플릿 13-A](product-docs/demand-generation/landing-pages/landing-page-templates/guided-landing-page-templates/template-13-c.md)
+               + [템플릿 13-C](product-docs/demand-generation/landing-pages/landing-page-templates/guided-landing-page-templates/template-13-c.md)
                + [템플릿 13-D](product-docs/demand-generation/landing-pages/landing-page-templates/guided-landing-page-templates/template-13-d.md)
                + [템플릿 13-E](product-docs/demand-generation/landing-pages/landing-page-templates/guided-landing-page-templates/template-13-e.md)
                + [템플릿 14-A](product-docs/demand-generation/landing-pages/landing-page-templates/guided-landing-page-templates/template-14-a.md)
@@ -1120,7 +1120,6 @@ ht-degree: 0%
             + [표시된 것으로 표시되지 않는 테스트 이메일](product-docs/marketo-sales-connect/email/common-tracking-questions/test-email-not-showed-as-viewed.md)
          + 이메일 배달 {#email-delivery}
             + [전달 채널 개요](product-docs/marketo-sales-connect/email/email-delivery/delivery-channel-overview.md)
-            + [판매 연결을 사용하여 Outlook365 SMTP 서버를 설정하는 방법](product-docs/marketo-sales-connect/email/email-delivery/how-to-set-up-your-outlook365-smtp-server-with-sales-connect.md)
             + [SMTP 서버 설정](product-docs/marketo-sales-connect/email/email-delivery/setting-up-an-smtp-server.md)
             + [배달 채널 설정](product-docs/marketo-sales-connect/email/email-delivery/setting-up-your-delivery-channel.md)
          + 영업 이메일 {#send-a-sales-email} 보내기
