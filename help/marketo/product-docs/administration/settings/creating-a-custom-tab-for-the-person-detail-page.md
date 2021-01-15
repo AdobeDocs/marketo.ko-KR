@@ -3,7 +3,7 @@ unique-page-id: 2360305
 description: 개인 세부 사항 페이지에 대한 사용자 지정 탭 만들기 - 마케팅 문서 - 제품 설명서
 title: 개인 세부 사항 페이지에 대한 사용자 정의 탭 만들기
 translation-type: tm+mt
-source-git-commit: d7d6aee63144c472e02fe0221c4a164183d04dd4
+source-git-commit: f79909ce8f2e37bf0748596774fe47ac03618696
 workflow-type: tm+mt
 source-wordcount: '148'
 ht-degree: 0%
@@ -35,10 +35,10 @@ ht-degree: 0%
    >
    >2개의 열이 있습니다.
 
-   필드를 제거하려는 경우 제거할 필드를 마우스 오른쪽 단추로 클릭하고 삭제를 클릭합니다.
+   필드를 제거하려는 경우 제거할 필드를 마우스 오른쪽 단추로 클릭하고 **삭제**&#x200B;를 클릭합니다.
+
    ![](assets/image2014-9-16-16-3a43-3a56.png)
 
    멋진 작품! 이제 개인의 세부 사항을 로드할 때 사용자 정의 레이아웃을 사용하여 중요한 정보에 액세스할 수 있습니다.
 
    ![](assets/six-1.png)
-
