@@ -3,9 +3,9 @@ unique-page-id: 2360281
 description: 프로그램 채널 삭제 - 마케팅 문서 - 제품 설명서
 title: 프로그램 채널 삭제
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: f79909ce8f2e37bf0748596774fe47ac03618696
 workflow-type: tm+mt
-source-wordcount: '97'
+source-wordcount: '89'
 ht-degree: 0%
 
 ---
@@ -17,7 +17,7 @@ ht-degree: 0%
 
 실수로 만들거나 더 이상 필요하지 않은 경우 삭제할 수 있습니다.
 
-1. Admin** 섹션으로 이동합니다**.
+1. **관리** 섹션으로 이동합니다.
 
    ![](assets/image2014-9-24-16-3a6-3a41.png)
 
@@ -33,13 +33,4 @@ ht-degree: 0%
 
    ![](assets/image2014-9-24-16-3a10-3a59.png)
 
-밤! 채널[에서 특정 상태를 삭제할 수도 있습니다.](delete-a-program-status-from-a-program-channel.md)
-
->[!MORELIKETHIS]
->
->* [프로그램 채널에서 프로그램 상태 삭제](delete-a-program-status-from-a-program-channel.md)
-
->
-
-
-
+밤! 채널](/help/marketo/product-docs/administration/tags/delete-a-program-status-from-a-program-channel.md)에서 특정 상태를 삭제할 수도 있습니다.[
