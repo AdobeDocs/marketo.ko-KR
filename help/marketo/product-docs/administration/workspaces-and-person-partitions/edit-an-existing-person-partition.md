@@ -3,7 +3,7 @@ unique-page-id: 2360323
 description: 기존 개인 파티션 편집 - 마케팅 문서 - 제품 설명서
 title: 기존 개인 파티션 편집
 translation-type: tm+mt
-source-git-commit: d7d6aee63144c472e02fe0221c4a164183d04dd4
+source-git-commit: f79909ce8f2e37bf0748596774fe47ac03618696
 workflow-type: tm+mt
 source-wordcount: '131'
 ht-degree: 0%
@@ -21,11 +21,7 @@ ht-degree: 0%
 
 >[!PREREQUISITES]
 >
->* [개인 파티션 만들기](create-a-person-partition.md)
-
->
-
-
+>[개인 파티션 만들기](/help/marketo/product-docs/administration/workspaces-and-person-partitions/create-a-person-partition.md)
 
 1. **관리**&#x200B;에서 **작업 영역 및 파티션**&#x200B;을 클릭합니다.
 
@@ -35,7 +31,7 @@ ht-degree: 0%
 
    ![](assets/two-5.png)
 
-1. 사용자 파티션 **이름**, 이**Workspaces **을 입력하고 **저장**&#x200B;을 클릭합니다.
+1. **이름**&#x200B;이(가) 속한 **작업 영역**&#x200B;을 입력하고 **저장**&#x200B;을 클릭합니다.
 
    ![](assets/three-5.png)
 
@@ -43,9 +39,8 @@ ht-degree: 0%
 
    ![](assets/four-4.png)
 
-   바로 그거야. 이렇게 강력한 기능은 복잡해야 할 것 같지만 그렇지 않습니다.
+바로 그거야. 이렇게 강력한 기능은 복잡해야 할 것 같지만 그렇지 않습니다.
 
-   >[!CAUTION]
-   >
-   >두 번 측정하고 한 번 잘라라. 파티션을 잘못된 작업 영역에 할당하지 않을 수 있습니다.
-
+>[!CAUTION]
+>
+>두 번 측정하고 한 번 잘라라. 파티션을 잘못된 작업 영역에 할당하지 않을 수 있습니다.
