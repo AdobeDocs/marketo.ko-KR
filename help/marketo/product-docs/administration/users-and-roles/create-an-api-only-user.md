@@ -3,9 +3,9 @@ unique-page-id: 2360207
 description: API 전용 사용자 만들기 - 마케팅 문서 - 제품 설명서
 title: API 전용 사용자 만들기
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: f79909ce8f2e37bf0748596774fe47ac03618696
 workflow-type: tm+mt
-source-wordcount: '165'
+source-wordcount: '163'
 ht-degree: 0%
 
 ---
@@ -13,14 +13,11 @@ ht-degree: 0%
 
 # API 전용 사용자 {#create-an-api-only-user} 만들기
 
-[REST API](http://developers.marketo.com/documentation/rest/)를 통해 Marketing과 통합하려면 API 전용 사용자를 만들어야 합니다. 방법
+[REST API](https://developers.marketo.com/documentation/rest/)를 통해 Marketing과 통합하려면 API 전용 사용자를 만들어야 합니다. 방법
 
 >[!PREREQUISITES]
 >
->* [API 전용 사용자 역할 만들기](create-an-api-only-user-role.md)
-
->
-
+>[API 전용 사용자 역할 만들기](/help/marketo/product-docs/administration/users-and-roles/create-an-api-only-user-role.md)
 
 
 >[!NOTE]
@@ -57,13 +54,6 @@ ht-degree: 0%
 
 그럼! 이제 맞춤형 서비스를 만들어 보겠습니다.
 
->[!NOTE]
+>[!MORELIKETHIS]
 >
->**관련 문서**
->
->* [ReST API와 함께 사용할 사용자 지정 서비스 만들기](../../../product-docs/administration/additional-integrations/create-a-custom-service-for-use-with-rest-api.md)
-
->
-
-
-
+>[ReST API와 함께 사용할 사용자 지정 서비스 만들기](/help/marketo/product-docs/administration/additional-integrations/create-a-custom-service-for-use-with-rest-api.md)
