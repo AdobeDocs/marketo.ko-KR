@@ -3,9 +3,9 @@ unique-page-id: 2359904
 description: 언어, 로케일 및 시간대 - 마케팅 문서 - 제품 설명서를 선택합니다.
 title: 언어, 로케일 및 표준 시간대 선택
 translation-type: tm+mt
-source-git-commit: 5c9683c6b00ccbf9e9d606fd4513432c9872ad00
+source-git-commit: f79909ce8f2e37bf0748596774fe47ac03618696
 workflow-type: tm+mt
-source-wordcount: '126'
+source-wordcount: '127'
 ht-degree: 0%
 
 ---
@@ -26,15 +26,15 @@ ht-degree: 0%
 
 ## 사용자 언어, 로케일 및 시간대 변경 {#change-user-language-locale-and-time-zone}
 
-1. Marketing에 로그인하고 사용자 이름 아래에서 [내 계정]을 선택합니다.
+1. Marketing에 로그인하고 사용자 이름 아래에서 **내 계정**&#x200B;을 선택합니다.
 
    ![](assets/myaccount.png)
 
-1. 내 계정에서 위치 설정 편집을 클릭합니다.
+1. 내 계정에서 **위치 설정 편집**&#x200B;을 클릭합니다.
 
    ![](assets/image2014-9-9-11-3a9-3a47.png)
 
-1. 언어 변경을 참조하십시오.
+1. **언어**&#x200B;를 변경합니다.
 
    ![](assets/image2014-9-9-11-3a10-3a4.png)
 
@@ -42,15 +42,15 @@ ht-degree: 0%
    >
    >로그인 페이지의 상단에 있는 언어 드롭다운을 클릭하여 언어만 변경할 수도 있습니다.
 
-1. 로케일을 변경합니다.
+1. **로케일**&#x200B;을 변경합니다.
 
    ![](assets/image2014-9-9-11-3a10-3a29.png)
 
-1. 시간대 변경.
+1. **시간대**&#x200B;를 변경합니다.
 
    ![](assets/image2014-9-9-11-3a10-3a56.png)
 
-1. 저장을 클릭합니다.
+1. **저장**&#x200B;을 클릭합니다.
 
    ![](assets/image2014-9-9-11-3a11-3a18.png)
 
