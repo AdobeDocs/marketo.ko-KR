@@ -3,9 +3,9 @@ unique-page-id: 2360309
 description: 작업 영역 및 개인 파티션 이해 - 마케팅 문서 - 제품 설명서
 title: 작업 영역 및 개인 파티션 이해
 translation-type: tm+mt
-source-git-commit: d7d6aee63144c472e02fe0221c4a164183d04dd4
+source-git-commit: f79909ce8f2e37bf0748596774fe47ac03618696
 workflow-type: tm+mt
-source-wordcount: '511'
+source-wordcount: '514'
 ht-degree: 0%
 
 ---
@@ -17,7 +17,7 @@ ht-degree: 0%
 
 >[!CAUTION]
 >
->작업 영역은 설정하기 복잡할 수 있습니다.  [Marketing Support](http://support.marketo.com/)에 문의하여 귀하에게 적합한지 알아보십시오.
+>작업 영역은 설정하기 복잡할 수 있습니다. [Marketing Support](https://nation.marketo.com/t5/Support/ct-p/Support)에 문의하여 귀하에게 적합한지 알아보십시오.
 
 작업 영역은 프로그램, 랜딩 페이지, 이메일 등과 같은 마케팅 자산을 보유하는 Marketing의 개별 영역입니다. 여러 사람이 사용할 수 있습니다. 각 사용자는 하나 이상의 작업 영역에 액세스할 수 있습니다.
 
@@ -36,9 +36,7 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->**자세히 알아보기**
->
->[새 작업 공간](create-a-new-workspace.md)을 만드는 방법을 알아봅니다.
+>[새 작업 공간](/help/marketo/product-docs/administration/workspaces-and-person-partitions/create-a-new-workspace.md)을 만드는 방법을 알아봅니다.
 
 ## 작업 영역 간 공유 {#sharing-across-workspaces}
 
@@ -78,8 +76,8 @@ ht-degree: 0%
 * 랜딩 페이지 템플릿
 * 모델
 * 스마트 캠페인
-* [스마트 목록](../../../product-docs/core-marketo-concepts/smart-lists-and-static-lists/using-smart-lists/reference-a-list-or-smart-list-across-workspaces.md)
-* [세분화](share-segmentations-across-workspaces-and-partitions.md)
+* [스마트 목록](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/using-smart-lists/reference-a-list-or-smart-list-across-workspaces.md)
+* [세분화](/help/marketo/product-docs/administration/workspaces-and-person-partitions/share-segmentations-across-workspaces-and-partitions.md)
 * 코드 조각
 
 ## 작업 영역 간 복제 {#cloning-across-workspaces}
@@ -105,7 +103,7 @@ ht-degree: 0%
 
 ## 개인 파티션 {#person-partitions}
 
-개인 파티션은 별도의 데이터베이스와 같습니다. 각 파티션에는 중복 제거 또는 다른 파티션과 혼합하지 않는 고유한 사용자가 있습니다. 동일한 이메일 주소를 사용하여 중복 레코드를 필요로 할 수 있는 비즈니스 사용 사례가 있을 경우 [Marketing To 지원](http://support.marketo.com)에 문의하십시오.
+개인 파티션은 별도의 데이터베이스와 같습니다. 각 파티션에는 중복 제거 또는 다른 파티션과 혼합하지 않는 고유한 사용자가 있습니다. 동일한 이메일 주소를 사용하여 중복 레코드를 필요로 할 수 있는 비즈니스 사용 사례가 있을 경우 [Marketing To 지원](https://nation.marketo.com/t5/Support/ct-p/Support)에 문의하십시오.
 
 다음 구성에서 [작업 영역](create-a-new-workspace.md)에 개인 파티션을 할당할 수 있습니다.
 
@@ -115,15 +113,10 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->**예**
->
 >개인 파티션을 사용하는 이유:
 >
 >* 작업 영역에는 서로 다른 에셋뿐만 아니라 다른 사람도 공유하지 않습니다
 >* 다른 사업상의 이유로 중복
-
->
-
 
 
 >[!CAUTION]
@@ -132,7 +125,4 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->**자세히 알아보기**
->
-> [사람 파티션](create-a-person-partition.md)을 만드는 방법을 알아봅니다.
-
+>[사람 파티션](/help/marketo/product-docs/administration/workspaces-and-person-partitions/create-a-person-partition.md)을 만드는 방법을 알아봅니다.
