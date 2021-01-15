@@ -3,9 +3,9 @@ unique-page-id: 2360325
 description: 작업 영역에 대한 사용자 액세스 허용 - 마케팅 문서 - 제품 문서
 title: 작업 공간에 대한 사용자 액세스 허용
 translation-type: tm+mt
-source-git-commit: 00887ea53e395bea3a11fd28e0ac98b085ef6ed8
+source-git-commit: f79909ce8f2e37bf0748596774fe47ac03618696
 workflow-type: tm+mt
-source-wordcount: '136'
+source-wordcount: '134'
 ht-degree: 0%
 
 ---
@@ -21,15 +21,13 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->**자세히 알아보기**
->
->[작업 영역](understanding-workspaces-and-person-partitions.md)에 대해 자세히 알아보십시오.
+>[작업 영역](/help/marketo/product-docs/administration/workspaces-and-person-partitions/understanding-workspaces-and-person-partitions.md)에 대해 자세히 알아보십시오.
 
 1. 관리에서 사용자 및 역할을 클릭합니다.
 
 ![](assets/image2014-9-17-11-3a2-3a32.png)
 
-1. **Users **탭에서 사용자를 선택하고 **사용자 편집**&#x200B;을 클릭합니다.
+1. **사용자** 탭에서 사용자를 선택하고 **사용자 편집**&#x200B;을 클릭합니다.
 
    ![](assets/image2014-9-17-11-3a2-3a46.png)
 
@@ -45,5 +43,4 @@ ht-degree: 0%
 
    ![](assets/image2014-9-17-11-3a3-3a31.png)
 
-   좋아요! 이제 사용자가 로그인하면 액세스할 수 있는 모든 작업 영역이 표시됩니다.
-
+좋아요! 이제 사용자가 로그인하면 액세스할 수 있는 모든 작업 영역이 표시됩니다.
