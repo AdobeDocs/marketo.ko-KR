@@ -3,9 +3,9 @@ unique-page-id: 2360278
 description: 프로그램 채널에서 프로그램 상태 삭제 - 마케팅 문서 - 제품 설명서
 title: 프로그램 채널에서 프로그램 상태 삭제
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: f79909ce8f2e37bf0748596774fe47ac03618696
 workflow-type: tm+mt
-source-wordcount: '119'
+source-wordcount: '121'
 ht-degree: 0%
 
 ---
@@ -27,7 +27,7 @@ ht-degree: 0%
 
    ![](assets/image2014-9-24-15-3a51-3a45.png)
 
-1. ![—](assets/image2014-9-24-15-3a52-3a39.png)을 클릭하여 상태를 제거한 다음 **저장**&#x200B;을 클릭합니다.
+1. ![X 아이콘](assets/image2014-9-24-15-3a52-3a39.png)을 클릭하여 상태를 제거한 다음 **저장**&#x200B;을 클릭합니다.
 
    >[!TIP]
    >
@@ -35,4 +35,4 @@ ht-degree: 0%
 
    ![](assets/image2014-9-24-15-3a57-3a53.png)
 
-잘했다! 필요한 경우 [전체 채널](delete-a-program-channel.md)을 삭제할 수도 있습니다.
+잘했다! 필요한 경우 [전체 채널](/help/marketo/product-docs/administration/tags/delete-a-program-channel.md)을 삭제할 수도 있습니다.
