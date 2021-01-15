@@ -3,7 +3,7 @@ unique-page-id: 10099785
 description: 구독 설정 편집 - 마케팅 문서 - 제품 설명서
 title: 구독 설정 편집
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: f79909ce8f2e37bf0748596774fe47ac03618696
 workflow-type: tm+mt
 source-wordcount: '94'
 ht-degree: 0%
@@ -36,4 +36,3 @@ ht-degree: 0%
    ![](assets/image2016-5-24-10-3a40-3a6.png)
 
    짜잔! 구독에 새 이름이 있습니다.
-
