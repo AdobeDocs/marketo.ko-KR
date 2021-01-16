@@ -3,7 +3,7 @@ unique-page-id: 9437991
 description: 모바일 스마트 캠페인에 대한 트리거 및 필터 - 마케팅 문서 - 제품 설명서
 title: 모바일 스마트 캠페인에 대한 트리거 및 필터
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 4a0bd2efe99284807a46d07ffef0070d9a303631
 workflow-type: tm+mt
 source-wordcount: '818'
 ht-degree: 0%
@@ -103,7 +103,7 @@ ht-degree: 0%
 
 모바일 앱 활동 있음/있음
 
-사용자 지정 모바일 활동을 추적하는 강력한 방법을 제공합니다. Android](http://developers.marketo.com/documentation/mobile/installation-instructions-on-android) 및 iOS](http://developers.marketo.com/documentation/mobile/installation-instructions-on-ios)용 [에 대한 추적을 설정하려면 개발자와 함께 작업해야 합니다.[
+사용자 지정 모바일 활동을 추적하는 강력한 방법을 제공합니다. Android](https://developers.marketo.com/documentation/mobile/installation-instructions-on-android) 및 iOS](https://developers.marketo.com/documentation/mobile/installation-instructions-on-ios)용 [에 대한 추적을 설정하려면 개발자와 함께 작업해야 합니다.[
 
 * 모바일 앱 활동 있음 - 트리거
 
@@ -132,12 +132,14 @@ ht-degree: 0%
 >*쇼핑*&#x200B;의 작업 유형 아래에서 이 작업을 정의하는 다른 제한 사항과 함께 매우 구체적인 작업을 보여 줍니다.
 >
 >* 셔츠 샀어요
->  * 빨간색이었어요
->  * 30달러입니다
->  * 구입하는 데 20초가 걸렸다
+   >   * 빨간색이었어요
+   >   * 30달러입니다
+   >   * 구입하는 데 20초가 걸렸다
 
 
-Marketing To에서 필터가 표시되는 방식은 다음과 같습니다.   ![](assets/image2015-8-17-13-3a16-3a12.png)
+Marketing To에서 필터가 표시되는 방식은 다음과 같습니다.
+
+![](assets/image2015-8-17-13-3a16-3a12.png)
 
 >[!NOTE]
 >
@@ -192,6 +194,6 @@ Marketing To에서 필터가 표시되는 방식은 다음과 같습니다.   ![
 
 >[!MORELIKETHIS]
 >
->* [스마트 목록 필터에 제한 추가](../../../../product-docs/core-marketo-concepts/smart-lists-and-static-lists/using-smart-lists/add-a-constraint-to-a-smart-list-filter.md)
->* [스마트 목록에서 비활동 필터 사용](../../../../product-docs/core-marketo-concepts/smart-lists-and-static-lists/using-smart-lists/use-inactivity-filters-in-a-smart-list.md)
+>* [스마트 목록 필터에 제한 추가](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/using-smart-lists/add-a-constraint-to-a-smart-list-filter.md)
+>* [스마트 목록에서 비활동 필터 사용](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/using-smart-lists/use-inactivity-filters-in-a-smart-list.md)
 
