@@ -3,9 +3,9 @@ unique-page-id: 1146940
 description: 스마트 캠페인에 대한 스마트 목록 정의 | 일괄 처리 - 마케팅 문서 - 제품 설명서
 title: 스마트 캠페인에 대한 스마트 목록 정의 | 일괄 처리
 translation-type: tm+mt
-source-git-commit: 00887ea53e395bea3a11fd28e0ac98b085ef6ed8
+source-git-commit: 4a0bd2efe99284807a46d07ffef0070d9a303631
 workflow-type: tm+mt
-source-wordcount: '254'
+source-wordcount: '250'
 ht-degree: 0%
 
 ---
@@ -29,9 +29,6 @@ ht-degree: 0%
 
    >[!NOTE]
    >
-   >**미리 알림**
-   >
-   >
    >트리거를 추가하여 라이브 이벤트를 기반으로 한 번에 한 사람씩 스마트 캠페인을 실행할 수 있습니다. 이렇게 하면 스마트 캠페인이 **트리거** 모드로 전환됩니다.
 
 1. 드롭다운을 클릭하고 선택한 필터에 대한 필터 연산자를 선택합니다.
@@ -48,17 +45,12 @@ ht-degree: 0%
 
    >[!NOTE]
    >
-   >기본적으로 ALL 스마트 목록 규칙을 만족하는 사람은 자격이 있습니다. 캠페인 요구에 맞게 수정할 수 있습니다. 자세한 내용은 [복잡한 로직용 스마트 목록 규칙](../../../../product-docs/core-marketo-concepts/smart-lists-and-static-lists/using-smart-lists/using-advanced-smart-list-rule-logic.md)을 참조하십시오.
+   >기본적으로 ALL 스마트 목록 규칙을 만족하는 사람은 자격이 있습니다. 캠페인 요구에 맞게 수정할 수 있습니다. 자세한 내용은 [복잡한 로직용 스마트 목록 규칙](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/using-smart-lists/using-advanced-smart-list-rule-logic.md)을 참조하십시오.
 
-   실시간 이벤트를 한 번에 하나씩 트리거하려면 [스마트 캠페인에 대한 스마트 목록 정의 방법을 학습합니다. | 트리거](define-smart-list-for-smart-campaign-trigger.md).
+   실시간 이벤트를 한 번에 하나씩 트리거하려면 [스마트 캠페인에 대한 스마트 목록 정의 방법을 학습합니다. | 트리거](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/creating-a-smart-campaign/define-smart-list-for-smart-campaign-trigger.md).
 
-   >[!NOTE]
+   >[!MORELIKETHIS]
    >
-   >**관련 문서**
-   >
-   >    
-   >    
-   >    * [스마트 캠페인에 대한 스마트 목록 정의 | 트리거](define-smart-list-for-smart-campaign-trigger.md)
-   >    * [스마트 캠페인에 흐름 단계 추가](../../../../product-docs/core-marketo-concepts/smart-campaigns/flow-actions/add-a-flow-step-to-a-smart-campaign.md)
-
+   >* [스마트 캠페인에 대한 스마트 목록 정의 | 트리거](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/creating-a-smart-campaign/define-smart-list-for-smart-campaign-trigger.md)
+   >* [스마트 캠페인에 흐름 단계 추가](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/add-a-flow-step-to-a-smart-campaign.md)
 
