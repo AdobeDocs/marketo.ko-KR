@@ -3,9 +3,9 @@ unique-page-id: 7514898
 description: '"Campaign is Requested" - Marketing To Docs - 제품 설명서를 사용하여 영업을 위한 트리거 스마트 캠페인 설정'
 title: '"캠페인이 요청됨"을 사용하여 영업을 위한 트리거 스마트 캠페인 설정'
 translation-type: tm+mt
-source-git-commit: d7d6aee63144c472e02fe0221c4a164183d04dd4
+source-git-commit: 4a0bd2efe99284807a46d07ffef0070d9a303631
 workflow-type: tm+mt
-source-wordcount: '289'
+source-wordcount: '288'
 ht-degree: 0%
 
 ---
@@ -16,8 +16,6 @@ ht-degree: 0%
 Marketing의 가장 멋진 기능 중 하나는 세일즈 사용자가 마케팅 활동에 참여할 수 있도록 하는 기능입니다. 그들은 사람들과 교류하며 최전선에 있습니다. 세일즈 담당자는 올바른 방향으로 마케팅을 전개할 수 있어야 합니다.
 
 >[!NOTE]
->
->**예**
 >
 >요청할 스마트 캠페인의 예:
 >
@@ -32,7 +30,7 @@ Marketing의 가장 멋진 기능 중 하나는 세일즈 사용자가 마케팅
 
    ![](assets/image2015-5-20-16-3a3-3a25.png)
 
-1. **Campaign** **is** **Requested **를 찾아 캔버스로 드래그합니다.
+1. **캠페인이 요청됨**&#x200B;을 찾아 캔버스로 드래그합니다.
 
    ![](assets/campaignfilterdrag.png)
 
@@ -41,7 +39,6 @@ Marketing의 가장 멋진 기능 중 하나는 세일즈 사용자가 마케팅
    >[!TIP]
    >
    >소스 연산자는 보안을 위한 것입니다. 다른 스마트 캠페인 또는 개발자와 같이 특정 소스에서만 수행하는 요청으로 캠페인을 제한할 수 있습니다. 모든 소스의 요청을 허용하려면 첫 번째 상자에서 **Is Any**&#x200B;를 선택합니다.
-   >
    >
    >**Sales Insight를 선택하면 영업 상자 안에 마법처럼 나타납니다**. 너무 무리하지 마세요. 너무 많은 사람들이 그들에게 무시될 것이다.
 
@@ -52,4 +49,3 @@ Marketing의 가장 멋진 기능 중 하나는 세일즈 사용자가 마케팅
 >[!TIP]
 >
 >스마트한 캠페인 이름을 명확하게 지정하는 것을 잊지 마십시오. 이름을 정확하게 지정하는 방법을 Sales Insight에 확인할 수 있습니다.
-
