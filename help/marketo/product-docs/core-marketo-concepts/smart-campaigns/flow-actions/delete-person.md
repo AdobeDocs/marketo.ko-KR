@@ -3,7 +3,7 @@ unique-page-id: 1147082
 description: 사람 삭제 - 마케팅 문서 - 제품 설명서
 title: 사람 삭제
 translation-type: tm+mt
-source-git-commit: d7d6aee63144c472e02fe0221c4a164183d04dd4
+source-git-commit: 4a0bd2efe99284807a46d07ffef0070d9a303631
 workflow-type: tm+mt
 source-wordcount: '125'
 ht-degree: 0%
@@ -38,4 +38,3 @@ ht-degree: 0%
 >[!NOTE]
 >
 >CRM **에서 인물을 제거하면 Salesforce**&#x200B;에서만 작동합니다. Marketing에서 사용자를 삭제하고 Salesforce에 유지하도록 선택하면 Salesforce 레코드가 업데이트되면 Marketing Cloud에서 다시 생성됩니다.
-
