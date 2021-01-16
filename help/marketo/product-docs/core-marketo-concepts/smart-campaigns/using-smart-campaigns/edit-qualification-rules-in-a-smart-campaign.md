@@ -3,9 +3,9 @@ unique-page-id: 1146974
 description: 스마트 캠페인에서 자격 조건 규칙 편집 - 마케팅 문서 - 제품 설명서
 title: 스마트 캠페인에서 자격 조건 규칙 편집
 translation-type: tm+mt
-source-git-commit: d7d6aee63144c472e02fe0221c4a164183d04dd4
+source-git-commit: 4a0bd2efe99284807a46d07ffef0070d9a303631
 workflow-type: tm+mt
-source-wordcount: '215'
+source-wordcount: '212'
 ht-degree: 0%
 
 ---
@@ -23,7 +23,7 @@ ht-degree: 0%
    >
    >&quot;스마트 캠페인 설정&quot; 오른쪽에 있는 **편집**&#x200B;을 클릭할 수도 있습니다.
 
-1. 스마트한 캠페인 흐름을 통해 사용자를 실행하는 빈도를 선택합니다.**매 #**, **번** 또는 **에 한 번만&lt;a4/>일**/**주**/**개월**&#x200B;에 한 번
+1. 스마트한 캠페인 흐름을 통해 사용자를 실행하는 빈도를 선택합니다.**매 #**, **번** 또는 **에 한 번만일**/**주**/**개월**&#x200B;에 한 번
 
    ![](assets/edit-qualification-rules-in-a-smart-campaign.png)
 
@@ -33,18 +33,10 @@ ht-degree: 0%
 
    >[!NOTE]
    >
-   >**미리 알림**
-   >
-   >
-   >통신 제한은 기본적으로 스마트 캠페인에 적용되지 않습니다. [통신 제한을 스마트 캠페인](apply-communication-limits-to-smart-campaign.md)에 적용하는 방법을 알아봅니다.
+   >통신 제한은 기본적으로 스마트 캠페인에 적용되지 않습니다. [통신 제한을 스마트 캠페인](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/using-smart-campaigns/apply-communication-limits-to-smart-campaign.md)에 적용하는 방법을 알아봅니다.
 
    >[!NOTE]
    >
-   >**관련 문서**
-   >
-   >    
-   >    
-   >    * [스마트 캠페인에 통신 제한 적용](apply-communication-limits-to-smart-campaign.md)
-
+   >[스마트 캠페인에 통신 제한 적용](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/using-smart-campaigns/apply-communication-limits-to-smart-campaign.md)
 
 임무 완수! 이제 스마트 캠페인에서 자격 규칙을 제어하는 방법을 알 수 있습니다.
