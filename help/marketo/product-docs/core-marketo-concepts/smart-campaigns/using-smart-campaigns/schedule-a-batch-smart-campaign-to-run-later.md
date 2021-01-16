@@ -3,9 +3,9 @@ unique-page-id: 1146970
 description: 나중에 실행하도록 일괄 스마트 캠페인 예약 - 마케팅 문서 - 제품 설명서
 title: 나중에 실행하도록 일괄 스마트 캠페인 예약
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: 4a0bd2efe99284807a46d07ffef0070d9a303631
 workflow-type: tm+mt
-source-wordcount: '133'
+source-wordcount: '131'
 ht-degree: 0%
 
 ---
@@ -17,7 +17,7 @@ ht-degree: 0%
 
 >[!TIP]
 >
->프로그램 일정 보기[에서 일괄 처리 스마트 캠페인을 다시 예약할 수도 있습니다.](../../../../product-docs/core-marketo-concepts/programs/program-schedule-view/reschedule-a-batch-smart-campaign-in-the-program-schedule-view.md)
+>프로그램 일정 보기](/help/marketo/product-docs/core-marketo-concepts/programs/program-schedule-view/reschedule-a-batch-smart-campaign-in-the-program-schedule-view.md)에서 일괄 처리 스마트 캠페인을 다시 예약할 수도 있습니다.[
 
 1. 실행할 일괄 처리 스마트 캠페인을 선택하고 **예약** 탭으로 이동한 다음 **한 번 실행**&#x200B;을 클릭합니다.
 
@@ -41,10 +41,4 @@ ht-degree: 0%
 
    >[!NOTE]
    >
-   >**관련 문서**
-   >
-   >    
-   >    
-   >    * [반복 배치 캠페인 예약](schedule-a-recurring-batch-campaign.md)
-
-
+   >[반복 배치 캠페인 예약](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/using-smart-campaigns/schedule-a-recurring-batch-campaign.md)
