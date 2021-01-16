@@ -3,7 +3,7 @@ unique-page-id: 2951703
 description: 요청 캠페인 - 마케팅 문서 - 제품 설명서
 title: 캠페인 요청
 translation-type: tm+mt
-source-git-commit: d7d6aee63144c472e02fe0221c4a164183d04dd4
+source-git-commit: 4a0bd2efe99284807a46d07ffef0070d9a303631
 workflow-type: tm+mt
 source-wordcount: '117'
 ht-degree: 0%
@@ -17,7 +17,7 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->사람을 배치하려는 캠페인은 활성 상태여야 하며 [캠페인이 요청](../../../../product-docs/core-marketo-concepts/smart-campaigns/using-smart-campaigns/setting-up-a-trigger-smart-campaign-for-sales-using-campaign-is-requested.md)** 트리거여야 합니다.
+>사람을 배치하려는 캠페인은 활성 상태여야 하며 **[캠페인이 요청](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/using-smart-campaigns/setting-up-a-trigger-smart-campaign-for-sales-using-campaign-is-requested.md)** 트리거여야 합니다.
 
 1. **데이터베이스**&#x200B;에서 원하는 사람/사람을 찾아 선택합니다.
 
@@ -44,4 +44,3 @@ ht-degree: 0%
 >[!TIP]
 >
 >**캠페인이 요청됨** 트리거 또는 필터를 사용하여 이 흐름 단계의 영향을 받는 사람을 찾습니다.
-
