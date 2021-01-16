@@ -3,7 +3,7 @@ unique-page-id: 1147049
 description: 스마트 캠페인 이름 바꾸기 - 마케팅 문서 - 제품 설명서
 title: 스마트 캠페인 이름 바꾸기
 translation-type: tm+mt
-source-git-commit: c33b7ab59e612f37d3f64bb954579700dc574068
+source-git-commit: 4a0bd2efe99284807a46d07ffef0070d9a303631
 workflow-type: tm+mt
 source-wordcount: '87'
 ht-degree: 0%
@@ -15,7 +15,7 @@ ht-degree: 0%
 
 기존 스마트 캠페인의 이름을 변경할 수 있습니다. 방법
 
-1. 마케팅 활동으로 이동합니다.
+1. **마케팅 활동**&#x200B;으로 이동합니다.
 
    ![](assets/login-marketing-activities.png)
 
@@ -27,7 +27,7 @@ ht-degree: 0%
    >
    >프로그램 내의 스마트 캠페인 이름은 항상 &#39;ProgramName.CampaignName&#39; 형식으로 변환됩니다.
 
-1. 새 스마트 캠페인 이름을 입력하고 저장을 클릭합니다.
+1. 새 스마트 캠페인 이름을 입력하고 **저장**&#x200B;을 클릭합니다.
 
    ![](assets/rename-cursorandhand.png)
 
