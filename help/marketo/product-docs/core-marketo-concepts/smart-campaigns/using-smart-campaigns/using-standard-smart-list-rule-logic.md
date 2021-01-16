@@ -3,7 +3,7 @@ unique-page-id: 1147001
 description: 표준 스마트 목록 규칙 논리 사용 - 마케팅 문서 - 제품 설명서
 title: 표준 스마트 목록 규칙 논리 사용
 translation-type: tm+mt
-source-git-commit: d7d6aee63144c472e02fe0221c4a164183d04dd4
+source-git-commit: 4a0bd2efe99284807a46d07ffef0070d9a303631
 workflow-type: tm+mt
 source-wordcount: '129'
 ht-degree: 0%
@@ -26,13 +26,20 @@ ht-degree: 0%
 ![](assets/image2014-9-22-14-3a12-3a57.png)
 
 위의 고급 목록은 다음과 같습니다.
-따라서 `<pre data-theme="Confluence">IF person fills out My Form OR IF person visits My Page AND Industry is Marketing AND Country is USA THEN follow the campaign's flow step(s)</pre>` 사용자가 **또는** 양식을 작성하면 캠페인은 사용된 설정에 따라 후속 필터**all 또는 **any**를 기준으로 해당 사람을 평가합니다.
+
+```box
+IF person fills out My Form
+OR
+IF person visits My Page 
+AND 
+Industry is Marketing 
+AND 
+Country is USA 
+THEN follow the campaign's flow step(s)
+```
+
+따라서 사용자가 **또는** 양식을 채우는 경우 캠페인은 사용된 설정에 따라 후속 필터의 **모두** 또는 **모두**&#x200B;를 기준으로 해당 사람을 평가합니다.
 
 >[!MORELIKETHIS]
 >
->* [고급 스마트 목록 규칙 논리 사용](../../../../product-docs/core-marketo-concepts/smart-lists-and-static-lists/using-smart-lists/using-advanced-smart-list-rule-logic.md)
-
->
-
-
-
+>[고급 스마트 목록 규칙 논리 사용](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/using-smart-lists/using-advanced-smart-list-rule-logic.md)
