@@ -3,7 +3,7 @@ unique-page-id: 1146962
 description: 점수 변경 - 마케팅 문서 - 제품 설명서
 title: 점수 변경
 translation-type: tm+mt
-source-git-commit: 00887ea53e395bea3a11fd28e0ac98b085ef6ed8
+source-git-commit: 4a0bd2efe99284807a46d07ffef0070d9a303631
 workflow-type: tm+mt
 source-wordcount: '94'
 ht-degree: 0%
@@ -27,7 +27,7 @@ ht-degree: 0%
 
    >[!TIP]
    >
-   >여러 점수 필드를 만들 수 있습니다. 자세한 내용은 [Marketing](../../../../product-docs/administration/field-management/create-a-custom-field-in-marketo.md)에서 사용자 정의 필드 만들기를 참조하십시오.
+   >여러 점수 필드를 만들 수 있습니다. 자세한 내용은 [Marketing](/help/marketo/product-docs/administration/field-management/create-a-custom-field-in-marketo.md)에서 사용자 정의 필드 만들기를 참조하십시오.
 
 1. 원하는 점수 변경을 입력합니다.
 
@@ -39,6 +39,4 @@ ht-degree: 0%
    * **-5** 가 감소합니다(음수 허용).
    * **5는 정확한** 수치를 나타냅니다.
    * **=-5** 는 정확한 음수를 반환합니다.
-
    몇 가지 기본 점수를 신속하게 받은 다음 시간에 따라 결과를 수정할 수 있습니다. 그게 우리가 한 일이야!
-
