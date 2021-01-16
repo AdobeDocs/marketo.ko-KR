@@ -1,17 +1,17 @@
 ---
 unique-page-id: 557333
-description: 흐름 단계에서 "선택 추가" 순서 바꾸기 - 마케팅 문서 - 제품 설명서
-title: 흐름 단계에서 "선택 추가" 순서 바꾸기
+description: 흐름 단계에서 선택 항목 추가 순서 바꾸기 - 마케팅 문서 - 제품 설명서
+title: 플로우 단계에서 선택 추가 순서 변경
 translation-type: tm+mt
-source-git-commit: 00887ea53e395bea3a11fd28e0ac98b085ef6ed8
+source-git-commit: 4a0bd2efe99284807a46d07ffef0070d9a303631
 workflow-type: tm+mt
-source-wordcount: '171'
+source-wordcount: '183'
 ht-degree: 0%
 
 ---
 
 
-# 흐름 단계 {#reorder-add-choice-in-a-flow-step}에서 &quot;선택 추가&quot;의 순서 변경
+# 흐름 단계 {#reorder-add-choice-in-a-flow-step}에서 선택 추가 순서 변경
 
 첫 번째 일치 선택 사항만 사람에게만 적용되므로 주문이 중요합니다. 흐름 단계에서 설정된 조건의 순서를 변경하려면 다음 방법을 사용합니다.
 
@@ -25,10 +25,14 @@ ht-degree: 0%
    >
    >순서를 변경할 때 **위로 이동**, **아래로 이동** 또는 **이동**&#x200B;할 수 있습니다.
 
-   ![](assets/two.png) ![](assets/three.png)
+   ![](assets/two.png)
+
+   잘했어! 이제 한 번에 위/아래로 선택하는 방법을 알 수 있습니다. 바로 그거야! 플로우 단계 선택의 순서를 손쉽게 재구성할 수 있습니다.
+
+   ![](assets/three.png)
 
 1. 여러 가지 선택 사항이 있고 한 개의 수준을 위 또는 아래로 이동해야 하는 경우 이 대체 방법을 사용하여 시간을 절약할 수 있습니다. 이동할 항목을 클릭한 다음 **이동** 아래에서 선택한 위치로 슬라이더를 드래그합니다.
 
    ![](assets/four.png)
 
-잘했어! 이제 한 번에 위/아래로 선택하는 방법을 알 수 있습니다. 바로 그거야! 플로우 단계 선택의 순서를 손쉽게 재구성할 수 있습니다.
+플로우 단계 선택의 순서를 손쉽게 재구성할 수 있습니다.
