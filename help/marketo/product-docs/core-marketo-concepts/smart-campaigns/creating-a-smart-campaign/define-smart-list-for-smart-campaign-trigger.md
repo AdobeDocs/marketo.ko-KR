@@ -3,9 +3,9 @@ unique-page-id: 1146942
 description: 스마트 캠페인에 대한 스마트 목록 정의 | 트리거 - 마케팅 문서 - 제품 설명서
 title: 스마트 캠페인에 대한 스마트 목록 정의 | 트리거
 translation-type: tm+mt
-source-git-commit: 00887ea53e395bea3a11fd28e0ac98b085ef6ed8
+source-git-commit: 4a0bd2efe99284807a46d07ffef0070d9a303631
 workflow-type: tm+mt
-source-wordcount: '207'
+source-wordcount: '198'
 ht-degree: 0%
 
 ---
@@ -15,7 +15,7 @@ ht-degree: 0%
 
 트리거를 추가하여 라이브 이벤트를 기반으로 한 번에 한 사람씩 스마트 캠페인을 실행할 수 있습니다.
 
-1. 스마트 캠페인에서 **스마트 목록 ** 탭을 클릭합니다.
+1. 스마트 캠페인에서 **스마트 목록** 탭을 클릭합니다.
 
    ![](assets/image2014-9-19-16-3a22-3a55.png)
 
@@ -47,16 +47,8 @@ ht-degree: 0%
    >
    >트리거가 여러 개인 경우 트리거가 활성화된 경우 **ANY** 중 하나가 활성화되면 사람이 흐름을 거칩니다.
 
-   [스마트 캠페인에 대한 스마트 목록 정의 | 일괄 처리](define-smart-list-for-smart-campaign-batch.md)
+모든 사람 세트에서 동시에 캠페인을 실행하려면 [스마트 캠페인에 대한 스마트 목록 정의 방법을 알아봅니다. | 일괄 처리](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/creating-a-smart-campaign/define-smart-list-for-smart-campaign-batch.md).
 
-   >[!NOTE]
-   >
-   >**관련 문서**
-   >
-   >    
-   >    
-   >    * [스마트 캠페인에 대한 스마트 목록 정의 | 일괄 처리](define-smart-list-for-smart-campaign-batch.md)
-   >    * [스마트 캠페인에 흐름 단계 추가](../../../../product-docs/core-marketo-concepts/smart-campaigns/flow-actions/add-a-flow-step-to-a-smart-campaign.md)
-
-
-여러 사람 집합에서 동시에 캠페인을 실행하려면 방법을 알아보십시오.
+>[!MORELIKETHIS]
+>
+>[스마트 캠페인에 흐름 단계 추가](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/add-a-flow-step-to-a-smart-campaign.md)
