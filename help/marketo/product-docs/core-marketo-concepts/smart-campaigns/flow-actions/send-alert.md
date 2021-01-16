@@ -3,9 +3,9 @@ unique-page-id: 1146958
 description: 경고 보내기 - Marketing To Docs - 제품 문서
 title: 경고 보내기
 translation-type: tm+mt
-source-git-commit: d7d6aee63144c472e02fe0221c4a164183d04dd4
+source-git-commit: 4a0bd2efe99284807a46d07ffef0070d9a303631
 workflow-type: tm+mt
-source-wordcount: '169'
+source-wordcount: '167'
 ht-degree: 0%
 
 ---
@@ -27,8 +27,6 @@ Marketing에서는 판매 소유자, 파트너 또는 다른 사람 등 개인 �
 
    >[!NOTE]
    >
-   >**미리 알림**
-   >
    >이메일 경고는 모든 헤더 정보를 포함하고 **승인됨** 상태여야 합니다.
 
 1. 미리 보기 아이콘을 클릭하여 올바른 이메일을 선택했는지 확인할 수 있습니다.
@@ -36,8 +34,6 @@ Marketing에서는 판매 소유자, 파트너 또는 다른 사람 등 개인 �
    ![](assets/three-1.png)
 
    >[!NOTE]
-   >
-   >**미리 알림**
    >
    >이메일에 **경고 정보 보내기** 토큰을 사용하십시오.
 
@@ -57,5 +53,4 @@ Marketing에서는 판매 소유자, 파트너 또는 다른 사람 등 개인 �
 
 >[!MORELIKETHIS]
 >
->[이메일 만들기](../../../../product-docs/email-marketing/general/creating-an-email/create-an-email.md)
-
+>[이메일 만들기](/help/marketo/product-docs/email-marketing/general/creating-an-email/create-an-email.md)
