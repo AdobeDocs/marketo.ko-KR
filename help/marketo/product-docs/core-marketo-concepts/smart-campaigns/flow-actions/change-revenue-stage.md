@@ -3,7 +3,7 @@ unique-page-id: 1147080
 description: 매출 단계 변경 - 마케팅 문서 - 제품 설명서
 title: 매출 단계 변경
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: 4a0bd2efe99284807a46d07ffef0070d9a303631
 workflow-type: tm+mt
 source-wordcount: '77'
 ht-degree: 0%
@@ -32,4 +32,3 @@ ht-degree: 0%
    >[!CAUTION]
    >
    >데이터 웨어하우스에서는 리드가 단계 간에 이동할 때 주의를 기울입니다. 잘못 사용될 경우 잘못된 데이터가 생성될 수 있습니다.
-
