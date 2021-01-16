@@ -3,9 +3,9 @@ unique-page-id: 1146985
 description: 스마트 캠페인 - 마케팅 문서 - 제품 문서에서 흐름 단계 순서 바꾸기
 title: 스마트 캠페인에서 흐름 단계 순서 바꾸기
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 4a0bd2efe99284807a46d07ffef0070d9a303631
 workflow-type: tm+mt
-source-wordcount: '97'
+source-wordcount: '96'
 ht-degree: 0%
 
 ---
@@ -17,19 +17,13 @@ ht-degree: 0%
 
 >[!PREREQUISITES]
 >
->* [스마트 캠페인에 흐름 단계 추가](../../../../../product-docs/core-marketo-concepts/smart-campaigns/flow-actions/add-a-flow-step-to-a-smart-campaign.md)
-
->
-
-
+>[스마트 캠페인에 흐름 단계 추가](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/add-a-flow-step-to-a-smart-campaign.md)
 
 1. 스마트 캠페인 흐름 탭에서 흐름 단계를 원하는 위치로 드래그하여 놓습니다.
 
 ![](assets/image2014-9-22-13-3a49-3a11.png)
 
 >[!NOTE]
->
->**미리 알림**
 >
 >흐름 단계는 흐름에 나타나는 순서대로 실행됩니다.
 
