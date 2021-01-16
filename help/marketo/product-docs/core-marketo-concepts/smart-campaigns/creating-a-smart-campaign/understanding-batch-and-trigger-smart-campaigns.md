@@ -3,9 +3,9 @@ unique-page-id: 2953132
 description: 일괄 처리 이해 및 스마트 캠페인 트리거 - 마케팅 문서 - 제품 설명서
 title: 일괄 처리 이해 및 스마트 캠페인 트리거
 translation-type: tm+mt
-source-git-commit: d7d6aee63144c472e02fe0221c4a164183d04dd4
+source-git-commit: 4a0bd2efe99284807a46d07ffef0070d9a303631
 workflow-type: tm+mt
-source-wordcount: '283'
+source-wordcount: '273'
 ht-degree: 0%
 
 ---
@@ -34,8 +34,7 @@ ht-degree: 0%
 **스마트 캠페인 일괄 처리**
 
 * 일별, 주별, 월별 등 반복용으로 예약할 수 있습니다. 한 번만 실행하면 됩니다.
-* [프로그램 일정 보기](../../../../product-docs/core-marketo-concepts/programs/program-schedule-view/navigating-the-program-schedule-view.md)에 표시됩니다.\
-   *스마트 캠페인 내의 &quot;대기&quot; 단계 이후의 모든 것은 보기에 포함되지 않습니다.
+* [프로그램 일정 보기](/help/marketo/product-docs/core-marketo-concepts/programs/program-schedule-view/navigating-the-program-schedule-view.md)에 표시됩니다. 스마트 캠페인 내의 &quot;대기&quot; 단계 이후의 모든 항목은 보기에 포함되지 않습니다.
 
 <br> 
 
@@ -60,11 +59,6 @@ ht-degree: 0%
 * 재귀용으로 예약할 수 없습니다. 활성 또는 비활성 상태로만 설정할 수 있습니다.
 * 둘 이상의 트리거를 설정할 수 있습니다. 하지만 트리거가 실행되면 캠페인 작업이 실행됩니다.
 
-## 트리거된 이메일 캠페인 만들기에 대한 비디오 보기 {#watch-a-video-on-creating-triggered-email-campaigns}
-
-`<iframe width="630" height="470" src="//play.vidyard.com/6zNazwTgt2LNeCjPAt3W9K.html?v=3.1.1" frameborder="0" allowfullscreen></iframe>`
-
 >[!TIP]
 >
->[활동 로그](../../../../product-docs/core-marketo-concepts/smart-lists-and-static-lists/managing-people-in-smart-lists/locate-the-activity-log-for-a-person.md)를 사용하여 스마트 캠페인 내에서 단계별로 발생한 상황을 확인합니다. 개인 세부 정보 페이지의 마지막 탭에서 활동 로그를 찾을 수 있습니다.
-
+>[활동 로그](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/managing-people-in-smart-lists/locate-the-activity-log-for-a-person.md)를 사용하여 스마트 캠페인 내에서 단계별로 발생한 상황을 확인합니다. 개인 세부 정보 페이지의 마지막 탭에서 활동 로그를 찾을 수 있습니다.
