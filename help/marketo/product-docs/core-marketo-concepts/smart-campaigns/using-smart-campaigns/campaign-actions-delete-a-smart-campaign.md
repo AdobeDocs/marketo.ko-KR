@@ -3,9 +3,9 @@ unique-page-id: 1147055
 description: 캠페인 작업 - 스마트 캠페인 삭제 - 마케팅 문서 - 제품 설명서
 title: 캠페인 작업 - 스마트 캠페인 삭제
 translation-type: tm+mt
-source-git-commit: 96cc6a30c63c8e8dca793a52e4bf7ecaef8c08dc
+source-git-commit: 4a0bd2efe99284807a46d07ffef0070d9a303631
 workflow-type: tm+mt
-source-wordcount: '115'
+source-wordcount: '114'
 ht-degree: 0%
 
 ---
@@ -27,7 +27,7 @@ ht-degree: 0%
 
    >[!TIP]
    >
-   >활성 스마트 캠페인을 모두 삭제하지 않고 처리를 취소하려면, 스마트 캠페인](abort-a-smart-campaign.md)을(를) [중단시키는 방법을 학습합니다.
+   >활성 스마트 캠페인을 모두 삭제하지 않고 처리를 취소하려면, 스마트 캠페인](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/using-smart-campaigns/abort-a-smart-campaign.md)을(를) [중단시키는 방법을 학습합니다.
 
    ![](assets/image2014-9-22-16-3a41-3a55.png)
 
@@ -38,5 +38,3 @@ ht-degree: 0%
    >[!CAUTION]
    >
    >흐름 단계에 있는 사람들과 함께 활성 스마트 캠페인을 **NOT** 삭제하십시오. 캠페인은 여전히 실행될 가능성이 있습니다.
-
-좋아!
