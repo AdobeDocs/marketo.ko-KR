@@ -3,7 +3,7 @@ unique-page-id: 1146972
 description: 반복 배치 캠페인 예약 - 마케팅 문서 - 제품 설명서
 title: 반복 배치 캠페인 예약
 translation-type: tm+mt
-source-git-commit: c33b7ab59e612f37d3f64bb954579700dc574068
+source-git-commit: 4a0bd2efe99284807a46d07ffef0070d9a303631
 workflow-type: tm+mt
 source-wordcount: '134'
 ht-degree: 0%
@@ -15,11 +15,11 @@ ht-degree: 0%
 
 반복을 사용하면 정기적으로 일괄 스마트 캠페인을 실행할 수 있습니다. 예 - 일주일에 한 번, 월요일은 오후 12:00입니다.
 
-1. 캠페인을 선택하고 예약 탭으로 이동한 다음 되풀이 예약을 클릭합니다.
+1. 캠페인을 선택하고 예약 탭으로 이동한 다음 **되풀이 예약**&#x200B;을 클릭합니다.
 
    ![](assets/recurrencehands-sendemail.png)
 
-1. 예약 드롭다운을 클릭하고 주별을 선택합니다.
+1. 예약 드롭다운을 클릭하고 **주별**&#x200B;을 선택합니다.
 
    ![](assets/image2014-9-22-11-3a41-3a42.png)
 
@@ -31,7 +31,7 @@ ht-degree: 0%
 
    ![](assets/image2014-9-22-11-3a41-3a49.png)
 
-1. 반복을 1로 유지하고 월요일을 선택하고 저장을 클릭합니다.
+1. [반복]을 1로 유지하고 월요일을 선택하고 **저장**&#x200B;을 클릭합니다.
 
    ![](assets/image2014-9-22-11-3a41-3a53.png)
 
