@@ -3,7 +3,7 @@ unique-page-id: 6094949
 description: 스마트 캠페인 이동 - 마케팅 문서 - 제품 설명서
 title: 스마트 캠페인 이동
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: 4a0bd2efe99284807a46d07ffef0070d9a303631
 workflow-type: tm+mt
 source-wordcount: '140'
 ht-degree: 0%
@@ -54,4 +54,3 @@ ht-degree: 0%
    하이 파이브! 이 스마트 캠페인은 이동되었습니다.
 
    ![](assets/image2015-2-25-13-39-51-copy-281-29.png)
-
