@@ -3,9 +3,9 @@ unique-page-id: 1146931
 description: 새 스마트 캠페인 만들기 - 마케팅 문서 - 제품 설명서
 title: 새 스마트 캠페인 만들기
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: 4a0bd2efe99284807a46d07ffef0070d9a303631
 workflow-type: tm+mt
-source-wordcount: '135'
+source-wordcount: '131'
 ht-degree: 0%
 
 ---
@@ -17,9 +17,7 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->**자세히 알아보기**
->
->스마트한 캠페인 여기에 [여기에 ](../../../../product-docs/core-marketo-concepts/smart-campaigns/understanding-smart-campaigns.md)에 대해 자세히 알아보십시오.
+>스마트한 캠페인 여기에 [여기에 ](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/understanding-smart-campaigns.md)에 대해 자세히 알아보십시오.
 
 1. **마케팅 활동**&#x200B;으로 이동합니다.
 
@@ -43,13 +41,8 @@ ht-degree: 0%
 
    멋지다! 다음으로 스마트 목록을 사용하여 스마트 캠페인을 통해 실행할 사람을 정의하는 방법을 알아봅니다.
 
-   >[!NOTE]
+   >[!MORELIKETHIS]
    >
-   >**관련 문서**
-   >
-   >    
-   >    
-   >    * [스마트 캠페인에 대한 스마트 목록 정의 | 일괄 처리](define-smart-list-for-smart-campaign-batch.md)
-   >    * [스마트 캠페인에 대한 스마트 목록 정의 | 트리거](define-smart-list-for-smart-campaign-trigger.md)
-
+   >* [스마트 캠페인에 대한 스마트 목록 정의 | 일괄 처리](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/creating-a-smart-campaign/define-smart-list-for-smart-campaign-batch.md)
+   >* [스마트 캠페인에 대한 스마트 목록 정의 | 트리거](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/creating-a-smart-campaign/define-smart-list-for-smart-campaign-trigger.md)
 
