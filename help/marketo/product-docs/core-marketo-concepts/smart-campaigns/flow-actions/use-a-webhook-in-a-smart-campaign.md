@@ -3,9 +3,9 @@ unique-page-id: 1147025
 description: 스마트 캠페인에서 웹 후크 사용 - 마케팅 문서 - 제품 설명서
 title: 스마트 캠페인에서 웹 후크 사용
 translation-type: tm+mt
-source-git-commit: 00887ea53e395bea3a11fd28e0ac98b085ef6ed8
+source-git-commit: 4a0bd2efe99284807a46d07ffef0070d9a303631
 workflow-type: tm+mt
-source-wordcount: '106'
+source-wordcount: '105'
 ht-degree: 0%
 
 ---
@@ -13,15 +13,13 @@ ht-degree: 0%
 
 # 스마트 캠페인 {#use-a-webhook-in-a-smart-campaign}에서 웹 후크 사용
 
-[웹후크](http://developers.marketo.com/documentation/webhooks/)를 사용하려면 [스마트 캠페인](add-a-flow-step-to-a-smart-campaign.md)에 흐름 작업으로 추가합니다.
+[웹후크](http://developers.marketo.com/documentation/webhooks/)를 사용하려면 [스마트 캠페인](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/add-a-flow-step-to-a-smart-campaign.md)에 흐름 작업으로 추가합니다.
 
->[!NOTE]
->
->**가용성**
+>[!AVAILABILITY]
 >
 >모든 고객이 이 기능을 구입하지는 않았습니다. 자세한 내용은 영업 담당자에게 문의하십시오.
 
-1. [스마트 캠페인](../../../../product-docs/core-marketo-concepts/smart-campaigns/creating-a-smart-campaign/create-a-new-smart-campaign.md) 만들기
+1. [스마트 캠페인](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/creating-a-smart-campaign/create-a-new-smart-campaign.md) 만들기
 
    >[!NOTE]
    >
@@ -42,4 +40,3 @@ ht-degree: 0%
 1. 마지막으로 흐름 단계에서 **선택 추가**&#x200B;에 Webhook을 사용할 수 있습니다.
 
    ![](assets/image2014-9-22-15-3a8-3a13.png)
-
