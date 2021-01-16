@@ -3,9 +3,9 @@ unique-page-id: 1147084
 description: 흐름에서 제거 - 마케팅 문서 - 제품 설명서
 title: 흐름에서 제거
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: 4a0bd2efe99284807a46d07ffef0070d9a303631
 workflow-type: tm+mt
-source-wordcount: '161'
+source-wordcount: '160'
 ht-degree: 0%
 
 ---
@@ -37,7 +37,4 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->**미리 알림**
->
 >이 기능은 스마트 캠페인의 흐름 단계 내에서 사용되도록 되어 있습니다.
-
