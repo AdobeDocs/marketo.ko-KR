@@ -3,9 +3,9 @@ unique-page-id: 1146989
 description: 캠페인 작업 - 스마트 캠페인 복제 - 마케팅 문서 - 제품 설명서
 title: 캠페인 작업 - 스마트 캠페인 복제
 translation-type: tm+mt
-source-git-commit: 96cc6a30c63c8e8dca793a52e4bf7ecaef8c08dc
+source-git-commit: 4a0bd2efe99284807a46d07ffef0070d9a303631
 workflow-type: tm+mt
-source-wordcount: '95'
+source-wordcount: '90'
 ht-degree: 0%
 
 ---
@@ -19,7 +19,7 @@ ht-degree: 0%
 
    ![](assets/image2014-9-22-13-3a56-3a34.png)
 
-1. 적절한 **복제할 대상 ** 옵션을 선택합니다. 이 예에서 **프로그램**&#x200B;을 선택합니다.
+1. 적절한 **클론 대상** 옵션을 선택합니다. 이 예에서 **프로그램**&#x200B;을 선택합니다.
 
    ![](assets/image2014-9-22-13-3a56-3a56.png)
 
@@ -27,5 +27,4 @@ ht-degree: 0%
 
    ![](assets/image2014-9-22-13-3a57-3a9.png)
 
-   완료! 열심히 하지 말고, 똑똑히 일해라.
-
+완료!
