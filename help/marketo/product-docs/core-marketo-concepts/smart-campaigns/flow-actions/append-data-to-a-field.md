@@ -3,7 +3,7 @@ unique-page-id: 1147042
 description: 필드에 데이터 추가 - 마케팅 문서 - 제품 설명서
 title: 필드에 데이터 추가
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 4a0bd2efe99284807a46d07ffef0070d9a303631
 workflow-type: tm+mt
 source-wordcount: '99'
 ht-degree: 0%
@@ -17,11 +17,7 @@ ht-degree: 0%
 
 >[!PREREQUISITES]
 >
->* [캠페인 만들기](../../../../product-docs/core-marketo-concepts/smart-campaigns/creating-a-smart-campaign/create-a-new-smart-campaign.md)
-
->
-
-
+>[캠페인 만들기](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/creating-a-smart-campaign/create-a-new-smart-campaign.md)
 
 1. **흐름** 탭에서 **데이터 값 변경** 흐름 단계에서 드래그합니다.
 
@@ -39,5 +35,4 @@ ht-degree: 0%
 
    ![](assets/image2014-9-22-16-3a5-3a12.png)
 
-   바로 그거야! 크리에이티브한 콘텐츠를 제작하여 여러 개의 토큰을 추가할 수 있습니다.
-
+바로 그거야! 크리에이티브한 콘텐츠를 제작하여 여러 개의 토큰을 추가할 수 있습니다.
