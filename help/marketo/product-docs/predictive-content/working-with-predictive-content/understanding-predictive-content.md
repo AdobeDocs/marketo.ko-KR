@@ -3,7 +3,7 @@ unique-page-id: 11384665
 description: 예측 컨텐츠 이해 - 마케팅 문서 - 제품 설명서
 title: 예측 컨텐츠 이해
 translation-type: tm+mt
-source-git-commit: 3c24395e55c756184615941327e15e050fa7d0ac
+source-git-commit: 40f08784ee6f7ac105ed027963c0d5a7ea812808
 workflow-type: tm+mt
 source-wordcount: '378'
 ht-degree: 0%
@@ -17,7 +17,7 @@ ht-degree: 0%
 >
 >구매 날짜에 따라 마케팅 구독에 Marketing To 예측 컨텐츠 또는 컨텐츠`<sup>AI</sup>`가 포함될 수 있습니다. 예측 컨텐츠를 사용하는 사용자의 경우 Marketing에서는 2018년 4월 30일까지 컨텐츠`<sup>AI</sup>` 분석 기능을 활성화합니다. 이러한 기능을 해당 날짜 이상으로 유지하려면 마케팅 고객 성공 관리자에게 문의하여 Marketing To Content`<sup>AI</sup>`으로 업그레이드하십시오.
 
-[예측 컨텐츠](//help/marketo/product-docs/predictive-content/working-with-all-content/approve-a-title-for-predictive-content.md)에 대한 제목을 승인한 후 여기에서 작업합니다. 예측 컨텐츠 페이지에는 예측 컨텐트에 대해 승인한 모든 제목이 표시됩니다.
+[예측 컨텐츠](/help/marketo/product-docs/predictive-content/working-with-all-content/approve-a-title-for-predictive-content.md)에 대한 제목을 승인한 후 여기에서 작업합니다. 예측 컨텐츠 페이지에는 예측 컨텐트에 대해 승인한 모든 제목이 표시됩니다.
 
 ![](assets/image2017-10-3-9-3a21-3a38.png)
 
