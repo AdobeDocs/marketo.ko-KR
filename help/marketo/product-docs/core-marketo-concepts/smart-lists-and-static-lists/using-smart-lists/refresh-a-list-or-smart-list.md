@@ -3,7 +3,7 @@ unique-page-id: 557318
 description: 목록 또는 스마트 목록 새로 고침 - 마케팅 문서 - 제품 설명서
 title: 목록 또는 스마트 목록 새로 고침
 translation-type: tm+mt
-source-git-commit: d7d6aee63144c472e02fe0221c4a164183d04dd4
+source-git-commit: 5b9f48c98464c79bcdca2e335f6a4a2edce98ce4
 workflow-type: tm+mt
 source-wordcount: '133'
 ht-degree: 0%
@@ -31,9 +31,4 @@ ht-degree: 0%
 
 >[!MORELIKETHIS]
 >
->* [목록 또는 스마트 목록에서 Excel로 인물 내보내기](../../../../product-docs/core-marketo-concepts/smart-lists-and-static-lists/managing-people-in-smart-lists/export-people-to-excel-from-a-list-or-smart-list.md)
-
->
-
-
-
+>[목록 또는 스마트 목록에서 Excel로 인물 내보내기](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/managing-people-in-smart-lists/export-people-to-excel-from-a-list-or-smart-list.md)
