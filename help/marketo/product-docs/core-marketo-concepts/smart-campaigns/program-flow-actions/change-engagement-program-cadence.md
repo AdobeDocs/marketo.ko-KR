@@ -3,7 +3,7 @@ unique-page-id: 1147013
 description: 참여 프로그램 대상 변경 - 마케팅 문서 - 제품 설명서
 title: 참여 프로그램 대상 변경
 translation-type: tm+mt
-source-git-commit: d7d6aee63144c472e02fe0221c4a164183d04dd4
+source-git-commit: 5b9f48c98464c79bcdca2e335f6a4a2edce98ce4
 workflow-type: tm+mt
 source-wordcount: '103'
 ht-degree: 0%
@@ -33,5 +33,4 @@ ht-degree: 0%
 
    ![](assets/image2014-9-22-14-3a49-3a31.png)
 
-   콘텐트를 다시 수신하도록 하려면 이 사람을 **Normal**&#x200B;으로 다시 설정할 수 있습니다.
-
+콘텐트를 다시 수신하도록 하려면 이 사람을 **Normal**&#x200B;으로 다시 설정할 수 있습니다.
