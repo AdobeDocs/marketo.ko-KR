@@ -3,7 +3,7 @@ unique-page-id: 1147031
 description: SFDC에서 인물 삭제 - 마케팅 문서 - 제품 설명서
 title: SFDC에서 인물 삭제
 translation-type: tm+mt
-source-git-commit: d7d6aee63144c472e02fe0221c4a164183d04dd4
+source-git-commit: 5b9f48c98464c79bcdca2e335f6a4a2edce98ce4
 workflow-type: tm+mt
 source-wordcount: '135'
 ht-degree: 0%
@@ -36,4 +36,3 @@ Salesforce에서 특정 리드 세트를 제거하고 Marketing에서 다른 리
    >[!CAUTION]
    >
    >**Delete in Marketing**&#x200B;을 **true**&#x200B;로 설정하고 Marketing 사용자와 Salesforce의 리드를 삭제하면 이 리드는 영구적으로 삭제됩니다. 실행 취소할 수 없습니다.
-
