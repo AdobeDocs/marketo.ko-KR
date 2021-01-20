@@ -3,9 +3,9 @@ unique-page-id: 1146968
 description: 스마트 캠페인 결과 보기 - 마케팅 문서 - 제품 설명서
 title: 스마트 캠페인 결과 보기
 translation-type: tm+mt
-source-git-commit: d7d6aee63144c472e02fe0221c4a164183d04dd4
+source-git-commit: 5b9f48c98464c79bcdca2e335f6a4a2edce98ce4
 workflow-type: tm+mt
-source-wordcount: '125'
+source-wordcount: '117'
 ht-degree: 0%
 
 ---
@@ -19,13 +19,13 @@ ht-degree: 0%
 
    >[!TIP]
    >
-   >[캠페인 구성원 보기](view-smart-campaign-members.md)를 클릭하여 스마트 캠페인에서 처리된 사람 목록을 볼 수 있습니다.
+   >[캠페인 구성원 보기](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/smart-campaign-data/view-smart-campaign-members.md)를 클릭하여 스마트 캠페인에서 처리된 사람 목록을 볼 수 있습니다.
 
    ![](assets/image2014-9-22-11-38-10.jpg)
 
    >[!TIP]
    >
-   >활동 유형을 기반으로 결과를 필터링할 수도 있습니다. [스마트 캠페인 결과 필터링 방법](filter-smart-campaign-results.md)을 알아봅니다.
+   >활동 유형을 기반으로 결과를 필터링할 수도 있습니다. [스마트 캠페인 결과 필터링 방법](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/smart-campaign-data/filter-smart-campaign-results.md)을 알아봅니다.
 
 1. 특정 활동에 대한 자세한 내용을 보려면 **ID**&#x200B;을 클릭합니다.
 
@@ -35,16 +35,8 @@ ht-degree: 0%
    >
    >개인 이름을 클릭하여 개인 세부 사항을 봅니다.
 
-   [스마트 캠페인 결과를 Excel로 내보내기](export-smart-campaign-results-to-excel.md)
+   결과를 분석하여 캠페인이 실제로 어떤 작업을 수행했는지 확인하거나 단순히 [스마트 캠페인 결과를 Excel](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/smart-campaign-data/export-smart-campaign-results-to-excel.md)로 내보냅니다.
 
-   >[!NOTE]
+   >[!MORELIKETHIS]
    >
-   >**관련 문서**
-   >
-   >    
-   >    
-   >    * [스마트 캠페인 결과 필터링](filter-smart-campaign-results.md)
-   >    * [Excel로 스마트 캠페인 결과 내보내기](export-smart-campaign-results-to-excel.md)
-
-
-결과를 분석하여 캠페인이 실제로 어떤 성과를 올리는지 또는 간단하게 확인할 수 있습니다.
+   >[스마트 캠페인 결과 필터링](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/smart-campaign-data/filter-smart-campaign-results.md)
