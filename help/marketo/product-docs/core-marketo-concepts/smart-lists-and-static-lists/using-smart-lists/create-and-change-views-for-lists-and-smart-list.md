@@ -3,7 +3,7 @@ unique-page-id: 557337
 description: 목록 및 스마트 목록에 대한 보기 만들기 및 변경 - 마케팅 문서 - 제품 설명서
 title: 목록 및 스마트 목록에 대한 보기 만들기 및 변경
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 5b9f48c98464c79bcdca2e335f6a4a2edce98ce4
 workflow-type: tm+mt
 source-wordcount: '224'
 ht-degree: 0%
@@ -18,13 +18,14 @@ ht-degree: 0%
 ## {#create-a-view} 보기 만들기
 
 1. 목록 또는 스마트 목록으로 이동하여 **사람** 탭을 클릭하고 **만들기** **보기** 드롭다운 아래의 **보기를 클릭합니다.**
-1. ![](assets/smartlist-createview.png)
+
+   ![](assets/smartlist-createview.png)
 
 1. 보기의 이름을 지정하고 추가하거나 제거할 열을 찾습니다.
 
    ![](assets/image2014-9-12-11-3a23-3a53.png)
 
-   원하는 열을 추가/제거하고 만들기를 클릭합니다.
+1. 원하는 열을 추가/제거한 다음 **만들기**&#x200B;를 클릭합니다.
 
    ![](assets/image2014-9-12-11-3a24-3a7.png)
 
@@ -56,8 +57,6 @@ ht-degree: 0%
 
    ![](assets/image2014-9-12-11-3a27-3a19.png)
 
-
-
 ## {#delete-a-view} 보기 삭제
 
 1. **보기** 드롭다운에서 삭제할 보기에 대해 **편집** 옵션을 선택합니다.
@@ -72,10 +71,6 @@ ht-degree: 0%
 
 >[!MORELIKETHIS]
 >
->* [내장/시스템 스마트 목록 사용](use-built-in-system-smart-lists.md)
->* [스마트 목록 만들기](../../../../product-docs/core-marketo-concepts/smart-lists-and-static-lists/creating-a-smart-list/create-a-smart-list.md)
-
->
-
-
+>* [내장/시스템 스마트 목록 사용](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/using-smart-lists/use-built-in-system-smart-lists.md)
+>* [스마트 목록 만들기](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/creating-a-smart-list/create-a-smart-list.md)
 
