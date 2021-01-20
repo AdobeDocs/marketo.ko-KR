@@ -3,7 +3,7 @@ unique-page-id: 1147070
 description: 스마트 캠페인 결과를 Excel로 내보내기 - Marketing To Docs - 제품 설명서
 title: Excel로 스마트 캠페인 결과 내보내기
 translation-type: tm+mt
-source-git-commit: 00887ea53e395bea3a11fd28e0ac98b085ef6ed8
+source-git-commit: 5b9f48c98464c79bcdca2e335f6a4a2edce98ce4
 workflow-type: tm+mt
 source-wordcount: '77'
 ht-degree: 0%
@@ -24,4 +24,3 @@ ht-degree: 0%
    >[!NOTE]
    >
    >내보내기는 20,000행으로 제한됩니다. Excel 파일은 브라우저의 기본 다운로드 폴더에 저장됩니다.
-
