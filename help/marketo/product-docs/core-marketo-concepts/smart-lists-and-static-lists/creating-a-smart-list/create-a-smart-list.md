@@ -3,9 +3,9 @@ unique-page-id: 557154
 description: 스마트 목록 만들기 - 마케팅 문서 - 제품 설명서
 title: 스마트 목록 만들기
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: 5b9f48c98464c79bcdca2e335f6a4a2edce98ce4
 workflow-type: tm+mt
-source-wordcount: '88'
+source-wordcount: '82'
 ht-degree: 0%
 
 ---
@@ -20,7 +20,8 @@ ht-degree: 0%
    ![](assets/login-marketing-activities.png)
 
 1. 스마트 목록을 만들 프로그램을 선택합니다.
-1. ![이것은 시험입니다](assets/image2014-8-11-10-3a17-3a8.png)
+
+   ![](assets/image2014-8-11-10-3a17-3a8.png)
 
 1. **새로 만들기**&#x200B;에서 **새 로컬 자산**&#x200B;을 클릭합니다.
 
@@ -34,13 +35,8 @@ ht-degree: 0%
 
    ![](assets/image2014-9-9-16-3a27-3a39.png)
 
-   >[!NOTE]
-   >
-   >**관련 문서**
-   >
-   >    
-   >    
-   >    * [스마트 목록에 필터 찾기 및 추가](find-and-add-filters-to-a-smart-list.md)
+   짜잔, 잘했다! 이제 몇 가지 필터를 추가하고 정의하겠습니다.
 
-
-짜잔, 잘했다! 이제 몇 가지 필터를 추가하고 정의하겠습니다.
+   >[!MORELIKETHIS]
+   >
+   >[스마트 목록에 필터 찾기 및 추가](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/creating-a-smart-list/find-and-add-filters-to-a-smart-list.md)
