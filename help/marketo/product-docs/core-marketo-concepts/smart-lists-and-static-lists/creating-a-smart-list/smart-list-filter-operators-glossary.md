@@ -3,9 +3,9 @@ unique-page-id: 557312
 description: 스마트 목록 필터 연산자 용어집 - 마케팅 문서 - 제품 설명서
 title: 스마트 목록 필터 연산자 용어집
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: 5b9f48c98464c79bcdca2e335f6a4a2edce98ce4
 workflow-type: tm+mt
-source-wordcount: '611'
+source-wordcount: '602'
 ht-degree: 0%
 
 ---
@@ -13,7 +13,8 @@ ht-degree: 0%
 
 # 스마트 목록 필터 연산자 용어집 {#smart-list-filter-operators-glossary}
 
-연산자는 특정 정보를 얻을 수 있는 [스마트 목록](http://docs.marketo.com/display/docs/smart+lists+and+static+lists)의 일부입니다. 필터를 설명하거나 간단한 언어로 트리거할 수 있습니다. 사용 가능한 연산자는 각 필드 유형에 따라 다릅니다.\
+연산자는 특정 정보를 얻을 수 있는 스마트 목록의 일부입니다. 필터를 설명하거나 간단한 언어로 트리거할 수 있습니다. 사용 가능한 연산자는 각 필드 유형에 따라 다릅니다.
+
 각 연산자 집합을 설명하는 용어집이 있습니다.
 
 ## 날짜 필드 {#date-fields}
@@ -51,11 +52,11 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->이전에는 **이(가) 날짜를 포함하지만(시간이 아닌 이후까지) 스마트 목록을 만듭니다.**
+>&quot;과거&quot; **는 날짜를 포함시킵니다(시간이 아닌 이후까지).**
 
 >[!CAUTION]
 >
->날짜 필드 필터(예: 생년월일, SFDC 만든 날짜)를 사용하여 스마트 목록을 만들고 **이전 또는**&#x200B;에 **을(를) 사용하고** 이전 또는 &lt;a2/>제약 조건을 사용하는 경우 스마트 목록에는 같은 날짜 필드에 값이 없는 사람도 포함됩니다.
+>날짜 필드 필터(예: 생년월일, SFDC 만든 날짜)를 사용하여 스마트 목록을 만들고 **이전 또는**&#x200B;에 **을(를) 사용하고** 이전 또는 제약 조건을 사용하는 경우 스마트 목록에는 같은 날짜 필드에 값이 없는 사람도 포함됩니다.
 
 날짜 연산자 간의 차이를 이해하려면 다음 다이어그램을 사용하십시오.
 
@@ -102,7 +103,7 @@ ht-degree: 0%
  <thead> 
   <tr> 
    <th colspan="1" rowspan="1">연산자</th> 
-   <th colspan="1" rowspan="1"><p>설명</p></th> 
+   <th colspan="1" rowspan="1">설명</th> 
   </tr> 
  </thead> 
  <tbody> 
