@@ -3,7 +3,7 @@ unique-page-id: 1147036
 description: SFDC 캠페인 - 마케팅 문서 - 제품 문서에서 제거
 title: SFDC 캠페인에서 제거
 translation-type: tm+mt
-source-git-commit: d7d6aee63144c472e02fe0221c4a164183d04dd4
+source-git-commit: 5b9f48c98464c79bcdca2e335f6a4a2edce98ce4
 workflow-type: tm+mt
 source-wordcount: '108'
 ht-degree: 0%
@@ -19,7 +19,7 @@ ht-degree: 0%
 
 ## 개요 {#overview}
 
-[SFDC 캠페인](add-to-sfdc-campaign.md)및 [SFDC 캠페인의 상태 변경](change-status-in-sfdc-campaign.md)을 수행할 수 있는 것처럼 Salesforce 캠페인에서 인물 또는 리드를 제거할 수도 있습니다.
+[SFDC 캠페인](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/salesforce-flow-actions/add-to-sfdc-campaign.md) 및 [SFDC 캠페인의 상태 변경](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/salesforce-flow-actions/change-status-in-sfdc-campaign.md)을 수행할 수 있는 것처럼 Salesforce 캠페인에서 인물 또는 리드를 제거할 수도 있습니다.
 
 ![](assets/image2014-9-22-15-3a54-3a34.png)
 
