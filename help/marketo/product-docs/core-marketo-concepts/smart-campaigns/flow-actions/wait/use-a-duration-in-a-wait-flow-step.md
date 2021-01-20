@@ -3,9 +3,9 @@ unique-page-id: 1146978
 description: 대기 흐름 단계의 기간 사용 - 마케팅 문서 - 제품 설명서
 title: 대기 흐름 단계에서 지속 시간 사용
 translation-type: tm+mt
-source-git-commit: 00887ea53e395bea3a11fd28e0ac98b085ef6ed8
+source-git-commit: 5b9f48c98464c79bcdca2e335f6a4a2edce98ce4
 workflow-type: tm+mt
-source-wordcount: '205'
+source-wordcount: '203'
 ht-degree: 0%
 
 ---
@@ -13,7 +13,7 @@ ht-degree: 0%
 
 # 대기 흐름 단계 {#use-a-duration-in-a-wait-flow-step}에서 지속 시간 사용
 
-대기 흐름 단계를 사용하여 특정 기간 동안 스마트 캠페인을 통해 사용자의 이동을 일시 중지할 수 있습니다. 요일과 종료일에 대한 기준을 지정할 수도 있습니다.
+대기 흐름 단계를 사용하여 특정 기간 동안 스마트 캠페인을 통해 사람의 여정을 일시 중지할 수 있습니다. 요일과 종료일에 대한 기준을 지정할 수도 있습니다.
 
 1. 스마트 캠페인 **흐름** 탭에서 **대기** 흐름 단계로 드래그합니다.
 
@@ -39,9 +39,7 @@ ht-degree: 0%
    >
    >**예**
    >
-   >
    >한 사람이 금요일 오후 5시에 스마트 캠페인을 전개한다. 대기 단계는 다음과 같습니다.48시간 후에 아침 9시에 문-프리에 끝나야 합니다
-   >
    >
    >그 결과 사용자가 **월요일, 9am**&#x200B;에 계속 흐르도록 됩니다. 이것은 48시간 후에 첫 M-F 날짜입니다.
 
@@ -49,13 +47,8 @@ ht-degree: 0%
    >
    >사용료 지불 옵션의 시간대에 따라 기간, 날짜, 시간 및 요일이 모두 결정됩니다.
 
-   >[!NOTE]
+   >[!MORELIKETHIS]
    >
-   >**관련 문서**
-   >
-   >    
-   >    
-   >    * [대기 흐름 단계에서 특정 날짜 사용](use-a-specific-date-in-a-wait-flow-step.md)
-   >    * [대기 흐름 단계에서 날짜 토큰 사용](use-a-date-token-in-a-wait-flow-step.md)
-
+   >* [대기 흐름 단계에서 특정 날짜 사용](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/wait/use-a-specific-date-in-a-wait-flow-step.md)
+   >* [대기 흐름 단계에서 날짜 토큰 사용](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/wait/use-a-date-token-in-a-wait-flow-step.md)
 
