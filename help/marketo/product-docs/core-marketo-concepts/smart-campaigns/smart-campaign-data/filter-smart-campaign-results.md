@@ -3,7 +3,7 @@ unique-page-id: 1147068
 description: 스마트 캠페인 결과 필터링 - 마케팅 문서 - 제품 설명서
 title: 스마트 캠페인 결과 필터링
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 5b9f48c98464c79bcdca2e335f6a4a2edce98ce4
 workflow-type: tm+mt
 source-wordcount: '153'
 ht-degree: 0%
@@ -15,11 +15,7 @@ ht-degree: 0%
 
 >[!PREREQUISITES]
 >
->* [스마트 캠페인 결과 보기](view-smart-campaign-results.md)
-
->
-
-
+>[스마트 캠페인 결과 보기](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/smart-campaign-data/view-smart-campaign-results.md)
 
 스마트 캠페인 결과를 필터링하여 중요한 특정 활동을 확인합니다.
 
@@ -51,9 +47,8 @@ ht-degree: 0%
 
    ![](assets/saveasfilter-hands.png)
 
-1. 사용자 지정 필터가 결과에 적용되며 이제 드롭다운에서 사용할 수 있습니다. (드롭다운에서 보려면 페이지를 새로 고쳐야 할 수 있습니다.)
+1. 사용자 지정 필터는 결과에 적용되며 이제 드롭다운에서 사용할 수 있습니다(드롭다운에서 보려면 페이지를 새로 고쳐야 할 수 있습니다.)
 
    ![](assets/customfilter-hands.png)
 
    멋지지 않니? 이제 사용자 지정 필터를 모든 활동 로그에서 사용할 수 있습니다.
-
