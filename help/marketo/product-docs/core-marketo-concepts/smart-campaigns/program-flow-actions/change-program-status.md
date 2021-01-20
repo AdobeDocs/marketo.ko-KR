@@ -3,7 +3,7 @@ unique-page-id: 1147007
 description: 프로그램 상태 변경 - 마케팅 문서 - 제품 설명서
 title: 프로그램 상태 변경
 translation-type: tm+mt
-source-git-commit: 00887ea53e395bea3a11fd28e0ac98b085ef6ed8
+source-git-commit: 5b9f48c98464c79bcdca2e335f6a4a2edce98ce4
 workflow-type: tm+mt
 source-wordcount: '135'
 ht-degree: 0%
@@ -15,7 +15,7 @@ ht-degree: 0%
 
 ## 개요 {#overview}
 
-프로그램 상태는 사람들이 프로그램 또는 이벤트를 어떻게 진행하는지를 추적하는 데 도움이 됩니다. [채널 사용자 지정, 만들기 및 관리](../../../../product-docs/administration/tags/create-a-program-channel.md)에서 자세한 정보를 찾습니다.
+프로그램 상태는 사람들이 프로그램 또는 이벤트를 어떻게 진행하는지를 추적하는 데 도움이 됩니다. [채널 사용자 지정, 만들기 및 관리](/help/marketo/product-docs/administration/tags/create-a-program-channel.md)에서 자세한 정보를 찾습니다.
 
 >[!CAUTION]
 >
