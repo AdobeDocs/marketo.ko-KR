@@ -3,7 +3,7 @@ unique-page-id: 1146901
 description: 고급 스마트 목록 규칙 논리 사용 - 마케팅 문서 - 제품 설명서
 title: 고급 스마트 목록 규칙 논리 사용
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 5b9f48c98464c79bcdca2e335f6a4a2edce98ce4
 workflow-type: tm+mt
 source-wordcount: '288'
 ht-degree: 0%
@@ -17,11 +17,8 @@ ht-degree: 0%
 
 >[!PREREQUISITES]
 >
->* [스마트 목록에 필터 찾기 및 추가](../../../../product-docs/core-marketo-concepts/smart-lists-and-static-lists/creating-a-smart-list/find-and-add-filters-to-a-smart-list.md)
->* [스마트 목록 필터 정의](../../../../product-docs/core-marketo-concepts/smart-lists-and-static-lists/creating-a-smart-list/define-smart-list-filters.md)
-
->
-
+>* [스마트 목록에 필터 찾기 및 추가](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/creating-a-smart-list/find-and-add-filters-to-a-smart-list.md)
+>* [스마트 목록 필터 정의](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/creating-a-smart-list/define-smart-list-filters.md)
 
 
 >[!NOTE]
@@ -30,11 +27,11 @@ ht-degree: 0%
 
 ## 스마트 목록에 논리 추가 {#add-logic-to-a-smart-list}
 
-기본적으로 스마트 목록은 **ALL** 필터(필터 1 *및* 2 *및* 3)와 일치하는 사람을 찾습니다. 정의된 필터(필터 1 *또는* 2 *또는* 3)의 **ANY**&#x200B;와 일치하는 사람을 찾도록 규칙 논리를 변경하거나 고급 필터(필터 1 *및* 2 *또는 *3)를 사용할 수 있습니다.
+기본적으로 스마트 목록은 **ALL** 필터(필터 1 _및_ 2 _및_ 3)와 일치하는 사람을 찾습니다. 정의된 필터(필터 1 _또는_ 2 _또는_ 3)의 **ANY**&#x200B;와 일치하는 사람을 찾도록 규칙 논리를 변경하거나 고급 필터(필터 1 _및_ 2 _또는_ 3)를 사용할 수 있습니다.
 
-이 예에서는 &quot;Sales Qualified&quot; 상태의 점수가 최소 50점 *또는*&#x200B;인 캘리포니아 *과*&#x200B;에 있는 사람을 찾고자 합니다.
+이 예에서는 &quot;Sales Qualified&quot; 상태의 점수가 최소 50점 _또는_&#x200B;인 캘리포니아 _과_&#x200B;에 있는 사람을 찾고자 합니다.
 
-1. 드롭다운에서 **Use** **Advanced** **filters**&#x200B;를 선택합니다.
+1. 드롭다운에서 **고급 필터 사용**&#x200B;을 선택합니다.
 
    ![](assets/one.png)
 
@@ -42,7 +39,7 @@ ht-degree: 0%
    >
    >**고급** 필터를 사용하면 스마트 목록 멤버 필터로 스마트 목록을 만들 필요가 없습니다. 이는 성능을 최적화하는 데 도움이 됩니다.
 
-1. **고급** **filters** 텍스트 상자는 모든 필터 사이에 기본값으로 &quot;and&quot;를 표시합니다.
+1. **고급 필터** 텍스트 상자는 모든 필터 간에 기본값으로 &quot;and&quot;를 표시합니다.
 
    ![](assets/two-2.png)
 
@@ -73,4 +70,3 @@ ht-degree: 0%
 >[!TIP]
 >
 >잘못된 규칙을 입력하면 규칙 아래에 빨간색 선이 표시됩니다. 텍스트 위로 스크롤하여 관련 오류 메시지를 확인합니다.
-
