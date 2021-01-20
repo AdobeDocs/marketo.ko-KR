@@ -3,7 +3,7 @@ unique-page-id: 1147027
 description: SFDC에 사람 동기화 - Marketing To Docs - 제품 설명서
 title: SFDC에 사람 동기화
 translation-type: tm+mt
-source-git-commit: d7d6aee63144c472e02fe0221c4a164183d04dd4
+source-git-commit: 5b9f48c98464c79bcdca2e335f6a4a2edce98ce4
 workflow-type: tm+mt
 source-wordcount: '133'
 ht-degree: 0%
@@ -42,4 +42,3 @@ ht-degree: 0%
    >[!CAUTION]
    >
    >Salesforce에서는 &quot;연락처&quot;를 리드 큐에 할당할 수 없습니다. 이 경우 Marketing은 Salesforce에 중복 &quot;리드&quot;를 만듭니다.
-
