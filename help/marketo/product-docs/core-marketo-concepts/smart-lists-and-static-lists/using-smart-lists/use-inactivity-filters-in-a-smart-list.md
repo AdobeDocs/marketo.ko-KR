@@ -3,9 +3,9 @@ unique-page-id: 7511477
 description: 스마트 목록에서 비활동 필터 사용 - 마케팅 문서 - 제품 설명서
 title: 스마트 목록에서 비활동 필터 사용
 translation-type: tm+mt
-source-git-commit: 00887ea53e395bea3a11fd28e0ac98b085ef6ed8
+source-git-commit: 5b9f48c98464c79bcdca2e335f6a4a2edce98ce4
 workflow-type: tm+mt
-source-wordcount: '130'
+source-wordcount: '127'
 ht-degree: 0%
 
 ---
@@ -34,6 +34,3 @@ ht-degree: 0%
 1. **이(가)** 연산자입니다. 이렇게 하면 지난 30일 동안 페이지를 방문하지 않은 모든 사람이 표시됩니다.
 
    ![](assets/mysmartlist-people.jpg)
-
-   그렇게 쉽지 않았어?
-
