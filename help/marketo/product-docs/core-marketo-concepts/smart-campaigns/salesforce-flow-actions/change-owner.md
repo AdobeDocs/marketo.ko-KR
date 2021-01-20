@@ -3,7 +3,7 @@ unique-page-id: 1147021
 description: 소유자 변경 - 마케팅 문서 - 제품 설명서
 title: 소유자 변경
 translation-type: tm+mt
-source-git-commit: f27e2bac90570f9f795dc6bdd5fcf208c446be14
+source-git-commit: 5b9f48c98464c79bcdca2e335f6a4a2edce98ce4
 workflow-type: tm+mt
 source-wordcount: '154'
 ht-degree: 0%
@@ -30,7 +30,7 @@ ht-degree: 0%
    >1. 연락처가 Salesforce에 동기화될 때 Marketing에서 중복된 리드 **만**&#x200B;을(를) 만듭니다. 즉, `AssignTo=<a lead queue>`에서 **[사람을 SFDC](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/salesforce-flow-actions/sync-person-to-sfdc.md)** 플로우 단계를 사용하는 경우 Marketing에서 중복된 리드를 만들어 리드 큐에 지정합니다.
       >
       >
-   2. 연락처에서 **소유자 변경** 흐름 단계를 사용하려고 하면 Salesforce에서 복사본이 생성되지 않습니다.
+   1. 연락처에서 **소유자 변경** 흐름 단계를 사용하려고 하면 Salesforce에서 복사본이 생성되지 않습니다.
 
 
    >[!NOTE]
