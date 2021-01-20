@@ -3,9 +3,9 @@ unique-page-id: 2953188
 description: 유추된 필터 - 마케팅 문서 - 제품 설명서
 title: 유추 필터
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: 5b9f48c98464c79bcdca2e335f6a4a2edce98ce4
 workflow-type: tm+mt
-source-wordcount: '145'
+source-wordcount: '143'
 ht-degree: 0%
 
 ---
@@ -13,7 +13,7 @@ ht-degree: 0%
 
 # 유추된 필터 {#inferred-filters}
 
-누군가 웹 사이트를 방문하면 [Munchkin](../../../../product-docs/administration/additional-integrations/add-munchkin-tracking-code-to-your-website.md) 쿠키가 이러한 쿠키를 만들고 시스템에 넣습니다. 우리는 그들의 IP를 특별한 데이터베이스에 올려서 모든 종류의 좋은 정보를 추론한다. 확인해 보십시오.
+누군가 웹 사이트를 방문하면 [Munchkin](/help/marketo/product-docs/administration/additional-integrations/add-munchkin-tracking-code-to-your-website.md) 쿠키가 이러한 쿠키를 만들고 시스템에 넣습니다. 우리는 그들의 IP를 특별한 데이터베이스에 올려서 모든 종류의 좋은 정보를 추론한다. 확인해 보십시오.
 
 ![](assets/image2015-4-27-13-3a25-3a46.png)
 
@@ -36,15 +36,9 @@ ht-degree: 0%
 >* 방문한 웹 페이지 - 지난 24시간
 >* 유추된 상태는 [영역 선택]
 
->
-
-
 
 이러한 익명의 방문자는 이메일 링크를 클릭하거나 양식을 작성할 때 자동으로 다른 사람으로 변환됩니다. 그러나 그들은 모든 유추된 정보를 유지한다.
 
 >[!NOTE]
 >
->**자세히 알아보기**
->
->[익명 활동 및 리드](../../../../product-docs/core-marketo-concepts/smart-lists-and-static-lists/managing-people-in-smart-lists/understanding-anonymous-activity-and-people.md)에 대해 자세히 알아보십시오.
-
+>[익명 활동 및 리드](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/managing-people-in-smart-lists/understanding-anonymous-activity-and-people.md)에 대해 자세히 알아보십시오.
