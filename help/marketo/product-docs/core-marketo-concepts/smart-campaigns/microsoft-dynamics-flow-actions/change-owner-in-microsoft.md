@@ -3,7 +3,7 @@ unique-page-id: 37356426
 description: Microsoft의 소유자 변경 - Marketing To Docs - 제품 설명서
 title: Microsoft에서 소유자 변경
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: 5b9f48c98464c79bcdca2e335f6a4a2edce98ce4
 workflow-type: tm+mt
 source-wordcount: '91'
 ht-degree: 0%
@@ -30,4 +30,3 @@ ht-degree: 0%
    >[!NOTE]
    >
    >레코드가 Dynamics 계정에 아직 존재하지 않는 경우 레코드를 동기화한 다음 선택한 사용자에게 할당합니다.
-
