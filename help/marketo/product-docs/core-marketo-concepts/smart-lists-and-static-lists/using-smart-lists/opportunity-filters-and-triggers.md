@@ -3,7 +3,7 @@ unique-page-id: 8159286
 description: 기회 필터 및 트리거 - 마케팅 문서 - 제품 설명서
 title: 기회 필터 및 트리거
 translation-type: tm+mt
-source-git-commit: 5c9683c6b00ccbf9e9d606fd4513432c9872ad00
+source-git-commit: 5b9f48c98464c79bcdca2e335f6a4a2edce98ce4
 workflow-type: tm+mt
 source-wordcount: '471'
 ht-degree: 0%
@@ -80,4 +80,3 @@ Opportunity 필드(사용자 지정 또는 표준)를 찾는 경우 **Has Opport
 기회 사용자 정의 필드를 트리거하려면 **Opportunity 가 Updated** 트리거를 사용하고 풀다운에서 필드를 선택합니다.
 
 ![](assets/image2015-6-11-12-3a33-3a34.png)
-
