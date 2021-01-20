@@ -3,9 +3,9 @@ unique-page-id: 557324
 description: 스마트 목록 - Marketing To Docs - 제품 문서에서 데이터 값 변경 필터 사용
 title: 스마트 목록에서 데이터 값 변경된 필터 사용
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 5b9f48c98464c79bcdca2e335f6a4a2edce98ce4
 workflow-type: tm+mt
-source-wordcount: '156'
+source-wordcount: '146'
 ht-degree: 0%
 
 ---
@@ -17,13 +17,9 @@ ht-degree: 0%
 
 >[!PREREQUISITES]
 >
->* [스마트 목록 만들기](../../../../product-docs/core-marketo-concepts/smart-lists-and-static-lists/creating-a-smart-list/create-a-smart-list.md)
+>[스마트 목록 만들기](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/creating-a-smart-list/create-a-smart-list.md)
 
->
-
-
-
-1. **마케팅 활동 ** 영역으로 이동합니다.
+1. **마케팅 활동** 영역으로 이동합니다.
 
    ![](assets/ma.png)
 
@@ -39,15 +35,4 @@ ht-degree: 0%
 
    ![](assets/four.png)
 
-이 필터는 상태에 대한 변경(모든 변경)이 있는 모든 사람을 찾습니다. 더 화려한 제목을 얻으려면 [스마트 목록 필터](add-a-constraint-to-a-smart-list-filter.md)에 제한을 추가해 보십시오.
-
->[!NOTE]
->
->**관련 문서**
->
->* [스마트 목록 필터에 제한 추가](add-a-constraint-to-a-smart-list-filter.md)
-
->
-
-
-
+이 필터는 상태에 대한 변경(모든 변경)이 있는 모든 사람을 찾습니다. 더 화려한 제목을 얻으려면 [스마트 목록 필터](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/using-smart-lists/add-a-constraint-to-a-smart-list-filter.md)에 제한을 추가해 보십시오.
