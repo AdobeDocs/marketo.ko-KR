@@ -3,9 +3,9 @@ unique-page-id: 1147062
 description: 스마트 캠페인에서 차단된 사람 보기 - 마케팅 문서 - 제품 문서
 title: 스마트 캠페인에서 차단된 사람 보기
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: 5b9f48c98464c79bcdca2e335f6a4a2edce98ce4
 workflow-type: tm+mt
-source-wordcount: '191'
+source-wordcount: '189'
 ht-degree: 0%
 
 ---
@@ -25,7 +25,7 @@ Marketing 데이터베이스에서 차단된 사람은 차단 목록에 추가�
 
    >[!NOTE]
    >
-   >통신 한도에 도달한 사람들도 메일을 받는 것을 차단할지도 모른다. 관리 섹션에서 [통신 제한](../../../../product-docs/administration/email-setup/enable-communication-limits.md)을 편집하는 방법을 알아봅니다.
+   >통신 한도에 도달한 사람들도 메일을 받는 것을 차단할지도 모른다. 관리 섹션에서 [통신 제한](/help/marketo/product-docs/administration/email-setup/enable-communication-limits.md)을 편집하는 방법을 알아봅니다.
 
    차단된 사람 탭에는 메일을 받지 못할 수 있는 사람을 표시합니다.
 
@@ -35,16 +35,12 @@ Marketing 데이터베이스에서 차단된 사람은 차단 목록에 추가�
    >
    >운영상의 이메일은 가입되지 않은 것으로 표시되고 마케팅이 중단된 사람들에게 전송됩니다.
 
-   >[!NOTE]
+   >[!MORELIKETHIS]
    >
-   >**관련 문서**
-   >
-   >    
-   >    
-   >    * [자격 규칙 편집](../../../../product-docs/core-marketo-concepts/smart-campaigns/using-smart-campaigns/edit-qualification-rules-in-a-smart-campaign.md)
-   >    * [통신 제한 사용](../../../../product-docs/administration/email-setup/enable-communication-limits.md)
-   >    * [스마트 캠페인 멤버 보기](view-smart-campaign-members.md)
-   >    * [스마트 캠페인에서 자격이 있는 사람 보기](view-qualified-people-in-a-smart-campaign.md)
+   >* [자격 규칙 편집](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/using-smart-campaigns/edit-qualification-rules-in-a-smart-campaign.md)
+   >* [통신 제한 사용](/help/marketo/product-docs/administration/email-setup/enable-communication-limits.md)
+   >* [스마트 캠페인 멤버 보기](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/smart-campaign-data/view-smart-campaign-members.md)
+   >* [스마트 캠페인에서 자격이 있는 사람 보기](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/smart-campaign-data/view-qualified-people-in-a-smart-campaign.md)
 
 
 됐다! 이제 당신은 누가 우편물을 받지 않을 지 알 수 있습니다.
