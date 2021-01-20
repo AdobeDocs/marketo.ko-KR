@@ -3,7 +3,7 @@ unique-page-id: 1147011
 description: 참여 프로그램에 추가 - 마케팅 문서 - 제품 설명서
 title: 참여 프로그램에 추가
 translation-type: tm+mt
-source-git-commit: d7d6aee63144c472e02fe0221c4a164183d04dd4
+source-git-commit: 5b9f48c98464c79bcdca2e335f6a4a2edce98ce4
 workflow-type: tm+mt
 source-wordcount: '69'
 ht-degree: 0%
@@ -32,4 +32,3 @@ ht-degree: 0%
    >[!NOTE]
    >
    >동일한 프로그램 내에서 여러 스트림에 사람을 추가할 수는 없습니다.
-
