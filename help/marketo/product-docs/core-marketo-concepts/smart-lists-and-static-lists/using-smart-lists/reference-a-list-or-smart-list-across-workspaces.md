@@ -3,7 +3,7 @@ unique-page-id: 4720377
 description: 작업 영역 간 목록 또는 스마트 목록 참조 - 마케팅 문서 - 제품 설명서
 title: 작업 영역 간 목록 또는 스마트 목록 참조
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: 5b9f48c98464c79bcdca2e335f6a4a2edce98ce4
 workflow-type: tm+mt
 source-wordcount: '167'
 ht-degree: 0%
@@ -41,7 +41,7 @@ ht-degree: 0%
 
    ![](assets/four-3.png)
 
-1. 공유할 **작업 영역 **을 선택합니다. **저장**&#x200B;을 선택합니다.
+1. 공유할 **작업 공간**&#x200B;을 선택합니다. **저장**&#x200B;을 선택합니다.
 
    ![](assets/image2014-12-9-15-3a37-3a25.png)
 
@@ -50,4 +50,3 @@ ht-degree: 0%
    >[!NOTE]
    >
    >마케팅 활동에서는 최상위 폴더만 공유할 수 있습니다. 데이터베이스에서는 최상위 폴더와 하위 수준 폴더를 공유할 수 있습니다.
-
