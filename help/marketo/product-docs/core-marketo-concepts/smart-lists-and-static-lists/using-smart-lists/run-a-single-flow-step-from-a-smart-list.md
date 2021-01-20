@@ -3,7 +3,7 @@ unique-page-id: 557322
 description: 스마트 목록에서 단일 흐름 단계 실행 - 마케팅 문서 - 제품 설명서
 title: 스마트 목록에서 단일 흐름 단계 실행
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 5b9f48c98464c79bcdca2e335f6a4a2edce98ce4
 workflow-type: tm+mt
 source-wordcount: '234'
 ht-degree: 0%
@@ -17,11 +17,7 @@ ht-degree: 0%
 
 >[!PREREQUISITES]
 >
->* [스마트 목록 만들기](../../../../product-docs/core-marketo-concepts/smart-lists-and-static-lists/creating-a-smart-list/create-a-smart-list.md)
-
->
-
-
+>[스마트 목록 만들기](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/creating-a-smart-list/create-a-smart-list.md)
 
 1. **마케팅 활동**&#x200B;으로 이동합니다.
 
@@ -35,7 +31,7 @@ ht-degree: 0%
    >
    >스마트 목록뿐만 아니라 정적 목록에도 이 기능이 있습니다.
 
-1. **모두 선택**&#x200B;을 클릭합니다. Ctrl/Cmd**를 사용하여 몇 개의 레코드를 수동으로 클릭하여 선택할 수도 있습니다.
+1. **모두 선택**&#x200B;을 클릭합니다. **Ctrl/Cmd**&#x200B;를 사용하고 을 클릭하여 몇 개의 레코드를 수동으로 선택할 수도 있습니다.
 
    ![](assets/smartlist-selectallhand.png)
 
@@ -43,7 +39,7 @@ ht-degree: 0%
    >
    >결과가 여러 페이지에 걸쳐 있는 경우 **모두 선택**&#x200B;을 클릭하면 모든 페이지의 모든 사용자가 선택됩니다.
 
-1. **Person** **Actions**&#x200B;에서 원하는 흐름 단계를 선택합니다. 이 예에서는 [데이터 값 변경](../../../../product-docs/core-marketo-concepts/smart-campaigns/flow-actions/change-data-value.md)을 사용합니다.
+1. **Person** **Actions**&#x200B;에서 원하는 흐름 단계를 선택합니다. 이 예에서는 [데이터 값 변경](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/change-data-value.md)을 사용합니다.
 
    ![](assets/personactions-hands.png)
 
