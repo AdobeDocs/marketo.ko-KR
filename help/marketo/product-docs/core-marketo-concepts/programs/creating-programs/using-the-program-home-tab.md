@@ -3,9 +3,9 @@ unique-page-id: 1147126
 description: 프로그램 홈 탭 사용 - 마케팅 문서 - 제품 설명서
 title: 프로그램 홈 탭 사용
 translation-type: tm+mt
-source-git-commit: 00887ea53e395bea3a11fd28e0ac98b085ef6ed8
+source-git-commit: 07f713ece9832b7696451001f61c6a3b45b4a94a
 workflow-type: tm+mt
-source-wordcount: '160'
+source-wordcount: '158'
 ht-degree: 0%
 
 ---
@@ -29,11 +29,11 @@ ht-degree: 0%
    >
    >기본 보기입니다. 설정, 일정, 결과 및 구성원 프로그램 상태에 대한 정보를 제공합니다.
 
-   밑줄 친 요소를 클릭하여 변경하거나 자세한 정보를 봅니다.
+1. 밑줄 친 요소를 클릭하여 변경하거나 자세한 정보를 봅니다.
 
    ![](assets/image2014-9-18-17-3a2-3a53.png)
 
-   요약 하단의 내보내기를 클릭하여 보고서를 다운로드합니다.
+1. 보고서를 다운로드하려면 요약 아래쪽에 있는 **내보내기**&#x200B;를 클릭합니다.
 
    ![](assets/image2014-9-18-17-3a3-3a47.png)
 
@@ -69,12 +69,6 @@ ht-degree: 0%
    >
    >**Historical** 는 프로그램을 거쳐간 모든 사람을 가리키며, Currently는  **** 현재 프로그램에 속한 사람만을 포함합니다.
 
-   >[!NOTE]
+   >[!MORELIKETHIS]
    >
-   >**관련 문서**
-   >
-   >    
-   >    
-   >    * [프로그램 회원 이해](understanding-program-membership.md)
-
-
+   >[프로그램 회원 이해](/help/marketo/product-docs/core-marketo-concepts/programs/creating-programs/understanding-program-membership.md)
