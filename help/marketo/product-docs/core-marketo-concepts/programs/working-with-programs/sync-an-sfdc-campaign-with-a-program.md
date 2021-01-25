@@ -3,7 +3,7 @@ unique-page-id: 1147154
 description: SFDC 캠페인을 프로그램과 동기화 - Marketing To Docs - 제품 설명서
 title: 프로그램과 SFDC 캠페인 동기화
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 07f713ece9832b7696451001f61c6a3b45b4a94a
 workflow-type: tm+mt
 source-wordcount: '176'
 ht-degree: 0%
@@ -17,7 +17,7 @@ Marketing을 사용하면 프로그램을 Salesforce 캠페인과 동기화하�
 
 >[!PREREQUISITES]
 >
->먼저 [Salesforce 캠페인 동기화](../../../../product-docs/crm-sync/salesforce-sync/setup/optional-steps/enable-disable-campaign-sync.md)를 활성화해야 합니다.
+>먼저 [Salesforce 캠페인 동기화](/help/marketo/product-docs/crm-sync/salesforce-sync/setup/optional-steps/enable-disable-campaign-sync.md)를 활성화해야 합니다.
 
 >[!CAUTION]
 >
@@ -35,11 +35,11 @@ Marketing을 사용하면 프로그램을 Salesforce 캠페인과 동기화하�
 
    ![](assets/image2015-7-22-8-3a48-3a5.png)
 
-1. **새로 만들기 **를 선택하거나 기존 Salesforce 캠페인을 선택합니다.
+1. **새로 만들기**&#x200B;를 선택하거나 기존 Salesforce 캠페인을 선택합니다.
 
    >[!TIP]
    >
-   >기존 Salesforce 캠페인을 선택하는 경우 [Salesforce 캠페인과 Marketing 프로그램](../../../../product-docs/crm-sync/salesforce-sync/sfdc-sync-details/sfdc-errors/how-to-match-program-statuses-and-salesforce-campaign-statuses-prior-to-sync.md)의 프로그램 상태를 일치시켜야 합니다.
+   >기존 Salesforce 캠페인을 선택하는 경우 [Salesforce 캠페인과 Marketing 프로그램](/help/marketo/product-docs/crm-sync/salesforce-sync/sfdc-sync-details/sfdc-errors/how-to-match-program-statuses-and-salesforce-campaign-statuses-prior-to-sync.md)의 프로그램 상태를 일치시켜야 합니다.
 
 1. 새 캠페인의 이름을 입력하고 **저장**&#x200B;을 클릭합니다.
 
@@ -50,4 +50,3 @@ Marketing을 사용하면 프로그램을 Salesforce 캠페인과 동기화하�
    ![](assets/image2015-7-22-8-3a59-3a33.png)
 
    훌륭해! 이제 Marketing의 모든 프로그램 상태 변경 사항이 SFDC 캠페인에 동기화되고 그 반대의 경우도 마찬가지입니다.
-
