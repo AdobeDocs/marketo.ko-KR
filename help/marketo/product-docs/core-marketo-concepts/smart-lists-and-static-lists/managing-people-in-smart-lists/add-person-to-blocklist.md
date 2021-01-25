@@ -3,7 +3,7 @@ unique-page-id: 9438139
 description: 에 인물 차단 목록에 추가하다 추가 - 마케팅 문서 - 제품 설명서
 title: 에 사람 차단 목록에 추가하다 추가
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: 07f713ece9832b7696451001f61c6a3b45b4a94a
 workflow-type: tm+mt
 source-wordcount: '216'
 ht-degree: 0%
@@ -19,7 +19,8 @@ ht-degree: 0%
 >
 >Marketing은 Blacklist 및 Whitelist와 같은 용어를 Adobe 제품차단 목록에 추가하다의 및 허용 목록에 추가하다로 변경하는 중입니다. 이 업데이트 중에 UI 및 문서 스크린샷의 이전 용어와 설명서 텍스트의 새 용어를 볼 수 있습니다. 혼동을 사과드립니다.
 
-1. [새 기본 ](../../../../product-docs/core-marketo-concepts/programs/creating-programs/create-a-program.md) 프로그램을 만들고 이름을 [에  **추가]로 차단 목록에 추가하다 지정합니다**.
+1. [새 기본 ](/help/marketo/product-docs/core-marketo-concepts/programs/creating-programs/create-a-program.md) 프로그램을 만들고 이름을 [에  **추가]로 차단 목록에 추가하다 지정합니다**.
+
 1. **새로 만들기**&#x200B;를 클릭하고 **새 로컬 자산**&#x200B;을 선택합니다.
 
    ![](assets/image2015-8-14-11-3a0-3a46.png)
@@ -72,5 +73,4 @@ ht-degree: 0%
 
    >[!TIP]
    >
-   >**블록 목록이 참**&#x200B;인 **데이터 값 변경**&#x200B;을 사용하여 [트리거 스마트 캠페인](../../../../product-docs/core-marketo-concepts/smart-campaigns/creating-a-smart-campaign/create-a-new-smart-campaign.md)을 만듭니다. 이차단 목록에 추가하다는 가능 특성을 가진 미래의 모든 사용자에 대해 true&lt;a5/>입니다.
-
+   >**블록 목록이 참**&#x200B;인 **데이터 값 변경**&#x200B;을 사용하여 [트리거 스마트 캠페인](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/creating-a-smart-campaign/create-a-new-smart-campaign.md)을 만듭니다. 이차단 목록에 추가하다는 가능 특성을 가진 미래의 모든 사용자에 대해 true입니다.
