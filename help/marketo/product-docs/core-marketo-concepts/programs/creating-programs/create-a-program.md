@@ -3,9 +3,9 @@ unique-page-id: 1147095
 description: 프로그램 만들기 - 마케팅 문서 - 제품 설명서
 title: 프로그램 만들기
 translation-type: tm+mt
-source-git-commit: 00887ea53e395bea3a11fd28e0ac98b085ef6ed8
+source-git-commit: 07f713ece9832b7696451001f61c6a3b45b4a94a
 workflow-type: tm+mt
-source-wordcount: '77'
+source-wordcount: '68'
 ht-degree: 0%
 
 ---
@@ -19,17 +19,14 @@ ht-degree: 0%
 
    ![](assets/login-marketing-activities.png)
 
-1. 새 프로그램의 폴더를 선택합니다. **새로 만들기**&#x200B;를 선택하고 **새 프로그램****.**
+1. 새 프로그램의 폴더를 선택합니다. **새로 만들기**&#x200B;를 선택하고 **새 프로그램**&#x200B;을 클릭합니다.
 
    ![](assets/leadlifecycle.jpg)
 
-1. **이름**** 입력,** 드롭다운에서 ** [채널](http://docs.marketo.com/display/DOCS/Create+a+Program+Channel)**을 선택하고 **만들기를 클릭합니다.**
+1. **이름**&#x200B;을 입력하고 드롭다운에서 **[채널](http://docs.marketo.com/display/DOCS/Create+a+Program+Channel)**&#x200B;을 선택하고 **만들기**&#x200B;를 클릭합니다.
 
    ![](assets/image2015-2-5-16-3a33-3a23.png)
 
->[!NOTE]
+>[!MORELIKETHIS]
 >
->**자세히 알아보기**
->
->[프로그램](http://docs.marketo.com/display/docs/programs)에 대해 자세히 알아보십시오.
-
+>[프로그램 이해를 참조하십시오](/help/marketo/product-docs/core-marketo-concepts/programs/creating-programs/understanding-programs.md).
