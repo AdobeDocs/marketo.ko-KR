@@ -3,9 +3,9 @@ unique-page-id: 6848705
 description: 우수 사례 - 프로그램 구성 방법 - Marketing To Docs - 제품 설명서
 title: 모범 사례 - 프로그램 구성 방법
 translation-type: tm+mt
-source-git-commit: 9a1713920e8d755ca77838896cdc5094f23fed09
+source-git-commit: 07f713ece9832b7696451001f61c6a3b45b4a94a
 workflow-type: tm+mt
-source-wordcount: '859'
+source-wordcount: '843'
 ht-degree: 0%
 
 ---
@@ -56,7 +56,7 @@ ht-degree: 0%
 
 >[!TIP]
 >
->&quot;보관&quot; 폴더는 보고뿐만 아니라 선택 목록에서 항목을 제거하도록 설계된 특별한 종류의 폴더입니다. 이렇게 하면 시스템이 보다 빠르게 실행됩니다. 폴더](../../../../product-docs/core-marketo-concepts/miscellaneous/understanding-folders.md)에 대해 [자세히 알아보십시오.
+>&quot;보관&quot; 폴더는 보고뿐만 아니라 선택 목록에서 항목을 제거하도록 설계된 특별한 종류의 폴더입니다. 이렇게 하면 시스템이 보다 빠르게 실행됩니다. 폴더](/help/marketo/product-docs/core-marketo-concepts/miscellaneous/understanding-folders.md)에 대해 [자세히 알아보십시오.
 
 원하는 대로 폴더를 더 추가할 수 있습니다. 회사의 향후 세대의 마케터는 이름을 지정하고 체계적으로 구성하는 방법에 대한 의사 결정을 계속 내릴 수 있습니다.
 
@@ -76,15 +76,12 @@ Marketing의 모든 기능이 커뮤니케이션을 위해 공통 언어를 사�
 >1. NL 2015-06 뉴스레터
 >1. WBN 2015-12-01 웨비나 주제
 
->
 
-
-
-프로그램 이름은 서로 다른 [작업 영역](../../../../product-docs/administration/workspaces-and-person-partitions/understanding-workspaces-and-person-partitions.md)에서도 구독에서 고유해야 합니다.  프로그램 내의 로컬 자산의 경우 규칙은 **이름을 간단하게**&#x200B;에 유지하는 것입니다. &quot;2015년 6월 웨비나 초대장&quot;이 아닌 초대장 이름을 &quot;초대&quot;로 지정하면 됩니다. 이러한 프로그램은 프로그램에 포함되어 있으므로 상위 프로그램은 다른 곳에서 선택할 때 자동으로 이름의 일부가 됩니다. 즉, 로컬 에셋은 프로그램 내부에서만 고유해야 합니다. &quot;초대&quot;라는 수백 개의 에셋을 서로 다른 프로그램에 각각 사용할 수 있으며 크게 손상시키지 않습니다.
+프로그램 이름은 서로 다른 [작업 영역](/help/marketo/product-docs/administration/workspaces-and-person-partitions/understanding-workspaces-and-person-partitions.md)에서도 구독에서 고유해야 합니다.  프로그램 내의 로컬 자산의 경우 규칙은 **이름을 간단하게**&#x200B;에 유지하는 것입니다. &quot;2015년 6월 웨비나 초대장&quot;이 아닌 초대장 이름을 &quot;초대&quot;로 지정하면 됩니다. 이러한 프로그램은 프로그램에 포함되어 있으므로 상위 프로그램은 다른 곳에서 선택할 때 자동으로 이름의 일부가 됩니다. 즉, 로컬 에셋은 프로그램 내부에서만 고유해야 합니다. &quot;초대&quot;라는 수백 개의 에셋을 서로 다른 프로그램에 각각 사용할 수 있으며 크게 손상시키지 않습니다.
 
 ## 토큰 {#tokens}
 
-토큰은 폴더 및 프로그램을 랜딩 페이지, 이메일 및 기타 자산에 사용할 변수를 설정하는 수단으로 사용합니다. 토큰](http://docs.marketo.com/display/docs/tokens)에 대해 [모두 학습합니다.
+토큰은 폴더 및 프로그램을 랜딩 페이지, 이메일 및 기타 자산에 사용할 변수를 설정하는 수단으로 사용합니다.
 
 위에 언급된 조직에서는 이벤트 폴더에 토큰을 배치하여 모든 이벤트에 토큰을 넣을 수 있습니다.
 
@@ -102,7 +99,7 @@ Marketing의 모든 기능이 커뮤니케이션을 위해 공통 언어를 사�
 
 ## 참여 프로그램 {#engagement-programs}
 
-참여 프로그램](../../../../product-docs/email-marketing/drip-nurturing/creating-an-engagement-program/understanding-engagement-programs.md)에 대해 [모두 학습합니다. 관여 프로그램을 체계적으로 구성하는 가장 좋은 방법은 폴더를 사용하는 것입니다. 각 스트림에 대한 폴더를 만든 다음 해당 폴더에 이메일 또는 프로그램을 배치합니다. 컨텐츠가 만료되어 제거할 경우 각 스트림에 보관 폴더를 포함시킵니다.
+참여 프로그램](/help/marketo/product-docs/email-marketing/drip-nurturing/creating-an-engagement-program/understanding-engagement-programs.md)에 대해 [모두 학습합니다. 관여 프로그램을 체계적으로 구성하는 가장 좋은 방법은 폴더를 사용하는 것입니다. 각 스트림에 대한 폴더를 만든 다음 해당 폴더에 이메일 또는 프로그램을 배치합니다. 컨텐츠가 만료되어 제거할 경우 각 스트림에 보관 폴더를 포함시킵니다.
 
 ## 운영 프로그램 {#operational-programs}
 
@@ -110,7 +107,7 @@ Marketing의 모든 기능이 커뮤니케이션을 위해 공통 언어를 사�
 
 ## 이메일 프로그램 중첩 {#nesting-email-programs}
 
-이메일 프로그램은 메일 송신을 위한 도구로 설계되었습니다. 이벤트 또는 다른 프로그램에 프로모션, 초대 및 미리 알림을 배치할 수 있습니다. 세련된 대시보드와 기타 A/B 테스트 기능을 갖추고 있습니다. 또한 [프로그램 일정 보기](http://docs.marketo.com/display/docs/program+schedule+view)에서 쉽게 조작됩니다.
+이메일 프로그램은 메일 송신을 위한 도구로 설계되었습니다. 이벤트 또는 다른 프로그램에 프로모션, 초대 및 미리 알림을 배치할 수 있습니다. 세련된 대시보드와 기타 A/B 테스트 기능을 갖추고 있습니다. 또한 프로그램 예약 보기에서 손쉽게 수정할 수 있습니다.
 
 이메일 프로그램을 독립 실행형 프로그램으로 만들 수도 있습니다. 이메일 프로그램은 다른 이메일 프로그램에서 허용되지 않습니다. 말도 안 돼!
 
@@ -126,4 +123,4 @@ Marketing To에서 가장 멋진 기능 중 하나는 프로그램 복제 기능
 
 ## 요약 {#summary}
 
-보시다시피 Marketing Cloud에는 많은 파워가 있습니다. 여기서는 기본 사항을 설명했지만 성공을 위해 세밀하게 조정하고 자신을 설정하기 위해 Marketing To Experts](http://www.marketo.com/services/)의 일부 [추가 서비스를 고려합니다.
+보시다시피 Marketing Cloud에는 많은 파워가 있습니다. 여기서는 기본 사항을 설명했지만 성공을 위해 세밀하게 조정하고 자신을 설정하기 위해 Marketing To Experts](https://www.marketo.com/services/)의 일부 [추가 서비스를 고려합니다.
