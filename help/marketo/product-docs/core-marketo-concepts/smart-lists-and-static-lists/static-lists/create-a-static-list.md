@@ -3,9 +3,9 @@ unique-page-id: 11387513
 description: 정적 목록 만들기 - 마케팅 문서 - 제품 설명서
 title: 정적 목록 만들기
 translation-type: tm+mt
-source-git-commit: d7d6aee63144c472e02fe0221c4a164183d04dd4
+source-git-commit: 07f713ece9832b7696451001f61c6a3b45b4a94a
 workflow-type: tm+mt
-source-wordcount: '109'
+source-wordcount: '100'
 ht-degree: 0%
 
 ---
@@ -27,9 +27,8 @@ ht-degree: 0%
 
    ![](assets/three.png)
 
-   이제 빈 목록을 채울 준비가 되었습니다. [여기](http://docs.marketo.com/display/DOCS/Understanding+Static+Lists#UnderstandingStaticLists-WaystoAdd/RemoveLeadsfromaList)에 사람을 추가하는 방법을 알아봅니다.
+   이제 빈 목록을 채울 준비가 되었습니다. [여기](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/static-lists/understanding-static-lists.md#ways-to-add-remove-people-from-a-list)에 사람을 추가하는 방법을 알아봅니다.
 
    >[!NOTE]
    >
    >원하는 만큼 목록에 사람을 추가할 수 있지만 한 번만 표시됩니다. 사용자가 삭제할 때까지 목록에 남아 있습니다.
-
