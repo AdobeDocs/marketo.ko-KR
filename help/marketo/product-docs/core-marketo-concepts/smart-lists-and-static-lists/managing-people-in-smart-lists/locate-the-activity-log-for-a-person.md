@@ -3,9 +3,9 @@ unique-page-id: 5472404
 description: 사람에 대한 활동 로그 - 마케팅 문서 - 제품 설명서를 찾습니다.
 title: 개인에 대한 활동 로그 찾기
 translation-type: tm+mt
-source-git-commit: d7d6aee63144c472e02fe0221c4a164183d04dd4
+source-git-commit: 07f713ece9832b7696451001f61c6a3b45b4a94a
 workflow-type: tm+mt
-source-wordcount: '97'
+source-wordcount: '95'
 ht-degree: 0%
 
 ---
@@ -13,9 +13,9 @@ ht-degree: 0%
 
 # {#locate-the-activity-log-for-a-person} 사람에 대한 활동 로그를 찾습니다.
 
-활동 로그는 진실의 최종 원천입니다. 마케팅을 통해 경험한 모든 사례를 소개합니다.
+활동 로그는 진실의 최종 원천입니다. 이것은 마케팅에서 한 사람의 여정의 전적인 이야기이다.
 
-1. 데이터베이스**로 이동합니다**.
+1. **데이터베이스**&#x200B;로 이동합니다.
 
    ![](assets/db-2.png)
 
@@ -35,10 +35,6 @@ ht-degree: 0%
 
    ![](assets/five-2.png)
 
-   >[!NOTE]
+   >[!MORELIKETHIS]
    >
-   >**관련 문서**
-   >
-   >
-   >특정 개인 활동을 보려면 활동 로그[를 필터링하는 방법에 대해 자세히 알아보십시오.](filter-activity-types-in-the-activity-log-of-a-person.md)
-
+   >특정 개인 활동을 보려면 활동 로그](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/managing-people-in-smart-lists/filter-activity-types-in-the-activity-log-of-a-person.md)를 필터링하는 방법에 대해 자세히 알아보십시오.[
