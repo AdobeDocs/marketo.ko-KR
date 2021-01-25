@@ -3,9 +3,9 @@ unique-page-id: 1147124
 description: 자산 탭 사용 - 마케팅 문서 - 제품 설명서
 title: 자산 탭 사용
 translation-type: tm+mt
-source-git-commit: 728066ab05de82f6123bfaa1f0b05af8632e32b2
+source-git-commit: 07f713ece9832b7696451001f61c6a3b45b4a94a
 workflow-type: tm+mt
-source-wordcount: '137'
+source-wordcount: '136'
 ht-degree: 0%
 
 ---
@@ -37,6 +37,8 @@ ht-degree: 0%
 >
 >드래그 앤 드롭하여 자산 열을 재정렬합니다.
 
-프로그램 내역이 아닌 자산은 다음과 같습니다. ![](assets/image2014-9-18-16-3a30-3a33.png)
+프로그램 내역이 아닌 자산은 다음과 같습니다.
+
+![](assets/image2014-9-18-16-3a30-3a33.png)
 
 에셋 탭은 프로그램의 내부 및 참조된 모든 사항에 대한 아주 작은 대시보드입니다.
