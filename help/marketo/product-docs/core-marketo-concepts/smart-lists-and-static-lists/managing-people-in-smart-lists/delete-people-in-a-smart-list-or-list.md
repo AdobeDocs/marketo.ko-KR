@@ -3,7 +3,7 @@ unique-page-id: 1146897
 description: 스마트 목록 또는 목록에서 인물 삭제 - 마케팅 문서 - 제품 설명서
 title: 스마트 목록 또는 목록에서 인물 삭제
 translation-type: tm+mt
-source-git-commit: d7d6aee63144c472e02fe0221c4a164183d04dd4
+source-git-commit: 07f713ece9832b7696451001f61c6a3b45b4a94a
 workflow-type: tm+mt
 source-wordcount: '290'
 ht-degree: 0%
@@ -17,13 +17,9 @@ ht-degree: 0%
 
 >[!PREREQUISITES]
 >
->* [스마트 목록 만들기](../../../../product-docs/core-marketo-concepts/smart-lists-and-static-lists/creating-a-smart-list/create-a-smart-list.md)
+>[스마트 목록 만들기](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/creating-a-smart-list/create-a-smart-list.md)
 
->
-
-
-
-1. **Marketing** **활동**&#x200B;으로 이동합니다.
+1. **마케팅 활동**&#x200B;으로 이동합니다.
 
    ![](assets/ma-1.png)
 
@@ -35,19 +31,19 @@ ht-degree: 0%
    >
    >사람을 삭제하면 목록에서 제거만 되는 것이 아니라 데이터베이스에서 완전히 제거됩니다.
 
-1. **선택** **모두**&#x200B;를 클릭합니다. Ctrl/Cmd를 사용하여 몇 개의 레코드를 선택하고 을 클릭하여 선택할 수도 있습니다.
+1. **모두 선택**&#x200B;을 클릭합니다. Ctrl/Cmd를 사용하여 몇 개의 레코드를 선택하고 을 클릭하여 선택할 수도 있습니다.
 
    ![](assets/three-1.png)
 
    >[!NOTE]
    >
-   >결과가 여러 페이지에 걸쳐 있는 경우 **선택** **모두**&#x200B;를 클릭하면 모든 페이지의 모든 사용자가 선택됩니다.
+   >결과가 여러 페이지에 걸쳐 있는 경우 **모두 선택**&#x200B;을 클릭하면 모든 페이지의 모든 사용자가 선택됩니다.
 
-1. Marketing에서 사용자를 완전히 제거하려면 **삭제** **사람**&#x200B;을 클릭합니다.
+1. Marketing에서 사용자를 완전히 제거하려면 **사람 삭제**&#x200B;를 클릭합니다.
 
    ![](assets/four-1.png)
 
-1. CRM에서도 레코드를 삭제하려면 **제거** **&lt;a4/>CRM**&#x200B;에서 **true**&#x200B;로 설정합니다.****
+1. CRM에서도 레코드를 삭제하려면 **CRM**&#x200B;에서 제거를 **true**&#x200B;로 설정합니다.
 
    ![](assets/five.png)
 
@@ -59,7 +55,7 @@ ht-degree: 0%
    >
    >마케팅이 CRM에 연결되어 있지 않으면 스크린샷에서와 같이 옵션이 회색으로 표시됩니다.
 
-1. **실행** **지금**&#x200B;을 클릭합니다.
+1. **지금 실행**&#x200B;을 클릭합니다.
 
    ![](assets/image2014-9-24-13-3a0-3a3.png)
 
@@ -72,4 +68,3 @@ ht-degree: 0%
    >대량 삭제 결과를 보려면 화면의 오른쪽 위 모서리에 있는 단일 흐름 작업 팝업 상자에서 **결과 보기**&#x200B;를 클릭합니다. 삭제 시간은 여러 요인에 따라 크게 다를 수 있습니다.
 
    이것은 좋은 특징이다. 그것을 사용할 때는 정말 조심해라!
-
