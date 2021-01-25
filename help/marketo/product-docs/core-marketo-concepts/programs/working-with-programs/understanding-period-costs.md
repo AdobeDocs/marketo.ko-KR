@@ -3,9 +3,9 @@ unique-page-id: 7504676
 description: 기간 비용 이해 - 마케팅 문서 - 제품 문서
 title: 기간 비용 이해
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: 07f713ece9832b7696451001f61c6a3b45b4a94a
 workflow-type: tm+mt
-source-wordcount: '278'
+source-wordcount: '273'
 ht-degree: 0%
 
 ---
@@ -27,11 +27,9 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->**자세히 알아보기**
+>[프로그램 이해](/help/marketo/product-docs/core-marketo-concepts/programs/creating-programs/understanding-programs.md)
 >
->[프로그램 이해](../../../../product-docs/core-marketo-concepts/programs/creating-programs/understanding-programs.md)
->
->[프로그램 회원 이해](../../../../product-docs/core-marketo-concepts/programs/creating-programs/understanding-program-membership.md)
+>[프로그램 회원 이해](/help/marketo/product-docs/core-marketo-concepts/programs/creating-programs/understanding-program-membership.md)
 
 ## 기간 비용을 계산하는 방법 {#how-period-costs-are-calculated}
 
@@ -63,18 +61,10 @@ ht-degree: 0%
 
    >[!NOTE]
    >
-   >**미리 알림**
-   >
-   >
-   >요약 - 기간 비용이 정의되지 않은 달은 정의된 마지막 달로 &quot;뒤로&quot; 롤업됩니다. 이전 기간 비용이 없는 경우 달은 정의된 다음 기간으로 &quot;앞으로&quot;됩니다. *임의의*&#x200B;개월 동안 기간 비용이 정의되지 않은 경우 프로그램에 대해 RCE 보고를 사용할 수 없습니다.
+   >요약 - 기간 비용이 정의되지 않은 달은 정의된 마지막 달로 &quot;뒤로&quot; 롤업됩니다. 이전 기간 비용이 없는 경우 달은 정의된 다음 기간으로 &quot;앞으로&quot;됩니다. _임의의_&#x200B;개월 동안 기간 비용이 정의되지 않은 경우 프로그램에 대해 RCE 보고를 사용할 수 없습니다.
 
-   >[!NOTE]
+   >[!MORELIKETHIS]
    >
-   >**관련 문서**
-   >
-   >    
-   >    
-   >    * [프로그램에서 기간 비용 사용](using-period-costs-in-a-program.md)
-   >    * [기간 원가로 프로그램 보고서 필터링](../../../../product-docs/core-marketo-concepts/programs/program-performance-report/filter-a-program-report-by-period-cost.md)
-
+   >* [프로그램에서 기간 비용 사용](/help/marketo/product-docs/core-marketo-concepts/programs/working-with-programs/using-period-costs-in-a-program.md)
+   >* [기간 원가로 프로그램 보고서 필터링](/help/marketo/product-docs/core-marketo-concepts/programs/program-performance-report/filter-a-program-report-by-period-cost.md)
 
