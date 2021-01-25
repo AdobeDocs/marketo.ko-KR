@@ -3,9 +3,9 @@ unique-page-id: 2949891
 description: 정적 목록 이해 - 마케팅 문서 - 제품 설명서
 title: 정적 목록 이해
 translation-type: tm+mt
-source-git-commit: d7d6aee63144c472e02fe0221c4a164183d04dd4
+source-git-commit: 07f713ece9832b7696451001f61c6a3b45b4a94a
 workflow-type: tm+mt
-source-wordcount: '219'
+source-wordcount: '215'
 ht-degree: 0%
 
 ---
@@ -28,15 +28,15 @@ ht-degree: 0%
 
 >[!CAUTION]
 >
->가장 일반적인 실수 중 하나는 단순히 &quot;사람을 삭제한다&quot;며 한 사람을 목록에서 제거할 수 있다고 생각하는 것이다. **이건 잘못된 거야** 사람을 삭제하면 목록 **이 아니라 전체** 데이터베이스에서 삭제됩니다.
+>가장 일반적인 실수 중 하나는 단순히 &quot;사람을 삭제한다&quot;며 한 사람을 목록에서 제거할 수 있다고 생각하는 것이다. **이건 잘못된** 거야 사용자를 삭제하면 목록뿐만 아니라 **전체 데이터베이스**&#x200B;에서도 삭제됩니다.
 
 ## 목록에서 사람을 추가/제거하는 방법 {#ways-to-add-remove-people-from-a-list}
 
-1. 스마트 캠페인 흐름 단계([목록에 추가](../../../../product-docs/core-marketo-concepts/smart-campaigns/flow-actions/add-to-list.md), [목록에서 제거](../../../../product-docs/core-marketo-concepts/smart-campaigns/flow-actions/remove-from-list.md))
+1. 스마트 캠페인 흐름 단계([목록에 추가](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/add-to-list.md), [목록에서 제거](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/remove-from-list.md))
 
-1. [단일 작업 흐름 단계](../../../../product-docs/core-marketo-concepts/smart-lists-and-static-lists/using-smart-lists/run-a-single-flow-step-from-a-smart-list.md)
+1. [단일 작업 흐름 단계](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/using-smart-lists/run-a-single-flow-step-from-a-smart-list.md)
 1. 사용자를 트리의 목록으로 끌기
-1. [목록 가져오기](../../../../getting-started/quick-wins/import-a-list-of-people.md)
+1. [목록 가져오기](/help/marketo/getting-started/quick-wins/import-a-list-of-people.md)
 
 ## 정적 목록 {#some-uses-of-a-static-list}의 일부 사용
 
@@ -48,5 +48,4 @@ LIST의 강력한 기능을 경험해 보십시오!
 
 >[!MORELIKETHIS]
 >
->[정적 목록 만들기](https://docs.marketo.com/x/ecKt)
-
+>[정적 목록 만들기](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/static-lists/create-a-static-list.md)
