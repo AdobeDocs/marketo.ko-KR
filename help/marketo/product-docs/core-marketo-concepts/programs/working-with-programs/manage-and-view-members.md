@@ -3,9 +3,9 @@ unique-page-id: 1147122
 description: 구성원 관리 및 보기 - 마케팅 문서 - 제품 설명서
 title: 구성원 관리 및 보기
 translation-type: tm+mt
-source-git-commit: d7d6aee63144c472e02fe0221c4a164183d04dd4
+source-git-commit: 07f713ece9832b7696451001f61c6a3b45b4a94a
 workflow-type: tm+mt
-source-wordcount: '253'
+source-wordcount: '251'
 ht-degree: 0%
 
 ---
@@ -17,9 +17,7 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->**자세히 알아보기**
->
-> [프로그램 회원](../../../../product-docs/core-marketo-concepts/programs/creating-programs/understanding-program-membership.md)에 대해 자세히 알아보십시오.
+>[프로그램 회원](/help/marketo/product-docs/core-marketo-concepts/programs/creating-programs/understanding-program-membership.md)에 대해 자세히 알아보십시오.
 
 ## 구성원 {#search-for-a-member} 검색
 
@@ -41,21 +39,21 @@ ht-degree: 0%
 
 ## 멤버 격자의 열 관리 {#manage-columns-in-the-members-grid}
 
-* 열을 드래그하여 놓아 순서를 변경할 수 있습니다. 파란색 화살표 쌍은 열이 이동할 위치를 나타냅니다.
+열을 드래그하여 놓아 순서를 변경할 수 있습니다. 파란색 화살표 쌍은 열이 이동할 위치를 나타냅니다.
 
-   ![](assets/image2014-10-1-16-3a25-3a30.png)
+![](assets/image2014-10-1-16-3a25-3a30.png)
 
-* 열 헤더를 마우스 오른쪽 단추로 클릭하여 알파벳순으로 오름차순 또는 내림차순으로 정렬합니다.
+열 헤더를 마우스 오른쪽 단추로 클릭하여 알파벳순으로 오름차순 또는 내림차순으로 정렬합니다.
 
-   ![](assets/image2014-10-1-17-3a3-3a28.png)
+![](assets/image2014-10-1-17-3a3-3a28.png)
 
 ## 격자 {#choose-which-columns-are-visible-in-the-grid}에 표시할 열 선택
 
-1. **View **드롭다운을 클릭하고 **보기 만들기**&#x200B;를 선택합니다.
+1. **보기** 드롭다운을 클릭하고 **보기 만들기**&#x200B;를 선택합니다.
 
    ![](assets/image2014-10-1-16-3a32-3a43.png)
 
-1. 사용자 정의 보기의 이름을 지정합니다. 열 제목을 선택합니다. 열을 이동하고 보기를 만들려면 **및** 제거**를 클릭합니다.
+1. 사용자 정의 보기의 이름을 지정합니다. 열 제목을 선택합니다. **추가** 및 **제거**&#x200B;를 클릭하여 열을 이동하고 보기를 만듭니다.
 
    ![](assets/image2014-10-1-16-3a36-3a52.png)
 
@@ -89,9 +87,4 @@ ht-degree: 0%
 
 >[!MORELIKETHIS]
 >
->* [프로그램 성능 보고서 만들기](../../../../product-docs/core-marketo-concepts/programs/program-performance-report/create-a-program-performance-report.md)
-
->
-
-
-
+>[프로그램 성능 보고서 만들기](/help/marketo/product-docs/core-marketo-concepts/programs/program-performance-report/create-a-program-performance-report.md)
