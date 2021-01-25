@@ -3,9 +3,9 @@ unique-page-id: 2953415
 description: 개인 세부 정보 페이지 사용 - 마케팅 문서 - 제품 설명서
 title: 개인 세부 사항 페이지 사용
 translation-type: tm+mt
-source-git-commit: d7d6aee63144c472e02fe0221c4a164183d04dd4
+source-git-commit: 07f713ece9832b7696451001f61c6a3b45b4a94a
 workflow-type: tm+mt
-source-wordcount: '532'
+source-wordcount: '527'
 ht-degree: 0%
 
 ---
@@ -17,21 +17,15 @@ ht-degree: 0%
 
 ## 개인 상세 정보 페이지 {#getting-to-person-detail-page} 가져오기
 
-특정한 사람들을 여는 많은 방법들이 있다. 다음은 몇 가지 예입니다.
+특정한 사람들을 여는 많은 방법들이 있다. 예를 들면 다음과 같습니다.
 
->[!NOTE]
->
->**예**
->
->* **데이터베이스**&#x200B;에서 빠른 찾기에서 검색할 수 있습니다
->* 모든 스마트 **목록** 또는 목록
->* **프로그램** 멤버십
->* **스마트** 캠페인에서 캠페인 구성원 보기
->* 일부 **보고서**
+* **데이터베이스**&#x200B;에서 빠른 찾기에서 검색할 수 있습니다
+* 모든 스마트 **목록** 또는 목록
+* **프로그램** 멤버십
+* **스마트** 캠페인에서 캠페인 구성원 보기
+* 일부 **보고서**
 
->
-
-
+   <br> 
 
 1. 사람을 두 번 클릭하거나 왼쪽의 ID를 한 번 클릭합니다.
 
@@ -96,9 +90,7 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->**자세히 알아보기**
->
->일부 필드는 편집할 수 없는 *입니다.*
+>일부 필드는 편집할 수 없는 _입니다._
 >
 >* 회사 정보
 >* SFDC 연락처 기회
@@ -107,13 +99,8 @@ ht-degree: 0%
 
 >
 >
-[시스템 관리 필드](../../../../product-docs/administration/field-management/understanding-system-managed-fields.md)에 대해 자세히 알아보십시오.
+[시스템 관리 필드](/help/marketo/product-docs/administration/field-management/understanding-system-managed-fields.md)에 대해 자세히 알아보십시오.
 
 >[!MORELIKETHIS]
 >
->* [개인 세부 사항 페이지에 대한 사용자 정의 탭 만들기](../../../../product-docs/administration/settings/creating-a-custom-tab-for-the-person-detail-page.md)
-
->
-
-
-
+>[개인 세부 사항 페이지에 대한 사용자 정의 탭 만들기](/help/marketo/product-docs/administration/settings/creating-a-custom-tab-for-the-person-detail-page.md)
