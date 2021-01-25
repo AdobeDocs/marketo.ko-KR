@@ -3,9 +3,9 @@ unique-page-id: 2952402
 description: 사람의 활동 로그에서 활동 유형 필터링 - 마케팅 문서 - 제품 설명서
 title: 개인의 활동 로그에서 활동 유형 필터링
 translation-type: tm+mt
-source-git-commit: d7d6aee63144c472e02fe0221c4a164183d04dd4
+source-git-commit: 07f713ece9832b7696451001f61c6a3b45b4a94a
 workflow-type: tm+mt
-source-wordcount: '130'
+source-wordcount: '128'
 ht-degree: 0%
 
 ---
@@ -17,9 +17,7 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->**자세히 알아보기**
->
->작업 로그[에 대해 자세히 알아보십시오.](locate-the-activity-log-for-a-person.md)
+>작업 로그](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/managing-people-in-smart-lists/locate-the-activity-log-for-a-person.md)에 대해 자세히 알아보십시오.[
 
 1. **사람 세부 사항** 페이지로 이동합니다. **활동 로그** 탭을 클릭합니다.
 
@@ -58,4 +56,3 @@ ht-degree: 0%
 1. **저장된 필터**&#x200B;를 클릭합니다. 저장된 필터는 아래에 나열되어 있습니다.
 
    ![](assets/eight.png)
-
