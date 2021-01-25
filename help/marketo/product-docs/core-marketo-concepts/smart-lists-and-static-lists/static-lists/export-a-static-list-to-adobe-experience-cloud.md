@@ -3,9 +3,9 @@ unique-page-id: 37356194
 description: 정적 목록을 Adobe Experience Cloud - Marketing To Docs - 제품 문서로 내보내기
 title: 정적 목록을 Adobe Experience Cloud으로 내보내기
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 07f713ece9832b7696451001f61c6a3b45b4a94a
 workflow-type: tm+mt
-source-wordcount: '592'
+source-wordcount: '587'
 ht-degree: 0%
 
 ---
@@ -19,7 +19,7 @@ ht-degree: 0%
 
 >[!PREREQUISITES]
 >
->[Adobe Experience Cloud 대상 공유 설정](http://docs.marketo.com/x/D4GMAg)
+>[Adobe Experience Cloud 대상 공유 설정](/help/marketo/product-docs/core-marketo-concepts/miscellaneous/set-up-adobe-experience-cloud-audience-sharing.md)
 
 ## 지원되는 대상 응용 프로그램 {#supported-destination-applications}
 
@@ -60,7 +60,7 @@ ht-degree: 0%
 
 **Adobe Analytics에 공유**
 
-Adobe Audience Manager과 Adobe Analytics을 모두 보유한 고객의 경우, 이 통합을 통해 대상을 Marketing To에서 Adobe Analytics 보고서 세트로 공유할 수 있지만, 이 기능을 사용하려면 Adobe Audience Manager에서 수행해야 하는 몇 가지 추가 구성 단계가 있습니다. 설정 방법에 대한 자세한 내용은 Adobe Audience Manager 설명서를 참조하십시오.[https://docs.adobe.com/content/help/en/analytics/integration/audience-analytics/mc-audiences-aam.html](http://docs.adobe.com/content/help/en/analytics/integration/audience-analytics/mc-audiences-aam.html).
+Adobe Audience Manager과 Adobe Analytics을 모두 보유한 고객의 경우, 이 통합을 통해 대상을 Marketing To에서 Adobe Analytics 보고서 세트로 공유할 수 있지만, 이 기능을 사용하려면 Adobe Audience Manager에서 수행해야 하는 몇 가지 추가 구성 단계가 있습니다. 설정 방법에 대한 자세한 내용은 Adobe Audience Manager 설명서를 참조하십시오.[https://docs.adobe.com/content/help/en/analytics/integration/audience-analytics/mc-audiences-aam.html](https://docs.adobe.com/content/help/en/analytics/integration/audience-analytics/mc-audiences-aam.html).
 
 **Adobe Audience Manager 고객을 위한 트레이트 사용량**
 
@@ -80,4 +80,4 @@ Marketing To에서 목록 내보내기를 시작하면 Adobe Audience Manager �
 
 Marketing To 구독에 쿠키 동기화가 활성화되어 있으면 Marketing의 munchkin.js는 통합 설정 중에 지정한 Adobe IMS 조직에 대한 Adobe ECID를 캡처하고 저장하려고 하며 이러한 ECID를 해당 Marketing To 쿠키 식별자와 일치시킵니다. 이를 통해 Marketing의 익명 사용자 프로필은 Adobe ECID를 통해 더욱 풍부해집니다.
 
-일반 텍스트 이메일을 사용하여 식별되는 리드 프로필에 익명 사용자 프로필을 연결하려면 추가 단계가 필요합니다. 이러한 작동 방식을 여기에서 정확히 설명합니다.[https://docs.marketo.com/display/public/DOCS/Tracking+Anonymous+Activity+and+People](http://docs.marketo.com/display/public/DOCS/Tracking+Anonymous+Activity+and+People).
+일반 텍스트 이메일을 사용하여 식별되는 리드 프로필에 익명 사용자 프로필을 연결하려면 추가 단계가 필요합니다. 이러한 작동 방식을 여기에서 정확히 설명합니다.[https://docs.marketo.com/display/public/DOCS/Tracking+Anonymous+Activity+and+People](https://docs.marketo.com/display/public/DOCS/Tracking+Anonymous+Activity+and+People).
