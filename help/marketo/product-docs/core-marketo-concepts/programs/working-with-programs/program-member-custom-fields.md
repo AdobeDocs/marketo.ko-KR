@@ -3,9 +3,9 @@ unique-page-id: 37355569
 description: 프로그램 멤버 사용자 정의 필드 - 마케팅 문서 - 제품 설명서
 title: 프로그램 회원 사용자 정의 필드
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 07f713ece9832b7696451001f61c6a3b45b4a94a
 workflow-type: tm+mt
-source-wordcount: '390'
+source-wordcount: '374'
 ht-degree: 0%
 
 ---
@@ -43,7 +43,7 @@ ht-degree: 0%
 
    >[!NOTE]
    >
-   >프로그램 멤버 사용자 정의 필드에 지원되는 유형은 다음과 같습니다.boolean, date, datetime, float, integer, string, URL. [필드 유형에 대해 자세히 알아보십시오](http://docs.marketo.com/x/Wwgt).
+   >프로그램 멤버 사용자 정의 필드에 지원되는 유형은 다음과 같습니다.boolean, date, datetime, float, integer, string, URL. [필드 유형에 대해 자세히 알아보십시오](/help/marketo/product-docs/administration/field-management/custom-field-type-glossary.md).
 
 ## 개체 설명 {#object-descriptions}
 
@@ -56,7 +56,7 @@ ht-degree: 0%
 
 ## 트리거 및 필터 {#triggers-and-filters}
 
-[트리거](http://docs.marketo.com/x/PoAR)및/또는 [filters](http://docs.marketo.com/x/2YAI)를 통해 스마트 목록에 있는 이 프로그램 관련 데이터를 활용할 수 있습니다.
+[트리거](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/creating-a-smart-campaign/define-smart-list-for-smart-campaign-trigger.md) 및/또는 [filters](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/creating-a-smart-list/find-and-add-filters-to-a-smart-list.md)를 통해 스마트 목록에 있는 이 프로그램 관련 데이터를 활용할 수 있습니다.
 
 ![](assets/six.png)
 
@@ -68,10 +68,9 @@ ht-degree: 0%
 * Program Member 객체에는 최대 20개의 사용자 정의 필드가 있을 수 있습니다. 이러한 필드는 모든 프로그램에서 사용할 수 있습니다.
 * 프로그램 멤버를 제거하면 해당 프로그램 멤버 사용자 정의 필드에 데이터가 있는 경우 해당 필드에서 데이터가 지워집니다.
 * 데이터를 보려면 프로그램의 멤버 탭을 클릭하고 해당 필드를 포함하는 사용자 정의 보기를 만듭니다.
-* [list](http://docs.marketo.com/x/egAk)및 [API](http://developers.marketo.com/)를 통해 가져오고 내보낼 수 있습니다.
+* [list](/help/marketo/getting-started/quick-wins/import-a-list-of-people.md)및 [API](https://developers.marketo.com/)를 통해 가져오고 내보낼 수 있습니다.
 * 두 사람을 병합하면 우승자의 프로그램 멤버 사용자 정의 필드 데이터가 사용됩니다. 그러나 승자가 없는 경우는 패자의 가치를 매긴다.
 
 >[!MORELIKETHIS]
 >
->[Marketing To에서 사용자 정의 필드 만들기](../../../../product-docs/administration/field-management/create-a-custom-field-in-marketo.md)
-
+>[Marketing To에서 사용자 정의 필드 만들기](/help/marketo/product-docs/administration/field-management/create-a-custom-field-in-marketo.md)
