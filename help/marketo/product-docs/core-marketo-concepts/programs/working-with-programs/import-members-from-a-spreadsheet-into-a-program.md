@@ -3,7 +3,7 @@ unique-page-id: 1147120
 description: 스프레드시트의 멤버를 프로그램 - Marketing To Docs - 제품 문서로 가져오기
 title: 스프레드시트에서 프로그램으로 멤버 가져오기
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 07f713ece9832b7696451001f61c6a3b45b4a94a
 workflow-type: tm+mt
 source-wordcount: '163'
 ht-degree: 0%
@@ -23,7 +23,7 @@ ht-degree: 0%
 
    >[!CAUTION]
    >
-   >날짜를 날짜 필드로 가져올 때는 다음 형식을 사용하십시오.9/23/13(월/일/년).
+   >날짜를 날짜 필드로 가져올 때는 다음 형식을 사용하십시오.9/29/13(월/일/년).
 
 ## CSV를 Marketing으로 {#import-your-csv-into-marketo} 가져오기
 
@@ -65,9 +65,4 @@ ht-degree: 0%
 
 >[!MORELIKETHIS]
 >
->* [구성원 관리 및 보기](manage-and-view-members.md)
-
->
-
-
-
+>[구성원 관리 및 보기](/help/marketo/product-docs/core-marketo-concepts/programs/working-with-programs/manage-and-view-members.md)
