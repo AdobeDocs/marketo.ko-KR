@@ -3,7 +3,7 @@ unique-page-id: 2953173
 description: 스마트 목록의 목록 멤버 사용 - 마케팅 문서 - 제품 설명서
 title: 스마트 목록에서 목록 멤버 사용
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: 07f713ece9832b7696451001f61c6a3b45b4a94a
 workflow-type: tm+mt
 source-wordcount: '137'
 ht-degree: 0%
@@ -15,7 +15,7 @@ ht-degree: 0%
 
 >[!TIP]
 >
->[가져오기](../../../../getting-started/quick-wins/import-a-list-of-people.md) 또는 [목록 흐름 단계](../../../../product-docs/core-marketo-concepts/smart-campaigns/flow-actions/add-to-list.md)를 사용하여 목록에 사람을 추가할 수 있습니다.
+>[가져오기](/help/marketo/getting-started/quick-wins/import-a-list-of-people.md) 또는 [목록 흐름 단계](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/add-to-list.md)를 사용하여 목록에 사람을 추가할 수 있습니다.
 
 이 필터를 사용하면 스마트 목록 규칙에서 해당 필터를 참조하여 다른 목록에서 구성원을 가져올 수 있습니다. 방법
 
@@ -31,5 +31,4 @@ ht-degree: 0%
 
    ![](assets/memberoflist.png)
 
-   **완료!** 이 예에서 스마트 목록은 이제 해당 목록의 멤버만 타깃팅하고 사용자가 포함하는 다른 규칙을 기반으로 평가합니다.
-
+   완료! 이 예에서 스마트 목록은 이제 해당 목록의 멤버만 타깃팅하고 사용자가 포함하는 다른 규칙을 기반으로 평가합니다.
