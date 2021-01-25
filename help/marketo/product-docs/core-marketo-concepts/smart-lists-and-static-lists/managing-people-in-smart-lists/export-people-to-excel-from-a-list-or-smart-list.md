@@ -3,7 +3,7 @@ unique-page-id: 557329
 description: 목록 또는 스마트 목록에서 Excel로 인물 내보내기 - 마케팅 문서 - 제품 설명서
 title: 목록 또는 스마트 목록에서 Excel로 인물 내보내기
 translation-type: tm+mt
-source-git-commit: d7d6aee63144c472e02fe0221c4a164183d04dd4
+source-git-commit: 07f713ece9832b7696451001f61c6a3b45b4a94a
 workflow-type: tm+mt
 source-wordcount: '237'
 ht-degree: 0%
@@ -54,4 +54,3 @@ Marketing To 외부에서 목록 또는 스마트 목록 결과가 필요한 경
    >[!TIP]
    >
    >목록의 새로 고침 단추를 간단히 눌러 목록의 캐싱을 실행 취소할 수 있습니다.
-
