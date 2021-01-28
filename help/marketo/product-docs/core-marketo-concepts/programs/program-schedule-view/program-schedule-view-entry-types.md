@@ -3,9 +3,9 @@ unique-page-id: 1147243
 description: 프로그램 일정 보기 시작 유형 - 마케팅 문서 - 제품 설명서
 title: 프로그램 스케줄 보기 시작 유형
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: e5050328cbddaf072dd60ddd8d7363a704e720b5
 workflow-type: tm+mt
-source-wordcount: '148'
+source-wordcount: '143'
 ht-degree: 0%
 
 ---
@@ -13,7 +13,7 @@ ht-degree: 0%
 
 # 프로그램 일정 보기 시작 유형 {#program-schedule-view-entry-types}
 
-프로그램 예약 보기에 표시되고 사용할 수 있는 8개의 기본 제공 시작 유형이 있습니다. 관리 섹션에서 [사용자 정의 항목 유형](create-custom-entry-types.md)을 만들 수도 있습니다.
+프로그램 예약 보기에 표시되고 사용할 수 있는 8개의 기본 제공 시작 유형이 있습니다. 관리 섹션에서 [사용자 정의 항목 유형](/help/marketo/product-docs/core-marketo-concepts/programs/program-schedule-view/create-custom-entry-types.md)을 만들 수도 있습니다.
 
 <table> 
  <thead> 
@@ -57,12 +57,3 @@ ht-degree: 0%
   </tr> 
  </tbody> 
 </table>
-
->[!MORELIKETHIS]
->
->* [사용자 정의 항목 유형 만들기](create-custom-entry-types.md)
-
->
-
-
-
