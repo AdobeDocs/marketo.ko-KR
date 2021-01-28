@@ -3,9 +3,9 @@ unique-page-id: 7503973
 description: 프레젠테이션 사용자 지정 - 마케팅 문서 - 제품 설명서
 title: 프레젠테이션 사용자 정의
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: e5050328cbddaf072dd60ddd8d7363a704e720b5
 workflow-type: tm+mt
-source-wordcount: '288'
+source-wordcount: '286'
 ht-degree: 0%
 
 ---
@@ -23,18 +23,15 @@ ht-degree: 0%
 
 >[!PREREQUISITES]
 >
->* [사용자 지정 ](create-a-custom-goal.md) 목표 또는  [스마트 목록 목표 만들기](create-a-smart-list-goal.md)
+>* [사용자 지정 ](/help/marketo/product-docs/core-marketo-concepts/marketing-calendar/calendar-hd/create-a-custom-goal.md) 목표 또는  [스마트 목록 목표 만들기](/help/marketo/product-docs/core-marketo-concepts/marketing-calendar/calendar-hd/create-a-smart-list-goal.md)
    >
    >
-* [프레젠테이션 만들기](create-a-presentation.md)
-
->
-
+* [프레젠테이션 만들기](/help/marketo/product-docs/core-marketo-concepts/marketing-calendar/calendar-hd/create-a-presentation.md)
 
 
 ## 보기 {#choosing-the-views} 선택
 
-Presentations은 사용자가 선택하는 다른 [필터 정의](../../../../product-docs/core-marketo-concepts/marketing-calendar/working-with-the-calendar/filtering-the-marketing-calendar.md)를 순환합니다. 원하는 만큼 뷰를 가져와 빈도를 사용자 정의할 수 있습니다.
+Presentations은 사용자가 선택하는 다른 [필터 정의](/help/marketo/product-docs/core-marketo-concepts/marketing-calendar/working-with-the-calendar/filtering-the-marketing-calendar.md)를 순환합니다. 원하는 만큼 뷰를 가져와 빈도를 사용자 정의할 수 있습니다.
 
 1. 오른쪽 트리에서 프레젠테이션에서 회전할 다른 보기를 드래그합니다.
 
@@ -42,7 +39,7 @@ Presentations은 사용자가 선택하는 다른 [필터 정의](../../../../pr
 
 ## 목표 추가 {#add-a-goal}
 
-Presentations은 팀 목표를 표시할 때 가장 뛰어난 제품입니다. 다른 [사용자 지정 목표](create-a-custom-goal.md) 또는 [스마트 목록 목표](create-a-smart-list-goal.md) 위로 드래그하면 됩니다. 최대 10개까지 사용할 수 있습니다.
+Presentations은 팀 목표를 표시할 때 가장 뛰어난 제품입니다. 다른 [사용자 지정 목표](/help/marketo/product-docs/core-marketo-concepts/marketing-calendar/calendar-hd/create-a-custom-goal.md) 또는 [스마트 목록 목표](/help/marketo/product-docs/core-marketo-concepts/marketing-calendar/calendar-hd/create-a-smart-list-goal.md) 위로 드래그하면 됩니다. 최대 10개까지 사용할 수 있습니다.
 
 1. 오른쪽 트리에서 프레젠테이션에 표시할 다른 목표를 드래그합니다.
 
@@ -52,7 +49,7 @@ Presentations은 팀 목표를 표시할 때 가장 뛰어난 제품입니다. �
 
 프레젠테이션에서 원하는 보기를 가져오면 다른 보기 사이에서 회전하는 빈도를 설정합니다.
 
-1. Click** 5분**(기본 패턴임).
+1. **5분**(기본 패턴임)을 클릭합니다.
 
    ![](assets/image2015-3-18-13-3a17-3a29.png)
 
@@ -76,7 +73,7 @@ Presentations은 팀 목표를 표시할 때 가장 뛰어난 제품입니다. �
 
 >[!TIP]
 >
->프레젠테이션에 대해 [배경 이미지](add-a-background-image-to-a-presentation.md)를 설정합니다. 고양이나 무지개를 추천합니다
+>프레젠테이션에 대해 [배경 이미지](/help/marketo/product-docs/core-marketo-concepts/marketing-calendar/calendar-hd/add-a-background-image-to-a-presentation.md)를 설정합니다. 고양이나 무지개를 추천합니다
 
 ## 프레젠테이션 미리 보기 {#preview-a-presentation}
 
@@ -92,14 +89,8 @@ Presentations은 팀 목표를 표시할 때 가장 뛰어난 제품입니다. �
 
    보는 게 마음에 안 들어? 뒤로 돌아가 다른 필터 정의를 사용하여 원하는 보기를 만듭니다.
 
->[!NOTE]
+>[!MORELIKETHIS]
 >
->**관련 문서**
->
->* [프레젠테이션에 배경 이미지 추가](add-a-background-image-to-a-presentation.md)
->* [프레젠테이션 시작](launch-a-presentation.md)
-
->
-
-
+>* [프레젠테이션에 배경 이미지 추가](/help/marketo/product-docs/core-marketo-concepts/marketing-calendar/calendar-hd/add-a-background-image-to-a-presentation.md)
+>* [프레젠테이션 시작](/help/marketo/product-docs/core-marketo-concepts/marketing-calendar/calendar-hd/launch-a-presentation.md)
 
