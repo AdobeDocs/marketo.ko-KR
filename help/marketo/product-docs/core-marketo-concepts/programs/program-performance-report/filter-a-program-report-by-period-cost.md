@@ -3,9 +3,9 @@ unique-page-id: 1147237
 description: 기간 비용 - 마케팅 문서 - 제품 설명서별로 프로그램 보고서 필터링
 title: 기간 원가로 프로그램 보고서 필터링
 translation-type: tm+mt
-source-git-commit: 00887ea53e395bea3a11fd28e0ac98b085ef6ed8
+source-git-commit: e5050328cbddaf072dd60ddd8d7363a704e720b5
 workflow-type: tm+mt
-source-wordcount: '110'
+source-wordcount: '93'
 ht-degree: 0%
 
 ---
@@ -13,9 +13,9 @@ ht-degree: 0%
 
 # 기간 비용 {#filter-a-program-report-by-period-cost}별로 프로그램 보고서 필터링
 
-특정 기간 비용 기간에 [프로그램 성과 보고서](create-a-program-performance-report.md)를 집중하십시오.
+특정 기간 비용 기간에 [프로그램 성과 보고서](/help/marketo/product-docs/core-marketo-concepts/programs/program-performance-report/create-a-program-performance-report.md)를 집중하십시오.
 
-1. **Marketing** **활동**(또는 **Analytics**)으로 이동합니다.
+1. **마케팅 활동**(또는 **Analytics**)으로 이동합니다.
 
    ![](assets/login-marketing-activities-1.png)
 
@@ -37,17 +37,4 @@ ht-degree: 0%
 
    >[!NOTE]
    >
-   >**관련 문서**
-   >
-   >    
-   >    
-   >    * [프로그램별 프로그램 보고서 필터링](filter-a-program-report-by-program.md)
-
-
-   >[!NOTE]
-   >
-   >**자세히 알아보기**
-   >
-   >
-   >[기본 보고](http://docs.marketo.com/display/docs/basic+reporting)의 보고서에 대해 모두 알아봅니다.
-
+   >[프로그램별 프로그램 보고서 필터링](/help/marketo/product-docs/core-marketo-concepts/programs/program-performance-report/filter-a-program-report-by-program.md)
