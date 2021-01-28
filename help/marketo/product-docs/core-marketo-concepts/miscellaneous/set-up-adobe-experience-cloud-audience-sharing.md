@@ -3,9 +3,9 @@ unique-page-id: 42762511
 description: Adobe Experience Cloud 고객 공유 설정 - Marketing To Docs - 제품 설명서
 title: Adobe Experience Cloud 대상 공유 설정
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: e5050328cbddaf072dd60ddd8d7363a704e720b5
 workflow-type: tm+mt
-source-wordcount: '166'
+source-wordcount: '161'
 ht-degree: 0%
 
 ---
@@ -31,7 +31,7 @@ ht-degree: 0%
 
    ![](assets/three-2.png)
 
-1. Adobe IMS 조직 ID를 입력하고(해당 [여기](http://docs.adobe.com/content/help/en/control-panel/using/faq.html)를 찾는 방법에 대해 알아보기) **확인**&#x200B;을 클릭합니다.
+1. Adobe IMS 조직 ID를 입력하고(해당 [여기](https://docs.adobe.com/content/help/en/control-panel/using/faq.html)를 찾는 방법에 대해 알아보기) **확인**&#x200B;을 클릭합니다.
 
    ![](assets/four-2.png)
 
@@ -47,7 +47,6 @@ ht-degree: 0%
    >
    >보안상의 이유로 매핑할 Adobe 조직의 조직 관리자여야 합니다. 그렇지 않으면 작업이 실패합니다.
 
-1. 이미 로그인되어 있지 않은 *인 경우 새 탭/창에 팝업이 표시됩니다.* Adobe 조직에 로그인합니다(이 작업은 조직 액세스를 검증합니다).
+1. 이미 로그인되어 있지 않은 _인 경우 새 탭/창에 팝업이 표시됩니다._ Adobe 조직에 로그인합니다(이 작업은 조직 액세스를 검증합니다).
 
-   바로 그거야! 이제 [대상 데이터 공유](http://docs.marketo.com/x/ogI6Ag)를 시작할 수 있습니다.
-
+   바로 그거야! 이제 [대상 데이터 공유](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/static-lists/send-a-list-to-adobe-experience-cloud.md)를 시작할 수 있습니다.
