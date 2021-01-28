@@ -3,9 +3,9 @@ unique-page-id: 8781911
 description: 이메일 프로그램 카드 이해 - 마케팅 문서 - 제품 설명서
 title: 이메일 프로그램 카드 이해
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: e5050328cbddaf072dd60ddd8d7363a704e720b5
 workflow-type: tm+mt
-source-wordcount: '318'
+source-wordcount: '310'
 ht-degree: 0%
 
 ---
@@ -17,13 +17,13 @@ Marketing To Mo멘트를 사용하여 스마트폰 또는 iPad에서 이메일 �
 
 ## 이메일 프로그램 카드 {#email-program-cards}
 
-`<iframe width="420" height="315" src="https://www.youtube-nocookie.com/embed/n8JTSZI22Do" frameborder="0" allowfullscreen></iframe>` 이메일 프로그램 카드를 탭하면 다음 작업을 수행할 수 있습니다.
+이메일 프로그램 카드를 탭하면 다음 작업을 수행할 수 있습니다.
 
-* [즐겨찾는 이메일 만들기](../../../../../product-docs/core-marketo-concepts/mobile-apps/marketo-moments/working-with-moments/creating-a-favorite.md)
-* [완료 상태로 이메일 표시](../../../../../product-docs/core-marketo-concepts/mobile-apps/marketo-moments/working-with-moments/marking-it-done.md)
-* [이메일 모멘트 카드 공유](../../../../../product-docs/core-marketo-concepts/mobile-apps/marketo-moments/working-with-moments/sharing-a-moment.md)
+* [즐겨찾는 이메일 만들기](/help/marketo/product-docs/core-marketo-concepts/mobile-apps/marketo-moments/working-with-moments/creating-a-favorite.md)
+* [완료 상태로 이메일 표시](/help/marketo/product-docs/core-marketo-concepts/mobile-apps/marketo-moments/working-with-moments/marking-it-done.md)
+* [이메일 모멘트 카드 공유](/help/marketo/product-docs/core-marketo-concepts/mobile-apps/marketo-moments/working-with-moments/sharing-a-moment.md)
 
-아직 전송되지 않은 이메일의 이메일 프로그램 카드에서 해당 이메일 프로그램의 상태 및 대상자에 대한 정보를 확인할 수 있습니다.
+아직 전송되지 않은 이메일의 이메일 프로그램 카드에서 이메일 프로그램의 상태 및 대상자에 대한 정보를 확인할 수 있습니다.
 
 ![](assets/image2015-7-2-9-3a33-3a47.png)
 
@@ -41,7 +41,7 @@ Marketing To Mo멘트를 사용하여 스마트폰 또는 iPad에서 이메일 �
 
    ![](assets/image2015-7-16-17-3a8-3a34.png)
 
-1. **Confirm **을 눌러 작업을 완료하거나 다른 의견을 가지고 있는 경우 **Never Mind** 을 누릅니다.
+1. **Confirm**&#x200B;을 눌러 작업을 완료하거나, 다른 생각이 있는 경우 **Never Mind**&#x200B;을(를) 누릅니다.
 
    ![](assets/image2015-7-16-17-3a12-3a18.png)
 
@@ -105,7 +105,8 @@ Marketing To Mo멘트를 사용하여 스마트폰 또는 iPad에서 이메일 �
 
    ![](assets/image2015-7-14-16-3a42-3a21.png)
 
-   이렇게 하면 방아쇠를 당기기 전에 이메일이 완벽하다는 것을 알 수 있습니다!\
+   이렇게 하면 방아쇠를 당기기 전에 이메일이 완벽하다는 것을 알 수 있습니다!
+
    ![](assets/image2015-6-30-11-3a15-3a22.png)
 
    훌륭해!
@@ -114,12 +115,7 @@ Marketing To Mo멘트를 사용하여 스마트폰 또는 iPad에서 이메일 �
 
 >[!MORELIKETHIS]
 >
->* [마케팅을 위한 고객 의견 이해](understanding-marketo-moments.md)
->* [이벤트 카드 이해](understanding-event-cards.md)
->* [분석 카드 이해](understanding-analytics-cards.md)
->* [이메일 프로그램](http://docs.marketo.com/display/docs/email+programs)
-
->
-
-
+>* [마케팅을 위한 고객 의견 이해](/help/marketo/product-docs/core-marketo-concepts/mobile-apps/marketo-moments/understanding-moments/understanding-marketo-moments.md)
+>* [이벤트 카드 이해](/help/marketo/product-docs/core-marketo-concepts/mobile-apps/marketo-moments/understanding-moments/understanding-event-cards.md)
+>* [분석 카드 이해](/help/marketo/product-docs/core-marketo-concepts/mobile-apps/marketo-moments/understanding-moments/understanding-analytics-cards.md)
 
