@@ -3,7 +3,7 @@ unique-page-id: 2953325
 description: 시작 세부 사항 보기 - 마케팅 문서 - 제품 설명서
 title: 시작 세부 사항 보기
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: e5050328cbddaf072dd60ddd8d7363a704e720b5
 workflow-type: tm+mt
 source-wordcount: '74'
 ht-degree: 0%
@@ -23,10 +23,6 @@ ht-degree: 0%
 
    ![](assets/image2014-9-26-10-3a31-3a1.png)
 
-   `  
-`
-
 >[!TIP]
 >
 >오른쪽의 세부 사항을 마우스 오른쪽 단추로 클릭해 보십시오. 편집기로 이동하거나 팝업 메뉴를 볼 수 있습니다. 좋아, 그렇지?
-
