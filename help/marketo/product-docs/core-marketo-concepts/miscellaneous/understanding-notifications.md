@@ -3,7 +3,7 @@ unique-page-id: 2952292
 description: 알림 이해 - 마케팅 문서 - 제품 설명서
 title: 알림 이해
 translation-type: tm+mt
-source-git-commit: c33b7ab59e612f37d3f64bb954579700dc574068
+source-git-commit: e5050328cbddaf072dd60ddd8d7363a704e720b5
 workflow-type: tm+mt
 source-wordcount: '177'
 ht-degree: 0%
@@ -35,7 +35,7 @@ ht-degree: 0%
 
 1. 알림 유형을 선택하고 알림을 보낼 이메일 주소를 입력합니다.
 
-![](assets/image2014-10-10-13-3a0-3a37.png)
+   ![](assets/image2014-10-10-13-3a0-3a37.png)
 
 >[!NOTE]
 >
@@ -44,4 +44,3 @@ ht-degree: 0%
 >[!TIP]
 >
 >알림 이메일 구독을 취소하시겠습니까? 문제 없습니다. 이메일 하단에 있는 **알림** 링크를 클릭하면 됩니다.
-
