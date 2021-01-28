@@ -3,7 +3,7 @@ unique-page-id: 2953331
 description: 프로그램 예약 보기 - 마케팅 문서 - 제품 문서에서 스마트 캠페인 다시 실행
 title: 프로그램 예약 보기에서 스마트 캠페인 다시 실행
 translation-type: tm+mt
-source-git-commit: 728066ab05de82f6123bfaa1f0b05af8632e32b2
+source-git-commit: e5050328cbddaf072dd60ddd8d7363a704e720b5
 workflow-type: tm+mt
 source-wordcount: '135'
 ht-degree: 0%
@@ -33,6 +33,6 @@ ht-degree: 0%
 
    >[!TIP]
    >
-   >이 작업은 [프로그램 포커스](../../../../product-docs/core-marketo-concepts/marketing-calendar/understanding-the-calendar/understand-enable-program-focus.md)에서도 수행할 수 있습니다.
+   >이 작업은 [프로그램 포커스](/help/marketo/product-docs/core-marketo-concepts/marketing-calendar/understanding-the-calendar/understand-enable-program-focus.md)에서도 수행할 수 있습니다.
 
 쾅! 이와 마찬가지로 해당 스마트 캠페인에 대해 다른 실행을 예약했습니다. 해당 스마트 캠페인에 이메일 전송 단계가 포함된 경우 이러한 단계도 표시됩니다.
