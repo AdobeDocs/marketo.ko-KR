@@ -3,7 +3,7 @@ unique-page-id: 1147245
 description: 사용자 정의 시작 유형 만들기 - 마케팅 문서 - 제품 설명서
 title: 사용자 정의 시작 유형 만들기
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: e5050328cbddaf072dd60ddd8d7363a704e720b5
 workflow-type: tm+mt
 source-wordcount: '105'
 ht-degree: 0%
@@ -44,4 +44,3 @@ ht-degree: 0%
 >[!NOTE]
 >
 >최대 100개의 사용자 정의 항목 유형을 만들 수 있습니다.
-
