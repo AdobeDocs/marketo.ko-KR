@@ -3,9 +3,9 @@ unique-page-id: 1147138
 description: 스케줄 보기 - 마케팅 문서 - 제품 문서에서 전체 프로그램 스케줄 조정
 title: 스케줄 뷰에서 전체 프로그램 스케줄 조정
 translation-type: tm+mt
-source-git-commit: c33b7ab59e612f37d3f64bb954579700dc574068
+source-git-commit: e5050328cbddaf072dd60ddd8d7363a704e720b5
 workflow-type: tm+mt
-source-wordcount: '127'
+source-wordcount: '125'
 ht-degree: 0%
 
 ---
@@ -19,7 +19,7 @@ ht-degree: 0%
 
    ![](assets/image2014-9-23-15-3a15-3a18.png)
 
-1. 이벤트 작업 드롭다운을 선택합니다. 항목 스케줄 조정을 선택합니다.
+1. 이벤트 작업 드롭다운을 선택합니다. **항목 다시 예약**&#x200B;을 선택합니다.
 
    ![](assets/image2014-9-23-15-3a15-3a53.png)
 
@@ -31,11 +31,11 @@ ht-degree: 0%
 
    ![](assets/image2014-9-23-15-3a18-3a37.png)
 
-1. 다시 예약을 클릭합니다.
+1. **스케줄 조정**&#x200B;을 클릭합니다.
 
    ![](assets/image2014-9-23-15-3a18-3a54.png)
 
-1. 우프! 그러면 Adobe 데이터 검색자가 올바른 날짜로 모든 자산을 승인하지 않고, 다시 예약하고, 다시 승인합니다!
+1. 그러면 Adobe 데이터 검색자가 올바른 날짜로 모든 자산을 승인하지 않고, 다시 예약하고, 다시 승인합니다!
 
    ![](assets/image2014-9-23-15-3a19-3a1.png)
 
@@ -43,5 +43,6 @@ ht-degree: 0%
 >
 >이미 실행된 자산은 이동하지 않습니다.
 
-미친놈! 이제 모든 일정이 다시 조정되었습니다. 필요에 따라 특정 날짜를 조정합니다.    ![](assets/image2014-9-23-15-3a19-3a58.png)
+이제 모든 일정이 다시 조정되었습니다. 필요에 따라 특정 날짜를 조정합니다.
 
+![](assets/image2014-9-23-15-3a19-3a58.png)
