@@ -3,7 +3,7 @@ unique-page-id: 1147114
 description: 프로그램의 내 토큰 이해 - Marketing To Docs - 제품 문서
 title: 프로그램의 내 토큰 이해
 translation-type: tm+mt
-source-git-commit: d78ecbec87d69cde66b583d21d7e0c95539bb6ec
+source-git-commit: e5050328cbddaf072dd60ddd8d7363a704e720b5
 workflow-type: tm+mt
 source-wordcount: '416'
 ht-degree: 0%
@@ -38,7 +38,7 @@ ht-degree: 0%
  <tbody> 
   <tr> 
    <td>달력 파일 <img alt="—" src="assets/image2014-9-25-16-3a44-3a19.png" data-linked-resource-id="3083230" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="1147114"></td> 
-   <td>이 토큰을 사용하여 일정 이벤트 파일(.i<a href="../../../../product-docs/email-marketing/general/functions-in-the-editor/create-a-calendar-event-ics-file.md"></a>cs)<a href="../../../../product-docs/email-marketing/general/functions-in-the-editor/create-a-calendar-event-ics-file.md">을 이메일 및 랜딩 페이지에 추가합니다.</a></td> 
+   <td>이 토큰을 사용하여 일정 이벤트 파일(.i</a><a href="/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/create-a-calendar-event-ics-file.md">cs)</a>을 이메일 및 랜딩 페이지에 추가합니다.<a href="/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/create-a-calendar-event-ics-file.md"></a></td> 
   </tr> 
   <tr> 
    <td><p>날짜 <img alt="—" src="assets/image2014-9-25-16-3a44-3a47.png" data-linked-resource-id="3083231" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="1147114"></p></td> 
@@ -58,7 +58,7 @@ ht-degree: 0%
   </tr> 
   <tr> 
    <td>점수 <img alt="—" src="assets/image2014-9-25-16-3a46-3a39.png" data-linked-resource-id="3083235" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="1147114"></td> 
-   <td><a href="../../../../product-docs/core-marketo-concepts/smart-campaigns/flow-actions/use-tokens-in-flow-steps.md">점수 흐름 단계</a>에서 이 토큰을 사용하십시오. </td> 
+   <td><a href="/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/use-tokens-in-flow-steps.md">점수 흐름 단계</a>에서 이 토큰을 사용하십시오. </td> 
   </tr> 
   <tr> 
    <td colspan="1">SFDC 캠페인 <img alt="—" src="assets/sfdc-campaign-icon.jpg" data-linked-resource-id="11379761" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="1147114" title="—"></td> 
@@ -73,7 +73,7 @@ ht-degree: 0%
 
 >[!CAUTION]
 >
->Microsoft Dynamics 또는 Salesforce의 Sales Insight에서 이메일을 보낼 때 내 토큰이 확인되지 않습니다.표준 토큰만 채워집니다(리드, 회사 등). 그러나 토큰 *에 대한 기본값은*&#x200B;가 작동합니다.
+>Microsoft Dynamics 또는 Salesforce의 Sales Insight에서 이메일을 보낼 때 내 토큰이 확인되지 않습니다.표준 토큰만 채워집니다(리드, 회사 등). 그러나 토큰 _에 대한 기본값은_&#x200B;가 작동합니다.
 
 ## 토큰 중첩 {#nesting-tokens}
 
