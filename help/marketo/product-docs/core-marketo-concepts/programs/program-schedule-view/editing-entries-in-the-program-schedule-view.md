@@ -3,7 +3,7 @@ unique-page-id: 1147136
 description: 프로그램 예약 보기의 항목 편집 - 마케팅 문서 - 제품 문서
 title: 프로그램 예약 보기의 항목 편집
 translation-type: tm+mt
-source-git-commit: 00887ea53e395bea3a11fd28e0ac98b085ef6ed8
+source-git-commit: e5050328cbddaf072dd60ddd8d7363a704e720b5
 workflow-type: tm+mt
 source-wordcount: '147'
 ht-degree: 0%
@@ -54,4 +54,3 @@ ht-degree: 0%
 >[!NOTE]
 >
 > 이미 실행된 스마트 캠페인 및 이메일 프로그램 항목은 과거로 이동할 수 없습니다.
-
