@@ -3,7 +3,7 @@ unique-page-id: 1147247
 description: 사용자 지정 항목 유형 숨기기 및 숨김 취소 - 마케팅 문서 - 제품 설명서
 title: 사용자 정의 항목 유형 숨기기 및 숨김 취소
 translation-type: tm+mt
-source-git-commit: 23428a6e0ba9b2108a8f2f7dd6a69929dd069834
+source-git-commit: e5050328cbddaf072dd60ddd8d7363a704e720b5
 workflow-type: tm+mt
 source-wordcount: '109'
 ht-degree: 0%
@@ -17,7 +17,7 @@ ht-degree: 0%
 
 ## 사용자 정의 항목 유형 {#hide-a-custom-entry-type} 숨기기
 
-1. **관리** 섹션으로 이동하여 **달력** **항목** **유형**&#x200B;을 클릭합니다.
+1. **관리** 섹션으로 이동하여 **달력 항목** **유형**&#x200B;을 클릭합니다.
 
    ![](assets/image2014-9-24-10-3a11-3a49.png)
 
@@ -38,4 +38,3 @@ ht-degree: 0%
    짜잔! 이제 사용자 정의 항목 유형이 숨김 취소됩니다.
 
    ![](assets/image2014-9-24-10-3a12-3a19.png)
-
