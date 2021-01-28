@@ -3,9 +3,9 @@ unique-page-id: 10099360
 description: 이벤트 준비 - 마케팅 문서 - 제품 설명서
 title: 이벤트 준비
 translation-type: tm+mt
-source-git-commit: 29eb4c833c128c37849260f0c554144c237ab28e
+source-git-commit: e5050328cbddaf072dd60ddd8d7363a704e720b5
 workflow-type: tm+mt
-source-wordcount: '364'
+source-wordcount: '342'
 ht-degree: 0%
 
 ---
@@ -17,11 +17,11 @@ ht-degree: 0%
 
 ## 새 마케팅 역할 만들기 {#create-a-new-marketo-role}
 
-Marketing에는 이벤트 체크인 앱에 대한 특수 사용자 역할이 있습니다.  [모바일 응용 프로그램에 ](https://docs.marketo.com/display/DOCS/Grant+User+Access+to+the+Check-in+App) 액세스할 수 있는 권한을 사용하여 iPad 또는 Android 사용자를 위한 새 Marketing To Roleave를 만듭니다.
+Marketing에는 이벤트 체크인 앱에 대한 특수 사용자 역할이 있습니다. [모바일 응용 프로그램에 ](/help/marketo/product-docs/core-marketo-concepts/mobile-apps/event-check-in/grant-users-access-to-the-check-in-app.md) 액세스할 수 있는 권한을 사용하여 iPad 또는 Android 사용자를 위한 새 Marketing To Roleave를 만듭니다.
 
 ## 새 태블릿 사용자를 이벤트 {#invite-new-tablet-users-to-the-event}에 초대
 
-[새 태블릿 사용자를 이벤트에 ](https://docs.marketo.com/display/DOCS/Grant+User+Access+to+the+Check-in+App) 초대하고 새 역할을 할당합니다.
+[새 태블릿 사용자를 이벤트에 ](/help/marketo/product-docs/core-marketo-concepts/mobile-apps/event-check-in/grant-users-access-to-the-check-in-app.md) 초대하고 새 역할을 할당합니다.
 
 ## 새 마케팅 이벤트 프로그램 {#create-a-new-marketo-event-program} 만들기
 
