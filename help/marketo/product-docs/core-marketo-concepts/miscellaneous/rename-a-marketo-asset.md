@@ -3,7 +3,7 @@ unique-page-id: 2952484
 description: 마케팅 자산 이름 바꾸기 - 마케팅 문서 - 제품 설명서
 title: 마케팅 자산 이름 바꾸기
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: e5050328cbddaf072dd60ddd8d7363a704e720b5
 workflow-type: tm+mt
 source-wordcount: '80'
 ht-degree: 0%
@@ -26,4 +26,3 @@ ht-degree: 0%
    >[!NOTE]
    >
    >업로드된 파일 및 이미지 또는 스마트 목록 또는 스마트 캠페인에서 현재 참조되는 자산(필터, 트리거, 흐름 단계 등)의 이름은 변경할 수 없습니다.
-
