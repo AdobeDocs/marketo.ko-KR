@@ -3,7 +3,7 @@ unique-page-id: 1147142
 description: 프로그램 예약 보기 - 마케팅 문서 - 제품 문서에서 일괄 처리 스마트 캠페인 만들기
 title: 프로그램 예약 보기에서 일괄 처리 스마트 캠페인 만들기
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: e5050328cbddaf072dd60ddd8d7363a704e720b5
 workflow-type: tm+mt
 source-wordcount: '157'
 ht-degree: 0%
@@ -13,7 +13,7 @@ ht-degree: 0%
 
 # 프로그램 예약 보기에서 일괄 처리 스마트 캠페인 만들기 {#creating-a-batch-smart-campaign-in-the-program-schedule-view}
 
-프로그램 예약 보기에서 프로그램 내에서 새 스마트 캠페인을 만들고 [기존 캠페인](rerun-a-smart-campaign-in-the-program-schedule-view.md)을 다시 실행할 수 있습니다.
+프로그램 예약 보기에서 프로그램 내에서 새 스마트 캠페인을 만들고 [기존 캠페인](/help/marketo/product-docs/core-marketo-concepts/programs/program-schedule-view/rerun-a-smart-campaign-in-the-program-schedule-view.md)을 다시 실행할 수 있습니다.
 
 >[!NOTE]
 >
@@ -27,7 +27,7 @@ ht-degree: 0%
 
    ![](assets/image2014-9-23-15-3a28-3a28.png)
 
-1. **유형** 드롭다운을 클릭하고 **스마트** **캠페인**&#x200B;을 선택합니다.
+1. **유형** 드롭다운을 클릭하고 **스마트 캠페인**&#x200B;을 선택합니다.
 
    ![](assets/typechoose.png)
 
@@ -37,7 +37,7 @@ ht-degree: 0%
 
    ![](assets/four.png)
 
-1. [스마트 캠페인](../../../../product-docs/core-marketo-concepts/smart-campaigns/creating-a-smart-campaign/create-a-new-smart-campaign.md) 규칙을 선택합니다.
+1. [스마트 캠페인](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/creating-a-smart-campaign/create-a-new-smart-campaign.md) 규칙을 선택합니다.
 
    ![](assets/changeprogramstatus-hands.png)
 
