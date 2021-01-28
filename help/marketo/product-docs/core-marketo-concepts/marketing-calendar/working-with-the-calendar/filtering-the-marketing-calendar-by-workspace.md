@@ -3,9 +3,9 @@ unique-page-id: 1147306
 description: 작업 공간별 마케팅 달력 필터링 - 마케팅 문서 - 제품 설명서
 title: 작업 공간별 마케팅 달력 필터링
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: e5050328cbddaf072dd60ddd8d7363a704e720b5
 workflow-type: tm+mt
-source-wordcount: '71'
+source-wordcount: '69'
 ht-degree: 0%
 
 ---
@@ -27,10 +27,4 @@ ht-degree: 0%
 
    >[!NOTE]
    >
-   >**관련 문서**
-   >
-   >    
-   >    
-   >    * [마케팅 달력에서 필터 정의 저장](saving-a-filter-definition-in-the-marketing-calendar.md)
-
-
+   >[마케팅 달력에서 필터 정의 저장](/help/marketo/product-docs/core-marketo-concepts/marketing-calendar/working-with-the-calendar/saving-a-filter-definition-in-the-marketing-calendar.md)
