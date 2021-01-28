@@ -3,9 +3,9 @@ unique-page-id: 1147296
 description: 마케팅 달력 - 마케팅 문서 - 제품 문서에서 필터 정의 저장
 title: 마케팅 달력에서 필터 정의 저장
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: e5050328cbddaf072dd60ddd8d7363a704e720b5
 workflow-type: tm+mt
-source-wordcount: '89'
+source-wordcount: '87'
 ht-degree: 0%
 
 ---
@@ -17,11 +17,7 @@ ht-degree: 0%
 
 >[!PREREQUISITES]
 >
->* [마케팅 달력 필터링](filtering-the-marketing-calendar.md)
-
->
-
-
+>[마케팅 달력 필터링](/help/marketo/product-docs/core-marketo-concepts/marketing-calendar/working-with-the-calendar/filtering-the-marketing-calendar.md)
 
 1. 필터를 정의합니다.
 
@@ -39,14 +35,8 @@ ht-degree: 0%
 
    ![](assets/image2014-9-24-10-3a51-3a12.png)
 
-   원할 경우 [정의의 복사본](sharing-a-filter-definition-in-the-marketing-calendar.md)을 다른 Marketing 사용자에게 보낼 수 있습니다.
+   원할 경우 [정의의 복사본](/help/marketo/product-docs/core-marketo-concepts/marketing-calendar/working-with-the-calendar/sharing-a-filter-definition-in-the-marketing-calendar.md)을 다른 Marketing 사용자에게 보낼 수 있습니다.
 
    >[!NOTE]
    >
-   >**관련 문서**
-   >
-   >    
-   >    
-   >    * [마케팅 달력에서 필터 정의 공유](sharing-a-filter-definition-in-the-marketing-calendar.md)
-
-
+   >[마케팅 달력에서 필터 정의 공유](/help/marketo/product-docs/core-marketo-concepts/marketing-calendar/working-with-the-calendar/sharing-a-filter-definition-in-the-marketing-calendar.md)
