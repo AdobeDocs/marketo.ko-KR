@@ -3,7 +3,7 @@ unique-page-id: 2949839
 description: 태블릿에서 이벤트 확인 - 마케팅 문서 - 제품 설명서
 title: 태블릿에서 이벤트 참가자 확인
 translation-type: tm+mt
-source-git-commit: d7d6aee63144c472e02fe0221c4a164183d04dd4
+source-git-commit: e5050328cbddaf072dd60ddd8d7363a704e720b5
 workflow-type: tm+mt
 source-wordcount: '815'
 ht-degree: 0%
@@ -22,13 +22,11 @@ ht-degree: 0%
 >* Marketing에서 이벤트를 만들고 초대됨 및 등록된 사람으로 이벤트를 채웁니다.
 >* [Android](https://play.google.com/store/apps/details?id=com.marketo.eventcheckin&amp;hl=en) 또는 [iOS](https://itunes.apple.com/us/app/marketo-events/id522766637?mt=8)용 태블릿 앱을 다운로드합니다.
 
->
-
-
 
 ## 등록된 손님 {#check-in-registered-guests} 체크 인
 
 1. iPad 또는 Android 태블릿에서 앱 아이콘을 누릅니다.
+
 1. **로그인**&#x200B;을 눌러 Marketing To 이벤트 앱을 시작합니다.
 
    ![](assets/1.jpg)
@@ -57,7 +55,9 @@ ht-degree: 0%
    >
    >이 프로세스는 iPad와 Android에서 동일하지만 화면이 다르고 항목이 다른 위치에 있을 수 있습니다. 이 문서에서는 iPad 인터페이스를 제공합니다. 참조용으로 이 섹션의 Android 화면을 비교합니다.
 
-   **iPad** ![](assets/image2016-4-15-11-3a55-3a11.png)
+   **iPad**
+
+   ![](assets/image2016-4-15-11-3a55-3a11.png)
 
    **Android**
 
@@ -111,7 +111,7 @@ Marketing 데이터베이스에 기존 사용자가 아닌 손님을 수동으�
 
 ## 체크 인 {#reverse-a-check-in} 반전
 
-MarketingTo *과(와) 동기화하기 전에 실수로 사람을 체크 인한 경우 [참석자] 상태를 되돌릴 수 있습니다.*
+MarketingTo _과(와) 동기화하기 전에 실수로 사람을 체크 인한 경우 [참석자] 상태를 되돌릴 수 있습니다._
 
 1. 목록에서 이름을 누르고 사람 레코드에서 **실행 취소**&#x200B;를 누릅니다.
 
@@ -146,6 +146,7 @@ MarketingTo *과(와) 동기화하기 전에 실수로 사람을 체크 인한 �
 >동기화한 후에는 앱에서 체크 인을 되돌릴 수 없습니다.
 
 1. 태블릿에서 앱을 열고 이벤트를 탐색합니다.
+
 1. **동기화**&#x200B;를 누릅니다.
 
    이벤트가 Marketing To 데이터베이스의 새로운 체크인으로 업데이트됩니다. [동기화] 단추의 빨간색 카운터는 다른 사람을 확인할 때까지 지웁니다.
@@ -170,4 +171,3 @@ MarketingTo *과(와) 동기화하기 전에 실수로 사람을 체크 인한 �
 >[!NOTE]
 >
 >이 앱은 8시간 동안 활동이 없는 경우 자동으로 로그아웃됩니다.
-
