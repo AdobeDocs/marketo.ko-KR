@@ -3,7 +3,7 @@ unique-page-id: 7504058
 description: 프레젠테이션 복제 - 마케팅 문서 - 제품 설명서
 title: 프레젠테이션 복제
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: e5050328cbddaf072dd60ddd8d7363a704e720b5
 workflow-type: tm+mt
 source-wordcount: '53'
 ht-degree: 0%
@@ -28,4 +28,3 @@ ht-degree: 0%
    ![](assets/image2015-3-20-16-3a14-3a44.png)
 
    좋아요! 이제 프레젠테이션의 정확한 복사본이 있습니다.
-
