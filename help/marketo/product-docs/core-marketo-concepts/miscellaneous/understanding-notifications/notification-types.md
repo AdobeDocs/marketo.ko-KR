@@ -3,7 +3,7 @@ unique-page-id: 2953243
 description: 알림 유형 - 마케팅 문서 - 제품 설명서
 title: 알림 유형
 translation-type: tm+mt
-source-git-commit: 00887ea53e395bea3a11fd28e0ac98b085ef6ed8
+source-git-commit: e5050328cbddaf072dd60ddd8d7363a704e720b5
 workflow-type: tm+mt
 source-wordcount: '246'
 ht-degree: 0%
@@ -47,7 +47,7 @@ Facebook
 
 유휴 트리거 캠페인 정리
 
-더 이상 활동이 없는 트리거된 스마트 캠페인 비활성화. [자동 트리거 캠페인 정리](../../../../product-docs/core-marketo-concepts/smart-campaigns/using-smart-campaigns/automatic-trigger-campaign-cleanup.md)에 대해 자세히 알아보십시오.
+더 이상 활동이 없는 트리거된 스마트 캠페인 비활성화. [자동 트리거 캠페인 정리](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/using-smart-campaigns/automatic-trigger-campaign-cleanup.md)에 대해 자세히 알아보십시오.
 
 LinkedIn
 
@@ -61,5 +61,4 @@ LinkedIn
 
 >[!NOTE]
 >
->받을 수 있는 오류 코드 중 일부는 [개발자 설명서](http://developers.marketo.com/rest-api/error-codes/#response_level_error_codes)에 요약되어 있습니다.
-
+>받을 수 있는 오류 코드 중 일부는 [개발자 설명서](https://developers.marketo.com/rest-api/error-codes/#response_level_error_codes)에 요약되어 있습니다.
