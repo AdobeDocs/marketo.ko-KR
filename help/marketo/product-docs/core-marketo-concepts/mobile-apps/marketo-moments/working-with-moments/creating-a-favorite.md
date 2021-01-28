@@ -3,7 +3,7 @@ unique-page-id: 8783555
 description: 즐겨찾기 만들기 - 마케팅 문서 - 제품 설명서
 title: 즐겨찾기 만들기
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: e5050328cbddaf072dd60ddd8d7363a704e720b5
 workflow-type: tm+mt
 source-wordcount: '32'
 ht-degree: 0%
@@ -19,9 +19,8 @@ ht-degree: 0%
 
    ![](assets/image2015-7-14-16-3a28-3a54.png)
 
-1. 즐겨찾기를 누릅니다.
+1. **즐겨찾기**&#x200B;를 누릅니다.
 
    ![](assets/image2015-7-14-16-3a36-3a22.png)
 
    그게 전부야!
-
