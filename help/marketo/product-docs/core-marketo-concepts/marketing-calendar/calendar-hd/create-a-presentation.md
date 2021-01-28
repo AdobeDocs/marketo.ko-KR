@@ -3,7 +3,7 @@ unique-page-id: 7503971
 description: 프레젠테이션 만들기 - 마케팅 문서 - 제품 설명서
 title: 프레젠테이션 만들기
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: e5050328cbddaf072dd60ddd8d7363a704e720b5
 workflow-type: tm+mt
 source-wordcount: '82'
 ht-degree: 0%
@@ -21,7 +21,7 @@ HDTV에서 팀의 달력 보기와 목표를 투영하는 프레젠테이션을 
 >
 >모든 고객이 이 기능을 구입하지는 않았습니다. 자세한 내용은 영업 담당자에게 문의하십시오.
 
-1. 달력**으로 이동합니다**.
+1. **달력**&#x200B;으로 이동합니다.
 
    ![](assets/2017-05-10-15-30-47.png)
 
@@ -41,9 +41,4 @@ HDTV에서 팀의 달력 보기와 목표를 투영하는 프레젠테이션을 
 
 >[!MORELIKETHIS]
 >
->* [프레젠테이션 사용자 정의](customize-a-presentation.md)
-
->
-
-
-
+>[프레젠테이션 사용자 정의](/help/marketo/product-docs/core-marketo-concepts/marketing-calendar/calendar-hd/customize-a-presentation.md)
