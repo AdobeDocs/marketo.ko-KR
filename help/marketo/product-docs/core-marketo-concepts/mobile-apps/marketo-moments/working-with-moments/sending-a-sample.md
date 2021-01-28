@@ -3,7 +3,7 @@ unique-page-id: 8783561
 description: 샘플 보내기 - Marketing To Docs - 제품 설명서
 title: 샘플 보내기
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: e5050328cbddaf072dd60ddd8d7363a704e720b5
 workflow-type: tm+mt
 source-wordcount: '73'
 ht-degree: 0%
@@ -31,7 +31,8 @@ ht-degree: 0%
 
 ## 빠른 방법 {#the-quick-way}
 
-1. 이메일 미리 보기 화면에서 종이 비행기 아이콘을 눌러 미리 보기에서 직접 샘플을 전송합니다.\
+1. 이메일 미리 보기 화면에서 종이 비행기 아이콘을 눌러 미리 보기에서 직접 샘플을 전송합니다.
+
    ![](assets/image2015-9-25-10-3a28-3a47.png)
 
 임무 완료!
