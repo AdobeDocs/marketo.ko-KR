@@ -3,9 +3,9 @@ unique-page-id: 37355768
 description: Adobe Experience Manager을 사용하여 자산 가져오기 - Marketing To Docs - 제품 설명서
 title: Adobe Experience Manager으로 자산 가져오기
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: e5050328cbddaf072dd60ddd8d7363a704e720b5
 workflow-type: tm+mt
-source-wordcount: '234'
+source-wordcount: '231'
 ht-degree: 0%
 
 ---
@@ -23,7 +23,7 @@ ht-degree: 0%
 
 >[!PREREQUISITES]
 >
->[AEM Configuration](https://docs.marketo.com/x/FwPLAQ)을 이미 수행했는지 확인하십시오.
+>[AEM Configuration](/help/marketo/product-docs/core-marketo-concepts/miscellaneous/configuring-adobe-experience-manager-integration.md)을 이미 수행했는지 확인하십시오.
 
 >[!CAUTION]
 >
