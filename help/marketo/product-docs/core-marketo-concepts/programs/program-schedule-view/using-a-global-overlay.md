@@ -3,9 +3,9 @@ unique-page-id: 1147249
 description: 글로벌 오버레이 사용 - 마케팅 문서 - 제품 설명서
 title: 글로벌 오버레이 사용
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: e5050328cbddaf072dd60ddd8d7363a704e720b5
 workflow-type: tm+mt
-source-wordcount: '151'
+source-wordcount: '149'
 ht-degree: 0%
 
 ---
@@ -17,7 +17,7 @@ ht-degree: 0%
 
 >[!PREREQUISITES]
 >
->이 기능을 사용하려면 [마케팅 달력 라이선스](../../../../product-docs/core-marketo-concepts/marketing-calendar/understanding-the-calendar/issue-revoke-a-marketing-calendar-license.md)가 있어야 합니다.
+>이 기능을 사용하려면 [마케팅 달력 라이선스](/help/marketo/product-docs/core-marketo-concepts/marketing-calendar/understanding-the-calendar/issue-revoke-a-marketing-calendar-license.md)가 있어야 합니다.
 
 ## 전역 오버레이 사용 {#use-the-global-overlay}
 
@@ -39,7 +39,7 @@ ht-degree: 0%
 
 ## 저장된 필터를 오버레이로 사용 {#use-a-saved-filter-as-an-overlay}
 
-[마케팅 달력](../../../../product-docs/core-marketo-concepts/marketing-calendar/working-with-the-calendar/saving-a-filter-definition-in-the-marketing-calendar.md)에 필터를 저장한 경우 프로그램 일정 보기에서 오버레이로 사용할 수 있습니다.
+[마케팅 달력](/help/marketo/product-docs/core-marketo-concepts/marketing-calendar/working-with-the-calendar/saving-a-filter-definition-in-the-marketing-calendar.md)에 필터를 저장한 경우 프로그램 일정 보기에서 오버레이로 사용할 수 있습니다.
 
 1. **오버레이** 드롭다운을 클릭하고 필터 정의를 선택합니다.
 
@@ -49,12 +49,6 @@ ht-degree: 0%
 
    ![](assets/image2014-9-24-10-3a16-3a31.png)
 
-   >[!NOTE]
+   >[!MORELIKETHIS]
    >
-   >**관련 문서**
-   >
-   >    
-   >    
-   >    * [프로그램 예약 보기에서 사용자 지정 오버레이 만들기](creating-custom-overlays-in-program-schedule-view.md)
-
-
+   >[프로그램 예약 보기에서 사용자 지정 오버레이 만들기](/help/marketo/product-docs/core-marketo-concepts/programs/program-schedule-view/creating-custom-overlays-in-program-schedule-view.md)
