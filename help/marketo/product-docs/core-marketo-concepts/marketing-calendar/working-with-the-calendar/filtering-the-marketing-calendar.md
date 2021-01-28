@@ -3,9 +3,9 @@ unique-page-id: 1147294
 description: 마케팅 달력 필터링 - 마케팅 문서 - 제품 설명서
 title: 마케팅 달력 필터링
 translation-type: tm+mt
-source-git-commit: 00887ea53e395bea3a11fd28e0ac98b085ef6ed8
+source-git-commit: e5050328cbddaf072dd60ddd8d7363a704e720b5
 workflow-type: tm+mt
-source-wordcount: '114'
+source-wordcount: '112'
 ht-degree: 0%
 
 ---
@@ -19,7 +19,7 @@ ht-degree: 0%
 
 ![](assets/2017-05-10-15-30-47.png)
 
-1. **항목** **유형** 드롭다운을 클릭합니다.
+1. **응모 유형** 드롭다운을 클릭합니다.
 
    >[!NOTE]
    >
@@ -33,7 +33,7 @@ ht-degree: 0%
 
    >[!TIP]
    >
-   >표준 항목 유형에 대한 설명은 [프로그램 스케줄 보기 시작 유형](../../../../product-docs/core-marketo-concepts/programs/program-schedule-view/program-schedule-view-entry-types.md)을 확인하십시오.
+   >표준 항목 유형에 대한 설명은 [프로그램 스케줄 보기 시작 유형](/help/marketo/product-docs/core-marketo-concepts/programs/program-schedule-view/program-schedule-view-entry-types.md)을 확인하십시오.
 
 1. 원하는 프로그램 태그를 선택합니다.
 
@@ -47,10 +47,4 @@ ht-degree: 0%
 
    >[!NOTE]
    >
-   >**관련 문서**
-   >
-   >    
-   >    
-   >    * [마케팅 달력에서 필터 정의 저장](saving-a-filter-definition-in-the-marketing-calendar.md)
-
-
+   >[마케팅 달력에서 필터 정의 저장](/help/marketo/product-docs/core-marketo-concepts/marketing-calendar/working-with-the-calendar/saving-a-filter-definition-in-the-marketing-calendar.md)
