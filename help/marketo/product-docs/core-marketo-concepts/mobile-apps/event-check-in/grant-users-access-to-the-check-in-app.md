@@ -3,7 +3,7 @@ unique-page-id: 7516639
 description: 사용자에게 체크인 앱 액세스 권한 부여 - Marketing To Docs - 제품 설명서
 title: 사용자에게 로그인 앱에 대한 액세스 권한 부여
 translation-type: tm+mt
-source-git-commit: 95ca406109e04f56c9846f83cb2c4202bf606518
+source-git-commit: e5050328cbddaf072dd60ddd8d7363a704e720b5
 workflow-type: tm+mt
 source-wordcount: '202'
 ht-degree: 0%
@@ -41,7 +41,7 @@ Marketing에는 이벤트 체크인 앱에 대한 특수 사용자 역할이 있
 
    ![](assets/image2015-6-2-11-3a10-3a42.png)
 
-1. 새 사용자 초대**를 클릭합니다**.
+1. **새 사용자 초대**&#x200B;를 클릭합니다.
 
    ![](assets/image2015-6-2-11-3a11-3a32.png)
 
