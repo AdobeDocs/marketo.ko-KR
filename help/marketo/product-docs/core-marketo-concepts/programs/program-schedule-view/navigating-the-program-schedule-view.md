@@ -3,9 +3,9 @@ unique-page-id: 1147100
 description: 프로그램 예약 보기 탐색 - 마케팅 문서 - 제품 설명서
 title: 프로그램 스케줄 보기 탐색
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: e5050328cbddaf072dd60ddd8d7363a704e720b5
 workflow-type: tm+mt
-source-wordcount: '184'
+source-wordcount: '183'
 ht-degree: 0%
 
 ---
@@ -25,7 +25,7 @@ ht-degree: 0%
 
    ![](assets/image2014-9-17-11-3a38-3a3.png)
 
-   그럽다 이제 프로그램의 일정 보기를 살펴보겠습니다.
+   이제 프로그램의 일정 보기를 살펴보겠습니다.
 
    ![](assets/image2014-9-17-11-3a38-3a14.png)
 
@@ -33,7 +33,8 @@ ht-degree: 0%
 >
 >프로그램 예약 보기가 고정되어 있습니다. 설정하면 모든 프로그램이 기본 일정 보기로 설정됩니다.
 
-1. 항목 간 전환
+## {#switching-between-entries} 항목 간 전환
+
 1. 시작 세부 정보에서 화살표를 클릭하여 다음 예약된 항목으로 이동합니다.
 
    ![](assets/image2014-9-17-11-3a38-3a54.png)
@@ -42,7 +43,8 @@ ht-degree: 0%
 
    ![](assets/image2014-9-17-11-3a39-3a10.png)
 
-1. 컨텍스트 메뉴 보기
+## 컨텍스트 메뉴 보기 {#view-context-menu}
+
 1. 프로그램, 스마트 목록, 설정, 내 토큰 또는 구성원을 편집하려면 프로그램을 마우스 오른쪽 단추로 클릭합니다.
 
    ![](assets/image2014-9-17-11-3a39-3a59.png)
@@ -63,9 +65,4 @@ ht-degree: 0%
 
 >[!MORELIKETHIS]
 >
->* [프로그램 스케줄 뷰에서 항목 생성](creating-an-entry-in-the-program-schedule-view.md)
-
->
-
-
-
+>[프로그램 스케줄 뷰에서 항목 생성](/help/marketo/product-docs/core-marketo-concepts/programs/program-schedule-view/creating-an-entry-in-the-program-schedule-view.md)
