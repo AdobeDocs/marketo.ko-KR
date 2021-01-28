@@ -3,9 +3,9 @@ unique-page-id: 1147129
 description: 프로그램 성능 보고서 만들기 - 마케팅 문서 - 제품 설명서
 title: 프로그램 성능 보고서 만들기
 translation-type: tm+mt
-source-git-commit: 00887ea53e395bea3a11fd28e0ac98b085ef6ed8
+source-git-commit: e5050328cbddaf072dd60ddd8d7363a704e720b5
 workflow-type: tm+mt
-source-wordcount: '139'
+source-wordcount: '126'
 ht-degree: 0%
 
 ---
@@ -15,7 +15,7 @@ ht-degree: 0%
 
 이 보고서를 통해 프로그램의 주요 상태를 확인할 수 있습니다.
 
-1. [프로그램에서 보고서를 만들고 ](../../../../product-docs/reporting/basic-reporting/creating-reports/create-a-report-in-a-program.md) 프로그램  **성과 보고서** [유형을 선택합니다](../../../../product-docs/reporting/basic-reporting/report-types/report-type-overview.md).
+1. [프로그램에서 보고서를 만들고 ](/help/marketo/product-docs/reporting/basic-reporting/creating-reports/create-a-report-in-a-program.md) 프로그램  **성과 보고서** [유형을 선택합니다](/help/marketo/product-docs/reporting/basic-reporting/report-types/report-type-overview.md).
 1. **보고서** 탭을 클릭합니다.
 1. 거기 있었구나! 보고서에서 프로그램의 진행 상황을 확인할 수 있습니다.
 
@@ -23,7 +23,7 @@ ht-degree: 0%
 
 >[!TIP]
 >
->*성공당 비용*&#x200B;이 가장 낮은 프로그램을 찾으려면, 예를 들어 [해당 열에 보고서](../../../../product-docs/reporting/basic-reporting/editing-reports/sort-report-on-columns.md)을 정렬하고 **오름차순 정렬**&#x200B;을 선택합니다.
+>*성공당 비용*&#x200B;이 가장 낮은 프로그램을 찾으려면, 예를 들어 [해당 열에 보고서](/help/marketo/product-docs/reporting/basic-reporting/editing-reports/sort-report-on-columns.md)을 정렬하고 **오름차순 정렬**&#x200B;을 선택합니다.
 
 프로그램 성과 보고서의 열은 다음과 같습니다.
 
@@ -53,10 +53,3 @@ ht-degree: 0%
   </tr> 
  </tbody> 
 </table>
-
->[!NOTE]
->
->**자세히 알아보기**
->
->[기본 보고](http://docs.marketo.com/display/docs/basic+reporting)에서 자세히 알아보십시오.
-
