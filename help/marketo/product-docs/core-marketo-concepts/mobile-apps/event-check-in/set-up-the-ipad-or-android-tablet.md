@@ -3,7 +3,7 @@ unique-page-id: 10099363
 description: iPad 또는 Android 태블릿 설정 - Marketing To Docs - 제품 설명서
 title: iPad 또는 Android 태블릿 설정
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: e5050328cbddaf072dd60ddd8d7363a704e720b5
 workflow-type: tm+mt
 source-wordcount: '471'
 ht-degree: 0%
@@ -43,7 +43,7 @@ iPad에 아직 Marketing To Events 앱이 설치되어 있지 않은 경우 가�
 
 Android 태블릿에 아직 Marketing To Events 앱이 설치되지 않은 경우 가져오는 방법을 설명합니다.
 
-1. 태블릿을 열고** Google Play Store** 앱을 탭합니다.
+1. 태블릿을 열고 **Google Play Store** 앱을 탭합니다.
 1. 검색 상자에 **Marketing**&#x200B;을 입력하고 **Return**&#x200B;을 누릅니다.
 1. 검색 결과에서 **마케팅 이벤트** 앱을 탭합니다.
 
@@ -69,7 +69,7 @@ iPad 또는 태블릿을 사용하여 쇼 직원에게 할당하기 전에 사�
 동기화하여 추가한 사용자가 있는지 확인합니다.
 
 1. iPad 또는 Android 앱에서 이벤트를 엽니다.
-1. 사람들을 찾아봐 표시되지 않는 경우 **Sync**를 눌러 앱을 동기화하고 이벤트 사람 목록을 다시 로드합니다.
+1. 사람들을 찾아봐 표시되지 않는 경우 **동기화**&#x200B;를 눌러 앱을 동기화하고 이벤트 사람 목록을 다시 로드하십시오.
 
    **iPad**
 
@@ -83,7 +83,7 @@ iPad 또는 태블릿을 사용하여 쇼 직원에게 할당하기 전에 사�
 
 이벤트 전에 iPad 또는 태블릿에서 체크 인이 작동하는지 확인합니다.
 
-1. 앱에서 [테스트 리드를 ](check-people-into-your-event-from-your-tablet.md)에서 확인합니다.
+1. 앱에서 [테스트 리드를 ](/help/marketo/product-docs/core-marketo-concepts/mobile-apps/event-check-in/check-people-into-your-event-from-your-tablet.md)에서 확인합니다.
 1. **동기화** 아이콘을 눌러 앱을 동기화합니다.
 1. Marketing에서 이벤트를 열고 **구성원**&#x200B;을 클릭합니다.
 
@@ -96,4 +96,3 @@ iPad 또는 태블릿을 사용하여 쇼 직원에게 할당하기 전에 사�
    >[!TIP]
    >
    >자신을 시험자로 이용하세요.
-
