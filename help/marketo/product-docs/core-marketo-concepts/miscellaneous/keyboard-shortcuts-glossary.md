@@ -3,7 +3,7 @@ unique-page-id: 1147318
 description: 키보드 단축키 용어집 - Marketing Docs - 제품 설명서
 title: 키보드 단축키 용어집
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: e5050328cbddaf072dd60ddd8d7363a704e720b5
 workflow-type: tm+mt
 source-wordcount: '120'
 ht-degree: 0%
@@ -44,4 +44,3 @@ ht-degree: 0%
 | ESC | 닫기 팝업 |
 | 반환/입력 | 제출 팝업 |
 | Ctrl + Alt/Opt + H | 양식 편집기에서 필드 숨기기/숨김 취소 |
-
