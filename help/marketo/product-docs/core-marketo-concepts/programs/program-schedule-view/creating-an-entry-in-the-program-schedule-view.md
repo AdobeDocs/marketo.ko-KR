@@ -3,7 +3,7 @@ unique-page-id: 1147102
 description: 프로그램 예약 보기 - 마케팅 문서 - 제품 문서에서 항목 만들기
 title: 프로그램 스케줄 뷰에서 항목 생성
 translation-type: tm+mt
-source-git-commit: 00887ea53e395bea3a11fd28e0ac98b085ef6ed8
+source-git-commit: e5050328cbddaf072dd60ddd8d7363a704e720b5
 workflow-type: tm+mt
 source-wordcount: '175'
 ht-degree: 0%
@@ -29,7 +29,7 @@ ht-degree: 0%
 
    ![](assets/image2014-9-16-9-3a22-3a33.png)
 
-1. 항목의 이름을 지정합니다. **Enter **를 눌러 이름을 확인합니다.
+1. 항목의 이름을 지정합니다. **Enter**&#x200B;를 눌러 이름을 확인합니다.
 
    ![](assets/image2014-9-16-9-3a22-3a59.png)
 
@@ -59,7 +59,7 @@ ht-degree: 0%
 
    >[!NOTE]
    >
-   >할 일은 [사용자 지정 항목](create-custom-entry-types.md)입니다. 할 일 및 기타 사용자 지정 항목을 만들어 비마케팅 안건 항목을 추적할 수 있습니다.
+   >할 일은 [사용자 지정 항목](/help/marketo/product-docs/core-marketo-concepts/programs/program-schedule-view/create-custom-entry-types.md)입니다. 할 일 및 기타 사용자 지정 항목을 만들어 비마케팅 안건 항목을 추적할 수 있습니다.
 
    ![](assets/image2014-9-16-9-3a26-3a36.png)
 
@@ -69,5 +69,4 @@ ht-degree: 0%
 
 >[!NOTE]
 >
-> 예약 보기에서 [스마트 캠페인](creating-a-batch-smart-campaign-in-the-program-schedule-view.md) 또는 [이메일 프로그램](creating-a-new-email-program-in-the-schedule-view.md)을 만들 수도 있습니다.
-
+> 예약 보기에서 [스마트 캠페인](/help/marketo/product-docs/core-marketo-concepts/programs/program-schedule-view/creating-a-batch-smart-campaign-in-the-program-schedule-view.md) 또는 [이메일 프로그램](/help/marketo/product-docs/core-marketo-concepts/programs/program-schedule-view/creating-a-new-email-program-in-the-schedule-view.md)을 만들 수도 있습니다.
