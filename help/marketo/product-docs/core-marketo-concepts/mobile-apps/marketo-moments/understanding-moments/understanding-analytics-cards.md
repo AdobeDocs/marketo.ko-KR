@@ -3,9 +3,9 @@ unique-page-id: 8781988
 description: 분석 카드 이해 - 마케팅 문서 - 제품 설명서
 title: 분석 카드 이해
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: e5050328cbddaf072dd60ddd8d7363a704e720b5
 workflow-type: tm+mt
-source-wordcount: '234'
+source-wordcount: '220'
 ht-degree: 0%
 
 ---
@@ -17,11 +17,11 @@ ht-degree: 0%
 
 ## 분석 카드 {#analytics-cards}
 
-`<iframe width="420" height="315" src="https://www.youtube-nocookie.com/embed/OA5yfBkaNck" frameborder="0" allowfullscreen></iframe>` Analytics 카드를 탭하면 다음을 수행할 수 있습니다.
+Analytics 카드를 탭하면 다음을 수행할 수 있습니다.
 
-* [즐겨찾기로 만들기](../../../../../product-docs/core-marketo-concepts/mobile-apps/marketo-moments/working-with-moments/creating-a-favorite.md)
-* [완료한 대로 표시](../../../../../product-docs/core-marketo-concepts/mobile-apps/marketo-moments/working-with-moments/marking-it-done.md)
-* [공유](../../../../../product-docs/core-marketo-concepts/mobile-apps/marketo-moments/working-with-moments/sharing-a-moment.md)
+* [즐겨찾기로 만들기](/help/marketo/product-docs/core-marketo-concepts/mobile-apps/marketo-moments/working-with-moments/creating-a-favorite.md)
+* [완료한 대로 표시](/help/marketo/product-docs/core-marketo-concepts/mobile-apps/marketo-moments/working-with-moments/marking-it-done.md)
+* [공유](/help/marketo/product-docs/core-marketo-concepts/mobile-apps/marketo-moments/working-with-moments/sharing-a-moment.md)
 
 Analytics 카드를 탭하면 다음이 표시됩니다.
 
@@ -37,7 +37,7 @@ Analytics 카드를 탭하면 다음이 표시됩니다.
 
 ## 획득 리드 {#acquired-leads}
 
-**획득 리드 **카드는 새 리드 수의 월별 트렌드 보고서를 보여줍니다.
+**획득 리드** 카드는 새 리드 수의 월별 트렌드 보고서를 보여줍니다.
 
 >[!NOTE]
 >
@@ -61,12 +61,7 @@ Analytics 카드를 탭하면 다음이 표시됩니다.
 
 >[!MORELIKETHIS]
 >
->* [마케팅을 위한 고객 의견 이해](understanding-marketo-moments.md)
->* [이벤트 카드 이해](understanding-event-cards.md)
->* [이메일 프로그램 카드 이해](understanding-email-program-cards.md)
+>* [마케팅을 위한 고객 의견 이해](/help/marketo/product-docs/core-marketo-concepts/mobile-apps/marketo-moments/understanding-moments/understanding-marketo-moments.md)
+>* [이벤트 카드 이해](/help/marketo/product-docs/core-marketo-concepts/mobile-apps/marketo-moments/understanding-moments/understanding-event-cards.md)
+>* [이메일 프로그램 카드 이해](/help/marketo/product-docs/core-marketo-concepts/mobile-apps/marketo-moments/understanding-moments/understanding-email-program-cards.md)
 
->
-
-
-
-재미있는 사실:1971년 레이 톰린슨에 의해 처음으로 발송된 이메일이 그 자신이었다.
