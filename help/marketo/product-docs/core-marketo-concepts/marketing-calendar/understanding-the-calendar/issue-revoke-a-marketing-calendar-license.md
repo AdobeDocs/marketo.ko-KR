@@ -3,9 +3,9 @@ unique-page-id: 1147255
 description: 마케팅 달력 라이선스 문제/취소 - 마케팅 문서 - 제품 설명서
 title: 마케팅 달력 라이선스 문제/취소
 translation-type: tm+mt
-source-git-commit: 44ed91b485b52173922c709de63a4353e16c5072
+source-git-commit: e5050328cbddaf072dd60ddd8d7363a704e720b5
 workflow-type: tm+mt
-source-wordcount: '115'
+source-wordcount: '108'
 ht-degree: 0%
 
 ---
@@ -17,7 +17,7 @@ ht-degree: 0%
 >
 >**관리자 권한 필요**
 
-[마케팅 달력](http://docs.marketo.com/display/docs/marketing+calendar) 시트를 사용하려면 액세스 권한이 필요한 사용자에게 라이선스를 발급해야 합니다. 방법
+[마케팅 달력](/help/marketo/product-docs/core-marketo-concepts/marketing-calendar/understanding-the-calendar/navigating-the-marketing-calendar.md) 시트를 사용하려면 액세스 권한이 필요한 사용자에게 라이선스를 발급해야 합니다. 방법
 
 1. **관리** 섹션으로 이동합니다.
 
@@ -43,7 +43,7 @@ ht-degree: 0%
 
    ![](assets/4.png)
 
-   잘했다! **달력** 아래의 녹색 확인 표시를 참조하십시오.
+   잘했다! &#39;달력?&#39; 아래의 녹색 체크 표시 보기
 
    ![](assets/5.png)
 
