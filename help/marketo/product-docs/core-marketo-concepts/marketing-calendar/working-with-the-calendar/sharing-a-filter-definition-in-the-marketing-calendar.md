@@ -3,7 +3,7 @@ unique-page-id: 1147304
 description: 마케팅 달력에서 필터 정의 공유 - 마케팅 문서 - 제품 설명서
 title: 마케팅 달력에서 필터 정의 공유
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: e5050328cbddaf072dd60ddd8d7363a704e720b5
 workflow-type: tm+mt
 source-wordcount: '107'
 ht-degree: 0%
@@ -17,11 +17,8 @@ ht-degree: 0%
 
 >[!PREREQUISITES]
 >
->* [마케팅 달력에서 필터 만들기](filtering-the-marketing-calendar.md)
->* [마케팅 달력에서 필터 정의 저장](saving-a-filter-definition-in-the-marketing-calendar.md)
-
->
-
+>* [마케팅 달력에서 필터 만들기](/help/marketo/product-docs/core-marketo-concepts/marketing-calendar/working-with-the-calendar/filtering-the-marketing-calendar.md)
+>* [마케팅 달력에서 필터 정의 저장](/help/marketo/product-docs/core-marketo-concepts/marketing-calendar/working-with-the-calendar/saving-a-filter-definition-in-the-marketing-calendar.md)
 
 
 >[!NOTE]
@@ -43,4 +40,3 @@ ht-degree: 0%
    >[!NOTE]
    >
    >사용자 권한은 가시성에 영향을 줍니다.
-
