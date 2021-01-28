@@ -3,9 +3,9 @@ unique-page-id: 1147140
 description: 임시/확인된 날짜 이해 - 마케팅 문서 - 제품 문서
 title: 임시/확정 날짜 이해
 translation-type: tm+mt
-source-git-commit: 00887ea53e395bea3a11fd28e0ac98b085ef6ed8
+source-git-commit: e5050328cbddaf072dd60ddd8d7363a704e720b5
 workflow-type: tm+mt
-source-wordcount: '211'
+source-wordcount: '210'
 ht-degree: 0%
 
 ---
@@ -17,7 +17,7 @@ ht-degree: 0%
 
 ## 잠정적인 {#tentative}
 
-임시 날짜는 의도를 전달합니다. 이것을 달력에 연필로 써라. 임시 항목은 실행되지 않습니다. 자리 표시자로만 표시됩니다.
+임시 날짜는 의도를 전달합니다. 달력에 _연필_&#x200B;이라고 생각해 보십시오. 임시 항목은 실행되지 않습니다. 자리 표시자로만 표시됩니다.
 
 ![](assets/image2014-9-23-15-3a22-3a23.png)
 
@@ -29,11 +29,15 @@ ht-degree: 0%
 
 이는 에셋을 승인하는 것과 동일하므로 항목을 확인하기 전에 항목을 완전히 설정해야 합니다. 모든 오리가 한 줄로 표시되면 임시 탭을 오른쪽으로 밀어 항목을 확인할 수 있습니다.
 
-![](assets/image2014-9-23-15-3a23-3a2.png)  ![](assets/image2014-9-23-15-3a23-3a8.png) ![](assets/image2014-9-23-15-3a23-3a12.png)
+![](assets/image2014-9-23-15-3a23-3a2.png)
+
+![](assets/image2014-9-23-15-3a23-3a8.png)
+
+![](assets/image2014-9-23-15-3a23-3a12.png)
 
 >[!NOTE]
 >
->왜 그 개죠? 그는 골든 리트리버입니다. 그는 너의 데이터를 가져오고 있다.
+>왜 그 개죠? 그는 리트리버예요 그는 너의 데이터를 가져오고 있다.
 
 ## 확인됨 {#confirmed}
 
