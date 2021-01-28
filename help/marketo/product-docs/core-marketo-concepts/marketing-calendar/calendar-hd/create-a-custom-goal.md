@@ -3,7 +3,7 @@ unique-page-id: 7504130
 description: 사용자 지정 목표 만들기 - 마케팅 문서 - 제품 설명서
 title: 사용자 지정 목표 만들기
 translation-type: tm+mt
-source-git-commit: 00887ea53e395bea3a11fd28e0ac98b085ef6ed8
+source-git-commit: e5050328cbddaf072dd60ddd8d7363a704e720b5
 workflow-type: tm+mt
 source-wordcount: '108'
 ht-degree: 0%
@@ -15,7 +15,7 @@ ht-degree: 0%
 
 목표는 팀의 진도를 추적하고 동기를 부여하는 방법입니다. 만든 후에는 수동으로 업데이트해야 합니다.
 
-프레젠테이션과 마찬가지로 목표는 [작업 공간](../../../../product-docs/administration/workspaces-and-person-partitions/understanding-workspaces-and-person-partitions.md) 특화 사항입니다.
+프레젠테이션과 마찬가지로 목표는 [작업 공간](/help/marketo/product-docs/administration/workspaces-and-person-partitions/understanding-workspaces-and-person-partitions.md) 특화 사항입니다.
 
 1. **달력**&#x200B;으로 이동합니다.
 
@@ -25,7 +25,7 @@ ht-degree: 0%
 
    ![](assets/image2015-3-24-12-3a2-3a55.png)
 
-1. 목표** 탭을 선택합니다**.
+1. **목표** 탭을 선택합니다.
 
    ![](assets/image2015-3-26-12-3a24-3a49.png)
 
@@ -48,4 +48,3 @@ ht-degree: 0%
    사용자 지정 목표가 생성되었습니다.
 
    ![](assets/image2015-3-24-12-3a41-3a43.png)
-
