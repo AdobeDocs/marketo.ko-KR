@@ -3,7 +3,7 @@ unique-page-id: 7504120
 description: 프레젠테이션 시작 - 마케팅 문서 - 제품 설명서
 title: 프레젠테이션 시작
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: e5050328cbddaf072dd60ddd8d7363a704e720b5
 workflow-type: tm+mt
 source-wordcount: '115'
 ht-degree: 0%
@@ -23,11 +23,8 @@ ht-degree: 0%
 
 >[!PREREQUISITES]
 >
->* [프레젠테이션 만들기](create-a-presentation.md)
->* [프레젠테이션 사용자 정의](customize-a-presentation.md)
-
->
-
+>* [프레젠테이션 만들기](/help/marketo/product-docs/core-marketo-concepts/marketing-calendar/calendar-hd/create-a-presentation.md)
+>* [프레젠테이션 사용자 정의](/help/marketo/product-docs/core-marketo-concepts/marketing-calendar/calendar-hd/customize-a-presentation.md)
 
 
 >[!TIP]
@@ -44,5 +41,4 @@ ht-degree: 0%
 
    >[!TIP]
    >
-   >새 탭에서 프레젠테이션을 시작합니다. 필요한 경우 외부 모니터 또는 TV로 탭을 이동하여 디스플레이를 클릭하고 **전체 화면** 을 클릭합니다. 또는 Internet Explorer를 사용하는 경우 키보드에서 **F11 **을 누릅니다.
-
+   >새 탭에서 프레젠테이션을 시작합니다. 필요한 경우 외부 모니터나 TV로 탭을 이동하여 디스플레이를 클릭하고 **전체 화면** 을 클릭합니다. 또는 Internet Explorer를 사용하는 경우 키보드에서 **F11**&#x200B;을 누릅니다.
