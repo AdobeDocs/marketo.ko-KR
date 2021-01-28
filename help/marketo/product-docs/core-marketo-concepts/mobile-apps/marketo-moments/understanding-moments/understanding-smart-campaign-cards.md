@@ -3,7 +3,7 @@ unique-page-id: 10093348
 description: 스마트 캠페인 카드 이해 - 마케팅 문서 - 제품 설명서
 title: 스마트 캠페인 카드 이해
 translation-type: tm+mt
-source-git-commit: 00887ea53e395bea3a11fd28e0ac98b085ef6ed8
+source-git-commit: e5050328cbddaf072dd60ddd8d7363a704e720b5
 workflow-type: tm+mt
 source-wordcount: '514'
 ht-degree: 0%
@@ -26,6 +26,7 @@ ht-degree: 0%
    ![](assets/image2015-9-21-11-3a7-3a52.png)
 
 1. 세부 사항 카드에서는 스마트 목록 필터, 흐름 및 이메일 요약에 대한 정보에 액세스할 수 있습니다.
+
 1. **스마트 목록**&#x200B;을 누릅니다.
 
    ![](assets/image2015-9-21-13-3a31-3a49.png)
@@ -66,7 +67,7 @@ ht-degree: 0%
 
    ![](assets/image2015-9-22-14-3a54-3a12.png)
 
-1. [샘플 보내기](../../../../../product-docs/core-marketo-concepts/mobile-apps/marketo-moments/working-with-moments/sending-a-sample.md) 또는 [이메일 미리 보기](../../../../../product-docs/core-marketo-concepts/mobile-apps/marketo-moments/working-with-moments/previewing-an-email.md)를 탭합니다(자세한 내용은 다음 링크를 클릭하십시오.).
+1. [샘플 보내기](/help/marketo/product-docs/core-marketo-concepts/mobile-apps/marketo-moments/working-with-moments/sending-a-sample.md) 또는 [이메일 미리 보기](/help/marketo/product-docs/core-marketo-concepts/mobile-apps/marketo-moments/working-with-moments/previewing-an-email.md)를 탭합니다(자세한 내용은 다음 링크를 클릭하십시오.).
 
    ![](assets/image2015-9-22-14-3a52-3a11.png)
 
@@ -128,9 +129,9 @@ ht-degree: 0%
 
 다른 Marketing To Moments 카드와 마찬가지로 스마트 캠페인 카드 또는 세부 사항 카드의 3개의 점을 탭하여 다음을 수행할 수 있습니다.
 
-* [즐겨찾기로 만들기](../../../../../product-docs/core-marketo-concepts/mobile-apps/marketo-moments/working-with-moments/creating-a-favorite.md)
-* [완료 표시](../../../../../product-docs/core-marketo-concepts/mobile-apps/marketo-moments/working-with-moments/marking-it-done.md)
-* [공유](../../../../../product-docs/core-marketo-concepts/mobile-apps/marketo-moments/working-with-moments/sharing-a-moment.md)
+* [즐겨찾기로 만들기](/help/marketo/product-docs/core-marketo-concepts/mobile-apps/marketo-moments/working-with-moments/creating-a-favorite.md)
+* [완료 표시](/help/marketo/product-docs/core-marketo-concepts/mobile-apps/marketo-moments/working-with-moments/marking-it-done.md)
+* [공유](/help/marketo/product-docs/core-marketo-concepts/mobile-apps/marketo-moments/working-with-moments/sharing-a-moment.md)
 
 ![](assets/image2015-9-21-14-3a38-3a19.png)
 
