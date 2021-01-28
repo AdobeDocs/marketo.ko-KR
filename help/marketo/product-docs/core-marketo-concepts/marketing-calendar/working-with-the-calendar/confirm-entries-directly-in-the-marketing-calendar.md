@@ -3,7 +3,7 @@ unique-page-id: 2953362
 description: 마케팅 달력 - 마케팅 문서 - 제품 문서에서 바로 항목 확인
 title: 마케팅 달력에서 직접 항목 확인
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: e5050328cbddaf072dd60ddd8d7363a704e720b5
 workflow-type: tm+mt
 source-wordcount: '87'
 ht-degree: 0%
@@ -30,4 +30,3 @@ ht-degree: 0%
    확인은 일련의 유효성 검사 프로세스를 실행하고 모든 항목이 확인되면 항목이 확인됩니다.
 
    ![](assets/image2014-10-20-13-3a22-3a36.png)
-
