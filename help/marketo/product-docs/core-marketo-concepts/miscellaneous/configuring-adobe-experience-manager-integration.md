@@ -3,9 +3,9 @@ unique-page-id: 30081815
 description: Adobe Experience Manager 통합 구성 - Marketing Docs - 제품 설명서
 title: Adobe Experience Manager 통합 구성
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: e5050328cbddaf072dd60ddd8d7363a704e720b5
 workflow-type: tm+mt
-source-wordcount: '219'
+source-wordcount: '213'
 ht-degree: 0%
 
 ---
@@ -43,7 +43,7 @@ AEM 에셋을 액세스, 선택 및 Marketing의 Design Studio로 가져올 수 
 
    ![](assets/four.png)
 
-1. **허용된 원본(등록)** 텍스트 상자에 &quot;https://&quot;을 입력합니다.*\.markto\.com&quot;(따옴표 없이)을 클릭하고 **저장**&#x200B;을 클릭합니다.
+1. **허용된 원본(Regexp)** 텍스트 상자에 `https://.*\.marketo\.com`를 입력하고 **저장**&#x200B;을 클릭합니다.
 
    ![](assets/five-psd.png)
 
@@ -75,5 +75,4 @@ AEM 에셋을 액세스, 선택 및 Marketing의 Design Studio로 가져올 수 
 
    ![](assets/twelve.png)
 
-   다 준비됐어요! 이제 Marketo Sky[의 Design Studio에 AEM 에셋을 가져올 수 있습니다.](http://help.marketo.com/hc/en-us/articles/360036765993)
-
+   다 준비됐어요! 이제 Marketo Sky](https://help.marketo.com/hc/en-us/articles/360036765993)의 Design Studio에 AEM 에셋을 가져올 수 있습니다.[
