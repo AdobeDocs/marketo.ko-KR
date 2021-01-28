@@ -3,9 +3,9 @@ unique-page-id: 2953364
 description: 프로그램 포커스 이해/활성화 - 마케팅 문서 - 제품 설명서
 title: 프로그램 포커스 이해/활성화
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: e5050328cbddaf072dd60ddd8d7363a704e720b5
 workflow-type: tm+mt
-source-wordcount: '152'
+source-wordcount: '151'
 ht-degree: 0%
 
 ---
@@ -13,9 +13,9 @@ ht-degree: 0%
 
 # 프로그램 포커스 이해/활성화 {#understand-enable-program-focus}
 
-마케팅 달력을 사용하면 사물에 대한 새로운 관점을 얻을 수 있지만 일부 상호 작용도 허용됩니다. [만들기](../../../../product-docs/core-marketo-concepts/marketing-calendar/working-with-the-calendar/create-entries-directly-in-the-marketing-calendar.md), [편집](../../../../product-docs/core-marketo-concepts/marketing-calendar/working-with-the-calendar/edit-entries-directly-in-the-marketing-calendar.md), [delete](../../../../product-docs/core-marketo-concepts/marketing-calendar/working-with-the-calendar/delete-entries-directly-in-the-marketing-calendar.md) 및 [확인](../../../../product-docs/core-marketo-concepts/marketing-calendar/working-with-the-calendar/confirm-entries-directly-in-the-marketing-calendar.md)할 수 있습니다. 출품작과 상호 작용하려면 먼저 프로그램에 집중해야 합니다.
+마케팅 달력을 사용하면 사물에 대한 새로운 관점을 얻을 수 있지만 일부 상호 작용도 허용됩니다. [만들기](/help/marketo/product-docs/core-marketo-concepts/marketing-calendar/working-with-the-calendar/create-entries-directly-in-the-marketing-calendar.md), [편집](/help/marketo/product-docs/core-marketo-concepts/marketing-calendar/working-with-the-calendar/edit-entries-directly-in-the-marketing-calendar.md), [delete](/help/marketo/product-docs/core-marketo-concepts/marketing-calendar/working-with-the-calendar/delete-entries-directly-in-the-marketing-calendar.md) 및 [확인](/help/marketo/product-docs/core-marketo-concepts/marketing-calendar/working-with-the-calendar/confirm-entries-directly-in-the-marketing-calendar.md)할 수 있습니다. 출품작과 상호 작용하려면 먼저 프로그램에 집중해야 합니다.
 
-1. **Marketing** **달력**&#x200B;으로 이동합니다.
+1. **마케팅 달력**&#x200B;으로 이동합니다.
 
    ![](assets/2017-05-10-15-30-47-1.png)
 
@@ -39,12 +39,8 @@ ht-degree: 0%
 
 >[!MORELIKETHIS]
 >
->* [마케팅 달력에서 직접 항목 만들기](../../../../product-docs/core-marketo-concepts/marketing-calendar/working-with-the-calendar/create-entries-directly-in-the-marketing-calendar.md)
->* [마케팅 달력에서 직접 항목 편집](../../../../product-docs/core-marketo-concepts/marketing-calendar/working-with-the-calendar/edit-entries-directly-in-the-marketing-calendar.md)
->* [마케팅 달력에서 직접 항목 삭제](../../../../product-docs/core-marketo-concepts/marketing-calendar/working-with-the-calendar/delete-entries-directly-in-the-marketing-calendar.md)
->* [마케팅 달력에서 직접 항목 확인](../../../../product-docs/core-marketo-concepts/marketing-calendar/working-with-the-calendar/confirm-entries-directly-in-the-marketing-calendar.md)
-
->
-
-
+>* [마케팅 달력에서 직접 항목 만들기](/help/marketo/product-docs/core-marketo-concepts/marketing-calendar/working-with-the-calendar/create-entries-directly-in-the-marketing-calendar.md)
+>* [마케팅 달력에서 직접 항목 편집](/help/marketo/product-docs/core-marketo-concepts/marketing-calendar/working-with-the-calendar/edit-entries-directly-in-the-marketing-calendar.md)
+>* [마케팅 달력에서 직접 항목 삭제](/help/marketo/product-docs/core-marketo-concepts/marketing-calendar/working-with-the-calendar/delete-entries-directly-in-the-marketing-calendar.md)
+>* [마케팅 달력에서 직접 항목 확인](/help/marketo/product-docs/core-marketo-concepts/marketing-calendar/working-with-the-calendar/confirm-entries-directly-in-the-marketing-calendar.md)
 
