@@ -5,9 +5,9 @@ audience: end-user
 user-guide-title: 마케팅 가이드
 user-guide-description: 마케팅 제품 설명서
 translation-type: tm+mt
-source-git-commit: f79909ce8f2e37bf0748596774fe47ac03618696
+source-git-commit: e5050328cbddaf072dd60ddd8d7363a704e720b5
 workflow-type: tm+mt
-source-wordcount: '7829'
+source-wordcount: '7828'
 ht-degree: 0%
 
 ---
@@ -382,7 +382,7 @@ ht-degree: 0%
             + [개인 세부 사항 페이지 사용](product-docs/core-marketo-concepts/smart-lists-and-static-lists/managing-people-in-smart-lists/using-the-person-detail-page.md)
          + 정적 목록 {#static-lists}
             + [정적 목록 만들기](product-docs/core-marketo-concepts/smart-lists-and-static-lists/static-lists/create-a-static-list.md)
-            + [정적 목록을 Adobe Experience Cloud으로 내보내기](product-docs/core-marketo-concepts/smart-lists-and-static-lists/static-lists/export-a-static-list-to-adobe-experience-cloud.md)
+            + [Adobe Experience Cloud으로 목록 보내기](product-docs/core-marketo-concepts/smart-lists-and-static-lists/static-lists/send-a-list-to-adobe-experience-cloud.md)
             + [정적 목록 이해](product-docs/core-marketo-concepts/smart-lists-and-static-lists/static-lists/understanding-static-lists.md)
       + 프로그램 {#programs}
          + 프로그램 만들기 {#creating-programs}
