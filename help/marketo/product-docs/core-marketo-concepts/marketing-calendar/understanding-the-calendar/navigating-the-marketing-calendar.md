@@ -3,9 +3,9 @@ unique-page-id: 1147257
 description: 마케팅 달력 탐색 - 마케팅 문서 - 제품 설명서
 title: 마케팅 달력 탐색
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: e5050328cbddaf072dd60ddd8d7363a704e720b5
 workflow-type: tm+mt
-source-wordcount: '167'
+source-wordcount: '165'
 ht-degree: 0%
 
 ---
@@ -17,7 +17,7 @@ ht-degree: 0%
 
 >[!PREREQUISITES]
 >
->[마케팅 달력 라이선스](issue-revoke-a-marketing-calendar-license.md)가 있는지 확인하십시오. 그렇지 않으면 마케팅 달력 타일이 내 마케팅에 표시되지 않습니다.
+>[마케팅 달력 라이선스](/help/marketo/product-docs/core-marketo-concepts/marketing-calendar/understanding-the-calendar/issue-revoke-a-marketing-calendar-license.md)가 있는지 확인하십시오. 그렇지 않으면 마케팅 달력 타일이 내 마케팅에 표시되지 않습니다.
 
 1. **마케팅 달력**&#x200B;으로 이동합니다.
 
@@ -39,9 +39,7 @@ ht-degree: 0%
 
 1. **필터 드롭다운**&#x200B;을 클릭합니다.
 
-   &#39; ![](assets/image2014-9-26-10-3a29-3a6.png)
-
-   &#39;
+   ![](assets/image2014-9-26-10-3a29-3a6.png)
 
 1. **Agenda** 보기를 선택합니다.
 
@@ -67,9 +65,6 @@ ht-degree: 0%
 
 굉장해! 기본 사항입니다. 필터를 사용하여 보기를 사용자 정의할 수도 있습니다.
 
->[!NOTE]
+>[!MORELIKETHIS]
 >
->**관련 문서**
->
->* [마케팅 달력 필터링](../../../../product-docs/core-marketo-concepts/marketing-calendar/working-with-the-calendar/filtering-the-marketing-calendar.md)
-
+>[마케팅 달력 필터링](/help/marketo/product-docs/core-marketo-concepts/marketing-calendar/working-with-the-calendar/filtering-the-marketing-calendar.md)
