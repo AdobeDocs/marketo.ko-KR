@@ -3,9 +3,9 @@ unique-page-id: 8783322
 description: Microsoft Dynamics 동기화 유효성 검사 - Marketing To Docs - 제품 설명서
 title: Microsoft Dynamics 동기화 유효성 검사
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 20d4c8a079916f47267df3dab5a8e663f6eb019b
 workflow-type: tm+mt
-source-wordcount: '265'
+source-wordcount: '266'
 ht-degree: 0%
 
 ---
@@ -15,7 +15,7 @@ ht-degree: 0%
 
 >[!CAUTION]
 >
->Dynamics Sync에 대해 MFA(Multi-Factor Authentication)가 활성화된 경우 Dynamics에서 Marketing To와 제대로 동기화하려면 MFA 인증을 비활성화해야 합니다. 자세한 내용은 [Marketing Support](http://nation.marketo.com/community/support_solutions)에 문의하십시오.
+>Dynamics Sync에 대해 MFA(Multi-Factor Authentication)가 활성화된 경우 Dynamics에서 Marketing To와 제대로 동기화하려면 MFA 인증을 비활성화해야 합니다. 자세한 내용은 [Marketing Support](https://nation.marketo.com/t5/Support/ct-p/Support)에 문의하십시오.
 
 ## Marketing에서 {#run-validate-sync-in-marketo}의 유효성 검사 동기화 실행
 
@@ -45,7 +45,7 @@ ht-degree: 0%
 
    ![](assets/image2015-9-22-15-3a58-3a12.png)
 
-1. ![—](assets/delete.png)이 표시되면 해당 단계에 문제가 있는 것입니다. 문제를 식별하고 수정하려면 [Fix Dynamics 유효성 검사 동기화 문제](validate-microsoft-dynamics-sync/fix-dynamics-validation-sync-issues.md)를 참조하십시오. 그런 다음 위의 이미지와 같은 결과가 나타날 때까지 동기화 유효성 검사 단계를 다시 실행합니다.
+1. ![—](assets/delete.png)이 표시되면 해당 단계에 문제가 있는 것입니다. 문제를 식별하고 수정하려면 [Fix Dynamics 유효성 검사 동기화 문제](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/validate-microsoft-dynamics-sync/fix-dynamics-validation-sync-issues.md)를 참조하십시오. 그런 다음 위의 이미지와 같은 결과가 나타날 때까지 동기화 유효성 검사 단계를 다시 실행합니다.
 
    >[!CAUTION]
    >
@@ -53,5 +53,4 @@ ht-degree: 0%
 
 >[!MORELIKETHIS]
 >
->[Dynamics 유효성 검사 동기화 문제 수정](validate-microsoft-dynamics-sync/fix-dynamics-validation-sync-issues.md)
-
+>[Dynamics 유효성 검사 동기화 문제 수정](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/validate-microsoft-dynamics-sync/fix-dynamics-validation-sync-issues.md)
