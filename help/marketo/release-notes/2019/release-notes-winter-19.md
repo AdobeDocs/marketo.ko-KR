@@ -3,7 +3,7 @@ unique-page-id: 17727823
 description: 릴리스 노트 -19년 겨울 - 마케팅 문서 - 제품 설명서
 title: 릴리스 노트 -19년 겨울
 translation-type: tm+mt
-source-git-commit: dc20aede0894a09e6c0bcd3d1580859b5fecb5f1
+source-git-commit: 309f299275bfe75e8af0150be0a5ffdf28a54cf8
 workflow-type: tm+mt
 source-wordcount: '1112'
 ht-degree: 0%
@@ -23,7 +23,7 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->Microsoft는 모든 온라인 고객에게 최신 버전의 Microsoft Dynamics로 업그레이드하도록 권장합니다. Marketing 인스턴스를 Dynamics Online과 통합하는 경우 통합이 계속 작동하도록 하려면 **2019년 1월 31일](../../product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/download-the-marketo-lead-management-solution/upgrade-the-marketo-solution-for-microsoft-dynamics.md) 이전에 [최신 버전의 Marketing Solution&lt;a1/>으로 업그레이드해야 합니다.**
+>Microsoft는 모든 온라인 고객에게 최신 버전의 Microsoft Dynamics로 업그레이드하도록 권장합니다. Marketing 인스턴스를 Dynamics Online과 통합하는 경우 통합이 계속 작동하도록 하려면 **2019년 1월 31일](../../product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/upgrade-the-marketo-solution-for-microsoft-dynamics.md) 이전에 [최신 버전의 Marketing Solution**&#x200B;으로 업그레이드해야 합니다.
 
 >[!NOTE]
 >
