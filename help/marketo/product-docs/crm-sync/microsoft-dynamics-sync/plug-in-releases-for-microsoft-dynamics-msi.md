@@ -3,9 +3,9 @@ unique-page-id: 10099102
 description: Microsoft Dynamics MSI용 플러그인 릴리스 - Marketing Docs - 제품 설명서
 title: Microsoft Dynamics MSI용 플러그인 릴리스
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: 20d4c8a079916f47267df3dab5a8e663f6eb019b
 workflow-type: tm+mt
-source-wordcount: '207'
+source-wordcount: '203'
 ht-degree: 4%
 
 ---
@@ -15,7 +15,7 @@ ht-degree: 4%
 
 Microsoft Dynamics에 처음 동기화하면 MSI(Marketing To Sales Insight)용 플러그인의 최신 버전을 다운로드하여 설치합니다. Marketing Cloud는 정기적으로 이러한 플러그인을 업데이트하므로 동일한 위치로 돌아가 새 버전을 다운로드할 수 있습니다.
 
-[Dynamics 릴리스에 해당하는 최신 플러그인](http://docs.marketo.com/x/LoJo)을 다운로드하십시오.
+[Dynamics 릴리스에 해당하는 최신 플러그인](/help/marketo/product-docs/marketo-sales-insight/msi-for-microsoft-dynamics/installing/download-the-marketo-sales-insight-solution-for-microsoft-dynamics.md)을 다운로드하십시오.
 
 >[!NOTE]
 >
@@ -23,7 +23,7 @@ Microsoft Dynamics에 처음 동기화하면 MSI(Marketing To Sales Insight)용 
 
 ## MSI 솔루션 업데이트 {#updating-your-msi-solution}
 
-1. 기존 버전의 Dynamics CRM을 통해 솔루션의 최신 버전을 가져올 수 있습니다(예:Dynamics CRM의 버전 1.4가 있고 최신 버전이 1.5이면 *버전 1.4를 통해 &lt;a0/>을(를) 가져옵니다.*
+1. 기존 버전의 Dynamics CRM을 통해 솔루션의 최신 버전을 가져올 수 있습니다(예:Dynamics CRM의 버전 1.4가 있고 최신 버전이 1.5이면 _버전 1.4를 통해_&#x200B;을(를) 가져옵니다.
 1. 다음 팝업이 표시됩니다. **업데이트** 및 **사용자 정의 덮어쓰기** 옵션을 선택한 다음 **가져오기**&#x200B;를 클릭합니다.
 
    ![](assets/one.png)
@@ -69,4 +69,3 @@ Microsoft Dynamics에 처음 동기화하면 MSI(Marketing To Sales Insight)용 
   </tr> 
  </tbody> 
 </table>
-
