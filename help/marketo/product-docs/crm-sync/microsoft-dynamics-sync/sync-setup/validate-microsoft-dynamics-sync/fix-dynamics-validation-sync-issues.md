@@ -3,7 +3,7 @@ unique-page-id: 10095429
 description: Dynamics 유효성 검사 동기화 문제 수정 - Marketing To Docs - 제품 설명서
 title: Dynamics 유효성 검사 동기화 문제 수정
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 20d4c8a079916f47267df3dab5a8e663f6eb019b
 workflow-type: tm+mt
 source-wordcount: '407'
 ht-degree: 0%
@@ -79,7 +79,7 @@ Dynamics 유효성 검사 동기화를 실행하면 이 보고서가 생성됩�
 
    ![](assets/one.png)
 
-1. **설정 **을 클릭하고 **솔루션을 선택합니다.**
+1. **설정**&#x200B;을 클릭하고 **솔루션을 선택합니다.**
 
    ![](assets/eleven.png)
 
@@ -99,7 +99,7 @@ Dynamics 유효성 검사 동기화를 실행하면 이 보고서가 생성됩�
 
    ![](assets/one.png)
 
-1. **설정 **을 클릭하고 **마케팅 구성**&#x200B;을 선택합니다.
+1. **설정**&#x200B;을 클릭하고 **마케팅 구성**&#x200B;을 선택합니다.
 
    ![](assets/thirteen.png)
 
@@ -113,5 +113,4 @@ Dynamics 유효성 검사 동기화를 실행하면 이 보고서가 생성됩�
 
 >[!MORELIKETHIS]
 >
->[Microsoft Dynamics 동기화 유효성 검사](../../../../../product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/validate-microsoft-dynamics-sync.md)
-
+>[Microsoft Dynamics 동기화 유효성 검사](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/validate-microsoft-dynamics-sync.md)
