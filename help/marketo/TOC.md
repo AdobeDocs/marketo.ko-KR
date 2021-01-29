@@ -5,7 +5,7 @@ audience: end-user
 user-guide-title: 마케팅 가이드
 user-guide-description: 마케팅 제품 설명서
 translation-type: tm+mt
-source-git-commit: e5050328cbddaf072dd60ddd8d7363a704e720b5
+source-git-commit: 6b15e601b1c6e424d10f702f35233b499660611f
 workflow-type: tm+mt
 source-wordcount: '7828'
 ht-degree: 0%
@@ -495,11 +495,11 @@ ht-degree: 0%
          + [Microsoft Dynamics Sync 이해](product-docs/crm-sync/microsoft-dynamics-sync/understanding-the-microsoft-dynamics-sync.md)
          + [Microsoft Dynamics용 Marketing To 플러그인 릴리스](product-docs/crm-sync/microsoft-dynamics-sync/marketo-plugin-releases-for-microsoft-dynamics.md)
          + [Microsoft Dynamics MSI용 플러그인 릴리스](product-docs/crm-sync/microsoft-dynamics-sync/plug-in-releases-for-microsoft-dynamics-msi.md)
-         + [Microsoft Dynamics 동기화 유효성 검사](product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/validate-microsoft-dynamics-sync.md)
          + [Dynamics 유효성 검사 동기화 문제 수정](product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/validate-microsoft-dynamics-sync/fix-dynamics-validation-sync-issues.md)
          + 동기화 설정 {#sync-setup}
             + [마케팅 리드 관리 솔루션 다운로드](product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/download-the-marketo-lead-management-solution.md)
-            + [Microsoft Dynamics용 Marketing To 솔루션 업그레이드](product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/download-the-marketo-lead-management-solution/upgrade-the-marketo-solution-for-microsoft-dynamics.md)
+            + [Microsoft Dynamics용 Marketing To 솔루션 업그레이드](product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/upgrade-the-marketo-solution-for-microsoft-dynamics.md)
+            + [Microsoft Dynamics 동기화 유효성 검사](product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/validate-microsoft-dynamics-sync.md)
             + [조직 서비스 URL 보기](product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/view-the-organization-service-url.md)
             + Microsoft Dynamics 2011 온-프레미스 {#microsoft-dynamics-2011-on-premises}
                + [3단계 중 1단계:Marketing To 솔루션 설치(2011 온프레미스)](product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/microsoft-dynamics-2011-on-premises/step-1-of-3-install.md)
