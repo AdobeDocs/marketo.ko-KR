@@ -3,7 +3,7 @@ unique-page-id: 6095037
 description: 릴리스 노트 - 2015년 3월 - Marketing Docs - 제품 설명서
 title: 릴리스 노트 - 2015년 3월
 translation-type: tm+mt
-source-git-commit: 48330e8f6f1ad8883d74d80e6f64faba4fdfa52e
+source-git-commit: 309f299275bfe75e8af0150be0a5ffdf28a54cf8
 workflow-type: tm+mt
 source-wordcount: '352'
 ht-degree: 0%
@@ -43,7 +43,7 @@ ht-degree: 0%
 
 ## Microsoft Dynamics 2015 온-프레미스 {#microsoft-dynamics-on-premise}
 
-이제 최신 설치 관리자가 지원되며 앱[을 통해 액세스할 수 있습니다.](../../product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/download-the-marketo-lead-management-solution/upgrade-the-marketo-solution-for-microsoft-dynamics.md)
+이제 최신 설치 관리자가 지원되며 앱](../../product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/upgrade-the-marketo-solution-for-microsoft-dynamics.md)을 통해 액세스할 수 있습니다.[
 
 ![](assets/image2015-3-23-11-3a47-3a16.png)
 
