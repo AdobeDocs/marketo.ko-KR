@@ -3,7 +3,7 @@ unique-page-id: 6848922
 description: 마케팅 리드 관리 솔루션 - 마케팅 문서 - 제품 설명서 다운로드
 title: 마케팅 리드 관리 솔루션 다운로드
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: 20d4c8a079916f47267df3dab5a8e663f6eb019b
 workflow-type: tm+mt
 source-wordcount: '108'
 ht-degree: 0%
@@ -21,7 +21,7 @@ ht-degree: 0%
 
 >[!CAUTION]
 >
->업그레이드를 수행하기 전에 최신 Marketing Solution *을(를) 다운로드해야 합니다.*
+>업그레이드를 수행하기 전에 최신 Marketing Solution _을(를) 다운로드해야 합니다._
 
 >[!NOTE]
 >
@@ -29,7 +29,7 @@ ht-degree: 0%
 
 1. **관리** 영역으로 이동합니다.
 
-   ![](assets/admin.png)
+   ![](assets/admin-1.png)
 
 1. **CRM**&#x200B;을 클릭합니다.
 
@@ -45,7 +45,6 @@ ht-degree: 0%
 
 1. Microsoft Dynamics 버전에 적합한 솔루션을 선택합니다.
 
-   ![](assets/msd-online.png)
+   ![](assets/msd-online-1.png)
 
    굉장해! 솔루션의 zip 파일이 이제 장치에 다운로드됩니다.
-
