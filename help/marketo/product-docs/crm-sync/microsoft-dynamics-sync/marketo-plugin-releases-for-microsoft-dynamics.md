@@ -3,7 +3,7 @@ unique-page-id: 10099389
 description: Microsoft Dynamics용 Marketing To 플러그인 릴리스 - Marketing Docs - 제품 설명서
 title: Microsoft Dynamics용 Marketing To 플러그인 릴리스
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 3deb7e1c435368533222ddedf064d2d87fa75c5f
 workflow-type: tm+mt
 source-wordcount: '346'
 ht-degree: 7%
@@ -15,7 +15,7 @@ ht-degree: 7%
 
 Microsoft Dynamics에 처음 동기화하면 Marketing용 플러그인의 최신 버전을 다운로드합니다. Marketing Cloud는 정기적으로 이러한 플러그인을 업데이트하므로 동일한 위치로 돌아가 새 버전을 다운로드할 수 있습니다.
 
-[Dynamics 릴리스에 ](sync-setup/download-the-marketo-lead-management-solution.md) 해당하는 최신 플러그인을 다운로드합니다.
+[Dynamics 릴리스에 ](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/download-the-marketo-lead-management-solution.md) 해당하는 최신 플러그인을 다운로드합니다.
 
 ![](assets/lead-management-solution.png)
 
@@ -102,5 +102,4 @@ Microsoft Dynamics에 처음 동기화하면 Marketing용 플러그인의 최신
 
 >[!MORELIKETHIS]
 >
->* [마케팅 리드 관리 솔루션 다운로드](sync-setup/download-the-marketo-lead-management-solution.md)
-
+>[마케팅 리드 관리 솔루션 다운로드](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/download-the-marketo-lead-management-solution.md)
