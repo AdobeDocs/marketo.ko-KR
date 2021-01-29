@@ -3,7 +3,7 @@ unique-page-id: 3571827
 description: 3단계 중 2단계 - Dynamics - Marketing To Docs - 제품 설명서에서 Marketing To Sync 사용자 설정
 title: 3단계 중 2단계 - Dynamics에서 Marketing To Sync 사용자 설정
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 309f299275bfe75e8af0150be0a5ffdf28a54cf8
 workflow-type: tm+mt
 source-wordcount: '460'
 ht-degree: 0%
@@ -67,7 +67,7 @@ Marketing to Sync 사용자 역할을 Marketing Cloud에 할당하여 사용자�
 
 >[!NOTE]
 >
->이것은 Marketing 버전 4.0.0.14 이상에만 적용됩니다. 이전 버전의 경우 모든 사용자는 동기화된 사용자 역할이 있어야 합니다. 마케팅을 업그레이드하려면 [Microsoft Dynamics용 Marketing Solution 업그레이드](../../../../../product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/download-the-marketo-lead-management-solution/upgrade-the-marketo-solution-for-microsoft-dynamics.md)를 참조하십시오.
+>이것은 Marketing 버전 4.0.0.14 이상에만 적용됩니다. 이전 버전의 경우 모든 사용자는 동기화된 사용자 역할이 있어야 합니다. 마케팅을 업그레이드하려면 [Microsoft Dynamics용 Marketing Solution 업그레이드](../../../../../product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/upgrade-the-marketo-solution-for-microsoft-dynamics.md)를 참조하십시오.
 
 1. 활성화된 사용자 탭으로 돌아가 사용자 목록을 새로 고칩니다.
 
