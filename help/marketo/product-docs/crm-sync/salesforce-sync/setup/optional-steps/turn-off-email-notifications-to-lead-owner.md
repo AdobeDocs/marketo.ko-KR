@@ -3,7 +3,7 @@ unique-page-id: 13795802
 description: 리드 소유자에 대한 이메일 알림 끄기 - Marketing To Docs - 제품 설명서
 title: 리드 소유자에게 이메일 알림 해제
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: 2b5ccd7220557a5e966d33436d0f0d2a65e4589d
 workflow-type: tm+mt
 source-wordcount: '70'
 ht-degree: 0%
@@ -30,4 +30,3 @@ ht-degree: 0%
 1. 리드 할당 시 Salesforce의 소유자에게 이메일 알림 보내기&#x200B;**상자의 선택을 취소합니다.** **저장**&#x200B;을 클릭합니다.
 
    ![](assets/new-screen.png)
-
