@@ -3,7 +3,7 @@ unique-page-id: 8782944
 description: Marketing To Sync 사용자를 마케팅 사용자 - Marketing To Docs - 제품 설명서
 title: Marketing To 동기화 사용자를 마케팅 사용자로 만들기
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: 2b5ccd7220557a5e966d33436d0f0d2a65e4589d
 workflow-type: tm+mt
 source-wordcount: '105'
 ht-degree: 0%
@@ -13,7 +13,7 @@ ht-degree: 0%
 
 # Marketing To Sync 사용자를 마케팅 사용자 {#make-marketo-sync-user-a-marketing-user}
 
-[Marketing to sync 사용자](../../../../../../product-docs/crm-sync/salesforce-sync/setup/enterprise-unlimited-edition/step-2-of-3-create-a-salesforce-user-for-marketo-enterprise-unlimited.md)가 제대로 작동하려면 Salesforce 캠페인 동기화에 대한 마케팅 사용자여야 합니다. 사용자를 Salesforce의 마케팅 사용자로 만드는 방법은 다음과 같습니다.
+[Marketing to sync 사용자](/help/marketo/product-docs/crm-sync/salesforce-sync/setup/enterprise-unlimited-edition/step-2-of-3-create-a-salesforce-user-for-marketo-enterprise-unlimited.md)가 제대로 작동하려면 Salesforce 캠페인 동기화에 대한 마케팅 사용자여야 합니다. 사용자를 Salesforce의 마케팅 사용자로 만드는 방법은 다음과 같습니다.
 
 >[!NOTE]
 >
@@ -36,4 +36,3 @@ ht-degree: 0%
    ![](assets/image2015-7-8-14-3a30-3a16.png)
 
    좋아요! 이 Marketing To 동기화 사용자는 이제 마케팅 사용자입니다.
-
