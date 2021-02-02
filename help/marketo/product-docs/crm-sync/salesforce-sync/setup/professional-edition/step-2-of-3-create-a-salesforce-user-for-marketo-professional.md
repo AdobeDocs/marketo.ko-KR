@@ -3,9 +3,9 @@ unique-page-id: 3571797
 description: 3단계 중 2단계 - Marketing용 Salesforce 사용자 만들기(Professional) - Marketing Docs - 제품 설명서
 title: 3단계 중 2단계 - Marketing용 Salesforce 사용자 만들기(Professional)
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 2b5ccd7220557a5e966d33436d0f0d2a65e4589d
 workflow-type: tm+mt
-source-wordcount: '426'
+source-wordcount: '423'
 ht-degree: 0%
 
 ---
@@ -19,11 +19,7 @@ ht-degree: 0%
 
 >[!PREREQUISITES]
 >
->* [3단계 중 1단계:Salesforce에 마케팅 필드 추가(Professional)](step-1-of-3-add-marketo-fields-to-salesforce-professional.md)
-
->
-
-
+>[3단계 중 1단계:Salesforce에 마케팅 필드 추가(Professional)](/help/marketo/product-docs/crm-sync/salesforce-sync/setup/professional-edition/step-1-of-3-add-marketo-fields-to-salesforce-professional.md)
 
 이 문서에서는 Salesforce 페이지 레이아웃을 사용하여 필드 권한을 사용자 정의하고 Marketing-Salesforce 동기화 사용자를 만듭니다.
 
@@ -92,9 +88,6 @@ Salesforce Professional은 Salesforce Enterprise/Unlimited의 프로필과 달�
 
    >[!NOTE]
    >
-   >**미리 알림**
-   >
-   >
    >**모든 날 이벤트** 필드가 **이벤트 페이지 레이아웃**&#x200B;에 추가되었는지 확인합니다.
 
 ## 동기화 사용자 만들기 {#create-sync-user}
@@ -123,13 +116,6 @@ Salesforce에 액세스하려면 Marketing에서 자격 증명이 필요합니�
 
 훌륭해! 이제 Marketing To가 Salesforce에 연결하는 데 사용할 수 있는 계정이 있습니다. 그렇게 합시다.
 
->[!NOTE]
+>[!MORELIKETHIS]
 >
->**관련 문서**
->
->* [3단계 중 3단계:Connect Marketing 및 Salesforce(Professional)](step-3-of-3-connect-marketo-and-salesforce-professional.md)
-
->
-
-
-
+>[3단계 중 3단계:Connect Marketing 및 Salesforce(Professional)](/help/marketo/product-docs/crm-sync/salesforce-sync/setup/professional-edition/step-3-of-3-connect-marketo-and-salesforce-professional.md)
