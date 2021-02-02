@@ -3,23 +3,20 @@ unique-page-id: 7504744
 description: Dynamics 2015 On-Prem 및 2016 365 On-Prem 3단계 - Marketing Docs - 제품 설명서 설치
 title: Dynamics 2015 On-Prem 및 2016 365 On-Prem 3을 위한 Market 설치
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 2b5ccd7220557a5e966d33436d0f0d2a65e4589d
 workflow-type: tm+mt
-source-wordcount: '323'
+source-wordcount: '309'
 ht-degree: 0%
 
 ---
 
 
-# Dynamics 2015 On-Prem 및 2016 365 On-Prem 3단계 중 3단계 {#install-marketo-for-dynamics-on-prem-and-on-prem-step-of} 설치
+# 3단계 중 3단계:Marketing To Dynamics 연결(2015 On-Prem 및 2016 365 On-Prem) {#step-of-connect-marketo-dynamics-on-premises-and-365}
 
 >[!PREREQUISITES]
 >
->* [Dynamics 2015 On-Prem 및 2016 365 On-Prem용 Marketing To 설치 1/3](step-1-of-3-install.md)
->* [Dynamics 2015 On-Prem 및 2016 365 On-Prem 2단계/3을 위한 Marketing 설치](step-2-of-3-set-up.md)
-
->
-
+>* [Dynamics 2015 On-Prem 및 2016 365 On-Prem용 Marketing To 설치 1/3](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/microsoft-dynamics-2015-on-premises-2016-dynamics-365-on-premises/step-1-of-3-install.md)
+>* [Dynamics 2015 On-Prem 및 2016 365 On-Prem 2단계/3을 위한 Marketing 설치](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/microsoft-dynamics-2015-on-premises-2016-dynamics-365-on-premises/step-2-of-3-set-up.md)
 
 
 >[!NOTE]
@@ -54,11 +51,11 @@ ht-degree: 0%
 
    >[!NOTE]
    >
-   >Marketing의 사용자 이름은 CRM의 동기화 사용자의 사용자 이름과 일치해야 합니다. 형식은 [`[email protected]`](http://docs.marketo.com/cdn-cgi/l/email-protection#8cf9ffe9fecce8e3e1ede5e2a2efe3e1) 또는 DOMAIN\user일 수 있습니다.
+   >Marketing의 사용자 이름은 CRM의 동기화 사용자의 사용자 이름과 일치해야 합니다. 형식은 user@domain.com 또는 DOMAIN\user일 수 있습니다.
 
    >[!TIP]
    >
-   >URL을 모르십니까? 여기에서 [Dynamics 조직 서비스 URL](../../../../../product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/view-the-organization-service-url.md)을 찾는 방법을 보여 드리겠습니다.
+   >URL을 모르십니까? 여기에서 [Dynamics 조직 서비스 URL](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/view-the-organization-service-url.md)을 찾는 방법을 보여 드리겠습니다.
 
 ## 동기화할 필드 선택 {#select-fields-to-sync}
 
