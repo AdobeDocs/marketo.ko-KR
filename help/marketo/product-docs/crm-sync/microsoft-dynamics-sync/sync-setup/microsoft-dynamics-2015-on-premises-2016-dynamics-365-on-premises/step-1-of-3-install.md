@@ -3,17 +3,15 @@ unique-page-id: 7504736
 description: Dynamics 2015 On-Prem 및 2016 365 On-Prem 1단계 - Marketing Docs - 제품 설명서 설치
 title: Dynamics 2015 On-Prem 및 2016 365 On-Prem용 Marketing To 설치 1/3
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 2b5ccd7220557a5e966d33436d0f0d2a65e4589d
 workflow-type: tm+mt
-source-wordcount: '292'
+source-wordcount: '298'
 ht-degree: 0%
 
 ---
 
 
-# 3단계 중 1단계
-
-<!--Install Marketo for Dynamics 2015 On-Prem and 2016 365 On-Prem Step 1 of 3-->
+# 3단계 중 1단계:Marketing용 동기화 사용자 구성(2015 On-Prem 및 2016 365 On-Prem) {#step-of-configure-sync-user-for-marketo-on-premises-and-365}
 
 Microsoft Dynamics 2015 온-프레미스 또는 2016(Dynamics 365)을 Marketing To와 동기화하려면 먼저 Dynamics에서 Marketing To 솔루션을 설치해야 합니다.
 
@@ -23,9 +21,9 @@ Microsoft Dynamics 2015 온-프레미스 또는 2016(Dynamics 365)을 Marketing 
 
 >[!PREREQUISITES]
 >
->Microsoft Dynamics 온-프레미스를 사용하는 경우 [Active Directory 페더레이션 서비스](https://msdn.microsoft.com/en-us/library/bb897402.aspx) 2.0+(ADFS)가 구성된 [IFD(인터넷 대면 배포](http://www.microsoft.com/en-us/download/confirmation.aspx?id=41701))가 있어야 합니다. 참고:링크를 클릭하면 IFD 문서가 자동으로 다운로드됩니다.
+>Microsoft Dynamics 온-프레미스를 사용하는 경우 [Active Directory 페더레이션 서비스](https://msdn.microsoft.com/en-us/library/bb897402.aspx) 2.0+(ADFS)가 구성된 [IFD(인터넷 대면 배포](https://www.microsoft.com/en-us/download/confirmation.aspx?id=41701))가 있어야 합니다. 참고:링크를 클릭하면 IFD 문서가 자동으로 다운로드됩니다.
 >
->[시작하기 전에 Marketing To 리드 관리 ](../../../../../product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/download-the-marketo-lead-management-solution.md) 솔루션을 다운로드하십시오.
+>[시작하기 전에 Marketing To 리드 관리 ](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/download-the-marketo-lead-management-solution.md) 솔루션을 다운로드하십시오.
 
 >[!NOTE]
 >
@@ -45,7 +43,7 @@ Microsoft Dynamics 2015 온-프레미스 또는 2016(Dynamics 365)을 Marketing 
 
    ![](assets/image2015-3-19-8-34-8.png)
 
-1. **찾아보기**&#x200B;를 클릭하고 [다운로드한](../../../../../product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/download-the-marketo-lead-management-solution.md) 솔루션을 선택합니다. **다음**&#x200B;을 클릭합니다.
+1. **찾아보기**&#x200B;를 클릭하고 [다운로드한](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/download-the-marketo-lead-management-solution.md) 솔루션을 선택합니다. **다음**&#x200B;을 클릭합니다.
 
    ![](assets/image2015-3-19-9-20-56.png)
 
@@ -95,9 +93,6 @@ Microsoft Dynamics 2015 온-프레미스 또는 2016(Dynamics 365)을 Marketing 
    >
    >Marketing SDK 메시징 프로세스를 비활성화하면 설치가 중단됩니다!
 
-   >[!NOTE]
+   >[!MORELIKETHIS]
    >
-   >**관련 문서**
-   >
-   >
-   >[Dynamics 2015 On-Prem 및 2016 365 On-Prem 2단계/3을 위한 Marketing 설치](step-2-of-3-set-up.md)
+   >[Dynamics 2015 On-Prem 및 2016 365 On-Prem 2단계/3을 위한 Marketing 설치](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/microsoft-dynamics-2015-on-premises-2016-dynamics-365-on-premises/step-2-of-3-set-up.md)
