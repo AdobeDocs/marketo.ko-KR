@@ -3,9 +3,9 @@ unique-page-id: 3571822
 description: 3단계 중 1단계 - 마케팅 솔루션 설치(온라인) - 마케팅 문서 - 제품 설명서
 title: 3단계 중 1단계 - 마케팅 솔루션 설치(온라인)
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 2b5ccd7220557a5e966d33436d0f0d2a65e4589d
 workflow-type: tm+mt
-source-wordcount: '263'
+source-wordcount: '289'
 ht-degree: 0%
 
 ---
@@ -17,11 +17,8 @@ Microsoft Dynamics 365 및 Marketing To를 동기화하려면 먼저 Dynamics에
 
 >[!CAUTION]
 >
->* `Do not enable custom entity sync before the initial sync is completed. You will be notified via email once the initial sync is completed.`
->* Dynamics Sync에 대해 MFA(Multi-Factor Authentication)가 활성화된 경우 Dynamics에서 Marketing To와 제대로 동기화하려면 MFA 인증을 비활성화해야 합니다. 자세한 내용은 [Marketing Support](http://nation.marketo.com/community/support_solutions)에 문의하십시오.
-
->
-
+>* 초기 동기화가 완료되기 전에 사용자 지정 엔티티 동기화를 활성화하지 마십시오. 초기 동기화가 완료되면 이메일을 통해 알림을 받게 됩니다.
+>* Dynamics Sync에 대해 MFA(Multi-Factor Authentication)가 활성화된 경우 Dynamics에서 Marketing To와 제대로 동기화하려면 MFA 인증을 비활성화해야 합니다. 자세한 내용은 [Marketing Support](https://nation.marketo.com/t5/Support/ct-p/Support)에 문의하십시오.
 
 
 >[!NOTE]
@@ -30,27 +27,25 @@ Microsoft Dynamics 365 및 Marketing To를 동기화하려면 먼저 Dynamics에
 
 >[!PREREQUISITES]
 >
->[마케팅 리드 관리 솔루션 다운로드](../../../../../product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/download-the-marketo-lead-management-solution.md)
+>[마케팅 리드 관리 솔루션 다운로드](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/download-the-marketo-lead-management-solution.md)
 
-1. ** [Microsoft Office 365](https://login.microsoftonline.com/) **에 로그인합니다.
+1. **[Microsoft Office 365](https://login.microsoftonline.com/)**&#x200B;에 로그인합니다.
 
    ![](assets/image2015-3-16-15-3a58-3a55.png)
 
-1. ![](assets/image2015-3-16-16-3a1-3a13.png)메뉴를 클릭하고 **CRM**&#x200B;을 선택합니다.
+1. ![](assets/image2015-3-16-16-3a1-3a13.png) 메뉴를 클릭하고 **CRM**&#x200B;을 선택합니다.
 
    ![](assets/image2015-3-16-16-3a0-3a10.png)
 
-1. ![](assets/image2015-5-13-10-3a5-3a8.png) 메뉴를 클릭합니다. 드롭다운 메뉴에서 **설정 **을 선택한 다음 **솔루션**&#x200B;을 선택합니다.
+1. ![](assets/image2015-5-13-10-3a5-3a8.png) 메뉴를 클릭합니다. 드롭다운 메뉴에서 **설정**&#x200B;을 선택하고 **솔루션**&#x200B;을 선택합니다.
 
    ![](assets/image2015-5-13-10-3a4-3a1.png)
 
 1. **가져오기를 클릭합니다.**
 
-   ** ![](assets/image2015-3-19-8-3a34-3a8.png)
+   ![](assets/image2015-3-19-8-3a34-3a8.png)
 
-   **
-
-1. **파일 선택을 클릭합니다.** 다운로드한 Marketing To 리드 관리 솔루션을  [선택합니다](../../../../../product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/download-the-marketo-lead-management-solution.md). **다음**&#x200B;을 클릭합니다.
+1. **파일 선택을 클릭합니다.** 다운로드한 Marketing To 리드 관리 솔루션을  [선택합니다](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/download-the-marketo-lead-management-solution.md). **다음**&#x200B;을 클릭합니다.
 
    ![](assets/image2015-10-9-14-3a44-3a14.png)
 
@@ -98,4 +93,4 @@ Microsoft Dynamics 365 및 Marketing To를 동기화하려면 먼저 Dynamics에
 
    >[!MORELIKETHIS]
    >
-   >[3단계 중 2단계:Dynamics에서 Marketing To Sync 사용자 설정](step-2-of-3-set-up.md)
+   >[3단계 중 2단계:Dynamics에서 Marketing To Sync 사용자 설정](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/microsoft-dynamics-365/step-2-of-3-set-up.md)
