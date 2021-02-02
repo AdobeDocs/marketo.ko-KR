@@ -3,7 +3,7 @@ unique-page-id: 4719302
 description: 영어 이외의 사용자 정의 개체 동기화 활성화 - Marketing To Docs - 제품 설명서
 title: 영어 이외의 사용자 정의 개체 동기화 사용
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: 2b5ccd7220557a5e966d33436d0f0d2a65e4589d
 workflow-type: tm+mt
 source-wordcount: '157'
 ht-degree: 0%
@@ -61,7 +61,4 @@ Marketing to 동기화 사용자가 영어 이외의 언어로 설정된 경우 
 
 >[!NOTE]
 >
->**미리 알림**
->
 >마지막으로 한 번 스키마 새로 고침으로 개체를 다시 언어로 가져오는 것을 잊지 마십시오.
-
