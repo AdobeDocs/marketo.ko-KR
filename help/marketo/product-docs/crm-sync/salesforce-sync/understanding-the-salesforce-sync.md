@@ -3,9 +3,9 @@ unique-page-id: 4719283
 description: Salesforce 동기화 이해 - Marketing To Docs - 제품 설명서
 title: Salesforce 동기화 이해
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 2b5ccd7220557a5e966d33436d0f0d2a65e4589d
 workflow-type: tm+mt
-source-wordcount: '263'
+source-wordcount: '219'
 ht-degree: 0%
 
 ---
@@ -29,28 +29,17 @@ Salesforce와 Marketing의 동기화는 리드, 연락처 및 Salesforce 캠페�
 
 ## Marketing To와 Salesforce 간에 동기화되는 항목{#what-is-synced-between-marketo-and-salesforce}
 
-* [리드](sfdc-sync-details/sfdc-sync-lead-sync.md)
-* [연락처](sfdc-sync-details/sfdc-sync-contact-sync.md)
-* [계정](sfdc-sync-details/sfdc-sync-account-sync.md)
-* [사용자](sfdc-sync-details/sfdc-sync-lead-account-owner-sync.md)
-* [기회](sfdc-sync-details/sfdc-sync-opportunity-sync.md)
-* [Salesforce 캠페인](sfdc-sync-details/sfdc-sync-campaign-sync.md)
-* [사용자 정의 객체](sfdc-sync-details/sfdc-sync-custom-object-sync.md)
-* [활동](sfdc-sync-details/sfdc-sync-activity-sync.md)
+* [리드](/help/marketo/product-docs/crm-sync/salesforce-sync/sfdc-sync-details/sfdc-sync-lead-sync.md)
+* [연락처](/help/marketo/product-docs/crm-sync/salesforce-sync/sfdc-sync-details/sfdc-sync-contact-sync.md)
+* [계정](/help/marketo/product-docs/crm-sync/salesforce-sync/sfdc-sync-details/sfdc-sync-account-sync.md)
+* [사용자](/help/marketo/product-docs/crm-sync/salesforce-sync/sfdc-sync-details/sfdc-sync-lead-account-owner-sync.md)
+* [기회](/help/marketo/product-docs/crm-sync/salesforce-sync/sfdc-sync-details/sfdc-sync-opportunity-sync.md)
+* [Salesforce 캠페인](/help/marketo/product-docs/crm-sync/salesforce-sync/sfdc-sync-details/sfdc-sync-campaign-sync.md)
+* [사용자 정의 객체](/help/marketo/product-docs/crm-sync/salesforce-sync/sfdc-sync-details/sfdc-sync-custom-object-sync.md)
+* [활동](/help/marketo/product-docs/crm-sync/salesforce-sync/sfdc-sync-details/sfdc-sync-activity-sync.md)
 
 >[!NOTE]
 >
->Salesforce용 Marketing에 입력한 [자격 증명은 데이터를 동기화하는 데 사용됩니다. ](setup/enterprise-unlimited-edition/step-2-of-3-create-a-salesforce-user-for-marketo-enterprise-unlimited.md) 자격 증명이 액세스할 수 있는 데이터만 포함됩니다.
+>Salesforce용 Marketing에 입력한 [자격 증명은 데이터를 동기화하는 데 사용됩니다. ](/help/marketo/product-docs/crm-sync/salesforce-sync/setup/enterprise-unlimited-edition/step-2-of-3-create-a-salesforce-user-for-marketo-enterprise-unlimited.md) 자격 증명이 액세스할 수 있는 데이터만 포함됩니다.
 
-Salesforce 동기화에 대한 많은 미묘한 차이와 기능이 있습니다. [SFDC 동기화 세부 사항 섹션](http://docs.marketo.com/display/docs/sfdc+sync+details)에 있는 세부 사항을 확인하십시오.
-
->[!MORELIKETHIS]
->
->* [Salesforce 동기화 설정](http://docs.marketo.com/display/docs/setup)
->* [SFDC 동기화 세부 사항](http://docs.marketo.com/display/docs/sfdc+sync+details)
-
->
-
-
-
-Salesforce와 연계되는 Marketing Cloud는 세계 최고의 솔루션으로 마치 마법처럼 느껴질 수 있습니다. 변화는 이루어졌고 다른 시스템은 곧 최신입니다.
+Salesforce와 연계되는 Marketing Cloud는 세계 최고의 솔루션으로 마법처럼 느껴져요변경 사항이 적용되었으며 다른 시스템은 곧 최신 상태입니다.
