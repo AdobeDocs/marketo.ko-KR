@@ -3,9 +3,9 @@ unique-page-id: 3571836
 description: Microsoft Dynamics 동기화 - 계정 동기화 - Marketing To Docs - 제품 설명서
 title: Microsoft Dynamics 동기화 - 계정 동기화
 translation-type: tm+mt
-source-git-commit: 96cc6a30c63c8e8dca793a52e4bf7ecaef8c08dc
+source-git-commit: 2b5ccd7220557a5e966d33436d0f0d2a65e4589d
 workflow-type: tm+mt
-source-wordcount: '227'
+source-wordcount: '217'
 ht-degree: 0%
 
 ---
@@ -29,7 +29,7 @@ Marketing에서 연락처에 대한 계정 필드를 업데이트하면 Marketin
 
 ## 어떤 필드가 Marketing To와 동기화됩니까?{#which-fields-will-sync-to-marketo}
 
-설정 중에 [필드를 선택하여](https://docs.marketo.com/pages/viewpage.action?pageId=3571830#Step3of3:ConnectMicrosoftDynamicswithMarketo(Online)-SelectFieldstoSync)을 동기화할 수 있습니다. 그러나 Marketing Cloud는 Dynamics 동기화 사용자가 액세스할 수 있는 필드만 동기화합니다.
+설정 중에 [필드를 선택하여](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/microsoft-dynamics-365/step-3-of-3-connect.md#select-fields-to-sync)을 동기화할 수 있습니다. 그러나 Marketing Cloud는 Dynamics 동기화 사용자가 액세스할 수 있는 필드만 동기화합니다.
 
 ## Dynamics의 계정 필드를 변경하면 각 연락처에 대한 데이터 값 활동 로그 변경 결과가 발생합니까? {#does-a-change-in-an-account-field-in-dynamics-results-in-a-change-data-value-activity-log-for-each-contact}
 
