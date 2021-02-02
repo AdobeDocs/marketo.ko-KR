@@ -3,9 +3,9 @@ unique-page-id: 3571819
 description: 3단계 중 3단계 - Connect Marketing & Dynamics(2013년 온프레미스) - Marketing Docs - 제품 설명서
 title: 3단계 중 3단계 - Connect Marketing 및 Dynamics(2013 온프레미스)
 translation-type: tm+mt
-source-git-commit: d7d6aee63144c472e02fe0221c4a164183d04dd4
+source-git-commit: 2b5ccd7220557a5e966d33436d0f0d2a65e4589d
 workflow-type: tm+mt
-source-wordcount: '379'
+source-wordcount: '367'
 ht-degree: 0%
 
 ---
@@ -17,11 +17,8 @@ ht-degree: 0%
 
 >[!PREREQUISITES]
 >
->* [3단계 중 1단계:Dynamics에서 Marketing To 솔루션 설치(2013 온프레미스)](step-1-of-3-install.md)
->* [3단계 중 2단계:Marketing용 동기화 사용자 구성(2013 온-프레미스)](step-2-of-3-configure.md)
-
->
-
+>* [3단계 중 1단계:Dynamics에서 Marketing To 솔루션 설치(2013 온프레미스)](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/microsoft-dynamics-2013-on-premises/step-1-of-3-install.md)
+>* [3단계 중 2단계:Marketing용 동기화 사용자 구성(2013 온-프레미스)](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/microsoft-dynamics-2013-on-premises/step-2-of-3-configure.md)
 
 
 >[!NOTE]
@@ -50,23 +47,23 @@ ht-degree: 0%
    >
    >제출 후 스키마 변경 내용을 되돌릴 수 없으므로 자격 증명이 올바른지 확인하십시오. 잘못된 자격 증명이 저장되면 새 Marketing To 구독을 구해야 합니다.
 
-1. **사용자 이름**, **암호** 및 Microsoft Dynamics **URL**&#x200B;을 입력한 다음 **SAVE**&#x200B;을 클릭합니다.
+1. **사용자 이름**, **암호** 및 Microsoft Dynamics **URL**&#x200B;을 입력한 다음 **저장**&#x200B;을 클릭합니다.
 
    ![](assets/image2015-3-26-11-3a47-3a59.png)
 
    >[!NOTE]
    >
-   >Marketing의 사용자 이름은 CRM의 동기화 사용자의 사용자 이름과 일치해야 합니다. 형식은 [`[email protected]`](http://docs.marketo.com/cdn-cgi/l/email-protection#631610061123070c0e020a0d4d000c0e) 또는 DOMAIN\user일 수 있습니다.
+   >Marketing의 사용자 이름은 CRM의 동기화 사용자의 사용자 이름과 일치해야 합니다. 형식은 user@domain.com 또는 DOMAIN\user일 수 있습니다.
 
    >[!TIP]
    >
-   >URL을 모르십니까? 여기에서 [Dynamics 조직 서비스 URL](../../../../../product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/view-the-organization-service-url.md)을 찾는 방법을 보여 드리겠습니다.
+   >URL을 모르십니까? 여기에서 [Dynamics 조직 서비스 URL](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/view-the-organization-service-url.md)을 찾는 방법을 보여 드리겠습니다.
 
 ## 동기화할 필드 선택 {#select-fields-to-sync}
 
 이제 동기화할 필드를 선택해야 합니다.
 
-1. **EDIT **를 클릭합니다. **단계 2:동기화할 필드**&#x200B;를 선택합니다.
+1. **2단계에서**&#x200B;편집&#x200B;**을 클릭합니다.동기화할 필드**&#x200B;를 선택합니다.
 
    ![](assets/image2015-3-16-9-3a51-3a28.png)
 
@@ -92,7 +89,7 @@ ht-degree: 0%
 
 ## {#enable-sync} 동기화 사용
 
-1. **EDIT **를 클릭합니다. **단계 3:동기화**&#x200B;를 활성화합니다.
+1. **단계 3:동기화**&#x200B;을(를) 활성화합니다.****
 
    ![](assets/image2015-3-16-9-3a52-3a2.png)
 
@@ -110,13 +107,6 @@ ht-degree: 0%
 
 탁월한 작업! Marketing To와 Microsoft Dynamics 간의 양방향 동기화 기능을 활용하여 Marketing To Sales Insight를 구매했다면 다음과 같은 이점을 얻을 수 있습니다.
 
->[!NOTE]
+>[!MORELIKETHIS]
 >
->**관련 문서**
->
->* [Microsoft Dynamics 2013에서 Marketing To Sales Insight 설치 및 구성](../../../../../product-docs/marketo-sales-insight/msi-for-microsoft-dynamics/installing/install-and-configure-marketo-sales-insight-in-microsoft-dynamics-2013.md)
-
->
-
-
-
+>[Microsoft Dynamics 2013에서 Marketing To Sales Insight 설치 및 구성](/help/marketo/product-docs/marketo-sales-insight/msi-for-microsoft-dynamics/installing/install-and-configure-marketo-sales-insight-in-microsoft-dynamics-2013.md)
