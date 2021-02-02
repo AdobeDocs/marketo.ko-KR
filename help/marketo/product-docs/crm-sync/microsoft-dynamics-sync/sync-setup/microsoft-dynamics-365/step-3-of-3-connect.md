@@ -3,9 +3,9 @@ unique-page-id: 3571830
 description: 3단계 중 3단계 - Microsoft Dynamics와 Marketing(온라인) - Marketing To Docs - 제품 설명서
 title: 3단계 중 3단계 - Microsoft Dynamics와 Marketing(온라인) 연결
 translation-type: tm+mt
-source-git-commit: d7d6aee63144c472e02fe0221c4a164183d04dd4
+source-git-commit: 2b5ccd7220557a5e966d33436d0f0d2a65e4589d
 workflow-type: tm+mt
-source-wordcount: '317'
+source-wordcount: '304'
 ht-degree: 0%
 
 ---
@@ -17,13 +17,10 @@ ht-degree: 0%
 
 >[!PREREQUISITES]
 >
->* [3단계 중 1단계:Marketing To 솔루션(온라인) 설치](step-1-of-3-install.md)
+>* [3단계 중 1단계:Marketing To 솔루션(온라인) 설치](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/microsoft-dynamics-365/step-1-of-3-install.md)
    >
    >
-* [3단계 중 2단계:Dynamics에서 Marketing To Sync 사용자 설정](step-2-of-3-set-up.md)
-
->
-
+* [3단계 중 2단계:Dynamics에서 Marketing To Sync 사용자 설정](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/microsoft-dynamics-365/step-2-of-3-set-up.md)
 
 
 >[!NOTE]
@@ -58,7 +55,7 @@ ht-degree: 0%
 
    >[!NOTE]
    >
-   >Marketing의 사용자 이름은 CRM의 동기화 사용자의 사용자 이름과 일치해야 합니다. 형식은 [`[email protected]`](http://docs.marketo.com/cdn-cgi/l/email-protection#bcc9cfd9cefcd8d3d1ddd5d292dfd3d1) 또는 DOMAIN\user일 수 있습니다.
+   >Marketing의 사용자 이름은 CRM의 동기화 사용자의 사용자 이름과 일치해야 합니다. 형식은 user@domain.com 또는 DOMAIN\user일 수 있습니다.
 
 ## 동기화할 필드 선택 {#select-fields-to-sync}
 
