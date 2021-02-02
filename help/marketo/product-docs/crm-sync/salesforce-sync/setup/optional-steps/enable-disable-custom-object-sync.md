@@ -3,7 +3,7 @@ unique-page-id: 4719297
 description: 사용자 지정 개체 동기화 활성화/비활성화 - Marketing To Docs - 제품 설명서
 title: 사용자 정의 개체 동기화 활성화/비활성화
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 2b5ccd7220557a5e966d33436d0f0d2a65e4589d
 workflow-type: tm+mt
 source-wordcount: '218'
 ht-degree: 0%
@@ -23,11 +23,9 @@ Salesforce 인스턴스에서 만든 사용자 정의 개체는 Marketing To의 
 
 1. **관리**&#x200B;를 클릭합니다.
 
-   ** ![](assets/one.png)
+   ![](assets/one.png)
 
-   **
-
-1. 데이터베이스 관리 메뉴에서 **Salesforce** **개체 동기화**&#x200B;를 클릭합니다.
+1. 데이터베이스 관리 메뉴에서 **Salesforce 개체 동기화**&#x200B;를 클릭합니다.
 
    ![](assets/two-2.png)
 
@@ -57,9 +55,7 @@ Salesforce 인스턴스에서 만든 사용자 정의 개체는 Marketing To의 
 
 1. **동기화 사용**&#x200B;을 다시 클릭합니다.
 
-   ** ![](assets/image2014-12-10-10-3a15-3a40.png)
-
-   **
+   ![](assets/image2014-12-10-10-3a15-3a40.png)
 
 1. **Salesforce** 탭으로 돌아가서 **동기화 사용**&#x200B;을 클릭합니다.
 
@@ -71,7 +67,7 @@ Salesforce 인스턴스에서 만든 사용자 정의 개체는 Marketing To의 
 >
 >트리거가 있는 스마트 캠페인에서는 사용자 지정 개체를 사용할 수 없습니다.
 
-1. 스마트 목록에서 **Has Opportunity**&#x200B;필터 위로 드래그하고 **true**&#x200B;로 설정합니다.
+1. 스마트 목록에서 **Has Opportunity** 필터 위로 드래그하고 **true**&#x200B;로 설정합니다.
 
    ![](assets/image2015-8-26-9-3a39-3a28.png)
 
@@ -83,9 +79,4 @@ Salesforce 인스턴스에서 만든 사용자 정의 개체는 Marketing To의 
 
 >[!MORELIKETHIS]
 >
->* [사용자 지정 개체 필드를 스마트 목록/트리거 제약 조건으로 추가/제거](add-remove-custom-object-field-as-smart-list-trigger-constraints.md)
-
->
-
-
-
+>[사용자 지정 개체 필드를 스마트 목록/트리거 제약 조건으로 추가/제거](/help/marketo/product-docs/crm-sync/salesforce-sync/setup/optional-steps/add-remove-custom-object-field-as-smart-list-trigger-constraints.md)
