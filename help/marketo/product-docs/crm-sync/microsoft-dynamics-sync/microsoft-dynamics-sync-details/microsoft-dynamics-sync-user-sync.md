@@ -3,9 +3,9 @@ unique-page-id: 3571840
 description: Microsoft Dynamics 동기화 - 사용자 동기화 - Marketing To Docs - 제품 설명서
 title: Microsoft Dynamics 동기화 - 사용자 동기화
 translation-type: tm+mt
-source-git-commit: 96cc6a30c63c8e8dca793a52e4bf7ecaef8c08dc
+source-git-commit: 2b5ccd7220557a5e966d33436d0f0d2a65e4589d
 workflow-type: tm+mt
-source-wordcount: '164'
+source-wordcount: '154'
 ht-degree: 0%
 
 ---
@@ -27,4 +27,4 @@ Marketing에서 전체 데이터베이스를 Dynamics와 동기화한다는 사�
 
 ## 어떤 필드가 Marketing To와 동기화됩니까?{#which-fields-will-sync-to-marketo}
 
-설정 중에 [필드를 선택하여](https://docs.marketo.com/pages/viewpage.action?pageId=3571830#Step3of3:ConnectMicrosoftDynamicswithMarketo(Online)-SelectFieldstoSync)을 동기화할 수 있습니다. 그러나 Marketing Cloud는 Dynamics 동기화 사용자가 액세스할 수 있는 필드만 동기화합니다.
+설정 중에 [필드를 선택하여](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/microsoft-dynamics-365/step-3-of-3-connect.md#select-fields-to-sync)을 동기화할 수 있습니다. 그러나 Marketing Cloud는 Dynamics 동기화 사용자가 액세스할 수 있는 필드만 동기화합니다.
