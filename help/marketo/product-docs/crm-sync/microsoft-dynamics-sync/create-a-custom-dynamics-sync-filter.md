@@ -3,9 +3,9 @@ unique-page-id: 9437903
 description: 사용자 지정 Dynamics 동기화 필터 만들기 - Marketing To Docs - 제품 설명서
 title: 사용자 지정 Dynamics 동기화 필터 만들기
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 2b5ccd7220557a5e966d33436d0f0d2a65e4589d
 workflow-type: tm+mt
-source-wordcount: '789'
+source-wordcount: '785'
 ht-degree: 0%
 
 ---
@@ -57,7 +57,7 @@ Marketing To는 자동 백그라운드 동기화 중에 이 필드를 찾고 이
 
    ![](assets/image2015-8-10-21-3a43-3a39.png)
 
-1. **Lead ** 옆에 있는 ![](assets/image2015-8-10-21-3a44-3a23.png)을 클릭하고 **필드**&#x200B;를 선택합니다. 그런 다음 **새로 만들기**&#x200B;를 클릭합니다.
+1. **리드** 옆의 ![](assets/image2015-8-10-21-3a44-3a23.png)을 클릭하고 **필드**&#x200B;를 선택합니다. 그런 다음 **새로 만들기**&#x200B;를 클릭합니다.
 
    ![](assets/image2015-8-10-21-3a49-3a49.png)
 
@@ -67,7 +67,7 @@ Marketing To는 자동 백그라운드 동기화 중에 이 필드를 찾고 이
 
    >[!NOTE]
    >
-   >이 필드의 표시 이름을 선택하십시오. 그러나 이름 필드는 정확히 **new_synctomkto**&#x200B;이어야 합니다. 기본 접두사로 **new**&#x200B;을(를) 사용해야 합니다. 기본값을 변경한 경우 여기에서 [사용자 정의 필드 이름](create-a-custom-dynamics-sync-filter/set-a-default-custom-field-prefix.md)의 기본 접두어를 재설정합니다. 새 필드를 만든 후 다시 변경할 수 있습니다.
+   >이 필드의 표시 이름을 선택하십시오. 그러나 이름 필드는 정확히 **new_synctomkto**&#x200B;이어야 합니다. 기본 접두사로 **new**&#x200B;을(를) 사용해야 합니다. 기본값을 변경한 경우 여기에서 [사용자 정의 필드 이름](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/create-a-custom-dynamics-sync-filter/set-a-default-custom-field-prefix.md)의 기본 접두어를 재설정합니다. 새 필드를 만든 후 다시 변경할 수 있습니다.
 
    >[!NOTE]
    >
@@ -129,7 +129,7 @@ Marketing To는 자동 백그라운드 동기화 중에 이 필드를 찾고 이
 
    >[!TIP]
    >
-   >이메일 주소가 있는 사람의 레코드만 동기화하도록 규칙을 설정하려면 [이메일 주소](create-a-custom-dynamics-sync-filter/custom-sync-filter-rules-for-an-email-address.md)에 대한 사용자 지정 동기화 필터 규칙을 참조하십시오.
+   >이메일 주소가 있는 사람의 레코드만 동기화하도록 규칙을 설정하려면 [이메일 주소](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/create-a-custom-dynamics-sync-filter/custom-sync-filter-rules-for-an-email-address.md)에 대한 사용자 지정 동기화 필터 규칙을 참조하십시오.
 
 ## 동기화 필터 세부 정보 {#sync-filter-details}
 
@@ -141,21 +141,15 @@ Marketing To는 자동 백그라운드 동기화 중에 이 필드를 찾고 이
 
    >[!TIP]
    >
-   >이 경우 **Create [StartSync]** 작업이 Marketing to 로그에 추가됩니다.
+   >이 경우 `Create [StartSync]` 작업이 마케팅 로그에 추가됩니다.
 
 1. 동기화 작업 중지
 
    레코드가 SyncToMkto 값을 Yes에서 No로 변경하면 Marketing에게 이 레코드 동기화를 중지하라는 알림을 받습니다. 하지만 레코드는 삭제되지 않고 대신 업데이트 받기를 중단하고 오래된 상태가 됩니다.
 
->[!NOTE]
+>[!MORELIKETHIS]
 >
->**관련 문서**
->
->* [Microsoft Dynamics 동기화 필터:자격 조건](create-a-custom-dynamics-sync-filter/microsoft-dynamics-sync-filter-qualify.md)
->* [Microsoft Dynamics 동기화 필터:병합](create-a-custom-dynamics-sync-filter/microsoft-dynamics-sync-filter-merge.md)
->* [이메일 주소에 대한 사용자 지정 동기화 필터 규칙](create-a-custom-dynamics-sync-filter/custom-sync-filter-rules-for-an-email-address.md)
-
->
-
-
+>* [Microsoft Dynamics 동기화 필터:자격 조건](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/create-a-custom-dynamics-sync-filter/microsoft-dynamics-sync-filter-qualify.md)
+>* [Microsoft Dynamics 동기화 필터:병합](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/create-a-custom-dynamics-sync-filter/microsoft-dynamics-sync-filter-merge.md)
+>* [이메일 주소에 대한 사용자 지정 동기화 필터 규칙](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/create-a-custom-dynamics-sync-filter/custom-sync-filter-rules-for-an-email-address.md)
 
