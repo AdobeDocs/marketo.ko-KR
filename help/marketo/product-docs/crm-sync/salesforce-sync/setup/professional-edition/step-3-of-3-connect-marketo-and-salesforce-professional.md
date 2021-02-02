@@ -3,9 +3,9 @@ unique-page-id: 3571800
 description: 3단계 중 3단계 - Connect Marketing & Salesforce(Professional) - Marketing Docs - 제품 설명서
 title: 3단계 중 3단계 - Connect Marketing 및 Salesforce(Professional)
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 2b5ccd7220557a5e966d33436d0f0d2a65e4589d
 workflow-type: tm+mt
-source-wordcount: '406'
+source-wordcount: '382'
 ht-degree: 0%
 
 ---
@@ -17,11 +17,8 @@ ht-degree: 0%
 
 >[!PREREQUISITES]
 >
->* [3단계 중 1단계:Salesforce에 마케팅 필드 추가(Professional)](step-1-of-3-add-marketo-fields-to-salesforce-professional.md)
->* [3단계 중 2단계:Marketing용 Salesforce 사용자 만들기(Professional)](step-2-of-3-create-a-salesforce-user-for-marketo-professional.md)
-
->
-
+>* [3단계 중 1단계:Salesforce에 마케팅 필드 추가(Professional)](/help/marketo/product-docs/crm-sync/salesforce-sync/setup/professional-edition/step-1-of-3-add-marketo-fields-to-salesforce-professional.md)
+>* [3단계 중 2단계:Marketing용 Salesforce 사용자 만들기(Professional)](/help/marketo/product-docs/crm-sync/salesforce-sync/setup/professional-edition/step-2-of-3-create-a-salesforce-user-for-marketo-professional.md)
 
 
 ## 동기화 사용자 보안 토큰 검색 {#retrieve-sync-user-security-token}
@@ -46,18 +43,15 @@ ht-degree: 0%
 
 ## 사용자 자격 증명 동기화 설정 {#set-sync-user-credentials}
 
-1. Marketing에서 **관리**&#x200B;로 이동하여 **CRM**&#x200B;을 선택하고 **Salesforce.com](http://Salesforce.com)**&#x200B;과 동기화를 클릭합니다.[
+1. Marketing에서 **관리**&#x200B;로 이동하고 **CRM**&#x200B;을 선택하고 **Salesforce.com](https://Salesforce.com)**&#x200B;과 동기화를 클릭합니다.[
 
    ![](assets/image2014-12-9-9-3a52-3a58.png)
 
    >[!NOTE]
    >
-   >**미리 알림**
-   >
-   >
-   >**필드 동기화**&#x200B;를 클릭하기 전에 Marketing에서 ](../../../../../product-docs/crm-sync/salesforce-sync/sfdc-sync-details/sfdc-sync-field-sync/hide-a-salesforce-field-from-the-marketo-sync.md)이(가) 필요하지 않은 모든 필드를 동기화 사용자로부터 숨겨야 합니다. [ [필드 동기화]를 클릭하면 사용자가 볼 수 있는 모든 필드가 Marketing Cloud에서 영구적으로 만들어지며 삭제할 수 없습니다.
+   >**필드 동기화**&#x200B;를 클릭하기 전에 Marketing에서 ](/help/marketo/product-docs/crm-sync/salesforce-sync/sfdc-sync-details/sfdc-sync-field-sync/hide-a-salesforce-field-from-the-marketo-sync.md)이(가) 필요하지 않은 모든 필드를 동기화 사용자로부터 숨겨야 합니다. [ [필드 동기화]를 클릭하면 사용자가 볼 수 있는 모든 필드가 Marketing Cloud에서 영구적으로 만들어지며 삭제할 수 없습니다.
 
-1. Salesforce 구성([Professional](https://community.marketo.com/MarketoArticle?id=kA050000000LJ3QCAW), [Enterprise](https://community.marketo.com/MarketoArticle?id=kA050000000LIwKCAW))의 2부에서 만든 Salesforce 동기화 사용자 자격 증명을 입력하고 **필드 동기화**&#x200B;를 클릭합니다.
+1. Salesforce 구성 중 2번째 부분에서 만든 Salesforce 동기화 사용자 자격 증명을 입력하고([Professional](/help/marketo/product-docs/crm-sync/salesforce-sync/setup/professional-edition/step-2-of-3-create-a-salesforce-user-for-marketo-professional.md), [Enterprise](/help/marketo/product-docs/crm-sync/salesforce-sync/setup/enterprise-unlimited-edition/step-2-of-3-create-a-salesforce-user-for-marketo-enterprise-unlimited.md)필드 동기화&#x200B;**를 클릭합니다.**
 
    ![](assets/image2014-12-9-9-3a53-3a8.png)
 
@@ -71,7 +65,7 @@ ht-degree: 0%
 
    >[!CAUTION]
    >
-   >[매핑을 검토하고 ](../../../../../product-docs/crm-sync/salesforce-sync/setup/optional-steps/edit-initial-field-mappings.md)을(를) 사용자 지정하려면, 이 방법만 사용하십시오! Salesforce 동기화 시작을 클릭하면 완료됩니다.
+   >[매핑을 검토하고 ](/help/marketo/product-docs/crm-sync/salesforce-sync/setup/optional-steps/edit-initial-field-mappings.md)을(를) 사용자 지정하려면, 이 방법만 사용하십시오! Salesforce 동기화 시작을 클릭하면 완료됩니다.
 
 ## Salesforce 동기화 시작 {#start-salesforce-sync}
 
@@ -109,15 +103,8 @@ Marketing은 관리 영역에서 Salesforce 동기화에 대한 상태 메시지
 
 Marketing To의 가장 강력한 기능 중 하나를 구성하셨다면 지금 바로 경험해 보십시오!
 
->[!NOTE]
+>[!MORELIKETHIS]
 >
->**관련 문서**
->
->* [Salesforce AppExchange에 Marketing To Sales Insight 패키지 설치](../../../../../product-docs/marketo-sales-insight/msi-for-salesforce/installation/install-marketo-sales-insight-package-in-salesforce-appexchange.md)
->* [Salesforce Professional Edition에서 Marketing To Sales Insight 구성](../../../../../product-docs/marketo-sales-insight/msi-for-salesforce/configuration/configure-marketo-sales-insight-in-salesforce-professional-edition.md)
->* [선택적 단계](http://docs.marketo.com/display/docs/optional+steps)
-
->
-
-
+>* [Salesforce AppExchange에 Marketing To Sales Insight 패키지 설치](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/installation/install-marketo-sales-insight-package-in-salesforce-appexchange.md)
+>* [Salesforce Professional Edition에서 Marketing To Sales Insight 구성](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/configuration/configure-marketo-sales-insight-in-salesforce-professional-edition.md)
 
