@@ -3,9 +3,9 @@ unique-page-id: 4719294
 description: 활동 동기화 사용자 지정 - Marketing To Docs - 제품 설명서
 title: 활동 동기화 사용자 지정
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: 2b5ccd7220557a5e966d33436d0f0d2a65e4589d
 workflow-type: tm+mt
-source-wordcount: '279'
+source-wordcount: '272'
 ht-degree: 0%
 
 ---
@@ -13,9 +13,9 @@ ht-degree: 0%
 
 # 활동 동기화 사용자 지정 {#customize-activities-sync}
 
-[Sales Insight](http://docs.marketo.com/display/DOCS/Marketo+Sales+Insight)를 사용하지 않는 경우 Marketing에서 특정 이벤트에 대한 Salesforce 활동 내역 레코드를 만들 수 있습니다. 이를 구현하는 방법을 설명합니다.
+Marketing to Sales Insight를 사용하지 않는 경우 Marketing에서 특정 이벤트에 대한 Salesforce 활동 내역 레코드를 만들 수 있습니다. 이를 구현하는 방법을 설명합니다.
 
-1. **Admin으로 이동합니다. **
+1. **관리**&#x200B;로 이동합니다.
 
    ![](assets/admin.png)
 
@@ -29,7 +29,7 @@ ht-degree: 0%
 
    >[!NOTE]
    >
-   >활성화되면 Marketing To는 3개월 분량의 활동 내역을 보냅니다. 데이터의 양에 따라 *이(가) 완료하는 데 몇 일 정도 걸릴 수 있습니다*. 초기 활동 푸시 중에 발생하는 업데이트는 초기 활동 동기화가 완료될 때까지 지연될 수 있습니다.
+   >활성화되면 Marketing To는 3개월 분량의 활동 내역을 보냅니다. 데이터의 양에 따라 _이(가) 완료하는 데 몇 일 정도 걸릴 수 있습니다_. 초기 활동 푸시 중에 발생하는 업데이트는 초기 활동 동기화가 완료될 때까지 지연될 수 있습니다.
 
 <table> 
  <colgroup> 
@@ -96,12 +96,8 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->**미리 알림**
->
->
 >&quot;받은 영업 이메일&quot;은 **배달되지 않음**&#x200B;을 의미합니다. Sales Insight를 통해 전송된 이메일에 대해 배달된 상태가 캡처되지 않습니다.
 
 >[!TIP]
 >
->Salesforce에 더 많은 마케팅 정보를 가져오려는 경우 [Marketing To Sales Insight](../../../../../product-docs/marketo-sales-insight/msi-for-salesforce/installation/install-marketo-sales-insight-package-in-salesforce-appexchange.md) 제품을 확인하십시오.
-
+>Salesforce에 더 많은 마케팅 정보를 가져오려는 경우 [Marketing To Sales Insight](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/installation/install-marketo-sales-insight-package-in-salesforce-appexchange.md) 제품을 확인하십시오.
