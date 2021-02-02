@@ -3,9 +3,9 @@ unique-page-id: 3571816
 description: 3단계 중 2단계 - Marketing용 동기화 사용자 구성(2013년 온프레미스) - Marketing Docs - 제품 설명서
 title: 3단계 중 2단계 - 마케팅에 대한 동기화 사용자 구성(2013 온-프레미스)
 translation-type: tm+mt
-source-git-commit: 309f299275bfe75e8af0150be0a5ffdf28a54cf8
+source-git-commit: 2b5ccd7220557a5e966d33436d0f0d2a65e4589d
 workflow-type: tm+mt
-source-wordcount: '347'
+source-wordcount: '335'
 ht-degree: 0%
 
 ---
@@ -17,8 +17,7 @@ ht-degree: 0%
 
 >[!PREREQUISITES]
 >
->* [3단계 중 1단계:Dynamics에서 Marketing To 솔루션 설치(2013 온프레미스)](step-1-of-3-install.md)
-
+>[3단계 중 1단계:Dynamics에서 Marketing To 솔루션 설치(2013 온프레미스)](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/microsoft-dynamics-2013-on-premises/step-1-of-3-install.md)
 
 ## 동기화 사용자 역할 할당 {#assign-sync-user-role}
 
@@ -26,7 +25,7 @@ Marketing to Sync 사용자 역할을 Marketing Cloud에 할당하여 사용자�
 
 >[!NOTE]
 >
->이것은 Marketing to 플러그인 버전 4.0.0.14 이상에 적용됩니다. 이전 버전의 경우 모든 사용자는 동기화된 사용자 역할이 있어야 합니다. 마케팅을 업그레이드하려면 [Microsoft Dynamics용 Marketing Solution 업그레이드](../../../../../product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/upgrade-the-marketo-solution-for-microsoft-dynamics.md)를 참조하십시오.
+>이것은 Marketing to 플러그인 버전 4.0.0.14 이상에 적용됩니다. 이전 버전의 경우 모든 사용자는 동기화된 사용자 역할이 있어야 합니다. 마케팅을 업그레이드하려면 [Microsoft Dynamics용 Marketing Solution 업그레이드](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/upgrade-the-marketo-solution-for-microsoft-dynamics.md)를 참조하십시오.
 
 1. **설정**&#x200B;에서 **관리**&#x200B;를 클릭합니다.
 
@@ -50,7 +49,7 @@ Marketing to Sync 사용자 역할을 Marketing Cloud에 할당하여 사용자�
 
    >[!TIP]
    >
-   >역할이 표시되지 않으면 [단계 1/3](step-1-of-3-install.md)으로 돌아가서 솔루션을 가져옵니다.
+   >역할이 표시되지 않으면 [단계 1/3](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/microsoft-dynamics-2013-on-premises/step-1-of-3-install.md)으로 돌아가서 솔루션을 가져옵니다.
 
    >[!NOTE]
    >
@@ -66,7 +65,7 @@ Marketing to Sync 사용자 역할을 Marketing Cloud에 할당하여 사용자�
 
    >[!NOTE]
    >
-   >**Marketing Config**&#x200B;이(가) 없는 경우 페이지를 새로 고쳐 보십시오. 문제가 지속되면 [Marketing 솔루션](https://docs.marketo.com/pages/viewpage.action?pageId=3571813#Step1of3:InstalltheMarketoSolutioninDynamics(2013On-Premises)-PublishAllCustomizations)을(를) 다시 게시하거나 로그아웃했다가 다시 로그인하십시오.
+   >**Marketing Config**&#x200B;이(가) 없는 경우 페이지를 새로 고쳐 보십시오. 문제가 지속되면 [Marketing 솔루션](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/microsoft-dynamics-2013-on-premises/step-1-of-3-install.md)을(를) 다시 게시하거나 로그아웃했다가 다시 로그인하십시오.
 
 1. **기본값**&#x200B;을 클릭합니다.
 
@@ -86,15 +85,12 @@ Marketing to Sync 사용자 역할을 Marketing Cloud에 할당하여 사용자�
 
 ## 3단계로 진행하기 전 {#before-proceeding-to-step}
 
-* 동기화하려는 레코드 수를 제한하려면 지금 [사용자 지정 동기화 필터](../../../../../product-docs/crm-sync/microsoft-dynamics-sync/create-a-custom-dynamics-sync-filter.md)를 설정합니다.
-* [Microsoft Dynamics 동기화 유효성 검사](../../../../../product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/validate-microsoft-dynamics-sync.md) 프로세스를 실행합니다. 초기 설정이 올바르게 수행되었는지 확인합니다.
+* 동기화하려는 레코드 수를 제한하려면 지금 [사용자 지정 동기화 필터](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/create-a-custom-dynamics-sync-filter.md)를 설정합니다.
+* [Microsoft Dynamics 동기화 유효성 검사](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/validate-microsoft-dynamics-sync.md) 프로세스를 실행합니다. 초기 설정이 올바르게 수행되었는지 확인합니다.
 * Microsoft Dynamics CRM에서 Marketing to Sync 사용자에 로그인합니다.
 
 잘했어요!
 
->[!NOTE]
+>[!MORELIKETHIS]
 >
->**관련 문서**
->
->* [3단계 중 3단계:Connect Marketing 및 Dynamics(2013 온-프레미스)](step-3-of-3-connect.md)
-
+>[3단계 중 3단계:Connect Marketing 및 Dynamics(2013 온-프레미스)](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/microsoft-dynamics-2013-on-premises/step-3-of-3-connect.md)
