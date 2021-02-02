@@ -3,9 +3,9 @@ unique-page-id: 3571838
 description: Microsoft Dynamics 동기화 - 필드 동기화 - Marketing To Docs - 제품 설명서
 title: Microsoft Dynamics 동기화 - 필드 동기화
 translation-type: tm+mt
-source-git-commit: d7d6aee63144c472e02fe0221c4a164183d04dd4
+source-git-commit: 2b5ccd7220557a5e966d33436d0f0d2a65e4589d
 workflow-type: tm+mt
-source-wordcount: '311'
+source-wordcount: '280'
 ht-degree: 0%
 
 ---
@@ -31,21 +31,12 @@ Marketing to Dynamics 동기화가 매우 강력합니다. 자세한 내용은
 
 ## Dynamics에서 필드를 만들었습니다. Marketing To에 동기화할 수 있습니까?{#i-created-a-field-in-dynamics-can-i-sync-it-to-marketo}
 
-예. 동기화 사용자가 Dynamics에서 필드](https://docs.marketo.com/pages/viewpage.action?pageId=3571830#Step3of3:ConnectMicrosoftDynamicswithMarketo(Online)-SelectFieldstoSync)을(를) 이용할 수 있는 경우 [동기화할 수 있습니다.
+예. 동기화 사용자가 Dynamics에서 필드](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/microsoft-dynamics-365/step-3-of-3-connect.md#select-fields-to-sync)을(를) 이용할 수 있는 경우 [동기화할 수 있습니다.
 
 Marketing To와 동기화할 필드는 무엇입니까?
 
-설정 중에 [필드를 선택하여](https://docs.marketo.com/pages/viewpage.action?pageId=3571830#Step3of3:ConnectMicrosoftDynamicswithMarketo(Online)-SelectFieldstoSync)을 동기화할 수 있습니다.
+설정 중에 [필드를 선택하여](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/microsoft-dynamics-365/step-3-of-3-connect.md#select-fields-to-sync)을 동기화할 수 있습니다.
 
 ## Marketing To 및 Dynamics가 동기화된 후 사용자 정의 필드를 추가해야 하는 경우 어떻게 됩니까?{#what-if-i-need-to-add-a-custom-field-after-marketo-and-dynamics-are-synced}
 
-언제든지 필드를 추가할 수 있으며 데이터가 Dynamics에서 Marketing으로 새로 고쳐질 것으로 예상합니다. 자세한 내용은 [새 사용자 지정 필드](microsoft-dynamics-sync-field-sync/use-quick-sync-with-microsoft-dynamics-for-a-new-custom-field.md)에 대해 Microsoft Dynamics와 빠른 동기화 사용을 참조하십시오.
-
->[!MORELIKETHIS]
->
->* [Microsoft Dynamics와 빠른 동기화를 사용하여 새로운 사용자 정의 필드 사용](microsoft-dynamics-sync-field-sync/use-quick-sync-with-microsoft-dynamics-for-a-new-custom-field.md)
-
->
-
-
-
+언제든지 필드를 추가할 수 있으며 데이터가 Dynamics에서 Marketing으로 새로 고쳐질 것으로 예상합니다. 자세한 내용은 [새 사용자 지정 필드](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/microsoft-dynamics-sync-details/microsoft-dynamics-sync-field-sync/use-quick-sync-with-microsoft-dynamics-for-a-new-custom-field.md)에 대해 Microsoft Dynamics와 빠른 동기화 사용을 참조하십시오.
