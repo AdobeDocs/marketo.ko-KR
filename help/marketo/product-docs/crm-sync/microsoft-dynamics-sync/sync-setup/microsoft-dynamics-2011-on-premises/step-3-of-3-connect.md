@@ -3,9 +3,9 @@ unique-page-id: 3571809
 description: 3단계 중 3단계 - Microsoft Dynamics와 Marketing(2011년 온프레미스) - Marketing To Docs - 제품 설명서
 title: 3단계 중 3단계 - Microsoft Dynamics와 Marketing(2011 온-프레미스)
 translation-type: tm+mt
-source-git-commit: d7d6aee63144c472e02fe0221c4a164183d04dd4
+source-git-commit: 2b5ccd7220557a5e966d33436d0f0d2a65e4589d
 workflow-type: tm+mt
-source-wordcount: '346'
+source-wordcount: '330'
 ht-degree: 0%
 
 ---
@@ -17,8 +17,8 @@ ht-degree: 0%
 
 >[!PREREQUISITES]
 >
->* [3단계 중 1단계:Marketing To 솔루션 설치(2011 온프레미스)](step-1-of-3-install.md)
->* [3단계 중 2단계:Dynamics에서 Marketing To Sync 사용자 설정(2011 온-프레미스)](step-2-of-3-set-up.md)
+>* [3단계 중 1단계:Marketing To 솔루션 설치(2011 온프레미스)](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/microsoft-dynamics-2011-on-premises/step-1-of-3-install.md)
+>* [3단계 중 2단계:Dynamics에서 Marketing To Sync 사용자 설정(2011 온-프레미스)](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/microsoft-dynamics-2011-on-premises/step-2-of-3-set-up.md)
 
 
 >[!NOTE]
@@ -53,17 +53,17 @@ ht-degree: 0%
 
    >[!NOTE]
    >
-   >Marketing의 사용자 이름은 CRM의 동기화 사용자의 사용자 이름과 일치해야 합니다. 형식은 [`[email protected]`](http://docs.marketo.com/cdn-cgi/l/email-protection#a0d5d3c5d2e0c4cfcdc1c9ce8ec3cfcd) 또는 DOMAIN\user일 수 있습니다.
+   >Marketing의 사용자 이름은 CRM의 동기화 사용자의 사용자 이름과 일치해야 합니다. 형식은 user@domain.com 또는 DOMAIN\user일 수 있습니다.
 
    >[!TIP]
    >
-   >URL을 모르십니까? 여기에서 [Dynamics 조직 서비스 URL](../../../../../product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/view-the-organization-service-url.md)을 찾는 방법을 보여 드리겠습니다.
+   >URL을 모르십니까? 여기에서 [Dynamics 조직 서비스 URL](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/view-the-organization-service-url.md)을 찾는 방법을 보여 드리겠습니다.
 
 ## 동기화할 필드 선택 {#select-fields-to-sync}
 
 이제 동기화할 필드를 선택해야 합니다.
 
-1. **단계 2에서**&#x200B;편집 **을 클릭합니다.동기화할 필드를 선택합니다.**
+1. **2단계에서**&#x200B;편집&#x200B;**을 클릭합니다.동기화할 필드를 선택합니다.**
 
    ![](assets/image2015-3-16-9-51-28a.png)
 
