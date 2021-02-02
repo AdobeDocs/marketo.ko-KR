@@ -3,7 +3,7 @@ unique-page-id: 10095307
 description: 이메일 주소에 대한 사용자 지정 동기화 필터 규칙 - 마케팅 문서 - 제품 설명서
 title: 이메일 주소에 대한 사용자 지정 동기화 필터 규칙
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: 2b5ccd7220557a5e966d33436d0f0d2a65e4589d
 workflow-type: tm+mt
 source-wordcount: '202'
 ht-degree: 0%
@@ -21,4 +21,3 @@ ht-degree: 0%
 
 * 연락처의 회사 이름(parentcustomerid) 필드가 업데이트되면 연락처의 Mkto 동기화 필드가 true인지 확인합니다. 그렇다면 계정의 Mkto에 동기화를 **True**&#x200B;로 변경하십시오.
 * 기회의 [잠재적 고객](사용자 지정 고객) 필드 또는 [연락처](괄호로 묶음)가 업데이트되면 계정의 [mkto에 동기화] 필드가 true인지 또는 연락처의 [mkto에 동기화] 필드가 true인지 확인합니다. 이 경우 기회의 경우 Mkto로 동기화를 **True**&#x200B;로 변경합니다.
-
