@@ -3,9 +3,9 @@ unique-page-id: 4719287
 description: 초기 필드 매핑 편집 - 마케팅 문서 - 제품 설명서
 title: 초기 필드 매핑 편집
 translation-type: tm+mt
-source-git-commit: 00887ea53e395bea3a11fd28e0ac98b085ef6ed8
+source-git-commit: 2b5ccd7220557a5e966d33436d0f0d2a65e4589d
 workflow-type: tm+mt
-source-wordcount: '279'
+source-wordcount: '278'
 ht-degree: 0%
 
 ---
@@ -15,8 +15,6 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->**미리 알림**
->
 >이 기능은 Salesforce에 처음 동기화하기 전에만 액세스할 수 있습니다. **지금 동기화** 단추를 누르면 더 이상 이 작업을 수행할 수 없습니다.
 
 Salesforce에 처음 동기화하면 Marketing은 유사한 이름의 사용자 정의 필드를 Marketing To의 단일 필드에 자동으로 결합하여 CRM의 리드 및 연락처 개체 모두와 데이터를 교환할 수 있도록 합니다. 이 문서에서는 이러한 매핑을 사용자 지정하는 방법에 대해 설명합니다.
@@ -25,7 +23,7 @@ Salesforce에 처음 동기화하면 Marketing은 유사한 이름의 사용자 
 
 매핑되지 않은 필드 폴더에 필드가 표시되면 Salesforce의 리드 또는 연락처에 있는 유사한 필드에 매핑되지 않음을 의미합니다. 네가 고칠 수 있어
 
-1. 매핑 편집을 클릭합니다.
+1. **매핑 편집**&#x200B;을 클릭합니다.
 
 ![](assets/image2014-12-9-13-3a31-3a0.png)
 
@@ -69,6 +67,4 @@ Salesforce에 처음 동기화하면 Marketing은 유사한 이름의 사용자 
 
    * 모든 매핑 변경 사항이 재설정됩니다!
    * 스키마를 재설정하면 필드가 제거되지는 않고 추가만 됩니다(동기화 사용자에서 숨기더라도).
-
    ![](assets/image2014-12-9-13-3a32-3a8.png)
-
