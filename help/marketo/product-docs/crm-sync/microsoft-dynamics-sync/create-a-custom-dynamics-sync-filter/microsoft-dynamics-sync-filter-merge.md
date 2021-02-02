@@ -3,7 +3,7 @@ unique-page-id: 10092969
 description: Microsoft Dynamics 동기화 필터 -병합 - Marketing To Docs - 제품 설명서
 title: Microsoft Dynamics 동기화 필터 -병합
 translation-type: tm+mt
-source-git-commit: 96cc6a30c63c8e8dca793a52e4bf7ecaef8c08dc
+source-git-commit: 2b5ccd7220557a5e966d33436d0f0d2a65e4589d
 workflow-type: tm+mt
 source-wordcount: '172'
 ht-degree: 0%
@@ -25,4 +25,3 @@ Microsoft Dynamics에서 리드를 병합하면 2가지 옵션 유형(동기화 
 | False | False | 우승 레코드는 Marketing To와 동기화된 **이(가) 아닌**&#x200B;로 계속됩니다. |
 | False | True | 우승 레코드는 Marketing To와 동기화됩니다. |
 | True | False | 우승 레코드는 Marketing To와 동기화되지 않습니다. |
-
