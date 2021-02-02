@@ -3,7 +3,7 @@ unique-page-id: 2953384
 description: 사용자 지정 개체에 대한 동기화 활성화 - Marketing To Docs - 제품 설명서
 title: 사용자 지정 엔터티에 대해 동기화 활성화
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: 2b5ccd7220557a5e966d33436d0f0d2a65e4589d
 workflow-type: tm+mt
 source-wordcount: '172'
 ht-degree: 0%
@@ -26,9 +26,10 @@ Marketing To에서 Dynamics의 사용자 지정 엔티티 데이터를 사용할
 1. **Microsoft Dynamics**&#x200B;을 선택하고 **동기화 비활성화**&#x200B;를 클릭합니다.
 
    사용자 지정 엔티티를 활성화 또는 비활성화하려면 일시적으로 전역 동기화를 비활성화해야 합니다.
+
    ![](assets/image2015-11-10-9-3a0-3a6.png)
 
-1. 데이터베이스 관리에서 Dynamics 엔티티 동기화** 링크를 클릭합니다.
+1. 데이터베이스 관리에서 **Dynamics 엔티티 동기화** 링크를 클릭합니다.
 
    ![](assets/image2015-11-10-9-3a6-3a55.png)
 
@@ -40,7 +41,7 @@ Marketing To에서 Dynamics의 사용자 지정 엔티티 데이터를 사용할
 
    ![](assets/image2015-11-10-9-3a44-3a35.png)
 
-1. 동기화하거나 스마트 목록에서 [제약 조건](../../../../../product-docs/core-marketo-concepts/smart-lists-and-static-lists/using-smart-lists/add-a-constraint-to-a-smart-list-filter.md) 및/또는 트리거로 사용할 필드를 선택합니다. 완료되면 **동기화 활성화**&#x200B;를 클릭합니다.
+1. 동기화하거나 스마트 목록에서 [제약 조건](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/using-smart-lists/add-a-constraint-to-a-smart-list-filter.md) 및/또는 트리거로 사용할 필드를 선택합니다. 완료되면 **동기화 활성화**&#x200B;를 클릭합니다.
 
    ![](assets/image2014-10-20-14-3a32-3a55.png)
 
