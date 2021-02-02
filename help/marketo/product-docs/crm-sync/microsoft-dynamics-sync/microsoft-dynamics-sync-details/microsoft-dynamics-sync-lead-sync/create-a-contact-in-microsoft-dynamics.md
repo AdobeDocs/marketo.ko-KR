@@ -3,7 +3,7 @@ unique-page-id: 10095389
 description: Microsoft Dynamics - Marketing Docs - 제품 문서에서 연락처 만들기
 title: Microsoft Dynamics에서 연락처 만들기
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: 2b5ccd7220557a5e966d33436d0f0d2a65e4589d
 workflow-type: tm+mt
 source-wordcount: '121'
 ht-degree: 0%
@@ -17,7 +17,7 @@ ht-degree: 0%
 
    ![](assets/one.png)
 
-1. **사람 작업**&#x200B;및&#x200B;**Microsoft**&#x200B;을 클릭하고 **Microsoft**&#x200B;에 사람 동기화를 선택합니다.
+1. **사람 작업** 및 **Microsoft**&#x200B;을 클릭하고 **Microsoft**&#x200B;에 사람 동기화를 선택합니다.
 
    ![](assets/two.png)
 
@@ -36,4 +36,3 @@ ht-degree: 0%
 1. 이제 스마트 캠페인 필터에서 [다음으로 동기화] 제약 조건을 사용할 때 **연락처**&#x200B;를 선택할 수 있습니다.
 
    ![](assets/five.png)
-
