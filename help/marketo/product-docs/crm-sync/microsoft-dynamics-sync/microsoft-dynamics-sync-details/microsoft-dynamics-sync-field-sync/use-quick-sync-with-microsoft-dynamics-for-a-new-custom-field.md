@@ -3,7 +3,7 @@ unique-page-id: 10098379
 description: Microsoft Dynamics와 빠른 동기화를 사용하여 새로운 사용자 정의 필드 - Marketing To Docs - 제품 설명서
 title: Microsoft Dynamics와 빠른 동기화를 사용하여 새로운 사용자 정의 필드 사용
 translation-type: tm+mt
-source-git-commit: 313266a67243f0c70c25010cb4825efb7f3db0ab
+source-git-commit: 2b5ccd7220557a5e966d33436d0f0d2a65e4589d
 workflow-type: tm+mt
 source-wordcount: '355'
 ht-degree: 0%
@@ -27,7 +27,7 @@ ht-degree: 0%
 
    ![](assets/image2016-8-19-11-3a14-3a5.png)
 
-1. Microsoft Dynamics**를 클릭합니다.
+1. **Microsoft Dynamics**&#x200B;을 클릭합니다.
 
    ![](assets/image2016-8-19-11-3a15-3a8.png)
 
@@ -67,7 +67,7 @@ ht-degree: 0%
 
    ![](assets/image2016-8-25-15-3a52-3a9.png)
 
-1. **업데이트됨 **을 선택하고 날짜 선택기를 사용하여 날짜 범위를 선택합니다. **저장**&#x200B;을 클릭합니다.
+1. **업데이트됨**&#x200B;을 선택하고 날짜 선택기를 사용하여 날짜 범위를 선택합니다. **저장**&#x200B;을 클릭합니다.
 
    ![](assets/image2016-8-25-16-3a0-3a3.png)
 
@@ -86,4 +86,3 @@ Dynamics 및 Marketing 필드가 동기화되지 않은 드문 경우에는 빠�
    ![](assets/image2016-8-25-16-3a20-3a45.png)
 
    그거 고쳐야지!
-
