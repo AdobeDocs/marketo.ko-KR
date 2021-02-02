@@ -3,9 +3,9 @@ unique-page-id: 3571827
 description: 3단계 중 2단계 - Dynamics - Marketing To Docs - 제품 설명서에서 Marketing To Sync 사용자 설정
 title: 3단계 중 2단계 - Dynamics에서 Marketing To Sync 사용자 설정
 translation-type: tm+mt
-source-git-commit: 309f299275bfe75e8af0150be0a5ffdf28a54cf8
+source-git-commit: 2b5ccd7220557a5e966d33436d0f0d2a65e4589d
 workflow-type: tm+mt
-source-wordcount: '460'
+source-wordcount: '450'
 ht-degree: 0%
 
 ---
@@ -17,7 +17,7 @@ ht-degree: 0%
 
 >[!PREREQUISITES]
 >
->[3단계 중 1단계:Marketing To 솔루션(온라인) 설치](step-1-of-3-install.md)
+>[3단계 중 1단계:Marketing To 솔루션(온라인) 설치](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/microsoft-dynamics-365/step-1-of-3-install.md)
 
 ## 새 사용자 {#create-a-new-user} 만들기
 
@@ -25,7 +25,7 @@ ht-degree: 0%
 
    ![](assets/one.png)
 
-1. 설정**을 클릭하고 **보안**&#x200B;을 선택합니다.
+1. **설정**&#x200B;을 클릭하고 **보안**&#x200B;을 선택합니다.
 
    ![](assets/two.png)
 
@@ -67,7 +67,7 @@ Marketing to Sync 사용자 역할을 Marketing Cloud에 할당하여 사용자�
 
 >[!NOTE]
 >
->이것은 Marketing 버전 4.0.0.14 이상에만 적용됩니다. 이전 버전의 경우 모든 사용자는 동기화된 사용자 역할이 있어야 합니다. 마케팅을 업그레이드하려면 [Microsoft Dynamics용 Marketing Solution 업그레이드](../../../../../product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/upgrade-the-marketo-solution-for-microsoft-dynamics.md)를 참조하십시오.
+>이것은 Marketing 버전 4.0.0.14 이상에만 적용됩니다. 이전 버전의 경우 모든 사용자는 동기화된 사용자 역할이 있어야 합니다. 마케팅을 업그레이드하려면 [Microsoft Dynamics용 Marketing Solution 업그레이드](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/upgrade-the-marketo-solution-for-microsoft-dynamics.md)를 참조하십시오.
 
 1. 활성화된 사용자 탭으로 돌아가 사용자 목록을 새로 고칩니다.
 
@@ -93,13 +93,13 @@ Marketing to Sync 사용자 역할을 Marketing Cloud에 할당하여 사용자�
 
 거의 다 왔어! 이제 Marketing To Solution에서 새로 만든 사용자에 대해 알리는 일만 남았습니다.
 
-1. 고급 설정 섹션으로 돌아가서 설정 옆에 있는 ![](assets/image2015-5-13-15-3a49-3a19.png)아이콘을 클릭하고 **마케팅 구성**&#x200B;을 선택합니다.
+1. 고급 설정 섹션으로 돌아가서 설정 옆에 있는 ![](assets/image2015-5-13-15-3a49-3a19.png) 아이콘을 클릭하고 **Marketing To Config**&#x200B;를 선택합니다.
 
    ![](assets/fourteen.png)
 
    >[!NOTE]
    >
-   >설정 메뉴에 **Marketing Config**&#x200B;가 표시되지 않으면 페이지를 새로 고칩니다. 그래도 해결되지 않으면 [Marketing To Solution](https://docs.marketo.com/pages/viewpage.action?pageId=3571822#publish-customizations) [](https://docs.marketo.com/pages/viewpage.action?pageId=3571822#publish-customizations)을(를) 다시 게시하거나 로그아웃했다가 다시 로그인합니다.
+   >설정 메뉴에 **Marketing Config**&#x200B;가 표시되지 않으면 페이지를 새로 고칩니다. 그래도 해결되지 않으면 [Marketing To 솔루션](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/microsoft-dynamics-365/step-1-of-3-install.md)을(를) 다시 게시하거나 로그아웃했다가 다시 로그인하십시오.
 
 1. **기본값**&#x200B;을 클릭합니다.
 
@@ -109,7 +109,7 @@ Marketing to Sync 사용자 역할을 Marketing Cloud에 할당하여 사용자�
 
    ![](assets/sixteen.png)
 
-1. 오른쪽 하단에 있는 ![](assets/image2015-3-13-15-3a10-3a11.png)아이콘을 클릭하여 변경 내용을 저장합니다.
+1. 오른쪽 하단에 있는 ![](assets/image2015-3-13-15-3a10-3a11.png) 아이콘을 클릭하여 변경 내용을 저장합니다.
 
    ![](assets/image2015-3-13-15-3a3-3a3.png)
 
@@ -117,7 +117,7 @@ Marketing to Sync 사용자 역할을 Marketing Cloud에 할당하여 사용자�
 
    ![](assets/seventeen.png)
 
-1. 설정 옆에 있는 ![](assets/image2015-5-13-15-3a49-3a19-1.png)아이콘을 클릭하고 **솔루션**&#x200B;을 선택합니다.
+1. 설정 옆에 있는 ![](assets/image2015-5-13-15-3a49-3a19-1.png) 아이콘을 클릭하고 **솔루션**&#x200B;을 선택합니다.
 
    ![](assets/eighteen.png)
 
@@ -127,13 +127,10 @@ Marketing to Sync 사용자 역할을 Marketing Cloud에 할당하여 사용자�
 
 ## 3단계로 진행하기 전 {#before-proceeding-to-step}
 
-    * 동기화하려는 레코드 수를 제한하려면 지금 [사용자 정의 동기화 필터 설정](../../../../../product-docs/crm-sync/microsoft-dynamics-sync/create-a-custom-dynamics-sync-filter.md).
-    * [Microsoft Dynamics 동기화 유효성 검사](../../../../../product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/validate-microsoft-dynamics-sync.md) 프로세스를 실행합니다. 초기 설정이 올바르게 수행되었는지 확인합니다.
+    * 동기화하려는 레코드 수를 제한하려면 지금 [사용자 정의 동기화 필터 설정](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/create-a-custom-dynamics-sync-filter.md).
+    * [Microsoft Dynamics 동기화 유효성 검사](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/validate-microsoft-dynamics-sync.md) 프로세스를 실행합니다. 초기 설정이 올바르게 수행되었는지 확인합니다.
     * Microsoft Dynamics CRM에서 Marketing to Sync 사용자에 로그인합니다.
 
->[!NOTE]
+>[!MORELIKETHIS]
 >
->**관련 문서**
->
->
->[3단계 중 3단계:Microsoft Dynamics와 Marketing To 연결(온라인)](step-3-of-3-connect.md)
+>[3단계 중 3단계:Microsoft Dynamics와 Marketing To 연결(온라인)](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/microsoft-dynamics-365/step-3-of-3-connect.md)
