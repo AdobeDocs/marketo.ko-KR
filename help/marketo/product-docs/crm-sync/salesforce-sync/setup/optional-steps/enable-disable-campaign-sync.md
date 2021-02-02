@@ -3,7 +3,7 @@ unique-page-id: 4719289
 description: 캠페인 동기화 활성화/비활성화 - 마케팅 문서 - 제품 설명서
 title: 캠페인 동기화 활성화/비활성화
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 2b5ccd7220557a5e966d33436d0f0d2a65e4589d
 workflow-type: tm+mt
 source-wordcount: '90'
 ht-degree: 0%
@@ -15,15 +15,13 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->관리자 권한이 필요합니다.
+>**관리자 권한 필요**
 
 이 옵션을 통해 Marketing은 프로그램 멤버십과 상태를 Salesforce 캠페인과 동기화하거나 그 반대의 경우도 마찬가지입니다.
 
-1. **Admin으로 이동하고 ****Salesforce.**
+1. **관리**&#x200B;로 이동하여 **Salesforce**&#x200B;를 클릭합니다.
 
-   ** ![](assets/image2014-12-9-13-3a36-3a49.png)
-
-   **
+   ![](assets/image2014-12-9-13-3a36-3a49.png)
 
 1. **설정 동기화 편집**&#x200B;을 클릭합니다.
 
@@ -37,11 +35,7 @@ ht-degree: 0%
 
 >[!MORELIKETHIS]
 >
->* [SFDC 동기화:캠페인 동기화](../../../../../product-docs/crm-sync/salesforce-sync/sfdc-sync-details/sfdc-sync-campaign-sync.md)
->* [기본 리드 성 및 회사 값 설정](set-default-person-last-name-and-company-name.md)
->* [활동 동기화 사용자 지정](customize-activities-sync.md)
-
->
-
-
+>* [SFDC 동기화:캠페인 동기화](/help/marketo/product-docs/crm-sync/salesforce-sync/sfdc-sync-details/sfdc-sync-campaign-sync.md)
+>* [기본 리드 성 및 회사 값 설정](/help/marketo/product-docs/crm-sync/salesforce-sync/setup/optional-steps/set-default-person-last-name-and-company-name.md)
+>* [활동 동기화 사용자 지정](/help/marketo/product-docs/crm-sync/salesforce-sync/setup/optional-steps/customize-activities-sync.md)
 
