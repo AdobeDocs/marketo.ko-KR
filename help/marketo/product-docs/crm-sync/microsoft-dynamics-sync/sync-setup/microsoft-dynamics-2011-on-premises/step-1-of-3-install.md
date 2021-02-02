@@ -3,9 +3,9 @@ unique-page-id: 3571805
 description: 3단계 중 1단계 - Marketing To 솔루션 설치(2011 온프레미스) - Marketing Docs - 제품 설명서
 title: 3단계 중 1단계 - Marketing To 솔루션 설치(2011 온프레미스)
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 2b5ccd7220557a5e966d33436d0f0d2a65e4589d
 workflow-type: tm+mt
-source-wordcount: '292'
+source-wordcount: '291'
 ht-degree: 0%
 
 ---
@@ -21,9 +21,9 @@ Microsoft Dynamics 온-프레미스 및 Marketing To를 동기화하려면 먼�
 
 >[!PREREQUISITES]
 >
->[Active Directory Federation Services](https://msdn.microsoft.com/en-us/library/bb897402.aspx) 2.0, 2.1 또는 3.0(ADFS)을 구성한 [인터넷 대면 배포](http://www.microsoft.com/en-us/download/confirmation.aspx?id=41701)(IFD)가 있어야 합니다. **참고**:링크를 클릭하면 IFD 문서가 자동으로 다운로드됩니다.
+>[Active Directory Federation Services](https://msdn.microsoft.com/en-us/library/bb897402.aspx) 2.0, 2.1 또는 3.0(ADFS)을 구성한 [인터넷 대면 배포](https://www.microsoft.com/en-us/download/confirmation.aspx?id=41701)(IFD)가 있어야 합니다. **참고**:링크를 클릭하면 IFD 문서가 자동으로 다운로드됩니다.
 >
->[시작하기 전에 Marketing To 리드 관리 ](../../../../../product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/download-the-marketo-lead-management-solution.md) 솔루션을 다운로드하십시오.
+>[시작하기 전에 Marketing To 리드 관리 ](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/download-the-marketo-lead-management-solution.md) 솔루션을 다운로드하십시오.
 
 >[!NOTE]
 >
@@ -43,7 +43,7 @@ Microsoft Dynamics 온-프레미스 및 Marketing To를 동기화하려면 먼�
 
    ![](assets/image2015-4-2-11-3a37-3a33.png)
 
-1. **찾아보기**&#x200B;를 클릭합니다. [다운로드한 ](../../../../../product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/download-the-marketo-lead-management-solution.md)마케팅 리드 관리 솔루션을 선택합니다. **다음**&#x200B;을 클릭합니다.
+1. **찾아보기**&#x200B;를 클릭합니다. [다운로드한 ](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/download-the-marketo-lead-management-solution.md)마케팅 리드 관리 솔루션을 선택합니다. **다음**&#x200B;을 클릭합니다.
 
    ![](assets/image2015-4-2-11-3a40-3a33.png)
 
@@ -93,8 +93,6 @@ Microsoft Dynamics 온-프레미스 및 Marketing To를 동기화하려면 먼�
 >
 >Marketing SDK 메시징 프로세스를 비활성화하면 설치가 중단됩니다!
 
->[!NOTE]
+>[!MORELIKETHIS]
 >
->**관련 문서**
->
->[3단계 중 2단계:Dynamics에서 Marketing To Sync 사용자 설정(2011 온-프레미스)](step-2-of-3-set-up.md)
+>[3단계 중 2단계:Dynamics에서 Marketing To Sync 사용자 설정(2011 온-프레미스)](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/microsoft-dynamics-2011-on-premises/step-2-of-3-set-up.md)
