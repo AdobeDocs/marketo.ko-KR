@@ -3,7 +3,7 @@ unique-page-id: 10092977
 description: Microsoft Dynamics 동기화 필터 -자격 조건 - Marketing To Docs - 제품 설명서
 title: Microsoft Dynamics 동기화 필터 - 자격 조건
 translation-type: tm+mt
-source-git-commit: 96cc6a30c63c8e8dca793a52e4bf7ecaef8c08dc
+source-git-commit: 2b5ccd7220557a5e966d33436d0f0d2a65e4589d
 workflow-type: tm+mt
 source-wordcount: '122'
 ht-degree: 0%
@@ -29,4 +29,3 @@ Microsoft Dynamics에서 리드를 연락처로 전환하려면 이 기본 자�
 >[!CAUTION]
 >
 >즉시 사용 가능한 전환 프로세스만 지원합니다.
-
