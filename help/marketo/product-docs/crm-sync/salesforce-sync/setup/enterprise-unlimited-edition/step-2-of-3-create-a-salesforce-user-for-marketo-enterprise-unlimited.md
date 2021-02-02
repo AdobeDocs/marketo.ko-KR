@@ -3,9 +3,9 @@ unique-page-id: 2360364
 description: 3단계 중 2단계 - Marketing용 Salesforce 사용자 만들기(Enterprise/Unlimited) - Marketing Docs - 제품 설명서
 title: 3단계 중 2단계 - Marketing용 Salesforce 사용자 만들기(Enterprise/Unlimited)
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 2b5ccd7220557a5e966d33436d0f0d2a65e4589d
 workflow-type: tm+mt
-source-wordcount: '439'
+source-wordcount: '420'
 ht-degree: 0%
 
 ---
@@ -19,11 +19,7 @@ ht-degree: 0%
 
 >[!PREREQUISITES]
 >
->* [3단계 중 1단계:Salesforce에 마케팅 필드 추가(Enterprise/Unlimited)](step-1-of-3-add-marketo-fields-to-salesforce-enterprise-unlimited.md)
-
->
-
-
+>[3단계 중 1단계:Salesforce에 마케팅 필드 추가(Enterprise/Unlimited)](/help/marketo/product-docs/crm-sync/salesforce-sync/setup/enterprise-unlimited-edition/step-1-of-3-add-marketo-fields-to-salesforce-enterprise-unlimited.md)
 
 이 문서에서는 Salesforce 프로필에서 사용자 권한을 설정하고 Marketing-Salesforce 통합 계정을 만듭니다.
 
@@ -100,10 +96,10 @@ ht-degree: 0%
 
 1. 프로필 세부 사항 페이지에서 **필드 수준 보안** 섹션으로 이동합니다. 개체에 대한 액세스 가능성을 편집하려면 **보기**&#x200B;를 클릭합니다.
 
-   * `Lead`
-   * `Contact`
-   * `Account`
-   * `Opportunity`
+   * 리드
+   * 연락처
+   * 계정
+   * 기회
 
    >[!TIP]
    >
@@ -115,18 +111,15 @@ ht-degree: 0%
 
    ![](assets/sfdc-sync-field-edit1.png)
 
-1. 필요 없는 필드를 찾고 **읽기 액세스 **및** 액세스 편집 **이 선택 취소되어 있는지 확인합니다. 완료되면 **저장**&#x200B;을 클릭합니다.
+1. 필요 없는 필드를 찾아 **액세스 읽기** 및 **액세스 편집**&#x200B;이 선택 취소되어 있는지 확인합니다. 완료되면 **저장**&#x200B;을 클릭합니다.
 
    >[!NOTE]
-   >
-   >**미리 알림**
-   >
    >
    >사용자 정의 필드의 액세스 가능성만 편집합니다.
 
    ![](assets/sfdc-sync-field-edit2.png)
 
-1. 불필요한 필드를 모두 비활성화한 후 다음 개체 필드에 대해 **읽기 액세스 및 액세스 편집**을 선택해야 합니다. 완료되면 **저장**&#x200B;을 클릭합니다.
+1. 불필요한 모든 필드 비활성화를 완료한 후 다음 개체 필드에 대해 **읽기 액세스 및 액세스 편집**&#x200B;을 선택해야 합니다. 완료되면 **저장**&#x200B;을 클릭합니다.
 
 <table> 
  <tbody> 
@@ -155,7 +148,7 @@ ht-degree: 0%
 
 >[!TIP]
 >
->전용 Salesforce 계정 만들기(예:[`[email protected]`](http://docs.marketo.com/cdn-cgi/l/email-protection#89e4e8fbe2ecfde6c9f0e6fcfbeae6e4f9e8e7f0a7eae6e4)) Marketing에서 다른 Salesforce 사용자와 변경한 내용을 구분할 수 있습니다.
+>전용 Salesforce 계정(예: marketo@yourcompany.com)을 만들어 Marketing과 다른 Salesforce 사용자의 변경 사항을 구분할 수 있습니다.
 
 1. 탐색 검색 표시줄에 &quot;사용자 관리&quot;를 입력한 다음 **사용자**&#x200B;를 클릭합니다. **새 사용자**&#x200B;를 클릭합니다.
 
@@ -169,11 +162,4 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->**관련 문서**
->
->* [3단계 중 3단계:Connect Marketing &amp; Salesforce(Enterprise/Unlimited)](step-3-of-3-connect-marketo-and-salesforce-enterprise-unlimited.md)
-
->
-
-
-
+>[3단계 중 3단계:Connect Marketing &amp; Salesforce(Enterprise/Unlimited)](/help/marketo/product-docs/crm-sync/salesforce-sync/setup/enterprise-unlimited-edition/step-3-of-3-connect-marketo-and-salesforce-enterprise-unlimited.md)
