@@ -3,7 +3,7 @@ unique-page-id: 4719310
 description: Salesforce 동기화 활성화/비활성화 - Marketing To Docs - 제품 설명서
 title: Salesforce 동기화 활성화/비활성화
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: ed83438ae5660d172e845f25c4d72d599574bd91
 workflow-type: tm+mt
 source-wordcount: '82'
 ht-degree: 0%
@@ -17,9 +17,7 @@ ht-degree: 0%
 
 1. **관리** 섹션으로 이동합니다.
 
-   ** ![](assets/image2014-12-10-13-3a24-3a35.png)
-
-   **
+   ![](assets/image2014-12-10-13-3a24-3a35.png)
 
 1. **Salesforce**&#x200B;에서 **동기화 비활성화**&#x200B;를 클릭합니다.
 
@@ -30,4 +28,3 @@ ht-degree: 0%
    ![](assets/image2014-12-10-13-3a24-3a58.png)
 
 1. 변경 작업을 수행하고 동기화를 다시 활성화합니다. 같은 버튼입니다.
-
