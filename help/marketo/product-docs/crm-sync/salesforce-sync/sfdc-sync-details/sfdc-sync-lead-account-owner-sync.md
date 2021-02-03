@@ -3,7 +3,7 @@ unique-page-id: 2953463
 description: SFDC 동기화 - 리드/계정 소유자 동기화 - 마케팅 문서 - 제품 설명서
 title: SFDC 동기화 - 리드/계정 소유자 동기화
 translation-type: tm+mt
-source-git-commit: 96cc6a30c63c8e8dca793a52e4bf7ecaef8c08dc
+source-git-commit: ed83438ae5660d172e845f25c4d72d599574bd91
 workflow-type: tm+mt
 source-wordcount: '213'
 ht-degree: 0%
@@ -33,11 +33,11 @@ Marketing To에 동기화된 각 사용자에 대해 다음 소유자 필드도 
 
 ## Marketing To에서 리드 소유자를 변경할 수 있습니까?{#can-i-change-the-lead-owner-in-marketo}
 
-물론이죠. [소유자 변경](../../../../product-docs/core-marketo-concepts/smart-campaigns/salesforce-flow-actions/change-owner.md) 흐름 작업을 사용하십시오.
+물론이죠. [소유자 변경](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/salesforce-flow-actions/change-owner.md) 흐름 작업을 사용하십시오.
 
 >[!NOTE]
 >
->[개인 세부 정보 페이지 사용](../../../../product-docs/core-marketo-concepts/smart-lists-and-static-lists/managing-people-in-smart-lists/using-the-person-detail-page.md)을 사용하여 소유자 정보를 변경할 수 없습니다.
+>[개인 세부 정보 페이지 사용](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/managing-people-in-smart-lists/using-the-person-detail-page.md)을 사용하여 소유자 정보를 변경할 수 없습니다.
 
 ## 이 데이터로 수행할 수 있는 작업은 무엇입니까?{#what-can-i-do-with-this-data}
 
@@ -46,6 +46,6 @@ Marketing To에 동기화된 각 사용자에 대해 다음 소유자 필드도 
 * 판매 소유자로부터 서명이 있는 개인화된 이메일 전송
 * 마케팅 또는 효과를 분석할 때 특정 영업 담당자에게 필터링
 * Marketing To의 할당(및 재할당) 규칙
-* [소유자 변경](../../../../product-docs/core-marketo-concepts/smart-campaigns/salesforce-flow-actions/change-owner.md), [사람을 SFDC](../../../../product-docs/core-marketo-concepts/smart-campaigns/salesforce-flow-actions/sync-person-to-sfdc.md) 및 [작업 만들기](../../../../product-docs/core-marketo-concepts/smart-campaigns/salesforce-flow-actions/create-task.md) 흐름 작업에 사용합니다.
+* [소유자 변경](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/salesforce-flow-actions/change-owner.md), [사람을 SFDC](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/salesforce-flow-actions/sync-person-to-sfdc.md) 및 [작업 만들기](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/salesforce-flow-actions/create-task.md) 흐름 작업에 사용합니다.
 
 Marketing Cloud는 최적의 Salesforce 동기화를 보장합니다. 다른 누구도 그렇게 잘하지 못하잖아!
