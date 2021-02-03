@@ -3,9 +3,9 @@ unique-page-id: 2359610
 description: 양식 글꼴 크기 변경 - 마케팅 문서 - 제품 설명서
 title: 양식 글꼴 크기 변경
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: ed83438ae5660d172e845f25c4d72d599574bd91
 workflow-type: tm+mt
-source-wordcount: '120'
+source-wordcount: '119'
 ht-degree: 0%
 
 ---
@@ -19,19 +19,19 @@ Marketing Cloud를 사용하면 양식의 모양과 느낌을 사용자 요구�
 >
 >이 설정은 양식 레이블, 입력 텍스트 및 제출 단추 텍스트에 영향을 줍니다.
 
-1. **Marketing** **활동**&#x200B;으로 이동합니다.
+1. **마케팅 활동**&#x200B;으로 이동합니다.
 
    ![](assets/login-marketing-activities-1.png)
 
-1. 양식을 선택하고 **편집** **양식**&#x200B;을 클릭합니다.
+1. 양식을 선택하고 **양식 편집**&#x200B;을 클릭합니다.
 
    ![](assets/image2014-9-15-16-3a9-3a41.png)
 
-1. **양식** **설정**&#x200B;에서 **설정**&#x200B;을 선택합니다.
+1. **양식 설정**&#x200B;에서 **설정**&#x200B;을 선택합니다.
 
    ![](assets/image2014-9-15-16-3a9-3a56.png)
 
-1. 원하는 **글꼴** **크기**&#x200B;를 선택합니다.
+1. 원하는 **글꼴 크기**&#x200B;를 선택합니다.
 
    ![](assets/image2014-9-15-16-3a10-3a8.png)
 
@@ -48,9 +48,6 @@ Marketing Cloud를 사용하면 양식의 모양과 느낌을 사용자 요구�
    ![](assets/image2014-9-15-16-3a11-3a17.png)
 
    >[!NOTE]
-   >
-   >**미리 알림**
-   >
    >
    >양식 변경으로 만든 랜딩 페이지 초안을 승인해야 합니다.
 
