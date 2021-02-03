@@ -3,9 +3,9 @@ unique-page-id: 2949777
 description: LaunchPoint 이벤트 파트너 - 마케팅 문서 - 제품 설명서
 title: LaunchPoint 이벤트 파트너
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: ed83438ae5660d172e845f25c4d72d599574bd91
 workflow-type: tm+mt
-source-wordcount: '94'
+source-wordcount: '89'
 ht-degree: 1%
 
 ---
@@ -22,9 +22,8 @@ LaunchPoint 이벤트 파트너에 Marketing을 연결하여 온라인 이벤트
 
 온라인 마케팅 이벤트를 LaunchPoint 이벤트 파트너와 통합하는 방법을 참조하십시오.
 
-* [WebEx](../../../../product-docs/demand-generation/events/create-an-event/create-an-event-with-webex.md)
-* [Adobe Connect](../../../../product-docs/demand-generation/events/create-an-event/create-an-event-with-adobe-connect.md)
-* [ON24](http://docs.marketo.com/pages/viewpage.action?pageid=2949868)
-* [ReadyTalk](../../../../product-docs/demand-generation/events/create-an-event/create-an-event-with-readytalk.md)
-* [웨비나로 이동](../../../../product-docs/demand-generation/events/create-an-event/create-an-event-with-gotowebinar.md)
-
+* [WebEx](/help/marketo/product-docs/demand-generation/events/create-an-event/create-an-event-with-webex.md)
+* [Adobe Connect](/help/marketo/product-docs/demand-generation/events/create-an-event/create-an-event-with-adobe-connect.md)
+* [ON24](/help/marketo/product-docs/demand-generation/events/create-an-event/create-an-event-with-the-marketo-on24-adapter/create-your-webinar-event-in-on24.md)
+* [ReadyTalk](/help/marketo/product-docs/demand-generation/events/create-an-event/create-an-event-with-readytalk.md)
+* [웨비나로 이동](/help/marketo/product-docs/demand-generation/events/create-an-event/create-an-event-with-gotowebinar.md)
