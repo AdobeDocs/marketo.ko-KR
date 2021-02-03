@@ -3,9 +3,9 @@ unique-page-id: 2359663
 description: 숨겨진 양식 필드 값 설정 - 마케팅 문서 - 제품 설명서
 title: 숨겨진 양식 필드 값 설정
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: ed83438ae5660d172e845f25c4d72d599574bd91
 workflow-type: tm+mt
-source-wordcount: '322'
+source-wordcount: '306'
 ht-degree: 0%
 
 ---
@@ -17,7 +17,7 @@ ht-degree: 0%
 
 >[!PREREQUISITES]
 >
->[양식 필드를 숨김으로 설정](set-a-form-field-as-hidden.md)
+>[양식 필드를 숨김으로 설정](/help/marketo/product-docs/demand-generation/forms/form-fields/set-a-form-field-as-hidden.md)
 
 ## {#select-the-field} 필드를 선택합니다.
 
@@ -33,11 +33,11 @@ ht-degree: 0%
 
 ## URL 매개 변수 {#url-parameter}
 
-양식을 채울 때 참석자가 있는 페이지에서 URL 매개 변수(쿼리 문자열)를 캡처하려면 **URL** **Parameters**&#x200B;를 사용하여 숨김 필드를 채울 수 있습니다.
+양식을 채울 때 참석자가 있는 페이지에서 URL 매개 변수(쿼리 문자열)를 캡처하려면 **URL 매개 변수**&#x200B;를 사용하여 숨김 필드를 채울 수 있습니다.
 
 >[!NOTE]
 >
->매개 변수는 좀 기술적이죠? 하지만 일단 그것들을 얻으면, 그것들은 강력합니다. 이 [쿼리 문자열](http://en.wikipedia.org/wiki/Query_string)의 Wikipedia 페이지가 다소 유용합니다.
+>매개 변수는 좀 기술적이죠? 하지만 일단 그것들을 얻으면, 그것들은 강력합니다. 이 [쿼리 문자열](https://en.wikipedia.org/wiki/Query_string)의 Wikipedia 페이지가 다소 유용합니다.
 
 1. **값 유형 가져오기**&#x200B;에 대해 **URL 매개 변수**&#x200B;를 선택합니다.
 
@@ -53,9 +53,9 @@ ht-degree: 0%
 
 ## 쿠키 값 {#cookie-value}
 
-쿠키에 데이터를 저장하는 경우 양식을 제출할 때 **쿠키** **값**&#x200B;을 사용하여 데이터를 선택할 수 있습니다.
+쿠키에 데이터를 저장하는 경우 양식을 제출할 때 **쿠키 값**&#x200B;을 사용하여 데이터를 수집할 수 있습니다.
 
-1. **Get** **** **From**&#x200B;에 대해 **쿠키** **값**&#x200B;을 선택합니다.
+1. **Get Value From**&#x200B;에 대해 **쿠키 값**&#x200B;을 선택합니다.
 
    ![](assets/image2014-9-15-13-3a8-3a21.png)
 
@@ -69,9 +69,9 @@ ht-degree: 0%
 
 ## 레퍼러 매개 변수 {#referrer-parameter}
 
-양식을 작성하기 전에 방문자가 가져온 페이지에서 데이터를 캡처하려면 **레퍼러** **매개 변수**&#x200B;를 사용할 수 있습니다.
+양식을 작성하기 전에 방문자가 가져온 페이지에서 데이터를 캡처하려면 **레퍼러 매개 변수**&#x200B;를 사용할 수 있습니다.
 
-1. **Get** **Value** **From** Referrer **** Parameter **로 설정합니다.**
+1. **Get Value From**&#x200B;을 **레퍼러 매개 변수**&#x200B;로 설정합니다.
 
    ![](assets/image2014-9-15-13-3a9-3a31.png)
 
@@ -81,7 +81,7 @@ ht-degree: 0%
 
    >[!TIP]
    >
-   >레퍼러 매개 변수를 찾을 수 없는 경우 **기본값** **값**&#x200B;을 입력할 수 있습니다.
+   >레퍼러 매개 변수를 찾을 수 없는 경우 **기본값**&#x200B;을 입력할 수 있습니다.
 
 1. **완료**&#x200B;를 클릭합니다.
 
@@ -90,5 +90,3 @@ ht-degree: 0%
 1. **승인 및 닫기**&#x200B;를 클릭합니다.
 
    ![](assets/image2014-9-15-13-3a10-3a43.png)
-
-달콤해! 아주 잘하고 있어 [양식](http://docs.marketo.com/display/docs/forms)에 대해 자세히 알아보십시오.
