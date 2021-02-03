@@ -3,9 +3,9 @@ unique-page-id: 11383953
 description: Facebook 오프라인 전환 설정 - 마케팅 문서 - 제품 설명서
 title: Facebook 오프라인 전환 설정
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: ed83438ae5660d172e845f25c4d72d599574bd91
 workflow-type: tm+mt
-source-wordcount: '340'
+source-wordcount: '331'
 ht-degree: 0%
 
 ---
@@ -17,11 +17,8 @@ ht-degree: 0%
 
 >[!PREREQUISITES]
 >
->* [Facebook 리드 광고](set-up-facebook-lead-ads.md)를 설정해야 합니다.
->* [매출 주기 모델](http://docs.marketo.com/display/docs/revenue+cycle+models)에 승인된 모델이 있어야 합니다.
-
->
-
+>* [Facebook 리드 광고](/help/marketo/product-docs/demand-generation/facebook/set-up-facebook-lead-ads.md)를 설정해야 합니다.
+>* [매출 주기 모델](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-cycle-models/understanding-revenue-models.md)에 승인된 모델이 있어야 합니다.
 
 
 ## 관리 구성 {#admin-configuration}
@@ -34,7 +31,7 @@ ht-degree: 0%
 
    >[!NOTE]
    >
-   >아직 수행하지 않은 경우 계속 진행하여 [Facebook 리드 광고 설정](set-up-facebook-lead-ads.md)을 선택한 다음 여기로 다시 오세요.
+   >아직 수행하지 않은 경우 계속 진행하여 [Facebook 리드 광고 설정](/help/marketo/product-docs/demand-generation/facebook/set-up-facebook-lead-ads.md)을 선택한 다음 여기로 다시 오세요.
 
    ![](assets/image2016-11-29-13-3a10-3a43.png)
 
@@ -72,18 +69,16 @@ ht-degree: 0%
    >
    >현재 매출액 주기 단계를 매핑할 수 있는 Facebook 이벤트가 10개 있습니다.
    >
-   >    
-   >    
-   >    * 결제 정보 추가
-   >    * 장바구니에 추가
-   >    * 위시 목록에 추가
-   >    * 등록 완료
-   >    * 시작된 체크아웃
-   >    * Person
-   >    * 기타
-   >    * 구매
-   >    * 검색
-   >    * 콘텐츠 보기
+   >* 결제 정보 추가
+   >* 장바구니에 추가
+   >* 위시 목록에 추가
+   >* 등록 완료
+   >* 시작된 체크아웃
+   >* Person
+   >* 기타
+   >* 구매
+   >* 검색
+   >* 콘텐츠 보기
 
 
 1. 매핑할 단계를 선택한 다음 **Facebook 전환** 드롭다운에서 매핑할 Facebook 이벤트를 선택합니다. Facebook의 오프라인 전환 단계에 RCM의 모든 단계를 매핑하려면 이 단계를 반복합니다.
@@ -108,13 +103,6 @@ ht-degree: 0%
    >
    >오프라인 전환 데이터는 Marketing에서 Facebook으로 매일 여러 번 전송됩니다.
 
->[!NOTE]
+>[!MORELIKETHIS]
 >
->**관련 문서**
->
->* [Facebook 오프라인 전환 이해](understanding-facebook-offline-conversions.md)
-
->
-
-
-
+>[Facebook 오프라인 전환 이해](/help/marketo/product-docs/demand-generation/facebook/understanding-facebook-offline-conversions.md)
