@@ -3,9 +3,9 @@ unique-page-id: 10096673
 description: 웨비나와 이벤트 설정 구성 및 마케팅 동기화 - Marketing To Docs - 제품 설명서
 title: 웨비나와 이벤트 설정 구성 및 마케팅 동기화
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: ed83438ae5660d172e845f25c4d72d599574bd91
 workflow-type: tm+mt
-source-wordcount: '234'
+source-wordcount: '228'
 ht-degree: 0%
 
 ---
@@ -53,16 +53,8 @@ ON24 웨비나와 연결된 이벤트를 설정하면 이벤트 일정이 ON24�
    >
    >ON24에서 이벤트 정보를 업데이트하는 경우 [이벤트 작업] 메뉴에서 **웨비나 공급자에서 새로 고침**&#x200B;을 클릭하여 새 데이터가 채워지는 것을 확인해야 합니다.
 
-   [하위 캠페인 및 로컬 자산 만들기](create-child-campaigns-and-local-assets.md)
-
-이제 다음 단계로 이동할 수 있습니다..
+이제 다음 단계로 이동할 수 있습니다.[하위 캠페인 만들기 및 로컬 자산](/help/marketo/product-docs/demand-generation/events/create-an-event/create-an-event-with-the-marketo-on24-adapter/create-child-campaigns-and-local-assets.md).
 
 >[!MORELIKETHIS]
 >
->* [Marketing To On24 어댑터 이벤트 이해](understanding-marketo-on24-adapter-events.md)
->* [하위 캠페인 및 로컬 자산 만들기](create-child-campaigns-and-local-assets.md)
-
->
-
-
-
+>[Marketing To On24 어댑터 이벤트 이해](/help/marketo/product-docs/demand-generation/events/create-an-event/create-an-event-with-the-marketo-on24-adapter/understanding-marketo-on24-adapter-events.md)
