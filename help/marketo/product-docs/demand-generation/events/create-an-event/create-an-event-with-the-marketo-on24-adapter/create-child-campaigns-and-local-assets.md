@@ -3,9 +3,9 @@ unique-page-id: 10096675
 description: 하위 캠페인 및 로컬 자산 만들기 - 마케팅 문서 - 제품 설명서
 title: 하위 캠페인 및 로컬 자산 만들기
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: ed83438ae5660d172e845f25c4d72d599574bd91
 workflow-type: tm+mt
-source-wordcount: '673'
+source-wordcount: '667'
 ht-degree: 0%
 
 ---
@@ -44,15 +44,13 @@ Marketing을 사용하여 이벤트에 대한 확인 이메일을 보냅니다. 
 
 >[!NOTE]
 >
->**미리 알림**
->
 >확인 이메일을 이 고유 URL로 채우려면 이메일에 다음 토큰을 사용하십시오.`{{member.webinar url}}`. 확인 URL을 전송하면 이 토큰은 사용자의 고유 확인 URL로 자동 확인됩니다.
 >
 >확인 전자 메일 유형을 **운영**&#x200B;으로 설정하여 등록하는 사람이 구독을 취소하더라도 확인 정보를 수신하도록 합니다.
 
 >[!TIP]
 >
->확인, 미리 알림 또는 후속 이메일을 전송하도록 ON24를 구성할 수 있습니다. 자세한 내용은 [ON24 도움말 사이트](http://webcastelitehelp.on24.com)를 참조하십시오.
+>확인, 미리 알림 또는 후속 이메일을 전송하도록 ON24를 구성할 수 있습니다. 자세한 내용은 [ON24 도움말 사이트](https://webcastelitehelp.on24.com)를 참조하십시오.
 
 ## 등록 하위 캠페인 요구 사항 {#registration-child-campaign-requirements}
 
@@ -97,16 +95,11 @@ Marketing을 사용하여 이벤트에 대한 확인 이메일을 보냅니다. 
 >
 >등록 오류가 발생하면 확인 이메일을 받지 못합니다.
 
-다음 단계는 [ON24 이벤트 통합 테스트](test-your-on24-event-integration.md)입니다.
+다음 단계는 [ON24 이벤트 통합 테스트](/help/marketo/product-docs/demand-generation/events/create-an-event/create-an-event-with-the-marketo-on24-adapter/test-your-on24-event-integration.md)입니다.
 
 >[!MORELIKETHIS]
 >
->* [Marketing ON24 어댑터 이벤트 이해](understanding-marketo-on24-adapter-events.md)
->* [ON24 이벤트 통합 예](example-on24-event-integration.md)
->* [웨비나 프로그램 상태 이해](understanding-webinar-program-statuses.md)
->* [ON24 이벤트 통합 테스트](test-your-on24-event-integration.md)
-
->
-
-
+>* [Marketing ON24 어댑터 이벤트 이해](/help/marketo/product-docs/demand-generation/events/create-an-event/create-an-event-with-the-marketo-on24-adapter/understanding-marketo-on24-adapter-events.md)
+>* [ON24 이벤트 통합 예](/help/marketo/product-docs/demand-generation/events/create-an-event/create-an-event-with-the-marketo-on24-adapter/example-on24-event-integration.md)
+>* [웨비나 프로그램 상태 이해](/help/marketo/product-docs/demand-generation/events/create-an-event/create-an-event-with-the-marketo-on24-adapter/understanding-webinar-program-statuses.md)
 
