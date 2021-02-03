@@ -3,7 +3,7 @@ unique-page-id: 4719312
 description: 선택 목록 값 추가/제거 - 마케팅 문서 - 제품 설명서
 title: 선택 목록 값 추가/제거
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: ed83438ae5660d172e845f25c4d72d599574bd91
 workflow-type: tm+mt
 source-wordcount: '227'
 ht-degree: 0%
@@ -17,11 +17,11 @@ ht-degree: 0%
 
 ## 선택 목록 값 추가 {#adding-picklist-values}
 
-1. Salesforce에서 선택 목록 필드 유형에 추가 값이 추가되면 이 양식이 영향을 받을 양식을 식별하는 [알림](../../../product-docs/core-marketo-concepts/miscellaneous/understanding-notifications.md)을 받게 됩니다.
+1. Salesforce에서 선택 목록 필드 유형에 추가 값이 추가되면 이 양식이 영향을 받을 양식을 식별하는 [알림](/help/marketo/product-docs/core-marketo-concepts/miscellaneous/understanding-notifications.md)을 받게 됩니다.
 
    ![](assets/image2015-1-21-14-3a4-3a7.png)
 
-1. 양식 편집기로 이동하고 [추가 값](../../../product-docs/demand-generation/forms/form-actions/add-a-country-picklist-to-your-form.md)을 제안 목록에 추가합니다.
+1. 양식 편집기로 이동하고 [추가 값](/help/marketo/product-docs/demand-generation/forms/form-actions/add-a-country-picklist-to-your-form.md)을 제안 목록에 추가합니다.
 
 ## 선택 목록 값 제거 {#remove-picklist-values}
 
