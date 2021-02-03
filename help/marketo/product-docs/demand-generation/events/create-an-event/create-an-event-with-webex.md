@@ -3,9 +3,9 @@ unique-page-id: 2949863
 description: WebEx - Marketing To Docs - 제품 설명서로 이벤트 만들기
 title: WebEx를 사용하여 이벤트 만들기
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: ed83438ae5660d172e845f25c4d72d599574bd91
 workflow-type: tm+mt
-source-wordcount: '940'
+source-wordcount: '927'
 ht-degree: 0%
 
 ---
@@ -17,10 +17,10 @@ ht-degree: 0%
 >
 >* [WebEx를 LaunchPoint 서비스로 추가](/help/marketo/product-docs/administration/additional-integrations/add-webex-as-a-launchpoint-service.md)
 >* [새 이벤트 프로그램 만들기](/help/marketo/product-docs/demand-generation/events/understanding-events/create-a-new-event-program.md)
->* 적절한 [흐름 작업](http://docs.marketo.com/display/DOCS/Flow+Actions)을 설정하여 참여를 추적합니다.
+>* 적절한 [흐름 작업](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/add-a-flow-step-to-a-smart-campaign.md)을 설정하여 참여를 추적합니다.
 
 
-먼저 WebEx 이벤트 센터에서 Webex 이벤트를 만듭니다. Marketing Cloud에서는 통합에 대해 특정 설정과 필드만 사용하며, 곧 살펴보겠습니다. WebEx에 대해 구성할 수 있는 다른 필드는 [WebEx 이벤트 센터 사용자 안내서](http://www.cisco.com/c/dam/en/us/td/docs/collaboration/meeting_center/wbs298/wx_ec_host_ug.pdf)에 설명되어 있습니다.
+먼저 WebEx 이벤트 센터에서 Webex 이벤트를 만듭니다. Marketing Cloud에서는 통합에 대해 특정 설정과 필드만 사용하며, 곧 살펴보겠습니다. WebEx에 대해 구성할 수 있는 다른 필드는 [WebEx 이벤트 센터 사용자 안내서](https://www.cisco.com/c/dam/en/us/td/docs/collaboration/meeting_center/wbs298/wx_ec_host_ug.pdf)에 설명되어 있습니다.
 
 ## 기본 정보 {#basic-information}
 
@@ -140,7 +140,7 @@ Marketing Cloud를 사용하여 등록자에게 이메일, 확인 이메일 등�
 
 ## 일정 {#viewing-the-schedule} 보기
 
-[프로그램 예약 보기](http://docs.marketo.com/display/docs/program+schedule+view)에서 이벤트의 달력 항목을 클릭합니다. 화면 오른쪽에는 일정이 보입니다
+프로그램 예약 보기에서 이벤트의 달력 항목을 클릭합니다. 화면 오른쪽에는 일정이 보입니다
 
 ![](assets/image2015-5-14-16-3a21-3a41.png)
 
