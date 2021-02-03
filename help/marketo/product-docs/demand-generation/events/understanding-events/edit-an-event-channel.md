@@ -3,9 +3,9 @@ unique-page-id: 2949857
 description: 이벤트 채널 편집 - 마케팅 문서 - 제품 설명서
 title: 이벤트 채널 편집
 translation-type: tm+mt
-source-git-commit: 1a29614ec938074902af201b2ffc11cfaa625f7a
+source-git-commit: ed83438ae5660d172e845f25c4d72d599574bd91
 workflow-type: tm+mt
-source-wordcount: '194'
+source-wordcount: '186'
 ht-degree: 0%
 
 ---
@@ -21,7 +21,7 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->프로그램은 특정 마케팅 이니셔티브입니다. **channel**&#x200B;은 웨비나, 무역 박람회 또는 온라인 광고와 같은 전달 메커니즘이 되기 위한 것입니다. 자신의 인스턴스에서 사용 가능한 항목에 따라 드롭다운에 다른 채널 옵션이 표시될 수 있습니다. [고유한 채널을 만들 수도 있습니다.](http://docs.marketo.com/display/DOCS/Create+a+Program+Channel)
+>프로그램은 특정 마케팅 이니셔티브입니다. **channel**&#x200B;은 웨비나, 무역 박람회 또는 온라인 광고와 같은 전달 메커니즘이 되기 위한 것입니다. 자신의 인스턴스에서 사용 가능한 항목에 따라 드롭다운에 다른 채널 옵션이 표시될 수 있습니다. [고유한 채널](/help/marketo/product-docs/administration/tags/create-a-program-channel.md)을 만들 수도 있습니다.
 
 ## 요약 탭에서 {#from-the-summary-tab}
 
@@ -61,7 +61,7 @@ ht-degree: 0%
 
    ![](assets/tradeshowchange.png)
 
-1. **저장을 클릭합니다.**
+1. **저장**&#x200B;을 클릭합니다.
 
    ![](assets/2017-06-13-09-35-53.png)
 
