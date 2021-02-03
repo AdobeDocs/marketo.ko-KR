@@ -3,9 +3,9 @@ unique-page-id: 2359578
 description: 양식 승인 - 마케팅 문서 - 제품 설명서
 title: 양식 승인
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: ed83438ae5660d172e845f25c4d72d599574bd91
 workflow-type: tm+mt
-source-wordcount: '152'
+source-wordcount: '151'
 ht-degree: 0%
 
 ---
@@ -19,7 +19,7 @@ ht-degree: 0%
 
 바로 사용할 수 있는 기존 양식을 승인하는 방법을 설명합니다.
 
-1. **Marketing** **활동**&#x200B;으로 이동합니다.
+1. **마케팅 활동**&#x200B;으로 이동합니다.
 
    ![](assets/login-marketing-activities-7.png)
 
@@ -35,7 +35,7 @@ ht-degree: 0%
 
    ![](assets/image2014-9-15-17-3a50-3a2.png)
 
-   승인되었으며 랜딩 페이지](../../../../product-docs/demand-generation/landing-pages/understanding-landing-pages/approve-unapprove-or-delete-a-landing-page.md)에 [추가할 준비가 되었습니다.
+   승인되었으며 랜딩 페이지](/help/marketo/product-docs/demand-generation/landing-pages/understanding-landing-pages/approve-unapprove-or-delete-a-landing-page.md)에 [추가할 준비가 되었습니다.
 
    >[!NOTE]
    >
@@ -47,10 +47,7 @@ ht-degree: 0%
 
 >[!PREREQUISITES]
 >
->* [양식 편집](../../../../product-docs/demand-generation/forms/form-actions/edit-a-form.md)
-
->
-
+>* [양식 편집](/help/marketo/product-docs/demand-generation/forms/form-actions/edit-a-form.md)
 
 
 1. **완료**&#x200B;를 클릭합니다.
@@ -63,8 +60,6 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->**미리 알림**
->
->양식을 승인하고 편집한 경우 [랜딩 페이지](../../../../product-docs/demand-generation/landing-pages/understanding-landing-pages/approve-unapprove-or-delete-a-landing-page.md)에 대한 승인을 통해 변경 사항을 확인합니다.
+>양식을 승인하고 편집한 경우 [랜딩 페이지](/help/marketo/product-docs/demand-generation/landing-pages/understanding-landing-pages/approve-unapprove-or-delete-a-landing-page.md)에 대한 승인을 통해 변경 사항을 확인합니다.
 
 바로 그거야! 간편하게
