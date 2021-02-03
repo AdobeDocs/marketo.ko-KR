@@ -3,7 +3,7 @@ unique-page-id: 2953459
 description: SFDC 동기화 - 계정 동기화 - Marketing To Docs - 제품 설명서
 title: SFDC 동기화 - 계정 동기화
 translation-type: tm+mt
-source-git-commit: 96cc6a30c63c8e8dca793a52e4bf7ecaef8c08dc
+source-git-commit: ed83438ae5660d172e845f25c4d72d599574bd91
 workflow-type: tm+mt
 source-wordcount: '225'
 ht-degree: 0%
@@ -29,7 +29,7 @@ Marketing에서 연락처에 대한 계정 필드를 업데이트하면 Marketin
 
 ## Marketing To에서 계정을 만들 수 있습니까?{#can-i-create-accounts-from-marketo}
 
-대부분 아닙니다. 그러나 한 사람에게 [사람 전환](../../../../product-docs/core-marketo-concepts/smart-campaigns/flow-actions/convert-person.md) 흐름 단계를 사용하는 경우 새 연락처, 새 계정 및 새 기회가 만들어집니다.
+대부분 아닙니다. 그러나 한 사람에게 [사람 전환](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/convert-person.md) 흐름 단계를 사용하는 경우 새 연락처, 새 계정 및 새 기회가 만들어집니다.
 
 >[!CAUTION]
 >
