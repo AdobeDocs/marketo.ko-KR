@@ -3,7 +3,7 @@ unique-page-id: 2949865
 description: Adobe Connect - Marketing To Docs - 제품 설명서를 사용하여 이벤트 만들기
 title: Adobe Connect으로 이벤트 만들기
 translation-type: tm+mt
-source-git-commit: c8a77dc84c023e05fbb442f575269aac108ffb29
+source-git-commit: ed83438ae5660d172e845f25c4d72d599574bd91
 workflow-type: tm+mt
 source-wordcount: '399'
 ht-degree: 0%
@@ -71,8 +71,8 @@ Adobe Connect과 동기화하면 Marketing Cloud 내의 웨비나 등록 및 참
 
    >[!MORELIKETHIS]
    >
-   > * [LaunchPoint 서비스로 Adobe Connect 추가](../../../../product-docs/administration/additional-integrations/add-adobe-connect-as-a-launchpoint-service.md)
-   > * [이벤트 채널 편집](../../../../product-docs/demand-generation/events/understanding-events/edit-an-event-channel.md)
+   > * [LaunchPoint 서비스로 Adobe Connect 추가](/help/marketo/product-docs/administration/additional-integrations/add-adobe-connect-as-a-launchpoint-service.md)
+   > * [이벤트 채널 편집](/help/marketo/product-docs/demand-generation/events/understanding-events/edit-an-event-channel.md)
 
 
 새 상태가 &quot;등록됨&quot;으로 설정된 경우 웨비나에 등록한 사람은 프로그램 상태 변경 흐름 단계를 통해 웨비나 제공자에게 푸시됩니다. 다른 신분은 그 사람을 밀어붙일 수 없다. 또한 프로그램 상태 변경 플로우 단계 #1 및 이메일 흐름 보내기 단계를 #2.
