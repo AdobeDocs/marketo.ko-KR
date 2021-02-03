@@ -3,9 +3,9 @@ unique-page-id: 4720275
 description: Facebook에서 사용자 지정 대상 만들기 - 마케팅 문서 - 제품 설명서
 title: Facebook에서 사용자 지정 대상자 만들기
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: ed83438ae5660d172e845f25c4d72d599574bd91
 workflow-type: tm+mt
-source-wordcount: '279'
+source-wordcount: '277'
 ht-degree: 0%
 
 ---
@@ -15,7 +15,7 @@ ht-degree: 0%
 
 >[!PREREQUISITES]
 >
->* [관리 섹션에서 Facebook 사용자 지정 대상을 ](../../../product-docs/demand-generation/ad-network-integrations/add-facebook-custom-audiences-as-a-launchpoint-service.md) LaunchPoint 서비스로 추가합니다.
+>* [관리 섹션에서 Facebook 사용자 지정 대상을 ](/help/marketo/product-docs/demand-generation/ad-network-integrations/add-facebook-custom-audiences-as-a-launchpoint-service.md) LaunchPoint 서비스로 추가합니다.
 >* [Facebook 계정 내에서 Facebook의 사용자 지정 ](https://www.facebook.com/ads/manage/customaudiences/tos.php) 대상자 약관을 수락합니다.
 
 >
@@ -24,17 +24,17 @@ ht-degree: 0%
 
 >[!TIP]
 >
->Facebook[의 사용자 지정 대상에 대해 자세히 알아보십시오.](https://www.facebook.com/help/341425252616329)
+>Facebook](https://www.facebook.com/help/341425252616329)의 사용자 지정 대상에 대해 자세히 알아보십시오.[
 
 1. 대상을 만들 리드가 포함된 스마트 또는 정적 목록을 찾아 선택합니다.
 
    ![](assets/1.png)
 
-1. **리드** 탭을 선택한 다음 맨 아래에 있는 **광고 브리지를 통해 전송 ** 아이콘을 클릭합니다.
+1. **리드** 탭을 선택한 다음 맨 아래에 있는 **광고 브리지를 통해 보내기** 아이콘을 클릭합니다.
 
    ![](assets/222.png)
 
-1. **Facebook **을 선택하고 **다음**&#x200B;을 클릭합니다.
+1. **Facebook**&#x200B;을 선택하고 **다음**&#x200B;을 클릭합니다.
 
    ![](assets/two.png)
 
@@ -72,10 +72,4 @@ ht-degree: 0%
 
    >[!NOTE]
    >
-   >**관련 문서**
-   >
-   >    
-   >    
-   >    * [Facebook에서 사용자 지정 대상자에 리드 추가](add-leads-to-a-custom-audience-in-facebook.md)
-
-
+   >[Facebook에서 사용자 지정 대상자에 리드 추가](/help/marketo/product-docs/demand-generation/facebook/add-leads-to-a-custom-audience-in-facebook.md)
