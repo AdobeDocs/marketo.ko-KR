@@ -3,9 +3,9 @@ unique-page-id: 2359644
 description: 알려진 사람의 사용자 지정 HTML 양식 표시 - Marketing To Docs - 제품 설명서
 title: 알려진 사람을 위한 사용자 지정 HTML 양식 표시
 translation-type: tm+mt
-source-git-commit: d7d6aee63144c472e02fe0221c4a164183d04dd4
+source-git-commit: ed83438ae5660d172e845f25c4d72d599574bd91
 workflow-type: tm+mt
-source-wordcount: '247'
+source-wordcount: '246'
 ht-degree: 0%
 
 ---
@@ -15,23 +15,23 @@ ht-degree: 0%
 
 방문자가 쿠키를 사용하는 경우(이전에 이메일 주소를 제공한 것으로 알려진 사람), 왜 양식을 신경 써야 합니까? 다운로드 버튼만 주세요. 방법
 
-1. **Marketing** **활동**&#x200B;으로 이동합니다.
+1. **마케팅 활동**&#x200B;으로 이동합니다.
 
    ![](assets/login-marketing-activities-5.png)
 
-1. **Marketing** **활동**&#x200B;에서 양식을 선택하고 **편집** **양식**&#x200B;을 클릭합니다.
+1. **마케팅 활동**&#x200B;에서 양식을 선택하고 **양식 편집**&#x200B;을 클릭합니다.
 
    ![](assets/image2014-9-15-12-3a24-3a6.png)
 
-1. **양식** **설정**&#x200B;에서 **설정**&#x200B;을 클릭합니다.
+1. **양식 설정**&#x200B;에서 **설정**&#x200B;을 클릭합니다.
 
    ![](assets/image2014-9-15-12-3a24-3a36.png)
 
-1. **알려진** **방문자, 표시**&#x200B;인 경우 설정:**사용자 지정** **HTML**&#x200B;에 연결할 수 있습니다.
+1. **알려진 방문자인 경우 표시**:을 **사용자 지정 HTML**&#x200B;에 추가합니다.
 
    ![](assets/image2014-9-15-12-3a24-3a59.png)
 
-1. ![—](assets/image2014-9-25-14-3a1-3a26.png)을 클릭하여 알려진 사람에게 표시될 **사용자 지정** **HTML**&#x200B;을 편집합니다.
+1. ![—](assets/image2014-9-25-14-3a1-3a26.png)을 클릭하여 알려진 사람에게 표시될 **사용자 지정 HTML**&#x200B;을 편집합니다.
 
    ![](assets/image2014-9-15-12-3a25-3a38.png)
 
@@ -66,15 +66,12 @@ ht-degree: 0%
 
    >[!NOTE]
    >
-   >**미리 알림**
-   >
-   >
-   >양식 변경에 의해 만들어진 랜딩 페이지 초안](../../../../product-docs/demand-generation/landing-pages/understanding-landing-pages/approve-unapprove-or-delete-a-landing-page.md)을 [승인해야 합니다.
+   >양식 변경에 의해 만들어진 랜딩 페이지 초안](/help/marketo/product-docs/demand-generation/landing-pages/understanding-landing-pages/approve-unapprove-or-delete-a-landing-page.md)을 [승인해야 합니다.
+
+   케이크 조각! 동일한 양식으로 다시 돌아왔을 때 어떤 모습을 보게 될지 살펴보십시오.
 
    ![](assets/image2014-9-15-12-3a28-3a12.png)
 
    >[!TIP]
    >
    >양식 후속 페이지를 파일의 URL로 설정하여 단추의 클릭을 자산에 지정할 수 있습니다.
-
-케이크 조각! 동일한 양식으로 다시 돌아왔을 때 어떤 모습을 보게 될지 살펴보십시오.
