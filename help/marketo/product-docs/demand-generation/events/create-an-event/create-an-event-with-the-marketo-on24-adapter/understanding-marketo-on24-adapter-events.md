@@ -3,7 +3,7 @@ unique-page-id: 10096658
 description: Marketing To On24 어댑터 이벤트 이해 - 마케팅 문서 - 제품 설명서
 title: Marketing To On24 어댑터 이벤트 이해
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: ed83438ae5660d172e845f25c4d72d599574bd91
 workflow-type: tm+mt
 source-wordcount: '141'
 ht-degree: 0%
@@ -23,13 +23,8 @@ ON24 어댑터가 모든 정보 전송을 수행합니다. Marketing 랜딩 페�
 
 ![](assets/image2015-12-16-11-3a26-3a29.png)
 
-시작할 준비가 되셨습니까? [ON24 어댑터](../../../../../product-docs/demand-generation/events/create-an-event/create-an-event-with-the-marketo-on24-adapter.md)로 이벤트를 만듭니다.
+시작할 준비가 되셨습니까? [ON24 어댑터](/help/marketo/product-docs/demand-generation/events/create-an-event/create-an-event-with-the-marketo-on24-adapter.md)로 이벤트를 만듭니다.
 
 >[!MORELIKETHIS]
 >
->* [Marketing ON24 어댑터로 이벤트 만들기](../../../../../product-docs/demand-generation/events/create-an-event/create-an-event-with-the-marketo-on24-adapter.md)
-
->
-
-
-
+>[Marketing ON24 어댑터로 이벤트 만들기](/help/marketo/product-docs/demand-generation/events/create-an-event/create-an-event-with-the-marketo-on24-adapter.md)
