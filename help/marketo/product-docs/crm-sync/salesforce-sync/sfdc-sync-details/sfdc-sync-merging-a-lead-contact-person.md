@@ -3,9 +3,9 @@ unique-page-id: 7515133
 description: SFDC 동기화 - 리드/담당자 병합 - 마케팅 문서 - 제품 설명서
 title: SFDC 동기화 - 리드/담당자 병합
 translation-type: tm+mt
-source-git-commit: d7d6aee63144c472e02fe0221c4a164183d04dd4
+source-git-commit: ed83438ae5660d172e845f25c4d72d599574bd91
 workflow-type: tm+mt
-source-wordcount: '193'
+source-wordcount: '190'
 ht-degree: 0%
 
 ---
@@ -22,8 +22,6 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->**예**
->
 >3개의 리드(사람)를 각각 10개의 점수로 병합하면 1개의 리드(사람)가 30점을 얻게 됩니다.
 
 * 충돌하는 필드 값은 &quot;우승 레코드&quot;에서 가져옵니다. (레코드 = 결과 리드 또는 연락처)
@@ -32,7 +30,4 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->**자세히 알아보기**
->
->[Marketing](../../../../product-docs/core-marketo-concepts/smart-lists-and-static-lists/managing-people-in-smart-lists/find-and-merge-duplicate-people.md)의 사람 병합에 대한 자세한 내용을 살펴보십시오.
-
+>[Marketing](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/managing-people-in-smart-lists/find-and-merge-duplicate-people.md)의 사람 병합에 대한 자세한 내용을 살펴보십시오.
