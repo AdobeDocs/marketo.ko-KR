@@ -3,7 +3,7 @@ unique-page-id: 2953457
 description: SFDC 동기화 - 연락처 동기화 - Marketing To Docs - 제품 설명서
 title: SFDC 동기화 - 연락처 동기화
 translation-type: tm+mt
-source-git-commit: d7d6aee63144c472e02fe0221c4a164183d04dd4
+source-git-commit: ed83438ae5660d172e845f25c4d72d599574bd91
 workflow-type: tm+mt
 source-wordcount: '235'
 ht-degree: 0%
@@ -25,7 +25,7 @@ Salesforce가 승리하게 하는 것이 좋습니다. 이런 종류의 데이�
 
 ## Marketing To에서 사람을 연락처로 전환할 수 있습니까?{#can-i-convert-a-person-into-a-contact-in-marketo}
 
-예. ** [Convert Person](../../../../product-docs/core-marketo-concepts/smart-campaigns/flow-actions/convert-person.md)** 흐름 작업을 사용하십시오.
+예, **[사람 변환](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/convert-person.md)** 흐름 작업을 사용하십시오.
 
 >[!CAUTION]
 >
@@ -33,7 +33,7 @@ Salesforce가 승리하게 하는 것이 좋습니다. 이런 종류의 데이�
 
 ## 수동으로 연락처 동기화를 강제 적용할 수 있습니까?{#can-i-manually-force-a-sync-of-a-contact}
 
-예. SFDC](../../../../product-docs/core-marketo-concepts/smart-campaigns/salesforce-flow-actions/sync-person-to-sfdc.md) **Flow 작업에 ** [사람 동기화 작업을 사용하면 실시간으로 동기화됩니다.
+예. **[SFDC에 사람 동기화](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/salesforce-flow-actions/sync-person-to-sfdc.md)** 흐름 작업을 사용하면 실시간으로 동기화됩니다.
 
 ## 모든 표준 필드가 Marketing To와 동기화됩니까?{#does-every-single-standard-field-sync-to-marketo}
 
