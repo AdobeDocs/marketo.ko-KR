@@ -3,7 +3,7 @@ unique-page-id: 2359398
 description: 양식 만들기 - 마케팅 문서 - 제품 설명서
 title: 양식 만들기
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: ed83438ae5660d172e845f25c4d72d599574bd91
 workflow-type: tm+mt
 source-wordcount: '128'
 ht-degree: 0%
@@ -17,9 +17,9 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->Marketing To가 [양식을 안전하게 유지하기 위해 수행하는 작업에 대해 알아봅니다](http://nation.marketo.com/t5/Product-Documents/Forms-Service-Enhancements/ta-p/303670#M1038).
+>Marketing To가 [양식을 안전하게 유지하기 위해 수행하는 작업에 대해 알아봅니다](https://nation.marketo.com/t5/Product-Documents/Forms-Service-Enhancements/ta-p/303670#M1038).
 
-1. **Marketing** **활동**&#x200B;으로 이동합니다.
+1. **마케팅 활동**&#x200B;으로 이동합니다.
 
    ![](assets/login-marketing-activities.png)
 
@@ -47,10 +47,6 @@ ht-degree: 0%
 
 >[!MORELIKETHIS]
 >
->* [양식 테마 선택](select-a-form-theme.md)
->* [양식에 필드 세트 추가](../../../../product-docs/demand-generation/forms/form-fields/add-a-fieldset-to-a-form.md)
-
->
-
-
+>* [양식 테마 선택](/help/marketo/product-docs/demand-generation/forms/creating-a-form/select-a-form-theme.md)
+>* [양식에 필드 세트 추가](/help/marketo/product-docs/demand-generation/forms/form-fields/add-a-fieldset-to-a-form.md)
 
