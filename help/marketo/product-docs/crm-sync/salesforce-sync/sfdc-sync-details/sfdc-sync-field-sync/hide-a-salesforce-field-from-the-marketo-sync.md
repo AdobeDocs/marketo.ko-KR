@@ -3,9 +3,9 @@ unique-page-id: 4719306
 description: Marketing To Sync - Marketing To Docs - 제품 문서에서 Salesforce 필드 숨기기
 title: Marketing To 동기화에서 Salesforce 필드 숨기기
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: ed83438ae5660d172e845f25c4d72d599574bd91
 workflow-type: tm+mt
-source-wordcount: '168'
+source-wordcount: '166'
 ht-degree: 0%
 
 ---
@@ -49,12 +49,6 @@ Salesforce의 모든 필드가 마케팅에 유용한 것은 아닙니다. 필�
 
    바로 그거야! 다음 동기화가 완료되면 Marketing To에서 이 필드가 더 이상 표시되지 않습니다.
 
-   >[!NOTE]
+   >[!MORELIKETHIS]
    >
-   >**관련 문서**
-   >
-   >    
-   >    
-   >    * [필드 숨기기 및 숨김 취소](../../../../../product-docs/administration/field-management/hide-and-unhide-a-field.md)
-
-
+   >[필드 숨기기 및 숨김 취소](/help/marketo/product-docs/administration/field-management/hide-and-unhide-a-field.md)
