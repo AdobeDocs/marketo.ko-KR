@@ -3,7 +3,7 @@ unique-page-id: 2359667
 description: 양식 필드에 입력 마스크 적용 - 마케팅 문서 - 제품 설명서
 title: 양식의 필드에 입력 마스크 적용
 translation-type: tm+mt
-source-git-commit: 00887ea53e395bea3a11fd28e0ac98b085ef6ed8
+source-git-commit: ed83438ae5660d172e845f25c4d72d599574bd91
 workflow-type: tm+mt
 source-wordcount: '185'
 ht-degree: 0%
@@ -15,15 +15,15 @@ ht-degree: 0%
 
 입력 마스크를 사용하여 방문자의 입력을 제한할 수 있습니다. 예를 들어 방문자가 특정 형식으로만 전화 번호를 입력할 수 있습니다.
 
-1. **Marketing** **활동**&#x200B;으로 이동합니다.
+1. **마케팅 활동**&#x200B;으로 이동합니다.
 
    ![](assets/login-marketing-activities-4.png)
 
-1. 양식을 선택하고 **편집** **양식**&#x200B;을 클릭합니다.
+1. 양식을 선택하고 **양식 편집**&#x200B;을 클릭합니다.
 
    ![](assets/image2014-9-15-13-3a40-3a44.png)
 
-1. 필드를 선택하고 **필드** **유형**&#x200B;이 **텍스트**&#x200B;로 설정되어 있는지 확인합니다.
+1. 필드를 선택하고 **필드 유형**&#x200B;이 **텍스트**&#x200B;으로 설정되어 있는지 확인합니다.
 
    >[!NOTE]
    >
@@ -31,7 +31,7 @@ ht-degree: 0%
 
    ![](assets/image2014-9-15-13-3a40-3a53.png)
 
-1. **마스크** **입력** 링크를 클릭합니다.
+1. **마스크 입력** 링크를 클릭합니다.
 
    ![](assets/image2014-9-15-13-3a41-3a3.png)
 
