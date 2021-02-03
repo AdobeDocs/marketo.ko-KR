@@ -3,7 +3,7 @@ unique-page-id: 7516241
 description: SFDC 동기화 - 리드 큐 - 마케팅 문서 - 제품 설명서
 title: SFDC 동기화 - 리드 큐
 translation-type: tm+mt
-source-git-commit: d7d6aee63144c472e02fe0221c4a164183d04dd4
+source-git-commit: ed83438ae5660d172e845f25c4d72d599574bd91
 workflow-type: tm+mt
 source-wordcount: '139'
 ht-degree: 0%
@@ -19,8 +19,8 @@ Marketing에서는 리드 배포에 도움이 되도록 [Salesforce 리드 큐](
 
 다음 흐름 작업 중 하나를 사용하여 Salesforce 리드 큐에 사람을 할당할 수 있습니다.
 
-* [SFDC에 사람 동기화](../../../../product-docs/core-marketo-concepts/smart-campaigns/salesforce-flow-actions/sync-person-to-sfdc.md)
-* [소유자 변경](../../../../product-docs/core-marketo-concepts/smart-campaigns/salesforce-flow-actions/change-owner.md)
+* [SFDC에 사람 동기화](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/salesforce-flow-actions/sync-person-to-sfdc.md)
+* [소유자 변경](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/salesforce-flow-actions/change-owner.md)
 
 >[!NOTE]
 >
@@ -35,4 +35,3 @@ Marketing에서는 리드 배포에 도움이 되도록 [Salesforce 리드 큐](
 * 영업 소유자 제목
 * 판매 소유자 전화 번호
 * 판매 소유자 이메일 주소
-
