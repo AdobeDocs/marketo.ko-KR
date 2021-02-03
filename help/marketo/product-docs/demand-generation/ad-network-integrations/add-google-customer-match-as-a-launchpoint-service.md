@@ -3,7 +3,7 @@ unique-page-id: 12980661
 description: Google 고객 일치를 LaunchPoint 서비스로 추가 - Marketing To Docs - 제품 설명서
 title: Google 고객 일치를 LaunchPoint 서비스로 추가
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: ed83438ae5660d172e845f25c4d72d599574bd91
 workflow-type: tm+mt
 source-wordcount: '170'
 ht-degree: 0%
@@ -27,11 +27,11 @@ ht-degree: 0%
 
    ![](assets/image2014-12-5-14-3a35-3a27.png)
 
-1. **새로 만들기** 새 서비스** 선택합니다**.
+1. **새로 만들기**&#x200B;새 서비스&#x200B;**를 선택합니다.**
 
    ![](assets/image2014-12-5-14-3a37-3a33.png)
 
-1. **표시 이름 **을 입력하고**&#x200B;서비스&#x200B;**드롭다운에서** Google 고객 일치 **를 선택합니다. **만들기**&#x200B;를 클릭합니다.
+1. **표시 이름**&#x200B;을 입력하고 **서비스** 드롭다운에서 **Google 고객 일치**&#x200B;를 선택합니다. **만들기**&#x200B;를 클릭합니다.
 
    ![](assets/chooseservice.png)
 
@@ -43,7 +43,7 @@ ht-degree: 0%
 
    >[!CAUTION]
    >
-   >Marketing이 여러 AdWords 계정에 대상을 전송하려면 다음 단계에서 승인하는 Google 사용자는 이러한 계정의 *모두*&#x200B;에 액세스할 수 있어야 합니다.
+   >Marketing이 여러 AdWords 계정에 대상을 전송하려면 다음 단계에서 승인하는 Google 사용자는 이러한 계정의 _모두_&#x200B;에 액세스할 수 있어야 합니다.
 
    ![](assets/chooseaccount.png)
 
@@ -56,4 +56,3 @@ ht-degree: 0%
    ![](assets/authorizesuccess.png)
 
    굉장해! 이제 설치된 서비스 탭에 Google Matched Audiences가 LaunchPoint 서비스로 나열된 것을 볼 수 있습니다.
-
