@@ -3,7 +3,7 @@ unique-page-id: 10098238
 description: LinkedIn 소셜 양식 채우기 FAQ - 마케팅 문서 - 제품 설명서
 title: LinkedIn 소셜 양식 채우기 FAQ
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: ed83438ae5660d172e845f25c4d72d599574bd91
 workflow-type: tm+mt
 source-wordcount: '558'
 ht-degree: 0%
@@ -17,7 +17,7 @@ LinkedIn의 수정된 API 정책을 사용하려면 제품에서 LinkedIn 소셜
 
 ## {#important-things-to-know}을(를) 알아야 할 중요 사항
 
-* 2016년 4월 28일 현재 LinkedIn 소셜 양식 채우기 단추가 더 이상 Marketing에 추가되는 옵션이 아닙니다
+* LinkedIn 소셜 양식 채우기 단추가 2016년 4월 28일에 Marketing에 다시 추가하는 옵션이 더 이상 아닙니다.
 
 * 활성화한 모든 양식에서 LinkedIn 소셜 양식 채우기 단추를 제거했습니다
 
