@@ -3,7 +3,7 @@ unique-page-id: 11379622
 description: Facebook 리드 광고 설정 - 마케팅 문서 - 제품 설명서
 title: Facebook 리드 광고 설정
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: ed83438ae5660d172e845f25c4d72d599574bd91
 workflow-type: tm+mt
 source-wordcount: '305'
 ht-degree: 0%
@@ -19,9 +19,7 @@ Facebook에서 광고 캠페인을 실행하고 Marketing에 대한 리드를 �
 >
 >**관리자 권한 필요**
 
->[!NOTE]
->
->**가용성**
+>[!AVAILABILITY]
 >
 >Facebook 리드 광고를 인스턴스에 추가하려면 고객 성공 관리자에게 문의하십시오.
 
@@ -37,7 +35,7 @@ Facebook에서 광고 캠페인을 실행하고 Marketing에 대한 리드를 �
 
    ![](assets/image2016-11-29-10-3a51-3a47.png)
 
-1. 동일한 브라우저에서 새 탭을 열고 [www.facebook.com으로 이동합니다.](http://www.facebook.com.) 통합에 사용할 계정을 사용하여 Facebook에 로그인합니다.
+1. 동일한 브라우저에서 새 탭을 열고 [facebook.com](http://www.facebook.com)으로 이동합니다. 통합에 사용할 계정을 사용하여 Facebook에 로그인합니다.
 
    >[!NOTE]
    >
@@ -49,7 +47,7 @@ Facebook에서 광고 캠페인을 실행하고 Marketing에 대한 리드를 �
 
    ![](assets/image2016-11-29-10-3a52-3a51.png)
 
-1. 메시지가 표시되면 **확인**&#x200B;을 클릭하여 Facebook에 Marketing To 앱 설치를 수락합니다.
+1. 메시지가 표시되면 **확인**&#x200B;을 클릭하여 Facebook에 Marketing To 앱 설치를 승인합니다.
 
    ![](assets/image2016-11-29-10-3a56-3a3.png)
 
@@ -69,7 +67,7 @@ Facebook에서 광고 캠페인을 실행하고 Marketing에 대한 리드를 �
 
    >[!TIP]
    >
-   >매핑을 수정하여 리드 광고 데이터가 Marketing To에 저장되는 위치를 사용자 지정할 수 있습니다. 리드 광고 사용자 지정 질문[에서 데이터를 가져올 수도 있습니다.](set-up-facebook-lead-ads/map-custom-fields-to-marketo.md)
+   >매핑을 수정하여 리드 광고 데이터가 Marketing To에 저장되는 위치를 사용자 지정할 수 있습니다. 리드 광고 사용자 지정 질문](/help/marketo/product-docs/demand-generation/facebook/set-up-facebook-lead-ads/map-custom-fields-to-marketo.md)에서 데이터를 가져올 수도 있습니다.[
 
    >[!CAUTION]
    >
@@ -83,10 +81,6 @@ Facebook에서 광고 캠페인을 실행하고 Marketing에 대한 리드를 �
 
 >[!MORELIKETHIS]
 >
->* [스마트 캠페인에서 리드 광고 필터 및 트리거 사용](use-lead-ads-filters-and-triggers-in-a-smart-campaign.md)
->* [사용자 지정 필드를 Marketing에 매핑](set-up-facebook-lead-ads/map-custom-fields-to-marketo.md)
-
->
-
-
+>* [스마트 캠페인에서 리드 광고 필터 및 트리거 사용](/help/marketo/product-docs/demand-generation/facebook/use-lead-ads-filters-and-triggers-in-a-smart-campaign.md)
+>* [사용자 지정 필드를 Marketing에 매핑](/help/marketo/product-docs/demand-generation/facebook/set-up-facebook-lead-ads/map-custom-fields-to-marketo.md)
 
