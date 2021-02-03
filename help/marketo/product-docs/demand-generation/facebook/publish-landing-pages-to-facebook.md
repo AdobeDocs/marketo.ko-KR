@@ -3,9 +3,9 @@ unique-page-id: 2359823
 description: Facebook에 랜딩 페이지 게시 - 마케팅 문서 - 제품 설명서
 title: Facebook에 랜딩 페이지 게시
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: ed83438ae5660d172e845f25c4d72d599574bd91
 workflow-type: tm+mt
-source-wordcount: '303'
+source-wordcount: '301'
 ht-degree: 0%
 
 ---
@@ -15,9 +15,7 @@ ht-degree: 0%
 
 랜딩 페이지를 Facebook에 게시하고, 이미 중단된 부분을 미팅 및 프로그램에 더 많은 트래픽을 생성할 수 있습니다.
 
->[!NOTE]
->
->**가용성**
+>[!AVAILABILITY]
 >
 >SMB Spark, Standard &amp; Select 등 별도의 라이선스 기능이 포함된 엔터프라이즈
 
@@ -65,8 +63,4 @@ ht-degree: 0%
 
    >[!NOTE]
    >
-   >**미리 알림**
-   >
-   >
    >Facebook에서 랜딩 페이지를 제거하려면 Marketing To에서 승인을 취소하고 메시지가 표시되면 Facebook 탭을 제거하는 옵션을 선택합니다.
-
