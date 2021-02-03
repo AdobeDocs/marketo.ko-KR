@@ -3,9 +3,9 @@ unique-page-id: 11370892
 description: Marketing To - Marketing To Docs - 제품 설명서에서 데스크탑용 Facebook 리드 광고 테스트
 title: Marketing To와 데스크탑 통합을 위해 Facebook 리드 광고 테스트
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: ed83438ae5660d172e845f25c4d72d599574bd91
 workflow-type: tm+mt
-source-wordcount: '224'
+source-wordcount: '222'
 ht-degree: 0%
 
 ---
@@ -17,9 +17,10 @@ ht-degree: 0%
 
 >[!PREREQUISITES]
 >
->[Facebook 리드 광고 통합](set-up-facebook-lead-ads.md)을 설정해야 합니다.
+>[Facebook 리드 광고 통합](/help/marketo/product-docs/demand-generation/facebook/set-up-facebook-lead-ads.md)을 설정해야 합니다.
 
 1. Facebook 파워 편집기에서 캠페인 및 광고를 선택하고 **편집**&#x200B;을 클릭합니다.
+
 1. **링크**&#x200B;에서 **뉴스 피드에서 보기** 링크를 클릭합니다.
 
    ![](assets/image2016-5-13-14-3a35-3a36.png)
@@ -40,7 +41,7 @@ ht-degree: 0%
 
    ![](assets/image2016-5-13-14-3a52-3a57.png)
 
-1. 여기가 마법이 일어나는 곳이야! 양식을 제출하면 [Marketing](../../../product-docs/core-marketo-concepts/smart-lists-and-static-lists/creating-a-smart-list/create-a-smart-list.md)에서 채워진 Facebook 리드 광고 양식 필터를 사용하는 프로그램이나 데이터베이스에 스마트 목록을 만듭니다. 방금 제출한 양식의 리드 광고 양식 이름을 삽입합니다.
+1. 여기가 마법이 일어나는 곳이야! 양식을 제출하면 [Marketing](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/creating-a-smart-list/create-a-smart-list.md)에서 채워진 Facebook 리드 광고 양식 필터를 사용하는 프로그램이나 데이터베이스에 스마트 목록을 만듭니다. 방금 제출한 양식의 리드 광고 양식 이름을 삽입합니다.
 
    ![](assets/image2016-3-11-8-3a59-3a34-1.png)
 
@@ -50,13 +51,6 @@ ht-degree: 0%
 
    멋지지?
 
->[!NOTE]
+>[!MORELIKETHIS]
 >
->**관련 문서**
->
->* [Facebook 리드 광고 설정](set-up-facebook-lead-ads.md)
-
->
-
-
-
+>[Facebook 리드 광고 설정](/help/marketo/product-docs/demand-generation/facebook/set-up-facebook-lead-ads.md)
