@@ -3,9 +3,9 @@ unique-page-id: 2359673
 description: 양식 필드에 도구 설명 지침 추가 - Marketing To Docs - 제품 설명서
 title: 양식 필드에 도구 설명 추가
 translation-type: tm+mt
-source-git-commit: 00887ea53e395bea3a11fd28e0ac98b085ef6ed8
+source-git-commit: ed83438ae5660d172e845f25c4d72d599574bd91
 workflow-type: tm+mt
-source-wordcount: '140'
+source-wordcount: '123'
 ht-degree: 0%
 
 ---
@@ -13,7 +13,7 @@ ht-degree: 0%
 
 # 양식 필드 {#add-tooltip-instructions-to-a-form-field}에 도구 설명 추가
 
-[힌트 ](add-hint-text-to-a-form-field.md) 및 지침은 양식을 작성하는 데 도움이 됩니다. 툴팁 지침을 추가하는 방법은 다음과 같습니다.
+[힌트 ](/help/marketo/product-docs/demand-generation/forms/form-fields/add-hint-text-to-a-form-field.md) 및 지침은 양식을 작성하는 데 도움이 됩니다. 툴팁 지침을 추가하는 방법은 다음과 같습니다.
 
 >[!NOTE]
 >
@@ -45,18 +45,8 @@ ht-degree: 0%
 
    >[!NOTE]
    >
-   >**미리 알림**
-   >
-   >
-   >양식 변경으로 만든 [랜딩 페이지 초안 승인](../../../../product-docs/demand-generation/landing-pages/understanding-landing-pages/approve-unapprove-or-delete-a-landing-page.md)을 잊지 마십시오.
+   >양식 변경으로 만든 [랜딩 페이지 초안 승인](/help/marketo/product-docs/demand-generation/landing-pages/understanding-landing-pages/approve-unapprove-or-delete-a-landing-page.md)을 잊지 마십시오.
 
    ![](assets/image2014-9-15-14-3a16-3a56.png)
 
 멋진 작품! 방문자가 필드 위를 마우스로 가리키면 툴팁이 표시됩니다.
-
->[!NOTE]
->
->**자세히 알아보기**
->
->[forms](http://docs.marketo.com/display/docs/forms)로 수행할 수 있는 작업이 너무 많습니다.
-
