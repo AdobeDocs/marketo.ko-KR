@@ -3,7 +3,7 @@ unique-page-id: 10096681
 description: 웨비나 프로그램 상태 이해 - 마케팅 문서 - 제품 설명서
 title: 웨비나 프로그램 상태 이해
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: ed83438ae5660d172e845f25c4d72d599574bd91
 workflow-type: tm+mt
 source-wordcount: '412'
 ht-degree: 0%
@@ -27,9 +27,9 @@ ht-degree: 0%
 
 **프로그램에**  있지 않음 - 이 상태를 사용하여 이벤트에서 사람을 제거합니다.
 
-** 초대됨** - 이 상태를 사용하여 이벤트에 사람을 추가합니다.
+**초대됨**  - 이 상태를 사용하여 이벤트에 사람을 추가합니다.
 
-**승인**  대기 중 - 이 상태를 사용하여 확인 이메일 전송을 보류합니다. 자세한 내용은 [ON24 이벤트 등록 업데이트](on24-event-registration-updates.md)의 &quot;수동으로 등록자 승인&quot;을 참조하십시오.
+**승인**  대기 중 - 이 상태를 사용하여 확인 이메일 전송을 보류합니다. 자세한 내용은 [ON24 이벤트 등록 업데이트](/help/marketo/product-docs/demand-generation/events/create-an-event/create-an-event-with-the-marketo-on24-adapter/on24-event-registration-updates.md)의 &quot;수동으로 등록자 승인&quot;을 참조하십시오.
 
 **대기 목록**  - 이 상태를 사용하여 추가 시트가 제공될 때까지 일부 사용자가 대기하도록 할 수 있습니다.
 
@@ -43,7 +43,7 @@ ht-degree: 0%
 >
 >등록 오류가 발생하면 프로그램의 멤버 탭에서 상태 이유 열을 확인하여 해당 사람에 대한 추가 정보를 얻을 수 있습니다. 오류가 수정되면 사용자의 프로그램 상태를 Marketing To 내에서 등록으로 수동으로 변경할 수 있습니다.
 
-**참석자** - 웨비나가 끝날 때 ON24는 참석한 사람 목록을 반환합니다. 이 상태는 자동으로 Marketing To로 가져옵니다.
+**참석자**  - 웨비나가 끝날 때 ON24는 참석한 사람 목록을 반환합니다. 이 상태는 자동으로 Marketing To로 가져옵니다.
 
 **참석한 주문형** - 보관된 버전의 웨비나에 참석한 사람들이 이 상태를 받습니다.
 
@@ -55,9 +55,4 @@ ht-degree: 0%
 
 >[!MORELIKETHIS]
 >
->* [Marketing ON24 어댑터 이벤트 이해](understanding-marketo-on24-adapter-events.md)
-
->
-
-
-
+>[Marketing ON24 어댑터 이벤트 이해](/help/marketo/product-docs/demand-generation/events/create-an-event/create-an-event-with-the-marketo-on24-adapter/understanding-marketo-on24-adapter-events.md)
