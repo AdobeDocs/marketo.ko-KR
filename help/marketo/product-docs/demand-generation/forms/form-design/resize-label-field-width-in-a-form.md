@@ -3,7 +3,7 @@ unique-page-id: 2359604
 description: 양식의 레이블/필드 너비 크기 조정 - 마케팅 문서 - 제품 설명서
 title: 양식에서 레이블/필드 너비 크기 조정
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: ed83438ae5660d172e845f25c4d72d599574bd91
 workflow-type: tm+mt
 source-wordcount: '97'
 ht-degree: 0%
@@ -17,7 +17,7 @@ ht-degree: 0%
 
 ## 너비 {#drag-and-drop-the-width} 드래그하여 놓기
 
-1. [양식 편집기](../../../../product-docs/demand-generation/forms/form-actions/edit-a-form.md)에서 크기를 조정할 필드를 선택합니다.
+1. [양식 편집기](/help/marketo/product-docs/demand-generation/forms/form-actions/edit-a-form.md)에서 크기를 조정할 필드를 선택합니다.
 
    ![](assets/image2014-9-15-15-3a24-3a0.png)
 
