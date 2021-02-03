@@ -3,9 +3,9 @@ unique-page-id: 2359654
 description: 양식 유효성 검사/오류 메시지 및 제출 단추 - 마케팅 문서 - 제품 문서 변경
 title: 양식 유효성 검사/오류 메시지 및 제출 단추 언어 변경
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: ed83438ae5660d172e845f25c4d72d599574bd91
 workflow-type: tm+mt
-source-wordcount: '134'
+source-wordcount: '133'
 ht-degree: 0%
 
 ---
@@ -19,19 +19,19 @@ ht-degree: 0%
 >
 >또한 전송 단추 언어가 변경됩니다.
 
-1. **Marketing** **활동**&#x200B;으로 이동합니다.
+1. **마케팅 활동**&#x200B;으로 이동합니다.
 
    ![](assets/login-marketing-activities-6.png)
 
-1. 양식을 선택하고 **양식 편집을 클릭합니다.**
+1. 양식을 선택하고 **양식 편집**&#x200B;을 클릭합니다.
 
    ![](assets/image2014-9-15-12-3a47-3a46.png)
 
-1. **양식 설정 아래에서** **설정**&#x200B;을 클릭합니다.
+1. **양식 설정**&#x200B;에서 **설정**&#x200B;을 클릭합니다.
 
    ![](assets/image2014-9-15-12-3a48-3a5.png)
 
-1. 필요한 **오류** **언어**&#x200B;를 선택합니다.
+1. 필요한 **오류 언어**&#x200B;를 선택합니다.
 
    ![](assets/image2014-9-15-12-3a48-3a26.png)
 
@@ -49,10 +49,7 @@ ht-degree: 0%
 
    >[!NOTE]
    >
-   >**미리 알림**
-   >
-   >
-   >양식 변경에 의해 만들어진 랜딩 페이지](../../../../product-docs/demand-generation/landing-pages/understanding-landing-pages/approve-unapprove-or-delete-a-landing-page.md) 초안을 [승인해야 합니다.
+   >양식 변경에 의해 만들어진 랜딩 페이지](/help/marketo/product-docs/demand-generation/landing-pages/understanding-landing-pages/approve-unapprove-or-delete-a-landing-page.md) 초안을 [승인해야 합니다.
 
    ![](assets/image2014-9-15-12-3a50-3a11.png)
 
