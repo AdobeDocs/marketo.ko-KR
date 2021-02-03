@@ -3,7 +3,7 @@ unique-page-id: 2360370
 description: 동기화 전에 프로그램 상태 및 Salesforce 캠페인 상태를 일치시키는 방법 - 마케팅 문서 - 제품 설명서
 title: 동기화하기 전에 프로그램 상태 및 Salesforce 캠페인 상태를 일치시키는 방법
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: ed83438ae5660d172e845f25c4d72d599574bd91
 workflow-type: tm+mt
 source-wordcount: '223'
 ht-degree: 0%
@@ -27,5 +27,4 @@ ht-degree: 0%
 1. 오류를 취소하고 상태 오류를 수정하고 오류를 수정한 후 동기화해 볼 수 있습니다. 상태 오류를 수정하려면 다음 중 하나를 수행합니다.
 
    * Salesforce에 로그인하고 호환되지 않는 캠페인 멤버 상태를 제거하거나 이름을 변경하여 마케팅 프로그램과 연결된 채널 유형에 사용되는 마케팅 프로그램 상태에 매핑합니다.
-   * 마켓의 프로그램 상태를 수정하여 제자리에 있는 Salesforce 캠페인 구성원 상태에 매핑합니다. 마케팅 관리 함수입니다. 자세한 내용은 [프로그램 채널 만들기](../../../../../product-docs/administration/tags/create-a-program-channel.md)를 참조하십시오.
-
+   * 마켓의 프로그램 상태를 수정하여 제자리에 있는 Salesforce 캠페인 구성원 상태에 매핑합니다. 마케팅 관리 함수입니다. 자세한 내용은 [프로그램 채널 만들기](/help/marketo/product-docs/administration/tags/create-a-program-channel.md)를 참조하십시오.
