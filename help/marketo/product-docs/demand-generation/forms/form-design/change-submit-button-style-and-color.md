@@ -3,7 +3,7 @@ unique-page-id: 2359620
 description: 제출 단추 스타일 및 색상 변경 - 마케팅 문서 - 제품 설명서
 title: 제출 단추 스타일 및 색상 변경
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: ed83438ae5660d172e845f25c4d72d599574bd91
 workflow-type: tm+mt
 source-wordcount: '148'
 ht-degree: 0%
@@ -15,11 +15,11 @@ ht-degree: 0%
 
 표준 제출 단추가 부드럽거나 뭔가 더 멋진 것이 필요한 경우 즉시 사용할 수 있는 다양한 단추 스타일에서 자유롭게 선택할 수 있습니다.
 
-1. **Marketing** **활동**&#x200B;으로 이동합니다.
+1. **마케팅 활동**&#x200B;으로 이동합니다.
 
    ![](assets/login-marketing-activities-3.png)
 
-1. 양식을 선택하고 **편집** **양식**&#x200B;을 클릭합니다.
+1. 양식을 선택하고 **양식 편집**&#x200B;을 클릭합니다.
 
    ![](assets/image2014-9-15-16-3a54-3a36.png)
 
@@ -62,4 +62,3 @@ ht-degree: 0%
    >[!NOTE]
    >
    >많은 그래픽 요소와 마찬가지로 사용 중인 브라우저에 따라 단추가 다르게 보일 수 있습니다.
-
