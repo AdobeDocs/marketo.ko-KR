@@ -3,9 +3,9 @@ unique-page-id: 2949874
 description: GotoWebinar - Marketing Docs - 제품 설명서를 사용하여 이벤트 만들기
 title: gotoWebinar를 사용하여 이벤트 만들기
 translation-type: tm+mt
-source-git-commit: c8a77dc84c023e05fbb442f575269aac108ffb29
+source-git-commit: ed83438ae5660d172e845f25c4d72d599574bd91
 workflow-type: tm+mt
-source-wordcount: '600'
+source-wordcount: '543'
 ht-degree: 0%
 
 ---
@@ -17,12 +17,12 @@ ht-degree: 0%
 >
 >* [GoToWebinar를 LaunchPoint 서비스로 추가](/help/marketo/product-docs/administration/additional-integrations/add-gotowebinar-as-a-launchpoint-service.md)
 >* [새 이벤트 프로그램 만들기](/help/marketo/product-docs/demand-generation/events/understanding-events/create-a-new-event-program.md)
->* 적절한 [흐름 작업](http://docs.marketo.com/display/DOCS/Flow+Actions)을 설정하여 참여를 추적합니다.
+>* 적절한 [흐름 작업](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/add-a-flow-step-to-a-smart-campaign.md)을 설정하여 참여를 추적합니다.
 
 
 먼저 GoToWebinar에서 웨비나를 만듭니다. GoToWebinar 만들기의 특정 설정은 Marketing에서 사용하며, 일부는 GoToWebinar에서만 사용됩니다.
 
-Marketing 이벤트를 만들고 GoToWebinar를 연결한 후 시스템이 등록 및 참석 정보를 공유할 수 있습니다. GoToWebinar 만들기에 대한 도움말은 [GoToWebinar 사용자 안내서](http://docs.marketo.com/display/docs/assets/gotowebinar-user-guide.pdf)를 참조하십시오.
+Marketing 이벤트를 만들고 GoToWebinar를 연결한 후 시스템이 등록 및 참석 정보를 공유할 수 있습니다.
 
 다음은 Marketing To에서 사용하는 설정 목록입니다.
 
@@ -36,7 +36,7 @@ Marketing 이벤트를 만들고 GoToWebinar를 연결한 후 시스템이 등�
 
 ## 날짜 및 시간 {#date-time}
 
-`Enter the following information for your webinar and it will be pulled into Marketo via the`어댑터. 이 정보를 변경하는 경우 마케터가 변경 내용을 보려면 **이벤트 작업** 아래의 &quot;**웨비나 공급자의 새로 고침**&quot; 링크를 클릭해야 합니다.
+웨비나에 다음 정보를 입력하면 어댑터를 통해 Marketing To로 이동합니다. 이 정보를 변경하는 경우 마케터가 변경 내용을 보려면 **이벤트 작업** 아래의 &quot;**웨비나 공급자의 새로 고침**&quot; 링크를 클릭해야 합니다.
 
 **시작 날짜**  - 시작 날짜를 입력합니다. Marketing To에서 볼 수 있습니다.
 
@@ -56,7 +56,7 @@ Marketing 이벤트를 만들고 GoToWebinar를 연결한 후 시스템이 등�
 
 >[!TIP]
 >
->통합에 영향을 주지 않는 추가 필드가 GoToWebinar에서 구성됩니다. 이러한 필드에 대한 자세한 내용은 이 문서에서 다루지 않으므로 [GoToWebinar 사용 안내서](http://docs.marketo.com/display/docs/assets/gotowebinar-user-guide.pdf)를 참조하십시오. 추가 GoToWebinar 도움말이 필요한 경우 해당 [도움말 사이트](http://support.logmeininc.com/gotowebinar)를 방문하십시오.
+>추가 GoToWebinar 도움말이 필요한 경우 해당 [도움말 사이트](https://support.logmeininc.com/gotowebinar)를 방문하십시오.
 
 이제 Marketing Cloud로 넘어갑시다!
 
@@ -68,7 +68,7 @@ Marketing 이벤트를 만들고 GoToWebinar를 연결한 후 시스템이 등�
    >
    >선택한 이벤트의 채널 유형은 **웨비나**&#x200B;이어야 합니다.
 
-1. **이벤트** **파트너** 목록에서 **GoToWebinar**&#x200B;을 선택합니다.
+1. **이벤트 파트너** 목록에서 **GoToWebinar**&#x200B;을 선택합니다.
 
    ![](assets/image2015-5-14-14-3a55-3a20.png)
 
@@ -112,7 +112,7 @@ Marketing 이벤트를 만들고 GoToWebinar를 연결한 후 시스템이 등�
 
 ## 일정 {#viewing-the-schedule} 보기
 
-[프로그램 예약 보기](http://docs.marketo.com/display/docs/program+schedule+view)에서 이벤트의 달력 항목을 클릭합니다. 화면 오른쪽에 스케쥴이 보입니다
+프로그램 예약 보기에서 이벤트의 달력 항목을 클릭합니다. 화면 오른쪽에 스케쥴이 보입니다
 
 >[!NOTE]
 >
