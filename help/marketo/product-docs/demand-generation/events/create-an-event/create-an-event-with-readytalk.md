@@ -3,9 +3,9 @@ unique-page-id: 2949870
 description: ReadyTalk - Marketing Docs - 제품 설명서로 이벤트 만들기
 title: ReadyTalk를 사용하여 이벤트 만들기
 translation-type: tm+mt
-source-git-commit: c8a77dc84c023e05fbb442f575269aac108ffb29
+source-git-commit: ed83438ae5660d172e845f25c4d72d599574bd91
 workflow-type: tm+mt
-source-wordcount: '444'
+source-wordcount: '431'
 ht-degree: 0%
 
 ---
@@ -17,10 +17,10 @@ ht-degree: 0%
 >
 >* [LaunchPoint 서비스로 ReadyTalk 추가](/help/marketo/product-docs/administration/additional-integrations/add-readytalk-as-a-launchpoint-service.md)
 >* [새 이벤트 프로그램 만들기](/help/marketo/product-docs/demand-generation/events/understanding-events/create-a-new-event-program.md)
->* 적절한 [흐름 작업](http://docs.marketo.com/display/DOCS/Flow+Actions)을 설정하여 참여를 추적합니다.
+>* 적절한 [흐름 작업](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/add-a-flow-step-to-a-smart-campaign.md)을 설정하여 참여를 추적합니다.
 
 
-먼저 ReadyTalk 컨퍼런스 센터에서 이벤트를 설정합니다. 도움이 필요한 경우 [ReadyTalk 리소스 센터를 확인하십시오.](https://www.readytalk.com/resources/readytalk)  등록 유형을 선택할 때  **회의 전에 사전 등록을 선택합니다**. 회의&#x200B;*시*&#x200B;등록을 선택하면 **는 사용자의 등록된 상태를 캡처하지 않고 웨비나가 끝난 후 *참석한 사람 상태만 가져옵니다.***
+먼저 ReadyTalk 컨퍼런스 센터에서 이벤트를 설정합니다. 도움이 필요한 경우 [ReadyTalk 리소스 센터](https://www.readytalk.com/resources/readytalk)를 확인하십시오. 등록 유형을 선택할 때 회의&#x200B;**전에**&#x200B;사전 등록을 선택합니다. 회의&#x200B;_시_&#x200B;등록을 선택하면 **는 사용자의 등록된 상태를 캡처하지 않고 웨비나가 끝난 후 _참석한 사람 상태만 가져옵니다.**_
 
 **이메일**&#x200B;을(를) 통해 새 등록을 알려줍니다.
 
@@ -78,7 +78,7 @@ ReadyTalk를 사용하여 확인 이메일을 보내는 경우 설명을 추가�
 
 ## 일정 {#viewing-the-schedule} 보기
 
-[프로그램 예약 보기](http://docs.marketo.com/display/docs/program+schedule+view)에서 이벤트의 달력 항목을 클릭합니다. 화면 오른쪽에는 일정이 보입니다
+프로그램 예약 보기에서 이벤트의 달력 항목을 클릭합니다. 화면 오른쪽에는 일정이 보입니다
 
 ![](assets/image2015-5-18-12-9-58.png)
 
