@@ -3,9 +3,9 @@ unique-page-id: 2359675
 description: 양식 필드에 대한 사전 채우기 비활성화 - 마케팅 문서 - 제품 설명서
 title: 양식 필드에 대한 사전 채우기 비활성화
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: ed83438ae5660d172e845f25c4d72d599574bd91
 workflow-type: tm+mt
-source-wordcount: '156'
+source-wordcount: '142'
 ht-degree: 0%
 
 ---
@@ -19,13 +19,13 @@ ht-degree: 0%
 >
 >**양식 사전 입력** 은 기본적으로 활성화되어 있습니다. 랜딩 페이지 수준 사전 채우기 설정 및 관리 수준 사전 채우기 설정이 양식 수준 설정에 비해 우선합니다.
 >
->양식 &lt; 랜딩 페이지 &lt; 관리
+>양식 > 랜딩 페이지 > 관리
 
-1. **Marketing** **활동**&#x200B;으로 이동합니다.
+1. **마케팅 활동**&#x200B;으로 이동합니다.
 
    ![](assets/login-marketing-activities-7.png)
 
-1. 양식을 선택하고 **편집** **양식**&#x200B;을 클릭합니다.
+1. 양식을 선택하고 **양식 편집**&#x200B;을 클릭합니다.
 
    ![](assets/image2014-9-15-14-3a26-3a46.png)
 
@@ -33,7 +33,7 @@ ht-degree: 0%
    >
    >양식을 자신의 페이지에 포함하면 양식 사전 채우기가 작동하지 않습니다. Marketing To 랜딩 페이지에서만 작동합니다.
 
-1. 필드 중 하나를 선택하고 **양식** **Pre**-**fill**&#x200B;비활성화&#x200B;**으로 설정합니다.**
+1. 필드 중 하나를 선택하고 **양식 미리 채우기**&#x200B;를 **비활성화**&#x200B;로 설정합니다.
 
    ![](assets/image2014-9-15-14-3a26-3a54.png)
 
@@ -50,10 +50,3 @@ ht-degree: 0%
    ![](assets/image2014-9-15-14-3a27-3a6.png)
 
 잘했어!
-
->[!NOTE]
->
->**자세히 알아보기**
->
->[forms](http://docs.marketo.com/display/docs/forms)에 대해 자세히 알고 싶으십니까?
-
