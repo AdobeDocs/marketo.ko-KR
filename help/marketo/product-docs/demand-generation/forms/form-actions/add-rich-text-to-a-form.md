@@ -3,9 +3,9 @@ unique-page-id: 2359618
 description: 양식에 서식 있는 텍스트 추가 - 마케팅 문서 - 제품 설명서
 title: 양식에 서식 있는 텍스트 추가
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: ed83438ae5660d172e845f25c4d72d599574bd91
 workflow-type: tm+mt
-source-wordcount: '114'
+source-wordcount: '103'
 ht-degree: 0%
 
 ---
@@ -15,11 +15,11 @@ ht-degree: 0%
 
 양식에서 리치 텍스트를 사용하여 필드 사이에 지침 또는 기타 정보를 추가합니다. 확인해 보십시오.
 
-1. **Marketing** **활동**&#x200B;으로 이동합니다.
+1. **마케팅 활동**&#x200B;으로 이동합니다.
 
    ![](assets/login-marketing-activities-2.png)
 
-1. 양식을 선택하고 **편집** **양식**&#x200B;을 클릭합니다.
+1. 양식을 선택하고 **양식 편집**&#x200B;을 클릭합니다.
 
    ![](assets/image2014-9-15-16-3a46-3a7.png)
 
@@ -55,10 +55,6 @@ ht-degree: 0%
 
    ![](assets/image2014-9-15-16-3a48-3a58.png)
 
->[!NOTE]
+>[!TIP]
 >
->**자세히 알아보기**
->
->[양식](http://docs.marketo.com/display/docs/forms)에 대해 자세히 알아보십시오.
-
-리치 텍스트 블록에 [가시성 규칙](../../../../product-docs/demand-generation/forms/form-fields/dynamically-toggle-visibility-of-a-form-field.md)을 추가할 수도 있다는 사실을 알고 계십니까?
+>리치 텍스트 블록에 [가시성 규칙](/help/marketo/product-docs/demand-generation/forms/form-fields/dynamically-toggle-visibility-of-a-form-field.md)을 추가할 수도 있다는 사실을 알고 계십니까?
