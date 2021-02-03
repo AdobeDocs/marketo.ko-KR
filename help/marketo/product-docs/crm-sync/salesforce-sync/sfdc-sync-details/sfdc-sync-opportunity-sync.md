@@ -3,9 +3,9 @@ unique-page-id: 2953467
 description: SFDC 동기화 - 기회 동기화 - 마케팅 문서 - 제품 설명서
 title: SFDC 동기화 - 기회 동기화
 translation-type: tm+mt
-source-git-commit: 96cc6a30c63c8e8dca793a52e4bf7ecaef8c08dc
+source-git-commit: ed83438ae5660d172e845f25c4d72d599574bd91
 workflow-type: tm+mt
-source-wordcount: '312'
+source-wordcount: '291'
 ht-degree: 0%
 
 ---
@@ -19,7 +19,7 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->Salesforce용 Marketing에 입력한 [자격 증명은 데이터를 동기화하는 데 사용됩니다. ](../../../../product-docs/crm-sync/salesforce-sync/setup/enterprise-unlimited-edition/step-2-of-3-create-a-salesforce-user-for-marketo-enterprise-unlimited.md) 자격 증명이 액세스할 수 있는 데이터만 포함됩니다.
+>Salesforce용 Marketing에 입력한 [자격 증명은 데이터를 동기화하는 데 사용됩니다. ](/help/marketo/product-docs/crm-sync/salesforce-sync/setup/enterprise-unlimited-edition/step-2-of-3-create-a-salesforce-user-for-marketo-enterprise-unlimited.md) 자격 증명이 액세스할 수 있는 데이터만 포함됩니다.
 
 ## 기회 동기화를 시작할 수 있습니까?{#can-i-initiate-an-opportunity-sync}
 
@@ -27,7 +27,7 @@ ht-degree: 0%
 
 ## Marketing To는 기회 금액에서 두 개 이상의 통화를 지원합니까?{#does-marketo-support-more-than-one-currency-in-the-opportunity-amount}
 
-아니요. Marketing은 하나의 통화만 지원합니다. 기회 금액은 Salesforce에서 동기화되지만 Marketing To 구독의 통화가 [기본 통화](https://docs.marketo.com/display/DOCS/Set+Default+Location+Settings+for+a+Subscription#SetDefaultLocationSettingsforaSubscription-SettheDefaultCurrencySettingsforaSubscription)입니다.
+아니요. Marketing은 하나의 통화만 지원합니다. 기회 금액은 Salesforce에서 동기화되지만 Marketing To 구독의 통화가 [기본 통화](/help/marketo/product-docs/administration/settings/set-default-location-settings-for-a-subscription.md#set-the-default-currency-settings-for-a-subscription)입니다.
 
 ## Marketing To는 기회와 담당자를 어떻게 연관시키는가?{#how-does-marketo-associate-opportunities-and-contacts}
 
@@ -35,7 +35,7 @@ Marketing To는 [기회 연락처 역할](https://help.salesforce.com/HTViewHelp
 
 ## 사람의 모든 기회를 어떻게 볼 수 있습니까?{#how-can-i-see-all-the-opportunities-of-a-person}
 
-[개인 세부 정보](../../../../product-docs/core-marketo-concepts/smart-lists-and-static-lists/managing-people-in-smart-lists/using-the-person-detail-page.md) 페이지의 **기회 정보** 탭에서 기회 목록을 볼 수 있습니다.
+[개인 세부 정보](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/managing-people-in-smart-lists/using-the-person-detail-page.md) 페이지의 **기회 정보** 탭에서 기회 목록을 볼 수 있습니다.
 
 ## 기회와 관련된 트리거/필터는 무엇입니까?{#what-are-the-triggers-filters-related-to-opportunity}
 
@@ -60,5 +60,3 @@ Marketing To는 [기회 연락처 역할](https://help.salesforce.com/HTViewHelp
 >필터 및 트리거에 대한 제한 사항을 확인합니다. 그 안에 많은 멋진 세부 사항들이 있습니다.
 >
 >Salesforce의 기회 개체에 새 필드를 만들면 자동으로 제약조건이 됩니다!
-
-Marketing Cloud는 세계 최고의 Salesforce 동기화!
