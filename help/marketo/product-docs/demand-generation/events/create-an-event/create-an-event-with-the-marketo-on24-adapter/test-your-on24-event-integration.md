@@ -3,7 +3,7 @@ unique-page-id: 10096677
 description: ON24 이벤트 통합 테스트 - 마케팅 문서 - 제품 설명서
 title: ON24 이벤트 통합 테스트
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: ed83438ae5660d172e845f25c4d72d599574bd91
 workflow-type: tm+mt
 source-wordcount: '191'
 ht-degree: 0%
@@ -35,10 +35,6 @@ ht-degree: 0%
 
 >[!MORELIKETHIS]
 >
->* [ON24 이벤트 통합 예](example-on24-event-integration.md)
->* [Marketing ON24 어댑터 이벤트 이해](understanding-marketo-on24-adapter-events.md)
-
->
-
-
+>* [ON24 이벤트 통합 예](/help/marketo/product-docs/demand-generation/events/create-an-event/create-an-event-with-the-marketo-on24-adapter/example-on24-event-integration.md)
+>* [Marketing ON24 어댑터 이벤트 이해](/help/marketo/product-docs/demand-generation/events/create-an-event/create-an-event-with-the-marketo-on24-adapter/understanding-marketo-on24-adapter-events.md)
 
