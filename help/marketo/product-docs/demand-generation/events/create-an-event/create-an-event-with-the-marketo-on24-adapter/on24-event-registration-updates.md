@@ -3,7 +3,7 @@ unique-page-id: 10096683
 description: ON24 이벤트 등록 업데이트 - 마케팅 문서 - 제품 설명서
 title: ON24 이벤트 등록 업데이트
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: ed83438ae5660d172e845f25c4d72d599574bd91
 workflow-type: tm+mt
 source-wordcount: '282'
 ht-degree: 0%
@@ -41,9 +41,4 @@ Marketing Cloud는 매일 밤 약 오후 11시(태평양)에 참석 정보를 �
 
 >[!MORELIKETHIS]
 >
->* [Marketing ON24 어댑터 이벤트 이해](understanding-marketo-on24-adapter-events.md)
-
->
-
-
-
+>[Marketing ON24 어댑터 이벤트 이해](/help/marketo/product-docs/demand-generation/events/create-an-event/create-an-event-with-the-marketo-on24-adapter/understanding-marketo-on24-adapter-events.md)
