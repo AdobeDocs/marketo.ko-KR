@@ -3,7 +3,7 @@ unique-page-id: 7504163
 description: LinkedIn과 일치하는 대상을 LaunchPoint 서비스 - Marketing To Docs - 제품 문서로 추가
 title: LinkedIn과 일치하는 대상을 LaunchPoint 서비스로 추가
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: ed83438ae5660d172e845f25c4d72d599574bd91
 workflow-type: tm+mt
 source-wordcount: '178'
 ht-degree: 0%
@@ -61,9 +61,4 @@ Marketing 계정을 LinkedIn 일치된 대상에 연결하여 Marketing 정적 �
 
 >[!MORELIKETHIS]
 >
->* [LinkedIn 대상 세그먼트로 마케팅 목록 또는 스마트 목록 사용](../../../product-docs/demand-generation/social/social-functions/use-a-marketo-list-or-smart-list-as-a-linkedin-audience-segment.md)
-
->
-
-
-
+>[LinkedIn 대상 세그먼트로 마케팅 목록 또는 스마트 목록 사용](/help/marketo/product-docs/demand-generation/social/social-functions/use-a-marketo-list-or-smart-list-as-a-linkedin-audience-segment.md)
