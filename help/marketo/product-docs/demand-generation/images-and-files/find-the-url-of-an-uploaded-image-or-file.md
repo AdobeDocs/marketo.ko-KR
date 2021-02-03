@@ -3,7 +3,7 @@ unique-page-id: 2359870
 description: 업로드된 이미지 또는 파일의 URL 찾기 - Marketing To Docs - 제품 설명서
 title: 업로드된 이미지 또는 파일의 URL 찾기
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: ed83438ae5660d172e845f25c4d72d599574bd91
 workflow-type: tm+mt
 source-wordcount: '108'
 ht-degree: 0%
@@ -19,7 +19,7 @@ ht-degree: 0%
 
    ![](assets/designstudio-4.png)
 
-1. 왼쪽 메뉴에서 **이미지** **및** **파일**&#x200B;을 클릭한 다음 URL에 사용할 파일을 선택합니다.
+1. 왼쪽 메뉴에서 **이미지 및 파일**&#x200B;을 클릭한 다음 URL에 사용할 파일을 선택합니다.
 
    ![](assets/image2014-9-25-14-3a47-3a53.png)
 
@@ -31,9 +31,4 @@ ht-degree: 0%
 
 >[!MORELIKETHIS]
 >
->* [업로드된 이미지 또는 파일 바꾸기](replace-an-uploaded-image-or-file.md)
-
->
-
-
-
+>[업로드된 이미지 또는 파일 바꾸기](/help/marketo/product-docs/demand-generation/images-and-files/replace-an-uploaded-image-or-file.md)
