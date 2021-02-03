@@ -3,9 +3,9 @@ unique-page-id: 10096725
 description: 마케팅에서 이벤트 만들기 - 마케팅 문서 - 제품 설명서
 title: 마케팅에서 이벤트 만들기
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: ed83438ae5660d172e845f25c4d72d599574bd91
 workflow-type: tm+mt
-source-wordcount: '139'
+source-wordcount: '135'
 ht-degree: 0%
 
 ---
@@ -19,15 +19,10 @@ ht-degree: 0%
 
 ![](assets/image2015-12-16-13-33-56.png)
 
-Marketing 이벤트를 만들 때 채널 유형으로 **웨비나**&#x200B;를 선택합니다. 관리에서 이 채널을 편집하고 새 채널을 만들 수 있습니다. 새 채널을 만드는 경우 통합이 작동하려면 **웨비나가 있는 이벤트 유형**&#x200B;이어야 합니다. 자세한 내용은 [프로그램 채널 만들기](../../../../../product-docs/administration/tags/create-a-program-channel.md)를 참조하십시오.
+Marketing 이벤트를 만들 때 채널 유형으로 **웨비나**&#x200B;를 선택합니다. 관리에서 이 채널을 편집하고 새 채널을 만들 수 있습니다. 새 채널을 만드는 경우 통합이 작동하려면 **웨비나가 있는 이벤트 유형**&#x200B;이어야 합니다. 자세한 내용은 [프로그램 채널 만들기](/help/marketo/product-docs/administration/tags/create-a-program-channel.md)를 참조하십시오.
 
-다음 단계는 [이벤트 설정을 구성하고 웨비나](https://docs.marketo.com/x/IRCa)와 Marketing to를 동기화하는 것입니다.
+다음 단계는 [이벤트 설정을 구성하고 웨비나](/help/marketo/product-docs/demand-generation/events/create-an-event/create-an-event-with-the-marketo-on24-adapter/configure-event-settings-and-sync-marketo-with-your-webinar.md)와 Marketing to를 동기화하는 것입니다.
 
 >[!MORELIKETHIS]
 >
->* [Marketing ON24 어댑터 이벤트 이해](understanding-marketo-on24-adapter-events.md)
-
->
-
-
-
+>[Marketing ON24 어댑터 이벤트 이해](/help/marketo/product-docs/demand-generation/events/create-an-event/create-an-event-with-the-marketo-on24-adapter/understanding-marketo-on24-adapter-events.md)
