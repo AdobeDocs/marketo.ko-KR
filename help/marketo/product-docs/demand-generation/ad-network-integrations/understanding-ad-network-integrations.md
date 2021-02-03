@@ -3,9 +3,9 @@ unique-page-id: 11382858
 description: 광고 네트워크 통합 이해 - 마케팅 문서 - 제품 설명서
 title: 광고 네트워크 통합 이해
 translation-type: tm+mt
-source-git-commit: 44ed91b485b52173922c709de63a4353e16c5072
+source-git-commit: ed83438ae5660d172e845f25c4d72d599574bd91
 workflow-type: tm+mt
-source-wordcount: '258'
+source-wordcount: '249'
 ht-degree: 0%
 
 ---
@@ -36,7 +36,7 @@ ht-degree: 0%
 
    * 예를 들어 한 사람이 광고를 검색, 표시 및 클릭한 다음 온라인으로 양식을 채웁니다. 그 후 데모를 오프라인으로 받고 CRM 기회가 됩니다. 광고주가 그를 겨냥하는 곳이 바로 그곳이다
 
-* 웹 사이트 방문자를 다시 타깃팅하려면 [웹 개인화](http://docs.marketo.com/display/docs/web+personalization)를 사용합니다.
+* 웹 사이트 방문자를 다시 타깃팅하려면 [웹 개인화](/help/marketo/product-docs/web-personalization/understanding-web-personalization/web-personalization-overview.md)를 사용합니다.
 
    * 세그먼트 또는 세로로 개인화
 
@@ -44,19 +44,14 @@ ht-degree: 0%
 
 통합을 사용하여 다음을 수행할 수 있습니다.
 
-* [Google AdWords를 LaunchPoint 서비스로 추가](../../../product-docs/administration/additional-integrations/add-google-adwords-as-a-launchpoint-service.md)
-* [Facebook에서 사용자 지정 대상자에 리드 추가](../../../product-docs/demand-generation/facebook/add-leads-to-a-custom-audience-in-facebook.md)
-* [Facebook에서 사용자 지정 대상자 만들기](../../../product-docs/demand-generation/facebook/create-a-custom-audience-in-facebook.md)
-* [Facebook 오프라인 전환 설정](../../../product-docs/demand-generation/facebook/set-up-facebook-offline-conversions.md)
-* [LinkedIn 대상 세그먼트로 마케팅 목록 또는 스마트 목록 사용](../../../product-docs/demand-generation/social/social-functions/use-a-marketo-list-or-smart-list-as-a-linkedin-audience-segment.md)
+* [Google AdWords를 LaunchPoint 서비스로 추가](/help/marketo/product-docs/administration/additional-integrations/add-google-adwords-as-a-launchpoint-service.md)
+* [Facebook에서 사용자 지정 대상자에 리드 추가](/help/marketo/product-docs/demand-generation/facebook/add-leads-to-a-custom-audience-in-facebook.md)
+* [Facebook에서 사용자 지정 대상자 만들기](/help/marketo/product-docs/demand-generation/facebook/create-a-custom-audience-in-facebook.md)
+* [Facebook 오프라인 전환 설정](/help/marketo/product-docs/demand-generation/facebook/set-up-facebook-offline-conversions.md)
+* [LinkedIn 대상 세그먼트로 마케팅 목록 또는 스마트 목록 사용](/help/marketo/product-docs/demand-generation/social/social-functions/use-a-marketo-list-or-smart-list-as-a-linkedin-audience-segment.md)
 
 |  | 대상 데이터 | 리드 섭취 | 오프라인 전환 |
 |---|---|---|---|
 | ![—](assets/facebook-logo-2-150.jpg) | ![—](assets/checkmark-flat-25.png) | ![—](assets/checkmark-flat-25.png) | ![—](assets/checkmark-flat-25-1.png) |
 | ![—](assets/linkedin-logo-150.jpg) | ![—](assets/checkmark-flat-25.png) | ![—](assets/checkmark-flat-25.png) | ![—](assets/x-mark-3-256-25.png) |
 | ![—](assets/google-logo-150.jpg) | ![—](assets/checkmark-flat-25.png) | ![—](assets/x-mark-3-256-25.png) | ![—](assets/checkmark-flat-25.png) |
-
-## 비디오 보기 {#watch-a-video}
-
-`<iframe width="630" height="470" src="//play.vidyard.com/y8xoFczdrKQzAfvnAkAUXH.html?v=3.1.1" frameborder="0" allowfullscreen></iframe>`
-
