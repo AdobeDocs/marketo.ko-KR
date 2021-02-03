@@ -3,9 +3,9 @@ unique-page-id: 2359614
 description: 양식의 라디오 또는 선택한 필드에 값 정의 - Marketing To Docs - 제품 설명서
 title: 양식의 라디오 필드 또는 선택한 필드에서 값 정의
 translation-type: tm+mt
-source-git-commit: 00887ea53e395bea3a11fd28e0ac98b085ef6ed8
+source-git-commit: ed83438ae5660d172e845f25c4d72d599574bd91
 workflow-type: tm+mt
-source-wordcount: '203'
+source-wordcount: '194'
 ht-degree: 0%
 
 ---
@@ -13,13 +13,13 @@ ht-degree: 0%
 
 # {#define-values-in-a-radio-or-selected-field-in-a-form} 형식의 라디오 또는 선택한 필드에 값 정의
 
-[필드 유형](../../../../product-docs/administration/field-management/change-the-type-of-a-marketo-custom-field.md)을 라디오 단추로 설정하거나 유형을 선택하면 사용자가 선택할 수 있는 값을 정의할 수 있습니다. 방법
+[필드 유형](/help/marketo/product-docs/administration/field-management/change-the-type-of-a-marketo-custom-field.md)을 라디오 단추로 설정하거나 유형을 선택하면 사용자가 선택할 수 있는 값을 정의할 수 있습니다. 방법
 
-1. **Marketing** **활동**&#x200B;으로 이동합니다.
+1. **마케팅 활동**&#x200B;으로 이동합니다.
 
    ![](assets/ma.png)
 
-1. 양식을 선택하고 **편집** **양식**&#x200B;을 클릭합니다.
+1. 양식을 선택하고 **양식 편집**&#x200B;을 클릭합니다.
 
    ![](assets/image2014-9-15-16-3a28-3a56.png)
 
@@ -39,9 +39,7 @@ ht-degree: 0%
    >
    >**정의**
    >
-   >
    >**표시 값:** 방문자에게 표시되는 내용입니다.
-   >
    >
    >**저장된 값:** Marketing에 기록되는 내용.
 
@@ -65,4 +63,4 @@ ht-degree: 0%
 
    ![](assets/image2014-9-15-16-3a29-3a57.png)
 
-멋진 작품! 정말 잘하고 있어 [양식](http://docs.marketo.com/display/docs/forms)에 대해 자세히 알아보십시오.
+멋진 작품! 정말 잘하고 있어
