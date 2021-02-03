@@ -3,7 +3,7 @@ unique-page-id: 2953455
 description: SFDC 동기화 - 리드 동기화 - 마케팅 문서 - 제품 설명서
 title: SFDC 동기화 - 리드 동기화
 translation-type: tm+mt
-source-git-commit: d7d6aee63144c472e02fe0221c4a164183d04dd4
+source-git-commit: ed83438ae5660d172e845f25c4d72d599574bd91
 workflow-type: tm+mt
 source-wordcount: '237'
 ht-degree: 0%
@@ -25,11 +25,11 @@ Marketing Cloud의 이수 이런 종류의 데이터 충돌이 일어나는 것�
 
 ## Marketing To를 사용하여 Salesforce에서 리드를 만들 수 있습니까?{#can-i-create-a-lead-in-salesforce-using-marketo}
 
-예, [SFDC에 사람 동기화](../../../../product-docs/core-marketo-concepts/smart-campaigns/salesforce-flow-actions/sync-person-to-sfdc.md) 흐름 작업을 사용하십시오. 리드가 없는 경우 Salesforce에서 리드가 생성됩니다.
+예, [SFDC에 사람 동기화](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/salesforce-flow-actions/sync-person-to-sfdc.md) 흐름 작업을 사용하십시오. 리드가 없는 경우 Salesforce에서 리드가 생성됩니다.
 
 ## Marketing에서 수동으로 사람의 동기화를 Salesforce의 리드로 강제 적용할 수 있습니까?{#can-i-manually-force-a-sync-of-a-person-in-marketo-to-a-lead-in-salesforce}
 
-예. [SFDC에 사람 동기화](../../../../product-docs/core-marketo-concepts/smart-campaigns/salesforce-flow-actions/sync-person-to-sfdc.md) 흐름 작업을 사용하면 실시간으로 동기화됩니다.
+예. [SFDC에 사람 동기화](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/salesforce-flow-actions/sync-person-to-sfdc.md) 흐름 작업을 사용하면 실시간으로 동기화됩니다.
 
 ## 모든 표준 필드가 Marketing To와 동기화됩니까?{#does-every-single-standard-field-sync-to-marketo}
 
