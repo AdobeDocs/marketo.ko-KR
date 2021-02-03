@@ -3,7 +3,7 @@ unique-page-id: 4719308
 description: Marketing To Sync - Marketing To Docs - 제품 문서에 기존 Salesforce 필드 추가
 title: Marketing To Sync에 기존 Salesforce 필드 추가
 translation-type: tm+mt
-source-git-commit: 00887ea53e395bea3a11fd28e0ac98b085ef6ed8
+source-git-commit: ed83438ae5660d172e845f25c4d72d599574bd91
 workflow-type: tm+mt
 source-wordcount: '158'
 ht-degree: 0%
@@ -48,4 +48,3 @@ ht-degree: 0%
    >[!NOTE]
    >
    > 필드에 이미 Salesforce의 값이 있는 경우 다음 레코드 업데이트가 있을 때까지 해당 값은 Marketing Cloud에 동기화되지 않습니다.
-
