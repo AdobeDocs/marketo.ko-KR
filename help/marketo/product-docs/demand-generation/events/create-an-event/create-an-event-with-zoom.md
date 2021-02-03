@@ -3,9 +3,9 @@ unique-page-id: 17728023
 description: 확대/축소 - Marketing To Docs - 제품 설명서로 이벤트 만들기
 title: 확대/축소를 사용하여 이벤트 만들기
 translation-type: tm+mt
-source-git-commit: c8a77dc84c023e05fbb442f575269aac108ffb29
+source-git-commit: ed83438ae5660d172e845f25c4d72d599574bd91
 workflow-type: tm+mt
-source-wordcount: '566'
+source-wordcount: '560'
 ht-degree: 0%
 
 ---
@@ -17,7 +17,7 @@ ht-degree: 0%
 >
 >* [LaunchPoint 서비스로 확대/축소 추가](/help/marketo/product-docs/administration/additional-integrations/add-zoom-as-a-launchpoint-service.md)
 >* [새 이벤트 프로그램 만들기](/help/marketo/product-docs/demand-generation/events/understanding-events/create-a-new-event-program.md)
->* 적절한 [흐름 작업](http://docs.marketo.com/display/DOCS/Flow+Actions)을 설정하여 참여를 추적합니다.
+>* 적절한 [흐름 작업](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/add-a-flow-step-to-a-smart-campaign.md)을 설정하여 참여를 추적합니다.
 
 
 먼저 확대/축소에 웨비나를 만듭니다. 확대/축소 만들기의 특정 설정은 Marketing To에서 사용하며, 일부는 확대/축소에서만 사용됩니다.
