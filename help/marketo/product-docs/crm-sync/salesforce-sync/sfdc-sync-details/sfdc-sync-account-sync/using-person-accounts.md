@@ -3,7 +3,7 @@ unique-page-id: 4719316
 description: 개인 계정 사용 - 마케팅 문서 - 제품 설명서
 title: 개인 계정 사용
 translation-type: tm+mt
-source-git-commit: 728066ab05de82f6123bfaa1f0b05af8632e32b2
+source-git-commit: ed83438ae5660d172e845f25c4d72d599574bd91
 workflow-type: tm+mt
 source-wordcount: '291'
 ht-degree: 0%
@@ -41,7 +41,7 @@ Salesforce에서 조직의 요구에 맞게 개인 계정을 설정할 수 있�
 
 >[!NOTE]
 >
->Marketing To Sales Insight의 **Marketing To Campaign** 및 **이메일 보내기 ** 옵션은 현재 개인 계정에 사용할 수 없습니다.
+>Marketing Sales Insight의 **Marketing To Campaign** 및 **이메일 보내기** 옵션은 현재 개인 계정에 사용할 수 없습니다.
 
 ## 개인 계정에 기회를 연결하려면 어떻게 해야 합니까?{#how-do-i-associate-opportunities-to-a-person-account}
 
