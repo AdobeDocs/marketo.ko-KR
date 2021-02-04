@@ -3,9 +3,9 @@ unique-page-id: 7516470
 description: 템플릿 2-B - 마케팅 문서 - 제품 설명서
 title: 템플릿 2-B
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: 2969e6f94f5fd781e2167ae2aa8680bb8d134754
 workflow-type: tm+mt
-source-wordcount: '77'
+source-wordcount: '79'
 ht-degree: 0%
 
 ---
@@ -13,7 +13,7 @@ ht-degree: 0%
 
 # 템플릿 2-B {#template-b}
 
-[템플릿 2-B 다운로드](http://docs.marketo.com/download/attachments/7516470/template2-b.html?version=1&amp;modificationdate=1433229058000&amp;api=v2)
+[템플릿 2-B 다운로드](http://docs.marketo.com/download/attachments/7516470/template2-b.html?version=1&amp;modificationdate=1433229058000&amp;api=v2)를 마우스 오른쪽 단추로 클릭합니다.
 
 ![](assets/image2015-6-2-15-3a32-3a38.png)
 
@@ -27,6 +27,6 @@ ht-degree: 0%
 * 비디오 및 텍스트가 있는 하나의 본문 섹션(선택 사항)
 * 바닥글(선택 사항)
 
-**이 템플릿을 다운로드하려면 아래를 클릭하십시오.**
+**이 템플릿을 다운로드하려면 아래 마우스 오른쪽 버튼을 클릭하십시오.**
 
 [Template2-B.html](http://docs.marketo.com/download/attachments/7516470/template2-b.html?version=1&amp;modificationdate=1433229058000&amp;api=v2)
