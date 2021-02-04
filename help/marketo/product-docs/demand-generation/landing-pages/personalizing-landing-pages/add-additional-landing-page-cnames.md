@@ -3,9 +3,9 @@ unique-page-id: 2359798
 description: 추가 랜딩 페이지 CNAME 추가 - 마케팅 문서 - 제품 설명서
 title: 추가 랜딩 페이지 CNAME 추가
 translation-type: tm+mt
-source-git-commit: 00887ea53e395bea3a11fd28e0ac98b085ef6ed8
+source-git-commit: 2969e6f94f5fd781e2167ae2aa8680bb8d134754
 workflow-type: tm+mt
-source-wordcount: '244'
+source-wordcount: '245'
 ht-degree: 0%
 
 ---
@@ -21,8 +21,9 @@ ht-degree: 0%
 
 >[!TIP]
 >
->**동일한 최상위 도메인 - 좋습니다! 쿠키는 shared.go**.mycompany.com > **info**.mycompany.com **다른 최상위 수준 도메인 - 잘못됨! 쿠키가 공유되지 않습니다.**
->가.**mycompany**.com > go.**mynewcompany**.com
+>**동일한 최상위 도메인 - 좋습니다! 쿠키가 공유됨**.<br/> **go**.mycompany.com >  **info**.mycompany.com
+>
+>**다른 최상위 수준 도메인 - 잘못됨! 쿠키는 _공유**이 아닌_&#x200B;입니다.<br/> 가.**mycompany**.com > go.**mynewcompany**.com
 
 >[!NOTE]
 >
