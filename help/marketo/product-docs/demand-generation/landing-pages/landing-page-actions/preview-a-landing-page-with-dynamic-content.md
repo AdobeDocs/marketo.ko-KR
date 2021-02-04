@@ -3,7 +3,7 @@ unique-page-id: 2359734
 description: 동적 컨텐츠가 있는 랜딩 페이지 미리 보기 - 마케팅 문서 - 제품 설명서
 title: 동적 컨텐츠가 있는 랜딩 페이지 미리 보기
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 2969e6f94f5fd781e2167ae2aa8680bb8d134754
 workflow-type: tm+mt
 source-wordcount: '88'
 ht-degree: 0%
@@ -17,14 +17,11 @@ ht-degree: 0%
 
 >[!PREREQUISITES]
 >
->* [랜딩 페이지에서 동적 컨텐츠 사용](../../../../product-docs/demand-generation/landing-pages/personalizing-landing-pages/use-dynamic-content-in-a-landing-page.md)
->* [랜딩 페이지 미리 보기](preview-a-landing-page.md)
-
->
+>* [랜딩 페이지에서 동적 컨텐츠 사용](/help/marketo/product-docs/demand-generation/landing-pages/personalizing-landing-pages/use-dynamic-content-in-a-landing-page.md)
+>* [랜딩 페이지 미리 보기](/help/marketo/product-docs/demand-generation/landing-pages/landing-page-actions/preview-a-landing-page.md)
 
 
-
-1. 랜딩 페이지를 선택하고 **페이지 미리 보기를 클릭합니다.**
+1. 랜딩 페이지를 선택하고 **페이지 미리 보기**&#x200B;를 클릭합니다.
 
    ![](assets/image2014-9-17-16-3a9-3a55.png)
 
