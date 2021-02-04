@@ -3,9 +3,9 @@ unique-page-id: 7515620
 description: 템플릿 1-A - 마케팅 문서 - 제품 설명서
 title: 템플릿 1-A
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: 7f1b281d918f8a8c68fc0a3605f88de717b3cf64
 workflow-type: tm+mt
-source-wordcount: '64'
+source-wordcount: '66'
 ht-degree: 0%
 
 ---
@@ -13,7 +13,7 @@ ht-degree: 0%
 
 # 템플릿 1-A {#template-a}
 
-[템플릿 1-A 다운로드](http://docs.marketo.com/download/attachments/7515620/template1-a.html?version=3&amp;modificationdate=1432834576000&amp;api=v2)
+[템플릿 1-A](https://docs.marketo.com/download/attachments/7515620/Template1-A.html?version=3&amp;modificationDate=1432834576000&amp;api=v2) 다운로드
 
 ![](assets/image2015-5-28-10-3a1-3a40.png)
 
@@ -26,6 +26,6 @@ ht-degree: 0%
 * 3개의 본문 섹션(선택 사항)
 * 바닥글(선택 사항)
 
-**이 템플릿을 다운로드하려면 아래를 클릭하십시오.**
+**이 템플릿을 다운로드하려면 아래 마우스 오른쪽 버튼을 클릭하십시오.**
 
-[Template1-A.html](http://docs.marketo.com/download/attachments/7515620/template1-a.html?version=3&amp;modificationdate=1432834576000&amp;api=v2)
+[Template1-A.html](https://docs.marketo.com/download/attachments/7515620/Template1-A.html?version=3&amp;modificationDate=1432834576000&amp;api=v2)
