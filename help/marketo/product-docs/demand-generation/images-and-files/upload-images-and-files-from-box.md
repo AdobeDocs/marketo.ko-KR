@@ -3,7 +3,7 @@ unique-page-id: 2359868
 description: 상자에서 이미지 및 파일 업로드 - 마케팅 문서 - 제품 설명서
 title: 상자에서 이미지 및 파일 업로드
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: 2969e6f94f5fd781e2167ae2aa8680bb8d134754
 workflow-type: tm+mt
 source-wordcount: '109'
 ht-degree: 0%
@@ -15,11 +15,11 @@ ht-degree: 0%
 
 Box에서 파일을 업로드하여 랜딩 페이지 및 이메일에 사용할 수 있습니다.
 
-1. **디자인** **Studio**&#x200B;로 이동합니다.
+1. **Design Studio**&#x200B;로 이동합니다.
 
    ![](assets/designstudio-3.png)
 
-1. 이미지 및 파일**로 이동합니다**. **파일 작업**&#x200B;을 클릭하고 **웹에서 이미지 잡기**&#x200B;를 선택합니다.
+1. **이미지 및 파일**&#x200B;로 이동합니다. **파일 작업**&#x200B;을 클릭하고 **웹에서 이미지 잡기**&#x200B;를 선택합니다.
 
    ![](assets/image2014-9-16-12-3a50-3a40.png)
 
