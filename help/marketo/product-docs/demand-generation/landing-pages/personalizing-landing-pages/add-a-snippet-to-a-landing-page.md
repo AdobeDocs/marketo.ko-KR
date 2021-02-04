@@ -3,9 +3,9 @@ unique-page-id: 2359537
 description: 랜딩 페이지에 코드 단편 추가 - 마케팅 문서 - 제품 설명서
 title: 랜딩 페이지에 코드 단편 추가
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 2969e6f94f5fd781e2167ae2aa8680bb8d134754
 workflow-type: tm+mt
-source-wordcount: '118'
+source-wordcount: '107'
 ht-degree: 0%
 
 ---
@@ -17,11 +17,7 @@ ht-degree: 0%
 
 >[!PREREQUISITES]
 >
->* [코드 단편 만들기](../../../../product-docs/personalization/segmentation-and-snippets/snippets/create-a-snippet.md)
-
->
-
-
+>[코드 단편 만들기](/help/marketo/product-docs/personalization/segmentation-and-snippets/snippets/create-a-snippet.md)
 
 1. 랜딩 페이지를 선택하고 **초안 편집**&#x200B;을 클릭합니다.
 
@@ -41,6 +37,6 @@ ht-degree: 0%
 
    >[!NOTE]
    >
-   >코드 조각을 안내 랜딩 페이지에 추가하려면 [이 문서](https://docs.marketo.com/display/public/DOCS/Create+a+Guided+Landing+Page+Template)를 참조하십시오.
+   >코드 조각을 안내 랜딩 페이지에 추가하려면 [이 문서](/help/marketo/product-docs/demand-generation/landing-pages/landing-page-templates/create-a-guided-landing-page-template.md)를 참조하십시오.
 
 잘했어요! 이제 랜딩 페이지에 조각을 추가하는 방법을 알 수 있습니다.
