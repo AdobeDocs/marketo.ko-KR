@@ -3,7 +3,7 @@ unique-page-id: 7515107
 description: 안내 랜딩 페이지에 양식 추가 - 마케팅 문서 - 제품 설명서
 title: 안내 랜딩 페이지에 양식 추가
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 2969e6f94f5fd781e2167ae2aa8680bb8d134754
 workflow-type: tm+mt
 source-wordcount: '174'
 ht-degree: 0%
@@ -17,11 +17,7 @@ ht-degree: 0%
 
 >[!PREREQUISITES]
 >
->* [안내 랜딩 페이지 만들기](create-a-guided-landing-page.md)
-
->
-
-
+>[안내 랜딩 페이지 만들기](/help/marketo/product-docs/demand-generation/landing-pages/guided-landing-pages/create-a-guided-landing-page.md)
 
 1. **마케팅 활동** 영역으로 이동합니다.
 
@@ -61,4 +57,4 @@ ht-degree: 0%
 
    ![](assets/image2015-5-20-15-3a45-3a45.png)
 
-이제 랜딩 페이지 편집기를 닫고 [랜딩 페이지 초안 승인](../../../../product-docs/demand-generation/landing-pages/understanding-landing-pages/approve-unapprove-or-delete-a-landing-page.md).
+이제 랜딩 페이지 편집기를 닫고 [랜딩 페이지 초안 승인](/help/marketo/product-docs/demand-generation/landing-pages/understanding-landing-pages/approve-unapprove-or-delete-a-landing-page.md).
