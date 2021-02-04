@@ -3,9 +3,9 @@ unique-page-id: 2950799
 description: 토큰 개요 - 마케팅 문서 - 제품 설명서
 title: 토큰 개요
 translation-type: tm+mt
-source-git-commit: d7d6aee63144c472e02fe0221c4a164183d04dd4
+source-git-commit: 2969e6f94f5fd781e2167ae2aa8680bb8d134754
 workflow-type: tm+mt
-source-wordcount: '336'
+source-wordcount: '300'
 ht-degree: 0%
 
 ---
@@ -13,7 +13,7 @@ ht-degree: 0%
 
 # 토큰 개요 {#tokens-overview}
 
-토큰은 Marketing에서 [스마트 캠페인](http://docs.marketo.com/display/DOCS/Smart+Campaigns) 흐름 단계, [이메일](http://docs.marketo.com/display/DOCS/General), [랜딩 페이지](http://docs.marketo.com/display/DOCS/Landing+Pages), [snippets](http://docs.marketo.com/display/DOCS/Segmentation+and+Snippets) 및 [웹 캠페인](http://docs.marketo.com/display/public/DOCS/Using+the+Web+Personalization+Rich+Text+Editor)에 사용할 수 있는 변수입니다.
+토큰은 Marketing to 스마트 캠페인 흐름 단계, 이메일, 랜딩 페이지, 코드 단편 및 웹 캠페인에 사용할 수 있는 변수입니다.
 
 ## 기본값 이해 {#understanding-default-values}
 
@@ -154,9 +154,7 @@ ht-degree: 0%
 ## 프로그램 토큰 {#program-tokens}
 
 * `{{program.Name}}`
-
 * `{{program.Description}}`
-
 * `{{program.id}}`
 
 ## 내 토큰 {#my-tokens}
