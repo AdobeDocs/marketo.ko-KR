@@ -3,7 +3,7 @@ unique-page-id: 2359724
 description: 한 번에 여러 랜딩 페이지 승인 - 마케팅 문서 - 제품 설명서
 title: 한 번에 여러 랜딩 페이지 승인
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: 2969e6f94f5fd781e2167ae2aa8680bb8d134754
 workflow-type: tm+mt
 source-wordcount: '104'
 ht-degree: 0%
@@ -13,11 +13,11 @@ ht-degree: 0%
 
 # 한 번에 여러 랜딩 페이지 승인 {#approve-multiple-landing-pages-at-once}
 
-1. **디자인 스튜디오로 이동합니다.**
+1. **Design Studio**&#x200B;로 이동합니다.
 
    ![](assets/image2014-9-17-11-3a35-3a5.png)
 
-1. **랜딩 페이지를 클릭합니다.**
+1. **랜딩 페이지**&#x200B;를 클릭합니다.
 
    ![](assets/image2014-9-17-11-3a35-3a11.png)
 
@@ -29,7 +29,7 @@ ht-degree: 0%
    >
    >실제 랜딩 페이지 이름을 클릭하지 마십시오. 이 이름은 링크이며 페이지 자체로 이동합니다.
 
-1. 랜딩 페이지를 선택한 상태에서 **랜딩 페이지 작업**&#x200B;으로 이동하고 **승인을 클릭합니다.**
+1. 랜딩 페이지를 선택한 상태에서 **랜딩 페이지 작업**&#x200B;으로 이동하고 **승인**&#x200B;을 클릭합니다.
 
    ![](assets/image2014-9-17-11-3a35-3a27.png)
 
@@ -40,4 +40,3 @@ ht-degree: 0%
    >[!TIP]
    >
    >승인 취소 또는 삭제와 같은 다른 일괄 옵션에 위 단계를 사용할 수도 있습니다.
-
