@@ -3,7 +3,7 @@ unique-page-id: 2359707
 description: 자유 형식 랜딩 페이지에 사각형 추가 - 마케팅 문서 - 제품 문서
 title: 자유 형식 랜딩 페이지에 사각형 추가
 translation-type: tm+mt
-source-git-commit: 00887ea53e395bea3a11fd28e0ac98b085ef6ed8
+source-git-commit: 2969e6f94f5fd781e2167ae2aa8680bb8d134754
 workflow-type: tm+mt
 source-wordcount: '122'
 ht-degree: 0%
@@ -15,7 +15,7 @@ ht-degree: 0%
 
 랜딩 페이지의 사각형은 텍스트 영역을 강조 표시하는 데 유용합니다.
 
-1. 자유 형식의 랜딩 페이지를 선택하고 **편집** **초안**&#x200B;을 클릭합니다.
+1. 자유 형식의 랜딩 페이지를 선택하고 **초안 편집**&#x200B;을 클릭합니다.
 
    ![](assets/image2014-9-16-14-3a50-3a51.png)
 
@@ -27,7 +27,7 @@ ht-degree: 0%
 
    ![](assets/image2015-5-21-14-3a48-3a45.png)
 
-1. 사각형을 선택하고 **속성** **시트**&#x200B;를 사용하여 필요한 내용을 변경합니다.
+1. 사각형을 선택하고 **속성 시트**&#x200B;를 사용하여 필요한 내용을 변경합니다.
 
    >[!TIP]
    >
