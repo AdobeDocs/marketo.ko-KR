@@ -3,7 +3,7 @@ unique-page-id: 2359862
 description: 업로드된 이미지 및 파일 검색 - 마케팅 문서 - 제품 설명서
 title: 업로드된 이미지 및 파일 검색
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 2969e6f94f5fd781e2167ae2aa8680bb8d134754
 workflow-type: tm+mt
 source-wordcount: '101'
 ht-degree: 0%
@@ -29,16 +29,12 @@ Marketing Cloud에서 이미지와 파일을 손쉽게 찾을 수 있습니다.
 
 >[!TIP]
 >
->새 검색을 시작하려면 **빠른** **찾기** 상자에서 **x**&#x200B;을 클릭합니다.
+>새 검색을 시작하려면 **빠른 찾기** 상자에서 **x**&#x200B;을 클릭합니다.
 
-발을 차라. 다 끝났어!
+발을 높이 올려! 다 끝났어!
 
 >[!MORELIKETHIS]
 >
->* [업로드된 이미지 또는 파일 바꾸기](replace-an-uploaded-image-or-file.md)
->* [폴더를 사용하여 이미지 및 파일 구성](organize-your-images-and-files-using-folders.md)
-
->
-
-
+>* [업로드된 이미지 또는 파일 바꾸기](/help/marketo/product-docs/demand-generation/images-and-files/replace-an-uploaded-image-or-file.md)
+>* [폴더를 사용하여 이미지 및 파일 구성](/help/marketo/product-docs/demand-generation/images-and-files/organize-your-images-and-files-using-folders.md)
 
