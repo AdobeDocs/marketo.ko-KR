@@ -3,9 +3,9 @@ unique-page-id: 2359732
 description: 무료 랜딩 페이지에서 동적 컨텐츠 사용 - Marketing To Docs - 제품 설명서
 title: 자유형 랜딩 페이지에서 동적 컨텐츠 사용
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 2969e6f94f5fd781e2167ae2aa8680bb8d134754
 workflow-type: tm+mt
-source-wordcount: '208'
+source-wordcount: '206'
 ht-degree: 0%
 
 ---
@@ -17,12 +17,9 @@ ht-degree: 0%
 
 >[!PREREQUISITES]
 >
->* [세그멘테이션 만들기](../../../../product-docs/personalization/segmentation-and-snippets/segmentation/create-a-segmentation.md)
->* [자유형 랜딩 페이지 만들기](create-a-free-form-landing-page.md)
->* [자유형 랜딩 페이지에 새 양식 추가](add-a-new-form-to-a-free-form-landing-page.md)
-
->
-
+>* [세그멘테이션 만들기](/help/marketo/product-docs/personalization/segmentation-and-snippets/segmentation/create-a-segmentation.md)
+>* [자유형 랜딩 페이지 만들기](/help/marketo/product-docs/demand-generation/landing-pages/free-form-landing-pages/create-a-free-form-landing-page.md)
+>* [자유형 랜딩 페이지에 새 양식 추가](/help/marketo/product-docs/demand-generation/landing-pages/free-form-landing-pages/add-a-new-form-to-a-free-form-landing-page.md)
 
 
 ## 세그멘테이션 추가 {#add-segmentation}
@@ -31,19 +28,19 @@ ht-degree: 0%
 
    ![](assets/login-marketing-activities-2.png)
 
-   랜딩 페이지를 선택한 다음 초안 편집을 클릭합니다.
+1. 랜딩 페이지를 선택한 다음 **초안 편집**&#x200B;을 클릭합니다.
 
    ![](assets/landingpageeditdraft-1.jpg)
 
-   세그먼트 기준 을 클릭합니다.
+1. **세그먼트 기준**&#x200B;을 클릭합니다.
 
    ![](assets/image2014-9-17-12-3a8-3a46.png)
 
-   세그멘테이션 이름을 입력하고 저장을 클릭합니다.
+1. 세그멘테이션 이름을 입력하고 **저장**&#x200B;을 클릭합니다.
 
    ![](assets/image2014-9-17-12-3a8-3a53.png)
 
-   세그먼테이션과 해당 세그먼트가 오른쪽의 동적 아래에 표시됩니다.
+1. 세그먼테이션과 해당 세그먼트가 오른쪽의 동적 아래에 표시됩니다.
 
    ![](assets/image2014-9-17-12-3a9-3a3.png)
 
@@ -53,11 +50,11 @@ ht-degree: 0%
 
 ## 요소를 동적으로 만들기 {#make-element-dynamic}
 
-1. 동적 내용 요소를 **정적**&#x200B;에서 **동적.** 아래로 드래그하여 놓습니다.
+1. 동적 내용 요소를 **정적**&#x200B;에서 **동적**&#x200B;으로 드래그하여 놓습니다.
 
    ![](assets/image2014-9-17-12-3a10-3a8.png)
 
-1. **설정 요소에서**&#x200B;정적&#x200B;**또는**&#x200B;동적&#x200B;**요소를 만들 수도 있습니다.**
+1. **설정** 요소에서 **정적** 또는 **동적** 요소를 만들 수도 있습니다.
 
    ![](assets/image2014-9-17-12-3a10-3a14.png)
 
@@ -81,14 +78,8 @@ ht-degree: 0%
 
 Voila! 이제 타깃팅된 컨텐츠를 보낼 수 있습니다.
 
->[!NOTE]
+>[!MORELIKETHIS]
 >
->**관련 문서**
->
->* [동적 컨텐츠가 있는 랜딩 페이지 미리 보기](../../../../product-docs/demand-generation/landing-pages/landing-page-actions/preview-a-landing-page-with-dynamic-content.md)
->* [이메일에서 동적 컨텐츠 사용](../../../../product-docs/email-marketing/general/functions-in-the-editor/using-dynamic-content-in-an-email.md)
-
->
-
-
+>* [동적 컨텐츠가 있는 랜딩 페이지 미리 보기](/help/marketo/product-docs/demand-generation/landing-pages/landing-page-actions/preview-a-landing-page-with-dynamic-content.md)
+>* [이메일에서 동적 컨텐츠 사용](/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/using-dynamic-content-in-an-email.md)
 
