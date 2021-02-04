@@ -3,9 +3,9 @@ unique-page-id: 2359742
 description: 랜딩 페이지 성능 보고서 필터링 - 마케팅 문서 - 제품 설명서
 title: 랜딩 페이지 성능 보고서 필터링
 translation-type: tm+mt
-source-git-commit: 00887ea53e395bea3a11fd28e0ac98b085ef6ed8
+source-git-commit: 2969e6f94f5fd781e2167ae2aa8680bb8d134754
 workflow-type: tm+mt
-source-wordcount: '162'
+source-wordcount: '147'
 ht-degree: 0%
 
 ---
@@ -13,7 +13,7 @@ ht-degree: 0%
 
 # 랜딩 페이지 성능 보고서 필터링 {#filter-a-landing-page-performance-report}
 
-프로그램(로컬 자산), Design Studio의 랜딩 페이지(글로벌 자산) 또는 보관된 페이지에 [랜딩 페이지 성과 보고서](../../../../product-docs/demand-generation/landing-pages/understanding-landing-pages/landing-page-performance-report.md)를 집중합니다.
+프로그램(로컬 자산), Design Studio의 랜딩 페이지(글로벌 자산) 또는 보관된 페이지에 [랜딩 페이지 성과 보고서](/help/marketo/product-docs/demand-generation/landing-pages/understanding-landing-pages/landing-page-performance-report.md)를 집중합니다.
 
 1. **Analytics**(또는 **마케팅 활동**)으로 이동합니다.
 
@@ -42,10 +42,3 @@ ht-degree: 0%
 1. 다 끝났어! 필터링된 보고서를 보려면 **보고서** 탭을 클릭합니다.
 
    ![](assets/image2014-9-18-15-3a47-3a21.png)
-
->[!NOTE]
->
->**자세히 알아보기**
->
->[기본 보고](http://docs.marketo.com/display/docs/basic+reporting)의 보고서에 대해 모두 알아봅니다.
-
