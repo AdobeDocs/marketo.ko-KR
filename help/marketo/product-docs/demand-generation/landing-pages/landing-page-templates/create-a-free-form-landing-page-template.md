@@ -3,9 +3,9 @@ unique-page-id: 10097969
 description: 무료 랜딩 페이지 템플릿 만들기 - 마케팅 문서 - 제품 설명서
 title: 자유형 랜딩 페이지 템플릿 만들기
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: 2969e6f94f5fd781e2167ae2aa8680bb8d134754
 workflow-type: tm+mt
-source-wordcount: '198'
+source-wordcount: '196'
 ht-degree: 0%
 
 ---
@@ -46,14 +46,9 @@ ht-degree: 0%
    >양식의 사전 채우기를 방지하거나 특정 페이지의 웹 동작을 추적하지 않으려는 경우 **문킨 추적 비활성화**&#x200B;를 선택합니다.\
    >**모바일 호환성 유효성 검사**&#x200B;를 선택하여 코드가 모바일 장치와 호환되는지 확인합니다.
 
-   >[!NOTE]
+   >[!MORELIKETHIS]
    >
-   >**관련 문서**
-   >
-   >    
-   >    
-   >    * [자유형 랜딩 페이지 만들기](../../../../product-docs/demand-generation/landing-pages/free-form-landing-pages/create-a-free-form-landing-page.md)
-   >    * [안내 랜딩 페이지 템플릿 만들기](create-a-guided-landing-page-template.md)
-   >    * [자유 형식 및 안내 랜딩 페이지 이해](../../../../product-docs/demand-generation/landing-pages/understanding-landing-pages/understanding-free-form-vs-guided-landing-pages.md)
-
+   >* [자유형 랜딩 페이지 만들기](/help/marketo/product-docs/demand-generation/landing-pages/free-form-landing-pages/create-a-free-form-landing-page.md)
+   >* [안내 랜딩 페이지 템플릿 만들기](/help/marketo/product-docs/demand-generation/landing-pages/landing-page-templates/create-a-guided-landing-page-template.md)
+   >* [자유 형식 및 안내 랜딩 페이지 이해](/help/marketo/product-docs/demand-generation/landing-pages/understanding-landing-pages/understanding-free-form-vs-guided-landing-pages.md)
 
