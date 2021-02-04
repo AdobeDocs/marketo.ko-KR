@@ -3,9 +3,9 @@ unique-page-id: 7515207
 description: 자유 양식과 안내 랜딩 페이지 이해 - 마케팅 문서 - 제품 설명서
 title: 자유 형식 및 안내 랜딩 페이지 이해
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 2969e6f94f5fd781e2167ae2aa8680bb8d134754
 workflow-type: tm+mt
-source-wordcount: '209'
+source-wordcount: '174'
 ht-degree: 0%
 
 ---
@@ -13,7 +13,7 @@ ht-degree: 0%
 
 # 자유 형식 및 안내 랜딩 페이지 이해 {#understanding-free-form-vs-guided-landing-pages}
 
-선택하는 템플릿에 따라 작업할 랜딩 페이지 편집 모드가 결정됩니다. 다음 두 가지 경로를 사용할 수 있습니다.[free-form](http://docs.marketo.com/display/docs/free-form+landing+pages) 및 [guided](http://docs.marketo.com/display/docs/guided+landing+pages). 아래에서 중요한 차이점에 대한 간단한 요약을 확인할 수 있습니다.
+선택하는 템플릿에 따라 작업할 랜딩 페이지 편집 모드가 결정됩니다. 다음 두 가지 경로를 사용할 수 있습니다.[free-form](/help/marketo/product-docs/demand-generation/landing-pages/free-form-landing-pages/create-a-free-form-landing-page.md) 및 [guided](/help/marketo/product-docs/demand-generation/landing-pages/guided-landing-pages/create-a-guided-landing-page.md). 아래에서 중요한 차이점에 대한 간단한 요약을 확인할 수 있습니다.
 
 ## 자유형 페이지 {#free-form-pages}
 
@@ -33,13 +33,3 @@ ht-degree: 0%
 * 반응형 템플릿을 코딩하거나 구입했거나 미리 작성된 마케팅 템플릿 수정을 원하는 경우에 가장 적합합니다.
 
 ![](assets/two-1.png)
-
->[!MORELIKETHIS]
->
->* [자유형 랜딩 페이지](http://docs.marketo.com/display/public/DOCS/Free-Form+Landing+Pages)
->* [안내 랜딩 페이지](http://docs.marketo.com/display/DOCS/Guided+Landing+Pages)
-
->
-
-
-
