@@ -3,9 +3,9 @@ unique-page-id: 2359728
 description: 무료 랜딩 페이지 디자인을 위한 가이드 사용 - Marketing To Docs - 제품 설명서
 title: 자유 형식의 랜딩 페이지 디자인에 가이드 사용
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: 2969e6f94f5fd781e2167ae2aa8680bb8d134754
 workflow-type: tm+mt
-source-wordcount: '113'
+source-wordcount: '112'
 ht-degree: 0%
 
 ---
@@ -17,13 +17,13 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->안내서는 **무료**-**양식** 랜딩 페이지 편집기에서만 사용할 수 있습니다.
+>안내선은 **자유 형식** 랜딩 페이지 편집기에서만 사용할 수 있습니다.
 
 1. **랜딩 페이지**&#x200B;를 선택하고 **초안 편집**&#x200B;을 클릭합니다.
 
    ![](assets/image2015-5-20-14-3a10-3a9.png)
 
-1. **랜딩 페이지 작업 **을 클릭하고 **안내선 표시**&#x200B;를 선택합니다.
+1. **랜딩 페이지 작업**&#x200B;을 클릭하고 **안내선 표시**&#x200B;를 선택합니다.
 
    ![](assets/image2015-5-20-14-3a12-3a15.png)
 
@@ -36,4 +36,3 @@ ht-degree: 0%
    ![](assets/image2015-5-20-14-3a17-3a24.png)
 
    정렬된 개체는 눈에 쉽게 나타납니다!
-
