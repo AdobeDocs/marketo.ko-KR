@@ -3,9 +3,9 @@ unique-page-id: 2359815
 description: 개인화된 URL을 사용하여 목록 내보내기 - 마케팅 문서 - 제품 설명서
 title: 개인화된 URL을 사용하여 목록 내보내기
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 2969e6f94f5fd781e2167ae2aa8680bb8d134754
 workflow-type: tm+mt
-source-wordcount: '175'
+source-wordcount: '174'
 ht-degree: 0%
 
 ---
@@ -15,14 +15,11 @@ ht-degree: 0%
 
 >[!PREREQUISITES]
 >
->* [계정에 대해 개인화된 URL 활성화](enable-personalized-urls-for-your-account.md)
->* [랜딩 페이지에 대해 개인화된 URL 활성화](enable-personalized-urls-for-a-landing-page.md)
-
->
+>* [계정에 대해 개인화된 URL 활성화](/help/marketo/product-docs/demand-generation/landing-pages/personalizing-landing-pages/enable-personalized-urls-for-your-account.md)
+>* [랜딩 페이지에 대해 개인화된 URL 활성화](/help/marketo/product-docs/demand-generation/landing-pages/personalizing-landing-pages/enable-personalized-urls-for-a-landing-page.md)
 
 
-
-1. 목록 또는 스마트 목록을 선택하고 **리드** 탭을 클릭하여 결과를 가져온 다음 excel 아이콘을 클릭합니다. INLINE MarketingTo 고유 코드 ** 및 **Marketing To 고유 이름** [열이 표시](../../../../product-docs/core-marketo-concepts/smart-lists-and-static-lists/using-smart-lists/create-and-change-views-for-lists-and-smart-list.md)되었는지 확인합니다.
+1. 목록 또는 스마트 목록을 선택하고 **리드** 탭을 클릭하여 결과를 가져온 다음 excel 아이콘을 클릭합니다. 인라인 **마케팅 고유 코드** 및 **마케팅 고유 이름** [열이 표시](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/using-smart-lists/create-and-change-views-for-lists-and-smart-list.md)되는지 확인합니다.
 
    ![](assets/image2014-9-25-11-3a10-3a43.png)
 
@@ -46,11 +43,10 @@ ht-degree: 0%
 
    ![](assets/image2014-9-18-13-3a37-3a27.png)
 
-   이제 넌 끝났어! 이제 리드 목록과 개인화된 URL이 있습니다.
+   이제 모든 작업이 끝났습니다. 이제 리드 목록과 개인화된 URL이 있습니다.
 
    ![](assets/image2014-9-18-13-3a37-3a36.png)
 
    >[!NOTE]
    >
    >이름과 성이 같은 리드가 있는 경우 번호가 자동으로 추가되어 URL이 고유하게 유지됩니다.
-
