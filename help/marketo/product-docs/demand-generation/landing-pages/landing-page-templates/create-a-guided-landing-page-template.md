@@ -3,9 +3,9 @@ unique-page-id: 7515401
 description: 안내 랜딩 페이지 템플릿 만들기 - 마케팅 문서 - 제품 설명서
 title: 안내 랜딩 페이지 템플릿 만들기
 translation-type: tm+mt
-source-git-commit: 975e048271dae6a877ae9ff5d39360b159afcc8a
+source-git-commit: 2969e6f94f5fd781e2167ae2aa8680bb8d134754
 workflow-type: tm+mt
-source-wordcount: '1271'
+source-wordcount: '1269'
 ht-degree: 0%
 
 ---
@@ -15,7 +15,7 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->**깊은 잠수:** 읽기에 지쳤나요? [단계별 지침에 따라 이 멋진 ](https://youtu.be/3O7e4GdZKsM) 비디오를 시청하십시오.
+>책 읽는 게 지겨워요? [단계별 지침에 따라 이 멋진 ](https://youtu.be/3O7e4GdZKsM) 비디오를 시청하십시오.
 
 안내 랜딩 페이지 템플릿에는 특수 구문이 있습니다. 이 구문을 사용하여 템플릿을 사용하여 만든 각 랜딩 페이지에서 사용자 정의 가능한 항목과 최종 컨텐트 위치를 지정합니다. 편집 가능 영역으로 지정한 영역 또는 변수만 &quot;안내&quot; 랜딩 페이지 편집기 내에서 사용자 정의할 수 있습니다.
 
@@ -46,13 +46,13 @@ mktoText 클래스가 있는 요소의 컨텐츠(제공된 경우)가 편집 가
 
 예:
 
-`<pre data-theme="Confluence"><div class="mktoText" id="exampleText" mktoName="Main Body Text"> Optionally add default text for the editable text area. </div></pre>`
+`<pre data-theme="Confluence"><div class="mktoText" id="exampleText" mktoName="Main Body Text"> Optionally add default text for the editable text area.</div></pre>`
 
 ### 이미지 {#image}
 
 편집 가능한 이미지 요소를 정의하는 두 가지 옵션이 있습니다. 이미지를 삽입할 컨테이너를 지정하는 `<div>` 또는 `<img>` 태그를 사용할 수 있습니다.
 
-## 옵션 1 - <div> {#option-use-a-div}
+## 옵션 1 - `<div>` {#option-use-a-div} 사용
 
 필수 속성:
 
