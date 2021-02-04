@@ -3,7 +3,7 @@ unique-page-id: 7515027
 description: 안내 랜딩 페이지에 이미지 추가 - 마케팅 문서 - 제품 설명서
 title: 안내 랜딩 페이지에 이미지 추가
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: 2969e6f94f5fd781e2167ae2aa8680bb8d134754
 workflow-type: tm+mt
 source-wordcount: '121'
 ht-degree: 0%
@@ -31,11 +31,10 @@ ht-degree: 0%
 
    >[!NOTE]
    >
-   >이미지 크기 조절 방법은 템플릿에 따라 다릅니다. [안내 랜딩 페이지 템플릿](../../../../product-docs/demand-generation/landing-pages/landing-page-templates/create-a-guided-landing-page-template.md)에 대해 자세히 알아보십시오.
+   >이미지 크기 조절 방법은 템플릿에 따라 다릅니다. [안내 랜딩 페이지 템플릿](/help/marketo/product-docs/demand-generation/landing-pages/landing-page-templates/create-a-guided-landing-page-template.md)에 대해 자세히 알아보십시오.
 
    ![](assets/image2015-5-20-10-3a39-3a34.png)
 
    >[!TIP]
    >
    >편집기에서 이미지에 대한 링크 지정은 현재 지원되지 않습니다. 리치 텍스트 요소를 대신 사용하십시오.
-
