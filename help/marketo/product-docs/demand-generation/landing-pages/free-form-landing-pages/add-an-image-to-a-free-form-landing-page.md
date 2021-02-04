@@ -3,7 +3,7 @@ unique-page-id: 2359703
 description: 무료 랜딩 페이지에 이미지 추가 - Marketing To Docs - 제품 설명서
 title: 자유형 랜딩 페이지에 이미지 추가
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 2969e6f94f5fd781e2167ae2aa8680bb8d134754
 workflow-type: tm+mt
 source-wordcount: '73'
 ht-degree: 0%
@@ -15,11 +15,7 @@ ht-degree: 0%
 
 >[!PREREQUISITES]
 >
->* [마케팅에 이미지 및 파일 추가](../../../../product-docs/demand-generation/images-and-files/add-images-and-files-to-marketo.md)
-
->
-
-
+>[마케팅에 이미지 및 파일 추가](/help/marketo/product-docs/demand-generation/images-and-files/add-images-and-files-to-marketo.md)
 
 1. 자유 형식의 랜딩 페이지를 선택하고 **편집** **초안**&#x200B;을 클릭합니다.
 
@@ -40,4 +36,3 @@ ht-degree: 0%
    잘했어요! 방금 자유 형식의 랜딩 페이지에 이미지를 추가했습니다.
 
    ![](assets/image2015-5-21-15-3a40-3a11.png)
-
