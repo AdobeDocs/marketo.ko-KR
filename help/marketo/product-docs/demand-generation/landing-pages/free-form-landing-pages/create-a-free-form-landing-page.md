@@ -3,7 +3,7 @@ unique-page-id: 2359701
 description: 무료 랜딩 페이지 만들기 - 마케팅 문서 - 제품 설명서
 title: 자유형 랜딩 페이지 만들기
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: 2969e6f94f5fd781e2167ae2aa8680bb8d134754
 workflow-type: tm+mt
 source-wordcount: '180'
 ht-degree: 0%
@@ -17,7 +17,7 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->랜딩 페이지 모드는 해당 템플릿으로 정의됩니다. [자유 형식 및 안내 랜딩 페이지 템플릿에 ](../../../../product-docs/demand-generation/landing-pages/understanding-landing-pages/understanding-free-form-vs-guided-landing-pages.md) 대해 자세히 알아보십시오.
+>랜딩 페이지 모드는 해당 템플릿으로 정의됩니다. [자유 형식 및 안내 랜딩 페이지 템플릿에 ](/help/marketo/product-docs/demand-generation/landing-pages/understanding-landing-pages/understanding-free-form-vs-guided-landing-pages.md) 대해 자세히 알아보십시오.
 
 ## 프로그램 {#create-a-free-form-landing-page-in-a-program}에서 자유 형식의 랜딩 페이지 만들기
 
@@ -55,11 +55,11 @@ ht-degree: 0%
 
 ## Design Studio에서 자유 형식의 랜딩 페이지 만들기 {#create-a-free-form-landing-page-in-design-studio}
 
-1. **디자인** **Studio**&#x200B;로 이동합니다.
+1. **디자인 스튜디오**&#x200B;로 이동합니다.
 
    ![](assets/designstudio.png)
 
-1. **새로 만들기**&#x200B;를 클릭한 다음 **새 랜딩 페이지를 클릭합니다.**
+1. **새로 만들기**&#x200B;를 클릭한 다음 **새 랜딩 페이지**&#x200B;를 클릭합니다.
 
    ![](assets/image2014-9-16-13-3a0-3a43.png)
 
@@ -74,4 +74,3 @@ ht-degree: 0%
 >[!TIP]
 >
 >**만들기**&#x200B;를 클릭한 후 편집기를 즉시 열지 않으려면 &quot;새 페이지에 대한 랜딩 페이지 편집기 열기&quot;의 선택을 취소합니다.
-
