@@ -3,7 +3,7 @@ unique-page-id: 7515616
 description: 안내 랜딩 페이지 템플릿 - 마케팅 문서 - 제품 설명서
 title: 안내 랜딩 페이지 템플릿
 translation-type: tm+mt
-source-git-commit: 44ed91b485b52173922c709de63a4353e16c5072
+source-git-commit: 2969e6f94f5fd781e2167ae2aa8680bb8d134754
 workflow-type: tm+mt
 source-wordcount: '344'
 ht-degree: 0%
@@ -13,7 +13,7 @@ ht-degree: 0%
 
 # 안내 랜딩 페이지 템플릿 {#guided-landing-page-templates}
 
-[안내 랜딩 페이지 편집기](../../../../product-docs/demand-generation/landing-pages/guided-landing-pages/create-a-guided-landing-page.md)에 사용하기 위해 예제 템플릿 컬렉션을 찾아봅니다. 각 템플릿은 Bootstrap 프레임워크을 기반으로 완벽하게 응답합니다.
+[안내 랜딩 페이지 편집기](/help/marketo/product-docs/demand-generation/landing-pages/guided-landing-pages/create-a-guided-landing-page.md)에 사용하기 위해 예제 템플릿 컬렉션을 찾아봅니다. 각 템플릿은 Bootstrap 프레임워크을 기반으로 완벽하게 응답합니다.
 
 >[!NOTE]
 >
