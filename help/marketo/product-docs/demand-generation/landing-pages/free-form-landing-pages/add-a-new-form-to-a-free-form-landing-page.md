@@ -3,7 +3,7 @@ unique-page-id: 2359705
 description: 자유 형식 랜딩 페이지에 새 양식 추가 - Marketing To Docs - 제품 설명서
 title: 자유형 랜딩 페이지에 새 양식 추가
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 2969e6f94f5fd781e2167ae2aa8680bb8d134754
 workflow-type: tm+mt
 source-wordcount: '144'
 ht-degree: 0%
@@ -17,18 +17,15 @@ ht-degree: 0%
 
 >[!PREREQUISITES]
 >
->* [양식 만들기](../../../../product-docs/demand-generation/forms/creating-a-form/create-a-form.md)
->* [자유형 랜딩 페이지 만들기](create-a-free-form-landing-page.md)
-
->
+>* [양식 만들기](/help/marketo/product-docs/demand-generation/forms/creating-a-form/create-a-form.md)
+>* [자유형 랜딩 페이지 만들기](/help/marketo/product-docs/demand-generation/landing-pages/free-form-landing-pages/create-a-free-form-landing-page.md)
 
 
-
-1. **Marketing** **활동**&#x200B;으로 이동합니다.
+1. **마케팅 활동**&#x200B;으로 이동합니다.
 
    ![](assets/login-marketing-activities-1.png)
 
-1. 랜딩 페이지를 찾고 **편집** **초안**&#x200B;을 클릭합니다.
+1. 랜딩 페이지를 찾고 **초안 편집**&#x200B;을 클릭합니다.
 
    ![](assets/image2014-9-16-14-3a44-3a15.png)
 
@@ -43,13 +40,12 @@ ht-degree: 0%
 1. 후속 페이지를 선택할 때는 다음 3가지 옵션이 있습니다.
 
    * **랜딩 페이지**  - 마케팅 랜딩 페이지를 선택하는 방법
-   * **외부**** URL** - 원하는 URL 선택
+   * **외부 URL**  - 원하는 URL 선택
+   * **정의된**  양식 - 양식 수준에서 정의된 설정을 사용합니다.
 
-   * **양식**** 정의** - 양식 수준에서 정의된 설정을 사용합니다.
    >[!NOTE]
    >
    >**정의**
-   >
    >
    >후속 페이지는 양식을 제출한 후에 사람들이 보게 될 페이지입니다.
 
@@ -59,4 +55,4 @@ ht-degree: 0%
 
    잘했다!
 
-랜딩 페이지 편집기를 닫고 [랜딩 페이지 초안 승인](../../../../product-docs/demand-generation/landing-pages/understanding-landing-pages/approve-unapprove-or-delete-a-landing-page.md).
+랜딩 페이지 편집기를 닫고 [랜딩 페이지 초안 승인](/help/marketo/product-docs/demand-generation/landing-pages/understanding-landing-pages/approve-unapprove-or-delete-a-landing-page.md).
