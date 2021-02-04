@@ -3,9 +3,9 @@ unique-page-id: 5472283
 description: 무료 랜딩 페이지에 대한 모바일 보기 사용자 지정 - Marketing To Docs - 제품 설명서
 title: 모바일 보기를 자유 형식 랜딩 페이지에 맞게 사용자 지정
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 2969e6f94f5fd781e2167ae2aa8680bb8d134754
 workflow-type: tm+mt
-source-wordcount: '370'
+source-wordcount: '368'
 ht-degree: 0%
 
 ---
@@ -15,11 +15,7 @@ ht-degree: 0%
 
 >[!PREREQUISITES]
 >
->* [자유로운 형식의 랜딩 페이지에 대한 모바일 보기 추가](add-a-mobile-view-for-your-free-form-landing-page.md)
-
->
-
-
+>[자유로운 형식의 랜딩 페이지에 대한 모바일 보기 추가](/help/marketo/product-docs/demand-generation/landing-pages/free-form-landing-pages/add-a-mobile-view-for-your-free-form-landing-page.md)
 
 자유 형식 랜딩 페이지의 모바일 보기는 대부분 자동으로 설정되지만 사용자 정의할 수 있습니다. 방법
 
@@ -49,11 +45,12 @@ ht-degree: 0%
 
 ![](assets/image2015-5-21-15-3a12-3a2.png)
 
-## 알아야 할 중요한 사항: {#important-things-to-know}
+## 알아야 할 중요한 사항:{#important-things-to-know}
 
 * 이미지는 모바일 장치의 너비로 확장됩니다. 더 작은 이미지를 원하는 경우 리치 텍스트 요소를 가져와서 여기에서 이미지를 추가합니다.
 * Forms 2.0 양식만 사용합니다. 반응형으로 자동으로 조정됩니다.
-* 하나의 템플릿 요소만 편집할 수 있으며 BODY#bodyid(모바일). 이것을 사용하여 배경색을 변경할 수 있습니다.\
+* 하나의 템플릿 요소만 편집할 수 있으며 BODY#bodyid(모바일). 이것을 사용하여 배경색을 변경할 수 있습니다.
+
    ![](assets/image2015-5-21-15-3a15-3a47.png)
 
 ## 모바일 보기 {#hide-an-element-from-the-mobile-view}에서 요소 숨기기
@@ -112,13 +109,6 @@ ht-degree: 0%
 
 재미있게 놀아라!
 
->[!NOTE]
+>[!MORELIKETHIS]
 >
->**관련 문서**
->
->* [기존 자유 형식 랜딩 페이지 템플릿 모바일과 호환되도록 만들기](../../../../product-docs/demand-generation/landing-pages/landing-page-templates/make-an-existing-free-form-landing-page-template-mobile-compatible.md)
-
->
-
-
-
+>[기존 자유 형식 랜딩 페이지 템플릿 모바일과 호환되도록 만들기](/help/marketo/product-docs/demand-generation/landing-pages/landing-page-templates/make-an-existing-free-form-landing-page-template-mobile-compatible.md)
