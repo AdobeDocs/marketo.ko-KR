@@ -3,9 +3,9 @@ unique-page-id: 4720738
 description: 마케팅 랜딩 페이지 템플릿 편집 - 마케팅 문서 - 제품 설명서
 title: 마케팅 랜딩 페이지 템플릿 편집
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: 2969e6f94f5fd781e2167ae2aa8680bb8d134754
 workflow-type: tm+mt
-source-wordcount: '94'
+source-wordcount: '93'
 ht-degree: 0%
 
 ---
@@ -23,7 +23,7 @@ Marketing To 내에서 랜딩 페이지 템플릿을 편집할 수 있습니다.
 
    ![](assets/image2015-5-21-12-3a40-3a3.png)
 
-1. 편집할 **템플릿**&#x200B;을 선택합니다. [초안 편집**]을 클릭합니다**.
+1. 편집할 **템플릿**&#x200B;을 선택합니다. **초안 편집**&#x200B;을 클릭합니다.
 
    ![](assets/image2015-5-21-12-3a37-3a54.png)
 
@@ -32,4 +32,3 @@ Marketing To 내에서 랜딩 페이지 템플릿을 편집할 수 있습니다.
    >[!NOTE]
    >
    >랜딩 페이지 템플릿을 편집하면 해당 템플릿을 사용하여 랜딩 페이지 자산의 초안이 만들어집니다.
-
