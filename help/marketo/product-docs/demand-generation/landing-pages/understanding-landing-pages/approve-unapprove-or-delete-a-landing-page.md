@@ -3,9 +3,9 @@ unique-page-id: 2359710
 description: 랜딩 페이지 승인, 승인 취소 또는 삭제 - 마케팅 문서 - 제품 설명서
 title: 랜딩 페이지 승인, 승인 취소 또는 삭제
 translation-type: tm+mt
-source-git-commit: 00887ea53e395bea3a11fd28e0ac98b085ef6ed8
+source-git-commit: 2969e6f94f5fd781e2167ae2aa8680bb8d134754
 workflow-type: tm+mt
-source-wordcount: '291'
+source-wordcount: '290'
 ht-degree: 0%
 
 ---
@@ -21,7 +21,7 @@ ht-degree: 0%
 
    >[!TIP]
    >
-   >[여러 페이지를 한 번에 승인할 수 있습니다](../../../../product-docs/demand-generation/landing-pages/landing-page-actions/approve-multiple-landing-pages-at-once.md).
+   >[여러 페이지를 한 번에 승인할 수 있습니다](/help/marketo/product-docs/demand-generation/landing-pages/landing-page-actions/approve-multiple-landing-pages-at-once.md).
 
    ![](assets/image2014-9-16-15-3a28-3a22.png)
 
@@ -31,12 +31,10 @@ ht-degree: 0%
 
    >[!NOTE]
    >
-   >**미리 알림**
-   >
-   >
    >승인되면 랜딩 페이지 아이콘에 녹색 확인 표시가 나타납니다.
 
-1. 랜딩 페이지 승인 취소
+## 랜딩 페이지 승인 취소 {#unapprove-a-landing-page}
+
 1. 랜딩 페이지를 선택하고 **랜딩 페이지 작업**&#x200B;으로 이동한 다음 **비승인**&#x200B;을 클릭합니다.
 
    ![](assets/image2014-9-16-15-3a31-3a8.png)
@@ -47,7 +45,7 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->승인되지 않은 랜딩 페이지는 더 이상 웹에 게시되지 않으며 추가 활동을 생성하지 않습니다. 승인되지 않은 랜딩 페이지와 Facebook 탭의 방문자는 [폴백 페이지](../../../../product-docs/administration/settings/set-a-fallback-page.md)를 보게 됩니다.
+>승인되지 않은 랜딩 페이지는 더 이상 웹에 게시되지 않으며 추가 활동을 생성하지 않습니다. 승인되지 않은 랜딩 페이지와 Facebook 탭의 방문자는 [폴백 페이지](/help/marketo/product-docs/administration/settings/set-a-fallback-page.md)를 보게 됩니다.
 
 ## 랜딩 페이지 {#delete-a-landing-page} 삭제
 
