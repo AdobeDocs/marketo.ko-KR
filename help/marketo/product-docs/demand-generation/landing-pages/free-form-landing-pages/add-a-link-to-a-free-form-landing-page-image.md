@@ -3,7 +3,7 @@ unique-page-id: 2359736
 description: 무료 랜딩 페이지 이미지에 링크 추가 - Marketing To Docs - 제품 설명서
 title: 자유형 랜딩 페이지 이미지에 링크 추가
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 2969e6f94f5fd781e2167ae2aa8680bb8d134754
 workflow-type: tm+mt
 source-wordcount: '84'
 ht-degree: 0%
@@ -15,11 +15,7 @@ ht-degree: 0%
 
 >[!PREREQUISITES]
 >
->* [자유형 랜딩 페이지에 이미지 추가](add-an-image-to-a-free-form-landing-page.md)
-
->
-
-
+>[자유형 랜딩 페이지에 이미지 추가](/help/marketo/product-docs/demand-generation/landing-pages/free-form-landing-pages/add-an-image-to-a-free-form-landing-page.md)
 
 >[!NOTE]
 >
@@ -36,4 +32,3 @@ ht-degree: 0%
    멋진 작품! 이제 마케팅 랜딩 페이지에 mailto 링크로 사용되는 이미지가 있습니다.
 
    ![](assets/image2014-9-18-15-3a29-3a38.png)
-
