@@ -3,19 +3,15 @@ unique-page-id: 5472348
 description: 기존의 무료 랜딩 페이지 템플릿 모바일 호환 - Marketing To Docs - 제품 문서 만들기
 title: 기존 자유 형식 랜딩 페이지 템플릿 모바일과 호환되도록 만들기
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 2969e6f94f5fd781e2167ae2aa8680bb8d134754
 workflow-type: tm+mt
-source-wordcount: '277'
+source-wordcount: '251'
 ht-degree: 0%
 
 ---
 
 
 # 기존 자유 형식 랜딩 페이지 템플릿 모바일을 호환하도록 지정 {#make-an-existing-free-form-landing-page-template-mobile-compatible}
-
->[!NOTE]
->
->[2015년 1월 릴리스 전에 만든 랜딩 페이지 템플릿](../../../../release-notes/2015/release-notes-january-2015.md)을(를) 모바일 호환 가능하도록 업그레이드해야 합니다.
 
 템플릿 편집기와 랜딩 페이지 편집기의 두 위치에서 수행할 수 있습니다.
 
@@ -57,7 +53,9 @@ ht-degree: 0%
 
 좋은 질문입니다! 템플릿에는 다음 태그가 있어야 합니다.
 
-`<pre data-theme="Confluence">Must have <!DOCTYPE HTML> Must have a <HEAD> element Must have a <TITLE> in the <HEAD> element Must have <META CHARSET="UTF-8"> within the <HEAD> element Must have a <BODY> element that contains one (and only one) <DIV class="mktoContent"></DIV></pre>`  모든 것이 좋아 보이면 이 메시지가 표시됩니다.
+`<pre data-theme="Confluence">Must have <!DOCTYPE HTML> Must have a <HEAD> element Must have a <TITLE> in the <HEAD> element Must have <META CHARSET="UTF-8"> within the <HEAD> element Must have a <BODY> element that contains one (and only one) <DIV class="mktoContent"></DIV></pre>`
+
+모든 것이 좋아 보이면 이 메시지가 표시됩니다.
 
 ![](assets/image2015-1-22-20-3a41-3a31.png)
 
@@ -83,13 +81,4 @@ ht-degree: 0%
    >
    >템플릿의 모바일 버전을 활성화하면 템플릿을 사용하는 모든 랜딩 페이지의 초안이 만들어집니다.
 
-굉장해! 이제 이 템플릿을 사용하는 모든 랜딩 페이지의 모바일 보기[를 사용자 지정할 수 있습니다.](../../../../product-docs/demand-generation/landing-pages/free-form-landing-pages/customize-mobile-view-for-your-free-form-landing-page.md)
-
->[!MORELIKETHIS]
->
->* [모바일 보기를 자유 형식 랜딩 페이지에 맞게 사용자 지정](../../../../product-docs/demand-generation/landing-pages/free-form-landing-pages/customize-mobile-view-for-your-free-form-landing-page.md)
-
->
-
-
-
+굉장해! 이제 이 템플릿을 사용하는 모든 랜딩 페이지의 모바일 보기](/help/marketo/product-docs/demand-generation/landing-pages/free-form-landing-pages/customize-mobile-view-for-your-free-form-landing-page.md)를 사용자 지정할 수 있습니다.[
