@@ -3,9 +3,9 @@ unique-page-id: 9437843
 description: 템플릿 16-D - 마케팅 문서 - 제품 설명서
 title: 템플릿 16-D
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: 2969e6f94f5fd781e2167ae2aa8680bb8d134754
 workflow-type: tm+mt
-source-wordcount: '66'
+source-wordcount: '68'
 ht-degree: 0%
 
 ---
@@ -13,7 +13,7 @@ ht-degree: 0%
 
 # 템플릿 16-D {#template-d}
 
-[템플릿 16-D 다운로드](http://docs.marketo.com/download/attachments/9437843/template-16d.html?version=1&amp;modificationdate=1438980772000&amp;api=v2)
+[템플릿 다운로드 16-D](http://docs.marketo.com/download/attachments/9437843/template-16d.html?version=1&amp;modificationdate=1438980772000&amp;api=v2)를 마우스 오른쪽 단추로 클릭합니다.
 
 ![](assets/image2015-8-14-13-3a12-3a25.png)
 
@@ -27,6 +27,6 @@ ht-degree: 0%
 * 6개의 본문 섹션(선택 사항)
 * 바닥글(선택 사항)
 
-이 템플릿을 다운로드하려면 아래를 클릭하십시오.
+이 템플릿을 다운로드하려면 아래 마우스 오른쪽 버튼을 클릭하십시오.
 
 [Template16-D.html](http://docs.marketo.com/download/attachments/9437843/template-16d.html?version=1&amp;modificationdate=1438980772000&amp;api=v2)
