@@ -3,9 +3,9 @@ unique-page-id: 2359532
 description: 랜딩 페이지에서 동적 컨텐츠 사용 - 마케팅 문서 - 제품 설명서
 title: 랜딩 페이지에서 동적 컨텐츠 사용
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 2969e6f94f5fd781e2167ae2aa8680bb8d134754
 workflow-type: tm+mt
-source-wordcount: '198'
+source-wordcount: '196'
 ht-degree: 0%
 
 ---
@@ -15,12 +15,9 @@ ht-degree: 0%
 
 >[!PREREQUISITES]
 >
->* [세그멘테이션 만들기](../../../../product-docs/personalization/segmentation-and-snippets/segmentation/create-a-segmentation.md)
->* [자유형 랜딩 페이지 만들기](../../../../product-docs/demand-generation/landing-pages/free-form-landing-pages/create-a-free-form-landing-page.md)
->* [자유형 랜딩 페이지에 새 양식 추가](../../../../product-docs/demand-generation/landing-pages/free-form-landing-pages/add-a-new-form-to-a-free-form-landing-page.md)
-
->
-
+>* [세그멘테이션 만들기](/help/marketo/product-docs/personalization/segmentation-and-snippets/segmentation/create-a-segmentation.md)
+>* [자유형 랜딩 페이지 만들기](/help/marketo/product-docs/demand-generation/landing-pages/free-form-landing-pages/create-a-free-form-landing-page.md)
+>* [자유형 랜딩 페이지에 새 양식 추가](/help/marketo/product-docs/demand-generation/landing-pages/free-form-landing-pages/add-a-new-form-to-a-free-form-landing-page.md)
 
 
 랜딩 페이지에서 동적 컨텐츠를 사용하면 타깃팅된 정보를 제공할 수 있습니다.
@@ -81,14 +78,8 @@ ht-degree: 0%
 
 Voila! 이제 타깃팅된 컨텐츠를 보낼 수 있습니다.
 
->[!NOTE]
+>[!MORELIKETHIS]
 >
->**관련 문서**
->
->* [동적 컨텐츠가 있는 랜딩 페이지 미리 보기](../../../../product-docs/demand-generation/landing-pages/landing-page-actions/preview-a-landing-page-with-dynamic-content.md)
->* [이메일에서 동적 컨텐츠 사용](../../../../product-docs/email-marketing/general/functions-in-the-editor/using-dynamic-content-in-an-email.md)
-
->
-
-
+>* [동적 컨텐츠가 있는 랜딩 페이지 미리 보기](/help/marketo/product-docs/demand-generation/landing-pages/landing-page-actions/preview-a-landing-page-with-dynamic-content.md)
+>* [이메일에서 동적 컨텐츠 사용](/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/using-dynamic-content-in-an-email.md)
 
