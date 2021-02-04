@@ -3,7 +3,7 @@ unique-page-id: 7515069
 description: 안내 템플릿의 요소 및 변수 이해 - 마케팅 문서 - 제품 설명서
 title: 안내 템플릿에서 요소 및 변수 이해
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 2969e6f94f5fd781e2167ae2aa8680bb8d134754
 workflow-type: tm+mt
 source-wordcount: '187'
 ht-degree: 0%
@@ -33,7 +33,7 @@ ht-degree: 0%
 * ![—](assets/image2015-5-20-12-3a44-3a40.png)마케팅 대 경품 행사
 * ![—](assets/image2015-5-20-12-3a47-3a45.png)Marketing Snippet
 
-변수
+## 변수 {#variables}
 
 변수는 아래와 같이 안내 랜딩 페이지 편집기에서 사용자 지정할 수 있는 토큰과 같은 속성입니다.
 
@@ -60,5 +60,4 @@ ht-degree: 0%
 
 >[!MORELIKETHIS]
 >
->[안내 랜딩 페이지 템플릿 만들기](create-a-guided-landing-page-template.md)
-
+>[안내 랜딩 페이지 템플릿 만들기](/help/marketo/product-docs/demand-generation/landing-pages/landing-page-templates/create-a-guided-landing-page-template.md)
