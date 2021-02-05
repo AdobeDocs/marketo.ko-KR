@@ -3,9 +3,9 @@ unique-page-id: 2359498
 description: 코드 단편 미리 보기 - 마케팅 문서 - 제품 설명서
 title: 코드 단편 미리 보기
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
 workflow-type: tm+mt
-source-wordcount: '61'
+source-wordcount: '59'
 ht-degree: 0%
 
 ---
@@ -33,9 +33,7 @@ ht-degree: 0%
 
 미리 보기는 각 세그먼트에서 내용이 제대로 표시되는지 확인하는 데 유용합니다.
 
->[!NOTE]
->
->**관련 문서**
+>[!MORELIKETHIS]
 >
 >* [코드 단편 승인](approve-a-snippet.md)
 
