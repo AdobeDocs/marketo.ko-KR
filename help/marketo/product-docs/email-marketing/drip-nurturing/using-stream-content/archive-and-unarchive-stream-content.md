@@ -3,9 +3,9 @@ unique-page-id: 2359930
 description: 스트림 컨텐츠 보관 및 보관 취소 - Marketing To Docs - 제품 설명서
 title: 스트림 컨텐츠 보관 및 보관 취소
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
 workflow-type: tm+mt
-source-wordcount: '153'
+source-wordcount: '152'
 ht-degree: 0%
 
 ---
@@ -13,7 +13,7 @@ ht-degree: 0%
 
 # 스트림 컨텐츠 보관 및 보관 취소 {#archive-and-unarchive-stream-content}
 
-스트림의 콘텐츠 일부를 더 이상 사용하지 않으려면 [제거](remove-stream-content.md)하거나 보관할 수 있습니다. 컨텐츠 보관 방법
+스트림의 콘텐츠 일부를 더 이상 사용하지 않으려면 [제거](/help/marketo/product-docs/email-marketing/drip-nurturing/using-stream-content/remove-stream-content.md)하거나 보관할 수 있습니다. 컨텐츠 보관 방법
 
 >[!TIP]
 >
@@ -33,11 +33,11 @@ ht-degree: 0%
 
 ## 스트림 컨텐츠 보관 취소 {#unarchive-stream-content}
 
-1. 참여 프로그램을 선택하고 스트림 탭으로 이동합니다.
+1. 참여 프로그램을 선택하고 **Streams** 탭으로 이동합니다.
 
    ![](assets/image2014-9-15-17-3a42-3a11.png)
 
-1. 스트림의 톱니바퀴 아이콘을 클릭한 다음 보관된 콘텐트 표시를 클릭합니다.
+1. 스트림의 톱니바퀴 아이콘을 클릭한 다음 **보관된 콘텐트 표시**&#x200B;를 클릭합니다.
 
    ![](assets/image2014-9-15-17-3a42-3a15.png)
 
@@ -46,4 +46,3 @@ ht-degree: 0%
    ![](assets/image2014-9-15-17-3a42-3a24.png)
 
    완벽해! 이제 이 컨텐츠의 우선 순위를 지정하고 활성화할 수 있습니다.
-
