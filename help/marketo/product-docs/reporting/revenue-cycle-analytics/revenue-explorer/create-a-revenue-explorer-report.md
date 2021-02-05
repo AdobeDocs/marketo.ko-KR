@@ -3,9 +3,9 @@ unique-page-id: 7504047
 description: 매출 탐색기 보고서 만들기 - 마케팅 문서 - 제품 설명서
 title: 매출 탐색기 보고서 만들기
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
 workflow-type: tm+mt
-source-wordcount: '94'
+source-wordcount: '93'
 ht-degree: 0%
 
 ---
@@ -15,9 +15,8 @@ ht-degree: 0%
 
 매출 탐색기 보고서를 사용하면 마케팅 이니셔티브에 대한 ROI를 추적할 수 있습니다.
 
->[!NOTE]
+>[!AVAILABILITY]
 >
->**가용성**
 >
 >모든 고객이 이 기능을 구입하지는 않았습니다. 자세한 내용은 영업 담당자에게 문의하십시오.
 
