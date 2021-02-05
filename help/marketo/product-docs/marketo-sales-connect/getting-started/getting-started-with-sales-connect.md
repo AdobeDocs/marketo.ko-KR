@@ -3,9 +3,9 @@ unique-page-id: 13796466
 description: Sales Connect 시작하기 - Marketing Docs - 제품 설명서
 title: Sales Connect 시작하기
 translation-type: tm+mt
-source-git-commit: 1a29614ec938074902af201b2ffc11cfaa625f7a
+source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
 workflow-type: tm+mt
-source-wordcount: '638'
+source-wordcount: '637'
 ht-degree: 0%
 
 ---
@@ -15,9 +15,8 @@ ht-degree: 0%
 
 이 단계를 읽기보다는 시청하려면 [비디오 지침 아래](#video)으로 바로 건너뛰어 보십시오.
 
->[!NOTE]
+>[!AVAILABILITY]
 >
->**가용성**
 >
 >모든 고객이 이 기능을 구입하지는 않았습니다. 자세한 내용은 고객 성공 관리자에게 문의하십시오.
 
