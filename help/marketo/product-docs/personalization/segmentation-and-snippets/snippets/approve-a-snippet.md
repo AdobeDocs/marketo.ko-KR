@@ -3,9 +3,9 @@ unique-page-id: 2359463
 description: 코드 단편 승인 - Marketing To Docs - 제품 설명서
 title: 코드 단편 승인
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
 workflow-type: tm+mt
-source-wordcount: '59'
+source-wordcount: '57'
 ht-degree: 0%
 
 ---
@@ -33,9 +33,7 @@ ht-degree: 0%
 
 바로 그거야! 코드 조각의 상태가 초안에서 승인됨으로 변경됩니다.
 
->[!NOTE]
->
->**관련 문서**
+>[!MORELIKETHIS]
 >
 >* [초안 없이 코드 조각 승인](approve-a-snippet-with-no-draft.md)
 
