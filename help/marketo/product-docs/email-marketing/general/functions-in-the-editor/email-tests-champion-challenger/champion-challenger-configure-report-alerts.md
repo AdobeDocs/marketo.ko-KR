@@ -3,9 +3,9 @@ unique-page-id: 2359567
 description: Champion/Challener -보고서 경고 구성 - Marketing To Docs - 제품 설명서
 title: 챔피언/도전자 -보고서 경고 구성
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
 workflow-type: tm+mt
-source-wordcount: '141'
+source-wordcount: '139'
 ht-degree: 0%
 
 ---
@@ -45,9 +45,8 @@ Marketing Cloud에서 이메일 테스트 진행 상황 보고서를 전송합�
 
    보고서에는 다음과 같은 유용한 세부 사항이 포함됩니다.테스트 유형, 우승자 기준, 열린 이메일 수 등 또한 테스트 자체에 대한 직접 링크가 있어 우승자를 선언할 수 있습니다! 멋진 것들이요
 
-   >[!NOTE]
+   >[!MORELIKETHIS]
    >
-   >**관련 문서**
    >
    >    
    >    
