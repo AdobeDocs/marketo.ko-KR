@@ -3,9 +3,9 @@ unique-page-id: 7503973
 description: 프레젠테이션 사용자 지정 - 마케팅 문서 - 제품 설명서
 title: 프레젠테이션 사용자 정의
 translation-type: tm+mt
-source-git-commit: e5050328cbddaf072dd60ddd8d7363a704e720b5
+source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
 workflow-type: tm+mt
-source-wordcount: '286'
+source-wordcount: '285'
 ht-degree: 0%
 
 ---
@@ -15,9 +15,8 @@ ht-degree: 0%
 
 팀에 가장 중요한 목표 및 활동을 반영하도록 달력 프레젠테이션을 설정합니다.
 
->[!NOTE]
+>[!AVAILABILITY]
 >
->**가용성**
 >
 >모든 고객이 이 기능을 구입하지는 않았습니다. 자세한 내용은 영업 담당자에게 문의하십시오.
 
