@@ -3,9 +3,9 @@ unique-page-id: 2359491
 description: A/B 테스트 추가 - 마케팅 문서 - 제품 설명서
 title: A/B 테스트 추가
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
 workflow-type: tm+mt
-source-wordcount: '193'
+source-wordcount: '191'
 ht-degree: 0%
 
 ---
@@ -48,11 +48,9 @@ ht-degree: 0%
 
    >[!CAUTION]
    >
-   >데이터베이스에 중복 레코드가 있는 경우 해당 레코드는 테스트 및 우승 전자 메일을 모두 **받습니다.** 이 문제가 발생하지 않도록 하려면 데이터베이스에 중복 사용자[를 찾아 병합하십시오.](http://docs.marketo.com/x/G4EI)
+   >데이터베이스에 중복 레코드가 있는 경우 해당 레코드는 테스트 및 우승 전자 메일을 모두 **받습니다.** 이 문제가 발생하지 않도록 하려면 데이터베이스에 중복 사용자](http://docs.marketo.com/x/G4EI)를 찾아 병합하십시오.[
 
->[!NOTE]
->
->**관련 문서**
+>[!MORELIKETHIS]
 >
 >* [&quot;제목 줄&quot; A/B 테스트 사용](use-subject-line-a-b-testing.md)
 >* [&quot;전체 이메일&quot; A/B 테스트 사용](use-whole-email-a-b-testing.md)
