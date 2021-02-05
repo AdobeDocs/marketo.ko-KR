@@ -3,9 +3,9 @@ unique-page-id: 4720810
 description: Google에서 개인화된 리마케팅 - Marketing To Docs - 제품 설명서
 title: Google에서 개인화된 리마케팅
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
 workflow-type: tm+mt
-source-wordcount: '299'
+source-wordcount: '297'
 ht-degree: 0%
 
 ---
@@ -103,9 +103,7 @@ Google Universal Analytics에서:
 
    ![](assets/image2015-1-15-18-3a47-3a21.png)
 
->[!NOTE]
->
->**관련 문서**
+>[!MORELIKETHIS]
 >
 >* [웹 개인화 데이터를 사용한 리타겟팅](retargeting-with-web-personalization-data.md)
 >* [Facebook에서 개인화된 리마케팅](personalized-remarketing-in-facebook.md)
