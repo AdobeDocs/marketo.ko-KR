@@ -3,9 +3,9 @@ unique-page-id: 2359963
 description: 프로그램에서 보고서 만들기 - 마케팅 문서 - 제품 설명서
 title: 프로그램에서 보고서 만들기
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
 workflow-type: tm+mt
-source-wordcount: '217'
+source-wordcount: '215'
 ht-degree: 0%
 
 ---
@@ -70,9 +70,8 @@ ht-degree: 0%
    >
    >많은 보고서를 신속하게 만들 수 있습니다. 더 이상 필요하지 않은 보고서](../../../../product-docs/reporting/basic-reporting/report-activity/delete-a-report.md)를 [삭제해야 합니다.
 
-   >[!NOTE]
+   >[!MORELIKETHIS]
    >
-   >**관련 문서**
    >
    >
    >[보고서 시간 프레임](../../../../product-docs/reporting/basic-reporting/editing-reports/change-a-report-time-frame.md), [기본 보고서 구독](../../../../product-docs/reporting/basic-reporting/report-subscriptions/subscribe-to-a-basic-report.md), [보고서를 Excel](../../../../product-docs/reporting/basic-reporting/report-activity/export-a-report-to-excel.md)로 내보내기, [보고서를 스마트 목록](../../../../product-docs/reporting/basic-reporting/editing-reports/filter-people-in-a-report-with-a-smart-list.md) 및 [기타](http://docs.marketo.com/display/docs/basic+reporting)로 보고서의 사람을 필터링할 수 있습니다.
