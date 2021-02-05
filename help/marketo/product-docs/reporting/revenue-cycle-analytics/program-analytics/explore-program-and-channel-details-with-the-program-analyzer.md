@@ -3,9 +3,9 @@ unique-page-id: 2360437
 description: 프로그램 분석기를 사용한 프로그램 및 채널 세부 정보 - 마케팅 문서 - 제품 설명서
 title: 프로그램 분석기를 사용하여 프로그램 및 채널 세부 사항 살펴보기
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
 workflow-type: tm+mt
-source-wordcount: '213'
+source-wordcount: '212'
 ht-degree: 0%
 
 ---
@@ -20,9 +20,8 @@ ht-degree: 0%
 >* [프로그램 분석기 만들기](create-a-program-analyzer.md)
 
 
->[!NOTE]
+>[!AVAILABILITY]
 >
->**가용성**
 >
 >일부 Marketing To 에디션에는 이 기능이 포함되어 있지 않습니다. 자세한 내용은 계정 관리자에게 문의하십시오.
 
@@ -40,7 +39,7 @@ ht-degree: 0%
 
    >[!NOTE]
    >
-   >프로그램 분석기에서 선택할 수 있는 많은 지표는 FT(First-Touch) 및 MT(Multi-Touch) 계산 시 사용할 수 있습니다. FT와 MT 속성[의 차이를 이해하는 것이 중요합니다.](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-tools/attribution/understanding-attribution.md)
+   >프로그램 분석기에서 선택할 수 있는 많은 지표는 FT(First-Touch) 및 MT(Multi-Touch) 계산 시 사용할 수 있습니다. FT와 MT 속성](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-tools/attribution/understanding-attribution.md)의 차이를 이해하는 것이 중요합니다.[
 
 1. 단일 채널 내의 모든 프로그램을 비교하려면 팝업 대화 상자에서 채널 이름을 클릭합니다.
 
