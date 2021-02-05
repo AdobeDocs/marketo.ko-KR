@@ -3,9 +3,9 @@ unique-page-id: 2360199
 description: 속성별 사람 보고서 그룹화 - 마케팅 문서 - 제품 설명서
 title: 속성별 사람 보고서 그룹화
 translation-type: tm+mt
-source-git-commit: d7d6aee63144c472e02fe0221c4a164183d04dd4
+source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
 workflow-type: tm+mt
-source-wordcount: '158'
+source-wordcount: '156'
 ht-degree: 0%
 
 ---
@@ -50,9 +50,8 @@ ht-degree: 0%
    >
    >[기본 보고](http://docs.marketo.com/display/docs/basic+reporting)딥 잠수에서 개인 보고서와 기타 보고서 유형에 대해 자세히 알아보십시오.
 
-   >[!NOTE]
+   >[!MORELIKETHIS]
    >
-   >**관련 문서**
    >
    >    
    >    
