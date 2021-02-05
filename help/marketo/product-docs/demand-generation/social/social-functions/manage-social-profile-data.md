@@ -3,9 +3,9 @@ unique-page-id: 2950578
 description: 소셜 프로필 데이터 관리 - 마케팅 문서 - 제품 설명서
 title: 소셜 프로필 데이터 관리
 translation-type: tm+mt
-source-git-commit: d7d6aee63144c472e02fe0221c4a164183d04dd4
+source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
 workflow-type: tm+mt
-source-wordcount: '345'
+source-wordcount: '304'
 ht-degree: 0%
 
 ---
@@ -13,13 +13,11 @@ ht-degree: 0%
 
 # 소셜 프로필 데이터 관리 {#manage-social-profile-data}
 
-누군가 Marketing[소셜 앱](../../../../product-docs/demand-generation/social/configuring-social-actions/customize-social-app-button.md)과 상호 작용하거나, 소셜 네트워크를 통해 [소셜 양식 채우기](../../../../product-docs/demand-generation/forms/form-actions/enable-social-form-fill-on-a-form.md)로 마케팅 양식을 미리 채우도록 승인하면, Marketing은 소셜 프로필에서 사용할 수 있는 모든 데이터를 캡처합니다. [사람 세부 정보 페이지](http://docs.marketo.com/display/DOCS/Using+the+Person+Detail+Page)에서 이 정보를 보거나, 스마트 목록](http://docs.marketo.com/display/DOCS/Create+and+Change+Views+for+Lists+and+Smart+List)의 [사용자 정의 보기에서 열로 추가할 수 있습니다.
+누군가 Marketing[소셜 앱](/help/marketo/product-docs/demand-generation/social/configuring-social-actions/customize-social-app-button.md)과 상호 작용하거나, 소셜 네트워크를 통해 [소셜 양식 채우기](/help/marketo/product-docs/demand-generation/forms/form-actions/enable-social-form-fill-on-a-form.md)로 마케팅 양식을 미리 채우도록 승인하면, Marketing은 소셜 프로필에서 사용할 수 있는 모든 데이터를 캡처합니다. [사람 세부 정보 페이지](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/managing-people-in-smart-lists/using-the-person-detail-page.md)에서 이 정보를 보거나, 스마트 목록](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/using-smart-lists/create-and-change-views-for-lists-and-smart-list.md)의 [사용자 정의 보기에서 열로 추가할 수 있습니다.
 
 소셜 양식 채우기 및 소셜 앱은 약간 다른 필드 세트를 캡처합니다.아래 각 섹션을 참조하십시오.
 
->[!NOTE]
->
->**가용성**
+>[!AVAILABILITY]
 >
 >모든 고객이 이 기능을 구입하지는 않았습니다. 자세한 내용은 영업 담당자에게 문의하십시오.
 
@@ -58,7 +56,7 @@ ht-degree: 0%
 
 >[!CAUTION]
 >
->양식 수준](../../../../product-docs/administration/field-management/block-updates-to-a-field.md)에서 해당 필드에 대한 업데이트를 [차단하지 않으면 소셜 양식 채우기로 캡처된 데이터가 일치하는 필드를 덮어씁니다.
+>양식 수준](/help/marketo/product-docs/administration/field-management/block-updates-to-a-field.md)에서 해당 필드에 대한 업데이트를 [차단하지 않으면 소셜 양식 채우기로 캡처된 데이터가 일치하는 필드를 덮어씁니다.
 
 ## Twitter에서:{#from-twitter-1}
 
@@ -77,15 +75,8 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->소셜 양식 채우기는 사용자가 양식에 입력하는 경우 이메일 주소 *만*&#x200B;을 캡처합니다. 이메일 주소가 필요한 경우 [양식에 필수 필드로 지정해야 합니다](../../../../product-docs/demand-generation/forms/creating-a-form/make-a-form-field-required.md).
+>소셜 양식 채우기는 사용자가 양식에 입력하는 경우 이메일 주소 _만_&#x200B;을 캡처합니다. 이메일 주소가 필요한 경우 [양식에 필수 필드로 지정해야 합니다](/help/marketo/product-docs/demand-generation/forms/creating-a-form/make-a-form-field-required.md).
 
 >[!MORELIKETHIS]
 >
->양식에서 이 정보를 캡처하려면 [소셜 양식 채우기](../../../../product-docs/demand-generation/forms/form-actions/enable-social-form-fill-on-a-form.md)를 활성화합니다.
-
->[!NOTE]
->
->**자세히 알아보기**
->
->[Forms](http://docs.marketo.com/display/docs/forms)자세히 알아보기
-
+>양식에서 이 정보를 캡처하려면 [소셜 양식 채우기](/help/marketo/product-docs/demand-generation/forms/form-actions/enable-social-form-fill-on-a-form.md)를 활성화합니다.
