@@ -3,7 +3,7 @@ unique-page-id: 2359811
 description: 소셜 앱용 공유 URL - 마케팅 문서 - 제품 설명서 선택
 title: 소셜 앱에 대한 공유 URL 선택
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
 workflow-type: tm+mt
 source-wordcount: '123'
 ht-degree: 0%
@@ -35,21 +35,13 @@ ht-degree: 0%
    >
    >**정의**
    >
-   >
    >게시물 공유는 다음 3곳에 링크될 수 있습니다.
    >
-   >    
-   >    
-   >    * **참조 페이지**:앱이 포함된 페이지입니다.
-   >    * **기타 랜딩 페이지**:드롭다운의 페이지와 다른 Marketing 랜딩 페이지입니다.
-   >    * **외부 URL**:비마케팅 랜딩 페이지입니다.
+   >* **참조 페이지**:앱이 포함된 페이지입니다.
+   >* **기타 랜딩 페이지**:드롭다운의 페이지와 다른 Marketing 랜딩 페이지입니다.
+   >* **외부 URL**:비마케팅 랜딩 페이지입니다.
 
 
 >[!MORELIKETHIS]
 >
->* [소셜 앱에 개인정보 보호정책 추가](add-your-privacy-policy-to-a-social-app.md)
-
->
-
-
-
+>[소셜 앱에 개인정보 보호정책 추가](/help/marketo/product-docs/demand-generation/social/social-functions/add-your-privacy-policy-to-a-social-app.md)
