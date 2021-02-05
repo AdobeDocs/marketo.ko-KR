@@ -3,9 +3,9 @@ unique-page-id: 7512445
 description: 푸시 구성 확인 - 마케팅 문서 - 제품 설명서
 title: 푸시 구성 확인
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
 workflow-type: tm+mt
-source-wordcount: '81'
+source-wordcount: '79'
 ht-degree: 0%
 
 ---
@@ -39,9 +39,7 @@ ht-degree: 0%
 
    ![](assets/image2015-4-22-18-3a52-3a38.png)   모두 준비됐습니다! 이제 푸시 알림 ![(sill)](assets/smile.svg) 전송을 시작할 수 있습니다.
 
->[!NOTE]
->
->**관련 문서**
+>[!MORELIKETHIS]
 >
 >* [푸시 알림 만들기](../../../product-docs/mobile-marketing/push-notifications/create-a-push-notification.md)
 
