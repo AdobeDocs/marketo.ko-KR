@@ -3,9 +3,9 @@ unique-page-id: 2360028
 description: 보고서 복제 - 마케팅 문서 - 제품 설명서
 title: 보고서 복제
 translation-type: tm+mt
-source-git-commit: 00887ea53e395bea3a11fd28e0ac98b085ef6ed8
+source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
 workflow-type: tm+mt
-source-wordcount: '95'
+source-wordcount: '93'
 ht-degree: 0%
 
 ---
@@ -33,9 +33,8 @@ ht-degree: 0%
 
    바로 그것입니다. 클론 맞춤화를 시작할 준비가 되었습니다.
 
-   >[!NOTE]
+   >[!MORELIKETHIS]
    >
-   >**관련 문서**
    >
    >    
    >    
