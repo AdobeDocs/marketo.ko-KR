@@ -3,9 +3,9 @@ unique-page-id: 4720796
 description: 웹 개인화 데이터를 사용한 리타겟팅 - 마케팅 문서 - 제품 설명서
 title: 웹 개인화 데이터를 사용한 리타겟팅
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
 workflow-type: tm+mt
-source-wordcount: '415'
+source-wordcount: '414'
 ht-degree: 0%
 
 ---
@@ -13,9 +13,8 @@ ht-degree: 0%
 
 # 웹 개인화 데이터를 사용한 리타겟팅 {#retargeting-with-web-personalization-data}
 
->[!NOTE]
+>[!AVAILABILITY]
 >
->**가용성**
 >
 >이제 웹 사이트 재타깃팅이 웹 개인화 타일에 적용됩니다. 리타겟팅을 구입하기만 하면 이 타일이 표시되고 **만** 리타겟팅 기능이 활성화된 웹 개인화 제품에 액세스할 수 있습니다. 계정 설정, 다시 타깃팅 페이지, 세그먼트 및 추가 추적 페이지에 액세스할 수 있습니다.
 
