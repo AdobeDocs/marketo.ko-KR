@@ -3,7 +3,7 @@ unique-page-id: 2950547
 description: 소셜 앱에 대한 사람 캡처 구성 - 마케팅 문서 - 제품 설명서
 title: 소셜 앱에 대한 사람 캡처 구성
 translation-type: tm+mt
-source-git-commit: d7d6aee63144c472e02fe0221c4a164183d04dd4
+source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
 workflow-type: tm+mt
 source-wordcount: '174'
 ht-degree: 0%
@@ -13,7 +13,7 @@ ht-degree: 0%
 
 # 소셜 앱 {#configure-person-capture-for-a-social-app}에 대한 사람 캡처 구성
 
-[참조 오퍼](../../../../product-docs/demand-generation/social/referral-offers/create-a-referral-offer.md) 또는 [경품 행사](../../../../product-docs/demand-generation/social/sweepstakes/create-sweepstakes.md)를 만들 때 사용자가 요청하는 정보와 참가하기 위해 사람들에게 필요한 정보를 구성할 수 있습니다.
+[참조 오퍼](/help/marketo/product-docs/demand-generation/social/referral-offers/create-a-referral-offer.md) 또는 [경품 행사](/help/marketo/product-docs/demand-generation/social/sweepstakes/create-sweepstakes.md)를 만들 때 사용자가 요청하는 정보와 참가하기 위해 사람들에게 필요한 정보를 구성할 수 있습니다.
 
 >[!NOTE]
 >
@@ -23,11 +23,11 @@ ht-degree: 0%
 
    ![](assets/ma-2.png)
 
-1. 앱을 선택하고 **초안 편집을 클릭합니다.**
+1. 앱을 선택하고 **초안 편집**&#x200B;을 클릭합니다.
 
    ![](assets/image2014-9-22-10-3a57-3a57.png)
 
-1. 소셜 앱 편집기에서 **등록 흐름** > **인물 캡처로 이동합니다.**
+1. 소셜 앱 편집기에서 **등록 흐름** > **인물 캡처**&#x200B;로 이동합니다.
 
    ![](assets/three-1.png)
 
@@ -42,7 +42,7 @@ ht-degree: 0%
 
    >[!NOTE]
    >
-   >어느 쪽이든 참가자는 여전히 오퍼로부터 [*operational* email](../../../../product-docs/email-marketing/general/functions-in-the-editor/make-an-email-operational.md)을(를) 수신하게 됩니다.
+   >어느 쪽이든 참가자는 여전히 오퍼로부터 [_operational_ email](/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/make-an-email-operational.md)을(를) 수신하게 됩니다.
 
 1. [보기 및 편집] 창에서 **편집 내용 표시**&#x200B;를 클릭하고 공유 알림에서 메시지를 편집합니다.
 
@@ -50,5 +50,4 @@ ht-degree: 0%
 
 >[!MORELIKETHIS]
 >
->이제 [소셜 가입 흐름](configure-social-sign-up-share-flow.md)을 구성하고 각 소셜 네트워크에 게시될 공유 메시지를 편집할 수 있습니다.
-
+>이제 [소셜 가입 흐름](/help/marketo/product-docs/demand-generation/social/configuring-social-actions/configure-social-sign-up-share-flow.md)을 구성하고 각 소셜 네트워크에 게시될 공유 메시지를 편집할 수 있습니다.
