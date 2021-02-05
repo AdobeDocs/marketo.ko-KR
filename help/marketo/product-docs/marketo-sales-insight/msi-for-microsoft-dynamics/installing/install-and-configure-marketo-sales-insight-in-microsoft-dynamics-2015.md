@@ -3,9 +3,9 @@ unique-page-id: 7513865
 description: Microsoft Dynamics 2015에서 Marketing To Sales Insight 설치 및 구성 - Marketing Docs - 제품 설명서
 title: Microsoft Dynamics 2015에서 Marketing To Sales Insight 설치 및 구성
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
 workflow-type: tm+mt
-source-wordcount: '457'
+source-wordcount: '455'
 ht-degree: 0%
 
 ---
@@ -160,9 +160,7 @@ Dynamics에서 Marketing To 인스턴스를 Sales Insight에 연결합니다. �
 
 이제 영업 팀에 대한 Marketing To Sales Insight의 강력한 기능을 사용할 수 있습니다.
 
->[!NOTE]
->
->**관련 문서**
+>[!MORELIKETHIS]
 >
 >[리드/연락처 레코드에 대한 별과 불꽃 설정](http://docs.marketo.com/x/BICMAg)
 
