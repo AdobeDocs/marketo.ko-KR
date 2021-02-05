@@ -3,7 +3,7 @@ unique-page-id: 2359949
 description: 참여 프로그램에서 인물 일시 중지 - 마케팅 문서 - 제품 설명서
 title: 참여 프로그램에서 인물 일시 중지
 translation-type: tm+mt
-source-git-commit: d7d6aee63144c472e02fe0221c4a164183d04dd4
+source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
 workflow-type: tm+mt
 source-wordcount: '126'
 ht-degree: 0%
@@ -13,13 +13,13 @@ ht-degree: 0%
 
 # 참여 프로그램 {#pause-people-in-an-engagement-program}에서 인물 일시 중지
 
-사용자가 참여 프로그램의 멤버인 경우 [모든 콘텐트가 소진될 때까지 콘텐트를 받습니다](people-who-have-exhausted-content.md). [참여 프로그램 대상 변경](../../../../product-docs/core-marketo-concepts/smart-campaigns/program-flow-actions/change-engagement-program-cadence.md) 흐름 단계를 사용하여 아직 컨텐츠가 다 소진되지 않았더라도 사람들이 컨텐츠를 받지 못하도록 할 수 있습니다.
+사용자가 참여 프로그램의 멤버인 경우 [모든 콘텐트가 소진될 때까지 콘텐트를 받습니다](people-who-have-exhausted-content.md). [참여 프로그램 대상 변경](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/program-flow-actions/change-engagement-program-cadence.md) 흐름 단계를 사용하여 아직 컨텐츠가 다 소진되지 않았더라도 사람들이 컨텐츠를 받지 못하도록 할 수 있습니다.
 
 1. 참여 프로그램을 선택합니다.
 
    ![](assets/image2014-9-22-14-3a49-3a27.png)
 
-1. **Paused**를 **새 값**&#x200B;으로 선택하여 받는 사람이 콘텐트를 받지 못하게 합니다.
+1. **Paused**&#x200B;을 **New Value**&#x200B;로 선택하여 사용자가 콘텐트를 받지 못하도록 합니다.
 
    ![](assets/image2014-9-22-14-3a49-3a31.png)
 
@@ -28,4 +28,3 @@ ht-degree: 0%
    >[!NOTE]
    >
    >사람을 일시 중지하면 컨텐츠가 수신되지 않지만 기준을 충족하면 스트림 간에 계속 전환됩니다.
-
