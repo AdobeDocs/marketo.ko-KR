@@ -3,9 +3,9 @@ unique-page-id: 2359451
 description: 기존 이메일 - 마케팅 문서 - 제품 설명서 선택
 title: 기존 이메일 선택
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
 workflow-type: tm+mt
-source-wordcount: '155'
+source-wordcount: '153'
 ht-degree: 0%
 
 ---
@@ -46,9 +46,7 @@ ht-degree: 0%
 
 이제 보낼 이메일을 결정했으므로 A/B 테스트를 설정하거나 건너뛰고 이메일 프로그램을 예약할 수 있습니다.
 
->[!NOTE]
->
->**관련 문서**
+>[!MORELIKETHIS]
 >
 >* [A/B 테스트 추가](email-test-a-b-test/add-an-a-b-test.md)
 >* [이메일 프로그램 예약](schedule-your-email-program.md)
