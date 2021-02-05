@@ -3,9 +3,9 @@ unique-page-id: 12976798
 description: LinkedIn 리드 세대 Forms - Marketing To Docs - 제품 설명서 설정
 title: LinkedIn 리드 세대 Forms 설정
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
 workflow-type: tm+mt
-source-wordcount: '432'
+source-wordcount: '433'
 ht-degree: 0%
 
 ---
@@ -27,11 +27,11 @@ LinkedIn 리드 생성 Forms을 사용하여 LinkedIn에서 광고 캠페인을 
 
    ![](assets/image2016-11-29-10-3a51-3a11.png)
 
-1. 서비스에 대해 **표시 이름**&#x200B;을 입력하고 드롭다운에서 **LinkedIn 리드 젠 ** 서비스를 선택하고 **다음**&#x200B;을 클릭합니다.
+1. 서비스에 대해 **표시 이름**&#x200B;을 입력하고 드롭다운에서 **LinkedIn 리드 생성** 서비스를 선택하고 **다음**&#x200B;을 클릭합니다.
 
    ![](assets/linkedin-lead-gen.png)
 
-1. Marketing에서 [www.linkedin.com](http://www.linkedin.com)에 대한 동일한 브라우저에서 새 탭을 엽니다. 통합에 사용할 계정을 사용하여 LinkedIn에 로그인합니다.
+1. Marketing에서는 같은 브라우저에서 [linkedin.com](https://www.linkedin.com)에 대한 새 탭을 엽니다. 통합에 사용할 계정을 사용하여 LinkedIn에 로그인합니다.
 
    >[!NOTE]
    >
@@ -43,7 +43,7 @@ LinkedIn 리드 생성 Forms을 사용하여 LinkedIn에서 광고 캠페인을 
 
    ![](assets/linkedin-lead-gen-authorize.png)
 
-1. 메시지가 표시되면 **허용을 **를 클릭하여 LinkedIn에 Marketing 앱 설치를 수락합니다.
+1. 메시지가 표시되면 **Allow**&#x200B;을 클릭하여 LinkedIn에 Marketing 앱 설치를 수락합니다.
 
    ![](assets/linkedin-marketo-allow.png)
 
@@ -85,9 +85,4 @@ LinkedIn 리드 생성 Forms을 사용하여 LinkedIn에서 광고 캠페인을 
 
 >[!MORELIKETHIS]
 >
->* [스마트 캠페인에서 LinkedIn 리드 생성 양식 필터 및 트리거 사용](use-linkedin-lead-gen-form-filters-and-triggers-in-a-smart-campaign.md)
-
->
-
-
-
+>[스마트 캠페인에서 LinkedIn 리드 생성 양식 필터 및 트리거 사용](/help/marketo/product-docs/demand-generation/social/social-functions/use-linkedin-lead-gen-form-filters-and-triggers-in-a-smart-campaign.md)
