@@ -3,9 +3,9 @@ unique-page-id: 1900595
 description: 스마트 목록으로 대상 정의 - 마케팅 문서 - 제품 설명서
 title: 스마트 목록으로 대상 정의
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
 workflow-type: tm+mt
-source-wordcount: '295'
+source-wordcount: '293'
 ht-degree: 0%
 
 ---
@@ -13,7 +13,7 @@ ht-degree: 0%
 
 # 스마트 목록 {#define-an-audience-with-a-smart-list}으로 대상 정의
 
-[이메일 프로그램](../../../../product-docs/email-marketing/email-programs/creating-an-email-program/create-an-email-program.md)을 만든 후 이메일을 보낼 사람을 알려주십시오. 사람 목록[을 가져오거나 스마트 목록을 사용하여 이 작업을 수행할 수 있습니다. ](define-an-audience-by-importing-a-list.md) 스마트한 목록으로 이러한 작업을 수행하는 방법을 확인하십시오.
+[이메일 프로그램](../../../../product-docs/email-marketing/email-programs/creating-an-email-program/create-an-email-program.md)을 만든 후 이메일을 보낼 사람을 알려주십시오. 사람 목록](define-an-audience-by-importing-a-list.md)을 가져오거나 스마트 목록을 사용하여 이 작업을 수행할 수 있습니다. [ 스마트한 목록으로 이러한 작업을 수행하는 방법을 확인하십시오.
 
 >[!PREREQUISITES]
 >
@@ -80,9 +80,7 @@ ht-degree: 0%
 >
 >대상 타일의 ![—](assets/image2014-10-23-16-3a32-3a36.png) 단추를 사용하여 이메일을 받게 되는 사람 수를 확인합니다.
 
->[!NOTE]
->
->**관련 문서**
+>[!MORELIKETHIS]
 >
 >* [기존 이메일 선택](../../../../product-docs/email-marketing/email-programs/email-program-actions/choose-an-existing-email.md)
 >* [이메일 프로그램용 이메일 만들기](../../../../product-docs/email-marketing/email-programs/email-program-actions/create-an-email-for-an-email-program.md)
