@@ -3,9 +3,9 @@ unique-page-id: 8781845
 description: 마케팅 모멘트 이해 - 마케팅 문서 - 제품 설명서
 title: 마케팅을 위한 고객 의견 이해
 translation-type: tm+mt
-source-git-commit: e5050328cbddaf072dd60ddd8d7363a704e720b5
+source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
 workflow-type: tm+mt
-source-wordcount: '545'
+source-wordcount: '544'
 ht-degree: 0%
 
 ---
@@ -15,9 +15,8 @@ ht-degree: 0%
 
 Marketing의 파워는 말 그대로 손에 있습니다. 스마트폰이나 iPad에서 바로 이메일을 미리 보고 다시 예약할 수 있습니다.
 
->[!NOTE]
+>[!AVAILABILITY]
 >
->**가용성**
 >
 >모바일 앱 액세스 권한이 필요합니다. [자신의 역할](/help/marketo/product-docs/administration/users-and-roles/managing-user-roles-and-permissions.md)을 업데이트하려면 마케팅 관리자에게 문의하십시오.
 
