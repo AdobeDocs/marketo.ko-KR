@@ -3,9 +3,9 @@ unique-page-id: 37355534
 description: 릴리스 노트 - 2020년 1월 - Marketing Docs - 제품 설명서
 title: 릴리스 노트 - 2020년 1월
 translation-type: tm+mt
-source-git-commit: 6f49037bf698b1646004720815897f992911f716
+source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
 workflow-type: tm+mt
-source-wordcount: '847'
+source-wordcount: '846'
 ht-degree: 0%
 
 ---
@@ -15,9 +15,8 @@ ht-degree: 0%
 
 다음 기능은 2006년 1월 20일 릴리스에 포함되어 있습니다. 기능 가용성을 확인하려면 Marketing Edition을 확인하십시오.
 
->[!NOTE]
+>[!AVAILABILITY]
 >
->**가용성**
 >
 >별( ![(star)](assets/star-yellow.svg))로 표시된 기능은 유료 추가 기능입니다. 자세한 내용은 Marketo Engage 담당자에게 문의하십시오.
 
