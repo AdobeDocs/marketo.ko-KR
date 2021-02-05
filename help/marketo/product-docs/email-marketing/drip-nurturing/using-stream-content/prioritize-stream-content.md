@@ -3,7 +3,7 @@ unique-page-id: 2359834
 description: 스트림 컨텐츠 우선 순위 지정 - 마케팅 문서 - 제품 설명서
 title: 스트림 컨텐츠 우선 순위 지정
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
 workflow-type: tm+mt
 source-wordcount: '102'
 ht-degree: 0%
@@ -32,4 +32,3 @@ ht-degree: 0%
    >우선 순위는 캐스팅 시 항상 위에서 아래로 읽습니다.
 
    정말 쉬워! 이제 스트림 콘텐츠의 우선 순위를 매길 수 있습니다.
-
