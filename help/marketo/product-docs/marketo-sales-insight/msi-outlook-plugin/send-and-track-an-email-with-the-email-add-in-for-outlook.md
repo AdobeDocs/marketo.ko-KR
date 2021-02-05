@@ -3,9 +3,9 @@ unique-page-id: 2949716
 description: Outlook용 이메일 추가 기능을 사용하여 이메일 보내기 및 추적 - Marketing To Docs - 제품 설명서
 title: Outlook용 이메일 추가 기능을 사용하여 이메일 보내기 및 추적
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
 workflow-type: tm+mt
-source-wordcount: '238'
+source-wordcount: '236'
 ht-degree: 0%
 
 ---
@@ -53,9 +53,7 @@ Outlook에서 바로 Marketing To를 사용하여 이메일을 보내고 추적�
 
 정말 쉬워! 이 이메일은 판매원의 Outlook에서 전송되었지만 Marketing Cloud에서 추적됩니다.
 
->[!NOTE]
->
->**관련 문서**
+>[!MORELIKETHIS]
 >
 >* [Marketing에서 리드의 인바운드 메일 기록](../../../product-docs/marketo-sales-insight/using-msi/log-inbound-mail-from-your-leads-in-marketo.md)
 
