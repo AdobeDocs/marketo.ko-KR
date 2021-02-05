@@ -3,9 +3,9 @@ unique-page-id: 2359557
 description: Champion/Challener -Subject Line - Marketing Docs - 제품 설명서
 title: Champion/Challener -Subject Line
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
 workflow-type: tm+mt
-source-wordcount: '240'
+source-wordcount: '238'
 ht-degree: 0%
 
 ---
@@ -58,9 +58,8 @@ ht-degree: 0%
 
    진행! 계속하자.
 
-   >[!NOTE]
+   >[!MORELIKETHIS]
    >
-   >**관련 문서**
    >
    >
    >[챔피언/도전자:챔피언 기준 정의](champion-challenger-define-champion-criteria.md)
