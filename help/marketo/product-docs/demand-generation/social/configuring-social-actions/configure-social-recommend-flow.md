@@ -3,9 +3,9 @@ unique-page-id: 2950549
 description: 소셜 추천 흐름 구성 - 마케팅 문서 - 제품 설명서
 title: 소셜 추천 흐름 구성
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
 workflow-type: tm+mt
-source-wordcount: '487'
+source-wordcount: '515'
 ht-degree: 0%
 
 ---
@@ -19,17 +19,17 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->이것은 [소셜 가입/공유 흐름](configure-social-sign-up-share-flow.md)을 구성하는 것과 매우 비슷하지만, 공유 링크 *소셜 앱*&#x200B;에 대한 것입니다.
+>이것은 [소셜 가입/공유 흐름](/help/marketo/product-docs/demand-generation/social/configuring-social-actions/configure-social-sign-up-share-flow.md)을 구성하는 것과 매우 비슷하지만, 공유 링크 _소셜 앱_&#x200B;에 대한 것입니다.
 
 1. **마케팅 활동**&#x200B;으로 이동합니다.
 
    ![](assets/login-marketing-activities-1.png)
 
-1. 앱을 선택하고 **초안 편집****.**
+1. 앱을 선택하고 **초안 편집**&#x200B;을 클릭합니다.
 
    ![](assets/image2014-9-22-11-3a51-3a6.png)
 
-1. 소셜 앱 편집기에서 **추천 흐름** > **소셜 네트워크****.**
+1. 소셜 앱 편집기에서 **추천 흐름** > **소셜 네트워크**&#x200B;로 이동합니다.
 
    ![](assets/recommendedflow.png)
 
@@ -47,25 +47,27 @@ ht-degree: 0%
    >
    >비디오 공유에서 축소판이 자동으로 생성됩니다.
 
-   **동적**&#x200B;컨텐츠 추가정적 컨텐츠 추가를 선택하는 경우** 제목, 캡션 및 설명을 입력하고 이미지를 업로드합니다. 다음 2단계를 참조하십시오.
+   **동적 컨텐츠 추가**&#x200B;를 선택하면 페이지의 OpenGraph 태그(og:title, og:caption 및 og:description)의 값이 Facebook 게시물에 자동으로 추가됩니다. 다음 단계를 참조하십시오.
+
+   **정적 내용 추가**&#x200B;를 선택한 경우 제목, 캡션 및 설명을 입력하고 이미지를 업로드합니다. 다음 2단계를 참조하십시오.
 
 1. 보기 및 편집 창에서 **편집 내용 표시**&#x200B;를 클릭하여 Facebook 게시물에 표시되는 공유 프롬프트 및 메시지를 사용자 지정합니다.
 
    >[!TIP]
    >
-   >자세한 내용은 [Facebook 리치 게시물 설정 편집](../../../../product-docs/demand-generation/facebook/edit-facebook-rich-post-settings.md)을 참조하십시오.
+   >자세한 내용은 [Facebook 리치 게시물 설정 편집](/help/marketo/product-docs/demand-generation/facebook/edit-facebook-rich-post-settings.md)을 참조하십시오.
 
    ![](assets/image2014-9-22-11-3a54-3a36.png)
 
    >[!NOTE]
    >
-   >[공유 URL](../../../../product-docs/demand-generation/social/social-functions/choose-the-share-url-for-a-social-app.md)은(는) 모든 공유 메시지에 자동으로 추가됩니다.
+   >[공유 URL](/help/marketo/product-docs/demand-generation/social/social-functions/choose-the-share-url-for-a-social-app.md)은(는) 모든 공유 메시지에 자동으로 추가됩니다.
 
-1. 위의 **정적 추가** **content**&#x200B;를 선택한 경우 제목, 캡션 및 설명을 편집하고 사용자 지정 이미지(마케팅 이미지 및 파일에서)를 업로드합니다.
+1. 위의 **정적 컨텐츠 추가**&#x200B;를 선택한 경우 제목, 캡션 및 설명을 편집하고 사용자 지정 이미지(마케팅 이미지 및 파일에서)를 업로드합니다.
 
    ![](assets/image2014-9-22-11-3a55-3a14.png)
 
-   [Marketing](../../../../product-docs/demand-generation/images-and-files/add-images-and-files-to-marketo.md)에 이미지 및 파일 추가를 참조하십시오.
+   [Marketing](/help/marketo/product-docs/demand-generation/images-and-files/add-images-and-files-to-marketo.md)에 이미지 및 파일 추가를 참조하십시오.
 
    >[!NOTE]
    >
@@ -97,7 +99,7 @@ ht-degree: 0%
 
    **정적** 콘텐트 추가를 선택하는 경우 제목, 캡션 및 설명을 입력하고 이미지를 업로드합니다. 다음 2단계를 참조하십시오.
 
-1. **보기** 및 **편집** 창에서 **편집 내용 표시**&#x200B;를 클릭하고 LinkedIn 게시물에 나타날 공유 프롬프트와 메시지를 편집합니다.
+1. **보기 및 편집** 창에서 **편집 내용 표시**&#x200B;를 클릭하고 LinkedIn 게시물에 나타날 공유 프롬프트와 메시지를 편집합니다.
 
    ![](assets/image2014-9-22-12-3a3-3a38.png)
 
@@ -105,11 +107,11 @@ ht-degree: 0%
    >
    >게시물 텍스트에서 {html_title}을(를) 사용하여 페이지의 제목을 자동으로 표시합니다.
 
-1. 위의 **정적** 콘텐트 추가를 선택한 경우 제목과 설명을 편집하고 사용자 지정 이미지를 업로드합니다(표시&#x200B;**e**&#x200B;에서 이미지 및 파일에).
+1. 위의 **정적** 컨텐츠 추가를 선택한 경우 제목과 설명을 편집하고 사용자 지정 이미지를 업로드합니다(마케팅 이미지 및 파일에서).
 
    ![](assets/image2014-9-22-12-3a4-3a43.png)
 
-   [Marketing](../../../../product-docs/demand-generation/images-and-files/add-images-and-files-to-marketo.md)에 이미지 및 파일 추가를 참조하십시오.
+   [Marketing](/help/marketo/product-docs/demand-generation/images-and-files/add-images-and-files-to-marketo.md)에 이미지 및 파일 추가를 참조하십시오.
 
    >[!NOTE]
    >
@@ -123,11 +125,10 @@ ht-degree: 0%
 
    ![](assets/image2014-9-22-12-3a5-3a30.png)
 
-1. **완료** > **승인** 및 **닫기****.**
+1. **완료** > **승인** 및 **닫기**&#x200B;를 클릭합니다.
 
    ![](assets/image2014-9-22-12-3a5-3a45.png)
 
 >[!MORELIKETHIS]
 >
->다음 단계는 [비디오 공유](customize-video-share-flow.md) 또는 [투표](../../../../product-docs/demand-generation/social/creating-a-poll/create-a-poll.md)를 랜딩 페이지, Facebook 또는 자신의 웹 사이트에 추가하는 것입니다.
-
+>다음 단계는 [비디오 공유](/help/marketo/product-docs/demand-generation/social/configuring-social-actions/customize-video-share-flow.md) 또는 [투표](/help/marketo/product-docs/demand-generation/social/creating-a-poll/create-a-poll.md)를 랜딩 페이지, Facebook 또는 자신의 웹 사이트에 추가하는 것입니다.
