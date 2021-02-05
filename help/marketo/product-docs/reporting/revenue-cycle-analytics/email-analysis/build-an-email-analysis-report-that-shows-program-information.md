@@ -3,9 +3,9 @@ unique-page-id: 2360409
 description: 프로그램 정보 - 마케팅 문서 - 제품 설명서를 보여주는 이메일 분석 보고서 작성
 title: 프로그램 정보를 표시하는 이메일 분석 보고서 만들기
 translation-type: tm+mt
-source-git-commit: 00887ea53e395bea3a11fd28e0ac98b085ef6ed8
+source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
 workflow-type: tm+mt
-source-wordcount: '163'
+source-wordcount: '162'
 ht-degree: 0%
 
 ---
@@ -15,9 +15,8 @@ ht-degree: 0%
 
 다음 단계에 따라 프로그램 채널별로 그룹화된 이메일 정보를 표시하는 이메일 분석 보고서를 만듭니다.
 
->[!NOTE]
+>[!AVAILABILITY]
 >
->**가용성**
 >
 >모든 고객이 이 기능을 구입하지는 않았습니다. 자세한 내용은 영업 담당자에게 문의하십시오.
 
