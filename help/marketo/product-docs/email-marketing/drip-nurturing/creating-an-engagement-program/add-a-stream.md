@@ -3,7 +3,7 @@ unique-page-id: 2359787
 description: 스트림 추가 - 마케팅 문서 - 제품 설명서
 title: 스트림 추가
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
 workflow-type: tm+mt
 source-wordcount: '55'
 ht-degree: 0%
@@ -31,5 +31,6 @@ ht-degree: 0%
    >
    >참여 프로그램당 최대 25개의 스트림을 추가할 수 있습니다.
 
-   그리고... 완료!   ![](assets/image2014-9-15-16-3a56-3a27.png)
+   그리고... 완료!
 
+   ![](assets/image2014-9-15-16-3a56-3a27.png)
