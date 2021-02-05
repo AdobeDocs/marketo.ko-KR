@@ -3,9 +3,9 @@ unique-page-id: 37357276
 description: 릴리스 노트 - 2006년 6월 20일 - 마케팅 문서 - 제품 설명서
 title: 릴리스 노트 -2006년 6월
 translation-type: tm+mt
-source-git-commit: 313266a67243f0c70c25010cb4825efb7f3db0ab
+source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
 workflow-type: tm+mt
-source-wordcount: '1091'
+source-wordcount: '1090'
 ht-degree: 0%
 
 ---
@@ -15,9 +15,8 @@ ht-degree: 0%
 
 다음 기능은 2006년 6월 릴리스에 포함되어 있습니다. 기능 가용성을 확인하려면 Marketing Edition을 확인하십시오.
 
->[!NOTE]
+>[!AVAILABILITY]
 >
->**가용성**
 >
 >별( ![(star)](assets/star-yellow.svg))로 표시된 기능은 유료 추가 기능을 사용할 수 있습니다. 자세한 내용은 Marketo Engage 담당자에게 문의하십시오.
 
@@ -60,8 +59,8 @@ ht-degree: 0%
 
 **
 
-* **Marketo Engage 프로그램 통합**:Marketo Engage에서 프로그램 데이터를 바로 가져와 Bizable의 기여도 분석 여정에 따라 터치포인트를 만들어 이메일 및 참여 프로그램을 적절하게 인증할 수 있습니다. Marketo Engage 통합 향상
-* **Marketo Engage 활동 통합`<sup>BETA</sup>`**:Marketo Engage 활동 데이터를 Bizzy로 바로 가져와 고객 여정과 모든 기여도 모델을 통해 접점을 만들 수 있습니다. 리드 점수 변경 사항, 흥미로운 순간, 이메일 클릭 또는 사용자 지정 활동이 이에 해당합니다. Marketo Engage 통합 향상
+* **Marketo Engage 프로그램 통합**:여정에서 프로그램 데이터를 바로 가져와 Bizble의 어트리뷰션 Marketo Engage에 따라 터치포인트를 만들어 이메일 및 참여 프로그램에 적절히 크레딧을 부여할 수 있습니다. Marketo Engage 통합 향상
+* **Marketo Engage 활동 통합`<sup>BETA</sup>`**:Marketo Engage 활동 데이터를 Bizzy로 바로 가져와 고객 여정 및 모든 기여도 모델을 통해 고객 접점을 만들 수 있습니다. 리드 점수 변경 사항, 흥미로운 순간, 이메일 클릭 또는 사용자 지정 활동이 이에 해당합니다. Marketo Engage 통합 향상
 * **Bizable B2B 고객 속성 통합`<sup>BETA</sup>`**:Adobe Analytics과 통합된 Adobe Experience Cloud을 통해 특정 Bizable 데이터를 Adobe Analytics으로 직접 가져와 보다 심층적인 분석을 수행할 수 있습니다. 이러한 예로는 회사 이름, 계정 속성, CRM 기회, 그리고 Bizable이 매출 및 단계 전환 단계에 정의한 고부가가치 개인별로 계정 기반 사이트 트래픽 및 컨텐츠 분석이 있습니다.
 * **새로운 Discover 필터 및 개선 사항: 대시보드** 에서 채널, 하위 채널, 캠페인 및 세그먼트 필터를 사용하여 데이터를 분석합니다. 더 많은 드릴다운 특성을 사용하여 데이터 가시성을 강화합니다. 이는 Discover 보드에 대한 개선 사항입니다.
 * **Microsoft Dynamics용 활동 동기화**:Microsoft Dynamics CRM 활동을 터치포인트 여정에 가져오고 리드 또는 연락처와 관련된 호출, 약속 또는 작업과 같은 이벤트를 추적하여 영업 상호 작용을 파악할 수 있습니다. Microsoft Dynamics CRM 통합 기능이 향상되었습니다.
