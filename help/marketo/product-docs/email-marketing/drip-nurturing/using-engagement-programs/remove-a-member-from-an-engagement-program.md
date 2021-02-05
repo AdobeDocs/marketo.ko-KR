@@ -3,7 +3,7 @@ unique-page-id: 2359951
 description: 참여 프로그램 - 마케팅 문서 - 제품 문서에서 구성원 제거
 title: 참여 프로그램에서 구성원 제거
 translation-type: tm+mt
-source-git-commit: d7d6aee63144c472e02fe0221c4a164183d04dd4
+source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
 workflow-type: tm+mt
 source-wordcount: '141'
 ht-degree: 0%
@@ -17,7 +17,7 @@ ht-degree: 0%
 
 >[!TIP]
 >
->다른 사람의 컨텐츠를 일시 중지하려면 이 옵션을 사용하지 마십시오. 그러면 분석에서 모든 속성이 제거됩니다.  참여 프로그램[에서 사용자를 일시 정지하는 방법에 대해 자세히 알아보십시오.](pause-people-in-an-engagement-program.md)
+>다른 사람의 컨텐츠를 일시 중지하려면 이 옵션을 사용하지 마십시오. 그러면 분석에서 모든 속성이 제거됩니다. 참여 프로그램](/help/marketo/product-docs/email-marketing/drip-nurturing/using-engagement-programs/pause-people-in-an-engagement-program.md)에서 사용자를 일시 정지하는 방법에 대해 자세히 알아보십시오.[
 
 ## 흐름 단계 {#flow-step}
 
@@ -29,7 +29,7 @@ ht-degree: 0%
 
    ![](assets/image2014-9-15-18-3a16-3a2.png)
 
-   그럽다 [스마트 목록](../../../../product-docs/core-marketo-concepts/smart-lists-and-static-lists/creating-a-smart-list/create-a-smart-list.md)에 정의한 모든 구성원이 더 이상 이 참여 프로그램에 있지 않습니다.
+   그럽다 [스마트 목록](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/creating-a-smart-list/create-a-smart-list.md)에 정의한 모든 구성원이 더 이상 이 참여 프로그램에 있지 않습니다.
 
 ## 인물 일시 중지 {#pause-people}
 
@@ -37,5 +37,4 @@ ht-degree: 0%
 
 >[!MORELIKETHIS]
 >
->* [참여 프로그램에서 인물 일시 중지](pause-people-in-an-engagement-program.md)
-
+>[참여 프로그램에서 인물 일시 중지](/help/marketo/product-docs/email-marketing/drip-nurturing/using-engagement-programs/pause-people-in-an-engagement-program.md)
