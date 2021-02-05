@@ -3,9 +3,9 @@ unique-page-id: 2360020
 description: 보고서를 Excel로 내보내기 - 마케팅 문서 - 제품 설명서
 title: 보고서를 Excel로 내보내기
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
 workflow-type: tm+mt
-source-wordcount: '112'
+source-wordcount: '110'
 ht-degree: 0%
 
 ---
@@ -29,9 +29,8 @@ ht-degree: 0%
 
    그게 다예요! 브라우저에 Excel 파일을 시스템에 저장하라는 메시지가 표시됩니다.
 
-   >[!NOTE]
+   >[!MORELIKETHIS]
    >
-   >**관련 문서**
    >
    >
    >다운로드한 파일이 너무 크면 [보고서 크기](../../../../product-docs/reporting/basic-reporting/editing-reports/configure-report-size.md)를 변경할 수 있습니다.
