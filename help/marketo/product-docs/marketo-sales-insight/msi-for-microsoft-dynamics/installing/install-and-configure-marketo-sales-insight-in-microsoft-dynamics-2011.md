@@ -3,9 +3,9 @@ unique-page-id: 3571735
 description: Microsoft Dynamics 2011에서 Marketing To Sales Insight 설치 및 구성 - Marketing Docs - 제품 설명서
 title: Microsoft Dynamics 2011에서 Marketing To Sales Insight 설치 및 구성
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
 workflow-type: tm+mt
-source-wordcount: '412'
+source-wordcount: '410'
 ht-degree: 0%
 
 ---
@@ -158,9 +158,7 @@ Marketing To Sales Insight는 세일즈 팀에 탁월한 툴입니다. 다음은
 
    축하합니다. Adobe Marketing To Sales Insight의 강력한 기능을
 
->[!NOTE]
->
->**관련 문서**
+>[!MORELIKETHIS]
 >
 >[리드/연락처 레코드에 대한 별과 불꽃 설정](http://docs.marketo.com/x/BICMAg)
 
