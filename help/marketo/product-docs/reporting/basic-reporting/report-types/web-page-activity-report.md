@@ -3,9 +3,9 @@ unique-page-id: 2359971
 description: 웹 페이지 활동 보고서 - 마케팅 문서 - 제품 설명서
 title: 웹 페이지 활동 보고서
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
 workflow-type: tm+mt
-source-wordcount: '349'
+source-wordcount: '347'
 ht-degree: 0%
 
 ---
@@ -35,7 +35,7 @@ ht-degree: 0%
 
    >[!TIP]
    >
-   >사이트를 가장 많이 방문하는 사용자를 확인하려면 [](../../../../product-docs/reporting/basic-reporting/editing-reports/sort-report-on-columns.md)페이지 보기&#x200B;*열에서 보고서[ ](../../../../product-docs/reporting/basic-reporting/editing-reports/sort-report-on-columns.md)를 정렬하고 내림차순 정렬을 선택합니다.*
+   >사이트를 가장 많이 방문하는 사용자를 확인하려면 *페이지 보기* 열에서 보고서](../../../../product-docs/reporting/basic-reporting/editing-reports/sort-report-on-columns.md) [](../../../../product-docs/reporting/basic-reporting/editing-reports/sort-report-on-columns.md)를 정렬하고 내림차순 정렬을 선택합니다.[
 
    [Marketing To는 ](../../../../product-docs/reporting/basic-reporting/report-activity/tracking-anonymous-activity-and-people.md) 익명 웹 사이트 방문자를 데이터베이스에 추가하고 이 보고서에 표시하도록 선택할 수 있습니다. 익명이 아니어도 정보가 풍부하다.\
    [웹 페이지 활동 보고서](../../../../product-docs/reporting/basic-reporting/editing-reports/select-report-columns.md) 에 대해 선택할 수 있는 열은 다음과 같습니다.
@@ -83,9 +83,8 @@ ht-degree: 0%
 >
 >세일즈 직원들의 마음을 사로잡을 수 있습니다. [해당 영역에 ](../../../../product-docs/reporting/basic-reporting/editing-reports/filter-people-in-a-report-with-a-smart-list.md)대한 보고서를 필터링하고  [구독합니다](../../../../product-docs/reporting/basic-reporting/report-subscriptions/subscribe-to-a-basic-report.md)!
 
->[!NOTE]
+>[!MORELIKETHIS]
 >
->**관련 문서**
 >
 >* [본 웹 페이지, 웹 페이지 활동 보고서](web-page-activity-report/web-pages-viewed-web-page-activity-report.md)
 >* [웹 보고서에 사람 또는 익명 방문자 표시](../../../../product-docs/reporting/basic-reporting/report-activity/display-people-or-anonymous-visitors-in-web-reports.md)
