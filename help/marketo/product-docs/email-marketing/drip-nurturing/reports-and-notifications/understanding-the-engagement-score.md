@@ -3,7 +3,7 @@ unique-page-id: 2359890
 description: 관여 점수 이해 - 마케팅 문서 - 제품 설명서
 title: 관여 점수 이해
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
 workflow-type: tm+mt
 source-wordcount: '165'
 ht-degree: 0%
@@ -13,7 +13,7 @@ ht-degree: 0%
 
 # 관여 점수 {#understanding-the-engagement-score} 이해
 
-참여 점수를 통해 참여 프로그램의 컨텐츠가 얼마나 효과적인지 손쉽게 확인할 수 있습니다. 점수는 0부터 100까지입니다. 컨텐츠의 성과를 추적할 수 있는 방법을 보려면 [관여 대시보드](the-engagement-dashboard.md)를 확인하십시오.
+참여 점수를 통해 참여 프로그램의 컨텐츠가 얼마나 효과적인지 손쉽게 확인할 수 있습니다. 점수는 0부터 100까지입니다. 컨텐츠의 성과를 추적할 수 있는 방법을 보려면 [관여 대시보드](/help/marketo/product-docs/email-marketing/drip-nurturing/reports-and-notifications/the-engagement-dashboard.md)를 확인하십시오.
 
 ![](assets/image2014-9-25-16-3a24-3a54.png)
 
@@ -33,9 +33,4 @@ ht-degree: 0%
 
 >[!MORELIKETHIS]
 >
->* [참여 프로그램 이해](../../../../product-docs/email-marketing/drip-nurturing/creating-an-engagement-program/understanding-engagement-programs.md)
-
->
-
-
-
+>[참여 프로그램 이해](/help/marketo/product-docs/email-marketing/drip-nurturing/creating-an-engagement-program/understanding-engagement-programs.md)
