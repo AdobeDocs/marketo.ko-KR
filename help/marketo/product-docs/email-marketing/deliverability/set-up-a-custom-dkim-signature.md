@@ -3,9 +3,9 @@ unique-page-id: 2360219
 description: 사용자 지정 DKIM 서명 - 마케팅 문서 - 제품 설명서 설정
 title: 사용자 지정 DKIM 서명 설정
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
 workflow-type: tm+mt
-source-wordcount: '279'
+source-wordcount: '278'
 ht-degree: 0%
 
 ---
@@ -27,7 +27,6 @@ ht-degree: 0%
 
    >[!NOTE]
    >
-   >
    >기존 방식으로 사용자 지정 DKIM 서명을 설정하면 계속 사용할 수 있으며 여기에 표시됩니다.
 
 1. **이메일**&#x200B;을 클릭한 다음 **DKIM** 탭을 클릭하고 마지막으로 **도메인 추가**&#x200B;를 클릭합니다.
@@ -37,7 +36,6 @@ ht-degree: 0%
 1. 마케팅 이메일에 사용할 도메인을 보낸 사람 주소로 입력하고 **추가**&#x200B;를 클릭합니다.
 
    >[!TIP]
-   >
    >
    >보낸 사람 주소에 다른 도메인을 사용하는 경우 Marketing To 공유 DKIM 서명을 사용합니다.
 
@@ -53,14 +51,10 @@ ht-degree: 0%
 
    >[!NOTE]
    >
-   >**미리 알림**
-   >
    >확인이 실패하고 IT에서 레코드를 올바르게 생성한 경우 DNS 전파 문제일 수 있습니다. 나중에 다시 시도하십시오.
 
    >[!CAUTION]
    >
-   >
    >해당 DNS 레코드를 수정/제거하면 수신 기능이 손상될 수 있습니다. DNS를 변경하기 전에 Marketing To의 항목을 삭제해야 합니다.
 
    이메일 전달에 도움이 됩니다. 레코드가 있고 정확하다는 확인을 받아야 합니다.
-
