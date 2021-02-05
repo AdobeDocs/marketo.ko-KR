@@ -3,9 +3,9 @@ unique-page-id: 2359659
 description: 스트림에 컨텐츠 추가 - 마케팅 문서 - 제품 설명서
 title: 스트림에 컨텐츠 추가
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
 workflow-type: tm+mt
-source-wordcount: '311'
+source-wordcount: '310'
 ht-degree: 0%
 
 ---
@@ -85,9 +85,6 @@ ht-degree: 0%
 
    >[!NOTE]
    >
-   >**미리 알림**
-   >
-   >
    >이 작업이 제대로 작동하려면 스마트 캠페인에 **참여 프로그램 구성원 필터가 있어야 합니다.**
 
 **스트림 + 아이콘**
@@ -118,9 +115,4 @@ ht-degree: 0%
 
 >[!MORELIKETHIS]
 >
->* [참여 프로그램 스트림에 프로그램 추가](adding-a-program-to-an-engagement-program-stream.md)
-
->
-
-
-
+>[참여 프로그램 스트림에 프로그램 추가](/help/marketo/product-docs/email-marketing/drip-nurturing/creating-an-engagement-program/adding-a-program-to-an-engagement-program-stream.md)
