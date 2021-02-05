@@ -3,9 +3,9 @@ unique-page-id: 11377488
 description: Enterprise 키를 사용하여 Outlook용 Marketing To Add-in 설치 - Marketing To Docs - 제품 설명서
 title: Enterprise 키를 사용하여 Outlook용 Marketing To Add-in 설치
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
 workflow-type: tm+mt
-source-wordcount: '194'
+source-wordcount: '192'
 ht-degree: 0%
 
 ---
@@ -41,9 +41,8 @@ ht-degree: 0%
 
    그게 다예요! 그런 다음 영업 담당자가 [등록 프로세스](authorize-the-marketo-outlook-plugin.md)를 진행합니다. 지침에 대한 링크를 보낼 수 있습니다(**Marketing to 관련 문서** 참조).
 
-   >[!NOTE]
+   >[!MORELIKETHIS]
    >
-   >**관련 문서**
    >
    >    
    >    
