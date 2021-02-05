@@ -3,9 +3,9 @@ unique-page-id: 2360052
 description: 열람된 웹 페이지, 웹 페이지 활동 보고서 - 마케팅 문서 - 제품 설명서
 title: 본 웹 페이지, 웹 페이지 활동 보고서
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
 workflow-type: tm+mt
-source-wordcount: '133'
+source-wordcount: '131'
 ht-degree: 0%
 
 ---
@@ -27,9 +27,8 @@ ht-degree: 0%
 
    ![](assets/image2014-9-16-14-3a54-3a12.png)
 
-   >[!NOTE]
+   >[!MORELIKETHIS]
    >
-   >**관련 문서**
    >
    >
    >[회사 웹 활동 보고서](../../../../../product-docs/reporting/basic-reporting/report-types/company-web-activity-report.md)를 만들어 사이트를 방문하는 회사를 확인합니다.
