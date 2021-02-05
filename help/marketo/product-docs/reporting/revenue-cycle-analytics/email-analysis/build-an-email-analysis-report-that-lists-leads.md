@@ -3,9 +3,9 @@ unique-page-id: 2360407
 description: 리드 목록 - 마케팅 문서 - 제품 설명서를 나열하는 이메일 분석 보고서 작성
 title: 리드를 나열하는 이메일 분석 보고서 만들기
 translation-type: tm+mt
-source-git-commit: c33b7ab59e612f37d3f64bb954579700dc574068
+source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
 workflow-type: tm+mt
-source-wordcount: '188'
+source-wordcount: '187'
 ht-degree: 0%
 
 ---
@@ -13,9 +13,8 @@ ht-degree: 0%
 
 # 리드가 {#build-an-email-analysis-report-that-lists-leads}인 이메일 분석 보고서 작성
 
->[!NOTE]
+>[!AVAILABILITY]
 >
->**가용성**
 >
 >모든 고객이 이 기능을 구입하지는 않았습니다. 자세한 내용은 영업 담당자에게 문의하십시오.
 
