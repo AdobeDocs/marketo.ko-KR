@@ -3,9 +3,9 @@ unique-page-id: 2359488
 description: 세그먼트별로 이메일 보고서 그룹화 - 마케팅 문서 - 제품 설명서
 title: 세그먼트별로 이메일 보고서 그룹화
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
 workflow-type: tm+mt
-source-wordcount: '123'
+source-wordcount: '121'
 ht-degree: 0%
 
 ---
@@ -47,9 +47,7 @@ ht-degree: 0%
 
    ![](assets/image2014-9-16-9-3a17-3a26.png)
 
->[!NOTE]
->
->**관련 문서**
+>[!MORELIKETHIS]
 >
 >* [이메일 보고서의 자산 필터링](../../../../product-docs/reporting/basic-reporting/report-activity/filter-assets-in-an-email-report.md)
 
