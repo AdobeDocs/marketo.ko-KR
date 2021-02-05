@@ -3,9 +3,9 @@ unique-page-id: 42762825
 description: Salesforce Lightning의 일괄 작업 사용 - Marketing To Docs - 제품 설명서
 title: Salesforce Lightning에서 일괄 작업 사용
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
 workflow-type: tm+mt
-source-wordcount: '436'
+source-wordcount: '434'
 ht-degree: 0%
 
 ---
@@ -82,9 +82,7 @@ ht-degree: 0%
 >
 >연락처 목록 보기에서도 동일한 단계를 수행하여 일괄 작업을 사용할 수 있습니다.
 
->[!NOTE]
->
->**관련 문서**
+>[!MORELIKETHIS]
 >
 >* [그룹 이메일을 통해 이메일 보내기](http://docs.marketo.com/x/KAQ6Ag)
 >* [선택 및 전송을 사용하여 일괄 이메일 작성](http://docs.marketo.com/display/public/DOCS/Composing+Bulk+Emails+with+Select+and+Send#ComposingBulkEmailswithSelectandSend-SendingEmails)
