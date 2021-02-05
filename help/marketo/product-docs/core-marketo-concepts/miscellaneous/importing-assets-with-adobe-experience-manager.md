@@ -3,9 +3,9 @@ unique-page-id: 37355768
 description: Adobe Experience Manager을 사용하여 자산 가져오기 - Marketing To Docs - 제품 설명서
 title: Adobe Experience Manager으로 자산 가져오기
 translation-type: tm+mt
-source-git-commit: e5050328cbddaf072dd60ddd8d7363a704e720b5
+source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
 workflow-type: tm+mt
-source-wordcount: '231'
+source-wordcount: '230'
 ht-degree: 0%
 
 ---
@@ -15,9 +15,8 @@ ht-degree: 0%
 
 자산 선택기를 사용하면 Marketing 고객이 AEM 자산을 액세스, 선택 및 Marketing의 Design Studio로 가져올 수 있습니다. **관리자 권한이 필요합니다**.
 
->[!NOTE]
+>[!AVAILABILITY]
 >
->**가용성**
 >
 >모든 고객이 이 기능을 구입하지는 않았습니다. 자세한 내용은 고객 성공 관리자에게 문의하십시오.
 
