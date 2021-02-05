@@ -3,9 +3,9 @@ unique-page-id: 45416698
 description: 릴리스 노트 -20년 7월 - Marketing To Docs - 제품 설명서
 title: 릴리스 노트 - 2007년 7월
 translation-type: tm+mt
-source-git-commit: 313266a67243f0c70c25010cb4825efb7f3db0ab
+source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
 workflow-type: tm+mt
-source-wordcount: '658'
+source-wordcount: '657'
 ht-degree: 0%
 
 ---
@@ -15,9 +15,8 @@ ht-degree: 0%
 
 2007년 7월 릴리스에는 다음 기능이 포함됩니다. 기능 가용성을 확인하려면 Marketing Edition을 확인하십시오.
 
->[!NOTE]
+>[!AVAILABILITY]
 >
->**가용성**
 >
 >현재 패키지에 따라, 별( ![(star)](assets/star-yellow.svg))가 있는 항목은 값 추가 기능을 구입해야 할 수 있습니다. 자세한 내용은 Marketo Engage 담당자에게 문의하십시오.
 
