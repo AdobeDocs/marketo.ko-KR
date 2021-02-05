@@ -3,9 +3,9 @@ unique-page-id: 2359805
 description: 경품 행사 수상자 - 마케팅 문서 - 제품 설명서를 선택합니다.
 title: 경품 행사 수상자 선택
 translation-type: tm+mt
-source-git-commit: 00887ea53e395bea3a11fd28e0ac98b085ef6ed8
+source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
 workflow-type: tm+mt
-source-wordcount: '166'
+source-wordcount: '158'
 ht-degree: 0%
 
 ---
@@ -13,11 +13,9 @@ ht-degree: 0%
 
 # 경품 행사 수상자 {#select-sweepstakes-winners} 선택
 
-[경품 행사](publish-a-sweepstakes.md)를 게시할 때 각 드로잉에 대한 우승자를 선택해야 합니다. 이 경우 [주문 처리 이메일](../../../../product-docs/demand-generation/social/social-functions/use-emails-in-social-promotions.md)이 자동으로 해당 이메일 주소로 전송됩니다.
+[경품 행사](/help/marketo/product-docs/demand-generation/social/sweepstakes/publish-a-sweepstakes.md)를 게시할 때 각 드로잉에 대한 우승자를 선택해야 합니다. 이 경우 [주문 처리 이메일](/help/marketo/product-docs/demand-generation/social/social-functions/use-emails-in-social-promotions.md)이 자동으로 해당 이메일 주소로 전송됩니다.
 
->[!NOTE]
->
->**가용성**
+>[!AVAILABILITY]
 >
 >모든 고객이 이 기능을 구입하지는 않았습니다. 자세한 내용은 영업 담당자에게 문의하십시오.
 
@@ -29,13 +27,13 @@ ht-degree: 0%
 
    ![](assets/image2014-9-25-17-3a47-3a37.png)
 
-1. **선택** **우승자**&#x200B;를 클릭합니다.
+1. **우승자 선택**&#x200B;을 클릭합니다.
 
    ![](assets/image2014-9-25-17-3a47-3a49.png)
 
    >[!TIP]
    >
-   >경품 행사에 등록한 사람 목록을 보려면 **참가자 ** 탭을 클릭합니다.
+   >경품 행사에 등록한 사람 목록을 보려면 **참가자** 탭을 클릭합니다.
 
 1. 우승자 수를 선택하고 **선택**&#x200B;을 선택한 다음 **다음**&#x200B;을 클릭합니다.
 
@@ -45,7 +43,7 @@ ht-degree: 0%
    >
    >특정 드로잉에 대해 0개의 우승자를 선택하는 경우 해당 정보는 **우승자** 탭에 표시되지 않습니다.
 
-1. **완료**&#x200B;를 클릭하여 [주문 처리 이메일](https://community.marketo.com/MarketoArticle?id=kA050000000L8A6)을 나열된 우승자에게 보냅니다.
+1. **완료**&#x200B;를 클릭하여 [주문 처리 이메일](/help/marketo/product-docs/demand-generation/social/referral-offers/send-referral-offer-fulfillment-email.md)을 나열된 우승자에게 보냅니다.
 
    ![](assets/image2014-9-25-17-3a49-3a48.png)
 
