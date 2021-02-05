@@ -3,9 +3,9 @@ unique-page-id: 2359581
 description: Champion/Challener -이메일 테스트 승인 - Marketing To Docs - 제품 설명서
 title: 챔피언/도전자 - 이메일 테스트 승인
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
 workflow-type: tm+mt
-source-wordcount: '144'
+source-wordcount: '142'
 ht-degree: 0%
 
 ---
@@ -44,9 +44,8 @@ ht-degree: 0%
 
    그렇게 쉽지 않았어? 몇 개의 보고서를 받으면 챔피언을 선언합니다.
 
-   >[!NOTE]
+   >[!MORELIKETHIS]
    >
-   >**관련 문서**
    >
    >    
    >    
