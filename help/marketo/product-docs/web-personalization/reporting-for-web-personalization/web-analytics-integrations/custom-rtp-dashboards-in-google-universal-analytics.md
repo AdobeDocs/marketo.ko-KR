@@ -3,9 +3,9 @@ unique-page-id: 7504238
 description: Google Universal Analytics의 사용자 지정 RTP 대시보드 - Marketing Docs - 제품 설명서
 title: Google Universal Analytics의 사용자 지정 RTP 대시보드
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
 workflow-type: tm+mt
-source-wordcount: '749'
+source-wordcount: '747'
 ht-degree: 0%
 
 ---
@@ -263,9 +263,7 @@ ht-degree: 0%
  </tbody> 
 </table>
 
->[!NOTE]
->
->**관련 문서**
+>[!MORELIKETHIS]
 >
 >[RTP를 Google Universal Analytics와 통합](integrate-rtp-with-google-universal-analytics.md)
 >
