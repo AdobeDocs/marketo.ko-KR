@@ -3,9 +3,9 @@ unique-page-id: 2359457
 description: 세그멘테이션 승인 - 마케팅 문서 - 제품 설명서
 title: 세그멘테이션 승인
 translation-type: tm+mt
-source-git-commit: d7d6aee63144c472e02fe0221c4a164183d04dd4
+source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
 workflow-type: tm+mt
-source-wordcount: '239'
+source-wordcount: '237'
 ht-degree: 0%
 
 ---
@@ -57,9 +57,7 @@ ht-degree: 0%
 >
 >승인 중에 오류 메시지가 표시되고 세그멘테이션의 복잡성을 줄이는 데 도움이 필요한 경우 [Marketing Support](http://docs.marketo.com/cdn-cgi/l/email-protection#93e0e6e3e3fce1e7d3fef2e1f8f6e7fcbdf0fcfe)에 문의하십시오.
 
->[!NOTE]
->
->**관련 문서**
+>[!MORELIKETHIS]
 >
 >* [스마트 목록에서 세그먼트 필터 사용](use-segment-filters-in-a-smart-list.md)
 
