@@ -3,9 +3,9 @@ unique-page-id: 4718651
 description: 이메일 분석 영역 이해 - 마케팅 문서 - 제품 설명서
 title: 이메일 분석 영역 이해
 translation-type: tm+mt
-source-git-commit: 00887ea53e395bea3a11fd28e0ac98b085ef6ed8
+source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
 workflow-type: tm+mt
-source-wordcount: '357'
+source-wordcount: '356'
 ht-degree: 0%
 
 ---
@@ -15,9 +15,8 @@ ht-degree: 0%
 
 이메일 분석 영역은 이메일 지표에 중점을 둡니다. 이 문서에서는 사용 가능한 모든 보고서에 대해 설명합니다.
 
->[!NOTE]
+>[!AVAILABILITY]
 >
->**가용성**
 >
 >이 옵션은 Select Edition 또는 [Revenue Cycle Analytics](http://www.marketo.com/global-enterprise/marketo-revenue-cycle-analytics/) 추가 기능을 사용하는 사용자가 사용할 수 있습니다. 자세한 내용은 영업 담당자에게 문의하십시오.
 
