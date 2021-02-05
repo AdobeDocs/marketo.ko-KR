@@ -3,9 +3,9 @@ unique-page-id: 2359987
 description: 기본 보고서 구독 - 마케팅 문서 - 제품 설명서
 title: 기본 보고서 구독
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
 workflow-type: tm+mt
-source-wordcount: '163'
+source-wordcount: '161'
 ht-degree: 0%
 
 ---
@@ -47,9 +47,8 @@ ht-degree: 0%
 
    ![](assets/image2014-9-16-10-3a32-3a49.png)
 
-   >[!NOTE]
+   >[!MORELIKETHIS]
    >
-   >**관련 문서**
    >
    >
    >한 곳에서 [모든 보고서 구독](manage-report-subscriptions.md)을 관리하는 방법을 알아봅니다.
