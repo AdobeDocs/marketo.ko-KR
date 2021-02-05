@@ -3,9 +3,9 @@ unique-page-id: 2360418
 description: 매출 단계 보고서별 사람 - 마케팅 문서 - 제품 설명서
 title: 매출 단계별 사람 보고서
 translation-type: tm+mt
-source-git-commit: d7d6aee63144c472e02fe0221c4a164183d04dd4
+source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
 workflow-type: tm+mt
-source-wordcount: '161'
+source-wordcount: '160'
 ht-degree: 0%
 
 ---
@@ -15,9 +15,8 @@ ht-degree: 0%
 
 사용자가 속해 있는 [매출 주기 모델](http://docs.marketo.com/display/docs/revenue+cycle+models)의 단계를 보여주는 보고서를 만들 수 있습니다. 보고서의 지정된 날짜 범위에 대한 개인 균형이 있는 한, 이 보고서에는 지정된 모델의 모든 단계가 포함됩니다.
 
->[!NOTE]
+>[!AVAILABILITY]
 >
->**가용성**
 >
 >일부 Marketing To 에디션에는 이 기능이 포함되어 있지 않습니다. 자세한 내용은 계정 관리자에게 문의하십시오.
 
