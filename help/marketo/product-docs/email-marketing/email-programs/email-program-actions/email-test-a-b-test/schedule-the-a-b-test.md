@@ -3,9 +3,9 @@ unique-page-id: 2359547
 description: A/B 테스트 예약 - 마케팅 문서 - 제품 설명서
 title: A/B 테스트 예약
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
 workflow-type: tm+mt
-source-wordcount: '212'
+source-wordcount: '210'
 ht-degree: 0%
 
 ---
@@ -67,9 +67,8 @@ ht-degree: 0%
 
    고객을 이미 정의하고 이메일을 선택했다고 가정할 경우 남은 단계는 프로그램을 승인하는 것입니다.
 
-   >[!NOTE]
+   >[!MORELIKETHIS]
    >
-   >**관련 문서**
    >
    >    
    >    
