@@ -3,9 +3,9 @@ unique-page-id: 42762409
 description: 마케팅 관리자를 위한 영업 인사이트 페이지 - 마케팅 문서 - 제품 설명서
 title: 마케팅 관리자를 위한 영업 인사이트 페이지
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
 workflow-type: tm+mt
-source-wordcount: '321'
+source-wordcount: '319'
 ht-degree: 0%
 
 ---
@@ -63,9 +63,8 @@ SFDC에서 Rest API 자격 증명을 제거하고 Soap API만 사용하도록 �
    >
    >사용자 지정 점수 필드가 아직 없는 경우 [만들어](http://docs.marketo.com/x/3wMk)는 다음과 같습니다.
 
-   >[!NOTE]
+   >[!MORELIKETHIS]
    >
-   >**관련 문서**
    >
    >
    >[별과 불꽃](http://docs.marketo.com/x/qgU6Ag)
