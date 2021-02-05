@@ -3,9 +3,9 @@ unique-page-id: 2360008
 description: 웹 보고서에 사람 또는 익명 방문자 표시 - 마케팅 문서 - 제품 설명서
 title: 웹 보고서에 사람 또는 익명 방문자 표시
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
 workflow-type: tm+mt
-source-wordcount: '159'
+source-wordcount: '157'
 ht-degree: 0%
 
 ---
@@ -39,9 +39,7 @@ ht-degree: 0%
 
    ![](assets/image2015-3-10-11-3a48-3a36.png)
 
->[!NOTE]
->
->**관련 문서**
+>[!MORELIKETHIS]
 >
 >* [익명 활동 및 사람 추적](tracking-anonymous-activity-and-people.md)
 
