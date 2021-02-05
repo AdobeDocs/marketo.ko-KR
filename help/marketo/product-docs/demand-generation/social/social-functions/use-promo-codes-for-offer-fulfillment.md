@@ -3,7 +3,7 @@ unique-page-id: 2359819
 description: 오퍼 주문 처리에 대한 프로모션 코드 사용 - 마케팅 문서 - 제품 설명서
 title: 오퍼 수행을 위한 프로모션 코드 사용
 translation-type: tm+mt
-source-git-commit: 1a29614ec938074902af201b2ffc11cfaa625f7a
+source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
 workflow-type: tm+mt
 source-wordcount: '260'
 ht-degree: 0%
@@ -25,7 +25,7 @@ ht-degree: 0%
 
    ![](assets/image2015-4-22-11-3a16-3a45.png)
 
-1. 참조 오퍼 편집기에서 **앱 설정**&#x200B;을 선택한 다음 **오퍼 세부 정보.**
+1. 참조 오퍼 편집기에서 **앱 설정**&#x200B;으로 이동한 다음 **오퍼 세부 정보**&#x200B;로 이동합니다.
 
    ![](assets/image2015-4-22-11-3a23-3a39.png)
 
@@ -39,7 +39,6 @@ ht-degree: 0%
 
    >[!CAUTION]
    >
-   >
    >프로모션 코드 파일의 모든 공백은 해당 줄의 코드의 일부로 처리됩니다. 각 행의 끝에 후행 공백이 없도록 주의하십시오.
 
 1. 업로드가 완료되면 업로드된 코드의 총 수가 표시됩니다.
@@ -52,7 +51,7 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->*액세스 권한이 있는 Marketing 사용자만 이 정보에 액세스할 수 있습니다*. [사용자 역할 및 권한 관리](../../../../product-docs/administration/users-and-roles/managing-user-roles-and-permissions.md)를 참조하십시오.
+>_액세스 권한이 있는 Marketing 사용자만 이 정보에 액세스할 수 있습니다_. [사용자 역할 및 권한 관리](/help/marketo/product-docs/administration/users-and-roles/managing-user-roles-and-permissions.md)를 참조하십시오.
 
 1. **마케팅 활동**&#x200B;으로 이동합니다.
 
