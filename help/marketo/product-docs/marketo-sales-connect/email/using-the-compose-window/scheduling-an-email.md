@@ -3,9 +3,9 @@ unique-page-id: 37356568
 description: 이메일 예약 - 마케팅 문서 - 제품 설명서
 title: 이메일 예약
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
 workflow-type: tm+mt
-source-wordcount: '137'
+source-wordcount: '135'
 ht-degree: 0%
 
 ---
@@ -43,9 +43,8 @@ ht-degree: 0%
    >
    >예약된 이메일은 명령 센터의 예약된 폴더 섹션에서 보거나 편집할 수 있습니다.
 
-   >[!NOTE]
+   >[!MORELIKETHIS]
    >
-   >**관련 문서**
    >
    >
    >[명령 센터 개요](http://docs.marketo.com/x/kgDb)
