@@ -3,9 +3,9 @@ unique-page-id: 4718672
 description: 매출 모델 전환 사용 - 마케팅 문서 - 제품 설명서
 title: 매출 모델 전환 사용
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
 workflow-type: tm+mt
-source-wordcount: '215'
+source-wordcount: '213'
 ht-degree: 0%
 
 ---
@@ -60,8 +60,6 @@ ht-degree: 0%
 
 잘 했다! 모델 전환을 수정했습니다.
 
->[!NOTE]
->
->**관련 문서**
+>[!MORELIKETHIS]
 >
 >[매출 모델 승인/승인 취소](approve-unapprove-a-revenue-model.md)
