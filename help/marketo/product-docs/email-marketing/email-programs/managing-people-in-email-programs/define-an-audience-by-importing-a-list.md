@@ -3,9 +3,9 @@ unique-page-id: 1900597
 description: 목록 가져오기 - Marketing To Docs - 제품 설명서를 통해 대상 정의
 title: 목록을 가져와서 대상 정의
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
 workflow-type: tm+mt
-source-wordcount: '374'
+source-wordcount: '372'
 ht-degree: 0%
 
 ---
@@ -78,9 +78,7 @@ ht-degree: 0%
 
 환상적이야! 이제 기존 이메일을 선택하거나 새 이메일을 만들어 해당 사용자에게 보내야 합니다.
 
->[!NOTE]
->
->**관련 문서**
+>[!MORELIKETHIS]
 >
 >* [기존 이메일 선택](../../../../product-docs/email-marketing/email-programs/email-program-actions/choose-an-existing-email.md)
 >* [이메일 프로그램용 이메일 만들기](../../../../product-docs/email-marketing/email-programs/email-program-actions/create-an-email-for-an-email-program.md)
