@@ -3,7 +3,7 @@ unique-page-id: 2950573
 description: 참조 오퍼에 대한 추적 진행 흐름 구성 - 마케팅 문서 - 제품 설명서
 title: 참조 오퍼에 대한 추적 진행 흐름 구성
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
 workflow-type: tm+mt
 source-wordcount: '173'
 ht-degree: 0%
@@ -13,7 +13,7 @@ ht-degree: 0%
 
 # 참조 오퍼 {#configure-track-progress-flow-for-a-referral-offer}에 대한 추적 진행 흐름 구성
 
-[참조 오퍼](../../../../product-docs/demand-generation/social/referral-offers/create-a-referral-offer.md)를 만들 때 참가자가 상금에 대한 진행 상황을 표시하는 알림을 구성할 수 있습니다.
+[참조 오퍼](/help/marketo/product-docs/demand-generation/social/referral-offers/create-a-referral-offer.md)를 만들 때 참가자가 상금에 대한 진행 상황을 표시하는 알림을 구성할 수 있습니다.
 
 1. **마케팅 활동**&#x200B;으로 이동합니다.
 
@@ -27,7 +27,7 @@ ht-degree: 0%
 
    ![](assets/image2014-9-22-14-3a35-3a43.png)
 
-1. **보기** **&amp;** **편집** 창에서 참가자가 오퍼에 가입하기 위해 사용한 것과 동일한 소셜 네트워크에 로그인하도록 상기시키는 메시지를 편집합니다.
+1. **보기 및 편집** 창에서 참가자에게 오퍼에 등록하는 데 사용한 것과 동일한 소셜 네트워크에 로그인하라는 메시지를 편집합니다.
 
    ![](assets/image2014-9-22-14-3a35-3a58.png)
 
@@ -49,5 +49,4 @@ ht-degree: 0%
 
 >[!MORELIKETHIS]
 >
->그런 다음 **완료 > 승인 및 닫기** 및 [참조 오퍼](../../../../product-docs/demand-generation/social/referral-offers/publish-a-referral-offer.md)게시를 클릭합니다.
-
+>그런 다음 **완료** > **승인 및 닫기** 및 [참조 오퍼](/help/marketo/product-docs/demand-generation/social/referral-offers/publish-a-referral-offer.md)를 클릭합니다.
