@@ -3,9 +3,9 @@ unique-page-id: 30082174
 description: MSC의 흥미로운 순간들 - Marketing To Docs - 제품 설명서
 title: MSC의 흥미로운 순간들
 translation-type: tm+mt
-source-git-commit: 728066ab05de82f6123bfaa1f0b05af8632e32b2
+source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
 workflow-type: tm+mt
-source-wordcount: '263'
+source-wordcount: '262'
 ht-degree: 0%
 
 ---
@@ -15,9 +15,8 @@ ht-degree: 0%
 
 흥미로운 순간은 Marketing To Sales Connect를 통해 세일즈 팀과 의사 소통하는 열쇠입니다.
 
->[!NOTE]
+>[!AVAILABILITY]
 >
->**가용성**
 >
 >이러한 데이터는 [Marketing To Sales Insight](http://docs.marketo.com/x/2Akt) 및 Marketing To Sales Connect 고객에게만 제공됩니다.
 
