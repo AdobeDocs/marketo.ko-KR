@@ -3,9 +3,9 @@ unique-page-id: 2360403
 description: 프로그램 분석기와 프로그램 효과 비교 - 마케팅 문서 - 제품 설명서
 title: 프로그램 분석기와 프로그램 효과 비교
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
 workflow-type: tm+mt
-source-wordcount: '486'
+source-wordcount: '484'
 ht-degree: 0%
 
 ---
@@ -68,7 +68,7 @@ ht-degree: 0%
 
    >[!NOTE]
    >
-   >프로그램 분석기에서 선택할 수 있는 많은 지표는 FT(First-Touch) 및 MT(Multi-Touch) 계산 시 사용할 수 있습니다. FT와 MT 속성[의 차이를 이해하는 것이 중요합니다.](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-tools/attribution/understanding-attribution.md)
+   >프로그램 분석기에서 선택할 수 있는 많은 지표는 FT(First-Touch) 및 MT(Multi-Touch) 계산 시 사용할 수 있습니다. FT와 MT 속성](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-tools/attribution/understanding-attribution.md)의 차이를 이해하는 것이 중요합니다.[
 
 1. 그래프에서 버블이 변경되는 크기를 봅니다.
 
@@ -90,9 +90,7 @@ Paper Fest 12 프로그램은 더 많은 매출(더 큰 버블)에 영향을 줄
 >
 >한 채널의 프로그램을 다른 채널의 프로그램과 신속하게 비교할 수 있습니다. 윈도우 맨 위에 있는 **채널 필터**&#x200B;를 사용하여 채널을 더 추가합니다.
 
->[!NOTE]
->
->**관련 문서**
+>[!MORELIKETHIS]
 >
 >* [프로그램 분석기를 사용하여 프로그램 및 채널 세부 사항 살펴보기](explore-program-and-channel-details-with-the-program-analyzer.md)
 >* [프로그램 분석기와 채널 효과 비교](compare-channel-effectiveness-with-the-program-analyzer.md)
