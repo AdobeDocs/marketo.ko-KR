@@ -3,9 +3,9 @@ unique-page-id: 10097747
 description: 매출 탐색기 보고서에 사용자 지정 측정값 추가 - 마케팅 문서 - 제품 설명서
 title: 매출 탐색기 보고서에 사용자 지정 측정값 추가
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
 workflow-type: tm+mt
-source-wordcount: '206'
+source-wordcount: '204'
 ht-degree: 0%
 
 ---
@@ -46,9 +46,8 @@ ht-degree: 0%
 
    ![](assets/image2016-1-26-11-3a29-3a16.png)
 
-   >[!NOTE]
+   >[!MORELIKETHIS]
    >
-   >**관련 문서**
    >
    >    
    >    
