@@ -3,9 +3,9 @@ unique-page-id: 2359449
 description: 세그먼트 규칙 정의 - 마케팅 문서 - 제품 설명서
 title: 세그먼트 규칙 정의
 translation-type: tm+mt
-source-git-commit: d7d6aee63144c472e02fe0221c4a164183d04dd4
+source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
 workflow-type: tm+mt
-source-wordcount: '393'
+source-wordcount: '391'
 ht-degree: 0%
 
 ---
@@ -81,9 +81,7 @@ ht-degree: 0%
 >
 >사람(초안) 화면은 회원이 될 자격이 있고 항상 최종 사용자 목록이 아닌 모든 사람을 표시합니다. 최종 목록을 보려면 세그먼트를 승인합니다.
 
->[!NOTE]
->
->**관련 문서**
+>[!MORELIKETHIS]
 >
 >* [세그멘테이션 승인](approve-a-segmentation.md)
 
