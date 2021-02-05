@@ -3,9 +3,9 @@ unique-page-id: 2950561
 description: 사용자 지정 이벤트에 대한 전환 스크립트 - 마케팅 문서 - 제품 설명서
 title: 사용자 지정 이벤트에 대한 전환 스크립트
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
 workflow-type: tm+mt
-source-wordcount: '278'
+source-wordcount: '276'
 ht-degree: 0%
 
 ---
@@ -26,9 +26,6 @@ ht-degree: 0%
    ![](assets/image2015-4-20-17-3a29-3a7.png)
 
    >[!NOTE]
-   >
-   >**미리 알림**
-   >
    >
    >Marketing이 아닌 웹 사이트에서 작업하는 경우 두 스크립트를 복사하고 붙여넣어야 합니다.
 
@@ -60,7 +57,7 @@ ht-degree: 0%
 
 >[!MORELIKETHIS]
 >
->* [참조 오퍼에 대한 목표 지정](../../../../product-docs/demand-generation/social/referral-offers/specify-goal-for-referral-offer.md)
->* [참조 오퍼 만들기](../../../../product-docs/demand-generation/social/referral-offers/create-a-referral-offer.md)
->* [웹 사이트에 Social 배포](deploy-social-on-your-website.md)
+>* [참조 오퍼에 대한 목표 지정](/help/marketo/product-docs/demand-generation/social/referral-offers/specify-goal-for-referral-offer.md)
+>* [참조 오퍼 만들기](/help/marketo/product-docs/demand-generation/social/referral-offers/create-a-referral-offer.md)
+>* [웹 사이트에 Social 배포](/help/marketo/product-docs/demand-generation/social/social-functions/deploy-social-on-your-website.md)
 
