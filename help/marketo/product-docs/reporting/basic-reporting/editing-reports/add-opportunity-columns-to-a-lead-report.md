@@ -3,9 +3,9 @@ unique-page-id: 2360018
 description: 리드 보고서에 기회 열 추가 - 마케팅 문서 - 제품 설명서
 title: 리드 보고서에 기회 열 추가
 translation-type: tm+mt
-source-git-commit: d7d6aee63144c472e02fe0221c4a164183d04dd4
+source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
 workflow-type: tm+mt
-source-wordcount: '310'
+source-wordcount: '308'
 ht-degree: 0%
 
 ---
@@ -66,9 +66,8 @@ ht-degree: 0%
    | 종료일 수 | 영업 기회를 종료하기 위한 평균 일 수입니다. |
    | 판매 일수 | 판매 주기의 평균 기간(영업 기회까지의 일 수 + 마감일 수). |
 
-   >[!NOTE]
+   >[!MORELIKETHIS]
    >
-   >**관련 문서**
    >
    >
    >[보고서 크기 관리 방법을 알아봅니다](configure-report-size.md).
