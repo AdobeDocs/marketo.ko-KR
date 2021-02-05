@@ -3,9 +3,9 @@ unique-page-id: 2359494
 description: '"제목" A/B 테스트 - 마케팅 문서 - 제품 설명서 사용'
 title: '"제목 줄" A/B 테스트 사용'
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
 workflow-type: tm+mt
-source-wordcount: '248'
+source-wordcount: '246'
 ht-degree: 0%
 
 ---
@@ -53,9 +53,8 @@ ht-degree: 0%
 
    이제 거의 다 왔어 이제 [A/B 테스트 우승자 기준](define-the-a-b-test-winner-criteria.md)을 정의해야 합니다.
 
-   >[!NOTE]
+   >[!MORELIKETHIS]
    >
-   >**관련 문서**
    >
    >    
    >    
