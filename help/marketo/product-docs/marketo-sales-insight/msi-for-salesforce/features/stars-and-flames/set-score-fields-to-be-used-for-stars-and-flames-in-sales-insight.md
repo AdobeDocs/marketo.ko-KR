@@ -3,9 +3,9 @@ unique-page-id: 2360301
 description: 영업 통찰력의 별 및 화염에 사용할 점수 필드 설정 - 마케팅 문서 - 제품 설명서
 title: 영업 인사이트의 별 및 화염에 사용할 점수 필드 설정
 translation-type: tm+mt
-source-git-commit: 00887ea53e395bea3a11fd28e0ac98b085ef6ed8
+source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
 workflow-type: tm+mt
-source-wordcount: '172'
+source-wordcount: '170'
 ht-degree: 0%
 
 ---
@@ -57,9 +57,8 @@ ht-degree: 0%
    >
    >다시 계산하려면 세일즈 인사이트가 필요합니다. 나중에 CRM에서 별과 화염을 확인할 수 있습니다.
 
-   >[!NOTE]
+   >[!MORELIKETHIS]
    >
-   >**관련 문서**
    >
    >
    >[우선 순위, 긴급성, 상대적인 점수 및 최고 점수](priority-urgency-relative-score-and-best-bets.md)
