@@ -3,9 +3,9 @@ unique-page-id: 2360237
 description: 기회 영향 분석기 - Marketing To Docs - 제품 설명서를 사용하여 마케팅 스토리 전달
 title: 기회 영향 분석기를 사용하여 마케팅 스토리 전달
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
 workflow-type: tm+mt
-source-wordcount: '373'
+source-wordcount: '371'
 ht-degree: 0%
 
 ---
@@ -64,9 +64,8 @@ ht-degree: 0%
 
    타임라인에 있는 주황색 점을 추가로 클릭하면 이벤트, 프로그램 및 기회를 창출하고 닫는 데 도움이 되는 흥미로운 순간에 대한 스토리를 작성할 수 있습니다.
 
-   >[!NOTE]
+   >[!MORELIKETHIS]
    >
-   >**관련 문서**
    >
    >
    >    
