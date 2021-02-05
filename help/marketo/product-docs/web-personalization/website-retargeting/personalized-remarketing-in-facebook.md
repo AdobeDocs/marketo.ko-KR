@@ -3,9 +3,9 @@ unique-page-id: 4720917
 description: Facebook에서 개인화된 리마케팅 - 마케팅 문서 - 제품 설명서
 title: Facebook에서 개인화된 리마케팅
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
 workflow-type: tm+mt
-source-wordcount: '311'
+source-wordcount: '309'
 ht-degree: 0%
 
 ---
@@ -130,9 +130,7 @@ ht-degree: 0%
 
 1. 이제 Facebook에서 개인화된 리마케팅 캠페인이 준비됩니다.
 
->[!NOTE]
->
->**관련 문서**
+>[!MORELIKETHIS]
 >
 >* [웹 개인화 데이터를 사용한 리타겟팅](retargeting-with-web-personalization-data.md)
 >* [Google에서 개인화된 리마케팅](personalized-remarketing-in-google.md)
