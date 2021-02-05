@@ -3,9 +3,9 @@ unique-page-id: 2359685
 description: 관여 대시보드 - 마케팅 문서 - 제품 설명서
 title: 관여 대시보드
 translation-type: tm+mt
-source-git-commit: 313266a67243f0c70c25010cb4825efb7f3db0ab
+source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
 workflow-type: tm+mt
-source-wordcount: '271'
+source-wordcount: '262'
 ht-degree: 0%
 
 ---
@@ -13,21 +13,21 @@ ht-degree: 0%
 
 # 관여 대시보드 {#the-engagement-dashboard}
 
-관여 대시보드는 [관여 프로그램](http://docs.marketo.com/display/docs/drip+nurturing)의 컨텐츠가 어떻게 수행되는지 확인하는 가장 쉬운 방법입니다.
+관여 대시보드는 관여 프로그램의 컨텐츠가 어떻게 작동하는지 쉽게 확인할 수 있는 방법입니다.
 
 >[!NOTE]
 >
->참여 점수는 각 캐스트 후 72시간이 계산됩니다. [참여 점수](understanding-the-engagement-score.md)에 대해 자세히 알아보십시오.
+>참여 점수는 각 캐스트 후 72시간이 계산됩니다. [참여 점수](/help/marketo/product-docs/email-marketing/drip-nurturing/reports-and-notifications/understanding-the-engagement-score.md)에 대해 자세히 알아보십시오.
 
 ## 관여 대시보드 {#view-the-engagement-dashboard} 보기
 
-참여 프로그램을 선택하고 **보기 > 대시보드**&#x200B;를 클릭합니다.
+참여 프로그램을 선택하고 **보기** > **대시보드**&#x200B;를 클릭합니다.
 
 ![](assets/image2014-9-15-16-3a42-3a41.png)
 
 >[!TIP]
 >
->자세한 통계를 보려면 [관여 스트림 성능 보고서](engagement-stream-performance-report.md)를 확인하십시오.
+>자세한 통계를 보려면 [관여 스트림 성능 보고서](/help/marketo/product-docs/email-marketing/drip-nurturing/reports-and-notifications/engagement-stream-performance-report.md)를 확인하십시오.
 
 ## 소모 위젯 {#understand-the-exhaustion-widget} 이해
 
@@ -47,9 +47,7 @@ ht-degree: 0%
 
 시간에 따른 평균 참여 점수와 컨텐츠 편집의 효과를 표시합니다.
 
->[!NOTE]
->
->**가용성**
+>[!AVAILABILITY]
 >
 >이 기능은 Marketing의 매출 주기 탐색기를 사용하는 고객을 위한 추가 기능으로 사용할 수 있습니다. 자세한 내용은 고객 성공 관리자에게 문의하십시오.
 
@@ -69,11 +67,8 @@ ht-degree: 0%
 
 ![](assets/image2014-9-15-16-3a46-3a58.png)
 
-*Newestand* Oldestare는  ** 마지막 승인 시간을 기반으로 합니다.
+_Newestand_ Oldestare는  __ 마지막 승인 시간을 기반으로 합니다.
 
 >[!NOTE]
 >
->**자세히 알아보기**
->
->[참여 프로그램 만들기](../../../../product-docs/email-marketing/drip-nurturing/creating-an-engagement-program/create-an-engagement-program.md)에서 자세히 알아보십시오.
-
+>[참여 프로그램 만들기](/help/marketo/product-docs/email-marketing/drip-nurturing/creating-an-engagement-program/create-an-engagement-program.md)에서 자세히 알아보십시오.
