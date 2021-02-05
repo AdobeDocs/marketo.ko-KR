@@ -3,7 +3,7 @@ unique-page-id: 2359665
 description: 스트림 대상 설정 - 마케팅 문서 - 제품 설명서
 title: 스트림 대상 설정
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
 workflow-type: tm+mt
 source-wordcount: '378'
 ht-degree: 0%
@@ -21,11 +21,11 @@ ht-degree: 0%
 
    ![](assets/login-marketing-activities.png)
 
-1. 참여 프로그램을 찾아 선택하고 **Streams ** 탭을 클릭한 다음 **스트림 대상 설정**&#x200B;을 클릭합니다.
+1. 참여 프로그램을 찾아 선택하고 **Streams** 탭을 클릭한 다음 **스트림 대상 설정**&#x200B;을 클릭합니다.
 
    ![](assets/selectstreamcadence.jpg)
 
-1. 캐디를 반복할 빈도를 선택합니다. 주별** 또는 **월별**&#x200B;을 선택할 수 있습니다.
+1. 캐디를 반복할 빈도를 선택합니다. **주별** 또는 **월별**&#x200B;을 선택할 수 있습니다.
 
 ## 주별 {#weekly}
 
@@ -35,7 +35,7 @@ ht-degree: 0%
 
    >[!NOTE]
    >
-   >**None**을 선택하면 스트림이 종료됩니다.
+   >**없음**&#x200B;을 선택하면 스트림이 종료됩니다.
 
 1. 첫 출연자의 날짜를 선택합니다.
 
@@ -51,9 +51,10 @@ ht-degree: 0%
 
    >[!TIP]
    >
-   >**반복:주별** /** 다음 간격:1주** /****On**:모든 날.
+   >**반복:주별** / **매:1주** / **On**:모든 날.
 
-   이제 시간을 선택하십시오. [수신자 표준 시간대](set-stream-cadence/schedule-engagement-programs-with-recipient-time-zone.md)(예: 로컬 표준 시간대에 따라 배달)를 사용하려면 확인란을 선택하고 저장을 클릭합니다.
+   이제 시간을 선택하십시오. [수신자 표준 시간대](/help/marketo/product-docs/email-marketing/drip-nurturing/engagement-program-streams/set-stream-cadence/schedule-engagement-programs-with-recipient-time-zone.md)(즉, 로컬 표준 시간대에 따라 배달)를 사용하려면 확인란을 선택하고 **저장**&#x200B;을 클릭합니다.
+
    ![](assets/image2017-12-5-14-3a20-3a11.png)
 
    >[!CAUTION]
@@ -72,7 +73,7 @@ ht-degree: 0%
 
 ## 월별 {#monthly}
 
-1. 반복 횟수**Monthly**를 선택합니다.
+1. 반복 빈도를 보려면 **월별**&#x200B;을 선택합니다.
 
    ![](assets/image2014-9-15-16-3a30-3a15.png)
 
@@ -108,10 +109,6 @@ ht-degree: 0%
 
 >[!MORELIKETHIS]
 >
->* [수신자 시간대 이해](../../../../product-docs/email-marketing/email-programs/email-program-actions/scheduling-with-recipient-time-zone/understanding-recipient-time-zone.md)
->* [받는 사람 시간대를 사용하여 참여 프로그램 예약](set-stream-cadence/schedule-engagement-programs-with-recipient-time-zone.md)
-
->
-
-
+>* [수신자 시간대 이해](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/scheduling-with-recipient-time-zone/understanding-recipient-time-zone.md)
+>* [받는 사람 시간대를 사용하여 참여 프로그램 예약](/help/marketo/product-docs/email-marketing/drip-nurturing/engagement-program-streams/set-stream-cadence/schedule-engagement-programs-with-recipient-time-zone.md)
 
