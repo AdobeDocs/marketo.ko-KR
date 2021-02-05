@@ -3,7 +3,7 @@ unique-page-id: 12976776
 description: 스마트 캠페인 - Marketing To Docs - 제품 문서에서 LinkedIn 리드 생성 양식 필터 및 트리거 사용
 title: 스마트 캠페인에서 LinkedIn 리드 생성 양식 필터 및 트리거 사용
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
 workflow-type: tm+mt
 source-wordcount: '140'
 ht-degree: 0%
@@ -26,4 +26,3 @@ LinkedIn 리드 생성 Forms을 활성화하면 스마트 캠페인에서 이러
 1. 제한 사항을 추가하여 결과를 추가적으로 제한할 수 있습니다.
 
    ![](assets/lead-gen-constraints.png)
-
