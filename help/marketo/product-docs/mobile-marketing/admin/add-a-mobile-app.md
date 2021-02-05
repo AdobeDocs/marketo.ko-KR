@@ -3,9 +3,9 @@ unique-page-id: 7512252
 description: 모바일 앱 추가 - 마케팅 문서 - 제품 설명서
 title: 모바일 앱 추가
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
 workflow-type: tm+mt
-source-wordcount: '193'
+source-wordcount: '192'
 ht-degree: 0%
 
 ---
@@ -17,9 +17,8 @@ ht-degree: 0%
 
 일반적으로 앱은 초기 개발 및 테스트가 수행되는 샌드박스 환경에서 시작됩니다. 그런 다음 개발자는 제작 환경을 사용하여 고객이 사용할 최종 앱을 빌드합니다. 모바일 앱을 추가할 때 적절한 알림 인증서를 선택해야 합니다(아래 4단계 참조).
 
->[!NOTE]
+>[!AVAILABILITY]
 >
->**가용성**
 >
 >모든 고객이 이 기능을 구입하지는 않았습니다. 자세한 내용은 영업 담당자에게 문의하십시오.
 
