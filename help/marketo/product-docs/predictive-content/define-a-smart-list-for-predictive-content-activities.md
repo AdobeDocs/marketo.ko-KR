@@ -3,9 +3,9 @@ unique-page-id: 10097873
 description: 예측 컨텐츠 활동에 대한 스마트 목록 정의 - 마케팅 문서 - 제품 설명서
 title: 예측 컨텐츠 활동에 대한 스마트 목록 정의
 translation-type: tm+mt
-source-git-commit: 00887ea53e395bea3a11fd28e0ac98b085ef6ed8
+source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
 workflow-type: tm+mt
-source-wordcount: '352'
+source-wordcount: '350'
 ht-degree: 0%
 
 ---
@@ -72,9 +72,8 @@ ht-degree: 0%
 
    [일괄 처리 스마트 캠페인에 대한 스마트 목록 정의](../../product-docs/core-marketo-concepts/smart-campaigns/creating-a-smart-campaign/define-smart-list-for-smart-campaign-batch.md)
 
-   >[!NOTE]
+   >[!MORELIKETHIS]
    >
-   >**관련 문서**
    >
    >    
    >    
