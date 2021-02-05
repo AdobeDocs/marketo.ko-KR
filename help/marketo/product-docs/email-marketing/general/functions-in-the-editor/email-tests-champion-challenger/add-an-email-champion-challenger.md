@@ -3,9 +3,9 @@ unique-page-id: 2359553
 description: 이메일 챔피언/도전자 - 마케팅 문서 - 제품 설명서 추가
 title: 이메일 챔피언/도전자 추가
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
 workflow-type: tm+mt
-source-wordcount: '216'
+source-wordcount: '214'
 ht-degree: 0%
 
 ---
@@ -51,9 +51,8 @@ ht-degree: 0%
 
 1. 다른 테스트 유형 옵션이 있는 새 창이 열립니다. 각 문서에 대한 자세한 내용은 아래 관련 문서를 참조하십시오.
 
-   >[!NOTE]
+   >[!MORELIKETHIS]
    >
-   >**관련 문서**
    >
    >    
    >    
