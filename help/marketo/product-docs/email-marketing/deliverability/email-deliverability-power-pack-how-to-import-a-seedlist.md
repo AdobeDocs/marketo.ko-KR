@@ -3,9 +3,9 @@ unique-page-id: 10099077
 description: 이메일 배달 기능 전원 팩 - Seedlist를 가져오는 방법 - Marketing To Docs - 제품 설명서
 title: 이메일 배달 가능 전원 팩 - 세부 정보 목록을 가져오는 방법
 translation-type: tm+mt
-source-git-commit: 23428a6e0ba9b2108a8f2f7dd6a69929dd069834
+source-git-commit: 615ddd6ffdb3873baa159d440db7b24f3a07e6b0
 workflow-type: tm+mt
-source-wordcount: '292'
+source-wordcount: '291'
 ht-degree: 0%
 
 ---
@@ -15,9 +15,7 @@ ht-degree: 0%
 
 시드 목록은 Google Apps, Hotmail, Yahoo! 등을 비롯한 여러 사서함 공급자의 이메일 계정 목록으로 받은 편지함의 비율과 스팸 폴더 제공 비율을 대략적으로 계산하는 데 사용됩니다. 이 목록을 Marketing To 인스턴스로 가져오는 방법은 다음과 같습니다.
 
->[!NOTE]
->
->**가용성**
+>[!AVAILABILITY]
 >
 >모든 고객이 이 기능을 구입하지는 않았습니다. 자세한 내용은 영업 담당자에게 문의하십시오.
 
@@ -41,9 +39,9 @@ ht-degree: 0%
 
    >[!NOTE]
    >
-   >[목록](http://support.250ok.com/hc/en-us/articles/216763528-What-is-the-list-optimizer-and-why-should-I-use-it-)을 최적화하도록 250확인을 하려면 **목록 최적화**&#x200B;를 선택합니다. 포함시킬 묘목 목록 영역을 선택하려면 목록 사용자 지정**을 선택합니다.
+   >[목록](https://support.250ok.com/hc/en-us/articles/216763528-What-is-the-list-optimizer-and-why-should-I-use-it-)을 최적화하도록 250확인을 하려면 **목록 최적화**&#x200B;를 선택합니다. 포함할 세부 목록 영역을 선택하려면 **목록 사용자 지정**&#x200B;을 선택합니다.
 
-1. 내보내면 목록이 브라우저의 다운로드 폴더에 .txt 파일로 표시됩니다. 검색한 다음 [Import](../../../getting-started/quick-wins/import-a-list-of-people.md)를 Marketing 인스턴스로 정적 목록으로 가져옵니다.
+1. 내보내면 목록이 브라우저의 다운로드 폴더에 .txt 파일로 표시됩니다. 검색한 다음 [Import](/help/marketo/getting-started/quick-wins/import-a-list-of-people.md)를 Marketing 인스턴스로 정적 목록으로 가져옵니다.
 
    ![](assets/five.png)
 
