@@ -3,9 +3,9 @@ unique-page-id: 2359785
 description: 참조 오퍼 주문 처리 이메일 보내기 - 마케팅 문서 - 제품 설명서
 title: 참조 오퍼 이행 이메일 보내기
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
 workflow-type: tm+mt
-source-wordcount: '174'
+source-wordcount: '172'
 ht-degree: 0%
 
 ---
@@ -17,11 +17,8 @@ ht-degree: 0%
 
 >[!PREREQUISITES]
 >
->* [소셜 프로모션에서 이메일 사용](../../../../product-docs/demand-generation/social/social-functions/use-emails-in-social-promotions.md)
->* [참조 오퍼 만들기](create-a-referral-offer.md)
-
->
-
+>* [소셜 프로모션에서 이메일 사용](/help/marketo/product-docs/demand-generation/social/social-functions/use-emails-in-social-promotions.md)
+>* [참조 오퍼 만들기](/help/marketo/product-docs/demand-generation/social/referral-offers/create-a-referral-offer.md)
 
 
 ## 주문 처리 배달 설정 {#set-up-fulfillment-delivery}
@@ -30,11 +27,9 @@ ht-degree: 0%
 
    ![](assets/image2015-4-20-16-3a3-3a14.png)
 
-1. **앱 설정**&#x200B;에서 **오퍼 세부 정보.**
+1. **앱 설정**&#x200B;에서 **오퍼 세부 정보**&#x200B;를 선택합니다.
 
-   ** ![](assets/image2015-4-23-12-3a53-3a16.png)
-
-   **
+   ![](assets/image2015-4-23-12-3a53-3a16.png)
 
 1. **등록 이메일**&#x200B;을 선택합니다.
 
@@ -46,10 +41,7 @@ ht-degree: 0%
 
    >[!NOTE]
    >
-   >**자세히 알아보기**
-   >
-   >
-   >소셜 판촉 행사[에서 이메일 사용에 대해 자세히 알아보십시오.](../../../../product-docs/demand-generation/social/social-functions/use-emails-in-social-promotions.md)
+   >소셜 판촉 행사](/help/marketo/product-docs/demand-generation/social/social-functions/use-emails-in-social-promotions.md)에서 이메일 사용에 대해 자세히 알아보십시오.[
 
 1. **주문 처리 배달** 드롭다운을 클릭하고 목표&#x200B;**에서**&#x200B;자동을 선택합니다.
 
@@ -65,7 +57,7 @@ ht-degree: 0%
 
    ![](assets/image2015-4-20-15-3a37-3a14.png)
 
-1. **필터링 기준 ** 옵션을 클릭하고 **목표**&#x200B;를 선택합니다.
+1. **필터링 기준** 옵션을 클릭하고 **목표**&#x200B;를 선택합니다.
 
    >[!NOTE]
    >
