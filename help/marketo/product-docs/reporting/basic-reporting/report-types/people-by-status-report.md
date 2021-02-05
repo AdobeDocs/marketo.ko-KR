@@ -3,9 +3,9 @@ unique-page-id: 2360012
 description: 상태별 사람 보고서 - 마케팅 문서 - 제품 설명서
 title: 상태별 사람 보고서
 translation-type: tm+mt
-source-git-commit: d7d6aee63144c472e02fe0221c4a164183d04dd4
+source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
 workflow-type: tm+mt
-source-wordcount: '129'
+source-wordcount: '127'
 ht-degree: 0%
 
 ---
@@ -27,9 +27,8 @@ ht-degree: 0%
    >
    >플러스(+)를 클릭하여 매월 확장하고 각 개인 상태에 대한 특정 숫자를 봅니다.
 
-   >[!NOTE]
+   >[!MORELIKETHIS]
    >
-   >**관련 문서**
    >
    >
    >[스마트 목록을 사용하여 특정 ](../../../../product-docs/reporting/basic-reporting/editing-reports/filter-people-in-a-report-with-a-smart-list.md) 사용자에게 보고서를 필터링합니다.
