@@ -3,9 +3,9 @@ unique-page-id: 2360368
 description: Salesforce Enterprise에서 Marketing To Sales Insight 구성/제한 없음 - Marketing To Docs - 제품 설명서
 title: Salesforce Enterprise에서 Marketing To Sales Insight 구성/제한 없음
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
 workflow-type: tm+mt
-source-wordcount: '922'
+source-wordcount: '920'
 ht-degree: 0%
 
 ---
@@ -300,9 +300,7 @@ ht-degree: 0%
 
    ![](assets/access-msi.png)
 
->[!NOTE]
->
->**관련 문서**
+>[!MORELIKETHIS]
 >
 >* [우선 순위, 긴급성, 상대적인 점수 및 최고 점수](../../../../product-docs/marketo-sales-insight/msi-for-salesforce/features/stars-and-flames/priority-urgency-relative-score-and-best-bets.md)
 >* [Salesforce에 Marketing to Sales Insight 탭 및 버튼 추가](../../../../product-docs/marketo-sales-insight/msi-for-salesforce/features/bulk-actions/add-marketo-sales-insight-tab-and-buttons-to-salesforce.md)
