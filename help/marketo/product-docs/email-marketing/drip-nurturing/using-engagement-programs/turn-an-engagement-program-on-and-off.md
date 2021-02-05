@@ -3,7 +3,7 @@ unique-page-id: 2359856
 description: 참여 프로그램 켜기 및 끄기 - Marketing To Docs - 제품 설명서
 title: 참여 프로그램 설정 및 해제
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
 workflow-type: tm+mt
 source-wordcount: '94'
 ht-degree: 0%
@@ -35,5 +35,4 @@ ht-degree: 0%
 
    ![](assets/image2014-9-15-17-3a15-3a2.png)
 
-   됐다! 동일한 단계를 사용하여 다시 활성화할 수 있습니다.
-
+됐다! 동일한 단계를 사용하여 다시 활성화할 수 있습니다.
