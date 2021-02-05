@@ -3,9 +3,9 @@ unique-page-id: 2360405
 description: 리드 목록 - Marketing To Docs - 제품 설명서를 나열하는 프로그램 회원 분석 보고서 작성
 title: 리드를 나열하는 프로그램 구성원 분석 보고서 만들기
 translation-type: tm+mt
-source-git-commit: c33b7ab59e612f37d3f64bb954579700dc574068
+source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
 workflow-type: tm+mt
-source-wordcount: '148'
+source-wordcount: '147'
 ht-degree: 0%
 
 ---
@@ -15,9 +15,8 @@ ht-degree: 0%
 
 다음 단계에 따라 모든 프로그램 멤버 이름을 보여주는 프로그램 회원 분석 보고서를 만듭니다.
 
->[!NOTE]
+>[!AVAILABILITY]
 >
->**가용성**
 >
 >모든 고객이 이 기능을 구입하지는 않았습니다. 자세한 내용은 영업 담당자에게 문의하십시오.
 
