@@ -3,9 +3,9 @@ unique-page-id: 37356593
 description: 작성 창에서 템플릿 사용 - 마케팅 문서 - 제품 설명서
 title: 작성 창에서 템플릿 사용
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
 workflow-type: tm+mt
-source-wordcount: '248'
+source-wordcount: '246'
 ht-degree: 0%
 
 ---
@@ -69,9 +69,8 @@ ht-degree: 0%
    >
    >**기본적으로** 여기에서 즐겨찾기입니다. 카테고리가 아니라 즐겨찾기 이메일 템플릿을 보관합니다.
 
-   >[!NOTE]
+   >[!MORELIKETHIS]
    >
-   >**관련 문서**
    >
    >    
    >    
