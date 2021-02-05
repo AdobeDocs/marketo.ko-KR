@@ -3,9 +3,9 @@ unique-page-id: 10098812
 description: 디지털 광고 캠페인에 대한 매출 속성 설정 - 마케팅 문서 - 제품 설명서
 title: 디지털 광고 캠페인에 대한 매출 속성 설정
 translation-type: tm+mt
-source-git-commit: d7d6aee63144c472e02fe0221c4a164183d04dd4
+source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
 workflow-type: tm+mt
-source-wordcount: '860'
+source-wordcount: '835'
 ht-degree: 0%
 
 ---
@@ -25,9 +25,6 @@ Marketing To에서 첫 번째 광고 프로그램을 설정한 후 다른 채널
 >* 양식을 만들거나 편집하여 사용자와 쿼리 문자열을 전달합니다.
 >* 광고 채널 및 캠페인에 대해 보고하려면 일부 매출 주기 분석 기능에 액세스할 수 있어야 합니다
 
->
-
-
 
 ## 기본 프로그램 {#create-a-default-program} 만들기
 
@@ -41,7 +38,7 @@ Marketing To에서 첫 번째 광고 프로그램을 설정한 후 다른 채널
 
    ![](assets/image2016-3-14-15-52-0.png)
 
-1. 이미 적절한 프로그램이 있는 경우 [복제하여](../../../../product-docs/core-marketo-concepts/programs/working-with-programs/clone-a-program.md)할 수 있습니다.
+1. 이미 적절한 프로그램이 있는 경우 [복제하여](/help/marketo/product-docs/core-marketo-concepts/programs/working-with-programs/clone-a-program.md)할 수 있습니다.
 
    >[!TIP]
    >
@@ -53,15 +50,11 @@ Marketing To에서 첫 번째 광고 프로그램을 설정한 후 다른 채널
    >
    >**예**
    >
-   >
    >URL을 통해 전달된 쿼리 문자열은 Marketing Cloud에서 개인이 되었을 때 클릭한 광고 캠페인을 알 수 있도록 도와줍니다.
-   >
    >
    >측정할 모든 변수를 포함하는 쿼리 문자열 방법을 만들 수 있습니다. Marketing에서는 이러한 변수를 사용하여 다른 프로그램에 사용자를 추가합니다.
    >
-   >
    >예를 들어 채널 유형_Channel__Asset__Region을 사용할 수 있습니다. 다음과 같이 표시됩니다.SP_FB_NewGuide_US. **참고**:약어는 공백을 저장합니다.
-   >
    >
    >또는 Channel_Adsource_AssetName_Region_UniqueIdNumber로 설정합니다. 다음과 같이 표시됩니다.Social-Paid_Facebook_NewGuide_NA_123.
 
@@ -95,7 +88,7 @@ Marketing To에서 첫 번째 광고 프로그램을 설정한 후 다른 채널
 
    >[!NOTE]
    >
-   >위의 예는 **Converted를 **표시하지만 이것은 상태/성공 값에 따라 달라집니다.
+   >위의 예는 **Converted**&#x200B;을 표시하지만 사용자의 상태/성공 값에 따라 다릅니다.
 
 1. 캠페인을 예약하고 활성화합니다.
 
@@ -112,21 +105,16 @@ Marketing To에서 첫 번째 광고 프로그램을 설정한 후 다른 채널
    >
    >**예**
    >
-   >
    >설정한 모든 정보를 실제 URL에 추가하는 방법은 다음과 같습니다. 항목은 앰퍼샌드(&amp;)로 구분됩니다.
    >
+   >`www.marketo.com?**source**=Social-Paid&**comment**=Social-Paid_Facebook_NewGuide_NA&**camp**=abc&**kk=**xyz`
    >
-   >[www.marketo.com?**source**=Social-Paid&amp;**comment**=Social-Paid_Facebook_NewGuide_NA&amp;**camp**=abc&amp;**kk=**xyz](http://www.marketo.com?source=Social-Paid&amp;comment=Social-Paid_Facebook_NewGUide_NA&amp;camp=abc&amp;kk+xyz)
-   >
-   >    
-   >    
-   >    * **출처: 채널 식별자로 사용되는 개인 출처** 
-   >    * **각 프로그램에 대해 생성된 고유** 식별자
-   >    * **캠페인** 은 Facebook, LinkedIn 또는 Google의 캠페인
-   >    * **캡처할 키워드 또는 자산 이름을** 키스로 지정합니다.
+   >* **출처: 채널 식별자로 사용되는 개인 출처** 
+   >* **각 프로그램에 대해 생성된 고유** 식별자
+   >* **캠페인** 은 Facebook, LinkedIn 또는 Google의 캠페인
+   >* **캡처할 키워드 또는 자산 이름을** 키스로 지정합니다.
 
-   >    
-   >    
+   >
    >**이 4개의 용어는 모두 소문자여야 하며 이 정보를 캡처하려면 URL에 공백이 없어야 합니다.**
 
 ## 우수 사례 {#best-practices}
