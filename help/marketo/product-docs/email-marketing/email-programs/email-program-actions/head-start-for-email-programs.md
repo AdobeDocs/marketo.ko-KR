@@ -3,9 +3,9 @@ unique-page-id: 10097202
 description: 이메일 프로그램 시작 - 마케팅 문서 - 제품 설명서
 title: 이메일 프로그램의 즉각적인 시작
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
 workflow-type: tm+mt
-source-wordcount: '410'
+source-wordcount: '408'
 ht-degree: 0%
 
 ---
@@ -76,9 +76,7 @@ ht-degree: 0%
 
 [수신자 ](scheduling-with-recipient-time-zone/schedule-email-programs-with-recipient-time-zone.md) 시간대로 이메일 프로그램을 예약하는 방법에 대해 자세히 알아보십시오.
 
->[!NOTE]
->
->**관련 문서**
+>[!MORELIKETHIS]
 >
 >* [이메일 프로그램 예약](schedule-your-email-program.md)
 >* [받는 사람 시간대로 이메일 프로그램 예약](scheduling-with-recipient-time-zone/schedule-email-programs-with-recipient-time-zone.md)
