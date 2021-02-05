@@ -3,9 +3,9 @@ unique-page-id: 2359559
 description: Champion/Challener -From 주소 - Marketing Docs - 제품 설명서
 title: 챔피언/도전자 - 보낸 사람 주소
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
 workflow-type: tm+mt
-source-wordcount: '238'
+source-wordcount: '236'
 ht-degree: 0%
 
 ---
@@ -58,9 +58,8 @@ ht-degree: 0%
 
    진행! 계속하자.
 
-   >[!NOTE]
+   >[!MORELIKETHIS]
    >
-   >**관련 문서**
    >
    >    
    >    
