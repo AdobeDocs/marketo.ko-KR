@@ -3,9 +3,9 @@ unique-page-id: 2359777
 description: 투표에 참여한 투표 검토 - Marketing To Docs - 제품 문서
 title: 투표에서 투표한 투표 검토
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
 workflow-type: tm+mt
-source-wordcount: '73'
+source-wordcount: '71'
 ht-degree: 0%
 
 ---
@@ -27,10 +27,6 @@ ht-degree: 0%
 
    ![](assets/image2015-5-12-14-3a37-3a24.png)
 
-   >[!NOTE]
+   >[!MORELIKETHIS]
    >
-   >**관련 문서**
-   >
-   >
-   >[소셜 성과 보기](../../../../product-docs/demand-generation/social/social-functions/view-social-performance.md)에서 앱의 소셜 접근성 및 영향에 대해 자세히 알아보십시오.
-
+   >[소셜 성과 보기](/help/marketo/product-docs/demand-generation/social/social-functions/view-social-performance.md)에서 앱의 소셜 접근성 및 영향에 대해 자세히 알아보십시오.
