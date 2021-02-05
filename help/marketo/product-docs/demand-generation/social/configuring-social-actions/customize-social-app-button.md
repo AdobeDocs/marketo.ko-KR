@@ -3,7 +3,7 @@ unique-page-id: 2359759
 description: 소셜 앱 사용자 지정 단추 - 마케팅 문서 - 제품 설명서
 title: 소셜 앱 사용자 지정 단추
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
 workflow-type: tm+mt
 source-wordcount: '191'
 ht-degree: 0%
@@ -13,13 +13,13 @@ ht-degree: 0%
 
 # 소셜 앱 사용자 지정 단추 {#customize-social-app-button}
 
-[소셜 단추](../../../../product-docs/demand-generation/landing-pages/free-form-landing-pages/add-a-social-button-to-a-free-form-landing-page.md) 또는 [참조 오퍼](../../../../product-docs/demand-generation/social/referral-offers/create-a-referral-offer.md)를 만들 때 단추의 모양을 사용자 정의할 수 있습니다.
+[소셜 단추](/help/marketo/product-docs/demand-generation/landing-pages/free-form-landing-pages/add-a-social-button-to-a-free-form-landing-page.md) 또는 [참조 오퍼](/help/marketo/product-docs/demand-generation/social/referral-offers/create-a-referral-offer.md)를 만들 때 단추의 모양을 사용자 정의할 수 있습니다.
 
 1. **마케팅 활동**&#x200B;으로 이동합니다.
 
    ![](assets/login-marketing-activities.png)
 
-1. 앱을 선택하고 **초안 편집을 클릭합니다.**
+1. 앱을 선택하고 **초안 편집**&#x200B;을 클릭합니다.
 
    ![](assets/image2014-9-23-17-3a3-3a34.png)
 
@@ -61,5 +61,4 @@ ht-degree: 0%
 
 >[!MORELIKETHIS]
 >
->소셜 버튼의 경우 [이(가)](configure-when-social-button-opens.md)을(를) 열 때 구성합니다. 참조 오퍼의 경우 [오퍼 목표](../../../../product-docs/demand-generation/social/referral-offers/specify-goal-for-referral-offer.md)를 지정합니다.
-
+>소셜 버튼의 경우 [이(가)](/help/marketo/product-docs/demand-generation/social/configuring-social-actions/configure-when-social-button-opens.md)을(를) 열 때 구성합니다. 참조 오퍼의 경우 [오퍼 목표](/help/marketo/product-docs/demand-generation/social/referral-offers/specify-goal-for-referral-offer.md)를 지정합니다.
