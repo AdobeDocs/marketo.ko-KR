@@ -3,9 +3,9 @@ unique-page-id: 2359562
 description: 챔피언/도전자 - 챔피언 기준 정의 - Marketing To Docs - 제품 설명서
 title: 챔피언/도전자 -챔피언 기준 정의
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
 workflow-type: tm+mt
-source-wordcount: '181'
+source-wordcount: '179'
 ht-degree: 0%
 
 ---
@@ -61,9 +61,8 @@ ht-degree: 0%
 
    좋아요! 이제 보고서를 예약할 때입니다.
 
-   >[!NOTE]
+   >[!MORELIKETHIS]
    >
-   >**관련 문서**
    >
    >    
    >    
