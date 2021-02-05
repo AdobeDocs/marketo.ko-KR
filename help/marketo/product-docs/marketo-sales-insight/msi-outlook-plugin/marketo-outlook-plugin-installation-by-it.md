@@ -3,9 +3,9 @@ unique-page-id: 11382815
 description: IT별 Marketing Outlook 플러그인 설치 - Marketing Docs - 제품 설명서
 title: IT별 Marketing Outlook 플러그인 설치
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
 workflow-type: tm+mt
-source-wordcount: '191'
+source-wordcount: '189'
 ht-degree: 0%
 
 ---
@@ -46,9 +46,7 @@ ht-degree: 0%
 
 다른 로깅 수준 또는 사용자 인터페이스 수준을 시도하려면 [Microsoft의 스위치 전체 목록](https://support.microsoft.com/en-us/kb/227091)을 참조하십시오.
 
->[!NOTE]
->
->**관련 문서**
+>[!MORELIKETHIS]
 >
 >[IT에서 Marketing Outlook 플러그인 제거](marketo-outlook-plugin-uninstall-by-it.md)
 
