@@ -3,9 +3,9 @@ unique-page-id: 10096523
 description: 푸시 알림 대시보드 - 마케팅 문서 - 제품 설명서 보기
 title: 푸시 알림 대시보드 보기
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
 workflow-type: tm+mt
-source-wordcount: '132'
+source-wordcount: '130'
 ht-degree: 0%
 
 ---
@@ -35,9 +35,8 @@ ht-degree: 0%
    >
    >**Sent** 지표는 푸시 알림을 전송한 정확한 사람 수보다 많은 전송을 반영할 수 있습니다. 푸시를 받을 수 있는 *개 장치 수*&#x200B;에 따라 계산되기 때문입니다. 예를 들어, 한 사람에게 3개의 장치가 있는 경우 대시보드는 하나가 아닌 3개의 전송을 등록합니다.
 
-   >[!NOTE]
+   >[!MORELIKETHIS]
    >
-   >**관련 문서**
    >
    >    
    >    
