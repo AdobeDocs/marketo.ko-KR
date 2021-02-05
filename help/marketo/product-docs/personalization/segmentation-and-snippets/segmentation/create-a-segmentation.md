@@ -3,9 +3,9 @@ unique-page-id: 2359447
 description: 세그멘테이션 만들기 - 마케팅 문서 - 제품 설명서
 title: 세그멘테이션 만들기
 translation-type: tm+mt
-source-git-commit: d7d6aee63144c472e02fe0221c4a164183d04dd4
+source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
 workflow-type: tm+mt
-source-wordcount: '233'
+source-wordcount: '231'
 ht-degree: 0%
 
 ---
@@ -61,9 +61,8 @@ ht-degree: 0%
    >
    >세그멘테이션을 사용하려면 먼저 세그먼트 규칙을 정의해야 합니다.
 
-   >[!NOTE]
+   >[!MORELIKETHIS]
    >
-   >**관련 문서**
    >
    >    
    >    
