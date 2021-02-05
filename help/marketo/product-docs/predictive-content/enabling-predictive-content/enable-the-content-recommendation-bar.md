@@ -3,9 +3,9 @@ unique-page-id: 4720108
 description: 컨텐츠 권장 사항 표시줄 - 마케팅 문서 - 제품 설명서 활성화
 title: 컨텐츠 권장 사항 막대 활성화
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
 workflow-type: tm+mt
-source-wordcount: '310'
+source-wordcount: '308'
 ht-degree: 0%
 
 ---
@@ -60,7 +60,6 @@ ht-degree: 0%
 * 권장 사항 엔진에서 더 많은 컨텐츠를 실행하면 알고리즘이 가장 잘 작동하는 컨텐츠를 테스트하고 학습하는 데 더 좋습니다. 10~20개의 콘텐츠 조각을 실행하고 활성화하며 새로운 콘텐츠 조각을 추가하는 것이 좋습니다.
 * 권장 사항에 대해 활성화한 컨텐츠 조각에는 RTP Javascript 태그가 포함되어야 합니다. 이렇게 하면 알고리즘이 권장 컨텐츠를 추적하고 최적화할 수 있습니다.
 
->[!NOTE]
-**관련 문서**
+>[!MORELIKETHIS]
 * [웹 리치 미디어용 예측 컨텐츠 사용](enable-predictive-content-for-web-rich-media.md)
 
