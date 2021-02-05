@@ -3,9 +3,9 @@ unique-page-id: 2359768
 description: 투표 만들기 - 마케팅 문서 - 제품 설명서
 title: 투표 만들기
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
 workflow-type: tm+mt
-source-wordcount: '306'
+source-wordcount: '303'
 ht-degree: 0%
 
 ---
@@ -15,21 +15,19 @@ ht-degree: 0%
 
 투표를 하고 소셜 네트워크에서 친구와 공유할 수 있는 투표를 통해 사람들의 참여를 유도할 수 있습니다. 랜딩 페이지, 웹 사이트 및 Facebook과 같은 위치에 추가할 수 있습니다.
 
->[!NOTE]
->
->**가용성**
+>[!AVAILABILITY]
 >
 >모든 고객이 이 기능을 구입하지는 않았습니다. 자세한 내용은 영업 담당자에게 문의하십시오.
 
 >[!PREREQUISITES]
 >
->투표에 이미지를 사용하려면 시작하기 전에 먼저 이미지를 Marketing To 이미지 및 파일 라이브러리에 추가합니다. 각 투표 항목에 대해 60x60px 이미지를 추가합니다. [Marketing](../../../../product-docs/demand-generation/images-and-files/add-images-and-files-to-marketo.md)에 이미지 및 파일 추가를 참조하십시오.
+>투표에 이미지를 사용하려면 시작하기 전에 먼저 이미지를 Marketing To 이미지 및 파일 라이브러리에 추가합니다. 각 투표 항목에 대해 60x60px 이미지를 추가합니다. [Marketing](/help/marketo/product-docs/demand-generation/images-and-files/add-images-and-files-to-marketo.md)에 이미지 및 파일 추가를 참조하십시오.
 
-1. 프로그램 내에서 **새로 만들기** > **새 로컬 에셋을 선택합니다.**
+1. 프로그램 내에서 **새로 만들기** > **새 로컬 자산**&#x200B;을 선택합니다.
 
    ![](assets/image2014-9-18-18-3a18-3a41.png)
 
-1. **로컬 에셋 갤러리에서** **투표를 클릭합니다.**
+1. **로컬 에셋 갤러리**&#x200B;에서 **투표**&#x200B;를 클릭합니다.
 
    ![](assets/image2014-9-18-18-3a18-3a47.png)
 
@@ -57,11 +55,11 @@ ht-degree: 0%
 
    ![](assets/image2014-9-18-18-3a19-3a37.png)
 
-1. 필요한 이미지를 선택한 다음 **선택을 클릭합니다.**
+1. 필요한 이미지를 선택한 다음 **선택**&#x200B;을 클릭합니다.
 
    ![](assets/image2014-9-18-18-3a19-3a44.png)
 
-1. 모든 항목의 축소판, 제목 및 설명을 설정한 경우 **마침을 클릭합니다.**
+1. 모든 항목의 축소판, 제목 및 설명을 설정한 경우 **완료**&#x200B;를 클릭합니다.
 
    ![](assets/image2014-9-18-18-3a19-3a50.png)
 
@@ -77,9 +75,6 @@ ht-degree: 0%
 
 투표에 문제가 있는 경우 투표를 승인하기 전에 해당 문제에 대해 처리하라는 메시지가 표시됩니다. 축하합니다! 투표를 만들었습니다.
 
->[!NOTE]
+>[!MORELIKETHIS]
 >
->**관련 문서**
->
->다음 단계는 [투표 게시](publish-a-poll.md)이지만 필요한 경우 투표 설정을 변경할 수 있습니다. [투표 설정 사용자 지정](customize-poll-settings.md)으로 시작합니다.
-
+>다음 단계는 [투표 게시](/help/marketo/product-docs/demand-generation/social/creating-a-poll/publish-a-poll.md)이지만 필요한 경우 투표 설정을 변경할 수 있습니다. [투표 설정 사용자 지정](/help/marketo/product-docs/demand-generation/social/creating-a-poll/customize-poll-settings.md)으로 시작합니다.
