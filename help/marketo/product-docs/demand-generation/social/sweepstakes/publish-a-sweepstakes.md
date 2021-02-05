@@ -3,9 +3,9 @@ unique-page-id: 2359799
 description: 경품 행사 게시 - 마케팅 문서 - 제품 설명서
 title: 경품 행사 게시
 translation-type: tm+mt
-source-git-commit: 00887ea53e395bea3a11fd28e0ac98b085ef6ed8
+source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
 workflow-type: tm+mt
-source-wordcount: '180'
+source-wordcount: '177'
 ht-degree: 0%
 
 ---
@@ -13,17 +13,13 @@ ht-degree: 0%
 
 # 경품 행사 {#publish-a-sweepstakes} 게시
 
-[경품 행사](create-sweepstakes.md)를 만든 후 마케팅 랜딩 페이지, 웹 사이트 및 Facebook에 게시할 수 있습니다.
+[경품 행사](/help/marketo/product-docs/demand-generation/social/sweepstakes/create-sweepstakes.md)를 만든 후 마케팅 랜딩 페이지, 웹 사이트 및 Facebook에 게시할 수 있습니다.
 
->[!NOTE]
->
->**가용성**
+>[!AVAILABILITY]
 >
 >모든 고객이 이 기능을 구입하지는 않았습니다. 자세한 내용은 영업 담당자에게 문의하십시오.
 
 >[!NOTE]
->
->**미리 알림**
 >
 >오퍼를 게시하기 전에 해당 모든 법, 규칙 및 규정을 준수하고 있는지 확인합니다.
 
@@ -41,12 +37,9 @@ ht-degree: 0%
 
    >[!NOTE]
    >
-   >**미리 알림**
-   >
-   >
    >여기서 경품 행사를 이용할 수 있도록 하려면 경품 행사를 승인해야 합니다.
 
-   [랜딩 페이지를 Facebook에 ](../../../../product-docs/demand-generation/facebook/publish-landing-pages-to-facebook.md) [게시웹 사이트의 경품 행사 게시](../../../../product-docs/demand-generation/social/social-functions/deploy-social-on-your-website.md)
+   축하합니다! 랜딩 페이지를 승인하면 경품 행사가 라이브됩니다. 랜딩 페이지를 Facebook](/help/marketo/product-docs/demand-generation/facebook/publish-landing-pages-to-facebook.md) 또는 [웹 사이트](/help/marketo/product-docs/demand-generation/social/social-functions/deploy-social-on-your-website.md)에 게시할 수도 있습니다.[
 
    >[!TIP]
    >
@@ -54,6 +47,4 @@ ht-degree: 0%
 
    >[!NOTE]
    >
-   >사람들이 등록하면 [경품 행사 수상자](select-sweepstakes-winners.md)!
-
-축하합니다! 랜딩 페이지를 승인하면 경품 행사가 라이브됩니다. 또는 를 사용할 수도 있습니다.
+   >사람들이 등록하면 [경품 행사 수상자](/help/marketo/product-docs/demand-generation/social/sweepstakes/select-sweepstakes-winners.md)!
