@@ -3,7 +3,7 @@ unique-page-id: 10094576
 description: 지속적인 구독 취소 - 마케팅 문서 - 제품 설명서
 title: 지속적인 구독 취소
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
 workflow-type: tm+mt
 source-wordcount: '319'
 ht-degree: 0%
@@ -55,9 +55,8 @@ SOAP API를 통해 기존 사람을 업데이트합니다.
 
 ## 활동 로그 {#activity-log}
 
-*updateLeadEmailStatus* 및 *resetLeadEmailStatus*&#x200B;에 대한 데이터 값 변경 정의는 [이 커뮤니티 문서](http://nation.marketo.com/t5/Knowledgebase/Durable-Unsubscribe-Activity-Log/ta-p/252688)에서 찾을 수 있습니다.
+_updateLeadEmailStatus_ 및 _resetLeadEmailStatus_&#x200B;에 대한 데이터 값 변경 정의는 [이 커뮤니티 문서](http://nation.marketo.com/t5/Knowledgebase/Durable-Unsubscribe-Activity-Log/ta-p/252688)에서 찾을 수 있습니다.
 
 >[!MORELIKETHIS]
 >
->[가입 해지 이해](understanding-unsubscribe.md)
-
+>[가입 해지 이해](/help/marketo/product-docs/email-marketing/deliverability/understanding-unsubscribe.md)
