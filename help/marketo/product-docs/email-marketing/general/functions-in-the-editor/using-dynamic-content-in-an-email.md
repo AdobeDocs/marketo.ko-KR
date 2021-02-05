@@ -3,9 +3,9 @@ unique-page-id: 2950617
 description: 이메일에서 동적 컨텐츠 사용 - 마케팅 문서 - 제품 설명서
 title: 이메일에서 동적 컨텐츠 사용
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
 workflow-type: tm+mt
-source-wordcount: '237'
+source-wordcount: '235'
 ht-degree: 0%
 
 ---
@@ -73,9 +73,7 @@ ht-degree: 0%
 
 달콤해! 이제 타겟 고객에게 유연한 이메일을 보낼 수 있습니다.
 
->[!NOTE]
->
->**관련 문서**
+>[!MORELIKETHIS]
 >
 >* [동적 컨텐츠가 포함된 이메일 미리 보기](preview-an-email-with-dynamic-content.md)
 >* [랜딩 페이지에서 동적 컨텐츠 사용](../../../../product-docs/demand-generation/landing-pages/free-form-landing-pages/use-dynamic-content-in-a-free-form-landing-page.md)
