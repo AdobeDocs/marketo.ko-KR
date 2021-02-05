@@ -3,9 +3,9 @@ unique-page-id: 15368205
 description: Salesforce 샌드박스에 Sales Connect를 연결하는 방법 - Marketing Docs - 제품 설명서
 title: Salesforce 샌드박스와 세일즈 연결 방법
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
 workflow-type: tm+mt
-source-wordcount: '156'
+source-wordcount: '154'
 ht-degree: 0%
 
 ---
@@ -41,9 +41,7 @@ ht-degree: 0%
 
    ![](assets/five-2.png)
 
->[!NOTE]
->
->**관련 문서**
+>[!MORELIKETHIS]
 >
 >[Salesforce 샌드박스에서 사용자 정의 설정을 설치하는 방법](http://docs.marketo.com/x/EIDq)
 
