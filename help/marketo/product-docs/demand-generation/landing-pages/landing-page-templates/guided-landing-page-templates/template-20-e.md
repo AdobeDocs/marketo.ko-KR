@@ -3,9 +3,9 @@ unique-page-id: 10092922
 description: 템플릿 20-E - 마케팅 문서 - 제품 설명서
 title: 템플릿 20-E
 translation-type: tm+mt
-source-git-commit: 2969e6f94f5fd781e2167ae2aa8680bb8d134754
+source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
 workflow-type: tm+mt
-source-wordcount: '63'
+source-wordcount: '61'
 ht-degree: 0%
 
 ---
@@ -13,7 +13,7 @@ ht-degree: 0%
 
 # 템플릿 20-E {#template-e}
 
-[템플릿 다운로드 20-E](http://docs.marketo.com/download/attachments/10092922/template-20e.html?version=1&amp;modificationdate=1441750814000&amp;api=v2)를 마우스 오른쪽 단추로 클릭합니다.
+[템플릿 20-E 다운로드](https://docs.marketo.com/download/attachments/10092922/template-20e.html?version=1&amp;modificationdate=1441750814000&amp;api=v2)
 
 ![](assets/template-20e.png)
 
@@ -26,6 +26,6 @@ ht-degree: 0%
 * 4개의 본문 섹션(선택 사항)
 * 바닥글(선택 사항)
 
-이 템플릿을 다운로드하려면 아래 마우스 오른쪽 버튼을 클릭하십시오.
+**이 템플릿을 다운로드하려면 아래를 클릭하십시오.**
 
-[Template20-E.html](http://docs.marketo.com/download/attachments/10092922/template-20e.html?version=1&amp;modificationdate=1441750814000&amp;api=v2)
+[Template20-E.html](https://docs.marketo.com/download/attachments/10092922/template-20e.html?version=1&amp;modificationdate=1441750814000&amp;api=v2)
