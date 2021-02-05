@@ -3,7 +3,7 @@ unique-page-id: 2359839
 description: 참여 스트림 테스트 - 마케팅 문서 - 제품 설명서
 title: 참여 스트림 테스트
 translation-type: tm+mt
-source-git-commit: d7d6aee63144c472e02fe0221c4a164183d04dd4
+source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
 workflow-type: tm+mt
 source-wordcount: '159'
 ht-degree: 0%
@@ -23,11 +23,11 @@ ht-degree: 0%
 
    ![](assets/two.png)
 
-1. 프로그램 작업**을 클릭하고 **테스트 스트림**&#x200B;을 선택합니다.
+1. **프로그램 작업**&#x200B;을 클릭하고 **테스트 스트림**&#x200B;을 선택합니다.
 
    ![](assets/three.png)
 
-1. **Test Person ** 드롭다운에서 사람을 선택합니다. 컨텐츠는 실제로 사라진다는 것을 기억하십시오. 따라서 선택할 때 주의하십시오.
+1. **테스트 대상자** 드롭다운에서 사용자를 선택합니다. 컨텐츠는 실제로 사라진다는 것을 기억하십시오. 따라서 선택할 때 주의하십시오.
 
    ![](assets/four-rubix.png)
 
@@ -42,7 +42,7 @@ ht-degree: 0%
    [초기 스트림]을 클릭하고 테스트할 스트림을 선택하고 [캐스트 실행]을 클릭합니다.
    ![](assets/five-rubiks.png)
 
-1. 사용자가 이전에 설정한 [전환 규칙](transition-people-between-engagement-streams.md)을 살펴본 후 새로 고침 아이콘을 클릭합니다.
+1. 사용자가 이전에 설정한 [전환 규칙](/help/marketo/product-docs/email-marketing/drip-nurturing/engagement-program-streams/transition-people-between-engagement-streams.md)을 살펴본 후 새로 고침 아이콘을 클릭합니다.
 
    ![](assets/six-rubiks.png)
 
@@ -54,5 +54,4 @@ ht-degree: 0%
 
    >[!NOTE]
    >
-   >**Run Cast**을 다시 클릭하지 않으면 다른 내용이 전송되지 않습니다.
-
+   >**Run Cast를 다시 클릭하십시오**.
