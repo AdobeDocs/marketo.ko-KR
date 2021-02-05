@@ -3,9 +3,9 @@ unique-page-id: 2360303
 description: 별과 불꽃 사용자 정의 - 마케팅 문서 - 제품 설명서
 title: 별 및 불꽃 사용자 정의
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
 workflow-type: tm+mt
-source-wordcount: '171'
+source-wordcount: '170'
 ht-degree: 0%
 
 ---
@@ -15,9 +15,8 @@ ht-degree: 0%
 
 Marketing To Sales Insight는 스타와 불길을 사용하여 리드의 우선 순위를 지정합니다. 마케팅은 스타/화염1-2-3 누구인지 자동으로 결정한다. 하지만 공식을 수정할 수 있습니다. 방법은 다음과 같습니다.
 
->[!NOTE]
+>[!AVAILABILITY]
 >
->**가용성**
 >
 >모든 고객이 이 기능을 구입하지는 않았습니다. 자세한 내용은 영업 담당자에게 문의하십시오.
 
