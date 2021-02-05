@@ -3,9 +3,9 @@ unique-page-id: 2360057
 description: 캠페인 활동 보고서 - 마케팅 문서 - 제품 설명서
 title: 캠페인 활동 보고서
 translation-type: tm+mt
-source-git-commit: d7d6aee63144c472e02fe0221c4a164183d04dd4
+source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
 workflow-type: tm+mt
-source-wordcount: '238'
+source-wordcount: '236'
 ht-degree: 0%
 
 ---
@@ -46,9 +46,8 @@ ht-degree: 0%
    | 트리거됨(활성) | **마케팅 활동** 탭에서 현재 트리거된 캠페인. |
    | 트리거됨(비활성) | **마케팅 활동** 탭에서 비활성 트리거된 캠페인. |
 
-   >[!NOTE]
+   >[!MORELIKETHIS]
    >
-   >**관련 문서**
    >
    >    
    >    
