@@ -3,7 +3,7 @@ unique-page-id: 2359955
 description: 관여 스트림 성능 보고서 - 마케팅 문서 - 제품 설명서
 title: 참여 스트림 성능 보고서
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
 workflow-type: tm+mt
 source-wordcount: '160'
 ht-degree: 0%
@@ -60,8 +60,6 @@ ht-degree: 0%
 
    >[!TIP]
    >
-   >
-   >설명하지는 않지만, 관여 점수는 이 보고서의 열입니다. 대상에 대한 자세한 내용은 [참여 점수 이해](understanding-the-engagement-score.md)를 참조하십시오.
+   >설명하지는 않지만, 관여 점수는 이 보고서의 열입니다. 대상에 대한 자세한 내용은 [참여 점수 이해](/help/marketo/product-docs/email-marketing/drip-nurturing/reports-and-notifications/understanding-the-engagement-score.md)를 참조하십시오.
 
    잘했어요! 보고서는 참여 프로그램별로 그룹화됩니다.
-
