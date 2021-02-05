@@ -3,9 +3,9 @@ unique-page-id: 7511512
 description: Salesforce1에서 Marketing To Sales Insight 설치 및 구성 - Marketing To Docs - 제품 설명서
 title: Salesforce1에서 Marketing To Sales Insight 설치 및 구성
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
 workflow-type: tm+mt
-source-wordcount: '379'
+source-wordcount: '377'
 ht-degree: 0%
 
 ---
@@ -168,9 +168,7 @@ Salesforce Professional이 있는 경우:
 
 휴! 마침내 Salesforce1용 Marketing To Sales Insight를 설치하게 되었습니다. 가서 네 등 좀 쓰다듬어.
 
->[!NOTE]
->
->**관련 문서**
+>[!MORELIKETHIS]
 >
 >* [Salesforce에서 최고의 솔루션1](best-bets-in-salesforce1.md)
 >* [Salesforce의 흥미로운 순간1](interesting-moments-in-salesforce1.md)
