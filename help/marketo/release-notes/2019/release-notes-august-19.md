@@ -3,9 +3,9 @@ unique-page-id: 27656786
 description: 릴리스 노트 - 19년 8월 19일 - 마케팅 문서 - 제품 설명서
 title: 릴리스 노트 - 1909년 8월
 translation-type: tm+mt
-source-git-commit: 5c9683c6b00ccbf9e9d606fd4513432c9872ad00
+source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
 workflow-type: tm+mt
-source-wordcount: '342'
+source-wordcount: '341'
 ht-degree: 0%
 
 ---
@@ -41,9 +41,8 @@ ht-degree: 0%
 * **온보딩:** 단계별 연습에서는 인스턴스 설정을 통해 신규 사용자를 안내하여 온보딩을 보다 쉽고 효율적으로 수행할 수 있습니다.
 * **인물 페이지 레이아웃 개선: 새 사람 페이지 레이아웃의 목록 가져오기 및 벌크 작업을 통해 사람 및 그룹을** 관리합니다.
 
->[!NOTE]
+>[!AVAILABILITY]
 >
->**가용성**
 >
 >별( ![(star)](assets/star-yellow.svg))로 표시된 기능은 유료 추가 기능입니다. 자세한 내용은 마케팅 담당자에게 문의하십시오.
 
