@@ -3,7 +3,7 @@ unique-page-id: 2359861
 description: 참여 프로그램 - 마케팅 문서 - 제품 설명서를 참조하십시오.
 title: 참여 프로그램 구성원을 참조하십시오.
 translation-type: tm+mt
-source-git-commit: 00887ea53e395bea3a11fd28e0ac98b085ef6ed8
+source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
 workflow-type: tm+mt
 source-wordcount: '61'
 ht-degree: 0%
@@ -21,9 +21,8 @@ ht-degree: 0%
 
    >[!NOTE]
    >
-   >모든 캐스트 후에 [Used Content](../../../../product-docs/email-marketing/drip-nurturing/creating-an-engagement-program/understanding-engagement-programs.md) 열 값이 업데이트됩니다.
+   >모든 캐스트 후에 [Used Content](/help/marketo/product-docs/email-marketing/drip-nurturing/creating-an-engagement-program/understanding-engagement-programs.md) 열 값이 업데이트됩니다.
 
 1. 이제 프로그램의 모든 구성원을 볼 수 있습니다.
 
    ![](assets/image2014-9-15-17-3a17-3a26.png)
-
