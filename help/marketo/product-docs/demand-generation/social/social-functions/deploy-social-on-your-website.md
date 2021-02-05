@@ -3,9 +3,9 @@ unique-page-id: 2950524
 description: 웹 사이트에 Social 배포 - 마케팅 문서 - 제품 설명서
 title: 웹 사이트에 Social 배포
 translation-type: tm+mt
-source-git-commit: 1a29614ec938074902af201b2ffc11cfaa625f7a
+source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
 workflow-type: tm+mt
-source-wordcount: '230'
+source-wordcount: '224'
 ht-degree: 0%
 
 ---
@@ -15,9 +15,7 @@ ht-degree: 0%
 
 비마케팅 페이지에 소셜 앱을 포함합니다.
 
->[!NOTE]
->
->**가용성**
+>[!AVAILABILITY]
 >
 >자세한 내용은 영업 담당자에게 문의하십시오.
 
@@ -27,7 +25,7 @@ ht-degree: 0%
 
    ![](assets/image2015-5-12-11-3a43-3a24.png)
 
-1. 소셜 앱 작업에서 **포함** **코드****를 선택합니다.
+1. 소셜 앱 작업에서 **포함 코드**&#x200B;를 선택합니다.
 
    ![](assets/image2015-5-12-12-3a59-3a46.png)
 
@@ -43,19 +41,15 @@ ht-degree: 0%
 
    ![](assets/socialonsite-embedwidget.png)
 
-1. 소셜 앱의 크기를 페이지의 특정 차원으로 설정해야 하는 경우 두 번째 코드 조각에 **outerHeight** 및 **outerWidth** 옵션을 추가합니다. 예를 들어 다음과 같이 options=&#39;{&quot;outerHeight&quot;:400, &quot;outerWidth&quot;:600}&#39;를 추가할 수 있습니다.
+1. 소셜 앱의 크기를 페이지의 특정 차원으로 설정해야 하는 경우 두 번째 코드 조각에 **outerHeight** 및 **outerWidth** 옵션을 추가합니다. 예를 들어 다음과 같이 `options='{"outerHeight":400, "outerWidth":600}'`을 추가할 수 있습니다.
 
    ![](assets/socialonsite-resizewidget2.png)
 
    이제 Marketing To 소셜 앱이 웹 사이트에 컨텐츠 및 인터랙티브한 요소를 추가하고 팬, 방문자 및 기존 고객을 초대하여 귀하에 대한 단어를 퍼블리싱합니다. 또한 프로필 데이터를 데이터베이스에 추가하고 소셜 영향 지표를 추적합니다.
 
-   >[!NOTE]
+   >[!MORELIKETHIS]
    >
-   >**관련 문서**
-   >
-   >    
-   >    
-   >* [소셜 앱 사용자 지정 단추](../../../../product-docs/demand-generation/social/configuring-social-actions/customize-social-app-button.md)
-   >* [소셜 공유 요구 사항 설정](set-social-share-requirement.md)
-   >* [Facebook에 랜딩 페이지 게시](../../../../product-docs/demand-generation/facebook/publish-landing-pages-to-facebook.md)
+   >* [소셜 앱 사용자 지정 단추](/help/marketo/product-docs/demand-generation/social/configuring-social-actions/customize-social-app-button.md)
+   >* [소셜 공유 요구 사항 설정](/help/marketo/product-docs/demand-generation/social/social-functions/set-social-share-requirement.md)
+   >* [Facebook에 랜딩 페이지 게시](/help/marketo/product-docs/demand-generation/facebook/publish-landing-pages-to-facebook.md)
 
