@@ -3,9 +3,9 @@ unique-page-id: 2949711
 description: 등록 코드 - Marketing Docs - 제품 설명서와 함께 Outlook용 Marketing To Email Add-in을 설치합니다.
 title: 등록 코드와 함께 Outlook용 Marketing To 전자 메일 추가 기능 설치
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
 workflow-type: tm+mt
-source-wordcount: '390'
+source-wordcount: '388'
 ht-degree: 0%
 
 ---
@@ -103,9 +103,7 @@ ht-degree: 0%
 
 마케팅 메시지 사용 및 마케팅을 사용하여 로그에 기록하는 방법에 대해 자세히 알아보십시오.
 
->[!NOTE]
->
->**관련 문서**
+>[!MORELIKETHIS]
 >
 >* [Outlook용 Marketing To 이메일 추가 기능을 사용하여 이메일 보내기 및 추적](send-and-track-an-email-with-the-email-add-in-for-outlook.md)
 >* [마케팅 템플릿을 사용하여 Outlook에서 보내기 및 추적](send-and-track-from-outlook-using-a-marketo-template.md)
