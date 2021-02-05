@@ -3,7 +3,7 @@ unique-page-id: 10096409
 description: 중복 컨텐츠 - Marketing To Docs - 제품 문서 전송 방지
 title: 중복 컨텐츠 전송 방지
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
 workflow-type: tm+mt
 source-wordcount: '214'
 ht-degree: 0%
@@ -30,4 +30,3 @@ ht-degree: 0%
 | **다른** CEE 프로그램 내의 캐스팅에서 트리거되는 기본 프로그램 내 캠페인 | 기본 프로그램의 구성원 | 아니요 |
 | **다른** CEE 프로그램 내의 캐스팅에서 트리거되는 기본 프로그램 내 캠페인 | 기본 프로그램의 멤버가 아님 | 예 |
 | 스마트 스트림을 사용하는 **다른** CEE 프로그램 | 두 CEE 프로그램 구성원 | 아니요 |
-
