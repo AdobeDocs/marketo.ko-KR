@@ -3,9 +3,9 @@ unique-page-id: 2360181
 description: 익명의 활동 및 사람 추적 - 마케팅 문서 - 제품 설명서
 title: 익명 활동 및 사람 추적
 translation-type: tm+mt
-source-git-commit: 1a29614ec938074902af201b2ffc11cfaa625f7a
+source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
 workflow-type: tm+mt
-source-wordcount: '249'
+source-wordcount: '247'
 ht-degree: 0%
 
 ---
@@ -37,9 +37,8 @@ ht-degree: 0%
    >
    >익명 레코드가 새 개인 레코드나 기존 개인 레코드로 병합되면 사용자 지정 필드 값이 **로 전송되지 않습니다.**
 
-   >[!NOTE]
+   >[!MORELIKETHIS]
    >
-   >**관련 문서**
    >
    >    
    >    
