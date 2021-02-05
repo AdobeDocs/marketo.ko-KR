@@ -3,9 +3,9 @@ unique-page-id: 2359466
 description: 다이내믹 컨텐츠를 사용하여 코드 조각 편집 - Marketing To Docs - 제품 설명서
 title: 동적 콘텐트를 사용하여 코드 조각 편집
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
 workflow-type: tm+mt
-source-wordcount: '120'
+source-wordcount: '118'
 ht-degree: 0%
 
 ---
@@ -56,9 +56,7 @@ ht-degree: 0%
 
 그렇게 간단하지 않았나요? 이제 이메일 및 랜딩 페이지에서 이러한 코드 조각을 모두 사용하도록 설정되었습니다.
 
->[!NOTE]
->
->**관련 문서**
+>[!MORELIKETHIS]
 >
 >* [이메일에 코드 조각 추가](../../../../product-docs/email-marketing/general/functions-in-the-editor/add-a-snippet-to-an-email.md)
 >* [랜딩 페이지에 코드 단편 추가](../../../../product-docs/demand-generation/landing-pages/personalizing-landing-pages/add-a-snippet-to-a-landing-page.md)
