@@ -3,9 +3,9 @@ unique-page-id: 12979006
 description: 성과 통찰력 개요 - 마케팅 문서 - 제품 설명서
 title: 성과 통찰력 개요
 translation-type: tm+mt
-source-git-commit: 07ae1b3f3ee3e9d7f35373eea039d336bd786f97
+source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
 workflow-type: tm+mt
-source-wordcount: '250'
+source-wordcount: '249'
 ht-degree: 0%
 
 ---
@@ -15,9 +15,8 @@ ht-degree: 0%
 
 Marketing To Performance Insights를 활용하면 채널 조합을 최적화하여 효과를 극대화할 수 있고 장기적인 트렌드를 파악하여 일관된 우승 전략을 발견할 수 있습니다.
 
->[!NOTE]
+>[!AVAILABILITY]
 >
->**가용성**
 >
 >모든 고객에게 성능 인사이트 기능이 있는 것은 아닙니다. 자세한 내용은 고객 성공 관리자에게 문의하십시오.
 
