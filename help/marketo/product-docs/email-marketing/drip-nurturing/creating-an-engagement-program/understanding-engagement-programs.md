@@ -3,9 +3,9 @@ unique-page-id: 2359647
 description: 참여 프로그램 이해 - 마케팅 문서 - 제품 설명서
 title: 참여 프로그램 이해
 translation-type: tm+mt
-source-git-commit: d7d6aee63144c472e02fe0221c4a164183d04dd4
+source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
 workflow-type: tm+mt
-source-wordcount: '290'
+source-wordcount: '281'
 ht-degree: 0%
 
 ---
@@ -21,13 +21,13 @@ ht-degree: 0%
 
 ## 참여 프로그램 {#engagement-program}
 
-**참여 pr****ogram**&#x200B;은 복잡한 양성을 손쉽게 수행할 수 있는 프로그램 유형입니다.
+**참여 프로그램**&#x200B;은 복잡한 양성을 손쉽게 수행할 수 있는 프로그램 유형입니다.
 
 ![](assets/image2014-9-15-15-3a24-3a57.png)
 
-관련 문서:
-
-* [참여 프로그램 만들기](create-an-engagement-program.md)
+>[!MORELIKETHIS]
+>
+>[참여 프로그램 만들기](/help/marketo/product-docs/email-marketing/drip-nurturing/creating-an-engagement-program/create-an-engagement-program.md)
 
 ## 스트림 {#stream}
 
@@ -35,10 +35,11 @@ ht-degree: 0%
 
 ![](assets/image2014-9-15-15-3a25-3a4.png)
 
-관련 문서:
+>[!MORELIKETHIS]
+>
+>* [스트림 추가](/help/marketo/product-docs/email-marketing/drip-nurturing/creating-an-engagement-program/add-a-stream.md)
+>* [스트림 복제](/help/marketo/product-docs/email-marketing/drip-nurturing/engagement-program-streams/clone-a-stream.md)
 
-* [스트림 추가](add-a-stream.md)
-* [스트림 복제](../../../../product-docs/email-marketing/drip-nurturing/engagement-program-streams/clone-a-stream.md)
 
 ## 콘텐트 {#content}
 
@@ -46,13 +47,14 @@ ht-degree: 0%
 
 ![](assets/image2014-9-15-15-3a25-3a18.png)
 
-관련 문서:
+>[!MORELIKETHIS]
+>
+>* [스트림에 컨텐츠 추가](/help/marketo/product-docs/email-marketing/drip-nurturing/creating-an-engagement-program/add-content-to-a-stream.md)
+>* [스트림 컨텐츠 우선 순위 지정](/help/marketo/product-docs/email-marketing/drip-nurturing/using-stream-content/prioritize-stream-content.md)
+>* [스트림 컨텐츠의 가용성 편집](/help/marketo/product-docs/email-marketing/drip-nurturing/using-stream-content/edit-availability-of-stream-content.md)
+>* [스트림 콘텐츠 제거](/help/marketo/product-docs/email-marketing/drip-nurturing/using-stream-content/remove-stream-content.md)
+>* [스트림 컨텐츠 보관 및 보관 취소](/help/marketo/product-docs/email-marketing/drip-nurturing/using-stream-content/archive-and-unarchive-stream-content.md)
 
-* [스트림에 컨텐츠 추가](add-content-to-a-stream.md)
-* [스트림 컨텐츠 우선 순위 지정](../../../../product-docs/email-marketing/drip-nurturing/using-stream-content/prioritize-stream-content.md)
-* [스트림 컨텐츠의 가용성 편집](../../../../product-docs/email-marketing/drip-nurturing/using-stream-content/edit-availability-of-stream-content.md)
-* [스트림 콘텐츠 제거](../../../../product-docs/email-marketing/drip-nurturing/using-stream-content/remove-stream-content.md)
-* [스트림 컨텐츠 보관 및 보관 취소](../../../../product-docs/email-marketing/drip-nurturing/using-stream-content/archive-and-unarchive-stream-content.md)
 
 ## {#cast} 캐스트
 
@@ -66,21 +68,17 @@ ht-degree: 0%
 
 **stream cadence**&#x200B;를 설정하여 캐스팅이 발생하는 시기를 결정합니다. 정기적으로 컨텐츠를 발송하는 방법입니다.
 
-&#39; ![](assets/image2014-9-15-15-3a25-3a27.png)
+![](assets/image2014-9-15-15-3a25-3a27.png)
 
-&#39;
-
-관련 문서:
-
-* [스트림 대상 설정](../../../../product-docs/email-marketing/drip-nurturing/engagement-program-streams/set-stream-cadence.md)
+>[!MORELIKETHIS]
+>
+>[스트림 대상 설정](/help/marketo/product-docs/email-marketing/drip-nurturing/engagement-program-streams/set-stream-cadence.md)
 
 ## 개인 참석자 {#person-cadence}
 
 **사람 대상**&#x200B;은 관여 프로그램에서 콘텐트를 받는 기능을 정의하는 상태입니다. **참여 프로그램 대상 변경** 흐름 단계를 사용하여 일시 중지됨 또는 정상으로 변경할 수 있습니다.
 
-&#39; ![](assets/image2014-9-15-15-3a25-3a55.png)
-
-&#39;
+![](assets/image2014-9-15-15-3a25-3a55.png)
 
 ## 모두 소진됨 {#exhausted}
 
@@ -90,11 +88,7 @@ ht-degree: 0%
 
 >[!MORELIKETHIS]
 >
->* [콘텐트가 고갈된 사람](../../../../product-docs/email-marketing/drip-nurturing/using-engagement-programs/people-who-have-exhausted-content.md)
-
->
-
-
+>[콘텐트가 고갈된 사람](/help/marketo/product-docs/email-marketing/drip-nurturing/using-engagement-programs/people-who-have-exhausted-content.md)
 
 ## 컨텐츠 참여 수준 {#content-engagement-level}
 
@@ -102,9 +96,4 @@ ht-degree: 0%
 
 >[!MORELIKETHIS]
 >
->* [관여 점수 이해](../../../../product-docs/email-marketing/drip-nurturing/reports-and-notifications/understanding-the-engagement-score.md)
-
->
-
-
-
+>[관여 점수 이해](/help/marketo/product-docs/email-marketing/drip-nurturing/reports-and-notifications/understanding-the-engagement-score.md)
