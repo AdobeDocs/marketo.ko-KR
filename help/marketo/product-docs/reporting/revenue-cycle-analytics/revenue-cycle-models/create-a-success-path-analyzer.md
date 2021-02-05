@@ -3,9 +3,9 @@ unique-page-id: 2360411
 description: 성공 경로 분석기 만들기 - 마케팅 문서 - 제품 설명서
 title: 성공 경로 분석기 만들기
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
 workflow-type: tm+mt
-source-wordcount: '191'
+source-wordcount: '189'
 ht-degree: 0%
 
 ---
@@ -57,9 +57,7 @@ ht-degree: 0%
 >
 >보고서를 저장하시겠습니까? **분석기 작업** 드롭다운을 클릭하고 **다른 이름으로 저장**&#x200B;을 선택합니다.
 
->[!NOTE]
->
->**관련 문서**
+>[!MORELIKETHIS]
 >
 >* [성공 경로 분석기 사용](using-the-success-path-analyzer.md)
 
