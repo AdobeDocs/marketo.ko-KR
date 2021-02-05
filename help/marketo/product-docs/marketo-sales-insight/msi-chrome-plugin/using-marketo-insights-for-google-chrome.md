@@ -3,9 +3,9 @@ unique-page-id: 7512944
 description: Google Chrome용 Marketing To Insights 사용 - Marketing To Docs - 제품 설명서
 title: Google Chrome용 Marketing To Insights 사용
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
 workflow-type: tm+mt
-source-wordcount: '235'
+source-wordcount: '233'
 ht-degree: 0%
 
 ---
@@ -73,9 +73,8 @@ Google Chrome용 Marketing To Insights를 사용하여 Google 이메일을 보�
 
    ![](assets/image2015-4-23-17-3a1-3a26.png)
 
-   >[!NOTE]
+   >[!MORELIKETHIS]
    >
-   >**관련 문서**
    >
    >    
    >    
