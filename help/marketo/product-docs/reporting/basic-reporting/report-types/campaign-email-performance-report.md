@@ -3,9 +3,9 @@ unique-page-id: 2360188
 description: 캠페인 이메일 성과 보고서 - 마케팅 문서 - 제품 설명서
 title: 캠페인 이메일 성과 보고서
 translation-type: tm+mt
-source-git-commit: 00887ea53e395bea3a11fd28e0ac98b085ef6ed8
+source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
 workflow-type: tm+mt
-source-wordcount: '240'
+source-wordcount: '238'
 ht-degree: 0%
 
 ---
@@ -39,9 +39,8 @@ ht-degree: 0%
    >
    >일반적으로, 우리는 이러한 통계를 기록하기 위해 상식을 이용하려고 노력한다. 예를 들어 이메일에 있는 링크를 클릭한 사람이 먼저 링크를 연 것이 분명합니다. 다음에 나오는 특정 규칙에 대해서는 [이메일 성과 보고서](../../../../product-docs/email-marketing/email-programs/email-program-data/email-performance-report.md)를 참조하십시오.
 
-   >[!NOTE]
+   >[!MORELIKETHIS]
    >
-   >**관련 문서**
    >
    >    
    >    
