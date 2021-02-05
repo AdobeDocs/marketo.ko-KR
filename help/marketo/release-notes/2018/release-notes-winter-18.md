@@ -3,9 +3,9 @@ unique-page-id: 13795395
 description: 릴리스 노트 -18년 겨울 - 마케팅 문서 - 제품 설명서
 title: 릴리스 노트 -18년 겨울
 translation-type: tm+mt
-source-git-commit: 96cc6a30c63c8e8dca793a52e4bf7ecaef8c08dc
+source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
 workflow-type: tm+mt
-source-wordcount: '600'
+source-wordcount: '599'
 ht-degree: 0%
 
 ---
@@ -33,9 +33,8 @@ Salesforce CRM 통합에 대한 2가지 개선 사항이 있습니다.
 
 ## [마케팅 성과 통찰력](../../product-docs/reporting/performance-insights/performance-insights-overview.md) {#marketo-performance-insights}
 
->[!NOTE]
+>[!AVAILABILITY]
 >
->**가용성**
 >
 >성능 인사이트는 추가 제품입니다. 견적을 받으려면 마케팅 고객 성공 관리자 또는 계정 담당자에게 문의하십시오.
 
