@@ -3,7 +3,7 @@ unique-page-id: 2359813
 description: 공유 후 프롬프트 구성 - 마케팅 문서 - 제품 설명서
 title: 공유 후 프롬프트 구성
 translation-type: tm+mt
-source-git-commit: 00887ea53e395bea3a11fd28e0ac98b085ef6ed8
+source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
 workflow-type: tm+mt
 source-wordcount: '176'
 ht-degree: 0%
@@ -23,7 +23,7 @@ ht-degree: 0%
 
    ![](assets/image2015-4-21-12-3a1-3a11.png)
 
-1. 소셜 앱 편집기에서 **앱 설정****으로 이동한 다음 **고급 옵션**&#x200B;으로 이동합니다.
+1. 소셜 앱 편집기에서 **앱 설정**&#x200B;으로 이동한 다음 **고급 옵션**&#x200B;으로 이동합니다.
 
    ![](assets/image2015-4-21-12-3a10-3a54.png)
 
@@ -57,4 +57,3 @@ ht-degree: 0%
 1. 이메일 주소 요청과 마케팅 메시지를 편집합니다(이메일 주소를 포함시킨 경우).
 
    ![](assets/image2015-4-21-12-3a52-3a49.png)
-
