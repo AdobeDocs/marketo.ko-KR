@@ -3,9 +3,9 @@ unique-page-id: 2359845
 description: 참조 오퍼 게시 - 마케팅 문서 - 제품 설명서
 title: 참조 오퍼 게시
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
 workflow-type: tm+mt
-source-wordcount: '138'
+source-wordcount: '137'
 ht-degree: 0%
 
 ---
@@ -13,7 +13,7 @@ ht-degree: 0%
 
 # 참조 오퍼 게시 {#publish-a-referral-offer}
 
-[참조 오퍼](create-a-referral-offer.md)를 만든 후 마케팅 랜딩 페이지, Facebook 및 웹 사이트에 게시할 수 있습니다.
+[참조 오퍼](/help/marketo/product-docs/demand-generation/social/referral-offers/create-a-referral-offer.md)를 만든 후 마케팅 랜딩 페이지, Facebook 및 웹 사이트에 게시할 수 있습니다.
 
 1. 랜딩 페이지로 이동하여 편집을 위해 엽니다.
 
@@ -29,13 +29,10 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->**미리 알림**
->
 >여기에서 오퍼를 사용할 수 있도록 하려면 참조 오퍼를 승인해야 합니다.
 
-축하합니다! 랜딩 페이지를 승인하고 참조 오퍼가 라이브입니다. 랜딩 페이지를 Facebook[ 또는 ](../../../../product-docs/demand-generation/facebook/publish-landing-pages-to-facebook.md)웹 사이트[에 게시할 수도 있습니다.](../../../../product-docs/demand-generation/social/social-functions/deploy-social-on-your-website.md)
+축하합니다! 랜딩 페이지를 승인하고 참조 오퍼가 라이브입니다. 랜딩 페이지를 Facebook](/help/marketo/product-docs/demand-generation/facebook/publish-landing-pages-to-facebook.md) 또는 [웹 사이트](/help/marketo/product-docs/demand-generation/social/social-functions/deploy-social-on-your-website.md)에 게시할 수도 있습니다.[
 
 >[!TIP]
 >
 >참조 오퍼를 테스트하고 세분화합니다. 웹 페이지의 오퍼로 이동하여 테스트 정보를 사용하여 등록합니다. 사용자 경험에 대해 변경할 모든 것을 메모해 둡니다.
-
