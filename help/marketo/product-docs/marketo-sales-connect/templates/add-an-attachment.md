@@ -3,9 +3,9 @@ unique-page-id: 14352634
 description: 첨부 파일 추가 - 마케팅 문서 - 제품 설명서
 title: 첨부 파일 추가
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
 workflow-type: tm+mt
-source-wordcount: '148'
+source-wordcount: '147'
 ht-degree: 0%
 
 ---
@@ -13,9 +13,8 @@ ht-degree: 0%
 
 # 첨부 파일 {#add-an-attachment} 추가
 
->[!NOTE]
+>[!AVAILABILITY]
 >
->**가용성**
 >
 >Marketing to Sales Connect를 사용하는 경우 첨부 파일을 추가할 수 있습니다. Marketing의 표준 이메일 편집기에서 사용할 수 없습니다.
 
