@@ -3,9 +3,9 @@ unique-page-id: 2359462
 description: 이메일 프로그램 승인/승인 취소 - 마케팅 문서 - 제품 설명서
 title: 이메일 프로그램 승인/승인 취소
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 8d45a28e1c2adad3e04645f7150f1757414092f0
 workflow-type: tm+mt
-source-wordcount: '189'
+source-wordcount: '188'
 ht-degree: 0%
 
 ---
@@ -15,18 +15,15 @@ ht-degree: 0%
 
 >[!PREREQUISITES]
 >
->* [이메일 프로그램 만들기](../../../../product-docs/email-marketing/email-programs/creating-an-email-program/create-an-email-program.md)
->* [목록을 가져와서 대상 ](../../../../product-docs/email-marketing/email-programs/managing-people-in-email-programs/define-an-audience-with-a-smart-list.md) 정의 [를 사용하여 Smart List로 대상 정의](../../../../product-docs/email-marketing/email-programs/managing-people-in-email-programs/define-an-audience-by-importing-a-list.md)
+>* [이메일 프로그램 만들기](/help/marketo/product-docs/email-marketing/email-programs/creating-an-email-program/create-an-email-program.md)
+>* [Smart List를 사용하여 대상 ](/help/marketo/product-docs/email-marketing/email-programs/managing-people-in-email-programs/define-an-audience-with-a-smart-list.md) 정의 또는 목록 [을 가져와 대상 정의](/help/marketo/product-docs/email-marketing/email-programs/managing-people-in-email-programs/define-an-audience-by-importing-a-list.md)
 
    >
    >
-* [기존 이메일 ](choose-an-existing-email.md) 선택 또는  [이메일 프로그램용 이메일 만들기](create-an-email-for-an-email-program.md)
+* [기존 이메일 ](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/choose-an-existing-email.md) 선택 또는  [이메일 프로그램용 이메일 만들기](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/create-an-email-for-an-email-program.md)
    >
    >
-* [이메일 프로그램 예약](schedule-your-email-program.md)
-
->
-
+* [이메일 프로그램 예약](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/schedule-your-email-program.md)
 
 
 ## 이메일 프로그램 {#approve-your-email-program} 승인
