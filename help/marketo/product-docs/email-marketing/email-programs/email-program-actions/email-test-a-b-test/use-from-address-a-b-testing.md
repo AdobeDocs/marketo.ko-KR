@@ -3,9 +3,9 @@ unique-page-id: 2359504
 description: '"보낸 사람 주소" A/B 테스트 - 마케팅 문서 - 제품 설명서 사용'
 title: '"보낸 사람 주소" A/B 테스트 사용'
 translation-type: tm+mt
-source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
+source-git-commit: 8d45a28e1c2adad3e04645f7150f1757414092f0
 workflow-type: tm+mt
-source-wordcount: '271'
+source-wordcount: '262'
 ht-degree: 0%
 
 ---
@@ -17,11 +17,7 @@ ht-degree: 0%
 
 >[!PREREQUISITES]
 >
->* [A/B 테스트 추가](add-an-a-b-test.md)
-
->
-
-
+>[A/B 테스트 추가](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/email-test-a-b-test/add-an-a-b-test.md)
 
 1. **이메일** 타일에서 전자 메일이 선택된 상태에서 **A/B 테스트 추가**&#x200B;를 클릭합니다.
 
@@ -45,7 +41,7 @@ ht-degree: 0%
 
    >[!TIP]
    >
-   >**더하기 기호**&#x200B;를 클릭하여 원하는 만큼 보낸 사람 주소를 추가할 수 있습니다.
+   >**+**&#x200B;을 클릭하여 원하는 만큼 보낸 사람 주소를 추가할 수 있습니다.
 
 1. 슬라이더를 사용하여 A/B 테스트에서 원하는 대상의 백분율을 선택하고 **다음**&#x200B;을 클릭합니다.
 
@@ -57,15 +53,6 @@ ht-degree: 0%
 
    >[!CAUTION]
    >
-   >**샘플 크기를 100%로 설정하지 않는 것이 좋습니다**. 정적 목록을 사용하는 경우 샘플 크기를 100%로 설정하면 모든 참가자에게 이메일이 전송되고 우승자는 아무도 수신하지 않습니다. **스마트** 목록을 사용하는 경우 샘플 크기를 100%로 설정하면 해당 시간에 모든 사용자에게 이메일이 전송됩니다. *이메일 프로그램이 나중에 다시 실행되면 스마트 목록에 자격이 되는 모든 새로운 사람도 대상에 포함되기 때문에 이메일을 받게 됩니다.
+   >**샘플 크기를 100%로 설정하지 않는 것이 좋습니다**. 정적 목록을 사용하는 경우 샘플 크기를 100%로 설정하면 모든 참가자에게 이메일이 전송되고 우승자는 아무도 수신하지 않습니다. **스마트** 목록을 사용하는 경우 샘플 크기를 100%로 설정하면 해당 시간에 _대상의 모든 사용자에게 전자 메일이 전송됩니다._ 이메일 프로그램이 나중에 다시 실행되면 스마트 목록에 자격을 갖춘 새로운 사람도 대상에 포함되기 때문에 이메일을 받게 됩니다.
 
-   좋아, 거의 다 왔어 이제 [A/B 테스트 우승자 기준](define-the-a-b-test-winner-criteria.md)을 정의해야 합니다.
-
-   >[!MORELIKETHIS]
-   >
-   >
-   >    
-   >    
-   >    * [A/B 테스트 우승자 기준 정의](define-the-a-b-test-winner-criteria.md)
-
-
+   좋아, 거의 다 왔어 이제 [A/B 테스트 우승자 기준](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/email-test-a-b-test/define-the-a-b-test-winner-criteria.md)을 정의해야 합니다.
