@@ -3,9 +3,9 @@ unique-page-id: 12982903
 description: 받는 사람 시간대를 사용하여 이메일 프로그램 예약 - 마케팅 문서 - 제품 설명서
 title: 받는 사람 시간대로 이메일 프로그램 예약
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 8d45a28e1c2adad3e04645f7150f1757414092f0
 workflow-type: tm+mt
-source-wordcount: '825'
+source-wordcount: '815'
 ht-degree: 0%
 
 ---
@@ -37,15 +37,12 @@ ht-degree: 0%
 >* **받는 사람의 표준 시간대로 다음 날을 제공합니다**.이메일이 화요일 오전 9시에 발송될 예정이면, 예약된 시간이 이미 경과한 시간대에 사는 자격이 있는 사람들이 수요일 오전 9시에  ** 이메일을 받게 될 것이다.
    >
    >
-* **프로그램의 기본 설정 시간을 사용하여 제공**:이메일이 화요일 오전 9시에 발송될 예정인 경우, 예약된 시간이 이미 경과한 시간대에 사는 자격이 있는 사람은 사용자의 구독 시간대 설정을  *기준으로 이메일을 받게 됩니다*. 따라서 [s](../../../../../product-docs/administration/settings/select-your-language-locale-and-time-zone.md)[구독 시간대 설정](../../../../../product-docs/administration/settings/set-default-location-settings-for-a-subscription.md)이(가) PDT 미국/LA로 설정되어 있는 경우 이러한 수신자는 화요일 오전 9시(고유 시간대가 될 수 있는 시간)에도 여전히 이메일을 수신하게 됩니다.
-
->
-
+* **프로그램의 기본 설정 시간을 사용하여 제공**:이메일이 화요일 오전 9시에 발송될 예정인 경우, 예약된 시간이 이미 경과한 시간대에 사는 자격이 있는 사람은 사용자의 구독 시간대 설정을  _기준으로 이메일을 받게 됩니다_. 따라서 [구독 시간대 설정](/help/marketo/product-docs/administration/settings/select-your-language-locale-and-time-zone.md)이 PDT 미국/LA로 설정된 경우 이러한 수신자는 화요일 오전 9시(고유 시간대로 설정될 수 있는 시간)에 여전히 이메일을 수신하게 됩니다.
 
 
 >[!NOTE]
 >
->[Marketing에서 받는 사람의 시간대를 계산하는 방법에 ](https://docs.marketo.com/display/DOCS/Understanding+Recipient+Time+Zone#UnderstandingRecipientTimeZone-CalculatingTimeZone) 대해 자세히 알아봅니다.
+>[Marketing에서 받는 사람의 시간대를 계산하는 방법에 ](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/scheduling-with-recipient-time-zone/understanding-recipient-time-zone.md#calculating-time-zone) 대해 자세히 알아봅니다.
 
 이 시나리오를 더 자세히 살펴보죠. 샌프란시스코를 방문 중인 경우 오전 7시에 **9:00am** 전송을 위해 이메일을 예약합니다. 스마트 목록에는 다음 지역의 사용자가 있습니다.
 
@@ -68,15 +65,15 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->15분 후에 프로그램에서 이메일을 보내는 *프로세스*&#x200B;를 시작하지만, 이메일은 *배달된*&#x200B;이 아닙니다. 받는 사람은 선택한 **시간대 설정**&#x200B;을 기반으로 여전히 이메일을 수신하게 됩니다.
+>15분 후에 프로그램에서 이메일을 보내는 _프로세스_&#x200B;를 시작하지만, 이메일은 _배달된_&#x200B;이 아닙니다. 받는 사람은 선택한 **시간대 설정**&#x200B;을 기반으로 여전히 이메일을 수신하게 됩니다.
 
 ## 시나리오 2:25시간 초과 {#scenario-more-than-hours}
 
 이 두 번째 시나리오에서는 **수신자 표준 시간대**&#x200B;가 활성화된 이메일 프로그램과 25시간 이상의 예약된 배달 시간을 승인할 수 있습니다. 이 경우 프로그램은 **가장 이른** 시간대(UTC + 14:00)에서 예약된 시간에 실행됩니다. 전 세계 모든 시간대에서 스마트 목록에 해당하는 사람이 있을 수 있으므로 가장 이른 시간대를 시작으로 각 시간대에 있는 모든 수신자에게 예약된 날짜/시간에 이메일을 전달할 수 있습니다.
 
-헤드 시작
+**헤드 시작**
 
-이제 [헤드 시작](../../../../../product-docs/email-marketing/email-programs/email-program-actions/head-start-for-email-programs.md)이 **수신자 시간대**&#x200B;에서 어떻게 작동하는지 살펴보겠습니다. 기존의 헤드 시작 기능을 사용하려면 프로그램을 최소 12시간 전에 예약해야 합니다. 그러면 그것이 수신자 시간대를 의미하는 것은 무엇일까요? 수신자 시간대가 활성화되면, 가장 이른 시간대의 예약된 시간에 이메일 프로그램을 실행합니다(UTC +14:00). 따라서 **헤드 시작 및 수신자 시간대를 모두 활성화하려면 이메일 프로그램을 UTC +14:00의 예약 시간보다 최소 12시간 전에**&#x200B;예약해야 합니다.****
+이제 [헤드 시작](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/head-start-for-email-programs.md)이 **수신자 시간대**&#x200B;에서 어떻게 작동하는지 살펴보겠습니다. 기존의 헤드 시작 기능을 사용하려면 프로그램을 최소 12시간 전에 예약해야 합니다. 그러면 그것이 수신자 시간대를 의미하는 것은 무엇일까요? 수신자 시간대가 활성화되면, 가장 이른 시간대의 예약된 시간에 이메일 프로그램을 실행합니다(UTC +14:00). 따라서 **헤드 시작 및 수신자 시간대를 모두 활성화하려면 이메일 프로그램을 UTC +14:00의 예약 시간보다 최소 12시간 전에**&#x200B;예약해야 합니다.****
 
 즉, 미국/로스앤젤레스에 있으면서 헤드 시작 및 수신자 표준 시간대를 모두 활성화하려면 프로그램 **34시간**&#x200B;을 미리 예약해야 합니다. 어떻게 이 번호로 가셨어요?
 
@@ -86,8 +83,8 @@ ht-degree: 0%
 
 간단히 말해, 수신자 시간대와 함께 예약된 이메일 프로그램은 모든 시간대를 수용하기 위해 가장 이른 시간대의 예약된 시간(즉, 자정이 가장 먼저 도착한 시간)에 실행되어야 합니다. 이메일 프로그램을 예약하면...
 
-* **25시간  *내* 의** 배달 시간으로 인해 프로그램은 15분 이내에 실행됩니다. 예약된 시간에 이미 합격한 수신자는 선택한 표준 시간대 설정을 기준으로 전자 메일을 받습니다.
-* **배달 시간이  ** *25시간 이상* 으로** 지연되면, 프로그램은 가장 이른 시간대의 예약 시간에(UTC +14:00) 시작됩니다.
+* **25시간  _내_ 의** 배달 시간으로 인해 프로그램은 15분 이내에 실행됩니다. 예약된 시간에 이미 합격한 수신자는 선택한 표준 시간대 설정을 기준으로 전자 메일을 받습니다.
+* **배달 시간이  _25_ 시간** 이상있으면 프로그램은 가장 이른 시간대의 예약 시간에 실행됩니다(UTC +14:00).
 * **헤드 시작을 사용하여** 프로그램은 가장 이른 시간대의 예약 시간 12시간 전에 처리를 시작합니다(UTC +14:00).
 
 >[!CAUTION]
@@ -96,11 +93,7 @@ ht-degree: 0%
 
 >[!MORELIKETHIS]
 >
->* [수신자 시간대 이해](understanding-recipient-time-zone.md)
->* [이메일 프로그램의 즉각적인 시작](../../../../../product-docs/email-marketing/email-programs/email-program-actions/head-start-for-email-programs.md)
->* [받는 사람 시간대로 예약된 이메일 프로그램 배달 중단](abort-delivery-of-email-programs-scheduled-with-recipient-time-zone.md)
-
->
-
-
+>* [수신자 시간대 이해](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/scheduling-with-recipient-time-zone/understanding-recipient-time-zone.md)
+>* [이메일 프로그램의 즉각적인 시작](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/head-start-for-email-programs.md)
+>* [받는 사람 시간대로 예약된 이메일 프로그램 배달 중단](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/scheduling-with-recipient-time-zone/abort-delivery-of-email-programs-scheduled-with-recipient-time-zone.md)
 
