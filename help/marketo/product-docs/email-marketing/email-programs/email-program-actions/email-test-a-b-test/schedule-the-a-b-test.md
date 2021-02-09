@@ -3,9 +3,9 @@ unique-page-id: 2359547
 description: A/B 테스트 예약 - 마케팅 문서 - 제품 설명서
 title: A/B 테스트 예약
 translation-type: tm+mt
-source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
+source-git-commit: 8d45a28e1c2adad3e04645f7150f1757414092f0
 workflow-type: tm+mt
-source-wordcount: '210'
+source-wordcount: '209'
 ht-degree: 0%
 
 ---
@@ -17,17 +17,13 @@ ht-degree: 0%
 
 >[!PREREQUISITES]
 >
->* [A/B 테스트 추가](add-an-a-b-test.md)
-
->
-
-
+>[A/B 테스트 추가](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/email-test-a-b-test/add-an-a-b-test.md)
 
 >[!NOTE]
 >
 >날짜/시간 테스트의 경우 테스트 결과 요약을 받을 때만 설정해야 합니다.
 
-1. 테스트 전송 날짜를 선택합니다.
+1. **테스트 보내기** 날짜를 선택합니다.
 
 ![](assets/image2014-9-12-15-3a59-3a54.png)
 
@@ -43,9 +39,6 @@ ht-degree: 0%
 
    >[!NOTE]
    >
-   >**미리 알림**
-   >
-   >
    >테스트 그룹만 테스트 변형을 받습니다.
 
    ![](assets/image2014-9-12-16-3a0-3a12.png)
@@ -55,6 +48,7 @@ ht-degree: 0%
    >우승자를 수동으로 선언하도록 선택한 경우 **메일링 완료** 날짜/시간 대신 **보고서 전송** 날짜/시간을 정의합니다.
 
    수퍼! 완료되면 요약을 검토하고 닫기를 클릭합니다.
+
    ![](assets/image2014-9-12-16-3a1-3a23.png)
 
    이제 **예약** 타일이 업데이트되었음을 알 수 있습니다.
@@ -69,9 +63,4 @@ ht-degree: 0%
 
    >[!MORELIKETHIS]
    >
-   >
-   >    
-   >    
-   >    * [이메일 프로그램 승인/승인 취소](../../../../../product-docs/email-marketing/email-programs/email-program-actions/approve-unapprove-an-email-program.md)
-
-
+   >[이메일 프로그램 승인/승인 취소](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/approve-unapprove-an-email-program.md)
