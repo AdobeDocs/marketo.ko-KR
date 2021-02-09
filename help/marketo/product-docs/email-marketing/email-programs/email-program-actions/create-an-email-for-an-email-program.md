@@ -3,9 +3,9 @@ unique-page-id: 1900593
 description: 이메일 프로그램을 위한 이메일 만들기 - 마케팅 문서 - 제품 설명서
 title: 이메일 프로그램용 이메일 만들기
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 8d45a28e1c2adad3e04645f7150f1757414092f0
 workflow-type: tm+mt
-source-wordcount: '168'
+source-wordcount: '159'
 ht-degree: 0%
 
 ---
@@ -18,11 +18,8 @@ ht-degree: 0%
 >* [이메일 프로그램 만들기](/help/marketo/product-docs/email-marketing/email-programs/creating-an-email-program/create-an-email-program.md)
 >* [Smart List를 사용하여 대상 ](/help/marketo/product-docs/email-marketing/email-programs/managing-people-in-email-programs/define-an-audience-with-a-smart-list.md) 정의 또는 목록 [을 가져와 대상 정의](/help/marketo/product-docs/email-marketing/email-programs/managing-people-in-email-programs/define-an-audience-by-importing-a-list.md)
 
->
 
-
-
-이메일 프로그램을 만들고 고객을 정의하면 어떤 이메일을 전송할지 결정해야 합니다. [기존 이메일](choose-an-existing-email.md)을 선택하거나 이메일을 처음부터 만들 수 있습니다. 새 이메일을 만드는 방법은 다음과 같습니다.
+이메일 프로그램을 만들고 고객을 정의하면 어떤 이메일을 전송할지 결정해야 합니다. [기존 이메일](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/choose-an-existing-email.md)을 선택하거나 이메일을 처음부터 만들 수 있습니다. 새 이메일을 만드는 방법은 다음과 같습니다.
 
 1. **마케팅 활동**&#x200B;으로 이동합니다.
 
@@ -48,10 +45,4 @@ ht-degree: 0%
 
    ![](assets/five.png)
 
-좋아요! 보내려는 전자 메일을 만들었으므로 이제 [A/B 테스트](email-test-a-b-test/add-an-a-b-test.md)를 추가하거나 [이메일 프로그램](schedule-your-email-program.md)을(를) 예약하는 즉시 건너뛰어 보겠습니다.
-
->[!MORELIKETHIS]
->
->* [A/B 테스트 추가](email-test-a-b-test/add-an-a-b-test.md)
->* [이메일 프로그램 예약](schedule-your-email-program.md)
-
+좋아요! 보내려는 전자 메일을 만들었으므로 이제 [A/B 테스트](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/email-test-a-b-test/add-an-a-b-test.md)를 추가하거나 [이메일 프로그램](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/schedule-your-email-program.md)을(를) 예약하는 즉시 건너뛰어 보겠습니다.
