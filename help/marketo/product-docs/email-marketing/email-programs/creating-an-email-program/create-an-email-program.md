@@ -3,9 +3,9 @@ unique-page-id: 1900591
 description: 이메일 프로그램 만들기 - 마케팅 문서 - 제품 설명서
 title: 이메일 프로그램 만들기
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 8d45a28e1c2adad3e04645f7150f1757414092f0
 workflow-type: tm+mt
-source-wordcount: '132'
+source-wordcount: '129'
 ht-degree: 0%
 
 ---
@@ -35,16 +35,8 @@ ht-degree: 0%
 
 좋아! 프로그램이 이제 트리에 있으므로 사용할 준비가 되었습니다. 다음 단계는 고객을 정의하는 것입니다. 아래의 마케팅 관련 문서를 참조하십시오.
 
-## 비디오 보기 {#watch-a-video}
-
-`<iframe width="630" height="470" src="//play.vidyard.com/3ySE7FAnFR9btywiWgt4sW.html?v=3.1.1" frameborder="0" allowfullscreen></iframe>`
-
 >[!MORELIKETHIS]
 >
->* [스마트 목록으로 대상 정의](../../../../product-docs/email-marketing/email-programs/managing-people-in-email-programs/define-an-audience-with-a-smart-list.md)
->* [목록을 가져와서 대상 정의](../../../../product-docs/email-marketing/email-programs/managing-people-in-email-programs/define-an-audience-by-importing-a-list.md)
-
->
-
-
+>* [스마트 목록으로 대상 정의](/help/marketo/product-docs/email-marketing/email-programs/managing-people-in-email-programs/define-an-audience-with-a-smart-list.md)
+>* [목록을 가져와서 대상 정의](/help/marketo/product-docs/email-marketing/email-programs/managing-people-in-email-programs/define-an-audience-by-importing-a-list.md)
 
