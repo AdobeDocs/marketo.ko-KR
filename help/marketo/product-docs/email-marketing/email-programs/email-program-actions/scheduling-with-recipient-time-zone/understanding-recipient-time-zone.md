@@ -3,7 +3,7 @@ unique-page-id: 12983291
 description: 수신자 시간대 이해 - 마케팅 문서 - 제품 설명서
 title: 수신자 시간대 이해
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 8d45a28e1c2adad3e04645f7150f1757414092f0
 workflow-type: tm+mt
 source-wordcount: '390'
 ht-degree: 0%
@@ -21,7 +21,7 @@ ht-degree: 0%
 
 ## 이메일 프로그램 {#email-programs}
 
-[이메일 프로그램 ](schedule-email-programs-with-recipient-time-zone.md)을 예약할 때 다음 두 가지 기본 시나리오가 있습니다.
+[이메일 프로그램 ](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/scheduling-with-recipient-time-zone/schedule-email-programs-with-recipient-time-zone.md)을 예약할 때 다음 두 가지 기본 시나리오가 있습니다.
 
 1. 다음 25시간 이내에 프로그램을 실행하도록 예약합니다.
 1. 향후 25시간 이상(예: 다음 주) 프로그램을 실행하도록 예약합니다.
@@ -30,13 +30,13 @@ ht-degree: 0%
 
 ## 참여 프로그램 {#engagement-programs}
 
-[참여 프로그램 스트림](../../../../../product-docs/email-marketing/drip-nurturing/engagement-program-streams/set-stream-cadence/schedule-engagement-programs-with-recipient-time-zone.md) 및 수신자 시간대가 활성 상태인 경우 프로그램 캐스팅은 UTC +14:00의 자정에 시작됩니다. 전 세계 모든 시간대에 편성할 수 있는 자격이 주어지기 때문에 앞으로 적어도 25시간(24시간 + 캠페인을 시작하는 데 필요한 시간)의 첫 방송을 예약할 필요가 있습니다. 현재 UTC +14:00에서 처리를 시작하면 이 배역을 자격이 있는 모든 사람에게 예약된 날짜와 시간에 이메일을 전달할 수 있습니다.
+[참여 프로그램 스트림](/help/marketo/product-docs/email-marketing/drip-nurturing/engagement-program-streams/set-stream-cadence/schedule-engagement-programs-with-recipient-time-zone.md) 및 수신자 시간대가 활성 상태인 경우 프로그램 캐스팅은 UTC +14:00의 자정에 시작됩니다. 전 세계 모든 시간대에 편성할 수 있는 자격이 주어지기 때문에 앞으로 적어도 25시간(24시간 + 캠페인을 시작하는 데 필요한 시간)의 첫 방송을 예약할 필요가 있습니다. 현재 UTC +14:00에서 처리를 시작하면 이 배역을 자격이 있는 모든 사람에게 예약된 날짜와 시간에 이메일을 전달할 수 있습니다.
 
 ## 시간대 계산 중 {#calculating-time-zone}
 
 Marketing은 사용자의 구/군/시, 주, 국가 또는 우편번호를 기준으로 시간대를 계산합니다. 이러한 값에서 사용자의 시간대를 계산할 수 없는 경우 유추된 도시, 유추된 상태, 유추된 국가 및 유추된 우편번호 필드로 돌아갑니다.
 
-**only**Country 또는 **State만 사용할 수 있는 경우:**
+**국가 또는**&#x200B;만&#x200B;**상태를 사용할 수 있는 경우:**
 
 * 시간대가 3개 이하인 국가의 경우 중간 시간대를 선택합니다.
 * 2개의 시간대가 있는 주의 경우 2개의 시간대 중 가장 이른 시간대를 선택합니다.
@@ -49,14 +49,10 @@ Marketing은 사용자의 구/군/시, 주, 국가 또는 우편번호를 기준
 
 >[!MORELIKETHIS]
 >
->* [받는 사람 시간대로 이메일 프로그램 예약](schedule-email-programs-with-recipient-time-zone.md)
->* [이메일 프로그램의 즉각적인 시작](../../../../../product-docs/email-marketing/email-programs/email-program-actions/head-start-for-email-programs.md)
+>* [받는 사람 시간대로 이메일 프로그램 예약](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/scheduling-with-recipient-time-zone/schedule-email-programs-with-recipient-time-zone.md)
+>* [이메일 프로그램의 즉각적인 시작](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/head-start-for-email-programs.md)
 
    >
    >
-* [받는 사람 시간대를 사용하여 참여 프로그램 예약](../../../../../product-docs/email-marketing/drip-nurturing/engagement-program-streams/set-stream-cadence/schedule-engagement-programs-with-recipient-time-zone.md)
-
->
-
-
+* [받는 사람 시간대를 사용하여 참여 프로그램 예약](/help/marketo/product-docs/email-marketing/drip-nurturing/engagement-program-streams/set-stream-cadence/schedule-engagement-programs-with-recipient-time-zone.md)
 
