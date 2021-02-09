@@ -3,9 +3,9 @@ unique-page-id: 2359483
 description: 이메일 테스트 옵션 이해 - 마케팅 문서 - 제품 설명서
 title: 이메일 테스트 옵션 이해
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: 8d45a28e1c2adad3e04645f7150f1757414092f0
 workflow-type: tm+mt
-source-wordcount: '114'
+source-wordcount: '97'
 ht-degree: 0%
 
 ---
@@ -17,10 +17,10 @@ ht-degree: 0%
 
 ## A/B 테스트 {#a-b-testing}
 
-이것은 [이메일 프로그램](http://docs.marketo.com/display/docs/email+programs)을 사용하는 일회성 이메일에 대한 것입니다. [A/B 테스트](add-an-a-b-test.md)를 추가하면 작은 그룹이 테스트를 받게 되고 나머지 그룹이 우승자가 됩니다.
+이메일 프로그램을 사용한 일회용 이메일입니다. [A/B 테스트](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/email-test-a-b-test/add-an-a-b-test.md)를 추가하면 작은 그룹이 테스트를 받게 되고 나머지 그룹이 우승자가 됩니다.
 
 ## 이메일 챔피언/도전자 {#email-champion-challenger}
 
-스마트 캠페인 또는 [참여 프로그램](http://docs.marketo.com/display/docs/drip+nurturing)에 사용되는 진행 중인 이메일의 경우 [이메일 챔피언/도전자](http://docs.marketo.com/pages/viewpage.action?pageid=2359551) 테스트를 추가할 수 있습니다. 이렇게 하면 받는 사람의 비율이 변경됩니다.
+스마트 캠페인 또는 참여 프로그램 트리거에서 사용되는 지속적인 이메일의 경우 [이메일 챔피언/도전자](/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/email-tests-champion-challenger/add-an-email-champion-challenger.md) 테스트를 추가할 수 있습니다. 이렇게 하면 받는 사람의 비율이 변경됩니다.
 
 테스트 완료!
