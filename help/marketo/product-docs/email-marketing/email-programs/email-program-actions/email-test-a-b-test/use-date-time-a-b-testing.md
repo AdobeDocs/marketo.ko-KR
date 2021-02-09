@@ -3,9 +3,9 @@ unique-page-id: 2359520
 description: '"날짜/시간" A/B 테스트 - 마케팅 문서 - 제품 설명서 사용'
 title: '"날짜/시간" A/B 테스트 사용'
 translation-type: tm+mt
-source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
+source-git-commit: 8d45a28e1c2adad3e04645f7150f1757414092f0
 workflow-type: tm+mt
-source-wordcount: '267'
+source-wordcount: '260'
 ht-degree: 0%
 
 ---
@@ -13,14 +13,11 @@ ht-degree: 0%
 
 # &quot;날짜/시간&quot; A/B 테스트 사용 {#use-date-time-a-b-testing}
 
-이메일을 A/B로 손쉽게 테스트할 수 있습니다. 하나의 테스트는 **Date/Time **test입니다. 이메일을 보내는 데 가장 적합한 요일 또는 요일을 테스트합니다. 설정 방법
+이메일을 A/B로 손쉽게 테스트할 수 있습니다. 한 번의 테스트는 **날짜/시간** 테스트입니다. 이메일을 보내는 데 가장 적합한 요일 또는 요일을 테스트합니다. 설정 방법
 
 >[!PREREQUISITES]
 >
->* [A/B 테스트 추가](add-an-a-b-test.md)
-
->
-
+>[A/B 테스트 추가](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/email-test-a-b-test/add-an-a-b-test.md)
 
 
 1. **이메일** 타일에서 **A/B 테스트 추가**&#x200B;를 클릭합니다.
@@ -57,16 +54,6 @@ ht-degree: 0%
 
    >[!CAUTION]
    >
-   >**샘플 크기를 100%로 설정하지 않는 것이 좋습니다**. 정적 목록을 사용하는 경우 샘플 크기를 100%로 설정하면 모든 참가자에게 이메일이 전송되고 우승자는 아무도 수신하지 않습니다. **스마트** 목록을 사용하는 경우 샘플 크기를 100%로 설정하면 해당 시간에 모든 사용자에게 이메일이 전송됩니다. *이메일 프로그램이 나중에 다시 실행되면 스마트 목록에 자격이 되는 모든 새로운 사람도 대상에 포함되기 때문에 이메일을 받게 됩니다.
+   >**샘플 크기를 100%로 설정하지 않는 것이 좋습니다**. 정적 목록을 사용하는 경우 샘플 크기를 100%로 설정하면 모든 참가자에게 이메일이 전송되고 우승자는 아무도 수신하지 않습니다. **스마트** 목록을 사용하는 경우 샘플 크기를 100%로 설정하면 해당 시간에 _대상의 모든 사용자에게 전자 메일이 전송됩니다._ 이메일 프로그램이 나중에 다시 실행되면 스마트 목록에 자격을 갖춘 새로운 사람도 대상에 포함되기 때문에 이메일을 받게 됩니다.
 
-   [A/B 테스트 우승자 기준 정의](define-the-a-b-test-winner-criteria.md)
-
-   >[!MORELIKETHIS]
-   >
-   >
-   >    
-   >    
-   >    * [A/B 테스트 우승자 기준 정의](define-the-a-b-test-winner-criteria.md)
-
-
-좋아, 한 걸음 더 다가왔어 이제 우리는
+   좋아, 한 걸음 더 다가왔어 이제 [A/B 테스트 우승자 기준](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/email-test-a-b-test/define-the-a-b-test-winner-criteria.md)을 정의해야 합니다.
