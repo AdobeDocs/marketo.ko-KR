@@ -3,9 +3,9 @@ unique-page-id: 2359502
 description: '"전체 이메일" A/B 테스트 - 마케팅 문서 - 제품 설명서 사용'
 title: '"전체 이메일" A/B 테스트 사용'
 translation-type: tm+mt
-source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
+source-git-commit: 8d45a28e1c2adad3e04645f7150f1757414092f0
 workflow-type: tm+mt
-source-wordcount: '276'
+source-wordcount: '269'
 ht-degree: 0%
 
 ---
@@ -17,17 +17,11 @@ ht-degree: 0%
 
 >[!PREREQUISITES]
 >
->* [A/B 테스트 추가](add-an-a-b-test.md)
+>[A/B 테스트 추가](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/email-test-a-b-test/add-an-a-b-test.md)
 
->
+1. 이메일 타일에서 전자 메일이 선택된 상태로 **Add A/B 테스트**&#x200B;를 클릭합니다.
 
-
-
-1. 이메일 타일에서 이메일이 선택된 상태로 A/B 테스트 추가를 클릭합니다.
-
-&#39; ![](assets/image2014-9-12-15-3a22-3a12.png)
-
-&#39;
+![](assets/image2014-9-12-15-3a22-3a12.png)
 
 1. 새 창이 열립니다. **테스트 유형** 드롭다운을 클릭하고 **전체 이메일**&#x200B;을 선택합니다.
 
@@ -43,9 +37,7 @@ ht-degree: 0%
 
 1. **추가**&#x200B;를 클릭하여 이메일을 적용합니다.
 
-   &#39; ![](assets/image2014-9-12-15-3a23-3a20.png)
-
-   &#39;
+   ![](assets/image2014-9-12-15-3a23-3a20.png)
 
    >[!TIP]
    >
@@ -53,15 +45,11 @@ ht-degree: 0%
 
 1. 두 번째 이메일을 선택합니다.
 
-   &#39; ![](assets/image2014-9-12-15-3a23-3a49.png)
-
-   &#39;
+   [](assets/image2014-9-12-15-3a23-3a49.png)
 
 1. **추가**&#x200B;를 클릭하여 두 번째 이메일을 적용합니다. 슬라이더를 드래그하여 A/B 테스트를 받을 대상의 백분율을 선택하고 **다음**&#x200B;을 클릭합니다.
 
-   &#39; ![](assets/image2014-9-12-15-3a24-3a1.png)
-
-   &#39;
+   [](assets/image2014-9-12-15-3a24-3a1.png)
 
    >[!NOTE]
    >
@@ -69,15 +57,6 @@ ht-degree: 0%
 
    >[!CAUTION]
    >
-   >**샘플 크기를 100%로 설정하지 않는 것이 좋습니다**. 정적 목록을 사용하는 경우 샘플 크기를 100%로 설정하면 모든 참가자에게 이메일이 전송되고 우승자는 아무도 수신하지 않습니다. **스마트** 목록을 사용하는 경우 샘플 크기를 100%로 설정하면 해당 시간에 모든 사용자에게 이메일이 전송됩니다. *이메일 프로그램이 나중에 다시 실행되면 스마트 목록에 자격이 되는 모든 새로운 사람도 대상에 포함되기 때문에 이메일을 받게 됩니다.
+   >**샘플 크기를 100%로 설정하지 않는 것이 좋습니다**. 정적 목록을 사용하는 경우 샘플 크기를 100%로 설정하면 모든 참가자에게 이메일이 전송되고 우승자는 아무도 수신하지 않습니다. **스마트** 목록을 사용하는 경우 샘플 크기를 100%로 설정하면 해당 시간에 _대상의 모든 사용자에게 전자 메일이 전송됩니다._ 이메일 프로그램이 나중에 다시 실행되면 스마트 목록에 자격을 갖춘 새로운 사람도 대상에 포함되기 때문에 이메일을 받게 됩니다.
 
-   이제 거의 다 왔어 이제 [A/B 테스트 우승자 기준](define-the-a-b-test-winner-criteria.md)을 정의해야 합니다.
-
-   >[!MORELIKETHIS]
-   >
-   >
-   >    
-   >    
-   >    * [A/B 테스트 우승자 기준 정의](define-the-a-b-test-winner-criteria.md)
-
-
+   이제 거의 다 왔어 이제 [A/B 테스트 우승자 기준](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/email-test-a-b-test/define-the-a-b-test-winner-criteria.md)을 정의해야 합니다.
