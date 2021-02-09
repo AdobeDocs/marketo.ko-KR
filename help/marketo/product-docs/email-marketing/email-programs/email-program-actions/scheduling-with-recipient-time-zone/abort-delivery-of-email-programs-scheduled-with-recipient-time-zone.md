@@ -3,7 +3,7 @@ unique-page-id: 13795727
 description: 받는 사람 시간대로 예약된 이메일 프로그램 전달 중단 - Marketing To Docs - 제품 설명서
 title: 받는 사람 시간대로 예약된 이메일 프로그램 배달 중단
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 8d45a28e1c2adad3e04645f7150f1757414092f0
 workflow-type: tm+mt
 source-wordcount: '219'
 ht-degree: 0%
@@ -39,10 +39,6 @@ ht-degree: 0%
 
 >[!MORELIKETHIS]
 >
->* [수신자 시간대 이해](understanding-recipient-time-zone.md)
->* [받는 사람 시간대로 이메일 프로그램 예약](schedule-email-programs-with-recipient-time-zone.md)
-
->
-
-
+>* [수신자 시간대 이해](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/scheduling-with-recipient-time-zone/understanding-recipient-time-zone.md)
+>* [받는 사람 시간대로 이메일 프로그램 예약](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/scheduling-with-recipient-time-zone/schedule-email-programs-with-recipient-time-zone.md)
 
