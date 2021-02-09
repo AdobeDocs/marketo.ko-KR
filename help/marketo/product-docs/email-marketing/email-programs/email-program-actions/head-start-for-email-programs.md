@@ -3,7 +3,7 @@ unique-page-id: 10097202
 description: 이메일 프로그램 시작 - 마케팅 문서 - 제품 설명서
 title: 이메일 프로그램의 즉각적인 시작
 translation-type: tm+mt
-source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
+source-git-commit: 8d45a28e1c2adad3e04645f7150f1757414092f0
 workflow-type: tm+mt
 source-wordcount: '408'
 ht-degree: 0%
@@ -15,11 +15,7 @@ ht-degree: 0%
 
 >[!PREREQUISITES]
 >
->* [이메일 프로그램 만들기](../../../../product-docs/email-marketing/email-programs/creating-an-email-program/create-an-email-program.md)
-
->
-
-
+>[이메일 프로그램 만들기](/help/marketo/product-docs/email-marketing/email-programs/creating-an-email-program/create-an-email-program.md)
 
 이메일 프로그램의 날짜/시간을 선택하면 프로그램이 처리를 시작할 시기를 결정합니다. 선택한 시간에 이메일이 실행되도록 하려면 [헤드 시작]을 선택하면 프로그램을 미리 처리하여 해당 옵션이 제공됩니다.
 
@@ -74,15 +70,11 @@ ht-degree: 0%
 
 ![](assets/image2017-12-5-13-3a11-3a46.png)
 
-[수신자 ](scheduling-with-recipient-time-zone/schedule-email-programs-with-recipient-time-zone.md) 시간대로 이메일 프로그램을 예약하는 방법에 대해 자세히 알아보십시오.
+[수신자 ](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/scheduling-with-recipient-time-zone/schedule-email-programs-with-recipient-time-zone.md) 시간대로 이메일 프로그램을 예약하는 방법에 대해 자세히 알아보십시오.
 
 >[!MORELIKETHIS]
 >
->* [이메일 프로그램 예약](schedule-your-email-program.md)
->* [받는 사람 시간대로 이메일 프로그램 예약](scheduling-with-recipient-time-zone/schedule-email-programs-with-recipient-time-zone.md)
->* [수신자 시간대 이해](scheduling-with-recipient-time-zone/understanding-recipient-time-zone.md)
-
->
-
-
+>* [이메일 프로그램 예약](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/schedule-your-email-program.md)
+>* [받는 사람 시간대로 이메일 프로그램 예약](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/scheduling-with-recipient-time-zone/schedule-email-programs-with-recipient-time-zone.md)
+>* [수신자 시간대 이해](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/scheduling-with-recipient-time-zone/understanding-recipient-time-zone.md)
 
