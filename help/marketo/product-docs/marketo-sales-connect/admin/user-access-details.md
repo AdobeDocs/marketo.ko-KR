@@ -3,9 +3,9 @@ unique-page-id: 14352623
 description: 사용자 액세스 세부 사항 - 마케팅 문서 - 제품 설명서
 title: 사용자 액세스 세부 사항
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: 0f0217a88929661798015b51a26259a973f9f6ea
 workflow-type: tm+mt
-source-wordcount: '244'
+source-wordcount: '231'
 ht-degree: 0%
 
 ---
@@ -17,15 +17,15 @@ ht-degree: 0%
 
 ## 관리자 사용자 권한 {#admin-user-permissions}
 
-관리자는 [모든 템플릿](http://docs.marketo.com/x/OYAXAQ)을 볼 수 있습니다.
+관리자는 [모든 템플릿](/help/marketo/product-docs/marketo-sales-connect/templates/view-template-list-as-a-another-user.md)을 볼 수 있습니다.
 
 ![](assets/templates.jpg)
 
-관리자는 [모든 캠페인](http://docs.marketo.com/x/N4AXAQ)을 볼 수 있습니다.
+관리자는 [모든 캠페인](/help/marketo/product-docs/marketo-sales-connect/campaigns/view-campaigns-list-as-another-user.md)을 볼 수 있습니다.
 
 ![](assets/campaigns.jpg)
 
-관리자는 [모든 이메일 활동](http://docs.marketo.com/x/SYAXAQ)을 볼 수 있습니다.
+관리자는 모든 이메일 활동을 볼 수 있습니다.
 
 ![](assets/email-activity.png)
 
@@ -70,4 +70,3 @@ ht-degree: 0%
    * 사용자는 관리자가 허용하는 범주별로 템플릿을 공유할 수 있습니다.
    * 사용자가 팀에서 제거되면 해당 팀의 템플릿이 해당 팀과 공유되지 않습니다
    * 사용자가 팀에서 삭제되면 템플릿은 사용자를 삭제한 관리자에게 기본 소유권을 전송합니다
-
