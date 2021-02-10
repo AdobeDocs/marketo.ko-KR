@@ -3,9 +3,9 @@ unique-page-id: 11371065
 description: 이메일에 모듈 추가 - 마케팅 문서 - 제품 설명서
 title: 이메일에 모듈 추가
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 0f0217a88929661798015b51a26259a973f9f6ea
 workflow-type: tm+mt
-source-wordcount: '260'
+source-wordcount: '252'
 ht-degree: 0%
 
 ---
@@ -21,7 +21,7 @@ ht-degree: 0%
 
    >[!NOTE]
    >
-   >대부분의 Marketing To 시작 템플릿에는 모듈이 포함되어 있습니다. [직접 ](http://docs.marketo.com/display/DOCS/Email+Template+Syntax#EmailTemplateSyntax-Modules)를 만들 수도 있습니다.
+   >대부분의 Marketing To 시작 템플릿에는 모듈이 포함되어 있습니다. [직접 ](/help/marketo/product-docs/email-marketing/general/email-editor-2/email-template-syntax.md#modules)를 만들 수도 있습니다.
 
 1. 이메일의 맨 오른쪽에서 **모듈**&#x200B;을 클릭합니다.
 
@@ -67,5 +67,4 @@ ht-degree: 0%
 
 >[!MORELIKETHIS]
 >
->[이메일 템플릿 구문](email-template-syntax.md)
-
+>[이메일 템플릿 구문](/help/marketo/product-docs/email-marketing/general/email-editor-2/email-template-syntax.md)
