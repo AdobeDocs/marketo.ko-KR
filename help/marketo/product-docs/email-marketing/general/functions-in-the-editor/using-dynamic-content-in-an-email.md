@@ -3,7 +3,7 @@ unique-page-id: 2950617
 description: 이메일에서 동적 컨텐츠 사용 - 마케팅 문서 - 제품 설명서
 title: 이메일에서 동적 컨텐츠 사용
 translation-type: tm+mt
-source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
+source-git-commit: 0f0217a88929661798015b51a26259a973f9f6ea
 workflow-type: tm+mt
 source-wordcount: '235'
 ht-degree: 0%
@@ -15,11 +15,7 @@ ht-degree: 0%
 
 >[!PREREQUISITES]
 >
->* [세그멘테이션 만들기](../../../../product-docs/personalization/segmentation-and-snippets/segmentation/create-a-segmentation.md)
-
->
-
-
+>[세그멘테이션 만들기](/help/marketo/product-docs/personalization/segmentation-and-snippets/segmentation/create-a-segmentation.md)
 
 이메일에 있는 동적 컨텐츠를 사용하여 리드를 타깃팅된 정보를 전송합니다.
 
@@ -39,9 +35,9 @@ ht-degree: 0%
 
    >[!NOTE]
    >
-   >이메일 내에 요소를 동적으로 만들 수도 있습니다. 이렇게 하려면 영역을 선택하고 톱니바퀴 아이콘을 클릭한 다음 **동적 만들기**(또는 [코드 조각으로 바꾸기](../../../../product-docs/personalization/segmentation-and-snippets/snippets/create-a-snippet.md))를 선택합니다.
+   >이메일 내에 요소를 동적으로 만들 수도 있습니다. 이렇게 하려면 영역을 선택하고 톱니바퀴 아이콘을 클릭한 다음 **동적 만들기**(또는 [코드 조각으로 바꾸기](/help/marketo/product-docs/personalization/segmentation-and-snippets/snippets/create-a-snippet.md))를 선택합니다.
 
-   세그멘테이션 이름을 입력하고 선택한 다음 저장을 클릭합니다.
+1. 세그멘테이션 이름을 입력하고 선택한 다음 **저장**&#x200B;을 클릭합니다.
 
    ![](assets/1.4.png)
 
@@ -75,10 +71,6 @@ ht-degree: 0%
 
 >[!MORELIKETHIS]
 >
->* [동적 컨텐츠가 포함된 이메일 미리 보기](preview-an-email-with-dynamic-content.md)
->* [랜딩 페이지에서 동적 컨텐츠 사용](../../../../product-docs/demand-generation/landing-pages/free-form-landing-pages/use-dynamic-content-in-a-free-form-landing-page.md)
-
->
-
-
+>* [동적 컨텐츠가 포함된 이메일 미리 보기](/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/preview-an-email-with-dynamic-content.md)
+>* [랜딩 페이지에서 동적 컨텐츠 사용](/help/marketo/product-docs/demand-generation/landing-pages/free-form-landing-pages/use-dynamic-content-in-a-free-form-landing-page.md)
 
