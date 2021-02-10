@@ -3,7 +3,7 @@ unique-page-id: 14352402
 description: 팀원 초대 - 마케팅 문서 - 제품 설명서
 title: 팀 구성원 초대
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: 0f0217a88929661798015b51a26259a973f9f6ea
 workflow-type: tm+mt
 source-wordcount: '65'
 ht-degree: 0%
@@ -38,4 +38,3 @@ ht-degree: 0%
 1. **확인**&#x200B;을 클릭합니다.
 
    ![](assets/five.png)
-
