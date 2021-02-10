@@ -3,7 +3,7 @@ unique-page-id: 14746143
 description: 공유 설정 - 마케팅 문서 - 제품 설명서
 title: 공유 설정
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: 0f0217a88929661798015b51a26259a973f9f6ea
 workflow-type: tm+mt
 source-wordcount: '232'
 ht-degree: 0%
@@ -23,7 +23,7 @@ Sales Connect 계정이 처음 만들어지면 공유 설정이 활성화됩니�
 
 ## 공유 설정 구성 {#configure-your-sharing-settings}
 
-1. [웹 응용 프로그램](http://toutapp.com/login)에서 설정 페이지로 이동합니다.
+1. [웹 응용 프로그램](https://toutapp.com/login)에서 설정 페이지로 이동합니다.
 
    ![](assets/one-2.png)
 
@@ -58,4 +58,3 @@ Sales Connect 계정이 처음 만들어지면 공유 설정이 활성화됩니�
 1. 이제 팀이 추가되었으므로 팀 관리자만 해당 팀의 모든 사용자를 공유할 수 있도록 선택할 수 있습니다. 이 예에서는 SDR 팀 공유 액세스 권한을 모든 사용자에게 부여했습니다.
 
    ![](assets/eight-1.png)
-
