@@ -3,9 +3,9 @@ unique-page-id: 1900595
 description: 스마트 목록으로 대상 정의 - 마케팅 문서 - 제품 설명서
 title: 스마트 목록으로 대상 정의
 translation-type: tm+mt
-source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
+source-git-commit: 0f0217a88929661798015b51a26259a973f9f6ea
 workflow-type: tm+mt
-source-wordcount: '293'
+source-wordcount: '265'
 ht-degree: 0%
 
 ---
@@ -13,19 +13,13 @@ ht-degree: 0%
 
 # 스마트 목록 {#define-an-audience-with-a-smart-list}으로 대상 정의
 
-[이메일 프로그램](../../../../product-docs/email-marketing/email-programs/creating-an-email-program/create-an-email-program.md)을 만든 후 이메일을 보낼 사람을 알려주십시오. 사람 목록](define-an-audience-by-importing-a-list.md)을 가져오거나 스마트 목록을 사용하여 이 작업을 수행할 수 있습니다. [ 스마트한 목록으로 이러한 작업을 수행하는 방법을 확인하십시오.
+[이메일 프로그램](/help/marketo/product-docs/email-marketing/email-programs/creating-an-email-program/create-an-email-program.md)을 만든 후 이메일을 보낼 사람을 알려주십시오. 사람 목록](/help/marketo/product-docs/email-marketing/email-programs/managing-people-in-email-programs/define-an-audience-by-importing-a-list.md)을 가져오거나 스마트 목록을 사용하여 이 작업을 수행할 수 있습니다. [ 스마트한 목록으로 이러한 작업을 수행하는 방법을 확인하십시오.
 
 >[!PREREQUISITES]
 >
->* [이메일 프로그램 만들기](../../../../product-docs/email-marketing/email-programs/creating-an-email-program/create-an-email-program.md)
-
->
-
-
+>[이메일 프로그램 만들기](/help/marketo/product-docs/email-marketing/email-programs/creating-an-email-program/create-an-email-program.md)
 
 >[!NOTE]
->
->**미리 알림**
 >
 >대상자 정의는 이메일 프로그램이 승인되지 않은 경우에만 작동합니다.
 
@@ -49,18 +43,11 @@ ht-degree: 0%
 
    ![](assets/image2014-9-12-11-3a1-3a14.png)
 
-   >[!NOTE]
-   >
-   >**자세히 알아보기**
-   >
-   >
-   >필터 사용 및 정의에 대한 자세한 내용은 [스마트 목록 및 정적 목록](http://docs.marketo.com/display/docs/smart+lists+and+static+lists)을 참조하십시오.
-
 1. 필터 추가 및 정의가 완료되면 기본 프로그램 탭으로 돌아갑니다. 자격 조건을 갖춘 사용자가 몇 명인지 확인할 수 있습니다.
 
    ![](assets/myemailprogram.jpg)
 
-   탁월한 작업! 이제 [기존 이메일](../../../../product-docs/email-marketing/email-programs/email-program-actions/choose-an-existing-email.md)을 선택하거나 [이메일](../../../../product-docs/email-marketing/email-programs/email-program-actions/create-an-email-for-an-email-program.md)을 만들어 이 사람들에게 보낼 차례입니다.
+   탁월한 작업! 이제 [기존 이메일](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/choose-an-existing-email.md) 또는 [이(가) 이메일](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/create-an-email-for-an-email-program.md)을(를) 만들어 이 사람들에게 보낼 차례입니다.
 
 >[!NOTE]
 >
@@ -82,10 +69,6 @@ ht-degree: 0%
 
 >[!MORELIKETHIS]
 >
->* [기존 이메일 선택](../../../../product-docs/email-marketing/email-programs/email-program-actions/choose-an-existing-email.md)
->* [이메일 프로그램용 이메일 만들기](../../../../product-docs/email-marketing/email-programs/email-program-actions/create-an-email-for-an-email-program.md)
-
->
-
-
+>* [기존 이메일 선택](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/choose-an-existing-email.md)
+>* [이메일 프로그램용 이메일 만들기](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/create-an-email-for-an-email-program.md)
 
