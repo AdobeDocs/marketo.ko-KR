@@ -3,9 +3,9 @@ unique-page-id: 1900581
 description: 이메일의 친구 링크 - 마케팅 문서 - 제품 문서로 전달
 title: 이메일의 친구 링크로 전달
 translation-type: tm+mt
-source-git-commit: d7d6aee63144c472e02fe0221c4a164183d04dd4
+source-git-commit: 0f0217a88929661798015b51a26259a973f9f6ea
 workflow-type: tm+mt
-source-wordcount: '704'
+source-wordcount: '703'
 ht-degree: 0%
 
 ---
@@ -50,11 +50,10 @@ ht-degree: 0%
 
    >[!NOTE]
    >
-   >**미리 알림**
-   >
    >변경 사항을 적용하려면 템플릿 초안을 승인해야 합니다.
 
    이제 해당 템플릿을 사용하는 모든 이메일에는 &#39;친구에게 전달&#39; 링크가 포함됩니다. 이메일 수신자가 이메일 링크를 클릭하면 &#39;친구에게 전달&#39; 상자가 있는 이메일의 웹 버전으로 이동합니다.
+
    ![](assets/f2afbox.png)
 
 ## 개별 이메일 {#add-the-link-to-an-individual-email}에 링크 추가
@@ -85,7 +84,7 @@ ht-degree: 0%
 
    ![](assets/eight-1.png)
 
-1. **`{{system.forwardToFriendLink}}`** 토큰을 Ctrl/Cmd+V를 사용하여 **URL** 상자에 붙여 넣은 다음 삽입**을 클릭합니다.
+1. **`{{system.forwardToFriendLink}}`** 토큰을 Ctrl/Cmd+V를 사용하여 **URL** 상자에 붙여 넣은 다음 **삽입**&#x200B;을 클릭합니다.
 
    ![](assets/nine.png)
 
@@ -117,15 +116,13 @@ ht-degree: 0%
    >
    >**정의**
    >
-   >
    >친구에게 보낸 이메일의 경우 사람 ID는 이메일을 전달한 사람입니다.
-   >
    >
    >[친구에게 보낸 이메일]에서 사람 ID는 이메일을 받은 사람입니다.
 
    ![](assets/sixteen.png)
 
-1. ID로 사람을 보려면, URL의 끝 부분에** 개인 ID**를 복사하여 붙여 넣습니다(해당 URL의 시작은 마케팅 인스턴스에 따라 달라짐).
+1. ID로 사람을 보려면 **개인 ID**&#x200B;를 복사하여 URL의 끝에 붙여 넣습니다(해당 URL의 시작은 마케팅 인스턴스에 따라 달라짐).
 
    `<pre data-theme="Confluence">...marketo.com/Database/loadPersonDetail?personId=</pre>`
 
@@ -137,7 +134,7 @@ ht-degree: 0%
 
    >[!NOTE]
    >
-   >앞으로 받는 친구가 알 수 없는 사람인 경우, &#39;친구에게 전달&#39;을 &#39;사람의 **소스**&#x200B;로 표시한 새로운 사람이 만들어집니다.\
+   >앞으로 받는 친구가 알 수 없는 사람인 경우, &#39;친구에게 전달&#39;을 &#39;사람의 **소스**로 표시한 새로운 사람이 만들어집니다.
    >이메일이 프로그램의 로컬 자산인 경우 프로그램은 사용자의 **획득 프로그램**&#x200B;으로 표시됩니다.
 
 ## 전달 활동 {#trigger-or-filter-using-forwarding-activity}을(를) 사용하여 트리거 또는 필터
