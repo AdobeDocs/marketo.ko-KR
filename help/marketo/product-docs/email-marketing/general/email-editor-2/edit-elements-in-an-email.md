@@ -3,9 +3,9 @@ unique-page-id: 1900558
 description: 이메일의 요소 편집 - 마케팅 문서 - 제품 설명서
 title: 이메일에서 요소 편집
 translation-type: tm+mt
-source-git-commit: f27e2bac90570f9f795dc6bdd5fcf208c446be14
+source-git-commit: 0f0217a88929661798015b51a26259a973f9f6ea
 workflow-type: tm+mt
-source-wordcount: '503'
+source-wordcount: '502'
 ht-degree: 0%
 
 ---
@@ -35,10 +35,7 @@ ht-degree: 0%
 
    >[!NOTE]
    >
-   >**미리 알림**
-   >
-   >
-   >이미지, 토큰, 표 및 기타 요소를 추가할 수도 있습니다. [리치 텍스트 편집기 사용](../../../../product-docs/email-marketing/general/understanding-the-email-editor/using-the-rich-text-editor.md)을 참조하십시오.
+   >이미지, 토큰, 표 및 기타 요소를 추가할 수도 있습니다. [리치 텍스트 편집기 사용](/help/marketo/product-docs/email-marketing/general/understanding-the-email-editor/using-the-rich-text-editor.md)을 참조하십시오.
 
    >[!CAUTION]
    >
@@ -70,7 +67,9 @@ ht-degree: 0%
    >
    >마케팅 토큰을 사용하려면 이 옵션을 사용합니다. 토큰을 사용하면 이미지가 편집기에 끊어진 것처럼 표시되지만 미리 보기 모드와 샘플 보내기 이메일에서 렌더링됩니다.
 
-   **교체** ![](assets/eight.png)
+   외부 URL을 사용하려면 먼저 이미지의 URL에 붙여 넣습니다. 필요에 맞게 크기를 변경하고 일부 대체 텍스트(선택 사항)를 추가합니다. 그런 다음 **교체**&#x200B;를 누릅니다.
+
+   ![](assets/eight.png)
 
    **내 컴퓨터**
 
@@ -90,14 +89,15 @@ ht-degree: 0%
    >
    >이미지를 바꾸는 경우 이미지 URL/이름 아래에 나타나는 **기존 이미지 덮어쓰기** 상자를 선택해야 합니다.
 
-   **디자인**&#x200B;스튜디오디자인 스튜디오의 이미지를 삽입하려면 간단히 이미지를 찾습니다.
+   **Design Studio**
+
+   Design Studio에서 이미지를 삽입하려면 이미지를 찾아 보십시오.
 
    ![](assets/twelve.png)
 
-   **교체**
-   ![](assets/thirteen.png)
+   ...삽입하십시오. 필요에 맞게 크기를 변경하고 대체 텍스트(선택 사항)를 변경한 다음 **교체**&#x200B;를 누릅니다.
 
-외부 URL을 사용하려면 먼저 이미지의 URL에 붙여 넣습니다. 필요에 맞게 크기를 변경하고 일부 대체 텍스트(선택 사항)를 추가합니다. 그런 다음 을 누릅니다.               ...삽입하십시오. 필요에 맞게 크기를 변경하고 대체 텍스트(선택 사항)를 변경한 다음 을 누릅니다.
+   ![](assets/thirteen.png)
 
 ## 코드 단편 요소 {#how-to-edit-the-snippet-element}을 편집하는 방법
 
