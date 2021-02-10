@@ -3,9 +3,9 @@ unique-page-id: 13796464
 description: 영업 연결 개요 - 마케팅 문서 - 제품 설명서
 title: 영업 연결 개요
 translation-type: tm+mt
-source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
+source-git-commit: 0f0217a88929661798015b51a26259a973f9f6ea
 workflow-type: tm+mt
-source-wordcount: '247'
+source-wordcount: '225'
 ht-degree: 0%
 
 ---
@@ -17,18 +17,17 @@ Marketing To Sales Connect는 다양한 기능을 제공하는 다면적인 영�
 
 >[!AVAILABILITY]
 >
->
 >모든 고객이 이 기능을 구입하지는 않았습니다. 자세한 내용은 고객 성공 관리자에게 문의하십시오.
 
 ## 라이브 피드 {#the-live-feed}
 
-세일즈 담당자는 마케팅 및 세일즈 컨텐츠의 [실시간 참여](http://docs.marketo.com/x/d4TS)를 볼 수 있습니다.
+세일즈 담당자는 마케팅 및 세일즈 컨텐츠의 [실시간 참여](/help/marketo/product-docs/marketo-sales-connect/email/the-live-feed/live-feed-overview.md)를 볼 수 있습니다.
 
 ![](assets/engagement.jpg)
 
 ## 개인 세부 사항 보기 {#person-detail-view}
 
-[자세한 사용자 통계](http://docs.marketo.com/x/e4TS)에 액세스합니다.
+[자세한 사용자 통계](/help/marketo/product-docs/marketo-sales-connect/people/person-detail-view.md)에 액세스합니다.
 
 ![](assets/2018-05-11-at-3.28-pm.jpg)
 
@@ -62,7 +61,7 @@ Marketing To Sales Connect는 다양한 기능을 제공하는 다면적인 영�
   </tr> 
   <tr> 
    <td colspan="1"><p>판매 전화 받기</p></td> 
-   <td colspan="1"><p>리드는 <a href="http://docs.marketo.com/x/NgDb" rel="nofollow">영업용 전화</a>를 사용하여 영업사원에게 전화를 받았습니다.</p></td> 
+   <td colspan="1"><p>리드는 <a href="/help/marketo/product-docs/marketo-sales-connect/phone/sales-phone-overview.md" rel="nofollow">영업용 전화</a>를 사용하여 영업사원에게 전화를 받았습니다.</p></td> 
   </tr> 
   <tr> 
    <td colspan="1"><p>영업 캠페인에 추가</p></td> 
@@ -81,7 +80,7 @@ Marketing To Sales Connect는 다양한 기능을 제공하는 다면적인 영�
 
 ## 마케팅 캠페인 공유 {#share-marketing-campaigns}
 
-판매 사용자에게 [마케팅 캠페인 데이터](http://docs.marketo.com/x/NwDh)에 대한 액세스 권한을 부여하는 간단한 스마트 캠페인을 만듭니다.
+판매 사용자에게 [마케팅 캠페인 데이터](/help/marketo/product-docs/marketo-sales-connect/marketo/make-a-campaign-visible-to-sales-connect-users.md)에 대한 액세스 권한을 부여하는 간단한 스마트 캠페인을 만듭니다.
 
 ![](assets/campaign-is-requested.jpg)
 
@@ -89,9 +88,4 @@ Marketing To Sales Connect는 다양한 기능을 제공하는 다면적인 영�
 
 >[!MORELIKETHIS]
 >
->* [Sales Connect 시작하기](http://docs.marketo.com/x/coTS)
-
->
-
-
-
+>[Sales Connect 시작하기](/help/marketo/product-docs/marketo-sales-connect/getting-started/getting-started-with-sales-connect.md)
