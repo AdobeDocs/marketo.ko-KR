@@ -3,9 +3,9 @@ unique-page-id: 2359476
 description: 이메일 프로그램 대시보드 - 마케팅 문서 - 제품 설명서 사용
 title: 이메일 프로그램 대시보드 사용
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 0f0217a88929661798015b51a26259a973f9f6ea
 workflow-type: tm+mt
-source-wordcount: '327'
+source-wordcount: '321'
 ht-degree: 0%
 
 ---
@@ -13,11 +13,11 @@ ht-degree: 0%
 
 # 이메일 프로그램 대시보드 {#use-the-email-program-dashboard} 사용
 
-이 대시보드 보기에서 [이메일 프로그램](http://docs.marketo.com/display/docs/email+programs)의 성과를 확인하십시오.
+이 대시보드 보기에서 이메일 프로그램의 성과를 확인합니다.
 
 >[!NOTE]
 >
->프로그램에 A/B 테스트가 있는 경우 [이메일 프로그램 대시보드 - A/B 테스트 보기](../../../../product-docs/email-marketing/email-programs/email-program-actions/email-test-a-b-test/use-the-email-program-dashboard-a-b-test-view.md)를 확인하십시오.
+>프로그램에 A/B 테스트가 있는 경우 [이메일 프로그램 대시보드 - A/B 테스트 보기](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/email-test-a-b-test/use-the-email-program-dashboard-a-b-test-view.md)를 확인하십시오.
 
 ![](assets/image2014-9-12-14-3a12-3a56.png)
 
@@ -47,7 +47,7 @@ ht-degree: 0%
 
 ## 요약 - 참여 {#summary-engagement}
 
-전체 [참여 점수](../../../../product-docs/email-marketing/drip-nurturing/reports-and-notifications/understanding-the-engagement-score.md)를 보여줍니다.
+전체 [참여 점수](/help/marketo/product-docs/email-marketing/drip-nurturing/reports-and-notifications/understanding-the-engagement-score.md)를 보여줍니다.
 
 ![](assets/image2014-9-12-14-3a13-3a11.png)
 
@@ -65,7 +65,7 @@ ht-degree: 0%
 >
 >**정의**
 >
->**열기 **이메일 수신자가 이메일 이미지를 다운로드할 때 카운트됩니다. 이 이미지에는 Marketing-to-inserted 추적 픽셀이 포함됩니다. 받는 사람이 이메일을 보고 이미지를 다운로드하지 않기로 선택하면 열린 이메일로 계산되지 않습니다. 받는 사람의 미리 보기 창에 이미지가 로드되는 경우 일반적으로 열려 있는 것으로 계산되지만 이메일 클라이언트에 따라 다릅니다.
+>**이메일** 수신자가 이메일 이미지를 다운로드할 때 Marketing-to-inserted 추적 픽셀이 포함됩니다. 받는 사람이 이메일을 보고 이미지를 다운로드하지 않기로 선택하면 열린 이메일로 계산되지 않습니다. 받는 사람의 미리 보기 창에 이미지가 로드되는 경우 일반적으로 열려 있는 것으로 계산되지만 이메일 클라이언트에 따라 다릅니다.
 >
 >**[** 열기]를 클릭하면 이메일에서 열었으며 링크를 클릭했던 이메일의 백분율이 측정됩니다. 고유한 클릭 수를 고유 열기 수로 나눈 다음 100을 곱하여 백분율로 표시합니다.
 
@@ -77,9 +77,4 @@ ht-degree: 0%
 
 >[!MORELIKETHIS]
 >
->* [이메일 프로그램 대시보드 - A/B 테스트 보기 사용](../../../../product-docs/email-marketing/email-programs/email-program-actions/email-test-a-b-test/use-the-email-program-dashboard-a-b-test-view.md)
-
->
-
-
-
+>[이메일 프로그램 대시보드 - A/B 테스트 보기 사용](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/email-test-a-b-test/use-the-email-program-dashboard-a-b-test-view.md)
