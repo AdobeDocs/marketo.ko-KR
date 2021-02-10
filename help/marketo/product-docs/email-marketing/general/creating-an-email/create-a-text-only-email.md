@@ -3,7 +3,7 @@ unique-page-id: 1900556
 description: 텍스트 전용 이메일 만들기 - 마케팅 문서 - 제품 설명서
 title: 텍스트 전용 이메일 만들기
 translation-type: tm+mt
-source-git-commit: 00887ea53e395bea3a11fd28e0ac98b085ef6ed8
+source-git-commit: 0f0217a88929661798015b51a26259a973f9f6ea
 workflow-type: tm+mt
 source-wordcount: '186'
 ht-degree: 0%
@@ -45,7 +45,7 @@ ht-degree: 0%
 
    >[!CAUTION]
    >
-   >링크는 텍스트 전용 이메일에서 자동으로 추적되지 않습니다. 텍스트 전자 메일[에 추적된 링크 추가 방법을 참조하십시오.](../../../../product-docs/email-marketing/general/functions-in-the-editor/add-tracked-links-to-a-text-email.md)
+   >링크는 텍스트 전용 이메일에서 자동으로 추적되지 않습니다. 텍스트 전자 메일](/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/add-tracked-links-to-a-text-email.md)에 추적된 링크 추가 방법을 참조하십시오.[
 
    >[!TIP]
    >
