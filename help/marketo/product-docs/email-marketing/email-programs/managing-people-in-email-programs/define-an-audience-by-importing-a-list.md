@@ -3,7 +3,7 @@ unique-page-id: 1900597
 description: 목록 가져오기 - Marketing To Docs - 제품 설명서를 통해 대상 정의
 title: 목록을 가져와서 대상 정의
 translation-type: tm+mt
-source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
+source-git-commit: 0f0217a88929661798015b51a26259a973f9f6ea
 workflow-type: tm+mt
 source-wordcount: '372'
 ht-degree: 0%
@@ -15,9 +15,9 @@ ht-degree: 0%
 
 >[!PREREQUISITES]
 >
->[이메일 프로그램용 이메일 만들기](../../../../product-docs/email-marketing/email-programs/email-program-actions/create-an-email-for-an-email-program.md)
+>[이메일 프로그램용 이메일 만들기](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/create-an-email-for-an-email-program.md)
 
-이메일 프로그램을 만든 후에는 이메일을 보낼 사람을 알려주어야 합니다. 이 작업은 [스마트 목록](../../../../product-docs/core-marketo-concepts/smart-lists-and-static-lists/creating-a-smart-list/create-a-smart-list.md)을 만들거나 목록을 가져와서 수행할 수 있습니다. 목록을 가져와서 이를 수행하는 방법입니다.
+이메일 프로그램을 만든 후에는 이메일을 보낼 사람을 알려주어야 합니다. 이 작업은 [스마트 목록](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/creating-a-smart-list/create-a-smart-list.md)을 만들거나 목록을 가져와서 수행할 수 있습니다. 목록을 가져와서 이를 수행하는 방법입니다.
 
 >[!NOTE]
 >
@@ -29,17 +29,20 @@ ht-degree: 0%
 
    ![](assets/login-marketing-activities-1.png)
 
-   이메일 프로그램을 선택한 다음 대상 타일 아래에 있는 목록 가져오기를 클릭합니다.
+1. 이메일 프로그램을 선택한 다음 대상 타일 아래에 있는 목록 가져오기를 클릭합니다.
+
    ![](assets/importlist.png)
 
-1. 목록 가져오기 창이 열리고 **찾아보기**&#x200B;를 클릭하고 가져올 파일을 선택합니다. 인물 목록을 선택하고 나면 다음을 클릭합니다.
-1. ![](assets/importlist1.png)
+1. 목록 가져오기 창이 열리고 **찾아보기**&#x200B;를 클릭하고 가져올 파일을 선택합니다. 사용자 목록을 선택하고 나면 **다음**&#x200B;을 클릭합니다.
+
+   ![](assets/importlist1.png)
 
    >[!CAUTION]
    >
    >목록이 UTF-8, UTF-16, Shift-JIS 또는 EUC-JP로 인코딩되어 파일 크기가 50MB를 초과하지 않아야 합니다.
 
-   파일의 필드가 올바르게 매핑되었는지 확인하고 [다음]을 클릭합니다.
+1. 파일의 필드가 올바르게 매핑되었는지 확인하고 **다음**&#x200B;을 클릭합니다.
+
    ![](assets/image2014-9-12-11-3a10-3a7.png)
 
    >[!TIP]
@@ -80,10 +83,6 @@ ht-degree: 0%
 
 >[!MORELIKETHIS]
 >
->* [기존 이메일 선택](../../../../product-docs/email-marketing/email-programs/email-program-actions/choose-an-existing-email.md)
->* [이메일 프로그램용 이메일 만들기](../../../../product-docs/email-marketing/email-programs/email-program-actions/create-an-email-for-an-email-program.md)
-
->
-
-
+>* [기존 이메일 선택](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/choose-an-existing-email.md)
+>* [이메일 프로그램용 이메일 만들기](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/create-an-email-for-an-email-program.md)
 
