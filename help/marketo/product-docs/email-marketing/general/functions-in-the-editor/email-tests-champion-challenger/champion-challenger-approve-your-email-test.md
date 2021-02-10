@@ -3,9 +3,9 @@ unique-page-id: 2359581
 description: Champion/Challener -이메일 테스트 승인 - Marketing To Docs - 제품 설명서
 title: 챔피언/도전자 - 이메일 테스트 승인
 translation-type: tm+mt
-source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
+source-git-commit: 0f0217a88929661798015b51a26259a973f9f6ea
 workflow-type: tm+mt
-source-wordcount: '142'
+source-wordcount: '141'
 ht-degree: 0%
 
 ---
@@ -17,11 +17,7 @@ ht-degree: 0%
 
 >[!PREREQUISITES]
 >
->* [챔피언/도전자:보고서 경고 구성](champion-challenger-configure-report-alerts.md)
-
->
-
-
+>[챔피언/도전자:보고서 경고 구성](/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/email-tests-champion-challenger/champion-challenger-configure-report-alerts.md)
 
 1. **마케팅 활동**&#x200B;으로 이동합니다.
 
@@ -33,10 +29,7 @@ ht-degree: 0%
 
    >[!NOTE]
    >
-   >**미리 알림**
-   >
-   >
-   >**전체 이메일******테스트를 승인할 때 먼저 도전자 이메일을 승인하십시오.
+   >**전체 이메일** 테스트를 승인할 때 먼저 도전자 이메일을 승인하십시오.
 
    >[!NOTE]
    >
@@ -46,10 +39,6 @@ ht-degree: 0%
 
    >[!MORELIKETHIS]
    >
-   >
-   >    
-   >    
-   >    * [챔피언/도전자:챔피언 선언](champion-challenger-declare-a-champion.md)
-   >    * [챔피언/도전자:이메일 테스트 취소](champion-challenger-discard-an-email-test.md)
-
+   >* [챔피언/도전자:챔피언 선언](/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/email-tests-champion-challenger/champion-challenger-declare-a-champion.md)
+   >* [챔피언/도전자:이메일 테스트 취소](/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/email-tests-champion-challenger/champion-challenger-discard-an-email-test.md)
 
