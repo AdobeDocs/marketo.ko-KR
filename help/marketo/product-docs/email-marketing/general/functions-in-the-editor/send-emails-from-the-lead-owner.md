@@ -3,7 +3,7 @@ unique-page-id: 1147340
 description: 리드 소유자로부터 이메일 보내기 - 마케팅 문서 - 제품 설명서
 title: 리드 소유자로부터 이메일 보내기
 translation-type: tm+mt
-source-git-commit: 5c9683c6b00ccbf9e9d606fd4513432c9872ad00
+source-git-commit: 0f0217a88929661798015b51a26259a973f9f6ea
 workflow-type: tm+mt
 source-wordcount: '193'
 ht-degree: 0%
@@ -47,7 +47,8 @@ ht-degree: 0%
    >
    >첫 번째 및 성 토큰 사이에 공백을 추가해야 합니다.
 
-   이메일에서 필드를 클릭하고(기존 이메일 주소 삭제) [토큰 삽입] 단추를 클릭합니다.
+1. 이메일에서 필드를 클릭하고(기존 이메일 주소 삭제) [토큰 삽입] 단추를 클릭합니다.
+
    ![](assets/eight.png)
 
 1. &quot;`{{lead.Lead Owner`&quot;을 입력하고 **`{{lead.Lead Owner Email Address}}`** 토큰을 선택합니다.
@@ -61,4 +62,3 @@ ht-degree: 0%
 1. **Reply-to** 및 **Subject** 필드가 채워져 있고 완료되었는지 확인하십시오!
 
    ![](assets/eleven.png)
-
