@@ -3,7 +3,7 @@ unique-page-id: 1900579
 description: 이메일 링크에 대한 추적 비활성화 - 마케팅 문서 - 제품 설명서
 title: 이메일 링크에 대한 추적 비활성화
 translation-type: tm+mt
-source-git-commit: 29eb4c833c128c37849260f0c554144c237ab28e
+source-git-commit: 0f0217a88929661798015b51a26259a973f9f6ea
 workflow-type: tm+mt
 source-wordcount: '213'
 ht-degree: 0%
@@ -15,7 +15,7 @@ ht-degree: 0%
 
 이메일의 링크에서 **마케팅 추적 URL**&#x200B;을 활성화하지 않으려는 경우가 있습니다. 이 기능은 대상 페이지가 URL 매개 변수를 지원하지 않고 링크가 끊어질 수 있는 경우에 유용합니다.
 
-1. 이메일을 선택하고 **편집** **초안**&#x200B;을 클릭합니다.
+1. 전자 메일을 선택하고 **초안 편집**&#x200B;을 클릭합니다.
 
    ![](assets/one-7.png)
 
