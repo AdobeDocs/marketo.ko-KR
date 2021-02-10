@@ -3,9 +3,9 @@ unique-page-id: 10912237
 description: 이메일 템플릿 선택기 개요 - 마케팅 문서 - 제품 설명서
 title: 이메일 템플릿 선택기 개요
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 0f0217a88929661798015b51a26259a973f9f6ea
 workflow-type: tm+mt
-source-wordcount: '343'
+source-wordcount: '336'
 ht-degree: 0%
 
 ---
@@ -13,7 +13,7 @@ ht-degree: 0%
 
 # 이메일 템플릿 선택기 개요 {#email-template-picker-overview}
 
-[이메일](../../../../product-docs/email-marketing/general/creating-an-email/create-an-email.md)을 만들 때 선택할 수 있는 무료 템플릿이 여러 개 있습니다. 또한 고유한 템플릿을 만들어 나중에 사용할 수 있도록 저장할 수 있습니다.
+[이메일](/help/marketo/product-docs/email-marketing/general/creating-an-email/create-an-email.md)을 만들 때 선택할 수 있는 무료 템플릿이 여러 개 있습니다. 또한 고유한 템플릿을 만들어 나중에 사용할 수 있도록 저장할 수 있습니다.
 
 ![](assets/starter-templates.png)
 
@@ -21,7 +21,7 @@ ht-degree: 0%
 
 ![](assets/two-2.png)
 
-이메일이 매우 중요하며 통신 제한을 우회하려는 경우 [확인란을 선택하여 ](../../../../product-docs/email-marketing/general/functions-in-the-editor/make-an-email-operational.md)을(를) 실행합니다. **편집기에서** 열면 기본적으로 선택됩니다. 즉, 새로운 이메일 편집을 바로 시작할 수 있습니다. **** 크리에이티브, 제작!
+이메일이 매우 중요하며 통신 제한을 우회하려는 경우 [확인란을 선택하여 ](/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/make-an-email-operational.md)을(를) 실행합니다. **편집기에서** 열면 기본적으로 선택됩니다. 즉, 새로운 이메일 편집을 바로 시작할 수 있습니다. **** 크리에이티브, 제작!
 
 ![](assets/three-2.png)
 
@@ -31,9 +31,11 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->Marketing의 스타터 템플릿은 모든 고객에게 무료로 제공됩니다. 주요 이메일 클라이언트(및 모바일 디바이스)에 맞게 지속적으로 최적화되지만 요구 사항을 충족하는지 항상 평가해야 합니다. Marketing의 [이메일 배달 기능 도구](http://docs.marketo.com/display/DOCS/Email+Deliverability+Tool)는 다른 이메일 클라이언트에서 템플릿의 렌더링을 보여줄 수 있습니다. 안타깝게도 Marketing Cloud는 유료 서비스 참여 이외의 디자인 요청을 처리할 수 없습니다.
+>Marketing의 스타터 템플릿은 모든 고객에게 무료로 제공됩니다. 주요 이메일 클라이언트(및 모바일 디바이스)에 맞게 지속적으로 최적화되지만 요구 사항을 충족하는지 항상 평가해야 합니다. Marketing의 [이메일 배달 기능 도구](/help/marketo/product-docs/email-marketing/deliverability/email-deliverability-tool.md)는 다른 이메일 클라이언트에서 템플릿의 렌더링을 보여줄 수 있습니다. 안타깝게도 Marketing Cloud는 유료 서비스 참여 이외의 디자인 요청을 처리할 수 없습니다.
 
-**내** 템플릿은 사용자가 만든 모든 템플릿으로 구성됩니다. 폴더가 있을 수도 있습니다.   ![](assets/five-2.png)
+**내** 템플릿은 사용자가 만든 모든 템플릿으로 구성됩니다. 폴더가 있을 수도 있습니다.
+
+![](assets/five-2.png)
 
 디자인 스튜디오 트리의 이메일 > 템플릿 아래에 표시되는 모든 폴더는 **내 템플릿**&#x200B;에서 사용할 수 있습니다.
 
@@ -67,10 +69,6 @@ ht-degree: 0%
 
 >[!MORELIKETHIS]
 >
->* [이메일 템플릿 구문](email-template-syntax.md)
->* [이메일 만들기](../../../../product-docs/email-marketing/general/creating-an-email/create-an-email.md)
-
->
-
-
+>* [이메일 템플릿 구문](/help/marketo/product-docs/email-marketing/general/email-editor-2/email-template-syntax.md)
+>* [이메일 만들기](/help/marketo/product-docs/email-marketing/general/creating-an-email/create-an-email.md)
 
