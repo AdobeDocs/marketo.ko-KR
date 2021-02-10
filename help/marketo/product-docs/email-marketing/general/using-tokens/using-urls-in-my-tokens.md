@@ -3,7 +3,7 @@ unique-page-id: 11382535
 description: 내 토큰의 URL 사용 - 마케팅 문서 - 제품 설명서
 title: 내 토큰에서 URL 사용
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: 0f0217a88929661798015b51a26259a973f9f6ea
 workflow-type: tm+mt
 source-wordcount: '218'
 ht-degree: 0%
@@ -72,4 +72,3 @@ ht-degree: 0%
    ![](assets/twelve.png)
 
    이제 모든 작업이 끝났습니다. URL은 전송 후 채워지며, 토큰 앞에 http://을 넣으면 추적 가능한 링크가 생성됩니다.
-
