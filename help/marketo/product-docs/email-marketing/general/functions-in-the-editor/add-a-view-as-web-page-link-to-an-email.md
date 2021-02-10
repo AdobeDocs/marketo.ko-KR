@@ -3,7 +3,7 @@ unique-page-id: 1900560
 description: 이메일 - 마케팅 문서 - 제품 문서에 웹 페이지로 보기 링크 추가
 title: 이메일에 웹 페이지로 보기 링크 추가
 translation-type: tm+mt
-source-git-commit: 00887ea53e395bea3a11fd28e0ac98b085ef6ed8
+source-git-commit: 0f0217a88929661798015b51a26259a973f9f6ea
 workflow-type: tm+mt
 source-wordcount: '160'
 ht-degree: 0%
@@ -39,4 +39,4 @@ ht-degree: 0%
 >
 >이메일을 보내기 전에는 웹 페이지로 보기 링크가 표시되지 않습니다. 확인할 테스트를 직접 보내십시오.
 
-기본 텍스트를 변경하려면 [&quot;웹 페이지로 보기&quot; 메시지 편집](../../../../product-docs/administration/email-setup/edit-the-view-as-web-page-message.md)을 참조하십시오.
+기본 텍스트를 변경하려면 [&quot;웹 페이지로 보기&quot; 메시지 편집](/help/marketo/product-docs/administration/email-setup/edit-the-view-as-web-page-message.md)을 참조하십시오.
