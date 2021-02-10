@@ -3,7 +3,7 @@ unique-page-id: 11372054
 description: 이메일의 텍스트 버전 편집 - 마케팅 문서 - 제품 설명서
 title: 이메일의 텍스트 버전 편집
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: 0f0217a88929661798015b51a26259a973f9f6ea
 workflow-type: tm+mt
 source-wordcount: '175'
 ht-degree: 0%
@@ -17,13 +17,13 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->텍스트 전용 이메일 만들기에 대한 집필은 아닙니다. 자세한 내용은 [텍스트 전용 이메일 만들기](create-a-text-only-email.md)를 참조하십시오.
+>텍스트 전용 이메일 만들기에 대한 집필은 아닙니다. 자세한 내용은 [텍스트 전용 이메일 만들기](/help/marketo/product-docs/email-marketing/general/creating-an-email/create-a-text-only-email.md)를 참조하십시오.
 
 1. 이메일 편집기에서 이메일 아래쪽에 있는 **텍스트** 탭을 클릭합니다.
 
    ![](assets/one-5.png)
 
-1. 선택을** HTML**에서 자동으로 복사하여 변경합니다.
+1. 변경하려면 **HTML**&#x200B;에서 자동으로 복사를 선택 취소합니다.
 
    ![](assets/two-5.png)
 
@@ -33,7 +33,8 @@ ht-degree: 0%
 
 1. 편집 완료되면 편집기를 닫거나 HTML 버전으로 돌아갑니다. 변경 사항이 자동으로 저장됩니다.
 
-   ![](assets/four-4.png)\
+   ![](assets/four-4.png)
+
    정적 컨텐트만 있는 경우 텍스트는 하나의 큰 블록(3단계에서 표시됨)에서 편집할 수 있습니다. 동적 컨텐츠가 있는 경우 텍스트는 다음과 같이 편집 가능한 여러 섹션으로 분할됩니다.
 
    ![](assets/five-3.png)
