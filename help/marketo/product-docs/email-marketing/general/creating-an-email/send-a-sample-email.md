@@ -3,9 +3,9 @@ unique-page-id: 1147352
 description: 샘플 이메일 보내기 - Marketing To Docs - 제품 설명서
 title: 샘플 이메일 보내기
 translation-type: tm+mt
-source-git-commit: d7d6aee63144c472e02fe0221c4a164183d04dd4
+source-git-commit: 0f0217a88929661798015b51a26259a973f9f6ea
 workflow-type: tm+mt
-source-wordcount: '301'
+source-wordcount: '289'
 ht-degree: 0%
 
 ---
@@ -13,7 +13,7 @@ ht-degree: 0%
 
 # 샘플 이메일 {#send-a-sample-email} 보내기
 
-이메일 샘플을 빠르고 손쉽게 보낼 수 있습니다. 동적 콘텐츠 이메일을 보내려면 [동적 내용이 포함된 이메일 미리 보기](../../../../product-docs/email-marketing/general/functions-in-the-editor/preview-an-email-with-dynamic-content.md)를 참조하십시오.
+이메일 샘플을 빠르고 손쉽게 보낼 수 있습니다. 동적 콘텐츠 이메일을 보내려면 [동적 내용이 포함된 이메일 미리 보기](/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/preview-an-email-with-dynamic-content.md)를 참조하십시오.
 
 >[!NOTE]
 >
@@ -33,9 +33,6 @@ ht-degree: 0%
    ![](assets/two.png)
 
    >[!NOTE]
-   >
-   >**미리 알림**
-   >
    >
    >여러 이메일 주소를 입력하려면 쉼표를 사용하여 구분합니다.
 
@@ -59,13 +56,13 @@ ht-degree: 0%
 
    >[!NOTE]
    >
-   >트리거 필드는 [이메일 스크립팅](http://developers.marketo.com/documentation/velocity-script/)을 사용하는 사람에게만 적용됩니다.
+   >트리거 필드는 [이메일 스크립팅](https://developers.marketo.com/documentation/velocity-script/)을 사용하는 사람에게만 적용됩니다.
 
 ## 세그먼트 {#send-a-sample-email-based-on-a-segment} 기반 샘플 이메일 보내기
 
 >[!PREREQUISITES]
 >
->[이메일에 세그멘테이션을 적용합니다](http://docs.marketo.com/display/public/DOCS/Using+Dynamic+Content+in+an+Email).
+>[이메일에 세그멘테이션을 적용합니다](/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/using-dynamic-content-in-an-email.md).
 
 1. 이메일을 찾아 선택하고 **초안 편집** 탭을 클릭합니다.
 
