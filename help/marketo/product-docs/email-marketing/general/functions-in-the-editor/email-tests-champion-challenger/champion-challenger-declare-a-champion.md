@@ -3,7 +3,7 @@ unique-page-id: 2359584
 description: 챔피언/도전자 - 챔피언 선언 - 마케팅 문서 - 제품 설명서
 title: 챔피언/도전자 -챔피언 선언
 translation-type: tm+mt
-source-git-commit: f7b0b4ebe248257c234503346458bd38bfd2e73c
+source-git-commit: 0f0217a88929661798015b51a26259a973f9f6ea
 workflow-type: tm+mt
 source-wordcount: '124'
 ht-degree: 0%
@@ -17,8 +17,7 @@ ht-degree: 0%
 
 >[!MORELIKETHIS]
 >
->* [챔피언/도전자:이메일 테스트 승인](champion-challenger-approve-your-email-test.md)
-
+>[챔피언/도전자:이메일 테스트 승인](/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/email-tests-champion-challenger/champion-challenger-approve-your-email-test.md)
 
 1. **마케팅 활동**&#x200B;으로 이동합니다.
 
@@ -44,7 +43,7 @@ ht-degree: 0%
    >
    >기본 **Declare Date**&#x200B;는 오늘이 아니라 내일(내일)이라는 점에 유의하십시오.
 
-   시간을 선택하고 **저장**&#x200B;을 클릭합니다.
+1. 시간을 선택하고 **저장**&#x200B;을 클릭합니다.
 
    ![](assets/image2014-9-15-13-3a33-3a56.png)
 
