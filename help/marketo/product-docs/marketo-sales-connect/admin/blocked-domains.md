@@ -3,9 +3,9 @@ unique-page-id: 18317338
 description: 차단된 도메인 - 마케팅 문서 - 제품 설명서
 title: 차단된 도메인
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: 0f0217a88929661798015b51a26259a973f9f6ea
 workflow-type: tm+mt
-source-wordcount: '99'
+source-wordcount: '94'
 ht-degree: 0%
 
 ---
@@ -23,7 +23,7 @@ ht-degree: 0%
 
    ![](assets/one-3.png)
 
-1. 관리 설정에서 **일반을 클릭합니다.**
+1. 관리 설정에서 **일반**&#x200B;을 클릭합니다.
 
    ![](assets/two-3.png)
 
@@ -33,5 +33,4 @@ ht-degree: 0%
 
    >[!NOTE]
    >
-   >차단된 전자 메일 도메인으로 전송되지 못하는 [그룹 전자 메일](http://docs.marketo.com/x/KAQ6Ag) 보내기에 포함된 이메일은 자동으로 실패하며 실패한 전자 메일 폴더에 표시되지 않습니다.
-
+   >차단된 전자 메일 도메인으로 전송되지 못하는 [그룹 전자 메일](/help/marketo/product-docs/marketo-sales-connect/email/using-the-compose-window/sending-emails-via-group-email.md) 보내기에 포함된 이메일은 자동으로 실패하며 실패한 전자 메일 폴더에 표시되지 않습니다.
