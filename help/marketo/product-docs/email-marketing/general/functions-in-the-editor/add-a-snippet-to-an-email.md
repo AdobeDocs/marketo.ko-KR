@@ -3,7 +3,7 @@ unique-page-id: 1147358
 description: 이메일에 코드 조각 추가 - 마케팅 문서 - 제품 설명서
 title: 이메일에 코드 조각 추가
 translation-type: tm+mt
-source-git-commit: c8a77dc84c023e05fbb442f575269aac108ffb29
+source-git-commit: 0f0217a88929661798015b51a26259a973f9f6ea
 workflow-type: tm+mt
 source-wordcount: '152'
 ht-degree: 0%
@@ -18,7 +18,6 @@ ht-degree: 0%
 >[!PREREQUISITES]
 >
 >[코드 단편 만들기](/help/marketo/product-docs/personalization/segmentation-and-snippets/snippets/create-a-snippet.md)
-
 
 >[!NOTE]
 >
