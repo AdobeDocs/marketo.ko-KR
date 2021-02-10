@@ -3,7 +3,7 @@ unique-page-id: 2359562
 description: 챔피언/도전자 - 챔피언 기준 정의 - Marketing To Docs - 제품 설명서
 title: 챔피언/도전자 -챔피언 기준 정의
 translation-type: tm+mt
-source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
+source-git-commit: 0f0217a88929661798015b51a26259a973f9f6ea
 workflow-type: tm+mt
 source-wordcount: '179'
 ht-degree: 0%
@@ -17,11 +17,7 @@ ht-degree: 0%
 
 >[!PREREQUISITES]
 >
->* [이메일 챔피언/도전자 추가](add-an-email-champion-challenger.md)
-
->
-
-
+>[이메일 챔피언/도전자 추가](/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/email-tests-champion-challenger/add-an-email-champion-challenger.md)
 
 ## 표준 챔피언 기준 {#standard-champion-criteria}
 
@@ -33,7 +29,7 @@ ht-degree: 0%
    >
    >이 지표를 추적하고 데이터를 이메일로 전송합니다.
 
-1. 기본 **챔피언 기준** 중 하나를 선택한 경우 계속 [챔피언/챌린저:보고서 경고 구성](champion-challenger-configure-report-alerts.md)!
+1. 기본 **챔피언 기준** 중 하나를 선택한 경우 계속 [챔피언/챌린저:보고서 경고 구성](/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/email-tests-champion-challenger/champion-challenger-configure-report-alerts.md)!
 
 ## 사용자 지정 챔피언 기준 {#custom-champion-criteria}
 
@@ -63,9 +59,4 @@ ht-degree: 0%
 
    >[!MORELIKETHIS]
    >
-   >
-   >    
-   >    
-   >    * [챔피언/도전자:보고서 경고 구성](champion-challenger-configure-report-alerts.md)
-
-
+   >[챔피언/도전자:보고서 경고 구성](/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/email-tests-champion-challenger/champion-challenger-configure-report-alerts.md)
