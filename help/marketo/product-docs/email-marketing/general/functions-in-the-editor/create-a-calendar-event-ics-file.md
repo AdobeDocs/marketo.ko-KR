@@ -3,7 +3,7 @@ unique-page-id: 1900563
 description: 달력 이벤트 만들기(.ics) 파일 - 마케팅 문서 - 제품 설명서
 title: 달력 이벤트(.ics) 파일 만들기
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 0f0217a88929661798015b51a26259a973f9f6ea
 workflow-type: tm+mt
 source-wordcount: '95'
 ht-degree: 0%
@@ -35,10 +35,6 @@ ht-degree: 0%
 
 >[!MORELIKETHIS]
 >
->* [이메일에 달력 이벤트(.ics) 포함](include-a-calendar-event-ics-in-an-email.md)
->* [랜딩 페이지에 달력 이벤트 ICS 파일 포함](../../../../product-docs/demand-generation/landing-pages/personalizing-landing-pages/include-a-calendar-event-ics-file-in-a-landing-page.md)
-
->
-
-
+>* [이메일에 달력 이벤트(.ics) 포함](/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/include-a-calendar-event-ics-in-an-email.md)
+>* [랜딩 페이지에 달력 이벤트 ICS 파일 포함](/help/marketo/product-docs/demand-generation/landing-pages/personalizing-landing-pages/include-a-calendar-event-ics-file-in-a-landing-page.md)
 
