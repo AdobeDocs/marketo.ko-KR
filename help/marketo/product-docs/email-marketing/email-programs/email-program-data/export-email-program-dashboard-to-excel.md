@@ -3,9 +3,9 @@ unique-page-id: 2359598
 description: 이메일 프로그램 대시보드를 Excel로 내보내기 - 마케팅 문서 - 제품 설명서
 title: 이메일 프로그램 대시보드를 Excel로 내보내기
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: 0f0217a88929661798015b51a26259a973f9f6ea
 workflow-type: tm+mt
-source-wordcount: '107'
+source-wordcount: '91'
 ht-degree: 0%
 
 ---
@@ -25,9 +25,6 @@ ht-degree: 0%
 
    >[!NOTE]
    >
-   >**미리 알림**
-   >
-   >
    >이메일 프로그램이 아직 시작되지 않은 경우 볼 데이터가 없으므로 대시보드가 표시되지 않습니다.
 
 1. Excel 아이콘을 클릭하면 내보내기가 시작됩니다.
@@ -35,10 +32,3 @@ ht-degree: 0%
    ![](assets/lifecycle.jpg)
 
    아주 쉬운거지?
-
->[!NOTE]
->
->**자세히 알아보기**
->
->[이메일 프로그램](http://docs.marketo.com/display/docs/email+programs)에 대해 자세히 알고 싶으십니까?
-
