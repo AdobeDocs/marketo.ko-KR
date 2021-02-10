@@ -3,7 +3,7 @@ unique-page-id: 2359567
 description: Champion/Challener -보고서 경고 구성 - Marketing To Docs - 제품 설명서
 title: 챔피언/도전자 -보고서 경고 구성
 translation-type: tm+mt
-source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
+source-git-commit: 0f0217a88929661798015b51a26259a973f9f6ea
 workflow-type: tm+mt
 source-wordcount: '139'
 ht-degree: 0%
@@ -17,11 +17,7 @@ Marketing Cloud에서 이메일 테스트 진행 상황 보고서를 전송합�
 
 >[!PREREQUISITES]
 >
->* [챔피언/도전자:챔피언 기준 정의](champion-challenger-define-champion-criteria.md)
-
->
-
-
+>[챔피언/도전자:챔피언 기준 정의](/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/email-tests-champion-challenger/champion-challenger-define-champion-criteria.md)
 
 1. 보고서를 금요일 오전 9시에 일주일에 한 번 보내도록 예약합시다.
 
@@ -47,9 +43,4 @@ Marketing Cloud에서 이메일 테스트 진행 상황 보고서를 전송합�
 
    >[!MORELIKETHIS]
    >
-   >
-   >    
-   >    
-   >    * [챔피언/도전자:이메일 테스트 승인](champion-challenger-approve-your-email-test.md)
-
-
+   >[챔피언/도전자:이메일 테스트 승인](/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/email-tests-champion-challenger/champion-challenger-approve-your-email-test.md)
