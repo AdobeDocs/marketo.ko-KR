@@ -3,9 +3,9 @@ unique-page-id: 1900554
 description: 이메일의 HTML 편집 - 마케팅 문서 - 제품 설명서
 title: 이메일의 HTML 편집
 translation-type: tm+mt
-source-git-commit: 1a29614ec938074902af201b2ffc11cfaa625f7a
+source-git-commit: 0f0217a88929661798015b51a26259a973f9f6ea
 workflow-type: tm+mt
-source-wordcount: '356'
+source-wordcount: '347'
 ht-degree: 0%
 
 ---
@@ -76,6 +76,6 @@ ht-degree: 0%
 
    >[!NOTE]
    >
-   >검색 코드는 [이메일 템플릿 편집기](http://docs.marketo.com/display/DOCS/Create+a+New+Email+Template)에서도 사용할 수 있습니다.
+   >검색 코드는 [이메일 템플릿 편집기](/help/marketo/product-docs/email-marketing/general/email-editor-2/create-an-email-template.md)에서도 사용할 수 있습니다.
 
 Marketing의 내장된 기능을 사용하여 이메일을 계속 편집하는 것이 좋지만 이 코드 편집기는 필요한 경우 유연하게 편집할 수 있습니다.
