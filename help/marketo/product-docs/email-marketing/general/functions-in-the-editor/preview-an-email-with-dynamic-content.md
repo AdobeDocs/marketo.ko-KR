@@ -3,7 +3,7 @@ unique-page-id: 1900548
 description: 다이내믹 컨텐츠로 이메일 미리 보기 - 마케팅 문서 - 제품 설명서
 title: 동적 컨텐츠가 포함된 이메일 미리 보기
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: 0f0217a88929661798015b51a26259a973f9f6ea
 workflow-type: tm+mt
 source-wordcount: '115'
 ht-degree: 0%
@@ -19,7 +19,8 @@ ht-degree: 0%
 
    ![](assets/one-3.png)
 
-   보기 기준 드롭다운을 클릭하고 미리 보려는 동적 컨텐츠 유형을 선택합니다.
+1. 보기 기준 드롭다운을 클릭하고 미리 보려는 동적 컨텐츠 유형을 선택합니다.
+
    ![](assets/two-3.png)
 
 1. 새 드롭다운이 나타납니다. 클릭하여 특정 컨텐츠를 선택합니다.
