@@ -3,7 +3,7 @@ unique-page-id: 37355755
 description: 컨텐츠 잠금 - 마케팅 문서 - 제품 설명서
 title: 컨텐츠 잠금
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: 0f0217a88929661798015b51a26259a973f9f6ea
 workflow-type: tm+mt
 source-wordcount: '103'
 ht-degree: 0%
@@ -27,7 +27,6 @@ ht-degree: 0%
 
    ![](assets/two-4.png)
 
-1. 아래로 스크롤하여 컨텐츠 잠금. 슬라이더를 켜면 *팀 구성원이 템플릿 및/또는 캠페인을 만들거나 편집할 수 없게 됩니다.*
+1. 아래로 스크롤하여 컨텐츠 잠금. 슬라이더를 켜면 _팀 구성원이 템플릿 및/또는 캠페인을 만들거나 편집할 수 없게 됩니다._
 
    ![](assets/three-4.png)
-
