@@ -3,9 +3,9 @@ unique-page-id: 2952678
 description: 알림 정보 토큰 보내기 {{SP_Send_Alert_Info} - Marketing Docs - 제품 설명서 사용
 title: 알림 정보 토큰 보내기 사용
 translation-type: tm+mt
-source-git-commit: d7d6aee63144c472e02fe0221c4a164183d04dd4
+source-git-commit: 0f0217a88929661798015b51a26259a973f9f6ea
 workflow-type: tm+mt
-source-wordcount: '265'
+source-wordcount: '264'
 ht-degree: 0%
 
 ---
@@ -17,13 +17,15 @@ ht-degree: 0%
 
 >[!TIP]
 >
->이 토큰은 [경고 보내기](../../../../product-docs/core-marketo-concepts/smart-campaigns/flow-actions/send-alert.md) 흐름 단계로 포함된 이메일을 보낼 때만 작동합니다. 이메일 보내기 흐름 단계에서 사용하면 작동하지 않습니다.
+>이 토큰은 [경고 보내기](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/send-alert.md) 흐름 단계로 포함된 이메일을 보낼 때만 작동합니다. 이메일 보내기 흐름 단계에서 사용하면 작동하지 않습니다.
 
-경고 예:   ![](assets/image2014-9-25-15-3a17-3a58.png)
+경고 예:
+
+![](assets/image2014-9-25-15-3a17-3a58.png)
 
 >[!NOTE]
 >
->어서! 경고의 URL에는 만료 날짜가 있으므로 이러한 유형의 메시지를 지원하는 케이지가 있는지 확인합니다. 만료 날짜는 관리자](../../../../product-docs/administration/settings/edit-link-expiration-in-reports-and-alerts.md)에 의해 구성된 [입니다.
+>어서! 경고의 URL에는 만료 날짜가 있으므로 이러한 유형의 메시지를 지원하는 케이지가 있는지 확인합니다. 만료 날짜는 관리자](/help/marketo/product-docs/administration/settings/edit-link-expiration-in-reports-and-alerts.md)에 의해 구성된 [입니다.
 
 다음 정보가 `{{SP_Send_Alert_Info}}`의 일부로 포함됩니다.
 
@@ -59,8 +61,6 @@ ht-degree: 0%
    ![](assets/image2014-9-25-15-3a19-3a24.png)
 
 >[!NOTE]
->
->**미리 알림**
 >
 >이메일 승인을 잊지 마십시오.
 
