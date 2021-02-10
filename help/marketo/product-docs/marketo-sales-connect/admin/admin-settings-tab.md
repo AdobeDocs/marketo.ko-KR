@@ -3,9 +3,9 @@ unique-page-id: 14352404
 description: 관리 설정 탭 - 마케팅 문서 - 제품 설명서
 title: 관리 설정 탭
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: 0f0217a88929661798015b51a26259a973f9f6ea
 workflow-type: tm+mt
-source-wordcount: '180'
+source-wordcount: '191'
 ht-degree: 0%
 
 ---
@@ -17,7 +17,7 @@ ht-degree: 0%
 
 내 팀에 대해 **모든 Salesforce 동기화 설정 무시** 확인란을 선택하면 BCC를 통해서만 로깅을 허용하거나 API를 통해서만 로깅을 허용하는 옵션이 표시됩니다.
 
-**API 로깅**&#x200B;을 선택하는 경우 기회, 리드, 연락처 `will be set for the entire team after you click **Save Changes**.`에 대해 선택된 모든 설정
+**API 로깅**&#x200B;을 선택하는 경우 **변경 내용 저장**&#x200B;을 클릭하면 기회, 리드, 연락처에 대해 선택된 모든 설정이 전체 팀에 대해 설정됩니다.
 
 여기에서 팀 전반에서 기회 및 작업 동기화를 대량 활성화할 수도 있습니다.
 
@@ -25,12 +25,14 @@ ht-degree: 0%
 >
 >이러한 설정을 대량으로 활성화하면 팀의 Salesforce 설정에서 많은 API 호출이 사용됩니다.
 
-1 - &quot;내 팀 설정 구성&quot;을 활성화합니다.
+1. &quot;내 팀의 설정 구성&quot;을 활성화합니다.
 
-2 - 팀 전체 동기화 설정 사용
+1. 팀 전체 동기화 설정을 활성화합니다.
 
-3 - 이메일 활동 및 최근 MSE 활동이 SFDC에 로깅되는 방식을 구성합니다.
+1. 이메일 활동 및 최근 MSE 활동이 SFDC에 로깅되는 방식을 구성합니다.
 
-4 - &quot;Sales Connect 작업 동기화&quot;가 선택 사항입니다.
+1. &quot;Sales Connect 작업 동기화&quot; 활성화는 선택 사항입니다.
 
-(참고:SFDC가 작업을 수행하지 않는 동안 MSE를 사용하면 작업을 건너뛸 수 있으므로 SFDC에서 작업을 건너뛴 방법을 결정해야 합니다.)
+>[!NOTE]
+>
+>MSC에서는 SFDC가 작업을 건너뛰지 않을 때 작업을 건너뛸 수 있으므로 SFDC에서 작업을 건너뛰는 방법을 결정해야 합니다.
