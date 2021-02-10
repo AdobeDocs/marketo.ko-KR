@@ -3,7 +3,7 @@ unique-page-id: 10096400
 description: 이메일 템플릿 만들기 - 마케팅 문서 - 제품 설명서
 title: 이메일 템플릿 만들기
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 0f0217a88929661798015b51a26259a973f9f6ea
 workflow-type: tm+mt
 source-wordcount: '243'
 ht-degree: 0%
@@ -71,5 +71,4 @@ ht-degree: 0%
 
 >[!MORELIKETHIS]
 >
->[이메일 템플릿 구문](email-template-syntax.md)
-
+>[이메일 템플릿 구문](/help/marketo/product-docs/email-marketing/general/email-editor-2/email-template-syntax.md)
