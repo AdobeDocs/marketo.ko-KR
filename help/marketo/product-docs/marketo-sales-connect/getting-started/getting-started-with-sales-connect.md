@@ -3,9 +3,9 @@ unique-page-id: 13796466
 description: Sales Connect 시작하기 - Marketing Docs - 제품 설명서
 title: Sales Connect 시작하기
 translation-type: tm+mt
-source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
+source-git-commit: 0f0217a88929661798015b51a26259a973f9f6ea
 workflow-type: tm+mt
-source-wordcount: '637'
+source-wordcount: '635'
 ht-degree: 0%
 
 ---
@@ -16,7 +16,6 @@ ht-degree: 0%
 이 단계를 읽기보다는 시청하려면 [비디오 지침 아래](#video)으로 바로 건너뛰어 보십시오.
 
 >[!AVAILABILITY]
->
 >
 >모든 고객이 이 기능을 구입하지는 않았습니다. 자세한 내용은 고객 성공 관리자에게 문의하십시오.
 
@@ -129,7 +128,3 @@ Marketing To Sales Connect를 Marketing To Sandbox와 함께 테스트하려는 
 >[!NOTE]
 >
 >동일한 이메일 ID로 Sales Connect 계정을 여러 인스턴스에 제공할 수 없습니다. 즉, Marketing To Sandbox 인스턴스와 함께 테스트하기 위해 추가 Sales Connect 계정이 필요한 경우 각 계정에서 다른 이메일 ID를 사용해야 합니다.
-
-## 비디오 지침 {#video-instructions}
-
-`<iframe width="630" height="470" src="//play.vidyard.com/w5RY7iMPpEfUYQ4Fp8WUKR.html?v=3.1.1" frameborder="0" allowfullscreen></iframe>`
