@@ -3,7 +3,7 @@ unique-page-id: 5472678
 description: 라틴 문자 목록 가져오기 - 마케팅 문서 - 제품 설명서
 title: 라틴 문자 목록 가져오기
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: 0f0217a88929661798015b51a26259a973f9f6ea
 workflow-type: tm+mt
 source-wordcount: '307'
 ht-degree: 0%
