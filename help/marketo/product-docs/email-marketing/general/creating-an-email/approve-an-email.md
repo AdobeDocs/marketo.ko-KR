@@ -3,7 +3,7 @@ unique-page-id: 1147342
 description: 이메일 승인 - 마케팅 문서 - 제품 설명서
 title: 이메일 승인
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: 0f0217a88929661798015b51a26259a973f9f6ea
 workflow-type: tm+mt
 source-wordcount: '103'
 ht-degree: 0%
@@ -19,8 +19,7 @@ ht-degree: 0%
 
 1. 이메일을 찾아 선택하고 **이메일 작업** 드롭다운을 클릭한 다음 **승인**&#x200B;을 선택합니다.
 
-   ` ![](assets/one.png)  
-`
+   ![](assets/one.png)
 
 ## {#approve-it-directly-in-the-tree} 트리에서 직접 승인
 
