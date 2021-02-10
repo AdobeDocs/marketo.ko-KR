@@ -3,7 +3,7 @@ unique-page-id: 1900589
 description: 텍스트 이메일에 추적된 링크 추가 - 마케팅 문서 - 제품 설명서
 title: 텍스트 이메일에 추적된 링크 추가
 translation-type: tm+mt
-source-git-commit: efadb7eb3845012c273e1a60f9cd98ac884eb543
+source-git-commit: 0f0217a88929661798015b51a26259a973f9f6ea
 workflow-type: tm+mt
 source-wordcount: '117'
 ht-degree: 0%
