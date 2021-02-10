@@ -3,9 +3,9 @@ unique-page-id: 11371040
 description: 이메일 템플릿 구문 - 마케팅 문서 - 제품 설명서
 title: 이메일 템플릿 구문
 translation-type: tm+mt
-source-git-commit: f27e2bac90570f9f795dc6bdd5fcf208c446be14
+source-git-commit: 0f0217a88929661798015b51a26259a973f9f6ea
 workflow-type: tm+mt
-source-wordcount: '2397'
+source-wordcount: '2395'
 ht-degree: 0%
 
 ---
@@ -36,7 +36,7 @@ Marketing to 이메일 구문은 템플릿과 개별 이메일만 작동합니�
 
 ## 서식 있는 텍스트 {#rich-text}
 
-영역을 리치 텍스트로 정의하면 사용자는 Marketing의 리치 텍스트 편집기](../../../../product-docs/email-marketing/general/understanding-the-email-editor/using-the-rich-text-editor.md)를 사용하여 [의 컨텐츠를 편집할 수 있습니다. 이메일 템플릿 내에는 두 가지 방법으로 리치 텍스트 요소를 정의할 수 있습니다.mktEditable 및 mktoText. 항상 이메일 편집기 내에서 리치 텍스트 요소를 코드 조각으로 변환할 수 있습니다.
+영역을 리치 텍스트로 정의하면 사용자는 Marketing의 리치 텍스트 편집기](/help/marketo/product-docs/email-marketing/general/understanding-the-email-editor/using-the-rich-text-editor.md)를 사용하여 [의 컨텐츠를 편집할 수 있습니다. 이메일 템플릿 내에는 두 가지 방법으로 리치 텍스트 요소를 정의할 수 있습니다.mktEditable 및 mktoText. 항상 이메일 편집기 내에서 리치 텍스트 요소를 코드 조각으로 변환할 수 있습니다.
 
 ### 옵션 1 - mktEditable {#option-mkteditable}
 
@@ -81,7 +81,7 @@ class=&quot;mktoText&quot;가 포함된 HTML 요소 내의 컨텐츠는 리치 �
 
 편집 가능한 이미지 요소를 정의하는 두 가지 옵션이 있습니다. `<img>`이(가) 삽입할 컨테이너를 지정하는 `<div>` 또는 `<img>` 태그를 사용할 수 있습니다. 최종 사용자가 이미지 URL(DOM과 반대)을 반환하는 이미지를 선택하기만 하면 아래 섹션에 있는 &quot;이미지 변수&quot;를 참조하십시오. 다음 두 옵션은 HTML `<img>` 요소를 삽입합니다.
 
-### 옵션 1 - \&lt;div\> {#option-use-a-div} 사용
+### 옵션 1 - `<div>` {#option-use-a-div} 사용
 
 필수 속성
 
@@ -128,7 +128,7 @@ class=&quot;mktoText&quot;가 포함된 HTML 요소 내의 컨텐츠는 리치 �
 
 ## 코드 조각 {#snippets}
 
-영역을 코드 조각으로 정의하는 경우 최종 사용자는 이 영역에 삽입할 승인된 [조각](../../../../product-docs/email-marketing/general/functions-in-the-editor/add-a-snippet-to-an-email.md)을 선택할 수 있습니다. 이메일 편집기 내에서 리치 텍스트 요소를 코드 조각으로 변환할 수 있지만 특정 영역을 코드 조각으로 정의하면 리치 텍스트로 변환할 수 없습니다. class=&quot;mktoSnippet&quot;인 `<div>`을 사용하여 코드 단편 영역을 지정할 수 있습니다.
+영역을 코드 조각으로 정의하는 경우 최종 사용자는 이 영역에 삽입할 승인된 [조각](/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/add-a-snippet-to-an-email.md)을 선택할 수 있습니다. 이메일 편집기 내에서 리치 텍스트 요소를 코드 조각으로 변환할 수 있지만 특정 영역을 코드 조각으로 정의하면 리치 텍스트로 변환할 수 없습니다. class=&quot;mktoSnippet&quot;인 `<div>`을 사용하여 코드 단편 영역을 지정할 수 있습니다.
 
 필수 속성
 
@@ -351,8 +351,6 @@ class=&quot;mktoModule&quot;의 `<table>`을(를) 사용하여 지정됨
 * **mktoAddByDefault:** 이 모듈이 만들 때 이 템플릿을 사용하는 새 이메일의 캔버스에 있는지 여부를 결정합니다. 기본값은 true입니다(mktoActive가 false이면 이 값은 무시됩니다.).
 
 >[!NOTE]
->
->**미리 알림**
 >
 >Marketing 구문(예: mktoModule, mktoContainer, mktoText)을 포함하는 클래스 값은 대/소문자를 구분합니다. 사용자 지정 속성 이름(예: mktoimgwidth, mktoname)은 그렇지 않습니다.
 
