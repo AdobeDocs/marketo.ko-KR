@@ -3,7 +3,7 @@ unique-page-id: 1147356
 description: 이메일 이벤트 로깅 이해 - 마케팅 문서 - 제품 설명서
 title: 이메일 이벤트 로깅 이해
 translation-type: tm+mt
-source-git-commit: d7d6aee63144c472e02fe0221c4a164183d04dd4
+source-git-commit: 0f0217a88929661798015b51a26259a973f9f6ea
 workflow-type: tm+mt
 source-wordcount: '300'
 ht-degree: 0%
@@ -28,4 +28,3 @@ ht-degree: 0%
 >[!CAUTION]
 >
 >동일한 캠페인에서 동일한 사람에게 동일한 전자 메일이 두 번 전송되는 경우, **Opened** 이벤트는 최대 1회까지 기록됩니다.
-
