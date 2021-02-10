@@ -3,7 +3,7 @@ unique-page-id: 2359587
 description: Champion/Challener -이메일 테스트 무시 - Marketing To Docs - 제품 설명서
 title: 챔피언/도전자 -이메일 테스트 무시
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 0f0217a88929661798015b51a26259a973f9f6ea
 workflow-type: tm+mt
 source-wordcount: '89'
 ht-degree: 0%
@@ -17,11 +17,7 @@ ht-degree: 0%
 
 >[!PREREQUISITES]
 >
->* [챔피언/도전자:이메일 테스트 승인](champion-challenger-approve-your-email-test.md)
-
->
-
-
+>[챔피언/도전자:이메일 테스트 승인](/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/email-tests-champion-challenger/champion-challenger-approve-your-email-test.md)
 
 1. **마케팅 활동**&#x200B;으로 이동합니다.
 
@@ -33,9 +29,6 @@ ht-degree: 0%
 
 1. **삭제**&#x200B;를 클릭하여 확인합니다.
 
-   &#39; ![](assets/image2014-9-15-14-3a17-3a11.png)
+   ![](assets/image2014-9-15-14-3a17-3a11.png)
 
-   &#39;
-
-   다 끝났어! 테스트를 다시 설정하기로 결정한 경우 [이메일 챔피언/도전자](add-an-email-champion-challenger.md)을(를) 추가합니다.
-
+   다 끝났어! 테스트를 다시 설정하기로 결정한 경우 [이메일 챔피언/도전자](/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/email-tests-champion-challenger/add-an-email-champion-challenger.md)을(를) 추가합니다.
