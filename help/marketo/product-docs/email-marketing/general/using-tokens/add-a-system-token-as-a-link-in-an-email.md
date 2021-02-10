@@ -3,9 +3,9 @@ unique-page-id: 1900573
 description: 이메일 - 마케팅 문서 - 제품 설명서의 링크로 시스템 토큰 추가
 title: 전자 메일에 있는 링크로 시스템 토큰 추가
 translation-type: tm+mt
-source-git-commit: 5c9683c6b00ccbf9e9d606fd4513432c9872ad00
+source-git-commit: 0f0217a88929661798015b51a26259a973f9f6ea
 workflow-type: tm+mt
-source-wordcount: '174'
+source-wordcount: '173'
 ht-degree: 0%
 
 ---
@@ -53,8 +53,6 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->**미리 알림**
->
->작업이 완료되면 [이메일](../../../../product-docs/email-marketing/general/creating-an-email/approve-an-email.md)을 승인하십시오.
+>작업이 완료되면 [이메일](/help/marketo/product-docs/email-marketing/general/creating-an-email/approve-an-email.md)을 승인하십시오.
 
 잘했다! 이제 시스템 토큰을 이메일의 링크로 추가하는 방법을 알 수 있습니다.
