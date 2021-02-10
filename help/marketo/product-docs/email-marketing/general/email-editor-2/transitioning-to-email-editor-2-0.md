@@ -3,7 +3,7 @@ unique-page-id: 11373011
 description: 이메일 편집기 2.0으로 전환 - 마케팅 문서 - 제품 설명서
 title: 이메일 편집기 2.0으로 전환
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 0f0217a88929661798015b51a26259a973f9f6ea
 workflow-type: tm+mt
 source-wordcount: '631'
 ht-degree: 0%
@@ -13,7 +13,7 @@ ht-degree: 0%
 
 # 이메일 편집기 2.0 {#transitioning-to-email-editor}으로 전환
 
-[6월 19일 릴리스](../../../../release-notes/2016/release-notes-spring-16.md)부터 모든 Marketing 구독이 전자 메일 편집기 2.0으로 전환되었습니다. 전자 메일 편집기 1.0의 사용 중단에 대해 [자세히 알아보기](https://nation.marketo.com/docs/DOC-7038).
+[6월 19일 릴리스](/help/marketo/release-notes/2016/release-notes-spring-16.md)부터 모든 Marketing 구독이 전자 메일 편집기 2.0으로 전환되었습니다. 전자 메일 편집기 1.0의 사용 중단에 대해 [자세히 알아보기](https://nation.marketo.com/docs/DOC-7038).
 
 구독 내의 이메일 및 이메일 템플릿에는 버전 번호가 있어야 합니다. 버전은 자산의 요약 페이지에서 찾을 수 있습니다.
 
@@ -27,13 +27,13 @@ ht-degree: 0%
 이메일 편집기 2.0으로 이동하기 전에 구독에 v1.0 이메일이 있는 경우, 자산의 현재 상태에 따라 다음 동작이 발생합니다.
 
 **승인됨**  - &quot;초안 편집&quot;을 클릭하면 승인된 이메일의 v2.0 초안이 생성됩니다. 그런 다음 v2.0 초안을 승인하면, 승인된 이메일 상태가 v2.0이 되고 v1.0으로 돌아갈 방법이 없습니다.\
-**초안**  - &quot;초안 편집&quot;을 클릭하면 해당 초안이 v2.0으로 자동으로 표시됩니다. 이 시점에서 승인된 버전의 자산이 없으므로 버리거나 v1.0으로 되돌릴 수 없습니다.\
+**초안**  - &quot;초안 편집&quot;을 클릭하면 해당 초안이 v2.0으로 자동으로 표시됩니다. 이 시점에서 승인된 버전의 자산이 없으므로 버리거나 v1.0으로 되돌릴 수 없습니다.
 **초안**  - &quot;초안 편집&quot;을 클릭하면 해당 초안이 v2.0으로 자동으로 표시됩니다. 이로 인해 초안을 v1.0으로 되돌릴 방법이 없습니다.
 
 이메일 편집기 2.0으로 이동하기 전에 구독에 v1.0 이메일 템플릿이 있는 경우 다음 비헤이비어가 발생합니다.
 
-**승인됨**  - &quot;초안 편집&quot;을 클릭하면 기존 이메일 템플릿의 v2.0 초안이 만들어집니다.\
-**초안**  - &quot;초안 편집&quot;을 클릭하면 해당 초안이 v2.0으로 자동으로 표시됩니다. 이 시점에서 승인된 버전의 자산이 없으므로 버리거나 v1.0으로 되돌릴 수 없습니다.\
+**승인됨**  - &quot;초안 편집&quot;을 클릭하면 기존 이메일 템플릿의 v2.0 초안이 만들어집니다.
+**초안**  - &quot;초안 편집&quot;을 클릭하면 해당 초안이 v2.0으로 자동으로 표시됩니다. 이 시점에서 승인된 버전의 자산이 없으므로 버리거나 v1.0으로 되돌릴 수 없습니다.
 **초안으로 승인됨**  - &quot;초안 편집&quot;을 클릭하면 초안이 v2.0으로 자동으로 표시됩니다. 이로 인해 초안을 v1.0으로 되돌릴 방법이 없습니다.
 
 위의 상태 중 하나에서 이전에 v1.0이었던 이메일 템플릿을 승인하면 다음 동작이 표시됩니다.
@@ -62,10 +62,6 @@ ht-degree: 0%
 
 >[!MORELIKETHIS]
 >
->* [이메일 편집기 2.0 개요](email-editor-v2-0-overview.md)
->* [이메일 템플릿 구문](email-template-syntax.md)
-
->
-
-
+>* [이메일 편집기 2.0 개요](/help/marketo/product-docs/email-marketing/general/email-editor-2/email-editor-v2-0-overview.md)
+>* [이메일 템플릿 구문](/help/marketo/product-docs/email-marketing/general/email-editor-2/email-template-syntax.md)
 
