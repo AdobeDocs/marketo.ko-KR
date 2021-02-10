@@ -3,7 +3,7 @@ unique-page-id: 2359469
 description: 이메일 프로그램 대시보드 - 마케팅 문서 - 제품 설명서 보기
 title: 이메일 프로그램 대시보드 보기
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 0f0217a88929661798015b51a26259a973f9f6ea
 workflow-type: tm+mt
 source-wordcount: '150'
 ht-degree: 0%
@@ -47,10 +47,6 @@ A/B 테스트 유무와 상관없이 이메일 프로그램이 이 대시보드�
 
 >[!MORELIKETHIS]
 >
->* [이메일 프로그램 대시보드 - A/B 테스트 보기 사용](../../../../product-docs/email-marketing/email-programs/email-program-actions/email-test-a-b-test/use-the-email-program-dashboard-a-b-test-view.md)
->* [이메일 프로그램 대시보드 사용](use-the-email-program-dashboard.md)
-
->
-
-
+>* [이메일 프로그램 대시보드 - A/B 테스트 보기 사용](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/email-test-a-b-test/use-the-email-program-dashboard-a-b-test-view.md)
+>* [이메일 프로그램 대시보드 사용](/help/marketo/product-docs/email-marketing/email-programs/email-program-data/use-the-email-program-dashboard.md)
 
