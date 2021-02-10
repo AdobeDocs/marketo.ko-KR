@@ -3,7 +3,7 @@ unique-page-id: 1147344
 description: 시스템 토큰 용어 설명 - Marketing Docs - 제품 설명서
 title: 시스템 토큰 용어
 translation-type: tm+mt
-source-git-commit: 1c4c4c62215550a09125f76fb76017348aba2bdf
+source-git-commit: 0f0217a88929661798015b51a26259a973f9f6ea
 workflow-type: tm+mt
 source-wordcount: '242'
 ht-degree: 0%
@@ -25,9 +25,9 @@ ht-degree: 0%
 
 **작동 방식:**
 
-* [데이터 값 변경 ](../../../../product-docs/core-marketo-concepts/smart-campaigns/flow-actions/change-data-value.md) 단계
-* [흥미로운 ](../../../../product-docs/core-marketo-concepts/smart-campaigns/flow-actions/interesting-moment.md) 순간흐름 단계
-* [작업 플로우 ](../../../../product-docs/core-marketo-concepts/smart-campaigns/salesforce-flow-actions/create-task.md) 단계 만들기
+* [데이터 값 변경 ](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/change-data-value.md) 단계
+* [흥미로운 ](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/interesting-moment.md) 순간흐름 단계
+* [작업 플로우 ](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/salesforce-flow-actions/create-task.md) 단계 만들기
 * 이메일 또는 템플릿의 본문
 
 ## system.time {#system-time}
@@ -36,9 +36,9 @@ ht-degree: 0%
 
 **작동 방식:**
 
-* [데이터 값 변경 ](../../../../product-docs/core-marketo-concepts/smart-campaigns/flow-actions/change-data-value.md) 단계
-* [흥미로운 ](../../../../product-docs/core-marketo-concepts/smart-campaigns/flow-actions/interesting-moment.md) 순간흐름 단계
-* [작업 플로우 ](../../../../product-docs/core-marketo-concepts/smart-campaigns/salesforce-flow-actions/create-task.md) 단계 만들기
+* [데이터 값 변경 ](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/change-data-value.md) 단계
+* [흥미로운 ](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/interesting-moment.md) 순간흐름 단계
+* [작업 플로우 ](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/salesforce-flow-actions/create-task.md) 단계 만들기
 * 이메일 또는 템플릿의 본문
 
 ## system.dateTime {#system-datetime}
@@ -47,18 +47,18 @@ ht-degree: 0%
 
 **작동 방식:**
 
-* [데이터 값 변경 ](../../../../product-docs/core-marketo-concepts/smart-campaigns/flow-actions/change-data-value.md) 단계
-* [흥미로운 ](../../../../product-docs/core-marketo-concepts/smart-campaigns/flow-actions/interesting-moment.md) 순간흐름 단계
-* [작업 플로우 ](../../../../product-docs/core-marketo-concepts/smart-campaigns/salesforce-flow-actions/create-task.md) 단계 만들기
+* [데이터 값 변경 ](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/change-data-value.md) 단계
+* [흥미로운 ](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/interesting-moment.md) 순간흐름 단계
+* [작업 플로우 ](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/salesforce-flow-actions/create-task.md) 단계 만들기
 * 이메일 또는 템플릿의 본문
 
 ## system.forwardToFriendLink {#system-forwardtofriendlink}
 
-`{{system.forwardToFriendLink}}` 토큰을 사용하면 이메일](../../../../product-docs/email-marketing/general/functions-in-the-editor/forward-to-a-friend-link-in-emails.md)에서 [&#39;친구 링크로 전달&#39;의 배치를 제어할 수 있습니다.
+`{{system.forwardToFriendLink}}` 토큰을 사용하면 이메일](/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/forward-to-a-friend-link-in-emails.md)에서 [&#39;친구 링크로 전달&#39;의 배치를 제어할 수 있습니다.
 
 **작동 방식:**
 
-* [이메일 템플릿의 링크로 시스템 토큰 ](add-a-system-token-as-a-link-in-an-email.md) 추가
+* [이메일 템플릿의 링크로 시스템 토큰 ](/help/marketo/product-docs/email-marketing/general/using-tokens/add-a-system-token-as-a-link-in-an-email.md) 추가
 
 ## system.unsubscribeLink {#system-unsubscribelink}
 
@@ -66,7 +66,7 @@ ht-degree: 0%
 
 **작동 방식:**
 
-* [이메일 템플릿의 링크로 시스템 토큰 ](add-a-system-token-as-a-link-in-an-email.md) 추가
+* [이메일 템플릿의 링크로 시스템 토큰 ](/help/marketo/product-docs/email-marketing/general/using-tokens/add-a-system-token-as-a-link-in-an-email.md) 추가
 
 ## system.viewAsWebpageLink {#system-viewaswebpagelink}
 
@@ -74,4 +74,4 @@ ht-degree: 0%
 
 **사용 방법:**
 
-* [이메일 템플릿의 링크로 시스템 토큰 ](add-a-system-token-as-a-link-in-an-email.md) 추가
+* [이메일 템플릿의 링크로 시스템 토큰 ](/help/marketo/product-docs/email-marketing/general/using-tokens/add-a-system-token-as-a-link-in-an-email.md) 추가
