@@ -3,9 +3,9 @@ unique-page-id: 14352543
 description: 잘못된 수신자 위치 - 마케팅 문서 - 제품 설명서
 title: 잘못된 수신자 위치
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: 1dd80b7de801df78ac7dde39002455063f9979b7
 workflow-type: tm+mt
-source-wordcount: '103'
+source-wordcount: '107'
 ht-degree: 0%
 
 ---
@@ -19,4 +19,4 @@ ht-degree: 0%
 
 -CC 또는 숨은 참조 필드에 있는 사람이 귀하의 이메일을 전달했거나 열었을 경우, 해당 사람의 위치를 정확하게 표시하려고 합니다.
 
-전체적으로 IP 추적을 기반으로 할 수 있는 한 정확한 위치를 판단하지만 안타깝게도 `isn't an exact science`입니다.
+전체적으로 IP 추적을 기반으로 할 수 있는 한 정확한 위치를 정할 수 있지만, 안타깝게도 정확한 과학이 아닙니다.
