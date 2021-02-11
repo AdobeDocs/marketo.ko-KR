@@ -3,9 +3,9 @@ unique-page-id: 14746188
 description: Salesforce 가입 해지 동기화 - Marketing To Docs - 제품 설명서
 title: Salesforce 가입 해지 동기화
 translation-type: tm+mt
-source-git-commit: 313266a67243f0c70c25010cb4825efb7f3db0ab
+source-git-commit: 1dd80b7de801df78ac7dde39002455063f9979b7
 workflow-type: tm+mt
-source-wordcount: '436'
+source-wordcount: '438'
 ht-degree: 0%
 
 ---
@@ -31,7 +31,7 @@ Sales Connect에서 가입 해지가 수집되면 Salesforce에 실시간으로 
 
 사용자는 자신의 구독을 Marketing To와 동기화할 수 있는 표준 이메일 옵트아웃 필드와 동기화할지 또는 판매 구독 취소 및 마케팅 구독자를 차별화할 수 있도록 Marketing To 판매 옵트아웃 필드와 동기화할 수 있는지 결정할 수 있습니다.
 
-1. [웹 응용 프로그램](http://toutapp.com/login)으로 이동하여 톱니바퀴 아이콘을 클릭하고 **설정**&#x200B;을 선택합니다.
+1. [웹 응용 프로그램](https://toutapp.com/login)으로 이동하여 톱니바퀴 아이콘을 클릭하고 **설정**&#x200B;을 선택합니다.
 
    ![](assets/one-1.png)
 
@@ -47,8 +47,9 @@ Sales Connect에서 가입 해지가 수집되면 Salesforce에 실시간으로 
 
    ![](assets/4.png)
 
-   | **Salesforce 옵트아웃 필드에 동기화** | 기본적으로 선택되어 있는 경우 Salesforce 옵트아웃 필드만 업데이트합니다. |
+   | 필드 | 설명 |
    |---|---|
+   | **Salesforce 옵트아웃 필드에 동기화** | 기본적으로 선택되어 있는 경우 Salesforce 옵트아웃 필드만 업데이트합니다. |
    | **Marketing To Sales Opt Out 필드와 동기화** | 판매 및 마케팅 구독을 분리하려면 이 옵션을 선택하여 추가 [마케팅 영업 그만두기 필드를 업데이트합니다.](#msoo) |
 
 ## 페이지 레이아웃 {#installing-the-opt-out-field-in-the-page-layout}에 그만두기 필드 설치
@@ -57,7 +58,7 @@ Sales Connect에서 가입 해지가 수집되면 Salesforce에 실시간으로 
 
 이메일 옵트아웃은 Salesforce에서 설치할 수 있는 Salesforce의 표준 필드입니다. 설치하려면 Salesforce 관리자여야 합니다.
 
-1. [Salesforce.com](http://Salesforce.com)으로 이동하여 로그인합니다.
+1. [Salesforce.com](https://salesforce.com)으로 이동하여 로그인합니다.
 
    ![](assets/five-1.png)
 
