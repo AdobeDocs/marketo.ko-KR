@@ -3,7 +3,7 @@ unique-page-id: 14746161
 description: 구독 취소 개요 - Marketing To Docs - 제품 설명서
 title: 구독 취소 개요
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: 1dd80b7de801df78ac7dde39002455063f9979b7
 workflow-type: tm+mt
 source-wordcount: '95'
 ht-degree: 0%
@@ -20,4 +20,3 @@ ht-degree: 0%
 * 구독 취소 정보는 PDV에 저장됩니다.
 * 가입은 수동으로 수행할 수 있습니다.클릭한 링크, Salesforce 동기화 및 바운스
 * 새로운 가입 해지 링크 랜딩 페이지
-
