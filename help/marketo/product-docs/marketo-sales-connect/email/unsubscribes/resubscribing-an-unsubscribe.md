@@ -3,7 +3,7 @@ unique-page-id: 14746177
 description: 구독 취소 재가입 - Marketing To Docs - 제품 설명서
 title: 가입 해지 다시 가입
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: 1dd80b7de801df78ac7dde39002455063f9979b7
 workflow-type: tm+mt
 source-wordcount: '136'
 ht-degree: 0%
@@ -27,7 +27,8 @@ ht-degree: 0%
 >
 >구독 취소 동기화 기능이 켜져 있는 경우 OutApp의 가입 해지를 제거하고 Salesforce에서 옵트아웃을 선택 취소하여 개인 레코드가 다시 동기화되지 않도록 해야 합니다.
 
-1. [웹 응용 프로그램](http://toutapp.com/login)으로 이동하고 **사용자**&#x200B;를 클릭합니다.
+1. [웹 응용 프로그램](https://toutapp.com/login)으로 이동하고 **사용자**&#x200B;를 클릭합니다.
+
 1. 개인 상세내역 뷰를 열 개인을 선택합니다.
 
    ![](assets/two.png)
@@ -39,4 +40,3 @@ ht-degree: 0%
 1. 받는 사람이 이메일을 받기 위해 다시 옵트인되는 이유를 선택한 다음 **구독 취소**&#x200B;를 클릭합니다.
 
    ![](assets/four.png)
-
