@@ -3,9 +3,9 @@ unique-page-id: 45417460
 description: 팀원에게 작업 할당 - 마케팅 문서 - 제품 설명서
 title: 팀원에게 작업 할당
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 1dd80b7de801df78ac7dde39002455063f9979b7
 workflow-type: tm+mt
-source-wordcount: '147'
+source-wordcount: '139'
 ht-degree: 0%
 
 ---
@@ -17,7 +17,7 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->공유 연락처에 대한 작업만 할당할 수 있습니다. 공유 작업을 공동 작업하기 전에 [팀 구성원과 연락처 그룹](http://docs.marketo.com/x/fwDb)을 공유할 수 있습니다.
+>공유 연락처에 대한 작업만 할당할 수 있습니다. 공유 작업을 공동 작업하기 전에 [팀 구성원과 연락처 그룹](/help/marketo/product-docs/marketo-sales-connect/people/managing-contacts/how-to-share-a-group.md)을 공유할 수 있습니다.
 
 1. **명령 센터**&#x200B;를 클릭합니다.
 
@@ -57,5 +57,4 @@ ht-degree: 0%
 
 >[!MORELIKETHIS]
 >
->[그룹을 공유하는 방법](http://docs.marketo.com/x/fwDb)
-
+>[그룹을 공유하는 방법](/help/marketo/product-docs/marketo-sales-connect/people/managing-contacts/how-to-share-a-group.md)
