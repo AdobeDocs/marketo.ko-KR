@@ -3,9 +3,9 @@ unique-page-id: 14745730
 description: Salesforce 진단 - Marketing To Docs - 제품 설명서
 title: Salesforce 진단
 translation-type: tm+mt
-source-git-commit: 44ed91b485b52173922c709de63a4353e16c5072
+source-git-commit: 1dd80b7de801df78ac7dde39002455063f9979b7
 workflow-type: tm+mt
-source-wordcount: '1426'
+source-wordcount: '1427'
 ht-degree: 0%
 
 ---
@@ -50,7 +50,7 @@ Salesforce 통합의 일부로 웹 애플리케이션 내에 Salesforce 진단 �
 **범주:** 기타\
 **메시지:변환된 리드를 참조할** 수 없습니다.\
 **현재** 사항: 연락처 및 리드에 대한 최근 활동 로깅 중 전환된 리드에 기록하려고 합니다. 이 중 몇 가지를 투구로 보았습니다.\
-**문제 해결 단계:** 이 경우 Adobe  [지원 팀에 보고해 주십시오](http://nation.marketo.com/community/support_solutions).
+**문제 해결 단계:** 이 경우 Adobe  [지원 팀에 보고해 주십시오](https://nation.marketo.com/t5/Support/ct-p/Support).
 
 <br> 
 
@@ -65,7 +65,7 @@ Salesforce 통합의 일부로 웹 애플리케이션 내에 Salesforce 진단 �
 **오류:** EXPIRED_ACCESS 
 **범주:** 인증 
 **메시지:** invalid_grant:만료된 액세스/새로 고침 토큰 
-**발생 사항:** 액세스 또는 새로 고침 토큰이 만료되었습니다. 토큰은 Salesforce](http://salesforce.stackexchange.com/questions/10759/invalid-grant-expired-access-refresh-token-error-when-authenticating-access-via)의 [세션 설정을 기반으로 만료됩니다.
+**발생 사항:** 액세스 또는 새로 고침 토큰이 만료되었습니다. 토큰은 Salesforce](https://salesforce.stackexchange.com/questions/10759/invalid-grant-expired-access-refresh-token-error-when-authenticating-access-via)의 [세션 설정을 기반으로 만료됩니다.
 **문제 해결 단계:** 다시 인증해야 합니다. Salesforce 연결을 끊고 다시 연결합니다.
 
 <br> 
@@ -129,9 +129,9 @@ Salesforce 통합의 일부로 웹 애플리케이션 내에 Salesforce 진단 �
 <br> 
 
 **오류:** INCOMPENSE_ACCESS_OR_READONLY\
-**범주:** 액세스/유효성 검사** ** 
-**메시지:객체 id**에** 대한 액세스 권한** 
-**부족한 기능:** 가장 최근 활동 로깅은 사용자에게 쓰기 액세스 권한이 없으므로 특정 레코드를 편집할 수 없습니다.\
+**카테고리:** 액세스/유효성 
+**메시지:개체 ID에** 대한 액세스 권한 
+**부족:** 최근 활동 로깅은 사용자에게 쓰기 액세스 권한이 없으므로 특정 레코드를 편집할 수 없습니다.\
 **문제 해결 단계:** Salesforce에서 사용자 액세스 권한을 부여하거나 해당 사용자에 대해 해당 개체에 대해 최근 활동 기록을 사용하지 않도록 설정합니다.
 
 **오류:** INVALID_FIELD\
@@ -142,7 +142,7 @@ Salesforce 통합의 일부로 웹 애플리케이션 내에 Salesforce 진단 �
 
 **오류:** INVALID_FIELD_FOR_INSERT_UPDATE\
 **범주:** 액세스/유효성 검사\
-**메시지:** 필드를 만들거나 업데이트할 수 없습니다.ToutApp__Tout_Last_Responed__c.이 필드의 보안 설정을 확인하십시오.\
+**메시지:** 필드를 만들거나 업데이트할 수 없습니다.ToutApp__Tout_Last_Responed__c.이 필드의 보안 설정을 확인하십시오.
 **발생 사항:** 사용자는 최근 활동 로깅 트랜잭션을 수행하는 데 필요한 체크아웃 사용자 정의 필드에 대한 쓰기 액세스 권한이 없습니다. 팀에서 패키지를 설치했을 수 있지만 사용자에 대해 올바른 필드를 사용하도록 설정하지 않았습니다.\
 **문제 해결 단계:** Salesforce 관리자는 사용자 정의 필드에 대한 액세스 권한을 부여하거나 최근 활동 로깅을 해제해야 합니다.
 
@@ -154,8 +154,8 @@ Salesforce 통합의 일부로 웹 애플리케이션 내에 Salesforce 진단 �
 
 **오류:** INVALID_TYPE\
 **범주:** 액세스/유효성 검사\
-**메시지:** CreatedDate, (작업에서 ID 선택) FROM 리드 LEAD WHERE Email=&#39;emailid&#39;^ERROR(행:1:Column:53sObject 유형 &#39;Lead&#39;는 지원되지 않습니다. 사용자 지정 개체를 사용하려고 하는 경우 개체 이름 뒤에 &#39;__c&#39;를 추가해야 합니다. WSDL 또는 적절한 이름에 대한 설명 호출을 참조하십시오.\
-**일어나고 있는** 사항: 사용자가 액세스할 수 없는 Salesforce의 개체 유형을 쿼리하려고 합니다. 이것은 사용자가 리드 개체에 대한 액세스 권한이 없을 가능성이 높습니다.\
+**메시지:** CreatedDate, (작업에서 ID 선택) FROM 리드 LEAD WHERE Email=&#39;emailid&#39;^ERROR(행:1:Column:53sObject 유형 &#39;Lead&#39;는 지원되지 않습니다. 사용자 지정 개체를 사용하려고 하는 경우 개체 이름 뒤에 &#39;__c&#39;를 추가해야 합니다. WSDL 또는 적절한 이름에 대한 설명 호출을 참조하십시오.
+**일어나고 있는 일:** 사용자에게 액세스 권한이 없는 Salesforce의 개체 유형을 쿼리하려고 합니다. 이것은 사용자가 리드 개체에 대한 액세스 권한이 없을 가능성이 높습니다.\
 **문제 해결 단계:** Salesforce에서 리드 개체에 대한 읽기 및 업데이트 액세스 권한을 부여하거나 리드 레코드에 대한 이메일 로깅 및 최근 활동 로깅을 해제합니다.
 
 **오류:** QUERY_TIMEOUT\
@@ -179,7 +179,7 @@ Salesforce 통합의 일부로 웹 애플리케이션 내에 Salesforce 진단 �
 
 **오류:** REQUIRED_FIELD_MISSING\
 **범주:** 액세스/유효성 검사\
-**메시지:** 필수 필드가 없습니다. [Amount_Committed_Private_Capital__c]\
+**메시지:** 필수 필드가 없습니다. `[Amount_Committed_Private_Capital__c]`
 **발생 내용: 일반적으로** 최근 활동 로깅에 대해 발생합니다. 사용자 지정 필드는 필수로 설정되었지만 값이 비어 있습니다. 사용자 지정 필드의 빈 값으로 레코드가 만들어진 후 필수 레코드로 만들어진 경우 이러한 문제가 발생할 수 있습니다. 사용자 정의 필드를 수정하지 않아도 레코드를 업데이트하려고 할 때 요구 사항이 적용됩니다.\
 **문제 해결 단계:** 누락된 필드의 값을 수동으로 업데이트합니다. 그런 다음 ToutApp에서 메시지를 다시 시도할 수 있습니다.
 
@@ -191,8 +191,8 @@ Salesforce 통합의 일부로 웹 애플리케이션 내에 Salesforce 진단 �
 
 **오류:** TXN_SECURITY_NO_ACCESS\
 **범주:** 액세스/유효성 검사\
-**메시지:** 요청한 작업은 조직의 보안 정책으로 인해 허용되지 않습니다. 관리자에게 문의하십시오.\
-**발생:** 일부 유형의 보안 제한이 설정되었습니다.  `https://developer.salesforce.com/forums/?id="record` ID 참조&quot;\
+**메시지:** 요청한 작업은 조직의 보안 정책으로 인해 허용되지 않습니다. 관리자에게 문의하십시오.<br/>
+**발생:** 일부 유형의 보안 제한이 설정되었습니다. https://developer.salesforce.com/forums/?id=&quot;레코드 ID&quot;를 참조하십시오.\
 **문제 해결 단계:** Salesforce 관리자에게 문의하여 특정 제한 사항이 있는지 확인하십시오.
 
 **오류:** UNABLE_TO_LOCK_ROW\
@@ -201,7 +201,7 @@ Salesforce 통합의 일부로 웹 애플리케이션 내에 Salesforce 진단 �
 **발생 여부:** 그룹 이메일의 경우 동일한 레코드에 액세스하려고 여러 번 시도하는 트리거가 있을 수 있습니다.\
 **문제 해결 단계:** 다시 시도 로직이 이 문제를 처리해야 합니다. 문제가 발생한 트리거를 해결하는 데 Salesforce 관리자와 함께 작업하십시오.
 
-**오류:** UNKNOWN_EXCEPTION\
+**오류:** UNKNOWN_EXCEPTION 
 **범주:** 기타\
 **메시지:** 알 수 없는 예외가 발생했습니다.\
 **Salesforce의** 처리되지 않은 예외 발생\
