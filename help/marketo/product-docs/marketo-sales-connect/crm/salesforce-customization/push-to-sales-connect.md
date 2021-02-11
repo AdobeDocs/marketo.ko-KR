@@ -3,9 +3,9 @@ unique-page-id: 14352477
 description: 판매 연결 푸시 - Marketing To Docs - 제품 설명서
 title: Sales Connect로 푸시
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: 1dd80b7de801df78ac7dde39002455063f9979b7
 workflow-type: tm+mt
-source-wordcount: '188'
+source-wordcount: '199'
 ht-degree: 0%
 
 ---
@@ -17,9 +17,9 @@ ht-degree: 0%
 
 ## 요구 사항 {#requirements}
 
-* `Salesforce Admin`에 의해 설치된 영업 연결 [Salesforce 패키지](http://docs.marketo.com/x/C4PS)
+* Salesforce 관리자가 설치한 Sales Connect Salesforce 패키지
 
-* `Push to Sales Connect`목록 보기에 설치된  `Salesforce Admin`
+* Salesforce 관리자가 목록 보기에 설치된 Sales Connect로 푸시 단추
 
 * Salesforce 연결 - 사용자가 Push를 사용할 수 있도록 Sales Connect 제작
 
@@ -30,11 +30,10 @@ ht-degree: 0%
 1. **이동**&#x200B;을 클릭합니다.
 1. 푸시할 리드/연락처를 모두 선택합니다.
 1. **MSE**&#x200B;로 푸시를 선택합니다.
-1. 푸시할 리드/연락처 수를 확인하는 새 창이 나타납니다. **그룹**&#x200B;으로 계속을 선택합니다. Sales Connect `will not push over` Salesforce의 `Email Opt Out` 또는 Sales Connect의 `Unsubscribed`로 표시된 모든 연락처
+1. 푸시할 리드/연락처 수를 확인하는 새 창이 나타납니다. **그룹**&#x200B;으로 계속을 선택합니다. Sales Connect는 Salesforce의 이메일 옵트아웃 또는 Sales Connect의 가입 취소로 표시된 연락처를 푸시하지 않습니다.
 
    >[!NOTE]
    >
    >Sales Connect는 &quot;SFDC-...&quot;라는 제목의 이 그룹을 추가합니다. 를 [웹 응용 프로그램](http://toutapp.com/login)의 [관계] 페이지로 이동합니다.
 
 1. **전체 그룹에 이메일**&#x200B;을 선택하여 이 그룹 이메일을 보냅니다.
-
