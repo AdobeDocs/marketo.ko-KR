@@ -3,9 +3,9 @@ unique-page-id: 37356565
 description: 추적된 이메일 보내기 - 마케팅 문서 - 제품 설명서
 title: 추적된 이메일 보내기
 translation-type: tm+mt
-source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
+source-git-commit: 1dd80b7de801df78ac7dde39002455063f9979b7
 workflow-type: tm+mt
-source-wordcount: '233'
+source-wordcount: '198'
 ht-degree: 0%
 
 ---
@@ -19,11 +19,8 @@ Marketing To Sales Connect로 이메일을 보낼 때 보기(이메일 열기) �
 >
 >추적된 이메일을 보내기 전에 ID를 확인하고 이메일 배달 채널을 설정해야 합니다.
 >
->* [이메일 주소 확인](http://docs.marketo.com/x/ewPh)
->* [Outlook](http://docs.marketo.com/x/Z4AOAQ) 또는 [Gmail](http://docs.marketo.com/x/kYMOAQ)에 대한 배달 채널 설정
-
->
-
+>* [이메일 주소 확인](/help/marketo/product-docs/marketo-sales-connect/getting-started/email-settings/verify-your-email.md)
+>* [Outlook](/help/marketo/product-docs/marketo-sales-connect/email-plugins/msc-for-outlook/email-connection-tab-for-outlook-users.md) 또는 [Gmail](/help/marketo/product-docs/marketo-sales-connect/email-plugins/gmail/email-connection-tab-for-gmail-users.md)에 대한 배달 채널 설정
 
 
 1. 이메일 초안을 만듭니다(이 예에서는 헤더에서 **작성**&#x200B;을 선택합니다).
@@ -54,17 +51,12 @@ Marketing To Sales Connect로 이메일을 보낼 때 보기(이메일 열기) �
    >
    >이메일을 보내려면 제목 줄 및 받는 사람이 필요합니다. 제목 및 받는 사람이 추가되면 **초안**&#x200B;을 자동으로 저장합니다.
 
-1. 편집기를 사용하여 이메일을 작성합니다. 완료되면 **보내기**(또는 원하는 경우 [예약](http://docs.marketo.com/x/GAQ6Ag))을 클릭합니다.
+1. 편집기를 사용하여 이메일을 작성합니다. 완료되면 **보내기**(또는 원하는 경우 [예약](/help/marketo/product-docs/marketo-sales-connect/email/using-the-compose-window/scheduling-an-email.md))을 클릭합니다.
 
    ![](assets/five.png)
 
    >[!MORELIKETHIS]
    >
-   >
-   >    
-   >    
-   >    * [이메일 예약](http://docs.marketo.com/x/GAQ6Ag)
-   >    * [동적 필드](http://docs.marketo.com/x/wwDb)
-   >    * [템플릿 사용](http://docs.marketo.com/display/DOCS/Templates)
-
+   >* [이메일 예약](/help/marketo/product-docs/marketo-sales-connect/email/using-the-compose-window/scheduling-an-email.md)
+   >* [템플릿](/help/marketo/product-docs/marketo-sales-connect/templates/create-a-new-template.md)
 
