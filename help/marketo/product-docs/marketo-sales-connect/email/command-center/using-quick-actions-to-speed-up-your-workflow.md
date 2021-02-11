@@ -3,9 +3,9 @@ unique-page-id: 37357306
 description: 빠른 작업을 사용하여 워크플로우 시간 단축 - Marketing To Docs - 제품 설명서
 title: 빠른 작업을 사용하여 워크플로우 가속화
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: 1dd80b7de801df78ac7dde39002455063f9979b7
 workflow-type: tm+mt
-source-wordcount: '320'
+source-wordcount: '324'
 ht-degree: 0%
 
 ---
@@ -21,8 +21,9 @@ ht-degree: 0%
 
 **배달됨**
 
-| 보관 | 보관된 폴더에 이메일을 추가하고 모든 보기 비활성화 및 해당 이메일에 대한 클릭 추적을 중지합니다. |
+| 상태 | 설명 |
 |---|---|
+| 보관 | 보관된 폴더에 이메일을 추가하고 모든 보기 비활성화 및 해당 이메일에 대한 클릭 추적을 중지합니다. |
 | 성공 | 이메일이 템플릿 분석에서 보고될 수 있는 성공 이메일로 표시됩니다. |
 
 **보관**
@@ -84,13 +85,11 @@ ht-degree: 0%
 
 **후속 작업**
 
-** ![](assets/using-quick-actions-to-speed-up-your-workflow-1.png)
+![](assets/using-quick-actions-to-speed-up-your-workflow-1.png)
 
-**
-
-| 후속 이메일 보내기 | 선택한 인라인 이메일 본문이 첨부되어 수신자에게 보낼 준비가 된 작성 창을 엽니다. |
+| 함수 | 설명 |
 |---|---|
+| 후속 이메일 보내기 | 선택한 인라인 이메일 본문이 첨부되어 수신자에게 보낼 준비가 된 작성 창을 엽니다. |
 | 전화 걸기 | 이메일 수신자에게 전화를 걸려면 판매 전화를 엽니다. |
 | InMail 보내기 | LinkedIn으로 리디렉션하여 InMail 메시지를 사용자에게 보냅니다. |
 | 작업 만들기 | 미리 알림 작업을 만들기 위한 작업 만들기 팝업을 엽니다. |
-
