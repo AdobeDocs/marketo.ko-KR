@@ -3,9 +3,9 @@ unique-page-id: 14352609
 description: 캠페인 - 마케팅 문서 - 제품 설명서 끄기
 title: 캠페인 끄기
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: 1dd80b7de801df78ac7dde39002455063f9979b7
 workflow-type: tm+mt
-source-wordcount: '149'
+source-wordcount: '144'
 ht-degree: 0%
 
 ---
@@ -17,7 +17,7 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->이 기능은 [Gmail 또는 Exchange](https://toutapp.com/next#settings/email-tracking)에 통합되고 회신 추적이 활성화된 고객에게만 제공됩니다.
+>Gmail 또는 Exchange와 통합되어 있고 회신 추적을 사용하는 고객에게만 제공됩니다.
 
 ## 한 사람에 대한 캠페인 {#turn-off-a-campaign-for-one-person} 끄기
 
