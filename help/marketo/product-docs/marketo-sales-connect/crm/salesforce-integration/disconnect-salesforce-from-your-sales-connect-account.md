@@ -3,7 +3,7 @@ unique-page-id: 15368214
 description: 판매 연결 계정에서 Salesforce 연결 해제 - Marketing To Docs - 제품 문서
 title: 판매 연결 계정에서 Salesforce 연결 끊기
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: 1dd80b7de801df78ac7dde39002455063f9979b7
 workflow-type: tm+mt
 source-wordcount: '107'
 ht-degree: 0%
@@ -42,4 +42,3 @@ Sales Connect 계정에서 Salesforce 계정을 분리해야 하는 경우가 �
 1. 연결 및 사용자 지정 탭에서 **연결 해제**&#x200B;를 클릭합니다.
 
    ![](assets/3333.png)
-
