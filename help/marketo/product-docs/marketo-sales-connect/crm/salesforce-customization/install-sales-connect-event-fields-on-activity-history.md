@@ -3,7 +3,7 @@ unique-page-id: 14352475
 description: 활동 내역 - Marketing To Docs - 제품 설명서에 Sales Connect 이벤트 필드 설치
 title: 활동 내역에 Sales Connect 이벤트 필드 설치
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: 1dd80b7de801df78ac7dde39002455063f9979b7
 workflow-type: tm+mt
 source-wordcount: '269'
 ht-degree: 0%
@@ -35,4 +35,3 @@ Enterprise 패키지를 Salesforce에 설치하면 활동 내역 섹션에 Sales
 1. **저장**&#x200B;을 클릭합니다.
 
    이제 사용자는 Salesforce에서 이메일에 대한 중요한 정보와 업데이트를 볼 수 있습니다.
-
