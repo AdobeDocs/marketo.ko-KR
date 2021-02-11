@@ -3,9 +3,9 @@ unique-page-id: 14352530
 description: 명령 센터 개요 - 마케팅 문서 - 제품 설명서
 title: 명령 센터 개요
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 1dd80b7de801df78ac7dde39002455063f9979b7
 workflow-type: tm+mt
-source-wordcount: '583'
+source-wordcount: '569'
 ht-degree: 0%
 
 ---
@@ -94,11 +94,7 @@ The Administer Center는 균열을 벗어나지 않으면서 다음 단계를 �
 
 >[!MORELIKETHIS]
 >
->* [작업](http://docs.marketo.com/x/qwDb)
->* [고급 검색 개요](http://docs.marketo.com/x/KQM6Ag)
->* [선택 및 전송을 사용하여 일괄 이메일 작성](http://docs.marketo.com/x/IgQ6Ag)
-
->
-
-
+>* [작업](/help/marketo/product-docs/marketo-sales-connect/tasks/syncing-sales-connect-tasks-with-salesforce-for-the-first-time.md)
+>* [고급 검색 개요](/help/marketo/product-docs/marketo-sales-connect/email/command-center/advanced-search-overview.md)
+>* [선택 및 전송을 사용하여 일괄 이메일 작성](/help/marketo/product-docs/marketo-sales-connect/email/using-the-compose-window/composing-bulk-emails-with-select-and-send.md)
 
