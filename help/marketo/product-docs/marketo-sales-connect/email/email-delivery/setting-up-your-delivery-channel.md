@@ -3,9 +3,9 @@ unique-page-id: 14746470
 description: 배달 채널 설정 - 마케팅 문서 - 제품 설명서
 title: 배달 채널 설정
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: 1dd80b7de801df78ac7dde39002455063f9979b7
 workflow-type: tm+mt
-source-wordcount: '472'
+source-wordcount: '462'
 ht-degree: 0%
 
 ---
@@ -17,13 +17,13 @@ Marketing to Sales Connect를 사용할 때 이메일을 발송하려면 SMTP �
 
 >[!NOTE]
 >
->SMTP 서버를 설정하는 것 외에도 이메일을 보내기 전에 [이메일 ID를 확인해야 합니다](http://docs.marketo.com/x/ewPh).
+>SMTP 서버를 설정하는 것 외에도 이메일을 보내기 전에 [이메일 ID를 확인해야 합니다](/help/marketo/product-docs/marketo-sales-connect/getting-started/email-settings/verify-your-email.md).
 
 사용자 지정 SMTP 서버, 팀 SMTP 서버 또는 Gmail을 배달 채널로 사용하여 이메일을 보내도록 선택할 수 있습니다. 각각의 옵션을 검토해 보죠.
 
 ## 사용자 지정 SMTP {#custom-smtp}
 
-1. [웹 응용 프로그램](http://toutapp.com/login)에 로그인하고 오른쪽 상단의 톱니바퀴 아이콘을 클릭하고 **설정**&#x200B;을 선택합니다.
+1. [웹 응용 프로그램](https://toutapp.com/login)에 로그인하고 오른쪽 상단의 톱니바퀴 아이콘을 클릭하고 **설정**&#x200B;을 선택합니다.
 
    ![](assets/one.png)
 
@@ -63,15 +63,13 @@ Marketing to Sales Connect를 사용할 때 이메일을 발송하려면 SMTP �
    >
    >팀 관리자가 팀 SMTP 서버를 설정하는 경우 기본 이메일 ID에만 자동으로 적용되며 다른 이메일 ID에 대한 옵션으로 사용할 수 있습니다.
 
-   **비디오 보기**`<iframe width="630" height="470" src="//play.vidyard.com/YWKSgZvBEjUU8FrXZ5hdYR.html?v=3.1.1" frameborder="0" allowfullscreen></iframe>`
-
 ## 팀 SMTP 서버 {#team-smtp-server}
 
 >[!NOTE]
 >
 >**관리자 권한 필요**
 
-1. [웹 응용 프로그램](http://toutapp.com/login)에 로그인하고 오른쪽 상단의 톱니바퀴 아이콘을 클릭하고 **설정**&#x200B;을 선택합니다.
+1. [웹 응용 프로그램](https://toutapp.com/login)에 로그인하고 오른쪽 상단의 톱니바퀴 아이콘을 클릭하고 **설정**&#x200B;을 선택합니다.
 
    ![](assets/nine.png)
 
@@ -87,11 +85,9 @@ Marketing to Sales Connect를 사용할 때 이메일을 발송하려면 SMTP �
    >
    >팀 SMTP 서버가 모든 팀 구성원에 대한 기본 이메일 ID의 기본 배달 채널이 됩니다. 또한 다른 모든 이메일 ID에 대한 배달 채널 옵션으로 사용할 수도 있습니다.
 
-   ** 비디오 보기**`<iframe width="630" height="470" src="//play.vidyard.com/Ky9EwGmLcgvsMpFq3H8Y6n.html?v=3.1.1" frameborder="0" allowfullscreen></iframe>`
-
 ## Gmail {#gmail}
 
-1. [웹 응용 프로그램](http://toutapp.com/login)에 로그인하고 오른쪽 상단의 톱니바퀴 아이콘을 클릭하고 **설정**&#x200B;을 선택합니다.
+1. [웹 응용 프로그램](https://toutapp.com/login)에 로그인하고 오른쪽 상단의 톱니바퀴 아이콘을 클릭하고 **설정**&#x200B;을 선택합니다.
 
    ![](assets/twelve.png)
 
@@ -108,6 +104,7 @@ Marketing to Sales Connect를 사용할 때 이메일을 발송하려면 SMTP �
    ![](assets/fifteen.png)
 
 1. Google 자격 증명을 사용하여 로그인합니다.
+
 1. 이 화면으로 이동하면 **허용**&#x200B;을 클릭합니다.
 
    ![](assets/sixteen.png)
@@ -135,4 +132,3 @@ Marketing to Sales Connect를 사용할 때 이메일을 발송하려면 SMTP �
    >[!NOTE]
    >
    >팀 관리자가 팀 SMTP 서버를 설정하는 경우 기본 이메일 ID에만 자동으로 적용되며 다른 이메일 ID에 대한 옵션으로 사용할 수 있습니다.
-
