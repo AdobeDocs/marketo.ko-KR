@@ -3,7 +3,7 @@ unique-page-id: 14352591
 description: 컨텐츠 추가 - 마케팅 문서 - 제품 설명서
 title: 컨텐츠 추가
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: 1dd80b7de801df78ac7dde39002455063f9979b7
 workflow-type: tm+mt
 source-wordcount: '77'
 ht-degree: 0%
@@ -20,4 +20,3 @@ ht-degree: 0%
 >[!NOTE]
 >
 >전자 메일 내에 커서가 있는 위치에 파일이 배치되며, 라이브 피드 내에서 컨텐츠를 추적하려면 이메일을 보낼 때 &quot;종료&quot;를 클릭해야 합니다.
-
