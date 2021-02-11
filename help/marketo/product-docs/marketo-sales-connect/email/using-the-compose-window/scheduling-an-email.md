@@ -3,9 +3,9 @@ unique-page-id: 37356568
 description: 이메일 예약 - 마케팅 문서 - 제품 설명서
 title: 이메일 예약
 translation-type: tm+mt
-source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
+source-git-commit: 1dd80b7de801df78ac7dde39002455063f9979b7
 workflow-type: tm+mt
-source-wordcount: '135'
+source-wordcount: '131'
 ht-degree: 0%
 
 ---
@@ -45,7 +45,4 @@ ht-degree: 0%
 
    >[!MORELIKETHIS]
    >
-   >
-   >
-   >[명령 센터 개요](http://docs.marketo.com/x/kgDb)
-
+   >[명령 센터 개요](/help/marketo/product-docs/marketo-sales-connect/email/command-center/command-center-overview.md)
