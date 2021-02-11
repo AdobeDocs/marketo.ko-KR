@@ -3,9 +3,9 @@ unique-page-id: 18317669
 description: Salesforce 동기화 설정 - Marketing To Docs - 제품 설명서
 title: Salesforce 동기화 설정
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 1dd80b7de801df78ac7dde39002455063f9979b7
 workflow-type: tm+mt
-source-wordcount: '437'
+source-wordcount: '438'
 ht-degree: 0%
 
 ---
@@ -86,12 +86,12 @@ Salesforce로 전자 메일 주소를 가져올 수 없는 이유가 있는 경�
 >
 >이 설정을 하려면 관리자 권한이 필요합니다.
 
-1. **설정&#x200B;*을 클릭합니다.* **
-1. **이메일 관리&#x200B;*를 클릭합니다.* **
-1. **Salesforce에 전자 메일 보내기&#x200B;*를 클릭합니다.* **
+1. **설정**&#x200B;을 클릭합니다.
+1. **이메일 관리**&#x200B;를 클릭합니다.
+1. **Salesforce에 이메일**&#x200B;을 클릭합니다.
 1. **편집**&#x200B;을 클릭합니다.
-1. &quot;활성*&quot; 옆의 상자를 선택합니다.*
-1. **저장&#x200B;*을 클릭합니다.* **
+1. &quot;활성&quot; 옆의 상자를 선택합니다.
+1. **저장**&#x200B;을 클릭합니다.
 
 ## 세일즈 참여 작업/미리 알림을 Salesforce 작업에 동기화 {#sync-sales-engage-tasks-reminders-to-salesforce-tasks}
 
@@ -114,4 +114,3 @@ Salesforce로 전자 메일 주소를 가져올 수 없는 이유가 있는 경�
 1. 원하는 옵션(&quot;Salesforce 작업에 동기화 안 함&quot;이 기본적으로 선택되어 있음)을 선택합니다.
 
    ![](assets/eight.png)
-
