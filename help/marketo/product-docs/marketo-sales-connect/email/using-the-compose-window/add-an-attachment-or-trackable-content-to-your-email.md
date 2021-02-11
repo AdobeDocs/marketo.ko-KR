@@ -3,7 +3,7 @@ unique-page-id: 37356587
 description: 이메일 - 마케팅 문서 - 제품 문서에 첨부 파일 또는 추적 가능한 컨텐츠 추가
 title: 이메일에 첨부 파일 또는 추적 가능한 컨텐츠 추가
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: 1dd80b7de801df78ac7dde39002455063f9979b7
 workflow-type: tm+mt
 source-wordcount: '261'
 ht-degree: 0%
@@ -70,4 +70,3 @@ Sales Connect를 통해 이메일을 전송하는 경우 파일을 첨부 파일
    >[!NOTE]
    >
    >사람들이 추적한 컨텐츠를 볼 때 사용자는 라이브 피드에서 알림을 받게 됩니다. 사용자는 분석 페이지의 컨텐츠 섹션에서 가장 성과가 높은 컨텐츠를 볼 수도 있습니다.
-
