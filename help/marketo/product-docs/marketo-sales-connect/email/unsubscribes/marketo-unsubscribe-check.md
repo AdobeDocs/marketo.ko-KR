@@ -3,7 +3,7 @@ unique-page-id: 18317340
 description: Marketing To 구독 취소 확인 - Marketing To Docs - 제품 설명서
 title: Marketing To 구독 취소 확인
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: 1dd80b7de801df78ac7dde39002455063f9979b7
 workflow-type: tm+mt
 source-wordcount: '147'
 ht-degree: 0%
@@ -45,4 +45,3 @@ Marketing To 가입 해지 확인...
 * 마케팅 연결을 설정해야 합니다.
 * 전역 설정임
 * 웹 애플리케이션, 이메일 클라이언트 및 Salesforce에서 보낸 이메일 차단
-
