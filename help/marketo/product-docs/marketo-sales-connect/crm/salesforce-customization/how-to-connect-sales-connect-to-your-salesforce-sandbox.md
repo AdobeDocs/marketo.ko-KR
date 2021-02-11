@@ -3,9 +3,9 @@ unique-page-id: 15368205
 description: Salesforce 샌드박스에 Sales Connect를 연결하는 방법 - Marketing Docs - 제품 설명서
 title: Salesforce 샌드박스와 세일즈 연결 방법
 translation-type: tm+mt
-source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
+source-git-commit: 1dd80b7de801df78ac7dde39002455063f9979b7
 workflow-type: tm+mt
-source-wordcount: '154'
+source-wordcount: '146'
 ht-degree: 0%
 
 ---
@@ -15,7 +15,7 @@ ht-degree: 0%
 
 >[!PREREQUISITES]
 >
->샌드박스에 대한 연결을 설정할 때 이미 Sales Connect 계정을 Salesforce에 연결할 수 없습니다. 그렇다면 [이 문서의 단계를 진행하기 전에 ](http://docs.marketo.com/x/FoDq)의 연결을 끊어야 합니다.
+>샌드박스에 대한 연결을 설정할 때 이미 Sales Connect 계정을 Salesforce에 연결할 수 없습니다. 그렇다면 [이 문서의 단계를 진행하기 전에 ](/help/marketo/product-docs/marketo-sales-connect/crm/salesforce-integration/disconnect-salesforce-from-your-sales-connect-account.md)의 연결을 끊어야 합니다.
 
 1. Sales Connect에서 오른쪽 위에 있는 톱니바퀴 아이콘을 클릭하고 **설정**&#x200B;을 선택합니다.
 
@@ -43,5 +43,4 @@ ht-degree: 0%
 
 >[!MORELIKETHIS]
 >
->[Salesforce 샌드박스에서 사용자 정의 설정을 설치하는 방법](http://docs.marketo.com/x/EIDq)
-
+>[Salesforce 샌드박스에서 사용자 정의 설정을 설치하는 방법](/help/marketo/product-docs/marketo-sales-connect/crm/salesforce-customization/how-to-install-customizations-in-your-salesforce-sandbox.md)
