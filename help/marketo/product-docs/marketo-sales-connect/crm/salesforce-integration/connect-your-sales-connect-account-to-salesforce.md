@@ -3,9 +3,9 @@ unique-page-id: 14352423
 description: Sales Connect 계정을 Salesforce - Marketing To Docs - 제품 문서에 연결
 title: Salesforce에 판매 연결 계정 연결
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: 1dd80b7de801df78ac7dde39002455063f9979b7
 workflow-type: tm+mt
-source-wordcount: '134'
+source-wordcount: '136'
 ht-degree: 0%
 
 ---
@@ -54,4 +54,3 @@ ht-degree: 0%
    ![](assets/four.png)
 
 1. 이미 Salesforce에 로그인되어 있는 경우 연결됩니다. 로그인하지 않으면 로그인하라는 메시지가 표시됩니다.
-
