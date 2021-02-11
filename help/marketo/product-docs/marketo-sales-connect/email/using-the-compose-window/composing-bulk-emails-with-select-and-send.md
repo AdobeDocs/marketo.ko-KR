@@ -3,9 +3,9 @@ unique-page-id: 37356578
 description: 선택 및 전송을 사용하여 대량 이메일 작성 - 마케팅 문서 - 제품 설명서
 title: 선택 및 전송을 사용하여 일괄 이메일 작성
 translation-type: tm+mt
-source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
+source-git-commit: 1dd80b7de801df78ac7dde39002455063f9979b7
 workflow-type: tm+mt
-source-wordcount: '452'
+source-wordcount: '399'
 ht-degree: 0%
 
 ---
@@ -33,7 +33,7 @@ ht-degree: 0%
 
    ![](assets/three-2.png)
 
-1. 제목 줄을 입력하고 템플릿을 선택(또는 처음부터 이메일 작성)한 다음 [예약](http://docs.marketo.com/x/GAQ6Ag)이메일을 보냅니다.
+1. 제목 줄을 입력하고 템플릿을 선택(또는 처음부터 이메일 작성)한 다음 이메일 전송/[예약](/help/marketo/product-docs/marketo-sales-connect/email/using-the-compose-window/scheduling-an-email.md).
 
    ![](assets/four-2.png)
 
@@ -45,7 +45,7 @@ ht-degree: 0%
 
 **벌크 편집**
 
-1. [이메일 전송 섹션](http://docs.marketo.com/display/DOCS/Composing+Bulk+Emails+with+Select+and+Send#ComposingBulkEmailswithSelectandSend-SendingEmails)에서 1-3단계를 수행합니다.
+1. [이메일 전송 섹션](#sending-emails)에서 1-3단계를 수행합니다.
 
    >[!NOTE]
    >
@@ -59,7 +59,7 @@ ht-degree: 0%
    >
    >특정 전자 메일 수신자를 클릭하여 해당 전자 메일에 전파된 변경 내용을 볼 수 있습니다.
 
-1. **보내기**(또는 [예약](http://docs.marketo.com/x/GAQ6Ag))을 클릭하여 대량 전자 메일 업데이트로 모든 받는 사람에게 보냅니다.
+1. **보내기**(또는 [예약](/help/marketo/product-docs/marketo-sales-connect/email/using-the-compose-window/scheduling-an-email.md))을 클릭하여 대량 전자 메일 업데이트로 모든 받는 사람에게 보냅니다.
 
    ![](assets/bulk-four.png)
 
@@ -67,7 +67,7 @@ ht-degree: 0%
 
 일괄 업데이트를 완료하면 일괄 작성 사이드바의 모든 이메일에 대한 변경 사항을 덮어쓸 수 있으므로 각 이메일을 사용자 정의하기 전에 일괄 업데이트를 완료합니다.
 
-1. [이메일 전송 섹션에서 1-4단계를 수행합니다.](http://docs.marketo.com/display/DOCS/Composing+Bulk+Emails+with+Select+and+Send#ComposingBulkEmailswithSelectandSend-SendingEmails)
+1. [이메일 전송 섹션](#sending-emails)에서 1-4단계를 수행합니다.
 
    >[!NOTE]
    >
@@ -89,17 +89,13 @@ ht-degree: 0%
    >
    >다른 수신자를 클릭하여 이전에 선택한 수신자에 대한 변경 내용이 표시되지 않음을 확인할 수 있습니다.
 
-1. **보내기**(또는 [예약](http://docs.marketo.com/x/GAQ6Ag))을 클릭하여 대량 전자 메일 업데이트로 모든 받는 사람에게 보냅니다.
+1. **보내기**(또는 [예약](/help/marketo/product-docs/marketo-sales-connect/email/using-the-compose-window/scheduling-an-email.md))을 클릭하여 대량 전자 메일 업데이트로 모든 받는 사람에게 보냅니다.
 
    ![](assets/each-four.png)
 
    >[!MORELIKETHIS]
    >
-   >
-   >    
-   >    
-   >    * [일괄 전송 옵션](http://docs.marketo.com/x/HwQ6Ag)
-   >    * [작성 창에서 템플릿 사용](http://docs.marketo.com/x/MQQ6Ag)
-   >    * [동적 필드](http://docs.marketo.com/x/wwDb)
-
+   >* [일괄 전송 옵션](/help/marketo/product-docs/marketo-sales-connect/email/using-the-compose-window/bulk-sending-options.md)
+   >* [작성 창에서 템플릿 사용](/help/marketo/product-docs/marketo-sales-connect/email/using-the-compose-window/using-a-template-in-the-compose-window.md)
+   >* [동적 필드](/help/marketo/product-docs/marketo-sales-connect/templates/dynamic-fields/how-to-insert-dynamic-fields.md)
 
