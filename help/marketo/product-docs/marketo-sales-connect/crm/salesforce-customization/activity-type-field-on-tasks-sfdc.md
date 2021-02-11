@@ -3,9 +3,9 @@ unique-page-id: 14352476
 description: 작업에 대한 활동 유형 필드(SFDC) - 마케팅 문서 - 제품 설명서
 title: 작업의 활동 유형 필드(SFDC)
 translation-type: tm+mt
-source-git-commit: c33b7ab59e612f37d3f64bb954579700dc574068
+source-git-commit: 1dd80b7de801df78ac7dde39002455063f9979b7
 workflow-type: tm+mt
-source-wordcount: '263'
+source-wordcount: '265'
 ht-degree: 0%
 
 ---
@@ -24,13 +24,13 @@ Sales Connect의 도움으로 Salesforce의 활동으로 이메일 및 호출을
 * Salesforce와의 연결
 * 작업 유형 선택 목록에서 기본 유형 값을 선택하지 않았습니다.
 * 작업 유형 선택 목록(대/소문자 구분) 아래에 모두 전화, 회신 및 전자 메일이 있어야 합니다.
-* 유형 필드의 값에 대해 작업을 수행하는 `Workflows` 또는 `Triggers` 없음
+* 유형 필드의 값에 대해 작업을 수행하는 워크플로우 또는 트리거 없음
 
 ## {#setup} 설정
 
 먼저 올바른 선택 목록 값이 있는지 확인합니다. 선택 목록을 변경하려면 Salesforce 관리자의 도움이 필요합니다.
 
-1. [Salesforce.com](http://Salesforce.com)으로 이동하고 오른쪽 위 모서리의 [설정]을 클릭합니다.
+1. [Salesforce.com](https://salesforce.com)으로 이동하고 오른쪽 위 모서리의 [설정]을 클릭합니다.
 1. 사용자 지정을 클릭합니다.
 1. 활동을 클릭합니다.
 1. 작업 필드를 클릭합니다.
