@@ -3,9 +3,9 @@ unique-page-id: 14352538
 description: 표시된 대로 테스트 이메일이 표시되지 않음 - 마케팅 문서 - 제품 설명서
 title: 표시된 것으로 표시되지 않는 테스트 이메일
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: 1dd80b7de801df78ac7dde39002455063f9979b7
 workflow-type: tm+mt
-source-wordcount: '151'
+source-wordcount: '147'
 ht-degree: 0%
 
 ---
@@ -19,7 +19,8 @@ ht-degree: 0%
 
 여기서 자기추적을 보여줄 유일한 장소로 가는 방법을 알려드리겠습니다.
 
-1. [명령 센터](http://toutapp.com/next#emails/command_center)로 이동합니다.
-1. 보낸 사람 폴더에서 자신에게 보낸 이메일을 찾아 선택합니다.
-1. **세부 사항** 단추를 클릭합니다. 거기에 당신 자신의 관점을 볼 수 있을 거예요.
+1. [명령 센터](https://toutapp.com/)로 이동합니다.
 
+1. 보낸 사람 폴더에서 자신에게 보낸 이메일을 찾아 선택합니다.
+
+1. **세부 사항** 단추를 클릭합니다. 거기에 당신 자신의 관점을 볼 수 있을 거예요.
