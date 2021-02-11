@@ -3,7 +3,7 @@ unique-page-id: 37357302
 description: 이메일 열 및 이메일 페이지 레이아웃 - 마케팅 문서 - 제품 설명서
 title: 이메일 열 및 이메일 페이지 레이아웃
 translation-type: tm+mt
-source-git-commit: 313266a67243f0c70c25010cb4825efb7f3db0ab
+source-git-commit: 1dd80b7de801df78ac7dde39002455063f9979b7
 workflow-type: tm+mt
 source-wordcount: '506'
 ht-degree: 0%
@@ -131,4 +131,3 @@ ht-degree: 0%
    ![](assets/email-columns-and-email-grid-layout-3.png)
 
 1. 완료되면 구성 외부를 클릭하면 됩니다.
-
