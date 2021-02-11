@@ -3,9 +3,9 @@ unique-page-id: 17727591
 description: Outlook 사용자를 위한 전자 메일 연결 탭 - 마케팅 문서 - 제품 설명서
 title: Outlook 사용자의 전자 메일 연결 탭
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: 1dd80b7de801df78ac7dde39002455063f9979b7
 workflow-type: tm+mt
-source-wordcount: '377'
+source-wordcount: '357'
 ht-degree: 0%
 
 ---
@@ -63,7 +63,7 @@ Outlook에 연결하면 회신 추적, Outlook 배달 채널에 액세스, Outlo
 
    ![](assets/nine-a.png)
 
-   이 연결을 사용하여 이메일을 추적하고 [도 배달 채널](http://docs.marketo.com/display/public/DOCS/Setting+up+Your+Delivery+Channel#SettingupYourDeliveryChannel-Gmail)으로 사용할 수 있습니다.
+   이 연결을 사용하여 이메일을 추적하고 배달 채널로도 사용할 수 있습니다.
 
    >[!NOTE]
    >
@@ -97,8 +97,9 @@ Exchange 온-프레미스에 연결하면 회신 추적, Outlook 배달 채널�
 
    ![](assets/six-b.png)
 
-   | **Outlook Online** | Office Online이라고도 함 |
+   | 버전 | 설명 |
    |---|---|
+   | **Outlook Online** | Office Online이라고도 함 |
    | **사내 교환** | Exchange 2013 및 2016 포함 |
 
 1. 자격 증명을 입력하고 **Connect**&#x200B;를 클릭합니다.
@@ -109,10 +110,8 @@ Exchange 온-프레미스에 연결하면 회신 추적, Outlook 배달 채널�
    >
    >Exchange 버전 드롭다운에서 자동 검색을 해제하면 IT 부서에 Exchange URL을 요청해야 합니다.
 
-   [전달 채널로](http://docs.marketo.com/display/public/DOCS/Setting+up+Your+Delivery+Channel#SettingupYourDeliveryChannel-Gmail)
+   이 연결을 사용하여 이메일을 추적하고 배달 채널로도 사용할 수 있습니다.
 
    >[!NOTE]
    >
    >Outlook을 배달 채널로 사용할 때는 한 번에 300개의 벌크 이메일을 보낼 수 없습니다.
-
-이 연결을 사용하여 이메일 및 을 추적할 수도 있습니다.
