@@ -3,7 +3,7 @@ unique-page-id: 14352589
 description: 템플릿 또는 캠페인 추가 - 마케팅 문서 - 제품 설명서
 title: 템플릿 또는 캠페인 추가
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: 1dd80b7de801df78ac7dde39002455063f9979b7
 workflow-type: tm+mt
 source-wordcount: '102'
 ht-degree: 0%
@@ -19,4 +19,4 @@ ht-degree: 0%
 
 캠페인을 추가하는 경우 **캠페인** 탭을 대신 클릭합니다.
 
-[웹 응용 프로그램](http://toutapp.com/login)에서 메시지를 추가/편집한 경우 **새로 고침** 단추를 클릭하여 최신 버전을 가져올 수 있도록 하십시오.
+[웹 응용 프로그램](https://toutapp.com/login)에서 메시지를 추가/편집한 경우 **새로 고침** 단추를 클릭하여 최신 버전을 가져올 수 있도록 하십시오.
