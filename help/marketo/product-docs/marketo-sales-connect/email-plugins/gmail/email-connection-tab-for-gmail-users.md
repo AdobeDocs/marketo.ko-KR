@@ -3,9 +3,9 @@ unique-page-id: 17728401
 description: Gmail 사용자를 위한 이메일 연결 탭 - 마케팅 문서 - 제품 설명서
 title: Gmail 사용자의 이메일 연결 탭
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: 1dd80b7de801df78ac7dde39002455063f9979b7
 workflow-type: tm+mt
-source-wordcount: '147'
+source-wordcount: '136'
 ht-degree: 0%
 
 ---
@@ -51,5 +51,4 @@ Gmail에 연결하면 회신 추적, Gmail 배달 채널에 액세스, Gmail로 
 
    ![](assets/nine.png)
 
-   이 연결을 사용하여 이메일을 추적하고 [도 배달 채널](http://docs.marketo.com/display/public/DOCS/Setting+up+Your+Delivery+Channel#SettingupYourDeliveryChannel-Gmail)으로 사용할 수 있습니다.
-
+   이 연결을 사용하여 이메일을 추적하고 배달 채널로도 사용할 수 있습니다.
