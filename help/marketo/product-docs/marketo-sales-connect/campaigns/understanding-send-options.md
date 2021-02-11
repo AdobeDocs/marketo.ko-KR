@@ -3,7 +3,7 @@ unique-page-id: 14352621
 description: 보내기 옵션 이해 - Marketing To Docs - 제품 문서
 title: 보내기 옵션 이해
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: 1dd80b7de801df78ac7dde39002455063f9979b7
 workflow-type: tm+mt
 source-wordcount: '540'
 ht-degree: 0%
@@ -59,4 +59,3 @@ ht-degree: 0%
 이 이메일을 이전 이메일에 스레드
 
 * 이 보내기 옵션은 이전 이메일에 대한 &#39;추가 작업&#39;이 되며, 이전 이메일 본문을 이 이메일의 하단에 추가합니다.
-
