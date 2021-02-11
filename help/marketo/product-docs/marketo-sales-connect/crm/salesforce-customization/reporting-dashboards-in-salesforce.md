@@ -3,7 +3,7 @@ unique-page-id: 14352464
 description: Salesforce의 보고 대시보드 - Marketing To Docs - 제품 설명서
 title: Salesforce의 대시보드 보고
 translation-type: tm+mt
-source-git-commit: 07ae1b3f3ee3e9d7f35373eea039d336bd786f97
+source-git-commit: 1dd80b7de801df78ac7dde39002455063f9979b7
 workflow-type: tm+mt
 source-wordcount: '200'
 ht-degree: 0%
@@ -23,21 +23,20 @@ ht-degree: 0%
 1. **요약** 보고서 형식을 선택합니다.
 1. [제목], [할당됨] 및 [판매 클릭됨/마케팅을 통해 본 판매 보기] 필드를 보고서에 추가합니다.
 1. 필드 창에서 **수식 추가**&#x200B;를 두 번 클릭합니다.
-1. 공식에 이름을 추가하고 형식**Percent **을 선택하고**&#x200B;그룹화 1 *을 선택합니다.***
-1. 요약 필드에서 **Marketing to Sales Clicked/Marketing To Sales Viewed,** Then **Sum**&#x200B;을 선택합니다.
-1. 공식에 나누기 기호를 추가한 다음 요약 필드 - *다른 이름으로 저장*&#x200B;에서 **레코드 수**&#x200B;를 선택합니다.
+1. 공식에 이름을 추가하고 형식으로 **퍼센트**&#x200B;를 선택하고 **그룹화 1**&#x200B;을 선택합니다.
+1. 요약 필드에서 **Marketing to Sales Clicked/Marketing To Sales Viewed,** **Sum**&#x200B;을 선택합니다.
+1. 공식에 나누기 기호를 추가한 다음 요약 필드 - _다른 이름으로 저장_&#x200B;에서 **레코드 수**&#x200B;를 선택합니다.
 
 ## 템플릿 성능 보고서 {#template-performance-report}
 
-1. 열기 및 클릭 보고서를 사용자 지정하여 *다른 이름으로 저장.* 필드를 포함합니다.
+1. [열기] 및 [클릭] 보고서를 사용자 지정하여 _다른 이름으로 저장_ 필드를 포함합니다.
 
 ## 템플릿 볼륨 보고서 {#template-volume-report}
 
 1. 템플릿 성과 보고서를 수정하고 &quot;마케팅 영업 템플릿이 비어 있지 않습니다.&quot;라는 필터를 포함합니다.
-1. Marketing to Sales Clicked 필드 제거 - *다른 이름으로 저장*.
+1. Marketing to Sales Clicked 필드 제거 - _다른 이름으로 저장_.
 
 ## 트렌드 계정 보고서 {#trending-accounts-report}
 
 1. 계정 레코드 유형의 활동을 선택합니다.
-1. 아래 표시된 대로 보고서 매개 변수와 필드를 설정합니다. *다른 이름으로 저장.
-
+1. 아래 표시된 대로 보고서 매개 변수와 필드를 설정합니다. _다른 이름으로 저장_.
