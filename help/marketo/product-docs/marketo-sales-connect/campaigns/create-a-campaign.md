@@ -3,9 +3,9 @@ unique-page-id: 14352618
 description: 캠페인 만들기 - 마케팅 문서 - 제품 설명서
 title: 캠페인 만들기
 translation-type: tm+mt
-source-git-commit: 00887ea53e395bea3a11fd28e0ac98b085ef6ed8
+source-git-commit: 1dd80b7de801df78ac7dde39002455063f9979b7
 workflow-type: tm+mt
-source-wordcount: '302'
+source-wordcount: '294'
 ht-degree: 0%
 
 ---
@@ -34,7 +34,7 @@ ht-degree: 0%
 
    >[!NOTE]
    >
-   >**카테고리** 옆에 있는 +**을 클릭하여 새 카테고리를 만듭니다.
+   >**카테고리** 옆에 있는 **+**&#x200B;을 클릭하여 새 카테고리를 만듭니다.
 
 1. 선택한 카테고리가 선택됩니다. 마음이 바뀌면 드롭다운을 클릭하고 다른 드롭다운을 선택합니다. 완료되면 **계속**&#x200B;을 클릭합니다.
 
@@ -44,7 +44,7 @@ ht-degree: 0%
 
    ![](assets/four-1.png)
 
-1. 다음 중에서 선택:이메일, 전화 걸기, InMail 또는 사용자 지정 작업. 이 예에서는 [이메일](http://docs.marketo.com/display/DOCS/Campaign+Step+Types#CampaignStepTypes-Email)을 선택합니다.
+1. 다음 중에서 선택:이메일, 전화 걸기, InMail 또는 사용자 지정 작업. 이 예에서는 [이메일](/help/marketo/product-docs/marketo-sales-connect/campaigns/campaign-step-types.md#email)을 선택합니다.
 
    ![](assets/five-1.png)
 
@@ -54,11 +54,10 @@ ht-degree: 0%
 
    >[!NOTE]
    >
-   >&quot;일&quot;은 작업 사이의 일 수가 아니라 시퀀스 내의 일수입니다. 예를 들어, 캠페인이 7일 동안 계속될 경우, &#39;3&#39;을 입력하면 작업이 3일이 **일 후** 7일 중 3일에 종료됩니다.
+   >&quot;일&quot;은 작업 사이의 일 수가 아니라 시퀀스 내의 일수입니다. 예를 들어 캠페인이 7일 동안 계속될 경우 &#39;3&#39;을 입력하면 작업이 7일 중 3일에 종료되고, 3일 후에는 **이 아닌**&#x200B;이(가) 표시됩니다.
 
 1. 캠페인에 대한 **설정 탭**&#x200B;을 방문하여 주말 건너뛰기 등의 예약 및 응답 옵션을 사용자 지정해야 합니다.
 
    ![](assets/seven.png)
 
    이제 캠페인에 사람 추가를 시작할 때입니다!
-
