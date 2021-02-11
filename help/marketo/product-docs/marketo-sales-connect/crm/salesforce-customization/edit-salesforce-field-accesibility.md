@@ -3,7 +3,7 @@ unique-page-id: 14352472
 description: Salesforce 필드 액세스 가능성 편집 - Marketing To Docs - 제품 설명서
 title: Salesforce 필드 액세스 가능성 편집
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: 1dd80b7de801df78ac7dde39002455063f9979b7
 workflow-type: tm+mt
 source-wordcount: '127'
 ht-degree: 0%
@@ -20,4 +20,3 @@ Salesforce에 이메일 활동 로그가 표시되지 않는 경우 팀의 필�
 * Salesforce 관리자와 함께 작업하여 이러한 보안 설정이 Sales Connect에 영향을 주지 않도록 합니다.
 
 * Salesforce 관리자는 [보안 컨트롤] 탭에서 필드 액세스 가능성을 볼 수 있습니다. Sales Connect가 상호 작용하는 주요 필드는 다음과 같습니다.계정, 연락처, 기회, 리드 및 태스크.
-
