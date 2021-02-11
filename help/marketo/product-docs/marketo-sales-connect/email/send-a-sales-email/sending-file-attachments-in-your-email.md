@@ -3,9 +3,9 @@ unique-page-id: 14352523
 description: 이메일에 첨부 파일 보내기 - Marketing To Docs - 제품 문서
 title: 이메일에 첨부 파일 보내기
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: 1dd80b7de801df78ac7dde39002455063f9979b7
 workflow-type: tm+mt
-source-wordcount: '136'
+source-wordcount: '132'
 ht-degree: 0%
 
 ---
@@ -21,4 +21,4 @@ ht-degree: 0%
 >
 >이메일 전달 채널로 Tout을 사용하는 경우 이메일을 보낼 때 19MB 이하의 파일을 권장합니다.
 
-큰 파일을 반드시 보내야 하는 경우에는 먼저 지퍼를 올리거나 [웹 응용 프로그램](http://toutapp.com/login)의 [추적 가능한 첨부 파일](http://docs.marketo.com/x/3oPS)으로 업로드하십시오.
+큰 파일을 반드시 보내야 하는 경우에는 먼저 지퍼를 올리거나 [웹 응용 프로그램](https://toutapp.com/login)의 [추적 가능한 첨부 파일](/help/marketo/product-docs/marketo-sales-connect/email/common-tracking-questions/how-to-track-your-email-attachments.md)으로 업로드하십시오.
