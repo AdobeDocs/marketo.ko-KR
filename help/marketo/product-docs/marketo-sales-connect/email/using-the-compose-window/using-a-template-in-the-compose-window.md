@@ -3,9 +3,9 @@ unique-page-id: 37356593
 description: 작성 창에서 템플릿 사용 - 마케팅 문서 - 제품 설명서
 title: 작성 창에서 템플릿 사용
 translation-type: tm+mt
-source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
+source-git-commit: 1dd80b7de801df78ac7dde39002455063f9979b7
 workflow-type: tm+mt
-source-wordcount: '246'
+source-wordcount: '233'
 ht-degree: 0%
 
 ---
@@ -69,13 +69,4 @@ ht-degree: 0%
    >
    >**기본적으로** 여기에서 즐겨찾기입니다. 카테고리가 아니라 즐겨찾기 이메일 템플릿을 보관합니다.
 
-   >[!MORELIKETHIS]
-   >
-   >
-   >    
-   >    
-   >    * [동적 필드](http://docs.marketo.com/x/wwDb)
-   >    * [템플릿 사용](http://docs.marketo.com/display/DOCS/Templates)
-
-
-이제 선택한 카테고리가 고정됩니다.
+   이제 선택한 카테고리가 고정됩니다.
