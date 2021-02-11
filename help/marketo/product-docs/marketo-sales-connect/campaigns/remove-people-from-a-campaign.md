@@ -3,7 +3,7 @@ unique-page-id: 14352608
 description: 캠페인에서 인물 제거 - 마케팅 문서 - 제품 문서
 title: 캠페인에서 인물 제거
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: 1dd80b7de801df78ac7dde39002455063f9979b7
 workflow-type: tm+mt
 source-wordcount: '278'
 ht-degree: 0%
@@ -72,4 +72,3 @@ ht-degree: 0%
 1. **작업**&#x200B;을 클릭하고 **캠페인에서 선택한 항목 제거**&#x200B;를 선택합니다.
 
    ![](assets/four-b.png)
-
