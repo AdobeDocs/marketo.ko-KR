@@ -3,9 +3,9 @@ unique-page-id: 14746690
 description: 캠페인 단계 유형 - 마케팅 문서 - 제품 설명서
 title: 캠페인 단계 유형
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: 1dd80b7de801df78ac7dde39002455063f9979b7
 workflow-type: tm+mt
-source-wordcount: '185'
+source-wordcount: '181'
 ht-degree: 0%
 
 ---
@@ -31,7 +31,7 @@ ht-degree: 0%
 
 >[!TIP]
 >
->[전송 옵션](http://docs.marketo.com/x/7QDb)에 대한 자세한 내용을 살펴보십시오.
+>[전송 옵션](/help/marketo/product-docs/marketo-sales-connect/campaigns/understanding-send-options.md)에 대한 자세한 내용을 살펴보십시오.
 
 ## {#call} 호출
 
@@ -50,4 +50,3 @@ ht-degree: 0%
 위의 옵션을 적용할 수 없는 경우 사용자 지정 작업을 사용합니다. 예를 들어 이메일을 통해 리드를 추적하도록 동료를 초대할 수 있습니다.
 
 ![](assets/custom.png)
-
