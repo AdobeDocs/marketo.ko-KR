@@ -3,9 +3,9 @@ unique-page-id: 14745611
 description: 마케팅 캠페인에 추가 - 마케팅 문서 - 제품 문서에 추가
 title: 마케팅 캠페인에 추가
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 1dd80b7de801df78ac7dde39002455063f9979b7
 workflow-type: tm+mt
-source-wordcount: '339'
+source-wordcount: '327'
 ht-degree: 0%
 
 ---
@@ -15,13 +15,13 @@ ht-degree: 0%
 
 >[!PREREQUISITES]
 >
->[판매 사용자에게 캠페인 표시](http://docs.marketo.com/x/NwDh)
+>[판매 사용자에게 캠페인 표시](/help/marketo/product-docs/marketo-sales-connect/marketo/make-a-campaign-visible-to-sales-connect-users.md)
 
 ## 캠페인 {#add-individuals-to-a-campaign}에 개인 추가
 
 >[!NOTE]
 >
->Sales Connect에서 Marketing To Campaign에 사람을 추가하려면 Sales Connect에 개인의 Marketing to 리드 ID가 있어야 합니다. [여기에서 Marketing ID를 캡처하는 방법을 알아봅니다](http://docs.marketo.com/x/CQXLAQ).
+>Sales Connect에서 Marketing To Campaign에 사람을 추가하려면 Sales Connect에 개인의 Marketing to 리드 ID가 있어야 합니다. [여기에서 Marketing ID를 캡처하는 방법을 알아봅니다](/help/marketo/product-docs/marketo-sales-connect/people/managing-contacts/connect-your-marketo-leads-with-sales-connect-leads.md).
 
 1. **사람** 탭을 클릭합니다.
 
@@ -87,7 +87,7 @@ ht-degree: 0%
 
    >[!NOTE]
    >
-   >Sales Connect에서 Marketing To Campaign에 사람을 추가하려면 Sales Connect에 개인의 Marketing to 리드 ID가 있어야 합니다. [여기에서 Marketing ID를 캡처하는 방법을 알아봅니다](http://docs.marketo.com/x/CQXLAQ).
+   >Sales Connect에서 Marketing To Campaign에 사람을 추가하려면 Sales Connect에 개인의 Marketing to 리드 ID가 있어야 합니다. [여기에서 Marketing ID를 캡처하는 방법을 알아봅니다](/help/marketo/product-docs/marketo-sales-connect/people/managing-contacts/connect-your-marketo-leads-with-sales-connect-leads.md).
 
 1. 작업 영역 드롭다운을 클릭하고 그룹을 추가할 캠페인이 포함된 작업 영역을 선택합니다.
 
@@ -104,4 +104,3 @@ ht-degree: 0%
 1. 자격이 되는 연락처가 표시됩니다. **시작**&#x200B;을 클릭하여 추가합니다.
 
    ![](assets/nine.png)
-
