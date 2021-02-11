@@ -3,9 +3,9 @@ unique-page-id: 14746186
 description: 구독 취소 링크 메시지 사용자 지정 - 마케팅 문서 - 제품 설명서
 title: 구독 취소 링크 메시지 사용자 지정
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: 1dd80b7de801df78ac7dde39002455063f9979b7
 workflow-type: tm+mt
-source-wordcount: '207'
+source-wordcount: '209'
 ht-degree: 0%
 
 ---
@@ -21,7 +21,7 @@ Adobe는 항상 팀이 구독 취소 링크 메시지를 맞춤화할 수 있도
 
 ## 자신을 위한 메시지 사용자 지정 {#customize-messaging-for-yourself}
 
-1. [웹 응용 프로그램](http://toutapp.com/login)에 로그인하고 오른쪽 상단의 톱니바퀴 아이콘을 클릭하고 **설정**&#x200B;을 선택합니다.
+1. [웹 응용 프로그램](https://toutapp.com/login)에 로그인하고 오른쪽 상단의 톱니바퀴 아이콘을 클릭하고 **설정**&#x200B;을 선택합니다.
 
    ![](assets/one.png)
 
@@ -47,7 +47,7 @@ Adobe는 항상 팀이 구독 취소 링크 메시지를 맞춤화할 수 있도
 
 ## 팀의 구독 취소 메시지 설정 {#set-unsubscribe-messaging-for-your-team}
 
-1. [웹 응용 프로그램](http://toutapp.com/login)에 로그인하고 오른쪽 상단의 톱니바퀴 아이콘을 클릭하고 **설정**&#x200B;을 선택합니다.
+1. [웹 응용 프로그램](https://toutapp.com/login)에 로그인하고 오른쪽 상단의 톱니바퀴 아이콘을 클릭하고 **설정**&#x200B;을 선택합니다.
 
    ![](assets/six.png)
 
@@ -62,4 +62,3 @@ Adobe는 항상 팀이 구독 취소 링크 메시지를 맞춤화할 수 있도
 1. 메시지를 모든 사용자에게 적용하려면 **내 팀**&#x200B;에 대한 기본 메시지를 설정합니다.
 
    ![](assets/eleven.png)
-
