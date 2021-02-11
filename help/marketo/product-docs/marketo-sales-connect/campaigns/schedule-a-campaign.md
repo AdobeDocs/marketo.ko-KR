@@ -3,7 +3,7 @@ unique-page-id: 14352612
 description: 캠페인 예약 - 마케팅 문서 - 제품 설명서
 title: 캠페인 예약
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: 1dd80b7de801df78ac7dde39002455063f9979b7
 workflow-type: tm+mt
 source-wordcount: '172'
 ht-degree: 0%
@@ -23,4 +23,4 @@ ht-degree: 0%
 
 **다음**&#x200B;을 클릭한 후 첫 번째 이메일을 미리 볼 수 있습니다.
 
-**다음**을 다시 클릭하면 캠페인을 이동할 때 옵션이 표시됩니다. 지금 시작하도록 하거나 나중에 캠페인을 시작할 시간을 예약할 수 있습니다.
+**다음**&#x200B;을 다시 클릭한 후 캠페인을 시작할 때 옵션으로 이동합니다. 지금 시작하도록 하거나 나중에 캠페인을 시작할 시간을 예약할 수 있습니다.
