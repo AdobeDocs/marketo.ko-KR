@@ -3,7 +3,7 @@ unique-page-id: 14745823
 description: Salesforce에서 워크플로우 규칙 만들기 - Marketing To Docs - 제품 설명서
 title: Salesforce에서 워크플로우 규칙 만들기
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: 1dd80b7de801df78ac7dde39002455063f9979b7
 workflow-type: tm+mt
 source-wordcount: '470'
 ht-degree: 0%
@@ -101,4 +101,3 @@ Marketing To Sales Insight(MSI) 및 Marketing To Sales Connect(MSC)를 동시에
    ![](assets/thirteen.png)
 
    마지막 단계 후에는 시작하기 섹션에 나열된 다른 필드에 대해 워크플로우 규칙을 복제하도록 선택할 수 있습니다.설명, 유형, 출처, 일자. 연락처 개체에서 4개의 워크플로우 규칙을 완료한 후 리드 개체에 대해 동일한 작업을 반복합니다.
-
