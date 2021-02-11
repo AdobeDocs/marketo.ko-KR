@@ -3,7 +3,7 @@ unique-page-id: 14352546
 description: 보조 Gmail 주소가 Sales Connect - Marketing To Docs - 제품 문서와 통합되지 않도록 합니다.
 title: 보조 Gmail 주소가 Sales Connect와 통합되지 않도록 합니다.
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: 1dd80b7de801df78ac7dde39002455063f9979b7
 workflow-type: tm+mt
 source-wordcount: '330'
 ht-degree: 0%
@@ -23,7 +23,7 @@ Sales Connect는 Chrome 브라우저에 설치된 확장 프로그램을 통해 
 
 다른 Chrome 사용자로 로그인(권장)
 
-다른 Chrome 프로필을 만드는 방법을 읽으려면 [이 링크](http://support.google.com/chrome/answer/2364824?hl=en)을 클릭합니다.
+다른 Chrome 프로필을 만드는 방법을 읽으려면 [이 링크](https://support.google.com/chrome/answer/2364824?hl=en)을 클릭합니다.
 
 **전문가**:다른 사용자로 로그인하면 새로운 Chrome 인스턴스가 열립니다. 이 인스턴스는 Chrome의 새 창이며 이전 확장 기능은 이 인스턴스에 없습니다. 또한 쿠키가 유지되므로 언제든지 Gmail에 로그인할 필요가 없습니다.
 
