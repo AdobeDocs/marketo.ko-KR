@@ -3,9 +3,9 @@ unique-page-id: 37356584
 description: 그룹 이메일을 통해 이메일 보내기 - 마케팅 문서 - 제품 설명서
 title: 그룹 이메일을 통해 이메일 보내기
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 1dd80b7de801df78ac7dde39002455063f9979b7
 workflow-type: tm+mt
-source-wordcount: '186'
+source-wordcount: '160'
 ht-degree: 0%
 
 ---
@@ -35,7 +35,8 @@ ht-degree: 0%
 
 ## 그룹 이메일 편집 {#editing-a-group-email}
 
-1. [단계 1-3을 사용하여 ](https://docs.marketo.com/display/DOCS/Sending+Emails+via+Group+Email#SendingEmailsviaGroupEmail-SendingaGroupEmail) 위의 그룹 이메일을 만듭니다.
+1. [단계 1-3을 사용하여 ](#sending-a-group-email) 위의 그룹 이메일을 만듭니다.
+
 1. 템플릿을 선택하거나 이메일을 입력합니다.
 
    ![](assets/edit-two.png)
@@ -58,11 +59,6 @@ ht-degree: 0%
 
 >[!MORELIKETHIS]
 >
->* [일괄 전송 옵션](http://docs.marketo.com/x/HwQ6Ag)
->* [작성 창에서 템플릿 사용](http://docs.marketo.com/x/MQQ6Ag)
->* [동적 필드](http://docs.marketo.com/x/wwDb)
-
->
-
-
+>* [일괄 전송 옵션](/help/marketo/product-docs/marketo-sales-connect/email/using-the-compose-window/bulk-sending-options.md)
+>* [작성 창에서 템플릿 사용](/help/marketo/product-docs/marketo-sales-connect/email/using-the-compose-window/using-a-template-in-the-compose-window.md)
 
