@@ -3,9 +3,9 @@ unique-page-id: 14745793
 description: CRM용 Sales Connect Customization - Marketing To Docs - 제품 설명서
 title: CRM용 Sales Connect 사용자 지정
 translation-type: tm+mt
-source-git-commit: 07ae1b3f3ee3e9d7f35373eea039d336bd786f97
+source-git-commit: 1dd80b7de801df78ac7dde39002455063f9979b7
 workflow-type: tm+mt
-source-wordcount: '641'
+source-wordcount: '626'
 ht-degree: 0%
 
 ---
@@ -13,7 +13,7 @@ ht-degree: 0%
 
 # CRM {#sales-connect-customizations-for-crm}에 대한 Sales Connect 사용자 지정
 
-아래의 필드 및 단추는 Salesforce CRM의 메타데이터 API를 통해 만들어집니다. 필드가 만들어지면 관리자는 CRM에서 페이지 레이아웃을 구성하여 노출시켜야 합니다. 지침은 [여기](http://docs.marketo.com/display/docs/assets/marketo-sales-engage-for-salesforce-installation-and-success-guide.pdf)에 있습니다.
+아래의 필드 및 단추는 Salesforce CRM의 메타데이터 API를 통해 만들어집니다. 필드가 만들어지면 관리자는 CRM에서 페이지 레이아웃을 구성하여 노출시켜야 합니다. 지침은 [여기](https://docs.marketo.com/display/docs/assets/marketo-sales-engage-for-salesforce-installation-and-success-guide.pdf)에 있습니다.
 
 >[!NOTE]
 >
@@ -134,14 +134,8 @@ Marketing To는 새 필드 만들기를 감지한 다음 데이터의 1회 채�
 
 ## 사용자 안내서 {#user-guides}
 
-[Salesforce의 MSE 사용자 지정 보고서](http://docs.marketo.com/display/docs/assets/mse-custom-reports-in-sf.docx)
+[Salesforce의 MSE 사용자 지정 보고서](https://docs.marketo.com/display/docs/assets/mse-custom-reports-in-sf.docx)
 
-[Salesforce용 MSE](http://docs.marketo.com/display/docs/assets/mse-for-sf-classic.pdf)
+[Salesforce용 MSE](https://docs.marketo.com/display/docs/assets/mse-for-sf-classic.pdf)
 
-[Salesforce Lightning용 MSE](http://s3.amazonaws.com/tout-user-store/salesforce/assets/SF+Guide+for+Lightning.pdf)
-
-## 관련 비디오 {#related-videos}
-
-**Salesforce**에서 사용자 정의**
-`<iframe width="630" height="470" src="//play.vidyard.com/YEPWYBfFEa4nKCo2F6bKKc.html?v=3.1.1" frameborder="0" allowfullscreen></iframe>`  기능을 설치하는 방법 Salesforce에서 사용자 정의 기능을 사용할 수 있는 이점** 
-`<iframe width="630" height="470" src="//play.vidyard.com/4PzSDb6o8Qg8WbvBsq8wJD.html?v=3.1.1" frameborder="0" allowfullscreen></iframe>`
+[Salesforce Lightning용 MSE](https://s3.amazonaws.com/tout-user-store/salesforce/assets/SF+Guide+for+Lightning.pdf)
