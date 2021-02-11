@@ -3,9 +3,9 @@ unique-page-id: 27656223
 description: Professional Edition 고객을 위한 Salesforce Customization 설치 - Marketing To Docs - 제품 설명서
 title: Professional Edition 고객을 위한 Salesforce Customization 설치
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 1dd80b7de801df78ac7dde39002455063f9979b7
 workflow-type: tm+mt
-source-wordcount: '270'
+source-wordcount: '272'
 ht-degree: 0%
 
 ---
@@ -19,9 +19,6 @@ Salesforce Professional Edition 고객은 다음 단계에 따라 사용자 지�
 >
 >* Sales Connect 관리자는 Salesforce 및 Sales Connect 계정을 연결해야 합니다.
 >* 사용된 Salesforce 인스턴스에는 13개의 사용자 지정 활동 필드를 설치할 공간이 필요합니다.
-
->
-
 
 
 ## 설치 {#installation}
@@ -40,7 +37,7 @@ Salesforce Professional Edition 고객은 다음 단계에 따라 사용자 지�
    >
    >연결된 경우 녹색 &quot;설치&quot; 단추가 표시됩니다. **이 단추를** 클릭하지 마십시오. 대신 4단계로 진행하십시오.
 
-1. 연결한 Salesforce 계정에 로그인한 다음 [이 링크](http://login.salesforce.com/packaging/installPackage.apexp?p0=04t0b000001oWEZ)를 클릭합니다.
+1. 연결되어 있는 Salesforce 계정에 로그인한 다음 [이 링크](https://login.salesforce.com/packaging/installPackage.apexp?p0=04t0b000001oWEZ)를 클릭합니다.
 1. Sales Connect 설치 페이지로 이동합니다.
 
    ![](assets/install-package.png)
@@ -58,7 +55,8 @@ Salesforce Professional Edition 고객은 다음 단계에 따라 사용자 지�
    >
    >Sales Engage는 Sales Connect의 이전 이름입니다.
 
-   [Salesforce Classic 설치 안내서](http://s3.amazonaws.com/tout-user-store/salesforce/assets/Marketo+Sales+Engage+For+Salesforce_+Installation+and+Success+Guide.pdf)
+## 안내선 {#guides}
 
-   [Salesforce Lightning 설치 안내서](http://s3.amazonaws.com/tout-user-store/salesforce/assets/SF+Guide+for+Lightning.pdf)
+[Salesforce Classic 설치 안내서](http://s3.amazonaws.com/tout-user-store/salesforce/assets/Marketo+Sales+Engage+For+Salesforce_+Installation+and+Success+Guide.pdf)
 
+[Salesforce Lightning 설치 안내서](http://s3.amazonaws.com/tout-user-store/salesforce/assets/SF+Guide+for+Lightning.pdf)
