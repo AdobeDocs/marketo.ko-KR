@@ -3,7 +3,7 @@ unique-page-id: 14352540
 description: 직접 보기 방지 - 마케팅 문서 - 제품 설명서
 title: 자체 보기 방지
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: 1dd80b7de801df78ac7dde39002455063f9979b7
 workflow-type: tm+mt
 source-wordcount: '305'
 ht-degree: 0%
@@ -72,4 +72,3 @@ Outlook Web App 및 Gmail에서 이메일을 열 때 보기가 추적되지 않�
 1. 보안 아래에서 **안 함** 라디오 단추를 클릭합니다.
 
    ![](assets/mac-3.png)
-
