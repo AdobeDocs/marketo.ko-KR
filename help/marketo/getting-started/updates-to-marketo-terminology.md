@@ -3,7 +3,7 @@ unique-page-id: 11387674
 description: 마케팅 용어 업데이트 - 마케팅 문서 - 제품 설명서
 title: 마케팅 용어 업데이트
 translation-type: tm+mt
-source-git-commit: d7d6aee63144c472e02fe0221c4a164183d04dd4
+source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
 workflow-type: tm+mt
 source-wordcount: '358'
 ht-degree: 0%
@@ -139,11 +139,11 @@ Lead라는 용어가 포함된 필드는 Person으로 대체되거나 Lead라는
 
 이름 변경 외에 4개의 개별 앱으로 구성됩니다.
 
-| ** [웹 개인화](http://docs.marketo.com/display/DOCS/Web+Personalization+-+RTP)** | 홈 화면에 고유한 타일 있음 |
+| ** [웹 개인화](https://docs.marketo.com/display/DOCS/Web+Personalization+-+RTP)** | 홈 화면에 고유한 타일 있음 |
 |---|---|
-| ** [계정 기반 웹 마케팅](http://docs.marketo.com/display/DOCS/Account-Based+Web+Marketing)** | 웹 개인화 타일을 통해 액세스 가능 |
-| ** [개인화된 재타깃팅](http://docs.marketo.com/display/DOCS/Website+Retargeting)** | 웹 개인화 타일을 통해 액세스 가능 |
-| ** [예측 컨텐츠](http://docs.marketo.com/display/DOCS/Predictive+Content)** | 홈 화면에 고유한 타일 있음 |
+| ** [계정 기반 웹 마케팅](https://docs.marketo.com/display/DOCS/Account-Based+Web+Marketing)** | 웹 개인화 타일을 통해 액세스 가능 |
+| ** [개인화된 재타깃팅](https://docs.marketo.com/display/DOCS/Website+Retargeting)** | 웹 개인화 타일을 통해 액세스 가능 |
+| ** [예측 컨텐츠](https://docs.marketo.com/display/DOCS/Predictive+Content)** | 홈 화면에 고유한 타일 있음 |
 
 >[!NOTE]
 >
