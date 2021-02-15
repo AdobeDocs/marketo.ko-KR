@@ -3,7 +3,7 @@ unique-page-id: 2951040
 description: 릴리스 노트 - 2014년 7월 - Marketing Docs - 제품 설명서
 title: 릴리스 노트 - 2014년 7월
 translation-type: tm+mt
-source-git-commit: 975e048271dae6a877ae9ff5d39360b159afcc8a
+source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
 workflow-type: tm+mt
 source-wordcount: '425'
 ht-degree: 0%
@@ -47,7 +47,7 @@ Marketing To Lead Management는 최신 모양과 세련된 느낌으로 업데�
 
 ## ReST API {#list-operations-in-the-rest-api}의 목록 작업
 
-ReST의 목록 작업과 관련된 아래 호출을 추가했습니다. 전체 설명서는 [developers.markto.com](http://developers.marketo.com/documentation/rest/)을 참조하십시오.
+ReST의 목록 작업과 관련된 아래 호출을 추가했습니다. 전체 설명서는 [developers.markto.com](https://developers.marketo.com/documentation/rest/)을 참조하십시오.
 
 * ID로 목록 가져오기
 * 여러 목록 가져오기
@@ -78,7 +78,7 @@ ReST의 목록 작업과 관련된 아래 호출을 추가했습니다. 전체 �
 
 ## RTP:JavaScript API 개선 사항 {#rtp-javascript-api-enhancements}
 
-조직, 업계, 위치 및 세그먼트 코드와 같은 실시간 방문자 데이터를 얻기 위한 새로운 RTP API 호출. 또한 [세그먼트] 페이지에서 세그먼트 이름 위로 마우스를 가져가면 세그먼트 코드를 표시하는 도구 설명이 표시됩니다. 전체 설명서는 [개발자 사이트](http://developers.marketo.com/documentation/websites/rtp-js-api/)를 참조하십시오.
+조직, 업계, 위치 및 세그먼트 코드와 같은 실시간 방문자 데이터를 얻기 위한 새로운 RTP API 호출. 또한 [세그먼트] 페이지에서 세그먼트 이름 위로 마우스를 가져가면 세그먼트 코드를 표시하는 도구 설명이 표시됩니다. 전체 설명서는 [개발자 사이트](https://developers.marketo.com/documentation/websites/rtp-js-api/)를 참조하십시오.
 
 ![](assets/image2014-9-22-14-3a26-3a11.png)
 
