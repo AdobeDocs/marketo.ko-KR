@@ -3,7 +3,7 @@ unique-page-id: 2360394
 description: 기회 영향 분석기 데이터 내보내기 - 마케팅 문서 - 제품 설명서
 title: 기회 영향 분석기 데이터 내보내기
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
 workflow-type: tm+mt
 source-wordcount: '170'
 ht-degree: 0%
@@ -13,7 +13,7 @@ ht-degree: 0%
 
 # 기회 영향 분석기 데이터 내보내기 {#export-opportunity-influence-analyzer-data}
 
-[매출 주기 탐색기](http://docs.marketo.com/display/docs/revenue+cycle+analytics) 보고서로부터 업데이트를 받고 공유하기 위해 기존 보고서에 이메일 주소를 구독할 수 있습니다.
+[매출 주기 탐색기](https://docs.marketo.com/display/docs/revenue+cycle+analytics) 보고서로부터 업데이트를 받고 공유하기 위해 기존 보고서에 이메일 주소를 구독할 수 있습니다.
 
 1. **Analytics**&#x200B;로 이동하고 **새로 만들기** ******** **보고서** **구독**&#x200B;을 선택합니다.
 
@@ -51,5 +51,5 @@ ht-degree: 0%
 >
 >**자세히 알아보기**
 >
->[매출 주기 탐색기](http://docs.marketo.com/display/docs/revenue+cycle+analytics)의 세부 조사에서 Marketing의 고급 분석을 사용하여 할 수 있는 더 많은 작업을 확인할 수 있습니다.
+>[매출 주기 탐색기](https://docs.marketo.com/display/docs/revenue+cycle+analytics)의 세부 조사에서 Marketing의 고급 분석을 사용하여 할 수 있는 더 많은 작업을 확인할 수 있습니다.
 
