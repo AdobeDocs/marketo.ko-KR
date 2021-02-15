@@ -3,7 +3,7 @@ unique-page-id: 2360057
 description: 캠페인 활동 보고서 - 마케팅 문서 - 제품 설명서
 title: 캠페인 활동 보고서
 translation-type: tm+mt
-source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
+source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
 workflow-type: tm+mt
 source-wordcount: '236'
 ht-degree: 0%
@@ -13,7 +13,7 @@ ht-degree: 0%
 
 # 캠페인 활동 보고서 {#campaign-activity-report}
 
-[스마트 캠페인](http://docs.marketo.com/display/docs/smart+campaigns)의 성과를 확인하십시오.
+[스마트 캠페인](https://docs.marketo.com/display/docs/smart+campaigns)의 성과를 확인하십시오.
 
 1. [보고서를 ](../../../../product-docs/reporting/basic-reporting/creating-reports/create-a-report-in-a-program.md) 만들고  **캠페인 활동** [보고서 유형을 선택합니다](report-type-overview.md).
 1. [보고서의 시간대를 설정하고 ](../../../../product-docs/reporting/basic-reporting/editing-reports/change-a-report-time-frame.md) 보고서 탭을  **** 클릭합니다.
@@ -54,5 +54,5 @@ ht-degree: 0%
    >    * [캠페인 활동 보고서 필터링](../../../../product-docs/reporting/basic-reporting/report-activity/filter-a-campaign-activity-report.md)
 
 
-   [기본 보고](http://docs.marketo.com/display/docs/basic+reporting)에서 더 많은 보고서를 참조하십시오.
+   [기본 보고](https://docs.marketo.com/display/docs/basic+reporting)에서 더 많은 보고서를 참조하십시오.
 
