@@ -3,7 +3,7 @@ unique-page-id: 2360237
 description: 기회 영향 분석기 - Marketing To Docs - 제품 설명서를 사용하여 마케팅 스토리 전달
 title: 기회 영향 분석기를 사용하여 마케팅 스토리 전달
 translation-type: tm+mt
-source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
+source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
 workflow-type: tm+mt
 source-wordcount: '371'
 ht-degree: 0%
@@ -83,6 +83,6 @@ ht-degree: 0%
 
 
 
-   * [기본 보고](http://docs.marketo.com/display/docs/basic+reporting)
+   * [기본 보고](https://docs.marketo.com/display/docs/basic+reporting)
 
 
