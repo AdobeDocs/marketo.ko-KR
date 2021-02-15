@@ -3,7 +3,7 @@ unique-page-id: 1147095
 description: 프로그램 만들기 - 마케팅 문서 - 제품 설명서
 title: 프로그램 만들기
 translation-type: tm+mt
-source-git-commit: 07f713ece9832b7696451001f61c6a3b45b4a94a
+source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
 workflow-type: tm+mt
 source-wordcount: '68'
 ht-degree: 0%
@@ -23,7 +23,7 @@ ht-degree: 0%
 
    ![](assets/leadlifecycle.jpg)
 
-1. **이름**&#x200B;을 입력하고 드롭다운에서 **[채널](http://docs.marketo.com/display/DOCS/Create+a+Program+Channel)**&#x200B;을 선택하고 **만들기**&#x200B;를 클릭합니다.
+1. **이름**&#x200B;을 입력하고 드롭다운에서 **[채널](https://docs.marketo.com/display/DOCS/Create+a+Program+Channel)**&#x200B;을 선택하고 **만들기**&#x200B;를 클릭합니다.
 
    ![](assets/image2015-2-5-16-3a33-3a23.png)
 
