@@ -3,9 +3,9 @@ unique-page-id: 30081230
 description: 사람에 대한 대량 작업 - 마케팅 문서 - 제품 설명서
 title: 사람에 대한 일괄 작업
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
 workflow-type: tm+mt
-source-wordcount: '152'
+source-wordcount: '141'
 ht-degree: 0%
 
 ---
@@ -37,7 +37,7 @@ ht-degree: 0%
 
 ## 인증 {#authorization}
 
-[GDPR](http://eugdpr.org/)을 준수하여 권한을 받은 방법을 지정하여 이러한 연락처와 교류할 수 있습니다.
+[GDPR](https://eugdpr.org/)을 준수하여 권한을 받은 방법을 지정하여 이러한 연락처와 교류할 수 있습니다.
 
 ![](assets/authorization.png)
 
@@ -49,7 +49,6 @@ ht-degree: 0%
 
 ## {#delete} 삭제
 
-연락처를 일괄 삭제합니다. 전체 단계는 [여기](http://docs.marketo.com/display/DOCS/How+to+Add+or+Delete+Contacts#HowtoAddorDeleteContacts-DeletingContacts)에서 찾을 수 있습니다.
+연락처를 일괄 삭제합니다. 전체 단계는 [여기](/help/marketo/product-docs/marketo-sales-connect/people/managing-contacts/creating-and-deleting-contacts.md)에서 찾을 수 있습니다.
 
 ![](assets/delete.png)
-
