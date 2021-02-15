@@ -3,7 +3,7 @@ unique-page-id: 2360235
 description: 기회 영향 분석기 만들기 - 마케팅 문서 - 제품 설명서
 title: 기회 영향 분석기 만들기
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
 workflow-type: tm+mt
 source-wordcount: '225'
 ht-degree: 0%
@@ -75,5 +75,5 @@ ht-degree: 0%
 >
 >**자세히 알아보기**
 >
->다른 분석기는 [기본 보고](http://docs.marketo.com/display/docs/basic+reporting)를 참조하십시오.
+>다른 분석기는 [기본 보고](https://docs.marketo.com/display/docs/basic+reporting)를 참조하십시오.
 
