@@ -3,7 +3,7 @@ unique-page-id: 2359965
 description: 보고서 유형 개요 - 마케팅 문서 - 제품 설명서
 title: 보고서 유형 개요
 translation-type: tm+mt
-source-git-commit: d7d6aee63144c472e02fe0221c4a164183d04dd4
+source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
 workflow-type: tm+mt
 source-wordcount: '302'
 ht-degree: 0%
@@ -47,7 +47,7 @@ ht-degree: 0%
   </tr> 
   <tr> 
    <td><strong>  <a href="../../../../product-docs/reporting/revenue-cycle-analytics/revenue-tools/people-by-revenue-stage-report.md">매출 단계별 사람 보고서</a>  </strong></td> 
-   <td><a href="http://docs.marketo.com/display/docs/revenue+cycle+analytics">매출 모델</a>에 대한 기본 보고. 자세한 보고는 <a href="http://docs.marketo.com/display/docs/revenue+cycle+analytics">매출 주기 분석</a>을 참조하십시오.</td> 
+   <td><a href="https://docs.marketo.com/display/docs/revenue+cycle+analytics">매출 모델</a>에 대한 기본 보고. 자세한 보고는 <a href="https://docs.marketo.com/display/docs/revenue+cycle+analytics">매출 주기 분석</a>을 참조하십시오.</td> 
   </tr> 
   <tr> 
    <td><strong>  <a href="../../../../product-docs/demand-generation/landing-pages/understanding-landing-pages/landing-page-performance-report.md">랜딩 페이지 성능</a>  </strong></td> 
@@ -55,7 +55,7 @@ ht-degree: 0%
   </tr> 
   <tr> 
    <td><strong>  <a href="../../../../product-docs/core-marketo-concepts/programs/program-performance-report/create-a-program-performance-report.md">프로그램 성능</a>  </strong></td> 
-   <td>구성원 및 성공과 같은 기본 프로그램 지표. 자세한 보고는 <a href="http://docs.marketo.com/display/docs/revenue+cycle+analytics">매출 주기 분석</a>을 참조하십시오.</td> 
+   <td>구성원 및 성공과 같은 기본 프로그램 지표. 자세한 보고는 <a href="https://docs.marketo.com/display/docs/revenue+cycle+analytics">매출 주기 분석</a>을 참조하십시오.</td> 
   </tr> 
   <tr> 
    <td><strong>  <a href="company-web-activity-report.md">회사 웹 활동</a>  </strong></td> 
@@ -71,7 +71,7 @@ ht-degree: 0%
   </tr> 
   <tr> 
    <td><strong> <a href="../../../../product-docs/email-marketing/drip-nurturing/reports-and-notifications/engagement-stream-performance-report.md">참여 스트림 성능 보고서</a> </strong></td> 
-   <td><p><a href="http://docs.marketo.com/display/docs/drip+nurturing">참여 프로그램</a>이(가) 얼마나 잘 작동하는지 확인합니다.</p></td> 
+   <td><p><a href="https://docs.marketo.com/display/docs/drip+nurturing">참여 프로그램</a>이(가) 얼마나 잘 작동하는지 확인합니다.</p></td> 
   </tr> 
  </tbody> 
 </table>
@@ -89,5 +89,5 @@ ht-degree: 0%
 >
 >**자세히 알아보기**
 >
->이러한 보고서를 사용하여 할 수 있는 모든 작업을 보려면 [기본 보고](http://docs.marketo.com/display/docs/basic+reporting) 세부 정보 검색을 참조하십시오.
+>이러한 보고서를 사용하여 할 수 있는 모든 작업을 보려면 [기본 보고](https://docs.marketo.com/display/docs/basic+reporting) 세부 정보 검색을 참조하십시오.
 
