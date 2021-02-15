@@ -3,7 +3,7 @@ unique-page-id: 13796466
 description: Sales Connect 시작하기 - Marketing Docs - 제품 설명서
 title: Sales Connect 시작하기
 translation-type: tm+mt
-source-git-commit: 0f0217a88929661798015b51a26259a973f9f6ea
+source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
 workflow-type: tm+mt
 source-wordcount: '635'
 ht-degree: 0%
@@ -49,7 +49,7 @@ ht-degree: 0%
 
 ## Sales Connect 계정을 Salesforce {#connect-your-sales-connect-account-to-salesforce}에 연결
 
-Sales Connect 계정을 Salesforce 계정에 연결하려면 관리자 또는 관리자가 아닌 사용자가 [이 문서](http://docs.marketo.com/x/JwDb)의 단계를 따르십시오.
+Sales Connect 계정을 Salesforce 계정에 연결하려면 관리자 또는 관리자가 아닌 사용자가 [이 문서](https://docs.marketo.com/x/JwDb)의 단계를 따르십시오.
 
 >[!NOTE]
 >
@@ -93,7 +93,7 @@ Marketing To 내에서 자격 증명 세트를 받아야 합니다. 이러한 �
 
 계정에 이미 사용자(이전 ToutApp)가 있는 사용자가 있으면 Sales Connect의 Marketing 섹션에 있는 **팀 액세스** 탭에 표시됩니다.
 
-이 페이지에서 Marketing To Sales Connect 사용자로 팀을 프로비저닝할 수 있습니다. ToutApp을 사용하지 않았거나 사용자를 아직 초대하지 않은 경우 [이 문서](http://docs.marketo.com/display/TOUT/Invite+Team+Members)의 단계를 따르십시오.
+이 페이지에서 Marketing To Sales Connect 사용자로 팀을 프로비저닝할 수 있습니다. ToutApp을 사용하지 않았거나 사용자를 아직 초대하지 않은 경우 [이 문서](https://docs.marketo.com/display/TOUT/Invite+Team+Members)의 단계를 따르십시오.
 
 >[!CAUTION]
 >
