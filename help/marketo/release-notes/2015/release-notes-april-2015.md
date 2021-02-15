@@ -3,7 +3,7 @@ unique-page-id: 7511815
 description: 릴리스 노트 - 2015년 4월 - Marketing Docs - 제품 설명서
 title: 릴리스 노트 - 2015년 4월
 translation-type: tm+mt
-source-git-commit: 728066ab05de82f6123bfaa1f0b05af8632e32b2
+source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
 workflow-type: tm+mt
 source-wordcount: '369'
 ht-degree: 0%
@@ -29,9 +29,9 @@ ht-degree: 0%
 
 ## Marketing To Mobile 참여 {#marketo-mobile-engagement}
 
-[Marketing To Mobile 참여](http://docs.marketo.com/display/docs/mobile+marketing)
+[Marketing To Mobile 참여](https://docs.marketo.com/display/docs/mobile+marketing)
 
-[Marketing to Mobile Engagement](http://docs.marketo.com/display/docs/mobile+marketing)를 사용하면 매력적인 모바일 경험을 손쉽게 전달할 수 있습니다. 앱 개발 팀의 도움 없이도 매력적인 컨텐츠를 전달할 수 있는 개인화된 캠페인을 제작할 수 있습니다. 새로운 필터 및 트리거를 사용하여 푸시 알림을 통해 모바일 채널에서 의견을 수렴하고 응답할 수 있습니다.
+[Marketing to Mobile Engagement](https://docs.marketo.com/display/docs/mobile+marketing)를 사용하면 매력적인 모바일 경험을 손쉽게 전달할 수 있습니다. 앱 개발 팀의 도움 없이도 매력적인 컨텐츠를 전달할 수 있는 개인화된 캠페인을 제작할 수 있습니다. 새로운 필터 및 트리거를 사용하여 푸시 알림을 통해 모바일 채널에서 의견을 수렴하고 응답할 수 있습니다.
 
 ![](assets/image2015-4-20-11-3a16-3a55.png)
 
@@ -51,8 +51,8 @@ Salesforce1 앱에서 제공되는 리드 피드, 최고의 투자 효과, 흥�
 
 ## RTP - 계정 기반 마케팅 분석 {#rtp-account-based-marketing-analytics}
 
-RTP - [계정 기반 마케팅 분석](http://docs.marketo.com/pages/viewpage.action?pageid=7511515)
+RTP - [계정 기반 마케팅 분석](https://docs.marketo.com/pages/viewpage.action?pageid=7511515)
 
-지정된 계정 목록에 대한 새로운 성능 그래프와 함께 구매 주기의 각 단계를 기반으로 한 [키 명명 계정 목록](http://docs.marketo.com/pages/viewpage.action?pageid=7511515) 성능을 즉시 확인할 수 있습니다. 그래프는 방문 횟수 및 방문자 상태를 기반으로, 모든 행동 전반에서 시작하여 주요 조직의 방문 단계를 보여줍니다.
+지정된 계정 목록에 대한 새로운 성능 그래프와 함께 구매 주기의 각 단계를 기반으로 한 [키 명명 계정 목록](https://docs.marketo.com/pages/viewpage.action?pageid=7511515) 성능을 즉시 확인할 수 있습니다. 그래프는 방문 횟수 및 방문자 상태를 기반으로, 모든 행동 전반에서 시작하여 주요 조직의 방문 단계를 보여줍니다.
 
 ![](https://lh3.googleusercontent.com/ZipQutmNTRxkWdr_zzdatg31w7xmQ0xkniez-qf2X784MO-0AoHfKE0ltYSeaHU73KxyZc3s0Oklfig_v6bpN7tKnrrX6hHcMs44RFgtUb1qOf_Y5uhKedyHi6tQv3KhUHaCmIc)
