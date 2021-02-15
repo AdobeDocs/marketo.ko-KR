@@ -3,7 +3,7 @@ unique-page-id: 14352477
 description: 판매 연결 푸시 - Marketing To Docs - 제품 설명서
 title: Sales Connect로 푸시
 translation-type: tm+mt
-source-git-commit: 1dd80b7de801df78ac7dde39002455063f9979b7
+source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
 workflow-type: tm+mt
 source-wordcount: '199'
 ht-degree: 0%
@@ -30,10 +30,10 @@ ht-degree: 0%
 1. **이동**&#x200B;을 클릭합니다.
 1. 푸시할 리드/연락처를 모두 선택합니다.
 1. **MSE**&#x200B;로 푸시를 선택합니다.
-1. 푸시할 리드/연락처 수를 확인하는 새 창이 나타납니다. **그룹**&#x200B;으로 계속을 선택합니다. Sales Connect는 Salesforce의 이메일 옵트아웃 또는 Sales Connect의 가입 취소로 표시된 연락처를 푸시하지 않습니다.
+1. 푸시할 리드/연락처 수를 확인하는 새 창이 나타납니다. **그룹**&#x200B;으로 진행을 선택합니다. Sales Connect는 Salesforce의 이메일 옵트아웃 또는 Sales Connect의 가입 취소로 표시된 연락처를 푸시하지 않습니다.
 
    >[!NOTE]
    >
-   >Sales Connect는 &quot;SFDC-...&quot;라는 제목의 이 그룹을 추가합니다. 를 [웹 응용 프로그램](http://toutapp.com/login)의 [관계] 페이지로 이동합니다.
+   >Sales Connect는 &quot;SFDC-...&quot;라는 제목의 이 그룹을 추가합니다. 를 [웹 응용 프로그램](https://toutapp.com/login)의 [관계] 페이지로 이동합니다.
 
 1. **전체 그룹에 이메일**&#x200B;을 선택하여 이 그룹 이메일을 보냅니다.
