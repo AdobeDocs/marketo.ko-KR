@@ -3,7 +3,7 @@ unique-page-id: 2359496
 description: 코드 조각에 컨텐츠 추가 - 마케팅 문서 - 제품 설명서
 title: 조각에 컨텐츠 추가
 translation-type: tm+mt
-source-git-commit: c8a77dc84c023e05fbb442f575269aac108ffb29
+source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
 workflow-type: tm+mt
 source-wordcount: '206'
 ht-degree: 0%
@@ -51,7 +51,7 @@ ht-degree: 0%
 
    >[!NOTE]
    >
-   >자체 이미지 또는 파일을 Marketing To에 추가할 수 있습니다. [이미지 및 파일](http://docs.marketo.com/display/docs/images+and+files)에 대해 자세히 알아보십시오.
+   >자체 이미지 또는 파일을 Marketing To에 추가할 수 있습니다. [이미지 및 파일](https://docs.marketo.com/display/docs/images+and+files)에 대해 자세히 알아보십시오.
 
 1. 사용할 **이미지**&#x200B;를 선택하고 **삽입**&#x200B;을 클릭합니다.
 
