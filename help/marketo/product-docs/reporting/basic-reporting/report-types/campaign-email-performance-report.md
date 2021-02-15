@@ -3,7 +3,7 @@ unique-page-id: 2360188
 description: 캠페인 이메일 성과 보고서 - 마케팅 문서 - 제품 설명서
 title: 캠페인 이메일 성과 보고서
 translation-type: tm+mt
-source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
+source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
 workflow-type: tm+mt
 source-wordcount: '238'
 ht-degree: 0%
@@ -13,7 +13,7 @@ ht-degree: 0%
 
 # 캠페인 이메일 성과 보고서 {#campaign-email-performance-report}
 
-[스마트 캠페인](http://docs.marketo.com/display/docs/smart+campaigns)으로 그룹화된 이메일 성과 통계를 보려면 캠페인 이메일 성과 보고서를 실행하십시오.
+[스마트 캠페인](https://docs.marketo.com/display/docs/smart+campaigns)으로 그룹화된 이메일 성과 통계를 보려면 캠페인 이메일 성과 보고서를 실행하십시오.
 
 1. [보고서를 ](../../../../product-docs/reporting/basic-reporting/creating-reports/create-a-report-in-a-program.md) 만들고  **캠페인 이메일 성과** [보고서 유형을 선택합니다](report-type-overview.md).
 1. [보고서의 시간대를 설정하고 ](../../../../product-docs/reporting/basic-reporting/editing-reports/change-a-report-time-frame.md) 보고서 탭을  **** 클릭합니다.
@@ -53,5 +53,5 @@ ht-degree: 0%
    >**자세히 알아보기**
    >
    >
-   >[기본 보고에서 자세히 알아보십시오.](http://docs.marketo.com/display/docs/basic+reporting)
+   >[기본 보고에서 자세히 알아보십시오.](https://docs.marketo.com/display/docs/basic+reporting)
 
