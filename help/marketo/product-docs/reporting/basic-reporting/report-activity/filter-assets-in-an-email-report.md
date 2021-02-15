@@ -3,7 +3,7 @@ unique-page-id: 2360225
 description: 이메일 보고서의 자산 필터링 - 마케팅 문서 - 제품 설명서
 title: 이메일 보고서의 자산 필터링
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
 workflow-type: tm+mt
 source-wordcount: '162'
 ht-degree: 0%
@@ -55,5 +55,5 @@ ht-degree: 0%
 >
 >**자세히 알아보기**
 >
->[기본 보고](http://docs.marketo.com/display/docs/basic+reporting)의 보고서에 대해 모두 알아봅니다.
+>[기본 보고](https://docs.marketo.com/display/docs/basic+reporting)의 보고서에 대해 모두 알아봅니다.
 
