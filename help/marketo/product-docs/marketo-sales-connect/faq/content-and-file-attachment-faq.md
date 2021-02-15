@@ -3,7 +3,7 @@ unique-page-id: 14746661
 description: 컨텐츠 및 파일 첨부 FAQ - 마케팅 문서 - 제품 설명서
 title: 컨텐츠 및 파일 첨부 FAQ
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
 workflow-type: tm+mt
 source-wordcount: '269'
 ht-degree: 0%
@@ -34,4 +34,3 @@ ht-degree: 0%
 사용자는 고유한 템플릿을 만들 수 있으며 팀별로 구성할 수 있습니다. 이렇게 하려면 팀 관리 페이지를 통해 팀을 만듭니다. 그런 다음 팀에서 템플릿/Playbook/그룹을 공유하게 되면 사용자의 전체 구독과 달리 해당 그룹과도 공유할 수 있습니다.
 
 조직 전체에서 컨텐츠를 공유할 수 있습니다.
-
