@@ -3,7 +3,7 @@ unique-page-id: 14745655
 description: Sales Connect 사용자가 캠페인을 볼 수 있도록 설정 - Marketing To Docs - 제품 설명서
 title: Sales Connect 사용자에게 캠페인 표시
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
 workflow-type: tm+mt
 source-wordcount: '115'
 ht-degree: 0%
@@ -50,4 +50,3 @@ ht-degree: 0%
 1. **예약** 탭과 **캠페인 활성화**&#x200B;를 클릭합니다.
 
    ![](assets/nine.png)
-
