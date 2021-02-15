@@ -3,7 +3,7 @@ unique-page-id: 2949718
 description: 영업 통찰력에 이메일 게시 - 마케팅 문서 - 제품 설명서
 title: 영업 인사이트에 이메일 게시
 translation-type: tm+mt
-source-git-commit: 00887ea53e395bea3a11fd28e0ac98b085ef6ed8
+source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
 workflow-type: tm+mt
 source-wordcount: '213'
 ht-degree: 0%
@@ -43,9 +43,8 @@ Outlook 및 Gmail Add-In뿐만 아니라 Sales Insight의 판매 팀이 이메�
 
 >[!NOTE]
 >
->[Microsoft ](../../../../../../product-docs/core-marketo-concepts/programs/tokens/understanding-my-tokens-in-a-program.md) Dynamics 또는 Salesforce의 Sales Insight에서 이메일을 보낼 때 내 토켄지는 확인되지 않습니다.표준 토큰만 채워집니다(리드, 회사 등). 그러나 토큰의 기본값은 작동합니다.
+>[Microsoft ](/help/marketo/product-docs/core-marketo-concepts/programs/tokens/understanding-my-tokens-in-a-program.md) Dynamics 또는 Salesforce의 Sales Insight에서 이메일을 보낼 때 내 토켄지는 확인되지 않습니다.표준 토큰만 채워집니다(리드, 회사 등). 그러나 토큰의 기본값은 작동합니다.
 
 >[!TIP]
 >
->변경 사항이 적용되려면 이 이메일을 승인해야 합니다. [이메일 승인](../../../../../../product-docs/email-marketing/general/creating-an-email/approve-an-email.md)하는 방법을 알아봅니다.
-
+>변경 사항이 적용되려면 이 이메일을 승인해야 합니다. [이메일 승인](/help/marketo/product-docs/email-marketing/general/creating-an-email/approve-an-email.md)하는 방법을 알아봅니다.
