@@ -3,9 +3,9 @@ unique-page-id: 30081250
 description: 그룹 관리 - 마케팅 문서 - 제품 설명서
 title: 그룹 관리
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
 workflow-type: tm+mt
-source-wordcount: '286'
+source-wordcount: '280'
 ht-degree: 0%
 
 ---
@@ -17,7 +17,7 @@ Sales Connect에서 그룹을 관리하는 방법을 알아봅니다.
 
 ## 그룹 {#create-a-group} 만들기
 
-1. 사람 페이지에서 그룹 옆에 있는 **더하기 기호**&#x200B;를 클릭합니다.
+1. 사람 페이지에서 그룹 옆에 있는 **+**&#x200B;을 클릭합니다.
 
    ![](assets/one-4.png)
 
@@ -39,7 +39,7 @@ Sales Connect에서 그룹을 관리하는 방법을 알아봅니다.
 
    >[!NOTE]
    >
-   >이렇게 하면 한 번에 한 명의 담당자가 추가됩니다. 동시에 여러 연락처를 추가하려면 [다음 단계](http://docs.marketo.com/x/VADb)를 따르십시오.
+   >이렇게 하면 한 번에 한 명의 담당자가 추가됩니다. 동시에 여러 연락처를 추가하려면 [다음 단계](/help/marketo/product-docs/marketo-sales-connect/people/managing-contacts/import-contacts-via-csv.md)를 따르십시오.
 
 1. 연락처 정보를 채우고 **만들기**(또는 **새로 만들기 및 추가**&#x200B;를 클릭하여 다른 연락처 정보를 추가합니다.)
 
@@ -114,4 +114,3 @@ Sales Connect에서 그룹을 관리하는 방법을 알아봅니다.
 1. **삭제**&#x200B;를 클릭하여 확인합니다.
 
    ![](assets/seventeen.png)
-
