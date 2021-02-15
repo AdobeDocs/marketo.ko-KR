@@ -3,7 +3,7 @@ unique-page-id: 1147025
 description: 스마트 캠페인에서 웹 후크 사용 - 마케팅 문서 - 제품 설명서
 title: 스마트 캠페인에서 웹 후크 사용
 translation-type: tm+mt
-source-git-commit: 4a0bd2efe99284807a46d07ffef0070d9a303631
+source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
 workflow-type: tm+mt
 source-wordcount: '105'
 ht-degree: 0%
@@ -13,7 +13,7 @@ ht-degree: 0%
 
 # 스마트 캠페인 {#use-a-webhook-in-a-smart-campaign}에서 웹 후크 사용
 
-[웹후크](http://developers.marketo.com/documentation/webhooks/)를 사용하려면 [스마트 캠페인](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/add-a-flow-step-to-a-smart-campaign.md)에 흐름 작업으로 추가합니다.
+[웹후크](https://developers.marketo.com/documentation/webhooks/)를 사용하려면 [스마트 캠페인](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/add-a-flow-step-to-a-smart-campaign.md)에 흐름 작업으로 추가합니다.
 
 >[!AVAILABILITY]
 >
