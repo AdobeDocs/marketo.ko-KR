@@ -3,7 +3,7 @@ unique-page-id: 12983390
 description: Azure에 앱을 등록하여 클라이언트 ID/앱 ID - Marketing To Docs - 제품 설명서
 title: Azure에 앱을 등록하여 클라이언트 ID/앱 ID 받기
 translation-type: tm+mt
-source-git-commit: 2b5ccd7220557a5e966d33436d0f0d2a65e4589d
+source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
 workflow-type: tm+mt
 source-wordcount: '347'
 ht-degree: 0%
@@ -17,7 +17,7 @@ Azure Active Directory는 온-프레미스 디렉터리를 클라우드로 확�
 
 ## 새 앱 등록 {#registering-a-new-app}
 
-1. [관리자 ](http://manage.windowsazure.com/) 권한이 있는 계정을 사용하여 Microsoft Azure 관리 포털에 로그인합니다. 왼쪽 탐색 창에서 **관리** 항목을 확장하고 **Azure AD**&#x200B;을 선택하여 Office 365 관리 센터를 통해 Microsoft Azure 포털에 액세스할 수도 있습니다.
+1. [관리자 ](https://manage.windowsazure.com/) 권한이 있는 계정을 사용하여 Microsoft Azure 관리 포털에 로그인합니다. 왼쪽 탐색 창에서 **관리** 항목을 확장하고 **Azure AD**&#x200B;을 선택하여 Office 365 관리 센터를 통해 Microsoft Azure 포털에 액세스할 수도 있습니다.
 
    >[!CAUTION]
    >
