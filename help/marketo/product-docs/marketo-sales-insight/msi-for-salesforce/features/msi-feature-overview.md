@@ -3,9 +3,9 @@ unique-page-id: 37356893
 description: MSI 기능 개요 - Marketing To Docs - 제품 설명서
 title: MSI 기능 개요
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
 workflow-type: tm+mt
-source-wordcount: '916'
+source-wordcount: '908'
 ht-degree: 0%
 
 ---
@@ -21,7 +21,7 @@ MSI Visualforce 패널에는 다음 기능이 포함됩니다.
 
 * 탭
 
-   * [인사이트 대시보드](http://docs.marketo.com/x/EoGMAg)
+   * [인사이트 대시보드](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/features/insights-dashboard-feature-overview.md)
    * 흥미로운 순간
    * 웹 활동
    * 이메일
@@ -170,7 +170,7 @@ Salesforce Classic:리드 및 연락처 목록 보기에서 감시 목록에 추
 
 >[!MORELIKETHIS]
 >
->[Salesforce의 Marketing To Sales Insight 구성 탭](http://docs.marketo.com/x/UoCMAg)
+>[Salesforce의 Marketing To Sales Insight 구성 탭](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/configuration/marketo-sales-insight-configuration-tab-in-salesforce.md)
 
 ## Sales Insight 성과 보고서 {#sales-insight-performance-reports}
 
