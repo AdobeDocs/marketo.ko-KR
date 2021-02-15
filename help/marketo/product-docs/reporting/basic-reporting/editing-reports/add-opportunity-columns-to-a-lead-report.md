@@ -3,7 +3,7 @@ unique-page-id: 2360018
 description: 리드 보고서에 기회 열 추가 - 마케팅 문서 - 제품 설명서
 title: 리드 보고서에 기회 열 추가
 translation-type: tm+mt
-source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
+source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
 workflow-type: tm+mt
 source-wordcount: '308'
 ht-degree: 0%
@@ -13,7 +13,7 @@ ht-degree: 0%
 
 # 리드 보고서에 기회 열 추가 {#add-opportunity-columns-to-a-lead-report}
 
-[사람 보고서](http://docs.marketo.com/display/docs/basic+reporting)에서 기회에 대한 통계를 보려면 기회 열을 추가할 수 있습니다.
+[사람 보고서](https://docs.marketo.com/display/docs/basic+reporting)에서 기회에 대한 통계를 보려면 기회 열을 추가할 수 있습니다.
 
 1. **마케팅 활동** 영역으로 이동합니다.
 
@@ -77,5 +77,5 @@ ht-degree: 0%
    >**자세히 알아보기**
    >
    >
-   >[기본 보고](http://docs.marketo.com/display/docs/basic+reporting) 깊이 도에서 보고서를 사용하여 수행할 수 있는 또 다른 작업을 확인하십시오.
+   >[기본 보고](https://docs.marketo.com/display/docs/basic+reporting) 깊이 도에서 보고서를 사용하여 수행할 수 있는 또 다른 작업을 확인하십시오.
 
