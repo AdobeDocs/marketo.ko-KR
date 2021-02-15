@@ -3,9 +3,9 @@ unique-page-id: 37355596
 description: 글로벌 MS Dynamics 동기화 비활성화 - Marketing To Docs - 제품 설명서
 title: 글로벌 MS Dynamics 동기화 비활성화
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
 workflow-type: tm+mt
-source-wordcount: '62'
+source-wordcount: '63'
 ht-degree: 0%
 
 ---
@@ -29,5 +29,4 @@ ht-degree: 0%
 
    >[!NOTE]
    >
-   >인스턴스에 동기화 비활성화 단추가 표시되지 않는 경우 [Marketing Support](http://nation.marketo.com/community/support_solutions)에 문의하십시오.
-
+   >인스턴스에 동기화 비활성화 단추가 표시되지 않는 경우 [Marketing Support](https://nation.marketo.com/t5/Support/ct-p/Support)에 문의하십시오.
