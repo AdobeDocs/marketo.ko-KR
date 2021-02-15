@@ -3,9 +3,9 @@ unique-page-id: 14352602
 description: 내 동적 필드가 채워지지 않음 - 마케팅 문서 - 제품 설명서
 title: 내 동적 필드가 채워지지 않음
 translation-type: tm+mt
-source-git-commit: 5c9683c6b00ccbf9e9d606fd4513432c9872ad00
+source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
 workflow-type: tm+mt
-source-wordcount: '290'
+source-wordcount: '301'
 ht-degree: 0%
 
 ---
@@ -17,13 +17,13 @@ ht-degree: 0%
 
 ## {#what-to-check} 확인
 
-Sales Connect에는 3가지 유형의 동적 필드가 있습니다.기본, 맞춤형 및 Salesforce. 기본 및 사용자 지정 모두 [웹 응용 프로그램](http://toutapp.com/login)에서 정보를 가져옵니다. 웹 응용 프로그램에 정보가 없으면 필드가 비어 있게 됩니다. Salesforce 필드는 [Salesforce.com](http://salesforce.com)에서 정보를 가져옵니다.
+Sales Connect에는 3가지 유형의 동적 필드가 있습니다.기본, 맞춤형 및 Salesforce. 기본 및 사용자 지정 모두 [웹 응용 프로그램](https://toutapp.com/login)에서 정보를 가져옵니다. 웹 응용 프로그램에 정보가 없으면 필드가 비어 있게 됩니다. Salesforce 필드는 [Salesforce.com](https://salesforce.com)에서 정보를 가져옵니다.
 
-`**Troubleshooting Salesforce Fields**`
+**Salesforce 필드 문제 해결**
 
 Salesforce 필드:예:`{{sfdc_account_name}}`
 
-* Sales Connect에 제대로 연결되었는지 확인합니다. [설정](http://toutapp.com/next#settings) 페이지로 이동하여 CRM 옆에 있는 **관리**&#x200B;를 클릭합니다.
+* Sales Connect에 제대로 연결되었는지 확인합니다. [설정](https://toutapp.com/login) 페이지로 이동하여 CRM 옆에 있는 **관리**&#x200B;를 클릭합니다.
 
 **기본 및 사용자 지정 필드 문제 해결**
 
@@ -31,7 +31,7 @@ Salesforce 필드:예:`{{sfdc_account_name}}`
 
 사용자 정의 필드 체크아웃:예:`{{custom_field_favorite_movie}}`
 
-* 참조할 동적 필드에 대한 [사람 페이지](http://toutapp.com/next#relationships)의 `he corresponding field needs to be saved for your contact`에 있습니다. 예를 들어 Mary에게 이메일을 보내고 `{{company}}` 필드를 사용하지만 그녀의 연락처 기록에 회사가 나열되지 않는 경우 해당 내용을 채울 수 없습니다.
+* 동적 필드를 참조하려면 [사람 페이지](https://toutapp.com/next#relationships)에서 연락처를 위해 해당 필드를 저장해야 합니다. 예를 들어 Mary에게 이메일을 보내고 `{{company}}` 필드를 사용하지만 그녀의 연락처 기록에 회사가 나열되지 않는 경우 해당 내용을 채울 수 없습니다.
 
 ## 모든 동적 필드를 채우지 않고 전자 메일을 보낸 이유는 무엇입니까?{#why-did-my-email-send-without-populating-all-dynamic-fields}
 
@@ -50,4 +50,3 @@ Salesforce 필드:예:`{{sfdc_account_name}}`
 >[!NOTE]
 >
 >`{{first_name}}` 필드는 Sales Connect와 Salesforce에서 정보를 가져오려고 합니다. 이 목록의 다른 모든 필드는 필드를 채우려면 Sales Connect만 찾습니다.
-
