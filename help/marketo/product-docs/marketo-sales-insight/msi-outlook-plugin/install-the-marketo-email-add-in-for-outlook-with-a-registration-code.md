@@ -3,7 +3,7 @@ unique-page-id: 2949711
 description: 등록 코드 - Marketing Docs - 제품 설명서와 함께 Outlook용 Marketing To Email Add-in을 설치합니다.
 title: 등록 코드와 함께 Outlook용 Marketing To 전자 메일 추가 기능 설치
 translation-type: tm+mt
-source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
+source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
 workflow-type: tm+mt
 source-wordcount: '388'
 ht-degree: 0%
@@ -27,7 +27,7 @@ ht-degree: 0%
 
 ## 설치 프로그램 다운로드 {#download-installer}
 
-1. [Microsoft Outlook 버전 식별](http://support.office.com/en-us/article/what-version-of-outlook-do-i-have-b3a9568c-edb5-42b9-9825-d48d82b2257c)
+1. [Microsoft Outlook 버전 식별](https://support.office.com/en-us/article/what-version-of-outlook-do-i-have-b3a9568c-edb5-42b9-9825-d48d82b2257c)
 1. 사용 중인 Microsoft Outlook 버전에 해당하는 설치 프로그램을 다운로드하려면 링크를 클릭합니다.
 
    >[!NOTE]
@@ -37,13 +37,13 @@ ht-degree: 0%
    | Outlook 버전 | 32비트 Outlook | 64비트 Outlook |
    |---|---|---|
    | Outlook 2000 | 지원되지 않음 | 해당 없음 |
-   | Outlook 2003 | [다운로드](http://munchkin.marketo.net/MarketoAddInSetup32.msi) | 해당 없음 |
-   | Outlook 2007 | [다운로드](http://munchkin.marketo.net/MarketoAddInSetup32.msi) | 해당 없음 |
-   | Outlook 2010 | [다운로드](http://munchkin.marketo.net/MarketoAddInSetup32.msi) | [다운로드](http://munchkin.marketo.net/MarketoAddInSetup64.msi) |
-   | Outlook 2013 | [다운로드](http://munchkin.marketo.net/MarketoAddInSetup32.msi) | [다운로드](http://munchkin.marketo.net/MarketoAddInSetup64.msi) |
-   | Outlook 2016 | [다운로드](http://munchkin.marketo.net/MarketoAddInSetup32.msi) | [다운로드](http://munchkin.marketo.net/MarketoAddInSetup64.msi) |
-   | Outlook 2019 | [다운로드](http://munchkin.marketo.net/MarketoAddInSetup32.msi) | [다운로드](http://munchkin.marketo.net/MarketoAddInSetup64.msi) |
-   | Outlook O365(Windows 전용) | [다운로드](http://munchkin.marketo.net/MarketoAddInSetup32.msi) | [다운로드](http://munchkin.marketo.net/MarketoAddInSetup64.msi) |
+   | Outlook 2003 | [다운로드](https://munchkin.marketo.net/MarketoAddInSetup32.msi) | 해당 없음 |
+   | Outlook 2007 | [다운로드](https://munchkin.marketo.net/MarketoAddInSetup32.msi) | 해당 없음 |
+   | Outlook 2010 | [다운로드](https://munchkin.marketo.net/MarketoAddInSetup32.msi) | [다운로드](https://munchkin.marketo.net/MarketoAddInSetup64.msi) |
+   | Outlook 2013 | [다운로드](https://munchkin.marketo.net/MarketoAddInSetup32.msi) | [다운로드](https://munchkin.marketo.net/MarketoAddInSetup64.msi) |
+   | Outlook 2016 | [다운로드](https://munchkin.marketo.net/MarketoAddInSetup32.msi) | [다운로드](https://munchkin.marketo.net/MarketoAddInSetup64.msi) |
+   | Outlook 2019 | [다운로드](https://munchkin.marketo.net/MarketoAddInSetup32.msi) | [다운로드](https://munchkin.marketo.net/MarketoAddInSetup64.msi) |
+   | Outlook O365(Windows 전용) | [다운로드](https://munchkin.marketo.net/MarketoAddInSetup32.msi) | [다운로드](https://munchkin.marketo.net/MarketoAddInSetup64.msi) |
    | Mac용 Outlook | 지원되지 않음 | 지원되지 않음 |
    | Outlook 웹 앱 | 지원되지 않음 | 지원되지 않음 |
 
