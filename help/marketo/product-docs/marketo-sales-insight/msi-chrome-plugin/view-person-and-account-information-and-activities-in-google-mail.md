@@ -3,7 +3,7 @@ unique-page-id: 10095358
 description: Google Mail - Marketing To Docs - 제품 문서에서 개인 및 계정 정보 및 활동 보기
 title: Google Mail에서 개인 및 계정 정보 및 활동 보기
 translation-type: tm+mt
-source-git-commit: d7d6aee63144c472e02fe0221c4a164183d04dd4
+source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
 workflow-type: tm+mt
 source-wordcount: '310'
 ht-degree: 0%
@@ -49,5 +49,4 @@ Google Chrome의 전역 활동 창을 사용하여 최근에 해당되는 모든
 
 >[!MORELIKETHIS]
 >
->[Google Chrome용 Marketing To Insights 사용](using-marketo-insights-for-google-chrome.md)
-
+>[Google Chrome용 Marketing To Insights 사용](/help/marketo/product-docs/marketo-sales-insight/msi-chrome-plugin/using-marketo-insights-for-google-chrome.md)
