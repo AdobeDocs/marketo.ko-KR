@@ -3,7 +3,7 @@ unique-page-id: 2359474
 description: 세그멘테이션 편집 - 마케팅 문서 - 제품 설명서
 title: 세그멘테이션 편집
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
 workflow-type: tm+mt
 source-wordcount: '205'
 ht-degree: 0%
@@ -39,7 +39,7 @@ ht-degree: 0%
    >
    >초안 세그먼트만 편집할 수 있고 승인된 세그먼테이션은 편집할 수 없습니다.
 
-1. **세그먼트 추가**, **기존 세그먼트 편집(이름 변경 또는 순서 변경) 또는 **세그먼트 삭제**.
+1. **세그먼트** 추가, **기존 세그먼트 편집(순서 이름 변경) 또는 **세그먼트 삭제** 세그먼트를 추가합니다.
 
    ![](assets/image2014-9-16-9-3a6-3a9.png)
 
@@ -53,7 +53,7 @@ ht-degree: 0%
 
 ## 세그먼트 규칙 편집 {#edit-segment-rules}
 
-1. 초안 **세그먼트**&#x200B;에서 **스마트 목록**&#x200B;으로 이동합니다. [세그먼트 규칙 정의](http://docs.marketo.com/display/public/DOCS/Define+Segment+Rules)와 유사한 규칙을 적용합니다.
+1. 초안 **세그먼트**&#x200B;에서 **스마트 목록**&#x200B;으로 이동합니다. [세그먼트 규칙 정의](https://docs.marketo.com/display/public/DOCS/Define+Segment+Rules)와 유사한 규칙을 적용합니다.
 
    ![](assets/image2014-9-16-9-3a6-3a20.png)
 
