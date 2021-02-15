@@ -3,7 +3,7 @@ unique-page-id: 2360002
 description: 보고서 크기 구성 - 마케팅 문서 - 제품 설명서
 title: 보고서 크기 구성
 translation-type: tm+mt
-source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
+source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
 workflow-type: tm+mt
 source-wordcount: '129'
 ht-degree: 0%
@@ -47,5 +47,5 @@ ht-degree: 0%
    >
    >이제 보고서](../../../../product-docs/reporting/basic-reporting/report-activity/export-a-report-to-excel.md)을 새 제한 값으로 내보낼 수 있습니다.[
 
-   [기본 보고](http://docs.marketo.com/display/docs/basic+reporting) 세부 조사에서 보고서를 구성하는 더 많은 방법을 참조하십시오.
+   [기본 보고](https://docs.marketo.com/display/docs/basic+reporting) 세부 조사에서 보고서를 구성하는 더 많은 방법을 참조하십시오.
 
