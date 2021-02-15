@@ -3,7 +3,7 @@ unique-page-id: 13795536
 description: 정적 목록을 사용하여 세그먼트 만들기 - 마케팅 문서 - 제품 설명서
 title: 정적 목록을 사용하여 세그먼트 만들기
 translation-type: tm+mt
-source-git-commit: 00887ea53e395bea3a11fd28e0ac98b085ef6ed8
+source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
 workflow-type: tm+mt
 source-wordcount: '176'
 ht-degree: 0%
@@ -13,7 +13,7 @@ ht-degree: 0%
 
 # 정적 목록 {#create-a-segment-using-a-static-list}을 사용하여 세그먼트 만들기
 
-마커 [정적 목록](http://docs.marketo.com/display/DOCS/Understanding+Static+Lists)에 있는지 여부를 기준으로 웹 사이트를 방문할 때 알고 있는 웹 방문자를 세그먼트화합니다.
+마커 [정적 목록](https://docs.marketo.com/display/DOCS/Understanding+Static+Lists)에 있는지 여부를 기준으로 웹 사이트를 방문할 때 알고 있는 웹 방문자를 세그먼트화합니다.
 
 1. **세그먼트**&#x200B;로 이동합니다.
 
