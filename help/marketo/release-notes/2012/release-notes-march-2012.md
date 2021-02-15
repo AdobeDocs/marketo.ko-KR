@@ -3,7 +3,7 @@ unique-page-id: 2951122
 description: 릴리스 노트 - 2012년 3월 - Marketing Docs - 제품 설명서
 title: 릴리스 노트 - 2012년 3월
 translation-type: tm+mt
-source-git-commit: 96cc6a30c63c8e8dca793a52e4bf7ecaef8c08dc
+source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
 workflow-type: tm+mt
 source-wordcount: '261'
 ht-degree: 0%
@@ -17,7 +17,7 @@ ht-degree: 0%
 >
 >**자세히 알아보기**
 >
->다른 릴리스의 경우 [릴리스 노트](http://docs.marketo.com/display/docs/release+notes) 깊이 검색을 참조하십시오.
+>다른 릴리스의 경우 [릴리스 노트](https://docs.marketo.com/display/docs/release+notes) 깊이 검색을 참조하십시오.
 >
 >## 내 토큰 확인 {#resolve-my-tokens}
 
@@ -37,7 +37,7 @@ Previewer로 편집기:
 
 ## 코드 단편 미리 뷰어 {#snippet-previewer}
 
-메뉴에서 &quot;코드 단편 미리 보기&quot;를 선택하면 코드 조각을 초안 없이 볼 수 있습니다. 또한 공유 코드 조각(작업 영역을 통해)에 대한 읽기 전용 액세스 권한이 있으면 이 작업으로 코드 조각을 볼 수 있습니다
+메뉴에서 &quot;코드 단편 미리 보기&quot;를 선택하면 코드 조각을 초안 없이 볼 수 있습니다. 또한 공유 코드 조각(작업 영역을 통해)에 대한 읽기 전용 액세스 권한이 있는 경우 이 작업으로 코드 조각을 볼 수 있습니다
 
 ![](assets/image2014-9-23-10-3a0-3a37.png)
 
