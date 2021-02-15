@@ -3,7 +3,7 @@ unique-page-id: 2949285
 description: Marketing To - Marketing To Docs - 제품 문서에서 리드의 인바운드 메일 기록
 title: Marketing에서 리드의 인바운드 메일 기록
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 7952f5069ed641e2b5ca329c69f4e3f237e2c43e
 workflow-type: tm+mt
 source-wordcount: '142'
 ht-degree: 0%
@@ -43,10 +43,6 @@ Outlook에서 바로 Marketing to Email Add-In을 사용하여 리드의 응답�
 
 >[!MORELIKETHIS]
 >
->* [Outlook용 Marketing To 이메일 추가 기능을 사용하여 이메일 보내기 및 추적](../../../product-docs/marketo-sales-insight/msi-outlook-plugin/send-and-track-an-email-with-the-email-add-in-for-outlook.md)
->* [마케팅 템플릿을 사용하여 Outlook에서 보내기 및 추적](../../../product-docs/marketo-sales-insight/msi-outlook-plugin/send-and-track-from-outlook-using-a-marketo-template.md)
-
->
-
-
+>* [Outlook용 Marketing To 이메일 추가 기능을 사용하여 이메일 보내기 및 추적](/help/marketo/product-docs/marketo-sales-insight/msi-outlook-plugin/send-and-track-an-email-with-the-email-add-in-for-outlook.md)
+>* [마케팅 템플릿을 사용하여 Outlook에서 보내기 및 추적](/help/marketo/product-docs/marketo-sales-insight/msi-outlook-plugin/send-and-track-from-outlook-using-a-marketo-template.md)
 
