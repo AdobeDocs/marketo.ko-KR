@@ -3,7 +3,7 @@ unique-page-id: 10100649
 description: 인앱 메시지 배경 - 마케팅 문서 - 제품 설명서 설정
 title: 인앱 메시지 배경 설정
 translation-type: tm+mt
-source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
+source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
 workflow-type: tm+mt
 source-wordcount: '301'
 ht-degree: 0%
@@ -75,7 +75,7 @@ ht-degree: 0%
    >    
    >    
    >    * [인앱 메시지 이해](../../../../product-docs/mobile-marketing/in-app-messages/understanding-in-app-messages.md)
-   >    * [인앱 메시지 보내기](http://docs.marketo.com/pages/viewpage.action?pageid=10617378)
+   >    * [인앱 메시지 보내기](https://docs.marketo.com/pages/viewpage.action?pageid=10617378)
    >    * [인앱 메시지에 사용할 레이아웃 선택](choose-a-layout-for-your-in-app-message.md)
 
 
