@@ -3,7 +3,7 @@ unique-page-id: 14745959
 description: 릴리스 노트 -18년 봄 - Marketing To Docs - 제품 설명서
 title: 릴리스 노트 -18년 봄
 translation-type: tm+mt
-source-git-commit: f74d028e491aa70913fbe5cf14e536e50dbee32b
+source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
 workflow-type: tm+mt
 source-wordcount: '485'
 ht-degree: 0%
@@ -27,7 +27,7 @@ ht-degree: 0%
 >
 >Sales Engage는 추가 제품입니다. 견적을 받으려면 마케팅 고객 성공 관리자 또는 계정 담당자에게 문의하십시오.
 
-인텔리전스, 컨텐츠, Playbook 및 분석을 통해 매출을 증대시키고 더 많은 리드를 세일즈 기회로 전환할 수 있으므로 파이프라인과 매출을 보다 향상시킬 수 있습니다. Sales Engage는 고객 여정 전반에서 고객 참여를 위한 통합 플랫폼을 통해 세일즈 및 마케팅을 전개하고 고객 접점을 공유하여 효과적으로 조정할 수 있습니다.
+인텔리전스, 컨텐츠, Playbook 및 분석을 통해 매출을 증대시키고 더 많은 리드를 세일즈 기회로 전환할 수 있으므로 파이프라인과 매출을 보다 향상시킬 수 있습니다. Sales Engage는 고객 여정 전반에 걸쳐 고객의 참여를 위한 통합 플랫폼을 통해 세일즈 및 마케팅을 지원하고 고객 접점을 공유하여 효과적으로 조정할 수 있습니다.
 
 **ToutApp**
 
@@ -81,12 +81,12 @@ ht-degree: 0%
 
 시스템 알림과 흥미로운 순간을 Facebook Workplace로 보낼 수 있습니다.
 
-[정적 목록 API](http://developers.marketo.com/rest-api/assets/static-lists/)
+[정적 목록 API](https://developers.marketo.com/rest-api/assets/static-lists/)
 
 Marketing To UI에서 작업을 수행하지 않고도 정적 목록을 원격으로 작성, 읽기, 업데이트 및 삭제할 수 있는 양방향 API를 사용하여 Marketing과 다른 시스템 간의 목록을 보다 손쉽게 관리할 수 있습니다.
 
 ## 개인 정보 개선 사항 {#privacy-enhancements}
 
-[웹 추적 개인 정보](http://developers.marketo.com/javascript-api/lead-tracking/)
+[웹 추적 개인 정보](https://developers.marketo.com/javascript-api/lead-tracking/)
 
 향상된 Munchkin 추적은 웹 방문자의 IP 주소를 익명으로 처리하여 웹 추적을 영구적으로 옵트아웃할 수 있도록 함으로써 로컬 및 국제 개인 정보 보호 규정을 준수합니다.
