@@ -3,7 +3,7 @@ unique-page-id: 6094879
 description: 웹 캠페인에 Target URL 추가 - 마케팅 문서 - 제품 설명서
 title: 웹 캠페인에 Target URL 추가
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
 workflow-type: tm+mt
 source-wordcount: '265'
 ht-degree: 0%
@@ -58,7 +58,7 @@ Target URL은 캠페인 설정 페이지 아래에 있으며 웹 캠페인이 �
 >
 >
 >* 대화 상자 및 위젯 웹 캠페인에서는 모든 페이지 및 와일드카드(*) 옵션을 사용할 수 있습니다.
-* 고급 사용 사례에서 영역 웹 캠페인은 URL 경로 끝에 와일드카드를 사용할 수 있습니다. 예:[www.marketo.com/software/personalization/*](http://www.marketo.com/software/personalization/*)
+* 고급 사용 사례에서 영역 웹 캠페인은 URL 경로 끝에 와일드카드를 사용할 수 있습니다. 예:[www.marketo.com/software/personalization/*](https://www.marketo.com/software/personalization/*)
 * URL은 대/소문자를 구분합니다.
 
 
@@ -72,10 +72,10 @@ Target URL은 캠페인 설정 페이지 아래에 있으며 웹 캠페인이 �
 
    ![](assets/create-new-web-campaign-hand.jpg)
 
-1. 캠페인 이름** 추가합니다**. **Target 세그먼트**&#x200B;를 선택합니다. **Target URL**&#x200B;을 추가합니다.
+1. 캠페인 이름** 추가를 **. **Target 세그먼트**&#x200B;를 선택합니다. **Target URL**&#x200B;을 추가합니다.
 
    >[!NOTE]
-   [시작 영역]을 사용하는 Target URL은 특정 URL 또는 URL을 정의해야 합니다. 고급 사용 사례에서 영역 웹 캠페인은 URL 경로 끝에 와일드카드를 사용할 수 있습니다. 예:[www.marketo.com/software/personalization/*](http://www.marketo.com/software/personalization/*)
+   [시작 영역]을 사용하는 Target URL은 특정 URL 또는 URL을 정의해야 합니다. 고급 사용 사례에서 영역 웹 캠페인은 URL 경로 끝에 와일드카드를 사용할 수 있습니다. 예:[www.marketo.com/software/personalization/*](https://www.marketo.com/software/personalization/*)
 
    ![](assets/set-web-campaign-multiple-hands.jpg)
 
