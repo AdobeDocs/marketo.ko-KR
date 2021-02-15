@@ -3,7 +3,7 @@ unique-page-id: 2360016
 description: 스마트 목록을 사용하여 보고서에서 인물 필터링 - 마케팅 문서 - 제품 설명서
 title: 스마트 목록을 사용하여 보고서에서 인물 필터링
 translation-type: tm+mt
-source-git-commit: d7d6aee63144c472e02fe0221c4a164183d04dd4
+source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
 workflow-type: tm+mt
 source-wordcount: '163'
 ht-degree: 0%
@@ -19,7 +19,7 @@ ht-degree: 0%
 
 * [사람 성능](../../../../product-docs/reporting/basic-reporting/report-types/people-performance-report.md)
 * [상태별 사람](../../../../product-docs/reporting/basic-reporting/report-types/people-by-status-report.md)
-* [매출 단계별 사람](http://docs.marketo.com/display/DOCS/People+by+Revenue+Stage+Report)
+* [매출 단계별 사람](https://docs.marketo.com/display/DOCS/People+by+Revenue+Stage+Report)
 * [이메일 성능](../../../../product-docs/email-marketing/email-programs/email-program-data/email-performance-report.md)
 * [이메일 링크 성능](../../../../product-docs/email-marketing/email-programs/email-program-data/email-link-performance-report.md)
 * [참여 스트림 성능](../../../../product-docs/email-marketing/drip-nurturing/reports-and-notifications/engagement-stream-performance-report.md)
@@ -55,5 +55,5 @@ ht-degree: 0%
    >**자세히 알아보기**
    >
    >
-   >보고서 사용 방법에 대한 자세한 내용은 [기본 보고](http://docs.marketo.com/display/docs/basic+reporting) 세부 정보를 참조하십시오.
+   >보고서 사용 방법에 대한 자세한 내용은 [기본 보고](https://docs.marketo.com/display/docs/basic+reporting) 세부 정보를 참조하십시오.
 
