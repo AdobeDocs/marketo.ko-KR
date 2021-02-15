@@ -3,7 +3,7 @@ unique-page-id: 2360199
 description: 속성별 사람 보고서 그룹화 - 마케팅 문서 - 제품 설명서
 title: 속성별 사람 보고서 그룹화
 translation-type: tm+mt
-source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
+source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
 workflow-type: tm+mt
 source-wordcount: '156'
 ht-degree: 0%
@@ -13,7 +13,7 @@ ht-degree: 0%
 
 # {#group-person-reports-by-attribute} 속성별 그룹 개인 보고서
 
-개인 또는 회사 특성을 기준으로 [사람 보고서](http://docs.marketo.com/display/docs/basic+reporting)를 그룹화할 수 있습니다.
+개인 또는 회사 특성을 기준으로 [사람 보고서](https://docs.marketo.com/display/docs/basic+reporting)를 그룹화할 수 있습니다.
 
 1. **마케팅 활동**(또는 **분석**) 영역으로 이동합니다.
 
@@ -48,7 +48,7 @@ ht-degree: 0%
    >**자세히 알아보기**
    >
    >
-   >[기본 보고](http://docs.marketo.com/display/docs/basic+reporting)딥 잠수에서 개인 보고서와 기타 보고서 유형에 대해 자세히 알아보십시오.
+   >[기본 보고](https://docs.marketo.com/display/docs/basic+reporting)딥 잠수에서 개인 보고서와 기타 보고서 유형에 대해 자세히 알아보십시오.
 
    >[!MORELIKETHIS]
    >
