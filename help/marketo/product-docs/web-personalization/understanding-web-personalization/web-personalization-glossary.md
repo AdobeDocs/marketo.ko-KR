@@ -3,7 +3,7 @@ unique-page-id: 3571927
 description: 웹 개인화 용어집 - 마케팅 문서 - 제품 설명서
 title: 웹 개인화 용어집
 translation-type: tm+mt
-source-git-commit: 00887ea53e395bea3a11fd28e0ac98b085ef6ed8
+source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
 workflow-type: tm+mt
 source-wordcount: '277'
 ht-degree: 0%
@@ -31,7 +31,7 @@ Marketing to Web Personalization의 전 세계 및 언어에 대한 일부 통�
 
 웹 개인화에 와일드카드를 사용할 수 있는 3가지 방법은 다음과 같습니다.
 
-가격으로 끝나는 페이지 URL의 모든 방문자 일치(예: [www.marketo.com/pricing):](http://www.marketo.com/pricing):)
+가격으로 끝나는 페이지 URL의 모든 방문자 일치(예: [www.marketo.com/pricing):](https://www.marketo.com/pricing):)
 
 ![](assets/wildcard-example-1.png)
 
