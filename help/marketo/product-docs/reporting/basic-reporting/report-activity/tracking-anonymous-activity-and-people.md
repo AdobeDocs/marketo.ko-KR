@@ -3,7 +3,7 @@ unique-page-id: 2360181
 description: 익명의 활동 및 사람 추적 - 마케팅 문서 - 제품 설명서
 title: 익명 활동 및 사람 추적
 translation-type: tm+mt
-source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
+source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
 workflow-type: tm+mt
 source-wordcount: '247'
 ht-degree: 0%
@@ -28,8 +28,8 @@ ht-degree: 0%
    익명의 활동은 다음과 같은 경우에 신규 또는 기존 사람에게 병합됩니다.
 
    * 마케팅 이메일](../../../../product-docs/email-marketing/general/using-tokens/add-tokens-to-an-email-link.md)에서 [링크를 클릭합니다.
-   * [양식](http://docs.marketo.com/display/docs/forms)을(를) 채웁니다.
-   * Marketing의 [REST API](http://developers.marketo.com/rest-api/lead-database/leads/) 또는 [Munchkin](http://developers.marketo.com/documentation/websites/lead-tracking-munchkin-js/) API(개발자용)를 사용하여 익명 활동을 알려진 레코드와 연결합니다.
+   * [양식](https://docs.marketo.com/display/docs/forms)을(를) 채웁니다.
+   * Marketing의 [REST API](https://developers.marketo.com/rest-api/lead-database/leads/) 또는 [Munchkin](https://developers.marketo.com/documentation/websites/lead-tracking-munchkin-js/) API(개발자용)를 사용하여 익명 활동을 알려진 레코드와 연결합니다.
 
    사람들이 사이트를 방문하기 위해 서로 다른 장치 및 브라우저를 사용하는 경우가 많기 때문에 데이터베이스의 한 이름이 여러 쿠키에 연결되어 있을 수 있습니다.
 
@@ -50,5 +50,5 @@ ht-degree: 0%
    >**자세히 알아보기**
    >
    >
-   >[기본 보고](http://docs.marketo.com/display/docs/basic+reporting)에 대해 자세히 알아보십시오.
+   >[기본 보고](https://docs.marketo.com/display/docs/basic+reporting)에 대해 자세히 알아보십시오.
 
