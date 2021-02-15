@@ -3,7 +3,7 @@ unique-page-id: 2949844
 description: 새 이벤트 프로그램 만들기 - 마케팅 문서 - 제품 설명서
 title: 새 이벤트 프로그램 만들기
 translation-type: tm+mt
-source-git-commit: ed83438ae5660d172e845f25c4d72d599574bd91
+source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
 workflow-type: tm+mt
 source-wordcount: '184'
 ht-degree: 0%
@@ -51,7 +51,7 @@ ht-degree: 0%
 
    ![](assets/image2016-3-25-14-3a18-3a13.png)
 
-이벤트가 만들어지면 [랜딩 페이지](/help/marketo/product-docs/demand-generation/landing-pages/free-form-landing-pages/create-a-free-form-landing-page.md), [양식](/help/marketo/product-docs/demand-generation/forms/creating-a-form/create-a-form.md) 및 [이메일](/help/marketo/product-docs/email-marketing/email-programs/creating-an-email-program/create-an-email-program.md)을 만들어 손님을 초대합니다! 또한 [프로그램 일정 보기](http://docs.marketo.com/display/docs/program+schedule+view)에 익숙해질 수 있습니다.
+이벤트가 만들어지면 [랜딩 페이지](/help/marketo/product-docs/demand-generation/landing-pages/free-form-landing-pages/create-a-free-form-landing-page.md), [양식](/help/marketo/product-docs/demand-generation/forms/creating-a-form/create-a-form.md) 및 [이메일](/help/marketo/product-docs/email-marketing/email-programs/creating-an-email-program/create-an-email-program.md)을 만들어 손님을 초대합니다! 또한 [프로그램 일정 보기](https://docs.marketo.com/display/docs/program+schedule+view)에 익숙해질 수 있습니다.
 
 >[!MORELIKETHIS]
 >
