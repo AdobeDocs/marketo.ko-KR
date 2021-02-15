@@ -3,7 +3,7 @@ unique-page-id: 11384651
 description: 새 컨텐츠 추가 - 마케팅 문서 - 제품 설명서
 title: 새 컨텐츠 추가
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
 workflow-type: tm+mt
 source-wordcount: '138'
 ht-degree: 0%
@@ -39,5 +39,5 @@ ht-degree: 0%
 
    ![](assets/image2017-10-3-8-3a55-3a21.png)
 
-1. [예측 컨텐츠](http://docs.marketo.com/x/Vbet)에 추가하는 방법은 다음과 같습니다.
+1. [예측 컨텐츠](https://docs.marketo.com/x/Vbet)에 추가하는 방법은 다음과 같습니다.
 
