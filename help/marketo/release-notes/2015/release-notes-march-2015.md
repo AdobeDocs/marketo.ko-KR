@@ -3,7 +3,7 @@ unique-page-id: 6095037
 description: 릴리스 노트 - 2015년 3월 - Marketing Docs - 제품 설명서
 title: 릴리스 노트 - 2015년 3월
 translation-type: tm+mt
-source-git-commit: 309f299275bfe75e8af0150be0a5ffdf28a54cf8
+source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
 workflow-type: tm+mt
 source-wordcount: '352'
 ht-degree: 0%
@@ -17,7 +17,7 @@ ht-degree: 0%
 
 ## 달력 HD {#calendar-hd}
 
-[달력의 새 프레젠테이션 ](http://docs.marketo.com/display/docs/calendar+hd) 모드로 팀의 마케팅 활동을 표시합니다. 이것은 사무실 주위에 있는 TV나 대형 모니터들에게 아주 좋습니다! 스마트 목록 또는 사용자 지정 지표를 기반으로 목표를 설정하고 표시합니다.
+[달력의 새 프레젠테이션 ](https://docs.marketo.com/display/docs/calendar+hd) 모드로 팀의 마케팅 활동을 표시합니다. 이것은 사무실 주위에 있는 TV나 대형 모니터들에게 아주 좋습니다! 스마트 목록 또는 사용자 지정 지표를 기반으로 목표를 설정하고 표시합니다.
 
 >[!NOTE]
 >
@@ -33,13 +33,13 @@ ht-degree: 0%
 
 ## 매출 탐색기 재설계 {#revenue-explorer-redesign}
 
-[매출 ](http://docs.marketo.com/display/docs/revenue+explorer) 착취에는 새로운 선버스트 차트 유형뿐만 아니라 완전히 새로운 모양과 분위기가 있습니다! 4월 첫 2주 동안 진행하겠습니다.
+[매출 ](https://docs.marketo.com/display/docs/revenue+explorer) 착취에는 새로운 선버스트 차트 유형뿐만 아니라 완전히 새로운 모양과 분위기가 있습니다! 4월 첫 2주 동안 진행하겠습니다.
 
 ## 새 자산 REST API {#new-asset-rest-apis}
 
-[새 자산 REST API](http://developers.marketo.com/)
+[새 자산 REST API](https://developers.marketo.com/)
 
-이제 API](http://developers.marketo.com/documentation/asset-api)를 통해 이메일, 템플릿, 내 토큰, 파일 및 코드 단편 [을 만들고 편집할 수 있습니다.
+이제 API](https://developers.marketo.com/documentation/asset-api)를 통해 이메일, 템플릿, 내 토큰, 파일 및 코드 단편 [을 만들고 편집할 수 있습니다.
 
 ## Microsoft Dynamics 2015 온-프레미스 {#microsoft-dynamics-on-premise}
 
