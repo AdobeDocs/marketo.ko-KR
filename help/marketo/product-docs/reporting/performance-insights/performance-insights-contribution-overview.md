@@ -3,7 +3,7 @@ unique-page-id: 12979008
 description: 성과 통찰력 기여도 개요 - 마케팅 문서 - 제품 설명서
 title: 성과 통찰력 기여도 개요
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
 workflow-type: tm+mt
 source-wordcount: '384'
 ht-degree: 0%
@@ -23,7 +23,7 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->[첫 번째 접촉 및 다중 터치](http://docs.marketo.com/display/DOCS/Understanding+Attribution)에 대해 알아보십시오.
+>[첫 번째 접촉 및 다중 터치](https://docs.marketo.com/display/DOCS/Understanding+Attribution)에 대해 알아보십시오.
 
 지표를 볼 기간을 선택합니다. 이 예에서는 현재 연도(연간 누계)를 보고 있습니다.   ![](assets/3-1.png)
 
@@ -55,7 +55,7 @@ ht-degree: 0%
 
 ![](assets/9.png)
 
-| **기회 획득** | 획득 기회에 영향을 주기 위해 프로그램에서 받은 크레딧의 부분(숫자 값) |
+| **기회 획득** | 획득 기회에 영향을 주기 위해 프로그램에서 받은 크레디트(숫자 값) 부분 |
 |---|---|
 | **매출 원** | 원화절약에 영향을 주어 프로그램에서 받은 신용(금전적 가치) 부분 |
 | **비용** | 프로그램의 총 비용 |
