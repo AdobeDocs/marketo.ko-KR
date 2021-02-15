@@ -3,7 +3,7 @@ unique-page-id: 2949160
 description: Adobe Analytics과 통합 - Marketing To Docs - 제품 설명서
 title: Adobe Analytics과 통합
 translation-type: tm+mt
-source-git-commit: 00887ea53e395bea3a11fd28e0ac98b085ef6ed8
+source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
 workflow-type: tm+mt
 source-wordcount: '1130'
 ht-degree: 0%
@@ -64,8 +64,8 @@ Adobe Analytics의 사용자 지정 링크에서 RTP 캠페인 노출 횟수 및
 
 1. AA 계정의 **관리 도구**&#x200B;로 이동합니다.
 1. 통합에 사용할 **보고서 세트**&#x200B;를 선택합니다.
-1. **설정 편집 아래에서**&#x200B;전환&#x200B;**으로 이동하고 ** [전환 변수](http://microsite.omniture.com/t2/help/en_US/reference/#Edit_conversion_variables)**를 선택합니다.**\
-   [전환 변수](http://microsite.omniture.com/t2/help/en_US/reference/#Conversion_Variables_eVar) 번호를 선택합니다(권장).
+1. **설정 편집 아래의**&#x200B;전환&#x200B;**으로 이동하고 ** [전환 변수](https://microsite.omniture.com/t2/help/en_US/reference/#Edit_conversion_variables)**를 선택합니다.**\
+   [전환 변수](https://microsite.omniture.com/t2/help/en_US/reference/#Conversion_Variables_eVar) 번호를 선택합니다(권장).
 
    1. 
 
@@ -82,7 +82,7 @@ Adobe Analytics의 사용자 지정 링크에서 RTP 캠페인 노출 횟수 및
 
          1. 종료 후 필드를 **방문.**
 
-1. **설정 편집 **에서**&#x200B;전환&#x200B;**으로 이동하고 [성공 이벤트](http://microsite.omniture.com/t2/help/en_US/reference/#Configure_success_events)**** 선택합니다.
+1. **설정 편집 **에서**&#x200B;전환&#x200B;**으로 이동하고 [성공 이벤트](https://microsite.omniture.com/t2/help/en_US/reference/#Configure_success_events)**** 선택합니다.
 
 1. 사용자 지정 성공 이벤트 이벤트 이벤트 번호를 선택합니다(권장).
 
@@ -97,7 +97,7 @@ Adobe Analytics의 사용자 지정 링크에서 RTP 캠페인 노출 횟수 및
 
 1. **카운터(하위 관계 없음)** 유형* *필드를 선택합니다.
 
-1. **설정 편집**** [트래픽](http://microsite.omniture.com/t2/help/en_US/reference/#Traffic_Variable) **으로 이동하고 [트래픽 변수](http://microsite.omniture.com/t2/help/en_US/reference/#Enable_traffic_variable_reports)****을 선택합니다.
+1. **설정 편집**** [트래픽](https://microsite.omniture.com/t2/help/en_US/reference/#Traffic_Variable) **으로 이동하고 [트래픽 변수](https://microsite.omniture.com/t2/help/en_US/reference/#Enable_traffic_variable_reports)****을 선택합니다.
 
    1. 트래픽 변수 속성 번호 선택(권장):
 
@@ -183,13 +183,13 @@ AA에서 사용자 지정된 보고서와 대시보드의 예는 다음과 같�
 
 **RTP 대시보드 만들기**
 
-[새 대시보드](http://microsite.omniture.com/t2/help/en_US/sc/user/t_dashboard_add.html)RTP 대시보드&#x200B;**라고 하는 &lt;a0/>새 대시보드를 만듭니다.** 이 대시보드는 수직 및 RTP 세그먼트에 따라 방문자의 분류를 이해하는 데 도움이 됩니다.
+[새 대시보드](https://microsite.omniture.com/t2/help/en_US/sc/user/t_dashboard_add.html)RTP 대시보드&#x200B;**라고 하는**&#x200B;새 대시보드를 만듭니다. 이 대시보드는 수직 및 RTP 세그먼트에 따라 방문자의 분류를 이해하는 데 도움이 됩니다.
 
 1. **대시보드,** 클릭** 대시보드 추가를 클릭합니다**
 
 1. 대시보드 이름 지정 **RTP 대시보드**
 1. **대시보드 크기** 3 x 2, 2 x 2를 선택합니다.
-1. [reportlet](http://microsite.omniture.com/t2/help/en_US/sc/user/t_dashboard_add_report.html#task_EC3AFBBAA51C45CEBAF632F841C305B3)을 만들고 대시보드](https://docs.marketo.com/Add%2520content%2520to%2520a%2520dashboard)에 [컨텐트를 추가합니다.
+1. [reportlet](https://microsite.omniture.com/t2/help/en_US/sc/user/t_dashboard_add_report.html#task_EC3AFBBAA51C45CEBAF632F841C305B3)을 만들고 대시보드](https://docs.marketo.com/Add%2520content%2520to%2520a%2520dashboard)에 [컨텐트를 추가합니다.
 
 대시보드에 업계 Reportlet 추가
 
