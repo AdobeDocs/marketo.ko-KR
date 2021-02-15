@@ -3,7 +3,7 @@ unique-page-id: 4718651
 description: 이메일 분석 영역 이해 - 마케팅 문서 - 제품 설명서
 title: 이메일 분석 영역 이해
 translation-type: tm+mt
-source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
+source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
 workflow-type: tm+mt
 source-wordcount: '356'
 ht-degree: 0%
@@ -18,7 +18,7 @@ ht-degree: 0%
 >[!AVAILABILITY]
 >
 >
->이 옵션은 Select Edition 또는 [Revenue Cycle Analytics](http://www.marketo.com/global-enterprise/marketo-revenue-cycle-analytics/) 추가 기능을 사용하는 사용자가 사용할 수 있습니다. 자세한 내용은 영업 담당자에게 문의하십시오.
+>이 옵션은 Select Edition 또는 [Revenue Cycle Analytics](https://www.marketo.com/global-enterprise/marketo-revenue-cycle-analytics/) 추가 기능을 사용하는 사용자가 사용할 수 있습니다. 자세한 내용은 영업 담당자에게 문의하십시오.
 
 ## 이메일 클릭 활동 열 그리드 {#email-click-activity-heat-grid}
 
