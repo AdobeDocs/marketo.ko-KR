@@ -3,9 +3,9 @@ unique-page-id: 14352438
 description: 영업 전화 개요 - 마케팅 문서 - 제품 설명서
 title: 영업 전화 개요
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
 workflow-type: tm+mt
-source-wordcount: '322'
+source-wordcount: '314'
 ht-degree: 0%
 
 ---
@@ -25,7 +25,7 @@ ht-degree: 0%
 
 **로컬 현재 상태:** &quot;로컬 현재 상태 사용&quot;을 확인하고 첫 번째 통화를 녹음해야 합니다. Sales Connect는 모든 향후 호출에 대한 설정을 기억합니다.
 
-Sales Connect가 Salesforce에서 호출 활동을 자동으로 생성하도록 하려면 [이 문서](http://docs.marketo.com/x/joLS)를 확인하십시오.
+Sales Connect가 Salesforce에서 호출 활동을 자동으로 생성하도록 하려면 [이 문서](/help/marketo/product-docs/marketo-sales-connect/phone/calls-arent-logging-to-salesforce.md)를 확인하십시오.
 
 ## 세일즈 전화로 어떻게 전화를 걸죠?{#how-do-i-make-a-call-with-sales-phone}
 
@@ -37,6 +37,6 @@ Niko에서 전화할 수 있지만, Adobe는 아직 그 곳에서 전화 통화 
 
 전화를 걸거나 전화를 걸면 Sales Connect에서 Salesforce의 리드/연락처 전화 번호를 검색합니다. Salesforce에 번호가 표시되지 않으면 Sales Connect에서 계정 레코드에 있는 전화 번호를 가져옵니다.
 
-다른 CRMS를 사용하는 팀의 경우, Sales Connect는 Sales Connect의 레코드 번호와 전화 번호를 가져옵니다. 이 데이터는 [CSV 업로드](http://docs.marketo.com/x/HIPS)를 통해 쉽게 사용할 수 있습니다.
+다른 CRMS를 사용하는 팀의 경우, Sales Connect는 Sales Connect의 레코드 번호와 전화 번호를 가져옵니다. 이 데이터는 [CSV 업로드](/help/marketo/product-docs/marketo-sales-connect/people/managing-contacts/import-contacts-via-csv.md)를 통해 쉽게 사용할 수 있습니다.
 
 녹색 **호출** 단추를 누릅니다. 그러면 전화가 울리기 시작합니다. 전화를 구입하면 Sales Connect에서 자동으로 리드/담당자에게 전화를 겁니다.
