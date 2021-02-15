@@ -3,9 +3,9 @@ unique-page-id: 42762514
 description: 인사이트 대시보드 기능 개요 - 마케팅 문서 - 제품 설명서
 title: 인사이트 대시보드 기능 개요
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
 workflow-type: tm+mt
-source-wordcount: '1465'
+source-wordcount: '1460'
 ht-degree: 0%
 
 ---
@@ -17,7 +17,7 @@ Sales Insights 대시보드에 있는 기능에 대해 자세히 알아보십시
 
 >[!PREREQUISITES]
 >
->최신 MSI SFDC 패키지와 [configuration](http://docs.marketo.com/x/F4GMAg)이(가) 있어야 합니다.
+>최신 MSI SFDC 패키지와 [configuration](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/features/configuration-for-existing-customers.md)이(가) 있어야 합니다.
 
 ![](assets/one.png)
 
@@ -172,4 +172,3 @@ Sales Insights 대시보드에 있는 기능에 대해 자세히 알아보십시
 * 모든 이벤트를 선택하면 다음 90일 이내에 예약된 이벤트 목록이 표시됩니다.
 * 이 섹션의 활동 세부 사항 카드에 미리 보기 옵션이 있음
 * 필터에는 &quot;검색&quot;, &quot;초대된 이벤트만 표시&quot; 및 &quot;날짜 범위&quot;가 포함됩니다.
-
