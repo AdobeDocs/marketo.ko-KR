@@ -3,7 +3,7 @@ unique-page-id: 10094114
 description: 릴리스 노트 - 2015년 가을 - 마케팅 문서 - 제품 설명서
 title: 릴리스 노트 - 2015년 가을
 translation-type: tm+mt
-source-git-commit: 48330e8f6f1ad8883d74d80e6f64faba4fdfa52e
+source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
 workflow-type: tm+mt
 source-wordcount: '1026'
 ht-degree: 0%
@@ -31,7 +31,7 @@ ht-degree: 0%
 
 ## Marketing 사용자 지정 개체 {#marketo-custom-objects}
 
-[Marketing To 사용자 지정 개체](http://docs.marketo.com/display/docs/marketo+custom+objects)
+[Marketing To 사용자 지정 개체](https://docs.marketo.com/display/docs/marketo+custom+objects)
 
 관리 UI에서 사용자 정의 개체를 손쉽게 만들 수 있습니다. 현재 Marketing Cloud에서 1:N 사용자 지정 개체를 만들어 리드 또는 회사에 연결하는 기능을 지원합니다.
 
@@ -121,7 +121,7 @@ RTP 캠페인을 복제하면 보다 신속하고 효율적으로 개인화된 �
    ```
 
    ```
-   <v:fill type="tile" src="<a href="http://i.imgur.com/YJOX1PC.png" rel="nofollow">http://i.imgur.com/YJOX1PC.png</a>" color="#7bceeb"/>
+   <v:fill type="tile" src="<a href="https://i.imgur.com/YJOX1PC.png" rel="nofollow">https://i.imgur.com/YJOX1PC.png</a>" color="#7bceeb"/>
    ```
 
    ```
