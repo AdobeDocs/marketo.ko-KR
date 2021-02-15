@@ -3,7 +3,7 @@ unique-page-id: 7516419
 description: Salesforce - Marketing To Docs - 제품 문서에 Marketing To Sales Insight 탭 및 버튼 추가
 title: Salesforce에 Marketing to Sales Insight 탭 및 버튼 추가
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
 workflow-type: tm+mt
 source-wordcount: '189'
 ht-degree: 0%
@@ -17,7 +17,7 @@ Salesforce 보기에 사용자 지정 Marketing to Sales Insight 탭 및 단추�
 
 ## 마케팅 탭 {#adding-the-marketo-tab} 추가
 
-1. ** + **을 클릭하고 **내 탭 사용자 지정**&#x200B;을 클릭합니다.
+1. **+**&#x200B;을 클릭하고 **내 탭 사용자 지정**&#x200B;을 클릭합니다.
 
    ![](assets/image2014-9-24-17-3a38-3a25.png)
 
@@ -43,7 +43,7 @@ Salesforce 레이아웃에 Marketing 단추를 추가할 수 있습니다. 다�
 
    ![](assets/image2015-5-26-14-3a59-3a53.png)
 
-1. **리드 목록 보기 **행에서 **편집**&#x200B;을 클릭합니다.
+1. **리드 목록 보기** 행에서 **편집**&#x200B;을 클릭합니다.
 
    ![](assets/image2015-5-26-16-3a7-3a24.png)
 
