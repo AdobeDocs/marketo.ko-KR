@@ -3,7 +3,7 @@ unique-page-id: 45417125
 description: 기본 Salesforce 통합을 위한 Sales Insight - Marketing To Docs - 제품 설명서
 title: 네이티브 Salesforce 이외의 통합을 위한 Sales Insight
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
 workflow-type: tm+mt
 source-wordcount: '1269'
 ht-degree: 0%
@@ -19,8 +19,8 @@ Marketing To 계정이 사용자 지정 또는 비기본 통합을 통해 Salesf
 >
 >* Marketing To 인스턴스에 대해 &quot;MSI Non-Native&quot; 기능을 활성화하려면 고객 성공 관리자에게 문의하십시오.
 >* MSI 패키지 설정이 있는 Salesforce 계정.
->* Marketing REST API [이(가) ](http://developers.marketo.com/rest-api/)을(를) 설정했습니다. 노출된 CRUD API는 기본이 아닌 동기화를 수행하는 기반이 됩니다.
->* 개체 및 관계를 이해하려면 [이 블로그 게시물](http://developers.marketo.com/blog/create-and-associate-leads-companies-and-opportunities-with-the-marketo-rest-api/)을 읽으십시오.
+>* Marketing REST API [이(가) ](https://developers.marketo.com/rest-api/)을(를) 설정했습니다. 노출된 CRUD API는 기본이 아닌 동기화를 수행하는 기반이 됩니다.
+>* 개체 및 관계를 이해하려면 [이 블로그 게시물](https://developers.marketo.com/blog/create-and-associate-leads-companies-and-opportunities-with-the-marketo-rest-api/)을 읽으십시오.
 >* 대/소문자를 구분하는 15자의 전역 고유 식별자가 아니라 18자의 대/소문자를 구분하지 않는 GUID를 표시하도록 Salesforce 개체를 설정합니다.
 
 >
@@ -57,8 +57,8 @@ Marketing To 계정이 사용자 지정 또는 비기본 통합을 통해 Salesf
  </tbody> 
 </table>
 
-영업 사원에 대한 API 설명서:[https://developers.marketo.com/rest-api/lead-database/sales-persons/](http://developers.marketo.com/rest-api/lead-database/sales-persons/)\
-영업 사원 동기화를 위한 API 설명서:[https://developers.marketo.com/rest-api/endpoint-reference/lead-database-endpoint-reference/#!/Sales_Persons/syncSalesPersonsUsingPOST](http://developers.marketo.com/rest-api/endpoint-reference/lead-database-endpoint-reference/#!/Sales_Persons/syncSalesPersonsPOST 사용)
+영업 사원에 대한 API 설명서:[https://developers.marketo.com/rest-api/lead-database/sales-persons/](https://developers.marketo.com/rest-api/lead-database/sales-persons/)\
+영업 사원 동기화를 위한 API 설명서:[https://developers.marketo.com/rest-api/endpoint-reference/lead-database-endpoint-reference/#!/Sales_Persons/syncSalesPersonsUsingPOST](https://developers.marketo.com/rest-api/endpoint-reference/lead-database-endpoint-reference/#!/Sales_Persons/syncSalesPersonsPOST 사용)
 
 1. Salesforce 계정을 Marketing에 동기화합니다.
 
@@ -89,8 +89,8 @@ Marketing To 계정이 사용자 지정 또는 비기본 통합을 통해 Salesf
  </tbody> 
 </table>
 
-기업을 위한 API 설명서:[https://developers.marketo.com/rest-api/lead-database/companies/](http://developers.marketo.com/rest-api/lead-database/companies/)\
-`API documentation for syncing Companies:  [https://developers.marketo.com/rest-api/endpoint-reference/lead-database-endpoint-reference/#!/Companies/syncCompaniesUsingPOST](http://developers.marketo.com/rest-api/endpoint-reference/lead-database-endpoint-reference/#!/Companies/syncCompaniesUsingPOST)`
+기업을 위한 API 설명서:[https://developers.marketo.com/rest-api/lead-database/companies/](https://developers.marketo.com/rest-api/lead-database/companies/)\
+`API documentation for syncing Companies:  [https://developers.marketo.com/rest-api/endpoint-reference/lead-database-endpoint-reference/#!/Companies/syncCompaniesUsingPOST](https://developers.marketo.com/rest-api/endpoint-reference/lead-database-endpoint-reference/#!/Companies/syncCompaniesUsingPOST)`
 
 1. Salesforce 리드/연락처를 Marketing To에 동기화합니다.
 
@@ -126,8 +126,8 @@ Marketing To 계정이 사용자 지정 또는 비기본 통합을 통해 Salesf
  </tbody> 
 </table>
 
-리드에 대한 API 설명서:[`https://developers.marketo.com/rest-api/lead-database/leads/`](http://developers.marketo.com/rest-api/lead-database/leads/)\
-리드 동기화를 위한 API 설명서: [https://developers.marketo.com/rest-api/endpoint-reference/lead-database-endpoint-reference/#!/Leads/syncLeadUsingPOST](http://developers.marketo.com/rest-api/endpoint-reference/lead-database-endpoint-reference/#!/Leads/syncLeadUsingPOST)
+리드에 대한 API 설명서:[`https://developers.marketo.com/rest-api/lead-database/leads/`](https://developers.marketo.com/rest-api/lead-database/leads/)\
+리드 동기화를 위한 API 설명서: [https://developers.marketo.com/rest-api/endpoint-reference/lead-database-endpoint-reference/#!/Leads/syncLeadUsingPOST](https://developers.marketo.com/rest-api/endpoint-reference/lead-database-endpoint-reference/#!/Leads/syncLeadUsingPOST)
 
 1. Salesforce 기회를 Marketing Cloud에 동기화할 수 있습니다.
 
@@ -163,8 +163,8 @@ Marketing To 계정이 사용자 지정 또는 비기본 통합을 통해 Salesf
  </tbody> 
 </table>
 
-기회에 대한 API 설명서:[`https://developers.marketo.com/rest-api/lead-database/opportunities/`](http://developers.marketo.com/rest-api/lead-database/opportunities/)\
-`API documentation for syncing Opportunities:  [https://developers.marketo.com/rest-api/endpoint-reference/lead-database-endpoint-reference/#!/Opportunities/syncOpportunitiesUsingPOST](http://developers.marketo.com/rest-api/endpoint-reference/lead-database-endpoint-reference/#!/Opportunities/syncOpportunitiesUsingPOST)`
+기회에 대한 API 설명서:[`https://developers.marketo.com/rest-api/lead-database/opportunities/`](https://developers.marketo.com/rest-api/lead-database/opportunities/)\
+`API documentation for syncing Opportunities:  [https://developers.marketo.com/rest-api/endpoint-reference/lead-database-endpoint-reference/#!/Opportunities/syncOpportunitiesUsingPOST](https://developers.marketo.com/rest-api/endpoint-reference/lead-database-endpoint-reference/#!/Opportunities/syncOpportunitiesUsingPOST)`
 
 1. Salesforce 연락처 역할을 Marketing To에 동기화할 수 있습니다.
 
@@ -200,8 +200,8 @@ Marketing To 계정이 사용자 지정 또는 비기본 통합을 통해 Salesf
  </tbody> 
 </table>
 
-기회에 대한 API 설명서:[`https://developers.marketo.com/rest-api/lead-database/opportunities/`](http://developers.marketo.com/rest-api/lead-database/opportunities/)\
-`API documentation for syncing Opportunities:  [https://developers.marketo.com/rest-api/endpoint-reference/lead-database-endpoint-reference/#!/Opportunities/syncOpportunitiesUsingPOST](http://developers.marketo.com/rest-api/endpoint-reference/lead-database-endpoint-reference/#!/Opportunities/syncOpportunitiesUsingPOST)`
+기회에 대한 API 설명서:[`https://developers.marketo.com/rest-api/lead-database/opportunities/`](https://developers.marketo.com/rest-api/lead-database/opportunities/)\
+`API documentation for syncing Opportunities:  [https://developers.marketo.com/rest-api/endpoint-reference/lead-database-endpoint-reference/#!/Opportunities/syncOpportunitiesUsingPOST](https://developers.marketo.com/rest-api/endpoint-reference/lead-database-endpoint-reference/#!/Opportunities/syncOpportunitiesUsingPOST)`
 
 1. 마지막 흥미로운 모멘트/MSI 점수 필드를 SFDC에 동기화할 수 있습니다.
 
@@ -264,7 +264,7 @@ Marketing To 계정이 사용자 지정 또는 비기본 통합을 통해 Salesf
  </tbody> 
 </table>
 
-리드 REST API 설명서: [https://developers.marketo.com/rest-api/endpoint-reference/lead-database-endpoint-reference/#!/Leads/getLeadByIdUsingGET](http://developers.marketo.com/rest-api/endpoint-reference/lead-database-endpoint-reference/#!/Leads/getLeadByIdUsingGET).
+리드 REST API 설명서: [https://developers.marketo.com/rest-api/endpoint-reference/lead-database-endpoint-reference/#!/Leads/getLeadByIdUsingGET](https://developers.marketo.com/rest-api/endpoint-reference/lead-database-endpoint-reference/#!/Leads/getLeadByIdUsingGET).
 
 외부 필드를 적절히 사용하면 동기화가 성공적으로 수행됩니다. 일부 보기에서 데이터를 볼 수 없는 경우 특정 필드가 올바로 동기화되지 않았을 수 있습니다. 예를 들어 리드의 활동과 관심 있는 순간이 계정의 MSI 위젯을 볼 때 표시되지 않는 경우 리드의 회사나 계정이 올바르게 동기화되지 않았을 수 있습니다. 외부 필드를 지정하는 동안 이 리드에 대한 GET 요청을 수행하면 리드가 올바르게 동기화되었는지 확인하는 데 도움이 됩니다. 또한 Marketing의 외부 영업 담당자의 이메일은 Salesforce의 해당 사용자의 이메일과 일치해야 합니다. 이메일이 일치하지 않는 경우 데이터가 Salesforce의 마케팅 탭에 표시되지 않을 수 있습니다.
 
