@@ -3,7 +3,7 @@ unique-page-id: 4719304
 description: 암시적인 Salesforce 동작 - Marketing To Docs - 제품 설명서
 title: 암시적인 Salesforce 동작
 translation-type: tm+mt
-source-git-commit: ed83438ae5660d172e845f25c4d72d599574bd91
+source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
 workflow-type: tm+mt
 source-wordcount: '143'
 ht-degree: 0%
@@ -15,7 +15,7 @@ ht-degree: 0%
 
 Salesforce별 흐름 단계가 실행되면 때때로 추가 단계가 자동으로 수행됩니다. 여기 규칙이 있습니다.
 
-이 규칙은 사용자가 현재 [Salesforce.com](http://Salesforce.com)_에 연락처 또는 리드로 있지 않은 경우_&#x200B;이(가) 적용됩니다.
+이 규칙은 사용자가 현재 [Salesforce.com](https://Salesforce.com)_에 연락처 또는 리드로 있지 않은 경우_&#x200B;이(가) 적용됩니다.
 
 <table> 
  <thead> 
