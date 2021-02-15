@@ -3,9 +3,9 @@ unique-page-id: 14352516
 description: 연락처 만들기 및 삭제 - 마케팅 문서 - 제품 설명서
 title: 연락처 만들기 및 삭제
 translation-type: tm+mt
-source-git-commit: 07ae1b3f3ee3e9d7f35373eea039d336bd786f97
+source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
 workflow-type: tm+mt
-source-wordcount: '125'
+source-wordcount: '121'
 ht-degree: 0%
 
 ---
@@ -25,7 +25,7 @@ ht-degree: 0%
 
    >[!TIP]
    >
-   >한 번에 여러 연락처를 추가하시겠습니까? [CSV를 통해 연락처를 가져오는 방법에 대해 ](http://docs.marketo.com/x/VADb) 여기를 클릭하십시오.
+   >한 번에 여러 연락처를 추가하시겠습니까? [CSV를 통해 연락처를 가져오는 방법에 대해 ](/help/marketo/product-docs/marketo-sales-connect/people/managing-contacts/import-contacts-via-csv.md) 여기를 클릭하십시오.
 
 ## 연락처 삭제 중 {#deleting-contacts}
 
@@ -37,10 +37,10 @@ ht-degree: 0%
    >
    >여러 연락처를 삭제하려면 여러 사람을 선택하면 됩니다. 나머지 단계는 동일합니다.
 
-1. 도타(세 개의 세로 점)를 클릭하고 삭제를 선택합니다.
+1. 도타(세 개의 세로 점)를 클릭하고 **삭제**&#x200B;를 선택합니다.
 
    ![](assets/four-2.png)
 
-1. [연락처 삭제]를 클릭하여 확인합니다.
+1. **연락처 삭제**&#x200B;를 클릭하여 확인합니다.
 
    ![](assets/five-2.png)
