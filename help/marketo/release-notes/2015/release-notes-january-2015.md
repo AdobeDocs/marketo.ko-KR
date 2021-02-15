@@ -3,7 +3,7 @@ unique-page-id: 4720758
 description: 릴리스 노트 - 2015년 1월 - Marketing Docs - 제품 설명서
 title: 릴리스 노트 - 2015년 1월
 translation-type: tm+mt
-source-git-commit: dc20aede0894a09e6c0bcd3d1580859b5fecb5f1
+source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
 workflow-type: tm+mt
 source-wordcount: '385'
 ht-degree: 0%
@@ -23,7 +23,7 @@ Rick은 SmartBear의 Marketing To 고객이며 [믿을 수 없는 사진 컬렉�
 
 ## 모바일 친화적인 랜딩 페이지 {#mobile-friendly-landing-pages}
 
-이제 랜딩 페이지 편집기 내에서 랜딩 페이지[에 대한 모바일 보기를 만들 수 있습니다. ](/help/marketo/product-docs/demand-generation/landing-pages/free-form-landing-pages/add-a-mobile-view-for-your-free-form-landing-page.md) 디바이스 유형에 상관없이 메시지를 효과적으로 전달하고 이동 중에도 간편하게 사용할 수 있도록 컨텐츠를 맞춤화하여 참여를 높일 수 있습니다. 이 기능은 출시 후 주 동안 점진적으로 롤아웃됩니다.
+이제 랜딩 페이지 편집기 내에서 랜딩 페이지](/help/marketo/product-docs/demand-generation/landing-pages/free-form-landing-pages/add-a-mobile-view-for-your-free-form-landing-page.md)에 대한 모바일 보기를 만들 수 있습니다. [ 디바이스 유형에 상관없이 메시지를 효과적으로 전달하고 이동 중에도 간편하게 사용할 수 있도록 컨텐츠를 맞춤화하여 참여를 높일 수 있습니다. 이 기능은 출시 후 주 동안 점진적으로 롤아웃됩니다.
 
 `<iframe width="420" height="315" src="//www.youtube-nocookie.com/embed/aPQHlG2X6c0" frameborder="0" allowfullscreen></iframe>`
 
@@ -35,7 +35,7 @@ Rick은 SmartBear의 Marketing To 고객이며 [믿을 수 없는 사진 컬렉�
 * 프로그램 ID로 리드 가져오기
 * 삭제된 리드 가져오기
 
-또한 더 빠른 API 호출을 위해 리드 변경 내용을 비동기적으로 작성하는 새로운 리드 동기화 옵션이 있습니다. 자세한 내용은 [developers.markto.com](http://developers.marketo.com)에서 릴리스 후에 제공됩니다.
+또한 더 빠른 API 호출을 위해 리드 변경 내용을 비동기적으로 작성하는 새로운 리드 동기화 옵션이 있습니다. 자세한 내용은 [developers.markto.com](https://developers.marketo.com)에서 릴리스 후에 제공됩니다.
 
 **이메일 스크립팅 사용자 정의 개체 지원**
 
@@ -59,13 +59,13 @@ Rick은 SmartBear의 Marketing To 고객이며 [믿을 수 없는 사진 컬렉�
 
 업데이트된 RTP 태그 옵션
 
-[계정 ](http://docs.marketo.com/display/docs/rtp+tag+implementation) 설정 아래의 RTP 태그 옵션이 다음을 포함하도록 업데이트되었습니다.
+[계정 ](https://docs.marketo.com/display/docs/rtp+tag+implementation) 설정 아래의 RTP 태그 옵션이 다음을 포함하도록 업데이트되었습니다.
 
 1. CDN 및 비동기(권장 태그)
 1. CDN 및 동기(고속)
 1. CDN이 없는 비동기 태그
 1. CDN이 없는 동기 태그
 
-최상의 성능을 위해 `<head>` 뒤에 웹 페이지의 헤더 맨 위에 태그를 배치하는 것이 좋습니다. 모든 태그는 [RTP API](http://developers.marketo.com/documentation/websites/rtp-js-api/)의 사용을 허용합니다. RTP 태그를 배포하는 방법에 대한 자세한 내용은 [여기](/help/marketo/product-docs/web-personalization/rtp-tag-implementation/deploy-the-rtp-javascript.md)를 참조하십시오.
+최상의 성능을 위해 `<head>` 뒤에 웹 페이지의 헤더 맨 위에 태그를 배치하는 것이 좋습니다. 모든 태그는 [RTP API](https://developers.marketo.com/documentation/websites/rtp-js-api/)의 사용을 허용합니다. RTP 태그를 배포하는 방법에 대한 자세한 내용은 [여기](/help/marketo/product-docs/web-personalization/rtp-tag-implementation/deploy-the-rtp-javascript.md)를 참조하십시오.
 
 ![](assets/image2015-1-15-13-3a30-3a45.png)
