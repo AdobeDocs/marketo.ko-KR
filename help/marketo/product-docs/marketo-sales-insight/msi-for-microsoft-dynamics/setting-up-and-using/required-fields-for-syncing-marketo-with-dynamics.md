@@ -3,9 +3,9 @@ unique-page-id: 11375827
 description: Dynamics와 Marketing To Docs를 동기화하는 데 필요한 필드 - 제품 설명서
 title: Dynamics와 마케팅을 동기화하는 데 필요한 필드
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
 workflow-type: tm+mt
-source-wordcount: '178'
+source-wordcount: '174'
 ht-degree: 0%
 
 ---
@@ -23,11 +23,11 @@ ht-degree: 0%
 
 동기화 필드를 확인하고 추가하는 방법은 다음과 같습니다.
 
-1. 관리자로 이동하고 Microsoft Dynamics를 클릭합니다.
+1. 관리자로 이동하고 **Microsoft Dynamics**&#x200B;을 클릭합니다.
 
    ![](assets/image2015-10-9-9-3a50-3a9.png)
 
-1. [필드 동기화 세부 사항]에서 편집을 클릭합니다.
+1. 필드 동기화 세부 정보에서 **편집**&#x200B;을 클릭합니다.
 
    ![](assets/image2015-10-9-9-3a52-3a23.png)
 
@@ -47,7 +47,7 @@ ht-degree: 0%
 
    ![](assets/image2016-6-8-13-3a36-3a36.png)
 
-1. 저장을 클릭합니다.
+1. **저장**&#x200B;을 클릭합니다.
 
    ![](assets/image2016-6-8-13-3a41-3a27.png)
 
@@ -57,5 +57,4 @@ ht-degree: 0%
 
 >[!MORELIKETHIS]
 >
->[리드/연락처 레코드에 대한 별과 불꽃 설정](http://docs.marketo.com/x/BICMAg)
-
+>[리드/연락처 레코드에 대한 별과 불꽃 설정](/help/marketo/product-docs/marketo-sales-insight/msi-for-microsoft-dynamics/setting-up-and-using/setting-up-stars-and-flames-for-lead-contact-records.md)
