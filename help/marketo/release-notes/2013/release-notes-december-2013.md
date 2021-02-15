@@ -3,7 +3,7 @@ unique-page-id: 2951052
 description: 릴리스 노트 - 2013년 12월 - Marketing Docs - 제품 설명서
 title: 릴리스 노트 - 2013년 12월
 translation-type: tm+mt
-source-git-commit: f7b0b4ebe248257c234503346458bd38bfd2e73c
+source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
 workflow-type: tm+mt
 source-wordcount: '354'
 ht-degree: 0%
@@ -13,13 +13,13 @@ ht-degree: 0%
 
 # 릴리스 노트:2013년 12월 {#release-notes-december}
 
-다음 기능은 12월 릴리스에 포함되어 있습니다. 기능을 사용할 수 있는지 확인하려면 [Marketing Edition](http://docs.marketo.com/display/docs/assets/pricing.php)을(를) 확인하십시오.
+다음 기능은 12월 릴리스에 포함되어 있습니다. 기능을 사용할 수 있는지 확인하려면 [Marketing Edition](https://docs.marketo.com/display/docs/assets/pricing.php)을(를) 확인하십시오.
 
 릴리스 후 커뮤니티에서 각 기능에 대한 자세한 기술 자료 문서를 보려면 새로운 릴리스 탭을 확인하십시오.
 
 ## 달콤한 배경 사진 {#sweet-background-photos}
 
-애플리케이션에 크리에이티브한 재능을 표현하기 시작했습니다. 매 분기마다 새로운 아티스트가 소개될 예정입니다. 우리를 차리기 위해, 우리는 [Trey Ratcliff](http://stuckincustoms.smugmug.com/)을 선택했습니다.
+애플리케이션에 크리에이티브한 재능을 표현하기 시작했습니다. 매 분기마다 새로운 아티스트가 소개될 예정입니다. 우리를 차리기 위해, 우리는 [Trey Ratcliff](https://stuckincustoms.smugmug.com/)을 선택했습니다.
 
 ## 이메일 프로그램 {#email-program}
 
