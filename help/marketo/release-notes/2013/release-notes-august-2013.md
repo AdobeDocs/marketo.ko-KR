@@ -3,7 +3,7 @@ unique-page-id: 2951058
 description: 릴리스 노트 - 2013년 8월 - Marketing Docs - 제품 설명서
 title: 릴리스 노트 - 2013년 8월
 translation-type: tm+mt
-source-git-commit: 96cc6a30c63c8e8dca793a52e4bf7ecaef8c08dc
+source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
 workflow-type: tm+mt
 source-wordcount: '244'
 ht-degree: 0%
@@ -13,7 +13,7 @@ ht-degree: 0%
 
 # 릴리스 노트:2013년 8월 {#release-notes-august}
 
-다음 기능은 2013년 8월 릴리스에 포함되어 있습니다. 기능을 사용할 수 있는지 확인하려면 [Marketing Edition](http://docs.marketo.com/display/docs/assets/pricing-1.php)을(를) 확인하십시오.
+다음 기능은 2013년 8월 릴리스에 포함되어 있습니다. 기능을 사용할 수 있는지 확인하려면 [Marketing Edition](https://docs.marketo.com/display/docs/assets/pricing-1.php)을(를) 확인하십시오.
 
 릴리스 후 커뮤니티에서 [새 릴리스](release-notes-december-2013.md) 탭에서 새로운 각 기능에 대한 자세한 기술 자료 문서를 확인하십시오!
 
@@ -51,7 +51,7 @@ ht-degree: 0%
 
 ## 자동 트리거 캠페인 정리 {#automatic-trigger-campaign-cleanup}
 
-이제 Marketing Cloud는 귀하에게 정기적으로 통지하고 지난 6개월 동안 실행하지 않은 트리거 캠페인[을 자동으로 비활성화합니다.](../../product-docs/core-marketo-concepts/smart-campaigns/using-smart-campaigns/automatic-trigger-campaign-cleanup.md)
+이제 Marketing Cloud는 귀하에게 정기적으로 통지하고 지난 6개월 동안 실행하지 않은 트리거 캠페인](../../product-docs/core-marketo-concepts/smart-campaigns/using-smart-campaigns/automatic-trigger-campaign-cleanup.md)을 자동으로 비활성화합니다.[
 
 ![](assets/image2014-9-22-16-3a36-3a2.png)
 
