@@ -3,7 +3,7 @@ unique-page-id: 2360418
 description: 매출 단계 보고서별 사람 - 마케팅 문서 - 제품 설명서
 title: 매출 단계별 사람 보고서
 translation-type: tm+mt
-source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
+source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
 workflow-type: tm+mt
 source-wordcount: '160'
 ht-degree: 0%
@@ -13,7 +13,7 @@ ht-degree: 0%
 
 # 매출 단계 보고서별 사람: {#people-by-revenue-stage-report}
 
-사용자가 속해 있는 [매출 주기 모델](http://docs.marketo.com/display/docs/revenue+cycle+models)의 단계를 보여주는 보고서를 만들 수 있습니다. 보고서의 지정된 날짜 범위에 대한 개인 균형이 있는 한, 이 보고서에는 지정된 모델의 모든 단계가 포함됩니다.
+사용자가 속해 있는 [매출 주기 모델](https://docs.marketo.com/display/docs/revenue+cycle+models)의 단계를 보여주는 보고서를 만들 수 있습니다. 보고서의 지정된 날짜 범위에 대한 개인 균형이 있는 한, 이 보고서에는 지정된 모델의 모든 단계가 포함됩니다.
 
 >[!AVAILABILITY]
 >
@@ -49,5 +49,5 @@ ht-degree: 0%
    >**자세히 알아보기**
    >
    >
-   >[기본 보고](http://docs.marketo.com/display/docs/basic+reporting)에서 열을 추가하는 방법을 알아봅니다.
+   >[기본 보고](https://docs.marketo.com/display/docs/basic+reporting)에서 열을 추가하는 방법을 알아봅니다.
 
