@@ -3,7 +3,7 @@ unique-page-id: 2360366
 description: 3단계 중 3단계 - Connect Marketing & Salesforce(Enterprise/Unlimited) - Marketing Docs - 제품 설명서
 title: 3단계 중 3단계 - Connect Marketing 및 Salesforce(Enterprise/Unlimited)
 translation-type: tm+mt
-source-git-commit: 2b5ccd7220557a5e966d33436d0f0d2a65e4589d
+source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
 workflow-type: tm+mt
 source-wordcount: '405'
 ht-degree: 0%
@@ -43,7 +43,7 @@ ht-degree: 0%
 
 ## 사용자 자격 증명 동기화 설정 {#set-sync-user-credentials}
 
-1. Marketing에서 **관리**&#x200B;로 이동하여 **CRM**&#x200B;을 선택하고 **Salesforce.com](http://Salesforce.com)**&#x200B;과 동기화를 클릭합니다.[
+1. Marketing에서 **관리**&#x200B;로 이동하여 **CRM**&#x200B;을 선택하고 **Salesforce.com](https://Salesforce.com)**&#x200B;과 동기화를 클릭합니다.[
 
    ![](assets/image2014-12-9-9-3a52-3a58.png)
 
