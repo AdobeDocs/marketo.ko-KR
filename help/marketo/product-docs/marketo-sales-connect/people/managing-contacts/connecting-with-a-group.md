@@ -3,9 +3,9 @@ unique-page-id: 30081318
 description: 그룹과 연결 - 마케팅 문서 - 제품 설명서
 title: 그룹과 연결
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
 workflow-type: tm+mt
-source-wordcount: '156'
+source-wordcount: '152'
 ht-degree: 0%
 
 ---
@@ -47,7 +47,7 @@ ht-degree: 0%
 
    >[!NOTE]
    >
-   >마케팅 캠페인에 추가하는 옵션이 표시될 수 있습니다. [그건 다른 기사야](http://docs.marketo.com/x/CwDh).
+   >마케팅 캠페인에 추가하는 옵션이 표시될 수 있습니다. [그건 다른 기사야](/help/marketo/product-docs/marketo-sales-connect/campaigns/add-to-marketing-campaign.md).
 
 1. 캠페인을 선택하고(결과를 좁힐 카테고리를 선택할 수 있음) **다음**&#x200B;을 클릭합니다.
 
@@ -60,4 +60,3 @@ ht-degree: 0%
 1. 캠페인을 예약하고 **시작**&#x200B;을 클릭합니다.
 
    ![](assets/nine-1.png)
-
