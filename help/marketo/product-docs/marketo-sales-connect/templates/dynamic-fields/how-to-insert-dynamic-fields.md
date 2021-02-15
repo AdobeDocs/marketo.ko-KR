@@ -3,9 +3,9 @@ unique-page-id: 14352592
 description: 동적 필드를 삽입하는 방법 - 마케팅 문서 - 제품 설명서
 title: 동적 필드를 삽입하는 방법
 translation-type: tm+mt
-source-git-commit: 5c9683c6b00ccbf9e9d606fd4513432c9872ad00
+source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
 workflow-type: tm+mt
-source-wordcount: '231'
+source-wordcount: '242'
 ht-degree: 0%
 
 ---
@@ -17,11 +17,12 @@ Adobe에서는 `{{first_name}}` 또는 `{{company}}` 등의 사전 정의된 특
 
 >[!TIP]
 >
->&quot;first_name&quot; 및 &quot;company&quot; 필드는 `only fields that will look to both Sales Connect and Salesforce.`입니다. 즉, 연락처가 [웹 응용 프로그램](http://toutapp.com/login)에 없는 경우 Salesforce에서 일치하는 이메일 주소로 연락처/리드 레코드를 찾을 수 있는지 확인합니다. 그런 다음 해당 레코드의 정보를 사용하여 필드를 채웁니다.
+>&quot;first_name&quot; 및 &quot;company&quot; 필드는 Sales Connect와 Salesforce를 모두 볼 수 있는 유일한 필드입니다. 즉, 연락처가 [웹 응용 프로그램](https://toutapp.com/login)에 없는 경우 Salesforce에서 일치하는 이메일 주소로 연락처/리드 레코드를 찾을 수 있는지 확인합니다. 그런 다음 해당 레코드의 정보를 사용하여 필드를 채웁니다.
 
 ## 템플릿 {#insert-a-dynamic-field-into-a-template}에 동적 필드 삽입
 
 1. **템플릿 및 캠페인**&#x200B;에서 편집할 템플릿을 찾고 **템플릿 편집**&#x200B;을 클릭합니다.
+
 1. **동적 필드 체크아웃**&#x200B;을 클릭합니다.
 
    >[!NOTE]
