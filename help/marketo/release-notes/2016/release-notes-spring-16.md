@@ -3,7 +3,7 @@ unique-page-id: 11370952
 description: 릴리스 노트 -16년 봄 - Marketing To Docs - 제품 설명서
 title: 릴리스 노트 -16년 봄
 translation-type: tm+mt
-source-git-commit: efadb7eb3845012c273e1a60f9cd98ac884eb543
+source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
 workflow-type: tm+mt
 source-wordcount: '837'
 ht-degree: 0%
@@ -15,7 +15,7 @@ ht-degree: 0%
 
 2016년 봄 릴리스에는 다음 기능이 포함됩니다. 각 기능에 대한 자세한 아티클을 보려면 제목 링크를 클릭하십시오.
 
-## [이메일 인사이트](http://docs.marketo.com/display/docs/email+insights) {#email-insights}
+## [이메일 인사이트](https://docs.marketo.com/display/docs/email+insights) {#email-insights}
 
 이메일 인사이트는 Project Orion의 일부로 신속하게 성과를 달성할 수 있도록 처음부터 끝까지 재설계된 새로운 집계 데이터 이메일 분석 경험입니다. 이메일 마케터의 요구 사항과 워크플로우에 맞게 최적화된 완전히 새로운 유저 인터페이스(UI) 디자인을 제공합니다.
 
@@ -53,11 +53,11 @@ Marketing To에서 앱에 사용할 멋진 인앱 메시지를 만들 수 있습
 
 ![](assets/image2016-5-16-15-3a41-3a17.png)
 
-## [사용자 지정 활동](http://docs.marketo.com/display/docs/marketo+custom+activities) {#custom-activities}
+## [사용자 지정 활동](https://docs.marketo.com/display/docs/marketo+custom+activities) {#custom-activities}
 
 이제 마케팅 관리자는 Marketing to 사용자 지정 활동 정의 모델을 통해 사용자 지정 활동 유형을 정의하고 관리할 수 있습니다. 이제 관리자는 Marketing to 사용자 지정 개체 모델러와 유사하게, 정확한 비즈니스 요구에 맞게 데이터 모델을 확장할 수 있습니다. 이 기능을 사용하는 방법에 대한 자세한 내용은 [Marketing 설명서 사이트](https://docs.marketo.com/display/public/DOCS/Marketo+Custom+Activities)에서 확인할 수 있습니다.
 
-## [랜딩 페이지, 랜딩 페이지 템플릿 및 양식 API](http://developers.marketo.com/blog/spring-2016-updates/) {#landing-page-landing-page-template-and-form-apis}
+## [랜딩 페이지, 랜딩 페이지 템플릿 및 양식 API](https://developers.marketo.com/blog/spring-2016-updates/) {#landing-page-landing-page-template-and-form-apis}
 
 Marketing REST API는 이제 마케팅 랜딩 페이지, 랜딩 페이지 템플릿 및 양식에 대한 제어를 지원합니다. 이제 사용자는 Marketing to REST API를 통해 이러한 자산을 직접 만들고, 업데이트하고, 승인하고, 삭제할 수 있습니다.
 
