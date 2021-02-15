@@ -3,7 +3,7 @@ unique-page-id: 2359991
 description: 보고서 구독 관리 - 마케팅 문서 - 제품 설명서
 title: 보고서 구독 관리
 translation-type: tm+mt
-source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
+source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
 workflow-type: tm+mt
 source-wordcount: '250'
 ht-degree: 0%
@@ -23,7 +23,7 @@ ht-degree: 0%
 
    ![](assets/image2014-9-16-10-3a35-3a32.png)
 
-   이 페이지에는 계정의 모든 보고서에 대한 구독이 표시됩니다. 이 보고서는 [보고서 유형](../../../../product-docs/reporting/basic-reporting/report-types/report-type-overview.md)으로 그룹화됩니다. 여기에는 [기본 보고서](subscribe-to-a-basic-report.md) 및 [매출 주기 탐색기](http://docs.marketo.com/display/docs/revenue+cycle+analytics) 보고서에 대한 구독이 포함됩니다.
+   이 페이지에는 계정의 모든 보고서에 대한 구독이 표시됩니다. 이 보고서는 [보고서 유형](../../../../product-docs/reporting/basic-reporting/report-types/report-type-overview.md)으로 그룹화됩니다. 여기에는 [기본 보고서](subscribe-to-a-basic-report.md) 및 [매출 주기 탐색기](https://docs.marketo.com/display/docs/revenue+cycle+analytics) 보고서에 대한 구독이 포함됩니다.
 
    >[!TIP]
    >
@@ -73,5 +73,5 @@ ht-degree: 0%
    >    * [매출 탐색기 보고서 구독](../../../../product-docs/reporting/revenue-cycle-analytics/revenue-explorer/subscribe-to-a-revenue-explorer-report.md)
 
 
-   [기본 보고](http://docs.marketo.com/display/docs/basic+reporting) 및 [매출 주기 탐색기](http://docs.marketo.com/display/docs/revenue+cycle+analytics) 딥 잠수에서 자세한 내용을 살펴보십시오.
+   [기본 보고](https://docs.marketo.com/display/docs/basic+reporting) 및 [매출 주기 탐색기](https://docs.marketo.com/display/docs/revenue+cycle+analytics) 딥 잠수에서 자세한 내용을 살펴보십시오.
 
