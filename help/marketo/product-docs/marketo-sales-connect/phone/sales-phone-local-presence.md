@@ -3,7 +3,7 @@ unique-page-id: 14352436
 description: 영업 전화 로컬 상태 - 마케팅 문서 - 제품 설명서
 title: 판매 전화 로컬 상태
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
 workflow-type: tm+mt
 source-wordcount: '139'
 ht-degree: 0%
@@ -25,7 +25,7 @@ ht-degree: 0%
 
 Adobe는 미국에서만 모든 세일즈 전화 기능을 제공합니다.
 
-**지역 코드를 호출할 때 로컬 현재 상태 번호는 항상 동일합니까? **
+**지역 코드를 호출할 때 로컬 현재 상태 번호는 항상 동일합니까?**
 
 지역 코드를 호출할 때 숫자는 항상 동일할 수 있습니다.
 
