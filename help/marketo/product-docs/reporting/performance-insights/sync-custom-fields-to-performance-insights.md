@@ -3,7 +3,7 @@ unique-page-id: 14746432
 description: 사용자 정의 필드를 성능 인사이트에 동기화 - Marketing To Docs - 제품 설명서
 title: 사용자 정의 필드를 성과 인사이트에 동기화
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
 workflow-type: tm+mt
 source-wordcount: '141'
 ht-degree: 0%
@@ -21,7 +21,7 @@ MPI 매출 및 파이프라인 대시보드는 사용자 지정 마케팅 필드
 
 >[!NOTE]
 >
->이 문서는 **이(가) [RCA](http://docs.marketo.com/x/lwIk)이(가) 아닌 사용자에게만 해당됩니다.** RCA가 있는 경우 [이 문서](http://docs.marketo.com/x/FQQk)의 단계를 따르십시오.
+>이 문서는 **이(가) [RCA](https://docs.marketo.com/x/lwIk)이(가) 아닌 사용자에게만 해당됩니다.** RCA가 있는 경우 [이 문서](https://docs.marketo.com/x/FQQk)의 단계를 따르십시오.
 
 1. **관리** 섹션으로 이동합니다.
 
