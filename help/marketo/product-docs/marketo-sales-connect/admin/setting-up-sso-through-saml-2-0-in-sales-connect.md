@@ -3,7 +3,7 @@ unique-page-id: 14352405
 description: 판매 연결 - Marketing To Docs - 제품 문서에서 SAML 2.0을 통해 SSO 설정
 title: Sales Connect에서 SAML 2.0을 통해 SSO 설정
 translation-type: tm+mt
-source-git-commit: 0f0217a88929661798015b51a26259a973f9f6ea
+source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
 workflow-type: tm+mt
 source-wordcount: '256'
 ht-degree: 0%
@@ -31,6 +31,6 @@ SAML 2.0 사양을 통해 SSO를 지원합니다. 그러나 지금은 공급자�
 
 회사의 SSO 계정이 고유한 도메인이 되려면 SSO 위치가 필요합니다. 예를 들어 `toutapp.pingidentity.com` 등과 같은 고유한 하위 도메인이 필요합니다. 이러한 유형의 고유 식별자가 없으면 대시보드에서 SAML을 설정할 수 없습니다.
 
-URL을 할당할 때 한 번의 로그인과 Okta가 항상 고유한 식별자를 제공하지는 않습니다. Okta 또는 One Login을 사용하는 경우 Adobe는 대시보드 단추에서 하나의 로그인을 설정할 수 없음을 의미합니다. 여전히 [웹 응용 프로그램](http://toutapp.com/login)의 단일 사인온 단추에서 설정할 수 있습니다.
+URL을 할당할 때 한 번의 로그인과 Okta가 항상 고유한 식별자를 제공하지는 않습니다. Okta 또는 One Login을 사용하는 경우 Adobe는 대시보드 단추에서 하나의 로그인을 설정할 수 없음을 의미합니다. 여전히 [웹 응용 프로그램](https://toutapp.com/login)의 단일 사인온 단추에서 설정할 수 있습니다.
 
 해당 정보가 준비되면 엔지니어링 팀과 협력하여 구독에 맞게 설정합니다.
