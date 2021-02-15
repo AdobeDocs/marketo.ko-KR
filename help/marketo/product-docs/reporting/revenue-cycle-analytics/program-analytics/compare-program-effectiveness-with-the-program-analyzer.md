@@ -3,7 +3,7 @@ unique-page-id: 2360403
 description: 프로그램 분석기와 프로그램 효과 비교 - 마케팅 문서 - 제품 설명서
 title: 프로그램 분석기와 프로그램 효과 비교
 translation-type: tm+mt
-source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
+source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
 workflow-type: tm+mt
 source-wordcount: '484'
 ht-degree: 0%
@@ -98,4 +98,4 @@ Paper Fest 12 프로그램은 더 많은 매출(더 큰 버블)에 영향을 줄
 
 >[!NOTE]
 >
->[매출 주기 탐색기](http://docs.marketo.com/display/docs/revenue+cycle+analytics)의 고급 분석에 대해 자세히 알아보십시오.
+>[매출 주기 탐색기](https://docs.marketo.com/display/docs/revenue+cycle+analytics)의 고급 분석에 대해 자세히 알아보십시오.
