@@ -3,7 +3,7 @@ unique-page-id: 14352468
 description: CSV를 통해 연락처 가져오기 - Marketing To Docs - 제품 설명서
 title: CSV를 통해 연락처 가져오기
 translation-type: tm+mt
-source-git-commit: 00887ea53e395bea3a11fd28e0ac98b085ef6ed8
+source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
 workflow-type: tm+mt
 source-wordcount: '120'
 ht-degree: 0%
@@ -40,4 +40,3 @@ ht-degree: 0%
 1. CSV의 열을 Sales Connect의 각 필드에 매핑합니다. 완료되면 **다음**&#x200B;을 클릭합니다.
 
    ![](assets/five.png)
-
