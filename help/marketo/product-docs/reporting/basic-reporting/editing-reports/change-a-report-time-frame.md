@@ -3,7 +3,7 @@ unique-page-id: 2359968
 description: 보고서 기간 변경 - 마케팅 문서 - 제품 설명서
 title: 보고서 기간 변경
 translation-type: tm+mt
-source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
+source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
 workflow-type: tm+mt
 source-wordcount: '180'
 ht-degree: 0%
@@ -57,5 +57,5 @@ ht-degree: 0%
    >**자세히 알아보기**
    >
    >
-   >보고서 사용 방법에 대한 자세한 내용은 [기본 보고](http://docs.marketo.com/display/docs/basic+reporting) 세부 정보를 참조하십시오.
+   >보고서 사용 방법에 대한 자세한 내용은 [기본 보고](https://docs.marketo.com/display/docs/basic+reporting) 세부 정보를 참조하십시오.
 
