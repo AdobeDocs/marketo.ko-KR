@@ -3,7 +3,7 @@ unique-page-id: 2360350
 description: ReST API와 함께 사용할 사용자 정의 서비스 만들기 - Marketing To Docs - 제품 설명서
 title: ReST API와 함께 사용할 사용자 지정 서비스 만들기
 translation-type: tm+mt
-source-git-commit: 78961a3e163ce903facf955a9dda6909b5e85bad
+source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
 workflow-type: tm+mt
 source-wordcount: '224'
 ht-degree: 0%
@@ -30,7 +30,7 @@ ReST API를 통해 Marketing To와 통합하려면 사용자 지정 서비스를
 
 >[!TIP]
 >
->[ReST API](http://developers.marketo.com/documentation/rest/)에 대한 자세한 내용은 개발자 설명서를 참조하십시오. 필요한 경우 [SOAP API](http://developers.marketo.com/documentation/soap/)도 있습니다.
+>[ReST API](https://developers.marketo.com/documentation/rest/)에 대한 자세한 내용은 개발자 설명서를 참조하십시오. 필요한 경우 [SOAP API](https://developers.marketo.com/documentation/soap/)도 있습니다.
 
 >[!NOTE]
 >
