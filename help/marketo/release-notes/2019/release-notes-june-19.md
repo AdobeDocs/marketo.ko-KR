@@ -3,7 +3,7 @@ unique-page-id: 18874822
 description: 릴리스 노트 - 19년 6월 19일 - 마케팅 문서 - 제품 설명서
 title: 릴리스 노트 -190년 6월
 translation-type: tm+mt
-source-git-commit: 313266a67243f0c70c25010cb4825efb7f3db0ab
+source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
 workflow-type: tm+mt
 source-wordcount: '650'
 ht-degree: 0%
@@ -26,7 +26,7 @@ ht-degree: 0%
 
 >[!CAUTION]
 >
->2019년 6월 18일부터 이메일 1.0을 더 이상 사용할 수 없습니다. 이메일 2.0 및 이메일 1.0 [여기](http://nation.marketo.com/docs/DOC-7038)의 사용 중단에 대한 자세한 내용을 살펴볼 수 있습니다.
+>2019년 6월 18일부터 이메일 1.0을 더 이상 사용할 수 없습니다. 이메일 2.0 및 이메일 1.0 [여기](https://nation.marketo.com/docs/DOC-7038)의 사용 중단에 대한 자세한 내용을 살펴볼 수 있습니다.
 
 ## 계정 기반 마케팅 {#account-based-marketing}
 
@@ -66,7 +66,7 @@ Marketing To Sales Connect
 ## Marketing To {#bizible-by-marketo}
 
 * **Dynamics에 대한 다중 통화 지원**:이제 Microsoft Dynamics 통화 표에 맞게 Bizable을 사용하여 기업 및 로컬 통화를 손쉽게 전환할 수 있습니다. (참고:SFDC 지원은 2019년 1분기에 출시되었습니다.)
-* **드리프트 통합**:드리프트 대화가 고객 여정에 어떤 영향을 미치는지 이해합니다. 또한 대화에서 이메일 주소를 가져와 새 리드를 만들거나 기존 리드에 터치포인트를 연결할 수 있습니다.
+* **드리프트 통합**:드리프트 대화가 고객의 여정에 미치는 영향을 파악합니다. 또한 대화에서 이메일 주소를 가져와 새 리드를 만들거나 기존 리드에 터치포인트를 연결할 수 있습니다.
 * **현지화**:Bizible은 이제 모든 Marketing-Support 언어(영어, 일본어, 독일어, 스페인어, 프랑스어 및 포르투갈어)로 제공됩니다.
 
 ***제품 릴리스*** 웨비나 [여기에서](https://engage.marketo.com/Marketo-June-Product-Release-2019-On-Demand.html) 2019년 6월 릴리스 혁신 웨비나의 녹화 내용을 확인하세요.
