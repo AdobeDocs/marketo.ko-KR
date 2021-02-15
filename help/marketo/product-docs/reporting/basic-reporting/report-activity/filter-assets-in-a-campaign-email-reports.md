@@ -3,7 +3,7 @@ unique-page-id: 2360227
 description: 캠페인 이메일 보고서의 자산 필터링 - 마케팅 문서 - 제품 설명서
 title: 캠페인 이메일 보고서의 자산 필터링
 translation-type: tm+mt
-source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
+source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
 workflow-type: tm+mt
 source-wordcount: '155'
 ht-degree: 0%
@@ -13,7 +13,7 @@ ht-degree: 0%
 
 # 캠페인 이메일 보고서의 자산 필터링 {#filter-assets-in-a-campaign-email-reports}
 
-프로그램(&#39;로컬 자산&#39;) 또는 보관된 특정 [스마트 캠페인](http://docs.marketo.com/display/docs/smart+campaigns)에 대한 [캠페인 이메일 성과](../../../../product-docs/reporting/basic-reporting/report-types/campaign-email-performance-report.md) 보고서에 초점을 맞춥니다.
+프로그램(&#39;로컬 자산&#39;) 또는 보관된 특정 [스마트 캠페인](https://docs.marketo.com/display/docs/smart+campaigns)에 대한 [캠페인 이메일 성과](../../../../product-docs/reporting/basic-reporting/report-types/campaign-email-performance-report.md) 보고서에 초점을 맞춥니다.
 
 1. **Analytics **(또는 **마케팅 활동**) 영역으로 이동합니다.
 
@@ -56,5 +56,5 @@ ht-degree: 0%
    >**자세히 알아보기**
    >
    >
-   >[기본 보고](http://docs.marketo.com/display/docs/basic+reporting)의 보고서에 대해 모두 알아봅니다.
+   >[기본 보고](https://docs.marketo.com/display/docs/basic+reporting)의 보고서에 대해 모두 알아봅니다.
 
