@@ -3,7 +3,7 @@ unique-page-id: 2360399
 description: 프로그램 분석기 만들기 - 마케팅 문서 - 제품 설명서
 title: 프로그램 분석기 만들기
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
 workflow-type: tm+mt
 source-wordcount: '310'
 ht-degree: 0%
@@ -75,8 +75,8 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->프로그램 분석기에서 선택할 수 있는 많은 지표는 FT(First-Touch) 및 MT(Multi-Touch) 계산 시 사용할 수 있습니다. FT와 MT 속성[의 차이를 이해하는 것이 중요합니다.](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-tools/attribution/understanding-attribution.md)
+>프로그램 분석기에서 선택할 수 있는 많은 지표는 FT(First-Touch) 및 MT(Multi-Touch) 계산 시 사용할 수 있습니다. FT와 MT 속성](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-tools/attribution/understanding-attribution.md)의 차이를 이해하는 것이 중요합니다.[
 
 >[!NOTE]
 >
->[기본 보고](http://docs.marketo.com/display/docs/basic+reporting) 및 [매출 주기 탐색기](http://docs.marketo.com/display/docs/revenue+cycle+analytics)에서 자세한 내용을 살펴보십시오.
+>[기본 보고](https://docs.marketo.com/display/docs/basic+reporting) 및 [매출 주기 탐색기](https://docs.marketo.com/display/docs/revenue+cycle+analytics)에서 자세한 내용을 살펴보십시오.
