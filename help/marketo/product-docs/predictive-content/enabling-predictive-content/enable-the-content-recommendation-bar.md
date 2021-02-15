@@ -3,7 +3,7 @@ unique-page-id: 4720108
 description: 컨텐츠 권장 사항 표시줄 - 마케팅 문서 - 제품 설명서 활성화
 title: 컨텐츠 권장 사항 막대 활성화
 translation-type: tm+mt
-source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
+source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
 workflow-type: tm+mt
 source-wordcount: '308'
 ht-degree: 0%
@@ -19,7 +19,7 @@ ht-degree: 0%
 >
 >예측 컨텐츠를 활성화하려면 먼저 다음을 수행해야 합니다.
 >
->* [예측 컨텐츠 준비](http://docs.marketo.com/display/docs/edit+predictive+content)
+>* [예측 컨텐츠 준비](https://docs.marketo.com/display/docs/edit+predictive+content)
 >* [예측 컨텐트에 대한 제목 승인](/help/marketo/product-docs/predictive-content/working-with-all-content/approve-a-title-for-predictive-content.md)
 
 
@@ -46,7 +46,7 @@ ht-degree: 0%
    >**표시 URL 포함/제외**
    >
    >    * 표시 URL은 도메인의 경로여야 합니다.
-   >    * http:// 또는 https:// 포함 안 함
+   >    * https:// 또는 https:// 포함 안 함
    >    * 와일드카드에 * 사용
    * 세미콜론을 구분 문자로 사용
    * 예:/contact_us*;*action=logout*
