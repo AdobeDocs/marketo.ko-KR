@@ -3,7 +3,7 @@ unique-page-id: 7513771
 description: 로그인 및 사용자 관리 - 마케팅 문서 - 제품 설명서
 title: 로그인 및 사용자 관리
 translation-type: tm+mt
-source-git-commit: d88fb92a00e4c20509617e6ef8b2e51b66cc085b
+source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
 workflow-type: tm+mt
 source-wordcount: '312'
 ht-degree: 0%
@@ -31,7 +31,7 @@ ht-degree: 0%
 
    ![](assets/three-1.png)
 
-1. 역할 이름을 입력하고 권한을 선택합니다. **만들기**&#x200B;를 클릭합니다. 이 역할은 [모든 작업 영역](http://docs.marketo.com/display/DOCS/Managing+Marketo+Users#ManagingMarketoUsers-CreateUsers)에 적용되어야 합니다.
+1. 역할 이름을 입력하고 권한을 선택합니다. **만들기**&#x200B;를 클릭합니다. 이 역할은 [모든 작업 영역](https://docs.marketo.com/display/DOCS/Managing+Marketo+Users#ManagingMarketoUsers-CreateUsers)에 적용되어야 합니다.
 
    ![](assets/four.png)
 
