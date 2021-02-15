@@ -3,7 +3,7 @@ unique-page-id: 4719093
 description: 웹 세그먼트 - 마케팅 문서 - 제품 설명서
 title: 웹 세그먼트
 translation-type: tm+mt
-source-git-commit: e3f4eb27d30887ef53d6636a6bd2929bc8f43a88
+source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
 workflow-type: tm+mt
 source-wordcount: '2031'
 ht-degree: 0%
@@ -54,7 +54,7 @@ ht-degree: 0%
  </tbody> 
 </table>
 
-세그먼트 레이블을 만들고 보는 방법[ 참조](label-your-segment.md)
+세그먼트 레이블을 만들고 보는 방법](label-your-segment.md) 참조[
 
 **세그먼트 - 오른쪽 패널**
 
@@ -108,23 +108,27 @@ ht-degree: 0%
 >1. 모든 필터 사용(1 및 2, 3...)
 >1. 필터 사용(1 또는 2 또는 3..)
 >1. 고급 필터(사용 및/또는 표현식)
->
->    고급 필터를 사용하면 세그먼트 조건을 제어할 수 있습니다. &quot;and&quot; 및 &quot;or&quot;로 구분된 필터 번호를 입력합니다.
->
->    * 1 및 2 및 3
->    * 1 또는 2 또는 3
->
->    &quot;and&quot; 및 &quot;or&quot;를 혼합하려면 괄호 안에 논리 의도를 명확히 해야 합니다. 예:&quot;1 또는 2 및 3&quot;은 다음 중 하나로 작성해야 합니다.
->
->    * 1 및 (2 또는 3)
->    * (1 및 2) 또는 3
->
->    중첩 괄호는 보다 복잡한 논리(예:
->
->    * (1 및 2) 또는 (3 및 4)
->    * 1 및 (2 또는 (3 및 4))
->
->    삽입, 삭제 또는 순서 변경 후 논리를 확인합니다.
+
+   >
+   >    
+   고급 필터를 사용하면 세그먼트 조건을 제어할 수 있습니다. &quot;and&quot; 및 &quot;or&quot;로 구분된 필터 번호를 입력합니다.
+   >
+   >    
+   * 1 및 2 및 3
+   >    * 1 또는 2 또는 3
+
+   >
+   &quot;and&quot; 및 &quot;or&quot;를 혼합하려면 괄호 안에 논리 의도를 명확히 해야 합니다. 예:&quot;1 또는 2 및 3&quot;은 다음 중 하나로 작성해야 합니다.
+
+   * 1 및 (2 또는 3)
+   * (1 및 2) 또는 3
+
+   중첩 괄호는 보다 복잡한 논리(예:
+
+   * (1 및 2) 또는 (3 및 4)
+   * 1 및 (2 또는 (3 및 4))
+
+   삽입, 삭제 또는 순서 변경 후 논리를 확인합니다.
 
 
 
@@ -192,7 +196,7 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->Named Account List 이름 옆에 있는 대괄호 안의 숫자는 웹 개인화 [Read API](http://developers.marketo.com/documentation/websites/rtp-js-api/) 목록에 대한 색인 참조로 사용됩니다.
+>Named Account List 이름 옆에 있는 대괄호 안의 숫자는 웹 개인화 [Read API](https://developers.marketo.com/documentation/websites/rtp-js-api/) 목록에 대한 색인 참조로 사용됩니다.
 
 **ISP 제외**
 
@@ -292,11 +296,11 @@ Mobile OS를 세그먼트 편집기로 드래그하여 놓기
 
 **사용자 컨텍스트 API**
 
-웹 개인화 API는 [여기에서 자세한 내용을 참조하십시오.](http://developers.marketo.com/documentation/websites/rtp-user-context-api/)
+웹 개인화 API는 [여기에서 자세한 내용을 참조하십시오.](https://developers.marketo.com/documentation/websites/rtp-user-context-api/)
 
 >[!TIP]
 >
->**와일드카드 사용 -** 해당 내에 있는 항목이 포함된 검색어 또는 URL을 포함하려는 경우.&quot;[google.com](http://google.com)&quot; 또는 &quot;검색어 제품&quot;에서 이 문자를 와일드카드라고 하며 각 끝마다 별표( 이 작은 남자*)로 입력해야 합니다. 따라서 [google.com](http://google.com)에서 오는 모든 내용은 * [google.com](http://google.com)*
+>**와일드카드 사용 -** 해당 내에 있는 항목이 포함된 검색어 또는 URL을 포함하려는 경우.&quot;[google.com](https://google.com)&quot; 또는 &quot;검색어 제품&quot;에서 이 문자를 와일드카드라고 하며 각 끝마다 별표( 이 작은 남자*)로 입력해야 합니다. 따라서 [google.com](https://google.com)에서 오는 모든 내용은 * [google.com](https://google.com)*
 
 ## 세그먼트 편집 {#edit-segments}
 
