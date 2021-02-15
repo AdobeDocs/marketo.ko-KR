@@ -3,9 +3,9 @@ unique-page-id: 30082174
 description: MSC의 흥미로운 순간들 - Marketing To Docs - 제품 설명서
 title: MSC의 흥미로운 순간들
 translation-type: tm+mt
-source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
+source-git-commit: 7952f5069ed641e2b5ca329c69f4e3f237e2c43e
 workflow-type: tm+mt
-source-wordcount: '262'
+source-wordcount: '251'
 ht-degree: 0%
 
 ---
@@ -17,10 +17,9 @@ ht-degree: 0%
 
 >[!AVAILABILITY]
 >
->
->이러한 데이터는 [Marketing To Sales Insight](http://docs.marketo.com/x/2Akt) 및 Marketing To Sales Connect 고객에게만 제공됩니다.
+>이러한 데이터는 [Marketing To Sales Insight](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/features/tabs-in-the-msi-panel/interesting-moments/using-interesting-moments.md) 및 Marketing To Sales Connect 고객에게만 제공됩니다.
 
-## 흥미로운 순간은 무엇인가? {#what-is-an-interesting-moment}
+## 흥미로운 순간은 무엇인가?{#what-is-an-interesting-moment}
 
 당신에게 달렸어! 영업 팀과 관련된 정보를 결정합니다. 세일즈 팀은 리드를 언제 확인할 수 있습니다.
 
@@ -30,7 +29,7 @@ ht-degree: 0%
 
 ## 흥미로운 순간을 어떻게 만들어내나요?{#how-do-i-create-an-interesting-moment}
 
-1. [s](../../../product-docs/core-marketo-concepts/smart-campaigns/understanding-smart-campaigns.md) [마트 캠페인](http://docs.marketo.com/display/docs/smart+campaigns)을 선택합니다. 이 캠페인을 선택하면 판매 팀이 관심 있는 캠페인을 찾을 수 있습니다.
+1. [스마트 캠페인](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/understanding-smart-campaigns.md)을 선택합니다. 그럴 경우 판매 팀에서 관심 있는 캠페인을 선택합니다.
 
    ![](assets/image2015-1-8-18-3a8-3a54.png)
 
@@ -52,7 +51,7 @@ ht-degree: 0%
 
 ## MarketingTo에서 흥미로운 순간을 어떻게 볼 수 있습니까? {#what-does-an-interesting-moment-look-like-in-marketo}
 
-관심 있는 순간은 [리드의 활동 로그](../../../product-docs/core-marketo-concepts/smart-lists-and-static-lists/managing-people-in-smart-lists/using-the-person-detail-page.md)에 표시됩니다.
+관심 있는 순간은 [리드의 활동 로그](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/managing-people-in-smart-lists/using-the-person-detail-page.md)에 표시됩니다.
 
 ![](assets/image2015-1-14-18-3a45-3a58.png)
 
@@ -61,4 +60,3 @@ ht-degree: 0%
 흥미로운 순간은 사용자의 라이브 피드에 실시간으로 표시됩니다. Salesforce의 리드 소유자 ID를 활용하여 사용자가 자신의 소유자인 연관성 있는 리드의 흥미로운 순간을 표시할 수 있습니다. 사용자는 리드의 이름 옆에 있는 드롭다운을 클릭하여 이메일/전화/판매 캠페인을 통해 리드를 빠르게 따라갈 수 있습니다.
 
 ![](assets/engagement.jpg)
-
