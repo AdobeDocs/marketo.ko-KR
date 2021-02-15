@@ -3,9 +3,9 @@ unique-page-id: 2360368
 description: Salesforce Enterprise에서 Marketing To Sales Insight 구성/제한 없음 - Marketing To Docs - 제품 설명서
 title: Salesforce Enterprise에서 Marketing To Sales Insight 구성/제한 없음
 translation-type: tm+mt
-source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
+source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
 workflow-type: tm+mt
-source-wordcount: '920'
+source-wordcount: '906'
 ht-degree: 0%
 
 ---
@@ -17,11 +17,8 @@ ht-degree: 0%
 
 >[!PREREQUISITES]
 >
->* [Salesforce Enterprise/Unlimited Edition에서 Marketing to 필드 동기화 구성](http://docs.marketo.com/pages/viewpage.action?pageid=2360372)
->* [Salesforce AppExchange에 Marketing To Sales Insight 패키지 설치](../../../../product-docs/marketo-sales-insight/msi-for-salesforce/installation/install-marketo-sales-insight-package-in-salesforce-appexchange.md)
-
->
-
+>* [Salesforce Enterprise/Unlimited Edition에서 Marketing to 필드 동기화 구성](https://docs.marketo.com/pages/viewpage.action?pageid=2360372)
+>* [Salesforce AppExchange에 Marketing To Sales Insight 패키지 설치](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/installation/install-marketo-sales-insight-package-in-salesforce-appexchange.md)
 
 
 >[!NOTE]
@@ -31,6 +28,7 @@ ht-degree: 0%
 ## Marketing에서 {#configure-sales-insight-in-marketo} 영업 인사이트 구성
 
 1. Marketing To 계정에서 Marketing to Sales Insight 자격 증명을 받으려면 새 브라우저 창을 엽니다.
+
 1. 관리 영역으로 이동하여 **Sales Insight**&#x200B;를 선택합니다.
 
    ![](assets/configure-marketo-sales-insight-in-salesforce-professional-edition-1.png)
@@ -85,7 +83,7 @@ ht-degree: 0%
 
    ![](assets/login-admin.png)
 
-1. Sales Insight** 를 클릭합니다.
+1. **Sales Insight**&#x200B;를 클릭합니다.
 
    ![](assets/image2015-5-22-15-3a12-3a33.png)
 
@@ -135,7 +133,7 @@ ht-degree: 0%
 
    ![](assets/image2015-5-28-14-3a58-3a39.png)
 
-1. 왼쪽에서 **Visualforce 페이지 **를 클릭합니다. **섹션**&#x200B;을 사용자 지정 링크 섹션 아래의 레이아웃으로 드래그합니다.
+1. 왼쪽에서 **Visualforce 페이지**&#x200B;를 클릭합니다. **섹션**&#x200B;을 사용자 지정 링크 섹션 아래의 레이아웃으로 드래그합니다.
 
    ![](assets/image2014-9-24-17-3a32-3a53.png)
 
@@ -163,7 +161,7 @@ ht-degree: 0%
    >
    >계정 및 기회 개체의 높이는 410픽셀인 것이 좋습니다.
 
-1. 왼쪽에 있는 **필드**를 클릭합니다. 그런 다음 **참여** 레이블을 검색하여 **Marketing to Sales Insight** 레이아웃으로 드래그합니다.
+1. 왼쪽에 있는 **필드**&#x200B;를 클릭합니다. 그런 다음 **참여** 레이블을 검색하여 **Marketing to Sales Insight** 레이아웃으로 드래그합니다.
 
    ![](assets/image2015-5-22-16-3a32-3a46.png)
 
@@ -200,6 +198,7 @@ ht-degree: 0%
    ![](assets/image2014-9-24-17-3a35-3a6.png)
 
 1. 이 프로세스를 반복하여 **연락처**, **계정** 및 **기회**&#x200B;에 대한 Visualforce 페이지 섹션 및 영업 인사이트 필드를 추가합니다.
+
 1. 5-7단계를 반복하여 연락처, 계정 및 기회에 대한 Visualforce 페이지 섹션을 추가합니다. 그런 다음 8-10단계를 반복하여 **연락처**&#x200B;에 대한 영업 인사이트 필드를 추가합니다. 변경 사항이 있으면 반드시 저장해야 합니다.
 
 ## 사용자 지정 개인 필드 매핑 {#map-custom-person-fields}
@@ -216,15 +215,13 @@ ht-degree: 0%
 
 1. **리드 필드 매핑**&#x200B;을 클릭합니다.
 
-   ** ![](assets/image2015-6-1-9-3a58-3a48.png)
-
-   **
+   ![](assets/image2015-6-1-9-3a58-3a48.png)
 
 1. **참여**&#x200B;에 대한 오른쪽의 드롭다운을 클릭합니다.
 
    ![](assets/image2015-6-1-10-3a9-3a53.png)
 
-1. 목록에서 **Contact.Engagement**를 선택합니다.
+1. 목록에서 **Contact.Engagement**&#x200B;를 선택합니다.
 
    ![](assets/image2015-6-1-10-3a12-3a11.png)
 
@@ -267,21 +264,21 @@ ht-degree: 0%
  </tbody> 
 </table>
 
-1. 완료되면 **저장 **을 클릭합니다.
+1. 완료되면 **저장**&#x200B;을 클릭합니다.
 
 ## Marketing To Sales Insight 구성 {#marketo-sales-insight-config}
 
-1. **+ **을 클릭하고 **Marketing To Sales Insight 구성**&#x200B;을 선택합니다.
+1. **+**&#x200B;을 클릭한 다음 **Marketing To Sales Insight 구성**&#x200B;을 선택합니다.
 
    ![](assets/image2014-9-24-17-3a37-3a45.png)
 
-1. **Marketing API 활성화**&#x200B;를 선택합니다. 그런 다음 Marketing to Admin](http://docs.marketo.com/display/DOCS/Configure+Marketo+Sales+Insight+in+Salesforce+Professional+Edition#ConfigureMarketoSalesInsightinSalesforceProfessionalEdition-SetupMarketoSalesInsight)의 [API 구성 정보를 입력합니다. 완료되면 **변경 내용 저장 **을 클릭합니다.
+1. **Marketing API 활성화**&#x200B;를 선택합니다. 그런 다음 Marketing to Admin](#set-up-marketo-sales-insight)의 [API 구성 정보를 입력합니다. 완료되면 **변경 내용 저장**&#x200B;을 클릭합니다.
 
    ![](assets/image2014-9-24-17-3a38-3a0.png)
 
    >[!NOTE]
    >
-   >진단 테스트가 실패할 경우 [페이지 레이아웃](http://nation.marketo.com/docs/DOC-1115)에 필드를 더 추가해야 할 수 있습니다.
+   >진단 테스트가 실패할 경우 [페이지 레이아웃](https://nation.marketo.com/docs/DOC-1115)에 필드를 더 추가해야 할 수 있습니다.
 
 바로 그거야! 리드, 연락처, 계정 및 기회에 대한 Marketing To Sales Insight 필드를 볼 수 있어야 합니다.
 
@@ -294,18 +291,17 @@ ht-degree: 0%
 ## Marketing To Sales Insight {#access-marketo-sales-insight} 액세스
 
 1. Salesforce에서 탭 모음 끝에 있는 **+**&#x200B;을 클릭하고 **Marketing to Sales Insight 구성**&#x200B;을 클릭합니다.
+
 1. **Marketing API 사용** 확인란을 선택합니다.
+
 1. Marketing의 Sales Insight 관리 페이지에 있는 Soap API 패널에서 자격 증명을 복사하고 Salesforce Sales Insight 구성 페이지의 Soap API 섹션에 붙여 넣습니다.
+
 1. Marketing의 Sales Insight 관리 페이지에 있는 Rest API 패널에서 자격 증명을 복사하고 Salesforce Sales Insight 구성 페이지의 Rest API 섹션에 붙여 넣습니다.
 
    ![](assets/access-msi.png)
 
 >[!MORELIKETHIS]
 >
->* [우선 순위, 긴급성, 상대적인 점수 및 최고 점수](../../../../product-docs/marketo-sales-insight/msi-for-salesforce/features/stars-and-flames/priority-urgency-relative-score-and-best-bets.md)
->* [Salesforce에 Marketing to Sales Insight 탭 및 버튼 추가](../../../../product-docs/marketo-sales-insight/msi-for-salesforce/features/bulk-actions/add-marketo-sales-insight-tab-and-buttons-to-salesforce.md)
-
->
-
-
+>* [우선 순위, 긴급성, 상대적인 점수 및 최고 점수](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/features/stars-and-flames/priority-urgency-relative-score-and-best-bets.md)
+>* [Salesforce에 Marketing to Sales Insight 탭 및 버튼 추가](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/features/bulk-actions/add-marketo-sales-insight-tab-and-buttons-to-salesforce.md)
 
