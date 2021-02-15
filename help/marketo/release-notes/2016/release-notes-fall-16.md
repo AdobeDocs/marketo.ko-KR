@@ -3,7 +3,7 @@ unique-page-id: 11384018
 description: 릴리스 노트 -16년 가을 - Marketing To Docs - 제품 설명서
 title: 릴리스 노트 -16년 가을
 translation-type: tm+mt
-source-git-commit: 96cc6a30c63c8e8dca793a52e4bf7ecaef8c08dc
+source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
 workflow-type: tm+mt
 source-wordcount: '704'
 ht-degree: 0%
@@ -15,7 +15,7 @@ ht-degree: 0%
 
 다음 기능은 16년 가을 릴리스에 포함되어 있습니다. 기능 가용성을 확인하려면 Marketing Edition을 확인하십시오. 각 기능에 대한 자세한 아티클을 보려면 제목 링크를 클릭하십시오.
 
-## [이메일의 예측 컨텐츠](http://docs.marketo.com/display/docs/predictive+content)  {#predictive-content-in-email}
+## [이메일의 예측 컨텐츠](https://docs.marketo.com/display/docs/predictive+content)  {#predictive-content-in-email}
 
 Adobe의 예측 컨텐츠 애플리케이션이 웹 및 이메일 채널에서 머신 러닝과 예측 알고리즘을 통해 컨텐츠를 추적, 관리 및 권장할 수 있는 새로운 사용자 경험이 있습니다.
 
@@ -45,7 +45,7 @@ Facebook 오프라인 전환 통합을 통해 광고 팀이 광고 비용을 보
 >
 >이 기능을 활성화하려면 마케팅 지원 센터에 문의하십시오.
 
-## [마케팅 계정 기반 마케팅 개선 사항](http://docs.marketo.com/pages/viewpage.action?pageid=11380718) {#marketo-account-based-marketing-enhancements}
+## [마케팅 계정 기반 마케팅 개선 사항](https://docs.marketo.com/pages/viewpage.action?pageid=11380718) {#marketo-account-based-marketing-enhancements}
 
 이제 계정 담당자, 영업 개발 담당자, 비즈니스 개발 담당자, 고객 성공 관리자와 같은 ABM(Account Based Marketing)의 지정된 계정에 계정 팀을 할당할 수 있습니다. 계정 소유자별 계정 목록을 작성하고 개인화된 주별 ABM 보고서를 계정 팀에 보낼 수도 있습니다.
 
@@ -53,7 +53,7 @@ Facebook 오프라인 전환 통합을 통해 광고 팀이 광고 비용을 보
 
 **REST API**
 
-또한 이 릴리스에서는 Marketing to REST API를 사용하여 ABM에서 지정된 계정 속성 및 계정 점수를 관리할 수 있습니다. API 작업에 대한 자세한 내용은 [Marketing Developers 웹 사이트](http://developers.marketo.com/rest-api/lead-database/named-accounts)를 참조하십시오.
+또한 이 릴리스에서는 Marketing to REST API를 사용하여 ABM에서 지정된 계정 속성 및 계정 점수를 관리할 수 있습니다. API 작업에 대한 자세한 내용은 [Marketing Developers 웹 사이트](https://developers.marketo.com/rest-api/lead-database/named-accounts)를 참조하십시오.
 
 ## [감사 추적 개선 사항](../../product-docs/administration/audit-trail/change-details-in-audit-trail.md) {#audit-trail-enhancements}
 
@@ -67,7 +67,7 @@ Facebook 오프라인 전환 통합을 통해 광고 팀이 광고 비용을 보
 
 **캠페인 제한 편집**
 
-적용할 수 없는 경우 [캠페인 제한 사항](http://docs.marketo.com/display/DOCS/Enable+Lead+Restrictions+for+Smart+Campaigns)을 설정하는 이유는 무엇입니까? 캠페인 제한 설정을 설정하여 데이터베이스에 있는 단일 캠페인으로 타깃팅할 수 있는 사람 수를 제한할 때 이제 캠페인을 예약할 때 이러한 설정을 무시할 수 있는 사용자를 제한할 수 있습니다.
+적용할 수 없는 경우 [캠페인 제한 사항](https://docs.marketo.com/display/DOCS/Enable+Lead+Restrictions+for+Smart+Campaigns)을 설정하는 이유는 무엇입니까? 캠페인 제한 설정을 설정하여 데이터베이스에 있는 단일 캠페인으로 타깃팅할 수 있는 사람 수를 제한할 때 이제 캠페인을 예약할 때 이러한 설정을 무시할 수 있는 사용자를 제한할 수 있습니다.
 
 ## [모바일 푸시 알림용 사운드](../../product-docs/mobile-marketing/push-notifications/configure-mobile-push-notification.md) {#sound-for-mobile-push-notifications}
 
@@ -88,11 +88,11 @@ Facebook 오프라인 전환 통합을 통해 광고 팀이 광고 비용을 보
 
 Market Sales Insight는 이제 Salesforce Shield Encryption과 호환됩니다. 모든 Sales Insight 고객은 Appexchange](https://appexchange.salesforce.com/listingDetail?listingId=a0N30000001SVZmEAO)에서 사용할 수 있는 이 최신 관리 패키지(버전 1.4359.2)으로 업그레이드해야 합니다.[
 
-## [명명된 계정 API](http://developers.marketo.com/rest-api/lead-database/named-accounts/) {#named-accounts-apis}
+## [명명된 계정 API](https://developers.marketo.com/rest-api/lead-database/named-accounts/) {#named-accounts-apis}
 
 이번 릴리스를 통해 Marketing ABM 사용자는 명명 계정 API를 통해 지정된 계정을 관리할 수 있습니다. 사용자는 지정된 계정을 만들고 업데이트 및 삭제할 수 있을 뿐만 아니라 ABM 명명 계정 점수를 읽고 업데이트할 수 있습니다.
 
-## [이메일 편집기 v2.0 API 지원](http://developers.marketo.com/rest-api/assets/emails/) {#email-editor-v-api-support}
+## [이메일 편집기 v2.0 API 지원](https://developers.marketo.com/rest-api/assets/emails/) {#email-editor-v-api-support}
 
 Marketing to REST API를 사용하여 v2.0 형식의 이메일에 대한 변수 및 모듈을 관리합니다.
 
