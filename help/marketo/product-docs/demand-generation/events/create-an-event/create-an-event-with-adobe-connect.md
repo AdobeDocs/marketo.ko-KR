@@ -3,7 +3,7 @@ unique-page-id: 2949865
 description: Adobe Connect - Marketing To Docs - 제품 설명서를 사용하여 이벤트 만들기
 title: Adobe Connect으로 이벤트 만들기
 translation-type: tm+mt
-source-git-commit: ed83438ae5660d172e845f25c4d72d599574bd91
+source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
 workflow-type: tm+mt
 source-wordcount: '399'
 ht-degree: 0%
@@ -21,7 +21,7 @@ Adobe Connect과 동기화하면 Marketing Cloud 내의 웨비나 등록 및 참
 >* [새 이벤트 프로그램 만들기](/help/marketo/product-docs/demand-generation/events/understanding-events/create-a-new-event-program.md)
 
 
-먼저 Adobe Connect에서 회의 또는 세미나를 만들었는지 확인합니다. 도움이 필요한 경우 [Adobe Connect 사용 안내서](http://help.adobe.com/en_US/connect/9.0/using/index.html)를 확인하십시오. Adobe Connect에서 만든 회의와 세미나는 Marketing To에서 자격 증명을 입력할 때 지정한 폴더 아래에 만들어야 합니다. 회의 또는 세미나를 만든 후 확인 이메일 및 ICS 파일에 사용할 관련 물류 정보(전화 번호 등)를 메모해 둡니다.
+먼저 Adobe Connect에서 회의 또는 세미나를 만들었는지 확인합니다. 도움이 필요한 경우 [Adobe Connect 사용 안내서](https://help.adobe.com/en_US/connect/9.0/using/index.html)를 확인하십시오. Adobe Connect에서 만든 회의와 세미나는 Marketing To에서 자격 증명을 입력할 때 지정한 폴더 아래에 만들어야 합니다. 회의 또는 세미나를 만든 후 확인 이메일 및 ICS 파일에 사용할 관련 물류 정보(전화 번호 등)를 메모해 둡니다.
 
 >[!NOTE]
 >
