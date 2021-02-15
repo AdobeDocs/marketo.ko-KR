@@ -3,7 +3,7 @@ unique-page-id: 4720232
 description: 새 계정 목록 만들기 - 마케팅 문서 - 제품 설명서
 title: 새 계정 목록 만들기
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
 workflow-type: tm+mt
 source-wordcount: '415'
 ht-degree: 0%
@@ -17,7 +17,7 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->이 문서는 이전 웹 ABM 고객에게만 적용됩니다. 2016년 9월 이후에 웹 ABM을 구입한 경우 [이 문서](http://docs.marketo.com/display/DOCS/Account+Lists#AccountLists-CreateaNewAccountList)의 단계를 대신 수행하십시오.
+>이 문서는 이전 웹 ABM 고객에게만 적용됩니다. 2016년 9월 이후에 웹 ABM을 구입한 경우 [이 문서](https://docs.marketo.com/display/DOCS/Account+Lists#AccountLists-CreateaNewAccountList)의 단계를 대신 수행하십시오.
 
 ## 새 계정 목록 만들기 {#create-a-new-account-list-1}
 
@@ -94,5 +94,5 @@ CSV 파일이 기존 파일을 대체합니다. 기존 목록은 새 파일 처�
 >[!MORELIKETHIS]
 >
 >* [계정 목록을 사용하여 세그먼트 만들기](create-a-segment-using-an-account-list.md)
->* [지정된 계정 목록 보기](http://docs.marketo.com/pages/viewpage.action?pageid=4720244)
+>* [지정된 계정 목록 보기](https://docs.marketo.com/pages/viewpage.action?pageid=4720244)
 
