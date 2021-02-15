@@ -3,7 +3,7 @@ unique-page-id: 12981050
 description: 영업 템플릿 잠금 - 마케팅 문서 - 제품 설명서
 title: 영업 템플릿 잠금
 translation-type: tm+mt
-source-git-commit: 1a29614ec938074902af201b2ffc11cfaa625f7a
+source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
 workflow-type: tm+mt
 source-wordcount: '214'
 ht-degree: 0%
@@ -62,4 +62,3 @@ CRM 사용자가 판매 템플릿을 편집하지 못하도록 하기 위해 관
    >[!NOTE]
    >
    >기본적으로 이 상자가 선택되어 있고 CRM 사용자가 이메일을 편집할 수 있습니다.
-
