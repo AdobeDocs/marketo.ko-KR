@@ -3,7 +3,7 @@ unique-page-id: 11379622
 description: Facebook 리드 광고 설정 - 마케팅 문서 - 제품 설명서
 title: Facebook 리드 광고 설정
 translation-type: tm+mt
-source-git-commit: ed83438ae5660d172e845f25c4d72d599574bd91
+source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
 workflow-type: tm+mt
 source-wordcount: '305'
 ht-degree: 0%
@@ -35,7 +35,7 @@ Facebook에서 광고 캠페인을 실행하고 Marketing에 대한 리드를 �
 
    ![](assets/image2016-11-29-10-3a51-3a47.png)
 
-1. 동일한 브라우저에서 새 탭을 열고 [facebook.com](http://www.facebook.com)으로 이동합니다. 통합에 사용할 계정을 사용하여 Facebook에 로그인합니다.
+1. 동일한 브라우저에서 새 탭을 열고 [facebook.com](https://www.facebook.com)으로 이동합니다. 통합에 사용할 계정을 사용하여 Facebook에 로그인합니다.
 
    >[!NOTE]
    >
