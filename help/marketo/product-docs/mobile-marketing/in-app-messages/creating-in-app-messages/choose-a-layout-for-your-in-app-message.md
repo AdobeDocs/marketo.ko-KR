@@ -3,7 +3,7 @@ unique-page-id: 10100434
 description: 인앱 메시지 레이아웃 선택 - Marketing To Docs - 제품 설명서
 title: 인앱 메시지에 사용할 레이아웃 선택
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
 workflow-type: tm+mt
 source-wordcount: '490'
 ht-degree: 0%
@@ -62,7 +62,7 @@ Marketing Cloud에서는 인앱 메시지를 구축하기 위한 6개의 레이�
 
 >[!MORELIKETHIS]
 >
->* [인앱 메시지 만들기](http://docs.marketo.com/display/docs/create+an+in-app+message)
+>* [인앱 메시지 만들기](https://docs.marketo.com/display/docs/create+an+in-app+message)
 >* [인앱 메시지 이해](../../../../product-docs/mobile-marketing/in-app-messages/understanding-in-app-messages.md)
 
 >
