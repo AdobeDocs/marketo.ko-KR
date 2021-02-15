@@ -3,7 +3,7 @@ unique-page-id: 2360360
 description: 웹 후크 만들기 - 마케팅 문서 - 제품 설명서
 title: 웹 후크 만들기
 translation-type: tm+mt
-source-git-commit: 78961a3e163ce903facf955a9dda6909b5e85bad
+source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
 workflow-type: tm+mt
 source-wordcount: '197'
 ht-degree: 0%
@@ -49,4 +49,4 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->[웹후크](http://developers.marketo.com/documentation/webhooks/)에서 자세한 내용을 살펴보십시오.
+>[웹후크](https://developers.marketo.com/documentation/webhooks/)에서 자세한 내용을 살펴보십시오.
