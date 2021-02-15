@@ -3,7 +3,7 @@ unique-page-id: 2953334
 description: 릴리스 노트 - 2014년 10월 - Marketing Docs - 제품 설명서
 title: 릴리스 노트 - 2014년 10월
 translation-type: tm+mt
-source-git-commit: 96cc6a30c63c8e8dca793a52e4bf7ecaef8c08dc
+source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
 workflow-type: tm+mt
 source-wordcount: '274'
 ht-degree: 0%
@@ -30,7 +30,7 @@ API를 사용하여 리드에 대한 새 활동 또는 변경 사항을 가져�
 * 활동 유형 가져오기
 * 페이징 토큰 가져오기
 
-자세한 내용은 [developers.markto.com](http://developers.marketo.com/documentation/rest/)의 릴리스 이후에 제공됩니다.
+자세한 내용은 [developers.markto.com](https://developers.marketo.com/documentation/rest/)의 릴리스 이후에 제공됩니다.
 
 ## MSI - Microsoft Dynamics {#msi-send-marketo-email-for-microsoft-dynamics}용 Marketing To Email 보내기
 
@@ -70,5 +70,5 @@ Dynamics의 기회 주주 데이터를 동기화할 수 있습니다. &quot;기�
 * 관심 있는 제품
 * 본 RTP 캠페인
 
-자세한 내용은 [developers.markto.com](http://developers.marketo.com/documentation/websites/rtp-js-api/)을 참조하십시오.
+자세한 내용은 [developers.markto.com](https://developers.marketo.com/documentation/websites/rtp-js-api/)을 참조하십시오.
 
