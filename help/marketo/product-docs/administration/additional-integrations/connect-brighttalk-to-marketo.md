@@ -3,7 +3,7 @@ unique-page-id: 15695874
 description: BrightTALK를 마케팅에 연결 - 마케팅 문서 - 제품 설명서
 title: BrightTALK를 Marketing과 연결
 translation-type: tm+mt
-source-git-commit: 78961a3e163ce903facf955a9dda6909b5e85bad
+source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
 workflow-type: tm+mt
 source-wordcount: '335'
 ht-degree: 0%
@@ -21,7 +21,7 @@ BrightTALK 채널을 마케팅 인스턴스와 연결하는 방법을 알아봅�
 
 ## BrightTALK {#steps-in-brighttalk}의 단계
 
-1. [business.brighttalk.com/demandcentral](http://business.brighttalk.com/demandcentral/login)에 로그인하고 **지금 연결**&#x200B;을 클릭합니다.
+1. [business.brighttalk.com/demandcentral](https://business.brighttalk.com/demandcentral/login)에 로그인하고 **지금 연결**&#x200B;을 클릭합니다.
 1. 고급 마케팅 커넥터에서 **연결**&#x200B;을 클릭합니다.
 1. 다음을 묻는 자격 증명 화면으로 표시됩니다.클라이언트 ID, 클라이언트 암호, ID 서비스 URL 및 Rest 서비스 URL. 이 정보를 얻으려면 Marketing에 로그인합니다.
 
@@ -77,4 +77,4 @@ BrightTALK 채널을 마케팅 인스턴스와 연결하는 방법을 알아봅�
 
 1. 3단계에서 BrightTALK 커넥터 설정 화면으로 돌아가서 12단계 및 14단계에서 저장한 자격 증명을 입력합니다.
 
-   자격 증명이 인증되면 BrightTALK를 공식적으로 Marketing에 연결합니다. 다음 단계는 [동기화할 데이터 필드를 결정하는 것입니다](http://support.brighttalk.com/hc/en-us/articles/115005131274-BrightTALK-Connector-for-Marketo-Choose-the-Fields-to-Sync).
+   자격 증명이 인증되면 BrightTALK를 공식적으로 Marketing에 연결합니다. 다음 단계는 [동기화할 데이터 필드를 결정하는 것입니다](https://support.brighttalk.com/hc/en-us/articles/115005131274-BrightTALK-Connector-for-Marketo-Choose-the-Fields-to-Sync).
