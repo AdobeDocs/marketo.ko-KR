@@ -3,7 +3,7 @@ unique-page-id: 11377488
 description: Enterprise 키를 사용하여 Outlook용 Marketing To Add-in 설치 - Marketing To Docs - 제품 설명서
 title: Enterprise 키를 사용하여 Outlook용 Marketing To Add-in 설치
 translation-type: tm+mt
-source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
+source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
 workflow-type: tm+mt
 source-wordcount: '192'
 ht-degree: 0%
@@ -21,7 +21,7 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->[기업 키 보기] 단추가 표시되지 않으면 [`[email protected]`](http://docs.marketo.com/cdn-cgi/l/email-protection#1c6f696c6c736e685c717d6e77796873327f7371)에 문의하여 활성화합니다.
+>[기업 키 보기] 단추가 표시되지 않으면 [`[email protected]`](https://docs.marketo.com/cdn-cgi/l/email-protection#1c6f696c6c736e685c717d6e77796873327f7371)에 문의하여 활성화합니다.
 
 1. 내 마켓플레이스에서 **관리**&#x200B;를 클릭한 다음 **영업 인사이트**&#x200B;를 클릭합니다.
 
