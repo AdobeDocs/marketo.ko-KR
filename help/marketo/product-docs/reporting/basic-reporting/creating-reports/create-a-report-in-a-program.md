@@ -3,7 +3,7 @@ unique-page-id: 2359963
 description: 프로그램에서 보고서 만들기 - 마케팅 문서 - 제품 설명서
 title: 프로그램에서 보고서 만들기
 translation-type: tm+mt
-source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
+source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
 workflow-type: tm+mt
 source-wordcount: '215'
 ht-degree: 0%
@@ -40,7 +40,7 @@ ht-degree: 0%
 
    >[!TIP]
    >
-   >각 항목에 대한 간단한 설명은 [`Report Type Overview`](http://docs.marketo.com/display/DOCS/Report+Type+Overview)을 참조하십시오.
+   >각 항목에 대한 간단한 설명은 [`Report Type Overview`](https://docs.marketo.com/display/DOCS/Report+Type+Overview)을 참조하십시오.
 
    보고서 이름을 지정합니다.
 
@@ -61,7 +61,7 @@ ht-degree: 0%
    >**자세히 알아보기**
    >
    >
-   >기본적으로 보고서에는 모든 프로그램 간에 계정의 모든 활동이 포함됩니다. 보고서를 필터링할 수 있는 다양한 방법에 대해 알아보려면 [기본 보고](http://docs.marketo.com/display/docs/basic+reporting) 세부 정보 검색을 참조하십시오.
+   >기본적으로 보고서에는 모든 프로그램 간에 계정의 모든 활동이 포함됩니다. 보고서를 필터링할 수 있는 다양한 방법에 대해 알아보려면 [기본 보고](https://docs.marketo.com/display/docs/basic+reporting) 세부 정보 검색을 참조하십시오.
 
    >[!NOTE]
    >
@@ -74,5 +74,5 @@ ht-degree: 0%
    >
    >
    >
-   >[보고서 시간 프레임](../../../../product-docs/reporting/basic-reporting/editing-reports/change-a-report-time-frame.md), [기본 보고서 구독](../../../../product-docs/reporting/basic-reporting/report-subscriptions/subscribe-to-a-basic-report.md), [보고서를 Excel](../../../../product-docs/reporting/basic-reporting/report-activity/export-a-report-to-excel.md)로 내보내기, [보고서를 스마트 목록](../../../../product-docs/reporting/basic-reporting/editing-reports/filter-people-in-a-report-with-a-smart-list.md) 및 [기타](http://docs.marketo.com/display/docs/basic+reporting)로 보고서의 사람을 필터링할 수 있습니다.
+   >[보고서 시간 프레임](../../../../product-docs/reporting/basic-reporting/editing-reports/change-a-report-time-frame.md), [기본 보고서 구독](../../../../product-docs/reporting/basic-reporting/report-subscriptions/subscribe-to-a-basic-report.md), [보고서를 Excel](../../../../product-docs/reporting/basic-reporting/report-activity/export-a-report-to-excel.md)로 내보내기, [보고서를 스마트 목록](../../../../product-docs/reporting/basic-reporting/editing-reports/filter-people-in-a-report-with-a-smart-list.md) 및 [기타](https://docs.marketo.com/display/docs/basic+reporting)로 보고서의 사람을 필터링할 수 있습니다.
 
