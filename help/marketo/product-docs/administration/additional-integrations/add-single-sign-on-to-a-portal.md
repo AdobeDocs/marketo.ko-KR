@@ -3,7 +3,7 @@ unique-page-id: 2360356
 description: 포털에 단일 사인온 추가 - Marketing To Docs - 제품 설명서
 title: 포털에 단일 사인온 추가
 translation-type: tm+mt
-source-git-commit: 78961a3e163ce903facf955a9dda6909b5e85bad
+source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
 workflow-type: tm+mt
 source-wordcount: '458'
 ht-degree: 0%
@@ -30,9 +30,9 @@ SSO가 활성화되면 IdP는 사용자의 자격 증명을 확인할 수 있습
 ## 요청 {#how-to-send-the-request}을 보내는 방법
 
 * SAML 응답인 SSO 요청을 `https://login.marketo.com/saml/assertion/<your-munchkin-id>`으로 전송합니다.
-* SP의 대상 URL입니다. [http://saml.marketo.com/sp](http://saml.marketo.com/sp) 사용
-* SPNameQualifier 특성을 사용 중인 경우 [http://saml.marketo.com/sp](http://saml.marketo.com/sp)에 대한 NameID 요소를 설정합니다.
-* 동일한 SSO 공급자에 대해 여러 Marketing To 구독을 페더레이션하는 경우, `http://saml.marketo.com/sp/<munchkin_id>` 형식의 각 Marketing 하위 항목에 대해 고유한 SP url을 사용할 수 있습니다.
+* SP의 대상 URL입니다. [https://saml.marketo.com/sp](https://saml.marketo.com/sp) 사용
+* SPNameQualifier 특성을 사용 중인 경우 [https://saml.marketo.com/sp](https://saml.marketo.com/sp)에 대한 NameID 요소를 설정합니다.
+* 동일한 SSO 공급자에 대해 여러 Marketing To 구독을 페더레이션하는 경우, `https://saml.marketo.com/sp/<munchkin_id>` 형식의 각 Marketing 하위 항목에 대해 고유한 SP url을 사용할 수 있습니다.
 
 >[!NOTE]
 >
