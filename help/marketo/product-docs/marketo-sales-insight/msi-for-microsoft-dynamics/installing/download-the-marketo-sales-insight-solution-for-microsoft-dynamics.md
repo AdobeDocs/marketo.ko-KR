@@ -3,7 +3,7 @@ unique-page-id: 6849070
 description: Microsoft Dynamics용 Marketing To Sales Insight 솔루션 - Marketing To Docs - 제품 설명서 다운로드
 title: Microsoft Dynamics용 Marketing To Sales Insight 솔루션 다운로드
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
 workflow-type: tm+mt
 source-wordcount: '92'
 ht-degree: 0%
