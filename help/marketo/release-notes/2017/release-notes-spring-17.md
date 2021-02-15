@@ -3,7 +3,7 @@ unique-page-id: 12977439
 description: 릴리스 노트 -17년 봄 - Marketing To Docs - 제품 설명서
 title: 릴리스 노트 -17년 봄
 translation-type: tm+mt
-source-git-commit: 96cc6a30c63c8e8dca793a52e4bf7ecaef8c08dc
+source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
 workflow-type: tm+mt
 source-wordcount: '707'
 ht-degree: 0%
@@ -45,11 +45,11 @@ Marketing Cloud에서 외부 시스템으로 대량의 개인 및 활동 데이�
 
 이제 Marketing ABM을 사용하여 지정된 계정에 최대 10개의 사용자 지정 필드를 만들 수 있습니다. 이러한 사용자 지정 필드를 CRM 계정 개체의 필드에 매핑할 수 있으며, Marketing ABM은 데이터를 동기화하여 ABM 명명 계정을 확장하고 마케팅을 촉진하는 데 도움이 됩니다.
 
-** [ABM 이름 지정 계정의 백분위수 점수](http://docs.marketo.com/display/docs/assets/abmpercentiles.png)**
+** [ABM 이름 지정 계정의 백분위수 점수](https://docs.marketo.com/display/docs/assets/abmpercentiles.png)**
 
 지정된 계정 점수는 매우 다를 수 있습니다. Marketing ABM은 이제 각 점수에 대한 백분위수를 자동으로 계산하므로, 각 네임드 계정이 다른 네임드 계정 중 순위를 매기는 위치를 한 눈에 볼 수 있습니다.
 
-** [ABM 계정 목록 API](http://developers.marketo.com/rest-api/lead-database/named-account-lists/)**
+** [ABM 계정 목록 API](https://developers.marketo.com/rest-api/lead-database/named-account-lists/)**
 
 지정된 계정 목록에 대한 향상된 API 지원을 통해 풍부하고 강력한 ABM 파트너 통합을 활용할 수 있습니다.
 
