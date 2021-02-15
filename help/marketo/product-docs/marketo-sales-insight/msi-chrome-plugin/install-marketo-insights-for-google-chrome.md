@@ -3,9 +3,9 @@ unique-page-id: 1147326
 description: Google Chrome용 Marketing To Insights - Marketing Docs - 제품 설명서 설치
 title: Google Chrome용 Marketing To Insights 설치
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 7952f5069ed641e2b5ca329c69f4e3f237e2c43e
 workflow-type: tm+mt
-source-wordcount: '160'
+source-wordcount: '154'
 ht-degree: 0%
 
 ---
@@ -23,7 +23,7 @@ ht-degree: 0%
 
    ![](assets/image2015-10-5-10-3a24-3a7.png)
 
-1. 크롬에서 Marketing 로고를 마우스 오른쪽 단추로 클릭하고 [옵션**]을 선택합니다**.
+1. 크롬에서 Marketing 로고를 마우스 오른쪽 단추로 클릭하고 **옵션**&#x200B;을 선택합니다.
 
    ![](assets/two.png)
 
@@ -37,13 +37,12 @@ ht-degree: 0%
 
    >[!NOTE]
    >
-   >reg 코드는 마케팅 관리자 [i](http://docs.marketo.com/pages/viewpage.action?pageid=7510848) [에서 마케팅 전자 메일 추가 기능 라이선스](../../../product-docs/marketo-sales-insight/msi-outlook-plugin/issue-a-marketo-email-add-in-license.md) [에 대한 요청을 받은 후 전송되는 전자 메일에 있습니다.](http://docs.marketo.com/pages/viewpage.action?pageid=7510848) **14일 후 만료됩니다.**
+   >reg 코드는 마케팅 관리자 [이(가) 마케팅 전자 메일 Add-in 라이선스](/help/marketo/product-docs/marketo-sales-insight/msi-outlook-plugin/issue-a-marketo-email-add-in-license.md) [을(를) 발행한 후에 전송되는 전자 메일에 있습니다.](https://docs.marketo.com/pages/viewpage.action?pageid=7510848) **14일** 후 만료됩니다.
 
-1. 오프라인 액세스를 허용하려면 **를 클릭합니다.
+1. 오프라인 액세스를 허용하려면 **허용**&#x200B;을 클릭합니다.
 
    ![](assets/image2015-10-5-10-3a34-3a1.png)
 
 >[!MORELIKETHIS]
 >
->[Google Chrome용 Marketing To Insights 사용](using-marketo-insights-for-google-chrome.md)
-
+>[Google Chrome용 Marketing To Insights 사용](/help/marketo/product-docs/marketo-sales-insight/msi-chrome-plugin/using-marketo-insights-for-google-chrome.md)
