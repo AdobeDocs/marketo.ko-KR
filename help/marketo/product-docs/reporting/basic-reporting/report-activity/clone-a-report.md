@@ -3,7 +3,7 @@ unique-page-id: 2360028
 description: 보고서 복제 - 마케팅 문서 - 제품 설명서
 title: 보고서 복제
 translation-type: tm+mt
-source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
+source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
 workflow-type: tm+mt
 source-wordcount: '93'
 ht-degree: 0%
@@ -41,5 +41,5 @@ ht-degree: 0%
    >    * [스마트 목록을 사용하여 보고서에서 인물 필터링](../../../../product-docs/reporting/basic-reporting/editing-reports/filter-people-in-a-report-with-a-smart-list.md)
 
 
-   보고서를 사용자 정의하는 데 더 많은 작업을 수행합니다. [기본 보고](http://docs.marketo.com/display/docs/basic+reporting)를 참조하십시오.
+   보고서를 사용자 정의하는 데 더 많은 작업을 수행합니다. [기본 보고](https://docs.marketo.com/display/docs/basic+reporting)를 참조하십시오.
 
