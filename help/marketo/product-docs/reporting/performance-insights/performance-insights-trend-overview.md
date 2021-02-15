@@ -3,7 +3,7 @@ unique-page-id: 12979010
 description: 성과 통찰력 트렌드 개요 - 마케팅 문서 - 제품 설명서
 title: 성과 통찰력 트렌드 개요
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
 workflow-type: tm+mt
 source-wordcount: '171'
 ht-degree: 0%
@@ -23,7 +23,7 @@ ht-degree: 0%
 
 ![](assets/2-1.png)
 
-성과를 보려는 지표를 선택합니다. 이 예에서는 [첫 번째 접촉](http://docs.marketo.com/display/DOCS/Understanding+Attribution)을 통해 획득한 기회를 살펴보겠습니다.
+성과를 보려는 지표를 선택합니다. 이 예에서는 [첫 번째 접촉](https://docs.marketo.com/display/DOCS/Understanding+Attribution)을 통해 획득한 기회를 살펴보겠습니다.
 
 ![](assets/3-2.png)
 
