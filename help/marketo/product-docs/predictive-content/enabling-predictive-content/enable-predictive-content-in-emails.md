@@ -3,7 +3,7 @@ unique-page-id: 11385020
 description: 이메일에서 예측 컨텐츠 사용 - 마케팅 문서 - 제품 설명서
 title: 이메일에서 예측 컨텐츠 사용
 translation-type: tm+mt
-source-git-commit: 3c24395e55c756184615941327e15e050fa7d0ac
+source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
 workflow-type: tm+mt
 source-wordcount: '367'
 ht-degree: 0%
@@ -90,7 +90,7 @@ ht-degree: 0%
 **예**
 
 ```example
-<div class="mktoImg" id="exampleImg" mktoName="Example Image" mktoImgLink="http://www.marketo.com">  
+<div class="mktoImg" id="exampleImg" mktoName="Example Image" mktoImgLink="https://www.marketo.com">  
 <a><img style="border:10px solid red;"></a>  
 </div>
 ```
