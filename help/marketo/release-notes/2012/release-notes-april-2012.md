@@ -3,7 +3,7 @@ unique-page-id: 2951119
 description: 릴리스 노트 - 2012년 4월 - Marketing Docs - 제품 설명서
 title: 릴리스 노트 - 2012년 4월
 translation-type: tm+mt
-source-git-commit: 48330e8f6f1ad8883d74d80e6f64faba4fdfa52e
+source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
 workflow-type: tm+mt
 source-wordcount: '393'
 ht-degree: 0%
@@ -19,7 +19,7 @@ ht-degree: 0%
 >
 >**자세히 알아보기**
 >
->다른 릴리스의 경우 [릴리스 노트](http://docs.marketo.com/display/docs/release+notes) 깊이 검색을 참조하십시오.
+>다른 릴리스의 경우 [릴리스 노트](https://docs.marketo.com/display/docs/release+notes) 깊이 검색을 참조하십시오.
 
 동일한 리드 그룹을 일관되게 타게팅합니까? 그럴 경우, 리드를 타깃팅하기 위해 스마트 목록에 세그먼테이션을 사용합니다. 세분화를 통해 전체 리드 데이터베이스를 항상 세그먼트화하여 일관성 유지를 위해 프로그램 전체에 다시 사용할 수 있습니다. 요청 시 스마트 목록을 실행할 필요가 없으므로 세그멘테이션 결과가 빠르게 가져옵니다.
 
