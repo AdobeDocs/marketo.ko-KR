@@ -3,7 +3,7 @@ unique-page-id: 42762322
 description: Salesforce의 Marketing To Sales Insight 구성 탭 - Marketing To Docs - 제품 설명서
 title: Salesforce의 Marketing To Sales Insight 구성 탭
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
 workflow-type: tm+mt
 source-wordcount: '398'
 ht-degree: 0%
@@ -58,4 +58,3 @@ SFDC에서 Sales Insight를 사용하려면 이 설정을 해야 합니다.
 이렇게 하면 SFDC의 모든 구성이 지워지며 복원할 수 없습니다. 모든 것을 다시 구성해야 합니다.
 
 ![](assets/three.png)
-
