@@ -3,7 +3,7 @@ unique-page-id: 2359500
 description: 세그멘테이션 주문 우선 순위 - 마케팅 문서 - 제품 설명서
 title: 세그멘테이션 주문 우선 순위
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
 workflow-type: tm+mt
 source-wordcount: '156'
 ht-degree: 0%
@@ -49,5 +49,5 @@ ht-degree: 0%
 
 
 
-멋지지? 동적 컨텐츠, [보고](http://docs.marketo.com/display/docs/basic+reporting) 및 [스마트 목록](http://docs.marketo.com/display/docs/smart+lists+and+static+lists)에서도 세그먼트를 사용할 수 있습니다.
+멋지지? 동적 컨텐츠, [보고](https://docs.marketo.com/display/docs/basic+reporting) 및 [스마트 목록](https://docs.marketo.com/display/docs/smart+lists+and+static+lists)에서도 세그먼트를 사용할 수 있습니다.
 
