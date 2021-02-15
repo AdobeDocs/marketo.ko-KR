@@ -3,7 +3,7 @@ unique-page-id: 2360030
 description: 보고서 삭제 - 마케팅 문서 - 제품 설명서
 title: 보고서 삭제
 translation-type: tm+mt
-source-git-commit: 00887ea53e395bea3a11fd28e0ac98b085ef6ed8
+source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
 workflow-type: tm+mt
 source-wordcount: '92'
 ht-degree: 0%
@@ -30,5 +30,5 @@ ht-degree: 0%
    >**자세히 알아보기**
    >
    >
-   >[기본 보고](http://docs.marketo.com/display/docs/basic+reporting) 딥 다이빙에서 보고서에 사용할 수 있는 다른 모든 작업을 봅니다.
+   >[기본 보고](https://docs.marketo.com/display/docs/basic+reporting) 딥 다이빙에서 보고서에 사용할 수 있는 다른 모든 작업을 봅니다.
 
