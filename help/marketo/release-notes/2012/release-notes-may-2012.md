@@ -3,7 +3,7 @@ unique-page-id: 2951117
 description: 릴리스 노트 - 2012년 5월 - Marketing Docs - 제품 설명서
 title: 릴리스 노트 - 2012년 5월
 translation-type: tm+mt
-source-git-commit: 48330e8f6f1ad8883d74d80e6f64faba4fdfa52e
+source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
 workflow-type: tm+mt
 source-wordcount: '658'
 ht-degree: 0%
@@ -17,7 +17,7 @@ ht-degree: 0%
 >
 >**자세히 알아보기**
 >
->다른 릴리스의 경우 [릴리스 노트](http://docs.marketo.com/display/docs/release+notes) 깊이 검색을 참조하십시오.
+>다른 릴리스의 경우 [릴리스 노트](https://docs.marketo.com/display/docs/release+notes) 깊이 검색을 참조하십시오.
 
 ## 이메일 성과 보고서 디자인 {#email-performance-report-redesign}
 
