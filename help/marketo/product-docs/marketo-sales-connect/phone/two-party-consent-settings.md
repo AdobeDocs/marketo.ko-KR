@@ -3,9 +3,9 @@ unique-page-id: 45416566
 description: 2자 동의 설정 - 마케팅 문서 - 제품 설명서
 title: 2자 동의 설정
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
 workflow-type: tm+mt
-source-wordcount: '158'
+source-wordcount: '153'
 ht-degree: 0%
 
 ---
@@ -17,7 +17,7 @@ ht-degree: 0%
 
 >[!PREREQUISITES]
 >
->아래 단계를 진행하기 전에 먼저 [호출 기록 활성화를 수행해야 합니다.](http://docs.marketo.com/x/dAC1Ag)
+>아래 단계를 진행하기 전에 먼저 [호출 기록 사용](/help/marketo/product-docs/marketo-sales-connect/phone/enable-call-recording.md)해야 합니다.
 
 1. 설정 아이콘을 클릭하고 **설정**&#x200B;을 선택합니다.
 
@@ -50,4 +50,3 @@ ht-degree: 0%
 1. 토글을 클릭하여 선택한 메시지가 기록된 호출 시작 시 재생되도록 합니다.
 
    ![](assets/seven.png)
-
