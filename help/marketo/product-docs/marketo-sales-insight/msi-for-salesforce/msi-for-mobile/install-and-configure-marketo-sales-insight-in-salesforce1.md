@@ -3,7 +3,7 @@ unique-page-id: 7511512
 description: Salesforce1에서 Marketing To Sales Insight 설치 및 구성 - Marketing To Docs - 제품 설명서
 title: Salesforce1에서 Marketing To Sales Insight 설치 및 구성
 translation-type: tm+mt
-source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
+source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
 workflow-type: tm+mt
 source-wordcount: '377'
 ht-degree: 0%
@@ -17,7 +17,7 @@ ht-degree: 0%
 >
 >**미리 알림**
 >
->기존 고객은 계속하기 전에 [MSI 패키지](http://docs.marketo.com/x/_gU6Ag)를 업그레이드하십시오!
+>기존 고객은 계속하기 전에 [MSI 패키지](https://docs.marketo.com/x/_gU6Ag)를 업그레이드하십시오!
 
 >[!PREREQUISITES]
 >
