@@ -2,7 +2,7 @@
 title: my token-link
 description: 내 토큰 링크
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
 workflow-type: tm+mt
 source-wordcount: '187'
 ht-degree: 0%
@@ -37,7 +37,7 @@ ht-degree: 0%
 
    >[!NOTE]
    >
-   >mkt_tok 포함을 선택하면 Marketing에 브랜드 추적 도메인의 링크 미리 보기(예: http://mkto-sjqe3355.com/mn/...)가 표시됩니다. 이 확인란을 선택 취소하면 링크가 변경됩니다. 이메일 또는 랜딩 페이지에 대한 링크 추적을 끄면 >URL이 기본 길이(예: www.examplepage.com)으로 단축됩니다.
+   >mkt_tok 포함을 선택하면 Marketing에 브랜드 추적 도메인의 링크 미리 보기(예: https://mkto-sjqe3355.com/mn/...)가 표시됩니다. 이 확인란을 선택 취소하면 링크가 변경됩니다. 이메일 또는 랜딩 페이지에 대한 링크 추적을 끄면 >URL이 기본 길이(예: www.examplepage.com)으로 단축됩니다.
 
 1. 원할 경우, [!UICONTROL Advanced] 아래에서 CSS를 사용하여 링크를 사용자 지정할 수 있습니다. **[!UICONTROL Save]**&#x200B;을 클릭합니다.
 
