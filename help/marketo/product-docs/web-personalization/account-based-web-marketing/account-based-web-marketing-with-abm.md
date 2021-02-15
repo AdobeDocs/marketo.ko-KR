@@ -3,7 +3,7 @@ unique-page-id: 11381689
 description: ABM을 사용한 계정 기반 웹 마케팅 - 마케팅 문서 - 제품 설명서
 title: ABM을 사용한 계정 기반 웹 마케팅
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
 workflow-type: tm+mt
 source-wordcount: '212'
 ht-degree: 0%
@@ -13,7 +13,7 @@ ht-degree: 0%
 
 # 계정 기반 웹 마케팅(ABM {#account-based-web-marketing-with-abm} 포함)
 
-Marketing에서 새 [계정 기반 마케팅](http://docs.marketo.com/display/docs/account+based+marketing)(ABM) 응용 프로그램을 도입했습니다.
+Marketing에서 새 [계정 기반 마케팅](https://docs.marketo.com/display/docs/account+based+marketing)(ABM) 응용 프로그램을 도입했습니다.
 
 Marketing to Web Personalization 및 새로운 ABM(계정 기반 마케팅)을 사용하는 경우:
 
