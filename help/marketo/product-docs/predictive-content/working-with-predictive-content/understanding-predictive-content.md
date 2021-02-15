@@ -3,7 +3,7 @@ unique-page-id: 11384665
 description: 예측 컨텐츠 이해 - 마케팅 문서 - 제품 설명서
 title: 예측 컨텐츠 이해
 translation-type: tm+mt
-source-git-commit: 40f08784ee6f7ac105ed027963c0d5a7ea812808
+source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
 workflow-type: tm+mt
 source-wordcount: '378'
 ht-degree: 0%
@@ -58,7 +58,7 @@ ht-degree: 0%
 
 ## 예측 컨텐츠 {#view-table-data-for-predictive-content}에 대한 테이블 데이터 보기
 
-표에서 예측 컨텐츠에 대해 활성화되는 소스를 왼쪽에서 오른쪽으로 볼 수 있습니다.권장 사항 표시줄, 이메일 및 리치 미디어를 참조하십시오. 활성화된 소스가 녹색으로 표시됩니다. [컨텐트](http://docs.marketo.com/display/docs/edit+predictive+content)를 편집할 때 이를 활성화합니다.
+표에서 예측 컨텐츠에 대해 활성화되는 소스를 왼쪽에서 오른쪽으로 볼 수 있습니다.권장 사항 표시줄, 이메일 및 리치 미디어를 참조하십시오. 활성화된 소스가 녹색으로 표시됩니다. [컨텐트](https://docs.marketo.com/display/docs/edit+predictive+content)를 편집할 때 이를 활성화합니다.
 
 ![](assets/image2017-10-3-9-3a26-3a25.png)
 
@@ -78,6 +78,6 @@ ht-degree: 0%
 
 >[!MORELIKETHIS]
 >
->* [예측 컨텐츠](http://docs.marketo.com/display/docs/predictive+content)
->* [예측 컨텐츠 편집](http://docs.marketo.com/display/docs/edit+predictive+content)
+>* [예측 컨텐츠](https://docs.marketo.com/display/docs/predictive+content)
+>* [예측 컨텐츠 편집](https://docs.marketo.com/display/docs/edit+predictive+content)
 
