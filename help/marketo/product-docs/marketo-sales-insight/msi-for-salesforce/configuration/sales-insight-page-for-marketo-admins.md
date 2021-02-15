@@ -3,9 +3,9 @@ unique-page-id: 42762409
 description: 마케팅 관리자를 위한 영업 인사이트 페이지 - 마케팅 문서 - 제품 설명서
 title: 마케팅 관리자를 위한 영업 인사이트 페이지
 translation-type: tm+mt
-source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
+source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
 workflow-type: tm+mt
-source-wordcount: '319'
+source-wordcount: '310'
 ht-degree: 0%
 
 ---
@@ -33,9 +33,8 @@ SFDC에서 Rest API 자격 증명을 제거하고 Soap API만 사용하도록 �
 
 ## 사람 점수 설정 {#person-score-settings}
 
-| **별:** | 스타는 다른 리드에 비해 총 리드 점수를 나타냅니다. |
-|---|---|
-| **불꽃:** | 불길은 급박함을 나타냅니다 - 최근 어느 정도의 점수가 바뀌었습니까. |
+* **별**:스타는 다른 리드에 비해 총 리드 점수를 나타냅니다.
+* **불꽃**:불길은 급박함을 나타냅니다 - 최근 어느 정도의 점수가 바뀌었습니까.
 
 기본적으로 Marketing To Sales Insight는 리드 점수 필드를 사용하여 별과 화염을 계산합니다. 그러나 다른 필드를 선택하려면 다음 방법을 사용합니다.
 
@@ -61,13 +60,11 @@ SFDC에서 Rest API 자격 증명을 제거하고 Soap API만 사용하도록 �
 
    >[!TIP]
    >
-   >사용자 지정 점수 필드가 아직 없는 경우 [만들어](http://docs.marketo.com/x/3wMk)는 다음과 같습니다.
+   >사용자 지정 점수 필드가 아직 없는 경우 [만들어](/help/marketo/product-docs/administration/field-management/create-a-custom-field-in-marketo.md)는 다음과 같습니다.
 
    >[!MORELIKETHIS]
    >
-   >
-   >
-   >[별과 불꽃](http://docs.marketo.com/x/qgU6Ag)
+   >[별과 불꽃](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/features/stars-and-flames/customize-stars-and-flames.md)
 
 ## 설정 {#settings}
 
@@ -88,4 +85,4 @@ SFDC에서 Rest API 자격 증명을 제거하고 Soap API만 사용하도록 �
 
 **RSS 피드 사용:**
 
-활성화되면 MSI 사용자는 자신의 리드 피드를 RSS 피드(Salesforce의 리드 피드에 추가)**.**
+활성화되면 MSI 사용자는 RSS 피드에서 리드 피드를 볼 수 있습니다(Salesforce의 리드 피드 추가).
