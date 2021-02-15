@@ -3,7 +3,7 @@ unique-page-id: 4720257
 description: Facebook 사용자 지정 대상을 LaunchPoint 서비스로 추가 - Marketing To Docs - 제품 설명서
 title: Facebook 사용자 지정 대상을 LaunchPoint 서비스로 추가
 translation-type: tm+mt
-source-git-commit: ed83438ae5660d172e845f25c4d72d599574bd91
+source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
 workflow-type: tm+mt
 source-wordcount: '324'
 ht-degree: 0%
@@ -31,7 +31,7 @@ ht-degree: 0%
 
    ![](assets/image2016-11-29-12-3a51-3a8.png)
 
-1. 동일한 브라우저에서 새 탭을 열고 [facebook.com](http://www.facebook.com/)으로 이동합니다. 통합에 사용할 계정을 사용하여 Facebook에 로그인합니다.
+1. 동일한 브라우저에서 새 탭을 열고 [facebook.com](https://www.facebook.com/)으로 이동합니다. 통합에 사용할 계정을 사용하여 Facebook에 로그인합니다.
 
    >[!CAUTION]
    >
