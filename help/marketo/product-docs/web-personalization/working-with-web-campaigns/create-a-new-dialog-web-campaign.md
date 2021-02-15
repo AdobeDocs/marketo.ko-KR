@@ -3,7 +3,7 @@ unique-page-id: 4719398
 description: 새 대화 상자 웹 캠페인 만들기 - 마케팅 문서 - 제품 설명서
 title: 새 대화 상자 웹 캠페인 만들기
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
 workflow-type: tm+mt
 source-wordcount: '760'
 ht-degree: 0%
@@ -41,7 +41,7 @@ ht-degree: 0%
  <tbody> 
   <tr> 
    <td colspan="1"><strong>표시 위치</strong></td> 
-   <td colspan="1">웹 캠페인이 표시되는 시기와 방법을 <a href="http://docs.marketo.com/display/DOCS/Set+How+Your+Web+Campaign+Displays" rel="nofollow">사용자 정의할 수 있습니다.</a></td> 
+   <td colspan="1">웹 캠페인이 표시되는 시기와 방법을 <a href="https://docs.marketo.com/display/DOCS/Set+How+Your+Web+Campaign+Displays" rel="nofollow">사용자 정의할 수 있습니다.</a></td> 
   </tr> 
   <tr> 
    <td colspan="1" rowspan="1"><strong>대화 상자 스타일</strong></td> 
