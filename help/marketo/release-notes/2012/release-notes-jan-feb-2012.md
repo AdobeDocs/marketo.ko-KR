@@ -3,7 +3,7 @@ unique-page-id: 2951124
 description: 릴리스 노트 - 2012년 1월/2월 - Marketing Docs - 제품 설명서
 title: 릴리스 노트 - 2012년 1월/2월
 translation-type: tm+mt
-source-git-commit: 96cc6a30c63c8e8dca793a52e4bf7ecaef8c08dc
+source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
 workflow-type: tm+mt
 source-wordcount: '449'
 ht-degree: 0%
@@ -19,7 +19,7 @@ ht-degree: 0%
 >
 >**자세히 알아보기**
 >
->다른 릴리스의 경우 [릴리스 노트](http://docs.marketo.com/display/docs/release+notes) 깊이 검색을 참조하십시오.
+>다른 릴리스의 경우 [릴리스 노트](https://docs.marketo.com/display/docs/release+notes) 깊이 검색을 참조하십시오.
 
 ## 고급 동적 내용 {#advanced-dynamic-content}
 
