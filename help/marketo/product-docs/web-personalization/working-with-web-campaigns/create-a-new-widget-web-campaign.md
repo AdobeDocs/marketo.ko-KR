@@ -3,7 +3,7 @@ unique-page-id: 4719402
 description: 새 위젯 웹 캠페인 만들기 - 마케팅 문서 - 제품 설명서
 title: 새 위젯 웹 캠페인 만들기
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
 workflow-type: tm+mt
 source-wordcount: '642'
 ht-degree: 0%
@@ -51,7 +51,7 @@ ht-degree: 0%
   </tr> 
   <tr> 
    <td colspan="1"><strong>표시 위치</strong></td> 
-   <td colspan="1">웹 캠페인이 표시되는 시기와 방법을 <a href="http://docs.marketo.com/display/DOCS/Set+How+Your+Web+Campaign+Displays" rel="nofollow">사용자 정의할 수 있습니다.</a></td> 
+   <td colspan="1">웹 캠페인이 표시되는 시기와 방법을 <a href="https://docs.marketo.com/display/DOCS/Set+How+Your+Web+Campaign+Displays" rel="nofollow">사용자 정의할 수 있습니다.</a></td> 
   </tr> 
   <tr> 
    <td colspan="1"><strong>애니메이션 시작/종료</strong></td> 
@@ -95,7 +95,7 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->**A/B에서 웹 캠페인을 테스트하시겠습니까?** 하나 이상의 웹 캠페인을  [A/B로 테스트하여 최적의 결과를 얻을 수 있습니다](ab-test-your-web-campaign.md). 자동 조정 기능을 사용하면 플랫폼은 자동으로 성과가 더 좋은 캠페인을 인식하며 전환율이 가장 높은 캠페인을 계속하며 다른 캠페인을 일시 중지합니다.
+>**A/B에서 웹 캠페인을 테스트하시겠습니까?** 하나 이상의 웹 캠페인을  [A/B로 테스트하여 최적의 결과를 얻을 수 있습니다](ab-test-your-web-campaign.md). 자동 조정 기능을 사용하면 플랫폼은 자동으로 더 나은 성과를 내는 캠페인을 인식하며 전환율이 가장 높은 캠페인을 계속하며 다른 캠페인을 일시 중지합니다.
 
 ## 웹 캠페인 편집 {#edit-a-web-campaign}
 
