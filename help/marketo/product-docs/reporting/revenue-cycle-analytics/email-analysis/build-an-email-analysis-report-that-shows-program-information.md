@@ -3,7 +3,7 @@ unique-page-id: 2360409
 description: 프로그램 정보 - 마케팅 문서 - 제품 설명서를 보여주는 이메일 분석 보고서 작성
 title: 프로그램 정보를 표시하는 이메일 분석 보고서 만들기
 translation-type: tm+mt
-source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
+source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
 workflow-type: tm+mt
 source-wordcount: '162'
 ht-degree: 0%
@@ -65,5 +65,5 @@ ht-degree: 0%
    >**자세히 알아보기**
    >
    >
-   >[매출 주기 탐색기](http://docs.marketo.com/display/docs/revenue+cycle+analytics)에 대해 자세히 알고 싶으십니까?
+   >[매출 주기 탐색기](https://docs.marketo.com/display/docs/revenue+cycle+analytics)에 대해 자세히 알고 싶으십니까?
 
