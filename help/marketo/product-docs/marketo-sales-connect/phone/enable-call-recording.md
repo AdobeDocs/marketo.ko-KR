@@ -3,9 +3,9 @@ unique-page-id: 45416564
 description: 통화 기록 활성화 - 마케팅 문서 - 제품 설명서
 title: 통화 기록 사용
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
 workflow-type: tm+mt
-source-wordcount: '115'
+source-wordcount: '110'
 ht-degree: 0%
 
 ---
@@ -27,11 +27,10 @@ ht-degree: 0%
 
    ![](assets/three.png)
 
-1. 판매자에게 직접 전화 레코딩을 활성화하거나 비활성화할 수 있는 기능을 제공하려면 모든 팀 구성원에 대해 [옵션 레코딩]을 클릭합니다**. **모든 호출을 자동으로 기록하려면 모든** 호출 기록을 클릭합니다.**
+1. 판매자에게 직접 전화 레코딩을 활성화하거나 비활성화할 수 있는 기능을 제공하려면 모든 팀 구성원&#x200B;**에 대한**&#x200B;선택적 레코딩을 클릭합니다. 모든 호출을 자동으로 기록하려면 **모든 호출 기록**&#x200B;을 클릭합니다.
 
    ![](assets/four.png)
 
 >[!MORELIKETHIS]
 >
->[2자 동의 설정](http://docs.marketo.com/x/dgC1Ag)
-
+>[2자 동의 설정](/help/marketo/product-docs/marketo-sales-connect/phone/two-party-consent-settings.md)
