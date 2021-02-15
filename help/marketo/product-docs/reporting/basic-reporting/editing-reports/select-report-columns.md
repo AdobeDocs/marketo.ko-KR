@@ -3,7 +3,7 @@ unique-page-id: 2359994
 description: 보고서 열 선택 - 마케팅 문서 - 제품 설명서
 title: 보고서 열 선택
 translation-type: tm+mt
-source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
+source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
 workflow-type: tm+mt
 source-wordcount: '73'
 ht-degree: 0%
@@ -35,5 +35,5 @@ ht-degree: 0%
    >    * [열 기준 보고서 정렬](sort-report-on-columns.md)
 
 
-   보고서를 사용하여 더 많은 작업 수행! [기본 보고](http://docs.marketo.com/display/docs/basic+reporting)를 참조하십시오.
+   보고서를 사용하여 더 많은 작업 수행! [기본 보고](https://docs.marketo.com/display/docs/basic+reporting)를 참조하십시오.
 
