@@ -3,7 +3,7 @@ unique-page-id: 11371040
 description: 이메일 템플릿 구문 - 마케팅 문서 - 제품 설명서
 title: 이메일 템플릿 구문
 translation-type: tm+mt
-source-git-commit: 0f0217a88929661798015b51a26259a973f9f6ea
+source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
 workflow-type: tm+mt
 source-wordcount: '2395'
 ht-degree: 0%
@@ -106,7 +106,7 @@ class=&quot;mktoText&quot;가 포함된 HTML 요소 내의 컨텐츠는 리치 �
 
 예:
 
-`<pre data-theme="Confluence"><div class="mktoImg" id="exampleImg" mktoName="Example Image" mktoImgLink="http://www.marketo.com"> <a><img style="border:10px solid red;"></a> </div></pre>`
+`<pre data-theme="Confluence"><div class="mktoImg" id="exampleImg" mktoName="Example Image" mktoImgLink="https://www.marketo.com"> <a><img style="border:10px solid red;"></a> </div></pre>`
 
 ### 옵션 2 - \&lt;img\> {#option-use-an-img} 사용
 
@@ -322,7 +322,7 @@ class=&quot;mktoText&quot;가 포함된 HTML 요소 내의 컨텐츠는 리치 �
 
 선언 예:
 
-`<pre data-theme="Confluence"><meta class="mktoImg" id="heroBackgroundImage" mktoName="Hero Background Image" default="http://www.company.com/image.jpg"></pre>`
+`<pre data-theme="Confluence"><meta class="mktoImg" id="heroBackgroundImage" mktoName="Hero Background Image" default="https://www.company.com/image.jpg"></pre>`
 
 사용 예:
 
@@ -356,7 +356,7 @@ class=&quot;mktoModule&quot;의 `<table>`을(를) 사용하여 지정됨
 
 ## 컨테이너 {#containers}
 
-컨테이너는 모듈을 보유하고 배치할 위치를 정의합니다. 최종 사용자가 모듈을 이메일에 다시 정렬하고 삽입하는 경우 컨테이너는 사용자가 이동할 위치를 제어합니다.
+컨테이너는 모듈을 보유하고 배치할 위치를 정의합니다. 최종 사용자가 모듈의 순서를 다시 지정하고 전자 메일에 모듈을 삽입하면 컨테이너가 모듈을 이동할 위치를 제어합니다.
 
 **class=&quot;mktoContainer&quot; `<table>`,  `<tbody>` `<thead>`또는  `<tfoot>`  `<td>` with를 사용하여 지정합니다.**
 
