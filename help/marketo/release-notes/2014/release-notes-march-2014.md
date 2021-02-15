@@ -3,7 +3,7 @@ unique-page-id: 2951046
 description: 릴리스 노트 - 2014년 3월 - Marketing Docs - 제품 설명서
 title: 릴리스 노트 - 2014년 3월
 translation-type: tm+mt
-source-git-commit: 3c24395e55c756184615941327e15e050fa7d0ac
+source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
 workflow-type: tm+mt
 source-wordcount: '402'
 ht-degree: 0%
@@ -35,7 +35,7 @@ ht-degree: 0%
 
 ## 분석 {#inclusive-and-operational-programs-for-analytics} 포함 및 운영 프로그램
 
-프로그램 채널을 편집할 때 분석 동작 옵션을 &quot;포함&quot;으로 설정하여 이제 매출 탐색기 및 분석기에 기간 비용[이 없는 프로그램을 포함할 수 있습니다. ](/help/marketo/product-docs/reporting/revenue-cycle-analytics/program-analytics/make-a-program-without-a-period-cost-available-in-revenue-explorer-and-analyzers.md) &quot;운영&quot;을 선택하여 운영 프로그램을 모두 보고에서 제외할 수도 있습니다.
+프로그램 채널을 편집할 때 분석 동작 옵션을 &quot;포함&quot;으로 설정하여 이제 매출 탐색기 및 분석기에 기간 비용](/help/marketo/product-docs/reporting/revenue-cycle-analytics/program-analytics/make-a-program-without-a-period-cost-available-in-revenue-explorer-and-analyzers.md)이 없는 프로그램을 포함할 수 있습니다. [ &quot;운영&quot;을 선택하여 운영 프로그램을 모두 보고에서 제외할 수도 있습니다.
 
 ![](assets/image2014-9-22-11-3a36-3a32.png)
 
@@ -57,6 +57,6 @@ Marketing To가 리드 분석에서 리드 전환 지표에 대한 연락처와 
 
 ## Marketing To 개발자 블로그 {#marketo-developer-blog}
 
-[Marketing Developer 블로그](http://developers.marketo.com/blog/)는 급변하는 최신 마케터의 요구 사항을 지원하는 웹 개발자와 소프트웨어 엔지니어를 위해 특별히 고안된 블로그입니다. 새로운 통합 옵션, API 버전 업데이트 및 Marketing To 플랫폼과의 통합에 대한 코드 샘플 및 우수 사례를 포함하는 새로운 방법 아티클 시리즈를 통해 발표된 내용을 구독할 수 있습니다.
+[Marketing Developer 블로그](https://developers.marketo.com/blog/)는 급변하는 최신 마케터의 요구 사항을 지원하는 웹 개발자와 소프트웨어 엔지니어를 위해 특별히 고안된 블로그입니다. 새로운 통합 옵션, API 버전 업데이트 및 Marketing To 플랫폼과의 통합에 대한 코드 샘플 및 우수 사례를 포함하는 새로운 방법 아티클 시리즈를 통해 발표된 내용을 구독할 수 있습니다.
 
-이 시리즈의 [첫 번째 아티클](http://developers.marketo.com/blog/retrieving-customer-and-prospect-information-from-marketo-using-the-api/)에서는 API를 사용하여 Marketing Cloud 내에 저장된 사람(고객/연락처/리드)에 대한 정보를 효율적으로 검색하는 방법을 안내합니다.
+이 시리즈의 [첫 번째 아티클](https://developers.marketo.com/blog/retrieving-customer-and-prospect-information-from-marketo-using-the-api/)에서는 API를 사용하여 Marketing Cloud 내에 저장된 사람(고객/연락처/리드)에 대한 정보를 효율적으로 검색하는 방법을 안내합니다.
