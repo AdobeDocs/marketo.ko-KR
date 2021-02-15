@@ -3,7 +3,7 @@ unique-page-id: 2360184
 description: 캠페인 활동 보고서 필터링 - 마케팅 문서 - 제품 설명서
 title: 캠페인 활동 보고서 필터링
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
 workflow-type: tm+mt
 source-wordcount: '121'
 ht-degree: 0%
@@ -13,7 +13,7 @@ ht-degree: 0%
 
 # 캠페인 활동 보고서 필터링 {#filter-a-campaign-activity-report}
 
-[캠페인 활동 보고서](../../../../product-docs/reporting/basic-reporting/report-types/campaign-activity-report.md)를 특정 [스마트 캠페인](http://docs.marketo.com/display/docs/smart+campaigns)에 집중하십시오.
+[캠페인 활동 보고서](../../../../product-docs/reporting/basic-reporting/report-types/campaign-activity-report.md)를 특정 [스마트 캠페인](https://docs.marketo.com/display/docs/smart+campaigns)에 집중하십시오.
 
 1. **마케팅 활동**(또는 **Analytics**)으로 이동하여 캠페인 활동 보고서를 선택합니다.
 
@@ -47,5 +47,5 @@ ht-degree: 0%
 >
 >**자세히 알아보기**
 >
->[기본 보고](http://docs.marketo.com/display/docs/basic+reporting)의 보고서에 대해 모두 알아봅니다.
+>[기본 보고](https://docs.marketo.com/display/docs/basic+reporting)의 보고서에 대해 모두 알아봅니다.
 
