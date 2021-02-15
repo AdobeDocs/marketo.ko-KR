@@ -3,7 +3,7 @@ unique-page-id: 12980733
 description: Marketing To 용어 - Marketing Docs - 제품 설명서
 title: Marketing 용어
 translation-type: tm+mt
-source-git-commit: 29eb4c833c128c37849260f0c554144c237ab28e
+source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
 workflow-type: tm+mt
 source-wordcount: '4225'
 ht-degree: 0%
@@ -33,7 +33,7 @@ ht-degree: 0%
   </tr> 
   <tr> 
    <td colspan="1"><strong>계정</strong></td> 
-   <td colspan="1">이 용어는 서로 다른 의미를 가질 수 있습니다.<br>-마케팅 인스턴스 자체를 Marketing 계정 또는<br>- <strong>ABM</strong>에서  <strong>네임드 계정</strong> 은 사용자가 추적하고자 하는 타겟 계정이라고 결정한 계정입니다.<br>-ABM에서 CRM 계정은 연결된  <strong>CRM</strong> ( <strong>Salesforce</strong> 계정,  <strong>MS </strong> Dynamic  <strong> </strong>API)에서 매핑되는 계정입니다.<br>"CRM에서 계정은 리드 및 연락처가 연관된 비즈니스/회사입니다.</td> 
+   <td colspan="1">이 용어는 서로 다른 의미를 가질 수 있습니다.<br>-마케팅 인스턴스 자체를 Marketing 계정 또는<br>- <strong>ABM에서</strong>,  <strong>네임드 계정</strong> 은 사용자가 추적하고자 하는 대상 계정이라고 결정한 계정입니다.<br>-ABM에서 CRM 계정은 연결된  <strong>CRM</strong> ( <strong>Salesforce</strong> 계정,  <strong>MS </strong> Dynamic  <strong> </strong>API)에서 매핑되는 계정입니다.<br>"CRM에서 계정은 리드 및 연락처가 연관된 비즈니스/회사입니다.</td> 
   </tr> 
   <tr> 
    <td colspan="1"><strong><a href="/help/marketo/product-docs/account-based-marketing/setup-abm/account-based-marketing-overview.md" rel="nofollow">계정 기반 마케팅</a> (ABM)</strong></td> 
@@ -456,7 +456,7 @@ ht-degree: 0%
  <tbody> 
   <tr> 
    <td><a href="/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/features/tabs-in-the-msi-panel/interesting-moments/using-interesting-moments.md" rel="nofollow"><strong>알려진 사람</strong></a></td> 
-   <td><p>Marketing <strong>데이터베이스</strong>의 모든 개인 데이터는 알려진 개인 데이터로 간주됩니다. 다음과 같은 다양한 방법으로 데이터베이스를 입력할 수 있습니다.CRM 동기화, 양식 작성, 가져오기/수동 입력 목록 작성, 프로그래머틱(REST API/파트너 통합) 등 웹 방문자는 처음에는 <strong>쿠키</strong>(및 익명)이 Marketing의 <strong>Munchkin</strong> 웹 추적을 통해 발생한 후, 식별 가능한 작업이 발생할 때(예: Marketing to 이메일의 추적된 링크를 클릭하거나, 이메일 주소로 양식을 채우거나, Marketing을 통해 리드 API를 수동으로 매핑합니다. <a href="https://developers.marketo.com/javascript-api/lead-tracking/api-reference/#munchkin_associatelead">Munchkin</a> 및 <a href="http://developers.marketo.com/rest-api/endpoint-reference/lead-database-endpoint-reference/#!/Leads/associateLeadUsingPOST">Rest API</a> 모두에 있습니다.</p></td> 
+   <td><p>Marketing <strong>데이터베이스</strong>의 모든 개인 데이터는 알려진 개인 데이터로 간주됩니다. 다음과 같은 다양한 방법으로 데이터베이스를 입력할 수 있습니다.CRM 동기화, 양식 작성, 가져오기/수동 입력 목록 작성, 프로그래머틱(REST API/파트너 통합) 등 웹 방문자는 처음에는 <strong>쿠키</strong>(및 익명)이 Marketing의 <strong>Munchkin</strong> 웹 추적을 통해 발생한 후, 식별 가능한 작업이 발생할 때(예: Marketing to 이메일의 추적된 링크를 클릭하거나, 이메일 주소로 양식을 채우거나, Marketing을 통해 리드 API를 수동으로 매핑합니다. <a href="https://developers.marketo.com/javascript-api/lead-tracking/api-reference/#munchkin_associatelead">Munchkin</a> 및 <a href="https://developers.marketo.com/rest-api/endpoint-reference/lead-database-endpoint-reference/#!/Leads/associateLeadUsingPOST">Rest API</a> 모두에 있습니다.</p></td> 
   </tr> 
  </tbody> 
 </table>
@@ -555,7 +555,7 @@ ht-degree: 0%
    <td>MSD라고도 합니다. 두 CRM 중 하나. Marketing은 기본적으로 통합되어 있습니다(<a href="#c"><strong>CRM</strong></a> 참조).</td> 
   </tr> 
   <tr> 
-   <td><strong><a href="http://developers.marketo.com/javascript-api/lead-tracking/" rel="nofollow">먼크킨</a></strong></td> 
+   <td><strong><a href="https://developers.marketo.com/javascript-api/lead-tracking/" rel="nofollow">먼크킨</a></strong></td> 
    <td>Marketing의 사용자 지정 JavaScript 추적 코드. 웹 사이트를 방문하는 모든 사용자를 추적합니다. 여기에는 익명의 방문자(IP 주소 및 기타 정보와 함께)가 포함됩니다. </td> 
   </tr> 
   <tr> 
@@ -564,7 +564,7 @@ ht-degree: 0%
   </tr> 
   <tr> 
    <td colspan="1"><a href="/help/marketo/product-docs/core-marketo-concepts/programs/tokens/understanding-my-tokens-in-a-program.md" rel="nofollow"><strong>내 토큰</strong></a></td> 
-   <td colspan="1">누구나 만들 수 있는 사용자 지정 변수. <a href="/help/marketo/product-docs/core-marketo-concepts/programs/tokens/managing-my-tokens.md" rel="nofollow">캠페인 폴더</strong> 또는 <strong>프로그램</strong>에서 &lt;a0/&gt;만든 폴더입니다.</a><strong></strong></td> 
+   <td colspan="1">누구나 만들 수 있는 사용자 지정 변수. <a href="/help/marketo/product-docs/core-marketo-concepts/programs/tokens/managing-my-tokens.md" rel="nofollow">캠페인 폴더</strong> 또는 <strong>프로그램</strong>에서 </a>만든 폴더입니다.<strong></strong></td> 
   </tr> 
  </tbody> 
 </table>
@@ -759,7 +759,7 @@ ht-degree: 0%
    <td colspan="1"><p>특정 도메인에 대해 메일을 보낼 수 있는 이메일 서버를 식별하는 인증 메커니즘입니다.</p></td> 
   </tr> 
   <tr> 
-   <td colspan="1"><a href="http://docs.marketo.com/x/oA8t" rel="nofollow"><strong>스마트 캠페인</strong></a></td> 
+   <td colspan="1"><a href="https://docs.marketo.com/x/oA8t" rel="nofollow"><strong>스마트 캠페인</strong></a></td> 
    <td colspan="1">Marketing Cloud에서 가장 중요한 툴 중 하나 이 작업은 사용자가 결정한 기준에 따라 지정한 작업을 수행합니다. ( <strong><a href="#b">일괄 캠페인</a></strong> 및 <strong><a href="#t">캠페인 트리거 참조</a></strong>)</td> 
   </tr> 
   <tr> 
