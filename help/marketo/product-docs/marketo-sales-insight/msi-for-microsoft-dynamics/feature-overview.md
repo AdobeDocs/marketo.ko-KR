@@ -3,7 +3,7 @@ unique-page-id: 37357043
 description: 기능 개요 - 마케팅 문서 - 제품 설명서
 title: 기능 개요
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
 workflow-type: tm+mt
 source-wordcount: '177'
 ht-degree: 0%
@@ -73,4 +73,3 @@ ht-degree: 0%
 * 흥미로운 순간
 * 상태
 * 리드 피드 - IM에 구독하는 기능 포함
-
