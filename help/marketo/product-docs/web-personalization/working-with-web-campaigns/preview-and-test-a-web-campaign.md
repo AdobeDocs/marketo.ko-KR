@@ -3,7 +3,7 @@ unique-page-id: 10092925
 description: 웹 캠페인 미리 보기 및 테스트 - 마케팅 문서 - 제품 설명서
 title: 웹 캠페인 미리 보기 및 테스트
 translation-type: tm+mt
-source-git-commit: 00887ea53e395bea3a11fd28e0ac98b085ef6ed8
+source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
 workflow-type: tm+mt
 source-wordcount: '378'
 ht-degree: 0%
@@ -35,7 +35,7 @@ ht-degree: 0%
 
    >[!NOTE]
    >
-   >캠페인을 미리 볼 수 있는 최상의 환경을 위해 브라우저 플러그인([Chrome](https://chrome.google.com/webstore/detail/marketo-web-personalizati/ldiddonjplchallbngbccbfdfeldohkj) 또는 [Firefox](http://docs.marketo.com/display/docs/assets/mwp-0.0.0.8.xpi))을 설치하는 옵션도 있습니다. 아래 섹션을 참조하십시오.
+   >캠페인을 미리 볼 수 있는 최상의 환경을 위해 브라우저 플러그인([Chrome](https://chrome.google.com/webstore/detail/marketo-web-personalizati/ldiddonjplchallbngbccbfdfeldohkj) 또는 [Firefox](https://docs.marketo.com/display/docs/assets/mwp-0.0.0.8.xpi))을 설치하는 옵션도 있습니다. 아래 섹션을 참조하십시오.
 
 ## 브라우저 플러그인 {#preview-a-web-campaign-on-the-creation-page-using-the-browser-plug-in}을 사용하여 작성 페이지에서 웹 캠페인 미리 보기
 
@@ -92,7 +92,7 @@ ht-degree: 0%
 1. 캠페인 크리에이티브를 완료하고 **시작**&#x200B;을 클릭합니다.\
    ![](assets/click-launch.jpg)
 
-1. 웹 사이트로 이동하여 URL 끝에 URL 매개 변수 &quot;?sandbox=1&quot;을 추가합니다. 예:[www.marketo.com?sandbox=1](http://www.marketo.com/?sandbox=1)
+1. 웹 사이트로 이동하여 URL 끝에 URL 매개 변수 &quot;?sandbox=1&quot;을 추가합니다. 예:[www.marketo.com?sandbox=1](https://www.marketo.com/?sandbox=1)
 1. 웹 사이트에서 캠페인이 반응하는지 확인합니다.
 
 >[!NOTE]
