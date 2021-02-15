@@ -3,7 +3,7 @@ unique-page-id: 10617187
 description: 개인 정보 설정 이해 - 마케팅 문서 - 제품 설명서
 title: 개인 정보 설정 이해
 translation-type: tm+mt
-source-git-commit: f79909ce8f2e37bf0748596774fe47ac03618696
+source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
 workflow-type: tm+mt
 source-wordcount: '521'
 ht-degree: 0%
@@ -72,7 +72,7 @@ Munchkin에서 마케터는 [브라우저의 DNT 설정](/help/marketo/product-d
 
    >[!NOTE]
    >
-   >이 매개 변수를 사용하려면 Munchkin V2가 활성화되어 있어야 합니다. 구독을 사용하도록 설정하려면 [Marketing Support](http://nation.marketo.com/community/support_solutions)에 문의하십시오.
+   >이 매개 변수를 사용하려면 Munchkin V2가 활성화되어 있어야 합니다. 구독을 사용하도록 설정하려면 [Marketing Support](https://nation.marketo.com/community/support_solutions)에 문의하십시오.
 
 * 웹 개인화(RTP)의 경우 javascript에 추가합니다.
 
