@@ -3,7 +3,7 @@ unique-page-id: 2359449
 description: 세그먼트 규칙 정의 - 마케팅 문서 - 제품 설명서
 title: 세그먼트 규칙 정의
 translation-type: tm+mt
-source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
+source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
 workflow-type: tm+mt
 source-wordcount: '391'
 ht-degree: 0%
@@ -48,7 +48,7 @@ ht-degree: 0%
    >**자세히 알아보기**
    >
    >
-   >스마트 목록은 멋진 기능입니다. [스마트 목록 및 정적 목록](http://docs.marketo.com/display/docs/smart+lists+and+static+lists)으로 수행할 수 있는 모든 작업을 알아봅니다.
+   >스마트 목록은 멋진 기능입니다. [스마트 목록 및 정적 목록](https://docs.marketo.com/display/docs/smart+lists+and+static+lists)으로 수행할 수 있는 모든 작업을 알아봅니다.
 
 1. 이 세그먼트의 구성원이 될 수 있는 사람을 보려면 **사람(초안)** 탭을 클릭합니다.
 
@@ -63,7 +63,7 @@ ht-degree: 0%
    >세그멘테이션에서 만들 수 있는 총 세그먼트 수는 사용된 필터의 수와 유형 및 세그먼트의 논리가 얼마나 복잡한지에 따라 달라집니다. 표준 필드를 사용하여 최대 100개의 세그먼트를 만들 수 있지만, 다른 유형의 필터를 사용하면 복잡성이 가중되고 세그멘테이션이 승인되지 않을 수 있습니다. 예를 들면 다음과 같습니다.사용자 지정 필드, 목록 구성원, 리드 소유자 필드 및 매출 단계
    >
    >
-   >승인 중에 오류 메시지가 표시되고 세그멘테이션의 복잡성을 줄이는 데 도움이 필요한 경우 [Marketing Support](http://nation.marketo.com/t5/Support/ct-p/Support)에 문의하십시오.
+   >승인 중에 오류 메시지가 표시되고 세그멘테이션의 복잡성을 줄이는 데 도움이 필요한 경우 [Marketing Support](https://nation.marketo.com/t5/Support/ct-p/Support)에 문의하십시오.
 
 1. 적용된 규칙뿐만 아니라 파이 차트에서 세그먼트에 대한 빠른 개요를 보려면 대시보드를 확인합니다.
 
