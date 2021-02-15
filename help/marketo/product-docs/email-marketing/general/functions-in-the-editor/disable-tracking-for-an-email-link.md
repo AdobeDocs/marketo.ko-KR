@@ -3,7 +3,7 @@ unique-page-id: 1900579
 description: 이메일 링크에 대한 추적 비활성화 - 마케팅 문서 - 제품 설명서
 title: 이메일 링크에 대한 추적 비활성화
 translation-type: tm+mt
-source-git-commit: 0f0217a88929661798015b51a26259a973f9f6ea
+source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
 workflow-type: tm+mt
 source-wordcount: '213'
 ht-degree: 0%
@@ -46,7 +46,7 @@ ht-degree: 0%
    >[!TIP]
    >
    >이메일 **템플릿**에서 링크에 대한 클릭 추적을 비활성화하시겠습니까? 다음 형식을 사용합니다.
-   >`<a class="mktNoTrack" href="http://www.mywebsite.com">This link does not have tracking</a>`\
+   >`<a class="mktNoTrack" href="https://www.mywebsite.com">This link does not have tracking</a>`\
    >이 구현 작업에 도움이 필요한 경우 웹 개발자에게 문의하십시오.
 
 좋아! 이제 링크에 대한 추적을 비활성화했습니다.
