@@ -3,7 +3,7 @@ unique-page-id: 11382815
 description: IT별 Marketing Outlook 플러그인 설치 - Marketing Docs - 제품 설명서
 title: IT별 Marketing Outlook 플러그인 설치
 translation-type: tm+mt
-source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
+source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
 workflow-type: tm+mt
 source-wordcount: '189'
 ht-degree: 0%
@@ -17,7 +17,7 @@ ht-degree: 0%
 
 >[!PREREQUISITES]
 >
->[Enterprise ](http://docs.marketo.com/display/DOCS/Install+the+Marketo+Add-in+for+Outlook+with+an+Enterprise+Key) 키 설정을 참조하십시오.
+>[Enterprise ](https://docs.marketo.com/display/DOCS/Install+the+Marketo+Add-in+for+Outlook+with+an+Enterprise+Key) 키 설정을 참조하십시오.
 
 다음 명령줄을 &#39;시스템&#39;으로 실행하거나 /i 스위치를 사용하여 /i 사용자 계정으로 실행합니다. `<pre>msiexec.exe /i [File Name] /qn REG=[Enterprise Key]</pre>`
 
