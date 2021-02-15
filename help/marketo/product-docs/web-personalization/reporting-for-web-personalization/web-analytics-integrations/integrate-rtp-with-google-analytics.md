@@ -3,7 +3,7 @@ unique-page-id: 2949158
 description: RTP와 Google Analytics 통합 - Marketing To Docs - 제품 설명서
 title: RTP와 Google Analytics 통합
 translation-type: tm+mt
-source-git-commit: c8a77dc84c023e05fbb442f575269aac108ffb29
+source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
 workflow-type: tm+mt
 source-wordcount: '614'
 ht-degree: 0%
@@ -66,7 +66,7 @@ RTP 캠페인을 측정하고 전체 사이트 평균과 관련화합니다. 이
 
 ## Google Analytics {#setting-up-rtp-with-google-analytics}으로 RTP 설정
 
-1. GA 계정에 읽기 및 분석 사용자로 이메일 [`[email protected]`](http://docs.marketo.com/cdn-cgi/l/email-protection#0674727628616734466b67746d6372692865696b)을 추가합니다. 자세한 내용은 [여기](https://support.google.com/analytics/answer/2884495?hl=en)를 참조하십시오.
+1. GA 계정에 읽기 및 분석 사용자로 이메일 [`[email protected]`](https://docs.marketo.com/cdn-cgi/l/email-protection#0674727628616734466b67746d6372692865696b)을 추가합니다. 자세한 내용은 [여기](https://support.google.com/analytics/answer/2884495?hl=en)를 참조하십시오.
 1. RTP 계정에서. **계정 설정**&#x200B;으로 이동합니다.
 
    ![](assets/image2014-11-28-16-3a54-3a40.png)
