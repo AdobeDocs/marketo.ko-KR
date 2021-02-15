@@ -3,7 +3,7 @@ unique-page-id: 2950396
 description: 우선 순위, 긴급성, 상대적인 점수 및 최고 성과 - 마케팅 문서 - 제품 설명서
 title: 우선 순위, 긴급성, 상대적인 점수 및 최고 점수
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
 workflow-type: tm+mt
 source-wordcount: '462'
 ht-degree: 0%
@@ -57,5 +57,5 @@ Marketing To Sales Insight는 우선 순위에 따라 최고의 리드 및 연�
 
 >[!MORELIKETHIS]
 >
->* [Marketing To Sales Insight](http://docs.marketo.com/display/docs/marketo+sales+insight)
+>* [Marketing To Sales Insight](https://docs.marketo.com/display/docs/marketo+sales+insight)
 
