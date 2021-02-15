@@ -3,7 +3,7 @@ unique-page-id: 13795395
 description: 릴리스 노트 -18년 겨울 - 마케팅 문서 - 제품 설명서
 title: 릴리스 노트 -18년 겨울
 translation-type: tm+mt
-source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
+source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
 workflow-type: tm+mt
 source-wordcount: '599'
 ht-degree: 0%
@@ -72,7 +72,7 @@ Adobe의 새로운 LinkedIn API를 사용하면 여러 LinkedIn Campaign Manager
 
 **웹 개인화를 위한 일본어 데이터 소스**
 
-Marketing은 일본에서 오는 방문자에 대한 웹 방문자 식별(역 IP 조회) 및 개인화를 개선하기 위해 웹 개인화를 위한 추가 일본어 데이터 소스를 추가하고 있습니다. 조직명이 일본어로 표시됩니다.
+Marketing에서는 일본에서 오는 방문자에 대한 웹 방문자 식별(역 IP 조회) 및 개인화를 개선하기 위해 웹 개인화를 위한 추가 일본어 데이터 소스를 추가하고 있습니다. 조직명이 일본어로 표시됩니다.
 
 ** [정적 목록을 사용하여 웹 세그먼트 만들기](../../product-docs/web-personalization/using-web-segments/create-a-segment-using-a-static-list.md)**
 
@@ -86,7 +86,7 @@ Marketing의 최적화된 컨텐츠`<sup>AI </sup>`알고리즘을 통해 권장
 
 ## 통합 {#integration}
 
-** [캠페인 API 활성화/비활성화](http://developers.marketo.com/rest-api/assets/campaigns/)**
+** [캠페인 API 활성화/비활성화](https://developers.marketo.com/rest-api/assets/campaigns/)**
 
 이 새로운 API를 사용하면 트리거 캠페인을 원격으로 활성화 및 비활성화할 수 있으므로 완전히 자동화된 프로그램 템플릿을 만들 수 있습니다. 프로그램 템플릿을 한 번 만든 다음 복제, 마케팅 자료 업데이트, 스마트 캠페인 활성화/일정 관리 등을 자동화할 수 있습니다.
 
@@ -94,7 +94,7 @@ Marketing의 최적화된 컨텐츠`<sup>AI </sup>`알고리즘을 통해 권장
 
 **업데이트 구독 취소**
 
-2018년 3월 1일부터 [ToutApp.com](http://ToutApp.com)에서 보낸 모든 이메일에 Salesforce의 &quot;Email with Tout&quot; 버튼을 사용하여 구독 취소 링크가 맨 아래에 추가됩니다.
+2018년 3월 1일부터 [ToutApp.com](https://ToutApp.com)에서 보낸 모든 이메일에 Salesforce의 &quot;Email with Tout&quot; 버튼을 사용하여 구독 취소 링크가 맨 아래에 추가됩니다.
 
 **라이브 피드 업데이트**
 
