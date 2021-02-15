@@ -3,7 +3,7 @@ unique-page-id: 1146999
 description: 관심 있는 순간을 위한 토큰 - 마케팅 문서 - 제품 설명서
 title: 관심 분야의 토큰
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
 workflow-type: tm+mt
 source-wordcount: '265'
 ht-degree: 0%
@@ -16,7 +16,7 @@ ht-degree: 0%
 >[!PREREQUISITES]
 >
 >* [흥미로운 모멘트 흐름 단계](../../../../../../product-docs/core-marketo-concepts/smart-campaigns/flow-actions/interesting-moment.md)를 사용하는 방법에 대해 학습합니다.
->* [토큰](http://docs.marketo.com/display/docs/tokens)에 대해 자세히 알아보십시오.
+>* [토큰](https://docs.marketo.com/display/docs/tokens)에 대해 자세히 알아보십시오.
 
 >
 
