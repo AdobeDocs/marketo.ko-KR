@@ -3,7 +3,7 @@ unique-page-id: 4719332
 description: RTP JavaScript - Marketing To Docs - 제품 설명서 배포
 title: RTP JavaScript 배포
 translation-type: tm+mt
-source-git-commit: c8a77dc84c023e05fbb442f575269aac108ffb29
+source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
 workflow-type: tm+mt
 source-wordcount: '177'
 ht-degree: 0%
@@ -39,11 +39,11 @@ RTP 태그를 생성하고 설정하려면 아래 설치 지침을 따르십시�
 
    태그 토글이 켜짐으로 설정되어 있는지 확인합니다. 조직의 탭으로 데이터 흐름을 표시해야 합니다.
 
-   이제 RTP 태그로 설정되었으며 세그먼트[ 만들기 및 실시간 캠페인을 시작할 준비가 되었습니다!](/help/marketo/product-docs/web-personalization/using-web-segments/create-a-basic-web-segment.md)
+   이제 RTP 태그로 설정되었으며 세그먼트](/help/marketo/product-docs/web-personalization/using-web-segments/create-a-basic-web-segment.md) 만들기 및 실시간 캠페인을 시작할 준비가 되었습니다![
 
 1. 태그가 모든 페이지에 있는지 확인합니다.
 
 >[!MORELIKETHIS]
 >
->* [RTP 태그 구현](http://docs.marketo.com/display/docs/rtp+tag+implementation)
+>* [RTP 태그 구현](https://docs.marketo.com/display/docs/rtp+tag+implementation)
 
