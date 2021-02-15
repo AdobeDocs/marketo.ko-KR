@@ -3,7 +3,7 @@ unique-page-id: 7512944
 description: Google Chrome용 Marketing To Insights 사용 - Marketing To Docs - 제품 설명서
 title: Google Chrome용 Marketing To Insights 사용
 translation-type: tm+mt
-source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
+source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
 workflow-type: tm+mt
 source-wordcount: '233'
 ht-degree: 0%
@@ -17,11 +17,7 @@ Google Chrome용 Marketing To Insights를 사용하여 Google 이메일을 보�
 
 >[!PREREQUISITES]
 >
->* [Google Chrome용 Marketing To Insights 설치](install-marketo-insights-for-google-chrome.md)
-
->
-
-
+>[Google Chrome용 Marketing To Insights 설치](/help/marketo/product-docs/marketo-sales-insight/msi-chrome-plugin/install-marketo-insights-for-google-chrome.md)
 
 ## Marketing Insights {#send-an-email-with-marketo-insights}(으)로 이메일 보내기
 
@@ -41,7 +37,7 @@ Google Chrome용 Marketing To Insights를 사용하여 Google 이메일을 보�
    >
    >선택적으로 이중 화살표를 클릭하여 전체 화면 보기로 확장합니다.
 
-1. 게시된 마케팅 템플릿을 사용하여 이메일을 미리 채우려면 **추가 옵션**&#x200B;을 클릭하고 **마케팅 템플릿 로드를 선택합니다.**
+1. 게시된 마케팅 템플릿으로 이메일을 미리 채우려면 **추가 옵션**&#x200B;을 클릭하고 **마케팅 템플릿 불러오기**&#x200B;를 선택합니다.
 
    ![](assets/image2015-10-5-15-3a6-3a50.png)
 
@@ -75,10 +71,6 @@ Google Chrome용 Marketing To Insights를 사용하여 Google 이메일을 보�
 
    >[!MORELIKETHIS]
    >
-   >
-   >    
-   >    
-   >    * [Google Chrome용 Marketing To Insights 설치](install-marketo-insights-for-google-chrome.md)
-   >    * [Google Mail에서 개인 및 계정 정보 및 활동 보기](view-person-and-account-information-and-activities-in-google-mail.md)
-
+   >* [Google Chrome용 Marketing To Insights 설치](/help/marketo/product-docs/marketo-sales-insight/msi-chrome-plugin/install-marketo-insights-for-google-chrome.md)
+   >* [Google Mail에서 개인 및 계정 정보 및 활동 보기](/help/marketo/product-docs/marketo-sales-insight/msi-chrome-plugin/view-person-and-account-information-and-activities-in-google-mail.md)
 
