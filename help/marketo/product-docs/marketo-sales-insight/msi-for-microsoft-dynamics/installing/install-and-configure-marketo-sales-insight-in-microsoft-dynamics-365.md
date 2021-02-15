@@ -3,9 +3,9 @@ unique-page-id: 3571739
 description: Microsoft Dynamics 365에서 Marketing To Sales Insight 설치 및 구성 - Marketing To Docs - 제품 설명서
 title: Microsoft Dynamics 365에서 Marketing To Sales Insight 설치 및 구성
 translation-type: tm+mt
-source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
+source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
 workflow-type: tm+mt
-source-wordcount: '472'
+source-wordcount: '458'
 ht-degree: 0%
 
 ---
@@ -17,9 +17,9 @@ Marketing To Sales Insight는 마케팅 팀이 보유하고 있는 데이터의 
 
 >[!PREREQUISITES]
 >
->[Marketing-Microsoft 통합](http://docs.marketo.com/x/E4A2)을 완료합니다.
+>Marketing-Microsoft 통합을 완료합니다.
 >
->[사용 중인 ](http://docs.marketo.com/x/LoJo) 버전의 Microsoft Dynamics CRM에 맞는 솔루션을 다운로드합니다.
+>[사용 중인 ](/help/marketo/product-docs/marketo-sales-insight/msi-for-microsoft-dynamics/installing/download-the-marketo-sales-insight-solution-for-microsoft-dynamics.md) 버전의 Microsoft Dynamics CRM에 맞는 솔루션을 다운로드합니다.
 
 ## 솔루션 가져오기 {#import-solution}
 
@@ -37,12 +37,10 @@ Marketing To Sales Insight는 마케팅 팀이 보유하고 있는 데이터의 
 
    >[!NOTE]
    >
-   >**미리 알림**
-   >
-   >
-   >앞으로 이동하기 전에 이미 [이(가) 설치되어 있고 Marketing 솔루션](../../../../product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/microsoft-dynamics-365/step-1-of-3-install.md)을(를) 구성해야 합니다.
+   >앞으로 이동하기 전에 이미 [이(가) 설치되어 있고 Marketing 솔루션](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/microsoft-dynamics-365/step-1-of-3-install.md)을(를) 구성해야 합니다.
 
-   가져오기를 클릭합니다.
+1. **가져오기**&#x200B;를 클릭합니다.
+
    ![](assets/image2014-12-12-9-3a5-3a27.png)
 
 1. 새 창에서 **찾아보기**&#x200B;를 클릭합니다. 1단계](#msi)에서 다운로드한 [Marketing to Sales Insight 솔루션을 선택합니다. **다음**&#x200B;을 클릭합니다.
@@ -95,14 +93,14 @@ Dynamics에서 Marketing To 인스턴스를 Sales Insight에 연결합니다. �
 
    >[!NOTE]
    >
-   >Sales Insight가 작동하려면 *Lead 및 Contact*&#x200B;에 대해 다음 필드를 Markto와 동기화해야 합니다.
+   >Sales Insight가 작동하려면 _Lead 및 Contact_&#x200B;에 대해 다음 필드를 Markto와 동기화해야 합니다.
    >
    > * 우선 순위
    > * 긴급성
    > * 상대 점수
 
    >
-   >이러한 필드가 누락된 경우, 누락된 필드의 이름이 있는 오류 메시지가 Marketing에 표시됩니다. 이 문제를 해결하려면 [이 절차](../../../../product-docs/marketo-sales-insight/msi-for-microsoft-dynamics/setting-up-and-using/required-fields-for-syncing-marketo-with-dynamics.md)를 수행하십시오.
+   >이러한 필드가 누락된 경우, 누락된 필드의 이름이 있는 오류 메시지가 Marketing에 표시됩니다. 이 문제를 해결하려면 [이 절차](/help/marketo/product-docs/marketo-sales-insight/msi-for-microsoft-dynamics/setting-up-and-using/required-fields-for-syncing-marketo-with-dynamics.md)를 수행하십시오.
 
 1. Microsoft Dynamics로 돌아가 설정 옆에 있는 ![](assets/image2015-5-13-15-3a49-3a19.png) 아이콘을 클릭한 다음 드롭다운에서 **Marketing API 구성**&#x200B;을 선택합니다.
 
@@ -146,4 +144,4 @@ Dynamics에서 Marketing To 인스턴스를 Sales Insight에 연결합니다. �
 
 >[!MORELIKETHIS]
 >
->[리드/연락처 레코드에 대한 별과 불꽃 설정](http://docs.marketo.com/x/BICMAg)
+>[리드/연락처 레코드에 대한 별과 불꽃 설정](/help/marketo/product-docs/marketo-sales-insight/msi-for-microsoft-dynamics/setting-up-and-using/setting-up-stars-and-flames-for-lead-contact-records.md)
