@@ -3,9 +3,9 @@ unique-page-id: 7516460
 description: Salesforce의 다국어 지원을 위한 Sales Insight 준비 - Marketing To Docs - 제품 설명서
 title: Salesforce에서 여러 언어 지원을 위한 Sales Insight 준비
 translation-type: tm+mt
-source-git-commit: 00887ea53e395bea3a11fd28e0ac98b085ef6ed8
+source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
 workflow-type: tm+mt
-source-wordcount: '246'
+source-wordcount: '239'
 ht-degree: 0%
 
 ---
@@ -31,12 +31,13 @@ Marketing To Sales Insight는 언어별로 저장됩니다. 따라서 두 개 �
 >
 다른 모든 언어는 기본적으로 영어로 지정됩니다.
 
-1. Marketing To Sales Insight에 대한 새 언어 추가
+## Marketing To Sales Insight에 대한 새 언어 추가 {#adding-a-new-language-for-marketo-sales-insight}
+
 1. Salesforce에 로그인합니다. 오른쪽 상단 모서리의 이름 아래 드롭다운에서 **설정**&#x200B;을 클릭합니다.
 
    ![](assets/image2015-7-6-16-3a5-3a6.png)
 
-1. [내 개인 정보**]** 아래에서 **개인 정보**&#x200B;를 클릭합니다.
+1. **내 개인 정보**&#x200B;에서 **개인 정보**&#x200B;를 클릭합니다.
 
    ![](assets/image2015-7-6-16-3a5-3a25.png)
 
@@ -52,11 +53,11 @@ Marketing To Sales Insight는 언어별로 저장됩니다. 따라서 두 개 �
 
    ![](assets/image2015-7-6-16-3a6-3a10.png)
 
-1. **Marketing To Sales Insight **(선택한 언어)를 클릭합니다.
+1. **Marketing to Sales Insight** 구성(선택한 언어)을 클릭합니다.
 
    ![](assets/image2015-7-6-16-3a7-3a15.png)
 
-1. Marketing으로 이동합니다. [Marketing To Sales Insight **API 구성** 세부 사항](https://docs.marketo.com/pages/viewpage.action?pageId=2360368#ConfigureMarketoSalesInsightinSalesforceEnterprise/Unlimited-ConfigureMarketoSalesInsight)을 찾습니다.
+1. Marketing으로 이동합니다. [Marketing To Sales Insight **API 구성** 세부 사항](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/configuration/configure-marketo-sales-insight-in-salesforce-enterprise-unlimited.md#configure-marketo-sales-insight)을 찾습니다.
 
    ![](assets/image2015-7-6-16-3a41-3a2.png)
 
@@ -72,7 +73,7 @@ Salesforce 조직 맞춤화를 완료하면 개인 구성을 영어로 전환하
 >
 >다음 스크린샷은 영어로 된 지침과 함께 프랑스어로 표시됩니다.  이전 단계에서 선택한 언어의 텍스트가 동일한 화면이 표시됩니다.
 
-1. 이름 아래에서 설정을 클릭합니다.
+1. 이름 아래에서 **설정**&#x200B;을 클릭합니다.
 
 ![](assets/image2015-7-6-16-3a5-3a6.png)
 
@@ -89,4 +90,3 @@ Salesforce 조직 맞춤화를 완료하면 개인 구성을 영어로 전환하
    ![](assets/image2015-7-6-16-3a8-3a31.png)
 
    이제 Salesforce가 다시 영어로
-
