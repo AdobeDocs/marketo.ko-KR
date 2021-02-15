@@ -3,7 +3,7 @@ unique-page-id: 2360020
 description: 보고서를 Excel로 내보내기 - 마케팅 문서 - 제품 설명서
 title: 보고서를 Excel로 내보내기
 translation-type: tm+mt
-source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
+source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
 workflow-type: tm+mt
 source-wordcount: '110'
 ht-degree: 0%
@@ -40,5 +40,5 @@ ht-degree: 0%
    >**자세히 알아보기**
    >
    >
-   >[기본 보고](http://docs.marketo.com/display/docs/basic+reporting) 세부 조사에서 보고와 관련하여 사용할 수 있는 다른 유용한 모든 작업을 참조하십시오.
+   >[기본 보고](https://docs.marketo.com/display/docs/basic+reporting) 세부 조사에서 보고와 관련하여 사용할 수 있는 다른 유용한 모든 작업을 참조하십시오.
 
