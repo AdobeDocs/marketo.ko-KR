@@ -3,7 +3,7 @@ unique-page-id: 30081321
 description: 그룹 유형 - 마케팅 문서 - 제품 설명서
 title: 그룹 유형
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
 workflow-type: tm+mt
 source-wordcount: '94'
 ht-degree: 0%
@@ -45,4 +45,3 @@ Sales Connect의 다양한 그룹 유형에 대해 알아보십시오.
   </tr> 
  </tbody> 
 </table>
-
