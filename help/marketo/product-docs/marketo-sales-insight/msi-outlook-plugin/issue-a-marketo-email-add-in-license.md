@@ -3,7 +3,7 @@ unique-page-id: 2949281
 description: Marketing To Email Add-in 라이선스 - Marketing To Docs - 제품 설명서 문제
 title: Marketing To Email Add-in 라이선스 발행
 translation-type: tm+mt
-source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
+source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
 workflow-type: tm+mt
 source-wordcount: '310'
 ht-degree: 0%
@@ -45,7 +45,7 @@ Marketing to Email Outlook Add-in을 사용하려면 먼저 라이선스를 발�
 
    >[!NOTE]
    >
-   >플러그인을 원격으로 설치하려면 체크 상자를 선택 취소하고 IT 팀에 [Enterprise Key](http://docs.marketo.com/display/DOCS/Install+the+Marketo+Add-in+for+Outlook+with+an+Enterprise+Key)를 보냅니다.
+   >플러그인을 원격으로 설치하려면 체크 상자를 선택 취소하고 IT 팀에 [Enterprise Key](https://docs.marketo.com/display/DOCS/Install+the+Marketo+Add-in+for+Outlook+with+an+Enterprise+Key)를 보냅니다.
    >
    >세일즈 담당자가 자신의 컴퓨터에 관리자 액세스 권한을 가지고 있는 경우 상자를 선택하면 작업이 완료됩니다.
 
