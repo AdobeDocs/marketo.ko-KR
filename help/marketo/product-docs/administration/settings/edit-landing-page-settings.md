@@ -3,7 +3,7 @@ unique-page-id: 2359918
 description: 랜딩 페이지 설정 편집 - 마케팅 문서 - 제품 설명서
 title: 랜딩 페이지 설정 편집
 translation-type: tm+mt
-source-git-commit: f79909ce8f2e37bf0748596774fe47ac03618696
+source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
 workflow-type: tm+mt
 source-wordcount: '256'
 ht-degree: 0%
@@ -31,7 +31,7 @@ ht-degree: 0%
 
    | 기간 | 정의 |
    |---|---|
-   | 랜딩 페이지의 도메인 이름 | CNAME입니다. CNAME은 랜딩 페이지에 대해 사람들에게 제공하는 URL의 첫 번째 부분입니다. 예를 들어 `http://go.yourCompany.com`에서 &quot;go&quot;는 CNAME입니다. 여러 개를 가질 수 있지만 대부분의 사람들은 그냥 여러 개를 사용합니다. |
+   | 랜딩 페이지의 도메인 이름 | CNAME입니다. CNAME은 랜딩 페이지에 대해 사람들에게 제공하는 URL의 첫 번째 부분입니다. 예를 들어 `https://go.yourCompany.com`에서 &quot;go&quot;는 CNAME입니다. 여러 개를 가질 수 있지만 대부분의 사람들은 그냥 여러 개를 사용합니다. |
    | 폴백 페이지 | 랜딩 페이지가 존재하지 않거나 다운된 경우 이 위치에서 이동합니다. [폴백 페이지](/help/marketo/product-docs/administration/settings/set-a-fallback-page.md)에 대해 자세히 알아보십시오. |
    | 홈 페이지 | 회사 사이트 URL을 입력합니다. |
 
@@ -41,7 +41,7 @@ ht-degree: 0%
 
    ![](assets/four.png)
 
-1. 악성 사이트가 귀하의 컨텐트를 사지로 호스팅하지 않도록 하려면 **마케팅 페이지를 외부 웹 페이지에 포함할 수 없도록 허용 안 함** 확인란을 선택합니다.
+1. 악성 사이트가 귀하의 컨텐트를 사시하는 것으로 표시되지 않도록 하려면 **마케팅 페이지를 외부 웹 페이지에 포함할 수 없도록 허용 안 함** 확인란을 선택합니다.
 
    ![](assets/five.png)
 
