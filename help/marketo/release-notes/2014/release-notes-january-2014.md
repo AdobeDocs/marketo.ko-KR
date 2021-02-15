@@ -3,7 +3,7 @@ unique-page-id: 2951050
 description: 릴리스 노트 - 2014년 1월 - Marketing Docs - 제품 설명서
 title: 릴리스 노트 - 2014년 1월
 translation-type: tm+mt
-source-git-commit: 96cc6a30c63c8e8dca793a52e4bf7ecaef8c08dc
+source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
 workflow-type: tm+mt
 source-wordcount: '340'
 ht-degree: 0%
@@ -13,13 +13,13 @@ ht-degree: 0%
 
 # 릴리스 노트:2014년 1월 {#release-notes-january}
 
-다음 기능은 2014년 1월 릴리스에 포함되어 있습니다. 기능을 사용할 수 있는지 확인하려면 [Marketing Edition](http://www.marketo.com/pricing/)을(를) 확인하십시오.
+다음 기능은 2014년 1월 릴리스에 포함되어 있습니다. 기능을 사용할 수 있는지 확인하려면 [Marketing Edition](https://www.marketo.com/pricing/)을(를) 확인하십시오.
 
 ## Forms 2.0 {#forms}
 
-주요 내용:Forms 2.0에 대한 설명서가 곧 제공될 예정입니다. 그 동안 아래 및 [소개 비디오](http://docs.marketo.com/display/docs/forms)!
+주요 내용:Forms 2.0에 대한 설명서가 곧 제공될 예정입니다. 그 동안 아래 및 [소개 비디오](https://docs.marketo.com/display/docs/forms)!
 
-양식 작성 프로세스를 제어할 수 있고 웹 개발자에게 여유를 줄 수 있습니다. [Forms](http://docs.marketo.com/display/docs/forms) 2.0은 마케터가 프로그래밍 지식 없이도 시각적으로 기능적으로 강력한 양식을 만들 수 있도록 설계되었습니다.
+양식 작성 프로세스를 제어할 수 있고 웹 개발자에게 여유를 줄 수 있습니다. [Forms](https://docs.marketo.com/display/docs/forms) 2.0은 마케터가 프로그래밍 지식 없이도 시각적으로 기능적으로 강력한 양식을 만들 수 있도록 설계되었습니다.
 
 **경제적인 가격에 Forms을 보다 시각적인 방식으로 탈바꿈시킬 수 있습니다.**
 
@@ -38,7 +38,7 @@ Marketing의 랜딩 페이지에 배치된 양식의 html 코드를 가져와 iF
 
 ![](assets/image2014-9-22-10-3a38-3a2.png)
 
-[Forms 2.0 소개 비디오](http://docs.marketo.com/display/docs/forms)에서 자세한 내용을 알아보십시오. (설명서가 [Forms](http://docs.marketo.com/display/docs/forms)자세히 알아보기
+[Forms 2.0 소개 비디오](https://docs.marketo.com/display/docs/forms)에서 자세한 내용을 알아보십시오. (설명서가 [Forms](https://docs.marketo.com/display/docs/forms)자세히 알아보기
 
 ## 이메일 프로그램 {#communication-limits-for-email-program} 통신 제한
 
