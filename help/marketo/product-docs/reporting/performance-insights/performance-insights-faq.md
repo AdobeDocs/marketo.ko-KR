@@ -3,7 +3,7 @@ unique-page-id: 12979858
 description: 성능 통찰력 FAQ - 마케팅 문서 - 제품 설명서
 title: 성능 통찰력 FAQ
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
 workflow-type: tm+mt
 source-wordcount: '1404'
 ht-degree: 0%
@@ -41,7 +41,7 @@ MPI는 리드 관리 응용 프로그램에 대한 독립적인 추가 기능입
 
 >[!NOTE]
 >
->분석 동작 [여기](http://docs.marketo.com/display/public/DOCS/Edit+Analytics+Behavior+Settings)에 대한 자세한 내용을 살펴보십시오.
+>분석 동작 [여기](https://docs.marketo.com/display/public/DOCS/Edit+Analytics+Behavior+Settings)에 대한 자세한 내용을 살펴보십시오.
 
 ## 새 제품 출시를 위한 멀티채널 캠페인을 실행하고 있습니다. 한 곳에서 모든 다른 채널에서 이 캠페인에 대한 성과를 보려면 어떻게 해야 합니까?{#i-am-running-a-multi-channel-campaign-for-a-new-product-launch-how-can-i-view-the-performance-for-this-campaign-across-all-the-different-channels-in-one-place}
 
@@ -59,7 +59,7 @@ MPI는 모든 기회가 분석에 포함되는지 여부를 계산합니다. 그
 
 1. 기본값 - 기본 동작은 0달러가 지정된 기간도 하나 이상의 기간 비용이 있는 경우에만 프로그램이 MPI에 포함됩니다.
 1. 포함 - 이 옵션은 기간 비용을 포함했는지 여부와 관계없이 프로그램을 MPI에서 사용할 수 있도록 합니다.
-1. [작동](http://docs.marketo.com/display/DOCS/Best+Practice%3A+How+to+Organize+your+Programs#BestPractice:HowtoOrganizeyourPrograms-OperationalPrograms)  - 이 옵션을 선택하면 프로그램이 MPI에 표시되지 않습니다.
+1. [작동](https://docs.marketo.com/display/DOCS/Best+Practice%3A+How+to+Organize+your+Programs#BestPractice:HowtoOrganizeyourPrograms-OperationalPrograms)  - 이 옵션을 선택하면 프로그램이 MPI에 표시되지 않습니다.
 
 >[!NOTE]
 >
@@ -82,7 +82,7 @@ MPI는 모든 기회가 분석에 포함되는지 여부를 계산합니다. 그
 
 ## 표준 Salesforce 기회 금액 필드가 아닌 매출 보고를 위해 사용자 정의 Salesforce 기회 필드를 사용하려고 합니다. MPI를 통해 그렇게 할 수 있습니까?{#i-want-to-use-a-custom-salesforce-opportunity-field-for-revenue-reporting-instead-of-the-standard-salesforce-opportunity-amount-field-will-mpi-allow-me-to-do-that}
 
-네. [Marketing ](http://docs.marketo.com/cdn-cgi/l/email-protection#b5c6c0c5c5dac7c1f5d8d4c7ded0c1da9bd6dad8) To Support는 필드 유형이 통화인 경우 Marketing To의 Opportunity Amount 필드를 사용자 지정 Salesforce Opportunity 필드에 다시 매핑할 수 있습니다. MPI가 Marketing to Opportunity 금액 필드를 가리키기 때문에 MPI는 다시 매핑된 사용자 지정 Salesforce 필드의 데이터를 사용할 수 있습니다.
+네. [Marketing ](https://docs.marketo.com/cdn-cgi/l/email-protection#b5c6c0c5c5dac7c1f5d8d4c7ded0c1da9bd6dad8) To Support는 필드 유형이 통화인 경우 Marketing To의 Opportunity Amount 필드를 사용자 지정 Salesforce Opportunity 필드에 다시 매핑할 수 있습니다. MPI가 Marketing to Opportunity 금액 필드를 가리키기 때문에 MPI는 다시 매핑된 사용자 지정 Salesforce 필드의 데이터를 사용할 수 있습니다.
 
 >[!NOTE]
 >
@@ -100,11 +100,11 @@ MPI는 깔때기 아래쪽의 프로그램 성능을 매출 영향에 맞게 측
 
 ## MPI에서 계정 기반 전략의 성공을 측정할 수 있습니까?{#can-i-measure-the-success-of-account-based-strategies-in-mpi}
 
-네. MPI는 [Markto ABM](http://docs.marketo.com/display/DOCS/Account+Based+Marketing+Overview)과 통합되어 ABM 계정 목록을 MPI로 원활하게 가져옵니다. ABM 계정 목록 필터를 사용하여 원하는 ABM 목록을 선택하여 데이터를 필터링할 수 있습니다.
+네. MPI는 [Markto ABM](https://docs.marketo.com/display/DOCS/Account+Based+Marketing+Overview)과 통합되어 ABM 계정 목록을 MPI로 원활하게 가져옵니다. ABM 계정 목록 필터를 사용하여 원하는 ABM 목록을 선택하여 데이터를 필터링할 수 있습니다.
 
 ## MPI를 구입하면 속성 기능을 즉시 사용할 수 있습니까?{#is-attribution-instantly-available-when-i-purchase-mpi}
 
-MPI를 구입할 때 Marketing To Attribution 기능을 사용할 수 있습니다. 그러나 기회와 프로그램 데이터가 MPI에 올바르게 입력되도록 하려면 [적절한 설정](http://docs.marketo.com/x/mRPG)이 필요합니다.
+MPI를 구입할 때 Marketing To Attribution 기능을 사용할 수 있습니다. 그러나 기회와 프로그램 데이터가 MPI에 올바르게 입력되도록 하려면 [적절한 설정](https://docs.marketo.com/x/mRPG)이 필요합니다.
 
 ## 속성을 설정하려면 어떻게 해야 합니까?{#what-do-i-have-to-do-to-set-up-attribution}
 
@@ -125,7 +125,7 @@ MPI를 구입할 때 Marketing To Attribution 기능을 사용할 수 있습니�
 
 >[!TIP]
 >
->필요한 모든 설정 단계는 [이 문서](http://docs.marketo.com/x/mRPG)에 자세히 설명되어 있습니다.
+>필요한 모든 설정 단계는 [이 문서](https://docs.marketo.com/x/mRPG)에 자세히 설명되어 있습니다.
 
 ## MPI와 프로그램 분석기의 차이점은 무엇입니까?{#whats-the-difference-between-mpi-and-the-program-analyzer}
 
