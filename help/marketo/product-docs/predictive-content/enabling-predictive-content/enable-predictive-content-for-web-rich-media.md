@@ -3,7 +3,7 @@ unique-page-id: 7514956
 description: 웹 리치 미디어용 예측 컨텐츠 활성화 - 마케팅 문서 - 제품 설명서
 title: 웹 리치 미디어용 예측 컨텐츠 사용
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
 workflow-type: tm+mt
 source-wordcount: '280'
 ht-degree: 0%
@@ -19,7 +19,7 @@ ht-degree: 0%
 >
 >예측 컨텐츠를 활성화하려면 먼저 다음을 수행해야 합니다.
 >
->* [예측 컨텐츠 준비](http://docs.marketo.com/display/docs/edit+predictive+content)
+>* [예측 컨텐츠 준비](https://docs.marketo.com/display/docs/edit+predictive+content)
 >* [예측 컨텐트에 대한 제목 승인](/help/marketo/product-docs/predictive-content/working-with-all-content/approve-a-title-for-predictive-content.md)
 
 >
@@ -42,7 +42,7 @@ ht-degree: 0%
 
 ## Javascript 코드를 사용자 지정하고 웹 사이트 {#customize-the-javascript-code-and-embed-it-into-your-website}에 포함
 
-Marketing To 개발자 사이트에서 리치 미디어 권장 사항 템플릿 [에 대한 설명서를 참조하십시오.](http://developers.marketo.com/documentation/websites/rtp-rich-media-recommendations-api)웹 사이트의 템플릿을 사용자 지정하는 방법을 설명합니다.
+Marketing To 개발자 사이트에서 리치 미디어 권장 사항 템플릿 [에 대한 설명서를 참조하십시오.](https://developers.marketo.com/documentation/websites/rtp-rich-media-recommendations-api)웹 사이트의 템플릿을 사용자 지정하는 방법을 설명합니다.
 
 템플릿을 표시할 위치의 웹 사이트에 JavaScript 코드를 붙여넣습니다.
 
@@ -62,5 +62,5 @@ Marketing To 개발자 사이트에서 리치 미디어 권장 사항 템플릿 
 >[!MORELIKETHIS]
 >
 >* [컨텐츠 권장 사항 막대 활성화](enable-the-content-recommendation-bar.md)
->* [이메일에서 예측 컨텐츠 사용](http://docs.marketo.com/x/vLit)
+>* [이메일에서 예측 컨텐츠 사용](https://docs.marketo.com/x/vLit)
 
