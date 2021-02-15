@@ -3,7 +3,7 @@ unique-page-id: 2360014
 description: 사람 성과 보고서 - 마케팅 문서 - 제품 설명서
 title: 사람 성과 보고서
 translation-type: tm+mt
-source-git-commit: d7d6aee63144c472e02fe0221c4a164183d04dd4
+source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
 workflow-type: tm+mt
 source-wordcount: '298'
 ht-degree: 0%
@@ -41,12 +41,12 @@ ht-degree: 0%
 
 >[!TIP]
 >
->보고서는 [만들기](../../../../product-docs/reporting/basic-reporting/creating-reports/create-a-report-in-a-program.md), [구성](http://docs.marketo.com/display/docs/basic+reporting) 및 [delete](../../../../product-docs/reporting/basic-reporting/report-activity/delete-a-report.md)가 간편합니다. 주요 데이터에 집중할 수 있는 최상의 방법을 살펴보려면 이러한 데이터를 조작할 수 있는 다양한 방법을 활용하십시오.
+>보고서는 [만들기](../../../../product-docs/reporting/basic-reporting/creating-reports/create-a-report-in-a-program.md), [구성](https://docs.marketo.com/display/docs/basic+reporting) 및 [delete](../../../../product-docs/reporting/basic-reporting/report-activity/delete-a-report.md)가 간편합니다. 주요 데이터에 집중할 수 있는 최상의 방법을 살펴보려면 이러한 데이터를 조작할 수 있는 다양한 방법을 활용하십시오.
 
 >[!NOTE]
 >
 >**자세히 알아보기**
 >
 >
->[기본 보고](http://docs.marketo.com/display/docs/basic+reporting)딥 다이빙
+>[기본 보고](https://docs.marketo.com/display/docs/basic+reporting)딥 다이빙
 
