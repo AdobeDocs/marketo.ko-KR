@@ -3,7 +3,7 @@ unique-page-id: 3571816
 description: 3단계 중 2단계 - Marketing용 동기화 사용자 구성(2013년 온프레미스) - Marketing Docs - 제품 설명서
 title: 3단계 중 2단계 - 마케팅에 대한 동기화 사용자 구성(2013 온-프레미스)
 translation-type: tm+mt
-source-git-commit: 2b5ccd7220557a5e966d33436d0f0d2a65e4589d
+source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
 workflow-type: tm+mt
 source-wordcount: '335'
 ht-degree: 0%
@@ -35,7 +35,7 @@ Marketing to Sync 사용자 역할을 Marketing Cloud에 할당하여 사용자�
 
    ![](assets/image2014-12-11-11-3a13-3a29.png)
 
-1. 여기에 사용자 목록이 표시됩니다. 전용 Marketing to Sync 사용자를 선택하거나 [AFDS(Active Directory Federation Services)](https://msdn.microsoft.com/en-us/library/bb897402.aspx) [관리자에게 문의하여 Marketing To 전용 사용자를 새로 만듭니다.](http://blogs.technet.com/b/askpfeplat/archive/2014/04/21/introduction-to-active-directory-federation-services-ad-fs-alternateloginid-feature.aspx)
+1. 여기에 사용자 목록이 표시됩니다. 전용 Marketing to Sync 사용자를 선택하거나 [AFDS(Active Directory Federation Services)](https://msdn.microsoft.com/en-us/library/bb897402.aspx) [관리자에게 문의하여 Marketing To 전용 사용자를 새로 만듭니다.](https://blogs.technet.com/b/askpfeplat/archive/2014/04/21/introduction-to-active-directory-federation-services-ad-fs-alternateloginid-feature.aspx)
 
    ![](assets/image2015-3-26-10-3a39-3a35.png)
 
