@@ -3,7 +3,7 @@ unique-page-id: 42762519
 description: 기존 고객을 위한 구성 - 마케팅 문서 - 제품 설명서
 title: 기존 고객을 위한 구성
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
 workflow-type: tm+mt
 source-wordcount: '183'
 ht-degree: 0%
@@ -22,6 +22,7 @@ ht-degree: 0%
 ## Marketing에서 {#configure-sales-insight-in-marketo} 영업 인사이트 구성
 
 1. 브라우저에서 새 탭을 열어 Marketing To 계정에서 Marketing to Sales Insights 자격 증명을 얻습니다.
+
 1. **관리** 영역으로 이동합니다.
 
    ![](assets/configure-1.png)
@@ -63,7 +64,7 @@ ht-degree: 0%
 ## Marketing To Sales Insight {#access-marketo-sales-insight} 액세스
 
 1. Marketing의 Sales Insight 관리 페이지의 Rest API 패널에서 자격 증명을 복사합니다. Salesforce의 Sales Insight 구성 페이지의 Rest API 섹션에 붙여 넣습니다.
+
 1. API 비밀 키를 입력합니다.
 
    ![](assets/config.png)
-
