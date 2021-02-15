@@ -3,7 +3,7 @@ unique-page-id: 2951042
 description: 릴리스 노트 - 2014년 6월 - Marketing Docs - 제품 설명서
 title: 릴리스 노트 - 2014년 6월
 translation-type: tm+mt
-source-git-commit: 96cc6a30c63c8e8dca793a52e4bf7ecaef8c08dc
+source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
 workflow-type: tm+mt
 source-wordcount: '255'
 ht-degree: 0%
@@ -35,7 +35,7 @@ Sales Insight에서 테스트 이메일을 보내면 현재 이메일의 토큰�
 
 ## 리드 ReST API {#lead-rest-api}
 
-새로운 ReST API를 통해 프로그래밍 방식으로 리드를 생성, 읽기 및 업데이트할 수 있습니다. ReST를 시작하려면 Marketing To에서 [사용자 지정 서비스](../../product-docs/administration/additional-integrations/create-a-custom-service-for-use-with-rest-api.md)를 만들어야 합니다. 그런 다음 이 API 사용에 대한 자세한 내용을 보려면 [개발자 사이트](http://developers.marketo.com/documentation/rest/)로 이동하십시오.
+새로운 ReST API를 통해 프로그래밍 방식으로 리드를 생성, 읽기 및 업데이트할 수 있습니다. ReST를 시작하려면 Marketing To에서 [사용자 지정 서비스](../../product-docs/administration/additional-integrations/create-a-custom-service-for-use-with-rest-api.md)를 만들어야 합니다. 그런 다음 이 API 사용에 대한 자세한 내용을 보려면 [개발자 사이트](https://developers.marketo.com/documentation/rest/)로 이동하십시오.
 
 ## Marketing To Real-Time Personalization (RTP) 캠페인 페이지 업데이트 {#marketo-real-time-personalization-rtp-campaigns-page-update}
 
