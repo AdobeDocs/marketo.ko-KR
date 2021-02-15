@@ -3,7 +3,7 @@ unique-page-id: 14352407
 description: 전달 채널 개요 - 마케팅 문서 - 제품 설명서
 title: 전달 채널 개요
 translation-type: tm+mt
-source-git-commit: 1dd80b7de801df78ac7dde39002455063f9979b7
+source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
 workflow-type: tm+mt
 source-wordcount: '456'
 ht-degree: 0%
@@ -47,4 +47,4 @@ Adobe는 Sales Connect 이메일을 전달할 단일 Gmail 계정(이메일 주�
 
 ## 사용자 지정 SMTP 서버 {#custom-smtp-server}
 
-서버 비용을 지불하시겠습니까? Microsoft Exchange 환경을 사용하십니까? 이 옵션은 사용자에게 적합합니다. 설정 시 [다음 지침](http://docs.marketo.com/x/zYTS)을 확인하십시오. Gmail 서버와 마찬가지로 Sales Connect는 서버를 직접 관리하지 않으므로 웹 응용 프로그램에 바운스된 이메일 이벤트를 기록하지 않습니다.
+서버 비용을 지불하시겠습니까? Microsoft Exchange 환경을 사용하십니까? 이 옵션은 사용자에게 적합합니다. 설정 시 [다음 지침](https://docs.marketo.com/x/zYTS)을 확인하십시오. Gmail 서버와 마찬가지로 Sales Connect는 서버를 직접 관리하지 않으므로 웹 응용 프로그램에 바운스된 이메일 이벤트를 기록하지 않습니다.
