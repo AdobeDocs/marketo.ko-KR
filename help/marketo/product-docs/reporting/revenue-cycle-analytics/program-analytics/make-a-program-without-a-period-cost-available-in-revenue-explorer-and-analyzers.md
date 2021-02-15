@@ -3,7 +3,7 @@ unique-page-id: 2360389
 description: 수익 탐색기 및 분석기에서 기간 비용 없이 프로그램 만들기 - Marketing To Docs - 제품 설명서
 title: 매출 탐색기 및 분석기에서 기간 비용 없이 프로그램 만들기
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
 workflow-type: tm+mt
 source-wordcount: '259'
 ht-degree: 0%
@@ -13,7 +13,7 @@ ht-degree: 0%
 
 # 매출 탐색기 및 분석기에서 기간 비용 없이 프로그램 만들기 {#make-a-program-without-a-period-cost-available-in-revenue-explorer-and-analyzers}
 
-프로그램 기간 비용을 사용하면 프로그램에 대해 &quot;얼마나 많은 금액&quot; 및 &quot;언제&quot;을 정의할 수 있습니다. 이것은 [매출 주기 탐색기](http://docs.marketo.com/display/docs/revenue+cycle+analytics) 및 [분석기](../../../../product-docs/reporting/revenue-cycle-analytics/opportunity-influence-analyzer/tell-the-marketing-story-with-an-opportunity-influence-analyzer.md)에 표시됩니다.
+프로그램 기간 비용을 사용하면 프로그램에 대해 &quot;얼마나 많은 금액&quot; 및 &quot;언제&quot;을 정의할 수 있습니다. 이것은 [매출 주기 탐색기](https://docs.marketo.com/display/docs/revenue+cycle+analytics) 및 [분석기](../../../../product-docs/reporting/revenue-cycle-analytics/opportunity-influence-analyzer/tell-the-marketing-story-with-an-opportunity-influence-analyzer.md)에 표시됩니다.
 
 >[!NOTE]
 >
