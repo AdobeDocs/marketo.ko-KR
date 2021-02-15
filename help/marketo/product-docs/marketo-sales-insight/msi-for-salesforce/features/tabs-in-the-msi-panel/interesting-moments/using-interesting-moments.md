@@ -3,7 +3,7 @@ unique-page-id: 2951640
 description: 관심 있는 순간 사용 - Marketing To Docs - 제품 설명서
 title: 관심 항목 사용
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
 workflow-type: tm+mt
 source-wordcount: '337'
 ht-degree: 0%
@@ -17,7 +17,7 @@ ht-degree: 0%
 
 >[!AVAILABILITY]
 >
->Marketing To Sales Insight 및 [Marketing To Sales Connect](http://docs.marketo.com/x/fgTLAQ) 고객에게만 제공됩니다.
+>Marketing To Sales Insight 및 [Marketing To Sales Connect](https://docs.marketo.com/x/fgTLAQ) 고객에게만 제공됩니다.
 
 ## 흥미로운 순간은 무엇인가? {#what-is-an-interesting-moment}
 
