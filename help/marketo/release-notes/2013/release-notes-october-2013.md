@@ -3,7 +3,7 @@ unique-page-id: 2951054
 description: 릴리스 노트 - 2013년 10월 - Marketing Docs - 제품 설명서
 title: 릴리스 노트 - 2013년 10월
 translation-type: tm+mt
-source-git-commit: 96cc6a30c63c8e8dca793a52e4bf7ecaef8c08dc
+source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
 workflow-type: tm+mt
 source-wordcount: '161'
 ht-degree: 0%
@@ -13,15 +13,15 @@ ht-degree: 0%
 
 # 릴리스 노트:2013년 10월 {#release-notes-october}
 
-다음 기능은 2013년 10월 릴리스에 포함되어 있습니다. 기능을 사용할 수 있는지 확인하려면 [Marketing Edition](http://docs.marketo.com/display/docs/assets/pricing.php)을 확인하십시오.
+다음 기능은 2013년 10월 릴리스에 포함되어 있습니다. 기능을 사용할 수 있는지 확인하려면 [Marketing Edition](https://docs.marketo.com/display/docs/assets/pricing.php)을 확인하십시오.
 
 ## templates.markto.com {#templates-marketo-com}
 
-[Templates.marketing.](http://templates.marketo.com) com 마케팅 프로그램 라이브러리에서 다운로드할 수 있는 이메일 및 랜딩 페이지 템플릿(반응형 모바일 이메일 템플릿 포함)을 쇼케이프합니다. 템플릿을 매월 추가하고 자주 확인하겠습니다!
+[Templates.marketing.](https://templates.marketo.com) com 마케팅 프로그램 라이브러리에서 다운로드할 수 있는 이메일 및 랜딩 페이지 템플릿(반응형 모바일 이메일 템플릿 포함)을 쇼케이프합니다. 템플릿을 매월 추가하고 자주 확인하겠습니다!
 
 ## developers.markto.com {#developers-marketo-com}
 
-[Marketing To](http://developers.marketo.com) 에 통합을 구축하려는 개발자를 위한 Developers.markto.comis Munchkin JavaScript API, SOAP API 코드 예, Webhook 및 이메일 스크립팅을 포함하여 다양한 통합 옵션을 참조할 수 있습니다. Java SDK는 [GitHub](https://github.com/Marketo/SOAP-API-Java-Client)에서도 사용할 수 있습니다.
+[Marketing To](https://developers.marketo.com) 에 통합을 구축하려는 개발자를 위한 Developers.markto.comis Munchkin JavaScript API, SOAP API 코드 예, Webhook 및 이메일 스크립팅을 포함하여 다양한 통합 옵션을 참조할 수 있습니다. Java SDK는 [GitHub](https://github.com/Marketo/SOAP-API-Java-Client)에서도 사용할 수 있습니다.
 
 ## 업데이트된 BrightTALK 이벤트 어댑터 {#updated-brighttalk-event-adapter}
 
