@@ -3,7 +3,7 @@ unique-page-id: 17727823
 description: 릴리스 노트 -19년 겨울 - 마케팅 문서 - 제품 설명서
 title: 릴리스 노트 -19년 겨울
 translation-type: tm+mt
-source-git-commit: 309f299275bfe75e8af0150be0a5ffdf28a54cf8
+source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
 workflow-type: tm+mt
 source-wordcount: '1112'
 ht-degree: 0%
@@ -40,11 +40,11 @@ Marketing To를 통해 보낸 이메일에 수신자당 최대 5개의 CC 주소
 * **에셋 API에 대한 다중 브랜딩 도메인 지원: 에셋** 승인 및 복제는 API 및 UI 내에서 동일한 결과를 생성합니다.
 * **에셋 API에 대한 이메일 CC 지원**:API를 통해 이메일을 복제, 승인 및 처리하는 사용자는 UI 설정과 동등함을 유지합니다.
 
-** [Munchkin v155 (베타)](http://developers.marketo.com/javascript-api/lead-tracking/configuration/)**
+** [Munchkin v155 (베타)](https://developers.marketo.com/javascript-api/lead-tracking/configuration/)**
 
 * **API 전용 모드**:이제 사용자는 Marketing의 자동 추적에 의존하지 않고 단일 페이지 웹 앱이 웹 페이지 방문을 기록할 때 명시적으로 호출할 수 있도록 허용하여 데이터베이스의 구성원을 추적하는 시기와 방법을 결정할 수 있습니다.
 * **옵트아웃 관리**:옵트아웃 쿠키 도메인과 Munchkin 추적 쿠키 도메인을 일치시켜 옵트아웃을 손쉽게 관리할 수 있습니다.
-* **도메인 수준 데시더 매개 변수**:두 문자 도메인(예:&quot; [website.io](http://website.io)&quot;)는 추가 설정 요구 사항 없이 Marketing To에서 자동으로 추적됩니다.
+* **도메인 수준 데시더 매개 변수**:두 문자 도메인(예:&quot; [website.io](https://website.io)&quot;)는 추가 설정 요구 사항 없이 Marketing To에서 자동으로 추적됩니다.
 
 ## Marketing To Sales Engage {#marketo-sales-engage}
 
@@ -103,10 +103,10 @@ Marketing To를 통해 보낸 이메일에 수신자당 최대 5개의 CC 주소
 
 **Android용 MME SDK(Software Development Kit) 업데이트**
 
-Android용 SDK가 유연성과 새로운 엔지니어링 기능이 포함된 보다 현대적이고 안정적이며 확장 가능한 프레임워크로 업데이트되었습니다. 이제 Android 앱 개발자는 이 새로운 SDK와 함께 Google의 [Firebase Cloud Messaging](http://firebase.google.com/docs/cloud-messaging/)(FCM)을 직접 사용할 수 있습니다.
+Android용 SDK가 유연성과 새로운 엔지니어링 기능이 포함된 보다 현대적이고 안정적이며 확장 가능한 프레임워크로 업데이트되었습니다. 이제 Android 앱 개발자는 이 새로운 SDK와 함께 Google의 [Firebase Cloud Messaging](https://firebase.google.com/docs/cloud-messaging/)(FCM)을 직접 사용할 수 있습니다.
 
-* [개발자 지침](http://developers.marketo.com/mobile/installation/#android_adding_fcm_to_your_application)
-* [개발자 FAQ](http://developers.marketo.com/mobile/installation/#android_fcm_faq)
+* [개발자 지침](https://developers.marketo.com/mobile/installation/#android_adding_fcm_to_your_application)
+* [개발자 FAQ](https://developers.marketo.com/mobile/installation/#android_fcm_faq)
 
 >[!NOTE]
 >
