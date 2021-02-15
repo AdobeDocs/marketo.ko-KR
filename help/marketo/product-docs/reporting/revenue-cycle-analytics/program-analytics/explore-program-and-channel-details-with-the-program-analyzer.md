@@ -3,7 +3,7 @@ unique-page-id: 2360437
 description: 프로그램 분석기를 사용한 프로그램 및 채널 세부 정보 - 마케팅 문서 - 제품 설명서
 title: 프로그램 분석기를 사용하여 프로그램 및 채널 세부 사항 살펴보기
 translation-type: tm+mt
-source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
+source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
 workflow-type: tm+mt
 source-wordcount: '212'
 ht-degree: 0%
@@ -59,4 +59,4 @@ ht-degree: 0%
 
    >[!NOTE]
    >
-   >[매출 탐색기](http://docs.marketo.com/display/docs/revenue+explorer)의 고급 분석에 대해 자세히 알아보십시오.
+   >[매출 탐색기](https://docs.marketo.com/display/docs/revenue+explorer)의 고급 분석에 대해 자세히 알아보십시오.
