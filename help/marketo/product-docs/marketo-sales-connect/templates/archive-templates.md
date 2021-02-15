@@ -3,7 +3,7 @@ unique-page-id: 14352640
 description: 템플릿 보관 - 마케팅 문서 - 제품 설명서
 title: 템플릿 보관
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
 workflow-type: tm+mt
 source-wordcount: '79'
 ht-degree: 0%
@@ -22,4 +22,3 @@ ht-degree: 0%
 >템플릿이 보관되면 편집하거나 사용할 수 없습니다. 다시 사용하려면 템플릿을 보관에서 다른 카테고리로 이동합니다.
 
 90일 이상 사용되지 않은 템플릿을 보고 보관하려면 사용하지 않음 필터를 선택할 수도 있습니다.
-
