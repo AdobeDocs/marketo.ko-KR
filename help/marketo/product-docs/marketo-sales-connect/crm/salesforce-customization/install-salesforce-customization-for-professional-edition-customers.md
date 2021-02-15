@@ -3,7 +3,7 @@ unique-page-id: 27656223
 description: Professional Edition 고객을 위한 Salesforce Customization 설치 - Marketing To Docs - 제품 설명서
 title: Professional Edition 고객을 위한 Salesforce Customization 설치
 translation-type: tm+mt
-source-git-commit: 1dd80b7de801df78ac7dde39002455063f9979b7
+source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
 workflow-type: tm+mt
 source-wordcount: '272'
 ht-degree: 0%
@@ -57,6 +57,6 @@ Salesforce Professional Edition 고객은 다음 단계에 따라 사용자 지�
 
 ## 안내선 {#guides}
 
-[Salesforce Classic 설치 안내서](http://s3.amazonaws.com/tout-user-store/salesforce/assets/Marketo+Sales+Engage+For+Salesforce_+Installation+and+Success+Guide.pdf)
+[Salesforce Classic 설치 안내서](https://s3.amazonaws.com/tout-user-store/salesforce/assets/Marketo+Sales+Engage+For+Salesforce_+Installation+and+Success+Guide.pdf)
 
-[Salesforce Lightning 설치 안내서](http://s3.amazonaws.com/tout-user-store/salesforce/assets/SF+Guide+for+Lightning.pdf)
+[Salesforce Lightning 설치 안내서](https://s3.amazonaws.com/tout-user-store/salesforce/assets/SF+Guide+for+Lightning.pdf)
