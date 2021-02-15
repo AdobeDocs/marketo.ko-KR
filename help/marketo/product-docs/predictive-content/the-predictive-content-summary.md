@@ -3,7 +3,7 @@ unique-page-id: 11384634
 description: 예측 컨텐츠 요약 - 마케팅 문서 - 제품 설명서
 title: 예측 컨텐츠 요약
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
 workflow-type: tm+mt
 source-wordcount: '255'
 ht-degree: 0%
@@ -55,8 +55,8 @@ ht-degree: 0%
 
 >[!MORELIKETHIS]
 >
->* [모든 컨텐츠 작업](http://docs.marketo.com/display/docs/working+with+all+content)
->* [예측 컨텐츠 작업](http://docs.marketo.com/display/docs/working+with+predictive+content)
+>* [모든 컨텐츠 작업](https://docs.marketo.com/display/docs/working+with+all+content)
+>* [예측 컨텐츠 작업](https://docs.marketo.com/display/docs/working+with+predictive+content)
 
 >
 
