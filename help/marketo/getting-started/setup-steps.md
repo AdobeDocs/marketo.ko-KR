@@ -3,7 +3,7 @@ unique-page-id: 2949469
 description: 설정 단계 - 마케팅 문서 - 제품 설명서
 title: 설정 단계
 translation-type: tm+mt
-source-git-commit: 0a4050545c5c956001c9c299cfbcf59e9cffd39c
+source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
 workflow-type: tm+mt
 source-wordcount: '2143'
 ht-degree: 0%
@@ -330,7 +330,7 @@ IT로 이메일을 보냅니다. IT 팀에서 이러한 작업을 완료하는 �
    >
    >이러한 사용자 정의 템플릿은 Launch Pack 고객에게만 제공됩니다.
 
-   [마케팅 템플릿 디자인 및 빌드](http://pages2.marketo.com/CESubmit-URL-ForTemplates.html) 양식으로 이동합니다. 회사 정보를 입력합니다.
+   [마케팅 템플릿 디자인 및 빌드](https://pages2.marketo.com/CESubmit-URL-ForTemplates.html) 양식으로 이동합니다. 회사 정보를 입력합니다.
 
    ![](assets/image2014-9-12-11-3a4-3a55.png)
 
