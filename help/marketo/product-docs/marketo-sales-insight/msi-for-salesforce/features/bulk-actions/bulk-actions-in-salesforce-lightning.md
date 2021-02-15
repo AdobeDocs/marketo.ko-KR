@@ -3,7 +3,7 @@ unique-page-id: 37356282
 description: Salesforce Lightning의 일괄 작업 - Marketing To Docs - 제품 설명서
 title: Salesforce Lightning의 일괄 작업
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
 workflow-type: tm+mt
 source-wordcount: '119'
 ht-degree: 0%
@@ -48,4 +48,3 @@ Salesforce Lightning에서 일괄 작업을 설정하는 방법을 소개합니�
    >[!NOTE]
    >
    >연락처 목록 보기에서 일괄 작업을 추가하려면 동일한 단계를 반복합니다.
-
