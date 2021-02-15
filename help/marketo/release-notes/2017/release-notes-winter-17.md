@@ -3,7 +3,7 @@ unique-page-id: 12255606
 description: 릴리스 노트 -17년 겨울 - 마케팅 문서 - 제품 설명서
 title: 릴리스 노트 -17년 겨울
 translation-type: tm+mt
-source-git-commit: 8c4f0985e11ed85a9f696ac2ff89c089aa9184c3
+source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
 workflow-type: tm+mt
 source-wordcount: '400'
 ht-degree: 0%
@@ -27,7 +27,7 @@ ht-degree: 0%
 
 ![](assets/fb-custom-audiences-schebsches.png)
 
-## [사용자 지정 개체 가져오기 API](http://developers.marketo.com/rest-api/lead-database/custom-objects/) {#custom-object-import-api}
+## [사용자 지정 개체 가져오기 API](https://developers.marketo.com/rest-api/lead-database/custom-objects/) {#custom-object-import-api}
 
 이 API는 사용자 지정 개체를 Marketing To에 동기화하는 더 빠른 인터페이스를 제공합니다. CSV, TSV 또는 SSV 스프레드시트 파일을 Marketing으로 사용자 지정 개체로 가져올 수 있습니다.
 
@@ -37,7 +37,7 @@ ht-degree: 0%
 
 ![](assets/web-personalization-csv-download-hand.png)
 
-## [현지화](http://docs.marketo.com/display/docs/web+personalization) {#localization}
+## [현지화](https://docs.marketo.com/display/docs/web+personalization) {#localization}
 
 웹 개인화, 예측 컨텐츠 및 이메일 인사이트 앱은 이제 일본어, 독일어 및 스페인어로 제공됩니다. [언어 및 로케일](/help/marketo/product-docs/administration/settings/select-your-language-locale-and-time-zone.md)을 선택하여 해당 언어로 컨텐트를 봅니다.
 
@@ -71,7 +71,7 @@ ht-degree: 0%
 
 ![](assets/predictive-content-analytics-by-source.png)
 
-**[예측 컨텐츠 편집기](http://docs.marketo.com/display/docs/edit+predictive+content)**
+**[예측 컨텐츠 편집기](https://docs.marketo.com/display/docs/edit+predictive+content)**
 
 이메일, 리치 미디어, 추천 막대 등 소스별로 컨텐츠 준비를 분할하는 향상된 편집 경험과 레이아웃을 제공합니다.
 
@@ -81,7 +81,7 @@ ht-degree: 0%
 
 이제 이미지 URL 및 메타데이터가 컨텐츠 자동 검색 프로세스에서 사용됩니다.
 
-## [SDK 개선 사항](http://developers.marketo.com/mobile/) {#sdk-enhancements}
+## [SDK 개선 사항](https://developers.marketo.com/mobile/) {#sdk-enhancements}
 
 개발자는 개발자가 푸시 토큰을 제거할 수 있도록 하는 새로운 SDK API 호출을 추가하여 푸시 알림 전달에 대한 추가 제어 권한을 가집니다.
 
