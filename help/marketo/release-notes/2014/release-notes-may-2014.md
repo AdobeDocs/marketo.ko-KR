@@ -3,7 +3,7 @@ unique-page-id: 2951044
 description: 릴리스 노트 - 2014년 5월 - Marketing Docs - 제품 설명서
 title: 릴리스 노트 - 2014년 5월
 translation-type: tm+mt
-source-git-commit: 96cc6a30c63c8e8dca793a52e4bf7ecaef8c08dc
+source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
 workflow-type: tm+mt
 source-wordcount: '476'
 ht-degree: 0%
@@ -39,7 +39,7 @@ ht-degree: 0%
 >
 >**예**
 >
->[[http://www.marketo.com](http://www.marketo.com)]
+>[[https://www.marketo.com](https://www.marketo.com)]
 
 기본적으로 이메일의 텍스트 버전에서는 링크가 추적되지 않습니다. 링크를 추적 링크로 변환해야 하는 시기를 나타내기 위해 이 새 구문을 추가합니다. HTML 링크의 동작은 변경되지 않습니다.  추적된 링크를 이메일에 추가하려면:
 
@@ -85,5 +85,5 @@ AppExchange에서 최신 버전의 Sales Insight를 다운로드할 수 있으�
 
 >[!NOTE]
 >
->이전 [마케팅 릴리스 노트](http://docs.marketo.com/display/docs/release+notes) 확인
+>이전 [마케팅 릴리스 노트](https://docs.marketo.com/display/docs/release+notes) 확인
 
