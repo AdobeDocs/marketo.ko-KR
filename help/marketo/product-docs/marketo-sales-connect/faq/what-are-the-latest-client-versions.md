@@ -3,7 +3,7 @@ unique-page-id: 14352422
 description: 최신 클라이언트 버전이란 무엇입니까? - 마케팅 문서 - 제품 설명서
 title: 최신 클라이언트 버전이란 무엇입니까?
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
 workflow-type: tm+mt
 source-wordcount: '71'
 ht-degree: 5%
@@ -43,4 +43,3 @@ ht-degree: 5%
 >[!NOTE]
 >
 >Adobe는 현재 Chrome 외의 다른 브라우저에 최적화되어 있지 않습니다. 이것은 우리 제품 팀이 알고 있고 앞으로 해결할 수 있기를 바라는 것입니다.
-
