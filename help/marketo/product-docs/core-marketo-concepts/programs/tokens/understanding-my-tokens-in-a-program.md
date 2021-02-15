@@ -3,7 +3,7 @@ unique-page-id: 1147114
 description: 프로그램의 내 토큰 이해 - Marketing To Docs - 제품 문서
 title: 프로그램의 내 토큰 이해
 translation-type: tm+mt
-source-git-commit: e5050328cbddaf072dd60ddd8d7363a704e720b5
+source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
 workflow-type: tm+mt
 source-wordcount: '416'
 ht-degree: 0%
@@ -46,7 +46,7 @@ ht-degree: 0%
   </tr> 
   <tr> 
    <td>이메일 스크립트 <img alt="—" src="assets/image2014-9-25-16-3a45-3a4.png" data-linked-resource-id="3083232" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="1147114"></td> 
-   <td>이 토큰을 사용하여 이메일에서 Velocity 스크립트를 실행합니다. <a href="http://developers.marketo.com/documentation/email-scripting/" title="링크 따라하기" rel="nofollow">여기</a>에 대해 자세히 알아보십시오. </td> 
+   <td>이 토큰을 사용하여 이메일에서 Velocity 스크립트를 실행합니다. <a href="https://developers.marketo.com/documentation/email-scripting/" title="링크 따라하기" rel="nofollow">여기</a>에 대해 자세히 알아보십시오. </td> 
   </tr> 
   <tr> 
    <td>숫자<span> <img alt="—" src="assets/image2014-9-25-16-3a45-3a25.png" data-linked-resource-id="3083233" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="1147114"></span></td> 
