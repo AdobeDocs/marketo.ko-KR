@@ -3,7 +3,7 @@ unique-page-id: 12979012
 description: 성과 인사이트에서 필터링 - 마케팅 문서 - 제품 설명서
 title: 성과 인사이트에서 필터링
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
 workflow-type: tm+mt
 source-wordcount: '354'
 ht-degree: 0%
@@ -21,7 +21,7 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->현재 사용자 지정 속성은 [RCA](http://docs.marketo.com/x/lwIk)이(가) 활성화된 고객에게만 필터에서 사용할 수 있습니다.
+>현재 사용자 지정 속성은 [RCA](https://docs.marketo.com/x/lwIk)이(가) 활성화된 고객에게만 필터에서 사용할 수 있습니다.
 
 범주를 클릭하면 여러 하위 카테고리가 표시됩니다.
 
@@ -53,11 +53,11 @@ ht-degree: 0%
   </tr> 
   <tr> 
    <td colspan="1"><strong>ABM 명명 계정</strong></td> 
-   <td colspan="1">Marketing to ABM을 사용하는 경우, 이름이 지정된 모든 계정이 MPI에 동기화되고 'ABM Named Account' 필터를 통해 표시됩니다. 해당 계정에 결과를 필터링하는 지정된 계정을 선택할 수 있습니다.<a href="http://docs.marketo.com/x/eaCt" rel="nofollow">ABM 명명 계정에 대해 자세히 알아보십시오.</a></td> 
+   <td colspan="1">Marketing to ABM을 사용하는 경우, 이름이 지정된 모든 계정이 MPI에 동기화되고 'ABM Named Account' 필터를 통해 표시됩니다. 해당 계정에 결과를 필터링하는 지정된 계정을 선택할 수 있습니다.<a href="https://docs.marketo.com/x/eaCt" rel="nofollow">ABM 명명 계정에 대해 자세히 알아보십시오.</a></td> 
   </tr> 
   <tr> 
    <td colspan="1"><strong>사용자 지정 속성</strong></td> 
-   <td colspan="1"><p>이것은 사용자에 의해 결정됩니다. 기회 분석을 위해 <a href="http://docs.marketo.com/display/public/DOCS/Enabling+Custom+Field+Sync+for+Revenue+Cycle+Analytics" rel="nofollow">활성화한 모든 필드는 성능 인사이트에서 필터링할 수 있습니다.</a></p></td> 
+   <td colspan="1"><p>이것은 사용자에 의해 결정됩니다. 기회 분석을 위해 <a href="https://docs.marketo.com/display/public/DOCS/Enabling+Custom+Field+Sync+for+Revenue+Cycle+Analytics" rel="nofollow">활성화한 모든 필드는 성능 인사이트에서 필터링할 수 있습니다.</a></p></td> 
   </tr> 
   <tr> 
    <td colspan="1"><p><strong>투자 기간</strong></p></td> 
