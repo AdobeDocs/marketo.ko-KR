@@ -3,7 +3,7 @@ unique-page-id: 2359971
 description: 웹 페이지 활동 보고서 - 마케팅 문서 - 제품 설명서
 title: 웹 페이지 활동 보고서
 translation-type: tm+mt
-source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
+source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
 workflow-type: tm+mt
 source-wordcount: '347'
 ht-degree: 0%
@@ -94,4 +94,4 @@ ht-degree: 0%
 >
 >**자세히 알아보기**
 >
->[기본 보고](http://docs.marketo.com/display/docs/basic+reporting)에서 다른 관심 있는 보고서에 대해 알아봅니다.
+>[기본 보고](https://docs.marketo.com/display/docs/basic+reporting)에서 다른 관심 있는 보고서에 대해 알아봅니다.
