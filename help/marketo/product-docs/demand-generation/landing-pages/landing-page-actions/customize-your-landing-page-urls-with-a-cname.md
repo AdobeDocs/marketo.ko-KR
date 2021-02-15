@@ -3,7 +3,7 @@ unique-page-id: 2359746
 description: CNAME - Marketing To Docs - 제품 설명서를 사용하여 랜딩 페이지 URL 사용자 정의
 title: CNAME으로 랜딩 페이지 URL 사용자 정의
 translation-type: tm+mt
-source-git-commit: 2969e6f94f5fd781e2167ae2aa8680bb8d134754
+source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
 workflow-type: tm+mt
 source-wordcount: '254'
 ht-degree: 0%
@@ -15,11 +15,11 @@ ht-degree: 0%
 
 Marketing에서 랜딩 페이지를 호스트하지만 URL을 완전히 사용자 지정할 수 있습니다. CNAME이 없는 모양:
 
-`http://na-sj02.marketo.com/lp/mktodemoaccount126/UnsubscribePage.html`
+`https://na-sj02.marketo.com/lp/mktodemoaccount126/UnsubscribePage.html`
 
 모양:
 
-`http://go.YourCompany.com/UnsubscribePage.html`
+`https://go.YourCompany.com/UnsubscribePage.html`
 
 ## CNAME {#choose-a-cname} 선택
 
