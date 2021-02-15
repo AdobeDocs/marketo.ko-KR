@@ -3,7 +3,7 @@ unique-page-id: 2359987
 description: 기본 보고서 구독 - 마케팅 문서 - 제품 설명서
 title: 기본 보고서 구독
 translation-type: tm+mt
-source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
+source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
 workflow-type: tm+mt
 source-wordcount: '161'
 ht-degree: 0%
@@ -13,11 +13,11 @@ ht-degree: 0%
 
 # 기본 보고서 구독 {#subscribe-to-a-basic-report}
 
-[기본 보고서](http://docs.marketo.com/display/docs/basic+reporting)에 대한 자동 업데이트를 받거나 이 보고서를 공유하려면 기존 보고서에 이메일 주소를 가입하면 됩니다.
+[기본 보고서](https://docs.marketo.com/display/docs/basic+reporting)에 대한 자동 업데이트를 받거나 이 보고서를 공유하려면 기존 보고서에 이메일 주소를 가입하면 됩니다.
 
 >[!NOTE]
 >
->[매출 주기 탐색기](http://docs.marketo.com/display/docs/revenue+cycle+analytics) 보고서 구독의 경우 [매출 탐색기 보고서 구독](../../../../product-docs/reporting/revenue-cycle-analytics/revenue-explorer/subscribe-to-a-revenue-explorer-report.md)을 참조하십시오.
+>[매출 주기 탐색기](https://docs.marketo.com/display/docs/revenue+cycle+analytics) 보고서 구독의 경우 [매출 탐색기 보고서 구독](../../../../product-docs/reporting/revenue-cycle-analytics/revenue-explorer/subscribe-to-a-revenue-explorer-report.md)을 참조하십시오.
 
 1. **마케팅 활동 ** 영역으로 이동합니다.
 
@@ -58,5 +58,5 @@ ht-degree: 0%
    >**자세히 알아보기**
    >
    >
-   >[기본 보고](http://docs.marketo.com/display/docs/basic+reporting) 깊이 도에서 보고서를 사용하여 수행할 수 있는 또 다른 작업을 확인하십시오.
+   >[기본 보고](https://docs.marketo.com/display/docs/basic+reporting) 깊이 도에서 보고서를 사용하여 수행할 수 있는 또 다른 작업을 확인하십시오.
 
