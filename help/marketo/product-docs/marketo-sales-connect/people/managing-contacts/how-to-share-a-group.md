@@ -3,7 +3,7 @@ unique-page-id: 14352511
 description: 그룹을 공유하는 방법 - 마케팅 문서 - 제품 설명서
 title: 그룹을 공유하는 방법
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
 workflow-type: tm+mt
 source-wordcount: '73'
 ht-degree: 0%
@@ -23,7 +23,7 @@ Sales Connect에서는 리드 그룹 또는 팀과 계약을 공유하는 것이
 
    ![](assets/two-1.png)
 
-1. [** 그룹 작업**] 단추를 클릭하고 **그룹 공유**&#x200B;를 선택합니다.
+1. **그룹 작업** 단추를 클릭하고 **그룹 공유**&#x200B;를 선택합니다.
 
    ![](assets/three-1.png)
 
@@ -34,4 +34,3 @@ Sales Connect에서는 리드 그룹 또는 팀과 계약을 공유하는 것이
 1. **공유**&#x200B;를 클릭합니다.
 
    ![](assets/five-1.png)
-
