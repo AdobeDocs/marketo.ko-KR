@@ -3,7 +3,7 @@ unique-page-id: 11385053
 description: Content-AI용 JavaScript - Marketing To Docs - 제품 설명서 배포
 title: Content-AI용 JavaScript 배포
 translation-type: tm+mt
-source-git-commit: 1a29614ec938074902af201b2ffc11cfaa625f7a
+source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
 workflow-type: tm+mt
 source-wordcount: '196'
 ht-degree: 0%
@@ -35,7 +35,7 @@ ht-degree: 0%
 
    >[!NOTE]
    >
-   >웹 개인화 JavaScript 태그를 복사하고 페이지 헤더의 첫 번째 스크립트로 `<head> </head>` 태그 사이에 붙여 넣습니다. 자세한 [구현 지침을 보려면 ](http://docs.marketo.com/display/docs/rtp+tag+implementation) [에서 확인하십시오.](http://pages2.marketo.com/rtp-implementation.html)
+   >웹 개인화 JavaScript 태그를 복사하고 페이지 헤더의 첫 번째 스크립트로 `<head> </head>` 태그 사이에 붙여 넣습니다. 자세한 [구현 지침을 보려면 ](https://docs.marketo.com/display/docs/rtp+tag+implementation) [에서 확인하십시오.](https://pages2.marketo.com/rtp-implementation.html)
 
 1. 태그가 랜딩 페이지 및 하위 도메인을 포함하여 모든 페이지에 나타나는지 확인합니다. `website’s` 페이지를 마우스 오른쪽 단추로 클릭하여 확인합니다. 웹 브라우저에서 **페이지 소스 보기**&#x200B;로 이동합니다. 검색:&#39;RTP&#39;.
 1. 태그 토글이 **ON**&#x200B;으로 설정되어 있는지 확인합니다.
