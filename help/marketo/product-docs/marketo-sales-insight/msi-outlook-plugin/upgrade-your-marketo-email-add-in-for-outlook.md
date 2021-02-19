@@ -3,7 +3,7 @@ unique-page-id: 2949279
 description: Outlook용 Marketing Cloud 이메일 추가 기능 업그레이드 - Marketing To Docs - 제품 설명서
 title: Outlook용 Marketing To Email Add-In 업그레이드
 translation-type: tm+mt
-source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
+source-git-commit: 972cf9769ac751d9abfd5665975703dcd07930f0
 workflow-type: tm+mt
 source-wordcount: '344'
 ht-degree: 0%
@@ -119,7 +119,8 @@ Outlook용 Marketing To Email Add-in의 새 버전을 사용할 수 있으면 �
 
    ![](assets/image2014-9-23-16-3a53-3a56.png)
 
-   다음을 클릭합니다.
+1. **다음**&#x200B;을 클릭합니다.
+
    ![](assets/image2014-9-23-16-3a54-3a8.png)
 
    >[!NOTE]
@@ -138,7 +139,7 @@ Outlook용 Marketing To Email Add-in의 새 버전을 사용할 수 있으면 �
    >
    >설치에 실패하는 경우 IT 부서에 문의하여 HTTPS 트래픽이 차단되지 않도록 확인하십시오. 설치 관리자를 열려면 HTTPS 트래픽이 있어야 합니다.
 
-   [다음]을 클릭하여 기본 위치에 설치합니다.
+1. 기본 위치에 설치하려면 **다음**&#x200B;을 클릭합니다.
 
    ![](assets/image2014-9-23-16-3a54-3a55.png)
 
@@ -156,10 +157,6 @@ Outlook용 Marketing To Email Add-in의 새 버전을 사용할 수 있으면 �
 
 >[!MORELIKETHIS]
 >
->* [Outlook용 Marketing To 이메일 추가 기능을 사용하여 이메일 보내기 및 추적](send-and-track-an-email-with-the-email-add-in-for-outlook.md)
->* [마케팅 템플릿을 사용하여 Outlook에서 보내기 및 추적](send-and-track-from-outlook-using-a-marketo-template.md)
-
->
-
-
+>* [Outlook용 Marketing To 이메일 추가 기능을 사용하여 이메일 보내기 및 추적](/help/marketo/product-docs/marketo-sales-insight/msi-outlook-plugin/send-and-track-an-email-with-the-email-add-in-for-outlook.md)
+>* [마케팅 템플릿을 사용하여 Outlook에서 보내기 및 추적](/help/marketo/product-docs/marketo-sales-insight/msi-outlook-plugin/send-and-track-from-outlook-using-a-marketo-template.md)
 
