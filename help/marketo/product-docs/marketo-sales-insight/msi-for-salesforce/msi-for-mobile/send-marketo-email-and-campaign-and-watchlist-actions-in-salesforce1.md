@@ -3,7 +3,7 @@ unique-page-id: 7511931
 description: Salesforce1의 마케팅 이메일 및 캠페인 및 감시 목록 작업 보내기 - Marketing To Docs - 제품 설명서
 title: Salesforce에서 Marketing To Email and Campaign 및 Watchlist 동작 보내기1
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: 972cf9769ac751d9abfd5665975703dcd07930f0
 workflow-type: tm+mt
 source-wordcount: '170'
 ht-degree: 0%
@@ -23,7 +23,7 @@ ht-degree: 0%
 
    >[!NOTE]
    >
-   >어떤 스마트 캠페인이 표시됩니까? &quot;캠페인이 요청됨&quot; 트리거가 있는 항목. &quot;캠페인이 요청됨](../../../../product-docs/core-marketo-concepts/smart-campaigns/flow-actions/request-campaign.md)&quot;을 사용하여 [트리거된 캠페인을 설정하는 방법을 알아봅니다.
+   >어떤 스마트 캠페인이 표시됩니까? &quot;캠페인이 요청됨&quot; 트리거가 있는 항목. &quot;캠페인이 요청됨](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/request-campaign.md)&quot;을 사용하여 [트리거된 캠페인을 설정하는 방법을 알아봅니다.
 
 좋아요, 이제 판매원들은 마케팅 활동에 적극적으로 참여할 수 있습니다.
 
@@ -39,4 +39,3 @@ ht-degree: 0%
 >
 >
 창의적인 아이디어 표현 판매원은 어떤 작업을 자동화하고 싶습니까? 그들에게 물어보고 전신시켜라!
-
