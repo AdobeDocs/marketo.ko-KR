@@ -3,7 +3,7 @@ unique-page-id: 7512252
 description: 모바일 앱 추가 - 마케팅 문서 - 제품 설명서
 title: 모바일 앱 추가
 translation-type: tm+mt
-source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
+source-git-commit: 972cf9769ac751d9abfd5665975703dcd07930f0
 workflow-type: tm+mt
 source-wordcount: '192'
 ht-degree: 0%
@@ -26,11 +26,11 @@ ht-degree: 0%
 
    ![](assets/image2015-4-22-16-3a12-3a32.png)
 
-1. 모바일 앱 및 디바이스**를 클릭합니다.
+1. **모바일 앱 및 장치**&#x200B;를 클릭합니다.
 
    ![](assets/image2016-1-12-15-3a42-3a30.png)
 
-   새 모바일 앱을 클릭합니다.
+1. **새 모바일 앱**&#x200B;을 클릭합니다.
 
    ![](assets/image2015-4-22-16-3a17-3a15.png)
 
@@ -46,10 +46,6 @@ ht-degree: 0%
 
 >[!MORELIKETHIS]
 >
->* [모바일 앱 Android 푸시 액세스 구성](configure-mobile-app-android-push-access.md)
->* [모바일 앱 iOS 푸시 액세스 구성](configure-mobile-app-ios-push-access.md)
-
->
-
-
+>* [모바일 앱 Android 푸시 액세스 구성](/help/marketo/product-docs/mobile-marketing/admin/configure-mobile-app-android-push-access.md)
+>* [모바일 앱 iOS 푸시 액세스 구성](/help/marketo/product-docs/mobile-marketing/admin/configure-mobile-app-ios-push-access.md)
 
