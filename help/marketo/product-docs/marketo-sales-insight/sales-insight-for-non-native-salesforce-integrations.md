@@ -3,7 +3,7 @@ unique-page-id: 45417125
 description: 기본 Salesforce 통합을 위한 Sales Insight - Marketing To Docs - 제품 설명서
 title: 네이티브 Salesforce 이외의 통합을 위한 Sales Insight
 translation-type: tm+mt
-source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
+source-git-commit: 972cf9769ac751d9abfd5665975703dcd07930f0
 workflow-type: tm+mt
 source-wordcount: '1269'
 ht-degree: 0%
@@ -22,9 +22,6 @@ Marketing To 계정이 사용자 지정 또는 비기본 통합을 통해 Salesf
 >* Marketing REST API [이(가) ](https://developers.marketo.com/rest-api/)을(를) 설정했습니다. 노출된 CRUD API는 기본이 아닌 동기화를 수행하는 기반이 됩니다.
 >* 개체 및 관계를 이해하려면 [이 블로그 게시물](https://developers.marketo.com/blog/create-and-associate-leads-companies-and-opportunities-with-the-marketo-rest-api/)을 읽으십시오.
 >* 대/소문자를 구분하는 15자의 전역 고유 식별자가 아니라 18자의 대/소문자를 구분하지 않는 GUID를 표시하도록 Salesforce 개체를 설정합니다.
-
->
-
 
 
 >[!NOTE]
@@ -62,7 +59,7 @@ Marketing To 계정이 사용자 지정 또는 비기본 통합을 통해 Salesf
 
 1. Salesforce 계정을 Marketing에 동기화합니다.
 
-   Salesforce 계정을 사용하려면 Marketing Company를 업데이트해야 합니다. *externalCompanyId* 및 *externalSalesPersonId* 필드는 회사의 업데이트에 대해 필수 항목입니다.
+   Salesforce 계정을 사용하려면 Marketing Company를 업데이트해야 합니다. _externalCompanyId_ 및 _externalSalesPersonId_ 필드는 회사의 업데이트에 대해 필수 항목입니다.
 
 <table> 
  <colgroup> 
@@ -94,7 +91,7 @@ Marketing To 계정이 사용자 지정 또는 비기본 통합을 통해 Salesf
 
 1. Salesforce 리드/연락처를 Marketing To에 동기화합니다.
 
-   Salesforce 리드/연락처에 대한 마케팅 리드를 업로드해야 합니다. 리드를 업데이트하려면 *externalPersonId*, *externalSalesPersonId* 및 *externalCompanyId* 필드가 필수적입니다.
+   Salesforce 리드/연락처에 대한 마케팅 리드를 업로드해야 합니다. 리드를 업데이트하려면 _externalPersonId_, _externalSalesPersonId_ 및 _externalCompanyId_ 필드가 필수적입니다.
 
 <table> 
  <colgroup> 
@@ -131,7 +128,7 @@ Marketing To 계정이 사용자 지정 또는 비기본 통합을 통해 Salesf
 
 1. Salesforce 기회를 Marketing Cloud에 동기화할 수 있습니다.
 
-   Salesforce Opportunity를 Marketing To Opportunity로 업데이트해야 합니다. Opportunity를 업데이트하려면 *externalOpportunityId*, *externalCompanyId* 및 *externalSalesPersonId* 필드가 필요합니다.
+   Salesforce Opportunity를 Marketing To Opportunity로 업데이트해야 합니다. Opportunity를 업데이트하려면 _externalOpportunityId_, _externalCompanyId_ 및 _externalSalesPersonId_ 필드가 필요합니다.
 
 <table> 
  <colgroup> 
@@ -168,7 +165,7 @@ Marketing To 계정이 사용자 지정 또는 비기본 통합을 통해 Salesf
 
 1. Salesforce 연락처 역할을 Marketing To에 동기화할 수 있습니다.
 
-   Salesforce Opportunity에 대한 Salesforce 연락처 역할을 Marketing to Opportunity 역할을 통해 동기화할 수 있습니다. 기회 역할 레코드는 *externalOpportunityId*, *역할* 및 *leadId* 필드를 명령합니다.
+   Salesforce Opportunity에 대한 Salesforce 연락처 역할을 Marketing to Opportunity 역할을 통해 동기화할 수 있습니다. 기회 역할 레코드는 _externalOpportunityId_, _역할_ 및 _leadId_ 필드를 명령합니다.
 
 <table> 
  <colgroup> 
@@ -207,7 +204,7 @@ Marketing To 계정이 사용자 지정 또는 비기본 통합을 통해 Salesf
 
    Salesforce 개체가 Marketing To에 올바르게 동기화되면 MSI 기능을 활용할 수 있습니다. MSI 마지막 관심 모멘트/점수 필드가 리드에 대한 REST API에 표시됩니다. 이러한 필드는 MSI로 계산되며 읽기 전용입니다.
 
-   마케팅 리드의 마지막 관심 영역/점수 필드는 REST API 리드 끝점을 사용하여 Salesforce에 정기적으로 동기화해야 합니다. 필터 유형으로 *externalPersonId*&#x200B;를 사용하고 Salesforce 리드 GUID를 filterValue로 전달하여 마케팅 리드에 대해 이 끝점을 쿼리합니다.
+   마케팅 리드의 마지막 관심 영역/점수 필드는 REST API 리드 끝점을 사용하여 Salesforce에 정기적으로 동기화해야 합니다. 필터 유형으로 _externalPersonId_&#x200B;를 사용하고 Salesforce 리드 GUID를 filterValue로 전달하여 마케팅 리드에 대해 이 끝점을 쿼리합니다.
 
    | GET /rest/v1/leads.json?filterType=externalPersonId&amp;filterValues=salesforceLeadId1,salesforceLeadId2 |
    |---|
@@ -264,7 +261,6 @@ Marketing To 계정이 사용자 지정 또는 비기본 통합을 통해 Salesf
  </tbody> 
 </table>
 
-리드 REST API 설명서: [https://developers.marketo.com/rest-api/endpoint-reference/lead-database-endpoint-reference/#!/Leads/getLeadByIdUsingGET](https://developers.marketo.com/rest-api/endpoint-reference/lead-database-endpoint-reference/#!/Leads/getLeadByIdUsingGET).
+리드 REST API 설명서:[https://developers.marketo.com/rest-api/endpoint-reference/lead-database-endpoint-reference/#!/Leads/getLeadByIdUsingGET](https://developers.marketo.com/rest-api/endpoint-reference/lead-database-endpoint-reference/#!/Leads/getLeadByIdUsingGET).
 
 외부 필드를 적절히 사용하면 동기화가 성공적으로 수행됩니다. 일부 보기에서 데이터를 볼 수 없는 경우 특정 필드가 올바로 동기화되지 않았을 수 있습니다. 예를 들어 리드의 활동과 관심 있는 순간이 계정의 MSI 위젯을 볼 때 표시되지 않는 경우 리드의 회사나 계정이 올바르게 동기화되지 않았을 수 있습니다. 외부 필드를 지정하는 동안 이 리드에 대한 GET 요청을 수행하면 리드가 올바르게 동기화되었는지 확인하는 데 도움이 됩니다. 또한 Marketing의 외부 영업 담당자의 이메일은 Salesforce의 해당 사용자의 이메일과 일치해야 합니다. 이메일이 일치하지 않는 경우 데이터가 Salesforce의 마케팅 탭에 표시되지 않을 수 있습니다.
-
