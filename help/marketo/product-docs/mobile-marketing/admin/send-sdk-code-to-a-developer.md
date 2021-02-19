@@ -3,9 +3,9 @@ unique-page-id: 7512448
 description: 개발자에게 SDK 코드 보내기 - 마케팅 문서 - 제품 설명서
 title: 개발자에게 SDK 코드 보내기
 translation-type: tm+mt
-source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
+source-git-commit: 972cf9769ac751d9abfd5665975703dcd07930f0
 workflow-type: tm+mt
-source-wordcount: '126'
+source-wordcount: '125'
 ht-degree: 0%
 
 ---
@@ -26,11 +26,11 @@ ht-degree: 0%
 
 방법 살펴보기
 
-1. 관리자를 클릭합니다.
+1. **관리**&#x200B;를 클릭합니다.
 
    ![](assets/image2015-4-22-16-3a12-3a32.png)
 
-1. 모바일 앱을 선택합니다.
+1. **모바일 앱**&#x200B;을 선택합니다.
 
    ![](assets/image2015-4-22-16-3a14-3a29.png)
 
@@ -42,9 +42,8 @@ ht-degree: 0%
 
    ![](assets/image2015-4-22-17-3a13-3a30.png)
 
-1. 이메일 주소를 입력하고 **SEND**&#x200B;를 클릭합니다.
+1. 이메일 주소를 입력하고 **보내기**&#x200B;를 클릭합니다.
 
    ![](assets/image2015-4-22-18-3a51-3a54.png)
 
    이제 SDK 코드가 개발자에게 전송됩니다.
-
