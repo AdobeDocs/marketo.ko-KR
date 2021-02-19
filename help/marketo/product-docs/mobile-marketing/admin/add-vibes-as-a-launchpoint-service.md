@@ -3,7 +3,7 @@ unique-page-id: 11378845
 description: LaunchPoint 서비스로 보기 추가 - 마케팅 문서 - 제품 설명서
 title: LaunchPoint 서비스로 보기 추가
 translation-type: tm+mt
-source-git-commit: d88fb92a00e4c20509617e6ef8b2e51b66cc085b
+source-git-commit: 972cf9769ac751d9abfd5665975703dcd07930f0
 workflow-type: tm+mt
 source-wordcount: '132'
 ht-degree: 0%
@@ -42,4 +42,3 @@ Vibe 목록에 있는 사람들에게 SMS 메시지를 보내고 SMS 활동을 �
    이제 설치된 서비스 목록에 새 SMS 서비스가 나타납니다.
 
    ![](assets/image2016-7-27-9-3a45-3a1.png)
-
