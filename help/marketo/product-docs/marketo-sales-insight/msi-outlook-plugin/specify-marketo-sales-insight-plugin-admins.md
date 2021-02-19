@@ -3,7 +3,7 @@ unique-page-id: 11377552
 description: Marketing To Sales Insight 플러그인 관리자 - Marketing Docs - 제품 설명서 지정
 title: Marketing To Sales Insight 플러그인 관리자 지정
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: 972cf9769ac751d9abfd5665975703dcd07930f0
 workflow-type: tm+mt
 source-wordcount: '92'
 ht-degree: 0%
@@ -40,4 +40,3 @@ Outlook에서 MSI 설정을 위해 사용자를 초대할 때 사용자에게 �
    ![](assets/image2016-8-25-11-3a33-3a33.png)
 
    완벽해!
-
