@@ -3,9 +3,9 @@ unique-page-id: 2360301
 description: 영업 통찰력의 별 및 화염에 사용할 점수 필드 설정 - 마케팅 문서 - 제품 설명서
 title: 영업 인사이트의 별 및 화염에 사용할 점수 필드 설정
 translation-type: tm+mt
-source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
+source-git-commit: 972cf9769ac751d9abfd5665975703dcd07930f0
 workflow-type: tm+mt
-source-wordcount: '170'
+source-wordcount: '169'
 ht-degree: 0%
 
 ---
@@ -21,13 +21,13 @@ ht-degree: 0%
 
 >[!TIP]
 >
->사용자 지정 점수 필드가 아직 없는 경우 [만들기](../../../../../product-docs/administration/field-management/create-a-custom-field-in-marketo.md)방법을 참조하십시오.
+>사용자 지정 점수 필드가 아직 없는 경우 [만들기](/help/marketo/product-docs/administration/field-management/create-a-custom-field-in-marketo.md)를 참조하십시오.
 
 >[!NOTE]
 >
 >**정의**
 >
->* **Star:**Star는 다른 리드와 비교하여 총 리드 점수를 나타냅니다.
+>* **별**:별은 다른 리드와 비교하여 총 리드 점수를 나타냅니다.
 >* **불꽃**:불길은 급박함을 나타냅니다 - 최근 얼마나 많은 납의 점수가 바뀌었는지를 나타냅니다.
 
 >
@@ -50,7 +50,8 @@ ht-degree: 0%
 
    ![](assets/image2014-9-16-13-3a28-3a1.png)
 
-   저장을 클릭합니다.
+1. **저장**&#x200B;을 클릭합니다.
+
    ![](assets/image2014-9-16-13-3a28-3a18.png)
 
    >[!NOTE]
@@ -59,7 +60,4 @@ ht-degree: 0%
 
    >[!MORELIKETHIS]
    >
-   >
-   >
-   >[우선 순위, 긴급성, 상대적인 점수 및 최고 점수](priority-urgency-relative-score-and-best-bets.md)
-
+   >[우선 순위, 긴급성, 상대적인 점수 및 최고 점수](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/features/stars-and-flames/priority-urgency-relative-score-and-best-bets.md)
