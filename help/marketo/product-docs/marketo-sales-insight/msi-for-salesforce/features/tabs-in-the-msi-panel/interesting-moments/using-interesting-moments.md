@@ -3,9 +3,9 @@ unique-page-id: 2951640
 description: 관심 있는 순간 사용 - Marketing To Docs - 제품 설명서
 title: 관심 항목 사용
 translation-type: tm+mt
-source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
+source-git-commit: 972cf9769ac751d9abfd5665975703dcd07930f0
 workflow-type: tm+mt
-source-wordcount: '337'
+source-wordcount: '333'
 ht-degree: 0%
 
 ---
@@ -17,9 +17,9 @@ ht-degree: 0%
 
 >[!AVAILABILITY]
 >
->Marketing To Sales Insight 및 [Marketing To Sales Connect](https://docs.marketo.com/x/fgTLAQ) 고객에게만 제공됩니다.
+>Marketing To Sales Insight 및 [Marketing To Sales Connect](/help/marketo/product-docs/marketo-sales-connect/marketo/interesting-moments-in-msc.md) 고객에게만 제공됩니다.
 
-## 흥미로운 순간은 무엇인가? {#what-is-an-interesting-moment}
+## 흥미로운 순간은 무엇인가?{#what-is-an-interesting-moment}
 
 당신에게 달렸어! 영업 팀과 관련된 정보를 결정합니다. 세일즈 팀은 리드를 언제 확인할 수 있습니다.
 
@@ -51,7 +51,7 @@ ht-degree: 0%
 
 ## 어떻게 이것이 더 흥미로워질 수 있을까요? {#how-can-this-get-even-more-interesting}
 
-토큰! 설명 필드에 추가하여 리드가 연 이메일의 제목 라인 또는 리드를 보낸 사람과 같은 보다 구체적인 정보를 영업 팀에 제공합니다. [관심 분야의 토큰](tokens-for-interesting-moments.md) 용어집에 사용할 수 있는 토큰을 확인합니다.
+토큰! 설명 필드에 추가하여 리드가 연 이메일의 제목 라인 또는 리드를 보낸 사람과 같은 보다 구체적인 정보를 영업 팀에 제공합니다. [관심 분야의 토큰](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/features/tabs-in-the-msi-panel/interesting-moments/tokens-for-interesting-moments.md) 용어집에 사용할 수 있는 토큰을 확인합니다.
 
 >[!TIP]
 >
@@ -59,13 +59,13 @@ ht-degree: 0%
 
 ## MarketingTo에서 흥미로운 순간을 어떻게 볼 수 있습니까? {#what-does-an-interesting-moment-look-like-in-marketo}
 
-관심 있는 순간은 [리드의 활동 로그](../../../../../../product-docs/core-marketo-concepts/smart-lists-and-static-lists/managing-people-in-smart-lists/using-the-person-detail-page.md)에 표시됩니다.
+관심 있는 순간은 [리드의 활동 로그](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/managing-people-in-smart-lists/using-the-person-detail-page.md)에 표시됩니다.
 
 ![](assets/image2015-1-14-18-3a45-3a58.png)
 
 ## Salesforce에서 흥미로운 순간을 어떻게 볼 수 있습니까? {#what-does-an-interesting-moment-look-like-in-salesforce}
 
-[Marketing To Sales Insight 앱](../../../../../../product-docs/marketo-sales-insight/msi-for-salesforce/configuration/configure-marketo-sales-insight-in-salesforce-enterprise-unlimited.md)을 설치하면 리드, 연락처, 계정 또는 기회 페이지에 흥미로운 순간이 표시됩니다. 리드 피드, 베스트 베트 및 감시 목록의 Sales Insight 대시보드에도 표시됩니다.
+[Marketing To Sales Insight 앱](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/configuration/configure-marketo-sales-insight-in-salesforce-enterprise-unlimited.md)을 설치하면 리드, 연락처, 계정 또는 기회 페이지에 흥미로운 순간이 표시됩니다. 리드 피드, 베스트 베트 및 감시 목록의 Sales Insight 대시보드에도 표시됩니다.
 
 ![](assets/six.png)
 
