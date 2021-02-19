@@ -3,9 +3,9 @@ unique-page-id: 7512979
 description: 리드 피드 사용 - 마케팅 문서 - 제품 설명서
 title: 리드 피드 사용
 translation-type: tm+mt
-source-git-commit: 00887ea53e395bea3a11fd28e0ac98b085ef6ed8
+source-git-commit: 972cf9769ac751d9abfd5665975703dcd07930f0
 workflow-type: tm+mt
-source-wordcount: '320'
+source-wordcount: '332'
 ht-degree: 0%
 
 ---
@@ -21,7 +21,8 @@ ht-degree: 0%
 
 ## 리드 피드에 무엇이 있습니까?{#whats-in-the-lead-feed}
 
-![](assets/one.png)\
+![](assets/one.png)
+
 리드 피드의 각 항목은 흥미로운 순간입니다. 즉, 이 리드의 마케팅 역사에서 주목할 만한 활동이나 이벤트입니다.
 
 Salesforce에서 볼 때 각 항목에는 다음이 포함됩니다.
@@ -73,17 +74,19 @@ Salesforce에서 볼 때 각 항목에는 다음이 포함됩니다.
 
 RSS 피드별로 리드 피드 업데이트를 받을 수도 있습니다.  RSS 피드를 사용하면 Salesforce에 연결되어 있지 않더라도 리드에 대한 업데이트를 받을 수 있습니다. 피드에는 Salesforce의 리드 피드와 동일한 정보와 다음 정보가 있습니다(가능한 경우).
 
-* `email address`
-* `phone number`
-* `mobile number`
-* `fax number`
-* `company address`
-* `company URL`
+* 이메일 주소
+* 전화 번호
+* 모바일 번호
+* 팩스 번호
+* 회사 주소
+* 회사 URL
 
 >[!NOTE]
 >
->이 작업을 수행하려면 회사의 마케팅 관리자가 [RSS 피드](../../../../../product-docs/marketo-sales-insight/msi-for-salesforce/features/msi-configuration-tab/enable-rss-for-sales-insight.md)를 활성화해야 합니다.
+>이 작업을 수행하려면 회사의 마케팅 관리자가 [RSS 피드](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/features/msi-configuration-tab/enable-rss-for-sales-insight.md)를 활성화해야 합니다.
 
-RSS 업데이트를 받으려면 다음 두 가지가 필요합니다.RSS 링크 및 RSS 피드 리더 리드 피드에서 RSS 아이콘을 클릭하여 RSS 링크를 가져올 수 있습니다.   ![](assets/three.png)
+RSS 업데이트를 받으려면 다음 두 가지가 필요합니다.RSS 링크 및 RSS 피드 리더 리드 피드에서 RSS 아이콘을 클릭하여 RSS 링크를 가져올 수 있습니다.
+
+![](assets/three.png)
 
 RSS 피드가 새 창에 나타납니다. 그런 다음 RSS 피드에 대한 URL을 복사하여 RSS 리더에 사용할 수 있습니다. 대부분의 브라우저에는 내장된 RSS 판독기가 있거나 사용 중인 플랫폼별 RSS 판독기를 사용할 수 있습니다.
