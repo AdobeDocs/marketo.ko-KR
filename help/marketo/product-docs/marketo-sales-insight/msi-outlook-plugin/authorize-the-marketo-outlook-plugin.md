@@ -3,7 +3,7 @@ unique-page-id: 11377640
 description: Marketing To Outlook 플러그인 승인 - Marketing Docs - 제품 설명서
 title: Marketing To Outlook 플러그인 승인
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 972cf9769ac751d9abfd5665975703dcd07930f0
 workflow-type: tm+mt
 source-wordcount: '129'
 ht-degree: 0%
@@ -42,4 +42,3 @@ Outlook에서 Marketing to MSI 플러그인을 사용하려면 승인해야 합�
 1. 이메일 주소가 인증되지 않은 경우 이 덜 행복한 이메일을 받게 됩니다. 문제를 해결하려면 마케팅 관리자에게 문의하십시오.
 
    ![](assets/image2016-8-24-16-3a25-3a27.png)
-
