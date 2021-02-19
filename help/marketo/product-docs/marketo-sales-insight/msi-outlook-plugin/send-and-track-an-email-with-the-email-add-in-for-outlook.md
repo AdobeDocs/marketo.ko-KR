@@ -3,7 +3,7 @@ unique-page-id: 2949716
 description: Outlook용 이메일 추가 기능을 사용하여 이메일 보내기 및 추적 - Marketing To Docs - 제품 설명서
 title: Outlook용 이메일 추가 기능을 사용하여 이메일 보내기 및 추적
 translation-type: tm+mt
-source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
+source-git-commit: 972cf9769ac751d9abfd5665975703dcd07930f0
 workflow-type: tm+mt
 source-wordcount: '236'
 ht-degree: 0%
@@ -17,7 +17,7 @@ Outlook에서 바로 Marketing To를 사용하여 이메일을 보내고 추적�
 
 >[!PREREQUISITES]
 >
->아직 설치하지 않은 경우 Outlook](install-the-marketo-email-add-in-for-outlook-with-a-registration-code.md)용 [Marketing 전자 메일 추가 기능을 설치합니다.
+>아직 설치하지 않은 경우 Outlook](/help/marketo/product-docs/marketo-sales-insight/msi-outlook-plugin/install-the-marketo-email-add-in-for-outlook-with-a-registration-code.md)용 [Marketing 전자 메일 추가 기능을 설치합니다.
 
 1. Microsoft Outlook을 열고 새 전자 메일을 만듭니다.
 
@@ -37,7 +37,7 @@ Outlook에서 바로 Marketing To를 사용하여 이메일을 보내고 추적�
 
    >[!TIP]
    >
-   >Marketing 템플릿을 사용하려면 [템플릿을 사용하여 Outlook에서 보내기 및 추적을 참조하십시오](send-and-track-from-outlook-using-a-marketo-template.md).
+   >Marketing 템플릿을 사용하려면 [템플릿을 사용하여 Outlook에서 보내기 및 추적을 참조하십시오](/help/marketo/product-docs/marketo-sales-insight/msi-outlook-plugin/send-and-track-from-outlook-using-a-marketo-template.md).
 
 1. 미리 보기를 보고 **보내기**&#x200B;를 클릭합니다.
 
@@ -55,9 +55,4 @@ Outlook에서 바로 Marketing To를 사용하여 이메일을 보내고 추적�
 
 >[!MORELIKETHIS]
 >
->* [Marketing에서 리드의 인바운드 메일 기록](../../../product-docs/marketo-sales-insight/using-msi/log-inbound-mail-from-your-leads-in-marketo.md)
-
->
-
-
-
+>[Marketing에서 리드의 인바운드 메일 기록](/help/marketo/product-docs/marketo-sales-insight/using-msi/log-inbound-mail-from-your-leads-in-marketo.md)
