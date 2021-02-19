@@ -3,7 +3,7 @@ unique-page-id: 11377005
 description: Sales Insight용 RSS 활성화 - Marketing To Docs - 제품 설명서
 title: Sales Insight에 대한 RSS 활성화
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: 972cf9769ac751d9abfd5665975703dcd07930f0
 workflow-type: tm+mt
 source-wordcount: '95'
 ht-degree: 0%
@@ -27,7 +27,7 @@ Marketing 사용자가 Salesforce뿐만 아니라 RSS 피드에서도 리드 피
 
    ![](assets/rss-settings-tab.png)
 
-   설정 편집 대화 상자에서 **RSS 피드** 확인란을 선택하고 **저장**&#x200B;을 클릭합니다.
+1. 설정 편집 대화 상자에서 **RSS 피드** 확인란을 선택하고 **저장**&#x200B;을 클릭합니다.
 
    ![](assets/rss-edit-settings-2-hands.png)
 
@@ -36,4 +36,3 @@ Marketing 사용자가 Salesforce뿐만 아니라 RSS 피드에서도 리드 피
    ![](assets/rss-final-box.png)
 
    케이크 조각!
-
