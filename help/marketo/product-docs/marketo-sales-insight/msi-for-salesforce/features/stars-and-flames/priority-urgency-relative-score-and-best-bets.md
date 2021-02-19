@@ -3,9 +3,9 @@ unique-page-id: 2950396
 description: 우선 순위, 긴급성, 상대적인 점수 및 최고 성과 - 마케팅 문서 - 제품 설명서
 title: 우선 순위, 긴급성, 상대적인 점수 및 최고 점수
 translation-type: tm+mt
-source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
+source-git-commit: 972cf9769ac751d9abfd5665975703dcd07930f0
 workflow-type: tm+mt
-source-wordcount: '462'
+source-wordcount: '452'
 ht-degree: 0%
 
 ---
@@ -43,7 +43,7 @@ Marketing To Sales Insight는 우선 순위에 따라 최고의 리드 및 연�
 
 >[!NOTE]
 >
->가장 좋은 성과가 보유한 최고의 리드 및 연락처와 일치하지 않는 경우 [채점 규칙](../../../../../getting-started/quick-wins/simple-scoring.md)을(를) 업데이트할 수 있는 Marketing에 액세스할 수 있는 회사 담당자에게 문의하십시오.
+>가장 좋은 성과가 보유한 최고의 리드 및 연락처와 일치하지 않는 경우 [채점 규칙](/help/marketo/getting-started/quick-wins/simple-scoring.md)을(를) 업데이트할 수 있는 Marketing에 액세스할 수 있는 회사 담당자에게 문의하십시오.
 
 ### 긴급 및 상대 점수를 계산하는 방법
 
@@ -54,8 +54,3 @@ Marketing To Sales Insight는 우선 순위에 따라 최고의 리드 및 연�
 >[!NOTE]
 >
 >상대 긴급도(불꽃) 및 상대 점수(별들) 수는 Marketing의 정수입니다. 각 값에 가능한 값은 0-3입니다.
-
->[!MORELIKETHIS]
->
->* [Marketing To Sales Insight](https://docs.marketo.com/display/docs/marketo+sales+insight)
-
