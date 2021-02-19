@@ -3,9 +3,9 @@ unique-page-id: 7512445
 description: 푸시 구성 확인 - 마케팅 문서 - 제품 설명서
 title: 푸시 구성 확인
 translation-type: tm+mt
-source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
+source-git-commit: 972cf9769ac751d9abfd5665975703dcd07930f0
 workflow-type: tm+mt
-source-wordcount: '79'
+source-wordcount: '78'
 ht-degree: 0%
 
 ---
@@ -27,23 +27,20 @@ ht-degree: 0%
 
    ![](assets/image2015-4-22-16-3a14-3a29.png)
 
-   원하는 모바일 앱을 선택합니다.
+1. 원하는 모바일 앱을 선택합니다.
 
    ![](assets/image2015-4-22-16-3a33-3a19.png)
 
-   모바일 앱 작업을 클릭하고 푸시 구성 확인을 선택합니다.
+1. **모바일 앱 작업**&#x200B;을 클릭하고 **푸시 구성 확인**&#x200B;을 선택합니다.
 
    ![](assets/image2015-4-22-17-3a25-3a8.png)
 
-   원하는 플랫폼을 읽었는지 확인하고 닫기를 클릭합니다.
+1. 원하는 플랫폼을 읽었는지 확인하고 **닫기**&#x200B;를 클릭합니다.
 
-   ![](assets/image2015-4-22-18-3a52-3a38.png)   모두 준비됐습니다! 이제 푸시 알림 ![(sill)](assets/smile.svg) 전송을 시작할 수 있습니다.
+   ![](assets/image2015-4-22-18-3a52-3a38.png)
+
+모두 준비됐습니다! 이제 푸시 알림 전송을 시작할 수 있습니다.
 
 >[!MORELIKETHIS]
 >
->* [푸시 알림 만들기](../../../product-docs/mobile-marketing/push-notifications/create-a-push-notification.md)
-
->
-
-
-
+>[푸시 알림 만들기](/help/marketo/product-docs/mobile-marketing/push-notifications/create-a-push-notification.md)
