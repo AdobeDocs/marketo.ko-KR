@@ -3,9 +3,9 @@ unique-page-id: 11376159
 description: 푸시 알림 및 인앱 메시지를 만들기 전에 - Marketing To Docs - 제품 설명서
 title: 푸시 알림 및 인앱 메시지를 만들기 전에
 translation-type: tm+mt
-source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
+source-git-commit: 972cf9769ac751d9abfd5665975703dcd07930f0
 workflow-type: tm+mt
-source-wordcount: '360'
+source-wordcount: '352'
 ht-degree: 0%
 
 ---
@@ -15,16 +15,21 @@ ht-degree: 0%
 
 푸시 알림 및 인앱 메시지를 만드는 것은 어렵지 않지만 시작하기 전에 모든 것을 준비해야 합니다. Marketing To 관리자 및 모바일 앱 개발자는 필요한 통합을 준비하려면 아래 단계를 따라야 합니다.
 
-1. 먼저, 마케팅 관리자 [이 모바일 앱](add-a-mobile-app.md)을 추가합니다.
-1. 그러면 마케팅 관리자가 [코드 조각을 developer](send-sdk-code-to-a-developer.md)에 전송합니다.
-1. 개발자는 SDK를 다운로드하고 [Android](https://developers.marketo.com/documentation/mobile/installation-instructions-on-android/) 또는 [iOS](https://developers.marketo.com/documentation/mobile/installation-instructions-on-ios/)에 대한 조각 및 기타 메서드를 포함합니다
+1. 먼저 마케팅 관리자 [이 모바일 앱](/help/marketo/product-docs/mobile-marketing/admin/add-a-mobile-app.md)을 추가합니다.
+
+1. 그러면 마케팅 관리자가 [코드 조각을 developer](/help/marketo/product-docs/mobile-marketing/admin/send-sdk-code-to-a-developer.md)에 보냅니다.
+
+1. 개발자는 SDK를 다운로드하고 [Android](https://developers.marketo.com/documentation/mobile/installation-instructions-on-android/) 또는 [iOS](https://developers.marketo.com/documentation/mobile/installation-instructions-on-ios/)에 대한 조각 및 기타 메서드를 포함합니다.
+
 1. 기본적으로 인앱 메시지는 앱이 열릴 때 트리거됩니다. 특정 페이지를 보거나 특정 단추를 푸시할 때와 같은 다른 이벤트에 대한 메시지를 트리거하려면 개발자가 사용자 지정 이벤트를 코드에 추가해야 합니다(아래 [인앱 메시지에 대한 사용자 지정 이벤트](#CustomEvents) 참조).
-1. 개발자 [는 iOS](https://developers.marketo.com/documentation/mobile/enabling-push-notifications-on-android/) 또는 [에 대한 인증 및 암호를 생성하여 Marketing To Admin으로 전송합니다.](https://developers.marketo.com/documentation/mobile/enabling-push-notifications-on-ios/)
-1. 마케팅 관리자는 서버 API 키(Android)](configure-mobile-app-android-push-access.md) 또는 [를 인증서(iOS)](configure-mobile-app-ios-push-access.md)로 푸시 알림 액세스 [를 구성합니다.
+
+1. 개발자 [는 Android](https://developers.marketo.com/documentation/mobile/enabling-push-notifications-on-android/) 또는 [에 대한 서버 API 키와 프로젝트 번호를 생성하여 iOS](https://developers.marketo.com/documentation/mobile/enabling-push-notifications-on-ios/)에 대한 인증 및 암호를 Marketing To Admin으로 전송합니다.
+
+1. 마케팅 관리자는 서버 API 키(Android)](/help/marketo/product-docs/mobile-marketing/admin/configure-mobile-app-android-push-access.md) 또는 [를 인증서(iOS)](/help/marketo/product-docs/mobile-marketing/admin/configure-mobile-app-ios-push-access.md)로 푸시 알림 액세스 [를 구성합니다.
 
 >[!TIP]
 >
->Marketing To 관리자는 푸시 구성이 확인되었는지 확인하는 것이 쉽습니다. [여기](verify-push-configuration.md)로 이동하기만 하면 됩니다.
+>Marketing To 관리자는 푸시 구성이 확인되었는지 확인하는 것이 쉽습니다. [여기](/help/marketo/product-docs/mobile-marketing/admin/verify-push-configuration.md)로 이동하기만 하면 됩니다.
 
 ## 인앱 메시지에 대한 사용자 지정 이벤트 {#custom-events-for-in-app-messages}
 
@@ -34,12 +39,8 @@ ht-degree: 0%
 
 >[!MORELIKETHIS]
 >
->* [인앱 메시지 만들기](https://docs.marketo.com/display/docs/create+an+in-app+message)
+>* [인앱 메시지 만들기](/help/marketo/product-docs/mobile-marketing/in-app-messages/creating-in-app-messages/create-an-in-app-message.md)
    >
    >
-* [푸시 알림 만들기](../../../product-docs/mobile-marketing/push-notifications/create-a-push-notification.md)
-
->
-
-
+* [푸시 알림 만들기](/help/marketo/product-docs/mobile-marketing/push-notifications/create-a-push-notification.md)
 
