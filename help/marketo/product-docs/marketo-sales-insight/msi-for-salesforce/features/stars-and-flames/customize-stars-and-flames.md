@@ -3,9 +3,9 @@ unique-page-id: 2360303
 description: 별과 불꽃 사용자 정의 - 마케팅 문서 - 제품 설명서
 title: 별 및 불꽃 사용자 정의
 translation-type: tm+mt
-source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
+source-git-commit: 972cf9769ac751d9abfd5665975703dcd07930f0
 workflow-type: tm+mt
-source-wordcount: '170'
+source-wordcount: '168'
 ht-degree: 0%
 
 ---
@@ -17,14 +17,13 @@ Marketing To Sales Insight는 스타와 불길을 사용하여 리드의 우선 
 
 >[!AVAILABILITY]
 >
->
 >모든 고객이 이 기능을 구입하지는 않았습니다. 자세한 내용은 영업 담당자에게 문의하십시오.
 
 >[!NOTE]
 >
 >**관리자 권한 필요**
 
-1. 관리에서 Sales Insight 를 클릭합니다.
+1. 관리에서 **영업 인사이트**&#x200B;를 클릭합니다.
 
 ![](assets/image2014-9-16-13-3a38-3a6.png)
 
@@ -38,9 +37,7 @@ Marketing To Sales Insight는 스타와 불길을 사용하여 리드의 우선 
    >
    >**정의**
    >
-   >
-   >**동적**  - 상대 데이터에서 파생된  [백분율 값입니다](priority-urgency-relative-score-and-best-bets.md). 멋진 물건이요 이 방법을 사용하는 것이 좋습니다.
-   >
+   >**동적**  - 상대 데이터에서 파생된  [백분율 값입니다](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/features/stars-and-flames/priority-urgency-relative-score-and-best-bets.md). 멋진 물건이요 이 방법을 사용하는 것이 좋습니다.
    >
    >**정적**  - 더 이상 백분율이 없고 비밀 소스 없이 정확한 점수 번호를 정의할 수 있습니다.
 
@@ -50,14 +47,11 @@ Marketing To Sales Insight는 스타와 불길을 사용하여 리드의 우선 
 
    >[!TIP]
    >
-   >
    >시작 백분율을 편집하면 Marketing To가 사용자를 위해 종료 백분율을 계산합니다.
 
    ![](assets/image2014-9-16-13-3a38-3a49.png)
 
 >[!NOTE]
->
->**미리 알림**
 >
 >변경 사항이 적용되면 별과 불을 다시 계산하는데 시간이 걸립니다. 인내는 미덕이다.
 
