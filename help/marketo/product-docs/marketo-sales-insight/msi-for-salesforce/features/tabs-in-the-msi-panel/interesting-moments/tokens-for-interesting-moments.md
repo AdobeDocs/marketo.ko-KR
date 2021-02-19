@@ -3,9 +3,9 @@ unique-page-id: 1146999
 description: 관심 있는 순간을 위한 토큰 - 마케팅 문서 - 제품 설명서
 title: 관심 분야의 토큰
 translation-type: tm+mt
-source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
+source-git-commit: 972cf9769ac751d9abfd5665975703dcd07930f0
 workflow-type: tm+mt
-source-wordcount: '265'
+source-wordcount: '256'
 ht-degree: 0%
 
 ---
@@ -15,16 +15,11 @@ ht-degree: 0%
 
 >[!PREREQUISITES]
 >
->* [흥미로운 모멘트 흐름 단계](../../../../../../product-docs/core-marketo-concepts/smart-campaigns/flow-actions/interesting-moment.md)를 사용하는 방법에 대해 학습합니다.
->* [토큰](https://docs.marketo.com/display/docs/tokens)에 대해 자세히 알아보십시오.
-
->
-
-
+>[흥미로운 모멘트 흐름 단계](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/interesting-moment.md)를 사용하는 방법에 대해 학습합니다.
 
 ## 사용 가능한 토큰 {#available-tokens}
 
-흥미로운 순간에 넣을 수 있는 모든 토큰을 보려면 [토큰 개요](../../../../../../product-docs/demand-generation/landing-pages/personalizing-landing-pages/tokens-overview.md)를 확인하십시오.
+흥미로운 순간에 넣을 수 있는 모든 토큰을 보려면 [토큰 개요](/help/marketo/product-docs/demand-generation/landing-pages/personalizing-landing-pages/tokens-overview.md)를 확인하십시오.
 
 ## 트리거 토큰 {#trigger-tokens}
 
@@ -249,4 +244,3 @@ ht-degree: 0%
 >흥미로운 순간을 테스트하여 의도한 대로 표현할 수 있습니다.
 >
 >또한, 판매 담당자에게만 관심 있는 것이 아니라, 관심 있는 사람에게도 관심 있어야 합니다. ![(윙크)](assets/wink.svg)>
-
