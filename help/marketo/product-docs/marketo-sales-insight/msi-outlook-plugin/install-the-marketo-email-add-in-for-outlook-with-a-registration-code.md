@@ -3,7 +3,7 @@ unique-page-id: 2949711
 description: 등록 코드 - Marketing Docs - 제품 설명서와 함께 Outlook용 Marketing To Email Add-in을 설치합니다.
 title: 등록 코드와 함께 Outlook용 Marketing To 전자 메일 추가 기능 설치
 translation-type: tm+mt
-source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
+source-git-commit: 972cf9769ac751d9abfd5665975703dcd07930f0
 workflow-type: tm+mt
 source-wordcount: '388'
 ht-degree: 0%
@@ -19,15 +19,12 @@ ht-degree: 0%
 
 >[!PREREQUISITES]
 >
->* [마케팅 전자 메일 추가 기능 라이선스를 발급해야 합니다](issue-a-marketo-email-add-in-license.md).
-
->
-
-
+>[마케팅 전자 메일 추가 기능 라이선스를 발급해야 합니다](/help/marketo/product-docs/marketo-sales-insight/msi-outlook-plugin/issue-a-marketo-email-add-in-license.md).
 
 ## 설치 프로그램 다운로드 {#download-installer}
 
 1. [Microsoft Outlook 버전 식별](https://support.office.com/en-us/article/what-version-of-outlook-do-i-have-b3a9568c-edb5-42b9-9825-d48d82b2257c)
+
 1. 사용 중인 Microsoft Outlook 버전에 해당하는 설치 프로그램을 다운로드하려면 링크를 클릭합니다.
 
    >[!NOTE]
@@ -71,7 +68,7 @@ ht-degree: 0%
 
    ![](assets/welcome-to-the-setup-wizard-hand.png)
 
-1. **이름**, **성**, **이메일 주소**&#x200B;을 입력한 다음, 전자 메일**의 등록 코드를 복사하여 양식에 붙여 넣은 다음 **다음**&#x200B;을 클릭합니다.
+1. **이름**, **성**, **이메일 주소**&#x200B;를 입력한 다음 이메일의 **등록 코드**&#x200B;을 복사하여 양식에 붙여 넣은 다음 **다음**&#x200B;을 클릭합니다.
 
    ![](assets/enter-your-information-hands.png)
 
@@ -79,7 +76,7 @@ ht-degree: 0%
    >
    >설치에 실패하는 경우 IT 부서에 문의하여 HTTPS 트래픽이 차단되지 않았는지 확인하십시오. 설치 관리자를 열려면 HTTPS 트래픽이 있어야 합니다.
 
-1. 기본 위치에 설치하려면 [다음**]을 클릭합니다.
+1. 기본 위치에 설치하려면 **다음**&#x200B;을 클릭합니다.
 
    ![](assets/select-installation-folder-hand.png)
 
@@ -105,10 +102,6 @@ ht-degree: 0%
 
 >[!MORELIKETHIS]
 >
->* [Outlook용 Marketing To 이메일 추가 기능을 사용하여 이메일 보내기 및 추적](send-and-track-an-email-with-the-email-add-in-for-outlook.md)
->* [마케팅 템플릿을 사용하여 Outlook에서 보내기 및 추적](send-and-track-from-outlook-using-a-marketo-template.md)
-
->
-
-
+>* [Outlook용 Marketing To 이메일 추가 기능을 사용하여 이메일 보내기 및 추적](/help/marketo/product-docs/marketo-sales-insight/msi-outlook-plugin/send-and-track-an-email-with-the-email-add-in-for-outlook.md)
+>* [마케팅 템플릿을 사용하여 Outlook에서 보내기 및 추적](/help/marketo/product-docs/marketo-sales-insight/msi-outlook-plugin/send-and-track-from-outlook-using-a-marketo-template.md)
 
