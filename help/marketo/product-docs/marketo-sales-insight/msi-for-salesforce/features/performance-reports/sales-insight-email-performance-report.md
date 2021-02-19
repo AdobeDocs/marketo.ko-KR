@@ -3,7 +3,7 @@ unique-page-id: 4720314
 description: 영업 통찰력 이메일 성과 보고서 - 마케팅 문서 - 제품 설명서
 title: Sales Insight 이메일 성과 보고서
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: 972cf9769ac751d9abfd5665975703dcd07930f0
 workflow-type: tm+mt
 source-wordcount: '156'
 ht-degree: 0%
@@ -64,4 +64,3 @@ Salesforce, Microsoft Dynamics, Gmail 또는 Outlook 플러그인을 통해 전�
    ![](assets/image2014-12-9-12-3a19-3a7.png)
 
    꽤 멋지지? 이제 영업 대표별로 그룹화된 이메일의 성과를 확인할 수 있습니다.
-
