@@ -3,19 +3,15 @@ unique-page-id: 11385938
 description: 이메일에 대한 예측 컨텐츠 편집 - 마케팅 문서 - 제품 설명서
 title: 이메일에 대한 예측 컨텐츠 편집
 translation-type: tm+mt
-source-git-commit: f74d028e491aa70913fbe5cf14e536e50dbee32b
+source-git-commit: 06e0f5489e6375a97e2fe77834bf45fa41f23ea6
 workflow-type: tm+mt
-source-wordcount: '275'
+source-wordcount: '227'
 ht-degree: 0%
 
 ---
 
 
 # 이메일에 대한 예측 컨텐츠 편집 {#edit-predictive-content-for-emails}
-
->[!NOTE]
->
->구매 날짜에 따라 마케팅 구독에 Marketing To 예측 컨텐츠 또는 컨텐츠`<sup>AI</sup>`가 포함될 수 있습니다. 예측 컨텐츠를 사용하는 사용자의 경우 Marketing에서는 2018년 4월 30일까지 컨텐츠`<sup>AI</sup>` 분석 기능을 활성화합니다. 이러한 기능을 해당 날짜 이상으로 유지하려면 마케팅 고객 성공 관리자에게 문의하여 Marketing To Content`<sup>AI</sup>`으로 업그레이드하십시오.
 
 이메일에 대한 예측 컨텐츠를 설정하는 방법은 다음과 같습니다.
 
