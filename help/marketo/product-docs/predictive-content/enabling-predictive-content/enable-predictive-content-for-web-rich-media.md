@@ -3,9 +3,9 @@ unique-page-id: 7514956
 description: 웹 리치 미디어용 예측 컨텐츠 활성화 - 마케팅 문서 - 제품 설명서
 title: 웹 리치 미디어용 예측 컨텐츠 사용
 translation-type: tm+mt
-source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
+source-git-commit: 06e0f5489e6375a97e2fe77834bf45fa41f23ea6
 workflow-type: tm+mt
-source-wordcount: '280'
+source-wordcount: '278'
 ht-degree: 0%
 
 ---
@@ -19,11 +19,14 @@ ht-degree: 0%
 >
 >예측 컨텐츠를 활성화하려면 먼저 다음을 수행해야 합니다.
 >
->* [예측 컨텐츠 준비](https://docs.marketo.com/display/docs/edit+predictive+content)
->* [예측 컨텐트에 대한 제목 승인](/help/marketo/product-docs/predictive-content/working-with-all-content/approve-a-title-for-predictive-content.md)
-
+>* **예측 컨텐츠 준비**
+   >
+   >   
+   * [이메일용 예측 컨텐츠 ](/help/marketo/product-docs/predictive-content/working-with-predictive-content/edit-predictive-content-for-emails.md) 편집
+   >   * [리치 미디어용 예측 컨텐츠 ](/help/marketo/product-docs/predictive-content/working-with-predictive-content/edit-predictive-content-for-rich-media.md) 편집
+   >   * [권장 사항 막대에 대한 예측 컨텐츠 편집](/help/marketo/product-docs/predictive-content/working-with-predictive-content/edit-predictive-content-for-the-recommendation-bar.md)
 >
-
+>* [예측 컨텐트에 대한 제목 승인](/help/marketo/product-docs/predictive-content/working-with-all-content/approve-a-title-for-predictive-content.md)
 
 
 리치 미디어용 컨텐츠 제목, 설명 및 이미지를 준비하면 개별 또는 여러 개의 컨텐츠 조각을 활성화할 수 있습니다.
@@ -58,9 +61,3 @@ Marketing To 개발자 사이트에서 리치 미디어 권장 사항 템플릿 
 리치 미디어 권장 사항 템플릿2의 예는 다음과 같습니다.
 
 ![](assets/image2015-12-20-10-3a35-3a12.png)
-
->[!MORELIKETHIS]
->
->* [컨텐츠 권장 사항 막대 활성화](enable-the-content-recommendation-bar.md)
->* [이메일에서 예측 컨텐츠 사용](https://docs.marketo.com/x/vLit)
-
