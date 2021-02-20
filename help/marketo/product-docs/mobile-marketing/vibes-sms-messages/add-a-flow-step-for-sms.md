@@ -3,7 +3,7 @@ unique-page-id: 11379045
 description: SMS - Marketing To Docs - 제품 설명서에 대한 흐름 단계 추가
 title: SMS용 흐름 단계 추가
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: 06e0f5489e6375a97e2fe77834bf45fa41f23ea6
 workflow-type: tm+mt
 source-wordcount: '283'
 ht-degree: 0%
@@ -26,11 +26,8 @@ Marketing에는 SMS 스마트 캠페인에 사용할 수 있는 3가지 흐름 �
 >* 전화 번호별 Marketing to 중복 제거. 따라서 여러 사람이 같은 전화 번호를 갖고 있으면 한 명만 메시지를 받게 됩니다.
 >* Marketing To는 마케팅차단 목록에 추가된이 일시 중지된 사람에게 전송되지 않습니다.
 
->
 
-
-
-흐름 단계 설정에 대한 일반적인 내용은 [스마트 캠페인에 흐름 단계 추가](../../../product-docs/core-marketo-concepts/smart-campaigns/flow-actions/add-a-flow-step-to-a-smart-campaign.md)를 참조하십시오.
+흐름 단계 설정에 대한 일반적인 내용은 [스마트 캠페인에 흐름 단계 추가](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/add-a-flow-step-to-a-smart-campaign.md)를 참조하십시오.
 
 SMS 사용에 대한 기본 사항은 다음과 같습니다.
 
@@ -50,6 +47,4 @@ SMS 사용에 대한 기본 사항은 다음과 같습니다.
    >
    >비브 목록 선택기는 스마트 목록에 이미 식별된 대상에 대한 추가 필터 역할을 수행하여 해당 비브 목록에 속하는 리드만 타깃팅합니다.
    >
-   >
    >**Subscribe to Vibe List** 및 **Visbe List** 흐름의 가입 해지는 서로 다른 요구 사항을 갖습니다. **가입**&#x200B;의 경우, 방문 목록 및 Vides 획득 캠페인을 선택해야 합니다. **가입 해지**&#x200B;의 경우 Vibes 목록만 필요합니다.
-
