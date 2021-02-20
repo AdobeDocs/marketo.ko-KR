@@ -3,7 +3,7 @@ unique-page-id: 7512451
 description: 푸시 알림 만들기 - 마케팅 문서 - 제품 설명서
 title: 푸시 알림 만들기
 translation-type: tm+mt
-source-git-commit: 00887ea53e395bea3a11fd28e0ac98b085ef6ed8
+source-git-commit: 06e0f5489e6375a97e2fe77834bf45fa41f23ea6
 workflow-type: tm+mt
 source-wordcount: '96'
 ht-degree: 0%
@@ -13,7 +13,7 @@ ht-degree: 0%
 
 # 푸시 알림 만들기 {#create-a-push-notification}
 
-푸시 알림을 손쉽게 만들 수 있습니다. 그러나 시작하기 전에 Marketing To Admin 및 Mobile Apps Developer에서 수행해야 하는 작업 중 필요한 사항을 설정해야 합니다. 자세한 내용은 [푸시 알림 이해](understanding-push-notifications.md)를 참조하십시오.
+푸시 알림을 손쉽게 만들 수 있습니다. 그러나 시작하기 전에 Marketing To Admin 및 Mobile Apps Developer에서 수행해야 하는 작업 중 필요한 사항을 설정해야 합니다. 자세한 내용은 [푸시 알림 이해](/help/marketo/product-docs/mobile-marketing/push-notifications/understanding-push-notifications.md)를 참조하십시오.
 
 1. **마케팅 활동** 영역으로 이동합니다.
 
@@ -35,5 +35,4 @@ ht-degree: 0%
 
    ![](assets/image2015-4-23-13-3a36-3a56.png)
 
-   달콤해! 푸시 알림이 생성되었으므로 먼저 [이(가)](configure-mobile-push-notification.md)에 알림해 보겠습니다.
-
+   달콤해! 푸시 알림이 생성되었으므로 먼저 [이(가)](/help/marketo/product-docs/mobile-marketing/push-notifications/configure-mobile-push-notification.md)에 알림해 보겠습니다.
