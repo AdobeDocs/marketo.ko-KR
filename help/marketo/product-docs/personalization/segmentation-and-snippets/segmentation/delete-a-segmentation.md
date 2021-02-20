@@ -3,9 +3,9 @@ unique-page-id: 2359510
 description: 세그멘테이션 삭제 - 마케팅 문서 - 제품 설명서
 title: 세그멘테이션 삭제
 translation-type: tm+mt
-source-git-commit: 00887ea53e395bea3a11fd28e0ac98b085ef6ed8
+source-git-commit: 06e0f5489e6375a97e2fe77834bf45fa41f23ea6
 workflow-type: tm+mt
-source-wordcount: '105'
+source-wordcount: '104'
 ht-degree: 0%
 
 ---
@@ -33,7 +33,7 @@ ht-degree: 0%
    >
    >세그멘테이션을 사용하는 자산에 대한 대체 항목을 삭제하거나 만들어 연결을 제거할 수 있습니다.
 
-   승인되지 않은 경우 세그멘테이션 작업을 클릭하고 세그멘테이션 삭제를 클릭합니다.
+1. 승인되지 않은 경우 **세그멘테이션 작업**&#x200B;을 클릭하고 세그멘테이션을 삭제합니다.
 
    ![](assets/image2017-3-28-15-3a51-3a46.png)
 
