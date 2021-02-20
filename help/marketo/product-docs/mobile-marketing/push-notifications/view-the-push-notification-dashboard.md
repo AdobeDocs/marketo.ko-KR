@@ -3,7 +3,7 @@ unique-page-id: 10096523
 description: 푸시 알림 대시보드 - 마케팅 문서 - 제품 설명서 보기
 title: 푸시 알림 대시보드 보기
 translation-type: tm+mt
-source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
+source-git-commit: 06e0f5489e6375a97e2fe77834bf45fa41f23ea6
 workflow-type: tm+mt
 source-wordcount: '130'
 ht-degree: 0%
@@ -27,20 +27,16 @@ ht-degree: 0%
 
    ![](assets/image2015-12-11-13-3a4-3a23.png)
 
-1. 서클 그래프로 iOS 및 Android에 대한 총 전송 및 총 탭을 볼 수 있습니다. 아래로 스크롤하여 막대 그래프에서 [감소]를 확인합니다.
+1. 서클 그래프로 iOS 및 Android에 대한 총 전송 및 총 탭 수를 볼 수 있습니다. 아래로 스크롤하여 막대 그래프에서 [감소]를 확인합니다.
 
    ![](assets/image2015-12-15-15-3a23-3a47.png)
 
    >[!NOTE]
    >
-   >**Sent** 지표는 푸시 알림을 전송한 정확한 사람 수보다 많은 전송을 반영할 수 있습니다. 푸시를 받을 수 있는 *개 장치 수*&#x200B;에 따라 계산되기 때문입니다. 예를 들어, 한 사람에게 3개의 장치가 있는 경우 대시보드는 하나가 아닌 3개의 전송을 등록합니다.
+   >_Sent_ 지표는 푸시 알림을 전송한 정확한 사람 수보다 많은 전송을 반영할 수 있습니다. 푸시를 받을 수 있는 *개 장치 수*&#x200B;에 따라 계산되기 때문입니다. 예를 들어, 한 사람에게 3개의 장치가 있는 경우 대시보드는 하나가 아닌 3개의 전송을 등록합니다.
 
    >[!MORELIKETHIS]
    >
-   >
-   >    
-   >    
-   >    * [푸시 알림 이해](understanding-push-notifications.md)
-   >    * [모바일 푸시 알림 보내기](send-a-mobile-push-notification.md)
-
+   >* [푸시 알림 이해](/help/marketo/product-docs/mobile-marketing/push-notifications/understanding-push-notifications.md)
+   >* [모바일 푸시 알림 보내기](/help/marketo/product-docs/mobile-marketing/push-notifications/send-a-mobile-push-notification.md)
 
