@@ -3,7 +3,7 @@ unique-page-id: 2359512
 description: 스마트 목록에서 세그먼트 필터 사용 - 마케팅 문서 - 제품 설명서
 title: 스마트 목록에서 세그먼트 필터 사용
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 06e0f5489e6375a97e2fe77834bf45fa41f23ea6
 workflow-type: tm+mt
 source-wordcount: '66'
 ht-degree: 0%
@@ -15,11 +15,8 @@ ht-degree: 0%
 
 >[!PREREQUISITES]
 >
->* [스마트 목록 만들기](../../../../product-docs/core-marketo-concepts/smart-lists-and-static-lists/creating-a-smart-list/create-a-smart-list.md)
->* [세그멘테이션 만들기](create-a-segmentation.md)
-
->
-
+>* [스마트 목록 만들기](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/creating-a-smart-list/create-a-smart-list.md)
+>* [세그멘테이션 만들기](/help/marketo/product-docs/personalization/segmentation-and-snippets/segmentation/create-a-segmentation.md)
 
 
 세그먼트 필터를 사용하여 스마트 목록 성능을 최적화합니다.
