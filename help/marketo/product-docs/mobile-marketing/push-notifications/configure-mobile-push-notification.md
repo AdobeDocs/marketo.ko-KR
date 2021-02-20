@@ -3,9 +3,9 @@ unique-page-id: 7512454
 description: 모바일 푸시 알림 구성 - 마케팅 문서 - 제품 설명서
 title: 모바일 푸시 알림 구성
 translation-type: tm+mt
-source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
+source-git-commit: 06e0f5489e6375a97e2fe77834bf45fa41f23ea6
 workflow-type: tm+mt
-source-wordcount: '470'
+source-wordcount: '469'
 ht-degree: 0%
 
 ---
@@ -13,7 +13,7 @@ ht-degree: 0%
 
 # 모바일 푸시 알림 구성 {#configure-mobile-push-notification}
 
-1. 마케팅 활동 영역으로 이동합니다.
+1. **마케팅 활동** 영역으로 이동합니다.
 
 ![](assets/2fbf1ab6-2247-40c8-980d-be56b9d94890.png)
 
@@ -29,11 +29,11 @@ ht-degree: 0%
 
    ![](assets/image2016-8-23-16-3a53-3a33.png)
 
-   푸시 메시지가 하나의 플랫폼(예: iPhone의 경우)에만 적용되는 경우 선택기를 [사용 안 함]으로 밀어 다른 플랫폼을 제외할 수 있습니다.
+1. 푸시 메시지가 하나의 플랫폼(예: iPhone의 경우)에만 적용되는 경우 선택기를 [사용 안 함]으로 밀어 다른 플랫폼을 제외할 수 있습니다.
 
    ![](assets/image2016-8-23-16-3a41-3a48.png)
 
-   다음을 클릭합니다.
+1. **다음**&#x200B;을 클릭합니다.
 
    ![](assets/image2016-8-23-16-3a43-3a28.png)
 
@@ -47,25 +47,19 @@ ht-degree: 0%
 
    >[!NOTE]
    >
-   >**정의**
-   >
-   >
-   >3가지 유형의** 탭 작업**
-   >
+   >탭 동작에는 다음 3가지 유형이 있습니다.
    >
    >**앱**  시작  **- 이** 앱은 알림을 탭하면 앱의 홈 페이지가 열립니다. **사용자** 는 딥 링크를 사용하여 앱의 다른 영역 또는 링크가 있는 기타 앱을 엽니다( [자세한 내용은 아래](#Deeplink) 의 딥 링크 URI를 참조하십시오).
    >
-   >
    >**랜딩 페이지**  - 지정된 마케팅 랜딩 페이지로 이동합니다.
-   >
    >
    >**외부 URL**  - 비마케팅 랜딩 페이지로 이동합니다.
 
-   사용자 지정 탭 작업에 대한 딥 링크를 삽입하려면 사용자 지정을 클릭하고 필드에 [딥 링크 URI](#Deeplink)를 입력합니다.
+1. 사용자 지정 탭 작업에 대한 딥 링크를 삽입하려면 사용자 지정을 클릭하고 필드에 [딥 링크 URI](#Deeplink)를 입력합니다.
 
    ![](assets/image2016-7-28-16-3a19-3a13.png)
 
-   토큰을 삽입하려면 토큰을 선택하고 기본값을 입력한 다음 [삽입]을 클릭합니다.
+1. 토큰을 삽입하려면 토큰을 선택하고 기본값을 입력한 다음 [삽입]을 클릭합니다.
 
    >[!NOTE]
    >
@@ -77,11 +71,11 @@ ht-degree: 0%
    >
    >메시지 및 탭 동작은 두 플랫폼에서 동일하게 표시됩니다.
 
-   iOS에만 해당되는 경우 이 확인란을 선택하여 메시지가 도착하면 앱에서 사운드를 재생하도록 하십시오. Android에서 자동으로 사운드를 재생합니다.
+1. iOS에만 해당되는 경우 이 확인란을 선택하여 메시지가 도착하면 앱에서 사운드를 재생하도록 하십시오. Android에서 자동으로 사운드를 재생합니다.
 
    ![](assets/ios-tap-and-notification-hand.png)
 
-   다른 플랫폼을 미리 보고 마침을 클릭합니다.
+1. 다른 플랫폼을 미리 보고 **마침**&#x200B;을 클릭합니다.
 
    ![](assets/image2015-9-14-16-3a12-3a34.png)
 
@@ -103,9 +97,4 @@ ht-degree: 0%
 
 >[!MORELIKETHIS]
 >
->* [모바일 푸시 알림 보내기](send-a-mobile-push-notification.md)
-
->
-
-
-
+>[모바일 푸시 알림 보내기](/help/marketo/product-docs/mobile-marketing/push-notifications/send-a-mobile-push-notification.md)
