@@ -3,9 +3,9 @@ unique-page-id: 2359474
 description: 세그멘테이션 편집 - 마케팅 문서 - 제품 설명서
 title: 세그멘테이션 편집
 translation-type: tm+mt
-source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
+source-git-commit: 06e0f5489e6375a97e2fe77834bf45fa41f23ea6
 workflow-type: tm+mt
-source-wordcount: '205'
+source-wordcount: '196'
 ht-degree: 0%
 
 ---
@@ -25,7 +25,7 @@ ht-degree: 0%
 
    ![](assets/two.png)
 
-1. **Status**를 초안으로 승인됨으로 변경합니다. **Draft **폴더가 세그멘테이션에 생성됩니다.
+1. **상태**&#x200B;가 초안으로 승인됨으로 변경됩니다. **초안** 폴더가 세그멘테이션에 생성됩니다.
 
    ![](assets/three.png)
 
@@ -39,7 +39,7 @@ ht-degree: 0%
    >
    >초안 세그먼트만 편집할 수 있고 승인된 세그먼테이션은 편집할 수 없습니다.
 
-1. **세그먼트** 추가, **기존 세그먼트 편집(순서 이름 변경) 또는 **세그먼트 삭제** 세그먼트를 추가합니다.
+1. **세그먼트 추가**, 기존  **** 편집(주문 이름 변경) 또는 세그먼트  **** 삭제
 
    ![](assets/image2014-9-16-9-3a6-3a9.png)
 
@@ -53,7 +53,7 @@ ht-degree: 0%
 
 ## 세그먼트 규칙 편집 {#edit-segment-rules}
 
-1. 초안 **세그먼트**&#x200B;에서 **스마트 목록**&#x200B;으로 이동합니다. [세그먼트 규칙 정의](https://docs.marketo.com/display/public/DOCS/Define+Segment+Rules)와 유사한 규칙을 적용합니다.
+1. 초안 **세그먼트**&#x200B;에서 **스마트 목록**&#x200B;으로 이동합니다. [세그먼트 규칙 정의](/help/marketo/product-docs/personalization/segmentation-and-snippets/segmentation/define-segment-rules.md)와 유사한 규칙을 적용합니다.
 
    ![](assets/image2014-9-16-9-3a6-3a20.png)
 
@@ -63,18 +63,10 @@ ht-degree: 0%
 
    >[!NOTE]
    >
-   >**미리 알림**
-   >
-   >
    >세그멘테이션 초안을 승인해야 합니다.
 
 동적 컨텐츠에 사용되지 않는 세그먼트를 자유롭게 실험해 볼 수 있습니다.
 
 >[!MORELIKETHIS]
 >
->* [세그멘테이션 삭제](delete-a-segmentation.md)
-
->
-
-
-
+>[세그멘테이션 삭제](/help/marketo/product-docs/personalization/segmentation-and-snippets/segmentation/delete-a-segmentation.md)
