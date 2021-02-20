@@ -3,9 +3,9 @@ unique-page-id: 14745750
 description: 알고리즘 목표 설정 - 마케팅 문서 - 제품 설명서
 title: 알고리즘 목표 설정
 translation-type: tm+mt
-source-git-commit: f28ff1acb0090892bdb92b75ef90d489db7abf20
+source-git-commit: 06e0f5489e6375a97e2fe77834bf45fa41f23ea6
 workflow-type: tm+mt
-source-wordcount: '103'
+source-wordcount: '105'
 ht-degree: 0%
 
 ---
@@ -27,11 +27,10 @@ ht-degree: 0%
 
    ![](assets/three-new.png)
 
-   | **`Clicks`** | 컨텐트를 보는 사람이 클릭하도록 할 가능성이 가장 높은 컨텐트를 표시합니다. |
+   | **클릭 수** | 컨텐트를 보는 사람이 클릭하도록 할 가능성이 가장 높은 컨텐트를 표시합니다. |
    |---|---|
-   | **`Conversions`** | 컨텐트를 보는 사람이 양식을 제출하도록 할 가능성이 가장 큰 컨텐트를 표시합니다. |
+   | **전환** | 컨텐트를 보는 사람이 양식을 제출하도록 할 가능성이 가장 큰 컨텐트를 표시합니다. |
 
 1. 완료되면 **저장**&#x200B;을 클릭합니다.
 
    ![](assets/four.png)
-
