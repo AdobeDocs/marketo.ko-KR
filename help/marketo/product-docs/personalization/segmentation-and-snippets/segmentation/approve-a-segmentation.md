@@ -3,9 +3,9 @@ unique-page-id: 2359457
 description: 세그멘테이션 승인 - 마케팅 문서 - 제품 설명서
 title: 세그멘테이션 승인
 translation-type: tm+mt
-source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
+source-git-commit: 06e0f5489e6375a97e2fe77834bf45fa41f23ea6
 workflow-type: tm+mt
-source-wordcount: '237'
+source-wordcount: '224'
 ht-degree: 0%
 
 ---
@@ -17,11 +17,8 @@ ht-degree: 0%
 
 >[!PREREQUISITES]
 >
->* [세그멘테이션 만들기](create-a-segmentation.md)
->* [세그먼트 규칙 정의](define-segment-rules.md)
-
->
-
+>* [세그멘테이션 만들기](/help/marketo/product-docs/personalization/segmentation-and-snippets/segmentation/create-a-segmentation.md)
+>* [세그먼트 규칙 정의](/help/marketo/product-docs/personalization/segmentation-and-snippets/segmentation/define-segment-rules.md)
 
 
 1. **데이터베이스**&#x200B;로 이동합니다.
@@ -55,13 +52,8 @@ ht-degree: 0%
 >
 >세그멘테이션에서 만들 수 있는 총 세그먼트 수는 사용된 필터의 수와 유형 및 세그먼트의 논리가 얼마나 복잡한지에 따라 달라집니다. 표준 필드를 사용하여 최대 100개의 세그먼트를 만들 수 있지만, 다른 유형의 필터를 사용하면 복잡성이 가중되고 세그멘테이션이 승인되지 않을 수 있습니다. 예를 들면 다음과 같습니다.사용자 지정 필드, 목록 구성원, 리드 소유자 필드 및 매출 단계
 >
->승인 중에 오류 메시지가 표시되고 세그멘테이션의 복잡성을 줄이는 데 도움이 필요한 경우 [Marketing Support](https://docs.marketo.com/cdn-cgi/l/email-protection#93e0e6e3e3fce1e7d3fef2e1f8f6e7fcbdf0fcfe)에 문의하십시오.
+>승인 중에 오류 메시지가 표시되고 세그멘테이션의 복잡성을 줄이는 데 도움이 필요한 경우 [Marketing Support](https://nation.marketo.com/t5/Support/ct-p/Support)에 문의하십시오.
 
 >[!MORELIKETHIS]
 >
->* [스마트 목록에서 세그먼트 필터 사용](use-segment-filters-in-a-smart-list.md)
-
->
-
-
-
+>[스마트 목록에서 세그먼트 필터 사용](/help/marketo/product-docs/personalization/segmentation-and-snippets/segmentation/use-segment-filters-in-a-smart-list.md)
