@@ -3,9 +3,9 @@ unique-page-id: 11385020
 description: 이메일에서 예측 컨텐츠 사용 - 마케팅 문서 - 제품 설명서
 title: 이메일에서 예측 컨텐츠 사용
 translation-type: tm+mt
-source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
+source-git-commit: 06e0f5489e6375a97e2fe77834bf45fa41f23ea6
 workflow-type: tm+mt
-source-wordcount: '367'
+source-wordcount: '387'
 ht-degree: 0%
 
 ---
@@ -21,9 +21,15 @@ ht-degree: 0%
 
 >[!PREREQUISITES]
 >
->예측 컨텐츠를 활성화하기 전에. 다음을 수행해야 합니다.
+>예측 컨텐츠를 활성화하려면 먼저 다음을 수행해야 합니다.
 >
->* [예측 컨텐츠 준비](/help/marketo/product-docs/predictive-content/working-with-predictive-content/edit-predictive-content-for-emails.md)
+>* **예측 컨텐츠 준비**
+   >
+   >   
+   * [이메일용 예측 컨텐츠 ](/help/marketo/product-docs/predictive-content/working-with-predictive-content/edit-predictive-content-for-emails.md) 편집
+   >   * [리치 미디어용 예측 컨텐츠 ](/help/marketo/product-docs/predictive-content/working-with-predictive-content/edit-predictive-content-for-rich-media.md) 편집
+   >   * [권장 사항 막대에 대한 예측 컨텐츠 편집](/help/marketo/product-docs/predictive-content/working-with-predictive-content/edit-predictive-content-for-the-recommendation-bar.md)
+>
 >* [예측 컨텐트에 대한 제목 승인](/help/marketo/product-docs/predictive-content/working-with-all-content/approve-a-title-for-predictive-content.md)
 
 
@@ -37,7 +43,7 @@ ht-degree: 0%
 
    ![](assets/two.png)
 
-1. 예측하려는 이미지를 클릭합니다. 톱니바퀴 아이콘이 나타나면 아이콘을 클릭하고 **컨텐트 활성화`AI`**(컨텐트`AI`는 예측 컨텐트의 이전 이름)를 선택합니다.
+1. 예측하려는 이미지를 클릭합니다. 톱니바퀴 아이콘이 나타나면 아이콘을 클릭하고 **Enable ContentAI**(ContentAI는 예측 컨텐츠의 이전 이름)을 선택합니다.
 
    ![](assets/three.png)
 
