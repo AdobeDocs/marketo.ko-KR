@@ -3,9 +3,9 @@ unique-page-id: 10100644
 description: 인앱 메시지 단추 - 마케팅 문서 - 제품 설명서 설정
 title: 인앱 메시지 단추 설정
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 06e0f5489e6375a97e2fe77834bf45fa41f23ea6
 workflow-type: tm+mt
-source-wordcount: '264'
+source-wordcount: '263'
 ht-degree: 0%
 
 ---
@@ -51,7 +51,7 @@ ht-degree: 0%
 
    ![](assets/image2016-5-6-16-3a41-3a52.png)
 
-1. 강조할 글꼴 스타일 선택:**굵게**, *기울임체* 또는 밑줄
+1. 강조할 글꼴 스타일 선택:**굵게**, _기울임체_ 또는 밑줄
 
    ![](assets/image2016-5-6-16-3a43-3a47.png)
 
@@ -63,27 +63,18 @@ ht-degree: 0%
 
    ![](assets/image2016-5-6-16-3a47-3a54.png)
 
-   각 플랫폼에 대한 드롭다운을 클릭하고 탭 작업을 선택합니다.
+1. 각 플랫폼에 대한 드롭다운을 클릭하고 탭 작업을 선택합니다.
 
    ![](assets/image2016-5-6-16-3a49-3a40.png)
 
    >[!NOTE]
    >
-   >**미리 알림**
-   >
-   >
    >단추에는 항상 탭 동작이 있으므로, 기본 메시지 &quot;메시지 해제&quot;와 함께 작업 탭 확인란이 자동으로 선택됩니다.
 
-   [인앱 메시지 배경 구성 및 해제 단추](set-up-the-in-app-message-background.md)
-
-거의 다 왔어 마지막 단계는 .
+거의 다 왔어 마지막 단계는 [인앱 메시지 배경을 구성하고 단추](/help/marketo/product-docs/mobile-marketing/in-app-messages/creating-in-app-messages/set-up-the-in-app-message-background.md)를 취소하는 것입니다.
 
 >[!MORELIKETHIS]
 >
->* [인앱 메시지 이해](../../../../product-docs/mobile-marketing/in-app-messages/understanding-in-app-messages.md)
->* [인앱 메시지에 사용할 레이아웃 선택](choose-a-layout-for-your-in-app-message.md)
-
->
-
-
+>* [인앱 메시지 이해](/help/marketo/product-docs/mobile-marketing/in-app-messages/understanding-in-app-messages.md)
+>* [인앱 메시지에 사용할 레이아웃 선택](/help/marketo/product-docs/mobile-marketing/in-app-messages/creating-in-app-messages/choose-a-layout-for-your-in-app-message.md)
 
