@@ -3,9 +3,9 @@ unique-page-id: 2359496
 description: 코드 조각에 컨텐츠 추가 - 마케팅 문서 - 제품 설명서
 title: 조각에 컨텐츠 추가
 translation-type: tm+mt
-source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
+source-git-commit: 06e0f5489e6375a97e2fe77834bf45fa41f23ea6
 workflow-type: tm+mt
-source-wordcount: '206'
+source-wordcount: '199'
 ht-degree: 0%
 
 ---
@@ -15,7 +15,7 @@ ht-degree: 0%
 
 >[!PREREQUISITES]
 >
->[코드 단편 만들기](create-a-snippet.md)
+>[코드 단편 만들기](/help/marketo/product-docs/personalization/segmentation-and-snippets/snippets/create-a-snippet.md)
 
 코드 조각에 토큰, 이미지, 파일 또는 리치 텍스트를 추가할 수 있습니다.
 
@@ -23,7 +23,7 @@ ht-degree: 0%
 >
 >코드 조각에 [Marketing 전자 메일 구문](/help/marketo/product-docs/email-marketing/general/email-editor-2/email-template-syntax.md)을(를) 포함할 수 없습니다.**은(는) 이메일에서 작동하지 않습니다.** 코드 조각은 본문 내용(HTML + TEXT)이어야 합니다.
 
-1. **디자인 스튜디오로 이동합니다.**
+1. **디자인 스튜디오**&#x200B;로 이동합니다.
 
    ![](assets/designstudio-2.png)
 
@@ -51,7 +51,7 @@ ht-degree: 0%
 
    >[!NOTE]
    >
-   >자체 이미지 또는 파일을 Marketing To에 추가할 수 있습니다. [이미지 및 파일](https://docs.marketo.com/display/docs/images+and+files)에 대해 자세히 알아보십시오.
+   >자체 이미지 또는 파일을 Marketing To에 추가할 수 있습니다. [이미지 및 파일](/help/marketo/product-docs/demand-generation/images-and-files/add-images-and-files-to-marketo.md)에 대해 자세히 알아보십시오.
 
 1. 사용할 **이미지**&#x200B;를 선택하고 **삽입**&#x200B;을 클릭합니다.
 
@@ -87,6 +87,6 @@ ht-degree: 0%
 
 >[!MORELIKETHIS]
 >
->* [코드 단편 미리 보기](preview-a-snippet.md)
->* [코드 단편 승인](approve-a-snippet.md)
+>* [코드 단편 미리 보기](/help/marketo/product-docs/personalization/segmentation-and-snippets/snippets/preview-a-snippet.md)
+>* [코드 단편 승인](/help/marketo/product-docs/personalization/segmentation-and-snippets/snippets/approve-a-snippet.md)
 
