@@ -3,7 +3,7 @@ unique-page-id: 10092730
 description: 푸시 알림 미리 보기 - 마케팅 문서 - 제품 설명서
 title: 푸시 알림 미리 보기
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 06e0f5489e6375a97e2fe77834bf45fa41f23ea6
 workflow-type: tm+mt
 source-wordcount: '245'
 ht-degree: 0%
@@ -23,7 +23,7 @@ Android 또는 iOS에서 푸시 알림의 모양을 미리 볼 수 있습니다.
 
 ![](assets/image2015-9-4-9-3a52-3a27.png)
 
-또는 푸시 알림 보기 페이지에서 **푸시 알림 작업**&#x200B;을 클릭한 다음 **미리 보기**&#x200B;를 클릭합니다. 또는 오른쪽 끝에 있는 **미리 보기 **를 클릭합니다.** **
+또는 푸시 알림 보기 페이지에서 **푸시 알림 작업**&#x200B;을 클릭한 다음 **미리 보기**&#x200B;를 클릭합니다. 또는 맨 오른쪽에 있는 **미리 보기**&#x200B;를 클릭합니다.
 
 ![](assets/image2015-9-4-10-3a53-3a28.png)
 
@@ -67,10 +67,6 @@ Android에서와 마찬가지로 키보드 화살표를 클릭하거나 사용�
 
 >[!MORELIKETHIS]
 >
->* [푸시 알림 만들기](create-a-push-notification.md)
->* [모바일 푸시 알림 구성](configure-mobile-push-notification.md)
-
->
-
-
+>* [푸시 알림 만들기](/help/marketo/product-docs/mobile-marketing/push-notifications/create-a-push-notification.md)
+>* [모바일 푸시 알림 구성](/help/marketo/product-docs/mobile-marketing/push-notifications/configure-mobile-push-notification.md)
 
