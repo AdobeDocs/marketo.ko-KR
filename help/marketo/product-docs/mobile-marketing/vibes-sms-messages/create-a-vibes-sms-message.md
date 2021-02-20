@@ -3,7 +3,7 @@ unique-page-id: 11378869
 description: 동영상 SMS 메시지 만들기 - 마케팅 문서 - 제품 설명서
 title: 동영상 SMS 메시지 만들기
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: 06e0f5489e6375a97e2fe77834bf45fa41f23ea6
 workflow-type: tm+mt
 source-wordcount: '330'
 ht-degree: 0%
@@ -15,7 +15,7 @@ ht-degree: 0%
 
 Vibest SMS 메시지를 만드는 방법을 소개합니다.
 
-1. 마케팅 활동으로 이동하고 프로그램을 마우스 오른쪽 단추로 클릭합니다.
+1. **마케팅 활동**&#x200B;으로 이동하고 프로그램을 마우스 오른쪽 단추로 클릭합니다.
 
    ![](assets/mobile-right-click-hand.jpg)
 
