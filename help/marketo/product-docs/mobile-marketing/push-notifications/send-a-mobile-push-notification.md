@@ -3,7 +3,7 @@ unique-page-id: 7512457
 description: 모바일 푸시 알림 보내기 - Marketing To Docs - 제품 설명서
 title: 모바일 푸시 알림 보내기
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 06e0f5489e6375a97e2fe77834bf45fa41f23ea6
 workflow-type: tm+mt
 source-wordcount: '98'
 ht-degree: 0%
@@ -17,11 +17,8 @@ ht-degree: 0%
 
 >[!PREREQUISITES]
 >
->* [새 스마트 캠페인 만들기](../../../product-docs/core-marketo-concepts/smart-campaigns/creating-a-smart-campaign/create-a-new-smart-campaign.md)
->* [푸시 알림 만들기](create-a-push-notification.md)
-
->
-
+>* [새 스마트 캠페인 만들기](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/creating-a-smart-campaign/create-a-new-smart-campaign.md)
+>* [푸시 알림 만들기](/help/marketo/product-docs/mobile-marketing/push-notifications/create-a-push-notification.md)
 
 
 1. **마케팅 활동** 영역으로 이동합니다.
@@ -32,7 +29,7 @@ ht-degree: 0%
 
    ![](assets/image2015-4-23-17-3a57-3a46.png)
 
-1. 스마트 목록을 정의한 다음 **FLOW.**
+1. 스마트 목록을 정의한 다음 **흐름**&#x200B;을 클릭합니다.
 
    ![](assets/image2015-4-22-18-3a33-3a13.png)
 
