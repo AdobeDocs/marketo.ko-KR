@@ -3,9 +3,9 @@ unique-page-id: 2359518
 description: 코드 단편 삭제 - Marketing To Docs - 제품 설명서
 title: 코드 단편 삭제
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 06e0f5489e6375a97e2fe77834bf45fa41f23ea6
 workflow-type: tm+mt
-source-wordcount: '79'
+source-wordcount: '78'
 ht-degree: 0%
 
 ---
@@ -15,15 +15,11 @@ ht-degree: 0%
 
 >[!PREREQUISITES]
 >
->* [코드 조각 승인 취소](unapprove-a-snippet.md)
-
->
-
-
+>[코드 조각 승인 취소](/help/marketo/product-docs/personalization/segmentation-and-snippets/snippets/unapprove-a-snippet.md)
 
 더 이상 필요하지 않은 조각을 삭제합니다.
 
-1. **디자인 스튜디오로 이동합니다.**
+1. **디자인 스튜디오**&#x200B;로 이동합니다.
 
    ![](assets/image2014-9-16-10-3a43-3a47.png)
 
@@ -31,14 +27,11 @@ ht-degree: 0%
 
    ![](assets/image2014-9-16-10-3a43-3a57.png)
 
-1. **삭제 **를 클릭하여 확인하거나 **취소**&#x200B;만 클릭합니다.
+1. **삭제**&#x200B;를 클릭하여 확인하거나 **취소**&#x200B;만 클릭합니다.
 
    ![](assets/image2014-9-16-10-3a44-3a8.png)
 
    >[!NOTE]
-   >
-   >**미리 알림**
-   >
    >
    >승인되지 않고 자산에 사용되지 않는 코드 조각만 삭제할 수 있습니다.
 
