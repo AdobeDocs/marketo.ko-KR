@@ -3,9 +3,9 @@ unique-page-id: 11384645
 description: 모든 컨텐츠 이해 - 마케팅 문서 - 제품 설명서
 title: 모든 컨텐츠 이해
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 06e0f5489e6375a97e2fe77834bf45fa41f23ea6
 workflow-type: tm+mt
-source-wordcount: '319'
+source-wordcount: '271'
 ht-degree: 0%
 
 ---
@@ -13,11 +13,9 @@ ht-degree: 0%
 
 # 모든 내용 이해 {#understanding-all-content}
 
->[!NOTE]
->
->구매 날짜에 따라 마케팅 구독에 Marketing To 예측 컨텐츠 또는 컨텐츠`<sup>AI</sup>`가 포함될 수 있습니다. 예측 컨텐츠를 사용하는 사용자의 경우 Marketing에서는 2018년 4월 30일까지 컨텐츠`<sup>AI</sup>` 분석 기능을 활성화합니다. 이러한 기능을 해당 날짜 이상으로 유지하려면 마케팅 고객 성공 관리자에게 문의하여 Marketing To Content`<sup>AI</sup>`으로 업그레이드하십시오.
+모든 컨텐츠 페이지에는 검색되거나 수동으로 추가된 모든 컨텐츠가 표시됩니다.
 
-모든 컨텐츠 페이지에는 검색되거나 수동으로 추가된 모든 컨텐츠가 표시됩니다.   ![](assets/image2017-10-3-9-3a4-3a56.png)
+![](assets/image2017-10-3-9-3a4-3a56.png)
 
 페이지 필드는 다음과 같습니다.
 
@@ -52,12 +50,8 @@ ht-degree: 0%
 
 >[!MORELIKETHIS]
 >
->* [새 컨텐츠 추가](add-new-content.md)
->* [콘텐츠 삭제](delete-content.md)
->* [예측 컨텐트에 대한 제목 승인](approve-a-title-for-predictive-content.md)
->* [예측 컨텐트에 대한 제목 승인 취소](unapprove-a-title-for-predictive-content.md)
-
->
-
-
+>* [새 컨텐츠 추가](/help/marketo/product-docs/predictive-content/working-with-all-content/add-new-content.md)
+>* [콘텐츠 삭제](/help/marketo/product-docs/predictive-content/working-with-all-content/delete-content.md)
+>* [예측 컨텐트에 대한 제목 승인](/help/marketo/product-docs/predictive-content/working-with-all-content/approve-a-title-for-predictive-content.md)
+>* [예측 컨텐트에 대한 제목 승인 취소](/help/marketo/product-docs/predictive-content/working-with-all-content/unapprove-a-title-for-predictive-content.md)
 
