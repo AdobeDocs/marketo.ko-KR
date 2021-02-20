@@ -3,9 +3,9 @@ unique-page-id: 11378871
 description: 스마트 목록 트리거 및 필터에서 Vides SMS 메시지 사용 - Marketing Docs - 제품 설명서
 title: 스마트 목록 트리거 및 필터에서 Vides SMS 메시지 사용
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 06e0f5489e6375a97e2fe77834bf45fa41f23ea6
 workflow-type: tm+mt
-source-wordcount: '287'
+source-wordcount: '281'
 ht-degree: 0%
 
 ---
@@ -13,7 +13,7 @@ ht-degree: 0%
 
 # 스마트 목록 트리거 및 필터 {#use-vibes-sms-messages-in-smart-list-triggers-and-filters}에서 Vides SMS 메시지 사용
 
-[Vides SMS 메시지](create-a-vibes-sms-message.md)를 만든 후 스마트 캠페인 내에서 스마트 목록 트리거 및 필터를 사용하여 이점을 얻을 수 있습니다. 방법
+[Vides SMS 메시지](/help/marketo/product-docs/mobile-marketing/vibes-sms-messages/create-a-vibes-sms-message.md)를 만든 후 스마트 캠페인 내에서 스마트 목록 트리거 및 필터를 사용하여 이점을 얻을 수 있습니다. 방법
 
 1. 내 마케팅에서 **마케팅 활동**&#x200B;을 클릭합니다.
 
@@ -39,7 +39,7 @@ SMS 메시지 바운스 트리거는 SMS 메시지가 바운스될 때 이메일
 
 ![](assets/subscribes-to-vibes-list-real.jpg)
 
-SMS 메시지**의 링크 클릭 트리거는 SMS 메시지의 링크를 클릭할 때 흐름을 시작합니다.
+SMS 메시지의 링크를 클릭하면 **SMS 메시지 클릭 링크** 트리거가 흐름을 시작합니다.
 
 ![](assets/clicks-link-in-sms-message.jpg)
 
@@ -49,7 +49,7 @@ SMS 메시지**의 링크 클릭 트리거는 SMS 메시지의 링크를 클릭�
 
 ![](assets/subscribed-to-vibes-list-filter-real.jpg)
 
-대조적으로, 방문자 목록 **의 멤버는 **필터** **** **누구나** ***현재 Vibe에 가입되어 있으며 스마트 캠페인 또는 목록에 가장 적합합니다.*
+반대로, **Member of Videes 목록** 필터는 현재 Videes에 가입되어 있는 _모든_&#x200B;사람을 검색하여 스마트 캠페인 또는 목록에 가장 적합합니다.
 
 ![](assets/image001.png)
 
@@ -57,15 +57,10 @@ SMS 메시지**의 링크 클릭 트리거는 SMS 메시지의 링크를 클릭�
 >
 >모든 SMS 필터는 기본적으로 **활동 날짜** 제약 조건을 포함합니다.
 
-스마트 목록에서 Vibe 트리거 및 필터를 설정한 후 [흐름](add-a-flow-step-for-sms.md)을 정의할 수 있습니다.
+스마트 목록에서 Vibe 트리거 및 필터를 설정한 후 [흐름](/help/marketo/product-docs/mobile-marketing/vibes-sms-messages/add-a-flow-step-for-sms.md)을 정의할 수 있습니다.
 
 >[!MORELIKETHIS]
 >
->* [스마트 캠페인에 대한 스마트 목록 정의 | 트리거](../../../product-docs/core-marketo-concepts/smart-campaigns/creating-a-smart-campaign/define-smart-list-for-smart-campaign-trigger.md)
->* [스마트 목록에 필터 찾기 및 추가](../../../product-docs/core-marketo-concepts/smart-lists-and-static-lists/creating-a-smart-list/find-and-add-filters-to-a-smart-list.md)
->* [SMS용 흐름 단계 추가](add-a-flow-step-for-sms.md)
-
->
-
-
+>* [스마트 캠페인에 대한 스마트 목록 정의 | 트리거](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/creating-a-smart-campaign/define-smart-list-for-smart-campaign-trigger.md)
+>* [스마트 목록에 필터 찾기 및 추가](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/creating-a-smart-list/find-and-add-filters-to-a-smart-list.md)
 
