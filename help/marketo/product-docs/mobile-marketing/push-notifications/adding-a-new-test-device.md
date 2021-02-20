@@ -3,7 +3,7 @@ unique-page-id: 8783146
 description: 새 테스트 장치 추가 - 마케팅 문서 - 제품 설명서
 title: 새 테스트 장치 추가
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: 06e0f5489e6375a97e2fe77834bf45fa41f23ea6
 workflow-type: tm+mt
 source-wordcount: '130'
 ht-degree: 0%
@@ -19,7 +19,8 @@ ht-degree: 0%
 >
 >**관리자 권한 필요**
 
-1. **Admin **을 클릭한 다음 **모바일 앱** 링크를 클릭합니다.\
+1. **관리**&#x200B;를 클릭한 다음 **모바일 앱** 링크를 클릭합니다.
+
    ![](assets/image2015-7-9-14-3a33-3a12.png)
 
 1. **테스트 장치** 탭 및 **새 테스트 장치**&#x200B;를 클릭합니다.
@@ -51,4 +52,3 @@ ht-degree: 0%
 1. 장치를 표시하는 상태 업데이트가 추가되었습니다. 축하합니다!
 
    ![](assets/image2015-7-17-17-3a14-3a32.png)
-
