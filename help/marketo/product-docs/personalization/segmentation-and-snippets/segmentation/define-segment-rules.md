@@ -3,9 +3,9 @@ unique-page-id: 2359449
 description: 세그먼트 규칙 정의 - 마케팅 문서 - 제품 설명서
 title: 세그먼트 규칙 정의
 translation-type: tm+mt
-source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
+source-git-commit: 06e0f5489e6375a97e2fe77834bf45fa41f23ea6
 workflow-type: tm+mt
-source-wordcount: '391'
+source-wordcount: '371'
 ht-degree: 0%
 
 ---
@@ -17,13 +17,13 @@ ht-degree: 0%
 
 >[!PREREQUISITES]
 >
->[세그멘테이션 만들기](create-a-segmentation.md)
+>[세그멘테이션 만들기](/help/marketo/product-docs/personalization/segmentation-and-snippets/segmentation/create-a-segmentation.md)
 
 1. **데이터베이스로 이동합니다.**
 
    ![](assets/image2017-3-28-14-3a7-3a42.png)
 
-1. 트리에서 **세그멘테이션 **을 클릭한 다음 특정 **세그먼트**&#x200B;를 클릭합니다.
+1. 트리에서 **세그멘테이션**&#x200B;을 클릭한 다음 특정 **세그먼트**&#x200B;를 클릭합니다.
 
    ![](assets/image2017-3-28-14-3a11-3a15.png)
 
@@ -33,7 +33,7 @@ ht-degree: 0%
 
    >[!CAUTION]
    >
-   >현재 세그먼트는 필터에 대해 *과거* 및 *기간 *연산자를 지원하지 않습니다. 변경 데이터 값이 기록될 때만 세그먼테이션에서 업데이트를 확인할 수 있기 때문입니다. 이러한 값은 공식 필드 및 날짜와 같이 자동으로 변경되는 항목에 대해 기록되지 않은 *입니다.* 또한 상대 날짜 범위의 날짜 연산자는 세그멘테이션 승인 시 계산되기 때문에 데이터 값 변경 작업 시점의 데이터가 아니라 지원되지 않습니다.
+   >현재 세그먼트는 필터에 대해 _과거_ 및 _일정 내_ 연산자를 지원하지 않습니다. 변경 데이터 값이 기록될 때만 세그먼테이션에서 업데이트를 확인할 수 있기 때문입니다. 이러한 값은 공식 필드 및 날짜와 같이 자동으로 변경되는 항목에 대해 기록되지 않은 _입니다._ 또한 상대 날짜 범위의 날짜 연산자는 세그멘테이션 승인 시 계산되기 때문에 데이터 값 변경 작업 시점의 데이터가 아니라 지원되지 않습니다.
 
    >[!NOTE]
    >
@@ -45,10 +45,7 @@ ht-degree: 0%
 
    >[!NOTE]
    >
-   >**자세히 알아보기**
-   >
-   >
-   >스마트 목록은 멋진 기능입니다. [스마트 목록 및 정적 목록](https://docs.marketo.com/display/docs/smart+lists+and+static+lists)으로 수행할 수 있는 모든 작업을 알아봅니다.
+   >스마트 목록은 멋진 기능입니다. [자세한 내용을 살펴보십시오](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/understanding-smart-lists.md).
 
 1. 이 세그먼트의 구성원이 될 수 있는 사람을 보려면 **사람(초안)** 탭을 클릭합니다.
 
@@ -62,7 +59,6 @@ ht-degree: 0%
    >
    >세그멘테이션에서 만들 수 있는 총 세그먼트 수는 사용된 필터의 수와 유형 및 세그먼트의 논리가 얼마나 복잡한지에 따라 달라집니다. 표준 필드를 사용하여 최대 100개의 세그먼트를 만들 수 있지만, 다른 유형의 필터를 사용하면 복잡성이 가중되고 세그멘테이션이 승인되지 않을 수 있습니다. 예를 들면 다음과 같습니다.사용자 지정 필드, 목록 구성원, 리드 소유자 필드 및 매출 단계
    >
-   >
    >승인 중에 오류 메시지가 표시되고 세그멘테이션의 복잡성을 줄이는 데 도움이 필요한 경우 [Marketing Support](https://nation.marketo.com/t5/Support/ct-p/Support)에 문의하십시오.
 
 1. 적용된 규칙뿐만 아니라 파이 차트에서 세그먼트에 대한 빠른 개요를 보려면 대시보드를 확인합니다.
@@ -73,19 +69,12 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->한 사람은 다른 세그먼트에 자격이 있을 수 있지만, 결국 세그먼트의 [우선순위 순서에 따라 결정되는 한 사람에만 속합니다](segmentation-order-priority.md).
+>한 사람은 다른 세그먼트에 자격이 있을 수 있지만, 결국 세그먼트의 [우선순위 순서에 따라 결정되는 한 사람에만 속합니다](/help/marketo/product-docs/personalization/segmentation-and-snippets/segmentation/segmentation-order-priority.md).
 
 >[!NOTE]
->
->**미리 알림**
 >
 >사람(초안) 화면은 회원이 될 자격이 있고 항상 최종 사용자 목록이 아닌 모든 사람을 표시합니다. 최종 목록을 보려면 세그먼트를 승인합니다.
 
 >[!MORELIKETHIS]
 >
->* [세그멘테이션 승인](approve-a-segmentation.md)
-
->
-
-
-
+>[세그멘테이션 승인](/help/marketo/product-docs/personalization/segmentation-and-snippets/segmentation/approve-a-segmentation.md)
