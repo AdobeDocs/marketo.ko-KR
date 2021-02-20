@@ -3,7 +3,7 @@ unique-page-id: 10100642
 description: 인앱 메시지 텍스트 만들기 - 마케팅 문서 - 제품 설명서
 title: 인앱 메시지 텍스트 만들기
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 06e0f5489e6375a97e2fe77834bf45fa41f23ea6
 workflow-type: tm+mt
 source-wordcount: '352'
 ht-degree: 0%
@@ -31,7 +31,7 @@ ht-degree: 0%
    >
    >텍스트 크기가 너무 크면 텍스트가 보이는 최대 3줄 너머로 내용이 푸시될 수 있습니다.
 
-1. 강조할 문자 스타일 선택:**굵게**, *기울임체* 또는 밑줄
+1. 강조할 문자 스타일 선택:**굵게**, _기울임체_ 또는 밑줄
 
    ![](assets/image2016-5-6-10-3a15-3a32.png)
 
@@ -77,14 +77,10 @@ ht-degree: 0%
 
    승인된 인앱 메시지 프로그램에 사용된 토큰에 대한 변경 사항은 프로그램이 일시 중지된 후 다시 시작될 때까지 인앱 메시지에 적용되지 않습니다.
 
-당신은 금발이에요 다음으로 [인앱 메시지 단추](set-up-the-in-app-message-button.md)를 설정해야 합니다.
+당신은 금발이에요 다음으로 [인앱 메시지 단추](/help/marketo/product-docs/mobile-marketing/in-app-messages/creating-in-app-messages/set-up-the-in-app-message-button.md)를 설정해야 합니다.
 
 >[!MORELIKETHIS]
 >
->* [인앱 메시지 이해](../../../../product-docs/mobile-marketing/in-app-messages/understanding-in-app-messages.md)
->* [인앱 메시지에 사용할 레이아웃 선택](choose-a-layout-for-your-in-app-message.md)
-
->
-
-
+>* [인앱 메시지 이해](/help/marketo/product-docs/mobile-marketing/in-app-messages/understanding-in-app-messages.md)
+>* [인앱 메시지에 사용할 레이아웃 선택](/help/marketo/product-docs/mobile-marketing/in-app-messages/creating-in-app-messages/choose-a-layout-for-your-in-app-message.md)
 
