@@ -3,7 +3,7 @@ unique-page-id: 7511518
 description: 푸시 알림 이해 - 마케팅 문서 - 제품 설명서
 title: 푸시 알림 이해
 translation-type: tm+mt
-source-git-commit: efadb7eb3845012c273e1a60f9cd98ac884eb543
+source-git-commit: 06e0f5489e6375a97e2fe77834bf45fa41f23ea6
 workflow-type: tm+mt
 source-wordcount: '211'
 ht-degree: 0%
@@ -25,15 +25,15 @@ Marketing To 모바일 참여를 통해 이메일을 만드는 것처럼 알림�
 
 ## 1단계:관리자 및 개발자 초기 설정 수행 {#step-admin-and-developer-perform-initial-setups}
 
-Marketing To Admin과 모바일 앱 개발자는 협력하여 설정합니다. 자세한 내용은 [푸시 알림 및 인앱 메시지 만들기 전](../../../product-docs/mobile-marketing/admin/before-you-create-push-notifications-and-in-app-messages.md)을 참조하십시오.
+Marketing To Admin과 모바일 앱 개발자는 협력하여 설정합니다. 자세한 내용은 [푸시 알림 및 인앱 메시지 만들기 전에](/help/marketo/product-docs/mobile-marketing/admin/before-you-create-push-notifications-and-in-app-messages.md)를 참조하십시오.
 
 ## 2단계:푸시 알림 만들기 {#step-create-a-push-notification}
 
-[Android ](create-a-push-notification.md) 및 iOS 디바이스에서 메시지를 만들고 미리 볼 수 있습니다.
+[Android ](/help/marketo/product-docs/mobile-marketing/push-notifications/create-a-push-notification.md) 및 iOS 디바이스에서 메시지를 만들고 미리 볼 수 있습니다.
 
 ## 3단계:전송!{#step-send}
 
-[푸시 알림은 트리거 ](send-a-mobile-push-notification.md) 및 일괄 스마트 캠페인을 사용하여 전송할 수 있습니다. 꽤 멋지지?
+[푸시 알림은 트리거 ](/help/marketo/product-docs/mobile-marketing/push-notifications/send-a-mobile-push-notification.md) 및 일괄 스마트 캠페인을 사용하여 전송할 수 있습니다. 꽤 멋지지?
 
 ![](assets/image2015-4-27-8-3a41-3a43.png)
 
