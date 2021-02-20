@@ -3,9 +3,9 @@ unique-page-id: 4720108
 description: 컨텐츠 권장 사항 표시줄 - 마케팅 문서 - 제품 설명서 활성화
 title: 컨텐츠 권장 사항 막대 활성화
 translation-type: tm+mt
-source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
+source-git-commit: 06e0f5489e6375a97e2fe77834bf45fa41f23ea6
 workflow-type: tm+mt
-source-wordcount: '308'
+source-wordcount: '321'
 ht-degree: 0%
 
 ---
@@ -19,7 +19,13 @@ ht-degree: 0%
 >
 >예측 컨텐츠를 활성화하려면 먼저 다음을 수행해야 합니다.
 >
->* [예측 컨텐츠 준비](https://docs.marketo.com/display/docs/edit+predictive+content)
+>* **예측 컨텐츠 준비**
+   >
+   >   
+   * [이메일용 예측 컨텐츠 ](/help/marketo/product-docs/predictive-content/working-with-predictive-content/edit-predictive-content-for-emails.md) 편집
+   >   * [리치 미디어용 예측 컨텐츠 ](/help/marketo/product-docs/predictive-content/working-with-predictive-content/edit-predictive-content-for-rich-media.md) 편집
+   >   * [권장 사항 막대에 대한 예측 컨텐츠 편집](/help/marketo/product-docs/predictive-content/working-with-predictive-content/edit-predictive-content-for-the-recommendation-bar.md)
+>
 >* [예측 컨텐트에 대한 제목 승인](/help/marketo/product-docs/predictive-content/working-with-all-content/approve-a-title-for-predictive-content.md)
 
 
@@ -45,9 +51,9 @@ ht-degree: 0%
    >
    >**표시 URL 포함/제외**
    >
-   >    * 표시 URL은 도메인의 경로여야 합니다.
-   >    * https:// 또는 https:// 포함 안 함
-   >    * 와일드카드에 * 사용
+   >* 표시 URL은 도메인의 경로여야 합니다.
+   >* https:// 또는 https:// 포함 안 함
+   >* 와일드카드에 * 사용
    * 세미콜론을 구분 문자로 사용
    * 예:/contact_us*;*action=logout*
    * 이 필드는 대/소문자를 구분합니다.
@@ -61,5 +67,4 @@ ht-degree: 0%
 * 권장 사항에 대해 활성화한 컨텐츠 조각에는 RTP Javascript 태그가 포함되어야 합니다. 이렇게 하면 알고리즘이 권장 컨텐츠를 추적하고 최적화할 수 있습니다.
 
 >[!MORELIKETHIS]
-* [웹 리치 미디어용 예측 컨텐츠 사용](enable-predictive-content-for-web-rich-media.md)
-
+[웹 리치 미디어용 예측 컨텐츠 사용](/help/marketo/product-docs/predictive-content/enabling-predictive-content/enable-predictive-content-for-web-rich-media.md)
