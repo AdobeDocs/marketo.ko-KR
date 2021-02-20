@@ -3,7 +3,7 @@ unique-page-id: 10095644
 description: 초안 없는 코드 단편 승인 - 마케팅 문서 - 제품 설명서
 title: 초안 없이 코드 조각 승인
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 06e0f5489e6375a97e2fe77834bf45fa41f23ea6
 workflow-type: tm+mt
 source-wordcount: '231'
 ht-degree: 0%
@@ -42,5 +42,4 @@ ht-degree: 0%
 
 >[!MORELIKETHIS]
 >
->[코드 단편에 대해 초안 없음 사용](../../../../product-docs/administration/users-and-roles/managing-user-roles-and-permissions/enable-no-draft-for-snippets.md)
-
+>[코드 단편에 대해 초안 없음 사용](/help/marketo/product-docs/administration/users-and-roles/managing-user-roles-and-permissions/enable-no-draft-for-snippets.md)
