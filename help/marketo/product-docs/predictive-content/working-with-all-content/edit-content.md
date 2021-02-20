@@ -3,7 +3,7 @@ unique-page-id: 11384653
 description: 컨텐츠 편집 - 마케팅 문서 - 제품 설명서
 title: 컨텐츠 편집
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: 06e0f5489e6375a97e2fe77834bf45fa41f23ea6
 workflow-type: tm+mt
 source-wordcount: '101'
 ht-degree: 0%
@@ -30,4 +30,3 @@ ht-degree: 0%
 1. 승인할 **예측 컨텐트에 대한 승인** 상자를 선택하거나 승인하지 않을 상자를 선택 취소합니다. 완료되면 **저장**&#x200B;을 클릭합니다.
 
    ![](assets/edit-content-4.png)
-
