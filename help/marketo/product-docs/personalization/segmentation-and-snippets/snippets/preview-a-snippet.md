@@ -3,7 +3,7 @@ unique-page-id: 2359498
 description: 코드 단편 미리 보기 - 마케팅 문서 - 제품 설명서
 title: 코드 단편 미리 보기
 translation-type: tm+mt
-source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
+source-git-commit: 06e0f5489e6375a97e2fe77834bf45fa41f23ea6
 workflow-type: tm+mt
 source-wordcount: '59'
 ht-degree: 0%
@@ -15,15 +15,11 @@ ht-degree: 0%
 
 >[!PREREQUISITES]
 >
->* [조각에 컨텐츠 추가](add-content-to-a-snippet.md)
-
->
-
-
+>[조각에 컨텐츠 추가](/help/marketo/product-docs/personalization/segmentation-and-snippets/snippets/add-content-to-a-snippet.md)
 
 코드 조각은 세그멘테이션 규칙에 따라 변경되는 동적 컨텐츠 블록입니다.
 
-1. **디자인 스튜디오로 이동합니다.**
+1. **디자인 스튜디오**&#x200B;로 이동합니다.
 
    ![](assets/designstudio-3.png)
 
@@ -35,9 +31,4 @@ ht-degree: 0%
 
 >[!MORELIKETHIS]
 >
->* [코드 단편 승인](approve-a-snippet.md)
-
->
-
-
-
+>[코드 단편 승인](/help/marketo/product-docs/personalization/segmentation-and-snippets/snippets/approve-a-snippet.md)
