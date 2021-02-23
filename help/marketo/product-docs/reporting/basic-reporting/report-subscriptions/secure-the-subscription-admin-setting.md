@@ -3,7 +3,7 @@ unique-page-id: 10095347
 description: 구독 관리 설정 보안 - 마케팅 문서 - 제품 설명서
 title: 구독 관리 설정 보안
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: 03ee7b69f691efce12825aa708c81dffa23cecd9
 workflow-type: tm+mt
 source-wordcount: '87'
 ht-degree: 0%
@@ -34,4 +34,3 @@ ht-degree: 0%
    >[!CAUTION]
    >
    >보고서를 다운로드하기 위해 로그인이 필요한 경우, Marketing To에 대한 액세스 권한이 없는 경우 스마트 목록 보고서 이메일을 받지 못합니다. 이는 기존 및 향후 가입에만 적용됩니다.
-
