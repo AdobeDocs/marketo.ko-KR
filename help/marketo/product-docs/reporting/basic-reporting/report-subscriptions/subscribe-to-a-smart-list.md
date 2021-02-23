@@ -3,7 +3,7 @@ unique-page-id: 7505310
 description: 스마트 목록 구독 - 마케팅 문서 - 제품 설명서
 title: 스마트 목록 구독
 translation-type: tm+mt
-source-git-commit: d7d6aee63144c472e02fe0221c4a164183d04dd4
+source-git-commit: 03ee7b69f691efce12825aa708c81dffa23cecd9
 workflow-type: tm+mt
 source-wordcount: '423'
 ht-degree: 0%
@@ -36,11 +36,11 @@ ht-degree: 0%
 
 ## 스마트 목록 구독 만들기 {#create-a-smart-list-subscription}
 
-1. **데이터베이스** 또는&#x200B;**마케팅 활동**&#x200B;으로 이동합니다.
+1. **데이터베이스** 또는 **마케팅 활동**&#x200B;으로 이동합니다.
 
    ![](assets/db.png)
 
-1. 구독을 만들 스마트 목록을 선택합니다. **목록 작업**&#x200B;을 클릭하고** 새 스마트 목록 구독** 선택합니다.
+1. 구독을 만들 스마트 목록을 선택합니다. **목록 작업**&#x200B;을 클릭하고 **새 스마트 목록 구독**&#x200B;을 선택합니다.
 
    ![](assets/three.png)
 
@@ -50,11 +50,9 @@ ht-degree: 0%
 
 1. **주파수** 목록을 클릭하고 빈도를 선택합니다.
 
-   ** ![](assets/image2015-9-14-13-3a21-3a21.png)
+   ![](assets/image2015-9-14-13-3a21-3a21.png)
 
-   **
-
-1. **배달 종료 **날짜를 설정합니다. **안 함** 또는 달력 날짜를 선택할 수 있습니다.
+1. **배달 종료** 날짜를 설정합니다. **안 함** 또는 달력 날짜를 선택할 수 있습니다.
 
    ![](assets/image2015-9-14-13-3a23-3a37.png)
 
@@ -82,7 +80,7 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->[보안 구독 관리자](secure-the-subscription-admin-setting.md) 설정이 **Yes**&#x200B;로 설정된 경우 Marketing 인스턴스에 액세스할 수 있는 사람만이 보고서를 다운로드할 수 있습니다.
+>[보안 구독 관리자](/help/marketo/product-docs/reporting/basic-reporting/report-subscriptions/secure-the-subscription-admin-setting.md) 설정이 **Yes**&#x200B;로 설정된 경우 Marketing 인스턴스에 액세스할 수 있는 사람만이 보고서를 다운로드할 수 있습니다.
 
 ![](assets/image2015-4-17-15-3a46-3a47.png)
 
@@ -104,10 +102,6 @@ ht-degree: 0%
 
 >[!MORELIKETHIS]
 >
->* [스마트 목록 구독 편집](edit-a-smart-list-subscription.md)
->* [구독 관리 설정 보안](secure-the-subscription-admin-setting.md)
-
->
-
-
+>* [스마트 목록 구독 편집](/help/marketo/product-docs/reporting/basic-reporting/report-subscriptions/edit-a-smart-list-subscription.md)
+>* [구독 관리 설정 보안](/help/marketo/product-docs/reporting/basic-reporting/report-subscriptions/secure-the-subscription-admin-setting.md)
 
