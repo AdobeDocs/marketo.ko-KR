@@ -3,9 +3,9 @@ unique-page-id: 2360227
 description: 캠페인 이메일 보고서의 자산 필터링 - 마케팅 문서 - 제품 설명서
 title: 캠페인 이메일 보고서의 자산 필터링
 translation-type: tm+mt
-source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
+source-git-commit: 03ee7b69f691efce12825aa708c81dffa23cecd9
 workflow-type: tm+mt
-source-wordcount: '155'
+source-wordcount: '134'
 ht-degree: 0%
 
 ---
@@ -13,9 +13,9 @@ ht-degree: 0%
 
 # 캠페인 이메일 보고서의 자산 필터링 {#filter-assets-in-a-campaign-email-reports}
 
-프로그램(&#39;로컬 자산&#39;) 또는 보관된 특정 [스마트 캠페인](https://docs.marketo.com/display/docs/smart+campaigns)에 대한 [캠페인 이메일 성과](../../../../product-docs/reporting/basic-reporting/report-types/campaign-email-performance-report.md) 보고서에 초점을 맞춥니다.
+프로그램(&#39;로컬 자산&#39;) 또는 보관된 특정 [스마트 캠페인](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/creating-a-smart-campaign/understanding-batch-and-trigger-smart-campaigns.md)에 대한 [캠페인 이메일 성과](/help/marketo/product-docs/reporting/basic-reporting/report-types/campaign-email-performance-report.md) 보고서에 초점을 맞춥니다.
 
-1. **Analytics **(또는 **마케팅 활동**) 영역으로 이동합니다.
+1. **Analytics**(또는 **마케팅 활동**) 영역으로 이동합니다.
 
    ![](assets/image2014-9-16-15-3a57-3a27.png)
 
@@ -44,17 +44,5 @@ ht-degree: 0%
 
    >[!MORELIKETHIS]
    >
-   >
-   >    
-   >    
-   >    * [캠페인 이메일 성과 보고서](../../../../product-docs/reporting/basic-reporting/report-types/campaign-email-performance-report.md)
-   >    * [이메일 보고서의 자산 필터링](filter-assets-in-an-email-report.md)
-
-
-   >[!NOTE]
-   >
-   >**자세히 알아보기**
-   >
-   >
-   >[기본 보고](https://docs.marketo.com/display/docs/basic+reporting)의 보고서에 대해 모두 알아봅니다.
-
+   >[캠페인 이메일 성과 보고서](/help/marketo/product-docs/reporting/basic-reporting/report-types/campaign-email-performance-report.md)
+   >[이메일 보고서의 자산 필터링](/help/marketo/product-docs/reporting/basic-reporting/report-activity/filter-assets-in-an-email-report.md)
