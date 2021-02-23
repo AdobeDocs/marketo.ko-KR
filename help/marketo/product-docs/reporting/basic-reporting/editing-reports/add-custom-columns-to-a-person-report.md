@@ -3,9 +3,9 @@ unique-page-id: 2360201
 description: 사람 보고서에 사용자 지정 열 추가 - 마케팅 문서 - 제품 설명서
 title: 사람 보고서에 사용자 지정 열 추가
 translation-type: tm+mt
-source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
+source-git-commit: 03ee7b69f691efce12825aa708c81dffa23cecd9
 workflow-type: tm+mt
-source-wordcount: '165'
+source-wordcount: '97'
 ht-degree: 0%
 
 ---
@@ -13,7 +13,7 @@ ht-degree: 0%
 
 # 사람 보고서에 사용자 지정 열 추가 {#add-custom-columns-to-a-person-report}
 
-[스마트 목록](https://docs.marketo.com/display/docs/smart+lists+and+static+lists)을 사용자 지정 열로 사용하여 [사람 보고서](https://docs.marketo.com/display/docs/basic+reporting)에서 지표를 추가로 필터링할 수 있습니다.
+사용자 지정 열로 [스마트 목록](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/understanding-smart-lists.md)을 사용하여 개인 보고서에서 지표를 추가로 필터링할 수 있습니다.
 
 1. **마케팅 활동**(또는 **분석**) 영역으로 이동합니다.
 
@@ -31,27 +31,10 @@ ht-degree: 0%
 
    ![](assets/image2014-9-16-16-3a39-3a34.png)
 
-   >[!NOTE]
-   >
-   >**자세히 알아보기**
-   >
-   >
-   >[스마트 목록 및 정적 목록](https://docs.marketo.com/display/docs/smart+lists+and+static+lists)의 딥 도우미에서 스마트 목록을 만들고 구성하는 방법을 알아봅니다.
-
 1. 네가 한 거야! **보고서** 탭을 클릭하여 새 열이 있는 보고서를 봅니다.
 
    ![](assets/five-1.png)
 
    >[!MORELIKETHIS]
    >
-   >
-   >
-   >[리드 보고서에 기회 열 추가](add-opportunity-columns-to-a-lead-report.md)도 가능합니다.
-
-   >[!NOTE]
-   >
-   >**자세히 알아보기**
-   >
-   >
-   >[기본 보고](https://docs.marketo.com/display/docs/basic+reporting) 세부 조사에서 보고로 수행할 수 있는 많은 작업에 대해 자세히 알아봅니다.
-
+   >[리드 보고서에 기회 열 추가](/help/marketo/product-docs/reporting/basic-reporting/editing-reports/add-opportunity-columns-to-a-lead-report.md)도 가능합니다.
