@@ -3,9 +3,9 @@ unique-page-id: 2360002
 description: 보고서 크기 구성 - 마케팅 문서 - 제품 설명서
 title: 보고서 크기 구성
 translation-type: tm+mt
-source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
+source-git-commit: 03ee7b69f691efce12825aa708c81dffa23cecd9
 workflow-type: tm+mt
-source-wordcount: '129'
+source-wordcount: '109'
 ht-degree: 0%
 
 ---
@@ -15,7 +15,7 @@ ht-degree: 0%
 
 기본적으로 Marketing 보고서는 최대 5,000개의 행으로 제한되지만 해당 제한을 변경할 수 있습니다.
 
-1. **마케팅 활동 ** 영역으로 이동합니다.
+1. **마케팅 활동** 영역으로 이동합니다.
 
    ![](assets/image2014-9-16-10-3a53-3a57.png)
 
@@ -23,7 +23,7 @@ ht-degree: 0%
 
    ![](assets/image2014-9-16-10-3a54-3a1.png)
 
-   **사용 가능한 행 내보내기**&#x200B;를 두 번 클릭합니다.
+1. **사용 가능한 행 내보내기**&#x200B;를 두 번 클릭합니다.
 
    ![](assets/image2014-9-16-10-3a54-3a5.png)
 
@@ -43,9 +43,4 @@ ht-degree: 0%
 
    >[!MORELIKETHIS]
    >
-   >
-   >
-   >이제 보고서](../../../../product-docs/reporting/basic-reporting/report-activity/export-a-report-to-excel.md)을 새 제한 값으로 내보낼 수 있습니다.[
-
-   [기본 보고](https://docs.marketo.com/display/docs/basic+reporting) 세부 조사에서 보고서를 구성하는 더 많은 방법을 참조하십시오.
-
+   >보고서](/help/marketo/product-docs/reporting/basic-reporting/report-activity/export-a-report-to-excel.md)을 새 제한 값으로 내보낼 수 있습니다.[
