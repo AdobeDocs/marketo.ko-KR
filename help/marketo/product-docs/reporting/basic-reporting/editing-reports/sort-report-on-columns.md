@@ -3,9 +3,9 @@ unique-page-id: 2359996
 description: 열 기준 보고서 정렬 - 마케팅 문서 - 제품 설명서
 title: 열 기준 보고서 정렬
 translation-type: tm+mt
-source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
+source-git-commit: 03ee7b69f691efce12825aa708c81dffa23cecd9
 workflow-type: tm+mt
-source-wordcount: '97'
+source-wordcount: '78'
 ht-degree: 0%
 
 ---
@@ -33,16 +33,4 @@ ht-degree: 0%
 
    >[!MORELIKETHIS]
    >
-   >
-   >    
-   >    
-   >    * [보고서 열 선택](select-report-columns.md)
-
-
-   >[!NOTE]
-   >
-   >**자세히 알아보기**
-   >
-   >
-   >[기본 보고](https://docs.marketo.com/display/docs/basic+reporting)에서 보고서를 사용하여 작업하는 모든 기능을 알아봅니다.
-
+   >[보고서 열 선택](/help/marketo/product-docs/reporting/basic-reporting/editing-reports/select-report-columns.md)
