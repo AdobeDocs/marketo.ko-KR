@@ -3,7 +3,7 @@ unique-page-id: 10093041
 description: 스마트 목록 구독 편집 - 마케팅 문서 - 제품 설명서
 title: 스마트 목록 구독 편집
 translation-type: tm+mt
-source-git-commit: 00887ea53e395bea3a11fd28e0ac98b085ef6ed8
+source-git-commit: 03ee7b69f691efce12825aa708c81dffa23cecd9
 workflow-type: tm+mt
 source-wordcount: '199'
 ht-degree: 0%
@@ -52,4 +52,3 @@ ht-degree: 0%
 1. 퍼즐의 마지막 부분은 포맷이다. **형식** 열을 클릭하고 원하는 열을 선택합니다. CSV가 기본값입니다.
 
    ![](assets/image2015-9-14-11-3a11-3a41.png)
-
