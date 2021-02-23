@@ -3,9 +3,9 @@ unique-page-id: 2360018
 description: 리드 보고서에 기회 열 추가 - 마케팅 문서 - 제품 설명서
 title: 리드 보고서에 기회 열 추가
 translation-type: tm+mt
-source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
+source-git-commit: 03ee7b69f691efce12825aa708c81dffa23cecd9
 workflow-type: tm+mt
-source-wordcount: '308'
+source-wordcount: '280'
 ht-degree: 0%
 
 ---
@@ -13,7 +13,7 @@ ht-degree: 0%
 
 # 리드 보고서에 기회 열 추가 {#add-opportunity-columns-to-a-lead-report}
 
-[사람 보고서](https://docs.marketo.com/display/docs/basic+reporting)에서 기회에 대한 통계를 보려면 기회 열을 추가할 수 있습니다.
+개인 보고서에서 기회에 대한 통계를 보려면 기회 열을 추가할 수 있습니다.
 
 1. **마케팅 활동** 영역으로 이동합니다.
 
@@ -39,7 +39,7 @@ ht-degree: 0%
    >
    >오른쪽으로 스크롤하면 열이 더 표시됩니다.
 
-1. [보고서](select-report-columns.md)에서 열을 추가하거나 제거하려면 열 제목을 클릭하고 **열**&#x200B;을 선택합니다.
+1. [보고서](/help/marketo/product-docs/reporting/basic-reporting/editing-reports/select-report-columns.md)에서 열을 추가하거나 제거하려면 열 제목을 클릭하고 **열**&#x200B;을 선택합니다.
 
    ![](assets/six.png)
 
@@ -68,14 +68,4 @@ ht-degree: 0%
 
    >[!MORELIKETHIS]
    >
-   >
-   >
-   >[보고서 크기 관리 방법을 알아봅니다](configure-report-size.md).
-
-   >[!NOTE]
-   >
-   >**자세히 알아보기**
-   >
-   >
-   >[기본 보고](https://docs.marketo.com/display/docs/basic+reporting) 깊이 도에서 보고서를 사용하여 수행할 수 있는 또 다른 작업을 확인하십시오.
-
+   >[보고서 크기 관리 방법을 알아봅니다](/help/marketo/product-docs/reporting/basic-reporting/editing-reports/configure-report-size.md).
