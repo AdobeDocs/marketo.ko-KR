@@ -3,9 +3,9 @@ unique-page-id: 2360028
 description: 보고서 복제 - 마케팅 문서 - 제품 설명서
 title: 보고서 복제
 translation-type: tm+mt
-source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
+source-git-commit: 03ee7b69f691efce12825aa708c81dffa23cecd9
 workflow-type: tm+mt
-source-wordcount: '93'
+source-wordcount: '77'
 ht-degree: 0%
 
 ---
@@ -19,7 +19,7 @@ ht-degree: 0%
 
    ![](assets/image2014-9-16-14-3a23-3a46.png)
 
-1. 보고서를 선택합니다. **보고서 작업 > 보고서 복제**&#x200B;를 선택합니다.
+1. 보고서를 선택합니다. **보고서 작업** > **보고서 복제**&#x200B;를 선택합니다.
 
    ![](assets/image2014-9-16-14-3a23-3a53.png)
 
@@ -35,11 +35,4 @@ ht-degree: 0%
 
    >[!MORELIKETHIS]
    >
-   >
-   >    
-   >    
-   >    * [스마트 목록을 사용하여 보고서에서 인물 필터링](../../../../product-docs/reporting/basic-reporting/editing-reports/filter-people-in-a-report-with-a-smart-list.md)
-
-
-   보고서를 사용자 정의하는 데 더 많은 작업을 수행합니다. [기본 보고](https://docs.marketo.com/display/docs/basic+reporting)를 참조하십시오.
-
+   >[스마트 목록을 사용하여 보고서에서 인물 필터링](/help/marketo/product-docs/reporting/basic-reporting/editing-reports/filter-people-in-a-report-with-a-smart-list.md)
