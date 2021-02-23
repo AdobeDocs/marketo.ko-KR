@@ -3,9 +3,9 @@ unique-page-id: 2359968
 description: 보고서 기간 변경 - 마케팅 문서 - 제품 설명서
 title: 보고서 기간 변경
 translation-type: tm+mt
-source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
+source-git-commit: 03ee7b69f691efce12825aa708c81dffa23cecd9
 workflow-type: tm+mt
-source-wordcount: '180'
+source-wordcount: '160'
 ht-degree: 0%
 
 ---
@@ -48,14 +48,4 @@ ht-degree: 0%
 
    >[!MORELIKETHIS]
    >
-   >
-   >
-   >특정 개인 특성별로 보고서 범위를 좁히려면 [스마트 목록](filter-people-in-a-report-with-a-smart-list.md)으로 보고서에서 인물 필터링
-
-   >[!NOTE]
-   >
-   >**자세히 알아보기**
-   >
-   >
-   >보고서 사용 방법에 대한 자세한 내용은 [기본 보고](https://docs.marketo.com/display/docs/basic+reporting) 세부 정보를 참조하십시오.
-
+   >특정 개인 특성별로 보고서 범위를 좁히려면 [스마트 목록](/help/marketo/product-docs/reporting/basic-reporting/editing-reports/filter-people-in-a-report-with-a-smart-list.md)으로 보고서에서 인물 필터링
