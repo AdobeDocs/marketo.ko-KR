@@ -3,9 +3,9 @@ unique-page-id: 2359987
 description: 기본 보고서 구독 - 마케팅 문서 - 제품 설명서
 title: 기본 보고서 구독
 translation-type: tm+mt
-source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
+source-git-commit: 03ee7b69f691efce12825aa708c81dffa23cecd9
 workflow-type: tm+mt
-source-wordcount: '161'
+source-wordcount: '126'
 ht-degree: 0%
 
 ---
@@ -13,13 +13,13 @@ ht-degree: 0%
 
 # 기본 보고서 구독 {#subscribe-to-a-basic-report}
 
-[기본 보고서](https://docs.marketo.com/display/docs/basic+reporting)에 대한 자동 업데이트를 받거나 이 보고서를 공유하려면 기존 보고서에 이메일 주소를 가입하면 됩니다.
+기본 보고서의 자동 업데이트를 받거나 보고서를 공유하려면 기존 보고서에 이메일 주소를 가입하면 됩니다.
 
 >[!NOTE]
 >
->[매출 주기 탐색기](https://docs.marketo.com/display/docs/revenue+cycle+analytics) 보고서 구독의 경우 [매출 탐색기 보고서 구독](../../../../product-docs/reporting/revenue-cycle-analytics/revenue-explorer/subscribe-to-a-revenue-explorer-report.md)을 참조하십시오.
+>매출 주기 탐색기 보고서 구독의 경우 [매출 탐색기 보고서 구독](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-explorer/subscribe-to-a-revenue-explorer-report.md)을 참조하십시오.
 
-1. **마케팅 활동 ** 영역으로 이동합니다.
+1. **마케팅 활동** 영역으로 이동합니다.
 
    ![](assets/image2014-9-16-10-3a31-3a54.png)
 
@@ -49,14 +49,4 @@ ht-degree: 0%
 
    >[!MORELIKETHIS]
    >
-   >
-   >
-   >한 곳에서 [모든 보고서 구독](manage-report-subscriptions.md)을 관리하는 방법을 알아봅니다.
-
-   >[!NOTE]
-   >
-   >**자세히 알아보기**
-   >
-   >
-   >[기본 보고](https://docs.marketo.com/display/docs/basic+reporting) 깊이 도에서 보고서를 사용하여 수행할 수 있는 또 다른 작업을 확인하십시오.
-
+   >한 곳에서 [모든 보고서 구독](/help/marketo/product-docs/reporting/basic-reporting/report-subscriptions/manage-report-subscriptions.md)을 관리하는 방법을 알아봅니다.
