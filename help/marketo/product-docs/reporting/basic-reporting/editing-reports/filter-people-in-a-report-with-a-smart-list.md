@@ -3,9 +3,9 @@ unique-page-id: 2360016
 description: 스마트 목록을 사용하여 보고서에서 인물 필터링 - 마케팅 문서 - 제품 설명서
 title: 스마트 목록을 사용하여 보고서에서 인물 필터링
 translation-type: tm+mt
-source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
+source-git-commit: 03ee7b69f691efce12825aa708c81dffa23cecd9
 workflow-type: tm+mt
-source-wordcount: '163'
+source-wordcount: '134'
 ht-degree: 0%
 
 ---
@@ -17,16 +17,16 @@ ht-degree: 0%
 
 다음과 같은 보고서 유형과 함께 스마트 목록을 사용할 수 있습니다.
 
-* [사람 성능](../../../../product-docs/reporting/basic-reporting/report-types/people-performance-report.md)
-* [상태별 사람](../../../../product-docs/reporting/basic-reporting/report-types/people-by-status-report.md)
-* [매출 단계별 사람](https://docs.marketo.com/display/DOCS/People+by+Revenue+Stage+Report)
-* [이메일 성능](../../../../product-docs/email-marketing/email-programs/email-program-data/email-performance-report.md)
-* [이메일 링크 성능](../../../../product-docs/email-marketing/email-programs/email-program-data/email-link-performance-report.md)
-* [참여 스트림 성능](../../../../product-docs/email-marketing/drip-nurturing/reports-and-notifications/engagement-stream-performance-report.md)
-* [캠페인 활동](../../../../product-docs/reporting/basic-reporting/report-types/campaign-activity-report.md)
-* [캠페인 이메일 성능](../../../../product-docs/reporting/basic-reporting/report-types/campaign-email-performance-report.md)
-* [회사 웹 활동](../../../../product-docs/reporting/basic-reporting/report-types/company-web-activity-report.md)
-* [웹 페이지 활동](../../../../product-docs/reporting/basic-reporting/report-types/web-page-activity-report.md)
+* [사람 성능](/help/marketo/product-docs/reporting/basic-reporting/report-types/people-performance-report.md)
+* [상태별 사람](/help/marketo/product-docs/reporting/basic-reporting/report-types/people-by-status-report.md)
+* [매출 단계별 사람](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-tools/people-by-revenue-stage-report.md)
+* [이메일 성능](/help/marketo/product-docs/email-marketing/email-programs/email-program-data/email-performance-report.md)
+* [이메일 링크 성능](/help/marketo/product-docs/email-marketing/email-programs/email-program-data/email-link-performance-report.md)
+* [참여 스트림 성능](/help/marketo/product-docs/email-marketing/drip-nurturing/reports-and-notifications/engagement-stream-performance-report.md)
+* [캠페인 활동](/help/marketo/product-docs/reporting/basic-reporting/report-types/campaign-activity-report.md)
+* [캠페인 이메일 성능](/help/marketo/product-docs/reporting/basic-reporting/report-types/campaign-email-performance-report.md)
+* [회사 웹 활동](/help/marketo/product-docs/reporting/basic-reporting/report-types/company-web-activity-report.md)
+* [웹 페이지 활동](/help/marketo/product-docs/reporting/basic-reporting/report-types/web-page-activity-report.md)
 
 1. **마케팅 활동** 영역으로 이동합니다.
 
@@ -49,11 +49,3 @@ ht-degree: 0%
    ![](assets/image2017-3-27-14-3a14-3a16.png)
 
    좋아요! 이제 보고서가 스마트 목록과 일치하는 사용자의 데이터를 표시합니다.
-
-   >[!NOTE]
-   >
-   >**자세히 알아보기**
-   >
-   >
-   >보고서 사용 방법에 대한 자세한 내용은 [기본 보고](https://docs.marketo.com/display/docs/basic+reporting) 세부 정보를 참조하십시오.
-
