@@ -3,9 +3,9 @@ unique-page-id: 2360225
 description: 이메일 보고서의 자산 필터링 - 마케팅 문서 - 제품 설명서
 title: 이메일 보고서의 자산 필터링
 translation-type: tm+mt
-source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
+source-git-commit: 03ee7b69f691efce12825aa708c81dffa23cecd9
 workflow-type: tm+mt
-source-wordcount: '162'
+source-wordcount: '147'
 ht-degree: 0%
 
 ---
@@ -13,7 +13,7 @@ ht-degree: 0%
 
 # 이메일 보고서 {#filter-assets-in-an-email-report}의 자산 필터링
 
-프로그램(&#39;로컬 에셋&#39;)의 이메일, Design Studio(&#39;전역 에셋&#39;)의 이메일 또는 보관된 이메일에 대해 [이메일 성능](../../../../product-docs/email-marketing/email-programs/email-program-data/email-performance-report.md) 또는 [이메일 링크 성능](../../../../product-docs/email-marketing/email-programs/email-program-data/email-link-performance-report.md) 보고서에 집중할 수 있습니다.
+프로그램(&#39;로컬 에셋&#39;)의 이메일, Design Studio(&#39;전역 에셋&#39;)의 이메일 또는 보관된 이메일에 대해 [이메일 성능](/help/marketo/product-docs/email-marketing/email-programs/email-program-data/email-performance-report.md) 또는 [이메일 링크 성능](/help/marketo/product-docs/email-marketing/email-programs/email-program-data/email-link-performance-report.md) 보고서에 집중할 수 있습니다.
 
 1. **Analytics**(또는 **마케팅 활동**) 영역으로 이동합니다.
 
@@ -45,15 +45,4 @@ ht-degree: 0%
 
 >[!MORELIKETHIS]
 >
->* [캠페인 이메일 보고서의 자산 필터링](filter-assets-in-a-campaign-email-reports.md)
-
->
-
-
-
->[!NOTE]
->
->**자세히 알아보기**
->
->[기본 보고](https://docs.marketo.com/display/docs/basic+reporting)의 보고서에 대해 모두 알아봅니다.
-
+>[캠페인 이메일 보고서의 자산 필터링](/help/marketo/product-docs/reporting/basic-reporting/report-activity/filter-assets-in-a-campaign-email-reports.md)
