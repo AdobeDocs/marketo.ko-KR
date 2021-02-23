@@ -3,7 +3,7 @@ unique-page-id: 2951220
 description: 모바일 플랫폼 열을 사용하여 사람 성과 보고서 작성 - 마케팅 문서 - 제품 설명서
 title: 모바일 플랫폼 열을 사용하여 인물 성능 보고서 만들기
 translation-type: tm+mt
-source-git-commit: d7d6aee63144c472e02fe0221c4a164183d04dd4
+source-git-commit: 03ee7b69f691efce12825aa708c81dffa23cecd9
 workflow-type: tm+mt
 source-wordcount: '291'
 ht-degree: 0%
@@ -106,4 +106,3 @@ ht-degree: 0%
    ![](assets/seventeen.png)
 
    꽤 멋있죠? 잘했다!
-
