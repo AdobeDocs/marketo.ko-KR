@@ -3,7 +3,7 @@ unique-page-id: 2360035
 description: 사람 성과 보고서에서 드릴다운 - 마케팅 문서 - 제품 문서
 title: 사람 성과 보고서에서 드릴다운
 translation-type: tm+mt
-source-git-commit: d7d6aee63144c472e02fe0221c4a164183d04dd4
+source-git-commit: 03ee7b69f691efce12825aa708c81dffa23cecd9
 workflow-type: tm+mt
 source-wordcount: '132'
 ht-degree: 0%
@@ -27,7 +27,7 @@ ht-degree: 0%
 
    ![](assets/three.png)
 
-1. **드릴다운** 팝업에서 드릴다운할 속성을 선택합니다. 그런 다음 드릴다운** 클릭합니다**.
+1. **드릴다운** 팝업에서 드릴다운할 속성을 선택합니다. 그런 다음 **드릴다운**&#x200B;을 클릭합니다.
 
    ![](assets/four.png)
 
@@ -42,4 +42,3 @@ ht-degree: 0%
 1. 결과를 저장하려면(선택 사항) 왼쪽 하단에 있는 **내보내기** 아이콘을 클릭합니다.
 
    ![](assets/six.png)
-
