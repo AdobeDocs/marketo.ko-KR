@@ -3,9 +3,9 @@ unique-page-id: 2360394
 description: 기회 영향 분석기 데이터 내보내기 - 마케팅 문서 - 제품 설명서
 title: 기회 영향 분석기 데이터 내보내기
 translation-type: tm+mt
-source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
+source-git-commit: cb7df3dd38275837f8ab05ce846c2c68ab78462f
 workflow-type: tm+mt
-source-wordcount: '170'
+source-wordcount: '135'
 ht-degree: 0%
 
 ---
@@ -13,17 +13,17 @@ ht-degree: 0%
 
 # 기회 영향 분석기 데이터 내보내기 {#export-opportunity-influence-analyzer-data}
 
-[매출 주기 탐색기](https://docs.marketo.com/display/docs/revenue+cycle+analytics) 보고서로부터 업데이트를 받고 공유하기 위해 기존 보고서에 이메일 주소를 구독할 수 있습니다.
+매출 주기 탐색기 보고서에서 업데이트를 받고 이를 공유하려면 기존 보고서에 이메일 주소를 가입하면 됩니다.
 
-1. **Analytics**&#x200B;로 이동하고 **새로 만들기** ******** **보고서** **구독**&#x200B;을 선택합니다.
+1. **Analytics**&#x200B;로 이동하고 **새로 만들기** > **새 보고서 구독**&#x200B;을 선택합니다.
 
    ![](assets/image2014-9-17-12-3a40-3a46.png)
 
    >[!NOTE]
    >
-   >프로그램에서 만든 기본 보고서에 가입하려면 [기본 보고서 구독](../../../../product-docs/reporting/basic-reporting/report-subscriptions/subscribe-to-a-basic-report.md)을 참조하십시오.
+   >프로그램에서 만든 기본 보고서에 가입하려면 [기본 보고서 구독](/help/marketo/product-docs/reporting/basic-reporting/report-subscriptions/subscribe-to-a-basic-report.md)을 참조하십시오.
 
-1. 보고서 소스의 경우 **매출 탐색기를 선택합니다.**
+1. 보고서 소스의 경우 **매출 탐색기**&#x200B;를 선택합니다.
 
    ![](assets/image2014-9-17-12-3a42-3a15.png)
 
@@ -45,11 +45,4 @@ ht-degree: 0%
 
 >[!MORELIKETHIS]
 >
->한 곳에서 [모든 보고서 구독](../../../../product-docs/reporting/basic-reporting/report-subscriptions/manage-report-subscriptions.md)을 관리하는 방법을 알아봅니다.
-
->[!NOTE]
->
->**자세히 알아보기**
->
->[매출 주기 탐색기](https://docs.marketo.com/display/docs/revenue+cycle+analytics)의 세부 조사에서 Marketing의 고급 분석을 사용하여 할 수 있는 더 많은 작업을 확인할 수 있습니다.
-
+>한 곳에서 [모든 보고서 구독](/help/marketo/product-docs/reporting/basic-reporting/report-subscriptions/manage-report-subscriptions.md)을 관리하는 방법을 알아봅니다.
