@@ -3,7 +3,7 @@ unique-page-id: 11383877
 description: 프로그램 분석기 복제 - 마케팅 문서 - 제품 설명서
 title: 프로그램 분석기 복제
 translation-type: tm+mt
-source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
+source-git-commit: cb7df3dd38275837f8ab05ce846c2c68ab78462f
 workflow-type: tm+mt
 source-wordcount: '110'
 ht-degree: 0%
@@ -15,7 +15,7 @@ ht-degree: 0%
 
 분석기를 저장한 후에는 복제하여 새 분석기를 만들 수 있습니다. 그런 다음 변경이 필요한 경우 새 파일을 편집하고
 
-1. **Analytics ** 타일을 클릭합니다.
+1. **분석** 타일을 클릭합니다.
 
    ![](assets/2017-05-01-08-20-37.png)
 
@@ -41,9 +41,4 @@ ht-degree: 0%
 
    >[!MORELIKETHIS]
    >
-   >
-   >    
-   >    
-   >    * [프로그램 분석기 만들기](create-a-program-analyzer.md)
-
-
+   >[프로그램 분석기 만들기](/help/marketo/product-docs/reporting/revenue-cycle-analytics/program-analytics/create-a-program-analyzer.md)
