@@ -3,7 +3,7 @@ unique-page-id: 7504520
 description: 매출 탐색기 보고서의 필드 삭제 - 마케팅 문서 - 제품 설명서
 title: 매출 탐색기 보고서에서 필드 삭제
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: cb7df3dd38275837f8ab05ce846c2c68ab78462f
 workflow-type: tm+mt
 source-wordcount: '77'
 ht-degree: 0%
@@ -25,9 +25,4 @@ ht-degree: 0%
 
 >[!MORELIKETHIS]
 >
->* [매출 탐색기 보고서 저장](saving-a-revenue-explorer-report.md)
-
->
-
-
-
+>[매출 탐색기 보고서 저장](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-explorer/saving-a-revenue-explorer-report.md)
