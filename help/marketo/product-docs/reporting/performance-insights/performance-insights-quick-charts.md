@@ -3,7 +3,7 @@ unique-page-id: 12980873
 description: 성과 통찰력 빠른 차트 - 마케팅 문서 - 제품 설명서
 title: 성과 통찰력 빠른 차트
 translation-type: tm+mt
-source-git-commit: 07ae1b3f3ee3e9d7f35373eea039d336bd786f97
+source-git-commit: cb7df3dd38275837f8ab05ce846c2c68ab78462f
 workflow-type: tm+mt
 source-wordcount: '184'
 ht-degree: 0%
@@ -68,4 +68,3 @@ ht-degree: 0%
 1. **삭제**&#x200B;를 클릭합니다.
 
    ![](assets/10-1.png)
-
