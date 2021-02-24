@@ -3,9 +3,9 @@ unique-page-id: 12979010
 description: 성과 통찰력 트렌드 개요 - 마케팅 문서 - 제품 설명서
 title: 성과 통찰력 트렌드 개요
 translation-type: tm+mt
-source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
+source-git-commit: cb7df3dd38275837f8ab05ce846c2c68ab78462f
 workflow-type: tm+mt
-source-wordcount: '171'
+source-wordcount: '165'
 ht-degree: 0%
 
 ---
@@ -23,7 +23,7 @@ ht-degree: 0%
 
 ![](assets/2-1.png)
 
-성과를 보려는 지표를 선택합니다. 이 예에서는 [첫 번째 접촉](https://docs.marketo.com/display/DOCS/Understanding+Attribution)을 통해 획득한 기회를 살펴보겠습니다.
+성과를 보려는 지표를 선택합니다. 이 예에서는 [첫 번째 접촉](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-tools/attribution/understanding-attribution.md)을 통해 획득한 기회를 살펴보겠습니다.
 
 ![](assets/3-2.png)
 
@@ -54,4 +54,3 @@ ht-degree: 0%
 >[!NOTE]
 >
 >채널 옆의 확인란을 클릭하면 도넛형 차트에서 활성화/비활성화할 수 있습니다.
-
