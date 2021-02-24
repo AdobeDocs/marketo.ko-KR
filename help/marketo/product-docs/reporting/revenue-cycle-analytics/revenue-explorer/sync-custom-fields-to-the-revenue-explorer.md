@@ -3,7 +3,7 @@ unique-page-id: 2360341
 description: 사용자 정의 필드를 매출 탐색기에 동기화 - Marketing To Docs - 제품 설명서
 title: 사용자 정의 필드를 매출 탐색기에 동기화
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: cb7df3dd38275837f8ab05ce846c2c68ab78462f
 workflow-type: tm+mt
 source-wordcount: '133'
 ht-degree: 0%
@@ -48,4 +48,3 @@ ht-degree: 0%
    >활성화되면 다음 날 매출 주기 분석에서 데이터를 사용할 수 있습니다.
 
    잘했어! 이제 RCA에 사용자 정의 필드를 추가하는 방법을 알 수 있습니다.
-
