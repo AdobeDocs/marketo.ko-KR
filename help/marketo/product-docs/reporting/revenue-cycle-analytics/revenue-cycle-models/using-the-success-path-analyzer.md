@@ -3,7 +3,7 @@ unique-page-id: 3571886
 description: 성공 경로 분석기 사용 - 마케팅 문서 - 제품 설명서
 title: 성공 경로 분석기 사용
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: cb7df3dd38275837f8ab05ce846c2c68ab78462f
 workflow-type: tm+mt
 source-wordcount: '373'
 ht-degree: 0%
@@ -13,11 +13,11 @@ ht-degree: 0%
 
 # 성공 경로 분석기 사용 {#using-the-success-path-analyzer}
 
-성공 경로 분석기를 사용하여 [매출 주기 모델](understanding-revenue-models.md)의 단계를 통해 사람들의 흐름(양)과 속도(일 기준 속도)를 모두 반영하는 구체적인 세부 정보를 탐색합니다.
+성공 경로 분석기를 사용하여 [매출 주기 모델](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-cycle-models/understanding-revenue-models.md)의 단계를 통해 사람들의 흐름(양)과 속도(일 기준 속도)를 모두 반영하는 구체적인 세부 정보를 탐색합니다.
 
 >[!PREREQUISITES]
 >
->[성공 경로 분석기 만들기](create-a-success-path-analyzer.md)
+>[성공 경로 분석기 만들기](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-cycle-models/create-a-success-path-analyzer.md)
 
 1. **Analytics**&#x200B;로 이동하여 **성공 경로 분석기**&#x200B;를 선택합니다.
 
@@ -55,7 +55,7 @@ ht-degree: 0%
 
    ![](assets/image2015-6-12-17-3a46-3a55.png)
 
-1. SLA(서비스 수준 계약)가 있는 단계의 경우 **차트 작업** >** SLA 표시** 를 클릭하여 지정된 기간 내에 SLA 타겟을 지키지 않은 모든 사람을 표시합니다.
+1. SLA(서비스 수준 계약)가 있는 단계의 경우 **차트 작업** > **SLA 기한 표시**&#x200B;를 클릭하여 지정된 기간 내에 SLA 타겟을 지키지 않은 모든 사람을 표시합니다.
 
    ![](assets/image2015-6-12-17-3a49-3a23.png)
 
@@ -65,7 +65,7 @@ ht-degree: 0%
 
    주황색으로 표시된 사람은 *이거나*&#x200B;이(가) 여전히 SLA 단계에 있을 수 없습니다.
 
-1. **차트 작업** >** 기한 경과 SLA 표시**를 클릭하여 지정된 기간이 끝날 때 SLA 단계에 있는 만료된 SLA 타겟을 가진 모든 사람을 표시합니다.
+1. **차트 작업** > **기한 지난 SLA 표시**&#x200B;를 클릭하여 지정된 기간이 끝날 때 SLA 단계에 있는 만료된 SLA 타겟의 모든 사용자를 표시합니다.
 
    ![](assets/image2015-6-12-17-3a51-3a39.png)
 
@@ -77,7 +77,7 @@ ht-degree: 0%
 
    ![](assets/image2015-6-12-17-3a52-3a49.png)
 
-1. 차트를 인쇄하려면 ****차트 작업** > **차트 인쇄**&#x200B;를 클릭합니다.
+1. 차트를 인쇄하려면 **차트 작업** > **차트 인쇄**&#x200B;를 클릭합니다.
 
    ![](assets/image2015-6-12-17-3a53-3a34.png)
 
