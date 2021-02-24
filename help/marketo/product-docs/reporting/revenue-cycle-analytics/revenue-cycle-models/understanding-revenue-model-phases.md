@@ -3,7 +3,7 @@ unique-page-id: 4718660
 description: 매출 모델 단계 이해 - 마케팅 문서 - 제품 설명서
 title: 매출 모델 단계 이해
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: cb7df3dd38275837f8ab05ce846c2c68ab78462f
 workflow-type: tm+mt
 source-wordcount: '60'
 ht-degree: 0%
@@ -19,11 +19,10 @@ ht-degree: 0%
 
 ## {#define-the-phases-of-the-model} 모델의 단계 정의
 
-1. **단계.**
+1. **단계**&#x200B;를 클릭합니다.
 
    ![](assets/image2015-6-12-16-3a2-3a28.png)
 
 1. 파란색 단추를 클릭하여 단계를 위아래로 드래그합니다.
 
    ![](assets/image2015-6-12-16-3a5-3a31.png)
-
