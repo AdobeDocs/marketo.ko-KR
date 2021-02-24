@@ -3,7 +3,7 @@ unique-page-id: 7504923
 description: 관리자 계정 - 마케팅 문서 - 제품 설명서를 사용하여 매출 모델에서 Google AdWords 전환 설정
 title: 관리자 계정으로 매출 모델에서 Google AdWords 전환 설정
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: cb7df3dd38275837f8ab05ce846c2c68ab78462f
 workflow-type: tm+mt
 source-wordcount: '448'
 ht-degree: 0%
@@ -24,11 +24,7 @@ Google Adwords 계정이 여러 개 있는 경우 [Google AdWords Manager 계정
 
 >[!PREREQUISITES]
 >
->* [관리자 계정을 사용하여 Google AdWords를 Launchpoint 서비스로 추가](../../../../product-docs/administration/additional-integrations/add-google-adwords-as-a-launchpoint-service-with-a-manager-account.md)
-
->
-
-
+>[관리자 계정을 사용하여 Google AdWords를 Launchpoint 서비스로 추가](/help/marketo/product-docs/administration/additional-integrations/add-google-adwords-as-a-launchpoint-service-with-a-manager-account.md)
 
 ## 스테이지 작업 사용 {#use-stage-action}
 
@@ -76,9 +72,7 @@ Google Adwords 계정이 여러 개 있는 경우 [Google AdWords Manager 계정
 
 1. **새 전환**&#x200B;을 선택합니다.
 
-   ** ![](assets/image2015-3-27-17-3a23-3a13.png)
-
-   **
+   ![](assets/image2015-3-27-17-3a23-3a13.png)
 
 1. **전환 이름**&#x200B;을 입력합니다. **저장**&#x200B;을 클릭합니다.
 
