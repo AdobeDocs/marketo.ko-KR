@@ -3,7 +3,7 @@ unique-page-id: 4718675
 description: 스테이지 이름 변경 - 마케팅 문서 - 제품 설명서
 title: 스테이지 이름 변경
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: cb7df3dd38275837f8ab05ce846c2c68ab78462f
 workflow-type: tm+mt
 source-wordcount: '74'
 ht-degree: 0%
@@ -27,8 +27,8 @@ ht-degree: 0%
 
    ![](assets/image2015-4-27-17-3a40-3a46.png)
 
-   닫기를 클릭합니다.
+1. **닫기**&#x200B;를 클릭합니다.
+
    ![](assets/image2015-4-27-17-3a41-3a51.png)
 
-   봐 진정해! [모델 승인](approve-unapprove-a-revenue-model.md)을 잊지 마십시오.
-
+   봐 진정해! [모델 승인](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-cycle-models/approve-unapprove-a-revenue-model.md)을 잊지 마십시오.
