@@ -3,7 +3,7 @@ unique-page-id: 2953144
 description: 고급 프로그램 보고 개요 - 마케팅 문서 - 제품 설명서
 title: 고급 프로그램 보고 개요
 translation-type: tm+mt
-source-git-commit: 00887ea53e395bea3a11fd28e0ac98b085ef6ed8
+source-git-commit: cb7df3dd38275837f8ab05ce846c2c68ab78462f
 workflow-type: tm+mt
 source-wordcount: '271'
 ht-degree: 0%
@@ -27,13 +27,13 @@ ht-degree: 0%
 
 ## 프로그램 분석 영역 {#program-analysis-areas}
 
-* ** [프로그램 비용 분석](understanding-the-program-cost-analysis-area.md) **- 모든 프로그램에 대한 ROI를 참조하십시오.
+* **[프로그램 비용 분석](understanding-the-program-cost-analysis-area.md)**  - 모든 프로그램의 ROI를 확인할 수 있습니다.
 
-* ** [프로그램 회원 분석](understanding-the-program-membership-analysis-area.md) **- 채널, 참여, 성공 기준 등에 따른 결과를 봅니다.
+* **[프로그램 회원 분석](understanding-the-program-membership-analysis-area.md)**  - 채널, 참여, 성공 기준 등별로 결과를 볼 수 있습니다.
 
-* ** [프로그램 기회 분석](understanding-the-program-opportunity-analysis-area.md) **- 배포, 매출 및 ROI를 기반으로 생성된 기회
+* **[프로그램 기회 분석](understanding-the-program-opportunity-analysis-area.md)**  - 배포, 매출 및 ROI를 기반으로 창출되는 기회
 
-* ** [프로그램 매출 단계 분석](understanding-the-program-revenue-stage-analysis-area.md) **- 매출 주기 모델 내에서 특정 성공 단계에 도달한 새 이름.
+* **[프로그램 매출 단계 분석](understanding-the-program-revenue-stage-analysis-area.md)**  - 매출 주기 모델 내에서 특정 성공 단계에 도달한 새 이름입니다.
 
 ## 프로그램 분석 {#program-analyzers}
 
