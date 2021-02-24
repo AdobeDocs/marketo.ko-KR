@@ -3,7 +3,7 @@ unique-page-id: 4718681
 description: 매출 모델 - Marketing To Docs - 제품 문서에서 계정별 추적 시작
 title: 매출 모델러의 계정별 추적 시작
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: cb7df3dd38275837f8ab05ce846c2c68ab78462f
 workflow-type: tm+mt
 source-wordcount: '249'
 ht-degree: 0%
@@ -23,7 +23,7 @@ ht-degree: 0%
 
    ![](assets/image2015-4-29-16-3a36-3a2.png)
 
-1. 새 보고서를 만들려면 **파일**&#x200B;을 클릭하고 **새**&#x200B;보고서&#x200B;**보고서**&#x200B;를 선택합니다.
+1. 새 보고서를 만들려면 **파일**&#x200B;을 클릭하고 **새로 만들기**&#x200B;보고서&#x200B;**를 선택합니다.**
 
    ![](assets/image2015-4-29-16-3a38-3a44.png)
 
@@ -44,4 +44,3 @@ ht-degree: 0%
    ![](assets/image2015-6-9-16-3a21-3a3.png)
 
 1. 이제 보고서에서 계정별로 추적 중인 단계만 표시됩니다. 나중에 사용할 수 있도록 보고서를 저장해야 합니다. 이제 이것을 마케팅 활동의 성공 측정으로 사용할 수 있습니다.
-
