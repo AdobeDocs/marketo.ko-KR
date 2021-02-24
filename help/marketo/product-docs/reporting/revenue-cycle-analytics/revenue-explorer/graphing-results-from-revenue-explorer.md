@@ -3,7 +3,7 @@ unique-page-id: 10095084
 description: 매출 탐색기에서 결과 그래프 작성 - 마케팅 문서 - 제품 설명서
 title: 매출 탐색기에서 결과 그래프
 translation-type: tm+mt
-source-git-commit: 23428a6e0ba9b2108a8f2f7dd6a69929dd069834
+source-git-commit: cb7df3dd38275837f8ab05ce846c2c68ab78462f
 workflow-type: tm+mt
 source-wordcount: '249'
 ht-degree: 0%
@@ -76,4 +76,3 @@ ht-degree: 0%
 1. 테이블 보기로 돌아가려면 표 단추를 클릭합니다.
 
    ![](assets/two-1.png)
-
