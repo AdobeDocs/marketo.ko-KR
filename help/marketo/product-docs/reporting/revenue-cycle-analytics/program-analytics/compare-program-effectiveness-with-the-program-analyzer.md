@@ -3,9 +3,9 @@ unique-page-id: 2360403
 description: 프로그램 분석기와 프로그램 효과 비교 - 마케팅 문서 - 제품 설명서
 title: 프로그램 분석기와 프로그램 효과 비교
 translation-type: tm+mt
-source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
+source-git-commit: cb7df3dd38275837f8ab05ce846c2c68ab78462f
 workflow-type: tm+mt
-source-wordcount: '484'
+source-wordcount: '467'
 ht-degree: 0%
 
 ---
@@ -17,10 +17,9 @@ ht-degree: 0%
 
 >[!PREREQUISITES]
 >
->* [프로그램 분석기 만들기](create-a-program-analyzer.md)
+>[프로그램 분석기 만들기](/help/marketo/product-docs/reporting/revenue-cycle-analytics/program-analytics/create-a-program-analyzer.md)
 
-
-1. 분석을 클릭합니다.
+1. **분석**&#x200B;을 클릭합니다.
 
    ![](assets/image2014-9-17-18-3a50-3a30.png)
 
@@ -38,7 +37,7 @@ ht-degree: 0%
 
    >[!TIP]
    >
-   >프로그램을 하나의 채널만 필터링하는 빠른 방법은 **보기 > 채널별**&#x200B;을 선택하고 해당 채널의 버블을 클릭한 다음 팝업 대화 상자에서 채널 이름을 클릭하는 것입니다.
+   >프로그램을 하나의 채널만 필터링하는 빠른 방법은 **보기** > **채널별**&#x200B;을 선택하고 해당 채널의 버블을 클릭한 다음 팝업 대화 상자에서 채널 이름을 클릭하는 것입니다.
 
 1. X축 드롭다운을 사용하여 가로 축에 대한 지표를 선택합니다. 먼저 프로그램 비용을 살펴보겠습니다.
 
@@ -92,10 +91,6 @@ Paper Fest 12 프로그램은 더 많은 매출(더 큰 버블)에 영향을 줄
 
 >[!MORELIKETHIS]
 >
->* [프로그램 분석기를 사용하여 프로그램 및 채널 세부 사항 살펴보기](explore-program-and-channel-details-with-the-program-analyzer.md)
->* [프로그램 분석기와 채널 효과 비교](compare-channel-effectiveness-with-the-program-analyzer.md)
+>* [프로그램 분석기를 사용하여 프로그램 및 채널 세부 사항 살펴보기](/help/marketo/product-docs/reporting/revenue-cycle-analytics/program-analytics/explore-program-and-channel-details-with-the-program-analyzer.md)
+>* [프로그램 분석기와 채널 효과 비교](/help/marketo/product-docs/reporting/revenue-cycle-analytics/program-analytics/compare-channel-effectiveness-with-the-program-analyzer.md)
 
-
->[!NOTE]
->
->[매출 주기 탐색기](https://docs.marketo.com/display/docs/revenue+cycle+analytics)의 고급 분석에 대해 자세히 알아보십시오.
