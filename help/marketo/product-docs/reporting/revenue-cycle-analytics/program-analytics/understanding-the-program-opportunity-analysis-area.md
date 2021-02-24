@@ -3,7 +3,7 @@ unique-page-id: 2951877
 description: 프로그램 기회 분석 영역 이해 - 마케팅 문서 - 제품 설명서
 title: 프로그램 기회 분석 영역 이해
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: cb7df3dd38275837f8ab05ce846c2c68ab78462f
 workflow-type: tm+mt
 source-wordcount: '896'
 ht-degree: 0%
@@ -17,7 +17,7 @@ ht-degree: 0%
 
 프로그램 기회 분석 영역을 사용하면 개별 프로그램의 효과를 분석하거나 프로그램 채널별로 요약된 결과를 볼 수 있습니다.
 
-**이 분석 영역을 사용하여 답변할 수 있는 비즈니스 질문의 예는 다음과 같습니다.**
+**이 분석 영역을 사용하여 답변할 수 있는 비즈니스 질문의 예는 다음과 같습니다**.
 
 주어진 프로그램에 연관된 기회가 몇 개이며 이러한 기회 중 우리가 얻은 것은 몇 개입니까?
 
@@ -67,11 +67,11 @@ ht-degree: 0%
   </tr> 
   <tr> 
    <td>기회 비용</td> 
-   <td><p>기회에 영향을 준 프로그램 비용의 부분입니다. 관련된 리드가 여러 개인 경우 비용이 분할될 수 있습니다.</p></td> 
+   <td>기회에 영향을 준 프로그램 비용의 부분입니다. 관련된 리드가 여러 개인 경우 비용이 분할될 수 있습니다.</td> 
   </tr> 
   <tr> 
    <td>기회 창출</td> 
-   <td><p>기회 창출에 영향을 주어 프로그램에서 받은 크레딧의 부분. 관련된 리드가 여러 개 있는 경우 이는 매우 작은 것일 수 있습니다.</p></td> 
+   <td>기회 창출에 영향을 주어 프로그램에서 받은 크레딧의 부분. 관련된 리드가 여러 개 있는 경우 이는 매우 작은 것일 수 있습니다.</td> 
   </tr> 
   <tr> 
    <td>기회 획득</td> 
@@ -79,28 +79,28 @@ ht-degree: 0%
   </tr> 
   <tr> 
    <td>파이프라인 생성됨</td> 
-   <td><p>기회 창출에 영향을 주어 프로그램에서 받은 신용(금전적 가치) 부분. 관련된 리드가 여러 개 있는 경우 이는 매우 작은 것일 수 있습니다.</p></td> 
+   <td>기회 창출에 영향을 주어 프로그램에서 받은 신용(금전적 가치) 부분. 관련된 리드가 여러 개 있는 경우 이는 매우 작은 것일 수 있습니다.</td> 
   </tr> 
   <tr> 
    <td>파이프라인이 생성됨 - 여전히 열기</td> 
    <td>현재 열린 기회를 창출하는 영향을 주어 프로그램에서 받은 신용(금전적 가치) 부분. 관련된 리드가 여러 개 있는 경우 이는 매우 작은 것일 수 있습니다.</td> 
   </tr> 
   <tr> 
-   <td><p>예상 매출</p></td> 
+   <td>예상 매출</td> 
    <td>기회 창출에 영향을 주어 프로그램에서 받은 신용(금전적 가치) 부분. 예상 매출액은 기회 값을 곱하는 기회 가능성입니다. 관련된 리드가 여러 개 있는 경우 이는 매우 작은 것일 수 있습니다.</td> 
   </tr> 
   <tr> 
-   <td><p>투자 수익</p></td> 
-   <td><p>이는 원화절상과 사업비용에 영향을 미치는 것으로 받은 신용공여의 비율(금전적 가치)이다.</p></td> 
+   <td>투자 수익</td> 
+   <td>이는 원화절상과 사업비용에 영향을 미치는 것으로 받은 신용공여의 비율(금전적 가치)이다.</td> 
   </tr> 
   <tr> 
    <td>매출 원</td> 
-   <td><p>원화절상에 영향을 주어 프로그램에서 받은 신용(금전적 가치) 부분. 관련된 리드가 여러 개 있는 경우 이는 매우 작은 것일 수 있습니다.</p></td> 
+   <td>원화절상에 영향을 주어 프로그램에서 받은 신용(금전적 가치) 부분. 관련된 리드가 여러 개 있는 경우 이는 매우 작은 것일 수 있습니다.</td> 
   </tr> 
  </tbody> 
 </table>
 
-** (FT) = 리드 획득 측정값에 사용되는 첫 번째 터치 속성;(MT) = 리드 성공 측정에 사용되는 다중 터치 속성*
+_* (FT) = 리드 획득 측정값에 사용되는 첫 번째 터치 속성;(MT) = 리드 성공 측정에 사용되는 다중 터치 속성_
 
 다음은 리드를 생성하는 두 개의 프로그램이 있지만 이러한 리드가 동일한 계정에서 하나의 Opportunity 로 연결되었을 때 Opportunity Unit이 계산되는 방식을 설명하는 시나리오입니다.
 
@@ -165,19 +165,19 @@ Marketing To는 전체 프로그램에 대한 두 번 계산 기회를 사용하
  <tbody> 
   <tr> 
    <th>카테고리</th> 
-   <th><p>표시 레이블</p></th> 
+   <th>표시 레이블</th> 
   </tr> 
   <tr> 
    <td>기회 속성</td> 
-   <td><p>Opportunity Closed<br>Opportunity Name*<br>Opportunity Owner Name<br>Opportunity Stage<br>Opportunity Type</p></td> 
+   <td>Opportunity Closed<br>Opportunity Name*<br>Opportunity Owner Name<br>Opportunity Stage<br>Opportunity Type</td> 
   </tr> 
   <tr> 
    <td>기회 일정</td> 
-   <td><p>영업 기회 마감 연도/분기/월<br>연도/분기/월에 생성된 기회</p></td> 
+   <td>영업 기회 마감 연도/분기/월<br>연도/분기/월에 생성된 기회</td> 
   </tr> 
   <tr> 
    <td>프로그램 속성</td> 
-   <td><p>프로그램 채널<br>프로그램 이름</p></td> 
+   <td>프로그램 채널<br>프로그램 이름</td> 
   </tr> 
   <tr> 
    <td>프로그램 비용 일정</td> 
@@ -190,4 +190,4 @@ Marketing To는 전체 프로그램에 대한 두 번 계산 기회를 사용하
 
 >[!MORELIKETHIS]
 >
->[매출 탐색기 보고서 만들기](../../../../product-docs/reporting/revenue-cycle-analytics/revenue-explorer/create-a-revenue-explorer-report.md)
+>[매출 탐색기 보고서 만들기](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-explorer/create-a-revenue-explorer-report.md)
