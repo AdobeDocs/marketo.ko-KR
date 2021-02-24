@@ -3,7 +3,7 @@ unique-page-id: 4718648
 description: 기회 영향 분석기 이해 - 마케팅 문서 - 제품 설명서
 title: 기회 영향 분석기 이해
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: cb7df3dd38275837f8ab05ce846c2c68ab78462f
 workflow-type: tm+mt
 source-wordcount: '255'
 ht-degree: 0%
@@ -19,7 +19,7 @@ ht-degree: 0%
 
 ![](assets/image2015-6-23-14-3a43-3a35-1.png)
 
-**녹색 체크 표시** 오른쪽에 선택된 이름 중 하나에 대한 프로그램 성공을 나타냅니다. 녹색 영역은 기회의 시작과 끝을 나타냅니다.
+**녹색 체크** 표시 오른쪽에 선택된 이름 중 하나에 대한 프로그램 성공을 나타냅니다. 녹색 영역은 기회의 시작과 끝을 나타냅니다.
 
 >[!NOTE]
 >
@@ -41,10 +41,6 @@ Marketing에서는 CRM ID를 사용하여 계정을 고유하게 식별합니다
 
 >[!MORELIKETHIS]
 >
->* [기회 영향 분석기를 사용하여 마케팅 스토리 전달](tell-the-marketing-story-with-an-opportunity-influence-analyzer.md)
->* [기회 영향 분석기 만들기](create-an-opportunity-influence-analyzer.md)
-
->
-
-
+>* [기회 영향 분석기를 사용하여 마케팅 스토리 전달](/help/marketo/product-docs/reporting/revenue-cycle-analytics/opportunity-influence-analyzer/tell-the-marketing-story-with-an-opportunity-influence-analyzer.md)
+>* [기회 영향 분석기 만들기](/help/marketo/product-docs/reporting/revenue-cycle-analytics/opportunity-influence-analyzer/create-an-opportunity-influence-analyzer.md)
 
