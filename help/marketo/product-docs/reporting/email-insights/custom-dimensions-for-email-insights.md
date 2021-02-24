@@ -3,7 +3,7 @@ unique-page-id: 11375276
 description: 이메일 인사이트를 위한 사용자 정의 Dimension - 마케팅 문서 - 제품 설명서
 title: 이메일 인사이트를 위한 사용자 정의 Dimension
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: cb7df3dd38275837f8ab05ce846c2c68ab78462f
 workflow-type: tm+mt
 source-wordcount: '104'
 ht-degree: 0%
@@ -21,7 +21,7 @@ ht-degree: 0%
 
 >[!CAUTION]
 >
->사용자 지정 차원 **CANNOT**&#x200B;은(는) 삭제하거나 바꿀 수 없으므로 10을 신중하게 선택하십시오.
+>사용자 지정 차원 **은(는) 삭제하거나 바꿀 수 없으므로 10을 신중하게 선택하십시오.**
 
 1. 이메일 인사이트에서 페이지의 오른쪽 상단에 있는 톱니바퀴 아이콘을 클릭합니다.
 
@@ -43,6 +43,4 @@ ht-degree: 0%
    >
    >**대상자별**:데이터베이스 내에서 승인된 모든 세그먼트를 표시합니다.
    >
-   >
    >**컨텐츠별**:모든 프로그램 태그 표시
-
