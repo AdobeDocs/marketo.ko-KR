@@ -3,7 +3,7 @@ unique-page-id: 4718666
 description: 매출 모델 인벤토리 단계 사용 - 마케팅 문서 - 제품 설명서
 title: 매출 모델 재고 단계 사용
 translation-type: tm+mt
-source-git-commit: 00887ea53e395bea3a11fd28e0ac98b085ef6ed8
+source-git-commit: cb7df3dd38275837f8ab05ce846c2c68ab78462f
 workflow-type: tm+mt
 source-wordcount: '268'
 ht-degree: 0%
@@ -25,7 +25,7 @@ ht-degree: 0%
 
    ![](assets/image2015-4-27-11-3a54-3a41.png)
 
-1. **분석** 섹션에서 기존 모델을 선택하거나 [새 모델](create-a-new-revenue-model.md)을 만듭니다.
+1. **분석** 섹션에서 기존 모델을 선택하거나 [새 모델](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-cycle-models/create-a-new-revenue-model.md)을 만듭니다.
 
    ![](assets/image2015-4-27-14-3a31-3a53.png)
 
@@ -37,13 +37,13 @@ ht-degree: 0%
 
    ![](assets/image2015-4-28-13-3a9-3a37.png)
 
-1. 스테이지를 추가한 후 이름을 편집하고 설명을 추가하고 유형을 조정할 수 있습니다. 현재 ** [계정별 추적 시작](start-tracking-by-account-in-the-revenue-modeler.md)**을 선택할 수도 있습니다.
+1. 스테이지를 추가한 후 이름을 편집하고 설명을 추가하고 유형을 조정할 수 있습니다. 현재 **[계정별 추적 시작](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-cycle-models/start-tracking-by-account-in-the-revenue-modeler.md)**&#x200B;을 선택할 수도 있습니다.
 
    ![](assets/image2015-4-27-13-3a29-3a2.png)
 
 ## 인벤토리 스테이지 {#edit-an-inventory-stage} 편집
 
-인벤토리 아이콘을 선택할 때 **이름**&#x200B;을 편집하거나 **설명**&#x200B;을 추가하거나 **유형**&#x200B;을 조정할 수 있습니다. [계정별 추적 시작](start-tracking-by-account-in-the-revenue-modeler.md)을 선택할 수도 있습니다.
+인벤토리 아이콘을 선택할 때 **이름**&#x200B;을 편집하거나 **설명**&#x200B;을 추가하거나 **유형**&#x200B;을 조정할 수 있습니다. [계정별 추적 시작](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-cycle-models/start-tracking-by-account-in-the-revenue-modeler.md)을 선택할 수도 있습니다.
 
 1. 인벤토리 아이콘을 클릭합니다.
 
