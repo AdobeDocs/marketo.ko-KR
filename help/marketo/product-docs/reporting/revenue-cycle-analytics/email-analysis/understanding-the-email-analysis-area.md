@@ -3,7 +3,7 @@ unique-page-id: 4718651
 description: 이메일 분석 영역 이해 - 마케팅 문서 - 제품 설명서
 title: 이메일 분석 영역 이해
 translation-type: tm+mt
-source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
+source-git-commit: cb7df3dd38275837f8ab05ce846c2c68ab78462f
 workflow-type: tm+mt
 source-wordcount: '356'
 ht-degree: 0%
@@ -16,7 +16,6 @@ ht-degree: 0%
 이메일 분석 영역은 이메일 지표에 중점을 둡니다. 이 문서에서는 사용 가능한 모든 보고서에 대해 설명합니다.
 
 >[!AVAILABILITY]
->
 >
 >이 옵션은 Select Edition 또는 [Revenue Cycle Analytics](https://www.marketo.com/global-enterprise/marketo-revenue-cycle-analytics/) 추가 기능을 사용하는 사용자가 사용할 수 있습니다. 자세한 내용은 영업 담당자에게 문의하십시오.
 
@@ -61,4 +60,3 @@ ht-degree: 0%
 이 보고서는 이메일을 보내는 요일과 시간을 보여줍니다. 더 푸른 상자는 그 특정한 날과 시간에 더 많은 이메일을 보내는 것입니다. 현재 필터에는 지난 7일 동안 보낸 모든 이메일이 포함되어 있습니다. 시간은 CST에 있습니다.
 
 ![](assets/seven.png)
-
