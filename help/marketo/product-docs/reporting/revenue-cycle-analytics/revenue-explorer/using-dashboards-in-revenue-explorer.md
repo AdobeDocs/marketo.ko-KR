@@ -3,7 +3,7 @@ unique-page-id: 10094959
 description: 매출 탐색기에서 대시보드 사용 - 마케팅 문서 - 제품 설명서
 title: 매출 탐색기에서 대시보드 사용
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: cb7df3dd38275837f8ab05ce846c2c68ab78462f
 workflow-type: tm+mt
 source-wordcount: '246'
 ht-degree: 0%
@@ -57,7 +57,7 @@ ht-degree: 0%
 
    ![](assets/nine.png)
 
-1. 섹션의 이름을 변경하려면 섹션을 클릭하여 선택하고 제목 아래에 원하는 이름을 입력한 다음 적용** 클릭합니다**. 각 섹션에 대해 반복합니다.
+1. 섹션의 이름을 변경하려면 섹션을 클릭하여 선택하고 제목 아래에 원하는 이름을 입력한 다음 **적용**&#x200B;을 클릭합니다. 각 섹션에 대해 반복합니다.
 
    ![](assets/ten.png)
 
@@ -92,4 +92,3 @@ ht-degree: 0%
 1. 삭제할 대시보드를 선택한 다음 **휴지통으로 이동**&#x200B;을 클릭합니다.
 
    ![](assets/fifteen.png)
-
