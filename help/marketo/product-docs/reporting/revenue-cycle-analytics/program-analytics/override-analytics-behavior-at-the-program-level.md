@@ -3,9 +3,9 @@ unique-page-id: 2360421
 description: 프로그램 수준에서 분석 동작 무시 - 마케팅 문서 - 제품 설명서
 title: 프로그램 수준에서 분석 동작 무시
 translation-type: tm+mt
-source-git-commit: c33b7ab59e612f37d3f64bb954579700dc574068
+source-git-commit: cb7df3dd38275837f8ab05ce846c2c68ab78462f
 workflow-type: tm+mt
-source-wordcount: '193'
+source-wordcount: '192'
 ht-degree: 0%
 
 ---
@@ -13,9 +13,9 @@ ht-degree: 0%
 
 # 프로그램 수준 {#override-analytics-behavior-at-the-program-level}에서 분석 동작 무시
 
-채널](make-a-program-without-a-period-cost-available-in-revenue-explorer-and-analyzers.md)의 관리 수준에서 [분석 행동을 설정할 수 있지만 프로그램 수준에서 재정의할 수도 있습니다. 방법은 다음과 같습니다.
+채널](/help/marketo/product-docs/reporting/revenue-cycle-analytics/program-analytics/make-a-program-without-a-period-cost-available-in-revenue-explorer-and-analyzers.md)의 관리 수준에서 [분석 행동을 설정할 수 있지만 프로그램 수준에서 재정의할 수도 있습니다. 방법은 다음과 같습니다.
 
-1. 마케팅 활동 영역으로 이동합니다.
+1. **마케팅 활동** 영역으로 이동합니다.
 
    ![](assets/image2014-9-24-11-3a40-3a46.png)
 
@@ -23,7 +23,7 @@ ht-degree: 0%
 
    ![](assets/image2014-9-24-11-3a40-3a57.png)
 
-1. 설정 탭에서 분석 비헤이비어를 캔버스로 드래그합니다.
+1. **설정** 탭에서 분석 비헤이비어를 캔버스로 드래그합니다.
 
    ![](assets/image2014-9-24-11-3a41-3a2.png)
 
@@ -43,7 +43,7 @@ ht-degree: 0%
 
    ![](assets/image2014-9-24-11-3a42-3a0.png)
 
-1. 저장을 클릭합니다.
+1. **저장**&#x200B;을 클릭합니다.
 
    ![](assets/image2014-9-24-11-3a42-3a6.png)
 
@@ -51,7 +51,4 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->**미리 알림**
->
 >변경 사항은 다음 날에 영향을 주고, 사용 가능하거나 매출 탐색기 및 분석기에서 추출됩니다.
-
