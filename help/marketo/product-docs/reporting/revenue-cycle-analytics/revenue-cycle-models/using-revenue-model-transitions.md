@@ -3,7 +3,7 @@ unique-page-id: 4718672
 description: 매출 모델 전환 사용 - 마케팅 문서 - 제품 설명서
 title: 매출 모델 전환 사용
 translation-type: tm+mt
-source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
+source-git-commit: cb7df3dd38275837f8ab05ce846c2c68ab78462f
 workflow-type: tm+mt
 source-wordcount: '213'
 ht-degree: 0%
@@ -15,7 +15,7 @@ ht-degree: 0%
 
 >[!PREREQUISITES]
 >
->[새 매출 모델 만들기](create-a-new-revenue-model.md)
+>[새 매출 모델 만들기](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-cycle-models/create-a-new-revenue-model.md)
 
 모델을 만들고 인벤토리 단계를 선택하고 구성할 때 전환을 설정해야 합니다.
 
@@ -29,7 +29,10 @@ ht-degree: 0%
    >
    >&#39;익명 ⇒ 알려진&#39; 전환 규칙은 편집할 수 없습니다.
 
-1. 선택한 전환용으로 새 탭이 열립니다.   ![](assets/three-1.png)
+1. 선택한 전환용으로 새 탭이 열립니다.
+
+   ![](assets/three-1.png)
+
 1. 전환은 리드 이동 단계를 단계별로 제어합니다. 오른쪽에서 원하는 트리거(또는 필터)를 드래그하고 캔버스 아무데나 놓습니다. 이 예에서는 채우기 양식 트리거를 선택합니다.
 
    >[!TIP]
@@ -62,4 +65,4 @@ ht-degree: 0%
 
 >[!MORELIKETHIS]
 >
->[매출 모델 승인/승인 취소](approve-unapprove-a-revenue-model.md)
+>[매출 모델 승인/승인 취소](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-cycle-models/approve-unapprove-a-revenue-model.md)
