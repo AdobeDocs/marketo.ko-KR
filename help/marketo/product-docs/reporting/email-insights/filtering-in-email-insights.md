@@ -3,7 +3,7 @@ unique-page-id: 10099798
 description: 이메일 인사이트에서 필터링 - 마케팅 문서 - 제품 설명서
 title: 이메일 인사이트에서 필터링
 translation-type: tm+mt
-source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
+source-git-commit: cb7df3dd38275837f8ab05ce846c2c68ab78462f
 workflow-type: tm+mt
 source-wordcount: '187'
 ht-degree: 0%
@@ -63,7 +63,6 @@ ht-degree: 0%
 
 ## 계정 기반 마케팅 {#account-based-marketing}
 
-[계정 기반 마케팅](https://docs.marketo.com/display/DOCS/Account+Based+Marketing+Overview)을(를) 사용하는 경우 특별히 사용자에게 맞는 필터가 있습니다.
+[Target 계정 관리](https://docs.marketo.com/display/DOCS/Account+Based+Marketing+Overview)를 사용하는 경우 특별히 사용할 필터가 있습니다.
 
 ![](assets/abm.png)
-
