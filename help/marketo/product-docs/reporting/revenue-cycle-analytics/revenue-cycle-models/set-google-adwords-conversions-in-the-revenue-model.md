@@ -3,7 +3,7 @@ unique-page-id: 6095029
 description: 매출 모델 - 마케팅 문서 - 제품 문서에서 Google AdWords 전환 설정
 title: 매출 모델에서 Google AdWords 전환 설정
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: cb7df3dd38275837f8ab05ce846c2c68ab78462f
 workflow-type: tm+mt
 source-wordcount: '503'
 ht-degree: 0%
@@ -17,9 +17,9 @@ Google AdWords 계정을 Marketing에 연결하여 Marketing에서 Google AdWord
 
 >[!NOTE]
 >
->Marketing에서 Google AdWords로 푸시 통합입니다. 전환 데이터는 Google AdWords 포털에서 *만*&#x200B;로 표시되고 Marketing To UI에는 표시되지 않습니다**. **
+>Marketing에서 Google AdWords로 푸시 통합입니다. 전환 데이터는 Google AdWords 포털에서 _만 표시되고_&#x200B;는 Marketing UI _에 표시되지 않습니다._
 
-[Google의 오프라인 변환 가져오기 기능에 대해 자세히 알아보십시오](https://support.google.com/adwords/answer/2998031?hl=en).  AdWords 오프라인 전환을 매출 모델에서 하나 이상의 단계에 매핑합니다. 매핑을 수행하는 방법에는 3가지가 있습니다.
+[Google의 오프라인 변환 가져오기 기능에 대해 자세히 알아보십시오](https://support.google.com/adwords/answer/2998031?hl=en). AdWords 오프라인 전환을 매출 모델에서 하나 이상의 단계에 매핑합니다. 매핑을 수행하는 방법에는 3가지가 있습니다.
 
 * AdWords 전환
 * 스테이지 동작
@@ -29,11 +29,7 @@ Google AdWords 계정을 Marketing에 연결하여 Marketing에서 Google AdWord
 
 >[!PREREQUISITES]
 >
->* [Google AdWords를 LaunchPoint 서비스로 추가](../../../../product-docs/administration/additional-integrations/add-google-adwords-as-a-launchpoint-service.md)
-
->
-
-
+>[Google AdWords를 LaunchPoint 서비스로 추가](/help/marketo/product-docs/administration/additional-integrations/add-google-adwords-as-a-launchpoint-service.md)
 
 ## AdWords 전환 사용 {#use-adwords-conversion}
 
