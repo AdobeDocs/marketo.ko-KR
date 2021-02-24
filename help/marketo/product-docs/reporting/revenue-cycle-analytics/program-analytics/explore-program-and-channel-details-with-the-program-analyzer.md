@@ -3,9 +3,9 @@ unique-page-id: 2360437
 description: 프로그램 분석기를 사용한 프로그램 및 채널 세부 정보 - 마케팅 문서 - 제품 설명서
 title: 프로그램 분석기를 사용하여 프로그램 및 채널 세부 사항 살펴보기
 translation-type: tm+mt
-source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
+source-git-commit: cb7df3dd38275837f8ab05ce846c2c68ab78462f
 workflow-type: tm+mt
-source-wordcount: '212'
+source-wordcount: '197'
 ht-degree: 0%
 
 ---
@@ -17,11 +17,9 @@ ht-degree: 0%
 
 >[!PREREQUISITES]
 >
->* [프로그램 분석기 만들기](create-a-program-analyzer.md)
-
+>[프로그램 분석기 만들기](/help/marketo/product-docs/reporting/revenue-cycle-analytics/program-analytics/create-a-program-analyzer.md)
 
 >[!AVAILABILITY]
->
 >
 >일부 Marketing To 에디션에는 이 기능이 포함되어 있지 않습니다. 자세한 내용은 계정 관리자에게 문의하십시오.
 
@@ -56,7 +54,3 @@ ht-degree: 0%
 1. 매출 주기 탐색기를 열어 통계를 더 자세히 분석하려면 팝업 대화 상자에서 해당 숫자를 클릭합니다.
 
    ![](assets/image2015-4-28-13-3a1-3a35.png)
-
-   >[!NOTE]
-   >
-   >[매출 탐색기](https://docs.marketo.com/display/docs/revenue+explorer)의 고급 분석에 대해 자세히 알아보십시오.
