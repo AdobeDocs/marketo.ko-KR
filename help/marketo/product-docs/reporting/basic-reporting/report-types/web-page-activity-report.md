@@ -3,9 +3,9 @@ unique-page-id: 2359971
 description: 웹 페이지 활동 보고서 - 마케팅 문서 - 제품 설명서
 title: 웹 페이지 활동 보고서
 translation-type: tm+mt
-source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
+source-git-commit: cb7df3dd38275837f8ab05ce846c2c68ab78462f
 workflow-type: tm+mt
-source-wordcount: '347'
+source-wordcount: '331'
 ht-degree: 0%
 
 ---
@@ -19,12 +19,15 @@ ht-degree: 0%
 
 >[!PREREQUISITES]
 >
->* [웹 사이트에 Munchkin 추적 코드 추가](../../../../product-docs/administration/additional-integrations/add-munchkin-tracking-code-to-your-website.md)
+>* [웹 사이트에 Munchkin 추적 코드 추가](/help/marketo/product-docs/administration/additional-integrations/add-munchkin-tracking-code-to-your-website.md)
 
 
-1. [보고서를 ](../../../../product-docs/reporting/basic-reporting/creating-reports/create-a-report-in-a-program.md)만들고 웹 페이지 활동 보고서**  [보고서 유형을 선택합니다](report-type-overview.md).
-1. 보고서에 [알려진 사람 또는 익명 사용자](../../../../product-docs/reporting/basic-reporting/report-activity/display-people-or-anonymous-visitors-in-web-reports.md)를 표시하도록 선택합니다.
-1. [보고서의 시간대를 설정하고 ](../../../../product-docs/reporting/basic-reporting/editing-reports/change-a-report-time-frame.md) 보고서 탭을  **** 클릭합니다.
+1. [보고서를 ](/help/marketo/product-docs/reporting/basic-reporting/creating-reports/create-a-report-in-a-program.md)만들고  **웹 페이지 활동 보고서** [유형을 선택합니다](report-type-overview.md).
+
+1. 보고서에 [알려진 사람 또는 익명 사용자](/help/marketo/product-docs/reporting/basic-reporting/report-activity/display-people-or-anonymous-visitors-in-web-reports.md)를 표시하도록 선택합니다.
+
+1. [보고서의 시간대를 설정하고 ](/help/marketo/product-docs/reporting/basic-reporting/editing-reports/change-a-report-time-frame.md) 보고서 탭을  **** 클릭합니다.
+
 1. 됐다! 보고서를 검토하여 사이트를 방문하는 사람을 확인합니다.
 
    ![](assets/image2017-3-29-9-3a21-3a36.png)
@@ -35,10 +38,10 @@ ht-degree: 0%
 
    >[!TIP]
    >
-   >사이트를 가장 많이 방문하는 사용자를 확인하려면 *페이지 보기* 열에서 보고서](../../../../product-docs/reporting/basic-reporting/editing-reports/sort-report-on-columns.md) [](../../../../product-docs/reporting/basic-reporting/editing-reports/sort-report-on-columns.md)를 정렬하고 내림차순 정렬을 선택합니다.[
+   >사이트를 가장 많이 방문하는 사람을 찾으려면 [페이지 보기&#x200B;_열에서 보고서](/help/marketo/product-docs/reporting/basic-reporting/editing-reports/sort-report-on-columns.md)을 정렬하고 내림차순 정렬을 선택합니다._
 
-   [Marketing To는 ](../../../../product-docs/reporting/basic-reporting/report-activity/tracking-anonymous-activity-and-people.md) 익명 웹 사이트 방문자를 데이터베이스에 추가하고 이 보고서에 표시하도록 선택할 수 있습니다. 익명이 아니어도 정보가 풍부하다.\
-   [웹 페이지 활동 보고서](../../../../product-docs/reporting/basic-reporting/editing-reports/select-report-columns.md) 에 대해 선택할 수 있는 열은 다음과 같습니다.
+   [Marketing To는 ](/help/marketo/product-docs/reporting/basic-reporting/report-activity/tracking-anonymous-activity-and-people.md) 익명 웹 사이트 방문자를 데이터베이스에 추가하고 이 보고서에 표시하도록 선택할 수 있습니다. 익명이 아니어도 정보가 풍부하다.\
+   [웹 페이지 활동 보고서](/help/marketo/product-docs/reporting/basic-reporting/editing-reports/select-report-columns.md) 에 대해 선택할 수 있는 열은 다음과 같습니다.
 
 <table> 
  <thead> 
@@ -81,17 +84,10 @@ ht-degree: 0%
 
 >[!TIP]
 >
->세일즈 직원들의 마음을 사로잡을 수 있습니다. [해당 영역에 ](../../../../product-docs/reporting/basic-reporting/editing-reports/filter-people-in-a-report-with-a-smart-list.md)대한 보고서를 필터링하고  [구독합니다](../../../../product-docs/reporting/basic-reporting/report-subscriptions/subscribe-to-a-basic-report.md)!
+>세일즈 직원들의 마음을 사로잡을 수 있습니다. [해당 영역에 ](/help/marketo/product-docs/reporting/basic-reporting/editing-reports/filter-people-in-a-report-with-a-smart-list.md)대한 보고서를 필터링하고  [구독합니다](/help/marketo/product-docs/reporting/basic-reporting/report-subscriptions/subscribe-to-a-basic-report.md)!
 
 >[!MORELIKETHIS]
 >
->
->* [본 웹 페이지, 웹 페이지 활동 보고서](web-page-activity-report/web-pages-viewed-web-page-activity-report.md)
->* [웹 보고서에 사람 또는 익명 방문자 표시](../../../../product-docs/reporting/basic-reporting/report-activity/display-people-or-anonymous-visitors-in-web-reports.md)
+>* [본 웹 페이지, 웹 페이지 활동 보고서](/help/marketo/product-docs/reporting/basic-reporting/report-types/web-page-activity-report/web-pages-viewed-web-page-activity-report.md)
+>* [웹 보고서에 사람 또는 익명 방문자 표시](/help/marketo/product-docs/reporting/basic-reporting/report-activity/display-people-or-anonymous-visitors-in-web-reports.md)
 
-
->[!NOTE]
->
->**자세히 알아보기**
->
->[기본 보고](https://docs.marketo.com/display/docs/basic+reporting)에서 다른 관심 있는 보고서에 대해 알아봅니다.
