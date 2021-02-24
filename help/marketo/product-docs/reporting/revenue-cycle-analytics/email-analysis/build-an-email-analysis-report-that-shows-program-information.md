@@ -3,9 +3,9 @@ unique-page-id: 2360409
 description: 프로그램 정보 - 마케팅 문서 - 제품 설명서를 보여주는 이메일 분석 보고서 작성
 title: 프로그램 정보를 표시하는 이메일 분석 보고서 만들기
 translation-type: tm+mt
-source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
+source-git-commit: cb7df3dd38275837f8ab05ce846c2c68ab78462f
 workflow-type: tm+mt
-source-wordcount: '162'
+source-wordcount: '145'
 ht-degree: 0%
 
 ---
@@ -17,7 +17,6 @@ ht-degree: 0%
 
 >[!AVAILABILITY]
 >
->
 >모든 고객이 이 기능을 구입하지는 않았습니다. 자세한 내용은 영업 담당자에게 문의하십시오.
 
 1. **매출 탐색기**&#x200B;를 시작합니다.
@@ -28,7 +27,7 @@ ht-degree: 0%
 
    ![](assets/image2014-9-17-19-3a42-3a32.png)
 
-1. 이메일 분석** 영역을 선택하고 **확인**&#x200B;을 클릭합니다.
+1. **이메일 분석** 영역을 선택하고 **확인**&#x200B;을 클릭합니다.
 
    ![](assets/image2014-9-17-19-3a43-3a20.png)
 
@@ -44,7 +43,7 @@ ht-degree: 0%
 
    ![](assets/image2014-9-17-19-3a43-3a59.png)
 
-1. 프로그램 채널** 노란색 점을 찾아 두 번 클릭합니다.
+1. **프로그램 채널** 노란색 점을 찾아 두 번 클릭합니다.
 
    ![](assets/image2014-9-17-19-3a44-3a14.png)
 
@@ -59,11 +58,3 @@ ht-degree: 0%
    잘했어요! 다음과 같은 보고서가 있어야 합니다.
 
    ![](assets/image2014-9-17-19-3a45-3a1.png)
-
-   >[!NOTE]
-   >
-   >**자세히 알아보기**
-   >
-   >
-   >[매출 주기 탐색기](https://docs.marketo.com/display/docs/revenue+cycle+analytics)에 대해 자세히 알고 싶으십니까?
-
