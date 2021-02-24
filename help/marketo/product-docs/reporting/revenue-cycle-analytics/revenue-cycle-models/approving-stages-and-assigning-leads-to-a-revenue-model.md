@@ -3,9 +3,9 @@ unique-page-id: 4718683
 description: 단계 승인 및 수익 모델에 리드 할당 - 마케팅 문서 - 제품 설명서
 title: 단계 승인 및 수익 모델에 리드 지정
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: cb7df3dd38275837f8ab05ce846c2c68ab78462f
 workflow-type: tm+mt
-source-wordcount: '307'
+source-wordcount: '341'
 ht-degree: 0%
 
 ---
@@ -13,13 +13,13 @@ ht-degree: 0%
 
 # 단계 승인 및 수익 모델에 리드 할당 {#approving-stages-and-assigning-leads-to-a-revenue-model}
 
-기존 리드를 추가하고 새 리드에 대한 할당 규칙을 만들어 **매출** **모델**&#x200B;을(를) 만들어 실행합니다.
+기존 리드를 추가하고 새 리드에 대한 할당 규칙을 만들어 **매출 모델**&#x200B;을 시작하고 실행합니다.
 
 ## 단계 승인 {#approving-stages}
 
 리드를 추가하기 전에 모델의 단계를 승인하겠습니다.
 
-1. **Analytics **영역으로 이동합니다.** **
+1. **분석** 영역으로 이동합니다.
 
    ![](assets/image2015-4-28-17-3a8-3a8.png)
 
@@ -27,7 +27,7 @@ ht-degree: 0%
 
    ![](assets/image2015-4-28-17-3a10-3a3.png)
 
-1. **모델 작업**&#x200B;에서 **승인** **단계**&#x200B;를 선택합니다.
+1. **모델 작업**&#x200B;에서 **단계 승인**&#x200B;을 선택합니다.
 
    ![](assets/image2015-4-28-17-3a12-3a37.png)
 
@@ -39,9 +39,9 @@ ht-degree: 0%
 
 ## 기존 리드 할당 {#assigning-existing-leads}
 
-[리드 ](../../../../product-docs/core-marketo-concepts/smart-lists-and-static-lists/creating-a-smart-list/create-a-smart-list.md) 데이터베이스에서 모델의 한 단계에 대한 리드를 식별하는 스마트 목록을 만듭니다.
+[리드 ](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/creating-a-smart-list/create-a-smart-list.md) 데이터베이스에서 모델의 한 단계에 대한 리드를 식별하는 스마트 목록을 만듭니다.
 
-1. [스마트 목록](../../../../product-docs/core-marketo-concepts/smart-lists-and-static-lists/creating-a-smart-list/create-a-smart-list.md)을 만들었으면 **리드** 탭을 클릭합니다.
+1. [스마트 목록](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/creating-a-smart-list/create-a-smart-list.md)을 만들었으면 **리드** 탭을 클릭합니다.
 
    ![](assets/image2015-4-29-11-3a37-3a30.png)
 
@@ -67,15 +67,15 @@ ht-degree: 0%
 
 ## 새 리드:할당 규칙 만들기 {#new-leads-create-assignment-rules}
 
-1. 다시 Marketing** Home**을 클릭한 다음 **Analytics**&#x200B;를 선택합니다.
+1. **Marketing To Home**&#x200B;을 다시 클릭한 다음 **Analytics**&#x200B;를 선택합니다.
 
    ![](assets/image2015-4-28-17-3a8-3a8.png)
 
-1. `Click your model in the tree, then the`**`Model Actions`**`menu, selecting`**`Assignment Rules`** `.`
+1. 트리에서 모델을 클릭한 다음 **모델 작업** 메뉴에서 **할당 규칙**&#x200B;을 선택합니다.
 
    ![](assets/image2015-4-29-11-3a52-3a17.png)
 
-1. `If your assignment rules contain more than just one default choice click **Stage, **make your selection, then click`**`Add Choice`**`.`
+1. 할당 규칙에 기본 선택 항목이 두 개 이상인 경우 **스테이지**&#x200B;를 클릭한 다음 **선택 추가**&#x200B;를 클릭합니다.
 
    ![](assets/image2015-4-29-12-3a5-3a46.png)
 
@@ -83,10 +83,9 @@ ht-degree: 0%
 
 리드 점수 규칙을 만들어 최소 점수가 있는 새 리드를 적절한 단계에 지정합니다.
 
-1. **If**&#x200B;에서 **리드 점수**&#x200B;를 선택합니다. 그런 다음 **적어도**을 선택합니다.
-&#39; ![](assets/image2015-4-29-13-3a27-3a8.png)
+1. **If**&#x200B;에서 **리드 점수**&#x200B;를 선택합니다. 그런 다음 **적어도**&#x200B;을 선택합니다.
 
-   &#39;
+   ![](assets/image2015-4-29-13-3a27-3a8.png)
 
 1. 필드에 **40**&#x200B;을 입력하고 **영업 리드**&#x200B;을 스테이지로 선택합니다. **저장**&#x200B;을 클릭하여 완료합니다.
 
@@ -94,5 +93,4 @@ ht-degree: 0%
 
 >[!MORELIKETHIS]
 >
->모델을 승인하려면 매출 모델 승인 및 승인 취소 **[**의 도움말 페이지를 읽으십시오.](approve-unapprove-a-revenue-model.md)
-
+>모델을 승인하려면 **[매출 모델 승인 및 승인 취소](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-cycle-models/approve-unapprove-a-revenue-model.md)**&#x200B;에 있는 도움말 페이지를 읽으십시오.
