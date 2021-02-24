@@ -3,7 +3,7 @@ unique-page-id: 7504047
 description: 매출 탐색기 보고서 만들기 - 마케팅 문서 - 제품 설명서
 title: 매출 탐색기 보고서 만들기
 translation-type: tm+mt
-source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
+source-git-commit: cb7df3dd38275837f8ab05ce846c2c68ab78462f
 workflow-type: tm+mt
 source-wordcount: '93'
 ht-degree: 0%
@@ -17,10 +17,9 @@ ht-degree: 0%
 
 >[!AVAILABILITY]
 >
->
 >모든 고객이 이 기능을 구입하지는 않았습니다. 자세한 내용은 영업 담당자에게 문의하십시오.
 
-1. **Revenue Explorer ** 영역으로 이동합니다.
+1. **매출 탐색기** 영역으로 이동합니다.
 
    ![](assets/image2015-3-24-13-3a24-3a56.png)
 
@@ -38,10 +37,5 @@ ht-degree: 0%
 
 >[!MORELIKETHIS]
 >
->* [매출 탐색기 보고서에 필드 추가](adding-fields-to-a-revenue-explorer-report.md)
->* [매출 탐색기 보고서에 사용자 지정 측정값 추가](adding-custom-measures-to-a-revenue-explorer-report.md)
-
->
-
-
-
+>[매출 탐색기 보고서에 필드 추가](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-explorer/adding-fields-to-a-revenue-explorer-report.md)
+>[매출 탐색기 보고서에 사용자 지정 측정값 추가](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-explorer/adding-custom-measures-to-a-revenue-explorer-report.md)
