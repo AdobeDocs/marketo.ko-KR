@@ -3,7 +3,7 @@ unique-page-id: 10099415
 description: 이메일 인사이트 빠른 차트 - 마케팅 문서 - 제품 설명서
 title: 이메일 인사이트 빠른 차트
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: cb7df3dd38275837f8ab05ce846c2c68ab78462f
 workflow-type: tm+mt
 source-wordcount: '229'
 ht-degree: 0%
@@ -78,4 +78,3 @@ ht-degree: 0%
    ![](assets/eleven.png)
 
    이제 빠른 차트가 삭제됩니다. 쉽다고 했잖아
-
