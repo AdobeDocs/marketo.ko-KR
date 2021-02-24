@@ -3,7 +3,7 @@ unique-page-id: 5472402
 description: 승인된 모델 편집 - 마케팅 문서 - 제품 설명서
 title: 승인된 모델 편집
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: cb7df3dd38275837f8ab05ce846c2c68ab78462f
 workflow-type: tm+mt
 source-wordcount: '259'
 ht-degree: 0%
@@ -23,7 +23,7 @@ ht-degree: 0%
 
    ![](assets/two.png)
 
-1. 현재 선택한 리드에 대한 새 단계를 선택하거나 **없음**을 선택하여 모델에서 리드를 제거합니다. 완료되면 **병합**&#x200B;을 클릭합니다.
+1. 현재 선택한 리드에 대한 새 단계를 선택하거나 **없음**&#x200B;을 선택하여 모델에서 리드를 제거합니다. 완료되면 **병합**&#x200B;을 클릭합니다.
 
    ![](assets/three.png)
 
@@ -59,5 +59,4 @@ ht-degree: 0%
 
 >[!MORELIKETHIS]
 >
->[새 매출 모델 만들기](../../../../../product-docs/reporting/revenue-cycle-analytics/revenue-cycle-models/create-a-new-revenue-model.md)
-
+>[새 매출 모델 만들기](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-cycle-models/create-a-new-revenue-model.md)
