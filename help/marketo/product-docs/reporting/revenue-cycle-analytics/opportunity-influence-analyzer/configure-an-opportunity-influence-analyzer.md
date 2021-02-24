@@ -3,9 +3,9 @@ unique-page-id: 2360240
 description: 기회 영향 분석기 구성 - 마케팅 문서 - 제품 설명서
 title: 기회 영향 분석기 구성
 translation-type: tm+mt
-source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
+source-git-commit: cb7df3dd38275837f8ab05ce846c2c68ab78462f
 workflow-type: tm+mt
-source-wordcount: '176'
+source-wordcount: '163'
 ht-degree: 0%
 
 ---
@@ -13,14 +13,13 @@ ht-degree: 0%
 
 # 기회 영향 분석기 {#configure-an-opportunity-influence-analyzer} 구성
 
-[기회 영향 분석기](create-an-opportunity-influence-analyzer.md)를 만든 후 포함된 [관심 항목](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/features/tabs-in-the-msi-panel/interesting-moments/interesting-moments-overview.md)의 유형을 구성할 수 있습니다.
+[기회 영향 분석기](/help/marketo/product-docs/reporting/revenue-cycle-analytics/opportunity-influence-analyzer/create-an-opportunity-influence-analyzer.md)를 만든 후 포함된 [관심 항목](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/features/tabs-in-the-msi-panel/interesting-moments/interesting-moments-overview.md)의 유형을 구성할 수 있습니다.
 
 >[!PREREQUISITES]
 >
->* [기회 영향 분석기 만들기](create-an-opportunity-influence-analyzer.md)
+>[기회 영향 분석기 만들기](/help/marketo/product-docs/reporting/revenue-cycle-analytics/opportunity-influence-analyzer/create-an-opportunity-influence-analyzer.md)
 
-
-1. 분석을 클릭합니다.
+1. **분석**&#x200B;을 클릭합니다.
 
    ![](assets/login-to-analytics.png)
 
@@ -42,16 +41,12 @@ ht-degree: 0%
 
    ![](assets/image2014-9-17-12-3a29-3a39.png)
 
-1. 원하는 각 유형의 흥미로운 순간을 클릭합니다. 그런 다음 저장을 클릭합니다.
+1. 원하는 각 유형의 흥미로운 순간을 클릭합니다. 그런 다음 **저장**&#x200B;을 클릭합니다.
+
 1. 선택한 관심 항목 유형만 포함하여 기회의 내역을 보려면 기본 탭을 클릭합니다.
 
    ![](assets/image2014-9-17-12-3a29-3a58.png)
 
->[!NOTE]
->
->다른 분석기는 [기본 보고](https://docs.marketo.com/display/docs/basic+reporting)를 참조하십시오.
-
 >[!MORELIKETHIS]
 >
->* [기회 영향 분석기를 사용하여 마케팅 스토리 전달](tell-the-marketing-story-with-an-opportunity-influence-analyzer.md)
-
+>[기회 영향 분석기를 사용하여 마케팅 스토리 전달](/help/marketo/product-docs/reporting/revenue-cycle-analytics/opportunity-influence-analyzer/tell-the-marketing-story-with-an-opportunity-influence-analyzer.md)
