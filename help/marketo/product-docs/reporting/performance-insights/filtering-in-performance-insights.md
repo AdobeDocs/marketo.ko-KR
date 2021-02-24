@@ -3,9 +3,9 @@ unique-page-id: 12979012
 description: 성과 인사이트에서 필터링 - 마케팅 문서 - 제품 설명서
 title: 성과 인사이트에서 필터링
 translation-type: tm+mt
-source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
+source-git-commit: cb7df3dd38275837f8ab05ce846c2c68ab78462f
 workflow-type: tm+mt
-source-wordcount: '354'
+source-wordcount: '323'
 ht-degree: 0%
 
 ---
@@ -21,7 +21,7 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->현재 사용자 지정 속성은 [RCA](https://docs.marketo.com/x/lwIk)이(가) 활성화된 고객에게만 필터에서 사용할 수 있습니다.
+>현재 사용자 지정 속성은 매출 주기 분석이 활성화된 고객에게만 필터에서 사용할 수 있습니다.
 
 범주를 클릭하면 여러 하위 카테고리가 표시됩니다.
 
@@ -57,7 +57,7 @@ ht-degree: 0%
   </tr> 
   <tr> 
    <td colspan="1"><strong>사용자 지정 속성</strong></td> 
-   <td colspan="1"><p>이것은 사용자에 의해 결정됩니다. 기회 분석을 위해 <a href="https://docs.marketo.com/display/public/DOCS/Enabling+Custom+Field+Sync+for+Revenue+Cycle+Analytics" rel="nofollow">활성화한 모든 필드는 성능 인사이트에서 필터링할 수 있습니다.</a></p></td> 
+   <td colspan="1"><p>이것은 사용자에 의해 결정됩니다. 기회 분석을 위해 <a href="/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-tools/enabling-custom-field-sync-for-revenue-cycle-analytics.md" rel="nofollow">활성화한 모든 필드는 성능 인사이트에서 필터링할 수 있습니다.</a></p></td> 
   </tr> 
   <tr> 
    <td colspan="1"><p><strong>투자 기간</strong></p></td> 
@@ -69,11 +69,11 @@ ht-degree: 0%
   </tr> 
   <tr> 
    <td><p><strong>프로그램 태그</strong></p></td> 
-   <td><p>태그는 프로그램을 설명하는 데 사용됩니다. 각 값은 필요한 만큼 만들 수 있습니다. <a href="https://docs.marketo.com/display/public/DOCS/Tags" rel="nofollow">여기에서 프로그램 태그를 사용하여 작업하는 방법을 알아봅니다.</a></p></td> 
+   <td><p>태그는 프로그램을 설명하는 데 사용됩니다. 각 값은 필요한 만큼 만들 수 있습니다. <a href="/help/marketo/product-docs/administration/tags/create-a-new-program-tag-and-tag-values.md" rel="nofollow">여기에서 프로그램 태그를 사용하여 작업하는 방법을 알아봅니다.</a></p></td> 
   </tr> 
   <tr> 
    <td><strong>작업 영역</strong></td> 
-   <td><p>작업 영역은 다음과 같이 마케팅 자산을 보유하는 Marketing의 별도 영역입니다.프로그램, 랜딩 페이지, 이메일 등 <a href="https://docs.marketo.com/display/public/DOCS/Understanding+Workspaces+and+Person+Partitions" rel="nofollow">작업 영역에 대한 자세한 내용을 살펴보십시오.</a></p></td> 
+   <td><p>작업 영역은 다음과 같이 마케팅 자산을 보유하는 Marketing의 별도 영역입니다.프로그램, 랜딩 페이지, 이메일 등 <a href="/help/marketo/product-docs/administration/workspaces-and-person-partitions/understanding-workspaces-and-person-partitions.md" rel="nofollow">작업 영역에 대한 자세한 내용을 살펴보십시오.</a></p></td> 
   </tr> 
  </tbody> 
 </table>
@@ -81,4 +81,3 @@ ht-degree: 0%
 >[!NOTE]
 >
 >관여 대시보드에서는 프로그램 태그 및 작업 공간 필터만 사용할 수 있습니다.
-
