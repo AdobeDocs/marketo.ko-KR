@@ -3,7 +3,7 @@ unique-page-id: 2951884
 description: 매출 탐색기에서 기회 분석 이해 - 마케팅 문서 - 제품 설명서
 title: 매출 탐색기에서 기회 분석 이해
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: cb7df3dd38275837f8ab05ce846c2c68ab78462f
 workflow-type: tm+mt
 source-wordcount: '899'
 ht-degree: 0%
@@ -26,12 +26,14 @@ ht-degree: 0%
    ![](assets/image2015-7-21-16-3a21-3a4.png)
 
 1. 마케팅이 영업 기회에 미치는 영향
-1. 이 보고서는 마케팅에 의해 취득되고 영향을 받은 매출을 숫자와 금액별로 보여줍니다.
+
+   이 보고서는 마케팅에 의해 취득되고 영향을 받은 매출을 숫자와 금액별로 보여줍니다.
 
    ![](assets/image2015-7-21-16-3a41-3a55.png)
 
 1. 리드 출처로 마감된 기회
-1. 이 보고서는 리드 소스로 마감된 모든 기회를 분석하며, 효과가 있고 효과가 없는 소스에 대한 명확한 개요를 제공합니다.
+
+   이 보고서는 리드 소스로 마감된 모든 기회를 분석하며, 효과가 있고 효과가 없는 소스에 대한 명확한 개요를 제공합니다.
 
    ![](assets/image2015-7-21-10-3a34-3a50.png)
 
@@ -151,11 +153,7 @@ ht-degree: 0%
 
 >[!MORELIKETHIS]
 >
->* [매출 탐색기 보고서 만들기](create-a-revenue-explorer-report.md)
->* [매출 탐색기 보고서에 필드 추가](adding-fields-to-a-revenue-explorer-report.md)
->* [매출 탐색기 보고서 구독](subscribe-to-a-revenue-explorer-report.md)
-
->
-
-
+>* [매출 탐색기 보고서 만들기](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-explorer/create-a-revenue-explorer-report.md)
+>* [매출 탐색기 보고서에 필드 추가](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-explorer/adding-fields-to-a-revenue-explorer-report.md)
+>* [매출 탐색기 보고서 구독](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-explorer/subscribe-to-a-revenue-explorer-report.md)
 
