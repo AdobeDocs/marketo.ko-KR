@@ -3,7 +3,7 @@ unique-page-id: 2360423
 description: 매출 주기 모델 - 마케팅 문서 - 제품 문서에서 모든 리드 찾기
 title: 매출 주기 모델에서 모든 리드 찾기
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: cb7df3dd38275837f8ab05ce846c2c68ab78462f
 workflow-type: tm+mt
 source-wordcount: '183'
 ht-degree: 0%
@@ -17,7 +17,7 @@ ht-degree: 0%
 
 >[!PREREQUISITES]
 >
->[스마트 목록 만들기](../../../../product-docs/core-marketo-concepts/smart-lists-and-static-lists/creating-a-smart-list/create-a-smart-list.md)
+>[스마트 목록 만들기](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/creating-a-smart-list/create-a-smart-list.md)
 
 1. 스마트 목록이 선택된 상태에서 **스마트 목록** 탭을 클릭합니다.
 
@@ -33,11 +33,11 @@ ht-degree: 0%
 
    그러면 스테이지에 상관없이 해당 모델의 모든 리드가 표시됩니다. 보통 특정한 단계를 원하실 겁니다. 대신 다음 필터를 사용하십시오.
 
-1. **Revenue Stage **필터를 찾아 캔버스로 드래그합니다.
+1. **매출액 스테이지** 필터를 찾아 캔버스로 드래그합니다.
 
    ![](assets/image2015-5-13-17-3a27-3a0.png)
 
-1. **스테이지를 선택합니다.**
+1. **스테이지**&#x200B;를 선택합니다.
 
    ![](assets/image2015-5-13-17-3a31-3a9.png)
 
@@ -47,9 +47,8 @@ ht-degree: 0%
 
    >[!TIP]
    >
-   >두 개의 필터가 모두 필요한 것은 아닙니다. 원하는 필터를 선택하면 됩니다. 우리는 단지 두 사람 모두 철저함을 보여주고 있다. ![(웃음)](assets/smile.svg)   >
+   >두 개의 필터가 모두 필요한 것은 아닙니다. 원하는 필터를 선택하면 됩니다. 우리는 단지 두 사람 모두 철저함을 보여주고 있다. ![(웃음)](assets/smile.svg)
 
    >[!CAUTION]
    >
    >리드를 처음 생성하는 동안 외부 캠페인에 의해 리드 스테이지가 변경된 경우 데이터베이스에 활동이 로그인되지 않습니다. 즉, 리드가 스마트 목록 필터에 포함되지 않습니다.
-
