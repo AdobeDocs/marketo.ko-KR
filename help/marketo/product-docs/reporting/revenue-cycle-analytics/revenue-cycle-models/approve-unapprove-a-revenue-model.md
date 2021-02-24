@@ -3,7 +3,7 @@ unique-page-id: 4718687
 description: 매출 모델 승인/승인 취소 - 마케팅 문서 - 제품 설명서
 title: 매출 모델 승인/승인 취소
 translation-type: tm+mt
-source-git-commit: d7d6aee63144c472e02fe0221c4a164183d04dd4
+source-git-commit: cb7df3dd38275837f8ab05ce846c2c68ab78462f
 workflow-type: tm+mt
 source-wordcount: '155'
 ht-degree: 0%
@@ -17,7 +17,7 @@ ht-degree: 0%
 
 >[!CAUTION]
 >
->[전체 모델을 승인하려면 개별 단계](approving-stages-and-assigning-leads-to-a-revenue-model.md) 를 승인하고 추가된 사람을 사용해야 합니다.
+>[전체 모델을 승인하려면 개별 단계](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-cycle-models/approving-stages-and-assigning-leads-to-a-revenue-model.md) 를 승인하고 추가된 사람을 사용해야 합니다.
 
 ## {#approve} 승인
 
@@ -66,4 +66,3 @@ ht-degree: 0%
 >[!CAUTION]
 >
 >모델을 승인하지 않으면 모델에서 모든 사용자가 제거되고 모델의 내역이 데이터베이스에서 제거됩니다.
-
