@@ -3,7 +3,7 @@ unique-page-id: 4718636
 description: 프로그램 비용 분석 영역 이해 - 마케팅 문서 - 제품 설명서
 title: 프로그램 비용 분석 영역 이해
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: cb7df3dd38275837f8ab05ce846c2c68ab78462f
 workflow-type: tm+mt
 source-wordcount: '327'
 ht-degree: 0%
@@ -58,7 +58,7 @@ ht-degree: 0%
    <th>설명</th> 
   </tr> 
   <tr> 
-   <td><p>새 이름 %</p></td> 
+   <td>새 이름 %</td> 
    <td>프로그램에서 취득한 리드 비율</td> 
   </tr> 
   <tr> 
@@ -104,4 +104,3 @@ ht-degree: 0%
 | % 성공(합계) | 프로그램 진행 중에 성공을 거둔 리드 비율 |
 | 성공(새 이름) | 프로그램 진행 중에 성공한 새 이름의 총 수 |
 | 성공(합계) | 프로그램 진행 중에 성공을 거둔 총 리드 수 |
-
