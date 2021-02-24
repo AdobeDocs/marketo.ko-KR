@@ -3,7 +3,7 @@ unique-page-id: 7514126
 description: 속성 예 1 - 마케팅 문서 - 제품 설명서
 title: 속성 예 1
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: fa4ab03b98ac922e10c6daf3647dc460c12244d3
 workflow-type: tm+mt
 source-wordcount: '170'
 ht-degree: 0%
@@ -50,7 +50,7 @@ ht-degree: 0%
 
 >[!MORELIKETHIS]
 >
->* [속성 예 2](attribution-example-2.md)
->* [속성 예 3](attribution-example-3.md)
->* [속성 예 4](attribution-example-4.md)
+>* [속성 예 2](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-tools/attribution/attribution-example-2.md)
+>* [속성 예 3](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-tools/attribution/attribution-example-3.md)
+>* [속성 예 4](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-tools/attribution/attribution-example-4.md)
 
