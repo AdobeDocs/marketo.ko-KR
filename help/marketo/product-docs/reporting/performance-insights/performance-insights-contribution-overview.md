@@ -3,9 +3,9 @@ unique-page-id: 12979008
 description: 성과 통찰력 기여도 개요 - 마케팅 문서 - 제품 설명서
 title: 성과 통찰력 기여도 개요
 translation-type: tm+mt
-source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
+source-git-commit: cb7df3dd38275837f8ab05ce846c2c68ab78462f
 workflow-type: tm+mt
-source-wordcount: '384'
+source-wordcount: '378'
 ht-degree: 0%
 
 ---
@@ -23,15 +23,19 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->[첫 번째 접촉 및 다중 터치](https://docs.marketo.com/display/DOCS/Understanding+Attribution)에 대해 알아보십시오.
+>[첫 번째 접촉 및 다중 터치](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-tools/attribution/understanding-attribution.md)에 대해 알아보십시오.
 
-지표를 볼 기간을 선택합니다. 이 예에서는 현재 연도(연간 누계)를 보고 있습니다.   ![](assets/3-1.png)
+지표를 볼 기간을 선택합니다. 이 예에서는 현재 연도(연간 누계)를 보고 있습니다.
+
+![](assets/3-1.png)
 
 >[!NOTE]
 >
 >&quot;이전 연도&quot; 선택 항목을 일시적으로 제거했습니다. 사용자 지정 범위 선택을 사용하여 이전 연도의 전체 성능 데이터를 보는 옵션이 여전히 있습니다.
 
-지표는 다음 2개의 차트를 통해 제공됩니다.도넛과 바.   ![](assets/four.png)
+지표는 다음 2개의 차트를 통해 제공됩니다.도넛과 바.
+
+![](assets/four.png)
 
 도넛형 차트는 선택한 지표에 대한 상위 10개 채널을 보여줍니다.
 
@@ -45,7 +49,9 @@ ht-degree: 0%
 >
 >그룹을 스크롤할 때 그래프의 막대가 확대되도록 하려면 **Y축 비율 조정** 확인란을 선택합니다.
 
-추가 세부 사항을 보려면 막대 위로 마우스를 가져갑니다.   ![](assets/seven.png)
+추가 세부 사항을 보려면 막대 위로 마우스를 가져갑니다.
+
+![](assets/seven.png)
 
 도넛형 차트에서 하나 이상의 채널을 선택하면 해당 채널과 연관된 모든 프로그램이 오른쪽 막대 차트에 표시됩니다. 채널을 다시 클릭하여 선택 해제합니다.
 
@@ -69,4 +75,3 @@ ht-degree: 0%
 >[!NOTE]
 >
 >채널 옆의 확인란을 클릭하면 위의 도넛형 차트에서 활성화/비활성화할 수 있습니다.
-
