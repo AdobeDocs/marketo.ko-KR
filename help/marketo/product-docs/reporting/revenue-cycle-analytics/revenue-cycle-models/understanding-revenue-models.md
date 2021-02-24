@@ -3,9 +3,9 @@ unique-page-id: 4718654
 description: 매출 모델 이해 - 마케팅 문서 - 제품 설명서
 title: 매출 모델 이해
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: fa4ab03b98ac922e10c6daf3647dc460c12244d3
 workflow-type: tm+mt
-source-wordcount: '578'
+source-wordcount: '563'
 ht-degree: 0%
 
 ---
@@ -37,11 +37,11 @@ Modeler는 물이 들어 있는 일련의 버킷과 같습니다. 양동이에 �
 
 ![](assets/image2015-6-12-9-3a43-3a11.png)
 
-모두 녹색 배경에 있습니다. 이를 **성공 경로**&#x200B;라고 합니다. 성공 경로 [여기](understanding-revenue-model-success-path.md)에 대해 자세히 알아보십시오.
+모두 녹색 배경에 있습니다. 이를 **성공 경로**&#x200B;라고 합니다. 성공 경로 [여기](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-cycle-models/understanding-revenue-model-success-path.md)에 대해 자세히 알아보십시오.
 
 **단계** 는 목표를 향한 리드의 이정표이다.
 
-**전환 **는 화살표로 표시되며 단계 간 리드 이동 방식을 제어합니다.
+**전환** 은 화살표로 표시되며 단계 간 리드 이동 방식을 제어합니다.
 
 >[!NOTE]
 >
@@ -85,27 +85,30 @@ Modeler는 물이 들어 있는 일련의 버킷과 같습니다. 양동이에 �
 >
 >**예**
 >
->리드** 양식을 작성하는 방식으로 전환을 정의할 수 있습니다. **
+>리드 채우기로 전환을 정의할 수 있습니다.
 
-여기 희망적인 몇몇 링크들이 있다. (또는 유용할 경우 - 원하는 대로 선택해 보십시오.)
+행복한 성공 경로에서 스테이지 추가
 
->[!MORELIKETHIS]
->
->[새 매출 모델 만들기](create-a-new-revenue-model.md)
->
->[매출 모델 재고 단계 사용](using-revenue-model-inventory-stages.md)
->
->[수익 모델 게이트 단계 사용](using-revenue-model-gate-stages.md)
->
->[수익 모델 SLA 단계 사용](using-revenue-model-sla-stages.md)
-
-행복한 성공 경로에서 스테이지 추가   ![](assets/image2015-6-12-10-3a10-3a26.png)
+![](assets/image2015-6-12-10-3a10-3a26.png)
 
 [손실]은 추가할 수 있는 좋은 방법이지만 녹색 경로에 있지 않습니다. &#39;성공&#39;이 아니기 때문이다.
 
 >[!MORELIKETHIS]
 >
->[매출 모델에 대한 보고서](report-on-your-revenue-model.md)
->
->[매출 모델 승인/승인 취소](approve-unapprove-a-revenue-model.md)
+>* [새 매출 모델 만들기](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-cycle-models/create-a-new-revenue-model.md)
+   >
+   >
+* [매출 모델 재고 단계 사용](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-cycle-models/using-revenue-model-inventory-stages.md)
+   >
+   >
+* [수익 모델 게이트 단계 사용](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-cycle-models/using-revenue-model-gate-stages.md)
+   >
+   >
+* [수익 모델 SLA 단계 사용](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-cycle-models/using-revenue-model-sla-stages.md)
+   >
+   >
+* [매출 모델에 대한 보고서](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-cycle-models/report-on-your-revenue-model.md)
+   >
+   >
+* [매출 모델 승인/승인 취소](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-cycle-models/approve-unapprove-a-revenue-model.md)
 
