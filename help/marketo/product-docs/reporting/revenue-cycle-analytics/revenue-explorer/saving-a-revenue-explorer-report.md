@@ -3,7 +3,7 @@ unique-page-id: 7504725
 description: 매출 탐색기 보고서 저장 - 마케팅 문서 - 제품 설명서
 title: 매출 탐색기 보고서 저장
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: cb7df3dd38275837f8ab05ce846c2c68ab78462f
 workflow-type: tm+mt
 source-wordcount: '81'
 ht-degree: 0%
@@ -15,7 +15,7 @@ ht-degree: 0%
 
 매출 탐색기 보고서를 원하는 파일에 저장할 수 있습니다.
 
-1. **저장 ** 아이콘을 클릭합니다.
+1. 저장 아이콘을 클릭합니다.
 
    ![](assets/image2015-3-25-17-3a8-3a49.png)
 
@@ -33,9 +33,4 @@ ht-degree: 0%
 
 >[!MORELIKETHIS]
 >
->* [매출 탐색기 보고서 구독](subscribe-to-a-revenue-explorer-report.md)
-
->
-
-
-
+>[매출 탐색기 보고서 구독](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-explorer/subscribe-to-a-revenue-explorer-report.md)
