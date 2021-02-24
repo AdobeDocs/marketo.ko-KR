@@ -3,9 +3,9 @@ unique-page-id: 10099411
 description: 이메일 인사이트 분석 개요 - 마케팅 문서 - 제품 설명서
 title: 이메일 인사이트 분석 개요
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: cb7df3dd38275837f8ab05ce846c2c68ab78462f
 workflow-type: tm+mt
-source-wordcount: '246'
+source-wordcount: '261'
 ht-degree: 0%
 
 ---
@@ -17,7 +17,7 @@ Analytics에서 이메일 전달 및 참여를 위한 집계 데이터를 탐색
 
 ![](assets/emailanalytics-1.jpg)
 
-[필터](filtering-in-email-insights.md) 는 특정 지표에 대해 드릴다운하는 데 도움이 됩니다.
+[필터](/help/marketo/product-docs/reporting/email-insights/filtering-in-email-insights.md) 는 특정 지표에 대해 드릴다운하는 데 도움이 됩니다.
 
 ![](assets/filter-field.png)
 
@@ -27,14 +27,11 @@ KPI(주요 관심 영역) 타일을 사용하면 보다 인기 있는 지표를 
 
 KPI 타일 위로 마우스를 가져가면 자세한 내용이 표시됩니다...
 
-` ![](assets/kpi-hover.png)  
-`
+![](assets/kpi-hover.png)
 
 ...또는 브라우저 창을 확장하여 마우스 커서를 가져가지 않고도 자세한 내용을 볼 수 있습니다(큰 화면에서).
 
-&#39; ![](assets/kpi-wide.png)
-
-&#39;
+![](assets/kpi-wide.png)
 
 >[!TIP]
 >
@@ -42,18 +39,15 @@ KPI 타일 위로 마우스를 가져가면 자세한 내용이 표시됩니다.
 
 차트에는 필터링된 기준이 표시됩니다. 필터 중 하나를 숨기려면 해당 색상 막대를 클릭하면 됩니다.
 
-` ![](assets/chart1.png)  
-`
+![](assets/chart1.png)
 
 ...지표가 차트에서 사라집니다. 색상 막대를 다시 클릭하여 다시 표시합니다.
 
-` ![](assets/chart2.png)  
-`
+![](assets/chart2.png)
 
-다시 사용할 차트를 만드는 경우 [빠른 차트](email-insights-quick-charts.md)로 만드십시오.
+다시 사용할 차트를 만드는 경우 [빠른 차트](/help/marketo/product-docs/reporting/email-insights/email-insights-quick-charts.md)로 만드십시오.
 
-` ![](assets/quick-chart.png)  
-`
+![](assets/quick-chart.png)
 
 페이지 오른쪽의 안내 지표는 관련 드라이버를 찾는 데 도움이 됩니다. 페이지 왼쪽의 차트에서 보려면 지표를 클릭합니다.
 
@@ -63,12 +57,10 @@ KPI 타일 위로 마우스를 가져가면 자세한 내용이 표시됩니다.
 >
 >오른쪽 상단에 새로 고침이 있습니까? 인사이트 모듈을 새로 고치려면 해당 아이콘을 수동으로 클릭해야 합니다. 현재 값을 무효화하는 필터를 변경한 경우에만 표시됩니다.
 
-`  
-You can also specify what you see (left to right): All, Audience, Content, and Platform.  
-`  ` ![](assets/guided-bar.png)  
-`
+표시되는 항목(왼쪽에서 오른쪽)을 지정할 수도 있습니다.모두, 고객, 컨텐츠 및 플랫폼.
+
+![](assets/guided-bar.png)
 
 >[!MORELIKETHIS]
 >
->[이메일 인사이트 전송 개요](email-insights-sends-overview.md)
-
+>[이메일 인사이트 전송 개요](/help/marketo/product-docs/reporting/email-insights/email-insights-sends-overview.md)
