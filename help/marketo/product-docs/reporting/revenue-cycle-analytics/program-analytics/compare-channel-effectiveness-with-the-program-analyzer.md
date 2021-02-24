@@ -3,9 +3,9 @@ unique-page-id: 2360401
 description: 프로그램 분석기와 채널 효과 비교 - 마케팅 문서 - 제품 설명서
 title: 프로그램 분석기와 채널 효과 비교
 translation-type: tm+mt
-source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
+source-git-commit: cb7df3dd38275837f8ab05ce846c2c68ab78462f
 workflow-type: tm+mt
-source-wordcount: '415'
+source-wordcount: '399'
 ht-degree: 0%
 
 ---
@@ -17,18 +17,17 @@ ht-degree: 0%
 
 >[!PREREQUISITES]
 >
->* [프로그램 분석기 만들기](create-a-program-analyzer.md)
+>[프로그램 분석기 만들기](/help/marketo/product-docs/reporting/revenue-cycle-analytics/program-analytics/create-a-program-analyzer.md)
 
-
-1. **내 마켓플레이스에서**&#x200B;분석&#x200B;**을 클릭합니다.**
+1. **내 마케팅**&#x200B;에서 **분석**&#x200B;을 클릭합니다.
 
    ![](assets/image2014-9-17-18-3a36-3a13.png)
 
-1. **프로그램 분석기를 선택합니다.**
+1. **프로그램 분석기**&#x200B;를 선택합니다.
 
    ![](assets/image2014-9-17-18-3a36-3a40.png)
 
-1. 보기를 **By** **채널**&#x200B;으로 변경합니다.
+1. 보기를 채널&#x200B;**별로**&#x200B;으로 변경합니다.
 
    ![](assets/image2014-9-17-18-3a36-3a59.png)
 
@@ -62,7 +61,7 @@ ht-degree: 0%
 
    웨비나 채널은 **새 이름**&#x200B;으로 측정되면 축소됩니다. 회원이 많지만 무역박람회 채널보다 새로운 리드를 생성하는 데 덜 효과적이라는 결론을 내릴 수 있습니다.
 
-1. 마지막으로 색상 드롭다운을 사용하여 4번째 차원을 추가합니다. **(FT) 매출액** **원**&#x200B;을 선택합니다.
+1. 마지막으로 색상 드롭다운을 사용하여 4번째 차원을 추가합니다. **(FT) 매출 원**&#x200B;을 선택합니다.
 
    ![](assets/image2014-9-17-18-3a41-3a7.png)
 
@@ -84,13 +83,6 @@ ht-degree: 0%
 
 >[!MORELIKETHIS]
 >
->* [프로그램 분석기를 사용하여 프로그램 및 채널 세부 사항 살펴보기](explore-program-and-channel-details-with-the-program-analyzer.md)
->* [프로그램 분석기와 프로그램 효과 비교](compare-program-effectiveness-with-the-program-analyzer.md)
+>* [프로그램 분석기를 사용하여 프로그램 및 채널 세부 사항 살펴보기](/help/marketo/product-docs/reporting/revenue-cycle-analytics/program-analytics/explore-program-and-channel-details-with-the-program-analyzer.md)
+>* [프로그램 분석기와 프로그램 효과 비교](/help/marketo/product-docs/reporting/revenue-cycle-analytics/program-analytics/compare-program-effectiveness-with-the-program-analyzer.md)
 
->
-
-
-
->[!NOTE]
->
->[매출 주기 탐색기](https://docs.marketo.com/display/docs/revenue+cycle+analytics)의 고급 분석에 대해 자세히 알아보십시오.
