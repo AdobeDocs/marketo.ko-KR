@@ -3,7 +3,7 @@ unique-page-id: 10097747
 description: 매출 탐색기 보고서에 사용자 지정 측정값 추가 - 마케팅 문서 - 제품 설명서
 title: 매출 탐색기 보고서에 사용자 지정 측정값 추가
 translation-type: tm+mt
-source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
+source-git-commit: cb7df3dd38275837f8ab05ce846c2c68ab78462f
 workflow-type: tm+mt
 source-wordcount: '204'
 ht-degree: 0%
@@ -21,7 +21,8 @@ ht-degree: 0%
 >
 >보고서에 지표가 하나 이상 필요하지만 사용자 지정 측정을 정의하는 데 사용하는 측정 단위 중 하나가 아닐 수 있습니다.
 
-1. 보고서에 필요한 필드를 검색합니다. 자세한 내용은 [매출 탐색기 보고서](adding-fields-to-a-revenue-explorer-report.md)에 필드 추가를 참조하십시오.
+1. 보고서에 필요한 필드를 검색합니다. 자세한 내용은 [매출 탐색기 보고서](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-explorer/adding-fields-to-a-revenue-explorer-report.md)에 필드 추가를 참조하십시오.
+
 1. 기존 지표(파란색 셀)를 마우스 오른쪽 단추로 클릭하고 **사용자 정의 측정값**&#x200B;을 클릭한 다음 **계산된 측정값**&#x200B;을 선택합니다.
 
    ![](assets/image2016-1-26-11-3a7-3a49.png)
@@ -48,9 +49,4 @@ ht-degree: 0%
 
    >[!MORELIKETHIS]
    >
-   >
-   >    
-   >    
-   >    * [매출 탐색기 보고서에 필드 추가](adding-fields-to-a-revenue-explorer-report.md)
-
-
+   >[매출 탐색기 보고서에 필드 추가](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-explorer/adding-fields-to-a-revenue-explorer-report.md)
