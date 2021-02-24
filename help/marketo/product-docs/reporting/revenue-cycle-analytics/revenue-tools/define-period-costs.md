@@ -3,7 +3,7 @@ unique-page-id: 2953444
 description: 기간 비용 정의 - 마케팅 문서 - 제품 설명서
 title: 기간 원가 정의
 translation-type: tm+mt
-source-git-commit: 00887ea53e395bea3a11fd28e0ac98b085ef6ed8
+source-git-commit: cb7df3dd38275837f8ab05ce846c2c68ab78462f
 workflow-type: tm+mt
 source-wordcount: '244'
 ht-degree: 0%
@@ -53,7 +53,7 @@ ht-degree: 0%
 
 ## 기간 비용 편집 {#edit-a-period-cost}
 
-1. 기간 비용을 마우스 오른쪽 단추로 클릭하고 팝업 메뉴에서 **편집 **을 선택하여 **비용 편집** 대화 상자를 엽니다.
+1. 기간 비용을 마우스 오른쪽 단추로 클릭하고 팝업 메뉴에서 **편집**&#x200B;을 선택하여 **비용 편집** 대화 상자를 엽니다.
 
    ![](assets/image2015-4-24-16-3a26-3a29.png)
 
@@ -63,11 +63,10 @@ ht-degree: 0%
 
 ## 기간 비용 {#delete-a-period-cost} 삭제
 
-1. 삭제할 기간 비용을 마우스 오른쪽 단추로 클릭하고 팝업 메뉴에서 **삭제 **를 선택하여 **비용 삭제 **프롬프트를 표시합니다.
+1. 삭제할 기간 비용을 마우스 오른쪽 단추로 클릭하고 팝업 메뉴에서 **삭제**&#x200B;를 선택하여 **비용 삭제** 프롬프트를 표시합니다.
 
    ![](assets/image2015-4-24-16-3a33-3a32.png)
 
 1. 기간 비용을 영구적으로 삭제하려면 **삭제**&#x200B;를 클릭하고, 돌아가려면 **취소**&#x200B;를 클릭합니다.
 
    ![](assets/image2015-4-24-16-3a34-3a38.png)
-
