@@ -3,7 +3,7 @@ unique-page-id: 3571888
 description: 매출 주기 분석에 대한 사용자 지정 필드 동기화 활성화 - 마케팅 문서 - 제품 설명서
 title: 매출 주기 분석에 대한 사용자 지정 필드 동기화 활성화
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: cb7df3dd38275837f8ab05ce846c2c68ab78462f
 workflow-type: tm+mt
 source-wordcount: '102'
 ht-degree: 0%
@@ -40,4 +40,3 @@ ht-degree: 0%
    >[!NOTE]
    >
    >이 필드를 활성화하면 다음 날 매출 주기 분석에서 데이터를 사용할 수 있습니다.
-
