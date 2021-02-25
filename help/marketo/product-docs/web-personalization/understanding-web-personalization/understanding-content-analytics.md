@@ -3,7 +3,7 @@ unique-page-id: 10093159
 description: 컨텐츠 분석 이해 - 마케팅 문서 - 제품 설명서
 title: 컨텐츠 분석 이해
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: fbaf57ec4f3532c2d71acf23171d60873b1c997c
 workflow-type: tm+mt
 source-wordcount: '373'
 ht-degree: 0%
@@ -100,6 +100,6 @@ ht-degree: 0%
 
 >[!MORELIKETHIS]
 >
->* [컨텐츠 권장 사항 막대 활성화](../../../product-docs/predictive-content/enabling-predictive-content/enable-the-content-recommendation-bar.md)
->* [웹 리치 미디어용 예측 컨텐츠 사용](../../../product-docs/predictive-content/enabling-predictive-content/enable-predictive-content-for-web-rich-media.md)
+>* [컨텐츠 권장 사항 막대 활성화](/help/marketo/product-docs/predictive-content/enabling-predictive-content/enable-the-content-recommendation-bar.md)
+>* [웹 리치 미디어용 예측 컨텐츠 사용](/help/marketo/product-docs/predictive-content/enabling-predictive-content/enable-predictive-content-for-web-rich-media.md)
 
