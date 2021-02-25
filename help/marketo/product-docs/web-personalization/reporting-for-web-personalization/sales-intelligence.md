@@ -3,7 +3,7 @@ unique-page-id: 10096420
 description: 영업 인텔리전스 - 마케팅 문서 - 제품 설명서
 title: 영업 인텔리전스
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: fbaf57ec4f3532c2d71acf23171d60873b1c997c
 workflow-type: tm+mt
 source-wordcount: '197'
 ht-degree: 0%
@@ -31,5 +31,4 @@ Marketing To Web Personalization 플랫폼, 일별/주별 이메일 보고서를
 
 >[!MORELIKETHIS]
 >
->* [이메일 보고서](email-reports.md)
-
+>[이메일 보고서](/help/marketo/product-docs/web-personalization/reporting-for-web-personalization/email-reports.md)
