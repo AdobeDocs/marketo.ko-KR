@@ -3,7 +3,7 @@ unique-page-id: 4719340
 description: 추적되지 않는 특정 IP 제외 - 마케팅 문서 - 제품 설명서
 title: 추적되지 않는 특정 IP 제외
 translation-type: tm+mt
-source-git-commit: 00887ea53e395bea3a11fd28e0ac98b085ef6ed8
+source-git-commit: fbaf57ec4f3532c2d71acf23171d60873b1c997c
 workflow-type: tm+mt
 source-wordcount: '205'
 ht-degree: 0%
@@ -42,4 +42,3 @@ ht-degree: 0%
    ![](assets/exclude-ips-after.png)
 
    그게 얼마나 쉬운지 봤어? 이제 추가된 IP에서 개별 또는 범위별로 모든 데이터를 제외할 수 있습니다.
-
