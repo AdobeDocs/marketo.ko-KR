@@ -3,9 +3,9 @@ unique-page-id: 4719344
 description: 기본 웹 세그먼트 만들기 - 마케팅 문서 - 제품 설명서
 title: 기본 웹 세그먼트 만들기
 translation-type: tm+mt
-source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
+source-git-commit: fbaf57ec4f3532c2d71acf23171d60873b1c997c
 workflow-type: tm+mt
-source-wordcount: '166'
+source-wordcount: '162'
 ht-degree: 0%
 
 ---
@@ -27,7 +27,7 @@ ht-degree: 0%
 
    ![](assets/segment-name.png)
 
-1. **Location **오른쪽 메뉴에서 세그먼트 편집기에 드래그합니다.
+1. 오른쪽 메뉴에서 **위치**&#x200B;를 드래그하여 세그먼트 편집기에 놓습니다.
 
    ![](assets/location-drag-hand.jpg)
 
@@ -39,17 +39,17 @@ ht-degree: 0%
    >
    >도시 수는 세그먼트당 300개로 제한됩니다.
 
-1. **Industries**오른쪽 메뉴에서 세그먼트 편집기로 드래그합니다.
+1. 오른쪽 메뉴에서 **산업 분야**&#x200B;를 드래그하여 세그먼트 편집기에 놓습니다.
 
    ![](assets/industries-hand.jpg)
 
-1. 드롭다운에서 추가할 업계를 선택합니다. **Financial Services ****업계**&#x200B;를 선택합니다.
+1. 드롭다운에서 추가할 업계를 선택합니다. **Financial Services Industry**&#x200B;을 선택합니다.
 
    ![](assets/segment-industries.png)
 
    이제 미국 및 금융 업계에서 웹 사이트를 방문하는 모든 잠재 고객을 위한 기본 세그먼트를 설정합니다.
 
-1. 저장 **을 클릭하여 세그먼트를 저장하거나 **캠페인 저장 및 정의**&#x200B;를 클릭하여 캠페인 페이지로 이동합니다.
+1. **저장**&#x200B;을 클릭하여 세그먼트를 저장하거나 **캠페인 저장 및 정의**&#x200B;를 클릭하여 캠페인 페이지로 이동합니다.
 
    ![](assets/image2014-11-19-19-3a48-3a20.png)
 
@@ -57,9 +57,4 @@ ht-degree: 0%
 
 >[!MORELIKETHIS]
 >
->* [웹 세그먼트](https://docs.marketo.com/x/9QFI)
-
->
-
-
-
+>[웹 세그먼트](/help/marketo/product-docs/web-personalization/using-web-segments/web-segments.md)
