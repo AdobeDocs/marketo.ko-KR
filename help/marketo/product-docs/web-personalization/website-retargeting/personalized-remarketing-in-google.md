@@ -3,9 +3,9 @@ unique-page-id: 4720810
 description: Google에서 개인화된 리마케팅 - Marketing To Docs - 제품 설명서
 title: Google에서 개인화된 리마케팅
 translation-type: tm+mt
-source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
+source-git-commit: fbaf57ec4f3532c2d71acf23171d60873b1c997c
 workflow-type: tm+mt
-source-wordcount: '297'
+source-wordcount: '298'
 ht-degree: 0%
 
 ---
@@ -17,11 +17,8 @@ ht-degree: 0%
 
 >[!PREREQUISITES]
 >
->* 웹 개인화 데이터](retargeting-with-web-personalization-data.md) 구성을 사용하여 [재타깃팅 완료
->* [Google Analytics 도움말](https://support.google.com/analytics/topic/2611283?hl=en&amp;ref_topic=3413645) 설명서를 사용하여 리마케팅 검토
-
->
-
+>* 웹 개인화 데이터](/help/marketo/product-docs/web-personalization/website-retargeting/retargeting-with-web-personalization-data.md) 구성을 사용하여 [재타깃팅 완료
+>* [Google Analytics 도움말](https://support.google.com/analytics/topic/2611283?hl=en&amp;ref_topic=3413645) 설명서를 사용하여 리마케팅을 검토합니다.
 
 
 ## Google {#creating-a-remarketing-audience-in-google}에서 리마케팅 대상 만들기
@@ -34,8 +31,7 @@ ht-degree: 0%
 
    ![](assets/image2015-1-15-17-3a26-3a40.png)
 
-1. **링크 구성**:Google Adwords 계정에 연결
-1. **대상 정의**:새로  **만들기를 클릭합니다**.
+1. **링크 구성**:Google Adwords 계정에 연결합니다. **대상 정의**:새로  **만들기를 클릭합니다**.
 
    ![](assets/image2015-1-15-17-3a32-3a4.png)
 
@@ -59,9 +55,6 @@ Google Universal Analytics에서:
 >* 이벤트 범주:RTP-Segment, RTP-Campaign RTP-Remarketing
 >* 이벤트 레이블:세그먼트 이름, 캠페인 이름, 세그먼트화된 대상자 이름
 
->
-
-
 
 **RTP 세그먼트화된 대상 데이터의 리마케팅 대상 예**
 
@@ -77,7 +70,7 @@ Google Universal Analytics에서:
 ![](assets/image2015-1-15-17-3a36-3a5.png)
 
 1. **시퀀스**&#x200B;를 클릭합니다.
-1. RTP-Industry**를 선택합니다.
+1. **RTP-Industry**&#x200B;을 선택합니다.
 1. **업계 이름**(예: 금융 서비스, 교육...).
 1. **적용**&#x200B;을 클릭합니다.
 1. **대상자 이름**&#x200B;을 입력합니다. **저장**&#x200B;을 클릭합니다.
@@ -105,6 +98,6 @@ Google Universal Analytics에서:
 
 >[!MORELIKETHIS]
 >
->* [웹 개인화 데이터를 사용한 리타겟팅](retargeting-with-web-personalization-data.md)
->* [Facebook에서 개인화된 리마케팅](personalized-remarketing-in-facebook.md)
+>* [웹 개인화 데이터를 사용한 리타겟팅](/help/marketo/product-docs/web-personalization/website-retargeting/retargeting-with-web-personalization-data.md)
+>* [Facebook에서 개인화된 리마케팅](/help/marketo/product-docs/web-personalization/website-retargeting/personalized-remarketing-in-facebook.md)
 
