@@ -3,7 +3,7 @@ unique-page-id: 7504051
 description: 개인 데이터 관리 - 마케팅 문서 - 제품 설명서
 title: 개인 데이터 관리
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: fbaf57ec4f3532c2d71acf23171d60873b1c997c
 workflow-type: tm+mt
 source-wordcount: '196'
 ht-degree: 0%
@@ -15,10 +15,12 @@ ht-degree: 0%
 
 개인 필드를 선택하여 웹 개인화를 위한 개인 데이터를 활용합니다.
 
-1. **계정 설정**&#x200B;으로 이동합니다.\
+1. **계정 설정**&#x200B;으로 이동합니다.
+
    ![](assets/image2015-5-7-15-3a17-3a23.png)
 
-1. **데이터베이스**&#x200B;로 이동합니다.\
+1. **데이터베이스**&#x200B;로 이동합니다.
+
    ![](assets/account-settings-dropdown-database.jpg)
 
 ## 새 사람 필드 {#adding-a-new-person-field} 추가
@@ -29,11 +31,7 @@ ht-degree: 0%
 
    >[!NOTE]
    >
-   >
-   >    
-   >    
-   >    * 보류 중인 상태에 새 필드가 추가되어 활성화하는 데 최대 24시간이 걸릴 수 있습니다.
-
+   >보류 중인 상태에 새 필드가 추가되어 활성화하는 데 최대 24시간이 걸릴 수 있습니다.
 
 ## 사람 필드 삭제 {#deleting-a-person-field}
 
@@ -45,13 +43,11 @@ ht-degree: 0%
    >
    >**개인 데이터 필드 관리**
    >
-   >    
-   >    
-   >    * 개인 데이터 필드만 포함할 수 있습니다.
-   >    * 최대 30명의 개인 데이터 필드를 추가할 수 있습니다.
-   >    * 새 필드를 추가하면 활성화하는 데 최대 24시간이 걸릴 수 있습니다.
-   >    * 문자열 유형의 최대 길이는 255자입니다.
-   >    * 숨겨진 필드는 자동으로 제거됩니다.
+   >* 개인 데이터 필드만 포함할 수 있습니다.
+   >* 최대 30명의 개인 데이터 필드를 추가할 수 있습니다.
+   >* 새 필드를 추가하면 활성화하는 데 최대 24시간이 걸릴 수 있습니다.
+   >* 문자열 유형의 최대 길이는 255자입니다.
+   >* 숨겨진 필드는 자동으로 제거됩니다.
 
 
 <table> 
@@ -108,9 +104,4 @@ ht-degree: 0%
 
 >[!MORELIKETHIS]
 >
->* [알려진 개인 데이터를 사용하여 세그먼트 만들기](create-a-segment-using-known-person-data.md)
-
->
-
-
-
+>[알려진 개인 데이터를 사용하여 세그먼트 만들기](/help/marketo/product-docs/web-personalization/using-web-segments/create-a-segment-using-known-person-data.md)
