@@ -3,9 +3,9 @@ unique-page-id: 7504218
 description: Google Universal Analytics의 사용자 지정 RTP 보고서 - 마케팅 문서 - 제품 설명서
 title: Google Universal Analytics의 사용자 지정 RTP 보고서
 translation-type: tm+mt
-source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
+source-git-commit: fbaf57ec4f3532c2d71acf23171d60873b1c997c
 workflow-type: tm+mt
-source-wordcount: '387'
+source-wordcount: '386'
 ht-degree: 0%
 
 ---
@@ -15,9 +15,9 @@ ht-degree: 0%
 
 >[!PREREQUISITES]
 >
->[RTP를 Google Universal Analytics와 통합](integrate-rtp-with-google-universal-analytics.md)
+>[RTP를 Google Universal Analytics와 통합](/help/marketo/product-docs/web-personalization/reporting-for-web-personalization/web-analytics-integrations/integrate-rtp-with-google-universal-analytics.md)
 
-이 게시물은 GGA(Google Universal Analytics)에 대한 RTP 사용자 지정 보고서를 설정하는 방법에 대해 설명합니다.  RTP에서 GUA로 전송된 데이터는 다음과 같은 두 개의 별도의 사용자 지정 보고서로 설정할 수 있습니다.
+이 문서에서는 GGA(Google Universal Analytics)에 대한 RTP 사용자 지정 보고서를 설정하는 방법에 대해 설명합니다.  RTP에서 GUA로 전송된 데이터는 다음과 같은 두 개의 별도의 사용자 지정 보고서로 설정할 수 있습니다.
 
 * RTP B2B
 * RTP 참여
@@ -25,31 +25,32 @@ ht-degree: 0%
 ## 사용자 지정 보고서 설정 {#setting-up-a-custom-report}
 
 1. Google Analytics에 로그인합니다.
-1. 상단 메뉴에서 **Customization **을 클릭합니다.
-1. **+새 사용자 지정 보고서를 클릭합니다.**
 
-** ![](assets/image2015-3-22-16-3a10-3a48.png)
+1. 상단 메뉴에서 **Customization**&#x200B;을 클릭합니다.
 
-**
+1. **+새 사용자 지정 보고서**&#x200B;를 클릭합니다.
+
+![](assets/image2015-3-22-16-3a10-3a48.png)
 
 ## RTP B2B 보고서 {#rtp-b-b-report}
 
 1. 보고서 이름 **RTP B2B 보고서**.
-1. 첫 번째 탭 이름 **업계 **
 
-   1. (참고:**이 탭**&#x200B;을 복제하고 비슷한 다른 탭을 만듭니다(5단계).
+1. 첫 번째 탭 이름 **Industry**.
 
-1. ** Explorer** 보고서 유형을 선택합니다.\
-   ** ![](assets/image2015-3-22-16-3a15-3a25.png)
+>[!NOTE]
+>
+>**이 탭을 복제하고 유사한 다른 탭을 만듭니다(5단계).**
 
-   **
+1. **탐색기** 보고서 유형을 선택합니다.
+
+   ![](assets/image2015-3-22-16-3a15-3a25.png)
 
 1. **지표 그룹** 섹션에서 비즈니스에 관련된 지표를 선택합니다.
 
-   1. 다음과 같은 것이 좋습니다.\
-      ** ![](assets/image2015-3-22-16-3a16-3a40.png)
+   a.다음과 같은 것이 좋습니다.
 
-      **
+   ![](assets/image2015-3-22-16-3a16-3a40.png)
 
 1. 이 탭을 4번 복제하고 이름을 지정합니다.
 
@@ -72,7 +73,7 @@ ht-degree: 0%
     </div></th> 
    <th> 
     <div>
-      Dimension 드릴 다운 
+      Dimension 드릴 다운
     </div></th> 
   </tr> 
  </thead> 
@@ -100,21 +101,28 @@ ht-degree: 0%
  </tbody> 
 </table>
 
-1. 필터를 설정하지 말고 이 보고서를 **모든 웹 사이트 데이터 **(또는 특정 Analytics 계정과 관련된 경우 변경)에 사용할 수 있도록 설정하십시오.
-1. **저장**&#x200B;을 클릭합니다.\
+1. 필터를 설정하지 말고 이 보고서를 **모든 웹 사이트 데이터**&#x200B;에 사용할 수 있도록 설정하십시오(또는 특정 Analytics 계정과 관련된 경우 변경).
+
+1. **저장**&#x200B;을 클릭합니다.
+
    ![](assets/image2015-3-22-16-3a21-3a23.png)
 
 ## RTP 관여 보고서 {#rtp-engagement-report}
 
-1. 보고서 이름 **RTP 관여 보고서.**
+1. 보고서 이름 **RTP 관여 보고서**.
+
 1. 첫 번째 탭 이름을 **모든 참여**&#x200B;로 설정합니다.
 
-   1. (참고:이 탭을 복제하고 유사한 다른 탭을 만듭니다(5단계).
+>[!NOTE]
+>
+>이 탭을 복제하고 유사한 다른 탭을 만듭니다(5단계).
 
-1. **탐색기** 보고서 유형을 선택합니다.\
+1. **탐색기** 보고서 유형을 선택합니다.
+
    ![](assets/image2015-3-22-16-3a23-3a36.png)
 
-1. 지표 그룹 섹션에서 비즈니스에 관련된 지표를 선택합니다. 다음은 권장 사항입니다.\
+1. 지표 그룹 섹션에서 비즈니스에 관련된 지표를 선택합니다. 다음은 권장 사항입니다.
+
    ![](assets/image2015-3-22-16-3a24-3a57.png)
 
 1. 이 탭을 4번 복제하고 이름을 지정합니다.
@@ -125,7 +133,7 @@ ht-degree: 0%
    1. **범주별 참여**
    1. **ABM별 참여**
 
-   ** ![](assets/image2015-3-22-16-3a26-3a21.png)\**
+   ![](assets/image2015-3-22-16-3a26-3a21.png)
 
 1. **Dimension 드릴다운** 섹션에서 각 탭에 대한 관련 차원을 아래와 같이 설정합니다.
 
@@ -167,7 +175,6 @@ ht-degree: 0%
 </table>
 
 1. 다음 필터를 설정합니다.
-1. 
 
 <table> 
  <thead> 
@@ -212,7 +219,7 @@ ht-degree: 0%
  </tbody> 
 </table>
 
-1. 이 보고서를 **모든 웹 사이트 데이터 **에 사용할 수 있게 설정(또는 필요한 경우 변경)
+1. 이 보고서를 **모든 웹 사이트 데이터**&#x200B;에 사용할 수 있도록 설정합니다(또는 필요한 경우 변경).
 
    ![](assets/image2015-3-22-16-3a29-3a5.png)
 
@@ -222,7 +229,6 @@ ht-degree: 0%
 
 >[!MORELIKETHIS]
 >
->[RTP를 Google Universal Analytics와 통합](integrate-rtp-with-google-universal-analytics.md)
+>[RTP를 Google Universal Analytics와 통합](/help/marketo/product-docs/web-personalization/reporting-for-web-personalization/web-analytics-integrations/integrate-rtp-with-google-universal-analytics.md)
 >
->[Google Universal Analytics의 사용자 지정 RTP 대시보드](custom-rtp-dashboards-in-google-universal-analytics.md)
-
+>[Google Universal Analytics의 사용자 지정 RTP 대시보드](/help/marketo/product-docs/web-personalization/reporting-for-web-personalization/web-analytics-integrations/custom-rtp-dashboards-in-google-universal-analytics.md)
