@@ -3,7 +3,7 @@ unique-page-id: 4720224
 description: 영역 편집 - 마케팅 문서 - 제품 설명서
 title: 영역 편집
 translation-type: tm+mt
-source-git-commit: d88fb92a00e4c20509617e6ef8b2e51b66cc085b
+source-git-commit: fbaf57ec4f3532c2d71acf23171d60873b1c997c
 workflow-type: tm+mt
 source-wordcount: '61'
 ht-degree: 0%
@@ -28,4 +28,3 @@ ht-degree: 0%
 >[!NOTE]
 >
 >미국을 선택하면 페이지 하단에 열리면서 선택할 모든 미국 상태 옵션이 표시됩니다.
-
