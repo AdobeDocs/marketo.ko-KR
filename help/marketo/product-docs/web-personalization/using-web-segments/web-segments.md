@@ -3,7 +3,7 @@ unique-page-id: 4719093
 description: 웹 세그먼트 - 마케팅 문서 - 제품 설명서
 title: 웹 세그먼트
 translation-type: tm+mt
-source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
+source-git-commit: fbaf57ec4f3532c2d71acf23171d60873b1c997c
 workflow-type: tm+mt
 source-wordcount: '2031'
 ht-degree: 0%
@@ -54,7 +54,7 @@ ht-degree: 0%
  </tbody> 
 </table>
 
-세그먼트 레이블을 만들고 보는 방법](label-your-segment.md) 참조[
+세그먼트 레이블을 만들고 보는 방법](/help/marketo/product-docs/web-personalization/using-web-segments/label-your-segment.md) 참조[
 
 **세그먼트 - 오른쪽 패널**
 
@@ -108,23 +108,32 @@ ht-degree: 0%
 >1. 모든 필터 사용(1 및 2, 3...)
 >1. 필터 사용(1 또는 2 또는 3..)
 >1. 고급 필터(사용 및/또는 표현식)
->
->    고급 필터를 사용하면 세그먼트 조건을 제어할 수 있습니다. &quot;and&quot; 및 &quot;or&quot;로 구분된 필터 번호를 입력합니다.
->
->    * 1 및 2 및 3
->    * 1 또는 2 또는 3
->
->    &quot;and&quot; 및 &quot;or&quot;를 혼합하려면 괄호 안에 논리 의도를 명확히 해야 합니다. 예:&quot;1 또는 2 및 3&quot;은 다음 중 하나로 작성해야 합니다.
->
->    * 1 및 (2 또는 3)
->    * (1 및 2) 또는 3
->
->    중첩 괄호는 보다 복잡한 논리(예:
->
->    * (1 및 2) 또는 (3 및 4)
->    * 1 및 (2 또는 (3 및 4))
->
->    삽입, 삭제 또는 순서 변경 후 논리를 확인합니다.
+
+   >
+   >    
+   고급 필터를 사용하면 세그먼트 조건을 제어할 수 있습니다. &quot;and&quot; 및 &quot;or&quot;로 구분된 필터 번호를 입력합니다.
+   >
+   >    
+   * 1 및 2 및 3
+   >    * 1 또는 2 또는 3
+
+   >
+   >    &quot;and&quot; 및 &quot;or&quot;를 혼합하려면 괄호 안에 논리 의도를 명확히 해야 합니다. 예:&quot;1 또는 2 및 3&quot;은 다음 중 하나로 작성해야 합니다.
+   >
+   >    
+   * 1 및 (2 또는 3)
+   >    * (1 및 2) 또는 3
+
+   >
+   >    중첩 괄호는 보다 복잡한 논리(예:
+   >
+   >    
+   * (1 및 2) 또는 (3 및 4)
+   >    * 1 및 (2 또는 (3 및 4))
+
+   >
+   >    삽입, 삭제 또는 순서 변경 후 논리를 확인합니다.
+
 
 오른쪽 열의 세그먼트 속성을 왼쪽 세그먼트 편집기로 드래그하여 놓습니다.
 
@@ -170,18 +179,18 @@ ht-degree: 0%
    * 엔터프라이즈 - 직원 수가 1,000명 이상이고 매출이 2억 5,000만 달러 이상인 조직 포함
    * SMB - 이 부문에 중소기업 포함
 
-**지정된 계정**
+**-명명된 계정-**
 
 **조직**
 
 * **해당 회사(특정 이름)에서 온 것입니다.**
 
    * &#39;추가할 회사 선택&#39; 드롭다운에서 타게팅할 회사를 선택합니다.
-   * 타깃팅할 정확한 조직 이름을 입력할 수 있습니다. *더 잘 일치하도록 수동으로 이름을 입력하는 대신 항상 *지정된 계정 목록을 사용하는 것이 좋습니다(아래 참조).*
+   * 타깃팅할 정확한 조직 이름을 입력할 수 있습니다. *더 잘 일치하도록 이름을 수동으로 입력하는 대신 [지정된 계정 목록]을 사용하는 것이 좋습니다(아래 참조).__
 
 **지정된 계정 목록**
 
-[명명된 계정 목록](../../../product-docs/web-personalization/account-based-web-marketing/create-a-new-account-list.md)에서 선택하여 주요 타깃팅된 계정을 세그먼트화합니다.
+[명명된 계정 목록](/help/marketo/product-docs/web-personalization/account-based-web-marketing/create-a-new-account-list.md)에서 선택하여 주요 타깃팅된 계정을 세그먼트화합니다.
 
 ![](assets/image2015-5-27-17-3a14-3a8.png)
 
@@ -199,7 +208,7 @@ ht-degree: 0%
 
 웹 개인화는 Marketing To 데이터베이스와 통합되므로 알려진 개인 특성 및 데이터를 기준으로 캠페인을 세분화하고 개인화할 수 있습니다.
 
-데이터베이스를 선택하고 드롭다운에서 개인 데이터 필드를 선택합니다. 다음   드롭다운에서 필드를 추가하려면 **+**.
+데이터베이스를 선택하고 드롭다운에서 개인 데이터 필드를 선택합니다. 드롭다운에서 필드를 추가하려면 **+**&#x200B;을 선택합니다.
 
 ![](assets/seven.png)
 
@@ -262,7 +271,7 @@ Mobile OS를 세그먼트 편집기로 드래그하여 놓기
 
 ![](assets/image2015-5-27-17-3a45-3a3.png)
 
-* **방문자 유형**
+* **방문자 유형**<br />
 
    **Mobile OS**  - 드롭다운 상자에서 하나 이상의 모바일 OS를 선택합니다. 선택한 모바일 OS가 아래에 표시됩니다.
 
@@ -319,8 +328,8 @@ Mobile OS를 세그먼트 편집기로 드래그하여 놓기
 좋아요! 이제 세그먼트 섹션을 이해했으므로 캠페인에 대해 알아보겠습니다.
 
 >[!MORELIKETHIS]
-* [기본 웹 세그먼트 만들기](create-a-basic-web-segment.md)
-* [새 대화 상자 웹 캠페인 만들기](../../../product-docs/web-personalization/working-with-web-campaigns/create-a-new-dialog-web-campaign.md)
-* [영역에서 새 웹 캠페인 만들기](../../../product-docs/web-personalization/working-with-web-campaigns/create-a-new-in-zone-web-campaign.md)
-* [새 위젯 웹 캠페인 만들기](../../../product-docs/web-personalization/working-with-web-campaigns/create-a-new-widget-web-campaign.md)
+* [기본 웹 세그먼트 만들기](/help/marketo/product-docs/web-personalization/using-web-segments/create-a-basic-web-segment.md)
+* [새 대화 상자 웹 캠페인 만들기](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/create-a-new-dialog-web-campaign.md)
+* [영역에서 새 웹 캠페인 만들기](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/create-a-new-in-zone-web-campaign.md)
+* [새 위젯 웹 캠페인 만들기](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/create-a-new-widget-web-campaign.md)
 
