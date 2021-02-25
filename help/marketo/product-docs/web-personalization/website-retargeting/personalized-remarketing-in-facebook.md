@@ -3,7 +3,7 @@ unique-page-id: 4720917
 description: Facebook에서 개인화된 리마케팅 - 마케팅 문서 - 제품 설명서
 title: Facebook에서 개인화된 리마케팅
 translation-type: tm+mt
-source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
+source-git-commit: fbaf57ec4f3532c2d71acf23171d60873b1c997c
 workflow-type: tm+mt
 source-wordcount: '309'
 ht-degree: 0%
@@ -17,16 +17,14 @@ ht-degree: 0%
 
 >[!PREREQUISITES]
 >
->* 웹 개인화 데이터](retargeting-with-web-personalization-data.md) 설정을 사용하여 [리타깃팅 완료
->* 사용자 지정 대상](https://developers.facebook.com/docs/ads-for-websites/website-custom-audiences/getting-started#install-the-pixel)과 리마케팅에 대한 [](https://developers.facebook.com/docs/ads-for-websites/website-custom-audiences/getting-started#install-the-pixel) [Facebook 설명서를 검토하십시오.
-
->
-
+>* 웹 개인화 데이터](/help/marketo/product-docs/web-personalization/website-retargeting/retargeting-with-web-personalization-data.md) 설정을 사용하여 [리타깃팅 완료
+>* 사용자 지정 대상](https://developers.facebook.com/docs/ads-for-websites/website-custom-audiences/getting-started#install-the-pixel) 및 리마케팅에 대한 [](https://developers.facebook.com/docs/ads-for-websites/website-custom-audiences/getting-started#install-the-pixel) [Facebook 설명서를 검토하십시오.
 
 
 ## Facebook {#creating-an-audience-in-facebook}에서 대상자 만들기
 
 1. Facebook에서 광고 관리자의 [대상 탭](https://www.facebook.com/ads/audience_manager)으로 이동합니다.
+
 1. **도구**&#x200B;를 클릭하고 **대상**&#x200B;을 선택합니다.
 
    ![](assets/one-1.png)
@@ -39,7 +37,7 @@ ht-degree: 0%
 
    ![](assets/image2015-1-19-16-3a32-3a2.png)
 
-1. 웹 사이트 트래픽 목록에서 사용자 지정 조합** 선택합니다**.
+1. 웹 사이트 트래픽 목록에서 **사용자 지정 조합**&#x200B;을 선택합니다.
 
    ![](assets/image2015-1-19-16-3a33-3a21.png)
 
@@ -47,7 +45,7 @@ ht-degree: 0%
 
    ![](assets/image2015-1-19-16-3a34-3a9.png)
 
-1. 이벤트 목록에서 **RTP 리마케팅 **을 선택하고 매개 변수를 선택합니다.
+1. 이벤트 목록에서 **RTP 리마케팅**&#x200B;을 선택하고 매개 변수를 선택합니다.
 
    ![](assets/image2015-1-19-16-3a52-3a29.png)
 
@@ -132,10 +130,6 @@ ht-degree: 0%
 
 >[!MORELIKETHIS]
 >
->* [웹 개인화 데이터를 사용한 리타겟팅](retargeting-with-web-personalization-data.md)
->* [Google에서 개인화된 리마케팅](personalized-remarketing-in-google.md)
-
->
-
-
+>* [웹 개인화 데이터를 사용한 리타겟팅](/help/marketo/product-docs/web-personalization/website-retargeting/retargeting-with-web-personalization-data.md)
+>* [Google에서 개인화된 리마케팅](/help/marketo/product-docs/web-personalization/website-retargeting/personalized-remarketing-in-google.md)
 
