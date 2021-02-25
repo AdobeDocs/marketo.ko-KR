@@ -3,9 +3,9 @@ unique-page-id: 2949158
 description: RTP와 Google Analytics 통합 - Marketing To Docs - 제품 설명서
 title: RTP와 Google Analytics 통합
 translation-type: tm+mt
-source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
+source-git-commit: fbaf57ec4f3532c2d71acf23171d60873b1c997c
 workflow-type: tm+mt
-source-wordcount: '614'
+source-wordcount: '608'
 ht-degree: 0%
 
 ---
@@ -30,7 +30,7 @@ ht-degree: 0%
 
 >
 >
-유니버설 분석](integrate-rtp-with-google-universal-analytics.md)과 [웹 개인화를 통합하는 방법 보기
+유니버설 분석](/help/marketo/product-docs/web-personalization/reporting-for-web-personalization/web-analytics-integrations/integrate-rtp-with-google-universal-analytics.md)과 [웹 개인화를 통합하는 방법 보기
 
 ## 소개 {#introduction}
 
@@ -66,19 +66,23 @@ RTP 캠페인을 측정하고 전체 사이트 평균과 관련화합니다. 이
 
 ## Google Analytics {#setting-up-rtp-with-google-analytics}으로 RTP 설정
 
-1. GA 계정에 읽기 및 분석 사용자로 이메일 [`[email protected]`](https://docs.marketo.com/cdn-cgi/l/email-protection#0674727628616734466b67746d6372692865696b)을 추가합니다. 자세한 내용은 [여기](https://support.google.com/analytics/answer/2884495?hl=en)를 참조하십시오.
+1. GA 계정에 rtp.ga2@gmail.com이메일을 읽기 및 분석 사용자로 추가합니다. 자세한 내용은 [여기](https://support.google.com/analytics/answer/2884495?hl=en)를 참조하십시오.
+
 1. RTP 계정에서. **계정 설정**&#x200B;으로 이동합니다.
 
    ![](assets/image2014-11-28-16-3a54-3a40.png)
 
-1. **계정 설정**, **도메인** 및 **분석**&#x200B;에서
-1. Google Analytics** 클릭합니다.**
+1. **계정 설정**, **도메인** 및 **분석**&#x200B;에서.
+
+1. **Google Analytics**&#x200B;을 클릭합니다.
+
 1. 관련 **사용자 지정 변수** 및 **이벤트**&#x200B;를 설정하여 이 데이터를 RTP에서 Google Analytics으로 추가합니다.
+
 1. 사용자 지정 변수 데이터를 보낼 **슬롯** 번호를 입력합니다(기본값은 1,2).
 
 ![](assets/image2014-11-28-17-3a0-3a17.png)
 
-**저장**&#x200B;을 클릭합니다.
+1. **저장**&#x200B;을 클릭합니다.
 
 >[!NOTE]
 >
