@@ -3,9 +3,9 @@ unique-page-id: 13795536
 description: 정적 목록을 사용하여 세그먼트 만들기 - 마케팅 문서 - 제품 설명서
 title: 정적 목록을 사용하여 세그먼트 만들기
 translation-type: tm+mt
-source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
+source-git-commit: fbaf57ec4f3532c2d71acf23171d60873b1c997c
 workflow-type: tm+mt
-source-wordcount: '176'
+source-wordcount: '169'
 ht-degree: 0%
 
 ---
@@ -13,7 +13,7 @@ ht-degree: 0%
 
 # 정적 목록 {#create-a-segment-using-a-static-list}을 사용하여 세그먼트 만들기
 
-마커 [정적 목록](https://docs.marketo.com/display/DOCS/Understanding+Static+Lists)에 있는지 여부를 기준으로 웹 사이트를 방문할 때 알고 있는 웹 방문자를 세그먼트화합니다.
+마커 [정적 목록](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/static-lists/understanding-static-lists.md)에 있는지 여부를 기준으로 웹 사이트를 방문할 때 알고 있는 웹 방문자를 세그먼트화합니다.
 
 1. **세그먼트**&#x200B;로 이동합니다.
 
@@ -27,7 +27,7 @@ ht-degree: 0%
 
    ![](assets/three.png)
 
-1. 알려진 리드에서 **정적 목록**을 캔버스로 드래그합니다.
+1. 알려진 리드에서 **정적 목록**&#x200B;을 캔버스로 드래그합니다.
 
    ![](assets/four-2.png)
 
@@ -47,7 +47,6 @@ ht-degree: 0%
    >
    >및/또는 드롭다운은 바로 그것입니다. **및**, **또는** 또는 **및/또는**&#x200B;를 선택하려면 이 아이콘을 클릭합니다.
 
-1. **저장**&#x200B;을 클릭하여 세그먼트를 저장하거나 **저장 및 캠페인 정의 **를 클릭하여 저장하고 캠페인 페이지로 이동합니다.
+1. **저장**&#x200B;을 클릭하여 세그먼트를 저장하거나 **캠페인 저장 및 정의**&#x200B;를 클릭하여 저장하고 캠페인 페이지로 이동합니다.
 
    ![](assets/eight-1.png)
-
