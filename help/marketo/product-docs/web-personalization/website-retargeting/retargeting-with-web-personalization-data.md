@@ -3,9 +3,9 @@ unique-page-id: 4720796
 description: 웹 개인화 데이터를 사용한 리타겟팅 - 마케팅 문서 - 제품 설명서
 title: 웹 개인화 데이터를 사용한 리타겟팅
 translation-type: tm+mt
-source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
+source-git-commit: fbaf57ec4f3532c2d71acf23171d60873b1c997c
 workflow-type: tm+mt
-source-wordcount: '414'
+source-wordcount: '406'
 ht-degree: 0%
 
 ---
@@ -15,15 +15,14 @@ ht-degree: 0%
 
 >[!AVAILABILITY]
 >
->
 >이제 웹 사이트 재타깃팅이 웹 개인화 타일에 적용됩니다. 리타겟팅을 구입하기만 하면 이 타일이 표시되고 **만** 리타겟팅 기능이 활성화된 웹 개인화 제품에 액세스할 수 있습니다. 계정 설정, 다시 타깃팅 페이지, 세그먼트 및 추가 추적 페이지에 액세스할 수 있습니다.
 
 리마케팅은 잠재 고객이 누구이며 무엇을 했는지에 따라 디스플레이 광고를 사용하여 이전에 사이트를 방문한 적이 있는 잠재 고객을 타겟팅합니다. 개인화된 리타겟팅은 업계, 명명 계정 및 알려진 개인 데이터를 기반으로 연관성 있는 광고를 타겟팅합니다.
 
 웹 개인화는 현재 다음 리마케팅 플랫폼에 데이터를 추가합니다.
 
-* [Google](personalized-remarketing-in-google.md)
-* [Facebook](personalized-remarketing-in-facebook.md)
+* [Google](/help/marketo/product-docs/web-personalization/website-retargeting/personalized-remarketing-in-google.md)
+* [Facebook](/help/marketo/product-docs/web-personalization/website-retargeting/personalized-remarketing-in-facebook.md)
 
 웹 개인화는 다음 데이터를 리마케팅 플랫폼으로 전송하여 대상을 만들고 리마케팅 광고 캠페인을 실행합니다.
 
@@ -69,12 +68,11 @@ ht-degree: 0%
    >
    >웹 사이트에 Google 리타깃팅 태그를 구현해야 합니다.
    >
-   >
    >웹 개인화 및 Google Analytics와의 통합을 이미 설정한 경우 계정 설정에서 동일한 구성이므로 이 부분을 편집할 필요가 없습니다.
 
    ![](assets/two.png)
 
-1. Facebook 구성을 활성화합니다. Facebook 아코디언 **On**을 클릭하여 해당 이벤트와 데이터를 Facebook Audience Manager으로 보냅니다. **저장**&#x200B;을 클릭합니다.
+1. Facebook 구성을 활성화합니다. Facebook 아코디언을 클릭하고 확장하려면 **On**&#x200B;을 클릭하여 해당 이벤트와 데이터를 Facebook Audience Manager으로 보냅니다. **저장**&#x200B;을 클릭합니다.
 
    >[!NOTE]
    >
@@ -101,9 +99,3 @@ ht-degree: 0%
 1. **저장**&#x200B;을 클릭합니다.
 
    이제 웹 개인화의 재타깃팅 설정을 완료하고, 재타깃팅 플랫폼에 로그인하고, 이 데이터를 기반으로 대상을 만들고, 재타깃팅 광고 캠페인을 설정합니다.
-
->[!MORELIKETHIS]
->
->* [Google에서 개인화된 리마케팅](personalized-remarketing-in-google.md)
->* [Facebook에서 개인화된 리마케팅](personalized-remarketing-in-facebook.md)
-
