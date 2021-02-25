@@ -3,9 +3,9 @@ unique-page-id: 7513771
 description: 로그인 및 사용자 관리 - 마케팅 문서 - 제품 설명서
 title: 로그인 및 사용자 관리
 translation-type: tm+mt
-source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
+source-git-commit: fbaf57ec4f3532c2d71acf23171d60873b1c997c
 workflow-type: tm+mt
-source-wordcount: '312'
+source-wordcount: '304'
 ht-degree: 0%
 
 ---
@@ -31,13 +31,13 @@ ht-degree: 0%
 
    ![](assets/three-1.png)
 
-1. 역할 이름을 입력하고 권한을 선택합니다. **만들기**&#x200B;를 클릭합니다. 이 역할은 [모든 작업 영역](https://docs.marketo.com/display/DOCS/Managing+Marketo+Users#ManagingMarketoUsers-CreateUsers)에 적용되어야 합니다.
+1. 역할 이름을 입력하고 권한을 선택합니다. **만들기**&#x200B;를 클릭합니다. 이 역할은 [모든 작업 영역](/help/marketo/product-docs/administration/users-and-roles/managing-marketo-users.md)에 적용되어야 합니다.
 
    ![](assets/four.png)
 
    >[!TIP]
    >
-   >사용자에게 타깃팅 및 개인화의 모든 항목에 액세스할 수 있는 권한을 부여하려면 *모두* 확인란을 선택합니다.
+   >사용자에게 타깃팅 및 개인화의 모든 항목에 액세스할 수 있는 권한을 부여하려면 _모두_ 확인란을 선택합니다.
 
 ## 웹 개인화 및 예측 컨텐츠 사용자 권한 {#web-personalization-and-predictive-content-user-permissions}
 
