@@ -3,7 +3,7 @@ unique-page-id: 2949160
 description: Adobe Analytics과 통합 - Marketing To Docs - 제품 설명서
 title: Adobe Analytics과 통합
 translation-type: tm+mt
-source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
+source-git-commit: fbaf57ec4f3532c2d71acf23171d60873b1c997c
 workflow-type: tm+mt
 source-wordcount: '1130'
 ht-degree: 0%
@@ -64,40 +64,40 @@ Adobe Analytics의 사용자 지정 링크에서 RTP 캠페인 노출 횟수 및
 
 1. AA 계정의 **관리 도구**&#x200B;로 이동합니다.
 1. 통합에 사용할 **보고서 세트**&#x200B;를 선택합니다.
-1. **설정 편집 아래의**&#x200B;전환&#x200B;**으로 이동하고 ** [전환 변수](https://microsite.omniture.com/t2/help/en_US/reference/#Edit_conversion_variables)**를 선택합니다.**\
+1. **설정 편집**&#x200B;에서 **전환**&#x200B;으로 이동하고 **[전환 변수](https://microsite.omniture.com/t2/help/en_US/reference/#Edit_conversion_variables)**&#x200B;를 선택합니다.\
    [전환 변수](https://microsite.omniture.com/t2/help/en_US/reference/#Conversion_Variables_eVar) 번호를 선택합니다(권장).
 
-   1. 
+   1. 업계 맞춤형 전환을 위한 Evar # 20
+   1. 조직 사용자 지정 전환용 Evar 번호 21
 
-      1. 업계 맞춤형 전환을 위한 Evar # 20
-      1. 조직 사용자 지정 전환용 Evar 번호 21
+   >[!NOTE]
+   >
+   >이러한 #을 선택한 경우 사용 가능한 다른 번호를 선택합니다. 이 숫자를 RTP 계정 설정의 슬롯 번호와 맞춥니다.
 
-         >[!NOTE]
-         >
-         >이러한 #을 선택한 경우 사용 가능한 다른 번호를 선택합니다. 이 숫자를 RTP 계정 설정의 슬롯 번호와 맞춥니다.
+   1. 상태를 _활성화됨_&#x200B;으로 변경합니다.
 
-      1. 상태 변경:* 활성화됨*
+      1. 이름을 **업계** 및 **조직**&#x200B;으로 변경합니다. (보고서 세트에 표시되는 방식입니다.)
 
-         1. 이름을 **업계** 및 **조직**&#x200B;으로 변경합니다. (보고서 세트에 표시되는 방식입니다.)
+      1. [다음 이후에 만료] 필드를 **방문**&#x200B;으로 변경합니다.
 
-         1. 종료 후 필드를 **방문.**
 
-1. **설정 편집 **에서**&#x200B;전환&#x200B;**으로 이동하고 [성공 이벤트](https://microsite.omniture.com/t2/help/en_US/reference/#Configure_success_events)**** 선택합니다.
+1. **설정 편집**&#x200B;에서 **전환**&#x200B;으로 이동하고 **[성공 이벤트](https://microsite.omniture.com/t2/help/en_US/reference/#Configure_success_events)**&#x200B;를 선택합니다.
 
-1. 사용자 지정 성공 이벤트 이벤트 이벤트 번호를 선택합니다(권장).
+   1. 사용자 지정 성공 이벤트 이벤트 이벤트 번호를 선택합니다(권장).
 
-   1. RTP 캠페인용 event20
-   1. event21 for RTP 세그먼트
+      1. RTP 캠페인용 event20
+      1. event21 for RTP 세그먼트
 
       >[!NOTE]
       >
       >이러한 #을 선택한 경우 사용 가능한 다른 번호를 선택합니다. 이 숫자를 RTP 계정 설정의 슬롯 번호와 맞춥니다.
 
-   1. 두 이벤트 이름을 **RTP 캠페인** 및 **RTP 세그먼트**&#x200B;로 변경합니다. 보고서 세트에 표시되는 이름입니다.
+      1. 두 이벤트 이름을 **RTP 캠페인** 및 **RTP 세그먼트**&#x200B;로 변경합니다. 보고서 세트에 표시되는 이름입니다.
+   1. **카운터(하위 관계 없음)**&#x200B;일 유형 필드를 선택합니다.
 
-1. **카운터(하위 관계 없음)** 유형* *필드를 선택합니다.
 
-1. **설정 편집**** [트래픽](https://microsite.omniture.com/t2/help/en_US/reference/#Traffic_Variable) **으로 이동하고 [트래픽 변수](https://microsite.omniture.com/t2/help/en_US/reference/#Enable_traffic_variable_reports)****을 선택합니다.
+
+1. **설정 편집**&#x200B;에서 **[트래픽](https://microsite.omniture.com/t2/help/en_US/reference/#Traffic_Variable)**&#x200B;으로 이동하고 **[트래픽 변수](https://microsite.omniture.com/t2/help/en_US/reference/#Enable_traffic_variable_reports)**&#x200B;을 선택합니다.
 
    1. 트래픽 변수 속성 번호 선택(권장):
 
@@ -106,13 +106,16 @@ Adobe Analytics의 사용자 지정 링크에서 RTP 캠페인 노출 횟수 및
       1. 속성 번호 25 - 이름:캠페인 조직
       1. 속성 번호 26 - 이름:RTP Campaign Industry
 
-         >[!NOTE]
-         >
-         >이러한 #을 선택한 경우 사용 가능한 다른 번호를 선택합니다. 이 숫자를 RTP 계정 설정의 슬롯 번호와 맞춥니다.)
+      >[!NOTE]
+      >
+      >이러한 #을 선택한 경우 사용 가능한 다른 번호를 선택합니다. 이 숫자를 RTP 계정 설정의 슬롯 번호와 맞춥니다.)
 
       1. 4 속성 이름을 변경합니다. 보고서 세트에 표시되는 이름입니다.
    1. 활성화됨 필드를 **활성화됨**&#x200B;으로 선택합니다.
+
    1. 경로 보고서 필드를 **활성화됨**&#x200B;으로 선택합니다.
+
+
 
 
 ## Marketing to Real-Time Personalization(RTP) {#set-up-in-marketo-real-time-personalization-rtp}에서 설정
@@ -123,7 +126,7 @@ Adobe Analytics의 사용자 지정 링크에서 RTP 캠페인 노출 횟수 및
 
 1. **계정 설정**&#x200B;에서 **도메인**&#x200B;을 클릭합니다.
 1. **분석 아래에서** **Adobe Analytics**&#x200B;을 클릭합니다.
-1. **On** 전환, 사용자 지정 및 트래픽 변수를 전환합니다.
+1. 전환, 사용자 지정 및 트래픽 변수를 **On**&#x200B;으로 전환합니다.
 1. 전환, 이벤트 및 트래픽 변수 **슬롯 번호**&#x200B;를 AA에서 만든 슬롯 번호와 일치하도록 할당합니다.
 1. **저장**&#x200B;을 클릭합니다.
 
@@ -169,13 +172,11 @@ AA에서 사용자 지정된 보고서와 대시보드의 예는 다음과 같�
 * 조직별로 본 페이지
 * 조직, 업계, 세그먼트에 따른 마케팅 채널 성과
 
-**보고서 예**
+**-보고서 예-**
 
 **주요 산업 보고서**
 
-** ![](assets/top-industries-report.png)
-
-**
+![](assets/top-industries-report.png)
 
 **조직 보고서**
 
@@ -185,39 +186,47 @@ AA에서 사용자 지정된 보고서와 대시보드의 예는 다음과 같�
 
 [새 대시보드](https://microsite.omniture.com/t2/help/en_US/sc/user/t_dashboard_add.html)RTP 대시보드&#x200B;**라고 하는**&#x200B;새 대시보드를 만듭니다. 이 대시보드는 수직 및 RTP 세그먼트에 따라 방문자의 분류를 이해하는 데 도움이 됩니다.
 
-1. **대시보드,** 클릭** 대시보드 추가를 클릭합니다**
+1. **대시보드(**)를 클릭하고 **대시보드 추가**&#x200B;를 클릭합니다.
 
-1. 대시보드 이름 지정 **RTP 대시보드**
+1. 대시보드 이름을 **RTP 대시보드**&#x200B;로 지정합니다.
+
 1. **대시보드 크기** 3 x 2, 2 x 2를 선택합니다.
+
 1. [reportlet](https://microsite.omniture.com/t2/help/en_US/sc/user/t_dashboard_add_report.html#task_EC3AFBBAA51C45CEBAF632F841C305B3)을 만들고 대시보드](https://docs.marketo.com/Add%2520content%2520to%2520a%2520dashboard)에 [컨텐트를 추가합니다.
 
 대시보드에 업계 Reportlet 추가
 
 1. **사용자 지정 전환**&#x200B;으로 이동하여 **업계**&#x200B;를 클릭합니다.
 
-1. 그래프 구성을 **파이 차트**
+1. 그래프를 **파이 차트**&#x200B;로 구성합니다.
+
 1. **대시보드**&#x200B;를 클릭하고 **Reportlet**&#x200B;을 추가합니다.
 
-1. 보고서 이름 **상위 산업**
-1. 대시보드에 배치 **RTP 대시보드**
+1. 보고서 이름을 **상위 산업**&#x200B;으로 지정합니다.
+
+1. 대시보드 **RTP 대시보드**&#x200B;에 배치합니다.
+
 1. **새로 만들기**&#x200B;를 만듭니다.
 
 대시보드에 세그먼트 Reportlet 추가
 
-1. **사이트 지표로 이동, ****사용자 지정 이벤트, 세그먼트**&#x200B;를 클릭합니다.
+1. **사이트 지표**&#x200B;로 이동합니다. **사용자 지정 이벤트**, **세그먼트**&#x200B;를 클릭합니다.
 
-1. **세로 막대**&#x200B;에 그래프 구성
+1. 그래프를 **세로 막대**&#x200B;로 구성합니다.
+
 1. **대시보드**&#x200B;를 클릭하고 **Reportlet**&#x200B;을 추가합니다.
 
-1. 보고서 이름 **상위 세그먼트**
-1. 대시보드에 배치 **RTP 대시보드**
-1. **새로 만들기**
+1. 보고서 이름을 **상위 세그먼트**&#x200B;로 지정합니다.
+
+1. 대시보드 **RTP 대시보드**&#x200B;에 배치합니다.
+
+1. **새로 만들기**&#x200B;를 만듭니다.
 
 reportlet이 대시보드에 표시됩니다.
 
 ## Adobe Analytics {#view-impressions-and-clicks-conversions-in-adobe-analytics}에서 노출 횟수 및 클릭 수 보기(전환)
 
-1. 사용자 지정 링크를 클릭합니다.
+1. **사용자 지정 링크**&#x200B;를 클릭합니다.
 
    ![](assets/sitecatalyst1-1.png)
 
@@ -227,4 +236,3 @@ reportlet이 대시보드에 표시됩니다.
 1. 전환을 검색하여 캠페인에 대한 클릭 수를 나타내는 세그먼트 및 캠페인 이름을 봅니다.
 
    ![](assets/sitecatalyst2.png)
-
