@@ -3,7 +3,7 @@ unique-page-id: 10097163
 description: RTP JavaScript 태그 활성화 또는 비활성화 - 마케팅 문서 - 제품 설명서
 title: RTP JavaScript 태그 활성화 또는 비활성화
 translation-type: tm+mt
-source-git-commit: d88fb92a00e4c20509617e6ef8b2e51b66cc085b
+source-git-commit: fbaf57ec4f3532c2d71acf23171d60873b1c997c
 workflow-type: tm+mt
 source-wordcount: '136'
 ht-degree: 0%
@@ -13,7 +13,7 @@ ht-degree: 0%
 
 # RTP JavaScript 태그 {#enabling-or-disabling-the-rtp-javascript-tag} 활성화 또는 비활성화
 
-RTP JavaScript 태그는 웹 개인화가 웹 활동을 추적하는지 아니면 웹 사이트에서 캠페인 또는 컨텐츠 추천을 실행하는지를 제어합니다.
+RTP JavaScript 태그는 웹 개인화가 웹 활동을 추적할지 아니면 웹 사이트에서 캠페인 또는 컨텐츠 추천을 실행할지 여부를 제어합니다.
 
 >[!NOTE]
 >
@@ -34,4 +34,3 @@ RTP JavaScript 태그는 웹 개인화가 웹 활동을 추적하는지 아니�
 1. RTP 태그를 활성화하려면 도메인 및 도메인 구성의 태그에서 **On** 전환을 선택합니다.
 
    진정해
-
