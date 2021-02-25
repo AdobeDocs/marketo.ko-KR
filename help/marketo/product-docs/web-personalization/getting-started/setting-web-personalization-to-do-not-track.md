@@ -3,7 +3,7 @@ unique-page-id: 11382593
 description: 추적하지 않도록 웹 개인화 설정 - 마케팅 문서 - 제품 설명서
 title: 추적하지 않도록 웹 개인화 설정
 translation-type: tm+mt
-source-git-commit: d88fb92a00e4c20509617e6ef8b2e51b66cc085b
+source-git-commit: fbaf57ec4f3532c2d71acf23171d60873b1c997c
 workflow-type: tm+mt
 source-wordcount: '190'
 ht-degree: 0%
@@ -34,4 +34,3 @@ ht-degree: 0%
    >켜기로 전환을 설정하면 특정 영역의 Marketing To 값 및 기능에 영향을 줄 수 있습니다.
 
 1. DNT 전환 적용을 비활성화하고 브라우저의 DNT(Do No Track) 설정을 무시하려면 DNT 적용 아래에서 **Off**&#x200B;을 선택합니다.
-
