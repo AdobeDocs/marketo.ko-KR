@@ -3,9 +3,9 @@ unique-page-id: 7504238
 description: Google Universal Analytics의 사용자 지정 RTP 대시보드 - Marketing Docs - 제품 설명서
 title: Google Universal Analytics의 사용자 지정 RTP 대시보드
 translation-type: tm+mt
-source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
+source-git-commit: fbaf57ec4f3532c2d71acf23171d60873b1c997c
 workflow-type: tm+mt
-source-wordcount: '747'
+source-wordcount: '748'
 ht-degree: 0%
 
 ---
@@ -15,22 +15,23 @@ ht-degree: 0%
 
 >[!PREREQUISITES]
 >
->[RTP를 Google Universal Analytics와 통합](integrate-rtp-with-google-universal-analytics.md)
+>[RTP를 Google Universal Analytics와 통합](/help/marketo/product-docs/web-personalization/reporting-for-web-personalization/web-analytics-integrations/integrate-rtp-with-google-universal-analytics.md)
 
-이 게시물은 GGA(Google Universal Analytics)에서 RTP 대시보드를 설정하는 방법을 설명합니다.  RTP에서 GUA로 전송된 데이터는 다음과 같은 두 개의 개별 사용자 지정 대시보드로 설정할 수 있습니다.
+이 게시물은 GGA(Google Universal Analytics)에서 RTP 대시보드를 설정하는 방법을 설명합니다. RTP에서 GUA로 전송된 데이터는 다음과 같은 두 개의 개별 사용자 지정 대시보드로 설정할 수 있습니다.
 
 * RTP B2B
 * RTP 참여
 
 ## 사용자 지정 대시보드 설정 {#setting-up-a-custom-dashboard}
 
-1. Google Analytics에 로그인합니다. 상단 메뉴에서 **보고 **를 클릭합니다. **대시보드 ** 및 **+새 사용자 지정 대시보드를 클릭합니다.**
+1. Google Analytics에 로그인합니다. 상단 메뉴에서 **보고**&#x200B;를 클릭합니다. **대시보드** 및 **+새 사용자 지정 대시보드**&#x200B;를 클릭합니다.
 
    ![](assets/image2015-3-22-16-3a41-3a29.png)
 
 1. **빈 캔버스**&#x200B;를 선택하고 **대시보드 이름**&#x200B;을 추가한 다음 **대시보드 만들기**&#x200B;를 클릭합니다.
 
-1. **위젯 추가**&#x200B;를 클릭하여 새 위젯을 만듭니다.\
+1. **위젯 추가**&#x200B;를 클릭하여 새 위젯을 만듭니다.
+
    ![](assets/image2015-3-22-16-3a46-3a48.png)
 
 ## RTP B2B 대시보드 {#rtp-b-b-dashboard}
@@ -45,7 +46,7 @@ ht-degree: 0%
 * 세분화
 * Firmographic drill down
 
-1. **RTP B2B Dashboard **라는 새 대시보드를 만들고 다음 위젯을 정의합니다.
+1. **RTP B2B 대시보드**&#x200B;라는 새 대시보드를 만들고 다음 위젯을 정의합니다.
 
 ![](assets/image2015-3-22-16-3a50-3a3.png)
 
@@ -54,7 +55,7 @@ ht-degree: 0%
   <tr> 
    <th> 
     <div>
-      열 1 - 트래픽 소스 
+      열 1 - 트래픽 소스
     </div></th> 
    <th> 
     <div> <strong>열 2 - 세그멘테이션</strong> 
@@ -151,11 +152,9 @@ ht-degree: 0%
 
 이 대시보드를 사용하여 RTP 캠페인 성과 및 추천 엔진 참여를 분석할 수 있습니다. 평균 비교를 제공합니다. 다음 사이의 세션당 세션 기간 및 페이지 수:
 
-* 
-
-   * 참여 안 함
-   * 참여(개인화된 캠페인에 대한 노출 및 클릭)
-   * 권장 사항 엔진 및 상위 권장 컨텐츠 클릭
+* 참여 안 함
+* 참여(개인화된 캠페인에 대한 노출 및 클릭)
+* 권장 사항 엔진 및 상위 권장 컨텐츠 클릭
 
 **RTP 관여 대시보드**&#x200B;라는 새 대시보드를 만들고 다음 위젯을 정의합니다.
 
@@ -265,7 +264,6 @@ ht-degree: 0%
 
 >[!MORELIKETHIS]
 >
->[RTP를 Google Universal Analytics와 통합](integrate-rtp-with-google-universal-analytics.md)
+>[RTP를 Google Universal Analytics와 통합](/help/marketo/product-docs/web-personalization/reporting-for-web-personalization/web-analytics-integrations/custom-rtp-reports-in-google-universal-analytics.md)
 >
->[Google Universal Analytics의 사용자 지정 RTP 보고서](custom-rtp-reports-in-google-universal-analytics.md)
-
+>[Google Universal Analytics의 사용자 지정 RTP 보고서](/help/marketo/product-docs/web-personalization/reporting-for-web-personalization/web-analytics-integrations/custom-rtp-reports-in-google-universal-analytics.md)
