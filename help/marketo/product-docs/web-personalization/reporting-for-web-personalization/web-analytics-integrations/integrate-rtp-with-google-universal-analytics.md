@@ -3,9 +3,9 @@ unique-page-id: 4720125
 description: RTP를 Google Universal Analytics - Marketing To Docs - 제품 문서와 통합
 title: RTP를 Google Universal Analytics와 통합
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: fbaf57ec4f3532c2d71acf23171d60873b1c997c
 workflow-type: tm+mt
-source-wordcount: '432'
+source-wordcount: '456'
 ht-degree: 0%
 
 ---
@@ -25,18 +25,15 @@ RTP의 데이터가 포함된 Google Universal Analytics를 사용하면 B2B 사
 
 >[!NOTE]
 >
->**`For Google Tag Manager Users Only`**
+>**Google 태그 관리자 사용자만**
 >
 >코딩 또는 특별한 구성을 수행할 필요가 없습니다. 다음 체크리스트를 완료해야 합니다.
 >
->* `RTP dimensions are created in Google Universal Analytics`
+>* RTP 차원은 Google Universal Analytics에서 생성됩니다.
 >* [RTP 태그가 Google 태그 관리자에 올바르게 설치됨](https://docs.marketo.com/display/public/DOCS/Implementing+RTP+using+Google+Tag+Manager)
->* `Google Universal Analytics Integration is enabled in the RTP's Account Settings`
+>* Google Universal Analytics 통합이 RTP의 계정 설정에서 활성화됩니다
 >* [Google Universal Analytics 태그가 Google 태그 관리자에서 올바르게 구성되어 있습니다.](https://support.google.com/tagmanager/answer/6107124?hl=en)
 >* [Google 태그 관리자 태그가 웹 사이트를 올바르게 설치함](https://developers.google.com/tag-manager/quickstart)
-
->
-
 
 
 ## GUA {#set-up-custom-dimensions-in-gua}에서 사용자 정의 Dimension 설정
@@ -46,11 +43,10 @@ RTP의 데이터가 포함된 Google Universal Analytics를 사용하면 B2B 사
    1. **관리**&#x200B;로 이동
    1. **계정을 선택합니다.**
    1. **속성을 선택합니다.**
-   1. **사용자 정의 정의 ** 및 **사용자 정의 Dimension을 선택합니다.**
-
+   1. **사용자 정의 정의 정의** 및 **사용자 정의 Dimension**을 선택합니다.
       ![](assets/image2014-11-29-11-3a2-3a32.png)
 
-1. 새 사용자 지정 차원을 추가합니다. **+새 사용자 지정 Dimension**을 클릭합니다.
+1. 새 사용자 지정 차원을 추가합니다. **+새 사용자 지정 Dimension**&#x200B;을 클릭합니다.
 
    ![](assets/image2014-11-29-11-3a8-3a16.png)
 
@@ -90,7 +86,7 @@ RTP의 데이터가 포함된 Google Universal Analytics를 사용하면 B2B 사
 >
 >**사용자 지정 Dimension 이름** 은 위 표에 정의된 것과 정확하게 일치해야 합니다. 그렇지 않은 경우 GUA의 사용자 지정 RTP 대시보드 및 보고서가 올바로 표시되지 않습니다.
 
-1. **Name을 추가합니다. **범위를 **세션으로 선택합니다.** 만들기를  **클릭합니다.**
+1. **이름**&#x200B;을 추가합니다. 범위를 **세션**&#x200B;으로 선택합니다. **만들기**&#x200B;를 클릭합니다.
 
    ![](assets/image2014-11-29-11-3a12-3a51.png)
 
@@ -106,8 +102,8 @@ GOA에서 사용자 정의 Dimension을 활성화한 후 RTP 플랫폼으로 이
 
    ![](assets/image2014-11-29-11-3a27-3a7.png)
 
-1. **계정 설정**&#x200B;에서 **도메인을 클릭합니다.**
-1. **Analytics에서 **Google Universal Analytics**&#x200B;를 ** 클릭합니다.
+1. **계정 설정**&#x200B;에서 **도메인**&#x200B;을 클릭합니다.
+1. **Analytics**&#x200B;에서 **Google Universal Analytics**&#x200B;를 클릭합니다.
 1. **관련 사용자 지정 Dimension 및 이벤트를 설정하여 RTP에서 Google Universal Analytics에 이 데이터를 추가합니다.**
 1. GUA에서 인덱스 번호에 맞춰 정렬된 차원의 **인덱스 번호**&#x200B;를 입력합니다.
 1. **저장**&#x200B;을 클릭합니다.
@@ -124,8 +120,7 @@ GOA에서 사용자 정의 Dimension을 활성화한 후 RTP 플랫폼으로 이
 
 1. Google Analytics에서 **보고로 이동합니다.**
 1. **대시보드를 클릭합니다.**
-1. **Dashboard **(RTP B2B 또는 RTP 성능 선택)
+1. **대시보드**(RTP B2B 또는 RTP 성능)을 선택합니다.
 1. **대시보드 삭제**&#x200B;를 클릭합니다.
 
 ![](assets/image2014-11-29-11-3a42-3a55.png)
-
