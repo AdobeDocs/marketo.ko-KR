@@ -3,9 +3,9 @@ unique-page-id: 2949168
 description: 템플릿을 사용하여 웹 캠페인 만들기 - 마케팅 문서 - 제품 설명서
 title: 템플릿을 사용하여 웹 캠페인 만들기
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: fbaf57ec4f3532c2d71acf23171d60873b1c997c
 workflow-type: tm+mt
-source-wordcount: '143'
+source-wordcount: '142'
 ht-degree: 0%
 
 ---
@@ -19,11 +19,11 @@ ht-degree: 0%
 >
 >템플릿은 모든 장치에 최적화되어 데스크탑과 모바일 모두에 최적화된 검색 환경입니다.
 
-1. 웹 캠페인으로 이동합니다.
+1. **웹 캠페인**&#x200B;으로 이동합니다.
 
    ![](assets/web-campaigns-hand.jpg)
 
-1. 새 웹 캠페인 만들기를 클릭합니다.
+1. **새 웹 캠페인 만들기**&#x200B;를 클릭합니다.
 
    ![](assets/create-new-web-campaign-create-hand.jpg)
 
@@ -35,15 +35,13 @@ ht-degree: 0%
 
    ![](assets/set-web-campaign-education.jpg)
 
-1. 템플릿을 클릭합니다.
+1. **템플릿**&#x200B;을 클릭합니다.
 
    ![](assets/templates.png)
 
 1. 캠페인에 적합한 영역을 선택하여 효과가 있는 템플릿을 보고 선택합니다.
 
    >[!NOTE]
-   >
-   >**미리 알림**
    >
    >선택할 수 있는 멋진 템플릿이 있으며 나중에 더 추가할 예정입니다.
 
@@ -57,7 +55,7 @@ ht-degree: 0%
 
    ![](assets/customize-template.jpg)
 
-1. 저장을 클릭합니다.
+1. **저장**&#x200B;을 클릭합니다.
 
    ![](assets/click-save-hand.jpg)
 
@@ -65,9 +63,4 @@ ht-degree: 0%
 
 >[!MORELIKETHIS]
 >
->* [템플릿으로 캠페인 저장](save-your-campaign-as-a-template.md)
-
->
-
-
-
+>[템플릿으로 캠페인 저장](/help/marketo/product-docs/web-personalization/using-templates/save-your-campaign-as-a-template.md)
