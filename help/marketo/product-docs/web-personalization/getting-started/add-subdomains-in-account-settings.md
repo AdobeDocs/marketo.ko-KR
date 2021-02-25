@@ -3,9 +3,9 @@ unique-page-id: 17727870
 description: 계정 설정에 하위 도메인 추가 - 마케팅 문서 - 제품 설명서
 title: 계정 설정에 하위 도메인 추가
 translation-type: tm+mt
-source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
+source-git-commit: fbaf57ec4f3532c2d71acf23171d60873b1c997c
 workflow-type: tm+mt
-source-wordcount: '163'
+source-wordcount: '151'
 ht-degree: 0%
 
 ---
@@ -37,5 +37,4 @@ ht-degree: 0%
 
    >[!NOTE]
    >
-   >계정에 *기본* 도메인을 추가하려면 [마케팅 지원](https://docs.marketo.com/cdn-cgi/l/email-protection#5e2d2b2e2e312c2a1e333f2c353b2a31703d3133)에 문의하십시오.
-
+   >계정에 _기본_ 도메인을 추가하려면 [마케팅 지원](https://nation.marketo.com/t5/Support/ct-p/Support)에 문의하십시오.
