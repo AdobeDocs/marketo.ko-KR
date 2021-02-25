@@ -3,7 +3,7 @@ unique-page-id: 17727499
 description: 웹 개인화의 작업 영역 - 마케팅 문서 - 제품 설명서
 title: 웹 개인화의 작업 영역
 translation-type: tm+mt
-source-git-commit: d88fb92a00e4c20509617e6ef8b2e51b66cc085b
+source-git-commit: fbaf57ec4f3532c2d71acf23171d60873b1c997c
 workflow-type: tm+mt
 source-wordcount: '109'
 ht-degree: 0%
@@ -35,5 +35,4 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->사용자는 액세스 권한이 있는 작업 영역과 연관된 웹 캠페인 및 세그먼트만 볼 수 있습니다. 다음은 [사용자에게 하나 이상의 작업 영역](../../../product-docs/administration/workspaces-and-person-partitions/allow-user-access-to-a-workspace.md)에 대한 액세스 권한을 부여하는 방법입니다.
-
+>사용자는 액세스 권한이 있는 작업 영역과 연관된 웹 캠페인 및 세그먼트만 볼 수 있습니다. 다음은 [사용자에게 하나 이상의 작업 영역](/help/marketo/product-docs/administration/workspaces-and-person-partitions/allow-user-access-to-a-workspace.md)에 대한 액세스 권한을 부여하는 방법입니다.
