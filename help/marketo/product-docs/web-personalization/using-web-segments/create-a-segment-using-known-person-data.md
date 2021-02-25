@@ -3,7 +3,7 @@ unique-page-id: 7504343
 description: 알려진 개인 데이터를 사용하여 세그먼트 만들기 - Marketing To Docs - 제품 설명서
 title: 알려진 개인 데이터를 사용하여 세그먼트 만들기
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: fbaf57ec4f3532c2d71acf23171d60873b1c997c
 workflow-type: tm+mt
 source-wordcount: '184'
 ht-degree: 0%
@@ -17,7 +17,7 @@ ht-degree: 0%
 
 >[!PREREQUISITES]
 >
->[개인 데이터 관리](manage-person-data.md)
+>[개인 데이터 관리](/help/marketo/product-docs/web-personalization/using-web-segments/manage-person-data.md)
 
 1. **세그먼트**&#x200B;로 이동합니다.
 
@@ -31,7 +31,7 @@ ht-degree: 0%
 
    ![](assets/image2015-8-28-13-3a2-3a59.png)
 
-1. 프로필 세그멘테이션에서 **Database **를 캔버스로 드래그합니다.
+1. 프로필 세그멘테이션에서 **데이터베이스**&#x200B;를 캔버스로 드래그합니다.
 
    ![](assets/four-1.png)
 
@@ -53,13 +53,12 @@ ht-degree: 0%
 
    ![](assets/eight.png)
 
-1. AND / OR 연산자를 선택합니다. 추가할 필드를 선택합니다. 개인 데이터 필드를 선택합니다. 개인 데이터 값을 입력합니다.
+1. AND/OR 연산자를 선택합니다. 추가할 필드를 선택합니다. 개인 데이터 필드를 선택합니다. 개인 데이터 값을 입력합니다.
 
    ![](assets/nine.png)
 
-1. **저장**&#x200B;을 클릭하여 세그먼트를 저장하거나 **저장 및 캠페인 정의 **를 클릭하여 저장하고 캠페인 페이지로 이동합니다.
+1. **저장**&#x200B;을 클릭하여 세그먼트를 저장하거나 **캠페인 저장 및 정의**&#x200B;를 클릭하여 저장하고 캠페인 페이지로 이동합니다.
 
    ![](assets/image2014-11-19-19-3a48-3a20-1.png)
 
    이제 알려진 사람 데이터를 대상으로 하는 세그먼트를 설정했습니다.
-
