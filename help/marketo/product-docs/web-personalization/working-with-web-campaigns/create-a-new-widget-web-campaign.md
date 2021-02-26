@@ -3,9 +3,9 @@ unique-page-id: 4719402
 description: 새 위젯 웹 캠페인 만들기 - 마케팅 문서 - 제품 설명서
 title: 새 위젯 웹 캠페인 만들기
 translation-type: tm+mt
-source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
+source-git-commit: b33f5ed707a1377daad51191cc6dd9f093138258
 workflow-type: tm+mt
-source-wordcount: '642'
+source-wordcount: '632'
 ht-degree: 0%
 
 ---
@@ -13,7 +13,7 @@ ht-degree: 0%
 
 # 새 위젯 웹 캠페인 만들기 {#create-a-new-widget-web-campaign}
 
-웹 캠페인은 특정 세그먼트와 연결된 사용자 지정 응답이며 웹 사이트의 [대화 상자](create-a-new-dialog-web-campaign.md), 영역 대체](create-a-new-in-zone-web-campaign.md)의 [, 위젯 기능 또는 이메일 경고일 수 있습니다. 위젯 웹 캠페인은 웹 페이지의 세로 면에 표시되는 텍스트 또는 배너로, 확장 및 계약에 대한 기능이 있으며 방문 동안 웹 사이트 페이지에 남아 있는 것을 의미합니다.
+웹 캠페인은 특정 세그먼트와 연결된 사용자 지정 응답이며 웹 사이트의 [대화 상자](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/create-a-new-dialog-web-campaign.md), 영역 대체](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/create-a-new-in-zone-web-campaign.md)의 [, 위젯 기능 또는 이메일 경고일 수 있습니다. 위젯 웹 캠페인은 웹 페이지의 세로 면에 표시되는 텍스트 또는 배너로, 확장 및 계약에 대한 기능이 있으며 방문 동안 웹 사이트 페이지에 남아 있는 것을 의미합니다.
 
 ## 위젯 웹 캠페인 만들기 {#create-a-widget-web-campaign}
 
@@ -33,9 +33,9 @@ ht-degree: 0%
 
    ![](assets/4.png)
 
-1. **미리 보기 **를 클릭하여 웹 캠페인이 사이트에서 어떻게 반응하는지 확인합니다.
+1. **미리 보기**&#x200B;를 클릭하여 웹 캠페인이 사이트에서 어떻게 반응하는지 확인합니다.
 
-![](assets/preview.png)
+   ![](assets/preview.png)
 
 <table> 
  <thead> 
@@ -51,7 +51,7 @@ ht-degree: 0%
   </tr> 
   <tr> 
    <td colspan="1"><strong>표시 위치</strong></td> 
-   <td colspan="1">웹 캠페인이 표시되는 시기와 방법을 <a href="https://docs.marketo.com/display/DOCS/Set+How+Your+Web+Campaign+Displays" rel="nofollow">사용자 정의할 수 있습니다.</a></td> 
+   <td colspan="1">웹 캠페인이 표시되는 시기와 방법을 <a href="/help/marketo/product-docs/web-personalization/working-with-web-campaigns/set-how-your-web-campaign-displays.md" rel="nofollow">사용자 정의할 수 있습니다.</a></td> 
   </tr> 
   <tr> 
    <td colspan="1"><strong>애니메이션 시작/종료</strong></td> 
@@ -95,7 +95,7 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->**A/B에서 웹 캠페인을 테스트하시겠습니까?** 하나 이상의 웹 캠페인을  [A/B로 테스트하여 최적의 결과를 얻을 수 있습니다](ab-test-your-web-campaign.md). 자동 조정 기능을 사용하면 플랫폼은 자동으로 더 나은 성과를 내는 캠페인을 인식하며 전환율이 가장 높은 캠페인을 계속하며 다른 캠페인을 일시 중지합니다.
+>**A/B에서 웹 캠페인을 테스트하시겠습니까?** 하나 이상의 웹 캠페인을  [A/B로 테스트하여 최적의 결과를 얻을 수 있습니다](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/ab-test-your-web-campaign.md). 자동 조정 기능을 사용하면 플랫폼은 자동으로 더 나은 성과를 내는 캠페인을 인식하며 전환율이 가장 높은 캠페인을 계속하며 다른 캠페인을 일시 중지합니다.
 
 ## 웹 캠페인 편집 {#edit-a-web-campaign}
 
@@ -105,11 +105,11 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->원하는 캠페인을 쉽게 찾으려면 [필터 기능](filter-web-campaigns.md)을 사용하십시오.
+>원하는 캠페인을 쉽게 찾으려면 [필터 기능](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/filter-web-campaigns.md)을 사용하십시오.
 
 ## 웹 캠페인 복제 {#clone-a-web-campaign}
 
-[웹 캠페인 복제](clone-a-web-campaign.md)를 참조하십시오.
+[웹 캠페인 복제](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/clone-a-web-campaign.md)를 참조하십시오.
 
 ## 웹 캠페인 미리 보기 {#preview-a-web-campaign}
 
@@ -119,7 +119,7 @@ ht-degree: 0%
 
 ## 웹 캠페인 {#delete-a-web-campaign} 삭제
 
-1. 웹 캠페인 페이지에서 삭제할 웹 캠페인에서 **삭제 **를 클릭합니다.
+1. 웹 캠페인 페이지에서 삭제할 웹 캠페인의 **삭제**&#x200B;를 클릭합니다.
 
    ![](assets/widget-campaign-delete-hand.png)
 
@@ -127,6 +127,6 @@ ht-degree: 0%
 
 >[!MORELIKETHIS]
 >
->* [영역에서 새 웹 캠페인 만들기](create-a-new-in-zone-web-campaign.md)
->* [새 대화 상자 웹 캠페인 만들기](create-a-new-dialog-web-campaign.md)
+>* [영역에서 새 웹 캠페인 만들기](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/create-a-new-in-zone-web-campaign.md)
+>* [새 대화 상자 웹 캠페인 만들기](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/create-a-new-dialog-web-campaign.md)
 
