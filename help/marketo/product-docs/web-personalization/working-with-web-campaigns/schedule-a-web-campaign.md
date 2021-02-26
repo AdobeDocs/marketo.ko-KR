@@ -3,7 +3,7 @@ unique-page-id: 10097100
 description: 웹 캠페인 예약 - 마케팅 문서 - 제품 설명서
 title: 웹 캠페인 예약
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: b33f5ed707a1377daad51191cc6dd9f093138258
 workflow-type: tm+mt
 source-wordcount: '297'
 ht-degree: 0%
@@ -29,7 +29,7 @@ ht-degree: 0%
 
    >[!NOTE]
    >
-   >원하는 캠페인을 쉽게 찾으려면 [필터 기능](filter-web-campaigns.md)을 사용하십시오.
+   >원하는 캠페인을 쉽게 찾으려면 [필터 기능](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/filter-web-campaigns.md)을 사용하십시오.
 
 1. 캠페인 상태 메뉴를 열고 **예약**&#x200B;을 선택합니다.
 
@@ -59,11 +59,10 @@ ht-degree: 0%
 
    ![](assets/image2016-1-14-8-3a27-3a55.png)
 
-1. 캠페인 페이지의 캠페인 상태가 **Scheduled **로 변경되고 시계/달력 아이콘이 표시됩니다. 캠페인 일정을 편집하려면 이 아이콘을 클릭합니다.
+1. 캠페인 페이지의 캠페인 상태가 **예약됨**&#x200B;으로 변경되고 클럭/달력 아이콘이 표시됩니다. 캠페인 일정을 편집하려면 이 아이콘을 클릭합니다.
 
    ![](assets/image2016-1-14-8-3a27-3a32.png)
 
    >[!NOTE]
    >
    >캠페인 상태는 선택한 예약 시간 동안 캠페인이 실행 중일 때에도 **예약됨**&#x200B;으로 유지됩니다. 예약된 종료 날짜가 지나면 캠페인 상태가 **일시 중지됨**&#x200B;으로 변경됩니다.
-
