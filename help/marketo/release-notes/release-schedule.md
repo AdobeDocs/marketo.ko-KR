@@ -3,9 +3,9 @@ unique-page-id: 5472490
 description: 릴리스 일정 - 마케팅 문서 - 제품 설명서
 title: 릴리스 일정
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: b33f5ed707a1377daad51191cc6dd9f093138258
 workflow-type: tm+mt
-source-wordcount: '127'
+source-wordcount: '132'
 ht-degree: 0%
 
 ---
@@ -15,7 +15,7 @@ ht-degree: 0%
 
 **릴리스**:Marketing은 분기별 주요 릴리스 일정을 사용합니다. 사용 가능한 각 릴리스 노트는 아래 표에 연결되어 있습니다.
 
-**릴리스 날짜**:롤아웃은 보통 릴리스 주 수요일에 시작되며, 금요일 저녁 많은 업그레이드가 예정되어 있습니다. 특정 날짜와 릴리스 세부 정보가 포함된 이메일이 발송됩니다. 목록에 있는 날짜는 금요일 업데이트로 표시됩니다.
+**릴리스 날짜**:롤아웃은 보통 릴리스 주 수요일에 시작되며, 금요일 저녁 많은 업그레이드가 발생합니다. 특정 날짜와 릴리스 세부 정보가 포함된 이메일이 발송됩니다. 목록에 있는 날짜는 금요일 업데이트로 표시됩니다.
 
 **진행**:
 
@@ -38,40 +38,24 @@ ht-degree: 0%
    <th width="250px">진행 상황</th> 
   </tr> 
   <tr> 
-   <td colspan="1"><a href="2020/release-notes-jan-20.md">2009년 1월</a></td> 
-   <td colspan="1">2020년 1월 17일</td> 
-   <td colspan="1"> 
-    <div>     
-    </div></td> 
+   <td colspan="1">1921년 1월</td> 
+   <td colspan="1">2021년 1월 15일</td> 
+   <td colspan="1">배송</td> 
   </tr> 
   <tr> 
-   <td colspan="1"><a href="2020/release-notes-feb-20.md">2009년 2월</a></td> 
-   <td colspan="1">2020년 2월 21일</td> 
-   <td colspan="1"> 
-    <div>     
-    </div></td> 
+   <td colspan="1">2010년 5월</td> 
+   <td colspan="1">2021년 5월 7일</td> 
+   <td colspan="1">진행 중</td> 
   </tr> 
   <tr> 
-   <td colspan="1"><a href="2020/release-notes-june-20.md">1920년 6월</a></td> 
-   <td colspan="1">2020년 6월 5일</td> 
-   <td colspan="1"> 
-    <div>     
-    </div></td> 
+   <td colspan="1">1921년 8월</td> 
+   <td colspan="1">2021년 8월 13일</td> 
+   <td colspan="1">예약 시</td> 
   </tr> 
   <tr> 
-   <td colspan="1"><a href="2020/release-notes-july-20.md">2007년 7월</a></td> 
-   <td colspan="1">2020년 7월 31일</td> 
-   <td colspan="1"> 
-    <div>     
-    </div></td> 
-  </tr> 
-  <tr> 
-   <td colspan="1">2008년 10월</td> 
-   <td colspan="1">2020년 10월 16일</td> 
-   <td colspan="1"> 
-    <div>     
-    </div></td> 
+   <td colspan="1">2010년 10월</td> 
+   <td colspan="1">2021년 10월 15일</td> 
+   <td colspan="1">예약 시</td> 
   </tr> 
  </tbody> 
 </table>
-
