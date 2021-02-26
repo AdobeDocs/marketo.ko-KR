@@ -3,9 +3,9 @@ unique-page-id: 10093157
 description: 웹 캠페인 복제 - 마케팅 문서 - 제품 설명서
 title: 웹 캠페인 복제
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: b33f5ed707a1377daad51191cc6dd9f093138258
 workflow-type: tm+mt
-source-wordcount: '170'
+source-wordcount: '166'
 ht-degree: 0%
 
 ---
@@ -23,7 +23,7 @@ ht-degree: 0%
 
    >[!NOTE]
    >
-   >원하는 웹 캠페인을 쉽게 찾으려면 [필터 기능](filter-web-campaigns.md)을 사용하십시오.
+   >원하는 웹 캠페인을 쉽게 찾으려면 [필터 기능](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/filter-web-campaigns.md)을 사용하십시오.
 
 1. 웹 캠페인에 대해 **복제**&#x200B;를 클릭합니다.
 
@@ -35,15 +35,11 @@ ht-degree: 0%
 
    >[!TIP]
    >
-   >웹 캠페인의 모든 컨텐츠는 분할 테스트를 제외한 복제 캠페인에 복사되므로 다른 사람에 대해 테스트하려면 분할 테스트 그룹을 복제된 캠페인에 추가하는 것을 잊지 마십시오.
+   >웹 캠페인의 모든 컨텐츠는 분할 테스트를 제외한 복제 캠페인에 복사되므로 다른 사람에 대해 테스트하려면 분할된 테스트 그룹을 복제된 캠페인에 추가하는 것을 잊지 마십시오.
 
 >[!MORELIKETHIS]
 >
->* [영역에서 새 웹 캠페인 만들기](create-a-new-in-zone-web-campaign.md)
->* [새 위젯 웹 캠페인 만들기](create-a-new-widget-web-campaign.md)
->* [새 대화 상자 웹 캠페인 만들기](create-a-new-dialog-web-campaign.md)
-
->
-
-
+>* [대화 상자 캠페인 만들기](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/create-a-new-dialog-web-campaign.md)
+>* [영역 내 RTP 캠페인 만들기](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/create-a-new-in-zone-web-campaign.md)
+>* [RTP 위젯 캠페인 만들기](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/create-a-new-widget-web-campaign.md)
 
