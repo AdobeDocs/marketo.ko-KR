@@ -3,7 +3,7 @@ unique-page-id: 12978906
 description: 웹 캠페인의 표시 방법 - Marketing To Docs - 제품 설명서 설정
 title: 웹 캠페인이 표시되는 방식 설정
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: b33f5ed707a1377daad51191cc6dd9f093138258
 workflow-type: tm+mt
 source-wordcount: '210'
 ht-degree: 0%
@@ -74,5 +74,4 @@ ht-degree: 0%
 
 >[!TIP]
 >
->선택한 효과가 앞으로 어떻게 나타날지 살펴보십시오. [웹 캠페인 미리 보기](preview-and-test-a-web-campaign.md)를 통해 확인합니다.
-
+>선택한 효과가 앞으로 어떻게 나타날지 살펴보십시오. [웹 캠페인 미리 보기](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/preview-and-test-a-web-campaign.md)를 통해 확인합니다.
