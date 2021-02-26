@@ -3,9 +3,9 @@ unique-page-id: 12983280
 description: 릴리스 노트 -17년 가을 - 마케팅 문서 - 제품 설명서
 title: 릴리스 노트 -17년 가을
 translation-type: tm+mt
-source-git-commit: 96cc6a30c63c8e8dca793a52e4bf7ecaef8c08dc
+source-git-commit: b33f5ed707a1377daad51191cc6dd9f093138258
 workflow-type: tm+mt
-source-wordcount: '617'
+source-wordcount: '597'
 ht-degree: 0%
 
 ---
@@ -29,7 +29,7 @@ Marketing To 및 Salesforce에서 보다 풍부하고 빠르게 동기화할 수
 
 최근의 인프라 개선 사항은 마케팅 보고 및 분석 도구 내에서 가동 시간 및 안정성을 높여주므로 애드혹 보고서를 보다 신속하게 작성할 수 있습니다.
 
-## [수신자 시간대](https://docs.marketo.com/x/_xvG) {#recipient-time-zone}
+## [수신자 시간대](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/scheduling-with-recipient-time-zone/understanding-recipient-time-zone.md) {#recipient-time-zone}
 
 이 새로운 기능을 사용하면 현지 시간대에 따라 이메일을 보류 및 전달할 수 있습니다. 이메일 및 참여 프로그램은 수신자의 시간대에서 전달되도록 구성할 수 있으므로 여러 프로그램을 제작할 필요가 없습니다. 한 번 이메일을 전송하면 Marketing Cloud에서 정확한 현지 시간으로 이메일을 자동으로 보관할 수 있습니다. 이메일 측정 지표를 가져오고, 로컬 사례를 관찰하며, 단일 프로그램을 글로벌로 사용하여 시간을 절약할 수 있습니다.
 
@@ -39,15 +39,15 @@ Marketing To 및 Salesforce에서 보다 풍부하고 빠르게 동기화할 수
 >
 >이메일 및 참여 프로그램에서 수신자 시간대를 아직 활성화할 수 없는 경우 너무 당황하지 마십시오! 모든 고객에게 이 기능을 점차 제공하고 있습니다.
 
-## [세그먼트별 샘플 이메일 검토](https://docs.marketo.com/x/2IER) {#review-sample-emails-by-segment}
+## [세그먼트별 샘플 이메일 검토](/help/marketo/product-docs/email-marketing/general/creating-an-email/send-a-sample-email.md) {#review-sample-emails-by-segment}
 
 검토용으로 샘플 이메일을 보낼 때 세그먼트를 선택할 수 있는 새로운 옵션이 제공됩니다. 더 이상 리드가 속한 세그먼트를 수동으로 확인할 필요가 없으므로 동적 컨텐츠가 포함된 이메일을 다른 세그먼트로 쉽게 보낼 수 있습니다.
 
-## [LinkedIn 리드 생성 사용자 지정 질문](https://docs.marketo.com/x/ngLG) {#linkedin-lead-gen-custom-questions}
+## [LinkedIn 리드 생성 사용자 지정 질문](/help/marketo/product-docs/demand-generation/social/social-functions/set-up-linkedin-lead-gen-forms.md) {#linkedin-lead-gen-custom-questions}
 
-LinkedIn 리드 생성 양식을 사용자 정의하여 맞춤형 리드 속성을 수집할 수 있습니다. 이제 양식당 최대 3개의 사용자 지정 질문을 하고, 단일 행 텍스트 입력 또는 객관식 질문 중에서 선택하고, 다시 Marketing to 리드 필드에 매핑할 수 있습니다.
+LinkedIn 리드 생성 양식을 사용자 정의하여 맞춤형 리드 속성을 수집할 수 있습니다. 이제 양식당 최대 3개의 사용자 정의 질문을 하고, 단일 행 텍스트 입력 또는 객관식 질문 중에서 선택하고, 다시 Marketing to 리드 필드에 매핑할 수 있습니다.
 
-## [Slack 통합](../../product-docs/administration/additional-integrations/add-slack-as-a-launchpoint-service.md) {#slack-integration}
+## [Slack 통합](/help/marketo/product-docs/administration/additional-integrations/add-slack-as-a-launchpoint-service.md) {#slack-integration}
 
 새로운 Slack 통합의 일부로 다음과 같은 2가지 기능을 출시했습니다.
 
@@ -56,15 +56,15 @@ LinkedIn 리드 생성 양식을 사용자 정의하여 맞춤형 리드 속성�
 
 ## ABM 개선 사항 {#abm-enhancements}
 
-** [연락처 없는 계정 표시](https://docs.marketo.com/x/fKCt)**
+**[연락처 없는 계정 표시](https://docs.marketo.com/x/fKCt)**
 
 이제 Marketing ABM은 연락처 없이 CRM 계정을 동기화하고 표시합니다. 이전 판매 또는 마케팅 내역 없이 새 계정을 포함하고 후속 리드를 계정에 일치시켜 진행 상황을 추적합니다.
 
-## 컨텐트`<sup>AI </sup>`분석 {#contentai-analytics}
+## ContentAI 분석 {#contentai-analytics}
 
-** [새 ABM 계정 목록 필터](https://docs.marketo.com/x/1BPG) **
+**[새 ABM 계정 목록 필터](https://docs.marketo.com/x/1BPG)**
 
-ABM 계정 목록에서 컨텐츠 성능을 보고 비교하여 기존 컨텐츠를 최적화합니다. 콘텐트`<sup>AI</sup>`에 다음이 표시됩니다.
+ABM 계정 목록에서 컨텐츠 성능을 보고 비교하여 기존 컨텐츠를 최적화합니다. ContentAI는 다음을 제공합니다.
 
 * 가장 많이 본 콘텐트
 * 전환된 컨텐츠
@@ -72,13 +72,13 @@ ABM 계정 목록에서 컨텐츠 성능을 보고 비교하여 기존 컨텐츠
 
 ## 웹 개인화 개선 사항 {#web-personalization-enhancements}
 
-** [웹 캠페인에 대한 토큰](https://docs.marketo.com/x/SwJI)**
+**[웹 캠페인에 대한 토큰](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/using-the-web-personalization-rich-text-editor.md)**
 
 이제 웹 캠페인 내에서 토큰을 사용할 수 있습니다. 토큰을 활용하여 개인화된 메시지와 콘텐츠를 전달하여 웹 캠페인의 참여도를 높일 수 있습니다.
 
 ![](assets/image2017-11-16-11-3a25-3a7.png)
 
-** [웹 캠페인 편집기에서 Design Studio 이미지](https://docs.marketo.com/x/SwJI)**
+**[웹 캠페인 편집기에서 Design Studio 이미지](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/using-the-web-personalization-rich-text-editor.md)**
 
 Marketing To의 다양한 채널에서 크리에이티브 에셋과 이미지를 다시 사용하여 시간을 절약할 수 있습니다.
 
@@ -86,10 +86,10 @@ Marketing To의 다양한 채널에서 크리에이티브 에셋과 이미지를
 
 ## 통합 {#integration}
 
-** [이메일 미리 보기 API](https://developers.marketo.com/rest-api/assets/emails/)**
+**[이메일 미리 보기 API](https://developers.marketo.com/rest-api/assets/emails/)**
 
 이제 Marketing Cloud 외부에서 이메일을 원격으로 미리 볼 수 있으므로 이메일 컨텐츠 로컬라이제이션 프로세스를 간소화하고 오류를 줄일 수 있습니다.
 
-** [HTML API](https://developers.marketo.com/rest-api/assets/emails/)** 바꾸기
+**[HTML API 바꾸기](https://developers.marketo.com/rest-api/assets/emails/)**
 
 개발자는 이메일 에셋의 HTML 컨텐츠를 원격으로 업데이트하여 단일 시스템에서 에셋을 유지 관리할 수 있습니다.
