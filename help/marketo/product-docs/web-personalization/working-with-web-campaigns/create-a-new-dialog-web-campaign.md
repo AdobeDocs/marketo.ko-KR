@@ -3,9 +3,9 @@ unique-page-id: 4719398
 description: 새 대화 상자 웹 캠페인 만들기 - 마케팅 문서 - 제품 설명서
 title: 새 대화 상자 웹 캠페인 만들기
 translation-type: tm+mt
-source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
+source-git-commit: b33f5ed707a1377daad51191cc6dd9f093138258
 workflow-type: tm+mt
-source-wordcount: '760'
+source-wordcount: '748'
 ht-degree: 0%
 
 ---
@@ -17,7 +17,7 @@ ht-degree: 0%
 
 웹 캠페인을 제작하여 웹 컨텐츠를 실시간으로 개인화하고 적시에 적합한 사용자에게 올바른 메시지를 제공할 수 있습니다.
 
-웹 캠페인은 특정 세그먼트와 연관된 사용자 지정 응답입니다. 반응은 웹 사이트의 대화 상자, [영역 교체](create-a-new-in-zone-web-campaign.md), [위젯 기능](create-a-new-widget-web-campaign.md)이나 이메일 경고일 수 있습니다.
+웹 캠페인은 특정 세그먼트와 연관된 사용자 지정 응답입니다. 반응은 웹 사이트의 대화 상자, [영역 교체](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/create-a-new-in-zone-web-campaign.md), [위젯 기능](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/create-a-new-widget-web-campaign.md) 또는 이메일 경고일 수 있습니다.
 
 1. **웹 캠페인**&#x200B;으로 이동합니다.
 
@@ -41,7 +41,7 @@ ht-degree: 0%
  <tbody> 
   <tr> 
    <td colspan="1"><strong>표시 위치</strong></td> 
-   <td colspan="1">웹 캠페인이 표시되는 시기와 방법을 <a href="https://docs.marketo.com/display/DOCS/Set+How+Your+Web+Campaign+Displays" rel="nofollow">사용자 정의할 수 있습니다.</a></td> 
+   <td colspan="1">웹 캠페인이 표시되는 시기와 방법을 <a href="/help/marketo/product-docs/web-personalization/working-with-web-campaigns/set-how-your-web-campaign-displays.md" rel="nofollow">사용자 정의할 수 있습니다.</a></td> 
   </tr> 
   <tr> 
    <td colspan="1" rowspan="1"><strong>대화 상자 스타일</strong></td> 
@@ -111,7 +111,7 @@ ht-degree: 0%
   </tr> 
   <tr> 
    <td colspan="1"><strong>리치 텍스트 편집기</strong></td> 
-   <td colspan="1"><p>리치 텍스트 편집기를 사용하면 텍스트 서식 지정, 링크 및 이미지를 삽입할 수 있습니다. <a href="using-the-web-personalization-rich-text-editor.md">자세한 내용을 살펴보십시오</a>.</p></td> 
+   <td colspan="1"><p>리치 텍스트 편집기를 사용하면 텍스트 서식 지정, 링크 및 이미지를 삽입할 수 있습니다. <a href="/help/marketo/product-docs/web-personalization/working-with-web-campaigns/using-the-web-personalization-rich-text-editor.md">자세한 내용을 살펴보십시오</a>.</p></td> 
   </tr> 
   <tr> 
    <td colspan="1"><strong>사이트에서 미리 보기</strong></td> 
@@ -128,17 +128,17 @@ ht-degree: 0%
 
 >[!TIP]
 >
->[내장된 템플릿](../../../product-docs/web-personalization/using-templates/using-templates-to-create-web-campaigns.md)을 사용하거나 기존 캠페인](../../../product-docs/web-personalization/using-templates/using-templates-to-create-web-campaigns.md)을 다시 사용할 템플릿으로 저장하여 캠페인 만들기 프로세스를 가속화하고 간소화할 수 있습니다.[
+>[내장된 템플릿](/help/marketo/product-docs/web-personalization/using-templates/using-templates-to-create-web-campaigns.md)을 사용하거나 기존 캠페인](/help/marketo/product-docs/web-personalization/using-templates/using-templates-to-create-web-campaigns.md)을 다시 사용할 템플릿으로 저장하여 캠페인 만들기 프로세스를 가속화하고 간소화할 수 있습니다.[
 
 ## 웹 캠페인 편집 {#edit-a-web-campaign}
 
-1. **웹** **캠페인** 페이지에서 웹 캠페인에서 **편집**&#x200B;을 클릭합니다.
+1. **웹 캠페인** 페이지에서 웹 캠페인에서 **편집**&#x200B;을 클릭합니다.
 
 ![](assets/image2016-11-4-11-3a6-3a19.png)
 
 >[!NOTE]
 >
->원하는 웹 캠페인을 쉽게 찾으려면 [필터 기능](filter-web-campaigns.md)을 사용하십시오.
+>원하는 웹 캠페인을 쉽게 찾으려면 [필터 기능](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/filter-web-campaigns.md)을 사용하십시오.
 
 ## 웹 캠페인 미리 보기 {#preview-a-web-campaign}
 
@@ -148,11 +148,11 @@ ht-degree: 0%
 
 ## 웹 캠페인 복제 {#clone-a-web-campaign}
 
-[웹 캠페인 복제](clone-a-web-campaign.md)를 참조하십시오.
+[웹 캠페인 복제](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/clone-a-web-campaign.md)를 참조하십시오.
 
 ## 웹 캠페인 {#delete-a-web-campaign} 삭제
 
-1. 삭제하려는 웹 캠페인의 **웹 캠페인** 페이지에서 **삭제 **를 클릭합니다.
+1. 삭제하려는 웹 캠페인의 **웹 캠페인** 페이지에서 **삭제**&#x200B;를 클릭합니다.
 
    ![](assets/web-campaigns-1-delete-hand.png)
 
@@ -160,6 +160,6 @@ ht-degree: 0%
 
 >[!MORELIKETHIS]
 >
->* [영역에서 새 웹 캠페인 만들기](create-a-new-in-zone-web-campaign.md)
->* [새 위젯 웹 캠페인 만들기](create-a-new-widget-web-campaign.md)
+>* [영역 내 RTP 캠페인 만들기](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/create-a-new-in-zone-web-campaign.md)
+>* [RTP 위젯 캠페인 만들기](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/create-a-new-widget-web-campaign.md)
 
