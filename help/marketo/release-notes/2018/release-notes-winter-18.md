@@ -3,7 +3,7 @@ unique-page-id: 13795395
 description: 릴리스 노트 -18년 겨울 - 마케팅 문서 - 제품 설명서
 title: 릴리스 노트 -18년 겨울
 translation-type: tm+mt
-source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
+source-git-commit: b33f5ed707a1377daad51191cc6dd9f093138258
 workflow-type: tm+mt
 source-wordcount: '599'
 ht-degree: 0%
@@ -25,46 +25,47 @@ Marketing To는 Adobe의 빅데이터 아키텍처를 활용하여 트리거 캠
 
 Salesforce CRM 통합에 대한 2가지 개선 사항이 있습니다.
 
-* [특정 CRM 동기화 실패](../../product-docs/core-marketo-concepts/miscellaneous/understanding-notifications/notification-types.md) 에 대한 Marketing To Admin 알림(자격 증명이 만료됨, API 제한에 도달함 등)
+* [특정 CRM 동기화 실패](/help/marketo/product-docs/core-marketo-concepts/miscellaneous/understanding-notifications/notification-types.md) 에 대한 Marketing To Admin 알림(자격 증명이 만료됨, API 제한에 도달함 등)
 
-* [리드 할당 시 ](../../product-docs/crm-sync/salesforce-sync/setup/optional-steps/turn-off-email-notifications-to-lead-owner.md) 리드 소유자에 대한 이메일 알림 해제
+* [리드 할당 시 ](/help/marketo/product-docs/crm-sync/salesforce-sync/setup/optional-steps/turn-off-email-notifications-to-lead-owner.md) 리드 소유자에 대한 이메일 알림 해제
 
 이러한 개선 사항은 2018년에 걸쳐 진행될 것입니다.
 
-## [마케팅 성과 통찰력](../../product-docs/reporting/performance-insights/performance-insights-overview.md) {#marketo-performance-insights}
+## [마케팅 성과 통찰력](/help/marketo/product-docs/reporting/performance-insights/performance-insights-overview.md) {#marketo-performance-insights}
 
 >[!AVAILABILITY]
 >
->
 >성능 인사이트는 추가 제품입니다. 견적을 받으려면 마케팅 고객 성공 관리자 또는 계정 담당자에게 문의하십시오.
 
-기여도 분석, 인터랙티브한 시각화 및 자세한 데이터 표를 사용하여 캠페인 및 채널이 비즈니스 결과에 미치는 영향을 살펴볼 수 있습니다.   ![](assets/image2018-2-5-7-3a55-3a46.png)
+기여도 분석, 인터랙티브한 시각화 및 자세한 데이터 표를 사용하여 캠페인 및 채널이 비즈니스 결과에 미치는 영향을 살펴볼 수 있습니다.
+
+![](assets/image2018-2-5-7-3a55-3a46.png)
 
 ## 계정 기반 마케팅 개선 사항 {#account-based-marketing-enhancements}
 
-** [ABM 계층](../../product-docs/account-based-marketing/target/named-accounts/abm-hierarchies.md)**
+**[ABM 계층](/help/marketo/product-docs/account-based-marketing/target/named-accounts/abm-hierarchies.md)**
 
 Salesforce 또는 Microsoft Dynamics를 사용하는 ABM 고객의 경우 ABM은 이제 CRM에서 설정된 상위-하위 관계를 자동으로 상속(및 표시)합니다. 롤업 보고 및 캠페인 실행 모두에서 이러한 관계를 사용할 수 있습니다.
 
 ## 이메일 마케팅 {#email-marketing}
 
-** [동적 이메일 스크립트](../../product-docs/email-marketing/general/using-tokens/create-an-email-script-token.md)**
+**[동적 이메일 스크립트](/help/marketo/product-docs/email-marketing/general/using-tokens/create-an-email-script-token.md)**
 
 이제 Velocity 스크립팅은 다이내믹한 컨텐츠를 사용하는 이메일에서 지원됩니다. 속도와 세그멘테이션 기반의 다이내믹한 컨텐츠를 결합하여 개인화된 이메일을 제작할 수 있습니다.
 
 **수신자 시간대**
 
-* ** [Monthly Recoerate Cadence ](../../product-docs/email-marketing/email-programs/email-program-actions/scheduling-with-recipient-time-zone/schedule-email-programs-with-recipient-time-zone.md)**:** **교육 프로그램을 월별 교육에서 예약할 수 있는 기능을 추가했습니다.
+* **[월간 교육](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/scheduling-with-recipient-time-zone/schedule-email-programs-with-recipient-time-zone.md)**:우리는 한 달에 한 번씩 프로그램을 편성할 수 있는 능력을 추가했다.
 
-* ** [배달 중지](../../product-docs/email-marketing/email-programs/email-program-actions/scheduling-with-recipient-time-zone/abort-delivery-of-email-programs-scheduled-with-recipient-time-zone.md)**:이제 나머지 전송을 중간 실행을 중지할 수 있습니다.
+* **[배달 중지](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/scheduling-with-recipient-time-zone/abort-delivery-of-email-programs-scheduled-with-recipient-time-zone.md)**:이제 나머지 전송을 중간 실행을 중지할 수 있습니다.
 
 ## 광고 네트워크 통합 {#ad-network-integrations}
 
-** [Google 고객 일치 통합](../../product-docs/demand-generation/ad-network-integrations/add-google-customer-match-as-a-launchpoint-service.md)**
+**[Google 고객 일치 통합](/help/marketo/product-docs/demand-generation/ad-network-integrations/add-google-customer-match-as-a-launchpoint-service.md)**
 
 이러한 통합을 통해 Google AdWords를 사용하여 타깃팅할 Marketing To 대상을 Google로 보낼 수 있을 뿐만 아니라 YouTube, Search 및 Gmail에서 대상을 다시 타깃팅할 수 있습니다.
 
-** [LinkedIn 일치된 대상 API 개선 사항](../../product-docs/demand-generation/ad-network-integrations/add-linkedin-matched-audiences-as-a-launchpoint-service.md)**
+**[LinkedIn 일치된 대상 API 개선 사항](/help/marketo/product-docs/demand-generation/ad-network-integrations/add-linkedin-matched-audiences-as-a-launchpoint-service.md)**
 
 Adobe의 새로운 LinkedIn API를 사용하면 여러 LinkedIn Campaign Manager 계정에서 Marketing 데이터베이스의 사용자를 다시 타깃팅할 수 있습니다.
 
@@ -74,19 +75,19 @@ Adobe의 새로운 LinkedIn API를 사용하면 여러 LinkedIn Campaign Manager
 
 Marketing에서는 일본에서 오는 방문자에 대한 웹 방문자 식별(역 IP 조회) 및 개인화를 개선하기 위해 웹 개인화를 위한 추가 일본어 데이터 소스를 추가하고 있습니다. 조직명이 일본어로 표시됩니다.
 
-** [정적 목록을 사용하여 웹 세그먼트 만들기](../../product-docs/web-personalization/using-web-segments/create-a-segment-using-a-static-list.md)**
+**[정적 목록을 사용하여 웹 세그먼트 만들기](/help/marketo/product-docs/web-personalization/using-web-segments/create-a-segment-using-a-static-list.md)**
 
 웹 개인화는 이제 MLM(마케팅 활동)에 정의된 정적 목록에 속하는 알려진 웹 방문자에게 컨텐츠를 개인화할 수 있습니다. 향상된 기능을 통해 이제 모든 채널에서 정적 목록을 마케팅하고 웹 사이트에서 개인화된 컨텐츠를 통해 이러한 목록에 있는 사용자를 타깃팅할 수 있습니다.
 
-## 내용`<sup>AI</sup>` {#contentai}
+## ContentAI {#contentai}
 
 **예측 알고리즘 개선**
 
-Marketing의 최적화된 컨텐츠`<sup>AI </sup>`알고리즘을 통해 권장되는 컨텐츠는 임의 컨텐츠보다 최대 2회 클릭을 생성할 수 있습니다.
+Marketing의 최적화된 ContentAI 알고리즘을 통해 권장되는 컨텐츠는 무작위 컨텐츠보다 최대 2회 클릭을 생성할 수 있습니다.
 
 ## 통합 {#integration}
 
-** [캠페인 API 활성화/비활성화](https://developers.marketo.com/rest-api/assets/campaigns/)**
+**[캠페인 API 활성화/비활성화](https://developers.marketo.com/rest-api/assets/campaigns/)**
 
 이 새로운 API를 사용하면 트리거 캠페인을 원격으로 활성화 및 비활성화할 수 있으므로 완전히 자동화된 프로그램 템플릿을 만들 수 있습니다. 프로그램 템플릿을 한 번 만든 다음 복제, 마케팅 자료 업데이트, 스마트 캠페인 활성화/일정 관리 등을 자동화할 수 있습니다.
 
