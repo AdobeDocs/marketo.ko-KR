@@ -3,9 +3,9 @@ unique-page-id: 15695939
 description: 릴리스 노트 -18년 가을 - Marketing To Docs - 제품 설명서
 title: 릴리스 노트 -18년 가을
 translation-type: tm+mt
-source-git-commit: dc20aede0894a09e6c0bcd3d1580859b5fecb5f1
+source-git-commit: b33f5ed707a1377daad51191cc6dd9f093138258
 workflow-type: tm+mt
-source-wordcount: '850'
+source-wordcount: '0'
 ht-degree: 0%
 
 ---
@@ -25,7 +25,7 @@ ht-degree: 0%
 
 ## Marketing To Sales Engage {#marketo-sales-engage}
 
-* **SFDC Lightning 지원**:Lightning으로 마이그레이션하거나 현재 Lightning을 사용하고 있는 사용자는 MSE를 활용하여 구매자 여정 전반에서 보다 스마트하게 참여를 유도할 수 있습니다.
+* **SFDC Lightning 지원**:Lightning으로 마이그레이션하거나 현재 Lightning을 사용하고 있는 사용자는 MSE를 활용하여 구매자 여정에서 더 나은 참여를 제공할 수 있습니다.
 
 * **지원 확대:Microsoft Office**
 
@@ -74,7 +74,7 @@ ht-degree: 0%
 
    * 이제 고객은 기업 보안 요구 사항을 준수하는 회사의 ID 공급자 및 자격 증명을 사용하여 Biz가능 웹 응용 프로그램에 로그인할 수 있습니다.
 
-**[향상된 마케팅 성과 통찰력](../../product-docs/reporting/performance-insights/performance-insights-overview.md)**
+**[향상된 마케팅 성과 통찰력](/help/marketo/product-docs/reporting/performance-insights/performance-insights-overview.md)**
 
 * **유용성 개선 사항**
 
@@ -88,7 +88,7 @@ ht-degree: 0%
 
 ## 광고 네트워크 {#ad-networks}
 
-**[토큰 새로 고침](../../product-docs/demand-generation/social/social-functions/set-up-linkedin-lead-gen-forms.md)**
+**[토큰 새로 고침](/help/marketo/product-docs/demand-generation/social/social-functions/set-up-linkedin-lead-gen-forms.md)**
 
 재타깃팅 및 LinkedIn 리드 생성 양식 솔루션에 새로 고침 토큰을 구현하여 재인증이 필요하기 전에 액세스 시간을 1년으로 확장합니다.
 
