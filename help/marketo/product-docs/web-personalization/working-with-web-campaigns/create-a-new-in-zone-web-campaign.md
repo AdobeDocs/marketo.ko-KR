@@ -3,9 +3,9 @@ unique-page-id: 4719400
 description: 영역 웹 캠페인에서 새 항목 만들기 - 마케팅 문서 - 제품 설명서
 title: 영역에서 새 웹 캠페인 만들기
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: b33f5ed707a1377daad51191cc6dd9f093138258
 workflow-type: tm+mt
-source-wordcount: '694'
+source-wordcount: '693'
 ht-degree: 0%
 
 ---
@@ -13,7 +13,7 @@ ht-degree: 0%
 
 # 영역 웹 캠페인 {#create-a-new-in-zone-web-campaign}에 새 만들기
 
-웹 캠페인은 특정 세그먼트와 연결된 사용자 지정 응답이며 웹 사이트의 [대화 상자](create-a-new-dialog-web-campaign.md), 영역 내 교체, [위젯 기능](create-a-new-widget-web-campaign.md) 또는 이메일 경고일 수 있습니다. 영역 ID를 기반으로 하는 웹 사이트의 요소를 컨텐츠 또는 그래픽 배너로 영역 내 웹 캠페인이 바뀝니다.
+웹 캠페인은 특정 세그먼트와 연결된 사용자 지정 응답이며 웹 사이트의 [대화 상자](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/create-a-new-dialog-web-campaign.md), 영역 내 교체, [위젯 기능](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/create-a-new-widget-web-campaign.md) 또는 이메일 경고일 수 있습니다. 영역 ID를 기반으로 하는 웹 사이트의 요소를 컨텐츠 또는 그래픽 배너로 영역 내 웹 캠페인이 바뀝니다.
 
 ## 영역 내 웹 캠페인 만들기 {#create-an-in-zone-web-campaign}
 
@@ -31,14 +31,9 @@ ht-degree: 0%
 
    >[!NOTE]
    >
-   >**정의**
-   >
-   >
    >**영역 ID란 무엇입니까?**
    >
-   >
    >영역 ID는 &quot;영역 내&quot; 웹 캠페인이 온사이트에 있도록 하려는 위치입니다. &quot;영역 ID&quot;를 찾으려면 웹 사이트로 이동하여 웹 캠페인으로 대체할 영역을 선택하고 마우스 오른쪽 단추를 클릭하면 됩니다. 크롬에서 옵션은 &quot;Inspect 요소&quot;이며, 다른 브라우저에서는 다를 수 있습니다.
-   >
    >
    >그런 다음 웹 사이트의 이 섹션에 연결된 &quot;id&quot;를 찾을 수 있습니다. 이 ID는 해당 요소를 검사하므로 강조 표시됩니다. 예를 들어 Chrome에서 마우스 오른쪽 버튼을 클릭하면 강조 표시된 텍스트가 `<div id="featured-slider">`으로 표시되고 &quot;영역 id&quot; 섹션에 입력해야 하는 내용은 &quot;특별 슬라이더&quot;로 표시됩니다. 일반적으로 &quot;div id&quot;가 사용되지만 h1 id, p id 등과 같은 모든 ID도 사용할 수 있습니다.
 
@@ -68,7 +63,7 @@ ht-degree: 0%
   </tr> 
   <tr> 
    <td colspan="1"><strong> 리치 텍스트 편집기  </strong></td> 
-   <td colspan="1">리치 텍스트 편집기를 사용하면 텍스트 서식 지정, 링크 및 이미지를 삽입할 수 있습니다. <a href="using-the-web-personalization-rich-text-editor.md">자세한 내용을 살펴보십시오</a> .</td> 
+   <td colspan="1">리치 텍스트 편집기를 사용하면 텍스트 서식 지정, 링크 및 이미지를 삽입할 수 있습니다. <a href="/help/marketo/product-docs/web-personalization/working-with-web-campaigns/using-the-web-personalization-rich-text-editor.md">자세한 내용을 살펴보십시오</a> .</td> 
   </tr> 
   <tr> 
    <td colspan="1"><strong> 사이트에서 미리 보기   </strong></td> 
@@ -85,11 +80,11 @@ ht-degree: 0%
 
 >[!TIP]
 >
->[내장된 템플릿](../../../product-docs/web-personalization/using-templates/using-templates-to-create-web-campaigns.md)을 사용하거나 기존 캠페인](../../../product-docs/web-personalization/using-templates/using-templates-to-create-web-campaigns.md)을 다시 사용할 템플릿으로 저장하여 캠페인 만들기 프로세스를 가속화하고 간소화할 수 있습니다.[
+>[내장된 템플릿](/help/marketo/product-docs/web-personalization/using-templates/using-templates-to-create-web-campaigns.md)을 사용하거나 기존 캠페인](/help/marketo/product-docs/web-personalization/using-templates/using-templates-to-create-web-campaigns.md)을 다시 사용할 템플릿으로 저장하여 캠페인 만들기 프로세스를 가속화하고 간소화할 수 있습니다.[
 
 >[!NOTE]
 >
->**A/B 웹 캠페인을 테스트하시겠습니까?** 하나 이상의 웹 캠페인을  [A/B로 테스트하여 최적의 결과를 얻을 수 있습니다](ab-test-your-web-campaign.md). 자동 조정 기능을 사용하면 플랫폼은 자동으로 성과가 더 좋은 캠페인을 인식하며 전환율이 가장 높은 캠페인을 계속하며 다른 캠페인을 일시 중지합니다.
+>**A/B 웹 캠페인을 테스트하시겠습니까?** 하나 이상의 웹 캠페인을  [A/B로 테스트하여 최적의 결과를 얻을 수 있습니다](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/ab-test-your-web-campaign.md). 자동 조정 기능을 사용하면 플랫폼은 자동으로 더 나은 성과를 내는 캠페인을 인식하며 전환율이 가장 높은 캠페인을 계속하며 다른 캠페인을 일시 중지합니다.
 
 ## 웹 캠페인 편집 {#edit-a-web-campaign}
 
@@ -99,21 +94,21 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->원하는 캠페인을 쉽게 찾으려면 [필터 기능](filter-web-campaigns.md)을 사용하십시오.
+>원하는 캠페인을 쉽게 찾으려면 [필터 기능](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/filter-web-campaigns.md)을 사용하십시오.
 
 ## 웹 캠페인 미리 보기 {#preview-a-web-campaign}
 
-1. 웹 캠페인 페이지에서 보려는 웹 캠페인에서 **미리 보기 **를 클릭합니다.
+1. 웹 캠페인 페이지에서 보려는 웹 캠페인에서 **미리 보기**&#x200B;를 클릭합니다.
 
    ![](assets/in-zone-web-campaign-preview.png)
 
 ## 웹 캠페인 복제 {#clone-a-web-campaign}
 
-[웹 캠페인 복제](clone-a-web-campaign.md)를 참조하십시오.
+[웹 캠페인 복제](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/clone-a-web-campaign.md)를 참조하십시오.
 
 ## 웹 캠페인 {#delete-a-web-campaign} 삭제
 
-1. 웹 캠페인 페이지에서 삭제할 캠페인에서 **삭제 **를 클릭합니다.
+1. 웹 캠페인 페이지에서 삭제할 캠페인에서 **삭제**&#x200B;를 클릭합니다.
 
    ![](assets/in-zone-web-campaign-delete.png)
 
@@ -121,6 +116,6 @@ ht-degree: 0%
 
 >[!MORELIKETHIS]
 >
->* [새 위젯 웹 캠페인 만들기](create-a-new-widget-web-campaign.md)
->* [새 대화 상자 웹 캠페인 만들기](create-a-new-dialog-web-campaign.md)
+>* [새 위젯 웹 캠페인 만들기](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/create-a-new-widget-web-campaign.md)
+>* [새 대화 상자 웹 캠페인 만들기](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/create-a-new-dialog-web-campaign.md)
 
