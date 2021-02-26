@@ -3,7 +3,7 @@ unique-page-id: 8782266
 description: 웹 캠페인 우선 순위 지정 - 마케팅 문서 - 제품 설명서
 title: 웹 캠페인 우선 순위 지정
 translation-type: tm+mt
-source-git-commit: c33b7ab59e612f37d3f64bb954579700dc574068
+source-git-commit: b33f5ed707a1377daad51191cc6dd9f093138258
 workflow-type: tm+mt
 source-wordcount: '172'
 ht-degree: 0%
@@ -22,7 +22,7 @@ ht-degree: 0%
 >다음과 같은 경우 웹 캠페인이 겹칩니다.
 >
 >* 두 개 이상의 위젯 및/또는 대화 상자 캠페인이 동일한 페이지에서 동시에 반응합니다.
->* 동일한 영역 ID를 가진 둘 이상의 [인 존] 영역이 동일한 웹 페이지에서 동시에 반응합니다.
+>* 동일한 영역 ID를 사용하는 둘 이상의 [동일한 영역 내] 영역이 동일한 웹 페이지에서 동시에 반응합니다.
 
 >
 >
@@ -34,7 +34,7 @@ ht-degree: 0%
 
    >[!NOTE]
    >
-   >원하는 웹 캠페인을 쉽게 찾으려면 [필터 기능](filter-web-campaigns.md)을 사용하십시오.
+   >원하는 웹 캠페인을 쉽게 찾으려면 [필터 기능](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/filter-web-campaigns.md)을 사용하십시오.
 
 1. 캠페인 편집 페이지에서 우선순위 점수(999 = 가장 높은 우선순위 1 = 가장 낮은 우선순위)를 설정합니다.
 
