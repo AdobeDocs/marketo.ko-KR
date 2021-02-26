@@ -3,7 +3,7 @@ unique-page-id: 2949154
 description: 웹 캠페인 레이블 지정 - 마케팅 문서 - 제품 설명서
 title: 웹 캠페인에 레이블 지정
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: b33f5ed707a1377daad51191cc6dd9f093138258
 workflow-type: tm+mt
 source-wordcount: '155'
 ht-degree: 0%
@@ -17,13 +17,13 @@ ht-degree: 0%
 
 ## 웹 캠페인 {#add-a-label-to-a-web-campaign}에 레이블 추가
 
-1. 웹 개인화에 로그인하여 웹 캠페인 영역으로 이동합니다.
+1. 웹 개인화에 로그인하고 웹 캠페인 영역으로 이동합니다.
 
    ![](assets/web-campaigns-hand.jpg)
 
    >[!NOTE]
    >
-   >원하는 캠페인을 쉽게 찾으려면 [필터 기능](filter-web-campaigns.md)을 사용하십시오.
+   >원하는 캠페인을 쉽게 찾으려면 [필터 기능](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/filter-web-campaigns.md)을 사용하십시오.
 
 1. 레이블을 사용하여 태깅할 캠페인을 선택합니다.
 
@@ -31,11 +31,11 @@ ht-degree: 0%
 
 1. 원하는 레이블 이름을 입력하고 새로 만들기를 클릭합니다.
 
->[!TIP]
->
->레이블이 이미 있는 경우 레이블을 선택하고 새 레이블을 만들지 마십시오.
+   >[!TIP]
+   >
+   >레이블이 이미 있는 경우 레이블을 선택하고 새 레이블을 만들지 마십시오.
 
-![](assets/web-campaigns-set-label.jpg)
+   ![](assets/web-campaigns-set-label.jpg)
 
 멋지다! 이제 레이블을 만들어 캠페인에 지정하는 방법을 알 수 있습니다.
 
@@ -51,9 +51,4 @@ ht-degree: 0%
 
 >[!MORELIKETHIS]
 >
->* [세그먼트 ](create-a-new-in-zone-web-campaign.md) [레이블 지정](../../../product-docs/web-personalization/using-web-segments/label-your-segment.md)
-
->
-
-
-
+>[세그먼트 레이블 지정](/help/marketo/product-docs/web-personalization/using-web-segments/label-your-segment.md)
