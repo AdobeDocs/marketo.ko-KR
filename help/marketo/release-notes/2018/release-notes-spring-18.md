@@ -3,9 +3,9 @@ unique-page-id: 14745959
 description: 릴리스 노트 -18년 봄 - Marketing To Docs - 제품 설명서
 title: 릴리스 노트 -18년 봄
 translation-type: tm+mt
-source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
+source-git-commit: b33f5ed707a1377daad51191cc6dd9f093138258
 workflow-type: tm+mt
-source-wordcount: '485'
+source-wordcount: '481'
 ht-degree: 0%
 
 ---
@@ -37,7 +37,7 @@ ht-degree: 0%
 
 ## Marketo Sky 열기 베타 {#marketo-sky-open-beta}
 
-[Marketo Sky Open Beta](https://help.marketo.com/hc/en-us)
+[Marketo Sky Open Beta](https://help.marketo.com/)
 
 다음과 같은 100개 이상의 생산성을 높여주는 새로운 기능을 이용할 수 있는 Marketo Sky 오픈 베타를 선택하십시오.
 
@@ -69,11 +69,11 @@ ht-degree: 0%
 
 최적화된 탐색 및 향상된 워크플로우를 통해 프로그램 성공 기준을 한눈에 파악할 수 있고 프로그램 세부 정보에 액세스할 수 있습니다.
 
-## 내용<sup>AI</sup> {#contentai}
+## ContentAI {#contentai}
 
 [목표 설정](/help/marketo/product-docs/predictive-content/getting-started/algorithm-goal-settings.md)
 
-더 많은 보기, 클릭 수 또는 전환을 유도하도록 컨텐트<sup>AI</sup> 최적화 알고리즘의 목표를 설정합니다.
+ContentAI 최적화 알고리즘의 목표를 설정하여 더 많은 보기, 클릭 또는 전환을 유도합니다.
 
 ## 통합 및 API {#integration-and-apis}
 
