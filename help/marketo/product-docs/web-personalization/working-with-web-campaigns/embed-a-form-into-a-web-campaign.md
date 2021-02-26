@@ -3,9 +3,9 @@ unique-page-id: 10095554
 description: 웹 캠페인에 양식 포함 - 마케팅 문서 - 제품 설명서
 title: 웹 캠페인에 양식 포함
 translation-type: tm+mt
-source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
+source-git-commit: b33f5ed707a1377daad51191cc6dd9f093138258
 workflow-type: tm+mt
-source-wordcount: '351'
+source-wordcount: '339'
 ht-degree: 0%
 
 ---
@@ -17,9 +17,7 @@ ht-degree: 0%
 
 1. 승인된 양식을 마우스 오른쪽 단추로 클릭합니다. **포함 코드**&#x200B;를 선택합니다.
 
-   ** ![](assets/image2015-12-16-10-3a58-3a39.png)
-
-   **
+   ![](assets/image2015-12-16-10-3a58-3a39.png)
 
 1. 코드 복사를 참조하십시오.
 
@@ -31,9 +29,7 @@ ht-degree: 0%
 
 1. **새 캠페인 만들기**&#x200B;를 클릭합니다.
 
-   ** ![](assets/create-new-web-campaign-hand-1.jpg)
-
-   **
+   ![](assets/create-new-web-campaign-hand-1.jpg)
 
 1. 리치 텍스트 편집기에서 HTML 아이콘을 클릭합니다.
 
@@ -44,6 +40,7 @@ ht-degree: 0%
    ![](assets/six-1.png)
 
 1. 양식이 편집기 보기에는 표시되지 않지만 미리 보기를 통해 캠페인에서 어떻게 렌더링되는지 확인할 수 있습니다.
+
 1. **시작**&#x200B;을 클릭하여 캠페인을 시작합니다.
 
    >[!NOTE]
@@ -58,7 +55,7 @@ ht-degree: 0%
 * 캠페인 설정에서 대화 상자 또는 위젯 색상 변경
 * 스크립트에 CSS 코드 추가
 
-양식 테마의 CSS를 편집하려면 [이 문서](../../../product-docs/demand-generation/forms/form-design/edit-the-css-of-a-form-theme.md)를 참조하십시오.
+양식 테마의 CSS를 편집하려면 [이 문서](/help/marketo/product-docs/demand-generation/forms/form-design/edit-the-css-of-a-form-theme.md)를 참조하십시오.
 
 캠페인 설정에서 대화 상자 또는 위젯 색상을 변경하려면:
 
@@ -86,11 +83,7 @@ ht-degree: 0%
 
 >[!MORELIKETHIS]
 >
->* [양식 테마의 CSS 편집](https://docs.marketo.com/display/public/DOCS/Edit+the+CSS+of+a+Form+Theme)
+>* [양식 테마의 CSS 편집](/help/marketo/product-docs/demand-generation/forms/form-design/edit-the-css-of-a-form-theme.md)
 >* [후속 랜딩 페이지 없이 감사 메시지 표시](https://developers.marketo.com/blog/show-thank-you-message-without-a-follow-up-landing-page/)
 >* [Forms 2.0](https://developers.marketo.com/documentation/websites/forms-2-0/)
-
->
-
-
 
