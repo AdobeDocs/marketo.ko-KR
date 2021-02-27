@@ -3,9 +3,9 @@ unique-page-id: 2951093
 description: 릴리스 노트 - 2013년 7월 - Marketing Docs - 제품 설명서
 title: 릴리스 노트 - 2013년 7월
 translation-type: tm+mt
-source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
+source-git-commit: 029d8b419ba5078980b4fde9890bdb35194bf264
 workflow-type: tm+mt
-source-wordcount: '234'
+source-wordcount: '198'
 ht-degree: 0%
 
 ---
@@ -13,9 +13,7 @@ ht-degree: 0%
 
 # 릴리스 노트:2013년 7월 {#release-notes-july}
 
-7월 26일 금요일에 롤아웃할 예정인 7월 릴리스에 다음 기능이 포함되어 있습니다.  기능을 사용할 수 있는지 확인하려면 [Marketing Edition](https://docs.marketo.com/display/docs/assets/pricing.php)을(를) 확인하십시오.
-
-릴리스 후 각 기능에 대한 자세한 도움말 문서를 보려면 커뮤니티의 [새 릴리스](release-notes-december-2013.md) 탭을 확인하십시오!
+7월 26일 금요일에 롤아웃할 예정인 7월 릴리스에 다음 기능이 포함되어 있습니다.
 
 ## 대시보드 {#exhausted-content-widget-on-the-dashboard}의 완료된 컨텐츠 위젯
 
@@ -44,4 +42,3 @@ ht-degree: 0%
 ## WYSIWYG 편집기에서 맞춤법 검사 변경 사항 {#changes-to-spell-check-in-wysiwyg-editor}
 
 맞춤법 검사를 위해 WYSIWYG 편집기에서 사용한 서비스가 중단되었습니다. 대체를 찾을 때까지 편집기에서 맞춤법 검사 단추를 제거했습니다.
-
