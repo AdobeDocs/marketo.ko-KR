@@ -3,9 +3,9 @@ unique-page-id: 2951044
 description: 릴리스 노트 - 2014년 5월 - Marketing Docs - 제품 설명서
 title: 릴리스 노트 - 2014년 5월
 translation-type: tm+mt
-source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
+source-git-commit: 029d8b419ba5078980b4fde9890bdb35194bf264
 workflow-type: tm+mt
-source-wordcount: '476'
+source-wordcount: '460'
 ht-degree: 0%
 
 ---
@@ -17,11 +17,11 @@ ht-degree: 0%
 
 ## 작업 영역 삭제 {#delete-workspace}
 
-이제 [사용하지 않은 작업 공간](../../product-docs/administration/workspaces-and-person-partitions/delete-a-workspace.md)을 삭제할 수 있습니다. 작업 영역을 삭제하기 전에 모든 에셋을 다른 작업 영역으로 이동해야 합니다.
+이제 [사용하지 않은 작업 공간](/help/marketo/product-docs/administration/workspaces-and-person-partitions/delete-a-workspace.md)을 삭제할 수 있습니다. 작업 영역을 삭제하기 전에 모든 에셋을 다른 작업 영역으로 이동해야 합니다.
 
 ## 첫 번째 캐스트 예약 {#schedule-first-cast}
 
-참여 프로그램에서 [첫 번째 캐스팅의 날짜를 ](../../product-docs/email-marketing/drip-nurturing/engagement-program-streams/set-stream-cadence.md)로 예약할 수 있습니다. 예를 들어 2주마다 캐디를 지정하고 첫 번째 캐스트의 날짜를 선택합니다.
+참여 프로그램에서 [첫 번째 캐스팅의 날짜를 ](/help/marketo/product-docs/email-marketing/drip-nurturing/engagement-program-streams/set-stream-cadence.md)로 예약할 수 있습니다. 예를 들어 2주마다 캐디를 지정하고 첫 번째 캐스트의 날짜를 선택합니다.
 
 ![](assets/image2014-9-22-11-3a57-3a36.png)
 
@@ -33,13 +33,13 @@ ht-degree: 0%
 
 ## 텍스트 이메일의 링크 추적 {#link-tracking-in-text-emails}
 
-[이메일 텍스트 ](../../product-docs/email-marketing/general/functions-in-the-editor/add-tracked-links-to-a-text-email.md) 버전에서 URL 주위에 이중 정사각형 대괄호를 추가하여 링크를 다시 지정 Marketing to 추적 링크로 변환해야 하는 시기를 표시합니다.
+[이메일 텍스트 ](/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/add-tracked-links-to-a-text-email.md) 버전에서 URL 주위에 이중 정사각형 대괄호를 추가하여 링크를 다시 지정 Marketing to 추적 링크로 변환해야 하는 시기를 표시합니다.
 
 >[!NOTE]
 >
 >**예**
 >
->[[https://www.marketo.com](https://www.marketo.com)]
+>`[[https://www.marketo.com]]`
 
 기본적으로 이메일의 텍스트 버전에서는 링크가 추적되지 않습니다. 링크를 추적 링크로 변환해야 하는 시기를 나타내기 위해 이 새 구문을 추가합니다. HTML 링크의 동작은 변경되지 않습니다.  추적된 링크를 이메일에 추가하려면:
 
@@ -59,7 +59,7 @@ ht-degree: 0%
 
 ## 캠페인 {#abort-campaign} 중단
 
-당황하지 마! 오류가 발견되면 새 [캠페인 중단](../../product-docs/core-marketo-concepts/smart-campaigns/using-smart-campaigns/abort-a-smart-campaign.md) 단추를 사용하여 트랙의 캠페인을 즉시 중지합니다. 캠페인이 중지되면 각 흐름 단계에서 보류 중인 리드 수를 개괄적으로 알려주는 알림이 수신됩니다.
+당황하지 마! 오류가 발견되면 새 [캠페인 중단](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/using-smart-campaigns/abort-a-smart-campaign.md) 단추를 사용하여 트랙의 캠페인을 즉시 중지합니다. 캠페인이 중지되면 각 흐름 단계에서 보류 중인 리드 수를 개괄적으로 알려주는 알림이 수신됩니다.
 
 ## 일본어, 포르투갈어 및 스페인어(Sales Insight) {#sales-insight-in-japanese-portuguese-and-spanish}
 
@@ -69,11 +69,11 @@ AppExchange에서 최신 버전의 Sales Insight를 다운로드할 수 있으�
 
 ## 프로그램 회원 분석의 프로그램 상태 및 성공 일정 {#program-status-and-success-timeframe-in-program-membership-analysis}
 
-각 프로그램 상태](../../product-docs/reporting/revenue-cycle-analytics/program-analytics/build-a-program-membership-analysis-report-that-lists-leads.md)에 있는 [의 회원 수와 각 상태로 변경된 시점을 볼 수 있습니다(프로그램 성공을 달성한 날짜 포함).
+각 프로그램 상태](/help/marketo/product-docs/reporting/revenue-cycle-analytics/program-analytics/build-a-program-membership-analysis-report-that-lists-leads.md)에 있는 [의 회원 수와 각 상태로 변경된 시점을 볼 수 있습니다(프로그램 성공을 달성한 날짜 포함).
 
 ## 이메일 분석에서 A/B 테스트 이메일 {#a-b-test-emails-in-email-analysis}
 
-이메일 분석의 각 [A/B 테스트 이메일 변형](../../product-docs/reporting/revenue-cycle-analytics/email-analysis/build-an-email-analysis-report-that-shows-program-information.md)에 대해 보고합니다.
+이메일 분석의 각 [A/B 테스트 이메일 변형](/help/marketo/product-docs/reporting/revenue-cycle-analytics/email-analysis/build-an-email-analysis-report-that-shows-program-information.md)에 대해 보고합니다.
 
 ## Analytics 패키징 변경 사항 {#analytics-packaging-changes}
 
@@ -81,9 +81,4 @@ AppExchange에서 최신 버전의 Sales Insight를 다운로드할 수 있으�
 
 ## 모바일 플랫폼 정보 {#mobile-platform-info}
 
-[모바일 ](../../product-docs/reporting/basic-reporting/report-activity/build-a-people-performance-report-with-mobile-platform-columns.md) 장치에서 리드를 시작하고 이메일을 클릭하는 리드를 세그먼트화하고 트리거합니다.
-
->[!NOTE]
->
->이전 [마케팅 릴리스 노트](https://docs.marketo.com/display/docs/release+notes) 확인
-
+[모바일 ](/help/marketo/product-docs/reporting/basic-reporting/report-activity/build-a-people-performance-report-with-mobile-platform-columns.md) 장치에서 리드를 시작하고 이메일을 클릭하는 리드를 세그먼트화하고 트리거합니다.
