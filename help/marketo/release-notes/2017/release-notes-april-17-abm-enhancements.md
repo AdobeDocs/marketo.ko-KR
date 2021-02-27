@@ -3,7 +3,7 @@ unique-page-id: 12977326
 description: 릴리스 노트 -4월 17일 ABM 개선 사항 - Marketing To Docs - 제품 설명서
 title: 릴리스 노트 - 2017년 4월 17일 개선 사항
 translation-type: tm+mt
-source-git-commit: 96cc6a30c63c8e8dca793a52e4bf7ecaef8c08dc
+source-git-commit: 029d8b419ba5078980b4fde9890bdb35194bf264
 workflow-type: tm+mt
 source-wordcount: '128'
 ht-degree: 0%
@@ -30,4 +30,3 @@ Marketing To ABM은 CRM과 관련된 동작을 변경하고 있습니다. 앞으
 이제 계정 목록을 기반으로 이름이 지정된 계정을 쉽게 필터링할 수 있습니다.
 
 ![](assets/named-account-filters.png)
-
