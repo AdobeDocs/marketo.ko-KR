@@ -3,9 +3,9 @@ unique-page-id: 4720758
 description: 릴리스 노트 - 2015년 1월 - Marketing Docs - 제품 설명서
 title: 릴리스 노트 - 2015년 1월
 translation-type: tm+mt
-source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
+source-git-commit: 029d8b419ba5078980b4fde9890bdb35194bf264
 workflow-type: tm+mt
-source-wordcount: '385'
+source-wordcount: '361'
 ht-degree: 0%
 
 ---
@@ -17,17 +17,13 @@ ht-degree: 0%
 
 ## 마케팅 자동화 업데이트 {#marketing-automation-updates}
 
-**Rick DeCosta의 새로운 사진!**
-
-Rick은 SmartBear의 Marketing To 고객이며 [믿을 수 없는 사진 컬렉션](https://www.flickr.com/photos/rickdecosta)을 보유하고 있습니다. 확인해!
-
-## 모바일 친화적인 랜딩 페이지 {#mobile-friendly-landing-pages}
+**모바일 친화적인 랜딩 페이지**
 
 이제 랜딩 페이지 편집기 내에서 랜딩 페이지](/help/marketo/product-docs/demand-generation/landing-pages/free-form-landing-pages/add-a-mobile-view-for-your-free-form-landing-page.md)에 대한 모바일 보기를 만들 수 있습니다. [ 디바이스 유형에 상관없이 메시지를 효과적으로 전달하고 이동 중에도 간편하게 사용할 수 있도록 컨텐츠를 맞춤화하여 참여를 높일 수 있습니다. 이 기능은 출시 후 주 동안 점진적으로 롤아웃됩니다.
 
-`<iframe width="420" height="315" src="//www.youtube-nocookie.com/embed/aPQHlG2X6c0" frameborder="0" allowfullscreen></iframe>`
+[-랜딩 페이지 연습 비디오-](https://youtu.be/aPQHlG2X6c0)
 
-**새로운 ReST API 호출**
+**새 Rest API 호출**
 
 리드 및 활동 ReST API에 대한 3개의 새로운 호출:
 
@@ -57,9 +53,9 @@ Rick은 SmartBear의 Marketing To 고객이며 [믿을 수 없는 사진 컬렉�
 
 ![](assets/image2015-1-14-11-3a12-3a16.png)
 
-업데이트된 RTP 태그 옵션
+**업데이트된 RTP 태그 옵션**
 
-[계정 ](https://docs.marketo.com/display/docs/rtp+tag+implementation) 설정 아래의 RTP 태그 옵션이 다음을 포함하도록 업데이트되었습니다.
+계정 설정의 RTP 태그 옵션이 다음과 같이 업데이트되었습니다.
 
 1. CDN 및 비동기(권장 태그)
 1. CDN 및 동기(고속)
