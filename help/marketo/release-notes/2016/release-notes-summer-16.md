@@ -3,9 +3,9 @@ unique-page-id: 11380218
 description: 릴리스 노트 -16년 여름 - Marketing To Docs - 제품 설명서
 title: 릴리스 노트 -16년 여름
 translation-type: tm+mt
-source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
+source-git-commit: 029d8b419ba5078980b4fde9890bdb35194bf264
 workflow-type: tm+mt
-source-wordcount: '804'
+source-wordcount: '783'
 ht-degree: 0%
 
 ---
@@ -29,7 +29,7 @@ Marketing To Account Based Marketing은 단일 플랫폼에서 모든 필수 기
 >
 >ABM은 Marketing To 구독에 대한 추가 기능으로 사용할 수 있으므로 해당 영업 담당자에게 문의하여 구현하도록 하십시오.
 
-## [감사 추적](https://docs.marketo.com/display/docs/audit+trail) {#audit-trail}
+## [감사 추적](/help/marketo/product-docs/administration/audit-trail/audit-trail-overview.md) {#audit-trail}
 
 감사 추적은 Marketing To 구독 내에서 수행된 변경 사항의 포괄적인 내역을 제공합니다. 사용자 및 관리자 간에 책임을 지고, 예기치 않은 동작의 원인을 식별하며, 누가 언제 무엇을 하고 있는지 알 수 있는 보안을 제공합니다. 이 정보는 언제든지 사용할 수 있으며 다음과 같은 질문에 대답하는 데 사용할 수 있습니다.
 
@@ -39,7 +39,7 @@ Marketing To Account Based Marketing은 단일 플랫폼에서 모든 필수 기
 
 ![](assets/audit-trail.png)
 
-## [Marketing-Video SMS LaunchPoint 통합](https://docs.marketo.com/display/docs/vibes+sms+messages) {#marketo-vibes-sms-launchpoint-integration}
+## [Marketing-Video SMS LaunchPoint 통합](/help/marketo/product-docs/mobile-marketing/vibes-sms-messages/create-a-vibes-sms-message.md) {#marketo-vibes-sms-launchpoint-integration}
 
 Marketing To에서 바로 SMS 메시지를 손쉽게 만들 수 있습니다. 풍부한 Marketing To 데이터를 사용하여 메시지를 개인화하고 타깃팅할 수 있으며 SMS 메시지 대시보드를 통해 성과를 손쉽게 모니터링할 수 있습니다.
 
@@ -72,7 +72,7 @@ Marketing To에서 바로 SMS 메시지를 손쉽게 만들 수 있습니다. �
 
 이제 이미지 삽입 환경의 &quot;외부 URL&quot; 영역에서 토큰을 사용할 수 있습니다. `{{my.tokens}}`으로 이미지를 지정한 경우 이제 이메일 편집기 2.0 내에서 이러한 토큰을 참조할 수 있습니다. 이미지는 여전히 이메일 편집기 2.0 캔버스에서 끊어진 상태로 표시됩니다. 그러나 이메일을 보내기 전에 미리 보기 및 샘플 보내기에서 렌더링된 모양을 확인할 수 있습니다.
 
-## [여러 브랜딩 도메인](https://docs.marketo.com/display/docs/add+multiple+branding+domains) {#multiple-branding-domains}
+## 여러 브랜딩 도메인 {#multiple-branding-domains}
 
 이메일 추적 링크는 단일 브랜드 도메인으로만 브랜드화할 수 있었던 시대는 지났습니다. 이제 여러 브랜딩 도메인을 추가하여 소비자의 신뢰도를 높일 수 있고 브랜드에 집중할 수 있는 보다 간소화된 모양을 만들 수 있으며 이메일 전달 가능성을 향상시키고 각 이메일의 추적 링크에 사용할 브랜드 도메인을 이메일 기준으로 선택할 수 있습니다.
 
