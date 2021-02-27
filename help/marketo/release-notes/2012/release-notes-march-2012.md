@@ -3,9 +3,9 @@ unique-page-id: 2951122
 description: 릴리스 노트 - 2012년 3월 - Marketing Docs - 제품 설명서
 title: 릴리스 노트 - 2012년 3월
 translation-type: tm+mt
-source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
+source-git-commit: 029d8b419ba5078980b4fde9890bdb35194bf264
 workflow-type: tm+mt
-source-wordcount: '261'
+source-wordcount: '244'
 ht-degree: 0%
 
 ---
@@ -13,13 +13,7 @@ ht-degree: 0%
 
 # 릴리스 노트:2012년 3월 {#release-notes-march}
 
->[!NOTE]
->
->**자세히 알아보기**
->
->다른 릴리스의 경우 [릴리스 노트](https://docs.marketo.com/display/docs/release+notes) 깊이 검색을 참조하십시오.
->
->## 내 토큰 확인 {#resolve-my-tokens}
+## 내 토큰 확인 {#resolve-my-tokens}
 
 내 토큰(프로그램 토큰)은 이메일을 미리 볼 때, 테스트 이메일을 보낼 때, 그리고 단일 흐름 작업을 통해 로컬 이메일을 보낼 때 확인됩니다. 더 이상 프로그램 내에서 내 토큰을 테스트하기 위해 스마트 캠페인을 만들지 않아도 됩니다!
 
