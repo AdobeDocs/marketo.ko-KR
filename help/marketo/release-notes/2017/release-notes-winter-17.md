@@ -3,9 +3,9 @@ unique-page-id: 12255606
 description: 릴리스 노트 -17년 겨울 - 마케팅 문서 - 제품 설명서
 title: 릴리스 노트 -17년 겨울
 translation-type: tm+mt
-source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
+source-git-commit: 029d8b419ba5078980b4fde9890bdb35194bf264
 workflow-type: tm+mt
-source-wordcount: '400'
+source-wordcount: '387'
 ht-degree: 0%
 
 ---
@@ -37,7 +37,7 @@ ht-degree: 0%
 
 ![](assets/web-personalization-csv-download-hand.png)
 
-## [현지화](https://docs.marketo.com/display/docs/web+personalization) {#localization}
+## 현지화 {#localization}
 
 웹 개인화, 예측 컨텐츠 및 이메일 인사이트 앱은 이제 일본어, 독일어 및 스페인어로 제공됩니다. [언어 및 로케일](/help/marketo/product-docs/administration/settings/select-your-language-locale-and-time-zone.md)을 선택하여 해당 언어로 컨텐트를 봅니다.
 
@@ -71,7 +71,7 @@ ht-degree: 0%
 
 ![](assets/predictive-content-analytics-by-source.png)
 
-**[예측 컨텐츠 편집기](https://docs.marketo.com/display/docs/edit+predictive+content)**
+**예측 컨텐츠 편집기**
 
 이메일, 리치 미디어, 추천 막대 등 소스별로 컨텐츠 준비를 분할하는 향상된 편집 경험과 레이아웃을 제공합니다.
 
