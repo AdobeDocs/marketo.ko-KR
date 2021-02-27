@@ -3,7 +3,7 @@ unique-page-id: 2951103
 description: 릴리스 노트 - 2013년 2월 - Marketing Docs - 제품 설명서
 title: 릴리스 노트 - 2013년 2월
 translation-type: tm+mt
-source-git-commit: 96cc6a30c63c8e8dca793a52e4bf7ecaef8c08dc
+source-git-commit: 029d8b419ba5078980b4fde9890bdb35194bf264
 workflow-type: tm+mt
 source-wordcount: '273'
 ht-degree: 0%
@@ -33,4 +33,4 @@ Marketing에서 게시한 Facebook 탭은 모바일 장치를 감지하여 랜�
 
 ## 제공 예정:여러 모델 지원 {#coming-soon-support-for-multiple-models}
 
-Adobe는 향후 릴리스에서 다양한 수익 주기 모델을 지원하고 #1 RCA에 대한 아이디어를에 반영할 수 있는 기반을 마련하고 있습니다. 이 릴리스에서는 모델 및 스테이지 선택을 지원하기 위해 [스마트 목록 필터 및 흐름 단계의 선택 항목 추가](../../product-docs/reporting/revenue-cycle-analytics/revenue-cycle-models/find-all-leads-in-a-revenue-cycle-model.md)를 포함한 일부 변경 사항이 표시됩니다. 또한 리드 매출 단계 및 리드 매출 주기 모델 필드를 스마트 목록 리드 그리드 탭 밖으로 이동하는 중입니다.
+Adobe는 향후 릴리스에서 다양한 수익 주기 모델을 지원하고 #1 RCA에 대한 아이디어를에 반영할 수 있는 기반을 마련하고 있습니다. 이 릴리스에서는 모델 및 스테이지 선택을 지원하기 위해 [스마트 목록 필터 및 흐름 단계의 선택 항목 추가](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-cycle-models/find-all-leads-in-a-revenue-cycle-model.md)를 포함한 일부 변경 사항이 표시됩니다. 또한 리드 매출 단계 및 리드 매출 주기 모델 필드를 스마트 목록 리드 그리드 탭 밖으로 이동합니다.
