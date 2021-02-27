@@ -3,9 +3,9 @@ unique-page-id: 2951054
 description: 릴리스 노트 - 2013년 10월 - Marketing Docs - 제품 설명서
 title: 릴리스 노트 - 2013년 10월
 translation-type: tm+mt
-source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
+source-git-commit: 4124b2b8a41de486f35cb046ae883b301d20c36c
 workflow-type: tm+mt
-source-wordcount: '161'
+source-wordcount: '146'
 ht-degree: 0%
 
 ---
@@ -13,11 +13,11 @@ ht-degree: 0%
 
 # 릴리스 노트:2013년 10월 {#release-notes-october}
 
-다음 기능은 2013년 10월 릴리스에 포함되어 있습니다. 기능을 사용할 수 있는지 확인하려면 [Marketing Edition](https://docs.marketo.com/display/docs/assets/pricing.php)을 확인하십시오.
+다음 기능은 2013년 10월 릴리스에 포함되어 있습니다.
 
 ## templates.markto.com {#templates-marketo-com}
 
-[Templates.marketing.](https://templates.marketo.com) com 마케팅 프로그램 라이브러리에서 다운로드할 수 있는 이메일 및 랜딩 페이지 템플릿(반응형 모바일 이메일 템플릿 포함)을 쇼케이프합니다. 템플릿을 매월 추가하고 자주 확인하겠습니다!
+[Templates.marketing.](/help/marketo/product-docs/demand-generation/landing-pages/landing-page-templates/guided-landing-page-template-list.md) com 마케팅 프로그램 라이브러리에서 다운로드할 수 있는 이메일 및 랜딩 페이지 템플릿(반응형 모바일 이메일 템플릿 포함)을 쇼케이프합니다. 템플릿을 매월 추가하고 자주 확인하겠습니다!
 
 ## developers.markto.com {#developers-marketo-com}
 
@@ -29,4 +29,4 @@ ht-degree: 0%
 
 ## Android 태블릿 이벤트 체크인 앱 {#android-tablet-event-check-in-app}
 
-[Google Play](https://play.google.com/store/apps/details?id=com.marketo.eventcheckin&amp;hl=en)에서 사용할 수 있는 새로운 [Android 기반 체크인 앱](../../product-docs/core-marketo-concepts/mobile-apps/event-check-in/check-people-into-your-event-from-your-tablet.md)을 사용하여 등록자를 이벤트에 체크 인합니다.
+[Google Play](https://play.google.com/store/apps/details?id=com.marketo.eventcheckin&amp;hl=en)에서 사용할 수 있는 새로운 [Android 기반 체크인 앱](/help/marketo/product-docs/core-marketo-concepts/mobile-apps/event-check-in/check-people-into-your-event-from-your-tablet.md)을 사용하여 등록자를 이벤트에 체크 인합니다.
