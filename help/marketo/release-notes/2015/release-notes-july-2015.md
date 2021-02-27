@@ -3,9 +3,9 @@ unique-page-id: 8783189
 description: 릴리스 노트 - 2015년 7월 - Marketing Docs - 제품 설명서
 title: 릴리스 노트 - 2015년 7월
 translation-type: tm+mt
-source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
+source-git-commit: 029d8b419ba5078980b4fde9890bdb35194bf264
 workflow-type: tm+mt
-source-wordcount: '326'
+source-wordcount: '286'
 ht-degree: 0%
 
 ---
@@ -22,7 +22,7 @@ ht-degree: 0%
 ## 리치 텍스트 편집기 업데이트 {#rich-text-editor-update}
 
 간소화된 텍스트 서식, 이미지 편집, 링크 삽입, HTML 편집 등 최신 스타일과 느낌으로 텍스트 편집기를 업데이트했습니다. 이제 HTML 편집기에 최소한의 유효성 검사가 적용되어 보다 제한적인 코드 편집을 허용할 수 있습니다.
-`<iframe width="420" height="315" src="https://www.youtube.com/embed/LmmBN6IQrII" frameborder="0" allowfullscreen></iframe>` 이 업데이트는 7월 릴리스 후 며칠 이내에 자동으로 릴리스됩니다. 그런 다음 편집기의 새 버전과 이전 버전 간을 **관리 > 이메일 > 편집기 설정 편집**&#x200B;에서 전환할 수 있습니다. 새로운 버전의 텍스트 편집기에 문제가 있는 경우 알고 싶습니다! [`[email protected]`](https://docs.marketo.com/cdn-cgi/l/email-protection#d0bab3bfbfa0b5a2bdb1be90bdb1a2bbb5a4bffeb3bfbd)에 간단한 설명을 보내주십시오.
+`<iframe width="420" height="315" src="https://www.youtube.com/embed/LmmBN6IQrII" frameborder="0" allowfullscreen></iframe>` 이 업데이트는 7월 릴리스 후 며칠 이내에 자동으로 릴리스됩니다. 그런 다음 편집기의 새 버전과 이전 버전 간을 **관리 > 이메일 > 편집기 설정 편집**&#x200B;에서 전환할 수 있습니다.
 
 ![](assets/image2015-7-10-9-3a42-3a44.png)
 
@@ -54,4 +54,4 @@ ht-degree: 0%
 
 ## 이메일 배달 액세스 가능 {#access-email-deliverability}
 
-**Access Email Delivery Tool:**이 새로운 권한을 통해 관리자는 사용자에게 이메일 배달 가능 도구에 대한 액세스 권한을 부여할 수 있습니다.
+**이메일 전달 도구** 액세스:이 새로운 권한을 통해 관리자는 사용자에게 이메일 전달 가능 도구에 대한 액세스 권한을 부여할 수 있습니다.
