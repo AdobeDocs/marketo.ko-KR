@@ -3,9 +3,9 @@ unique-page-id: 11370952
 description: 릴리스 노트 -16년 봄 - Marketing To Docs - 제품 설명서
 title: 릴리스 노트 -16년 봄
 translation-type: tm+mt
-source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
+source-git-commit: 9dd108de97be01acf00d42be90b2661d153a4265
 workflow-type: tm+mt
-source-wordcount: '837'
+source-wordcount: '799'
 ht-degree: 0%
 
 ---
@@ -15,7 +15,7 @@ ht-degree: 0%
 
 2016년 봄 릴리스에는 다음 기능이 포함됩니다. 각 기능에 대한 자세한 아티클을 보려면 제목 링크를 클릭하십시오.
 
-## [이메일 인사이트](https://docs.marketo.com/display/docs/email+insights) {#email-insights}
+## [이메일 인사이트](/help/marketo/product-docs/reporting/email-insights/email-insights-overview.md) {#email-insights}
 
 이메일 인사이트는 Project Orion의 일부로 신속하게 성과를 달성할 수 있도록 처음부터 끝까지 재설계된 새로운 집계 데이터 이메일 분석 경험입니다. 이메일 마케터의 요구 사항과 워크플로우에 맞게 최적화된 완전히 새로운 유저 인터페이스(UI) 디자인을 제공합니다.
 
@@ -31,7 +31,7 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->템플릿 선택기로 이메일 편집기 2.0(6월 3일부터)이 점진적으로 롤아웃됩니다. 6월 30일까지 롤아웃을 완료하겠습니다. 이메일 인사이트와 달리 액세스 권한이 있으면 알림이 표시되지 않습니다. 해당 작업을 확인하려면 [이 문서](https://docs.marketo.com/pages/viewpage.action?pageId=11373011)의 단계를 따르십시오.
+>템플릿 선택기로 이메일 편집기 2.0(6월 3일부터)이 점진적으로 롤아웃됩니다. 6월 30일까지 롤아웃을 완료하겠습니다. 이메일 인사이트와 달리 액세스 권한이 있으면 알림이 표시되지 않습니다. 해당 작업을 확인하려면 [이 문서](/help/marketo/product-docs/email-marketing/general/email-editor-2/transitioning-to-email-editor-2-0.md)의 단계를 따르십시오.
 
 ![](assets/5-29-home-starter-templates.png)
 
@@ -53,17 +53,13 @@ Marketing To에서 앱에 사용할 멋진 인앱 메시지를 만들 수 있습
 
 ![](assets/image2016-5-16-15-3a41-3a17.png)
 
-## [사용자 지정 활동](https://docs.marketo.com/display/docs/marketo+custom+activities) {#custom-activities}
-
-이제 마케팅 관리자는 Marketing to 사용자 지정 활동 정의 모델을 통해 사용자 지정 활동 유형을 정의하고 관리할 수 있습니다. 이제 관리자는 Marketing to 사용자 지정 개체 모델러와 유사하게, 정확한 비즈니스 요구에 맞게 데이터 모델을 확장할 수 있습니다. 이 기능을 사용하는 방법에 대한 자세한 내용은 [Marketing 설명서 사이트](https://docs.marketo.com/display/public/DOCS/Marketo+Custom+Activities)에서 확인할 수 있습니다.
-
 ## [랜딩 페이지, 랜딩 페이지 템플릿 및 양식 API](https://developers.marketo.com/blog/spring-2016-updates/) {#landing-page-landing-page-template-and-form-apis}
 
 Marketing REST API는 이제 마케팅 랜딩 페이지, 랜딩 페이지 템플릿 및 양식에 대한 제어를 지원합니다. 이제 사용자는 Marketing to REST API를 통해 이러한 자산을 직접 만들고, 업데이트하고, 승인하고, 삭제할 수 있습니다.
 
 ## [API 액세스용 IP 허용 목록에 추가](/help/marketo/product-docs/administration/additional-integrations/create-an-allowlist-for-ip-based-api-access.md) {#ip-allowlisting-for-api-access}
 
-Marketing to 사용자 로그인에 대한 IP 허용 목록에 추가 기능과 유사하게, 이제 마케팅 관리자가 Marketing SOAP 및 REST API에 액세스할 수 있는 IP 주소허용 목록에 추가하다를 설정하여 인증되지 않은 IP 주소에서의 액세스를 차단할 수 있습니다. 이렇게 하면 Marketing To 인스턴스에 보안 레이어가 추가되어 API 액세스가 조직의 네트워크 내에서만 발생할 수 있습니다. 이 설정 방법에 대한 자세한 내용은 [Marketing 설명서 사이트](https://docs.marketo.com/display/public/DOCS/Create+a+Whitelist+for+IP-Based+API+Access)에서 확인할 수 있습니다.
+Marketing to 사용자 로그인에 대한 IP 허용 목록에 추가 기능과 유사하게, 이제 마케팅 관리자가 Marketing SOAP 및 REST API에 액세스할 수 있는 IP 주소허용 목록에 추가하다를 설정하여 인증되지 않은 IP 주소에서의 액세스를 차단할 수 있습니다. 이렇게 하면 Marketing To 인스턴스에 보안 레이어가 추가되어 API 액세스가 조직의 네트워크 내에서만 발생할 수 있습니다. 이 설정 방법에 대한 자세한 내용은 [Marketing 설명서 사이트](/help/marketo/product-docs/administration/additional-integrations/create-an-allowlist-for-ip-based-api-access.md)에서 확인할 수 있습니다.
 
 ## [새로운 고속 Microsoft Dynamics 동기화 커넥터](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/microsoft-dynamics-sync-details/sync-status.md) {#new-high-speed-microsoft-dynamics-sync-connector}
 
@@ -100,3 +96,7 @@ Orion 아키텍처를 기반으로 구축된 새로운 고속 다이내믹 커�
 이제 게시된 모든 사용자 정의 개체에 대한 레코드 및 필드 수를 볼 수 있습니다.
 
 ![](assets/custom-objects-grid.png)
+
+## 사용자 지정 활동 {#custom-activities}
+
+이제 마케팅 관리자는 Marketing to 사용자 지정 활동 정의 모델을 통해 사용자 지정 활동 유형을 정의하고 관리할 수 있습니다. 이제 관리자는 Marketing to 사용자 지정 개체 모델러와 유사하게, 정확한 비즈니스 요구에 맞게 데이터 모델을 확장할 수 있습니다. 이 기능을 사용하는 방법에 대한 자세한 내용은 [Marketing 설명서 사이트](/help/marketo/product-docs/administration/marketo-custom-activities/understanding-custom-activities.md)에서 확인할 수 있습니다.
