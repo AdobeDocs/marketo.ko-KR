@@ -3,21 +3,15 @@ unique-page-id: 2951117
 description: 릴리스 노트 - 2012년 5월 - Marketing Docs - 제품 설명서
 title: 릴리스 노트 - 2012년 5월
 translation-type: tm+mt
-source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
+source-git-commit: 029d8b419ba5078980b4fde9890bdb35194bf264
 workflow-type: tm+mt
-source-wordcount: '658'
+source-wordcount: '641'
 ht-degree: 0%
 
 ---
 
 
 # 릴리스 노트:2012년 5월 {#release-notes-may}
-
->[!NOTE]
->
->**자세히 알아보기**
->
->다른 릴리스의 경우 [릴리스 노트](https://docs.marketo.com/display/docs/release+notes) 깊이 검색을 참조하십시오.
 
 ## 이메일 성과 보고서 디자인 {#email-performance-report-redesign}
 
@@ -47,7 +41,9 @@ ht-degree: 0%
 
 iOS 5.1 이상 필요iPad에만 해당됩니다.
 
-![](assets/image2014-9-23-10-3a14-3a46.png)그림 3. 이벤트 체크인 홈 페이지
+![](assets/image2014-9-23-10-3a14-3a46.png)
+
+그림 3. 이벤트 체크인 홈 페이지
 
 ![](assets/image2014-9-23-10-3a15-3a6.png)
 
@@ -142,4 +138,3 @@ Marketing Cloud에서 Sales Insight를 통해 Opportunity Analyzer에 직접 액
 ## 향상된 리드 및 연락처 구독 {#enhanced-lead-and-contact-subscribe}
 
 기록 세부 정보 페이지의 새로운 구독 단추를 사용하여 언제든지 리드를 팔로우하거나 연락하십시오.
-
