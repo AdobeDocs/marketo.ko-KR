@@ -5,9 +5,9 @@ audience: end-user
 user-guide-title: 마케팅 가이드
 user-guide-description: 마케팅 제품 설명서
 translation-type: tm+mt
-source-git-commit: 6b15e601b1c6e424d10f702f35233b499660611f
+source-git-commit: 8bde41ab77661487bc220c3c4ec52c9be3b09fd0
 workflow-type: tm+mt
-source-wordcount: '7828'
+source-wordcount: '7833'
 ht-degree: 0%
 
 ---
@@ -716,6 +716,7 @@ ht-degree: 0%
             + [마케팅 랜딩 페이지 템플릿 편집](product-docs/demand-generation/landing-pages/landing-page-templates/edit-a-marketo-landing-page-template.md)
             + [기존 자유 형식 랜딩 페이지 템플릿 모바일과 호환되도록 만들기](product-docs/demand-generation/landing-pages/landing-page-templates/make-an-existing-free-form-landing-page-template-mobile-compatible.md)
             + [안내 템플릿에서 요소 및 변수 이해](product-docs/demand-generation/landing-pages/landing-page-templates/understanding-elements-and-variables-in-guided-templates.md)
+            + [안내 랜딩 페이지 템플릿 목록](product-docs/demand-generation/landing-pages/landing-page-templates/guided-landing-page-template-list.md)
             + 안내 랜딩 페이지 템플릿 {#guided-landing-page-templates}
                + [템플릿 1-A](product-docs/demand-generation/landing-pages/landing-page-templates/guided-landing-page-templates/template-1-a.md)
                + [템플릿 1-B](product-docs/demand-generation/landing-pages/landing-page-templates/guided-landing-page-templates/template-1-b.md)
@@ -840,7 +841,7 @@ ht-degree: 0%
             + [소셜 앱에 대한 사람 캡처 구성](product-docs/demand-generation/social/configuring-social-actions/configure-person-capture-for-a-social-app.md)
             + [이메일 다시 공유 구성 및 소셜 앱 확인](product-docs/demand-generation/social/configuring-social-actions/configure-re-share-email-and-prompt-for-a-social-app.md)
             + [소셜 추천 흐름 구성](product-docs/demand-generation/social/configuring-social-actions/configure-social-recommend-flow.md)
-            + [소셜 등록/공유 흐름 구성](product-docs/demand-generation/social/configuring-social-actions/configure-social-sign-up-share-flow.md)
+            + [소셜 가입/공유 흐름 구성](product-docs/demand-generation/social/configuring-social-actions/configure-social-sign-up-share-flow.md)
             + [참조 오퍼에 대한 추적 진행 흐름 구성](product-docs/demand-generation/social/configuring-social-actions/configure-track-progress-flow-for-a-referral-offer.md)
             + [소셜 단추를 열 때 구성](product-docs/demand-generation/social/configuring-social-actions/configure-when-social-button-opens.md)
             + [소셜 앱 사용자 지정 단추](product-docs/demand-generation/social/configuring-social-actions/customize-social-app-button.md)
@@ -982,7 +983,7 @@ ht-degree: 0%
             + [이메일 템플릿 선택기 개요](product-docs/email-marketing/general/email-editor-2/email-template-picker-overview.md)
             + [이메일 템플릿 구문](product-docs/email-marketing/general/email-editor-2/email-template-syntax.md)
             + [이메일 편집기 2.0으로 전환](product-docs/email-marketing/general/email-editor-2/transitioning-to-email-editor-2-0.md)
-         + 편집기의 함수 {#functions-in-the-editor}
+         + {#functions-in-the-editor} 편집기의 함수
             + [이메일의 친구 링크로 전달](product-docs/email-marketing/general/functions-in-the-editor/forward-to-a-friend-link-in-emails.md)
             + [이메일에 달력 이벤트(.ics) 포함](product-docs/email-marketing/general/functions-in-the-editor/include-a-calendar-event-ics-in-an-email.md)
             + [이메일 작동](product-docs/email-marketing/general/functions-in-the-editor/make-an-email-operational.md)
