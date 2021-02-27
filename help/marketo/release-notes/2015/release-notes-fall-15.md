@@ -3,9 +3,9 @@ unique-page-id: 10094114
 description: 릴리스 노트 - 2015년 가을 - 마케팅 문서 - 제품 설명서
 title: 릴리스 노트 - 2015년 가을
 translation-type: tm+mt
-source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
+source-git-commit: 029d8b419ba5078980b4fde9890bdb35194bf264
 workflow-type: tm+mt
-source-wordcount: '1026'
+source-wordcount: '995'
 ht-degree: 0%
 
 ---
@@ -17,7 +17,7 @@ ht-degree: 0%
 
 ## 스마트 목록 구독 {#subscribe-to-a-smart-list}
 
-[스마트 목록 구독](../../product-docs/reporting/basic-reporting/report-subscriptions/subscribe-to-a-smart-list.md)
+[스마트 목록 구독](/help/marketo/product-docs/reporting/basic-reporting/report-subscriptions/subscribe-to-a-smart-list.md)
 
 스마트 목록에 가입하면 마케터는 스마트 목록을 내보내고 Marketing To를 사용하지 않는 이해 관계자(예: 판매 또는 텔레마케팅 팀)에게 이메일로 보낼 수 있습니다.
 
@@ -31,7 +31,7 @@ ht-degree: 0%
 
 ## Marketing 사용자 지정 개체 {#marketo-custom-objects}
 
-[Marketing To 사용자 지정 개체](https://docs.marketo.com/display/docs/marketo+custom+objects)
+[Marketing To 사용자 지정 개체](/help/marketo/product-docs/administration/marketo-custom-objects/understanding-marketo-custom-objects.md)
 
 관리 UI에서 사용자 정의 개체를 손쉽게 만들 수 있습니다. 현재 Marketing Cloud에서 1:N 사용자 지정 개체를 만들어 리드 또는 회사에 연결하는 기능을 지원합니다.
 
@@ -39,12 +39,11 @@ ht-degree: 0%
 >
 >Spark에서는 Marketing To 사용자 지정 개체를 사용할 수 없습니다.
 
-
 ![](assets/image2015-10-1-13-3a55-3a21.png)
 
 ## Google Chrome용 Marketing To Insights {#marketo-insights-for-google-chrome}
 
-[Google Chrome용 Marketing To Insights](../../product-docs/marketo-sales-insight/msi-chrome-plugin/using-marketo-insights-for-google-chrome.md)
+[Google Chrome용 Marketing To Insights](/help/marketo/product-docs/marketo-sales-insight/msi-chrome-plugin/using-marketo-insights-for-google-chrome.md)
 
 Google Mail Sales Insight 확장 기능에 대한 업데이트 릴리스를 발표하게 되어 매우 기쁩니다! [Chrome Store](https://nation.marketo.com/external-link.jspa?url=https://chrome.google.com/webstore/detail/marketo-insights-for-goog/jjkfbhajlmoeegbjgjipliamplidmbjb)에서 봅니다.
 
@@ -58,15 +57,15 @@ Google Mail Sales Insight 확장 기능에 대한 업데이트 릴리스를 발�
 
 ## Marketing To Mobile 참여 - 토큰, 샘플 보내기 및 미리 보기 {#marketo-mobile-engagement-tokens-send-sample-preview}
 
-* [토큰](../../product-docs/mobile-marketing/push-notifications/configure-mobile-push-notification.md)
-* [샘플 보내기](../../product-docs/mobile-marketing/push-notifications/send-a-push-notification-sample.md)
-* [미리 보기](../../product-docs/mobile-marketing/push-notifications/preview-a-push-notification.md)
+* [토큰](/help/marketo/product-docs/mobile-marketing/push-notifications/configure-mobile-push-notification.md)
+* [샘플 보내기](/help/marketo/product-docs/mobile-marketing/push-notifications/send-a-push-notification-sample.md)
+* [미리 보기](/help/marketo/product-docs/mobile-marketing/push-notifications/preview-a-push-notification.md)
 
-[토큰](https://docs.marketo.com/pages/viewpage.action?pageId=7512454)으로 푸시 알림을 손쉽게 개인화할 수 있습니다.
+[토큰](/help/marketo/product-docs/mobile-marketing/push-notifications/configure-mobile-push-notification.md)으로 푸시 알림을 손쉽게 개인화할 수 있습니다.
 
 ![](assets/image2015-10-1-13-3a44-3a58.png)
 
-고객에게 배포하기 전에 [미리 보기](../../product-docs/mobile-marketing/push-notifications/preview-a-push-notification.md) 또는 [샘플](../../product-docs/mobile-marketing/push-notifications/send-a-push-notification-sample.md) 푸시 알림을 보낼 수도 있습니다.
+고객에게 배포하기 전에 [미리 보기](/help/marketo/product-docs/mobile-marketing/push-notifications/preview-a-push-notification.md) 또는 [샘플](/help/marketo/product-docs/mobile-marketing/push-notifications/send-a-push-notification-sample.md) 푸시 알림을 보낼 수도 있습니다.
 
 ![](assets/image2015-10-1-13-3a45-3a25.png)
 
@@ -74,7 +73,7 @@ Google Mail Sales Insight 확장 기능에 대한 업데이트 릴리스를 발�
 
 ## {#smart-campaigns-in-moments} 순간의 스마트 캠페인
 
-[순간의 스마트한 캠페인](../../product-docs/core-marketo-concepts/mobile-apps/marketo-moments/understanding-moments/understanding-smart-campaign-cards.md)
+[순간의 스마트한 캠페인](/help/marketo/product-docs/core-marketo-concepts/mobile-apps/marketo-moments/understanding-moments/understanding-smart-campaign-cards.md)
 
 이제 스마트 캠페인을 통해 전송된 이메일의 통계를 순간에 사용할 수 있습니다. 이 업그레이드의 다른 기능은 다음과 같습니다.
 
@@ -87,7 +86,7 @@ Google Mail Sales Insight 확장 기능에 대한 업데이트 릴리스를 발�
 
 ## RTP - 컨텐츠 분석 및 Recommendations {#rtp-content-analytics-and-recommendations}
 
-[컨텐츠 ](../../product-docs/web-personalization/understanding-web-personalization/understanding-content-analytics.md) 분석 및 Recommendations
+[컨텐츠 ](/help/marketo/product-docs/web-personalization/understanding-web-personalization/understanding-content-analytics.md) 분석 및 Recommendations
 
 RTP Content Analytics는 일반 웹 방문에서 웹 컨텐츠 자산의 성능과 RTP의 컨텐츠 추천 엔진에서 생성된 방문도 보여줍니다.
 
@@ -98,13 +97,13 @@ RTP Content Analytics는 일반 웹 방문에서 웹 컨텐츠 자산의 성능�
 이제 RTP의 자산 페이지가 컨텐츠 분석 및 컨텐츠 Recommendations으로 분할됩니다.
 
 * **컨텐츠 분석:** 검색되고 정의된 모든 웹 컨텐츠의 뷰 및 리드 수를 보여주므로 가장 성과가 좋은 컨텐츠를 분석할 수 있습니다
-* **컨텐츠 Recommendations**:RTP의 권장 컨텐츠 및 연관된 리드 어트리뷰션의 노출 횟수 및 클릭 수를 표시합니다. 이 페이지에서 [bar](https://docs.marketo.com/display/DOCS/Enabling+the+Content+Recommendation+Engine) 및 [리치 미디어](https://docs.marketo.com/display/DOCS/Enabling+the+Rich+Media+Recommendation+Engine) 권장 사항에 대한 컨텐츠 권장 사항을 편집하고 활성화할 수도 있습니다.
+* **컨텐츠 Recommendations**:RTP의 권장 컨텐츠 및 연관된 리드 어트리뷰션의 노출 횟수 및 클릭 수를 표시합니다. 이 페이지에서 [bar](/help/marketo/product-docs/predictive-content/enabling-predictive-content/enable-the-content-recommendation-bar.md) 및 [리치 미디어](/help/marketo/product-docs/predictive-content/enabling-predictive-content/enable-predictive-content-for-web-rich-media.md) 권장 사항에 대한 컨텐츠 권장 사항을 편집하고 활성화할 수도 있습니다.
 
 * 이 두 페이지의 모든 직접 리드 데이터는 연초 시작(2015년 1월 1일)부터 소급하여 업데이트되었습니다.
 
 ## RTP - RTP 캠페인 복제 {#rtp-clone-an-rtp-campaign}
 
-[RTP - RTP 캠페인 복제](../../product-docs/web-personalization/working-with-web-campaigns/clone-a-web-campaign.md)
+[RTP - RTP 캠페인 복제](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/clone-a-web-campaign.md)
 
 RTP 캠페인을 복제하면 보다 신속하고 효율적으로 개인화된 웹 캠페인을 만들 수 있습니다. RTP의 캠페인 페이지의 복제 기능을 사용하여 캠페인 설정을 복사하고 분할 테스트 최적화를 위한 컨텐츠를 변경하거나 동일한 컨텐츠로 캠페인을 복제하여 다른 세그먼트에 타깃팅합니다. 신속하게 캠페인 제작!
 
@@ -116,52 +115,35 @@ RTP 캠페인을 복제하면 보다 신속하고 효율적으로 개인화된 �
 
 * 이제 HTML 코드 내에서 VML이 지원됩니다.
 
-   ```
-   <v:background xmlns:v="urn:schemas-microsoft-com:vml" fill="t">
-   ```
-
-   ```
-   <v:fill type="tile" src="<a href="https://i.imgur.com/YJOX1PC.png" rel="nofollow">https://i.imgur.com/YJOX1PC.png</a>" color="#7bceeb"/>
-   ```
-
-   ```
-   </v:background>
-   ```
+```
+<v:background xmlns:v="urn:schemas-microsoft-com:vml" fill="t">
+<v:fill type="tile" src="<a href="https://i.imgur.com/YJOX1PC.png" rel="nofollow">https://i.imgur.com/YJOX1PC.png</a>" color="#7bceeb"/>
+</v:background>
+```
 
 * 이제 모든 것을 유효한 HTML 주석에 삽입할 수 있습니다(아래 표시된 특정 구문은 이전에 제거됨).
 
-   ```
-   <!--[if gte mso 9]> 
-   ```
+`<!--[if gte mso 9]> <![endif]-->`
 
-   ```
-   <![endif]-->
-   ```
-
-* `**`이(가) 있는 빈 표 셀을 패드하지 마십시오.
+* `&nbsp;`이(가) 있는 빈 표 셀을 패드하지 마십시오.
 
 * HTML 소스 편집기에 추가된 최대화/최소화 단추
 * 이제 기존 표 속성이 식별되어 표 속성 대화 상자에 표시됩니다.
 * 이제 두 단추 행이 모두 기본적으로 표시됩니다.
 * 이제 편집기는 모든 요소를 허용합니다(사용되지 않거나 표준이 아닌 요소도 포함).
 
-   ```
-   <myCustomElement>Hello World!</myCustomElement>
-   ```
+`<myCustomElement>Hello World!</myCustomElement>`
 
 * 이제 편집기는 모든 속성을 허용합니다(사용되지 않거나 표준이 아닌 속성까지).
 
-   ```
-   <myCustomElement myCustomAttribute="foo">Hello World!</myCustomElement>
-   ```
-
-   ```
-   <td background="someImage.png"> 
-   ```
+```
+<myCustomElement myCustomAttribute="foo">Hello World!</myCustomElement>
+<td background="someImage.png"> 
+```
 
 ## Microsoft Dynamics - 동기화 유효성 검사 {#microsoft-dynamics-validate-sync}
 
-[Microsoft Dynamics - 동기화 유효성 검사](../../product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/validate-microsoft-dynamics-sync.md)
+[Microsoft Dynamics - 동기화 유효성 검사](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/validate-microsoft-dynamics-sync.md)
 
 이 새로운 관리 도구는 동기화 구성이 올바르게 설정되었는지 확인하기 위해 일련의 검사를 실행합니다.
 
