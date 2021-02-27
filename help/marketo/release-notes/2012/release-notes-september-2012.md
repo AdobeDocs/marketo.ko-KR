@@ -3,7 +3,7 @@ unique-page-id: 2951111
 description: 릴리스 노트 - 2012년 9월 - Marketing Docs - 제품 설명서
 title: 릴리스 노트 - 2012년 9월
 translation-type: tm+mt
-source-git-commit: 96cc6a30c63c8e8dca793a52e4bf7ecaef8c08dc
+source-git-commit: 029d8b419ba5078980b4fde9890bdb35194bf264
 workflow-type: tm+mt
 source-wordcount: '305'
 ht-degree: 0%
@@ -60,4 +60,3 @@ getMultipleLeads API 호출에 새 필터링 기준을 추가했습니다. 날�
 * 날짜 범위
 * 정적 목록 이름
 * 리드 키 배열
-
