@@ -3,7 +3,7 @@ unique-page-id: 4720253
 description: 릴리스 노트 - 2014년 12월 - Marketing Docs - 제품 설명서
 title: 릴리스 노트 - 2014년 12월
 translation-type: tm+mt
-source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
+source-git-commit: 029d8b419ba5078980b4fde9890bdb35194bf264
 workflow-type: tm+mt
 source-wordcount: '471'
 ht-degree: 0%
@@ -17,7 +17,7 @@ ht-degree: 0%
 
 ## 판매 통찰력 보고서 {#sales-insight-reports}
 
-[Sales Insight 이메일 성과 보고서](../../product-docs/marketo-sales-insight/msi-for-salesforce/features/performance-reports/sales-insight-email-performance-report.md)에서는 이메일 및 영업 담당자별로 이메일 지표를 볼 수 있습니다. Salesforce, Microsoft Dynamics, Outlook 플러그인 및 Gmail 플러그인을 통해 발송되는 이메일을 지원합니다.
+[Sales Insight 이메일 성과 보고서](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/features/performance-reports/sales-insight-email-performance-report.md)에서는 이메일 및 영업 담당자별로 이메일 지표를 볼 수 있습니다. Salesforce, Microsoft Dynamics, Outlook 플러그인 및 Gmail 플러그인을 통해 발송되는 이메일을 지원합니다.
 
 ![](assets/image2014-12-5-11-3a5-3a46.png)
 
@@ -25,13 +25,13 @@ ht-degree: 0%
 
 ## Facebook 사용자 지정 대상 {#facebook-custom-audiences}
 
-마케팅 관리자가 관리 > Launchpoint](../../product-docs/demand-generation/ad-network-integrations/add-facebook-custom-audiences-as-a-launchpoint-service.md)를 통해 [Facebook을 추가한 후 Facebook 사용자 지정 대상을 Marketing에서 정적 또는 스마트 목록](../../product-docs/demand-generation/facebook/create-a-custom-audience-in-facebook.md)으로 리드로 쉽게 만들거나, 업데이트하거나, [바꿀 수 있습니다. 정적 목록 또는 스마트 목록의 리드 격자 아래쪽에 있는 새 Facebook 아이콘을 찾습니다.
+마케팅 관리자가 관리 > Launchpoint](/help/marketo/product-docs/demand-generation/ad-network-integrations/add-facebook-custom-audiences-as-a-launchpoint-service.md)를 통해 [Facebook을 추가한 후 Facebook 사용자 지정 대상을 Marketing에서 정적 또는 스마트 목록](/help/marketo/product-docs/demand-generation/facebook/create-a-custom-audience-in-facebook.md)으로 리드로 쉽게 만들거나, 업데이트하거나, [바꿀 수 있습니다. 정적 목록 또는 스마트 목록의 리드 격자 아래쪽에 있는 새 Facebook 아이콘을 찾습니다.
 
 ![](assets/image2014-12-5-11-3a6-3a28.png)
 
 ## 작업 영역 간의 복제 개선 {#improved-cloning-across-workspaces}
 
-[프로그램을 다른 작업 ](../../product-docs/core-marketo-concepts/programs/working-with-programs/clone-a-program.md) 영역으로 복제하는 작업이 훨씬 수월해졌습니다. 복제를 클릭하면 대상 작업 공간을 선택합니다. 더 이상 폴더로 복제한 다음 폴더를 이동하지 마십시오!
+[프로그램을 다른 작업 ](/help/marketo/product-docs/core-marketo-concepts/programs/working-with-programs/clone-a-program.md) 영역으로 복제하는 작업이 훨씬 수월해졌습니다. 복제를 클릭하면 대상 작업 공간을 선택합니다. 더 이상 폴더로 복제한 다음 폴더를 이동하지 마십시오!
 
 >[!NOTE]
 >
@@ -41,11 +41,11 @@ ht-degree: 0%
 
 ## 참조 스마트 목록 {#reference-smart-list}
 
-[스마트 목록 또는 흐름을 작성할 때 다른 작업 영역과 공유되는 ](../../product-docs/core-marketo-concepts/smart-lists-and-static-lists/using-smart-lists/reference-a-list-or-smart-list-across-workspaces.md)스마트 목록을 참조할 수 있습니다.
+[스마트 목록 또는 흐름을 작성할 때 다른 작업 영역과 공유되는 ](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/using-smart-lists/reference-a-list-or-smart-list-across-workspaces.md) 스마트 목록을 참조할 수 있습니다.
 
 ## 목록 가져오기 개선 사항 {#list-import-improvements}
 
-[UTF-](../../getting-started/quick-wins/import-a-list-of-people.md) 16, Shift-JIS 또는 EUC-JP로 인코딩된 파일을 가져옵니다. UTF-8 인코딩 파일을 계속 지원합니다.
+[UTF-](/help/marketo/getting-started/quick-wins/import-a-list-of-people.md) 16, Shift-JIS 또는 EUC-JP로 인코딩된 파일을 가져옵니다. UTF-8 인코딩 파일을 계속 지원합니다.
 
 ## 이메일 스크립팅의 링크 추적 {#link-tracking-in-email-scripting}
 
@@ -94,4 +94,3 @@ ht-degree: 0%
 개인화된 컨텐츠가 페이지 로드 시 제자리에 밀릴 수 있도록 시작 영역 캠페인에 대한 새로운 슬라이딩 효과를 추가했습니다.
 
 ![](assets/image2014-12-5-11-3a9-3a34.png)
-
