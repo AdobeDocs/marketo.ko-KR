@@ -3,21 +3,15 @@ unique-page-id: 2951114
 description: 릴리스 노트 - 2012년 6월 - Marketing Docs - 제품 설명서
 title: 릴리스 노트 - 2012년 6월
 translation-type: tm+mt
-source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
+source-git-commit: 029d8b419ba5078980b4fde9890bdb35194bf264
 workflow-type: tm+mt
-source-wordcount: '684'
+source-wordcount: '667'
 ht-degree: 0%
 
 ---
 
 
 # 릴리스 노트:2012년 6월 {#release-notes-june}
-
->[!NOTE]
->
->**자세히 알아보기**
->
->다른 릴리스의 경우 [릴리스 노트](https://docs.marketo.com/display/docs/release+notes) 깊이 검색을 참조하십시오.
 
 ## 마케팅 리드 관리 개선 사항 {#marketo-lead-management-enhancements}
 
