@@ -3,9 +3,9 @@ unique-page-id: 7514821
 description: 릴리스 노트 - 2015년 5월 - Marketing Docs - 제품 설명서
 title: 릴리스 노트 - 2015년 5월
 translation-type: tm+mt
-source-git-commit: 1a29614ec938074902af201b2ffc11cfaa625f7a
+source-git-commit: 029d8b419ba5078980b4fde9890bdb35194bf264
 workflow-type: tm+mt
-source-wordcount: '296'
+source-wordcount: '251'
 ht-degree: 0%
 
 ---
@@ -17,7 +17,7 @@ ht-degree: 0%
 
 ## 완전 반응형 랜딩 페이지
 
-[완전 반응형 랜딩 페이지](../../product-docs/demand-generation/landing-pages/guided-landing-pages/create-a-guided-landing-page.md)
+[완전 반응형 랜딩 페이지](/help/marketo/product-docs/demand-generation/landing-pages/guided-landing-pages/create-a-guided-landing-page.md)
 
 새 랜딩 페이지 편집 모드 및 템플릿 구문을 출시합니다. &quot;자유 형식&quot; 랜딩 페이지 편집기와 달리, 새로운 &quot;안내&quot; 랜딩 페이지 편집기는 완전 반응형 랜딩 페이지에 대해 구조화된 편집 환경을 제공합니다.
 
@@ -25,7 +25,7 @@ ht-degree: 0%
 
 ## 이메일 프로그램 중단
 
-[이메일 프로그램 중단](../../product-docs/email-marketing/email-programs/email-program-actions/abort-email-program.md)
+[이메일 프로그램 중단](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/abort-email-program.md)
 
 이메일 프로그램이 나오기 전에 보내기를 누르셨습니까? 새로운 이메일 프로그램 중단 버튼을 눌러 브레이크를 밟으세요. 기내식 이메일 프로그램이 중단됩니다.
 
@@ -39,15 +39,12 @@ ht-degree: 0%
 
 ## RTP:세그먼트 편집기 드래그하여 놓기 {#rtp-drag-and-drop-segment-editor}
 
-RTP:[세그먼트 편집기 드래그하여 놓기](https://docs.marketo.com/display/public/DOCS/RTP+Segments)
+RTP:[세그먼트 편집기 드래그하여 놓기](/help/marketo/product-docs/web-personalization/using-web-segments/web-segments.md)
 
 기준을 세그먼트 빌더로 드래그하여 놓고 값을 정의하면 실시간 세그먼트를 만들 수 있습니다.
 
 ## RTP:예측 컨텐츠 Recommendations {#rtp-predictive-content-recommendations}
 
-[예측 컨텐츠 Recommendations](https://docs.marketo.com/display/DOCS/Enabling+the+Rich+Media+Recommendation+Engine)
+[예측 컨텐츠 Recommendations](/help/marketo/product-docs/predictive-content/enabling-predictive-content/enable-predictive-content-for-web-rich-media.md)
 
 RTP의 머신 러닝 및 예측 분석 알고리즘을 사용하여 적합한 잠재 고객에게 적합한 콘텐츠를 추천할 수 있습니다. 이미지 및 텍스트 설명을 사용하여 시각적으로 컨텐츠 에셋을 향상시키고 둘 이상의 컨텐츠 에셋을 추천할 수 있습니다.
-
-![](https://lh6.googleusercontent.com/yZhSkWzW3BES9hSTUirKxM5BENG6c1kuYoclQaSY49UZpjF0s4llnshW4DV-vp4myucgOH9IJ3SqyNdy-nc38Xgy-43IY3QblAS1jY5N8GcP4xgTD1Nbp7ibfZV4yc4PM6AHqt4)
-
