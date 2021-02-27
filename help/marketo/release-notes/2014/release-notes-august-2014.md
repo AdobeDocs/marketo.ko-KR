@@ -3,7 +3,7 @@ unique-page-id: 2950212
 description: 릴리스 노트 - 2014년 8월 - Marketing Docs - 제품 설명서
 title: 릴리스 노트 - 2014년 8월
 translation-type: tm+mt
-source-git-commit: 96cc6a30c63c8e8dca793a52e4bf7ecaef8c08dc
+source-git-commit: 029d8b419ba5078980b4fde9890bdb35194bf264
 workflow-type: tm+mt
 source-wordcount: '396'
 ht-degree: 0%
@@ -17,7 +17,7 @@ ht-degree: 0%
 
 ## 마케팅 달력 라이선스 {#marketing-calendar-licenses}
 
-2014년 9월 5일 이후로는 5명의 사용자만 마케팅 일정에 무료로 액세스할 수 있습니다. 중단된 액세스가 되려면 그 전에 선택한 사용자에게 [마케팅 달력 라이선스](../../product-docs/core-marketo-concepts/marketing-calendar/understanding-the-calendar/issue-revoke-a-marketing-calendar-license.md)를 발행/취소해야 합니다.
+2014년 9월 5일 이후로는 5명의 사용자만 마케팅 일정에 무료로 액세스할 수 있습니다. 중단된 액세스가 되려면 그 전에 선택한 사용자에게 [마케팅 달력 라이선스](/help/marketo/product-docs/core-marketo-concepts/marketing-calendar/understanding-the-calendar/issue-revoke-a-marketing-calendar-license.md)를 발행/취소해야 합니다.
 
 ![—](assets/image2014-9-16-9-3a45-3a52.png)
 
@@ -35,7 +35,7 @@ ht-degree: 0%
 
 ## 관리에서 사용자 및 역할 내보내기 {#export-users-and-roles-from-admin}
 
-이제 Marketing To에서 [사용자 및 역할 목록](../../product-docs/administration/users-and-roles/export-a-list-of-users-and-roles.md)을 내보낼 수 있습니다. 내보내기에 포함할 &quot;마지막 로그인&quot; 타임스탬프를 포함할 수도 있습니다.
+이제 Marketing To에서 [사용자 및 역할 목록](/help/marketo/product-docs/administration/users-and-roles/export-a-list-of-users-and-roles.md)을 내보낼 수 있습니다. 내보내기에 포함할 &quot;마지막 로그인&quot; 타임스탬프를 포함할 수도 있습니다.
 
 ![](assets/image2014-9-16-12-3a20-3a16.png)
 
@@ -49,7 +49,7 @@ ht-degree: 0%
 
 ## 자동화된 DKIM {#automated-dkim}
 
-향상된 전달 기능을 위해 나가는 모든 이메일은 DKIM(DomainKeys Identified Mail)에 서명됩니다. 기본적으로 이메일은 Marketing의 공유 DKIM 서명을 사용합니다. 이 서명을 사용자 지정할 수 있는 옵션이 있습니다.
+향상된 전달 기능을 위해 나가는 모든 이메일은 DKIM(DomainKeys Identified Mail)에 서명됩니다. 기본적으로 이메일은 Marketing의 공유 DKIM 서명을 사용합니다. 이 서명을 사용자 정의할 수 있는 옵션이 있습니다.
 
 ![](assets/image2014-9-16-12-3a23-3a16.png)
 
@@ -96,4 +96,3 @@ ht-degree: 0%
 이제 실시간 개인화의 모든 추적 및 보고에서 특정 IP를 제외할 수 있습니다.
 
 ![](assets/image2014-9-16-12-3a24-3a55.png)
-
