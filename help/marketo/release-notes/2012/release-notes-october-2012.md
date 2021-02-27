@@ -1,9 +1,9 @@
 ---
 unique-page-id: 2951109
-description: 릴리스 노트 - 2012년 10월 - Marketing Docs - 제품 설명서
+description: 릴리스 노트 - 2012년 10월 - 마케팅 문서 - 제품 설명서
 title: 릴리스 노트 - 2012년 10월
 translation-type: tm+mt
-source-git-commit: 96cc6a30c63c8e8dca793a52e4bf7ecaef8c08dc
+source-git-commit: 029d8b419ba5078980b4fde9890bdb35194bf264
 workflow-type: tm+mt
 source-wordcount: '353'
 ht-degree: 0%
@@ -58,4 +58,3 @@ ht-degree: 0%
 >[!NOTE]
 >
 >Enterprise 또는 Select Edition과 함께 Revenue Cycle Analytics를 구매하여 매출 탐색기를 가진 사용자만 사용할 수 있습니다.
-
