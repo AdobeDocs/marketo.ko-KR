@@ -3,9 +3,9 @@ unique-page-id: 2951119
 description: 릴리스 노트 - 2012년 4월 - Marketing Docs - 제품 설명서
 title: 릴리스 노트 - 2012년 4월
 translation-type: tm+mt
-source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
+source-git-commit: 029d8b419ba5078980b4fde9890bdb35194bf264
 workflow-type: tm+mt
-source-wordcount: '393'
+source-wordcount: '376'
 ht-degree: 0%
 
 ---
@@ -14,12 +14,6 @@ ht-degree: 0%
 # 릴리스 노트:2012년 4월 {#release-notes-april}
 
 ## 세그멘테이션 필터 및 트리거 {#segmentation-filters-and-triggers}
-
->[!NOTE]
->
->**자세히 알아보기**
->
->다른 릴리스의 경우 [릴리스 노트](https://docs.marketo.com/display/docs/release+notes) 깊이 검색을 참조하십시오.
 
 동일한 리드 그룹을 일관되게 타게팅합니까? 그럴 경우, 리드를 타깃팅하기 위해 스마트 목록에 세그먼테이션을 사용합니다. 세분화를 통해 전체 리드 데이터베이스를 항상 세그먼트화하여 일관성 유지를 위해 프로그램 전체에 다시 사용할 수 있습니다. 요청 시 스마트 목록을 실행할 필요가 없으므로 세그멘테이션 결과가 빠르게 가져옵니다.
 
@@ -63,4 +57,3 @@ Salesforce와 구독을 동기화하지 않으면 Salesforce를 참조하는 모
 사용자가 전환 규칙에 대한 순서를 정의할 수 있습니다.
 
 ![](assets/image2014-9-23-10-3a5-3a17.png)
-
