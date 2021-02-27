@@ -3,7 +3,7 @@ unique-page-id: 2951105
 description: 릴리스 노트 - 2013년 1월 - Marketing Docs - 제품 설명서
 title: 릴리스 노트 - 2013년 1월
 translation-type: tm+mt
-source-git-commit: 96cc6a30c63c8e8dca793a52e4bf7ecaef8c08dc
+source-git-commit: 029d8b419ba5078980b4fde9890bdb35194bf264
 workflow-type: tm+mt
 source-wordcount: '317'
 ht-degree: 0%
@@ -62,4 +62,3 @@ Salesforce 언어 기본 설정이 프랑스어 또는 독일어로 설정되어
 프로그램 데이터 변경 플로우 단계에서는 캠페인을 통해 프로그램 회원의 성공 상태 및 성공 날짜를 수동으로 변경할 수 있습니다. 이 흐름 단계를 사용하여 오류를 수정하거나 의도한 대로 프로그램에 참여하지 않았을 수 있는 멤버를 수동으로 변경할 수 있습니다.
 
 ![](assets/image2014-9-22-15-3a23-3a23.png)
-
