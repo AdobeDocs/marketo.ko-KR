@@ -3,9 +3,9 @@ unique-page-id: 2951097
 description: 릴리스 노트 - 2013년 5월 - Marketing Docs - 제품 설명서
 title: 릴리스 노트 - 2013년 5월
 translation-type: tm+mt
-source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
+source-git-commit: 029d8b419ba5078980b4fde9890bdb35194bf264
 workflow-type: tm+mt
-source-wordcount: '175'
+source-wordcount: '132'
 ht-degree: 0%
 
 ---
@@ -13,9 +13,7 @@ ht-degree: 0%
 
 # 릴리스 노트:2013년 5월 {#release-notes-may}
 
-다음 기능은 5월 릴리스에 포함되어 있습니다. 기능을 사용할 수 있는지 확인하려면 [Marketing](https://docs.marketo.com/display/docs/assets/pricing.php) [Edition](https://docs.marketo.com/display/docs/assets/pricing.php)을(를) 확인하십시오.
-
-릴리스 후 각 기능에 대한 자세한 기술 자료 문서는 커뮤니티의 [새 릴리스](release-notes-december-2013.md) 탭을 확인하십시오.
+다음 기능은 5월 릴리스에 포함되어 있습니다.
 
 ## 랜딩 페이지에 대한 달력 파일 {#calendar-files-for-landing-pages}
 
@@ -40,4 +38,3 @@ ht-degree: 0%
 진행 상태 변경은 이제 프로그램 상태 변경을 참조하십시오. 프로그램 데이터 변경이 이제 프로그램 성공 변경
 
 ![](assets/image2014-9-22-16-3a4-3a17.png)
-
