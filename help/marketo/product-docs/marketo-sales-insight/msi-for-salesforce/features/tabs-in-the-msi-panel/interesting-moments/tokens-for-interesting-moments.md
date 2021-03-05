@@ -3,9 +3,9 @@ unique-page-id: 1146999
 description: 관심 있는 순간을 위한 토큰 - 마케팅 문서 - 제품 설명서
 title: 관심 분야의 토큰
 translation-type: tm+mt
-source-git-commit: 972cf9769ac751d9abfd5665975703dcd07930f0
+source-git-commit: 1649aae540204bb5de205e3f5b75ec7e968a7da4
 workflow-type: tm+mt
-source-wordcount: '256'
+source-wordcount: '434'
 ht-degree: 0%
 
 ---
@@ -29,6 +29,8 @@ ht-degree: 0%
 * `{{trigger.Name}}` 은 캠페인을 트리거한 자산의 이름입니다. 예:웹 페이지에 대한 링크 클릭은 URL 자체이며 Salesforce 트리거 등에 적용됩니다.
 * 추가 트리거는 아래에 나열된 제한 조건을 기반으로 사용할 수 있습니다.
 
+**이메일 트리거**
+
 <table> 
  <colgroup> 
   <col> 
@@ -41,6 +43,9 @@ ht-degree: 0%
   <col> 
   <col> 
   <col> 
+  <col>
+  <col>
+  <col>
   <col> 
  </colgroup> 
  <tbody> 
@@ -56,6 +61,10 @@ ht-degree: 0%
    <th><code>{{trigger.Client IP Address}}</code></th> 
    <th><code>{{trigger.Sent By}}</code></th> 
    <th><code>{{trigger.Received By}}</code></th> 
+   <th><code>{{trigger.Referrer}}</code></th>
+   <th><code>{{trigger.Search Engine}}</code></th>
+   <th><code>{{trigger.Search Query}}</code></th>
+   <th><code>{{trigger.Browser}}</code></th>
   </tr> 
   <tr> 
    <td>이메일에 있는 링크 클릭 수</td> 
@@ -69,6 +78,10 @@ ht-degree: 0%
    <td><br></td> 
    <td><br></td> 
    <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td>
   </tr> 
   <tr> 
    <td>이메일 바운스 하드</td> 
@@ -82,6 +95,10 @@ ht-degree: 0%
    <td><br></td> 
    <td><br></td> 
    <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td>
   </tr> 
   <tr> 
    <td>이메일 바운스 소프트</td> 
@@ -95,6 +112,10 @@ ht-degree: 0%
    <td><br></td> 
    <td><br></td> 
    <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td>
   </tr> 
   <tr> 
    <td>이메일이 배달됨</td> 
@@ -108,6 +129,10 @@ ht-degree: 0%
    <td><br></td> 
    <td><br></td> 
    <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td>
   </tr> 
   <tr> 
    <td>이메일 열기</td> 
@@ -121,6 +146,44 @@ ht-degree: 0%
    <td><br></td> 
    <td><br></td> 
    <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td>
+  </tr> 
+    <tr> 
+   <td>친구에게 보낸 이메일 수신</td> 
+   <td><img src="assets/check.svg" alt="(확인 표시)"></td> 
+   <td><img src="assets/check.svg" alt="(확인 표시)"></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td>
+  </tr> 
+    <tr> 
+   <td>친구에게 보낸 이메일</td> 
+   <td><img src="assets/check.svg" alt="(확인 표시)"></td> 
+   <td><img src="assets/check.svg" alt="(확인 표시)"></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><img src="assets/check.svg" alt="(확인 표시)"></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><img src="assets/check.svg" alt="(확인 표시)"></td>
   </tr> 
   <tr> 
    <td>이메일의 가입 해지</td> 
@@ -130,10 +193,54 @@ ht-degree: 0%
    <td><img src="assets/check.svg" alt="(확인 표시)"></td> 
    <td><br></td> 
    <td><br></td> 
-   <td><img src="assets/check.svg" alt="(확인 표시)"></td> 
+   <td><br></td> 
    <td><img src="assets/check.svg" alt="(확인 표시)"></td> 
    <td><br></td> 
    <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td>
+  </tr> 
+ </tbody> 
+</table>
+
+**Salesforce 트리거**
+
+<table> 
+ <colgroup> 
+  <col> 
+  <col> 
+  <col> 
+  <col> 
+  <col> 
+  <col> 
+  <col> 
+  <col> 
+  <col> 
+  <col> 
+  <col>
+  <col>
+  <col>
+  <col> 
+ </colgroup> 
+ <tbody> 
+  <tr> 
+   <th><br></th> 
+   <th><code>{{trigger.Trigger Name}}</code></th> 
+   <th><code>{{trigger.Name}}</code></th> 
+   <th><code>{{trigger.Link}}</code></th> 
+   <th><code>{{trigger.Subject}}</code></th> 
+   <th><code>{{trigger.Category}}</code></th> 
+   <th><code>{{trigger.Details}}</code></th> 
+   <th><code>{{trigger.Web Page}}</code></th> 
+   <th><code>{{trigger.Client IP Address}}</code></th> 
+   <th><code>{{trigger.Sent By}}</code></th> 
+   <th><code>{{trigger.Received By}}</code></th> 
+   <th><code>{{trigger.Referrer}}</code></th>
+   <th><code>{{trigger.Search Engine}}</code></th>
+   <th><code>{{trigger.Search Query}}</code></th>
+   <th><code>{{trigger.Browser}}</code></th>
   </tr> 
   <tr> 
    <td>영업 이메일의 클릭 수 링크</td> 
@@ -141,64 +248,505 @@ ht-degree: 0%
    <td><img src="assets/check.svg" alt="(확인 표시)"></td> 
    <td><img src="assets/check.svg" alt="(확인 표시)"></td> 
    <td><img src="assets/check.svg" alt="(확인 표시)"></td> 
-   <td><br></td> 
+   <td><br></td>
    <td><br></td> 
    <td><br></td> 
    <td><br></td> 
    <td><img src="assets/check.svg" alt="(확인 표시)"></td> 
+   <td><img src="assets/check.svg" alt="(확인 표시)"></td> 
    <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td>
   </tr> 
   <tr> 
-   <td>보낸 영업 이메일</td> 
+   <td>영업 이메일이 전송됨</td> 
+   <td><img src="assets/check.svg" alt="(확인 표시)"></td> 
+   <td><img src="assets/check.svg" alt="(확인 표시)"></td> 
+   <td><img src="assets/check.svg" alt="(확인 표시)"></td> 
+   <td><img src="assets/check.svg" alt="(확인 표시)"></td> 
+   <td><br></td>
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
    <td><img src="assets/check.svg" alt="(확인 표시)"></td> 
    <td><img src="assets/check.svg" alt="(확인 표시)"></td> 
    <td><br></td> 
-   <td><img src="assets/check.svg" alt="(확인 표시)"></td> 
    <td><br></td> 
    <td><br></td> 
-   <td><br></td> 
-   <td><br></td> 
-   <td><img src="assets/check.svg" alt="(확인 표시)"></td> 
-   <td><br></td> 
+   <td><br></td>
   </tr> 
   <tr> 
    <td>영업 이메일 열기</td> 
    <td><img src="assets/check.svg" alt="(확인 표시)"></td> 
    <td><img src="assets/check.svg" alt="(확인 표시)"></td> 
+   <td><img src="assets/check.svg" alt="(확인 표시)"></td> 
+   <td><img src="assets/check.svg" alt="(확인 표시)"></td> 
+   <td><br></td>
    <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><img src="assets/check.svg" alt="(확인 표시)"></td> 
    <td><img src="assets/check.svg" alt="(확인 표시)"></td> 
    <td><br></td> 
    <td><br></td> 
    <td><br></td> 
-   <td><br></td> 
-   <td><img src="assets/check.svg" alt="(확인 표시)"></td> 
-   <td><br></td> 
+   <td><br></td>
   </tr> 
   <tr> 
-   <td>받은 영업 이메일</td> 
+   <td>판매 이메일 바운스 수</td> 
    <td><img src="assets/check.svg" alt="(확인 표시)"></td> 
    <td><img src="assets/check.svg" alt="(확인 표시)"></td> 
    <td><br></td> 
-   <td><img src="assets/check.svg" alt="(확인 표시)"></td> 
    <td><br></td> 
    <td><br></td> 
    <td><br></td> 
    <td><br></td> 
    <td><br></td> 
-   <td><img src="assets/check.svg" alt="(확인 표시)"></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td>
   </tr> 
   <tr> 
-   <td colspan="1">바운스된 판매 이메일</td> 
-   <td colspan="1"><img src="assets/check.svg" alt="(확인 표시)"></td> 
-   <td colspan="1"><img src="assets/check.svg" alt="(확인 표시)"></td> 
-   <td colspan="1"><br></td> 
-   <td colspan="1"><br></td> 
-   <td colspan="1"><br></td> 
-   <td colspan="1"><br></td> 
-   <td colspan="1"><br></td> 
-   <td colspan="1"><br></td> 
-   <td colspan="1"><br></td> 
-   <td colspan="1"><br></td> 
+   <td>판매 이메일 수신</td> 
+   <td><img src="assets/check.svg" alt="(확인 표시)"></td> 
+   <td><img src="assets/check.svg" alt="(확인 표시)"></td> 
+   <td><img src="assets/check.svg" alt="(확인 표시)"></td> 
+   <td><br></td> 
+   <td><br></td>
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><img src="assets/check.svg" alt="(확인 표시)"></td> 
+   <td><img src="assets/check.svg" alt="(확인 표시)"></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td>
+  </tr> 
+    <tr> 
+   <td>기회가 업데이트됨</td> 
+   <td><img src="assets/check.svg" alt="(확인 표시)"></td> 
+   <td><img src="assets/check.svg" alt="(확인 표시)"></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td>
+  </tr> 
+    <tr> 
+   <td>소유자 변경</td> 
+   <td><img src="assets/check.svg" alt="(확인 표시)"></td> 
+   <td><img src="assets/check.svg" alt="(확인 표시)"></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td>
+  </tr> 
+  <tr> 
+   <td>전환된 사람</td> 
+   <td><img src="assets/check.svg" alt="(확인 표시)"></td> 
+   <td><img src="assets/check.svg" alt="(확인 표시)"></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td>
+  </tr> 
+  <tr> 
+   <td>SFDC에서 인물 삭제</td> 
+   <td><img src="assets/check.svg" alt="(확인 표시)"></td> 
+   <td><img src="assets/check.svg" alt="(확인 표시)"></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td>
+  </tr> 
+  <tr> 
+   <td>사람이 SFDC에 동기화됨</td> 
+   <td><img src="assets/check.svg" alt="(확인 표시)"></td> 
+   <td><img src="assets/check.svg" alt="(확인 표시)"></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td>
+  </tr> 
+  <tr> 
+   <td>Opportunity에서 제거됨</td> 
+   <td><img src="assets/check.svg" alt="(확인 표시)"></td> 
+   <td><img src="assets/check.svg" alt="(확인 표시)"></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td>
+  </tr> 
+  <tr> 
+   <td>SFDC 캠페인에서 제거됨</td> 
+   <td><img src="assets/check.svg" alt="(확인 표시)"></td> 
+   <td><img src="assets/check.svg" alt="(확인 표시)"></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td>
+  </tr> 
+  <tr> 
+   <td>활동이 기록됨</td> 
+   <td><img src="assets/check.svg" alt="(확인 표시)"></td> 
+   <td><img src="assets/check.svg" alt="(확인 표시)"></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td>
+  </tr> 
+  <tr> 
+   <td>활동이 업데이트됨</td> 
+   <td><img src="assets/check.svg" alt="(확인 표시)"></td> 
+   <td><img src="assets/check.svg" alt="(확인 표시)"></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td>
+  </tr> 
+  <tr> 
+   <td>기회에 추가</td> 
+   <td><img src="assets/check.svg" alt="(확인 표시)"></td> 
+   <td><img src="assets/check.svg" alt="(확인 표시)"></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td>
+  </tr> 
+  <tr> 
+   <td>SFDC 캠페인에 추가됨</td> 
+   <td><img src="assets/check.svg" alt="(확인 표시)"></td> 
+   <td><img src="assets/check.svg" alt="(확인 표시)"></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td>
+  </tr> 
+  <tr> 
+   <td>SFDC 캠페인에서 상태가 변경됨</td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td>
+  </tr> 
+ </tbody> 
+</table>
+
+**판매 연결 트리거**
+
+<table> 
+ <colgroup> 
+  <col> 
+  <col> 
+  <col> 
+  <col> 
+  <col> 
+  <col> 
+  <col> 
+  <col> 
+  <col> 
+  <col> 
+  <col>
+  <col>
+  <col>
+  <col> 
+ </colgroup> 
+ <tbody> 
+  <tr> 
+   <th><br></th> 
+   <th><code>{{trigger.Trigger Name}}</code></th> 
+   <th><code>{{trigger.Name}}</code></th> 
+   <th><code>{{trigger.Link}}</code></th> 
+   <th><code>{{trigger.Subject}}</code></th> 
+   <th><code>{{trigger.Category}}</code></th> 
+   <th><code>{{trigger.Details}}</code></th> 
+   <th><code>{{trigger.Web Page}}</code></th> 
+   <th><code>{{trigger.Client IP Address}}</code></th> 
+   <th><code>{{trigger.Sent By}}</code></th> 
+   <th><code>{{trigger.Received By}}</code></th> 
+   <th><code>{{trigger.Referrer}}</code></th>
+   <th><code>{{trigger.Search Engine}}</code></th>
+   <th><code>{{trigger.Search Query}}</code></th>
+   <th><code>{{trigger.Browser}}</code></th>
+  </tr> 
+  <tr> 
+   <td>영업 이메일의 클릭 수 링크</td> 
+   <td><img src="assets/check.svg" alt="(확인 표시)"></td> 
+   <td><img src="assets/check.svg" alt="(확인 표시)"></td> 
+   <td><img src="assets/check.svg" alt="(확인 표시)"></td> 
+   <td><img src="assets/check.svg" alt="(확인 표시)"></td> 
+   <td><br></td>
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><img src="assets/check.svg" alt="(확인 표시)"></td> 
+   <td><img src="assets/check.svg" alt="(확인 표시)"></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td>
+  </tr> 
+  <tr> 
+   <td>영업 이메일이 전송됨</td> 
+   <td><img src="assets/check.svg" alt="(확인 표시)"></td> 
+   <td><img src="assets/check.svg" alt="(확인 표시)"></td> 
+   <td><img src="assets/check.svg" alt="(확인 표시)"></td> 
+   <td><img src="assets/check.svg" alt="(확인 표시)"></td> 
+   <td><br></td>
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><img src="assets/check.svg" alt="(확인 표시)"></td> 
+   <td><img src="assets/check.svg" alt="(확인 표시)"></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td>
+  </tr> 
+  <tr> 
+   <td>영업 이메일 열기</td> 
+   <td><img src="assets/check.svg" alt="(확인 표시)"></td> 
+   <td><img src="assets/check.svg" alt="(확인 표시)"></td> 
+   <td><img src="assets/check.svg" alt="(확인 표시)"></td> 
+   <td><img src="assets/check.svg" alt="(확인 표시)"></td> 
+   <td><br></td>
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><img src="assets/check.svg" alt="(확인 표시)"></td> 
+   <td><img src="assets/check.svg" alt="(확인 표시)"></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td>
+  </tr> 
+  <tr> 
+   <td>판매 이메일 바운스 수</td> 
+   <td><img src="assets/check.svg" alt="(확인 표시)"></td> 
+   <td><img src="assets/check.svg" alt="(확인 표시)"></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td>
+  </tr> 
+  <tr> 
+   <td>판매 이메일 수신</td> 
+   <td><img src="assets/check.svg" alt="(확인 표시)"></td> 
+   <td><img src="assets/check.svg" alt="(확인 표시)"></td> 
+   <td><img src="assets/check.svg" alt="(확인 표시)"></td> 
+   <td><img src="assets/check.svg" alt="(확인 표시)"></td> 
+   <td><br></td>
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><img src="assets/check.svg" alt="(확인 표시)"></td> 
+   <td><img src="assets/check.svg" alt="(확인 표시)"></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td>
+  </tr> 
+  <tr> 
+   <td>판매 캠페인에 추가됨</td> 
+   <td><img src="assets/check.svg" alt="(확인 표시)"></td> 
+   <td><img src="assets/check.svg" alt="(확인 표시)"></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td>
+  </tr> 
+  <tr>
+   <td>소유자 변경</td> 
+   <td>판매 캠페인에서 제거됨</td> 
+   <td><img src="assets/check.svg" alt="(확인 표시)"></td> 
+   <td><img src="assets/check.svg" alt="(확인 표시)"></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td>
+  </tr> 
+  <tr> 
+   <td>접수 판매 전화</td> 
+   <td><img src="assets/check.svg" alt="(확인 표시)"></td> 
+   <td><img src="assets/check.svg" alt="(확인 표시)"></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td>
+  </tr> 
+ </tbody> 
+</table>
+
+**기타**
+
+<table> 
+ <colgroup> 
+  <col> 
+  <col> 
+  <col> 
+  <col> 
+  <col> 
+  <col> 
+  <col> 
+  <col> 
+  <col> 
+  <col> 
+  <col>
+  <col>
+  <col>
+  <col> 
+ </colgroup> 
+ <tbody> 
+  <tr> 
+   <th><br></th> 
+   <th><code>{{trigger.Trigger Name}}</code></th> 
+   <th><code>{{trigger.Name}}</code></th> 
+   <th><code>{{trigger.Link}}</code></th> 
+   <th><code>{{trigger.Subject}}</code></th> 
+   <th><code>{{trigger.Category}}</code></th> 
+   <th><code>{{trigger.Details}}</code></th> 
+   <th><code>{{trigger.Web Page}}</code></th> 
+   <th><code>{{trigger.Client IP Address}}</code></th> 
+   <th><code>{{trigger.Sent By}}</code></th> 
+   <th><code>{{trigger.Received By}}</code></th> 
+   <th><code>{{trigger.Referrer}}</code></th>
+   <th><code>{{trigger.Search Engine}}</code></th>
+   <th><code>{{trigger.Search Query}}</code></th>
+   <th><code>{{trigger.Browser}}</code></th>
   </tr> 
   <tr> 
    <td>양식 채우기</td> 
@@ -211,20 +759,45 @@ ht-degree: 0%
    <td><img src="assets/check.svg" alt="(확인 표시)"></td> 
    <td><img src="assets/check.svg" alt="(확인 표시)"></td> 
    <td><br></td> 
-   <td><p><br></p></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td>
   </tr> 
   <tr> 
-   <td colspan="1">웹 페이지 방문 횟수*</td> 
-   <td colspan="1"><img src="assets/check.svg" alt="(확인 표시)"></td> 
-   <td colspan="1"><br></td> 
-   <td colspan="1"><br></td> 
-   <td colspan="1"><br></td> 
-   <td colspan="1"><br></td> 
-   <td colspan="1"><br></td> 
-   <td colspan="1"><img src="assets/check.svg" alt="(확인 표시)"></td> 
-   <td colspan="1"><br></td> 
-   <td colspan="1"><br></td> 
-   <td colspan="1"><br></td> 
+   <td>웹 페이지 방문 횟수</td> 
+   <td><img src="assets/check.svg" alt="(확인 표시)"></td> 
+   <td><img src="assets/check.svg" alt="(확인 표시)"></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><img src="assets/check.svg" alt="(확인 표시)"></td> 
+   <td><img src="assets/check.svg" alt="(확인 표시)"></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><img src="assets/check.svg" alt="(확인 표시)"></td> 
+   <td><img src="assets/check.svg" alt="(확인 표시)"></td> 
+   <td><img src="assets/check.svg" alt="(확인 표시)"></td> 
+   <td><br></td>
+  </tr> 
+  <tr> 
+   <td>웹 페이지에서 링크 클릭 수</td> 
+   <td><img src="assets/check.svg" alt="(확인 표시)"></td> 
+   <td><img src="assets/check.svg" alt="(확인 표시)"></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><img src="assets/check.svg" alt="(확인 표시)"></td> 
+   <td><img src="assets/check.svg" alt="(확인 표시)"></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><img src="assets/check.svg" alt="(확인 표시)"></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td>
   </tr> 
  </tbody> 
 </table>
