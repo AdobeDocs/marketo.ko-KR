@@ -3,9 +3,9 @@ unique-page-id: 14746177
 description: 구독 취소 재가입 - Marketing To Docs - 제품 설명서
 title: 가입 해지 다시 가입
 translation-type: tm+mt
-source-git-commit: 1dd80b7de801df78ac7dde39002455063f9979b7
+source-git-commit: 1649aae540204bb5de205e3f5b75ec7e968a7da4
 workflow-type: tm+mt
-source-wordcount: '136'
+source-wordcount: '198'
 ht-degree: 0%
 
 ---
@@ -40,3 +40,7 @@ ht-degree: 0%
 1. 받는 사람이 이메일을 받기 위해 다시 옵트인되는 이유를 선택한 다음 **구독 취소**&#x200B;를 클릭합니다.
 
    ![](assets/four.png)
+
+>[!NOTE]
+>
+>구독 취소 동기화가 켜져 있는 경우 Salesforce의 레코드에 있는 옵트아웃 상자의 선택을 취소해야 합니다. 그렇지 않으면 Salesforce에서 옵트아웃된 사람을 감지할 수 있으므로 Sales Connect에서 해당 사람의 가입을 다시 해지할 수 있습니다. 레코드 중 하나가 옵트아웃/구독 취소인 경우 동기에는 연결된 레코드가 이와 같이 표시됩니다.
