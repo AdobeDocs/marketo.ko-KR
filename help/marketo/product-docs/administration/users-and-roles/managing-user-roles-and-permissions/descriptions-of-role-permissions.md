@@ -3,7 +3,7 @@ unique-page-id: 6848747
 description: 역할 권한 설명 - 마케팅 문서 - 제품 설명서
 title: 역할 권한 설명
 translation-type: tm+mt
-source-git-commit: f79909ce8f2e37bf0748596774fe47ac03618696
+source-git-commit: 1649aae540204bb5de205e3f5b75ec7e968a7da4
 workflow-type: tm+mt
 source-wordcount: '1144'
 ht-degree: 0%
@@ -86,7 +86,7 @@ ht-degree: 0%
 * 읽기-쓰기 기회
 * 읽기-쓰기 영업 담당자
 
-분석 액세스
+## Analytics {#access-analytics} 액세스
 
 선택을 선택하지 않는 한 사용자에게 Analytics 탭, 이메일 인사이트, 보고서 및 아래 3개 항목에 대한 액세스 권한을 제공합니다.
 
@@ -96,7 +96,7 @@ ht-degree: 0%
 
 ## 달력 Presentations {#access-calendar-presentations} 액세스
 
-사용자에게 달력 프레젠테이션?? 액세스 제공 - 맨 아래에 Presentations 단추를 표시할 수 있습니까?
+사용자에게 달력 프레젠테이션에 대한 액세스 제공 - 맨 아래에 Presentations 단추를 표시할 수 있습니다.
 
 * 달력 Presentations 편집 - 사용자가 달력에서 프레젠테이션을 편집할 수 있도록 설정
 
