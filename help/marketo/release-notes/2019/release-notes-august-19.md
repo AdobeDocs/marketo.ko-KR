@@ -3,9 +3,9 @@ unique-page-id: 27656786
 description: 릴리스 노트 - 19년 8월 19일 - 마케팅 문서 - 제품 설명서
 title: 릴리스 노트 - 1909년 8월
 translation-type: tm+mt
-source-git-commit: b33f5ed707a1377daad51191cc6dd9f093138258
+source-git-commit: 1649aae540204bb5de205e3f5b75ec7e968a7da4
 workflow-type: tm+mt
-source-wordcount: '341'
+source-wordcount: '325'
 ht-degree: 0%
 
 ---
@@ -38,7 +38,6 @@ ht-degree: 0%
 
 **Marketing To Sales Connect** ![(스타)](assets/star-yellow.svg)
 
-* **온보딩**:단계별 연습에서는 인스턴스 설정을 통해 신규 사용자를 안내하여 온보딩을 보다 쉽고 효율적으로 수행할 수 있습니다.
 * **인물 페이지 레이아웃 개선: 새 사람 페이지 레이아웃의 목록 가져오기 및 벌크 작업을 통해 사람 및 그룹을** 관리합니다.
 
 >[!AVAILABILITY]
