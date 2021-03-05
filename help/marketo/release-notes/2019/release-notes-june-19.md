@@ -3,9 +3,9 @@ unique-page-id: 18874822
 description: 릴리스 노트 - 19년 6월 19일 - 마케팅 문서 - 제품 설명서
 title: 릴리스 노트 -190년 6월
 translation-type: tm+mt
-source-git-commit: b33f5ed707a1377daad51191cc6dd9f093138258
+source-git-commit: 1649aae540204bb5de205e3f5b75ec7e968a7da4
 workflow-type: tm+mt
-source-wordcount: '651'
+source-wordcount: '631'
 ht-degree: 0%
 
 ---
@@ -56,7 +56,6 @@ ht-degree: 0%
 ## Marketing To Sales Connect {#marketo-sales-connect}
 
 * **Salesforce 사용자 정의 일괄 작업**:Salesforce Customization을 사용하면 이메일을 전송하고 캠페인을 일괄적으로 추가하여 생산성을 극대화할 수 있습니다.
-* **선택, 드래그 앤 드롭**:템플릿을 직관적인 카테고리로 드래그하여 놓을 수 있으므로 Sales Connect 인스턴스를 손쉽게 구성할 수 있습니다.
 * **설정 - 관리 및 비관리를 위한 Salesforce 페이지**:Sales Connect에 연결된 Salesforce 인스턴스와 Salesforce 간 내 이메일 업데이트를 명확하게 확인하여 Sales Connect 인스턴스를 관리할 수 있습니다. 관리자, 관리자가 아닌 사용자 및 팀 전체 동기화에 대한 향상된 동기화 설정이 몇 개월 후에 공개됩니다.
 * **설정 - 통합 페이지**:모든 통합을 위한 원스톱 숍을 통해 개방형 에코시스템을 최대한 활용할 수 있습니다.
 * **설정 - 프로필 페이지**:이 새로운 프로필 페이지에서 계정 세부 사항을 보고 업데이트하고, 암호를 변경하고, 인스턴스 구현 상태를 확인하십시오.
