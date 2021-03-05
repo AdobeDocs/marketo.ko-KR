@@ -3,9 +3,9 @@ unique-page-id: 2953415
 description: 개인 세부 정보 페이지 사용 - 마케팅 문서 - 제품 설명서
 title: 개인 세부 사항 페이지 사용
 translation-type: tm+mt
-source-git-commit: 07f713ece9832b7696451001f61c6a3b45b4a94a
+source-git-commit: 1649aae540204bb5de205e3f5b75ec7e968a7da4
 workflow-type: tm+mt
-source-wordcount: '527'
+source-wordcount: '550'
 ht-degree: 0%
 
 ---
@@ -59,6 +59,10 @@ ht-degree: 0%
 | Microsoft 리드 필드 | 내장된 Microsoft 필드 |
 | 활동 로그 | 사람과 관련된 모든 활동. |
 
+>[!NOTE]
+>
+>CRM과 동기화되지 않은 인스턴스에 대해 API](http://developers.marketo.com/rest-api/lead-database/opportunities/)를 통해 삽입된 기회 정보 [도 볼 수 있습니다.
+
 ## 필드 편집 {#editing-a-field}
 
 많은 필드를 편집할 수 있습니다. 개인 정보를 업데이트하려면 새 값을 입력하고 저장할 필드 외부를 클릭합니다.
@@ -92,10 +96,10 @@ ht-degree: 0%
 >
 >일부 필드는 편집할 수 없는 _입니다._
 >
+>* 활동 로그
 >* 회사 정보
 >* SFDC 연락처 기회
 >* 만든 날짜 및 원래 소스 유형과 같은 특정 마케팅 관련 필드입니다.
->* 활동 로그
 
 >
 >
