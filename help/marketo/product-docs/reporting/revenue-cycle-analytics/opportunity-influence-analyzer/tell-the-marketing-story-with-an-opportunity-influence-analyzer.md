@@ -3,7 +3,7 @@ unique-page-id: 2360237
 description: 기회 영향 분석기 - Marketing To Docs - 제품 설명서를 사용하여 마케팅 스토리 전달
 title: 기회 영향 분석기를 사용하여 마케팅 스토리 전달
 translation-type: tm+mt
-source-git-commit: cb7df3dd38275837f8ab05ce846c2c68ab78462f
+source-git-commit: 4a7aced48fde39a5bfbd5bef0c698211426a540c
 workflow-type: tm+mt
 source-wordcount: '343'
 ht-degree: 0%
@@ -25,7 +25,7 @@ ht-degree: 0%
 
    기회 영향 분석기는 해당 기회에 관련된 상호 작용 및 프로그램 및 이벤트 성공을 시각적으로 보여줍니다. 그래프를 살펴보죠.
 
-   * ![—](assets/image2014-10-3-13-3a43-3a21.png) **Orange** dots는 기회 [에 대한 관심](/help/marketo/product-docs/marketo-sales-connect/marketo/interesting-moments-in-msc.md) 을 보여줍니다(이메일 열림, 무역 박람회 부스 방문, 백서 다운로드 등). 점이 크면 상호 작용이 더 많아집니다.
+   * ![—](assets/image2014-10-3-13-3a43-3a21.png) **Orange** dots는 영업 기회(이메일 열림, 무역 박람회 부스 방문, 백서 다운로드 등)의 관심 분야를 나타냅니다. 점이 크면 상호 작용이 더 많아집니다.
 
    * ![—](assets/image2014-10-3-13-3a44-3a9.png) **바인더 아이콘프로그램** 성공을 나타냅니다.
 
