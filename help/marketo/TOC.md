@@ -5,9 +5,9 @@ audience: end-user
 user-guide-title: 마케팅 가이드
 user-guide-description: 마케팅 제품 설명서
 translation-type: tm+mt
-source-git-commit: 1649aae540204bb5de205e3f5b75ec7e968a7da4
+source-git-commit: 4a7aced48fde39a5bfbd5bef0c698211426a540c
 workflow-type: tm+mt
-source-wordcount: '7857'
+source-wordcount: '7875'
 ht-degree: 0%
 
 ---
@@ -187,6 +187,7 @@ ht-degree: 0%
          + [사용자 지정 필드 유형 용어](product-docs/administration/field-management/custom-field-type-glossary.md)
          + [Marketing To에서 사용자 정의 필드 삭제](product-docs/administration/field-management/delete-a-custom-field-in-marketo.md)
          + [목록 가져오기에 대한 필드 별칭 편집](product-docs/administration/field-management/edit-field-aliases-for-list-import.md)
+         + [모든 개체 메타데이터 내보내기](product-docs/administration/field-management/export-all-object-metadata.md)
          + [모든 마케팅 API 필드 이름 목록 내보내기](product-docs/administration/field-management/export-a-list-of-all-marketo-api-field-names.md)
          + [필드에 대해 데이터에서 사용하는 내보내기](product-docs/administration/field-management/export-used-by-data-for-a-field.md)
          + [필드 숨기기 및 숨김 취소](product-docs/administration/field-management/hide-and-unhide-a-field.md)
@@ -246,6 +247,7 @@ ht-degree: 0%
          + [사용자 및 역할 목록 내보내기](product-docs/administration/users-and-roles/export-a-list-of-users-and-roles.md)
          + [마케팅 사용자 관리](product-docs/administration/users-and-roles/managing-marketo-users.md)
          + [사용자 역할 및 권한 관리](product-docs/administration/users-and-roles/managing-user-roles-and-permissions.md)
+         + [역할 및 권한 내보내기](product-docs/administration/users-and-roles/export-roles-and-permissions.md)
          + [역할 권한 설명](product-docs/administration/users-and-roles/managing-user-roles-and-permissions/descriptions-of-role-permissions.md)
          + [코드 단편에 대해 초안 없음 사용](product-docs/administration/users-and-roles/managing-user-roles-and-permissions/enable-no-draft-for-snippets.md)
       + 작업 영역 및 개인 파티션 {#workspaces-and-person-partitions}
@@ -434,6 +436,7 @@ ht-degree: 0%
          + 토큰 {#tokens}
             + [내 토큰 관리](product-docs/core-marketo-concepts/programs/tokens/managing-my-tokens.md)
             + [프로그램의 내 토큰 이해](product-docs/core-marketo-concepts/programs/tokens/understanding-my-tokens-in-a-program.md)
+            + [프로그램 멤버 사용자 정의 필드 토큰](product-docs/core-marketo-concepts/programs/tokens/program-member-custom-field-tokens.md)
       + 마케팅 달력 {#marketing-calendar}
          + 달력 {#understanding-the-calendar} 이해
             + [마케팅 달력 라이선스 문제/취소](product-docs/core-marketo-concepts/marketing-calendar/understanding-the-calendar/issue-revoke-a-marketing-calendar-license.md)
@@ -789,7 +792,7 @@ ht-degree: 0%
                + [템플릿 12-F](product-docs/demand-generation/landing-pages/landing-page-templates/guided-landing-page-templates/template-12-f.md)
                + [템플릿 13-A](product-docs/demand-generation/landing-pages/landing-page-templates/guided-landing-page-templates/template-13-a.md)
                + [템플릿 13-B](product-docs/demand-generation/landing-pages/landing-page-templates/guided-landing-page-templates/template-13-b.md)
-               + [템플릿 13-A](product-docs/demand-generation/landing-pages/landing-page-templates/guided-landing-page-templates/template-13-c.md)
+               + [템플릿 13-C](product-docs/demand-generation/landing-pages/landing-page-templates/guided-landing-page-templates/template-13-c.md)
                + [템플릿 13-D](product-docs/demand-generation/landing-pages/landing-page-templates/guided-landing-page-templates/template-13-d.md)
                + [템플릿 13-E](product-docs/demand-generation/landing-pages/landing-page-templates/guided-landing-page-templates/template-13-e.md)
                + [템플릿 14-A](product-docs/demand-generation/landing-pages/landing-page-templates/guided-landing-page-templates/template-14-a.md)
@@ -1027,6 +1030,7 @@ ht-degree: 0%
          + [영업 연결 개요](product-docs/marketo-sales-connect/getting-started/sales-connect-overview.md)
          + [Sales Connect 시작하기](product-docs/marketo-sales-connect/getting-started/getting-started-with-sales-connect.md)
          + [빠른 시작 비디오 및 Tutorials](product-docs/marketo-sales-connect/getting-started/quick-start-videos-and-tutorials.md)
+         + [판매 연결 암호 변경](product-docs/marketo-sales-connect/getting-started/change-your-sales-connect-password.md)
          + 이메일 설정 {#email-settings}
             + [ID 추가](product-docs/marketo-sales-connect/getting-started/email-settings/add-identity.md)
             + [이메일 서명 추가](product-docs/marketo-sales-connect/getting-started/email-settings/add-your-email-signature.md)
