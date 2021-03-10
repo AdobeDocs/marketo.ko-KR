@@ -3,9 +3,9 @@ unique-page-id: 11379928
 description: 감사 추적 - 마케팅 문서 - 제품 설명서의 변경 세부 사항
 title: 감사 추적 시 세부 사항 변경
 translation-type: tm+mt
-source-git-commit: 78961a3e163ce903facf955a9dda6909b5e85bad
+source-git-commit: 65182770291dc14fbe915a40403fc09b433aae86
 workflow-type: tm+mt
-source-wordcount: '1889'
+source-wordcount: '1913'
 ht-degree: 0%
 
 ---
@@ -30,7 +30,7 @@ Audit Trail은 Marketing To 구독에서 누가 무엇을 하는지를 아주 �
    <th colspan="1">세부 사항 변경</th> 
   </tr> 
   <tr> 
-   <td rowspan="15">기본 프로그램<br><br><br><br><br><br><br><br><br><br><br></td> 
+   <td rowspan="15"><strong>기본 프로그램</strong><br><br><br><br><br><br><br><br><br><br><br></td> 
    <td>만들기</td> 
    <td>채널 유형 "채널 유형"<br>또는<br>"프로그램 이름"에서 복제됨</td> 
   </tr> 
@@ -91,7 +91,7 @@ Audit Trail은 Marketing To 구독에서 누가 무엇을 하는지를 아주 �
    <td>해당 없음</td> 
   </tr> 
   <tr> 
-   <td rowspan="18">이메일<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br></td> 
+   <td rowspan="19"><strong>이메일</strong><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br></td> 
    <td>만들기</td> 
    <td>"템플릿 이름" <br> 또는 <br>템플릿 "자산 이름"에서 복제됨</td> 
   </tr> 
@@ -132,6 +132,14 @@ Audit Trail은 Marketing To 구독에서 누가 무엇을 하는지를 아주 �
    <td>템플릿 "template_name"에서 차단된 이메일을 편집합니다(참고:이 문제는 코드를 직접 편집하면 발생합니다.)</td> 
   </tr> 
   <tr> 
+   <td>편집</td> 
+   <td>새 설명 "new description" 이전 설명 "old description"</td> 
+  </tr> 
+  <tr> 
+   <td>편집</td> 
+   <td>모듈 편집 <module name><attribute> "value"를</td> 
+  </tr> 
+  <tr> 
    <td>삭제</td> 
    <td>해당 없음</td> 
   </tr> 
@@ -140,12 +148,8 @@ Audit Trail은 Marketing To 구독에서 누가 무엇을 하는지를 아주 �
    <td>새 이름 "새 이름", 이전 이름 "이전 이름"</td> 
   </tr> 
   <tr> 
-   <td>편집</td> 
-   <td>새 설명 "new description" 이전 설명 "old description"</td> 
-  </tr> 
-  <tr> 
    <td>복제</td> 
-   <td>"Design studio"를 폴더 "폴더 이름" <br>복제된 에셋 이름 "이름"<br> 또는<br>"마케팅 활동"을 프로그램 "프로그램 이름"<br>복제된 에셋 이름 "이름"으로 복제됨</td> 
+   <td>"Design studio"를 "Fodername" 폴더로 복제됨 <br>복제된 에셋 이름 "이름"<br> 또는<br>Marketing Activities"에 복제하여 프로그램 "프로그램 이름"<br>복제된 에셋 이름 "이름"</td> 
   </tr> 
   <tr> 
    <td>이동</td> 
@@ -161,9 +165,8 @@ Audit Trail은 Marketing To 구독에서 누가 무엇을 하는지를 아주 �
   </tr> 
   <tr> 
    <td>초안</td> 
-   <td>"템플릿 이름"이(가) 승인되었기 때문에 "snippet name"(코드 단편 이름)이 승인되었거나<br>또는<br>이메일이 작성되었습니다.</td> 
+   <td>"템플릿 이름"이(가) 승인되었으므로 조각 "코드 단편 이름"이 승인됨<br>또는<br>이메일이 작성되었습니다.</td> 
   </tr> 
-  <tr> 
    <td rowspan="17">이메일 프로그램</td> 
    <td>만들기</td> 
    <td>채널 유형 "채널 유형"<br>또는<br>"프로그램 이름"에서 복제됨</td> 
@@ -479,7 +482,7 @@ Audit Trail은 Marketing To 구독에서 누가 무엇을 하는지를 아주 �
   </tr> 
   <tr> 
    <td>복제</td> 
-   <td>"Design studio"를 폴더 "폴더 이름" <br>복제된 에셋 이름 "이름"<br> 또는<br>"마케팅 활동"을 프로그램 "프로그램 이름"<br>복제된 에셋 이름 "이름"으로 복제됨</td> 
+   <td>"Design studio"를 "Fodername" 폴더로 복제됨 <br>복제된 에셋 이름 "이름"<br> 또는<br>Marketing Activities"에 복제하여 프로그램 "프로그램 이름"<br>복제된 에셋 이름 "이름"</td> 
   </tr> 
   <tr> 
    <td>이동</td> 
@@ -506,6 +509,14 @@ Audit Trail은 Marketing To 구독에서 누가 무엇을 하는지를 아주 �
   <tr> 
    <td>편집</td> 
    <td>새 설명 "새 설명" 이전 "이전 설명"</td> 
+  </tr> 
+  <tr> 
+   <td>편집</td> 
+   <td>"이미지" 추가, 제거된 "이미지", 편집된 이미지 구성 요소</td> 
+  </tr> 
+  <tr> 
+   <td>편집</td> 
+   <td>"리치 텍스트" 추가, "리치 텍스트" 제거, 편집된 리치 텍스트 구성 요소</td> 
   </tr> 
   <tr> 
    <td>복제</td> 
