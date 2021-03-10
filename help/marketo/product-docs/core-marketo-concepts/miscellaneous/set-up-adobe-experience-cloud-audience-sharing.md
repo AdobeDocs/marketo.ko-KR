@@ -3,9 +3,9 @@ unique-page-id: 42762511
 description: Adobe Experience Cloud 고객 공유 설정 - Marketing To Docs - 제품 설명서
 title: Adobe Experience Cloud 대상 공유 설정
 translation-type: tm+mt
-source-git-commit: e5050328cbddaf072dd60ddd8d7363a704e720b5
+source-git-commit: 65182770291dc14fbe915a40403fc09b433aae86
 workflow-type: tm+mt
-source-wordcount: '161'
+source-wordcount: '170'
 ht-degree: 0%
 
 ---
@@ -49,4 +49,4 @@ ht-degree: 0%
 
 1. 이미 로그인되어 있지 않은 _인 경우 새 탭/창에 팝업이 표시됩니다._ Adobe 조직에 로그인합니다(이 작업은 조직 액세스를 검증합니다).
 
-   바로 그거야! 이제 [대상 데이터 공유](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/static-lists/send-a-list-to-adobe-experience-cloud.md)를 시작할 수 있습니다.
+바로 그거야! 이제 [Adobe Experience Cloud에서 대상](/help/marketo/product-docs/core-marketo-concepts/miscellaneous/sync-an-audience-from-adobe-experience-cloud.md)과 대상 데이터](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/static-lists/send-a-list-to-adobe-experience-cloud.md)를 또는 [동기화할 수 있습니다.
