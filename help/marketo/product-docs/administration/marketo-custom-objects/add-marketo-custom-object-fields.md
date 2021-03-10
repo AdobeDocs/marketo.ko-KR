@@ -3,9 +3,9 @@ unique-page-id: 10093688
 description: 마케팅 to 사용자 지정 개체 필드 추가 - 마케팅 문서 - 제품 설명서
 title: 마케팅을 사용자 지정 개체 필드에 추가
 translation-type: tm+mt
-source-git-commit: f865630638e7c0fe6ac2a449e196a7de4fbfeea1
+source-git-commit: 65182770291dc14fbe915a40403fc09b433aae86
 workflow-type: tm+mt
-source-wordcount: '282'
+source-wordcount: '293'
 ht-degree: 0%
 
 ---
@@ -51,7 +51,7 @@ ht-degree: 0%
 
    >[!TIP]
    >
-   >데이터 중복 제거 필드를 만들면 이 필드를 사용하여 데이터베이스의 중복 필드를 제거할 수 있습니다.
+   >사용자 정의 개체를 검색, 업데이트 또는 삭제하는 데 중복 제거 필드를 사용할 수 있습니다. 모든 사용자 정의 객체 정의에는 최소 1개의 데이터 중복 제거 필드가 있어야 합니다(3개 이하).
 
 1. 필요한 다른 필드를 추가합니다.
 
@@ -63,6 +63,6 @@ ht-degree: 0%
 >
 >* [마케팅을 사용자 지정 개체 링크 필드에 추가](/help/marketo/product-docs/administration/marketo-custom-objects/add-marketo-custom-object-link-fields.md)
 >* [마케팅 사용자 지정 개체 편집 및 삭제](/help/marketo/product-docs/administration/marketo-custom-objects/edit-and-delete-a-marketo-custom-object.md)
->* [마케팅 사용자 지정 개체 이해](/help/marketo/product-docs/administration/marketo-custom-objects/understanding-marketo-custom-objects.md)
 >* [마케팅 사용자 지정 개체 필드 편집 및 삭제](/help/marketo/product-docs/administration/marketo-custom-objects/edit-and-delete-marketo-custom-object-fields.md)
+>* [마케팅 사용자 지정 개체 이해](/help/marketo/product-docs/administration/marketo-custom-objects/understanding-marketo-custom-objects.md)
 
