@@ -3,9 +3,9 @@ unique-page-id: 2360337
 description: 연결된 문자열(공식) 필드 만들기 및 사용 - 마케팅 문서 - 제품 설명서
 title: 연결된 문자열(공식) 필드 만들기 및 사용
 translation-type: tm+mt
-source-git-commit: f865630638e7c0fe6ac2a449e196a7de4fbfeea1
+source-git-commit: 7b18fee7e376d6101cbeec45a3fcbaf1104c1bd0
 workflow-type: tm+mt
-source-wordcount: '161'
+source-wordcount: '172'
 ht-degree: 0%
 
 ---
@@ -39,14 +39,16 @@ ht-degree: 0%
 
    ![](assets/image2014-9-19-9-3a46-3a25.png)
 
-   흐름 단계](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/use-tokens-in-flow-steps.md)에 대한 [토큰에 대해 자세히 알아보십시오.
+   >[!TIP]
+   >
+   >흐름 단계](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/use-tokens-in-flow-steps.md)에 대한 [토큰에 대해 자세히 알아보십시오.
 
 1. 이제 전자 메일에 토큰으로 공식 필드를 추가할 수 있습니다.
 
    ![](assets/seven.png)
 
-잘했어! 이제 성별에 따라 어떤 인사말을 포함시킬지 아는 스마트한 영역이 있습니다. 즐겁게 작업하고 크리에이티브하게 만들어 보세요.
-
 >[!NOTE]
 >
->공식 필드는 랜딩 페이지, 이메일 및 스마트 목록 열에 사용할 수 있습니다.내보낼 수 없습니다. 공식 필드가 있는 이메일은 일괄 캠페인을 통해 보낼 수 없습니다.
+>공식 필드는 랜딩 페이지, 이메일 및 스마트 목록 열에서 사용할 수 있습니다(내보내지지 않음). 공식 필드가 있는 이메일은 일괄 처리 캠페인을 사용하여 **보내지 않음**&#x200B;으로 보낼 수 있습니다. 이 시나리오에서 [전자 메일 스크립트 토큰](/help/marketo/product-docs/email-marketing/general/using-tokens/create-an-email-script-token.md)을 사용하십시오.
+
+잘했어! 이제 성별에 따라 어떤 인사말을 포함시킬지 아는 스마트한 영역이 있습니다. 즐겁게 작업하고 크리에이티브하게 만들어 보세요.
