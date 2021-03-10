@@ -3,9 +3,9 @@ unique-page-id: 2359428
 description: 랜딩 페이지 리디렉션 - 마케팅 문서 - 제품 설명서
 title: 랜딩 페이지 리디렉션
 translation-type: tm+mt
-source-git-commit: d7d6aee63144c472e02fe0221c4a164183d04dd4
+source-git-commit: 65182770291dc14fbe915a40403fc09b433aae86
 workflow-type: tm+mt
-source-wordcount: '146'
+source-wordcount: '139'
 ht-degree: 0%
 
 ---
@@ -21,7 +21,6 @@ ht-degree: 0%
 
 >[!PREREQUISITES]
 >
->* [설정 및 사람 추가](/help/marketo/getting-started/quick-wins/get-set-up-and-add-a-person.md)
 >* [양식이 있는 랜딩 페이지](/help/marketo/getting-started/quick-wins/landing-page-with-a-form.md)
 >* [CNAME을 사용하여 랜딩 페이지 URL 사용자 정의](/help/marketo/product-docs/demand-generation/landing-pages/landing-page-actions/customize-your-landing-page-urls-with-a-cname.md)
 
