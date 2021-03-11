@@ -3,9 +3,9 @@ unique-page-id: 45416698
 description: 릴리스 노트 -20년 7월 - Marketing To Docs - 제품 설명서
 title: 릴리스 노트 - 2007년 7월
 translation-type: tm+mt
-source-git-commit: b33f5ed707a1377daad51191cc6dd9f093138258
+source-git-commit: a7c90193e5c934119fa3b6bdf864d1458d1aad7c
 workflow-type: tm+mt
-source-wordcount: '637'
+source-wordcount: '653'
 ht-degree: 0%
 
 ---
@@ -38,6 +38,11 @@ ht-degree: 0%
 다음 기능은 분기별로 판매되지 않는 주기에 있으며 향후 몇 개월 동안 출시될 예정입니다.
 
 * **Forms 서비스**:새로운 랜딩 페이지용 보안 도메인 기능을 사용하여 더욱 강력한 양식 필드 구문 유효성 검사와 일반적인 보트 패턴을 차단하는 기능을 소개합니다. 보트 패턴을 차단하면 스팸 양식 제출이 줄어들고 데이터베이스 품질이 향상될 수 있습니다.
+
+>[!NOTE]
+>
+>향상된 양식 필드 구문 유효성 검사에 대한 전체 롤아웃이 2021년 1월 릴리스 이후로 연기되었습니다.
+
 * **향상된 자산 API URI 크기 제한**:&quot;_method&quot; 매개 변수를 제거하기 전에 동일한 리소스 ID(URI) 크기 제한이 8KB에서 65KB로 증가됩니다. 긴 쿼리 문자열을 수행할 때 이 크기 제한을 늘리면 데이터가 보다 쉽게 전달될 수 있습니다. &quot;_method&quot; 매개 변수의 제거는 예정된 보안 업그레이드의 일부입니다.
 
 ## Sales Insight {#sales-insight}
