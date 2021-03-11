@@ -3,9 +3,9 @@ unique-page-id: 2360356
 description: 포털에 단일 사인온 추가 - Marketing To Docs - 제품 설명서
 title: 포털에 단일 사인온 추가
 translation-type: tm+mt
-source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
+source-git-commit: a7c90193e5c934119fa3b6bdf864d1458d1aad7c
 workflow-type: tm+mt
-source-wordcount: '458'
+source-wordcount: '530'
 ht-degree: 0%
 
 ---
@@ -30,8 +30,8 @@ SSO가 활성화되면 IdP는 사용자의 자격 증명을 확인할 수 있습
 ## 요청 {#how-to-send-the-request}을 보내는 방법
 
 * SAML 응답인 SSO 요청을 `https://login.marketo.com/saml/assertion/<your-munchkin-id>`으로 전송합니다.
-* SP의 대상 URL입니다. [https://saml.marketo.com/sp](https://saml.marketo.com/sp) 사용
-* SPNameQualifier 특성을 사용 중인 경우 [https://saml.marketo.com/sp](https://saml.marketo.com/sp)에 대한 NameID 요소를 설정합니다.
+* SP의 대상 URL입니다. `https://saml.marketo.com/sp` 사용
+* SPNameQualifier 특성을 사용 중인 경우 `https://saml.marketo.com/sp`에 대해 NameID 요소를 설정합니다.
 * 동일한 SSO 공급자에 대해 여러 Marketing To 구독을 페더레이션하는 경우, `https://saml.marketo.com/sp/<munchkin_id>` 형식의 각 Marketing 하위 항목에 대해 고유한 SP url을 사용할 수 있습니다.
 
 >[!NOTE]
@@ -44,6 +44,8 @@ SSO가 활성화되면 IdP는 사용자의 자격 증명을 확인할 수 있습
 * **사용자 프로비저닝**  - 사용자가 Marketing To에 의해 수동으로 프로비저닝됩니다.
 * **인증**  - 사용자 권한은 Marketing To 내에서 유지됩니다.
 * **OAuth 지원**  - Marketing To는 현재 OAuth를 지원하지 않습니다.
+* **자동 사용자 전달**  - &quot;Just in Time Provisioning&quot;이라고도 하며, 이는 사용자의 첫 번째 SAML 로그인이 액세스 중인 웹 응용 프로그램(예: Marketing)에서 사용자를 생성할 수 있고 수동 관리 작업이 필요하지 않은 경우입니다. 지금은 Marketing Cloud에서 지원하지 않습니다.
+* **암호화**  - Marketing에서 현재 암호화를 지원하지 않습니다.
 
 >[!NOTE]
 >
@@ -59,7 +61,7 @@ SSO는 기본적으로 비활성화되어 있습니다. SAML을 활성화하고 
 
    >[!NOTE]
    >
-   >**관리**&#x200B;에 **단일 사인온**&#x200B;이 표시되지 않으면 [[마케팅 지원]](https://nation.marketo.com/t5/Support/ct-p/Support)에 문의하십시오.
+   >**관리**&#x200B;에 **단일 사인온**&#x200B;이 표시되지 않으면 [마케팅 지원](https://nation.marketo.com/t5/Support/ct-p/Support)에 문의하십시오.
 
 1. **SAML 설정** 섹션에서 **편집**&#x200B;을 클릭합니다.
 
@@ -102,3 +104,10 @@ SSO는 기본적으로 비활성화되어 있습니다. SAML을 활성화하고 
    >[!NOTE]
    >
    >이 두 페이지는 모두 공개적으로 사용할 수 있어야 합니다.
+
+>[!MORELIKETHIS]
+>
+>* [구독 로그인에 범용 ID 사용](/help/marketo/product-docs/administration/settings/using-a-universal-id-for-subscription-login.md)
+>* [사용자 로그인을 SSO로만 제한](/help/marketo/product-docs/administration/additional-integrations/restrict-user-login-to-sso-only.md)
+>* [유니버설 ID를 사용하여 2개의 인스턴스로 마케팅 사용자 초대](https://nation.marketo.com/t5/Knowledgebase/Inviting-Marketo-Users-to-Two-Instances-with-Universal-ID-UID/ta-p/251122)
+
