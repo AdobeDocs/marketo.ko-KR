@@ -3,9 +3,9 @@ unique-page-id: 42762409
 description: 마케팅 관리자를 위한 영업 인사이트 페이지 - 마케팅 문서 - 제품 설명서
 title: 마케팅 관리자를 위한 영업 인사이트 페이지
 translation-type: tm+mt
-source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
+source-git-commit: a7c90193e5c934119fa3b6bdf864d1458d1aad7c
 workflow-type: tm+mt
-source-wordcount: '310'
+source-wordcount: '438'
 ht-degree: 0%
 
 ---
@@ -85,4 +85,14 @@ SFDC에서 Rest API 자격 증명을 제거하고 Soap API만 사용하도록 �
 
 **RSS 피드 사용:**
 
-활성화되면 MSI 사용자는 RSS 피드에서 리드 피드를 볼 수 있습니다(Salesforce의 리드 피드 추가).
+활성화되면 MSI 사용자는 RSS 피드에서 리드 피드를 볼 수 있습니다(Salesforce의 리드 피드 추가). RSS 피드는 &quot;토큰 만료&quot; 기능이 비활성화된 경우에만 사용할 수 있습니다.
+
+**토큰 만료:**
+
+토큰 만료는 기능 관리자에서 제어합니다. 활성화/비활성화하려면 [Marketing Support](https://nation.marketo.com/t5/Support/ct-p/Support)에 도달합니다. 활성화되면 모든 마케팅 토큰이 10분 이내에 만료됩니다. 비활성화되면 마케팅 토큰이 만료되지 않습니다.
+
+토큰 만료일을 활성화하기 전에 생성된 토큰은 유효성을 검사할 만료 시간이 없으므로 이 기능이 현재 활성화되어 있어도 만료되지 않습니다.
+
+토큰 만료 활성화 후 생성된 토큰은 만료 시간이 10분이므로 이 기능이 비활성화된 후에도 10분 후에 만료됩니다.
+
+토큰 동작은 생성일을 기준으로 합니다(토큰 만료 기능이 현재 기능 상태가 아닌 활성화/비활성화된 시기).
