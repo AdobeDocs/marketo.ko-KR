@@ -3,9 +3,9 @@ unique-page-id: 2952636
 description: 사용자 지정 로직 - 마케팅 문서 - 제품 설명서를 사용하여 중복 인물 찾기
 title: 사용자 지정 논리를 사용하여 중복 인물 찾기
 translation-type: tm+mt
-source-git-commit: 07f713ece9832b7696451001f61c6a3b45b4a94a
+source-git-commit: cfefff241b34571b9778cbd827f45d1b468d121e
 workflow-type: tm+mt
-source-wordcount: '111'
+source-wordcount: '137'
 ht-degree: 0%
 
 ---
@@ -37,6 +37,10 @@ Marketing에는 이메일 주소와 일치시켜 중복 사용자를 찾는 시�
    * 전체 이름
    * 성
    * 업데이트 날짜:
+
+   >[!NOTE]
+   >
+   >이메일 주소를 제외한 모든 필드는 대/소문자를 구분합니다. 따라서 [전체 이름] 필드에 &quot;john doe&quot;를 사용하면 _not_ John Doe에 대한 결과가 반환됩니다.
 
    ![](assets/four-2.png)
 
