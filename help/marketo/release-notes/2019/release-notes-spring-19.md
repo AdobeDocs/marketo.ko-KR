@@ -3,7 +3,7 @@ unique-page-id: 17728380
 description: 릴리스 노트 - 2019년 봄 - Marketing Docs - 제품 설명서
 title: 릴리스 노트 - 2019년 봄
 translation-type: tm+mt
-source-git-commit: b33f5ed707a1377daad51191cc6dd9f093138258
+source-git-commit: 9f88e7cebc5e9d0d4491d65d332ccfdd9a31c395
 workflow-type: tm+mt
 source-wordcount: '459'
 ht-degree: 0%
@@ -31,7 +31,7 @@ ht-degree: 0%
 
 계정 기반 마케팅
 
-**[Account](/help/marketo/product-docs/account-based-marketing/account-profiling/account-profiling-ranking-and-tuning.md)** AIN이제 일반적으로 사용할 수 있습니다. AccountAI는 인공 지능을 사용하여 ABM 전략에 맞게 타겟팅해야 하는 계정을 식별합니다.
+**[Account](/help/marketo/product-docs/target-account-management/account-profiling/account-profiling-ranking-and-tuning.md)** AIN이제 일반적으로 사용할 수 있습니다. AccountAI는 인공 지능을 사용하여 ABM 전략에 맞게 타겟팅해야 하는 계정을 식별합니다.
 
 <br> 
 
