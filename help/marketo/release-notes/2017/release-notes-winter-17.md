@@ -3,7 +3,7 @@ unique-page-id: 12255606
 description: 릴리스 노트 -17년 겨울 - 마케팅 문서 - 제품 설명서
 title: 릴리스 노트 -17년 겨울
 translation-type: tm+mt
-source-git-commit: 029d8b419ba5078980b4fde9890bdb35194bf264
+source-git-commit: 9f88e7cebc5e9d0d4491d65d332ccfdd9a31c395
 workflow-type: tm+mt
 source-wordcount: '387'
 ht-degree: 0%
@@ -45,7 +45,7 @@ ht-degree: 0%
 
 ## 계정 기반 마케팅 개선 사항 {#account-based-marketing-enhancements}
 
-**[명명된 계정 가져오기](/help/marketo/product-docs/account-based-marketing/target/named-accounts/import-named-accounts.md)**
+**[명명된 계정 가져오기](/help/marketo/product-docs/target-account-management/target/named-accounts/import-named-accounts.md)**
 
 네임드 계정 가져오기 옵션을 사용하여 CSV 업로드를 통해 여러 레코드를 한 번에 만들거나 업데이트합니다.
 
