@@ -3,9 +3,9 @@ unique-page-id: 1147110
 description: 프로그램 복제 - 마케팅 문서 - 제품 설명서
 title: 프로그램 복제
 translation-type: tm+mt
-source-git-commit: 07f713ece9832b7696451001f61c6a3b45b4a94a
+source-git-commit: 9f88e7cebc5e9d0d4491d65d332ccfdd9a31c395
 workflow-type: tm+mt
-source-wordcount: '221'
+source-wordcount: '236'
 ht-degree: 0%
 
 ---
@@ -13,9 +13,13 @@ ht-degree: 0%
 
 # 프로그램 복제 {#clone-a-program}
 
-모든 것을 수동으로 다시 구성하는 대신 전체 프로그램과 모든 에셋을 빠르고 손쉽게 복제할 수 있습니다. 방법
+모든 것을 수동으로 다시 작성하지 않고도 전체 프로그램과 모든 에셋을 빠르고 손쉽게 복제할 수 있습니다.
 
-1. 복제할 프로그램을 찾아 선택한 다음 **프로그램 작업** 아래에서 **복제를 클릭합니다.**
+>[!PREREQUISITES]
+>
+>로그인하기 전에 [복제된 에셋에서 손상을 방지하기 위한 모범 사례에 대해 알아보십시오](https://nation.marketo.com/t5/Knowledgebase/Avoiding-Corruption-in-Cloned-Assets/ta-p/249729).
+
+1. 복제할 프로그램을 찾아 선택한 다음 **프로그램 작업** 아래에서 **복제**&#x200B;를 클릭합니다.
 
    ![](assets/image2014-9-5-14-3a31-3a49.png)
 
