@@ -3,7 +3,7 @@ unique-page-id: 12980733
 description: Marketing To 용어 - Marketing Docs - 제품 설명서
 title: Marketing 용어
 translation-type: tm+mt
-source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
+source-git-commit: 9f88e7cebc5e9d0d4491d65d332ccfdd9a31c395
 workflow-type: tm+mt
 source-wordcount: '4225'
 ht-degree: 0%
@@ -36,7 +36,7 @@ ht-degree: 0%
    <td colspan="1">이 용어는 서로 다른 의미를 가질 수 있습니다.<br>-마케팅 인스턴스 자체를 Marketing 계정 또는<br>- <strong>ABM에서</strong>,  <strong>네임드 계정</strong> 은 사용자가 추적하고자 하는 대상 계정이라고 결정한 계정입니다.<br>-ABM에서 CRM 계정은 연결된  <strong>CRM</strong> ( <strong>Salesforce</strong> 계정,  <strong>MS </strong> Dynamic  <strong> </strong>API)에서 매핑되는 계정입니다.<br>"CRM에서 계정은 리드 및 연락처가 연관된 비즈니스/회사입니다.</td> 
   </tr> 
   <tr> 
-   <td colspan="1"><strong><a href="/help/marketo/product-docs/account-based-marketing/setup-abm/account-based-marketing-overview.md" rel="nofollow">계정 기반 마케팅</a> (ABM)</strong></td> 
+   <td colspan="1"><strong><a href="/help/marketo/product-docs/target-account-management/setup-tam/account-based-marketing-overview.md" rel="nofollow">계정 기반 마케팅</a> (ABM)</strong></td> 
    <td colspan="1">키 계정을 고도로 조정된 방식으로 타깃팅하고 참여를 유도할 수 있는 추가 기능</td> 
   </tr> 
   <tr> 
@@ -48,7 +48,7 @@ ht-degree: 0%
    <td colspan="1">(이전 AccountAI) <strong>ABM</strong>에서 ICP(Idea Customer Profile)를 사용하면 데이터베이스의 기존 회사에 등급이 지정되고 등급은 계정에서 점수로 추가됩니다.</td> 
   </tr> 
   <tr> 
-   <td colspan="1"><strong><a href="/help/marketo/product-docs/account-based-marketing/setup-abm/account-score.md" rel="nofollow">계정 점수</a></strong></td> 
+   <td colspan="1"><strong><a href="/help/marketo/product-docs/target-account-management/setup-tam/account-score.md" rel="nofollow">계정 점수</a></strong></td> 
    <td colspan="1"><strong>ABM</strong>에서 계정의 참여 수준을 결정하는 데 도움이 되는 점수입니다.</td> 
   </tr> 
   <tr> 
@@ -651,7 +651,7 @@ ht-degree: 0%
    <td colspan="1">개인 파티션은 별도의 <strong>데이터베이스</strong>와 같은 역할을 합니다. 각 파티션에는 중복 제거 또는 다른 파티션과 혼합하지 않는 고유한 사용자가 있습니다.</td> 
   </tr> 
   <tr> 
-   <td colspan="1"><a href="/help/marketo/product-docs/account-based-marketing/using-personas.md" rel="nofollow"><strong>페르소나</strong></a></td> 
+   <td colspan="1"><a href="/help/marketo/product-docs/target-account-management/using-personas.md" rel="nofollow"><strong>페르소나</strong></a></td> 
    <td colspan="1">Marketing의 <strong>계정 기반 마케팅</strong>에서 개인은 대상의 하위 집합이므로 보다 구체적인 타깃팅을 허용할 수 있습니다.</td> 
   </tr> 
   <tr> 
