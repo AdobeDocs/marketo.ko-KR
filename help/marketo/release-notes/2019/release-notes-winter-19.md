@@ -3,7 +3,7 @@ unique-page-id: 17727823
 description: 릴리스 노트 -19년 겨울 - 마케팅 문서 - 제품 설명서
 title: 릴리스 노트 -19년 겨울
 translation-type: tm+mt
-source-git-commit: b33f5ed707a1377daad51191cc6dd9f093138258
+source-git-commit: 9f88e7cebc5e9d0d4491d65d332ccfdd9a31c395
 workflow-type: tm+mt
 source-wordcount: '1109'
 ht-degree: 0%
@@ -81,7 +81,7 @@ Marketing To를 통해 보낸 이메일에 수신자당 최대 5개의 CC 주소
 
 ## 계정 기반 마케팅 {#account-based-marketing}
 
-**[ABM 페르소나 기반 세그멘테이션 및 필터링](/help/marketo/product-docs/account-based-marketing/using-personas.md)**
+**[ABM 페르소나 기반 세그멘테이션 및 필터링](/help/marketo/product-docs/target-account-management/using-personas.md)**
 
 지정된 계정 내에서 특정 개인에 맞는 ABM 캠페인을 개인화할 수 있습니다. ABM 페르소나 기능은 리드 세그멘테이션을 기반으로 기본 작업 제목을 만들고 추가 페르소나 세그먼트를 구성할 수 있도록 허용합니다.
 
