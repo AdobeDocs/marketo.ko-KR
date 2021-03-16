@@ -5,9 +5,9 @@ audience: end-user
 user-guide-title: 마케팅 가이드
 user-guide-description: 마케팅 제품 설명서
 translation-type: tm+mt
-source-git-commit: cfefff241b34571b9778cbd827f45d1b468d121e
+source-git-commit: 9f88e7cebc5e9d0d4491d65d332ccfdd9a31c395
 workflow-type: tm+mt
-source-wordcount: '7923'
+source-wordcount: '7949'
 ht-degree: 0%
 
 ---
@@ -44,48 +44,48 @@ ht-degree: 0%
       + [검토할 사항:핵심 기술](getting-started/inheriting-a-marketo-instance/things-to-review-core-skills.md)
       + [도움 받기 방법](getting-started/inheriting-a-marketo-instance/ways-to-get-help.md)
 + 제품 문서 {#product-docs}
-   + 계정 기반 마케팅 {#account-based-marketing}
+   + Target 계정 관리 {#target-account-management}
       + {#setup} 설정
-         + [계정 기반 마케팅 개요](product-docs/account-based-marketing/setup-abm/account-based-marketing-overview.md)
-         + [ABM 시작하기](product-docs/account-based-marketing/setup-abm/getting-started-with-abm.md)
-         + [라이선스 발행](product-docs/account-based-marketing/setup-abm/issue-a-license.md)
-         + [권한](product-docs/account-based-marketing/setup-abm/permissions.md)
-         + [계정 점수](product-docs/account-based-marketing/setup-abm/account-score.md)
-         + [계정 팀 설정](product-docs/account-based-marketing/setup-abm/account-team-setup.md)
-         + [CRM 검색을 위한 사용자 정의 필드 만들기](product-docs/account-based-marketing/setup-abm/create-a-custom-field-for-crm-discovery.md)
-         + [계정 인사이트 설정](product-docs/account-based-marketing/setup-abm/set-up-account-insight.md)
-         + [Account Insight 플러그인 개요](product-docs/account-based-marketing/setup-abm/account-insight-plug-in-overview.md)
-         + [계정 인사이트에 액세스할 사용자 초대](product-docs/account-based-marketing/setup-abm/invite-users-to-access-account-insight.md)
+         + [계정 기반 마케팅 개요](product-docs/target-account-management/setup-tam/account-based-marketing-overview.md)
+         + [ABM 시작하기](product-docs/target-account-management/setup-tam/getting-started-with-abm.md)
+         + [라이선스 발행](product-docs/target-account-management/setup-tam/issue-a-license.md)
+         + [권한](product-docs/target-account-management/setup-tam/permissions.md)
+         + [계정 점수](product-docs/target-account-management/setup-tam/account-score.md)
+         + [계정 팀 설정](product-docs/target-account-management/setup-tam/account-team-setup.md)
+         + [CRM 검색을 위한 사용자 정의 필드 만들기](product-docs/target-account-management/setup-tam/create-a-custom-field-for-crm-discovery.md)
+         + [계정 인사이트 설정](product-docs/target-account-management/setup-tam/set-up-account-insight.md)
+         + [Account Insight 플러그인 개요](product-docs/target-account-management/setup-tam/account-insight-plug-in-overview.md)
+         + [계정 인사이트에 액세스할 사용자 초대](product-docs/target-account-management/setup-tam/invite-users-to-access-account-insight.md)
       + Target {#target}
          + 명명된 계정 {#named-accounts}
-            + [지정된 계정 개요](product-docs/account-based-marketing/target/named-accounts/named-account-overview.md)
-            + [명명된 계정 가져오기](product-docs/account-based-marketing/target/named-accounts/import-named-accounts.md)
-            + [계정 목록에 기존 명명 계정 추가](product-docs/account-based-marketing/target/named-accounts/add-an-existing-named-account-to-an-account-list.md)
-            + [지정된 계정 만들기](product-docs/account-based-marketing/target/named-accounts/create-a-named-account.md)
-            + [지정된 계정에 인물 추가](product-docs/account-based-marketing/target/named-accounts/add-people-to-a-named-account.md)
-            + [Discover 계정](product-docs/account-based-marketing/target/named-accounts/discover-accounts.md)
-            + [계정 일치로 이동](product-docs/account-based-marketing/target/named-accounts/lead-to-account-matching.md)
-            + [지정된 계정에서 필터링](product-docs/account-based-marketing/target/named-accounts/filtering-in-named-accounts.md)
-            + [명명된 계정 삭제](product-docs/account-based-marketing/target/named-accounts/delete-a-named-account.md)
-            + [ABM 계층](product-docs/account-based-marketing/target/named-accounts/abm-hierarchies.md)
-            + [계층 만들기](product-docs/account-based-marketing/target/named-accounts/create-a-hierarchy.md)
-         + [계정 목록](product-docs/account-based-marketing/target/account-lists.md)
-         + [LinkedIn에서 일치하는 대상 만들기](product-docs/account-based-marketing/target/create-a-matched-audience-on-linkedin.md)
+            + [지정된 계정 개요](product-docs/target-account-management/target/named-accounts/named-account-overview.md)
+            + [명명된 계정 가져오기](product-docs/target-account-management/target/named-accounts/import-named-accounts.md)
+            + [계정 목록에 기존 명명 계정 추가](product-docs/target-account-management/target/named-accounts/add-an-existing-named-account-to-an-account-list.md)
+            + [지정된 계정 만들기](product-docs/target-account-management/target/named-accounts/create-a-named-account.md)
+            + [지정된 계정에 인물 추가](product-docs/target-account-management/target/named-accounts/add-people-to-a-named-account.md)
+            + [Discover 계정](product-docs/target-account-management/target/named-accounts/discover-accounts.md)
+            + [계정 일치로 이동](product-docs/target-account-management/target/named-accounts/lead-to-account-matching.md)
+            + [지정된 계정에서 필터링](product-docs/target-account-management/target/named-accounts/filtering-in-named-accounts.md)
+            + [명명된 계정 삭제](product-docs/target-account-management/target/named-accounts/delete-a-named-account.md)
+            + [ABM 계층](product-docs/target-account-management/target/named-accounts/abm-hierarchies.md)
+            + [계층 만들기](product-docs/target-account-management/target/named-accounts/create-a-hierarchy.md)
+         + [계정 목록](product-docs/target-account-management/target/account-lists.md)
+         + [LinkedIn에서 일치하는 대상 만들기](product-docs/target-account-management/target/create-a-matched-audience-on-linkedin.md)
       + {#engage} 참여
-         + [계정 필터](product-docs/account-based-marketing/engage/account-filters.md)
-         + [계정 트리거](product-docs/account-based-marketing/engage/account-triggers.md)
+         + [계정 필터](product-docs/target-account-management/engage/account-filters.md)
+         + [계정 트리거](product-docs/target-account-management/engage/account-triggers.md)
       + 측정값 {#measure}
-         + [ABM 기본 대시보드](product-docs/account-based-marketing/measure/abm-main-dashboard.md)
-         + [ABM 보고서 설정](product-docs/account-based-marketing/measure/abm-report-setup.md)
-         + [ABM 판매 보고서](product-docs/account-based-marketing/measure/abm-sales-report.md)
-         + [계정 목록 통찰력](product-docs/account-based-marketing/measure/account-list-insights.md)
-         + [RCA의 지정된 계정 Dimension](product-docs/account-based-marketing/measure/named-account-dimension-in-rca.md)
-         + [지정된 계정 인사이트](product-docs/account-based-marketing/measure/named-account-insights.md)
-         + [페르시아 사용](product-docs/account-based-marketing/using-personas.md)
+         + [ABM 기본 대시보드](product-docs/target-account-management/measure/abm-main-dashboard.md)
+         + [ABM 보고서 설정](product-docs/target-account-management/measure/abm-report-setup.md)
+         + [ABM 판매 보고서](product-docs/target-account-management/measure/abm-sales-report.md)
+         + [계정 목록 통찰력](product-docs/target-account-management/measure/account-list-insights.md)
+         + [RCA의 지정된 계정 Dimension](product-docs/target-account-management/measure/named-account-dimension-in-rca.md)
+         + [지정된 계정 인사이트](product-docs/target-account-management/measure/named-account-insights.md)
+         + [페르시아 사용](product-docs/target-account-management/using-personas.md)
    + 계정 프로파일링 {#account-profiling}
-      + [계정 프로파일링 설정](product-docs/account-based-marketing/account-profiling/setting-up-account-profiling.md)
-      + [계정 프로파일링 등급 및 조정](product-docs/account-based-marketing/account-profiling/account-profiling-ranking-and-tuning.md)
-      + [새 계정 검색](product-docs/account-based-marketing/account-profiling/new-account-discovery.md)
+      + [계정 프로파일링 설정](product-docs/target-account-management/account-profiling/setting-up-account-profiling.md)
+      + [계정 프로파일링 등급 및 조정](product-docs/target-account-management/account-profiling/account-profiling-ranking-and-tuning.md)
+      + [새 계정 검색](product-docs/target-account-management/account-profiling/new-account-discovery.md)
    + 추가 앱 {#additional-apps}
       + SEO {#seo}
          + SEO {#understanding-seo} 이해
@@ -527,7 +527,9 @@ ht-degree: 0%
                + [3단계 중 3단계:Microsoft Dynamics와 Marketing To 연결(온라인)](product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/microsoft-dynamics-365/step-3-of-3-connect.md)
             + Dynamics {#set-up-oauth-authentication-for-dynamics}에 대한 OAuth 인증 설정
                + [클라이언트 ID 및 앱 등록에 대한 동의 부여](product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/set-up-oauth-authentication-for-dynamics/grant-consent-for-client-id-and-app-registration.md)
+               + [Microsoft Dynamics CRM App for Online 설정](product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/set-up-oauth-authentication-for-dynamics/set-up-microsoft-dynamics-crm-app-for-online.md)
                + [On-Prem용 Microsoft Dynamics CRM 앱 설정](product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/set-up-oauth-authentication-for-dynamics/set-up-microsoft-dynamics-crm-app-for-on-prem.md)
+               + [AD FS 온프레미스, 테넌트 및 Microsoft Online을 사용하여 Azure AD Federated에 대한 MSD 설정](product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/set-up-oauth-authentication-for-dynamics/set-up-msd-for-azure-ad-federated-with-ad-fs-on-prem-tenant-and-microsoft-online.md)
          + Microsoft Dynamics 동기화 세부 정보 {#microsoft-dynamics-sync-details}
             + [기본 Dynamics 필드 매핑](product-docs/crm-sync/microsoft-dynamics-sync/microsoft-dynamics-sync-details/default-dynamics-field-mapping.md)
             + [Microsoft Dynamics 동기화:계정 동기화](product-docs/crm-sync/microsoft-dynamics-sync/microsoft-dynamics-sync-details/microsoft-dynamics-sync-account-sync.md)
@@ -594,6 +596,7 @@ ht-degree: 0%
          + [선택 목록 값 추가/제거](product-docs/crm-sync/salesforce-sync/add-remove-picklist-values.md)
          + [Salesforce 동기화 활성화/비활성화](product-docs/crm-sync/salesforce-sync/enable-disable-the-salesforce-sync.md)
          + [암시적인 Salesforce 동작](product-docs/crm-sync/salesforce-sync/implied-salesforce-actions.md)
+         + [Salesforce 동기화 오류](product-docs/crm-sync/salesforce-sync/salesforce-sync-errors.md)
          + [Salesforce 동기화 상태](product-docs/crm-sync/salesforce-sync/salesforce-sync-status.md)
    + 수요 생성 {#demand-generation}
       + 광고 네트워크 통합 {#ad-network-integrations}
@@ -799,7 +802,7 @@ ht-degree: 0%
                + [템플릿 12-F](product-docs/demand-generation/landing-pages/landing-page-templates/guided-landing-page-templates/template-12-f.md)
                + [템플릿 13-C](product-docs/demand-generation/landing-pages/landing-page-templates/guided-landing-page-templates/template-13-a.md)
                + [템플릿 13-B](product-docs/demand-generation/landing-pages/landing-page-templates/guided-landing-page-templates/template-13-b.md)
-               + [템플릿 13-A](product-docs/demand-generation/landing-pages/landing-page-templates/guided-landing-page-templates/template-13-c.md)
+               + [템플릿 13-C](product-docs/demand-generation/landing-pages/landing-page-templates/guided-landing-page-templates/template-13-c.md)
                + [템플릿 13-D](product-docs/demand-generation/landing-pages/landing-page-templates/guided-landing-page-templates/template-13-d.md)
                + [템플릿 13-E](product-docs/demand-generation/landing-pages/landing-page-templates/guided-landing-page-templates/template-13-e.md)
                + [템플릿 14-A](product-docs/demand-generation/landing-pages/landing-page-templates/guided-landing-page-templates/template-14-a.md)
