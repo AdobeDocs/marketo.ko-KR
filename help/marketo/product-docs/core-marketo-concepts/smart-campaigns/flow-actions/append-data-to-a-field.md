@@ -3,9 +3,9 @@ unique-page-id: 1147042
 description: 필드에 데이터 추가 - 마케팅 문서 - 제품 설명서
 title: 필드에 데이터 추가
 translation-type: tm+mt
-source-git-commit: 4a0bd2efe99284807a46d07ffef0070d9a303631
+source-git-commit: 9f88e7cebc5e9d0d4491d65d332ccfdd9a31c395
 workflow-type: tm+mt
-source-wordcount: '99'
+source-wordcount: '109'
 ht-degree: 0%
 
 ---
@@ -18,6 +18,10 @@ ht-degree: 0%
 >[!PREREQUISITES]
 >
 >[캠페인 만들기](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/creating-a-smart-campaign/create-a-new-smart-campaign.md)
+
+>[!NOTE]
+>
+>아래 단계는 [프로그램 멤버 데이터 변경](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/program-flow-actions/change-program-member-data.md)에도 적용됩니다.
 
 1. **흐름** 탭에서 **데이터 값 변경** 흐름 단계에서 드래그합니다.
 
