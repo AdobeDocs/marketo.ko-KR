@@ -3,7 +3,7 @@ unique-page-id: 4720236
 description: 계정 목록을 사용하여 세그먼트 만들기 - 마케팅 문서 - 제품 설명서
 title: 계정 목록을 사용하여 세그먼트 만들기
 translation-type: tm+mt
-source-git-commit: fbaf57ec4f3532c2d71acf23171d60873b1c997c
+source-git-commit: 9f88e7cebc5e9d0d4491d65d332ccfdd9a31c395
 workflow-type: tm+mt
 source-wordcount: '158'
 ht-degree: 0%
@@ -17,7 +17,7 @@ ht-degree: 0%
 
 >[!PREREQUISITES]
 >
->[새 계정 목록 만들기](/help/marketo/product-docs/account-based-marketing/target/account-lists.md)
+>[새 계정 목록 만들기](/help/marketo/product-docs/target-account-management/target/account-lists.md)
 
 1. **세그먼트**&#x200B;로 이동합니다.
 
