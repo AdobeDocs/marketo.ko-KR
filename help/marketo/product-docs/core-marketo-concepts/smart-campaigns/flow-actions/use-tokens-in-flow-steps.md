@@ -3,9 +3,9 @@ unique-page-id: 1146995
 description: 흐름 단계의 토큰 사용 - 마케팅 문서 - 제품 설명서
 title: 흐름 단계에서 토큰 사용
 translation-type: tm+mt
-source-git-commit: 4a0bd2efe99284807a46d07ffef0070d9a303631
+source-git-commit: 9f88e7cebc5e9d0d4491d65d332ccfdd9a31c395
 workflow-type: tm+mt
-source-wordcount: '179'
+source-wordcount: '207'
 ht-degree: 0%
 
 ---
@@ -19,12 +19,12 @@ ht-degree: 0%
 
 >[!PREREQUISITES]
 >
->* [스마트 캠페인에 흐름 단계 추가](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/add-a-flow-step-to-a-smart-campaign.md)
-
+>[스마트 캠페인에 흐름 단계 추가](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/add-a-flow-step-to-a-smart-campaign.md)
 
 토큰은 변수입니다. 이메일, 랜딩 페이지 및 스마트한 캠페인에서 간편하게 사용할 수 있습니다. 흐름 단계, 웹 후크, 이메일 및 랜딩 페이지에서 [내 토큰](/help/marketo/product-docs/core-marketo-concepts/programs/tokens/understanding-my-tokens-in-a-program.md)(사용자 정의 토큰)을 사용할 수 있습니다. 토큰을 사용하여 다음과 같은 흐름 단계에 변수 컨텐츠를 포함할 수 있습니다.
 
 * 데이터 값 변경
+* 프로그램 멤버 데이터 변경
 * 흥미로운 순간
 * Salesforce 캠페인 단계(상태 추가, 제거, 변경)
 * 작업 만들기
@@ -43,6 +43,10 @@ ht-degree: 0%
    >[!TIP]
    >
    >흥미로운 순간, 작업 만들기 및 경고 보내기 흐름 단계에서 여러 토큰을 사용할 수 있습니다.
+
+   >[!NOTE]
+   >
+   >프로그램 멤버 사용자 정의 필드 토큰은 다음 위치에서 사용할 수 있습니다.작업 만들기, Microsoft에서 작업 만들기, 흥미로운 순간, 데이터 값 흐름 동작 변경 및 Webhook
 
    멋지다! 스마트 캠페인이 실행될 때 토큰에서 데이터가 가져오게 됩니다.
 
