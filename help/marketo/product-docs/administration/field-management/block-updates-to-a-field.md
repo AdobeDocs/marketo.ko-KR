@@ -3,9 +3,9 @@ unique-page-id: 2360291
 description: 필드 업데이트 차단 - 마케팅 문서 - 제품 설명서
 title: 필드에 대한 업데이트 차단
 translation-type: tm+mt
-source-git-commit: f865630638e7c0fe6ac2a449e196a7de4fbfeea1
+source-git-commit: 9f88e7cebc5e9d0d4491d65d332ccfdd9a31c395
 workflow-type: tm+mt
-source-wordcount: '159'
+source-wordcount: '170'
 ht-degree: 0%
 
 ---
@@ -26,6 +26,10 @@ ht-degree: 0%
 1. 필드를 찾아 선택한 다음 **필드 작업**&#x200B;에서 **필드 업데이트 차단**&#x200B;을 클릭합니다.
 
    ![](assets/two-1.png)
+
+   >[!NOTE]
+   >
+   >또한 [프로그램 회원 사용자 정의 필드](/help/marketo/product-docs/core-marketo-concepts/programs/working-with-programs/program-member-custom-fields.md)에 대한 업데이트를 차단할 수 있습니다.
 
 1. 차단할 **입력 소스**&#x200B;를 선택하고 **적용**&#x200B;을 클릭합니다.
 
