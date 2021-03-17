@@ -3,9 +3,9 @@ unique-page-id: 17727818
 description: 개인 사용 - 마케팅 문서 - 제품 설명서
 title: 페르시아 사용
 translation-type: tm+mt
-source-git-commit: 9f88e7cebc5e9d0d4491d65d332ccfdd9a31c395
+source-git-commit: 96d6cc030ecd9d1da844fe27e1c6f62bbd181d62
 workflow-type: tm+mt
-source-wordcount: '188'
+source-wordcount: '190'
 ht-degree: 0%
 
 ---
@@ -21,9 +21,9 @@ ht-degree: 0%
 
    ![](assets/one.png)
 
-1. 트리에서 **ABM**&#x200B;을 선택합니다.
+1. 트리에서 **Target 계정 관리**&#x200B;를 선택합니다.
 
-   ![](assets/two.png)
+   ![](assets/using-personas-2.png)
 
 1. **편집**&#x200B;을 클릭합니다.
 
