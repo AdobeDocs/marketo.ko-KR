@@ -3,7 +3,7 @@ unique-page-id: 13795395
 description: 릴리스 노트 -18년 겨울 - 마케팅 문서 - 제품 설명서
 title: 릴리스 노트 -18년 겨울
 translation-type: tm+mt
-source-git-commit: 9f88e7cebc5e9d0d4491d65d332ccfdd9a31c395
+source-git-commit: d68eba976d0b71339fc5b70b3c035641d9e81d44
 workflow-type: tm+mt
 source-wordcount: '599'
 ht-degree: 0%
@@ -43,7 +43,7 @@ Salesforce CRM 통합에 대한 2가지 개선 사항이 있습니다.
 
 ## 계정 기반 마케팅 개선 사항 {#account-based-marketing-enhancements}
 
-**[ABM 계층](/help/marketo/product-docs/target-account-management/target/named-accounts/abm-hierarchies.md)**
+**[ABM 계층](/help/marketo/product-docs/target-account-management/target/named-accounts/tam-hierarchies.md)**
 
 Salesforce 또는 Microsoft Dynamics를 사용하는 ABM 고객의 경우 ABM은 이제 CRM에서 설정된 상위-하위 관계를 자동으로 상속(및 표시)합니다. 롤업 보고 및 캠페인 실행 모두에서 이러한 관계를 사용할 수 있습니다.
 
