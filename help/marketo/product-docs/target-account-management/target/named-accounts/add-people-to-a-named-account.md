@@ -3,7 +3,7 @@ unique-page-id: 11378816
 description: 지정된 계정에 인물 추가 - 마케팅 문서 - 제품 설명서
 title: 지정된 계정에 인물 추가
 translation-type: tm+mt
-source-git-commit: 9f88e7cebc5e9d0d4491d65d332ccfdd9a31c395
+source-git-commit: 96d6cc030ecd9d1da844fe27e1c6f62bbd181d62
 workflow-type: tm+mt
 source-wordcount: '190'
 ht-degree: 0%
@@ -13,7 +13,7 @@ ht-degree: 0%
 
 # 명명된 계정 {#add-people-to-a-named-account}에 인물 추가
 
-ABM의 지정된 계정에 수동으로 사람을 추가하는 방법에는 3가지가 있습니다.
+TAM의 지정된 계정에 사용자를 수동으로 추가하는 방법에는 3가지가 있습니다.
 
 ## 단일 흐름 작업 {#single-flow-action}
 
