@@ -3,7 +3,7 @@ unique-page-id: 17432598
 description: 계정 프로파일링 설정 - 마케팅 문서 - 제품 설명서
 title: 계정 프로파일링 설정
 translation-type: tm+mt
-source-git-commit: 9f88e7cebc5e9d0d4491d65d332ccfdd9a31c395
+source-git-commit: 96d6cc030ecd9d1da844fe27e1c6f62bbd181d62
 workflow-type: tm+mt
 source-wordcount: '124'
 ht-degree: 0%
@@ -15,11 +15,11 @@ ht-degree: 0%
 
 다음 단계에 따라 계정 프로파일링 사용을 시작합니다.
 
-1. 내 마케팅에서 **계정 기반 마케팅**&#x200B;을(를) 엽니다.
+1. 내 마켓플레이스에서 **Target 계정 관리**&#x200B;를 엽니다.
 
-   ![](assets/one.png)
+   ![](assets/setting-up-account-profiling-1.png)
 
-1. 계정 프로파일링 탭을 클릭합니다.
+1. **계정 프로파일링** 탭을 클릭합니다.
 
    ![](assets/two-1.png)
 
