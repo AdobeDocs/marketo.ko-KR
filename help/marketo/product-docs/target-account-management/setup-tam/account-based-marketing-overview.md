@@ -3,7 +3,7 @@ unique-page-id: 11381917
 description: 계정 기반 마케팅 개요 - 마케팅 문서 - 제품 설명서
 title: 계정 기반 마케팅 개요
 translation-type: tm+mt
-source-git-commit: 9f88e7cebc5e9d0d4491d65d332ccfdd9a31c395
+source-git-commit: d68eba976d0b71339fc5b70b3c035641d9e81d44
 workflow-type: tm+mt
 source-wordcount: '242'
 ht-degree: 0%
@@ -55,7 +55,7 @@ Marketing To Account Based Marketing은 다양한 채널에서 지정된 계정 
 
 나 안에 있어! 시작하려면 어떻게 해야 합니까?
 
-물어보지 않을 줄 알았어! ABM은 Marketing To 구독에 대한 추가 기능으로 사용할 수 있으므로 해당 영업 담당자에게 문의하여 구현하도록 하십시오. 이 문서를 받으면 다음 문서를 확인하십시오.[ABM 시작하기](/help/marketo/product-docs/target-account-management/setup-tam/getting-started-with-abm.md).
+물어보지 않을 줄 알았어! ABM은 Marketing To 구독에 대한 추가 기능으로 사용할 수 있으므로 해당 영업 담당자에게 문의하여 구현하도록 하십시오. 이 문서를 받으면 다음 문서를 확인하십시오.[ABM 시작하기](/help/marketo/product-docs/target-account-management/setup-tam/getting-started-with-tam.md).
 
 >[!NOTE]
 >
