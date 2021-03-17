@@ -3,7 +3,7 @@ unique-page-id: 11380787
 description: 계정 목록 통찰력 - 마케팅 문서 - 제품 설명서
 title: 계정 목록 통찰력
 translation-type: tm+mt
-source-git-commit: 9f88e7cebc5e9d0d4491d65d332ccfdd9a31c395
+source-git-commit: 96d6cc030ecd9d1da844fe27e1c6f62bbd181d62
 workflow-type: tm+mt
 source-wordcount: '167'
 ht-degree: 0%
@@ -17,7 +17,7 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->Marketing ABM은 생성된 파이프라인 또는 계정 참여 점수를 기반으로 계정 목록 내에서 상위 명명 계정을 자동으로 결정합니다.
+>Marketing To TAM은 생성된 파이프라인 또는 계정 참여 점수를 기반으로 계정 목록 내에서 상위 명명 계정을 자동으로 결정합니다.
 
 ## 계정 목록 대시보드 {#account-list-dashboard}
 
