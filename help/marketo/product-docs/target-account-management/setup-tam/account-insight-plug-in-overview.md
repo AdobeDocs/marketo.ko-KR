@@ -3,7 +3,7 @@ unique-page-id: 12979282
 description: Account Insight 플러그인 개요 - Marketing Docs - 제품 설명서
 title: Account Insight 플러그인 개요
 translation-type: tm+mt
-source-git-commit: 9f88e7cebc5e9d0d4491d65d332ccfdd9a31c395
+source-git-commit: 96d6cc030ecd9d1da844fe27e1c6f62bbd181d62
 workflow-type: tm+mt
 source-wordcount: '305'
 ht-degree: 0%
@@ -13,11 +13,11 @@ ht-degree: 0%
 
 # Account Insight 플러그인 개요 {#account-insight-plug-in-overview}
 
-Account Insight는 세일즈 팀에 실행 가능한 ABM 및 계정 인사이트를 표시하는 Chrome 플러그인으로, 이를 통해 보다 효과적으로 계정을 확보할 수 있습니다.
+Account Insight는 세일즈 팀에 실행 가능한 TAM 및 계정 통찰력을 표시하여 고객이 보다 효과적으로 계정을 연결할 수 있도록 하는 Chrome 플러그인입니다.
 
 >[!AVAILABILITY]
 >
->Account Insight는 ABM 및 Marketing To Sales Insight를 모두 보유한 모든 고객을 위해 포함됩니다. ABM만 보유한 고객의 경우 Account Insight를 구매한 추가 기능으로 사용할 수 있습니다. 각 고객은 250개의 Account Insight 세트로 제한됩니다. 자세한 내용은 영업 담당자에게 문의하십시오. ABM이 없는 고객은 사용할 수 없습니다.
+>Account Insight는 TAM과 Marketing To Sales Insight를 모두 보유한 모든 고객을 위해 포함됩니다. TAM만 보유한 고객의 경우 Account Insight를 구매한 추가 기능으로 사용할 수 있습니다. 각 고객은 250개의 Account Insight 세트로 제한됩니다. 자세한 내용은 영업 담당자에게 문의하십시오. TAM이 없는 고객에게는 제공되지 않습니다.
 
 >[!CAUTION]
 >
