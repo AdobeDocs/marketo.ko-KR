@@ -3,9 +3,9 @@ unique-page-id: 37356194
 description: Adobe Experience Cloud - Marketing To Docs - 제품 문서로 목록 보내기
 title: Adobe Experience Cloud으로 목록 보내기
 translation-type: tm+mt
-source-git-commit: e5050328cbddaf072dd60ddd8d7363a704e720b5
+source-git-commit: 96d6cc030ecd9d1da844fe27e1c6f62bbd181d62
 workflow-type: tm+mt
-source-wordcount: '584'
+source-wordcount: '787'
 ht-degree: 0%
 
 ---
@@ -30,31 +30,77 @@ ht-degree: 0%
 * 실시간 고객 데이터 플랫폼 Adobe
 * Adobe Target
 
-## 목록 {#how-to-export-a-list} 내보내기 방법
+## 정적 목록 {#how-to-send-a-static-list}을 보내는 방법
+
+정적인 목록은 정적인 것입니다. 수동으로 변경하지 않는 한 Adobe Experience Cloud의 목록은 변경되지 않습니다.
 
 1. Marketing To에서 내보낼 목록을 찾아 선택합니다.
 
-   ![](assets/one.png)
+   ![](assets/send-a-list-to-adobe-experience-cloud-1.png)
 
 1. **목록 작업** 드롭다운을 클릭하고 **Experience Cloud에 보내기**&#x200B;를 선택합니다.
 
-   ![](assets/two-1.png)
+   ![](assets/send-a-list-to-adobe-experience-cloud-2.png)
 
 1. **Audience Manager 폴더** 드롭다운을 클릭하고 Experience Cloud에서 원하는 대상 폴더를 선택합니다.
 
-   ![](assets/three-1.png)
+   ![](assets/send-a-list-to-adobe-experience-cloud-3.png)
 
 1. 새 대상자를 만들지, 기존 대상자를 덮어쓸지를 선택합니다(이 예에서는 새 대상자를 만듭니다.). 새 대상 이름을 입력하고 **보내기**&#x200B;를 클릭합니다.
 
-   ![](assets/four.png)
+   ![](assets/send-a-list-to-adobe-experience-cloud-4.png)
 
 1. **확인**&#x200B;을 클릭합니다.
 
-   ![](assets/five.png)
+   ![](assets/send-a-list-to-adobe-experience-cloud-5.png)
 
    >[!NOTE]
    >
    >대상 멤버십이 Adobe에 완전히 채워지는 데에는 최대 6-8시간이 걸릴 수 있습니다.
+
+## 동기화된 목록 {#how-to-send-a-synced-list}을 보내는 방법
+
+목록 동기화는 Marketing To에서 목록을 업데이트할 때마다 변경 사항이 Adobe Experience Cloud의 대상에 자동으로 동기화됨을 의미합니다.
+
+1. Marketing To에서 동기화할 목록을 찾아 선택합니다.
+
+   ![](assets/send-a-list-to-adobe-experience-cloud-6.png)
+
+1. **목록 작업** 드롭다운을 클릭하고 **Experience Cloud에 보내기**&#x200B;를 선택합니다.
+
+   ![](assets/send-a-list-to-adobe-experience-cloud-7.png)
+
+1. **대상 라이브러리 폴더** 드롭다운을 클릭하고 Experience Cloud에서 원하는 대상 폴더를 선택합니다.
+
+   ![](assets/send-a-list-to-adobe-experience-cloud-8.png)
+
+1. 새 대상자를 만들지, 기존 대상자를 덮어쓸지를 선택합니다(이 예에서는 새 대상자를 만듭니다.). 새 대상 이름을 입력하고 **대상 구성원 자격 동기화** 상자를 선택한 다음 **보내기**&#x200B;를 클릭합니다.
+
+   ![](assets/send-a-list-to-adobe-experience-cloud-9.png)
+
+1. **확인**&#x200B;을 클릭합니다.
+
+   ![](assets/send-a-list-to-adobe-experience-cloud-10.png)
+
+## 목록 동기화 중지 방법 {#how-to-stop-a-list-sync}
+
+언제든지 목록의 동기화를 중지할 수 있습니다.
+
+1. Marketing To에서 동기화를 중지할 목록을 찾아 선택합니다.
+
+   ![](assets/send-a-list-to-adobe-experience-cloud-11.png)
+
+1. **목록 작업** 드롭다운을 클릭하고 **목록 동기화 중지**&#x200B;를 선택합니다.
+
+   ![](assets/send-a-list-to-adobe-experience-cloud-12.png)
+
+1. 동기화를 중지할 대상을 선택하고 **중지**&#x200B;를 클릭합니다.
+
+   ![](assets/send-a-list-to-adobe-experience-cloud-13.png)
+
+1. **중지**&#x200B;를 클릭하여 확인합니다.
+
+   ![](assets/send-a-list-to-adobe-experience-cloud-14.png)
 
 ## 참고 사항 {#things-to-note}
 
@@ -80,4 +126,8 @@ Marketing To에서 목록 내보내기를 시작하면 Adobe Audience Manager �
 
 Marketing To 구독에 쿠키 동기화가 활성화되어 있으면 Marketing의 munchkin.js는 통합 설정 중에 지정한 Adobe IMS 조직에 대한 Adobe ECID를 캡처하고 저장하려고 하며 이러한 ECID를 해당 Marketing To 쿠키 식별자와 일치시킵니다. 이를 통해 Marketing의 익명 사용자 프로필은 Adobe ECID를 통해 더욱 풍부해집니다.
 
-일반 텍스트 이메일을 사용하여 식별되는 리드 프로필에 익명 사용자 프로필을 연결하려면 추가 단계가 필요합니다. 이러한 작동 방식을 여기에서 정확히 설명합니다.[https://docs.marketo.com/display/public/DOCS/Tracking+Anonymous+Activity+and+People](https://docs.marketo.com/display/public/DOCS/Tracking+Anonymous+Activity+and+People).
+일반 텍스트 이메일을 사용하여 식별되는 리드 프로필에 익명 사용자 프로필을 연결하려면 추가 단계가 필요합니다. 정확히 이러한 작업이 작동하는 방식은 [여기에 설명되어 있습니다](/help/marketo/product-docs/reporting/basic-reporting/report-activity/tracking-anonymous-activity-and-people.md).
+
+**어떤 정보가 공유됩니까?**
+
+이 통합은 Marketing To에서 Adobe(예: 리드 X가 목록 Y의 멤버라는 지식)에 대한 멤버십 정보만 공유합니다. 이 통합을 통해 추가 리드 속성이 Adobe에 공유되지 않습니다.
