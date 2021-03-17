@@ -3,9 +3,9 @@ unique-page-id: 37355609
 description: 새 계정 검색 - Marketing To Docs - 제품 설명서
 title: 새 계정 검색
 translation-type: tm+mt
-source-git-commit: 9f88e7cebc5e9d0d4491d65d332ccfdd9a31c395
+source-git-commit: 96d6cc030ecd9d1da844fe27e1c6f62bbd181d62
 workflow-type: tm+mt
-source-wordcount: '274'
+source-wordcount: '276'
 ht-degree: 0%
 
 ---
@@ -23,9 +23,9 @@ ht-degree: 0%
 >
 >최신 데이터를 보려면 새 계정 검색을 수행하기 전에 **기존 계정 업데이트** 단추를 누르는 것이 좋습니다. 이 업데이트는 최대 24시간이 소요될 수 있습니다.
 
-1. 내 마케팅에서 **ABM**&#x200B;을 클릭합니다.
+1. 내 마켓플레이스에서 **Target 계정 관리**&#x200B;를 클릭합니다.
 
-   ![](assets/one-1.png)
+   ![](assets/new-account-discovery-1.png)
 
 1. **계정 프로파일링** 탭을 클릭합니다.
 
@@ -37,7 +37,7 @@ ht-degree: 0%
 
    >[!NOTE]
    >
-   >새 계정은 ABM에서 아직 계정이 아닌 계정 목록을 표시합니다. 선택한 필터를 기반으로 새 계정을 만들 수 있는 계정입니다.
+   >새 계정은 TAM에서 아직 계정이 아닌 계정 목록을 표시합니다. 선택한 필터를 기반으로 새 계정을 만들 수 있는 계정입니다.
 
 1. 적용 가능한 모든 필터를 선택합니다. 이 부분은 사용자 정의할 수 있으며, 다음은 필터링을 보여주는 하나의 예입니다.
 
