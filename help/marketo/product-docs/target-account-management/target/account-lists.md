@@ -3,7 +3,7 @@ unique-page-id: 11378814
 description: 계정 목록 - 마케팅 문서 - 제품 설명서
 title: 계정 목록
 translation-type: tm+mt
-source-git-commit: 9f88e7cebc5e9d0d4491d65d332ccfdd9a31c395
+source-git-commit: 96d6cc030ecd9d1da844fe27e1c6f62bbd181d62
 workflow-type: tm+mt
 source-wordcount: '341'
 ht-degree: 0%
@@ -21,7 +21,7 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->Marketing to 계정 기반 마케팅에서 만든 계정 목록은 [웹 개인화](/help/marketo/product-docs/web-personalization/using-web-segments/web-segments.md)에서 스마트 목록 및 웹 캠페인을 작성할 때 자동으로 사용할 수 있습니다.
+>Marketing to Target 계정 관리에서 만든 계정 목록은 [웹 개인화](/help/marketo/product-docs/web-personalization/using-web-segments/web-segments.md)에서 스마트 목록 및 웹 캠페인을 작성할 때 자동으로 사용할 수 있습니다.
 
 ## 새 계정 목록 만들기 {#create-a-new-account-list}
 
