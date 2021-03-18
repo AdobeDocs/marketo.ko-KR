@@ -3,10 +3,10 @@ unique-page-id: 10099389
 description: Microsoft Dynamics용 Marketing To 플러그인 릴리스 - Marketing Docs - 제품 설명서
 title: Microsoft Dynamics용 Marketing To 플러그인 릴리스
 translation-type: tm+mt
-source-git-commit: 3deb7e1c435368533222ddedf064d2d87fa75c5f
+source-git-commit: d1d74e24c07578b1b0c2696c08fe5a5be543cce8
 workflow-type: tm+mt
-source-wordcount: '346'
-ht-degree: 7%
+source-wordcount: '401'
+ht-degree: 6%
 
 ---
 
@@ -19,7 +19,15 @@ Microsoft Dynamics에 처음 동기화하면 Marketing용 플러그인의 최신
 
 ![](assets/lead-management-solution.png)
 
-아래 표에는 최신 버전이 표시됩니다.
+## Dynamics 솔루션 업데이트 중 {#updating-your-dynamics-solution}
+
+1. 기존 버전의 Dynamics CRM을 통해 솔루션의 최신 버전을 가져올 수 있습니다(예:Dynamics CRM의 버전 1.4가 있고 최신 버전이 1.5이면 _버전 1.4를 통해_&#x200B;을(를) 가져옵니다.
+
+1. 다음 팝업이 표시됩니다. **업데이트** 및 **사용자 정의 유지**&#x200B;를 선택한 다음 **가져오기**&#x200B;를 클릭합니다.
+
+![](assets/marketo-plugin-releases-for-microsoft-dynamics-2.png)
+
+## 최신 버전 {#latest-versions}
 
 >[!NOTE]
 >
@@ -31,6 +39,11 @@ Microsoft Dynamics에 처음 동기화하면 Marketing용 플러그인의 최신
    <th colspan="1">버전</th> 
    <th colspan="1">릴리스 날짜</th> 
    <th>참고 사항</th> 
+  </tr> 
+  <tr> 
+   <td colspan="1">4.0.0.0</td> 
+   <td colspan="1">10/16/20</td> 
+   <td colspan="1">MS Dynamics와 캠페인 동기화에 대한 지원이 추가되었습니다.</td> 
   </tr> 
   <tr> 
    <td colspan="1">4.0.0.24</td> 
@@ -73,7 +86,7 @@ Microsoft Dynamics에 처음 동기화하면 Marketing용 플러그인의 최신
    <td colspan="1">버그 수정:리드에 동기화 필터가 NO로 설정되어 있고 영업 기회 및 연락처에 동기화 필터가 없으면 리드가 자격을 갖추었을 때 연락처와 기회에 대해 만들기 로그가 생성되지 않았습니다.</td> 
   </tr> 
   <tr> 
-   <td colspan="1">4.0.0.16</td> 
+   <td colspan="1">2.0.0.16</td> 
    <td colspan="1">3/29/16</td> 
    <td>버그 수정:동기화 필터가 꺼져 있을 때 [이벤트 할당]이 기록되었습니다.</td> 
   </tr> 
