@@ -5,9 +5,9 @@ audience: end-user
 user-guide-title: 마케팅 가이드
 user-guide-description: 마케팅 제품 설명서
 translation-type: tm+mt
-source-git-commit: 96d6cc030ecd9d1da844fe27e1c6f62bbd181d62
+source-git-commit: d1d74e24c07578b1b0c2696c08fe5a5be543cce8
 workflow-type: tm+mt
-source-wordcount: '7952'
+source-wordcount: '7967'
 ht-degree: 0%
 
 ---
@@ -507,7 +507,7 @@ ht-degree: 0%
          + [Dynamics 유효성 검사 동기화 문제 수정](product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/validate-microsoft-dynamics-sync/fix-dynamics-validation-sync-issues.md)
          + 동기화 설정 {#sync-setup}
             + [마케팅 리드 관리 솔루션 다운로드](product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/download-the-marketo-lead-management-solution.md)
-            + [Microsoft Dynamics용 Marketing To 솔루션 업그레이드](product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/upgrade-the-marketo-solution-for-microsoft-dynamics.md)
+            + [Microsoft Dynamics용 Marketing To 솔루션 업데이트](product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/update-the-marketo-solution-for-microsoft-dynamics.md)
             + [Microsoft Dynamics 동기화 유효성 검사](product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/validate-microsoft-dynamics-sync.md)
             + [조직 서비스 URL 보기](product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/view-the-organization-service-url.md)
             + Microsoft Dynamics 2011 온-프레미스 {#microsoft-dynamics-2011-on-premises}
@@ -1036,6 +1036,11 @@ ht-degree: 0%
             + [알림 정보 토큰 보내기 사용](product-docs/email-marketing/general/using-tokens/use-the-send-alert-info-token.md)
             + [내 토큰에서 URL 사용](product-docs/email-marketing/general/using-tokens/using-urls-in-my-tokens.md)
          + [이메일 CC](product-docs/email-marketing/general/email-cc.md)
+   + Marketo Engage 차세대 경험 {#marketo-engage-next-generation-experience}
+      + [개요](product-docs/marketo-engage-next-generation-experience/overview.md)
+      + [새 아이콘 용어집](product-docs/marketo-engage-next-generation-experience/new-icon-glossary.md)
+      + [자산 이동](product-docs/marketo-engage-next-generation-experience/moving-assets.md)
+      + [전역 검색 사용](product-docs/marketo-engage-next-generation-experience/using-the-global-search.md)
    + Marketing To Sales Connect {#marketo-sales-connect}
       + 시작하기 {#getting-started}
          + [영업 연결 개요](product-docs/marketo-sales-connect/getting-started/sales-connect-overview.md)
@@ -1292,7 +1297,7 @@ ht-degree: 0%
             + [글로벌 MS Dynamics 동기화 비활성화](product-docs/marketo-sales-insight/msi-for-microsoft-dynamics/uninstalling/disable-global-ms-dynamics-sync.md)
             + [MS Dynamics 인스턴스에서 MSI 제거](product-docs/marketo-sales-insight/msi-for-microsoft-dynamics/uninstalling/uninstall-msi-from-your-ms-dynamics-instance.md)
          + {#updating} 업데이트 중
-            + [Microsoft Dynamics용 Marketing To Sales Insight 솔루션 업데이트](product-docs/marketo-sales-insight/msi-for-microsoft-dynamics/updating/update-the-marketo-sales-insight-solution-for-microsoft-dynamics.md)
+            + [Microsoft Dynamics용 Marketing To Sales Insight 솔루션 업그레이드](product-docs/marketo-sales-insight/msi-for-microsoft-dynamics/updating/upgrade-the-marketo-sales-insight-solution-for-microsoft-dynamics.md)
       + Salesforce용 MSI {#msi-for-salesforce}
          + 설치 {#installation}
             + [Salesforce AppExchange에 Marketing To Sales Insight 패키지 설치](product-docs/marketo-sales-insight/msi-for-salesforce/installation/install-marketo-sales-insight-package-in-salesforce-appexchange.md)
@@ -1392,8 +1397,8 @@ ht-degree: 0%
          + [푸시 알림 이해](product-docs/mobile-marketing/push-notifications/understanding-push-notifications.md)
          + [푸시 알림 대시보드 보기](product-docs/mobile-marketing/push-notifications/view-the-push-notification-dashboard.md)
       + SMS 메시지 보기 {#vibes-sms-messages}
-         + [SMS용 흐름 단계 추가](product-docs/mobile-marketing/vibes-sms-messages/add-a-flow-step-for-sms.md)
          + [동영상 SMS 메시지 만들기](product-docs/mobile-marketing/vibes-sms-messages/create-a-vibes-sms-message.md)
+         + [SMS용 흐름 단계 추가](product-docs/mobile-marketing/vibes-sms-messages/add-a-flow-step-for-sms.md)
          + [SMS 메시지 대시보드](product-docs/mobile-marketing/vibes-sms-messages/the-sms-message-dashboard.md)
          + [스마트 목록 트리거 및 필터에서 Vides SMS 메시지 사용](product-docs/mobile-marketing/vibes-sms-messages/use-vibes-sms-messages-in-smart-list-triggers-and-filters.md)
    + 개인화 {#personalization}
