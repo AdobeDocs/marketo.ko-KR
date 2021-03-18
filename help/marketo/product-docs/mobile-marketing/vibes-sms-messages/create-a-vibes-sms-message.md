@@ -3,9 +3,9 @@ unique-page-id: 11378869
 description: 동영상 SMS 메시지 만들기 - 마케팅 문서 - 제품 설명서
 title: 동영상 SMS 메시지 만들기
 translation-type: tm+mt
-source-git-commit: 06e0f5489e6375a97e2fe77834bf45fa41f23ea6
+source-git-commit: d1d74e24c07578b1b0c2696c08fe5a5be543cce8
 workflow-type: tm+mt
-source-wordcount: '330'
+source-wordcount: '371'
 ht-degree: 0%
 
 ---
@@ -14,6 +14,14 @@ ht-degree: 0%
 # Vides SMS 메시지 {#create-a-vibes-sms-message} 만들기
 
 Vibest SMS 메시지를 만드는 방법을 소개합니다.
+
+>[!AVAILABILITY]
+>
+>이 기능은 Marketo Engage 계정의 추가 기능으로 사용할 수 있습니다. 제대로 프로비저닝하려면 Adobe을 통해 제품을 구입해야 합니다. 자세한 내용은 Adobe 고객 성공 관리자에게 문의하십시오.
+
+>[!NOTE]
+>
+>SMS 문자 메시지는 HIPAA와 호환되지 않습니다.
 
 1. **마케팅 활동**&#x200B;으로 이동하고 프로그램을 마우스 오른쪽 단추로 클릭합니다.
 
