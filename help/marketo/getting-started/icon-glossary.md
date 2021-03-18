@@ -3,15 +3,17 @@ unique-page-id: 4720476
 description: 아이콘 용어 - Marketing Docs - 제품 설명서
 title: 아이콘 용어
 translation-type: tm+mt
-source-git-commit: 0ec525defbefe610f0bd1227b1c8f8e125d8e362
+source-git-commit: d1d74e24c07578b1b0c2696c08fe5a5be543cce8
 workflow-type: tm+mt
-source-wordcount: '543'
+source-wordcount: '568'
 ht-degree: 0%
 
 ---
 
 
 # 아이콘 용어집 {#icon-glossary}
+
+다음은 Marketing To Classic의 아이콘입니다. 새 Marketo Engage 인터페이스로 전환된 경우 아이콘 용어집 [은(는) ](/help/marketo/product-docs/marketo-engage-next-generation-experience/new-icon-glossary.md)에서 찾을 수 있습니다.
 
 **일반 아이콘**
 
@@ -1030,7 +1032,7 @@ ht-degree: 0%
     <div> 
      <img src="assets/image2015-1-5-15-3a47-3a48.png"> 
     </div></td> 
-   <td>새로 고침(보통 실행 횟수, 보고서, 스마트 목록)</td> 
+   <td>새로 고침(일반적으로 실행 횟수, 보고서, 스마트 목록)</td> 
   </tr> 
   <tr> 
    <td> 
