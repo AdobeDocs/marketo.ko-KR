@@ -3,9 +3,9 @@ unique-page-id: 10099102
 description: Microsoft Dynamics MSI용 플러그인 릴리스 - Marketing Docs - 제품 설명서
 title: Microsoft Dynamics MSI용 플러그인 릴리스
 translation-type: tm+mt
-source-git-commit: 20d4c8a079916f47267df3dab5a8e663f6eb019b
+source-git-commit: d1d74e24c07578b1b0c2696c08fe5a5be543cce8
 workflow-type: tm+mt
-source-wordcount: '203'
+source-wordcount: '258'
 ht-degree: 4%
 
 ---
@@ -21,12 +21,33 @@ Microsoft Dynamics에 처음 동기화하면 MSI(Marketing To Sales Insight)용 
 >
 >이러한 버전은 Dynamics의 온프레미스 및 온라인 버전에서 모두 사용할 수 있습니다.
 
-## MSI 솔루션 업데이트 {#updating-your-msi-solution}
+## MSI 솔루션 업그레이드 {#upgrading-your-msi-solution}
 
-1. 기존 버전의 Dynamics CRM을 통해 솔루션의 최신 버전을 가져올 수 있습니다(예:Dynamics CRM의 버전 1.4가 있고 최신 버전이 1.5이면 _버전 1.4를 통해_&#x200B;을(를) 가져옵니다.
-1. 다음 팝업이 표시됩니다. **업데이트** 및 **사용자 정의 덮어쓰기** 옵션을 선택한 다음 **가져오기**&#x200B;를 클릭합니다.
+1. Dynamics에서 **가져오기** 단추를 눌러 Dynamics CRM의 기존 버전&#x200B;_에 솔루션_&#x200B;의 최신 버전을 가져옵니다.
 
-   ![](assets/one.png)
+   ![](assets/plug-in-releases-for-microsoft-dynamics-msi-1.png)
+
+>[!NOTE]
+>
+>예:Dynamics CRM에 버전 2.0.0.20이 있고 최신 버전이 2.0.0.21인 경우 _버전 2.0.0.20 대신_&#x200B;을(를) 가져옵니다.
+
+1. **다음**&#x200B;을 클릭합니다.
+
+   ![](assets/plug-in-releases-for-microsoft-dynamics-msi-2.png)
+
+1. 업그레이드&#x200B;**및**&#x200B;사용자 정의 유지&#x200B;**를 선택한 다음**&#x200B;가져오기&#x200B;**를 클릭합니다.**
+
+   ![](assets/plug-in-releases-for-microsoft-dynamics-msi-3.png)
+
+1. **다음**&#x200B;을 클릭합니다.
+
+   ![](assets/plug-in-releases-for-microsoft-dynamics-msi-4.png)
+
+1. 가져오기에 성공하면 2개의 MSI 솔루션이 표시됩니다.MarketingToSalesInsight 및 MarketingSalesInsight_Upgrade. 이전 솔루션을 선택하고 솔루션 업그레이드 적용을 클릭합니다.
+
+   ![](assets/plug-in-releases-for-microsoft-dynamics-msi-5.png)
+
+바로 그거야! 업그레이드 후 하나의 MSI 솔루션만 표시됩니다.
 
 ## 버전 업데이트 {#version-updates}
 
@@ -38,9 +59,14 @@ Microsoft Dynamics에 처음 동기화하면 MSI(Marketing To Sales Insight)용 
  </colgroup> 
  <tbody> 
   <tr> 
-   <th colspan="1">버전</th> 
    <th colspan="1">릴리스 날짜</th> 
+   <th colspan="1">버전</th> 
    <th colspan="1">참고 사항</th> 
+  </tr> 
+  <tr> 
+   <td colspan="1">10/1/20</td> 
+   <td colspan="1">2.0.0.21</td> 
+   <td colspan="1">버그 수정:Sales Insight 역할이 있는 사용자에 대해 MSI API 구성 필드에 액세스 할당</td> 
   </tr> 
   <tr> 
    <td colspan="1">07/20/20</td> 
@@ -50,22 +76,22 @@ Microsoft Dynamics에 처음 동기화하면 MSI(Marketing To Sales Insight)용 
   <tr> 
    <td colspan="1">06/12/20</td> 
    <td colspan="1">2.0.0.19</td> 
-   <td colspan="1"><p>버그 수정:MSD API 구성에서 MSI 암호 숨기기</p></td> 
+   <td colspan="1">버그 수정:MSD API 구성에서 MSI 암호 숨기기</td> 
   </tr> 
   <tr> 
    <td colspan="1">05/26/20</td> 
    <td colspan="1">2.0.0.18</td> 
-   <td colspan="1"><p>버그 수정:MSI 단추 표시를 위한 MSI 역할 Id 유효성 검사를 변경하려면</p></td> 
+   <td colspan="1">버그 수정:MSI 단추 표시를 위한 MSI 역할 ID 유효성 검사를 변경하려면</td> 
   </tr> 
   <tr> 
    <td colspan="1">05/21/20</td> 
    <td colspan="1">2.0.0.17</td> 
-   <td colspan="1"><p>버그 수정:소유자 필드 숨김 취소 및 필수 필드 만들기</p></td> 
+   <td colspan="1">버그 수정:소유자 필드 숨김 취소 및 필수 필드 만들기</td> 
   </tr> 
   <tr> 
    <td colspan="1">04/28/20</td> 
    <td colspan="1">2.0.0.16</td> 
-   <td colspan="1"><p>버그 수정:MSD CRM 사이트 맵 설정 링크 종속성을 제거하는 중</p></td> 
+   <td colspan="1">버그 수정:MSD CRM 사이트 맵 설정 링크 종속성을 제거하는 중</td> 
   </tr> 
  </tbody> 
 </table>
