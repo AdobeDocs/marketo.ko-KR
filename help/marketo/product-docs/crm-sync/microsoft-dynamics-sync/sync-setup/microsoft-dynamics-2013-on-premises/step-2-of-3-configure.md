@@ -3,7 +3,7 @@ unique-page-id: 3571816
 description: 3단계 중 2단계 - Marketing용 동기화 사용자 구성(2013년 온프레미스) - Marketing Docs - 제품 설명서
 title: 3단계 중 2단계 - 마케팅에 대한 동기화 사용자 구성(2013 온-프레미스)
 translation-type: tm+mt
-source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
+source-git-commit: 9d8a6d9880de5d2af211906c2410f2057c1f454d
 workflow-type: tm+mt
 source-wordcount: '335'
 ht-degree: 0%
@@ -25,7 +25,7 @@ Marketing to Sync 사용자 역할을 Marketing Cloud에 할당하여 사용자�
 
 >[!NOTE]
 >
->이것은 Marketing to 플러그인 버전 4.0.0.14 이상에 적용됩니다. 이전 버전의 경우 모든 사용자는 동기화된 사용자 역할이 있어야 합니다. 마케팅을 업그레이드하려면 [Microsoft Dynamics용 Marketing Solution 업그레이드](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/upgrade-the-marketo-solution-for-microsoft-dynamics.md)를 참조하십시오.
+>이것은 Marketing to 플러그인 버전 4.0.0.14 이상에 적용됩니다. 이전 버전의 경우 모든 사용자는 동기화된 사용자 역할이 있어야 합니다. 마케팅을 업그레이드하려면 [Microsoft Dynamics용 Marketing Solution 업그레이드](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/update-the-marketo-solution-for-microsoft-dynamics.md)를 참조하십시오.
 
 1. **설정**&#x200B;에서 **관리**&#x200B;를 클릭합니다.
 
