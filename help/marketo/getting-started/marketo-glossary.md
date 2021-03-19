@@ -3,7 +3,7 @@ unique-page-id: 12980733
 description: Marketing To 용어 - Marketing Docs - 제품 설명서
 title: Marketing 용어
 translation-type: tm+mt
-source-git-commit: 9f88e7cebc5e9d0d4491d65d332ccfdd9a31c395
+source-git-commit: 26453778ee3988b52e57fdf16205b93edbbaa771
 workflow-type: tm+mt
 source-wordcount: '4225'
 ht-degree: 0%
@@ -36,7 +36,7 @@ ht-degree: 0%
    <td colspan="1">이 용어는 서로 다른 의미를 가질 수 있습니다.<br>-마케팅 인스턴스 자체를 Marketing 계정 또는<br>- <strong>ABM에서</strong>,  <strong>네임드 계정</strong> 은 사용자가 추적하고자 하는 대상 계정이라고 결정한 계정입니다.<br>-ABM에서 CRM 계정은 연결된  <strong>CRM</strong> ( <strong>Salesforce</strong> 계정,  <strong>MS </strong> Dynamic  <strong> </strong>API)에서 매핑되는 계정입니다.<br>"CRM에서 계정은 리드 및 연락처가 연관된 비즈니스/회사입니다.</td> 
   </tr> 
   <tr> 
-   <td colspan="1"><strong><a href="/help/marketo/product-docs/target-account-management/setup-tam/account-based-marketing-overview.md" rel="nofollow">계정 기반 마케팅</a> (ABM)</strong></td> 
+   <td colspan="1"><strong><a href="/help/marketo/product-docs/target-account-management/setup-tam/target-account-management-overview.md" rel="nofollow">계정 기반 마케팅</a> (ABM)</strong></td> 
    <td colspan="1">키 계정을 고도로 조정된 방식으로 타깃팅하고 참여를 유도할 수 있는 추가 기능</td> 
   </tr> 
   <tr> 
