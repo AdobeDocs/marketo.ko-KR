@@ -3,7 +3,7 @@ unique-page-id: 37356893
 description: MSI 기능 개요 - Marketing To Docs - 제품 설명서
 title: MSI 기능 개요
 translation-type: tm+mt
-source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
+source-git-commit: ad69776dc366f3b1feba550158bea834bb755beb
 workflow-type: tm+mt
 source-wordcount: '908'
 ht-degree: 0%
@@ -97,9 +97,14 @@ Visualforce 페이지:
 
 * Sales Insight - 연락처 전체 목록 페이지를 엽니다.
 
+작업:
+
+* 마케팅 캠페인에 추가
+* 마케팅 전자 메일 보내기
+* 감시 목록에서 추가/제거
+
 다음 기능은 계정 레이아웃 페이지에서 **을(를) 사용할 수 없습니다.**
 
-* 작업:마케팅 캠페인에 추가, 마케팅 메시지를 이메일로 보내기, 감시 목록에서 추가/제거
 * 별과 불꽃
 
 ## 기회 레이아웃 {#opportunity-layout}
@@ -115,9 +120,14 @@ Visualforce 페이지:
 * Sales Insight - 연락처 전체 목록 페이지를 엽니다.
 * Marketing To Opportunity Analysis - Marketing To에서 기회 영향 분석기를 엽니다.
 
+작업:
+
+* 마케팅 캠페인에 추가
+* 마케팅 전자 메일 보내기
+* 감시 목록에서 추가/제거
+
 다음은 기회 레이아웃 페이지에서 **을(를) 사용할 수 없는 기능입니다.**
 
-* 작업:마케팅 캠페인에 추가, 마케팅 메시지를 이메일로 보내기, 감시 목록에서 추가/제거
 * 별과 불꽃
 
 ## 리드 및 연락처 목록 보기(일괄 작업) {#lead-and-contact-list-view-bulk-actions}
