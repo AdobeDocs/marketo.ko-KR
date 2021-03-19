@@ -5,9 +5,9 @@ audience: end-user
 user-guide-title: 마케팅 가이드
 user-guide-description: 마케팅 제품 설명서
 translation-type: tm+mt
-source-git-commit: d1d74e24c07578b1b0c2696c08fe5a5be543cce8
+source-git-commit: 26453778ee3988b52e57fdf16205b93edbbaa771
 workflow-type: tm+mt
-source-wordcount: '7967'
+source-wordcount: '7971'
 ht-degree: 0%
 
 ---
@@ -46,7 +46,7 @@ ht-degree: 0%
 + 제품 문서 {#product-docs}
    + Target 계정 관리 {#target-account-management}
       + {#setup} 설정
-         + [계정 기반 마케팅 개요](product-docs/target-account-management/setup-tam/account-based-marketing-overview.md)
+         + [Target 계정 관리 개요](product-docs/target-account-management/setup-tam/target-account-management-overview.md)
          + [TAM 시작하기](product-docs/target-account-management/setup-tam/getting-started-with-tam.md)
          + [라이선스 발행](product-docs/target-account-management/setup-tam/issue-a-license.md)
          + [권한](product-docs/target-account-management/setup-tam/permissions.md)
@@ -1322,6 +1322,7 @@ ht-degree: 0%
             + 언어 지원 {#language-support}
                + [Salesforce에서 여러 언어 지원을 위한 Sales Insight 준비](product-docs/marketo-sales-insight/msi-for-salesforce/features/language-support/prepare-sales-insight-for-multi-lingual-support-in-salesforce.md)
             + 마케팅 탭 {#marketo-tab}
+               + [베스트 베트](product-docs/marketo-sales-insight/msi-for-salesforce/features/marketo-tab/best-bets.md)
                + [리드 피드 사용](product-docs/marketo-sales-insight/msi-for-salesforce/features/marketo-tab/using-the-lead-feed.md)
             + MSI 구성 탭 {#msi-configuration-tab}
                + [Sales Insight에 대한 RSS 활성화](product-docs/marketo-sales-insight/msi-for-salesforce/features/msi-configuration-tab/enable-rss-for-sales-insight.md)
@@ -1332,6 +1333,7 @@ ht-degree: 0%
                + [우선 순위, 긴급성, 상대적인 점수 및 최고 점수](product-docs/marketo-sales-insight/msi-for-salesforce/features/stars-and-flames/priority-urgency-relative-score-and-best-bets.md)
                + [영업 인사이트의 별 및 화염에 사용할 점수 필드 설정](product-docs/marketo-sales-insight/msi-for-salesforce/features/stars-and-flames/set-score-fields-to-be-used-for-stars-and-flames-in-sales-insight.md)
             + MSI 패널 {#tabs-in-the-msi-panel} 탭
+               + [이메일 탭](product-docs/marketo-sales-insight/msi-for-salesforce/features/tabs-in-the-msi-panel/email-tab.md)
                + 관심 항목 {#interesting-moments}
                   + [관심 항목 개요](product-docs/marketo-sales-insight/msi-for-salesforce/features/tabs-in-the-msi-panel/interesting-moments/interesting-moments-overview.md)
                   + [관심 분야의 토큰](product-docs/marketo-sales-insight/msi-for-salesforce/features/tabs-in-the-msi-panel/interesting-moments/tokens-for-interesting-moments.md)
@@ -1594,7 +1596,7 @@ ht-degree: 0%
                + [필드 구성기를 사용하여 사용자 지정 필드 그룹 만들기](product-docs/reporting/revenue-cycle-analytics/revenue-tools/field-organizers/create-custom-field-groups-using-the-field-organizer.md)
    + 웹 개인화 {#web-personalization}
       + 계정 기반 웹 마케팅 {#account-based-web-marketing}
-         + [ABM을 사용한 계정 기반 웹 마케팅](product-docs/web-personalization/account-based-web-marketing/account-based-web-marketing-with-abm.md)
+         + [TAM과의 계정 기반 웹 마케팅](product-docs/web-personalization/account-based-web-marketing/account-based-web-marketing-with-tam.md)
          + [새 계정 목록 만들기](product-docs/web-personalization/account-based-web-marketing/create-a-new-account-list.md)
          + [계정 목록을 사용하여 세그먼트 만들기](product-docs/web-personalization/account-based-web-marketing/create-a-segment-using-an-account-list.md)
       + 시작하기 {#getting-started}
@@ -1676,28 +1678,28 @@ ht-degree: 0%
       + [릴리스 노트:1920년 6월](release-notes/2020/release-notes-june-20.md)
       + [릴리스 노트:2007년 7월](release-notes/2020/release-notes-july-20.md)
       + [릴리스 노트:10월 20일](release-notes/2020/release-notes-oct-20.md)
-   + 2019년 {#2019}
+   + 2019 {#2019}
       + [릴리스 노트:19년 8월](release-notes/2019/release-notes-august-19.md)
       + [릴리스 노트:1909년 6월](release-notes/2019/release-notes-june-19.md)
       + [릴리스 노트:19년 봄](release-notes/2019/release-notes-spring-19.md)
       + [릴리스 노트:19년 겨울](release-notes/2019/release-notes-winter-19.md)
-   + 2018년 {#2018}
+   + 2018 {#2018}
       + [릴리스 노트:18년 가을](release-notes/2018/release-notes-fall-18.md)
       + [릴리스 노트:18년 봄](release-notes/2018/release-notes-spring-18.md)
       + [릴리스 노트:18년 겨울](release-notes/2018/release-notes-winter-18.md)
-   + 2017년 {#2017}
+   + 2017 {#2017}
       + [릴리스 노트:2017년 4월 개선 사항](release-notes/2017/release-notes-april-17-abm-enhancements.md)
       + [릴리스 노트:1970년 8월 개선 사항](release-notes/2017/release-notes-august-17-abm-enhancements.md)
       + [릴리스 노트:17년 가을](release-notes/2017/release-notes-fall-17.md)
       + [릴리스 노트:17년 봄](release-notes/2017/release-notes-spring-17.md)
       + [릴리스 노트:17년 여름](release-notes/2017/release-notes-summer-17.md)
       + [릴리스 노트:17년 겨울](release-notes/2017/release-notes-winter-17.md)
-   + 2016년 {#2016}
+   + 2016 {#2016}
       + [릴리스 노트:16년 가을](release-notes/2016/release-notes-fall-16.md)
       + [릴리스 노트:16년 봄](release-notes/2016/release-notes-spring-16.md)
       + [릴리스 노트:16년 여름](release-notes/2016/release-notes-summer-16.md)
       + [릴리스 노트:16년 겨울](release-notes/2016/release-notes-winter-16.md)
-   + 2015년 {#2015}
+   + 2015 {#2015}
       + [릴리스 노트:2015년 4월](release-notes/2015/release-notes-april-2015.md)
       + [릴리스 노트:15년 가을](release-notes/2015/release-notes-fall-15.md)
       + [릴리스 노트:2015년 2월](release-notes/2015/release-notes-february-2015.md)
@@ -1706,7 +1708,7 @@ ht-degree: 0%
       + [릴리스 노트:2015년 6월](release-notes/2015/release-notes-june-2015.md)
       + [릴리스 노트:2015년 3월](release-notes/2015/release-notes-march-2015.md)
       + [릴리스 노트:2015년 5월](release-notes/2015/release-notes-may-2015.md)
-   + 2014년 {#2014}
+   + 2014 {#2014}
       + [릴리스 노트:2014년 8월](release-notes/2014/release-notes-august-2014.md)
       + [릴리스 노트:2014년 12월](release-notes/2014/release-notes-december-2014.md)
       + [릴리스 노트:2014년 2월](release-notes/2014/release-notes-february-2014.md)
@@ -1716,7 +1718,7 @@ ht-degree: 0%
       + [릴리스 노트:2014년 3월](release-notes/2014/release-notes-march-2014.md)
       + [릴리스 노트:2014년 5월](release-notes/2014/release-notes-may-2014.md)
       + [릴리스 노트:2014년 10월](release-notes/2014/release-notes-october-2014.md)
-   + 2013년 {#2013}
+   + 2013 {#2013}
       + [릴리스 노트:2013년 4월](release-notes/2013/release-notes-april-2013.md)
       + [릴리스 노트:2013년 8월](release-notes/2013/release-notes-august-2013.md)
       + [릴리스 노트:2013년 12월](release-notes/2013/release-notes-december-2013.md)
@@ -1728,7 +1730,7 @@ ht-degree: 0%
       + [릴리스 노트:2013년 5월](release-notes/2013/release-notes-may-2013.md)
       + [릴리스 노트:2013년 10월](release-notes/2013/release-notes-october-2013.md)
       + [릴리스 노트:2013년 9월](release-notes/2013/release-notes-september-2013.md)
-   + 2012년 {#2012}
+   + 2012 {#2012}
       + [릴리스 노트:2012년 4월](release-notes/2012/release-notes-april-2012.md)
       + [릴리스 노트:2012년 12월](release-notes/2012/release-notes-december-2012.md)
       + [릴리스 노트:2012년 1월/2월](release-notes/2012/release-notes-jan-feb-2012.md)
@@ -1737,5 +1739,5 @@ ht-degree: 0%
       + [릴리스 노트:2012년 5월](release-notes/2012/release-notes-may-2012.md)
       + [릴리스 노트:2012년 10월](release-notes/2012/release-notes-october-2012.md)
       + [릴리스 노트:2012년 9월](release-notes/2012/release-notes-september-2012.md)
-   + [2010-2011년](release-notes/2010-2011.md)
-   + [2007-2009년](release-notes/2007-2009.md)
+   + [2010-2011](release-notes/2010-2011.md)
+   + [2007-2009](release-notes/2007-2009.md)
