@@ -5,9 +5,9 @@ audience: end-user
 user-guide-title: 마케팅 가이드
 user-guide-description: 마케팅 제품 설명서
 translation-type: tm+mt
-source-git-commit: 26453778ee3988b52e57fdf16205b93edbbaa771
+source-git-commit: f3e3efc1cc480e9c6501b7e808f53c3a8bdc93d8
 workflow-type: tm+mt
-source-wordcount: '7971'
+source-wordcount: '7986'
 ht-degree: 0%
 
 ---
@@ -599,12 +599,14 @@ ht-degree: 0%
          + [암시적인 Salesforce 동작](product-docs/crm-sync/salesforce-sync/implied-salesforce-actions.md)
          + [Salesforce 동기화 오류](product-docs/crm-sync/salesforce-sync/salesforce-sync-errors.md)
          + [Salesforce 동기화 상태](product-docs/crm-sync/salesforce-sync/salesforce-sync-status.md)
+         + [OAuth 2.0 설정](product-docs/crm-sync/salesforce-sync/setting-up-oauth-2-0.md)
    + 수요 생성 {#demand-generation}
       + 광고 네트워크 통합 {#ad-network-integrations}
+         + [광고 네트워크 통합 이해](product-docs/demand-generation/ad-network-integrations/understanding-ad-network-integrations.md)
          + [Facebook 사용자 지정 대상을 LaunchPoint 서비스로 추가](product-docs/demand-generation/ad-network-integrations/add-facebook-custom-audiences-as-a-launchpoint-service.md)
          + [Google 고객 일치를 LaunchPoint 서비스로 추가](product-docs/demand-generation/ad-network-integrations/add-google-customer-match-as-a-launchpoint-service.md)
          + [LinkedIn과 일치하는 대상을 LaunchPoint 서비스로 추가](product-docs/demand-generation/ad-network-integrations/add-linkedin-matched-audiences-as-a-launchpoint-service.md)
-         + [광고 네트워크 통합 이해](product-docs/demand-generation/ad-network-integrations/understanding-ad-network-integrations.md)
+         + [광고 네트워크에 목록 보내기](product-docs/demand-generation/ad-network-integrations/send-a-list-to-an-ad-network.md)
       + 이벤트 {#events}
          + 이벤트 이해 {#understanding-events}
             + [이벤트 프로그램에 구성원 추가](product-docs/demand-generation/events/understanding-events/adding-members-to-an-event-program.md)
@@ -803,7 +805,7 @@ ht-degree: 0%
                + [템플릿 12-F](product-docs/demand-generation/landing-pages/landing-page-templates/guided-landing-page-templates/template-12-f.md)
                + [템플릿 13-A](product-docs/demand-generation/landing-pages/landing-page-templates/guided-landing-page-templates/template-13-a.md)
                + [템플릿 13-B](product-docs/demand-generation/landing-pages/landing-page-templates/guided-landing-page-templates/template-13-b.md)
-               + [템플릿 13-A](product-docs/demand-generation/landing-pages/landing-page-templates/guided-landing-page-templates/template-13-c.md)
+               + [템플릿 13-C](product-docs/demand-generation/landing-pages/landing-page-templates/guided-landing-page-templates/template-13-c.md)
                + [템플릿 13-D](product-docs/demand-generation/landing-pages/landing-page-templates/guided-landing-page-templates/template-13-d.md)
                + [템플릿 13-E](product-docs/demand-generation/landing-pages/landing-page-templates/guided-landing-page-templates/template-13-e.md)
                + [템플릿 14-A](product-docs/demand-generation/landing-pages/landing-page-templates/guided-landing-page-templates/template-14-a.md)
@@ -1112,7 +1114,7 @@ ht-degree: 0%
             + [Salesforce에 이메일 추가](product-docs/marketo-sales-connect/email-plugins/gmail/add-email-to-salesforce.md)
             + [컨텐츠 일부 첨부](product-docs/marketo-sales-connect/email-plugins/gmail/attaching-a-piece-of-content.md)
             + [달력 기능](product-docs/marketo-sales-connect/email-plugins/gmail/calendar-functionality.md)
-            + [Gmail 사용자의 이메일 연결 탭](product-docs/marketo-sales-connect/email-plugins/gmail/email-connection-tab-for-gmail-users.md)
+            + [Gmail 사용자를 위한 이메일 연결](product-docs/marketo-sales-connect/email-plugins/gmail/email-connection-for-gmail-users.md)
             + [Gmail, Sales Connect 서명 가져오기 안 함](product-docs/marketo-sales-connect/email-plugins/gmail/gmail-not-pulling-in-sales-connect-signature.md)
             + [템플릿을 추가하는 방법](product-docs/marketo-sales-connect/email-plugins/gmail/how-to-add-a-template.md)
             + [ToutApp Browser 확장 설치 방법](product-docs/marketo-sales-connect/email-plugins/gmail/how-to-install-the-toutapp-browser-extension.md)
@@ -1124,7 +1126,7 @@ ht-degree: 0%
             + [Sales Connect 도구 모음](product-docs/marketo-sales-connect/email-plugins/gmail/the-sales-connect-tool-bar.md)
             + [Gmail에서 예기치 않은 오류가 발생했습니다.](product-docs/marketo-sales-connect/email-plugins/gmail/unexpected-error-in-gmail.md)
          + Outlook용 MSC {#msc-for-outlook}
-            + [Outlook 사용자의 전자 메일 연결 탭](product-docs/marketo-sales-connect/email-plugins/msc-for-outlook/email-connection-tab-for-outlook-users.md)
+            + [Outlook 사용자를 위한 전자 메일 연결](product-docs/marketo-sales-connect/email-plugins/msc-for-outlook/email-connection-for-outlook-users.md)
             + .NET 기존 추가 기능 {#net-legacy-add-in}
                + [.NET Add-in 개요](product-docs/marketo-sales-connect/email-plugins/msc-for-outlook/net-legacy-add-in/net-add-in-overview.md)
                + [Outlook에서 Sales Connect를 제거하는 방법](product-docs/marketo-sales-connect/email-plugins/msc-for-outlook/net-legacy-add-in/how-to-uninstall-sales-connect-from-outlook.md)
@@ -1147,8 +1149,8 @@ ht-degree: 0%
             + [표시된 것으로 표시되지 않는 테스트 이메일](product-docs/marketo-sales-connect/email/common-tracking-questions/test-email-not-showed-as-viewed.md)
          + 이메일 배달 {#email-delivery}
             + [전달 채널 개요](product-docs/marketo-sales-connect/email/email-delivery/delivery-channel-overview.md)
-            + [SMTP 서버 설정](product-docs/marketo-sales-connect/email/email-delivery/setting-up-an-smtp-server.md)
-            + [배달 채널 설정](product-docs/marketo-sales-connect/email/email-delivery/setting-up-your-delivery-channel.md)
+            + [이메일 연결 제한](product-docs/marketo-sales-connect/email/email-delivery/email-connection-throttling.md)
+            + [사용자 지정 배달 채널 설정](product-docs/marketo-sales-connect/email/email-delivery/setting-up-a-custom-delivery-channel.md)
          + 영업 이메일 {#send-a-sales-email} 보내기
             + [템플릿 또는 캠페인 추가](product-docs/marketo-sales-connect/email/send-a-sales-email/add-a-template-or-campaign.md)
             + [Gmail에서 Salesforce에 이메일 추가](product-docs/marketo-sales-connect/email/send-a-sales-email/add-email-to-salesforce-from-gmail.md)
@@ -1313,6 +1315,7 @@ ht-degree: 0%
                + [Marketing to Sales Insight에서 가입 해지 바닥글 구성](product-docs/marketo-sales-insight/msi-for-salesforce/features/actions-in-the-msi-panel/send-marketo-email/configure-unsubscribe-footers-in-marketo-sales-insight.md)
                + [영업 템플릿 잠금](product-docs/marketo-sales-insight/msi-for-salesforce/features/actions-in-the-msi-panel/send-marketo-email/lock-sales-template.md)
                + [영업 인사이트에 이메일 게시](product-docs/marketo-sales-insight/msi-for-salesforce/features/actions-in-the-msi-panel/send-marketo-email/publish-an-email-to-sales-insight.md)
+               + [테스트 이메일 보내기](product-docs/marketo-sales-insight/msi-for-salesforce/features/actions-in-the-msi-panel/send-marketo-email/send-a-test-email.md)
             + 일괄 작업 {#bulk-actions}
                + [Salesforce에 Marketing to Sales Insight 탭 및 버튼 추가](product-docs/marketo-sales-insight/msi-for-salesforce/features/bulk-actions/add-marketo-sales-insight-tab-and-buttons-to-salesforce.md)
                + [Salesforce Lightning의 일괄 작업](product-docs/marketo-sales-insight/msi-for-salesforce/features/bulk-actions/bulk-actions-in-salesforce-lightning.md)
@@ -1672,34 +1675,36 @@ ht-degree: 0%
          + [특정 레이블에서 웹 캠페인 보기](product-docs/web-personalization/working-with-web-campaigns/view-web-campaigns-from-a-specific-label.md)
 + 릴리스 노트 {#release-notes}
    + [릴리스 일정](release-notes/release-schedule.md)
+   + 2021년 {#2021}
+      + [릴리스 노트:1921년 1월](release-notes/2021/release-notes-jan-21.md)
    + 2020 {#2020}
       + [릴리스 노트:2009년 1월](release-notes/2020/release-notes-jan-20.md)
       + [릴리스 노트:2008년 2월](release-notes/2020/release-notes-feb-20.md)
       + [릴리스 노트:1920년 6월](release-notes/2020/release-notes-june-20.md)
       + [릴리스 노트:2007년 7월](release-notes/2020/release-notes-july-20.md)
       + [릴리스 노트:10월 20일](release-notes/2020/release-notes-oct-20.md)
-   + 2019 {#2019}
+   + 2019년 {#2019}
       + [릴리스 노트:19년 8월](release-notes/2019/release-notes-august-19.md)
       + [릴리스 노트:1909년 6월](release-notes/2019/release-notes-june-19.md)
       + [릴리스 노트:19년 봄](release-notes/2019/release-notes-spring-19.md)
       + [릴리스 노트:19년 겨울](release-notes/2019/release-notes-winter-19.md)
-   + 2018 {#2018}
+   + 2018년 {#2018}
       + [릴리스 노트:18년 가을](release-notes/2018/release-notes-fall-18.md)
       + [릴리스 노트:18년 봄](release-notes/2018/release-notes-spring-18.md)
       + [릴리스 노트:18년 겨울](release-notes/2018/release-notes-winter-18.md)
-   + 2017 {#2017}
+   + 2017년 {#2017}
       + [릴리스 노트:2017년 4월 개선 사항](release-notes/2017/release-notes-april-17-abm-enhancements.md)
       + [릴리스 노트:1970년 8월 개선 사항](release-notes/2017/release-notes-august-17-abm-enhancements.md)
       + [릴리스 노트:17년 가을](release-notes/2017/release-notes-fall-17.md)
       + [릴리스 노트:17년 봄](release-notes/2017/release-notes-spring-17.md)
       + [릴리스 노트:17년 여름](release-notes/2017/release-notes-summer-17.md)
       + [릴리스 노트:17년 겨울](release-notes/2017/release-notes-winter-17.md)
-   + 2016 {#2016}
+   + 2016년 {#2016}
       + [릴리스 노트:16년 가을](release-notes/2016/release-notes-fall-16.md)
       + [릴리스 노트:16년 봄](release-notes/2016/release-notes-spring-16.md)
       + [릴리스 노트:16년 여름](release-notes/2016/release-notes-summer-16.md)
       + [릴리스 노트:16년 겨울](release-notes/2016/release-notes-winter-16.md)
-   + 2015 {#2015}
+   + 2015년 {#2015}
       + [릴리스 노트:2015년 4월](release-notes/2015/release-notes-april-2015.md)
       + [릴리스 노트:15년 가을](release-notes/2015/release-notes-fall-15.md)
       + [릴리스 노트:2015년 2월](release-notes/2015/release-notes-february-2015.md)
@@ -1708,7 +1713,7 @@ ht-degree: 0%
       + [릴리스 노트:2015년 6월](release-notes/2015/release-notes-june-2015.md)
       + [릴리스 노트:2015년 3월](release-notes/2015/release-notes-march-2015.md)
       + [릴리스 노트:2015년 5월](release-notes/2015/release-notes-may-2015.md)
-   + 2014 {#2014}
+   + 2014년 {#2014}
       + [릴리스 노트:2014년 8월](release-notes/2014/release-notes-august-2014.md)
       + [릴리스 노트:2014년 12월](release-notes/2014/release-notes-december-2014.md)
       + [릴리스 노트:2014년 2월](release-notes/2014/release-notes-february-2014.md)
@@ -1718,7 +1723,7 @@ ht-degree: 0%
       + [릴리스 노트:2014년 3월](release-notes/2014/release-notes-march-2014.md)
       + [릴리스 노트:2014년 5월](release-notes/2014/release-notes-may-2014.md)
       + [릴리스 노트:2014년 10월](release-notes/2014/release-notes-october-2014.md)
-   + 2013 {#2013}
+   + 2013년 {#2013}
       + [릴리스 노트:2013년 4월](release-notes/2013/release-notes-april-2013.md)
       + [릴리스 노트:2013년 8월](release-notes/2013/release-notes-august-2013.md)
       + [릴리스 노트:2013년 12월](release-notes/2013/release-notes-december-2013.md)
@@ -1730,7 +1735,7 @@ ht-degree: 0%
       + [릴리스 노트:2013년 5월](release-notes/2013/release-notes-may-2013.md)
       + [릴리스 노트:2013년 10월](release-notes/2013/release-notes-october-2013.md)
       + [릴리스 노트:2013년 9월](release-notes/2013/release-notes-september-2013.md)
-   + 2012 {#2012}
+   + 2012년 {#2012}
       + [릴리스 노트:2012년 4월](release-notes/2012/release-notes-april-2012.md)
       + [릴리스 노트:2012년 12월](release-notes/2012/release-notes-december-2012.md)
       + [릴리스 노트:2012년 1월/2월](release-notes/2012/release-notes-jan-feb-2012.md)
@@ -1739,5 +1744,5 @@ ht-degree: 0%
       + [릴리스 노트:2012년 5월](release-notes/2012/release-notes-may-2012.md)
       + [릴리스 노트:2012년 10월](release-notes/2012/release-notes-october-2012.md)
       + [릴리스 노트:2012년 9월](release-notes/2012/release-notes-september-2012.md)
-   + [2010-2011](release-notes/2010-2011.md)
-   + [2007-2009](release-notes/2007-2009.md)
+   + [2010-2011년](release-notes/2010-2011.md)
+   + [2007-2009년](release-notes/2007-2009.md)
