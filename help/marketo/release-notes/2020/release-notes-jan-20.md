@@ -3,7 +3,7 @@ unique-page-id: 37355534
 description: 릴리스 노트 - 2020년 1월 - Marketing Docs - 제품 설명서
 title: 릴리스 노트 - 2020년 1월
 translation-type: tm+mt
-source-git-commit: b33f5ed707a1377daad51191cc6dd9f093138258
+source-git-commit: f3e3efc1cc480e9c6501b7e808f53c3a8bdc93d8
 workflow-type: tm+mt
 source-wordcount: '838'
 ht-degree: 0%
@@ -19,7 +19,9 @@ ht-degree: 0%
 >
 >별( ![(star)](assets/star-yellow.svg))로 표시된 기능은 유료 추가 기능입니다. 자세한 내용은 Marketo Engage 담당자에게 문의하십시오.
 
-**_분기별 릴리스_** 다음 기능은 2020년  **1월 17일에 릴리스됩니다**.
+**_분기별 릴리스_**
+
+다음 기능은 **2020년 1월 17일에 릴리스됩니다**.
 
 ## 핵심 Marketo Engage Adobe 응용 프로그램 {#core-marketo-engage-adobe-application}
 
