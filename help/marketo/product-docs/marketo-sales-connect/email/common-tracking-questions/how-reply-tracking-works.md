@@ -3,7 +3,7 @@ unique-page-id: 14352482
 description: 회신 추적 작동 방식 - 마케팅 문서 - 제품 설명서
 title: 회신 추적 작동 방식
 translation-type: tm+mt
-source-git-commit: 1dd80b7de801df78ac7dde39002455063f9979b7
+source-git-commit: 073b73255d49f859c32c8b4793e6798f02f7a5c4
 workflow-type: tm+mt
 source-wordcount: '180'
 ht-degree: 0%
@@ -17,7 +17,7 @@ ht-degree: 0%
 
 >[!PREREQUISITES]
 >
->**이메일 서버와의 연결:** Sales Connect가 받은 편지함과 연결되어 있어야 새 회신이 언제 도착했는지 알 수 있습니다. Sales Connect 계정 [이 Gmail](/help/marketo/product-docs/marketo-sales-connect/email-plugins/gmail/email-connection-tab-for-gmail-users.md)에 연결되어 있어야 합니다. Outlook을 사용하는 경우 [exchange 서버](https://toutapp.com/next#settings/exchange_settings)와 통합해야 합니다.
+>**이메일 서버와의 연결:** Sales Connect가 받은 편지함과 연결되어 있어야 새 회신이 언제 도착했는지 알 수 있습니다. Sales Connect 계정 [이 Gmail](/help/marketo/product-docs/marketo-sales-connect/email-plugins/gmail/email-connection-for-gmail-users.md)에 연결되어 있어야 합니다. Outlook을 사용하는 경우 [exchange 서버](https://toutapp.com/next#settings/exchange_settings)와 통합해야 합니다.
 
 Sales Connect가 이메일에 대한 잠재 고객의 응답을 추적할 수 없는 경우 응답 감지 또는 Salesforce에 회신하는 로그 기록을 기반으로 캠페인을 중지할 수 없습니다.  어떤 이메일 주소가 회신할 수 있습니까?
 
