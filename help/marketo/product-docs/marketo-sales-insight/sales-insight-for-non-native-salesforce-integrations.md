@@ -3,9 +3,9 @@ unique-page-id: 45417125
 description: 기본 Salesforce 통합을 위한 Sales Insight - Marketing To Docs - 제품 설명서
 title: 네이티브 Salesforce 이외의 통합을 위한 Sales Insight
 translation-type: tm+mt
-source-git-commit: 972cf9769ac751d9abfd5665975703dcd07930f0
+source-git-commit: f3e3efc1cc480e9c6501b7e808f53c3a8bdc93d8
 workflow-type: tm+mt
-source-wordcount: '1269'
+source-wordcount: '1277'
 ht-degree: 0%
 
 ---
@@ -17,8 +17,8 @@ Marketing To 계정이 사용자 지정 또는 비기본 통합을 통해 Salesf
 
 >[!PREREQUISITES]
 >
->* Marketing To 인스턴스에 대해 &quot;MSI Non-Native&quot; 기능을 활성화하려면 고객 성공 관리자에게 문의하십시오.
->* MSI 패키지 설정이 있는 Salesforce 계정.
+>* MSI를 설정하기 전에 Marketing 인스턴스에 대해 활성화된 &quot;MSI Non-Native&quot; 기능 플래그(없는 경우 고객 성공 관리자에게 문의하십시오).
+>* [MSI 패키지가 설정된 Salesforce 계정](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/installation/install-marketo-sales-insight-package-in-salesforce-appexchange.md).
 >* Marketing REST API [이(가) ](https://developers.marketo.com/rest-api/)을(를) 설정했습니다. 노출된 CRUD API는 기본이 아닌 동기화를 수행하는 기반이 됩니다.
 >* 개체 및 관계를 이해하려면 [이 블로그 게시물](https://developers.marketo.com/blog/create-and-associate-leads-companies-and-opportunities-with-the-marketo-rest-api/)을 읽으십시오.
 >* 대/소문자를 구분하는 15자의 전역 고유 식별자가 아니라 18자의 대/소문자를 구분하지 않는 GUID를 표시하도록 Salesforce 개체를 설정합니다.
