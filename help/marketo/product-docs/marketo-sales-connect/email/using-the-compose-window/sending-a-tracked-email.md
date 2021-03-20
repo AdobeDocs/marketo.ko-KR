@@ -3,7 +3,7 @@ unique-page-id: 37356565
 description: 추적된 이메일 보내기 - 마케팅 문서 - 제품 설명서
 title: 추적된 이메일 보내기
 translation-type: tm+mt
-source-git-commit: 1dd80b7de801df78ac7dde39002455063f9979b7
+source-git-commit: 073b73255d49f859c32c8b4793e6798f02f7a5c4
 workflow-type: tm+mt
 source-wordcount: '198'
 ht-degree: 0%
@@ -20,7 +20,7 @@ Marketing To Sales Connect로 이메일을 보낼 때 보기(이메일 열기) �
 >추적된 이메일을 보내기 전에 ID를 확인하고 이메일 배달 채널을 설정해야 합니다.
 >
 >* [이메일 주소 확인](/help/marketo/product-docs/marketo-sales-connect/getting-started/email-settings/verify-your-email.md)
->* [Outlook](/help/marketo/product-docs/marketo-sales-connect/email-plugins/msc-for-outlook/email-connection-tab-for-outlook-users.md) 또는 [Gmail](/help/marketo/product-docs/marketo-sales-connect/email-plugins/gmail/email-connection-tab-for-gmail-users.md)에 대한 배달 채널 설정
+>* [Outlook](/help/marketo/product-docs/marketo-sales-connect/email-plugins/msc-for-outlook/email-connection-for-outlook-users.md) 또는 [Gmail](/help/marketo/product-docs/marketo-sales-connect/email-plugins/gmail/email-connection-for-gmail-users.md)에 대한 배달 채널 설정
 
 
 1. 이메일 초안을 만듭니다(이 예에서는 헤더에서 **작성**&#x200B;을 선택합니다).
