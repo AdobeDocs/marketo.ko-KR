@@ -3,9 +3,9 @@ unique-page-id: 2360362
 description: 3단계 중 1단계 - Salesforce에 마케팅 필드 추가(Enterprise/Unlimited) - Marketing Docs - 제품 설명서
 title: 3단계 중 1단계 - Salesforce에 마케팅 필드 추가(Enterprise/Unlimited)
 translation-type: tm+mt
-source-git-commit: 2b5ccd7220557a5e966d33436d0f0d2a65e4589d
+source-git-commit: f3e3efc1cc480e9c6501b7e808f53c3a8bdc93d8
 workflow-type: tm+mt
-source-wordcount: '750'
+source-wordcount: '731'
 ht-degree: 0%
 
 ---
@@ -265,10 +265,6 @@ Salesforce의 리드 개체에 있는 사용자 정의 필드를 연락처 개�
 1. 완료되면 **저장**&#x200B;을 클릭합니다.
 
    충분히 쉽죠?
-
->[!NOTE]
->
->전체 프로시저](https://nation.marketo.com/videos/1475)의 [비디오에 대한 링크를 보면 명확한 설명이 필요합니다.
 
 >[!MORELIKETHIS]
 >
