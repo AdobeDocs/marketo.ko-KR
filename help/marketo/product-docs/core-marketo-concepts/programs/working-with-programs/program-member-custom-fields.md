@@ -3,9 +3,9 @@ unique-page-id: 37355569
 description: 프로그램 멤버 사용자 정의 필드 - 마케팅 문서 - 제품 설명서
 title: 프로그램 회원 사용자 정의 필드
 translation-type: tm+mt
-source-git-commit: 07f713ece9832b7696451001f61c6a3b45b4a94a
+source-git-commit: 2d03d93e120c8b3ce359c6aca44730cfa7c16bf9
 workflow-type: tm+mt
-source-wordcount: '374'
+source-wordcount: '382'
 ht-degree: 0%
 
 ---
@@ -14,6 +14,10 @@ ht-degree: 0%
 # 프로그램 멤버 사용자 정의 필드 {#program-member-custom-fields}
 
 프로그램 멤버 사용자 정의 필드를 사용하여 각 멤버에 대한 프로그램 특정 데이터를 수집할 수 있습니다. 이 플러그인은 다음 제품에서 사용할 수 있습니다.마케팅 양식, 스마트 목록 필터 및 트리거, 스마트 캠페인 흐름 작업. 이 데이터는 프로그램의 멤버 탭에서 볼 수 있습니다.
+
+>[!NOTE]
+>
+>현재 프로그램 멤버 사용자 지정 필드에는 Salesforce 캠페인 회원 필드가 통합되어 있지 않습니다.
 
 ## 프로그램 멤버 사용자 정의 필드 {#create-a-program-member-custom-field} 만들기
 
@@ -64,11 +68,10 @@ ht-degree: 0%
 
 * 프로그램 멤버 사용자 정의 필드는 로컬 자산에서만 사용할 수 있습니다. 특정 프로그램에 연결할 방법이 없으므로 Design Studio에서는 지원되지 않습니다.
 * 프로그램 멤버 사용자 정의 필드가 포함된 양식(또는 양식이 있는 랜딩 페이지)은 Design Studio로 복제/이동할 수 없습니다.
-* 프로그램 멤버 사용자 정의 필드는 토큰으로 사용할 수 없습니다.
 * Program Member 객체에는 최대 20개의 사용자 정의 필드가 있을 수 있습니다. 이러한 필드는 모든 프로그램에서 사용할 수 있습니다.
 * 프로그램 멤버를 제거하면 해당 프로그램 멤버 사용자 정의 필드에 데이터가 있는 경우 해당 필드에서 데이터가 지워집니다.
 * 데이터를 보려면 프로그램의 멤버 탭을 클릭하고 해당 필드를 포함하는 사용자 정의 보기를 만듭니다.
-* [list](/help/marketo/getting-started/quick-wins/import-a-list-of-people.md)및 [API](https://developers.marketo.com/)를 통해 가져오고 내보낼 수 있습니다.
+* [list](/help/marketo/getting-started/quick-wins/import-a-list-of-people.md) 및 [API](https://developers.marketo.com/)를 통해 가져오고 내보낼 수 있습니다.
 * 두 사람을 병합하면 우승자의 프로그램 멤버 사용자 정의 필드 데이터가 사용됩니다. 그러나 승자가 없는 경우는 패자의 가치를 매긴다.
 
 >[!MORELIKETHIS]
