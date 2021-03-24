@@ -3,9 +3,9 @@ unique-page-id: 3571743
 description: Salesforce Professional Edition에서 Marketing To Sales Insight 구성 - Marketing Docs - 제품 설명서
 title: Salesforce Professional Edition에서 Marketing To Sales Insight 구성
 translation-type: tm+mt
-source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
+source-git-commit: ed9399396c82a3b2fb93c83ffdaa1dc7b0827306
 workflow-type: tm+mt
-source-wordcount: '898'
+source-wordcount: '905'
 ht-degree: 0%
 
 ---
@@ -306,4 +306,5 @@ ht-degree: 0%
 >
 >* [우선 순위, 긴급성, 상대적인 점수 및 최고 점수](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/features/stars-and-flames/priority-urgency-relative-score-and-best-bets.md)
 >* [Salesforce에 Marketing to Sales Insight 탭 및 버튼 추가](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/features/bulk-actions/add-marketo-sales-insight-tab-and-buttons-to-salesforce.md)
+>* [팀에 대한 Sales Insight 설정](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/configuration/setting-up-sales-insight-for-your-team.md)
 
