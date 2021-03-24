@@ -3,9 +3,9 @@ unique-page-id: 37357050
 description: MSI 패키지 업그레이드 - Marketing To Docs - 제품 설명서
 title: MSI 패키지 업그레이드
 translation-type: tm+mt
-source-git-commit: 972cf9769ac751d9abfd5665975703dcd07930f0
+source-git-commit: ed9399396c82a3b2fb93c83ffdaa1dc7b0827306
 workflow-type: tm+mt
-source-wordcount: '172'
+source-wordcount: '218'
 ht-degree: 0%
 
 ---
@@ -26,3 +26,7 @@ ht-degree: 0%
 1. &quot;관리자용 설치&quot;를 선택하거나(그리고 나중에 특정 프로파일에 대한 MSI 액세스 권한을 제공), &quot;모든 사용자용 설치&quot; 또는 &quot;특정 프로필용 설치&quot;를 선택하여 패키지를 업그레이드할 수 있습니다. 이 예에서는 관리자만 선택합니다. 선택한 경우 **업그레이드**&#x200B;를 클릭합니다.
 
    ![](assets/four.png)
+
+>[!NOTE]
+>
+>Adobe에서는 관리자용으로만 패키지를 업데이트한 다음 구매한 MSI 시트 수에 따라 특정 사용자](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/configuration/setting-up-sales-insight-for-your-team.md)에 대한 액세스 권한을 제공하는 것이 좋습니다. [ 또는 MSI 사용자를 위한 특정 Salesforce 프로필을 만들고 해당 사용자만을 위한 패키지를 설치하거나 업그레이드할 수 있습니다.
