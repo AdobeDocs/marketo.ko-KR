@@ -3,9 +3,9 @@ unique-page-id: 7516390
 description: Salesforce AppExchange - Marketing To Docs - 제품 문서에 Marketing To Sales Insight 패키지 설치
 title: Salesforce AppExchange에 Marketing To Sales Insight 패키지 설치
 translation-type: tm+mt
-source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
+source-git-commit: ed9399396c82a3b2fb93c83ffdaa1dc7b0827306
 workflow-type: tm+mt
-source-wordcount: '286'
+source-wordcount: '293'
 ht-degree: 0%
 
 ---
@@ -77,6 +77,7 @@ Sales Insight가 제공하는 모든 혜택을 누리려면 먼저 Salesforce �
 
 >[!MORELIKETHIS]
 >
->[Salesforce Professional Edition에서 Marketing To Sales Insight 구성](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/configuration/configure-marketo-sales-insight-in-salesforce-professional-edition.md)
->
->[Salesforce Enterprise에서 Marketing To Sales Insight 구성/제한 없음](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/configuration/configure-marketo-sales-insight-in-salesforce-enterprise-unlimited.md)
+>* [Salesforce Professional Edition에서 Marketing To Sales Insight 구성](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/configuration/configure-marketo-sales-insight-in-salesforce-professional-edition.md)
+>* [Salesforce Enterprise에서 Marketing To Sales Insight 구성/제한 없음](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/configuration/configure-marketo-sales-insight-in-salesforce-enterprise-unlimited.md)
+>* [팀에 대한 Sales Insight 설정](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/configuration/setting-up-sales-insight-for-your-team.md)
+
