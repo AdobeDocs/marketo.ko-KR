@@ -3,9 +3,9 @@ unique-page-id: 11385938
 description: 이메일에 대한 예측 컨텐츠 편집 - 마케팅 문서 - 제품 설명서
 title: 이메일에 대한 예측 컨텐츠 편집
 translation-type: tm+mt
-source-git-commit: 06e0f5489e6375a97e2fe77834bf45fa41f23ea6
+source-git-commit: ed9399396c82a3b2fb93c83ffdaa1dc7b0827306
 workflow-type: tm+mt
-source-wordcount: '227'
+source-wordcount: '239'
 ht-degree: 0%
 
 ---
@@ -42,6 +42,10 @@ ht-degree: 0%
 1. 이미지 URL을 추가하거나 편집하려면 **이미지 편집**&#x200B;을 클릭합니다.
 
    ![](assets/image2017-10-3-9-3a33-3a11.png)
+
+   >[!CAUTION]
+   >
+   >최상의 품질을 얻으려면 이미지가 400x400픽셀 이하여야 합니다.
 
 1. 이미지 URL을 삽입하고 **추가**&#x200B;를 클릭합니다.
 
