@@ -3,9 +3,9 @@ unique-page-id: 42762322
 description: Salesforce의 Marketing To Sales Insight 구성 탭 - Marketing To Docs - 제품 설명서
 title: Salesforce의 Marketing To Sales Insight 구성 탭
 translation-type: tm+mt
-source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
+source-git-commit: ed9399396c82a3b2fb93c83ffdaa1dc7b0827306
 workflow-type: tm+mt
-source-wordcount: '398'
+source-wordcount: '434'
 ht-degree: 0%
 
 ---
@@ -44,6 +44,7 @@ SFDC에서 Sales Insight를 사용하려면 이 설정을 해야 합니다.
 
 * 예정된 이벤트:초대된 이벤트, 모든 이벤트를 사용자에게 표시하거나 이 탭을 완전히 숨기기
 * 예정된 캠페인:모든 이메일 캠페인을 표시하거나 이 탭을 완전히 숨기는 기능
+* 예정된 캠페인 및 이벤트 로드:주문형 &quot;예정된 항목 로드&quot; 단추 뒤에 이벤트 및 캠페인 탭을 배치하여 사용자가 수행하는 나머지 API 호출 수를 줄이는 기능
 * 탭 설정 - 기본적으로 5개의 탭을 모두 사용할 수 있습니다. 기본적으로 5개의 탭을 모두 사용할 수 있습니다. Sales Insight 패널에서 탭 순서를 선택할 수 있습니다. 동일한 주문은 모든 레이아웃(리드, 연락처, 계정, 기회)에 적용됩니다.
 
 ![](assets/two.png)
@@ -58,3 +59,7 @@ SFDC에서 Sales Insight를 사용하려면 이 설정을 해야 합니다.
 이렇게 하면 SFDC의 모든 구성이 지워지며 복원할 수 없습니다. 모든 것을 다시 구성해야 합니다.
 
 ![](assets/three.png)
+
+>[!MORELIKETHIS]
+>
+>[팀에 대한 Sales Insight 설정](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/configuration/setting-up-sales-insight-for-your-team.md)
