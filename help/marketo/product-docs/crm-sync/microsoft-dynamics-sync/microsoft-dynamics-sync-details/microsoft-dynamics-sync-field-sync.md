@@ -3,9 +3,9 @@ unique-page-id: 3571838
 description: Microsoft Dynamics 동기화 - 필드 동기화 - Marketing To Docs - 제품 설명서
 title: Microsoft Dynamics 동기화 - 필드 동기화
 translation-type: tm+mt
-source-git-commit: 2b5ccd7220557a5e966d33436d0f0d2a65e4589d
+source-git-commit: ed9399396c82a3b2fb93c83ffdaa1dc7b0827306
 workflow-type: tm+mt
-source-wordcount: '280'
+source-wordcount: '337'
 ht-degree: 0%
 
 ---
@@ -33,10 +33,14 @@ Marketing to Dynamics 동기화가 매우 강력합니다. 자세한 내용은
 
 예. 동기화 사용자가 Dynamics에서 필드](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/microsoft-dynamics-365/step-3-of-3-connect.md#select-fields-to-sync)을(를) 이용할 수 있는 경우 [동기화할 수 있습니다.
 
-Marketing To와 동기화할 필드는 무엇입니까?
+## Marketing To와 동기화할 필드는 무엇입니까?{#what-fields-will-sync-to-marketo}
 
 설정 중에 [필드를 선택하여](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/microsoft-dynamics-365/step-3-of-3-connect.md#select-fields-to-sync)을 동기화할 수 있습니다.
 
 ## Marketing To 및 Dynamics가 동기화된 후 사용자 정의 필드를 추가해야 하는 경우 어떻게 됩니까?{#what-if-i-need-to-add-a-custom-field-after-marketo-and-dynamics-are-synced}
 
 언제든지 필드를 추가할 수 있으며 데이터가 Dynamics에서 Marketing으로 새로 고쳐질 것으로 예상합니다. 자세한 내용은 [새 사용자 지정 필드](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/microsoft-dynamics-sync-details/microsoft-dynamics-sync-field-sync/use-quick-sync-with-microsoft-dynamics-for-a-new-custom-field.md)에 대해 Microsoft Dynamics와 빠른 동기화 사용을 참조하십시오.
+
+## 필드를 동기화에 추가한 후 Dynamics에서 필드를 삭제하려면 어떻게 해야 합니까?{#what-if-i-want-to-delete-a-field-in-dynamics-after-the-field-has-been-added-to-sync}
+
+Marketing Cloud에는 동기화할 필드에 대한 참조가 저장됩니다. Dynamics에서 필드를 삭제하는 경우 [동기화 비활성화](/help/marketo/product-docs/crm-sync/salesforce-sync/enable-disable-the-salesforce-sync.md)로 설정하는 것이 좋습니다. 그런 다음 [동기화할 필드 선택](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/microsoft-dynamics-sync-details/microsoft-dynamics-sync-field-sync/editing-fields-to-sync-before-deleting-them-in-dynamics.md)을 편집하고 저장하여 Marketing에서 스키마를 새로 고칩니다.
