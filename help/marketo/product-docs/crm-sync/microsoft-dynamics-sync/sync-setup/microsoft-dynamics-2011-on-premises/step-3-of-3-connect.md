@@ -3,9 +3,9 @@ unique-page-id: 3571809
 description: 3단계 중 3단계 - Microsoft Dynamics와 Marketing(2011년 온프레미스) - Marketing To Docs - 제품 설명서
 title: 3단계 중 3단계 - Microsoft Dynamics와 Marketing(2011 온-프레미스)
 translation-type: tm+mt
-source-git-commit: 2b5ccd7220557a5e966d33436d0f0d2a65e4589d
+source-git-commit: 20eb3389b267101fb277152f150c2119a5be65a8
 workflow-type: tm+mt
-source-wordcount: '330'
+source-wordcount: '364'
 ht-degree: 0%
 
 ---
@@ -53,11 +53,9 @@ ht-degree: 0%
 
    >[!NOTE]
    >
-   >Marketing의 사용자 이름은 CRM의 동기화 사용자의 사용자 이름과 일치해야 합니다. 형식은 user@domain.com 또는 DOMAIN\user일 수 있습니다.
+   >* Marketing의 사용자 이름은 CRM의 동기화 사용자의 사용자 이름과 일치해야 합니다. 형식은 `user@domain.com` 또는 DOMAIN\user일 수 있습니다.
+   >* URL을 모를 경우 [여기에서 URL을 찾는 방법을 알아봅니다](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/view-the-organization-service-url.md).
 
-   >[!TIP]
-   >
-   >URL을 모르십니까? 여기에서 [Dynamics 조직 서비스 URL](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/view-the-organization-service-url.md)을 찾는 방법을 보여 드리겠습니다.
 
 ## 동기화할 필드 선택 {#select-fields-to-sync}
 
@@ -70,6 +68,10 @@ ht-degree: 0%
 1. 동기화할 미리 선택된 필드가 있습니다. 원할 경우 더 추가하고 **저장**&#x200B;을 클릭합니다.
 
    ![](assets/image2016-8-25-13-3a26-3a14.png)
+
+   >[!NOTE]
+   >
+   >Marketing Cloud에는 동기화할 필드에 대한 참조가 저장됩니다. Dynamics에서 필드를 삭제하는 경우 [동기화 비활성화](/help/marketo/product-docs/crm-sync/salesforce-sync/enable-disable-the-salesforce-sync.md)로 설정하는 것이 좋습니다. 그런 다음 [동기화할 필드 선택](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/microsoft-dynamics-sync-details/microsoft-dynamics-sync-field-sync/editing-fields-to-sync-before-deleting-them-in-dynamics.md)을 편집하고 저장하여 Marketing에서 스키마를 새로 고칩니다.
 
 ## 사용자 지정 필터 {#sync-fields-for-a-custom-filter}에 대한 필드 동기화
 
