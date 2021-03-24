@@ -3,7 +3,7 @@ unique-page-id: 5472490
 description: 릴리스 일정 - 마케팅 문서 - 제품 설명서
 title: 릴리스 일정
 translation-type: tm+mt
-source-git-commit: b33f5ed707a1377daad51191cc6dd9f093138258
+source-git-commit: ed9399396c82a3b2fb93c83ffdaa1dc7b0827306
 workflow-type: tm+mt
 source-wordcount: '132'
 ht-degree: 0%
@@ -23,7 +23,7 @@ ht-degree: 0%
 * 진행 중 - 지정된 날짜에 릴리스할 컨텐츠를 개발 및 문서화하고 있습니다.
 * 배송됨 - 릴리스가 완료되었습니다.
 
-릴리스 날짜는 변경될 수 있습니다.
+_릴리스 날짜는 변경될 수 있습니다._
 
 <table> 
  <colgroup> 
