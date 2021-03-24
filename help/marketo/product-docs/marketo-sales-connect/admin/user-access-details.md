@@ -3,7 +3,7 @@ unique-page-id: 14352623
 description: 사용자 액세스 세부 사항 - 마케팅 문서 - 제품 설명서
 title: 사용자 액세스 세부 사항
 translation-type: tm+mt
-source-git-commit: 0f0217a88929661798015b51a26259a973f9f6ea
+source-git-commit: ed9399396c82a3b2fb93c83ffdaa1dc7b0827306
 workflow-type: tm+mt
 source-wordcount: '231'
 ht-degree: 0%
@@ -27,7 +27,7 @@ ht-degree: 0%
 
 관리자는 모든 이메일 활동을 볼 수 있습니다.
 
-![](assets/email-activity.png)
+![](assets/user-access-details-3.png)
 
 관리자는 실행 중인 캠페인의 모든 사람을 볼 수 있습니다.
 
