@@ -2,9 +2,9 @@
 description: 개요 - 마케팅 문서 - 제품 설명서
 title: 개요
 translation-type: tm+mt
-source-git-commit: d1d74e24c07578b1b0c2696c08fe5a5be543cce8
+source-git-commit: 567a18fde3335076cc24d2302096c791fa4084f0
 workflow-type: tm+mt
-source-wordcount: '490'
+source-wordcount: '470'
 ht-degree: 1%
 
 ---
@@ -45,7 +45,7 @@ Marketing To 플랫폼 전반에서 새로운 모양과 느낌과 함께 유용�
 
 **트리**
 
-나무도 업그레이드되었습니다. 하지만 지금은 드래그 앤 드롭을 사용할 수 없습니다. 그러나 에셋을 이동할 수는 있습니다. 방법 살펴보기:[자산 이동](/help/marketo/product-docs/marketo-engage-next-generation-experience/moving-assets.md).
+나무도 업그레이드되었습니다.
 
 ![](assets/overview-4.png)
 
@@ -97,12 +97,12 @@ Marketing To 플랫폼 전반에서 새로운 모양과 느낌과 함께 유용�
   <tr>
    <td>트리에서 참여 스트림으로 드래그 앤 드롭</td> 
    <td><strong>X</strong></td> 
-   <td>hhhhhhhh</td> 
+   <td></td> 
   </tr>
   <tr>
    <td>트리 안쪽으로 드래그하여 놓기</td> 
    <td><strong>X</strong></td> 
-   <td></td> 
+   <td><strong>X</strong></td> 
   </tr>
   <tr>
    <td>자산 유형 및 상태별로 필터링</td> 
