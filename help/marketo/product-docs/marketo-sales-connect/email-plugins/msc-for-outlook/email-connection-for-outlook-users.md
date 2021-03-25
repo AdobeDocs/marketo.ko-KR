@@ -3,9 +3,9 @@ unique-page-id: 17727591
 description: Outlook 사용자를 위한 전자 메일 연결 - 마케팅 문서 - 제품 설명서
 title: Outlook 사용자를 위한 전자 메일 연결
 translation-type: tm+mt
-source-git-commit: f3e3efc1cc480e9c6501b7e808f53c3a8bdc93d8
+source-git-commit: 567a18fde3335076cc24d2302096c791fa4084f0
 workflow-type: tm+mt
-source-wordcount: '354'
+source-wordcount: '352'
 ht-degree: 0%
 
 ---
@@ -47,9 +47,22 @@ Outlook에 연결하면 회신 추적, Outlook 배달 채널에 액세스, Outlo
 
    ![](assets/six-a.png)
 
-   | **Outlook Online** | Office Online이라고도 함 |
-   |---|---|
-   | **사내 교환** | Exchange 2013 및 2016 포함 |
+   <table> 
+    <tbody>
+     <tr>
+      <td><strong>Outlook Online</strong></td> 
+      <td>Exchange Online이라고도 함</td> 
+     </tr>
+     <tr>
+      <td><strong>사내 교환</strong></td> 
+      <td>Exchange 2013 및 2016 포함</td> 
+     </tr>
+    </tbody>
+   </table>
+
+   >[!NOTE]
+   >
+   >현재 Exchange 하이브리드 계정을 지원하지 않습니다.
 
 1. **확인**&#x200B;을 클릭합니다.
 
@@ -67,7 +80,7 @@ Outlook에 연결하면 회신 추적, Outlook 배달 채널에 액세스, Outlo
 
    >[!NOTE]
    >
-   >Outlook을 배달 채널로 사용할 때는 한 번에 300개의 벌크 이메일을 보낼 수 없습니다.
+   >Outlook Online(Office365)에서는 자체 전송 제한을 적용합니다. [자세한 내용을 살펴보십시오](/help/marketo/product-docs/marketo-sales-connect/email/email-delivery/email-connection-throttling.md#email-provider-limits).
 
 ## Exchange 온-프레미스 {#connecting-to-exchange-on-premise}에 연결
 
@@ -97,10 +110,18 @@ Exchange 온-프레미스에 연결하면 회신 추적, Outlook 배달 채널�
 
    ![](assets/six-b.png)
 
-   | 버전 | 설명 |
-   |---|---|
-   | **Outlook Online** | Office Online이라고도 함 |
-   | **사내 교환** | Exchange 2013 및 2016 포함 |
+   <table> 
+    <tbody>
+     <tr>
+      <td><strong>Outlook Online</strong></td> 
+      <td>Exchange Online이라고도 함</td> 
+     </tr>
+     <tr>
+      <td><strong>사내 교환</strong></td> 
+      <td>Exchange 2013 및 2016 포함</td> 
+     </tr>
+    </tbody>
+   </table>
 
 1. 자격 증명을 입력하고 **Connect**&#x200B;를 클릭합니다.
 
@@ -114,4 +135,4 @@ Exchange 온-프레미스에 연결하면 회신 추적, Outlook 배달 채널�
 
    >[!NOTE]
    >
-   >Outlook을 배달 채널로 사용할 때는 한 번에 300개의 벌크 이메일을 보낼 수 없습니다.
+   >Exchange On-Prem을 사용하는 경우 IT 팀에서 이메일 전송 한도를 설정합니다.
