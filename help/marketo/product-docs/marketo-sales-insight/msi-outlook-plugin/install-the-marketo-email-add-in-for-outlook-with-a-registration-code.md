@@ -3,9 +3,9 @@ unique-page-id: 2949711
 description: 등록 코드 - Marketing Docs - 제품 설명서와 함께 Outlook용 Marketing To Email Add-in을 설치합니다.
 title: 등록 코드와 함께 Outlook용 Marketing To 전자 메일 추가 기능 설치
 translation-type: tm+mt
-source-git-commit: 972cf9769ac751d9abfd5665975703dcd07930f0
+source-git-commit: 567a18fde3335076cc24d2302096c791fa4084f0
 workflow-type: tm+mt
-source-wordcount: '388'
+source-wordcount: '427'
 ht-degree: 0%
 
 ---
@@ -21,6 +21,10 @@ ht-degree: 0%
 >
 >[마케팅 전자 메일 추가 기능 라이선스를 발급해야 합니다](/help/marketo/product-docs/marketo-sales-insight/msi-outlook-plugin/issue-a-marketo-email-add-in-license.md).
 
+>[!NOTE]
+>
+>10/1/20 현재 최신 버전의 Outlook 플러그인은 더 이상 오프라인 모드를 지원하지 않습니다. 10/1 설치/업그레이드 후에 적용됩니다.
+
 ## 설치 프로그램 다운로드 {#download-installer}
 
 1. [Microsoft Outlook 버전 식별](https://support.office.com/en-us/article/what-version-of-outlook-do-i-have-b3a9568c-edb5-42b9-9825-d48d82b2257c)
@@ -29,7 +33,7 @@ ht-degree: 0%
 
    >[!NOTE]
    >
-   >아래 링크는 현재 Chrome에서만 작동합니다. 불편을 드려 죄송합니다.
+   >현재 아래 링크는 Microsoft Edge에서만 작동하거나 Chrome에서 마우스 오른쪽 단추를 클릭하는 방법으로만 작동합니다. 불편을 드려 죄송합니다.
 
    | Outlook 버전 | 32비트 Outlook | 64비트 Outlook |
    |---|---|---|
@@ -40,9 +44,11 @@ ht-degree: 0%
    | Outlook 2013 | [다운로드](https://munchkin.marketo.net/MarketoAddInSetup32.msi) | [다운로드](https://munchkin.marketo.net/MarketoAddInSetup64.msi) |
    | Outlook 2016 | [다운로드](https://munchkin.marketo.net/MarketoAddInSetup32.msi) | [다운로드](https://munchkin.marketo.net/MarketoAddInSetup64.msi) |
    | Outlook 2019 | [다운로드](https://munchkin.marketo.net/MarketoAddInSetup32.msi) | [다운로드](https://munchkin.marketo.net/MarketoAddInSetup64.msi) |
-   | Outlook O365(Windows 전용) | [다운로드](https://munchkin.marketo.net/MarketoAddInSetup32.msi) | [다운로드](https://munchkin.marketo.net/MarketoAddInSetup64.msi) |
    | Mac용 Outlook | 지원되지 않음 | 지원되지 않음 |
    | Outlook 웹 앱 | 지원되지 않음 | 지원되지 않음 |
+   | Office 365* | [다운로드](https://munchkin.marketo.net/MarketoAddInSetup32.msi) | [다운로드](https://munchkin.marketo.net/MarketoAddInSetup64.msi) |
+
+   *Office 365 버전:Windows 클라이언트만 해당(Windows 10, Enterprise 또는 Pro).
 
 ## 등록 코드 {#copy-your-registration-code} 복사
 
