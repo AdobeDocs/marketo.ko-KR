@@ -3,9 +3,9 @@ unique-page-id: 2949279
 description: Outlook용 Marketing Cloud 이메일 추가 기능 업그레이드 - Marketing To Docs - 제품 설명서
 title: Outlook용 Marketing To Email Add-In 업그레이드
 translation-type: tm+mt
-source-git-commit: 972cf9769ac751d9abfd5665975703dcd07930f0
+source-git-commit: 567a18fde3335076cc24d2302096c791fa4084f0
 workflow-type: tm+mt
-source-wordcount: '344'
+source-wordcount: '405'
 ht-degree: 0%
 
 ---
@@ -14,6 +14,10 @@ ht-degree: 0%
 # Outlook용 Marketing Cloud 전자 메일 추가 기능 업그레이드 {#upgrade-your-marketo-email-add-in-for-outlook}
 
 Outlook용 Marketing To Email Add-in의 새 버전을 사용할 수 있으면 다음 지침에 따라 업그레이드하십시오.
+
+>[!NOTE]
+>
+>10/1/20 현재 최신 버전의 Outlook 플러그인은 더 이상 오프라인 모드를 지원하지 않습니다. 10/1 설치/업그레이드 후에 적용됩니다.
 
 ## 설치 프로그램 다운로드 {#download-installer}
 
@@ -90,13 +94,6 @@ Outlook용 Marketing To Email Add-in의 새 버전을 사용할 수 있으면 �
    <td colspan="1"><a href="https://munchkin.marketo.net/MarketoAddInSetup64.msi" rel="nofollow">다운로드</a></td> 
   </tr> 
   <tr> 
-   <td colspan="1">Outlook O365(Windows 전용)</td> 
-   <td colspan="1"><a href="https://munchkin.marketo.net/MarketoAddInSetup32.msi" rel="nofollow">다운로드</a></td> 
-   <td colspan="1"><a href="https://munchkin.marketo.net/MarketoAddInSetup64.msi" rel="nofollow">다운로드</a></td> 
-   <td colspan="1"><a href="https://munchkin.marketo.net/MarketoAddInSetup32.msi" rel="nofollow">다운로드</a></td> 
-   <td colspan="1"><a href="https://munchkin.marketo.net/MarketoAddInSetup64.msi" rel="nofollow">다운로드</a></td> 
-  </tr> 
-  <tr> 
    <td>Mac용 Outlook</td> 
    <td>지원되지 않음</td> 
    <td>지원되지 않음</td> 
@@ -110,10 +107,23 @@ Outlook용 Marketing To Email Add-in의 새 버전을 사용할 수 있으면 �
    <td colspan="1">지원되지 않음</td> 
    <td colspan="1">지원되지 않음</td> 
   </tr> 
+  <tr> 
+   <td colspan="1">Office 365*</td> 
+   <td colspan="1"><a href="https://munchkin.marketo.net/MarketoAddInSetup32.msi" rel="nofollow">다운로드</a></td> 
+   <td colspan="1"><a href="https://munchkin.marketo.net/MarketoAddInSetup64.msi" rel="nofollow">다운로드</a></td> 
+   <td colspan="1"><a href="https://munchkin.marketo.net/MarketoAddInSetup32.msi" rel="nofollow">다운로드</a></td> 
+   <td colspan="1"><a href="https://munchkin.marketo.net/MarketoAddInSetup64.msi" rel="nofollow">다운로드</a></td> 
+  </tr> 
  </tbody> 
 </table>
 
+*Office 365 버전:Windows 클라이언트만 해당(Windows 10, Enterprise 또는 Pro).
+
 ## {#upgrade} 업그레이드
+
+1. [Microsoft Outlook 버전](https://support.microsoft.com/en-us/office/what-version-of-outlook-do-i-have-b3a9568c-edb5-42b9-9825-d48d82b2257c?ui=en-us&amp;rs=en-us&amp;ad=us)을 식별합니다.
+
+1. 위의 목록에서 버전을 선택합니다.
 
 1. 설치 관리자를 실행합니다.
 
