@@ -1,14 +1,14 @@
 ---
 title: export-smart-campaign-results-to-excel
 description: Excel로 스마트 캠페인 결과 내보내기
+exl-id: f8297090-ae57-46cd-97b5-1297d50486e0
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '71'
 ht-degree: 0%
 
 ---
-
 
 # Excel로 스마트 캠페인 결과 내보내기
 
