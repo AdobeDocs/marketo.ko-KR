@@ -1,20 +1,20 @@
 ---
 title: save-flow-actions
 description: 흐름 작업 저장
+exl-id: a359466a-2484-4538-a0d7-29d9a5606786
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '193'
 ht-degree: 0%
 
 ---
 
-
 # 흐름 작업 저장
 
 <br> 
 
-흐름 단계는 마케팅 팀에 자격을 갖춘 사람(스마트 목록에서 선택한 사람) 그룹에 어떤 일이 발생할지 알려 줍니다. 특정 흐름을 저장하면 시간이 절약됩니다.
+흐름 단계는 Marketo에서 자격이 부여된 사람(스마트 목록에서 선택한 사람)에게 발생할 수 있는 일을 알려줍니다. 특정 흐름을 저장하면 시간이 절약됩니다.
 
 ## 흐름 작업 저장
 
@@ -48,7 +48,7 @@ ht-degree: 0%
 
    ![이미지 7](/help/sky/assets/smart-lists-and-static-lists/save-flow-actions/save-flow-actions-7.png)
 
-1. **[!UICONTROL Flow]**&#x200B;을 클릭합니다.
+1. 여기를 클릭하십시오 **[!UICONTROL Flow]**.
 
    ![이미지 8](/help/sky/assets/smart-lists-and-static-lists/save-flow-actions/save-flow-actions-8.png)
 
