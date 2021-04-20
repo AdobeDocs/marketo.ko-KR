@@ -1,14 +1,14 @@
 ---
 title: add-content-to-an-engagement-stream
 description: 관여 스트림에 컨텐츠 추가
+exl-id: c3e5fcf9-bdbd-4a24-8d70-b12c3246c348
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '168'
-ht-degree: 0%
+ht-degree: 1%
 
 ---
-
 
 # 관여 스트림에 컨텐츠 추가
 
@@ -24,7 +24,7 @@ ht-degree: 0%
 
    ![이미지 2](/help/sky/assets/engagement-programs/add-content-to-an-engagement-stream/add-content-to-an-engagement-stream-2.png)
 
-1. **[!UICONTROL Add Content]**&#x200B;을 클릭합니다.
+1. 여기를 클릭하십시오 **[!UICONTROL Add Content]**.
 
    ![이미지 3](/help/sky/assets/engagement-programs/add-content-to-an-engagement-stream/add-content-to-an-engagement-stream-3.png)
 
@@ -46,7 +46,7 @@ ht-degree: 0%
 
    ![이미지 6](/help/sky/assets/engagement-programs/add-content-to-an-engagement-stream/add-content-to-an-engagement-stream-6.png)
 
-1. **[!UICONTROL Add Content]**&#x200B;을 클릭합니다.
+1. 여기를 클릭하십시오 **[!UICONTROL Add Content]**.
 
    ![이미지 7](/help/sky/assets/engagement-programs/add-content-to-an-engagement-stream/add-content-to-an-engagement-stream-7.png)
 
