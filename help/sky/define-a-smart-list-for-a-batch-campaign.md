@@ -1,20 +1,20 @@
 ---
 title: define-a-smart-list-for-a-batch-campaign
 description: 배치 캠페인에 대한 스마트 목록 정의
+exl-id: 35130f40-cce5-4677-8eaf-f9d73c995ba3
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '256'
 ht-degree: 0%
 
 ---
 
-
 # 배치 캠페인에 대한 스마트 목록 정의
 
 <br> 
 
-스마트 목록은 Marketing 전체의 메커니즘으로 보고서, 목록 또는 스마트 캠페인이든 포함할 &quot;사용자&quot;(사람)를 정의합니다. 일괄 처리 캠페인에 대한 스마트 목록을 정의하는 방법입니다.
+스마트 목록은 Marketo 전체에서 포함할 &quot;사용자&quot;(사용자가 포함됨)를 정의하는 메커니즘으로, 보고서인지, 목록인지 또는 스마트 캠페인인지 여부입니다. 일괄 처리 캠페인에 대한 스마트 목록을 정의하는 방법입니다.
 
 1. 스마트 캠페인을 선택한 다음 **[!UICONTROL Smart List]**&#x200B;을 클릭합니다.
 
