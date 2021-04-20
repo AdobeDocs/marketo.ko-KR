@@ -1,14 +1,14 @@
 ---
 title: my token-email-script
 description: 내 토큰 이메일 스크립트
+exl-id: 8dd28274-578a-4184-b7bb-b46b59ebe410
 translation-type: tm+mt
-source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '158'
 ht-degree: 0%
 
 ---
-
 
 # 내 토큰:이메일 스크립트
 
@@ -34,7 +34,7 @@ ht-degree: 0%
 
 1. Velocity로 스크립트 작성 다음은 유용한 리소스입니다.
 
-   * [Marketing To Developers 이메일 스크립팅 설명서](https://developers.marketo.com/email-scripting/)
+   * [Marketo 개발자 이메일 스크립팅 설명서](https://developers.marketo.com/email-scripting/)
    * [Velocity 사용 안내서](https://velocity.apache.org/engine/devel/user-guide.html)
    * [속도 참조 안내서](https://velocity.apache.org/engine/devel/vtl-reference-guide.html)
    * [VelocityTools 2.0 설명서](https://velocity.apache.org/tools/releases/2.0/javadoc/index.html)
