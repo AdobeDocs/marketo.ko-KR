@@ -1,14 +1,14 @@
 ---
 title: using-the-program-overview-tab
 description: 프로그램 개요 탭 사용
+exl-id: 85193e27-5f49-4db9-88f5-99ec5f8bbec8
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '154'
 ht-degree: 0%
 
 ---
-
 
 # 프로그램 개요 탭 사용
 
@@ -22,7 +22,7 @@ ht-degree: 0%
 
 ![이미지 원](/help/sky/assets/programs/using-the-program-overview-tab/using-the-program-overview-tab-1.png)
 
-페이지 하단에는 두 개의 섹션이 있습니다.**[!UICONTROL Program Stats]** 및 **[!UICONTROL Used By]**. **[!UICONTROL Program Stats]** 는 프로그램 성능에 대한 주요 지표를 보여주며, Marketing **[!UICONTROL Used By]** 에서 프로그램이 사용되는 위치를 쉽게 확인할 수 있습니다.
+페이지 하단에는 두 개의 섹션이 있습니다.**[!UICONTROL Program Stats]** 및 **[!UICONTROL Used By]**. **[!UICONTROL Program Stats]** 프로그램 성능에 대한 주요 지표 **[!UICONTROL Used By]** 를 보여주며 Marketo에서 프로그램이 사용되는 위치를 쉽게 확인할 수 있습니다.
 
 ![이미지 2](/help/sky/assets/programs/using-the-program-overview-tab/using-the-program-overview-tab-2.png)
 
@@ -34,7 +34,7 @@ ht-degree: 0%
 
 **자세히 알아보기**
 
-* 프로그램 예약 보기[를 사용하는 방법에 대해 알아봅니다.](/help/sky/navigating-program-schedule-view.md)
+* 프로그램 예약 보기](/help/sky/navigating-program-schedule-view.md)를 사용하는 방법에 대해 알아봅니다.[
 
 ## 보고서
 
