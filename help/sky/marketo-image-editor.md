@@ -1,16 +1,16 @@
 ---
 title: marketing-to-image-editor
-description: Marketing To 이미지 편집기
+description: Marketo 이미지 편집기
+exl-id: 9e1beffc-c89a-4673-a349-2311a7b90706
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '59'
 ht-degree: 0%
 
 ---
 
-
-# Marketing To 이미지 편집기
+# Marketo 이미지 편집기
 
 <br> 
 
