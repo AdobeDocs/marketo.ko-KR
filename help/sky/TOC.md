@@ -29,7 +29,7 @@ ht-degree: 0%
    + [캠페인 폴더 만들기](create-a-campaign-folder.md)
 + 디자인 스튜디오 {#design-studio}
    + [Adobe Experience Manager으로 자산 가져오기](importing-assets-with-adobe-experience-manager.md)
-   + [Marketing To 이미지 편집기](marketo-image-editor.md)
+   + [Marketo 이미지 편집기](marketo-image-editor.md)
 + 참여 프로그램 {#engagement-programs}
    + [스트림 컨텐츠 활성화 및 비활성화](activate-and-deactivate-stream-content.md)
    + [참여 프로그램에 스트림 추가](add-a-stream-to-an-engagement-program.md)
