@@ -1,20 +1,20 @@
 ---
 title: priority-override-for-trigger-campaigns
 description: 트리거 캠페인에 대한 우선순위 무시
+exl-id: 4468868c-33d7-4b5e-b524-bfcc2785c8ce
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '301'
 ht-degree: 0%
 
 ---
 
-
 # 트리거 캠페인에 대한 우선순위 무시
 
 <br> 
 
-관리자는 캠페인을 트리거하는 Marketing To의 정해진 우선 순위를 무시하고 비즈니스 목표에 맞게 우선 순위를 설정할 수 있습니다.
+관리자는 캠페인을 트리거하는 Marketo의 정해진 우선 순위를 재정의하여 비즈니스 목표에 맞게 우선순위를 설정할 수 있습니다.
 
 >[!NOTE]
 >
@@ -30,7 +30,7 @@ ht-degree: 0%
 
    ![이미지 원](/help/sky/assets/smart-campaigns/priority-override-for-trigger-campaigns/priority-override-for-trigger-campaigns-1.png)
 
-1. 드롭다운에서 새 우선순위 수준을 선택합니다. **[!UICONTROL Confirm]**&#x200B;을 클릭합니다.
+1. 드롭다운에서 새 우선순위 수준을 선택합니다. 여기를 클릭하십시오 **[!UICONTROL Confirm]**.
 
    ![이미지 2](/help/sky/assets/smart-campaigns/priority-override-for-trigger-campaigns/priority-override-for-trigger-campaigns-2.png)
 
@@ -70,11 +70,11 @@ ht-degree: 0%
 
    ![이미지 7](/help/sky/assets/smart-campaigns/priority-override-for-trigger-campaigns/priority-override-for-trigger-campaigns-7.png)
 
-1. [!UICONTROL Access Marketing Activities] 아래에서 **[!UICONTROL Edit Trigger Campaign Priority]**&#x200B;을 선택합니다. **[!UICONTROL Save]**&#x200B;을 클릭합니다.
+1. [!UICONTROL Access Marketing Activities] 아래에서 **[!UICONTROL Edit Trigger Campaign Priority]**&#x200B;을 선택합니다. 여기를 클릭하십시오 **[!UICONTROL Save]**.
 
    ![이미지 8](/help/sky/assets/smart-campaigns/priority-override-for-trigger-campaigns/priority-override-for-trigger-campaigns-8.png)
 
-## Marketing To Classic에서 캠페인 우선순위 보기
+## Marketo Classic에서 캠페인 우선순위 보기
 
 트리거 캠페인 내의 **[!UICONTROL Schedule]** 탭을 클릭하여 [!DNL Classic] 경험에서 캠페인 우선순위를 볼 수 있습니다.
 
