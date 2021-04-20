@@ -1,18 +1,18 @@
 ---
 title: add-a-flow-step-to-a-smart-campaign
 description: 스마트 캠페인에 흐름 단계 추가
+exl-id: 4f8fbe72-0471-41e1-9ef6-156a21fadb6e
 translation-type: tm+mt
-source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '213'
 ht-degree: 0%
 
 ---
 
-
 # 스마트 캠페인에 흐름 단계 추가
 
-흐름 단계는 자격을 갖춘 사람 그룹에 어떤 일이 발생하길 원하는지 Marketing에게 알려 줍니다.
+플로우 단계는 Marketo의 자격이 되는 사용자 그룹에 어떤 일이 일어나는지 알려 줍니다.
 
 ## 흐름 단계 추가
 
