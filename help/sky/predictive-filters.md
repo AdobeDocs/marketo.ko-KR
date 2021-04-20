@@ -1,20 +1,20 @@
 ---
 title: 예측 필터
 description: 예측 필터
+exl-id: cbfc2d5f-181d-4f07-b2c6-74c848708ef0
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '255'
 ht-degree: 0%
 
 ---
 
-
 # 예측 필터
 
 <br> 
 
-예측 대상의 일부로, Marketing에서는 스마트 목록에 AI/ML 기반 필터 그룹을 제공합니다.
+예측 대상의 일부로 Marketo은 스마트 목록에 AI/ML 기반 필터 그룹을 제공합니다.
 
 ![이미지 원](/help/sky/assets/predictive-audiences/predictive-filters/predictive-filters-1.png)
 
