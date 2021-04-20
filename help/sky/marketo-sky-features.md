@@ -1,14 +1,14 @@
 ---
 title: marketing-to-sky 기능
 description: Marketo Sky 기능
+exl-id: 6e210eab-a96d-4f1e-918b-db8c095f906c
 translation-type: tm+mt
-source-git-commit: 642fd57105afff1031f18883c5809206f136b7c6
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '169'
 ht-degree: 0%
 
 ---
-
 
 # Marketo Sky 기능
 
@@ -25,12 +25,12 @@ ht-degree: 0%
 
 ## 개인화
 
-* 내 마케팅 위젯
+* 내 Marketo 위젯
    * 곧 만료 예정
    * 탐색
-   * 마케팅 상태
+   * Marketo 상태
    * 커뮤니티 블로그 게시물
-* 내 마케팅 보기 개인화
+* 내 Marketo 개인화된 뷰
 
 ## 마케팅 활동
 
