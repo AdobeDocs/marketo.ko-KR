@@ -1,14 +1,14 @@
 ---
 title: create-a-basic-entry-in-program-schedule-view
 description: 프로그램 예약 보기에서 기본 항목 만들기
+exl-id: c4b089f0-aaaa-42e8-8eb9-8b53dbd6a2d5
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '155'
 ht-degree: 0%
 
 ---
-
 
 # 프로그램 예약 보기에서 기본 항목 만들기
 
@@ -28,7 +28,7 @@ ht-degree: 0%
    >
    >유사한 단계를 수행하여 일, 주 또는 안건 보기에서 기본 항목을 만들 수도 있습니다.
 
-1. 새 기본 항목의 이름을 입력한 다음 필요한 경우 **[!UICONTROL Type]**&#x200B;을 [!UICONTROL Basic Entry]으로 변경합니다. 항목을 만든 후 일정에 있으려면 **[!UICONTROL Start & End Date]**&#x200B;을 수정하고 **[!UICONTROL Open In Agenda View]**&#x200B;의 선택을 취소할 수도 있습니다. **[!UICONTROL Save]**&#x200B;을 클릭합니다.
+1. 새 기본 항목의 이름을 입력한 다음 필요한 경우 **[!UICONTROL Type]**&#x200B;을 [!UICONTROL Basic Entry]으로 변경합니다. 항목을 만든 후 일정에 있으려면 **[!UICONTROL Start & End Date]**&#x200B;을 수정하고 **[!UICONTROL Open In Agenda View]**&#x200B;의 선택을 취소할 수도 있습니다. 여기를 클릭하십시오 **[!UICONTROL Save]**.
 
    ![이미지 3](/help/sky/assets/program-schedule-view/create-a-basic-entry-in-program-schedule-view/create-a-basic-entry-in-program-schedule-view-3.png)
 
