@@ -1,14 +1,14 @@
 ---
 title: schedule-a-batch-smart-campaign-to-run-later
 description: 나중에 실행하도록 일괄 스마트 캠페인 예약
+exl-id: 66730a0b-a0d2-45e6-ad66-e99b03ee89d2
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '131'
 ht-degree: 0%
 
 ---
-
 
 # 나중에 실행하도록 일괄 스마트 캠페인 예약
 
@@ -18,7 +18,7 @@ ht-degree: 0%
 
 >[!TIP]
 >
->프로그램 일정 보기[에서 일괄 처리 스마트 캠페인을 다시 예약할 수도 있습니다.](https://docs.marketo.com/display/DOCS/Reschedule+a+Batch+Smart+Campaign+in+the+Program+Schedule+View)
+>프로그램 일정 보기](https://docs.marketo.com/display/DOCS/Reschedule+a+Batch+Smart+Campaign+in+the+Program+Schedule+View)에서 일괄 처리 스마트 캠페인을 다시 예약할 수도 있습니다.[
 
 1. 실행할 일괄 스마트 캠페인을 선택합니다.
 
@@ -36,6 +36,6 @@ ht-degree: 0%
 
    ![이미지 4](/help/sky/assets/smart-campaigns/schedule-a-batch-smart-campaign-to-run-later/schedule-a-batch-smart-campaign-to-run-later-4.png)
 
-1. **[!UICONTROL Confirm]**&#x200B;을 클릭합니다.
+1. 여기를 클릭하십시오 **[!UICONTROL Confirm]**.
 
    ![이미지 5](/help/sky/assets/smart-campaigns/schedule-a-batch-smart-campaign-to-run-later/schedule-a-batch-smart-campaign-to-run-later-5.png)
