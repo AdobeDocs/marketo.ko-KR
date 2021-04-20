@@ -1,14 +1,14 @@
 ---
 title: my token-date
 description: 내 토큰 날짜
+exl-id: 16199845-79ee-40bd-a81d-d43b5236e7df
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '56'
-ht-degree: 0%
+ht-degree: 1%
 
 ---
-
 
 # 내 토큰:날짜
 
@@ -20,6 +20,6 @@ ht-degree: 0%
 
    ![이미지 원](/help/sky/assets/my-tokens/my-token-date/my-token-date-1.jpg)
 
-1. 날짜 토큰의 이름을 입력하고 달력에서 날짜를 선택합니다. **[!UICONTROL Save]**&#x200B;을 클릭합니다.
+1. 날짜 토큰의 이름을 입력하고 달력에서 날짜를 선택합니다. 여기를 클릭하십시오 **[!UICONTROL Save]**.
 
    ![이미지 2](/help/sky/assets/my-tokens/my-token-date/my-token-date-2.jpg)
