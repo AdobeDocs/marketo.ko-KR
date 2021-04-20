@@ -1,14 +1,14 @@
 ---
 title: my token-number
 description: 내 토큰 번호
+exl-id: 2ce9aaae-0f06-4201-9a7f-57a8558f703c
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '52'
-ht-degree: 0%
+ht-degree: 1%
 
 ---
-
 
 # 내 토큰:숫자
 
@@ -20,6 +20,6 @@ ht-degree: 0%
 
    ![이미지 원](/help/sky/assets/my-tokens/my-token-number/my-token-number-1.png)
 
-1. 새 토큰의 이름과 번호를 입력합니다. **[!UICONTROL Save]**&#x200B;을 클릭합니다.
+1. 새 토큰의 이름과 번호를 입력합니다. 여기를 클릭하십시오 **[!UICONTROL Save]**.
 
    ![이미지 2](/help/sky/assets/my-tokens/my-token-number/my-token-number-2.png)
