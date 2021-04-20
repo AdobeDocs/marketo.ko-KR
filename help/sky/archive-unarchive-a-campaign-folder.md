@@ -1,14 +1,14 @@
 ---
 title: archive-unarchive-a-campaign-folder
-description: '캠페인 폴더 보관/보관 취소 '
+description: 캠페인 폴더 보관/보관 취소
+exl-id: eaf688da-2f85-4019-9103-a763438f4892
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '209'
 ht-degree: 0%
 
 ---
-
 
 # 캠페인 폴더 보관/보관 취소
 
@@ -27,7 +27,7 @@ ht-degree: 0%
 >폴더를 보관하는 경우:
 >
 >* 폴더 및 에셋이 더 이상 검색 결과에 표시되지 않습니다.
-   >보관된 프로그램 또는 이벤트를 검색하는 경우
+   >보관된 프로그램 또는 이벤트 내에서 검색할 경우
    >폴더, 보관된 항목의 축소된 보기를 반환합니다.
    >폴더.
 >* 폴더의 에셋이 더 이상 자동 추천에 표시되지 않습니다.
