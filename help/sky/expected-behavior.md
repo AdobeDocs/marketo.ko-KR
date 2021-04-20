@@ -1,14 +1,14 @@
 ---
 title: 예상 행동
 description: 예상 동작
+exl-id: 8f6d12e4-851c-43d8-a5cf-053887517aaa
 translation-type: tm+mt
-source-git-commit: 642fd57105afff1031f18883c5809206f136b7c6
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '373'
 ht-degree: 0%
 
 ---
-
 
 # 예상 동작
 
@@ -23,7 +23,7 @@ ht-degree: 0%
 
 ## 예측 대상의 경우 다음 동작을 예상할 수 있습니다.
 
-* PA는 Marketo Sky 및 Marketing To Classic 환경 모두에서 액세스할 수 있습니다. 특정 기능을 사용할 수 있는 방법은 다음과 같습니다.
+* PA는 Marketo Sky 및 Marketo Classic 경험 모두에서 액세스할 수 있습니다. 특정 기능을 사용할 수 있는 방법은 다음과 같습니다.
    * 예측 필터 - [!DNL Sky/Classic]
    * 예상 등록 - [!DNL Sky/Classic]
    * 리드 수준 예측 - [!DNL Sky/Classic]
