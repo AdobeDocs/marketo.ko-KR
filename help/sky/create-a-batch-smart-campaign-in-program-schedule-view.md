@@ -1,14 +1,14 @@
 ---
 title: create-a-batch-smart-campaign-in-program-schedule-view
 description: 프로그램 예약 보기에서 일괄 처리 스마트 캠페인 만들기
+exl-id: 1454d306-77cb-4bc5-9ae0-8a4382637e63
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '154'
 ht-degree: 0%
 
 ---
-
 
 # 프로그램 예약 보기에서 일괄 처리 스마트 캠페인 만들기
 
@@ -32,7 +32,7 @@ ht-degree: 0%
    >
    >유사한 단계를 수행하여 일, 주 또는 안건 보기에서 일괄 스마트 캠페인을 만들 수도 있습니다.
 
-1. 새 스마트 캠페인의 이름을 입력한 다음 **[!UICONTROL Type]**&#x200B;을 [!UICONTROL Smart Campaign]으로 변경합니다. 항목을 만든 후 일정에 있으려면 **[!UICONTROL Start Date]**&#x200B;을 수정하고 **[!UICONTROL Open In Agenda View]**&#x200B;의 선택을 취소할 수도 있습니다. **[!UICONTROL Save]**&#x200B;을 클릭합니다.
+1. 새 스마트 캠페인의 이름을 입력한 다음 **[!UICONTROL Type]**&#x200B;을 [!UICONTROL Smart Campaign]으로 변경합니다. 항목을 만든 후 일정에 있으려면 **[!UICONTROL Start Date]**&#x200B;을 수정하고 **[!UICONTROL Open In Agenda View]**&#x200B;의 선택을 취소할 수도 있습니다. 여기를 클릭하십시오 **[!UICONTROL Save]**.
 
    ![이미지 3](/help/sky/assets/program-schedule-view/create-a-batch-smart-campaign-in-program-schedule-view/create-a-batch-smart-campaign-in-program-schedule-view-3.png)
 
