@@ -1,14 +1,14 @@
 ---
 title: activate-deactivate-a-trigger-smart-campaign
 description: 스마트 캠페인 트리거 활성화/비활성화
+exl-id: 5579aad6-42bf-41e2-8baa-a14da14702da
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '123'
-ht-degree: 0%
+ht-degree: 1%
 
 ---
-
 
 # 스마트 캠페인 트리거 활성화/비활성화
 
@@ -24,7 +24,7 @@ ht-degree: 0%
    >
    >활성화하기 전에 스마트 캠페인을 검토하십시오.
 
-1. **[!UICONTROL Activate]**&#x200B;을 클릭합니다.
+1. 여기를 클릭하십시오 **[!UICONTROL Activate]**.
 
    ![이미지 2](/help/sky/assets/smart-campaigns/activate-deactivate-a-trigger-smart-campaign/activate-deactivate-a-trigger-smart-campaign-2.png)
 
@@ -40,7 +40,7 @@ ht-degree: 0%
 
    ![이미지 3](/help/sky/assets/smart-campaigns/activate-deactivate-a-trigger-smart-campaign/activate-deactivate-a-trigger-smart-campaign-3.png)
 
-1. **[!UICONTROL Deactivate]**&#x200B;을 클릭합니다.
+1. 여기를 클릭하십시오 **[!UICONTROL Deactivate]**.
 
    ![이미지 4](/help/sky/assets/smart-campaigns/activate-deactivate-a-trigger-smart-campaign/activate-deactivate-a-trigger-smart-campaign-4.png)
 
