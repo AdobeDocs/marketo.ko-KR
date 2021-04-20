@@ -1,14 +1,14 @@
 ---
 title: how-to-enable-roles-for-marketo-sky.md
-description: 'Marketo Sky에 대해 역할을 활성화하는 방법 '
+description: Marketo Sky에 대해 역할을 활성화하는 방법
+exl-id: 10b7bc52-6f64-4d54-9bec-dcf3ad9afda9
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '57'
 ht-degree: 0%
 
 ---
-
 
 # Marketo Sky에 대해 역할을 활성화하는 방법
 
