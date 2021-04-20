@@ -1,14 +1,14 @@
 ---
 title: using-the-program-setup-tab
 description: 프로그램 설정 탭 사용
+exl-id: fe3c092f-aeb1-4450-9827-b4b8f6163196
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '240'
 ht-degree: 0%
 
 ---
-
 
 # 프로그램 설정 탭 사용
 
@@ -34,7 +34,7 @@ ht-degree: 0%
 
    ![이미지 3](/help/sky/assets/programs/using-the-program-setup-tab/using-the-program-setup-tab-3.png)
 
-1. **[!UICONTROL Value]** 드롭다운을 클릭하고 사용 가능한 옵션에서 태그 값을 선택합니다. **[!UICONTROL Add]**&#x200B;을 클릭합니다.
+1. **[!UICONTROL Value]** 드롭다운을 클릭하고 사용 가능한 옵션에서 태그 값을 선택합니다. 여기를 클릭하십시오 **[!UICONTROL Add]**.
 
    ![이미지 4](/help/sky/assets/programs/using-the-program-setup-tab/using-the-program-setup-tab-4.png)
 
@@ -44,11 +44,11 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->Marketing To Classic[에서 프로그램 태그를 만들고 드롭다운에서 해당 태그를 사용할 수 있도록 하는 방법을 알아봅니다.](https://docs.marketo.com/display/public/DOCS/Create+a+New+Program+Tag+and+Tag+Values)
+>Marketo Classic](https://docs.marketo.com/display/public/DOCS/Create+a+New+Program+Tag+and+Tag+Values)에서 프로그램 태그를 만들고 드롭다운에서 옵션을 사용할 수 있도록 하는 방법을 알아봅니다.[
 
 ## 기간 비용 추가
 
-1. [!UICONTROL Period Costs] 섹션에서 월을 선택하고 비용을 입력한 다음 짧은 이름 또는 설명을 추가합니다. **[!UICONTROL Add]**&#x200B;을 클릭합니다.
+1. [!UICONTROL Period Costs] 섹션에서 월을 선택하고 비용을 입력한 다음 짧은 이름 또는 설명을 추가합니다. 여기를 클릭하십시오 **[!UICONTROL Add]**.
 
    ![이미지 6](/help/sky/assets/programs/using-the-program-setup-tab/using-the-program-setup-tab-6.png)
 
