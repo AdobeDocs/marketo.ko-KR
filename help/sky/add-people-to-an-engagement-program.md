@@ -1,14 +1,14 @@
 ---
 title: add-people-to-an-engagement-program
 description: 참여 프로그램에 사람 추가
+exl-id: 9de84f38-06b1-4e66-ac35-8573e84d0e4a
 translation-type: tm+mt
-source-git-commit: 642fd57105afff1031f18883c5809206f136b7c6
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '138'
 ht-degree: 0%
 
 ---
-
 
 # 참여 프로그램에 사람 추가
 
