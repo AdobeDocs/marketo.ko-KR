@@ -1,14 +1,14 @@
 ---
 title: create-a-campaign-folder
 description: 캠페인 폴더 만들기
+exl-id: b6687385-2f45-4946-98d2-88138e1e2875
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '120'
 ht-degree: 0%
 
 ---
-
 
 # 캠페인 폴더 만들기
 
@@ -24,7 +24,7 @@ ht-degree: 0%
 
    ![이미지 원](/help/sky/assets/campaign-folders/create-a-campaign-folder/create-a-campaign-folder-2.png)
 
-1. 필요에 따라 캠페인 폴더에 설명을 추가하거나 레이블을 추가할 수 있습니다. 기존 폴더 내에 캠페인 폴더를 만드는 경우 상위 자산에서 레이블을 복사할 수도 있습니다. **[!UICONTROL Create]**&#x200B;을 클릭합니다.
+1. 필요에 따라 캠페인 폴더에 설명을 추가하거나 레이블을 추가할 수 있습니다. 기존 폴더 내에 캠페인 폴더를 만드는 경우 상위 자산에서 레이블을 복사할 수도 있습니다. 여기를 클릭하십시오 **[!UICONTROL Create]**.
 
    ![이미지 원](/help/sky/assets/campaign-folders/create-a-campaign-folder/create-a-campaign-folder-3.png)
 
