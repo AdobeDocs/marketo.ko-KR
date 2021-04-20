@@ -1,14 +1,14 @@
 ---
 title: 참여 프로그램 이해
 description: 참여 프로그램 이해
+exl-id: 15627752-8246-44fa-9293-2f97849635fc
 translation-type: tm+mt
-source-git-commit: 96839c20e8d6adf2dc87ae050decc73ecb5052e7
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '283'
 ht-degree: 0%
 
 ---
-
 
 # 참여 프로그램 이해
 
@@ -86,4 +86,4 @@ ht-degree: 0%
 
 ## 컨텐츠 참여 수준
 
-컨텐츠 참여 수준은 Marketing에서 사용자에게 제공할 0-100포인트 점수입니다. 이 숫자는 열기, 클릭 수, 가입 취소, 프로그램 성공 및 기타 요소를 사용하는 정교한 수식에 의해 결정됩니다.
+컨텐츠 참여 수준은 Marketo에서 사용자에게 제공할 0-100포인트 점수입니다. 이 숫자는 열기, 클릭 수, 가입 취소, 프로그램 성공 및 기타 요소를 사용하는 정교한 수식에 의해 결정됩니다.
