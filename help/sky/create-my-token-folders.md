@@ -1,14 +1,14 @@
 ---
 title: my-token-folders 만들기
 description: 내 토큰 폴더 만들기
+exl-id: 52e18c74-613a-4964-9005-2375e249cdbb
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '102'
 ht-degree: 0%
 
 ---
-
 
 # 내 토큰 폴더 만들기
 
@@ -20,7 +20,7 @@ ht-degree: 0%
 
    ![이미지 원](/help/sky/assets/my-tokens/create-my-token-folders/create-my-token-folders-1.png)
 
-1. 새 폴더의 이름을 입력한 다음 대상 드롭다운에서 **[!UICONTROL Local Tokens]** 또는 **[!UICONTROL Overridden Tokens]**&#x200B;을 선택합니다. **[!UICONTROL Save]**&#x200B;을 클릭합니다.
+1. 새 폴더의 이름을 입력한 다음 대상 드롭다운에서 **[!UICONTROL Local Tokens]** 또는 **[!UICONTROL Overridden Tokens]**&#x200B;을 선택합니다. 여기를 클릭하십시오 **[!UICONTROL Save]**.
 
    ![이미지 2](/help/sky/assets/my-tokens/create-my-token-folders/create-my-token-folders-2.png)
 
