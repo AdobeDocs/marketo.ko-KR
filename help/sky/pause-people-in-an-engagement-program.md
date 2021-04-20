@@ -1,14 +1,14 @@
 ---
 title: pause-people-in-an-engagement-program
 description: 참여 프로그램에서 인물 일시 중지
+exl-id: d6e8717a-179e-4bec-8b12-6dedd05b8569
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '164'
 ht-degree: 0%
 
 ---
-
 
 # 참여 프로그램에서 인물 일시 중지
 
