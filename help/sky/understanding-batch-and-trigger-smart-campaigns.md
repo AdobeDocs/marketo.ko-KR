@@ -1,14 +1,14 @@
 ---
 title: 스마트 캠페인 이해
 description: 일괄 처리 이해 및 스마트 캠페인 트리거
+exl-id: 54f38ecc-1b4c-4944-9f42-d8c1190c99d0
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '290'
 ht-degree: 0%
 
 ---
-
 
 # 일괄 처리 이해 및 스마트 캠페인 트리거
 
