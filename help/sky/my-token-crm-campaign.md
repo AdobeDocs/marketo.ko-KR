@@ -1,14 +1,14 @@
 ---
 title: my token-crm-campaign
 description: 내 토큰 CRM 캠페인
+exl-id: 1763700c-3de0-41bf-8fef-906b4ba82414
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '88'
-ht-degree: 0%
+ht-degree: 1%
 
 ---
-
 
 # 내 토큰:CRM 캠페인
 
@@ -24,7 +24,7 @@ ht-degree: 0%
 
    ![이미지 원](/help/sky/assets/my-tokens/my-token-crm-campaign/my-token-crm-campaign-1.png)
 
-2. 새 토큰의 이름을 입력한 다음 드롭다운에서 CRM 캠페인을 선택합니다. **[!UICONTROL Save]**&#x200B;을 클릭합니다.
+2. 새 토큰의 이름을 입력한 다음 드롭다운에서 CRM 캠페인을 선택합니다. 여기를 클릭하십시오 **[!UICONTROL Save]**.
 
    ![이미지 2](/help/sky/assets/my-tokens/my-token-crm-campaign/my-token-crm-campaign-2.png)
 
