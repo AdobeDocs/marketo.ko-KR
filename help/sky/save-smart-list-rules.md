@@ -1,14 +1,14 @@
 ---
 title: save-smart-list-rules
 description: 스마트 목록 규칙 저장
+exl-id: dabfcba3-a3fb-4d25-8ace-b569c4952eab
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '170'
-ht-degree: 0%
+ht-degree: 1%
 
 ---
-
 
 # 스마트 목록 규칙 저장
 
@@ -22,7 +22,7 @@ ht-degree: 0%
 
    ![이미지 원](/help/sky/assets/smart-lists-and-static-lists/save-smart-list-rules/save-smart-list-rules-1.png)
 
-1. **[!UICONTROL Smart List]**&#x200B;을 클릭합니다.
+1. 여기를 클릭하십시오 **[!UICONTROL Smart List]**.
 
    ![이미지 2](/help/sky/assets/smart-lists-and-static-lists/save-smart-list-rules/save-smart-list-rules-2.png)
 
@@ -48,7 +48,7 @@ ht-degree: 0%
 
    ![이미지 7](/help/sky/assets/smart-lists-and-static-lists/save-smart-list-rules/save-smart-list-rules-7.png)
 
-1. **[!UICONTROL Smart List]**&#x200B;을 클릭합니다.
+1. 여기를 클릭하십시오 **[!UICONTROL Smart List]**.
 
    ![이미지 8](/help/sky/assets/smart-lists-and-static-lists/save-smart-list-rules/save-smart-list-rules-8.png)
 
