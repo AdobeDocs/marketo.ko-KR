@@ -1,14 +1,14 @@
 ---
 title: delete-a-smart-campaign
 description: 스마트 캠페인 삭제
+exl-id: f4647927-5542-439b-984e-4bce43c990e9
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '85'
-ht-degree: 0%
+ht-degree: 1%
 
 ---
-
 
 # 스마트 캠페인 삭제
 
@@ -30,8 +30,8 @@ ht-degree: 0%
 
    >[!TIP]
    >
-   >활성 스마트 캠페인을 삭제하지 않고 처리를 취소하려면, 스마트 캠페인[을(를) 중단시키는 방법을 학습합니다.](https://docs.marketo.com/display/DOCS/Abort+a+Smart+Campaign)
+   >활성 스마트 캠페인을 삭제하지 않고 처리를 취소하려면, 스마트 캠페인](https://docs.marketo.com/display/DOCS/Abort+a+Smart+Campaign)을(를) 중단시키는 방법을 학습합니다.[
 
-1. **[!UICONTROL Confirm]**&#x200B;을 클릭합니다.
+1. 여기를 클릭하십시오 **[!UICONTROL Confirm]**.
 
    ![이미지 3](/help/sky/assets/smart-campaigns/delete-a-smart-campaign/delete-a-smart-campaign-3.png)
