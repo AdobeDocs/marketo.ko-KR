@@ -1,18 +1,18 @@
 ---
 title: apply-communication-limits-to-a-smart-campaign
 description: 스마트 캠페인에 통신 제한 적용
+exl-id: 8fef2150-c1bd-4411-9968-07c71e191784
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '121'
 ht-degree: 0%
 
 ---
 
-
 # 스마트 캠페인에 통신 제한 적용
 
-하루에 여러 번, 또는 일주일에 너무 많은 이메일을 보내는 것은 좋은 생각이 아니다. 다행히도, 마케터는 도움을 줄 수 있는 의사 소통 한계를 가지고 있다.
+하루에 여러 번, 또는 일주일에 너무 많은 이메일을 보내는 것은 좋은 생각이 아니다. 다행히도 Marketo은 도움을 줄 수 있는 통신 한계를 가지고 있습니다.
 
 >[!IMPORTANT]
 >
@@ -20,7 +20,7 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->어떤 사람이 설정된 통신 제한을 초과하면 Marketing To는 비운영 이메일을 차단합니다(운영 이메일은 항상 전송).
+>설정된 통신 제한을 초과하는 사용자가 있을 경우 Marketo은 비작동 이메일을 차단합니다(운영 이메일은 항상 전송).
 
 1. 스마트 캠페인을 선택하고 **[!UICONTROL Schedule]** 탭을 클릭합니다.
 
