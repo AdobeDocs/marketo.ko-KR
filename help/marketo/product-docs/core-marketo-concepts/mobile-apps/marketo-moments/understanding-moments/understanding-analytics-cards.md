@@ -1,19 +1,19 @@
 ---
 unique-page-id: 8781988
-description: 분석 카드 이해 - 마케팅 문서 - 제품 설명서
+description: 분석 카드 이해 - Marketo 문서 - 제품 설명서
 title: 분석 카드 이해
+exl-id: fc314ab8-4d29-44f5-bc45-71e6727ecc06
 translation-type: tm+mt
-source-git-commit: e5050328cbddaf072dd60ddd8d7363a704e720b5
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '220'
 ht-degree: 0%
 
 ---
 
-
 # 분석 카드 이해 {#understanding-analytics-cards}
 
-매월 초에 Marketing To Moments는 3개의 서로 다른 보고서 카드를 제공합니다.획득한 리드, 새로운 리드 및 가입 해지. 각 제품은 월별 성과를 보여주고 6개월 동안의 트렌드를 보여줍니다.
+매월 초에 Marketo Moments는 다음과 같은 세 가지 보고서 카드를 제공합니다.획득한 리드, 새로운 리드 및 가입 해지. 각 제품은 월별 성과를 보여주고 6개월 동안의 트렌드를 보여줍니다.
 
 ## 분석 카드 {#analytics-cards}
 
@@ -61,7 +61,7 @@ Analytics 카드를 탭하면 다음이 표시됩니다.
 
 >[!MORELIKETHIS]
 >
->* [마케팅을 위한 고객 의견 이해](/help/marketo/product-docs/core-marketo-concepts/mobile-apps/marketo-moments/understanding-moments/understanding-marketo-moments.md)
+>* [Marketo 모멘트 이해](/help/marketo/product-docs/core-marketo-concepts/mobile-apps/marketo-moments/understanding-moments/understanding-marketo-moments.md)
 >* [이벤트 카드 이해](/help/marketo/product-docs/core-marketo-concepts/mobile-apps/marketo-moments/understanding-moments/understanding-event-cards.md)
 >* [이메일 프로그램 카드 이해](/help/marketo/product-docs/core-marketo-concepts/mobile-apps/marketo-moments/understanding-moments/understanding-email-program-cards.md)
 
