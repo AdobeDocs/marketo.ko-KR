@@ -1,15 +1,15 @@
 ---
 unique-page-id: 1147036
-description: SFDC 캠페인 - 마케팅 문서 - 제품 문서에서 제거
+description: SFDC 캠페인에서 제거 - Marketo 문서 - 제품 설명서
 title: SFDC 캠페인에서 제거
+exl-id: d19e7847-2287-4926-b0bb-635e7700668f
 translation-type: tm+mt
-source-git-commit: 5b9f48c98464c79bcdca2e335f6a4a2edce98ce4
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '108'
 ht-degree: 0%
 
 ---
-
 
 # SFDC 캠페인 {#remove-from-sfdc-campaign}에서 제거
 
