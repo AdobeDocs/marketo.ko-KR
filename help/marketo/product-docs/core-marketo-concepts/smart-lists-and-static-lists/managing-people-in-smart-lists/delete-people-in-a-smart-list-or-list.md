@@ -1,15 +1,15 @@
 ---
 unique-page-id: 1146897
-description: 스마트 목록 또는 목록에서 인물 삭제 - 마케팅 문서 - 제품 설명서
+description: 스마트 목록 또는 목록에서 인물 삭제 - Marketo 문서 - 제품 문서
 title: 스마트 목록 또는 목록에서 인물 삭제
+exl-id: 192e79e6-d816-44e3-84c4-212cd73eb3ce
 translation-type: tm+mt
-source-git-commit: 07f713ece9832b7696451001f61c6a3b45b4a94a
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '290'
 ht-degree: 0%
 
 ---
-
 
 # 스마트 목록 또는 목록 {#delete-people-in-a-smart-list-or-list}에서 인물 삭제
 
@@ -39,7 +39,7 @@ ht-degree: 0%
    >
    >결과가 여러 페이지에 걸쳐 있는 경우 **모두 선택**&#x200B;을 클릭하면 모든 페이지의 모든 사용자가 선택됩니다.
 
-1. Marketing에서 사용자를 완전히 제거하려면 **사람 삭제**&#x200B;를 클릭합니다.
+1. Marketo에서 사람을 완전히 제거하려면 **사람 삭제**&#x200B;를 클릭합니다.
 
    ![](assets/four-1.png)
 
@@ -49,11 +49,11 @@ ht-degree: 0%
 
    >[!CAUTION]
    >
-   >Marketing 및 CRM에서 삭제하면 두 시스템에서 복구할 수 없습니다. 국민과 역사는 영원히 사라지고 말 것이다. 나중에 다시 추가하면 새 레코드로 취급됩니다.
+   >Marketo 및 CRM에서 삭제하면 두 시스템에서 복구할 수 없습니다. 국민과 역사는 영원히 사라지고 말 것이다. 나중에 다시 추가하면 새 레코드로 취급됩니다.
 
    >[!NOTE]
    >
-   >마케팅이 CRM에 연결되어 있지 않으면 스크린샷에서와 같이 옵션이 회색으로 표시됩니다.
+   >Marketo이 CRM에 연결되어 있지 않으면 스크린샷에서와 같이 옵션이 회색으로 표시됩니다.
 
 1. **지금 실행**&#x200B;을 클릭합니다.
 
