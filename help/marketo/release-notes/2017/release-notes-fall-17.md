@@ -1,37 +1,37 @@
 ---
 unique-page-id: 12983280
-description: 릴리스 노트 -17년 가을 - 마케팅 문서 - 제품 설명서
+description: 릴리스 노트 -17년 가을 - Marketo 문서 - 제품 설명서
 title: 릴리스 노트 -17년 가을
+exl-id: 329022e6-f388-4ff9-9724-62aeed76c0b9
 translation-type: tm+mt
-source-git-commit: b33f5ed707a1377daad51191cc6dd9f093138258
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '597'
 ht-degree: 0%
 
 ---
 
-
 # 릴리스 노트:17년 가을 {#release-notes-fall}
 
-다음 기능은 17년 가을 릴리스에 포함되어 있습니다. 기능 가용성을 확인하려면 Marketing Edition을 확인하십시오.
+다음 기능은 17년 가을 릴리스에 포함되어 있습니다. 기능을 사용할 수 있는지 Marketo 에디션을 확인하십시오.
 
 각 기능에 대한 자세한 아티클을 보려면 제목 링크를 클릭하십시오. 참고:이 릴리스에 포함된 기능 중 일부에는 관련 아티클이 없습니다. 항목에 여러 개의 하위 제목이 있는 경우 링크가 여기에 배치됩니다.
 
 ## 시스템 안정성 {#system-reliability}
 
-Adobe는 더 나은 순서 지정, 불일치율 감소, Munchkin 안정성 향상 등 핵심 Marketing 인프라를 더욱 개선했습니다.
+Adobe는 더 나은 순서 지정, 불일치율 감소, Munchkin 안정성 향상 등 핵심 Marketo 인프라를 추가로 개선했습니다.
 
 ## SFDC 동기화 성능 {#sfdc-sync-performance}
 
-Marketing To 및 Salesforce에서 보다 풍부하고 빠르게 동기화할 수 있습니다. 계정이나 리드에 대한 벌크 업데이트가 필요한 데이터 변경 사항은 백로그를 방지하기 위해 병렬 큐로 분할할 수 있습니다. 이벤트와 작업을 최대 50% 빠르게 동기화할 수 있습니다.
+Marketo 및 Salesforce에서 보다 풍부하고 신속하게 동기화할 수 있습니다. 계정이나 리드에 대한 벌크 업데이트가 필요한 데이터 변경 사항은 백로그를 방지하기 위해 병렬 큐로 분할할 수 있습니다. 이벤트와 작업을 최대 50% 빠르게 동기화할 수 있습니다.
 
 ## 분석 성능 개선 사항 {#analytics-performance-improvements}
 
-최근의 인프라 개선 사항은 마케팅 보고 및 분석 도구 내에서 가동 시간 및 안정성을 높여주므로 애드혹 보고서를 보다 신속하게 작성할 수 있습니다.
+최근의 인프라 개선 사항은 Marketo 보고 및 분석 도구 내에서 가동 시간 및 안정성을 높여주므로 애드혹 보고서를 보다 신속하게 작성할 수 있습니다.
 
 ## [수신자 시간대](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/scheduling-with-recipient-time-zone/understanding-recipient-time-zone.md) {#recipient-time-zone}
 
-이 새로운 기능을 사용하면 현지 시간대에 따라 이메일을 보류 및 전달할 수 있습니다. 이메일 및 참여 프로그램은 수신자의 시간대에서 전달되도록 구성할 수 있으므로 여러 프로그램을 제작할 필요가 없습니다. 한 번 이메일을 전송하면 Marketing Cloud에서 정확한 현지 시간으로 이메일을 자동으로 보관할 수 있습니다. 이메일 측정 지표를 가져오고, 로컬 사례를 관찰하며, 단일 프로그램을 글로벌로 사용하여 시간을 절약할 수 있습니다.
+이 새로운 기능을 사용하면 현지 시간대에 따라 이메일을 보류 및 전달할 수 있습니다. 이메일 및 참여 프로그램은 수신자의 시간대에서 전달되도록 구성할 수 있으므로 여러 프로그램을 제작할 필요가 없습니다. 한 번 이메일을 전송하면 Marketo은 정확한 로컬 시간까지 이메일을 자동으로 보관합니다. 이메일 측정 지표를 가져오고, 로컬 사례를 관찰하며, 단일 프로그램을 글로벌로 사용하여 시간을 절약할 수 있습니다.
 
 ![](assets/image2017-11-29-8-3a45-3a47.png)
 
@@ -41,24 +41,24 @@ Marketing To 및 Salesforce에서 보다 풍부하고 빠르게 동기화할 수
 
 ## [세그먼트별 샘플 이메일 검토](/help/marketo/product-docs/email-marketing/general/creating-an-email/send-a-sample-email.md) {#review-sample-emails-by-segment}
 
-검토용으로 샘플 이메일을 보낼 때 세그먼트를 선택할 수 있는 새로운 옵션이 제공됩니다. 더 이상 리드가 속한 세그먼트를 수동으로 확인할 필요가 없으므로 동적 컨텐츠가 포함된 이메일을 다른 세그먼트로 쉽게 보낼 수 있습니다.
+Marketo에는 검토를 위해 샘플 이메일을 보낼 때 세그먼트를 선택할 수 있는 새로운 옵션이 있습니다. 더 이상 리드가 속한 세그먼트를 수동으로 확인할 필요가 없으므로 동적 컨텐츠가 포함된 이메일을 다른 세그먼트로 쉽게 보낼 수 있습니다.
 
-## [LinkedIn 리드 생성 사용자 지정 질문](/help/marketo/product-docs/demand-generation/social/social-functions/set-up-linkedin-lead-gen-forms.md) {#linkedin-lead-gen-custom-questions}
+## [linkedIn 리드 생성 사용자 정의 질문](/help/marketo/product-docs/demand-generation/social/social-functions/set-up-linkedin-lead-gen-forms.md) {#linkedin-lead-gen-custom-questions}
 
-LinkedIn 리드 생성 양식을 사용자 정의하여 맞춤형 리드 속성을 수집할 수 있습니다. 이제 양식당 최대 3개의 사용자 정의 질문을 하고, 단일 행 텍스트 입력 또는 객관식 질문 중에서 선택하고, 다시 Marketing to 리드 필드에 매핑할 수 있습니다.
+LinkedIn 리드 생성 양식을 사용자 정의하여 맞춤형 리드 속성을 수집할 수 있습니다. 이제 양식당 최대 3개의 사용자 정의 질문을 할 수 있고 단일 행 텍스트 입력 또는 객관식 질문 중에서 선택할 수 있으며 Marketo 리드 필드에 다시 매핑할 수 있습니다.
 
 ## [Slack 통합](/help/marketo/product-docs/administration/additional-integrations/add-slack-as-a-launchpoint-service.md) {#slack-integration}
 
 새로운 Slack 통합의 일부로 다음과 같은 2가지 기능을 출시했습니다.
 
-* 시스템 알림:현재 캠페인 상태 및 즉각적인 주의가 필요한 모든 문제에 대한 경고와 같이 Marketing To 인스턴스의 중요한 이벤트에 대한 Slack 알림을 받을 수 있습니다.
-* 흥미로운 순간:판매 계정에서 알려진 개인에 의해 Marketing To Insight가 트리거된 경우 리드 소유자에게 Slack을 통해 통지할 수 있습니다. 알림에는 판매 계정에 대한 세부 사항뿐만 아니라 리드 정보도 포함됩니다.
+* 시스템 알림:현재 캠페인 상태 및 즉각적인 주의가 필요한 모든 문제에 대한 경고와 같이 Marketo 인스턴스에서 중요한 이벤트에 대한 Slack 알림을 받을 수 있습니다.
+* 흥미로운 순간:판매 계정에서 알려진 개인에 의해 Marketo Insight가 트리거된 경우 리드 소유자에게 Slack을 통해 통지할 수 있습니다. 알림에는 판매 계정에 대한 세부 사항뿐만 아니라 리드 정보도 포함됩니다.
 
 ## ABM 개선 사항 {#abm-enhancements}
 
 **[연락처 없는 계정 표시](https://docs.marketo.com/x/fKCt)**
 
-이제 Marketing ABM은 연락처 없이 CRM 계정을 동기화하고 표시합니다. 이전 판매 또는 마케팅 내역 없이 새 계정을 포함하고 후속 리드를 계정에 일치시켜 진행 상황을 추적합니다.
+이제 Marketo ABM은 연락처 없이 CRM 계정을 동기화하고 표시합니다. 이전 판매 또는 마케팅 내역 없이 새 계정을 포함하고 후속 리드를 계정에 일치시켜 진행 상황을 추적합니다.
 
 ## ContentAI 분석 {#contentai-analytics}
 
@@ -80,7 +80,7 @@ ABM 계정 목록에서 컨텐츠 성능을 보고 비교하여 기존 컨텐츠
 
 **[웹 캠페인 편집기에서 Design Studio 이미지](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/using-the-web-personalization-rich-text-editor.md)**
 
-Marketing To의 다양한 채널에서 크리에이티브 에셋과 이미지를 다시 사용하여 시간을 절약할 수 있습니다.
+Marketo의 다양한 채널에서 크리에이티브한 에셋과 이미지를 다시 사용하여 시간을 절약할 수 있습니다.
 
 ![](assets/image2017-11-16-11-3a26-3a10.png)
 
@@ -88,7 +88,7 @@ Marketing To의 다양한 채널에서 크리에이티브 에셋과 이미지를
 
 **[이메일 미리 보기 API](https://developers.marketo.com/rest-api/assets/emails/)**
 
-이제 Marketing Cloud 외부에서 이메일을 원격으로 미리 볼 수 있으므로 이메일 컨텐츠 로컬라이제이션 프로세스를 간소화하고 오류를 줄일 수 있습니다.
+이제 Marketo 외부에서 이메일을 원격으로 미리 볼 수 있으므로 이메일 컨텐츠 로컬라이제이션 프로세스를 간소화하고 오류를 줄일 수 있습니다.
 
 **[HTML API 바꾸기](https://developers.marketo.com/rest-api/assets/emails/)**
 
