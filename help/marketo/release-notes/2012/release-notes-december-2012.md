@@ -1,15 +1,15 @@
 ---
 unique-page-id: 2951107
-description: 릴리스 노트 - 2012년 12월 - 마케팅 문서 - 제품 설명서
+description: 릴리스 노트 - 2012년 12월 - Marketo 문서 - 제품 설명서
 title: 릴리스 노트 - 2012년 12월
+exl-id: d9d09c4b-6764-4638-9cb1-2882fb0947cc
 translation-type: tm+mt
-source-git-commit: 029d8b419ba5078980b4fde9890bdb35194bf264
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '398'
 ht-degree: 0%
 
 ---
-
 
 # 릴리스 노트:2012년 12월 {#release-notes-december}
 
@@ -29,7 +29,7 @@ ht-degree: 0%
 
 ## 세부 관리자 권한 {#granular-admin-permissions}
 
-최신 릴리스에서는 각 역할에 대한 Marketing to 관리 영역의 다른 기능에 대한 액세스를 제어하여 관리자 역할에 대한 액세스 및 제어 권한을 강화할 수 있습니다. 새 역할을 만들 때 역할이 액세스할 수 있는 특정 관리 기능을 할당할 수 있습니다.
+최신 릴리스를 통해 Marketo 관리 영역에서 각 역할에 대한 다양한 기능에 대한 액세스를 제어하여 관리자 역할에 대한 액세스 및 제어 기능을 향상시킬 수 있습니다. 새 역할을 만들 때 역할이 액세스할 수 있는 특정 관리 기능을 할당할 수 있습니다.
 
 ![](assets/image2014-9-23-10-3a51-3a18.png)
 
@@ -39,17 +39,17 @@ ht-degree: 0%
 
 ## BrightTALK 어댑터 {#brighttalk-adapter}
 
-Marketing To BrightTALK 어댑터를 사용하면 라이브 또는 on-demand 웹캐스트의 참석 정보를 Marketing 이벤트로 직접 캡처할 수 있습니다.
+Marketo BrightTALK 어댑터를 사용하면 라이브 또는 on-demand 웹캐스트의 참석 정보를 Marketo 이벤트로 직접 캡처할 수 있습니다.
 
 ![](assets/image2014-9-23-10-3a51-3a31.png)
 
-## Microsoft Dynamics용 Marketing To Sales Insight {#marketo-sales-insight-for-microsoft-dynamics}
+## Microsoft Dynamics용 Marketo Sales Insight {#marketo-sales-insight-for-microsoft-dynamics}
 
 이제 Microsoft Dynamics 고객이 Sales Insight를 사용할 수 있습니다.
 
 ## Dynamics Opportunity 동기화 {#dynamics-opportunity-sync}
 
-Marketing To와 Microsoft Dynamics 간에 기회 데이터를 동기화할 수 있습니다.
+Marketo과 Microsoft Dynamics 간에 기회 데이터를 동기화할 수 있습니다.
 
 ## 마케팅 영향 기회 보고서* {#marketing-influenced-opportunities-report}
 
