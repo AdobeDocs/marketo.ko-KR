@@ -1,15 +1,15 @@
 ---
 unique-page-id: 10098379
-description: Microsoft Dynamics와 빠른 동기화를 사용하여 새로운 사용자 정의 필드 - Marketing To Docs - 제품 설명서
+description: Microsoft Dynamics와 빠른 동기화를 사용하여 새로운 사용자 정의 필드 - Marketo Docs - 제품 설명서
 title: Microsoft Dynamics와 빠른 동기화를 사용하여 새로운 사용자 정의 필드 사용
+exl-id: c98f1443-c0dd-40e1-919b-f8110088b38a
 translation-type: tm+mt
-source-git-commit: 2b5ccd7220557a5e966d33436d0f0d2a65e4589d
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '355'
 ht-degree: 0%
 
 ---
-
 
 # 새 사용자 지정 필드 {#use-quick-sync-with-microsoft-dynamics-for-a-new-custom-field}에 Microsoft Dynamics와 빠른 동기화 사용
 
@@ -17,13 +17,13 @@ ht-degree: 0%
 
 일반적으로 빠른 동기화를 사용하여 새 필드를 추가하고 값을 새로 고칩니다. 그러나 기존 필드를 동기화할 수 있는 경우도 있습니다. 업데이트된 날짜 또는 만든 날짜 범위를 기반으로 필드 동기화를 제한할 수 있습니다. 자세한 내용은 아래 [고급 동기화 옵션](#Advanced_Sync_Options)을 참조하십시오.
 
-빠른 동기화는 null 값을 동기화할 수 있습니다. 예를 들어 값 A와 B를 사용하고 Dynamics의 B 값을 null로 변경하면 null 값이 Marketing에 동기화됩니다.
+빠른 동기화는 null 값을 동기화할 수 있습니다. 예를 들어 값 A와 B를 사용하고 Dynamics에서 B 값을 null로 변경하면 null 값이 Marketo에 동기화됩니다.
 
 ## 모든 레코드에 대한 빠른 동기화 {#quick-sync-for-all-records}
 
 빠른 동기화를 사용하여 새 필드를 다시 동기화하는 방법을 설명합니다.
 
-1. Marketing에서 **관리**&#x200B;를 클릭합니다.
+1. Marketo에서 **관리**&#x200B;를 클릭합니다.
 
    ![](assets/image2016-8-19-11-3a14-3a5.png)
 
@@ -75,7 +75,7 @@ ht-degree: 0%
 
 ## 동기화되지 않은 필드 수정 {#fixing-out-of-sync-fields}
 
-Dynamics 및 Marketing 필드가 동기화되지 않은 드문 경우에는 빠르고 간편하게 다시 동기화할 수 있습니다.
+Dynamics 및 Marketo 필드가 동기화되지 않은 드문 경우에는 빠르고 간편하게 다시 동기화할 수 있습니다.
 
 1. 필드를 선택 취소하고 **저장**&#x200B;을 클릭합니다.
 
