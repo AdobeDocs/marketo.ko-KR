@@ -1,19 +1,19 @@
 ---
 unique-page-id: 4719302
-description: 영어 이외의 사용자 정의 개체 동기화 활성화 - Marketing To Docs - 제품 설명서
+description: 영어 이외의 사용자 정의 개체 동기화 활성화 - Marketo 문서 - 제품 설명서
 title: 영어 이외의 사용자 정의 개체 동기화 사용
+exl-id: 5d1c5b52-5323-4f68-847b-7d24e6acd6c4
 translation-type: tm+mt
-source-git-commit: 2b5ccd7220557a5e966d33436d0f0d2a65e4589d
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '157'
 ht-degree: 0%
 
 ---
 
-
 # 영어 이외 사용자 지정 개체 동기화 사용 {#enable-non-english-custom-object-sync}
 
-Marketing to 동기화 사용자가 영어 이외의 언어로 설정된 경우 사용자 지정 개체 동기화를 활성화하려고 할 때 오류가 발생할 수 있습니다.
+Marketo 동기화 사용자가 영어 이외의 언어로 설정된 경우 사용자 정의 개체 동기화를 활성화하려고 할 때 오류가 발생할 수 있습니다.
 
 ## 오류 {#the-error}
 
@@ -45,7 +45,7 @@ Marketing to 동기화 사용자가 영어 이외의 언어로 설정된 경우 
 
    ![](assets/image2014-12-10-13-3a18-3a55.png)
 
-1. Marketing에서 **관리 > Salesforce > 개체**&#x200B;에서 **스키마 새로 고침**&#x200B;을 클릭합니다.
+1. Marketo으로 돌아가 **관리 > Salesforce > 개체**&#x200B;에서 **스키마 새로 고침**&#x200B;을 클릭합니다.
 
    ![](assets/image2014-12-10-13-3a19-3a6.png)
 
