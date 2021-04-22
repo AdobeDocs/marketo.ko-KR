@@ -1,15 +1,15 @@
 ---
 unique-page-id: 2953188
-description: 유추된 필터 - 마케팅 문서 - 제품 설명서
+description: 유추 필터 - Marketo 문서 - 제품 설명서
 title: 유추 필터
+exl-id: 6db4ff4d-7fab-4722-94b1-1bf92ba4651d
 translation-type: tm+mt
-source-git-commit: 5b9f48c98464c79bcdca2e335f6a4a2edce98ce4
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '143'
 ht-degree: 0%
 
 ---
-
 
 # 유추된 필터 {#inferred-filters}
 
