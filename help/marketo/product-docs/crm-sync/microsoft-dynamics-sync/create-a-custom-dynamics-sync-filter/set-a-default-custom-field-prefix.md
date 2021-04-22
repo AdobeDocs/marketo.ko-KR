@@ -1,19 +1,19 @@
 ---
 unique-page-id: 10094647
-description: 기본 사용자 지정 필드 접두사 - Marketing to Docs - 제품 설명서 설정
+description: 기본 사용자 정의 필드 접두사 - Marketo 문서 - 제품 설명서 설정
 title: 기본 사용자 지정 필드 접두어 설정
+exl-id: 5608864b-356d-451b-b079-4ea11c3296e5
 translation-type: tm+mt
-source-git-commit: 2b5ccd7220557a5e966d33436d0f0d2a65e4589d
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '101'
 ht-degree: 0%
 
 ---
 
-
 # 기본 사용자 지정 필드 접두사 {#set-a-default-custom-field-prefix} 설정
 
-Marketing to 독점 필드가 올바르게 동기화하려면 사용자 정의 필드에 대한 기본 Microsoft Dynamics 접두사는 **new**&#x200B;이어야 합니다. 기본 접두사를 변경하는 방법은 다음과 같습니다.
+Marketo 독점 필드를 올바로 동기화하려면 사용자 정의 필드에 대한 기본 Microsoft Dynamics 접두사는 **new**&#x200B;이어야 합니다. 기본 접두사를 변경하는 방법은 다음과 같습니다.
 
 1. 설정으로 이동하여 **사용자 지정을 선택합니다.**
 
