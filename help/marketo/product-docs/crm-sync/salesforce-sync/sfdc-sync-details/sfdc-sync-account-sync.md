@@ -1,33 +1,33 @@
 ---
 unique-page-id: 2953459
-description: SFDC 동기화 - 계정 동기화 - Marketing To Docs - 제품 설명서
+description: SFDC 동기화 - 계정 동기화 - Marketo 문서 - 제품 설명서
 title: SFDC 동기화 - 계정 동기화
+exl-id: 94f7a9e5-86ea-4bb4-9d78-96a09c61321d
 translation-type: tm+mt
-source-git-commit: ed83438ae5660d172e845f25c4d72d599574bd91
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '225'
 ht-degree: 0%
 
 ---
 
-
 # SFDC 동기화:계정 동기화 {#sfdc-sync-account-sync}
 
-또한 Marketing Cloud는 계정 정보를 Salesforce와 동기화합니다. 여러분이 알아야 할 몇 가지 구체적인 것이 있습니다!
+또한 Marketo은 계정 정보를 Salesforce와 동기화합니다. 여러분이 알아야 할 몇 가지 구체적인 것이 있습니다!
 
 ## 정보는 어떤 방식으로 동기화됩니까?{#which-way-does-the-information-sync}
 
-한 가지 방법:SFDC에서 Marketing에 이르는 전 과정을
+한 가지 방법:SFDC에서 Marketo으로
 
 ## 업데이트는 어떻게 작동합니까?{#how-do-the-updates-work}
 
-Marketing에서 연락처에 대한 계정 필드를 업데이트하면 Marketing To에서 해당 계정에 속하는 모든 연락처의 값이 변경됩니다. SFDC와 동기화되지 않습니다. 하지만 다음에 SFDC에서 계정이 업데이트되면 변경 내용이 Marketing의 모든 계정 정보를 덮어씁니다.
+Marketo에서 연락처에 대한 계정 필드를 업데이트하면 Marketo에서 해당 계정에 속한 모든 연락처의 값이 변경됩니다. SFDC와 동기화되지 않습니다. 그러나 다음에 SFDC에서 계정이 업데이트되면 변경 내용은 Marketo의 모든 계정 정보를 덮어씁니다.
 
 ## 담당자가 여러 계정에 속할 수 있습니까? {#can-a-contact-belong-to-multiple-accounts}
 
 아니. 계정에는 여러 명의 연락처가 있을 수 있으며 연락처에는 하나의 계정만 있을 수 있습니다.
 
-## Marketing To에서 계정을 만들 수 있습니까?{#can-i-create-accounts-from-marketo}
+## Marketo에서 계정을 만들 수 있습니까?{#can-i-create-accounts-from-marketo}
 
 대부분 아닙니다. 그러나 한 사람에게 [사람 전환](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/convert-person.md) 흐름 단계를 사용하는 경우 새 연락처, 새 계정 및 새 기회가 만들어집니다.
 
