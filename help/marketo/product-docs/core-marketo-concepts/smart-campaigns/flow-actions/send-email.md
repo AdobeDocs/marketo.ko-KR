@@ -1,15 +1,15 @@
 ---
 unique-page-id: 1146948
-description: 이메일 보내기 - 마케팅 문서 - 제품 설명서
+description: 이메일 보내기 - Marketo 문서 - 제품 설명서
 title: 이메일 보내기
+exl-id: dc8e25c7-7578-4916-bca9-2d4bdffd3c6a
 translation-type: tm+mt
-source-git-commit: 4a0bd2efe99284807a46d07ffef0070d9a303631
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '94'
 ht-degree: 0%
 
 ---
-
 
 # 이메일 {#send-email} 보내기
 
