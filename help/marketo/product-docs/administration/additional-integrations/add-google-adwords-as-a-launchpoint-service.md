@@ -1,19 +1,19 @@
 ---
 unique-page-id: 6095008
-description: Google AdWords를 LaunchPoint 서비스로 추가 - Marketing To Docs - 제품 설명서
+description: Google AdWords를 LaunchPoint 서비스로 추가 - Marketo Docs - 제품 설명서
 title: Google AdWords를 LaunchPoint 서비스로 추가
+exl-id: 993a057a-3f98-4a9f-a770-c9c80dedfd81
 translation-type: tm+mt
-source-git-commit: 78961a3e163ce903facf955a9dda6909b5e85bad
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '300'
 ht-degree: 0%
 
 ---
 
-
 # Google AdWords를 LaunchPoint 서비스로 추가 서비스 {#add-google-adwords-as-a-launchpoint-service}
 
-Google AdWords 계정을 Marketing에 연결하여 Marketing에서 Google AdWords로 오프라인 전환 데이터를 자동으로 업로드합니다. 그런 다음 AdWords에 [사용자 지정 열](https://support.google.com/adwords/answer/3073556)을 추가한 후 AdWords UI에서 자격이 있는 리드, 기회 및 신규 고객(또는 추적하고자 하는 모든 매출 단계)이 발생한 클릭을 쉽게 확인할 수 있습니다. 이 정보는 마케팅 UI에 표시되지 않습니다.
+Google AdWords 계정을 Marketo에 연결하여 Marketo에서 Google AdWords로 오프라인 전환 데이터를 자동으로 업로드합니다. 그런 다음 AdWords에 [사용자 지정 열](https://support.google.com/adwords/answer/3073556)을 추가한 후 AdWords UI에서 자격이 있는 리드, 기회 및 신규 고객(또는 추적하려는 모든 매출 단계)이 발생한 클릭을 쉽게 확인할 수 있습니다. 이 정보는 Marketo UI에 표시되지 않습니다.
 
 [Google의 오프라인 변환 가져오기 기능에 대해 자세히 알아보십시오](https://support.google.com/adwords/answer/2998031?hl=en).
 
@@ -41,7 +41,7 @@ Google AdWords 계정을 Marketing에 연결하여 Marketing에서 Google AdWord
 
    ![](assets/new-service-google.png)
 
-1. **마케팅 승인**&#x200B;을 선택합니다.
+1. **Marketo 인증**&#x200B;을 선택합니다.
 
    >[!NOTE]
    >
@@ -61,7 +61,7 @@ Google AdWords 계정을 Marketing에 연결하여 Marketing에서 Google AdWord
 
    ![](assets/image2015-2-26-20-3a55-3a21.png)
 
-1. Marketing에서 Google AdWords **주별** 또는 **일별**&#x200B;으로 오프라인 전환을 업로드합니다.
+1. Marketo에서 Google AdWords **주별** 또는 **일별**&#x200B;으로 오프라인 전환을 업로드합니다.
 
    ![](assets/image2015-2-23-16-3a53-3a4.png)
 
@@ -74,7 +74,7 @@ Google AdWords 계정을 Marketing에 연결하여 Marketing에서 Google AdWord
 
    >[!NOTE]
    >
-   >Marketing 및 AdWords에서 일관된 속성 모델을 사용하면 가장 정확한 데이터를 제공할 수 있습니다.
+   >Marketo 및 AdWords에서 일관된 속성 모델을 사용하면 가장 정확한 데이터를 제공할 수 있습니다.
 
    ![](assets/image2015-2-23-16-3a57-3a49.png)
 
