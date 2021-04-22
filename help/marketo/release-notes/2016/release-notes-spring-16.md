@@ -1,15 +1,15 @@
 ---
 unique-page-id: 11370952
-description: 릴리스 노트 -16년 봄 - Marketing To Docs - 제품 설명서
+description: 릴리스 노트 -16년 봄 - Marketo 문서 - 제품 설명서
 title: 릴리스 노트 -16년 봄
+exl-id: 0ca26acf-2ac2-418e-bc4e-9820f483fa71
 translation-type: tm+mt
-source-git-commit: 9dd108de97be01acf00d42be90b2661d153a4265
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '799'
 ht-degree: 0%
 
 ---
-
 
 # 릴리스 노트:16년 봄 {#release-notes-spring}
 
@@ -43,7 +43,7 @@ ht-degree: 0%
 
 ## [모바일 인앱 메시지](/help/marketo/product-docs/mobile-marketing/in-app-messages/understanding-in-app-messages.md) {#mobile-in-app-messages}
 
-Marketing To에서 앱에 사용할 멋진 인앱 메시지를 만들 수 있습니다. 인앱 메시지 프로그램으로 볼 사용자 및 시간을 정확하게 정의할 수 있습니다. 프로그램 대시보드에서 손쉽게 성능을 모니터링할 수 있습니다.
+Marketo에서 바로 앱에 사용할 멋진 인앱 메시지를 만들 수 있습니다. 인앱 메시지 프로그램으로 볼 사용자 및 시간을 정확하게 정의할 수 있습니다. 프로그램 대시보드에서 손쉽게 성능을 모니터링할 수 있습니다.
 
 ![](assets/pasted-image-at-2016-05-24-09-45-am.png)
 
@@ -55,17 +55,17 @@ Marketing To에서 앱에 사용할 멋진 인앱 메시지를 만들 수 있습
 
 ## [랜딩 페이지, 랜딩 페이지 템플릿 및 양식 API](https://developers.marketo.com/blog/spring-2016-updates/) {#landing-page-landing-page-template-and-form-apis}
 
-Marketing REST API는 이제 마케팅 랜딩 페이지, 랜딩 페이지 템플릿 및 양식에 대한 제어를 지원합니다. 이제 사용자는 Marketing to REST API를 통해 이러한 자산을 직접 만들고, 업데이트하고, 승인하고, 삭제할 수 있습니다.
+Marketo REST API는 이제 Marketo 랜딩 페이지, 랜딩 페이지 템플릿 및 양식에 대한 제어를 지원합니다. 이제 사용자는 Marketo REST API를 통해 이러한 자산을 직접 제작, 업데이트, 승인 및 삭제할 수 있습니다.
 
 ## [API 액세스용 IP 허용 목록에 추가](/help/marketo/product-docs/administration/additional-integrations/create-an-allowlist-for-ip-based-api-access.md) {#ip-allowlisting-for-api-access}
 
-Marketing to 사용자 로그인에 대한 IP 허용 목록에 추가 기능과 유사하게, 이제 마케팅 관리자가 Marketing SOAP 및 REST API에 액세스할 수 있는 IP 주소허용 목록에 추가하다를 설정하여 인증되지 않은 IP 주소에서의 액세스를 차단할 수 있습니다. 이렇게 하면 Marketing To 인스턴스에 보안 레이어가 추가되어 API 액세스가 조직의 네트워크 내에서만 발생할 수 있습니다. 이 설정 방법에 대한 자세한 내용은 [Marketing 설명서 사이트](/help/marketo/product-docs/administration/additional-integrations/create-an-allowlist-for-ip-based-api-access.md)에서 확인할 수 있습니다.
+Marketo 사용자 로그인에 대한 IP 허용 목록에 추가 기능과 유사하게, Marketo 관리자는 이제 Marketo SOAP 및 REST API에 액세스할 수 있는 IP 주소를 설정하여 인증되지 않은 IP 주소에서의 액세스를 차단할 수 있습니다허용 목록에 추가하다. 이렇게 하면 Marketo 인스턴스에 보안 레이어가 추가되어 API 액세스가 조직의 네트워크 내에서만 발생할 수 있습니다. 이 설정 방법에 대한 자세한 내용은 [Marketo 설명서 사이트](/help/marketo/product-docs/administration/additional-integrations/create-an-allowlist-for-ip-based-api-access.md)에서 확인할 수 있습니다.
 
 ## [새로운 고속 Microsoft Dynamics 동기화 커넥터](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/microsoft-dynamics-sync-details/sync-status.md) {#new-high-speed-microsoft-dynamics-sync-connector}
 
 Orion 아키텍처를 기반으로 구축된 새로운 고속 다이내믹 커넥터는 초기 동기화를 위한 최대 20배 빠른 속도로, 증분 동기화를 위한 최대 5배 빠른 속도로 제공합니다. 모든 신규 고객은 출시일에 이 커넥터를 출시할 예정이며, 여름 릴리스 기간 동안 기존 고객에게 단계적으로 제공할 예정입니다.
 
-**새 필드에 대한 데이터 새로 고침**:이제 언제든지 새 동기화 필드를 활성화할 수 있으며 해당 필드에 대한 모든 데이터 값은 Dynamics CRM에서 Marketing으로 새로 고쳐집니다. 초기 설정 중에 모든 필드를 선택할 필요가 없습니다. 기존 동기화 필드를 비활성화하고 나중에 다시 활성화하면 해당 필드에 대한 모든 데이터 값이 Dynamics CRM에서 Marketing으로 새로 고쳐집니다.
+**새 필드에 대한 데이터 새로 고침**:이제 언제든지 새 동기화 필드를 활성화할 수 있으며 해당 필드에 대한 모든 데이터 값은 Dynamics CRM에서 Marketo으로 새로 고쳐집니다. 초기 설정 중에 모든 필드를 선택할 필요가 없습니다. 기존 동기화 필드를 비활성화하고 나중에 다시 활성화하면 해당 필드에 대한 모든 데이터 값이 Dynamics CRM에서 Marketo으로 새로 고쳐집니다.
 
 **리드를 연락처로 동기화**:리드를 Microsoft로 동기화 플로우 동작에는 리드 또는 담당자로 동기화할 수 있는 새로운 옵션이 있습니다.
 
@@ -81,13 +81,13 @@ Orion 아키텍처를 기반으로 구축된 새로운 고속 다이내믹 커�
 
 ## [친숙한 인스턴스 이름](/help/marketo/product-docs/administration/settings/edit-subscription-settings.md) {#friendly-instance-name}
 
-오늘날 샌드박스와 프로덕션 인스턴스 등 Marketing To 인스턴스를 구분하기란 쉽지 않습니다. 이 기능을 사용하면 현재 작업 중인 인스턴스를 알 수 있습니다.
+오늘날 샌드박스와 프로덕션 인스턴스 등 Marketo 인스턴스를 구분하기란 쉽지 않습니다. 이 기능을 사용하면 현재 작업 중인 인스턴스를 알 수 있습니다.
 
 ![](assets/image2016-5-16-15-3a57-3a14.png)
 
 ## [가입 기간 제한](/help/marketo/product-docs/administration/users-and-roles/managing-marketo-users.md) {#limited-time-access-for-subscriptions}
 
-오늘날 사용자는 무기한 Marketing Cloud 구독에 초대됩니다. 이 기능을 사용하면 관리자가 제한된 기간(예: 2주 또는 1개월) 동안 사용자를 구독으로 초대할 수 있습니다.
+현재 사용자는 무기한 Marketo 사용료 지불 옵션에 초대됩니다. 이 기능을 사용하면 관리자가 제한된 기간(예: 2주 또는 1개월) 동안 사용자를 구독으로 초대할 수 있습니다.
 
 ![](assets/image2016-5-16-15-3a59-3a52.png)
 
@@ -99,4 +99,4 @@ Orion 아키텍처를 기반으로 구축된 새로운 고속 다이내믹 커�
 
 ## 사용자 지정 활동 {#custom-activities}
 
-이제 마케팅 관리자는 Marketing to 사용자 지정 활동 정의 모델을 통해 사용자 지정 활동 유형을 정의하고 관리할 수 있습니다. 이제 관리자는 Marketing to 사용자 지정 개체 모델러와 유사하게, 정확한 비즈니스 요구에 맞게 데이터 모델을 확장할 수 있습니다. 이 기능을 사용하는 방법에 대한 자세한 내용은 [Marketing 설명서 사이트](/help/marketo/product-docs/administration/marketo-custom-activities/understanding-custom-activities.md)에서 확인할 수 있습니다.
+이제 Marketo 관리자는 Marketo 사용자 지정 활동 정의 모델을 통해 사용자 정의 활동 유형을 정의하고 관리할 수 있습니다. Marketo 사용자 정의 개체 모델러와 유사하게 이제 관리자는 비즈니스 요구에 맞게 데이터 모델을 확장할 수 있습니다. 이 기능을 사용하는 방법에 대한 자세한 내용은 [Marketo 설명서 사이트](/help/marketo/product-docs/administration/marketo-custom-activities/understanding-custom-activities.md)에서 확인할 수 있습니다.
