@@ -1,19 +1,19 @@
 ---
 unique-page-id: 2360323
-description: 기존 개인 파티션 편집 - 마케팅 문서 - 제품 설명서
+description: 기존 개인 파티션 편집 - Marketo 문서 - 제품 설명서
 title: 기존 개인 파티션 편집
+exl-id: 23353e93-f0f0-4f0d-b833-d870ff345b1a
 translation-type: tm+mt
-source-git-commit: f79909ce8f2e37bf0748596774fe47ac03618696
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '131'
 ht-degree: 0%
 
 ---
 
-
 # 기존 개인 파티션 편집 {#edit-an-existing-person-partition}
 
-개인 파티션은 두 번째(또는 세 번째) 데이터베이스를 갖는 것과 같습니다. 파티션을 하나 이상의 작업 영역에 연결할 수 있습니다. 파티션 세부 사항을 편집하는 방법을 설명합니다.
+개인 파티션은 두 번째(또는 세 번째) 데이터베이스를 갖는 것과 같습니다. 파티션을 하나 이상의 작업 영역에 연결할 수 있습니다. 파티션 세부 사항을 편집하는 방법입니다.
 
 >[!NOTE]
 >
