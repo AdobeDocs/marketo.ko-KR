@@ -1,19 +1,19 @@
 ---
 unique-page-id: 12980785
-description: 릴리스 노트 -8월 17일 향상된 ABM - Marketing To Docs - 제품 설명서
+description: 릴리스 노트 - 1907년 8월 17일 향상된 ABM - Marketo 문서 - 제품 설명서
 title: 릴리스 노트 -1907년 8월 17일 개선 사항
+exl-id: 3ba6319a-c5a3-4623-8d8e-0b246b29f17e
 translation-type: tm+mt
-source-git-commit: 9f88e7cebc5e9d0d4491d65d332ccfdd9a31c395
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '199'
 ht-degree: 0%
 
 ---
 
-
 # 릴리스 노트:1907년 8월 ABM 개선 사항 {#release-notes-august-abm-enhancements}
 
-다음 기능은 2017년 8월 17일 ABM 개선 릴리스에 포함되어 있습니다. 기능 가용성을 확인하려면 Marketing Edition을 확인하십시오.
+다음 기능은 2017년 8월 17일 ABM 개선 릴리스에 포함되어 있습니다. 기능을 사용할 수 있는지 Marketo 에디션을 확인하십시오.
 
 각 기능에 대한 자세한 아티클을 보려면 제목 링크를 클릭하십시오.
 
