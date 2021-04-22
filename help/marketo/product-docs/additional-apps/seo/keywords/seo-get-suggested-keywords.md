@@ -1,19 +1,19 @@
 ---
 unique-page-id: 2949202
-description: SEO - 추천 키워드 다운로드 - 마케팅 문서 - 제품 설명서
+description: SEO - 추천 키워드 다운로드 - Marketo 문서 - 제품 설명서
 title: SEO - 추천 키워드 가져오기
+exl-id: 6631b389-039a-40f1-8445-3971576e9f65
 translation-type: tm+mt
-source-git-commit: 37697e2d6f1d86a6cd1de5d567a3d384160415cb
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
-source-wordcount: '185'
+source-wordcount: '0'
 ht-degree: 0%
 
 ---
 
-
 # SEO - 추천 키워드 {#seo-get-suggested-keywords} 가져오기
 
-Marketing SEO는 추적해야 하는 키워드를 제안할 수 있습니다. 키워드 또는 사이트의 URL을 기반으로 제안을 제공할 수 있습니다. 빨리 해!
+Marketo SEO는 추적할 키워드를 제안할 수 있습니다. 키워드 또는 사이트의 URL을 기반으로 제안을 제공할 수 있습니다. 빨리 해!
 
 ## 키워드 {#get-keyword-suggestions-using-a-keyword}을(를) 사용하여 키워드 제안 가져오기
 
