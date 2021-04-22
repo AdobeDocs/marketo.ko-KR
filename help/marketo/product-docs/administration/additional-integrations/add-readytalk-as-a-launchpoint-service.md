@@ -1,19 +1,19 @@
 ---
 unique-page-id: 7512278
-description: LaunchPoint 서비스로 ReadyTalk 추가 - Marketing Docs - 제품 설명서
+description: ReadyTalk를 LaunchPoint 서비스로 추가 - Marketo Docs - 제품 설명서
 title: LaunchPoint 서비스로 ReadyTalk 추가
+exl-id: 936735b5-913e-43ee-bdc2-d65ef37d93a3
 translation-type: tm+mt
-source-git-commit: 78961a3e163ce903facf955a9dda6909b5e85bad
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '111'
 ht-degree: 0%
 
 ---
 
-
 # ReadyTalk를 LaunchPoint 서비스로 추가 {#add-readytalk-as-a-launchpoint-service}
 
-Marketing에서 ReadyTalk 웨비나 등록 및 참석을 관리합니다.
+Marketo은 ReadyTalk 웨비나 등록 및 참석을 관리합니다.
 
 >[!NOTE]
 >
@@ -43,7 +43,7 @@ Marketing에서 ReadyTalk 웨비나 등록 및 참석을 관리합니다.
 
    ![](assets/image2015-4-24-18-3a53-3a38.png)
 
-이제 **ReadyTalk** 계정이 Marketing과 동기화됩니다.
+이제 **ReadyTalk** 계정이 Marketo과 동기화됩니다.
 
 ![](assets/readytalk.png)
 
