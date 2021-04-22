@@ -1,15 +1,15 @@
 ---
 unique-page-id: 2949264
-description: SEO - 페이지 문제 제거/삭제 - 마케팅 문서 - 제품 설명서
+description: SEO - 페이지 문제 제거/삭제 - Marketo 문서 - 제품 설명서
 title: SEO - 페이지 문제 제거/삭제
+exl-id: cc1e5318-5c64-4022-bb56-6a96607ced7d
 translation-type: tm+mt
-source-git-commit: 37697e2d6f1d86a6cd1de5d567a3d384160415cb
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '98'
 ht-degree: 0%
 
 ---
-
 
 # SEO - 페이지 문제 제거/삭제 {#seo-remove-delete-a-page-issue}
 
