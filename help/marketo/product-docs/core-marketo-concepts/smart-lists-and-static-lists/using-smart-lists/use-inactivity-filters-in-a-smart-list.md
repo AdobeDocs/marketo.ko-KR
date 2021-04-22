@@ -1,15 +1,15 @@
 ---
 unique-page-id: 7511477
-description: 스마트 목록에서 비활동 필터 사용 - 마케팅 문서 - 제품 설명서
+description: 스마트 목록에서 비활동 필터 사용 - Marketo 문서 - 제품 설명서
 title: 스마트 목록에서 비활동 필터 사용
+exl-id: 9e00c864-db3f-46cd-b65d-e4fd49d89ff5
 translation-type: tm+mt
-source-git-commit: 5b9f48c98464c79bcdca2e335f6a4a2edce98ce4
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '127'
 ht-degree: 0%
 
 ---
-
 
 # 스마트 목록 {#use-inactivity-filters-in-a-smart-list}에 비활동 필터 사용
 
