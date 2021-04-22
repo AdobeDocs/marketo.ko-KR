@@ -1,15 +1,15 @@
 ---
 unique-page-id: 45417092
-description: 필드에 대한 데이터로 사용한 내보내기 - Marketing To Docs - 제품 설명서
+description: 필드에 대한 데이터로 사용되는 내보내기 - Marketo 문서 - 제품 설명서
 title: 필드에 대해 데이터에서 사용하는 내보내기
+exl-id: 6d7aab4d-1c4d-48f8-aeea-a926628ebf0d
 translation-type: tm+mt
-source-git-commit: f865630638e7c0fe6ac2a449e196a7de4fbfeea1
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '100'
 ht-degree: 0%
 
 ---
-
 
 # {#export-used-by-data-for-a-field} 필드에 대해 데이터에서 사용하는 내보내기
 
@@ -41,4 +41,4 @@ ht-degree: 0%
 
    >[!TIP]
    >
-   >각 관련 자산은 클릭할 수 있고 Marketing To에서 열리는 링크입니다.
+   >각 관련 자산은 클릭할 수 있고 Marketo에서 열리는 링크입니다.
