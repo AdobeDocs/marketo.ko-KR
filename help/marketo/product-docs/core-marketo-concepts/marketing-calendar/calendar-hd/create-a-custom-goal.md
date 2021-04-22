@@ -1,15 +1,15 @@
 ---
 unique-page-id: 7504130
-description: 사용자 지정 목표 만들기 - 마케팅 문서 - 제품 설명서
+description: 사용자 정의 목표 만들기 - Marketo 문서 - 제품 설명서
 title: 사용자 지정 목표 만들기
+exl-id: 5e97fb4c-c779-46c7-83ed-de07d27770c7
 translation-type: tm+mt
-source-git-commit: e5050328cbddaf072dd60ddd8d7363a704e720b5
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '108'
 ht-degree: 0%
 
 ---
-
 
 # 사용자 지정 목표 만들기 {#create-a-custom-goal}
 
