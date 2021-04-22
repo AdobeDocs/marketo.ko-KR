@@ -1,19 +1,19 @@
 ---
 unique-page-id: 557329
-description: 목록 또는 스마트 목록에서 Excel로 인물 내보내기 - 마케팅 문서 - 제품 설명서
+description: 목록 또는 스마트 목록에서 Excel로 인물 내보내기 - Marketo 문서 - 제품 설명서
 title: 목록 또는 스마트 목록에서 Excel로 인물 내보내기
+exl-id: d2a184e2-fb22-47f7-8368-747fa803233e
 translation-type: tm+mt
-source-git-commit: 07f713ece9832b7696451001f61c6a3b45b4a94a
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '237'
 ht-degree: 0%
 
 ---
 
-
 # 목록 또는 스마트 목록에서 사용자를 Excel로 내보내기 {#export-people-to-excel-from-a-list-or-smart-list}
 
-Marketing To 외부에서 목록 또는 스마트 목록 결과가 필요한 경우 Excel로 쉽게 내보낼 수 있습니다. 방법
+Marketo 외부의 목록 또는 스마트 목록 결과가 필요한 경우 Excel로 손쉽게 내보낼 수 있습니다. 방법
 
 1. **마케팅 활동**&#x200B;으로 이동합니다.
 
@@ -47,7 +47,7 @@ Marketing To 외부에서 목록 또는 스마트 목록 결과가 필요한 경
    >
    >내보내기 시간이 오래 걸리면 언제든지 로그아웃했다가 나중에 다시 가져올 수 있습니다. **지금 다운로드** 링크는 **목록 작업** 메뉴에서 **내보내기 상태 표시**&#x200B;를 선택하여 액세스할 수 있으며 1주일 동안 유효합니다.
 
-   스마트 목록을 Excel로 내보내면 Marketing Cloud에서 목록을 자동으로 캐시합니다. 다음에 로그인하거나 브라우저를 새로 고칠 때 스마트 목록 아이콘에 작은 종이 클립과 스티커 노트가 표시됩니다.
+   스마트 목록을 Excel로 내보내면 Marketo에서 자동으로 목록을 캐시합니다. 다음에 로그인하거나 브라우저를 새로 고칠 때 스마트 목록 아이콘에 작은 종이 클립과 스티커 노트가 표시됩니다.
 
    ![](assets/cached.png)
 
