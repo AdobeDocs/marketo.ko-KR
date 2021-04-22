@@ -1,15 +1,15 @@
 ---
 unique-page-id: 557333
-description: 흐름 단계에서 선택 항목 추가 순서 바꾸기 - 마케팅 문서 - 제품 설명서
+description: 흐름 단계에서 선택 항목 추가 순서 바꾸기 - Marketo 문서 - 제품 설명서
 title: 플로우 단계에서 선택 추가 순서 변경
+exl-id: e76af93a-24df-48ba-b5f2-ea6e697e2f3a
 translation-type: tm+mt
-source-git-commit: 4a0bd2efe99284807a46d07ffef0070d9a303631
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '183'
 ht-degree: 0%
 
 ---
-
 
 # 흐름 단계 {#reorder-add-choice-in-a-flow-step}에서 선택 추가 순서 변경
 
