@@ -1,21 +1,21 @@
 ---
 unique-page-id: 1146958
-description: 경고 보내기 - Marketing To Docs - 제품 문서
+description: 알림 보내기 - Marketo 문서 - 제품 설명서
 title: 경고 보내기
+exl-id: 2016e2e7-0361-4bb2-8740-819e21fbd15b
 translation-type: tm+mt
-source-git-commit: 4a0bd2efe99284807a46d07ffef0070d9a303631
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '167'
 ht-degree: 0%
 
 ---
 
-
 # 경고 보내기 {#send-alert}
 
 ## 개요 {#overview}
 
-Marketing에서는 판매 소유자, 파트너 또는 다른 사람 등 개인 정보가 포함된 이메일 경고를 보낼 수 있습니다. **경고 보내기** 흐름 단계를 사용합니다.
+Marketo은 개인 정보가 포함된 이메일 경고를 판매 소유자, 파트너 또는 다른 사람에게 보낼 수 있습니다. **경고 보내기** 흐름 단계를 사용합니다.
 
 ![](assets/one-1.png)
 
