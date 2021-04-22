@@ -1,15 +1,15 @@
 ---
 unique-page-id: 2949186
-description: SEO - 페이지 세부 정보 드릴다운 사용 - 마케팅 문서 - 제품 설명서
+description: SEO - 페이지 세부 정보 드릴다운 사용 - Marketo 문서 - 제품 설명서
 title: SEO - 페이지 세부 사항 드릴다운 사용
+exl-id: 2fa1fdf3-2d42-424c-911e-188195e4551a
 translation-type: tm+mt
-source-git-commit: 37697e2d6f1d86a6cd1de5d567a3d384160415cb
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '279'
 ht-degree: 0%
 
 ---
-
 
 # SEO - 페이지 세부 정보 드릴다운 사용 {#seo-using-the-page-detail-drill-down}
 
@@ -40,9 +40,9 @@ ht-degree: 0%
 | 인바운드 링크 합계 | 웹 사이트에 대한 총 인바운드 링크 수입니다. |
 | 인바운드 링크(고유 도메인) | 사이트에 대한 최소 1개의 인바운드 링크가 있는 다른 웹 사이트 수입니다. |
 | 아웃바운드 링크 | 이 특정 페이지에서 다른 웹 사이트로 이동하는 링크의 수입니다. |
-| Facebook 공유 | Facebook에서 이 페이지를 공유한 횟수입니다. |
-| Facebook 좋아요 수 | Facebook에서 이 페이지 공유가 좋아진 횟수입니다. |
-| Facebook 클릭 수 | Facebook 공유의 클릭 수입니다. |
+| Facebook 공유 | facebook에서 이 페이지를 공유한 횟수입니다. |
+| Facebook 좋아요 수 | facebook에서 이 페이지 공유가 좋아진 횟수입니다. |
+| Facebook 클릭 수 | facebook 공유에서 클릭한 횟수입니다. |
 
 ## 페이지가 {#keyword-s-that-page-is-optimized-for}에 대해 최적화된 키워드
 
