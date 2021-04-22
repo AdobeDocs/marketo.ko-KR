@@ -1,15 +1,15 @@
 ---
 unique-page-id: 1147257
-description: 마케팅 달력 탐색 - 마케팅 문서 - 제품 설명서
+description: 마케팅 달력 탐색 - Marketo 문서 - 제품 설명서
 title: 마케팅 달력 탐색
+exl-id: 0a70def5-d98e-4efd-ac3a-36c52c1cbc45
 translation-type: tm+mt
-source-git-commit: e5050328cbddaf072dd60ddd8d7363a704e720b5
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '165'
 ht-degree: 0%
 
 ---
-
 
 # 마케팅 달력 탐색 {#navigating-the-marketing-calendar}
 
@@ -17,13 +17,13 @@ ht-degree: 0%
 
 >[!PREREQUISITES]
 >
->[마케팅 달력 라이선스](/help/marketo/product-docs/core-marketo-concepts/marketing-calendar/understanding-the-calendar/issue-revoke-a-marketing-calendar-license.md)가 있는지 확인하십시오. 그렇지 않으면 마케팅 달력 타일이 내 마케팅에 표시되지 않습니다.
+>[마케팅 달력 라이선스](/help/marketo/product-docs/core-marketo-concepts/marketing-calendar/understanding-the-calendar/issue-revoke-a-marketing-calendar-license.md)가 있는지 확인하십시오. 그렇지 않으면 마케팅 달력 타일이 내 Marketo에 표시되지 않습니다.
 
 1. **마케팅 달력**&#x200B;으로 이동합니다.
 
    ![](assets/2017-05-10-15-30-47.png)
 
-1. Marketing 인스턴스에 예약된 자산의 조감도입니다.
+1. Marketo 인스턴스에 예약된 에셋의 전체 보기입니다.
 
    ![](assets/image2014-9-15-16-3a44-3a22.png)
 
