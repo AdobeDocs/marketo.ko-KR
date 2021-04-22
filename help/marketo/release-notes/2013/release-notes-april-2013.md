@@ -1,15 +1,15 @@
 ---
 unique-page-id: 2951099
-description: 릴리스 노트 - 2013년 4월 - Marketing Docs - 제품 설명서
+description: 릴리스 노트 - 2013년 4월 - Marketo 문서 - 제품 설명서
 title: 릴리스 노트 - 2013년 4월
+exl-id: 5b202877-b501-4cd2-9fe2-e8663dd5792f
 translation-type: tm+mt
-source-git-commit: 029d8b419ba5078980b4fde9890bdb35194bf264
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '208'
 ht-degree: 0%
 
 ---
-
 
 # 릴리스 노트:2013년 4월 {#release-notes-april}
 
@@ -17,13 +17,13 @@ ht-degree: 0%
 
 ## 상자 통합 {#box-integration}
 
-Box 계정과 Marketing Cloud를 연결하여 디자인 스튜디오에 파일을 쉽게 복사할 수 있습니다.
+Box 계정과 Marketo을 연결하여 디자인 스튜디오에 파일을 손쉽게 복사할 수 있습니다.
 
 ![](assets/image2014-9-22-15-3a47-3a56.png)
 
 ## Gmail 플러그인 {#gmail-plugin}
 
-Marketing to Sales Insight와 Gmail을 사용하는 경우 Chrome 스토어를 통해 새로운 Gmail 플러그인을 설치할 수 있습니다. 이 플러그인을 사용하면 Marketing To로 메시지를 기록하고, Marketing To 이메일 템플릿을 로드하고, Marketing To 추적 기능과 함께 메시지를 보낼 수 있습니다.
+Gmail과 Marketo Sales Insight를 함께 사용하는 경우 Chrome Store를 통해 새로운 Gmail 플러그인을 설치할 수 있습니다. 이 플러그인을 사용하면 Marketo으로 메시지를 기록하고, Marketo 이메일 템플릿을 로드하고, Marketo 추적 기능을 사용하여 메시지를 보낼 수 있습니다.
 
 ![](assets/image2014-9-22-15-3a48-3a57.png)
 
@@ -41,4 +41,4 @@ Marketing to Sales Insight와 Gmail을 사용하는 경우 Chrome 스토어를 �
 
 ## ON24 개선 사항 {#on-enhancement}
 
-Job Title 및 Company Name은 Marketing To 등록 양식에서 ON24와 동기화됩니다.
+Job Title 및 Company Name은 Marketo 등록 양식에서 ON24와 동기화됩니다.
