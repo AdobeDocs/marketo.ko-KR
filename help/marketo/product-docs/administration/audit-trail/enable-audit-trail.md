@@ -1,15 +1,15 @@
 ---
 unique-page-id: 11382122
-description: 감사 추적 활성화 - 마케팅 문서 - 제품 설명서
+description: 감사 추적 활성화 - Marketo 문서 - 제품 설명서
 title: 감사 추적 활성화
+exl-id: 3ab2d7b2-1be1-4b3f-a9cc-d3edfa963679
 translation-type: tm+mt
-source-git-commit: 78961a3e163ce903facf955a9dda6909b5e85bad
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '245'
 ht-degree: 0%
 
 ---
-
 
 # 감사 추적 사용 {#enable-audit-trail}
 
