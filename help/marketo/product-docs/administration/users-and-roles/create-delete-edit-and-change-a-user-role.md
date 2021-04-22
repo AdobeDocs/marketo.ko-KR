@@ -1,19 +1,19 @@
 ---
 unique-page-id: 2360198
-description: 사용자 역할 만들기, 삭제, 편집 및 변경 - 마케팅 문서 - 제품 설명서
+description: 사용자 역할 만들기, 삭제, 편집 및 변경 - Marketo 문서 - 제품 설명서
 title: 사용자 역할 만들기, 삭제, 편집 및 변경
+exl-id: e5bb3184-32a6-4c5b-9d84-f3252ba5f73c
 translation-type: tm+mt
-source-git-commit: f79909ce8f2e37bf0748596774fe47ac03618696
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '267'
 ht-degree: 0%
 
 ---
 
-
 # 사용자 역할 만들기, 삭제, 편집 및 변경 {#create-delete-edit-and-change-a-user-role}
 
-**여러** 권한 그룹을 취합합니다. **권한** 을 통해 Marketing Cloud에서 작업을 수행할 수 있습니다. **역할**&#x200B;을 사용자에게 할당합니다. 간편하게
+**여러** 권한 그룹을 취합합니다. **권한** 을 통해 Marketo에서 작업을 수행할 수 있습니다. **역할**&#x200B;을 사용자에게 할당합니다. 간편하게
 
 >[!NOTE]
 >
@@ -97,4 +97,4 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->여러 역할을 선택한 상태로 두면 Marketing To는 기본적으로 가장 제한적인 권한을 가집니다.
+>여러 역할을 선택한 상태로 두면 Marketo은 기본적으로 가장 제한적인 권한을 가집니다.
