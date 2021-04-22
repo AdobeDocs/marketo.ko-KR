@@ -1,19 +1,19 @@
 ---
 unique-page-id: 8782024
-description: 마케팅 문서 다운로드 - 마케팅 문서 - 제품 설명서
-title: 마케팅 대상 클릭 수 다운로드
+description: Marketo Moment 다운로드 - Marketo 문서 - 제품 설명서
+title: Marketo Moment 다운로드
+exl-id: ccd8cb58-f2ae-478d-a3c4-fbc713e3c22a
 translation-type: tm+mt
-source-git-commit: e5050328cbddaf072dd60ddd8d7363a704e720b5
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '107'
 ht-degree: 0%
 
 ---
 
+# Marketo Moment 다운로드 중 {#downloading-marketo-moments}
 
-# 마커 다운로드 시간 {#downloading-marketo-moments}
-
-App Store 또는 Google Play에서 Marketing To Moment를 다운로드하고 Voila! 마케팅 마법을 사용한 마케팅
+App Store 또는 Google Play에서 Marketo Moment를 다운로드하고 Voila! 모바일 디바이스에서 Marketo 기능 활용
 
 ## iPhone {#for-iphone}의 경우
 
@@ -21,7 +21,7 @@ App Store 또는 Google Play에서 Marketing To Moment를 다운로드하고 Voi
 
    ![](assets/image2015-7-15-14-3a52-3a13.png)
 
-1. 마케팅 순간을 검색하고 선택합니다.
+1. Marketo 모멘트를 검색하고 선택합니다.
 
    ![](assets/image2015-7-7-17-3a19-3a7.png)
 
@@ -33,7 +33,7 @@ App Store 또는 Google Play에서 Marketing To Moment를 다운로드하고 Voi
 
 1. [Google Play](https://play.google.com/store?hl=en)로 이동합니다.
 
-1. Marketing To Moment를 검색하고 을 눌러 다운로드합니다.
+1. Marketo 모멘트를 검색하고 을 탭하여 다운로드합니다.
 
    ![](assets/image2015-7-14-9-3a6-3a34.png)
 
@@ -49,10 +49,10 @@ App Store 또는 Google Play에서 Marketing To Moment를 다운로드하고 Voi
 
 >[!NOTE]
 >
->일반적인 Marketing To 로그인 및 암호로 로그인합니다.
+>일반적인 Marketo 로그인 및 암호로 로그인합니다.
 >
->SAML(Security Assertion Markup Language)의 SSO(Single Sign-On)는 마케팅 단계에서 지원되지 않습니다.
+>SAML(Security Assertion Markup Language)의 SSO(Single Sign-On)는 Marketo Moment에서 지원되지 않습니다.
 
 >[!MORELIKETHIS]
 >
->[마케팅을 위한 고객 의견 이해](/help/marketo/product-docs/core-marketo-concepts/mobile-apps/marketo-moments/understanding-moments/understanding-marketo-moments.md)
+>[Marketo 모멘트 이해](/help/marketo/product-docs/core-marketo-concepts/mobile-apps/marketo-moments/understanding-moments/understanding-marketo-moments.md)
