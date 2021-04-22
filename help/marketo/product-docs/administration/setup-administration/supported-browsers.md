@@ -1,19 +1,19 @@
 ---
 unique-page-id: 2359893
-description: 지원되는 브라우저 - 마케팅 문서 - 제품 설명서
+description: 지원되는 브라우저 - Marketo 문서 - 제품 설명서
 title: 지원되는 브라우저
+exl-id: 58c35407-ddc5-4932-9853-aeb4d47bab7f
 translation-type: tm+mt
-source-git-commit: 78961a3e163ce903facf955a9dda6909b5e85bad
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '59'
 ht-degree: 0%
 
 ---
 
-
 # 지원되는 브라우저 {#supported-browsers}
 
-Marketing에서는 현재 다음 브라우저를 지원합니다.
+Marketo은 현재 다음 브라우저를 지원합니다.
 
 | 브라우저 | 지원되는 버전 |
 |---|---|
