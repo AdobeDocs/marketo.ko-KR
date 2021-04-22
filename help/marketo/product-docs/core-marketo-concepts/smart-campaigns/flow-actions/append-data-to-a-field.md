@@ -1,15 +1,15 @@
 ---
 unique-page-id: 1147042
-description: 필드에 데이터 추가 - 마케팅 문서 - 제품 설명서
+description: 필드에 데이터 추가 - Marketo 문서 - 제품 설명서
 title: 필드에 데이터 추가
+exl-id: 62d68efd-b2df-48bd-925e-f9a95907f33c
 translation-type: tm+mt
-source-git-commit: 9f88e7cebc5e9d0d4491d65d332ccfdd9a31c395
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '109'
 ht-degree: 0%
 
 ---
-
 
 # {#append-data-to-a-field} 필드에 데이터 추가
 
