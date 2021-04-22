@@ -1,19 +1,19 @@
 ---
 unique-page-id: 1147112
-description: 태그 이해 - 마케팅 문서 - 제품 문서
+description: 태그 이해 - Marketo 문서 - 제품 설명서
 title: 태그 이해
+exl-id: af74aec2-096f-489f-adf8-388da3867fae
 translation-type: tm+mt
-source-git-commit: 07f713ece9832b7696451001f61c6a3b45b4a94a
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '167'
 ht-degree: 0%
 
 ---
 
-
 # 태그 {#understanding-tags} 이해
 
-아마 지금 까지 프로그램은 Marketing의 빌딩 블록과 같다는 것을 알고 있을 것입니다. 태그와 채널을 활용하면 보고용 데이터를 필터링하는 데 도움이 됩니다.
+여러분은 아마 지금쯤이면 프로그램이 Marketo의 빌딩 블록과 같다는 것을 알고 있을 것이다. 태그와 채널을 활용하면 보고용 데이터를 필터링하는 데 도움이 됩니다.
 
 태그는 프로그램을 설명하는 데 사용됩니다. 각 값은 필요한 만큼 만들 수 있습니다. 채널은 웨비나, 스폰서 또는 온라인 광고와 같은 프로그램의 전달 메커니즘을 식별합니다.
 
@@ -23,7 +23,7 @@ ht-degree: 0%
 
 >[!TIP]
 >
->사용자 지정 태그를 만들려면 [마케팅 관리자](/help/marketo/product-docs/administration/tags/create-custom-tags.md)에게 문의하십시오.
+>사용자 지정 태그를 만들려면 [Marketo Admin](/help/marketo/product-docs/administration/tags/create-custom-tags.md)에 문의하십시오.
 
 >[!NOTE]
 >
