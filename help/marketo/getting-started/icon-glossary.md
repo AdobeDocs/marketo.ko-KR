@@ -1,19 +1,19 @@
 ---
 unique-page-id: 4720476
-description: 아이콘 용어 - Marketing Docs - 제품 설명서
+description: 아이콘 용어집 - Marketo 문서 - 제품 설명서
 title: 아이콘 용어
+exl-id: 478f9d91-07bf-46b6-927f-b020653a2fcb
 translation-type: tm+mt
-source-git-commit: d1d74e24c07578b1b0c2696c08fe5a5be543cce8
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '568'
 ht-degree: 0%
 
 ---
 
-
 # 아이콘 용어집 {#icon-glossary}
 
-다음은 Marketing To Classic의 아이콘입니다. 새 Marketo Engage 인터페이스로 전환된 경우 아이콘 용어집 [은(는) ](/help/marketo/product-docs/marketo-engage-next-generation-experience/new-icon-glossary.md)에서 찾을 수 있습니다.
+다음은 Marketo Classic의 아이콘입니다. 새 Marketo Engage 인터페이스로 전환된 경우 아이콘 용어집 [은(는) ](/help/marketo/product-docs/marketo-engage-next-generation-experience/new-icon-glossary.md)에서 찾을 수 있습니다.
 
 **일반 아이콘**
 
@@ -137,7 +137,7 @@ ht-degree: 0%
     <div> 
      <img src="assets/image2015-1-9-10-3a52-3a30.png"> 
     </div></td> 
-   <td>마케팅 정보</td> 
+   <td>Marketo 정보</td> 
   </tr> 
  </tbody> 
 </table>
@@ -383,7 +383,7 @@ ht-degree: 0%
     <div> 
      <img src="assets/image2015-1-5-11-3a12-3a45.png"> 
     </div></td> 
-   <td>요청된 스마트 캠페인(Sales Insight 또는 Marketing To Flow Action)</td> 
+   <td>요청된 스마트 캠페인(Sales Insight 또는 Marketo Flow Action)</td> 
   </tr> 
   <tr> 
    <td> 
@@ -723,7 +723,7 @@ ht-degree: 0%
     <div> 
      <img src="assets/image2015-1-12-10-3a59-3a48.png"> 
     </div></td> 
-   <td>Facebook에 게시</td> 
+   <td>facebook에 게시</td> 
   </tr> 
   <tr> 
    <td> 
@@ -1205,4 +1205,3 @@ ht-degree: 0%
   </tr> 
  </tbody> 
 </table>
-
