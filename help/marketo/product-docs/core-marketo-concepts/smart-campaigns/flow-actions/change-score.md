@@ -1,15 +1,15 @@
 ---
 unique-page-id: 1146962
-description: 점수 변경 - 마케팅 문서 - 제품 설명서
+description: 점수 변경 - Marketo 문서 - 제품 설명서
 title: 점수 변경
+exl-id: bba77aa1-40ab-40e5-ad43-f8cf0b235d3b
 translation-type: tm+mt
-source-git-commit: 4a0bd2efe99284807a46d07ffef0070d9a303631
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '94'
 ht-degree: 0%
 
 ---
-
 
 # 점수 변경 {#change-score}
 
@@ -27,7 +27,7 @@ ht-degree: 0%
 
    >[!TIP]
    >
-   >여러 점수 필드를 만들 수 있습니다. 자세한 내용은 [Marketing](/help/marketo/product-docs/administration/field-management/create-a-custom-field-in-marketo.md)에서 사용자 정의 필드 만들기를 참조하십시오.
+   >여러 점수 필드를 만들 수 있습니다. 자세한 내용은 Marketo](/help/marketo/product-docs/administration/field-management/create-a-custom-field-in-marketo.md)에서 [사용자 정의 필드 만들기를 참조하십시오.
 
 1. 원하는 점수 변경을 입력합니다.
 
