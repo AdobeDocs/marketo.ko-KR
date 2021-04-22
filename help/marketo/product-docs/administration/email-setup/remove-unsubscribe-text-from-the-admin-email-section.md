@@ -1,15 +1,15 @@
 ---
 unique-page-id: 2360245
-description: 관리 이메일 섹션 - 마케팅 문서 - 제품 문서에서 구독 취소 텍스트 제거
+description: 관리 이메일 섹션 - Marketo 문서 - 제품 문서에서 구독 취소 텍스트 제거
 title: 관리 이메일 섹션에서 구독 취소 텍스트 제거
+exl-id: 2961a9b6-8b35-4227-bf8a-a07b2664a6c4
 translation-type: tm+mt
-source-git-commit: f865630638e7c0fe6ac2a449e196a7de4fbfeea1
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '164'
 ht-degree: 0%
 
 ---
-
 
 # 관리 이메일 섹션 {#remove-unsubscribe-text-from-the-admin-email-section}에서 구독 취소 텍스트 제거
 
