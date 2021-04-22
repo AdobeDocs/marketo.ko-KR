@@ -1,19 +1,19 @@
 ---
 unique-page-id: 11384018
-description: 릴리스 노트 -16년 가을 - Marketing To Docs - 제품 설명서
+description: 릴리스 노트 -16년 가을 - Marketo 문서 - 제품 설명서
 title: 릴리스 노트 -16년 가을
+exl-id: da935951-162e-426c-acf2-12c55ff706b4
 translation-type: tm+mt
-source-git-commit: 029d8b419ba5078980b4fde9890bdb35194bf264
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '683'
 ht-degree: 0%
 
 ---
 
-
 # 릴리스 노트:16년 가을 {#release-notes-fall}
 
-다음 기능은 16년 가을 릴리스에 포함되어 있습니다. 기능 가용성을 확인하려면 Marketing Edition을 확인하십시오. 각 기능에 대한 자세한 아티클을 보려면 제목 링크를 클릭하십시오.
+다음 기능은 16년 가을 릴리스에 포함되어 있습니다. 기능을 사용할 수 있는지 Marketo 에디션을 확인하십시오. 각 기능에 대한 자세한 아티클을 보려면 제목 링크를 클릭하십시오.
 
 ## 이메일 {#predictive-content-in-email}의 예측 컨텐츠
 
@@ -31,21 +31,21 @@ Adobe의 예측 컨텐츠 애플리케이션이 웹 및 이메일 채널에서 �
 
 ## [Facebook 오프라인 전환](/help/marketo/product-docs/demand-generation/facebook/understanding-facebook-offline-conversions.md) {#facebook-offline-conversions}
 
-Facebook 오프라인 전환 통합을 통해 광고 팀이 광고 비용을 보다 효과적으로 최적화할 수 있도록 마케터(리드 광고 리드의 경우)의 전환 데이터가 자동으로 Facebook으로 전송됩니다. 이 Facebook 광고 관리자 보고서에서 오프라인 전환이 강조 표시됩니다.
+facebook 오프라인 전환 통합을 통해 Marketo(리드 광고 리드)의 전환 데이터는 Facebook으로 자동 전송되므로 광고 팀은 광고 비용을 보다 효과적으로 최적화할 수 있습니다. 이 Facebook 광고 관리자 보고서에서 오프라인 전환이 강조 표시됩니다.
 
 ![](assets/facebook.png)
 
 ## [범용 ID](/help/marketo/product-docs/administration/settings/using-a-universal-id-for-subscription-login.md) {#universal-id}
 
-유니버설 ID를 사용하면 단일 로그인을 통해 여러 Marketing To 구독에 액세스하고 구독 간을 빠르게 전환할 수 있습니다. 모든 구독에 단일 커뮤니티 프로필을 사용할 수 있습니다.
+유니버설 ID를 사용하면 단일 로그인을 통해 여러 Marketo 구독에 액세스할 수 있고 구독 간을 빠르게 전환할 수 있습니다. 모든 구독에 단일 커뮤니티 프로필을 사용할 수 있습니다.
 
 ![](assets/image2016-11-3-15-3a10-3a16.png)
 
 >[!NOTE]
 >
->이 기능을 활성화하려면 마케팅 지원 센터에 문의하십시오.
+>이 기능을 활성화하려면 Marketo 지원 센터에 문의하십시오.
 
-## 마케팅 계정 기반 마케팅 개선 사항 {#marketo-account-based-marketing-enhancements}
+## Marketo 계정 기반 마케팅 개선 사항 {#marketo-account-based-marketing-enhancements}
 
 이제 계정 담당자, 영업 개발 담당자, 비즈니스 개발 담당자, 고객 성공 관리자와 같은 ABM(Account Based Marketing)의 지정된 계정에 계정 팀을 할당할 수 있습니다. 계정 소유자별 계정 목록을 작성하고 개인화된 주별 ABM 보고서를 계정 팀에 보낼 수도 있습니다.
 
@@ -53,11 +53,11 @@ Facebook 오프라인 전환 통합을 통해 광고 팀이 광고 비용을 보
 
 **REST API**
 
-또한 이 릴리스에서는 Marketing to REST API를 사용하여 ABM에서 지정된 계정 속성 및 계정 점수를 관리할 수 있습니다. API 작업에 대한 자세한 내용은 [Marketing Developers 웹 사이트](https://developers.marketo.com/rest-api/lead-database/named-accounts)를 참조하십시오.
+또한 이 릴리스를 통해 Marketo REST API를 사용하여 ABM에서 지정된 계정 속성 및 계정 점수를 관리할 수 있습니다. API 작업에 대한 자세한 내용은 [Marketo 개발자 웹 사이트](https://developers.marketo.com/rest-api/lead-database/named-accounts)를 참조하십시오.
 
 ## [감사 추적 개선 사항](/help/marketo/product-docs/administration/audit-trail/change-details-in-audit-trail.md) {#audit-trail-enhancements}
 
-감사 추적은 Marketing To 구독 내에서 수행된 변경 사항의 포괄적인 내역을 제공합니다. 스마트 캠페인, 스마트 목록 및 사용자 및 역할에 대한 변경 사항에 대한 중요 변경 사항을 표시하는 것은 물론 프로그램에 대한 추가 추적 기능을 추가했습니다.
+감사 추적은 Marketo 구독 내에서 수행된 변경 사항의 포괄적인 내역을 제공합니다. 스마트 캠페인, 스마트 목록 및 사용자 및 역할에 대한 변경 사항에 대한 중요 변경 사항을 표시하는 것은 물론 프로그램에 대한 추가 추적 기능을 추가했습니다.
 
 ## [새 권한](/help/marketo/product-docs/administration/users-and-roles/managing-user-roles-and-permissions/descriptions-of-role-permissions.md) {#new-permissions}
 
@@ -87,12 +87,12 @@ Market Sales Insight는 이제 Salesforce Shield Encryption과 호환됩니다. 
 
 ## [명명된 계정 API](https://developers.marketo.com/rest-api/lead-database/named-accounts/) {#named-accounts-apis}
 
-이번 릴리스를 통해 Marketing ABM 사용자는 명명 계정 API를 통해 지정된 계정을 관리할 수 있습니다. 사용자는 지정된 계정을 만들고 업데이트 및 삭제할 수 있을 뿐만 아니라 ABM 명명 계정 점수를 읽고 업데이트할 수 있습니다.
+이번 릴리스를 통해 Marketo ABM 사용자는 명명 계정 API를 통해 지정된 계정을 관리할 수 있습니다. 사용자는 지정된 계정을 만들고 업데이트 및 삭제할 수 있을 뿐만 아니라 ABM 명명 계정 점수를 읽고 업데이트할 수 있습니다.
 
 ## [이메일 편집기 v2.0 API 지원](https://developers.marketo.com/rest-api/assets/emails/) {#email-editor-v-api-support}
 
-Marketing to REST API를 사용하여 v2.0 형식의 이메일에 대한 변수 및 모듈을 관리합니다.
+Marketo REST API를 사용하여 v2.0 형식의 이메일에 대한 변수 및 모듈을 관리할 수 있습니다.
 
-## [Marketing To Salesforce 동기화 변경 사항](https://nation.marketo.com/docs/DOC-3840) {#changes-to-marketo-salesforce-sync}
+## [Marketo Salesforce 동기화 변경 사항](https://nation.marketo.com/docs/DOC-3840) {#changes-to-marketo-salesforce-sync}
 
-Marketing To 필드가 Salesforce와 동기화되는 방식을 개선하기 위해 Marketing의 Salesforce 통합이 진화하고 있습니다. 필요할 수도 있고 그렇지 않을 수도 있는 대규모 필드 그룹을 동기화하지 않고도 포함할 필드를 선택하고 선택할 수 있습니다. 자세한 내용은 설명서를 참조하십시오.[https://nation.marketo.com/docs/DOC-3840](https://nation.marketo.com/docs/DOC-3840).
+Marketo의 Salesforce 통합은 Marketo 필드를 Salesforce와 동기화하는 방법을 개선하기 위해 진화하고 있습니다. 필요할 수도 있고 그렇지 않을 수도 있는 대규모 필드 그룹을 동기화하지 않고도 포함할 필드를 선택하고 선택할 수 있습니다. 자세한 내용은 설명서를 참조하십시오.[https://nation.marketo.com/docs/DOC-3840](https://nation.marketo.com/docs/DOC-3840).
