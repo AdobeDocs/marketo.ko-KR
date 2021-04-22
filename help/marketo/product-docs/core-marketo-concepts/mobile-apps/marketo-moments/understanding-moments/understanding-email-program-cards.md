@@ -1,19 +1,19 @@
 ---
 unique-page-id: 8781911
-description: 이메일 프로그램 카드 이해 - 마케팅 문서 - 제품 설명서
+description: 이메일 프로그램 카드 이해 - Marketo 문서 - 제품 설명서
 title: 이메일 프로그램 카드 이해
+exl-id: c9de8334-4c42-44e4-aa73-9e82f25e5f00
 translation-type: tm+mt
-source-git-commit: e5050328cbddaf072dd60ddd8d7363a704e720b5
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '310'
 ht-degree: 0%
 
 ---
 
-
 # 이메일 프로그램 카드 이해 {#understanding-email-program-cards}
 
-Marketing To Mo멘트를 사용하여 스마트폰 또는 iPad에서 이메일 프로그램을 볼 수 있습니다.
+스마트폰 또는 iPad에서 Marketo Moment를 사용하여 이메일 프로그램을 볼 수 있습니다.
 
 ## 이메일 프로그램 카드 {#email-program-cards}
 
@@ -23,7 +23,7 @@ Marketing To Mo멘트를 사용하여 스마트폰 또는 iPad에서 이메일 �
 * [완료 상태로 이메일 표시](/help/marketo/product-docs/core-marketo-concepts/mobile-apps/marketo-moments/working-with-moments/marking-it-done.md)
 * [이메일 모멘트 카드 공유](/help/marketo/product-docs/core-marketo-concepts/mobile-apps/marketo-moments/working-with-moments/sharing-a-moment.md)
 
-아직 전송되지 않은 이메일의 이메일 프로그램 카드에서 이메일 프로그램의 상태 및 대상자에 대한 정보를 확인할 수 있습니다.
+아직 전송되지 않은 이메일의 이메일 프로그램 카드에서 해당 이메일 프로그램의 상태 및 대상자에 대한 정보를 확인할 수 있습니다.
 
 ![](assets/image2015-7-2-9-3a33-3a47.png)
 
@@ -115,7 +115,7 @@ Marketing To Mo멘트를 사용하여 스마트폰 또는 iPad에서 이메일 �
 
 >[!MORELIKETHIS]
 >
->* [마케팅을 위한 고객 의견 이해](/help/marketo/product-docs/core-marketo-concepts/mobile-apps/marketo-moments/understanding-moments/understanding-marketo-moments.md)
+>* [Marketo 모멘트 이해](/help/marketo/product-docs/core-marketo-concepts/mobile-apps/marketo-moments/understanding-moments/understanding-marketo-moments.md)
 >* [이벤트 카드 이해](/help/marketo/product-docs/core-marketo-concepts/mobile-apps/marketo-moments/understanding-moments/understanding-event-cards.md)
 >* [분석 카드 이해](/help/marketo/product-docs/core-marketo-concepts/mobile-apps/marketo-moments/understanding-moments/understanding-analytics-cards.md)
 
