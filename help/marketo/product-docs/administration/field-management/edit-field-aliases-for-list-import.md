@@ -1,15 +1,15 @@
 ---
 unique-page-id: 2360346
-description: 목록 가져오기에 대한 필드 별칭 편집 - 마케팅 문서 - 제품 설명서
+description: 목록 가져오기에 대한 필드 별칭 편집 - Marketo 문서 - 제품 설명서
 title: 목록 가져오기에 대한 필드 별칭 편집
+exl-id: 0cc2f4c8-6858-4b41-bae3-4a8d267efe88
 translation-type: tm+mt
-source-git-commit: f865630638e7c0fe6ac2a449e196a7de4fbfeea1
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '128'
 ht-degree: 0%
 
 ---
-
 
 # 목록 가져오기에 대한 필드 별칭 편집 {#edit-field-aliases-for-list-import}
 
@@ -39,6 +39,6 @@ ht-degree: 0%
 >
 >**다른 별칭 추가**&#x200B;를 클릭하고 필요한 경우 별칭을 더 입력합니다.
 
-이것 좀 봐! 이제 &quot;DOB&quot;라는 열이 있는 스프레드시트를 가져오면 Marketing에서 이 스프레드시트를 &quot;생년월일&quot;으로 자동으로 인식하고 데이터를 올바른 필드로 가져옵니다.
+이것 좀 봐! 이제 &quot;DOB&quot;라는 열이 있는 스프레드시트를 가져오면 Marketo은 이 스프레드시트를 자동으로 &quot;생년월일&quot;로 인식하고 데이터를 올바른 필드로 가져옵니다.
 
 ![](assets/image2014-9-19-9-3a57-3a20.png)
