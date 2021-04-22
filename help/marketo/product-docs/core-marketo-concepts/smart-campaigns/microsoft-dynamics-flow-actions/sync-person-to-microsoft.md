@@ -1,23 +1,23 @@
 ---
 unique-page-id: 7514027
-description: Microsoft에 사람 동기화 - Marketing To Docs - 제품 설명서
+description: Microsoft에 사람 동기화 - Marketo 문서 - 제품 설명서
 title: Microsoft에 사람 동기화
+exl-id: cc6f1c03-ba74-418c-95d5-fb073a248379
 translation-type: tm+mt
-source-git-commit: 5b9f48c98464c79bcdca2e335f6a4a2edce98ce4
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '75'
 ht-degree: 0%
 
 ---
 
-
 # Microsoft {#sync-person-to-microsoft}에 사람 동기화
 
-이 기능은 Marketing To를 Microsoft Dynamics와 통합한 사용자에게만 제공됩니다.
+이 기능은 Marketo과 Microsoft Dynamics를 통합하는 사용자에게만 제공됩니다.
 
 ## 개요 {#overview}
 
-이 흐름 단계는 Dynamics CRM에 Marketing-to에서 만든 사람을 삽입합니다.
+이 흐름 단계에서는 Marketo에서 만든 사람을 Dynamics CRM에 삽입합니다.
 
 ![](assets/one.png)
 
