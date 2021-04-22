@@ -1,15 +1,15 @@
 ---
 unique-page-id: 1147247
-description: 사용자 지정 항목 유형 숨기기 및 숨김 취소 - 마케팅 문서 - 제품 설명서
+description: 사용자 정의 항목 유형 숨기기 및 숨김 취소 - Marketo 문서 - 제품 설명서
 title: 사용자 정의 항목 유형 숨기기 및 숨김 취소
+exl-id: 3e41b47d-86dd-4fb3-ab87-0be0b534fc0a
 translation-type: tm+mt
-source-git-commit: e5050328cbddaf072dd60ddd8d7363a704e720b5
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '109'
 ht-degree: 0%
 
 ---
-
 
 # 사용자 지정 항목 유형 숨기기 및 숨김 취소 {#hiding-and-unhiding-custom-entry-types}
 
