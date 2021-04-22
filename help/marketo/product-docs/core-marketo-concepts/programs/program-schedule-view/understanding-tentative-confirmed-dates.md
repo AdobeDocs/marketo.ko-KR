@@ -1,15 +1,15 @@
 ---
 unique-page-id: 1147140
-description: 임시/확인된 날짜 이해 - 마케팅 문서 - 제품 문서
+description: 임시/확인된 날짜 이해 - Marketo 문서 - 제품 문서
 title: 임시/확정 날짜 이해
+exl-id: af6b907f-e4d8-432f-b1da-dd7c04376ba8
 translation-type: tm+mt
-source-git-commit: e5050328cbddaf072dd60ddd8d7363a704e720b5
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '210'
 ht-degree: 0%
 
 ---
-
 
 # 미정/확정 날짜 이해 {#understanding-tentative-confirmed-dates}
 
