@@ -1,15 +1,15 @@
 ---
 unique-page-id: 1147025
-description: 스마트 캠페인에서 웹 후크 사용 - 마케팅 문서 - 제품 설명서
+description: 스마트 캠페인에서 웹 후크 사용 - Marketo 문서 - 제품 설명서
 title: 스마트 캠페인에서 웹 후크 사용
+exl-id: 19dcc469-288d-4bfb-92e1-3e8db75588a6
 translation-type: tm+mt
-source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '105'
 ht-degree: 0%
 
 ---
-
 
 # 스마트 캠페인 {#use-a-webhook-in-a-smart-campaign}에서 웹 후크 사용
 
