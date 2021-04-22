@@ -1,19 +1,19 @@
 ---
 unique-page-id: 2953471
-description: SFDC 동기화 - 사용자 정의 개체 동기화 - Marketing To Docs - 제품 설명서
+description: SFDC 동기화 - 사용자 정의 개체 동기화 - Marketo 문서 - 제품 설명서
 title: SFDC 동기화 - 사용자 정의 개체 동기화
+exl-id: e491e0bc-04a9-4e78-97c3-a25b945d546a
 translation-type: tm+mt
-source-git-commit: ed83438ae5660d172e845f25c4d72d599574bd91
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '214'
 ht-degree: 0%
 
 ---
 
-
 # SFDC 동기화:사용자 지정 개체 동기화 {#sfdc-sync-custom-object-sync}
 
-Salesforce 인스턴스에서 만든 사용자 정의 개체는 Marketing To의 일부일 수 있습니다.  설정 방법
+Salesforce 인스턴스에서 만든 사용자 정의 개체도 Marketo의 일부일 수 있습니다.  설정 방법
 
 >[!NOTE]
 >
@@ -49,7 +49,7 @@ Salesforce 인스턴스에서 만든 사용자 정의 개체는 Marketing To의 
 
    >[!NOTE]
    >
-   >사용자 지정 객체에는 고유한 이름이 있어야 합니다. Marketing에서는 이름이 같은 서로 다른 두 사용자 지정 개체를 지원하지 않습니다.
+   >사용자 지정 객체에는 고유한 이름이 있어야 합니다. Marketo에서는 이름이 같은 서로 다른 두 사용자 정의 개체를 지원하지 않습니다.
 
 1. **동기화 활성화**&#x200B;를 클릭합니다.
 
@@ -77,7 +77,7 @@ Salesforce 인스턴스에서 만든 사용자 정의 개체는 Marketing To의 
 
    >[!NOTE]
    >
-   >Marketing은 하나 또는 두 수준 깊이 표준 엔티티에 연결된 사용자 지정 엔티티만 지원합니다.
+   >Marketo은 하나 또는 두 수준 깊이 표준 엔티티에 연결된 맞춤형 엔티티만 지원합니다.
 
 ### 다음 기능:{#whats-next}
 
