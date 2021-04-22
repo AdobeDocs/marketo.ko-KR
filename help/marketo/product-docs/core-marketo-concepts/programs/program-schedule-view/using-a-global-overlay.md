@@ -1,15 +1,15 @@
 ---
 unique-page-id: 1147249
-description: 글로벌 오버레이 사용 - 마케팅 문서 - 제품 설명서
+description: 글로벌 오버레이 사용 - Marketo 문서 - 제품 설명서
 title: 글로벌 오버레이 사용
+exl-id: b4e69f20-f1a7-43c4-92f7-e8802b4ce322
 translation-type: tm+mt
-source-git-commit: e5050328cbddaf072dd60ddd8d7363a704e720b5
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '149'
 ht-degree: 0%
 
 ---
-
 
 # 전역 오버레이 사용 {#using-a-global-overlay}
 
