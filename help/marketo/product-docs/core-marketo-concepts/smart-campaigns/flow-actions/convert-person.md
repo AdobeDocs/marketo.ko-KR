@@ -1,15 +1,15 @@
 ---
 unique-page-id: 1147019
-description: 인물 변환 - 마케팅 문서를 문서로 변환 - 제품 설명서
+description: Convert Person - Marketo Docs - 제품 설명서
 title: 개인 변환
+exl-id: b0ff0b63-a6a3-48c5-92ef-7ece5c182d28
 translation-type: tm+mt
-source-git-commit: 4a0bd2efe99284807a46d07ffef0070d9a303631
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '111'
 ht-degree: 0%
 
 ---
-
 
 # 인물 변환 {#convert-person}
 
@@ -31,7 +31,7 @@ ht-degree: 0%
 
    >[!CAUTION]
    >
-   >Marketing에서 사람을 전환하면 Salesforce에 새로운 계정과 기회가 생깁니다. 중복 계정을 원치 않는 경우 Salesforce를 사용하여 변환합니다.
+   >Marketo에서 사람을 전환하면 Salesforce에 새로운 계정과 기회가 생깁니다. 중복 계정을 원치 않는 경우 Salesforce를 사용하여 변환합니다.
 
 1. 소유자에게 **알림**&#x200B;을 전송할지 여부를 선택합니다.
 
