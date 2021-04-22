@@ -1,15 +1,15 @@
 ---
 unique-page-id: 1147120
-description: 스프레드시트의 멤버를 프로그램 - Marketing To Docs - 제품 문서로 가져오기
+description: 스프레드시트에서 프로그램으로 멤버 가져오기 - Marketo 문서 - 제품 설명서
 title: 스프레드시트에서 프로그램으로 멤버 가져오기
+exl-id: 09c597bb-d28a-463b-8340-ff22d2e0fa02
 translation-type: tm+mt
-source-git-commit: 07f713ece9832b7696451001f61c6a3b45b4a94a
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '163'
 ht-degree: 0%
 
 ---
-
 
 # 스프레드시트의 멤버를 프로그램 {#import-members-from-a-spreadsheet-into-a-program}으로 가져오기
 
@@ -25,7 +25,7 @@ ht-degree: 0%
    >
    >날짜를 날짜 필드로 가져올 때는 다음 형식을 사용하십시오.9/29/13(월/일/년).
 
-## CSV를 Marketing으로 {#import-your-csv-into-marketo} 가져오기
+## CSV를 Marketo {#import-your-csv-into-marketo}으로 가져오기
 
 1. 프로그램에서 **구성원** 섹션으로 이동합니다.
 
@@ -39,13 +39,13 @@ ht-degree: 0%
 
    ![](assets/importlist1.png)
 
-1. 목록의 데이터 값을 해당 마케팅 필드(Marketing To Fields)에 매핑하고 **다음**&#x200B;을 클릭합니다.
+1. 목록의 데이터 값을 해당 Marketo 필드에 매핑하고 **다음**&#x200B;을 클릭합니다.
 
    ![](assets/importlist12.png)
 
    >[!NOTE]
    >
-   >가져오지 않을 필드가 있으면 [Marketing To 필드] 드롭다운 메뉴에서 **IGNORE**&#x200B;을 선택합니다.
+   >가져오지 않을 필드가 있으면 Marketo 필드 드롭다운 메뉴에서 **IGNORE**&#x200B;을 선택합니다.
 
 1. 목록에 대해 **멤버 상태**&#x200B;를 선택합니다.
 
@@ -55,7 +55,7 @@ ht-degree: 0%
 
    ![](assets/image2014-9-18-15-3a44-3a19.png)
 
-1. Marketing To가 가져오기를 완료할 때까지 기다렸다가 확인 대화 상자를 닫습니다.
+1. Marketo에서 가져오기를 완료할 때까지 기다렸다가 확인 대화 상자를 닫습니다.
 
    ![](assets/image2014-9-18-15-3a44-3a37.png)
 
