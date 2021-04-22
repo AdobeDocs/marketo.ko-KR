@@ -1,19 +1,19 @@
 ---
 unique-page-id: 2360243
-description: 스마트 캠페인에 대한 사람 제한 사용 - 마케팅 문서 - 제품 설명서
+description: 스마트 캠페인에 대한 사용자 제한 사용 - Marketo 문서 - 제품 설명서
 title: 스마트 캠페인에 대한 사람 제한 사용
+exl-id: 45bdaf3f-874c-493f-9746-440f7703713c
 translation-type: tm+mt
-source-git-commit: f865630638e7c0fe6ac2a449e196a7de4fbfeea1
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '151'
 ht-degree: 0%
 
 ---
 
-
 # 스마트 캠페인 {#enable-person-restrictions-for-smart-campaigns} 개인 제한 활성화
 
-Marketing에 스마트 캠페인에 사용할 수 있는 최대 사용자 수 _최대_&#x200B;을(를) 제한하는 기능이 있습니다. 이로 인해 실수로 전체 데이터베이스를 이메일로 전송할 수 없습니다.
+Marketo에는 스마트 캠페인에 사용할 수 있는 최대 사용자 수 _최대_&#x200B;을 제한하는 기능이 있습니다. 이로 인해 실수로 전체 데이터베이스를 이메일로 전송할 수 없습니다.
 
 >[!NOTE]
 >
