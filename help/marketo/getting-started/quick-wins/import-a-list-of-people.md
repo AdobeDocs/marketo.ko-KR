@@ -1,15 +1,15 @@
 ---
 unique-page-id: 2359418
-description: 사람 목록 가져오기 - 마케팅 문서 - 제품 설명서
+description: 사람 목록 가져오기 - Marketo 문서 - 제품 설명서
 title: 사람 목록 가져오기
+exl-id: a85ec787-7b22-4666-84fd-d7bf23d32cd4
 translation-type: tm+mt
-source-git-commit: d7d6aee63144c472e02fe0221c4a164183d04dd4
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '496'
 ht-degree: 0%
 
 ---
-
 
 # 사람 목록 가져오기 {#import-a-list-of-people}
 
@@ -19,7 +19,7 @@ ht-degree: 0%
 >
 >[설정 및 사람 추가](/help/marketo/getting-started/quick-wins/get-set-up-and-add-a-person.md)
 
-이 자습서에서는 스프레드시트 파일의 사람을 Marketing To로 가져오는 방법을 알아봅니다.
+이 자습서에서는 스프레드시트 파일의 사람을 Marketo으로 가져오는 방법을 알아봅니다.
 
 ## 1단계:스프레드시트 다운로드 및 편집 {#step-download-and-edit-a-spreadsheet}
 
@@ -65,7 +65,7 @@ ht-degree: 0%
 >
 >이벤트 프로그램은 특정 날짜에 수행됩니다. [**이벤트**](/help/marketo/product-docs/demand-generation/events/understanding-events/understanding-event-programs.md)&#x200B;에 대해 자세히 알아보십시오.
 
-## 3단계:스프레드시트를 Marketing으로 {#step-import-your-spreadsheet-into-marketo} 가져오기
+## 3단계:스프레드시트를 Marketo {#step-import-your-spreadsheet-into-marketo}으로 가져오기
 
 1. **내 무역 박람회 프로그램**&#x200B;에서 **새로 만들기**&#x200B;를 클릭하고 **새 로컬 자산**&#x200B;을 선택합니다.
 
@@ -104,7 +104,7 @@ ht-degree: 0%
    > * 활동 로깅 건너뛰기
 
 
-1. 목록 열 필드를 해당 마케팅 대상 필드에 매핑하고 **다음**&#x200B;을 클릭합니다.
+1. 목록 열 필드를 해당 Marketo 필드에 매핑하고 **다음**&#x200B;을 클릭합니다.
 
    ![](assets/image2014-9-24-12-3a24-3a49.png)
 
@@ -114,7 +114,7 @@ ht-degree: 0%
 
    >[!NOTE]
    >
-   >가져오지 않을 필드가 있으면 [Marketing To 필드] 드롭다운 메뉴에서 **무시**&#x200B;를 선택합니다.
+   >가져오지 않을 필드가 있으면 Marketo 필드 드롭다운 메뉴에서 **무시**&#x200B;를 선택합니다.
 
 1. **획득 프로그램**&#x200B;에 대해 **내 무역 박람회 프로그램**&#x200B;을 선택한 다음 **가져오기**&#x200B;를 클릭합니다.
 
@@ -134,7 +134,7 @@ ht-degree: 0%
 
 ## 임무 완료 {#mission-complete}
 
-이제 잠재 고객이 마케팅 프로그램의 회원입니다!
+이제 무역 박람회 참석자가 Marketo 프로그램의 멤버입니다!
 
 <br> 
 
