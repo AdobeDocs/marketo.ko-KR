@@ -1,15 +1,15 @@
 ---
 unique-page-id: 1147051
-description: 스마트 캠페인 확인 목록 - 마케팅 문서 - 제품 설명서
+description: 스마트 캠페인 확인 목록 - Marketo 문서 - 제품 설명서
 title: 스마트 캠페인 확인 목록
+exl-id: 3c0d08c9-66ae-4083-ab0a-fa5a95149aba
 translation-type: tm+mt
-source-git-commit: 4a0bd2efe99284807a46d07ffef0070d9a303631
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '247'
 ht-degree: 0%
 
 ---
-
 
 # 스마트 캠페인 검사 목록 {#smart-campaign-checklist}
 
