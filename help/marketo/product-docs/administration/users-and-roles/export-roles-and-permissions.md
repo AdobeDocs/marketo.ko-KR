@@ -1,14 +1,14 @@
 ---
-description: 역할 및 권한 내보내기 - 마케팅 문서 - 제품 설명서
+description: 역할 및 권한 내보내기 - Marketo 문서 - 제품 설명서
 title: 역할 및 권한 내보내기
+exl-id: 2c3ee917-dc8c-40e1-a6e6-f6cb059963f6
 translation-type: tm+mt
-source-git-commit: 4a7aced48fde39a5bfbd5bef0c698211426a540c
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '86'
 ht-degree: 0%
 
 ---
-
 
 # 역할 및 권한 내보내기 {#export-roles-and-permissions}
 
@@ -18,7 +18,7 @@ ht-degree: 0%
 >
 >관리자 권한 필요
 
-1. 내 마켓플레이스에서 **관리**&#x200B;를 클릭합니다.
+1. 내 Marketo에서 **관리**&#x200B;를 클릭합니다.
 
    ![](assets/export-roles-and-permissions-1.png)
 
@@ -36,7 +36,7 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->브라우저가 Marketing To의 팝업을 차단하지 않는지 확인합니다.
+>브라우저가 Marketo의 팝업을 차단하지 않는지 확인합니다.
 
 데이터는 CSV로 내보내지고 역할, 권한 및 그룹당 활성화된 사용 권한 수 카운트가 포함됩니다.
 
