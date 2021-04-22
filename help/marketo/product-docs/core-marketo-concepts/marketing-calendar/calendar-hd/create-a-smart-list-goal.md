@@ -1,19 +1,19 @@
 ---
 unique-page-id: 7504128
-description: 스마트 목록 목표 만들기 - 마케팅 문서 - 제품 설명서
+description: 스마트 목록 목표 만들기 - Marketo 문서 - 제품 설명서
 title: 스마트 목록 목표 만들기
+exl-id: 3b6690b5-7dd1-46b2-b3f2-254439623f91
 translation-type: tm+mt
-source-git-commit: e5050328cbddaf072dd60ddd8d7363a704e720b5
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '144'
 ht-degree: 0%
 
 ---
 
-
 # 스마트 목록 목표 만들기 {#create-a-smart-list-goal}
 
-목표는 팀의 진도를 추적하고 동기를 부여하는 방법입니다. 스마트한 목록과 결합하여 Marketing To에서 모든 종류의 작업을 추적할 수 있습니다. 또한 스마트 목록 목표를 설정한 후에는 프레젠테이션에서 사용할 때마다 2시간마다 자동으로 업데이트됩니다.
+목표는 팀의 진도를 추적하고 동기를 부여하는 방법입니다. Marketo의 모든 것을 추적하기 위해 스마트 목록과 결합할 수 있습니다. 또한 스마트 목록 목표를 설정한 후에는 프레젠테이션에서 사용할 때마다 2시간마다 자동으로 업데이트됩니다.
 
 프레젠테이션과 마찬가지로 목표는 [작업 공간](/help/marketo/product-docs/administration/workspaces-and-person-partitions/understanding-workspaces-and-person-partitions.md) 특화 사항입니다.
 
