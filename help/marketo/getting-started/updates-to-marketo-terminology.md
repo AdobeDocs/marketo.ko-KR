@@ -1,7 +1,7 @@
 ---
 unique-page-id: 11387674
-description: 마케팅 용어 업데이트 - 마케팅 문서 - 제품 설명서
-title: 마케팅 용어 업데이트
+description: Marketo 용어 업데이트 - Marketo 문서 - 제품 설명서
+title: Marketo 용어 업데이트
 translation-type: tm+mt
 source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
 workflow-type: tm+mt
@@ -11,11 +11,11 @@ ht-degree: 0%
 ---
 
 
-# 마케팅 용어 업데이트 {#updates-to-marketo-terminology}
+# Marketo 용어 업데이트 {#updates-to-marketo-terminology}
 
-Adobe는 플랫폼을 일부 변경할 수 있으며, 이는 일부 기능을 사용할 수 있는 경우에 영향을 줄 것입니다. 2016년 3월 현재 새로운 Marketing To 인스턴스가 있거나 2016년 7월 이후 회사가 갱신된 경우, 이제 새로운 용어가 표시될 수 있습니다.
+Adobe는 플랫폼을 일부 변경할 수 있으며, 이는 일부 기능을 사용할 수 있는 경우에 영향을 줄 것입니다. 2016년 3월 현재 새로운 Marketo 인스턴스가 있거나 2016년 7월 이후 회사가 갱신된 경우, 현재 새로운 용어가 표시될 수 있습니다.
 
-Marketing 설명서에 다른 용어가 표시될 수 있지만 이러한 변경 사항을 반영하도록 모든 아티클이 곧 업데이트될 예정입니다. 모든 지침은 동일합니다.
+Marketo 설명서에서 서로 다른 용어가 표시될 수 있지만 이러한 변경 사항을 반영하도록 모든 문서가 곧 업데이트될 예정입니다. 모든 지침은 동일합니다.
 
 그래서, 무엇이 변경되었습니까?
 
