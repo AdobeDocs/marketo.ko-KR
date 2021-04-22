@@ -1,15 +1,15 @@
 ---
 unique-page-id: 1147296
-description: 마케팅 달력 - 마케팅 문서 - 제품 문서에서 필터 정의 저장
+description: 마케팅 달력에서 필터 정의 저장 - Marketo 문서 - 제품 설명서
 title: 마케팅 달력에서 필터 정의 저장
+exl-id: 66346207-6e8d-472d-971c-31417bd5210b
 translation-type: tm+mt
-source-git-commit: e5050328cbddaf072dd60ddd8d7363a704e720b5
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '87'
 ht-degree: 0%
 
 ---
-
 
 # 마케팅 달력 {#saving-a-filter-definition-in-the-marketing-calendar}에 필터 정의 저장
 
@@ -35,7 +35,7 @@ ht-degree: 0%
 
    ![](assets/image2014-9-24-10-3a51-3a12.png)
 
-   원할 경우 [정의의 복사본](/help/marketo/product-docs/core-marketo-concepts/marketing-calendar/working-with-the-calendar/sharing-a-filter-definition-in-the-marketing-calendar.md)을 다른 Marketing 사용자에게 보낼 수 있습니다.
+   원할 경우 [정의의 복사본](/help/marketo/product-docs/core-marketo-concepts/marketing-calendar/working-with-the-calendar/sharing-a-filter-definition-in-the-marketing-calendar.md)을 다른 Marketo 사용자에게 보낼 수 있습니다.
 
    >[!NOTE]
    >
