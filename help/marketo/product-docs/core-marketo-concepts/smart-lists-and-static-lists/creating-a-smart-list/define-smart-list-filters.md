@@ -1,15 +1,15 @@
 ---
 unique-page-id: 557316
-description: 스마트 목록 필터 정의 - 마케팅 문서 - 제품 설명서
+description: 스마트 목록 필터 정의 - Marketo 문서 - 제품 설명서
 title: 스마트 목록 필터 정의
+exl-id: ab08c5be-0afa-46d5-9f29-99e1f6b99dea
 translation-type: tm+mt
-source-git-commit: 5b9f48c98464c79bcdca2e335f6a4a2edce98ce4
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '138'
 ht-degree: 0%
 
 ---
-
 
 # 스마트 목록 필터 정의 {#define-smart-list-filters}
 
