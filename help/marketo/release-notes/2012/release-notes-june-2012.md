@@ -1,19 +1,19 @@
 ---
 unique-page-id: 2951114
-description: 릴리스 노트 - 2012년 6월 - Marketing Docs - 제품 설명서
+description: 릴리스 노트 - 2012년 6월 - Marketo 문서 - 제품 설명서
 title: 릴리스 노트 - 2012년 6월
+exl-id: c22eda86-da7a-4c76-9cea-1ce23ff0f3e8
 translation-type: tm+mt
-source-git-commit: 029d8b419ba5078980b4fde9890bdb35194bf264
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '667'
 ht-degree: 0%
 
 ---
 
-
 # 릴리스 노트:2012년 6월 {#release-notes-june}
 
-## 마케팅 리드 관리 개선 사항 {#marketo-lead-management-enhancements}
+## Marketo 리드 관리 개선 사항 {#marketo-lead-management-enhancements}
 
 ### {#rename} 이름 바꾸기
 
@@ -25,9 +25,9 @@ ht-degree: 0%
 
 ## 가져오기 필드 매핑 {#import-field-mapping}
 
-Marketing Cloud로 목록을 가져오는 작업이 훨씬 수월해졌습니다. 가져오기 프로세스 중에 Marketing 필드의 이름을 가져오기 파일의 열 머리글 이름에 매핑할 수 있습니다. 또한 관리에서 Marketing To의 필드 이름에 매핑되는 별칭 이름을 설정할 수 있으므로 사용자가 항상 올바른 필드를 선택하도록 할 수 있습니다.
+목록을 Marketo으로 가져오는 작업이 훨씬 수월해졌습니다. 가져오기 프로세스 중에 Marketo 필드의 이름을 가져오기 파일의 열 머리글 이름에 매핑할 수 있습니다. 또한 관리에서 Marketo의 필드 이름에 매핑되는 별칭 이름을 설정할 수 있으므로 사용자가 언제든지 올바른 필드를 선택할 수 있습니다.
 
-필드를 가져오고 매핑하면 Marketing To가 가져오기 동안 매핑을 기억하고 표시하기 때문에 쉽게 사용할 수 있습니다. 또한 보다 손쉽게 작업을 할 수 있도록 샘플 값 헤더를 클릭하여 필드에 채울 다른 값을 볼 수 있습니다. 이렇게 하면 언제든지 올바른 필드를 매핑할 수 있습니다.
+필드를 가져오고 매핑하는 작업을 계속할 때 Marketo은 가져오기 동안 매핑을 기억하고 표시하므로 쉽게 사용할 수 있습니다. 또한 보다 손쉽게 작업을 할 수 있도록 샘플 값 헤더를 클릭하여 필드에 채울 다른 값을 볼 수 있습니다. 이렇게 하면 언제든지 올바른 필드를 매핑할 수 있습니다.
 
 ![](assets/image2014-9-23-10-3a23-3a27.png)
 
@@ -79,7 +79,7 @@ Marketing Cloud로 목록을 가져오는 작업이 훨씬 수월해졌습니다
 
 미리 알림:이메일 성능 보고서 업그레이드가 진행 중입니다!
 
-## Marketing To Revenue Cycle Analytics 개선 사항 {#marketo-revenue-cycle-analytics-enhancements}
+## Marketo Revenue Cycle Analytics 개선 사항 {#marketo-revenue-cycle-analytics-enhancements}
 
 ### 프로그램 기회 분석의 새 지표 {#new-metrics-in-program-opportunity-analysis}
 
