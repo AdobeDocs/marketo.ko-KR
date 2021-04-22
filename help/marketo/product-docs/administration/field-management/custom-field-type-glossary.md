@@ -1,23 +1,23 @@
 ---
 unique-page-id: 2951259
-description: 사용자 지정 필드 유형 용어 - Marketing Docs - 제품 설명서
+description: 사용자 정의 필드 유형 용어집 - Marketo 문서 - 제품 설명서
 title: 사용자 지정 필드 유형 용어
+exl-id: 495d4deb-28f1-4044-98d3-27c20756fe73
 translation-type: tm+mt
-source-git-commit: f865630638e7c0fe6ac2a449e196a7de4fbfeea1
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '583'
 ht-degree: 0%
 
 ---
 
-
 # 사용자 지정 필드 유형 용어집 {#custom-field-type-glossary}
 
-Marketing에서 사용자 정의 필드를 만들면 선택할 유형 목록이 있습니다.
+Marketo에서 사용자 정의 필드를 만들면 선택할 유형 목록이 있습니다.
 
 >[!PREREQUISITES]
 >
->[Marketing To에서 사용자 정의 필드 만들기](/help/marketo/product-docs/administration/field-management/create-a-custom-field-in-marketo.md)
+>[Marketo에서 사용자 정의 필드 만들기](/help/marketo/product-docs/administration/field-management/create-a-custom-field-in-marketo.md)
 
 >[!TIP]
 >
