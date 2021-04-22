@@ -1,17 +1,17 @@
 ---
 unique-page-id: 2360364
-description: 3단계 중 2단계 - Marketing용 Salesforce 사용자 만들기(Enterprise/Unlimited) - Marketing Docs - 제품 설명서
-title: 3단계 중 2단계 - Marketing용 Salesforce 사용자 만들기(Enterprise/Unlimited)
+description: 3단계 중 2단계 - Marketo용 Salesforce 사용자 만들기(Enterprise/Unlimited) - Marketo 문서 - 제품 설명서
+title: 3단계 중 2단계 - Marketo용 Salesforce 사용자 만들기(Enterprise/Unlimited)
+exl-id: 871f335c-7b1e-47e1-8320-a18fbf21a970
 translation-type: tm+mt
-source-git-commit: 2b5ccd7220557a5e966d33436d0f0d2a65e4589d
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '420'
 ht-degree: 0%
 
 ---
 
-
-# 3단계 중 2단계:Marketing용 Salesforce 사용자 만들기(Enterprise/Unlimited) {#step-of-create-a-salesforce-user-for-marketo-enterprise-unlimited}
+# 3단계 중 2단계:Marketo용 Salesforce 사용자 만들기(Enterprise/Unlimited) {#step-of-create-a-salesforce-user-for-marketo-enterprise-unlimited}
 
 >[!NOTE]
 >
@@ -19,9 +19,9 @@ ht-degree: 0%
 
 >[!PREREQUISITES]
 >
->[3단계 중 1단계:Salesforce에 마케팅 필드 추가(Enterprise/Unlimited)](/help/marketo/product-docs/crm-sync/salesforce-sync/setup/enterprise-unlimited-edition/step-1-of-3-add-marketo-fields-to-salesforce-enterprise-unlimited.md)
+>[3단계 중 1단계:Salesforce에 Marketo 필드 추가(Enterprise/Unlimited)](/help/marketo/product-docs/crm-sync/salesforce-sync/setup/enterprise-unlimited-edition/step-1-of-3-add-marketo-fields-to-salesforce-enterprise-unlimited.md)
 
-이 문서에서는 Salesforce 프로필에서 사용자 권한을 설정하고 Marketing-Salesforce 통합 계정을 만듭니다.
+이 문서에서는 Salesforce 프로필에서 사용자 권한을 설정하고 Marketo-Salesforce 통합 계정을 만듭니다.
 
 ## 프로필 {#create-a-profile} 만들기
 
@@ -37,7 +37,7 @@ ht-degree: 0%
 
    ![](assets/image2014-12-9-9-3a19-3a15.png)
 
-1. **표준 사용자**&#x200B;를 선택하고 &quot;Marketing-Salesforce 동기화&quot; 프로필의 이름을 지정한 다음 **저장**&#x200B;을 클릭합니다.
+1. **표준 사용자**&#x200B;를 선택하고 &quot;Marketo-Salesforce 동기화&quot; 프로필의 이름을 지정한 다음 **저장**&#x200B;을 클릭합니다.
 
    ![](assets/image2014-12-9-9-3a19-3a22.png)
 
@@ -92,7 +92,7 @@ ht-degree: 0%
 
    >[!NOTE]
    >
-   >이 단계를 수행하면 Marketing To에 표시되지 않아도 되는 필드가 나타나지 않으므로 불필요한 부분을 줄이고 동기화 시간을 단축할 수 있습니다.
+   >이 단계를 수행하면 Marketo에 표시할 필요가 없는 필드가 차단되므로 불필요한 부분을 줄이고 동기화 시간을 단축할 수 있습니다.
 
 1. 프로필 세부 사항 페이지에서 **필드 수준 보안** 섹션으로 이동합니다. 개체에 대한 액세스 가능성을 편집하려면 **보기**&#x200B;를 클릭합니다.
 
@@ -144,11 +144,11 @@ ht-degree: 0%
 
 ![](assets/sfdc-check-the-boxes.png)
 
-## Marketing-Salesforce 동기화 계정 만들기 {#create-marketo-salesforce-sync-account}
+## Marketo-Salesforce 동기화 계정 만들기 {#create-marketo-salesforce-sync-account}
 
 >[!TIP]
 >
->전용 Salesforce 계정(예: marketo@yourcompany.com)을 만들어 Marketing과 다른 Salesforce 사용자의 변경 사항을 구분할 수 있습니다.
+>전용 Salesforce 계정(예: marketo@yourcompany.com)을 만들어 Marketo 사용자와 다른 Salesforce 사용자가 변경한 내용을 구분할 수 있습니다.
 
 1. 탐색 검색 표시줄에 &quot;사용자 관리&quot;를 입력한 다음 **사용자**&#x200B;를 클릭합니다. **새 사용자**&#x200B;를 클릭합니다.
 
@@ -162,4 +162,4 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->[3단계 중 3단계:Connect Marketing &amp; Salesforce(Enterprise/Unlimited)](/help/marketo/product-docs/crm-sync/salesforce-sync/setup/enterprise-unlimited-edition/step-3-of-3-connect-marketo-and-salesforce-enterprise-unlimited.md)
+>[3단계 중 3단계:Connect Marketo 및 Salesforce(Enterprise/Unlimited)](/help/marketo/product-docs/crm-sync/salesforce-sync/setup/enterprise-unlimited-edition/step-3-of-3-connect-marketo-and-salesforce-enterprise-unlimited.md)
