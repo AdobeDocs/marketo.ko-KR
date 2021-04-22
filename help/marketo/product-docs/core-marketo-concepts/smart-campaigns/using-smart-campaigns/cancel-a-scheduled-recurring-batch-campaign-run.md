@@ -1,15 +1,15 @@
 ---
 unique-page-id: 1147060
-description: 예약된 반복 배치 캠페인 실행 취소 - 마케팅 문서 - 제품 설명서
+description: 예약된 반복 배치 캠페인 실행 취소 - Marketo 문서 - 제품 설명서
 title: 예약된 반복 배치 캠페인 실행 취소
+exl-id: 7a659d4e-e546-4630-a36f-38ed80dd2a6e
 translation-type: tm+mt
-source-git-commit: 4a0bd2efe99284807a46d07ffef0070d9a303631
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '120'
 ht-degree: 0%
 
 ---
-
 
 # 예약된 반복 배치 캠페인 실행 취소 {#cancel-a-scheduled-recurring-batch-campaign-run}
 
