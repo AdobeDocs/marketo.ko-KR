@@ -1,15 +1,15 @@
 ---
 unique-page-id: 557331
-description: 매출 단계에서 모든 사람 찾기 - 마케팅 문서 - 제품 설명서
+description: 매출 단계에서 모든 사람 찾기 - Marketo 문서 - 제품 설명서
 title: 매출 단계에서 모든 사람 찾기
+exl-id: aa5b30bf-96f1-4c1f-8170-86ba808e9705
 translation-type: tm+mt
-source-git-commit: 07f713ece9832b7696451001f61c6a3b45b4a94a
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '151'
 ht-degree: 0%
 
 ---
-
 
 # 매출 단계 {#find-all-people-in-a-revenue-stage}에서 모든 사람 찾기
 
