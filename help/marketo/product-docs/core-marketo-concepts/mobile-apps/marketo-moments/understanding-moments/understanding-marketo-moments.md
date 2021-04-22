@@ -1,24 +1,24 @@
 ---
 unique-page-id: 8781845
-description: 마케팅 모멘트 이해 - 마케팅 문서 - 제품 설명서
-title: 마케팅을 위한 고객 의견 이해
+description: Marketo 모멘트 이해 - Marketo 문서 - 제품 설명서
+title: Marketo 모멘트 이해
+exl-id: bc103d25-a175-4ab1-8305-1e05b9b0dc2d
 translation-type: tm+mt
-source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '544'
 ht-degree: 0%
 
 ---
 
+# Marketo 모멘트 이해 {#understanding-marketo-moments}
 
-# 마케팅 시간의 이해 {#understanding-marketo-moments}
-
-Marketing의 파워는 말 그대로 손에 있습니다. 스마트폰이나 iPad에서 바로 이메일을 미리 보고 다시 예약할 수 있습니다.
+이제 Marketo의 강력한 기능을 직접 경험해 보십시오! 스마트폰이나 iPad에서 바로 이메일을 미리 보고 다시 예약할 수 있습니다.
 
 >[!AVAILABILITY]
 >
 >
->모바일 앱 액세스 권한이 필요합니다. [자신의 역할](/help/marketo/product-docs/administration/users-and-roles/managing-user-roles-and-permissions.md)을 업데이트하려면 마케팅 관리자에게 문의하십시오.
+>모바일 앱 액세스 권한이 필요합니다. Marketo 관리자에게 [자신의 역할](/help/marketo/product-docs/administration/users-and-roles/managing-user-roles-and-permissions.md)을 업데이트하도록 문의하십시오.
 
 ## 스트림 {#streams}
 
@@ -36,11 +36,11 @@ Marketing의 파워는 말 그대로 손에 있습니다. 스마트폰이나 iPa
 >* 완료:실행 완료 또는 완료된 것으로 표시된 모든 것은 여기에 표시됩니다.
 
 
-좋아요, 이제 그 방법을 알게 되었으니, 전화로 Marketo Moments를 살펴보겠습니다!
+좋아요, 이제 그걸 잊어버렸으니, 전화로 Marketo 모멘트를 봅시다!
 
 ## 세 종류의 카드 {#three-kinds-of-cards}
 
-Marketing To Moments는 이메일의 진행 상황을 추적할 수 있는 3개의 다른 카드를 제공합니다.
+Marketo Moments는 이메일 진행 상황을 추적할 수 있는 3개의 다양한 카드를 제공합니다.
 
 **온데크** - 이 이메일은 곧 발송될 예정입니다. 이 기능을 미리 보거나 샘플을 보내거나 변경해야 하는 경우 취소할 수 있는 마지막 기회입니다.
 
@@ -81,7 +81,7 @@ Marketing To Moments는 이메일의 진행 상황을 추적할 수 있는 3개�
 >**정의**
 >
 >* 즐겨찾기:가장 시기 적절하고 중요한 요소를 마음에 드는 콘텐츠로 제작하는 것은 쉬운 일입니다.
->* 완료:Done을 사용하면 Marketing To Moment 보기에서 정보를 제거할 수 있습니다(하지만 Marketing To에 안전하게 저장).
+>* 완료:Done을 사용하면 Marketo 모멘트 보기에서 정보를 얻을 수 있습니다(하지만 Marketo에서는 안전하고 사운드에서만 유지).
 >* 공유:팀원에게 동기를 부여하거나 축하할 이미지를 보낼 수 있습니다.
 >* 샘플 보내기(이메일만):이메일을 보내기 전에 다른 사람이 이메일의 모양을 확인할 수 있도록 합니다.
 >* 이메일 미리 보기(이메일만 해당):이메일을 미리 확인해 보는 것은 항상 좋은 생각입니다.
@@ -139,7 +139,7 @@ Analytics Moment 카드는 이메일 및 이벤트가 지난 6개월간 수행�
 
 ## 지원되는 버전 {#supported-versions}
 
-Marketing Tomms는 다음과 같은 운영 체제 버전을 지원합니다.
+Marketo Moments는 다음과 같은 운영 체제 버전을 지원합니다.
 
 * Apple iOS 8.0 이상.
 * Android 버전 4.1 이상(기본적으로 Jellybean 이상).
