@@ -1,19 +1,19 @@
 ---
 unique-page-id: 12255606
-description: 릴리스 노트 -17년 겨울 - 마케팅 문서 - 제품 설명서
+description: 릴리스 노트 -17년 겨울 - Marketo 문서 - 제품 설명서
 title: 릴리스 노트 -17년 겨울
+exl-id: b76dab24-43be-4d13-b4dc-b199e3e8f9a2
 translation-type: tm+mt
-source-git-commit: 9f88e7cebc5e9d0d4491d65d332ccfdd9a31c395
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '387'
 ht-degree: 0%
 
 ---
 
-
 # 릴리스 노트:17년 겨울 {#release-notes-winter}
 
-다음 기능은 17년 겨울 릴리스에 포함되어 있습니다. 기능 가용성을 확인하려면 Marketing Edition을 확인하십시오.
+다음 기능은 17년 겨울 릴리스에 포함되어 있습니다. 기능을 사용할 수 있는지 Marketo 에디션을 확인하십시오.
 
 각 기능에 대한 자세한 아티클을 보려면 제목 링크를 클릭하십시오.
 
@@ -21,7 +21,7 @@ ht-degree: 0%
 >
 >항목에 여러 개의 하위 제목이 있는 경우 링크가 여기에 배치됩니다.
 
-## [Facebook 사용자 지정 대상에 대한 고급 일치](/help/marketo/product-docs/demand-generation/ad-network-integrations/add-facebook-custom-audiences-as-a-launchpoint-service.md) {#advanced-matching-for-facebook-custom-audiences}
+## [facebook 사용자 지정 대상을 위한 고급 일치](/help/marketo/product-docs/demand-generation/ad-network-integrations/add-facebook-custom-audiences-as-a-launchpoint-service.md) {#advanced-matching-for-facebook-custom-audiences}
 
 기본 일치에서는 이메일 주소만 사용하지만, 새 고급 일치에서는 추가 7개의 필드를 사용하므로 전환율을 높이려면 일치 비율이 증가합니다.
 
@@ -29,7 +29,7 @@ ht-degree: 0%
 
 ## [사용자 지정 개체 가져오기 API](https://developers.marketo.com/rest-api/lead-database/custom-objects/) {#custom-object-import-api}
 
-이 API는 사용자 지정 개체를 Marketing To에 동기화하는 더 빠른 인터페이스를 제공합니다. CSV, TSV 또는 SSV 스프레드시트 파일을 Marketing으로 사용자 지정 개체로 가져올 수 있습니다.
+이 API는 사용자 지정 개체를 Marketo에 동기화하는 보다 빠른 인터페이스를 제공합니다. CSV, TSV 또는 SSV 스프레드시트 파일을 Marketo에 사용자 정의 개체로 가져올 수 있습니다.
 
 ## [웹 개인화 캠페인 내보내기](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/export-web-campaign-data.md) {#web-personalization-campaigns-export}
 
@@ -93,6 +93,6 @@ ht-degree: 0%
 
 2017년 8월 1일부터 여전히 이전 리치 텍스트 편집기와 양식 편집기 1.0을 사용하고 있는 고객은 자동으로 새로운 경험으로 전환됩니다.
 
-## [마케팅 활동 API](https://developers.marketo.com/blog/important-change-activity-records-marketo-apis/) {#marketo-activity-apis}
+## [Marketo Activity API](https://developers.marketo.com/blog/important-change-activity-records-marketo-apis/) {#marketo-activity-apis}
 
-Marketing의 활동 API에 중요한 변경 사항이 적용됩니다. 준비됐나요?
+Marketo의 활동 API에 중요한 변경 사항이 적용됩니다. 준비됐나요?
