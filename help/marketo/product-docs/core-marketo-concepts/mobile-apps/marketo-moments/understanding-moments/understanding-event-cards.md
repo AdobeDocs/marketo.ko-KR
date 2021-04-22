@@ -1,19 +1,19 @@
 ---
 unique-page-id: 8781974
-description: 이벤트 카드 이해 - 마케팅 문서 - 제품 설명서
+description: 이벤트 카드 이해 - Marketo 문서 - 제품 설명서
 title: 이벤트 카드 이해
+exl-id: 21e14ede-7b94-4580-8a4c-1b18a3734eef
 translation-type: tm+mt
-source-git-commit: e5050328cbddaf072dd60ddd8d7363a704e720b5
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '94'
 ht-degree: 0%
 
 ---
 
-
 # 이벤트 카드 이해 {#understanding-event-cards}
 
-Marketing To Mo멘트를 사용하여 전화 또는 iPad에서 이벤트 프로그램을 볼 수 있습니다.
+스마트폰 또는 iPad에서 이벤트 프로그램을 보려면 Marketo Moment를 사용하십시오.
 
 이메일 프로그램 카드를 탭하면 다음 작업을 수행할 수 있습니다.
 
@@ -29,7 +29,7 @@ Marketing To Mo멘트를 사용하여 전화 또는 iPad에서 이벤트 프로�
 
 >[!MORELIKETHIS]
 >
->* [마케팅을 위한 고객 의견 이해](/help/marketo/product-docs/core-marketo-concepts/mobile-apps/marketo-moments/understanding-moments/understanding-marketo-moments.md)
+>* [Marketo 모멘트 이해](/help/marketo/product-docs/core-marketo-concepts/mobile-apps/marketo-moments/understanding-moments/understanding-marketo-moments.md)
 >* [이메일 프로그램 카드 이해](/help/marketo/product-docs/core-marketo-concepts/mobile-apps/marketo-moments/understanding-moments/understanding-email-program-cards.md)
 >* [이벤트 프로그램 이해](/help/marketo/product-docs/demand-generation/events/understanding-events/understanding-event-programs.md)
 
