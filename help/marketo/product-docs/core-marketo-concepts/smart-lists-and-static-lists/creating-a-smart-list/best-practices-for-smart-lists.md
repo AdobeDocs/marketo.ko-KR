@@ -1,15 +1,15 @@
 ---
 unique-page-id: 7512524
-description: 스마트 목록 우수 사례 - 마케팅 문서 - 제품 설명서
+description: 스마트 목록 우수 사례 - Marketo 문서 - 제품 설명서
 title: 스마트 목록에 대한 우수 사례
+exl-id: 466de198-1012-4ac3-906c-d41943fe5bc0
 translation-type: tm+mt
-source-git-commit: 5b9f48c98464c79bcdca2e335f6a4a2edce98ce4
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '521'
 ht-degree: 0%
 
 ---
-
 
 # 스마트 목록 {#best-practices-for-smart-lists} 우수 사례
 
@@ -21,7 +21,7 @@ ht-degree: 0%
 >
 >**고객마다 다릅니다.** 데이터베이스가 클수록 더 많은 처리가 이루어집니다. 저장된 활동이 많을수록 검색 시간이 길어집니다.
 >
->속도가 느려지면 아래 팁을 시도해 보십시오. 문제가 지속되면 [마케팅 지원](https://nation.marketo.com/t5/Support/ct-p/Support)에 문의하십시오.
+>속도가 느려지면 아래 팁을 시도해 보십시오. 문제가 지속되면 [Marketo 지원](https://nation.marketo.com/t5/Support/ct-p/Support)에 문의하십시오.
 
 1. **제한 내역 -** 작업 필터(작업 필터)는 리소스를 많이 소모하고 시간이 많이 소모되는 작업 중 하나입니다. 이러한 데이터 세트를 사용해야 하는 경우 가능한 한 짧게 날짜 범위를 제한하여 검색 가능한 데이터 세트를 줄입니다.
 1. **중첩된 스마트 목록 제한 -** 새 스마트 목록을 만들 때 사용되는 &quot;스마트 목록의 구성원&quot; 필터의 양을 제한합니다. 이를 스마트 목록 중첩이라고 하며, 참조하는 각 스마트 목록이 처리 시간을 증가시킵니다. 대신 정적 목록을 참조하거나 [세그멘테이션](/help/marketo/product-docs/personalization/segmentation-and-snippets/segmentation/create-a-segmentation.md)을 활용하십시오.
@@ -36,4 +36,4 @@ ht-degree: 0%
 
 >[!TIP]
 >
->마케팅은 다양한 방법으로 사용할 수 있으며 특정 기법이 귀사와 귀사에 더 적합합니다. [Marketing To 전문 서비스](https://pages2.marketo.com/72-hour-survival-guide.html)를 고려해 투자를 극대화할 수 있습니다.
+>Marketo은 다양한 방법으로 사용할 수 있으며 특정 기법이 귀하와 귀하의 비즈니스에 더 적합합니다. 투자를 극대화할 수 있도록 [Marketo 전문 서비스](https://pages2.marketo.com/72-hour-survival-guide.html)를 고려하십시오.
