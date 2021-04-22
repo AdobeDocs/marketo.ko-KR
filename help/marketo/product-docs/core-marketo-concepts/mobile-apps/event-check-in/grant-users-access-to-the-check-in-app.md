@@ -1,19 +1,19 @@
 ---
 unique-page-id: 7516639
-description: 사용자에게 체크인 앱 액세스 권한 부여 - Marketing To Docs - 제품 설명서
+description: 사용자에게 체크인 앱 액세스 권한 부여 - Marketo 문서 - 제품 설명서
 title: 사용자에게 로그인 앱에 대한 액세스 권한 부여
+exl-id: 898ac49f-a708-4cdf-b341-58582740a45b
 translation-type: tm+mt
-source-git-commit: e5050328cbddaf072dd60ddd8d7363a704e720b5
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '202'
 ht-degree: 0%
 
 ---
 
-
 # 사용자에게 체크인 앱 {#grant-users-access-to-the-check-in-app} 액세스 권한 부여
 
-Marketing에는 이벤트 체크인 앱에 대한 특수 사용자 역할이 있습니다. 앱 사용 권한이 있는 새 역할을 만드는 방법을 설명합니다.
+Marketo에는 이벤트 체크인 앱에 대한 특수 사용자 역할이 있습니다. 앱 사용 권한이 있는 새 역할을 만드는 방법을 설명합니다.
 
 ## 모바일 {#create-a-new-user-role-for-mobile}에 대한 새 사용자 역할 만들기
 
