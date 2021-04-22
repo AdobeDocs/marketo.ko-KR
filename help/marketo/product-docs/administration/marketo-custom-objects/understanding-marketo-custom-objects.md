@@ -1,17 +1,17 @@
 ---
 unique-page-id: 10093188
-description: 마케팅 사용자 지정 개체 이해 - 마케팅 문서 - 제품 설명서
-title: 마케팅 사용자 지정 개체 이해
+description: Marketo 사용자 정의 개체 이해 - Marketo 문서 - 제품 설명서
+title: Marketo 사용자 정의 개체 이해
+exl-id: f18b1689-c7bc-4da0-8326-7b29733d527d
 translation-type: tm+mt
-source-git-commit: f865630638e7c0fe6ac2a449e196a7de4fbfeea1
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '679'
 ht-degree: 0%
 
 ---
 
-
-# 마케팅 사용자 지정 개체 이해 {#understanding-marketo-custom-objects}
+# Marketo 사용자 지정 개체 이해 {#understanding-marketo-custom-objects}
 
 사용자 지정 개체를 사용하여 비즈니스별 지표를 추적할 수 있습니다.
 
@@ -41,13 +41,13 @@ ht-degree: 0%
 >
 >사용자 정의 개체를 복원할 수 없으므로 삭제하기 전에 더 이상 필요하지 않은지 확인하십시오.
 
-## Marketing 사용자 지정 개체 액세스 {#accessing-marketo-custom-objects}
+## Marketo 사용자 지정 개체 액세스 {#accessing-marketo-custom-objects}
 
-1. Marketing 사용자 지정 개체를 만들거나 편집하려면 **관리**&#x200B;를 클릭한 다음 **마케팅 사용자 지정 개체** 링크를 클릭합니다.
+1. Marketo 사용자 지정 개체를 만들거나 편집하려면 **관리**&#x200B;를 클릭한 다음 **Marketo 사용자 지정 개체** 링크를 클릭합니다.
 
    ![](assets/image2016-5-18-16-3a59-3a30.png)
 
-1. 마케팅 사용자 지정 개체 표시는 오른쪽에 있는 모든 사용자 지정 개체를 나열하지만 기본 격자에 있는 승인된 개체만 표시합니다.
+1. Marketo 사용자 지정 개체 표시는 오른쪽에 모든 사용자 지정 개체를 나열하지만 기본 격자에 승인된 개체만 표시합니다.
 
    ![](assets/image2016-6-10-15-3a14-3a18.png)
 
@@ -55,7 +55,7 @@ ht-degree: 0%
 
    >[!TIP]
    >
-   >Marketing Cloud는 이러한 필드를 자동으로 업데이트하지만 레코드 열의 아이콘을 클릭하여 표시를 새로 고칠 수 있습니다.
+   >Marketo은 이러한 필드를 자동으로 업데이트하지만 레코드 열의 아이콘을 클릭하여 표시를 새로 고칠 수 있습니다.
 
 1. 오른쪽에 있는 개체 이름을 클릭하여 세부 정보 페이지를 엽니다.
 
@@ -85,18 +85,18 @@ ht-degree: 0%
 
 CRM에서 회사를 동기화하거나 API를 사용하여 회사를 명시적으로 생성하는 경우 회사에 연결된 사용자 지정 개체가 가장 잘 작동합니다. 또한 회사 ID를 링크 필드로 사용하는 것이 좋습니다.
 
-CRM 또는 마케팅 전용 레코드에 있는 Marketing To에 사용자가 여러 명인 경우 회사에 연결된 사용자 지정 개체는 둘 이상의 개별 레코드와 연관되지 않습니다. 여러 사람이 하위 회사에 있는 회사는 회사가 CRM에서 동기화되거나 API를 사용하여 명시적으로 회사를 생성하는 경우에만 지원되기 때문입니다.
+Marketo에 CRM 또는 Marketo 전용 레코드에 있는 사람이 여러 명인 경우 회사에 연결된 사용자 지정 개체가 둘 이상의 개별 레코드와 연관되지 않습니다. 여러 사람이 하위 회사에 있는 회사는 회사가 CRM에서 동기화되거나 API를 사용하여 명시적으로 회사를 생성하는 경우에만 지원되기 때문입니다.
 
-사용자 지정 개체는 단일 레코드에만 직접 연결할 수 있습니다. 즉, 사용자 지정 개체 유형이 회사 필드에 의해 연결되어 있는 경우, Marketing의 REST API를 사용하여 회사를 관리하는 경우, CRM에서 연락처 변환을 사용하거나 externalCompanyId 필드를 사용하여 개인 레코드가 회사와 연결되어 있는지 확인해야 합니다. 회사 레코드에 명시적으로 연결되어 있지 않은 개인 레코드의 경우 회사 필드의 값이 여러 사람에게 공유되더라도 회사를 사용하여 연결된 사용자 지정 객체는 무작위로 단일 레코드에 연결됩니다.
+사용자 지정 개체는 단일 레코드에만 직접 연결할 수 있습니다. 즉, 사용자 지정 개체 유형이 회사 필드에 의해 연결되어 있는 경우, Marketo의 REST API를 사용하는 회사를 관리하는 경우, 개인 레코드가 CRM의 연락처 변환을 사용하거나 externalCompanyId 필드를 사용하여 회사와 연결되어 있는지 확인해야 합니다. 회사 레코드에 명시적으로 연결되어 있지 않은 개인 레코드의 경우 회사 필드의 값이 여러 사람에게 공유되더라도 회사를 사용하여 연결된 사용자 지정 객체는 무작위로 단일 레코드에 연결됩니다.
 
 자세한 내용은 [사용자 지정 개체 데이터 가져오기](/help/marketo/product-docs/administration/marketo-custom-objects/import-custom-object-data.md)를 참조하십시오.
 
 >[!MORELIKETHIS]
 >
->* [Marketing to 사용자 지정 개체 만들기](/help/marketo/product-docs/administration/marketo-custom-objects/create-marketo-custom-objects.md)
+>* [Marketo 사용자 정의 개체 만들기](/help/marketo/product-docs/administration/marketo-custom-objects/create-marketo-custom-objects.md)
 >* [사용자 지정 개체 승인](/help/marketo/product-docs/administration/marketo-custom-objects/approve-a-custom-object.md)
->* [마케팅 사용자 지정 개체 편집 및 삭제](/help/marketo/product-docs/administration/marketo-custom-objects/edit-and-delete-a-marketo-custom-object.md)
->* [마케팅을 사용자 지정 개체 필드에 추가](/help/marketo/product-docs/administration/marketo-custom-objects/add-marketo-custom-object-fields.md)
->* [마케팅 사용자 지정 개체 필드 편집 및 삭제](/help/marketo/product-docs/administration/marketo-custom-objects/edit-and-delete-marketo-custom-object-fields.md)
+>* [Marketo 사용자 정의 개체 편집 및 삭제](/help/marketo/product-docs/administration/marketo-custom-objects/edit-and-delete-a-marketo-custom-object.md)
+>* [Marketo 사용자 정의 개체 필드 추가](/help/marketo/product-docs/administration/marketo-custom-objects/add-marketo-custom-object-fields.md)
+>* [Marketo 사용자 정의 개체 필드 편집 및 삭제](/help/marketo/product-docs/administration/marketo-custom-objects/edit-and-delete-marketo-custom-object-fields.md)
 >* [사용자 지정 개체 데이터 가져오기](/help/marketo/product-docs/administration/marketo-custom-objects/import-custom-object-data.md)
 
