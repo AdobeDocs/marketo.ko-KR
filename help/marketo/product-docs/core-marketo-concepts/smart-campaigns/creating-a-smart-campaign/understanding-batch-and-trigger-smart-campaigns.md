@@ -1,15 +1,15 @@
 ---
 unique-page-id: 2953132
-description: 일괄 처리 이해 및 스마트 캠페인 트리거 - 마케팅 문서 - 제품 설명서
+description: 일괄 처리 이해 및 스마트 캠페인 트리거 - Marketo 문서 - 제품 설명서
 title: 일괄 처리 이해 및 스마트 캠페인 트리거
+exl-id: 84a7b38c-b79c-4360-bd0b-3beb8ca35ac7
 translation-type: tm+mt
-source-git-commit: 4a0bd2efe99284807a46d07ffef0070d9a303631
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '273'
 ht-degree: 0%
 
 ---
-
 
 # 일괄 처리 이해 및 스마트 캠페인 트리거 {#understanding-batch-and-trigger-smart-campaigns}
 
