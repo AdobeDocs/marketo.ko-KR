@@ -1,15 +1,15 @@
 ---
 unique-page-id: 2949232
-description: SEO - 목록 관리 - 마케팅 문서 - 제품 설명서
+description: SEO - 목록 관리 - Marketo 문서 - 제품 설명서
 title: SEO - 목록 관리
+exl-id: 6b78f8be-fc42-4431-a9c7-703612ec448f
 translation-type: tm+mt
-source-git-commit: 37697e2d6f1d86a6cd1de5d567a3d384160415cb
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
-source-wordcount: '101'
+source-wordcount: '0'
 ht-degree: 0%
 
 ---
-
 
 # SEO - 목록 관리 {#seo-managing-lists}
 
