@@ -1,19 +1,19 @@
 ---
 unique-page-id: 2950212
-description: 릴리스 노트 - 2014년 8월 - Marketing Docs - 제품 설명서
+description: 릴리스 노트 - 2014년 8월 - Marketo 문서 - 제품 설명서
 title: 릴리스 노트 - 2014년 8월
+exl-id: 789af65d-f42a-4500-bebc-fc4dd709379d
 translation-type: tm+mt
-source-git-commit: 029d8b419ba5078980b4fde9890bdb35194bf264
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '396'
 ht-degree: 0%
 
 ---
 
-
 # 릴리스 노트:2014년 8월 {#release-notes-august}
 
-다음 기능은 2014년 8월 릴리스에 포함되어 있습니다. 기능 가용성을 확인하려면 Marketing Edition을 확인하십시오. 릴리스 후 자세한 기능 문서에 대한 링크를 다시 확인하십시오.
+다음 기능은 2014년 8월 릴리스에 포함되어 있습니다. 기능을 사용할 수 있는지 Marketo 에디션을 확인하십시오. 릴리스 후 자세한 기능 문서에 대한 링크를 다시 확인하십시오.
 
 ## 마케팅 달력 라이선스 {#marketing-calendar-licenses}
 
@@ -35,7 +35,7 @@ ht-degree: 0%
 
 ## 관리에서 사용자 및 역할 내보내기 {#export-users-and-roles-from-admin}
 
-이제 Marketing To에서 [사용자 및 역할 목록](/help/marketo/product-docs/administration/users-and-roles/export-a-list-of-users-and-roles.md)을 내보낼 수 있습니다. 내보내기에 포함할 &quot;마지막 로그인&quot; 타임스탬프를 포함할 수도 있습니다.
+이제 Marketo에서 [사용자 및 역할 목록](/help/marketo/product-docs/administration/users-and-roles/export-a-list-of-users-and-roles.md)을 내보낼 수 있습니다. 내보내기에 포함할 &quot;마지막 로그인&quot; 타임스탬프를 포함할 수도 있습니다.
 
 ![](assets/image2014-9-16-12-3a20-3a16.png)
 
@@ -49,7 +49,7 @@ ht-degree: 0%
 
 ## 자동화된 DKIM {#automated-dkim}
 
-향상된 전달 기능을 위해 나가는 모든 이메일은 DKIM(DomainKeys Identified Mail)에 서명됩니다. 기본적으로 이메일은 Marketing의 공유 DKIM 서명을 사용합니다. 이 서명을 사용자 정의할 수 있는 옵션이 있습니다.
+향상된 전달 기능을 위해 나가는 모든 이메일은 DKIM(DomainKeys Identified Mail)에 서명됩니다. 기본적으로 이메일은 Marketo의 공유 DKIM 서명을 사용합니다. 이 서명을 사용자 정의할 수 있는 옵션이 있습니다.
 
 ![](assets/image2014-9-16-12-3a23-3a16.png)
 
