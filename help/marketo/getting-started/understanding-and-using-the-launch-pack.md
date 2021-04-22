@@ -1,6 +1,6 @@
 ---
 unique-page-id: 10098962
-description: 시작 팩 이해 및 사용 - 마케팅 문서 - 제품 설명서
+description: 시작 팩 이해 및 사용 - Marketo 문서 - 제품 설명서
 title: 시작 팩 이해 및 사용
 translation-type: tm+mt
 source-git-commit: d7d6aee63144c472e02fe0221c4a164183d04dd4
