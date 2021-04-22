@@ -1,21 +1,21 @@
 ---
 unique-page-id: 2953120
-description: 스마트 캠페인 이해 - 마케팅 문서 - 제품 설명서
+description: 스마트 캠페인 이해 - Marketo 문서 - 제품 설명서
 title: 스마트 캠페인 이해
+exl-id: 94675059-cc04-4dc2-989f-aaf81e1260d3
 translation-type: tm+mt
-source-git-commit: 4a0bd2efe99284807a46d07ffef0070d9a303631
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '206'
 ht-degree: 0%
 
 ---
 
-
 # 스마트 캠페인 이해 {#understanding-smart-campaigns}
 
 ![](assets/image2014-12-24-11-3a37-3a0.png)
 
-Markto가 강력한 자동차라면 스마트한 캠페인은 진정한 엔진이다. 간단한 시작이지만 원하는 거의 모든 작업을 수행할 수 있습니다.
+Marketo이 강력한 자동차라면 스마트 캠페인은 진정한 엔진이다. 간단한 시작이지만 원하는 거의 모든 작업을 수행할 수 있습니다.
 
 스마트 캠페인에는 3개의 주요 영역이 있습니다.[스마트 목록](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/understanding-smart-lists.md), [흐름](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/add-a-flow-step-to-a-smart-campaign.md) 및 [예약](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/using-smart-campaigns/schedule-a-recurring-batch-campaign.md) 탭.
 
@@ -53,7 +53,7 @@ Markto가 강력한 자동차라면 스마트한 캠페인은 진정한 엔진�
 
 마지막으로 이 컨트롤은 스마트 캠페인을 실행할 때 사용됩니다. 반복 일정에 따라 실행되도록 반복을 설정할 수도 있습니다.
 
-스마트한 캠페인이 할 수 있는 것은 엄청나게 많다. Adobe Marketing Cloud를 사용하면 이해하기 수월하게 모든 것을 파악할 수 있습니다.
+스마트한 캠페인이 할 수 있는 것은 엄청나게 많다. 이제 Marketo의 모든 기능을 보다 손쉽게 파악할 수 있습니다.
 
 >[!MORELIKETHIS]
 >
