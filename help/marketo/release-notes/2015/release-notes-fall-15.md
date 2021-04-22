@@ -1,61 +1,61 @@
 ---
 unique-page-id: 10094114
-description: 릴리스 노트 - 2015년 가을 - 마케팅 문서 - 제품 설명서
+description: 릴리스 노트 - 2015년 가을 - Marketo 문서 - 제품 설명서
 title: 릴리스 노트 - 2015년 가을
+exl-id: b8a43086-a4d8-432d-89ac-14c75c6f0609
 translation-type: tm+mt
-source-git-commit: 029d8b419ba5078980b4fde9890bdb35194bf264
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '995'
 ht-degree: 0%
 
 ---
 
-
 # 릴리스 노트:2015년 가을 {#release-notes-fall}
 
-다음 기능은 15년 가을 릴리스에 포함되어 있습니다. 기능을 사용할 수 있는지 확인하려면 Marketing To Edition을 확인하십시오.
+다음 기능은 15년 가을 릴리스에 포함되어 있습니다. 기능을 사용할 수 있는지 Marketo Edition을 확인하십시오.
 
 ## 스마트 목록 구독 {#subscribe-to-a-smart-list}
 
 [스마트 목록 구독](/help/marketo/product-docs/reporting/basic-reporting/report-subscriptions/subscribe-to-a-smart-list.md)
 
-스마트 목록에 가입하면 마케터는 스마트 목록을 내보내고 Marketing To를 사용하지 않는 이해 관계자(예: 판매 또는 텔레마케팅 팀)에게 이메일로 보낼 수 있습니다.
+스마트 목록에 가입하면 마케터는 스마트 목록을 내보내 Marketo을 사용하지 않는 이해 관계자(예: 판매 또는 텔레마케팅 팀)에게 이메일로 보낼 수 있습니다.
 
 내보내기는 일별, 주별 또는 월별로 예약할 수 있으며 배달 종료 날짜가 될 수 있으며 제한된 수의 열을 공유하도록 사용자 정의할 수 있습니다.
 
 ![](assets/image2015-10-1-17-3a12-3a50.png)
 
-스마트 목록에 여러 개의 가입을 만들 수 있습니다. 구독당 100개의 구독으로 제한되며 구독당 100개의 리드가, 작업 영역 전체에 걸쳐 Marketing To 인스턴스당 제한됩니다.
+스마트 목록에 여러 개의 가입을 만들 수 있습니다. 구독당 100개의 리드 구독으로 제한되며, 전체 작업 영역, Marketo 인스턴스당 총 100개의 구독으로 제한됩니다.
 
 ![](assets/image2015-10-1-17-3a11-3a50.png)
 
-## Marketing 사용자 지정 개체 {#marketo-custom-objects}
+## Marketo 사용자 지정 개체 {#marketo-custom-objects}
 
-[Marketing To 사용자 지정 개체](/help/marketo/product-docs/administration/marketo-custom-objects/understanding-marketo-custom-objects.md)
+[Marketo 사용자 정의 개체](/help/marketo/product-docs/administration/marketo-custom-objects/understanding-marketo-custom-objects.md)
 
-관리 UI에서 사용자 정의 개체를 손쉽게 만들 수 있습니다. 현재 Marketing Cloud에서 1:N 사용자 지정 개체를 만들어 리드 또는 회사에 연결하는 기능을 지원합니다.
+관리 UI에서 사용자 정의 개체를 손쉽게 만들 수 있습니다. 현재 Marketo에서 1:N 사용자 정의 개체를 만들어 리드 또는 회사에 연결하는 기능을 지원합니다.
 
 >[!NOTE]
 >
->Spark에서는 Marketing To 사용자 지정 개체를 사용할 수 없습니다.
+>Marketo 사용자 정의 개체는 Spark에서 사용할 수 없습니다.
 
 ![](assets/image2015-10-1-13-3a55-3a21.png)
 
-## Google Chrome용 Marketing To Insights {#marketo-insights-for-google-chrome}
+## Google Chrome용 Marketo 인사이트 {#marketo-insights-for-google-chrome}
 
-[Google Chrome용 Marketing To Insights](/help/marketo/product-docs/marketo-sales-insight/msi-chrome-plugin/using-marketo-insights-for-google-chrome.md)
+[Google Chrome용 Marketo 인사이트](/help/marketo/product-docs/marketo-sales-insight/msi-chrome-plugin/using-marketo-insights-for-google-chrome.md)
 
 Google Mail Sales Insight 확장 기능에 대한 업데이트 릴리스를 발표하게 되어 매우 기쁩니다! [Chrome Store](https://nation.marketo.com/external-link.jspa?url=https://chrome.google.com/webstore/detail/marketo-insights-for-goog/jjkfbhajlmoeegbjgjipliamplidmbjb)에서 봅니다.
 
 이 업데이트에는 다음과 같은 많은 새로운 기능이 포함되어 있습니다.
 
-* 영업 사원은 입사하기 전에 직책, 트위터 프로필, 회사 정보, 사진 등 Google Mail에서 직접 잠재 고객에 대한 관련 정보를 볼 수 있습니다.
+* 영업 사원은 입사하기 전에 직책, twitter 프로필, 회사 정보, 사진 등 Google Mail에서 직접 잠재 고객에 대한 관련 정보를 확인할 수 있습니다.
 * 영업 사원은 열어 본 이메일 또는 클릭한 이메일, 온라인 또는 직접 참석한 이벤트, 방문한 웹 페이지, 다운로드한 eBook 등과 같이 다양한 채널을 통해 컨텐츠 잠재 고객이 참여하는 것을 실시간으로 확인할 수 있습니다.
-* Google Mail을 통해 보낸 이메일은 Marketing To에 로그인되어 실시간으로 추적됩니다. 따라서 잠재 고객이 이메일을 보고 있는 시점을 확인할 수 있으므로 적시에 후속 작업을 할 수 있습니다. 또한 Google Mail용 Marketing To Sales Insight를 사용하면 영업 사원은 마케팅 템플릿을 활용하여 매력적인 초대, 제안 및 기타 유형의 컨텐츠를 간편하게 보낼 수 있습니다.
+* Google Mail을 통해 보낸 이메일은 Marketo에 로그인되어 실시간으로 추적됩니다. 따라서 잠재 고객이 이메일을 보고 있는 시점을 확인할 수 있으므로 적시에 후속 작업을 할 수 있습니다. 또한 Marketo Sales Insight for Google Mail을 사용하면 영업 사원은 마케팅 템플릿을 사용하여 만든 템플릿을 활용하여 매력적인 초대, 제안 및 기타 유형의 컨텐츠를 간편하게 보낼 수 있습니다.
 
 ![](assets/image2015-10-2-14-3a47-3a53.png)
 
-## Marketing To Mobile 참여 - 토큰, 샘플 보내기 및 미리 보기 {#marketo-mobile-engagement-tokens-send-sample-preview}
+## Marketo 모바일 참여 - 토큰, 샘플 보내기 및 미리 보기 {#marketo-mobile-engagement-tokens-send-sample-preview}
 
 * [토큰](/help/marketo/product-docs/mobile-marketing/push-notifications/configure-mobile-push-notification.md)
 * [샘플 보내기](/help/marketo/product-docs/mobile-marketing/push-notifications/send-a-push-notification-sample.md)
