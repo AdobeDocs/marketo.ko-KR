@@ -1,15 +1,15 @@
 ---
 unique-page-id: 7503973
-description: 프레젠테이션 사용자 지정 - 마케팅 문서 - 제품 설명서
+description: 프레젠테이션 사용자 정의 - Marketo 문서 - 제품 설명서
 title: 프레젠테이션 사용자 정의
+exl-id: c871afb9-9762-498d-b168-cfce4ef05736
 translation-type: tm+mt
-source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '285'
 ht-degree: 0%
 
 ---
-
 
 # 프레젠테이션 사용자 지정 {#customize-a-presentation}
 
