@@ -1,19 +1,19 @@
 ---
 unique-page-id: 2951048
-description: 릴리스 노트 - 2014년 2월 - Marketing Docs - 제품 설명서
+description: 릴리스 노트 - 2014년 2월 - Marketo 문서 - 제품 설명서
 title: 릴리스 노트 - 2014년 2월
+exl-id: 5fcac75d-4e09-4f4d-9fd0-7c89f890d63e
 translation-type: tm+mt
-source-git-commit: 029d8b419ba5078980b4fde9890bdb35194bf264
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '358'
 ht-degree: 0%
 
 ---
 
-
 # 릴리스 노트:2014년 2월 {#release-notes-february}
 
-다음 기능은 2014년 2월 릴리스에 포함되어 있습니다. 기능을 사용할 수 있는지 확인하려면 Marketing To Edition을 확인하십시오. 릴리스 후에는 각 기능에 대한 자세한 기술 자료 아티클에 대한 링크를 다시 찾으십시오.
+다음 기능은 2014년 2월 릴리스에 포함되어 있습니다. 기능을 사용할 수 있는지 Marketo Edition을 확인하십시오. 릴리스 후에는 각 기능에 대한 자세한 기술 자료 아티클에 대한 링크를 다시 찾으십시오.
 
 ## 우승한 기준 {#engagement-score-as-winning-criteria} 참여 점수
 
