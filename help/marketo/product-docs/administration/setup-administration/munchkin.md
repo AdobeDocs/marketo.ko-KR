@@ -1,15 +1,15 @@
 ---
 unique-page-id: 7504874
-description: Munchkin - Marketing Docs - 제품 설명서
+description: Munchkin - Marketo Docs - 제품 설명서
 title: 먼크킨
+exl-id: 3f9303d4-f534-4ce0-9cde-baa7bba3c7f4
 translation-type: tm+mt
-source-git-commit: 78961a3e163ce903facf955a9dda6909b5e85bad
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '50'
 ht-degree: 0%
 
 ---
-
 
 # Munchkin {#munchkin}
 
