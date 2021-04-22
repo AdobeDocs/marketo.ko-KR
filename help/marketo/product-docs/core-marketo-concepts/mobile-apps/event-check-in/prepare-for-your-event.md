@@ -1,31 +1,31 @@
 ---
 unique-page-id: 10099360
-description: 이벤트 준비 - 마케팅 문서 - 제품 설명서
+description: 이벤트 준비 - Marketo 문서 - 제품 설명서
 title: 이벤트 준비
+exl-id: 30754c2e-dad0-4275-b5b3-f31680a62c42
 translation-type: tm+mt
-source-git-commit: e5050328cbddaf072dd60ddd8d7363a704e720b5
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '342'
 ht-degree: 0%
 
 ---
 
-
 # 이벤트 {#prepare-for-your-event} 준비
 
 이벤트를 준비하는 데 몇 가지 해야 할 일이 있습니다.
 
-## 새 마케팅 역할 만들기 {#create-a-new-marketo-role}
+## 새 Marketo 역할 만들기 {#create-a-new-marketo-role}
 
-Marketing에는 이벤트 체크인 앱에 대한 특수 사용자 역할이 있습니다. [모바일 응용 프로그램에 ](/help/marketo/product-docs/core-marketo-concepts/mobile-apps/event-check-in/grant-users-access-to-the-check-in-app.md) 액세스할 수 있는 권한을 사용하여 iPad 또는 Android 사용자를 위한 새 Marketing To Roleave를 만듭니다.
+Marketo에는 이벤트 체크인 앱에 대한 특수 사용자 역할이 있습니다. [모바일 응용 프로그램에 ](/help/marketo/product-docs/core-marketo-concepts/mobile-apps/event-check-in/grant-users-access-to-the-check-in-app.md) 액세스할 수 있는 권한을 사용하여 iPad 또는 Android 사용자를 위한 새 Marketo 규칙을 만듭니다.
 
 ## 새 태블릿 사용자를 이벤트 {#invite-new-tablet-users-to-the-event}에 초대
 
 [새 태블릿 사용자를 이벤트에 ](/help/marketo/product-docs/core-marketo-concepts/mobile-apps/event-check-in/grant-users-access-to-the-check-in-app.md) 초대하고 새 역할을 할당합니다.
 
-## 새 마케팅 이벤트 프로그램 {#create-a-new-marketo-event-program} 만들기
+## 새 Marketo 이벤트 프로그램 {#create-a-new-marketo-event-program} 만들기
 
-[새로운 Marketing 이벤트 프로그램](/help/marketo/product-docs/demand-generation/events/understanding-events/create-a-new-event-program.md) 을 만들어 다양한 단계를 거쳐 진행 중인 사람들의 상태를 캡처하고 마케팅 이니셔티브에 대한 ROI를 정확하게 측정할 수 있습니다.
+[새로운 Marketo 이벤트 프로그램](/help/marketo/product-docs/demand-generation/events/understanding-events/create-a-new-event-program.md) 을 제작하여 다양한 단계를 거치는 사람들의 상태를 캡처하고 마케팅 이니셔티브에 대한 ROI를 정확하게 측정할 수 있습니다.
 
 ## 이벤트 날짜 {#specify-the-event-dates} 지정
 
@@ -47,7 +47,7 @@ Marketing에는 이벤트 체크인 앱에 대한 특수 사용자 역할이 있
 
 이제 *when*&#x200B;을 알고 있으므로 *who*&#x200B;를 추가할 때입니다.
 
-1. 이미 사람 목록이 있는 경우 내 마켓에서 **데이터베이스** 타일을 클릭합니다.
+1. 이미 사람 목록이 있는 경우 내 Marketo에서 **데이터베이스** 타일을 클릭합니다.
 
    ![](assets/db.png)
 
