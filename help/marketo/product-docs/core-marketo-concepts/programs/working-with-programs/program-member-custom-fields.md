@@ -1,19 +1,19 @@
 ---
 unique-page-id: 37355569
-description: 프로그램 멤버 사용자 정의 필드 - 마케팅 문서 - 제품 설명서
+description: 프로그램 회원 사용자 정의 필드 - Marketo 문서 - 제품 설명서
 title: 프로그램 회원 사용자 정의 필드
+exl-id: 66b5dac6-015f-4907-8c82-78c932102463
 translation-type: tm+mt
-source-git-commit: 2d03d93e120c8b3ce359c6aca44730cfa7c16bf9
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '382'
 ht-degree: 0%
 
 ---
 
-
 # 프로그램 멤버 사용자 정의 필드 {#program-member-custom-fields}
 
-프로그램 멤버 사용자 정의 필드를 사용하여 각 멤버에 대한 프로그램 특정 데이터를 수집할 수 있습니다. 이 플러그인은 다음 제품에서 사용할 수 있습니다.마케팅 양식, 스마트 목록 필터 및 트리거, 스마트 캠페인 흐름 작업. 이 데이터는 프로그램의 멤버 탭에서 볼 수 있습니다.
+프로그램 멤버 사용자 정의 필드를 사용하여 각 멤버에 대한 프로그램 특정 데이터를 수집할 수 있습니다. 이 플러그인은 다음 제품에서 사용할 수 있습니다.Marketo 양식, 스마트 목록 필터 및 트리거, 스마트 캠페인 흐름 동작. 이 데이터는 프로그램의 멤버 탭에서 볼 수 있습니다.
 
 >[!NOTE]
 >
@@ -21,7 +21,7 @@ ht-degree: 0%
 
 ## 프로그램 멤버 사용자 정의 필드 {#create-a-program-member-custom-field} 만들기
 
-1. Marketing에서 **관리**&#x200B;를 클릭합니다.
+1. Marketo에서 **관리**&#x200B;를 클릭합니다.
 
    ![](assets/one.png)
 
@@ -54,8 +54,8 @@ ht-degree: 0%
 | 개체 | 설명 |
 |---|---|
 | 회사 | 사람과 연관된 회사의 이름. |
-| 기회 | 기회는 개인 또는 고객과 연관되거나 향후 판매 가능성으로 연결될 수 있습니다. 일반적으로 CRM이나 API를 통해 Marketing에 입장합니다. |
-| Person | 마케팅 캠페인을 통해 Marketing 데이터베이스에 있는 개인 |
+| 기회 | 기회는 개인 또는 고객과 연관되거나 향후 판매 가능성으로 연결될 수 있습니다. 일반적으로 CRM이나 API를 통해 Marketo에 입장합니다. |
+| Person | 마케팅 캠페인을 통해 Marketo 데이터베이스의 개인 사용자를 확보할 수 있습니다. |
 | 프로그램 회원 | 프로그램 회원이기도 한 사람 |
 
 ## 트리거 및 필터 {#triggers-and-filters}
@@ -76,4 +76,4 @@ ht-degree: 0%
 
 >[!MORELIKETHIS]
 >
->[Marketing To에서 사용자 정의 필드 만들기](/help/marketo/product-docs/administration/field-management/create-a-custom-field-in-marketo.md)
+>[Marketo에서 사용자 정의 필드 만들기](/help/marketo/product-docs/administration/field-management/create-a-custom-field-in-marketo.md)
