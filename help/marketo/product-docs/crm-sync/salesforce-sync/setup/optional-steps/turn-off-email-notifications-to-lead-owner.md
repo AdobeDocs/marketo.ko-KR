@@ -1,15 +1,15 @@
 ---
 unique-page-id: 13795802
-description: 리드 소유자에 대한 이메일 알림 끄기 - Marketing To Docs - 제품 설명서
+description: 리드 소유자에게 이메일 알림 해제 - Marketo 문서 - 제품 설명서
 title: 리드 소유자에게 이메일 알림 해제
+exl-id: e079ed85-5fdd-49c9-a89c-aaf854a5db63
 translation-type: tm+mt
-source-git-commit: 2b5ccd7220557a5e966d33436d0f0d2a65e4589d
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '70'
 ht-degree: 0%
 
 ---
-
 
 # 리드 소유자에게 이메일 알림 해제 {#turn-off-email-notifications-to-lead-owner}
 
