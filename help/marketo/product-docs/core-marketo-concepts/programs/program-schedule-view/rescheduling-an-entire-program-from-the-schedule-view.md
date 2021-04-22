@@ -1,15 +1,15 @@
 ---
 unique-page-id: 1147138
-description: 스케줄 보기 - 마케팅 문서 - 제품 문서에서 전체 프로그램 스케줄 조정
+description: 스케줄 보기 - Marketo 문서 - 제품 문서에서 전체 프로그램 스케줄 조정
 title: 스케줄 뷰에서 전체 프로그램 스케줄 조정
+exl-id: 3debeff2-67ce-4b59-be5b-ce8cc198f4a0
 translation-type: tm+mt
-source-git-commit: e5050328cbddaf072dd60ddd8d7363a704e720b5
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '125'
 ht-degree: 0%
 
 ---
-
 
 # 스케줄 보기 {#rescheduling-an-entire-program-from-the-schedule-view}에서 전체 프로그램 스케줄 조정
 
