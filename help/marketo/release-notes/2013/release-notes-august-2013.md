@@ -1,15 +1,15 @@
 ---
 unique-page-id: 2951058
-description: 릴리스 노트 - 2013년 8월 - Marketing Docs - 제품 설명서
+description: 릴리스 노트 - 2013년 8월 - Marketo 문서 - 제품 설명서
 title: 릴리스 노트 - 2013년 8월
+exl-id: c7af3af8-c51e-49dd-8ebf-803cb4350024
 translation-type: tm+mt
-source-git-commit: 029d8b419ba5078980b4fde9890bdb35194bf264
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '205'
 ht-degree: 0%
 
 ---
-
 
 # 릴리스 노트:2013년 8월 {#release-notes-august}
 
@@ -49,11 +49,11 @@ ht-degree: 0%
 
 ## 자동 트리거 캠페인 정리 {#automatic-trigger-campaign-cleanup}
 
-이제 Marketing Cloud는 귀하에게 정기적으로 통지하고 지난 6개월 동안 실행하지 않은 트리거 캠페인](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/using-smart-campaigns/automatic-trigger-campaign-cleanup.md)을 자동으로 비활성화합니다.[
+이제 Marketo은 귀하에게 정기적으로 통지하고 지난 6개월 동안 실행하지 않은 트리거 캠페인](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/using-smart-campaigns/automatic-trigger-campaign-cleanup.md)을 자동으로 비활성화합니다.[
 
 ![](assets/image2014-9-22-16-3a36-3a2.png)
 
-## Marketing To Financial Management 개선 사항 {#marketo-financial-management-enhancement}
+## Marketo Financial Management 개선 사항 {#marketo-financial-management-enhancement}
 
 ### 프로그램 비용 업데이트 {#program-cost-update}
 
@@ -61,4 +61,4 @@ ht-degree: 0%
 
 ### 사용자 인터페이스 {#cobalt-user-interface}
 
-새로운 코발트 인터페이스 출시를 계속 진행 중입니다. 이 프로젝트는 Marketing To의 모든 것을 매우 명확하게 할 것입니다! 업그레이드는 그 해의 나머지 기간 동안 계속될 것입니다.
+새로운 코발트 인터페이스 출시를 계속 진행 중입니다. 이 프로젝트는 Marketo의 모든 것을 매우 명확하게 할 것입니다! 업그레이드는 그 해의 나머지 기간 동안 계속될 것입니다.
