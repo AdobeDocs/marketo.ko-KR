@@ -1,15 +1,15 @@
 ---
 unique-page-id: 1147239
-description: 프로그램 보고서에 프로그램 상태 열 추가 - 마케팅 문서 - 제품 설명서
+description: 프로그램 보고서에 프로그램 상태 열 추가 - Marketo 문서 - 제품 설명서
 title: 프로그램 보고서에 프로그램 상태 열 추가
+exl-id: ab8e5be7-7ea6-4b69-b701-0c81ea556107
 translation-type: tm+mt
-source-git-commit: e5050328cbddaf072dd60ddd8d7363a704e720b5
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '134'
 ht-degree: 0%
 
 ---
-
 
 # 프로그램 보고서 {#add-program-status-columns-to-a-program-report}에 프로그램 상태 열 추가
 
