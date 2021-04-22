@@ -1,15 +1,15 @@
 ---
 unique-page-id: 2360327
-description: 할당 규칙을 사용하여 개인 파티션 할당 - 마케팅 문서 - 제품 설명서
+description: 할당 규칙을 사용하여 개인 파티션 할당 - Marketo 문서 - 제품 설명서
 title: 할당 규칙에 개인 파티션 지정
+exl-id: 6b54dcb7-8da9-466b-b153-099ebcb96424
 translation-type: tm+mt
-source-git-commit: f79909ce8f2e37bf0748596774fe47ac03618696
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '167'
 ht-degree: 0%
 
 ---
-
 
 # 할당 규칙 {#assigning-person-partitions-with-assignment-rules}에 개인 파티션 할당
 
@@ -25,7 +25,7 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->CRM과 SOAP API를 통해 Marketing To에서 만든 사람에게만 할당 규칙이 적용됩니다.
+>CRM과 SOAP API를 통해 Marketo에서 만든 사람에게만 할당 규칙이 적용됩니다.
 
 1. 관리에서 작업 영역 및 파티션을 클릭합니다.
 
