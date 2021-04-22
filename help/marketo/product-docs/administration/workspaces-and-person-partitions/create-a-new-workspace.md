@@ -1,15 +1,15 @@
 ---
 unique-page-id: 2360311
-description: 새 작업 영역 만들기 - 마케팅 문서 - 제품 설명서
+description: 새 작업 영역 만들기 - Marketo 문서 - 제품 설명서
 title: 새 작업 공간 만들기
+exl-id: 04245a92-55e0-4b18-9506-aa060cc62dc6
 translation-type: tm+mt
-source-git-commit: f79909ce8f2e37bf0748596774fe47ac03618696
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '211'
 ht-degree: 0%
 
 ---
-
 
 # 새 작업 영역 만들기 {#create-a-new-workspace}
 
@@ -30,7 +30,7 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->작업 공간 우수 사례에 대한 자세한 내용은 [Marketing To Professional 서비스](mailto:services@marketo.com)에 문의하십시오.
+>작업 공간 우수 사례에 대한 자세한 내용은 [Marketo 전문 서비스](mailto:services@marketo.com)에 문의하십시오.
 
 1. **관리**&#x200B;에서 **작업 영역 및 파티션**&#x200B;을 클릭합니다.
 
@@ -62,7 +62,7 @@ ht-degree: 0%
 
    >[!NOTE]
    >
-   >Marketing Cloud가 생성되면 작업 공간에서 샘플 에셋을 시드하게 됩니다. 언어를 사용하면 초기 설정된 개체를 영어가 아닌 언어로 만들 수 있습니다.
+   >Marketo은 작업 영역을 만든 후 작업 영역에서 샘플 에셋을 시드합니다. 언어를 사용하면 초기 설정된 개체를 영어가 아닌 언어로 만들 수 있습니다.
 
    ![](assets/five.png)
 
