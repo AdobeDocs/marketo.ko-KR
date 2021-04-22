@@ -1,21 +1,21 @@
 ---
 unique-page-id: 12980733
-description: Marketing To 용어 - Marketing Docs - 제품 설명서
-title: Marketing 용어
+description: Marketo 용어집 - Marketo 문서 - 제품 설명서
+title: Marketo 용어집
+exl-id: c387b880-708c-439c-99c3-46eb5ccb4536
 translation-type: tm+mt
-source-git-commit: 26453778ee3988b52e57fdf16205b93edbbaa771
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '4225'
 ht-degree: 0%
 
 ---
 
+# Marketo 용어집 {#marketo-glossary}
 
-# 마케팅 용어집 {#marketo-glossary}
+다음은 Marketo 사용 시 발생할 수 있는 여러 용어에 대한 정의입니다. 용어 추가를 요청하려면 [전자 메일](mailto:GRP-Marketo-articlefeedback@adobe.com)을(를) 보내주십시오.
 
-다음은 Marketing To를 사용할 때 발생할 수 있는 여러 용어에 대한 정의입니다. 용어 추가를 요청하려면 [전자 메일](mailto:GRP-Marketo-articlefeedback@adobe.com)을(를) 보내주십시오.
-
-| **[A](#A)** | **[B](#B)** | **[C](#C)** | **[D](#D)** | **[E](#E)** | **[F](#F)** | **[G](#G)** | **[H](#H)** | **[I](#I)** | **J** | **[K](#K)** | **[L](#L)** | **[M](#M)** |
+| **[A](#A)** | **[B](#B)** | **[C](#C)** | **[D](#D)** | **[E](#E)** | **[F](#F)** | **[G](#G)** | **[H](#H)** | **[I](#I)** | **J** | **[천](#K)** | **[L](#L)** | **[백만](#M)** |
 |---|---|---|---|---|---|---|---|---|---|---|---|---|
 | **[N](#N)** | **[O](#O)** | **[P](#P)** | **[Q](#Q)** | **[R](#R)** | **[S](#S)** | **[T](#T)** | **[U](#U)** | **V** | **[W](#W)** | **X** | **Y** | **Z** |
 
@@ -33,7 +33,7 @@ ht-degree: 0%
   </tr> 
   <tr> 
    <td colspan="1"><strong>계정</strong></td> 
-   <td colspan="1">이 용어는 서로 다른 의미를 가질 수 있습니다.<br>-마케팅 인스턴스 자체를 Marketing 계정 또는<br>- <strong>ABM에서</strong>,  <strong>네임드 계정</strong> 은 사용자가 추적하고자 하는 대상 계정이라고 결정한 계정입니다.<br>-ABM에서 CRM 계정은 연결된  <strong>CRM</strong> ( <strong>Salesforce</strong> 계정,  <strong>MS </strong> Dynamic  <strong> </strong>API)에서 매핑되는 계정입니다.<br>"CRM에서 계정은 리드 및 연락처가 연관된 비즈니스/회사입니다.</td> 
+   <td colspan="1">이 용어는 다른 의미를 가질 수 있습니다.<br>-Marketo 인스턴스 자체를 Marketo 계정이라고 할 수 있습니다.<br>- <strong>ABM에서</strong>,  <strong>네임드 계정</strong> 은 사용자가 추적하고자 하는 대상 계정이라고 결정한 계정입니다.<br>-ABM에서 CRM 계정은 연결된  <strong>CRM</strong> ( <strong>Salesforce</strong> 계정,  <strong>MS </strong> Dynamic  <strong> </strong>API)에서 매핑되는 계정입니다.<br>"CRM에서 계정은 리드 및 연락처가 연관된 비즈니스/회사입니다.</td> 
   </tr> 
   <tr> 
    <td colspan="1"><strong><a href="/help/marketo/product-docs/target-account-management/setup-tam/target-account-management-overview.md" rel="nofollow">계정 기반 마케팅</a> (ABM)</strong></td> 
@@ -53,7 +53,7 @@ ht-degree: 0%
   </tr> 
   <tr> 
    <td colspan="1"><strong>획득 날짜</strong></td> 
-   <td colspan="1">Marketing To에서 사람을 알게 된 날짜입니다. 이 날짜는 사용자를 취득한 <strong>획득 프로그램</strong>에 해당합니다.</td> 
+   <td colspan="1">Marketo에서 사람을 알게 된 날짜입니다. 이 날짜는 사용자를 취득한 <strong>획득 프로그램</strong>에 해당합니다.</td> 
   </tr> 
   <tr> 
    <td colspan="1"><strong>획득 프로그램</strong></td> 
@@ -61,7 +61,7 @@ ht-degree: 0%
   </tr> 
   <tr> 
    <td colspan="1"><a href="/help/marketo/product-docs/demand-generation/ad-network-integrations/understanding-ad-network-integrations.md" rel="nofollow"><strong>광고 네트워크 통합 </strong></a></td> 
-   <td colspan="1">(이전 Ad Bridge) 마케터의 고유한 대상 데이터를 유료 미디어 시스템에 연결하여 보다 타겟팅되고 개인화된 디지털 광고 캠페인을 실행할 수 있는 방법입니다.</td> 
+   <td colspan="1">(이전 Ad Bridge) Marketo의 고유한 대상 데이터를 유료 미디어 시스템에 연결하여 보다 타깃팅되고 개인화된 디지털 광고 캠페인을 실행할 수 있는 방법입니다.</td> 
   </tr> 
   <tr> 
    <td colspan="1"><strong><a href="/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/send-alert.md" rel="nofollow">경고</a></strong></td> 
@@ -73,7 +73,7 @@ ht-degree: 0%
   </tr> 
   <tr> 
    <td colspan="1"><strong><a href="https://developers.marketo.com/" rel="nofollow">응용 프로그램 프로그래밍 인터페이스</a> (API)</strong></td> 
-   <td colspan="1">운영 체제나 응용 프로그램(이 경우 Marketing)에서 단일 또는 일괄 기능을 수행하는 데 사용되는 사전 정의된 프로토콜 집합.</td> 
+   <td colspan="1">운영 체제나 응용 프로그램(이 경우 Marketo)에서 단일 또는 대량 기능을 수행하는 데 사용되는 사전 정의된 프로토콜 집합.</td> 
   </tr> 
   <tr> 
    <td colspan="1"><strong>승인됨</strong></td> 
@@ -81,7 +81,7 @@ ht-degree: 0%
   </tr> 
   <tr> 
    <td colspan="1"><strong>에셋</strong></td> 
-   <td colspan="1">Marketing 인스턴스에서 컨텐트로 사용되는 항목(예: <strong>email</strong>, <strong>랜딩 페이지</strong>, <strong>스마트 캠페인</strong> 등)입니다.</td> 
+   <td colspan="1">Marketo 인스턴스에서 컨텐트로 사용되는 항목(예: <strong>email</strong>, <strong>랜딩 페이지</strong>, <strong>스마트 캠페인</strong> 등)입니다.</td> 
   </tr> 
  </tbody> 
 </table>
@@ -111,21 +111,21 @@ ht-degree: 0%
   </tr> 
   <tr> 
    <td><a href="/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/managing-people-in-smart-lists/add-person-to-blocklist.md" rel="nofollow"><strong>차단 목록에 추가된</strong></a></td> 
-   <td> 마케팅 자료를 받고 싶지 않은 마케팅 담당자(예: 경쟁업체)의 필드입니다. 이 필드를 true로 차단 목록에 추가된 설정하면 사용자가 Marketing To 인스턴스에서 운영 이메일을 포함한 어떠한 이메일도 받지 않게 됩니다.</td> 
+   <td> 마케팅 자료를 받고 싶지 않은 Marketo 사람(예: 경쟁업체)을 위한 필드입니다. 이 필드를 true로 차단 목록에 추가된 설정하면 사용자가 운영 이메일을 포함하여 Marketo 인스턴스에서 이메일을 받지 않게 됩니다.</td> 
   </tr> 
   <tr> 
    <td> 
     <div> 
      <p><strong><a href="/help/marketo/product-docs/email-marketing/deliverability/hard-and-soft-bounces-in-email.md" rel="nofollow">바운스</a></strong></p> 
     </div></td> 
-   <td>수신자에게 보낸 이메일이 반환됩니다. 딱딱하고 부드러운 바운스가 있습니다. 이메일 서버가 사용자의 이메일을 배달할 수 없다고 Marketing Cloud에 알릴 때 하드 바운스는 사람의 이메일 주소를 잘못 렌더링할 수 있습니다. 바운스는 해당 고객에게 이메일을 전달하는 과정에서 잘못된 것을 의미합니다.자동으로 해결됩니다. 하드 바운스와 소프트 바운스는 모두 <a href="https://nation.marketo.com/docs/DOC-2752" rel="nofollow">여러 카테고리</a>로 구성됩니다.</td> 
+   <td>수신자에게 보낸 이메일이 반환됩니다. 딱딱하고 부드러운 바운스가 있습니다. 이메일 서버에서 이메일 이메일을 배달할 수 없다고 Marketo에 알릴 때 하드 바운스는 사람의 이메일 주소를 잘못 렌더링할 수 있습니다. 바운스는 해당 고객에게 이메일을 전달하는 과정에서 잘못된 것을 의미합니다.자동으로 해결됩니다. 하드 바운스와 소프트 바운스는 모두 <a href="https://nation.marketo.com/docs/DOC-2752" rel="nofollow">여러 카테고리</a>로 구성됩니다.</td> 
   </tr> 
  </tbody> 
 </table>
 
 >[!NOTE]
 >
->Marketing은 Blacklist 및 Whitelist와 같은 용어를 Adobe 제품차단 목록에 추가하다의 및 허용 목록에 추가하다로 변경하는 중입니다. 이 업데이트 중에 UI 및 문서 스크린샷의 이전 용어와 설명서 텍스트의 새 용어를 볼 수 있습니다. 혼동을 사과드립니다.
+>Marketo은 블랙 리스트 및 화이트 리스트와 같은 용어를 제품차단 목록에 추가하다의 및 허용 목록에 추가하다로 변경하는 과정에 있습니다. 이 업데이트 중에 UI 및 문서 스크린샷의 이전 용어와 설명서 텍스트의 새 용어를 볼 수 있습니다. 혼동을 사과드립니다.
 
 ## C {#c}
 
@@ -137,7 +137,7 @@ ht-degree: 0%
  <tbody> 
   <tr> 
    <td colspan="1"><strong>캠페인</strong></td> 
-   <td colspan="1">"캠페인"은 Marketing에서 몇 가지 의미를 가질 수 있습니다. <a href="/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/understanding-smart-campaigns.md" rel="nofollow">캠페인</a>은 스마트 캠페인에 대한 짧은 용어입니다. <strong>Marketing To Sales Connect</strong>에서 <a href="/help/marketo/product-docs/marketo-sales-connect/campaigns/create-a-campaign.md" rel="nofollow">캠페인</a>은 일련의 다중 채널 통신 단계입니다. <strong>웹 개인화</strong>에서 웹 <a href="/help/marketo/product-docs/web-personalization/working-with-web-campaigns/create-a-new-dialog-web-campaign.md" rel="nofollow">캠페인</a>은(는) 특정 세그먼트와 연관된 사용자 지정된 반응입니다.</td> 
+   <td colspan="1">"캠페인"은 Marketo에서 몇 가지 의미를 가질 수 있습니다. <a href="/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/understanding-smart-campaigns.md" rel="nofollow">캠페인</a>은 스마트 캠페인에 대한 짧은 용어입니다. <strong>Marketo Sales Connect</strong>에서 <a href="/help/marketo/product-docs/marketo-sales-connect/campaigns/create-a-campaign.md" rel="nofollow">캠페인</a>은 일련의 다중 채널 통신 단계입니다. <strong>웹 개인화</strong>에서 웹 <a href="/help/marketo/product-docs/web-personalization/working-with-web-campaigns/create-a-new-dialog-web-campaign.md" rel="nofollow">캠페인</a>은(는) 특정 세그먼트와 연관된 사용자 지정된 반응입니다.</td> 
   </tr> 
   <tr> 
    <td colspan="1"><strong><a href="/help/marketo/product-docs/reporting/basic-reporting/report-types/campaign-activity-report.md" rel="nofollow">캠페인 활동 보고서</a></strong></td> 
@@ -149,7 +149,7 @@ ht-degree: 0%
   </tr> 
   <tr> 
    <td colspan="1"><strong><a href="/help/marketo/product-docs/core-marketo-concepts/miscellaneous/create-new-campaign-folder.md" rel="nofollow">캠페인 폴더</a></strong></td> 
-   <td colspan="1">여러 <strong>프로그램</strong> 및/또는 <strong>스마트 캠페인</strong>을 보유할 수 있는 구성 단위입니다. 데스크탑의 폴더와 마찬가지로 Marketing의 폴더가 조직 및 보고에 사용됩니다.</td> 
+   <td colspan="1">여러 <strong>프로그램</strong> 및/또는 <strong>스마트 캠페인</strong>을 보유할 수 있는 구성 단위입니다. 데스크탑의 폴더와 마찬가지로 Marketo의 폴더는 조직 및 보고에 사용됩니다.</td> 
   </tr> 
   <tr> 
    <td colspan="1"><a href="/help/marketo/product-docs/email-marketing/drip-nurturing/creating-an-engagement-program/understanding-engagement-programs.md#cast" rel="nofollow"><strong>캐스트</strong></a></td> 
@@ -173,7 +173,7 @@ ht-degree: 0%
   </tr> 
   <tr> 
    <td colspan="1"><strong>복제</strong></td> 
-   <td colspan="1">Marketing To에서는 인스턴스 내에서 여러 유형의 엔티티를 복제할 수 있습니다. <a href="/help/marketo/product-docs/core-marketo-concepts/programs/working-with-programs/clone-a-program.md" rel="nofollow">프로그램</a>, 프로그램</a>, <a href="/help/marketo/product-docs/email-marketing/drip-nurturing/engagement-program-streams/clone-a-stream.md" rel="nofollow">스트림</a> 등에서 <a href="/help/marketo/product-docs/core-marketo-concepts/programs/working-with-programs/clone-an-asset-in-a-program.md" rel="nofollow">자산을 복제할 수 있습니다.</a></td> 
+   <td colspan="1">Marketo에서는 인스턴스 내에서 여러 유형의 엔티티를 복제할 수 있습니다. <a href="/help/marketo/product-docs/core-marketo-concepts/programs/working-with-programs/clone-a-program.md" rel="nofollow">프로그램</a>, 프로그램</a>, <a href="/help/marketo/product-docs/email-marketing/drip-nurturing/engagement-program-streams/clone-a-stream.md" rel="nofollow">스트림</a> 등에서 <a href="/help/marketo/product-docs/core-marketo-concepts/programs/working-with-programs/clone-an-asset-in-a-program.md" rel="nofollow">자산을 복제할 수 있습니다.</a></td> 
   </tr> 
   <tr> 
    <td colspan="1"><a href="/help/marketo/product-docs/administration/settings/customize-your-landing-page-urls-with-a-cname-administration.md" rel="nofollow"><strong>CNAME</strong></a></td> 
@@ -201,7 +201,7 @@ ht-degree: 0%
   </tr> 
   <tr> 
    <td colspan="1"><strong>컨텐츠 참여 수준</strong></td> 
-   <td colspan="1">Marketing이 <strong>참여 프로그램</strong>에서 사용자 콘텐트를 제공하는 0~100포인트 점수입니다. 점수는 <strong>opens</strong>, <strong>clicks</strong>, <strong>구독 취소</strong>, 프로그램 성공 등을 사용하는 정식에 따라 결정됩니다.</td> 
+   <td colspan="1">Marketo이 <strong>참여 프로그램</strong>에서 콘텐트를 제공하는 0-100포인트 점수입니다. 점수는 <strong>opens</strong>, <strong>clicks</strong>, <strong>구독 취소</strong>, 프로그램 성공 등을 사용하는 정식에 따라 결정됩니다.</td> 
   </tr> 
   <tr> 
    <td colspan="1"><strong>쿠키</strong></td> 
@@ -209,7 +209,7 @@ ht-degree: 0%
   </tr> 
   <tr> 
    <td colspan="1"><strong><a href="/help/marketo/product-docs/demand-generation/facebook/create-a-custom-audience-in-facebook.md" rel="nofollow">사용자 지정 대상</a></strong></td> 
-   <td colspan="1">Facebook에서 직접 타깃팅을 목적으로 기존 사용자(마케팅 데이터베이스에서)의 특정 사람들로 구성된 목록을 만듭니다.</td> 
+   <td colspan="1">facebook에서 직접 타깃팅을 목적으로 Marketo 데이터베이스에서 특정 기존 사용자로 구성된 목록을 만듭니다.</td> 
   </tr> 
   <tr> 
    <td colspan="1"><strong><a href="/help/marketo/product-docs/administration/field-management/create-a-custom-field-in-marketo.md" rel="nofollow">사용자 정의 필드</a></strong></td> 
@@ -224,7 +224,7 @@ ht-degree: 0%
     <div> 
      <p><strong> 고객 관계 관리(CRM)</strong></p> 
     </div></td> 
-   <td colspan="1">조직이 고객/잠재 고객과 관련된 정보를 관리할 수 있는 시스템입니다. Marketing Cloud에서는 2개의 CRM과의 기본 통합만 허용합니다.<strong>Salesforce</strong> 및 <strong>Microsoft Dynamics</strong>.</td> 
+   <td colspan="1">조직이 고객/잠재 고객과 관련된 정보를 관리할 수 있는 시스템입니다. Marketo은 2개의 CRM과의 기본 통합만 허용합니다.<strong>Salesforce</strong> 및 <strong>Microsoft Dynamics</strong>.</td> 
   </tr> 
  </tbody> 
 </table>
@@ -246,14 +246,14 @@ ht-degree: 0%
   </tr> 
   <tr> 
    <td><strong>중복 제거</strong></td> 
-   <td>중복 제거라고도 합니다. 데이터 중복을 제거하기 위한 정보(예: 사람)를 식별하고 통합하는 프로세스입니다. 예를 들어 새 사용자가 인스턴스에 들어올 때 Marketing to는 자동으로 중복 제거 기능을 제공합니다.</td> 
+   <td>중복 제거라고도 합니다. 데이터 중복을 제거하기 위한 정보(예: 사람)를 식별하고 통합하는 프로세스입니다. 예를 들어 새로운 사용자가 인스턴스에 들어올 때 Marketo은 자동으로 중복 제거 기능을 제공합니다.</td> 
   </tr> 
   <tr> 
    <td colspan="1"> 
     <div> 
      <p><strong> 기본 프로그램</strong></p> 
     </div></td> 
-   <td colspan="1">Marketing의 프로그램 유형입니다. 이메일, 이벤트 또는 참여 프로그램이 적합하지 않을 때 사용하는 일반 프로그램입니다. <br></td> 
+   <td colspan="1">Marketo의 프로그램 유형입니다. 이메일, 이벤트 또는 참여 프로그램이 적합하지 않을 때 사용하는 일반 프로그램입니다. <br></td> 
   </tr> 
   <tr> 
    <td colspan="1"><strong>제공 가능성</strong></td> 
@@ -273,7 +273,7 @@ ht-degree: 0%
   </tr> 
   <tr> 
    <td colspan="1"><strong>Docs</strong></td> 
-   <td colspan="1">문서를 요약하면 문서가 제품을 더 잘 이해하는 데 도움이 되는 아티클입니다. Marketing에는 다음과 같은 여러 가지 유형의 문서가 있습니다.제품 문서(현재 있는 사이트), <a href="https://experienceleague.adobe.com/docs/marketo/sky/home.html" rel="nofollow">Marketo Sky</a> 문서, <a href="https://developers.marketo.com/" rel="nofollow">개발자</a> 문서 및 <a href="https://nation.marketo.com/t5/Knowledgebase/tkb-p/support_solutions-documents" rel="nofollow">지원</a> 문서.</td> 
+   <td colspan="1">문서를 요약하면 문서가 제품을 더 잘 이해하는 데 도움이 되는 아티클입니다. Marketo에는 다음과 같은 다양한 유형의 문서가 있습니다.제품 문서(현재 있는 사이트), <a href="https://experienceleague.adobe.com/docs/marketo/sky/home.html" rel="nofollow">Marketo Sky</a> 문서, <a href="https://developers.marketo.com/" rel="nofollow">개발자</a> 문서 및 <a href="https://nation.marketo.com/t5/Knowledgebase/tkb-p/support_solutions-documents" rel="nofollow">지원</a> 문서.</td> 
   </tr> 
   <tr> 
    <td colspan="1"><strong>도메인 기반 메시지 인증, 보고 및 적합성(DMARC)</strong></td> 
@@ -312,18 +312,18 @@ ht-degree: 0%
  <tbody> 
   <tr> 
    <td colspan="1"><strong>이메일</strong></td> 
-   <td colspan="1">Marketing To에서 고객과 소통하는 데 사용할 수 있는 <strong>자산</strong> 중 하나입니다. 이메일은 HTML(그래픽, 사용자 정의 글꼴 등) 또는 텍스트만(특별한 서식이 없는 일반 텍스트 메시지)일 수 있습니다. HTML 이메일만 "열기"를 기록할 수 있습니다.</td> 
+   <td colspan="1">Marketo에서 고객과 소통하는 데 사용할 수 있는 <strong>자산</strong> 중 하나입니다. 이메일은 HTML(그래픽, 사용자 정의 글꼴 등) 또는 텍스트만(특별한 서식이 없는 일반 텍스트 메시지)일 수 있습니다. HTML 이메일만 "열기"를 기록할 수 있습니다.</td> 
   </tr> 
   <tr> 
    <td colspan="1"><strong>이메일 잘못됨</strong></td> 
-   <td colspan="1"><strong>데이터베이스</strong>에 있는 사람의 이메일 주소가 결과물을 제공할 수 있는지 여부를 나타내는 Marketing의 기본 필드입니다.</td> 
+   <td colspan="1">Marketo의 기본 필드는 <strong>데이터베이스</strong>에 있는 사람의 이메일 주소를 제공할 수 있는지 여부를 나타냅니다.</td> 
   </tr> 
   <tr> 
    <td colspan="1"> 
     <div> 
      <p><a href="/help/marketo/product-docs/email-marketing/email-programs/creating-an-email-program/understanding-email-programs.md" rel="nofollow"><strong> 이메일 프로그램</strong></a></p> 
     </div></td> 
-   <td colspan="1">Marketing의 프로그램 유형입니다. 이메일 프로그램은 일회성 이메일 전송에 사용됩니다. <strong><a href="/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/email-test-a-b-test/add-an-a-b-test.md" rel="nofollow">A/B 테스트</a></strong>를 활용하고 이메일 결과를 추적할 수 있습니다.<br></td> 
+   <td colspan="1">Marketo의 프로그램 유형입니다. 이메일 프로그램은 일회성 이메일 전송에 사용됩니다. <strong><a href="/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/email-test-a-b-test/add-an-a-b-test.md" rel="nofollow">A/B 테스트</a></strong>를 활용하고 이메일 결과를 추적할 수 있습니다.<br></td> 
   </tr> 
   <tr> 
    <td colspan="1"><a href="/help/marketo/product-docs/email-marketing/deliverability/understanding-unsubscribe.md#email-suspended" rel="nofollow"><strong>일시 중단된 이메일</strong></a></td> 
@@ -334,7 +334,7 @@ ht-degree: 0%
     <div> 
      <p><strong><a href="/help/marketo/product-docs/email-marketing/drip-nurturing/creating-an-engagement-program/understanding-engagement-programs.md" rel="nofollow">참여 프로그램</a></strong></p> 
     </div></td> 
-   <td colspan="1">Marketing의 프로그램 유형입니다. 참여 프로그램을 통해 콘텐츠를 체계적으로 전달하여 신규 고객을 유치할 수 있습니다(교육 프로그램이라고도 함).<br></td> 
+   <td colspan="1">Marketo의 프로그램 유형입니다. 참여 프로그램을 통해 콘텐츠를 체계적으로 전달하여 신규 고객을 유치할 수 있습니다(교육 프로그램이라고도 함).<br></td> 
   </tr> 
   <tr> 
    <td><a href="/help/marketo/product-docs/email-marketing/drip-nurturing/reports-and-notifications/understanding-the-engagement-score.md" rel="nofollow"><strong>관여 점수</strong></a></td> 
@@ -353,7 +353,7 @@ ht-degree: 0%
     <div> 
      <p><strong><a href="/help/marketo/product-docs/demand-generation/events/understanding-events/understanding-event-programs.md" rel="nofollow">이벤트 프로그램</a></strong></p> 
     </div></td> 
-   <td colspan="1">Marketing의 프로그램 유형입니다. 이벤트 프로그램은 <strong>events</strong>를 자동화하는 데 사용됩니다(예: 웨비나, 미팅, 트레이드쇼 등).  </td> 
+   <td colspan="1">Marketo의 프로그램 유형입니다. 이벤트 프로그램은 <strong>events</strong>를 자동화하는 데 사용됩니다(예: 웨비나, 미팅, 트레이드쇼 등).  </td> 
   </tr> 
   <tr> 
    <td colspan="1"><a href="/help/marketo/product-docs/email-marketing/drip-nurturing/using-engagement-programs/people-who-have-exhausted-content.md" rel="nofollow"><strong>지쳤어요</strong></a></td> 
@@ -407,7 +407,7 @@ ht-degree: 0%
   </tr> 
   <tr> 
    <td><strong>글로벌 자산</strong></td> 
-   <td>Marketing 인스턴스의 <strong>프로그램</strong>에서 사용하기 위해 <strong>Design Studio</strong>에서 만든 에셋 </td> 
+   <td>Marketo 인스턴스의 <strong>프로그램</strong>에서 사용하기 위해 <strong>Design Studio</strong>에서 만든 에셋 </td> 
   </tr> 
   <tr> 
    <td colspan="1"><strong>안내 랜딩 페이지</strong></td> 
@@ -431,7 +431,7 @@ ht-degree: 0%
  </tbody> 
 </table>
 
-## K {#i}
+## I {#i}
 
 <table> 
  <colgroup> 
@@ -441,12 +441,12 @@ ht-degree: 0%
  <tbody> 
   <tr> 
    <td><a href="/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/features/tabs-in-the-msi-panel/interesting-moments/using-interesting-moments.md" rel="nofollow"><strong>흥미로운 순간</strong></a></td> 
-   <td><p><strong>Marketing To Sales Insight</strong>에서 특정 연관성이 있다고 간주되는 사건(예: 누군가 사이트의 특정 페이지를 방문할 때 이메일에 있는 특정 링크를 클릭하는 등)입니다. 세일즈 팀이 알아야 할 사항입니다.</p></td> 
+   <td><p><strong>Marketo Sales Insight</strong>에서 특정 연관성이 있다고 간주되는 사건(예: 누군가 사이트의 특정 페이지를 방문할 때 이메일에 있는 특정 링크를 클릭하는 등)입니다. 세일즈 팀이 알아야 할 사항입니다.</p></td> 
   </tr> 
  </tbody> 
 </table>
 
-## K {#k}
+## 천 {#k}
 
 <table> 
  <colgroup> 
@@ -456,7 +456,7 @@ ht-degree: 0%
  <tbody> 
   <tr> 
    <td><a href="/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/features/tabs-in-the-msi-panel/interesting-moments/using-interesting-moments.md" rel="nofollow"><strong>알려진 사람</strong></a></td> 
-   <td><p>Marketing <strong>데이터베이스</strong>의 모든 개인 데이터는 알려진 개인 데이터로 간주됩니다. 다음과 같은 다양한 방법으로 데이터베이스를 입력할 수 있습니다.CRM 동기화, 양식 작성, 가져오기/수동 입력 목록 작성, 프로그래머틱(REST API/파트너 통합) 등 웹 방문자는 처음에는 <strong>쿠키</strong>(및 익명)이 Marketing의 <strong>Munchkin</strong> 웹 추적을 통해 발생한 후, 식별 가능한 작업이 발생할 때(예: Marketing to 이메일의 추적된 링크를 클릭하거나, 이메일 주소로 양식을 채우거나, Marketing을 통해 리드 API를 수동으로 매핑합니다. <a href="https://developers.marketo.com/javascript-api/lead-tracking/api-reference/#munchkin_associatelead">Munchkin</a> 및 <a href="https://developers.marketo.com/rest-api/endpoint-reference/lead-database-endpoint-reference/#!/Leads/associateLeadUsingPOST">Rest API</a> 모두에 있습니다.</p></td> 
+   <td><p>Marketo <strong>데이터베이스</strong>의 모든 개인 데이터는 알려진 개인 데이터로 간주됩니다. 다음과 같은 다양한 방법으로 데이터베이스를 입력할 수 있습니다.CRM 동기화, 양식 작성, 가져오기/수동 입력 목록 작성, 프로그래머틱(REST API/파트너 통합) 등 웹 방문자는 처음에 Marketo <strong>의 </strong> 쿠키(및 익명임)를 통해 <a href="https://developers.marketo.com/javascript-api/lead-tracking/api-reference/#munchkin_associatelead">(의 <strong>Munchkin</strong> 웹 추적을 통해) 후에 식별 가능한 작업이 발생하는 경우(예: Marketo 이메일의 추적된 링크를 클릭하거나, 이메일 주소로 양식을 채우거나, Marketo 연결 리드 API를 통해 수동으로 매핑됩니다(&lt;a). 4/&gt;Munchkin</a> 및 <a href="https://developers.marketo.com/rest-api/endpoint-reference/lead-database-endpoint-reference/#!/Leads/associateLeadUsingPOST">Rest API</a></p></td> 
   </tr> 
  </tbody> 
 </table>
@@ -474,15 +474,15 @@ ht-degree: 0%
     <div> 
      <p><strong>랜딩 페이지</strong></p> 
     </div></td> 
-   <td><strong>content</strong>을 표시하고 방문자를 추적할 수 있는 Marketing-to-hosted 페이지입니다. 다음과 같은 두 가지 유형이 있습니다.자유로운 형식 및 안내. <a href="/help/marketo/product-docs/demand-generation/landing-pages/understanding-landing-pages/understanding-free-form-vs-guided-landing-pages.md#free-form-pages" rel="nofollow">자유 형식의 랜딩 페이지</a> 를 사용하면 원하는 컨텐츠를 원하는 위치에 드래그하여 놓을 수 있습니다. <a href="/help/marketo/product-docs/demand-generation/landing-pages/understanding-landing-pages/understanding-free-form-vs-guided-landing-pages.md#guided-pages" rel="nofollow">안내 랜딩 </a> 페이지는 템플릿에 의해 결정된 사전 정의된 레이아웃/구조를 사용하여 더  <strong>엄격합니다</strong>.</td> 
+   <td><strong>content</strong>을 표시하고 방문자를 추적할 수 있는 Marketo 호스팅 페이지입니다. 다음과 같은 두 가지 유형이 있습니다.자유로운 형식 및 안내. <a href="/help/marketo/product-docs/demand-generation/landing-pages/understanding-landing-pages/understanding-free-form-vs-guided-landing-pages.md#free-form-pages" rel="nofollow">자유 형식의 랜딩 페이지</a> 를 사용하면 원하는 컨텐츠를 원하는 위치에 드래그하여 놓을 수 있습니다. <a href="/help/marketo/product-docs/demand-generation/landing-pages/understanding-landing-pages/understanding-free-form-vs-guided-landing-pages.md#guided-pages" rel="nofollow">안내 랜딩 </a> 페이지는 템플릿에 의해 결정된 사전 정의된 레이아웃/구조를 사용하여 더  <strong>엄격합니다</strong>.</td> 
   </tr> 
   <tr> 
    <td><strong><a href="https://launchpoint.marketo.com/" rel="nofollow">LaunchPoint</a></strong></td> 
-   <td>수백 개의 기술 및 디지털 서비스 파트너가 포함된 최고의 Marketing-to-integrated 솔루션을 활용할 수 있습니다.</td> 
+   <td>수백 개의 기술 및 디지털 서비스 파트너가 포함된 동급 최강의 Marketo 통합 솔루션을 제공합니다.</td> 
   </tr> 
   <tr> 
    <td><strong>리드</strong></td> 
-   <td><strong>Marketo Engage</strong>에서 리드는 마케팅 캠페인을 통해 참여하려는 Marketing Cloud <strong>데이터베이스</strong>의 개인을 설명하는 데 사용되는 이전 용어(<strong>person</strong>으로 대체됨)입니다. <strong>CRM</strong>에서 리드는 Marketing의 기능과 독립적인 다른 개념(즉, <strong>opportunity</strong>에 연결된 개인)을 나타낼 수 있습니다.</td> 
+   <td><strong>Marketo Engage</strong>에서 리드는 마케팅 캠페인을 통해 참여하려는 Marketo <strong>데이터베이스</strong>의 개인을 설명하는 데 사용되는 이전 용어(<strong>person</strong>으로 대체됨)입니다. <strong>CRM</strong>에서 리드는 Marketo 기능과 독립적인 다른 개념(즉, <strong>opportunity</strong>에 연결된 개인)을 나타낼 수 있습니다.</td> 
   </tr> 
   <tr> 
    <td colspan="1"><strong>리드 데이터베이스</strong></td> 
@@ -493,7 +493,7 @@ ht-degree: 0%
     <div> 
      <p><strong> 목록</strong></p> 
     </div></td> 
-   <td colspan="1">사람 컬렉션입니다. Marketing To에는 스마트 목록과 정적 목록이 있습니다. <a href="/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/understanding-smart-lists.md" rel="nofollow">스마트 목록</a>은 사용자가 정의한 필터(예: 캘리포니아에 거주하는 모든 데이터베이스 사용자)를 기반으로 지속적으로 변경할 수 있는 사람들의 동적 목록입니다. 새 사용자가 해당 기준을 적용받을 자격이 주어지면(또는 기존 사용자가 더 이상 자격이 부여되지 않음) 목록이 변경됩니다. <a href="/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/static-lists/understanding-static-lists.md" rel="nofollow">정적 목록</a>은 정적입니다. 수동으로 다른 사람을 추가/삭제하지 않는 한 변경되지 않습니다.</td> 
+   <td colspan="1">사람 컬렉션입니다. Marketo에는 스마트 목록과 정적 목록이 있습니다. <a href="/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/understanding-smart-lists.md" rel="nofollow">스마트 목록</a>은 사용자가 정의한 필터(예: 캘리포니아에 거주하는 모든 데이터베이스 사용자)를 기반으로 지속적으로 변경할 수 있는 사람들의 동적 목록입니다. 새 사용자가 해당 기준을 적용받을 자격이 주어지면(또는 기존 사용자가 더 이상 자격이 부여되지 않음) 목록이 변경됩니다. <a href="/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/static-lists/understanding-static-lists.md" rel="nofollow">정적 목록</a>은 정적입니다. 수동으로 다른 사람을 추가/삭제하지 않는 한 변경되지 않습니다.</td> 
   </tr> 
   <tr> 
    <td><a href="/help/marketo/product-docs/core-marketo-concepts/programs/creating-programs/understanding-local-assets-in-a-program.md" rel="nofollow"><strong>로컬 에셋</strong></a></td> 
@@ -502,7 +502,7 @@ ht-degree: 0%
  </tbody> 
 </table>
 
-## M {#m}
+## 백만 {#m}
 
 <table> 
  <colgroup> 
@@ -524,43 +524,43 @@ ht-degree: 0%
   </tr> 
   <tr> 
    <td colspan="1"><a href="/help/marketo/product-docs/email-marketing/deliverability/understanding-unsubscribe.md#marketing-suspended" rel="nofollow"><strong>마케팅 일시 중단</strong></a></td> 
-   <td colspan="1">이 필드는 <strong>user</strong>에서 수동으로 설정하여 <strong>데이터베이스</strong>에 있는 사용자가 일시적으로 사용할 수 없도록 합니다.</td> 
+   <td colspan="1">이 필드는 <strong>user</strong>이(가) Marketo <strong>데이터베이스</strong>에서 일시적으로 사용할 수 없도록 수동으로 설정합니다.</td> 
   </tr> 
   <tr> 
    <td colspan="1"><strong>Marketo Engage</strong></td> 
-   <td colspan="1">Adobe Experience Cloud 내에서 모든 Marketing 제품 제공의 집계에 대한 공식 브랜드 이름.</td> 
+   <td colspan="1">Adobe Experience Cloud 내의 모든 Marketo 제품 제품 솔루션의 집계에 대한 공식 브랜드 이름입니다.</td> 
   </tr> 
   <tr> 
-   <td colspan="1"><strong>MLM(Marketing To Lead Management)</strong></td> 
-   <td colspan="1">Marketing의 클래식 핵심 애플리케이션 인터페이스를 설명하는 데 사용되는 구어체 용어입니다.</td> 
+   <td colspan="1"><strong>Marketo 리드 관리(MLM)</strong></td> 
+   <td colspan="1">Marketo의 클래식 핵심 애플리케이션 인터페이스를 설명하는 데 사용되는 구어체 용어입니다.</td> 
   </tr> 
   <tr> 
-   <td colspan="1"><strong>MPI(Marketing To Performance Insights)</strong></td> 
+   <td colspan="1"><strong>Marketo 성능 통찰력(MPI)</strong></td> 
    <td colspan="1">( <strong><a href="#p">성과 인사이트</a></strong> 참조)</td> 
   </tr> 
   <tr> 
-   <td><strong><a href="/help/marketo/product-docs/marketo-sales-connect/getting-started/sales-connect-overview.md" rel="nofollow">Marketing To Sales Connect</a> (MSC)</strong></td> 
+   <td><strong><a href="/help/marketo/product-docs/marketo-sales-connect/getting-started/sales-connect-overview.md" rel="nofollow">Marketo Sales Connect</a> (MSC)</strong></td> 
    <td>잠재 고객과 교류하고 성과를 추적할 수 있는 Add-on, multi-factive sales 툴입니다.</td> 
   </tr> 
   <tr> 
-   <td colspan="1"><strong>Marketing To Sales Insight(MSI)</strong></td> 
+   <td colspan="1"><strong>Marketo Sales Insight(MSI)</strong></td> 
    <td colspan="1">마케터가 판매자에게 <strong>CRM</strong>의 마케팅 인사이트를 활용할 수 있는 추가 기능</td> 
   </tr> 
   <tr> 
    <td colspan="1"><strong><a href="https://experienceleague.adobe.com/docs/marketo/sky/home.html" rel="nofollow">Marketo Sky</a></strong></td> 
-   <td colspan="1">(이전) 차세대 Marketing 인터페이스. 새로운 디자인, 워크플로우 및 기능을 활용하여 Market을 최대한 활용할 수 있습니다.</td> 
+   <td colspan="1">차세대 Marketo 인터페이스. 새로운 디자인, 워크플로우 및 기능을 활용하여 Marketo을 최대한 활용할 수 있습니다.</td> 
   </tr> 
   <tr> 
    <td><strong>Microsoft Dynamics</strong></td> 
-   <td>MSD라고도 합니다. 두 CRM 중 하나. Marketing은 기본적으로 통합되어 있습니다(<a href="#c"><strong>CRM</strong></a> 참조).</td> 
+   <td>MSD라고도 합니다. 두 CRM 중 하나입니다. Marketo은 기본적으로 통합되어 있습니다(<a href="#c"><strong>CRM</strong></a> 참조).</td> 
   </tr> 
   <tr> 
    <td><strong><a href="https://developers.marketo.com/javascript-api/lead-tracking/" rel="nofollow">먼크킨</a></strong></td> 
-   <td>Marketing의 사용자 지정 JavaScript 추적 코드. 웹 사이트를 방문하는 모든 사용자를 추적합니다. 여기에는 익명의 방문자(IP 주소 및 기타 정보와 함께)가 포함됩니다. </td> 
+   <td>Marketo의 사용자 지정 JavaScript 추적 코드. 웹 사이트를 방문하는 모든 사용자를 추적합니다. 여기에는 익명의 방문자(IP 주소 및 기타 정보와 함께)가 포함됩니다. </td> 
   </tr> 
   <tr> 
-   <td colspan="1"><strong>내 마케팅</strong></td> 
-   <td colspan="1">Marketo Engage의 표준 섹션 중 하나입니다. 사용자가 액세스할 수 있는 마케팅의 모든 섹션에 대한 타일을 표시하는 마케팅 "홈 페이지"로 작동합니다.</td> 
+   <td colspan="1"><strong>내 Marketo</strong></td> 
+   <td colspan="1">Marketo Engage의 표준 섹션 중 하나입니다. 액세스 권한이 있는 Marketo의 모든 섹션에 대한 타일을 표시하는 Marketo "홈 페이지" 역할을 합니다.</td> 
   </tr> 
   <tr> 
    <td colspan="1"><a href="/help/marketo/product-docs/core-marketo-concepts/programs/tokens/understanding-my-tokens-in-a-program.md" rel="nofollow"><strong>내 토큰</strong></a></td> 
@@ -598,7 +598,7 @@ ht-degree: 0%
  <tbody> 
   <tr> 
    <td><strong>열기</strong></td> 
-   <td><p>이미지가 <strong>email</strong>로 다운로드되면 열린 레지스터가 생성됩니다. 이미지를 포함하지 않더라도 기본적으로 Marketing에서는 모든 HTML 이메일에 단일 추적 픽셀을 삽입합니다. 텍스트 전용 이메일은 열린 항목을 등록할 수 없습니다.</p></td> 
+   <td><p>이미지가 <strong>email</strong>로 다운로드되면 열린 레지스터가 생성됩니다. 이미지를 포함하지 않더라도 기본적으로 Marketo은 모든 HTML 이메일에 단일 추적 픽셀을 삽입합니다. 텍스트 전용 이메일은 열린 항목을 등록할 수 없습니다.</p></td> 
   </tr> 
   <tr> 
    <td colspan="1"><strong><a href="/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/make-an-email-operational.md" rel="nofollow">운영 이메일</a></strong></td> 
@@ -606,7 +606,7 @@ ht-degree: 0%
   </tr> 
   <tr> 
    <td><strong>기회</strong></td> 
-   <td>기회는 잠재적 향후 판매로 <strong>사람</strong> 또는 <strong>계정</strong>과 연결할 수 있습니다. 일반적으로 <strong>CRM</strong> 또는 <strong>API</strong>를 통해 Marketing에 입장합니다.</td> 
+   <td>기회는 잠재적 향후 판매로 <strong>사람</strong> 또는 <strong>계정</strong>과 연결할 수 있습니다. 일반적으로 <strong>CRM</strong> 또는 <strong>API</strong>를 통해 Marketo을 입력합니다.</td> 
   </tr> 
   <tr> 
    <td><strong>옵트인</strong></td> 
@@ -629,7 +629,7 @@ ht-degree: 0%
  <tbody> 
   <tr> 
    <td colspan="1"><a href="/help/marketo/product-docs/reporting/basic-reporting/report-types/people-performance-report.md" rel="nofollow"><strong>사람 성과 보고서</strong></a></td> 
-   <td colspan="1">Marketing의 보고서 유형입니다. 시간 경과에 따라 <strong>데이터베이스</strong>의 증가를 측정할 수 있습니다.</td> 
+   <td colspan="1">Marketo의 보고서 유형입니다. 시간 경과에 따라 <strong>데이터베이스</strong>의 증가를 측정할 수 있습니다.</td> 
   </tr> 
   <tr> 
    <td colspan="1"><a href="/help/marketo/product-docs/core-marketo-concepts/programs/working-with-programs/understanding-period-costs.md" rel="nofollow"><strong>기간 비용</strong></a></td> 
@@ -640,11 +640,11 @@ ht-degree: 0%
     <div> 
      <p><a href="/help/marketo/product-docs/reporting/performance-insights/performance-insights-overview.md" rel="nofollow"><strong> 성과 통찰력</strong></a></p> 
     </div></td> 
-   <td colspan="1">이전에 MPI(Marketing to Performance Insights)라고 불렀습니다. 다양한 툴을 사용하여 트렌드를 발견하고 일관된 우승 전략을 확인하는 추가 분석 기능입니다.</td> 
+   <td colspan="1">이전에 MPI(Marketo Performance Insights)라고 불렀습니다. 다양한 툴을 사용하여 트렌드를 발견하고 일관된 우승 전략을 확인하는 추가 분석 기능입니다.</td> 
   </tr> 
   <tr> 
    <td><strong>Person</strong></td> 
-   <td>마케팅 캠페인을 통해 참여한 <strong>데이터베이스</strong>의 개인.</td> 
+   <td>마케팅 캠페인을 통해 참여하려는 Marketo <strong>데이터베이스</strong>의 개인.</td> 
   </tr> 
   <tr> 
    <td colspan="1"><strong><a href="/help/marketo/product-docs/administration/workspaces-and-person-partitions/understanding-workspaces-and-person-partitions.md#person-partitions" rel="nofollow">개인 파티션</a></strong></td> 
@@ -652,18 +652,18 @@ ht-degree: 0%
   </tr> 
   <tr> 
    <td colspan="1"><a href="/help/marketo/product-docs/target-account-management/using-personas.md" rel="nofollow"><strong>페르소나</strong></a></td> 
-   <td colspan="1">Marketing의 <strong>계정 기반 마케팅</strong>에서 개인은 대상의 하위 집합이므로 보다 구체적인 타깃팅을 허용할 수 있습니다.</td> 
+   <td colspan="1">Marketo의 <strong>계정 기반 마케팅</strong>에서 개인은 대상의 하위 집합이므로 보다 구체적인 타깃팅을 허용할 수 있습니다.</td> 
   </tr> 
   <tr> 
-   <td colspan="1"><a href="/help/marketo/product-docs/demand-generation/social/creating-a-poll/create-a-poll.md" rel="nofollow"><strong>투표</strong></a></td> 
-   <td colspan="1">Markto에서의 투표는 일반적인 투표와 같습니다. 사람들이 투표하고 마케팅 <strong>랜딩 페이지</strong>, 웹 사이트 및/또는 소셜 미디어에서 공유할 항목을 만듭니다.</td> 
+   <td colspan="1"><a href="/help/marketo/product-docs/demand-generation/social/creating-a-poll/create-a-poll.md" rel="nofollow"><strong>여론 조사</strong></a></td> 
+   <td colspan="1">Marketo에서의 여론조사는 일반적인 투표와 같다. 사람들이 투표하고 Marketo <strong>랜딩 페이지</strong>, 웹 사이트 및/또는 소셜 미디어에서 공유할 항목을 만듭니다.</td> 
   </tr> 
   <tr> 
    <td> 
     <div> 
      <p><strong>예측 컨텐츠</strong></p> 
     </div></td> 
-   <td>(이전의 ContentAI) 머신 러닝 및 예측 분석에서 제공하는 권장 사항을 사용하여 Marketing 사용자가 관련성이 가장 높은 <strong>content</strong>로 웹 방문자와 이메일 수신자의 참여를 유도할 수 있도록 돕는 추가 기능</td> 
+   <td>(이전의 ContentAI) 머신 러닝 및 예측 분석에서 제공하는 권장 사항을 사용하여 Marketo 사용자가 가장 관련성이 높은 <strong>content</strong>로 웹 방문자와 이메일 수신자의 참여를 유도할 수 있도록 돕는 추가 기능</td> 
   </tr> 
   <tr> 
    <td colspan="1"><strong><a href="/help/marketo/product-docs/core-marketo-concepts/programs/creating-programs/understanding-programs.md" rel="nofollow">프로그램</a></strong></td> 
@@ -675,7 +675,7 @@ ht-degree: 0%
   </tr> 
   <tr> 
    <td colspan="1"><a href="/help/marketo/product-docs/core-marketo-concepts/programs/program-performance-report/create-a-program-performance-report.md" rel="nofollow"><strong>프로그램 성과 보고서</strong></a></td> 
-   <td colspan="1">Marketing의 보고서 유형입니다. 이를 통해 프로그램의 효과를 확인할 수 있습니다. <strong>태그</strong>, <strong>기간 비용</strong> 등으로 필터링합니다.</td> 
+   <td colspan="1">Marketo의 보고서 유형입니다. 이를 통해 프로그램의 효과를 확인할 수 있습니다. <strong>태그</strong>, <strong>기간 비용</strong> 등으로 필터링합니다.</td> 
   </tr> 
  </tbody> 
 </table>
@@ -725,7 +725,7 @@ ht-degree: 0%
   </tr> 
   <tr> 
    <td colspan="1"><strong>역할 계정</strong></td> 
-   <td colspan="1">개별 개인이 아닌 부서 또는 직책(예: 보안@, sysadmin@ 등)에 속하는 이메일 주소입니다. Marketing To는 개별 구독자와 연결할 수 없는 <a href="https://nation.marketo.com/t5/Support-Blogs/Suppressing-addresses-to-protect-customers-amp-The-Network/ba-p/241295" rel="nofollow">특정 역할 계정</a>으로 메일을 보내는 것을 차단합니다.</td> 
+   <td colspan="1">개별 개인이 아닌 부서 또는 직책(예: 보안@, sysadmin@ 등)에 속하는 이메일 주소입니다. Marketo은 개별 가입자와 연결할 수 없는 <a href="https://nation.marketo.com/t5/Support-Blogs/Suppressing-addresses-to-protect-customers-amp-The-Network/ba-p/241295" rel="nofollow">특정 역할 계정</a>으로 메일을 보내는 것을 차단합니다.</td> 
   </tr> 
  </tbody> 
 </table>
@@ -740,7 +740,7 @@ ht-degree: 0%
  <tbody> 
   <tr> 
    <td colspan="1"><strong>Salesforce</strong></td> 
-   <td colspan="1">SFDC라고도 합니다. 두 CRM 중 하나. Marketing은 기본적으로 통합되어 있습니다(<a href="#c"><strong>CRM</strong></a> 참조).</td> 
+   <td colspan="1">SFDC라고도 합니다. 두 CRM 중 하나입니다. Marketo은 기본적으로 통합되어 있습니다(<a href="#c"><strong>CRM</strong></a> 참조).</td> 
   </tr> 
   <tr> 
    <td colspan="1"><a href="/help/marketo/product-docs/email-marketing/general/creating-an-email/send-a-sample-email.md" rel="nofollow"><strong>샘플 이메일</strong></a></td> 
@@ -760,7 +760,7 @@ ht-degree: 0%
   </tr> 
   <tr> 
    <td colspan="1"><a href="https://docs.marketo.com/x/oA8t" rel="nofollow"><strong>스마트 캠페인</strong></a></td> 
-   <td colspan="1">Marketing Cloud에서 가장 중요한 툴 중 하나 이 작업은 사용자가 결정한 기준에 따라 지정한 작업을 수행합니다. ( <strong><a href="#b">일괄 캠페인</a></strong> 및 <strong><a href="#t">캠페인 트리거 참조</a></strong>)</td> 
+   <td colspan="1">Marketo에서 가장 중요한 툴 중 하나. 이 작업은 사용자가 결정한 기준에 따라 지정한 작업을 수행합니다. ( <strong><a href="#b">일괄 캠페인</a></strong> 및 <strong><a href="#t">캠페인 트리거 참조</a></strong>)</td> 
   </tr> 
   <tr> 
    <td colspan="1"><strong>스마트 목록</strong></td> 
@@ -776,7 +776,7 @@ ht-degree: 0%
   </tr> 
   <tr> 
    <td colspan="1"><strong>SaaS(Software as a Service)</strong></td> 
-   <td colspan="1">다운로드가 필요 없는 소프트웨어 전달 방법, 웹 브라우저와 인터넷 연결(예: Marketing To)이 있는 장치입니다. </td> 
+   <td colspan="1">다운로드가 필요 없는 소프트웨어 전달 방법, 웹 브라우저와 인터넷 연결이 있는 장치(예: Marketo). </td> 
   </tr> 
   <tr> 
    <td colspan="1"><strong>스팸</strong></td> 
@@ -819,11 +819,11 @@ ht-degree: 0%
   </tr> 
   <tr> 
    <td colspan="1"><strong><a href="/help/marketo/product-docs/demand-generation/landing-pages/personalizing-landing-pages/tokens-overview.md" rel="nofollow">토큰</a></strong></td> 
-   <td colspan="1">개인화된 데이터의 자동 삽입을 허용하는 Marketing의 다양한 자산/함수에 사용할 수 있는 변수.</td> 
+   <td colspan="1">개인화된 데이터의 자동 삽입을 허용하는 Marketo 내의 다양한 자산/함수에 사용할 수 있는 변수.</td> 
   </tr> 
   <tr> 
    <td colspan="1"><strong>트리</strong></td> 
-   <td colspan="1">항목을 계층 구조로 표시하는 Marketing의 왼쪽에 있는 열. Marketing 인스턴스에 있는 모든 것을 표시합니다(예: <strong>workspaces</strong>, <strong>programs</strong>, <strong>로컬 에셋</strong> 등).</td> 
+   <td colspan="1">항목을 계층 구조로 표시하는 Marketo의 왼쪽에 있는 열. Marketo 인스턴스에 있는 모든 것을 표시합니다(예: <strong>workspaces</strong>, <strong>programs</strong>, <strong>로컬 에셋</strong> 등).</td> 
   </tr> 
   <tr> 
    <td><strong>트리거</strong></td> 
@@ -855,12 +855,12 @@ ht-degree: 0%
    <td colspan="1"><strong>사람</strong>이 더 이상 마케팅 이메일을 받지 않기로 선택하면 옵트아웃에 대한 다른 용어가 됩니다.</td> 
   </tr> 
   <tr> 
-   <td><strong><a href="/help/marketo/product-docs/email-marketing/deliverability/understanding-unsubscribe.md#unsubscribed" rel="nofollow">구독 취소</a></strong></td> 
+   <td><strong><a href="/help/marketo/product-docs/email-marketing/deliverability/understanding-unsubscribe.md#unsubscribed" rel="nofollow">주소 삭제</a></strong></td> 
    <td>받는 사람이 마케팅 이메일을 더 이상 받지 않기로 선택했음을 나타내는 상태. 구독이 취소됨으로 표시된 사람은 여전히 <strong>운영 이메일</strong>을 받을 수 있습니다.</td> 
   </tr> 
   <tr> 
    <td><strong>사용자</strong></td> 
-   <td>Marketing을 사용하는 개인.</td> 
+   <td>Marketo을 사용하는 개인</td> 
   </tr> 
  </tbody> 
 </table>
@@ -882,23 +882,23 @@ ht-degree: 0%
   </tr> 
   <tr> 
    <td><strong><a href="/help/marketo/product-docs/reporting/basic-reporting/report-types/web-page-activity-report.md" rel="nofollow">웹 페이지 활동 보고서</a></strong></td> 
-   <td>Marketing의 보고서 유형입니다. 웹 사이트를 방문하는 알려진 <i> 또는</i> 익명의 사용자를 볼 수 있습니다.</td> 
+   <td>Marketo의 보고서 유형입니다. 웹 사이트를 방문하는 알려진 <i> 또는</i> 익명의 사용자를 볼 수 있습니다.</td> 
   </tr> 
   <tr> 
    <td><strong><a href="/help/marketo/product-docs/web-personalization/understanding-web-personalization/web-personalization-overview.md" rel="nofollow">웹 개인화</strong></td> 
-   <td>타깃팅 및 개인화 플랫폼을 제공하는 추가 기능을 통해 Marketing To 사용자는 자신뿐만 아니라 자신의 행동에 따라 실시간으로 알려진 익명의 방문자와 교류할 수 있습니다.</td> 
+   <td>타깃팅 및 개인화 플랫폼을 제공하는 추가 기능을 통해 Marketo 사용자는 자신뿐만 아니라 자신의 행동에 따라 실시간으로 알려진 익명의 방문자와 정보를 교류할 수 있습니다.</td> 
   </tr>
   <tr> 
    <td><strong>웨비나</strong></td> 
-   <td>웹 기반 세미나. 마케팅에서 웨비나는 서로 다른 <strong><a href="/help/marketo/product-docs/demand-generation/events/understanding-events/launchpoint-event-partners.md" rel="nofollow">이벤트 파트너를 통해 수행할 수 있습니다.</a></strong></td> 
+   <td>웹 기반 세미나. Marketo에서 웨비나는 다양한 <strong><a href="/help/marketo/product-docs/demand-generation/events/understanding-events/launchpoint-event-partners.md" rel="nofollow">이벤트 파트너를 통해 수행할 수 있습니다.</a></strong></td> 
   </tr> 
   <tr> 
    <td><strong><a href="/help/marketo/product-docs/web-personalization/website-retargeting/retargeting-with-web-personalization-data.md" rel="nofollow">웹 사이트 리타겟팅</a></strong></td> 
-   <td>업계, 지정된 계정 및 알려진 데이터를 기반으로 관련 광고를 통해 Marketing 사용자가 알려진 방문자와 익명의 방문자(Facebook 및 Google을 통해)를 타겟팅하는 데 도움이 되는 추가 기능</td> 
+   <td>업계, 명명된 계정 및 알려진 데이터를 기반으로 관련 광고를 통해 Marketo 사용자가 알려진 방문자와 익명의 방문자(Facebook 및 Google을 통해)를 타겟팅하는 데 도움이 되는 추가 기능</td> 
   </tr> 
   <tr> 
    <td><strong>표시되는 기능(WYSIWYG)</strong></td> 
-   <td>만들 때 <strong>content</strong>의 최종 결과를 볼 수 있는 응용 프로그램 또는 편집기를 참조하는 일반 용어입니다. Marketing에는 WYSIWYG 편집기가 있습니다.</td> 
+   <td>만들 때 <strong>content</strong>의 최종 결과를 볼 수 있는 응용 프로그램 또는 편집기를 참조하는 일반 용어입니다. Marketo에는 WYSIWYG 편집기가 있습니다.</td> 
   </tr> 
   <tr> 
    <td><strong>위젯</strong></td> 
@@ -910,9 +910,7 @@ ht-degree: 0%
   </tr> 
   <tr> 
    <td><strong><a href="/help/marketo/product-docs/administration/workspaces-and-person-partitions/understanding-workspaces-and-person-partitions.md" rel="nofollow">작업 영역</a></strong></td> 
-   <td>마케팅 <strong>자산</strong>을 포함하는 Marketing의 별도의 영역입니다. 예를 들어 해당 지역의 마케팅에 엄격하게 사용하는 "북미"라는 작업 영역이 있을 수 있습니다. 유럽, 아시아 등</td> 
+   <td>마케팅 <strong>자산</strong>을 포함하는 Marketo의 별도의 영역입니다. 예를 들어 해당 지역의 마케팅에 엄격하게 사용하는 "북미"라는 작업 영역이 있을 수 있습니다. 유럽, 아시아 등</td> 
   </tr>  
  </tbody> 
 </table>
-
-
