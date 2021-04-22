@@ -1,15 +1,15 @@
 ---
 unique-page-id: 2949226
-description: SEO - 인바운드 링크 이해 - 마케팅 문서 - 제품 설명서
+description: SEO - 인바운드 링크 이해 - Marketo 문서 - 제품 설명서
 title: SEO - 인바운드 링크 이해
+exl-id: 2f70cff9-1873-4083-927d-a65cae98af54
 translation-type: tm+mt
-source-git-commit: 37697e2d6f1d86a6cd1de5d567a3d384160415cb
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '120'
 ht-degree: 0%
 
 ---
-
 
 # SEO - 인바운드 링크 {#seo-understanding-inbound-links} 이해
 
