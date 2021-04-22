@@ -1,15 +1,15 @@
 ---
 unique-page-id: 2359412
-description: 양식이 있는 랜딩 페이지 - 마케팅 문서 - 제품 설명서
+description: 양식이 있는 랜딩 페이지 - Marketo 문서 - 제품 설명서
 title: 양식이 있는 랜딩 페이지
+exl-id: 4ae6df7c-96d0-4bfe-962c-e14ecb877a6a
 translation-type: tm+mt
-source-git-commit: d7d6aee63144c472e02fe0221c4a164183d04dd4
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '542'
 ht-degree: 0%
 
 ---
-
 
 # {#landing-page-with-a-form} 양식이 있는 랜딩 페이지
 
@@ -69,7 +69,7 @@ ht-degree: 0%
 
    >[!TIP]
    >
-   >양식 편집기가 표시되지 않습니까? 브라우저가 창을 차단했을 수 있습니다. 브라우저의 [app.marketing.com](https://app.marketo.com/)에서 팝업을 활성화하고 맨 위 메뉴 모음에서 초안 편집을 클릭합니다.
+   >양식 편집기가 표시되지 않습니까? 브라우저가 창을 차단했을 수 있습니다. 브라우저의 [app.markto.com](https://app.marketo.com/)에서 팝업을 활성화하고 맨 위 메뉴 모음에서 초안 편집을 클릭합니다.
 
 1. **이메일 주소** 필드를 선택하고 **필수**&#x200B;인지 확인합니다.
 
