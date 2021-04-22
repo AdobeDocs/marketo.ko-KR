@@ -1,15 +1,15 @@
 ---
 unique-page-id: 2953405
-description: 분석 동작 설정 편집 - 마케팅 문서 - 제품 설명서
+description: 분석 동작 설정 편집 - Marketo 문서 - 제품 설명서
 title: 분석 동작 설정 편집
+exl-id: 672973f9-35f7-4427-8bea-8f2e0c9d0b35
 translation-type: tm+mt
-source-git-commit: 07f713ece9832b7696451001f61c6a3b45b4a94a
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '182'
 ht-degree: 0%
 
 ---
-
 
 # 분석 동작 설정 편집 {#edit-analytics-behavior-settings}
 
