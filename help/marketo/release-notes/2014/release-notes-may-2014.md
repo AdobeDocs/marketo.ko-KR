@@ -1,19 +1,19 @@
 ---
 unique-page-id: 2951044
-description: 릴리스 노트 - 2014년 5월 - Marketing Docs - 제품 설명서
+description: 릴리스 노트 - 2014년 5월 - Marketo 문서 - 제품 설명서
 title: 릴리스 노트 - 2014년 5월
+exl-id: c7b5b2c1-ea3d-483b-8a65-c4d6313bfe31
 translation-type: tm+mt
-source-git-commit: 029d8b419ba5078980b4fde9890bdb35194bf264
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '460'
 ht-degree: 0%
 
 ---
 
-
 # 릴리스 노트:2014년 5월 {#release-notes-may}
 
-다음 기능은 2014년 5월 릴리스에 포함되어 있습니다. 기능을 사용할 수 있는지 확인하려면 Marketing To Edition을 확인하십시오. 릴리스 후에는 각 기능에 대한 자세한 기술 자료 아티클에 대한 링크를 다시 찾으십시오.
+다음 기능은 2014년 5월 릴리스에 포함되어 있습니다. 기능을 사용할 수 있는지 Marketo Edition을 확인하십시오. 릴리스 후에는 각 기능에 대한 자세한 기술 자료 아티클에 대한 링크를 다시 찾으십시오.
 
 ## 작업 영역 삭제 {#delete-workspace}
 
@@ -33,7 +33,7 @@ ht-degree: 0%
 
 ## 텍스트 이메일의 링크 추적 {#link-tracking-in-text-emails}
 
-[이메일 텍스트 ](/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/add-tracked-links-to-a-text-email.md) 버전에서 URL 주위에 이중 정사각형 대괄호를 추가하여 링크를 다시 지정 Marketing to 추적 링크로 변환해야 하는 시기를 표시합니다.
+[이메일 텍스트 ](/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/add-tracked-links-to-a-text-email.md) 버전에서 URL 주위에 이중 정사각형 대괄호를 추가하여 링크가 다시 지정된 Marketo 추적 링크로 변환되어야 하는 시기를 표시합니다.
 
 >[!NOTE]
 >
