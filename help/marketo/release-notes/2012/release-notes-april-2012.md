@@ -1,15 +1,15 @@
 ---
 unique-page-id: 2951119
-description: 릴리스 노트 - 2012년 4월 - Marketing Docs - 제품 설명서
+description: 릴리스 노트 - 2012년 4월 - Marketo 문서 - 제품 설명서
 title: 릴리스 노트 - 2012년 4월
+exl-id: 2568911a-071f-42b3-a4be-e951c9fc2ac5
 translation-type: tm+mt
-source-git-commit: 029d8b419ba5078980b4fde9890bdb35194bf264
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '376'
 ht-degree: 0%
 
 ---
-
 
 # 릴리스 노트:2012년 4월 {#release-notes-april}
 
@@ -32,7 +32,7 @@ ht-degree: 0%
 
 ## 한 번의 클릭으로 여러 이미지 및 파일 업로드!{#upload-multiple-images-and-files-with-a-single-click}
 
-이미지와 파일을 Marketing To로 가져올 때 작업 시간을 단축하고 효율성을 높일 수 있습니다. Firefox 또는 Google Chrome을 사용하는 경우 파일을 여러 개 선택하고 한 번에 모두 업로드할 수 있습니다. 업로드할 수 있는 파일 수에는 제한이 없지만 파일당 개별 크기 제한은 50MB입니다.
+이미지와 파일을 Marketo으로 가져올 때 작업 시간을 단축하고 효율성을 높일 수 있습니다. Firefox 또는 Google Chrome을 사용하는 경우 파일을 여러 개 선택하고 한 번에 모두 업로드할 수 있습니다. 업로드할 수 있는 파일 수에는 제한이 없지만 파일당 개별 크기 제한은 50MB입니다.
 
 참고:지금은 브라우저의 제한으로 인해 Internet Explorer에서 이 기능이 지원되지 않습니다.
 
@@ -50,7 +50,7 @@ ht-degree: 0%
 
 Salesforce와 구독을 동기화하지 않으면 Salesforce를 참조하는 모든 폴더 및 흐름 작업이 제거됩니다.
 
-## 마케팅 매출 주기 분석 {#marketo-revenue-cycle-analytics}
+## Marketo 매출 주기 분석 {#marketo-revenue-cycle-analytics}
 
 **수익 주기 모델러의 향상된 게이트 단계**
 
