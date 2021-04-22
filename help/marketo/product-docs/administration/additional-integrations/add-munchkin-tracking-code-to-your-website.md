@@ -1,29 +1,29 @@
 ---
 unique-page-id: 2360354
-description: 웹 사이트 - Marketing To Docs - 제품 문서에 Munchkin 추적 코드 추가
+description: 웹 사이트에 Munchkin 추적 코드 추가 - Marketo Docs - 제품 설명서
 title: 웹 사이트에 Munchkin 추적 코드 추가
+exl-id: a03a7f11-8d5e-4325-b975-8fc350711da0
 translation-type: tm+mt
-source-git-commit: 78961a3e163ce903facf955a9dda6909b5e85bad
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '673'
 ht-degree: 0%
 
 ---
 
-
 # 웹 사이트 {#add-munchkin-tracking-code-to-your-website}에 Munchkin 추적 코드 추가
 
-Munchkin이라고 불리는 Marketing의 사용자 지정 JavaScript 추적 코드는 자동화된 마케팅 캠페인을 통해 방문자의 방문에 대응할 수 있도록 웹 사이트를 방문하는 모든 사람을 추적합니다. 익명의 방문자도 IP 주소 및 기타 정보와 함께 추적됩니다. **이 추적 코드가 없으면 웹 사이트에서 방문 또는 기타 활동을 추적할 수 없습니다**.
+Marketo의 사용자 지정 JavaScript 추적 코드(Munchkin)는 웹 사이트를 방문하는 모든 개인을 추적하므로 자동화된 마케팅 캠페인을 통해 방문에 대응할 수 있습니다. 익명의 방문자도 IP 주소 및 기타 정보와 함께 추적됩니다. **이 추적 코드가 없으면 웹 사이트에서 방문 또는 기타 활동을 추적할 수 없습니다**.
 
 >[!PREREQUISITES]
 >
->숙련된 JavaScript 개발자에 대한 액세스 권한이 있는지 확인하십시오. 사용자 지정 JavaScript 문제 해결을 지원하기 위해 Marketing To 기술 지원이 설정되어 있지 않습니다.
+>숙련된 JavaScript 개발자에 대한 액세스 권한이 있는지 확인하십시오. 사용자 지정 JavaScript 문제 해결을 지원하기 위해 Marketo 기술 지원이 설정되어 있지 않습니다.
 
 ## 웹 사이트 {#add-tracking-code-to-your-website}에 추적 코드 추가
 
 >[!NOTE]
 >
->Adobe Experience Cloud 고객은 Adobe Launch에서 Marketing의 통합을 사용하여 웹 페이지에 Munchkin 스크립트를 포함할 수도 있습니다. 앱 [여기](https://www.adobeexchange.com/experiencecloud.details.101054.html)를 가져옵니다.
+>또한 Adobe Experience Cloud 고객은 Adobe Launch에서 Marketo의 통합을 사용하여 웹 페이지에 Munchkin 스크립트를 포함시킬 수 있습니다. 앱 [여기](https://www.adobeexchange.com/experiencecloud.details.101054.html)를 가져옵니다.
 
 1. **관리**&#x200B;로 이동하고 왼쪽의 트리에서 **Munchkin**&#x200B;을 클릭합니다.
 
@@ -58,7 +58,7 @@ Munchkin이라고 불리는 Marketing의 사용자 지정 JavaScript 추적 코�
 
 ## 여러 작업 영역 사용 시 추적 코드 추가 {#add-tracking-code-when-using-multiple-workspaces}
 
-Marketing To 계정에서 작업 영역을 사용하는 경우 작업 영역에 해당하는 별도의 웹 프레젠테이션도 있을 수 있습니다. 이러한 경우 Munchkin 추적 Javascript를 사용하여 익명의 사용자를 올바른 작업 공간과 파티션에 할당할 수 있습니다.
+Marketo 계정에서 작업 영역을 사용하는 경우 작업 영역에 해당하는 별도의 웹 프레젠테이션도 있을 수 있습니다. 이러한 경우 Munchkin 추적 Javascript를 사용하여 익명의 사용자를 올바른 작업 공간과 파티션에 할당할 수 있습니다.
 
 1. **관리**&#x200B;로 이동하고 왼쪽의 트리에서 **Munchkin**&#x200B;을 클릭합니다.
 
@@ -70,7 +70,7 @@ Marketing To 계정에서 작업 영역을 사용하는 경우 작업 영역에 
 
 >[!NOTE]
 >
->특수 작업 공간 Munchkin 코드를 사용하지 않는 경우 계정이 설정되었을 때 만들어진 기본 파티션에 사람들이 할당됩니다. 초기에는 &quot;기본값&quot;이라고 지정되어 있지만 자체 Marketing 계정에서 변경했을 수 있습니다.
+>특수 작업 공간 Munchkin 코드를 사용하지 않는 경우 계정이 설정되었을 때 만들어진 기본 파티션에 사람들이 할당됩니다. 초기에는 &quot;기본값&quot;이라고 지정되어 있지만 자신의 Marketo 계정에서 변경했을 수 있습니다.
 
 1. 추적 코드 유형에 대해 **비동기**&#x200B;을 선택합니다.
 
@@ -94,7 +94,7 @@ Marketing To 계정에서 작업 영역을 사용하는 경우 작업 영역에 
 
 >[!NOTE]
 >
->Marketing Cloud에서 만든 랜딩 페이지에는 추적 코드가 자동으로 포함되므로 이 코드를 여기에 넣을 필요가 없습니다.
+>Marketo에서 만든 랜딩 페이지에는 추적 코드가 자동으로 포함되므로 이 코드를 페이지에 넣을 필요가 없습니다.
 
 ## Munchkin 추적 코드 유형 {#types-of-munchkin-tracking-codes}
 
