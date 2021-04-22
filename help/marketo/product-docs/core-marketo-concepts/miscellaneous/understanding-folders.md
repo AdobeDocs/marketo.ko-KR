@@ -1,15 +1,15 @@
 ---
 unique-page-id: 4720779
-description: 폴더 이해 - 마케팅 문서 - 제품 설명서
+description: 폴더 이해 - Marketo 문서 - 제품 설명서
 title: 폴더 이해
+exl-id: 2ea914f6-ca64-4e87-806c-93beba075ab2
 translation-type: tm+mt
-source-git-commit: e5050328cbddaf072dd60ddd8d7363a704e720b5
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '277'
 ht-degree: 0%
 
 ---
-
 
 # 폴더 이해 {#understanding-folders}
 
@@ -59,7 +59,7 @@ ht-degree: 0%
 
 ## {#archive-a-folder} 폴더 보관
 
-Marketing To에서는 기존 폴더를 보관 폴더로 변환할 수 있습니다. 보관 폴더는 마케팅 활동, 데이터베이스 및 디자인 스튜디오에 있습니다.
+Marketo에서는 기존 폴더를 보관 폴더로 변환할 수 있습니다. 보관 폴더는 마케팅 활동, 데이터베이스 및 디자인 스튜디오에 있습니다.
 
 ![](assets/image2015-4-20-19-3a3-3a46.png)
 
