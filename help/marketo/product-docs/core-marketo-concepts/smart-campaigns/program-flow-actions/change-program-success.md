@@ -1,15 +1,15 @@
 ---
 unique-page-id: 1147009
-description: 프로그램 변경 성공 - 마케팅 문서 - 제품 설명서
+description: 변경 프로그램 성공 - Marketo 문서 - 제품 설명서
 title: 프로그램 변경 성공
+exl-id: 5b45b6d0-0c3d-4677-8b9a-8bbf03b1209e
 translation-type: tm+mt
-source-git-commit: 5b9f48c98464c79bcdca2e335f6a4a2edce98ce4
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '141'
 ht-degree: 0%
 
 ---
-
 
 # 프로그램 변경 성공 {#change-program-success}
 
