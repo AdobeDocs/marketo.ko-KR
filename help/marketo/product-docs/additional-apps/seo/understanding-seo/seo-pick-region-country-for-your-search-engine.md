@@ -1,15 +1,15 @@
 ---
 unique-page-id: 2949190
-description: SEO - 검색 엔진에 대한 지역/국가 선택 - 마케팅 문서 - 제품 설명서
+description: SEO - 검색 엔진에 대한 지역/국가 선택 - Marketo 문서 - 제품 설명서
 title: SEO - 검색 엔진에 대한 지역/국가 선택
+exl-id: dc53415c-eb11-41f9-b992-172a32359cef
 translation-type: tm+mt
-source-git-commit: 37697e2d6f1d86a6cd1de5d567a3d384160415cb
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '119'
 ht-degree: 0%
 
 ---
-
 
 # SEO - 검색 엔진에 대한 지역/국가 선택 {#seo-pick-region-country-for-your-search-engine}
 
