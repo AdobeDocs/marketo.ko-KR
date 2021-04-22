@@ -1,19 +1,19 @@
 ---
 unique-page-id: 2360344
-description: Marketing To와 Salesforce 간 필드 매핑 보기 - Marketing To Docs - 제품 설명서
-title: Marketing To와 Salesforce 간 필드 매핑 보기
+description: Marketo과 Salesforce 간 필드 매핑 보기 - Marketo 문서 - 제품 설명서
+title: Marketo과 Salesforce 간 필드 매핑 보기
+exl-id: a60835ec-da8f-4141-af54-0160e2531581
 translation-type: tm+mt
-source-git-commit: f865630638e7c0fe6ac2a449e196a7de4fbfeea1
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '97'
 ht-degree: 0%
 
 ---
 
+# Marketo과 Salesforce 간의 필드 매핑 보기 {#view-field-mappings-between-marketo-and-salesforce}
 
-# Marketing과 Salesforce 간 필드 매핑 보기 {#view-field-mappings-between-marketo-and-salesforce}
-
-특정 Marketing To 필드에 연결된 Salesforce 필드를 알고 싶을 수 있습니다. 이를 실현하는 방법
+특정 Marketo 필드에 연결된 Salesforce 필드를 알고 싶을 수 있습니다. 이를 실현하는 방법
 
 >[!NOTE]
 >
@@ -31,4 +31,4 @@ ht-degree: 0%
 >
 >레이블 이름이 아니라 Salesforce API 이름을 표시합니다.
 
-잘했어! 이제 마케팅 필드가 연결된 Salesforce 필드를 찾는 방법을 알 수 있습니다.
+잘했어! 이제 Marketo 필드가 연결되어 있는 Salesforce 필드를 확인할 수 있습니다.
