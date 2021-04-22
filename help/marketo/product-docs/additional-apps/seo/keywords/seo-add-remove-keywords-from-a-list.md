@@ -1,15 +1,15 @@
 ---
 unique-page-id: 2949678
-description: SEO - 목록에서 키워드 추가/제거 - 마케팅 문서 - 제품 설명서
+description: SEO - 목록에서 키워드 추가/제거 - Marketo 문서 - 제품 설명서
 title: SEO - 목록에서 키워드 추가/제거
+exl-id: c03416b6-796b-4255-8f19-2087b215be05
 translation-type: tm+mt
-source-git-commit: 37697e2d6f1d86a6cd1de5d567a3d384160415cb
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '196'
 ht-degree: 0%
 
 ---
-
 
 # SEO - 목록에서 키워드 추가/제거 {#seo-add-remove-keywords-from-a-list}
 
