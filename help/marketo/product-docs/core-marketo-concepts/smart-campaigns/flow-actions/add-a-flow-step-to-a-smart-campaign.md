@@ -1,19 +1,19 @@
 ---
 unique-page-id: 1146944
-description: 스마트 캠페인에 흐름 단계 추가 - 마케팅 문서 - 제품 설명서
+description: 스마트 캠페인에 흐름 단계 추가 - Marketo 문서 - 제품 설명서
 title: 스마트 캠페인에 흐름 단계 추가
+exl-id: bd842551-b981-4cd9-a742-321b1ceab872
 translation-type: tm+mt
-source-git-commit: 4a0bd2efe99284807a46d07ffef0070d9a303631
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '186'
 ht-degree: 0%
 
 ---
 
-
 # 스마트 캠페인 {#add-a-flow-step-to-a-smart-campaign}에 흐름 단계 추가
 
-흐름 단계는 자격을 갖춘 사람 그룹에 어떤 일이 발생하길 원하는지 Marketing에게 알려 줍니다. 그것들은 여러분의 지시이고, 스마트 캠페인은 여러분의 성공을 이룰 것입니다!
+플로우 단계는 Marketo의 자격이 되는 사용자 그룹에 어떤 일이 일어나는지 알려 줍니다. 그것들은 여러분의 지시이고, 스마트 캠페인은 여러분의 성공을 이룰 것입니다!
 
 1. **마케팅 활동**&#x200B;으로 이동합니다.
 
