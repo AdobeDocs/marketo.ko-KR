@@ -1,15 +1,15 @@
 ---
 unique-page-id: 1147136
-description: 프로그램 예약 보기의 항목 편집 - 마케팅 문서 - 제품 문서
+description: 프로그램 예약 보기의 항목 편집 - Marketo 문서 - 제품 설명서
 title: 프로그램 예약 보기의 항목 편집
+exl-id: f04cfb84-ff96-4f4e-ab0d-d4b0b95a9f9c
 translation-type: tm+mt
-source-git-commit: e5050328cbddaf072dd60ddd8d7363a704e720b5
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '147'
 ht-degree: 0%
 
 ---
-
 
 # 프로그램 예약 보기 {#editing-entries-in-the-program-schedule-view}의 항목 편집
 
