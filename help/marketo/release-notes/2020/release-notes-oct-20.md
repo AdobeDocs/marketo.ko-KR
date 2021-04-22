@@ -1,19 +1,19 @@
 ---
 unique-page-id: 45416698
-description: 릴리스 노트 - 10월 20일 - 마케팅 문서 - 제품 설명서
+description: 릴리스 노트 - 10월 20일 - Marketo 문서 - 제품 설명서
 title: 릴리스 노트 - 10월 20일
+exl-id: da6a3de5-5ef0-4ce3-8ee1-6ca3dd482fdc
 translation-type: tm+mt
-source-git-commit: 1649aae540204bb5de205e3f5b75ec7e968a7da4
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '959'
 ht-degree: 0%
 
 ---
 
-
 # 릴리스 노트:10월 20일 {#release-notes-oct}
 
-다음 기능은 10월 20일 릴리스에 포함되어 있습니다. 기능 가용성을 확인하려면 Marketing Edition을 확인하십시오.
+다음 기능은 10월 20일 릴리스에 포함되어 있습니다. 기능을 사용할 수 있는지 Marketo 에디션을 확인하십시오.
 
 >[!AVAILABILITY]
 >
@@ -33,7 +33,7 @@ ht-degree: 0%
 
 ## 웹 사이트 마케팅 {#website-marketing}
 
-* **양식 코드 자동화 포함**:Marketing To 외부에 호스팅된 보안 랜딩 페이지에 Marketo Engage 양식을 포함하여 더 많은 리드를 확보할 수 있습니다. 양식 포함 코드는 자동으로 업데이트되어 랜딩 페이지 도메인 이름을 포함하고 웹 개발자를 위한 수동 작업을 제거합니다. 코드 링크의 사용자 지정 도메인은 웹 사이트 탐색 경험 및 양식 활용률을 향상시킵니다.
+* **양식 코드 자동화 포함**:Marketo 외부에 호스팅된 보안 랜딩 페이지에 Marketo Engage 양식을 삽입하여 더 많은 리드를 확보할 수 있습니다. 양식 포함 코드는 자동으로 업데이트되어 랜딩 페이지 도메인 이름을 포함하고 웹 개발자를 위한 수동 작업을 제거합니다. 코드 링크의 사용자 지정 도메인은 웹 사이트 탐색 경험 및 양식 활용률을 향상시킵니다.
 
 ## Experience Cloud 통합 {#experience-cloud-integration}
 
@@ -47,7 +47,7 @@ ht-degree: 0%
 
 ## 유료 미디어 타깃팅 {#paid-media-targeting}
 
-* **Facebook 리드 광고 통합**:이제 Facebook 리드 광고에 대한 LaunchPoint 서비스를 통해 Facebook 양식 추적 매개 변수를 캡처할 수 있습니다. 이제 이러한 숨김 필드를 마케팅 필드에 매핑할 수 있으므로 마케터가 중요한 캠페인 추적 데이터를 저장하고 작업할 수 있습니다.
+* **Facebook 리드 광고 통합**:이제 Facebook 리드 광고에 대한 LaunchPoint 서비스를 통해 facebook 양식 추적 매개 변수를 캡처할 수 있습니다. 이제 이러한 숨겨진 필드를 Marketo 필드에 매핑할 수 있으므로 마케터가 중요한 캠페인 추적 데이터를 저장하고 이에 대응할 수 있습니다.
 
 ## 관리 {#administration}
 
