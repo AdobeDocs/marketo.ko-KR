@@ -1,31 +1,31 @@
 ---
 unique-page-id: 6848922
-description: 마케팅 리드 관리 솔루션 - 마케팅 문서 - 제품 설명서 다운로드
-title: 마케팅 리드 관리 솔루션 다운로드
+description: Marketo 리드 관리 솔루션 다운로드 - Marketo 문서 - 제품 설명서
+title: Marketo 리드 관리 솔루션 다운로드
+exl-id: 2deafcfc-19f4-4cbf-8764-402a7f69c7d2
 translation-type: tm+mt
-source-git-commit: 20d4c8a079916f47267df3dab5a8e663f6eb019b
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '108'
 ht-degree: 0%
 
 ---
 
-
-# Marketing To 리드 관리 솔루션 {#download-the-marketo-lead-management-solution} 다운로드
+# Marketo 리드 관리 솔루션 {#download-the-marketo-lead-management-solution} 다운로드
 
 >[!NOTE]
 >
 >**관리자 권한 필요**
 
-동기화를 시작하려면 Microsoft Dynamics 계정으로 Marketing To 솔루션을 다운로드하여 설치해야 합니다.
+동기화를 시작하려면 Marketo 솔루션을 Microsoft Dynamics 계정으로 다운로드하여 설치해야 합니다.
 
 >[!CAUTION]
 >
->업그레이드를 수행하기 전에 최신 Marketing Solution _을(를) 다운로드해야 합니다._
+>업그레이드를 수행하기 전에 최신 Marketo 솔루션 _을(를) 다운로드해야 합니다._
 
 >[!NOTE]
 >
->현재 Java 7과 호환되는 SSL 인증서만 지원됩니다.
+>Marketo은 현재 Java 7과 호환되는 SSL 인증서만 지원합니다.
 
 1. **관리** 영역으로 이동합니다.
 
@@ -39,7 +39,7 @@ ht-degree: 0%
 
    ![](assets/image2015-3-11-13-3a9-3a7.png)
 
-1. **Download Marketing To Solution**&#x200B;을 선택합니다.
+1. **Marketo 솔루션 다운로드**&#x200B;를 선택합니다.
 
    ![](assets/image2015-3-11-13-3a10-3a4.png)
 
