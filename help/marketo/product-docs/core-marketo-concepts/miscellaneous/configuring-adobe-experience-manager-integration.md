@@ -1,19 +1,19 @@
 ---
 unique-page-id: 30081815
-description: Adobe Experience Manager 통합 구성 - Marketing Docs - 제품 설명서
+description: Adobe Experience Manager 통합 구성 - Marketo 문서 - 제품 설명서
 title: Adobe Experience Manager 통합 구성
+exl-id: 06b2c214-1afb-443f-ae01-0c00fed77dce
 translation-type: tm+mt
-source-git-commit: cfefff241b34571b9778cbd827f45d1b468d121e
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '218'
 ht-degree: 0%
 
 ---
 
-
 # Adobe Experience Manager 통합 구성 {#configuring-adobe-experience-manager-integration}
 
-AEM 에셋을 액세스, 선택 및 Marketing의 Design Studio로 가져올 수 있도록 AEM을 구성합니다.
+AEM 에셋을 액세스, 선택 및 Marketo의 Design Studio로 가져올 수 있도록 AEM을 구성합니다.
 
 >[!NOTE]
 >
@@ -59,7 +59,7 @@ AEM 에셋을 액세스, 선택 및 Marketing의 Design Studio로 가져올 수 
 
    ![](assets/eight.png)
 
-1. Marketing Classic에서 **관리**&#x200B;를 클릭합니다.
+1. Marketo Classic에서 **관리**&#x200B;를 클릭합니다.
 
    ![](assets/nine.png)
 
