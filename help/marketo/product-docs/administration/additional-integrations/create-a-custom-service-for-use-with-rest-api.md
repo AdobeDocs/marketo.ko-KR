@@ -1,19 +1,19 @@
 ---
 unique-page-id: 2360350
-description: ReST API와 함께 사용할 사용자 정의 서비스 만들기 - Marketing To Docs - 제품 설명서
+description: ReST API와 함께 사용할 사용자 정의 서비스 만들기 - Marketo Docs - 제품 설명서
 title: ReST API와 함께 사용할 사용자 지정 서비스 만들기
+exl-id: d94f723b-2e98-4350-a9e5-bd57aff2303b
 translation-type: tm+mt
-source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '224'
 ht-degree: 0%
 
 ---
 
-
 # ReST API {#create-a-custom-service-for-use-with-rest-api}에서 사용할 사용자 지정 서비스 만들기
 
-ReST API를 통해 Marketing To와 통합하려면 사용자 지정 서비스를 만들어야 합니다. 방법
+ReST API를 통해 Marketo과 통합하려는 경우 사용자 정의 서비스를 만들어야 합니다. 방법
 
 >[!PREREQUISITES]
 >
@@ -34,7 +34,7 @@ ReST API를 통해 Marketing To와 통합하려면 사용자 지정 서비스를
 
 >[!NOTE]
 >
->Spark 수준의 Marketing Cloud를 사용하는 경우에는 사용자 정의 서비스를 만들 수 없습니다.
+>Marketo의 Spark 수준이 있으면 사용자 정의 서비스를 만들 수 없습니다.
 
 ## 사용자 지정 서비스 {#create-custom-service} 만들기
 
