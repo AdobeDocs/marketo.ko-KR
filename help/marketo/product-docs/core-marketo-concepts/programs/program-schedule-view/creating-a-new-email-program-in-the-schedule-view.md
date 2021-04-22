@@ -1,15 +1,15 @@
 ---
 unique-page-id: 1147144
-description: 예약 보기 - 마케팅 문서 - 제품 문서에서 새 이메일 프로그램 만들기
+description: 예약 보기에서 새 이메일 프로그램 만들기 - Marketo 문서 - 제품 문서에서
 title: 예약 보기에서 새 이메일 프로그램 만들기
+exl-id: a052d6a8-d745-4017-a22a-a7019c8432ce
 translation-type: tm+mt
-source-git-commit: e5050328cbddaf072dd60ddd8d7363a704e720b5
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '117'
 ht-degree: 0%
 
 ---
-
 
 # 예약 보기 {#creating-a-new-email-program-in-the-schedule-view}에서 새 이메일 프로그램 만들기
 
