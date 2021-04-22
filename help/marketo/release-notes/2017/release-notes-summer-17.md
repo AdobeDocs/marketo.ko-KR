@@ -1,25 +1,25 @@
 ---
 unique-page-id: 12980993
-description: 릴리스 노트 - 2017년 여름 - 마케팅 문서 - 제품 설명서
+description: 릴리스 노트 -17년 여름 - Marketo 문서 - 제품 설명서
 title: 릴리스 노트 -17년 여름
+exl-id: 81b18ecb-5870-4d16-8b7c-24ce362be62f
 translation-type: tm+mt
-source-git-commit: 029d8b419ba5078980b4fde9890bdb35194bf264
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '398'
 ht-degree: 0%
 
 ---
 
-
 # 릴리스 노트:17년 여름 {#release-notes-summer}
 
-다음 기능은 2017년 여름 릴리스에 포함되어 있습니다. 기능 가용성을 확인하려면 Marketing Edition을 확인하십시오.
+다음 기능은 2017년 여름 릴리스에 포함되어 있습니다. 기능을 사용할 수 있는지 Marketo 에디션을 확인하십시오.
 
 각 기능에 대한 자세한 아티클을 보려면 제목 링크를 클릭하십시오. 참고:이 릴리스에 포함된 기능 중 일부에는 관련 아티클이 없습니다. 항목에 여러 개의 하위 제목이 있는 경우 링크가 여기에 배치됩니다.
 
-## [추가 Facebook 오프라인 전환 단계](/help/marketo/product-docs/demand-generation/facebook/set-up-facebook-offline-conversions.md) {#additional-facebook-offline-conversion-stages}
+## [추가 Facebook 오프라인 변환 단계](/help/marketo/product-docs/demand-generation/facebook/set-up-facebook-offline-conversions.md) {#additional-facebook-offline-conversion-stages}
 
-최대 7개의 추가 오프라인 전환 단계를 선택하여 Marketing To 라이프사이클 단계에 매핑합니다(오늘 3단계 이상). 고객 여정의 전환을 기반으로 Facebook 광고 비용을 최적화하여 ROI를 향상시킬 수 있습니다.
+Marketo 라이프사이클 단계(현재 3단계 이상)에 매핑하려면 최대 7개의 추가 오프라인 전환 단계를 선택합니다. 고객 여정의 전환을 기반으로 Facebook 광고 비용을 최적화하여 ROI를 향상시킬 수 있습니다.
 
 ![](assets/image2017-8-24-15-3a23-3a31.png)
 
@@ -37,7 +37,7 @@ ht-degree: 0%
 
 **[ABM 및 LeanData 통합](https://docs.marketo.com/x/pKmt)**
 
-이제 LeanData와의 통합을 통해 Marketing To에서 고객 대 고객 일치를 활용할 수 있습니다. 판매 및 마케팅 시스템에서 계정과 동일한 리드를 연결하여 마케팅 및 매출을 적절하게 유지할 수 있습니다. 보다 유연한 옵션을 통해 마케팅 및 영업 운영 부서에서 리드-계정 일치 규칙을 보다 정밀하게 제어할 수 있으므로 원하는 수준의 정확성을 달성할 수 있습니다.
+이제 LeanData와의 통합을 통해 Marketo에서 고객과 직접 연결할 수 있습니다. 판매 및 마케팅 시스템에서 계정과 동일한 리드를 연결하여 마케팅 및 매출을 적절하게 유지할 수 있습니다. 보다 유연한 옵션을 통해 마케팅 및 영업 운영 부서에서 리드-계정 일치 규칙을 보다 정밀하게 제어할 수 있으므로 원하는 수준의 정확성을 달성할 수 있습니다.
 
 ## 웹 개인화 개선 사항 {#web-personalization-enhancements}
 
@@ -63,7 +63,7 @@ ht-degree: 0%
 
 **이메일 인사이트 개선 사항**
 
-데이터를 준비하고 공유할 수 있는 새로운 방법을 통해 이메일 인사이트 경험을 통해 더 많은 정보를 얻을 수 있습니다. 이제 이메일 인사이트 결과를 Microsoft Excel 및 PowerPoint로 다운로드하여 마케팅 외부에서 데이터를 처리할 수 있습니다.
+데이터를 준비하고 공유할 수 있는 새로운 방법을 통해 이메일 인사이트 경험을 통해 더 많은 정보를 얻을 수 있습니다. 이제 이메일 인사이트 결과를 Microsoft Excel 및 PowerPoint로 다운로드하여 Marketo 외부에서 데이터를 작업할 수 있습니다.
 
 ## 통합 ID 구성 지원 {#federated-identity-configuration-support}
 
