@@ -1,15 +1,15 @@
 ---
 unique-page-id: 2360325
-description: 작업 영역에 대한 사용자 액세스 허용 - 마케팅 문서 - 제품 문서
+description: 작업 영역에 대한 사용자 액세스 허용 - Marketo 문서 - 제품 문서
 title: 작업 공간에 대한 사용자 액세스 허용
+exl-id: 8ccec529-ae28-4bf8-a9ba-4d9c7df809d9
 translation-type: tm+mt
-source-git-commit: f79909ce8f2e37bf0748596774fe47ac03618696
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '134'
 ht-degree: 0%
 
 ---
-
 
 # 작업 공간 {#allow-user-access-to-a-workspace}에 대한 사용자 액세스 허용
 
