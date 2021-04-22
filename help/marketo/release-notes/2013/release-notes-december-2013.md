@@ -1,15 +1,15 @@
 ---
 unique-page-id: 2951052
-description: 릴리스 노트 - 2013년 12월 - Marketing Docs - 제품 설명서
+description: 릴리스 노트 - 2013년 12월 - Marketo 문서 - 제품 설명서
 title: 릴리스 노트 - 2013년 12월
+exl-id: 145e2706-c770-4f39-a1ef-77b7912b1b70
 translation-type: tm+mt
-source-git-commit: 029d8b419ba5078980b4fde9890bdb35194bf264
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '308'
 ht-degree: 0%
 
 ---
-
 
 # 릴리스 노트:2013년 12월 {#release-notes-december}
 
@@ -45,4 +45,4 @@ ht-degree: 0%
 
 ## 향상된 BrightTALK 이벤트 어댑터 {#enhanced-brighttalk-event-adapter}
 
-이제 등록자를 BrightTALK 채널 및 이벤트에서 Marketing으로 가져올 수 있습니다. 이 정보를 사용하여 다른 마케팅 캠페인에 알릴 수 있습니다!
+이제 BrightTALK 채널 및 이벤트에서 등록자를 Marketo으로 가져올 수 있습니다. 이 정보를 사용하여 다른 마케팅 캠페인에 알릴 수 있습니다!
