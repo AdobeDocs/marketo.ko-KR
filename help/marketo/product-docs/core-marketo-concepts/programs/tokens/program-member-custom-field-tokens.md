@@ -1,15 +1,15 @@
 ---
 unique-page-id: 1147114
-description: 프로그램 멤버 사용자 정의 필드 토큰 - 마케팅 문서 - 제품 설명서
+description: 프로그램 멤버 사용자 정의 필드 토큰 - Marketo 문서 - 제품 설명서
 title: 프로그램 멤버 사용자 정의 필드 토큰
+exl-id: 3046dec8-b885-4b08-baa9-896bcf3594b2
 translation-type: tm+mt
-source-git-commit: 35e8b41574ebf8aafa27a59440c8ea9cb6413d50
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '439'
 ht-degree: 0%
 
 ---
-
 
 # 프로그램 멤버 사용자 정의 필드 토큰 {#program-member-custom-field-tokens}
 
