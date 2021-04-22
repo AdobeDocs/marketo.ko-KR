@@ -1,6 +1,6 @@
 ---
 unique-page-id: 2953432
-description: CRM 동기화 - Marketing To Docs - 제품 설명서
+description: CRM 동기화 - Marketo 문서 - 제품 설명서
 title: CRM 동기화
 translation-type: tm+mt
 source-git-commit: 20d4c8a079916f47267df3dab5a8e663f6eb019b
