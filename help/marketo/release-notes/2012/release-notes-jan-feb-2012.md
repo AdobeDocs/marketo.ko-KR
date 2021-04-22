@@ -1,19 +1,19 @@
 ---
 unique-page-id: 2951124
-description: 릴리스 노트 - 2012년 1월/2월 - Marketing Docs - 제품 설명서
+description: 릴리스 노트 - 2012년 1월/2월 - Marketo 문서 - 제품 설명서
 title: 릴리스 노트 - 2012년 1월/2월
+exl-id: 4d1ca9b6-e269-4982-9c0c-cf12363feafb
 translation-type: tm+mt
-source-git-commit: 029d8b419ba5078980b4fde9890bdb35194bf264
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '432'
 ht-degree: 0%
 
 ---
 
-
 # 릴리스 노트:2012년 1월/2월 {#release-notes-jan-feb}
 
-다음 기능은 1월/2월 릴리스에 포함되어 있습니다. 기능 가용성을 확인하려면 Marketing Edition을 확인하십시오. 릴리스 후 자세한 기능 문서에 대한 링크를 다시 확인하십시오.
+다음 기능은 1월/2월 릴리스에 포함되어 있습니다. 기능을 사용할 수 있는지 Marketo 에디션을 확인하십시오. 릴리스 후 자세한 기능 문서에 대한 링크를 다시 확인하십시오.
 
 ## 고급 동적 내용 {#advanced-dynamic-content}
 
@@ -55,7 +55,7 @@ _Pro 및 엔터프라이즈 버전에 사용 가능_
 
 ## 단일 사인온 {#single-sign-on}
 
-이제 조직은 기업 포털에서 단일 사인온에 대해 SAML 2.0을 사용하여 Marketing To 애플리케이션에 대한 매끄러운 로그인을 지원할 수 있습니다.
+이제 조직은 기업 포털에서 단일 사인온에 대해 SAML 2.0을 사용하여 Marketo 애플리케이션에 대한 매끄러운 로그인을 지원할 수 있습니다.
 
 ## 이메일 및 랜딩 페이지 편집기 업데이트 {#updated-email-and-landing-page-editors}
 
