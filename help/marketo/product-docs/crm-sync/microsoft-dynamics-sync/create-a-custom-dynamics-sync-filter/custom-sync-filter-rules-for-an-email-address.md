@@ -1,15 +1,15 @@
 ---
 unique-page-id: 10095307
-description: 이메일 주소에 대한 사용자 지정 동기화 필터 규칙 - 마케팅 문서 - 제품 설명서
+description: 이메일 주소에 대한 사용자 정의 동기화 필터 규칙 - Marketo 문서 - 제품 설명서
 title: 이메일 주소에 대한 사용자 지정 동기화 필터 규칙
+exl-id: d1d51310-0c59-447c-818c-b25aa281c15c
 translation-type: tm+mt
-source-git-commit: 2b5ccd7220557a5e966d33436d0f0d2a65e4589d
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '202'
 ht-degree: 0%
 
 ---
-
 
 # 이메일 주소 {#custom-sync-filter-rules-for-an-email-address}에 대한 사용자 지정 동기화 필터 규칙
 
