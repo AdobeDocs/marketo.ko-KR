@@ -1,15 +1,15 @@
 ---
 unique-page-id: 7513680
-description: 가능한 중복 사람에 대한 경고 자동화 - Marketing To Docs - 제품 설명서
+description: 가능한 중복 사람에 대한 경고 자동화 - Marketo 문서 - 제품 설명서
 title: 가능한 중복 사람에 대한 경고 자동화
+exl-id: 596c03f4-7a84-4564-bbe1-e7bc0d22a616
 translation-type: tm+mt
-source-git-commit: d7d6aee63144c472e02fe0221c4a164183d04dd4
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '170'
 ht-degree: 0%
 
 ---
-
 
 # 가능한 중복 사람에 대한 경고 자동화 {#automate-an-alert-for-possible-duplicate-people}
 
@@ -44,7 +44,7 @@ ht-degree: 0%
 
    ![](assets/image2017-3-27-8-3a24-3a37.png)
 
-바로 그거야! 이 스마트 캠페인은 Marketing에서 기존 전체 이름을 가진 새 사람을 만들 때마다 트리거됩니다.
+바로 그거야! 이 스마트 캠페인은 Marketo에서 기존 전체 이름을 가진 새 사람을 만들 때마다 트리거됩니다.
 
 >[!MORELIKETHIS]
 >
