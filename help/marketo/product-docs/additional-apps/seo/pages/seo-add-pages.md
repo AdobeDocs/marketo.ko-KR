@@ -1,19 +1,19 @@
 ---
 unique-page-id: 2949216
-description: SEO - 페이지 추가 - 마케팅 문서 - 제품 설명서
+description: SEO - 페이지 추가 - Marketo 문서 - 제품 설명서
 title: SEO - 페이지 추가
+exl-id: dfb51308-7ee7-43b6-9e56-e820080a6b42
 translation-type: tm+mt
-source-git-commit: 37697e2d6f1d86a6cd1de5d567a3d384160415cb
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '111'
 ht-degree: 0%
 
 ---
 
-
 # SEO - 페이지 {#seo-add-pages} 추가
 
-페이지가 있다! Marketing To SEO는 사이트를 자동으로 탐색하고 추적합니다. 몇 가지를 놓친 경우 다음과 같이 SEO 앱에서 가져옵니다.
+페이지가 있다! Marketo SEO는 자동으로 사이트를 크롤링하고 추적합니다. 몇 가지를 놓친 경우 다음과 같이 SEO 앱에서 가져옵니다.
 
 1. **페이지** 섹션으로 이동합니다.
 
