@@ -1,15 +1,15 @@
 ---
 unique-page-id: 1146970
-description: 나중에 실행하도록 일괄 스마트 캠페인 예약 - 마케팅 문서 - 제품 설명서
+description: 나중에 실행하도록 일괄 스마트 캠페인 예약 - Marketo 문서 - 제품 설명서
 title: 나중에 실행하도록 일괄 스마트 캠페인 예약
+exl-id: b78ffed2-cf91-4860-8a94-65b35d2927e2
 translation-type: tm+mt
-source-git-commit: 4a0bd2efe99284807a46d07ffef0070d9a303631
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '131'
 ht-degree: 0%
 
 ---
-
 
 # 나중에 실행하도록 일괄 스마트 캠페인 예약 {#schedule-a-batch-smart-campaign-to-run-later}
 
