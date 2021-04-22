@@ -1,15 +1,15 @@
 ---
 unique-page-id: 1147114
-description: 프로그램의 내 토큰 이해 - Marketing To Docs - 제품 문서
+description: 프로그램의 내 토큰 이해 - Marketo 문서 - 제품 설명서
 title: 프로그램의 내 토큰 이해
+exl-id: 01b42272-c419-4cd5-ad30-87413ceb2032
 translation-type: tm+mt
-source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '416'
 ht-degree: 0%
 
 ---
-
 
 # 프로그램 {#understanding-my-tokens-in-a-program}의 내 토큰 이해
 
@@ -62,7 +62,7 @@ ht-degree: 0%
   </tr> 
   <tr> 
    <td colspan="1">SFDC 캠페인 <img alt="—" src="assets/sfdc-campaign-icon.jpg" data-linked-resource-id="11379761" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="1147114" title="—"></td> 
-   <td colspan="1">이 토큰을 사용하여 마케팅 프로그램에 포함된 리드를 SFDC 캠페인이 추가되는 모든 리드에 추가할 수 있습니다.</td> 
+   <td colspan="1">Marketo 프로그램에 포함된 리드를 SFDC 캠페인이 추가되는 모든 리드에 추가할 수 있도록 이 토큰을 사용하십시오.</td> 
   </tr> 
   <tr> 
    <td>텍스트 <img alt="—" src="assets/image2014-9-25-16-3a46-3a54.png" data-linked-resource-id="3083236" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="1147114"></td> 
