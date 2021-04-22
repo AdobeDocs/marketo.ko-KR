@@ -1,15 +1,15 @@
 ---
 unique-page-id: 2949253
-description: SEO - 인바운드 링크 URL 제거/삭제 - 마케팅 문서 - 제품 설명서
+description: SEO - 인바운드 링크 URL 제거/삭제 - Marketo 문서 - 제품 설명서
 title: SEO - 인바운드 링크 URL 제거/삭제
+exl-id: 102a483f-0bbd-4bac-8e63-278024d32cbf
 translation-type: tm+mt
-source-git-commit: 37697e2d6f1d86a6cd1de5d567a3d384160415cb
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
-source-wordcount: '59'
+source-wordcount: '0'
 ht-degree: 0%
 
 ---
-
 
 # SEO - 인바운드 링크 URL {#seo-remove-delete-an-inbound-link-url} 제거/삭제
 
