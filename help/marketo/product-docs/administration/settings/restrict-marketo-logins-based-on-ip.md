@@ -1,19 +1,19 @@
 ---
 unique-page-id: 2360297
-description: IP - Marketing To Docs - 제품 설명서를 기반으로 마케팅 로그인 제한
-title: IP를 기반으로 마케팅 로그인 제한
+description: IP 기반 Marketo 로그인 제한 - Marketo 문서 - 제품 설명서
+title: IP를 기반으로 Marketo 로그인 제한
+exl-id: 5d9d0b88-b4bc-4e1b-b70c-2c2e7b4269f5
 translation-type: tm+mt
-source-git-commit: f79909ce8f2e37bf0748596774fe47ac03618696
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '180'
 ht-degree: 0%
 
 ---
 
+# IP {#restrict-marketo-logins-based-on-ip}에 따라 Marketo 로그인 제한
 
-# IP {#restrict-marketo-logins-based-on-ip}에 따라 마케팅 로그인 제한
-
-사용자가 자신의 IP 주소를 기반으로 Marketing To에 액세스하도록 제한하거나 활성화할 수 있습니다. 방법
+사용자가 IP 주소를 기반으로 Marketo에 액세스하도록 제한하거나 활성화할 수 있습니다. 방법
 
 >[!NOTE]
 >
@@ -38,7 +38,7 @@ ht-degree: 0%
    >**정의**
    >
    >* **허용된 IP 주소**:허용되는 IP 주소 추가가 포함됩니다. 지정된 모든 IP 주소가 포함되고 다른 모든 주소는 제외됩니다.
-   >* **블록 IP 주소**:특정 IP가 Marketing To에 액세스하지 못하도록 합니다.
+   >* **블록 IP 주소**:특정 IP가 Marketo에 액세스하지 못하도록 합니다.
    >* **IP 제한** 비활성화:이 옵션을 선택하면 모든 제한 규칙이 작동하지 않습니다. 테스트 목적으로 사용합니다.
 
 
