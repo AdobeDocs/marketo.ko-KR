@@ -1,15 +1,15 @@
 ---
 unique-page-id: 1147011
-description: 참여 프로그램에 추가 - 마케팅 문서 - 제품 설명서
+description: 참여 프로그램에 추가 - Marketo 문서 - 제품 설명서
 title: 참여 프로그램에 추가
+exl-id: 67b8ddaa-2f00-4702-a10d-0b7c896877a1
 translation-type: tm+mt
-source-git-commit: 5b9f48c98464c79bcdca2e335f6a4a2edce98ce4
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '69'
 ht-degree: 0%
 
 ---
-
 
 # 참여 프로그램 {#add-to-engagement-program}에 추가
 
