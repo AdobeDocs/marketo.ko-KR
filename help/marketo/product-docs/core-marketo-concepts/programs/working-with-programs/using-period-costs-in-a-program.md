@@ -1,15 +1,15 @@
 ---
 unique-page-id: 1147118
-description: 프로그램에서 기간 비용 사용 - 마케팅 문서 - 제품 설명서
+description: 프로그램에서 기간 비용 사용 - Marketo 문서 - 제품 설명서
 title: 프로그램에서 기간 비용 사용
+exl-id: 3f00dc09-797a-4f21-bb56-45a1f9b6e5bf
 translation-type: tm+mt
-source-git-commit: 07f713ece9832b7696451001f61c6a3b45b4a94a
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '211'
 ht-degree: 0%
 
 ---
-
 
 # 프로그램 {#using-period-costs-in-a-program}에서 기간 비용 사용
 
