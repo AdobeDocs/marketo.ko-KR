@@ -1,15 +1,15 @@
 ---
 unique-page-id: 2360309
-description: 작업 영역 및 개인 파티션 이해 - 마케팅 문서 - 제품 설명서
+description: 작업 영역 및 개인 파티션 이해 - Marketo 문서 - 제품 설명서
 title: 작업 영역 및 개인 파티션 이해
+exl-id: 27d00a0d-ebf1-4dff-b41e-1644ec9dbd28
 translation-type: tm+mt
-source-git-commit: f79909ce8f2e37bf0748596774fe47ac03618696
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '514'
 ht-degree: 0%
 
 ---
-
 
 # 작업 영역 및 개인 파티션 이해 {#understanding-workspaces-and-person-partitions}
 
@@ -17,9 +17,9 @@ ht-degree: 0%
 
 >[!CAUTION]
 >
->작업 영역은 설정하기 복잡할 수 있습니다. [Marketing Support](https://nation.marketo.com/t5/Support/ct-p/Support)에 문의하여 귀하에게 적합한지 알아보십시오.
+>작업 영역은 설정하기 복잡할 수 있습니다. [Marketo 지원](https://nation.marketo.com/t5/Support/ct-p/Support)에 문의하여 귀하에게 적합한지 확인하십시오.
 
-작업 영역은 프로그램, 랜딩 페이지, 이메일 등과 같은 마케팅 자산을 보유하는 Marketing의 개별 영역입니다. 여러 사람이 사용할 수 있습니다. 각 사용자는 하나 이상의 작업 영역에 액세스할 수 있습니다.
+작업 영역은 프로그램, 랜딩 페이지, 이메일 등과 같은 마케팅 자산을 보유하는 Marketo의 별도 영역입니다. 여러 사람이 사용할 수 있습니다. 각 사용자는 하나 이상의 작업 영역에 액세스할 수 있습니다.
 
 >[!NOTE]
 >
@@ -40,7 +40,7 @@ ht-degree: 0%
 
 ## 작업 영역 간 공유 {#sharing-across-workspaces}
 
-다양한 작업 영역에서 에셋을 공유하는 방법을 살펴봅니다. 공유할 모든 것에도 동일하게 작동합니다.이 예는 세그먼트를 보여줍니다.
+다양한 작업 영역에서 에셋을 공유하는 방법을 살펴봅니다. 공유하고 싶은 모든 것에서도 동일하게 작동합니다.이 예는 세그먼트를 보여줍니다.
 
 >[!NOTE]
 >
@@ -103,7 +103,7 @@ ht-degree: 0%
 
 ## 개인 파티션 {#person-partitions}
 
-개인 파티션은 별도의 데이터베이스와 같습니다. 각 파티션에는 중복 제거 또는 다른 파티션과 혼합하지 않는 고유한 사용자가 있습니다. 동일한 이메일 주소를 사용하여 중복 레코드를 필요로 할 수 있는 비즈니스 사용 사례가 있을 경우 [Marketing To 지원](https://nation.marketo.com/t5/Support/ct-p/Support)에 문의하십시오.
+개인 파티션은 별도의 데이터베이스와 같습니다. 각 파티션에는 중복 제거 또는 다른 파티션과 혼합하지 않는 고유한 사용자가 있습니다. 동일한 이메일 주소를 사용하여 중복 레코드를 필요로 할 수 있는 비즈니스 사용 사례가 있는 경우 [Marketo 지원](https://nation.marketo.com/t5/Support/ct-p/Support)에 문의하십시오.
 
 다음 구성에서 [작업 영역](create-a-new-workspace.md)에 개인 파티션을 할당할 수 있습니다.
 
