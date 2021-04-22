@@ -1,15 +1,15 @@
 ---
 unique-page-id: 4719289
-description: 캠페인 동기화 활성화/비활성화 - 마케팅 문서 - 제품 설명서
+description: 캠페인 동기화 활성화/비활성화 - Marketo 문서 - 제품 설명서
 title: 캠페인 동기화 활성화/비활성화
+exl-id: a8d53268-75b9-479d-8ffc-b3f19eb77483
 translation-type: tm+mt
-source-git-commit: 2b5ccd7220557a5e966d33436d0f0d2a65e4589d
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '90'
 ht-degree: 0%
 
 ---
-
 
 # 캠페인 동기화 활성화/비활성화 {#enable-disable-campaign-sync}
 
@@ -17,7 +17,7 @@ ht-degree: 0%
 >
 >**관리자 권한 필요**
 
-이 옵션을 통해 Marketing은 프로그램 멤버십과 상태를 Salesforce 캠페인과 동기화하거나 그 반대의 경우도 마찬가지입니다.
+이 옵션을 통해 Marketo은 프로그램 멤버십과 상태를 Salesforce 캠페인과 동기화하거나 그 반대의 경우도 마찬가지입니다.
 
 1. **관리**&#x200B;로 이동하여 **Salesforce**&#x200B;를 클릭합니다.
 
