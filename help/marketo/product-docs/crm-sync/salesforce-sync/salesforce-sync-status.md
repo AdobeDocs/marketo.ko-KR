@@ -1,14 +1,14 @@
 ---
-description: Salesforce 동기화 상태 - Marketing To Docs - 제품 설명서
+description: Salesforce 동기화 상태 - Marketo 문서 - 제품 설명서
 title: Salesforce 동기화 상태
+exl-id: 61197808-7812-4e0a-8ac6-4a60af0f7979
 translation-type: tm+mt
-source-git-commit: 98af67caaf485535ba2177aa661a503990e8698d
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '552'
 ht-degree: 0%
 
 ---
-
 
 # Salesforce 동기화 상태 {#salesforce-sync-status}
 
@@ -195,19 +195,19 @@ ht-degree: 0%
   <tr> 
    <td colspan="1">전환 가져오기</td> 
    <td colspan="1">개인(리드)*</td> 
-   <td colspan="1">SFDC에서 Marketing으로 액션 변환 판매량(숫자)은 연락처로 전환하는 리드입니다.</td> 
+   <td colspan="1">SFDC에서 Marketo으로 액션 변환 판매량(숫자)은 연락처로 전환하는 리드입니다.</td> 
    <td colspan="1">업데이트, 실패한 항목 또는 건너뛴 항목</td>
   </tr> 
   <tr> 
    <td colspan="1">삭제 가져오기</td> 
    <td colspan="1">연락처, 담당자(리드), 기회, 캠페인, 캠페인 구성원, 기회 연락처, 사용자 지정 개체, 캠페인, 캠페인 구성원 상태, 기회 연락처 역할</td> 
-   <td colspan="1">Marketing To에 동기화되는 SFDC의 삭제된 레코드</td> 
+   <td colspan="1">Marketo에 동기화되는 SFDC의 삭제된 레코드</td> 
    <td colspan="1">삭제됨, 실패한 항목 또는 건너뛴 항목</td>
   </tr>  
   <tr> 
    <td colspan="1">업데이트 가져오기</td> 
    <td colspan="1">작업, 개인(리드), 사람(리드) 큐, 연락처, 이벤트, 기회, 계정, 계정 유형, 캠페인 멤버, 사용자 지정 객체, 캠페인, 캠페인 구성원 상태, 이벤트, 개인 상태, 기회, 기회 연락처 역할</td> 
-   <td colspan="1">SFDC의 업데이트 또는 새 레코드가 Marketing, 이벤트로 가져오기</td> 
+   <td colspan="1">Marketo에 동기화된 SFDC의 업데이트 또는 새 레코드, 이벤트로 가져오기</td> 
    <td colspan="1">새로 만들기, 업데이트됨, 실패한 항목 또는 건너뛰기</td>
   </tr>  
   <tr> 
@@ -231,7 +231,7 @@ ht-degree: 0%
   <tr> 
    <td colspan="1">프로그램과 동기화</td> 
    <td colspan="1">캠페인</td> 
-   <td colspan="1">Marketing 프로그램을 SFDC 캠페인과 동기화</td> 
+   <td colspan="1">Marketo 프로그램을 SFDC 캠페인과 동기화</td> 
    <td colspan="1">새로 만들기, 업데이트, 실패 또는 건너뛰기</td>
   </tr> 
   <tr> 
