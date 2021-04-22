@@ -1,19 +1,19 @@
 ---
 unique-page-id: 7512289
-description: GoToWebinar를 LaunchPoint 서비스 - Marketing Docs - 제품 설명서로 추가
+description: GoToWebinar를 LaunchPoint 서비스로 추가 - Marketo Docs - 제품 설명서
 title: GoToWebinar를 LaunchPoint 서비스로 추가
+exl-id: ebc845df-68e6-408f-8d0f-0c56d7e4baa3
 translation-type: tm+mt
-source-git-commit: 78961a3e163ce903facf955a9dda6909b5e85bad
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '169'
 ht-degree: 0%
 
 ---
 
-
 # GoToWebinar를 LaunchPoint 서비스로 추가 {#add-gotowebinar-as-a-launchpoint-service}
 
-Marketing에서 GoToWebinar 등록 및 참석을 관리합니다.
+Marketo은 GoToWebinar 등록 및 참석을 관리합니다.
 
 >[!NOTE]
 >
@@ -45,7 +45,7 @@ Marketing에서 GoToWebinar 등록 및 참석을 관리합니다.
 
    >[!NOTE]
    >
-   >마케팅 양식의 회사 이름 및 작업 제목을 GoToWebinar로 동기화하려면 **추가 필드 활성화** 상자를 선택합니다.
+   >Marketo 양식의 회사 이름 및 작업 제목을 GoToWebinar로 동기화하려면 **추가 필드 활성화** 상자를 선택합니다.
 
 1. GoToWebinar 로그인 팝업 창에서 **GoToWebinar** 이메일 및 암호를 입력하고 **로그인**&#x200B;을 클릭합니다.
 
@@ -55,13 +55,13 @@ Marketing에서 GoToWebinar 등록 및 참석을 관리합니다.
 
    ![](assets/image2015-4-22-15-3a57-3a43.png)
 
-1. 좋아요! 이제 **GoToWebinar** 계정이 Marketing과 동기화됩니다.
+1. 좋아요! 이제 **GoToWebinar** 계정이 Marketo과 동기화됩니다.
 
    ![](assets/goto-webinar.png)
 
 >[!CAUTION]
 >
->GoToWebinar에서 암호를 업데이트할 때는 Marketing To에서도 암호를 업데이트해야 합니다.
+>GoToWebinar에서 암호를 업데이트할 때는 Marketo에서도 암호를 업데이트해야 합니다.
 
 >[!MORELIKETHIS]
 >
