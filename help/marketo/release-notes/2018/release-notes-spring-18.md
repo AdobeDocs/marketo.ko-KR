@@ -1,31 +1,31 @@
 ---
 unique-page-id: 14745959
-description: 릴리스 노트 -18년 봄 - Marketing To Docs - 제품 설명서
+description: 릴리스 노트 -18년 봄 - Marketo 문서 - 제품 설명서
 title: 릴리스 노트 -18년 봄
+exl-id: 59bab3a9-12b3-4c87-b035-a7cde63ada1e
 translation-type: tm+mt
-source-git-commit: b33f5ed707a1377daad51191cc6dd9f093138258
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '481'
 ht-degree: 0%
 
 ---
 
-
 # 릴리스 노트:18년 봄 {#release-notes-spring}
 
-2018년 봄 릴리스에는 다음 기능이 포함됩니다. 기능 가용성을 확인하려면 Marketing Edition을 확인하십시오.
+2018년 봄 릴리스에는 다음 기능이 포함됩니다. 기능을 사용할 수 있는지 Marketo 에디션을 확인하십시오.
 
 각 기능에 대한 자세한 아티클을 보려면 제목 링크를 클릭하십시오. 참고:이 릴리스에 포함된 기능 중 일부에는 관련 아티클이 없습니다. 항목에 여러 개의 하위 제목이 있는 경우 링크가 여기에 배치됩니다.
 
-## Marketing To Sales Engage, Launch 및 ToutApp 업데이트 {#marketo-sales-engage-launch-and-toutapp-updates}
+## Marketo Sales Engage, Launch 및 ToutApp 업데이트 {#marketo-sales-engage-launch-and-toutapp-updates}
 
-* [Marketing To Sales Engage](/help/marketo/product-docs/marketo-sales-connect/getting-started/sales-connect-overview.md)
+* [Marketo Sales Engage](/help/marketo/product-docs/marketo-sales-connect/getting-started/sales-connect-overview.md)
 * [시작](/help/marketo/product-docs/marketo-sales-connect/getting-started/sales-connect-overview.md)
 * ToutApp 업데이트
 
 >[!AVAILABILITY]
 >
->Sales Engage는 추가 제품입니다. 견적을 받으려면 마케팅 고객 성공 관리자 또는 계정 담당자에게 문의하십시오.
+>Sales Engage는 추가 제품입니다. 견적을 받으려면 Marketo 고객 성공 관리자 또는 계정 담당자에게 문의하십시오.
 
 인텔리전스, 컨텐츠, Playbook 및 분석을 통해 매출을 증대시키고 더 많은 리드를 세일즈 기회로 전환할 수 있으므로 파이프라인과 매출을 보다 향상시킬 수 있습니다. Sales Engage는 고객 여정 전반에 걸쳐 고객의 참여를 위한 통합 플랫폼을 통해 세일즈 및 마케팅을 지원하고 고객 접점을 공유하여 효과적으로 조정할 수 있습니다.
 
@@ -83,7 +83,7 @@ ContentAI 최적화 알고리즘의 목표를 설정하여 더 많은 보기, �
 
 [정적 목록 API](https://developers.marketo.com/rest-api/assets/static-lists/)
 
-Marketing To UI에서 작업을 수행하지 않고도 정적 목록을 원격으로 작성, 읽기, 업데이트 및 삭제할 수 있는 양방향 API를 사용하여 Marketing과 다른 시스템 간의 목록을 보다 손쉽게 관리할 수 있습니다.
+Marketo UI에서 작업을 수행하지 않고도 원격으로 정적 목록을 생성, 읽기, 업데이트 및 삭제할 수 있는 양방향 API를 사용하여 Marketo과 다른 시스템 간의 목록을 보다 손쉽게 관리할 수 있습니다.
 
 ## 개인 정보 개선 사항 {#privacy-enhancements}
 
