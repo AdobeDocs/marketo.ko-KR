@@ -1,21 +1,21 @@
 ---
 unique-page-id: 10093348
-description: 스마트 캠페인 카드 이해 - 마케팅 문서 - 제품 설명서
+description: 스마트 캠페인 카드 이해 - Marketo 문서 - 제품 설명서
 title: 스마트 캠페인 카드 이해
+exl-id: 2d7476aa-d33d-4c82-aef8-b340766b9526
 translation-type: tm+mt
-source-git-commit: e5050328cbddaf072dd60ddd8d7363a704e720b5
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '514'
 ht-degree: 0%
 
 ---
 
-
 # 스마트 캠페인 카드 이해 {#understanding-smart-campaign-cards}
 
-스마트폰 또는 iPad에서 스마트 캠페인의 각 실행을 보려면 Marketing To Mo멘트를 사용합니다. Marketing To Momuse 스마트 캠페인 카드는 캠페인의 단일 실행을 나타냅니다.스마트 캠페인이 실행될 때마다 새 카드가 표시됩니다. 스마트 캠페인 카드는 왼쪽 상단에 전구로 표시됩니다.
+스마트폰 또는 iPad에서 Marketo Moment를 사용하여 각 스마트 캠페인 실행을 볼 수 있습니다. Marketo Moments 스마트 캠페인 카드는 캠페인의 단일 실행을 나타냅니다.스마트 캠페인이 실행될 때마다 새 카드가 표시됩니다. 스마트 캠페인 카드는 왼쪽 상단에 전구로 표시됩니다.
 
-예약되었지만 아직 실행되지 않은 향후 스마트 캠페인의 경우, 마커 모멘트 카드는 아직 캠페인 상태를 표시하지 않습니다. 이후 릴리스에 표시됩니다.
+예약되었지만 아직 실행하지 않은 향후 스마트 캠페인의 경우 Marketo Moments 카드에 아직 캠페인 통계가 표시되지 않습니다. 이후 릴리스에 표시됩니다.
 
 ![](assets/image2015-9-23-10-3a1-3a5.png)
 
@@ -127,7 +127,7 @@ ht-degree: 0%
 
 ## 기타 스마트 캠페인 작업 {#other-smart-campaign-actions}
 
-다른 Marketing To Moments 카드와 마찬가지로 스마트 캠페인 카드 또는 세부 사항 카드의 3개의 점을 탭하여 다음을 수행할 수 있습니다.
+다른 Marketo 모멘트 카드와 마찬가지로 스마트 캠페인 카드나 세부 사항 카드의 3개의 점을 탭하여 다음을 수행할 수 있습니다.
 
 * [즐겨찾기로 만들기](/help/marketo/product-docs/core-marketo-concepts/mobile-apps/marketo-moments/working-with-moments/creating-a-favorite.md)
 * [완료 표시](/help/marketo/product-docs/core-marketo-concepts/mobile-apps/marketo-moments/working-with-moments/marking-it-done.md)
