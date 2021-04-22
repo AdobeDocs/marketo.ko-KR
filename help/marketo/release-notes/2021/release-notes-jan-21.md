@@ -1,18 +1,18 @@
 ---
-description: 릴리스 노트 - 2021년 1월 - 마케팅 문서 - 제품 설명서
+description: 릴리스 노트 - 2021년 1월 - Marketo 문서 - 제품 설명서
 title: 릴리스 노트 - 2021년 1월
+exl-id: 24a5f955-ef4b-4adf-9478-2653db6f9d79
 translation-type: tm+mt
-source-git-commit: 073b73255d49f859c32c8b4793e6798f02f7a5c4
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '1268'
 ht-degree: 0%
 
 ---
 
-
 # 릴리스 노트:2021년 1월 {#release-notes-jan-21}
 
-다음 기능은 2011년 1월 릴리스에 포함되어 있습니다. 기능 가용성을 확인하려면 Marketing Edition을 확인하십시오.
+다음 기능은 2011년 1월 릴리스에 포함되어 있습니다. 기능을 사용할 수 있는지 Marketo 에디션을 확인하십시오.
 
 >[!AVAILABILITY]
 >
@@ -29,12 +29,12 @@ ht-degree: 0%
 ## 다중 채널 개인화 {#multi-channel-personalization}
 
 * **[Adobe Experience Cloud 고객 동기화 단계 3](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/static-lists/send-a-list-to-adobe-experience-cloud.md)**:기존 Adobe Experience Cloud(AEC) 대상 동기화 기능은 이제 Marketo Engage에서 다른 AEC 애플리케이션과 Adobe Experience Platform(AEP) 솔루션을 비롯하여 실시간 고객 데이터 플랫폼 및 Adobe Experience Platform 활성화과 같은 지속적인 양방향 B2B 고객 동기화를 지원합니다.  리드가 고객 세그먼트에 추가 및 제거되면 Marketo Engage은 연결된 AEC 앱에서 업데이트된 고객을 자동으로 동기화합니다. AEC 기술 스택에서 Adobe의 멀티채널 통합, 재타깃팅, 고객 억제, 개인화 및 보고 사용 사례를 활용할 수 있습니다.
-* **[Google, Facebook 및 LinkedIn에 대한 지속적인 대상 동기화](/help/marketo/product-docs/demand-generation/ad-network-integrations/send-a-list-to-an-ad-network.md)**:광고 네트워크와의 지속적인 자동 동기화를 정적 목록에서 활성화할 수 있으므로 사용자의 개입 없이 광고 네트워크를 목록 구성원 자격 변경 사항으로 업데이트할 수 있습니다.
+* **[Google, Facebook 및 LinkedIn에 대한 지속적인 고객 동기화](/help/marketo/product-docs/demand-generation/ad-network-integrations/send-a-list-to-an-ad-network.md)**:광고 네트워크와의 지속적인 자동 동기화를 정적 목록에서 활성화할 수 있으므로 사용자의 개입 없이 광고 네트워크를 목록 구성원 자격 변경 사항으로 업데이트할 수 있습니다.
 * **[프로그램 멤버 사용자 정의 필드에 대한 토큰](/help/marketo/product-docs/core-marketo-concepts/programs/tokens/program-member-custom-field-tokens.md)**:토큰 프레임워크를 지원하기 위해 확장된 프로그램 멤버 사용자 정의 필드 기능이 있습니다. 마케터는 프로그램 회원 사용자 정의 필드 토큰을 이메일, 랜딩 페이지, SMS 메시지, 푸시 알림 및 웹후크에 삽입할 수 있습니다. 캠페인 흐름 동작의 새 토큰을 사용하여 데이터 값을 변경하거나 작업을 만들거나 흥미로운 순간을 만들 수 있습니다.
 
 ## 랜딩 페이지 및 Forms {#landing-pages-and-forms}
 
-* **양식 API**:리드 정보를 가져오거나 비마케팅 양식에서 데이터를 가져오는 동시에 캠페인을 실행할 수 있습니다. 비마케팅 양식은 REST API를 통해 Marketo Engage과 통합할 수 있습니다. 새로운 API는 모든 관련 기능과 함께 Marketo Engage 양식 제출을 모방하는 기능을 제공합니다.
+* **양식 API**:Marketo이 아닌 다른 양식의 데이터를 가져오는 동시에 리드 정보를 수집하거나 캠페인의 활성화를 도모할 수 있습니다. Marketo이 아닌 양식은 REST API를 통해 Marketo Engage과 통합할 수 있습니다. 새로운 API는 모든 관련 기능과 함께 Marketo Engage 양식 제출을 모방하는 기능을 제공합니다.
 * **랜딩 페이지 API**:새로운 랜딩 페이지 미리 보기 API를 사용하여 통합 애플리케이션의 편집 및 번역 워크플로우를 간소화할 수 있습니다. 이제 제3자 공급업체는 Marketo Engage에 로그인하지 않고도 랜딩 페이지의 미리 보기를 개인화하여 렌더링할 수 있습니다.  랜딩 페이지 미리 보기 API를 사용하면 제3자 통합 애플리케이션에서 엔드 투 엔드 편집 및 로컬라이제이션 워크플로우를 수행할 수 있습니다.
 
 ## 이메일 마케팅 {#email-marketing}
@@ -43,7 +43,7 @@ ht-degree: 0%
 
 ## Salesforce CRM 통합 {#salesforce-crm-integration}
 
-* [Salesforce CRM 인증](/help/marketo/product-docs/crm-sync/salesforce-sync/setting-up-oauth-2-0.md):OAuth 2.0 프로토콜은 Marketo Engage 및 Salesforce CRM 간 작업을 동기화하는 데 사용할 수 있습니다. 새 가입자의 경우 이 옵션은 기본적으로 활성화되어 있습니다. 현재 구독자는 Marketing To 지원에 문의하여 이 기능을 요청할 수 있습니다.
+* [Salesforce CRM 인증](/help/marketo/product-docs/crm-sync/salesforce-sync/setting-up-oauth-2-0.md):OAuth 2.0 프로토콜은 Marketo Engage 및 Salesforce CRM 간 작업을 동기화하는 데 사용할 수 있습니다. 새 가입자의 경우 이 옵션은 기본적으로 활성화되어 있습니다. 현재 구독자는 Marketo 지원에 문의하여 이 기능을 요청할 수 있습니다.
 * [Salesforce CRM 동기화 대시보드](/help/marketo/product-docs/crm-sync/salesforce-sync/salesforce-sync-errors.md):관리자는 대시보드에서 Salesforce CRM 동기화 상태를 신속하게 검토할 수 있습니다. 성능 보고서 시간 간격을 2시간에서 5일로 늘렸습니다.
 * **메타데이터 내보내기**:기회 객체 속성, 지정된 계정, 프로그램 회원의 표준 및 사용자 정의 필드를 지원하도록 향상되었습니다.
 
