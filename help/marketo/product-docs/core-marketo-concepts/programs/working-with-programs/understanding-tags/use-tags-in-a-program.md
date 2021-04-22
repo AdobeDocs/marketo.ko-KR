@@ -1,15 +1,15 @@
 ---
 unique-page-id: 1147150
-description: 프로그램에서 태그 사용 - 마케팅 문서 - 제품 설명서
+description: 프로그램에서 태그 사용 - Marketo 문서 - 제품 설명서
 title: 프로그램에서 태그 사용
+exl-id: f1bae623-a710-472a-a30f-9044ce1001f5
 translation-type: tm+mt
-source-git-commit: 07f713ece9832b7696451001f61c6a3b45b4a94a
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '139'
 ht-degree: 0%
 
 ---
-
 
 # 프로그램 {#use-tags-in-a-program}에서 태그 사용
 
