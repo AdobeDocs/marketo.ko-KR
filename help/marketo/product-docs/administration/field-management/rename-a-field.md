@@ -1,21 +1,21 @@
 ---
 unique-page-id: 2360293
-description: 필드 이름 바꾸기 - 마케팅 문서 - 제품 설명서
+description: 필드 이름 바꾸기 - Marketo 문서 - 제품 설명서
 title: 필드 이름 바꾸기
+exl-id: 3c9558b6-df08-4687-94ac-61a2f70628a4
 translation-type: tm+mt
-source-git-commit: f865630638e7c0fe6ac2a449e196a7de4fbfeea1
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '124'
 ht-degree: 0%
 
 ---
 
-
 # 필드 이름 바꾸기 {#rename-a-field}
 
 >[!NOTE]
 >
->Marketing To에서 사용자 정의 필드의 이름을 변경할 수 있지만 다음과 같은 경우가 있습니다.시스템을 사용하기 전에 먼저 시스템에서 이 항목의 모든 사용을 제거해야 합니다. 여기에는 양식, 스마트 목록 및 스마트 캠페인이 포함됩니다.
+>Marketo에서 사용자 정의 필드의 이름을 변경할 수 있지만 다음과 같은 경우가 있습니다.시스템을 사용하기 전에 먼저 시스템에서 이 항목의 모든 사용을 제거해야 합니다. 여기에는 양식, 스마트 목록 및 스마트 캠페인이 포함됩니다.
 
 >[!NOTE]
 >
@@ -37,8 +37,8 @@ ht-degree: 0%
 
    ![](assets/image2014-9-24-14-2-55.png)
 
-잘했어! 이제 Marketing To에서 필드의 이름을 변경하는 방법을 알 수 있습니다.
+잘했어! 이제 Marketo에서 필드의 이름을 변경하는 방법을 알 수 있습니다.
 
 >[!CAUTION]
 >
->Salesforce에서 API 이름의 이름을 바꾸면 Marketing에서 새 필드를 만들고 이전 필드를 뒤에 남깁니다!
+>Salesforce에서 API 이름을 변경하는 경우 Marketo은 완전히 새로운 필드를 만들고 이전 필드는 그대로 둡니다.
