@@ -1,15 +1,15 @@
 ---
 unique-page-id: 7514985
-description: 프로그램 예약 보기 - Marketing to Docs - 제품 문서에서 일괄 처리 스마트 캠페인 예약
+description: 프로그램 예약 보기 - Marketo 문서 - 제품 문서에서 일괄 처리 스마트 캠페인 예약
 title: 프로그램 예약 보기에서 일괄 처리 스마트 캠페인 예약
+exl-id: accae56e-36c5-4093-a72e-0882ce8e50b2
 translation-type: tm+mt
-source-git-commit: e5050328cbddaf072dd60ddd8d7363a704e720b5
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '106'
 ht-degree: 0%
 
 ---
-
 
 # 프로그램 일정 보기 {#reschedule-a-batch-smart-campaign-in-the-program-schedule-view}에서 일괄 처리 스마트 캠페인 다시 예약
 
