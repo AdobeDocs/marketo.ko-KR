@@ -1,19 +1,19 @@
 ---
 unique-page-id: 4720253
-description: 릴리스 노트 - 2014년 12월 - Marketing Docs - 제품 설명서
+description: 릴리스 노트 - 2014년 12월 - Marketo 문서 - 제품 설명서
 title: 릴리스 노트 - 2014년 12월
+exl-id: b4dd365d-a2a2-416e-a226-5515203a41f8
 translation-type: tm+mt
-source-git-commit: 029d8b419ba5078980b4fde9890bdb35194bf264
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '471'
 ht-degree: 0%
 
 ---
 
-
 # 릴리스 노트:2014년 12월 {#release-notes-december}
 
-다음 기능은 2014년 12월 릴리스에 포함되어 있습니다. 기능을 사용할 수 있는지 확인하려면 Marketing To Edition을 확인하십시오. 릴리스 후 다시 돌아와 각 기능에 대한 자세한 아티클에 대한 링크를 찾으십시오.
+다음 기능은 2014년 12월 릴리스에 포함되어 있습니다. 기능을 사용할 수 있는지 Marketo Edition을 확인하십시오. 릴리스 후 다시 돌아와 각 기능에 대한 자세한 아티클에 대한 링크를 찾으십시오.
 
 ## 판매 통찰력 보고서 {#sales-insight-reports}
 
@@ -25,7 +25,7 @@ ht-degree: 0%
 
 ## Facebook 사용자 지정 대상 {#facebook-custom-audiences}
 
-마케팅 관리자가 관리 > Launchpoint](/help/marketo/product-docs/demand-generation/ad-network-integrations/add-facebook-custom-audiences-as-a-launchpoint-service.md)를 통해 [Facebook을 추가한 후 Facebook 사용자 지정 대상을 Marketing에서 정적 또는 스마트 목록](/help/marketo/product-docs/demand-generation/facebook/create-a-custom-audience-in-facebook.md)으로 리드로 쉽게 만들거나, 업데이트하거나, [바꿀 수 있습니다. 정적 목록 또는 스마트 목록의 리드 격자 아래쪽에 있는 새 Facebook 아이콘을 찾습니다.
+Marketo 관리자가 관리 > Launchpoint](/help/marketo/product-docs/demand-generation/ad-network-integrations/add-facebook-custom-audiences-as-a-launchpoint-service.md)를 통해 [Facebook을 추가한 후 Facebook 사용자 지정 대상을 Marketo 정적 또는 스마트 목록](/help/marketo/product-docs/demand-generation/facebook/create-a-custom-audience-in-facebook.md)의 리드로 쉽게 생성, 업데이트 또는 바꿀 수 있습니다. [ 정적 목록 또는 스마트 목록의 리드 격자 아래쪽에 있는 새로운 Facebook 아이콘을 찾습니다.
 
 ![](assets/image2014-12-5-11-3a6-3a28.png)
 
