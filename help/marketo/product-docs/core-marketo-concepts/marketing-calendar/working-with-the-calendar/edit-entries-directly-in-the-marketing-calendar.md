@@ -1,15 +1,15 @@
 ---
 unique-page-id: 2953352
-description: 마케팅 달력 - 마케팅 문서 - 제품 문서에서 직접 항목 편집
+description: 마케팅 달력에서 직접 항목 편집 - Marketo 문서 - 제품 문서
 title: 마케팅 달력에서 직접 항목 편집
+exl-id: a78e4637-96b4-4771-9f9e-39ff50e11d72
 translation-type: tm+mt
-source-git-commit: e5050328cbddaf072dd60ddd8d7363a704e720b5
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '185'
 ht-degree: 0%
 
 ---
-
 
 # 마케팅 달력 {#edit-entries-directly-in-the-marketing-calendar}에서 직접 항목 편집
 
