@@ -1,15 +1,15 @@
 ---
 unique-page-id: 2950682
-description: 프로그램 채널 만들기 - 마케팅 문서 - 제품 설명서
+description: 프로그램 채널 만들기 - Marketo 문서 - 제품 설명서
 title: 프로그램 채널 만들기
+exl-id: 7b4e15db-c221-45a9-9588-99eb2510cde7
 translation-type: tm+mt
-source-git-commit: f79909ce8f2e37bf0748596774fe47ac03618696
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '427'
 ht-degree: 0%
 
 ---
-
 
 # 프로그램 채널 {#create-a-program-channel} 만들기
 
@@ -21,7 +21,7 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->Marketing To에서 가장 중요한 요소인 [프로그램](/help/marketo/product-docs/core-marketo-concepts/programs/creating-programs/understanding-programs.md)에 대해 자세히 알아보십시오.
+>Marketo에서 가장 중요한 요소인 [프로그램](/help/marketo/product-docs/core-marketo-concepts/programs/creating-programs/understanding-programs.md)에 대해 자세히 알아보십시오.
 
 1. **관리** 섹션에서 **태그**&#x200B;를 클릭합니다.
 
