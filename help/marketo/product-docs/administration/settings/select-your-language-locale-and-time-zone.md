@@ -1,15 +1,15 @@
 ---
 unique-page-id: 2359904
-description: 언어, 로케일 및 시간대 - 마케팅 문서 - 제품 설명서를 선택합니다.
+description: 언어, 로케일 및 표준 시간대 - Marketo 문서 - 제품 설명서 선택
 title: 언어, 로케일 및 표준 시간대 선택
+exl-id: d11f376f-618c-4fa8-a6b5-e11d29e8d728
 translation-type: tm+mt
-source-git-commit: f79909ce8f2e37bf0748596774fe47ac03618696
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '127'
 ht-degree: 0%
 
 ---
-
 
 # 언어, 로케일 및 시간대 {#select-your-language-locale-and-time-zone} 선택
 
@@ -26,7 +26,7 @@ ht-degree: 0%
 
 ## 사용자 언어, 로케일 및 시간대 변경 {#change-user-language-locale-and-time-zone}
 
-1. Marketing에 로그인하고 사용자 이름 아래에서 **내 계정**&#x200B;을 선택합니다.
+1. Marketo에 로그인하고 이름 아래에 **내 계정**&#x200B;을 선택합니다.
 
    ![](assets/myaccount.png)
 
