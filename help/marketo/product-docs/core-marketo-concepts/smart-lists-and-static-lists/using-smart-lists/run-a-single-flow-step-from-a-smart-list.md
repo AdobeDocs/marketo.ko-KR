@@ -1,15 +1,15 @@
 ---
 unique-page-id: 557322
-description: 스마트 목록에서 단일 흐름 단계 실행 - 마케팅 문서 - 제품 설명서
+description: 스마트 목록에서 단일 흐름 단계 실행 - Marketo 문서 - 제품 설명서
 title: 스마트 목록에서 단일 흐름 단계 실행
+exl-id: 1ac5795b-1906-4f94-bd0a-570d55c9357b
 translation-type: tm+mt
-source-git-commit: 5b9f48c98464c79bcdca2e335f6a4a2edce98ce4
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '234'
 ht-degree: 0%
 
 ---
-
 
 # 스마트 목록 {#run-a-single-flow-step-from-a-smart-list}에서 단일 흐름 단계 실행
 
