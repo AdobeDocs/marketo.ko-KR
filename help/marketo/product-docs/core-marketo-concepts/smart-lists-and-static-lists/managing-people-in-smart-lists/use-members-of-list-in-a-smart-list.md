@@ -1,15 +1,15 @@
 ---
 unique-page-id: 2953173
-description: 스마트 목록의 목록 멤버 사용 - 마케팅 문서 - 제품 설명서
+description: 스마트 목록의 목록 멤버 사용 - Marketo 문서 - 제품 설명서
 title: 스마트 목록에서 목록 멤버 사용
+exl-id: ebd458c1-01f4-4d19-b5b2-d19ab2bad1af
 translation-type: tm+mt
-source-git-commit: 07f713ece9832b7696451001f61c6a3b45b4a94a
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '137'
 ht-degree: 0%
 
 ---
-
 
 # 스마트 목록 {#use-members-of-list-in-a-smart-list}의 목록 멤버 사용
 
