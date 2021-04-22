@@ -1,19 +1,19 @@
 ---
 unique-page-id: 5472490
-description: 릴리스 일정 - 마케팅 문서 - 제품 설명서
+description: 릴리스 일정 - Marketo 문서 - 제품 설명서
 title: 릴리스 일정
+exl-id: 38bd10e3-7f47-46f7-b9b0-83e1ab50014c
 translation-type: tm+mt
-source-git-commit: ed9399396c82a3b2fb93c83ffdaa1dc7b0827306
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '132'
 ht-degree: 0%
 
 ---
 
-
 # 릴리스 일정 {#release-schedule}
 
-**릴리스**:Marketing은 분기별 주요 릴리스 일정을 사용합니다. 사용 가능한 각 릴리스 노트는 아래 표에 연결되어 있습니다.
+**릴리스**:Marketo은 분기별 주요 릴리스 일정을 사용합니다. 사용 가능한 각 릴리스 노트는 아래 표에 연결되어 있습니다.
 
 **릴리스 날짜**:롤아웃은 보통 릴리스 주 수요일에 시작되며, 금요일 저녁 많은 업그레이드가 발생합니다. 특정 날짜와 릴리스 세부 정보가 포함된 이메일이 발송됩니다. 목록에 있는 날짜는 금요일 업데이트로 표시됩니다.
 
