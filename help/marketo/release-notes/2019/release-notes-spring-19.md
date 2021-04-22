@@ -1,19 +1,19 @@
 ---
 unique-page-id: 17728380
-description: 릴리스 노트 - 2019년 봄 - Marketing Docs - 제품 설명서
+description: 릴리스 노트 - 2019년 봄 - Marketo 문서 - 제품 설명서
 title: 릴리스 노트 - 2019년 봄
+exl-id: eb7a9ac4-5c3d-4d98-9b06-e3f11147bc6d
 translation-type: tm+mt
-source-git-commit: 9f88e7cebc5e9d0d4491d65d332ccfdd9a31c395
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '459'
 ht-degree: 0%
 
 ---
 
-
 # 릴리스 노트:2019년 봄 {#release-notes-spring}
 
-다음 기능은 19년 봄 릴리스에 포함되어 있습니다. 기능 가용성을 확인하려면 Marketing Edition을 확인하십시오.
+다음 기능은 19년 봄 릴리스에 포함되어 있습니다. 기능을 사용할 수 있는지 Marketo 에디션을 확인하십시오.
 
 사용 가능한 경우 제목 링크를 클릭하여 각 기능에 대한 세부 집필을 확인하십시오.
 
@@ -23,9 +23,9 @@ ht-degree: 0%
 
 ## 핵심 플랫폼 개선 사항 {#core-platform-enhancements}
 
-* **대기 목록:** 공석이  [열릴 때까지 가입 상태로 두려는 경우 구성원을 대기](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/program-flow-actions/change-program-status.md) 에 나열하는 신규 프로그램/이벤트 상태 이는 Marketing To Classic의 이벤트 프로그램과 연결된 채널과 Marketo Sky의 웨비나 프로그램이 있는 이벤트 및 이벤트에 모두 적용됩니다. 기본적으로 대기 목록에 있는 단계 값은 등록과 동일합니다.
+* **대기 목록:** 공석이  [열릴 때까지 가입 상태로 두려는 경우 구성원을 대기](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/program-flow-actions/change-program-status.md) 에 나열하는 신규 프로그램/이벤트 상태 이는 Marketo Classic의 이벤트 프로그램과 연결된 채널과 Marketo Sky의 웨비나 프로그램이 있는 이벤트 및 이벤트에 모두 적용됩니다. 기본적으로 대기 목록에 있는 단계 값은 등록과 동일합니다.
 * **[사용자 정의 통신 제한](/help/marketo/product-docs/administration/email-setup/enable-communication-limits.md)**:관리자는 이제 사용자 정의 일별 또는 주별 통신 제한을 설정할 수 있습니다.
-* **[스마트 캠페인 자산 API](https://developers.marketo.com/rest-api/assets/campaigns/)**:업데이트된 날짜 및 ID로 캠페인 레코드 검색을 스마트하게 활용하여 Marketing(마케팅) 외부에서 분석 역량을 강화할 수 있습니다.
+* **[스마트 캠페인 자산 API](https://developers.marketo.com/rest-api/assets/campaigns/)**:업데이트된 날짜 및 ID로 캠페인 기록 검색을 지능적으로 수행하여 Marketo 외부에서 분석을 강화할 수 있습니다.
 * **이메일에 대한 HTTPS 추적 링크: &quot;** 링크 추적을 위한 보안 도메인&quot;을 구입한 고객의 경우 이제 이메일 내에서 브랜드 추적 링크를 HTTPS로 표시할 수 있습니다.
 * **이메일 배달 기능 Powerpack 업데이트**:특정 테스트 결과에 플래그를 지정하거나 주석을 달고, URL을 통해 이해 관계자와 결과를 공유하고 변경 사항을 추적하여 이해 관계자가 컨텐츠를 편집할 때 이메일의 진화를 확인할 수 있습니다.
 
@@ -46,12 +46,12 @@ ht-degree: 0%
 * **Design Studio 에셋 관리**:Design Studio 목록 보기에서 템플릿, 이미지, Forms, 코드 조각, 파일, 이메일 및 랜딩 페이지를 일괄 관리하는 기능이 추가되었습니다.
 * **수신자 시간대 대시보드에 배달**:하늘에서 받는 사람 시간대에서 배달 기능을 사용하여 보낸 이메일에 대한 보고를 통해 고객 행동을 파악할 수 있습니다.
 
-## Marketing To Sales Engage {#marketo-sales-engage}
+## Marketo 영업 참여 {#marketo-sales-engage}
 
 * **향상된 감사**:다른 사용자가 만든 기존 캠페인 [](/help/marketo/product-docs/marketo-sales-connect/templates/view-template-list-as-a-another-user.md) 을  [종료하는 기능이 추가된 인스턴스에서 모든 사람, 이메일 및 컨텐츠를 ](/help/marketo/product-docs/marketo-sales-connect/campaigns/view-campaigns-list-as-another-user.md)새로운 방식으로 볼 수 있습니다.
-* **[구독 취소 관리](/help/marketo/product-docs/marketo-sales-connect/email/unsubscribes/marketo-unsubscribe-check.md)**:이메일 도메인 접수를  [차단할 수 있으므로 전달 ](/help/marketo/product-docs/marketo-sales-connect/admin/blocked-domains.md) 능력과 규정 준수를 극대화할 수 있습니다. 또한 Marketing Cloud는 이메일을 보내기 전에 구독을 취소할 리드 데이터베이스를 상호 참조합니다.
+* **[구독 취소 관리](/help/marketo/product-docs/marketo-sales-connect/email/unsubscribes/marketo-unsubscribe-check.md)**:이메일 도메인 접수를  [차단할 수 있으므로 전달 ](/help/marketo/product-docs/marketo-sales-connect/admin/blocked-domains.md) 능력과 규정 준수를 극대화할 수 있습니다. 또한 Marketo은 이메일을 보내기 전에 구독을 취소할 리드 데이터베이스를 상호 참조합니다.
 
-## Marketing To {#bizible-by-marketo}
+## Marketo {#bizible-by-marketo}의 bizable
 
 * **Bizable Discover 기능 개선** 사항:새로운 대시보드 세그멘테이션 기능을 통해 마케터는 성과를 보다 잘 이해할 수 있습니다.
 * **다중 통화 지원**:CRM 통화 테이블을 기반으로 구축된 Bizny의 새로운 자동 통화 변환 기능을 사용하면 회사 통화와 모든 로컬 통화 간에 전환할 수 있습니다.
