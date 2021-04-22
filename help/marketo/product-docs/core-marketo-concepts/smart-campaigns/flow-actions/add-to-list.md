@@ -1,15 +1,15 @@
 ---
 unique-page-id: 1146952
-description: 목록에 추가 - 마케팅 문서 - 제품 설명서
+description: 목록에 추가 - Marketo 문서 - 제품 설명서
 title: 목록에 추가
+exl-id: 30673b95-4eed-4aa5-bca2-5ed5350d28a7
 translation-type: tm+mt
-source-git-commit: 4a0bd2efe99284807a46d07ffef0070d9a303631
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '39'
 ht-degree: 0%
 
 ---
-
 
 # 목록에 추가 {#add-to-list}
 
