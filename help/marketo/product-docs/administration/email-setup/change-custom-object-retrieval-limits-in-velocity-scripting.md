@@ -1,14 +1,14 @@
 ---
-description: Velocity 스크립팅 - Marketing To Docs - 제품 문서에서 사용자 지정 개체 검색 제한 변경
+description: Velocity 스크립팅의 사용자 정의 개체 검색 제한 변경 - Marketo 문서 - 제품 설명서
 title: 속도 스크립팅의 사용자 정의 개체 검색 제한 변경
+exl-id: ef45205e-421d-4d1d-8c9d-7d627326a90c
 translation-type: tm+mt
-source-git-commit: cfefff241b34571b9778cbd827f45d1b468d121e
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '248'
 ht-degree: 0%
 
 ---
-
 
 # 속도 스크립팅의 사용자 지정 개체 검색 제한 변경 {#change-custom-object-retrieval-limits-in-velocity-scripting}
 
@@ -16,7 +16,7 @@ Velocity Script를 사용하여 이메일에 사용자 지정 개체 데이터�
 
 ## 속도 {#what-is-velocity}란 무엇입니까?
 
-[Apache](https://velocity.apache.org/) Velocity는 HTML 컨텐츠를 템플릿 작성 및 스크립팅하기 위해 설계된 Java 기반의 언어입니다. Marketing에서는 [스크립팅 토큰](/help/marketo/product-docs/email-marketing/general/using-tokens/create-an-email-script-token.md)을 사용하여 이메일 컨텍스트에서 사용할 수 있습니다. 무엇보다도 사용자 정의 개체에 저장된 데이터에 액세스할 수 있습니다.
+[Apache](https://velocity.apache.org/) Velocity는 HTML 컨텐츠를 템플릿 작성 및 스크립팅하기 위해 설계된 Java 기반의 언어입니다. Marketo에서는 [스크립팅 토큰](/help/marketo/product-docs/email-marketing/general/using-tokens/create-an-email-script-token.md)을 사용하여 이메일 컨텍스트에서 사용할 수 있습니다. 무엇보다도 사용자 정의 개체에 저장된 데이터에 액세스할 수 있습니다.
 
 리드 또는 연락처에 직접 연결되어 있지만 3차 사용자 지정 개체는 참조할 수 없습니다. 각 사용자 정의 개체에 대해 1인/접촉자당 가장 최근에 업데이트된 레코드 10개를 런타임에 사용할 수 있으며 가장 최근에 업데이트된 레코드(0)부터 가장 오래된 업데이트(9)까지 순서가 지정됩니다.
 
