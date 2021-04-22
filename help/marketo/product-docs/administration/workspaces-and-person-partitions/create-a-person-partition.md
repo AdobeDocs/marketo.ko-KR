@@ -1,15 +1,15 @@
 ---
 unique-page-id: 2360315
-description: 개인 파티션 만들기 - 마케팅 문서 - 제품 설명서
+description: 개인 파티션 만들기 - Marketo 문서 - 제품 설명서
 title: 개인 파티션 만들기
+exl-id: 097fd314-c3e1-4123-af47-2f7e53a658e3
 translation-type: tm+mt
-source-git-commit: f79909ce8f2e37bf0748596774fe47ac03618696
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '107'
 ht-degree: 0%
 
 ---
-
 
 # 사람 파티션 만들기 {#create-a-person-partition}
 
@@ -25,7 +25,7 @@ ht-degree: 0%
 
 >[!CAUTION]
 >
->개인 파티션은 복잡할 수 있습니다. 설정을 위한 도움이 필요하면 [Marketing Support](https://nation.marketo.com/t5/Support/ct-p/Support)에 문의하십시오.
+>개인 파티션은 복잡할 수 있습니다. 설정을 위한 도움이 필요하면 [Marketo 지원](https://nation.marketo.com/t5/Support/ct-p/Support)에 문의하십시오.
 
 1. 관리에서 **작업 영역 및 파티션**&#x200B;을 선택합니다.
 
