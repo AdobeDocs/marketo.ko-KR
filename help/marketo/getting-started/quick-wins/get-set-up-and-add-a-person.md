@@ -1,21 +1,21 @@
 ---
 unique-page-id: 2359351
-description: 인물 설정 및 추가 - 마케팅 문서 - 제품 설명서
+description: 설정 및 사람 추가 - Marketo 문서 - 제품 설명서
 title: 설정 및 사람 추가
+exl-id: 194c7421-fe6d-4d8c-bd34-d3fc89ec80f2
 translation-type: tm+mt
-source-git-commit: d7d6aee63144c472e02fe0221c4a164183d04dd4
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '204'
 ht-degree: 0%
 
 ---
 
-
 # 설정 및 사람 추가 {#get-set-up-and-add-a-person}
 
 임무를 시작하기 전에 몇 가지 해야 할 일이 있다.
 
-## 1단계:Marketing에 로그인 {#step-log-in-to-marketo}
+## 1단계:Marketo {#step-log-in-to-marketo}에 로그인
 
 1. [이메일로 받은 자격 ](https://app.marketo.com) 증명을 사용하여 Marketing에 로그인합니다.
 
@@ -43,7 +43,7 @@ ht-degree: 0%
 
 ## 3단계:자신을 사람 {#step-add-yourself-as-a-person}으로 추가
 
-나중에 테스트 이메일을 사용자에게 보낼 수 있도록 Marketing Cloud에서 자신을 다른 사람으로 추가합니다.
+Marketo에서 자신을 한 사람으로 추가하면 나중에 테스트 이메일을 자신에게 보낼 수 있습니다.
 
 1. **데이터베이스** 영역으로 이동합니다.
 
