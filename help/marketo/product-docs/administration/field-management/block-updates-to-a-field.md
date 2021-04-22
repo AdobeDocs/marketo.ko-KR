@@ -1,15 +1,15 @@
 ---
 unique-page-id: 2360291
-description: 필드 업데이트 차단 - 마케팅 문서 - 제품 설명서
+description: 필드 업데이트 차단 - Marketo 문서 - 제품 설명서
 title: 필드에 대한 업데이트 차단
+exl-id: 763097a3-cfa0-4df7-bfd1-40332b8dda1e
 translation-type: tm+mt
-source-git-commit: 9f88e7cebc5e9d0d4491d65d332ccfdd9a31c395
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '170'
 ht-degree: 0%
 
 ---
-
 
 # {#block-updates-to-a-field} 필드에 대한 업데이트 차단
 
@@ -37,4 +37,4 @@ ht-degree: 0%
 
    >[!CAUTION]
    >
-   >목록 가져오기를 수행할 때 가져오기 미리 보기에서 차단된 필드의 상태는 필드가 _정확히_&#x200B;과 일치하는 필드 이름을 기반으로 Marketing To에서 자동으로 인식되는 경우에만 표시됩니다(또는 별칭이 설정된 경우). 필드를 Marketing To 필드 드롭다운에서 수동으로 선택하면 차단된 상태가 가져오기 미리 보기에 표시되지 않지만 해당 필드에 대한 업데이트 차단 기능은 계속 구현됩니다.
+   >목록 가져오기를 수행할 때 가져오기 미리 보기에서 차단된 필드의 상태는 필드가 _정확히_&#x200B;과 일치하는 필드 이름을 기반으로 Marketo에서 자동으로 인식되는 경우에만 표시됩니다(또는 별칭이 설정된 경우). Marketo 필드 드롭다운에서 필드를 수동으로 선택하면 차단된 상태가 가져오기 미리 보기에 표시되지 않지만 해당 필드에 대한 업데이트 차단 기능은 계속 구현됩니다.
