@@ -1,23 +1,23 @@
 ---
 unique-page-id: 2949467
-description: Marketing 소개 - 마케팅 문서 - 제품 설명서
-title: Marketing 소개
+description: Marketo 소개 - Marketo 문서 - 제품 설명서
+title: Marketo 소개
+exl-id: 7b76e910-6c01-4fdb-8ab8-f6b1abe13136
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '191'
 ht-degree: 0%
 
 ---
 
-
-# Marketing 소개{#what-is-marketo}
+# Marketo 소개{#what-is-marketo}
 
 이것은 마케팅 소프트웨어이며 경우에 따라 마케팅 자동화라고도 합니다. 괜찮아.
 
 ## 우편환기 도구인가요?{#is-it-a-mail-blast-tool}
 
-마케팅에서 할 수 있는 한 가지 방법입니다. 하지만 훨씬 더 많은 것이 있습니다.
+그게 Marketo에서 할 수 있는 일인걸요 하지만 훨씬 더 많은 것이 있습니다.
 
 ## 그래, 요점을 말해 봐, 뭐가 있어?{#ok-get-to-the-point-whats-it-got}
 
@@ -39,7 +39,7 @@ ht-degree: 0%
 
 ## 맙소사! 그걸 다 배워야 하나요?{#holy-cow-do-i-need-to-learn-all-that}
 
-아니, 전혀. Marketing Cloud는 사용하기 쉽고 고객과 함께 진화할 것입니다. 시간이 지남에 따라 조각을 추가할 수 있습니다.
+아니, 전혀. Marketo은 쉽게 시작할 수 있으며 고객과 함께 진화할 것입니다. 시간이 지남에 따라 조각을 추가할 수 있습니다.
 
 ## 설정을 해야 합니까?{#do-i-need-to-do-any-setup}
 
