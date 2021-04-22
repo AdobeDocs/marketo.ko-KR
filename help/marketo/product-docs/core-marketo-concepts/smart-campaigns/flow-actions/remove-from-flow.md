@@ -1,15 +1,15 @@
 ---
 unique-page-id: 1147084
-description: 흐름에서 제거 - 마케팅 문서 - 제품 설명서
+description: 흐름에서 제거 - Marketo 문서 - 제품 설명서
 title: 흐름에서 제거
+exl-id: 98b3664a-dd40-4859-a74d-0a9e84113225
 translation-type: tm+mt
-source-git-commit: 4a0bd2efe99284807a46d07ffef0070d9a303631
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '160'
 ht-degree: 0%
 
 ---
-
 
 # 흐름 {#remove-from-flow}에서 제거
 
