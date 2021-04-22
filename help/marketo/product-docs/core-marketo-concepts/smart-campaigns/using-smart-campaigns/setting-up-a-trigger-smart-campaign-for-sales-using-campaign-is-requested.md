@@ -1,19 +1,19 @@
 ---
 unique-page-id: 7514898
-description: '"Campaign is Requested" - Marketing To Docs - 제품 설명서를 사용하여 영업을 위한 트리거 스마트 캠페인 설정'
+description: '"캠페인이 요청됨"을 사용하여 영업을 위한 트리거 스마트 캠페인 설정 - Marketo 문서 - 제품 설명서'
 title: '"캠페인이 요청됨"을 사용하여 영업을 위한 트리거 스마트 캠페인 설정'
+exl-id: ed6d7c27-d54b-48e3-af67-19503da4ef56
 translation-type: tm+mt
-source-git-commit: 4a0bd2efe99284807a46d07ffef0070d9a303631
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '288'
 ht-degree: 0%
 
 ---
 
-
 # &quot;캠페인이 요청됨&quot; {#setting-up-a-trigger-smart-campaign-for-sales-using-campaign-is-requested}을(를) 사용하여 판매에 대한 트리거 스마트 캠페인 설정
 
-Marketing의 가장 멋진 기능 중 하나는 세일즈 사용자가 마케팅 활동에 참여할 수 있도록 하는 기능입니다. 그들은 사람들과 교류하며 최전선에 있습니다. 세일즈 담당자는 올바른 방향으로 마케팅을 전개할 수 있어야 합니다.
+Marketo의 가장 멋진 기능 중 하나는 세일즈 담당자가 마케팅 활동에 참여할 수 있는 기능입니다. 그들은 사람들과 교류하며 최전선에 있습니다. 세일즈 담당자는 올바른 방향으로 마케팅을 전개할 수 있어야 합니다.
 
 >[!NOTE]
 >
