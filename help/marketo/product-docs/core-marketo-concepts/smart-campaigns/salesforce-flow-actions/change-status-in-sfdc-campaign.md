@@ -1,15 +1,15 @@
 ---
 unique-page-id: 1147029
-description: SFDC 캠페인의 상태 변경 - 마케팅 문서 - 제품 설명서
+description: SFDC 캠페인의 상태 변경 - Marketo 문서 - 제품 설명서
 title: SFDC 캠페인의 상태 변경
+exl-id: 7c0082fe-204f-46d2-a835-8655dea4d0b1
 translation-type: tm+mt
-source-git-commit: 5b9f48c98464c79bcdca2e335f6a4a2edce98ce4
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '96'
 ht-degree: 0%
 
 ---
-
 
 # SFDC 캠페인 {#change-status-in-sfdc-campaign}의 상태 변경
 
