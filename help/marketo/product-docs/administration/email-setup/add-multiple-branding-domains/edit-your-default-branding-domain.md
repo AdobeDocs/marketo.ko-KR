@@ -1,15 +1,15 @@
 ---
 unique-page-id: 11377392
-description: 기본 브랜딩 도메인 편집 - Marketing To Docs - 제품 설명서
+description: 기본 브랜딩 도메인 편집 - Marketo 문서 - 제품 설명서
 title: 기본 브랜딩 도메인 편집
+exl-id: 961d4195-2c4c-4b33-81f0-dd11ec3fb500
 translation-type: tm+mt
-source-git-commit: f865630638e7c0fe6ac2a449e196a7de4fbfeea1
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '112'
 ht-degree: 0%
 
 ---
-
 
 # 기본 브랜딩 도메인 편집 {#edit-your-default-branding-domain}
 
@@ -17,7 +17,7 @@ ht-degree: 0%
 
 >[!PREREQUISITES]
 >
->Marketing To에서 브랜딩 도메인을 추가하기 전에 DNS](/help/marketo/getting-started/setup-steps/configure-protocols-for-marketo.md)에 [CNAME을 설정했는지 확인하십시오.
+>Marketo에서 브랜딩 도메인을 추가하기 전에 DNS](/help/marketo/getting-started/setup-steps/configure-protocols-for-marketo.md)에 [CNAME을 설정했는지 확인하십시오.
 
 1. **관리**&#x200B;로 이동하고 **이메일**&#x200B;을 클릭합니다.
 
