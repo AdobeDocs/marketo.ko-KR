@@ -1,15 +1,15 @@
 ---
 unique-page-id: 2949192
-description: SEO - 경쟁업체 추가 - 마케팅 문서 - 제품 설명서
+description: SEO - 경쟁업체 추가 - Marketo 문서 - 제품 설명서
 title: SEO - 경쟁업체 추가
+exl-id: 62ef754d-840e-4094-9b98-d2a472523f03
 translation-type: tm+mt
-source-git-commit: 40f08784ee6f7ac105ed027963c0d5a7ea812808
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '87'
 ht-degree: 0%
 
 ---
-
 
 # SEO - 경쟁업체 {#seo-add-competitors} 추가
 
