@@ -1,23 +1,23 @@
 ---
 unique-page-id: 557339
-description: 중복 사용자 찾기 및 병합 - Marketing To Docs - 제품 문서
+description: 중복 사용자 찾기 및 병합 - Marketo 문서 - 제품 설명서
 title: 중복 인물 찾기 및 병합
+exl-id: a6d46096-587a-4e3a-b37a-917c0d2098b1
 translation-type: tm+mt
-source-git-commit: 07f713ece9832b7696451001f61c6a3b45b4a94a
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '429'
 ht-degree: 0%
 
 ---
 
-
 # 중복 인물 찾기 및 병합 {#find-and-merge-duplicate-people}
 
-새 사용자가 시스템에 입력되면 Marketing에서 자동으로 중복 제거 기능을 사용할 수 있습니다. 그러나 CRM에서 처음에 Marketing To로 중복 항목을 보냈을 수 있습니다. 병합하는 방법을 소개합니다.
+Marketo은 신규 사용자가 시스템에 등록하면 자동으로 중복 제거 기능을 제공합니다. 그러나 CRM에서 처음에 Marketo으로 중복 항목을 보냈을 수 있습니다. 병합하는 방법을 소개합니다.
 
 >[!NOTE]
 >
->Salesforce 또는 Microsoft Dynamics 동기화에 대해 또는 수동으로 사람을 입력할 때 Marketing To는 자동으로 중복 제거 기능을 제공하지 않습니다.
+>Marketo은 Salesforce 또는 Microsoft Dynamics 동기화에 대해 자동으로 중복 제거되거나 수동으로 사람을 입력할 때 제거되지 않습니다.
 
 >[!PREREQUISITES]
 >
@@ -31,7 +31,7 @@ ht-degree: 0%
 
    >[!CAUTION]
    >
-   >Salesforce 사람 계정을 사용하는 경우 Marketing에서 사람을 병합하면 작동하지 않을 수 있습니다. 가능하면 Salesforce의 레코드를 병합하십시오.
+   >Salesforce 개인 계정을 사용하는 경우 Marketo에서 사람을 병합하는 것은 작동하지 않을 수 있습니다. 가능하면 Salesforce의 레코드를 병합하십시오.
 
 1. **가능한 중복 항목** 시스템 스마트 목록을 선택하고 **사람** 탭을 클릭합니다.
 
@@ -45,7 +45,7 @@ ht-degree: 0%
 
 >[!CAUTION]
 >
->사람을 병합할 때, 유실된 사람에게 Marketing 사용자 지정 개체가 있는 경우, 이 개체는 우승한 사람과 다시 연결되지는 **않습니다.** 병합을 수행하기 전에 사용자 지정 개체를 다시 부모하십시오.
+>사람을 병합할 때, 유실된 사람에게 Marketo 사용자 지정 개체가 있는 경우, 이 개체는 우승한 사람과 다시 연결되지 **않습니다.** 병합을 수행하기 전에 사용자 지정 개체를 다시 부모하십시오.
 
 1. Ctrl/Cmd를 누른 채 을 클릭하고 **사람 병합**&#x200B;을 클릭하여 중복 항목을 선택합니다.
 
