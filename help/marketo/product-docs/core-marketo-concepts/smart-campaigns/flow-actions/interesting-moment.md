@@ -1,21 +1,21 @@
 ---
 unique-page-id: 1146956
-description: 흥미로운 순간 - Marketing To Docs - 제품 설명서
+description: 흥미로운 순간 - Marketo 문서 - 제품 설명서
 title: 흥미로운 순간
+exl-id: fa1a45b8-1e62-497e-9441-bf6859addb42
 translation-type: tm+mt
-source-git-commit: 4a0bd2efe99284807a46d07ffef0070d9a303631
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '98'
 ht-degree: 0%
 
 ---
 
-
 # 흥미로운 순간 {#interesting-moment}
 
 ## 개요 {#overview}
 
-Marketing To Sales Insight가 있는 경우 **Interest Moment** 흐름 단계를 사용하여 영업 팀이 사람들이 하고 있는 멋진 작업을 볼 수 있도록 할 수 있습니다.
+Marketo Sales Insight가 있는 경우 **Interest Moment** 흐름 단계를 사용하여 영업 팀이 고객의 멋진 작업을 파악할 수 있습니다.
 
 ![](assets/image2016-1-27-11-3a0-3a21.png)
 
