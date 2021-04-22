@@ -1,19 +1,19 @@
 ---
 unique-page-id: 2953334
-description: 릴리스 노트 - 2014년 10월 - Marketing Docs - 제품 설명서
+description: 릴리스 노트 - 2014년 10월 - Marketo 문서 - 제품 설명서
 title: 릴리스 노트 - 2014년 10월
+exl-id: 698b4efd-ee14-459e-83a9-d06652099040
 translation-type: tm+mt
-source-git-commit: 029d8b419ba5078980b4fde9890bdb35194bf264
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '274'
 ht-degree: 0%
 
 ---
 
-
 # 릴리스 노트:2014년 10월 {#release-notes-october}
 
-기능 가용성을 확인하려면 Marketing Edition을 확인하십시오. 설명서는 릴리스 시점에 제공됩니다.
+기능을 사용할 수 있는지 Marketo 에디션을 확인하십시오. 설명서는 릴리스 시점에 제공됩니다.
 
 ## 마케팅 달력의 프로그램 초점 {#program-focus-in-marketing-calendar}
 
@@ -32,15 +32,15 @@ API를 사용하여 리드에 대한 새 활동 또는 변경 사항을 가져�
 
 자세한 내용은 [developers.markto.com](https://developers.marketo.com/documentation/rest/)의 릴리스 이후에 제공됩니다.
 
-## MSI - Microsoft Dynamics {#msi-send-marketo-email-for-microsoft-dynamics}용 Marketing To Email 보내기
+## MSI - Microsoft Dynamics용 Marketo 이메일 보내기 {#msi-send-marketo-email-for-microsoft-dynamics}
 
 [Microsoft Dynamics에서 세일즈 이메일](/help/marketo/product-docs/marketo-sales-insight/msi-for-microsoft-dynamics/setting-up-and-using/send-a-marketo-sales-email-from-microsoft-dynamics.md) 을 보내 리드 및 담당자를 추적할 수 있습니다.
 
 ![](assets/image2014-10-20-11-3a49-3a25.png)
 
-## MSI - Microsoft Dynamics {#msi-add-to-marketo-campaigns-for-microsoft-dynamics}용 Marketing To 캠페인에 추가
+## MSI - Microsoft Dynamics {#msi-add-to-marketo-campaigns-for-microsoft-dynamics}용 Marketo 캠페인에 추가
 
-[Microsoft Dynamics 내에서 직접 Marketing에 리드 및 ](/help/marketo/product-docs/marketo-sales-insight/msi-for-microsoft-dynamics/setting-up-and-using/add-a-lead-contact-to-a-marketo-campaign-from-microsoft-dynamics.md) 담당자를 추가할 수 있습니다. 마케팅은 영업에 사용할 수 있는 마케팅 캠페인을 선택할 수 있습니다.
+[Microsoft Dynamics 내에서 직접 Marketo 스마트 ](/help/marketo/product-docs/marketo-sales-insight/msi-for-microsoft-dynamics/setting-up-and-using/add-a-lead-contact-to-a-marketo-campaign-from-microsoft-dynamics.md) 캠페인에 리드 및 연락처를 추가할 수 있습니다. 마케팅에서 판매용으로 사용할 수 있는 Marketo 캠페인을 선택할 수 있습니다.
 
 ## Microsoft Dynamics 동기화에 대한 사용자 지정 엔터티 지원 {#custom-entity-support-for-microsoft-dynamics-sync}
 
