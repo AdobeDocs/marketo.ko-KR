@@ -1,19 +1,19 @@
 ---
 unique-page-id: 3571846
-description: Microsoft Dynamics 동기화 - 사용자 지정 엔티티 동기화 - Marketing To Docs - 제품 설명서
+description: Microsoft Dynamics 동기화 - 사용자 정의 엔티티 동기화 - Marketo Docs - 제품 설명서
 title: Microsoft Dynamics 동기화 - 사용자 지정 엔티티 동기화
+exl-id: 1e175bd4-509f-4c1f-a41d-456629e4a8fb
 translation-type: tm+mt
-source-git-commit: 2b5ccd7220557a5e966d33436d0f0d2a65e4589d
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '217'
 ht-degree: 0%
 
 ---
 
-
 # Microsoft Dynamics 동기화:사용자 지정 엔티티 동기화 {#microsoft-dynamics-sync-custom-entity-sync}
 
-Marketing To에서 Dynamics 데이터를 사용할 수 있도록 초기 사용자 지정 엔티티 동기화를 활성화해야 하는 경우 이 방법을 설명합니다.
+Marketo에서 Dynamics 데이터를 사용할 수 있도록 초기 사용자 지정 엔티티 동기화를 활성화해야 하는 경우 이 방법을 설명합니다.
 
 >[!NOTE]
 >
@@ -35,9 +35,9 @@ Marketing To에서 Dynamics 데이터를 사용할 수 있도록 초기 사용�
 
    ![](assets/image2015-11-10-9-3a0-3a6.png)
 
-1. 사용자 지정 엔티티 동기화를 지원하는 Microsoft Dynamics 버전을 2_0_0_2 이후에 설치합니다. Microsoft Dynamics](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/marketo-plugin-releases-for-microsoft-dynamics.md)용 [Marketing To 플러그인 릴리스를 참조하십시오.
+1. 사용자 지정 엔티티 동기화를 지원하는 Microsoft Dynamics 버전을 2_0_0_2 이후에 설치합니다. Microsoft Dynamics](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/marketo-plugin-releases-for-microsoft-dynamics.md)용 [Marketo 플러그인 릴리스를 참조하십시오.
 
-1. 동기화하려는 모든 개체에 대한 Marketing to Sync 사용자 읽기 액세스 권한을 제공합니다.
+1. 동기화하려는 모든 엔티티에 Marketo Sync 사용자 읽기 액세스 권한을 제공합니다.
 
 1. 데이터베이스 관리에서 **Dynamics 엔티티 동기화** 링크를 클릭합니다.
 
@@ -57,7 +57,7 @@ Marketing To에서 Dynamics 데이터를 사용할 수 있도록 초기 사용�
 
    >[!NOTE]
    >
-   >Marketing은 하나 또는 두 수준 깊이 표준 엔티티에 연결된 사용자 지정 엔티티만 지원합니다.
+   >Marketo은 하나 또는 두 수준 깊이 표준 엔티티에 연결된 맞춤형 엔티티만 지원합니다.
 
    >[!NOTE]
    >
