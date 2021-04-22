@@ -1,15 +1,15 @@
 ---
 unique-page-id: 1147255
-description: 마케팅 달력 라이선스 문제/취소 - 마케팅 문서 - 제품 설명서
+description: 마케팅 달력 라이선스 문제/취소 - Marketo 문서 - 제품 설명서
 title: 마케팅 달력 라이선스 문제/취소
+exl-id: b43cf0e4-3e3e-4034-8ecf-bda34557cfef
 translation-type: tm+mt
-source-git-commit: e5050328cbddaf072dd60ddd8d7363a704e720b5
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '108'
 ht-degree: 0%
 
 ---
-
 
 # 마케팅 달력 라이선스 {#issue-revoke-a-marketing-calendar-license} 문제/취소
 
