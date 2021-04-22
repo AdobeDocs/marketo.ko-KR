@@ -1,19 +1,19 @@
 ---
 unique-page-id: 6095047
-description: '"추적 안 함" 브라우저 지원 설정 편집 - Marketing To Docs - 제품 설명서'
+description: '"추적 안 함" 브라우저 지원 설정 편집 - Marketo 문서 - 제품 설명서'
 title: 브라우저 지원 설정 편집 "추적 안 함"
+exl-id: 22248911-21e9-4e13-9132-22415aa114fc
 translation-type: tm+mt
-source-git-commit: f79909ce8f2e37bf0748596774fe47ac03618696
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '133'
 ht-degree: 0%
 
 ---
 
-
 # &quot;추적 안 함&quot; 브라우저 지원 설정 편집 {#edit-do-not-track-browser-support-settings}
 
-&quot;추적 안 함&quot;은 Marketing과 같은 시스템에서 추적되지 않도록 하는 브라우저 요청입니다. 다음 단계에 따라 해당 요청을 수락할 수 있습니다.
+&quot;추적 안 함&quot;은 Marketo과 같은 시스템에서 추적되지 않도록 하는 브라우저 요청입니다. 다음 단계에 따라 해당 요청을 수락할 수 있습니다.
 
 >[!NOTE]
 >
