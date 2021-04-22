@@ -1,19 +1,19 @@
 ---
 unique-page-id: 11379928
-description: 감사 추적 - 마케팅 문서 - 제품 설명서의 변경 세부 사항
+description: 감사 추적 시 세부 사항 변경 - Marketo 문서 - 제품 문서
 title: 감사 추적 시 세부 사항 변경
+exl-id: 5583be62-46a6-42f9-b4b3-0df63a171b2d
 translation-type: tm+mt
-source-git-commit: 65182770291dc14fbe915a40403fc09b433aae86
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '1913'
 ht-degree: 0%
 
 ---
 
-
 # 감사 추적 {#change-details-in-audit-trail}의 세부 사항 변경
 
-Audit Trail은 Marketing To 구독에서 누가 무엇을 하는지를 아주 잘 파악합니다. 자세한 내용은
+감사 추적 기능은 Marketo 구독에서 누가 어떤 작업을 수행하는지 아주 잘 알고 있습니다. 자세한 내용은
 
 ## 자산 감사 추적 {#asset-audit-trail}
 
@@ -137,7 +137,7 @@ Audit Trail은 Marketing To 구독에서 누가 무엇을 하는지를 아주 �
   </tr> 
   <tr> 
    <td>편집</td> 
-   <td>모듈 편집 <code>"<module name>" <attribute></code> "value"를</td> 
+   <td>모듈 편집 <module name><attribute> "value"를</td> 
   </tr> 
   <tr> 
    <td>삭제</td> 
@@ -813,4 +813,3 @@ Audit Trail은 Marketing To 구독에서 누가 무엇을 하는지를 아주 �
 >[!MORELIKETHIS]
 >
 >[감사 추적 내의 필터링](/help/marketo/product-docs/administration/audit-trail/filtering-in-audit-trail.md)
-
