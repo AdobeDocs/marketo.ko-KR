@@ -1,15 +1,15 @@
 ---
 unique-page-id: 37356426
-description: Microsoft의 소유자 변경 - Marketing To Docs - 제품 설명서
+description: Microsoft에서 소유자 변경 - Marketo 문서 - 제품 설명서
 title: Microsoft에서 소유자 변경
+exl-id: d17cfb70-1d78-48e9-8e53-99a7abd5a647
 translation-type: tm+mt
-source-git-commit: 5b9f48c98464c79bcdca2e335f6a4a2edce98ce4
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '91'
 ht-degree: 0%
 
 ---
-
 
 # Microsoft {#change-owner-in-microsoft}의 소유자 변경
 
@@ -17,7 +17,7 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->이 흐름 단계는 **은(는) 스마트 캠페인에서 필터가 아니라 트리거**&#x200B;와 함께 사용되는 경우에만 작동합니다.
+>이 흐름 단계는 **은 스마트 캠페인에서 필터가 아니라 트리거**&#x200B;와 함께 사용되는 경우에만 작동합니다.
 
 ![](assets/one-1.png)
 
