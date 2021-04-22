@@ -1,15 +1,15 @@
 ---
 unique-page-id: 1146966
-description: 스마트 캠페인 - 마케팅 문서 - 제품 문서에서 자격이 있는 사람 보기
+description: 스마트 캠페인에서 자격이 있는 사람 보기 - Marketo 문서 - 제품 문서
 title: 스마트 캠페인에서 자격이 있는 사람 보기
+exl-id: 84fb5c85-d794-4eb3-b74c-242c76ecdd1d
 translation-type: tm+mt
-source-git-commit: 5b9f48c98464c79bcdca2e335f6a4a2edce98ce4
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '167'
 ht-degree: 0%
 
 ---
-
 
 # 스마트 캠페인 {#view-qualified-people-in-a-smart-campaign}에서 자격이 있는 사람 보기
 
