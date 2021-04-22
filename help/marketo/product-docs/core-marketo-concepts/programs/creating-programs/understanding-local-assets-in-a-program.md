@@ -1,15 +1,15 @@
 ---
 unique-page-id: 1147093
-description: 프로그램의 로컬 자산 이해 - Marketing To Docs - 제품 문서
+description: 프로그램의 로컬 자산 이해 - Marketo 문서 - 제품 설명서
 title: 프로그램의 로컬 자산 이해
+exl-id: aa577b2b-f77c-41cc-aa47-59ce2d189530
 translation-type: tm+mt
-source-git-commit: 07f713ece9832b7696451001f61c6a3b45b4a94a
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '101'
-ht-degree: 0%
+ht-degree: 4%
 
 ---
-
 
 # 프로그램 {#understanding-local-assets-in-a-program}의 로컬 자산 이해
 
@@ -33,7 +33,7 @@ ht-degree: 0%
 * [테스트 그룹](/help/marketo/product-docs/demand-generation/landing-pages/understanding-landing-pages/landing-page-test-groups.md)
 * [소셜 단추](/help/marketo/product-docs/demand-generation/landing-pages/free-form-landing-pages/add-a-social-button-to-a-free-form-landing-page.md)
 * [Youtube 비디오](/help/marketo/product-docs/demand-generation/social/social-functions/add-a-video.md)
-* [투표](/help/marketo/product-docs/demand-generation/social/creating-a-poll/create-a-poll.md)
-* [추천 오퍼](/help/marketo/product-docs/demand-generation/social/referral-offers/create-a-referral-offer.md)
-* [경품 행사](/help/marketo/product-docs/demand-generation/social/sweepstakes/create-sweepstakes.md)
+* [여론 조사](/help/marketo/product-docs/demand-generation/social/creating-a-poll/create-a-poll.md)
+* [추천 시 제공 경품](/help/marketo/product-docs/demand-generation/social/referral-offers/create-a-referral-offer.md)
+* [경품 추첨](/help/marketo/product-docs/demand-generation/social/sweepstakes/create-sweepstakes.md)
 * [동영상 SMS 메시지](/help/marketo/product-docs/mobile-marketing/vibes-sms-messages/create-a-vibes-sms-message.md)
