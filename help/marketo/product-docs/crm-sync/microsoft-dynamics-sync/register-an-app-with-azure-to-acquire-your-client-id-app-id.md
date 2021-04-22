@@ -1,15 +1,15 @@
 ---
 unique-page-id: 12983390
-description: Azure에 앱을 등록하여 클라이언트 ID/앱 ID - Marketing To Docs - 제품 설명서
+description: Azure에 앱을 등록하여 클라이언트 ID/앱 ID - Marketo 문서 - 제품 설명서
 title: Azure에 앱을 등록하여 클라이언트 ID/앱 ID 받기
+exl-id: 006cd130-a2fc-41ce-b5ee-890ef6167b34
 translation-type: tm+mt
-source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '347'
 ht-degree: 0%
 
 ---
-
 
 # Azure에 앱을 등록하여 클라이언트 ID/앱 ID {#register-an-app-with-azure-to-acquire-your-client-id-app-id} 획득
 
@@ -87,4 +87,3 @@ Azure Active Directory는 온-프레미스 디렉터리를 클라우드로 확�
    이제 모든 작업이 끝났습니다.
 
    ![](assets/fifteen.png)
-
