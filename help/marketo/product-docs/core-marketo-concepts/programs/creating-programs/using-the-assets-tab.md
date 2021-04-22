@@ -1,15 +1,15 @@
 ---
 unique-page-id: 1147124
-description: 자산 탭 사용 - 마케팅 문서 - 제품 설명서
+description: 자산 탭 사용 - Marketo 문서 - 제품 설명서
 title: 자산 탭 사용
+exl-id: 7e7679bb-f83d-4b7f-adfb-2733259eeac2
 translation-type: tm+mt
-source-git-commit: 07f713ece9832b7696451001f61c6a3b45b4a94a
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '136'
 ht-degree: 0%
 
 ---
-
 
 # 자산 탭 사용 {#using-the-assets-tab}
 
@@ -41,4 +41,4 @@ ht-degree: 0%
 
 ![](assets/image2014-9-18-16-3a30-3a33.png)
 
-에셋 탭은 프로그램의 내부 및 참조된 모든 사항에 대한 아주 작은 대시보드입니다.
+자산 탭은 프로그램의 내부 및 참조된 모든 사항에 대한 아주 작은 대시보드입니다.
