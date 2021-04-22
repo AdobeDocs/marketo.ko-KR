@@ -1,15 +1,15 @@
 ---
 unique-page-id: 1147040
-description: 레퍼러에게 크레디트 제공 - 마케팅 문서 - 제품 설명서
+description: 레퍼러에게 크레디트 제공 - Marketo 문서 - 제품 설명서
 title: 레퍼러에게 크레디트 제공
+exl-id: d8cd9a54-53fd-4edd-8262-c63ec45a89a9
 translation-type: tm+mt
-source-git-commit: 4a0bd2efe99284807a46d07ffef0070d9a303631
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '137'
-ht-degree: 0%
+ht-degree: 1%
 
 ---
-
 
 # 레퍼러에게 크레디트 제공 {#give-credit-to-referrer}
 
@@ -17,7 +17,7 @@ ht-degree: 0%
 
 [참조 오퍼](/help/marketo/product-docs/demand-generation/social/referral-offers/create-a-referral-offer.md) 또는 [경품 행사](/help/marketo/product-docs/demand-generation/social/sweepstakes/create-sweepstakes.md)를 실행할 때 다음과 같은 다른 방법을 사용하여 레퍼러에게 크레디트를 제공할 수 있습니다.
 
-* 참조된 방문
+* 추천 방문
 * 참조 등록
 * **스마트 목록 트리거**
 * 사용자 지정 JavaScript 이벤트
