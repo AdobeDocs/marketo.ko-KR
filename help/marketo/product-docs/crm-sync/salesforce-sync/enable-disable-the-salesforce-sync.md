@@ -1,15 +1,15 @@
 ---
 unique-page-id: 4719310
-description: Salesforce 동기화 활성화/비활성화 - Marketing To Docs - 제품 설명서
+description: Salesforce 동기화 활성화/비활성화 - Marketo 문서 - 제품 설명서
 title: Salesforce 동기화 활성화/비활성화
+exl-id: 3238f149-6aa3-4207-aae9-e404cf519414
 translation-type: tm+mt
-source-git-commit: ed83438ae5660d172e845f25c4d72d599574bd91
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '82'
 ht-degree: 0%
 
 ---
-
 
 # Salesforce 동기화 활성화/비활성화 {#enable-disable-the-salesforce-sync}
 
