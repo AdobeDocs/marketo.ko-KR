@@ -1,15 +1,15 @@
 ---
 unique-page-id: 2360317
-description: 작업 영역에 개인 파티션 할당 - 마케팅 문서 - 제품 설명서
+description: 작업 영역에 개인 파티션 할당 - Marketo 문서 - 제품 설명서
 title: 작업공간에 개인 파티션 지정
+exl-id: 84c539f0-ca68-4be3-a462-cbe9d191dbb6
 translation-type: tm+mt
-source-git-commit: f79909ce8f2e37bf0748596774fe47ac03618696
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '141'
 ht-degree: 0%
 
 ---
-
 
 # 작업 영역 {#assign-person-partitions-to-workspaces}에 개인 파티션 할당
 
@@ -25,7 +25,7 @@ ht-degree: 0%
 
 >[!CAUTION]
 >
->작업 공간과 개인 파티션은 복잡할 수 있습니다. 설정에 대한 도움이 필요하면 [Marketing 지원](https://nation.marketo.com/t5/Support/ct-p/Support)에 문의하십시오.
+>작업 공간과 개인 파티션은 복잡할 수 있습니다. 설정에 대한 도움이 필요하면 [Marketo 지원](https://nation.marketo.com/t5/Support/ct-p/Support)에 문의하십시오.
 
 1. 관리에서 **작업 영역 및 파티션**&#x200B;을 클릭합니다.
 
