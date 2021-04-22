@@ -1,15 +1,15 @@
 ---
 unique-page-id: 1147089
-description: 프로그램 이해 - 마케팅 문서 - 제품 설명서
+description: 프로그램 이해 - Marketo 문서 - 제품 설명서
 title: 프로그램 이해
+exl-id: 3ba18df8-9b31-4a69-bb52-f50d3896bb47
 translation-type: tm+mt
-source-git-commit: d78ecbec87d69cde66b583d21d7e0c95539bb6ec
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '149'
 ht-degree: 0%
 
 ---
-
 
 # 프로그램 이해 {#understanding-programs}
 
