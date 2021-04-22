@@ -1,15 +1,15 @@
 ---
 unique-page-id: 4720377
-description: 작업 영역 간 목록 또는 스마트 목록 참조 - 마케팅 문서 - 제품 설명서
+description: 작업 영역 간 목록 또는 스마트 목록 참조 - Marketo 문서 - 제품 설명서
 title: 작업 영역 간 목록 또는 스마트 목록 참조
+exl-id: c390685c-e51d-4298-ba3b-8e4dd27eb85c
 translation-type: tm+mt
-source-git-commit: 5b9f48c98464c79bcdca2e335f6a4a2edce98ce4
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '167'
 ht-degree: 0%
 
 ---
-
 
 # 작업 영역 간의 목록 또는 스마트 목록 참조 {#reference-a-list-or-smart-list-across-workspaces}
 
