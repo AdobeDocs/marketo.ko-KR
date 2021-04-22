@@ -1,15 +1,15 @@
 ---
 unique-page-id: 2949204
-description: SEO - 키워드 추가 - 마케팅 문서 - 제품 설명서
+description: SEO - 키워드 추가 - Marketo 문서 - 제품 설명서
 title: SEO - 키워드 추가
+exl-id: 95e7907a-62f7-40c7-85a9-97728fbe40eb
 translation-type: tm+mt
-source-git-commit: 37697e2d6f1d86a6cd1de5d567a3d384160415cb
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '84'
 ht-degree: 0%
 
 ---
-
 
 # SEO - 키워드 {#seo-add-keywords} 추가
 
