@@ -1,15 +1,15 @@
 ---
 unique-page-id: 2949184
-description: SEO - 페이지 이해 - 마케팅 문서 - 제품 설명서
+description: SEO - 페이지 이해 - Marketo 문서 - 제품 설명서
 title: SEO - 페이지 이해
+exl-id: c0fa5408-4b4f-4981-b4ba-20f40c475244
 translation-type: tm+mt
-source-git-commit: 37697e2d6f1d86a6cd1de5d567a3d384160415cb
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '278'
 ht-degree: 0%
 
 ---
-
 
 # SEO - 페이지 {#seo-understanding-pages} 이해
 
@@ -17,7 +17,7 @@ ht-degree: 0%
 
 ![](assets/image2014-9-17-21-3a52-3a3.png)
 
-페이지 최적화 점수는 1-100의 점수로 페이지가 검색을 위해 최적화되는 전체 순위입니다. SEO의 수십 가지 모범 사례를 기반으로 합니다.
+페이지 최적화 점수는 1-100의 비율로 페이지가 검색을 위해 최적화되는 전체 순위입니다. SEO의 수십 가지 모범 사례를 기반으로 합니다.
 
 * 0 - 35 = 최적화되지 않음
 * 35 - 70 = 오른쪽 트랙에서
