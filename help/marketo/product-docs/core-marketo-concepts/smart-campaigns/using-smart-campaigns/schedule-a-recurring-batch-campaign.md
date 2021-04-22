@@ -1,15 +1,15 @@
 ---
 unique-page-id: 1146972
-description: 반복 배치 캠페인 예약 - 마케팅 문서 - 제품 설명서
+description: 반복 배치 캠페인 예약 - Marketo 문서 - 제품 설명서
 title: 반복 배치 캠페인 예약
+exl-id: b7a931b0-5061-4c4f-8084-4938254a4d9c
 translation-type: tm+mt
-source-git-commit: 4a0bd2efe99284807a46d07ffef0070d9a303631
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '134'
 ht-degree: 0%
 
 ---
-
 
 # 반복 배치 캠페인 예약 {#schedule-a-recurring-batch-campaign}
 
