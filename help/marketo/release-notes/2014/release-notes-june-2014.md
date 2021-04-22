@@ -1,23 +1,23 @@
 ---
 unique-page-id: 2951042
-description: 릴리스 노트 - 2014년 6월 - Marketing Docs - 제품 설명서
+description: 릴리스 노트 - 2014년 6월 - Marketo 문서 - 제품 설명서
 title: 릴리스 노트 - 2014년 6월
+exl-id: 690c4e41-831b-47b4-a0c6-d29cf607b179
 translation-type: tm+mt
-source-git-commit: 029d8b419ba5078980b4fde9890bdb35194bf264
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '255'
 ht-degree: 0%
 
 ---
 
-
 # 릴리스 노트:2014년 6월 {#release-notes-june}
 
-다음 기능은 2014년 6월 릴리스에 포함되어 있습니다. 기능을 사용할 수 있는지 확인하려면 Marketing To Edition을 확인하십시오.
+다음 기능은 2014년 6월 릴리스에 포함되어 있습니다. 기능을 사용할 수 있는지 Marketo Edition을 확인하십시오.
 
 ## 업데이트된 UI - 곧 출시!{#updated-ui-coming-soon}
 
-Marketing To Lead Management의 네비게이션을 비롯한 새로운 모양과 느낌, 향후 릴리스에서 제공될 예정입니다.
+Marketo 리드 관리의 탐색 기능을 비롯한 새로운 룩앤필이 향후 릴리스에서 곧 제공될 예정입니다.
 
 ## Outlook 2013용 Sales Insight 플러그인 {#sales-insight-plugin-for-outlook}
 
@@ -35,9 +35,9 @@ Sales Insight에서 테스트 이메일을 보내면 현재 이메일의 토큰�
 
 ## 리드 ReST API {#lead-rest-api}
 
-새로운 ReST API를 통해 프로그래밍 방식으로 리드를 생성, 읽기 및 업데이트할 수 있습니다. ReST를 시작하려면 Marketing To에서 [사용자 지정 서비스](/help/marketo/product-docs/administration/additional-integrations/create-a-custom-service-for-use-with-rest-api.md)를 만들어야 합니다. 그런 다음 이 API 사용에 대한 자세한 내용을 보려면 [개발자 사이트](https://developers.marketo.com/documentation/rest/)로 이동하십시오.
+새로운 ReST API를 통해 프로그래밍 방식으로 리드를 생성, 읽기 및 업데이트할 수 있습니다. ReST를 시작하려면 Marketo에서 [사용자 지정 서비스](/help/marketo/product-docs/administration/additional-integrations/create-a-custom-service-for-use-with-rest-api.md)를 만들어야 합니다. 그런 다음 이 API 사용에 대한 자세한 내용을 보려면 [개발자 사이트](https://developers.marketo.com/documentation/rest/)로 이동하십시오.
 
-## Marketing To Real-Time Personalization (RTP) 캠페인 페이지 업데이트 {#marketo-real-time-personalization-rtp-campaigns-page-update}
+## Marketo 실시간 개인화(RTP) 캠페인 페이지 업데이트 {#marketo-real-time-personalization-rtp-campaigns-page-update}
 
 이제 RTP 캠페인에는 축소판 보기 및 캠페인 성과를 포함하는 새 디자인이 포함됩니다. 또한 날짜 또는 최고 성과에 따라 [캠페인](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/sort-web-campaigns-by-latest-or-top-performing.md)을 구성할 수 있습니다.
 
