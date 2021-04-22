@@ -1,19 +1,19 @@
 ---
 unique-page-id: 10095389
-description: Microsoft Dynamics - Marketing Docs - 제품 문서에서 연락처 만들기
+description: Microsoft Dynamics에서 연락처 만들기 - Marketo 문서 - 제품 설명서
 title: Microsoft Dynamics에서 연락처 만들기
+exl-id: 66cb26c0-f383-4d1e-be22-e7f8c6b266fb
 translation-type: tm+mt
-source-git-commit: 2b5ccd7220557a5e966d33436d0f0d2a65e4589d
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '121'
 ht-degree: 0%
 
 ---
 
-
 # Microsoft Dynamics {#create-a-contact-in-microsoft-dynamics}에서 연락처 만들기
 
-1. Dynamics에서 연락처로 만들 마케팅 전용(Microsoft 유형이 비어 있음)을 선택합니다.
+1. Dynamics에서 연락처로 만들 Marketo 전용(Microsoft 유형이 비어 있음)을 선택합니다.
 
    ![](assets/one.png)
 
@@ -29,7 +29,7 @@ ht-degree: 0%
    >
    >&quot;Microsoft에 사람 동기화&quot; 흐름 작업을 사용하는 경우(트리거 캠페인에서만) 리드/연락처가 Dynamics에서 실시간으로 만들어집니다.
 
-1. Dynamics의 리드 레코드가 Dynamics의 모든 계정에 연결되지 않은 연락처에 있는 경우 Marketing Cloud의 리드 레코드를 검증합니다.
+1. Marketo은 Dynamics에서 해당 리드 레코드를 Dynamics의 어떤 계정과도 연결되지 않은 연락처에 자격을 부여합니다.
 
    ![](assets/image2015-10-23-9-3a43-3a33.png)
 
