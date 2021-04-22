@@ -1,15 +1,15 @@
 ---
 unique-page-id: 2951111
-description: 릴리스 노트 - 2012년 9월 - Marketing Docs - 제품 설명서
+description: 릴리스 노트 - 2012년 9월 - Marketo 문서 - 제품 설명서
 title: 릴리스 노트 - 2012년 9월
+exl-id: c81da5ef-11ec-4015-a820-691fa314f369
 translation-type: tm+mt
-source-git-commit: 029d8b419ba5078980b4fde9890bdb35194bf264
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '305'
 ht-degree: 0%
 
 ---
-
 
 # 릴리스 노트:2012년 9월 {#release-notes-september}
 
@@ -33,13 +33,13 @@ ht-degree: 0%
 
 ![](assets/image2014-9-23-10-3a40-3a2.png)
 
-## 랜딩 페이지를 Facebook {#publish-landing-pages-to-facebook}에 게시
+## facebook {#publish-landing-pages-to-facebook}에 랜딩 페이지 게시
 
-Facebook에 바로 게시하고 소셜 앱, 양식 및 Marketing To 랜딩 페이지의 전체 기능을 추가하여 랜딩 페이지의 범위를 확장할 수 있습니다.
+소셜 앱, 양식 및 Marketo 랜딩 페이지의 모든 기능을 갖춘 Facebook에 직접 게시하여 랜딩 페이지의 범위를 확장할 수 있습니다.
 
 ## ReadyTalk 이벤트 어댑터 {#readytalk-event-adapter}
 
-Marketing 이벤트를 ReadyTalk 회의에 매끄럽게 연결합니다. Marketing 양식을 사용하여 등록자를 캡처하고 ReadyTalk에서 자동으로 등록합니다. 양방향 동기화를 사용하면 참석 정보를 Marketing To에 채울 수 있습니다.
+Marketo 이벤트를 ReadyTalk 회의에 매끄럽게 연결합니다. Marketo 양식을 사용하여 등록자를 캡처하고 ReadyTalk에서 자동으로 등록하십시오. 양방향 동기화를 통해 참석 정보를 Marketo에 채울 수 있습니다.
 
 ![](assets/image2014-9-23-10-3a40-3a16.png)
 
@@ -49,7 +49,7 @@ Marketing 이벤트를 ReadyTalk 회의에 매끄럽게 연결합니다. Marketi
 
 ## Webhook(Treasure Tructor) {#webhooks-treasure-chest}
 
-웹 후크는 사용자 정의 HTTP 콜백입니다. Marketing Cloud의 데이터를 다른 서비스로 푸시할 수 있는 좋은 방법입니다. 이 기능은 현재 Treasure 가슴에서 사용할 수 있으며 현재 트리거 캠페인에서만 지원됩니다.
+웹 후크는 사용자 정의 HTTP 콜백입니다. Marketo의 데이터를 다른 서비스로 푸시할 수 있는 좋은 방법입니다. 이 기능은 현재 Treasure 가슴에서 사용할 수 있으며 현재 트리거 캠페인에서만 지원됩니다.
 
 Webhook을 사용하는 방법의 예는 다음과 같습니다.사용자 이름 및 암호 정보를 다른 시스템에 게시하여 시험버전 계정을 만듭니다.새로운 리드를 받을 때 SMS 문자 메시지 보내기
 
