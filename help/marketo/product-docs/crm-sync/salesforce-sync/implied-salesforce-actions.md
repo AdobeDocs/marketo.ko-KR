@@ -1,15 +1,15 @@
 ---
 unique-page-id: 4719304
-description: 암시적인 Salesforce 동작 - Marketing To Docs - 제품 설명서
+description: 암시적인 Salesforce 동작 - Marketo 문서 - 제품 설명서
 title: 암시적인 Salesforce 동작
+exl-id: 88533588-77f2-465e-9644-a4f95b87f99d
 translation-type: tm+mt
-source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '143'
 ht-degree: 0%
 
 ---
-
 
 # 암시적인 Salesforce 동작 {#implied-salesforce-actions}
 
@@ -20,7 +20,7 @@ Salesforce별 흐름 단계가 실행되면 때때로 추가 단계가 자동으
 <table> 
  <thead> 
   <tr> 
-   <th>마케팅 흐름 단계</th> 
+   <th>Marketo 흐름 단계</th> 
    <th>자동 작업</th> 
   </tr> 
  </thead> 
