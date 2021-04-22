@@ -1,21 +1,21 @@
 ---
 unique-page-id: 1146960
-description: 데이터 값 변경 - 마케팅 문서 - 제품 설명서
+description: 데이터 값 변경 - Marketo 문서 - 제품 설명서
 title: 데이터 값 변경
+exl-id: cdfa7632-87e2-407f-9891-3697771b5687
 translation-type: tm+mt
-source-git-commit: 4a0bd2efe99284807a46d07ffef0070d9a303631
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '112'
 ht-degree: 0%
 
 ---
 
-
 # 데이터 값 변경 {#change-data-value}
 
 ## 개요 {#overview}
 
-Marketing을 사용하여 필드의 값을 업데이트할 수 있습니다. 이 경우 **데이터 값 변경** 흐름 작업을 사용합니다.
+Marketo을 사용하여 필드의 값을 업데이트할 수 있습니다. 이 경우 **데이터 값 변경** 흐름 작업을 사용합니다.
 
 ![](assets/image2014-9-22-11-3a15-3a34.png)
 
