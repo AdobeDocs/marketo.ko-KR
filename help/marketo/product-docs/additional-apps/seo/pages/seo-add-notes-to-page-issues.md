@@ -1,15 +1,15 @@
 ---
 unique-page-id: 2949220
-description: SEO - 페이지 문제에 메모 추가 - 마케팅 문서 - 제품 설명서
+description: SEO - 페이지 문제에 메모 추가 - Marketo 문서 - 제품 설명서
 title: SEO - 페이지 문제에 메모 추가
+exl-id: 08ddd6d8-3eb4-4296-9a19-73c5efc5f668
 translation-type: tm+mt
-source-git-commit: 37697e2d6f1d86a6cd1de5d567a3d384160415cb
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '152'
 ht-degree: 0%
 
 ---
-
 
 # SEO - 페이지 문제에 메모 추가 {#seo-add-notes-to-page-issues}
 
