@@ -1,19 +1,19 @@
 ---
 unique-page-id: 2953364
-description: 프로그램 포커스 이해/활성화 - 마케팅 문서 - 제품 설명서
+description: 프로그램 포커스 이해/활성화 - Marketo 문서 - 제품 설명서
 title: 프로그램 포커스 이해/활성화
+exl-id: 90de3d93-d243-451d-8df3-5e2732919615
 translation-type: tm+mt
-source-git-commit: e5050328cbddaf072dd60ddd8d7363a704e720b5
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '151'
 ht-degree: 0%
 
 ---
 
-
 # 프로그램 포커스 이해/활성화 {#understand-enable-program-focus}
 
-마케팅 달력을 사용하면 사물에 대한 새로운 관점을 얻을 수 있지만 일부 상호 작용도 허용됩니다. [만들기](/help/marketo/product-docs/core-marketo-concepts/marketing-calendar/working-with-the-calendar/create-entries-directly-in-the-marketing-calendar.md), [편집](/help/marketo/product-docs/core-marketo-concepts/marketing-calendar/working-with-the-calendar/edit-entries-directly-in-the-marketing-calendar.md), [delete](/help/marketo/product-docs/core-marketo-concepts/marketing-calendar/working-with-the-calendar/delete-entries-directly-in-the-marketing-calendar.md) 및 [확인](/help/marketo/product-docs/core-marketo-concepts/marketing-calendar/working-with-the-calendar/confirm-entries-directly-in-the-marketing-calendar.md)할 수 있습니다. 출품작과 상호 작용하려면 먼저 프로그램에 집중해야 합니다.
+마케팅 달력을 사용하면 사물에 대한 새로운 관점을 얻을 수 있지만 일부 상호 작용도 허용됩니다. [만들기](/help/marketo/product-docs/core-marketo-concepts/marketing-calendar/working-with-the-calendar/create-entries-directly-in-the-marketing-calendar.md), [편집](/help/marketo/product-docs/core-marketo-concepts/marketing-calendar/working-with-the-calendar/edit-entries-directly-in-the-marketing-calendar.md), [delete](/help/marketo/product-docs/core-marketo-concepts/marketing-calendar/working-with-the-calendar/delete-entries-directly-in-the-marketing-calendar.md) 및 [확인](/help/marketo/product-docs/core-marketo-concepts/marketing-calendar/working-with-the-calendar/confirm-entries-directly-in-the-marketing-calendar.md) 항목을 수행할 수 있습니다. 출품작과 상호 작용하려면 먼저 프로그램에 집중해야 합니다.
 
 1. **마케팅 달력**&#x200B;으로 이동합니다.
 
