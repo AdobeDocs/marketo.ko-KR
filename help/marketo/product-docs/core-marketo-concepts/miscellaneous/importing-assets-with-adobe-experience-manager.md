@@ -1,19 +1,19 @@
 ---
 unique-page-id: 37355768
-description: Adobe Experience Manager을 사용하여 자산 가져오기 - Marketing To Docs - 제품 설명서
+description: Adobe Experience Manager을 사용하여 에셋 가져오기 - Marketo 문서 - 제품 설명서
 title: Adobe Experience Manager으로 자산 가져오기
+exl-id: 56ccf38f-3c99-4018-9989-719854e37a20
 translation-type: tm+mt
-source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '230'
 ht-degree: 0%
 
 ---
 
-
 # Adobe Experience Manager {#importing-assets-with-adobe-experience-manager}을(를) 사용하여 자산 가져오기
 
-자산 선택기를 사용하면 Marketing 고객이 AEM 자산을 액세스, 선택 및 Marketing의 Design Studio로 가져올 수 있습니다. **관리자 권한이 필요합니다**.
+Marketo 고객은 에셋 선택기를 사용하여 AEM 에셋을 액세스, 선택 및 Marketo의 Design Studio로 가져올 수 있습니다. **관리자 권한이 필요합니다**.
 
 >[!AVAILABILITY]
 >
@@ -62,8 +62,8 @@ ht-degree: 0%
 
 ## 참고 사항 {#things-to-note}
 
-Marketing은 현재 Adobe Experience Manager 버전 6.4 및 6.5를 지원합니다.
+Marketo은 현재 Adobe Experience Manager 버전 6.4 및 6.5를 지원합니다.
 
 인스턴스의 모든 사용자는 가져온 이미지를 보거나 액세스할 수 있습니다.
 
-이미지는 자동으로 업데이트되지 않습니다. Marketing To Design Studio로 가져온 이미지가 AEM에서 업데이트되는 경우 수동으로 Marketing To로 다시 가져와야 합니다.
+이미지는 자동으로 업데이트되지 않습니다. Marketo Design Studio로 가져온 이미지가 AEM에서 업데이트되는 경우 수동으로 Marketo으로 다시 가져와야 합니다.
