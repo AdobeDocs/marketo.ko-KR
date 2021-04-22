@@ -1,14 +1,14 @@
 ---
-description: 모든 개체 메타데이터 내보내기 - Marketing To Docs - 제품 설명서
+description: 모든 개체 메타데이터 내보내기 - Marketo 문서 - 제품 설명서
 title: 모든 개체 메타데이터 내보내기
+exl-id: 93ddf737-98db-4791-b526-d399c59147ee
 translation-type: tm+mt
-source-git-commit: 4a7aced48fde39a5bfbd5bef0c698211426a540c
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '76'
 ht-degree: 0%
 
 ---
-
 
 # 모든 개체 메타데이터 내보내기 {#export-all-object-metadata}
 
@@ -21,7 +21,7 @@ ht-degree: 0%
 ## 개체 {#objects}
 
 * 리드 필드(개인/회사)
-* Marketing To 사용자 지정 개체
+* Marketo 사용자 정의 개체
 * 표준 활동
 * 사용자 지정 활동
 * 채널
@@ -29,7 +29,7 @@ ht-degree: 0%
 
 ## 개체 메타데이터 내보내기 {#export-object-metadata}
 
-1. 내 마켓플레이스에서 **관리**&#x200B;를 클릭합니다.
+1. 내 Marketo에서 **관리**&#x200B;를 클릭합니다.
 
    ![](assets/export-all-object-metadata-1.png)
 
@@ -43,7 +43,7 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->브라우저가 Marketing To의 팝업을 차단하지 않는지 확인합니다.
+>브라우저가 Marketo의 팝업을 차단하지 않는지 확인합니다.
 
 데이터가 CSV로 내보내집니다.
 
