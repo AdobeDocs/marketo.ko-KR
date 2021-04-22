@@ -1,15 +1,15 @@
 ---
 unique-page-id: 2360185
-description: 암호 보안 설정 변경 - 마케팅 문서 - 제품 설명서
+description: 암호 보안 설정 변경 - Marketo 문서 - 제품 설명서
 title: 암호 보안 설정 변경
+exl-id: cda7ec70-32aa-4e0a-86b2-eb9bea70ef72
 translation-type: tm+mt
-source-git-commit: f79909ce8f2e37bf0748596774fe47ac03618696
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '176'
 ht-degree: 0%
 
 ---
-
 
 # 암호 보안 설정 변경 {#change-your-password-security-settings}
 
@@ -47,7 +47,7 @@ ht-degree: 0%
 
    ![](assets/expiration.png)
 
-1. **비활성 세션 시간 초과**&#x200B;를 설정합니다. 사용자가 Marketing To에 다시 로그인해야 하기 전에 얼마나 오랫동안 비활성화할 수 있는지 결정합니다.
+1. **비활성 세션 시간 초과**&#x200B;를 설정합니다. 이 옵션은 사용자가 Marketo에 다시 로그인해야 하기 전에 얼마나 오랫동안 비활성화할 수 있는지 결정합니다.
 
    ![](assets/inactivesession.png)
 
