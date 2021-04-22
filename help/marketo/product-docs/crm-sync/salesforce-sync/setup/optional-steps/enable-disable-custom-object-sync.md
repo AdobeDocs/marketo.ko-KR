@@ -1,19 +1,19 @@
 ---
 unique-page-id: 4719297
-description: 사용자 지정 개체 동기화 활성화/비활성화 - Marketing To Docs - 제품 설명서
+description: 사용자 정의 개체 동기화 활성화/비활성화 - Marketo 문서 - 제품 설명서
 title: 사용자 정의 개체 동기화 활성화/비활성화
+exl-id: f17d9135-b33e-48c0-9220-131fb437e9e5
 translation-type: tm+mt
-source-git-commit: 2b5ccd7220557a5e966d33436d0f0d2a65e4589d
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '218'
 ht-degree: 0%
 
 ---
 
-
 # 사용자 지정 개체 동기화 활성화/비활성화 {#enable-disable-custom-object-sync}
 
-Salesforce 인스턴스에서 만든 사용자 정의 개체는 Marketing To의 일부일 수 있습니다. 설정 방법
+Salesforce 인스턴스에서 만든 사용자 정의 개체도 Marketo의 일부일 수 있습니다. 설정 방법
 
 ## 사용자 지정 개체 동기화 활성화/비활성화 {#enable-disable-custom-object-sync-1}
 
@@ -49,7 +49,7 @@ Salesforce 인스턴스에서 만든 사용자 정의 개체는 Marketing To의 
 
    >[!TIP]
    >
-   >Salesforce의 리드, 연락처 또는 계정 개체와 직접 관계가 있는 경우에만 사용자 지정 개체를 동기화할 수 있습니다.
+   >Marketo은 Salesforce의 리드, 연락처 또는 계정 개체와 직접적인 관계가 있는 경우에만 사용자 지정 개체를 동기화할 수 있습니다.
 
    ![](assets/image2014-12-10-10-3a15-3a30.png)
 
