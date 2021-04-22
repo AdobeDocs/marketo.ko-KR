@@ -1,19 +1,19 @@
 ---
 unique-page-id: 17728028
-description: LaunchPoint 서비스로 확대/축소 추가 - 마케팅 문서 - 제품 설명서
+description: LaunchPoint 서비스로 확대/축소 추가 - Marketo 문서 - 제품 설명서
 title: LaunchPoint 서비스로 확대/축소 추가
+exl-id: f5ea016e-d4ca-4adf-be29-14810e9f509c
 translation-type: tm+mt
-source-git-commit: 78961a3e163ce903facf955a9dda6909b5e85bad
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '147'
 ht-degree: 0%
 
 ---
 
-
 # LaunchPoint 서비스로 확대/축소 추가 {#add-zoom-as-a-launchpoint-service}
 
-Marketing Cloud에서 확대/축소 등록 및 참석을 관리합니다.
+Marketo에서 확대/축소 등록 및 참석을 관리합니다.
 
 >[!NOTE]
 >
@@ -47,11 +47,11 @@ Marketing Cloud에서 확대/축소 등록 및 참석을 관리합니다.
 
    ![](assets/create-1.png)
 
-   좋아요! 이제 확대/축소 계정이 Marketing To와 동기화되고 LaunchPoint 영역에서 찾을 수 있습니다.
+   좋아요! 확대/축소 계정이 이제 Marketo과 동기화되어 LaunchPoint 영역에서 찾을 수 있습니다.
 
 >[!CAUTION]
 >
->Zoom에서 암호를 업데이트할 때는 Marketing Cloud에서도 암호를 업데이트해야 합니다.
+>Zoom에서 암호를 업데이트할 때는 Marketo에서도 암호를 업데이트해야 합니다.
 
 >[!MORELIKETHIS]
 >
