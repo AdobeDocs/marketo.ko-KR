@@ -1,14 +1,14 @@
 ---
-description: Salesforce 동기화 오류 - Marketing To Docs - 제품 설명서
+description: Salesforce 동기화 오류 - Marketo 문서 - 제품 설명서
 title: Salesforce 동기화 오류
+exl-id: 4819f423-30c6-48e3-8cec-5d298ceb7b56
 translation-type: tm+mt
-source-git-commit: 9f88e7cebc5e9d0d4491d65d332ccfdd9a31c395
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '181'
 ht-degree: 0%
 
 ---
-
 
 # Salesforce 동기화 오류 {#salesforce-sync-errors}
 
@@ -40,7 +40,7 @@ ht-degree: 0%
 
 >[!TIP]
 >
->레코드 수준 레코드를 클릭하면 관련 개체의 Marketing 및 Salesforce ID가 표시됩니다. 경우에 따라 기록 및 작업 수준 오류에 대한 메시지는 Salesforce에서 직접 제공됩니다. 온라인으로 검색하여 자세한 내용을 찾을 수 있습니다.
+>레코드 수준 레코드를 클릭하면 관련 개체의 Marketo 및 Salesforce ID가 표시됩니다. 경우에 따라 기록 및 작업 수준 오류에 대한 메시지는 Salesforce에서 직접 제공됩니다. 온라인으로 검색하여 자세한 내용을 찾을 수 있습니다.
 
 ## 필터 동기화 오류 {#filter-sync-errors}
 
