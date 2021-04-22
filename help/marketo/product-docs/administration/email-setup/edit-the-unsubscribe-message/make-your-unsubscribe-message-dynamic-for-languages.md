@@ -1,15 +1,15 @@
 ---
 unique-page-id: 6848782
-description: 가입 해제 메시지를 동적으로 언어 - Marketing To Docs - 제품 문서 작성
+description: 언어를 지원하는 메시지를 동적으로 가입 해지 - Marketo 문서 - 제품 설명서
 title: 언어 구독 취소 메시지를 동적으로 만들기
+exl-id: 953a7fd8-b1f2-4f3f-b889-87d1f0471e0d
 translation-type: tm+mt
-source-git-commit: f865630638e7c0fe6ac2a449e196a7de4fbfeea1
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '495'
 ht-degree: 0%
 
 ---
-
 
 # 구독 취소 메시지를 동적으로 언어 {#make-your-unsubscribe-message-dynamic-for-languages}
 
