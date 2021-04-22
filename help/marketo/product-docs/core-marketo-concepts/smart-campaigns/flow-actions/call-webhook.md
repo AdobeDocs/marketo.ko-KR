@@ -1,15 +1,15 @@
 ---
 unique-page-id: 1147023
-description: Webhook - Marketing To Docs - 제품 설명서
+description: Webhook - Marketo Docs - 제품 설명서
 title: Webhook에 문의
+exl-id: b2f69502-e459-4277-9725-7bbb3578384f
 translation-type: tm+mt
-source-git-commit: 4a0bd2efe99284807a46d07ffef0070d9a303631
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '79'
 ht-degree: 0%
 
 ---
-
 
 # Webhook {#call-webhook} 호출
 
