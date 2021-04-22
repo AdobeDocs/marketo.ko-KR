@@ -1,15 +1,15 @@
 ---
 unique-page-id: 1146997
-description: 대기 흐름 단계에서 날짜 토큰 사용 - 마케팅 문서 - 제품 설명서
+description: 대기 흐름 단계에서 날짜 토큰 사용 - Marketo 문서 - 제품 설명서
 title: 대기 흐름 단계에서 날짜 토큰 사용
+exl-id: d161922b-ce90-4e65-9282-d3bb866c1d94
 translation-type: tm+mt
-source-git-commit: 5b9f48c98464c79bcdca2e335f6a4a2edce98ce4
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '216'
 ht-degree: 0%
 
 ---
-
 
 # 대기 흐름 단계 {#use-a-date-token-in-a-wait-flow-step}에서 날짜 토큰 사용
 
