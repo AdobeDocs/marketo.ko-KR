@@ -1,15 +1,15 @@
 ---
 unique-page-id: 10097447
-description: 데이터베이스 대시보드 - 마케팅 문서 - 제품 설명서
+description: 데이터베이스 대시보드 - Marketo 문서 - 제품 설명서
 title: 데이터베이스 대시보드
+exl-id: 44b00d28-a224-4f09-8307-468c14ddb0df
 translation-type: tm+mt
-source-git-commit: 07f713ece9832b7696451001f61c6a3b45b4a94a
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '140'
 ht-degree: 0%
 
 ---
-
 
 # 데이터베이스 대시보드 {#database-dashboard}
 
@@ -23,7 +23,7 @@ ht-degree: 0%
 
 ![](assets/db-3.png)
 
-또는 Marketing 로고를 클릭하고 **데이터베이스**&#x200B;를 선택합니다.
+또는 Marketo 로고를 클릭하고 **데이터베이스**&#x200B;를 선택합니다.
 
 ![](assets/db2.png)
 
