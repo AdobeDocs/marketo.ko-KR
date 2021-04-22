@@ -1,19 +1,19 @@
 ---
 unique-page-id: 2953415
-description: 개인 세부 정보 페이지 사용 - 마케팅 문서 - 제품 설명서
+description: 개인 세부 정보 페이지 사용 - Marketo 문서 - 제품 설명서
 title: 개인 세부 사항 페이지 사용
+exl-id: 8476ed02-6d94-4aa5-91f6-55c81a87f745
 translation-type: tm+mt
-source-git-commit: 1649aae540204bb5de205e3f5b75ec7e968a7da4
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '550'
-ht-degree: 0%
+ht-degree: 13%
 
 ---
 
-
 # 개인 세부 사항 페이지 사용 {#using-the-person-detail-page}
 
-개인 세부 사항 페이지에는 Marketing에서 개인에 대해 알고 있는 모든 정보가 들어 있습니다. 이 페이지에서 직접 데이터를 편집할 수 있습니다.
+개인 세부 정보 페이지에는 개인에 대해 Marketo이 알고 있는 모든 정보가 들어 있습니다. 이 페이지에서 직접 데이터를 편집할 수 있습니다.
 
 ## 개인 상세 정보 페이지 {#getting-to-person-detail-page} 가져오기
 
@@ -69,28 +69,28 @@ ht-degree: 0%
 
 ![](assets/image2015-2-27-11-3a14-3a2.png)
 
-## CRM 동기화 전 Marketing To 기본 필드 {#marketo-default-fields-prior-to-crm-sync}
+## CRM 동기화 전 Marketo 기본 필드 {#marketo-default-fields-prior-to-crm-sync}
 
 |  |  |  |  |  |
 |---|---|---|---|---|
-| 주소 | 연간 매출 | 익명 IP | 청구 주소 | 청구 구/군/시 |
-| 청구 국가 | 청구 우편 번호 | 청구 상태 | 시 | 회사 이름 |
-| 국가 | 만든 위치 | 생년월일 | 부서 | 호출 안 함 |
-| 원인 호출 안 함 | 이유를 호출하지 않음 | 이메일 주소 | 이메일 잘못됨 | 이메일 잘못된 원인 |
+| 주소 | 연매출 | 익명 IP | 청구지 주소 | 청구지 시 |
+| 청구지 국가 | 청구지 우편번호 | 청구지 주 | 시 | 회사명 |
+| 국가 | 만든 위치 | 출생일 | 부서 | 두 낫 콜 |
+| 원인 호출 안 함 | 두 낫 콜 이유 | 이메일 주소 | 이메일 잘못됨 | 이메일 잘못된 원인 |
 | 외부 회사 ID | 외부 영업 사원 Id | 팩스 번호 | 이름 | 전체 이름 |
-| 업계 | 유추 도시 | 유추 회사 | 유추 국가 | 유추 대도시 영역 |
+| 산업 | 유추 도시 | 추론된 회사 | 추론된 국가 | 유추 대도시 영역 |
 | 유추 전화 영역 코드 | 유추 우편 번호 | 유추 상태 영역 | 익명 여부 | 고객임 |
-| 파트너임 | 직함 | 성 | 등급 | 점수 |
-| 개인 출처 | 상태 | 기본 전화 | Marketing To Social Facebook 표시 이름 | Marketing To Social Facebook ID |
-| Marketing To Social Facebook 사진 URL | Marketing To Social Facebook 프로필 URL | Marketing To Social Facebook 도달 | Marketing To Social Facebook 참조 등록 | Marketing To Social Facebook 참조 방문 |
-| 마케팅 소셜 성별 | Marketing To Social 마지막 참조 등록 | Marketing To Social 마지막 참조 방문 | Marketing To Social LinkedIn 표시 이름 | Marketing To Social LinkedIn Id |
-| Marketing To Social LinkedIn 사진 URL | Marketing To Social LinkedIn 프로필 URL | Marketing To Social LinkedIn 도달 | Marketing To Social LinkedIn 참조 등록 | Marketing To Social LinkedIn 참조 방문 |
-| Marketing To Social 신디케이션 ID | Marketing To Social 총 참조 등록 | Marketing To Social 참조 총 방문 수 | Marketing To Social Twitter 표시 이름 | Marketing To Social Twitter ID |
-| Marketing To Social Twitter 사진 URL | Marketing To Social Twitter 프로필 URL | Marketing To Social Twitter 도달 | Marketing To Social Twitter 참조 등록 | Marketing To Social Twitter 참조 방문 |
-| 중간 이름 | 휴대폰 번호 | 직원 수 | 전화 번호 | 우편 번호 |
+| 파트너임 | 직위 | 성 | 등급 | 점수 |
+| 개인 출처 | 상태 | 메인 전화 | Marketo Social Facebook 표시 이름 | Marketo Social Facebook Id |
+| Marketo Social Facebook 사진 URL | Marketo Social Facebook 프로필 URL | Marketo Social Facebook 도달 | Marketo Social Facebook 참조 등록 | Marketo Social Facebook 참조 방문 |
+| Marketo 소셜 성별 | Marketo Social 마지막 참조 등록 | Marketo Social 마지막 참조 방문 | Marketo Social LinkedIn 표시 이름 | Marketo Social LinkedIn Id |
+| Marketo Social LinkedIn 사진 URL | Marketo Social LinkedIn 프로필 URL | Marketo Social LinkedIn 도달 | Marketo Social LinkedIn 참조 등록 | Marketo Social LinkedIn 참조 방문 |
+| Marketo 소셜 신디케이션 ID | Marketo Social 총 참조 등록 | Marketo Social 총 참조 방문 수 | Marketo 소셜 Twitter 표시 이름 | Marketo 소셜 Twitter ID |
+| Marketo 소셜 Twitter 사진 URL | Marketo 소셜 Twitter 프로필 URL | Marketo 소셜 Twitter 도달 | Marketo 소셜 Twitter 참조 등록 | Marketo 소셜 Twitter 참조 방문 |
+| 중간 이름 | 휴대 전화 번호 | 직원 수 | 전화 번호 | 우편 번호 |
 | 우선 순위 | 상대 점수 | 역할 | 인사말 | SIC 코드 |
-| 사이트 | 주 | 구독 취소 | 구독 취소 이유 | 업데이트 날짜: |
-| 긴급성 | 웹 사이트 |  |  |  |
+| 사이트 | 주 | 주소 삭제 | 주소 삭제 이유 | 업데이트 날짜: |
+| 긴급성 | 웹사이트 |  |  |  |
 
 >[!NOTE]
 >
@@ -99,7 +99,7 @@ ht-degree: 0%
 >* 활동 로그
 >* 회사 정보
 >* SFDC 연락처 기회
->* 만든 날짜 및 원래 소스 유형과 같은 특정 마케팅 관련 필드입니다.
+>* 만든 날짜 및 원래 소스 유형과 같은 특정 Marketo 관련 필드입니다.
 
 >
 >
