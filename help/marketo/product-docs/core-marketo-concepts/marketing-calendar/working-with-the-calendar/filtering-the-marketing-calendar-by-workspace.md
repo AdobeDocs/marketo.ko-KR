@@ -1,15 +1,15 @@
 ---
 unique-page-id: 1147306
-description: 작업 공간별 마케팅 달력 필터링 - 마케팅 문서 - 제품 설명서
+description: 작업 공간별 마케팅 달력 필터링 - Marketo 문서 - 제품 설명서
 title: 작업 공간별 마케팅 달력 필터링
+exl-id: 3f1259dd-a42d-4d9b-b2ba-1f1060f8dae6
 translation-type: tm+mt
-source-git-commit: e5050328cbddaf072dd60ddd8d7363a704e720b5
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '69'
 ht-degree: 0%
 
 ---
-
 
 # 작업 공간별 마케팅 달력 필터링 {#filtering-the-marketing-calendar-by-workspace}
 
