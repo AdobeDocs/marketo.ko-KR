@@ -1,21 +1,21 @@
 ---
 unique-page-id: 1147091
-description: 프로그램 멤버십 이해 - 마케팅 문서 - 제품 설명서
+description: 프로그램 회원 이해 - Marketo 문서 - 제품 설명서
 title: 프로그램 회원 이해
+exl-id: 02480a93-b499-4e0f-8a1c-a22f7d3b7178
 translation-type: tm+mt
-source-git-commit: d78ecbec87d69cde66b583d21d7e0c95539bb6ec
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '308'
 ht-degree: 0%
 
 ---
 
-
 # 프로그램 회원 이해 {#understanding-program-membership}
 
 >[!NOTE]
 >
->Marketing To는 이제 모든 구독에 언어를 표준화하므로 구독에 리드/리드 및 docs.markto.com에 있는 사람/사람을 볼 수 있습니다. 같은 뜻이다.아티클 지침에는 영향을 주지 않습니다. 다른 변화도 있습니다. [자세한](/help/marketo/product-docs/crm-sync/salesforce-sync/understanding-the-salesforce-sync.md) 내용
+>Marketo은 이제 모든 구독 시 언어를 표준화하므로 docs.marketing.com에서 사용자의 구독에 리드/리드 및 사람/사람이 표시될 수 있습니다. 같은 뜻이다.아티클 지침에는 영향을 주지 않습니다. 다른 변화도 있습니다. [자세한](/help/marketo/product-docs/crm-sync/salesforce-sync/understanding-the-salesforce-sync.md) 내용
 
 >[!NOTE]
 >
@@ -33,8 +33,8 @@ ht-degree: 0%
 
 1. [변경 프로그램 상태](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/program-flow-actions/change-program-status.md) 흐름 단계를 사용합니다.
 1. 한 사람이 이벤트 프로그램](/help/marketo/product-docs/demand-generation/events/understanding-events/launchpoint-event-partners.md)과 동기화된 [웨비나를 등록하거나 참석합니다.
-1. 사람은 Marketing to iPad 체크 인 응용 프로그램](/help/marketo/product-docs/core-marketo-concepts/mobile-apps/event-check-in/check-people-into-your-event-from-your-tablet.md)을(를) 사용하여 [만든 사람입니다.
-1. 한 사람이 프로그램[에 동기화된 SFDC 캠페인에 추가됩니다.](/help/marketo/product-docs/crm-sync/salesforce-sync/sfdc-sync-details/sfdc-sync-campaign-sync.md)
+1. 사람은 Marketo iPad 체크 인 응용 프로그램](/help/marketo/product-docs/core-marketo-concepts/mobile-apps/event-check-in/check-people-into-your-event-from-your-tablet.md)을 사용하여 만든 [입니다.
+1. 한 사람이 프로그램](/help/marketo/product-docs/crm-sync/salesforce-sync/sfdc-sync-details/sfdc-sync-campaign-sync.md)에 동기화된 SFDC 캠페인에 추가됩니다.[
 
 >[!NOTE]
 >
@@ -60,7 +60,7 @@ ht-degree: 0%
 
 ## 획득 프로그램 {#acquisition-program}
 
-새 이름이 프로그램 멤버로 시스템에 입력되면 Marketing에서 해당 프로그램을 &quot;획득&quot;으로 자동으로 설정합니다. 이렇게 하면 [첫 번째 터치 특성](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-tools/attribution/understanding-attribution.md)에 대한 크레딧이 설정됩니다.
+새 이름이 프로그램 멤버로 시스템에 입력되면 Marketo은 자동으로 해당 프로그램을 &quot;획득&quot;으로 설정합니다. 이렇게 하면 [첫 번째 터치 특성](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-tools/attribution/understanding-attribution.md)에 대한 크레딧이 설정됩니다.
 
 >[!MORELIKETHIS]
 >
