@@ -1,19 +1,19 @@
 ---
 unique-page-id: 5472404
-description: 사람에 대한 활동 로그 - 마케팅 문서 - 제품 설명서를 찾습니다.
+description: 개인에 대한 활동 로그 - Marketo 문서 - 제품 설명서를 찾습니다.
 title: 개인에 대한 활동 로그 찾기
+exl-id: c4018711-e68d-4684-ac3d-a5e10b138a86
 translation-type: tm+mt
-source-git-commit: 07f713ece9832b7696451001f61c6a3b45b4a94a
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '95'
 ht-degree: 0%
 
 ---
 
-
 # {#locate-the-activity-log-for-a-person} 사람에 대한 활동 로그를 찾습니다.
 
-활동 로그는 진실의 최종 원천입니다. 이것은 마케팅에서 한 사람의 여정의 전적인 이야기이다.
+활동 로그는 진실의 최종 원천입니다. 이것은 Marketo에 있는 한 사람의 여정의 전적인 이야기이다.
 
 1. **데이터베이스**&#x200B;로 이동합니다.
 
