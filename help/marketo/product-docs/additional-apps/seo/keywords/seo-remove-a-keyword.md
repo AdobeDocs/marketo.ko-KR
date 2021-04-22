@@ -1,15 +1,15 @@
 ---
 unique-page-id: 2949240
-description: SEO - 키워드 제거 - 마케팅 문서 - 제품 설명서
+description: SEO - 키워드 제거 - Marketo 문서 - 제품 설명서
 title: SEO - 키워드 제거
+exl-id: 4eba33aa-a397-4a02-8d24-3dbd945f9ac4
 translation-type: tm+mt
-source-git-commit: 37697e2d6f1d86a6cd1de5d567a3d384160415cb
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '70'
 ht-degree: 0%
 
 ---
-
 
 # SEO - 키워드 {#seo-remove-a-keyword} 제거
 
