@@ -1,20 +1,20 @@
 ---
-description: Adobe Experience Cloud에서 대상 동기화 - Marketing To Docs - 제품 설명서
+description: Adobe Experience Cloud에서 대상 동기화 - Marketo 문서 - 제품 설명서
 title: Adobe Experience Cloud에서 대상 동기화
+exl-id: 2288ee01-2c2e-4f33-b5c9-da3a431c1816
 translation-type: tm+mt
-source-git-commit: 05c2e89222f9316241a3929642998bddb02ff7a5
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '274'
 ht-degree: 0%
 
 ---
 
-
 # Adobe Experience Cloud {#sync-an-audience-from-adobe-experience-cloud}에서 대상 동기화
 
 >[!NOTE]
 >
->Marketing 인스턴스의 HIPAA용 배포에서는 이 통합을 사용할 수 없습니다.
+>Marketo 인스턴스의 HIPAA용 배포에서는 이 통합을 사용할 수 없습니다.
 
 >[!PREREQUISITES]
 >
@@ -22,7 +22,7 @@ ht-degree: 0%
 
 ## 대상 {#how-to-sync-an-audience} 동기화 방법
 
-1. 내 마켓플레이스에서 **데이터베이스** 타일을 클릭합니다.
+1. 내 Marketo에서 **데이터베이스** 타일을 클릭합니다.
 
    ![](assets/sync-an-audience-from-adobe-experience-cloud-1.png)
 
@@ -50,13 +50,13 @@ ht-degree: 0%
 
 **쿠키 동기화는 어떻게 작동합니까?**
 
-Marketing To 구독에 쿠키 동기화가 활성화되어 있으면 Marketing의 munchkin.js는 통합 설정 중에 지정한 Adobe IMS 조직에 대한 Adobe ECID를 캡처하고 저장하려고 하며 이러한 ECID를 해당 Marketing To 쿠키 식별자와 일치시킵니다. 이를 통해 Marketing의 익명 사용자 프로필은 Adobe ECID를 통해 더욱 풍부해집니다.
+쿠키 동기화가 Marketo 구독에 대해 활성화되면 Marketo의 munchkin.js는 통합 설정 중에 지정한 Adobe IMS 조직에 대한 Adobe ECID를 캡처 및 저장하려고 하며 이러한 ECID를 해당 Marketo 쿠키 식별자와 일치시킵니다. 이를 통해 Marketo의 익명의 사용자 프로필은 Adobe ECID를 통해 더욱 풍부해집니다.
 
 일반 텍스트 이메일을 사용하여 식별되는 리드 프로필에 익명 사용자 프로필을 연결하려면 추가 단계가 필요합니다. 정확히 이 작업이 작동하는 방식은 [에 설명되어 있습니다](/help/marketo/product-docs/reporting/basic-reporting/report-activity/tracking-anonymous-activity-and-people.md).
 
-**Marketing의 목록 크기가 Adobe의 목록 크기와 다른 이유는 무엇입니까?**
+**Marketo의 목록 크기가 Adobe의 목록 크기와 다른 이유는 무엇입니까?**
 
-Marketing To에서 알려진 사람에게 ECID 쿠키 ID를 연결할 수 없는 경우에도 한 사람은 동기화되지 않습니다.
+ECID 쿠키 ID를 Marketo의 알려진 사람에게 연결할 수 없는 경우에도 한 사람은 동기화되지 않습니다.
 
 **일회성 동기화입니까?**
 
