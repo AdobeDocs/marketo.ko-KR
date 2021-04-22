@@ -1,15 +1,15 @@
 ---
 unique-page-id: 11378468
-description: 감사 추적 내 필터링 - 마케팅 문서 - 제품 설명서
+description: 감사 추적 내의 필터링 - Marketo 문서 - 제품 설명서
 title: 감사 추적 내의 필터링
+exl-id: 7928dfff-4d3f-42b4-94ad-0147a2fc3433
 translation-type: tm+mt
-source-git-commit: 78961a3e163ce903facf955a9dda6909b5e85bad
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '140'
 ht-degree: 0%
 
 ---
-
 
 # 감사 추적 {#filtering-in-audit-trail}에서 필터링
 
@@ -55,7 +55,7 @@ ht-degree: 0%
 
    >[!NOTE]
    >
-   >작업 영역이 활성화되어 있으면 모든 작업 영역에 대한 감사 데이터가 표시됩니다. 작업 공간 필터를 적용하면 Marketing은 감사 추적을 사용할 때마다 이전 작업 공간 값을 기억합니다. 자산 수준의 작업 영역 권한이 적용됩니다.
+   >작업 영역이 활성화되어 있으면 모든 작업 영역에 대한 감사 데이터가 표시됩니다. 작업 공간 필터를 적용하면 Marketo은 감사 추적을 사용할 때마다 이전 작업 공간 값을 기억합니다. 자산 수준의 작업 영역 권한이 적용됩니다.
 
    >[!MORELIKETHIS]
    >
