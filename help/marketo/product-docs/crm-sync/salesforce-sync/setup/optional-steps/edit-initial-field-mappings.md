@@ -1,15 +1,15 @@
 ---
 unique-page-id: 4719287
-description: 초기 필드 매핑 편집 - 마케팅 문서 - 제품 설명서
+description: 초기 필드 매핑 편집 - Marketo 문서 - 제품 설명서
 title: 초기 필드 매핑 편집
+exl-id: 320613d1-3845-4e05-a704-0db0f8027dc8
 translation-type: tm+mt
-source-git-commit: 2b5ccd7220557a5e966d33436d0f0d2a65e4589d
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '278'
 ht-degree: 0%
 
 ---
-
 
 # 초기 필드 매핑 편집 {#edit-initial-field-mappings}
 
@@ -17,7 +17,7 @@ ht-degree: 0%
 >
 >이 기능은 Salesforce에 처음 동기화하기 전에만 액세스할 수 있습니다. **지금 동기화** 단추를 누르면 더 이상 이 작업을 수행할 수 없습니다.
 
-Salesforce에 처음 동기화하면 Marketing은 유사한 이름의 사용자 정의 필드를 Marketing To의 단일 필드에 자동으로 결합하여 CRM의 리드 및 연락처 개체 모두와 데이터를 교환할 수 있도록 합니다. 이 문서에서는 이러한 매핑을 사용자 지정하는 방법에 대해 설명합니다.
+Salesforce에 처음 동기화하면 Marketo은 유사한 이름의 사용자 정의 필드를 Marketo 측면의 단일 필드에 자동으로 결합하여 CRM의 리드 및 연락처 개체 모두와 데이터를 교환할 수 있도록 합니다. 이 문서에서는 이러한 매핑을 사용자 지정하는 방법에 대해 설명합니다.
 
 ## 매핑되지 않은 필드 매핑 {#map-unmapped-fields}
 
@@ -45,7 +45,7 @@ Salesforce에 처음 동기화하면 Marketing은 유사한 이름의 사용자 
 
 ## 기존 매핑 중단 {#break-existing-mapping}
 
-리드 및 연락처 개체에 유사한 이름의 필드가 있는 경우 Marketing에서 필드를 자동으로 매핑합니다. 서로 다른 데이터라고 간주할 수 있습니다. 이렇게 매핑을 해제합니다.
+리드에 유사한 이름의 필드가 있고 연락처 개체 Marketo은 이 필드를 자동으로 매핑합니다. 서로 다른 데이터라고 간주할 수 있습니다. 이렇게 매핑을 해제합니다.
 
 1. **매핑 편집**&#x200B;을 클릭합니다.
 
