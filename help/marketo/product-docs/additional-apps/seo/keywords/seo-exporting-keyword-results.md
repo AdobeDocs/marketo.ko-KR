@@ -1,15 +1,15 @@
 ---
 unique-page-id: 2949210
-description: SEO - 키워드 결과 내보내기 - 마케팅 문서 - 제품 설명서
+description: SEO - 키워드 결과 내보내기 - Marketo 문서 - 제품 설명서
 title: SEO - 키워드 결과 내보내기
+exl-id: cc1a2487-cdf1-4bf0-ba7a-a020483d0c6e
 translation-type: tm+mt
-source-git-commit: 37697e2d6f1d86a6cd1de5d567a3d384160415cb
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '45'
 ht-degree: 0%
 
 ---
-
 
 # SEO - 키워드 결과 내보내기 {#seo-exporting-keyword-results}
 
