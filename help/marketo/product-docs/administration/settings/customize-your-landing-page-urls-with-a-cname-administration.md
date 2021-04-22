@@ -1,19 +1,19 @@
 ---
 unique-page-id: 2360189
-description: CNAME(관리) - Marketing Docs - 제품 문서로 랜딩 페이지 URL 사용자 지정
+description: CNAME(관리)으로 랜딩 페이지 URL 사용자 정의 - Marketo Docs - 제품 설명서
 title: CNAME으로 랜딩 페이지 URL 사용자 지정(관리)
+exl-id: a5aa1c76-15f7-4e8c-a736-77c79f65c368
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '251'
 ht-degree: 0%
 
 ---
 
-
 # 랜딩 페이지 URL을 CNAME(관리) {#customize-your-landing-page-urls-with-a-cname-administration}으로 사용자 지정
 
-Marketing에서 랜딩 페이지를 호스트하지만, URL은 회사에 대해 사용자 지정되어야 합니다.
+Marketo이 랜딩 페이지를 호스트하지만 URL은 회사에 맞게 사용자 정의되어야 합니다.
 
 >[!NOTE]
 >
@@ -73,6 +73,6 @@ Marketing에서 랜딩 페이지를 호스트하지만, URL은 회사에 대해 
 
    ![](assets/image2014-9-16-13-3a10-3a45.png)
 
-Marketing To 랜딩 페이지를 사용할 수 없는 경우 대체 페이지가 사람들을 리디렉션하는 페이지입니다.
+Marketo 랜딩 페이지를 사용할 수 없는 경우 대체 페이지가 사람들이 리디렉션되는 페이지입니다.
 
 잘했어! 이제 랜딩 페이지가 회사 도메인으로 브랜드화됩니다.
