@@ -1,15 +1,15 @@
 ---
 unique-page-id: 1147324
-description: 필드 값 지우기 - 마케팅 문서 - 제품 설명서
+description: 필드 값 지우기 - Marketo 문서 - 제품 설명서
 title: 필드 값 지우기
+exl-id: cddc7697-4e8f-4a62-865c-efd451abea0c
 translation-type: tm+mt
-source-git-commit: 4a0bd2efe99284807a46d07ffef0070d9a303631
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '102'
 ht-degree: 0%
 
 ---
-
 
 # 필드 값 지우기 {#clear-field-values}
 
