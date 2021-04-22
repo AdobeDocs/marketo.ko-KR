@@ -1,15 +1,15 @@
 ---
 unique-page-id: 10098433
-description: IP 기반 API 액세스허용 목록에 추가하다에 대한 만들기 - Marketing To Docs - 제품 설명서
+description: IP 기반 API 액세스허용 목록에 추가하다를 위한 만들기 - Marketo 문서 - 제품 설명서
 title: IP 허용 목록에 추가하다 기반 API 액세스에 대한 만들기
+exl-id: 1a2f2216-07ee-4d37-b883-458ea39fc452
 translation-type: tm+mt
-source-git-commit: 78961a3e163ce903facf955a9dda6909b5e85bad
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '132'
 ht-degree: 0%
 
 ---
-
 
 # IP 기반 허용 목록에 추가하다 API 액세스 {#create-an-allowlist-for-ip-based-api-access} 만들기
 
