@@ -1,19 +1,19 @@
 ---
 unique-page-id: 2951046
-description: 릴리스 노트 - 2014년 3월 - Marketing Docs - 제품 설명서
+description: 릴리스 노트 - 2014년 3월 - Marketo 문서 - 제품 설명서
 title: 릴리스 노트 - 2014년 3월
+exl-id: 1f87dca2-14aa-42cf-a016-f1558259fb64
 translation-type: tm+mt
-source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '402'
 ht-degree: 0%
 
 ---
 
-
 # 릴리스 노트:2014년 3월 {#release-notes-march}
 
-다음 기능은 2014년 3월 릴리스에 포함되어 있습니다. 기능을 사용할 수 있는지 확인하려면 Marketing To Edition을 확인하십시오. 릴리스 후 각 기능에 대한 기술 자료 아티클에 대한 링크를 보려면 다시 돌아와야 합니다.
+다음 기능은 2014년 3월 릴리스에 포함되어 있습니다. 기능을 사용할 수 있는지 Marketo Edition을 확인하십시오. 릴리스 후 각 기능에 대한 기술 자료 아티클에 대한 링크를 보려면 다시 돌아와야 합니다.
 
 ## 이메일 프로그램 대시보드 새로 고침 단추 {#email-program-dashboard-refresh-button}
 
@@ -41,7 +41,7 @@ ht-degree: 0%
 
 ## 리드 전환에 대한 하이브리드 및 암시적 옵션 {#hybrid-and-implicit-options-for-lead-conversion}
 
-Marketing To가 리드 분석에서 리드 전환 지표에 대한 연락처와 기회를 연결하는 방법을 변경할 수 있습니다. [속성 설정](/help/marketo/product-docs/administration/settings/change-attribution-settings-for-analytics.md)을 3가지 선택 항목 중 하나로 변경할 수 있습니다. 이 설정을 변경해도 Marketing To 또는 CRM 데이터는 수정되지 않습니다.보고서를 실행하는 방식을 변경하고 언제든지 되돌릴 수 있습니다.
+Marketo이 리드 분석에서 리드 전환 지표에 대한 연락처와 기회를 연결하는 방법을 변경할 수 있습니다. [속성 설정](/help/marketo/product-docs/administration/settings/change-attribution-settings-for-analytics.md)을 3가지 선택 항목 중 하나로 변경할 수 있습니다. 이 설정을 변경해도 Marketo 또는 CRM 데이터는 수정되지 않습니다.보고서를 실행하는 방식을 변경하고 언제든지 되돌릴 수 있습니다.
 
 명시적 설정은 기회가 있는 역할이 있는 연락처를 전환된 리드(기본 동작)로 처리합니다. 암시적 기능은 역할에 관계없이 기회 내 계정에 연결된 모든 연락처를 전환된 것으로 처리합니다. 하이브리드는 역할이 있는 연락처를 가능한 경우 전환된 것으로 처리합니다.없는 경우 계정의 모든 연락처를 전환된 것으로 처리합니다.
 
@@ -51,12 +51,12 @@ Marketing To가 리드 분석에서 리드 전환 지표에 대한 연락처와 
 
 ## 추가 사용자 언어 {#additional-user-language}
 
-[마케팅 응용 프로그램 언어](/help/marketo/product-docs/administration/settings/select-your-language-locale-and-time-zone.md)를 선택합니다. 현재 일본어를 지원하는 기본 언어로 마케팅 리드 관리 인터페이스를 볼 수 있습니다.
+[Marketo 응용 프로그램 언어](/help/marketo/product-docs/administration/settings/select-your-language-locale-and-time-zone.md)를 선택합니다. 일본어를 지원하는 Marketo 리드 관리 인터페이스를 기본 언어로 볼 수 있습니다.
 
 ![](assets/image2014-9-22-11-3a37-3a14.png)
 
-## Marketing To 개발자 블로그 {#marketo-developer-blog}
+## Marketo 개발자 블로그 {#marketo-developer-blog}
 
-[Marketing Developer 블로그](https://developers.marketo.com/blog/)는 급변하는 최신 마케터의 요구 사항을 지원하는 웹 개발자와 소프트웨어 엔지니어를 위해 특별히 고안된 블로그입니다. 새로운 통합 옵션, API 버전 업데이트 및 Marketing To 플랫폼과의 통합에 대한 코드 샘플 및 우수 사례를 포함하는 새로운 방법 아티클 시리즈를 통해 발표된 내용을 구독할 수 있습니다.
+[Marketo 개발자 블로그](https://developers.marketo.com/blog/)는 급변하는 최신 마케터의 요구 사항을 지원하는 웹 개발자 및 소프트웨어 엔지니어를 위해 제공됩니다. 새로운 통합 옵션, API 버전 업데이트 및 Marketo 플랫폼 통합에 대한 코드 샘플 및 모범 사례를 포함하는 새로운 방법 아티클 시리즈를 통해 발표된 내용을 구독할 수 있습니다.
 
-이 시리즈의 [첫 번째 아티클](https://developers.marketo.com/blog/retrieving-customer-and-prospect-information-from-marketo-using-the-api/)에서는 API를 사용하여 Marketing Cloud 내에 저장된 사람(고객/연락처/리드)에 대한 정보를 효율적으로 검색하는 방법을 안내합니다.
+이 시리즈의 [첫 번째 아티클](https://developers.marketo.com/blog/retrieving-customer-and-prospect-information-from-marketo-using-the-api/)에서는 API를 사용하여 Marketo 내에 저장된 사람(고객/연락처/리드)에 대한 정보를 효율적으로 검색하는 방법을 안내합니다.
