@@ -1,17 +1,17 @@
 ---
 unique-page-id: 2360295
-description: 모든 마케팅 API 필드 이름 목록 내보내기 - 마케팅 문서 - 제품 설명서
-title: 모든 마케팅 API 필드 이름 목록 내보내기
+description: 모든 Marketo API 필드 이름 목록 내보내기 - Marketo 문서 - 제품 설명서
+title: 모든 Marketo API 필드 이름 목록 내보내기
+exl-id: 7720c3fe-85e3-4de2-ad04-503c430562f0
 translation-type: tm+mt
-source-git-commit: f865630638e7c0fe6ac2a449e196a7de4fbfeea1
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '101'
 ht-degree: 0%
 
 ---
 
-
-# 모든 마케팅 API 필드 이름 목록 내보내기 {#export-a-list-of-all-marketo-api-field-names}
+# 모든 Marketo API 필드 이름 목록 내보내기 {#export-a-list-of-all-marketo-api-field-names}
 
 SOAP API 또는 Munchkin API를 사용하는 경우 모든 필드 및 해당 API 이름 목록이 필요합니다. 이 목록을 얻는 방법
 
