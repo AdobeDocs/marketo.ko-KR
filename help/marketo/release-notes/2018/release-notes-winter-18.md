@@ -1,41 +1,41 @@
 ---
 unique-page-id: 13795395
-description: 릴리스 노트 -18년 겨울 - 마케팅 문서 - 제품 설명서
+description: 릴리스 노트 -18년 겨울 - Marketo 문서 - 제품 설명서
 title: 릴리스 노트 -18년 겨울
+exl-id: f08bdc91-86d3-4ea2-a74a-1398ed525bbb
 translation-type: tm+mt
-source-git-commit: d68eba976d0b71339fc5b70b3c035641d9e81d44
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '599'
 ht-degree: 0%
 
 ---
 
-
 # 릴리스 노트:18년 겨울 {#release-notes-winter}
 
-다음 기능은 18년 겨울 릴리스에 포함되어 있습니다. 기능 가용성을 확인하려면 Marketing Edition을 확인하십시오.
+다음 기능은 18년 겨울 릴리스에 포함되어 있습니다. 기능을 사용할 수 있는지 Marketo 에디션을 확인하십시오.
 
 각 기능에 대한 자세한 아티클을 보려면 제목 링크를 클릭하십시오. **참고**:이 릴리스에 포함된 기능 중 일부에는 관련 아티클이 없습니다. 항목에 여러 개의 하위 제목이 있는 경우 링크가 여기에 배치됩니다.
 
 ## 캠페인 성능 및 처리량 개선 사항 {#campaign-performance-and-throughput-enhancements}
 
-Marketing To는 Adobe의 빅데이터 아키텍처를 활용하여 트리거 캠페인 처리량을 높이고 웹 활동 처리를 개선하고 있으므로 고객의 행동에 보다 신속하게 대응할 수 있습니다.
+Marketo은 빅데이터 아키텍처를 활용하여 트리거 캠페인 처리량을 높이고 웹 활동 처리를 개선하고 고객의 행동에 보다 신속하게 대응할 수 있도록 하고 있습니다.
 
-## Marketing의 Salesforce CRM 통합 개선 사항 {#enhancements-to-marketo-s-salesforce-crm-integration}
+## Marketo의 Salesforce CRM 통합 개선 사항 {#enhancements-to-marketo-s-salesforce-crm-integration}
 
 Salesforce CRM 통합에 대한 2가지 개선 사항이 있습니다.
 
-* [특정 CRM 동기화 실패](/help/marketo/product-docs/core-marketo-concepts/miscellaneous/understanding-notifications/notification-types.md) 에 대한 Marketing To Admin 알림(자격 증명이 만료됨, API 제한에 도달함 등)
+* [특정 ](/help/marketo/product-docs/core-marketo-concepts/miscellaneous/understanding-notifications/notification-types.md) CRM 동기화 오류에 대한 Marketo 관리 알림(자격 증명이 만료됨, API 제한에 도달함 등)
 
 * [리드 할당 시 ](/help/marketo/product-docs/crm-sync/salesforce-sync/setup/optional-steps/turn-off-email-notifications-to-lead-owner.md) 리드 소유자에 대한 이메일 알림 해제
 
 이러한 개선 사항은 2018년에 걸쳐 진행될 것입니다.
 
-## [마케팅 성과 통찰력](/help/marketo/product-docs/reporting/performance-insights/performance-insights-overview.md) {#marketo-performance-insights}
+## [Marketo 성과 통찰력](/help/marketo/product-docs/reporting/performance-insights/performance-insights-overview.md) {#marketo-performance-insights}
 
 >[!AVAILABILITY]
 >
->성능 인사이트는 추가 제품입니다. 견적을 받으려면 마케팅 고객 성공 관리자 또는 계정 담당자에게 문의하십시오.
+>성능 인사이트는 추가 제품입니다. 견적을 받으려면 Marketo 고객 성공 관리자 또는 계정 담당자에게 문의하십시오.
 
 기여도 분석, 인터랙티브한 시각화 및 자세한 데이터 표를 사용하여 캠페인 및 채널이 비즈니스 결과에 미치는 영향을 살펴볼 수 있습니다.
 
@@ -63,17 +63,17 @@ Salesforce 또는 Microsoft Dynamics를 사용하는 ABM 고객의 경우 ABM은
 
 **[Google 고객 일치 통합](/help/marketo/product-docs/demand-generation/ad-network-integrations/add-google-customer-match-as-a-launchpoint-service.md)**
 
-이러한 통합을 통해 Google AdWords를 사용하여 타깃팅할 Marketing To 대상을 Google로 보낼 수 있을 뿐만 아니라 YouTube, Search 및 Gmail에서 대상을 다시 타깃팅할 수 있습니다.
+이러한 통합을 통해 Google AdWords를 사용하여 타깃팅할 Marketo 대상을 Google로 보낼 수 있을 뿐만 아니라 YouTube, Search 및 Gmail에서 대상을 다시 타깃팅할 수 있습니다.
 
-**[LinkedIn 일치된 대상 API 개선 사항](/help/marketo/product-docs/demand-generation/ad-network-integrations/add-linkedin-matched-audiences-as-a-launchpoint-service.md)**
+**[linkedIn Matched Audiences API 개선 사항](/help/marketo/product-docs/demand-generation/ad-network-integrations/add-linkedin-matched-audiences-as-a-launchpoint-service.md)**
 
-Adobe의 새로운 LinkedIn API를 사용하면 여러 LinkedIn Campaign Manager 계정에서 Marketing 데이터베이스의 사용자를 다시 타깃팅할 수 있습니다.
+이제 Adobe의 새로운 LinkedIn API를 사용하여 여러 LinkedIn Campaign Manager 계정에서 Marketo 데이터베이스의 사용자를 다시 타깃팅할 수 있습니다.
 
 ## 웹 개인화 {#web-personalization}
 
 **웹 개인화를 위한 일본어 데이터 소스**
 
-Marketing에서는 일본에서 오는 방문자에 대한 웹 방문자 식별(역 IP 조회) 및 개인화를 개선하기 위해 웹 개인화를 위한 추가 일본어 데이터 소스를 추가하고 있습니다. 조직명이 일본어로 표시됩니다.
+Marketo은 일본에서 오는 방문자에 대한 웹 방문자 식별(역 IP 조회) 및 개인화를 개선하기 위해 웹 개인화에 대한 추가 일본어 데이터 소스를 추가하고 있습니다. 조직명이 일본어로 표시됩니다.
 
 **[정적 목록을 사용하여 웹 세그먼트 만들기](/help/marketo/product-docs/web-personalization/using-web-segments/create-a-segment-using-a-static-list.md)**
 
@@ -83,7 +83,7 @@ Marketing에서는 일본에서 오는 방문자에 대한 웹 방문자 식별(
 
 **예측 알고리즘 개선**
 
-Marketing의 최적화된 ContentAI 알고리즘을 통해 권장되는 컨텐츠는 무작위 컨텐츠보다 최대 2회 클릭을 생성할 수 있습니다.
+Marketo의 최적화된 ContentAI 알고리즘을 통해 권장되는 컨텐츠는 무작위 컨텐츠보다 최대 2회 클릭을 생성할 수 있습니다.
 
 ## 통합 {#integration}
 
