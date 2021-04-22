@@ -1,19 +1,19 @@
 ---
 unique-page-id: 2949891
-description: 정적 목록 이해 - 마케팅 문서 - 제품 설명서
+description: 정적 목록 이해 - Marketo 문서 - 제품 설명서
 title: 정적 목록 이해
+exl-id: c37c1496-cf19-4e44-aaec-77b10669b9bf
 translation-type: tm+mt
-source-git-commit: 07f713ece9832b7696451001f61c6a3b45b4a94a
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '215'
 ht-degree: 0%
 
 ---
 
-
 # 정적 목록 이해 {#understanding-static-lists}
 
-정적 목록은 Marketing의 가장 간단하고 유용한 기능 중 하나입니다. 단순히 데이터베이스의 이름 목록입니다. 당신은 그것들을 사용할 충분한 이유를 찾을 것이다.
+정적 목록은 Marketo에서 가장 간단하고 유용한 기능 중 하나입니다. 단순히 데이터베이스의 이름 목록입니다. 당신은 그것들을 사용할 충분한 이유를 찾을 것이다.
 
 >[!NOTE]
 >
