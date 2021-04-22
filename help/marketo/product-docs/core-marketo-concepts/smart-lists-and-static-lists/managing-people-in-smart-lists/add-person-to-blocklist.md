@@ -1,15 +1,15 @@
 ---
 unique-page-id: 9438139
-description: 에 인물 차단 목록에 추가하다 추가 - 마케팅 문서 - 제품 설명서
+description: 에 인물 차단 목록에 추가하다 추가 - Marketo 문서 - 제품 설명서
 title: 에 사람 차단 목록에 추가하다 추가
+exl-id: e4543bf9-11e9-42df-a31e-e2cebe24ad4a
 translation-type: tm+mt
-source-git-commit: 07f713ece9832b7696451001f61c6a3b45b4a94a
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '216'
 ht-degree: 0%
 
 ---
-
 
 # {#add-person-to-blocklist}에 차단 목록에 추가하다 인물 추가
 
@@ -17,7 +17,7 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->Marketing은 Blacklist 및 Whitelist와 같은 용어를 Adobe 제품차단 목록에 추가하다의 및 허용 목록에 추가하다로 변경하는 중입니다. 이 업데이트 중에 UI 및 문서 스크린샷의 이전 용어와 설명서 텍스트의 새 용어를 볼 수 있습니다. 혼동을 사과드립니다.
+>Marketo은 블랙 리스트 및 화이트 리스트와 같은 용어를 제품차단 목록에 추가하다의 및 허용 목록에 추가하다로 변경하는 과정에 있습니다. 이 업데이트 중에 UI 및 문서 스크린샷의 이전 용어와 설명서 텍스트의 새 용어를 볼 수 있습니다. 혼동을 사과드립니다.
 
 1. [새 기본 ](/help/marketo/product-docs/core-marketo-concepts/programs/creating-programs/create-a-program.md) 프로그램을 만들고 이름을 [에  **추가]로 차단 목록에 추가하다 지정합니다**.
 
