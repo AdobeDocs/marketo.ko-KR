@@ -1,15 +1,15 @@
 ---
 unique-page-id: 1146980
-description: 흐름 단계에서 선택 추가 사용 - 마케팅 문서 - 제품 설명서
+description: 흐름 단계에서 선택 추가 사용 - Marketo 문서 - 제품 설명서
 title: 흐름 단계에서 선택 추가 사용
+exl-id: 50ffcd60-48ee-4341-94d8-170c63bc9ecb
 translation-type: tm+mt
-source-git-commit: 4a0bd2efe99284807a46d07ffef0070d9a303631
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '196'
 ht-degree: 0%
 
 ---
-
 
 # 흐름 단계 {#use-add-choice-in-a-flow-step}에서 선택 추가 사용
 
