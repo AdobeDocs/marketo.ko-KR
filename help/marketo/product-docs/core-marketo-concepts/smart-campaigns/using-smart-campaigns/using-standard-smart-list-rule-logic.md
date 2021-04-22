@@ -1,15 +1,15 @@
 ---
 unique-page-id: 1147001
-description: 표준 스마트 목록 규칙 논리 사용 - 마케팅 문서 - 제품 설명서
+description: 표준 스마트 목록 규칙 논리 사용 - Marketo 문서 - 제품 설명서
 title: 표준 스마트 목록 규칙 논리 사용
+exl-id: 9befaa81-e50c-47d3-9edf-220cfadd00f6
 translation-type: tm+mt
-source-git-commit: 4a0bd2efe99284807a46d07ffef0070d9a303631
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '129'
 ht-degree: 0%
 
 ---
-
 
 # 표준 스마트 목록 규칙 논리 사용 {#using-standard-smart-list-rule-logic}
 
