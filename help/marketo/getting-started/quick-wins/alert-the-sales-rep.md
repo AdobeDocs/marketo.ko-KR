@@ -1,15 +1,15 @@
 ---
 unique-page-id: 2359424
-description: 영업 담당자 - 마케팅 문서 - 제품 문서에 알림
+description: 영업 담당자 - Marketo 문서 - 제품 문서에 알림
 title: 영업 담당자에게 알림
+exl-id: 4ad7d7b8-ee1e-4605-b4e0-e72a7e573c05
 translation-type: tm+mt
-source-git-commit: d7d6aee63144c472e02fe0221c4a164183d04dd4
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '401'
 ht-degree: 0%
 
 ---
-
 
 # 영업 담당자 {#alert-the-sales-rep} 알림
 
@@ -27,7 +27,7 @@ ht-degree: 0%
 
    ![](assets/one-5.png)
 
-1. **양식](/help/marketo/getting-started/quick-wins/landing-page-with-a-form.md) 빠른 승산이 있는 [랜딩 페이지에서 만든**&#x200B;내 프로그램&lt;a1/>을 선택한 다음 **새로 만들기**&#x200B;새 로컬 자산&#x200B;**을 클릭합니다.**
+1. **양식](/help/marketo/getting-started/quick-wins/landing-page-with-a-form.md) 빠른 승산이 있는 [랜딩 페이지에서 만든**&#x200B;내 프로그램&#x200B;**을 선택한 다음**&#x200B;새로 만들기&#x200B;**새 로컬 자산**&#x200B;을 클릭합니다.
 
    ![](assets/two-6.png)
 
@@ -39,7 +39,7 @@ ht-degree: 0%
 
    ![](assets/four-4.png)
 
-1. 영업 팀이 볼 **보낸 사람 이름&lt;a1/>,**&#x200B;이메일&#x200B;**,**&#x200B;회신&#x200B;**및**&#x200B;제목&#x200B;**을 입력합니다.**
+1. 영업 팀이 볼 **보낸 사람 이름**, **이메일**, **회신** 및 **제목**&#x200B;을 입력합니다.
 
    ![](assets/five-5.png)
 
@@ -135,7 +135,7 @@ ht-degree: 0%
 
    >[!NOTE]
    >
-   >연락처 정보를 보려면 Marketing에서 **개인 정보** 탭을 클릭합니다.
+   >연락처 정보를 보려면 Marketo에서 **개인 정보** 탭을 클릭합니다.
 
 ## 임무 완료!{#mission-complete}
 
