@@ -1,15 +1,15 @@
 ---
 unique-page-id: 1147082
-description: 사람 삭제 - 마케팅 문서 - 제품 설명서
+description: 사람 삭제 - Marketo 문서 - 제품 설명서
 title: 사람 삭제
+exl-id: 40039444-9b2a-4b80-93bc-7da3d6e9475c
 translation-type: tm+mt
-source-git-commit: 4a0bd2efe99284807a46d07ffef0070d9a303631
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '125'
 ht-degree: 0%
 
 ---
-
 
 # 사람 삭제 {#delete-person}
 
@@ -31,10 +31,10 @@ ht-degree: 0%
 
 ![](assets/two-4.png)
 
-다음과 같이 Marketing Cloud에서 삭제할 수 있으며 CRM에서는 삭제할 수 없습니다.
+다음과 같이 CRM에서 삭제할 수 없고 Marketo에서 삭제할 수 있습니다.
 
 ![](assets/three-3.png)
 
 >[!NOTE]
 >
->CRM **에서 인물을 제거하면 Salesforce**&#x200B;에서만 작동합니다. Marketing에서 사용자를 삭제하고 Salesforce에 유지하도록 선택하면 Salesforce 레코드가 업데이트되면 Marketing Cloud에서 다시 생성됩니다.
+>CRM **에서 인물을 제거하면 Salesforce**&#x200B;에서만 작동합니다. Marketo에서 사람을 삭제하고 Salesforce에 유지하도록 선택하면 Salesforce 레코드가 업데이트되면 Marketo에서 다시 생성됩니다.
