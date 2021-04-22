@@ -1,19 +1,19 @@
 ---
 unique-page-id: 1147245
-description: 사용자 정의 시작 유형 만들기 - 마케팅 문서 - 제품 설명서
+description: 사용자 정의 시작 유형 만들기 - Marketo 문서 - 제품 설명서
 title: 사용자 정의 시작 유형 만들기
+exl-id: 75a0fb0d-a0d4-472d-9ac1-53e2f2831221
 translation-type: tm+mt
-source-git-commit: e5050328cbddaf072dd60ddd8d7363a704e720b5
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '105'
 ht-degree: 0%
 
 ---
 
-
 # 사용자 정의 항목 유형 만들기 {#create-custom-entry-types}
 
-프로그램 예약 보기에서 사용할 사용자 정의 시작 유형을 만들 수 있습니다. 이렇게 하면 프로그램에 영향을 주는 마케팅 이외의 의제 항목을 모두 추적할 수 있습니다.
+프로그램 예약 보기에서 사용할 사용자 정의 시작 유형을 만들 수 있습니다. 이렇게 하면 프로그램에 영향을 미치는 Marketo 이외 모든 안건 항목을 추적할 수 있습니다.
 
 1. **관리** 섹션으로 이동하여 **태그**&#x200B;를 클릭합니다.
 
