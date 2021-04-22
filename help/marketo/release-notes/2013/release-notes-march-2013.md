@@ -1,21 +1,21 @@
 ---
 unique-page-id: 2951101
-description: 릴리스 노트 - 2013년 3월 - 마케팅 문서 - 제품 설명서
+description: 릴리스 노트 - 2013년 3월 - Marketo 문서 - 제품 설명서
 title: 릴리스 노트 - 2013년 3월
+exl-id: 4036380a-c4a1-44be-8bf3-87253181e5c8
 translation-type: tm+mt
-source-git-commit: 029d8b419ba5078980b4fde9890bdb35194bf264
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '225'
 ht-degree: 0%
 
 ---
 
-
 # 릴리스 노트:2013년 3월 {#release-notes-march}
 
 다음 기능은 3월 릴리스에 포함되어 있습니다.
 
-## 마케팅 일정 파일 {#marketo-calendar-files}
+## Marketo 달력 파일 {#marketo-calendar-files}
 
 달력 파일을 **내 토큰**&#x200B;으로 만들어 이벤트 확인 및 미리 알림 이메일에 사용합니다. 이 통합 달력 파일(예: .ics 파일)은 내 토큰 및 `{{member.webinar URL}}` 토큰을 포함한 모든 토큰을 렌더링합니다.
 
@@ -43,4 +43,4 @@ ht-degree: 0%
 
 ## 지원 뉴스 및 경고 {#support-news-and-alerts}
 
-Adobe 지원 전문가의 지원 뉴스 및 알림 메시지, 알려진 문제, 힌트 및 팁, Marketing to Customer Support 업데이트를 구독하면 Marketing Cloud와 고객 지원에 최신 정보를 공유할 수 있습니다.
+Adobe 지원 전문가의 지원 뉴스 및 알림 메시지, 알려진 문제, 힌트 및 팁, Marketo 고객 지원 업데이트와 함께 Marketo 고객 지원에 문의하여 지원을 받으십시오.
