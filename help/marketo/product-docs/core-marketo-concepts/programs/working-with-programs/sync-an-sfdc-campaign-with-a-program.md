@@ -1,19 +1,19 @@
 ---
 unique-page-id: 1147154
-description: SFDC 캠페인을 프로그램과 동기화 - Marketing To Docs - 제품 설명서
+description: SFDC 캠페인을 프로그램과 동기화 - Marketo 문서 - 제품 설명서
 title: 프로그램과 SFDC 캠페인 동기화
+exl-id: b95be580-c960-4a76-9d43-c7f624f43d03
 translation-type: tm+mt
-source-git-commit: 07f713ece9832b7696451001f61c6a3b45b4a94a
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '176'
 ht-degree: 0%
 
 ---
 
-
 # SFDC 캠페인을 프로그램 {#sync-an-sfdc-campaign-with-a-program}과 동기화
 
-Marketing을 사용하면 프로그램을 Salesforce 캠페인과 동기화하여 두 시스템의 상태(상태 포함)와 동일한 사용자 목록을 유지할 수 있습니다. 시작합시다!
+Marketo을 사용하면 프로그램을 Salesforce 캠페인과 동기화하여 두 시스템의 상태(상태 포함)와 동일한 사용자 목록을 유지할 수 있습니다. 시작합시다!
 
 >[!PREREQUISITES]
 >
@@ -21,7 +21,7 @@ Marketing을 사용하면 프로그램을 Salesforce 캠페인과 동기화하�
 
 >[!CAUTION]
 >
->SFDC 캠페인을 마케팅 프로그램과 동기화할 때, 프로그램의 하위 캠페인에 대해 암시적인 SFDC 작업(예: SFDC 캠페인에 추가, SFDC에 동기화)이 비활성화됩니다.
+>SFDC 캠페인을 Marketo 프로그램과 동기화할 때 프로그램의 하위 캠페인에 대해 암시적인 SFDC 작업(예: SFDC 캠페인에 추가, SFDC에 동기화)이 비활성화됩니다.
 
 1. **마케팅 활동**&#x200B;으로 이동합니다.
 
@@ -39,7 +39,7 @@ Marketing을 사용하면 프로그램을 Salesforce 캠페인과 동기화하�
 
    >[!TIP]
    >
-   >기존 Salesforce 캠페인을 선택하는 경우 [Salesforce 캠페인과 Marketing 프로그램](/help/marketo/product-docs/crm-sync/salesforce-sync/sfdc-sync-details/sfdc-errors/how-to-match-program-statuses-and-salesforce-campaign-statuses-prior-to-sync.md)의 프로그램 상태를 일치시켜야 합니다.
+   >기존 Salesforce 캠페인을 선택하는 경우 [Salesforce 캠페인과 Marketo 프로그램](/help/marketo/product-docs/crm-sync/salesforce-sync/sfdc-sync-details/sfdc-errors/how-to-match-program-statuses-and-salesforce-campaign-statuses-prior-to-sync.md)의 프로그램 상태를 일치시켜야 합니다.
 
 1. 새 캠페인의 이름을 입력하고 **저장**&#x200B;을 클릭합니다.
 
@@ -49,4 +49,4 @@ Marketing을 사용하면 프로그램을 Salesforce 캠페인과 동기화하�
 
    ![](assets/image2015-7-22-8-3a59-3a33.png)
 
-   훌륭해! 이제 Marketing의 모든 프로그램 상태 변경 사항이 SFDC 캠페인에 동기화되고 그 반대의 경우도 마찬가지입니다.
+   훌륭해! 이제 Marketo의 모든 프로그램 상태 변경 사항이 SFDC 캠페인에 동기화되고 그 반대의 경우도 마찬가지입니다.
