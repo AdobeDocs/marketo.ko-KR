@@ -1,19 +1,19 @@
 ---
 unique-page-id: 7512276
-description: ON24를 LaunchPoint 서비스로 추가 - Marketing To Docs - 제품 설명서
+description: ON24를 LaunchPoint 서비스로 추가 - Marketo Docs - 제품 설명서
 title: ON24를 LaunchPoint 서비스로 추가
+exl-id: 562d6091-8a24-4625-b728-ada52d869f0c
 translation-type: tm+mt
-source-git-commit: 78961a3e163ce903facf955a9dda6909b5e85bad
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '125'
 ht-degree: 0%
 
 ---
 
-
 # ON24를 LaunchPoint 서비스로 추가 {#add-on-as-a-launchpoint-service}
 
-Marketing에서 ON24 웨비나 등록 및 참석을 관리합니다.
+Marketo은 ON24 웨비나 등록 및 참석을 관리합니다.
 
 >[!NOTE]
 >
@@ -39,10 +39,10 @@ Marketing에서 ON24 웨비나 등록 및 참석을 관리합니다.
 
    ![](assets/image2015-4-24-18-3a48-3a29.png)
 
-1. **ON24** 계정이 이제 Marketing To와 동기화됩니다.
+1. **ON24** 계정이 이제 Marketo과 동기화됩니다.
 
    ![](assets/on24.png)
 
 >[!MORELIKETHIS]
 >
->ON24[에서 웨비나 이벤트를 만드는 방법을 알아봅니다.](/help/marketo/product-docs/demand-generation/events/create-an-event/create-an-event-with-the-marketo-on24-adapter/create-your-webinar-event-in-on24.md)
+>ON24](/help/marketo/product-docs/demand-generation/events/create-an-event/create-an-event-with-the-marketo-on24-adapter/create-your-webinar-event-in-on24.md)에서 웨비나 이벤트를 만드는 방법을 알아봅니다.[
