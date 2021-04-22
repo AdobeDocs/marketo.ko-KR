@@ -1,15 +1,15 @@
 ---
 unique-page-id: 2949178
-description: SEO 대시보드 이해 -SEO 스냅샷 - Marketing To Docs - 제품 설명서
+description: SEO 대시보드 이해 -SEO 스냅샷 - Marketo 문서 - 제품 설명서
 title: SEO 대시보드 - SEO 스냅샷 이해
+exl-id: 59ff940f-368c-4e71-9e1f-a6f959811841
 translation-type: tm+mt
-source-git-commit: 37697e2d6f1d86a6cd1de5d567a3d384160415cb
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
-source-wordcount: '253'
+source-wordcount: '0'
 ht-degree: 0%
 
 ---
-
 
 # SEO 대시보드 이해:SEO 스냅샷 {#understanding-the-seo-dashboard-seo-snapshot}
 
@@ -39,7 +39,7 @@ SEO 노력을 개선하기 위해 주력할 내용을 찾으려면 이 대시보
 
 ## 평균 페이지 최적화 점수 {#average-page-optimization-score}
 
-평균 페이지 최적화 점수는 1-100의 척도로 사이트의 모든 페이지를 측정하는 독점적인 마케팅 점수입니다.
+평균 페이지 최적화 점수는 1-100의 척도로 사이트의 모든 페이지를 측정하는 독점적인 Marketo 점수입니다.
 
 그것은 수십 가지의 모범 사례들을 모아 놓은 것을 기반으로 한다. 점수가 70 이상이면 최적화된 사이트를 나타냅니다.
 
