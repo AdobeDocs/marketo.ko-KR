@@ -1,15 +1,15 @@
 ---
 unique-page-id: 1147102
-description: 프로그램 예약 보기 - 마케팅 문서 - 제품 문서에서 항목 만들기
+description: 프로그램 예약 보기에서 항목 만들기 - Marketo 문서 - 제품 문서
 title: 프로그램 스케줄 뷰에서 항목 생성
+exl-id: 7d15d110-17f4-4434-bf1c-0343c3a7f176
 translation-type: tm+mt
-source-git-commit: e5050328cbddaf072dd60ddd8d7363a704e720b5
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '175'
 ht-degree: 0%
 
 ---
-
 
 # 프로그램 일정 보기 {#creating-an-entry-in-the-program-schedule-view}에서 항목 만들기
 
@@ -59,7 +59,7 @@ ht-degree: 0%
 
    >[!NOTE]
    >
-   >할 일은 [사용자 지정 항목](/help/marketo/product-docs/core-marketo-concepts/programs/program-schedule-view/create-custom-entry-types.md)입니다. 할 일 및 기타 사용자 지정 항목을 만들어 비마케팅 안건 항목을 추적할 수 있습니다.
+   >할 일은 [사용자 지정 항목](/help/marketo/product-docs/core-marketo-concepts/programs/program-schedule-view/create-custom-entry-types.md)입니다. 할 일 및 기타 사용자 지정 항목을 만들어 Marketo 이외 안건 항목을 추적할 수 있습니다.
 
    ![](assets/image2014-9-16-9-3a26-3a36.png)
 
