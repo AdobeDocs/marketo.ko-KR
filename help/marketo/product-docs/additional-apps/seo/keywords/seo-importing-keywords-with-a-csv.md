@@ -1,15 +1,15 @@
 ---
 unique-page-id: 2949206
-description: SEO - CSV로 키워드 가져오기 - 마케팅 문서 - 제품 설명서
+description: SEO - CSV로 키워드 가져오기 - Marketo 문서 - 제품 설명서
 title: SEO - CSV로 키워드 가져오기
+exl-id: 13957db8-3fbf-4267-a3ab-65a4978d8633
 translation-type: tm+mt
-source-git-commit: 37697e2d6f1d86a6cd1de5d567a3d384160415cb
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '122'
 ht-degree: 0%
 
 ---
-
 
 # SEO - CSV {#seo-importing-keywords-with-a-csv}의 키워드 가져오기
 
