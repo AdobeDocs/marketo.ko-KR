@@ -1,15 +1,15 @@
 ---
 unique-page-id: 4719312
-description: 선택 목록 값 추가/제거 - 마케팅 문서 - 제품 설명서
+description: 선택 목록 값 추가/제거 - Marketo 문서 - 제품 설명서
 title: 선택 목록 값 추가/제거
+exl-id: f1230c43-10cb-47ff-89d7-9f835b034db0
 translation-type: tm+mt
-source-git-commit: ed83438ae5660d172e845f25c4d72d599574bd91
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '227'
 ht-degree: 0%
 
 ---
-
 
 # 선택 목록 값 추가/제거 {#add-remove-picklist-values}
 
@@ -29,7 +29,7 @@ Salesforce의 필드에서 선택 목록 값이 제거되면 이 필드를 호�
 
 >[!NOTE]
 >
->Salesforce의 리드 필드와 연락처 필드에 다른 값이 있는 경우 Marketing To에서 공통 값을 사용할 수 있습니다.
+>Salesforce의 리드 필드와 연락처 필드에 다른 값이 있는 경우 공통 값을 Marketo에서 사용할 수 있습니다.
 
 Salesforce의 리드 필드 및 연락처 필드에 다른 값이 있는 경우:
 
