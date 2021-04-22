@@ -1,19 +1,19 @@
 ---
 unique-page-id: 557130
-description: 스마트 목록 이해 - 마케팅 문서 - 제품 설명서
+description: 스마트 목록 이해 - Marketo 문서 - 제품 설명서
 title: 스마트 목록 이해
+exl-id: 8b7fd845-96d8-4b53-9ad0-118cf55be24a
 translation-type: tm+mt
-source-git-commit: 23339f1ffbe09e68143f3da963852b1347d5088a
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '210'
 ht-degree: 0%
 
 ---
 
-
 # 스마트 목록 이해 {#understanding-smart-lists}
 
-스마트 목록을 사용하면 간단한 필터를 사용하여 특정 사용자 그룹을 찾을 수 있습니다. 스마트 캠페인, 프로그램, 보고서, 세분화, 비즈니스 모델, 참여 프로그램, 동적 컨텐츠 등과 같이 Marketing To의 모든 곳에서 사용됩니다. 필요에 따라 Marketing To 내의 두 위치에서 스마트 목록을 만들 수 있습니다.
+스마트 목록을 사용하면 간단한 필터를 사용하여 특정 사용자 그룹을 찾을 수 있습니다. 스마트 캠페인, 프로그램, 보고서, 세분화, 비즈니스 모델, 참여 프로그램, 동적 컨텐츠 등과 같이 Marketo을 비롯한 모든 곳에서 사용됩니다. 필요에 따라 Marketo 내의 두 위치에서 스마트 목록을 만들 수 있습니다.
 
 1. **데이터베이스**&#x200B;에서 공유/전역 용도로 사용할 수 있습니다(예: &quot;가입되지 않은 모든 사람&quot;).
 1. **프로그램**&#x200B;에서 해당 특정 프로그램과 관련이 있는 사람 그룹(예: &quot;참석한 무역 박람회&quot;)을 찾습니다.
