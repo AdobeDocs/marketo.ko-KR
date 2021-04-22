@@ -1,23 +1,23 @@
 ---
 unique-page-id: 4719308
-description: Marketing To Sync - Marketing To Docs - 제품 문서에 기존 Salesforce 필드 추가
-title: Marketing To Sync에 기존 Salesforce 필드 추가
+description: Marketo Sync - Marketo Docs - 제품 문서에 기존 Salesforce 필드 추가
+title: Marketo Sync에 기존 Salesforce 필드 추가
+exl-id: 6030aedd-9c4b-411f-89c7-f35fd39b0066
 translation-type: tm+mt
-source-git-commit: ed83438ae5660d172e845f25c4d72d599574bd91
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '158'
 ht-degree: 0%
 
 ---
 
-
-# 기존 Salesforce 필드를 Marketing To Sync {#add-an-existing-salesforce-field-to-the-marketo-sync}에 추가
+# Marketo Sync {#add-an-existing-salesforce-field-to-the-marketo-sync}에 기존 Salesforce 필드 추가
 
 >[!NOTE]
 >
 >**관리자 권한 필요**
 
-일반적으로 Salesforce의 새로운 사용자 정의 필드는 Marketing에 자동으로 동기화됩니다. 그렇지 않은 경우 해당 필드가 Marketing To Sync 사용자에게 표시되지 않을 수 있습니다. 이 문제를 해결하는 방법
+일반적으로 Salesforce의 새로운 사용자 정의 필드는 Marketo에 자동으로 동기화됩니다. 그렇지 않은 경우 Marketo Sync 사용자에게 해당 필드가 표시되지 않을 수 있습니다. 이 문제를 해결하는 방법
 
 1. 이름을 클릭한 다음 **설치**&#x200B;를 선택합니다.
 
@@ -43,8 +43,8 @@ ht-degree: 0%
 
    ![](assets/image2015-6-30-14-3a24-3a49.png)
 
-   달콤해! 다음 동기화 주기에 Marketing Cloud는 해당 필드를 확인하고 마법을 시작합니다.
+   달콤해! 다음 동기화 주기에 Marketo은 해당 필드를 확인하고 마법과 같은 작업을 시작합니다.
 
    >[!NOTE]
    >
-   > 필드에 이미 Salesforce의 값이 있는 경우 다음 레코드 업데이트가 있을 때까지 해당 값은 Marketing Cloud에 동기화되지 않습니다.
+   > 필드에 이미 Salesforce의 값이 있는 경우 다음 레코드 업데이트가 있을 때까지 해당 값은 Marketo에 동기화되지 않습니다.
