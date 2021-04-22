@@ -1,15 +1,15 @@
 ---
 unique-page-id: 2949270
-description: SEO - 경쟁업체 KW 트렌드 보고서 - 마케팅 문서 - 제품 설명서 사용
+description: SEO - 경쟁업체 KW 트렌드 보고서 사용 - Marketo 문서 - 제품 설명서
 title: SEO - 경쟁업체 KW 트렌드 보고서 사용
+exl-id: c36e84d0-ca8d-4618-a1ad-9b903f317792
 translation-type: tm+mt
-source-git-commit: 37697e2d6f1d86a6cd1de5d567a3d384160415cb
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '184'
 ht-degree: 0%
 
 ---
-
 
 # SEO - 경쟁업체 KW 트렌드 보고서 사용 {#seo-use-the-competitor-kw-trends-report}
 
