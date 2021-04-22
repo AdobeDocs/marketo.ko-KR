@@ -1,23 +1,23 @@
 ---
 unique-page-id: 1147062
-description: 스마트 캠페인에서 차단된 사람 보기 - 마케팅 문서 - 제품 문서
+description: 스마트 캠페인에서 차단된 사람 보기 - Marketo 문서 - 제품 설명서
 title: 스마트 캠페인에서 차단된 사람 보기
+exl-id: 7adf00fe-4893-42ea-8077-b7a1bed1866f
 translation-type: tm+mt
-source-git-commit: 5b9f48c98464c79bcdca2e335f6a4a2edce98ce4
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '189'
 ht-degree: 0%
 
 ---
 
-
 # 스마트 캠페인에서 차단된 사람 보기 {#view-blocked-people-in-a-smart-campaign}
 
-Marketing 데이터베이스에서 차단된 사람은 차단 목록에 추가된 표시, 가입 취소, 마케팅 일시 중단 및/또는 잘못된 이메일 또는 빈 이메일을 가지고 있습니다.
+Marketo 데이터베이스에서 차단된 사람은 차단 목록에 추가된 표시, 가입 취소, 마케팅 일시 중단 및/또는 잘못된 이메일 또는 빈 이메일을 가지고 있습니다.
 
 >[!NOTE]
 >
->Marketing은 Blacklist 및 Whitelist와 같은 용어를 Adobe 제품차단 목록에 추가하다의 및 허용 목록에 추가하다로 변경하는 중입니다. 이 업데이트 중에 UI 및 문서 스크린샷의 이전 용어와 설명서 텍스트의 새 용어를 볼 수 있습니다. 혼동을 사과드립니다.
+>Marketo은 블랙 리스트 및 화이트 리스트와 같은 용어를 제품차단 목록에 추가하다의 및 허용 목록에 추가하다로 변경하는 과정에 있습니다. 이 업데이트 중에 UI 및 문서 스크린샷의 이전 용어와 설명서 텍스트의 새 용어를 볼 수 있습니다. 혼동을 사과드립니다.
 
 1. 스마트 캠페인에서 **예약**&#x200B;을 클릭합니다. **스마트 목록 상태**&#x200B;에서 두 번째 링크를 클릭합니다.
 
