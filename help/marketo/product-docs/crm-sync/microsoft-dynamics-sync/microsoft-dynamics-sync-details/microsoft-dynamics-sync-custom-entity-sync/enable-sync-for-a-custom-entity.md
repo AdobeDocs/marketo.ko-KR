@@ -1,19 +1,19 @@
 ---
 unique-page-id: 2953384
-description: 사용자 지정 개체에 대한 동기화 활성화 - Marketing To Docs - 제품 설명서
+description: 사용자 지정 개체에 대한 동기화 활성화 - Marketo 문서 - 제품 설명서
 title: 사용자 지정 엔터티에 대해 동기화 활성화
+exl-id: 4b075bf3-f10b-4725-8c8e-a6ecee63d756
 translation-type: tm+mt
-source-git-commit: 2b5ccd7220557a5e966d33436d0f0d2a65e4589d
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '172'
 ht-degree: 0%
 
 ---
 
-
 # 사용자 지정 엔터티 {#enable-sync-for-a-custom-entity}에 대한 동기화 사용
 
-Marketing To에서 Dynamics의 사용자 지정 엔티티 데이터를 사용할 수 있어야 하는 경우 동기화를 활성화하는 방법은 다음과 같습니다.
+Dynamics의 사용자 지정 엔티티 데이터를 Marketo에서 사용할 수 있어야 하는 경우 동기화를 활성화하는 방법은 다음과 같습니다.
 
 >[!NOTE]
 >
