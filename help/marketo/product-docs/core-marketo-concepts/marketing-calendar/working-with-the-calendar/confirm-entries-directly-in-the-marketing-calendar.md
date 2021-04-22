@@ -1,15 +1,15 @@
 ---
 unique-page-id: 2953362
-description: 마케팅 달력 - 마케팅 문서 - 제품 문서에서 바로 항목 확인
+description: 마케팅 달력 - Marketo 문서 - 제품 문서에서 직접 항목 확인
 title: 마케팅 달력에서 직접 항목 확인
+exl-id: f0074982-0cdc-44b9-b6f9-eb47407aba58
 translation-type: tm+mt
-source-git-commit: e5050328cbddaf072dd60ddd8d7363a704e720b5
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '87'
 ht-degree: 0%
 
 ---
-
 
 # 마케팅 달력 {#confirm-entries-directly-in-the-marketing-calendar}에서 직접 항목 확인
 
