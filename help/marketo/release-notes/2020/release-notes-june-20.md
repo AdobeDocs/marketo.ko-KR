@@ -1,19 +1,19 @@
 ---
 unique-page-id: 37357276
-description: 릴리스 노트 - 2006년 6월 20일 - 마케팅 문서 - 제품 설명서
+description: 릴리스 노트 - 2006년 6월 20일 - Marketo 문서 - 제품 설명서
 title: 릴리스 노트 -2006년 6월
+exl-id: ffc39c9f-8c0c-45af-8ee6-f58971e230b9
 translation-type: tm+mt
-source-git-commit: b33f5ed707a1377daad51191cc6dd9f093138258
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '1073'
 ht-degree: 0%
 
 ---
 
-
 # 릴리스 노트:1920년 6월 {#release-notes-june}
 
-다음 기능은 2006년 6월 릴리스에 포함되어 있습니다. 기능 가용성을 확인하려면 Marketing Edition을 확인하십시오.
+다음 기능은 2006년 6월 릴리스에 포함되어 있습니다. 기능을 사용할 수 있는지 Marketo 에디션을 확인하십시오.
 
 >[!AVAILABILITY]
 >
