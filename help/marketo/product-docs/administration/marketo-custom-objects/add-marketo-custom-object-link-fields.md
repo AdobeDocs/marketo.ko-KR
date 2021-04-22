@@ -1,17 +1,17 @@
 ---
 unique-page-id: 10097613
-description: 마케팅 to 사용자 지정 개체 링크 필드 추가 - 마케팅 문서 - 제품 설명서
-title: 마케팅을 사용자 지정 개체 링크 필드에 추가
+description: Marketo 사용자 지정 개체 링크 필드 추가 - Marketo 문서 - 제품 설명서
+title: Marketo 사용자 지정 개체 링크 필드 추가
+exl-id: e7537d79-9fca-4966-881a-9d7d312008e2
 translation-type: tm+mt
-source-git-commit: f865630638e7c0fe6ac2a449e196a7de4fbfeea1
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '601'
 ht-degree: 0%
 
 ---
 
-
-# 마케팅을 사용자 지정 개체 링크 필드 추가 {#add-marketo-custom-object-link-fields}
+# Marketo 사용자 지정 개체 링크 필드 추가 {#add-marketo-custom-object-link-fields}
 
 사용자 지정 개체를 만들 때 사용자 지정 개체 레코드를 올바른 상위 레코드에 연결하려면 링크 필드를 제공해야 합니다.
 
@@ -22,7 +22,7 @@ ht-degree: 0%
 
 사용자 지정 개체에서 일대다 구조에 대한 링크 필드를 만드는 방법을 설명합니다.
 
-1. **관리**&#x200B;를 클릭하고 **데이터베이스 관리**&#x200B;에서 **마케팅 사용자 지정 개체**&#x200B;를 선택합니다.
+1. **관리**&#x200B;를 클릭하고 **데이터베이스 관리**&#x200B;에서 **Marketo 사용자 지정 개체**&#x200B;를 선택합니다.
 
    ![](assets/image2016-1-18-13-3a25-3a11.png)
 
@@ -72,7 +72,7 @@ ht-degree: 0%
 >
 >중간 객체와 연결하려는 사용자 정의 객체를 이미 생성한 상태여야 합니다.
 
-1. **관리**&#x200B;를 클릭하고 **데이터베이스 관리**&#x200B;에서 **마케팅 사용자 지정 개체**&#x200B;를 선택합니다.
+1. **관리**&#x200B;를 클릭하고 **데이터베이스 관리**&#x200B;에서 **Marketo 사용자 지정 개체**&#x200B;를 선택합니다.
 
    ![](assets/image2016-1-18-9-3a8-3a14.png)
 
@@ -122,8 +122,8 @@ ht-degree: 0%
 
 >[!MORELIKETHIS]
 >
->* [마케팅을 사용자 지정 개체 필드에 추가](/help/marketo/product-docs/administration/marketo-custom-objects/add-marketo-custom-object-fields.md)
->* [마케팅 사용자 지정 개체 편집 및 삭제](/help/marketo/product-docs/administration/marketo-custom-objects/edit-and-delete-a-marketo-custom-object.md)
->* [마케팅 사용자 지정 개체 이해](/help/marketo/product-docs/administration/marketo-custom-objects/understanding-marketo-custom-objects.md)
->* [마케팅 사용자 지정 개체 필드 편집 및 삭제](/help/marketo/product-docs/administration/marketo-custom-objects/edit-and-delete-marketo-custom-object-fields.md)
+>* [Marketo 사용자 정의 개체 필드 추가](/help/marketo/product-docs/administration/marketo-custom-objects/add-marketo-custom-object-fields.md)
+>* [Marketo 사용자 정의 개체 편집 및 삭제](/help/marketo/product-docs/administration/marketo-custom-objects/edit-and-delete-a-marketo-custom-object.md)
+>* [Marketo 사용자 정의 개체 이해](/help/marketo/product-docs/administration/marketo-custom-objects/understanding-marketo-custom-objects.md)
+>* [Marketo 사용자 정의 개체 필드 편집 및 삭제](/help/marketo/product-docs/administration/marketo-custom-objects/edit-and-delete-marketo-custom-object-fields.md)
 
