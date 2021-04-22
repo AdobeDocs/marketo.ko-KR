@@ -1,19 +1,19 @@
 ---
 unique-page-id: 7512272
-description: WebEx를 LaunchPoint 서비스로 추가 - Marketing To Docs - 제품 설명서
+description: WebEx를 LaunchPoint 서비스로 추가 - Marketo Docs - 제품 설명서
 title: WebEx를 LaunchPoint 서비스로 추가
+exl-id: 2c2cedde-d38f-4d53-a760-104b517afc4c
 translation-type: tm+mt
-source-git-commit: 78961a3e163ce903facf955a9dda6909b5e85bad
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '143'
 ht-degree: 0%
 
 ---
 
-
 # WebEx를 LaunchPoint 서비스로 추가 {#add-webex-as-a-launchpoint-service}
 
-Marketing에서 WebEx 웨비나 등록 및 참석을 관리합니다.
+Marketo은 WebEx 웨비나 등록 및 참석을 관리합니다.
 
 >[!NOTE]
 >
@@ -51,7 +51,7 @@ Marketing에서 WebEx 웨비나 등록 및 참석을 관리합니다.
 
    ![](assets/image2015-4-24-18-3a58-3a43.png)
 
-1. 대단해! 이제 **WebEx**&#x200B;이(가) Marketing과 동기화됩니다.
+1. 대단해! 이제 **WebEx**&#x200B;이(가) Marketo과 동기화됩니다.
 
    ![](assets/webex.png)
 
