@@ -1,15 +1,15 @@
 ---
 unique-page-id: 2359416
-description: 이메일 자동 응답 - 마케팅 문서 - 제품 설명서
+description: 이메일 자동 응답 - Marketo 문서 - 제품 설명서
 title: 이메일 자동 응답
+exl-id: c9c0a154-65ec-4845-97a0-a2100223cb13
 translation-type: tm+mt
-source-git-commit: d7d6aee63144c472e02fe0221c4a164183d04dd4
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '384'
 ht-degree: 0%
 
 ---
-
 
 # 전자 메일 자동 응답 {#email-auto-response}
 
