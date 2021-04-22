@@ -1,15 +1,15 @@
 ---
 unique-page-id: 1146989
-description: 캠페인 작업 - 스마트 캠페인 복제 - 마케팅 문서 - 제품 설명서
+description: 캠페인 작업 - 스마트 캠페인 복제 - Marketo 문서 - 제품 설명서
 title: 캠페인 작업 - 스마트 캠페인 복제
+exl-id: 47441923-5a6a-4a9e-9753-85959bd3744f
 translation-type: tm+mt
-source-git-commit: 4a0bd2efe99284807a46d07ffef0070d9a303631
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '90'
 ht-degree: 0%
 
 ---
-
 
 # 캠페인 작업:스마트 캠페인 복제 {#campaign-actions-clone-a-smart-campaign}
 
