@@ -1,15 +1,15 @@
 ---
 unique-page-id: 2949413
-description: 스마트 목록 필터 - 마케팅 문서 - 제품 문서에 제한 추가
+description: 스마트 목록 필터에 제한 추가 - Marketo 문서 - 제품 설명서
 title: 스마트 목록 필터에 제한 추가
+exl-id: 5345019c-55e7-4afd-b583-90f1a687a71c
 translation-type: tm+mt
-source-git-commit: 5b9f48c98464c79bcdca2e335f6a4a2edce98ce4
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '175'
 ht-degree: 0%
 
 ---
-
 
 # 스마트 목록 필터 {#add-a-constraint-to-a-smart-list-filter}에 제한 추가
 
