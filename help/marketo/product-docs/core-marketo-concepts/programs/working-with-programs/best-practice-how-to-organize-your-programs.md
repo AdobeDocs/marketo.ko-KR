@@ -1,15 +1,15 @@
 ---
 unique-page-id: 6848705
-description: 우수 사례 - 프로그램 구성 방법 - Marketing To Docs - 제품 설명서
+description: 우수 사례 - 프로그램 구성 방법 - Marketo 문서 - 제품 설명서
 title: 모범 사례 - 프로그램 구성 방법
+exl-id: 018a3fbd-b741-4005-9695-56958063d71a
 translation-type: tm+mt
-source-git-commit: 07f713ece9832b7696451001f61c6a3b45b4a94a
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '843'
 ht-degree: 0%
 
 ---
-
 
 # 모범 사례:프로그램 구성 방법 {#best-practice-how-to-organize-your-programs}
 
@@ -62,7 +62,7 @@ ht-degree: 0%
 
 ## 이름 지정 구성표 {#naming-schemes}
 
-Marketing의 모든 기능이 커뮤니케이션을 위해 공통 언어를 사용하기 때문에 이름 지정은 매우 중요합니다. 프로그램의 경우 고유한 이름을 지정해야 합니다. **이름이 같은 프로그램은 두 개 없습니다**. 다음 형식을 사용하는 것이 좋습니다.
+Marketo의 기능은 모두 공통 언어를 사용하여 커뮤니케이션하므로 이름 지정은 매우 중요합니다. 프로그램의 경우 고유한 이름을 지정해야 합니다. **이름이 같은 프로그램은 두 개 없습니다**. 다음 형식을 사용하는 것이 좋습니다.
 
 [Program TypeYYYY] [-]MM[-]Optional [ ] [DDBrief 설명]
 
@@ -113,7 +113,7 @@ Marketing의 모든 기능이 커뮤니케이션을 위해 공통 언어를 사�
 
 ## {#cloning} 복제
 
-Marketing To에서 가장 멋진 기능 중 하나는 프로그램 복제 기능입니다. 즉, 원하는 모든 스마트 캠페인과 이메일이 포함된 &quot;템플릿&quot; 프로그램을 설정할 수 있습니다. 사전 설정한 다음 향후 마케팅 이니셔티브를 위해 복제하여 배포할 수 있습니다.
+Marketo에서 가장 멋진 기능 중 하나는 프로그램 복제 기능입니다. 즉, 원하는 모든 스마트 캠페인과 이메일이 포함된 &quot;템플릿&quot; 프로그램을 설정할 수 있습니다. 사전 설정한 다음 향후 마케팅 이니셔티브를 위해 복제하여 배포할 수 있습니다.
 
 >[!TIP]
 >
@@ -123,4 +123,4 @@ Marketing To에서 가장 멋진 기능 중 하나는 프로그램 복제 기능
 
 ## 요약 {#summary}
 
-보시다시피 Marketing Cloud에는 많은 파워가 있습니다. 여기서는 기본 사항을 설명했지만 성공을 위해 세밀하게 조정하고 자신을 설정하기 위해 Marketing To Experts](https://www.marketo.com/services/)의 일부 [추가 서비스를 고려합니다.
+보시다시피 Marketo에는 많은 파워가 있습니다. 여기서는 기본 사항을 다루었지만 성공을 위해 세밀하게 조정하고 자신을 설정하려면 Marketo 전문가](https://www.marketo.com/services/)의 일부 [추가 서비스를 고려합니다.
