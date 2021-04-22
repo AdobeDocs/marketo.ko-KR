@@ -1,15 +1,15 @@
 ---
 unique-page-id: 1147078
-description: 개인 파티션 변경 - 마케팅 문서 - 제품 설명서
+description: 개인 파티션 변경 - Marketo 문서 - 제품 설명서
 title: 개인 파티션 변경
+exl-id: 7b2e0de0-2b49-4f7c-b4d5-47e1a16eb98d
 translation-type: tm+mt
-source-git-commit: 4a0bd2efe99284807a46d07ffef0070d9a303631
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '50'
 ht-degree: 0%
 
 ---
-
 
 # 개인 파티션 변경 {#change-person-partition}
 
