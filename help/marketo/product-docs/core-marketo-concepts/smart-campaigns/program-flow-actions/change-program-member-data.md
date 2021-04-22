@@ -1,18 +1,18 @@
 ---
-description: 프로그램 멤버 데이터 변경 - 마케팅 문서 - 제품 설명서
+description: 프로그램 멤버 데이터 변경 - Marketo 문서 - 제품 설명서
 title: 프로그램 멤버 데이터 변경
+exl-id: 2ed8468e-0dbb-48c1-be60-7b51e92f9095
 translation-type: tm+mt
-source-git-commit: cfefff241b34571b9778cbd827f45d1b468d121e
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '140'
 ht-degree: 0%
 
 ---
 
-
 # 프로그램 멤버 데이터 변경 {#change-program-member-data}
 
-Marketing을 사용하여 데이터 값 변경 플로우 작업을 활용하여 필드의 값을 업데이트할 수 있습니다.
+Marketo을 사용하여 데이터 값 변경 플로우 작업을 활용하여 필드의 값을 업데이트할 수 있습니다.
 
 >[!NOTE]
 >
