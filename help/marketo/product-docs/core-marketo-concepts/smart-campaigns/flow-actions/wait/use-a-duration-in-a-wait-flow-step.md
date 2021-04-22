@@ -1,15 +1,15 @@
 ---
 unique-page-id: 1146978
-description: 대기 흐름 단계의 기간 사용 - 마케팅 문서 - 제품 설명서
+description: 대기 흐름 단계의 기간 사용 - Marketo 문서 - 제품 설명서
 title: 대기 흐름 단계에서 지속 시간 사용
+exl-id: 7b13d225-78ba-4ef1-9ff5-0f6acde6e5ff
 translation-type: tm+mt
-source-git-commit: 5b9f48c98464c79bcdca2e335f6a4a2edce98ce4
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '203'
 ht-degree: 0%
 
 ---
-
 
 # 대기 흐름 단계 {#use-a-duration-in-a-wait-flow-step}에서 지속 시간 사용
 
