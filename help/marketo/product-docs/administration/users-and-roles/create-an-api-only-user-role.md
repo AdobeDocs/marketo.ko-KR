@@ -1,6 +1,6 @@
 ---
 unique-page-id: 2360203
-description: API 전용 사용자 역할 만들기 - 마케팅 문서 - 제품 설명서
+description: API 전용 사용자 역할 만들기 - Marketo 문서 - 제품 설명서
 title: API 전용 사용자 역할 만들기
 translation-type: tm+mt
 source-git-commit: f79909ce8f2e37bf0748596774fe47ac03618696
@@ -13,13 +13,13 @@ ht-degree: 0%
 
 # API 전용 사용자 역할 {#create-an-api-only-user-role} 만들기
 
-[REST API](https://developers.marketo.com/documentation/rest/)를 통해 Marketing과 통합하려면 [사용자에게 API 전용 역할](/help/marketo/product-docs/administration/users-and-roles/create-an-api-only-user.md)을 지정한 다음 [ReST API](/help/marketo/product-docs/administration/additional-integrations/create-a-custom-service-for-use-with-rest-api.md)에 사용할 사용자 지정 서비스를 만드는 것이 좋습니다. API 전용 사용자 역할을 만드는 방법은 다음과 같습니다.
+[REST API](https://developers.marketo.com/documentation/rest/)를 통해 Marketo과 통합하려면 [사용자에게 API 전용 역할](/help/marketo/product-docs/administration/users-and-roles/create-an-api-only-user.md)을 할당한 다음 [ReST API](/help/marketo/product-docs/administration/additional-integrations/create-a-custom-service-for-use-with-rest-api.md)에 사용할 사용자 지정 서비스를 만드는 것이 좋습니다. API 전용 사용자 역할을 만드는 방법은 다음과 같습니다.
 
 >[!NOTE]
 >
 >**관리자 권한 필요**
 
-1. 내 마켓플레이스에서 **관리**&#x200B;를 클릭합니다.
+1. 내 Marketo에서 **관리**&#x200B;를 클릭합니다.
 
    ![](assets/adminhand-1.png)
 
