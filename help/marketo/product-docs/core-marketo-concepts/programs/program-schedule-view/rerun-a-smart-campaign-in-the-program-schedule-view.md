@@ -1,15 +1,15 @@
 ---
 unique-page-id: 2953331
-description: 프로그램 예약 보기 - 마케팅 문서 - 제품 문서에서 스마트 캠페인 다시 실행
+description: 프로그램 예약 보기 - Marketo 문서 - 제품 문서에서 스마트 캠페인 다시 실행
 title: 프로그램 예약 보기에서 스마트 캠페인 다시 실행
+exl-id: 59ef61f5-cd7d-440e-afcf-54a79d1225ae
 translation-type: tm+mt
-source-git-commit: e5050328cbddaf072dd60ddd8d7363a704e720b5
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '135'
 ht-degree: 0%
 
 ---
-
 
 # 프로그램 예약 보기 {#rerun-a-smart-campaign-in-the-program-schedule-view}에서 스마트 캠페인을 다시 실행합니다.
 
