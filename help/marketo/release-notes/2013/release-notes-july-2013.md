@@ -1,15 +1,15 @@
 ---
 unique-page-id: 2951093
-description: 릴리스 노트 - 2013년 7월 - Marketing Docs - 제품 설명서
+description: 릴리스 노트 - 2013년 7월 - Marketo 문서 - 제품 설명서
 title: 릴리스 노트 - 2013년 7월
+exl-id: efff413f-99fe-4db6-839b-1a922f8581d9
 translation-type: tm+mt
-source-git-commit: 029d8b419ba5078980b4fde9890bdb35194bf264
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '198'
 ht-degree: 0%
 
 ---
-
 
 # 릴리스 노트:2013년 7월 {#release-notes-july}
 
