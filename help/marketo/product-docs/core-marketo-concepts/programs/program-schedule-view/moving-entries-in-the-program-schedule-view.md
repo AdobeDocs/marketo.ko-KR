@@ -1,15 +1,15 @@
 ---
 unique-page-id: 1147134
-description: 프로그램 예약 보기에서 항목 이동 - 마케팅 문서 - 제품 문서
+description: 프로그램 예약 보기의 항목 이동 - Marketo 문서 - 제품 설명서
 title: 프로그램 스케줄 보기의 항목 이동
+exl-id: 6df2cb23-99d1-4b72-8a1d-ff4466597e8b
 translation-type: tm+mt
-source-git-commit: e5050328cbddaf072dd60ddd8d7363a704e720b5
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '80'
 ht-degree: 0%
 
 ---
-
 
 # 프로그램 스케줄 보기 {#moving-entries-in-the-program-schedule-view}의 항목 이동
 
