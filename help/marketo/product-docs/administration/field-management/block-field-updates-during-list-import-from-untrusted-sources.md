@@ -1,15 +1,15 @@
 ---
 unique-page-id: 2360335
-description: 신뢰할 수 없는 출처의 목록을 가져오는 동안 필드 업데이트 차단 - Marketing To Docs - 제품 설명서
+description: 신뢰할 수 없는 출처의 목록을 가져오는 동안 필드 업데이트 차단 - Marketo Docs - 제품 설명서
 title: 신뢰할 수 없는 출처의 목록을 가져오는 동안 필드 업데이트 차단
+exl-id: 0fd59f0c-6cb9-442c-937b-da18a4466873
 translation-type: tm+mt
-source-git-commit: f865630638e7c0fe6ac2a449e196a7de4fbfeea1
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '205'
 ht-degree: 0%
 
 ---
-
 
 # 신뢰할 수 없는 원본에서 목록을 가져오는 동안 필드 업데이트 차단{#block-field-updates-during-list-import-from-untrusted-sources}
 
