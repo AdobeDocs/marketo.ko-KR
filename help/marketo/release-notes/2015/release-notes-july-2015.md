@@ -1,21 +1,21 @@
 ---
 unique-page-id: 8783189
-description: 릴리스 노트 - 2015년 7월 - Marketing Docs - 제품 설명서
+description: 릴리스 노트 - 2015년 7월 - Marketo 문서 - 제품 설명서
 title: 릴리스 노트 - 2015년 7월
+exl-id: d7658718-27fd-4699-8fac-c30a59802dfd
 translation-type: tm+mt
-source-git-commit: 029d8b419ba5078980b4fde9890bdb35194bf264
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '286'
 ht-degree: 0%
 
 ---
 
-
 # 릴리스 노트:2015년 7월 {#release-notes-july}
 
-## 마케팅 모멘트 {#marketo-moments}
+## Marketo 모멘트 {#marketo-moments}
 
-점심 시간에 나가는데 이메일을 다시 예약해야 하나요? App Store 또는 Google Play에서 제공하는 Marketing Tomps 앱을 사용하면 iPhone, iPad 또는 Android 폰에서 이메일 및 이벤트 캠페인이 어떻게 실시간으로 수행되고 있는지, 향후 출시될 내용을 확인할 수 있습니다.
+점심 시간에 나가는데 이메일을 다시 예약해야 하나요? App Store 또는 Google Play에서 제공하는 Marketo Moments 앱을 사용하면 iPhone, iPad 또는 Android 폰에서 이메일 및 이벤트 캠페인의 성과를 실시간으로 확인하고 향후 출시될 내용을 확인할 수 있습니다.
 
 ![](assets/image2015-7-10-9-3a42-3a29.png)
 
@@ -48,7 +48,7 @@ ht-degree: 0%
 
 ## 회사 API {#company-api}
 
-**REST API를 통한 회사 개체 액세스**:이제 REST API에서 Marketing Company(a.k.a. Account) 개체에 대한 액세스를 제공합니다. 즉, Marketing Cloud에서 만든 회사 개체를 읽고, 업데이트하고, 삭제하고, 업데이트된 리드 API를 사용하여 리드를 해당 회사와 연결할 수 있습니다.
+**REST API를 통한 회사 개체 액세스**:이제 REST API에서 Marketo 회사(예: 계정) 개체에 대한 액세스를 제공합니다. 즉, Marketo에서 만든 회사 개체를 읽고, 업데이트하고, 삭제하고, 업데이트된 리드 API를 사용하여 리드를 해당 회사와 연결할 수 있습니다.
 
 회사 API에 대한 참조 안내서에서 [자세히](https://developers.marketo.com/documentation/company-api/)에 대해 알아봅니다.
 
