@@ -1,15 +1,15 @@
 ---
 unique-page-id: 2359902
-description: 구독에 대한 기본 위치 설정 - 마케팅 문서 - 제품 설명서
+description: 구독에 대한 기본 위치 설정 - Marketo 문서 - 제품 설명서
 title: 구독에 대한 기본 위치 설정
+exl-id: 9181e22b-be60-4dc0-bc75-f4583ee5dbea
 translation-type: tm+mt
-source-git-commit: f79909ce8f2e37bf0748596774fe47ac03618696
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '246'
 ht-degree: 0%
 
 ---
-
 
 # 구독 {#set-default-location-settings-for-a-subscription}에 대한 기본 위치 설정
 
@@ -43,7 +43,7 @@ ht-degree: 0%
 
    >[!NOTE]
    >
-   >[Salesforce.com](https://salesforce.com/)에 대한 Marketing To Sales Insight는 프랑스어, 독일어, 일본어, 포르투갈어 및 스페인어를 지원합니다.
+   >[Salesforce.com](https://salesforce.com/)에 대한 Marketo Sales Insight는 프랑스어, 독일어, 일본어, 포르투갈어 및 스페인어를 지원합니다.
 
 ## 구독 {#set-the-default-currency-settings-for-a-subscription}에 대한 기본 통화 설정
 
