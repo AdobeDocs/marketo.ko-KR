@@ -1,15 +1,15 @@
 ---
 unique-page-id: 1146985
-description: 스마트 캠페인 - 마케팅 문서 - 제품 문서에서 흐름 단계 순서 바꾸기
+description: 스마트 캠페인에서 흐름 단계 순서 바꾸기 - Marketo 문서 - 제품 설명서
 title: 스마트 캠페인에서 흐름 단계 순서 바꾸기
+exl-id: 5cf4dac1-d21a-44ff-a485-c24a91e83fc9
 translation-type: tm+mt
-source-git-commit: 4a0bd2efe99284807a46d07ffef0070d9a303631
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '96'
 ht-degree: 0%
 
 ---
-
 
 # 스마트 캠페인 {#reorder-the-flow-steps-in-a-smart-campaign}에서 흐름 단계 순서 변경
 
