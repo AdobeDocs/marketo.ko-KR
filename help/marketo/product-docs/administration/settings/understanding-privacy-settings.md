@@ -1,28 +1,28 @@
 ---
 unique-page-id: 10617187
-description: 개인 정보 설정 이해 - 마케팅 문서 - 제품 설명서
+description: 개인 정보 설정 이해 - Marketo 문서 - 제품 설명서
 title: 개인 정보 설정 이해
+exl-id: 1fde9011-02a9-4ec9-bfa4-c56a52ce1eed
 translation-type: tm+mt
-source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '521'
 ht-degree: 0%
 
 ---
 
-
 # 개인 정보 설정 이해 {#understanding-privacy-settings}
 
 ## 개요 {#overview}
 
-마케터는 웹 방문자의 동의를 얻어 추적하는 방법을 제공합니다. 수신 거부하는 방법에는 두 가지가 있으며, 익명 처리된 IP로 추적하도록 선택할 수도 있습니다.
+Marketo은 마케터에게 웹 방문자의 동의를 얻어 이를 추적하는 방법을 제공합니다. 수신 거부하는 방법에는 두 가지가 있으며, 익명 처리된 IP로 추적하도록 선택할 수도 있습니다.
 
 * 웹 방문자는 브라우저에서 DNT(추적 안 함) 기능을 선택합니다(그리고 마케터는 웹 방문자의 추적 안 함 요청을 처리합니다.)
 * 웹 방문자는 웹 사이트의 마케터가 제공하는 옵트아웃 쿠키를 사용합니다
 
 또는 마케터는 사용자를 추적할 수 있지만 익명 처리된 IP를 사용할 수 있습니다.
 
-이러한 메서드는 특정 영역의 Marketing To 값과 기능에 영향을 줄 수 있습니다. 그러나 마케터 *이 Marketing의 구성에서*&#x200B;의 변경 사항이 없는 경우 Marketing To 기능은 동일하게 유지됩니다.
+이러한 방법은 특정 영역의 Marketo 가치 및 기능에 영향을 줄 수 있습니다. 그러나 마케터 *이 Marketo 구성의*&#x200B;을 변경하지 않으면 Marketo 기능은 동일하게 유지됩니다.
 
 ## {#browser-settings-for-do-not-track}을(를) 추적하지 않기 위한 브라우저 설정
 
@@ -50,7 +50,7 @@ Munchkin에서 마케터는 [브라우저의 DNT 설정](/help/marketo/product-d
 
 ![](assets/opt-out-2.png)
 
-링크를 클릭하면 Marketing은 위의 매개 변수로 링크를 클릭하는 사이트 방문자에 대한 Munchkin 추적을 비활성화하는 방문자의 브라우저에 **mkto_opt_out**&#x200B;이라는 쿠키를 추가합니다.
+링크를 클릭하면 Marketo은 위의 매개 변수로 링크를 클릭하는 사이트 방문자에 대한 Munchkin 추적을 비활성화하는 방문자의 브라우저에 **mkto_opt_out**&#x200B;이라는 쿠키를 추가합니다.
 
 쿠키를 생성할 수 있는지 확인하려면 쿠키 리드가 있는지 확인하고 링크를 클릭합니다. 그런 다음 브라우저 쿠키를 확인하여 **mkto_opt_out** 쿠키가 추가되었는지 확인합니다.
 
@@ -62,7 +62,7 @@ Munchkin에서 마케터는 [브라우저의 DNT 설정](/help/marketo/product-d
 
 ## {#opt-in} 옵트인
 
-마케터는 이메일, 양식, 랜딩 페이지 및 기타 방법으로 Marketing To의 기능을 사용하여 사용자가 옵트인할 수 있도록 할 수 있습니다.
+마케터는 이메일, 양식, 랜딩 페이지 및 기타 방식을 통해 Marketo의 기능을 사용하여 사용자가 옵트인할 수 있도록 할 수 있습니다.
 
 ## 익명 처리된 IP {#tracking-using-an-anonymized-ip} 사용 추적
 
@@ -72,7 +72,7 @@ Munchkin에서 마케터는 [브라우저의 DNT 설정](/help/marketo/product-d
 
    >[!NOTE]
    >
-   >이 매개 변수를 사용하려면 Munchkin V2가 활성화되어 있어야 합니다. 구독을 사용하도록 설정하려면 [Marketing Support](https://nation.marketo.com/community/support_solutions)에 문의하십시오.
+   >이 매개 변수를 사용하려면 Munchkin V2가 활성화되어 있어야 합니다. 구독을 사용하도록 설정하려면 [Marketo 지원](https://nation.marketo.com/community/support_solutions)에 문의하십시오.
 
 * 웹 개인화(RTP)의 경우 javascript에 추가합니다.
 
