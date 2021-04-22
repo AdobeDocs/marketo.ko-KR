@@ -1,19 +1,19 @@
 ---
 unique-page-id: 45416698
-description: 릴리스 노트 -20년 7월 - Marketing To Docs - 제품 설명서
+description: 릴리스 노트 -20년 7월 - Marketo 문서 - 제품 설명서
 title: 릴리스 노트 - 2007년 7월
+exl-id: 3c9b1f1d-961c-4bf8-8b99-37b483230506
 translation-type: tm+mt
-source-git-commit: a7c90193e5c934119fa3b6bdf864d1458d1aad7c
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '653'
 ht-degree: 0%
 
 ---
 
-
 # 릴리스 노트:1920년 7월 {#release-notes-july}
 
-2007년 7월 릴리스에는 다음 기능이 포함됩니다. 기능 가용성을 확인하려면 Marketing Edition을 확인하십시오.
+2007년 7월 릴리스에는 다음 기능이 포함됩니다. 기능을 사용할 수 있는지 Marketo 에디션을 확인하십시오.
 
 >[!AVAILABILITY]
 >
@@ -64,5 +64,5 @@ ht-degree: 0%
 * **자산 API &quot;_method&quot; 매개 변수 제거**:2020년 9월 이후 자산 API 끝점은 더 이상 &quot;_method&quot;를 통해 POST 본문에 쿼리 매개 변수를 전달하여 URI 길이 제한을 우회하지 않습니다. 이 매개 변수가 필요한 요청을 수용하기 위해 자산 API에 대한 URI 제한이 8KB에서 65KB로 증가합니다.
 * **[Munchkin Associate 리드](https://developers.marketo.com/blog/deprecation-of-munchkin-associate-lead-method/)**:Munchkin JavaScript Client 버전 159의 이번 릴리스부터 Munchkin Associate Lead 메서드의 사용 중단을 시작할 것입니다. 호출되면 향후 릴리스에서 메서드가 제거된다는 경고가 표시됩니다. 제거되면 해당 메서드가 더 이상 작동하지 않으며 해당 메서드를 사용하려고 시도해도 실패합니다. 최근 이 방법을 사용한 Marketo Engage 고객은 개별적으로 사용 사실을 통보받게 됩니다.
 * **Internet Explorer** 지원:이전에 발표했듯이 Internet Explorer 11에 대한 Marketo Engage 지원은 2020년 **7월 31일에 종료됩니다**. Google Chrome, Mozilla Firefox, Apple Safari 및 Microsoft Edge를 계속 지원할 예정입니다.
-* **하늘 기본 경험**:관리자 또는 사용자가 Marketo Sky을 기본 경험으로 설정할 수 있는 옵션은 기본 사용자 환경에 대한 업데이트를 준비할 때 이 릴리스에서 제거됩니다. 올해 말로 예정되어 있는 기본 경험에 대한 업데이트에 대한 더 자세한 내용은 7월에 제공될 예정입니다. Marketo Sky을 기본 경험으로 설정했거나 Marketo Sky에 대한 액세스 권한을 받은 사용자는 내 마케팅 홈 페이지의 타일에서 Marketo Sky에 계속 액세스할 수 있습니다.
+* **하늘 기본 경험**:관리자 또는 사용자가 Marketo Sky을 기본 경험으로 설정할 수 있는 옵션은 기본 사용자 환경에 대한 업데이트를 준비할 때 이 릴리스에서 제거됩니다. 올해 말로 예정되어 있는 기본 경험에 대한 업데이트에 대한 더 자세한 내용은 7월에 제공될 예정입니다. Marketo Sky을 기본 경험으로 설정했거나 Marketo Sky에 대한 액세스 권한을 받은 사용자는 내 Marketo 홈 페이지의 타일에서 Marketo Sky에 계속 액세스할 수 있습니다.
 * **EdgeHTML(Chromium 아님) Microsoft Edge 지원**:Marketo Engage은 2020년 말 Microsoft Edge의 EdgeHTML 버전을 더 이상 지원하지 않습니다. 2021년 1월 1일부터 최신 Chromium 버전의 Microsoft Edge만 지원할 예정입니다.
