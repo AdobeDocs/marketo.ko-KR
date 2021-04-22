@@ -1,19 +1,19 @@
 ---
 unique-page-id: 37355826
-description: 릴리스 노트 -2009년 2월 20일 - Marketing Docs - 제품 설명서
+description: 릴리스 노트 -2009년 2월 20일 - Marketo 문서 - 제품 설명서
 title: 릴리스 노트 - 2005년 2월 20일
+exl-id: 6216b405-69c6-422b-a78c-7df0e8d271e9
 translation-type: tm+mt
-source-git-commit: b33f5ed707a1377daad51191cc6dd9f093138258
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '650'
 ht-degree: 0%
 
 ---
 
-
 # 릴리스 노트:2월 20일 {#release-notes-feb}
 
-다음 기능은 2009년 2월 20일 릴리스에 포함되어 있습니다. 기능 가용성을 확인하려면 Marketing Edition을 확인하십시오.
+다음 기능은 2009년 2월 20일 릴리스에 포함되어 있습니다. 기능을 사용할 수 있는지 Marketo 에디션을 확인하십시오.
 
 >[!AVAILABILITY]
 >
@@ -52,7 +52,7 @@ ht-degree: 0%
 
 ## 공지 사항 {#announcements}
 
-* **Marketo Engage 성공 센터**:2020년 2월에 Marketing To Success Center를 런칭할 예정입니다. 성공 센터는 Marketo Engage 인스턴스에서 바로 제품 문서 및 커뮤니티를 검색하고, 방법 가이드를 실행하고, Marketing University와 같은 채택 컨텐츠와 피어 모범 사례 비디오 등을 액세스할 수 있는 제품 내 도움말 센터입니다. **참고**:이 기능은 ANZ에서 베타 버전으로 출시되며, 분기말에 북미 지역에 출시될 예정입니다.
+* **Marketo Engage 성공 센터**:2020년 2월에 Marketo 성공 센터를 런칭할 예정입니다. Success Center는 제품 문서 및 커뮤니티를 검색하고, 방법 가이드를 실행하고, Marketo University와 같은 채택 컨텐츠 및 피어 모범 사례 비디오 등을 Marketo Engage 인스턴스에서 바로 이용할 수 있는 제품 내 도움말 센터입니다. **참고**:이 기능은 ANZ에서 베타 버전으로 출시되며, 분기말에 북미 지역에 출시될 예정입니다.
 
 ## 사용 중단 {#deprecations}
 
