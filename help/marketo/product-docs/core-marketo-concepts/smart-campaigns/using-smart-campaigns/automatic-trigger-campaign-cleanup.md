@@ -1,23 +1,23 @@
 ---
 unique-page-id: 1147074
-description: 자동 트리거 캠페인 정리 - 마케팅 문서 - 제품 설명서
+description: 자동 트리거 캠페인 정리 - Marketo 문서 - 제품 설명서
 title: 자동 트리거 캠페인 정리
+exl-id: 08012b55-e241-4524-a387-9644f5a2b17e
 translation-type: tm+mt
-source-git-commit: 4a0bd2efe99284807a46d07ffef0070d9a303631
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '248'
 ht-degree: 0%
 
 ---
 
-
 # 자동 트리거 캠페인 정리 {#automatic-trigger-campaign-cleanup}
 
-Marketing에는 더 이상 활동을 가져오지 않는 트리거된 스마트 캠페인을 비활성화하기 위한 좋은/무료 서비스가 있습니다. 이렇게 하면 전체 시스템 성능을 높이고 작업 시간을 단축할 수 있습니다.
+Marketo은 더 이상 활동이 없는 트리거된 스마트 캠페인을 비활성화하는 좋은/무료 서비스를 제공합니다. 이렇게 하면 전체 시스템 성능을 높이고 작업 시간을 단축할 수 있습니다.
 
 ## 어떻게 됩니까?{#what-happens}
 
-분기마다 한 번, Marketing은 6개월 이상 휴면된(사람 없음)을 찾아서 비활성화한 스마트한 캠페인을 발견할 것입니다.
+Marketo은 분기마다 6개월 이상 휴면상태(사람 없음)를 유지하고 비활성화한 스마트한 캠페인을 찾을 수 있습니다.
 
 ## 먼저 알려 주시겠어요?{#will-you-notify-me-first}
 
