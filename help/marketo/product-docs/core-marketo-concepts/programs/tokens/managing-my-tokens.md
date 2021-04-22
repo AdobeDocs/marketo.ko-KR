@@ -1,19 +1,19 @@
 ---
 unique-page-id: 1147116
-description: 내 토큰 관리 - 마케팅 문서 - 제품 설명서
+description: 내 토큰 관리 - Marketo 문서 - 제품 설명서
 title: 내 토큰 관리
+exl-id: a2e70c17-a8d4-4723-ac7c-da1979828dc9
 translation-type: tm+mt
-source-git-commit: e5050328cbddaf072dd60ddd8d7363a704e720b5
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '168'
 ht-degree: 0%
 
 ---
 
-
 # 내 토큰 관리 {#managing-my-tokens}
 
-토큰을 사용하면 마케팅의 노력을 간소화할 수 있습니다. 흐름 단계, 웹 후크, 이메일 및 랜딩 페이지에서 [내 토큰](/help/marketo/product-docs/core-marketo-concepts/programs/tokens/understanding-my-tokens-in-a-program.md)(사용자 정의 토큰)을 사용할 수 있습니다. 만드는 방법
+토큰을 사용하면 Marketo의 노력을 간소화할 수 있습니다. 흐름 단계, 웹 후크, 이메일 및 랜딩 페이지에서 [내 토큰](/help/marketo/product-docs/core-marketo-concepts/programs/tokens/understanding-my-tokens-in-a-program.md)(사용자 정의 토큰)을 사용할 수 있습니다. 만드는 방법
 
 >[!TIP]
 >
