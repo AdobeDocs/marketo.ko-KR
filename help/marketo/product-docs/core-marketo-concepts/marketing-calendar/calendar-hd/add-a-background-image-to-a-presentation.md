@@ -1,15 +1,15 @@
 ---
 unique-page-id: 7504437
-description: 프레젠테이션에 배경 이미지 추가 - Marketing To Docs - 제품 설명서
+description: 프레젠테이션에 배경 이미지 추가 - Marketo 문서 - 제품 설명서
 title: 프레젠테이션에 배경 이미지 추가
+exl-id: 3ca33701-0f94-448a-8ecc-45d0b2bfb38e
 translation-type: tm+mt
-source-git-commit: e5050328cbddaf072dd60ddd8d7363a704e720b5
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '93'
 ht-degree: 0%
 
 ---
-
 
 # 프레젠테이션 {#add-a-background-image-to-a-presentation}에 배경 이미지 추가
 
