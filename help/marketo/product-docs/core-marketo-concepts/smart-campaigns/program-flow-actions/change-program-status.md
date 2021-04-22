@@ -1,15 +1,15 @@
 ---
 unique-page-id: 1147007
-description: 프로그램 상태 변경 - 마케팅 문서 - 제품 설명서
+description: 프로그램 상태 변경 - Marketo 문서 - 제품 설명서
 title: 프로그램 상태 변경
+exl-id: ca6076a6-10f4-4687-8486-1bbcb6ea9255
 translation-type: tm+mt
-source-git-commit: 5b9f48c98464c79bcdca2e335f6a4a2edce98ce4
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '135'
 ht-degree: 0%
 
 ---
-
 
 # 프로그램 상태 변경 {#change-program-status}
 
