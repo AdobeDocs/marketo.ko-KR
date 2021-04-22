@@ -1,18 +1,18 @@
 ---
-description: OAuth 2.0 설정 - 마케팅 문서 - 제품 설명서
+description: OAuth 2.0 설정 - Marketo 문서 - 제품 설명서
 title: OAuth 2.0 설정
+exl-id: 0a70505d-d2b8-4dc9-ad11-decc86588f7f
 translation-type: tm+mt
-source-git-commit: 2d03d93e120c8b3ce359c6aca44730cfa7c16bf9
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '327'
 ht-degree: 0%
 
 ---
 
-
 # OAuth 2.0 설정 {#setting-up-oauth-2-0}
 
-Salesforce는 OAuth 프로토콜을 사용하여 애플리케이션 사용자가 로그인 자격 증명을 표시하지 않고도 REST API 호출을 통해 데이터에 안전하게 액세스(OAuth 2.0을 사용하여 응용 프로그램 인증)할 수 있도록 합니다. 다음은 Marketing Cloud를 Salesforce와 안전하게 연결하고 동기화하기 위해 수행하는 단계입니다.
+Salesforce는 OAuth 프로토콜을 사용하여 애플리케이션 사용자가 로그인 자격 증명을 표시하지 않고도 REST API 호출을 통해 데이터에 안전하게 액세스(OAuth 2.0을 사용하여 응용 프로그램 인증)할 수 있도록 합니다. 다음은 Marketo을 Salesforce와 안전하게 연결하고 동기화하기 위해 수행하는 단계입니다.
 
 ## 연결된 앱 설정 {#set-up-connected-app}
 
@@ -42,20 +42,20 @@ Salesforce는 OAuth 프로토콜을 사용하여 애플리케이션 사용자가
 
 >[!NOTE]
 >
->나중에 Marketing To에서 사용할 수 있도록 소비자 키 및 소비자 비밀 정보를 저장합니다.
+>나중에 Marketo에서 사용할 수 있도록 소비자 키 및 소비자 비밀 정보를 저장합니다.
 
-## {#set-up-marketo} 마케팅 설정
+## Marketo {#set-up-marketo} 설정
 
 >[!PREREQUISITES]
 >
 >* API 액세스는 Salesforce 동기화 사용자에 대해 활성화되어 있어야 합니다(Salesforce Professional Edition 사용자이고 기본적으로 액세스할 수 없는 경우 Salesforce 계정 담당자에게 문의하십시오.).
->* Marketing To Sync 사용자는 Salesforce에서 만들어야 합니다.
+>* Marketo Sync 사용자는 Salesforce에서 만들어야 합니다.
 >* 기존 고객의 경우 고객의 구독에서 &quot;SFDC 동기화용 OAuth 활성화&quot;에 대한 기능이 활성화됩니다.
 >* 팝업 차단기가 비활성화됩니다.
 >* 연결된 앱이 만들어지고 소비자 키와 소비자 비밀이 사용 가능합니다.
 
 
-1. 마케팅 관리 섹션에서 **CRM**&#x200B;을 클릭한 다음 **Salesforce와 동기화**&#x200B;를 클릭합니다.
+1. Marketo 관리 섹션에서 **CRM**&#x200B;을 클릭한 다음 **Salesforce와 동기화**&#x200B;를 클릭합니다.
 
    ![](assets/setting-up-oauth-2-7.png)
 
@@ -63,11 +63,11 @@ Salesforce는 OAuth 프로토콜을 사용하여 애플리케이션 사용자가
 
    ![](assets/setting-up-oauth-2-8.png)
 
-1. Marketing To Salesforce 동기화 페이지에서 **Salesforce와 로그인** 단추를 클릭합니다.
+1. Marketo Salesforce 동기화 페이지에서 **Salesforce와 로그인** 단추를 클릭합니다.
 
    ![](assets/setting-up-oauth-2-9.png)
 
-1. salesforce 로그인 페이지가 표시되는 팝업이 표시됩니다. &quot;Marketing to Sync 사용자&quot; 자격 증명을 입력하고 로그인합니다.
+1. salesforce 로그인 페이지가 표시되는 팝업이 표시됩니다. &quot;Marketo Sync 사용자&quot; 자격 증명을 입력하고 로그인합니다.
 
    ![](assets/setting-up-oauth-2-10.png)
 
@@ -79,7 +79,7 @@ Salesforce는 OAuth 프로토콜을 사용하여 애플리케이션 사용자가
 
    ![](assets/setting-up-oauth-2-12.png)
 
-1. 몇 분 후에 Marketing Cloud에 팝업이 표시됩니다. **자격 증명 확인**&#x200B;을 클릭합니다.
+1. 몇 분 후에 Marketo에 팝업이 표시됩니다. **자격 증명 확인**&#x200B;을 클릭합니다.
 
    ![](assets/setting-up-oauth-2-13.png)
 
@@ -91,6 +91,6 @@ Salesforce는 OAuth 프로토콜을 사용하여 애플리케이션 사용자가
 
    ![](assets/setting-up-oauth-2-15.png)
 
-Marketing과 Salesforce 간의 동기화가 진행 중입니다.
+Marketo과 Salesforce 간의 동기화가 진행 중입니다.
 
 ![](assets/setting-up-oauth-2-16.png)
