@@ -1,17 +1,17 @@
 ---
 unique-page-id: 10093690
-description: 마케팅 사용자 지정 개체 편집 및 삭제 - 마케팅 문서 - 제품 설명서
-title: 마케팅 사용자 지정 개체 편집 및 삭제
+description: Marketo 사용자 정의 개체 편집 및 삭제 - Marketo 문서 - 제품 설명서
+title: Marketo 사용자 정의 개체 편집 및 삭제
+exl-id: 97bae63e-f679-490b-bfa2-51d88355b29c
 translation-type: tm+mt
-source-git-commit: f865630638e7c0fe6ac2a449e196a7de4fbfeea1
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '292'
 ht-degree: 0%
 
 ---
 
-
-# 마케팅 사용자 지정 개체 편집 및 삭제 {#edit-and-delete-a-marketo-custom-object}
+# Marketo 사용자 지정 개체 편집 및 삭제 {#edit-and-delete-a-marketo-custom-object}
 
 >[!NOTE]
 >
@@ -21,7 +21,7 @@ ht-degree: 0%
 
 사용자 정의 개체를 편집하거나 삭제하려면 [사용자 정의 개체 작업] 메뉴를 사용합니다.
 
-1. **관리**&#x200B;를 클릭하고 **데이터베이스 관리**&#x200B;에서 **마케팅 사용자 지정 개체**&#x200B;를 선택합니다.
+1. **관리**&#x200B;를 클릭하고 **데이터베이스 관리**&#x200B;에서 **Marketo 사용자 지정 개체**&#x200B;를 선택합니다.
 
    ![](assets/image2016-1-18-13-3a31-3a51.png)
 
@@ -45,13 +45,13 @@ ht-degree: 0%
 
 ## 사용자 지정 개체 {#delete-a-custom-object} 삭제
 
-사용자 정의 개체를 손쉽게 삭제할 수 있지만 주의해야 합니다. 사용자 정의 객체는 다른 객체 또는 스마트 목록에 연결될 수 있습니다. 따라서 **삭제**&#x200B;를 클릭하기 전에 Marketing에서 경고를 표시합니다.
+사용자 정의 개체를 손쉽게 삭제할 수 있지만 주의해야 합니다. 사용자 정의 객체는 다른 객체 또는 스마트 목록에 연결될 수 있습니다. 따라서 Marketo은 **삭제**&#x200B;를 클릭하기 전에 경고를 표시합니다.
 
 >[!CAUTION]
 >
 >사용자 지정 개체를 삭제한 후에는 복원할 수 없습니다.
 
-1. **관리**&#x200B;를 클릭하고 **데이터베이스 관리**&#x200B;에서 **마케팅 사용자 지정 개체**&#x200B;를 선택합니다.
+1. **관리**&#x200B;를 클릭하고 **데이터베이스 관리**&#x200B;에서 **Marketo 사용자 지정 개체**&#x200B;를 선택합니다.
 
    ![](assets/image2016-1-18-13-3a36-3a0.png)
 
