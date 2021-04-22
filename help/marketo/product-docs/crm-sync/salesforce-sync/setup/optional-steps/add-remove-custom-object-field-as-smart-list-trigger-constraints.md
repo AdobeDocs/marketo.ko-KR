@@ -1,19 +1,19 @@
 ---
 unique-page-id: 4719300
-description: 스마트 목록/트리거 제약 조건으로 사용자 지정 개체 필드 추가/제거 - 마케팅 문서 - 제품 설명서
+description: 스마트 목록/트리거 제약 조건으로 사용자 지정 개체 필드 추가/제거 - Marketo 문서 - 제품 설명서
 title: 사용자 지정 개체 필드를 스마트 목록/트리거 제약 조건으로 추가/제거
+exl-id: 639e73eb-9a8c-4b10-8e97-892abf5c5db0
 translation-type: tm+mt
-source-git-commit: 2b5ccd7220557a5e966d33436d0f0d2a65e4589d
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '192'
 ht-degree: 0%
 
 ---
 
-
 # 사용자 지정 개체 필드를 스마트 목록/트리거 제약 조건으로 추가/제거 {#add-remove-custom-object-field-as-smart-list-trigger-constraints}
 
-Marketing에서는 Salesforce 사용자 정의 개체 동기화를 세부적으로 제어할 수 있습니다. 이렇게 하면 사용자 지정 개체 필터에 제약 조건으로 사용할 수 있는 필드를 선택하고 스마트 캠페인에서 트리거로 사용할 수 있습니다.
+Marketo은 Salesforce 사용자 정의 개체 동기화를 세부적으로 제어합니다. 이렇게 하면 사용자 지정 개체 필터에 제약 조건으로 사용할 수 있는 필드를 선택하고 스마트 캠페인에서 트리거로 사용할 수 있습니다.
 
 >[!NOTE]
 >
