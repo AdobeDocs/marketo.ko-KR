@@ -1,15 +1,15 @@
 ---
 unique-page-id: 8783561
-description: 샘플 보내기 - Marketing To Docs - 제품 설명서
+description: 샘플 보내기 - Marketo 문서 - 제품 설명서
 title: 샘플 보내기
+exl-id: 9b4cdb6b-9969-4427-9ae3-f6d08430f10f
 translation-type: tm+mt
-source-git-commit: e5050328cbddaf072dd60ddd8d7363a704e720b5
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '73'
 ht-degree: 0%
 
 ---
-
 
 # 샘플 {#sending-a-sample} 보내기
 
