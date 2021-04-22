@@ -1,15 +1,15 @@
 ---
 unique-page-id: 1146974
-description: 스마트 캠페인에서 자격 조건 규칙 편집 - 마케팅 문서 - 제품 설명서
+description: 스마트 캠페인에서 자격 조건 규칙 편집 - Marketo 문서 - 제품 설명서
 title: 스마트 캠페인에서 자격 조건 규칙 편집
+exl-id: 8b016fe4-8caf-4266-9f8f-2b05dae78cff
 translation-type: tm+mt
-source-git-commit: 4a0bd2efe99284807a46d07ffef0070d9a303631
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '212'
 ht-degree: 0%
 
 ---
-
 
 # 스마트 캠페인 {#edit-qualification-rules-in-a-smart-campaign}에서 자격 규칙 편집
 
@@ -29,7 +29,7 @@ ht-degree: 0%
 
    >[!NOTE]
    >
-   >매일 한 번 규칙을 설정하면 Marketing에서 해당 규칙을 시간으로 변환합니다. 예를 들어, 하루에 한 번 규칙을 설정하고 한 사람이 일요일 밤에 10시에 자격이 되는 경우 월요일 밤 10시에 다시 자격이 주어집니다. 이 논리는 주 또는 월을 사용할 때도 적용됩니다. 한 달은 항상 30일로 카운트됩니다.
+   >매일 한 번 규칙을 설정하면 Marketo에서 해당 규칙을 시간으로 변환합니다. 예를 들어, 하루에 한 번 규칙을 설정하고 한 사람이 일요일 밤에 10시에 자격이 되는 경우 월요일 밤 10시에 다시 자격이 주어집니다. 이 논리는 주 또는 월을 사용할 때도 적용됩니다. 한 달은 항상 30일로 카운트됩니다.
 
    >[!NOTE]
    >
