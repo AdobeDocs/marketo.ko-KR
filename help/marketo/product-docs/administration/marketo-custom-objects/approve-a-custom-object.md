@@ -1,15 +1,15 @@
 ---
 unique-page-id: 10094188
-description: 사용자 지정 개체 승인 - 마케팅 문서 - 제품 설명서
+description: 사용자 지정 개체 승인 - Marketo 문서 - 제품 설명서
 title: 사용자 지정 개체 승인
+exl-id: 8bae94df-91fe-4722-8c75-c26df882c65d
 translation-type: tm+mt
-source-git-commit: f865630638e7c0fe6ac2a449e196a7de4fbfeea1
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '276'
 ht-degree: 0%
 
 ---
-
 
 # 사용자 지정 개체 승인 {#approve-a-custom-object}
 
@@ -19,7 +19,7 @@ ht-degree: 0%
 
 새 사용자 정의 개체를 만들었습니다. 승인 방법
 
-1. 관리에서 **마케팅 사용자 지정 개체**&#x200B;를 클릭하고 초안 상태에 있는 개체를 선택합니다.
+1. 관리에서 **Marketo 사용자 지정 개체**&#x200B;를 클릭하고 초안 상태에 있는 개체를 선택합니다.
 
    ![](assets/one.png)
 
@@ -39,7 +39,7 @@ ht-degree: 0%
    >
    >_중간 개체_&#x200B;로 사용되는 사용자 지정 개체에는 링크 필드, 연결된 개체 이름 및 연결된 필드 이름이 필요하지만 **에는 중복 제거 필드가 필요하지 않습니다.**
    >
-   >자세한 내용은 [마케팅 사용자 지정 개체 이해](/help/marketo/product-docs/administration/marketo-custom-objects/understanding-marketo-custom-objects.md)를 참조하십시오.
+   >자세한 내용은 [Marketo 사용자 지정 개체 이해](/help/marketo/product-docs/administration/marketo-custom-objects/understanding-marketo-custom-objects.md)를 참조하십시오.
 
 바로 그거야! 이제 필터 및 트리거의 제한에서 사용자 지정 개체를 선택하여 캠페인에 사용할 수 있습니다.
 
