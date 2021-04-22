@@ -1,15 +1,15 @@
 ---
 unique-page-id: 2360253
-description: '"웹 페이지로 보기" 메시지 - 마케팅 문서 - 제품 설명서 편집'
+description: '"웹 페이지로 보기" 메시지 편집 - Marketo 문서 - 제품 설명서'
 title: '"웹 페이지로 보기" 메시지 편집'
+exl-id: 5541fe6c-7297-4277-8355-ba7b4ac73e2e
 translation-type: tm+mt
-source-git-commit: f865630638e7c0fe6ac2a449e196a7de4fbfeea1
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '182'
 ht-degree: 0%
 
 ---
-
 
 # &quot;웹 페이지로 보기&quot; 메시지 {#edit-the-view-as-web-page-message} 편집
 
