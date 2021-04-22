@@ -1,15 +1,15 @@
 ---
 unique-page-id: 1147064
-description: 스마트 캠페인에 통신 제한 적용 - 마케팅 문서 - 제품 설명서
+description: 스마트 캠페인에 통신 제한 적용 - Marketo 문서 - 제품 설명서
 title: 스마트 캠페인에 통신 제한 적용
+exl-id: b33885ba-6811-47ab-9db9-099d35ca49df
 translation-type: tm+mt
-source-git-commit: 4a0bd2efe99284807a46d07ffef0070d9a303631
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '136'
 ht-degree: 0%
 
 ---
-
 
 # 스마트 캠페인 {#apply-communication-limits-to-smart-campaign}에 통신 제한 적용
 
@@ -18,11 +18,11 @@ ht-degree: 0%
 >[통신 제한 사용](/help/marketo/product-docs/administration/email-setup/enable-communication-limits.md)
 
 
-하루에 여러 번 또는 일주일에 너무 여러 번 이메일을 보내는 것은 좋지 않아요, 그렇죠? 다행히도, 마케터는 도움을 줄 수 있는 의사 소통 한계를 가지고 있다. 작업 방식
+하루에 여러 번 또는 일주일에 너무 여러 번 이메일을 보내는 것은 좋지 않아요, 그렇죠? 다행히도 Marketo은 도움을 줄 수 있는 통신 한계를 가지고 있습니다. 작업 방식
 
 >[!NOTE]
 >
->어떤 사람이 설정된 통신 제한을 초과하면 Marketing To는 비운영 이메일을 차단합니다(운영 이메일은 항상 전송).
+>설정된 통신 제한을 초과하는 사용자가 있을 경우 Marketo은 비작동 이메일을 차단합니다(운영 이메일은 항상 전송).
 
 1. 스마트 캠페인에서 **예약** 탭을 클릭한 다음 **설정 편집**&#x200B;을 클릭합니다.
 
