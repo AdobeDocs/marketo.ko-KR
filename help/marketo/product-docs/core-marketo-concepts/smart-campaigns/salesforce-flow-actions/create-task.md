@@ -1,15 +1,15 @@
 ---
 unique-page-id: 1147017
-description: 작업 만들기 - 마케팅 문서 - 제품 설명서
+description: 작업 만들기 - Marketo 문서 - 제품 설명서
 title: 작업 만들기
+exl-id: c484d913-1fd8-4716-8caa-0bf318218ca1
 translation-type: tm+mt
-source-git-commit: 5b9f48c98464c79bcdca2e335f6a4a2edce98ce4
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '113'
 ht-degree: 0%
 
 ---
-
 
 # 작업 만들기 {#create-task}
 
@@ -19,7 +19,7 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->Marketing To Sync 사용자가 작업을 만드는 경우 **Due In**&#x200B;은(는) Salesforce에서 만드는 작업에 필요한 필드입니다. 값이 없는 경우 Marketing에서 기본적으로 5일을 입력합니다.
+>Marketo Sync 사용자가 작업을 만드는 경우 Salesforce에서 만드는 작업에 필요한 필드는 **Due In**&#x200B;입니다. 값이 없는 경우 Marketo은 기본적으로 5일을 입력합니다.
 
 기본적으로 흐름 단계는 다음과 같습니다.
 
