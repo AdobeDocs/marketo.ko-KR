@@ -1,15 +1,15 @@
 ---
 unique-page-id: 10097199
-description: 릴리스 노트 -16년 겨울 - 마케팅 문서 - 제품 설명서
+description: 릴리스 노트 -16년 겨울 - Marketo 문서 - 제품 설명서
 title: 릴리스 노트 -16년 겨울
+exl-id: 1e3b9207-27fe-47b1-b709-1306ac57b93b
 translation-type: tm+mt
-source-git-commit: 029d8b419ba5078980b4fde9890bdb35194bf264
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '505'
 ht-degree: 0%
 
 ---
-
 
 # 릴리스 노트:16년 겨울 {#release-notes-winter}
 
@@ -27,7 +27,7 @@ ht-degree: 0%
 
 ## [Microsoft Edge Browser](/help/marketo/product-docs/administration/setup-administration/supported-browsers.md) {#microsoft-edge-browser}
 
-Marketing To에서 지원하는 [브라우저 목록에 Microsoft Edge를 추가했습니다.](https://docs.marketo.com/display/public/DOCS/Supported+Browsers)
+Marketo에서 지원하는 [브라우저 목록](https://docs.marketo.com/display/public/DOCS/Supported+Browsers)에 Microsoft Edge를 추가했습니다.
 
 ## [Microsoft Outlook 2016](/help/marketo/product-docs/marketo-sales-insight/msi-outlook-plugin/install-the-marketo-email-add-in-for-outlook-with-a-registration-code.md) {#microsoft-outlook}
 
@@ -77,7 +77,7 @@ REST API를 통해 프로그램을 생성, 업데이트 및 복제합니다. 프
 
 ## [Facebook 리드 광고](/help/marketo/product-docs/demand-generation/facebook/set-up-facebook-lead-ads.md) {#facebook-lead-ads}
 
-[Facebook 리드 ](https://www.facebook.com/business/a/lead-ads) 광고는 기업에서 Facebook에서 리드 생성 캠페인을 실행하는 보다 직접적인 방법입니다. 사람들은 상품이나 서비스에 대한 관심을 표현하는 양식을 작성해서 비즈니스가 그것들을 따라 할 수 있게 한다. Facebook 리드 광고와 마케팅의 통합은 리드 광고 양식 내에 리드가 제공하는 정보를 자동으로 캡처합니다. 그런 다음 새로운 Facebook 리드 광고 채우기 트리거를 사용하여 후속 조치와 알림을 자동화할 수 있습니다.
+[Facebook 리드 ](https://www.facebook.com/business/a/lead-ads) 광고는 기업이 Facebook에서 리드 생성 캠페인을 실행하는 보다 직접적인 방법입니다. 사람들은 상품이나 서비스에 대한 관심을 표현하는 양식을 작성해서 비즈니스가 그것들을 따라 할 수 있게 한다. facebook 리드 광고와 Marketo 통합은 리드 광고 양식 내에 리드가 제공하는 정보를 자동으로 캡처합니다. 그러면 새로운 Facebook 리드 광고 채우기 트리거를 사용하여 후속 조치와 알림을 자동화할 수 있습니다.
 
 ![](assets/image2016-1-11-10-3a20-3a39.png)
 
