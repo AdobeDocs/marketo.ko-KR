@@ -1,15 +1,15 @@
 ---
 unique-page-id: 1147122
-description: 구성원 관리 및 보기 - 마케팅 문서 - 제품 설명서
+description: 구성원 관리 및 보기 - Marketo 문서 - 제품 설명서
 title: 구성원 관리 및 보기
+exl-id: 8d6ad815-4022-4d4b-a258-2bc048ca48f9
 translation-type: tm+mt
-source-git-commit: 07f713ece9832b7696451001f61c6a3b45b4a94a
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '251'
 ht-degree: 0%
 
 ---
-
 
 # 구성원 관리 및 보기 {#manage-and-view-members}
 
