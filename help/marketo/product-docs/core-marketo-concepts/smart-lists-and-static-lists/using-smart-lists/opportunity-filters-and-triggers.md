@@ -1,15 +1,15 @@
 ---
 unique-page-id: 8159286
-description: 기회 필터 및 트리거 - 마케팅 문서 - 제품 설명서
+description: 기회 필터 및 트리거 - Marketo 문서 - 제품 설명서
 title: 기회 필터 및 트리거
+exl-id: 5b372c00-1553-4ac3-a495-53e208371d8d
 translation-type: tm+mt
-source-git-commit: 5b9f48c98464c79bcdca2e335f6a4a2edce98ce4
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '471'
 ht-degree: 0%
 
 ---
-
 
 # 기회 필터 및 트리거 {#opportunity-filters-and-triggers}
 
@@ -77,6 +77,6 @@ Opportunity 필드(사용자 지정 또는 표준)를 찾는 경우 **Has Opport
 
 ![](assets/image2015-6-11-12-3a33-3a48.png)
 
-기회 사용자 정의 필드를 트리거하려면 **Opportunity 가 Updated** 트리거를 사용하고 풀다운에서 필드를 선택합니다.
+기회 사용자 정의 필드를 트리거하려면 **기회가 업데이트됨** 트리거를 사용하고 풀다운에서 필드를 선택합니다.
 
 ![](assets/image2015-6-11-12-3a33-3a34.png)
