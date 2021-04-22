@@ -1,19 +1,19 @@
 ---
 unique-page-id: 2949228
-description: SEO - 인바운드 링크 제안 받기 - 마케팅 문서 - 제품 설명서
+description: SEO - 인바운드 링크 제안 받기 - Marketo 문서 - 제품 설명서
 title: SEO - 인바운드 링크 제안 받기
+exl-id: 6de60d4b-1e34-4394-97aa-4294b9787025
 translation-type: tm+mt
-source-git-commit: 37697e2d6f1d86a6cd1de5d567a3d384160415cb
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '80'
 ht-degree: 0%
 
 ---
 
-
 # SEO - 인바운드 링크 제안 가져오기 {#seo-get-inbound-link-suggestions}
 
-마케터는 [페이지 외 최적화](/help/marketo/product-docs/additional-apps/seo/understanding-seo/understanding-search-engine-optimization.md)에 중요한 인바운드 링크를 제안할 수 있습니다.
+Marketo은 [페이지 외 최적화](/help/marketo/product-docs/additional-apps/seo/understanding-seo/understanding-search-engine-optimization.md)에 중요한 인바운드 링크를 제안할 수 있습니다.
 
 1. **인바운드 링크** 섹션으로 이동합니다.
 
