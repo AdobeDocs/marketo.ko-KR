@@ -1,19 +1,19 @@
 ---
 unique-page-id: 2360207
-description: API 전용 사용자 만들기 - 마케팅 문서 - 제품 설명서
+description: API 전용 사용자 만들기 - Marketo 문서 - 제품 설명서
 title: API 전용 사용자 만들기
+exl-id: 23c92255-07a8-41c2-b7b8-8e495d135671
 translation-type: tm+mt
-source-git-commit: f79909ce8f2e37bf0748596774fe47ac03618696
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '163'
 ht-degree: 0%
 
 ---
 
-
 # API 전용 사용자 {#create-an-api-only-user} 만들기
 
-[REST API](https://developers.marketo.com/documentation/rest/)를 통해 Marketing과 통합하려면 API 전용 사용자를 만들어야 합니다. 방법
+[REST API](https://developers.marketo.com/documentation/rest/)를 통해 Marketo과 통합하려면 API 전용 사용자를 만들어야 합니다. 방법
 
 >[!PREREQUISITES]
 >
