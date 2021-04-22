@@ -1,15 +1,15 @@
 ---
 unique-page-id: 37356429
-description: Microsoft에서 작업 만들기 - Marketing To Docs - 제품 설명서
+description: Microsoft에서 작업 만들기 - Marketo 문서 - 제품 설명서
 title: Microsoft에서 작업 만들기
+exl-id: b9ae425b-edf1-4aae-92f4-e7c6cf647cdc
 translation-type: tm+mt
-source-git-commit: 5b9f48c98464c79bcdca2e335f6a4a2edce98ce4
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '171'
 ht-degree: 0%
 
 ---
-
 
 # Microsoft {#create-task-in-microsoft}에서 작업 만들기
 
@@ -19,7 +19,7 @@ Microsoft에서 작업 만들기를 선택하면 Microsoft의 사람(리드 또�
 
 >[!NOTE]
 >
->이 흐름 단계는 **은(는) 스마트 캠페인에서 필터가 아니라 트리거**&#x200B;와 함께 사용되는 경우에만 작동합니다.
+>이 흐름 단계는 **은 스마트 캠페인에서 필터가 아니라 트리거**&#x200B;와 함께 사용되는 경우에만 작동합니다.
 
 기본적으로 흐름 단계는 다음과 같습니다.
 
@@ -27,7 +27,7 @@ Microsoft에서 작업 만들기를 선택하면 Microsoft의 사람(리드 또�
 
 >[!NOTE]
 >
->Marketing To Sync 사용자가 작업을 만드는 경우 **Due In**&#x200B;은(는) Microsoft에서 만드는 작업에 필요한 필드입니다. 값을 입력하지 않으면 기본적으로 5일이 입력됩니다.
+>Marketo Sync 사용자가 작업을 만드는 경우 **Due In**&#x200B;은(는) Microsoft에서 만드는 작업에 필요한 필드입니다. 값을 입력하지 않으면 Marketo은 기본적으로 5일을 입력합니다.
 
 모든 필드를 사용자 정의하여 원하는 방식으로 작업을 만듭니다.
 
