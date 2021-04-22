@@ -1,15 +1,15 @@
 ---
 unique-page-id: 1146901
-description: 고급 스마트 목록 규칙 논리 사용 - 마케팅 문서 - 제품 설명서
+description: 고급 스마트 목록 규칙 논리 사용 - Marketo 문서 - 제품 설명서
 title: 고급 스마트 목록 규칙 논리 사용
+exl-id: fc41b6fd-c65e-4c44-b0ee-7bb5c77c51fb
 translation-type: tm+mt
-source-git-commit: 5b9f48c98464c79bcdca2e335f6a4a2edce98ce4
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '288'
 ht-degree: 0%
 
 ---
-
 
 # 고급 스마트 목록 규칙 논리 사용 {#using-advanced-smart-list-rule-logic}
 
@@ -29,7 +29,7 @@ ht-degree: 0%
 
 기본적으로 스마트 목록은 **ALL** 필터(필터 1 _및_ 2 _및_ 3)와 일치하는 사람을 찾습니다. 정의된 필터(필터 1 _또는_ 2 _또는_ 3)의 **ANY**&#x200B;와 일치하는 사람을 찾도록 규칙 논리를 변경하거나 고급 필터(필터 1 _및_ 2 _또는_ 3)를 사용할 수 있습니다.
 
-이 예에서는 &quot;Sales Qualified&quot; 상태의 점수가 최소 50점 _또는_&#x200B;인 캘리포니아 _과_&#x200B;에 있는 사람을 찾고자 합니다.
+이 예에서는 &quot;Sales Qualified&quot; 상태의 점수가 최소 50점 _또는_&#x200B;인 _과(와) California_&#x200B;에 있는 사람을 찾고자 합니다.
 
 1. 드롭다운에서 **고급 필터 사용**&#x200B;을 선택합니다.
 
