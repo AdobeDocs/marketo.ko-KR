@@ -1,19 +1,19 @@
 ---
 unique-page-id: 1147095
-description: 프로그램 만들기 - 마케팅 문서 - 제품 설명서
+description: 프로그램 만들기 - Marketo 문서 - 제품 설명서
 title: 프로그램 만들기
+exl-id: 9767dacb-2b24-4700-ab23-c48998cb0063
 translation-type: tm+mt
-source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '68'
 ht-degree: 0%
 
 ---
 
-
 # 프로그램 {#create-a-program} 만들기
 
-프로그램은 Marketing To에서 가장 중요한 요소 중 하나입니다. 많이 사용하게 될 거야!
+프로그램은 Marketo에서 가장 중요한 요소 중 하나입니다. 많이 사용하게 될 거야!
 
 1. **마케팅 활동**&#x200B;으로 이동합니다.
 
