@@ -1,25 +1,25 @@
 ---
 unique-page-id: 42762511
-description: Adobe Experience Cloud 고객 공유 설정 - Marketing To Docs - 제품 설명서
+description: Adobe Experience Cloud 고객 공유 설정 - Marketo 문서 - 제품 설명서
 title: Adobe Experience Cloud 대상 공유 설정
+exl-id: d20be0d5-508f-40b9-a267-b6752643c311
 translation-type: tm+mt
-source-git-commit: 65182770291dc14fbe915a40403fc09b433aae86
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '170'
 ht-degree: 0%
 
 ---
 
-
 # Adobe Experience Cloud 대상 공유 설정 {#set-up-adobe-experience-cloud-audience-sharing}
 
-대상 데이터를 Adobe 애플리케이션에 공유하려면 먼저 Marketing To에 Adobe IMS 조직 자격 증명을 입력해야 합니다. 방법
+대상 데이터를 Adobe 애플리케이션에 공유하려면 먼저 Marketo에 Adobe IMS 조직 자격 증명을 입력해야 합니다. 방법
 
 >[!NOTE]
 >
->Marketing 인스턴스의 HIPAA용 배포에서는 이 통합을 사용할 수 없습니다.
+>Marketo 인스턴스의 HIPAA용 배포에서는 이 통합을 사용할 수 없습니다.
 
-1. Marketing에서 **관리**&#x200B;를 클릭합니다.
+1. Marketo에서 **관리**&#x200B;를 클릭합니다.
 
    ![](assets/one-2.png)
 
