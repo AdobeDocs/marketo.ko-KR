@@ -1,15 +1,15 @@
 ---
 unique-page-id: 2951103
-description: 릴리스 노트 - 2013년 2월 - Marketing Docs - 제품 설명서
+description: 릴리스 노트 - 2013년 2월 - Marketo 문서 - 제품 설명서
 title: 릴리스 노트 - 2013년 2월
+exl-id: 9adfa676-09ea-497a-bcce-42300848b9d8
 translation-type: tm+mt
-source-git-commit: 029d8b419ba5078980b4fde9890bdb35194bf264
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '273'
 ht-degree: 0%
 
 ---
-
 
 # 릴리스 노트:2013년 2월 {#release-notes-february}
 
@@ -17,19 +17,19 @@ ht-degree: 0%
 
 ## Apple Safari {#official-support-for-apple-safari} 공식 지원
 
-Mac 및 Windows용 최신 버전의 Apple Safari는 Marketing To Lead Management에서 사용할 수 있도록 완벽하게 지원됩니다. 참고:iOS의 Safari는 완전히 호환되지 않습니다.
+Mac 및 Windows용 최신 버전의 Apple Safari는 Marketo 리드 관리에서 사용할 수 있습니다. 참고:iOS의 Safari는 완전히 호환되지 않습니다.
 
 ## Webhook 개선 사항 {#webhooks-enhancements}
 
-Webhook은 URL/페이로드의 토큰을 이스케이프 처리할 수 있도록 향상되었으며, 타사 시스템의 XML/JSON 응답을 구문 분석하여 Marketing to 리드 필드를 업데이트할 수도 있습니다(Spark SMB Edition에서는 제공되지 않음).
+Webhook은 URL/페이로드의 토큰을 이스케이프 처리할 수 있도록 향상되었으며, 타사 시스템의 XML/JSON 응답을 구문 분석하여 Marketo 리드 필드를 업데이트할 수도 있습니다(Spark SMB Edition에서는 제공되지 않음).
 
 ## 업데이트된 SOAP API 끝점 {#updated-soap-api-endpoint}
 
 기본 설정 SOAP API 끝점이 업데이트되었습니다. 이 끝점은 관리 -> SOAP API에 표시됩니다. 이 새 끝점을 사용하도록 호출을 업데이트하십시오. 이전 끝점에 대한 API 호출은 더 이상 사용되지 않지만 계속 작동합니다. (SOAP API는 Spark SMB Edition에서 사용할 수 없음)
 
-## Facebook 탭에 대한 모바일 지원 {#mobile-support-for-facebook-tabs}
+## facebook 탭에 대한 모바일 지원 {#mobile-support-for-facebook-tabs}
 
-Marketing에서 게시한 Facebook 탭은 모바일 장치를 감지하여 랜딩 페이지로 라우팅합니다. 따라서 사용자는 Facebook 탭이 지원되지 않는 모바일 장치에서 올바른 컨텐츠를 볼 수 있습니다(Spark, Standard, Select SMB Editions 및 Marketing to Social Marketing).
+Marketo에서 게시되는 facebook 탭은 모바일 장치를 감지하여 랜딩 페이지로 라우팅합니다. 사용자는 Facebook 탭이 지원되지 않는 모바일 장치에서 올바른 컨텐츠를 볼 수 있습니다(Spark, Standard, Select SMB Editions 및 Marketo Social Marketing)에서 사용할 수 있습니다.
 
 ## 제공 예정:여러 모델 지원 {#coming-soon-support-for-multiple-models}
 
