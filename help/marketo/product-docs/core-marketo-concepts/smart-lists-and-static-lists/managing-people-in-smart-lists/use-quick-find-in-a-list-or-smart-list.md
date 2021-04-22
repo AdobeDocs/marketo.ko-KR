@@ -1,15 +1,15 @@
 ---
 unique-page-id: 557326
-description: 목록 또는 스마트 목록에서 빠른 찾기 사용 - 마케팅 문서 - 제품 설명서
+description: 목록 또는 스마트 목록에서 빠른 찾기 사용 - Marketo 문서 - 제품 설명서
 title: 목록 또는 스마트 목록에서 빠른 찾기 사용
+exl-id: c8ec3d13-0432-400a-acd8-13df709bc29e
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '143'
 ht-degree: 0%
 
 ---
-
 
 # 목록 또는 스마트 목록에서 빠른 찾기 사용 {#use-quick-find-in-a-list-or-smart-list}
 
