@@ -1,23 +1,23 @@
 ---
 unique-page-id: 11380218
-description: 릴리스 노트 -16년 여름 - Marketing To Docs - 제품 설명서
+description: 릴리스 노트 -16년 여름 - Marketo 문서 - 제품 설명서
 title: 릴리스 노트 -16년 여름
+exl-id: 3843668e-c729-42aa-b05c-55c33ee0d783
 translation-type: tm+mt
-source-git-commit: 029d8b419ba5078980b4fde9890bdb35194bf264
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '783'
 ht-degree: 0%
 
 ---
 
-
 # 릴리스 노트:16년 여름 {#release-notes-summer}
 
-다음 기능은 16년 여름 릴리스에 포함되어 있습니다. 기능 가용성을 확인하려면 Marketing Edition을 확인하십시오. 각 기능에 대한 자세한 아티클을 보려면 제목 링크를 클릭하십시오.
+다음 기능은 16년 여름 릴리스에 포함되어 있습니다. 기능을 사용할 수 있는지 Marketo 에디션을 확인하십시오. 각 기능에 대한 자세한 아티클을 보려면 제목 링크를 클릭하십시오.
 
 ## [계정 기반 마케팅](https://docs.marketo.com/display/docs/account+based+marketing) {#account-based-marketing}
 
-Marketing To Account Based Marketing은 단일 플랫폼에서 모든 필수 기능을 제공합니다.
+Marketo 계정 기반 마케팅은 단일 플랫폼에서 모든 필수 사항을 제공합니다.
 
 * **Target**  - 계정 검색, 계정 간 일치 및 명명 계정 목록
 * **참여**  - 계정 기반의 개인화, 크로스채널 참여 및 계정별 워크플로우
@@ -27,11 +27,11 @@ Marketing To Account Based Marketing은 단일 플랫폼에서 모든 필수 기
 
 >[!NOTE]
 >
->ABM은 Marketing To 구독에 대한 추가 기능으로 사용할 수 있으므로 해당 영업 담당자에게 문의하여 구현하도록 하십시오.
+>ABM은 Marketo 구독에 대한 추가 기능으로 사용할 수 있으므로 해당 영업 담당자에게 문의하여 이를 구현하십시오.
 
 ## [감사 추적](/help/marketo/product-docs/administration/audit-trail/audit-trail-overview.md) {#audit-trail}
 
-감사 추적은 Marketing To 구독 내에서 수행된 변경 사항의 포괄적인 내역을 제공합니다. 사용자 및 관리자 간에 책임을 지고, 예기치 않은 동작의 원인을 식별하며, 누가 언제 무엇을 하고 있는지 알 수 있는 보안을 제공합니다. 이 정보는 언제든지 사용할 수 있으며 다음과 같은 질문에 대답하는 데 사용할 수 있습니다.
+감사 추적은 Marketo 구독 내에서 수행된 변경 사항의 포괄적인 내역을 제공합니다. 사용자 및 관리자 간에 책임을 지고, 예기치 않은 동작의 원인을 식별하며, 누가 언제 무엇을 하고 있는지 알 수 있는 보안을 제공합니다. 이 정보는 언제든지 사용할 수 있으며 다음과 같은 질문에 대답하는 데 사용할 수 있습니다.
 
 * 이 에셋 또는 설정은 어떻게 되었고, 누가 마지막으로 업데이트했습니까?
 * 사용자 X는 어떤 작업을 하고 있습니까?
@@ -39,9 +39,9 @@ Marketing To Account Based Marketing은 단일 플랫폼에서 모든 필수 기
 
 ![](assets/audit-trail.png)
 
-## [Marketing-Video SMS LaunchPoint 통합](/help/marketo/product-docs/mobile-marketing/vibes-sms-messages/create-a-vibes-sms-message.md) {#marketo-vibes-sms-launchpoint-integration}
+## [Marketo-Vides SMS LaunchPoint 통합](/help/marketo/product-docs/mobile-marketing/vibes-sms-messages/create-a-vibes-sms-message.md) {#marketo-vibes-sms-launchpoint-integration}
 
-Marketing To에서 바로 SMS 메시지를 손쉽게 만들 수 있습니다. 풍부한 Marketing To 데이터를 사용하여 메시지를 개인화하고 타깃팅할 수 있으며 SMS 메시지 대시보드를 통해 성과를 손쉽게 모니터링할 수 있습니다.
+Marketo에서 바로 SMS 메시지를 손쉽게 만들 수 있습니다. 풍부한 Marketo 데이터를 사용하여 메시지를 개인화하고 대상화할 수 있으며 SMS 메시지 대시보드를 통해 성과를 손쉽게 모니터링할 수 있습니다.
 
 >[!NOTE]
 >
@@ -86,7 +86,7 @@ Marketing To에서 바로 SMS 메시지를 손쉽게 만들 수 있습니다. �
 
 ## [기업 키](/help/marketo/product-docs/marketo-sales-insight/msi-outlook-plugin/authorize-the-marketo-outlook-plugin.md) {#enterprise-key}
 
-영업 팀의 각 직원이 Outlook용 Sales Insight 플러그인을 설치해야 하는 것은 지루할 수 있습니다. 엔터프라이즈 키를 사용하여 Outlook용 플러그인을 원격으로 설치하는 새로운 방법을 도입했습니다. IT 팀을 Admin의 Marketing To Sales Insight 섹션에 있는 고유한 키를 보내 나머지 작업을 수행하도록 할 수 있습니다.
+영업 팀의 각 직원이 Outlook용 Sales Insight 플러그인을 설치해야 하는 것은 지루할 수 있습니다. 엔터프라이즈 키를 사용하여 Outlook용 플러그인을 원격으로 설치하는 새로운 방법을 도입했습니다. 관리자의 Marketo Sales Insight 섹션에 있는 고유한 키를 IT 팀에 보내 나머지 작업을 수행하도록 할 수 있습니다.
 
 ![](assets/enterprise-key.png)
 
@@ -104,12 +104,12 @@ Marketing To에서 바로 SMS 메시지를 손쉽게 만들 수 있습니다. �
 
 이전 기존 자산 API는 v1.0 이메일 및 템플릿과 호환되지만 이제 v2.0 이메일 자산에 대해 활성화됩니다.
 
-## [Marketing To 개발자 사이트](https://developers.marketo.com/) {#marketo-developers-site}
+## [Marketo 개발자 사이트](https://developers.marketo.com/) {#marketo-developers-site}
 
 새롭고 향상된 기능!
 
 ## [개인 정보 설정](/help/marketo/product-docs/administration/settings/understanding-privacy-settings.md) {#privacy-settings}
 
-마케터는 개인 정보 설정을 사용하여 Munchkin 및 웹 개인화 기능을 사용하여 방문자를 추적할지 여부를 결정할 수 있습니다. 추적 수준은 브라우저의 [추적 안 함] 설정, 옵트아웃 쿠키 또는 특정 IP를 사용하여 제어합니다. 이러한 방법은 특정 영역의 Marketing To 값과 기능에 영향을 줄 수 있지만 마케터가 변경하지 않는 경우 Marketing To 기능이 동일하게 유지됩니다.
+마케터는 개인 정보 설정을 사용하여 Munchkin 및 웹 개인화 기능을 사용하여 방문자를 추적할지 여부를 결정할 수 있습니다. 추적 수준은 브라우저의 [추적 안 함] 설정, 옵트아웃 쿠키 또는 특정 IP를 사용하여 제어합니다. 이러한 방법은 특정 영역의 Marketo 가치 및 기능에 영향을 줄 수 있지만 마케터가 변경하지 않는 경우 Marketo 기능은 동일하게 유지됩니다.
 
-이 기능은 6주 동안 고객에게 점진적으로 적용됩니다. 필요한 경우 Marketing To 지원 센터로 문의하십시오.
+이 기능은 6주 동안 고객에게 점진적으로 적용됩니다. 필요한 경우 Marketo 지원 센터로 문의하십시오.
