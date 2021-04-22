@@ -1,15 +1,15 @@
 ---
 unique-page-id: 10100272
-description: 사용자 지정 활동 게시 - 마케팅 문서 - 제품 설명서
+description: 사용자 지정 활동 게시 - Marketo 문서 - 제품 설명서
 title: 사용자 지정 활동 게시
+exl-id: 16ac19ed-8c31-4ddf-819e-72a0ec8a3904
 translation-type: tm+mt
-source-git-commit: f865630638e7c0fe6ac2a449e196a7de4fbfeea1
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '72'
 ht-degree: 0%
 
 ---
-
 
 # 사용자 지정 활동 {#publish-a-custom-activity} 게시
 
@@ -19,7 +19,7 @@ ht-degree: 0%
 
    ![](assets/one-2.png)
 
-1. **데이터베이스 관리**&#x200B;에서 **마케팅 사용자 지정 활동**&#x200B;을 클릭합니다.
+1. **데이터베이스 관리**&#x200B;에서 **Marketo 사용자 지정 활동**&#x200B;을 클릭합니다.
 
    ![](assets/two-2.png)
 
