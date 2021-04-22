@@ -1,21 +1,21 @@
 ---
 unique-page-id: 2359916
-description: 마케팅 암호 변경 - 마케팅 문서 - 제품 설명서
-title: 마케팅 암호 변경
+description: Marketo 암호 변경 - Marketo 문서 - 제품 설명서
+title: Marketo 암호 변경
+exl-id: 06527ecf-b437-4d12-9254-ae0c95485d58
 translation-type: tm+mt
-source-git-commit: f79909ce8f2e37bf0748596774fe47ac03618696
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '99'
 ht-degree: 0%
 
 ---
 
+# Marketo 암호 변경 {#change-your-marketo-password}
 
-# 마케팅 암호 {#change-your-marketo-password} 변경
+간단한 단계를 통해 Marketo 암호를 변경합니다.
 
-이러한 간단한 단계를 통해 마케팅 암호를 변경합니다.
-
-1. 모든 마케팅 사용자는 자신의 이름과 **내 계정**&#x200B;을 클릭할 수 있습니다.
+1. 모든 Marketo 사용자는 자신의 이름과 **내 계정**&#x200B;을 클릭할 수 있습니다.
 
    ![](assets/image2015-11-10-10-3a40-3a8.png)
 
