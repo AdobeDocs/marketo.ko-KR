@@ -1,25 +1,25 @@
 ---
 unique-page-id: 8783322
-description: Microsoft Dynamics 동기화 유효성 검사 - Marketing To Docs - 제품 설명서
+description: Microsoft Dynamics 동기화 유효성 검사 - Marketo 문서 - 제품 설명서
 title: Microsoft Dynamics 동기화 유효성 검사
+exl-id: 00297a8d-36c3-42f6-a9b8-4a8dd7c1f30d
 translation-type: tm+mt
-source-git-commit: 20d4c8a079916f47267df3dab5a8e663f6eb019b
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '266'
 ht-degree: 0%
 
 ---
 
-
 # Microsoft Dynamics 동기화 유효성 검사 {#validate-microsoft-dynamics-sync}
 
 >[!CAUTION]
 >
->Dynamics Sync에 대해 MFA(Multi-Factor Authentication)가 활성화된 경우 Dynamics에서 Marketing To와 제대로 동기화하려면 MFA 인증을 비활성화해야 합니다. 자세한 내용은 [Marketing Support](https://nation.marketo.com/t5/Support/ct-p/Support)에 문의하십시오.
+>Dynamics Sync에 대해 MFA(Multi-Factor Authentication)가 활성화된 경우 Dynamics에서 Marketo과 제대로 동기화하려면 MFA 인증을 비활성화해야 합니다. 자세한 내용은 [Marketo 지원](https://nation.marketo.com/t5/Support/ct-p/Support)으로 문의하십시오.
 
-## Marketing에서 {#run-validate-sync-in-marketo}의 유효성 검사 동기화 실행
+## Marketo {#run-validate-sync-in-marketo}에서 유효성 검사 동기화 실행
 
-동기화 유효성 검사 도구를 실행하여 Microsoft Dynamics Sync와 Marketing Cloud 간의 최종 연결을 만들기 전에 올바르게 설정해야 합니다. 이 프로세스는 문제가 있는 위치를 정확히 파악하는 7가지 설정 단계의 검사 목록을 생성합니다. 이러한 작업이 제대로 수행되었는지 확인하는 것은 나중에 많은 시간을 절약할 수 있습니다.
+동기화 유효성 검사 도구를 실행하여 Marketo과 Microsoft Dynamics Sync가 올바르게 설정되었는지 확인한 후 동기화 간에 최종 연결이 필요합니다. 이 프로세스는 문제가 있는 위치를 정확히 파악하는 7가지 설정 단계의 검사 목록을 생성합니다. 이러한 작업이 제대로 수행되었는지 확인하는 것은 나중에 많은 시간을 절약할 수 있습니다.
 
 1. **관리** 탭을 클릭한 다음 통합 영역에서 **Microsoft Dynamics** 링크를 클릭합니다.
 
@@ -49,7 +49,7 @@ ht-degree: 0%
 
    >[!CAUTION]
    >
-   >현재 Marketing to Dynamics Sync에 대한 샌드박스 새로 고침을 지원하지 않습니다. Dynamics CRM 샌드박스를 새로 고쳐야 하는 경우 새로운 Marketing 샌드박스가 필요합니다. 자세한 내용은 고객 성공 관리자에게 문의하십시오.
+   >현재 Marketo Dynamics Sync에 대한 샌드박스 새로 고침을 지원하지 않습니다. Dynamics CRM 샌드박스를 새로 고쳐야 하는 경우 새 Marketo 샌드박스가 필요합니다. 자세한 내용은 고객 성공 관리자에게 문의하십시오.
 
 >[!MORELIKETHIS]
 >
