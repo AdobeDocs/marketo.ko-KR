@@ -1,15 +1,15 @@
 ---
 unique-page-id: 7516607
-description: 검토해야 할 사항 - 핵심 기술 - 마케팅 문서 - 제품 설명서
+description: 검토해야 할 사항 - 핵심 기술 - Marketo 문서 - 제품 문서
 title: 검토해야 할 사항 - 핵심 기술
+exl-id: 37dfb6e7-b850-45fe-bbf4-15eb58a7bc1d
 translation-type: tm+mt
-source-git-commit: d7d6aee63144c472e02fe0221c4a164183d04dd4
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '96'
 ht-degree: 0%
 
 ---
-
 
 # 검토할 사항:핵심 기술 {#things-to-review-core-skills}
 
