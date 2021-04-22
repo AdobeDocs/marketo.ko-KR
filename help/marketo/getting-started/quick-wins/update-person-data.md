@@ -1,15 +1,15 @@
 ---
 unique-page-id: 2359426
-description: 개인 데이터 업데이트 - 마케팅 문서 - 제품 설명서
+description: 개인 데이터 업데이트 - Marketo 문서 - 제품 설명서
 title: 개인 데이터 업데이트
+exl-id: e4fe0df7-5744-41e6-821f-942d247123fc
 translation-type: tm+mt
-source-git-commit: d7d6aee63144c472e02fe0221c4a164183d04dd4
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '162'
 ht-degree: 0%
 
 ---
-
 
 # 개인 데이터 업데이트 {#update-person-data}
 
@@ -43,7 +43,7 @@ ht-degree: 0%
 
    >[!TIP]
    >
-   >Marketing To에서 개인 데이터를 업데이트하는 방법은 다양합니다. [인물 목록 가져오기](/help/marketo/getting-started/quick-wins/import-a-list-of-people.md) 및 [데이터 값 변경](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/change-data-value.md)을 참조하십시오.
+   >Marketo에서 개인 데이터를 업데이트하는 방법은 다양합니다. [인물 목록 가져오기](/help/marketo/getting-started/quick-wins/import-a-list-of-people.md) 및 [데이터 값 변경](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/change-data-value.md)을 참조하십시오.
 
 ## 개인 데이터 업데이트 {#update-the-person-data}
 
