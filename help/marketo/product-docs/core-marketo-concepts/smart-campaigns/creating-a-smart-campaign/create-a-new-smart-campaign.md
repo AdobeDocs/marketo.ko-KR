@@ -1,19 +1,19 @@
 ---
 unique-page-id: 1146931
-description: 새 스마트 캠페인 만들기 - 마케팅 문서 - 제품 설명서
+description: 새 스마트 캠페인 만들기 - Marketo 문서 - 제품 설명서
 title: 새 스마트 캠페인 만들기
+exl-id: c24ef00a-1f5c-4d0f-a7ff-131dcb593119
 translation-type: tm+mt
-source-git-commit: 4a0bd2efe99284807a46d07ffef0070d9a303631
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '131'
 ht-degree: 0%
 
 ---
 
-
 # 새 스마트 캠페인 만들기 {#create-a-new-smart-campaign}
 
-스마트한 캠페인은 Marketing에서 가장 중요한 도구입니다. 한 사람에 대해 트리거하고 작업을 수행하거나 수백만 명의 사람을 롤업 및 일련의 흐름 단계를 실행할 수 있습니다.
+스마트 캠페인은 Marketo에서 가장 중요한 도구입니다. 한 사람에 대해 트리거하고 작업을 수행하거나 수백만 명의 사람을 롤업 및 일련의 흐름 단계를 실행할 수 있습니다.
 
 >[!NOTE]
 >
