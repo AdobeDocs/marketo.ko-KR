@@ -1,19 +1,19 @@
 ---
 unique-page-id: 7514821
-description: 릴리스 노트 - 2015년 5월 - Marketing Docs - 제품 설명서
+description: 릴리스 노트 - 2015년 5월 - Marketo 문서 - 제품 설명서
 title: 릴리스 노트 - 2015년 5월
+exl-id: 29f42b17-58e3-4e45-a871-79d91a47fb9f
 translation-type: tm+mt
-source-git-commit: 029d8b419ba5078980b4fde9890bdb35194bf264
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '251'
 ht-degree: 0%
 
 ---
 
-
 # 릴리스 노트:2015년 5월 {#release-notes-may}
 
-다음 기능은 2015년 5월 릴리스에 포함되어 있습니다. 기능을 사용할 수 있는지 확인하려면 Marketing To Edition을 확인하십시오. 릴리스 후 다시 돌아와 각 기능에 대한 자세한 아티클에 대한 링크를 찾으십시오.
+다음 기능은 2015년 5월 릴리스에 포함되어 있습니다. 기능을 사용할 수 있는지 Marketo Edition을 확인하십시오. 릴리스 후 다시 돌아와 각 기능에 대한 자세한 아티클에 대한 링크를 찾으십시오.
 
 ## 완전 반응형 랜딩 페이지
 
@@ -31,7 +31,7 @@ ht-degree: 0%
 
 ## 이메일 배달 가능 {#email-deliverability}
 
-이제 Marketing은 추가된 도메인에서 주간 자동 SPF 및 DKIM 검사를 실행합니다. 알림을 확인하여 최신 정보를 살펴보십시오.
+이제 Marketo은 추가된 도메인에서 주간 자동 SPF 및 DKIM 검사를 실행합니다. 알림을 확인하여 최신 정보를 살펴보십시오.
 
 ## 이메일 템플릿 동작 변경 {#email-template-behavior-change}
 
