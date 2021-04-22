@@ -1,15 +1,15 @@
 ---
 unique-page-id: 2953243
-description: 알림 유형 - 마케팅 문서 - 제품 설명서
+description: 알림 유형 - Marketo 문서 - 제품 설명서
 title: 알림 유형
+exl-id: 384cea0a-6252-4600-9211-aa5d6a7e875c
 translation-type: tm+mt
-source-git-commit: e5050328cbddaf072dd60ddd8d7363a704e720b5
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '246'
 ht-degree: 0%
 
 ---
-
 
 # 알림 유형 {#notification-types}
 
@@ -43,7 +43,7 @@ Salesforce를 사용하는 경우 동기화 오류 알림은 아래와 같습니
 
 Facebook
 
-서비스 약관에 동의하지 않고 리드를 Facebook으로 보내려고 하거나 Marketing To 앱을 제거한 후 리드를 Facebook으로 보내려고 하는 경우.
+서비스 약관에 동의하지 않고 리드를 Facebook으로 보내려고 하거나 Marketo 앱을 제거한 후 리드를 Facebook으로 보내려고 하는 경우
 
 유휴 트리거 캠페인 정리
 
@@ -51,7 +51,7 @@ Facebook
 
 LinkedIn
 
-3번 시도해도 Marketing에서 새 대상을 만들거나, 로그인하거나, 이메일을 LinkedIn에 푸시할 수 없는 경우.
+3번 시도해도 Marketo에서 새 대상자를 만들거나, 로그인하거나, LinkedIn에 이메일을 푸시할 수 없는 경우.
 
 ![](assets/linkedin.png)
 
