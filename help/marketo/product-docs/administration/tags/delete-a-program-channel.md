@@ -1,15 +1,15 @@
 ---
 unique-page-id: 2360281
-description: 프로그램 채널 삭제 - 마케팅 문서 - 제품 설명서
+description: 프로그램 채널 삭제 - Marketo 문서 - 제품 설명서
 title: 프로그램 채널 삭제
+exl-id: 0a46cafb-3f9d-422a-a08c-92bcbb80da8e
 translation-type: tm+mt
-source-git-commit: f79909ce8f2e37bf0748596774fe47ac03618696
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '89'
 ht-degree: 0%
 
 ---
-
 
 # 프로그램 채널 {#delete-a-program-channel} 삭제
 
