@@ -1,31 +1,31 @@
 ---
 unique-page-id: 11372975
-description: 3단계 중 1단계 - Salesforce에 마케팅 필드 추가(Professional) - 마케팅 문서 - 제품 설명서
-title: 3단계 중 1단계 - Salesforce에 마케팅 필드 추가(Professional)
+description: 3단계 중 1단계 - Salesforce에 Marketo 필드 추가(Professional) - Marketo 문서 - 제품 설명서
+title: 3단계 중 1단계 - Salesforce에 Marketo 필드 추가(Professional)
+exl-id: 1b52825e-201d-4b55-8edf-444b1653d591
 translation-type: tm+mt
-source-git-commit: 2b5ccd7220557a5e966d33436d0f0d2a65e4589d
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '745'
 ht-degree: 0%
 
 ---
 
-
-# 3단계 중 1단계:Salesforce(Professional) {#step-of-add-marketo-fields-to-salesforce-professional}에 마케팅 필드 추가
+# 3단계 중 1단계:Salesforce(Professional) {#step-of-add-marketo-fields-to-salesforce-professional}에 Marketo 필드 추가
 
 >[!PREREQUISITES]
 >
->Salesforce 인스턴스는 Marketing To와 Salesforce 간에 데이터를 동기화하려면 Salesforce API에 액세스할 수 있어야 합니다.
+>Marketo과 Salesforce 간의 데이터를 동기화하려면 Salesforce 인스턴스에 Salesforce API에 대한 액세스 권한이 있어야 합니다.
 
-Marketing Cloud에서는 일련의 필드를 사용하여 특정 종류의 마케팅 관련 정보를 캡처합니다. Salesforce에서 이 데이터를 사용하려면 아래 지침을 따르십시오.
+Marketo에서는 일련의 필드를 사용하여 특정 종류의 마케팅 관련 정보를 캡처합니다. Salesforce에서 이 데이터를 사용하려면 아래 지침을 따르십시오.
 
 1. Salesforce에서 리드 및 연락처 개체에 대해 3개의 사용자 정의 필드를 만듭니다.점수, 획득 프로그램 및 획득 날짜.
 1. 리드 및 연락처 간에 이러한 사용자 정의 필드를 매핑하여 Salesforce에서 전환할 때 값이 이월되도록 할 수 있습니다.
 1. 필요한 경우 다른 추가 필드를 만들 수 있습니다(아래 표 참조).
 
-이러한 모든 사용자 정의 필드는 선택 사항이며 Marketing Cloud 및 Salesforce를 동기화할 필요가 없습니다. 우수 사례로, 점수, 획득 프로그램 및 획득 날짜에 대한 필드를 만드는 것이 좋습니다.
+이러한 모든 사용자 정의 필드는 선택 사항이며 Marketo 및 Salesforce를 동기화할 필요가 없습니다. 우수 사례로, 점수, 획득 프로그램 및 획득 날짜에 대한 필드를 만드는 것이 좋습니다.
 
-## Salesforce {#add-marketo-fields-to-salesforce}에 마케팅 필드 추가
+## Salesforce {#add-marketo-fields-to-salesforce}에 Marketo 필드 추가
 
 위에 나열된 Salesforce에서 리드 및 연락처 개체에 3개의 사용자 정의 필드를 추가합니다. 더 추가하려면 이 섹션 끝에 있는 사용 가능한 필드 표를 참조하십시오.
 
@@ -185,13 +185,13 @@ Marketing Cloud에서는 일련의 필드를 사용하여 특정 종류의 마�
    <td>길이 255</td> 
   </tr> 
   <tr> 
-   <td>유추 회사</td> 
+   <td>추론된 회사</td> 
    <td>mkto71_Imined_Company</td> 
    <td>텍스트</td> 
    <td>길이 255</td> 
   </tr> 
   <tr> 
-   <td>유추 국가</td> 
+   <td>추론된 국가</td> 
    <td>mkto71_Inhered_Country</td> 
    <td>텍스트</td> 
    <td>길이 255</td> 
@@ -258,4 +258,4 @@ Salesforce의 리드 개체에 있는 사용자 정의 필드를 연락처 개�
 
 >[!MORELIKETHIS]
 >
->[3단계 중 2단계:Marketing용 Salesforce 사용자 만들기(Professional)](/help/marketo/product-docs/crm-sync/salesforce-sync/setup/professional-edition/step-2-of-3-create-a-salesforce-user-for-marketo-professional.md)
+>[3단계 중 2단계:Marketo용 Salesforce 사용자 만들기(Professional)](/help/marketo/product-docs/crm-sync/salesforce-sync/setup/professional-edition/step-2-of-3-create-a-salesforce-user-for-marketo-professional.md)
