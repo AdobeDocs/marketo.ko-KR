@@ -1,15 +1,15 @@
 ---
 unique-page-id: 1146987
-description: 흐름 단계 삭제 - 마케팅 문서 - 제품 설명서
+description: 흐름 단계 삭제 - Marketo 문서 - 제품 설명서
 title: 흐름 단계 삭제
+exl-id: 039a1e80-48cc-47f9-9e1a-459f89bf0730
 translation-type: tm+mt
-source-git-commit: 4a0bd2efe99284807a46d07ffef0070d9a303631
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '377'
 ht-degree: 0%
 
 ---
-
 
 # 흐름 단계 {#delete-a-flow-step} 삭제
 
