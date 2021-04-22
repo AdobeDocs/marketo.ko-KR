@@ -1,19 +1,19 @@
 ---
 unique-page-id: 37355534
-description: 릴리스 노트 - 2020년 1월 - Marketing Docs - 제품 설명서
+description: 릴리스 노트 - 2020년 1월 - Marketo 문서 - 제품 설명서
 title: 릴리스 노트 - 2020년 1월
+exl-id: 7b011c1a-1161-42f8-8bd0-4ee273928b59
 translation-type: tm+mt
-source-git-commit: f3e3efc1cc480e9c6501b7e808f53c3a8bdc93d8
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '838'
 ht-degree: 0%
 
 ---
 
-
 # 릴리스 노트:2020년 1월 {#release-notes-jan}
 
-다음 기능은 2006년 1월 20일 릴리스에 포함되어 있습니다. 기능 가용성을 확인하려면 Marketing Edition을 확인하십시오.
+다음 기능은 2006년 1월 20일 릴리스에 포함되어 있습니다. 기능을 사용할 수 있는지 Marketo 에디션을 확인하십시오.
 
 >[!AVAILABILITY]
 >
@@ -32,7 +32,7 @@ ht-degree: 0%
 >현재 AEM 자산 선택기는 Firefox에서만 완전히 지원됩니다. Safari에서는 지원되지 않으며 SameSite 쿠키 설정에 따라 최신 버전의 Chrome(v. 80)에서 작동하지 않을 수 있습니다.
 
 * **Microsoft Dynamics - CRM에 리드 동기화**:Marketo Engage과 Microsoft Dynamics 간의 리드 및 연락처를 실시간으로 동기화합니다. &quot;Microsoft에 사람 동기화&quot; 흐름 동작을 사용하면 Microsoft Dynamics에서 리드나 연락처를 만들 수 있습니다.
-* **LinkedIn 리드 생성 Forms 추가 필드 매핑**:LinkedIn Lead Gen Forms에서 리드 데이터를 캡처하여 세일즈 및 마케팅 접점 모두에 대해 보다 연관성 있는 경험을 만들 수 있습니다. 숨김 필드, 동의 필드 및 테스트 리드 필드를 Marketo Engage으로 가져옵니다.
+* **linkedIn 리드 생성 Forms 추가 필드 매핑**:LinkedIn Lead Gen Forms의 리드 데이터를 캡처하여 세일즈 및 마케팅 접점 모두에 연관성 높은 경험을 제작할 수 있습니다. 숨김 필드, 동의 필드 및 테스트 리드 필드를 Marketo Engage으로 가져옵니다.
 * **이메일 템플릿 종속성 API**:이메일 템플릿에 의존하는 자산 목록을 작성하여 가능한 변경 사항의 범위와 템플릿에 대한 주소 종속성을 신속하게 변경 및 삭제할 수 있습니다.
 * **다중 인스턴스 관리 개선** 사항:구독의 스크롤 가능 및 알파벳순 드롭다운 메뉴를 사용하여 필요한 인스턴스로 빠르게 이동합니다.
 
