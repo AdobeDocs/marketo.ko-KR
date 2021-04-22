@@ -1,19 +1,19 @@
 ---
 unique-page-id: 2951050
-description: 릴리스 노트 - 2014년 1월 - Marketing Docs - 제품 설명서
+description: 릴리스 노트 - 2014년 1월 - Marketo 문서 - 제품 설명서
 title: 릴리스 노트 - 2014년 1월
+exl-id: 1507aa40-9bd7-42be-8c85-deae8dd45234
 translation-type: tm+mt
-source-git-commit: 029d8b419ba5078980b4fde9890bdb35194bf264
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '294'
 ht-degree: 0%
 
 ---
 
-
 # 릴리스 노트:2014년 1월 {#release-notes-january}
 
-다음 기능은 2014년 1월 릴리스에 포함되어 있습니다. 기능을 사용할 수 있는지 확인하려면 [Marketing Edition](https://www.marketo.com/pricing/)을(를) 확인하십시오.
+다음 기능은 2014년 1월 릴리스에 포함되어 있습니다. 기능을 사용할 수 있는지 확인하려면 [Marketo Edition](https://www.marketo.com/pricing/)을 확인하십시오.
 
 ## Forms 2.0 {#forms}
 
@@ -35,7 +35,7 @@ ht-degree: 0%
 
 **랜딩 페이지에 Forms을 쉽게 포함할 수 있습니다.**
 
-Marketing의 랜딩 페이지에 배치된 양식의 html 코드를 가져와 iFrame에 삽입하는 기간이 지났습니다. 포함 코드를 선택하고 양식을 렌더링할 랜딩 페이지에 삽입하면 됩니다. 표준 모드와 라이트박스 두 가지 모드를 통해 사이트에서 Marketing Cloud 양식을 보다 유연하게 사용할 수 있습니다.
+이제 Marketo 랜딩 페이지에 배치된 양식의 html 코드를 가져와 iFrame에 삽입하는 시간이 지났습니다. 포함 코드를 선택하고 양식을 렌더링할 랜딩 페이지에 삽입하면 됩니다. 표준 모드와 라이트박스 두 가지 모드를 통해 사이트에서 Marketo 양식을 보다 유연하게 사용할 수 있습니다.
 
 ![](assets/image2014-9-22-10-3a38-3a2.png)
 
