@@ -1,19 +1,19 @@
 ---
 unique-page-id: 7512292
-description: 수준 3 웹 회의를 LaunchPoint 서비스로 추가 - Marketing To Docs - 제품 설명서
+description: LaunchPoint 서비스로 레벨 3 웹 미팅 추가 - Marketo Docs - 제품 설명서
 title: 수준 3 웹 회의를 LaunchPoint 서비스로 추가
+exl-id: f419b019-33bb-446d-baf5-55393770a703
 translation-type: tm+mt
-source-git-commit: 78961a3e163ce903facf955a9dda6909b5e85bad
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '119'
 ht-degree: 0%
 
 ---
 
-
 # 수준 3 웹 회의를 LaunchPoint 서비스로 추가 {#add-level-web-meeting-as-a-launchpoint-service}
 
-Marketing에서 수준 3 웹 회의 등록 및 참석을 관리합니다.
+Marketo에서 수준 3 웹 회의 등록 및 참석을 관리합니다.
 
 >[!NOTE]
 >
@@ -39,7 +39,7 @@ Marketing에서 수준 3 웹 회의 등록 및 참석을 관리합니다.
 
    ![](assets/image2015-4-23-10-3a10-3a26.png)
 
-이제 수준 3 웹 회의 계정이 Marketing To와 동기화됩니다!
+이제 수준 3 웹 회의 계정이 Marketo과 동기화됩니다!
 
 ![](assets/level-3-web-meeting.png)
 
