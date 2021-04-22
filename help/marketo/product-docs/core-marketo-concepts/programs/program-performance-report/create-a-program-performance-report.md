@@ -1,15 +1,15 @@
 ---
 unique-page-id: 1147129
-description: 프로그램 성능 보고서 만들기 - 마케팅 문서 - 제품 설명서
+description: 프로그램 성능 보고서 만들기 - Marketo 문서 - 제품 설명서
 title: 프로그램 성능 보고서 만들기
+exl-id: 0b4c3769-e4a8-47b0-aa2c-a21acaf9525c
 translation-type: tm+mt
-source-git-commit: e5050328cbddaf072dd60ddd8d7363a704e720b5
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '126'
 ht-degree: 0%
 
 ---
-
 
 # 프로그램 성능 보고서 {#create-a-program-performance-report} 만들기
 
