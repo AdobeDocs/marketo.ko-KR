@@ -1,15 +1,15 @@
 ---
 unique-page-id: 2360358
-description: 사용자 로그인을 SSO로만 제한 - 마케팅 문서 - 제품 설명서
+description: 사용자 로그인을 SSO로만 제한 - Marketo 문서 - 제품 설명서
 title: 사용자 로그인을 SSO로만 제한
+exl-id: 74915871-dcf5-478d-a5ae-b20c3d2de553
 translation-type: tm+mt
-source-git-commit: a7c90193e5c934119fa3b6bdf864d1458d1aad7c
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '222'
 ht-degree: 0%
 
 ---
-
 
 # 사용자 로그인을 SSO로만 제한 {#restrict-user-login-to-sso-only}
 
@@ -37,7 +37,7 @@ ht-degree: 0%
 
 >[!TIP]
 >
->**SSO 필요**&#x200B;를 선택하는 경우 역할을 설정하는 동안 **단일 사인온 무시** 옵션을 선택하여 이 제한에서 [사용자 역할](/help/marketo/product-docs/administration/users-and-roles/create-delete-edit-and-change-a-user-role.md)을 제외할 수 있습니다. 이렇게 하면 사용자가 정상적으로 로그인할 수 있습니다. 예를 들어 관리 사용자는 로그인 화면을 통해 Marketing To에 계속 로그인해야 할 수 있습니다.
+>**SSO 필요**&#x200B;를 선택하는 경우 역할을 설정하는 동안 **단일 사인온 무시** 옵션을 선택하여 이 제한에서 [사용자 역할](/help/marketo/product-docs/administration/users-and-roles/create-delete-edit-and-change-a-user-role.md)을 제외할 수 있습니다. 이렇게 하면 사용자가 정상적으로 로그인할 수 있습니다. 예를 들어 관리 사용자는 로그인 화면을 통해 Marketo에 계속 로그인해야 할 수 있습니다.
 
 >[!CAUTION]
 >
@@ -49,5 +49,5 @@ ht-degree: 0%
 >
 >* [포털에 단일 사인온 추가](/help/marketo/product-docs/administration/additional-integrations/add-single-sign-on-to-a-portal.md)
 >* [구독 로그인에 범용 ID 사용](/help/marketo/product-docs/administration/settings/using-a-universal-id-for-subscription-login.md)
->* [유니버설 ID를 사용하여 2개의 인스턴스로 마케팅 사용자 초대](https://nation.marketo.com/t5/Knowledgebase/Inviting-Marketo-Users-to-Two-Instances-with-Universal-ID-UID/ta-p/251122)
+>* [범용 ID로 2개의 인스턴스에 Marketo 사용자 초대](https://nation.marketo.com/t5/Knowledgebase/Inviting-Marketo-Users-to-Two-Instances-with-Universal-ID-UID/ta-p/251122)
 
