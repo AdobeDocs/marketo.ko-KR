@@ -1,15 +1,15 @@
 ---
 unique-page-id: 9437991
-description: 모바일 스마트 캠페인에 대한 트리거 및 필터 - 마케팅 문서 - 제품 설명서
+description: 모바일 스마트 캠페인에 대한 트리거 및 필터 - Marketo 문서 - 제품 설명서
 title: 모바일 스마트 캠페인에 대한 트리거 및 필터
+exl-id: 76fc7a74-b27d-4898-a8ca-85c9c2828a28
 translation-type: tm+mt
-source-git-commit: 4a0bd2efe99284807a46d07ffef0070d9a303631
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '818'
 ht-degree: 0%
 
 ---
-
 
 # 모바일 스마트 캠페인에 대한 트리거 및 필터 {#triggers-and-filters-for-mobile-smart-campaigns}
 
@@ -63,11 +63,11 @@ ht-degree: 0%
 
 **모바일 앱 있음**
 
-앱을 설치한 적이 있는 모든 사용자를 찾으려면 이 필터를 사용하십시오. 필터로만 사용할 수 있습니다.
+이 필터를 사용하여 앱을 설치한 적이 있는 모든 사용자를 검색합니다. 필터로만 사용할 수 있습니다.
 
 >[!NOTE]
 >
->Marketing to가 앱 설치를 추적하지 않으므로 이 필터는 현재 및 이전 설치를 모두 찾습니다.
+>Marketo이 앱 설치 취소를 추적하지 않으므로 이 필터는 현재 및 이전 설치를 모두 찾습니다.
 
 **제한**:장치 유형, 플랫폼, 모바일 앱, 모바일 앱 버전, 장치 유형, 설치 소스, 푸시 사용 여부 및 로케일
 
@@ -137,7 +137,7 @@ ht-degree: 0%
    >   * 구입하는 데 20초가 걸렸다
 
 
-Marketing To에서 필터가 표시되는 방식은 다음과 같습니다.
+Marketo에서 필터는 다음과 같습니다.
 
 ![](assets/image2015-8-17-13-3a16-3a12.png)
 
