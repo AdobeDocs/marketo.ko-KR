@@ -1,25 +1,25 @@
 ---
 unique-page-id: 11377395
-description: 추가 브랜딩 도메인 추가 - 마케팅 문서 - 제품 설명서
+description: 추가 브랜딩 도메인 추가 - Marketo 문서 - 제품 설명서
 title: 추가 브랜딩 도메인 추가
+exl-id: df6e5afe-dbb0-4fbe-bf06-79d92a91b986
 translation-type: tm+mt
-source-git-commit: f865630638e7c0fe6ac2a449e196a7de4fbfeea1
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '135'
 ht-degree: 0%
 
 ---
 
-
 # 추가 브랜딩 도메인 {#add-an-additional-branding-domain} 추가
 
-단일 Marketing To 인스턴스에서 여러 브랜드를 실행할 때 브랜딩 도메인을 추가로 추가하고 각 브랜드에 자체 브랜드 추적 링크를 추가하도록 할 수 있습니다.
+단일 Marketo 인스턴스에서 여러 브랜드를 실행할 때 브랜딩 도메인을 추가로 추가하고 각 브랜드에 자체 브랜드 추적 링크를 추가하도록 할 수 있습니다.
 
 >[!PREREQUISITES]
 >
 >추가 브랜드 도메인을 추가하기 전에 범용 추적 링크](/help/marketo/product-docs/administration/email-setup/add-multiple-branding-domains/edit-your-default-branding-domain.md)을(를) 브랜드 도메인으로 교체해야 합니다.[
 
-1. 내 마켓플레이스에서 **관리**&#x200B;를 클릭한 다음 **이메일** 링크를 클릭합니다.
+1. 내 Marketo에서 **관리**&#x200B;를 클릭한 다음 **이메일** 링크를 클릭합니다.
 
    ![](assets/image2016-6-29-16-3a42-3a20.png)
 
