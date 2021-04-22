@@ -1,15 +1,15 @@
 ---
 unique-page-id: 2953358
-description: 마케팅 달력 - 마케팅 문서 - 제품 문서에서 바로 항목 삭제
+description: 마케팅 달력에서 직접 항목 삭제 - Marketo 문서 - 제품 문서
 title: 마케팅 달력에서 직접 항목 삭제
+exl-id: c0e2dbc5-f9b1-4743-b07d-c31fecea9977
 translation-type: tm+mt
-source-git-commit: e5050328cbddaf072dd60ddd8d7363a704e720b5
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '87'
 ht-degree: 0%
 
 ---
-
 
 # 마케팅 달력 {#delete-entries-directly-in-the-marketing-calendar}에서 직접 항목 삭제
 
