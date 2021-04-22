@@ -1,15 +1,15 @@
 ---
 unique-page-id: 10100269
-description: 사용자 지정 활동 편집 - 마케팅 문서 - 제품 설명서
+description: 사용자 지정 활동 편집 - Marketo 문서 - 제품 설명서
 title: 사용자 지정 활동 편집
+exl-id: bdfbf0aa-0035-46d2-80dd-21a1366c6514
 translation-type: tm+mt
-source-git-commit: f865630638e7c0fe6ac2a449e196a7de4fbfeea1
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '103'
 ht-degree: 0%
 
 ---
-
 
 # 사용자 지정 활동 편집 {#edit-a-custom-activity}
 
