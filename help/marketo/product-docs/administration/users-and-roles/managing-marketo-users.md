@@ -1,17 +1,17 @@
 ---
 unique-page-id: 2359906
-description: 마케팅 사용자 관리 - 마케팅 문서 - 제품 설명서
-title: 마케팅 사용자 관리
+description: Marketo 사용자 관리 - Marketo 문서 - 제품 설명서
+title: Marketo 사용자 관리
+exl-id: 40506d3c-a7cb-45fb-bc10-021bd0c70806
 translation-type: tm+mt
-source-git-commit: f79909ce8f2e37bf0748596774fe47ac03618696
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '342'
 ht-degree: 0%
 
 ---
 
-
-# 마케팅 사용자 관리 {#managing-marketo-users}
+# Marketo 사용자 관리 {#managing-marketo-users}
 
 ## 사용자 만들기 {#create-users}
 
@@ -37,7 +37,7 @@ ht-degree: 0%
 
    >[!TIP]
    >
-   >만료 날짜는 Marketing이 짧은 시간 동안만 액세스해야 하는 단기 외부 관계자 또는 컨설턴트에게 적합합니다.
+   >만료일은 짧은 시간 동안만 Marketo 액세스를 필요로 하는 단기 외부 관계자 또는 컨설턴트에게 적합합니다.
 
    >[!NOTE]
    >
@@ -115,7 +115,7 @@ ht-degree: 0%
 
 >[!CAUTION]
 >
->Marketing의 유일한 관리자인 경우 자신의 관리자 권한을 제거하지 마십시오.
+>Marketo의 유일한 관리자라면 고유한 관리자 권한을 제거하지 마십시오.
 
 >[!NOTE]
 >
