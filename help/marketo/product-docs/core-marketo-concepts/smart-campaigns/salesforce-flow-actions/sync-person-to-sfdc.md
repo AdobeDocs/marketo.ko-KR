@@ -1,15 +1,15 @@
 ---
 unique-page-id: 1147027
-description: SFDC에 사람 동기화 - Marketing To Docs - 제품 설명서
+description: SFDC에 사람 동기화 - Marketo 문서 - 제품 설명서
 title: SFDC에 사람 동기화
+exl-id: 4284ec35-6ac5-4084-beb7-976eb6fd7e3c
 translation-type: tm+mt
-source-git-commit: 5b9f48c98464c79bcdca2e335f6a4a2edce98ce4
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '133'
 ht-degree: 0%
 
 ---
-
 
 # 사람을 SFDC {#sync-person-to-sfdc}에 동기화
 
@@ -19,7 +19,7 @@ ht-degree: 0%
 
 ## 개요 {#overview}
 
-이 흐름 단계에서는 Salesforce CRM에 리드로 Marketing To가 만든 사람을 삽입합니다.
+이 흐름 단계에서는 Marketo에서 만든 사람을 리드로 Salesforce CRM에 삽입합니다.
 
 ![](assets/sync-person-to-sfdc.png)
 
@@ -41,4 +41,4 @@ ht-degree: 0%
 
    >[!CAUTION]
    >
-   >Salesforce에서는 &quot;연락처&quot;를 리드 큐에 할당할 수 없습니다. 이 경우 Marketing은 Salesforce에 중복 &quot;리드&quot;를 만듭니다.
+   >Salesforce에서는 &quot;연락처&quot;를 리드 큐에 할당할 수 없습니다. 이 경우 Marketo은 Salesforce에서 &quot;리드&quot;를 복제합니다.
