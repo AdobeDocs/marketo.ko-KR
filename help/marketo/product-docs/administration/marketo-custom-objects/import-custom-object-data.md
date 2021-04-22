@@ -1,21 +1,21 @@
 ---
 unique-page-id: 10099680
-description: 사용자 지정 개체 데이터 가져오기 - 마케팅 문서 - 제품 설명서
+description: 사용자 정의 개체 데이터 가져오기 - Marketo 문서 - 제품 설명서
 title: 사용자 지정 개체 데이터 가져오기
+exl-id: ee11199a-57ca-47ec-8f59-8384a93ea05e
 translation-type: tm+mt
-source-git-commit: f865630638e7c0fe6ac2a449e196a7de4fbfeea1
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '233'
 ht-degree: 0%
 
 ---
 
-
 # 사용자 지정 개체 데이터 가져오기 {#import-custom-object-data}
 
 사용자 정의 개체 데이터를 데이터베이스로 쉽게 가져올 수 있습니다. 회사와 함께 사용자 지정 개체를 사용하는 경우 자세한 내용은 [회사와 사용자 지정 개체 사용](/help/marketo/product-docs/administration/marketo-custom-objects/understanding-marketo-custom-objects.md#using-custom-objects-with-companies)을 참조하십시오.
 
-1. 내 마켓플레이스에서 **데이터베이스**&#x200B;로 이동합니다.
+1. 내 Marketo에서 **데이터베이스**&#x200B;로 이동합니다.
 
    ![](assets/db-1.png)
 
@@ -37,9 +37,9 @@ ht-degree: 0%
 
    >[!NOTE]
    >
-   >사용자 지정 개체 레코드를 만들거나 업데이트할 때 데이터 중복 제거 필드를 고유 식별자로 사용합니다. 이 예에서는 **car** 사용자 지정 개체 - vin(차량 ID 번호)의 데이터 중복 제거 필드를 사용합니다. 사용자 지정 개체 레코드만 업데이트하는 경우 Marketing To Guid를 데이터 중복 제거 모드로 선택할 수 있습니다.
+   >사용자 지정 개체 레코드를 만들거나 업데이트할 때 데이터 중복 제거 필드를 고유 식별자로 사용합니다. 이 예에서는 **car** 사용자 지정 개체 - vin(차량 ID 번호)의 데이터 중복 제거 필드를 사용합니다. 사용자 지정 개체 레코드만 업데이트하는 경우 Marketo Guid를 데이터 중복 제거 모드로 선택할 수 있습니다.
 
-1. 드롭다운에서 선택한 각 열을 마케팅 필드에 매핑합니다.
+1. 드롭다운에서 선택한 각 열을 Marketo 필드에 매핑합니다.
 
    ![](assets/image2016-4-13-14-3a36-3a57.png)
 
@@ -61,7 +61,7 @@ ht-degree: 0%
 
    >[!TIP]
    >
-   >가져오기가 완료되면 **경고 보내기:** 필드에 이메일 주소를 입력합니다.
+   >**경고 보내기:** 필드에 이메일 주소를 입력합니다. 가져오기가 완료되면 Marketo에서 이메일을 보냅니다.
 
 1. 화면의 오른쪽 상단에는 가져오기가 실행되는 동안 알림이 표시되고, 가져오기가 완료되면 최종 결과가 표시됩니다.
 
@@ -71,4 +71,4 @@ ht-degree: 0%
 
 >[!MORELIKETHIS]
 >
->[마케팅 사용자 지정 개체 이해](/help/marketo/product-docs/administration/marketo-custom-objects/understanding-marketo-custom-objects.md)
+>[Marketo 사용자 정의 개체 이해](/help/marketo/product-docs/administration/marketo-custom-objects/understanding-marketo-custom-objects.md)
