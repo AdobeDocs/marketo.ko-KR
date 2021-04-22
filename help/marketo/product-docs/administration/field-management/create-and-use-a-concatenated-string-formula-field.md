@@ -1,19 +1,19 @@
 ---
 unique-page-id: 2360337
-description: 연결된 문자열(공식) 필드 만들기 및 사용 - 마케팅 문서 - 제품 설명서
+description: 연결된 문자열(공식) 필드 만들기 및 사용 - Marketo 문서 - 제품 설명서
 title: 연결된 문자열(공식) 필드 만들기 및 사용
+exl-id: 779fbc56-a913-422a-a778-d86cc3ed7d48
 translation-type: tm+mt
-source-git-commit: 7b18fee7e376d6101cbeec45a3fcbaf1104c1bd0
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '172'
 ht-degree: 0%
 
 ---
 
-
 # 연결된 문자열(공식) 필드 {#create-and-use-a-concatenated-string-formula-field} 만들기 및 사용
 
-여러 필드의 값을 결합하거나 마케터 공식 필드를 사용하여 조건부 값을 만들 수 있습니다.
+여러 필드의 값을 결합하거나 Marketo 공식 필드를 사용하여 조건부 값을 작성할 수 있습니다.
 
 1. **관리**&#x200B;로 이동하고 **필드 관리**&#x200B;를 클릭합니다.
 
