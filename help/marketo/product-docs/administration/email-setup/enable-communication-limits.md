@@ -1,15 +1,15 @@
 ---
 unique-page-id: 2360222
-description: 통신 제한 사용 - 마케팅 문서 - 제품 설명서
+description: 통신 제한 사용 - Marketo 문서 - 제품 설명서
 title: 통신 제한 사용
+exl-id: c69c083c-08fe-49fc-91d4-5b1ff82a2e52
 translation-type: tm+mt
-source-git-commit: f865630638e7c0fe6ac2a449e196a7de4fbfeea1
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '153'
 ht-degree: 0%
 
 ---
-
 
 # 통신 제한 사용 {#enable-communication-limits}
 
