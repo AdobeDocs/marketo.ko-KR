@@ -1,15 +1,15 @@
 ---
 unique-page-id: 2360215
-description: 계정에 대해 개인화된 URL 활성화(관리) - Marketing To Docs - 제품 설명서
+description: 계정에 대해 개인화된 URL 활성화(관리) - Marketo 문서 - 제품 설명서
 title: 계정에 대해 개인화된 URL 활성화(관리)
+exl-id: 3fdf6112-f483-4a86-ba8b-43a3d733227a
 translation-type: tm+mt
-source-git-commit: f79909ce8f2e37bf0748596774fe47ac03618696
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '94'
 ht-degree: 0%
 
 ---
-
 
 # 계정(관리) {#enable-personalized-urls-for-your-account-administration}에 대해 개인화된 URL 활성화
 
