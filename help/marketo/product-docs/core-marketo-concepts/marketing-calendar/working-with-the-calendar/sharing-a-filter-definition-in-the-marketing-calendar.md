@@ -1,15 +1,15 @@
 ---
 unique-page-id: 1147304
-description: 마케팅 달력에서 필터 정의 공유 - 마케팅 문서 - 제품 설명서
+description: 마케팅 달력에서 필터 정의 공유 - Marketo 문서 - 제품 설명서
 title: 마케팅 달력에서 필터 정의 공유
+exl-id: 3429edba-fdb1-43e9-82ff-01b952036526
 translation-type: tm+mt
-source-git-commit: e5050328cbddaf072dd60ddd8d7363a704e720b5
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '107'
 ht-degree: 0%
 
 ---
-
 
 # 마케팅 달력에서 필터 정의 공유 {#sharing-a-filter-definition-in-the-marketing-calendar}
 
@@ -33,7 +33,7 @@ ht-degree: 0%
 
    ![](assets/image2014-9-24-11-3a31-3a24.png)
 
-1. URL을 복사하고 다른 Marketing Cloud 사용자와 공유합니다.
+1. URL을 복사하고 다른 Marketo 사용자와 공유합니다.
 
    ![](assets/image2014-9-24-11-3a31-3a29.png)
 
