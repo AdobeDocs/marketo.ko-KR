@@ -1,23 +1,23 @@
 ---
 unique-page-id: 1147226
-description: 시작하기 - Marketing Docs - 제품 설명서
+description: 시작하기 - Marketo 문서 - 제품 설명서
 title: 시작하기
+exl-id: 11c883eb-2a22-4706-ba0a-09ca11648054
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '130'
 ht-degree: 7%
 
 ---
 
-
 # 시작하기 {#getting-started}
 
-## 1단계 {#what-is-marketo} 마케팅이란 무엇입니까?
+## 1단계 Marketo {#what-is-marketo} 소개
 
-마케터가 무엇이라고 말씀하십니까? 좋은 질문입니다!
+Marketo 소개 좋은 질문입니다!
 
-[마케팅 학습](/help/marketo/getting-started/what-is-marketo.md)
+[Marketo 학습](/help/marketo/getting-started/what-is-marketo.md)
 
 ## 2단계 설정 {#get-set-up}
 
@@ -27,7 +27,7 @@ IT 팀의 도움을 통해 신속하게 작업을 완료할 수 있습니다.
 
 ## 3단계 {#get-some-quick-wins} 빠른 승격
 
-Adobe Marketing Cloud의 핵심 기능을 살펴보려면 이 작업을 완료하십시오.
+이러한 작업을 완료하여 Marketo의 핵심 기능을 살펴볼 수 있습니다.
 
 [![](/help/marketo/getting-started/assets/getting-started-1.png) 1. 설정 및 사람 추가](https://docs.marketo.com/pages/viewpage.action?pageId=2359351)
 
