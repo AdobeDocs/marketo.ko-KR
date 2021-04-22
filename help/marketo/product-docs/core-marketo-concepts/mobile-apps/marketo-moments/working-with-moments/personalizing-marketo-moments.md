@@ -1,17 +1,17 @@
 ---
 unique-page-id: 8782021
-description: 마케팅 시간의 개인화 - 마케팅 문서 - 제품 설명서
-title: 마케팅을 위한 고객 경험 개인화
+description: Marketo Moment 개인화 - Marketo 문서 - 제품 설명서
+title: Marketo 경험의 개인화
+exl-id: f92c9215-0ee3-4918-8194-e6d1684a71c6
 translation-type: tm+mt
-source-git-commit: e5050328cbddaf072dd60ddd8d7363a704e720b5
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '73'
 ht-degree: 0%
 
 ---
 
-
-# 마케팅을 대상으로 하는 순간 맞춤화 {#personalizing-marketo-moments}
+# Marketo Moment 사용자 정의 {#personalizing-marketo-moments}
 
 수많은 마케팅 프로그램과 스마트한 캠페인을 진행할 때 모든 것을 볼 수 있다는 것은 좋은 일이지만, 자신만의 작업에만 주력할 수 있습니다.
 
