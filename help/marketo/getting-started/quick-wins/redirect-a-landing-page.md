@@ -1,15 +1,15 @@
 ---
 unique-page-id: 2359428
-description: 랜딩 페이지 리디렉션 - 마케팅 문서 - 제품 설명서
+description: 랜딩 페이지 리디렉션 - Marketo 문서 - 제품 설명서
 title: 랜딩 페이지 리디렉션
+exl-id: 5c9205aa-e970-4d72-a4e3-48593da4181c
 translation-type: tm+mt
-source-git-commit: 65182770291dc14fbe915a40403fc09b433aae86
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '139'
 ht-degree: 0%
 
 ---
-
 
 # 랜딩 페이지 리디렉션 {#redirect-a-landing-page}
 
@@ -41,13 +41,13 @@ ht-degree: 0%
 
 ## 2단계:리디렉션 규칙 정의 {#step-define-the-redirect-rule}
 
-1. 첫 번째 **원본 URL** 드롭다운을 클릭하고 마케팅 CNAME을 선택합니다.
+1. 첫 번째 **원본 URL** 드롭다운을 클릭하고 Marketo CNAME을 선택합니다.
 
    ![](assets/image2014-9-24-13-3a30-3a33.png)
 
    >[!NOTE]
    >
-   >Marketing으로 시작하는 랜딩 페이지만 [CNAME](/help/marketo/product-docs/demand-generation/landing-pages/landing-page-actions/customize-your-landing-page-urls-with-a-cname.md)으로 리디렉션할 수 있습니다.
+   >Marketo [CNAME](/help/marketo/product-docs/demand-generation/landing-pages/landing-page-actions/customize-your-landing-page-urls-with-a-cname.md)으로 시작하는 랜딩 페이지만 리디렉션할 수 있습니다.
 
 1. 두 번째 **원본 URL** 드롭다운을 클릭하고 리디렉션할 랜딩 페이지를 선택합니다.
 
