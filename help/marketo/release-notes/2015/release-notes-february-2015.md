@@ -1,19 +1,19 @@
 ---
 unique-page-id: 6094890
-description: 릴리스 노트 - 2015년 2월 - Marketing Docs - 제품 설명서
+description: 릴리스 노트 - 2015년 2월 - Marketo 문서 - 제품 설명서
 title: 릴리스 노트 - 2015년 2월
+exl-id: a7ce88dc-a4d2-4ccb-9fe5-61130334d24d
 translation-type: tm+mt
-source-git-commit: 029d8b419ba5078980b4fde9890bdb35194bf264
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '327'
 ht-degree: 0%
 
 ---
 
-
 # 릴리스 노트:2015년 2월 {#release-notes-february}
 
-다음 기능은 2015년 2월 릴리스에 포함되어 있습니다. 기능을 사용할 수 있는지 확인하려면 Marketing To Edition을 확인하십시오. 릴리스 후에는 각 기능에 대한 자세한 아티클에 대한 링크를 다시 찾아보십시오. 드럼 롤...
+다음 기능은 2015년 2월 릴리스에 포함되어 있습니다. 기능을 사용할 수 있는지 Marketo Edition을 확인하십시오. 릴리스 후에는 각 기능에 대한 자세한 아티클에 대한 링크를 다시 찾아보십시오. 드럼 롤...
 
 ## 마케팅 자동화 개선 사항 {#marketing-automation-enhancements}
 
@@ -25,7 +25,7 @@ ht-degree: 0%
 
 **HTTPS 인증서 변경 사항**
 
-고객 데이터와 SaaS 서비스의 기밀성과 무결성을 보호하기 위해 Marketing Cloud는 SaaS 업계 모범 사례를 따릅니다.
+고객 데이터와 SaaS 서비스의 기밀성과 무결성을 보호하기 위해 Marketo은 SaaS 업계 모범 사례를 따릅니다.
 
 현재 사용되는 보안 프로토콜(SHA-1 및 SSL)을 다음 도메인에 대한 보안 버전(SHA-2(SHA-256) 및 TLS)으로 바꿉니다.
 
