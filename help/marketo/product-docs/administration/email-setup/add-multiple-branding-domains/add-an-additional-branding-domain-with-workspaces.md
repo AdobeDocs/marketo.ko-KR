@@ -1,15 +1,15 @@
 ---
 unique-page-id: 11377408
-description: 작업 영역 - Marketing To Docs - 제품 설명서를 사용하여 추가 브랜딩 도메인 추가
+description: 작업 영역을 사용하여 추가 브랜딩 도메인 추가 - Marketo 문서 - 제품 설명서
 title: 작업 영역을 사용하여 추가 브랜딩 도메인 추가
+exl-id: ca52dd28-7ba0-4407-85b4-bff2adef0b87
 translation-type: tm+mt
-source-git-commit: f865630638e7c0fe6ac2a449e196a7de4fbfeea1
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '130'
 ht-degree: 0%
 
 ---
-
 
 # 작업 영역 {#add-an-additional-branding-domain-with-workspaces}이(가) 있는 추가 브랜딩 도메인 추가
 
