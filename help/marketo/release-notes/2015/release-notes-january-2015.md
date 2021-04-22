@@ -1,19 +1,19 @@
 ---
 unique-page-id: 4720758
-description: 릴리스 노트 - 2015년 1월 - Marketing Docs - 제품 설명서
+description: 릴리스 노트 - 2015년 1월 - Marketo 문서 - 제품 설명서
 title: 릴리스 노트 - 2015년 1월
+exl-id: f312ff87-6ac1-4167-be98-76600bb4b3cd
 translation-type: tm+mt
-source-git-commit: 029d8b419ba5078980b4fde9890bdb35194bf264
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '361'
 ht-degree: 0%
 
 ---
 
-
 # 릴리스 노트:2015년 1월 {#release-notes-january}
 
-다음 기능은 2015년 1월 릴리스에 포함되어 있습니다. 기능을 사용할 수 있는지 확인하려면 Marketing To Edition을 확인하십시오. 릴리스 후 다시 돌아와 각 기능에 대한 자세한 아티클에 대한 링크를 찾으십시오.
+다음 기능은 2015년 1월 릴리스에 포함되어 있습니다. 기능을 사용할 수 있는지 Marketo Edition을 확인하십시오. 릴리스 후 다시 돌아와 각 기능에 대한 자세한 아티클에 대한 링크를 찾으십시오.
 
 ## 마케팅 자동화 업데이트 {#marketing-automation-updates}
 
@@ -39,9 +39,9 @@ ht-degree: 0%
 
 ## 실시간 개인화 {#real-time-personalization}
 
-**Google 및 Facebook에 대한 개인화된 리마케팅**
+**Google 및 Facebook을 위한 개인화된 리마케팅**
 
-리마케팅은 웹 사이트를 방문한 사람에게 광고를 표시합니다. 이제 실시간 개인화의 데이터를 사용하여 [Google](/help/marketo/product-docs/web-personalization/website-retargeting/personalized-remarketing-in-google.md) 및 [Facebook](/help/marketo/product-docs/web-personalization/website-retargeting/personalized-remarketing-in-facebook.md)에 리마케팅 캠페인을 개인화할 수 있습니다. 서로 다른 업계, 이름 있는 계정 목록, 회사 크기 또는 알려진 리드의 모든 데이터를 대상으로 리마케팅합니다.
+리마케팅은 웹 사이트를 방문한 사람에게 광고를 표시합니다. 이제 실시간 개인화의 데이터를 사용하여 [Google](/help/marketo/product-docs/web-personalization/website-retargeting/personalized-remarketing-in-google.md) 및 [Facebook](/help/marketo/product-docs/web-personalization/website-retargeting/personalized-remarketing-in-facebook.md)에서 리마케팅 캠페인을 개인화할 수 있습니다. 서로 다른 업계, 이름 있는 계정 목록, 회사 크기 또는 알려진 리드의 모든 데이터를 대상으로 리마케팅합니다.
 
 [지정된 계정 목록 모듈](/help/marketo/product-docs/web-personalization/account-based-web-marketing/create-a-new-account-list.md)
 
