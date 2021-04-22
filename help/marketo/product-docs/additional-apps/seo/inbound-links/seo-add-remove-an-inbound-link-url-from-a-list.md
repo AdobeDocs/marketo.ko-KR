@@ -1,15 +1,15 @@
 ---
 unique-page-id: 2949251
-description: SEO - 목록에서 인바운드 링크 URL 추가/제거 - 마케팅 문서 - 제품 설명서
+description: SEO - 목록에서 인바운드 링크 URL 추가/제거 - Marketo 문서 - 제품 설명서
 title: SEO - 목록에서 인바운드 링크 URL 추가/제거
+exl-id: 8079387f-633b-4982-a31d-837dcc374601
 translation-type: tm+mt
-source-git-commit: 37697e2d6f1d86a6cd1de5d567a3d384160415cb
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '192'
 ht-degree: 0%
 
 ---
-
 
 # SEO - 목록에서 인바운드 링크 URL 추가/제거 {#seo-add-remove-an-inbound-link-url-from-a-list}
 
