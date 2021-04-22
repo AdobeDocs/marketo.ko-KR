@@ -1,15 +1,15 @@
 ---
 unique-page-id: 1147294
-description: 마케팅 달력 필터링 - 마케팅 문서 - 제품 설명서
+description: 마케팅 달력 필터링 - Marketo 문서 - 제품 설명서
 title: 마케팅 달력 필터링
+exl-id: 94cbe35b-2b87-4c8f-86c6-11a0d12b2a12
 translation-type: tm+mt
-source-git-commit: e5050328cbddaf072dd60ddd8d7363a704e720b5
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '112'
 ht-degree: 0%
 
 ---
-
 
 # 마케팅 달력 필터링 {#filtering-the-marketing-calendar}
 
