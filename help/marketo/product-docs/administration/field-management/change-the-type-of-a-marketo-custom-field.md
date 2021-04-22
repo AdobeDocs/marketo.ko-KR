@@ -1,17 +1,17 @@
 ---
 unique-page-id: 2360331
-description: 마케팅 유형 사용자 지정 필드 - 마케팅 문서 - 제품 설명서 변경
-title: 마케팅 유형 사용자 지정 필드 변경
+description: Marketo 사용자 정의 필드 유형 변경 - Marketo 문서 - 제품 설명서
+title: Marketo 사용자 정의 필드의 유형 변경
+exl-id: b9b3dfc5-cb5f-4233-9fe6-f8fdf111d48c
 translation-type: tm+mt
-source-git-commit: a7c90193e5c934119fa3b6bdf864d1458d1aad7c
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '101'
 ht-degree: 0%
 
 ---
 
-
-# 마케팅 유형 사용자 지정 필드 {#change-the-type-of-a-marketo-custom-field} 변경
+# Marketo 사용자 지정 필드 유형 변경 {#change-the-type-of-a-marketo-custom-field}
 
 사용자 지정 필드의 필드 유형을 변경하는 방법은 다음과 같습니다.
 
@@ -45,4 +45,4 @@ ht-degree: 0%
 
    >[!MORELIKETHIS]
    >
-   >[Marketing To에서 사용자 정의 필드 만들기](/help/marketo/product-docs/administration/field-management/create-a-custom-field-in-marketo.md)
+   >[Marketo에서 사용자 정의 필드 만들기](/help/marketo/product-docs/administration/field-management/create-a-custom-field-in-marketo.md)
