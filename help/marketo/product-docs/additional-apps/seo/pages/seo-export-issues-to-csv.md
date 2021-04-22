@@ -1,19 +1,19 @@
 ---
 unique-page-id: 2949222
-description: SEO - 발행물을 CSV로 내보내기 - 마케팅 문서 - 제품 설명서
+description: SEO - 발행물을 CSV로 내보내기 - Marketo 문서 - 제품 설명서
 title: SEO - 발행물을 CSV로 내보내기
+exl-id: a3012408-eeb4-4f09-af01-5c0e5dec4625
 translation-type: tm+mt
-source-git-commit: 37697e2d6f1d86a6cd1de5d567a3d384160415cb
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '99'
 ht-degree: 0%
 
 ---
 
-
 # SEO - 발행물을 CSV {#seo-export-issues-to-csv}로 내보내기
 
-Marketing To 외부의 사람들과 해당 정보를 공유하려면 [페이지 문제](/help/marketo/product-docs/additional-apps/seo/pages/seo-understanding-pages.md) 데이터를 CSV 파일로 내보낼 수 있습니다. 방법
+Marketo 외부의 사람들과 해당 정보를 공유하려면 [페이지 문제](/help/marketo/product-docs/additional-apps/seo/pages/seo-understanding-pages.md) 데이터를 CSV 파일로 내보낼 수 있습니다. 방법
 
 1. **페이지** 섹션으로 이동합니다.
 
