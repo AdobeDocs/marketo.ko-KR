@@ -1,19 +1,19 @@
 ---
 unique-page-id: 15695939
-description: 릴리스 노트 -18년 가을 - Marketing To Docs - 제품 설명서
+description: 릴리스 노트 -18년 가을 - Marketo 문서 - 제품 설명서
 title: 릴리스 노트 -18년 가을
+exl-id: a3cc4cc5-38a6-4648-91f2-092daa9b0113
 translation-type: tm+mt
-source-git-commit: b33f5ed707a1377daad51191cc6dd9f093138258
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
-source-wordcount: '0'
+source-wordcount: '850'
 ht-degree: 0%
 
 ---
 
-
 # 릴리스 노트:18년 가을 {#release-notes-fall}
 
-다음 기능은 18년 가을 릴리스에 포함되어 있습니다. 기능 가용성을 확인하려면 Marketing Edition을 확인하십시오.
+다음 기능은 18년 가을 릴리스에 포함되어 있습니다. 기능을 사용할 수 있는지 Marketo 에디션을 확인하십시오.
 
 사용 가능한 경우 제목 링크를 클릭하여 각 기능에 대한 세부 집필을 확인하십시오.
 
@@ -23,14 +23,14 @@ ht-degree: 0%
 
 웹 개인화는 이제 여러 작업 영역을 지원합니다.
 
-## Marketing To Sales Engage {#marketo-sales-engage}
+## Marketo 영업 참여 {#marketo-sales-engage}
 
 * **SFDC Lightning 지원**:Lightning으로 마이그레이션하거나 현재 Lightning을 사용하고 있는 사용자는 MSE를 활용하여 구매자 여정에서 더 나은 참여를 제공할 수 있습니다.
 
 * **지원 확대:Microsoft Office**
 
    * 배달 채널로 Outlook:마케터는 이제 Outlook을 사용하여 이메일 참여를 유도하고 응답률을 향상시킬 수 있습니다.
-   * Office 365 이메일 지원 개선 사항:Marketing To Sales Engage는 Mac용 Outlook, Windows용 Outlook, Office 365 이메일 클라이언트를 위한 Outlook Web Application에서 바로 사용할 수 있으므로 Marketing to Sales는 모든 Office 사용자가 보다 쉽게 사용할 수 있습니다.
+   * Office 365 이메일 지원 개선 사항:Marketo Sales Engage는 Mac용 Outlook, Windows용 Outlook, Office 365 이메일 클라이언트를 위한 Outlook Web Application에서 바로 사용할 수 있으므로 Marketo Sales Engage 모든 Office 사용자가 보다 쉽게 이용할 수 있습니다.
 
 * **관리 및 사용자 로그인 환경 개선**
 
@@ -74,7 +74,7 @@ ht-degree: 0%
 
    * 이제 고객은 기업 보안 요구 사항을 준수하는 회사의 ID 공급자 및 자격 증명을 사용하여 Biz가능 웹 응용 프로그램에 로그인할 수 있습니다.
 
-**[향상된 마케팅 성과 통찰력](/help/marketo/product-docs/reporting/performance-insights/performance-insights-overview.md)**
+**[Marketo 성능 인사이트 개선 사항](/help/marketo/product-docs/reporting/performance-insights/performance-insights-overview.md)**
 
 * **유용성 개선 사항**
 
@@ -96,7 +96,7 @@ ht-degree: 0%
 
 **리드 맵 REST API**
 
-이제 Marketing에서는 리드 API에 이메일 처리 필드(블랙 리스트, 마케팅 일시 중단, 이메일 일시 중단 및 상대적 긴급도 포함)를 사용할 수 있습니다.
+Marketo은 이제 리드 API에 이메일 처리 필드(블랙 리스트, 마케팅 일시 중단, 이메일 일시 중단 및 상대적 긴급도 포함)를 사용할 수 있도록 지원합니다.
 
 >[!NOTE]
 >
@@ -104,4 +104,4 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->또한 Marketing Cloud는 ID 및 인증과 관련된 라이브러리를 업그레이드하고 있습니다. 업그레이드가 진행되는 동안 활성 세션이 열려 있는 경우 간혹 오류가 발생합니다. 문제가 발생하는 경우 로그아웃했다가 사용료 지불 옵션으로 다시 로그인하십시오.
+>또한 Marketo은 ID 및 인증과 관련된 라이브러리를 업그레이드하고 있습니다. 업그레이드가 진행되는 동안 활성 세션이 열려 있는 경우 간혹 오류가 발생합니다. 문제가 발생하는 경우 로그아웃했다가 사용료 지불 옵션으로 다시 로그인하십시오.
