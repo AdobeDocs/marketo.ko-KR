@@ -1,15 +1,15 @@
 ---
 unique-page-id: 2359918
-description: 랜딩 페이지 설정 편집 - 마케팅 문서 - 제품 설명서
+description: 랜딩 페이지 설정 편집 - Marketo 문서 - 제품 설명서
 title: 랜딩 페이지 설정 편집
+exl-id: 019b4651-3a66-46f9-8722-66af30194380
 translation-type: tm+mt
-source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '256'
 ht-degree: 0%
 
 ---
-
 
 # 랜딩 페이지 설정 편집 {#edit-landing-page-settings}
 
@@ -41,7 +41,7 @@ ht-degree: 0%
 
    ![](assets/four.png)
 
-1. 악성 사이트가 귀하의 컨텐트를 사시하는 것으로 표시되지 않도록 하려면 **마케팅 페이지를 외부 웹 페이지에 포함할 수 없도록 허용 안 함** 확인란을 선택합니다.
+1. 악성 사이트가 귀하의 컨텐트를 사지로 호스팅하지 않도록 하려면 **Marketo 페이지를 외부 웹 페이지에 포함할 수 없도록 허용 안 함** 확인란을 선택합니다.
 
    ![](assets/five.png)
 
@@ -49,7 +49,7 @@ ht-degree: 0%
    >
    >코드에서 `<head>` 태그의 끝에 프리플라이트 `<script>` 태그를 표시하려면 **헤드 끝에 프리플라이트 스크립트 삽입** 상자를 선택합니다. 맨 앞에 표시하려면 선택 취소하십시오.
    >
-   >Marketing에서 즐겨찾기 링크를 코드에 삽입하지 못하도록 **기본 파비콘 링크 제거**&#x200B;를 선택합니다.
+   >Marketo에서 즐겨찾기 링크를 코드에 삽입하지 못하도록 **기본 파비콘 링크 제거**&#x200B;를 선택합니다.
 
 1. 선택한 후 **저장을 클릭합니다.**
 
