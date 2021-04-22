@@ -1,15 +1,15 @@
 ---
 unique-page-id: 1147237
-description: 기간 비용 - 마케팅 문서 - 제품 설명서별로 프로그램 보고서 필터링
+description: 기간 비용별 프로그램 보고서 필터링 - Marketo 문서 - 제품 설명서
 title: 기간 원가로 프로그램 보고서 필터링
+exl-id: 039041be-326d-4018-b97d-d80198cb9b84
 translation-type: tm+mt
-source-git-commit: e5050328cbddaf072dd60ddd8d7363a704e720b5
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '93'
 ht-degree: 0%
 
 ---
-
 
 # 기간 비용 {#filter-a-program-report-by-period-cost}별로 프로그램 보고서 필터링
 
