@@ -1,15 +1,15 @@
 ---
 unique-page-id: 4720461
-description: 이메일의 HTML 인코딩 토큰 - 마케팅 문서 - 제품 설명서
+description: 이메일의 HTML 인코딩 토큰 - Marketo 문서 - 제품 설명서
 title: 이메일의 HTML 인코딩 토큰
+exl-id: aeac6eec-0f43-4cf3-a850-d193e4fc194d
 translation-type: tm+mt
-source-git-commit: f865630638e7c0fe6ac2a449e196a7de4fbfeea1
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '97'
 ht-degree: 0%
 
 ---
-
 
 # 이메일 {#html-encode-tokens-in-emails}의 HTML 인코딩 토큰
 
