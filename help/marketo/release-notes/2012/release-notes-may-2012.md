@@ -1,15 +1,15 @@
 ---
 unique-page-id: 2951117
-description: 릴리스 노트 - 2012년 5월 - Marketing Docs - 제품 설명서
+description: 릴리스 노트 - 2012년 5월 - Marketo 문서 - 제품 설명서
 title: 릴리스 노트 - 2012년 5월
+exl-id: b951e986-359d-4da0-8654-4d9f1416cebb
 translation-type: tm+mt
-source-git-commit: 029d8b419ba5078980b4fde9890bdb35194bf264
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '641'
 ht-degree: 0%
 
 ---
-
 
 # 릴리스 노트:2012년 5월 {#release-notes-may}
 
@@ -37,7 +37,7 @@ ht-degree: 0%
 
 ## iPad용 새 이벤트 체크인 앱 {#new-event-check-in-app-for-ipad}
 
-새로운 iPad 앱을 사용하여 이벤트 체크인 프로세스를 간소화할 수 있습니다. 이벤트 체크인 앱은 Marketing To Program과 동기화되므로 등록자를 이벤트에 쉽게 확인하고 새로운 리드를 신속하게 추가할 수 있습니다.
+새로운 iPad 앱을 사용하여 이벤트 체크인 프로세스를 간소화할 수 있습니다. 이벤트 체크인 앱은 Marketo Program과 동기화되므로 등록자를 이벤트별로 손쉽게 확인하고 새로운 리드를 신속하게 추가할 수 있습니다.
 
 iOS 5.1 이상 필요iPad에만 해당됩니다.
 
@@ -81,9 +81,9 @@ ON24 및 Adobe Connect에서 이용 가능! 새 `{{member.webinar URL}}` 토큰�
 
 그림 9. 랜딩 페이지에서 양식 미리 채우기 설정 편집
 
-## Marketing To Treasure 가슴 {#marketo-treasure-chest}
+## Marketo 보물상자 {#marketo-treasure-chest}
 
-Marketing To Engineers에서 개발한 실험적인 기능을 이용하여 사용자 경험을 향상시킬 수 있습니다. 이 릴리스에는 이메일 실행 취소 기능뿐만 아니라 랜딩 페이지에서 주석을 입력하고 다른 사용자와 협업하는 기능이 포함되어 있습니다.
+Marketo 엔지니어가 개발한 실험적인 기능을 이용하여 사용자 경험을 향상시킬 수 있습니다. 이 릴리스에는 이메일 실행 취소 기능뿐만 아니라 랜딩 페이지에서 주석을 입력하고 다른 사용자와 협업하는 기능이 포함되어 있습니다.
 
 ![](assets/image2014-9-23-10-3a16-3a51.png)\
 
@@ -91,13 +91,13 @@ Marketing To Engineers에서 개발한 실험적인 기능을 이용하여 사�
 
 ## Microsoft Dynamics® CRM 통합 {#microsoft-dynamics-crm-integration}
 
-Adobe의 사전 구축된 새로운 통합을 사용하여 Marketing Cloud와 Microsoft Dynamics CRM Online 간에 계정, 연락처 및 리드 동기화!
+Adobe의 사전 구축된 새로운 통합을 사용하여 Marketo과 Microsoft Dynamics CRM Online 간에 계정, 연락처 및 리드 동기화!
 
 ![](assets/image2014-9-23-10-3a17-3a6.png)
 
 그림 11. Microsoft Dynamics 구성
 
-## Marketing To Sales Insight 개선 사항 {#marketo-sales-insight-enhancements}
+## Marketo Sales Insight 개선 사항 {#marketo-sales-insight-enhancements}
 
 **바닥글 옵션 가입 해제**
 
@@ -109,7 +109,7 @@ Sales Insight를 통해 전송된 이메일에 대해 가입 해지 바닥글이
 
 ## 영업 이메일 템플릿 폴더 {#folders-for-sales-email-templates}
 
-이제 Marketing to Sales Insight와 공유된 이메일 템플릿을 지정된 폴더에 구성하여 세일즈 담당자가 올바른 이메일을 손쉽게 찾을 수 있습니다.
+이제 Marketo Sales Insight와 공유된 이메일 템플릿을 특정 폴더에 구성하여 세일즈 담당자가 해당 이메일을 손쉽게 찾을 수 있습니다.
 
 ![](assets/image2014-9-23-10-3a17-3a35.png)
 
@@ -117,7 +117,7 @@ Sales Insight를 통해 전송된 이메일에 대해 가입 해지 바닥글이
 
 ## 영업 인사이트 {#access-opportunity-analyzer-from-sales-insight}에서 기회 분석기 액세스
 
-Marketing Cloud에서 Sales Insight를 통해 Opportunity Analyzer에 직접 액세스할 수 있으므로 마케팅 활동이 고객의 참여를 유도하고 있는 통찰력을 세일즈 담당자에게 제공합니다. 참고. 수익 주기 분석 라이센스가 필요합니다.
+Marketo Sales Insight에서 Opportunity Analyzer에 직접 액세스할 수 있으므로 영업 담당자가 마케팅 활동을 통해 고객의 참여를 유도할 수 있는 통찰력을 얻을 수 있습니다. 참고. 수익 주기 분석 라이센스가 필요합니다.
 
 ## 연락처 상태 {#custom-field-for-contact-status}에 대한 사용자 정의 필드
 
