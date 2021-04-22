@@ -1,15 +1,15 @@
 ---
 unique-page-id: 7504120
-description: 프레젠테이션 시작 - 마케팅 문서 - 제품 설명서
+description: 프레젠테이션 시작 - Marketo 문서 - 제품 설명서
 title: 프레젠테이션 시작
+exl-id: 2726e185-c28a-44bb-b7a6-46698efcd1b4
 translation-type: tm+mt
-source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '114'
 ht-degree: 0%
 
 ---
-
 
 # 프레젠테이션 시작 {#launch-a-presentation}
 
@@ -34,10 +34,10 @@ ht-degree: 0%
 
    ![](assets/image2015-3-20-14-3a4-3a18.png)
 
-1. **시작**&#x200B;을 한 번 더 클릭합니다. 이렇게 하면 프레젠테이션을 안전하게 표시할 수 있도록 Marketing To에서 로그아웃됩니다.
+1. **시작**&#x200B;을 한 번 더 클릭합니다. 프레젠테이션을 안전하게 표시할 수 있도록 Marketo에서 로그아웃됩니다.
 
    ![](assets/image2015-3-20-14-3a5-3a34.png)
 
    >[!TIP]
    >
-   >새 탭에서 프레젠테이션을 시작합니다. 필요한 경우 외부 모니터나 TV로 탭을 이동하여 디스플레이를 클릭하고 **전체 화면** 을 클릭합니다. 또는 Internet Explorer를 사용하는 경우 키보드에서 **F11**&#x200B;을 누릅니다.
+   >새 탭에서 프레젠테이션을 시작합니다. 필요한 경우 외부 모니터 또는 TV로 탭을 이동하여 디스플레이를 클릭하고 **전체 화면** 을 클릭합니다. 또는 Internet Explorer를 사용하는 경우 키보드에서 **F11**&#x200B;을 누릅니다.
