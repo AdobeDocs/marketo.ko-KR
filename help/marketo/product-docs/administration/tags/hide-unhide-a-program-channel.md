@@ -1,15 +1,15 @@
 ---
 unique-page-id: 2360276
-description: 프로그램 채널 숨기기/숨김 취소 - 마케팅 문서 - 제품 설명서
+description: 프로그램 채널 숨기기/숨김 취소 - Marketo 문서 - 제품 설명서
 title: 프로그램 채널 숨기기/숨김 취소
+exl-id: 17061f87-85c9-4940-bd8e-590e4c7c04f1
 translation-type: tm+mt
-source-git-commit: f79909ce8f2e37bf0748596774fe47ac03618696
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '102'
 ht-degree: 0%
 
 ---
-
 
 # 프로그램 채널 {#hide-unhide-a-program-channel} 숨기기/숨김 취소
 
@@ -40,4 +40,3 @@ ht-degree: 0%
 1. [숨김 표시] 확인란을 선택하여 프로그램 채널 숨김 취소
 
    ![](assets/image2014-9-24-15-3a47-3a24.png)
-
