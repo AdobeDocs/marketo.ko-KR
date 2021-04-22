@@ -1,15 +1,15 @@
 ---
 unique-page-id: 2949196
-description: SEO - 이메일 알림 기본 설정 - 마케팅 문서 - 제품 설명서 설정
+description: SEO - 이메일 알림 기본 설정 - Marketo 문서 - 제품 설명서
 title: SEO - 이메일 알림 환경 설정 지정
+exl-id: 7675a589-dc40-433b-bf0c-1e78e4d653b5
 translation-type: tm+mt
-source-git-commit: 37697e2d6f1d86a6cd1de5d567a3d384160415cb
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '63'
 ht-degree: 0%
 
 ---
-
 
 # SEO - 이메일 알림 환경 설정 {#seo-set-your-email-alert-preferences} 설정
 
