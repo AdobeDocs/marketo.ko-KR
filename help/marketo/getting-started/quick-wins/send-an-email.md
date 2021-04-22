@@ -1,19 +1,19 @@
 ---
 unique-page-id: 2359410
-description: 이메일 보내기 - 마케팅 문서 - 제품 설명서
+description: 이메일 보내기 - Marketo 문서 - 제품 설명서
 title: 이메일 보내기
+exl-id: 1f80fc08-3587-41f0-9c51-2feea10dff0d
 translation-type: tm+mt
-source-git-commit: d7d6aee63144c472e02fe0221c4a164183d04dd4
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '399'
 ht-degree: 0%
 
 ---
 
-
 # 이메일 {#send-an-email} 보내기
 
-누구나 원하는 첫 번째 단계입니다. Marketing To에서 이메일을 보냅니다.
+누구나 원하는 첫 번째 단계입니다. Marketo에서 이메일을 보내요!
 
 >[!PREREQUISITES]
 >
