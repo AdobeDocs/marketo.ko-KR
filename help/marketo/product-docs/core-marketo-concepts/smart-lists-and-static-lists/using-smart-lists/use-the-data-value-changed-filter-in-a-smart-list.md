@@ -1,19 +1,19 @@
 ---
 unique-page-id: 557324
-description: 스마트 목록 - Marketing To Docs - 제품 문서에서 데이터 값 변경 필터 사용
+description: 스마트 목록에서 데이터 값 변경 필터 사용 - Marketo 문서 - 제품 설명서
 title: 스마트 목록에서 데이터 값 변경된 필터 사용
+exl-id: 4ecca2b0-771f-44aa-a0cf-9f9f40549f41
 translation-type: tm+mt
-source-git-commit: 5b9f48c98464c79bcdca2e335f6a4a2edce98ce4
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '146'
 ht-degree: 0%
 
 ---
 
-
 # 스마트 목록 {#use-the-data-value-changed-filter-in-a-smart-list}에서 변경된 데이터 값 필터 사용
 
-값이 지속적으로 변경되고 Marketing 데이터베이스에서 업데이트됩니다. 특정 가치를 찾는 대신 가치가 달라진 사람을 찾는 경우도 있습니다. 방법
+값이 지속적으로 변경되고 Marketo 데이터베이스에서 업데이트됩니다. 특정 가치를 찾는 대신 가치가 달라진 사람을 찾는 경우도 있습니다. 방법
 
 >[!PREREQUISITES]
 >
