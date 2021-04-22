@@ -1,18 +1,18 @@
 ---
-description: 기본 Dynamics 필드 매핑 - 마케팅 문서 - 제품 설명서
+description: 기본 Dynamics 필드 매핑 - Marketo 문서 - 제품 설명서
 title: 기본 Dynamics 필드 매핑
+exl-id: 5f39bd0c-202e-4aa1-a0ac-49ac2554aa1e
 translation-type: tm+mt
-source-git-commit: a7c90193e5c934119fa3b6bdf864d1458d1aad7c
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '528'
-ht-degree: 1%
+ht-degree: 16%
 
 ---
 
-
 # 기본 동적 필드 매핑 {#default-dynamics-field-mapping}
 
-처음 Marketing 계정을 Microsoft와 동기화할 때 Marketing은 내장된 Dynamics 및 Marketing 필드 간에 이러한 연결을 자동으로 만듭니다.  또한 Marketing Cloud는 리드, 계정, 기회 및 연락처에 있는 사용자 지정 필드를 동기화합니다.
+Marketo 계정을 Microsoft와 처음 동기화할 때 Marketo은 내장된 Dynamics 및 Marketo 필드 간에 이러한 연결을 자동으로 만듭니다.  Marketo은 또한 리드, 계정, 기회 및 연락처에 있는 사용자 지정 필드도 동기화합니다.
 
 ## 리드 필드 {#lead-fields}
 
@@ -24,7 +24,7 @@ ht-degree: 1%
  </colgroup> 
  <tbody> 
   <tr> 
-   <th>마케팅 필드</th> 
+   <th>Marketo 필드</th> 
    <th>MS Dynamics 필드</th> 
    <th>MS Dynamics API 이름</th> 
   </tr> 
@@ -59,7 +59,7 @@ ht-degree: 1%
    <td>emailaddress1</td> 
   </tr> 
   <tr> 
-   <td>직함</td> 
+   <td>직위</td> 
    <td>직함</td> 
    <td>작업 제목</td> 
   </tr> 
@@ -124,12 +124,12 @@ ht-degree: 1%
    <td>description</td> 
   </tr> 
   <tr> 
-   <td>호출 안 함</td> 
+   <td>두 낫 콜</td> 
    <td>전화 통화 허용 안 함</td> 
    <td>도노폰</td> 
   </tr> 
   <tr> 
-   <td>구독 취소</td> 
+   <td>주소 삭제</td> 
    <td>전자 메일 일괄 처리 안 함</td> 
    <td>donobulkemail</td> 
   </tr> 
@@ -191,7 +191,7 @@ ht-degree: 1%
  </colgroup> 
  <tbody> 
   <tr> 
-   <th>마케팅 필드</th> 
+   <th>Marketo 필드</th> 
    <th>MS Dynamics 필드</th> 
    <th>MS Dynamics API 이름</th> 
   </tr> 
@@ -226,8 +226,8 @@ ht-degree: 1%
    <td>emailaddress1</td> 
   </tr> 
   <tr> 
-   <td>직함</td> 
-   <td>직함</td> 
+   <td>직위</td> 
+   <td>직위</td> 
    <td>작업 제목</td> 
   </tr> 
   <tr> 
@@ -274,12 +274,12 @@ ht-degree: 1%
    <td>statuscode</td> 
   </tr> 
    <tr> 
-   <td>호출 안 함</td> 
+   <td>두 낫 콜</td> 
    <td>전화 통화 허용 안 함</td> 
    <td>도노폰</td> 
   </tr> 
   <tr> 
-   <td>구독 취소</td> 
+   <td>주소 삭제</td> 
    <td>전자 메일 일괄 처리 안 함</td> 
    <td>donobulkemail</td> 
   </tr> 
@@ -321,7 +321,7 @@ ht-degree: 1%
  </colgroup> 
  <tbody> 
   <tr> 
-   <th>마케팅 필드</th> 
+   <th>Marketo 필드</th> 
    <th>MS Dynamics 필드</th> 
    <th>MS Dynamics API 이름</th> 
   </tr> 
@@ -331,22 +331,22 @@ ht-degree: 1%
    <td>acid</td> 
   </tr> 
   <tr> 
-   <td>청구 주소</td> 
+   <td>청구지 주소</td> 
    <td>주소 1:거리 1</td> 
    <td>address1_line1</td> 
   </tr> 
   <tr> 
-   <td>청구 구/군/시</td> 
+   <td>청구지 시</td> 
    <td>주소 1:시</td> 
    <td>address1_city</td> 
   </tr> 
   <tr> 
-   <td>청구 국가</td> 
+   <td>청구지 국가</td> 
    <td>주소 1:국가/지역</td> 
    <td>address1_country</td> 
   </tr> 
   <tr> 
-   <td>청구 우편 번호</td> 
+   <td>청구지 우편번호</td> 
    <td>주소 1:우편 번호</td> 
    <td>address1_postalcode</td> 
   </tr> 
@@ -361,8 +361,8 @@ ht-degree: 1%
    <td>address1_line3</td> 
   </tr> 
   <tr> 
-   <td>기본 전화</td> 
-   <td>기본 전화</td> 
+   <td>메인 전화</td> 
+   <td>메인 전화</td> 
    <td>전화1</td> 
   </tr> 
   <tr> 
@@ -381,8 +381,8 @@ ht-degree: 1%
    <td>상태 코드</td> 
   </tr> 
   <tr> 
-   <td>연간 매출</td> 
-   <td>연간 매출</td> 
+   <td>연매출</td> 
+   <td>연매출</td> 
    <td>매출액</td> 
   </tr> 
   <tr> 
@@ -391,8 +391,8 @@ ht-degree: 1%
    <td>description</td> 
   </tr> 
   <tr> 
-   <td>업계</td> 
-   <td>업계</td> 
+   <td>산업</td> 
+   <td>산업</td> 
    <td>업계 코드</td> 
   </tr> 
   <tr> 
@@ -401,16 +401,16 @@ ht-degree: 1%
    <td>음악</td> 
   </tr> 
   <tr> 
-   <td>웹 사이트</td> 
-   <td>웹 사이트</td> 
+   <td>웹사이트</td> 
+   <td>웹사이트</td> 
    <td>웹 사이트</td> 
   </tr> 
  </tbody> 
 </table>
 
-## Marketing To의 Microsoft 관련 시스템 필드(읽기 전용) {#microsoft-related-system-fields-in-marketo}
+## Marketo의 Microsoft 관련 시스템 필드(읽기 전용) {#microsoft-related-system-fields-in-marketo}
 
-이러한 필드는 Marketing To에서 만들어지지만 고객이 조정할 수 없습니다.
+이러한 필드는 Marketo에서 만들어지지만 고객이 조정할 수 없습니다.
 
 <table> 
  <colgroup> 
@@ -419,20 +419,20 @@ ht-degree: 1%
  </colgroup> 
  <tbody> 
   <tr> 
-   <th>마케팅 필드</th> 
+   <th>Marketo 필드</th> 
    <th>설명</th> 
   </tr> 
   <tr> 
    <td>Microsoft Type</td> 
-   <td>리드 또는 담당자. 비어 있는 경우 리드는 Marketing To에 개인으로만 존재합니다.</td> 
+   <td>리드 또는 담당자. 비어 있는 경우 리드는 Marketo에 개인으로만 존재합니다</td> 
   </tr> 
   <tr> 
    <td>Microsoft 만든 날짜</td> 
-   <td>MS Dynamics에서 만든 날짜(마케팅에서 만든 날짜와 다를 수 있음)</td> 
+   <td>MS Dynamics에서 만든 날짜(Marketo에서 만든 날짜와 다를 수 있음)</td> 
   </tr> 
   <tr> 
    <td>Microsoft가 삭제됨</td> 
-   <td>이전에 Microsoft에 있었지만 삭제되었으며 현재 Marketing To에서만 사용 중인 사람</td> 
+   <td>이전에 Microsoft에 있었지만 삭제되었으며 현재 Marketo에서만 사용 중인 사람</td> 
   </tr> 
  </tbody> 
 </table>
