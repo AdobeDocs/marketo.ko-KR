@@ -137,7 +137,7 @@ ht-degree: 0%
   </tr> 
   <tr> 
    <td>편집</td> 
-   <td>모듈 편집 <module name><attribute> "value"를</td> 
+   <td>모듈 편집 <code>"<module name>" <attribute></code> "value"를</td> 
   </tr> 
   <tr> 
    <td>삭제</td> 
