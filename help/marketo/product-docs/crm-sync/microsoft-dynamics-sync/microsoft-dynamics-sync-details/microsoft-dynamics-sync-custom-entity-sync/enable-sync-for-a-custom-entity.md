@@ -4,9 +4,9 @@ description: 사용자 지정 개체에 대한 동기화 활성화 - Marketo 문
 title: 사용자 지정 엔터티에 대해 동기화 활성화
 exl-id: 4b075bf3-f10b-4725-8c8e-a6ecee63d756
 translation-type: tm+mt
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+source-git-commit: d81a4a3caa12c5ec642afadf9328b3825bde6fed
 workflow-type: tm+mt
-source-wordcount: '172'
+source-wordcount: '196'
 ht-degree: 0%
 
 ---
@@ -18,6 +18,10 @@ Dynamics의 사용자 지정 엔티티 데이터를 Marketo에서 사용할 수 
 >[!NOTE]
 >
 >**관리자 권한 필요**
+
+>[!NOTE]
+>
+>사용자 정의 엔티티에 대한 동기화를 활성화하면 Marketo에서 초기 동기화를 수행하여 사용자 정의 개체에 대한 모든 데이터를 가져옵니다.
 
 1. **관리** 섹션으로 이동합니다.
 
