@@ -4,9 +4,9 @@ description: 데이터베이스 대시보드 - Marketo 문서 - 제품 설명서
 title: 데이터베이스 대시보드
 exl-id: 44b00d28-a224-4f09-8307-468c14ddb0df
 translation-type: tm+mt
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+source-git-commit: d81a4a3caa12c5ec642afadf9328b3825bde6fed
 workflow-type: tm+mt
-source-wordcount: '140'
+source-wordcount: '141'
 ht-degree: 0%
 
 ---
@@ -17,7 +17,7 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->각 작업 영역에는 자체 데이터베이스가 있습니다.
+>각 작업 영역에는 자체 데이터베이스 대시보드가 있습니다.
 
 이 타일을 시작하려면 홈 화면에서 **데이터베이스** 타일을 클릭합니다.
 
@@ -35,4 +35,6 @@ ht-degree: 0%
 >
 >사용자에 대한 보다 구체적이거나 시기적절한 정보를 얻고자 하십니까? [사람 성과 보고서](/help/marketo/product-docs/reporting/basic-reporting/report-types/people-performance-report.md)를 사용해 보십시오.
 
-**총 사람 수:** 해당 작업 영역에 대한 전체 사람 수입니다.  **마케팅 가능한 사람:** 작업 공간에 대한 모든 기간 사람들의 수에서 다음을  _뺀 값입니다_.이메일 주소가 없는 사람, 이메일이 많이 반송된 사람, 구독 취소된 사람, 차단 목록에 추가된 현재 마케팅 일시 중단으로 설정된 사람.
+**총 사람 수:** 해당 작업 영역에 대한 전체 사람 수입니다.
+
+**마케팅 가능한 사람:** 작업 공간에 대한 모든 기간 사람들의 수에서 다음을  _뺀 값입니다_.이메일 주소가 없는 사람, 이메일이 많이 반송된 사람, 구독 취소된 사람, 차단 목록에 추가된 현재 마케팅 일시 중단으로 설정된 사람.
