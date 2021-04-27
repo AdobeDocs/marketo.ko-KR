@@ -4,9 +4,9 @@ description: 3단계 중 3단계 - Connect Marketo 및 Salesforce(Enterprise/Unl
 title: 3단계 중 3단계 - Connect Marketo 및 Salesforce(Enterprise/Unlimited)
 exl-id: ef74bc53-9dc9-43c7-a9aa-565463fdd2e5
 translation-type: tm+mt
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+source-git-commit: d81a4a3caa12c5ec642afadf9328b3825bde6fed
 workflow-type: tm+mt
-source-wordcount: '405'
+source-wordcount: '466'
 ht-degree: 0%
 
 ---
@@ -51,13 +51,13 @@ ht-degree: 0%
    >
    >**필드 동기화**&#x200B;를 클릭하기 전에 Marketo에서 ](/help/marketo/product-docs/crm-sync/salesforce-sync/sfdc-sync-details/sfdc-sync-field-sync/hide-a-salesforce-field-from-the-marketo-sync.md)에 필요하지 않은 모든 필드를 동기화 사용자로부터 숨겨야 합니다. [ [필드 동기화]를 클릭하면 사용자가 볼 수 있는 모든 필드가 Marketo에서 영구적으로 만들어지며 삭제할 수 없습니다.
 
-1. Salesforce 구성([Professional](/help/marketo/product-docs/crm-sync/salesforce-sync/setup/professional-edition/step-2-of-3-create-a-salesforce-user-for-marketo-professional.md), [Enterprise](/help/marketo/product-docs/crm-sync/salesforce-sync/setup/enterprise-unlimited-edition/step-2-of-3-create-a-salesforce-user-for-marketo-enterprise-unlimited.md))의 2부에서 만든 Salesforce 동기화 사용자 자격 증명을 입력하고 **필드 동기화**&#x200B;를 클릭합니다.
+1. Salesforce 구성([Professional](/help/marketo/product-docs/crm-sync/salesforce-sync/setup/professional-edition/step-2-of-3-create-a-salesforce-user-for-marketo-professional.md) 또는 [Enterprise](/help/marketo/product-docs/crm-sync/salesforce-sync/setup/enterprise-unlimited-edition/step-2-of-3-create-a-salesforce-user-for-marketo-enterprise-unlimited.md))의 2부에서 만든 Salesforce 사용자 자격 증명을 입력하고 **필드 동기화**(Marketo 샌드박스를 Salesforce 샌드박스와 동기화하는 경우에만 **샌드박스**&#x200B;를 선택합니다.)
 
    ![](assets/image2014-12-9-9-3a53-3a8.png)
 
-   >[!NOTE]
+   >[!CAUTION]
    >
-   >Marketo 샌드박스를 Salesforce 샌드박스와 동기화하는 경우 **샌드박스**&#x200B;를 선택합니다.
+   >사용자 이름/암호/토큰 필드 대신 &quot;Salesforce 로그인&quot; 단추가 표시되면 Marketo 구독이 OAuth에 대해 활성화됩니다. [이 아티클](/help/marketo/product-docs/crm-sync/salesforce-sync/log-in-using-oauth-2-0.md)을(를) 참조하십시오. 동기화가 자격 증명 집합을 사용하기 시작하면 **Salesforce 자격 증명 또는 구독**&#x200B;의 전환이 없습니다. 기본 인증을 사용하려면 고객 성공 관리자에게 문의하십시오.
 
 1. 경고를 읽은 다음 **자격 증명 확인**&#x200B;을 클릭합니다.
 
