@@ -5,9 +5,9 @@ user-guide-description: Marketo 제품 설명서
 feature-set: Marketo Engage
 hide: true
 translation-type: tm+mt
-source-git-commit: 316e194d9803b435dbf1fbc4dd6d931c4448778d
+source-git-commit: d81a4a3caa12c5ec642afadf9328b3825bde6fed
 workflow-type: tm+mt
-source-wordcount: '8002'
+source-wordcount: '8003'
 ht-degree: 0%
 
 ---
@@ -600,7 +600,7 @@ ht-degree: 0%
          + [암시적인 Salesforce 동작](product-docs/crm-sync/salesforce-sync/implied-salesforce-actions.md)
          + [Salesforce 동기화 오류](product-docs/crm-sync/salesforce-sync/salesforce-sync-errors.md)
          + [Salesforce 동기화 상태](product-docs/crm-sync/salesforce-sync/salesforce-sync-status.md)
-         + [OAuth 2.0 설정](product-docs/crm-sync/salesforce-sync/setting-up-oauth-2-0.md)
+         + [OAuth 2.0을 사용하여 로그인](product-docs/crm-sync/salesforce-sync/log-in-using-oauth-2-0.md)
    + 수요 생성 {#demand-generation}
       + 광고 네트워크 통합 {#ad-network-integrations}
          + [광고 네트워크 통합 이해](product-docs/demand-generation/ad-network-integrations/understanding-ad-network-integrations.md)
@@ -806,7 +806,7 @@ ht-degree: 0%
                + [템플릿 12-F](product-docs/demand-generation/landing-pages/landing-page-templates/guided-landing-page-templates/template-12-f.md)
                + [템플릿 13-A](product-docs/demand-generation/landing-pages/landing-page-templates/guided-landing-page-templates/template-13-a.md)
                + [템플릿 13-B](product-docs/demand-generation/landing-pages/landing-page-templates/guided-landing-page-templates/template-13-b.md)
-               + [템플릿 13-C](product-docs/demand-generation/landing-pages/landing-page-templates/guided-landing-page-templates/template-13-c.md)
+               + [템플릿 13-A](product-docs/demand-generation/landing-pages/landing-page-templates/guided-landing-page-templates/template-13-c.md)
                + [템플릿 13-D](product-docs/demand-generation/landing-pages/landing-page-templates/guided-landing-page-templates/template-13-d.md)
                + [템플릿 13-E](product-docs/demand-generation/landing-pages/landing-page-templates/guided-landing-page-templates/template-13-e.md)
                + [템플릿 14-A](product-docs/demand-generation/landing-pages/landing-page-templates/guided-landing-page-templates/template-14-a.md)
