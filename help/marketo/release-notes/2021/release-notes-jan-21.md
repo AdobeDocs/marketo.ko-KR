@@ -3,7 +3,7 @@ description: 릴리스 노트 - 2021년 1월 - Marketo 문서 - 제품 설명서
 title: 릴리스 노트 - 2021년 1월
 exl-id: 24a5f955-ef4b-4adf-9478-2653db6f9d79
 translation-type: tm+mt
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+source-git-commit: 7566581555eb95564b9f69884190dd987e123dbe
 workflow-type: tm+mt
 source-wordcount: '1268'
 ht-degree: 0%
@@ -43,7 +43,7 @@ ht-degree: 0%
 
 ## Salesforce CRM 통합 {#salesforce-crm-integration}
 
-* [Salesforce CRM 인증](/help/marketo/product-docs/crm-sync/salesforce-sync/setting-up-oauth-2-0.md):OAuth 2.0 프로토콜은 Marketo Engage 및 Salesforce CRM 간 작업을 동기화하는 데 사용할 수 있습니다. 새 가입자의 경우 이 옵션은 기본적으로 활성화되어 있습니다. 현재 구독자는 Marketo 지원에 문의하여 이 기능을 요청할 수 있습니다.
+* [Salesforce CRM 인증](/help/marketo/product-docs/crm-sync/salesforce-sync/log-in-using-oauth-2-0.md):OAuth 2.0 프로토콜은 Marketo Engage 및 Salesforce CRM 간 작업을 동기화하는 데 사용할 수 있습니다. 새 가입자의 경우 이 옵션은 기본적으로 활성화되어 있습니다. 현재 구독자는 Marketo 지원에 문의하여 이 기능을 요청할 수 있습니다.
 * [Salesforce CRM 동기화 대시보드](/help/marketo/product-docs/crm-sync/salesforce-sync/salesforce-sync-errors.md):관리자는 대시보드에서 Salesforce CRM 동기화 상태를 신속하게 검토할 수 있습니다. 성능 보고서 시간 간격을 2시간에서 5일로 늘렸습니다.
 * **메타데이터 내보내기**:기회 객체 속성, 지정된 계정, 프로그램 회원의 표준 및 사용자 정의 필드를 지원하도록 향상되었습니다.
 
