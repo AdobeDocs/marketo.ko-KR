@@ -1,22 +1,22 @@
 ---
-description: 개요 - 마케팅 문서 - 제품 설명서
+description: 개요 - Marketo 문서 - 제품 설명서
 title: 개요
+exl-id: 50ab55b2-f40d-4dbd-ac3b-aa52e37ff426
 translation-type: tm+mt
-source-git-commit: 567a18fde3335076cc24d2302096c791fa4084f0
+source-git-commit: b5d5e5895ca315976650123875777fe43854ea60
 workflow-type: tm+mt
-source-wordcount: '470'
+source-wordcount: '463'
 ht-degree: 1%
 
 ---
 
-
 # 개요 {#overview}
 
-Marketing To 플랫폼 전반에서 새로운 모양과 느낌과 함께 유용성을 향상시켜주는 새로운 인터페이스인 차세대 Marketo Engage 경험에 오신 것을 환영합니다.
+Marketo 플랫폼 전체에 새로운 모양과 느낌과 함께 향상된 유용성을 제공하는 새로운 인터페이스인 차세대 Marketo Engage 경험을 소개합니다.
 
 >[!PREREQUISITES]
 >
->IT 팀에서를 사용하여 웹 액세스를 제한하는 경우 모든 Marketing To 리소스 및 웹 소켓을 허용하도록 다음 도메인(별표 포함)을 추가하도록 요청하십시오.
+>IT 팀에서를 사용하여 웹 액세스를 제한하는 경우 모든 Marketo 리소스 및 웹 소켓을 허용하도록 다음 도메인(별표 포함)을 추가하도록 요청하십시오.
 >
 >* *.marketing.com
 >* *.marketodesigner.com
@@ -41,17 +41,11 @@ Marketing To 플랫폼 전반에서 새로운 모양과 느낌과 함께 유용�
 
 새로운 인터페이스에서는 아이콘 획이 개선되고 확장되었습니다. 여기에서 이러한 기능에 대해 자세히 알아보십시오.[새 아이콘 용어집](/help/marketo/product-docs/marketo-engage-next-generation-experience/new-icon-glossary.md).
 
-![](assets/overview-3.png)
-
-**트리**
-
-나무도 업그레이드되었습니다.
-
-![](assets/overview-4.png)
+![](assets/overview-new-icons.png)
 
 **전역 탐색**
 
-안녕 슈퍼볼 이제 모든 기본 마케팅 섹션에 빠르게 액세스할 수 있습니다.
+안녕 슈퍼볼 이제 모든 주요 Marketo 섹션에 빠르게 액세스할 수 있습니다.
 
 ![](assets/overview-5.png)
 
@@ -65,7 +59,7 @@ Marketing To 플랫폼 전반에서 새로운 모양과 느낌과 함께 유용�
 
 이용 가능한 새로운 트리 기능은 매우 많습니다.
 
-**Marketing Classic vs. New Marketing**
+**Marketo Classic과 새로운 Marketo 비교**
 
 <table> 
  <tbody>
@@ -186,7 +180,7 @@ Marketing To 플랫폼 전반에서 새로운 모양과 느낌과 함께 유용�
 <table> 
  <tbody>
   <tr>
-   <td>3</td> 
+   <td>1</td> 
    <td>더 이상 슈퍼볼 드롭다운 없음</td> 
   </tr>
   <tr>
@@ -210,7 +204,7 @@ Marketing To 플랫폼 전반에서 새로운 모양과 느낌과 함께 유용�
 
 >[!NOTE]
 >
->수퍼볼 드롭다운에서 사용하던 모든 것을 내 마케팅의 타일로 계속 사용할 수 있습니다.
+>수퍼볼 드롭다운에서 사용하던 모든 것을 내 Marketo의 타일로 계속 사용할 수 있습니다.
 
 >[!TIP]
 >
