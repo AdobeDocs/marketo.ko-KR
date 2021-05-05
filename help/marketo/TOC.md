@@ -5,9 +5,9 @@ user-guide-description: Marketo 제품 설명서
 feature-set: Marketo Engage
 hide: true
 translation-type: tm+mt
-source-git-commit: 21934ae633cf3d81ab763decfcaa353deabb8c18
+source-git-commit: 35ab8d353a2518a1603cb508a6f8c0ea650483e4
 workflow-type: tm+mt
-source-wordcount: '8009'
+source-wordcount: '8024'
 ht-degree: 0%
 
 ---
@@ -179,6 +179,7 @@ ht-degree: 0%
          + [&quot;웹 페이지로 보기&quot; 메시지 편집](product-docs/administration/email-setup/edit-the-view-as-web-page-message.md)
          + [통신 제한 사용](product-docs/administration/email-setup/enable-communication-limits.md)
          + [스마트 캠페인에 대한 사람 제한 사용](product-docs/administration/email-setup/enable-person-restrictions-for-smart-campaigns.md)
+         + [이메일 보트 활동 필터링](product-docs/administration/email-setup/filtering-email-bot-activity.md)
          + [&quot;관리 -> 이메일&quot; 섹션에서 구독 취소 텍스트 제거](product-docs/administration/email-setup/remove-unsubscribe-text-from-the-admin-email-section.md)
       + 필드 관리 {#field-management}
          + [신뢰할 수 없는 출처의 목록을 가져오는 동안 필드 업데이트 차단](product-docs/administration/field-management/block-field-updates-during-list-import-from-untrusted-sources.md)
@@ -194,6 +195,7 @@ ht-degree: 0%
          + [필드에 대해 데이터에서 사용하는 내보내기](product-docs/administration/field-management/export-used-by-data-for-a-field.md)
          + [필드 숨기기 및 숨김 취소](product-docs/administration/field-management/hide-and-unhide-a-field.md)
          + [이메일의 HTML 인코딩 토큰](product-docs/administration/field-management/html-encode-tokens-in-emails.md)
+         + [필드를 민감도로 표시](product-docs/administration/field-management/mark-a-field-as-sensitive.md)
          + [필드 이름 바꾸기](product-docs/administration/field-management/rename-a-field.md)
          + [시스템 관리 필드 이해](product-docs/administration/field-management/understanding-system-managed-fields.md)
          + [Marketo과 Salesforce 간 필드 매핑 보기](product-docs/administration/field-management/view-field-mappings-between-marketo-and-salesforce.md)
@@ -227,6 +229,7 @@ ht-degree: 0%
          + [구독 설정 편집](product-docs/administration/settings/edit-subscription-settings.md)
          + [보물 상자 기능 활성화 또는 비활성화](product-docs/administration/settings/enable-or-disable-treasure-chest-features.md)
          + [계정에 대해 개인화된 URL 활성화(관리)](product-docs/administration/settings/enable-personalized-urls-for-your-account-administration.md)
+         + [스팸 양식 제출을 차단하는 방법](product-docs/administration/settings/how-to-block-spam-form-submissions.md)
          + [IP를 기반으로 Marketo 로그인 제한](product-docs/administration/settings/restrict-marketo-logins-based-on-ip.md)
          + [언어, 로케일 및 표준 시간대 선택](product-docs/administration/settings/select-your-language-locale-and-time-zone.md)
          + [폴백 페이지 설정](product-docs/administration/settings/set-a-fallback-page.md)
