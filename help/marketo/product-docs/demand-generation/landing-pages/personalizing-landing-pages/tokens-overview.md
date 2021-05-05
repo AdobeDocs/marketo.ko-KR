@@ -1,19 +1,19 @@
 ---
 unique-page-id: 2950799
-description: 토큰 개요 - 마케팅 문서 - 제품 설명서
+description: 토큰 개요 - Marketo 문서 - 제품 설명서
 title: 토큰 개요
+exl-id: d60816ce-33fb-4e18-8acd-71d4e90f47de
 translation-type: tm+mt
-source-git-commit: 2969e6f94f5fd781e2167ae2aa8680bb8d134754
+source-git-commit: 4fc3cf6e6458f07df7cced9399831b8c6b50e0ad
 workflow-type: tm+mt
 source-wordcount: '300'
 ht-degree: 0%
 
 ---
 
-
 # 토큰 개요 {#tokens-overview}
 
-토큰은 Marketing to 스마트 캠페인 흐름 단계, 이메일, 랜딩 페이지, 코드 단편 및 웹 캠페인에 사용할 수 있는 변수입니다.
+토큰은 Marketo 스마트 캠페인 흐름 단계, 이메일, 랜딩 페이지, 코드 단편 및 웹 캠페인에 사용할 수 있는 변수입니다.
 
 ## 기본값 이해 {#understanding-default-values}
 
@@ -27,11 +27,11 @@ ht-degree: 0%
 
 >[!CAUTION]
 >
->Marketing의 이메일 편집기를 사용할 때 미리 머리글에서 토큰이 작동하지 않습니다. 프리헤더에서 토큰을 사용하려면 이메일 템플릿에서 자신의 HTML을 통해 사용해야 합니다.
+>Marketo의 이메일 편집기를 사용할 때 미리 머리글에서 토큰이 작동하지 않습니다. 프리헤더에서 토큰을 사용하려면 이메일 템플릿에서 자신의 HTML을 통해 사용해야 합니다.
 
 >[!NOTE]
 >
->이 목록은 완전하지 않다. Marketing To에 있는 모든 사용자 정의 필드에 대해서도 토큰이 만들어집니다.
+>이 목록은 완전하지 않다. 또한 Marketo에 있는 모든 사용자 정의 필드에 대해 토큰이 만들어집니다.
 
 ## 사람 토큰 {#person-tokens}
 
@@ -149,7 +149,7 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->스마트 캠페인에 사용된 트리거를 기반으로 [흥미로운 순간에 대한 토큰에 대한 자세한 내용을 찾습니다.](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/features/tabs-in-the-msi-panel/interesting-moments/tokens-for-interesting-moments.md)
+>스마트 캠페인에 사용된 트리거를 기반으로 [흥미로운 순간에 대한 토큰에 대한 자세한 내용을 찾습니다.](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/features/tabs-in-the-msi-panel/interesting-moments/trigger-tokens-for-interesting-moments.md)
 
 ## 프로그램 토큰 {#program-tokens}
 
