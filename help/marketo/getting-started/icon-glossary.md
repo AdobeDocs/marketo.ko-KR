@@ -4,7 +4,7 @@ description: 아이콘 용어집 - Marketo 문서 - 제품 설명서
 title: 아이콘 용어
 exl-id: 478f9d91-07bf-46b6-927f-b020653a2fcb
 translation-type: tm+mt
-source-git-commit: d81a4a3caa12c5ec642afadf9328b3825bde6fed
+source-git-commit: 609e0d95820fc84eca341916f0767d0d94c4e2ef
 workflow-type: tm+mt
 source-wordcount: '568'
 ht-degree: 0%
@@ -17,7 +17,7 @@ ht-degree: 0%
 
 **일반 아이콘**
 
-<table> 
+<table style="table-layout:auto"> 
  <colgroup> 
   <col> 
   <col> 
@@ -144,7 +144,7 @@ ht-degree: 0%
 
 ## 관리 아이콘 {#admin-icons}
 
-<table> 
+<table style="table-layout:auto"> 
  <tbody> 
   <tr> 
    <th>아이콘</th> 
@@ -316,7 +316,7 @@ ht-degree: 0%
 
 ### 마케팅 활동 아이콘 {#marketing-activities-icons}
 
-<table> 
+<table style="table-layout:auto"> 
  <tbody> 
   <tr> 
    <th>아이콘</th> 
@@ -684,7 +684,7 @@ ht-degree: 0%
 
 ### 디자인 스튜디오 아이콘 {#design-studio-icons}
 
-<table> 
+<table style="table-layout:auto"> 
  <tbody> 
   <tr> 
    <th>아이콘</th> 
@@ -870,7 +870,7 @@ ht-degree: 0%
 
 ### 분석 아이콘 {#analytics-icons}
 
-<table> 
+<table style="table-layout:auto"> 
  <tbody> 
   <tr> 
    <th>아이콘</th> 
@@ -979,7 +979,7 @@ ht-degree: 0%
 
 ### 내 토큰 아이콘 {#my-tokens-icons}
 
-<table> 
+<table style="table-layout:auto"> 
  <tbody> 
   <tr> 
    <th>아이콘</th> 
@@ -1046,7 +1046,7 @@ ht-degree: 0%
 
 ### 캠페인 메뉴 {#campaign-menus}
 
-<table> 
+<table style="table-layout:auto"> 
  <tbody> 
   <tr> 
    <th>아이콘</th> 
@@ -1120,7 +1120,7 @@ ht-degree: 0%
 
 ### 데이터베이스 아이콘 {#database-icons}
 
-<table> 
+<table style="table-layout:auto"> 
  <tbody> 
   <tr> 
    <th>아이콘</th> 
