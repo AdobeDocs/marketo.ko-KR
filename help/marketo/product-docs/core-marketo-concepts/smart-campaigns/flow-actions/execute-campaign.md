@@ -2,9 +2,9 @@
 description: 캠페인 실행 - Marketo 문서 - 제품 설명서
 title: 캠페인 실행
 translation-type: tm+mt
-source-git-commit: 20a3bee9973340d7b772532d1be31fe745e5ffd7
+source-git-commit: 35e86ac356e61e9d6b9a663e468ced1e9a947144
 workflow-type: tm+mt
-source-wordcount: '711'
+source-wordcount: '726'
 ht-degree: 0%
 
 ---
@@ -12,6 +12,10 @@ ht-degree: 0%
 # 캠페인 실행 {#execute-campaign}
 
 다른 캠페인과 마찬가지로 실행 캠페인에도 스마트 목록, 흐름 및 일정이 포함됩니다. 다른 캠페인과 달리 실제로 예약하거나 활성화하지는 않습니다. 캠페인 실행 흐름 단계를 통해 다른 캠페인에서만 호출할 수 있습니다. 실행 캠페인의 흐름 단계는 상위 캠페인과 함께 연속으로 실행됩니다(별도의 트리거 캠페인에서 동시에 실행되는 요청 캠페인과 달리).
+
+>[!NOTE]
+>
+>이 기능은 5월 11일 화요일 저녁 모든 Marketo 인스턴스에 대해 활성화됩니다.
 
 >[!NOTE]
 >
