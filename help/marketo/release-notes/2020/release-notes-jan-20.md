@@ -4,7 +4,7 @@ description: 릴리스 노트 - 2020년 1월 - Marketo 문서 - 제품 설명서
 title: 릴리스 노트 - 2020년 1월
 exl-id: 7b011c1a-1161-42f8-8bd0-4ee273928b59
 translation-type: tm+mt
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+source-git-commit: d44f5e6f3fb24a25678e4d15ee4c6361b658556b
 workflow-type: tm+mt
 source-wordcount: '838'
 ht-degree: 0%
@@ -17,7 +17,7 @@ ht-degree: 0%
 
 >[!AVAILABILITY]
 >
->별( ![(star)](assets/star-yellow.svg))로 표시된 기능은 유료 추가 기능입니다. 자세한 내용은 Marketo Engage 담당자에게 문의하십시오.
+>별( ![(star)](assets/yellow-star.png))로 표시된 기능은 유료 추가 기능입니다. 자세한 내용은 Marketo Engage 담당자에게 문의하십시오.
 
 **_분기별 릴리스_**
 
@@ -38,9 +38,9 @@ ht-degree: 0%
 
 ## 계정 기반 마케팅 {#account-based-marketing}
 
-![(별)](assets/star-yellow.svg)
+![(별)](assets/yellow-star.png)
 
-* **[새로운 계정 검색(베타)](https://docs.marketo.com/x/WQA6Ag) ![(스타)](assets/star-yellow.svg)**:계정 프로파일링을 사용하여 AI 기반의 이상적인 고객 프로필 모델을 기반으로 ABM 전략에 대한 순 신규 타겟 계정을 검색합니다. ABM 타깃팅을 위한 Marketo Engage 리드 및 계정 데이터베이스에 아직 존재하지 않는 AI 기반 맞춤 및 의도 데이터 지표와 함께 권장 새 계정을 보고 선택하고 가져옵니다. 적격한 계정 프로파일링 고객에게 즉시 제공됩니다.
+* **[새로운 계정 검색(베타)](https://docs.marketo.com/x/WQA6Ag) ![(스타)](assets/yellow-star.png)**:계정 프로파일링을 사용하여 AI 기반의 이상적인 고객 프로필 모델을 기반으로 ABM 전략에 대한 순 신규 타겟 계정을 검색합니다. ABM 타깃팅을 위한 Marketo Engage 리드 및 계정 데이터베이스에 아직 존재하지 않는 AI 기반 맞춤 및 의도 데이터 지표와 함께 권장 새 계정을 보고 선택하고 가져옵니다. 적격한 계정 프로파일링 고객에게 즉시 제공됩니다.
 
 <br> 
 
@@ -50,7 +50,7 @@ ht-degree: 0%
 
 ## biz가능 {#bizible}
 
-![(별)](assets/star-yellow.svg)
+![(별)](assets/yellow-star.png)
 
 * **Marketo Engage 리드 통합**:영업 및 마케팅을 Bizible 및 Marketo Engage 전반에 걸쳐 리드를 통합 관리할 수 있습니다. 이 업데이트를 통해 이제 Marketo Engage을 추가 리드 데이터 소스로 사용할 수 있으므로 리드 생성에 대해 보고하기 위해 리드가 CRM과 동기화될 때까지 기다릴 필요가 없습니다.
 * **Discover 개선** 사항:타일 및 속성에서 트랜잭션 레코드로 드릴다운하고 필수 기록 카운트 및 해당 사용자당 지표를 추가하고 여러 대시보드에 대한 대시보드 필터를 추가/제거하는 기능 등 고객 피드백을 바탕으로 개발된 향상된 기능을 통해 Discover의 Discover 보드를 최대한 활용할 수 있습니다. 또한 로그인 시 기본 대시보드로 바로 이동됩니다.
