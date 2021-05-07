@@ -4,7 +4,7 @@ description: 릴리스 노트 -2009년 2월 20일 - Marketo 문서 - 제품 설�
 title: 릴리스 노트 - 2005년 2월 20일
 exl-id: 6216b405-69c6-422b-a78c-7df0e8d271e9
 translation-type: tm+mt
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+source-git-commit: d44f5e6f3fb24a25678e4d15ee4c6361b658556b
 workflow-type: tm+mt
 source-wordcount: '650'
 ht-degree: 0%
@@ -17,7 +17,7 @@ ht-degree: 0%
 
 >[!AVAILABILITY]
 >
->별( ![(star)](assets/star-yellow.svg))로 표시된 기능은 유료 추가 기능입니다. 자세한 내용은 Marketo Engage 담당자에게 문의하십시오.
+>별( ![(star)](assets/yellow-star.png))로 표시된 기능은 유료 추가 기능입니다. 자세한 내용은 Marketo Engage 담당자에게 문의하십시오.
 
 **_분기별_** 릴리스 다음 기능은 2020년  **2월 21일에 릴리스되었습니다**.
 
@@ -37,7 +37,7 @@ ht-degree: 0%
 
 ## biz가능 {#bizible}
 
-![(별)](assets/star-yellow.svg)
+![(별)](assets/yellow-star.png)
 
 * **계정 기반 세그멘테이션**:계정 속성을 기반으로 Discover 보드에 대한 세그먼트 및 필터를 만드는 기능을 사용하여 계정 수준에서 속성을 분석합니다. 이러한 세그먼트를 사용하여 계정 기반 마케팅 성과를 드릴다운합니다.
 * **필터 저장**:각 사용자에 고유한 대시보드별 필터를 저장하여 대시보드를 신속하고 일관되게 분석할 수 있습니다.
