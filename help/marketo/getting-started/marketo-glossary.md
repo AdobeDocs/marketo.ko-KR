@@ -4,9 +4,9 @@ description: Marketo 용어집 - Marketo 문서 - 제품 설명서
 title: Marketo 용어집
 exl-id: c387b880-708c-439c-99c3-46eb5ccb4536
 translation-type: tm+mt
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+source-git-commit: 35e86ac356e61e9d6b9a663e468ced1e9a947144
 workflow-type: tm+mt
-source-wordcount: '4225'
+source-wordcount: '4231'
 ht-degree: 0%
 
 ---
@@ -49,7 +49,7 @@ ht-degree: 0%
   </tr> 
   <tr> 
    <td colspan="1"><strong><a href="/help/marketo/product-docs/target-account-management/setup-tam/account-score.md" rel="nofollow">계정 점수</a></strong></td> 
-   <td colspan="1"><strong>ABM</strong>에서 계정의 참여 수준을 결정하는 데 도움이 되는 점수입니다.</td> 
+   <td colspan="1"><strong>TAM</strong>에서 계정의 참여 수준을 결정하는 데 도움이 되는 점수입니다.</td> 
   </tr> 
   <tr> 
    <td colspan="1"><strong>획득 날짜</strong></td> 
@@ -62,6 +62,10 @@ ht-degree: 0%
   <tr> 
    <td colspan="1"><a href="/help/marketo/product-docs/demand-generation/ad-network-integrations/understanding-ad-network-integrations.md" rel="nofollow"><strong>광고 네트워크 통합 </strong></a></td> 
    <td colspan="1">(이전 Ad Bridge) Marketo의 고유한 대상 데이터를 유료 미디어 시스템에 연결하여 보다 타깃팅되고 개인화된 디지털 광고 캠페인을 실행할 수 있는 방법입니다.</td> 
+  </tr> 
+  <tr> 
+   <td colspan="1"><strong>Adobe Marketo Engage</strong></td> 
+   <td colspan="1">Adobe Experience Cloud 내의 모든 Marketo 제품 제품 솔루션의 집계에 대한 공식 브랜드 이름입니다.</td> 
   </tr> 
   <tr> 
    <td colspan="1"><strong><a href="/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/send-alert.md" rel="nofollow">경고</a></strong></td> 
@@ -242,7 +246,7 @@ ht-degree: 0%
     <div> 
      <p><strong> 데이터베이스</strong></p> 
     </div></td> 
-   <td><strong>Marketo Engage</strong>의 핵심 섹션 중 하나입니다. 데이터베이스는 모든 <strong>person</strong> 레코드에 있습니다.</td> 
+   <td><strong>Adobe Marketo Engage</strong>의 핵심 섹션 중 하나입니다. 데이터베이스는 모든 <strong>person</strong> 레코드에 있습니다.</td> 
   </tr> 
   <tr> 
    <td><strong>중복 제거</strong></td> 
@@ -269,7 +273,7 @@ ht-degree: 0%
   </tr> 
   <tr> 
    <td colspan="1"><strong>Design Studio</strong></td> 
-   <td colspan="1"><strong>Marketo Engage</strong>의 핵심 섹션 중 하나입니다. Design Studio는 <strong>assets</strong>에 있습니다. 예:<strong>랜딩 페이지</strong>, 양식, <strong>이메일</strong>, <strong>snippets</strong> 및 이미지/파일.</td> 
+   <td colspan="1"><strong>Adobe Marketo Engage</strong>의 핵심 섹션 중 하나입니다. Design Studio는 <strong>assets</strong>에 있습니다. 예:<strong>랜딩 페이지</strong>, 양식, <strong>이메일</strong>, <strong>snippets</strong> 및 이미지/파일.</td> 
   </tr> 
   <tr> 
    <td colspan="1"><strong>Docs</strong></td> 
@@ -482,7 +486,7 @@ ht-degree: 0%
   </tr> 
   <tr> 
    <td><strong>리드</strong></td> 
-   <td><strong>Marketo Engage</strong>에서 리드는 마케팅 캠페인을 통해 참여하려는 Marketo <strong>데이터베이스</strong>의 개인을 설명하는 데 사용되는 이전 용어(<strong>person</strong>으로 대체됨)입니다. <strong>CRM</strong>에서 리드는 Marketo 기능과 독립적인 다른 개념(즉, <strong>opportunity</strong>에 연결된 개인)을 나타낼 수 있습니다.</td> 
+   <td><strong>Adobe Marketo Engage</strong>에서 리드는 마케팅 캠페인을 통해 참여하려는 Marketo <strong>데이터베이스</strong>의 개별 사용자를 설명하는 데 사용되는 이전 용어(<strong>person</strong>으로 대체됨)입니다. <strong>CRM</strong>에서 리드는 Marketo 기능과 독립적인 다른 개념(즉, <strong>opportunity</strong>에 연결된 개인)을 나타낼 수 있습니다.</td> 
   </tr> 
   <tr> 
    <td colspan="1"><strong>리드 데이터베이스</strong></td> 
@@ -512,7 +516,7 @@ ht-degree: 0%
  <tbody> 
   <tr> 
    <td><strong>마케팅 활동</strong></td> 
-   <td><p>Marketo Engage의 핵심 섹션 중 하나입니다. 이 위치에서 <strong>캠페인</strong> 오케스트레이션이 발생합니다. 모든 <strong>프로그램</strong>, 캠페인 및 <strong>캠페인 폴더</strong>(및 <strong>로컬 자산</strong>)가 여기에 라이브됩니다.</p></td> 
+   <td><p>Adobe Marketo Engage의 핵심 섹션 중 하나입니다. 이 위치에서 <strong>캠페인</strong> 오케스트레이션이 발생합니다. 모든 <strong>프로그램</strong>, 캠페인 및 <strong>캠페인 폴더</strong>(및 <strong>로컬 자산</strong>)가 여기에 라이브됩니다.</p></td> 
   </tr> 
   <tr> 
    <td colspan="1"><a href="https://www.marketo.com/marketing-automation/" rel="nofollow"><strong>마케팅 자동화</strong></a></td> 
@@ -525,10 +529,6 @@ ht-degree: 0%
   <tr> 
    <td colspan="1"><a href="/help/marketo/product-docs/email-marketing/deliverability/understanding-unsubscribe.md#marketing-suspended" rel="nofollow"><strong>마케팅 일시 중단</strong></a></td> 
    <td colspan="1">이 필드는 <strong>user</strong>이(가) Marketo <strong>데이터베이스</strong>에서 일시적으로 사용할 수 없도록 수동으로 설정합니다.</td> 
-  </tr> 
-  <tr> 
-   <td colspan="1"><strong>Marketo Engage</strong></td> 
-   <td colspan="1">Adobe Experience Cloud 내의 모든 Marketo 제품 제품 솔루션의 집계에 대한 공식 브랜드 이름입니다.</td> 
   </tr> 
   <tr> 
    <td colspan="1"><strong>Marketo 리드 관리(MLM)</strong></td> 
@@ -560,7 +560,7 @@ ht-degree: 0%
   </tr> 
   <tr> 
    <td colspan="1"><strong>내 Marketo</strong></td> 
-   <td colspan="1">Marketo Engage의 표준 섹션 중 하나입니다. 액세스 권한이 있는 Marketo의 모든 섹션에 대한 타일을 표시하는 Marketo "홈 페이지" 역할을 합니다.</td> 
+   <td colspan="1">Adobe Marketo Engage의 표준 섹션 중 하나입니다. 액세스 권한이 있는 Marketo의 모든 섹션에 대한 타일을 표시하는 Marketo "홈 페이지" 역할을 합니다.</td> 
   </tr> 
   <tr> 
    <td colspan="1"><a href="/help/marketo/product-docs/core-marketo-concepts/programs/tokens/understanding-my-tokens-in-a-program.md" rel="nofollow"><strong>내 토큰</strong></a></td> 
