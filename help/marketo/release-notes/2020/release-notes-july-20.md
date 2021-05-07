@@ -4,7 +4,7 @@ description: 릴리스 노트 -20년 7월 - Marketo 문서 - 제품 설명서
 title: 릴리스 노트 - 2007년 7월
 exl-id: 3c9b1f1d-961c-4bf8-8b99-37b483230506
 translation-type: tm+mt
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+source-git-commit: d44f5e6f3fb24a25678e4d15ee4c6361b658556b
 workflow-type: tm+mt
 source-wordcount: '653'
 ht-degree: 0%
@@ -17,7 +17,7 @@ ht-degree: 0%
 
 >[!AVAILABILITY]
 >
->현재 패키지에 따라, 별( ![(star)](assets/star-yellow.svg))가 있는 항목은 값 추가 기능을 구입해야 할 수 있습니다. 자세한 내용은 Marketo Engage 담당자에게 문의하십시오.
+>현재 패키지에 따라, 별( ![(star)](assets/yellow-star.png))가 있는 항목은 값 추가 기능을 구입해야 할 수 있습니다. 자세한 내용은 Marketo Engage 담당자에게 문의하십시오.
 
 **_분기별 릴리스_** 다음 기능은 2020년  **7월 31일에 릴리스됩니다**.
 
@@ -27,7 +27,7 @@ ht-degree: 0%
 
 ## 계정 기반 마케팅 {#account-based-marketing}
 
-![(별)](assets/star-yellow.svg)
+![(별)](assets/yellow-star.png)
 
 * **계정 프로파일링에 대한 UI 업데이트**:단일 화면에서 간소화된 단계를 통해 계정 프로파일링에서 타겟 계정 목록 생성을 간소화할 수 있습니다.
 
@@ -47,13 +47,13 @@ ht-degree: 0%
 
 ## Sales Insight {#sales-insight}
 
-![(별)](assets/star-yellow.svg)
+![(별)](assets/yellow-star.png)
 
 * **[Salesforce가 아닌 CRM 통합](/help/marketo/product-docs/marketo-sales-insight/sales-insight-for-non-native-salesforce-integrations.md) (베타)을 사용하는 고객을 위한 Sales Insight 사용**:네이티브 Salesforce CRM 통합을 사용하는 Marketo Engage 고객은 이제 Sales Insight를 사용하여 세일즈 팀이 가장 참여도가 높은 리드 및 기회를 파악, 우선 순위 지정 및 상호 작용하여 보다 신속하게 세일즈 및 거래를 할 수 있습니다.
 
 ## 판매 연결 {#sales-connect}
 
-![(별)](assets/star-yellow.svg)
+![(별)](assets/yellow-star.png)
 
 * **[영업 호출에 대한 2자 동의 개선: 이제](/help/marketo/product-docs/marketo-sales-connect/phone/two-party-consent-settings.md)** 관리자는 통화 기록 구성을 보다 완벽하게 제어할 수 있습니다. [양당 ](/help/marketo/product-docs/marketo-sales-connect/phone/enable-call-recording.md) 동의 법을 준수한다는 확신을 갖고 전화 기록을 활성화합니다. 녹음되는 호출에 대한 알림을 자동화하고 호출 전에 재생되는 오디오 클립을 활성화합니다.
 
