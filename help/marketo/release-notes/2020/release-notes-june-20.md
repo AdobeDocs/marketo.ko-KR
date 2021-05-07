@@ -4,9 +4,9 @@ description: 릴리스 노트 - 2006년 6월 20일 - Marketo 문서 - 제품 설
 title: 릴리스 노트 -2006년 6월
 exl-id: ffc39c9f-8c0c-45af-8ee6-f58971e230b9
 translation-type: tm+mt
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+source-git-commit: d44f5e6f3fb24a25678e4d15ee4c6361b658556b
 workflow-type: tm+mt
-source-wordcount: '1073'
+source-wordcount: '1071'
 ht-degree: 0%
 
 ---
@@ -17,14 +17,14 @@ ht-degree: 0%
 
 >[!AVAILABILITY]
 >
->별( ![(star)](assets/star-yellow.svg))로 표시된 기능은 유료 추가 기능을 사용할 수 있습니다. 자세한 내용은 Marketo Engage 담당자에게 문의하십시오.
+>별(![](assets/yellow-star.png))로 표시된 기능은 유료 추가 기능입니다. 자세한 내용은 Marketo Engage 담당자에게 문의하십시오.
 
 **_분기별 릴리스_** 다음 기능은 2020년  **6월 5일에 릴리스됩니다**.
 
 ## 코어 Marketo Engage {#core-marketo-engage}
 
-* **[예측 대상](https://experienceleague.adobe.com/docs/marketo/sky/predictive-audiences/getting-started-with-predictive-audiences.html?lang=en#predictive-audiences)** ![(스타)](assets/star-yellow.svg):Adobe Sensei에서 제공하는 새로운 스마트 목록 및 스마트 캠페인 필터를 사용하면 이메일, 이벤트 및 웨비나 마케팅 프로그램을 위한 AI 기반의 고객 세그먼트를 만들 수 있습니다. AI를 사용하여 이벤트를 등록하거나 이벤트에 참여하거나 가입을 해지할 리드 가능성을 기준으로 고객을 분류할 수 있습니다. 이전 프로그램을 기반으로 유사 고객을 구축하여 이전 성과를 효율적으로 복제할 수 있습니다. 예측 목표 추적을 통해 전환 목표를 달성하고 이벤트 프로그램에 대한 고객 세그먼트를 세분화하는 방법에 대한 권장 사항을 얻을 수 있습니다.
-* **일괄 이메일 증폭** ![(별)](assets/star-yellow.svg):시간당 최대 300만 개의 일괄 이메일 전송을 지원하는 이메일 마케팅 기능이 향상되었습니다. 이메일 프로그램과 일괄 이메일 캠페인의 성과를 개선하기 위해 일괄 캠페인 및 이메일 보고서 처리 아키텍처를 다시 설계했습니다. 그러면 전송 리드 시간이 단축되고 완료 시간이 개선됩니다. 이메일에 평소처럼 간편하게 전송할 수 있도록 설정할 수 있으므로 복잡성은 더 이상 없습니다. 이 개선 사항은 배달 서비스 시작 팩, 이메일 배달 도구 및 여러 전용 IP 주소도 포함하는 제품 추가 기능으로 사용할 수 있습니다.
+* **[예측 대상](https://experienceleague.adobe.com/docs/marketo/sky/predictive-audiences/getting-started-with-predictive-audiences.html?lang=en#predictive-audiences)** ![(스타)](assets/yellow-star.png):Adobe Sensei에서 제공하는 새로운 스마트 목록 및 스마트 캠페인 필터를 사용하면 이메일, 이벤트 및 웨비나 마케팅 프로그램을 위한 AI 기반의 고객 세그먼트를 만들 수 있습니다. AI를 사용하여 이벤트를 등록하거나 이벤트에 참여하거나 가입을 해지할 리드 가능성을 기준으로 고객을 분류할 수 있습니다. 이전 프로그램을 기반으로 유사 고객을 구축하여 이전 성과를 효율적으로 복제할 수 있습니다. 예측 목표 추적을 통해 전환 목표를 달성하고 이벤트 프로그램에 대한 고객 세그먼트를 세분화하는 방법에 대한 권장 사항을 얻을 수 있습니다.
+* **일괄 이메일 증폭** ![(별)](assets/yellow-star.png):시간당 최대 300만 개의 일괄 이메일 전송을 지원하는 이메일 마케팅 기능이 향상되었습니다. 이메일 프로그램과 일괄 이메일 캠페인의 성과를 개선하기 위해 일괄 캠페인 및 이메일 보고서 처리 아키텍처를 다시 설계했습니다. 그러면 전송 리드 시간이 단축되고 완료 시간이 개선됩니다. 이메일에 평소처럼 간편하게 전송할 수 있도록 설정할 수 있으므로 복잡성은 더 이상 없습니다. 이 개선 사항은 배달 서비스 시작 팩, 이메일 배달 도구 및 여러 전용 IP 주소도 포함하는 제품 추가 기능으로 사용할 수 있습니다.
 * **[Adobe Experience Cloud(AEC)와 대상 통합](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/static-lists/send-a-list-to-adobe-experience-cloud.md)**:새로운 Adobe Experience Cloud(AEC) 통합을 통해 Marketo Engage의 알려진 리드 목록을 여러 AEC 애플리케이션과 동기화할 수 있으므로 기존 프로그램을 개선하고 새로운 사용 사례를 발굴하며 멀티채널 캠페인을 체계적으로 구성할 수 있습니다. 이 통합에는 Adobe Analytics, Adobe Target, Adobe Experience Manager, Adobe Audience Manager 및 Adobe Advertising Cloud이 포함됩니다.
 * **[프로그램 회원 사용자 정의 필드](/help/marketo/product-docs/core-marketo-concepts/programs/working-with-programs/program-member-custom-fields.md)**:프로그램 멤버에 대한 사용자 정의 필드를 캡처하고 활용할 수 있습니다. Marketo Engage 양식에서 이러한 새 필드를 사용하고, 프로그램의 멤버 목록에서 보고, 스마트 목록 필터와 트리거를 활용하고, 새로운 스마트 캠페인 흐름 동작에 포함시켜 자동화 및 보다 세밀하게 개인화합니다. UI 및 API를 통해 가져오고 내보낼 수도 있습니다. 사용자 지정 데이터 개체 및 필드 기능에 대한 개선 사항.
 * **프로그램 회원 설명**:REST API를 사용하여 프로그램 멤버 사용자 정의 필드 데이터를 가져오고 내보낼 수 있는 프로그램 멤버 메타데이터를 검색할 수 있습니다. API에 대한 개선 사항.
@@ -35,7 +35,7 @@ ht-degree: 0%
 
 ## 계정 기반 마케팅 {#account-based-marketing}
 
-![(별)](assets/star-yellow.svg)
+![(별)](assets/yellow-star.png)
 
 * **일반적으로 사용할 수 있는 새 계정 검색**
 
@@ -49,7 +49,7 @@ ht-degree: 0%
 
 ## biz가능 {#bizible}
 
-![(별)](assets/star-yellow.svg)
+![(별)](assets/yellow-star.png)
 
 * **Marketo Engage 프로그램 통합**:여정에서 프로그램 데이터를 바로 가져와 Bizble의 어트리뷰션 Marketo Engage에 따라 터치포인트를 만들어 이메일 및 참여 프로그램에 적절히 크레딧을 부여할 수 있습니다. Marketo Engage 통합 향상
 * **Marketo Engage 활동 통합(베타)**:Marketo Engage 활동 데이터를 Bizzy로 바로 가져와 고객 여정 및 모든 기여도 모델을 통해 고객 접점을 만들 수 있습니다. 리드 점수 변경 사항, 흥미로운 순간, 이메일 클릭 또는 사용자 지정 활동이 이에 해당합니다. Marketo Engage 통합 향상
@@ -59,7 +59,7 @@ ht-degree: 0%
 
 ## Sales Insight {#sales-insight}
 
-![(별)](assets/star-yellow.svg)
+![(별)](assets/yellow-star.png)
 
 * **[Salesforce CRM용 인사이트 대시보드](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/features/insights-dashboard-feature-overview.md)**:Adobe는 판매 인사이트 기능을 향후 마케팅 이벤트 및 캠페인에 대한 새로운 가시성으로 재설계함으로써 판매자는 자신의 요구와 관심사를 바탕으로 고객과 잠재 고객에게 보다 연관성 있는 추천을 제공할 수 있게 되었습니다. 판매자는 타임라인에서 연락처 및 계정 활동을 모두 볼 수 있으며 추가 활동 세부 정보에 손쉽게 액세스할 수 있습니다. 패키지 [여기](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/features/configuration-for-existing-customers.md)에서 업그레이드 방법에 대한 자세한 내용을 살펴보십시오.
 
