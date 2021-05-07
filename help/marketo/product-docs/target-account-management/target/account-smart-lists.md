@@ -1,15 +1,15 @@
 ---
 unique-page-id: 11378814
-description: 계정 스마트 목록 - 마케팅 문서 - 제품 설명서
+description: 계정 스마트 목록 - Marketo 문서 - 제품 설명서
 title: 계정 스마트 목록
+exl-id: fbdfb2b8-0061-467d-be89-527744a659a9
 translation-type: tm+mt
-source-git-commit: 96d6cc030ecd9d1da844fe27e1c6f62bbd181d62
+source-git-commit: 35e86ac356e61e9d6b9a663e468ced1e9a947144
 workflow-type: tm+mt
-source-wordcount: '483'
+source-wordcount: '0'
 ht-degree: 0%
 
 ---
-
 
 # 계정 스마트 목록 {#account-smart-lists}
 
@@ -17,11 +17,15 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->이 기능은 오픈 베타에 있으며 TAM과 Marketing To Next-Gen 사용자 경험이 모두 활성화된 모든 사용자가 사용할 수 있습니다. 베타 프로그램에 참여하려면 CSM에 문의하십시오.
+>이 기능은 5월 11일 화요일 저녁에 모든 유효한 Marketo 인스턴스에 대해 활성화됩니다.
+
+>[!NOTE]
+>
+>이 기능은 TAM과 Adobe Marketo Engage 차세대 사용자 환경이 모두 활성화된 사용자만 사용할 수 있습니다.
 
 ## 계정 스마트 목록 만들기 {#create-an-account-smart-list}
 
-1. Marketing에서 **마케팅 활동**&#x200B;으로 이동합니다.
+1. Marketo에서 **마케팅 활동**&#x200B;으로 이동합니다.
 
    ![](assets/account-smart-lists-1.png)
 
@@ -87,7 +91,7 @@ Account Smart Lists는 다음과 같이 표준 Smart Lists와 유사하게 작�
 
 **클론**:계정 스마트 목록 사본을 만듭니다.
 
-**광고 네트워크에 보내기**:목록을 새 일치된 대상으로 LinkedIn에 보냅니다.
+**광고 네트워크에 보내기**:목록을 새 일치 대상으로 LinkedIn에 보냅니다.
 
 _계정 스마트 목록의 사람 구성원_ 필터를 사용하여 표준 스마트 캠페인/목록에서 계정 스마트 목록을 참조할 수도 있습니다.
 
