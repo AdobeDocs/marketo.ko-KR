@@ -3,16 +3,16 @@ title: Marketo 제품 문서
 description: Marketo 제품 문서
 exl-id: 4b97fe25-ce4d-446c-8b23-2566769f35ee
 translation-type: tm+mt
-source-git-commit: 0d2482ca080bbc38e12de391fb2d179b43046bcf
+source-git-commit: 3f8cebecc479c5e051aa1067a5b6bd9d40521eb2
 workflow-type: tm+mt
-source-wordcount: '49'
+source-wordcount: '52'
 ht-degree: 0%
 
 ---
 
 # Marketo 제품 문서
 
-배너
+![](assets/marketo-docs-banner.jpg)
 
 ## 시작하기
 
@@ -33,3 +33,7 @@ ht-degree: 0%
 * [스마트 캠페인 이해](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/understanding-smart-campaigns.md)
 
 * [Adobe Marketo Engage 차세대 UX 경험 개요](/help/marketo/product-docs/marketo-engage-next-generation-experience/overview.md)
+
+## 현재 릴리스 노트
+
+* [2021년 5월](/help/marketo/release-notes/2021/release-notes-may-21.md)
