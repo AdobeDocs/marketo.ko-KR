@@ -4,16 +4,16 @@ description: 아이콘 용어집 - Marketo 문서 - 제품 설명서
 title: 아이콘 용어
 exl-id: 478f9d91-07bf-46b6-927f-b020653a2fcb
 translation-type: tm+mt
-source-git-commit: 609e0d95820fc84eca341916f0767d0d94c4e2ef
+source-git-commit: 35e86ac356e61e9d6b9a663e468ced1e9a947144
 workflow-type: tm+mt
-source-wordcount: '568'
+source-wordcount: '569'
 ht-degree: 0%
 
 ---
 
 # 아이콘 용어집 {#icon-glossary}
 
-다음은 Marketo Classic의 아이콘입니다. 새 Marketo Engage 인터페이스로 전환된 경우 아이콘 용어집 [은(는) ](/help/marketo/product-docs/marketo-engage-next-generation-experience/new-icon-glossary.md)에서 찾을 수 있습니다.
+다음은 Marketo Classic의 아이콘입니다. 새 Adobe Marketo Engage 인터페이스로 전환된 경우 아이콘 용어집 [이(가)](/help/marketo/product-docs/marketo-engage-next-generation-experience/new-icon-glossary.md)에서 찾을 수 있습니다.
 
 **일반 아이콘**
 
