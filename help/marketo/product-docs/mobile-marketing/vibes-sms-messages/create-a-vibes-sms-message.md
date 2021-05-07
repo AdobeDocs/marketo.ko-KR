@@ -1,15 +1,15 @@
 ---
 unique-page-id: 11378869
-description: 동영상 SMS 메시지 만들기 - 마케팅 문서 - 제품 설명서
+description: 동영상 SMS 메시지 만들기 - Marketo 문서 - 제품 설명서
 title: 동영상 SMS 메시지 만들기
+exl-id: 9ec0da97-7a80-4c40-be79-be08d7d1d9c1
 translation-type: tm+mt
-source-git-commit: d1d74e24c07578b1b0c2696c08fe5a5be543cce8
+source-git-commit: 35e86ac356e61e9d6b9a663e468ced1e9a947144
 workflow-type: tm+mt
-source-wordcount: '371'
+source-wordcount: '372'
 ht-degree: 0%
 
 ---
-
 
 # Vides SMS 메시지 {#create-a-vibes-sms-message} 만들기
 
@@ -17,7 +17,7 @@ Vibest SMS 메시지를 만드는 방법을 소개합니다.
 
 >[!AVAILABILITY]
 >
->이 기능은 Marketo Engage 계정의 추가 기능으로 사용할 수 있습니다. 제대로 프로비저닝하려면 Adobe을 통해 제품을 구입해야 합니다. 자세한 내용은 Adobe 고객 성공 관리자에게 문의하십시오.
+>이 기능은 Adobe Marketo Engage 계정의 추가 기능으로 사용할 수 있습니다. 제대로 프로비저닝하려면 Adobe을 통해 제품을 구입해야 합니다. 자세한 내용은 Adobe 고객 성공 관리자에게 문의하십시오.
 
 >[!NOTE]
 >
@@ -67,7 +67,7 @@ Vibest SMS 메시지를 만드는 방법을 소개합니다.
 
    ![](assets/full-message-link-hand.jpg)
 
-1. 링크 유형을 선택합니다. 마케팅 랜딩 페이지가 기본값입니다. 그런 다음 드롭다운에서 랜딩 페이지를 선택하고 **삽입**&#x200B;을 클릭합니다.
+1. 링크 유형을 선택합니다. Marketo 랜딩 페이지가 기본값입니다. 그런 다음 드롭다운에서 랜딩 페이지를 선택하고 **삽입**&#x200B;을 클릭합니다.
 
    ![](assets/insert-link-real-hands.jpg)
 
@@ -85,7 +85,7 @@ Vibest SMS 메시지를 만드는 방법을 소개합니다.
 
    >[!NOTE]
    >
-   >Marketing Cloud에 브랜드 추적 도메인의 링크 미리 보기가 표시됩니다. mkt_tok 링크 확인란을 선택 취소하면 링크가 변경됩니다. [링크 추적] 확인란을 선택 취소하면 URL이 기본 길이(예: www.mygooglepage.com)으로 단축됩니다.
+   >Marketo은 브랜드 추적 도메인의 링크 미리 보기를 표시합니다. mkt_tok 링크 확인란을 선택 취소하면 링크가 변경됩니다. [링크 추적] 확인란을 선택 취소하면 URL이 기본 길이(예: www.mygooglepage.com)으로 단축됩니다.
 
    ![](assets/image2016-7-27-16-3a20-3a16.png)
 
