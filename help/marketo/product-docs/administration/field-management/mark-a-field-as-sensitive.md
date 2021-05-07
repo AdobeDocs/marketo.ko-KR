@@ -2,9 +2,9 @@
 description: 필드를 민감도로 표시 - Marketo 문서 - 제품 설명서
 title: 필드를 민감도로 표시
 translation-type: tm+mt
-source-git-commit: 35ab8d353a2518a1603cb508a6f8c0ea650483e4
+source-git-commit: 35e86ac356e61e9d6b9a663e468ced1e9a947144
 workflow-type: tm+mt
-source-wordcount: '81'
+source-wordcount: '0'
 ht-degree: 0%
 
 ---
@@ -12,6 +12,10 @@ ht-degree: 0%
 # 필드를 민감한 {#mark-a-field-as-sensitive}으로 표시
 
 Marketo 관리자는 특정 필드를 &quot;민감도&quot;로 표시하여 해당 값이 양식에 미리 채워지지 않으므로 사용자의 민감한 데이터를 보호할 수 있습니다.
+
+>[!NOTE]
+>
+>이 기능은 5월 11일 화요일 저녁 모든 Marketo 인스턴스에 대해 활성화됩니다.
 
 1. **관리**&#x200B;를 클릭합니다.
 
