@@ -4,7 +4,7 @@ description: 릴리스 노트 -19년 8월 19일 - Marketo 문서 - 제품 설명
 title: 릴리스 노트 - 1909년 8월
 exl-id: 992af312-863c-419c-b6d4-cf5dd3b3e46c
 translation-type: tm+mt
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+source-git-commit: d44f5e6f3fb24a25678e4d15ee4c6361b658556b
 workflow-type: tm+mt
 source-wordcount: '325'
 ht-degree: 0%
@@ -25,7 +25,7 @@ ht-degree: 0%
 * **스마트 캠페인 API 업데이트**:CRUD(만들기, 읽기, 업데이트, 삭제) 인터페이스를 검토함에 따라 스마트 캠페인 라이프사이클 기능을 관리할 수 있습니다.
 * **이메일 헤더 API 변경 업데이트**:이메일 헤더 API 업데이트에는 제목 줄과 같은 헤더 필드를 업데이트하기 위해 첨부된 템플릿이 있는 이메일이 더 이상 필요하지 않습니다.
 
-**계정 기반 마케팅** ![(별)](assets/star-yellow.svg)
+**계정 기반 마케팅** ![(별)](assets/yellow-star.png)
 
 * **이전 베타 버전인 linkedIn 계정** 일치를 이제 일반적으로 사용할 수 있습니다.
 * **계정** AI는 공식적으로 계정 프로파일링 **으로 재브랜딩되고 있습니다**.
@@ -36,13 +36,13 @@ ht-degree: 0%
 
 다음 기능은 분기별로 제공되지 않으며 3분기 동안 2019년 4분기 초까지 릴리스됩니다.
 
-**Marketo Sales Connect** ![(star)](assets/star-yellow.svg)
+**Marketo Sales Connect** ![(star)](assets/yellow-star.png)
 
 * **인물 페이지 레이아웃 개선: 새 사람 페이지 레이아웃의 목록 가져오기 및 벌크 작업을 통해 사람 및 그룹을** 관리합니다.
 
 >[!AVAILABILITY]
 >
->별( ![(star)](assets/star-yellow.svg))로 표시된 기능은 유료 추가 기능입니다. 자세한 내용은 Marketo 담당자에게 문의하십시오.
+>별( ![(star)](assets/yellow-star.png))로 표시된 기능은 유료 추가 기능입니다. 자세한 내용은 Marketo 담당자에게 문의하십시오.
 
 >[!NOTE]
 >
