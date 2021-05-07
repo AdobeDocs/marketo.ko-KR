@@ -4,9 +4,9 @@ description: 흥미로운 순간을 위한 토큰 트리거 - Marketo 문서 - �
 title: 흥미로운 순간에 대한 토큰 트리거
 exl-id: 666a6eed-c432-4088-b4f1-54c996eca64c
 translation-type: tm+mt
-source-git-commit: 20a3bee9973340d7b772532d1be31fe745e5ffd7
+source-git-commit: c1b2a5966da3bda18a2ccaab9b348296ba1d7bfd
 workflow-type: tm+mt
-source-wordcount: '437'
+source-wordcount: '436'
 ht-degree: 0%
 
 ---
@@ -68,10 +68,10 @@ ht-degree: 0%
   </tr> 
   <tr> 
    <td>이메일에 있는 링크 클릭 수</td> 
-   <td><img src="assets/check.svg" alt="(확인 표시)"></td> 
-   <td><img src="assets/check.svg" alt="(확인 표시)"></td> 
-   <td><img src="assets/check.svg" alt="(확인 표시)"></td> 
-   <td><img src="assets/check.svg" alt="(확인 표시)"></td> 
+   <td><img src="assets/check.png" alt="check"></td> 
+   <td><img src="assets/check.png" alt="check"></td> 
+   <td><img src="assets/check.png" alt="check"></td> 
+   <td><img src="assets/check.png" alt="check"></td> 
    <td><br></td> 
    <td><br></td> 
    <td><br></td> 
@@ -85,12 +85,12 @@ ht-degree: 0%
   </tr> 
   <tr> 
    <td>이메일 바운스 하드</td> 
-   <td><img src="assets/check.svg" alt="(확인 표시)"></td> 
-   <td><img src="assets/check.svg" alt="(확인 표시)"></td> 
+   <td><img src="assets/check.png" alt="check"></td> 
+   <td><img src="assets/check.png" alt="check"></td> 
    <td><br></td> 
-   <td><img src="assets/check.svg" alt="(확인 표시)"></td> 
-   <td><img src="assets/check.svg" alt="(확인 표시)"></td> 
-   <td><img src="assets/check.svg" alt="(확인 표시)"></td> 
+   <td><img src="assets/check.png" alt="check"></td> 
+   <td><img src="assets/check.png" alt="check"></td> 
+   <td><img src="assets/check.png" alt="check"></td> 
    <td><br></td> 
    <td><br></td> 
    <td><br></td> 
@@ -102,12 +102,12 @@ ht-degree: 0%
   </tr> 
   <tr> 
    <td>이메일 바운스 소프트</td> 
-   <td><img src="assets/check.svg" alt="(확인 표시)"></td> 
-   <td><img src="assets/check.svg" alt="(확인 표시)"></td> 
+   <td><img src="assets/check.png" alt="check"></td> 
+   <td><img src="assets/check.png" alt="check"></td> 
    <td><br></td> 
-   <td><img src="assets/check.svg" alt="(확인 표시)"></td> 
-   <td><img src="assets/check.svg" alt="(확인 표시)"></td> 
-   <td><img src="assets/check.svg" alt="(확인 표시)"></td> 
+   <td><img src="assets/check.png" alt="check"></td> 
+   <td><img src="assets/check.png" alt="check"></td> 
+   <td><img src="assets/check.png" alt="check"></td> 
    <td><br></td> 
    <td><br></td> 
    <td><br></td> 
@@ -119,10 +119,10 @@ ht-degree: 0%
   </tr> 
   <tr> 
    <td>이메일이 배달됨</td> 
-   <td><img src="assets/check.svg" alt="(확인 표시)"></td> 
-   <td><img src="assets/check.svg" alt="(확인 표시)"></td> 
+   <td><img src="assets/check.png" alt="check"></td> 
+   <td><img src="assets/check.png" alt="check"></td> 
    <td><br></td> 
-   <td><img src="assets/check.svg" alt="(확인 표시)"></td> 
+   <td><img src="assets/check.png" alt="check"></td> 
    <td><br></td> 
    <td><br></td> 
    <td><br></td> 
@@ -136,10 +136,10 @@ ht-degree: 0%
   </tr> 
   <tr> 
    <td>이메일 열기</td> 
-   <td><img src="assets/check.svg" alt="(확인 표시)"></td> 
-   <td><img src="assets/check.svg" alt="(확인 표시)"></td> 
+   <td><img src="assets/check.png" alt="check"></td> 
+   <td><img src="assets/check.png" alt="check"></td> 
    <td><br></td> 
-   <td><img src="assets/check.svg" alt="(확인 표시)"></td> 
+   <td><img src="assets/check.png" alt="check"></td> 
    <td><br></td> 
    <td><br></td> 
    <td><br></td> 
@@ -153,8 +153,8 @@ ht-degree: 0%
   </tr> 
     <tr> 
    <td>친구에게 보낸 이메일 수신</td> 
-   <td><img src="assets/check.svg" alt="(확인 표시)"></td> 
-   <td><img src="assets/check.svg" alt="(확인 표시)"></td> 
+   <td><img src="assets/check.png" alt="check"></td> 
+   <td><img src="assets/check.png" alt="check"></td> 
    <td><br></td> 
    <td><br></td> 
    <td><br></td> 
@@ -170,8 +170,8 @@ ht-degree: 0%
   </tr> 
     <tr> 
    <td>친구에게 보낸 이메일</td> 
-   <td><img src="assets/check.svg" alt="(확인 표시)"></td> 
-   <td><img src="assets/check.svg" alt="(확인 표시)"></td> 
+   <td><img src="assets/check.png" alt="check"></td> 
+   <td><img src="assets/check.png" alt="check"></td> 
    <td><br></td> 
    <td><br></td> 
    <td><br></td> 
@@ -180,21 +180,21 @@ ht-degree: 0%
    <td><br></td> 
    <td><br></td> 
    <td><br></td> 
-   <td><img src="assets/check.svg" alt="(확인 표시)"></td> 
+   <td><img src="assets/check.png" alt="check"></td> 
    <td><br></td> 
    <td><br></td> 
-   <td><img src="assets/check.svg" alt="(확인 표시)"></td>
+   <td><img src="assets/check.png" alt="check"></td>
   </tr> 
   <tr> 
    <td>이메일의 가입 해지</td> 
-   <td><img src="assets/check.svg" alt="(확인 표시)"></td> 
-   <td><img src="assets/check.svg" alt="(확인 표시)"></td> 
+   <td><img src="assets/check.png" alt="check"></td> 
+   <td><img src="assets/check.png" alt="check"></td> 
    <td><br></td> 
-   <td><img src="assets/check.svg" alt="(확인 표시)"></td> 
+   <td><img src="assets/check.png" alt="check"></td> 
    <td><br></td> 
    <td><br></td> 
    <td><br></td> 
-   <td><img src="assets/check.svg" alt="(확인 표시)"></td> 
+   <td><img src="assets/check.png" alt="check"></td> 
    <td><br></td> 
    <td><br></td> 
    <td><br></td> 
@@ -244,16 +244,16 @@ ht-degree: 0%
   </tr> 
   <tr> 
    <td>영업 이메일의 클릭 수 링크</td> 
-   <td><img src="assets/check.svg" alt="(확인 표시)"></td> 
-   <td><img src="assets/check.svg" alt="(확인 표시)"></td> 
-   <td><img src="assets/check.svg" alt="(확인 표시)"></td> 
-   <td><img src="assets/check.svg" alt="(확인 표시)"></td> 
+   <td><img src="assets/check.png" alt="check"></td> 
+   <td><img src="assets/check.png" alt="check"></td> 
+   <td><img src="assets/check.png" alt="check"></td> 
+   <td><img src="assets/check.png" alt="check"></td> 
    <td><br></td>
    <td><br></td> 
    <td><br></td> 
    <td><br></td> 
-   <td><img src="assets/check.svg" alt="(확인 표시)"></td> 
-   <td><img src="assets/check.svg" alt="(확인 표시)"></td> 
+   <td><img src="assets/check.png" alt="check"></td> 
+   <td><img src="assets/check.png" alt="check"></td> 
    <td><br></td> 
    <td><br></td> 
    <td><br></td> 
@@ -261,16 +261,16 @@ ht-degree: 0%
   </tr> 
   <tr> 
    <td>영업 이메일이 전송됨</td> 
-   <td><img src="assets/check.svg" alt="(확인 표시)"></td> 
-   <td><img src="assets/check.svg" alt="(확인 표시)"></td> 
-   <td><img src="assets/check.svg" alt="(확인 표시)"></td> 
-   <td><img src="assets/check.svg" alt="(확인 표시)"></td> 
+   <td><img src="assets/check.png" alt="check"></td> 
+   <td><img src="assets/check.png" alt="check"></td> 
+   <td><img src="assets/check.png" alt="check"></td> 
+   <td><img src="assets/check.png" alt="check"></td> 
    <td><br></td>
    <td><br></td> 
    <td><br></td> 
    <td><br></td> 
-   <td><img src="assets/check.svg" alt="(확인 표시)"></td> 
-   <td><img src="assets/check.svg" alt="(확인 표시)"></td> 
+   <td><img src="assets/check.png" alt="check"></td> 
+   <td><img src="assets/check.png" alt="check"></td> 
    <td><br></td> 
    <td><br></td> 
    <td><br></td> 
@@ -278,16 +278,16 @@ ht-degree: 0%
   </tr> 
   <tr> 
    <td>영업 이메일 열기</td> 
-   <td><img src="assets/check.svg" alt="(확인 표시)"></td> 
-   <td><img src="assets/check.svg" alt="(확인 표시)"></td> 
-   <td><img src="assets/check.svg" alt="(확인 표시)"></td> 
-   <td><img src="assets/check.svg" alt="(확인 표시)"></td> 
+   <td><img src="assets/check.png" alt="check"></td> 
+   <td><img src="assets/check.png" alt="check"></td> 
+   <td><img src="assets/check.png" alt="check"></td> 
+   <td><img src="assets/check.png" alt="check"></td> 
    <td><br></td>
    <td><br></td> 
    <td><br></td> 
    <td><br></td> 
-   <td><img src="assets/check.svg" alt="(확인 표시)"></td> 
-   <td><img src="assets/check.svg" alt="(확인 표시)"></td> 
+   <td><img src="assets/check.png" alt="check"></td> 
+   <td><img src="assets/check.png" alt="check"></td> 
    <td><br></td> 
    <td><br></td> 
    <td><br></td> 
@@ -295,8 +295,8 @@ ht-degree: 0%
   </tr> 
   <tr> 
    <td>판매 이메일 바운스 수</td> 
-   <td><img src="assets/check.svg" alt="(확인 표시)"></td> 
-   <td><img src="assets/check.svg" alt="(확인 표시)"></td> 
+   <td><img src="assets/check.png" alt="check"></td> 
+   <td><img src="assets/check.png" alt="check"></td> 
    <td><br></td> 
    <td><br></td> 
    <td><br></td> 
@@ -312,16 +312,16 @@ ht-degree: 0%
   </tr> 
   <tr> 
    <td>판매 이메일 수신</td> 
-   <td><img src="assets/check.svg" alt="(확인 표시)"></td> 
-   <td><img src="assets/check.svg" alt="(확인 표시)"></td> 
-   <td><img src="assets/check.svg" alt="(확인 표시)"></td> 
+   <td><img src="assets/check.png" alt="check"></td> 
+   <td><img src="assets/check.png" alt="check"></td> 
+   <td><img src="assets/check.png" alt="check"></td> 
    <td><br></td> 
    <td><br></td>
    <td><br></td> 
    <td><br></td> 
    <td><br></td> 
-   <td><img src="assets/check.svg" alt="(확인 표시)"></td> 
-   <td><img src="assets/check.svg" alt="(확인 표시)"></td> 
+   <td><img src="assets/check.png" alt="check"></td> 
+   <td><img src="assets/check.png" alt="check"></td> 
    <td><br></td> 
    <td><br></td> 
    <td><br></td> 
@@ -329,8 +329,8 @@ ht-degree: 0%
   </tr> 
     <tr> 
    <td>기회가 업데이트됨</td> 
-   <td><img src="assets/check.svg" alt="(확인 표시)"></td> 
-   <td><img src="assets/check.svg" alt="(확인 표시)"></td> 
+   <td><img src="assets/check.png" alt="check"></td> 
+   <td><img src="assets/check.png" alt="check"></td> 
    <td><br></td> 
    <td><br></td> 
    <td><br></td> 
@@ -346,8 +346,8 @@ ht-degree: 0%
   </tr> 
     <tr> 
    <td>소유자 변경</td> 
-   <td><img src="assets/check.svg" alt="(확인 표시)"></td> 
-   <td><img src="assets/check.svg" alt="(확인 표시)"></td> 
+   <td><img src="assets/check.png" alt="check"></td> 
+   <td><img src="assets/check.png" alt="check"></td> 
    <td><br></td> 
    <td><br></td> 
    <td><br></td> 
@@ -363,8 +363,8 @@ ht-degree: 0%
   </tr> 
   <tr> 
    <td>전환된 사람</td> 
-   <td><img src="assets/check.svg" alt="(확인 표시)"></td> 
-   <td><img src="assets/check.svg" alt="(확인 표시)"></td> 
+   <td><img src="assets/check.png" alt="check"></td> 
+   <td><img src="assets/check.png" alt="check"></td> 
    <td><br></td> 
    <td><br></td> 
    <td><br></td> 
@@ -380,8 +380,8 @@ ht-degree: 0%
   </tr> 
   <tr> 
    <td>SFDC에서 인물 삭제</td> 
-   <td><img src="assets/check.svg" alt="(확인 표시)"></td> 
-   <td><img src="assets/check.svg" alt="(확인 표시)"></td> 
+   <td><img src="assets/check.png" alt="check"></td> 
+   <td><img src="assets/check.png" alt="check"></td> 
    <td><br></td> 
    <td><br></td> 
    <td><br></td> 
@@ -397,8 +397,8 @@ ht-degree: 0%
   </tr> 
   <tr> 
    <td>사람이 SFDC에 동기화됨</td> 
-   <td><img src="assets/check.svg" alt="(확인 표시)"></td> 
-   <td><img src="assets/check.svg" alt="(확인 표시)"></td> 
+   <td><img src="assets/check.png" alt="check"></td> 
+   <td><img src="assets/check.png" alt="check"></td> 
    <td><br></td> 
    <td><br></td> 
    <td><br></td> 
@@ -414,8 +414,8 @@ ht-degree: 0%
   </tr> 
   <tr> 
    <td>Opportunity에서 제거됨</td> 
-   <td><img src="assets/check.svg" alt="(확인 표시)"></td> 
-   <td><img src="assets/check.svg" alt="(확인 표시)"></td> 
+   <td><img src="assets/check.png" alt="check"></td> 
+   <td><img src="assets/check.png" alt="check"></td> 
    <td><br></td> 
    <td><br></td> 
    <td><br></td> 
@@ -431,8 +431,8 @@ ht-degree: 0%
   </tr> 
   <tr> 
    <td>SFDC 캠페인에서 제거됨</td> 
-   <td><img src="assets/check.svg" alt="(확인 표시)"></td> 
-   <td><img src="assets/check.svg" alt="(확인 표시)"></td> 
+   <td><img src="assets/check.png" alt="check"></td> 
+   <td><img src="assets/check.png" alt="check"></td> 
    <td><br></td> 
    <td><br></td> 
    <td><br></td> 
@@ -448,8 +448,8 @@ ht-degree: 0%
   </tr> 
   <tr> 
    <td>활동이 기록됨</td> 
-   <td><img src="assets/check.svg" alt="(확인 표시)"></td> 
-   <td><img src="assets/check.svg" alt="(확인 표시)"></td> 
+   <td><img src="assets/check.png" alt="check"></td> 
+   <td><img src="assets/check.png" alt="check"></td> 
    <td><br></td> 
    <td><br></td> 
    <td><br></td> 
@@ -465,8 +465,8 @@ ht-degree: 0%
   </tr> 
   <tr> 
    <td>활동이 업데이트됨</td> 
-   <td><img src="assets/check.svg" alt="(확인 표시)"></td> 
-   <td><img src="assets/check.svg" alt="(확인 표시)"></td> 
+   <td><img src="assets/check.png" alt="check"></td> 
+   <td><img src="assets/check.png" alt="check"></td> 
    <td><br></td> 
    <td><br></td> 
    <td><br></td> 
@@ -482,8 +482,8 @@ ht-degree: 0%
   </tr> 
   <tr> 
    <td>기회에 추가</td> 
-   <td><img src="assets/check.svg" alt="(확인 표시)"></td> 
-   <td><img src="assets/check.svg" alt="(확인 표시)"></td> 
+   <td><img src="assets/check.png" alt="check"></td> 
+   <td><img src="assets/check.png" alt="check"></td> 
    <td><br></td> 
    <td><br></td> 
    <td><br></td> 
@@ -499,8 +499,8 @@ ht-degree: 0%
   </tr> 
   <tr> 
    <td>SFDC 캠페인에 추가됨</td> 
-   <td><img src="assets/check.svg" alt="(확인 표시)"></td> 
-   <td><img src="assets/check.svg" alt="(확인 표시)"></td> 
+   <td><img src="assets/check.png" alt="check"></td> 
+   <td><img src="assets/check.png" alt="check"></td> 
    <td><br></td> 
    <td><br></td> 
    <td><br></td> 
@@ -573,16 +573,16 @@ ht-degree: 0%
   </tr> 
   <tr> 
    <td>영업 이메일의 클릭 수 링크</td> 
-   <td><img src="assets/check.svg" alt="(확인 표시)"></td> 
-   <td><img src="assets/check.svg" alt="(확인 표시)"></td> 
-   <td><img src="assets/check.svg" alt="(확인 표시)"></td> 
-   <td><img src="assets/check.svg" alt="(확인 표시)"></td> 
+   <td><img src="assets/check.png" alt="check"></td> 
+   <td><img src="assets/check.png" alt="check"></td> 
+   <td><img src="assets/check.png" alt="check"></td> 
+   <td><img src="assets/check.png" alt="check"></td> 
    <td><br></td>
    <td><br></td> 
    <td><br></td> 
    <td><br></td> 
-   <td><img src="assets/check.svg" alt="(확인 표시)"></td> 
-   <td><img src="assets/check.svg" alt="(확인 표시)"></td> 
+   <td><img src="assets/check.png" alt="check"></td> 
+   <td><img src="assets/check.png" alt="check"></td> 
    <td><br></td> 
    <td><br></td> 
    <td><br></td> 
@@ -590,16 +590,16 @@ ht-degree: 0%
   </tr> 
   <tr> 
    <td>영업 이메일이 전송됨</td> 
-   <td><img src="assets/check.svg" alt="(확인 표시)"></td> 
-   <td><img src="assets/check.svg" alt="(확인 표시)"></td> 
-   <td><img src="assets/check.svg" alt="(확인 표시)"></td> 
-   <td><img src="assets/check.svg" alt="(확인 표시)"></td> 
+   <td><img src="assets/check.png" alt="check"></td> 
+   <td><img src="assets/check.png" alt="check"></td> 
+   <td><img src="assets/check.png" alt="check"></td> 
+   <td><img src="assets/check.png" alt="check"></td> 
    <td><br></td>
    <td><br></td> 
    <td><br></td> 
    <td><br></td> 
-   <td><img src="assets/check.svg" alt="(확인 표시)"></td> 
-   <td><img src="assets/check.svg" alt="(확인 표시)"></td> 
+   <td><img src="assets/check.png" alt="check"></td> 
+   <td><img src="assets/check.png" alt="check"></td> 
    <td><br></td> 
    <td><br></td> 
    <td><br></td> 
@@ -607,16 +607,16 @@ ht-degree: 0%
   </tr> 
   <tr> 
    <td>영업 이메일 열기</td> 
-   <td><img src="assets/check.svg" alt="(확인 표시)"></td> 
-   <td><img src="assets/check.svg" alt="(확인 표시)"></td> 
-   <td><img src="assets/check.svg" alt="(확인 표시)"></td> 
-   <td><img src="assets/check.svg" alt="(확인 표시)"></td> 
+   <td><img src="assets/check.png" alt="check"></td> 
+   <td><img src="assets/check.png" alt="check"></td> 
+   <td><img src="assets/check.png" alt="check"></td> 
+   <td><img src="assets/check.png" alt="check"></td> 
    <td><br></td>
    <td><br></td> 
    <td><br></td> 
    <td><br></td> 
-   <td><img src="assets/check.svg" alt="(확인 표시)"></td> 
-   <td><img src="assets/check.svg" alt="(확인 표시)"></td> 
+   <td><img src="assets/check.png" alt="check"></td> 
+   <td><img src="assets/check.png" alt="check"></td> 
    <td><br></td> 
    <td><br></td> 
    <td><br></td> 
@@ -624,8 +624,8 @@ ht-degree: 0%
   </tr> 
   <tr> 
    <td>판매 이메일 바운스 수</td> 
-   <td><img src="assets/check.svg" alt="(확인 표시)"></td> 
-   <td><img src="assets/check.svg" alt="(확인 표시)"></td> 
+   <td><img src="assets/check.png" alt="check"></td> 
+   <td><img src="assets/check.png" alt="check"></td> 
    <td><br></td> 
    <td><br></td> 
    <td><br></td> 
@@ -641,16 +641,16 @@ ht-degree: 0%
   </tr> 
   <tr> 
    <td>판매 이메일 수신</td> 
-   <td><img src="assets/check.svg" alt="(확인 표시)"></td> 
-   <td><img src="assets/check.svg" alt="(확인 표시)"></td> 
-   <td><img src="assets/check.svg" alt="(확인 표시)"></td> 
-   <td><img src="assets/check.svg" alt="(확인 표시)"></td> 
+   <td><img src="assets/check.png" alt="check"></td> 
+   <td><img src="assets/check.png" alt="check"></td> 
+   <td><img src="assets/check.png" alt="check"></td> 
+   <td><img src="assets/check.png" alt="check"></td> 
    <td><br></td>
    <td><br></td> 
    <td><br></td> 
    <td><br></td> 
-   <td><img src="assets/check.svg" alt="(확인 표시)"></td> 
-   <td><img src="assets/check.svg" alt="(확인 표시)"></td> 
+   <td><img src="assets/check.png" alt="check"></td> 
+   <td><img src="assets/check.png" alt="check"></td> 
    <td><br></td> 
    <td><br></td> 
    <td><br></td> 
@@ -658,8 +658,8 @@ ht-degree: 0%
   </tr> 
   <tr> 
    <td>판매 캠페인에 추가됨</td> 
-   <td><img src="assets/check.svg" alt="(확인 표시)"></td> 
-   <td><img src="assets/check.svg" alt="(확인 표시)"></td> 
+   <td><img src="assets/check.png" alt="check"></td> 
+   <td><img src="assets/check.png" alt="check"></td> 
    <td><br></td> 
    <td><br></td> 
    <td><br></td> 
@@ -676,8 +676,8 @@ ht-degree: 0%
   <tr>
    <td>소유자 변경</td> 
    <td>판매 캠페인에서 제거됨</td> 
-   <td><img src="assets/check.svg" alt="(확인 표시)"></td> 
-   <td><img src="assets/check.svg" alt="(확인 표시)"></td> 
+   <td><img src="assets/check.png" alt="check"></td> 
+   <td><img src="assets/check.png" alt="check"></td> 
    <td><br></td> 
    <td><br></td> 
    <td><br></td> 
@@ -693,8 +693,8 @@ ht-degree: 0%
   </tr> 
   <tr> 
    <td>접수 판매 전화</td> 
-   <td><img src="assets/check.svg" alt="(확인 표시)"></td> 
-   <td><img src="assets/check.svg" alt="(확인 표시)"></td> 
+   <td><img src="assets/check.png" alt="check"></td> 
+   <td><img src="assets/check.png" alt="check"></td> 
    <td><br></td> 
    <td><br></td> 
    <td><br></td> 
@@ -750,14 +750,14 @@ ht-degree: 0%
   </tr> 
   <tr> 
    <td>양식 채우기</td> 
-   <td><img src="assets/check.svg" alt="(확인 표시)"></td> 
-   <td><img src="assets/check.svg" alt="(확인 표시)"></td> 
+   <td><img src="assets/check.png" alt="check"></td> 
+   <td><img src="assets/check.png" alt="check"></td> 
    <td><br></td> 
    <td><br></td> 
    <td><br></td> 
    <td><br></td> 
-   <td><img src="assets/check.svg" alt="(확인 표시)"></td> 
-   <td><img src="assets/check.svg" alt="(확인 표시)"></td> 
+   <td><img src="assets/check.png" alt="check"></td> 
+   <td><img src="assets/check.png" alt="check"></td> 
    <td><br></td> 
    <td><br></td> 
    <td><br></td> 
@@ -767,34 +767,34 @@ ht-degree: 0%
   </tr> 
   <tr> 
    <td>웹 페이지 방문 횟수</td> 
-   <td><img src="assets/check.svg" alt="(확인 표시)"></td> 
-   <td><img src="assets/check.svg" alt="(확인 표시)"></td> 
+   <td><img src="assets/check.png" alt="check"></td> 
+   <td><img src="assets/check.png" alt="check"></td> 
    <td><br></td> 
    <td><br></td> 
    <td><br></td> 
    <td><br></td> 
-   <td><img src="assets/check.svg" alt="(확인 표시)"></td> 
-   <td><img src="assets/check.svg" alt="(확인 표시)"></td> 
+   <td><img src="assets/check.png" alt="check"></td> 
+   <td><img src="assets/check.png" alt="check"></td> 
    <td><br></td> 
    <td><br></td> 
-   <td><img src="assets/check.svg" alt="(확인 표시)"></td> 
-   <td><img src="assets/check.svg" alt="(확인 표시)"></td> 
-   <td><img src="assets/check.svg" alt="(확인 표시)"></td> 
+   <td><img src="assets/check.png" alt="check"></td> 
+   <td><img src="assets/check.png" alt="check"></td> 
+   <td><img src="assets/check.png" alt="check"></td> 
    <td><br></td>
   </tr> 
   <tr> 
    <td>웹 페이지에서 링크 클릭 수</td> 
-   <td><img src="assets/check.svg" alt="(확인 표시)"></td> 
-   <td><img src="assets/check.svg" alt="(확인 표시)"></td> 
+   <td><img src="assets/check.png" alt="check"></td> 
+   <td><img src="assets/check.png" alt="check"></td> 
    <td><br></td> 
    <td><br></td> 
    <td><br></td> 
    <td><br></td> 
-   <td><img src="assets/check.svg" alt="(확인 표시)"></td> 
-   <td><img src="assets/check.svg" alt="(확인 표시)"></td> 
+   <td><img src="assets/check.png" alt="check"></td> 
+   <td><img src="assets/check.png" alt="check"></td> 
    <td><br></td> 
    <td><br></td> 
-   <td><img src="assets/check.svg" alt="(확인 표시)"></td> 
+   <td><img src="assets/check.png" alt="check"></td> 
    <td><br></td> 
    <td><br></td> 
    <td><br></td>
@@ -804,7 +804,7 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->검사 ![(tick)](assets/check.svg)이 없으면 흥미로운 순간에 빈 문자열(아무것도 없음)이 반환됩니다.
+>검사 ![(tick)](assets/)이 없으면 흥미로운 순간에 빈 문자열(아무것도 없음)이 반환됩니다.
 
 *트리거 **방문 웹 페이지**&#x200B;에는 추가적인 토큰이 몇 개 있습니다.
 
@@ -816,4 +816,4 @@ ht-degree: 0%
 >
 >흥미로운 순간을 테스트하여 의도한 대로 표현할 수 있습니다.
 >
->또한, 판매 담당자에게만 관심 있는 것이 아니라, 관심 있는 사람에게도 관심 있어야 합니다. ![(윙크)](assets/wink.svg)>
+>또한, 판매 담당자에게도 재미있는지 확인해 보십시오. 여러분들에게만은 아닙니다.
