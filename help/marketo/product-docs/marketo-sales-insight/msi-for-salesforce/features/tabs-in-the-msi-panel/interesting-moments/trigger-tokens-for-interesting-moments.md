@@ -4,7 +4,7 @@ description: 흥미로운 순간을 위한 토큰 트리거 - Marketo 문서 - �
 title: 흥미로운 순간에 대한 토큰 트리거
 exl-id: 666a6eed-c432-4088-b4f1-54c996eca64c
 translation-type: tm+mt
-source-git-commit: c1b2a5966da3bda18a2ccaab9b348296ba1d7bfd
+source-git-commit: c49a81a65a41bf850f12015a93bbe73e18b9e1f6
 workflow-type: tm+mt
 source-wordcount: '436'
 ht-degree: 0%
@@ -804,7 +804,7 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->검사 ![(tick)](assets/)이 없으면 흥미로운 순간에 빈 문자열(아무것도 없음)이 반환됩니다.
+>검사 ![(tick)](assets/check.png)이 없으면 흥미로운 순간에 빈 문자열(아무것도 없음)이 반환됩니다.
 
 *트리거 **방문 웹 페이지**&#x200B;에는 추가적인 토큰이 몇 개 있습니다.
 
