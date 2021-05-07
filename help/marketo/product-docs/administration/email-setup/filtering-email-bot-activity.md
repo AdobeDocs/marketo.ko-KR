@@ -2,9 +2,9 @@
 description: 이메일 보트 활동 필터링 - Marketo 문서 - 제품 설명서
 title: 이메일 보트 활동 필터링
 translation-type: tm+mt
-source-git-commit: 35ab8d353a2518a1603cb508a6f8c0ea650483e4
+source-git-commit: 35e86ac356e61e9d6b9a663e468ced1e9a947144
 workflow-type: tm+mt
-source-wordcount: '136'
+source-wordcount: '151'
 ht-degree: 0%
 
 ---
@@ -12,6 +12,10 @@ ht-degree: 0%
 # 이메일 보트 활동 필터링 {#filtering-email-bot-activity}
 
 이메일 보트 활동이 이메일을 잘못 부풀려서 데이터를 클릭하는 경우가 있습니다. 이를 해결하는 방법
+
+>[!NOTE]
+>
+>이 기능은 5월 11일 화요일 저녁 모든 Marketo 인스턴스에 대해 활성화됩니다.
 
 >[!NOTE]
 >
