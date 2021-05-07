@@ -1,15 +1,15 @@
 ---
 unique-page-id: 2360423
-description: 매출 주기 모델 - 마케팅 문서 - 제품 문서에서 모든 리드 찾기
+description: 매출 주기 모델에서 모든 리드 찾기 - Marketo 문서 - 제품 설명서
 title: 매출 주기 모델에서 모든 리드 찾기
+exl-id: 428dbfa1-2f19-41ce-bfc6-e63edfdaba17
 translation-type: tm+mt
-source-git-commit: cb7df3dd38275837f8ab05ce846c2c68ab78462f
+source-git-commit: c1b2a5966da3bda18a2ccaab9b348296ba1d7bfd
 workflow-type: tm+mt
-source-wordcount: '183'
+source-wordcount: '182'
 ht-degree: 0%
 
 ---
-
 
 # 매출 주기 모델 {#find-all-leads-in-a-revenue-cycle-model}에서 모든 리드 찾기
 
@@ -47,7 +47,7 @@ ht-degree: 0%
 
    >[!TIP]
    >
-   >두 개의 필터가 모두 필요한 것은 아닙니다. 원하는 필터를 선택하면 됩니다. 우리는 단지 두 사람 모두 철저함을 보여주고 있다. ![(웃음)](assets/smile.svg)
+   >두 개의 필터가 모두 필요한 것은 아닙니다. 원하는 필터를 선택하면 됩니다. 우리는 단지 두 사람 모두 철저함을 보여주고 있다.
 
    >[!CAUTION]
    >
