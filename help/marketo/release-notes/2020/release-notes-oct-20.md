@@ -4,9 +4,9 @@ description: 릴리스 노트 - 10월 20일 - Marketo 문서 - 제품 설명서
 title: 릴리스 노트 - 10월 20일
 exl-id: da6a3de5-5ef0-4ce3-8ee1-6ca3dd482fdc
 translation-type: tm+mt
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+source-git-commit: d44f5e6f3fb24a25678e4d15ee4c6361b658556b
 workflow-type: tm+mt
-source-wordcount: '959'
+source-wordcount: '957'
 ht-degree: 0%
 
 ---
@@ -17,19 +17,19 @@ ht-degree: 0%
 
 >[!AVAILABILITY]
 >
->별( ![(star)](assets/star-yellow.svg))로 표시된 기능은 유료 추가 기능을 사용할 수 있습니다. 자세한 내용은 Marketo Engage 담당자에게 문의하십시오.
+>별(![](assets/yellow-star.png))로 표시된 기능은 유료 추가 기능입니다. 자세한 내용은 Marketo Engage 담당자에게 문의하십시오.
 
 **_분기별 릴리스_** 다음 기능은 2020년  **10월 16일에 릴리스됩니다**.
 
 ## Target 계정 관리 {#target-account-management}
 
-![(별)](assets/star-yellow.svg)
+![(별)](assets/yellow-star.png)
 
 * **Account Smart List(베타)**:새로운 Account Smart List 기능을 사용하여 ABM 전략을 더욱 강화할 수 있습니다. 원하는 계정 및 개인 속성을 통해 계정을 동적으로 식별하여 크로스채널 캠페인을 실행하고 적시에 세일즈 팀에 경고를 보내 거래를 보다 신속하게 성사시킬 수 있습니다. 참고:이 기능은 [차세대 사용자 경험](https://nation.marketo.com/t5/Employee-Blogs/The-Next-Generation-Marketo-Engage-Experience/ba-p/304205)에 온보딩된 Target 계정 관리 고객에게만 제공됩니다.
 
 ## 이메일 마케팅 {#email-marketing}
 
-* **일괄 이메일 증폭  ![(별)](assets/star-yellow.svg)**:시간당 최대 5백만 개의 일괄 이메일 처리량이 증가되어 더 많은 이메일을 보낼 수 있습니다. 다양한 이메일 전달 옵션을 사용하면 이메일 일괄 전송 간을 기다릴 필요가 없습니다. 모든 이메일을 적시에 일정에 맞춰 보낼 수 있습니다.
+* **일괄 이메일 증폭  ![(별)](assets/yellow-star.png)**:시간당 최대 5백만 개의 일괄 이메일 처리량이 증가되어 더 많은 이메일을 보낼 수 있습니다. 다양한 이메일 전달 옵션을 사용하면 이메일 일괄 전송 간을 기다릴 필요가 없습니다. 모든 이메일을 적시에 일정에 맞춰 보낼 수 있습니다.
 
 ## 웹 사이트 마케팅 {#website-marketing}
 
@@ -67,7 +67,7 @@ ht-degree: 0%
 
 ## Sales Insight {#sales-insight}
 
-![(별)](assets/star-yellow.svg)
+![(별)](assets/yellow-star.png)
 
 * **API 최적화 및 새로운 거버넌스 구성 옵션**:향상된 API 최적화 및 추가된 관리 기능을 통해 Sales Insight 사용자 경험을 향상시킬 수 있습니다. 구성 설정을 사용하여 관리자는 캠페인 및 이벤트를 Sales Insight 대시보드에 로드하는 방법을 정의할 수 있습니다. 유연한 달력 활동 표시 옵션은 API 사용을 줄이고 전반적인 경험을 개선합니다.
 
