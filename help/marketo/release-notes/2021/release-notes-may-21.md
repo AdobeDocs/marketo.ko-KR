@@ -2,9 +2,9 @@
 description: 릴리스 노트 - 2021년 5월 - Marketo 문서 - 제품 설명서
 title: 릴리스 노트 - 2021년 5월
 translation-type: tm+mt
-source-git-commit: 35e86ac356e61e9d6b9a663e468ced1e9a947144
+source-git-commit: d44f5e6f3fb24a25678e4d15ee4c6361b658556b
 workflow-type: tm+mt
-source-wordcount: '0'
+source-wordcount: '1510'
 ht-degree: 0%
 
 ---
@@ -15,7 +15,7 @@ ht-degree: 0%
 
 >[!AVAILABILITY]
 >
->별 ![](assets/star.png)에 의해 표시되는 기능은 유료 추가 기능입니다. 자세한 내용은 Marketo Engage 담당자에게 문의하십시오.
+>별(![](assets/yellow-star.png))로 표시된 기능은 유료 추가 기능입니다. 자세한 내용은 Marketo Engage 담당자에게 문의하십시오.
 
 **_분기별 릴리스_**
 
@@ -24,14 +24,15 @@ ht-degree: 0%
 >[!NOTE]
 >
 >이 3가지 기능은 5월 11일 화요일 저녁까지 제공됩니다.
+>
+>* **계정 스마트 목록**
+>* **캠페인 흐름 단계 실행**
+>* **이메일 보트 활동 필터링**
 
-* **계정 스마트 목록**
-* **캠페인 흐름 단계 실행**
-* **이메일 보트 활동 필터링**
 
 ## 계정 기반 경험 {#Account-based-eaperiences}
 
-* **계정 스마트 목록(일반 가용성)** ![](assets/star.png):크로스채널 마케팅 캠페인에서 타겟팅할 계정과 사람 속성을 사용하여 계정을 동적으로 식별하고 평가할 수 있으며 적시에 세일즈 팀에 경고를 보내 거래를 보다 신속하게 성사시킬 수 있습니다. 이 새로운 기능을 통해 계정 기반 마케팅 전략을 강력하게 자동화할 수 있습니다. 계정 스마트 목록은 차세대 사용자 경험을 기반으로 하는 Target 계정 관리를 사용하는 고객에게 제공됩니다.
+* **계정 스마트 목록(일반 가용성)** ![](assets/yellow-star.png):크로스채널 마케팅 캠페인에서 타겟팅할 계정과 사람 속성을 사용하여 계정을 동적으로 식별하고 평가할 수 있으며 적시에 세일즈 팀에 경고를 보내 거래를 보다 신속하게 성사시킬 수 있습니다. 이 새로운 기능을 통해 계정 기반 마케팅 전략을 강력하게 자동화할 수 있습니다. 계정 스마트 목록은 차세대 사용자 경험을 기반으로 하는 Target 계정 관리를 사용하는 고객에게 제공됩니다.
 
 ## 차세대 사용자 경험 {#next-generation-user-experience}
 
@@ -83,7 +84,7 @@ ht-degree: 0%
 
 ## biz가능 {#bizible}
 
-![](assets/star.png)
+![](assets/yellow-star.png)
 
 * **LinkedIn Lead Gen Forms(베타)와의 통합**:Biz가능 Premium 속성 솔루션을 사용하여 LinkedIn 채널 비용 및 ROI를 세밀하게 파악할 수 있습니다. LinkedIn의 Lead Gen Forms과의 최신 통합을 통해 Biz가능 고객은 LinkedIn 플랫폼 내에서 제출된 양식에 대한 통찰력을 얻을 수 있습니다. 이러한 양식 채우기는 CRM(Customer Relationship Management) 또는 Adobe Marketo Engage 인스턴스의 리드와 일치하므로 리드가 속성을 부여할 수 있고 다른 마케팅 인터랙션에 대해 추적할 수 있습니다.
 
