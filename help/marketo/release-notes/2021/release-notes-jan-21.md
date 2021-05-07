@@ -3,7 +3,7 @@ description: 릴리스 노트 - 2021년 1월 - Marketo 문서 - 제품 설명서
 title: 릴리스 노트 - 2021년 1월
 exl-id: 24a5f955-ef4b-4adf-9478-2653db6f9d79
 translation-type: tm+mt
-source-git-commit: 7566581555eb95564b9f69884190dd987e123dbe
+source-git-commit: d44f5e6f3fb24a25678e4d15ee4c6361b658556b
 workflow-type: tm+mt
 source-wordcount: '1268'
 ht-degree: 0%
@@ -16,7 +16,7 @@ ht-degree: 0%
 
 >[!AVAILABILITY]
 >
->별( ![(star)](assets/star-yellow.svg))로 표시된 기능은 유료 추가 기능입니다. 자세한 내용은 Marketo Engage 담당자에게 문의하십시오.
+>별( ![(star)](assets/yellow-star.png))로 표시된 기능은 유료 추가 기능입니다. 자세한 내용은 Marketo Engage 담당자에게 문의하십시오.
 
 **_분기별 릴리스_**
 
@@ -57,7 +57,7 @@ ht-degree: 0%
 
 ## Sales Insight {#sales-insight}
 
-![(별)](assets/star-yellow.svg)
+![(별)](assets/yellow-star.png)
 
 * **[향상된 테스트 이메일 워크플로우(Salesforce CRM)](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/features/actions-in-the-msi-panel/send-marketo-email/send-a-test-email.md)**:향상된 Sales Insight 테스트 이메일 워크플로우를 통해 세일즈 팀의 효율성을 높일 수 있습니다. 판매자는 최대 200명의 수신자에게 일괄 이메일을 보내기 전에 선택한 이메일 주소로 테스트 이메일을 보낼 수 있습니다.
 * **[이메일 상태(Salesforce CRM)에 대한 인사이트](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/features/tabs-in-the-msi-panel/email-tab.md)**:이메일을 보내기 전에 유효하지 않은 이메일 ID 또는 구독되지 않은 이메일 주소로 이메일을 보내려는 경우 경고 메시지가 표시됩니다.  이메일 배달 상태를 Sales Insight의 이메일 탭에서 검토할 수 있습니다.
@@ -67,7 +67,7 @@ ht-degree: 0%
 
 ## 판매 연결 {#sales-connect}
 
-![(별)](assets/star-yellow.svg)
+![(별)](assets/yellow-star.png)
 
 * **이메일 연결 제한(베타)**:Sales Connect에 대한 이메일 연결 조절을 사용하여 이메일 전달 능력을 향상시키고 1:1 판매 커뮤니케이션을 확장할 수 있습니다. Adobe의 새로운 조정 기술을 통해 이메일 전송 시간을 자동으로 관리하여 Exchange 및 Gmail 사용자를 위한 완벽한 경험을 제작할 수 있습니다. 제3자 벌크 이메일 보내기 애플리케이션의 사용을 줄이거나 없앨 수 있습니다.
 * **이메일 연결 바운스 추적**:새로운 이메일 바운스 보고서를 사용하여 리드 품질 및 이메일 템플릿 성능에 대한 통찰력을 얻을 수 있습니다. Exchange 및 Gmail 사용자는 라이브 피드, 이메일 폴더, 템플릿 분석 및 캠페인 분석에 롤업되는 바운스 알림을 받도록 선택할 수 있습니다.
