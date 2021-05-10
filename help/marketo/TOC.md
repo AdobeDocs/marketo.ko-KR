@@ -4,7 +4,7 @@ user-guide-title: Marketo 안내서
 user-guide-description: Marketo 제품 설명서
 feature-set: Marketo Engage
 translation-type: tm+mt
-source-git-commit: 77c1a3ddf700fd86da0f439c4a67ae4ed33a49df
+source-git-commit: ab9d2cbb58c32335d70d3c1fc6a75db37426018c
 workflow-type: tm+mt
 source-wordcount: '8024'
 ht-degree: 0%
@@ -1050,8 +1050,8 @@ ht-degree: 0%
    + Marketo Sales Connect {#marketo-sales-connect}
       + 시작하기 {#getting-started}
          + [영업 연결 개요](product-docs/marketo-sales-connect/getting-started/sales-connect-overview.md)
-         + [Sales Connect 시작하기](product-docs/marketo-sales-connect/getting-started/my-profile-page.md)
-         + [내 프로필 페이지](product-docs/marketo-sales-connect/getting-started/getting-started-with-sales-connect.md)
+         + [Sales Connect 시작하기](product-docs/marketo-sales-connect/getting-started/getting-started-with-sales-connect.md)
+         + [내 프로필 페이지](product-docs/marketo-sales-connect/getting-started/my-profile-page.md)
          + [빠른 시작 비디오 및 Tutorials](product-docs/marketo-sales-connect/getting-started/quick-start-videos-and-tutorials.md)
          + [판매 연결 암호 변경](product-docs/marketo-sales-connect/getting-started/change-your-sales-connect-password.md)
          + 이메일 설정 {#email-settings}
