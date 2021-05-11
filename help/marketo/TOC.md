@@ -4,9 +4,9 @@ user-guide-title: Marketo 안내서
 user-guide-description: Marketo 제품 설명서
 feature-set: Marketo Engage
 translation-type: tm+mt
-source-git-commit: ab9d2cbb58c32335d70d3c1fc6a75db37426018c
+source-git-commit: 20ccc6ba2b26b869776ed88ed6fe76a67f74400a
 workflow-type: tm+mt
-source-wordcount: '8024'
+source-wordcount: '8023'
 ht-degree: 0%
 
 ---
@@ -807,7 +807,7 @@ ht-degree: 0%
                + [템플릿 12-D](product-docs/demand-generation/landing-pages/landing-page-templates/guided-landing-page-templates/template-12-d.md)
                + [템플릿 12-E](product-docs/demand-generation/landing-pages/landing-page-templates/guided-landing-page-templates/template-12-e.md)
                + [템플릿 12-F](product-docs/demand-generation/landing-pages/landing-page-templates/guided-landing-page-templates/template-12-f.md)
-               + [템플릿 13-A](product-docs/demand-generation/landing-pages/landing-page-templates/guided-landing-page-templates/template-13-a.md)
+               + [템플릿 13-C](product-docs/demand-generation/landing-pages/landing-page-templates/guided-landing-page-templates/template-13-a.md)
                + [템플릿 13-B](product-docs/demand-generation/landing-pages/landing-page-templates/guided-landing-page-templates/template-13-b.md)
                + [템플릿 13-A](product-docs/demand-generation/landing-pages/landing-page-templates/guided-landing-page-templates/template-13-c.md)
                + [템플릿 13-D](product-docs/demand-generation/landing-pages/landing-page-templates/guided-landing-page-templates/template-13-d.md)
@@ -1065,7 +1065,7 @@ ht-degree: 0%
          + [차단된 도메인](product-docs/marketo-sales-connect/admin/blocked-domains.md)
          + [컨텐츠 잠금](product-docs/marketo-sales-connect/admin/content-lockdown.md)
          + [하위 팀 만들기](product-docs/marketo-sales-connect/admin/create-a-sub-team.md)
-         + [팀 구성원 초대](product-docs/marketo-sales-connect/admin/invite-team-members.md)
+         + [사용자 초대](product-docs/marketo-sales-connect/admin/invite-users.md)
          + [Sales Connect에서 SAML 2.0을 통해 SSO 설정](product-docs/marketo-sales-connect/admin/setting-up-sso-through-saml-2-0-in-sales-connect.md)
          + [공유 설정](product-docs/marketo-sales-connect/admin/sharing-settings.md)
          + [사용자 액세스 세부 사항](product-docs/marketo-sales-connect/admin/user-access-details.md)
