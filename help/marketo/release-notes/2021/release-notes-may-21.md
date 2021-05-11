@@ -2,9 +2,9 @@
 description: 릴리스 노트 - 2021년 5월 - Marketo 문서 - 제품 설명서
 title: 릴리스 노트 - 2021년 5월
 translation-type: tm+mt
-source-git-commit: d44f5e6f3fb24a25678e4d15ee4c6361b658556b
+source-git-commit: 20ccc6ba2b26b869776ed88ed6fe76a67f74400a
 workflow-type: tm+mt
-source-wordcount: '1510'
+source-wordcount: '1557'
 ht-degree: 0%
 
 ---
@@ -90,6 +90,10 @@ ht-degree: 0%
 
 ## 공지 사항 {#announcements}
 
-* **Marketo 제품 문서 전환 플랫폼**:5월 7일 금요일에 Marketo 제품 문서가 Adobe Experience League에 합류할 것임을 발표하게 되어 기쁘게 생각합니다. 다음 URL을 계속 사용할 수 있습니다.docs.marketing.com에서 기존 문서에 책갈피가 지정된 경우 리디렉션됩니다. 새로운 플랫폼에서 현재 모든 제품 문서를 이용할 수 있으며 올해 말경에 향상된 기능이 제공될 예정입니다.
+* **Marketo 제품 문서 전환 플랫폼**:5월 7일 금요일부터 Marketo 제품 문서가 Adobe Experience League에 가입되었음을 발표하게 되어 기쁩니다. 다음 URL을 계속 사용할 수 있습니다.docs.marketing.com에서 기존 문서에 책갈피가 지정된 경우 리디렉션됩니다. 모든 제품 문서는 새로운 플랫폼에서 사용할 수 있으며 올해 말경에 향상된 기능이 제공될 예정입니다.
 
 * **Adobe ID 시스템을 통해 간소화된 사용자 관리 및 SSO(Single Sign-On)**:2021년 7월부터 새 Adobe Marketo Engage 고객은 Adobe 사용자 자격 증명을 사용하여 온보드 환경을 갖게 됩니다. 현재 고객에서 통합 ID 시스템으로 마이그레이션하는 작업은 2022년 중순까지 발생하지 않으며 추가 통보 전까지 고객 조치가 필요하지 않습니다. IT/보안 관리자는 Single Sign-On을 사용하여 다른 Experience Cloud 솔루션과 함께 여러 Adobe Marketo Engage 제품 인스턴스를 관리할 수 있고 공통 콘솔을 통해 SSO(Shared Services Organization)를 구성할 수 있습니다. 관리자는 공통 Admin Console을 통해 사용자 그룹 및 사용자 권한을 편리하게 관리할 수 있습니다.
+
+**_제품 릴리스 웨비나_**
+
+이러한 기능과 향상된 기능에 대해 자세히 알고 싶으십니까? 이러한 혁신적인 기능을 자세히 살펴보려면 [지금 등록하여 5월 13일 오전 9시 PT / 오후 12시 ET에서 라이브 웨비나를 위해 참가하십시오.](https://engage.marketo.com/May_21_Release_webinar_RegistrationPage.html)
