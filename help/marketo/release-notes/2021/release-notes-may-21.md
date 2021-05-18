@@ -1,10 +1,9 @@
 ---
 description: 릴리스 노트 - 2021년 5월 - Marketo 문서 - 제품 설명서
 title: 릴리스 노트 - 2021년 5월
-translation-type: tm+mt
-source-git-commit: 20ccc6ba2b26b869776ed88ed6fe76a67f74400a
+source-git-commit: b491f476c4facc6343559a0acf5d5527e9afc618
 workflow-type: tm+mt
-source-wordcount: '1557'
+source-wordcount: '1534'
 ht-degree: 0%
 
 ---
@@ -20,15 +19,6 @@ ht-degree: 0%
 **_분기별 릴리스_**
 
 다음 기능은 **2021년 5월 7일에 릴리스됩니다**.
-
->[!NOTE]
->
->이 3가지 기능은 5월 11일 화요일 저녁까지 제공됩니다.
->
->* **계정 스마트 목록**
->* **캠페인 흐름 단계 실행**
->* **이메일 보트 활동 필터링**
-
 
 ## 계정 기반 경험 {#Account-based-eaperiences}
 
@@ -82,7 +72,7 @@ ht-degree: 0%
 
 * **리드 ID로 검색**:리드 데이터베이스 또는 정적 목록 내에서 Adobe Marketo Engage 리드 ID로 리드 레코드 검색을 빠르게 액세스할 수 있습니다. 빠른 찾기 창에서 해당 번호와 함께 `[id]`을 입력하면 리드 정보가 표시됩니다. 사용자는 리드, 회사 또는 기회 세부 사항을 신속하게 검토할 수 있습니다.
 
-## biz가능 {#bizible}
+## Bizible {#bizible}
 
 ![](assets/yellow-star.png)
 
