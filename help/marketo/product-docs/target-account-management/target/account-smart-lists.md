@@ -3,10 +3,9 @@ unique-page-id: 11378814
 description: 계정 스마트 목록 - Marketo 문서 - 제품 설명서
 title: 계정 스마트 목록
 exl-id: fbdfb2b8-0061-467d-be89-527744a659a9
-translation-type: tm+mt
-source-git-commit: 35e86ac356e61e9d6b9a663e468ced1e9a947144
+source-git-commit: b491f476c4facc6343559a0acf5d5527e9afc618
 workflow-type: tm+mt
-source-wordcount: '0'
+source-wordcount: '467'
 ht-degree: 0%
 
 ---
@@ -14,10 +13,6 @@ ht-degree: 0%
 # 계정 스마트 목록 {#account-smart-lists}
 
 고부가가치 계정을 빠르고 정확하게 식별하는 방법을 설명합니다.
-
->[!NOTE]
->
->이 기능은 5월 11일 화요일 저녁에 모든 유효한 Marketo 인스턴스에 대해 활성화됩니다.
 
 >[!NOTE]
 >
