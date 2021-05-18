@@ -1,19 +1,18 @@
 ---
 unique-page-id: 13796464
-description: 영업 연결 개요 - 마케팅 문서 - 제품 설명서
+description: 영업 연결 개요 - Marketo 문서 - 제품 설명서
 title: 영업 연결 개요
-translation-type: tm+mt
-source-git-commit: 0f0217a88929661798015b51a26259a973f9f6ea
+exl-id: b14c950f-653f-4909-b33a-7e099c6ae4bf
+source-git-commit: b52765f3549615aa68789dfbd8376044bcd02b3f
 workflow-type: tm+mt
-source-wordcount: '225'
+source-wordcount: '224'
 ht-degree: 0%
 
 ---
 
-
 # 영업 연결 개요 {#sales-connect-overview}
 
-Marketing To Sales Connect는 다양한 기능을 제공하는 다면적인 영업 지원 솔루션으로, 영업 주기 전반에서 고객 참여를 높일 수 있습니다.
+Marketo Sales Connect는 다양한 기능을 제공하는 다면적인 영업 지원 솔루션으로, 영업 주기 전반에서 고객 참여를 높일 수 있습니다.
 
 >[!AVAILABILITY]
 >
@@ -31,7 +30,7 @@ Marketing To Sales Connect는 다양한 기능을 제공하는 다면적인 영�
 
 ![](assets/2018-05-11-at-3.28-pm.jpg)
 
-## 마케팅 활동 로그의 결과 보기 {#see-results-in-your-marketo-activity-log}
+## Marketo 활동 로그 {#see-results-in-your-marketo-activity-log}의 결과를 참조하십시오.
 
 잠재 고객이 세일즈 활동에 참여하는 방법을 살펴보십시오.
 
@@ -73,19 +72,19 @@ Marketing To Sales Connect는 다양한 기능을 제공하는 다면적인 영�
   </tr> 
   <tr> 
    <td colspan="1"><p>흥미로운 순간</p></td> 
-   <td colspan="1"><p>리드는 마케팅에서 흥미로운 순간을 갖게 되었다.</p></td> 
+   <td colspan="1"><p>리드는 Marketo에서 흥미로운 순간을 갖게 되었다.</p></td> 
   </tr> 
  </tbody> 
 </table>
 
 ## 마케팅 캠페인 공유 {#share-marketing-campaigns}
 
-판매 사용자에게 [마케팅 캠페인 데이터](/help/marketo/product-docs/marketo-sales-connect/marketo/make-a-campaign-visible-to-sales-connect-users.md)에 대한 액세스 권한을 부여하는 간단한 스마트 캠페인을 만듭니다.
+판매 사용자에게 [Marketo 캠페인 데이터](/help/marketo/product-docs/marketo-sales-connect/marketo/make-a-campaign-visible-to-sales-connect-users.md)에 대한 액세스 권한을 부여하는 간단한 스마트 캠페인을 만듭니다.
 
 ![](assets/campaign-is-requested.jpg)
 
 시작할 준비가 되셨습니까? 설치 지침을 보려면 아래 링크를 클릭하십시오.
 
 >[!MORELIKETHIS]
+[Sales Connect 설정](/help/marketo/product-docs/marketo-sales-connect/getting-started/set-up-sales-connect.md)>
 >
->[Sales Connect 시작하기](/help/marketo/product-docs/marketo-sales-connect/getting-started/getting-started-with-sales-connect.md)
