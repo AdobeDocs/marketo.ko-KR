@@ -3,10 +3,9 @@ audience: end-user
 user-guide-title: Marketo 안내서
 user-guide-description: Marketo 제품 설명서
 feature-set: Marketo Engage
-translation-type: tm+mt
-source-git-commit: 20ccc6ba2b26b869776ed88ed6fe76a67f74400a
+source-git-commit: b491f476c4facc6343559a0acf5d5527e9afc618
 workflow-type: tm+mt
-source-wordcount: '8023'
+source-wordcount: '8038'
 ht-degree: 0%
 
 ---
@@ -38,7 +37,7 @@ ht-degree: 0%
       + [랜딩 페이지 리디렉션](getting-started/quick-wins/redirect-a-landing-page.md)
       + [가능한 중복 사람에 대한 경고 자동화](getting-started/quick-wins/advanced-solutions/automate-an-alert-for-possible-duplicate-people.md)
    + Marketo 인스턴스 상속 {#inheriting-a-marketo-instance}
-      + [도와주세요! 기존 Marketo 인스턴스](getting-started/inheriting-a-marketo-instance/help-ive-inherited-an-existing-marketo-instance.md)을(를) 상속했습니다.
+      + [도움말! 기존 Marketo 인스턴스를 상속했습니다.](getting-started/inheriting-a-marketo-instance/help-ive-inherited-an-existing-marketo-instance.md)
       + [체크 오프 항목](getting-started/inheriting-a-marketo-instance/items-to-check-off.md)
       + [검토할 사항:핵심 기술](getting-started/inheriting-a-marketo-instance/things-to-review-core-skills.md)
       + [도움 받기 방법](getting-started/inheriting-a-marketo-instance/ways-to-get-help.md)
@@ -807,9 +806,9 @@ ht-degree: 0%
                + [템플릿 12-D](product-docs/demand-generation/landing-pages/landing-page-templates/guided-landing-page-templates/template-12-d.md)
                + [템플릿 12-E](product-docs/demand-generation/landing-pages/landing-page-templates/guided-landing-page-templates/template-12-e.md)
                + [템플릿 12-F](product-docs/demand-generation/landing-pages/landing-page-templates/guided-landing-page-templates/template-12-f.md)
-               + [템플릿 13-C](product-docs/demand-generation/landing-pages/landing-page-templates/guided-landing-page-templates/template-13-a.md)
+               + [템플릿 13-A](product-docs/demand-generation/landing-pages/landing-page-templates/guided-landing-page-templates/template-13-a.md)
                + [템플릿 13-B](product-docs/demand-generation/landing-pages/landing-page-templates/guided-landing-page-templates/template-13-b.md)
-               + [템플릿 13-A](product-docs/demand-generation/landing-pages/landing-page-templates/guided-landing-page-templates/template-13-c.md)
+               + [템플릿 13-C](product-docs/demand-generation/landing-pages/landing-page-templates/guided-landing-page-templates/template-13-c.md)
                + [템플릿 13-D](product-docs/demand-generation/landing-pages/landing-page-templates/guided-landing-page-templates/template-13-d.md)
                + [템플릿 13-E](product-docs/demand-generation/landing-pages/landing-page-templates/guided-landing-page-templates/template-13-e.md)
                + [템플릿 14-A](product-docs/demand-generation/landing-pages/landing-page-templates/guided-landing-page-templates/template-14-a.md)
@@ -1050,7 +1049,8 @@ ht-degree: 0%
    + Marketo Sales Connect {#marketo-sales-connect}
       + 시작하기 {#getting-started}
          + [영업 연결 개요](product-docs/marketo-sales-connect/getting-started/sales-connect-overview.md)
-         + [Sales Connect 시작하기](product-docs/marketo-sales-connect/getting-started/getting-started-with-sales-connect.md)
+         + [새 Sales Connect 인스턴스 액세스](product-docs/marketo-sales-connect/getting-started/accessing-your-new-sales-connect-instance.md)
+         + [Sales Connect 설정](product-docs/marketo-sales-connect/getting-started/set-up-sales-connect.md)
          + [내 프로필 페이지](product-docs/marketo-sales-connect/getting-started/my-profile-page.md)
          + [빠른 시작 비디오 및 Tutorials](product-docs/marketo-sales-connect/getting-started/quick-start-videos-and-tutorials.md)
          + [판매 연결 암호 변경](product-docs/marketo-sales-connect/getting-started/change-your-sales-connect-password.md)
@@ -1214,6 +1214,8 @@ ht-degree: 0%
       + 통합 {#integrations}
          + [다른 CRM에 이메일을 로깅하는 방법을 참조하십시오.](product-docs/marketo-sales-connect/integrations/how-to-log-emails-to-other-crms.md)
       + Marketo {#marketo}
+         + [Marketo 연결 수동 설정](product-docs/marketo-sales-connect/marketo/manually-set-up-your-marketo-connection.md)
+         + [사용자에게 액세스 권한 부여](product-docs/marketo-sales-connect/marketo/granting-access-to-users.md)
          + [MSC의 흥미로운 순간들](product-docs/marketo-sales-connect/marketo/interesting-moments-in-msc.md)
          + [Sales Connect 사용자에게 캠페인 표시](product-docs/marketo-sales-connect/marketo/make-a-campaign-visible-to-sales-connect-users.md)
       + 사람 {#people}
