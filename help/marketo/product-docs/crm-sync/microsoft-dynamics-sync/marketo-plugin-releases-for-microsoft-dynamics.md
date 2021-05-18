@@ -3,8 +3,7 @@ unique-page-id: 10099389
 description: Microsoft Dynamics용 Marketo 플러그인 릴리스 - Marketo 문서 - 제품 설명서
 title: Microsoft Dynamics용 Marketo 플러그인 릴리스
 exl-id: c9c25e11-bcf7-49bf-920a-4182af27d278
-translation-type: tm+mt
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+source-git-commit: b491f476c4facc6343559a0acf5d5527e9afc618
 workflow-type: tm+mt
 source-wordcount: '401'
 ht-degree: 6%
@@ -41,7 +40,7 @@ Microsoft Dynamics에 처음 동기화하면 Marketo용 플러그인의 최신 �
    <th>참고 사항</th> 
   </tr> 
   <tr> 
-   <td colspan="1">4.0.0.0</td> 
+   <td colspan="1">4.2.0.0</td> 
    <td colspan="1">10/16/20</td> 
    <td colspan="1">MS Dynamics와 캠페인 동기화에 대한 지원이 추가되었습니다.</td> 
   </tr> 
@@ -114,5 +113,5 @@ Microsoft Dynamics에 처음 동기화하면 Marketo용 플러그인의 최신 �
 </table>
 
 >[!MORELIKETHIS]
+[Marketo 리드 관리 솔루션 다운로드](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/download-the-marketo-lead-management-solution.md)>
 >
->[Marketo 리드 관리 솔루션 다운로드](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/download-the-marketo-lead-management-solution.md)
