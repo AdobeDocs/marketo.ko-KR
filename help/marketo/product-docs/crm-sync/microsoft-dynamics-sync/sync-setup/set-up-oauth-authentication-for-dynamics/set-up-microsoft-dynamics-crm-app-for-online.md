@@ -2,16 +2,16 @@
 description: 온라인 - Marketo 문서 - 제품 설명서용 Microsoft Dynamics CRM 앱 설정
 title: 온라인 상태용 Microsoft Dynamics CRM 앱 설정
 exl-id: ec3123c9-e484-4736-9831-9559cc393bd9
-source-git-commit: 577444d0fc23a436494e8314dd24a59434476a99
+source-git-commit: 4283f1b6936316f3053543e06e7eaee45a7f2436
 workflow-type: tm+mt
-source-wordcount: '379'
+source-wordcount: '0'
 ht-degree: 0%
 
 ---
 
 # 온라인 {#set-up-microsoft-dynamics-crm-app-for-online}용 Microsoft Dynamics CRM 앱 설정
 
-## 온라인 {#set-up-microsoft-dynamics-crm-app-for-online}용 Microsoft Dynamics CRM 앱 설정
+## {#set-up} 설정
 
 1. https://docs.microsoft.com/en-us/powerapps/developer/common-data-service/walkthrough-register-app-azure-active-directory#create-an-application-registration으로 이동합니다.
 
