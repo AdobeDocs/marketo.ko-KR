@@ -1,23 +1,22 @@
 ---
 unique-page-id: 3571827
-description: 3단계 중 2단계 - Dynamics에서 Marketo 동기화 사용자 설정 - Marketo Docs - 제품 설명서
+description: 3단계 중 2단계 - Dynamics에서 Marketo 동기화 사용자 설정 - Marketo 문서 - 제품 설명서
 title: 3단계 중 2단계 - Dynamics에서 Marketo 동기화 사용자 설정
 exl-id: 324e2142-2aa2-4548-9a04-683832e3ba69
-translation-type: tm+mt
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+source-git-commit: 5473e1a78769ba23e9c3a5926407cf42ef9685a0
 workflow-type: tm+mt
-source-wordcount: '450'
+source-wordcount: '469'
 ht-degree: 0%
 
 ---
 
 # 3단계 중 2단계:Dynamics {#step-of-set-up-marketo-sync-user-in-dynamics}에서 Marketo 동기화 사용자 설정
 
-사용자 계정을 만들어 시작합니다.
+사용자 계정을 만들어 보겠습니다.
 
 >[!PREREQUISITES]
+[3단계 중 1단계:Marketo 솔루션(온라인) 설치](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/microsoft-dynamics-365/step-1-of-3-install.md)>
 >
->[3단계 중 1단계:Marketo 솔루션(온라인) 설치](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/microsoft-dynamics-365/step-1-of-3-install.md)
 
 ## 새 사용자 {#create-a-new-user} 만들기
 
@@ -37,15 +36,15 @@ ht-degree: 0%
 
    ![](assets/four.png)
 
-1. 새 창에서 **사용자 추가 및 라이센스 사용자**&#x200B;를 클릭합니다.
+1. 새 창에서 **사용자 추가 및 라이선스 사용자**&#x200B;를 클릭합니다.
 
    ![](assets/five.png)
 
-1. 새 탭이 열립니다. 페이지 맨 위에 있는 **관리**&#x200B;를 클릭합니다.
+1. 새 탭이 열립니다. 페이지 맨 위에서 **관리**&#x200B;를 클릭합니다.
 
    ![](assets/six.png)
 
-1. 다른 새 탭이 열립니다. **사용자**&#x200B;를 클릭합니다.
+1. 다른 새 탭이 열립니다. **사용자 추가**&#x200B;를 클릭합니다.
 
    ![](assets/seven.png)
 
@@ -54,26 +53,27 @@ ht-degree: 0%
    ![](assets/eight.png)
 
    >[!NOTE]
-   >
-   >이 이름은 기존 CRM 사용자 계정이 아닌 전용 동기화 사용자여야 합니다. 실제 이메일 주소일 필요는 없습니다.
+   이 이름은 기존 CRM 사용자 계정이 아니라 전용 동기화 사용자여야 합니다. 실제 이메일 주소일 필요는 없습니다.
 
-1. 새 사용자 자격 증명을 받을 전자 메일을 입력하고 **전자 메일 보내기를 클릭하고**&#x200B;을(를) 닫습니다.
+1. 새 사용자 자격 증명을 받을 전자 메일을 입력하고 **전자 메일 보내기 및**&#x200B;를 클릭합니다.
 
    ![](assets/nine.png)
 
 ## 동기화 사용자 역할 할당 {#assign-sync-user-role}
 
-Marketo 동기화 사용자에게만 Marketo Sync 사용자 역할을 할당합니다. 다른 사용자에게 할당할 필요는 없습니다.
+Marketo 동기화 사용자 역할만 Marketo 동기화 사용자에게 할당합니다. 다른 사용자에게 할당할 필요가 없습니다.
 
 >[!NOTE]
->
->Marketo 버전 4.0.0.14 이상에만 적용됩니다. 이전 버전의 경우 모든 사용자는 동기화된 사용자 역할이 있어야 합니다. Marketo을 업그레이드하려면 [Microsoft Dynamics용 Marketo 솔루션 업그레이드](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/update-the-marketo-solution-for-microsoft-dynamics.md)를 참조하십시오.
+이는 Marketo 버전 4.0.0.14 이상에 적용됩니다. 이전 버전의 경우 모든 사용자는 동기화 사용자 역할이 있어야 합니다. Marketo을 업그레이드하려면 [Microsoft Dynamics용 Marketo 솔루션 업그레이드](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/update-the-marketo-solution-for-microsoft-dynamics.md)를 참조하십시오.
 
-1. 활성화된 사용자 탭으로 돌아가 사용자 목록을 새로 고칩니다.
+>[!IMPORTANT]
+동기화 사용자 [의 언어 설정은 영어](https://portal.dynamics365support.com/knowledgebase/article/KA-01201/en-us)로 설정해야 합니다.
+
+1. Enabled Users 탭으로 돌아가서 사용자 목록을 새로 고칩니다.
 
    ![](assets/ten.png)
 
-1. 새로 만든 Marketo Sync 사용자 옆에 마우스를 두면 확인란이 표시됩니다. 클릭하여 선택합니다.
+1. 새로 만든 Marketo 동기화 사용자 옆에 마우스를 가져가면 확인란이 표시됩니다. 클릭하여 선택합니다.
 
    ![](assets/eleven.png)
 
@@ -86,34 +86,32 @@ Marketo 동기화 사용자에게만 Marketo Sync 사용자 역할을 할당합�
    ![](assets/thirteen.png)
 
    >[!NOTE]
-   >
-   >동기화 사용자가 CRM에서 수행한 모든 업데이트는 Marketo에 다시 동기화되지 **않습니다.**
+   동기화 사용자가 CRM에서 수행한 모든 업데이트는&#x200B;**Marketo에 다시 동기화되지 않습니다.**
 
-## Marketo 솔루션 {#configure-marketo-solution} 구성
+## Marketo 솔루션 구성 {#configure-marketo-solution}
 
-거의 다 왔어! 이제 Marketo Solution에서 새로 만든 사용자에 대해 알리는 일만 남았습니다.
+거의 다 왔어! 새로 만든 사용자에 대해 Marketo Solution에 알려기만 하면 됩니다.
 
 1. 고급 설정 섹션으로 돌아가서 설정 옆에 있는 ![](assets/image2015-5-13-15-3a49-3a19.png) 아이콘을 클릭하고 **Marketo 구성**&#x200B;을 선택합니다.
 
    ![](assets/fourteen.png)
 
    >[!NOTE]
-   >
-   >설정 메뉴에 **Marketo 구성**&#x200B;이 표시되지 않으면 페이지를 새로 고칩니다. 그래도 해결되지 않으면 [Marketo 솔루션](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/microsoft-dynamics-365/step-1-of-3-install.md)을 다시 게시하거나 로그아웃했다가 다시 로그인합니다.
+   설정 메뉴에 **Marketo Config**&#x200B;가 표시되지 않으면 페이지를 새로 고칩니다. 그래도 작동하지 않으면 [Marketo 솔루션](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/microsoft-dynamics-365/step-1-of-3-install.md)을 다시 게시하거나 로그아웃한 후 다시 로그인하십시오.
 
 1. **기본값**&#x200B;을 클릭합니다.
 
    ![](assets/fifteen.png)
 
-1. **Marketo 사용자** 필드에서 검색 단추를 클릭하고 만든 동기화 사용자를 선택합니다.
+1. **Marketo 사용자** 필드에서 검색 단추를 클릭하고 생성한 동기화 사용자를 선택합니다.
 
    ![](assets/sixteen.png)
 
-1. 오른쪽 하단에 있는 ![](assets/image2015-3-13-15-3a10-3a11.png) 아이콘을 클릭하여 변경 내용을 저장합니다.
+1. 오른쪽 아래 모서리에 있는 ![](assets/image2015-3-13-15-3a10-3a11.png) 아이콘을 클릭하여 변경 사항을 저장합니다.
 
    ![](assets/image2015-3-13-15-3a3-3a3.png)
 
-1. 오른쪽 상단에서 **X**&#x200B;을 클릭하여 화면을 닫습니다.
+1. 오른쪽 상단에 있는 **X**&#x200B;을 클릭하여 화면을 닫습니다.
 
    ![](assets/seventeen.png)
 
@@ -125,12 +123,11 @@ Marketo 동기화 사용자에게만 Marketo Sync 사용자 역할을 할당합�
 
    ![](assets/nineteen.png)
 
-## 3단계로 진행하기 전 {#before-proceeding-to-step}
+## 3단계로 진행하기 전에 {#before-proceeding-to-step}
 
-    * 동기화하려는 레코드 수를 제한하려면 지금 [사용자 정의 동기화 필터 설정](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/create-a-custom-dynamics-sync-filter.md).
+    * 동기화하려는 레코드 수를 제한하려면 [사용자 지정 동기화 필터 설정](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/create-a-custom-dynamics-sync-filter.md)을 지금 설정합니다.
     * [Microsoft Dynamics 동기화 유효성 검사](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/validate-microsoft-dynamics-sync.md) 프로세스를 실행합니다. 초기 설정이 올바르게 수행되었는지 확인합니다.
-    * Microsoft Dynamics CRM의 Marketo 동기화 사용자에게 로그인합니다.
+    * Microsoft Dynamics CRM에서 Marketo 동기화 사용자에게 로그인합니다.
 
 >[!MORELIKETHIS]
->
->[3단계 중 3단계:Microsoft Dynamics와 Marketo 연결(온라인)](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/microsoft-dynamics-365/step-3-of-3-connect.md)
+[3단계 중 3단계:Microsoft Dynamics와 Marketo 연결(온라인)](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/microsoft-dynamics-365/step-3-of-3-connect.md)
