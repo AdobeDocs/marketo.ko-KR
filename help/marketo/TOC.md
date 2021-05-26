@@ -3,7 +3,7 @@ audience: end-user
 user-guide-title: Marketo 안내서
 user-guide-description: Marketo 제품 설명서
 feature-set: Marketo Engage
-source-git-commit: 355c56a22f5eebaf7216de6288a97dba00bef72e
+source-git-commit: 08afc55a09ac6577b4f8c0a64a1c0150b7d09a49
 workflow-type: tm+mt
 source-wordcount: '8040'
 ht-degree: 0%
@@ -81,10 +81,10 @@ ht-degree: 0%
          + [RCA의 명명된 계정 Dimension](product-docs/target-account-management/measure/named-account-dimension-in-rca.md)
          + [명명된 계정 통찰력](product-docs/target-account-management/measure/named-account-insights.md)
          + [Personas 사용](product-docs/target-account-management/using-personas.md)
-   + 계정 프로파일링 {#account-profiling}
-      + [계정 프로파일링 설정](product-docs/target-account-management/account-profiling/setting-up-account-profiling.md)
-      + [계정 프로파일링 순위 및 조정](product-docs/target-account-management/account-profiling/account-profiling-ranking-and-tuning.md)
-      + [새 계정 검색](product-docs/target-account-management/account-profiling/new-account-discovery.md)
+      + 계정 프로파일링 {#account-profiling}
+         + [계정 프로파일링 설정](product-docs/target-account-management/account-profiling/setting-up-account-profiling.md)
+         + [계정 프로파일링 순위 및 조정](product-docs/target-account-management/account-profiling/account-profiling-ranking-and-tuning.md)
+         + [새 계정 검색](product-docs/target-account-management/account-profiling/new-account-discovery.md)
    + 추가 앱 {#additional-apps}
       + SEO {#seo}
          + SEO {#understanding-seo} 이해
@@ -808,7 +808,7 @@ ht-degree: 0%
                + [템플릿 12-F](product-docs/demand-generation/landing-pages/landing-page-templates/guided-landing-page-templates/template-12-f.md)
                + [템플릿 13-A](product-docs/demand-generation/landing-pages/landing-page-templates/guided-landing-page-templates/template-13-a.md)
                + [템플릿 13-B](product-docs/demand-generation/landing-pages/landing-page-templates/guided-landing-page-templates/template-13-b.md)
-               + [템플릿 13-C](product-docs/demand-generation/landing-pages/landing-page-templates/guided-landing-page-templates/template-13-c.md)
+               + [템플릿 13-A](product-docs/demand-generation/landing-pages/landing-page-templates/guided-landing-page-templates/template-13-c.md)
                + [템플릿 13-D](product-docs/demand-generation/landing-pages/landing-page-templates/guided-landing-page-templates/template-13-d.md)
                + [템플릿 13-E](product-docs/demand-generation/landing-pages/landing-page-templates/guided-landing-page-templates/template-13-e.md)
                + [템플릿 14-A](product-docs/demand-generation/landing-pages/landing-page-templates/guided-landing-page-templates/template-14-a.md)
