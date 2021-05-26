@@ -3,9 +3,9 @@ audience: end-user
 user-guide-title: Marketo 안내서
 user-guide-description: Marketo 제품 설명서
 feature-set: Marketo Engage
-source-git-commit: 08afc55a09ac6577b4f8c0a64a1c0150b7d09a49
+source-git-commit: 394ababd11b39abc23f7761f3c91f03ca3778435
 workflow-type: tm+mt
-source-wordcount: '8040'
+source-wordcount: '8030'
 ht-degree: 0%
 
 ---
@@ -1242,7 +1242,6 @@ ht-degree: 0%
          + [활동 기록에 로그인하지 않음](product-docs/marketo-sales-connect/phone/didnt-log-to-activity-history.md)
          + [Salesforce에 로그인하지 않음](product-docs/marketo-sales-connect/phone/didnt-log-to-salesforce.md)
          + [통화 기록 활성화](product-docs/marketo-sales-connect/phone/enable-call-recording.md)
-         + [Sales Connect에서 우선 순위 호출 목록을 만드는 방법](product-docs/marketo-sales-connect/phone/how-to-create-your-priority-call-list-in-sales-connect.md)
          + [Sales Phone에서 통화 결과를 사용자 지정하는 방법](product-docs/marketo-sales-connect/phone/how-to-customize-the-call-outcome-in-sales-phone.md)
          + [영업 전화 국제 전화](product-docs/marketo-sales-connect/phone/sales-phone-international-calling.md)
          + [영업 전화 로컬 상태](product-docs/marketo-sales-connect/phone/sales-phone-local-presence.md)
