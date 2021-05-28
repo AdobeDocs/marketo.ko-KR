@@ -3,9 +3,9 @@ audience: end-user
 user-guide-title: Marketo 안내서
 user-guide-description: Marketo 제품 설명서
 feature-set: Marketo Engage
-source-git-commit: 394ababd11b39abc23f7761f3c91f03ca3778435
+source-git-commit: 1c08cbd1bb7f7b3b7b6b12bb21a6eb35ee43c0e1
 workflow-type: tm+mt
-source-wordcount: '8030'
+source-wordcount: '8028'
 ht-degree: 0%
 
 ---
@@ -1044,7 +1044,6 @@ ht-degree: 0%
    + Marketo Engage 차세대 경험 {#marketo-engage-next-generation-experience}
       + [개요](product-docs/marketo-engage-next-generation-experience/overview.md)
       + [새 아이콘 용어집](product-docs/marketo-engage-next-generation-experience/new-icon-glossary.md)
-      + [자산 이동](product-docs/marketo-engage-next-generation-experience/moving-assets.md)
       + [전역 검색 사용](product-docs/marketo-engage-next-generation-experience/using-the-global-search.md)
    + Marketo Sales Connect {#marketo-sales-connect}
       + 시작하기 {#getting-started}
