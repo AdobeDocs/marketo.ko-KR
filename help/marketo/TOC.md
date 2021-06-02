@@ -3,9 +3,9 @@ audience: end-user
 user-guide-title: Marketo 안내서
 user-guide-description: Marketo 제품 설명서
 feature-set: Marketo Engage
-source-git-commit: 1c08cbd1bb7f7b3b7b6b12bb21a6eb35ee43c0e1
+source-git-commit: 3c4300d1d574ab779b32f7550dc2df2e5d3afe07
 workflow-type: tm+mt
-source-wordcount: '8028'
+source-wordcount: '8023'
 ht-degree: 0%
 
 ---
@@ -1051,7 +1051,6 @@ ht-degree: 0%
          + [새 Sales Connect 인스턴스 액세스](product-docs/marketo-sales-connect/getting-started/accessing-your-new-sales-connect-instance.md)
          + [Sales Connect 관리자를 위한 시작 안내서](product-docs/marketo-sales-connect/getting-started/getting-started-guide-for-sales-connect-admins.md)
          + [프로필 관리](product-docs/marketo-sales-connect/getting-started/manage-your-profile.md)
-         + [빠른 시작 비디오 및 Tutorials](product-docs/marketo-sales-connect/getting-started/quick-start-videos-and-tutorials.md)
          + [영업 연결 암호 변경](product-docs/marketo-sales-connect/getting-started/change-your-sales-connect-password.md)
          + 전자 메일 설정 {#email-settings}
             + [ID 추가](product-docs/marketo-sales-connect/getting-started/email-settings/add-identity.md)
