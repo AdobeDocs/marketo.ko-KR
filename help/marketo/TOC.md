@@ -3,9 +3,9 @@ audience: end-user
 user-guide-title: Marketo 안내서
 user-guide-description: Marketo 제품 설명서
 feature-set: Marketo Engage
-source-git-commit: bff000b6e65b3cd92db1e90aa3a7b594cf0dd6a5
+source-git-commit: bcb477061434bbd8f80bde108ba1a13e7764113a
 workflow-type: tm+mt
-source-wordcount: '8033'
+source-wordcount: '8031'
 ht-degree: 0%
 
 ---
@@ -622,7 +622,7 @@ ht-degree: 0%
             + [GotoWebinar를 사용하여 이벤트 만들기](product-docs/demand-generation/events/create-an-event/create-an-event-with-gotowebinar.md)
             + [수준 3 웹 모임을 사용하여 이벤트 만들기](product-docs/demand-generation/events/create-an-event/create-an-event-with-level-3-web-meeting.md)
             + [ReadyTalk를 사용하여 이벤트 만들기](product-docs/demand-generation/events/create-an-event/create-an-event-with-readytalk.md)
-            + Marketo ON24 어댑터를 사용하여 이벤트 만들기(#create-an-event-with-the-marketo-on24-adapter)
+            + Marketo ON24 Adapter {#create-an-event-with-the-marketo-on24-adapter}로 이벤트 만들기
                + [Marketo ON24 어댑터를 사용하여 이벤트 만들기](product-docs/demand-generation/events/create-an-event/create-an-event-with-the-marketo-on24-adapter.md)
                + [이벤트 설정 구성 및 Marketo과 웨비나 동기화](product-docs/demand-generation/events/create-an-event/create-an-event-with-the-marketo-on24-adapter/configure-event-settings-and-sync-marketo-with-your-webinar.md)
                + [Marketo에서 이벤트 만들기](product-docs/demand-generation/events/create-an-event/create-an-event-with-the-marketo-on24-adapter/create-an-event-in-marketo.md)
