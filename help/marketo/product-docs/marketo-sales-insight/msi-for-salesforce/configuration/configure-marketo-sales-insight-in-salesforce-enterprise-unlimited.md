@@ -3,9 +3,9 @@ unique-page-id: 2360368
 description: Salesforce Enterprise/Unlimited에서 Marketo Sales Insight 구성 - Marketo 문서 - 제품 설명서
 title: Salesforce Enterprise/Unlimited에서 Marketo Sales Insight 구성
 exl-id: a33ed396-8d26-403f-b6d8-fe7c55ce76ba
-source-git-commit: fbd8640d55a9a38936d060086f361b2281add47f
+source-git-commit: 2e0590d576e5f3ff5ae5e49854a33f04f74a6616
 workflow-type: tm+mt
-source-wordcount: '898'
+source-wordcount: '824'
 ht-degree: 0%
 
 ---
@@ -24,9 +24,7 @@ ht-degree: 0%
 
 ## Marketo에서 Sales Insight 구성 {#configure-sales-insight-in-marketo}
 
-1. 새 브라우저 창을 열어 Marketo 계정에서 Marketo Sales Insight 자격 증명을 가져올 수 있습니다.
-
-1. 관리 영역으로 이동하여 **Sales Insight**&#x200B;를 선택합니다.
+1. Marketo에서 MSI 자격 증명을 받습니다. 관리 영역으로 이동하여 **Sales Insight**&#x200B;를 선택합니다.
 
    ![](assets/configure-marketo-sales-insight-in-salesforce-professional-edition-1.png)
 
@@ -48,6 +46,9 @@ ht-degree: 0%
 1. 확인 팝업이 표시됩니다. **확인**&#x200B;을 클릭합니다.
 
    ![](assets/configure-marketo-sales-insight-in-salesforce-professional-edition-5.png)
+
+   >[!TIP]
+   이 창을 열어 두십시오. 이 정보는 나중에 Salesforce에서 제공됩니다.
 
 ## Salesforce에서 Sales Insight 구성 {#configure-sales-insight-in-salesforce}
 
@@ -71,50 +72,10 @@ ht-degree: 0%
 
    ![](assets/configure-marketo-sales-insight-in-salesforce-professional-edition-10.png)
 
-1. 원격 사이트 이름을 입력합니다(&quot;MarketoRestAPI&quot; 등의 것일 수 있음). Marketo의 Rest API 구성 패널에서 API URL인 원격 사이트 URL을 입력합니다. **저장**&#x200B;을 클릭합니다. 이제 Rest API에 대한 원격 사이트 설정을 만들었습니다.
-
-## Marketo Sales Insight 설정 {#set-up-marketo-sales-insight}
-
-1. Marketo 인스턴스에 로그인하고 **관리**&#x200B;를 클릭합니다.
-
-   ![](assets/login-admin.png)
-
-1. **Sales Insight**&#x200B;를 클릭합니다.
-
-   ![](assets/image2015-5-22-15-3a12-3a33.png)
-
-1. **API 구성 편집**&#x200B;을 클릭합니다.
-
-   ![](assets/image2015-5-22-15-3a15-3a0.png)
-
-1. **API 암호 키**&#x200B;를 입력하고 **저장**&#x200B;을 클릭합니다.
-
-   >[!CAUTION]
-   API 암호 키에 앰퍼샌드(&amp;)를 사용하지 마십시오.
-
-   ![](assets/image2015-5-27-16-3a36-3a56.png)
-
-   >[!TIP]
-   이 창을 열어 두십시오. 나중에 Salesforce에서 이 정보가 필요합니다.
-
-1. Salesforce로 돌아가서 **설치**&#x200B;를 클릭합니다.
-
-   ![](assets/image2015-5-22-14-3a40-3a39.png)
-
-1. &quot;원격 사이트&quot;를 검색하고 **보안 컨트롤**&#x200B;에서 **원격 사이트 설정**&#x200B;을 클릭합니다.
-
-   ![](assets/image2014-9-24-17-3a25-3a52.png)
-
-1. **새 원격 사이트**&#x200B;를 클릭합니다.
-
-   ![](assets/image2014-9-24-17-3a26-3a6.png)
-
-1. **원격 사이트 이름** 및 **원격 사이트 URL**&#x200B;을 입력한 다음 **저장**&#x200B;을 클릭합니다.
-
-   ![](assets/remote-site.png)
+1. 원격 사이트 이름을 입력합니다(&quot;MarketoAPI&quot; 등의 것일 수 있음). Marketo의 Rest API 구성 패널에서 API URL인 원격 사이트 URL을 입력합니다. **저장**&#x200B;을 클릭합니다. 이제 Rest API에 대한 원격 사이트 설정을 만들었습니다.
 
    >[!NOTE]
-   **원격 사이트 이름**(MarketoAPI가 여기에서 사용됨)을 선택합니다. **원격 사이트 URL**&#x200B;은 4단계의 API 구성 편집 대화 상자의 Marketo 호스트 필드에 있습니다.
+   __ 원격  **사이트 이름을 선택합니다** (MarketoAPI가 여기에 사용됨). **원격 사이트 URL**&#x200B;은 &quot;Marketo에서 판매 통찰력 구성&quot; 섹션의 3단계에서 API 구성 편집 대화 상자의 Marketo 호스트 필드에 있습니다.
 
 ## 페이지 레이아웃 사용자 지정 {#customize-page-layouts}
 
