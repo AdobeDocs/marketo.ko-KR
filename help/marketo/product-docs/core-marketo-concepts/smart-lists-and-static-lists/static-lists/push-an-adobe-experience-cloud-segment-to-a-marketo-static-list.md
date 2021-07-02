@@ -2,9 +2,9 @@
 description: Marketo 정적 목록에 Adobe Experience Cloud 세그먼트 푸시 - Marketo 문서 - 제품 설명서
 title: Marketo 정적 목록에 Adobe Experience Cloud 세그먼트 푸시
 hidefromtoc: true
-source-git-commit: f437495fbe004177f01c57729d97d2fec1f79509
+source-git-commit: 48ae62b56cf44f9e7874ed9134325e77c08bcaaf
 workflow-type: tm+mt
-source-wordcount: '397'
+source-wordcount: '427'
 ht-degree: 0%
 
 ---
@@ -79,12 +79,19 @@ ht-degree: 0%
 
    ![](assets/push-an-adobe-experience-cloud-segment-to-a-marketo-static-list-12.png)
 
-1. 사용자를 식별하는 이메일 주소가 포함된 관련 필드를 선택합니다. 완료되면 **선택**&#x200B;을 클릭합니다.
+1. **속성 선택** 또는 **ID 네임스페이스 선택** 라디오 단추를 선택합니다(이 예에서는 속성을 선택합니다.).
 
    ![](assets/push-an-adobe-experience-cloud-segment-to-a-marketo-static-list-13.png)
 
+   >[!NOTE]
+   >
+   >**ID 네임스페이스 선택**&#x200B;을 선택한 경우 선택한 후 15단계로 건너뜁니다.
+
+1. 사용자를 식별하는 이메일 주소가 포함된 관련 필드를 선택합니다. 완료되면 **선택**&#x200B;을 클릭합니다.
+
    ![](assets/push-an-adobe-experience-cloud-segment-to-a-marketo-static-list-14.png)
 
+   ![](assets/push-an-adobe-experience-cloud-segment-to-a-marketo-static-list-15.png)
 
    >[!NOTE]
    >
@@ -92,19 +99,19 @@ ht-degree: 0%
 
 1. 매핑 아이콘을 클릭합니다.
 
-   ![](assets/push-an-adobe-experience-cloud-segment-to-a-marketo-static-list-15.png)
+   ![](assets/push-an-adobe-experience-cloud-segment-to-a-marketo-static-list-16.png)
 
 1. Target 필드를 선택하고 **선택**&#x200B;을 클릭합니다.
 
-   ![](assets/push-an-adobe-experience-cloud-segment-to-a-marketo-static-list-16.png)
+   ![](assets/push-an-adobe-experience-cloud-segment-to-a-marketo-static-list-17.png)
 
 1. **다음**&#x200B;을 클릭합니다.
 
-   ![](assets/push-an-adobe-experience-cloud-segment-to-a-marketo-static-list-17.png)
+   ![](assets/push-an-adobe-experience-cloud-segment-to-a-marketo-static-list-18.png)
 
 1. _Marketo_&#x200B;에서 정적 목록을 만들거나 이미 만든 정적 목록을 찾아 선택합니다. URL의 끝에서 매핑 ID를 복사합니다.
 
-   ![](assets/push-an-adobe-experience-cloud-segment-to-a-marketo-static-list-18.png)
+   ![](assets/push-an-adobe-experience-cloud-segment-to-a-marketo-static-list-19.png)
 
    >[!NOTE]
    >
@@ -112,8 +119,8 @@ ht-degree: 0%
 
 1. Adobe Experience Platform으로 돌아가서 방금 복사한 ID를 입력합니다. 시작 날짜를 선택합니다. 사람들은 선택한 종료 날짜까지 계속 동기화됩니다. 무기한 동기화하려면 종료 날짜를 비워 둡니다. 완료되면 **다음**&#x200B;을 클릭합니다.
 
-   ![](assets/push-an-adobe-experience-cloud-segment-to-a-marketo-static-list-19.png)
+   ![](assets/push-an-adobe-experience-cloud-segment-to-a-marketo-static-list-20.png)
 
 1. 변경 내용을 확인하고 **완료**&#x200B;를 클릭합니다.
 
-   ![](assets/push-an-adobe-experience-cloud-segment-to-a-marketo-static-list-20.png)
+   ![](assets/push-an-adobe-experience-cloud-segment-to-a-marketo-static-list-21.png)
