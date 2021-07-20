@@ -1,7 +1,7 @@
 ---
 description: 현재 릴리스 노트 - Marketo 문서 - 제품 설명서
 title: 현재 릴리스 노트
-source-git-commit: 3ccba65f76fa658dabb179d2ccc090ba71a948dd
+source-git-commit: f7750809ede818f9ce9562b161327d9b6c7b4973
 workflow-type: tm+mt
 source-wordcount: '1064'
 ht-degree: 0%
@@ -76,7 +76,7 @@ ht-degree: 0%
 * **새 집단 폭포 여정 대시보드**: 이를 통해 마케터는 기존의 &quot;수요 흐름&quot; 단계 세트를 통해 선택한 집단에 대한 진행 상황을 볼 수 있으므로 전환율과 단계별 묵시적 스테이지 전환 인과성에 대해 신속하게 이해할 수 있습니다.
 
 ## Adobe Experience Cloud과 Bizible 통합 {#bizible-integration-with-adobe-experience-cloud}
- 
+
 이 섹션에는 IMS(Adobe Identity Management System) 마이그레이션을 완료한 Bizible 사용자를 위한 새로운 기능이 포함되어 있습니다. 마이그레이션된 경우 Adobe ID 탭 아래의 Bizible 설정에서 새 Adobe ID이 표시됩니다. 모든 계정은 2021년 말까지 마이그레이션해야 합니다.
 
 * **Bizible과 Adobe Privacy Service** 통합: Bizible은 Adobe Privacy Service과 통합되므로 Adobe Experience Cloud 애플리케이션에서 중요한 데이터 개인 정보 보호 규정(예: GDPR)을 중앙 집중식으로 준수합니다. 이제 이 서비스를 활용하고 모든 개인 정보 보호 요청을 중앙에서 관리할 수 있으므로 Bizible 및 기타 Adobe 제품에 대한 변경 요청이 애플리케이션 간에 반영됩니다.
