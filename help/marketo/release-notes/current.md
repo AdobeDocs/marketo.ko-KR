@@ -1,16 +1,16 @@
 ---
 description: 현재 릴리스 노트 - Marketo 문서 - 제품 설명서
 title: 현재 릴리스 노트
-source-git-commit: f7750809ede818f9ce9562b161327d9b6c7b4973
+source-git-commit: e4d581ab258a875747a6d5323764e8b4a3949cba
 workflow-type: tm+mt
-source-wordcount: '1064'
+source-wordcount: '1065'
 ht-degree: 0%
 
 ---
 
 # 릴리스 노트: 2021년 8월 {#release-notes-aug-21}
 
-다음 기능은 2021년 8월 릴리스에 포함되어 있습니다. 기능을 사용할 수 있는지 Marketo 버전을 확인하십시오.
+다음 기능은 2021년 8월 릴리스에 포함되어 있습니다. 기능을 사용할 수 있는지 Marketo Engage 버전을 확인하십시오.
 
 >[!AVAILABILITY]
 >
