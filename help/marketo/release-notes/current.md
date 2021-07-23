@@ -1,9 +1,9 @@
 ---
 description: 현재 릴리스 노트 - Marketo 문서 - 제품 설명서
 title: 현재 릴리스 노트
-source-git-commit: e4d581ab258a875747a6d5323764e8b4a3949cba
+source-git-commit: c98e265e0a4548821ffb291b4f4918f3c49f458d
 workflow-type: tm+mt
-source-wordcount: '1065'
+source-wordcount: '1067'
 ht-degree: 0%
 
 ---
@@ -79,7 +79,7 @@ ht-degree: 0%
 
 이 섹션에는 IMS(Adobe Identity Management System) 마이그레이션을 완료한 Bizible 사용자를 위한 새로운 기능이 포함되어 있습니다. 마이그레이션된 경우 Adobe ID 탭 아래의 Bizible 설정에서 새 Adobe ID이 표시됩니다. 모든 계정은 2021년 말까지 마이그레이션해야 합니다.
 
-* **Bizible과 Adobe Privacy Service** 통합: Bizible은 Adobe Privacy Service과 통합되므로 Adobe Experience Cloud 애플리케이션에서 중요한 데이터 개인 정보 보호 규정(예: GDPR)을 중앙 집중식으로 준수합니다. 이제 이 서비스를 활용하고 모든 개인 정보 보호 요청을 중앙에서 관리할 수 있으므로 Bizible 및 기타 Adobe 제품에 대한 변경 요청이 애플리케이션 간에 반영됩니다.
+* **Bizible과 Adobe Privacy Service**  통합(2021년 9월 출시): Bizible은 Adobe Privacy Service과 통합되므로 Adobe Experience Cloud 애플리케이션에서 중요한 데이터 개인 정보 보호 규정(예: GDPR)을 중앙 집중식으로 준수합니다. 이제 이 서비스를 활용하고 모든 개인 정보 보호 요청을 중앙에서 관리할 수 있으므로 Bizible 및 기타 Adobe 제품에 대한 변경 요청이 애플리케이션 간에 반영됩니다.
 
 * **Adobe 통합 셸의 Bizible**: Bizible의 Adobe Unified Shell 채택을 통해 Bizible 애플리케이션 헤더 표시줄에 나타날 새로운 기능을 제공하고 리소스 및 애플리케이션 전환을 지원하기 위한 액세스 권한을 강화합니다. Adobe 통합 셸은 Bizible과 다른 Adobe Experience Cloud 애플리케이션 간에 일관된 경험을 만드는 데 도움이 됩니다.
 
