@@ -1,9 +1,9 @@
 ---
 description: 현재 릴리스 노트 - Marketo 문서 - 제품 설명서
 title: 현재 릴리스 노트
-source-git-commit: c98e265e0a4548821ffb291b4f4918f3c49f458d
+source-git-commit: 97f6aeeb5c808df780b9b7bafd1bea5b1b805e5a
 workflow-type: tm+mt
-source-wordcount: '1067'
+source-wordcount: '0'
 ht-degree: 0%
 
 ---
@@ -21,8 +21,6 @@ ht-degree: 0%
 다음 기능은 **2021년 8월 20일에 릴리스됩니다**.
 
 ## Adobe Experience Platform 통합 {#adobe-experience-platform-integration}
-
-* **Marketo Engage에 대상 공유를 위한 기본 Adobe Experience Platform 커넥터**: 기본 대상 커넥터를 통해 Adobe Experience Cloud에서 만든 대상 세그먼트의 Marketo Engage에서 다중 채널 캠페인 오케스트레이션을 활성화합니다. 커넥터는 이메일 주소를 사용하여 Adobe Experience Platform 프로필을 일치시켜 리드 프로필을 Marketo Engage으로 유도하므로 애플리케이션 간 세그먼트 공유가 매우 정확합니다. 정적 Marketo Engage 목록은 자동으로 만들어지며 마케터가 고도로 개인화된 메시징을 사용하여 타겟 대상에 도달하거나 워크플로우를 시작할 수 있도록 합니다. Experience Platform에서 계정과 기회 컨텍스트를 활용하여 보다 완전하고 실시간 데이터를 활용하는 고객을 활성화합니다.
 
 * **Adobe ID를 통한 Marketo Engage 사용자 인증**: 2021년 9월부터 Enterprise 패키지를 사용하는 새 Marketo Engage 사용자는 Adobe ID 사용자 자격 증명을 사용하여 온보딩됩니다. 현재 사용자를 통합 ID 시스템으로 마이그레이션하는 작업은 2022년 중반까지는 발생하지 않으며 추가 통지가 있을 때까지 수행할 필요가 없습니다. IT/보안 관리자는 Adobe ID 사용자 인증을 사용하여 다른 Experience Cloud 솔루션과 함께 여러 Marketo Engage 제품 인스턴스를 관리하고 공통 콘솔을 통해 SSO를 구성할 수 있습니다. 관리자는 사용자 그룹 및 사용자 권한을 한 곳에서 편리하게 관리할 수 있습니다.
 
