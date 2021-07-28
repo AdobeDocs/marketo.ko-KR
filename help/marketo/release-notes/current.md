@@ -1,7 +1,7 @@
 ---
 description: 현재 릴리스 노트 - Marketo 문서 - 제품 설명서
 title: 현재 릴리스 노트
-source-git-commit: 97f6aeeb5c808df780b9b7bafd1bea5b1b805e5a
+source-git-commit: c4dcf9a69dfb25a689175be6f1ff01d9dc21ad27
 workflow-type: tm+mt
 source-wordcount: '0'
 ht-degree: 0%
@@ -59,7 +59,11 @@ ht-degree: 0%
 
 ![(별)](assets/yellow-star.png)
 
-* **GA(전자 메일 연결 조절)**: Sales Connect의 이메일 연결 조절 기능을 통해 이메일 게재 능력을 향상시키고 개인화된 판매 커뮤니케이션을 확장할 수 있습니다. 이 새로운 기술은 이메일 전송 타이밍을 자동으로 관리하여 Exchange 및 Gmail 사용자를 위한 원활한 경험을 만듭니다. 타사 대량 이메일 전송 애플리케이션을 사용하거나 사용하지 않고 Sales Connect에서 모든 이메일을 신뢰할 수 있게 전송합니다.
+* **이메일 연결 제한(베타)**: Sales Connect의 이메일 연결 조절 기능을 통해 이메일 게재 능력을 향상시키고 개인화된 판매 커뮤니케이션을 확장할 수 있습니다. 이 새로운 기술은 이메일 전송 타이밍을 자동으로 관리하여 Exchange 및 Gmail 사용자를 위한 원활한 경험을 만듭니다. 타사 대량 이메일 전송 애플리케이션을 사용하거나 사용하지 않고 Sales Connect에서 모든 이메일을 신뢰할 수 있게 전송합니다.
+
+>[!NOTE]
+>
+>이제 Beta에서 전자 메일 제한을 사용할 수 있습니다. [추가 정보](/help/marketo/product-docs/marketo-sales-connect/email/email-delivery/email-connection-throttling.md).
 
 * **Enhanced Sales Activity Insights**: 영업 팀의 이전 활동을 기반으로 개인화된 참여를 캡처하고 활성화할 수 있습니다. Sales Call Recording Link, Sales Campaign Name 및 Sales Email Subject 와 같은 새로운 속성은 Marketo Engage 스마트 목록에서 사용할 수 있습니다.  이러한 활동은 Marketo Engage REST API 또는 벌크 내보내기를 통해 내보내거나 보고할 수 있으며, 스마트 목록에 대한 추가 제한으로 필터 및 트리거에서 사용할 수 있습니다.
 
