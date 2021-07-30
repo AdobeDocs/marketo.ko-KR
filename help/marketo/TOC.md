@@ -3,9 +3,9 @@ audience: end-user
 user-guide-title: Marketo 안내서
 user-guide-description: Marketo 제품 설명서
 feature-set: Marketo Engage
-source-git-commit: 99d30f70d83df16a14c874f6ed5cc215a9e76705
+source-git-commit: b18b2172e2c20cdb740854924a48fc996caf59f9
 workflow-type: tm+mt
-source-wordcount: '8047'
+source-wordcount: '8048'
 ht-degree: 0%
 
 ---
@@ -1216,7 +1216,7 @@ ht-degree: 0%
       + Marketo {#marketo}
          + [Marketo 연결 설정](product-docs/marketo-sales-connect/marketo/set-up-your-marketo-connection.md)
          + [사용자에게 액세스 권한 부여](product-docs/marketo-sales-connect/marketo/granting-access-to-users.md)
-         + [MSC의 흥미로운 순간](product-docs/marketo-sales-connect/marketo/interesting-moments-in-msc.md)
+         + [Sales Connect의 흥미로운 순간](product-docs/marketo-sales-connect/marketo/interesting-moments-in-sales-connect.md)
          + [Sales Connect 사용자에게 캠페인 표시](product-docs/marketo-sales-connect/marketo/make-a-campaign-visible-to-sales-connect-users.md)
       + 사람 {#people}
          + [개인 세부 정보 보기](product-docs/marketo-sales-connect/people/person-detail-view.md)
