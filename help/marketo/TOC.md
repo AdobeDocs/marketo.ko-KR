@@ -3,9 +3,9 @@ audience: end-user
 user-guide-title: Marketo 안내서
 user-guide-description: Marketo 제품 설명서
 feature-set: Marketo Engage
-source-git-commit: 3ccba65f76fa658dabb179d2ccc090ba71a948dd
+source-git-commit: da8b6723589e1478bfa3dc69d74d27cddf1311c7
 workflow-type: tm+mt
-source-wordcount: '8045'
+source-wordcount: '8047'
 ht-degree: 0%
 
 ---
@@ -16,7 +16,7 @@ ht-degree: 0%
 + [홈](home.md)
 + Marketo 시작하기 {#getting-started-with-marketo}
    + [시작하기](getting-started.md)
-   + [Marketo 소개](getting-started/what-is-marketo.md)
+   + [Adobe Marketo Engage 소개](getting-started/what-is-adobe-marketo-engage.md)
    + [Marketo 용어](getting-started/marketo-glossary.md)
    + [아이콘 용어집](getting-started/icon-glossary.md)
    + {#setup} 설정
