@@ -1,9 +1,9 @@
 ---
 description: 현재 릴리스 노트 - Marketo 문서 - 제품 설명서
 title: 현재 릴리스 노트
-source-git-commit: 47b1a8fe0adfd3b26b3fad7821b45e9a0b6f61bf
+source-git-commit: 45d489ed52f6a114514c79c234ff30567f4aff96
 workflow-type: tm+mt
-source-wordcount: '957'
+source-wordcount: '0'
 ht-degree: 0%
 
 ---
@@ -36,11 +36,9 @@ ht-degree: 0%
 
 * **사용자 지정 필드 메타데이터 API**: 파트너 통합을 위한 Marketo Engage에서 사용자 지정 필드 생성 및 관리를 간소화합니다. 리드 개체에 새 필드를 자동으로 만들고, 여러 Marketo Engage 인스턴스에서 즉시 동시에 필드를 업데이트합니다.
 
-* **향상된 필터링**: 이제 이메일 자산 및 프로그램 멤버 필드에 날짜 범위 필터를 추가하는 등의 여러 API에서 더 많은 필터링을 지원합니다.
-
 * **양식 API 제출**: 이메일 주소가 둘 이상의 리드 레코드에 중복되면 Adobe에서는 완전히 건너뛰는 대신 &quot;마지막으로 업데이트된&quot; 레코드를 업데이트합니다. Forms 2.0 API와의 패리티를 제공합니다.
 
-* **이메일 API**: 챔피언 또는 도전자 이메일 자산을 검색합니다.
+* **이메일 API**: 챔피언 또는 도전자 이메일 자산을 검색합니다. 날짜 범위 필터를 사용하여 이메일 자산을 검색합니다.
 
 **_분기 전체에 출시_**
 
