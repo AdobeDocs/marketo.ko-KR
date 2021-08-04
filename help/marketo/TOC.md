@@ -3,9 +3,9 @@ audience: end-user
 user-guide-title: Marketo 안내서
 user-guide-description: Marketo 제품 설명서
 feature-set: Marketo Engage
-source-git-commit: b18b2172e2c20cdb740854924a48fc996caf59f9
+source-git-commit: bc62f6e43259791fff47f2dbb32cb22a665db1a8
 workflow-type: tm+mt
-source-wordcount: '8048'
+source-wordcount: '8052'
 ht-degree: 0%
 
 ---
@@ -134,6 +134,7 @@ ht-degree: 0%
          + [최소 시스템 요구 사항](product-docs/administration/setup-administration/minimum-system-requirements.md)
          + [Munchkin](product-docs/administration/setup-administration/munchkin.md)
          + [지원되는 브라우저](product-docs/administration/setup-administration/supported-browsers.md)
+         + [전역 양식 유효성 검사 규칙](product-docs/administration/setup-administration/global-form-validation-rule.md)
       + 추가 통합 {#additional-integrations}
          + [Adobe Connect as a LaunchPoint Service 추가](product-docs/administration/additional-integrations/add-adobe-connect-as-a-launchpoint-service.md)
          + [Manager 계정을 사용하여 Google AdWords를 Launchpoint 서비스로 추가](product-docs/administration/additional-integrations/add-google-adwords-as-a-launchpoint-service-with-a-manager-account.md)
