@@ -3,9 +3,9 @@ description: 판매 활동 트리거 및 필터 - Marketo 문서 - 제품 설명
 title: 판매 활동 트리거 및 필터
 hide: true
 hidefromtoc: true
-source-git-commit: 70f17106efe52ee742c8e31013e533fc36ce9835
+source-git-commit: 7800d1601d4594d4afe2fa16602723319fbfc118
 workflow-type: tm+mt
-source-wordcount: '116'
+source-wordcount: '115'
 ht-degree: 0%
 
 ---
@@ -32,6 +32,6 @@ ht-degree: 0%
 
    ![](assets/sales-activity-triggers-and-filters-4.png)
 
->[!NOTE
+>[!NOTE]
 >
 >활동, 제한 및 정의에 대한 전체 목록은 [영업 활동 용어집](/help/marketo/product-docs/marketo-sales-connect/marketo/sales-activity-glossary.md)을 참조하십시오.
