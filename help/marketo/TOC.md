@@ -3,9 +3,9 @@ audience: end-user
 user-guide-title: Marketo 안내서
 user-guide-description: Marketo 제품 설명서
 feature-set: Marketo Engage
-source-git-commit: bc62f6e43259791fff47f2dbb32cb22a665db1a8
+source-git-commit: 7800d1601d4594d4afe2fa16602723319fbfc118
 workflow-type: tm+mt
-source-wordcount: '8052'
+source-wordcount: '8064'
 ht-degree: 0%
 
 ---
@@ -204,6 +204,7 @@ ht-degree: 0%
          + [사용자 지정 활동 만들기](product-docs/administration/marketo-custom-activities/create-a-custom-activity.md)
          + [사용자 지정 활동 편집](product-docs/administration/marketo-custom-activities/edit-a-custom-activity.md)
          + [사용자 지정 활동 게시](product-docs/administration/marketo-custom-activities/publish-a-custom-activity.md)
+         + [사용자 지정 활동 메타데이터 내보내기](product-docs/administration/marketo-custom-objects/custom-activity-metadata-export.md)
       + Marketo 사용자 지정 개체 {#marketo-custom-objects}
          + [Marketo 사용자 지정 개체 이해](product-docs/administration/marketo-custom-objects/understanding-marketo-custom-objects.md)
          + [Marketo 사용자 지정 개체 필드 추가](product-docs/administration/marketo-custom-objects/add-marketo-custom-object-fields.md)
@@ -1219,6 +1220,8 @@ ht-degree: 0%
          + [사용자에게 액세스 권한 부여](product-docs/marketo-sales-connect/marketo/granting-access-to-users.md)
          + [Sales Connect의 흥미로운 순간](product-docs/marketo-sales-connect/marketo/interesting-moments-in-sales-connect.md)
          + [Sales Connect 사용자에게 캠페인 표시](product-docs/marketo-sales-connect/marketo/make-a-campaign-visible-to-sales-connect-users.md)
+         + [영업 활동 용어집](product-docs/marketo-sales-connect/marketo/sales-activity-glossary.md)
+         + [판매 활동 트리거 및 필터](product-docs/marketo-sales-connect/marketo/sales-activity-triggers-and-filters.md)
       + 사람 {#people}
          + [개인 세부 정보 보기](product-docs/marketo-sales-connect/people/person-detail-view.md)
          + [영업 연결 및 GDPR 준수](product-docs/marketo-sales-connect/people/sales-connect-and-gdpr-compliance.md)
