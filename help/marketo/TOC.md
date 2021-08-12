@@ -3,7 +3,7 @@ audience: end-user
 user-guide-title: Marketo 안내서
 user-guide-description: Marketo 제품 설명서
 feature-set: Marketo Engage
-source-git-commit: 7800d1601d4594d4afe2fa16602723319fbfc118
+source-git-commit: 9b4a562488cfe44da7140b7ff209dc1d4ea28441
 workflow-type: tm+mt
 source-wordcount: '8064'
 ht-degree: 0%
@@ -204,7 +204,7 @@ ht-degree: 0%
          + [사용자 지정 활동 만들기](product-docs/administration/marketo-custom-activities/create-a-custom-activity.md)
          + [사용자 지정 활동 편집](product-docs/administration/marketo-custom-activities/edit-a-custom-activity.md)
          + [사용자 지정 활동 게시](product-docs/administration/marketo-custom-activities/publish-a-custom-activity.md)
-         + [사용자 지정 활동 메타데이터 내보내기](product-docs/administration/marketo-custom-objects/custom-activity-metadata-export.md)
+         + [사용자 지정 활동 메타데이터 내보내기](product-docs/administration/marketo-custom-activities/custom-activity-metadata-export.md)
       + Marketo 사용자 지정 개체 {#marketo-custom-objects}
          + [Marketo 사용자 지정 개체 이해](product-docs/administration/marketo-custom-objects/understanding-marketo-custom-objects.md)
          + [Marketo 사용자 지정 개체 필드 추가](product-docs/administration/marketo-custom-objects/add-marketo-custom-object-fields.md)
