@@ -3,16 +3,16 @@ description: 사용자 지정 활동 메타데이터 내보내기 - Marketo 문�
 title: 사용자 지정 활동 메타데이터 내보내기
 hide: true
 hidefromtoc: true
-source-git-commit: 70f17106efe52ee742c8e31013e533fc36ce9835
+source-git-commit: 665e7985970734ee17a2fee5974bafa59ecd4aa3
 workflow-type: tm+mt
-source-wordcount: '92'
+source-wordcount: '82'
 ht-degree: 0%
 
 ---
 
 # 사용자 지정 활동 메타데이터 내보내기 {#custom-activity-metadata-export}
 
-SOAP API 또는 Munchkin API를 사용하는 경우 사용자 지정 활동 메타데이터 스키마를 내보낼 수 있습니다. 어떻게 구하는지 알려드리겠습니다.
+아래 절차에 따라 사용자 지정 활동 메타데이터 스키마를 내보내십시오.
 
 1. 내 Marketo에서 **관리**&#x200B;를 클릭합니다.
 
