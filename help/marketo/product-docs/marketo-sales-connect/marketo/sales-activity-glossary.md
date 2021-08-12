@@ -3,10 +3,10 @@ description: 영업 활동 용어집 - Marketo 문서 - 제품 설명서
 title: 영업 활동 용어집
 hide: true
 hidefromtoc: true
-source-git-commit: 70f17106efe52ee742c8e31013e533fc36ce9835
+source-git-commit: 665e7985970734ee17a2fee5974bafa59ecd4aa3
 workflow-type: tm+mt
-source-wordcount: '275'
-ht-degree: 3%
+source-wordcount: '416'
+ht-degree: 2%
 
 ---
 
@@ -60,7 +60,7 @@ Sales Connect에서 판매자가 영업 케이스에 리드를 추가하거나, 
  <tr>
   <td>템플릿 ID</td>
  </tr>
- <tr>
+<tr>
   <th rowspan="2">받은 영업 전자 메일</th>
   <td>받는 사람</td>
  </tr>
@@ -150,6 +150,74 @@ Sales Connect에서 판매자가 영업 케이스에 리드를 추가하거나, 
   <th>설명</th>
  </tr>
  <tbody> 
+ <tr> 
+   <td><strong>세부 사항</strong></td> 
+   <td>반송 오류 메시지 세부 정보입니다.</td> 
+  </tr> 
+  <tr> 
+   <td><strong>이메일</strong></td> 
+   <td>바운스된 이메일 주소입니다.</td> 
+  </tr> 
+  <tr> 
+   <td><strong>링크</strong></td> 
+   <td>클릭한 URL입니다.</td> 
+  </tr> 
+  <tr> 
+   <td><strong>받는 사람</strong></td> 
+   <td>이메일을 보낸 사람의 이메일 주소입니다.</td> 
+  </tr>
+  <tr> 
+   <td><strong>판매 전화 응답자</strong></td> 
+   <td>통화에 응답한 사람의 이름입니다.</td> 
+  </tr>
+  <tr> 
+   <td><strong>영업 통화 기간</strong></td> 
+   <td>통화 길이(초).</td> 
+  </tr>
+  <tr> 
+   <td><strong>판매 호출</strong></td> 
+   <td>전화를 걸었던 영업 담당자의 이메일 주소입니다.</td> 
+  </tr>
+  <tr> 
+   <td><strong>영업 호출 기록 URL</strong></td> 
+   <td>통화 기록 URL입니다.</td> 
+  </tr>
+  <tr> 
+   <td><strong>영업 호출 상태</strong></td> 
+   <td>다음을 포함하는 호출의 최종 호출 상태를 저장합니다. 완료, 응답 없음, 취소, 실패</td> 
+  </tr>
+  <tr> 
+   <td><strong>영업 통화 제목</strong></td> 
+   <td>전화 걸기에서 판매 사용자가 선택한 통화 결과.</td> 
+  </tr>
+  <tr> 
+   <td><strong>영업 캠페인 ID</strong></td> 
+   <td>Sales Connect의 Sales Campaign 자산에 대한 고유 ID입니다.</td> 
+  </tr>
+  <tr> 
+   <td><strong>영업 캠페인 이름</strong></td> 
+   <td>영업 캠페인의 이름입니다.</td> 
+  </tr>
+  <tr> 
+   <td><strong>영업 캠페인 URL</strong></td> 
+   <td>Sales Campaign의 Sales Connect URL입니다.</td> 
+  </tr>
+  <tr> 
+   <td><strong>영업 이메일 제목</strong></td> 
+   <td>이메일 제목입니다.</td> 
+  </tr>
+  <tr> 
+   <td><strong>전화 번호</strong></td> 
+   <td>판매에서 전화한 전화 번호입니다.</td> 
+  </tr>
+  <tr> 
+   <td><strong>영업 템플릿 이름</strong></td> 
+   <td>Sales Connect의 이메일 템플릿의 이름입니다.</td> 
+  </tr>
+  <tr> 
+   <td><strong>영업 템플릿 URL</strong></td> 
+   <td>이메일 템플릿에 대한 Sales Connect URL입니다.</td> 
+  </tr>
   <tr> 
    <td><strong>보낸 사람</strong></td>
    <td>이메일을 보낸 사람의 이메일 주소입니다.</td> 
@@ -162,18 +230,6 @@ Sales Connect에서 판매자가 영업 케이스에 리드를 추가하거나, 
    <td><strong>템플릿 ID</strong></td> 
    <td>소스가 Tout이면 템플릿 ID는 Marketo Sales Connect 템플릿 ID입니다. 여러 템플릿에 있을 수 있는 제목 줄 대신 특정 템플릿을 타깃팅하려면 이 방법을 사용합니다.
 </td> 
-  </tr> 
-  <tr> 
-   <td><strong>받는 사람</strong></td> 
-   <td>이메일을 보낸 사람의 이메일 주소입니다.</td> 
-  </tr> 
-  <tr> 
-   <td><strong>세부 사항</strong></td> 
-   <td>반송 오류 메시지 세부 정보입니다.</td> 
-  </tr> 
-  <tr> 
-   <td><strong>이메일</strong></td> 
-   <td>바운스된 이메일 주소입니다.</td> 
   </tr> 
  </tbody> 
 </table>
