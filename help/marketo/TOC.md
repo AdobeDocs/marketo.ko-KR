@@ -3,9 +3,9 @@ audience: end-user
 user-guide-title: Marketo 안내서
 user-guide-description: Marketo 제품 설명서
 feature-set: Marketo Engage
-source-git-commit: 9b4a562488cfe44da7140b7ff209dc1d4ea28441
+source-git-commit: 88e26a5b4b37068955e5612153eee2d4d21588d1
 workflow-type: tm+mt
-source-wordcount: '8064'
+source-wordcount: '8071'
 ht-degree: 0%
 
 ---
@@ -318,6 +318,7 @@ ht-degree: 0%
             + [캠페인 요청](product-docs/core-marketo-concepts/smart-campaigns/flow-actions/request-campaign.md)
             + [경고 보내기](product-docs/core-marketo-concepts/smart-campaigns/flow-actions/send-alert.md)
             + [이메일 보내기](product-docs/core-marketo-concepts/smart-campaigns/flow-actions/send-email.md)
+            + [개인 세부 정보 페이지의 단일 플로우 작업](product-docs/core-marketo-concepts/smart-campaigns/flow-actions/single-flow-actions-from-person-detail-page.md)
             + [모바일 스마트 캠페인에 대한 트리거 및 필터](product-docs/core-marketo-concepts/smart-campaigns/flow-actions/triggers-and-filters-for-mobile-smart-campaigns.md)
             + [스마트 캠페인에서 웹 후크 사용](product-docs/core-marketo-concepts/smart-campaigns/flow-actions/use-a-webhook-in-a-smart-campaign.md)
             + [흐름 단계에서 선택 추가 사용](product-docs/core-marketo-concepts/smart-campaigns/flow-actions/use-add-choice-in-a-flow-step.md)
