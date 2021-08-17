@@ -1,34 +1,32 @@
 ---
 unique-page-id: 37355768
-description: Adobe Experience Manager을 사용하여 에셋 가져오기 - Marketo 문서 - 제품 설명서
+description: Adobe Experience Manager을 사용하여 자산 가져오기 - Marketo 문서 - 제품 설명서
 title: Adobe Experience Manager으로 자산 가져오기
 exl-id: 56ccf38f-3c99-4018-9989-719854e37a20
-translation-type: tm+mt
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+source-git-commit: 280b4b7205351c16b1e13c3b4dce0dfcf0f16ae9
 workflow-type: tm+mt
-source-wordcount: '230'
+source-wordcount: '217'
 ht-degree: 0%
 
 ---
 
-# Adobe Experience Manager {#importing-assets-with-adobe-experience-manager}을(를) 사용하여 자산 가져오기
+# Adobe Experience Manager으로 자산 가져오기 {#importing-assets-with-adobe-experience-manager}
 
-Marketo 고객은 에셋 선택기를 사용하여 AEM 에셋을 액세스, 선택 및 Marketo의 Design Studio로 가져올 수 있습니다. **관리자 권한이 필요합니다**.
+자산 선택기를 통해 Marketo 고객은 Marketo의 Design Studio에 액세스하여 선택하고 가져올 수 있습니다. **관리자 권한이 필요합니다**.
 
 >[!AVAILABILITY]
 >
->
->모든 고객이 이 기능을 구입하지는 않았습니다. 자세한 내용은 고객 성공 관리자에게 문의하십시오.
+>모든 고객이 이 기능을 구입한 것은 아닙니다. 자세한 내용은 고객 성공 관리자에게 문의하십시오.
 
 >[!PREREQUISITES]
 >
->[AEM Configuration](/help/marketo/product-docs/core-marketo-concepts/miscellaneous/configuring-adobe-experience-manager-integration.md)을 이미 수행했는지 확인하십시오.
+>[AEM 구성](/help/marketo/product-docs/core-marketo-concepts/miscellaneous/configuring-adobe-experience-manager-integration.md)을 이미 수행했는지 확인하십시오.
 
->[!CAUTION]
+>[!IMPORTANT]
 >
->현재 이 기능은 Firefox에서만 완전히 지원됩니다. Safari에서는 지원되지 않으며 SameSite 쿠키 설정에 따라 최신 버전의 Chrome(v. 80)에서 작동하지 않을 수 있습니다.
+>이 기능은 현재 Firefox, Chrome 및 Edge 버전에서 완전히 지원됩니다. Safari에서는 지원되지 않습니다.
 
-1. **Design Studio**&#x200B;를 클릭합니다.
+1. **디자인 스튜디오**&#x200B;를 클릭합니다.
 
    ![](assets/one-1.png)
 
@@ -40,11 +38,11 @@ Marketo 고객은 에셋 선택기를 사용하여 AEM 에셋을 액세스, 선�
 
    ![](assets/three-1.png)
 
-1. Adobe Experience Manager에 로그인합니다(아직 없는 경우).
+1. Adobe Experience Manager에 로그인(아직 로그인하지 않은 경우).
 
    ![](assets/four-1.png)
 
-1. 폴더를 선택합니다. 축소판을 클릭하여 원하는 이미지를 선택합니다(최대 10개의 이미지를 선택할 수 있음). 완료되면 **선택**&#x200B;을 클릭합니다.
+1. 폴더를 선택합니다. 그런 다음 축소판을 클릭하여 원하는 이미지를 선택합니다(최대 10개까지 선택할 수 있음). 완료되면 **선택**&#x200B;을 클릭합니다.
 
    ![](assets/five.png)
 
@@ -56,7 +54,7 @@ Marketo 고객은 에셋 선택기를 사용하여 AEM 에셋을 액세스, 선�
 
    ![](assets/six-1.png)
 
-   바로 그거야! **닫기**&#x200B;를 클릭하여 디자인 스튜디오로 돌아갑니다.
+   그게 다야! **닫기**&#x200B;를 클릭하여 Design Studio로 돌아갑니다.
 
    ![](assets/seven-1.png)
 
@@ -66,4 +64,4 @@ Marketo은 현재 Adobe Experience Manager 버전 6.4 및 6.5를 지원합니다
 
 인스턴스의 모든 사용자는 가져온 이미지를 보거나 액세스할 수 있습니다.
 
-이미지는 자동으로 업데이트되지 않습니다. Marketo Design Studio로 가져온 이미지가 AEM에서 업데이트되는 경우 수동으로 Marketo으로 다시 가져와야 합니다.
+이미지는 자동으로 업데이트되지 않습니다. Marketo Design Studio로 가져온 이미지가 AEM에서 업데이트된 경우 수동으로 다시 Marketo으로 가져와야 합니다.
