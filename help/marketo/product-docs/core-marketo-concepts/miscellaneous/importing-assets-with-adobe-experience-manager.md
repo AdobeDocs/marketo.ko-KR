@@ -3,7 +3,7 @@ unique-page-id: 37355768
 description: Adobe Experience Manager을 사용하여 자산 가져오기 - Marketo 문서 - 제품 설명서
 title: Adobe Experience Manager으로 자산 가져오기
 exl-id: 56ccf38f-3c99-4018-9989-719854e37a20
-source-git-commit: 280b4b7205351c16b1e13c3b4dce0dfcf0f16ae9
+source-git-commit: 9f8d6895e88250afc2799b2fb7fc73442018362f
 workflow-type: tm+mt
 source-wordcount: '217'
 ht-degree: 0%
@@ -60,8 +60,8 @@ ht-degree: 0%
 
 ## 참고 사항 {#things-to-note}
 
-Marketo은 현재 Adobe Experience Manager 버전 6.4 및 6.5를 지원합니다.
+* Marketo은 현재 Adobe Experience Manager 버전 6.4 및 6.5를 지원합니다.
 
-인스턴스의 모든 사용자는 가져온 이미지를 보거나 액세스할 수 있습니다.
+* 인스턴스의 모든 사용자는 가져온 이미지를 보거나 액세스할 수 있습니다.
 
-이미지는 자동으로 업데이트되지 않습니다. Marketo Design Studio로 가져온 이미지가 AEM에서 업데이트된 경우 수동으로 다시 Marketo으로 가져와야 합니다.
+* 이미지는 자동으로 업데이트되지 않습니다. Marketo Design Studio로 가져온 이미지가 AEM에서 업데이트된 경우 수동으로 다시 Marketo으로 가져와야 합니다.
