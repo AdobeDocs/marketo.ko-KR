@@ -1,9 +1,7 @@
 ---
 description: 사용자 지정 활동 메타데이터 내보내기 - Marketo 문서 - 제품 설명서
 title: 사용자 지정 활동 메타데이터 내보내기
-hide: true
-hidefromtoc: true
-source-git-commit: 665e7985970734ee17a2fee5974bafa59ecd4aa3
+source-git-commit: 9f8d6895e88250afc2799b2fb7fc73442018362f
 workflow-type: tm+mt
 source-wordcount: '82'
 ht-degree: 0%
