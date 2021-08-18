@@ -1,9 +1,7 @@
 ---
 description: 판매 활동 트리거 및 필터 - Marketo 문서 - 제품 설명서
 title: 판매 활동 트리거 및 필터
-hide: true
-hidefromtoc: true
-source-git-commit: 7800d1601d4594d4afe2fa16602723319fbfc118
+source-git-commit: 9f8d6895e88250afc2799b2fb7fc73442018362f
 workflow-type: tm+mt
 source-wordcount: '115'
 ht-degree: 0%
