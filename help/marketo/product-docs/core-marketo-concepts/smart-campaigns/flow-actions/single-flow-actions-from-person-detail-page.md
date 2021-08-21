@@ -1,7 +1,9 @@
 ---
 description: 개인 세부 정보 페이지의 단일 흐름 작업 - Marketo 문서 - 제품 설명서
 title: 개인 세부 정보 페이지의 단일 플로우 작업
-source-git-commit: 9f8d6895e88250afc2799b2fb7fc73442018362f
+hide: true
+hidefromtoc: true
+source-git-commit: e1dd2fe2300e1350e616c46dcaf53ced12c6581a
 workflow-type: tm+mt
 source-wordcount: '120'
 ht-degree: 0%
