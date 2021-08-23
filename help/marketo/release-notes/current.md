@@ -1,9 +1,9 @@
 ---
 description: 현재 릴리스 노트 - Marketo 문서 - 제품 설명서
 title: 현재 릴리스 노트
-source-git-commit: e1dd2fe2300e1350e616c46dcaf53ced12c6581a
+source-git-commit: c2acfbe3770a74e4c1e7acc3893dbe57af01d621
 workflow-type: tm+mt
-source-wordcount: '945'
+source-wordcount: '908'
 ht-degree: 0%
 
 ---
@@ -30,11 +30,9 @@ ht-degree: 0%
 
 * **개인 세부 정보 페이지의 단일 흐름 작업** (8월 30일까지 사용 가능): 데이터베이스 그리드 보기로 전환하지 않고 흐름 작업 메뉴를 사용하여 개인 세부 정보 페이지에서 전자 메일 보내기, 개인 소유자 변경 또는 다른 스마트 캠페인 작업과 같은 플로우 작업을 실행합니다.
 
-* **사용자 지정 활동 내보내기**: 메타데이터 내보내기는 이제 구독 데이터 모델을 공유, 분석 및 디자인하는 데 사용할 수 있는 모든 개체 및 각 메타데이터를 지원합니다.
+* **[사용자 지정 활동 내보내기](/help/marketo/product-docs/administration/marketo-custom-activities/custom-activity-metadata-export.md)**: 메타데이터 내보내기는 이제 구독 데이터 모델을 공유, 분석 및 디자인하는 데 사용할 수 있는 모든 개체 및 각 메타데이터를 지원합니다.
 
 ## API 개선 사항 {#api-enhancements}
-
-* **사용자 지정 필드 메타데이터 API**: 파트너 통합을 위한 Marketo Engage에서 사용자 지정 필드 생성 및 관리를 간소화합니다. 리드 개체에 새 필드를 자동으로 만들고, 여러 Marketo Engage 인스턴스에서 즉시 동시에 필드를 업데이트합니다.
 
 * **양식 API 제출**: 이메일 주소가 둘 이상의 리드 레코드에 중복되면 Adobe에서는 완전히 건너뛰는 대신 &quot;마지막으로 업데이트된&quot; 레코드를 업데이트합니다. Forms 2.0 API와의 패리티를 제공합니다.
 
