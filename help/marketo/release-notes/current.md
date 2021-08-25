@@ -1,9 +1,9 @@
 ---
 description: 현재 릴리스 노트 - Marketo 문서 - 제품 설명서
 title: 현재 릴리스 노트
-source-git-commit: c2acfbe3770a74e4c1e7acc3893dbe57af01d621
+source-git-commit: 256e089a418f67ab46249a18fe82e1e1f6d7bfb9
 workflow-type: tm+mt
-source-wordcount: '908'
+source-wordcount: '904'
 ht-degree: 0%
 
 ---
@@ -20,11 +20,9 @@ ht-degree: 0%
 
 다음 기능은 **2021년 8월 20일에 릴리스됩니다**.
 
-## Adobe Experience Platform 통합 {#adobe-experience-platform-integration}
+## Experience Automation {#experience-automation}
 
 * **Adobe ID를 통한 Marketo Engage 사용자 인증**: 2021년 9월부터 Enterprise 패키지를 사용하는 새 Marketo Engage 사용자는 Adobe ID 사용자 자격 증명을 사용하여 온보딩됩니다. 현재 사용자를 통합 ID 시스템으로 마이그레이션하는 작업은 2022년 중반까지는 발생하지 않으며 추가 통지가 있을 때까지 수행할 필요가 없습니다. IT/보안 관리자는 Adobe ID 사용자 인증을 사용하여 다른 Experience Cloud 솔루션과 함께 여러 Marketo Engage 제품 인스턴스를 관리하고 공통 콘솔을 통해 SSO를 구성할 수 있습니다. 관리자는 사용자 그룹 및 사용자 권한을 한 곳에서 편리하게 관리할 수 있습니다.
-
-## Experience Automation {#experience-automation}
 
 * **실행 가능한 캠페인 중첩**: 이제 실행 가능한 캠페인이 다른 실행 가능한 캠페인을 호출하여 최대 3개 수준 깊이로 중첩할 수도 있습니다. 이를 통해 공통 운영 흐름을 더 통합하고 Smart Campaign 관리를 향상시킬 수 있습니다.
 
