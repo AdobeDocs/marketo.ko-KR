@@ -3,9 +3,9 @@ unique-page-id: 5472490
 description: 릴리스 일정 - Marketo 문서 - 제품 설명서
 title: 릴리스 일정
 exl-id: 38bd10e3-7f47-46f7-b9b0-83e1ab50014c
-source-git-commit: 3ccba65f76fa658dabb179d2ccc090ba71a948dd
+source-git-commit: 7ee95e3511f42f6c6ecf24b95fb3bbb3e9f55752
 workflow-type: tm+mt
-source-wordcount: '131'
+source-wordcount: '0'
 ht-degree: 0%
 
 ---
@@ -49,12 +49,12 @@ _릴리스 날짜는 변경될 수 있습니다_
   <tr> 
    <td colspan="1">2021년 8월</td> 
    <td colspan="1">2021년 8월 20일</td> 
-   <td colspan="1">진행 중</td> 
+   <td colspan="1">배송됨</td> 
   </tr> 
   <tr> 
    <td colspan="1">2021년 10월</td> 
-   <td colspan="1">2021년 10월 15일</td> 
-   <td colspan="1">예약 시</td> 
+   <td colspan="1">2021년 10월 22일</td> 
+   <td colspan="1">진행 중</td> 
   </tr> 
  </tbody> 
 </table>
