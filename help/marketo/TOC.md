@@ -3,7 +3,7 @@ audience: end-user
 user-guide-title: Marketo 안내서
 user-guide-description: Marketo 제품 설명서
 feature-set: Marketo Engage
-source-git-commit: 87bb4a2945dad03f3f041286b89efe80a577f79f
+source-git-commit: d5a4178567b4ab8814158e655fed8e60e2af98cb
 workflow-type: tm+mt
 source-wordcount: '8071'
 ht-degree: 0%
@@ -500,8 +500,8 @@ ht-degree: 0%
          + [키보드 단축키 용어집](product-docs/core-marketo-concepts/miscellaneous/keyboard-shortcuts-glossary.md)
          + [Marketo 샌드박스](product-docs/core-marketo-concepts/miscellaneous/marketo-sandbox.md)
          + [Marketo 자산 이름 변경](product-docs/core-marketo-concepts/miscellaneous/rename-a-marketo-asset.md)
-         + [Adobe Experience Cloud 대상 공유 설정](product-docs/core-marketo-concepts/miscellaneous/sync-an-audience-from-adobe-experience-cloud.md)
-         + [Adobe Experience Cloud에서 대상 동기화](product-docs/core-marketo-concepts/miscellaneous/set-up-adobe-experience-cloud-audience-sharing.md)
+         + [Adobe Experience Cloud 대상 공유 설정](product-docs/core-marketo-concepts/miscellaneous/set-up-adobe-experience-cloud-audience-sharing.md)
+         + [Adobe Experience Cloud에서 대상 동기화](product-docs/core-marketo-concepts/miscellaneous/sync-an-audience-from-adobe-experience-cloud.md)
          + [폴더 이해](product-docs/core-marketo-concepts/miscellaneous/understanding-folders.md)
          + [알림 이해](product-docs/core-marketo-concepts/miscellaneous/understanding-notifications.md)
          + [알림 유형](product-docs/core-marketo-concepts/miscellaneous/understanding-notifications/notification-types.md)
