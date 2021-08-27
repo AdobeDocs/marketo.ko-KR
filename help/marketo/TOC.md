@@ -3,7 +3,7 @@ audience: end-user
 user-guide-title: Marketo 안내서
 user-guide-description: Marketo 제품 설명서
 feature-set: Marketo Engage
-source-git-commit: f6d0d38b777e07f0a5139b22c3da38aaebc699fc
+source-git-commit: 7376804bda915d7ff25cdc50cb78a6686bd36882
 workflow-type: tm+mt
 source-wordcount: '8071'
 ht-degree: 0%
@@ -582,31 +582,31 @@ ht-degree: 0%
                + [비영어 사용자 지정 개체 동기화 사용](product-docs/crm-sync/salesforce-sync/setup/optional-steps/enable-non-english-custom-object-sync.md)
                + [기본 개인 성 및 회사 이름 설정](product-docs/crm-sync/salesforce-sync/setup/optional-steps/set-default-person-last-name-and-company-name.md)
                + [리드 소유자에게 이메일 알림 해제](product-docs/crm-sync/salesforce-sync/setup/optional-steps/turn-off-email-notifications-to-lead-owner.md)
-            + SFDC 동기화 세부 정보 {#sfdc-sync-details}
-               + [동기화 전에 프로그램 상태 및 Salesforce 캠페인 상태를 일치시키는 방법](product-docs/crm-sync/salesforce-sync/sfdc-sync-details/sfdc-errors/how-to-match-program-statuses-and-salesforce-campaign-statuses-prior-to-sync.md)
-               + [SFDC 동기화: 계정 동기화](product-docs/crm-sync/salesforce-sync/sfdc-sync-details/sfdc-sync-account-sync.md)
-               + [개인 계정 사용](product-docs/crm-sync/salesforce-sync/setup/sfdc-sync-details/sfdc-sync-account-sync/using-person-accounts.md)
-               + [SFDC 동기화: 활동 동기화](product-docs/crm-sync/salesforce-sync/sfdc-sync-details/sfdc-sync-activity-sync.md)
-               + [SFDC 동기화: 캠페인 동기화](product-docs/crm-sync/salesforce-sync/sfdc-sync-details/sfdc-sync-campaign-sync.md)
-               + [SFDC 동기화: 동기화 문의](product-docs/crm-sync/salesforce-sync/sfdc-sync-details/sfdc-sync-contact-sync.md)
-               + [SFDC 동기화: Salesforce에서 리드를 연락처로 변환](product-docs/crm-sync/salesforce-sync/sfdc-sync-details/sfdc-sync-converting-a-lead-into-a-contact-in-salesforce.md)
-               + [SFDC 동기화: 사용자 지정 개체 동기화](product-docs/crm-sync/salesforce-sync/sfdc-sync-details/sfdc-sync-custom-object-sync.md)
-               + [SFDC 동기화: 리드/연락처 삭제](product-docs/crm-sync/salesforce-sync/sfdc-sync-details/sfdc-sync-deleting-a-lead-contact.md)
-               + [SFDC 동기화: 필드 동기화](product-docs/crm-sync/salesforce-sync/sfdc-sync-details/sfdc-sync-field-sync.md)
-               + [Marketo 동기화에 기존 Salesforce 필드 추가](product-docs/crm-sync/salesforce-sync/sfdc-sync-details/sfdc-sync-field-sync/add-an-existing-salesforce-field-to-the-marketo-sync.md)
-               + [기본 Salesforce 필드 매핑](product-docs/crm-sync/salesforce-sync/sfdc-sync-details/sfdc-sync-field-sync/default-salesforce-field-mapping.md)
-               + [Marketo 동기화에서 Salesforce 필드 숨기기](product-docs/crm-sync/salesforce-sync/sfdc-sync-details/sfdc-sync-field-sync/hide-a-salesforce-field-from-the-marketo-sync.md)
-               + [SFDC 동기화: 리드/계정 소유자 동기화](product-docs/crm-sync/salesforce-sync/sfdc-sync-details/sfdc-sync-lead-account-owner-sync.md)
-               + [SFDC 동기화: 리드 큐](product-docs/crm-sync/salesforce-sync/sfdc-sync-details/sfdc-sync-lead-queue.md)
-               + [SFDC 동기화: 리드 동기화](product-docs/crm-sync/salesforce-sync/sfdc-sync-details/sfdc-sync-lead-sync.md)
-               + [SFDC 동기화: 리드/연락처/개인 병합](product-docs/crm-sync/salesforce-sync/sfdc-sync-details/sfdc-sync-merging-a-lead-contact-person.md)
-               + [SFDC 동기화: 기회 동기화](product-docs/crm-sync/salesforce-sync/sfdc-sync-details/sfdc-sync-opportunity-sync.md)
-            + [선택 목록 값 추가/제거](product-docs/crm-sync/salesforce-sync/add-remove-picklist-values.md)
-            + [Salesforce 동기화 활성화/비활성화](product-docs/crm-sync/salesforce-sync/enable-disable-the-salesforce-sync.md)
-            + [암시된 Salesforce 작업](product-docs/crm-sync/salesforce-sync/implied-salesforce-actions.md)
-            + [Salesforce 동기화 오류](product-docs/crm-sync/salesforce-sync/salesforce-sync-errors.md)
-            + [Salesforce 동기화 상태](product-docs/crm-sync/salesforce-sync/salesforce-sync-status.md)
-            + [OAuth 2.0을 사용하여 로그인](product-docs/crm-sync/salesforce-sync/log-in-using-oauth-2-0.md)
+         + SFDC 동기화 세부 정보 {#sfdc-sync-details}
+            + [Marketo 동기화에 기존 Salesforce 필드 추가](product-docs/crm-sync/salesforce-sync/sfdc-sync-details/add-an-existing-salesforce-field-to-the-marketo-sync.md)
+            + [기본 Salesforce 필드 매핑](product-docs/crm-sync/salesforce-sync/sfdc-sync-details/default-salesforce-field-mapping.md)
+            + [Marketo 동기화에서 Salesforce 필드 숨기기](product-docs/crm-sync/salesforce-sync/sfdc-sync-details/hide-a-salesforce-field-from-the-marketo-sync.md)
+            + [동기화 전에 프로그램 상태 및 Salesforce 캠페인 상태를 일치시키는 방법](product-docs/crm-sync/salesforce-sync/sfdc-sync-details/how-to-match-program-statuses-and-salesforce-campaign-statuses-prior-to-sync.md)
+            + [SFDC 동기화: 계정 동기화](product-docs/crm-sync/salesforce-sync/sfdc-sync-details/sfdc-sync-account-sync.md)
+            + [SFDC 동기화: 활동 동기화](product-docs/crm-sync/salesforce-sync/sfdc-sync-details/sfdc-sync-activity-sync.md)
+            + [SFDC 동기화: 캠페인 동기화](product-docs/crm-sync/salesforce-sync/sfdc-sync-details/sfdc-sync-campaign-sync.md)
+            + [SFDC 동기화: 동기화 문의](product-docs/crm-sync/salesforce-sync/sfdc-sync-details/sfdc-sync-contact-sync.md)
+            + [SFDC 동기화: Salesforce에서 리드를 연락처로 변환](product-docs/crm-sync/salesforce-sync/sfdc-sync-details/sfdc-sync-converting-a-lead-into-a-contact-in-salesforce.md)
+            + [SFDC 동기화: 사용자 지정 개체 동기화](product-docs/crm-sync/salesforce-sync/sfdc-sync-details/sfdc-sync-custom-object-sync.md)
+            + [SFDC 동기화: 리드/연락처 삭제](product-docs/crm-sync/salesforce-sync/sfdc-sync-details/sfdc-sync-deleting-a-lead-contact.md)
+            + [SFDC 동기화: 필드 동기화](product-docs/crm-sync/salesforce-sync/sfdc-sync-details/sfdc-sync-field-sync.md)
+            + [SFDC 동기화: 리드/계정 소유자 동기화](product-docs/crm-sync/salesforce-sync/sfdc-sync-details/sfdc-sync-lead-account-owner-sync.md)
+            + [SFDC 동기화: 리드 큐](product-docs/crm-sync/salesforce-sync/sfdc-sync-details/sfdc-sync-lead-queue.md)
+            + [SFDC 동기화: 리드 동기화](product-docs/crm-sync/salesforce-sync/sfdc-sync-details/sfdc-sync-lead-sync.md)
+            + [SFDC 동기화: 리드/연락처/개인 병합](product-docs/crm-sync/salesforce-sync/sfdc-sync-details/sfdc-sync-merging-a-lead-contact-person.md)
+            + [SFDC 동기화: 기회 동기화](product-docs/crm-sync/salesforce-sync/sfdc-sync-details/sfdc-sync-opportunity-sync.md)
+         + [선택 목록 값 추가/제거](product-docs/crm-sync/salesforce-sync/add-remove-picklist-values.md)
+         + [Salesforce 동기화 활성화/비활성화](product-docs/crm-sync/salesforce-sync/enable-disable-the-salesforce-sync.md)
+         + [암시된 Salesforce 작업](product-docs/crm-sync/salesforce-sync/implied-salesforce-actions.md)
+         + [OAuth 2.0을 사용하여 로그인](product-docs/crm-sync/salesforce-sync/log-in-using-oauth-2-0.md)
+         + [Salesforce 동기화 오류](product-docs/crm-sync/salesforce-sync/salesforce-sync-errors.md)
+         + [Salesforce 동기화 상태](product-docs/crm-sync/salesforce-sync/salesforce-sync-status.md)
+         + [개인 계정 사용](product-docs/crm-sync/salesforce-sync/using-person-accounts.md)
    + 수요 생성 {#demand-generation}
       + 광고 네트워크 통합 {#ad-network-integrations}
          + [광고 네트워크 통합 이해](product-docs/demand-generation/ad-network-integrations/understanding-ad-network-integrations.md)
