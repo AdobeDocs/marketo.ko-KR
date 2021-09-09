@@ -3,24 +3,26 @@ description: 시스템 관리자 설정 - Marketo 문서 - 제품 설명서
 title: 시스템 관리자 설정
 hide: true
 hidefromtoc: true
-source-git-commit: 5d068e01870b4ced4a444c48f8a257f88a869384
+source-git-commit: 361a736fdf28a2e929cc781ba8eec27c6e1fbf30
 workflow-type: tm+mt
-source-wordcount: '0'
+source-wordcount: '194'
 ht-degree: 0%
 
 ---
 
 # 시스템 관리자 설정 {#set-up-system-admin}
 
+## 제품 프로필 만들기 {#create-a-product-profile}
+
 텍스트
 
-에 Marketo 시스템 관리자로 추가되면에 a?) Adobe 조직에서는 설정을 완료하는 데 몇 가지 단계를 수행해야 합니다.
+Adobe 조직에 Marketo 시스템 관리자로 추가되면 설정을 완료하기 위해 수행해야 하는 몇 가지 단계가 있습니다.
 
-1. 받은 전자 메일(어떻게 수신합니까?)에서 **시작하기**&#x200B;를 클릭합니다.
+1. Adobe 조직이 설정되면 지정된 시스템 관리자가 환영 이메일을 받게 됩니다. 해당 이메일에서 **시작하기**&#x200B;를 클릭합니다.
 
 PICC
 
-1. Adobe 번호를 입력하시겠습니까?
+1. Adobe 번호를 입력하시겠습니까? 기존 문서에 연결 - 단계 건너뛰기를 설정한 경우
 
 PICC
 
@@ -32,7 +34,7 @@ PICC
 
 PICC
 
-1. 텍스트.
+1. (구독 선택 - 모든 하위 항목에 대해 이 단계를 수행해야 함)
 
 PICC
 
@@ -44,6 +46,8 @@ PICC
 
 PICC
 
+(사용자가 추가되는 제품 프로필과 관계없이 여러 개의 제품 프로필을 설정하면 Marketo에 동일한 액세스 권한이 부여됩니다.)
+
 ## 제품 관리자 추가 {#add-a-product-admin}
 
 1. 위의 단계를 수행한 후 **관리자** 탭을 클릭합니다.
@@ -54,4 +58,6 @@ PICC
 
 PICC
 
-1. 추가할 사용자를 찾습니다. 이름과 성은 선택 사항입니다.
+1. 추가할 사용자를 찾습니다. 이름과 성은 선택 사항입니다. 미리 채우지 마세요
+
+PICC
