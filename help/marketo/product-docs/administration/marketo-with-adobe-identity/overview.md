@@ -3,9 +3,9 @@ description: 개요 - Marketo 문서 - 제품 설명서
 title: 개요
 hide: true
 hidefromtoc: true
-source-git-commit: 066ecb9fe52e9fe3f9c78815b47cf41208f396c3
+source-git-commit: 306e08b08bf63fe51778dc51ccb9cb971fed2f4b
 workflow-type: tm+mt
-source-wordcount: '656'
+source-wordcount: '658'
 ht-degree: 0%
 
 ---
@@ -77,7 +77,7 @@ Sales Connect용 AC에 제품 카드가 있을 경우 사용자를 추가/관리
 
 **계정을 변경하기 위해 Marketo의 관리 섹션으로 계속 이동합니까?**
 
-아니요. [account.adobe.com](account.adobe.com)으로 이동해야 합니다.
+아니요. [account.adobe.com](https://account.adobe.com)으로 이동해야 합니다.
 
 **Marketo의 범용 ID에서는 어떻게 작동합니까?**
 
