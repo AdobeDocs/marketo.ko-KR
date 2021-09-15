@@ -1,18 +1,18 @@
 ---
 unique-page-id: 9437577
-description: 템플릿 12-B - Marketo 문서 - 제품 설명서
-title: 템플릿 12-B
+description: 템플릿 12B - Marketo 문서 - 제품 설명서
+title: 템플릿 12B
 exl-id: 47d18c27-ff60-4f22-b590-8739e6352b13
-source-git-commit: c09c2bcd44a1bf5357f14cc7456229ccb3a6b3cc
+source-git-commit: df197322c7bdafb695b532bce51802961e453335
 workflow-type: tm+mt
-source-wordcount: '67'
+source-wordcount: '61'
 ht-degree: 0%
 
 ---
 
-# 템플릿 12-B {#template-b}
+# 템플릿 12B {#template-12b}
 
-[템플릿 12-B 다운로드](https://docs.marketo.com/download/attachments/9437577/template-12b.html?version=1&amp;modificationdate=1438211540000&amp;api=v2)
+[템플릿 12B 다운로드](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-12b.html)
 
 ![](assets/image2015-8-4-14-3a32-3a21.png)
 
@@ -28,4 +28,4 @@ ht-degree: 0%
 
 **이 템플릿을 다운로드하려면 아래 를 클릭하십시오.**
 
-[Template12-B.html](https://docs.marketo.com/download/attachments/9437577/template-12b.html?version=1&amp;modificationdate=1438211540000&amp;api=v2)
+[템플릿 12B.html](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-12b.html)

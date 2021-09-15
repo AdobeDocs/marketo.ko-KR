@@ -1,18 +1,18 @@
 ---
 unique-page-id: 9437568
-description: 템플릿 11-E - Marketo 문서 - 제품 설명서
-title: 템플릿 11-E
+description: 템플릿 11E - Marketo 문서 - 제품 설명서
+title: 템플릿 11E
 exl-id: fd45b28b-1d2c-489b-a16d-810ab0a43873
-source-git-commit: c09c2bcd44a1bf5357f14cc7456229ccb3a6b3cc
+source-git-commit: df197322c7bdafb695b532bce51802961e453335
 workflow-type: tm+mt
-source-wordcount: '64'
+source-wordcount: '58'
 ht-degree: 0%
 
 ---
 
-# 템플릿 11-E {#template-e}
+# 템플릿 11E {#template-11e}
 
-[템플릿 11-E 다운로드](https://docs.marketo.com/download/attachments/9437568/template-11e.html?version=1&amp;modificationdate=1438211431000&amp;api=v2)
+[템플릿 11E 다운로드](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-11e.html)
 
 ![](assets/image2015-8-4-10-3a34-3a30.png)
 
@@ -28,4 +28,4 @@ ht-degree: 0%
 
 **이 템플릿을 다운로드하려면 아래 를 클릭하십시오.**
 
-[Template11-E.html](https://docs.marketo.com/download/attachments/9437568/template-11e.html?version=1&amp;modificationdate=1438211431000&amp;api=v2)
+[템플릿 11E.html](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-11e.html)

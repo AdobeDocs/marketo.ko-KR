@@ -1,18 +1,18 @@
 ---
 unique-page-id: 8783903
-description: 템플릿 4-B - Marketo 문서 - 제품 설명서
-title: 템플릿 4-B
+description: 템플릿 4B - Marketo 문서 - 제품 설명서
+title: 템플릿 4B
 exl-id: cb4b3632-de12-4f99-a2ce-e52f286f6a35
-source-git-commit: c09c2bcd44a1bf5357f14cc7456229ccb3a6b3cc
+source-git-commit: df197322c7bdafb695b532bce51802961e453335
 workflow-type: tm+mt
-source-wordcount: '67'
+source-wordcount: '62'
 ht-degree: 0%
 
 ---
 
-# 템플릿 4-B {#template-b}
+# 템플릿 4B {#template-4b}
 
-[Template4-B.html](https://docs.marketo.com/download/attachments/8783903/template-4b.html?version=1&amp;modificationdate=1437692370000&amp;api=v2)
+[템플릿 4B 다운로드](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-4b.html)
 
 ![](assets/image2015-7-24-10-3a22-3a15.png)
 
@@ -28,4 +28,4 @@ ht-degree: 0%
 
 **이 템플릿을 다운로드하려면 아래 를 클릭하십시오.**
 
-[Template4-B.html](https://docs.marketo.com/download/attachments/8783903/template-4b.html?version=1&amp;modificationdate=1437692370000&amp;api=v2)
+[템플릿 4B.html](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-4b.html)

@@ -1,18 +1,18 @@
 ---
 unique-page-id: 9437571
-description: 템플릿 11-B - Marketo 문서 - 제품 설명서
-title: 템플릿 11-F
+description: 템플릿 11F - Marketo 문서 - 제품 설명서
+title: 템플릿 11F
 exl-id: db5aa680-3fe1-408c-adaf-0e16e64f0032
-source-git-commit: c09c2bcd44a1bf5357f14cc7456229ccb3a6b3cc
+source-git-commit: df197322c7bdafb695b532bce51802961e453335
 workflow-type: tm+mt
-source-wordcount: '62'
+source-wordcount: '56'
 ht-degree: 0%
 
 ---
 
-# 템플릿 11-F {#template-f}
+# 템플릿 11F {#template-11f}
 
-[템플릿 11-F 다운로드](https://docs.marketo.com/download/attachments/9437571/template-11f.html?version=1&amp;modificationdate=1438211465000&amp;api=v2)
+[템플릿 11F 다운로드](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-11f.html)
 
 ![](assets/image2015-8-4-13-3a57-3a13.png)
 
@@ -28,4 +28,4 @@ ht-degree: 0%
 
 **이 템플릿을 다운로드하려면 아래 를 클릭하십시오.**
 
-[Template11-F.html](https://docs.marketo.com/download/attachments/9437571/template-11f.html?version=1&amp;modificationdate=1438211465000&amp;api=v2)
+[템플릿 11F.html](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-11f.html)

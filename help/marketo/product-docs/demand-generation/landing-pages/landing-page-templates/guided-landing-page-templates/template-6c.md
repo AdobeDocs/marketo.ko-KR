@@ -1,18 +1,18 @@
 ---
 unique-page-id: 8783932
-description: 템플릿 6-C - Marketo 문서 - 제품 설명서
-title: 템플릿 6-C
+description: 템플릿 6C - Marketo 문서 - 제품 설명서
+title: 템플릿 6C
 exl-id: f8111083-24f5-42c9-82b5-290360d72e5a
-source-git-commit: c09c2bcd44a1bf5357f14cc7456229ccb3a6b3cc
+source-git-commit: df197322c7bdafb695b532bce51802961e453335
 workflow-type: tm+mt
-source-wordcount: '65'
+source-wordcount: '59'
 ht-degree: 0%
 
 ---
 
-# 템플릿 6-C {#template-c}
+# 템플릿 6C {#template-6c}
 
-[템플릿 6-C 다운로드](https://docs.marketo.com/download/attachments/8783932/template-6c.html?version=1&amp;modificationdate=1437693151000&amp;api=v2)
+[템플릿 6C 다운로드](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-6c.html)
 
 ![](assets/image2015-7-29-11-3a52-3a22.png)
 
@@ -27,4 +27,4 @@ ht-degree: 0%
 
 **이 템플릿을 다운로드하려면 아래 를 클릭하십시오.**
 
-[Template6-C.html](https://docs.marketo.com/download/attachments/8783932/template-6c.html?version=1&amp;modificationdate=1437693151000&amp;api=v2)
+[템플릿 6C.html](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-6c.html)

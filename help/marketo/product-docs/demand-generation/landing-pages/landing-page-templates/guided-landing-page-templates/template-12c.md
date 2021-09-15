@@ -1,18 +1,18 @@
 ---
 unique-page-id: 9437580
-description: 템플릿 12-C - Marketo 문서 - 제품 설명서
-title: 템플릿 12-C
+description: 템플릿 12C - Marketo 문서 - 제품 설명서
+title: 템플릿 12C
 exl-id: 23229f5a-6d79-4501-bd3b-56fccc2fa4cd
-source-git-commit: c09c2bcd44a1bf5357f14cc7456229ccb3a6b3cc
+source-git-commit: df197322c7bdafb695b532bce51802961e453335
 workflow-type: tm+mt
-source-wordcount: '0'
+source-wordcount: '60'
 ht-degree: 0%
 
 ---
 
-# 템플릿 12-C {#template-c}
+# 템플릿 12C {#template-12c}
 
-[템플릿 12-C 다운로드](https://docs.marketo.com/download/attachments/9437580/template-12c.html?version=1&amp;modificationdate=1438211583000&amp;api=v2)
+[템플릿 12C 다운로드](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-12c.html)
 
 ![](assets/image2015-8-4-14-3a36-3a13.png)
 
@@ -28,4 +28,4 @@ ht-degree: 0%
 
 **이 템플릿을 다운로드하려면 아래 를 클릭하십시오.**
 
-[Template12-C.html](https://docs.marketo.com/download/attachments/9437580/template-12c.html?version=1&amp;modificationdate=1438211583000&amp;api=v2)
+[템플릿 12C.html](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-12c.html)

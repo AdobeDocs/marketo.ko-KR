@@ -1,18 +1,18 @@
 ---
 unique-page-id: 8783957
-description: 템플릿 7-F - Marketo 문서 - 제품 설명서
-title: 템플릿 7-F
+description: 템플릿 7F - Marketo 문서 - 제품 설명서
+title: 템플릿 7F
 exl-id: 3fe4fb0b-7118-4b88-b2ca-f9ad04bf4129
-source-git-commit: c09c2bcd44a1bf5357f14cc7456229ccb3a6b3cc
+source-git-commit: df197322c7bdafb695b532bce51802961e453335
 workflow-type: tm+mt
-source-wordcount: '66'
+source-wordcount: '60'
 ht-degree: 0%
 
 ---
 
-# 템플릿 7-F {#template-f}
+# 템플릿 7F {#template-7f}
 
-[템플릿 7-F 다운로드](https://docs.marketo.com/download/attachments/8783957/template-7f.html?version=1&amp;modificationdate=1437693477000&amp;api=v2)
+[템플릿 7F 다운로드](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-7f.html)
 
 ![](assets/image2015-7-29-14-3a52-3a10.png)
 
@@ -28,4 +28,4 @@ ht-degree: 0%
 
 **이 템플릿을 다운로드하려면 아래 를 클릭하십시오.**
 
-[Template7-F.html](https://docs.marketo.com/download/attachments/8783957/template-7f.html?version=1&amp;modificationdate=1437693477000&amp;api=v2)
+[템플릿 7F.html](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-7f.html)

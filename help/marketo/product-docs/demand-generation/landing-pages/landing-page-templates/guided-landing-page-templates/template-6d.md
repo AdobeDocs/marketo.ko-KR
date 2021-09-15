@@ -1,18 +1,18 @@
 ---
 unique-page-id: 8783935
-description: 템플릿 6-D - Marketo 문서 - 제품 설명서
-title: 템플릿 6-D
+description: 템플릿 6D - Marketo 문서 - 제품 설명서
+title: 템플릿 6D
 exl-id: 2708fd0b-1c87-4b2c-b28c-93b7b8547df4
-source-git-commit: c09c2bcd44a1bf5357f14cc7456229ccb3a6b3cc
+source-git-commit: df197322c7bdafb695b532bce51802961e453335
 workflow-type: tm+mt
-source-wordcount: '65'
+source-wordcount: '59'
 ht-degree: 0%
 
 ---
 
-# 템플릿 6-D {#template-d}
+# 템플릿 6D {#template-6d}
 
-[템플릿 6-D 다운로드](https://docs.marketo.com/download/attachments/8783935/template-6d.html?version=1&amp;modificationdate=1437693191000&amp;api=v2)
+[템플릿 6D 다운로드](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-6d.html)
 
 ![](assets/image2015-7-29-12-3a1-3a21.png)
 
@@ -27,4 +27,4 @@ ht-degree: 0%
 
 **이 템플릿을 다운로드하려면 아래 를 클릭하십시오.**
 
-[Template6-D.html](https://docs.marketo.com/download/attachments/8783935/template-6d.html?version=1&amp;modificationdate=1437693191000&amp;api=v2)
+[템플릿 6D.html](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-6d.html)
