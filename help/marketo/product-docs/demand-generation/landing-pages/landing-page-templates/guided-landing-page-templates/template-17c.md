@@ -1,18 +1,18 @@
 ---
 unique-page-id: 9438197
-description: 템플릿 17-C - Marketo 문서 - 제품 설명서
-title: 템플릿 17-C
+description: 템플릿 17C - Marketo 문서 - 제품 설명서
+title: 템플릿 17C
 exl-id: d9d1079d-2adf-4b6e-befc-42e913ce8b2c
-source-git-commit: c09c2bcd44a1bf5357f14cc7456229ccb3a6b3cc
+source-git-commit: dbacd9b8e028872a1fa91e450a8e2dd338edd34d
 workflow-type: tm+mt
-source-wordcount: '64'
+source-wordcount: '0'
 ht-degree: 0%
 
 ---
 
-# 템플릿 17-C {#template-c}
+# 템플릿 17C {#template-17c}
 
-[템플릿 17-C 다운로드](https://docs.marketo.com/download/attachments/9438197/template-17c.html?version=1&amp;modificationdate=1439843025000&amp;api=v2)
+[템플릿 17C 다운로드](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-17c.html)
 
 ![](assets/image2015-8-17-17-3a6-3a47.png)
 
@@ -27,4 +27,4 @@ ht-degree: 0%
 
 **이 템플릿을 다운로드하려면 아래 를 클릭하십시오.**
 
-[Template17-C.html](https://docs.marketo.com/download/attachments/9438197/template-17c.html?version=1&amp;modificationdate=1439843025000&amp;api=v2)
+[템플릿 17C.html](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-17c.html)

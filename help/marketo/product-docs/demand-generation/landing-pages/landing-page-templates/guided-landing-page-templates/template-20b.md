@@ -1,18 +1,18 @@
 ---
 unique-page-id: 10092913
-description: 템플릿 20-B - Marketo 문서 - 제품 설명서
-title: 템플릿 20-B
+description: 템플릿 20B - Marketo 문서 - 제품 설명서
+title: 템플릿 20B
 exl-id: 53a993ae-934d-47b0-98c1-f4e88d4f1b1e
-source-git-commit: c09c2bcd44a1bf5357f14cc7456229ccb3a6b3cc
+source-git-commit: dbacd9b8e028872a1fa91e450a8e2dd338edd34d
 workflow-type: tm+mt
-source-wordcount: '61'
+source-wordcount: '0'
 ht-degree: 0%
 
 ---
 
-# 템플릿 20-B {#template-b}
+# 템플릿 20B {#template-20b}
 
-[템플릿 20-B 다운로드](https://docs.marketo.com/download/attachments/10092913/template-20b.html?version=1&amp;modificationdate=1441750700000&amp;api=v2)
+[템플릿 20B 다운로드](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-20b.html)
 
 ![](assets/template-20b.png)
 
@@ -27,4 +27,4 @@ ht-degree: 0%
 
 **이 템플릿을 다운로드하려면 아래 를 클릭하십시오.**
 
-[Template20-B.html](https://docs.marketo.com/download/attachments/10092913/template-20b.html?version=1&amp;modificationdate=1441750700000&amp;api=v2)
+[템플릿 20B.html](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-20b.html)

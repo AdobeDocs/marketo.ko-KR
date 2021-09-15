@@ -1,18 +1,18 @@
 ---
 unique-page-id: 9437837
-description: 템플릿 16-B - Marketo 문서 - 제품 설명서
-title: 템플릿 16-B
+description: 템플릿 16B - Marketo 문서 - 제품 설명서
+title: 템플릿 16B
 exl-id: 99bdd484-e2c2-412d-b309-1681d27025e1
-source-git-commit: c09c2bcd44a1bf5357f14cc7456229ccb3a6b3cc
+source-git-commit: dbacd9b8e028872a1fa91e450a8e2dd338edd34d
 workflow-type: tm+mt
-source-wordcount: '61'
+source-wordcount: '0'
 ht-degree: 0%
 
 ---
 
-# 템플릿 16-B {#template-b}
+# 템플릿 16B {#template-16b}
 
-[템플릿 16-B 다운로드](https://docs.marketo.com/download/attachments/9437837/template-16b.html?version=1&amp;modificationdate=1438980690000&amp;api=v2)
+[템플릿 16B 다운로드](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-16b.html)
 
 ![](assets/image2015-8-14-11-3a2-3a51.png)
 
@@ -27,4 +27,4 @@ ht-degree: 0%
 
 **이 템플릿을 다운로드하려면 아래 를 클릭하십시오.**
 
-[Template16-B.html](https://docs.marketo.com/download/attachments/9437837/template-16b.html?version=1&amp;modificationdate=1438980690000&amp;api=v2)
+[템플릿 16B.html](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-16b.html)

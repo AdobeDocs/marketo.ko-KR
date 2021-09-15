@@ -1,18 +1,18 @@
 ---
 unique-page-id: 9438206
-description: 템플릿 18-A - Marketo 문서 - 제품 설명서
-title: 템플릿 18-A
+description: 템플릿 18A - Marketo 문서 - 제품 설명서
+title: 템플릿 18A
 exl-id: fe3008b5-cef3-4b9e-a0a1-7e596d855a8f
-source-git-commit: c09c2bcd44a1bf5357f14cc7456229ccb3a6b3cc
+source-git-commit: dbacd9b8e028872a1fa91e450a8e2dd338edd34d
 workflow-type: tm+mt
-source-wordcount: '65'
+source-wordcount: '0'
 ht-degree: 0%
 
 ---
 
-# 템플릿 18-A {#template-a}
+# 템플릿 18A {#template-18a}
 
-[템플릿 18-A 다운로드](https://docs.marketo.com/download/attachments/9438206/template-18a.html?version=1&amp;modificationdate=1439843149000&amp;api=v2)
+[템플릿 18A 다운로드](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-18a.html)
 
 ![](assets/image2015-8-17-17-3a57-3a23.png)
 
@@ -28,4 +28,4 @@ ht-degree: 0%
 
 **이 템플릿을 다운로드하려면 아래 를 클릭하십시오.**
 
-[Template18-A.html](https://docs.marketo.com/download/attachments/9438206/template-18a.html?version=1&amp;modificationdate=1439843149000&amp;api=v2)
+[템플릿 18A.html](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-18a.html)

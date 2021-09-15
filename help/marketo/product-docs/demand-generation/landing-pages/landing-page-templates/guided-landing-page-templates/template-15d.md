@@ -1,18 +1,18 @@
 ---
 unique-page-id: 9437825
-description: 템플릿 15-D - Marketo 문서 - 제품 설명서
-title: 템플릿 15-D
+description: 템플릿 15D - Marketo 문서 - 제품 설명서
+title: 템플릿 15D
 exl-id: 424e4bb8-e223-42b3-a26d-ec9ea167e862
-source-git-commit: c09c2bcd44a1bf5357f14cc7456229ccb3a6b3cc
+source-git-commit: dbacd9b8e028872a1fa91e450a8e2dd338edd34d
 workflow-type: tm+mt
-source-wordcount: '64'
+source-wordcount: '0'
 ht-degree: 0%
 
 ---
 
-# 템플릿 15-D {#template-d}
+# 템플릿 15D {#template-15d}
 
-[템플릿 15-D 다운로드](https://docs.marketo.com/download/attachments/9437825/template-15d.html?version=1&amp;modificationdate=1438980509000&amp;api=v2)
+[템플릿 15D 다운로드](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-15d.html)
 
 ![](assets/image2015-8-13-13-3a56-3a26.png)
 
@@ -27,4 +27,4 @@ ht-degree: 0%
 
 **이 템플릿을 다운로드하려면 아래 를 클릭하십시오.**
 
-[Template15-D.html](https://docs.marketo.com/download/attachments/9437825/template-15d.html?version=1&amp;modificationdate=1438980509000&amp;api=v2)
+[템플릿 15D.html](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-15d.html)

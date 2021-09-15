@@ -1,18 +1,18 @@
 ---
 unique-page-id: 9437807
-description: 템플릿 14-C - Marketo 문서 - 제품 설명서
-title: 템플릿 14-C
+description: 템플릿 14C - Marketo 문서 - 제품 설명서
+title: 템플릿 14C
 exl-id: d8a66bbc-9795-42d3-81fc-d70039856f92
-source-git-commit: c09c2bcd44a1bf5357f14cc7456229ccb3a6b3cc
+source-git-commit: dbacd9b8e028872a1fa91e450a8e2dd338edd34d
 workflow-type: tm+mt
-source-wordcount: '66'
+source-wordcount: '0'
 ht-degree: 0%
 
 ---
 
-# 템플릿 14-C {#template-c}
+# 템플릿 14C {#template-14c}
 
-[템플릿 14-C 다운로드](https://docs.marketo.com/download/attachments/9437807/template-14c.html?version=1&amp;modificationdate=1438980264000&amp;api=v2)
+[템플릿 14C 다운로드](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-14c.html)
 
 ![](assets/image2015-8-11-17-3a23-3a54.png)
 
@@ -28,4 +28,4 @@ ht-degree: 0%
 
 **이 템플릿을 다운로드하려면 아래 를 클릭하십시오.**
 
-[Template14-C.html](https://docs.marketo.com/download/attachments/9437807/template-14c.html?version=1&amp;modificationdate=1438980264000&amp;api=v2)
+[템플릿 14C.html](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-14c.html)

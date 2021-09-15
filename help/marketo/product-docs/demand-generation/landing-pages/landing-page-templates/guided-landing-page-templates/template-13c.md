@@ -1,18 +1,18 @@
 ---
 unique-page-id: 9437792
-description: 템플릿 13-C - Marketo 문서 - 제품 설명서
-title: 템플릿 13-A
+description: 템플릿 13C - Marketo 문서 - 제품 설명서
+title: 템플릿 13C
 exl-id: 05624f86-03ab-45ab-8daa-61cf4f2b44ba
-source-git-commit: c09c2bcd44a1bf5357f14cc7456229ccb3a6b3cc
+source-git-commit: dbacd9b8e028872a1fa91e450a8e2dd338edd34d
 workflow-type: tm+mt
-source-wordcount: '61'
+source-wordcount: '0'
 ht-degree: 0%
 
 ---
 
-# 템플릿 13-A {#template-c}
+# 템플릿 13C {#template-13c}
 
-[템플릿 13-C 다운로드](https://docs.marketo.com/download/attachments/9437792/template-13c.html?version=1&amp;modificationdate=1438980021000&amp;api=v2)
+[템플릿 13C 다운로드](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-13c.html)
 
 ![](assets/image2015-8-11-11-3a45-3a44.png)
 
@@ -27,4 +27,4 @@ ht-degree: 0%
 
 **이 템플릿을 다운로드하려면 아래 를 클릭하십시오.**
 
-[Template13-C.html](https://docs.marketo.com/download/attachments/9437792/template-13c.html?version=1&amp;modificationdate=1438980021000&amp;api=v2)
+[Template13C.html](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-13c.html)

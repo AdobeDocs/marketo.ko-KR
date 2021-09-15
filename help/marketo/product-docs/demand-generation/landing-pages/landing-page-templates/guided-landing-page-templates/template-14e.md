@@ -1,18 +1,18 @@
 ---
 unique-page-id: 9437813
-description: 템플릿 14-E - Marketo 문서 - 제품 설명서
-title: 템플릿 14-E
+description: 템플릿 14E - Marketo 문서 - 제품 설명서
+title: 템플릿 14E
 exl-id: e45e2277-2d15-44fb-b48d-107e80f849b7
-source-git-commit: c09c2bcd44a1bf5357f14cc7456229ccb3a6b3cc
+source-git-commit: dbacd9b8e028872a1fa91e450a8e2dd338edd34d
 workflow-type: tm+mt
-source-wordcount: '66'
+source-wordcount: '60'
 ht-degree: 0%
 
 ---
 
-# 템플릿 14-E {#template-e}
+# 템플릿 14E {#template-14e}
 
-[템플릿 14-E 다운로드](https://docs.marketo.com/download/attachments/9437813/template-14e.html?version=1&amp;modificationdate=1438980353000&amp;api=v2)
+[템플릿 14E 다운로드](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-14e.html)
 
 ![](assets/image2015-8-13-10-3a48-3a0.png)
 
@@ -28,4 +28,4 @@ ht-degree: 0%
 
 **이 템플릿을 다운로드하려면 아래 를 클릭하십시오.**
 
-[Template14-E.html](https://docs.marketo.com/download/attachments/9437813/template-14e.html?version=1&amp;modificationdate=1438980353000&amp;api=v2)
+[템플릿 14E.html](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-14e.html)
