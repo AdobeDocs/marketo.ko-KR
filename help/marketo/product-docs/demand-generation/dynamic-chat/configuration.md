@@ -3,9 +3,9 @@ description: 구성 - Marketo 문서 - 제품 설명서
 title: 구성
 hide: true
 hidefromtoc: true
-source-git-commit: c46902686f1d5af63a51f5eaae2dc0e6afe99629
+source-git-commit: ab594ddb7c416f7b6c98e2b4d3640a2db6208e69
 workflow-type: tm+mt
-source-wordcount: '228'
+source-wordcount: '0'
 ht-degree: 0%
 
 ---
@@ -22,7 +22,7 @@ PICC
 
 PICC(전체 차트)
 
-## 스타일 탭 {#style tab}
+## 스타일 탭 {#style-tab}
 
 **스타일**
 
