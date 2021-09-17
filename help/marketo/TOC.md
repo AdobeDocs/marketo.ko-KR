@@ -3,9 +3,9 @@ audience: end-user
 user-guide-title: Marketo 안내서
 user-guide-description: Marketo 제품 설명서
 feature-set: Marketo Engage
-source-git-commit: 296dce8edf65115f9c10a79c4f1981b57739f713
+source-git-commit: c46902686f1d5af63a51f5eaae2dc0e6afe99629
 workflow-type: tm+mt
-source-wordcount: '8089'
+source-wordcount: '8096'
 ht-degree: 0%
 
 ---
@@ -619,6 +619,10 @@ ht-degree: 0%
          + [LaunchPoint 서비스로 Google Customer Match 추가](product-docs/demand-generation/ad-network-integrations/add-google-customer-match-as-a-launchpoint-service.md)
          + [LinkedIn Matched Audiences as a LaunchPoint Service 추가](product-docs/demand-generation/ad-network-integrations/add-linkedin-matched-audiences-as-a-launchpoint-service.md)
          + [광고 네트워크에 목록 보내기](product-docs/demand-generation/ad-network-integrations/send-a-list-to-an-ad-network.md)
+      + 동적 채팅 {#dynamic-chat}
+         + [동적 채팅 개요](product-docs/demand-generation/dynamic-chat/dynamic-chat-overview.md)
+         + [대화 상자](product-docs/demand-generation/dynamic-chat/dialogues.md)
+         + [구성](product-docs/demand-generation/dynamic-chat/configuration.md)
       + 이벤트 {#events}
          + 이벤트 이해 {#understanding-events}
             + [이벤트 프로그램에 구성원 추가](product-docs/demand-generation/events/understanding-events/adding-members-to-an-event-program.md)
