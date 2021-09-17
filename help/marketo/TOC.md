@@ -3,9 +3,9 @@ audience: end-user
 user-guide-title: Marketo 안내서
 user-guide-description: Marketo 제품 설명서
 feature-set: Marketo Engage
-source-git-commit: c46902686f1d5af63a51f5eaae2dc0e6afe99629
+source-git-commit: abb4d95da5ba9d9a342b482287c89a4987eb4251
 workflow-type: tm+mt
-source-wordcount: '8096'
+source-wordcount: '8090'
 ht-degree: 0%
 
 ---
@@ -146,7 +146,6 @@ ht-degree: 0%
          + [ON24를 LaunchPoint 서비스로 추가](product-docs/administration/additional-integrations/add-on24-as-a-launchpoint-service.md)
          + [LaunchPoint 서비스로 ReadyTalk 추가](product-docs/administration/additional-integrations/add-readytalk-as-a-launchpoint-service.md)
          + [포털에 단일 사인온 추가](product-docs/administration/additional-integrations/add-single-sign-on-to-a-portal.md)
-         + [Slack을 LaunchPoint 서비스로 추가](product-docs/administration/additional-integrations/add-slack-as-a-launchpoint-service.md)
          + [WebEx를 LaunchPoint 서비스로 추가](product-docs/administration/additional-integrations/add-webex-as-a-launchpoint-service.md)
          + [facebook에서 LaunchPoint 서비스로 Workplace 추가](product-docs/administration/additional-integrations/add-workplace-by-facebook-as-a-launchpoint-service.md)
          + [LaunchPoint 서비스로 확대/축소 추가](product-docs/administration/additional-integrations/add-zoom-as-a-launchpoint-service.md)
