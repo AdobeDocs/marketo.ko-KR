@@ -3,7 +3,7 @@ unique-page-id: 8783917
 description: 템플릿 5B - Marketo 문서 - 제품 설명서
 title: 템플릿 5B
 exl-id: 738323ac-89bf-483a-ad63-2020bacc85cf
-source-git-commit: df197322c7bdafb695b532bce51802961e453335
+source-git-commit: 6fdffce0ab2b9cd3db72122260c1e105fe2ea20e
 workflow-type: tm+mt
 source-wordcount: '59'
 ht-degree: 0%
@@ -14,7 +14,7 @@ ht-degree: 0%
 
 [템플릿 5B 다운로드](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-5b.html)
 
-![](assets/template5B1.png)
+![](assets/template-5b.png)
 
 이 템플릿에는 다음 콘텐츠가 포함되어 있습니다.
 
