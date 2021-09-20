@@ -3,7 +3,7 @@ description: 대화 상자 - Marketo 문서 - 제품 설명서
 title: 대화 상자
 hide: true
 hidefromtoc: true
-source-git-commit: c6713c972603ab9528a66e908e47e4c187b86c0c
+source-git-commit: 1a1d4cb7e013253ce7189150486ba03ea02d877d
 workflow-type: tm+mt
 source-wordcount: '473'
 ht-degree: 0%
@@ -95,7 +95,7 @@ PICC
 
 정보 캡처: 정보를 수집하려면 를 사용하십시오. 선택할 수 있는 세 개의 필드는 이메일 주소, 전화 번호 및 텍스트(방문자가 고유한 메시지를 작성할 수 있음)입니다.
 
-약속 스케줄러: 방문자에게 후속 작업을 예약하기 위해 사용 가능한 날짜 달력을 제공합니다. 일정 가용성은 [다음 에이전트를 줄](help/marketo/product-docs/demand-generation/dynamic-chat/dynamic-chat-overview.md#routing)에 반영합니다.
+약속 스케줄러: 방문자에게 후속 작업을 예약하기 위해 사용 가능한 날짜 달력을 제공합니다. 일정 가용성은 [다음 에이전트를 줄](/help/marketo/product-docs/demand-generation/dynamic-chat/dynamic-chat-overview.md#routing)에 반영합니다.
 
 목표: 방문자가 볼 수 없는 유일한 카드입니다. 특정 채팅(예: 방문자의 이메일을 수집하는 것이 목표인 경우 스트림에서 정보 캡처 뒤에 목표 카드를 배치합니다.)
 
