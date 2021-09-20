@@ -3,9 +3,9 @@ description: 대화 상자 - Marketo 문서 - 제품 설명서
 title: 대화 상자
 hide: true
 hidefromtoc: true
-source-git-commit: c46902686f1d5af63a51f5eaae2dc0e6afe99629
+source-git-commit: c6713c972603ab9528a66e908e47e4c187b86c0c
 workflow-type: tm+mt
-source-wordcount: '273'
+source-wordcount: '473'
 ht-degree: 0%
 
 ---
@@ -36,7 +36,7 @@ PICC
 
 Marketo 스마트 목록과 유사한 대상 기준 속성을 사용하여 타겟 대상을 정의할 수 있습니다.
 
-선택할 수 있는 속성은 몇 가지가 있습니다. 이 예제에서는 리드 상태 _이(가)_ 캘리포니아이고 회사 크기 _이(가)_ 50보다 큽니다.
+선택할 수 있는 속성은 몇 가지가 있습니다. 이 예에서는 50명 이상의 직원이 있는 회사에서 일하는 알려진 모든 리드를 타겟팅합니다.
 
 1. 리드 상태 속성을 선택하고 오른쪽으로 드래그합니다.
 
@@ -58,6 +58,10 @@ PICC
 
 PICC
 
+리드 캡처 방법
+
+참고 - 유추된 작동/표시 사용 사례, 리드 이메일이 비어 있는 방법을 언급했을 수 있습니다.
+
 ## 그룹 추가 {#add-groups}
 
 다른 속성의 &quot;any&quot;와 함께 모든 특정 속성을 사용하려는 경우 속성을 그룹화하는 옵션이 있습니다.
@@ -77,4 +81,24 @@ PICC
 
 >[!NOTE]
 >
->별표를 사용하는 것은 다목적 엽서 역할을 합니다. 따라서 `https://*.website.com`은 하위 도메인을 포함하여 사이트의 모든 페이지에 대화 상자를 둡니다(예: support.website.com) 및 `https://website.com/folder/*` 은 후속 폴더의 모든 HTML 페이지에 대화 상자를 표시합니다(예: 이 경우 폴더가 &quot;sports&quot;라고 가정해 보겠습니다. website.com/sports/baseball.html, website.com/sports/football.html 등)
+>별표를 사용하는 것은 다목적 엽서 역할을 합니다. 따라서 `https://*.website.com` 은 하위 도메인을 포함하여 사이트의 모든 페이지에 대화 상자를 둡니다(예: `support.website.com`) 및 `https://website.com/folder/*` 은 후속 폴더의 모든 HTML 페이지에 대화 상자를 표시합니다(예: 이 경우 폴더가 &quot;sports&quot;라고 가정해 보겠습니다. website.com/sports/baseball.html, website.com/sports/football.html 등)
+
+## 스트림 디자이너 {#stream-designer}
+
+스트림 디자이너에는 채팅 대화 모양을 만들기 위해 추가할 수 있는 다른 카드가 포함되어 있습니다.
+
+표
+
+메시지: 응답 없이 구문을 만들려면(예: &quot;안녕! 코드 SAVE25를 사용하면 모든 항목이 오늘 25% 할인됩니다.&quot;)
+
+질문: 사용 가능한 응답을 제공하는 다중 선택 질문을 하려면 를 사용합니다(예: 어떤 차종에 관심이 있으십니까? 응답 = SUV, 컴팩트, 트럭 등
+
+정보 캡처: 정보를 수집하려면 를 사용하십시오. 선택할 수 있는 세 개의 필드는 이메일 주소, 전화 번호 및 텍스트(방문자가 고유한 메시지를 작성할 수 있음)입니다.
+
+약속 스케줄러: 방문자에게 후속 작업을 예약하기 위해 사용 가능한 날짜 달력을 제공합니다. 일정 가용성은 [다음 에이전트를 줄](help/marketo/product-docs/demand-generation/dynamic-chat/dynamic-chat-overview.md#routing)에 반영합니다.
+
+목표: 방문자가 볼 수 없는 유일한 카드입니다. 특정 채팅(예: 방문자의 이메일을 수집하는 것이 목표인 경우 스트림에서 정보 캡처 뒤에 목표 카드를 배치합니다.)
+
+가능한 자체 섹션
+
+아래에 예를 보여줍니다.

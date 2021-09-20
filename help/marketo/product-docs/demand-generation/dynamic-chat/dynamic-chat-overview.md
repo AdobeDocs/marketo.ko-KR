@@ -3,9 +3,9 @@ description: 동적 채팅 개요 - Marketo 문서 - 제품 설명서
 title: 동적 채팅 개요
 hide: true
 hidefromtoc: true
-source-git-commit: c46902686f1d5af63a51f5eaae2dc0e6afe99629
+source-git-commit: c6713c972603ab9528a66e908e47e4c187b86c0c
 workflow-type: tm+mt
-source-wordcount: '314'
+source-wordcount: '323'
 ht-degree: 0%
 
 ---
@@ -14,9 +14,13 @@ ht-degree: 0%
 
 소개 텍스트
 
+>[!NOTE]
+>
+>다이내믹 채팅을 롤아웃하는 중입니다. 모든 구독에서 날짜별로 액세스할 수 있습니다.
+
 ## 동적 채팅 설정 {#access-dynamic-chat}
 
-텍스트
+초기 설정에 대해 다음 단계를 수행합니다.
 
 1. 내 Marketo에서 **동적 채팅** 타일을 클릭합니다.
 
@@ -24,7 +28,7 @@ ht-degree: 0%
 
    >[!NOTE]
    >
-   >Marketo 관리자가 아직 타일을 켜지 않은 경우 [여기에서 Dynamic Chat](https://experience.adobe.com/dynamic-chat/)에 액세스할 수도 있습니다.
+   >만약..Marketo 관리자에게 문의하십시오.)
 
 1. 이전에 Adobe ID으로 애플리케이션에 액세스한 적이 있는 경우 바로 Dynamic Chat로 이동합니다. 그렇지 않으면 [Adobe ID](https://helpx.adobe.com/manage-account/using/create-update-adobe-id.html)을 설정합니다.
 
@@ -32,19 +36,19 @@ ht-degree: 0%
 
 1. Marketo 인스턴스를 연결하려면 **통합**&#x200B;을 선택합니다.
 
-PICC
+   PICC
 
 1. ?여기에 텍스트 삽입?을 클릭합니다.
 
-PICC
+   PICC
 
->[!NOTE]
->
->데이터베이스 크기에 따라 동기화가 완료되는 데 5~8시간이 걸릴 수 있습니다. 평균 동기화 시간은 60분입니다.
+   >[!NOTE]
+   >
+   >데이터베이스 크기에 따라 동기화가 완료되는 데 5~8시간이 걸릴 수 있습니다. 평균 동기화 시간은 60분입니다.
 
 ## 통합 {#integrations}
 
-통합은 Dynamic Chat에 액세스할 때 방문하려는 첫 번째 탭입니다. 이 위치는 Marketo 가입을 동기화하여 데이터베이스 데이터를 활용하여 사이트/채팅 방문자를 식별할 수 있습니다([위 3단계 참조).](#access-dynamic-chat)
+통합은 Dynamic Chat에 액세스할 때 방문하려는 첫 번째 탭입니다. Marketo 구독을 동기화하여 Marketo 데이터베이스 데이터를 활용하여 사이트/채팅 방문자를 식별할 수 있습니다([3단계 참조).](#access-dynamic-chat)
 
 ## 대화 상자 {#dialogues}
 

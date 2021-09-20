@@ -3,9 +3,9 @@ description: 구성 - Marketo 문서 - 제품 설명서
 title: 구성
 hide: true
 hidefromtoc: true
-source-git-commit: ab594ddb7c416f7b6c98e2b4d3640a2db6208e69
+source-git-commit: c6713c972603ab9528a66e908e47e4c187b86c0c
 workflow-type: tm+mt
-source-wordcount: '228'
+source-wordcount: '232'
 ht-degree: 0%
 
 ---
@@ -40,7 +40,7 @@ PICC
 
 **에이전트 설정**
 
-에이전트 설정에서 차트봇에 해당하는 이름을 지정합니다(맨 위에 표시됨). 응답 지연(초)을 결정하고 채팅 아바타를 변경할 수도 있습니다.
+에이전트 설정에서 차트박스에 레이블을 추가할 수 있습니다(예: &quot;Adobe 보트&quot;)가 위에 표시됩니다. 응답 지연(초)을 결정하고 채팅 아바타를 변경할 수도 있습니다.
 
 설정 이름의 PICC
 
