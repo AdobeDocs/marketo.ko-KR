@@ -3,10 +3,10 @@ unique-page-id: 1147226
 description: 시작하기 - Marketo 문서 - 제품 설명서
 title: 시작하기
 exl-id: 11c883eb-2a22-4706-ba0a-09ca11648054
-source-git-commit: 3d9c75a343ba2d78b1d5451ebe4344e71c2e53fb
+source-git-commit: 5d7c30fe818e37ba86152953d19937e39c7426f5
 workflow-type: tm+mt
-source-wordcount: '0'
-ht-degree: 0%
+source-wordcount: '135'
+ht-degree: 9%
 
 ---
 
@@ -56,8 +56,6 @@ IT 팀의 도움을 받으면 신속하게 작업을 완료할 수 있습니다.
     </div>
     <br>
   </td>
-</tr>
-<tr>
   <td>
     <a href="getting-started/quick-wins/simple-scoring.md">
       <img alt="Connect" src="getting-started/assets/getting-started-4.png"/>
@@ -75,6 +73,8 @@ IT 팀의 도움을 받으면 신속하게 작업을 완료할 수 있습니다.
     </div>
     <br>
   </td>
+</tr>
+<tr>
   <td>
     <a href="getting-started/quick-wins/import-a-list-of-people.md">
       <img alt="이메일" src="getting-started/assets/getting-started-6.png" />
@@ -84,8 +84,6 @@ IT 팀의 도움을 받으면 신속하게 작업을 완료할 수 있습니다.
     </div>
     <br>
   </td>
-</tr>
-<tr>
   <td>
     <a href="getting-started/quick-wins/drip-drip-nurture.md">
       <img alt="Connect" src="getting-started/assets/getting-started-7.png"/>
@@ -112,8 +110,6 @@ IT 팀의 도움을 받으면 신속하게 작업을 완료할 수 있습니다.
     </div>
     <br>
   </td>
-</tr>
-<tr>
   <td>
     <a href="getting-started/quick-wins/update-person-data.md">
       <img alt="Connect" src="getting-started/assets/getting-started-10.png"/>
@@ -122,9 +118,6 @@ IT 팀의 도움을 받으면 신속하게 작업을 완료할 수 있습니다.
     <a href="getting-started/quick-wins/update-person-data.md">10. 개인 데이터 업데이트</a>
     </div>
     <br>
-  </td>
-  <td>  </td>
-  <td>
   </td>
 </tr>
 </table>
