@@ -3,39 +3,38 @@ unique-page-id: 11372975
 description: 3단계 중 1단계 - Salesforce에 Marketo 필드 추가(Professional) - Marketo 문서 - 제품 설명서
 title: 3단계 중 1단계 - Salesforce에 Marketo 필드 추가(Professional)
 exl-id: 1b52825e-201d-4b55-8edf-444b1653d591
-translation-type: tm+mt
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+source-git-commit: 7de9b708626172aa6fa0a2fcb87c8aa534d5e9f7
 workflow-type: tm+mt
-source-wordcount: '745'
+source-wordcount: '798'
 ht-degree: 0%
 
 ---
 
-# 3단계 중 1단계:Salesforce(Professional) {#step-of-add-marketo-fields-to-salesforce-professional}에 Marketo 필드 추가
+# 3단계 중 1단계: Salesforce(Professional)에 Marketo 필드 추가 {#step-of-add-marketo-fields-to-salesforce-professional}
 
 >[!PREREQUISITES]
 >
->Marketo과 Salesforce 간의 데이터를 동기화하려면 Salesforce 인스턴스에 Salesforce API에 대한 액세스 권한이 있어야 합니다.
+>Marketo과 Salesforce 간에 데이터를 동기화하려면 Salesforce 인스턴스에 Salesforce API에 액세스할 수 있어야 합니다.
 
-Marketo에서는 일련의 필드를 사용하여 특정 종류의 마케팅 관련 정보를 캡처합니다. Salesforce에서 이 데이터를 사용하려면 아래 지침을 따르십시오.
+Marketo에서는 필드 세트를 사용하여 특정 종류의 마케팅 관련 정보를 캡처합니다. Salesforce에서 이 데이터를 사용하려면 아래 지침을 따르십시오.
 
-1. Salesforce에서 리드 및 연락처 개체에 대해 3개의 사용자 정의 필드를 만듭니다.점수, 획득 프로그램 및 획득 날짜.
-1. 리드 및 연락처 간에 이러한 사용자 정의 필드를 매핑하여 Salesforce에서 전환할 때 값이 이월되도록 할 수 있습니다.
+1. Salesforce에서 리드와 연락처 개체에 세 개의 사용자 지정 필드를 만듭니다. 점수, 획득 프로그램 및 획득 날짜입니다.
+1. Salesforce에서 전환할 때 값이 전달되도록 리드와 연락처 간에 이러한 사용자 지정 필드를 매핑합니다.
 1. 필요한 경우 다른 추가 필드를 만들 수 있습니다(아래 표 참조).
 
-이러한 모든 사용자 정의 필드는 선택 사항이며 Marketo 및 Salesforce를 동기화할 필요가 없습니다. 우수 사례로, 점수, 획득 프로그램 및 획득 날짜에 대한 필드를 만드는 것이 좋습니다.
+이러한 모든 사용자 지정 필드는 선택 사항이며 Marketo 및 Salesforce를 동기화하는 데 필요하지 않습니다. 우수 사례로서, 점수, 획득 프로그램 및 획득 날짜에 대한 필드를 만드는 것이 좋습니다.
 
-## Salesforce {#add-marketo-fields-to-salesforce}에 Marketo 필드 추가
+## Salesforce에 Marketo 필드 추가 {#add-marketo-fields-to-salesforce}
 
-위에 나열된 Salesforce에서 리드 및 연락처 개체에 3개의 사용자 정의 필드를 추가합니다. 더 추가하려면 이 섹션 끝에 있는 사용 가능한 필드 표를 참조하십시오.
+위에 나열된 Salesforce에서 리드에 세 개의 사용자 지정 필드 및 연락처 개체를 추가합니다. 더 추가하려면 이 섹션의 끝에서 사용 가능한 필드 표를 참조하십시오.
 
-3개의 사용자 정의 필드 각각에 대해 다음 단계를 수행하여 필드를 추가합니다. **점수**&#x200B;로 시작합니다.
+세 개의 사용자 지정 필드 각각에 대해 다음 단계를 수행하여 필드를 추가합니다. **점수**&#x200B;로 시작합니다.
 
-1. Salesforce에 로그인하고 **설정을 클릭합니다.**
+1. Salesforce에 로그인하고 **설치를 클릭합니다.**
 
    ![](assets/image2016-5-23-13-3a15-3a21.png)
 
-1. 왼쪽의 [빌드] 메뉴에서 **사용자 지정**&#x200B;을 클릭하고 **리드**&#x200B;을 선택합니다. **필드**&#x200B;를 클릭합니다.
+1. 왼쪽의 빌드 메뉴에서 **사용자 지정**&#x200B;을 클릭하고 **리드**&#x200B;를 선택합니다. **필드**&#x200B;를 클릭합니다.
 
    ![](assets/image2016-5-23-13-3a20-3a5.png)
 
@@ -43,7 +42,7 @@ Marketo에서는 일련의 필드를 사용하여 특정 종류의 마케팅 관
 
    ![](assets/image2016-5-26-14-3a41-3a40.png)
 
-1. 적절한 필드 유형을 선택합니다(점수 — **number**;획득 프로그램 — **텍스트**;획득 날짜 — **날짜/시간**).
+1. 적절한 필드 유형을 선택합니다(점수 — **숫자**; 획득 프로그램 — **text**; 획득 날짜 — **날짜/시간**).
 
    ![](assets/choose-field-type-2-hand.png)
 
@@ -51,7 +50,7 @@ Marketo에서는 일련의 필드를 사용하여 특정 종류의 마케팅 관
 
    ![](assets/image2016-5-26-14-3a51-3a14.png)
 
-1. 아래 표와 같이 필드에 필드 레이블, 길이 및 필드 이름을 입력합니다.
+1. 아래 표에 표시된 대로 필드의 필드 레이블, 길이 및 필드 이름을 입력합니다.
 
 <table> 
  <thead> 
@@ -79,7 +78,7 @@ Marketo에서는 일련의 필드를 사용하여 특정 종류의 마케팅 관
    <td>점수</td> 
    <td>mkto71_Lead_Score</td> 
    <td>숫자</td> 
-   <td>길이 10<br>소수점 자리 0 </td> 
+   <td>길이 10<br>소수점 이하 자리 수 0 </td> 
   </tr> 
   <tr> 
    <td>획득 날짜</td> 
@@ -98,13 +97,13 @@ Marketo에서는 일련의 필드를 사용하여 특정 종류의 마케팅 관
 
 >[!NOTE]
 >
->Salesforce는 API 이름을 만드는 데 사용할 때 필드 이름에 __c를 추가합니다.
+>Salesforce는 __c를 사용하여 API 이름을 만들면 필드 이름에 추가합니다.
 
 ![](assets/image2016-5-26-14-3a55-3a33.png)
 
 >[!NOTE]
 >
->텍스트 및 번호 필드에는 길이가 필요하지만 날짜/시간 필드는 길이를 설정할 수 없습니다.설명은 선택 사항입니다.
+>텍스트 및 숫자 필드에는 길이가 필요하지만 날짜/시간 필드는 길이하지 않습니다. 설명은 선택 사항입니다.
 
 1. **다음**&#x200B;을 클릭합니다.
 
@@ -114,11 +113,11 @@ Marketo에서는 일련의 필드를 사용하여 특정 종류의 마케팅 관
 
    * 모든 역할을 **Visible** 및 **읽기 전용**&#x200B;으로 설정합니다.
 
-   * 동기화 사용자의 프로필에 대한 **읽기 전용** 확인란의 선택을 취소합니다.
+   * 동기화 사용자의 프로필에 대해 **읽기 전용** 확인란을 선택 취소합니다.
 
-      * 사용자 동기화 사용자로 _시스템 관리자_&#x200B;의 프로파일을 가진 사용자가 있는 경우 시스템 관리자 프로필의 **읽기 전용** 확인란을 선택 취소합니다(아래 참조).
+      * 동기화 사용자로 _시스템 관리자_&#x200B;의 프로필을 가진 사용자가 있는 경우 시스템 관리자 프로필에 대해 **읽기 전용** 확인란을 선택 취소합니다(아래 참조)
 
-      * 동기화 사용자에 대해 _사용자 지정 프로필_&#x200B;을(를) 만든 경우 해당 사용자 지정 프로필의 **읽기 전용** 확인란 선택을 취소합니다
+      * 동기화 사용자에 대해 _사용자 지정 프로필_&#x200B;을 만든 경우 해당 사용자 지정 프로필에 대해 **읽기 전용** 확인란을 선택 취소합니다
 
    ![](assets/image2016-6-30-9-3a25-3a4.png)
 
@@ -126,13 +125,13 @@ Marketo에서는 일련의 필드를 사용하여 특정 종류의 마케팅 관
 
    ![](assets/image2016-5-26-15-3a14-3a45.png)
 
-1. **저장 및 새로 만들기**&#x200B;를 클릭하여 돌아가서 다른 두 사용자 정의 필드를 각각 만듭니다. 3개 모두 완료하면 **저장**&#x200B;을 클릭합니다.
+1. **저장 및 새로 만들기**&#x200B;를 클릭하여 돌아가서 다른 두 사용자 지정 필드를 각각 만듭니다. 세 가지 모두 완료 후 **저장**&#x200B;을 클릭하십시오.
 
    ![](assets/image2016-5-23-15-3a8-3a43.png)
 
-1. 왼쪽의 [빌드] 메뉴에서 **사용자 지정**&#x200B;을 클릭하고 **연락처**&#x200B;를 선택합니다. **필드**&#x200B;를 클릭합니다.
-1. 리드 개체에 대해 수행한 것처럼 연락처 개체의 점수, 획득 날짜 및 획득 프로그램 필드에 대해 3-10단계를 수행합니다.
-1. 이 테이블의 추가 사용자 정의 필드에 대해 위의 절차를 사용할 수도 있습니다.
+1. 왼쪽의 빌드 메뉴에서 **사용자 지정**&#x200B;을 클릭하고 **연락처**&#x200B;를 선택합니다. **필드**&#x200B;를 클릭합니다.
+1. 리드 객체에 대해 수행한 것처럼 연락처 객체의 점수, 획득 날짜 및 획득 프로그램 필드에 대해 3~10단계를 수행합니다.
+1. 이 테이블의 추가 사용자 지정 필드에 대해 위의 절차를 사용합니다(선택적).
 
 <table> 
  <tbody> 
@@ -143,10 +142,10 @@ Marketo에서는 일련의 필드를 사용하여 특정 종류의 마케팅 관
    <th>필드 속성</th> 
   </tr> 
   <tr> 
-   <td>획득 프로그램 ID</td> 
+   <td>획득 프로그램 Id</td> 
    <td>mkto71_Acquisition_Program_Id</td> 
    <td>숫자</td> 
-   <td>길이 18<br>소수점 자리 0 </td> 
+   <td>길이 18<br>소수점 이하 자리 수 0 </td> 
   </tr> 
   <tr> 
    <td>원래 레퍼러</td> 
@@ -155,13 +154,13 @@ Marketo에서는 일련의 필드를 사용하여 특정 종류의 마케팅 관
    <td>길이 255</td> 
   </tr> 
   <tr> 
-   <td>원본 검색 엔진</td> 
+   <td>원래 검색 엔진</td> 
    <td>mkto71_Original_Search_Engine</td> 
    <td>텍스트</td> 
    <td>길이 255</td> 
   </tr> 
   <tr> 
-   <td>원래 검색 구문</td> 
+   <td>원래 검색 구</td> 
    <td>mkto71_Original_Search_Phrase</td> 
    <td>텍스트</td> 
    <td>길이 255</td> 
@@ -180,62 +179,66 @@ Marketo에서는 일련의 필드를 사용하여 특정 종류의 마케팅 관
   </tr> 
   <tr> 
    <td>유추 도시</td> 
-   <td>mkto71_Inhered_City</td> 
+   <td>mkto71_Infined_City</td> 
    <td>텍스트</td> 
    <td>길이 255</td> 
   </tr> 
   <tr> 
    <td>추론된 회사</td> 
-   <td>mkto71_Imined_Company</td> 
+   <td>mkto71_Infined_Company</td> 
    <td>텍스트</td> 
    <td>길이 255</td> 
   </tr> 
   <tr> 
    <td>추론된 국가</td> 
-   <td>mkto71_Inhered_Country</td> 
+   <td>mkto71_Infined_Country</td> 
    <td>텍스트</td> 
    <td>길이 255</td> 
   </tr> 
   <tr> 
-   <td>유추 대도시 영역</td> 
-   <td>mkto71_Inhered_Citizen_Area</td> 
+   <td>유추 수도권</td> 
+   <td>mkto71_Infined_Metropolitan_Area</td> 
    <td>텍스트</td> 
    <td>길이 255</td> 
   </tr> 
   <tr> 
-   <td>유추 전화 영역 코드</td> 
-   <td>mkto71_Inhered_Phone_Area_Code</td> 
+   <td>추론된 전화 영역 코드</td> 
+   <td>mkto71_Infined_Phone_Area_Code</td> 
    <td>텍스트</td> 
    <td>길이 255</td> 
   </tr> 
   <tr> 
    <td>유추 우편 번호</td> 
-   <td>mkto71_Inhered_Postal_Code</td> 
+   <td>mkto71_Infined_Postal_Code</td> 
    <td>텍스트</td> 
    <td>길이 255</td> 
   </tr> 
   <tr> 
-   <td>유추 상태 영역</td> 
-   <td>mkto71_Inhered_State_Region</td> 
+   <td>유추 주 지역</td> 
+   <td>mkto71_Infined_State_Region</td> 
    <td>텍스트</td> 
    <td>길이 255</td> 
   </tr> 
  </tbody> 
 </table>
 
-## 전환에 대한 사용자 지정 필드 매핑 {#map-custom-fields-for-conversions}
+>[!NOTE]
+>
+>새 필드를 만들 때 Marketo에서 자동으로 할당한 필드의 값은 Salesforce에서 즉시 사용할 수 없습니다. Marketo은 두 시스템의 레코드에 대한 다음 업데이트(즉, Marketo과 Salesforce 간에 동기화된 필드에 대한 업데이트)에 데이터를 Salesforce에 동기화합니다.
 
-Salesforce의 리드 개체에 있는 사용자 정의 필드를 연락처 개체의 연락처 필드에 매핑하여 전환이 발생할 때 데이터를 전달해야 합니다.
+## 전환을 위한 사용자 지정 필드 매핑  {#map-custom-fields-for-conversions}
+
+Salesforce의 리드 개체에 있는 사용자 지정 필드를 연락처 개체의 연락처 필드에 매핑하여 전환이 발생할 때 데이터가 전달되도록 해야 합니다.
 
 1. 오른쪽 상단 모서리에서 설정을 클릭합니다.
 
    ![](assets/image2016-5-26-16-3a34-3a0.png)
 
-1. Enter 키를 누르지 않고 탐색 검색에 &quot;fields&quot;를 입력합니다. 필드가 다른 개체 아래에 나타납니다.리드 아래의 필드를 클릭합니다.
+1. Enter 키를 누르지 않고 탐색 검색에 &quot;fields&quot;를 입력합니다. 필드가 다른 개체 아래에 나타납니다. 리드 아래의 필드 를 클릭합니다.
 
    ![](assets/image2016-5-26-16-3a36-3a32.png)
 
-1. 리드 사용자 지정 필드 및 관계 섹션으로 이동하여 리드 필드 매핑을 클릭합니다.
+1. 리드 사용자 지정 필드 및 관계 섹션으로 이동하고 리드 필드 매핑 을 클릭합니다.
 
    ![](assets/image2016-5-26-16-3a39-3a29.png)
 
@@ -243,19 +246,19 @@ Salesforce의 리드 개체에 있는 사용자 정의 필드를 연락처 개�
 
    ![](assets/image2016-5-26-16-3a49-3a53.png)
 
-1. 해당 연락처 사용자 정의 필드를 선택합니다.
+1. 해당 연락처 사용자 지정 필드를 선택합니다.
 
    ![](assets/image2016-5-26-16-3a56-3a23.png)
 
 1. 만든 다른 필드에 대해 위의 단계를 반복합니다.
-1. 완료되면 저장을 클릭합니다.
+1. 완료되면 저장 을 클릭합니다.
 
 충분히 쉽죠?
 
 >[!NOTE]
 >
->전체 프로세스](https://nation.marketo.com/videos/1475)의 [비디오를 보면 아주 명확한 결과를 얻을 수 있습니다.
+>다음은 전체 프로세스](https://nation.marketo.com/videos/1475)의 [비디오로서, 이 비디오의 내용을 명확히 해야 합니다.
 
 >[!MORELIKETHIS]
 >
->[3단계 중 2단계:Marketo용 Salesforce 사용자 만들기(Professional)](/help/marketo/product-docs/crm-sync/salesforce-sync/setup/professional-edition/step-2-of-3-create-a-salesforce-user-for-marketo-professional.md)
+>[3단계 중 2단계: Marketo용 Salesforce 사용자 만들기(Professional)](/help/marketo/product-docs/crm-sync/salesforce-sync/setup/professional-edition/step-2-of-3-create-a-salesforce-user-for-marketo-professional.md)
