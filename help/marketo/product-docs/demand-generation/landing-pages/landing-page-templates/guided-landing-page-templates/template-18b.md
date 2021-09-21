@@ -5,7 +5,7 @@ title: 템플릿 18B
 exl-id: a0bb1104-a905-4285-895b-df515449db89
 source-git-commit: dbacd9b8e028872a1fa91e450a8e2dd338edd34d
 workflow-type: tm+mt
-source-wordcount: '59'
+source-wordcount: '0'
 ht-degree: 0%
 
 ---
