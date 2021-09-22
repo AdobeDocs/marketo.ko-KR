@@ -3,9 +3,9 @@ description: 구성 - Marketo 문서 - 제품 설명서
 title: 구성
 hide: true
 hidefromtoc: true
-source-git-commit: c6713c972603ab9528a66e908e47e4c187b86c0c
+source-git-commit: d5c1c1d0ce2a521898eaa4f6610bf1ce04b4f66b
 workflow-type: tm+mt
-source-wordcount: '232'
+source-wordcount: '277'
 ht-degree: 0%
 
 ---
@@ -26,7 +26,7 @@ PICC(전체 차트)
 
 **스타일**
 
-스타일을 사용하면 원하는 색상, 차트 상자 앵커 위치/패딩 및 글꼴 유형/크기를 선택할 수 있습니다.
+여기에서는 다음과 같이 대화 상자가 표시되는 채트봇의 모양과 느낌을 정의할 수 있습니다. 보트 위젯의 색상, 글꼴, 배치 및 차트 보트의 이름/아바타입니다.
 
 각 카테고리의 색상은 [16진수 색상 값](https://color.adobe.com/create/color-wheel)(예: white = #ffffff, red = #bf1932 등)에 의해 결정됩니다.
 
@@ -50,13 +50,13 @@ PICC
 
 ## 개인 정보 탭 {#privacy-tab}
 
-**개인 정보 보호** 탭을 클릭하여 사이트 개인 정보 보호 정책의 URL을 추가/편집합니다.
+**개인 정보 보호** 탭을 클릭하여 사이트 개인 정보 보호 정책의 URL을 추가/편집합니다(선택 사항).
 
 PICC
 
 ## 설치 탭 {#installation-tab}
 
-웹 개발 팀이 웹 사이트에 배치할 스크립트를 선택하려면 **설치** 탭을 클릭하십시오.
+chatbot가 웹 사이트에 표시되도록 하려면 먼저 Dynamic Chat JavaScript 코드 조각을 설치해야 합니다. 필요한 코드를 찾거나 복사하려면 이 탭을 클릭하십시오. 이 작업에 익숙하지 않은 경우 웹 팀이나 IT 부서에 문의하여 지원을 받으십시오.
 
 PICC
 

@@ -3,9 +3,9 @@ unique-page-id: 10100311
 description: 구독 로그인에 범용 ID 사용 - Marketo 문서 - 제품 설명서
 title: 구독 로그인에 범용 ID 사용
 exl-id: 75cf1323-0468-49e9-83ca-e55aa30744ac
-source-git-commit: 591279dfb573853eb8781d7984c65716804120b0
+source-git-commit: d5c1c1d0ce2a521898eaa4f6610bf1ce04b4f66b
 workflow-type: tm+mt
-source-wordcount: '604'
+source-wordcount: '586'
 ht-degree: 0%
 
 ---
@@ -20,7 +20,7 @@ Universal ID를 사용해도 여전히 각 개별 구독에 대한 지원 티켓
 
 ## 범용 ID 설정 {#setting-up-a-universal-id}
 
-각 개별 인스턴스에서 Marketo 관리자가 동일한 로그인을 사용하는 각 서로 다른 구독에 사용자를 초대해야 합니다. Marketo은 기존 로그인을 자동으로 병합할 수 없습니다. 범용 ID를 활성화하면 최대 30분 동안 **Marketo 인스턴스를 사용할 수 없습니다.** 사용자 기반이 더 큰 경우 약간 더 길어질 수 있습니다.
+모든 Marketo 구독에는 선택적 범용 ID 기능이 포함되어 있습니다. 각 개별 인스턴스에서 Marketo 관리자가 동일한 로그인을 사용하는 각 서로 다른 구독에 사용자를 초대해야 합니다. Marketo은 기존 로그인을 자동으로 병합할 수 없습니다.
 
 >[!NOTE]
 >
