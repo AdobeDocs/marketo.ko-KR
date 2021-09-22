@@ -3,9 +3,9 @@ description: 초기 설정 - Marketo 문서 - 제품 설명서
 title: 초기 설정
 hide: true
 hidefromtoc: true
-source-git-commit: d5c1c1d0ce2a521898eaa4f6610bf1ce04b4f66b
+source-git-commit: d427bc129939dd15ce33797d1ef5ea56992bcb40
 workflow-type: tm+mt
-source-wordcount: '136'
+source-wordcount: '138'
 ht-degree: 0%
 
 ---
@@ -20,11 +20,11 @@ ht-degree: 0%
 
 1. Marketo 인스턴스에 대해 동적 채트가 활성화되면 지정된 시스템 관리자가 환영 이메일을 받게 됩니다. 해당 이메일에서 **시작하기**&#x200B;를 클릭합니다.
 
-   ![](assets/picture.png)
+   PICC
 
 1. 이전에 Adobe ID으로 애플리케이션에 액세스한 적이 있는 경우 Adobe Admin Console으로 바로 이동합니다. 그렇지 않으면 [Adobe ID](https://helpx.adobe.com/manage-account/using/create-update-adobe-id.html)을 설정합니다.
 
-   ![](assets/picture.png)
+   PICC
 
 1. 사용자 추가(따라야 하는 단계)
 
