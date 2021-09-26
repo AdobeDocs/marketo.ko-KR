@@ -3,9 +3,9 @@ description: 동적 채팅 개요 - Marketo 문서 - 제품 설명서
 title: 동적 채팅 개요
 hide: true
 hidefromtoc: true
-source-git-commit: d5c1c1d0ce2a521898eaa4f6610bf1ce04b4f66b
+source-git-commit: ff69a50bc725e5092ba1162a3981b129fefd0c8a
 workflow-type: tm+mt
-source-wordcount: '606'
+source-wordcount: '576'
 ht-degree: 0%
 
 ---
@@ -78,17 +78,9 @@ PICC?
 
 -네? LOL—
 
-**채팅 보트를 CSS로 스타일화할 수 있습니까?**
-
-현재 차트 봇에는 CSS를 사용하여 스타일을 지정할 수 없습니다.
-
-**사용자 정의 글꼴 옵션을 사용할 수 있습니까?**
-
-현재 사전 설정된 글꼴 옵션만 사용할 수 있습니다.
-
 **Dynamic Chat에서 실시간 채팅을 허용합니까?**
 
-아니요, 미리 결정된 응답만 사용합니다.
+아니요, 사전 결정된 응답만 사용합니다.
 
 **AI/NLP 기능을 지원합니까?**
 
