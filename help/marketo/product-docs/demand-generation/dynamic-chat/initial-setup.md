@@ -3,9 +3,9 @@ description: 초기 설정 - Marketo 문서 - 제품 설명서
 title: 초기 설정
 hide: true
 hidefromtoc: true
-source-git-commit: 50effc2aa1fc94251b4b75bec6dcc34bf3df8a2c
+source-git-commit: fe4a4b89ee295d8e351587a5ac858806a83f1305
 workflow-type: tm+mt
-source-wordcount: '176'
+source-wordcount: '0'
 ht-degree: 0%
 
 ---
@@ -34,7 +34,7 @@ ht-degree: 0%
 
 ## Marketo에서 권한 추가 {#add-permissions-in-marketo}
 
-Admin Console에서 사용자를 추가한 후에는 Marketo에서 권한을 부여해야 합니다.
+Admin Console에서 사용자를 추가한 후에는 Marketo에서 Marketo의 동적 채팅 바로 가기에 액세스할 수 있도록 권한을 부여해야 합니다.
 
 1. Marketo에서 **관리**&#x200B;를 클릭합니다.
 
@@ -46,4 +46,4 @@ Admin Console에서 사용자를 추가한 후에는 Marketo에서 권한을 부
 >
 >위에 나열된 순서에 따라 단계를 수행해야 합니다. 먼저 Marketo에서 권한이 부여된 사람이 있으면 동적 채팅 타일이 표시되지만 사용자 액세스 권한이 없습니다.
 
-다음 단계는 [Dynamic Chat](/help/marketo/product-docs/demand-generation/dynamic-chat/access-dynamic-chat.md)에 액세스하는 것입니다.
+다음 단계는 [Marketo에 Dynamic Chat 연결](/help/marketo/product-docs/demand-generation/dynamic-chat/connect-dynamic-chat-to-marketo.md)입니다.

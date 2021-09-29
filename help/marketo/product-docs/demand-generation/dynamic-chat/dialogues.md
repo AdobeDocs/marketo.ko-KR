@@ -3,9 +3,9 @@ description: 대화 상자 - Marketo 문서 - 제품 설명서
 title: 대화 상자
 hide: true
 hidefromtoc: true
-source-git-commit: 8252a1a7cb32227eeae754e37386d975c4ed8884
+source-git-commit: fe4a4b89ee295d8e351587a5ac858806a83f1305
 workflow-type: tm+mt
-source-wordcount: '752'
+source-wordcount: '0'
 ht-degree: 0%
 
 ---
@@ -30,7 +30,7 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->우선순위 레벨은 대화 상자가 목록에서 나타나는 위치를 결정합니다(예: 우선 순위 1은(가 맨 위에 있음)
+>우선 순위는 방문자가 여러 대화 상자에 동시에 적합한 경우 방문자에게 표시할 대화 상자를 결정합니다.
 
 ## 대상 기준 {#audience-criteria}
 

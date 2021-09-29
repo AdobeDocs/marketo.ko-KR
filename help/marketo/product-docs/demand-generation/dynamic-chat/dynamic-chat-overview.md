@@ -3,9 +3,9 @@ description: 동적 채팅 개요 - Marketo 문서 - 제품 설명서
 title: 동적 채팅 개요
 hide: true
 hidefromtoc: true
-source-git-commit: 8ef7611e9a6b9756d35a9c8fbd439f25f5c714be
+source-git-commit: fe4a4b89ee295d8e351587a5ac858806a83f1305
 workflow-type: tm+mt
-source-wordcount: '509'
+source-wordcount: '0'
 ht-degree: 0%
 
 ---
@@ -16,11 +16,17 @@ Dynamic Chat를 사용하면 사용하기 쉬운 인터페이스를 활용하여
 
 >[!NOTE]
 >
->현재 DATE별로 액세스할 수 있으므로 모든 구독과 함께 동적 채트가 롤아웃되고 있습니다.
+>다이내믹 채트는 2022년 봄까지 모든 구독이 접속되어 단계적으로 출시되는 중입니다. 자세한 내용은 고객 성공 관리자에게 문의하십시오.
 
 ## 통합 {#integrations}
 
-Dynamic Chat의 주요 구성 요소는 Marketo 구독과 기본적으로 연결할 수 있는 기능입니다. 이 통합의 전체 기능을 활용하려면 먼저 데이터 동기화를 시작해야 합니다. 처음 [1회 동기화](/help/marketo/product-docs/demand-generation/dynamic-chat/access-dynamic-chat.md)를 완료하는 데 최대 24시간이 걸릴 수 있습니다.
+Dynamic Chat의 주요 구성 요소는 Marketo 구독과 기본적으로 연결할 수 있는 기능입니다. 이 통합의 전체 기능을 활용하려면 먼저 데이터 동기화를 시작해야 합니다. Marketo 데이터베이스의 크기에 따라 초기 데이터, [1회 동기화](/help/marketo/product-docs/demand-generation/dynamic-chat/access-dynamic-chat.md)가 완료되는 데 최대 24시간이 걸릴 수 있습니다. 평균 동기화 시간이 2시간 미만입니다.
+
+다음 항목이 동기화됩니다.
+
+* 리드 필드 데이터
+* 회사 필드 데이터
+* 활동 데이터
 
 ## 대화 상자 {#dialogues}
 
