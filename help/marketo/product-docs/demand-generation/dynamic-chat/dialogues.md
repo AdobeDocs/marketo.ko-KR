@@ -3,16 +3,16 @@ description: 대화 상자 - Marketo 문서 - 제품 설명서
 title: 대화 상자
 hide: true
 hidefromtoc: true
-source-git-commit: bea169db9e2dd12f95b2a19aa9f922819770fc95
+source-git-commit: d915a51337f9dbbccc924fd8f7e69257be39f4ef
 workflow-type: tm+mt
-source-wordcount: '605'
+source-wordcount: '745'
 ht-degree: 0%
 
 ---
 
 # 대화 상자 {#dialogues}
 
-대화 상자는 사용자가 설정할 개별 채팅 대화입니다. 시각적으로 사용자 지정하고, 페이지가 표시되는 페이지를 결정하며, 표시되는 페이지와 이를 보는 사용자를 결정하는 방법을 알아봅니다.
+대화 상자는 개별 채팅 대화입니다. 시각적으로 사용자 지정하고, 페이지가 표시되는 페이지를 결정하며, 표시되는 페이지와 이를 보는 사용자를 결정하는 방법을 알아봅니다.
 
 ## 새 대화 상자 만들기 {#create-a-new-dialogue}
 
@@ -30,7 +30,7 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->우선순위 레벨은 대화 상자가 목록에서 나타나는 위치를 결정합니다(예: priority = 1은(가) 맨 위에 있음을 의미합니다.)
+>우선순위 레벨은 대화 상자가 목록에서 나타나는 위치를 결정합니다(예: 우선 순위 1은(가 맨 위에 있음)
 
 ## 대상 기준 {#audience-criteria}
 
@@ -82,7 +82,7 @@ Marketo 스마트 목록과 유사한 대상 기준 속성을 사용하여 타�
 
    >[!NOTE]
    >
-   >추론된 설명.
+   >누군가 웹 사이트를 방문하면 [Munchkin](/help/marketo/product-docs/administration/additional-integrations/add-munchkin-tracking-code-to-your-website.md)이 쿠키를 쿠키로 사용하여 시스템에 넣습니다. 특수 데이터베이스에서 IP를 조회하고 모든 종류의 좋은 정보를 추론합니다.
 
 1. __ Isis는 기본적으로 설정되어 있습니다. 값 선택 필드에 NY를 입력합니다(드롭다운을 클릭하고 목록에서 선택할 수도 있음).
 
@@ -137,8 +137,38 @@ Marketo 스마트 목록과 유사한 대상 기준 속성을 사용하여 타�
  </tr>
 </table>
 
-아래에 예를 보여줍니다.
+**스트림 만들기**
+
+만들 _많은_ 스트림 조합이 있습니다. 이 예제에서는 질문하고 준비하겠습니다.
 
 ## 보고서 {#reports}
 
-텍스트
+보고서 탭에서 지난 90일의 데이터를 봅니다. 각 카테고리는 아래에 정의되어 있습니다.
+
+<table>
+ <tr>
+  <td><strong>총 트리거됨</strong></td>
+  <td>방문자가 자격을 얻거나 대화 상자를 표시할 때마다 증가합니다.
+</td>
+ </tr>
+ <tr>
+  <td><strong>참여</strong></td>
+  <td>방문자가 chatbot 앵커를 클릭하여 대화 상자를 열 때마다 증가합니다.</td>
+ </tr>
+ <tr>
+  <td><strong>완료됨</strong></td>
+  <td>방문자가 대화 상자의 모든 분기 끝에 도달할 때마다 증가합니다.</td>
+ </tr>
+ <tr>
+  <td><strong>캡처된 리드</strong></td>
+  <td>방문자가 대화 상자 흐름에서 유효한 이메일 주소를 제공할 때마다 증가합니다.</td>
+ </tr>
+ <tr>
+  <td><strong>예약된 모임</strong></td>
+  <td>방문자가 chatbot을 통해 약속을 성공적으로 예약할 때마다 증가합니다.</td>
+ </tr>
+ <tr>
+  <td><strong>목표 달성</strong></td>
+  <td>방문자가 모든 대화 상자 흐름에서 목표에 도달할 때마다 증가합니다.</td>
+ </tr>
+</table>
