@@ -3,9 +3,9 @@ description: 대화 상자 - Marketo 문서 - 제품 설명서
 title: 대화 상자
 hide: true
 hidefromtoc: true
-source-git-commit: d915a51337f9dbbccc924fd8f7e69257be39f4ef
+source-git-commit: 8252a1a7cb32227eeae754e37386d975c4ed8884
 workflow-type: tm+mt
-source-wordcount: '745'
+source-wordcount: '752'
 ht-degree: 0%
 
 ---
@@ -139,7 +139,9 @@ Marketo 스마트 목록과 유사한 대상 기준 속성을 사용하여 타�
 
 **스트림 만들기**
 
-만들 _많은_ 스트림 조합이 있습니다. 이 예제에서는 질문하고 준비하겠습니다.
+만들 _많은_ 스트림 조합이 있습니다. 이 예제에서는 yes 또는 no 질문을 하고 몇 가지 응답을 준비합니다.
+
+예
 
 ## 보고서 {#reports}
 
