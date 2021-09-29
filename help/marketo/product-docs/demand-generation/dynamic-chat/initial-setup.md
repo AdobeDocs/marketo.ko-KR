@@ -3,16 +3,18 @@ description: 초기 설정 - Marketo 문서 - 제품 설명서
 title: 초기 설정
 hide: true
 hidefromtoc: true
-source-git-commit: d427bc129939dd15ce33797d1ef5ea56992bcb40
+source-git-commit: 50effc2aa1fc94251b4b75bec6dcc34bf3df8a2c
 workflow-type: tm+mt
-source-wordcount: '138'
+source-wordcount: '176'
 ht-degree: 0%
 
 ---
 
 # 초기 설정 {#initial-setup}
 
-소개 텍스트
+## 액세스 Admin Console {#access-admin-console}
+
+아래 절차에 따라 다이내믹 채팅을 설정하십시오.
 
 >[!NOTE]
 >
@@ -20,16 +22,28 @@ ht-degree: 0%
 
 1. Marketo 인스턴스에 대해 동적 채트가 활성화되면 지정된 시스템 관리자가 환영 이메일을 받게 됩니다. 해당 이메일에서 **시작하기**&#x200B;를 클릭합니다.
 
-   PICC
+   ![](assets/initial-setup-1.png)
 
 1. 이전에 Adobe ID으로 애플리케이션에 액세스한 적이 있는 경우 Adobe Admin Console으로 바로 이동합니다. 그렇지 않으면 [Adobe ID](https://helpx.adobe.com/manage-account/using/create-update-adobe-id.html)을 설정합니다.
 
-   PICC
+   ![](assets/initial-setup-2.png)
 
-1. 사용자 추가(따라야 하는 단계)
+## 사용자 추가 {#add-users}
 
-두 번째 작업 단계 - Marketo에 있음 - Admin Console에서 사용자를 추가한 후 Marketo(사용자 및 역할)으로 돌아가서 모든 에이전트에 DC 권한을 추가합니다. [ACCEPTED LATE OCT(1/1)]
+1. Admin Console에 로그인한 후 다음을 수행합니다. 이 프로세스 [가 여기](/help/marketo/product-docs/demand-generation/dynamic-chat/add-or-remove-chat-users.md#add-a-chat-user)에 설명되어 있습니다.
 
->[!NOTE]
+## Marketo에서 권한 추가 {#add-permissions-in-marketo}
+
+Admin Console에서 사용자를 추가한 후에는 Marketo에서 권한을 부여해야 합니다.
+
+1. Marketo에서 **관리**&#x200B;를 클릭합니다.
+
+1. 원하는 사용자를 찾아 두 번 클릭합니다.
+
+1. **다이내믹 채팅**&#x200B;에 액세스하고 **저장**&#x200B;을 클릭합니다.
+
+>[!IMPORTANT]
 >
->나열된 순서대로 단계를 따르십시오. 먼저 Marketo에서 권한이 부여된 사람이 있으면 동적 채팅 타일이 표시되지만 사용자 액세스 권한이 없습니다.
+>위에 나열된 순서에 따라 단계를 수행해야 합니다. 먼저 Marketo에서 권한이 부여된 사람이 있으면 동적 채팅 타일이 표시되지만 사용자 액세스 권한이 없습니다.
+
+다음 단계는 [Dynamic Chat](/help/marketo/product-docs/demand-generation/dynamic-chat/access-dynamic-chat.md)에 액세스하는 것입니다.

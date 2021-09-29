@@ -3,9 +3,9 @@ description: 개요 - Marketo 문서 - 제품 설명서
 title: 개요
 hide: true
 hidefromtoc: true
-source-git-commit: 306e08b08bf63fe51778dc51ccb9cb971fed2f4b
+source-git-commit: 8ef7611e9a6b9756d35a9c8fbd439f25f5c714be
 workflow-type: tm+mt
-source-wordcount: '658'
+source-wordcount: '671'
 ht-degree: 0%
 
 ---
@@ -98,3 +98,9 @@ Adobe IMS는 현재 Marketo의 장치 인증 기능과 같은 것을 지원하�
 **Adobe IMS의 경우 Adobe ID, Enterprise ID 또는 Federated ID을 사용할 수 있는 옵션이 있습니까?**
 
 예, 조직을 지원할 ID 유형을 결정합니다. 추가 정보 [여기](https://helpx.adobe.com/enterprise/using/identity.html) 및 [여기](https://helpx.adobe.com/enterprise/using/set-up-identity.html)입니다.
+
+>[!MORELIKETHIS]
+>
+>* [관리 설정](/help/marketo/product-docs/administration/marketo-with-adobe-identity/admin-setup.md)
+>* [제품 관리자 추가 또는 제거](/help/marketo/product-docs/administration/marketo-with-adobe-identity/add-or-remove-a-product-admin.md)
+>* [사용자 추가 또는 제거](/help/marketo/product-docs/administration/marketo-with-adobe-identity/add-or-remove-a-user.md)

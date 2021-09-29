@@ -3,9 +3,9 @@ description: 대화 상자 - Marketo 문서 - 제품 설명서
 title: 대화 상자
 hide: true
 hidefromtoc: true
-source-git-commit: d5c1c1d0ce2a521898eaa4f6610bf1ce04b4f66b
+source-git-commit: 50effc2aa1fc94251b4b75bec6dcc34bf3df8a2c
 workflow-type: tm+mt
-source-wordcount: '504'
+source-wordcount: '523'
 ht-degree: 0%
 
 ---
@@ -30,7 +30,7 @@ PICC
 
 >[!NOTE]
 >
->우선순위 수준 설명
+>우선 순위 레벨은 대화 상자가 목록에서 표시되는 위치를 결정합니다(예: priority = 1은(가) 맨 위에 있음을 의미합니다.)
 
 ## 대상 기준 {#audience-criteria}
 
@@ -114,3 +114,7 @@ PICC
 가능한 자체 섹션
 
 아래에 예를 보여줍니다.
+
+## 보고서 {#reports}
+
+텍스트
