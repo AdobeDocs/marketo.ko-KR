@@ -3,9 +3,9 @@ description: 동적 채팅 개요 - Marketo 문서 - 제품 설명서
 title: 동적 채팅 개요
 hide: true
 hidefromtoc: true
-source-git-commit: afc7c8352b4470bfc367f3d16836fb14d55b8821
+source-git-commit: b6f0b24ef1e9cece06f44ae11d432291b8ac0425
 workflow-type: tm+mt
-source-wordcount: '550'
+source-wordcount: '0'
 ht-degree: 0%
 
 ---
@@ -16,7 +16,7 @@ Dynamic Chat를 사용하면 사용하기 쉬운 인터페이스를 활용하여
 
 >[!NOTE]
 >
->다이내믹 채트는 2022년 봄까지 모든 구독이 접속되어 단계적으로 출시되는 중입니다. 자세한 내용은 고객 성공 관리자에게 문의하십시오.
+>Dynamic Chat는 서서히 롤아웃되는 중입니다. 현재 제한된 가용성을 유지하고 있습니다. 이 페이지는 사용 가능한 GA(General Availability) 세부 정보로 업데이트됩니다.
 
 ## 통합 {#integrations}
 
