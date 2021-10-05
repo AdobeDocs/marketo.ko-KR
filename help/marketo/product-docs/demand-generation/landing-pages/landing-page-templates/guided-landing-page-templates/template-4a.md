@@ -3,16 +3,16 @@ unique-page-id: 8162237
 description: 템플릿 4A - Marketo 문서 - 제품 설명서
 title: 템플릿 4A
 exl-id: a20817e4-dbdd-4f08-9b4e-602da6b75d70
-source-git-commit: df197322c7bdafb695b532bce51802961e453335
+source-git-commit: bfcd66388b0d77cf3f1743b0778026a1e5a1ec61
 workflow-type: tm+mt
-source-wordcount: '59'
+source-wordcount: '61'
 ht-degree: 0%
 
 ---
 
 # 템플릿 4A {#template-4a}
 
-[템플릿 4A 다운로드](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-4a.html)
+마우스 오른쪽 단추를 클릭하여 [템플릿 4A](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-4a.html) 다운로드
 
 ![](assets/image2015-6-29-16-3a2-3a6.png)
 
@@ -26,6 +26,6 @@ ht-degree: 0%
 * 5개의 본문 섹션(선택 사항)
 * 바닥글(선택 사항)
 
-**이 템플릿을 다운로드하려면 아래 를 클릭하십시오.**
+**이 템플릿을 다운로드하려면 아래 마우스 오른쪽 단추를 클릭하십시오.**
 
 [템플릿 4A.html](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-4a.html)

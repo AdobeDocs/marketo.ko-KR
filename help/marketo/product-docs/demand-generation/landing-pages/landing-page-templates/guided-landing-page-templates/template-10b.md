@@ -3,16 +3,16 @@ unique-page-id: 8784002
 description: 템플릿 10B - Marketo 문서 - 제품 설명서
 title: 템플릿 10B
 exl-id: 6c99a6cd-6c6f-45a3-aed0-b7a0c198dffe
-source-git-commit: df197322c7bdafb695b532bce51802961e453335
+source-git-commit: bfcd66388b0d77cf3f1743b0778026a1e5a1ec61
 workflow-type: tm+mt
-source-wordcount: '61'
+source-wordcount: '0'
 ht-degree: 0%
 
 ---
 
 # 템플릿 10B {#template-10b}
 
-[템플릿 10B 다운로드](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-10b.html)
+마우스 오른쪽 단추를 클릭하여 [템플릿 10B](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-10b.html) 다운로드
 
 ![](assets/image2015-7-27-10-3a48-3a23.png)
 
@@ -25,6 +25,6 @@ ht-degree: 0%
 * 세 개의 본문 섹션(선택 사항)
 * 바닥글(선택 사항)
 
-**이 템플릿을 다운로드하려면 아래 를 클릭하십시오.**
+**이 템플릿을 다운로드하려면 아래 마우스 오른쪽 단추를 클릭하십시오.**
 
 [템플릿 10B.html](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-10b.html)

@@ -3,16 +3,16 @@ unique-page-id: 10092893
 description: 템플릿 19B - Marketo 문서 - 제품 설명서
 title: 템플릿 19B
 exl-id: 8224c9ad-b732-4a75-9966-446980db55ef
-source-git-commit: dbacd9b8e028872a1fa91e450a8e2dd338edd34d
+source-git-commit: bfcd66388b0d77cf3f1743b0778026a1e5a1ec61
 workflow-type: tm+mt
-source-wordcount: '58'
+source-wordcount: '60'
 ht-degree: 0%
 
 ---
 
 # 템플릿 19B {#template-19b}
 
-[템플릿 19B 다운로드](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-19b.html)
+마우스 오른쪽 단추를 클릭하여 [템플릿 19B](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-19b.html) 다운로드
 
 ![](assets/image2015-9-16-16-3a49-3a50.png)
 
@@ -25,6 +25,6 @@ ht-degree: 0%
 * 5개의 본문 섹션(선택 사항)
 * 바닥글(선택 사항)
 
-**이 템플릿을 다운로드하려면 아래 를 클릭하십시오.**
+**이 템플릿을 다운로드하려면 아래 마우스 오른쪽 단추를 클릭하십시오.**
 
 [템플릿 19B.html](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-19b.html)

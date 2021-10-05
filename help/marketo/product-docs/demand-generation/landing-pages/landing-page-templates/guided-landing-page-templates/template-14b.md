@@ -3,16 +3,16 @@ unique-page-id: 9437804
 description: 템플릿 14B - Marketo 문서 - 제품 설명서
 title: 템플릿 14B
 exl-id: 04ec95f6-a657-4cb4-96dd-a65ad3720441
-source-git-commit: dbacd9b8e028872a1fa91e450a8e2dd338edd34d
+source-git-commit: bfcd66388b0d77cf3f1743b0778026a1e5a1ec61
 workflow-type: tm+mt
-source-wordcount: '60'
+source-wordcount: '0'
 ht-degree: 0%
 
 ---
 
 # 템플릿 14B {#template-14b}
 
-[템플릿 14B 다운로드](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-14b.html)
+마우스 오른쪽 단추를 클릭하여 [템플릿 14B](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-14b.html) 다운로드
 
 ![](assets/image2015-8-11-15-3a42-3a35.png)
 
@@ -26,6 +26,6 @@ ht-degree: 0%
 * 5개의 본문 섹션(선택 사항)
 * 바닥글(선택 사항)
 
-**이 템플릿을 다운로드하려면 아래 를 클릭하십시오.**
+**이 템플릿을 다운로드하려면 아래 마우스 오른쪽 단추를 클릭하십시오.**
 
 [템플릿 14B.html](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-14b.html)
