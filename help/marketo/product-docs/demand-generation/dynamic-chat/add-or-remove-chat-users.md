@@ -3,7 +3,7 @@ description: 채팅 사용자 추가 또는 제거 - Marketo 문서 - 제품 설
 title: 채팅 사용자 추가 또는 제거
 hide: true
 hidefromtoc: true
-source-git-commit: 4984b82ed9de2684d1be3f9444d5685b8b1a03d1
+source-git-commit: c8da1162177e91313e9a1cd67e78caf79dd991ef
 workflow-type: tm+mt
 source-wordcount: '186'
 ht-degree: 0%
@@ -26,7 +26,7 @@ ht-degree: 0%
 
    >[!NOTE]
    >
-   >Marketo 구독이 두 개 이상 있는 경우 다음 단계 전에 원하는 구독을 선택하십시오.)
+   >Marketo 구독이 두 개 이상 있는 경우 다음 단계 전에 원하는 구독을 선택하십시오.
 
 1. **사용자** 탭을 클릭합니다.
 

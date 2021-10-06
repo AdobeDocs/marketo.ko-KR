@@ -3,9 +3,9 @@ audience: end-user
 user-guide-title: Marketo 안내서
 user-guide-description: Marketo 제품 설명서
 feature-set: Marketo Engage
-source-git-commit: fe4a4b89ee295d8e351587a5ac858806a83f1305
+source-git-commit: c8da1162177e91313e9a1cd67e78caf79dd991ef
 workflow-type: tm+mt
-source-wordcount: '8104'
+source-wordcount: '8029'
 ht-degree: 0%
 
 ---
@@ -18,7 +18,7 @@ ht-degree: 0%
    + [시작하기](getting-started.md)
    + [Adobe Marketo Engage 소개](getting-started/what-is-adobe-marketo-engage.md)
    + [Marketo 용어](getting-started/marketo-glossary.md)
-   + [아이콘 용어집](getting-started/icon-glossary.md)
+   + [클래식 아이콘 용어집](getting-started/classic-icon-glossary.md)
    + {#setup} 설정
       + [설정 단계](getting-started/setup-steps.md)
       + [설정 검사 목록](getting-started/setup-steps/setup-checklist.md)
@@ -137,8 +137,8 @@ ht-degree: 0%
          + [전역 양식 유효성 검사 규칙](product-docs/administration/setup-administration/global-form-validation-rule.md)
       + 추가 통합 {#additional-integrations}
          + [Adobe Connect as a LaunchPoint Service 추가](product-docs/administration/additional-integrations/add-adobe-connect-as-a-launchpoint-service.md)
-         + [Manager 계정을 사용하여 Google AdWords를 Launchpoint 서비스로 추가](product-docs/administration/additional-integrations/add-google-adwords-as-a-launchpoint-service-with-a-manager-account.md)
-         + [Google AdWords를 LaunchPoint 서비스로 추가](product-docs/administration/additional-integrations/add-google-adwords-as-a-launchpoint-service.md)
+         + [관리자 계정을 사용하여 Google AdWords를 Launchpoint 서비스로 추가](product-docs/administration/additional-integrations/add-google-adwords-as-a-launchpoint-service-with-a-manager-account.md)
+         + [Google AdWords as a LaunchPoint Service 추가](product-docs/administration/additional-integrations/add-google-adwords-as-a-launchpoint-service.md)
          + [LaunchPoint 서비스로 GoToWebinar 추가](product-docs/administration/additional-integrations/add-gotowebinar-as-a-launchpoint-service.md)
          + [수준 3 웹 모임을 LaunchPoint 서비스로 추가](product-docs/administration/additional-integrations/add-level-3-web-meeting-as-a-launchpoint-service.md)
          + [웹 사이트에 Munchkin 추적 코드 추가](product-docs/administration/additional-integrations/add-munchkin-tracking-code-to-your-website.md)
@@ -538,7 +538,7 @@ ht-degree: 0%
                + [3단계 중 3단계: Microsoft Dynamics와 Marketo 연결(온라인)](product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/microsoft-dynamics-365/step-3-of-3-connect.md)
             + Dynamics {#set-up-oauth-authentication-for-dynamics}에 대한 OAuth 인증 설정
                + [클라이언트 ID 및 앱 등록에 대한 동의 부여](product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/set-up-oauth-authentication-for-dynamics/grant-consent-for-client-id-and-app-registration.md)
-               + [온라인 상태용 Microsoft Dynamics CRM 앱 설정](product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/set-up-oauth-authentication-for-dynamics/set-up-microsoft-dynamics-crm-app-for-online.md)
+               + [온라인용 Microsoft Dynamics CRM 앱 설정](product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/set-up-oauth-authentication-for-dynamics/set-up-microsoft-dynamics-crm-app-for-online.md)
                + [On-prem용 Microsoft Dynamics CRM 앱 설정](product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/set-up-oauth-authentication-for-dynamics/set-up-microsoft-dynamics-crm-app-for-on-prem.md)
                + [AD FS On-prem, 테넌트 및 Microsoft Online을 사용하여 Azure AD Federated에 대한 MSD를 설정합니다.](product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/set-up-oauth-authentication-for-dynamics/set-up-msd-for-azure-ad-federated-with-ad-fs-on-prem-tenant-and-microsoft-online.md)
          + Microsoft Dynamics 동기화 세부 정보 {#microsoft-dynamics-sync-details}
@@ -1036,8 +1036,8 @@ ht-degree: 0%
             + [텍스트 전자 메일에 추적된 링크 추가](product-docs/email-marketing/general/functions-in-the-editor/add-tracked-links-to-a-text-email.md)
             + [달력 이벤트(.ics) 파일 만들기](product-docs/email-marketing/general/functions-in-the-editor/create-a-calendar-event-ics-file.md)
             + [이메일 링크에 대한 추적 비활성화](product-docs/email-marketing/general/functions-in-the-editor/disable-tracking-for-an-email-link.md)
-            + [이메일의 HTML 다운로드](product-docs/email-marketing/general/functions-in-the-editor/download-an-emails-html.md)
-            + [이메일의 HTML 편집](product-docs/email-marketing/general/functions-in-the-editor/edit-an-emails-html.md)
+            + [이메일 HTML 다운로드](product-docs/email-marketing/general/functions-in-the-editor/download-an-emails-html.md)
+            + [이메일 HTML 편집](product-docs/email-marketing/general/functions-in-the-editor/edit-an-emails-html.md)
             + 이메일 테스트 - Champion-Challenger {#email-tests-champion-challenger}
                + [이메일 챔피언/도전자 추가](product-docs/email-marketing/general/functions-in-the-editor/email-tests-champion-challenger/add-an-email-champion-challenger.md)
                + [챔피언/도전자: 이메일 테스트 승인](product-docs/email-marketing/general/functions-in-the-editor/email-tests-champion-challenger/champion-challenger-approve-your-email-test.md)
@@ -1059,7 +1059,7 @@ ht-degree: 0%
          + [이메일 CC](product-docs/email-marketing/general/email-cc.md)
    + Marketo Engage 차세대 경험 {#marketo-engage-next-generation-experience}
       + [개요](product-docs/marketo-engage-next-generation-experience/overview.md)
-      + [새 아이콘 용어집](product-docs/marketo-engage-next-generation-experience/new-icon-glossary.md)
+      + [아이콘 용어집](product-docs/marketo-engage-next-generation-experience/icon-glossary.md)
       + [전역 검색 사용](product-docs/marketo-engage-next-generation-experience/using-the-global-search.md)
    + Marketo Sales Connect {#marketo-sales-connect}
       + 시작하기 {#getting-started}
@@ -1075,7 +1075,6 @@ ht-degree: 0%
             + [이메일 확인](product-docs/marketo-sales-connect/getting-started/email-settings/verify-your-email.md)
       + 관리 {#admin}
          + [추가 관리자](product-docs/marketo-sales-connect/admin/additional-admins.md)
-         + [관리 설정 탭](product-docs/marketo-sales-connect/admin/admin-settings-tab.md)
          + [차단된 도메인](product-docs/marketo-sales-connect/admin/blocked-domains.md)
          + [컨텐츠 잠금](product-docs/marketo-sales-connect/admin/content-lockdown.md)
          + [하위 팀 만들기](product-docs/marketo-sales-connect/admin/create-a-sub-team.md)
@@ -1170,23 +1169,9 @@ ht-degree: 0%
             + [전자 메일 연결 조절](product-docs/marketo-sales-connect/email/email-delivery/email-connection-throttling.md)
             + [사용자 지정 게재 채널 설정](product-docs/marketo-sales-connect/email/email-delivery/setting-up-a-custom-delivery-channel.md)
          + 영업 이메일 {#send-a-sales-email} 보내기
-            + [템플릿 또는 캠페인 추가](product-docs/marketo-sales-connect/email/send-a-sales-email/add-a-template-or-campaign.md)
-            + [Gmail에서 Salesforce에 이메일 추가](product-docs/marketo-sales-connect/email/send-a-sales-email/add-email-to-salesforce-from-gmail.md)
-            + [이메일 클라이언트의 Salesforce에 이메일 추가](product-docs/marketo-sales-connect/email/send-a-sales-email/add-email-to-salesforce-in-email-client.md)
-            + [컨텐츠 추가](product-docs/marketo-sales-connect/email/send-a-sales-email/adding-content.md)
-            + [인증 실패 오류](product-docs/marketo-sales-connect/email/send-a-sales-email/authentication-unsuccessful-error.md)
             + [캠페인이 종료됨](product-docs/marketo-sales-connect/email/send-a-sales-email/campaign-has-ended.md)
             + [이메일의 CC 또는 BCC](product-docs/marketo-sales-connect/email/send-a-sales-email/cc-or-bcc-in-emails.md)
             + [스팸으로 표시된 이메일](product-docs/marketo-sales-connect/email/send-a-sales-email/email-marked-as-spam.md)
-            + [선택한 전자 메일 및 전자 메일 그룹](product-docs/marketo-sales-connect/email/send-a-sales-email/email-selected-and-email-group.md)
-            + [스팸으로 보내는 이메일](product-docs/marketo-sales-connect/email/send-a-sales-email/emails-going-to-spam.md)
-            + [Gmail 또는 Outlook에서 보내는 동안 오류가 발생했습니다.](product-docs/marketo-sales-connect/email/send-a-sales-email/error-when-sending-from-gmail-or-outlook.md)
-            + [웹 응용 프로그램에서 보낼 때 오류 발생](product-docs/marketo-sales-connect/email/send-a-sales-email/error-when-sending-from-the-web-application.md)
-            + [하드 바운스 수](product-docs/marketo-sales-connect/email/send-a-sales-email/hard-bounces.md)
-            + [이메일을 예약하는 방법](product-docs/marketo-sales-connect/email/send-a-sales-email/how-to-schedule-an-email.md)
-            + [그룹 이메일을 보내는 방법](product-docs/marketo-sales-connect/email/send-a-sales-email/how-to-send-a-group-email.md)
-            + [Sales Engage에서 이메일을 보내는 방법](product-docs/marketo-sales-connect/email/send-a-sales-email/how-to-send-an-email-from-sales-engage.md)
-            + [예약된 전자 메일이 초안으로 이동](product-docs/marketo-sales-connect/email/send-a-sales-email/scheduled-emails-going-to-drafts.md)
             + [이메일에서 첨부 파일 보내기](product-docs/marketo-sales-connect/email/send-a-sales-email/sending-file-attachments-in-your-email.md)
             + [실패한 게재의 제한 오류 메시지](product-docs/marketo-sales-connect/email/send-a-sales-email/throttling-error-message-in-a-failed-delivery.md)
             + [제한 오류](product-docs/marketo-sales-connect/email/send-a-sales-email/throttling-errors.md)
@@ -1305,7 +1290,7 @@ ht-degree: 0%
       + Microsoft Dynamics용 MSI {#msi-for-microsoft-dynamics}
          + [기능 개요](product-docs/marketo-sales-insight/msi-for-microsoft-dynamics/feature-overview.md)
          + {#installing} 설치
-            + [Microsoft Dynamics용 Marketo 영업 인사이트 솔루션 다운로드](product-docs/marketo-sales-insight/msi-for-microsoft-dynamics/installing/download-the-marketo-sales-insight-solution-for-microsoft-dynamics.md)
+            + [Microsoft Dynamics용 Marketo Sales Insight Solution 다운로드](product-docs/marketo-sales-insight/msi-for-microsoft-dynamics/installing/download-the-marketo-sales-insight-solution-for-microsoft-dynamics.md)
             + [Microsoft Dynamics 2011에서 Marketo Sales Insight 설치 및 구성](product-docs/marketo-sales-insight/msi-for-microsoft-dynamics/installing/install-and-configure-marketo-sales-insight-in-microsoft-dynamics-2011.md)
             + [Microsoft Dynamics 2013에서 Marketo Sales Insight 설치 및 구성](product-docs/marketo-sales-insight/msi-for-microsoft-dynamics/installing/install-and-configure-marketo-sales-insight-in-microsoft-dynamics-2013.md)
             + [Microsoft Dynamics 2015에서 Marketo Sales Insight 설치 및 구성](product-docs/marketo-sales-insight/msi-for-microsoft-dynamics/installing/install-and-configure-marketo-sales-insight-in-microsoft-dynamics-2015.md)
@@ -1581,7 +1566,7 @@ ht-degree: 0%
             + [수익 주기 모델에서 모든 리드 찾기](product-docs/reporting/revenue-cycle-analytics/revenue-cycle-models/find-all-leads-in-a-revenue-cycle-model.md)
             + [매출 모델러에서 두 단계 병합](product-docs/reporting/revenue-cycle-analytics/revenue-cycle-models/merging-two-stages-in-the-revenue-modeler.md)
             + [매출 모델에 대한 보고서](product-docs/reporting/revenue-cycle-analytics/revenue-cycle-models/report-on-your-revenue-model.md)
-            + [관리자 계정을 사용하여 매출 모델에서 Google AdWords 전환 설정](product-docs/reporting/revenue-cycle-analytics/revenue-cycle-models/set-google-adwords-conversions-in-the-revenue-model-with-a-manager-account.md)
+            + [관리자 계정을 사용하여 매출 모델에서 Google AdWords 전환 을 설정합니다](product-docs/reporting/revenue-cycle-analytics/revenue-cycle-models/set-google-adwords-conversions-in-the-revenue-model-with-a-manager-account.md)
             + [매출 모델에서 Google AdWords 전환 설정](product-docs/reporting/revenue-cycle-analytics/revenue-cycle-models/set-google-adwords-conversions-in-the-revenue-model.md)
             + [매출 모델러의 계정별 추적 시작](product-docs/reporting/revenue-cycle-analytics/revenue-cycle-models/start-tracking-by-account-in-the-revenue-modeler.md)
             + [매출 모델 단계 이해](product-docs/reporting/revenue-cycle-analytics/revenue-cycle-models/understanding-revenue-model-phases.md)
@@ -1638,7 +1623,7 @@ ht-degree: 0%
          + [Wordpress Enterprise에서 RTP 구현](product-docs/web-personalization/rtp-tag-implementation/implementing-rtp-on-wordpress-enterprise.md)
          + [Wordpress에서 RTP 구현](product-docs/web-personalization/rtp-tag-implementation/implementing-rtp-on-wordpress.md)
          + [Adobe Tag Manager을 사용하여 RTP 구현](product-docs/web-personalization/rtp-tag-implementation/implementing-rtp-using-adobe-tag-manager.md)
-         + [Google Tag Manager를 사용하여 RTP 구현](product-docs/web-personalization/rtp-tag-implementation/implementing-rtp-using-google-tag-manager.md)
+         + [Google 태그 관리자를 사용하여 RTP 구현](product-docs/web-personalization/rtp-tag-implementation/implementing-rtp-using-google-tag-manager.md)
          + [템플릿 태그 관리자를 사용하여 RTP 구현](product-docs/web-personalization/rtp-tag-implementation/implementing-rtp-using-tealium-tag-manager.md)
       + 웹 개인화 보고 {#reporting-for-web-personalization}
          + [이메일 보고서](product-docs/web-personalization/reporting-for-web-personalization/email-reports.md)
