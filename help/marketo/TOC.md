@@ -3,9 +3,9 @@ audience: end-user
 user-guide-title: Marketo 안내서
 user-guide-description: Marketo 제품 설명서
 feature-set: Marketo Engage
-source-git-commit: 366f1cac07c30b5f928d3d1b6a1c530011ca83d0
+source-git-commit: aabb8de6ed67334e853221be623f649d0698edc0
 workflow-type: tm+mt
-source-wordcount: '8004'
+source-wordcount: '7956'
 ht-degree: 0%
 
 ---
@@ -1224,11 +1224,6 @@ ht-degree: 0%
             + [연락처 만들기 및 삭제](product-docs/marketo-sales-connect/people/managing-contacts/creating-and-deleting-contacts.md)
             + [그룹 유형](product-docs/marketo-sales-connect/people/managing-contacts/group-types.md)
             + [Sales Connect에서 전자 메일 중복 제거 처리 방법](product-docs/marketo-sales-connect/people/managing-contacts/how-sales-connect-handles-email-de-duping.md)
-            + [연락처 그룹을 만드는 방법](product-docs/marketo-sales-connect/people/managing-contacts/how-to-create-a-contact-group.md)
-            + [자동 가입 해지 형식 지정 방법](product-docs/marketo-sales-connect/people/managing-contacts/how-to-format-auto-unsubscribes.md)
-            + [Salesforce에서 연락처를 가져오는 방법](product-docs/marketo-sales-connect/people/managing-contacts/how-to-import-contacts-from-salesforce.md)
-            + [두 그룹을 함께 병합하는 방법](product-docs/marketo-sales-connect/people/managing-contacts/how-to-merge-two-groups-together.md)
-            + [그룹을 공유하는 방법](product-docs/marketo-sales-connect/people/managing-contacts/how-to-share-a-group.md)
             + [CSV를 통해 연락처 가져오기](product-docs/marketo-sales-connect/people/managing-contacts/import-contacts-via-csv.md)
             + [그룹 관리](product-docs/marketo-sales-connect/people/managing-contacts/manage-groups.md)
             + [사용자 페이지 열](product-docs/marketo-sales-connect/people/managing-contacts/people-page-columns.md)
@@ -1246,21 +1241,15 @@ ht-degree: 0%
       + 작업 {#tasks}
          + [Salesforce와 Sales Connect 작업 동기화](product-docs/marketo-sales-connect/tasks/syncing-sales-connect-tasks-with-salesforce-for-the-first-time.md)
       + 템플릿 {#templates}
-         + [첨부 파일 추가](product-docs/marketo-sales-connect/templates/add-an-attachment.md)
-         + [이미지 추가](product-docs/marketo-sales-connect/templates/add-an-image.md)
          + [템플릿에 자동 가입 해지 추가](product-docs/marketo-sales-connect/templates/add-auto-unsubscribes-to-a-template.md)
          + [하이퍼링크된 텍스트 추가](product-docs/marketo-sales-connect/templates/add-hyperlinked-text.md)
-         + [비디오 컨텐츠 추가](product-docs/marketo-sales-connect/templates/add-video-content.md)
          + [아카이브 템플릿](product-docs/marketo-sales-connect/templates/archive-templates.md)
-         + [후속 이메일 만들기](product-docs/marketo-sales-connect/templates/create-a-follow-up-email.md)
-         + [후속 템플릿 만들기](product-docs/marketo-sales-connect/templates/create-a-follow-up-template.md)
          + [새 카테고리 만들기](product-docs/marketo-sales-connect/templates/create-a-new-category.md)
          + [새 템플릿 만들기](product-docs/marketo-sales-connect/templates/create-a-new-template.md)
          + [템플릿 보기 사용자 지정](product-docs/marketo-sales-connect/templates/customize-template-view.md)
          + [템플릿 범주 삭제](product-docs/marketo-sales-connect/templates/delete-a-template-category.md)
          + [템플릿 삭제](product-docs/marketo-sales-connect/templates/delete-a-template.md)
          + [템플릿 범주 편집](product-docs/marketo-sales-connect/templates/edit-a-template-category.md)
-         + [카테고리 공유 활성화](product-docs/marketo-sales-connect/templates/enable-category-sharing.md)
          + [템플릿 즐겨찾기](product-docs/marketo-sales-connect/templates/favorite-a-template.md)
          + [범주 병합 및 중복 제거](product-docs/marketo-sales-connect/templates/merge-and-de-duplicate-categories.md)
          + [권장 템플릿](product-docs/marketo-sales-connect/templates/recommended-templates.md)
