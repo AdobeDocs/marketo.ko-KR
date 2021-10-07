@@ -3,9 +3,9 @@ audience: end-user
 user-guide-title: Marketo 안내서
 user-guide-description: Marketo 제품 설명서
 feature-set: Marketo Engage
-source-git-commit: c8da1162177e91313e9a1cd67e78caf79dd991ef
+source-git-commit: 52f98ebf45079263a6fb0751fed47755d757a6f4
 workflow-type: tm+mt
-source-wordcount: '8029'
+source-wordcount: '8001'
 ht-degree: 0%
 
 ---
@@ -1173,11 +1173,8 @@ ht-degree: 0%
             + [이메일의 CC 또는 BCC](product-docs/marketo-sales-connect/email/send-a-sales-email/cc-or-bcc-in-emails.md)
             + [스팸으로 표시된 이메일](product-docs/marketo-sales-connect/email/send-a-sales-email/email-marked-as-spam.md)
             + [이메일에서 첨부 파일 보내기](product-docs/marketo-sales-connect/email/send-a-sales-email/sending-file-attachments-in-your-email.md)
-            + [실패한 게재의 제한 오류 메시지](product-docs/marketo-sales-connect/email/send-a-sales-email/throttling-error-message-in-a-failed-delivery.md)
-            + [제한 오류](product-docs/marketo-sales-connect/email/send-a-sales-email/throttling-errors.md)
          + 라이브 피드 {#the-live-feed}
             + [잘못된 수신자 위치](product-docs/marketo-sales-connect/email/the-live-feed/incorrect-recipient-location.md)
-            + [라이브 피드 아이콘 용어집](product-docs/marketo-sales-connect/email/the-live-feed/live-feed-icon-glossary.md)
             + [라이브 피드 개요](product-docs/marketo-sales-connect/email/the-live-feed/live-feed-overview.md)
          + {#unsubscribes} 가입 해지 취소
             + [구독 취소 링크 메시지 사용자 지정](product-docs/marketo-sales-connect/email/unsubscribes/customize-unsubscribe-link-message.md)
@@ -1224,10 +1221,7 @@ ht-degree: 0%
          + [영업 연결 및 GDPR 준수](product-docs/marketo-sales-connect/people/sales-connect-and-gdpr-compliance.md)
          + 연락처 관리 {#managing-contacts}
             + [사람에 대한 벌크 작업](product-docs/marketo-sales-connect/people/managing-contacts/bulk-actions-on-people.md)
-            + [Marketo 리드와 Sales Connect Leads 연결](product-docs/marketo-sales-connect/people/managing-contacts/connect-your-marketo-leads-with-sales-connect-leads.md)
-            + [그룹과 연결](product-docs/marketo-sales-connect/people/managing-contacts/connecting-with-a-group.md)
             + [연락처 만들기 및 삭제](product-docs/marketo-sales-connect/people/managing-contacts/creating-and-deleting-contacts.md)
-            + [그룹 삭제](product-docs/marketo-sales-connect/people/managing-contacts/delete-a-group.md)
             + [그룹 유형](product-docs/marketo-sales-connect/people/managing-contacts/group-types.md)
             + [Sales Connect에서 전자 메일 중복 제거 처리 방법](product-docs/marketo-sales-connect/people/managing-contacts/how-sales-connect-handles-email-de-duping.md)
             + [연락처 그룹을 만드는 방법](product-docs/marketo-sales-connect/people/managing-contacts/how-to-create-a-contact-group.md)
