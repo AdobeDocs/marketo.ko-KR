@@ -2,9 +2,9 @@
 description: 개요 - Marketo 문서 - 제품 설명서
 title: 개요
 exl-id: 50ab55b2-f40d-4dbd-ac3b-aa52e37ff426
-source-git-commit: 0c02488adc6b79adff75650a9ffe11c1e596941c
+source-git-commit: d3d85838c5750f1ff61fe7f542af71014d10a3e8
 workflow-type: tm+mt
-source-wordcount: '492'
+source-wordcount: '491'
 ht-degree: 1%
 
 ---
@@ -38,7 +38,7 @@ Marketo 플랫폼의 새로운 모양과 느낌과 함께 향상된 유용성을
 
 **아이콘**
 
-새 인터페이스 기능은 개선되고 확장된 icongraphy를 제공합니다. 여기에서 이러한 기능에 대해 알아보십시오. [새 아이콘 용어집](/help/marketo/product-docs/marketo-engage-next-generation-experience/new-icon-glossary.md).
+새 인터페이스 기능은 개선되고 확장된 icongraphy를 제공합니다. 여기에서 이러한 기능에 대해 알아보십시오. [아이콘 용어집](/help/marketo/product-docs/marketo-engage-next-generation-experience/icon-glossary.md).
 
 ![](assets/overview-new-icons.png)
 
@@ -191,7 +191,7 @@ Marketo 플랫폼의 새로운 모양과 느낌과 함께 향상된 유용성을
    <td>나열된 모든 이전 슈퍼볼 항목</td> 
   </tr>
   <tr>
-   <td>1</td> 
+   <td>3</td> 
    <td>이 정보를 사용하여 MEUE 경험에 대한 피드백을 제공합니다</td> 
   </tr>
   <tr>

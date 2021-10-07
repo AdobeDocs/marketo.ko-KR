@@ -3,9 +3,9 @@ audience: end-user
 user-guide-title: Marketo 안내서
 user-guide-description: Marketo 제품 설명서
 feature-set: Marketo Engage
-source-git-commit: 52f98ebf45079263a6fb0751fed47755d757a6f4
+source-git-commit: d3d85838c5750f1ff61fe7f542af71014d10a3e8
 workflow-type: tm+mt
-source-wordcount: '8001'
+source-wordcount: '8101'
 ht-degree: 0%
 
 ---
@@ -1169,12 +1169,29 @@ ht-degree: 0%
             + [전자 메일 연결 조절](product-docs/marketo-sales-connect/email/email-delivery/email-connection-throttling.md)
             + [사용자 지정 게재 채널 설정](product-docs/marketo-sales-connect/email/email-delivery/setting-up-a-custom-delivery-channel.md)
          + 영업 이메일 {#send-a-sales-email} 보내기
+            + [템플릿 또는 캠페인 추가](product-docs/marketo-sales-connect/email/send-a-sales-email/add-a-template-or-campaign.md)
+            + [Gmail에서 Salesforce에 이메일 추가](product-docs/marketo-sales-connect/email/send-a-sales-email/add-email-to-salesforce-from-gmail.md)
+            + [이메일 클라이언트의 Salesforce에 이메일 추가](product-docs/marketo-sales-connect/email/send-a-sales-email/add-email-to-salesforce-in-email-client.md)
+            + [컨텐츠 추가](product-docs/marketo-sales-connect/email/send-a-sales-email/adding-content.md)
+            + [인증 실패 오류](product-docs/marketo-sales-connect/email/send-a-sales-email/authentication-unsuccessful-error.md)
             + [캠페인이 종료됨](product-docs/marketo-sales-connect/email/send-a-sales-email/campaign-has-ended.md)
             + [이메일의 CC 또는 BCC](product-docs/marketo-sales-connect/email/send-a-sales-email/cc-or-bcc-in-emails.md)
             + [스팸으로 표시된 이메일](product-docs/marketo-sales-connect/email/send-a-sales-email/email-marked-as-spam.md)
+            + [선택한 전자 메일 및 전자 메일 그룹](product-docs/marketo-sales-connect/email/send-a-sales-email/email-selected-and-email-group.md)
+            + [스팸으로 보내는 이메일](product-docs/marketo-sales-connect/email/send-a-sales-email/emails-going-to-spam.md)
+            + [Gmail 또는 Outlook에서 보내는 동안 오류가 발생했습니다.](product-docs/marketo-sales-connect/email/send-a-sales-email/error-when-sending-from-gmail-or-outlook.md)
+            + [웹 응용 프로그램에서 보낼 때 오류 발생](product-docs/marketo-sales-connect/email/send-a-sales-email/error-when-sending-from-the-web-application.md)
+            + [하드 바운스 수](product-docs/marketo-sales-connect/email/send-a-sales-email/hard-bounces.md)
+            + [이메일을 예약하는 방법](product-docs/marketo-sales-connect/email/send-a-sales-email/how-to-schedule-an-email.md)
+            + [그룹 이메일을 보내는 방법](product-docs/marketo-sales-connect/email/send-a-sales-email/how-to-send-a-group-email.md)
+            + [Sales Engage에서 이메일을 보내는 방법](product-docs/marketo-sales-connect/email/send-a-sales-email/how-to-send-an-email-from-sales-engage.md)
+            + [예약된 전자 메일이 초안으로 이동](product-docs/marketo-sales-connect/email/send-a-sales-email/scheduled-emails-going-to-drafts.md)
             + [이메일에서 첨부 파일 보내기](product-docs/marketo-sales-connect/email/send-a-sales-email/sending-file-attachments-in-your-email.md)
+            + [실패한 게재의 제한 오류 메시지](product-docs/marketo-sales-connect/email/send-a-sales-email/throttling-error-message-in-a-failed-delivery.md)
+            + [제한 오류](product-docs/marketo-sales-connect/email/send-a-sales-email/throttling-errors.md)
          + 라이브 피드 {#the-live-feed}
             + [잘못된 수신자 위치](product-docs/marketo-sales-connect/email/the-live-feed/incorrect-recipient-location.md)
+            + [라이브 피드 아이콘 용어집](product-docs/marketo-sales-connect/email/the-live-feed/live-feed-icon-glossary.md)
             + [라이브 피드 개요](product-docs/marketo-sales-connect/email/the-live-feed/live-feed-overview.md)
          + {#unsubscribes} 가입 해지 취소
             + [구독 취소 링크 메시지 사용자 지정](product-docs/marketo-sales-connect/email/unsubscribes/customize-unsubscribe-link-message.md)
@@ -1221,7 +1238,10 @@ ht-degree: 0%
          + [영업 연결 및 GDPR 준수](product-docs/marketo-sales-connect/people/sales-connect-and-gdpr-compliance.md)
          + 연락처 관리 {#managing-contacts}
             + [사람에 대한 벌크 작업](product-docs/marketo-sales-connect/people/managing-contacts/bulk-actions-on-people.md)
+            + [Marketo 리드와 Sales Connect Leads 연결](product-docs/marketo-sales-connect/people/managing-contacts/connect-your-marketo-leads-with-sales-connect-leads.md)
+            + [그룹과 연결](product-docs/marketo-sales-connect/people/managing-contacts/connecting-with-a-group.md)
             + [연락처 만들기 및 삭제](product-docs/marketo-sales-connect/people/managing-contacts/creating-and-deleting-contacts.md)
+            + [그룹 삭제](product-docs/marketo-sales-connect/people/managing-contacts/delete-a-group.md)
             + [그룹 유형](product-docs/marketo-sales-connect/people/managing-contacts/group-types.md)
             + [Sales Connect에서 전자 메일 중복 제거 처리 방법](product-docs/marketo-sales-connect/people/managing-contacts/how-sales-connect-handles-email-de-duping.md)
             + [연락처 그룹을 만드는 방법](product-docs/marketo-sales-connect/people/managing-contacts/how-to-create-a-contact-group.md)
