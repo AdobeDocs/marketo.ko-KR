@@ -2,9 +2,9 @@
 description: 현재 릴리스 노트 - Marketo 문서 - 제품 설명서
 title: 현재 릴리스 노트
 exl-id: a2eccad5-73ad-48f9-8091-51cee23824e1
-source-git-commit: 366f1cac07c30b5f928d3d1b6a1c530011ca83d0
+source-git-commit: e4d7fb7afac79b706fac754adc8f932ce96a2398
 workflow-type: tm+mt
-source-wordcount: '962'
+source-wordcount: '0'
 ht-degree: 0%
 
 ---
@@ -49,7 +49,7 @@ ht-degree: 0%
 
 **새 이메일, 웹 활동, 익명 웹 활동 대시보드**: 판매자에게 최신 이메일 및 웹 활동에 대한 리드 및 연락처에 대해 알리는 새로운 판매 대시보드를 추가했습니다. 새로운 필터링 기능을 사용하여 이제 대시보드는 전체 계정 목록 또는 특정 계정에 대한 이메일 열기, 클릭 및 웹 페이지 방문 인사이트를 제공합니다. Marketo Engage은 모든 웹 활동을 추적하고 중요한 정보를 판매하여 익명의 트래픽을 리드로 전환시킵니다. 판매자는 참여를 개인화하고 리드를 더 빨리 판매로 전환할 수 있습니다. 리드는 리드 행동에 대해 더 잘 알고 있고 모든 터치포인트의 관련성에 따라 움직이고 있기 때문입니다.
 
-**Salesforce CRM용 Sales Insight**
+**Salesforce용 Sales Insight**
 
 **Account 및 Opportunity 레벨 Best Pets**: 이제 Sales Insight는 영업 담당자가 다른 팀 구성원에게 연락처가 지정되었더라도 자신이 소유한 계정 또는 영업 기회에 있는 모든 연락처에 대해 Best Bets 를 검토할 수 있는 기능을 제공합니다. 이를 통해 고객과 영업 기회 소유자는 관련 연락처의 활동을 완벽하게 파악할 수 있으며, 해당 고객이나 영업 기회에 대해 보다 포괄적으로 파악할 수 있습니다.
 
@@ -71,4 +71,4 @@ ht-degree: 0%
 
 ## 공지 {#announcements}
 
-**리드 사용 중단/Munchkin 베타 161 업데이트 연결**: 2021년 9월 7일, Munchkin의 버전 161은 Munchkin Beta를 사용할 수 있는 구독의 10%를 시작으로, 9월 16일에는 50%, 9월 30일에는 100%를 구독했습니다. 이 변경 사항은 Marketo Engage 랜딩 페이지 및 최신 버전이 롤아웃된 구독에서 로드되는 외부 랜딩 페이지에 제공되는 munchkin-beta.js 파일의 버전에 영향을 줍니다. 이 버전은 알려진 개인 레코드와 Marketo Engage 구독 및 관련 웹 탐색 기록에 개인 데이터를 제출할 수 있는 기능인 Munchkin 연결 리드 메서드를 완전히 사용하지 않습니다. Forms JS API, 양식 제출 API 및 리드 연결 REST API와 같은 보다 현대적이고 안전한 대체 요소를 위해 리드 연결이 제거됩니다. [이 사용 중단에 대해 자세히 알아보십시오](https://developers.marketo.com/blog/deprecation-of-munchkin-associate-lead-method/).
+**리드 사용 중단/Munchkin 베타 161 업데이트 연결**: 2021년 9월 7일, Munchkin의 버전 161은 Munchkin Beta를 사용할 수 있는 구독의 10%를 시작으로, 9월 16일에는 50%, 9월 30일에는 100%를 구독했습니다. 이 변경 사항은 Marketo Engage 랜딩 페이지 및 최신 버전이 롤아웃된 구독에서 로드되는 외부 랜딩 페이지에 제공되는 munchkin-beta.js 파일의 버전에 영향을 줍니다. 이 버전은 알려진 개인 레코드와 Marketo Engage 구독 및 관련 웹 탐색 기록에 개인 데이터를 제출할 수 있는 기능인 Munchkin 연결 리드 메서드를 완전히 사용하지 않습니다. Forms JS API, 양식 제출 API 및 리드 연결 REST API와 같은 보다 현대적이고 안전한 대체 요소를 위해 리드 연결이 제거됩니다. [여기서 이러한 사용 중단에 대해 자세히 알아보십시오](https://developers.marketo.com/blog/deprecation-of-munchkin-associate-lead-method/).
