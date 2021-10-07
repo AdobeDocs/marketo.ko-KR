@@ -2,16 +2,16 @@
 description: 현재 릴리스 노트 - Marketo 문서 - 제품 설명서
 title: 현재 릴리스 노트
 exl-id: a2eccad5-73ad-48f9-8091-51cee23824e1
-source-git-commit: d5c1c1d0ce2a521898eaa4f6610bf1ce04b4f66b
+source-git-commit: 366f1cac07c30b5f928d3d1b6a1c530011ca83d0
 workflow-type: tm+mt
-source-wordcount: '909'
+source-wordcount: '962'
 ht-degree: 0%
 
 ---
 
-# 릴리스 노트: 2021년 8월 {#release-notes-aug-21}
+# 릴리스 노트: 2021년 10월 일 {#release-notes-oct-21}
 
-다음 기능은 2021년 8월 릴리스에 포함되어 있습니다. 기능을 사용할 수 있는지 Marketo Engage 버전을 확인하십시오.
+다음 기능은 2021년 10월 릴리스에 포함되어 있습니다. 기능을 사용할 수 있는지 Marketo Engage 버전을 확인하십시오.
 
 >[!AVAILABILITY]
 >
@@ -19,23 +19,21 @@ ht-degree: 0%
 
 **_분기별 릴리스_**
 
-다음 기능은 **2021년 8월 20일에 릴리스됩니다**.
+다음 기능은 **2021년 10월 22일에 릴리스됩니다**.
+
+## AI 기반의 혁신 {#ai-driven-innovation}
+
+**Predictive Audiences 개선 사항**: 이제 이벤트 및 이메일 프로그램에 사용되는 AI 기반의 예측 모델에 대한 AI 예측에 영향을 주는 상위 동작을 보다 잘 파악할 수 있습니다. 이벤트 등록 및 참여도가 높은 캠페인 구성원 동작과 가입 해지를 검토할 수 있습니다. 이제 AI 기반의 유사 모델을 Marketo Engage의 모든 프로그램 유형에서 사용할 수 있습니다.
+
+## 차세대 경험 {#next-gen-experience}
+
+**자신만의 경험을 선택하십시오**. 컨텍스트, 자산 변경 또는 환경 설정을 유실하지 않고 Marketo Engage 양식 세부 사항 또는 랜딩 페이지 목록 보기에서 작업하는 동안 새로운 토글 기능을 사용하여 선호하는 경험으로 쉽게 전환할 수 있습니다. 또한 새 랜딩 페이지 목록 보기는 새로운 필터와 대량 작업을 수행하는 기능을 통해 경험을 향상시킵니다.
+
+**효율적으로 검색**: 전역 검색에 대한 액세스 가능성 개선 사항에는 업데이트된 키보드 탐색 및 레이블 설명, 새로운 결과 스크롤 기능, 더 보이는 적용 필터 등이 포함됩니다. 키보드 단축키를 지원하도록 이동 모듈이 향상되었습니다. 전역 탐색 막대의 새 작업 알림 트레이를 통해 새 경험의 배경에서 실행되는 작업의 상태를 모니터링합니다. 트레이는 양식 세부 사항 및 랜딩 페이지 목록의 새 경험 보기에서 시작된 작업에 대한 알림을 캡처합니다. 여기에는 랜딩 페이지의 상태 변경, 새로운 경험을 사용한 일반적인 일괄 작업 등이 포함됩니다.
 
 ## Experience Automation {#experience-automation}
 
-* **Adobe ID를 통한 Marketo Engage 사용자 인증**: 곧 Enterprise 패키지를 사용하는 새 Marketo Engage 사용자는 Adobe ID 사용자 자격 증명을 사용하여 온보딩됩니다. 현재 사용자를 통합 ID 시스템으로 마이그레이션하는 작업은 2022년 중반까지는 발생하지 않으며 추가 통지가 있을 때까지 수행할 필요가 없습니다. IT/보안 관리자는 Adobe ID 사용자 인증을 사용하여 다른 Experience Cloud 솔루션과 함께 여러 Marketo Engage 제품 인스턴스를 관리하고 공통 콘솔을 통해 SSO를 구성할 수 있습니다. 관리자는 사용자 그룹 및 사용자 권한을 한 곳에서 편리하게 관리할 수 있습니다.
-
-* **실행 가능한 캠페인 중첩**: 이제 실행 가능한 캠페인이 다른 실행 가능한 캠페인을 호출하여 최대 3개 수준 깊이로 중첩할 수도 있습니다. 이를 통해 공통 운영 흐름을 더 통합하고 Smart Campaign 관리를 향상시킬 수 있습니다.
-
-* **개인 세부 정보 페이지의 단일 흐름 작업** (9월 9일까지 사용 가능): 데이터베이스 그리드 보기로 전환하지 않고 흐름 작업 메뉴를 사용하여 개인 세부 정보 페이지에서 전자 메일 보내기, 개인 소유자 변경 또는 다른 스마트 캠페인 작업과 같은 플로우 작업을 실행합니다.
-
-* **[사용자 지정 활동 내보내기](/help/marketo/product-docs/administration/marketo-custom-activities/custom-activity-metadata-export.md)**: 메타데이터 내보내기는 이제 구독 데이터 모델을 공유, 분석 및 디자인하는 데 사용할 수 있는 모든 개체 및 각 메타데이터를 지원합니다.
-
-## API 개선 사항 {#api-enhancements}
-
-* **양식 API 제출**: 이메일 주소가 둘 이상의 리드 레코드에 중복되면 Adobe에서는 완전히 건너뛰는 대신 &quot;마지막으로 업데이트된&quot; 레코드를 업데이트합니다. Forms 2.0 API와의 패리티를 제공합니다.
-
-* **이메일 API**: 챔피언 또는 도전자 이메일 자산을 검색합니다. 날짜 범위 필터를 사용하여 이메일 자산을 검색합니다.
+**양식 API 프로그램 구성원 사용자 지정 필드 지원 제출**: 제출 양식 API 엔드포인트가 프로그램 구성원 사용자 지정 필드를 지원하도록 업그레이드되어 사용자 지정 양식 통합에서 프로그램별 데이터를 수집할 수 있습니다.
 
 **_분기 전체에 출시_**
 
@@ -45,40 +43,32 @@ ht-degree: 0%
 
 ![(별)](assets/yellow-star.png)
 
-* **Salesforce CRM 사용자를 위한 Lead, Contact, Account 및 Opportunity 활동에 대한 가시성 개선**: Sales Insight에서 참여 기록이 증가함에 따라 긴 영업 주기 동안 잠재 고객과의 참여를 더 잘 알 수 있습니다. Lead, Contact, Account 및 Opportunity 객체에 걸쳐 최대 400개의 활동이 표시되는 흥미로운 순간, 웹 활동, 이메일 및 점수 탭
+**Microsoft Dynamics 365 Sales의 Sales Insight**
+
+**최상의 개선 사항**: Sales Insight의 Best Bets 탭에서는 가장 인기 있는 연락처 및 품질과 긴급성에 따라 우선 순위가 지정된 리드에 대한 실시간 보기를 판매합니다. 영업 담당자가 다음과 같은 작업을 수행할 수 있는 기능을 추가했습니다. 최고 성과 페이지에서 직접 개인 점수를 검토하거나, 이메일을 보내거나, 지정된 Marketo Engage 캠페인에 잠재 고객을 추가하여 효율성을 높이고, 응답 시간을 단축할 수 있습니다.
+
+**새 이메일, 웹 활동, 익명 웹 활동 대시보드**: 판매자에게 최신 이메일 및 웹 활동에 대한 리드 및 연락처에 대해 알리는 새로운 판매 대시보드를 추가했습니다. 새로운 필터링 기능을 사용하여 이제 대시보드는 전체 계정 목록 또는 특정 계정에 대한 이메일 열기, 클릭 및 웹 페이지 방문 인사이트를 제공합니다. Marketo Engage은 모든 웹 활동을 추적하고 중요한 정보를 판매하여 익명의 트래픽을 리드로 전환시킵니다. 판매자는 참여를 개인화하고 리드를 더 빨리 판매로 전환할 수 있습니다. 리드는 리드 행동에 대해 더 잘 알고 있고 모든 터치포인트의 관련성에 따라 움직이고 있기 때문입니다.
+
+**Salesforce CRM용 Sales Insight**
+
+**Account 및 Opportunity 레벨 Best Pets**: 이제 Sales Insight는 영업 담당자가 다른 팀 구성원에게 연락처가 지정되었더라도 자신이 소유한 계정 또는 영업 기회에 있는 모든 연락처에 대해 Best Bets 를 검토할 수 있는 기능을 제공합니다. 이를 통해 고객과 영업 기회 소유자는 관련 연락처의 활동을 완벽하게 파악할 수 있으며, 해당 고객이나 영업 기회에 대해 보다 포괄적으로 파악할 수 있습니다.
 
 ## 영업 연결 {#sales-connect}
 
 ![(별)](assets/yellow-star.png)
 
-* **이메일 연결 제한(베타)**: Sales Connect의 이메일 연결 조절 기능을 통해 이메일 게재 능력을 향상시키고 개인화된 판매 커뮤니케이션을 확장할 수 있습니다. 이 새로운 기술은 이메일 전송 타이밍을 자동으로 관리하여 Exchange 및 Gmail 사용자를 위한 원활한 경험을 만듭니다. 타사 대량 이메일 전송 애플리케이션을 사용하거나 사용하지 않고 Sales Connect에서 모든 이메일을 신뢰할 수 있게 전송합니다.
+**GA(전자 메일 연결 조절)**: Sales Connect의 이메일 연결 조절 기능을 통해 이메일 게재 능력을 향상시키고 개인화된 판매 커뮤니케이션을 확장할 수 있습니다. 이 혁신적인 기술은 이메일 전송 타이밍을 자동으로 관리하여 Exchange 및 Gmail 사용자를 위한 원활한 경험을 만듭니다. 타사 대량 이메일 전송 애플리케이션을 사용하거나 사용하지 않고 Sales Connect에서 모든 이메일을 신뢰할 수 있게 전송합니다.
 
->[!NOTE]
->
->이제 Beta에서 전자 메일 제한을 사용할 수 있습니다. [추가 정보](/help/marketo/product-docs/marketo-sales-connect/email/email-delivery/email-connection-throttling.md).
+**Enhanced Sales Activity Insights**: 새로운 이메일 회신 추적 활동인 Sales Email Resolved 는 Marketo Engage과 자동으로 동기화되는 이메일과 수신자의 상호 작용을 추적합니다. 또한 Source 속성이 &quot;Tout&quot;에서 &quot;Sales App&quot;로 업데이트되었습니다. 이 활동은 Marketo Engage REST API 또는 벌크 내보내기를 통해 내보내거나 보고할 수 있으며, 스마트 목록에 대한 추가 제한으로, 스마트 캠페인에서 개인화 옵션을 확장하면서 필터 및 트리거에서 사용할 수 있습니다.
 
-* **Enhanced Sales Activity Insights**: 영업 팀의 이전 활동을 기반으로 개인화된 참여를 캡처하고 활성화할 수 있습니다. Sales Call Recording Link, Sales Campaign Name 및 Sales Email Subject 와 같은 새로운 속성은 Marketo Engage 스마트 목록에서 사용할 수 있습니다.  이러한 활동은 Marketo Engage REST API 또는 벌크 내보내기를 통해 내보내거나 보고할 수 있으며, 스마트 목록에 대한 추가 제한으로 필터 및 트리거에서 사용할 수 있습니다.
+**간소화된 사용자 경험**: 이 업데이트에서는 Adobe 스펙트럼 설계 시스템을 기반으로 하는 Sales Connect용 새로운 글꼴, 색상, 단추 및 변형이 도입되었습니다. Adobe는 이러한 업데이트를 통해 보다 효율적인 경험을 제공하고 있습니다. 판매자는 필요한 시간과 장소에 집중할 수 있습니다.
 
 ## Bizible {#bizible}
 
 ![](assets/yellow-star.png)
 
-* **Bizible LinkedIn Lead Gen Forms 통합**: 이제 마케터는 LinkedIn에서 Lead Gen Forms 광고 단위를 통해 양식이 채워질 때 발생하는 전환에 대한 매출 기여도 분석을 수행할 수 있습니다. 그런 다음 이러한 통찰력을 사용하여 양식 성능과 유료 미디어 투자를 최적화할 수 있습니다. linkedIn Lead Gen Forms 는 LinkedIn에서 가장 빠르게 성장하고 있는 유료 미디어 서비스 중 하나이며, 이 새로운 기능은 Bizible과 통합되는 기존 LinkedIn Ads에 포함되어 있습니다. 
- 
-* **향상된 속도 대시보드**: 심도 있는 인사이트를 위해 새로운 속도 지표 및 대시보드 필터를 추가했습니다. 이 대시보드는 마케터가 단계별 리드 및 기회 속도와 다양한 형태의 마케팅 및 판매 참여의 효율성을 이해하는 데 사용됩니다.
-
-* **새 집단 폭포 여정 대시보드**: 이를 통해 마케터는 기존의 &quot;수요 흐름&quot; 단계 세트를 통해 선택한 집단에 대한 진행 상황을 볼 수 있으므로 전환율과 단계별 묵시적 스테이지 전환 인과성에 대해 신속하게 이해할 수 있습니다.
-
-## Adobe Experience Cloud과 Bizible 통합 {#bizible-integration-with-adobe-experience-cloud}
-
-이 섹션에는 IMS(Adobe Identity Management System) 마이그레이션을 완료한 Bizible 사용자를 위한 새로운 기능이 포함되어 있습니다. 마이그레이션된 경우 Adobe ID 탭 아래의 Bizible 설정에서 새 Adobe ID이 표시됩니다. 모든 계정은 2021년 말까지 마이그레이션해야 합니다.
-
-* **Bizible과 Adobe Privacy Service**  통합(2021년 9월 출시): Bizible은 Adobe Privacy Service과 통합되므로 Adobe Experience Cloud 애플리케이션에서 중요한 데이터 개인 정보 보호 규정(예: GDPR)을 중앙 집중식으로 준수합니다. 이제 이 서비스를 활용하고 모든 개인 정보 보호 요청을 중앙에서 관리할 수 있으므로 Bizible 및 기타 Adobe 제품에 대한 변경 요청이 애플리케이션 간에 반영됩니다.
-
-* **Adobe 통합 셸의 Bizible**: Bizible의 Adobe Unified Shell 채택을 통해 Bizible 애플리케이션 헤더 표시줄에 나타날 새로운 기능을 제공하고 리소스 및 애플리케이션 전환을 지원하기 위한 액세스 권한을 강화합니다. Adobe 통합 셸은 Bizible과 다른 Adobe Experience Cloud 애플리케이션 간에 일관된 경험을 만드는 데 도움이 됩니다.
-
-* **Bizible 도메인 소유권 및 자체 관리**: Bizible 사용자는 Adobe Admin Console을 활용하여 Bizible에서 추적할 도메인을 관리할 수 있습니다. 이 경우 이전의 수동 프로세스에 셀프 서비스를 제공하고 Adobe Experience Cloud 애플리케이션에서 도메인 소유권 및 추적을 관리하는 방법에 대해 일관된 경험을 제공합니다.
+**Bizible과 Adobe Privacy Service(GA)** 통합: Adobe Privacy Service과 Bizible 통합은 Adobe Experience Cloud 애플리케이션에서 GDPR(General Data Privacy Regulation) 또는 CCPA(California Consumer Privacy Act)와 같은 중요한 데이터 개인 정보 보호 규정을 중앙 집중화하는 데 도움이 됩니다. 이제 이 서비스를 활용하고 Adobe의 Privacy Service을 통해 모든 개인 정보 보호 요청을 중앙에서 관리할 수 있으므로 Bizible 및 기타 Adobe 제품에 대한 변경 요청이 애플리케이션 간에 반영됩니다.
 
 ## 공지 {#announcements}
 
-* **구독 범용 ID 설정으로 업데이트**: 기존 사용자에 대해 예정된 Marketo Engage 및 Adobe ID 통합을 지원하기 위해 모든 Marketo Engage 구독이 범용 ID 지원 활성화에서 통합됩니다. 추가 정보 [는 여기](/help/marketo/product-docs/administration/settings/using-a-universal-id-for-subscription-login.md)에 있습니다.
+**리드 사용 중단/Munchkin 베타 161 업데이트 연결**: 2021년 9월 7일, Munchkin의 버전 161은 Munchkin Beta를 사용할 수 있는 구독의 10%를 시작으로, 9월 16일에는 50%, 9월 30일에는 100%를 구독했습니다. 이 변경 사항은 Marketo Engage 랜딩 페이지 및 최신 버전이 롤아웃된 구독에서 로드되는 외부 랜딩 페이지에 제공되는 munchkin-beta.js 파일의 버전에 영향을 줍니다. 이 버전은 알려진 개인 레코드와 Marketo Engage 구독 및 관련 웹 탐색 기록에 개인 데이터를 제출할 수 있는 기능인 Munchkin 연결 리드 메서드를 완전히 사용하지 않습니다. Forms JS API, 양식 제출 API 및 리드 연결 REST API와 같은 보다 현대적이고 안전한 대체 요소를 위해 리드 연결이 제거됩니다. [이 사용 중단에 대해 자세히 알아보십시오](https://developers.marketo.com/blog/deprecation-of-munchkin-associate-lead-method/).
