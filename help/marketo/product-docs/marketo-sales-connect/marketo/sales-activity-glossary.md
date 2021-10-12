@@ -1,10 +1,11 @@
 ---
 description: 영업 활동 용어집 - Marketo 문서 - 제품 설명서
 title: 영업 활동 용어집
-source-git-commit: 9f8d6895e88250afc2799b2fb7fc73442018362f
+exl-id: c7805642-07b6-4697-9efe-5c673ae9ca53
+source-git-commit: 9677c26004a567bb53fef452304665eb73855568
 workflow-type: tm+mt
-source-wordcount: '416'
-ht-degree: 2%
+source-wordcount: '480'
+ht-degree: 1%
 
 ---
 
@@ -26,7 +27,7 @@ Sales Connect에서 판매자가 영업 케이스에 리드를 추가하거나, 
   <th>속성</th>
  </tr>
  <tr>
-  <th rowspan="3">영업 전자 메일 보내기</th>
+  <th rowspan="9">영업 전자 메일 보내기</th>
   <td>보낸 사람</td>
  </tr>
  <tr>
@@ -36,7 +37,25 @@ Sales Connect에서 판매자가 영업 케이스에 리드를 추가하거나, 
   <td>템플릿 ID</td>
  </tr>
  <tr>
-  <th rowspan="3">영업 전자 메일 열기</th>
+  <td>영업 템플릿 URL</td>
+ </tr>
+ <tr>
+  <td>영업 캠페인 URL</td>
+ </tr>
+ <tr>
+  <td>영업 템플릿 이름</td>
+ </tr>
+ <tr>
+  <td>이메일 제목</td>
+ </tr>
+ <tr>
+  <td>영업 캠페인 이름</td>
+ </tr>
+ <tr>
+  <td>Marketo 영업 담당자 ID</td>
+ </tr>
+ <tr>
+  <th rowspan="9">영업 전자 메일 열기</th>
   <td>보낸 사람</td>
  </tr>
  <tr>
@@ -46,7 +65,25 @@ Sales Connect에서 판매자가 영업 케이스에 리드를 추가하거나, 
   <td>템플릿 ID</td>
  </tr>
  <tr>
-  <th rowspan="4">클릭한 영업 이메일</th>
+  <td>영업 템플릿 URL</td>
+ </tr>
+ <tr>
+  <td>영업 캠페인 URL</td>
+ </tr>
+ <tr>
+  <td>영업 템플릿 이름</td>
+ </tr>
+ <tr>
+  <td>이메일 제목</td>
+ </tr>
+ <tr>
+  <td>영업 캠페인 이름</td>
+ </tr>
+ <tr>
+  <td>Marketo 영업 담당자 ID</td>
+ </tr>
+ <tr>
+  <th rowspan="10">클릭한 영업 이메일</th>
   <td>링크</td>
  </tr>
  <tr>
@@ -58,28 +95,36 @@ Sales Connect에서 판매자가 영업 케이스에 리드를 추가하거나, 
  <tr>
   <td>템플릿 ID</td>
  </tr>
+ <tr>
+  <td>영업 템플릿 URL</td>
+ </tr>
+ <tr>
+  <td>영업 캠페인 URL</td>
+ </tr>
+ <tr>
+  <td>영업 템플릿 이름</td>
+ </tr>
+ <tr>
+  <td>이메일 제목</td>
+ </tr>
+ <tr>
+  <td>영업 캠페인 이름</td>
+ </tr>
+ <tr>
+  <td>Marketo 영업 담당자 ID</td>
+ </tr>
 <tr>
-  <th rowspan="2">받은 영업 전자 메일</th>
+  <th rowspan="3">받은 영업 전자 메일</th>
   <td>받는 사람</td>
  </tr>
  <tr>
   <td>원문</td>
  </tr>
  <tr>
-  <th rowspan="4">판매 이메일 바운스됨</th>
-  <td>세부 사항</td>
+  <td>개인 ID(MSC)</td>
  </tr>
  <tr>
-  <td>템플릿 ID</td>
- </tr>
- <tr>
-  <td>이메일</td>
- </tr>
- <tr>
-  <td>보낸 사람</td>
- </tr>
- <tr>
-  <th rowspan="7">수신한 영업 호출</th>
+  <th rowspan="11">수신한 영업 호출</th>
   <td>판매 호출</td>
  </tr>
  <tr>
@@ -99,6 +144,18 @@ Sales Connect에서 판매자가 영업 케이스에 리드를 추가하거나, 
  </tr>
  <tr>
   <td>원문</td>
+ </tr>
+ <tr>
+  <td>영업 통화 기간</td>
+ </tr>
+ <tr>
+  <td>영업 호출 기록 URL</td>
+ </tr>
+  <tr>
+  <td>판매 전화 응답자</td>
+ </tr>
+ <tr>
+  <td>Marketo 영업 사원 ID(MSC)</td>
  </tr>
  <tr>
   <th rowspan="6">영업 캠페인에 추가</th>
