@@ -2,9 +2,9 @@
 description: 현재 릴리스 노트 - Marketo 문서 - 제품 설명서
 title: 현재 릴리스 노트
 exl-id: a2eccad5-73ad-48f9-8091-51cee23824e1
-source-git-commit: 6ba2020db432f0b520a63630fcd93c34c7c7611a
+source-git-commit: 669c86e2df2fbf061aa3db15c5c484a331a2b099
 workflow-type: tm+mt
-source-wordcount: '1017'
+source-wordcount: '1016'
 ht-degree: 0%
 
 ---
@@ -75,4 +75,4 @@ ht-degree: 0%
 
 **리드 사용 중단/Munchkin 베타 161 업데이트 연결**: 2021년 9월 7일, Munchkin의 버전 161은 Munchkin Beta를 사용할 수 있는 구독의 10%를 시작으로, 9월 16일에는 50%, 9월 30일에는 100%를 구독했습니다. 이 변경 사항은 Marketo Engage 랜딩 페이지 및 최신 버전이 롤아웃된 구독에서 로드되는 외부 랜딩 페이지에 제공되는 munchkin-beta.js 파일의 버전에 영향을 줍니다. 이 버전은 알려진 개인 레코드와 Marketo Engage 구독 및 관련 웹 탐색 기록에 개인 데이터를 제출할 수 있는 기능인 Munchkin 연결 리드 메서드를 완전히 사용하지 않습니다. Forms JS API, 양식 제출 API 및 리드 연결 REST API와 같은 보다 현대적이고 안전한 대체 요소를 위해 리드 연결이 제거됩니다. [여기서 이러한 사용 중단에 대해 자세히 알아보십시오](https://developers.marketo.com/blog/deprecation-of-munchkin-associate-lead-method/).
 
-이러한 기능 및 개선 사항에 대해 자세히 알고 싶으십니까? 이러한 혁신적인 기능을 더 깊이 살펴보려면 [지금 등록](https://engage.marketo.com/October_Release_Webinar_RegistrationPage.html)하여 2021년 10월 28일, 오전 9시 PT / 오후 12시 ET에 라이브 웨비나를 등록하십시오.
+이러한 기능 및 개선 사항에 대해 자세히 알고 싶으십니까? 이러한 혁신적인 기능을 더 깊이 살펴보려면 [지금 등록](https://engage.marketo.com/October_Release_RegistrationPage.html)하여 2021년 10월 28일, 오전 9시 PT / 오후 12시 ET에 라이브 웨비나를 등록하십시오.
