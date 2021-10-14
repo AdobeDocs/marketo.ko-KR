@@ -3,7 +3,7 @@ description: 웹 활동 - Marketo 문서 - 제품 설명서
 title: 웹 활동
 hide: true
 hidefromtoc: true
-source-git-commit: 84a285974de3bbcdf33e24befae323d3d82ef239
+source-git-commit: 5bfe82a966b2d89e214b3ff0107c84f9ae712d1d
 workflow-type: tm+mt
 source-wordcount: '0'
 ht-degree: 0%
@@ -17,6 +17,6 @@ ht-degree: 0%
 
 PICC
 
-# 익명의 웹 활동 {#anonymous-web-activities}
+## 익명의 웹 활동 {#anonymous-web-activities}
 
 익명 웹 활동 탭에는 모든 **익명** 웹 페이지 방문자 웹 활동이 표시됩니다. 페이지 방문 횟수를 참조하여 최신 웹 활동을 검토하십시오.
