@@ -2,10 +2,10 @@
 description: 영업 활동 용어집 - Marketo 문서 - 제품 설명서
 title: 영업 활동 용어집
 exl-id: c7805642-07b6-4697-9efe-5c673ae9ca53
-source-git-commit: 9677c26004a567bb53fef452304665eb73855568
+source-git-commit: 84a285974de3bbcdf33e24befae323d3d82ef239
 workflow-type: tm+mt
-source-wordcount: '480'
-ht-degree: 1%
+source-wordcount: '0'
+ht-degree: 0%
 
 ---
 
@@ -121,7 +121,7 @@ Sales Connect에서 판매자가 영업 케이스에 리드를 추가하거나, 
   <td>원문</td>
  </tr>
  <tr>
-  <td>개인 ID(MSC)</td>
+  <td>Marketo 영업 담당자 ID</td>
  </tr>
  <tr>
   <th rowspan="11">수신한 영업 호출</th>
@@ -155,7 +155,7 @@ Sales Connect에서 판매자가 영업 케이스에 리드를 추가하거나, 
   <td>판매 전화 응답자</td>
  </tr>
  <tr>
-  <td>Marketo 영업 사원 ID(MSC)</td>
+  <td>Marketo 영업 담당자 ID</td>
  </tr>
  <tr>
   <th rowspan="6">영업 캠페인에 추가</th>
@@ -216,6 +216,10 @@ Sales Connect에서 판매자가 영업 케이스에 리드를 추가하거나, 
   <tr> 
    <td><strong>링크</strong></td> 
    <td>클릭한 URL입니다.</td> 
+  </tr> 
+  <tr> 
+   <td><strong>Marketo 영업 담당자 ID</strong></td> 
+   <td>Sales Connect의 개인 레코드에 대한 고유 ID입니다.</td> 
   </tr> 
   <tr> 
    <td><strong>받는 사람</strong></td> 
