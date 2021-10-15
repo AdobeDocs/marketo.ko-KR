@@ -2,9 +2,9 @@
 description: 현재 릴리스 노트 - Marketo 문서 - 제품 설명서
 title: 현재 릴리스 노트
 exl-id: a2eccad5-73ad-48f9-8091-51cee23824e1
-source-git-commit: e304666be903373ecc9821d1ef328141e023400a
+source-git-commit: 376b9e69e117bfca269719483e79c45e33a2ed42
 workflow-type: tm+mt
-source-wordcount: '1178'
+source-wordcount: '0'
 ht-degree: 0%
 
 ---
@@ -62,8 +62,6 @@ ht-degree: 0%
 ## 영업 연결 {#sales-connect}
 
 ![(별)](assets/yellow-star.png)
-
-**GA(전자 메일 연결 조절)**: Sales Connect의 이메일 연결 조절 기능을 통해 이메일 게재 능력을 향상시키고 개인화된 판매 커뮤니케이션을 확장할 수 있습니다. 이 혁신적인 기술은 이메일 전송 타이밍을 자동으로 관리하여 Exchange 및 Gmail 사용자를 위한 원활한 경험을 만듭니다. 타사 대량 이메일 전송 애플리케이션을 사용하거나 사용하지 않고 Sales Connect에서 모든 이메일을 신뢰할 수 있게 전송합니다.
 
 **Enhanced Sales Activity Insights**: 새로운 이메일 회신 추적 활동인 Sales Email Resolved 는 Marketo Engage과 자동으로 동기화되는 이메일과 수신자의 상호 작용을 추적합니다. 또한 Source 속성이 &quot;Tout&quot;에서 &quot;Sales App&quot;로 업데이트되었습니다. 이 활동은 Marketo Engage REST API 또는 벌크 내보내기를 통해 내보내거나 보고할 수 있으며, 스마트 목록에 대한 추가 제한으로, 스마트 캠페인에서 개인화 옵션을 확장하면서 필터 및 트리거에서 사용할 수 있습니다.
 
