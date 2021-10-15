@@ -3,9 +3,9 @@ description: 스트림 만들기 - Marketo 문서 - 제품 설명서
 title: 스트림 만들기
 hide: true
 hidefromtoc: true
-source-git-commit: e304666be903373ecc9821d1ef328141e023400a
+source-git-commit: d6eac90310a86082361196067a4a835d10b75f24
 workflow-type: tm+mt
-source-wordcount: '189'
+source-wordcount: '397'
 ht-degree: 0%
 
 ---
@@ -16,15 +16,15 @@ ht-degree: 0%
 
 1. [대화 상자를 만든 후](/help/marketo/product-docs/demand-generation/dynamic-chat/dialogues.md#create-a-new-dialogue)스트림 디자이너 탭을 클릭합니다.
 
-   PICC
+   ![](assets/create-a-stream-1.png)
 
 1. 질문 카드를 드래그하여 놓습니다.
 
-   PICC
+   ![](assets/create-a-stream-2.png)
 
 1. Chatbot 응답 아래에서 원하는 방식에 대해 질문합니다.
 
-   PICC
+   ![](assets/create-a-stream-3.png)
 
    >[!NOTE]
    >
@@ -32,20 +32,87 @@ ht-degree: 0%
 
 1. 사용자 응답을 입력하고 **저장**&#x200B;을 클릭합니다.
 
-   PICC
+   ![](assets/create-a-stream-4.png)
 
-1. &quot;예&quot;의 경우 약속을 예약하려고 하므로 해당 옵션 다음에 약속 스케줄러 카드 위로 드래그합니다.
+1. &quot;예&quot;의 경우 약속을 예약하려고 하므로 아래의 옵션 을 약속 스케줄러 카드 위로 드래그합니다.
 
-   PICC
+   ![](assets/create-a-stream-5.png)
 
 1. 오른쪽의 열에서 **저장**&#x200B;을 클릭합니다.
 
-   PICC
+   ![](assets/create-a-stream-6.png)
 
 1. 이것이 목표이므로 약속 일정 아래의 목표 카드를 드래그합니다.
 
-   PICC
+   ![](assets/create-a-stream-7.png)
 
 1. 목표 이름을 지정(또는 기존 이름을 선택)하고 **저장**&#x200B;을 클릭합니다.
 
-   PICC
+   ![](assets/create-a-stream-8.png)
+
+1. &quot;아니요&quot;의 경우 메일링 목록에 추가될 것인지 확인하려고 하므로, 해당 옵션 아래의 다른 질문 카드 위로 드래그합니다.
+
+   ![](assets/create-a-stream-9.png)
+
+1. 응답을 입력하고 방문자에 대한 응답 선택 사항을 추가합니다. 완료되면 **저장**&#x200B;을 클릭합니다.
+
+   ![](assets/create-a-stream-10.png)
+
+   >[!NOTE]
+   >
+   >**응답 추가**&#x200B;를 클릭하여 응답을 추가할 수 있습니다.
+
+1. &quot;예&quot; 응답 아래에서 정보 캡처 카드 위로 드래그하여 방문자의 이메일을 수집할 수 있습니다.
+
+   ![](assets/create-a-stream-11.png)
+
+1. **유형** 드롭다운을 클릭하고 **이메일**&#x200B;을 선택합니다.
+
+   ![](assets/create-a-stream-12.png)
+
+1. 차트 보트 메시지와 자리 표시자를 입력합니다. 특성이 Marketo의 적절한 필드에 매핑되어 있는지 확인하고 **저장**&#x200B;을 클릭합니다.
+
+   ![](assets/create-a-stream-13.png)
+
+   <table>
+    <tr>
+     <td><strong>유형</strong></td>
+     <td>캡처할 정보 유형: 전화, 텍스트, 이메일.</td>
+    </tr>
+    <tr>
+     <td><strong>Chatbot 메시지</strong></td>
+     <td>방문자에게 정보를 제공하라는 메시지가 표시되는 메시지입니다.</td>
+    </tr>
+    <tr>
+     <td><strong>방문자가 입력할 내용을 확인하는 데 도움이 되는 샘플 텍스트입니다.</strong></td>
+     <td>텍스트</td>
+    </tr>
+    <tr>
+     <td><strong>특성에 응답 매핑</strong></td>
+     <td>방문자의 응답을 Marketo 구독의 개인 레코드에 있는 해당 필드에 동기화할 수 있습니다.</td>
+    </tr>
+   </table>
+
+1. 전자 메일 수집은 목표이므로 정보 캡처 아래에 목표 카드를 드래그합니다.
+
+   ![](assets/create-a-stream-14.png)
+
+1. 목표 이름을 지정(또는 기존 이름을 선택)하고 **저장**&#x200B;을 클릭합니다.
+
+   ![](assets/create-a-stream-15.png)
+
+1. &quot;아니요&quot;라고 하는 경우 응답을 추가해야 합니다. 해당 옵션 아래에 메시지 카드를 드래그합니다.
+
+   ![](assets/create-a-stream-16.png)
+
+1. 메시지를 입력하고 **저장**&#x200B;을 클릭합니다.
+
+   ![](assets/create-a-stream-17.png)
+
+1. 대화 상자를 활성화하려면 **게시**&#x200B;를 클릭합니다.
+
+   ![](assets/create-a-stream-18.png)
+
+>[!NOTE]
+>
+>게시를 클릭하기 전에 대상 URL](help/marketo/product-docs/demand-generation/dynamic-chat/dialogues.md#target)을 입력했는지 확인합니다.[
