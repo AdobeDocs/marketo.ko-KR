@@ -2,9 +2,9 @@
 description: 현재 릴리스 노트 - Marketo 문서 - 제품 설명서
 title: 현재 릴리스 노트
 exl-id: a2eccad5-73ad-48f9-8091-51cee23824e1
-source-git-commit: 669c86e2df2fbf061aa3db15c5c484a331a2b099
+source-git-commit: e304666be903373ecc9821d1ef328141e023400a
 workflow-type: tm+mt
-source-wordcount: '1016'
+source-wordcount: '1178'
 ht-degree: 0%
 
 ---
@@ -40,6 +40,10 @@ ht-degree: 0%
 **_분기 전체에 출시_**
 
 다음 기능은 비분기별 사이클에 있으며 앞으로 몇 개월 동안 릴리스될 예정입니다.
+
+**Marketo Engage에 대상 공유를 위한 기본 Adobe Experience Platform 커넥터**: 기본 대상 커넥터를 통해 Adobe Experience Platform에서 만든 대상 세그먼트의 Marketo Engage에서 다중 채널 캠페인 오케스트레이션을 활성화합니다. 커넥터는 이메일 주소 또는 ECID를 사용하여 Adobe Experience Platform 프로필을 Marketo Engage 개인 레코드와 일치시켜 간 세그먼트 공유를 만듭니다. Marketo Engage 정적 목록은 자동으로 채워져 마케터가 개인화된 메시징을 사용하여 target 대상에 도달하거나 워크플로우를 시작할 수 있도록 합니다. Experience Platform에서 계정과 기회 컨텍스트를 활용하여 보다 완벽한 실시간 통합 프로필을 활용하여 고객을 활성화합니다.
+
+**Adobe Experience Platform Marketo 데이터 소스 커넥터**: Adobe Experience Platform 사용자와 Marketo Engage 사용자는 Marketo에서 AEP로 데이터를 가져올 때 Marketo 소스 커넥터를 활용할 수 있습니다. AEP 내에서 Marketo에서 데이터(및 해당 변경 사항)를 스트리밍하여 두 제품 간에 데이터를 일관되게 유지할 수 있습니다. Marketo 커넥터는 소스 카탈로그를 통해 볼 수 있으며 &quot;Adobe 애플리케이션&quot; 아래에 나열됩니다.
 
 ## Sales Insight {#sales-insight}
 

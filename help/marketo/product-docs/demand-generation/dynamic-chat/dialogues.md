@@ -3,9 +3,9 @@ description: 대화 상자 - Marketo 문서 - 제품 설명서
 title: 대화 상자
 hide: true
 hidefromtoc: true
-source-git-commit: fe4a4b89ee295d8e351587a5ac858806a83f1305
+source-git-commit: e304666be903373ecc9821d1ef328141e023400a
 workflow-type: tm+mt
-source-wordcount: '0'
+source-wordcount: '747'
 ht-degree: 0%
 
 ---
@@ -44,7 +44,7 @@ Marketo 스마트 목록과 유사한 대상 기준 속성을 사용하여 타�
 
    ![](assets/dialogues-4.png)
 
-1. __ Isis는 기본적으로 설정되어 있습니다. 값 선택 필드에 CA를 입력합니다. 드롭다운을 클릭하고 목록에서 선택할 수도 있습니다.
+1. __ Isis는 기본적으로 설정됩니다. 값 선택 필드에 CA를 입력합니다. 드롭다운을 클릭하고 목록에서 선택할 수도 있습니다.
 
    ![](assets/dialogues-5.png)
 
@@ -84,15 +84,17 @@ Marketo 스마트 목록과 유사한 대상 기준 속성을 사용하여 타�
    >
    >누군가 웹 사이트를 방문하면 [Munchkin](/help/marketo/product-docs/administration/additional-integrations/add-munchkin-tracking-code-to-your-website.md)이 쿠키를 쿠키로 사용하여 시스템에 넣습니다. 특수 데이터베이스에서 IP를 조회하고 모든 종류의 좋은 정보를 추론합니다.
 
-1. __ Isis는 기본적으로 설정되어 있습니다. 값 선택 필드에 NY를 입력합니다(드롭다운을 클릭하고 목록에서 선택할 수도 있음).
+1. __ Isis는 기본적으로 설정됩니다. 값 선택 필드에 NY를 입력합니다(드롭다운을 클릭하고 목록에서 선택할 수도 있음).
 
    ![](assets/dialogues-12.png)
 
 ## 그룹 추가 {#add-groups}
 
-다른 속성의 &quot;any&quot;와 함께 모든 특정 속성을 사용하려는 경우 속성을 그룹화하는 옵션이 있습니다.
+다른 속성의 &quot;모두&quot; 또는 &quot;모두&quot;와 함께 모든 특정 속성을 포함하려는 경우 속성을 그룹화하는 옵션이 있습니다. 여러 그룹을 추가할 수 있습니다.
 
-완료
+![](assets/dialogues-13.png)
+
+![](assets/dialogues-14.png)
 
 ## Target {#target}
 
@@ -107,7 +109,7 @@ Marketo 스마트 목록과 유사한 대상 기준 속성을 사용하여 타�
 
 >[!NOTE]
 >
->별표를 사용하는 것은 다목적 엽서 역할을 합니다. 따라서 `https://*.website.com` 은 하위 도메인을 포함하여 사이트의 모든 페이지에 대화 상자를 둡니다(예: `support.website.com`) 및 `https://website.com/folder/*` 은 후속 폴더의 모든 HTML 페이지에 대화 상자를 표시합니다(예: 이 경우 폴더가 &quot;sports&quot;라고 가정해 보겠습니다. website.com/sports/baseball.html, website.com/sports/football.html 등)
+>별표를 사용하는 것은 다목적 엽서 역할을 합니다. 따라서 `https://*.website.com` 은 하위 도메인을 포함하여 사이트의 모든 페이지에 대화 상자를 둡니다(예: `support.website.com`) 그리고 `https://website.com/folder/*` 은 후속 폴더의 모든 HTML 페이지에 대화 상자를 둡니다(예: 이 경우 폴더가 &quot;sports&quot;라고 가정해 보겠습니다. website.com/sports/baseball.html, website.com/sports/football.html 등)
 
 ## 스트림 디자이너 {#stream-designer}
 
@@ -139,9 +141,7 @@ Marketo 스마트 목록과 유사한 대상 기준 속성을 사용하여 타�
 
 **스트림 만들기**
 
-만들 _많은_ 스트림 조합이 있습니다. 이 예제에서는 yes 또는 no 질문을 하고 몇 가지 응답을 준비합니다.
-
-예
+만들 _많은_ 스트림 조합이 있습니다. 이 문서](/help/marketo/product-docs/demand-generation/dynamic-chat/create-a-stream.md)에서 한 가지 [예를 살펴보겠습니다.
 
 ## 보고서 {#reports}
 
