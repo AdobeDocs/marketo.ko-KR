@@ -3,9 +3,9 @@ audience: end-user
 user-guide-title: Marketo 안내서
 user-guide-description: Marketo 제품 설명서
 feature-set: Marketo Engage
-source-git-commit: 78fc4dd6325abbebcad8446672159c9b75bf8470
+source-git-commit: 7bac8a520bb1b8a2cc353c229e2f456476f67384
 workflow-type: tm+mt
-source-wordcount: '7959'
+source-wordcount: '7968'
 ht-degree: 0%
 
 ---
@@ -1272,7 +1272,12 @@ ht-degree: 0%
          + [Google Chrome용 Marketo Insights 사용](product-docs/marketo-sales-insight/msi-chrome-plugin/using-marketo-insights-for-google-chrome.md)
          + [Google Mail에서 개인 및 계정 정보 및 활동 보기](product-docs/marketo-sales-insight/msi-chrome-plugin/view-person-and-account-information-and-activities-in-google-mail.md)
       + Microsoft Dynamics용 MSI {#msi-for-microsoft-dynamics}
-         + [기능 개요](product-docs/marketo-sales-insight/msi-for-microsoft-dynamics/feature-overview.md)
+         + 기능 {#features}
+            + [기능 개요](product-docs/marketo-sales-insight/msi-for-microsoft-dynamics/features/feature-overview.md)
+            + Marketo 탭 {#marketo-tab}
+               + [최고의 선택](product-docs/marketo-sales-insight/msi-for-microsoft-dynamics/features/marketo-tab/best-bets.md)
+               + [이메일 활동](product-docs/marketo-sales-insight/msi-for-microsoft-dynamics/features/marketo-tab/email-activities.md)
+               + [웹 활동](product-docs/marketo-sales-insight/msi-for-microsoft-dynamics/features/marketo-tab/web-activities.md)
          + {#installing} 설치
             + [Microsoft Dynamics용 Marketo Sales Insight Solution 다운로드](product-docs/marketo-sales-insight/msi-for-microsoft-dynamics/installing/download-the-marketo-sales-insight-solution-for-microsoft-dynamics.md)
             + [Microsoft Dynamics 2011에서 Marketo Sales Insight 설치 및 구성](product-docs/marketo-sales-insight/msi-for-microsoft-dynamics/installing/install-and-configure-marketo-sales-insight-in-microsoft-dynamics-2011.md)

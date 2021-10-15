@@ -3,9 +3,9 @@ description: 대화 상자 - Marketo 문서 - 제품 설명서
 title: 대화 상자
 hide: true
 hidefromtoc: true
-source-git-commit: e304666be903373ecc9821d1ef328141e023400a
+source-git-commit: 1434d2a1cbf5575cea60ccc0c655313003b1452c
 workflow-type: tm+mt
-source-wordcount: '747'
+source-wordcount: '742'
 ht-degree: 0%
 
 ---
@@ -34,13 +34,13 @@ ht-degree: 0%
 
 ## 대상 기준 {#audience-criteria}
 
-Marketo 스마트 목록과 유사한 대상 기준 속성을 사용하여 타겟 대상을 정의할 수 있습니다. 유추, 리드 또는 회사 속성(또는 이들의 조합)을 사용하여 알려진 리드나 알 수 없는 리드를 타깃팅할 수 있습니다.
+Marketo 스마트 목록과 유사한 대상 기준 속성을 사용하여 타겟 대상을 정의할 수 있습니다. 추론된, 개인 또는 회사 속성(또는 이들의 조합)을 사용하여 알려진 사람 또는 알 수 없는 사람을 타깃팅할 수 있습니다.
 
-**알려진 리드**
+**알려진 사람**
 
-선택할 _많은_ 속성 조합이 있습니다. 이 예에서는 50명 이상의 직원이 있는 회사에서 일하는 모든 **알려진 리드**&#x200B;를 타겟팅합니다.
+선택할 _많은_ 속성 조합이 있습니다. 이 예에서는 50명 이상의 직원이 있는 회사에서 일하는 모든 **알려진 사람**&#x200B;을 타겟팅합니다.
 
-1. **리드 상태** 속성을 선택하고 오른쪽으로 드래그합니다.
+1. **개인 상태** 속성을 선택하고 오른쪽으로 드래그합니다.
 
    ![](assets/dialogues-4.png)
 
@@ -64,11 +64,11 @@ Marketo 스마트 목록과 유사한 대상 기준 속성을 사용하여 타�
 
    ![](assets/dialogues-8.png)
 
-**익명의 리드**
+**익명 사용자**
 
-아직 데이터베이스에 없는 리드를 명확하게 타겟팅하는 쉬운 방법이 있습니다. 이 예에서는 New York 영역에 있는 모든 **익명 리드**&#x200B;를 타겟팅합니다.
+아직 데이터베이스에 없는 사용자를 대상으로 하는 쉬운 방법이 있습니다. 이 예에서는 New York 영역에 있는 모든 **익명 사용자**&#x200B;를 타겟팅합니다.
 
-1. **리드 이메일** 속성을 선택하고 오른쪽으로 드래그합니다.
+1. **개인 전자 메일** 속성을 선택하고 오른쪽으로 드래그합니다.
 
    ![](assets/dialogues-9.png)
 
@@ -131,17 +131,17 @@ Marketo 스마트 목록과 유사한 대상 기준 속성을 사용하여 타�
  </tr>
  <tr>
   <td><strong>약속 스케줄러</strong></td>
-  <td>방문자에게 후속 작업을 예약하기 위해 사용 가능한 날짜 달력을 제공합니다. 일정 가용성은 [다음 에이전트에 대한 라인](/help/marketo/product-docs/demand-generation/dynamic-chat/dynamic-chat-overview.md#routing)을 반영합니다.</td>
+  <td>방문자에게 후속 작업을 예약하기 위해 사용 가능한 날짜 달력을 제공합니다. 일정 가용성은 <a href="/help/marketo/product-docs/demand-generation/dynamic-chat/dynamic-chat-overview.md#routing">다음 에이전트를 줄</a>에 반영합니다.</td>
  </tr>
  <tr>
   <td><strong>목표</strong></td>
-  <td>방문자가 볼 수 없는 유일한 카드입니다. 특정 채팅(예: 방문자의 이메일을 수집하는 것이 목표인 경우 스트림에서 정보 캡처 뒤에 목표 카드를 배치합니다.</td>
+  <td>방문자가 볼 수 없는 유일한 카드입니다. 특정 채팅(예: 방문자의 이메일을 수집하는 것이 목표인 경우 스트림에서 정보 캡처 바로 뒤에 목표 카드를 배치합니다.</td>
  </tr>
 </table>
 
 **스트림 만들기**
 
-만들 _많은_ 스트림 조합이 있습니다. 이 문서](/help/marketo/product-docs/demand-generation/dynamic-chat/create-a-stream.md)에서 한 가지 [예를 살펴보겠습니다.
+가능한 스트림 조합이 _많습니다._ 이 문서](/help/marketo/product-docs/demand-generation/dynamic-chat/create-a-stream.md)에서 [의 예를 살펴보겠습니다.
 
 ## 보고서 {#reports}
 
@@ -162,7 +162,7 @@ Marketo 스마트 목록과 유사한 대상 기준 속성을 사용하여 타�
   <td>방문자가 대화 상자의 모든 분기 끝에 도달할 때마다 증가합니다.</td>
  </tr>
  <tr>
-  <td><strong>캡처된 리드</strong></td>
+  <td><strong>잡힌 사람</strong></td>
   <td>방문자가 대화 상자 흐름에서 유효한 이메일 주소를 제공할 때마다 증가합니다.</td>
  </tr>
  <tr>
@@ -174,3 +174,7 @@ Marketo 스마트 목록과 유사한 대상 기준 속성을 사용하여 타�
   <td>방문자가 모든 대화 상자 흐름에서 목표에 도달할 때마다 증가합니다.</td>
  </tr>
 </table>
+
+>[!MORELIKETHIS]
+>
+>[스트림 만들기](/help/marketo/product-docs/demand-generation/dynamic-chat/create-a-stream.md)

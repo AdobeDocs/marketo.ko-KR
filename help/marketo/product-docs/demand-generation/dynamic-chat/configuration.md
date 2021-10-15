@@ -3,9 +3,9 @@ description: 구성 - Marketo 문서 - 제품 설명서
 title: 구성
 hide: true
 hidefromtoc: true
-source-git-commit: 4984b82ed9de2684d1be3f9444d5685b8b1a03d1
+source-git-commit: 1434d2a1cbf5575cea60ccc0c655313003b1452c
 workflow-type: tm+mt
-source-wordcount: '262'
+source-wordcount: '264'
 ht-degree: 0%
 
 ---
@@ -38,7 +38,7 @@ ht-degree: 0%
 
 **에이전트 설정**
 
-에이전트 설정에서 차트박스에 레이블을 추가할 수 있습니다(예: &quot;Adobe 보트&quot;)가 위에 표시됩니다. 응답 지연(초)을 결정하고 채팅 아바타를 변경할 수도 있습니다.
+에이전트 설정에서 차트박스에 레이블을 추가할 수 있습니다(예: Adobe 보트 의 맨 위에 표시됩니다. 응답 지연(초)을 결정하고 채팅 아바타를 변경할 수도 있습니다.
 
 ![](assets/configuration-5.png)
 
@@ -60,4 +60,4 @@ chatbot가 웹 사이트에 표시되도록 하려면 먼저 Dynamic Chat JavaSc
 
 >[!NOTE]
 >
->HTML 문제 해결을 지원하기 위해 Marketo 지원이 설정되지 않았습니다. HTML 지원이 필요하면 웹 개발자에게 문의하십시오.
+>Marketo 지원 기능이 HTML 문제 해결을 지원하기 위해 설정되어 있지 않습니다. HTML 지원은 웹 개발자에게 문의하십시오.

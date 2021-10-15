@@ -3,18 +3,18 @@ description: 스트림 만들기 - Marketo 문서 - 제품 설명서
 title: 스트림 만들기
 hide: true
 hidefromtoc: true
-source-git-commit: d6eac90310a86082361196067a4a835d10b75f24
+source-git-commit: 1434d2a1cbf5575cea60ccc0c655313003b1452c
 workflow-type: tm+mt
-source-wordcount: '397'
+source-wordcount: '400'
 ht-degree: 0%
 
 ---
 
 # 스트림 만들기 {#create-a-stream}
 
-만들 _많은_ 스트림 조합이 있습니다. 다음은 마케터가 질문이 있는지 사이트 방문자에게 묻는 한 예입니다. 예라면 방문자가 약속을 예약할 수 있습니다. 없을 경우 방문자에게 향후 서신에 대한 메일링 목록에 가입할 수 있는 옵션이 제공됩니다. 목표는 약속을 예약하거나 방문자의 이메일을 수집하는 것입니다.
+만들 수 있는 _많은_ 스트림 조합이 있습니다. 다음은 마케터가 제품 질문이 있는지 사이트 방문자에게 묻는 한 예입니다. 예라면 방문자가 약속을 예약할 수 있습니다. 없을 경우 방문자에게 향후 서신에 대한 메일링 목록에 가입할 수 있는 옵션이 제공됩니다. 목표는 약속을 예약하거나 방문자의 이메일을 수집하는 것입니다.
 
-1. [대화 상자를 만든 후](/help/marketo/product-docs/demand-generation/dynamic-chat/dialogues.md#create-a-new-dialogue)스트림 디자이너 탭을 클릭합니다.
+1. [대화 상자를 만든 후 **스트림 디자이너** 탭을 클릭합니다.](/help/marketo/product-docs/demand-generation/dynamic-chat/dialogues.md#create-a-new-dialogue)
 
    ![](assets/create-a-stream-1.png)
 
@@ -84,8 +84,8 @@ ht-degree: 0%
      <td>방문자에게 정보를 제공하라는 메시지가 표시되는 메시지입니다.</td>
     </tr>
     <tr>
-     <td><strong>방문자가 입력할 내용을 확인하는 데 도움이 되는 샘플 텍스트입니다.</strong></td>
-     <td>텍스트</td>
+     <td><strong>자리 표시자</strong></td>
+     <td>방문자가 입력할 내용을 확인하는 데 도움이 되는 샘플 텍스트입니다.</td>
     </tr>
     <tr>
      <td><strong>특성에 응답 매핑</strong></td>
@@ -116,3 +116,7 @@ ht-degree: 0%
 >[!NOTE]
 >
 >게시를 클릭하기 전에 대상 URL](help/marketo/product-docs/demand-generation/dynamic-chat/dialogues.md#target)을 입력했는지 확인합니다.[
+
+>[!MORELIKETHIS]
+>
+>[대화 상자](/help/marketo/product-docs/demand-generation/dynamic-chat/dialogues.md)

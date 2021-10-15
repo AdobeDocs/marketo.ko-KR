@@ -3,7 +3,7 @@ description: Marketo에 다이내믹 채팅 연결 - Marketo 문서 - 제품 설
 title: Marketo에 동적 채팅 연결
 hide: true
 hidefromtoc: true
-source-git-commit: e304666be903373ecc9821d1ef328141e023400a
+source-git-commit: 1434d2a1cbf5575cea60ccc0c655313003b1452c
 workflow-type: tm+mt
 source-wordcount: '141'
 ht-degree: 0%
@@ -32,8 +32,10 @@ ht-degree: 0%
 
    PICC(새 하위 브랜드를 가져올 때의 스크린샷)
 
-   >[!NOTE]
-   >
-   >데이터베이스 크기에 따라 동기화가 완료되는 데 5~8시간이 걸릴 수 있습니다. 평균 동기화 시간은 60분입니다. 시간대 확인
+>[!NOTE]
+>
+>데이터베이스 크기에 따라 동기화가 완료되는 데 5~8시간이 걸릴 수 있습니다. 평균 동기화 시간은 60분입니다. 시간대 확인
 
-관련 문서
+>[!MORELIKETHIS]
+>
+>[초기 설정](/help/marketo/product-docs/demand-generation/dynamic-chat/initial-setup.md)
