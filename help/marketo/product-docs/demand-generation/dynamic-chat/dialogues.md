@@ -3,9 +3,9 @@ description: 대화 상자 - Marketo 문서 - 제품 설명서
 title: 대화 상자
 hide: true
 hidefromtoc: true
-source-git-commit: 1434d2a1cbf5575cea60ccc0c655313003b1452c
+source-git-commit: de2c73003aa1d817fbaf1d6ed5e180e68fc64b72
 workflow-type: tm+mt
-source-wordcount: '742'
+source-wordcount: '0'
 ht-degree: 0%
 
 ---
@@ -63,6 +63,8 @@ Marketo 스마트 목록과 유사한 대상 기준 속성을 사용하여 타�
 1. 50을 입력하고 화면의 아무 곳이나 클릭하여 저장합니다.
 
    ![](assets/dialogues-8.png)
+
+그게 다야!
 
 **익명 사용자**
 
