@@ -3,9 +3,9 @@ unique-page-id: 42762511
 description: Adobe Experience Cloud 대상 공유 설정 - Marketo 문서 - 제품 설명서
 title: Adobe Experience Cloud 대상 공유 설정
 exl-id: d20be0d5-508f-40b9-a267-b6752643c311
-source-git-commit: c225facfb3fce2d9e03ca1db5aa1ce0fee4f686c
+source-git-commit: 41d8762203786bac9aea03ac978daa0549ac8e93
 workflow-type: tm+mt
-source-wordcount: '0'
+source-wordcount: '167'
 ht-degree: 0%
 
 ---
@@ -18,27 +18,27 @@ ht-degree: 0%
 >
 >Marketo 인스턴스의 HIPAA 준비 배포에서는 이 통합을 사용할 수 없습니다.
 
-1. Marketo에서 **관리**&#x200B;를 클릭합니다.
+1. Marketo에서 **관리**.
 
    ![](assets/set-up-adobe-experience-cloud-audience-sharing-1.png)
 
-1. 통합에서 **Adobe 조직 매핑**&#x200B;을 클릭합니다.
+1. 통합에서 **Adobe 조직 매핑**.
 
    ![](assets/set-up-adobe-experience-cloud-audience-sharing-2.png)
 
-1. **편집**&#x200B;을 클릭합니다.
+1. 클릭 **편집**.
 
    ![](assets/set-up-adobe-experience-cloud-audience-sharing-3.png)
 
-1. Adobe IMS 조직 ID를 입력하고([여기](https://experienceleague.adobe.com/docs/control-panel/using/faq.html)를 찾는 방법을 알아봅니다.) **확인**&#x200B;을 클릭합니다.
+1. Adobe IMS 조직 ID를 입력합니다(이를 찾는 방법을 알아봅니다.) [여기](https://experienceleague.adobe.com/docs/control-panel/using/faq.html)) 를 클릭하고 를 클릭합니다. **확인**.
 
    ![](assets/set-up-adobe-experience-cloud-audience-sharing-4.png)
 
-1. **확인**&#x200B;을 클릭합니다.
+1. 클릭 **확인**.
 
    ![](assets/set-up-adobe-experience-cloud-audience-sharing-5.png)
 
-1. **닫기**&#x200B;를 클릭합니다.
+1. 클릭 **닫기**.
 
    ![](assets/set-up-adobe-experience-cloud-audience-sharing-6.png)
 
@@ -46,6 +46,6 @@ ht-degree: 0%
    >
    >보안상의 이유로 매핑할 Adobe 조직의 조직 관리자여야 합니다. 그렇지 않으면 작업이 실패합니다.
 
-1. 아직 로그인하지 않은 _이(가) 있으면 새 탭/창에 팝업이 나타납니다._ Adobe 조직에 로그인합니다(이 작업은 조직 액세스를 확인합니다).
+1. 만약 _not_ 이미 로그인되어 있으면 새 탭/창에 팝업이 나타납니다. Adobe 조직에 로그인합니다(이 작업은 조직 액세스를 확인합니다).
 
-그게 다야! 이제 [대상 데이터](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/static-lists/send-a-list-to-adobe-experience-cloud.md)를 Adobe Experience Cloud의 또는 [대상](/help/marketo/product-docs/core-marketo-concepts/miscellaneous/sync-an-audience-from-adobe-experience-cloud.md)과 동기화할 수 있습니다.
+그게 다야! 이제 다음을 수행할 수 있습니다 [대상 데이터 공유](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/static-lists/send-a-list-to-adobe-experience-cloud.md) 또는 [대상자 동기화](/help/marketo/product-docs/core-marketo-concepts/miscellaneous/sync-an-audience-from-adobe-experience-cloud.md) Adobe Experience Cloud에서 가져옵니다.
