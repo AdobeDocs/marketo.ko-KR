@@ -2,9 +2,9 @@
 title: predictive-filters
 description: 예측 필터
 exl-id: cbfc2d5f-181d-4f07-b2c6-74c848708ef0
-source-git-commit: 42ddb44100a041a09ff4a68c02ccf6aabb2d953e
+source-git-commit: 41a51afde7942d6973a01636810bc5862d023e99
 workflow-type: tm+mt
-source-wordcount: '0'
+source-wordcount: '300'
 ht-degree: 0%
 
 ---
@@ -21,13 +21,13 @@ Predictive Audiences의 일부로 Marketo은 스마트 목록에 AI/ML 기반 �
 
 ## 참가 가능성
 
-이 필터는 대상 범위를 효과적으로 좁히는 데 사용됩니다. 따라서 가능성이 높은 리드를 타겟팅하고 초대하는 데 도움이 됩니다 **참석자들** 웨비나 이벤트. &quot;[!UICONTROL Likelihood to attend program]현재 이벤트 프로그램이 됩니다.
+이 필터는 대상 범위를 효과적으로 좁히는 데 사용됩니다. 따라서 가능성이 높은 리드를 타겟팅하고 초대하는 데 도움이 됩니다 **참석자들** 웨비나 이벤트. 참가 가능성 프로그램은 현재 이벤트 프로그램입니다.
 
 ![이미지 2](/help/sky/assets/predictive-audiences/predictive-filters/predictive-filters-2.png)
 
 ## 등록 가능성
 
-와 비슷합니다 [!UICONTROL _참가 가능성_] 필터링하려면 이 필터를 사용하여 대상 범위를 좁히고 가능성이 높은 리드를 타깃팅하십시오 **등록** 참조하십시오.
+와 비슷합니다 _참가 가능성_ 필터링하려면 이 필터를 사용하여 대상 범위를 좁히고 가능성이 높은 리드를 타깃팅하십시오 **등록** 참조하십시오.
 
 ![이미지 3](/help/sky/assets/predictive-audiences/predictive-filters/predictive-filters-3.png)
 
