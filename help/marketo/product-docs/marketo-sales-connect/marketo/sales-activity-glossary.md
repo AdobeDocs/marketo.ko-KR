@@ -2,7 +2,7 @@
 description: 영업 활동 용어집 - Marketo 문서 - 제품 설명서
 title: 영업 활동 용어집
 exl-id: c7805642-07b6-4697-9efe-5c673ae9ca53
-source-git-commit: 84a285974de3bbcdf33e24befae323d3d82ef239
+source-git-commit: 42ddb44100a041a09ff4a68c02ccf6aabb2d953e
 workflow-type: tm+mt
 source-wordcount: '0'
 ht-degree: 0%
@@ -114,7 +114,7 @@ Sales Connect에서 판매자가 영업 케이스에 리드를 추가하거나, 
   <td>Marketo 영업 담당자 ID</td>
  </tr>
 <tr>
-  <th rowspan="3">받은 영업 전자 메일</th>
+  <th rowspan="3">영업 전자 메일에 응답</th>
   <td>받는 사람</td>
  </tr>
  <tr>

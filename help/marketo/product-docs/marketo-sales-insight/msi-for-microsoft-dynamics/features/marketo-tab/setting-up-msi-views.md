@@ -3,9 +3,9 @@ description: MSI 보기 설정 - Marketo 문서 - 제품 설명서
 title: MSI 보기 설정
 hide: true
 hidefromtoc: true
-source-git-commit: f4930d1747f1ca893d7494afc3dcbeb8c6398e93
+source-git-commit: 42ddb44100a041a09ff4a68c02ccf6aabb2d953e
 workflow-type: tm+mt
-source-wordcount: '260'
+source-wordcount: '0'
 ht-degree: 0%
 
 ---
@@ -16,7 +16,7 @@ Dynamics에 Sales Insight 플러그인을 설치하면 사이트 맵에 Best Bet
 
 1. Dynamics에서 톱니바퀴 아이콘을 클릭하고 을 선택합니다 **고급 설정** 드롭다운
 
-1. 화면 왼쪽 상단에서 **설정**. 사용자 지정에서 사용자 지정을 선택합니다.
+1. 화면 왼쪽 상단에서 **설정**. 사용자 지정에서 **사용자 지정**.
 
 1. 클릭 **시스템 사용자 지정**.
 

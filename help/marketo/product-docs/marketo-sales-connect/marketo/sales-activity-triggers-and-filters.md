@@ -1,9 +1,10 @@
 ---
 description: 판매 활동 트리거 및 필터 - Marketo 문서 - 제품 설명서
 title: 판매 활동 트리거 및 필터
-source-git-commit: 9f8d6895e88250afc2799b2fb7fc73442018362f
+exl-id: 750abb73-8217-4739-8a08-1eb0f6e2976c
+source-git-commit: 42ddb44100a041a09ff4a68c02ccf6aabb2d953e
 workflow-type: tm+mt
-source-wordcount: '115'
+source-wordcount: '0'
 ht-degree: 0%
 
 ---
@@ -18,11 +19,11 @@ ht-degree: 0%
 
    ![](assets/sales-activity-triggers-and-filters-1.png)
 
-1. **스마트 목록** 탭에서 &quot;Sales Connect&quot;를 검색합니다.
+1. 에서 **Smart List** 탭에서 &quot;Sales Apps&quot;를 검색합니다.
 
    ![](assets/sales-activity-triggers-and-filters-2.png)
 
-1. 원하는 필터나 트리거를 선택합니다.
+1. 원하는 필터나 트리거를 선택하고 드래그합니다.
 
    ![](assets/sales-activity-triggers-and-filters-3.png)
 
@@ -32,4 +33,4 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->활동, 제한 및 정의에 대한 전체 목록은 [영업 활동 용어집](/help/marketo/product-docs/marketo-sales-connect/marketo/sales-activity-glossary.md)을 참조하십시오.
+>활동, 제한 및 정의 전체 목록을 보려면 [영업 활동 용어집](/help/marketo/product-docs/marketo-sales-connect/marketo/sales-activity-glossary.md).
