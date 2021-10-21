@@ -3,7 +3,7 @@ description: 스트림 만들기 - Marketo 문서 - 제품 설명서
 title: 스트림 만들기
 hide: true
 hidefromtoc: true
-source-git-commit: 1434d2a1cbf5575cea60ccc0c655313003b1452c
+source-git-commit: 1022d3eaf4ee4a1686c5d8ae3168ee0197776289
 workflow-type: tm+mt
 source-wordcount: '400'
 ht-degree: 0%
@@ -12,9 +12,9 @@ ht-degree: 0%
 
 # 스트림 만들기 {#create-a-stream}
 
-만들 수 있는 _많은_ 스트림 조합이 있습니다. 다음은 마케터가 제품 질문이 있는지 사이트 방문자에게 묻는 한 예입니다. 예라면 방문자가 약속을 예약할 수 있습니다. 없을 경우 방문자에게 향후 서신에 대한 메일링 목록에 가입할 수 있는 옵션이 제공됩니다. 목표는 약속을 예약하거나 방문자의 이메일을 수집하는 것입니다.
+있습니다 _많은_ 만들 수 있는 스트림 조합입니다. 다음은 마케터가 제품 질문이 있는지 사이트 방문자에게 묻는 한 예입니다. 예라면 방문자가 약속을 예약할 수 있습니다. 없을 경우 방문자에게 향후 서신에 대한 메일링 목록에 가입할 수 있는 옵션이 제공됩니다. 목표는 약속을 예약하거나 방문자의 이메일을 수집하는 것입니다.
 
-1. [대화 상자를 만든 후 **스트림 디자이너** 탭을 클릭합니다.](/help/marketo/product-docs/demand-generation/dynamic-chat/dialogues.md#create-a-new-dialogue)
+1. 다음에 [대화 상자 만들기](/help/marketo/product-docs/demand-generation/dynamic-chat/dialogues.md#create-a-new-dialogue)를 클릭하고 **스트림 디자이너** 탭.
 
    ![](assets/create-a-stream-1.png)
 
@@ -30,7 +30,7 @@ ht-degree: 0%
    >
    >포크는 기본적으로 켜짐으로 설정되어 방문자가 보지 않고 채팅 아이콘 옆에 열기 질문을 표시합니다.
 
-1. 사용자 응답을 입력하고 **저장**&#x200B;을 클릭합니다.
+1. 사용자 응답 입력 및 클릭 **저장**.
 
    ![](assets/create-a-stream-4.png)
 
@@ -38,7 +38,7 @@ ht-degree: 0%
 
    ![](assets/create-a-stream-5.png)
 
-1. 오른쪽의 열에서 **저장**&#x200B;을 클릭합니다.
+1. 오른쪽 열의 **저장**.
 
    ![](assets/create-a-stream-6.png)
 
@@ -46,7 +46,7 @@ ht-degree: 0%
 
    ![](assets/create-a-stream-7.png)
 
-1. 목표 이름을 지정(또는 기존 이름을 선택)하고 **저장**&#x200B;을 클릭합니다.
+1. 목표에 이름을 지정하고(또는 기존 목표를 선택) 을 클릭한 다음 **저장**.
 
    ![](assets/create-a-stream-8.png)
 
@@ -54,23 +54,23 @@ ht-degree: 0%
 
    ![](assets/create-a-stream-9.png)
 
-1. 응답을 입력하고 방문자에 대한 응답 선택 사항을 추가합니다. 완료되면 **저장**&#x200B;을 클릭합니다.
+1. 응답을 입력하고 방문자에 대한 응답 선택 사항을 추가합니다. 클릭 **저장** 완료 시.
 
    ![](assets/create-a-stream-10.png)
 
    >[!NOTE]
    >
-   >**응답 추가**&#x200B;를 클릭하여 응답을 추가할 수 있습니다.
+   >을 클릭하여 응답을 더 추가할 수 있습니다 **응답 추가**.
 
 1. &quot;예&quot; 응답 아래에서 정보 캡처 카드 위로 드래그하여 방문자의 이메일을 수집할 수 있습니다.
 
    ![](assets/create-a-stream-11.png)
 
-1. **유형** 드롭다운을 클릭하고 **이메일**&#x200B;을 선택합니다.
+1. 을(를) 클릭합니다. **유형** 드롭다운 및 선택 **이메일**.
 
    ![](assets/create-a-stream-12.png)
 
-1. 차트 보트 메시지와 자리 표시자를 입력합니다. 특성이 Marketo의 적절한 필드에 매핑되어 있는지 확인하고 **저장**&#x200B;을 클릭합니다.
+1. 차트 보트 메시지와 자리 표시자를 입력합니다. 속성이 Marketo의 해당 필드에 매핑되어 있는지 확인하고 를 클릭합니다 **저장**.
 
    ![](assets/create-a-stream-13.png)
 
@@ -97,7 +97,7 @@ ht-degree: 0%
 
    ![](assets/create-a-stream-14.png)
 
-1. 목표 이름을 지정(또는 기존 이름을 선택)하고 **저장**&#x200B;을 클릭합니다.
+1. 목표에 이름을 지정하고(또는 기존 목표를 선택) 을 클릭한 다음 **저장**.
 
    ![](assets/create-a-stream-15.png)
 
@@ -105,17 +105,17 @@ ht-degree: 0%
 
    ![](assets/create-a-stream-16.png)
 
-1. 메시지를 입력하고 **저장**&#x200B;을 클릭합니다.
+1. 메시지를 입력하고 을(를) 클릭합니다. **저장**.
 
    ![](assets/create-a-stream-17.png)
 
-1. 대화 상자를 활성화하려면 **게시**&#x200B;를 클릭합니다.
+1. 대화 상자를 활성화하려면 **게시**.
 
    ![](assets/create-a-stream-18.png)
 
 >[!NOTE]
 >
->게시를 클릭하기 전에 대상 URL](help/marketo/product-docs/demand-generation/dynamic-chat/dialogues.md#target)을 입력했는지 확인합니다.[
+>게시를 클릭하기 전에 [대상 URL을 입력했습니다.](/help/marketo/product-docs/demand-generation/dynamic-chat/dialogues.md#target).
 
 >[!MORELIKETHIS]
 >
