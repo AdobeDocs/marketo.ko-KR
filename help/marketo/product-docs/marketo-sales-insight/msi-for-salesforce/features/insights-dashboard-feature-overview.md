@@ -3,9 +3,9 @@ unique-page-id: 42762514
 description: Insights 대시보드 기능 개요 - Marketo 문서 - 제품 설명서
 title: 통찰력 대시보드 기능 개요
 exl-id: a32f8694-faf2-4183-a485-82fd859b77d2
-source-git-commit: 6679e1e0bdb53d3f330c15415a5fbe38f61d28d2
+source-git-commit: 7c4edcd35b71846cc7bfea80906c0f9cbccea736
 workflow-type: tm+mt
-source-wordcount: '1460'
+source-wordcount: '1503'
 ht-degree: 0%
 
 ---
@@ -16,7 +16,7 @@ Sales Insights 대시보드에서 사용할 수 있는 기능에 대해 자세�
 
 >[!PREREQUISITES]
 >
->최신 MSI SFDC 패키지 및 [configuration](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/configuration/configuration-for-existing-customers.md)이 있어야 합니다.
+>최신 MSI SFDC 패키지 및 [구성](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/configuration/configuration-for-existing-customers.md).
 
 ![](assets/one.png)
 
@@ -155,7 +155,7 @@ Sales Insights 대시보드에서 사용할 수 있는 기능에 대해 자세�
 * 주별 요약 모음에는 해당 주의 관심 영역, 이메일 및 웹 활동이 표시됩니다. 각 아이콘을 클릭할 수 있으며, 특정 활동을 표시하는 필터로 사용할 수 있습니다
 * 기본 보기: 현재 보기의 활동 목록입니다
 
-**예정된 이메일 캠페인 및** 이벤트 이메일 캠페인 탭:
+**예정된 이메일 캠페인 및 이벤트** 이메일 캠페인 탭:
 
 * 다음 90일 이내에 예약된 이메일 프로그램 또는 기본 프로그램의 일부인 캠페인을 포함합니다
 * 연락처/리드에만 국한되지 않습니다(즉, 캠페인 목록은 Marketo 인스턴스에 예약된 모든 이메일 캠페인의 일반 목록). 모든 리드, 연락처, 계정 및 기회 패널의 캠페인 목록은 동일합니다
@@ -171,3 +171,7 @@ Sales Insights 대시보드에서 사용할 수 있는 기능에 대해 자세�
 * 모든 이벤트를 선택하면 다음 90일 내에 예약된 이벤트 목록이 표시됩니다
 * 이 섹션의 활동 세부 사항 카드에 미리 보기 옵션이 있습니다
 * 필터에는 &quot;검색&quot;, &quot;초대된 이벤트만 표시&quot; 및 &quot;날짜 범위&quot;가 포함됩니다
+
+>[!NOTE]
+>
+>Account 또는 Opportunity 의 연락처가 800명 이상인 경우 대시보드에 데이터가 표시되지 않습니다. 그러나 개별 연락처로 이동하여 통찰력과 참여를 볼 수 있습니다. 계정에 800명 이상의 연락처가 있는 경우 &quot;계정 수준 활동 표시&quot;가 비활성화됩니다.

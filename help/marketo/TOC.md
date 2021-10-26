@@ -3,7 +3,7 @@ audience: end-user
 user-guide-title: Marketo 안내서
 user-guide-description: Marketo 제품 설명서
 feature-set: Marketo Engage
-source-git-commit: 41d8762203786bac9aea03ac978daa0549ac8e93
+source-git-commit: 7c4edcd35b71846cc7bfea80906c0f9cbccea736
 workflow-type: tm+mt
 source-wordcount: '7972'
 ht-degree: 0%
@@ -1308,6 +1308,7 @@ ht-degree: 0%
             + [팀을 위한 Sales Insight 설정](product-docs/marketo-sales-insight/msi-for-salesforce/configuration/setting-up-sales-insight-for-your-team.md)
          + 기능 {#features}
             + [MSI 기능 개요](product-docs/marketo-sales-insight/msi-for-salesforce/features/msi-feature-overview.md)
+            + [통찰력 대시보드 기능 개요](product-docs/marketo-sales-insight/msi-for-salesforce/features/insights-dashboard-feature-overview.md)
             + MSI 패널의 작업 {#actions-in-the-msi-panel}
                + [Salesforce에서 Marketo 캠페인에 리드/연락처 추가](product-docs/marketo-sales-insight/msi-for-salesforce/features/actions-in-the-msi-panel/add-to-marketo-campaign/add-a-lead-contact-to-a-marketo-campaign-from-salesforce.md)
                + [Marketo Sales Insight에서 가입 해지 바닥글 구성](product-docs/marketo-sales-insight/msi-for-salesforce/features/actions-in-the-msi-panel/send-marketo-email/configure-unsubscribe-footers-in-marketo-sales-insight.md)
@@ -1318,7 +1319,6 @@ ht-degree: 0%
                + [Salesforce에 Marketo Sales Insight 탭 및 단추 추가](product-docs/marketo-sales-insight/msi-for-salesforce/features/bulk-actions/add-marketo-sales-insight-tab-and-buttons-to-salesforce.md)
                + [Salesforce Lightning의 벌크 작업](product-docs/marketo-sales-insight/msi-for-salesforce/features/bulk-actions/bulk-actions-in-salesforce-lightning.md)
                + [Marketo Sales Insight의 여러 레코드로 이메일 보내기](product-docs/marketo-sales-insight/msi-for-salesforce/features/bulk-actions/send-an-email-to-multiple-records-in-marketo-sales-insight.md)
-               + [통찰력 대시보드 기능 개요](product-docs/marketo-sales-insight/msi-for-salesforce/features/insights-dashboard-feature-overview.md)
             + 언어 지원 {#language-support}
                + [Salesforce에서 다국어 지원을 위한 영업 통찰력 준비](product-docs/marketo-sales-insight/msi-for-salesforce/features/language-support/prepare-sales-insight-for-multi-lingual-support-in-salesforce.md)
             + Marketo 탭 {#marketo-tab}
