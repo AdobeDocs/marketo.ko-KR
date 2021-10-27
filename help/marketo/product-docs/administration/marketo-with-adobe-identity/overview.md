@@ -3,7 +3,7 @@ description: 개요 - Marketo 문서 - 제품 설명서
 title: 개요
 hide: true
 hidefromtoc: true
-source-git-commit: 8ef7611e9a6b9756d35a9c8fbd439f25f5c714be
+source-git-commit: 6047665cf94a4b212734667feeb5fce911ffdebb
 workflow-type: tm+mt
 source-wordcount: '671'
 ht-degree: 0%
@@ -53,31 +53,31 @@ Adobe Identity Management 시스템은 세 가지 구성 요소로 구성됩니�
 
 **API 클라이언트 지원에 변경 사항이 있습니까?**
 
-예. Adobe IMS에 온보딩된 사용자는 기존 Marketo 사용자 관리 API를 활용할 수 없습니다. 이 구성 요소는 [IMS API](https://www.adobe.io/apis/experienceplatform/umapi-new.html)를 사용합니다.
+예. Adobe IMS에 온보딩된 사용자는 기존 Marketo 사용자 관리 API를 활용할 수 없습니다. 이 사용자는 [IMS API](https://www.adobe.io/apis/experienceplatform/umapi-new.html).
 
 **지원을 받으려면 누구에게 연락해야 합니까?**
 
-[Marketo 지원](https://nation.marketo.com/t5/support/ct-p/Support)에 문의하는 표준 절차를 따릅니다.
+연락하는 표준 절차를 따릅니다 [Marketo 지원](https://nation.marketo.com/t5/support/ct-p/Support).
 
 **Marketo 사용자 역할(작업 공간 내)이 Adobe Admin Console에서 관리됩니까?**
 
 아니요. 사용자 역할 관리(작업 공간 내)는 Marketo에서 완료되었습니다.
 
-**Marketo 관리자이며 Admin Console에 액세스할 수 없습니다. 액세스 권한은 어떻게 얻을 수 있습니까?**
+**Marketo 관리자이며 Admin Console에 액세스할 수 없습니다. 액세스 권한을 받으려면 어떻게 해야 합니까?**
 
-조직의 Admin Console에 대한 액세스 권한이 있는 모든 시스템 또는 제품 관리자가 액세스 권한을 줄 수 있습니다. 조직의 구성원이 콘솔에서 관리자 권한을 가지고 있는지 확실하지 않은 경우 [고객 지원 센터 Adobe](https://helpx.adobe.com/contact.html)에 문의하십시오.
+조직의 Admin Console에 대한 액세스 권한이 있는 모든 시스템 또는 제품 관리자가 액세스 권한을 줄 수 있습니다. 조직의 구성원이 콘솔에서 관리자 권한을 가지고 있는지 확실하지 않은 경우 [고객 지원 Adobe](https://helpx.adobe.com/contact.html).
 
 **관리자는 어떻게 Marketo Sales Connect에 사용자를 추가합니까?**
 
-Sales Connect용 AC에 제품 카드가 있을 경우 사용자를 추가/관리하는 데 AC를 사용하지 않아야 합니다. 관리자는 다음 링크를 통해 Marketo Sales Connect를 통해 사용자를 관리할 수 있습니다. [https://toutapp.com/next#settings/admin/user-management](https://toutapp.com/next#settings/admin/user-management)
+Sales Connect용 AC에 제품 카드가 있을 경우 사용자를 추가/관리하는 데 AC를 사용하지 않아야 합니다. 관리자는 다음 링크를 통해 Marketo Sales Connect를 통해 사용자를 관리할 수 있습니다. [https://toutapp.com/next#settings/admin/user-management](https://toutapp.com/next#settings/admin/user-management).
 
 **Adobe Admin Console에 대한 자세한 내용은 어디에서 확인할 수 있습니까?**
 
-[https://helpx.adobe.com/enterprise/admin-guide.html](https://helpx.adobe.com/enterprise/admin-guide.html)에서 확인하십시오.
+[https://helpx.adobe.com/enterprise/admin-guide.html](https://helpx.adobe.com/enterprise/admin-guide.html).
 
 **계정을 변경하기 위해 Marketo의 관리 섹션으로 계속 이동합니까?**
 
-아니요. [account.adobe.com](https://account.adobe.com)으로 이동해야 합니다.
+아니요. [account.adobe.com](https://account.adobe.com).
 
 **Marketo의 범용 ID에서는 어떻게 작동합니까?**
 
@@ -85,7 +85,7 @@ Adobe ID로 온보딩되는 사용자는 제품의 구독 전환기를 통해 �
 
 **SSO에서 작동합니까?**
 
-예. Adobe IMS와 Marketo 통합은 범용 ID 사용자 및 SSO를 지원합니다. SSO는 이제 Adobe IMS에 의해 제어되며 Adobe Admin Console의 조직 수준에서 설정됩니다. [여기에서 추가 정보를 확인하십시오](https://helpx.adobe.com/enterprise/using/set-up-identity.html).
+예. Adobe IMS와 Marketo 통합은 범용 ID 사용자 및 SSO를 지원합니다. SSO는 이제 Adobe IMS에 의해 제어되며 Adobe Admin Console의 조직 수준에서 설정됩니다. [여기에서 추가 정보](https://helpx.adobe.com/enterprise/using/set-up-identity.html).
 
 **장치 인증은 어떻게 작동합니까?**
 
@@ -97,10 +97,11 @@ Adobe IMS는 현재 Marketo의 장치 인증 기능과 같은 것을 지원하�
 
 **Adobe IMS의 경우 Adobe ID, Enterprise ID 또는 Federated ID을 사용할 수 있는 옵션이 있습니까?**
 
-예, 조직을 지원할 ID 유형을 결정합니다. 추가 정보 [여기](https://helpx.adobe.com/enterprise/using/identity.html) 및 [여기](https://helpx.adobe.com/enterprise/using/set-up-identity.html)입니다.
+예, 조직을 지원할 ID 유형을 결정합니다. 추가 정보 [여기](https://helpx.adobe.com/enterprise/using/identity.html) 및 [여기](https://helpx.adobe.com/enterprise/using/set-up-identity.html).
 
 >[!MORELIKETHIS]
 >
 >* [관리 설정](/help/marketo/product-docs/administration/marketo-with-adobe-identity/admin-setup.md)
 >* [제품 관리자 추가 또는 제거](/help/marketo/product-docs/administration/marketo-with-adobe-identity/add-or-remove-a-product-admin.md)
 >* [사용자 추가 또는 제거](/help/marketo/product-docs/administration/marketo-with-adobe-identity/add-or-remove-a-user.md)
+
