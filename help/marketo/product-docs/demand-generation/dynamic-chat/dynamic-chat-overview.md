@@ -3,9 +3,9 @@ description: 동적 채팅 개요 - Marketo 문서 - 제품 설명서
 title: 동적 채팅 개요
 hide: true
 hidefromtoc: true
-source-git-commit: 1434d2a1cbf5575cea60ccc0c655313003b1452c
+source-git-commit: 121b2f1dd3bc807feaf8e8682307074bac43e12e
 workflow-type: tm+mt
-source-wordcount: '544'
+source-wordcount: '535'
 ht-degree: 0%
 
 ---
@@ -20,7 +20,7 @@ Dynamic Chat를 사용하면 사용하기 쉬운 인터페이스를 활용하여
 
 ## 통합 {#integrations}
 
-Dynamic Chat의 주요 구성 요소는 Marketo 구독과 기본적으로 연결할 수 있는 기능입니다. 이 통합의 전체 기능을 활용하려면 먼저 데이터 동기화를 시작해야 합니다. Marketo 데이터베이스의 크기에 따라 초기 데이터, [1회 동기화](/help/marketo/product-docs/demand-generation/dynamic-chat/connect-dynamic-chat-to-marketo.md)가 완료되는 데 최대 24시간이 걸릴 수 있습니다. 평균 동기화 시간이 2시간 미만입니다.
+Dynamic Chat의 주요 구성 요소는 Marketo 구독과 기본적으로 연결할 수 있는 기능입니다. 이 통합의 전체 기능을 활용하려면 먼저 데이터 동기화를 시작해야 합니다. Marketo 데이터베이스의 크기에 따라 초기 데이터 처리에 최대 24시간이 걸릴 수 있습니다. [1회 동기화](/help/marketo/product-docs/demand-generation/dynamic-chat/connect-dynamic-chat-to-marketo.md) 을 클릭하여 완료합니다.
 
 다음 항목이 동기화됩니다.
 
@@ -30,11 +30,11 @@ Dynamic Chat의 주요 구성 요소는 Marketo 구독과 기본적으로 연결
 
 ## 대화 상자 {#dialogues}
 
-대화 상자는 단일 채팅 참여를 나타냅니다. 웹 사이트 방문자에게 매력적인 채팅 대화 상자를 제공하는 데 필요한 모든 것이 포함된 컨테이너라고 생각하십시오. 각 대화 상자에서 대화 상자를 표시할 페이지, 표시할 페이지 및 대화 상자 자체의 콘텐츠와 흐름을 지정할 수 있습니다. 또한 지표를 찾아 대화 상자가 얼마나 잘 작동하는지 확인할 수 있습니다. [대화 상자에 대해 자세히 알아보십시오](/help/marketo/product-docs/demand-generation/dynamic-chat/dialogues.md).
+대화 상자는 단일 채팅 참여를 나타냅니다. 웹 사이트 방문자에게 매력적인 채팅 대화 상자를 제공하는 데 필요한 모든 것이 포함된 컨테이너라고 생각하십시오. 각 대화 상자에서 대화 상자를 표시할 페이지, 표시할 페이지 및 대화 상자 자체의 콘텐츠와 흐름을 지정할 수 있습니다. 또한 지표를 찾아 대화 상자가 얼마나 잘 작동하는지 확인할 수 있습니다. [대화 상자에 대해 자세히 알아보기](/help/marketo/product-docs/demand-generation/dynamic-chat/dialogues.md).
 
 ## 구성 {#configuration}
 
-구성 탭에서 다양한 대화 상자의 모양과 느낌을 사용자 지정합니다. 글꼴, 색상, 응답 시간 등을 변경합니다. [구성에 대해 자세히 알아보십시오](/help/marketo/product-docs/demand-generation/dynamic-chat/configuration.md).
+구성 탭에서 다양한 대화 상자의 모양과 느낌을 사용자 지정합니다. 글꼴, 색상, 응답 시간 등을 변경합니다. [구성에 대해 자세히 알아보기](/help/marketo/product-docs/demand-generation/dynamic-chat/configuration.md).
 
 ## 달력 {#calendar}
 
@@ -58,7 +58,7 @@ Dynamic Chat의 주요 구성 요소는 Marketo 구독과 기본적으로 연결
 
 **익명의 사람들을 어떻게 타겟팅해야 하나요?**
 
-대화 상자에서 _개인 전자 메일이 비어 있음_ 속성을 사용해야 합니다.
+대화 상자에서 다음을 사용해야 합니다 _개인 전자 메일이 비어 있음_ 속성을 사용합니다.
 
 **AI/NLP 기능을 지원합니까?**
 
