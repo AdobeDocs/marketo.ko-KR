@@ -2,9 +2,9 @@
 description: 영업 활동 용어집 - Marketo 문서 - 제품 설명서
 title: 영업 활동 용어집
 exl-id: c7805642-07b6-4697-9efe-5c673ae9ca53
-source-git-commit: 0a1e913fd03415d3668c8a9d2200e2211bad5980
+source-git-commit: d261da2a2784ab322ef78fe22ef3d6b4321fc806
 workflow-type: tm+mt
-source-wordcount: '510'
+source-wordcount: '520'
 ht-degree: 1%
 
 ---
@@ -263,7 +263,7 @@ Sales Connect에서 판매자가 영업 케이스에 리드를 추가하거나, 
   </tr>
   <tr> 
    <td><strong>영업 이메일 제목</strong></td> 
-   <td>이메일 제목입니다.</td> 
+   <td>이메일 제목란과 고유 ID(예: 내 제목 줄(MSC-12345678)</td> 
   </tr>
   <tr> 
    <td><strong>전화 번호</strong></td> 
@@ -283,7 +283,7 @@ Sales Connect에서 판매자가 영업 케이스에 리드를 추가하거나, 
   </tr> 
   <tr> 
    <td><strong>원문</strong></td> 
-   <td>활동의 소스. 은 2022년 1월 릴리스 이전에 Sales Connect 활동에 대해 "Tout"으로 설정됩니다. 2022년 1월 릴리스 이후 Sales Connect 활동에 대한 "Sales App"가 됩니다.</td>
+   <td>활동의 소스. 은 2021년 10월 릴리스 이전에 Sales Connect 활동에 대해 "Tout"으로 설정됩니다. 2021년 10월 릴리스 이후 Sales Connect 활동에 대한 "Sales App"이 됩니다.</td>
   </tr> 
   <tr> 
    <td><strong>템플릿 ID</strong></td> 
