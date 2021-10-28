@@ -3,9 +3,9 @@ unique-page-id: 2359351
 description: 설정 및 개인 추가 - Marketo 문서 - 제품 설명서
 title: 설정 및 개인 추가
 exl-id: 194c7421-fe6d-4d8c-bd34-d3fc89ec80f2
-source-git-commit: 41d8762203786bac9aea03ac978daa0549ac8e93
+source-git-commit: a3da3f466e6131fdd3507b7b567fac91ad9c5b6c
 workflow-type: tm+mt
-source-wordcount: '204'
+source-wordcount: '213'
 ht-degree: 0%
 
 ---
@@ -55,6 +55,10 @@ ht-degree: 0%
 1. 이름과 성, 전자 메일 주소 및 회사 이름을 입력한 다음 **만들기** 자기 자신을 한 사람으로 추가하는 것.
 
    ![](assets/eight.png)
+
+   >[!CAUTION]
+   >
+   >Marketo의 기능 **not** 이모지가 포함된 이메일 주소를 지원합니다.
 
 1. 사람을 보려면 왼쪽 메뉴에서 시스템 스마트 목록을 연 다음 모든 사용자를 클릭합니다.
 
