@@ -3,9 +3,9 @@ audience: end-user
 user-guide-title: Marketo 안내서
 user-guide-description: Marketo 제품 설명서
 feature-set: Marketo Engage
-source-git-commit: d261da2a2784ab322ef78fe22ef3d6b4321fc806
+source-git-commit: 1161d193261af10aaa7658e747ff6500ad4179d0
 workflow-type: tm+mt
-source-wordcount: '7974'
+source-wordcount: '7977'
 ht-degree: 0%
 
 ---
@@ -193,10 +193,10 @@ ht-degree: 0%
          + [데이터에 의해 사용되는 필드 내보내기](product-docs/administration/field-management/export-used-by-data-for-a-field.md)
          + [필드 숨기기 및 숨기기 취소](product-docs/administration/field-management/hide-and-unhide-a-field.md)
          + [이메일의 HTML 인코딩 토큰](product-docs/administration/field-management/html-encode-tokens-in-emails.md)
-         + [Mark a Field as Sensitive](product-docs/administration/field-management/mark-a-field-as-sensitive.md)
-         + [Rename a Field](product-docs/administration/field-management/rename-a-field.md)
+         + [필드를 민감도로 표시](product-docs/administration/field-management/mark-a-field-as-sensitive.md)
+         + [필드 이름 바꾸기](product-docs/administration/field-management/rename-a-field.md)
          + [시스템 관리 필드 이해](product-docs/administration/field-management/understanding-system-managed-fields.md)
-         + [View Field Mappings Between Marketo and Salesforce](product-docs/administration/field-management/view-field-mappings-between-marketo-and-salesforce.md)
+         + [Marketo과 Salesforce 간 필드 매핑 보기](product-docs/administration/field-management/view-field-mappings-between-marketo-and-salesforce.md)
       + Marketo 사용자 지정 활동 {#marketo-custom-activities}
          + [사용자 지정 활동 이해](product-docs/administration/marketo-custom-activities/understanding-custom-activities.md)
          + [Marketo 사용자 지정 활동 필드 추가/편집/삭제](product-docs/administration/marketo-custom-activities/add-edit-delete-marketo-custom-activity-fields.md)
@@ -218,6 +218,7 @@ ht-degree: 0%
       + Adobe ID가 있는 Marketo {#marketo-with-adobe-identity}
          + [개요](product-docs/administration/marketo-with-adobe-identity/overview.md)
          + [관리 설정](product-docs/administration/marketo-with-adobe-identity/admin-setup.md)
+         + [제품 관리자 설정](product-docs/administration/marketo-with-adobe-identity/product-admin-setup.md)
          + [제품 관리자 추가 또는 제거](product-docs/administration/marketo-with-adobe-identity/add-or-remove-a-product-admin.md)
          + [사용자 추가 또는 제거](product-docs/administration/marketo-with-adobe-identity/add-or-remove-a-user.md)
       + 설정 {#settings}
@@ -615,14 +616,14 @@ ht-degree: 0%
       + 광고 네트워크 통합 {#ad-network-integrations}
          + [광고 네트워크 통합 이해](product-docs/demand-generation/ad-network-integrations/understanding-ad-network-integrations.md)
          + [facebook 사용자 지정 대상을 LaunchPoint 서비스로 추가](product-docs/demand-generation/ad-network-integrations/add-facebook-custom-audiences-as-a-launchpoint-service.md)
-         + [Add Google Customer Match as a LaunchPoint Service](product-docs/demand-generation/ad-network-integrations/add-google-customer-match-as-a-launchpoint-service.md)
-         + [Add LinkedIn Matched Audiences as a LaunchPoint Service](product-docs/demand-generation/ad-network-integrations/add-linkedin-matched-audiences-as-a-launchpoint-service.md)
-         + [Send a List to an Ad Network](product-docs/demand-generation/ad-network-integrations/send-a-list-to-an-ad-network.md)
-      + Dynamic Chat {#dynamic-chat}
-         + [Dynamic Chat Overview](product-docs/demand-generation/dynamic-chat/dynamic-chat-overview.md)
-         + [Initial Setup](product-docs/demand-generation/dynamic-chat/initial-setup.md)
+         + [LaunchPoint 서비스로 Google Customer Match 추가](product-docs/demand-generation/ad-network-integrations/add-google-customer-match-as-a-launchpoint-service.md)
+         + [LinkedIn Matched Audiences as a LaunchPoint Service 추가](product-docs/demand-generation/ad-network-integrations/add-linkedin-matched-audiences-as-a-launchpoint-service.md)
+         + [광고 네트워크에 목록 보내기](product-docs/demand-generation/ad-network-integrations/send-a-list-to-an-ad-network.md)
+      + 다이내믹 채팅 {#dynamic-chat}
+         + [동적 채팅 개요](product-docs/demand-generation/dynamic-chat/dynamic-chat-overview.md)
+         + [초기 설정](product-docs/demand-generation/dynamic-chat/initial-setup.md)
          + [Marketo에 동적 채팅 연결](product-docs/demand-generation/dynamic-chat/connect-dynamic-chat-to-marketo.md)
-         + [Add or Remove Chat Users](product-docs/demand-generation/dynamic-chat/add-or-remove-chat-users.md)
+         + [채팅 사용자 추가 또는 제거](product-docs/demand-generation/dynamic-chat/add-or-remove-chat-users.md)
          + [구성](product-docs/demand-generation/dynamic-chat/configuration.md)
          + [대화 상자](product-docs/demand-generation/dynamic-chat/dialogues.md)
          + [스트림 만들기](product-docs/demand-generation/dynamic-chat/create-a-stream.md)
@@ -639,8 +640,8 @@ ht-degree: 0%
             + [수준 3 웹 모임을 사용하여 이벤트 만들기](product-docs/demand-generation/events/create-an-event/create-an-event-with-level-3-web-meeting.md)
             + [ReadyTalk를 사용하여 이벤트 만들기](product-docs/demand-generation/events/create-an-event/create-an-event-with-readytalk.md)
             + [WebEx를 사용하여 이벤트 만들기](product-docs/demand-generation/events/create-an-event/create-an-event-with-webex.md)
-            + [Create an Event with Zoom](product-docs/demand-generation/events/create-an-event/create-an-event-with-zoom.md)
-            + Create an Event with the Marketo ON24 Adapter {#create-an-event-with-the-marketo-on24-adapter}
+            + [확대/축소를 사용하여 이벤트 만들기](product-docs/demand-generation/events/create-an-event/create-an-event-with-zoom.md)
+            + Marketo ON24 어댑터를 사용하여 이벤트 만들기 {#create-an-event-with-the-marketo-on24-adapter}
                + [Marketo ON24 어댑터를 사용하여 이벤트 만들기](product-docs/demand-generation/events/create-an-event/create-an-event-with-the-marketo-on24-adapter.md)
                + [이벤트 설정 구성 및 Marketo과 웨비나 동기화](product-docs/demand-generation/events/create-an-event/create-an-event-with-the-marketo-on24-adapter/configure-event-settings-and-sync-marketo-with-your-webinar.md)
                + [Marketo에서 이벤트 만들기](product-docs/demand-generation/events/create-an-event/create-an-event-with-the-marketo-on24-adapter/create-an-event-in-marketo.md)
@@ -648,14 +649,14 @@ ht-degree: 0%
                + [24에서 웨비나 이벤트 만들기](product-docs/demand-generation/events/create-an-event/create-an-event-with-the-marketo-on24-adapter/create-your-webinar-event-in-on24.md)
                + [Marketo에 ON24 자격 증명을 입력합니다](product-docs/demand-generation/events/create-an-event/create-an-event-with-the-marketo-on24-adapter/enter-your-on24-credentials-in-marketo.md)
                + [ON24 이벤트 통합 예](product-docs/demand-generation/events/create-an-event/create-an-event-with-the-marketo-on24-adapter/example-on24-event-integration.md)
-               + [ON24 Event Registration Updates](product-docs/demand-generation/events/create-an-event/create-an-event-with-the-marketo-on24-adapter/on24-event-registration-updates.md)
-               + [Test Your ON24 Event Integration](product-docs/demand-generation/events/create-an-event/create-an-event-with-the-marketo-on24-adapter/test-your-on24-event-integration.md)
+               + [ON24 이벤트 등록 업데이트](product-docs/demand-generation/events/create-an-event/create-an-event-with-the-marketo-on24-adapter/on24-event-registration-updates.md)
+               + [ON24 이벤트 통합 테스트](product-docs/demand-generation/events/create-an-event/create-an-event-with-the-marketo-on24-adapter/test-your-on24-event-integration.md)
                + [Marketo On24 어댑터 이벤트 이해](product-docs/demand-generation/events/create-an-event/create-an-event-with-the-marketo-on24-adapter/understanding-marketo-on24-adapter-events.md)
                + [웨비나 프로그램 상태 이해](product-docs/demand-generation/events/create-an-event/create-an-event-with-the-marketo-on24-adapter/understanding-webinar-program-statuses.md)
       + Facebook {#facebook}
          + [facebook에서 사용자 지정 대상에 리드 추가](product-docs/demand-generation/facebook/add-leads-to-a-custom-audience-in-facebook.md)
-         + [Create a Custom Audience in Facebook](product-docs/demand-generation/facebook/create-a-custom-audience-in-facebook.md)
-         + [Edit Facebook Rich Post Settings](product-docs/demand-generation/facebook/edit-facebook-rich-post-settings.md)
+         + [facebook에서 사용자 지정 대상 만들기](product-docs/demand-generation/facebook/create-a-custom-audience-in-facebook.md)
+         + [facebook 리치 게시물 설정 편집](product-docs/demand-generation/facebook/edit-facebook-rich-post-settings.md)
          + [facebook에 랜딩 페이지 게시](product-docs/demand-generation/facebook/publish-landing-pages-to-facebook.md)
          + [facebook 리드 광고 설정](product-docs/demand-generation/facebook/set-up-facebook-lead-ads.md)
          + [Marketo에 사용자 지정 필드 매핑](product-docs/demand-generation/facebook/set-up-facebook-lead-ads/map-custom-fields-to-marketo.md)
@@ -856,8 +857,8 @@ ht-degree: 0%
                + [템플릿 19A](product-docs/demand-generation/landing-pages/landing-page-templates/guided-landing-page-templates/template-19a.md)
                + [템플릿 19B](product-docs/demand-generation/landing-pages/landing-page-templates/guided-landing-page-templates/template-19b.md)
                + [템플릿 19C](product-docs/demand-generation/landing-pages/landing-page-templates/guided-landing-page-templates/template-19c.md)
-               + [Template 19D](product-docs/demand-generation/landing-pages/landing-page-templates/guided-landing-page-templates/template-19d.md)
-               + [Template 19E](product-docs/demand-generation/landing-pages/landing-page-templates/guided-landing-page-templates/template-19e.md)
+               + [템플릿 19D](product-docs/demand-generation/landing-pages/landing-page-templates/guided-landing-page-templates/template-19d.md)
+               + [템플릿 19E](product-docs/demand-generation/landing-pages/landing-page-templates/guided-landing-page-templates/template-19e.md)
                + [템플릿 20A](product-docs/demand-generation/landing-pages/landing-page-templates/guided-landing-page-templates/template-20a.md)
                + [템플릿 20B](product-docs/demand-generation/landing-pages/landing-page-templates/guided-landing-page-templates/template-20b.md)
                + [템플릿 20C](product-docs/demand-generation/landing-pages/landing-page-templates/guided-landing-page-templates/template-20c.md)
@@ -1062,9 +1063,9 @@ ht-degree: 0%
       + [개요](product-docs/marketo-engage-next-generation-experience/overview.md)
       + [아이콘 용어집](product-docs/marketo-engage-next-generation-experience/icon-glossary.md)
       + [전역 검색 사용](product-docs/marketo-engage-next-generation-experience/using-the-global-search.md)
-      + [Toggle Switch](product-docs/marketo-engage-next-generation-experience/toggle-switch.md)
+      + [스위치 전환](product-docs/marketo-engage-next-generation-experience/toggle-switch.md)
    + Marketo Sales Connect {#marketo-sales-connect}
-      + Getting Started {#getting-started}
+      + 시작하기 {#getting-started}
          + [Sales Connect 개요](product-docs/marketo-sales-connect/getting-started/sales-connect-overview.md)
          + [새 Sales Connect 인스턴스 액세스](product-docs/marketo-sales-connect/getting-started/accessing-your-new-sales-connect-instance.md)
          + [Sales Connect 관리자를 위한 시작 안내서](product-docs/marketo-sales-connect/getting-started/getting-started-guide-for-sales-connect-admins.md)
@@ -1076,11 +1077,11 @@ ht-degree: 0%
             + [확인 이메일을 받지 않음](product-docs/marketo-sales-connect/getting-started/email-settings/never-received-a-verification-email.md)
             + [이메일 확인](product-docs/marketo-sales-connect/getting-started/email-settings/verify-your-email.md)
       + 관리 {#admin}
-         + [Additional Admins](product-docs/marketo-sales-connect/admin/additional-admins.md)
+         + [추가 관리자](product-docs/marketo-sales-connect/admin/additional-admins.md)
          + [차단된 도메인](product-docs/marketo-sales-connect/admin/blocked-domains.md)
-         + [Content Lockdown](product-docs/marketo-sales-connect/admin/content-lockdown.md)
-         + [Create a Sub-Team](product-docs/marketo-sales-connect/admin/create-a-sub-team.md)
-         + [Invite Users](product-docs/marketo-sales-connect/admin/invite-users.md)
+         + [컨텐츠 잠금](product-docs/marketo-sales-connect/admin/content-lockdown.md)
+         + [하위 팀 만들기](product-docs/marketo-sales-connect/admin/create-a-sub-team.md)
+         + [사용자 초대](product-docs/marketo-sales-connect/admin/invite-users.md)
          + [판매 연결에서 SAML 2.0을 통해 SSO 설정](product-docs/marketo-sales-connect/admin/setting-up-sso-through-saml-2-0-in-sales-connect.md)
          + [공유 설정](product-docs/marketo-sales-connect/admin/sharing-settings.md)
          + [사용자 액세스 세부 정보](product-docs/marketo-sales-connect/admin/user-access-details.md)
@@ -1279,17 +1280,17 @@ ht-degree: 0%
                + [MSI 보기 설정](product-docs/marketo-sales-insight/msi-for-microsoft-dynamics/features/marketo-tab/setting-up-msi-views.md)
                + [최고의 선택](product-docs/marketo-sales-insight/msi-for-microsoft-dynamics/features/marketo-tab/best-bets.md)
                + [이메일 활동](product-docs/marketo-sales-insight/msi-for-microsoft-dynamics/features/marketo-tab/email-activities.md)
-               + [Web Activities](product-docs/marketo-sales-insight/msi-for-microsoft-dynamics/features/marketo-tab/web-activities.md)
+               + [웹 활동](product-docs/marketo-sales-insight/msi-for-microsoft-dynamics/features/marketo-tab/web-activities.md)
          + 설치 {#installing}
             + [Microsoft Dynamics용 Marketo Sales Insight Solution 다운로드](product-docs/marketo-sales-insight/msi-for-microsoft-dynamics/installing/download-the-marketo-sales-insight-solution-for-microsoft-dynamics.md)
-            + [Install and Configure Marketo Sales Insight in Microsoft Dynamics 2011](product-docs/marketo-sales-insight/msi-for-microsoft-dynamics/installing/install-and-configure-marketo-sales-insight-in-microsoft-dynamics-2011.md)
+            + [Microsoft Dynamics 2011에서 Marketo Sales Insight 설치 및 구성](product-docs/marketo-sales-insight/msi-for-microsoft-dynamics/installing/install-and-configure-marketo-sales-insight-in-microsoft-dynamics-2011.md)
             + [Microsoft Dynamics 2013에서 Marketo Sales Insight 설치 및 구성](product-docs/marketo-sales-insight/msi-for-microsoft-dynamics/installing/install-and-configure-marketo-sales-insight-in-microsoft-dynamics-2013.md)
             + [Microsoft Dynamics 2015에서 Marketo Sales Insight 설치 및 구성](product-docs/marketo-sales-insight/msi-for-microsoft-dynamics/installing/install-and-configure-marketo-sales-insight-in-microsoft-dynamics-2015.md)
             + [Microsoft Dynamics 365에서 Marketo Sales Insight 설치 및 구성](product-docs/marketo-sales-insight/msi-for-microsoft-dynamics/installing/install-and-configure-marketo-sales-insight-in-microsoft-dynamics-365.md)
             + [Microsoft Dynamics Online에서 Marketo Sales Insight 설치 및 구성](product-docs/marketo-sales-insight/msi-for-microsoft-dynamics/installing/install-and-configure-marketo-sales-insight-in-microsoft-dynamics-online.md)
          + 설정 및 사용 {#setting-up-and-using}
             + [Microsoft Dynamics에서 Marketo 캠페인에 리드/연락처 추가](product-docs/marketo-sales-insight/msi-for-microsoft-dynamics/setting-up-and-using/add-a-lead-contact-to-a-marketo-campaign-from-microsoft-dynamics.md)
-            + [Required Fields for Syncing Marketo with Dynamics](product-docs/marketo-sales-insight/msi-for-microsoft-dynamics/setting-up-and-using/required-fields-for-syncing-marketo-with-dynamics.md)
+            + [Dynamics와 Marketo 동기화를 위한 필수 필드](product-docs/marketo-sales-insight/msi-for-microsoft-dynamics/setting-up-and-using/required-fields-for-syncing-marketo-with-dynamics.md)
             + [Microsoft Dynamics에서 Marketo 영업 전자 메일 보내기](product-docs/marketo-sales-insight/msi-for-microsoft-dynamics/setting-up-and-using/send-a-marketo-sales-email-from-microsoft-dynamics.md)
             + [리드/연락처 레코드에 대한 별과 불길 설정](product-docs/marketo-sales-insight/msi-for-microsoft-dynamics/setting-up-and-using/setting-up-stars-and-flames-for-lead-contact-records.md)
          + 제거 {#uninstalling}
@@ -1302,7 +1303,7 @@ ht-degree: 0%
             + [Salesforce AppExchange에 Marketo Sales Insight Package 설치](product-docs/marketo-sales-insight/msi-for-salesforce/installation/install-marketo-sales-insight-package-in-salesforce-appexchange.md)
          + 구성 {#configuration}
             + [Salesforce Enterprise/Unlimited에서 Marketo Sales Insight 구성](product-docs/marketo-sales-insight/msi-for-salesforce/configuration/configure-marketo-sales-insight-in-salesforce-enterprise-unlimited.md)
-            + [Configure Marketo Sales Insight in Salesforce Professional Edition](product-docs/marketo-sales-insight/msi-for-salesforce/configuration/configure-marketo-sales-insight-in-salesforce-professional-edition.md)
+            + [Salesforce Professional Edition에서 Marketo Sales Insight 구성](product-docs/marketo-sales-insight/msi-for-salesforce/configuration/configure-marketo-sales-insight-in-salesforce-professional-edition.md)
             + [기존 고객을 위한 구성](product-docs/marketo-sales-insight/msi-for-salesforce/configuration/configuration-for-existing-customers.md)
             + [Salesforce의 Marketo Sales Insight 구성 탭](product-docs/marketo-sales-insight/msi-for-salesforce/configuration/marketo-sales-insight-configuration-tab-in-salesforce.md)
             + [Marketo 관리자를 위한 Sales Insight Page](product-docs/marketo-sales-insight/msi-for-salesforce/configuration/sales-insight-page-for-marketo-admins.md)
@@ -1708,11 +1709,11 @@ ht-degree: 0%
          + [릴리스 노트: 16년 겨울](release-notes/previous-releases/2016/release-notes-winter-16.md)
       + 2015년 {#2015}
          + [릴리스 노트: 2015년 4월](release-notes/previous-releases/2015/release-notes-april-2015.md)
-         + [Release Notes: Fall &#39;15](release-notes/previous-releases/2015/release-notes-fall-15.md)
-         + [Release Notes: February 2015](release-notes/previous-releases/2015/release-notes-february-2015.md)
+         + [릴리스 노트: 15년 가을](release-notes/previous-releases/2015/release-notes-fall-15.md)
+         + [릴리스 노트: 2015년 2월](release-notes/previous-releases/2015/release-notes-february-2015.md)
          + [릴리스 노트: 2015년 1월](release-notes/previous-releases/2015/release-notes-january-2015.md)
-         + [Release Notes: July 2015](release-notes/previous-releases/2015/release-notes-july-2015.md)
-         + [Release Notes: June 2015](release-notes/previous-releases/2015/release-notes-june-2015.md)
+         + [릴리스 노트: 2015년 7월](release-notes/previous-releases/2015/release-notes-july-2015.md)
+         + [릴리스 노트: 2015년 6월](release-notes/previous-releases/2015/release-notes-june-2015.md)
          + [릴리스 노트: 2015년 3월](release-notes/previous-releases/2015/release-notes-march-2015.md)
          + [릴리스 노트: 2015년 5월](release-notes/previous-releases/2015/release-notes-may-2015.md)
       + 2014년 {#2014}
@@ -1728,14 +1729,14 @@ ht-degree: 0%
       + 2013년 {#2013}
          + [릴리스 노트: 2013년 4월](release-notes/previous-releases/2013/release-notes-april-2013.md)
          + [릴리스 노트: 2013년 8월](release-notes/previous-releases/2013/release-notes-august-2013.md)
-         + [Release Notes: December 2013](release-notes/previous-releases/2013/release-notes-december-2013.md)
+         + [릴리스 노트: 2013년 12월](release-notes/previous-releases/2013/release-notes-december-2013.md)
          + [릴리스 노트: 2013년 2월](release-notes/previous-releases/2013/release-notes-february-2013.md)
          + [릴리스 노트: 2013년 1월](release-notes/previous-releases/2013/release-notes-january-2013.md)
          + [릴리스 노트: 2013년 7월](release-notes/previous-releases/2013/release-notes-july-2013.md)
          + [릴리스 노트: 2013년 6월](release-notes/previous-releases/2013/release-notes-june-2013.md)
          + [릴리스 노트: 2013년 3월](release-notes/previous-releases/2013/release-notes-march-2013.md)
-         + [Release Notes: May 2013](release-notes/previous-releases/2013/release-notes-may-2013.md)
-         + [Release Notes: October 2013](release-notes/previous-releases/2013/release-notes-october-2013.md)
+         + [릴리스 노트: 2013년 5월](release-notes/previous-releases/2013/release-notes-may-2013.md)
+         + [릴리스 노트: 2013년 10월 일](release-notes/previous-releases/2013/release-notes-october-2013.md)
          + [릴리스 노트: 2013년 9월](release-notes/previous-releases/2013/release-notes-september-2013.md)
       + 2012년 {#2012}
          + [릴리스 노트: 2012년 4월](release-notes/previous-releases/2012/release-notes-april-2012.md)
@@ -1743,7 +1744,7 @@ ht-degree: 0%
          + [릴리스 노트: 2012년 1월/2월](release-notes/previous-releases/2012/release-notes-jan-feb-2012.md)
          + [릴리스 노트: 2012년 6월](release-notes/previous-releases/2012/release-notes-june-2012.md)
          + [릴리스 노트: 2012년 3월](release-notes/previous-releases/2012/release-notes-march-2012.md)
-         + [Release Notes: May 2012](release-notes/previous-releases/2012/release-notes-may-2012.md)
+         + [릴리스 노트: 2012년 5월](release-notes/previous-releases/2012/release-notes-may-2012.md)
          + [릴리스 노트: 2012년 10월 일](release-notes/previous-releases/2012/release-notes-october-2012.md)
          + [릴리스 노트: 2012년 9월](release-notes/previous-releases/2012/release-notes-september-2012.md)
       + [2010년-2011년](release-notes/previous-releases/2010-2011.md)

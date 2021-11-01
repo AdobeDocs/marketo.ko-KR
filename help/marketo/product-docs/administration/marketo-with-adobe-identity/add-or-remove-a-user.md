@@ -3,9 +3,9 @@ description: 사용자 추가 또는 제거 - Marketo 문서 - 제품 설명서
 title: 사용자 추가 또는 제거
 hide: true
 hidefromtoc: true
-source-git-commit: 066ecb9fe52e9fe3f9c78815b47cf41208f396c3
+source-git-commit: 1161d193261af10aaa7658e747ff6500ad4179d0
 workflow-type: tm+mt
-source-wordcount: '160'
+source-wordcount: '225'
 ht-degree: 0%
 
 ---
@@ -14,11 +14,11 @@ ht-degree: 0%
 
 ## 사용자 추가 {#add-a-user}
 
-1. [Adobe Admin Console](https://adminconsole.adobe.com/)에 로그인합니다.
+1. 에 로그인합니다. [Adobe Admin Console](https://adminconsole.adobe.com/).
 
    ![](assets/add-or-remove-a-user-1.png)
 
-1. **Marketo Engage**&#x200B;를 클릭합니다.
+1. 클릭 **Marketo Engage**.
 
    ![](assets/add-or-remove-a-user-2.png)
 
@@ -26,11 +26,11 @@ ht-degree: 0%
 
    ![](assets/add-or-remove-a-user-3.png)
 
-1. **사용자** 탭을 클릭합니다.
+1. 을(를) 클릭합니다. **사용자** 탭.
 
    ![](assets/add-or-remove-a-user-4.png)
 
-1. **사용자 추가** 단추를 클릭합니다.
+1. 을(를) 클릭합니다. **사용자 추가** 버튼을 클릭합니다.
 
    ![](assets/add-or-remove-a-user-5.png)
 
@@ -38,23 +38,27 @@ ht-degree: 0%
 
    ![](assets/add-or-remove-a-user-6.png)
 
-1. **+** 아이콘을 클릭하고 원하는 제품 프로필을 선택합니다.
+1. 을(를) 클릭합니다. **+** 아이콘을 클릭하고 원하는 제품 프로필을 선택합니다.
 
    ![](assets/add-or-remove-a-user-7.png)
 
-1. **저장**&#x200B;을 클릭합니다.
+1. 클릭 **저장**.
 
    ![](assets/add-or-remove-a-user-8.png)
 
 그러면 사용자가 Marketo에 로그인하는 이메일을 받게 됩니다.
 
+>[!NOTE]
+>
+>사용자가 Adobe Admin Console을 통해 Marketo Engage에 추가되면 구독의 기본 작업 공간 내에서 &quot;표준 사용자&quot; 역할이 부여됩니다. 작업 공간 내에서 사용자의 역할을 조정해야 하는 경우, Marketo Engage에서 수행됩니다. [여기에 설명된 대로](/help/marketo/product-docs/administration/users-and-roles/managing-user-roles-and-permissions.md).
+
 ## 사용자 제거 {#remove-a-user}
 
-1. [Adobe Admin Console](https://adminconsole.adobe.com/)에 로그인합니다.
+1. 에 로그인합니다. [Adobe Admin Console](https://adminconsole.adobe.com/).
 
    ![](assets/add-or-remove-a-user-9.png)
 
-1. **Marketo Engage**&#x200B;를 클릭합니다.
+1. 클릭 **Marketo Engage**.
 
    ![](assets/add-or-remove-a-user-10.png)
 
@@ -62,17 +66,19 @@ ht-degree: 0%
 
    ![](assets/add-or-remove-a-user-11.png)
 
-1. **사용자** 탭을 클릭합니다.
+1. 을(를) 클릭합니다. **사용자** 탭.
 
    ![](assets/add-or-remove-a-user-12.png)
 
-1. 제거할 사용자를 선택하고 **제거** 단추를 클릭합니다.
+1. 제거할 사용자를 선택하고 **제거** 버튼을 클릭합니다.
 
    ![](assets/add-or-remove-a-user-13.png)
 
-1. **사용자 제거**&#x200B;를 클릭하여 확인합니다.
+1. 클릭 **사용자 제거** 확인합니다.
 
    ![](assets/add-or-remove-a-user-14.png)
+
+그러면 사용자는 더 이상 Marketo Engage에 대한 제품 관리자 액세스 권한이 없음을 알리는 이메일을 받게 됩니다.
 
 >[!MORELIKETHIS]
 >
