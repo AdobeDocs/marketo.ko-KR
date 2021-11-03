@@ -1,9 +1,7 @@
 ---
 description: 전환 스위치 - Marketo 문서 - 제품 설명서
 title: 스위치 전환
-hide: true
-hidefromtoc: true
-source-git-commit: ff492d23f2660a66adfa392cf4fdfd8cb19d126a
+source-git-commit: fd4becf77135be7fc80156c8fde56f29a0aa38d0
 workflow-type: tm+mt
 source-wordcount: '221'
 ht-degree: 0%
@@ -20,35 +18,33 @@ ht-degree: 0%
 
 ## 랜딩 페이지 목록 보기 {#landing-page-list-view}
 
-Marketo에서 **Design Studio**.
+차세대 랜딩 페이지 목록 보기에는 검색 필터와 대량 랜딩 페이지 작업을 수행하는 기능이 제공됩니다.
 
-![](assets/toggle-switch-1.png)
+1. Marketo에서 **Design Studio**.
 
-선택 **랜딩 페이지**.
+   ![](assets/toggle-switch-1.png)
 
-![](assets/toggle-switch-2.png)
+1. 선택 **랜딩 페이지**.
 
-페이지 오른쪽 아래에서 **새 경험** 토글.
+   ![](assets/toggle-switch-2.png)
 
-![](assets/toggle-switch-3.png)
+1. 페이지 오른쪽 아래에서 **새 경험** 토글.
+
+   ![](assets/toggle-switch-3.png)
 
 새 경험이 로드됩니다.
 
 ![](assets/toggle-switch-4.png)
 
->[!NOTE]
->
->새로운 랜딩 페이지 목록 보기에서는 검색 필터와 대량 랜딩 페이지 작업을 수행하는 기능을 제공합니다.
-
 ## 양식 세부 사항 페이지 {#form-details-page}
 
-Marketo에서 양식을 찾아 선택합니다.
+1. Marketo에서 양식을 찾아 선택합니다.
 
-![](assets/toggle-switch-5.png)
+   ![](assets/toggle-switch-5.png)
 
-페이지 오른쪽 아래에서 **새 경험** 토글.
+1. 페이지 오른쪽 아래에서 **새 경험** 토글.
 
-![](assets/toggle-switch-6.png)
+   ![](assets/toggle-switch-6.png)
 
 새 경험이 로드됩니다.
 
@@ -58,10 +54,10 @@ Marketo에서 양식을 찾아 선택합니다.
 
 사용 가능한 모든 기능, 현재 및 제공 예정인 Marketo의 차세대 인터페이스를 활성화할 수 있습니다.
 
-현재 전환 스위치가 있는 영역에서(이 예에서는) [양식 세부 사항 페이지](#form-details-page))의 경우 페이지 오른쪽 하단에 있는 톱니바퀴 아이콘을 클릭합니다.
+1. 현재 전환 스위치가 있는 영역에서(이 예에서는) [양식 세부 사항 페이지](#form-details-page))의 경우 페이지 오른쪽 하단에 있는 톱니바퀴 아이콘을 클릭합니다.
 
-![](assets/toggle-switch-8.png)
+   ![](assets/toggle-switch-8.png)
 
-선택 **사용 가능한 모든 기능에 대해 활성화** 을(를) 클릭합니다. **확인**.
+1. 선택 **사용 가능한 모든 기능에 대해 활성화** 을(를) 클릭합니다. **확인**.
 
-![](assets/toggle-switch-9.png)
+   ![](assets/toggle-switch-9.png)

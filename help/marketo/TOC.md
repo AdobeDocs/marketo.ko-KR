@@ -3,9 +3,9 @@ audience: end-user
 user-guide-title: Marketo 안내서
 user-guide-description: Marketo 제품 설명서
 feature-set: Marketo Engage
-source-git-commit: 1161d193261af10aaa7658e747ff6500ad4179d0
+source-git-commit: fd4becf77135be7fc80156c8fde56f29a0aa38d0
 workflow-type: tm+mt
-source-wordcount: '7977'
+source-wordcount: '7981'
 ht-degree: 0%
 
 ---
@@ -504,6 +504,8 @@ ht-degree: 0%
          + [Adobe Experience Manager으로 자산 가져오기](product-docs/core-marketo-concepts/miscellaneous/importing-assets-with-adobe-experience-manager.md)
          + [키보드 단축키 용어집](product-docs/core-marketo-concepts/miscellaneous/keyboard-shortcuts-glossary.md)
          + [Marketo 샌드박스](product-docs/core-marketo-concepts/miscellaneous/marketo-sandbox.md)
+         + [개인 정보 관리](product-docs/core-marketo-concepts/miscellaneous/privacy-management.md)
+         + [개인 정보 보호 요청](product-docs/core-marketo-concepts/miscellaneous/privacy-requests.md)
          + [Marketo 자산 이름 변경](product-docs/core-marketo-concepts/miscellaneous/rename-a-marketo-asset.md)
          + [Adobe Experience Cloud 대상 공유 설정](product-docs/core-marketo-concepts/miscellaneous/set-up-adobe-experience-cloud-audience-sharing.md)
          + [Adobe Experience Cloud에서 대상 동기화](product-docs/core-marketo-concepts/miscellaneous/sync-an-audience-from-adobe-experience-cloud.md)
