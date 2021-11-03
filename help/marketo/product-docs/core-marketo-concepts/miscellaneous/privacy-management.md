@@ -1,9 +1,9 @@
 ---
 description: 개인 정보 관리 - Marketo 문서 - 제품 설명서
 title: 개인 정보 관리
-source-git-commit: fd4becf77135be7fc80156c8fde56f29a0aa38d0
+source-git-commit: 9285b1545c1cf27fb1c8579981bdf93d0cc4ff09
 workflow-type: tm+mt
-source-wordcount: '383'
+source-wordcount: '381'
 ht-degree: 0%
 
 ---
@@ -35,4 +35,4 @@ Marketo Engage을 사용하면 개인 정보 보호 준비를 원활히 수행�
 * 다음 **액세스 권한** 는 데이터 주체가 데이터 주체의 확인을 통해 데이터 주체의 개인 데이터가 처리 중인지 여부, 처리 장소 및 목적을 알 수 있는 권리입니다. 데이터 컨트롤러는 개인 데이터의 사본을 무료로 전자 형식으로 제공해야 합니다.
 * 데이터 삭제라고도 하는 **잊혀질 권리** (삭제 요청) 는 데이터 주체가 자신의 개인 데이터를 지우고, 데이터의 추가 배포를 중단하고, 제3자로 하여금 데이터 처리를 중단하도록 할 수 있는 권한을 부여합니다.
 
-액세스 및 삭제 요청을 만드는 방법과 요청을 처리하는 방법에 대해 알아보려면 [구현 단계](/help/marketo/product-docs/core-marketo-concepts/miscellaneous/privacy-requests.md).
+액세스/삭제 요청을 만드는 방법과 요청을 처리하는 방법에 대해 알아보려면 [이 문서](/help/marketo/product-docs/core-marketo-concepts/miscellaneous/privacy-requests.md).
