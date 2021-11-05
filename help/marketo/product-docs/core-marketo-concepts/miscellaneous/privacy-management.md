@@ -1,7 +1,7 @@
 ---
 description: 개인 정보 관리 - Marketo 문서 - 제품 설명서
 title: 개인 정보 관리
-source-git-commit: 9285b1545c1cf27fb1c8579981bdf93d0cc4ff09
+source-git-commit: d33de522f07c4e95b93040dc3e8ffeec258a9ba2
 workflow-type: tm+mt
 source-wordcount: '381'
 ht-degree: 0%
@@ -14,7 +14,7 @@ Marketo Engage은 개인 정보 보호 규정을 준수하는 데 도움이 되�
 
 >[!NOTE]
 >
->Marketo Engage을 위해 Privacy Service UI 또는 API를 통해 제출된 개인 정보 보호 요청은 Marketo Engage + RT-CDP, B2B 및 B2P 버전을 가진 고객에게만 적용됩니다.
+>Marketo Engage을 위해 Privacy Service UI 또는 API를 통해 제출된 개인 정보 보호 요청은 Marketo Engage + RT-CDP, B2B 및 B2P 버전을 가진 사용자만 적용됩니다.
 
 ## 개인 정보 관리에 관한 규정 {#regulations-on-privacy-management}
 
