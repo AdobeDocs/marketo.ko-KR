@@ -1,18 +1,18 @@
 ---
-description: Command Center Overview - Marketo Docs - Product Documentation
-title: Command Center Overview
+description: Command Center 개요 - Marketo 문서 - 제품 설명서
+title: Command Center 개요
 hide: true
 hidefromtoc: true
-source-git-commit: 1ec63edfb86f32a0d24f32330d76489b5f90e1cb
+source-git-commit: c65b641eeb6fad4e3722e2e50eb36bc6d0a9bd4d
 workflow-type: tm+mt
-source-wordcount: '490'
+source-wordcount: '0'
 ht-degree: 0%
 
 ---
 
 # Command Center 개요 {#command-center-overview}
 
-The Command Center is a single, unified view that helps you figure out your next step, while making sure nothing falls through the cracks.
+지휘 센터는 다음 단계를 알아내는 데 도움이 되는 하나의 통합 보기이며, 그 균열에는 아무것도 들어가지 않습니다.
 
 ## 이메일 관리 {#manage-emails}
 
@@ -48,22 +48,22 @@ PICC
   <strong>참고</strong>: 단일 이메일만 초안으로 저장할 수 있습니다. 대량 이메일(선택 및 이메일 및 그룹 이메일)은 초안으로 저장되지 않습니다.</td>
  </tr>
  <tr>
-  <td>In Progress</td>
+  <td>진행 중</td>
   <td>전송 동작에 이메일이 들어갈 때 받는 중간 상태입니다. 이메일은 잠시 동안 진행 중이어야 합니다.</td>
  </tr>
  <tr>
   <th rowspan="3">배달되지 않음</th>
-  <td>Failed</td>
+  <td>실패</td>
   <td>게재하지 못한 이메일.
 </td>
  </tr>
  <tr>
   <td>바운스됨</td>
-  <td>Emails that have been rejected from the recipients email server.<br/>
+  <td>수신자 이메일 서버에서 거부된 전자 메일.<br/>
   <strong>참고</strong>: 이는 기존 ToutApp 사용자이고 배달 채널로서 MSC 서버에 액세스할 수 있는 경우에만 감지됩니다.</td>
  </tr>
  <tr>
-  <td>Spam</td>
+  <td>스팸</td>
   <td>수신자가 수동으로 스팸으로 표시한 이메일.<br/>
   <strong>참고</strong>: 이는 기존 ToutApp 사용자이고 배달 채널로서 MSC 서버에 액세스할 수 있는 경우에만 감지됩니다.</td>
  </tr>
@@ -85,6 +85,7 @@ PICC
 
 >[!MORELIKETHIS]
 >
->* [작업]()
->* [Advanced Search Overview]()
->* [선택 및 보내기로 대량 이메일 작성]()
+>* 작업
+>* 고급 검색 개요
+>* 선택 및 보내기로 대량 이메일 작성
+

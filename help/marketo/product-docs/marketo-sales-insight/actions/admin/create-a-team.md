@@ -3,14 +3,14 @@ description: 팀 만들기 - Marketo 문서 - 제품 설명서
 title: 팀 만들기
 hide: true
 hidefromtoc: true
-source-git-commit: 1ec63edfb86f32a0d24f32330d76489b5f90e1cb
+source-git-commit: c65b641eeb6fad4e3722e2e50eb36bc6d0a9bd4d
 workflow-type: tm+mt
-source-wordcount: '125'
+source-wordcount: '0'
 ht-degree: 0%
 
 ---
 
-# 팀 만들기 {#create-a-team}
+# 팀 만들기 {#creating-a-team}
 
 팀을 만들면 컨텐츠를 공유할 수 있고 보고서를 필터링 할 수 있는 사용자 그룹을 어셈블할 수 있습니다.
 
