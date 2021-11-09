@@ -1,0 +1,132 @@
+---
+description: null
+title: null
+hide: true
+hidefromtoc: true
+source-git-commit: 1ec63edfb86f32a0d24f32330d76489b5f90e1cb
+workflow-type: tm+mt
+source-wordcount: '497'
+ht-degree: 0%
+
+---
+
+# Email Columns and Email Page Layout {#email-columns-and-email-page-layout}
+
+사용 가능한 열을 구성 하여 [명령 센터](/help/marketo/product-docs/marketo-sales-insight/actions/email/command-center/command-center-overview.md). 구성 설정은 각 전자 메일 하위 폴더(예: 배달, 실패, 예약됨 등)에 대해 저장됩니다.
+
+## 이메일 열 {#email-columns}
+
+<table> 
+ <colgroup> 
+  <col> 
+  <col> 
+ </colgroup> 
+ <tbody> 
+  <tr> 
+   <th>Column</th> 
+   <th>설명</th> 
+  </tr> 
+  <tr> 
+   <td><strong>개인</td> 
+   <td>Sales Connect에서 개인 이름 및 전자 메일 Clicking on this field will open the About tab in the person details view.</td> 
+  </tr> 
+  <tr> 
+   <td><strong>Name</td> 
+   <td>Name of the person in Sales Connect.</td> 
+  </tr> 
+  <tr> 
+   <td><strong>주소</td> 
+   <td>Sales Connect에 있는 사람의 기본 이메일 주소입니다.</td> 
+  </tr> 
+  <tr> 
+   <td><strong>캠페인</td> 
+   <td>이메일이 캠페인의 일부로 전송된 경우 캠페인 이름이 표시됩니다. 이 필드를 클릭하면 해당 캠페인의 설정 페이지로 이동합니다.</td> 
+  </tr> 
+  <tr> 
+   <td><strong>템플릿</td> 
+   <td>Shows the name of the template (if the email was sent with one).</td> 
+  </tr> 
+  <tr> 
+   <td><strong>제목</td> 
+   <td>이메일의 제목입니다.</td> 
+  </tr> 
+  <tr> 
+   <td><strong>Groups</td> 
+   <td>전자 메일 수신자가 속한 그룹을 표시합니다.</td> 
+  </tr> 
+  <tr> 
+   <td><strong>직위</td> 
+   <td>전자 메일 수신자의 제목입니다.</td> 
+  </tr> 
+  <tr> 
+   <td><strong>Company</td> 
+   <td>Company of the email recipient.</td> 
+  </tr> 
+  <tr> 
+   <td><strong>Email Status</td> 
+   <td>Status that email is in. Statuses include: Draft, Scheduled, In Progress, Spam, Bounced, Failed, Sent. 보낸 이메일에는 해당 이메일에서 발생한 보기, 클릭 및 답글 수를 표시하는 활동 스트림이 표시됩니다.</td> 
+  </tr> 
+  <tr> 
+   <td><strong>작성일</td> 
+   <td>Date the email was created.</td> 
+  </tr> 
+  <tr> 
+   <td><strong>마지막 업데이트 날짜</td> 
+   <td>이메일이 마지막으로 업데이트된 날짜입니다.</td> 
+  </tr> 
+  <tr> 
+   <td><strong>Delivery Channel</td> 
+   <td>The name of the delivery channel that was used for sending the email.</td> 
+  </tr> 
+  <tr> 
+   <td><strong>최신 활동</td> 
+   <td>이메일 수신자의 마지막 참여(예: 보기, 클릭 또는 회신).</td> 
+  </tr> 
+  <tr> 
+   <td><strong>보낸 날짜</td> 
+   <td>이메일을 보낸 날짜입니다.</td> 
+  </tr> 
+  <tr> 
+   <td><strong>Follow Up Actions</td> 
+   <td>Quick action buttons that can be used for follow-up by email, phone, inMail, or task.</td> 
+  </tr> 
+  <tr> 
+   <td><strong>그룹 전자 메일</td> 
+   <td>전자 메일이 그룹 전자 메일의 일부로 전송된 경우 확인 표시를 표시합니다.</td> 
+  </tr> 
+  <tr> 
+   <td><strong>Task Due Date</td> 
+   <td>이메일과 관련된 작업의 기한을 표시합니다. 전자 메일 목록의 빠른 작업 단추에서 작성하여 전자 메일과 관련된 작업을 수행할 수 있습니다.</td> 
+  </tr> 
+  <tr> 
+   <td><strong>이메일 작업</td> 
+   <td>이메일에 작업을 수행하는 데 사용할 수 있는 빠른 작업 단추. 전자 메일 상태에 따라 다음 작업을 사용할 수 있습니다. 보관, 성공, 삭제, 전송 다시 시도, 보관 해제.</td> 
+  </tr> 
+  <tr> 
+   <td><strong>작업 유형</td> 
+   <td>전자 메일과 관련된 작업의 작업 유형을 표시합니다. Tasks can be related to an email by being created from the quick action buttons in the email list.</td> 
+  </tr> 
+  <tr> 
+   <td><strong>실패 날짜</td> 
+   <td>이메일이 배달되지 않은 경우 이메일에 실패한 날짜를 표시합니다.</td> 
+  </tr> 
+ </tbody> 
+</table>
+
+## Email Page Layout Settings {#email-page-layout-settings}
+
+다음 단계에 따라 레이아웃을 구성할 수 있습니다.
+
+1. 웹 응용 프로그램에서 **명령 센터**.
+
+   ![](assets/email-columns-and-email-page-layout-1.png)
+
+1. 을(를) 선택합니다 **이메일** 섹션을 참조하십시오.
+
+   ![](assets/email-columns-and-email-page-layout-2.png)
+
+1. 구성 단추를 클릭합니다. 옵션은 다음과 같습니다. 원하는 행 수 선택, 표시할 필드 선택, 그리드 내의 단일 항목으로 그룹 이메일을 롤업할 것인지 선택(또는 이메일 그리드에 속한 모든 이메일을 단일 항목으로 표시하려면 선택).
+
+   ![](assets/email-columns-and-email-page-layout-3.png)
+
+1. 변경 사항을 저장할 때 구성 상자의 외부를 클릭하면 됩니다.
