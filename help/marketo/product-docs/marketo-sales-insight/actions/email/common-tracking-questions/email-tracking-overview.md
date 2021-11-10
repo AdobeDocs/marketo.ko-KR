@@ -3,9 +3,9 @@ description: 이메일 추적 개요 - Marketo 문서 - 제품 설명서
 title: 이메일 추적 개요
 hide: true
 hidefromtoc: true
-source-git-commit: 8789ed464f532bbe76c2cb456374d9c0f505ece0
+source-git-commit: d8f7d7ddf804847e20bf978bf2fc74694b719009
 workflow-type: tm+mt
-source-wordcount: '186'
+source-wordcount: '194'
 ht-degree: 0%
 
 ---
@@ -24,9 +24,14 @@ Sales Connect에서 잠재 고객의 전자 메일에 대한 응답을 추적할
 
 즉, flynn@flynnsarcade.com으로 이메일을 보내고 kevinf@flynnsarcade.com으로 응답하는 경우 응답을 추적할 수 있습니다. 또한 flynn@flynnsarcade.com 및 CC alan@encom.com으로 이메일을 보내고 Alan이 다시 편지를 보내는 경우 답장도 감지하여 캠페인을 종료합니다.
 
-## 회신 추적 작동 방식 {#how-reply-tracking-works}
+## 전자 메일 첨부 파일을 추적하는 방법 {#how-to-track-your-email-attachments}
 
 텍스트
 
-## 전자 메일 첨부 파일을 추적하는 방법 {#how-to-track-your-email-attachments}
+## 보기 추적 작동 방식 {#how-view-tracking-works}
 
+텍스트
+
+## 표시된 대로 표시되지 않은 테스트 이메일 {#test-email-not-showed-as-viewed}
+
+텍스트
