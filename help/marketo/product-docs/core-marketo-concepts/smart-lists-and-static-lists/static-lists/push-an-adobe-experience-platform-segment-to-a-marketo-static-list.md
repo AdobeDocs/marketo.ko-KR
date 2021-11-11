@@ -1,11 +1,10 @@
 ---
 description: Marketo 정적 목록에 Adobe Experience Platform 세그먼트 푸시 - Marketo 문서 - 제품 설명서
 title: Marketo 정적 목록에 Adobe Experience Platform 세그먼트 푸시
-hidefromtoc: true
 exl-id: 8df11bf4-06f4-4927-8dfb-954414fce6dc
-source-git-commit: 8789ed464f532bbe76c2cb456374d9c0f505ece0
+source-git-commit: 5d26aff392d5749941ad93e351c454249662cd72
 workflow-type: tm+mt
-source-wordcount: '515'
+source-wordcount: '514'
 ht-degree: 0%
 
 ---
@@ -42,7 +41,6 @@ ht-degree: 0%
 
 1. 클릭 **새 대상 구성**.
 
-   PICC
 
 1. 계정 유형에서 **새 계정** 라디오 단추입니다. Marketo 자격 증명을 입력하고 **대상에 연결**.
 
