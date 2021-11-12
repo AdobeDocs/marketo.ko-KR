@@ -2,9 +2,9 @@
 description: 릴리스 노트 - 2021년 5월 - Marketo 문서 - 제품 설명서
 title: 릴리스 노트 - 2021년 5월
 exl-id: e3de60a2-17bd-4760-848e-6e931ad85b3c
-source-git-commit: 74effe9f8078f8d71e6de01d6e737ddc86978abb
+source-git-commit: 115b6e97978778a1d1e13478adf6fee625aa5257
 workflow-type: tm+mt
-source-wordcount: '1481'
+source-wordcount: '1446'
 ht-degree: 0%
 
 ---
@@ -15,11 +15,11 @@ ht-degree: 0%
 
 >[!AVAILABILITY]
 >
->별(![](assets/yellow-star.png))로 표시되는 기능은 유료 추가 기능입니다. 자세한 내용은 Marketo Engage 담당자에게 문의하십시오.
+>별로 표시된 기능(![](assets/yellow-star.png))은 유료 추가 기능입니다. 자세한 내용은 Marketo Engage 담당자에게 문의하십시오.
 
 **_분기별 릴리스_**
 
-다음 기능은 **2021년 5월 7일에 릴리스됩니다**.
+다음 기능은 **2021년 5월 7일**.
 
 ## 계정 기반 경험 {#Account-based-eaperiences}
 
@@ -39,7 +39,7 @@ ht-degree: 0%
 
 * **스팸 양식 제출 차단**: Protect에 Adobe Marketo Engage 데이터베이스를 정크 데이터에서 만들면 잘못된 경고가 판매되고 캠페인 백로그가 트리거되며 원치 않는 활동이 생성됩니다. 새 유효성 검사 메커니즘이 잘못된 양식 제출을 거부하고 보트 공격을 중지합니다. 데이터가 더 깨끗하고 마케팅 캠페인이 의도한 대로 실행되므로 부적격 리드를 판매로 보낼 위험이 최소화됩니다.
 
-* **이메일 프로그램 승인 경고**: 이전에 승인된 프로그램에 새로 편집한 경우 잘못된 이메일을 보내지 마십시오.  경고는 마케터가 이미 승인된 이메일에 변경 사항을 적용한 후 최신 변경 사항을 승인하는 것을 잊어버린 경우 보증 역할을 하며 컨텐츠, 잘못된 컨텐츠 또는 이전 컨텐츠가 없는 큰 대상에게 이메일을 보냅니다.
+* **전자 메일 프로그램 승인 경고**: 이전에 승인된 프로그램에 새로 편집한 경우 잘못된 이메일을 보내지 마십시오.  경고는 마케터가 이미 승인된 이메일에 변경 사항을 적용한 후 최신 변경 사항을 승인하는 것을 잊어버린 경우 보증 역할을 하며 컨텐츠, 잘못된 컨텐츠 또는 이전 컨텐츠가 없는 큰 대상에게 이메일을 보냅니다.
 
 * **이메일 보트 활동 필터링**: 새로운 이메일 보트 활동 필터링 기능을 통해 의도하지 않은 판매 경고 및 부정확한 이메일 보고를 방지합니다. 허위 트리거 및 판매 경고 또는 잘못된 보고로 이어지는 링크를 검사하는 이메일 보트와 연관된 열기 및 클릭을 식별하고 필터링합니다.
 
@@ -49,7 +49,7 @@ ht-degree: 0%
 
 * **이벤트 프로그램 중첩**: Adobe Marketo Engage에서 다른 프로그램 유형에서 이벤트 프로그램을 생성, 복제 또는 이동할 수 있습니다. 이제 자산 API에서 이 기능이 허용됩니다.
 
-* **향상된 삭제 프로그램 API**: 통합 애플리케이션에서 사용자가 Adobe Marketo Engage에서 수동으로 자산 유형을 사용하지 않고도 추가 유형의 자산을 포함하는 프로그램을 삭제할 수 있습니다.
+* **프로그램 삭제 API 개선**: 통합 애플리케이션에서 사용자가 Adobe Marketo Engage에서 수동으로 자산 유형을 사용하지 않고도 추가 유형의 자산을 포함하는 프로그램을 삭제할 수 있습니다.
 
 * **프로그램 멤버십**: 마케터는 프로그램 멤버 상태와 같이 서로 다른 기준으로 지정된 선택된 프로그램에 대한 모든 프로그램 멤버 레코드를 질의할 수 있습니다. 이 정보를 외부 애플리케이션, 비즈니스 인텔리전스 도구 또는 Adobe Experience Cloud과 공유하여 세그멘테이션을 향상하고 타겟팅된 참여를 만들 수 있습니다.
 
@@ -59,7 +59,7 @@ ht-degree: 0%
 
 * **벌크 활동 추출 API**: 대량 추출을 수행할 때 데이터의 양과 유형을 제어할 수 있습니다. 불필요한 데이터 포인트를 필터링하고 활동 데이터를 일괄 추출하는 데 필요한 API 호출 수를 제어합니다.  예를 들어, 이메일 열기, 웹 페이지 방문 또는 리드 스코어의 변경 사항을 선택하고 분석하지 않으려는 다른 가치 변경 사항을 남깁니다. API 호출 수 및 데이터 정리 프로세스를 간소화합니다.
 
-* **리드 API**: Adobe Marketo Engage에서 리드와 연관된 Adobe ECID(Experience Cloud ID)가 있는 리드를 식별합니다.  Adobe Marketo Engage 고객은 선택 캠페인에서 리드 목록을 만들고 ECID(Experience Cloud ID)를 사용하여 해당 특정 목록에 대한 Adobe Analytics에서 보고를 만들 수 있습니다. Adobe Marketo Engage과 Adobe Experience Cloud 간의 통합을 통해 세그멘테이션, 타깃팅 및 보고를 위한 무제한 기회를 얻을 수 있습니다.
+* **Lead API**: Adobe Marketo Engage에서 리드와 연관된 Adobe ECID(Experience Cloud ID)가 있는 리드를 식별합니다.  Adobe Marketo Engage 고객은 선택 캠페인에서 리드 목록을 만들고 ECID(Experience Cloud ID)를 사용하여 해당 특정 목록에 대한 Adobe Analytics에서 보고를 만들 수 있습니다. Adobe Marketo Engage과 Adobe Experience Cloud 간의 통합을 통해 세그멘테이션, 타깃팅 및 보고를 위한 무제한 기회를 얻을 수 있습니다.
 
 * **대량 리드 가져오기 API**: 대량 리드 가져오기 및 필요한 리소스를 제어합니다. 이 개선 사항은 대량 리드 가져오기 프로세스 중에 리드와 회사 간에 연관성을 만듭니다. API를 호출하는 경우 데이터 작업 및 효율성 향상 및 사용량 감소.
 
@@ -69,13 +69,13 @@ ht-degree: 0%
 
 * **XLSX 내보내기**: XLS 대신 XLSX를 지원하도록 제품 전체에서 내보내기 기능을 업그레이드했습니다. 즉, XLS 내보내기가 현재 지원되는 제품의 모든 위치에서 이 옵션은 대신 XLSX로 내보내는 옵션으로 대체됩니다. 이 변경 사항은 보고서 및 Adobe Marketo Engage의 기타 데이터의 모든 Excel 내보내기에 대한 파일 이름에 영향을 줍니다.
 
-* **리드 ID별로 검색**: 리드 데이터베이스 또는 정적 목록 내에서 Adobe Marketo Engage 리드 ID로 리드 레코드 검색에 빠르게 액세스할 수 있습니다. 빠른 찾기 창에서 해당 번호가 있는 `[id]`을 입력하면 리드 정보가 표시됩니다. 사용자는 리드, 회사 또는 영업 기회 세부 사항을 신속하게 검토할 수 있습니다.
+* **리드 ID별로 검색**: 리드 데이터베이스 또는 정적 목록 내에서 Adobe Marketo Engage 리드 ID로 리드 레코드 검색에 빠르게 액세스할 수 있습니다. 빠른 찾기 창에 `[id]` 해당 번호를 입력하면 리드 정보가 표시됩니다. 사용자는 리드, 회사 또는 영업 기회 세부 사항을 신속하게 검토할 수 있습니다.
 
 ## Bizible {#bizible}
 
 ![](assets/yellow-star.png)
 
-* **LinkedIn Lead Gen Forms(베타)과의 통합**: Bizible 프리미엄 속성 솔루션을 사용하여 LinkedIn 채널 투자 및 ROI를 세부적으로 파악할 수 있습니다. LinkedIn의 Lead Gen Forms과의 최신 통합을 통해 Bizible은 LinkedIn 플랫폼 내에 제출된 양식에 대한 통찰력을 제공합니다. 이러한 양식 채우기는 CRM(고객 관계 관리) 또는 Adobe Marketo Engage 인스턴스의 리드에 대해 일치하므로 기여도 분석에 적합하고 다른 마케팅 참여와 비교하여 추적할 수 있습니다.
+* **LinkedIn Lead Gen Forms(Beta)와의 통합**: Bizible 프리미엄 속성 솔루션을 사용하여 LinkedIn 채널 투자 및 ROI를 세부적으로 파악할 수 있습니다. LinkedIn의 Lead Gen Forms과의 최신 통합을 통해 Bizible은 LinkedIn 플랫폼 내에 제출된 양식에 대한 통찰력을 제공합니다. 이러한 양식 채우기는 CRM(고객 관계 관리) 또는 Adobe Marketo Engage 인스턴스의 리드에 대해 일치하므로 기여도 분석에 적합하고 다른 마케팅 참여와 비교하여 추적할 수 있습니다.
 
 ## 공지 {#announcements}
 
@@ -85,4 +85,4 @@ ht-degree: 0%
 
 **_제품 릴리스 웨비나_**
 
-이러한 기능 및 개선 사항에 대해 자세히 알고 싶으십니까? [지금 등록](https://engage.marketo.com/May_21_Release_webinar_RegistrationPage.html)하여 5월 13일 오전 9시 PT / 오후 12시 ET에 참가하여 제품 팀과 함께 이러한 혁신적인 기능을 자세히 살펴보십시오.
+[2021년 5월 Marketo Engage 릴리스 웨비나](https://engage.marketo.com/May_21_Release_webinar_RegistrationPage.html)

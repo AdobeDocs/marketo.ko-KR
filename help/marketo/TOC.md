@@ -3,9 +3,9 @@ audience: end-user
 user-guide-title: Marketo 안내서
 user-guide-description: Marketo 제품 설명서
 feature-set: Marketo Engage
-source-git-commit: fd4becf77135be7fc80156c8fde56f29a0aa38d0
+source-git-commit: 115b6e97978778a1d1e13478adf6fee625aa5257
 workflow-type: tm+mt
-source-wordcount: '7981'
+source-wordcount: '8041'
 ht-degree: 0%
 
 ---
@@ -1269,6 +1269,25 @@ ht-degree: 0%
             + [내 동적 필드가 입력되지 않음](product-docs/marketo-sales-connect/templates/dynamic-fields/my-dynamic-fields-arent-filling-out.md)
             + [동적 필드에서 자신을 참조합니다.](product-docs/marketo-sales-connect/templates/dynamic-fields/reference-yourself-in-a-dynamic-field.md)
    + Marketo Sales Insight {#marketo-sales-insight}
+      + 작업 {#actions}
+         + 관리 {#admin}
+            + [차단된 도메인](product-docs/marketo-sales-insight/actions/admin/blocked-domains.md)
+            + [컨텐츠 잠금](product-docs/marketo-sales-insight/actions/admin/content-lockdown.md)
+            + [팀 만들기](product-docs/marketo-sales-insight/actions/admin/create-a-team.md)
+            + [사용자 지정 도메인 추적을 설정하는 방법](product-docs/marketo-sales-insight/actions/admin/how-to-set-up-custom-domain-tracking.md)
+            + [사용자 및 관리자 초대](product-docs/marketo-sales-insight/actions/admin/invite-users-and-admins.md)
+            + [공유 설정](product-docs/marketo-sales-insight/actions/admin/sharing-settings.md)
+         + 이메일 {#email}
+            + 명령 센터 {#command-center}
+               + [고급 검색 개요](product-docs/marketo-sales-insight/actions/email/command-center/advanced-search-overview.md)
+               + [팀 구성원에게 작업 할당](product-docs/marketo-sales-insight/actions/email/command-center/assigning-tasks-to-team-members.md)
+               + [Command Center 개요](product-docs/marketo-sales-insight/actions/email/command-center/command-center-overview.md)
+               + [이메일 열 및 이메일 페이지 레이아웃](product-docs/marketo-sales-insight/actions/email/command-center/email-columns-and-email-page-layout.md)
+               + [명령 센터의 빠른 작업](product-docs/marketo-sales-insight/actions/email/command-center/quick-actions-in-the-command-center.md)
+         + 전자 메일 설정 {#email-settings}
+            + [이메일 확인](product-docs/marketo-sales-insight/actions/email-settings/verify-your-email.md)
+         + 영업 전자 메일 보내기 {#send-a-sales-email}
+            + [이메일 추적 개요](product-docs/marketo-sales-insight/actions/send-a-sales-email/email-tracking-overview.md)
       + MSI 사용 {#using-msi}
          + [Marketo에서 리드의 인바운드 메일 로그](product-docs/marketo-sales-insight/using-msi/log-inbound-mail-from-your-leads-in-marketo.md)
       + MSI Chrome 플러그인 {#msi-chrome-plugin}

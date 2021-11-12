@@ -3,9 +3,9 @@ unique-page-id: 7515401
 description: 안내 랜딩 페이지 템플릿 만들기 - Marketo 문서 - 제품 설명서
 title: 안내 랜딩 페이지 템플릿 만들기
 exl-id: 7d097162-d862-4d09-9440-aba1628450c2
-source-git-commit: c309b69198c6f61d7475c6d3a6b1672e045b9b4a
+source-git-commit: 115b6e97978778a1d1e13478adf6fee625aa5257
 workflow-type: tm+mt
-source-wordcount: '0'
+source-wordcount: '1254'
 ht-degree: 0%
 
 ---
@@ -41,7 +41,7 @@ ht-degree: 0%
 
 예:
 
-`<pre data-theme="Confluence"><div class="mktoText" id="exampleText" mktoName="Main Body Text"> Optionally add default text for the editable text area.</div></pre>`
+`<div class="mktoText" id="exampleText" mktoName="Main Body Text"> Optionally add default text for the editable text area.</div>`
 
 ## 이미지 {#image}
 
@@ -60,7 +60,7 @@ mktoImgClass: 문자열. 여기서 값은 `<img>` div 내에 있는 요소.
 
 예:
 
-`<pre data-theme="Confluence"><div class="mktoImg" id="exampleImg" mktoName="Example Image"></div></pre>`
+`<div class="mktoImg" id="exampleImg" mktoName="Example Image"></div>`
 
 ## 옵션 2 - `<img>` {#option-use-a-img}
 
@@ -74,7 +74,7 @@ src: 문자열 URL. 이 값은 이미지의 기본값으로 사용됩니다.
 
 예:
 
-`<pre data-theme="Confluence"><img class="mktoImg" id="exampleImg" mktoName="Example Image"></pre>`
+`<img class="mktoImg" id="exampleImg" mktoName="Example Image">`
 
 >[!NOTE]
 >
@@ -87,7 +87,7 @@ src: 문자열 URL. 이 값은 이미지의 기본값으로 사용됩니다.
 **id**: ID 문자열입니다. 문자, 숫자, 대시 &quot;-&quot; 및 밑줄 &quot;_&quot;만 포함합니다. 공백은 허용되지 않습니다. 고유해야 합니다.\
 **mktoName** : 문자열. 랜딩 페이지 편집기에 표시되는 표시 이름입니다. 수사적 이름을 사용하는 것이 좋습니다.
 
-`<pre data-theme="Confluence"><div class="mktoForm" id="exampleForm" mktoName="Example Form"></div></pre>`
+`<div class="mktoForm" id="exampleForm" mktoName="Example Form"></div>`
 
 ## 코드 조각 {#snippet}
 
@@ -98,7 +98,7 @@ src: 문자열 URL. 이 값은 이미지의 기본값으로 사용됩니다.
 
 예:
 
-`<pre data-theme="Confluence"><div class="mktoSnippet" id="exampleSnippet" mktoName="Example Snippet"></div></pre>`
+`<div class="mktoSnippet" id="exampleSnippet" mktoName="Example Snippet"></div>`
 
 ## 공유 단추 {#share-button}
 
@@ -109,7 +109,7 @@ src: 문자열 URL. 이 값은 이미지의 기본값으로 사용됩니다.
 
 예:
 
-`<pre data-theme="Confluence"><div class="mktoShareButton" id="exampleShareButton" mktoName="Example Share Button"></div></pre>`
+`<div class="mktoShareButton" id="exampleShareButton" mktoName="Example Share Button"></div>`
 
 ## 비디오 {#video}
 
@@ -124,7 +124,7 @@ src: 문자열 URL. 이 값은 이미지의 기본값으로 사용됩니다.
 
 예:
 
-`<pre data-theme="Confluence"><div class="mktoVideo" id="exampleVideo" mktoName="Example Video"></div></pre>`
+`<div class="mktoVideo" id="exampleVideo" mktoName="Example Video"></div>`
 
 ## 여론 조사 {#poll}
 
@@ -135,7 +135,7 @@ src: 문자열 URL. 이 값은 이미지의 기본값으로 사용됩니다.
 
 예:
 
-`<pre data-theme="Confluence"><div class="mktoPoll" id="examplePoll" mktoName="Example Poll"></div></pre>`
+`<div class="mktoPoll" id="examplePoll" mktoName="Example Poll"></div>`
 
 ## 참조 {#referral}
 
@@ -146,7 +146,7 @@ src: 문자열 URL. 이 값은 이미지의 기본값으로 사용됩니다.
 
 예:
 
-`<pre data-theme="Confluence"><div class="mktoReferral" id="exampleReferral" mktoName="Example Referral"></div></pre>`
+`<div class="mktoReferral" id="exampleReferral" mktoName="Example Referral"></div>`
 
 ## 경품 추첨 {#sweepstakes}
 
@@ -157,7 +157,7 @@ src: 문자열 URL. 이 값은 이미지의 기본값으로 사용됩니다.
 
 예:
 
-`<pre data-theme="Confluence"><div class="mktoSweepstakes" id="exampleSweepstakes" mktoName="Example Sweepstakes"></div></pre>`
+`<div class="mktoSweepstakes" id="exampleSweepstakes" mktoName="Example Sweepstakes"></div>`
 
 ## 편집 가능한 변수 {#editable-variables}
 
@@ -165,7 +165,7 @@ src: 문자열 URL. 이 값은 이미지의 기본값으로 사용됩니다.
 
 예:
 
-`<pre data-theme="Confluence">${var1}</pre>`
+`${var1}`
 
 **선언:**
 
@@ -184,11 +184,11 @@ src: 문자열 URL. 이 값은 이미지의 기본값으로 사용됩니다.
 
 기본 예:
 
-`<pre data-theme="Confluence"><meta class="mktoString" id="var1" mktoName="My Variable"></pre>`
+`<meta class="mktoString" id="var1" mktoName="My Variable">`
 
 모든 특성이 있는 예:
 
-`<pre data-theme="Confluence"><meta class="mktoString" id="var1" mktoName="My Variable" default="This is my default value" allowHtml="true"></pre>`
+`<meta class="mktoString" id="var1" mktoName="My Variable" default="This is my default value" allowHtml="true">`
 
 ## 색상 {#color}
 
@@ -202,11 +202,11 @@ src: 문자열 URL. 이 값은 이미지의 기본값으로 사용됩니다.
 
 기본 예:
 
-`<pre data-theme="Confluence"><meta class="mktoColor" id="color1" mktoName="My Color Variable"></pre>`
+`<meta class="mktoColor" id="color1" mktoName="My Color Variable">`
 
 모든 특성이 있는 예:
 
-`<pre data-theme="Confluence"><meta class="mktoColor" id="color" mktoName="My Color Variable" default="#336699"></pre>`
+`<meta class="mktoColor" id="color" mktoName="My Color Variable" default="#336699">`
 
 ## 부울 {#boolean}
 
@@ -224,15 +224,15 @@ src: 문자열 URL. 이 값은 이미지의 기본값으로 사용됩니다.
 
 기본 예:
 
-`<pre data-theme="Confluence"><meta class="mktoColor" id="color" mktoName="My Color Variable" default="#336699"></pre>`
+`<meta class="mktoColor" id="color" mktoName="My Color Variable" default="#336699">`
 
-`<pre data-theme="Confluence"><meta class="mktoBoolean" id="boolean1" mktoName="My Boolean Variable"></pre>`
+`<meta class="mktoBoolean" id="boolean1" mktoName="My Boolean Variable">`
 
 모든 특성이 있는 예:
 
 이 예는 부울 변수가 css를 사용하여 요소를 ID로 표시/숨기도록 css 표시 속성의 값을 &quot;block&quot; 또는 &quot;none&quot;으로 설정하여 css 요소의 가시성을 제어하는 일반적인 사용 사례를 보여줍니다. 랜딩 페이지 편집기에서는 해제/켜짐 대신 표시 이름 표시/숨기기를 사용합니다.
 
-`<pre data-theme="Confluence"><meta class="mktoBoolean" id="boolean1" mktoName="My Boolean Variable" default="true" true_value="block" false_value="none" false_value_name="Hide" true_value_name="Show"> <style> #myConditionalDisplayArea { display: ${boolean1}; } </style></pre>`
+`<meta class="mktoBoolean" id="boolean1" mktoName="My Boolean Variable" default="true" true_value="block" false_value="none" false_value_name="Hide" true_value_name="Show"> <style> #myConditionalDisplayArea { display: ${boolean1}; } </style>`
 
 >[!NOTE]
 >
