@@ -2,9 +2,9 @@
 description: 현재 릴리스 노트 - Marketo 문서 - 제품 설명서
 title: 현재 릴리스 노트
 exl-id: a2eccad5-73ad-48f9-8091-51cee23824e1
-source-git-commit: 115b6e97978778a1d1e13478adf6fee625aa5257
+source-git-commit: 2712a21b7457ef51a9112074465c54e8f7954fa9
 workflow-type: tm+mt
-source-wordcount: '1088'
+source-wordcount: '1116'
 ht-degree: 0%
 
 ---
@@ -76,6 +76,8 @@ ht-degree: 0%
 ## 공지 {#announcements}
 
 **리드 사용 중단/Munchkin 베타 161 업데이트 연결**: 2021년 9월 7일, Munchkin의 버전 161은 Munchkin Beta를 사용할 수 있는 구독의 10%를 시작으로, 9월 16일에는 50%, 9월 30일에는 100%를 구독했습니다. 이 변경 사항은 Marketo Engage 랜딩 페이지 및 최신 버전이 롤아웃된 구독에서 로드되는 외부 랜딩 페이지에 제공되는 munchkin-beta.js 파일의 버전에 영향을 줍니다. 이 버전은 알려진 개인 레코드와 Marketo Engage 구독 및 관련 웹 탐색 기록에 개인 데이터를 제출할 수 있는 기능인 Munchkin 연결 리드 메서드를 완전히 사용하지 않습니다. Forms JS API, 양식 제출 API 및 리드 연결 REST API와 같은 보다 현대적이고 안전한 대체 요소를 위해 리드 연결이 제거됩니다. [여기서 이러한 사용 중단에 대해 자세히 알아보십시오](https://developers.marketo.com/blog/deprecation-of-munchkin-associate-lead-method/).
+
+**Sales Connect 업데이트**: Sales Connect의 최근 UI 변경으로 인해 Salesforce의 일부 모듈이 잘렸습니다. 이 문제를 해결하려면 다음을 수행하십시오. [패키지 업데이트](/help/marketo/product-docs/marketo-sales-connect/crm/salesforce-customization/sales-connect-customizations-for-crm.md).
 
 **_제품 릴리스 웨비나_**
 
