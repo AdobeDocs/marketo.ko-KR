@@ -1,16 +1,16 @@
 ---
-description: null
-title: null
+description: 이메일 열 및 이메일 페이지 레이아웃 - Marketo 문서 - 제품 설명서
+title: 이메일 열 및 이메일 페이지 레이아웃
 hide: true
 hidefromtoc: true
-source-git-commit: 1ec63edfb86f32a0d24f32330d76489b5f90e1cb
+source-git-commit: 8dccd250f5006b70f07b8179134b1db688380260
 workflow-type: tm+mt
-source-wordcount: '497'
+source-wordcount: '513'
 ht-degree: 0%
 
 ---
 
-# Email Columns and Email Page Layout {#email-columns-and-email-page-layout}
+# 이메일 열 및 이메일 페이지 레이아웃 {#email-columns-and-email-page-layout}
 
 사용 가능한 열을 구성 하여 [명령 센터](/help/marketo/product-docs/marketo-sales-insight/actions/email/command-center/command-center-overview.md). 구성 설정은 각 전자 메일 하위 폴더(예: 배달, 실패, 예약됨 등)에 대해 저장됩니다.
 
@@ -23,16 +23,16 @@ ht-degree: 0%
  </colgroup> 
  <tbody> 
   <tr> 
-   <th>Column</th> 
+   <th>열</th> 
    <th>설명</th> 
   </tr> 
   <tr> 
    <td><strong>개인</td> 
-   <td>Sales Connect에서 개인 이름 및 전자 메일 Clicking on this field will open the About tab in the person details view.</td> 
+   <td>Sales Connect에서 개인 이름 및 전자 메일 이 필드를 클릭하면 개인 세부 정보 보기에서 정보 탭이 열립니다.</td> 
   </tr> 
   <tr> 
-   <td><strong>Name</td> 
-   <td>Name of the person in Sales Connect.</td> 
+   <td><strong>이름</td> 
+   <td>Sales Connect에 있는 사람의 이름입니다.</td> 
   </tr> 
   <tr> 
    <td><strong>주소</td> 
@@ -44,14 +44,14 @@ ht-degree: 0%
   </tr> 
   <tr> 
    <td><strong>템플릿</td> 
-   <td>Shows the name of the template (if the email was sent with one).</td> 
+   <td>템플릿의 이름을 표시합니다(전자 메일이 1개로 전송된 경우).</td> 
   </tr> 
   <tr> 
    <td><strong>제목</td> 
    <td>이메일의 제목입니다.</td> 
   </tr> 
   <tr> 
-   <td><strong>Groups</td> 
+   <td><strong>그룹</td> 
    <td>전자 메일 수신자가 속한 그룹을 표시합니다.</td> 
   </tr> 
   <tr> 
@@ -59,24 +59,24 @@ ht-degree: 0%
    <td>전자 메일 수신자의 제목입니다.</td> 
   </tr> 
   <tr> 
-   <td><strong>Company</td> 
-   <td>Company of the email recipient.</td> 
+   <td><strong>회사</td> 
+   <td>이메일 수신자 회사.</td> 
   </tr> 
   <tr> 
-   <td><strong>Email Status</td> 
-   <td>Status that email is in. Statuses include: Draft, Scheduled, In Progress, Spam, Bounced, Failed, Sent. 보낸 이메일에는 해당 이메일에서 발생한 보기, 클릭 및 답글 수를 표시하는 활동 스트림이 표시됩니다.</td> 
+   <td><strong>이메일 상태</td> 
+   <td>이메일이 있는 상태입니다. 상태는 다음과 같습니다. 초안, 예약됨, 진행 중, 스팸, 바운스됨, 실패, 전송됨. 보낸 이메일에는 해당 이메일에서 발생한 보기, 클릭 및 답글 수를 표시하는 활동 스트림이 표시됩니다.</td> 
   </tr> 
   <tr> 
    <td><strong>작성일</td> 
-   <td>Date the email was created.</td> 
+   <td>이메일을 만든 날짜입니다.</td> 
   </tr> 
   <tr> 
    <td><strong>마지막 업데이트 날짜</td> 
    <td>이메일이 마지막으로 업데이트된 날짜입니다.</td> 
   </tr> 
   <tr> 
-   <td><strong>Delivery Channel</td> 
-   <td>The name of the delivery channel that was used for sending the email.</td> 
+   <td><strong>게재 채널</td> 
+   <td>이메일을 전송하는 데 사용된 게재 채널의 이름입니다.</td> 
   </tr> 
   <tr> 
    <td><strong>최신 활동</td> 
@@ -87,15 +87,15 @@ ht-degree: 0%
    <td>이메일을 보낸 날짜입니다.</td> 
   </tr> 
   <tr> 
-   <td><strong>Follow Up Actions</td> 
-   <td>Quick action buttons that can be used for follow-up by email, phone, inMail, or task.</td> 
+   <td><strong>추가 작업</td> 
+   <td>전자 메일, 전화, inMail 또는 작업을 통해 후속 작업에 사용할 수 있는 빠른 작업 단추.</td> 
   </tr> 
   <tr> 
    <td><strong>그룹 전자 메일</td> 
    <td>전자 메일이 그룹 전자 메일의 일부로 전송된 경우 확인 표시를 표시합니다.</td> 
   </tr> 
   <tr> 
-   <td><strong>Task Due Date</td> 
+   <td><strong>작업 기한</td> 
    <td>이메일과 관련된 작업의 기한을 표시합니다. 전자 메일 목록의 빠른 작업 단추에서 작성하여 전자 메일과 관련된 작업을 수행할 수 있습니다.</td> 
   </tr> 
   <tr> 
@@ -104,7 +104,7 @@ ht-degree: 0%
   </tr> 
   <tr> 
    <td><strong>작업 유형</td> 
-   <td>전자 메일과 관련된 작업의 작업 유형을 표시합니다. Tasks can be related to an email by being created from the quick action buttons in the email list.</td> 
+   <td>전자 메일과 관련된 작업의 작업 유형을 표시합니다. 전자 메일 목록의 빠른 작업 단추에서 작성하여 전자 메일과 관련된 작업을 수행할 수 있습니다.</td> 
   </tr> 
   <tr> 
    <td><strong>실패 날짜</td> 
@@ -113,7 +113,7 @@ ht-degree: 0%
  </tbody> 
 </table>
 
-## Email Page Layout Settings {#email-page-layout-settings}
+## 이메일 페이지 레이아웃 설정 {#email-page-layout-settings}
 
 다음 단계에 따라 레이아웃을 구성할 수 있습니다.
 
