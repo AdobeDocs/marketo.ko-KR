@@ -3,9 +3,9 @@ audience: end-user
 user-guide-title: Marketo 안내서
 user-guide-description: Marketo 제품 설명서
 feature-set: Marketo Engage
-source-git-commit: fbdcd6c777778137d0d37ccf27857e3a7655f501
+source-git-commit: 07984499064e42b9b4f1cb21881a78dd687d9858
 workflow-type: tm+mt
-source-wordcount: '8050'
+source-wordcount: '8057'
 ht-degree: 0%
 
 ---
@@ -1285,6 +1285,9 @@ ht-degree: 0%
                + [Command Center 개요](product-docs/marketo-sales-insight/actions/email/command-center/command-center-overview.md)
                + [이메일 열 및 이메일 페이지 레이아웃](product-docs/marketo-sales-insight/actions/email/command-center/email-columns-and-email-page-layout.md)
                + [명령 센터의 빠른 작업](product-docs/marketo-sales-insight/actions/email/command-center/quick-actions-in-the-command-center.md)
+            + 가입 해지됨 {#unsubscribes}
+               + [구독 취소 개요](product-docs/marketo-sales-insight/actions/email/unsubscribes/unsubscribe-overview.md)
+               + [구독 취소 링크 메시지 사용자 지정](product-docs/marketo-sales-insight/actions/email/unsubscribes/customize-unsubscribe-link-message.md)
          + 전자 메일 설정 {#email-settings}
             + [이메일 확인](product-docs/marketo-sales-insight/actions/email-settings/verify-your-email.md)
          + Marketo {#marketo}
