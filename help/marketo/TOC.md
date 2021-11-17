@@ -3,9 +3,9 @@ audience: end-user
 user-guide-title: Marketo 안내서
 user-guide-description: Marketo 제품 설명서
 feature-set: Marketo Engage
-source-git-commit: 115b6e97978778a1d1e13478adf6fee625aa5257
+source-git-commit: 179e1ff62f5f76de1d3c9b47687956dc50ee66e4
 workflow-type: tm+mt
-source-wordcount: '8041'
+source-wordcount: '8047'
 ht-degree: 0%
 
 ---
@@ -1273,7 +1273,7 @@ ht-degree: 0%
          + 관리 {#admin}
             + [차단된 도메인](product-docs/marketo-sales-insight/actions/admin/blocked-domains.md)
             + [컨텐츠 잠금](product-docs/marketo-sales-insight/actions/admin/content-lockdown.md)
-            + [팀 만들기](product-docs/marketo-sales-insight/actions/admin/create-a-team.md)
+            + [팀 만들기](product-docs/marketo-sales-insight/actions/admin/creating-a-team.md)
             + [사용자 지정 도메인 추적을 설정하는 방법](product-docs/marketo-sales-insight/actions/admin/how-to-set-up-custom-domain-tracking.md)
             + [사용자 및 관리자 초대](product-docs/marketo-sales-insight/actions/admin/invite-users-and-admins.md)
             + [공유 설정](product-docs/marketo-sales-insight/actions/admin/sharing-settings.md)
@@ -1286,6 +1286,8 @@ ht-degree: 0%
                + [명령 센터의 빠른 작업](product-docs/marketo-sales-insight/actions/email/command-center/quick-actions-in-the-command-center.md)
          + 전자 메일 설정 {#email-settings}
             + [이메일 확인](product-docs/marketo-sales-insight/actions/email-settings/verify-your-email.md)
+         + Marketo {#marketo}
+            + [사용자에게 Marketo 액세스 권한 부여](product-docs/marketo-sales-insight/actions/marketo/grant-marketo-access-to-users.md)
          + 영업 전자 메일 보내기 {#send-a-sales-email}
             + [이메일 추적 개요](product-docs/marketo-sales-insight/actions/send-a-sales-email/email-tracking-overview.md)
       + MSI 사용 {#using-msi}
