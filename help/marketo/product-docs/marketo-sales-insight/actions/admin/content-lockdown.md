@@ -3,9 +3,9 @@ description: 컨텐츠 잠금 - Marketo 문서 - 제품 설명서
 title: 컨텐츠 잠금
 hide: true
 hidefromtoc: true
-source-git-commit: 1ec63edfb86f32a0d24f32330d76489b5f90e1cb
+source-git-commit: a4a92f2d557581d6685342f45c11c260cf9cad3b
 workflow-type: tm+mt
-source-wordcount: '107'
+source-wordcount: '100'
 ht-degree: 0%
 
 ---
@@ -18,7 +18,7 @@ ht-degree: 0%
 >
 >사용자는 전송 시점 또는 캠페인을 시작할 때 전자 메일 콘텐츠를 편집할 수 있습니다.
 
-1. 에서 [웹 애플리케이션](https://toutapp.com/login), 톱니바퀴 아이콘을 클릭하고 을 선택합니다. **설정**.
+1. 톱니바퀴 아이콘을 클릭하고 을 선택합니다 **설정**.
 
    ![](assets/content-lockdown-1.png)
 
