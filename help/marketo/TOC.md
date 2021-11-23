@@ -3,9 +3,9 @@ audience: end-user
 user-guide-title: Marketo 안내서
 user-guide-description: Marketo 제품 설명서
 feature-set: Marketo Engage
-source-git-commit: a4a92f2d557581d6685342f45c11c260cf9cad3b
+source-git-commit: d3e8e85bd8b428b2490a44e44fdab9d58784843d
 workflow-type: tm+mt
-source-wordcount: '8068'
+source-wordcount: '8083'
 ht-degree: 0%
 
 ---
@@ -1278,6 +1278,10 @@ ht-degree: 0%
             + [사용자 및 관리자 초대](product-docs/marketo-sales-insight/actions/admin/invite-users-and-admins.md)
             + [공유 설정](product-docs/marketo-sales-insight/actions/admin/sharing-settings.md)
             + [사용자 액세스 세부 정보](product-docs/marketo-sales-insight/actions/admin/user-access-details.md)
+         + CRM {#crm}
+            + Salesforce 통합 {#salesforce-integration}
+               + [Salesforce에 Marketo 판매 계정 연결](product-docs/marketo-sales-insight/actions/crm/salesforce-integration/connect-your-marketo-sales-account-to-salesforce.md)
+               + [Salesforce 동기화 설정](product-docs/marketo-sales-insight/actions/crm/salesforce-integration/salesforce-sync-settings.md)
          + 이메일 {#email}
             + 명령 센터 {#command-center}
                + [고급 검색 개요](product-docs/marketo-sales-insight/actions/email/command-center/advanced-search-overview.md)
@@ -1297,6 +1301,7 @@ ht-degree: 0%
          + 영업 전자 메일 보내기 {#send-a-sales-email}
             + [이메일 추적 개요](product-docs/marketo-sales-insight/actions/send-a-sales-email/email-tracking-overview.md)
          + 템플릿 {#templates}
+            + [템플릿 관리](product-docs/marketo-sales-insight/actions/templates/manage-templates.md)
             + [템플릿 카테고리 관리](product-docs/marketo-sales-insight/actions/templates/manage-template-categories.md)
       + MSI 사용 {#using-msi}
          + [Marketo에서 리드의 인바운드 메일 로그](product-docs/marketo-sales-insight/using-msi/log-inbound-mail-from-your-leads-in-marketo.md)

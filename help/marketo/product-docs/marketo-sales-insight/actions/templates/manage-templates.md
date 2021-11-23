@@ -3,9 +3,9 @@ description: 템플릿 관리 - Marketo 문서 - 제품 설명서
 title: '템플릿 관리 '
 hide: true
 hidefromtoc: true
-source-git-commit: 4699b17a670655820946cd277adf28f2233f04d3
+source-git-commit: d3e8e85bd8b428b2490a44e44fdab9d58784843d
 workflow-type: tm+mt
-source-wordcount: '462'
+source-wordcount: '523'
 ht-degree: 0%
 
 ---
@@ -33,6 +33,31 @@ ht-degree: 0%
 >[!TIP]
 >
 >항상 템플릿에 직접 텍스트를 입력하거나 일반 텍스트 편집기(예: 메모장 또는 TextEdit)에서 복사합니다. 서식 있는 텍스트 편집기(예: MS Word)에서 복사하여 붙여넣으면 형식 불균형이 발생할 수 있습니다.
+
+## 템플릿 세부 정보 보기 {#view-template-details}
+
+템플릿 세부 정보 영역에는 여러 탭이 있습니다.
+
+![](assets/manage-templates-4a.png)
+
+<table>
+ <tr>
+  <td><strong>템플릿</strong></td>
+  <td>템플릿을 검토하고 편집하고, 기준을 설정하여 템플릿을 권장 템플릿으로 만들고, 메모를 추가합니다</td>
+ </tr>
+ <tr>
+  <td><strong>Analytics</strong></td>
+  <td>템플릿에 대한 참여 분석 을 검토합니다. 필터링된 검색을 수행합니다.</td>
+ </tr>
+ <tr>
+  <td><strong>이메일</strong></td>
+  <td>이 템플릿을 사용하여 보낸 모든 이메일을 표시합니다. 필터링된 검색을 수행합니다.</td>
+ </tr>
+ <tr>
+  <td><strong>캠페인</strong></td>
+  <td>템플릿이 사용되는 캠페인을 확인합니다.</td>
+ </tr>
+</table>
 
 ## 템플릿 공유 {#share-a-template}
 
@@ -92,9 +117,17 @@ Adobe 팀 계정 중 하나를 사용하는 경우 기본적으로 모든 템플
 
 템플릿 데이터를 손실하지 않고 판매 컨텐츠를 체계적으로 구성하고 집중할 수 있도록 템플릿을 아카이빙합니다.
 
-템플릿 옆에 있는 상자를 선택하고 **아카이브**.
+1. 보관할 템플릿 옆에 있는 상자를 선택합니다.
 
-PICC
+   ![](assets/manage-templates-14.png)
+
+1. 클릭 **아카이브**.
+
+   ![](assets/manage-templates-15.png)
+
+1. 클릭 **아카이브** 확인합니다.
+
+   ![](assets/manage-templates-16.png)
 
 >[!NOTE]
 >
@@ -110,14 +143,14 @@ PICC
 >
 >템플릿을 삭제하면 연결된 모든 추적 및 분석도 삭제됩니다.
 
-1. 제거할 템플릿을 선택합니다.
+1. 삭제할 템플릿 옆에 있는 상자를 선택합니다.
 
-PICC
+   ![](assets/manage-templates-17.png)
 
-1. 오른쪽 상단에 있는 메뉴 드롭다운을 클릭한 다음 **삭제**.
+1. 클릭 **삭제**.
 
-PICC
+   ![](assets/manage-templates-18.png)
 
 1. 클릭 **삭제** 확인합니다.
 
-PICC
+   ![](assets/manage-templates-19.png)
