@@ -3,7 +3,7 @@ description: Command Center 개요 - Marketo 문서 - 제품 설명서
 title: Command Center 개요
 hide: true
 hidefromtoc: true
-source-git-commit: c65b641eeb6fad4e3722e2e50eb36bc6d0a9bd4d
+source-git-commit: 5f2967fb56daa8c3f86f6d9577626928f1e5bbd6
 workflow-type: tm+mt
 source-wordcount: '0'
 ht-degree: 0%
@@ -18,7 +18,7 @@ ht-degree: 0%
 
 명령 센터의 이메일 섹션에서 모든 이메일 활동을 관리할 수 있습니다. Sales Connect에서 전송된 이메일을 검토하려면 이메일 보낼 편지함으로 생각하십시오. 예약된 이메일을 관리하고, 이메일 참여 사용자를 확인하고, 이메일에 문제가 있는지 확인하는 등 다양한 작업을 수행할 수 있습니다.
 
-PICC
+![](assets/command-center-overview-1.png)
 
 이메일 섹션을 통해 모든 이메일에 대한 조망 보기를 제공하고 기본 탭 및 하위 탭을 사용하여 조직을 단순화하며 상태를 기반으로 이메일이 자동으로 저장되는 폴더 역할을 합니다.
 
@@ -73,7 +73,7 @@ PICC
 
 작업 섹션은 작업을 관리 및 완료하는 원스톱 샵입니다. 작업을 원활하게 관리하여 생산성을 높이고 가장 관련 있는 항목에 집중할 수 있습니다.
 
-PICC
+![](assets/command-center-overview-2.png)
 
 ## 참여한 잠재 고객 후속 조치 {#follow-up-with-engaged-prospects}
 

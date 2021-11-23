@@ -3,9 +3,9 @@ unique-page-id: 37356893
 description: MSI 기능 개요 - Marketo 문서 - 제품 설명서
 title: MSI 기능 개요
 exl-id: e6cd988c-afba-44e3-b240-68258236f344
-source-git-commit: 7a6108b3c68c5845fcf0169b111e058596e3d4a6
+source-git-commit: 5f2967fb56daa8c3f86f6d9577626928f1e5bbd6
 workflow-type: tm+mt
-source-wordcount: '926'
+source-wordcount: '0'
 ht-degree: 0%
 
 ---
@@ -195,4 +195,7 @@ Marketo Sales Insight 는 언어별로 저장됩니다. 따라서 두 개 이상
 
 >[!NOTE]
 >
->Watchlist에 추가하려면 연락처/리드가 기본 파티션에 있어야 합니다.
+>* Watchlist에 추가하려면 연락처/리드가 기본 파티션에 있어야 합니다.
+>
+>* MSI Salesforce 패키지는 종속 필드가 있는 사용자 정의 보기를 지원하지 않습니다.
+
