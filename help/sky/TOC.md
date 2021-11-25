@@ -2,8 +2,7 @@
 solution: Marketo, Marketo Engage, Marketo Sky
 user-guide-title: '[!DNL Sky] 제품 설명서'
 feature-set: Marketo Sky
-index: y
-source-git-commit: 09a443005369aafda4181bd6875b3c61067e504b
+source-git-commit: 80b7b10c6ecce02b5b3a532702076c19e7d2a61d
 workflow-type: tm+mt
 source-wordcount: '482'
 ht-degree: 0%
@@ -22,9 +21,9 @@ ht-degree: 0%
    + [이벤트 목표 설정](setting-event-goals.md)
 + 캠페인 폴더 {#campaign-folders}
    + [캠페인 폴더 보관/보관 해제](archive-unarchive-a-campaign-folder.md)
-   + [캠페인 폴더:활동 탭](campaign-folder-activities-tab.md)
-   + [캠페인 폴더:내 토큰 탭](campaign-folder-my-tokens-tab.md)
-   + [캠페인 폴더:개요 탭](campaign-folder-overview-tab.md)
+   + [캠페인 폴더: 활동 탭](campaign-folder-activities-tab.md)
+   + [캠페인 폴더: 내 토큰 탭](campaign-folder-my-tokens-tab.md)
+   + [캠페인 폴더: 개요 탭](campaign-folder-overview-tab.md)
    + [캠페인 폴더 만들기](create-a-campaign-folder.md)
 + Design Studio {#design-studio}
    + [Adobe Experience Manager으로 자산 가져오기](importing-assets-with-adobe-experience-manager.md)
@@ -56,17 +55,17 @@ ht-degree: 0%
    + [상위에서 하위로 레이블 복사](copy-labels-from-parent-to-child.md)
 + 내 토큰 {#my-tokens}
    + [내 토큰 폴더 만들기](create-my-token-folders.md)
-   + [내 토큰 작업:토큰 이름 편집, 삭제, 복제 및 복사](my-token-actions-edit-delete-clone-and-copy-token-names.md)
-   + [내 토큰:달력 파일](my-token-calendar-file.md)
-   + [내 토큰:CRM 캠페인](my-token-crm-campaign.md)
-   + [내 토큰:날짜](my-token-date.md)
-   + [내 토큰:이메일 스크립트](my-token-email-script.md)
-   + [내 토큰:이미지](my-token-image.md)
-   + [내 토큰:링크](my-token-link.md)
-   + [내 토큰:숫자](my-token-number.md)
-   + [내 토큰:리치 텍스트](my-token-rich-text.md)
-   + [내 토큰:점수](my-token-score.md)
-   + [내 토큰:텍스트](my-token-text.md)
+   + [내 토큰 작업: 토큰 이름 편집, 삭제, 복제 및 복사](my-token-actions-edit-delete-clone-and-copy-token-names.md)
+   + [내 토큰: 달력 파일](my-token-calendar-file.md)
+   + [내 토큰: CRM 캠페인](my-token-crm-campaign.md)
+   + [내 토큰: 날짜](my-token-date.md)
+   + [내 토큰: 이메일 스크립트](my-token-email-script.md)
+   + [내 토큰: 이미지](my-token-image.md)
+   + [내 토큰: 링크](my-token-link.md)
+   + [내 토큰: 숫자](my-token-number.md)
+   + [내 토큰: 리치 텍스트](my-token-rich-text.md)
+   + [내 토큰: 점수](my-token-score.md)
+   + [내 토큰: 텍스트](my-token-text.md)
    + [상속된 내 토큰 무시](override-an-inherited-my-token.md)
    + [내 토큰 이해](understanding-my-tokens.md)
 + Predictive Audiences {#predictive-audiences}
@@ -80,8 +79,8 @@ ht-degree: 0%
    + [새 프로그램 만들기](create-a-new-program.md)
    + [프로그램 삭제](delete-a-program.md)
    + [프로그램의 로컬 자산](local-assets-in-a-program.md)
-   + [로컬 자산:만료](local-assets-expiration.md)
-   + [로컬 자산:일괄 조치](local-assets-mass-actions.md)
+   + [로컬 자산: 만료](local-assets-expiration.md)
+   + [로컬 자산: 일괄 조치](local-assets-mass-actions.md)
    + [프로그램 개요 탭 사용](using-the-program-overview-tab.md)
    + [프로그램 설정 탭 사용](using-the-program-setup-tab.md)
 + 프로그램 예약 보기 {#program-schedule-view}
