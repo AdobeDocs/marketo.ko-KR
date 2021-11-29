@@ -3,9 +3,9 @@ unique-page-id: 2359449
 description: 세그먼트 규칙 정의 - Marketo 문서 - 제품 설명서
 title: 세그먼트 규칙 정의
 exl-id: e6631848-aa8c-4709-b182-4c88abbd365b
-source-git-commit: 4699b17a670655820946cd277adf28f2233f04d3
+source-git-commit: 55afdc537d0a5d0b6114f478c4dd2ded09c84e34
 workflow-type: tm+mt
-source-wordcount: '379'
+source-wordcount: '382'
 ht-degree: 0%
 
 ---
@@ -44,7 +44,7 @@ ht-degree: 0%
 
    >[!CAUTION]
    >
-   >우리는 충고한다 _반대_ 세그먼트 규칙을 정의할 때 계정 필드를 사용하면 활동 로깅 문제가 발생할 수 있으므로 됩니다.
+   >계정 필드에 대한 활동 로깅 동작은 자격에 영향을 줄 수 있습니다. 따라서 세그먼트 규칙을 정의할 때 계정 필드를 사용하지 않는 것이 좋습니다.
 
 1. 을(를) 클릭합니다. **사람(초안)** 탭하여 이 세그먼트의 구성원일 수 있는 사람을 볼 수 있습니다.
 

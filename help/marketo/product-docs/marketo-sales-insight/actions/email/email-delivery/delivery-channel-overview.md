@@ -3,9 +3,9 @@ description: 게재 채널 개요 - Marketo 문서 - 제품 설명서
 title: 게재 채널 개요
 hide: true
 hidefromtoc: true
-source-git-commit: 3b7cc0c855221f6fd0fba6dca08ccbe361ca9758
+source-git-commit: 55afdc537d0a5d0b6114f478c4dd2ded09c84e34
 workflow-type: tm+mt
-source-wordcount: '585'
+source-wordcount: '668'
 ht-degree: 0%
 
 ---
@@ -45,6 +45,12 @@ Marketo 판매에서는 영업 팀의 기본 제공 전달 채널로 사용할 �
 Marketo 영업 서버는 일부 기존 ToutApp 고객만 사용할 수 있습니다. 이러한 고객은 이메일 설정에서 사용할 수 있는 Marketo 판매 서버를 볼 수 있습니다. 기존 고객이 아닌 모든 고객은 Marketo Sales를 옵션으로 볼 수 없으며 Gmail 또는 Outlook 계정을 Marketo Sales에 연결하여 게재 채널을 잠금 해제해야 합니다.
 
 Marketo 영업 서버는 DKIM 및 SPF 인증 방법을 지원하지 않으므로, 게재 가능성을 낮출 수 있습니다. 이러한 이유로 모든 고객은 최상의 게재 능력을 위해 Gmail 또는 Outlook에 연결하는 것이 좋습니다.
+
+## MSC 서버(이전) {#msc-servers-legacy}
+
+MSC 서버는 일부 기존 ToutApp 고객에게만 제공됩니다. 이러한 고객은 전자 메일 설정에서 사용할 수 있는 MSC 서버를 볼 수 있습니다. 기존 고객이 아닌 모든 고객은 MSC를 옵션으로 볼 수 없으며 Gmail 또는 Outlook 계정을 Sales Connect에 연결하여 배달 채널의 잠금을 해제해야 합니다.
+
+MSC 서버는 DKIM 및 SPF 인증 방법을 지원하지 않으므로 게재 가능성을 낮출 수 있습니다. 이러한 이유로 모든 고객은 최상의 게재 능력을 위해 Gmail 또는 Outlook에 연결하는 것이 좋습니다.
 
 ## Marketo 서버 {#marketo-servers}
 
