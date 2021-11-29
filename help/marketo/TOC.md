@@ -3,7 +3,7 @@ audience: end-user
 user-guide-title: Marketo 안내서
 user-guide-description: Marketo 제품 설명서
 feature-set: Marketo Engage
-source-git-commit: 74b5928ab8e8b7cb39261fdedce51f6aad7c400f
+source-git-commit: 972ff493506538fa7b36e91a608a6000adb06f42
 workflow-type: tm+mt
 source-wordcount: '8097'
 ht-degree: 0%
@@ -1296,7 +1296,7 @@ ht-degree: 0%
                + [Salesforce와 가입 해지 동기화](product-docs/marketo-sales-insight/actions/email/unsubscribes/syncing-unsubscribes-with-salesforce.md)
          + 이메일 게재 {#email-delivery}
             + [게재 채널 개요](product-docs/marketo-sales-insight/actions/email-delivery/delivery-channel-overview.md)
-            + [전자 메일 연결 조절](product-docs/marketo-sales-insight/actions/email-delivery/delivery-channel-overview.md)
+            + [전자 메일 연결 조절](product-docs/marketo-sales-insight/actions/email-delivery/email-connection-throttling.md)
             + [사용자 지정 게재 채널 설정](product-docs/marketo-sales-insight/actions/email-delivery/setting-up-a-custom-delivery-channel.md)
          + 전자 메일 설정 {#email-settings}
             + [이메일 확인](product-docs/marketo-sales-insight/actions/email-settings/verify-your-email.md)
