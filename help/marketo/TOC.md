@@ -3,9 +3,9 @@ audience: end-user
 user-guide-title: Marketo 안내서
 user-guide-description: Marketo 제품 설명서
 feature-set: Marketo Engage
-source-git-commit: fdc494a8b3002e851bbe76dcd69c58e6d5a00ee6
+source-git-commit: 97e6f8d4fd2efc71d82666a3b458b1736fe7abde
 workflow-type: tm+mt
-source-wordcount: '8101'
+source-wordcount: '8099'
 ht-degree: 0%
 
 ---
@@ -1273,7 +1273,6 @@ ht-degree: 0%
          + 시작하기 {#getting-started}
             + 전자 메일 설정 {#email-settings}
                + [이메일 확인](product-docs/marketo-sales-insight/actions/getting-started/email-settings/verify-your-email.md)
-            + [차단된 도메인](product-docs/marketo-sales-insight/actions/admin/blocked-domains.md)
          + 관리 {#admin}
             + [차단된 도메인](product-docs/marketo-sales-insight/actions/admin/blocked-domains.md)
             + [컨텐츠 잠금](product-docs/marketo-sales-insight/actions/admin/content-lockdown.md)
