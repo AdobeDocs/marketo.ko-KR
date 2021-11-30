@@ -3,9 +3,9 @@ audience: end-user
 user-guide-title: Marketo 안내서
 user-guide-description: Marketo 제품 설명서
 feature-set: Marketo Engage
-source-git-commit: 972ff493506538fa7b36e91a608a6000adb06f42
+source-git-commit: fdc494a8b3002e851bbe76dcd69c58e6d5a00ee6
 workflow-type: tm+mt
-source-wordcount: '8097'
+source-wordcount: '8101'
 ht-degree: 0%
 
 ---
@@ -1270,6 +1270,10 @@ ht-degree: 0%
             + [동적 필드에서 자신을 참조합니다.](product-docs/marketo-sales-connect/templates/dynamic-fields/reference-yourself-in-a-dynamic-field.md)
    + Marketo Sales Insight {#marketo-sales-insight}
       + 작업 {#actions}
+         + 시작하기 {#getting-started}
+            + 전자 메일 설정 {#email-settings}
+               + [이메일 확인](product-docs/marketo-sales-insight/actions/getting-started/email-settings/verify-your-email.md)
+            + [차단된 도메인](product-docs/marketo-sales-insight/actions/admin/blocked-domains.md)
          + 관리 {#admin}
             + [차단된 도메인](product-docs/marketo-sales-insight/actions/admin/blocked-domains.md)
             + [컨텐츠 잠금](product-docs/marketo-sales-insight/actions/admin/content-lockdown.md)
@@ -1294,12 +1298,10 @@ ht-degree: 0%
                + [구독 취소 링크 메시지 사용자 지정](product-docs/marketo-sales-insight/actions/email/unsubscribes/customize-unsubscribe-link-message.md)
                + [Marketo 가입 해지 확인](product-docs/marketo-sales-insight/actions/email/unsubscribes/marketo-unsubscribe-check.md)
                + [Salesforce와 가입 해지 동기화](product-docs/marketo-sales-insight/actions/email/unsubscribes/syncing-unsubscribes-with-salesforce.md)
-         + 이메일 게재 {#email-delivery}
-            + [게재 채널 개요](product-docs/marketo-sales-insight/actions/email-delivery/delivery-channel-overview.md)
-            + [전자 메일 연결 조절](product-docs/marketo-sales-insight/actions/email-delivery/email-connection-throttling.md)
-            + [사용자 지정 게재 채널 설정](product-docs/marketo-sales-insight/actions/email-delivery/setting-up-a-custom-delivery-channel.md)
-         + 전자 메일 설정 {#email-settings}
-            + [이메일 확인](product-docs/marketo-sales-insight/actions/email-settings/verify-your-email.md)
+            + 이메일 게재 {#email-delivery}
+               + [게재 채널 개요](product-docs/marketo-sales-insight/actions/email/email-delivery/delivery-channel-overview.md)
+               + [전자 메일 연결 조절](product-docs/marketo-sales-insight/actions/email/email-delivery/email-connection-throttling.md)
+               + [사용자 지정 게재 채널 설정](product-docs/marketo-sales-insight/actions/email/email-delivery/setting-up-a-custom-delivery-channel.md)
          + Marketo {#marketo}
             + [사용자에게 Marketo 액세스 권한 부여](product-docs/marketo-sales-insight/actions/marketo/grant-marketo-access-to-users.md)
          + 영업 전자 메일 보내기 {#send-a-sales-email}
