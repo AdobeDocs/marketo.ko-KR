@@ -3,9 +3,9 @@ audience: end-user
 user-guide-title: Marketo 안내서
 user-guide-description: Marketo 제품 설명서
 feature-set: Marketo Engage
-source-git-commit: 97e6f8d4fd2efc71d82666a3b458b1736fe7abde
+source-git-commit: b7766e9a1a0799280050a0c2b2cfa6bee71e8de7
 workflow-type: tm+mt
-source-wordcount: '8099'
+source-wordcount: '8119'
 ht-degree: 0%
 
 ---
@@ -1273,6 +1273,9 @@ ht-degree: 0%
          + 시작하기 {#getting-started}
             + 전자 메일 설정 {#email-settings}
                + [이메일 확인](product-docs/marketo-sales-insight/actions/getting-started/email-settings/verify-your-email.md)
+               + [전자 메일 서명 추가 또는 업데이트](product-docs/marketo-sales-insight/actions/getting-started/email-settings/add-or-update-your-email-signature.md)
+               + [ID 추가](product-docs/marketo-sales-insight/actions/getting-started/email-settings/add-identity.md)
+            + [Marketo 영업 암호 변경](product-docs/marketo-sales-insight/actions/getting-started/change-your-marketo-sales-password.md)
          + 관리 {#admin}
             + [차단된 도메인](product-docs/marketo-sales-insight/actions/admin/blocked-domains.md)
             + [컨텐츠 잠금](product-docs/marketo-sales-insight/actions/admin/content-lockdown.md)
@@ -1281,6 +1284,8 @@ ht-degree: 0%
             + [사용자 및 관리자 초대](product-docs/marketo-sales-insight/actions/admin/invite-users-and-admins.md)
             + [공유 설정](product-docs/marketo-sales-insight/actions/admin/sharing-settings.md)
             + [사용자 액세스 세부 정보](product-docs/marketo-sales-insight/actions/admin/user-access-details.md)
+         + 캠페인 {#campaigns}
+            + [캠페인이 종료됨](product-docs/marketo-sales-insight/actions/campaigns/campaign-has-ended.md)
          + CRM {#crm}
             + Salesforce 통합 {#salesforce-integration}
                + [Salesforce에 Marketo 판매 계정 연결](product-docs/marketo-sales-insight/actions/crm/salesforce-integration/connect-your-marketo-sales-account-to-salesforce.md)
@@ -1300,7 +1305,7 @@ ht-degree: 0%
             + 이메일 게재 {#email-delivery}
                + [게재 채널 개요](product-docs/marketo-sales-insight/actions/email/email-delivery/delivery-channel-overview.md)
                + [전자 메일 연결 조절](product-docs/marketo-sales-insight/actions/email/email-delivery/email-connection-throttling.md)
-               + [사용자 지정 게재 채널 설정](product-docs/marketo-sales-insight/actions/email/email-delivery/setting-up-a-custom-delivery-channel.md)
+               + [팀을 위한 사용자 지정 게재 채널 설정](product-docs/marketo-sales-insight/actions/email/email-delivery/set-up-a-custom-delivery-channel-for-your-team.md)
          + Marketo {#marketo}
             + [사용자에게 Marketo 액세스 권한 부여](product-docs/marketo-sales-insight/actions/marketo/grant-marketo-access-to-users.md)
          + 영업 전자 메일 보내기 {#send-a-sales-email}
