@@ -3,7 +3,7 @@ description: CC/BCC를 사용하여 여러 수신자를 추적할 수 있습니�
 title: CC/BCC로 여러 수신자를 추적할 수 있습니까?
 hide: true
 hidefromtoc: true
-source-git-commit: b7766e9a1a0799280050a0c2b2cfa6bee71e8de7
+source-git-commit: ec78e047c9dc126553fe8a4b6a4c21b0d11aea5c
 workflow-type: tm+mt
 source-wordcount: '86'
 ht-degree: 0%
