@@ -1,72 +1,75 @@
 ---
 unique-page-id: 37356587
-description: 이메일 - 마케팅 문서 - 제품 문서에 첨부 파일 또는 추적 가능한 컨텐츠 추가
-title: 이메일에 첨부 파일 또는 추적 가능한 컨텐츠 추가
-translation-type: tm+mt
-source-git-commit: 1dd80b7de801df78ac7dde39002455063f9979b7
+description: 전자 메일에 첨부 파일 또는 추적 가능한 컨텐츠 추가 - Marketo 문서 - 제품 설명서
+title: Add an Attachment or Trackable Content to Your Email
+exl-id: 06a80676-00bd-46d3-a989-ae503f7e76a6
+source-git-commit: 765ce4de418a5565ae7528a49a6947c1e1bb1f3f
 workflow-type: tm+mt
-source-wordcount: '261'
+source-wordcount: '292'
 ht-degree: 0%
 
 ---
 
+# 이메일에 첨부 파일 또는 추적 가능한 컨텐츠 추가 {#add-an-attachment-or-trackable-content-to-your-email}
 
-# 이메일 {#add-an-attachment-or-trackable-content-to-your-email}에 첨부 파일 또는 추적 가능한 컨텐츠 추가
+Sales Connect를 통해 이메일을 보낼 때 파일을 첨부 파일로 추가하거나 파일을 다운로드 가능한(및 추적 가능) 링크로 만들 수 있습니다.
 
-Sales Connect를 통해 이메일을 전송하는 경우 파일을 첨부 파일로 추가하거나 다운로드 가능한(및 추적 가능) 링크로 만들 수 있습니다.
+>[!NOTE]
+>
+>Typically, any file over 20MB will be too large to be delivered. The size of an attachment you can send via email varies depending on the email delivery channel you’re using.
 
-## 첨부 파일 {#add-an-attachment} 추가
+## 첨부 파일 추가 {#add-an-attachment}
 
-1. 이메일 초안을 만듭니다(이 예에서는 헤더에서 **작성**&#x200B;을 선택합니다).
+1. Create your email draft (there are multiple ways to do this, in this example we&#39;re choosing **Compose** in the header).
 
    ![](assets/one-4.png)
 
-1. 받는 사람 필드를 채우고 제목을 입력합니다.
+1. 대상 필드를 채우고 제목을 입력합니다.
 
    ![](assets/attach-two.png)
 
-1. 첨부 아이콘을 클릭합니다.
+1. 첨부 파일 아이콘을 클릭합니다.
 
    ![](assets/attach-three.png)
 
-1. 첨부할 파일을 선택하고 **삽입**&#x200B;을 클릭합니다.
+1. 첨부할 파일을 선택하고 을 클릭합니다 **삽입**.
 
    ![](assets/attach-four.png)
 
    >[!NOTE]
    >
-   >파일을 업로드해야 하는 경우 창의 오른쪽 상단에 있는 **콘텐츠 업로드** 단추를 클릭합니다.
+   >파일을 업로드해야 하는 경우 **컨텐츠 업로드** 창 오른쪽 위에 있는 단추.
 
    ![](assets/attach-five.png)
 
-첨부 파일이 이메일 하단에 표시됩니다.
+첨부 파일이 이메일 하단에 나타납니다.
 
-## 추적 가능한 내용 추가 {#add-trackable-content}
+## 추적 가능한 콘텐츠 추가 {#add-trackable-content}
 
-1. 이메일 초안을 만듭니다(이 예에서는 작성 창을 선택하는 여러 가지 방법).
+1. 전자 메일 초안을 만듭니다(이 예제에서는 작성 창을 선택하는 방법에는 여러 가지가 있습니다.).
 
    ![](assets/one-4.png)
 
-1. 받는 사람 필드를 채우고 제목을 입력합니다.
+1. 대상 필드를 채우고 제목을 입력합니다.
 
    ![](assets/two-4.png)
 
-1. 추적 가능한 내용을 표시할 이메일의 지점을 클릭하고 첨부 아이콘을 클릭합니다.
+1. 추적 가능한 콘텐츠를 표시할 이메일의 스팟(spot)을 클릭하고 첨부 파일 아이콘을 클릭합니다.
 
    ![](assets/three-4.png)
 
-1. 추가할 내용을 선택하고 **컨텐츠가 추적됨** 슬라이더를 클릭한 다음 **삽입**&#x200B;을 클릭합니다.
+1. 추가할 콘텐츠를 선택하고 **컨텐츠가 추적됨** 슬라이더를 클릭하고 **삽입**.
 
    ![](assets/four-4.png)
 
    >[!NOTE]
    >
-   >파일을 업로드해야 하는 경우 창의 오른쪽 상단에 있는 **콘텐츠 업로드** 단추를 클릭합니다.
+   >파일을 업로드해야 하는 경우 **컨텐츠 업로드** 창 오른쪽 위에 있는 단추.
 
-   컨텐츠가 이메일에 링크로 나타납니다. 수신자는 링크를 클릭하여 컨텐츠를 다운로드할 수 있습니다.
+   컨텐츠가 이메일에 링크로 나타납니다. The recipient can click the link to download the content.
 
    ![](assets/five-2.png)
 
    >[!NOTE]
    >
-   >사람들이 추적한 컨텐츠를 볼 때 사용자는 라이브 피드에서 알림을 받게 됩니다. 사용자는 분석 페이지의 컨텐츠 섹션에서 가장 성과가 높은 컨텐츠를 볼 수도 있습니다.
+   >사람들이 추적된 콘텐츠를 보고 있으면 사용자에게 라이브 피드에 알림을 보냅니다. 또한 Analytics 페이지의 컨텐츠 섹션에서 가장 성과가 좋은 콘텐츠를 볼 수 있습니다.

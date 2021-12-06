@@ -3,9 +3,9 @@ audience: end-user
 user-guide-title: Marketo 안내서
 user-guide-description: Marketo 제품 설명서
 feature-set: Marketo Engage
-source-git-commit: b7766e9a1a0799280050a0c2b2cfa6bee71e8de7
+source-git-commit: 765ce4de418a5565ae7528a49a6947c1e1bb1f3f
 workflow-type: tm+mt
-source-wordcount: '8119'
+source-wordcount: '8147'
 ht-degree: 0%
 
 ---
@@ -1177,7 +1177,6 @@ ht-degree: 0%
             + [캠페인이 종료됨](product-docs/marketo-sales-connect/email/send-a-sales-email/campaign-has-ended.md)
             + [이메일의 CC 또는 BCC](product-docs/marketo-sales-connect/email/send-a-sales-email/cc-or-bcc-in-emails.md)
             + [스팸으로 표시된 이메일](product-docs/marketo-sales-connect/email/send-a-sales-email/email-marked-as-spam.md)
-            + [이메일에서 첨부 파일 보내기](product-docs/marketo-sales-connect/email/send-a-sales-email/sending-file-attachments-in-your-email.md)
          + 라이브 피드 {#the-live-feed}
             + [잘못된 수신자 위치](product-docs/marketo-sales-connect/email/the-live-feed/incorrect-recipient-location.md)
             + [라이브 피드 개요](product-docs/marketo-sales-connect/email/the-live-feed/live-feed-overview.md)
@@ -1297,15 +1296,21 @@ ht-degree: 0%
                + [Command Center 개요](product-docs/marketo-sales-insight/actions/email/command-center/command-center-overview.md)
                + [이메일 열 및 이메일 페이지 레이아웃](product-docs/marketo-sales-insight/actions/email/command-center/email-columns-and-email-page-layout.md)
                + [명령 센터의 빠른 작업](product-docs/marketo-sales-insight/actions/email/command-center/quick-actions-in-the-command-center.md)
+            + 이메일 게재 {#email-delivery}
+               + [게재 채널 개요](product-docs/marketo-sales-insight/actions/email/email-delivery/delivery-channel-overview.md)
+               + [전자 메일 연결 조절](product-docs/marketo-sales-insight/actions/email/email-delivery/email-connection-throttling.md)
+               + [팀을 위한 사용자 지정 게재 채널 설정](product-docs/marketo-sales-insight/actions/email/email-delivery/set-up-a-custom-delivery-channel-for-your-team.md)
             + 가입 해지됨 {#unsubscribes}
                + [구독 취소 개요](product-docs/marketo-sales-insight/actions/email/unsubscribes/unsubscribe-overview.md)
                + [구독 취소 링크 메시지 사용자 지정](product-docs/marketo-sales-insight/actions/email/unsubscribes/customize-unsubscribe-link-message.md)
                + [Marketo 가입 해지 확인](product-docs/marketo-sales-insight/actions/email/unsubscribes/marketo-unsubscribe-check.md)
                + [Salesforce와 가입 해지 동기화](product-docs/marketo-sales-insight/actions/email/unsubscribes/syncing-unsubscribes-with-salesforce.md)
-            + 이메일 게재 {#email-delivery}
-               + [게재 채널 개요](product-docs/marketo-sales-insight/actions/email/email-delivery/delivery-channel-overview.md)
-               + [전자 메일 연결 조절](product-docs/marketo-sales-insight/actions/email/email-delivery/email-connection-throttling.md)
-               + [팀을 위한 사용자 지정 게재 채널 설정](product-docs/marketo-sales-insight/actions/email/email-delivery/set-up-a-custom-delivery-channel-for-your-team.md)
+            + 작성 창 사용 {#using-the-compose-window}
+               + [이메일에 첨부 파일 또는 추적 가능한 컨텐츠 추가](product-docs/marketo-sales-insight/actions/email/using-the-compose-window/add-an-attachment-or-trackable-content-to-your-email.md)
+               + [이메일에 강조 표시된 컨텐츠 추가](product-docs/marketo-sales-insight/actions/email/using-the-compose-window/adding-highspot-content-to-your-email.md)
+               + [대량 전자 메일 옵션](product-docs/marketo-sales-insight/actions/email/using-the-compose-window/bulk-emailing-options.md)
+               + [선택 및 보내기로 대량 이메일 작성](product-docs/marketo-sales-insight/actions/email/using-the-compose-window/composing-bulk-emails-with-select-and-send.md)
+               + [그룹 이메일을 통해 이메일 보내기](product-docs/marketo-sales-insight/actions/email/using-the-compose-window/sending-emails-via-group-email.md)
          + Marketo {#marketo}
             + [사용자에게 Marketo 액세스 권한 부여](product-docs/marketo-sales-insight/actions/marketo/grant-marketo-access-to-users.md)
          + 영업 전자 메일 보내기 {#send-a-sales-email}
