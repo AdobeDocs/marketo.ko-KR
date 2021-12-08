@@ -3,9 +3,9 @@ audience: end-user
 user-guide-title: Marketo 안내서
 user-guide-description: Marketo 제품 설명서
 feature-set: Marketo Engage
-source-git-commit: 765ce4de418a5565ae7528a49a6947c1e1bb1f3f
+source-git-commit: 1dd4a4f6bfac0b101f85f3776396aeef1a1f7182
 workflow-type: tm+mt
-source-wordcount: '8147'
+source-wordcount: '8159'
 ht-degree: 0%
 
 ---
@@ -1233,10 +1233,13 @@ ht-degree: 0%
             + [사용자 페이지 열](product-docs/marketo-sales-connect/people/managing-contacts/people-page-columns.md)
       + 전화 {#phone}
          + [호출이 Salesforce에 로그인하지 않음](product-docs/marketo-sales-connect/phone/calls-arent-logging-to-salesforce.md)
+         + [통화 결과](product-docs/marketo-sales-connect/phone/call-outcomes.md)
+         + [통화 이유](product-docs/marketo-sales-connect/phone/call-reasons.md)
          + [활동 기록에 로그인하지 않음](product-docs/marketo-sales-connect/phone/didnt-log-to-activity-history.md)
          + [Salesforce에 로그인하지 않음](product-docs/marketo-sales-connect/phone/didnt-log-to-salesforce.md)
          + [통화 기록 활성화](product-docs/marketo-sales-connect/phone/enable-call-recording.md)
          + [Sales Phone에서 통화 결과를 사용자 지정하는 방법](product-docs/marketo-sales-connect/phone/how-to-customize-the-call-outcome-in-sales-phone.md)
+         + [Salesforce에 통화 이유 및 호출 결과 기록](product-docs/marketo-sales-connect/phone/log-call-reasons-and-call-outcomes-to-salesforce.md)
          + [영업 전화 국제 전화](product-docs/marketo-sales-connect/phone/sales-phone-international-calling.md)
          + [영업 전화 로컬 상태](product-docs/marketo-sales-connect/phone/sales-phone-local-presence.md)
          + [영업 전화 개요](product-docs/marketo-sales-connect/phone/sales-phone-overview.md)
