@@ -3,7 +3,8 @@ description: 제품 관리자 설정 - Marketo 문서 - 제품 설명서
 title: 제품 관리자 설정
 hide: true
 hidefromtoc: true
-source-git-commit: 1161d193261af10aaa7658e747ff6500ad4179d0
+exl-id: ed628075-69b8-44b5-b60d-b121cd5a3dbe
+source-git-commit: fda1bf51d4016a61c41be9acba4771db1797a552
 workflow-type: tm+mt
 source-wordcount: '80'
 ht-degree: 0%

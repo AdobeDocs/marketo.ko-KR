@@ -3,9 +3,10 @@ description: 호출 결과 - Marketo 문서 - 제품 설명서
 title: 통화 결과
 hide: true
 hidefromtoc: true
-source-git-commit: 1dd4a4f6bfac0b101f85f3776396aeef1a1f7182
+exl-id: 55ac4d04-8853-46e7-9027-26f0c4897a2a
+source-git-commit: 0fc2551ffc85260a282b64995c698098846eb10c
 workflow-type: tm+mt
-source-wordcount: '185'
+source-wordcount: '176'
 ht-degree: 0%
 
 ---
@@ -22,41 +23,41 @@ ht-degree: 0%
 
 1. 톱니바퀴 아이콘을 클릭하고 을 선택합니다 **설정**.
 
-PICC
+   ![](assets/call-outcomes-1.png)
 
 1. 관리자 설정에서 을 선택합니다. **전화 걸기**.
 
-PICC
+   ![](assets/call-outcomes-2.png)
 
 1. 선택 **호출 결과 활성화**.
 
-PICC
+   ![](assets/call-outcomes-3.png)
 
 1. 원하는 호출 결과 요구 사항을 선택합니다.
 
-PICC
+   ![](assets/call-outcomes-4.png)
 
 ## 호출 결과 만들기 {#create-call-outcomes}
 
 1. 톱니바퀴 아이콘을 클릭하고 을 선택합니다 **설정**.
 
-PICC
+   ![](assets/call-outcomes-5.png)
 
 1. 관리자 설정에서 을 선택합니다. **전화 걸기**.
 
-PICC
+   ![](assets/call-outcomes-6.png)
 
 1. 클릭 **통화 결과 관리**.
 
-PICC
+   ![](assets/call-outcomes-7.png)
 
 1. 원하는 호출 결과 이름을 텍스트 필드에 입력합니다.
 
-PICC
+   ![](assets/call-outcomes-8.png)
 
 1. 응답됨 드롭다운을 클릭하고 결과 유형을 선택합니다(이 예에서는 응답됨 선택). 그런 다음 **추가**.
 
-PICC
+   ![](assets/call-outcomes-9.png)
 
 ## 통화 결과 선택 {#choose-a-call-outcome}
 
@@ -90,3 +91,4 @@ PICC
 >
 >* [Salesforce에 통화 이유 및 호출 결과 기록](/help/marketo/product-docs/marketo-sales-connect/phone/log-call-reasons-and-call-outcomes-to-salesforce.md)
 >* [통화 이유](/help/marketo/product-docs/marketo-sales-connect/phone/call-reasons.md)
+

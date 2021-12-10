@@ -3,7 +3,8 @@ description: Salesforce에 Marketo 영업 계정 연결 - Marketo 문서 - 제�
 title: Salesforce에 Marketo 판매 계정 연결
 hide: true
 hidefromtoc: true
-source-git-commit: d3e8e85bd8b428b2490a44e44fdab9d58784843d
+exl-id: 5d84d0f0-7867-45a8-b966-5088dca1bfca
+source-git-commit: fda1bf51d4016a61c41be9acba4771db1797a552
 workflow-type: tm+mt
 source-wordcount: '132'
 ht-degree: 0%

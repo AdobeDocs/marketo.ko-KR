@@ -3,7 +3,8 @@ description: 구성 - Marketo 문서 - 제품 설명서
 title: 구성
 hide: true
 hidefromtoc: true
-source-git-commit: 1434d2a1cbf5575cea60ccc0c655313003b1452c
+exl-id: aff17715-b178-4468-b06f-22b3fe3c18ce
+source-git-commit: fda1bf51d4016a61c41be9acba4771db1797a552
 workflow-type: tm+mt
 source-wordcount: '264'
 ht-degree: 0%
@@ -14,7 +15,7 @@ ht-degree: 0%
 
 차트 보트 대화 상자 창의 모양과 느낌을 사용자 지정하는 방법을 알아봅니다.
 
-시작하려면 **구성**&#x200B;을 클릭하십시오.
+시작하려면 **구성**.
 
 ![](assets/configuration-1.png)
 
@@ -28,7 +29,7 @@ ht-degree: 0%
 
 여기에서는 다음과 같이 대화 상자가 표시되는 채트봇의 모양과 느낌을 정의할 수 있습니다. 보트 위젯의 색상, 글꼴, 배치 및 차트 보트의 이름/아바타입니다.
 
-각 카테고리의 색상은 [16진수 색상 값](https://color.adobe.com/create/color-wheel)(예: white = #ffffff, red = #bf1932 등)에 의해 결정됩니다.
+각 카테고리의 색상은 [16진수 색상 값](https://color.adobe.com/create/color-wheel) (예: white = #ffffff, red = #bf1932 등).
 
 ![](assets/configuration-3.png)
 
@@ -42,13 +43,13 @@ ht-degree: 0%
 
 ![](assets/configuration-5.png)
 
-변경을 완료했으면 **저장**&#x200B;을 클릭해야 합니다.
+변경을 완료하면 **저장**.
 
 ![](assets/configuration-6.png)
 
 ## 개인 정보 탭 {#privacy-tab}
 
-**개인 정보 보호** 탭을 클릭하여 사이트 개인 정보 보호 정책의 URL을 추가/편집합니다(선택 사항).
+을(를) 클릭합니다. **개인 정보 보호** 탭을 클릭하여 사이트 개인 정보 정책의 URL을 추가/편집합니다(선택 사항).
 
 ![](assets/configuration-7.png)
 

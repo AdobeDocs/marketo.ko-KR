@@ -3,7 +3,8 @@ description: 이메일에 강조 표시된 컨텐츠 추가 - Marketo 문서 - �
 title: 이메일에 강조 표시된 컨텐츠 추가
 hide: true
 hidefromtoc: true
-source-git-commit: 765ce4de418a5565ae7528a49a6947c1e1bb1f3f
+exl-id: d80ce572-3ebf-4daa-b6f1-f4e9bd795ff2
+source-git-commit: fda1bf51d4016a61c41be9acba4771db1797a552
 workflow-type: tm+mt
 source-wordcount: '145'
 ht-degree: 0%

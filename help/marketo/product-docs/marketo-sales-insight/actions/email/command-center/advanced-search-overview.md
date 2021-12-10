@@ -3,7 +3,8 @@ description: 고급 검색 개요 - Marketo 문서 - 제품 설명서
 title: 고급 검색 개요
 hide: true
 hidefromtoc: true
-source-git-commit: 1ec63edfb86f32a0d24f32330d76489b5f90e1cb
+exl-id: a7cf5078-1d24-4fc0-a82d-02f46f93893d
+source-git-commit: fda1bf51d4016a61c41be9acba4771db1797a552
 workflow-type: tm+mt
 source-wordcount: '418'
 ht-degree: 0%
@@ -49,11 +50,11 @@ Who 섹션에서 이메일 수신자/발신자별로 필터링합니다.
 <table>
  <tr>
   <td><strong>드롭다운</strong></td>
-  <td><strong>Description</strong></td>
+  <td><strong>설명</strong></td>
  </tr>
  <tr>
   <td><strong>다음으로 보기</strong></td>
-  <td>Filter by a specific sender in your Sales Connect instance (this option is available to Admins only).</td>
+  <td>Sales Connect 인스턴스에서 특정 발신자에 의해 필터링합니다(이 옵션은 관리자만 사용 가능).</td>
  </tr>
  <tr>
   <td><strong>그룹별</strong></td>
@@ -87,13 +88,13 @@ _**상태: 전송**_
 
 ![](assets/advanced-search-overview-10.png)
 
-보낸 이메일 활동별로 필터링합니다. You can choose views/no views, clicks/no clicks, and/or replies/no replies.
+보낸 이메일 활동별로 필터링합니다. 보기/보기 안 함, 클릭/클릭 안 함 및/또는 답글/응답 안 함을 선택할 수 있습니다.
 
-_**Status: Pending**_
+_**상태: 보류 중**_
 
 ![](assets/advanced-search-overview-11.png)
 
-Filters by all pending emails.
+보류 중인 모든 전자 메일의 필터입니다.
 
 <table>
  <tr>
@@ -101,8 +102,8 @@ Filters by all pending emails.
   <td><strong>설명</strong></td>
  </tr>
  <tr>
-  <td><strong>Scheduled</strong></td>
-  <td>Emails that have been scheduled from the compose window (Salesforce or the Web App), email plug-ins, or a campaign.</td>
+  <td><strong>예약됨</strong></td>
+  <td>작성 창(Salesforce 또는 웹 앱), 이메일 플러그인 또는 캠페인에서 예약된 이메일.</td>
  </tr>
  <tr>
   <td><strong>초안</strong></td>
@@ -110,7 +111,7 @@ Filters by all pending emails.
  </tr>
  <tr>
   <td><strong>진행 중</strong></td>
-  <td>전송 중인 이메일. Emails should not remain in this state for more than a few seconds.</td>
+  <td>전송 중인 이메일. 이메일은 몇 초 이상 이 상태로 유지되지 않아야 합니다.</td>
  </tr>
 </table>
 
@@ -118,7 +119,7 @@ _**상태: 배달되지 않음**_
 
 ![](assets/advanced-search-overview-12.png)
 
-Filters by emails that were never delivered.
+배달되지 않은 이메일의 필터입니다.
 
 <table>
  <tr>
@@ -131,11 +132,11 @@ Filters by emails that were never delivered.
  </tr>
  <tr>
   <td><strong>바운스됨</strong></td>
-  <td>전자 메일은 수신자 서버가 거부하면 바운스된 것으로 표시됩니다. Only emails that were sent via Sales Connect servers will be shown here.</td>
+  <td>전자 메일은 수신자 서버가 거부하면 바운스된 것으로 표시됩니다. Sales Connect 서버를 통해 전송된 이메일만 여기에 표시됩니다.</td>
  </tr>
  <tr>
   <td><strong>스팸</strong></td>
-  <td>수신자가 이메일을 스팸(요청하지 않은 이메일의 공통 용어)으로 표시했을 때. Only emails that were sent via Sales Connect servers will be shown here.</td>
+  <td>수신자가 이메일을 스팸(요청하지 않은 이메일의 공통 용어)으로 표시했을 때. Sales Connect 서버를 통해 전송된 이메일만 여기에 표시됩니다.</td>
  </tr>
 </table>
 

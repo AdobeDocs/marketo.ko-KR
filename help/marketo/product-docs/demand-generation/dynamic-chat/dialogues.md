@@ -3,9 +3,10 @@ description: 대화 상자 - Marketo 문서 - 제품 설명서
 title: 대화 상자
 hide: true
 hidefromtoc: true
-source-git-commit: de2c73003aa1d817fbaf1d6ed5e180e68fc64b72
+exl-id: 5ec17ad0-6d56-4c06-a6ac-4c5771b2d91d
+source-git-commit: fda1bf51d4016a61c41be9acba4771db1797a552
 workflow-type: tm+mt
-source-wordcount: '0'
+source-wordcount: '745'
 ht-degree: 0%
 
 ---
@@ -16,15 +17,15 @@ ht-degree: 0%
 
 ## 새 대화 상자 만들기 {#create-a-new-dialogue}
 
-1. **대화 상자**&#x200B;를 클릭합니다.
+1. 클릭 **대화 상자**.
 
    ![](assets/dialogues-1.png)
 
-1. **새로 만들기** 단추를 클릭합니다.
+1. 을(를) 클릭합니다. **새로 만들기** 버튼을 클릭합니다.
 
    ![](assets/dialogues-2.png)
 
-1. 이름을 입력하고(설명은 선택 사항) 우선 순위 수준을 설정한 다음 **저장**&#x200B;을 클릭합니다.
+1. 이름을 입력하고(설명 선택 사항) 우선 순위 수준을 설정한 다음 **저장**.
 
    ![](assets/dialogues-3.png)
 
@@ -38,25 +39,25 @@ Marketo 스마트 목록과 유사한 대상 기준 속성을 사용하여 타�
 
 **알려진 사람**
 
-선택할 _많은_ 속성 조합이 있습니다. 이 예에서는 50명 이상의 직원이 있는 회사에서 일하는 모든 **알려진 사람**&#x200B;을 타겟팅합니다.
+있습니다 _많은_ 선택할 속성 조합입니다. 이 예에서는 모두 타겟팅합니다 **알려진 사람** 50명 이상의 직원을 가진 회사에서 일하는 캘리포니아에서.
 
-1. **개인 상태** 속성을 선택하고 오른쪽으로 드래그합니다.
+1. 을 선택합니다. **개인 주** 속성을 지정하고 오른쪽으로 드래그합니다.
 
    ![](assets/dialogues-4.png)
 
-1. __ Isis는 기본적으로 설정됩니다. 값 선택 필드에 CA를 입력합니다. 드롭다운을 클릭하고 목록에서 선택할 수도 있습니다.
+1. _다음_ 은 기본적으로 설정되어 있습니다. 값 선택 필드에 CA를 입력합니다. 드롭다운을 클릭하고 목록에서 선택할 수도 있습니다.
 
    ![](assets/dialogues-5.png)
 
-1. **회사 크기** 속성을 선택하고 _특성을 여기에 끌어다 놓습니다_.
+1. 을 선택합니다. **회사 크기** 속성을 지정한 위치로 드래그합니다. _특성을 여기에 끌어다 놓습니다._.
 
    ![](assets/dialogues-6.png)
 
    >[!NOTE]
    >
-   >**+** 아이콘을 클릭하여 속성을 선택할 수도 있습니다.
+   >속성을 클릭하여 선택할 수도 있습니다 **+** 아이콘.
 
-1. 연산자 드롭다운을 클릭하고 **보다 큼**&#x200B;을 선택합니다.
+1. 연산자 드롭다운을 클릭하고 을(를) 선택합니다 **보다 큼**.
 
    ![](assets/dialogues-7.png)
 
@@ -68,25 +69,25 @@ Marketo 스마트 목록과 유사한 대상 기준 속성을 사용하여 타�
 
 **익명 사용자**
 
-아직 데이터베이스에 없는 사용자를 대상으로 하는 쉬운 방법이 있습니다. 이 예에서는 New York 영역에 있는 모든 **익명 사용자**&#x200B;를 타겟팅합니다.
+아직 데이터베이스에 없는 사용자를 대상으로 하는 쉬운 방법이 있습니다. 이 예에서는 모두 타겟팅합니다 **익명의 사람들** 뉴욕 지역에 위치하고 있습니다.
 
-1. **개인 전자 메일** 속성을 선택하고 오른쪽으로 드래그합니다.
+1. 을 선택합니다. **개인 이메일** 속성을 지정하고 오른쪽으로 드래그합니다.
 
    ![](assets/dialogues-9.png)
 
-1. 연산자 드롭다운을 클릭하고 **비어 있음**&#x200B;을 선택합니다.
+1. 연산자 드롭다운을 클릭하고 을(를) 선택합니다 **비어 있음**.
 
    ![](assets/dialogues-10.png)
 
-1. **유추 상태** 속성을 선택하고 _특성을 여기에 끌어다 놓습니다_.
+1. 을 선택합니다. **유추 상태** 속성을 지정한 위치로 드래그합니다. _특성을 여기에 끌어다 놓습니다._.
 
    ![](assets/dialogues-11.png)
 
    >[!NOTE]
    >
-   >누군가 웹 사이트를 방문하면 [Munchkin](/help/marketo/product-docs/administration/additional-integrations/add-munchkin-tracking-code-to-your-website.md)이 쿠키를 쿠키로 사용하여 시스템에 넣습니다. 특수 데이터베이스에서 IP를 조회하고 모든 종류의 좋은 정보를 추론합니다.
+   >누군가 여러분의 웹 사이트를 방문하면, [Munchkin](/help/marketo/product-docs/administration/additional-integrations/add-munchkin-tracking-code-to-your-website.md) 쿠키로 구워서 시스템에 넣습니다. 특수 데이터베이스에서 IP를 조회하고 모든 종류의 좋은 정보를 추론합니다.
 
-1. __ Isis는 기본적으로 설정됩니다. 값 선택 필드에 NY를 입력합니다(드롭다운을 클릭하고 목록에서 선택할 수도 있음).
+1. _다음_ 은 기본적으로 설정되어 있습니다. 값 선택 필드에 NY를 입력합니다(드롭다운을 클릭하고 목록에서 선택할 수도 있음).
 
    ![](assets/dialogues-12.png)
 
@@ -111,7 +112,7 @@ Marketo 스마트 목록과 유사한 대상 기준 속성을 사용하여 타�
 
 >[!NOTE]
 >
->별표를 사용하는 것은 다목적 엽서 역할을 합니다. 따라서 `https://*.website.com` 은 하위 도메인을 포함하여 사이트의 모든 페이지에 대화 상자를 둡니다(예: `support.website.com`) 그리고 `https://website.com/folder/*` 은 후속 폴더의 모든 HTML 페이지에 대화 상자를 둡니다(예: 이 경우 폴더가 &quot;sports&quot;라고 가정해 보겠습니다. website.com/sports/baseball.html, website.com/sports/football.html 등)
+>별표를 사용하는 것은 다목적 엽서 역할을 합니다. 그래서 `https://*.website.com` 은 하위 도메인을 포함하여 사이트의 모든 페이지에 대화 상자를 둡니다(예: `support.website.com`). 및 `https://website.com/folder/*` 대화 상자가 후속 폴더의 모든 HTML 페이지에 표시됩니다(예: 이 경우 폴더가 &quot;sports&quot;라고 가정해 보겠습니다. website.com/sports/baseball.html, website.com/sports/football.html 등)
 
 ## 스트림 디자이너 {#stream-designer}
 
@@ -133,7 +134,7 @@ Marketo 스마트 목록과 유사한 대상 기준 속성을 사용하여 타�
  </tr>
  <tr>
   <td><strong>약속 스케줄러</strong></td>
-  <td>방문자에게 후속 작업을 예약하기 위해 사용 가능한 날짜 달력을 제공합니다. 일정 가용성은 <a href="/help/marketo/product-docs/demand-generation/dynamic-chat/dynamic-chat-overview.md#routing">다음 에이전트를 줄</a>에 반영합니다.</td>
+  <td>방문자에게 후속 작업을 예약하기 위해 사용 가능한 날짜 달력을 제공합니다. 달력 사용 가능 여부는 <a href="/help/marketo/product-docs/demand-generation/dynamic-chat/dynamic-chat-overview.md#routing">다음 에이전트가 연결됨</a>.</td>
  </tr>
  <tr>
   <td><strong>목표</strong></td>
@@ -143,7 +144,7 @@ Marketo 스마트 목록과 유사한 대상 기준 속성을 사용하여 타�
 
 **스트림 만들기**
 
-가능한 스트림 조합이 _많습니다._ 이 문서](/help/marketo/product-docs/demand-generation/dynamic-chat/create-a-stream.md)에서 [의 예를 살펴보겠습니다.
+있습니다 _많은_ 가능한 스트림 조합입니다. 한 예를 살펴보겠습니다 [이 문서](/help/marketo/product-docs/demand-generation/dynamic-chat/create-a-stream.md).
 
 ## 보고서 {#reports}
 

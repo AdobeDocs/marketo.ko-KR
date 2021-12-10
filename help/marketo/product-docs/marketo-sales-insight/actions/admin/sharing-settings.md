@@ -3,7 +3,8 @@ description: 공유 설정 - Marketo 문서 - 제품 설명서
 title: 공유 설정
 hide: true
 hidefromtoc: true
-source-git-commit: 1ec63edfb86f32a0d24f32330d76489b5f90e1cb
+exl-id: 151d64da-7a36-4da2-8041-ebcdcd016a50
+source-git-commit: fda1bf51d4016a61c41be9acba4771db1797a552
 workflow-type: tm+mt
 source-wordcount: '233'
 ht-degree: 0%
@@ -32,7 +33,7 @@ Sales Connect 계정이 처음 만들어지면 공유 설정이 활성화됩니�
 
    ![](assets/sharing-settings-3.png)
 
-1. Select the template category you want to configure.
+1. 구성할 템플릿 카테고리를 선택합니다.
 
    ![](assets/sharing-settings-4.png)
 
@@ -40,18 +41,18 @@ Sales Connect 계정이 처음 만들어지면 공유 설정이 활성화됩니�
 
    ![](assets/sharing-settings-5.png)
 
-1. Select the teams you want to add.
+1. 추가할 팀을 선택합니다.
 
    ![](assets/sharing-settings-6.png)
 
    >[!NOTE]
    >
-   >If you don’t see any teams, you’ll need to go to Team Management and create a team of users.
+   >팀이 없으면 팀 관리로 이동하여 사용자 팀을 만들어야 합니다.
 
 1. 클릭 **액세스할 팀 추가** 저장
 
    ![](assets/sharing-settings-7.png)
 
-1. Now that your team has been added you can select to allow only team admins to share or all users on that team. 이 예제에서는 SDR 팀의 모든 사용자에게 공유 액세스 권한을 제공합니다.
+1. 이제 팀이 추가되었으므로 팀 관리자만 해당 팀의 모든 사용자를 공유하도록 할 수 있습니다. 이 예제에서는 SDR 팀의 모든 사용자에게 공유 액세스 권한을 제공합니다.
 
    ![](assets/sharing-settings-8.png)

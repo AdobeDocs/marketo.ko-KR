@@ -3,7 +3,8 @@ description: 팀용 사용자 지정 게재 채널 설정 - Marketo 문서 - 제
 title: 팀을 위한 사용자 지정 게재 채널 설정
 hide: true
 hidefromtoc: true
-source-git-commit: b7766e9a1a0799280050a0c2b2cfa6bee71e8de7
+exl-id: e7ba524c-a0d2-4c2b-95ba-20b9d830f18c
+source-git-commit: fda1bf51d4016a61c41be9acba4771db1797a552
 workflow-type: tm+mt
 source-wordcount: '169'
 ht-degree: 0%
