@@ -4,9 +4,9 @@ title: 통화 결과
 hide: true
 hidefromtoc: true
 exl-id: 55ac4d04-8853-46e7-9027-26f0c4897a2a
-source-git-commit: 0fc2551ffc85260a282b64995c698098846eb10c
+source-git-commit: 357da216508db6196042d07000cbc1b04fa41071
 workflow-type: tm+mt
-source-wordcount: '176'
+source-wordcount: '171'
 ht-degree: 0%
 
 ---
@@ -65,27 +65,23 @@ ht-degree: 0%
 
 1. 호출 단추를 클릭하여 대화 상자를 시작합니다.
 
-PICC
+   ![](assets/call-outcomes-10.png)
 
-1. 대화 상자에 통화 정보를 입력합니다.
+1. 대화 상자에 통화 정보를 입력하고 를 클릭합니다 **호출**.
 
-PICC
-
-1. 호출을 클릭합니다.
-
-PICC
+   ![](assets/call-outcomes-11.png)
 
 1. 호출을 가장 잘 설명하는 호출 결과를 선택합니다.
 
-PICC
+   ![](assets/call-outcomes-12.png)
 
 1. 호출을 종료합니다.
 
-PICC
+   ![](assets/call-outcomes-13.png)
 
 1. 호출을 기록합니다.
 
-PICC
+   ![](assets/call-outcomes-14.png)
 
 >[!MORELIKETHIS]
 >
