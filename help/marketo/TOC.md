@@ -3,9 +3,9 @@ audience: end-user
 user-guide-title: Marketo 안내서
 user-guide-description: Marketo 제품 설명서
 feature-set: Marketo Engage
-source-git-commit: 1dd4a4f6bfac0b101f85f3776396aeef1a1f7182
+source-git-commit: 56db82ef98d774f8ac56c1401ef7ef275862d1dc
 workflow-type: tm+mt
-source-wordcount: '8159'
+source-wordcount: '8174'
 ht-degree: 0%
 
 ---
@@ -1124,6 +1124,7 @@ ht-degree: 0%
             + [Salesforce Classic에서 벌크 작업 사용](product-docs/marketo-sales-connect/crm/salesforce-customization/using-bulk-actions-in-salesforce-classic.md)
             + [Salesforce Lightning에서 벌크 작업 사용](product-docs/marketo-sales-connect/crm/salesforce-customization/using-bulk-actions-in-salesforce-lightning.md)
          + Salesforce 통합 {#salesforce-integration}
+            + [Salesforce 활동 세부 사항 사용자 지정 구성](product-docs/marketo-sales-connect/crm/salesforce-integration/configure-salesforce-activity-detail-customization.md)
             + [Salesforce에 영업 연결 계정 연결](product-docs/marketo-sales-connect/crm/salesforce-integration/connect-your-sales-connect-account-to-salesforce.md)
             + [Sales Connect 계정에서 Salesforce 연결 끊기](product-docs/marketo-sales-connect/crm/salesforce-integration/disconnect-salesforce-from-your-sales-connect-account.md)
             + [Salesforce에 연결할 때 &quot;요청을 인증할 수 없습니다&quot;를 수정하는 방법](product-docs/marketo-sales-connect/crm/salesforce-integration/how-to-fix-we-were-unable-to-authenticate-your-request-when-connecting-to-salesforce.md)
@@ -1246,6 +1247,8 @@ ht-degree: 0%
          + [팀과 통화 기록 공유](product-docs/marketo-sales-connect/phone/share-call-recordings-with-your-team.md)
          + [2자 동의 설정](product-docs/marketo-sales-connect/phone/two-party-consent-settings.md)
       + 작업 {#tasks}
+         + [미리 알림 작업 만들기 및 할당](product-docs/marketo-sales-connect/tasks/create-and-assign-reminder-tasks.md)
+         + [Salesforce와 작업 동기화 미리 알림](product-docs/marketo-sales-connect/tasks/reminder-task-sync-with-salesforce.md)
          + [Salesforce와 Sales Connect 작업 동기화](product-docs/marketo-sales-connect/tasks/syncing-sales-connect-tasks-with-salesforce-for-the-first-time.md)
       + 템플릿 {#templates}
          + [템플릿에 자동 가입 해지 추가](product-docs/marketo-sales-connect/templates/add-auto-unsubscribes-to-a-template.md)
