@@ -3,9 +3,9 @@ audience: end-user
 user-guide-title: Marketo 안내서
 user-guide-description: Marketo 제품 설명서
 feature-set: Marketo Engage
-source-git-commit: 56db82ef98d774f8ac56c1401ef7ef275862d1dc
+source-git-commit: 49b1bd707b8394ceeea0984c4c11d3ac88ab81b6
 workflow-type: tm+mt
-source-wordcount: '8174'
+source-wordcount: '8189'
 ht-degree: 0%
 
 ---
@@ -1306,6 +1306,9 @@ ht-degree: 0%
                + [게재 채널 개요](product-docs/marketo-sales-insight/actions/email/email-delivery/delivery-channel-overview.md)
                + [전자 메일 연결 조절](product-docs/marketo-sales-insight/actions/email/email-delivery/email-connection-throttling.md)
                + [팀을 위한 사용자 지정 게재 채널 설정](product-docs/marketo-sales-insight/actions/email/email-delivery/set-up-a-custom-delivery-channel-for-your-team.md)
+            + Salesforce 구성 {#email-delivery}
+               + [Salesforce Classic 사용자 지정 패키지 제거](product-docs/marketo-sales-insight/actions/salesforce-configuration/uninstall-salesforce-classic-customization-package.md)
+               + [Salesforce Lightning 사용자 지정 패키지 제거](product-docs/marketo-sales-insight/actions/salesforce-configuration/uninstall-salesforce-lightning-customization-package.md)
             + 가입 해지됨 {#unsubscribes}
                + [구독 취소 개요](product-docs/marketo-sales-insight/actions/email/unsubscribes/unsubscribe-overview.md)
                + [구독 취소 링크 메시지 사용자 지정](product-docs/marketo-sales-insight/actions/email/unsubscribes/customize-unsubscribe-link-message.md)
@@ -1737,6 +1740,7 @@ ht-degree: 0%
          + [릴리스 노트: 2021년 1월](release-notes/previous-releases/2021/release-notes-jan-21.md)
          + [릴리스 노트: 2021년 5월](release-notes/previous-releases/2021/release-notes-may-21.md)
          + [릴리스 노트: 2021년 8월](release-notes/previous-releases/2021/release-notes-aug-21.md)
+         + [릴리스 노트: 2021년 10월](release-notes/previous-releases/2021/release-notes-oct-21.md)
       + 2020년 {#2020}
          + [릴리스 노트: 2020년 1월](release-notes/previous-releases/2020/release-notes-jan-20.md)
          + [릴리스 노트: 2월 20일](release-notes/previous-releases/2020/release-notes-feb-20.md)

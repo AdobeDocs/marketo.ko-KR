@@ -2,83 +2,89 @@
 description: 현재 릴리스 노트 - Marketo 문서 - 제품 설명서
 title: 현재 릴리스 노트
 exl-id: a2eccad5-73ad-48f9-8091-51cee23824e1
-source-git-commit: 2712a21b7457ef51a9112074465c54e8f7954fa9
+source-git-commit: 49b1bd707b8394ceeea0984c4c11d3ac88ab81b6
 workflow-type: tm+mt
-source-wordcount: '1116'
+source-wordcount: '947'
 ht-degree: 0%
 
 ---
 
-# 릴리스 노트: 2021년 10월 일 {#release-notes-oct-21}
+# 릴리스 노트: 2022년 1월 {#release-notes-jan-22}
 
-다음 기능은 2021년 10월 릴리스에 포함되어 있습니다. 기능을 사용할 수 있는지 Adobe Marketo Engage 버전을 확인하십시오.
+다음 기능은 2022년 1월 릴리스에 포함되어 있습니다. 기능을 사용할 수 있는지 Adobe Marketo Engage 버전을 확인하십시오.
 
 >[!AVAILABILITY]
 >
->별로 표시된 기능(![](assets/yellow-star.png))은 유료 추가 기능입니다. 자세한 내용은 Marketo Engage 담당자에게 문의하십시오.
+>별로 표시된 기능(![별](assets/yellow-star.png))은 유료 추가 기능입니다. 자세한 내용은 Marketo Engage 담당자에게 문의하십시오.
 
 **_분기별 릴리스_**
 
-다음 기능은에서 릴리스되기 시작합니다 **2021년 10월 22일**( 별도로 지정하지 않는 한 다음 주에 모든 기능을 단계별로 롤아웃합니다.)
+다음 기능은 **2022년 1월 21일**.
 
-## AI 기반의 혁신 {#ai-driven-innovation}
+## 차세대 경험 {#next-generation-experience}
 
-**Predictive Audiences 개선 사항**: 이제 이벤트 및 이메일 프로그램에 사용되는 AI 기반의 예측 모델에 대한 AI 예측에 영향을 주는 상위 동작을 보다 잘 파악할 수 있습니다. 이벤트 등록 및 참여도가 높은 캠페인 구성원 동작과 가입 해지를 검토할 수 있습니다. 이제 AI 기반의 유사 모델을 Marketo Engage의 모든 프로그램 유형에서 사용할 수 있습니다.
+* **차세대 경험에서 업데이트된 화면**: 전환 스위치를 통해 업데이트된 디자인 및 유용성 개선 사항을 제공하는 차세대 환경에서 새로 고친 추가 화면을 제공하고 있습니다.
 
-## 차세대 경험 {#next-gen-experience}
+   * Design Studio의 랜딩 페이지 자산 세부 사항
+   * 마케팅 활동의 랜딩 페이지 자산 세부 사항
+   * Design Studio의 전자 메일 목록 보기(새 대량 작업 포함)
 
-**자신만의 경험을 선택하십시오**: 컨텍스트, 자산 변경 또는 환경 설정을 유실하지 않고 Marketo Engage 양식 세부 사항 또는 랜딩 페이지 목록 보기에서 작업하는 동안 새로운 토글 기능을 사용하여 선호하는 경험으로 쉽게 전환할 수 있습니다. 또한 새 랜딩 페이지 목록 보기는 새로운 필터와 대량 작업을 수행하는 기능을 통해 경험을 향상시킵니다.
+* **차세대 경험 전환 스위치에 대한 관리 제어**: 관리자는 차세대 환경에서 화면을 보기 위해 전환 스위치에 액세스할 수 있는 사용자 유형을 선택할 수 있습니다.
 
-**효율적으로 검색**: 전역 검색에 대한 액세스 가능성 개선 사항에는 업데이트된 키보드 탐색 및 레이블 설명, 새로운 결과 스크롤 기능, 더 보이는 적용 필터 등이 포함됩니다.
+## Microsoft Dynamics 통합 {#microsoft-dynamics-integration}
 
-**작업 모니터링**: 전역 탐색 막대의 새 작업 알림 트레이를 통해 새 경험의 배경에서 실행되는 작업의 상태를 모니터링합니다. 트레이는 양식 세부 사항 및 랜딩 페이지 목록의 새 경험 보기에서 시작된 작업에 대한 알림을 캡처합니다. 여기에는 랜딩 페이지의 상태 변경, 새로운 경험을 사용한 일반적인 일괄 작업 등이 포함됩니다.
+* **일반적으로 사용할 수 있는 다중 선택 옵션 집합 필드 유형의 동기화**: 보다 세부적인 대상 타깃팅을 위해 Microsoft Dynamics에서 다중 선택 선택 선택 옵션 설정 필드 유형을 동기화하여 스마트 목록 및 스마트 캠페인에서 활용하십시오. 해당 예는 다음과 같습니다. 관심 분야/제품, 선호하는 커뮤니케이션 모드 등 이 새로운 동기화는 Microsoft Dynamics 버전 9.X(Dynamics 365 Online 포함)에서 사용할 수 있습니다.
 
-## Experience Automation {#experience-automation}
+* **Microsoft Dynamics 365 Online을 위한 서버 간 인증**: 보안 강화를 위해 이제 Microsoft Dynamics 365 Online에 비대화형 액세스를 위해 Azure Active Directory에서 Marketo Engage 동기화 사용자에 대한 추가 인증 모드로 서버 간(S2S)을 지원합니다. 모든 인증 및 사인온은 OAuth(클라이언트 ID 및 클라이언트 암호만)를 기반으로 하므로 다단계 인증을 사용할 수 있습니다.
 
-**양식 API 프로그램 구성원 사용자 지정 필드 지원 제출**: 제출 양식 API 엔드포인트가 프로그램 구성원 사용자 지정 필드를 지원하도록 업그레이드되어 사용자 지정 양식 통합에서 프로그램별 데이터를 수집할 수 있습니다.
+>[!NOTE]
+>
+>S2S 모드는 라이센스 사용자가 아닌 애플리케이션 사용자를 기반으로 하여 추가 라이센스 사용을 저장합니다.
+
+## 관리 {#administration}
+
+* **양식 유효성 검사 규칙**: 문제 또는 바람직하지 않은 전자 메일 도메인이 Marketo Engage 양식을 제출하지 않도록 차단하는 기능을 사용하여 데이터베이스의 상태를 유지합니다. 관리자는 전역 양식 유효성 검사 규칙 패널을 사용하여을 정의하거나 미리 정의된 사용 가능한 소비자 도메인 목록을 차단 목록에 추가하다 활성화하여 양식에서 차단할 수 있습니다.
+
+* **랜딩 페이지 헤더 보안**: 관리자는 랜딩 페이지 도메인에서 엄격한 전송 보안 및 X-Frame 옵션 헤더를 관리하여 강력한 보안 요구 사항을 적용할 수 있습니다.
 
 **_분기 전체에 출시_**
 
 다음 기능은 비분기별 사이클에 있으며 앞으로 몇 개월 동안 릴리스될 예정입니다.
 
-**Marketo Engage에 대상 공유를 위한 기본 Adobe Experience Platform 커넥터**: 기본 대상 커넥터를 통해 Adobe Experience Platform에서 만든 대상 세그먼트의 Marketo Engage에서 다중 채널 캠페인 오케스트레이션을 활성화합니다. 커넥터는 이메일 주소 또는 ECID를 사용하여 Adobe Experience Platform 프로필을 Marketo Engage 개인 레코드와 일치시켜 간 세그먼트 공유를 만듭니다. Marketo Engage 정적 목록은 자동으로 채워져 마케터가 개인화된 메시징을 사용하여 target 대상에 도달하거나 워크플로우를 시작할 수 있도록 합니다. Experience Platform에서 계정과 기회 컨텍스트를 활용하여 보다 완벽한 실시간 통합 프로필을 활용하여 고객을 활성화합니다.
+## AEP Marketo Engage 대상 커넥터 - 신규 누락된 리드 만들기 {#aep-marketo-engage-destination-connector}
 
-**Adobe Experience Platform Marketo 데이터 소스 커넥터**: Adobe Experience Platform 사용자와 Marketo Engage 사용자는 Marketo에서 AEP로 데이터를 가져올 때 Marketo 소스 커넥터를 활용할 수 있습니다. AEP 내에서 Marketo에서 데이터(및 해당 변경 사항)를 스트리밍하여 두 제품 간에 데이터를 일관되게 유지할 수 있습니다. Marketo 커넥터는 소스 카탈로그를 통해 볼 수 있으며 &quot;Adobe 애플리케이션&quot; 아래에 나열됩니다.
+Adobe Experience Platform(AEP)도 사용하는 Marketo Engage 고객은 AEP 대상 커넥터를 통해 AEP의 Marketo Engage에 신규 개인 레코드를 푸시할 수 있으므로 데이터베이스를 극대화할 수 있습니다. AEP에서 Marketo Engage으로 대상 세그먼트를 보낼 때 Marketo Engage 데이터베이스에 아직 존재하지 않는 세그먼트 내의 사람들이 자동으로 추가됩니다.
 
 ## Sales Insight {#sales-insight}
 
 ![(별)](assets/yellow-star.png)
 
-**Microsoft Dynamics 365 Sales의 Sales Insight**
+* **Salesforce CRM용 Sales Insight**
 
-**최고의 개선 사항**: Sales Insight의 Best Bets 탭에서는 가장 인기 있는 연락처 및 품질과 긴급성에 따라 우선 순위가 지정된 리드에 대한 실시간 보기를 판매합니다. 영업 담당자가 다음과 같은 작업을 수행할 수 있는 기능을 추가했습니다. 최고 성과 페이지에서 직접 개인 점수를 검토하거나, 이메일을 보내거나, 지정된 Marketo Engage 캠페인에 잠재 고객을 추가하여 효율성을 높이고, 응답 시간을 단축할 수 있습니다.
+* **최상의 선택을 위한 새 유형 열**: 판매자는 Best Pets 페이지에서 리드와 연락처를 구분하기 위해 &quot;Type&quot;이라는 레이블이 지정된 새 열을 사용하여 더 빠른 인사이트를 얻을 수 있습니다.
 
-**새 이메일, 웹 활동, 익명 웹 활동 대시보드**: 판매자에게 최신 이메일 및 웹 활동에 대한 리드 및 연락처에 대해 알리는 새로운 판매 대시보드를 추가했습니다. 새로운 필터링 기능을 사용하여 이제 대시보드는 전체 계정 목록 또는 특정 계정에 대한 이메일 열기, 클릭 및 웹 페이지 방문 인사이트를 제공합니다. Marketo Engage은 모든 웹 활동을 추적하고 중요한 정보를 판매하여 익명의 트래픽을 리드로 전환시킵니다. 판매자는 참여를 개인화하고 리드를 더 빨리 판매로 전환할 수 있습니다. 리드는 리드 행동에 대해 더 잘 알고 있고 모든 터치포인트의 관련성에 따라 움직이고 있기 때문입니다.
+* **Salesforce 플랫폼 API 업데이트**: Salesforce의 종료에 따른 Salesforce Platform API 버전 21.0부터 30.0까지, Sales Insight 패키지가 최신 API로 업데이트되었습니다.
 
-**Salesforce용 Sales Insight**
+* **업데이트된 브랜딩**: 모든 Sales Insight 페이지가 Adobe 브랜딩에 맞게 업데이트됩니다.
 
-**계정 및 영업 기회 수준 최상의 선택**: 이제 Sales Insight는 영업 담당자가 다른 팀 구성원에게 연락처가 지정되었더라도 자신이 소유한 계정 또는 영업 기회에 있는 모든 연락처에 대해 Best Bets 를 검토할 수 있는 기능을 제공합니다. 이를 통해 고객과 영업 기회 소유자는 관련 연락처의 활동을 완벽하게 파악할 수 있으며, 이를 통해 고객이나 영업 기회에 대해 보다 포괄적으로 파악할 수 있습니다.
+**Microsoft Dynamics용 Sales Insight**
+
+* **업데이트된 계정 레이아웃**: 판매자는 다음과 같은 최상위 활동을 집단적으로 볼 수 있습니다. 계정 내 모든 연락처에 대한 이메일 활동, 웹 활동, 흥미로운 순간 및 점수 변경 사항입니다.
 
 ## 영업 연결 {#sales-connect}
 
 ![(별)](assets/yellow-star.png)
 
-**Enhanced Sales Activity Insights**: 새로운 이메일 회신 추적 활동인 Sales Email Resolved 는 Marketo Engage과 자동으로 동기화되는 이메일과 수신자의 상호 작용을 추적합니다. 또한 Source 속성이 &quot;Tout&quot;에서 &quot;Sales App&quot;로 업데이트되었습니다. 이 활동은 Marketo Engage REST API 또는 벌크 내보내기를 통해 내보내거나 보고할 수 있으며, 스마트 목록에 대한 추가 제한으로, 스마트 캠페인에서 개인화 옵션을 확장하면서 필터 및 트리거에서 사용할 수 있습니다.
+* **통화 결과 및 이유**: 새롭고 완벽하게 사용자 지정 가능한 호출 결과 및 호출 이유 옵션을 사용하여 영업 팀의 아웃바운드 노력을 보다 자세히 파악하고 추적합니다. 이러한 새로운 필드 외에도 Adobe에서는 판매자가 호출을 하는 동안 통화 이유와 결과 선택을 강제 적용하는 새로운 거버넌스, 호출 이유 및 결과를 활성화 또는 비활성화하는 새로운 거버넌스, Salesforce에 데이터를 로깅하는 새 호출 이유 및 호출 결과 Salesforce 활동 사용자 지정 필드를 도입했습니다. [여기를 클릭하십시오.](https://nation.marketo.com/t5/product-blogs/sales-connect-enhancements-to-call-outcomes-q1-22-release/ba-p/319812) 추가 정보
 
-**간소화된 사용자 경험**: 이 업데이트에서는 Adobe 스펙트럼 설계 시스템을 기반으로 하는 Sales Connect용 새로운 글꼴, 색상, 단추 및 변형이 도입되었습니다. Adobe는 이러한 업데이트를 통해 보다 효율적인 경험을 제공하고 있습니다. 판매자는 필요한 시간과 장소에 집중할 수 있습니다.
-
-## Bizible {#bizible}
-
-![](assets/yellow-star.png)
-
-**Bizible과 Adobe Privacy Service(GA) 통합**: Adobe Privacy Service과 Bizible 통합은 Adobe Experience Cloud 애플리케이션에서 GDPR(General Data Privacy Regulation) 또는 CCPA(California Consumer Privacy Act)와 같은 중요한 데이터 개인 정보 보호 규정을 중앙 집중화하는 데 도움이 됩니다. 이제 이 서비스를 활용하고 Adobe의 Privacy Service을 통해 모든 개인 정보 보호 요청을 중앙에서 관리할 수 있으므로 Bizible 및 기타 Adobe 제품에 대한 변경 요청이 애플리케이션 간에 반영됩니다.
+* **Salesforce 활동 세부 사항 사용자 지정**: Sales Connect에서 Salesforce에 영업 활동이 기록될 때 Salesforce 작업 제목 필드에 추가되는 정보를 사용자 지정하여 Salesforce에서 더 많은 영업 활동 및 작업 데이터를 캡처합니다. [여기를 클릭하십시오.](https://nation.marketo.com/t5/product-blogs/sales-connect-enahncements-to-activity-logging-to-salesforce-q1/ba-p/319819) 추가 정보
 
 ## 공지 {#announcements}
 
-**리드 사용 중단/Munchkin 베타 161 업데이트 연결**: 2021년 9월 7일, Munchkin의 버전 161은 Munchkin Beta를 사용할 수 있는 구독의 10%를 시작으로, 9월 16일에는 50%, 9월 30일에는 100%를 구독했습니다. 이 변경 사항은 Marketo Engage 랜딩 페이지 및 최신 버전이 롤아웃된 구독에서 로드되는 외부 랜딩 페이지에 제공되는 munchkin-beta.js 파일의 버전에 영향을 줍니다. 이 버전은 알려진 개인 레코드와 Marketo Engage 구독 및 관련 웹 탐색 기록에 개인 데이터를 제출할 수 있는 기능인 Munchkin 연결 리드 메서드를 완전히 사용하지 않습니다. Forms JS API, 양식 제출 API 및 리드 연결 REST API와 같은 보다 현대적이고 안전한 대체 요소를 위해 리드 연결이 제거됩니다. [여기서 이러한 사용 중단에 대해 자세히 알아보십시오](https://developers.marketo.com/blog/deprecation-of-munchkin-associate-lead-method/).
+* **Marketo Sky 선설정**: 3월 11일에는 차세대 사용자 경험을 제공하는 데 리소스를 집중하므로 Marketo Sky을 더 이상 사용할 수 없습니다. 현재 Marketo Sky 전용 기능에 대한 액세스를 유지하기 위해 Adobe에서는 자산 만료 및 스마트 캠페인 우선 순위 무시 를 3월에 주요 경험으로 도입할 예정입니다.
 
-**Sales Connect 업데이트**: Sales Connect의 최근 UI 변경으로 인해 Salesforce의 일부 모듈이 잘렸습니다. 이 문제를 해결하려면 다음을 수행하십시오. [패키지 업데이트](/help/marketo/product-docs/marketo-sales-connect/crm/salesforce-customization/sales-connect-customizations-for-crm.md).
+* **양식 끝점 사용 중단**: leadCapture/save2 종단점에 대해 지원되지 않는 프로그래밍 방식 양식 POST가 Marketo Engage 양식에 의해 거부됩니다. [여기를 클릭하십시오.](https://nation.marketo.com/t5/product-documents/updated-october-2021-upcoming-changes-to-the-marketo-engage-form/ta-p/306631) 추가 정보
 
-**_제품 릴리스 웨비나_**
+* **전자 메일 확인**: 이 릴리스 이후 부터는 Marketo Engage 구독에 &quot;API가 아닌&quot; 사용자가 이메일 주소를 확인하도록 시작합니다. Directory Service 인증된 사용자는 이메일 확인을 통해 구독을 활성화하면 자동으로 이메일이 확인됩니다. &quot;사용자 초대 대화 상자에 로그인&quot; 기능을 사용하는 사용자 또는 구독 내에 여러 사용자와 연결된 단일 이메일이 있는 구독이 있는 사용자에 대한 이메일 확인이 3월에 더 이상 사용되지 않는 기능과 함께 지연되며 이에 일치합니다.
 
-[2021년 10월 Marketo Engage 릴리스 웨비나](https://engage.marketo.com/October_Release_Webinar_On-Demand.html)
+* **사용자 초대 대화 상자에서 로그인**: 3월에는 옵션 기능인 &quot;사용자 초대 대화 상자에서 로그인&quot;이 더 이상 사용되지 않습니다. 기능 &quot;사용자 초대 대화 상자에 로그인&quot; 기능은 예정된 Adobe Identity Management 시스템 통합에 필요하고 모든 구독에서 2021년 8월에 활성화되었던 범용 ID 기능에 의해 재정의됩니다. 사용 중단 결과 Marketo Engage은 사용자의 이메일 주소와 일치하도록 모든 사용자 ID(로그인)를 적용하고 구독 내의 이메일 주소당 하나의 사용자만 연결할 수 있습니다.
