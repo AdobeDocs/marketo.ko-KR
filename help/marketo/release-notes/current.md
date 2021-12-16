@@ -2,9 +2,9 @@
 description: 현재 릴리스 노트 - Marketo 문서 - 제품 설명서
 title: 현재 릴리스 노트
 exl-id: a2eccad5-73ad-48f9-8091-51cee23824e1
-source-git-commit: 6033a1bfbdce1b617181415c4f7394074c64595f
+source-git-commit: 82c75d52caf3a0320cd3e8534b3b0870cf12d660
 workflow-type: tm+mt
-source-wordcount: '948'
+source-wordcount: '1050'
 ht-degree: 0%
 
 ---
@@ -21,7 +21,7 @@ ht-degree: 0%
 
 다음 기능은 **2022년 1월 21일**.
 
-## 차세대 경험 {#next-generation-experience}
+## 차세대 경험 {#next-generation-experience}
 
 * **차세대 경험에서 업데이트된 화면**: 전환 스위치를 통해 액세스할 수 있는 업데이트된 디자인 및 유용성 개선 사항을 제공하는 차세대 환경에서 새로 고친 추가 화면을 제공하고 있습니다.
 
@@ -51,7 +51,7 @@ ht-degree: 0%
 
 다음 기능은 비분기별 사이클에 있으며 앞으로 몇 개월 동안 릴리스될 예정입니다.
 
-## AEP Marketo Engage 대상 커넥터 - 신규 누락된 리드 만들기 {#aep-marketo-engage-destination-connector}
+## AEP Marketo Engage 대상 커넥터 - 신규 리드 만들기 {#aep-marketo-engage-destination-connector}
 
 Adobe Experience Platform(AEP)도 사용하는 Marketo Engage 고객은 AEP 대상 커넥터를 통해 AEP의 Marketo Engage에 신규 개인 레코드를 푸시할 수 있으므로 데이터베이스를 극대화할 수 있습니다. AEP에서 Marketo Engage으로 대상 세그먼트를 보낼 때 Marketo Engage 데이터베이스에 아직 존재하지 않는 세그먼트 내의 사람들이 자동으로 추가됩니다.
 
@@ -59,7 +59,7 @@ Adobe Experience Platform(AEP)도 사용하는 Marketo Engage 고객은 AEP 대�
 
 ![(별)](assets/yellow-star.png)
 
-* **Salesforce CRM용 Sales Insight**
+**Salesforce CRM용 Sales Insight**
 
 * **최상의 선택을 위한 새 유형 열**: 판매자는 Best Pets 페이지에서 리드와 연락처를 구분하기 위해 &quot;Type&quot;이라는 레이블이 지정된 새 열을 사용하여 더 빠른 인사이트를 얻을 수 있습니다.
 
@@ -85,6 +85,8 @@ Adobe Experience Platform(AEP)도 사용하는 Marketo Engage 고객은 AEP 대�
 
 * **양식 끝점 사용 중단**: leadCapture/save2 종단점에 대해 지원되지 않는 프로그래밍 방식 양식 POST가 Marketo Engage 양식에 의해 거부됩니다. [여기를 클릭하십시오.](https://nation.marketo.com/t5/product-documents/updated-october-2021-upcoming-changes-to-the-marketo-engage-form/ta-p/306631) 추가 정보
 
-* **전자 메일 확인**: 이 릴리스 이후 부터는 Marketo Engage 구독에 &quot;API가 아닌&quot; 사용자가 이메일 주소를 확인하도록 시작합니다. Directory Service 인증된 사용자는 이메일 확인을 통해 구독을 활성화하면 자동으로 이메일이 확인됩니다. &quot;사용자 초대 대화 상자에 로그인&quot; 기능을 사용하는 사용자 또는 구독 내에 여러 사용자와 연결된 단일 이메일이 있는 구독이 있는 사용자에 대한 이메일 확인이 3월에 더 이상 사용되지 않는 기능과 함께 지연되며 이에 일치합니다.
+* **전자 메일 확인**: 이 릴리스 이후 부터는 Marketo Engage 구독에 &quot;API가 아닌&quot; 사용자가 이메일 주소를 확인하도록 시작합니다. Directory Service 인증된 사용자는 이메일 확인을 통해 구독을 활성화하면 자동으로 이메일이 확인됩니다. &quot;사용자 초대 대화 상자에 로그인&quot; 기능을 사용하는 사용자 또는 구독 내에 여러 사용자와 연결된 단일 이메일이 있는 구독이 있는 사용자에 대한 이메일 확인이 3월에 더 이상 사용되지 않는 기능과 함께 지연되며 이에 일치합니다.
 
 * **사용자 초대 대화 상자에서 로그인**: 3월에는 옵션 기능인 &quot;사용자 초대 대화 상자에서 로그인&quot;이 더 이상 사용되지 않습니다. 기능 &quot;사용자 초대 대화 상자에 로그인&quot; 기능은 예정된 Adobe Identity Management 시스템 통합에 필요하고 모든 구독에서 2021년 8월에 활성화되었던 범용 ID 기능에 의해 재정의됩니다. 사용 중단 결과 Marketo Engage은 사용자의 이메일 주소와 일치하도록 모든 사용자 ID(로그인)를 적용하고 구독 내의 이메일 주소당 하나의 사용자만 연결할 수 있습니다.
+
+**Marketo Engage 도메인 - Sales Insight 구성**: SSL 인증서가 프로비저닝되지 않은 Marketo Engage 도메인 및 https://의 경우 SSL 핸드셰이크 오류로 인해 호출이 실패합니다. 따라서 이러한 도메인은 사라질 것입니다. 따라서 이러한 도메인을 가리키는 이전 구성이 있는 Sales Insight 사용자는 Lead, Contact, Account, Opportunity Panels 또는 Marketo Global 페이지에서 시스템 콜아웃 오류가 발생할 수 있습니다. 을(를) 업데이트하는 것이 좋습니다 [Marketo Engage 구성](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/configuration/configure-marketo-sales-insight-in-salesforce-enterprise-unlimited.md) Salesforce에서 이 오류가 발생한 경우 문서의 &quot;Marketo Sales Insight Config&quot; 섹션에 강조 표시된 Marketo Engage 자격 증명만 업데이트해야 합니다.
