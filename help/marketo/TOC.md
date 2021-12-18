@@ -3,9 +3,9 @@ audience: end-user
 user-guide-title: Marketo 안내서
 user-guide-description: Marketo 제품 설명서
 feature-set: Marketo Engage
-source-git-commit: 49b1bd707b8394ceeea0984c4c11d3ac88ab81b6
+source-git-commit: aa58277a9620c5c187e9bd1e5c691b94b64b0968
 workflow-type: tm+mt
-source-wordcount: '8189'
+source-wordcount: '8195'
 ht-degree: 0%
 
 ---
@@ -1287,6 +1287,7 @@ ht-degree: 0%
             + [팀 만들기](product-docs/marketo-sales-insight/actions/admin/creating-a-team.md)
             + [사용자 지정 도메인 추적을 설정하는 방법](product-docs/marketo-sales-insight/actions/admin/how-to-set-up-custom-domain-tracking.md)
             + [사용자 및 관리자 초대](product-docs/marketo-sales-insight/actions/admin/invite-users-and-admins.md)
+            + [Salesforce에 영업 활동 속성 로깅](product-docs/marketo-sales-insight/actions/admin/logging-sales-activity-attributes-to-salesforce.md)
             + [공유 설정](product-docs/marketo-sales-insight/actions/admin/sharing-settings.md)
             + [사용자 액세스 세부 정보](product-docs/marketo-sales-insight/actions/admin/user-access-details.md)
          + 캠페인 {#campaigns}
