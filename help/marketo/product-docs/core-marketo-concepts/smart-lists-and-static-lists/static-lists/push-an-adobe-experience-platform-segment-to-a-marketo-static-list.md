@@ -2,9 +2,9 @@
 description: Marketo 정적 목록에 Adobe Experience Platform 세그먼트 푸시 - Marketo 문서 - 제품 설명서
 title: Marketo 정적 목록에 Adobe Experience Platform 세그먼트 푸시
 exl-id: 8df11bf4-06f4-4927-8dfb-954414fce6dc
-source-git-commit: 5d26aff392d5749941ad93e351c454249662cd72
+source-git-commit: 68befac1804f2d6e4d42a2967577e14fef8a6ff1
 workflow-type: tm+mt
-source-wordcount: '514'
+source-wordcount: '509'
 ht-degree: 0%
 
 ---
@@ -72,7 +72,7 @@ ht-degree: 0%
 
    >[!NOTE]
    >
-   >정적 목록에 대한 세그먼트는 1:1입니다. 여기에서 여러 세그먼트를 선택하는 경우, 세그먼트 예약 탭에서 지정된 정적 목록에 각 세그먼트를 매핑해야 합니다.
+   >여기에서 여러 세그먼트를 선택하는 경우, 세그먼트 예약 탭에서 지정된 정적 목록에 각 세그먼트를 매핑해야 합니다.
 
 1. 클릭 **새 매핑 추가**.
 
