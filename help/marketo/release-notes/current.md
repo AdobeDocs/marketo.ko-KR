@@ -2,9 +2,9 @@
 description: 현재 릴리스 노트 - Marketo 문서 - 제품 설명서
 title: 현재 릴리스 노트
 exl-id: a2eccad5-73ad-48f9-8091-51cee23824e1
-source-git-commit: 82c75d52caf3a0320cd3e8534b3b0870cf12d660
+source-git-commit: b700993d0fc9a7703e8e812ca3d6adee1e1e6d9b
 workflow-type: tm+mt
-source-wordcount: '1050'
+source-wordcount: '1038'
 ht-degree: 0%
 
 ---
@@ -87,6 +87,6 @@ Adobe Experience Platform(AEP)도 사용하는 Marketo Engage 고객은 AEP 대�
 
 * **전자 메일 확인**: 이 릴리스 이후 부터는 Marketo Engage 구독에 &quot;API가 아닌&quot; 사용자가 이메일 주소를 확인하도록 시작합니다. Directory Service 인증된 사용자는 이메일 확인을 통해 구독을 활성화하면 자동으로 이메일이 확인됩니다. &quot;사용자 초대 대화 상자에 로그인&quot; 기능을 사용하는 사용자 또는 구독 내에 여러 사용자와 연결된 단일 이메일이 있는 구독이 있는 사용자에 대한 이메일 확인이 3월에 더 이상 사용되지 않는 기능과 함께 지연되며 이에 일치합니다.
 
-* **사용자 초대 대화 상자에서 로그인**: 3월에는 옵션 기능인 &quot;사용자 초대 대화 상자에서 로그인&quot;이 더 이상 사용되지 않습니다. 기능 &quot;사용자 초대 대화 상자에 로그인&quot; 기능은 예정된 Adobe Identity Management 시스템 통합에 필요하고 모든 구독에서 2021년 8월에 활성화되었던 범용 ID 기능에 의해 재정의됩니다. 사용 중단 결과 Marketo Engage은 사용자의 이메일 주소와 일치하도록 모든 사용자 ID(로그인)를 적용하고 구독 내의 이메일 주소당 하나의 사용자만 연결할 수 있습니다.
+* **사용자 초대 대화 상자에서 로그인**: 3월에는 옵션 기능인 &quot;사용자 초대 대화 상자에서 로그인&quot;이 더 이상 사용되지 않습니다. 기능 &quot;사용자 초대 대화 상자에 로그인&quot; 기능은 예정된 Adobe Identity Management 시스템 통합에 필요하고 모든 구독에서 2021년 8월에 활성화되었던 범용 ID 기능에 의해 재정의됩니다. 사용 중단 결과 Marketo Engage은 구독 내에 이메일 주소당 연결할 사용자를 한 명만 적용합니다.
 
 **Marketo Engage 도메인 - Sales Insight 구성**: SSL 인증서가 프로비저닝되지 않은 Marketo Engage 도메인 및 https://의 경우 SSL 핸드셰이크 오류로 인해 호출이 실패합니다. 따라서 이러한 도메인은 사라질 것입니다. 따라서 이러한 도메인을 가리키는 이전 구성이 있는 Sales Insight 사용자는 Lead, Contact, Account, Opportunity Panels 또는 Marketo Global 페이지에서 시스템 콜아웃 오류가 발생할 수 있습니다. 을(를) 업데이트하는 것이 좋습니다 [Marketo Engage 구성](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/configuration/configure-marketo-sales-insight-in-salesforce-enterprise-unlimited.md) Salesforce에서 이 오류가 발생한 경우 문서의 &quot;Marketo Sales Insight Config&quot; 섹션에 강조 표시된 Marketo Engage 자격 증명만 업데이트해야 합니다.
