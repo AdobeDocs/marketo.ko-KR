@@ -3,9 +3,9 @@ audience: end-user
 user-guide-title: Marketo 안내서
 user-guide-description: Marketo 제품 설명서
 feature-set: Marketo Engage
-source-git-commit: 61188d96c4eeb39170166d176dce91153819c9d4
+source-git-commit: c4db281bc1b92bdd3ecc3c8b0aaf7e2f21d1f987
 workflow-type: tm+mt
-source-wordcount: '8200'
+source-wordcount: '8205'
 ht-degree: 0%
 
 ---
@@ -1276,11 +1276,12 @@ ht-degree: 0%
    + Marketo Sales Insight {#marketo-sales-insight}
       + 작업 {#actions}
          + 시작하기 {#getting-started}
+            + [MSI 작업 사용 온보딩 안내서](product-docs/marketo-sales-insight/actions/getting-started/msi-actions-user-onboarding-guide.md)
+            + [Marketo 영업 암호 변경](product-docs/marketo-sales-insight/actions/getting-started/change-your-marketo-sales-password.md)
             + 전자 메일 설정 {#email-settings}
                + [이메일 확인](product-docs/marketo-sales-insight/actions/getting-started/email-settings/verify-your-email.md)
                + [전자 메일 서명 추가 또는 업데이트](product-docs/marketo-sales-insight/actions/getting-started/email-settings/add-or-update-your-email-signature.md)
                + [ID 추가](product-docs/marketo-sales-insight/actions/getting-started/email-settings/add-identity.md)
-            + [Marketo 영업 암호 변경](product-docs/marketo-sales-insight/actions/getting-started/change-your-marketo-sales-password.md)
          + 관리 {#admin}
             + [차단된 도메인](product-docs/marketo-sales-insight/actions/admin/blocked-domains.md)
             + [컨텐츠 잠금](product-docs/marketo-sales-insight/actions/admin/content-lockdown.md)
@@ -1307,7 +1308,7 @@ ht-degree: 0%
                + [게재 채널 개요](product-docs/marketo-sales-insight/actions/email/email-delivery/delivery-channel-overview.md)
                + [전자 메일 연결 조절](product-docs/marketo-sales-insight/actions/email/email-delivery/email-connection-throttling.md)
                + [팀을 위한 사용자 지정 게재 채널 설정](product-docs/marketo-sales-insight/actions/email/email-delivery/set-up-a-custom-delivery-channel-for-your-team.md)
-            + Salesforce 구성 {#email-delivery}
+            + Salesforce 구성 {#salesforce-configuration}
                + [Salesforce의 MSI 작업 구성](product-docs/marketo-sales-insight/actions/salesforce-configuration/msi-actions-configuration-in-salesforce.md)
                + [Salesforce Classic 사용자 지정 패키지 제거](product-docs/marketo-sales-insight/actions/salesforce-configuration/uninstall-salesforce-classic-customization-package.md)
                + [Salesforce Lightning 사용자 지정 패키지 제거](product-docs/marketo-sales-insight/actions/salesforce-configuration/uninstall-salesforce-lightning-customization-package.md)
