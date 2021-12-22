@@ -3,7 +3,7 @@ unique-page-id: 10098625
 description: Microsoft Dynamics 동기화 이해 - Marketo 문서 - 제품 설명서
 title: Microsoft Dynamics 동기화 이해
 exl-id: bc87f744-7f1c-421b-8507-1a6e23d27fa2
-source-git-commit: 80651a7d3d416f27ef13184b11757943c98bd781
+source-git-commit: 297ff02ba2c1173cabfecdef283e97c87c922480
 workflow-type: tm+mt
 source-wordcount: '242'
 ht-degree: 0%
@@ -12,7 +12,7 @@ ht-degree: 0%
 
 # Microsoft Dynamics 동기화 이해 {#understanding-the-microsoft-dynamics-sync}
 
-Marketo과 Microsoft Dynamics가 함께 제공됩니다. Adobe는 귀사의 영업 및 마케팅 자료를 계속 동기화합니다.
+Marketo과 Microsoft Dynamics가 함께 결합됩니다. Adobe는 귀사의 영업 및 마케팅 자료를 계속 동기화합니다.
 
 >[!NOTE]
 >
@@ -40,10 +40,10 @@ Marketo과 Dynamics 간의 동기화는 리드와 연락처에 대한 양방향 
 * [사용자](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/microsoft-dynamics-sync-details/microsoft-dynamics-sync-user-sync.md)
 * 팀(SystemUsers 그룹)
 * [기회](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/microsoft-dynamics-sync-details/microsoft-dynamics-sync-opportunity-sync.md)
-* [사용자 지정 엔티티](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/microsoft-dynamics-sync-details/microsoft-dynamics-sync-custom-entity-sync.md)
+* [사용자 지정 엔티티](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/microsoft-dynamics-sync-details/enable-sync-for-a-custom-entity.md)
 
-Dynamics](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/microsoft-dynamics-365/step-2-of-3-set-up.md)용 Marketo에 입력하는 [자격 증명은 데이터를 동기화하는 데 사용됩니다.
+다음 [Dynamics용 Marketo에 입력하는 자격 증명](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/microsoft-dynamics-365/step-2-of-3-set-up.md) 데이터를 동기화하는 데 사용됩니다.
 
 >[!NOTE]
 >
->원본 인스턴스가 Microsoft Dynamics와 통합된 경우 인스턴스 복사본이 지원되지 않습니다.
+>소스 인스턴스가 Microsoft Dynamics와 통합된 경우 인스턴스 복사본이 지원되지 않습니다.

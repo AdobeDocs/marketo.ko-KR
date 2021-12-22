@@ -3,7 +3,7 @@ unique-page-id: 2953334
 description: 릴리스 노트 - 2014년 10월 - Marketo 문서 - 제품 설명서
 title: 릴리스 노트 - 2014년 10월
 exl-id: 698b4efd-ee14-459e-83a9-d06652099040
-source-git-commit: 74effe9f8078f8d71e6de01d6e737ddc86978abb
+source-git-commit: 297ff02ba2c1173cabfecdef283e97c87c922480
 workflow-type: tm+mt
 source-wordcount: '274'
 ht-degree: 0%
@@ -16,7 +16,7 @@ ht-degree: 0%
 
 ## 마케팅 달력의 프로그램 포커스 {#program-focus-in-marketing-calendar}
 
-[마케팅 ](/help/marketo/product-docs/core-marketo-concepts/marketing-calendar/understanding-the-calendar/understand-enable-program-focus.md) 달력에서 직접 항목을 만들고 편집합니다.
+[항목 만들기 및 편집](/help/marketo/product-docs/core-marketo-concepts/marketing-calendar/understanding-the-calendar/understand-enable-program-focus.md) 마케팅 일정에서 바로 액세스할 수 있습니다.
 
 ![](assets/image2014-10-20-11-3a48-3a51.png)
 
@@ -29,21 +29,21 @@ API를 사용하여 리드의 새로운 활동 또는 변경 사항을 가져옵
 * 활동 유형 가져오기
 * 페이징 토큰 가져오기
 
-전체 세부 사항은 [developers.marketo.com](https://developers.marketo.com/documentation/rest/)에서 릴리스 후에 사용할 수 있습니다.
+자세한 내용은 의 릴리스 후에 제공됩니다. [developers.marketo.com](https://developers.marketo.com/documentation/rest/).
 
-## MSI - Microsoft Dynamics용 Marketo 전자 메일 보내기 {#msi-send-marketo-email-for-microsoft-dynamics}
+## MSI - Microsoft Dynamics용 Marketo 이메일 보내기 {#msi-send-marketo-email-for-microsoft-dynamics}
 
-[Microsoft Dynamics에서 ](/help/marketo/product-docs/marketo-sales-insight/msi-for-microsoft-dynamics/setting-up-and-using/send-a-marketo-sales-email-from-microsoft-dynamics.md) 리드와 연락처에 판매 이메일을 보내고 추적합니다.
+[판매 이메일 전송 및 추적](/help/marketo/product-docs/marketo-sales-insight/msi-for-microsoft-dynamics/setting-up-and-using/send-a-marketo-sales-email-from-microsoft-dynamics.md) Microsoft Dynamics에서 리드 및 연락처를 지정합니다.
 
 ![](assets/image2014-10-20-11-3a49-3a25.png)
 
 ## MSI - Microsoft Dynamics용 Marketo Campaigns에 추가 {#msi-add-to-marketo-campaigns-for-microsoft-dynamics}
 
-[Microsoft Dynamics 내에서 직접 Marketo 스마트 ](/help/marketo/product-docs/marketo-sales-insight/msi-for-microsoft-dynamics/setting-up-and-using/add-a-lead-contact-to-a-marketo-campaign-from-microsoft-dynamics.md) 캠페인에 리드 및 연락처를 추가합니다. 마케팅에서 판매할 수 있는 Marketo 캠페인을 선택할 수 있습니다.
+[Marketo 스마트 캠페인에 리드 및 연락처 추가](/help/marketo/product-docs/marketo-sales-insight/msi-for-microsoft-dynamics/setting-up-and-using/add-a-lead-contact-to-a-marketo-campaign-from-microsoft-dynamics.md) Microsoft Dynamics 내에서 바로 되돌릴 수 있습니다. 마케팅에서 판매할 수 있는 Marketo 캠페인을 선택할 수 있습니다.
 
 ## Microsoft Dynamics Sync에 대한 사용자 지정 엔터티 지원 {#custom-entity-support-for-microsoft-dynamics-sync}
 
-[스마트 목록, 스마트 캠페인, 프로그램](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/microsoft-dynamics-sync-details/microsoft-dynamics-sync-custom-entity-sync/enable-sync-for-a-custom-entity.md) 에서 필터링하고 트리거하려면 Microsoft Dynamics의 사용자 지정 개체 데이터를 사용합니다.
+[사용자 지정 개체 데이터 사용](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/microsoft-dynamics-sync-details/enable-sync-for-a-custom-entity.md) 스마트 목록, 스마트 캠페인, 프로그램에서 필터링하고 트리거하기 위한 Microsoft Dynamics..
 
 ## Microsoft Dynamics Sync에 대한 주주 지원 {#shareholder-support-for-microsoft-dynamics-sync}
 
@@ -51,7 +51,7 @@ Dynamics에서 기회 주주 데이터를 동기화합니다. 기본 계정 필�
 
 ## RTP - 대시보드 개선 사항 {#rtp-dashboard-enhancements}
 
-이제 대시보드가 개선되어 더 요약 데이터가 포함됩니다.
+이제 대시보드가 개선되어 보다 요약 데이터가 포함됩니다.
 
 * 총 조직 방문 횟수
 * 상위 5개 성능 업계
@@ -59,7 +59,7 @@ Dynamics에서 기회 주주 데이터를 동기화합니다. 기본 계정 필�
 
 ## RTP - 캠페인을 위한 새로운 모바일 템플릿 {#rtp-new-mobile-templates-for-campaigns}
 
-이러한 새 템플릿으로 모바일 캠페인을 빠르고 쉽게 [만들 수 있습니다.](/help/marketo/product-docs/web-personalization/using-templates/using-templates-to-create-web-campaigns.md)
+빠르고 쉽게 [모바일 캠페인 만들기](/help/marketo/product-docs/web-personalization/using-templates/using-templates-to-create-web-campaigns.md) 이러한 새로운 템플릿을 사용하여 다음을 수행할 수 있습니다.
 
 ## RTP - 사용자 컨텍스트 API {#rtp-user-context-api}
 
@@ -69,4 +69,4 @@ Dynamics에서 기회 주주 데이터를 동기화합니다. 기본 계정 필�
 * 관심 있는 제품
 * RTP 캠페인 보기
 
-자세한 내용은 [developers.marketo.com](https://developers.marketo.com/documentation/websites/rtp-js-api/)을 참조하십시오.
+방문 [developers.marketo.com](https://developers.marketo.com/documentation/websites/rtp-js-api/) 자세한 내용
