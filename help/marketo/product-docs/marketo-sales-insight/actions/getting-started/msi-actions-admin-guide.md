@@ -3,9 +3,9 @@ description: MSI 작업 관리 안내서 - Marketo 문서 - 제품 설명서
 title: MSI 작업 관리 안내서
 hide: true
 hidefromtoc: true
-source-git-commit: 9ee07611ffae25fea4bffa3124927083bf187ddd
+source-git-commit: 55a677339f03b11ac3c2bdf58fdb83fdbd1cd4b8
 workflow-type: tm+mt
-source-wordcount: '0'
+source-wordcount: '491'
 ht-degree: 0%
 
 ---
@@ -57,11 +57,11 @@ ht-degree: 0%
 
 1. Marketo에서 **관리**.
 
-PICC
+   ![](assets/msi-actions-admin-guide-1.png)
 
 1. 클릭 **Sales Insight**, 그런 다음 **작업 구성**. 초대할 Marketo 관리자 목록에서 선택하고 **초대 보내기**.
 
-PICC
+   ![](assets/msi-actions-admin-guide-2.png)
 
 사용자는 계정에 액세스할 수 있는 단계를 포함하는 이메일을 받게 됩니다.
 
@@ -73,19 +73,19 @@ PICC
 
 1. Marketo Sales 계정에서 톱니바퀴 아이콘을 클릭하고 을 선택합니다 **설정**.
 
-PICC
+   ![](assets/msi-actions-admin-guide-3.png)
 
 1. 관리자 설정에서 을 클릭합니다. **Salesforce**.
 
-PICC
+   ![](assets/msi-actions-admin-guide-4.png)
 
 1. 연결 및 사용자 지정 탭에서 **Connect**.
 
-PICC
+   ![](assets/msi-actions-admin-guide-5.png)
 
 1. 클릭 **확인**.
 
-PICC
+   ![](assets/msi-actions-admin-guide-6.png)
 
 Salesforce에 이미 로그인한 경우 연결됩니다. 그렇지 않으면 로그인하라는 메시지가 표시됩니다.
 
@@ -93,13 +93,15 @@ Salesforce에 이미 로그인한 경우 연결됩니다. 그렇지 않으면 �
 
 1. Marketo Sales 계정에서 톱니바퀴 아이콘을 클릭하고 을 선택합니다 **설정**.
 
-PICC
+   ![](assets/msi-actions-admin-guide-7.png)
 
 1. 관리자 설정에서 을 클릭합니다. **Marketo**.
 
-PICC
+   ![](assets/msi-actions-admin-guide-8.png)
 
 1. 클릭 **connect**. 그러면 계정이 연결됩니다.
+
+   ![](assets/msi-actions-admin-guide-9.png)
 
 >[!NOTE]
 >
@@ -107,21 +109,21 @@ PICC
 
 ## 데이터 동기화 시작 {#initiate-data-sync}
 
-1. Marketo에서 관리를 클릭합니다.
+1. Marketo에서 **관리**.
 
-PICC
+   ![](assets/msi-actions-admin-guide-10.png)
 
-1. Sales Insight 를 클릭한 다음 Actions Config 를 클릭합니다.
+1. Sales Insight 를 클릭합니다.
 
-PICC
+   ![](assets/msi-actions-admin-guide-11.png)
 
-1. 작업 필드 동기화 카드에서 **동기화**.
+1. 작업 구성 탭을 클릭합니다. 작업 필드 동기화 카드에서 **동기화**.
 
-PICC
+   ![](assets/msi-actions-admin-guide-12.png)
 
 1. 동기화할 필드의 미리 보기가 표시됩니다. 클릭 **동기화 시작**.
 
-PICC
+   ![](assets/msi-actions-admin-guide-13.png)
 
 Marketo 및 Salesforce에 있는 개인 레코드는 Marketo Sales Apps 계정에 동기화됩니다.
 
@@ -129,17 +131,19 @@ Marketo 및 Salesforce에 있는 개인 레코드는 Marketo Sales Apps 계정�
 
 1. Marketo Sales 계정에서 톱니바퀴 아이콘을 클릭하고 을 선택합니다 **설정**.
 
-PICC
+   ![](assets/msi-actions-admin-guide-14.png)
 
 1. 관리자 설정에서 을 선택합니다. **사용자 관리**.
 
-PICC
+   ![](assets/msi-actions-admin-guide-15.png)
 
 1. 클릭 **작업** 을(를) 선택합니다. **사용자 초대**.
 
-PICC
+   ![](assets/msi-actions-admin-guide-16.png)
 
 1. 이메일 주소를 입력하고 을(를) 클릭합니다. **초대**.
+
+   ![](assets/msi-actions-admin-guide-17.png)
 
 >[!NOTE]
 >
@@ -151,23 +155,23 @@ PICC
 
 1. Marketo Sales 계정에서 톱니바퀴 아이콘을 클릭하고 을 선택합니다 **설정**.
 
-PICC
+   ![](assets/msi-actions-admin-guide-18.png)
 
 1. 관리자 설정에서 을 선택합니다. **사용자 관리**.
 
-PICC
+   ![](assets/msi-actions-admin-guide-19.png)
 
 1. 클릭 **작업** 을(를) 선택합니다. **CSV를 통해 사용자 초대**.
 
-PICC
+   ![](assets/msi-actions-admin-guide-20.png)
 
 1. 컴퓨터에서 CSV를 찾아 선택한 다음 를 클릭합니다 **다음**.
 
-PICC
+   ![](assets/msi-actions-admin-guide-21.png)
 
 1. 필드가 제대로 매핑되었는지 확인하고 를 클릭합니다 **초대**.
 
-PICC
+   ![](assets/msi-actions-admin-guide-22.png)
 
 초대가 전송되면 확인 메시지가 표시됩니다.
 
