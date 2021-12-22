@@ -3,9 +3,9 @@ audience: end-user
 user-guide-title: Marketo 안내서
 user-guide-description: Marketo 제품 설명서
 feature-set: Marketo Engage
-source-git-commit: 0ed5981470998dadd5f42384cd2e9572fec94ef6
+source-git-commit: a5bc634bd3b5ec0849617a9fe366a106691ce149
 workflow-type: tm+mt
-source-wordcount: '8214'
+source-wordcount: '8208'
 ht-degree: 0%
 
 ---
@@ -548,7 +548,6 @@ ht-degree: 0%
             + [기본 Dynamics 필드 매핑](product-docs/crm-sync/microsoft-dynamics-sync/microsoft-dynamics-sync-details/default-dynamics-field-mapping.md)
             + [Microsoft Dynamics 동기화: 계정 동기화](product-docs/crm-sync/microsoft-dynamics-sync/microsoft-dynamics-sync-details/microsoft-dynamics-sync-account-sync.md)
             + [Microsoft Dynamics 동기화: 동기화 문의](product-docs/crm-sync/microsoft-dynamics-sync/microsoft-dynamics-sync-details/microsoft-dynamics-sync-contact-sync.md)
-            + [Microsoft Dynamics 동기화: 사용자 지정 엔터티 동기화](product-docs/crm-sync/microsoft-dynamics-sync/microsoft-dynamics-sync-details/microsoft-dynamics-sync-custom-entity-sync.md)
             + [사용자 지정 엔터티에 대한 동기화 활성화](product-docs/crm-sync/microsoft-dynamics-sync/microsoft-dynamics-sync-details/microsoft-dynamics-sync-custom-entity-sync/enable-sync-for-a-custom-entity.md)
             + [Microsoft Dynamics 동기화: 필드 동기화](product-docs/crm-sync/microsoft-dynamics-sync/microsoft-dynamics-sync-details/microsoft-dynamics-sync-field-sync.md)
             + [새 사용자 지정 필드에 Microsoft Dynamics와 빠른 동기화 사용](product-docs/crm-sync/microsoft-dynamics-sync/microsoft-dynamics-sync-details/microsoft-dynamics-sync-field-sync/use-quick-sync-with-microsoft-dynamics-for-a-new-custom-field.md)
