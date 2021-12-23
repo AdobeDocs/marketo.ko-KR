@@ -3,9 +3,9 @@ audience: end-user
 user-guide-title: Marketo 안내서
 user-guide-description: Marketo 제품 설명서
 feature-set: Marketo Engage
-source-git-commit: 1fba4140761561e8707abfc1a215b1f23c665393
+source-git-commit: 2568d3414c8aaec882b79442f6312bae3b9514ab
 workflow-type: tm+mt
-source-wordcount: '8208'
+source-wordcount: '8206'
 ht-degree: 0%
 
 ---
@@ -114,8 +114,8 @@ ht-degree: 0%
             + [SEO - 페이지 추가](product-docs/additional-apps/seo/pages/seo-add-pages.md)
             + [SEO - 목록에서 페이지 추가/제거](product-docs/additional-apps/seo/pages/seo-add-remove-page-from-list.md)
             + [SEO - 목록에서 페이지 문제 추가/제거](product-docs/additional-apps/seo/pages/seo-add-remove-page-issue-from-a-list.md)
-            + [SEO - 문제를 CSV로 내보내기](product-docs/additional-apps/seo/pages/seo-export-issues-to-csv.md)
-            + [SEO - 페이지 문제 제거/삭제](product-docs/additional-apps/seo/pages/seo-remove-delete-a-page-issue.md)
+            + [SEO - Export Issues to CSV](product-docs/additional-apps/seo/pages/seo-export-issues-to-csv.md)
+            + [SEO - Remove/Delete a Page Issue](product-docs/additional-apps/seo/pages/seo-remove-delete-a-page-issue.md)
             + [SEO - 페이지 제거/삭제](product-docs/additional-apps/seo/pages/seo-remove-delete-a-page.md)
             + [SEO - 페이지 이해](product-docs/additional-apps/seo/pages/seo-understanding-pages.md)
             + [SEO - 페이지 세부 사항 드릴다운 사용](product-docs/additional-apps/seo/pages/seo-using-the-page-detail-drill-down.md)
@@ -309,23 +309,23 @@ ht-degree: 0%
             + [데이터 값 변경](product-docs/core-marketo-concepts/smart-campaigns/flow-actions/change-data-value.md)
             + [필드 값 지우기](product-docs/core-marketo-concepts/smart-campaigns/flow-actions/change-data-value/clear-field-values.md)
             + [개인 파티션 변경](product-docs/core-marketo-concepts/smart-campaigns/flow-actions/change-person-partition.md)
-            + [매출 단계 변경](product-docs/core-marketo-concepts/smart-campaigns/flow-actions/change-revenue-stage.md)
-            + [점수 변경](product-docs/core-marketo-concepts/smart-campaigns/flow-actions/change-score.md)
+            + [Change Revenue Stage](product-docs/core-marketo-concepts/smart-campaigns/flow-actions/change-revenue-stage.md)
+            + [Change Score](product-docs/core-marketo-concepts/smart-campaigns/flow-actions/change-score.md)
             + [개인 변환](product-docs/core-marketo-concepts/smart-campaigns/flow-actions/convert-person.md)
             + [흐름 단계 삭제](product-docs/core-marketo-concepts/smart-campaigns/flow-actions/delete-a-flow-step.md)
             + [개인 삭제](product-docs/core-marketo-concepts/smart-campaigns/flow-actions/delete-person.md)
             + [캠페인 실행](product-docs/core-marketo-concepts/smart-campaigns/flow-actions/execute-campaign.md)
             + [레퍼러에 신용 제공](product-docs/core-marketo-concepts/smart-campaigns/flow-actions/give-credit-to-referrer.md)
             + [흥미로운 순간](product-docs/core-marketo-concepts/smart-campaigns/flow-actions/interesting-moment.md)
-            + [흐름에서 제거](product-docs/core-marketo-concepts/smart-campaigns/flow-actions/remove-from-flow.md)
+            + [Remove from Flow](product-docs/core-marketo-concepts/smart-campaigns/flow-actions/remove-from-flow.md)
             + [목록에서 제거](product-docs/core-marketo-concepts/smart-campaigns/flow-actions/remove-from-list.md)
             + [흐름 단계에서 &quot;선택 추가&quot; 재정렬](product-docs/core-marketo-concepts/smart-campaigns/flow-actions/reorder-add-choice-in-a-flow-step.md)
-            + [캠페인 요청](product-docs/core-marketo-concepts/smart-campaigns/flow-actions/request-campaign.md)
+            + [Request Campaign](product-docs/core-marketo-concepts/smart-campaigns/flow-actions/request-campaign.md)
             + [경고 보내기](product-docs/core-marketo-concepts/smart-campaigns/flow-actions/send-alert.md)
-            + [이메일 보내기](product-docs/core-marketo-concepts/smart-campaigns/flow-actions/send-email.md)
-            + [개인 세부 정보 페이지의 단일 플로우 작업](product-docs/core-marketo-concepts/smart-campaigns/flow-actions/single-flow-actions-from-person-detail-page.md)
-            + [모바일 스마트 캠페인에 대한 트리거 및 필터](product-docs/core-marketo-concepts/smart-campaigns/flow-actions/triggers-and-filters-for-mobile-smart-campaigns.md)
-            + [스마트 캠페인에서 웹 후크 사용](product-docs/core-marketo-concepts/smart-campaigns/flow-actions/use-a-webhook-in-a-smart-campaign.md)
+            + [Send Email](product-docs/core-marketo-concepts/smart-campaigns/flow-actions/send-email.md)
+            + [Single Flow Actions from Person Detail Page](product-docs/core-marketo-concepts/smart-campaigns/flow-actions/single-flow-actions-from-person-detail-page.md)
+            + [Triggers and Filters for Mobile Smart Campaigns](product-docs/core-marketo-concepts/smart-campaigns/flow-actions/triggers-and-filters-for-mobile-smart-campaigns.md)
+            + [Use a Webhook in a Smart Campaign](product-docs/core-marketo-concepts/smart-campaigns/flow-actions/use-a-webhook-in-a-smart-campaign.md)
             + [흐름 단계에서 선택 추가 사용](product-docs/core-marketo-concepts/smart-campaigns/flow-actions/use-add-choice-in-a-flow-step.md)
             + [흐름 단계에서 토큰 사용](product-docs/core-marketo-concepts/smart-campaigns/flow-actions/use-tokens-in-flow-steps.md)
             + 대기 {#wait}
@@ -355,8 +355,8 @@ ht-degree: 0%
             + [SFDC에 개인 동기화](product-docs/core-marketo-concepts/smart-campaigns/salesforce-flow-actions/sync-person-to-sfdc.md)
          + 스마트 캠페인 데이터 {#smart-campaign-data}
             + [Excel로 스마트 캠페인 결과 내보내기](product-docs/core-marketo-concepts/smart-campaigns/smart-campaign-data/export-smart-campaign-results-to-excel.md)
-            + [스마트 캠페인 결과 필터링](product-docs/core-marketo-concepts/smart-campaigns/smart-campaign-data/filter-smart-campaign-results.md)
-            + [스마트 캠페인에서 차단된 사람 보기](product-docs/core-marketo-concepts/smart-campaigns/smart-campaign-data/view-blocked-people-in-a-smart-campaign.md)
+            + [Filter Smart Campaign Results](product-docs/core-marketo-concepts/smart-campaigns/smart-campaign-data/filter-smart-campaign-results.md)
+            + [View Blocked People in a Smart Campaign](product-docs/core-marketo-concepts/smart-campaigns/smart-campaign-data/view-blocked-people-in-a-smart-campaign.md)
             + [스마트 캠페인에서 자격이 있는 사람 보기](product-docs/core-marketo-concepts/smart-campaigns/smart-campaign-data/view-qualified-people-in-a-smart-campaign.md)
             + [스마트 캠페인 구성원 보기](product-docs/core-marketo-concepts/smart-campaigns/smart-campaign-data/view-smart-campaign-members.md)
             + [스마트 캠페인 결과 보기](product-docs/core-marketo-concepts/smart-campaigns/smart-campaign-data/view-smart-campaign-results.md)
@@ -523,14 +523,13 @@ ht-degree: 0%
             + [Microsoft Dynamics용 Marketo 솔루션 업데이트](product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/update-the-marketo-solution-for-microsoft-dynamics.md)
             + [Microsoft Dynamics 동기화 유효성 검사](product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/validate-microsoft-dynamics-sync.md)
             + [조직 서비스 URL 보기](product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/view-the-organization-service-url.md)
-            + Microsoft Dynamics 2011 온-프레미스 {#microsoft-dynamics-2011-on-premises}
-               + [3단계 중 1단계: Marketo 솔루션 설치(2011 온프레미스)](product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/microsoft-dynamics-2011-on-premises/step-1-of-3-install.md)
-               + [3단계 중 2단계: Dynamics에서 Marketo 동기화 사용자 설정(2011 온프레미스)](product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/microsoft-dynamics-2011-on-premises/step-2-of-3-set-up.md)
-               + [3단계 중 3단계: Microsoft Dynamics와 Marketo 연결(2011 온프레미스)](product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/microsoft-dynamics-2011-on-premises/step-3-of-3-connect.md)
-            + Microsoft Dynamics 2013 온-프레미스 {#microsoft-dynamics-2013-on-premises}
-               + [3단계 중 1단계: Dynamics(2013 온프레미스)에 Marketo 솔루션 설치](product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/microsoft-dynamics-2013-on-premises/step-1-of-3-install.md)
-               + [3단계 중 2단계: Marketo에 대한 동기화 사용자 구성(2013 온프레미스)](product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/microsoft-dynamics-2013-on-premises/step-2-of-3-configure.md)
-               + [3단계 중 3단계: Marketo 및 Dynamics 연결(2013 온-프레미스)](product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/microsoft-dynamics-2013-on-premises/step-3-of-3-connect.md)
+            + 이전 버전에 연결 {#connecting-to-legacy-versions}
+               + [3단계 중 1단계: Marketo 솔루션 설치(2011 온프레미스)](product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/connecting-to-legacy-versions/step-1-of-3-install-2011.md)
+               + [3단계 중 2단계: Dynamics에서 Marketo 동기화 사용자 설정(2011 온프레미스)](product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/connecting-to-legacy-versions/step-2-of-3-set-up-2011.md)
+               + [3단계 중 3단계: Microsoft Dynamics와 Marketo 연결(2011 온프레미스)](product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/connecting-to-legacy-versions/step-3-of-3-connect-2011.md)
+               + [3단계 중 1단계: Dynamics(2013 온프레미스)에 Marketo 솔루션 설치](product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/connecting-to-legacy-versions/step-1-of-3-install-2013.md)
+               + [3단계 중 2단계: Marketo에 대한 동기화 사용자 구성(2013 온프레미스)](product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/connecting-to-legacy-versions/step-2-of-3-configure-2013.md)
+               + [3단계 중 3단계: Marketo 및 Dynamics 연결(2013 온-프레미스)](product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/connecting-to-legacy-versions/step-3-of-3-connect-2013.md)
             + Microsoft Dynamics 2015 온-프레미스/2016 Dynamics 365 온-프레미스 {#microsoft-dynamics-2015-on-premises-2016-dynamics-365-on-premises}
                + [3단계 중 1단계: Marketo 솔루션 설치 - 2015 온-프레미스/2016 Dynamics 365 온-프레미스](product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/microsoft-dynamics-2015-on-premises-2016-dynamics-365-on-premises/step-1-of-3-install.md)
                + [3단계 중 2단계: Dynamics 2015 온-프레미스/2016 Dynamics 365 온-프레미스에서 Marketo 동기화 사용자 설정](product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/microsoft-dynamics-2015-on-premises-2016-dynamics-365-on-premises/step-2-of-3-set-up.md)
@@ -780,7 +779,7 @@ ht-degree: 0%
                + [템플릿 4C](product-docs/demand-generation/landing-pages/landing-page-templates/guided-landing-page-templates/template-4c.md)
                + [템플릿 5A](product-docs/demand-generation/landing-pages/landing-page-templates/guided-landing-page-templates/template-5a.md)
                + [템플릿 5B](product-docs/demand-generation/landing-pages/landing-page-templates/guided-landing-page-templates/template-5b.md)
-               + [템플릿 5C](product-docs/demand-generation/landing-pages/landing-page-templates/guided-landing-page-templates/template-5c.md)
+               + [Template 5C](product-docs/demand-generation/landing-pages/landing-page-templates/guided-landing-page-templates/template-5c.md)
                + [템플릿 5D](product-docs/demand-generation/landing-pages/landing-page-templates/guided-landing-page-templates/template-5d.md)
                + [템플릿 5E](product-docs/demand-generation/landing-pages/landing-page-templates/guided-landing-page-templates/template-5e.md)
                + [템플릿 6A](product-docs/demand-generation/landing-pages/landing-page-templates/guided-landing-page-templates/template-6a.md)
@@ -965,33 +964,33 @@ ht-degree: 0%
             + [스트림 컨텐츠 활성화 및 비활성화](product-docs/email-marketing/drip-nurturing/using-stream-content/activate-and-deactivate-stream-content.md)
             + [스트림 컨텐츠 보관 및 보관 해제](product-docs/email-marketing/drip-nurturing/using-stream-content/archive-and-unarchive-stream-content.md)
             + [스트림 컨텐츠의 가용성 편집](product-docs/email-marketing/drip-nurturing/using-stream-content/edit-availability-of-stream-content.md)
-            + [스트림 컨텐츠 우선 순위 지정](product-docs/email-marketing/drip-nurturing/using-stream-content/prioritize-stream-content.md)
-            + [스트림 컨텐츠 제거](product-docs/email-marketing/drip-nurturing/using-stream-content/remove-stream-content.md)
-      + 이메일 프로그램 {#email-programs}
+            + [Prioritize Stream Content](product-docs/email-marketing/drip-nurturing/using-stream-content/prioritize-stream-content.md)
+            + [Remove Stream Content](product-docs/email-marketing/drip-nurturing/using-stream-content/remove-stream-content.md)
+      + Email Programs {#email-programs}
          + 이메일 프로그램 만들기 {#creating-an-email-program}
             + [이메일 프로그램 만들기](product-docs/email-marketing/email-programs/creating-an-email-program/create-an-email-program.md)
-            + [이메일 프로그램 이해](product-docs/email-marketing/email-programs/creating-an-email-program/understanding-email-programs.md)
+            + [Understanding Email Programs](product-docs/email-marketing/email-programs/creating-an-email-program/understanding-email-programs.md)
          + 이메일 프로그램 작업 {#email-program-actions}
             + [이메일 프로그램 중단](product-docs/email-marketing/email-programs/email-program-actions/abort-email-program.md)
-            + [이메일 프로그램 승인/승인 취소](product-docs/email-marketing/email-programs/email-program-actions/approve-unapprove-an-email-program.md)
+            + [Approve/Unapprove an Email Program](product-docs/email-marketing/email-programs/email-program-actions/approve-unapprove-an-email-program.md)
             + [기존 이메일 선택](product-docs/email-marketing/email-programs/email-program-actions/choose-an-existing-email.md)
             + [이메일 프로그램용 이메일 만들기](product-docs/email-marketing/email-programs/email-program-actions/create-an-email-for-an-email-program.md)
-            + 이메일 테스트 - A/B 테스트 {#email-test-a-b-test}
+            + Email Test - A/B Test {#email-test-a-b-test}
                + [A/B 테스트 추가](product-docs/email-marketing/email-programs/email-program-actions/email-test-a-b-test/add-an-a-b-test.md)
                + [A/B 테스트 취소](product-docs/email-marketing/email-programs/email-program-actions/email-test-a-b-test/cancel-the-a-b-test.md)
                + [A/B 테스트 승자 기준 정의](product-docs/email-marketing/email-programs/email-program-actions/email-test-a-b-test/define-the-a-b-test-winner-criteria.md)
                + [A/B 테스트 예약](product-docs/email-marketing/email-programs/email-program-actions/email-test-a-b-test/schedule-the-a-b-test.md)
                + [이메일 테스트 옵션 이해](product-docs/email-marketing/email-programs/email-program-actions/email-test-a-b-test/understanding-email-testing-options.md)
                + [A/B 테스트 &quot;날짜/시간&quot; 사용](product-docs/email-marketing/email-programs/email-program-actions/email-test-a-b-test/use-date-time-a-b-testing.md)
-               + [&quot;보낸 사람 주소&quot; A/B 테스트 사용](product-docs/email-marketing/email-programs/email-program-actions/email-test-a-b-test/use-from-address-a-b-testing.md)
+               + [Use &quot;From Address&quot; A/B Testing](product-docs/email-marketing/email-programs/email-program-actions/email-test-a-b-test/use-from-address-a-b-testing.md)
                + [&quot;제목란&quot; A/B 테스트 사용](product-docs/email-marketing/email-programs/email-program-actions/email-test-a-b-test/use-subject-line-a-b-testing.md)
                + [이메일 프로그램 대시보드 - A/B 테스트 보기 사용](product-docs/email-marketing/email-programs/email-program-actions/email-test-a-b-test/use-the-email-program-dashboard-a-b-test-view.md)
                + [전체 이메일&quot; A/B 테스트 사용](product-docs/email-marketing/email-programs/email-program-actions/email-test-a-b-test/use-whole-email-a-b-testing.md)
             + [이메일 프로그램에서 통신 제한 활성화/비활성화](product-docs/email-marketing/email-programs/email-program-actions/enable-disable-communication-limits-in-an-email-program.md)
-            + [이메일 프로그램 시작 시기](product-docs/email-marketing/email-programs/email-program-actions/head-start-for-email-programs.md)
+            + [Head Start for Email Programs](product-docs/email-marketing/email-programs/email-program-actions/head-start-for-email-programs.md)
             + [이메일 이동](product-docs/email-marketing/email-programs/email-program-actions/move-an-email.md)
-            + [이메일 프로그램 예약](product-docs/email-marketing/email-programs/email-program-actions/schedule-your-email-program.md)
-            + 수신자 시간대를 사용한 예약 {#scheduling-with-recipient-time-zone}
+            + [Schedule Your Email Program](product-docs/email-marketing/email-programs/email-program-actions/schedule-your-email-program.md)
+            + Scheduling with Recipient Time Zone {#scheduling-with-recipient-time-zone}
                + [수신자 시간대로 예약된 이메일 프로그램의 배달 중단](product-docs/email-marketing/email-programs/email-program-actions/scheduling-with-recipient-time-zone/abort-delivery-of-email-programs-scheduled-with-recipient-time-zone.md)
                + [수신자 시간대로 이메일 프로그램 예약](product-docs/email-marketing/email-programs/email-program-actions/scheduling-with-recipient-time-zone/schedule-email-programs-with-recipient-time-zone.md)
                + [수신자 시간대 이해](product-docs/email-marketing/email-programs/email-program-actions/scheduling-with-recipient-time-zone/understanding-recipient-time-zone.md)
@@ -1409,14 +1408,14 @@ ht-degree: 0%
             + [Salesforce1에서 Marketo Sales Insight 설치 및 구성](product-docs/marketo-sales-insight/msi-for-salesforce/msi-for-mobile/install-and-configure-marketo-sales-insight-in-salesforce1.md)
             + [Salesforce의 흥미로운 순간1](product-docs/marketo-sales-insight/msi-for-salesforce/msi-for-mobile/interesting-moments-in-salesforce1.md)
             + [Salesforce에서 리드 피드 보기1](product-docs/marketo-sales-insight/msi-for-salesforce/msi-for-mobile/seeing-lead-feed-in-salesforce1.md)
-            + [Salesforce1에서 Marketo 이메일 및 캠페인 및 Watchlist 작업 보내기](product-docs/marketo-sales-insight/msi-for-salesforce/msi-for-mobile/send-marketo-email-and-campaign-and-watchlist-actions-in-salesforce1.md)
+            + [Send Marketo Email and Campaign and Watchlist Actions in Salesforce1](product-docs/marketo-sales-insight/msi-for-salesforce/msi-for-mobile/send-marketo-email-and-campaign-and-watchlist-actions-in-salesforce1.md)
          + 업그레이드 {#upgrading}
             + [MSI 패키지 업그레이드](product-docs/marketo-sales-insight/msi-for-salesforce/upgrading/upgrading-your-msi-package.md)
-      + MSI Outlook 플러그인 {#msi-outlook-plugin}
-         + [Marketo Outlook 플러그인 인증](product-docs/marketo-sales-insight/msi-outlook-plugin/authorize-the-marketo-outlook-plugin.md)
+      + MSI Outlook Plugin {#msi-outlook-plugin}
+         + [Authorize the Marketo Outlook Plugin](product-docs/marketo-sales-insight/msi-outlook-plugin/authorize-the-marketo-outlook-plugin.md)
          + [Enterprise 키를 사용하여 Outlook용 Marketo 추가 기능 설치](product-docs/marketo-sales-insight/msi-outlook-plugin/install-the-marketo-add-in-for-outlook-with-an-enterprise-key.md)
-         + [등록 코드와 함께 Outlook용 Marketo 이메일 추가 기능 설치](product-docs/marketo-sales-insight/msi-outlook-plugin/install-the-marketo-email-add-in-for-outlook-with-a-registration-code.md)
-         + [Marketo 이메일 추가 기능 라이선스를 발행합니다.](product-docs/marketo-sales-insight/msi-outlook-plugin/issue-a-marketo-email-add-in-license.md)
+         + [Install the Marketo Email Add-in for Outlook with a Registration Code](product-docs/marketo-sales-insight/msi-outlook-plugin/install-the-marketo-email-add-in-for-outlook-with-a-registration-code.md)
+         + [Issue a Marketo Email Add-in License](product-docs/marketo-sales-insight/msi-outlook-plugin/issue-a-marketo-email-add-in-license.md)
          + [IT별 Marketo Outlook 플러그인 설치](product-docs/marketo-sales-insight/msi-outlook-plugin/marketo-outlook-plugin-installation-by-it.md)
          + [IT별 Marketo Outlook 플러그인 제거](product-docs/marketo-sales-insight/msi-outlook-plugin/marketo-outlook-plugin-uninstall-by-it.md)
          + [Outlook용 전자 메일 추가 기능을 사용하여 전자 메일 보내기 및 추적](product-docs/marketo-sales-insight/msi-outlook-plugin/send-and-track-an-email-with-the-email-add-in-for-outlook.md)
@@ -1446,7 +1445,7 @@ ht-degree: 0%
             + [인앱 메시지 텍스트 만들기](product-docs/mobile-marketing/in-app-messages/creating-in-app-messages/create-in-app-message-text.md)
             + [해제 단추 설정 및 메시지 승인](product-docs/mobile-marketing/in-app-messages/creating-in-app-messages/set-up-the-dismiss-button-and-approve-the-message.md)
             + [인앱 메시지 배경 설정](product-docs/mobile-marketing/in-app-messages/creating-in-app-messages/set-up-the-in-app-message-background.md)
-            + [인앱 메시지 단추 설정](product-docs/mobile-marketing/in-app-messages/creating-in-app-messages/set-up-the-in-app-message-button.md)
+            + [Set up the In-App Message Button](product-docs/mobile-marketing/in-app-messages/creating-in-app-messages/set-up-the-in-app-message-button.md)
          + 인앱 메시지 보내기 {#sending-your-in-app-message}
             + [인앱 메시지 보내기](product-docs/mobile-marketing/in-app-messages/sending-your-in-app-message/send-your-in-app-message.md)
             + [인앱 메시지 승인](product-docs/mobile-marketing/in-app-messages/sending-your-in-app-message/approve-your-in-app-message.md)
