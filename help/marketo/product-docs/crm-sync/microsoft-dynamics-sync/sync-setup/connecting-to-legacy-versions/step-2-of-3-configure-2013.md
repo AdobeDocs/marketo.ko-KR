@@ -3,9 +3,9 @@ unique-page-id: 3571816
 description: 3단계 중 2단계 - Marketo에 대한 동기화 사용자 구성(2013 온프레미스) - Marketo 문서 - 제품 설명서
 title: 3단계 중 2단계 - Marketo에 대한 동기화 사용자 구성(2013 온프레미스)
 exl-id: 27c4407e-0623-4ae0-8aa1-0b28c6c5c4f8
-source-git-commit: f130fa1187ccead6573f76ff947e55d42f6962e4
+source-git-commit: 64c5f03bd2320bfbffd257684d1482e995def83a
 workflow-type: tm+mt
-source-wordcount: '0'
+source-wordcount: '354'
 ht-degree: 0%
 
 ---
@@ -52,7 +52,7 @@ Marketo 동기화 사용자 역할만 Marketo 동기화 사용자에게 할당�
 
    >[!TIP]
    >
-   >역할이 표시되지 않으면 로 돌아갑니다 [3단계 중 1단계](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/microsoft-dynamics-2013-on-premises/step-1-of-3-install.md) 솔루션을 가져옵니다.
+   >역할이 표시되지 않으면 로 돌아갑니다 [3단계 중 1단계](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/connecting-to-legacy-versions/step-1-of-3-install-2013.md) 솔루션을 가져옵니다.
 
    >[!NOTE]
    >
@@ -68,7 +68,7 @@ Marketo 동기화 사용자 역할만 Marketo 동기화 사용자에게 할당�
 
    >[!NOTE]
    >
-   >If **Marketo 구성** 이(가) 없습니다. 페이지를 새로 고쳐 보십시오. 문제가 계속되면 [Marketo 솔루션 게시](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/microsoft-dynamics-2013-on-premises/step-1-of-3-install.md) 다시 시도하거나 로그아웃한 후 다시 로그인하십시오.
+   >If **Marketo 구성** 이(가) 없습니다. 페이지를 새로 고쳐 보십시오. 문제가 계속되면 [Marketo 솔루션 게시](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/connecting-to-legacy-versions/step-1-of-3-install-2013.md) 다시 시도하거나 로그아웃한 후 다시 로그인하십시오.
 
 1. 클릭 **기본값**.
 
@@ -96,4 +96,4 @@ Marketo 동기화 사용자 역할만 Marketo 동기화 사용자에게 할당�
 
 >[!MORELIKETHIS]
 >
->[3단계 중 3단계: Marketo 및 Dynamics 연결(2013 온-프레미스)](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/microsoft-dynamics-2013-on-premises/step-3-of-3-connect.md)
+>[3단계 중 3단계: Marketo 및 Dynamics 연결(2013 온-프레미스)](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/connecting-to-legacy-versions/step-3-of-3-connect-2013.md)

@@ -3,7 +3,7 @@ unique-page-id: 3571805
 description: 3단계 중 1단계 - Marketo 솔루션 설치(2011 온프레미스) - Marketo 문서 - 제품 설명서
 title: 3단계 중 1단계 - Marketo 솔루션 설치(2011 온프레미스)
 exl-id: 6e559b10-5273-4dc2-b98d-49c509cbeff7
-source-git-commit: 2568d3414c8aaec882b79442f6312bae3b9514ab
+source-git-commit: 64c5f03bd2320bfbffd257684d1482e995def83a
 workflow-type: tm+mt
 source-wordcount: '291'
 ht-degree: 0%
@@ -94,4 +94,4 @@ Microsoft Dynamics 온-프레미스 및 Marketo을 동기화하려면 먼저 Dyn
 
 >[!MORELIKETHIS]
 >
->[3단계 중 2단계: Dynamics에서 Marketo 동기화 사용자 설정(2011 온프레미스)](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/microsoft-dynamics-2011-on-premises/step-2-of-3-set-up.md)
+>[3단계 중 2단계: Dynamics에서 Marketo 동기화 사용자 설정(2011 온프레미스)](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/connecting-to-legacy-versions/step-2-of-3-set-up.md)
