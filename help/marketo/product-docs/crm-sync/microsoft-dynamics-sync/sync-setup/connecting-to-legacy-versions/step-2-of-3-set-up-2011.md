@@ -3,7 +3,7 @@ unique-page-id: 3571807
 description: 3단계 중 2단계 - Dynamics에서 Marketo 동기화 사용자 설정(2011 온프레미스) - Marketo 문서 - 제품 설명서
 title: 3단계 중 2단계 - Dynamics에서 Marketo 동기화 사용자 설정(2011 온프레미스)
 exl-id: 807c8902-24a6-48b6-a5c9-96a72764fdef
-source-git-commit: 2568d3414c8aaec882b79442f6312bae3b9514ab
+source-git-commit: f130fa1187ccead6573f76ff947e55d42f6962e4
 workflow-type: tm+mt
 source-wordcount: '369'
 ht-degree: 0%
@@ -16,7 +16,7 @@ ht-degree: 0%
 
 >[!PREREQUISITES]
 >
->[3단계 중 1단계: Marketo 솔루션 설치(2011 온프레미스)](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/microsoft-dynamics-2011-on-premises/step-1-of-3-install.md)
+>[3단계 중 1단계: Marketo 솔루션 설치(2011 온프레미스)](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/connecting-to-legacy-versions/step-1-of-3-install-2011.md)
 
 ## 동기화 사용자 역할 할당 {#assign-sync-user-role}
 

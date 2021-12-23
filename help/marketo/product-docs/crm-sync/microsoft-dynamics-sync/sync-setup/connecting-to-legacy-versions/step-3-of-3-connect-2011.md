@@ -3,7 +3,7 @@ unique-page-id: 3571809
 description: 3단계 중 3단계 - Microsoft Dynamics와 Marketo 연결(2011 온프레미스) - Marketo 문서 - 제품 설명서
 title: 3단계 중 3단계 - Microsoft Dynamics와 Marketo 연결(2011 온프레미스)
 exl-id: e6a5d49d-025a-4899-9e92-7a4c32086c67
-source-git-commit: 2568d3414c8aaec882b79442f6312bae3b9514ab
+source-git-commit: f130fa1187ccead6573f76ff947e55d42f6962e4
 workflow-type: tm+mt
 source-wordcount: '364'
 ht-degree: 0%
@@ -16,8 +16,8 @@ ht-degree: 0%
 
 >[!PREREQUISITES]
 >
->* [3단계 중 1단계: Marketo 솔루션 설치(2011 온프레미스)](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/microsoft-dynamics-2011-on-premises/step-1-of-3-install.md)
->* [3단계 중 2단계: Dynamics에서 Marketo 동기화 사용자 설정(2011 온프레미스)](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/microsoft-dynamics-2011-on-premises/step-2-of-3-set-up.md)
+>* [3단계 중 1단계: Marketo 솔루션 설치(2011 온프레미스)](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/connecting-to-legacy-versions/step-1-of-3-install-2011.md)
+>* [3단계 중 2단계: Dynamics에서 Marketo 동기화 사용자 설정(2011 온프레미스)](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/connecting-to-legacy-versions/step-2-of-3-set-up-2011.md)
 
 
 >[!NOTE]
