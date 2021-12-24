@@ -3,7 +3,7 @@ unique-page-id: 7504739
 description: Microsoft Dynamics 2015용 Marketo 설치 2/3 - Marketo 문서 - 제품 설명서
 title: Microsoft Dynamics 2015 온-프레미스 2/3단계용 Marketo 설치
 exl-id: 39f00749-4ba3-47f1-b2e3-72cbaa7caf2e
-source-git-commit: 1e20fdd1d3c6bba265ceabe499e0d7a4babf4ef1
+source-git-commit: 7b1f0d0d45bbfe3d8b781282e0a4ef1884a2bf40
 workflow-type: tm+mt
 source-wordcount: '341'
 ht-degree: 0%
@@ -16,7 +16,7 @@ ht-degree: 0%
 
 >[!PREREQUISITES]
 >
->[Microsoft Dynamics 2015 온-프레미스 3단계 1용 Marketo 설치](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/microsoft-dynamics-2015-on-premises-2016-dynamics-365-on-premises/step-1-of-3-install.md)
+>[Microsoft Dynamics 2015 온-프레미스 3단계 1용 Marketo 설치](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/connecting-to-legacy-versions/step-1-of-3-install-2015.md)
 
 ## 동기화 사용자 역할 할당 {#assign-sync-user-role}
 

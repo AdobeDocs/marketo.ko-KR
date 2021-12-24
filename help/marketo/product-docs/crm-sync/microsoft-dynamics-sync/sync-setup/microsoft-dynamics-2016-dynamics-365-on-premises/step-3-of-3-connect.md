@@ -1,9 +1,7 @@
 ---
-unique-page-id: 7504744
 description: Microsoft Dynamics 2016/Dynamics 365 온-프레미스 3단계 - Marketo 문서 - 제품 설명서용 Marketo 설치
 title: Microsoft Dynamics 2016/Dynamics 365 온-프레미스 3단계용 Marketo 설치
-exl-id: 054bf725-7a80-4114-8360-2d86e2e33dd7
-source-git-commit: 1e20fdd1d3c6bba265ceabe499e0d7a4babf4ef1
+source-git-commit: 7b1f0d0d45bbfe3d8b781282e0a4ef1884a2bf40
 workflow-type: tm+mt
 source-wordcount: '390'
 ht-degree: 0%
