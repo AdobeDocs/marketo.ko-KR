@@ -1,9 +1,10 @@
 ---
 description: Microsoft Dynamics 2016/Dynamics 365 온-프레미스 2단계 - Marketo 문서 - 제품 설명서
 title: Microsoft Dynamics 2016/Dynamics 365 온-프레미스 3단계용 Marketo 설치
-source-git-commit: 7b1f0d0d45bbfe3d8b781282e0a4ef1884a2bf40
+exl-id: c789b977-7ada-4f5d-8488-e1b58963f7e3
+source-git-commit: 3fb93520a653109845c3b40aba20304c6163214f
 workflow-type: tm+mt
-source-wordcount: '347'
+source-wordcount: '492'
 ht-degree: 0%
 
 ---
@@ -15,6 +16,52 @@ ht-degree: 0%
 >[!PREREQUISITES]
 >
 >[Microsoft Dynamics 2016/Dynamics 365 온-프레미스 3단계용 Marketo 설치](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/microsoft-dynamics-2016-dynamics-365-on-premises/step-1-of-3-install.md)
+
+## 새 사용자 만들기 {#create-a-new-user}
+
+1. Dynamics에 로그인합니다. 설정 아이콘을 클릭하고 고급 설정을 선택합니다.
+
+   ![](assets/step-2-of-3-marketo-on-premises-2016-1.png)
+
+1. 클릭 **설정** 을(를) 선택합니다. **보안**.
+
+   ![](assets/step-2-of-3-marketo-on-premises-2016-2.png)
+
+1. 클릭 **사용자**.
+
+   ![](assets/step-2-of-3-marketo-on-premises-2016-3.png)
+
+1. 클릭 **새로 만들기**.
+
+   ![](assets/step-2-of-3-marketo-on-premises-2016-4.png)
+
+1. 클릭 **사용자 추가 및 라이선스**. 새 탭이 열립니다.
+
+   ![](assets/step-2-of-3-marketo-on-premises-2016-5.png)
+
+1. 클릭 **관리** 를 클릭합니다. 다른 새 탭이 열립니다.
+
+   ![](assets/step-2-of-3-marketo-on-premises-2016-6.png)
+
+1. 클릭 **사용자 추가**.
+
+   ![](assets/step-2-of-3-marketo-on-premises-2016-7.png)
+
+1. 모든 정보를 입력합니다. 완료되면 을(를) 클릭합니다. **추가**.
+
+   ![](assets/step-2-of-3-marketo-on-premises-2016-8.png)
+
+   >[!NOTE]
+   >
+   >이 이름은 기존 CRM 사용자 계정이 아니라 전용 동기화 사용자여야 합니다. 실제 이메일 주소일 필요는 없습니다.
+
+1. 새 사용자 자격 증명을 받을 이메일을 입력하고 이메일 보내기 를 클릭하고 닫기 를 클릭합니다.
+
+   ![](assets/step-2-of-3-marketo-on-premises-2016-9.png)
+
+## 새 클라이언트 응용 프로그램 만들기 {#create-a-new-client-application}
+
+다음 단계를 수행합니다. [이 Microsoft 문서](https://docs.microsoft.com/en-us/windows-server/identity/ad-fs/development/enabling-oauth-confidential-clients-with-ad-fs#create-an-application-group-in-ad-fs-2016-or-later) 새 클라이언트 응용 프로그램을 만들고 권한을 부여하려면 다음을 수행하십시오. Dynamics 클라이언트 응용 프로그램의 클라이언트 ID/암호를 참고하십시오.
 
 ## 동기화 사용자 역할 할당 {#assign-sync-user-role}
 
