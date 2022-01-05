@@ -1,9 +1,9 @@
 ---
 description: 3단계 중 1단계 - S2S 연결을 사용하여 Marketo 솔루션 설치 - Marketo 문서 - 제품 설명서
 title: 3단계 중 1단계 - S2S 연결을 사용하여 Marketo 솔루션 설치
-source-git-commit: 9ee27e22fec4e0ab85c193be2ea99d3c8b40568b
+source-git-commit: 17cacaa56a437a568bd0d2cc23020f3f880eaf52
 workflow-type: tm+mt
-source-wordcount: '0'
+source-wordcount: '263'
 ht-degree: 0%
 
 ---
@@ -15,7 +15,6 @@ Microsoft Dynamics 365와 Marketo을 동기화하려면 먼저 Dynamics에서 Ma
 >[!CAUTION]
 >
 >* 초기 동기화가 완료되기 전에 사용자 지정 엔티티 동기화를 활성화하지 마십시오. 초기 동기화가 완료되면 이메일을 통해 알림을 받게 됩니다.
->* Dynamics Sync에 대해 Multi-Factor Authentication(MFA)을 사용하도록 설정한 경우 Dynamics가 Marketo과 제대로 동기화되려면 MFA를 비활성화해야 합니다. 자세한 내용은 [Marketo 지원](https://nation.marketo.com/t5/Support/ct-p/Support).
 
 
 >[!NOTE]

@@ -1,9 +1,9 @@
 ---
 description: 3단계 중 2단계 - 리소스 소유자 암호 제어 연결을 사용하여 Marketo 솔루션 설정 - Marketo 문서 - 제품 설명서
 title: 3단계 중 2단계 - 리소스 소유자 암호 제어 연결을 사용하여 Marketo 솔루션 설정
-source-git-commit: e46673423bdb2757e8a9f97dc702d32d02200e6e
+source-git-commit: 17cacaa56a437a568bd0d2cc23020f3f880eaf52
 workflow-type: tm+mt
-source-wordcount: '490'
+source-wordcount: '477'
 ht-degree: 0%
 
 ---
@@ -128,10 +128,10 @@ Marketo 동기화 사용자 역할만 Marketo 동기화 사용자에게 할당�
 
 ## 3단계로 진행하기 전 {#before-proceeding-to-step}
 
-    * 동기화하려는 레코드 수를 제한하려면 [사용자 지정 동기화 필터 설정](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/create-a-custom-dynamics-sync-filter.md)을 지금 설정합니다.
-    * [Microsoft Dynamics 동기화 유효성 검사](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/validate-microsoft-dynamics-sync.md) 프로세스를 실행합니다. 초기 설정이 올바르게 수행되었는지 확인합니다.
-    * Microsoft Dynamics CRM에서 Marketo 동기화 사용자에게 로그인합니다.
+* 동기화하는 레코드 수를 제한하려면 [사용자 지정 동기화 필터 설정](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/create-a-custom-dynamics-sync-filter.md) 지금
+* 를 실행합니다. [Microsoft Dynamics 동기화 유효성 검사](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/validate-microsoft-dynamics-sync.md) 프로세스. 초기 설정이 올바르게 수행되었는지 확인합니다.
+* Microsoft Dynamics CRM에서 Marketo 동기화 사용자에게 로그인합니다.
 
->[!MORELIKETHIS]
->
->[4단계 중 3단계: 리소스 소유자 암호 제어 연결과 Marketo 솔루션 연결](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/microsoft-dynamics-365-with-ropc-connection/step-3-of-4-connect.md)
+   >[!MORELIKETHIS]
+   >
+   >[4단계 중 3단계: 리소스 소유자 암호 제어 연결과 Marketo 솔루션 연결](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/microsoft-dynamics-365-with-ropc-connection/step-3-of-4-set-up.md)

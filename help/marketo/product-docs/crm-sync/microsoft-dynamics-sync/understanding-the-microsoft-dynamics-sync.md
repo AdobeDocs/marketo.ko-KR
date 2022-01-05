@@ -3,7 +3,7 @@ unique-page-id: 10098625
 description: Microsoft Dynamics 동기화 이해 - Marketo 문서 - 제품 설명서
 title: Microsoft Dynamics 동기화 이해
 exl-id: bc87f744-7f1c-421b-8507-1a6e23d27fa2
-source-git-commit: 297ff02ba2c1173cabfecdef283e97c87c922480
+source-git-commit: 17cacaa56a437a568bd0d2cc23020f3f880eaf52
 workflow-type: tm+mt
 source-wordcount: '242'
 ht-degree: 0%
@@ -42,7 +42,7 @@ Marketo과 Dynamics 간의 동기화는 리드와 연락처에 대한 양방향 
 * [기회](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/microsoft-dynamics-sync-details/microsoft-dynamics-sync-opportunity-sync.md)
 * [사용자 지정 엔티티](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/microsoft-dynamics-sync-details/enable-sync-for-a-custom-entity.md)
 
-다음 [Dynamics용 Marketo에 입력하는 자격 증명](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/microsoft-dynamics-365/step-2-of-3-set-up.md) 데이터를 동기화하는 데 사용됩니다.
+다음 [Dynamics용 Marketo에 입력하는 자격 증명](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/microsoft-dynamics-365-with-ropc-connection/step-2-of-4-set-up.md) 데이터를 동기화하는 데 사용됩니다.
 
 >[!NOTE]
 >
