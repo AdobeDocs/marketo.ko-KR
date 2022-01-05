@@ -1,9 +1,9 @@
 ---
 description: 4단계 - Marketo 솔루션을 리소스 소유자 암호 제어 연결과 연결 - Marketo 문서 - 제품 설명서
 title: 4단계 중 4단계 - Marketo 솔루션을 리소스 소유자 암호 제어 연결과 연결
-source-git-commit: e46673423bdb2757e8a9f97dc702d32d02200e6e
+source-git-commit: 598390517dea96b0503fd9c0cdfd47bd7617b48a
 workflow-type: tm+mt
-source-wordcount: '407'
+source-wordcount: '456'
 ht-degree: 0%
 
 ---
@@ -22,6 +22,10 @@ ht-degree: 0%
 >[!NOTE]
 >
 >**관리 권한 필요**
+
+>[!IMPORTANT]
+>
+>기본 인증에서 OAuth로 업그레이드하는 경우 [Marketo 지원](https://nation.marketo.com/t5/support/ct-p/Support) 추가 매개 변수 업데이트에 대한 도움말을 참조하십시오. 이 기능을 사용하면 새 자격 증명을 입력하고 동기화를 다시 사용할 수 있을 때까지 동기화가 일시적으로 중지됩니다. 이전 인증 모드로 되돌리려면 기능을 비활성화할 수 있습니다(2022년 4월까지).
 
 ## Dynamics 동기화 사용자 정보 입력 {#enter-dynamics-sync-user-information}
 
@@ -43,18 +47,19 @@ ht-degree: 0%
 
    >[!CAUTION]
    >
-   >제출 후 후속 스키마 변경 사항을 되돌릴 수 없으므로 자격 증명이 올바른지 확인하십시오. 잘못된 자격 증명이 저장된 경우 새 Marketo 구독을 받아야 합니다.
+   >제출 후 후속 스키마 변경 사항을 되돌릴 수 없으므로 조직 URL이 올바른지 확인하십시오. 잘못된 조직 URL을 사용하는 경우 새 Marketo 구독을 받아야 합니다. URL을 모르면 [여기에서 찾는 방법 알아보기](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/view-the-organization-service-url.md).
 
-1. 을(를) 입력합니다. **사용자 이름**, **암호**, 및 Microsoft Dynamics **URL**. 클릭 **저장** 완료 시.
+   >[!NOTE]
+   >
+   >새 자격 증명을 입력하기 전에 다음을 수행할 수 있습니다 [여기에서 확인하십시오.](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/validate-microsoft-dynamics-sync.md).
+
+1. 을(를) 입력합니다. **사용자 이름**, **암호**, **클라이언트 ID**, **클라이언트 암호**, 및 Microsoft Dynamics **URL**. 클릭 **저장** 완료 시.
 
    ![](assets/five-1.png)
 
    >[!NOTE]
    >
-   >* 2020년 10월 이전에 Marketo이 프로비저닝된 경우 클라이언트 ID 및 암호 필드는 선택 필드입니다. 그렇지 않으면 필수 사항입니다. 이 정보를 얻는 것은 사용 중인 MSD 버전에 따라 달라집니다.
-   >* Marketo의 사용자 이름은 CRM에서 동기화 사용자의 사용자 이름과 일치해야 합니다. 형식은 다음과 같습니다 `user@domain.com` 또는 DOMAIN\user.
-   >* URL을 모르면 [여기에서 찾는 방법 알아보기](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/view-the-organization-service-url.md).
-
+   >Marketo의 사용자 이름은 CRM에서 동기화 사용자의 사용자 이름과 일치해야 합니다. 형식은 다음과 같습니다 `user@domain.com` 또는 DOMAIN\user.
 
 ## 동기화할 필드 선택 {#select-fields-to-sync}
 
