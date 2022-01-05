@@ -3,7 +3,7 @@ unique-page-id: 3571838
 description: Microsoft Dynamics 동기화 - 필드 동기화 - Marketo 문서 - 제품 설명서
 title: Microsoft Dynamics 동기화 - 필드 동기화
 exl-id: 78eef0eb-4086-45c5-bce3-a3399016f228
-source-git-commit: 17cacaa56a437a568bd0d2cc23020f3f880eaf52
+source-git-commit: 7fcbaeda589682fdb5a75b89a0abd8661181566e
 workflow-type: tm+mt
 source-wordcount: '337'
 ht-degree: 0%
@@ -30,11 +30,11 @@ Marketo에서 Dynamics로의 동기화 기능은 매우 강력합니다. 자세�
 
 ## Dynamics에서 필드를 만들었습니다. Marketo에 동기화할 수 있습니까? {#i-created-a-field-in-dynamics-can-i-sync-it-to-marketo}
 
-네, 가능합니다 [필드 동기화](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/microsoft-dynamics-365/step-4-of-4-connect.md#select-fields-to-sync) 동기화 사용자가 Dynamics에서 해당 항목에 액세스할 수 있는 한.
+네, 가능합니다 [필드 동기화](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/microsoft-dynamics-365-with-ropc-connection/step-4-of-4-connect.md#select-fields-to-sync) 동기화 사용자가 Dynamics에서 해당 항목에 액세스할 수 있는 한.
 
 ## Marketo에 동기화할 필드는 무엇입니까? {#what-fields-will-sync-to-marketo}
 
-다음을 수행할 수 있습니다 [동기화할 필드 선택](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/microsoft-dynamics-365/step-4-of-4-connect.md#select-fields-to-sync) 설정하는 동안.
+다음을 수행할 수 있습니다 [동기화할 필드 선택](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/microsoft-dynamics-365-with-ropc-connection/step-4-of-4-connect.md#select-fields-to-sync) 설정하는 동안.
 
 ## Marketo 및 Dynamics가 동기화된 후 사용자 지정 필드를 추가해야 하는 경우 어떻게 합니까? {#what-if-i-need-to-add-a-custom-field-after-marketo-and-dynamics-are-synced}
 

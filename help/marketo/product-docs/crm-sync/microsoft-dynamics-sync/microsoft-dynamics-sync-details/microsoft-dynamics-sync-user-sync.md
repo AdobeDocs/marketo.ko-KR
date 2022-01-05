@@ -3,7 +3,7 @@ unique-page-id: 3571840
 description: Microsoft Dynamics 동기화 - 사용자 동기화 - Marketo 문서 - 제품 설명서
 title: Microsoft Dynamics 동기화 - 사용자 동기화
 exl-id: d642d4d2-2beb-42c6-a6b2-3da5df1cd9c8
-source-git-commit: 17cacaa56a437a568bd0d2cc23020f3f880eaf52
+source-git-commit: 7fcbaeda589682fdb5a75b89a0abd8661181566e
 workflow-type: tm+mt
 source-wordcount: '154'
 ht-degree: 0%
@@ -26,4 +26,4 @@ Marketo이 전체 데이터베이스를 Dynamics와 동기화하는 것을 알�
 
 ## 어떤 필드가 Marketo에 동기화됩니까? {#which-fields-will-sync-to-marketo}
 
-다음을 수행할 수 있습니다 [동기화할 필드 선택](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/microsoft-dynamics-365/step-4-of-4-connect.md#select-fields-to-sync) 설정하는 동안. 그러나 Marketo은 Dynamics 동기화 사용자가 액세스할 수 있는 필드만 동기화합니다.
+다음을 수행할 수 있습니다 [동기화할 필드 선택](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/microsoft-dynamics-365-with-ropc-connection/step-4-of-4-connect.md#select-fields-to-sync) 설정하는 동안. 그러나 Marketo은 Dynamics 동기화 사용자가 액세스할 수 있는 필드만 동기화합니다.

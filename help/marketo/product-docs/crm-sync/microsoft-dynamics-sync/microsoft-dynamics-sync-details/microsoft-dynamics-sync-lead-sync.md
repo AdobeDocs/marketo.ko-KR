@@ -3,7 +3,7 @@ unique-page-id: 3571848
 description: Microsoft Dynamics 동기화 - 리드 동기화 - Marketo 문서 - 제품 설명서
 title: Microsoft Dynamics 동기화 - 리드 동기화
 exl-id: ea04a039-32f7-41f9-85fb-18df8e236390
-source-git-commit: 17cacaa56a437a568bd0d2cc23020f3f880eaf52
+source-git-commit: 7fcbaeda589682fdb5a75b89a0abd8661181566e
 workflow-type: tm+mt
 source-wordcount: '307'
 ht-degree: 0%
@@ -40,7 +40,7 @@ Marketo에서 Dynamics로의 동기화 기능은 매우 강력합니다. 세부 
 
 ## Marketo에 동기화할 필드는 무엇입니까? {#what-fields-will-sync-to-marketo}
 
-다음을 수행할 수 있습니다 [동기화할 필드 선택](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/microsoft-dynamics-365/step-4-of-4-connect.md#select-fields-to-sync) 설정하는 동안.
+다음을 수행할 수 있습니다 [동기화할 필드 선택](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/microsoft-dynamics-365-with-ropc-connection/step-4-of-4-connect.md#select-fields-to-sync) 설정하는 동안.
 
 ## Marketo이 Dynamics 유효성 검사 규칙을 준수합니까? {#will-marketo-respect-the-dynamics-validation-rules}
 
