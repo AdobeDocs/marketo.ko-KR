@@ -2,7 +2,7 @@
 description: 4단계 - Marketo 솔루션을 리소스 소유자 암호 제어 연결과 연결 - Marketo 문서 - 제품 설명서
 title: 4단계 중 4단계 - Marketo 솔루션을 리소스 소유자 암호 제어 연결과 연결
 exl-id: 71a52a3e-f31e-45ee-8196-d536528e42ca
-source-git-commit: 549282b11bcf5fd48d29680f196e4534063b30f6
+source-git-commit: f72f195e53d63e37ef2ed53980b9bffc59391430
 workflow-type: tm+mt
 source-wordcount: '456'
 ht-degree: 0%
