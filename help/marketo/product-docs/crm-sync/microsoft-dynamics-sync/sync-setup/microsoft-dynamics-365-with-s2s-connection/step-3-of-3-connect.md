@@ -3,9 +3,9 @@ unique-page-id: 3571830
 description: 3단계 - S2S 연결과 Marketo 솔루션 연결 - Marketo 문서 - 제품 설명서
 title: 3단계 중 3단계 - Marketo 솔루션과 S2S 연결 연결
 exl-id: e3ede749-f787-45d3-adb4-f71ef1221208
-source-git-commit: e8ba27c09165aa844ae6df175464d989b1931bad
+source-git-commit: eb200f085b41489c8d7e11bb2fd059a311e5349c
 workflow-type: tm+mt
-source-wordcount: '438'
+source-wordcount: '0'
 ht-degree: 0%
 
 ---
@@ -56,7 +56,7 @@ ht-degree: 0%
 
 1. 을(를) 입력합니다. **사용자 이름**, **암호**, **클라이언트 ID**, **클라이언트 암호**, 및 Microsoft Dynamics **URL**. 클릭 **저장** 완료 시.
 
-   ![](assets/step-3-of-3-s2s-5.png)
+   ![](assets/step-3-of-3-connect-s2s-5.png)
 
    >[!NOTE]
    >

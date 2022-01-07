@@ -2,9 +2,9 @@
 description: 4단계 - Marketo 솔루션을 리소스 소유자 암호 제어 연결과 연결 - Marketo 문서 - 제품 설명서
 title: 4단계 중 4단계 - Marketo 솔루션을 리소스 소유자 암호 제어 연결과 연결
 exl-id: 71a52a3e-f31e-45ee-8196-d536528e42ca
-source-git-commit: f72f195e53d63e37ef2ed53980b9bffc59391430
+source-git-commit: eb200f085b41489c8d7e11bb2fd059a311e5349c
 workflow-type: tm+mt
-source-wordcount: '456'
+source-wordcount: '0'
 ht-degree: 0%
 
 ---
@@ -56,7 +56,7 @@ ht-degree: 0%
 
 1. 을(를) 입력합니다. **사용자 이름**, **암호**, **클라이언트 ID**, **클라이언트 암호**, 및 Microsoft Dynamics **URL**. 클릭 **저장** 완료 시.
 
-   ![](assets/step-4-of-4-connect-the-marketo-solution-ropc-5.png)
+   ![](assets/step-4-of-4-connect-ropc-5.png)
 
    >[!NOTE]
    >
