@@ -3,9 +3,9 @@ audience: end-user
 user-guide-title: Marketo 안내서
 user-guide-description: Marketo 제품 설명서
 feature-set: Marketo Engage
-source-git-commit: 8b4d86f2dd5f19abb56451403cd2638b1a852d79
+source-git-commit: e8ba27c09165aa844ae6df175464d989b1931bad
 workflow-type: tm+mt
-source-wordcount: '8287'
+source-wordcount: '8250'
 ht-degree: 0%
 
 ---
@@ -537,10 +537,6 @@ ht-degree: 0%
                + [3단계 중 1단계: S2S 연결을 사용하여 Marketo 솔루션 설치](product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/microsoft-dynamics-365-with-s2s-connection/step-1-of-3-install.md)
                + [3단계 중 2단계: S2S 연결을 사용하여 Marketo 솔루션 설정](product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/microsoft-dynamics-365-with-s2s-connection/step-2-of-3-set-up.md)
                + [3단계 중 3단계: S2S 연결과 Marketo 솔루션 연결](product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/microsoft-dynamics-365-with-s2s-connection/step-3-of-3-connect.md)
-            + Dynamics용 OAuth 인증 설정 {#set-up-oauth-authentication-for-dynamics}
-               + [온라인용 Microsoft Dynamics CRM 앱 설정](product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/set-up-oauth-authentication-for-dynamics/set-up-microsoft-dynamics-crm-app-for-online.md)
-               + [On-prem용 Microsoft Dynamics CRM 앱 설정](product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/set-up-oauth-authentication-for-dynamics/set-up-microsoft-dynamics-crm-app-for-on-prem.md)
-               + [AD FS On-prem, 테넌트 및 Microsoft Online을 사용하여 Azure AD Federated에 대한 MSD를 설정합니다.](product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/set-up-oauth-authentication-for-dynamics/set-up-msd-for-azure-ad-federated-with-ad-fs-on-prem-tenant-and-microsoft-online.md)
             + 이전 버전에 연결 {#connecting-to-legacy-versions}
                + [3단계 중 1단계: Marketo 솔루션 설치(2011 온프레미스)](product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/connecting-to-legacy-versions/step-1-of-3-install-2011.md)
                + [3단계 중 2단계: Dynamics에서 Marketo 동기화 사용자 설정(2011 온프레미스)](product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/connecting-to-legacy-versions/step-2-of-3-set-up-2011.md)

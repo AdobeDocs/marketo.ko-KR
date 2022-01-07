@@ -3,9 +3,9 @@ unique-page-id: 3571830
 description: 3단계 - S2S 연결과 Marketo 솔루션 연결 - Marketo 문서 - 제품 설명서
 title: 3단계 중 3단계 - Marketo 솔루션과 S2S 연결 연결
 exl-id: e3ede749-f787-45d3-adb4-f71ef1221208
-source-git-commit: 549282b11bcf5fd48d29680f196e4534063b30f6
+source-git-commit: e8ba27c09165aa844ae6df175464d989b1931bad
 workflow-type: tm+mt
-source-wordcount: '376'
+source-wordcount: '438'
 ht-degree: 0%
 
 ---
@@ -23,6 +23,10 @@ ht-degree: 0%
 >[!NOTE]
 >
 >**관리 권한 필요**
+
+>[!IMPORTANT]
+>
+>기본 인증에서 OAuth로 업그레이드하는 경우 [Marketo 지원](https://nation.marketo.com/t5/support/ct-p/Support) 추가 매개 변수 업데이트에 대한 도움말을 참조하십시오. 이 기능을 사용하면 새 자격 증명을 입력하고 동기화를 다시 사용할 수 있을 때까지 동기화가 일시적으로 중지됩니다. 이전 인증 모드로 되돌리려면 기능을 비활성화할 수 있습니다(2022년 4월까지).
 
 >[!NOTE]
 >
