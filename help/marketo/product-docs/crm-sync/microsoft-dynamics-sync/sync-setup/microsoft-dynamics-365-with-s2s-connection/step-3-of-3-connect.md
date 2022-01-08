@@ -1,23 +1,23 @@
 ---
 unique-page-id: 3571830
-description: 3단계 - S2S 연결과 Marketo 솔루션 연결 - Marketo 문서 - 제품 설명서
-title: 3단계 중 3단계 - Marketo 솔루션과 S2S 연결 연결
+description: 3단계 - Marketo 솔루션을 서버와 서버 연결 - Marketo 문서 - 제품 설명서
+title: 3단계 - Marketo 솔루션을 서버와 서버 연결
 exl-id: e3ede749-f787-45d3-adb4-f71ef1221208
-source-git-commit: eb200f085b41489c8d7e11bb2fd059a311e5349c
+source-git-commit: 7e6fab646ec03394cb406fc41442d585c162bb25
 workflow-type: tm+mt
-source-wordcount: '0'
+source-wordcount: '443'
 ht-degree: 0%
 
 ---
 
-# 3단계 중 3단계: S2S 연결과 Marketo 솔루션 연결 {#step-3-of-3-connect-microsoft-dynamics-with-marketo-solution-s2s}
+# 3단계 중 3단계: Marketo 솔루션을 서버와 서버 연결 연결 {#step-3-of-3-connect-microsoft-dynamics-with-marketo-solution-s2s}
 
 이 단계는 동기화의 마지막 단계입니다. 거의 다 왔어!
 
 >[!PREREQUISITES]
 >
->* [3단계 중 1단계: S2S 연결을 사용하여 Marketo 솔루션 설치](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/microsoft-dynamics-365-with-s2s-connection/step-1-of-3-install.md)
->* [3단계 중 2단계: S2S 연결을 사용하여 Marketo 솔루션 설정](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/microsoft-dynamics-365-with-s2s-connection/step-2-of-3-set-up.md)
+>* [3단계 중 1단계: 서버 간 연결과 함께 Marketo 솔루션 설치](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/microsoft-dynamics-365-with-s2s-connection/step-1-of-3-install.md)
+>* [3단계 중 2단계: 서버 간 연결을 사용하여 Marketo 솔루션 설정](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/microsoft-dynamics-365-with-s2s-connection/step-2-of-3-set-up.md)
 
 
 >[!NOTE]

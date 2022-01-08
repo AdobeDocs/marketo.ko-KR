@@ -1,14 +1,15 @@
 ---
-description: 3단계 중 1단계 - S2S 연결을 사용하여 Marketo 솔루션 설치 - Marketo 문서 - 제품 설명서
-title: 3단계 중 1단계 - S2S 연결을 사용하여 Marketo 솔루션 설치
-source-git-commit: 17cacaa56a437a568bd0d2cc23020f3f880eaf52
+description: 3단계 중 1단계 - 서버에 Marketo 솔루션 설치 - Marketo 문서 - 제품 설명서
+title: 3단계 중 1단계 - 서버에 Marketo 솔루션 설치
+exl-id: bf6f87c1-5ba5-490b-bcce-365120af3730
+source-git-commit: 7e6fab646ec03394cb406fc41442d585c162bb25
 workflow-type: tm+mt
-source-wordcount: '263'
+source-wordcount: '266'
 ht-degree: 0%
 
 ---
 
-# 3단계 중 1단계: S2S 연결을 사용하여 Marketo 솔루션 설치 {#step-1-of-3-install-the-marketo-solution-s2s}
+# 3단계 중 1단계: 서버 간 연결과 함께 Marketo 솔루션 설치 {#step-1-of-3-install-the-marketo-solution-s2s}
 
 Microsoft Dynamics 365와 Marketo을 동기화하려면 먼저 Dynamics에서 Marketo 솔루션을 설치해야 합니다. **Dynamics 관리 권한이 필요합니다.**
 

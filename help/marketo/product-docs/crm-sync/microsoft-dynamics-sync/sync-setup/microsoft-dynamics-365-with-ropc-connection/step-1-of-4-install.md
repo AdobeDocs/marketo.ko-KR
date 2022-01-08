@@ -1,14 +1,15 @@
 ---
-description: 3단계 중 1단계 - 리소스 소유자 암호 제어 연결을 사용하여 Marketo 솔루션 설치 - Marketo 문서 - 제품 설명서
-title: 3단계 중 1단계 - 리소스 소유자 암호 제어 연결을 사용하여 Marketo 솔루션 설치
-source-git-commit: e46673423bdb2757e8a9f97dc702d32d02200e6e
+description: 4단계 중 1단계 - 리소스 소유자 암호 제어 연결을 사용하여 Marketo 솔루션 설치 - Marketo 문서 - 제품 설명서
+title: 4단계 중 1단계 - 리소스 소유자 암호 제어 연결을 사용하여 Marketo 솔루션 설치
+exl-id: aab3bbb8-4e52-4c40-94d1-631af1d63f9f
+source-git-commit: 7e6fab646ec03394cb406fc41442d585c162bb25
 workflow-type: tm+mt
 source-wordcount: '308'
 ht-degree: 0%
 
 ---
 
-# 3단계 중 1단계: 리소스 소유자 암호 제어 연결을 사용하여 Marketo 솔루션 설치 {#step-1-of-3-install-the-marketo-solution-ropc}
+# 4단계 중 1단계: 리소스 소유자 암호 제어 연결을 사용하여 Marketo 솔루션 설치 {#step-1-of-4-install-the-marketo-solution-ropc}
 
 Microsoft Dynamics 365와 Marketo을 동기화하려면 먼저 Dynamics에서 Marketo 솔루션을 설치해야 합니다. **Dynamics 관리 권한이 필요합니다.**
 

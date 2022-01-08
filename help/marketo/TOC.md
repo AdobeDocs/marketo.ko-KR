@@ -3,9 +3,9 @@ audience: end-user
 user-guide-title: Marketo 안내서
 user-guide-description: Marketo 제품 설명서
 feature-set: Marketo Engage
-source-git-commit: e8ba27c09165aa844ae6df175464d989b1931bad
+source-git-commit: 7e6fab646ec03394cb406fc41442d585c162bb25
 workflow-type: tm+mt
-source-wordcount: '8250'
+source-wordcount: '8252'
 ht-degree: 0%
 
 ---
@@ -253,6 +253,7 @@ ht-degree: 0%
          + [API 전용 사용자 역할 만들기](product-docs/administration/users-and-roles/create-an-api-only-user-role.md)
          + [API 전용 사용자 만들기](product-docs/administration/users-and-roles/create-an-api-only-user.md)
          + [사용자 역할 만들기, 삭제, 편집 및 변경](product-docs/administration/users-and-roles/create-delete-edit-and-change-a-user-role.md)
+         + [전자 메일 확인](product-docs/administration/users-and-roles/email-verification.md)
          + [역할에 대한 고급 목록 가져오기 사용 권한 활성화](product-docs/administration/users-and-roles/enable-the-advanced-list-import-permission-on-a-role.md)
          + [사용자 및 역할 목록 내보내기](product-docs/administration/users-and-roles/export-a-list-of-users-and-roles.md)
          + [Marketo 사용자 관리](product-docs/administration/users-and-roles/managing-marketo-users.md)
