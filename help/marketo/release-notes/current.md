@@ -2,9 +2,9 @@
 description: 현재 릴리스 노트 - Marketo 문서 - 제품 설명서
 title: 현재 릴리스 노트
 exl-id: a2eccad5-73ad-48f9-8091-51cee23824e1
-source-git-commit: 7e6fab646ec03394cb406fc41442d585c162bb25
+source-git-commit: 534fb9d253b84147fe7fc96ce15987318dcea882
 workflow-type: tm+mt
-source-wordcount: '1028'
+source-wordcount: '999'
 ht-degree: 0%
 
 ---
@@ -27,8 +27,6 @@ ht-degree: 0%
 
    * Design Studio의 랜딩 페이지 자산 세부 사항
    * 마케팅 활동의 랜딩 페이지 자산 세부 사항
-
-* **차세대 경험 전환 스위치에 대한 관리 제어**: 관리자는 차세대 환경에서 화면을 보기 위해 전환 스위치에 액세스할 수 있는 사용자 유형을 선택할 수 있습니다.
 
 ## Microsoft Dynamics 통합 {#microsoft-dynamics-integration}
 
