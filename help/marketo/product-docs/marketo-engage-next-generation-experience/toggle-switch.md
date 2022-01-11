@@ -2,9 +2,9 @@
 description: 전환 스위치 - Marketo 문서 - 제품 설명서
 title: 스위치 전환
 exl-id: bb519314-bddf-4184-8585-22ed1fe85f9a
-source-git-commit: fda1bf51d4016a61c41be9acba4771db1797a552
+source-git-commit: f00d43080136dd986a6d81d6bc8102cdaf788b4c
 workflow-type: tm+mt
-source-wordcount: '221'
+source-wordcount: '0'
 ht-degree: 0%
 
 ---
@@ -41,15 +41,15 @@ ht-degree: 0%
 
 1. Marketo에서 양식을 찾아 선택합니다.
 
-   ![](assets/toggle-switch-5.png)
+   ![](assets/toggle-switch-8.png)
 
 1. 페이지 오른쪽 아래에서 **새 경험** 토글.
 
-   ![](assets/toggle-switch-6.png)
+   ![](assets/toggle-switch-9.png)
 
 새 경험이 로드됩니다.
 
-![](assets/toggle-switch-7.png)
+![](assets/toggle-switch-10.png)
 
 ## 모든 기능에 대해 활성화 {#enable-for-all-features}
 
@@ -57,8 +57,8 @@ ht-degree: 0%
 
 1. 현재 전환 스위치가 있는 영역에서(이 예에서는) [양식 세부 사항 페이지](#form-details-page))의 경우 페이지 오른쪽 하단에 있는 톱니바퀴 아이콘을 클릭합니다.
 
-   ![](assets/toggle-switch-8.png)
+   ![](assets/toggle-switch-11.png)
 
 1. 선택 **사용 가능한 모든 기능에 대해 활성화** 을(를) 클릭합니다. **확인**.
 
-   ![](assets/toggle-switch-9.png)
+   ![](assets/toggle-switch-12.png)

@@ -2,9 +2,9 @@
 description: 현재 릴리스 노트 - Marketo 문서 - 제품 설명서
 title: 현재 릴리스 노트
 exl-id: a2eccad5-73ad-48f9-8091-51cee23824e1
-source-git-commit: 534fb9d253b84147fe7fc96ce15987318dcea882
+source-git-commit: f00d43080136dd986a6d81d6bc8102cdaf788b4c
 workflow-type: tm+mt
-source-wordcount: '999'
+source-wordcount: '0'
 ht-degree: 0%
 
 ---
@@ -87,3 +87,7 @@ Adobe Experience Platform(AEP)도 사용하는 Marketo Engage 고객은 AEP 대�
 * **사용자 초대 대화 상자에서 로그인**: 3월에는 옵션 기능인 &quot;사용자 초대 대화 상자에서 로그인&quot;이 더 이상 사용되지 않습니다. 기능 &quot;사용자 초대 대화 상자에 로그인&quot; 기능은 예정된 Adobe Identity Management 시스템 통합에 필요하고 모든 구독에서 2021년 8월에 활성화되었던 범용 ID 기능에 의해 재정의됩니다. 사용 중단 결과 Marketo Engage은 구독 내에 이메일 주소당 연결할 사용자를 한 명만 적용합니다.
 
 **Marketo Engage 도메인 - Sales Insight 구성**: SSL 인증서가 프로비저닝되지 않은 Marketo Engage 도메인 및 https://의 경우 SSL 핸드셰이크 오류로 인해 호출이 실패합니다. 따라서 이러한 도메인은 사라질 것입니다. 따라서 이러한 도메인을 가리키는 이전 구성이 있는 Sales Insight 사용자는 Lead, Contact, Account, Opportunity Panels 또는 Marketo Global 페이지에서 시스템 콜아웃 오류가 발생할 수 있습니다. 을(를) 업데이트하는 것이 좋습니다 [Marketo Engage 구성](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/configuration/configure-marketo-sales-insight-in-salesforce-enterprise-unlimited.md) Salesforce에서 이 오류가 발생한 경우 문서의 &quot;Marketo Sales Insight Config&quot; 섹션에 강조 표시된 Marketo Engage 자격 증명만 업데이트해야 합니다.
+
+**_제품 릴리스 웨비나_**
+
+2022년 1월 27일, 동부시간 오전 9시 / 오후 12시에 참가하십시오 [라이브 웨비나](https://engage.marketo.com/2022_January_Release_Webinar_RegistrationPage.html) 는 Adobe의 제품 팀이 호스팅하며, 이 팀이 최신 제품의 모든 혁신적인 기능을 사용하는 방법을 배울 수 있도록 지원합니다.
