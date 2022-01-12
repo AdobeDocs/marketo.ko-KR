@@ -3,9 +3,10 @@ description: 글로벌 양식 유효성 검사 규칙 - Marketo 문서 - 제품 
 title: 글로벌 양식 유효성 검사 규칙
 hide: true
 hidefromtoc: true
-source-git-commit: 534fb9d253b84147fe7fc96ce15987318dcea882
+exl-id: a44db893-00b5-40d2-8be3-41d52b2fd7b5
+source-git-commit: a95b889a36ae22aef6bc2ff5bc82f04751d389bd
 workflow-type: tm+mt
-source-wordcount: '166'
+source-wordcount: '159'
 ht-degree: 0%
 
 ---
@@ -20,46 +21,46 @@ ht-degree: 0%
 
 1. Marketo에서 **관리**.
 
-PICC
+   ![](assets/global-form-validation-rules-1.png)
 
 1. 클릭 **사용자 및 역할**.
 
-PICC
+   ![](assets/global-form-validation-rules-2.png)
 
 1. 을(를) 클릭합니다. **역할** 탭.
 
-PICC
+   ![](assets/global-form-validation-rules-3.png)
 
 1. 권한을 부여할 역할을 두 번 클릭합니다.
 
-PICC
+   PICC
 
 1. 을(를) 클릭합니다. **+** 액세스 관리자 옆에 로그인합니다.
 
-PICC
+   PICC
 
 1. 아래로 스크롤하여 선택합니다. **양식 검증 규칙 액세스** 을(를) 클릭합니다. **저장**.
 
-PICC
+   PICC
 
 ## 새 양식 유효성 검사 규칙 만들기 {#create-new-form-validation-rule}
 
 1. Marketo에서 **관리**.
 
-PICC
+   ![](assets/global-form-validation-rules-7.png)
 
 1. 클릭 **전역 양식 유효성 검사 규칙**.
 
-PICC
+   ![](assets/global-form-validation-rules-8.png)
 
 1. 클릭 **새 양식 유효성 검사 규칙**.
 
-PICC
+   ![](assets/global-form-validation-rules-9.png)
+
+   >[!NOTE]
+   >
+   >양식 검증 규칙 작업 드롭다운을 사용하면 기존 규칙을 삭제하거나 편집할 수 있습니다.
 
 1. 규칙 이름을 지정하고, 선택적 설명을 제공하고, 양식 방문자에게 표시할 오류 메시지를 입력합니다. 규칙 상자에 차단한 도메인을 입력하고 **규칙 활성화**&#x200B;를 클릭하고 **만들기**.
 
-PICC
-
->[!NOTE]
->
->양식 검증 규칙 작업 드롭다운을 사용하면 기존 규칙을 삭제하거나 편집할 수 있습니다.
+   ![](assets/global-form-validation-rules-10.png)

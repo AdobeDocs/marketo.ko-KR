@@ -4,14 +4,20 @@ title: Salesforce 활동 세부 사항 사용자 지정 구성
 hide: true
 hidefromtoc: true
 exl-id: 4b20ca29-18d6-4026-9bf9-77656ad1442d
-source-git-commit: 87f43fb58b5739c0465a1a74fb60cdf5c5f6b759
+source-git-commit: a95b889a36ae22aef6bc2ff5bc82f04751d389bd
 workflow-type: tm+mt
-source-wordcount: '573'
+source-wordcount: '589'
 ht-degree: 0%
 
 ---
 
 # Salesforce 활동 세부 사항 사용자 지정 구성 {#configure-salesforce-activity-detail-customization}
+
+>[!PREREQUISITES]
+>
+>* Salesforce 및 Marketo Sales Connect [연결되어 있어야 합니다.](/help/marketo/product-docs/marketo-sales-connect/crm/salesforce-integration/connect-your-sales-connect-account-to-salesforce.md)
+>* API를 통해 이메일 활동 로깅 [를 사용해야 합니다.](/help/marketo/product-docs/marketo-sales-connect/crm/salesforce-integration/salesforce-sync-settings.md)
+
 
 Activity Detail Customization을 사용하면 관리자는 Sales Connect 활동/미리 알림 작업이 Salesforce에 동기화될 때 Salesforce 작업 - 제목 필드에 로그인할 정보를 구성할 수 있습니다.
 
