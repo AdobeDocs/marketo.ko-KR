@@ -3,16 +3,16 @@ unique-page-id: 5472490
 description: 릴리스 일정 - Marketo 문서 - 제품 설명서
 title: 릴리스 일정
 exl-id: 38bd10e3-7f47-46f7-b9b0-83e1ab50014c
-source-git-commit: 214a968579052d93952bdbdd6e00bfe057ca7dac
+source-git-commit: f8784ea51e24dda22a42991e2806c98f1f11386a
 workflow-type: tm+mt
-source-wordcount: '136'
-ht-degree: 1%
+source-wordcount: '0'
+ht-degree: 0%
 
 ---
 
 # 릴리스 일정 {#release-schedule}
 
-**릴리스**: Marketo은 분기별 주요 릴리스 일정을 사용합니다. 사용 가능한 경우 각 릴리스 노트가 아래 표에 연결됩니다.
+**릴리스**: 각 릴리스의 월/연도. 사용 가능한 경우 릴리스 노트가 아래 표에 연결됩니다.
 
 **릴리스 날짜**: 롤아웃은 일반적으로 릴리스 주의 화요일에 시작되며, 금요일 저녁에는 대부분의 업그레이드가 발생합니다. 특정 날짜 및 릴리스 세부 정보가 포함된 이메일이 전송됩니다. 나열된 날짜는 금요일 업데이트입니다.
 
@@ -29,37 +29,42 @@ _릴리스 날짜는 변경될 수 있습니다_
   <col> 
   <col> 
   <col> 
- </colgroup> 
+ </colgroup>
  <tbody> 
   <tr> 
-   <th width="250px">릴리스</th> 
-   <th width="250px">릴리스 날짜</th> 
-   <th width="250px">상태</th> 
-  </tr> 
+   <th width="250px">릴리스</th>
+   <th width="250px">릴리스 날짜</th>
+   <th width="250px">상태</th>
+  </tr>
   <tr> 
-   <td colspan="1"><a href="/help/marketo/release-notes/current.md">2021년 10월</a></td> 
-   <td colspan="1">2021년 10월 22일</td> 
-   <td colspan="1">진행 중</td> 
-  </tr> 
+   <td><a href="/help/marketo/release-notes/current.md">2022년 1월</a></td>
+   <td>2022년 1월 21일</td>
+   <td>진행 중</td>
+  </tr>
   <tr> 
-   <td colspan="1">2022년 1월</td> 
-   <td colspan="1">2022년 1월 21일</td> 
-   <td colspan="1">예약 시</td> 
-  </tr> 
+   <td>2022년 3월</td>
+   <td>2022년 3월 11일</td>
+   <td>예약 시</td>
+  </tr>
   <tr> 
-   <td colspan="1">2022년 5월</td> 
-   <td colspan="1">2022년 5월 6일</td> 
-   <td colspan="1">예약 시</td> 
-  </tr> 
+   <td>2022년 5월</td>
+   <td>2022년 5월 6일</td>
+   <td>예약 시</td>
+  </tr>
   <tr> 
-   <td colspan="1">2022년 8월</td> 
-   <td colspan="1">2022년 8월 19일</td> 
-   <td colspan="1">예약 시</td> 
-  </tr> 
+   <td>2022년 6월</td>
+   <td>2022년 6월 24일</td>
+   <td>예약 시</td>
+  </tr>
   <tr> 
-   <td colspan="1">2022년 10월</td> 
-   <td colspan="1">2022년 10월 14일</td> 
-   <td colspan="1">예약 시</td> 
-  </tr> 
- </tbody> 
+   <td>2022년 8월</td>
+   <td>2022년 8월 19일</td>
+   <td>예약 시</td>
+  </tr>
+  <tr>
+   <td>2022년 10월</td>
+   <td>2022년 10월 14일</td>
+   <td>예약 시</td>
+  </tr>
+ </tbody>
 </table>
