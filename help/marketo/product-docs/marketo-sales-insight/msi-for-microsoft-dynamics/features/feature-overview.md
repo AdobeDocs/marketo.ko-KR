@@ -3,10 +3,10 @@ unique-page-id: 37357043
 description: 기능 개요 - Marketo 문서 - 제품 설명서
 title: 기능 개요
 exl-id: 3e6f21bf-3383-4e2d-952f-9b4e67896a58
-source-git-commit: 7bac8a520bb1b8a2cc353c229e2f456476f67384
+source-git-commit: 95aa6cdcede973e86757b4d9c758e2c7eb4bd5e6
 workflow-type: tm+mt
-source-wordcount: '177'
-ht-degree: 2%
+source-wordcount: '0'
+ht-degree: 0%
 
 ---
 
@@ -64,7 +64,15 @@ ht-degree: 2%
 * Marketo Campaign에 추가
 * Marketo 이메일 보내기
 
-## Marketo 최상의 선택 페이지  {#marketo-best-bets-page}
+## 계정 레이아웃의 Marketo Sales Insight 패널 {#marketo-sales-insight-panel-in-account-layout}
+
+* 스타스 앤드 플레임스
+* 흥미로운 순간
+* 웹 활동
+* 점수
+* 이메일(열기 및 클릭)
+
+## Marketo 최상의 선택 페이지 {#marketo-best-bets-page}
 
 * 우선 순위(별과 불꽃들)
 * 이름(리드/연락처 페이지에 하이퍼링크됨)
