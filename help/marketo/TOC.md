@@ -3,9 +3,9 @@ audience: end-user
 user-guide-title: Marketo 안내서
 user-guide-description: Marketo 제품 설명서
 feature-set: Marketo Engage
-source-git-commit: 534fb9d253b84147fe7fc96ce15987318dcea882
+source-git-commit: 655728b5c60f0215c973b87d581fc0c45eb25c88
 workflow-type: tm+mt
-source-wordcount: '8259'
+source-wordcount: '8261'
 ht-degree: 0%
 
 ---
@@ -361,6 +361,7 @@ ht-degree: 0%
             + [정적 목록 만들기](product-docs/core-marketo-concepts/smart-lists-and-static-lists/static-lists/create-a-static-list.md)
             + [Adobe Experience Cloud으로 목록 보내기](product-docs/core-marketo-concepts/smart-lists-and-static-lists/static-lists/send-a-list-to-adobe-experience-cloud.md)
             + [Marketo 정적 목록에 Adobe Experience Platform 세그먼트 푸시](product-docs/core-marketo-concepts/smart-lists-and-static-lists/static-lists/push-an-adobe-experience-platform-segment-to-a-marketo-static-list.md)
+            + [푸시 복제](product-docs/core-marketo-concepts/smart-lists-and-static-lists/static-lists/push-clone.md)
             + [정적 목록 이해](product-docs/core-marketo-concepts/smart-lists-and-static-lists/static-lists/understanding-static-lists.md)
       + 프로그램 {#programs}
          + 프로그램 만들기 {#creating-programs}
