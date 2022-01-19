@@ -4,9 +4,9 @@ title: 글로벌 양식 유효성 검사 규칙
 hide: true
 hidefromtoc: true
 exl-id: a44db893-00b5-40d2-8be3-41d52b2fd7b5
-source-git-commit: 95aa6cdcede973e86757b4d9c758e2c7eb4bd5e6
+source-git-commit: 97015b31c9a20a3052526a39ed26fc9cf0097e82
 workflow-type: tm+mt
-source-wordcount: '0'
+source-wordcount: '168'
 ht-degree: 0%
 
 ---
@@ -44,6 +44,10 @@ ht-degree: 0%
    ![](assets/global-form-validation-rules-6.png)
 
 ## 새 양식 유효성 검사 규칙 만들기 {#create-new-form-validation-rule}
+
+>[!IMPORTANT]
+>
+>이러한 규칙은 Marketo Engage 구독의 모든 양식에 적용됩니다.
 
 1. Marketo에서 **관리**.
 

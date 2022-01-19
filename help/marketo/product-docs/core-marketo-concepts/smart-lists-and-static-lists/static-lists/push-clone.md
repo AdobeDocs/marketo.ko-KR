@@ -3,9 +3,9 @@ description: 푸시 복제 - Marketo 문서 - 제품 설명서
 title: 푸시 복제
 hide: true
 hidefromtoc: true
-source-git-commit: 8920bc525075923b32e7330da20debb7b8f47b06
+source-git-commit: 97015b31c9a20a3052526a39ed26fc9cf0097e82
 workflow-type: tm+mt
-source-wordcount: '467'
+source-wordcount: '460'
 ht-degree: 0%
 
 ---
@@ -18,6 +18,7 @@ ht-degree: 0%
 >
 >* [API 사용자 만들기](/help/marketo/product-docs/administration/users-and-roles/create-an-api-only-user.md) Marketo.
 >* 그런 다음 **관리** > **Launchpoint**. 방금 만든 역할의 이름을 찾아 **세부 사항 보기**. 정보를 복사하여 저장합니다 **클라이언트 ID** 및 **클라이언트 암호**&#x200B;을 가리키도록 업데이트하는 것이 좋습니다.
+>* Marketo에서 정적 목록을 만들거나 이미 만든 정적 목록을 찾아 선택합니다. ID가 필요합니다.
 
 
 1. 에 로그인합니다. [Adobe Experience Platform](https://experience.adobe.com/).
@@ -53,15 +54,13 @@ ht-degree: 0%
 
    ![](assets/push-an-adobe-experience-platform-segment-8.png)
 
-다음으로 기존 Marketo 사용자만 일치시킬 것인지 아니면 기존 Marketo 사람을 일치시킬 것인지 선택하고 Marketo에서 누락된 사람을 만들어야 합니다. 다음은 각 방법을 요약한 섹션입니다.
-
-## Marketo에서 기존 Marketo 사람 일치 및 실종된 사람 만들기 {#match-existing-marketo-people-create-missing-people}
-
-위의 단계 1-8을 수행한 후...
-
-1. 대상 입력 **이름** 및 선택적 설명. 개인 생성 드롭다운을 클릭하고 을 선택합니다 **Marketo에서 기존 Marketo 사람 일치 및 실종된 사람 만들기**.
+1. 대상 입력 **이름** 및 선택적 설명. 개인 만들기 드롭다운을 클릭하고 &quot;Match Existing Marketo People and Create Missing People in Marketo&quot;을 선택합니다. _또는_ &quot;기존 Marketo 사용자만 일치&quot;합니다. 이 예에서는 이전 항목을 선택합니다.
 
    ![](assets/push-an-adobe-experience-platform-segment-9.png)
+
+   >[!NOTE]
+   >
+   >기존 Marketo 사용자만 일치 를 선택하는 경우 이메일 및/또는 ECID만 매핑하면 되므로 13~16단계를 건너뛸 수 있습니다.
 
 1. 이 섹션은 선택 사항입니다. 클릭 **만들기** 을 클릭하여 건너뜁니다.
 
@@ -87,7 +86,7 @@ ht-degree: 0%
 
    ![](assets/push-an-adobe-experience-platform-segment-15.png)
 
-1. 을 클릭하여 성 및 회사 이름을 매핑합니다 **새 매핑 추가** 다시 7단계를 두 번 반복하여 lastName을 선택하고 companyName을 선택합니다.
+1. 을 클릭하여 성 및 회사 이름 매핑 **새 매핑 추가** 다시 15단계를 두 번 반복하여 **lastName** 그리고 **companyName**.
 
    ![](assets/push-an-adobe-experience-platform-segment-16.png)
 
@@ -111,26 +110,34 @@ ht-degree: 0%
 
    ![](assets/push-an-adobe-experience-platform-segment-21.png)
 
-모리이
+1. 회사 이름 출처 필드를 선택하려면 해당 행에서 커서 아이콘을 누릅니다.
 
-## 기존 Marketo 사용자만 일치 {#match-existing-marketo-people-only}
+   ![](assets/push-an-adobe-experience-platform-segment-22.png)
 
->[!NOTE]
->
->ID는 Marketo에서 일치 항목을 찾는 데 사용됩니다. 일치하는 항목이 있으면 해당 사람이 정적 목록에 추가됩니다. 일치하는 항목을 찾을 수 없으면 해당 사람이 삭제됩니다(즉, Marketo에서 만들지 않음).
+1. 속성 선택 라디오 단추를 선택된 상태로 두십시오. &quot;company&quot;를 검색하고 선택합니다. **companyName**&#x200B;를 클릭한 다음 **선택**.
 
-1. _Marketo에서_&#x200B;정적 목록을 만들거나 이미 만든 목록을 찾아 선택합니다. URL의 끝에서 매핑 ID를 복사합니다.
+   ![](assets/push-an-adobe-experience-platform-segment-23.png)
 
-PICC
+1. 각각에 대한 커서 아이콘을 클릭하고 23단계를 두 번 반복하여 성 및 이름에 대한 소스 필드를 매핑합니다. **lastName** 그리고 **firstName**.
 
->[!NOTE]
->
->최상의 결과를 얻으려면 Marketo에서 참조하는 목록이 비어 있는지 확인하십시오.
+   ![](assets/push-an-adobe-experience-platform-segment-24.png)
 
-1. Adobe Experience Platform으로 돌아가서 방금 복사한 ID를 입력합니다. 시작 날짜를 선택합니다. 사람들은 선택한 종료 날짜까지 계속 동기화됩니다. 무기한 동기화하려면 종료 날짜를 비워 둡니다. 클릭 **다음** 완료 시.
+1. 클릭 **다음**.
 
-PICC
+   ![](assets/push-an-adobe-experience-platform-segment-25.png)
 
-1. 변경 내용을 확인하고 를 클릭합니다 **완료**.
+1. 이제 목록의 ID가 필요합니다. 브라우저에서 Marketo 정적 목록이 있는 탭을 클릭하거나 새 탭을 열고 원하는 정적 목록을 선택합니다.
 
-PICC
+   ![](assets/push-an-adobe-experience-platform-segment-26.png)
+
+1. URL 끝에 있는 목록 ID를 강조 표시하고 복사합니다.
+
+   ![](assets/push-an-adobe-experience-platform-segment-27.png)
+
+1. 매핑 ID 아래에 방금 복사한 ID를 붙여넣고 를 클릭합니다 **다음**.
+
+   ![](assets/push-an-adobe-experience-platform-segment-28.png)
+
+1. 클릭 **완료**.
+
+   ![](assets/push-an-adobe-experience-platform-segment-29.png)
