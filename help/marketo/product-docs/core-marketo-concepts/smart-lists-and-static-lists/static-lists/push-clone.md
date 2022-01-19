@@ -3,9 +3,9 @@ description: 푸시 복제 - Marketo 문서 - 제품 설명서
 title: 푸시 복제
 hide: true
 hidefromtoc: true
-source-git-commit: 97015b31c9a20a3052526a39ed26fc9cf0097e82
+source-git-commit: 58b9589e5364584c3b2f41dc1a32496a18574429
 workflow-type: tm+mt
-source-wordcount: '460'
+source-wordcount: '567'
 ht-degree: 0%
 
 ---
@@ -50,6 +50,10 @@ ht-degree: 0%
 
    ![](assets/push-an-adobe-experience-platform-segment-7.png)
 
+   >[!NOTE]
+   >
+   >새 계정을 선택하는 경우 다음 위치로 이동하여 Munchkin ID를 찾을 수 있습니다 **관리** > **Munchkin** (한 번 로그인하면 Marketo URL의 일부입니다.) 클라이언트 ID/비밀번호는 이 문서의 맨 위에 있는 사전 요구 사항을 따라야 합니다.
+
 1. 대상 계정을 선택하고 **선택**.
 
    ![](assets/push-an-adobe-experience-platform-segment-8.png)
@@ -73,6 +77,10 @@ ht-degree: 0%
 1. Marketo에 보낼 세그먼트를 선택하고 **다음**.
 
    ![](assets/push-an-adobe-experience-platform-segment-12.png)
+
+   >[!NOTE]
+   >
+   >여기에서 여러 세그먼트를 선택하는 경우, 세그먼트 예약 탭에서 지정된 정적 목록에 각 세그먼트를 매핑해야 합니다.
 
 1. 클릭 **새 매핑 추가**.
 
@@ -102,6 +110,10 @@ ht-degree: 0%
 
    ![](assets/push-an-adobe-experience-platform-segment-19.png)
 
+   >[!IMPORTANT]
+   >
+   >에서 이메일 및/또는 ECID 매핑 **ID 네임스페이스** 탭은 Marketo에서 사람이 일치하는지 확인하기 위해 가장 중요한 작업입니다. 이메일을 매핑하면 가장 높은 일치율을 보장합니다.
+
 1. 이제 소스 필드를 선택할 차례입니다. 전자 메일의 경우 커서 아이콘을 클릭합니다.
 
    ![](assets/push-an-adobe-experience-platform-segment-20.png)
@@ -129,6 +141,10 @@ ht-degree: 0%
 1. 이제 목록의 ID가 필요합니다. 브라우저에서 Marketo 정적 목록이 있는 탭을 클릭하거나 새 탭을 열고 원하는 정적 목록을 선택합니다.
 
    ![](assets/push-an-adobe-experience-platform-segment-26.png)
+
+   >[!NOTE]
+   >
+   >최상의 결과를 얻으려면 빈 Marketo Engage 목록을 사용하십시오.
 
 1. URL 끝에 있는 목록 ID를 강조 표시하고 복사합니다.
 
