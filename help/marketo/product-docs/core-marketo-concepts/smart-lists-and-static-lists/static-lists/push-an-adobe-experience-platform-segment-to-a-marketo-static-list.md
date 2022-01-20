@@ -2,9 +2,9 @@
 description: Marketo 정적 목록에 Adobe Experience Platform 세그먼트 푸시 - Marketo 문서 - 제품 설명서
 title: Marketo 정적 목록에 Adobe Experience Platform 세그먼트 푸시
 exl-id: 8df11bf4-06f4-4927-8dfb-954414fce6dc
-source-git-commit: 68befac1804f2d6e4d42a2967577e14fef8a6ff1
+source-git-commit: 05129f546cf2ba0df5c608485adf73c26d4b4f1e
 workflow-type: tm+mt
-source-wordcount: '509'
+source-wordcount: '593'
 ht-degree: 0%
 
 ---
@@ -16,59 +16,66 @@ ht-degree: 0%
 >[!PREREQUISITES]
 >
 >* [API 사용자 만들기](/help/marketo/product-docs/administration/users-and-roles/create-an-api-only-user.md) Marketo.
->* 그런 다음 **관리** > **Launchpoint**. 방금 만든 역할의 이름을 찾아 **세부 사항 보기**. 정보를 복사하여 저장합니다 **클라이언트 ID** 및 **클라이언트 암호**&#x200B;을 가리키도록 업데이트하는 것이 좋습니다.
+>* 이동 **관리** > **Launchpoint**. 방금 만든 역할의 이름을 찾아 **세부 사항 보기**. 정보를 복사하여 저장합니다 **클라이언트 ID** 및 **클라이언트 암호** 7단계에 필요한 경우
+>* Marketo에서 정적 목록을 만들거나 이미 만든 정적 목록을 찾아 선택합니다. ID가 필요합니다.
 
 
 1. 에 로그인합니다. [Adobe Experience Platform](https://experience.adobe.com/).
 
-   ![](assets/push-an-adobe-experience-platform-segment-to-a-marketo-static-list-1.png)
+   ![](assets/push-an-adobe-experience-platform-segment-1.png)
 
 1. 격자 아이콘을 클릭하고 를 선택합니다 **Experience Platform**.
 
-   ![](assets/push-an-adobe-experience-platform-segment-to-a-marketo-static-list-2.png)
+   ![](assets/push-an-adobe-experience-platform-segment-2.png)
 
 1. 왼쪽 탐색 메뉴에서 **대상**.
 
-   ![](assets/push-an-adobe-experience-platform-segment-to-a-marketo-static-list-3.png)
+   ![](assets/push-an-adobe-experience-platform-segment-3.png)
 
 1. 클릭 **카탈로그**.
 
-   ![](assets/push-an-adobe-experience-platform-segment-to-a-marketo-static-list-4.png)
+   ![](assets/push-an-adobe-experience-platform-segment-4.png)
 
 1. Marketo Engage 타일을 찾고 **세그먼트 활성화**.
 
-   ![](assets/push-an-adobe-experience-platform-segment-to-a-marketo-static-list-5.png)
+   ![](assets/push-an-adobe-experience-platform-segment-5.png)
 
 1. 클릭 **새 대상 구성**.
 
+   ![](assets/push-an-adobe-experience-platform-segment-6.png)
 
-1. 계정 유형에서 **새 계정** 라디오 단추입니다. Marketo 자격 증명을 입력하고 **대상에 연결**.
 
-   ![](assets/push-an-adobe-experience-platform-segment-to-a-marketo-static-list-6.png)
+1. 계정 유형에서 기존 또는 새 계정 라디오 단추를 선택합니다(이 예에서는 다음과 같이 선택합니다 **기존 계정**). 계정 선택 아이콘을 클릭합니다.
 
-   >[!NOTE]
-   >
-   >Munchkin ID는 **관리** > **Munchkin** (한 번 로그인하면 Marketo URL의 일부입니다.) 클라이언트 ID/비밀번호는 이 문서의 맨 위에 있는 사전 요구 사항을 따라야 합니다.
-
-1. &quot;연결됨&quot;은 자격 증명 아래에 표시됩니다. 클릭 **다음** 오른쪽 상단 모서리에서
-
-   ![](assets/push-an-adobe-experience-platform-segment-to-a-marketo-static-list-7.png)
-
-1. 을(를) 입력합니다. **이름** 그리고 _옵션_ 설명. 클릭 **대상 만들기**.
+   ![](assets/push-an-adobe-experience-platform-segment-7.png)
 
    >[!NOTE]
    >
-   >마케팅 작업에서 항목을 선택하는 것도 선택 사항입니다. Marketo은 현재 해당 정보를 활용하지 않지만 곧 이용할 수 있습니다.
+   >새 계정을 선택하는 경우 다음 위치로 이동하여 Munchkin ID를 찾을 수 있습니다 **관리** > **Munchkin** (한 번 로그인하면 Marketo URL의 일부입니다.) 클라이언트 ID/비밀번호는 이 문서의 맨 위에 있는 사전 요구 사항을 따라야 합니다.
 
-   ![](assets/push-an-adobe-experience-platform-segment-to-a-marketo-static-list-8.png)
+1. 대상 계정을 선택하고 **선택**.
 
-1. 클릭 **다음**.
+   ![](assets/push-an-adobe-experience-platform-segment-8.png)
 
-   ![](assets/push-an-adobe-experience-platform-segment-to-a-marketo-static-list-9.png)
+1. 대상 입력 **이름** 및 선택적 설명. 개인 만들기 드롭다운을 클릭하고 &quot;Match Existing Marketo People and Create Missing People in Marketo&quot;을 선택합니다. _또는_ &quot;기존 Marketo 사용자만 일치&quot;합니다. 이 예에서는 이전 항목을 선택합니다.
 
-1. 원하는 세그먼트를 선택하고 을(를) 클릭합니다 **다음**.
+   ![](assets/push-an-adobe-experience-platform-segment-9.png)
 
-   ![](assets/push-an-adobe-experience-platform-segment-to-a-marketo-static-list-10.png)
+   >[!NOTE]
+   >
+   >기존 Marketo 사용자만 일치 를 선택하는 경우 이메일 및/또는 ECID만 매핑하면 되므로 13~16단계를 건너뛸 수 있습니다.
+
+1. 이 섹션은 선택 사항입니다. 클릭 **만들기** 을 클릭하여 건너뜁니다.
+
+   ![](assets/push-an-adobe-experience-platform-segment-10.png)
+
+1. 만든 대상을 선택하고 을(를) 클릭합니다 **다음**.
+
+   ![](assets/push-an-adobe-experience-platform-segment-11.png)
+
+1. Marketo에 보낼 세그먼트를 선택하고 **다음**.
+
+   ![](assets/push-an-adobe-experience-platform-segment-12.png)
 
    >[!NOTE]
    >
@@ -76,66 +83,76 @@ ht-degree: 0%
 
 1. 클릭 **새 매핑 추가**.
 
-   ![](assets/push-an-adobe-experience-platform-segment-to-a-marketo-static-list-11.png)
-
-1. 커서 아이콘을 클릭합니다.
-
-   ![](assets/push-an-adobe-experience-platform-segment-to-a-marketo-static-list-12.png)
-
-1. 다음 중 하나를 선택합니다 **속성 선택** 또는 **ID 네임스페이스 선택** 라디오 단추(이 예에서는 속성 선택)
-
-   ![](assets/push-an-adobe-experience-platform-segment-to-a-marketo-static-list-13.png)
-
-   >[!NOTE]
-   >
-   >선택한 경우 **ID 네임스페이스 선택**&#x200B;을 선택한 후 15단계로 이동합니다.
-
-1. 사용자를 식별하는 이메일 주소가 포함된 관련 필드를 선택합니다. 클릭 **선택** 완료 시.
-
-   ![](assets/push-an-adobe-experience-platform-segment-to-a-marketo-static-list-14.png)
-
-   ![](assets/push-an-adobe-experience-platform-segment-to-a-marketo-static-list-15.png)
-
-   >[!NOTE]
-   >
-   >선택한 예는 선택한 예제와 많이 다를 수 있습니다.
+   ![](assets/push-an-adobe-experience-platform-segment-13.png)
 
 1. 매핑 아이콘을 클릭합니다.
 
-   ![](assets/push-an-adobe-experience-platform-segment-to-a-marketo-static-list-16.png)
+   ![](assets/push-an-adobe-experience-platform-segment-14.png)
 
-1. 선택 **ID 네임스페이스 선택**.
+1. 을 선택하여 이름 매핑 **firstName** 및 **선택**.
 
-   ![](assets/push-an-adobe-experience-platform-segment-to-a-marketo-static-list-17.png)
+   ![](assets/push-an-adobe-experience-platform-segment-15.png)
+
+1. 을 클릭하여 성 및 회사 이름 매핑 **새 매핑 추가** 다시 15단계를 두 번 반복하여 **lastName** 그리고 **companyName**.
+
+   ![](assets/push-an-adobe-experience-platform-segment-16.png)
+
+1. 이제 이메일 주소를 매핑할 차례입니다. 클릭 **새 매핑 추가** 다시 한 번
+
+   ![](assets/push-an-adobe-experience-platform-segment-17.png)
+
+1. 매핑 아이콘을 클릭합니다.
+
+   ![](assets/push-an-adobe-experience-platform-segment-18.png)
+
+1. Select Identity Namespace 라디오 단추를 클릭하고  **이메일**&#x200B;를 클릭한 다음 **선택**.
+
+   ![](assets/push-an-adobe-experience-platform-segment-19.png)
 
    >[!IMPORTANT]
    >
-   >매핑 속성은 선택 사항입니다. 에서 이메일 및/또는 ECID 매핑 **ID 네임스페이스** 탭은 Marketo에서 사람이 일치하는지 확인하기 위해 가장 중요한 작업입니다. 이메일을 매핑하면 가장 높은 일치율을 보장합니다.
+   >에서 이메일 및/또는 ECID 매핑 **ID 네임스페이스** 탭은 Marketo에서 사람이 일치하는지 확인하기 위해 가장 중요한 작업입니다. 이메일을 매핑하면 가장 높은 일치율을 보장합니다.
 
-1. ECID 또는 이메일 중에서 선택합니다. 이 예제에서는 **이메일**.
+1. 이제 소스 필드를 선택할 차례입니다. 전자 메일의 경우 커서 아이콘을 클릭합니다.
 
-   ![](assets/push-an-adobe-experience-platform-segment-to-a-marketo-static-list-18.png)
+   ![](assets/push-an-adobe-experience-platform-segment-20.png)
+
+1. ID 네임스페이스 선택 라디오 단추를 클릭하고 을 찾아 선택합니다 **이메일**&#x200B;를 클릭한 다음 **선택**.
+
+   ![](assets/push-an-adobe-experience-platform-segment-21.png)
+
+1. 회사 이름 출처 필드를 선택하려면 해당 행에서 커서 아이콘을 누릅니다.
+
+   ![](assets/push-an-adobe-experience-platform-segment-22.png)
+
+1. 속성 선택 라디오 단추를 선택된 상태로 두십시오. &quot;company&quot;를 검색하고 선택합니다. **companyName**&#x200B;를 클릭한 다음 **선택**.
+
+   ![](assets/push-an-adobe-experience-platform-segment-23.png)
+
+1. 각각에 대한 커서 아이콘을 클릭하고 23단계를 두 번 반복하여 성 및 이름에 대한 소스 필드를 매핑합니다. **lastName** 그리고 **firstName**.
+
+   ![](assets/push-an-adobe-experience-platform-segment-24.png)
 
 1. 클릭 **다음**.
 
-   ![](assets/push-an-adobe-experience-platform-segment-to-a-marketo-static-list-19.png)
+   ![](assets/push-an-adobe-experience-platform-segment-25.png)
+
+1. 이제 목록의 ID가 필요합니다. 브라우저에서 Marketo 정적 목록이 있는 탭을 클릭하거나 새 탭을 열고 원하는 정적 목록을 선택합니다.
+
+   ![](assets/push-an-adobe-experience-platform-segment-26.png)
 
    >[!NOTE]
    >
-   >ID는 Marketo에서 일치 항목을 찾는 데 사용됩니다. 일치하는 항목이 있으면 해당 사람이 정적 목록에 추가됩니다. 일치하는 항목을 찾을 수 없으면 해당 사람이 삭제됩니다(즉, Marketo에서 만들지 않음).
+   >최상의 결과를 얻으려면 빈 Marketo Engage 목록을 사용하십시오.
 
-1. _Marketo에서_&#x200B;정적 목록을 만들거나 이미 만든 목록을 찾아 선택합니다. URL의 끝에서 매핑 ID를 복사합니다.
+1. URL 끝에 있는 목록 ID를 강조 표시하고 복사합니다.
 
-   ![](assets/push-an-adobe-experience-platform-segment-to-a-marketo-static-list-20.png)
+   ![](assets/push-an-adobe-experience-platform-segment-27.png)
 
-   >[!NOTE]
-   >
-   >최상의 결과를 얻으려면 Marketo에서 참조하는 목록이 비어 있는지 확인하십시오.
+1. 매핑 ID 아래에 방금 복사한 ID를 붙여넣고 를 클릭합니다 **다음**.
 
-1. Adobe Experience Platform으로 돌아가서 방금 복사한 ID를 입력합니다. 시작 날짜를 선택합니다. 사람들은 선택한 종료 날짜까지 계속 동기화됩니다. 무기한 동기화하려면 종료 날짜를 비워 둡니다. 클릭 **다음** 완료 시.
+   ![](assets/push-an-adobe-experience-platform-segment-28.png)
 
-   ![](assets/push-an-adobe-experience-platform-segment-to-a-marketo-static-list-21.png)
+1. 클릭 **완료**.
 
-1. 변경 내용을 확인하고 를 클릭합니다 **완료**.
-
-   ![](assets/push-an-adobe-experience-platform-segment-to-a-marketo-static-list-22.png)
+   ![](assets/push-an-adobe-experience-platform-segment-29.png)

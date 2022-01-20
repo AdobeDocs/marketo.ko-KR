@@ -1,12 +1,10 @@
 ---
 description: 이메일 확인 - Marketo 문서 - 제품 설명서
 title: 전자 메일 확인
-hide: true
-hidefromtoc: true
 exl-id: 976e46a7-8c85-45ed-86c1-0c5cdb2d5c3e
-source-git-commit: 95aa6cdcede973e86757b4d9c758e2c7eb4bd5e6
+source-git-commit: 05129f546cf2ba0df5c608485adf73c26d4b4f1e
 workflow-type: tm+mt
-source-wordcount: '0'
+source-wordcount: '135'
 ht-degree: 0%
 
 ---
