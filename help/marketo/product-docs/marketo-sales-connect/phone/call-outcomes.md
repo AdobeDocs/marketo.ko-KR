@@ -4,9 +4,9 @@ title: 통화 결과
 hide: true
 hidefromtoc: true
 exl-id: 55ac4d04-8853-46e7-9027-26f0c4897a2a
-source-git-commit: 357da216508db6196042d07000cbc1b04fa41071
+source-git-commit: c4bee632b1099f135cd4f7f0553a1d60dd4986cc
 workflow-type: tm+mt
-source-wordcount: '171'
+source-wordcount: '0'
 ht-degree: 0%
 
 ---
@@ -38,6 +38,10 @@ ht-degree: 0%
    ![](assets/call-outcomes-4.png)
 
 ## 호출 결과 만들기 {#create-call-outcomes}
+
+>[!NOTE]
+>
+>최대 15개의 호출 결과를 만들 수 있습니다.
 
 1. 톱니바퀴 아이콘을 클릭하고 을 선택합니다 **설정**.
 
