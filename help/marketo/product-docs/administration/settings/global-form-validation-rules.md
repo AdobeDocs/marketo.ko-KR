@@ -1,10 +1,12 @@
 ---
 description: 글로벌 양식 유효성 검사 규칙 - Marketo 문서 - 제품 설명서
 title: 글로벌 양식 유효성 검사 규칙
+hide: true
+hidefromtoc: true
 exl-id: a44db893-00b5-40d2-8be3-41d52b2fd7b5
-source-git-commit: 05129f546cf2ba0df5c608485adf73c26d4b4f1e
+source-git-commit: 18a74b9e2860765ea0b8d3bd61419e7738b287fc
 workflow-type: tm+mt
-source-wordcount: '168'
+source-wordcount: '0'
 ht-degree: 0%
 
 ---
