@@ -1,48 +1,47 @@
 ---
 unique-page-id: 5472672
-description: Marketing To Sales Insight - Marketing To Docs - 제품 설명서의 여러 레코드에 이메일 보내기
-title: Marketing To Sales Insight의 여러 레코드에 이메일 보내기
-translation-type: tm+mt
-source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
+description: Marketo Sales Insight의 여러 레코드에 이메일 보내기 - Marketo 문서 - 제품 설명서
+title: Marketo Sales Insight의 여러 레코드로 이메일 보내기
+exl-id: 65c6f4b3-a23c-40f4-84bd-3510a0f8509f
+source-git-commit: 84ac037a041398bdb1a056c3ab2fcf0d516f0097
 workflow-type: tm+mt
 source-wordcount: '148'
 ht-degree: 0%
 
 ---
 
+# Marketo Sales Insight의 여러 레코드로 이메일 보내기 {#send-an-email-to-multiple-records-in-marketo-sales-insight}
 
-# Marketing To Sales Insight {#send-an-email-to-multiple-records-in-marketo-sales-insight}의 여러 레코드에 이메일 보내기
+Marketo Sales Insight를 사용하여 여러 사람에게 Marketo 이메일을 보내는 것은 매우 쉽습니다. 시작해 보겠습니다.
 
-Marketing To Sales Insight를 사용하여 여러 사람에게 Marketing To 이메일을 보내는 것은 매우 쉽습니다. 시작하기
-
-1. Salesforce에서 **리드** 또는 **연락처**&#x200B;를 클릭합니다.
+1. Salesforce에서 **리드** 또는 **연락처**.
 
    ![](assets/image2015-6-1-14-3a40-3a35.png)
 
-1. 열려 있는 모든 리드를 보려면 **이동**&#x200B;을 클릭합니다.
+1. 클릭 **이동** 열려 있는 모든 리드를 표시합니다.
 
    ![](assets/image2015-6-1-14-3a41-3a42.png)
 
-1. 목록 보기에서 이메일을 보낼 모든 리드/연락처를 확인하고 **마케팅 전자 메일로 보내기(클래식)**&#x200B;를 클릭합니다.
+1. 목록 보기에서 전자 메일을 보낼 모든 리드/연락처를 선택하고 **Marketo 이메일 보내기(클래식)**.
 
    ![](assets/three.png)
 
    >[!NOTE]
    >
-   >Salesforce Lightning을 사용하는 경우 **Send Marketing To Email (lightning)** 단추가 표시됩니다.
+   >Salesforce Lightning을 사용하는 경우 버튼이 표시됩니다 **Marketo 이메일 보내기(번개)**.
 
    >[!TIP]
    >
-   >단추가 보이지 않습니까? [목록 보기](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/features/bulk-actions/add-marketo-sales-insight-tab-and-buttons-to-salesforce.md)에 마케팅 단추를 추가했는지 확인합니다.
+   >단추가 보이지 않습니까? 확실히 [목록 보기에 Marketo 단추가 추가되었습니다.](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/configuration/add-bulk-action-buttons-to-salesforce-classic.md).
 
-1. 이메일 작성 완료되면 **Marketing과 함께 보내기**&#x200B;를 클릭합니다.
+1. 계속해서 이메일을 작성합니다. 클릭 **Marketo으로 보내기** 완료됨.
 
    ![](assets/four.png)
 
    >[!TIP]
    >
-   >[Sales Insight](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/features/actions-in-the-msi-panel/send-marketo-email/publish-an-email-to-sales-insight.md)에 이메일을 게시하고 해당 이메일 중에서 선택할 수 있습니다.
+   >다음을 수행할 수 있습니다 [Sales Insight에 이메일 게시](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/features/actions-in-the-msi-panel/send-marketo-email/publish-an-email-to-sales-insight.md) 이메일 중에서 선택할 수 있습니다.
 
    >[!NOTE]
    >
-   >한 번에 최대 200개의 마케팅 이메일을 보낼 수 있습니다.
+   >한 번에 최대 200개의 Marketo 이메일을 보낼 수 있습니다.
