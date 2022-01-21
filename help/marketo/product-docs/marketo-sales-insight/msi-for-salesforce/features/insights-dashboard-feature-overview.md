@@ -3,7 +3,7 @@ unique-page-id: 42762514
 description: Insights 대시보드 기능 개요 - Marketo 문서 - 제품 설명서
 title: 통찰력 대시보드 기능 개요
 exl-id: a32f8694-faf2-4183-a485-82fd859b77d2
-source-git-commit: 7c4edcd35b71846cc7bfea80906c0f9cbccea736
+source-git-commit: 15263f9c23c958499aaa2e4e6491b4962c617358
 workflow-type: tm+mt
 source-wordcount: '1503'
 ht-degree: 0%
@@ -18,7 +18,7 @@ Sales Insights 대시보드에서 사용할 수 있는 기능에 대해 자세�
 >
 >최신 MSI SFDC 패키지 및 [구성](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/configuration/configuration-for-existing-customers.md).
 
-![](assets/one.png)
+![](assets/insights-dashboard-feature-overview-1.png)
 
 ## 연락처 레이아웃 {#contact-layout}
 
@@ -48,7 +48,7 @@ Sales Insights 대시보드에서 사용할 수 있는 기능에 대해 자세�
 * 이 섹션의 활동 세부 사항 카드에 미리 보기 옵션이 있습니다. 흐름에 여러 이메일 전송 단계가 포함된 경우 모든 이메일을 미리 볼 수 있습니다. 이메일 전송 흐름 단계 내에서 &quot;이메일 선택 사항&quot;이 여러 개 있는 경우 기본 옵션을 미리 볼 수 있습니다
 * 필터에는 &quot;검색&quot; 및 &quot;날짜 범위&quot;가 포함됩니다
 
-![](assets/three.png)
+![](assets/insights-dashboard-feature-overview-2.png)
 
 이벤트 탭:
 
@@ -59,7 +59,7 @@ Sales Insights 대시보드에서 사용할 수 있는 기능에 대해 자세�
 * 이 섹션의 활동 세부 사항 카드에 미리 보기 옵션이 있습니다
 * 필터에는 &quot;검색&quot;, &quot;초대된 이벤트만 표시&quot; 및 &quot;날짜 범위&quot;가 포함됩니다
 
-![](assets/two.png)
+![](assets/insights-dashboard-feature-overview-3.png)
 
 ## 리드 레이아웃 {#lead-layout}
 
@@ -89,7 +89,7 @@ Sales Insights 대시보드에서 사용할 수 있는 기능에 대해 자세�
 * 이 섹션의 활동 세부 사항 카드에 미리 보기 옵션이 있습니다. 흐름에 여러 이메일 전송 단계가 포함된 경우 모든 이메일을 미리 볼 수 있습니다. 이메일 전송 흐름 단계 내에서 &quot;이메일 선택 사항&quot;이 여러 개 있는 경우 기본 옵션을 미리 볼 수 있습니다
 * 필터에는 &quot;검색&quot; 및 &quot;날짜 범위&quot;가 포함됩니다
 
-![](assets/five.png)
+![](assets/insights-dashboard-feature-overview-4.png)
 
 이벤트 탭:
 
@@ -100,7 +100,7 @@ Sales Insights 대시보드에서 사용할 수 있는 기능에 대해 자세�
 * 이 섹션의 활동 세부 사항 카드에 미리 보기 옵션이 있습니다
 * 필터에는 &quot;검색&quot;, &quot;초대된 이벤트만 표시&quot; 및 &quot;날짜 범위&quot;가 포함됩니다
 
-![](assets/four.png)
+![](assets/insights-dashboard-feature-overview-5.png)
 
 ## 계정 레이아웃 {#account-layout}
 

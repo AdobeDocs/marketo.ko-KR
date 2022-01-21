@@ -2,7 +2,7 @@
 description: 최상의 선택 - Marketo 문서 - 제품 설명서
 title: 최고의 선택
 exl-id: 39dc8442-0773-43ec-b788-72a43d68dcf3
-source-git-commit: 7a6108b3c68c5845fcf0169b111e058596e3d4a6
+source-git-commit: 15263f9c23c958499aaa2e4e6491b4962c617358
 workflow-type: tm+mt
 source-wordcount: '285'
 ht-degree: 0%
@@ -37,6 +37,8 @@ Best Bets 탭에는 우선순위에 따라 모든 핫 리드의 목록이 포함
 * Marketo에서 보기
 * 감시 목록에 추가
 
+![](assets/best-bets-1.png)
+
 **벌크 작업**
 
 확인란을 사용하여 최상의 선택 페이지에서 하나 이상의 잠재 고객 또는 연락처를 선택하고 다음 참여 옵션을 사용하여 그룹으로 연락할 수 있습니다.
@@ -45,7 +47,7 @@ Best Bets 탭에는 우선순위에 따라 모든 핫 리드의 목록이 포함
 * Marketo Campaign에 추가
 * 감시 목록에 추가
 
-![](assets/best-bets-1.png)
+![](assets/best-bets-2.png)
 
 >[!NOTE]
 >
