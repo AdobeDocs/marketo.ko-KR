@@ -4,7 +4,7 @@ title: 글로벌 양식 유효성 검사 규칙
 hide: true
 hidefromtoc: true
 exl-id: a44db893-00b5-40d2-8be3-41d52b2fd7b5
-source-git-commit: 18a74b9e2860765ea0b8d3bd61419e7738b287fc
+source-git-commit: f48e9b24f53052d7888b56ea64de19038f69a995
 workflow-type: tm+mt
 source-wordcount: '0'
 ht-degree: 0%
@@ -68,3 +68,7 @@ ht-degree: 0%
 1. 규칙 이름을 지정하고, 선택적 설명을 제공하고, 양식 방문자에게 표시할 오류 메시지를 입력합니다. 규칙 상자에 차단한 도메인을 입력하고 **규칙 활성화**&#x200B;를 클릭하고 **만들기**.
 
    ![](assets/global-form-validation-rules-10.png)
+
+>[!NOTE]
+>
+>Marketo Engage은 사전 로드된 &quot;차단 목록에 추가하다소비자 이메일 도메인&quot; 규칙을 사용할 때 차단되는 무료 소비자 이메일 차단 목록에 추가하다 도메인의 정의된 도메인을 제공합니다. [여기에서 해당 목록 보기](https://experienceleague.adobe.com/docs/marketo/assets/freemaildomains.csv).
