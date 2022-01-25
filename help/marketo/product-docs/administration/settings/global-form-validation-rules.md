@@ -4,9 +4,9 @@ title: 글로벌 양식 유효성 검사 규칙
 hide: true
 hidefromtoc: true
 exl-id: a44db893-00b5-40d2-8be3-41d52b2fd7b5
-source-git-commit: f48e9b24f53052d7888b56ea64de19038f69a995
+source-git-commit: 0354267afa8e11dbe7ac3b56bc8a4c2886c84676
 workflow-type: tm+mt
-source-wordcount: '0'
+source-wordcount: '195'
 ht-degree: 0%
 
 ---
@@ -71,4 +71,4 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->Marketo Engage은 사전 로드된 &quot;차단 목록에 추가하다소비자 이메일 도메인&quot; 규칙을 사용할 때 차단되는 무료 소비자 이메일 차단 목록에 추가하다 도메인의 정의된 도메인을 제공합니다. [여기에서 해당 목록 보기](https://experienceleague.adobe.com/docs/marketo/assets/freemaildomains.csv).
+>Marketo Engage은 사전 로드된 &quot;차단 목록에 추가하다소비자 이메일 도메인&quot; 규칙을 사용할 때 차단되는 무료 소비자 이메일 차단 목록에 추가하다 도메인의 정의된 도메인을 제공합니다. [여기에서 해당 목록 보기](/help/marketo/product-docs/administration/settings/assets/freemaildomains.csv).
