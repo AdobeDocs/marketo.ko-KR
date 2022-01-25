@@ -2,9 +2,9 @@
 description: 현재 릴리스 노트 - Marketo 문서 - 제품 설명서
 title: 현재 릴리스 노트
 exl-id: a2eccad5-73ad-48f9-8091-51cee23824e1
-source-git-commit: 5812f447fbe22bee13060afae8408de7ca7384e5
+source-git-commit: e2b050a0da8aa819a764aeb5dd905220451e2e59
 workflow-type: tm+mt
-source-wordcount: '1055'
+source-wordcount: '0'
 ht-degree: 0%
 
 ---
@@ -50,7 +50,7 @@ ht-degree: 0%
 
 ## AEP Marketo Engage 대상 커넥터 - 신규 리드 만들기 {#aep-marketo-engage-destination-connector}
 
-Adobe Experience Platform(AEP)도 사용하는 Marketo Engage 고객은 AEP 대상 커넥터를 통해 AEP의 Marketo Engage에 신규 개인 레코드를 푸시할 수 있으므로 데이터베이스를 극대화할 수 있습니다. AEP에서 Marketo Engage으로 대상 세그먼트를 보낼 때 Marketo Engage 데이터베이스에 아직 존재하지 않는 세그먼트 내의 사람들이 자동으로 추가됩니다.
+Adobe Experience Platform(AEP)도 사용하는 Marketo Engage 고객은 AEP 대상 커넥터를 통해 AEP의 Marketo Engage에 신규 개인 레코드를 푸시할 수 있으므로 데이터베이스를 극대화할 수 있습니다. AEP에서 Marketo Engage으로 대상 세그먼트를 보낼 때 세그먼트 내에 아직 존재하지 않는 사람이 Marketo Engage 데이터베이스에 있게 됩니다 [자동으로 추가할 수 있습니다](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/static-lists/push-an-adobe-experience-platform-segment-to-a-marketo-static-list.md).
 
 ## Sales Insight {#sales-insight}
 
@@ -78,7 +78,7 @@ Adobe Experience Platform(AEP)도 사용하는 Marketo Engage 고객은 AEP 대�
 
 ## 공지 {#announcements}
 
-* **Marketo Sky 선설정**: 3월 11일에는 차세대 사용자 경험을 제공하는 데 리소스를 집중하므로 Marketo Sky을 더 이상 사용할 수 없습니다. 현재 Marketo Sky 전용 기능에 대한 액세스를 유지하기 위해 Adobe에서는 자산 만료 및 스마트 캠페인 우선 순위 무시 를 3월에 주요 경험으로 도입할 예정입니다.
+* **Marketo Sky 사용 중단**: 3월 11일에는 차세대 사용자 경험을 제공하는 데 리소스를 집중하므로 Marketo Sky을 더 이상 사용할 수 없습니다. 현재 Marketo Sky 전용 기능에 대한 액세스를 유지하기 위해 Adobe에서는 자산 만료 및 스마트 캠페인 우선 순위 무시 를 3월에 주요 경험으로 도입할 예정입니다. [여기를 클릭하십시오.](https://nation.marketo.com/t5/the-next-generation-experience/marketo-sky-deprecation-notice/ba-p/320115#M33) 추가 정보
 
 * **양식 끝점 사용 중단**: leadCapture/save2 종단점에 대해 지원되지 않는 프로그래밍 방식 양식 POST가 Marketo Engage 양식에 의해 거부됩니다. [여기를 클릭하십시오.](https://nation.marketo.com/t5/product-documents/updated-october-2021-upcoming-changes-to-the-marketo-engage-form/ta-p/306631) 추가 정보
 
