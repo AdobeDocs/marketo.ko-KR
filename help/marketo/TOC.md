@@ -3,9 +3,9 @@ audience: end-user
 user-guide-title: Marketo 안내서
 user-guide-description: Marketo 제품 설명서
 feature-set: Marketo Engage
-source-git-commit: 15263f9c23c958499aaa2e4e6491b4962c617358
+source-git-commit: 96ff2469edfd60436eeeb77fdaedd25311e7d0a4
 workflow-type: tm+mt
-source-wordcount: '8252'
+source-wordcount: '8246'
 ht-degree: 0%
 
 ---
@@ -191,7 +191,6 @@ ht-degree: 0%
          + [보물 상자 피쳐 활성화 또는 비활성화](product-docs/administration/settings/enable-or-disable-treasure-chest-features.md)
          + [계정에 대해 개인화된 URL 활성화(관리)](product-docs/administration/settings/enable-personalized-urls-for-your-account-administration.md)
          + [글로벌 양식 유효성 검사 규칙](product-docs/administration/settings/global-form-validation-rules.md)
-         + [스팸 양식 제출을 차단하는 방법](product-docs/administration/settings/how-to-block-spam-form-submissions.md)
          + [랜딩 페이지 머리글](product-docs/administration/settings/landing-page-headers.md)
          + [IP를 기반으로 Marketo 로그인 제한](product-docs/administration/settings/restrict-marketo-logins-based-on-ip.md)
          + [언어, 로케일 및 표준 시간대 선택](product-docs/administration/settings/select-your-language-locale-and-time-zone.md)
