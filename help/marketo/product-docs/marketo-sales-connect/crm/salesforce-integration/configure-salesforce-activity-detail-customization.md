@@ -4,9 +4,9 @@ title: Salesforce 활동 세부 사항 사용자 지정 구성
 hide: true
 hidefromtoc: true
 exl-id: 4b20ca29-18d6-4026-9bf9-77656ad1442d
-source-git-commit: a95b889a36ae22aef6bc2ff5bc82f04751d389bd
+source-git-commit: 8574a4373ec778b6127905bb3f5057153bec88a5
 workflow-type: tm+mt
-source-wordcount: '589'
+source-wordcount: '614'
 ht-degree: 0%
 
 ---
@@ -102,25 +102,39 @@ Activity Detail Customization을 사용하면 관리자는 Sales Connect 활동/
 
 1. 톱니바퀴 아이콘을 클릭하고 을 선택합니다 **설정**.
 
-PICC
+   ![](assets/configure-salesforce-activity-detail-customization-3.png)
 
 1. 클릭 **Salesforce**.
 
-PICC
+   ![](assets/configure-salesforce-activity-detail-customization-4.png)
 
 1. 클릭 **동기화 설정**.
 
-PICC
+   ![](assets/configure-salesforce-activity-detail-customization-5.png)
 
-1. 활동 세부 사항 사용자 지정 편집기에서 원하는 자유 텍스트를 추가하면 Salesforce에 동기화된 모든 작업의 제목 필드에 대해 변경되지 않습니다.
+1. 활동 세부 사항 사용자 지정 편집기에서 원하는 자유 텍스트를 추가합니다. 추가하는 텍스트는 동적이지 않으며 Salesforce에 동기화된 모든 작업의 제목 필드에 대해 변경되지 않습니다.
 
-1. 동적 필드 단추를 클릭하고 목록에서 사용할 동적 필드를 선택하여 추가할 동적 필드를 추가합니다.
+   ![](assets/configure-salesforce-activity-detail-customization-6.png)
+
+   >[!TIP]
+   >
+   >필요하지 않지만, 추가된 텍스트를 직선 중괄호로 줄바꿈하면 일부 사람이 데이터를 Salesforce의 제목 필드에 채울 때 데이터 간을 쉽게 식별할 수 있습니다. 예: `[Sales Connect] - {{Activity_type}}`
+
+1. 을(를) 클릭하여 원하는 추가 동적 필드를 추가합니다 **동적 필드 추가** 버튼을 클릭합니다.
+
+   ![](assets/configure-salesforce-activity-detail-customization-7.png)
+
+1. 원하는 동적 필드를 선택합니다.
+
+   ![](assets/configure-salesforce-activity-detail-customization-8.png)
 
 1. 클릭 **저장**.
 
+   ![](assets/configure-salesforce-activity-detail-customization-9.png)
+
 >[!NOTE]
 >
->Salesforce에서는 255자 제한을 적용합니다. 활동 세부 사항이 초과되면 Salesforce 제목 필드에 정보를 저장할 수 있도록 잘립니다.
+>Salesforce에서는 255자 제한을 적용합니다. 활동 세부 사항이 초과되면 Salesforce 제목 필드에 정보가 저장되도록 잘립니다.
 
 >[!MORELIKETHIS]
 >
