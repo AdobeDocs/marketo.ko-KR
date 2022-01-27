@@ -4,9 +4,9 @@ title: Salesforce 활동 세부 사항 사용자 지정 구성
 hide: true
 hidefromtoc: true
 exl-id: 4b20ca29-18d6-4026-9bf9-77656ad1442d
-source-git-commit: 8574a4373ec778b6127905bb3f5057153bec88a5
+source-git-commit: ee43ec3a8631ab6b9e5e345b5a273673a1dc6983
 workflow-type: tm+mt
-source-wordcount: '614'
+source-wordcount: '675'
 ht-degree: 0%
 
 ---
@@ -20,6 +20,10 @@ ht-degree: 0%
 
 
 Activity Detail Customization을 사용하면 관리자는 Sales Connect 활동/미리 알림 작업이 Salesforce에 동기화될 때 Salesforce 작업 - 제목 필드에 로그인할 정보를 구성할 수 있습니다.
+
+>[!NOTE]
+>
+>리마인더 작업의 Sales Connect에서 제목 필드에 대한 업데이트는 해당 Salesforce 작업의 제목 필드에 반영됩니다. `{{activity_subject}}` 활동 세부 사항 사용자 지정의 동적 필드.
 
 ![](assets/configure-salesforce-activity-detail-customization-1.png)
 
@@ -46,6 +50,10 @@ Activity Detail Customization을 사용하면 관리자는 Sales Connect 활동/
 * 관리자는 제목 필드에 &quot;Mkto_sales&quot;와 같은 고유한 식별자를 태깅하여 Sales Connect의 활동을 쉽게 식별하고 다른 이메일 활동, 호출 활동 및 작업과 구별할 수 있습니다.
 * 사용자 지정 활동 필드의 필요성을 줄입니다. Salesforce에서는 사용자 지정 활동 필드 수에 제한을 적용하여 보고서에서 사용할 수 있는 데이터를 제한할 수 있습니다. 활동 동적 필드를 사용하여 제목 줄에 주요 데이터를 추가하면 Salesforce 인스턴스에서 만들어야 하는 사용자 지정 활동 필드의 수를 줄일 수 있습니다.
 * 활동 및 작업의 제목 필드는 Sales Connect 관리자가 정의한 일관된 패턴을 따릅니다.
+
+>[!NOTE]
+>
+>Salesforce에 활동으로 전자 메일 응답을 기록하는 경우 Salesforce 활동 세부 정보 사용자 지정 설정을 사용하지 않습니다. 대신 이 &quot;회신: 이메일 제목.&quot;
 
 ## 지원되는 활동 동적 필드 {#activity-dynamic-fields-supported}
 

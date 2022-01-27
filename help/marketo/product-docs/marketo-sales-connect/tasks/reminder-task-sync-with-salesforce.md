@@ -4,9 +4,9 @@ title: Salesforce와 작업 동기화 미리 알림
 hide: true
 hidefromtoc: true
 exl-id: 4de933db-4626-4845-be70-8ad55d03a18e
-source-git-commit: 87f43fb58b5739c0465a1a74fb60cdf5c5f6b759
+source-git-commit: ee43ec3a8631ab6b9e5e345b5a273673a1dc6983
 workflow-type: tm+mt
-source-wordcount: '501'
+source-wordcount: '564'
 ht-degree: 0%
 
 ---
@@ -79,3 +79,7 @@ ht-degree: 0%
 초기 동기화 후 Sales Connect에서 생성, 편집, 완료 또는 삭제하는 모든 작업은 Salesforce의 작업 목록에 동기화됩니다. Salesforce에서 생성, 편집, 완료 또는 삭제된 작업은 Sales Connect에서 작업 목록을 업데이트합니다.
 
 이 동기화를 켜려면 동기화 상자를 [설정 페이지](https://toutapp.com/login) 참조하십시오.
+
+>[!NOTE]
+>
+>Sales Connect에서 작업의 제목 필드를 업데이트할 수 있으며, `{{activity_subject}}` 동적 필드 [활동 세부 사항 사용자 지정](/help/marketo/product-docs/marketo-sales-connect/crm/salesforce-integration/configure-salesforce-activity-detail-customization.md) 설정. 반대로 Salesforce의 제목 필드에 대한 모든 업데이트는 _not_ Sales Connect 미리 알림 작업 제목 필드에 동기화합니다.
