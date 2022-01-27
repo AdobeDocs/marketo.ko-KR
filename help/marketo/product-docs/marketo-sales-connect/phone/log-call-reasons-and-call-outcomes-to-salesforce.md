@@ -4,7 +4,7 @@ title: Salesforce에 통화 이유 및 호출 결과 기록
 hide: true
 hidefromtoc: true
 exl-id: b35acdc2-8ec7-4dec-92b8-58ba7a1ad858
-source-git-commit: 357da216508db6196042d07000cbc1b04fa41071
+source-git-commit: c71661553ecee07d3f9d7c7e2e1bab240da54d1d
 workflow-type: tm+mt
 source-wordcount: '467'
 ht-degree: 0%
@@ -24,7 +24,7 @@ ht-degree: 0%
 
 ### Salesforce Classic에서 사용자 지정 활동 필드 만들기  {#create-custom-activity-field-in-salesforce-classic}
 
-1. Salesforce에서 **설정**.
+1. Salesforce에서 **설정**.
 
    ![](assets/log-call-reasons-and-call-outcomes-to-salesforce-1.png)
 
@@ -70,7 +70,7 @@ ht-degree: 0%
 >
 >위의 9단계에서 원하는 페이지 레이아웃을 선택하지 않은 경우에만 다음 단계를 수행해야 합니다.
 
-1. Salesforce에서 **설정**.
+1. Salesforce에서 **설정**.
 
    ![](assets/log-call-reasons-and-call-outcomes-to-salesforce-10.png)
 
@@ -110,11 +110,11 @@ ht-degree: 0%
 
    ![](assets/log-call-reasons-and-call-outcomes-to-salesforce-18.png)
 
-1. 을(를) 클릭합니다. **활동** 레이블.
+1. 을(를) 클릭합니다. **활동** 레이블.
 
    ![](assets/log-call-reasons-and-call-outcomes-to-salesforce-19.png)
 
-1. 클릭 **필드 및 관계**.
+1. 클릭 **필드 및 관계**.
 
    ![](assets/log-call-reasons-and-call-outcomes-to-salesforce-20.png)
 
