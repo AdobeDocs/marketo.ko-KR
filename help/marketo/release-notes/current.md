@@ -2,9 +2,9 @@
 description: 현재 릴리스 노트 - Marketo 문서 - 제품 설명서
 title: 현재 릴리스 노트
 exl-id: a2eccad5-73ad-48f9-8091-51cee23824e1
-source-git-commit: e2b050a0da8aa819a764aeb5dd905220451e2e59
+source-git-commit: ed9146f48aecd34025d61abf14d76a714726dcc9
 workflow-type: tm+mt
-source-wordcount: '0'
+source-wordcount: '1067'
 ht-degree: 0%
 
 ---
@@ -19,7 +19,7 @@ ht-degree: 0%
 
 **_분기별 릴리스_**
 
-다음 기능은에서 릴리스되기 시작합니다 **2022년 1월 21일**( 별도로 지정하지 않는 한 다음 주에 모든 기능을 단계별로 롤아웃합니다.)
+다음 기능은에서 릴리스되기 시작합니다 **2022년 1월 21일**&#x200B;를 설정하는 경우, 다음 주 동안 모든 기능을 단계별로 롤아웃합니다(별도로 지정하지 않는 한).
 
 ## 차세대 경험 {#next-generation-experience}
 
