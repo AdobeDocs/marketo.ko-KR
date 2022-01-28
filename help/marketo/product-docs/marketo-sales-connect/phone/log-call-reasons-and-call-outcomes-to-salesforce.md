@@ -1,10 +1,8 @@
 ---
 description: Salesforce에 통화 이유 및 호출 결과 기록 - Marketo 문서 - 제품 설명서
 title: Salesforce에 통화 이유 및 호출 결과 기록
-hide: true
-hidefromtoc: true
 exl-id: b35acdc2-8ec7-4dec-92b8-58ba7a1ad858
-source-git-commit: c71661553ecee07d3f9d7c7e2e1bab240da54d1d
+source-git-commit: d2d6d4389f5a480afdfae6bfb62b9f48f0a2d88e
 workflow-type: tm+mt
 source-wordcount: '467'
 ht-degree: 0%
@@ -122,7 +120,7 @@ ht-degree: 0%
 
    ![](assets/log-call-reasons-and-call-outcomes-to-salesforce-21.png)
 
-## Salesforce Lightning의 작업 페이지 레이아웃에 사용자 지정 활동 필드 추가 {#add-custom-activity-field-to-task-page-layout-in-salesforce-lightning}
+### Salesforce Lightning의 작업 페이지 레이아웃에 사용자 지정 활동 필드 추가 {#add-custom-activity-field-to-task-page-layout-in-salesforce-lightning}
 
 1. Salesforce에서 오른쪽 상단의 톱니바퀴 아이콘을 클릭하고 을 선택합니다 **설정**.
 
