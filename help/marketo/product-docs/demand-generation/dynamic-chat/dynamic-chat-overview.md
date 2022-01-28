@@ -4,9 +4,9 @@ title: 동적 채팅 개요
 hide: true
 hidefromtoc: true
 exl-id: 73ab651e-bb11-459d-aa6a-39d9e208d512
-source-git-commit: fda1bf51d4016a61c41be9acba4771db1797a552
+source-git-commit: 9ab6640ae30bd5ad653b5936a01ec3b0e19d595b
 workflow-type: tm+mt
-source-wordcount: '535'
+source-wordcount: '554'
 ht-degree: 0%
 
 ---
@@ -18,6 +18,10 @@ Dynamic Chat를 사용하면 사용하기 쉬운 인터페이스를 활용하여
 >[!NOTE]
 >
 >Dynamic Chat는 서서히 롤아웃되는 중입니다. 현재 제한된 가용성을 유지하고 있습니다. 이 페이지는 사용 가능한 GA(General Availability) 세부 정보로 업데이트됩니다.
+
+>[!TIP]
+>
+>방문 [이 페이지](https://dcweb.z20.web.core.windows.net/) Dynamic Chat의 녹화된 데모 및 자습서 비디오를 보려면 여기를 클릭하십시오 .
 
 ## 통합 {#integrations}
 
