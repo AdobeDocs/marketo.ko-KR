@@ -2,9 +2,9 @@
 description: Salesforce 활동 세부 정보 사용자 지정 구성 - Marketo 문서 - 제품 설명서
 title: Salesforce 활동 세부 사항 사용자 지정 구성
 exl-id: 4b20ca29-18d6-4026-9bf9-77656ad1442d
-source-git-commit: d2d6d4389f5a480afdfae6bfb62b9f48f0a2d88e
+source-git-commit: 4967f6260f084c9382271aa10d15bb0f7e083e8d
 workflow-type: tm+mt
-source-wordcount: '675'
+source-wordcount: '0'
 ht-degree: 0%
 
 ---
@@ -21,7 +21,9 @@ Activity Detail Customization을 사용하면 관리자는 Sales Connect 활동/
 
 >[!NOTE]
 >
->리마인더 작업의 Sales Connect에서 제목 필드에 대한 업데이트는 해당 Salesforce 작업의 제목 필드에 반영됩니다. `{{activity_subject}}` 활동 세부 사항 사용자 지정의 동적 필드.
+>* 리마인더 작업의 Sales Connect에서 제목 필드에 대한 업데이트는 해당 Salesforce 작업의 제목 필드에 반영됩니다. `{{activity_subject}}` 활동 세부 사항 사용자 지정의 동적 필드.
+>* Salesforce 제목 필드에 정보를 기록할 때는 줄 바꿈을 지원하지 않습니다. 판매 작업 주체가 업데이트되면 Activity Detail Customization 편집기의 모든 줄바꿈을 제거합니다.
+
 
 ![](assets/configure-salesforce-activity-detail-customization-1.png)
 
