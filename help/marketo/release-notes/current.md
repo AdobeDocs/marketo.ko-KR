@@ -2,7 +2,7 @@
 description: 현재 릴리스 노트 - Marketo 문서 - 제품 설명서
 title: 현재 릴리스 노트
 exl-id: a2eccad5-73ad-48f9-8091-51cee23824e1
-source-git-commit: ed9146f48aecd34025d61abf14d76a714726dcc9
+source-git-commit: 87410bcdc5f9ebb3b85765efe9fd852df4611ce6
 workflow-type: tm+mt
 source-wordcount: '1067'
 ht-degree: 0%
@@ -40,9 +40,9 @@ ht-degree: 0%
 
 ## 관리 {#administration}
 
-* **양식 유효성 검사 규칙**: 문제 또는 바람직하지 않은 전자 메일 도메인이 Marketo Engage 양식을 제출하지 않도록 차단하는 기능을 사용하여 데이터베이스의 상태를 유지합니다. 관리자는 전역 양식 유효성 검사 규칙 패널을 사용하여을 정의하거나 미리 정의된 사용 가능한 소비자 도메인 목록을 차단 목록에 추가하다 활성화하여 양식에서 차단할 수 있습니다.
+* **[양식 유효성 검사 규칙](/help/marketo/product-docs/administration/settings/global-form-validation-rules.md)**: 문제 또는 바람직하지 않은 전자 메일 도메인이 Marketo Engage 양식을 제출하지 않도록 차단하는 기능을 사용하여 데이터베이스의 상태를 유지합니다. 관리자는 전역 양식 유효성 검사 규칙 패널을 사용하여을 정의하거나 미리 정의된 사용 가능한 소비자 도메인 목록을 차단 목록에 추가하다 활성화하여 양식에서 차단할 수 있습니다.
 
-* **랜딩 페이지 헤더 보안**: 관리자는 랜딩 페이지 도메인에서 엄격한 전송 보안 및 X-Frame 옵션 헤더를 관리하여 강력한 보안 요구 사항을 적용할 수 있습니다.
+* **[랜딩 페이지 헤더 보안](/help/marketo/product-docs/administration/settings/landing-page-headers.md)**: 관리자는 랜딩 페이지 도메인에서 엄격한 전송 보안 및 X-Frame 옵션 헤더를 관리하여 강력한 보안 요구 사항을 적용할 수 있습니다.
 
 **_분기 전체에 출시_**
 
