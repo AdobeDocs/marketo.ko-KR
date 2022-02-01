@@ -1,10 +1,8 @@
 ---
 description: 랜딩 페이지 머리글 - Marketo 문서 - 제품 설명서
 title: 랜딩 페이지 머리글
-hide: true
-hidefromtoc: true
 exl-id: 58eaa0cd-2a2b-4abe-9180-f60a2a1dcc87
-source-git-commit: 18a74b9e2860765ea0b8d3bd61419e7738b287fc
+source-git-commit: a3acf82afa894160b20dff76fdd5132a234dfbd3
 workflow-type: tm+mt
 source-wordcount: '129'
 ht-degree: 0%
