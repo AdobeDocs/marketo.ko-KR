@@ -2,7 +2,7 @@
 description: 전환 스위치 - Marketo 문서 - 제품 설명서
 title: 스위치 전환
 exl-id: bb519314-bddf-4184-8585-22ed1fe85f9a
-source-git-commit: f00d43080136dd986a6d81d6bc8102cdaf788b4c
+source-git-commit: 0a95d8ec257323332ac046ab4a92c9d3cbab8da6
 workflow-type: tm+mt
 source-wordcount: '0'
 ht-degree: 0%
@@ -36,6 +36,20 @@ ht-degree: 0%
 새 경험이 로드됩니다.
 
 ![](assets/toggle-switch-4.png)
+
+## 랜딩 페이지 세부 정보 페이지 {#landing-page-details-page}
+
+1. Marketo에서 랜딩 페이지를 찾아서 선택합니다.
+
+   ![](assets/toggle-switch-5.png)
+
+1. 페이지 오른쪽 아래에서 **새 경험** 토글.
+
+   ![](assets/toggle-switch-6.png)
+
+새 경험이 로드됩니다.
+
+![](assets/toggle-switch-7.png)
 
 ## 양식 세부 사항 페이지 {#form-details-page}
 
