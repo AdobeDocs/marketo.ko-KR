@@ -3,9 +3,9 @@ description: 개인 세부 사항 보기 - Marketo 문서 - 제품 설명서
 title: 개인 세부 정보 보기
 hide: true
 hidefromtoc: true
-source-git-commit: 08767d476cf89eefe7223308945733c6f813a34d
+source-git-commit: 9ca5128dd2a6b68e644cfe8cc781d840f9429945
 workflow-type: tm+mt
-source-wordcount: '292'
+source-wordcount: '0'
 ht-degree: 0%
 
 ---
@@ -20,7 +20,7 @@ ht-degree: 0%
 
 PICC
 
-1. 원하는 사람을 클릭합니다.
+1. 원하는 사람을 선택합니다.
 
 PICC
 
