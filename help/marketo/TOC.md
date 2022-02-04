@@ -3,9 +3,9 @@ audience: end-user
 user-guide-title: Marketo 안내서
 user-guide-description: Marketo 제품 설명서
 feature-set: Marketo Engage
-source-git-commit: b6360de280547ba0fa486da094c467853b442621
+source-git-commit: f4cab63854a9c3e461daeb28c0a09746488c5d9e
 workflow-type: tm+mt
-source-wordcount: '8237'
+source-wordcount: '8247'
 ht-degree: 0%
 
 ---
@@ -273,6 +273,7 @@ ht-degree: 0%
             + [흐름 단계 삭제](product-docs/core-marketo-concepts/smart-campaigns/flow-actions/delete-a-flow-step.md)
             + [개인 삭제](product-docs/core-marketo-concepts/smart-campaigns/flow-actions/delete-person.md)
             + [캠페인 실행](product-docs/core-marketo-concepts/smart-campaigns/flow-actions/execute-campaign.md)
+            + [흐름 단계 서비스](product-docs/core-marketo-concepts/smart-campaigns/flow-actions/flow-step-service.md)
             + [레퍼러에 신용 제공](product-docs/core-marketo-concepts/smart-campaigns/flow-actions/give-credit-to-referrer.md)
             + [흥미로운 순간](product-docs/core-marketo-concepts/smart-campaigns/flow-actions/interesting-moment.md)
             + [흐름에서 제거](product-docs/core-marketo-concepts/smart-campaigns/flow-actions/remove-from-flow.md)
@@ -1281,6 +1282,7 @@ ht-degree: 0%
                + [대량 전자 메일 옵션](product-docs/marketo-sales-insight/actions/email/using-the-compose-window/bulk-emailing-options.md)
                + [선택 및 보내기로 대량 이메일 작성](product-docs/marketo-sales-insight/actions/email/using-the-compose-window/composing-bulk-emails-with-select-and-send.md)
                + [그룹 이메일을 통해 이메일 보내기](product-docs/marketo-sales-insight/actions/email/using-the-compose-window/sending-emails-via-group-email.md)
+               + [작성 창에서 템플릿 사용](product-docs/marketo-sales-insight/actions/email/using-the-compose-window/using-a-template-in-the-compose-window.md)
          + Salesforce 구성 {#salesforce-configuration}
             + [Salesforce의 MSI 작업 구성](product-docs/marketo-sales-insight/actions/salesforce-configuration/msi-actions-configuration-in-salesforce.md)
             + [Salesforce Classic 사용자 지정 패키지 제거](product-docs/marketo-sales-insight/actions/salesforce-configuration/uninstall-salesforce-classic-customization-package.md)
