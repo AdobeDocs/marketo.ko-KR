@@ -3,7 +3,8 @@ description: 흐름 단계 서비스 - Marketo 문서 - 제품 설명서
 title: 흐름 단계 서비스
 hide: true
 hidefromtoc: true
-source-git-commit: 08767d476cf89eefe7223308945733c6f813a34d
+exl-id: 81367562-8b27-4ec5-8a9b-b02083a2e999
+source-git-commit: 99ad4c68b8ab635f6eb6f7f0f53cb67ee3efc51c
 workflow-type: tm+mt
 source-wordcount: '1325'
 ht-degree: 0%
@@ -14,7 +15,7 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->이 사전 릴리스 기능은 현재 셀프 서비스 흐름 단계 베타 프로그램에 등록된 계정에서만 사용할 수 있습니다.
+>이 사전 릴리스 기능은 현재 셀프 서비스 흐름 단계 베타 프로그램에 등록된 계정에만 사용할 수 있습니다.
 
 셀프 서비스 흐름 단계는 웹 서비스를 Adobe Marketo Engage Smart Campaign에 작성, 게시 및 통합하는 프레임워크 및 기능 세트입니다. 이 안내서는 이미 작성 및 게시된 서비스를 설치 및 사용하려는 Marketo Engage 최종 사용자를 위한 것입니다. 자체 서비스를 제작 및 게시하는 방법에 대한 자세한 내용은 [서비스 공급자 인터페이스의 GitHub 리포지토리](https://github.com/adobe/Marketo-SSFS-Service-Provider-Interface). 개념 증명 조회 테이블 구현을 찾을 수 있습니다 [여기](https://github.com/adobe/mkto-flow-lookup).
 
