@@ -1,60 +1,59 @@
 ---
 unique-page-id: 7512272
-description: WebEx를 LaunchPoint 서비스로 추가 - Marketo Docs - 제품 설명서
-title: WebEx를 LaunchPoint 서비스로 추가
+description: LaunchPoint Service로 Webex 추가 - Marketo 문서 - 제품 설명서
+title: Webex를 LaunchPoint 서비스로 추가
 exl-id: 2c2cedde-d38f-4d53-a760-104b517afc4c
-translation-type: tm+mt
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+source-git-commit: 8813686a39852443bf200eda232fd5448c6aa414
 workflow-type: tm+mt
-source-wordcount: '143'
+source-wordcount: '0'
 ht-degree: 0%
 
 ---
 
-# WebEx를 LaunchPoint 서비스로 추가 {#add-webex-as-a-launchpoint-service}
+# Webex를 LaunchPoint 서비스로 추가 {#add-webex-as-a-launchpoint-service}
 
-Marketo은 WebEx 웨비나 등록 및 참석을 관리합니다.
-
->[!NOTE]
->
->**관리자 권한 필요**
+Marketo Engage은 Webex 웨비나 등록 및 출석을 관리합니다.
 
 >[!NOTE]
 >
->이 단계를 수행하려면 WebEx 및 관리 권한에 대한 기존 구독이 필요합니다. 다음과 같은 설정이 있습니다.사용자 이름, 암호 및 사이트 이름.
+>**관리 권한 필요**
 
 >[!NOTE]
 >
->사이트 이름은 WebEx에 로그인하는 데 사용되는 URL 끝에 있습니다. 예:
+>이 단계에서는 Webex 및 관리 권한에 대한 기존 구독이 필요합니다. 현재 다음 설정을 사용하십시오. 사용자 이름, 암호 및 사이트 이름.
+
+>[!NOTE]
+>
+>사이트 이름은 Webex에 로그인하는 데 사용되는 URL의 끝에서 찾을 수 있습니다. 예:
 >
 >`https://mycompany.webex.com/mw0300lc/mywebex/default.do?siteurl=mycompany`
 >
->주의:이 필드에 전체 URL을 입력하지 마십시오.사이트 이름만 입력합니다!
+>**주의:** 이 필드에 전체 URL을 입력하지 마십시오. 사이트 이름만 입력하십시오!
 
-1. **관리**&#x200B;로 이동하고 **LaunchPoint**&#x200B;를 클릭합니다.
+1. 이동 **관리** 을(를) 클릭합니다. **LaunchPoint**.
 
    ![](assets/image2015-4-23-11-3a20-3a43.png)
 
-1. **새로 만들기**&#x200B;를 선택한 다음 **새 서비스**&#x200B;를 선택합니다.
+1. 선택 **새로 만들기** 그리고 **새 서비스**.
 
    ![](assets/webex-new-service.png)
 
-1. **표시 이름**&#x200B;을 입력합니다. **서비스**&#x200B;에서 **WebEx**&#x200B;를 선택합니다.
+1. 을(를) 입력합니다. **표시 이름**. 아래 **서비스**, 선택 **Webex**.
 
    ![](assets/new-service-webex.png)
 
-1. **사용자 이름** 및 **암호**&#x200B;를 입력합니다.
+1. 을(를) 입력합니다. **사용자 이름** 및 **암호**.
 
    ![](assets/image2015-4-24-18-3a56-3a56.png)
 
-1. **사이트 이름**&#x200B;을 입력한 다음 **만들기**&#x200B;를 클릭하여 프로세스를 완료합니다.
+1. 을 입력하여 프로세스를 완료합니다 **사이트 이름** 을 클릭한 다음 **만들기**.
 
    ![](assets/image2015-4-24-18-3a58-3a43.png)
 
-1. 대단해! 이제 **WebEx**&#x200B;이(가) Marketo과 동기화됩니다.
+1. 경이로워! 사용자 **Webex** 이제 이 Marketo과 동기화됩니다.
 
    ![](assets/webex.png)
 
 >[!MORELIKETHIS]
 >
->[WebEx](/help/marketo/product-docs/demand-generation/events/create-an-event/create-an-event-with-webex.md)로 이벤트를 만드는 방법을 알아봅니다.
+>방법 알아보기 [Webx를 사용하여 이벤트 만들기](/help/marketo/product-docs/demand-generation/events/create-an-event/create-an-event-with-webex.md).
