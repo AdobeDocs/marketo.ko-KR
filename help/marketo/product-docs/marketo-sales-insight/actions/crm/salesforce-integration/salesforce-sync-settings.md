@@ -4,9 +4,9 @@ title: Salesforce 동기화 설정
 hide: true
 hidefromtoc: true
 exl-id: fa13ced2-6184-485f-a0ef-813ccab4f0fe
-source-git-commit: fda1bf51d4016a61c41be9acba4771db1797a552
+source-git-commit: acb077e9d6e9fa4027d660ee182a13820f16ad83
 workflow-type: tm+mt
-source-wordcount: '438'
+source-wordcount: '443'
 ht-degree: 0%
 
 ---
@@ -19,9 +19,9 @@ ht-degree: 0%
 
 >[!PREREQUISITES]
 >
->Salesforce 및 Marketo Sales가 연결되어 있어야 합니다.
+>Salesforce 및 Sales Insight Action 은 연결되어 있어야 합니다.
 
-1. Marketo Sales에서 톱니바퀴 아이콘을 클릭하고 을 선택합니다 **설정**.
+1. Sales Insight Actions에서 톱니바퀴 아이콘을 클릭하고 을 선택합니다. **설정**.
 
    ![](assets/salesforce-sync-settings-1.png)
 
@@ -47,7 +47,7 @@ ht-degree: 0%
 
 >[!PREREQUISITES]
 >
->Salesforce 및 Marketo Sales가 연결되어 있어야 합니다.
+>Salesforce 및 Sales Insight Action 은 연결되어 있어야 합니다.
 
 **이메일(BCC)을 통해 Salesforce에 이메일을 기록하려면**
 
@@ -93,9 +93,9 @@ ht-degree: 0%
 1. &quot;활성&quot; 옆의 상자를 선택합니다.
 1. 클릭 **저장**.
 
-## Salesforce 작업에 Marketo 영업 작업/미리 알림 동기화 {#sync-marketo-sales-tasks-reminders-to-salesforce-tasks}
+## Salesforce 작업에 Sales Insight 작업/미리 알림 동기화 {#sync-sales-insight-actions-tasks-reminders-to-salesforce-tasks}
 
-1. Marketo Sales에서 톱니바퀴 아이콘을 클릭하고 을 선택합니다 **설정**.
+1. Sales Insight Actions에서 톱니바퀴 아이콘을 클릭하고 을 선택합니다. **설정**.
 
    ![](assets/salesforce-sync-settings-10.png)
 

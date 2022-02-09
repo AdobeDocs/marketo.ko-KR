@@ -3,9 +3,9 @@ description: 개인 세부 사항 보기 - Marketo 문서 - 제품 설명서
 title: 개인 세부 정보 보기
 hide: true
 hidefromtoc: true
-source-git-commit: 9ca5128dd2a6b68e644cfe8cc781d840f9429945
+source-git-commit: acb077e9d6e9fa4027d660ee182a13820f16ad83
 workflow-type: tm+mt
-source-wordcount: '0'
+source-wordcount: '288'
 ht-degree: 0%
 
 ---
@@ -18,21 +18,21 @@ ht-degree: 0%
 
 1. 개인 세부 사항 보기에 액세스하려면 **사람** 탭.
 
-PICC
+   ![](assets/person-detail-view-1.png)
 
 1. 원하는 사람을 선택합니다.
 
-PICC
+   ![](assets/person-detail-view-2.png)
 
->[!TIP]
->
->사람 이름이 표시되는 곳 어디에서든 해당 이름을 클릭하여 개인 세부 사항 보기에 액세스할 수 있습니다.
+   >[!TIP]
+   >
+   >사람 이름이 표시되는 곳 어디에서든 해당 이름을 클릭하여 개인 세부 사항 보기에 액세스할 수 있습니다.
 
 ## 정보 탭 {#about-tab}
 
 개인의 모든 연락처 정보를 포함합니다.
 
-PICC
+![](assets/person-detail-view-3.png)
 
 **연락처 카드**
 
