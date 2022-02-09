@@ -3,7 +3,7 @@ description: Sales Insight Actions 및 GDPR Compliance - Marketo 문서 - 제품
 title: Sales Insight 작업 및 GDPR 준수
 hide: true
 hidefromtoc: true
-source-git-commit: acb077e9d6e9fa4027d660ee182a13820f16ad83
+source-git-commit: 95eef55e3bbf24f1511fcbb3091a5b657653d672
 workflow-type: tm+mt
 source-wordcount: '1396'
 ht-degree: 0%
@@ -101,7 +101,7 @@ Sales Insight Actions에는 연락처의 인증 유형과 소스 유형에 대�
 
 사람 페이지에서 하나 이상의 연락처를 선택하면 오른쪽에 도타(세 점 메뉴)가 나타납니다. 이 옵션을 클릭하면 인증 및 소스가 선택 사항임을 확인할 수 있습니다. 여러 연락처의 인증 또는 원본을 동시에 설정할 수 있습니다.
 
-![](assets/sales-insight-actions-and-gdpr-compliance-5.jpg)
+![](assets/sales-insight-actions-and-gdpr-compliance-5.png)
 
 인증 모달을 클릭하면 Compliance Card와 일치하는 드롭다운 옵션이 있는 팝업이 나타납니다.
 
