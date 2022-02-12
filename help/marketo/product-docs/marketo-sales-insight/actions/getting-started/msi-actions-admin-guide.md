@@ -3,9 +3,10 @@ description: MSI 작업 관리 안내서 - Marketo 문서 - 제품 설명서
 title: MSI 작업 관리 안내서
 hide: true
 hidefromtoc: true
-source-git-commit: 55a677339f03b11ac3c2bdf58fdb83fdbd1cd4b8
+exl-id: 339d518d-445b-4634-ab81-92c9d5541927
+source-git-commit: e3d175d9f6131ec9798c4047ccf79858c254c745
 workflow-type: tm+mt
-source-wordcount: '491'
+source-wordcount: '492'
 ht-degree: 0%
 
 ---
@@ -14,7 +15,7 @@ ht-degree: 0%
 
 >[!PREREQUISITES]
 >
->* Customer Success Manager에게 MSI 작업이 Marketo 계정에 대해 활성화되었는지 확인합니다(CSM이 없는 경우, [지원 문의](https://nation.marketo.com/t5/support/ct-p/Support)).
+>* Customer Success Manager에게 MSI 작업이 Marketo 계정에 대해 활성화되었는지 확인합니다(CSM이 없는 경우, [Marketo 지원 문의](https://nation.marketo.com/t5/support/ct-p/Support)).
 >* Marketo/Salesforce 동기화를 설정해야 합니다.
 
 
