@@ -3,7 +3,8 @@ description: 작업 데이터 동기화 FAQ - Marketo 문서 - 제품 설명서
 title: 작업 데이터 동기화 FAQ
 hide: true
 hidefromtoc: true
-source-git-commit: bde1c5487de349b9d01105a1cee28598f2d6a36c
+exl-id: bb213d50-be22-492d-b74c-b8cfb834b2ca
+source-git-commit: 984a6dbd19d88db942d9d10bde4880a79feabcc7
 workflow-type: tm+mt
 source-wordcount: '1030'
 ht-degree: 0%
