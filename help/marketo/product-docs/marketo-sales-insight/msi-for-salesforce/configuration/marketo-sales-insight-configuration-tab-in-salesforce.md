@@ -3,9 +3,9 @@ unique-page-id: 42762322
 description: Salesforce의 Marketo Sales Insight Configuration 탭 - Marketo 문서 - 제품 설명서
 title: Salesforce의 Marketo Sales Insight 구성 탭
 exl-id: 4e2abd48-b0a5-4b71-939b-e66c7e39bb6c
-source-git-commit: 15263f9c23c958499aaa2e4e6491b4962c617358
+source-git-commit: 2d6df5b08cb4ae6459d10bdc7a1d2ab09a96fb9d
 workflow-type: tm+mt
-source-wordcount: '585'
+source-wordcount: '600'
 ht-degree: 0%
 
 ---
@@ -67,6 +67,10 @@ SFDC에서 Sales Insight를 사용하려면 이 설정을 해야 합니다.
 이렇게 선택하면 SFDC에서 모든 구성이 지워지고 복원할 수 없습니다. 모든 것을 다시 구성해야 합니다.
 
 ![](assets/marketo-sales-insight-configuration-tab-in-salesforce-5.png)
+
+>[!IMPORTANT]
+>
+>Sales Insights 작업 기능을 사용하지 않는 경우 &quot;MSI 작업 활성화&quot; 확인란을 선택하지 마십시오.
 
 >[!MORELIKETHIS]
 >
