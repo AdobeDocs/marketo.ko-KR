@@ -4,16 +4,22 @@ title: 개요
 hide: true
 hidefromtoc: true
 exl-id: 18ddeebc-bc89-411c-9d2c-23df6841cb3a
-source-git-commit: fda1bf51d4016a61c41be9acba4771db1797a552
+source-git-commit: 34860f7b0a94a142c3d29a225203a00c7fb3b79e
 workflow-type: tm+mt
-source-wordcount: '809'
+source-wordcount: '957'
 ht-degree: 0%
 
 ---
 
 # 개요 {#overview}
 
-Adobe Marketo Engage 구독이 10/4/21 이후에 프로비저닝된 경우, Adobe Identity Management 시스템과 통합됩니다. 이 통합을 통해 사용자는 일반적인 Adobe ID를 사용하여 Marketo Engage 및 기타 Experience Cloud 애플리케이션에 로그인할 수 있습니다.
+2022년 2월 15일 현재 Adobe Marketo Engage(기존 계정의 새 인스턴스뿐만 아니라 새 계정)가 있는 새 계정이 있는 경우, 구매한 제품 패키지에 따라 Adobe Identity Management 시스템과 통합될 수 있습니다. 보유하고 있는지 확인하려면 Marketo 관리자 또는 계정의 고객 성공 관리자에게 문의하십시오.
+
+기존 Marketo 가입은 올해 말부터 Adobe Identity Management 시스템으로 마이그레이션됩니다.
+
+>[!NOTE]
+>
+>Marketo 지원에서는 Adobe IMS 마이그레이션과 관련된 업데이트를 제공할 수 없습니다. 고객 성공 관리자는 향후 몇 개월 동안 예상되는 타임라인을 통해 지원을 받을 것입니다.
 
 ## 프로필 수준
 
@@ -50,6 +56,10 @@ Adobe Identity Management 시스템은 세 가지 구성 요소로 구성됩니�
 
 * Adobe 사용자 관리 API(UMAPI): 조직에서 API 수준에서 Adobe Admin Console에서 엔터프라이즈 사용자 및 자격을 관리할 수 있습니다.
 
+**기존 Marketo Engage 구독은 언제 IMS와 통합됩니까?**
+
+기존 Marketo 가입은 올해 말 Adobe Identity Management 시스템으로 마이그레이션됩니다. Marketo 지원에서는 Adobe IMS 마이그레이션과 관련된 업데이트를 제공할 수 없습니다. 고객 성공 관리자는 향후 몇 개월 동안 예상되는 타임라인을 통해 지원을 받을 것입니다.
+
 **Adobe 제품 관리자와 Marketo Engage 관리자의 차이점은 무엇입니까?**
 
 * Adobe 제품 관리자는 Marketo 플랫폼의 새로운 역할입니다.
@@ -58,11 +68,11 @@ Adobe Identity Management 시스템은 세 가지 구성 요소로 구성됩니�
 * Adobe 제품 관리자는 표준 Marketo 관리자와 동일한 권한과 권한을 갖습니다.
 * Marketo Engage 관리자의 역할은 여전히 관리자이며, Marketo Engage의 사용자에게 부여됩니다.
 
-**API 클라이언트 지원에 변경 사항이 있습니까?**
+**사용자 관리 API 클라이언트 지원에 변경 사항이 있습니까?**
 
-예. Adobe IMS에 온보딩된 사용자는 기존 Marketo 사용자 관리 API를 모두 활용할 수 없습니다. 사용자 초대, 업데이트 및 삭제 작업의 경우 [IMS API](https://www.adobe.io/apis/experienceplatform/umapi-new.html) 를 사용해야 합니다. 역할 관리의 경우 Marketo 사용자 관리 API가 계속 적용됩니다.
+예. Adobe IMS에 온보딩된 사용자는 기존 Marketo 사용자 관리 API를 모두 활용할 수 없습니다. 사용자 초대, 업데이트 및 삭제 작업의 경우 Adobe [IMS API](https://www.adobe.io/apis/experienceplatform/umapi-new.html) 를 사용해야 합니다. 역할 관리의 경우 Marketo 사용자 관리 API가 계속 적용됩니다. 그 외에도 Marketo REST API 클라이언트 지원에 대한 다른 변경 사항은 없습니다.
 
-**지원을 받으려면 누구에게 연락해야 합니까?**
+**Adobe가 IMS와 통합되는 경우 지원 담당자는 누구입니까?**
 
 연락하는 표준 절차를 따릅니다 [Marketo 지원](https://nation.marketo.com/t5/support/ct-p/Support).
 
@@ -70,7 +80,7 @@ Adobe Identity Management 시스템은 세 가지 구성 요소로 구성됩니�
 
 아니요. Marketo Engage에서 사용자 역할 관리(작업 공간 내)가 완료되었습니다.
 
-**Marketo 관리자이며 Admin Console에 액세스할 수 없습니다. 액세스 권한을 받으려면 어떻게 해야 합니까?**
+**IMS 통합 구독의 Marketo 관리자이며 Admin Console에 액세스할 수 없습니다. 액세스 권한을 받으려면 어떻게 해야 합니까?**
 
 조직의 Admin Console에 액세스할 수 있는 모든 Adobe 시스템 또는 제품 관리자가 액세스 권한을 줄 수 있습니다. 조직의 구성원이 콘솔에서 관리자 권한을 가지고 있는지 확실하지 않은 경우 [고객 지원 Adobe](https://helpx.adobe.com/contact.html).
 
@@ -82,7 +92,7 @@ Sales Connect Admin Console에 제품 카드가 있을 경우 사용자를 추�
 
 [https://helpx.adobe.com/enterprise/admin-guide.html](https://helpx.adobe.com/enterprise/admin-guide.html).
 
-**계정을 변경하기 위해 Marketo의 관리 섹션으로 계속 이동합니까?**
+**내 계정에 대해 사용자 계정을 변경하기 위해 Marketo의 관리 섹션으로 계속 이동합니까?**
 
 아니요. [account.adobe.com](https://account.adobe.com).
 
@@ -98,7 +108,7 @@ Adobe ID로 온보딩되는 사용자는 제품의 구독 전환기를 통해 �
 
 Adobe IMS는 현재 Marketo의 장치 인증 기능과 같은 것을 지원하지 않습니다.
 
-**&quot;사용자 초대 대화 상자에 로그인&quot; 기능을 사용하여 이메일에서 로그인을 고유하게 만들 수 있습니까?**
+**&quot;사용자 초대 대화 상자에 로그인&quot; 기능을 사용하여 사용자의 로그인을 이메일에서 고유하게 만들 수 있습니까?**
 
 아니요. 구독이 IMS를 사용할 수 있는 경우 사용자 초대 워크플로우가 더 이상 활성 상태가 아니므로 기능이 더 이상 유효하지 않습니다. Adobe id를 사용하려면 이메일에 의해 사용자의 ID가 제어되어야 합니다.
 

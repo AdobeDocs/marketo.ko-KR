@@ -4,9 +4,9 @@ title: 사용자 추가 또는 제거
 hide: true
 hidefromtoc: true
 exl-id: b1087d41-b548-47bd-91b7-282dc902cba3
-source-git-commit: fda1bf51d4016a61c41be9acba4771db1797a552
+source-git-commit: 34860f7b0a94a142c3d29a225203a00c7fb3b79e
 workflow-type: tm+mt
-source-wordcount: '225'
+source-wordcount: '240'
 ht-degree: 0%
 
 ---
@@ -43,11 +43,15 @@ ht-degree: 0%
 
    ![](assets/add-or-remove-a-user-7.png)
 
+   >[!IMPORTANT]
+   >
+   >사용자 **반드시** Marketo Engage에 액세스하기 위해 제품 프로필에 추가됩니다.
+
 1. 클릭 **저장**.
 
    ![](assets/add-or-remove-a-user-8.png)
 
-그러면 사용자가 Marketo에 로그인하는 이메일을 받게 됩니다.
+그러면 Marketo Engage에 로그인할 수 있는 이메일이 사용자에게 전송됩니다.
 
 >[!NOTE]
 >
@@ -79,7 +83,7 @@ ht-degree: 0%
 
    ![](assets/add-or-remove-a-user-14.png)
 
-그러면 사용자는 더 이상 Marketo Engage에 대한 제품 관리자 액세스 권한이 없음을 알리는 이메일을 받게 됩니다.
+그러면 사용자는 더 이상 Marketo Engage에 액세스할 수 없음을 알리는 이메일을 받게 됩니다.
 
 >[!MORELIKETHIS]
 >
