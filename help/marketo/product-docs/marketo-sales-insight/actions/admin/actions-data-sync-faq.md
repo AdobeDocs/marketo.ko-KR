@@ -4,9 +4,9 @@ title: 작업 데이터 동기화 FAQ
 hide: true
 hidefromtoc: true
 exl-id: bb213d50-be22-492d-b74c-b8cfb834b2ca
-source-git-commit: 8d19489d50213f81097307eded9f9d21c6537143
+source-git-commit: 441482ea4d367d6d751c4dd5b8bcd67f7fb7935a
 workflow-type: tm+mt
-source-wordcount: '1033'
+source-wordcount: '1045'
 ht-degree: 0%
 
 ---
@@ -37,7 +37,7 @@ Sales Insight Actions에 대한 데이터 통합 필드 동기화를 사용하�
 
 존재하는 표준 소유자 필드를 확인하여 리드/연락처에 Salesforce의 판매 소유자가 있는지 확인할 수 있습니다.
 
-영업 소유자는 Marketo 동기화 사용자 또는 특정 Salesforce 또는 영업 사용자가 될 필요가 없습니다. 표준 소유자 필드에 사용자가 나열되는 한 영업 작업에 동기화할 리드/연락처를 포함시키고, 해당 리드에 만들 동기화된 필드에 대한 업데이트에 포함시킵니다.
+영업 소유자는 Marketo 동기화 사용자 또는 특정 Salesforce 또는 영업 사용자가 될 필요가 없습니다. Salesforce에 나열된 리드 소유자 및 연락처 소유자 필드에 나열된 사용자가 있어야 영업 리드로 식별하고 Sales Insight Actions에 동기화할 수 있습니다. Sales Insight Actions에서 동기화되는 필드에 대한 모든 업데이트도 감지되고 업데이트됩니다.
 
 ## Sales Insight Smart Grid에 표시되는 활동 데이터는 어디에서 소싱됩니까? {#where-does-the-activity-data-get-sourced-from}
 
