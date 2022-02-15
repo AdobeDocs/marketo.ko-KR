@@ -4,9 +4,9 @@ title: 작업 데이터 동기화 FAQ
 hide: true
 hidefromtoc: true
 exl-id: bb213d50-be22-492d-b74c-b8cfb834b2ca
-source-git-commit: 984a6dbd19d88db942d9d10bde4880a79feabcc7
+source-git-commit: 8d19489d50213f81097307eded9f9d21c6537143
 workflow-type: tm+mt
-source-wordcount: '1030'
+source-wordcount: '1033'
 ht-degree: 0%
 
 ---
@@ -120,4 +120,5 @@ Sales Insight Action 을 사용하면 관리자가 Salesforce에 기록되는 �
 >* [Marketo 가입 해지 확인](/help/marketo/product-docs/marketo-sales-insight/actions/email/unsubscribes/marketo-unsubscribe-check.md)
 >* [Salesforce 동기화 설정](/help/marketo/product-docs/marketo-sales-insight/actions/crm/salesforce-integration/salesforce-sync-settings.md)
 >* [Salesforce와 작업 동기화 미리 알림](/help/marketo/product-docs/marketo-sales-insight/actions/tasks/reminder-task-sync-with-salesforce.md)
+>* [데이터 동기화 시작](/help/marketo/product-docs/marketo-sales-insight/actions/getting-started/msi-actions-admin-guide.md#initiate-data-sync)
 

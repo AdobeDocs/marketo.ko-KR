@@ -3,9 +3,9 @@ audience: end-user
 user-guide-title: Marketo 안내서
 user-guide-description: Marketo 제품 설명서
 feature-set: Marketo Engage
-source-git-commit: 88bbace33ed01a0c2632751b67b4a38a59222394
+source-git-commit: 8d19489d50213f81097307eded9f9d21c6537143
 workflow-type: tm+mt
-source-wordcount: '8282'
+source-wordcount: '8281'
 ht-degree: 0%
 
 ---
@@ -595,7 +595,7 @@ ht-degree: 0%
             + [이벤트 프로그램에 구성원 추가](product-docs/demand-generation/events/understanding-events/adding-members-to-an-event-program.md)
             + [새 이벤트 프로그램 만들기](product-docs/demand-generation/events/understanding-events/create-a-new-event-program.md)
             + [이벤트 채널 편집](product-docs/demand-generation/events/understanding-events/edit-an-event-channel.md)
-            + [LaunchPoint 이벤트 파트너](product-docs/demand-generation/events/understanding-events/launchpoint-event-partners.md)
+            + [이벤트 파트너](product-docs/demand-generation/events/understanding-events/event-partners.md)
             + [이벤트 프로그램 이해](product-docs/demand-generation/events/understanding-events/understanding-event-programs.md)
          + 이벤트 만들기 {#create-an-event}
             + [Adobe Connect으로 이벤트 만들기](product-docs/demand-generation/events/create-an-event/create-an-event-with-adobe-connect.md)

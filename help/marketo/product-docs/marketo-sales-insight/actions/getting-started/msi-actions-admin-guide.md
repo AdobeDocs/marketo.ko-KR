@@ -4,9 +4,9 @@ title: MSI 작업 관리 안내서
 hide: true
 hidefromtoc: true
 exl-id: 339d518d-445b-4634-ab81-92c9d5541927
-source-git-commit: e3d175d9f6131ec9798c4047ccf79858c254c745
+source-git-commit: 8d19489d50213f81097307eded9f9d21c6537143
 workflow-type: tm+mt
-source-wordcount: '492'
+source-wordcount: '556'
 ht-degree: 0%
 
 ---
@@ -110,15 +110,17 @@ Salesforce에 이미 로그인한 경우 연결됩니다. 그렇지 않으면 �
 
 ## 데이터 동기화 시작 {#initiate-data-sync}
 
+Sales Insight Actions에 대한 데이터 통합 필드 동기화를 사용하면 시스템에서 Marketo Engage 데이터베이스의 개인 정보를 Sales Insight Actions 데이터베이스로 가져와서 사용자 데이터를 최신 상태로 유지하고 Marketo 및 Salesforce에서 올바른 레코드에 활동이 기록되도록 할 수 있습니다.
+
 1. Marketo에서 **관리**.
 
    ![](assets/msi-actions-admin-guide-10.png)
 
-1. Sales Insight 를 클릭합니다.
+1. 클릭 **Sales Insight**.
 
    ![](assets/msi-actions-admin-guide-11.png)
 
-1. 작업 구성 탭을 클릭합니다. 작업 필드 동기화 카드에서 **동기화**.
+1. 을(를) 클릭합니다. **작업 구성** 탭. 작업 필드 동기화 카드에서 **동기화**.
 
    ![](assets/msi-actions-admin-guide-12.png)
 
@@ -127,6 +129,10 @@ Salesforce에 이미 로그인한 경우 연결됩니다. 그렇지 않으면 �
    ![](assets/msi-actions-admin-guide-13.png)
 
 Marketo 및 Salesforce에 있는 개인 레코드는 Marketo Sales Apps 계정에 동기화됩니다.
+
+>[!NOTE]
+>
+>Sales Insight Actions, Marketo 및 Salesforce 간에 사람 및 활동 데이터가 동기화되는 방법에 대해 자세히 알아보려면 [여기를 클릭하십시오.](/help/marketo/product-docs/marketo-sales-insight/actions/admin/actions-data-sync-faq.md).
 
 ## 개별 사용자를 MSI 작업에 초대 {#invite-individual-users-to-msi-actions}
 
