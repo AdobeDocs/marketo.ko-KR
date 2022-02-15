@@ -4,9 +4,9 @@ title: 작업 데이터 동기화 FAQ
 hide: true
 hidefromtoc: true
 exl-id: bb213d50-be22-492d-b74c-b8cfb834b2ca
-source-git-commit: 441482ea4d367d6d751c4dd5b8bcd67f7fb7935a
+source-git-commit: 8ded6cac96f17c81a8d37cbe51c39ad565ac828e
 workflow-type: tm+mt
-source-wordcount: '1045'
+source-wordcount: '1044'
 ht-degree: 0%
 
 ---
@@ -15,7 +15,7 @@ ht-degree: 0%
 
 Sales Insight Actions에 대한 데이터 통합 필드 동기화를 사용하면 시스템에서 Marketo Engage 데이터베이스의 개인 정보를 Sales Insight Actions 데이터베이스로 가져올 수 있습니다.
 
-이렇게 하면 Sales Insight Actions 웹 앱에서 최신 사람 데이터를 제공하고 시스템에서 Marketo의 해당 개인 레코드에 대한 고유 ID와 Salesforce의 리드/연락처/계정/기회 레코드를 수집하여 레코드가 데이터 로깅에 대해 제대로 참조될 수 있습니다.
+이렇게 하면 Sales Insight Actions 웹 앱에서 최신 사람 데이터를 제공하고 시스템에서 Marketo의 해당 개인 레코드에 대한 고유 ID와 Salesforce의 리드/연락처/계정/기회 레코드를 수집할 수 있으므로 레코드를 데이터 로깅에 대해 올바르게 참조할 수 있습니다.
 
 이 동기화는 Marketo Engage의 관리 섹션에 있는 Sales Insight Actions 구성 탭에서 활성화할 수 있습니다. 자세한 내용은 체크아웃 [데이터 동기화 시작](/help/marketo/product-docs/marketo-sales-insight/actions/getting-started/msi-actions-admin-guide.md#initiate-data-sync).
 
