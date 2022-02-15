@@ -3,7 +3,7 @@ unique-page-id: 1147091
 description: 프로그램 멤버십 이해 - Marketo 문서 - 제품 설명서
 title: 프로그램 멤버십 이해
 exl-id: 02480a93-b499-4e0f-8a1c-a22f7d3b7178
-source-git-commit: 66baa78d3e32140526d8d66beba493e02937a2c2
+source-git-commit: f6212795eec123265c6b6628da9974e97f9f7caf
 workflow-type: tm+mt
 source-wordcount: '308'
 ht-degree: 0%
@@ -31,7 +31,7 @@ ht-degree: 0%
    1. 사람은 자동으로 첫 번째 승급 상태를 갖습니다.
 
 1. 를 사용합니다 [프로그램 상태 변경](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/program-flow-actions/change-program-status.md) 흐름 단계.
-1. 등록하거나 참석합니다. [이벤트 프로그램과 동기화된 웨비나](/help/marketo/product-docs/demand-generation/events/events/event-partners.md).
+1. 등록하거나 참석합니다. [이벤트 프로그램과 동기화된 웨비나](/help/marketo/product-docs/demand-generation/events/understanding-events/event-partners.md).
 1. 사람은 [Marketo iPad 체크인 애플리케이션을 사용하여 생성됨](/help/marketo/product-docs/core-marketo-concepts/mobile-apps/event-check-in/check-people-into-your-event-from-your-tablet.md).
 1. 한 사람이 SFDC 캠페인에 추가되며, [프로그램에 동기화됨](/help/marketo/product-docs/crm-sync/salesforce-sync/sfdc-sync-details/sfdc-sync-campaign-sync.md).
 
