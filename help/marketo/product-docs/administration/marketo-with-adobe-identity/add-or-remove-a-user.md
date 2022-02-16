@@ -1,10 +1,8 @@
 ---
 description: 사용자 추가 또는 제거 - Marketo 문서 - 제품 설명서
 title: 사용자 추가 또는 제거
-hide: true
-hidefromtoc: true
 exl-id: b1087d41-b548-47bd-91b7-282dc902cba3
-source-git-commit: 34860f7b0a94a142c3d29a225203a00c7fb3b79e
+source-git-commit: 7eff888c0fdebf31da4706f70d1e99e8327807ca
 workflow-type: tm+mt
 source-wordcount: '240'
 ht-degree: 0%

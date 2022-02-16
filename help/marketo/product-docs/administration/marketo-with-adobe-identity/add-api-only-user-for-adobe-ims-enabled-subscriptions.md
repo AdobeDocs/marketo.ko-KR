@@ -1,9 +1,8 @@
 ---
 description: Adobe IMS 가입 활성화를 위한 API 전용 사용자 추가 - Marketo 문서 - 제품 설명서
 title: Adobe IMS 활성화 구독에 대한 API 전용 사용자 추가
-hide: true
-hidefromtoc: true
-source-git-commit: 1161d193261af10aaa7658e747ff6500ad4179d0
+exl-id: bf908a50-de2f-4ea0-8d6a-5d7ed6d39ebf
+source-git-commit: 7eff888c0fdebf31da4706f70d1e99e8327807ca
 workflow-type: tm+mt
 source-wordcount: '152'
 ht-degree: 0%
