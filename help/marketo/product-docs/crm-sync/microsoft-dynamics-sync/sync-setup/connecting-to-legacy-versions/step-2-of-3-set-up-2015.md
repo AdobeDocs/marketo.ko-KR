@@ -3,9 +3,9 @@ unique-page-id: 7504739
 description: Microsoft Dynamics 2015용 Marketo 설치 2/3 - Marketo 문서 - 제품 설명서
 title: Microsoft Dynamics 2015 온-프레미스 2/3단계용 Marketo 설치
 exl-id: 39f00749-4ba3-47f1-b2e3-72cbaa7caf2e
-source-git-commit: 7b1f0d0d45bbfe3d8b781282e0a4ef1884a2bf40
+source-git-commit: 19c568cdc3d31d07e42e99eb7e48f10a017b44f9
 workflow-type: tm+mt
-source-wordcount: '341'
+source-wordcount: '363'
 ht-degree: 0%
 
 ---
@@ -46,9 +46,13 @@ Marketo 동기화 사용자 역할만 Marketo 동기화 사용자에게 할당�
 
    ![](assets/assign4.png)
 
-   Marketo 동기화 사용자를 선택하고 확인을 클릭합니다.
+1. Marketo 동기화 사용자를 확인하고 를 클릭합니다 **확인**.
 
    ![](assets/assign5.png)
+
+   >[!IMPORTANT]
+   >
+   >동기화 사용자에게 Marketo 구성에 대한 읽기 권한이 있어야 합니다.
 
    >[!TIP]
    >
@@ -85,6 +89,10 @@ Marketo 동기화 사용자 역할만 Marketo 동기화 사용자에게 할당�
 1. 클릭 **모든 사용자 지정 게시**.
 
    ![](assets/publish-all-customizations1.png)
+
+   >[!NOTE]
+   >
+   >동기화 사용자에게 Marketo 구성에 대한 읽기 권한이 있어야 합니다.
 
 ## 3단계로 진행하기 전 {#before-proceeding-to-step}
 

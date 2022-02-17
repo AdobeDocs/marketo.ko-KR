@@ -1,14 +1,15 @@
 ---
-description: 3단계 중 2단계 - 리소스 소유자 암호 제어 연결을 사용하여 Marketo 솔루션 설정 - Marketo 문서 - 제품 설명서
-title: 3단계 중 2단계 - 리소스 소유자 암호 제어 연결을 사용하여 Marketo 솔루션 설정
-source-git-commit: 598390517dea96b0503fd9c0cdfd47bd7617b48a
+description: 4단계 중 2단계 - 리소스 소유자 암호 제어 연결을 사용하여 Marketo 솔루션 설정 - Marketo 문서 - 제품 설명서
+title: 4단계 중 2단계 - 리소스 소유자 암호 제어 연결을 사용하여 Marketo 솔루션 설정
+exl-id: 41c05910-d8e3-4fb7-8f68-17ee10294e57
+source-git-commit: 19c568cdc3d31d07e42e99eb7e48f10a017b44f9
 workflow-type: tm+mt
-source-wordcount: '429'
+source-wordcount: '440'
 ht-degree: 0%
 
 ---
 
-# 3단계 중 2단계: 리소스 소유자 암호 제어 연결을 사용하여 Marketo 솔루션 설정 {#step-2-of-3-set-up-the-marketo-solution-ropc}
+# 4단계 중 2단계: 리소스 소유자 암호 제어 연결을 사용하여 Marketo 솔루션 설정 {#step-2-of-4-set-up-the-marketo-solution-ropc}
 
 사용자 계정을 만들어 보겠습니다.
 
@@ -45,6 +46,10 @@ ht-degree: 0%
 1. 다른 새 탭이 열립니다. 클릭 **사용자 추가**.
 
    ![](assets/seven.png)
+
+   >[!IMPORTANT]
+   >
+   >동기화 사용자에게 Marketo 구성에 대한 읽기 권한이 있어야 합니다.
 
 1. 모든 정보를 입력합니다. 완료되면 을(를) 클릭합니다. **추가**.
 
