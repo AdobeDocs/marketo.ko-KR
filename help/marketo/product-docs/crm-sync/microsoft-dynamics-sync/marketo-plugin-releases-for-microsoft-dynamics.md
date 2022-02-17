@@ -3,26 +3,26 @@ unique-page-id: 10099389
 description: Microsoft Dynamics용 Marketo 플러그인 릴리스 - Marketo 문서 - 제품 설명서
 title: Microsoft Dynamics용 Marketo 플러그인 릴리스
 exl-id: c9c25e11-bcf7-49bf-920a-4182af27d278
-source-git-commit: b491f476c4facc6343559a0acf5d5527e9afc618
+source-git-commit: 1379fcbdc0a8673b1d6cb17a9d573d3625d5a1b8
 workflow-type: tm+mt
-source-wordcount: '401'
-ht-degree: 6%
+source-wordcount: '419'
+ht-degree: 7%
 
 ---
 
-# Microsoft Dynamics {#marketo-plugin-releases-for-microsoft-dynamics}용 Marketo 플러그인 릴리스
+# Microsoft Dynamics용 Marketo 플러그인 릴리스 {#marketo-plugin-releases-for-microsoft-dynamics}
 
 Microsoft Dynamics에 처음 동기화하면 Marketo용 플러그인의 최신 버전을 다운로드합니다. Marketo은 정기적으로 이러한 플러그인을 업데이트하므로 동일한 위치로 돌아가 새 버전을 다운로드할 수 있습니다.
 
-[Dynamics 릴리스에 ](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/download-the-marketo-lead-management-solution.md) 해당하는 최신 플러그인을 다운로드합니다.
+[최신 플러그인 다운로드](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/download-the-marketo-lead-management-solution.md) 해당 섹션을 참조하십시오.
 
-![](assets/lead-management-solution.png)
+![](assets/marketo-plugin-releases-for-microsoft-dynamics-1.png)
 
-## Dynamics 솔루션 업데이트 중 {#updating-your-dynamics-solution}
+## Dynamics 솔루션 업데이트 {#updating-your-dynamics-solution}
 
-1. 기존 버전의 Dynamics CRM을 통해 솔루션의 최신 버전을 가져올 수 있습니다(예:Dynamics CRM의 버전 1.4가 있고 최신 버전이 1.5이면 _버전 1.4를 통해_&#x200B;을(를) 가져옵니다.
+1. 기존 버전의 Dynamics CRM을 통해 최신 버전의 솔루션을 가져옵니다(예: dynamics CRM에 버전 1.4가 있고 최신 버전이 1.5인 경우 가져오게 됩니다 _over_ 버전 1.4).
 
-1. 다음 팝업이 표시됩니다. **업데이트** 및 **사용자 정의 유지**&#x200B;를 선택한 다음 **가져오기**&#x200B;를 클릭합니다.
+1. 다음 팝업이 표시됩니다. 선택 **업데이트** 및 **사용자 지정 유지 관리**&#x200B;를 클릭한 다음 **가져오기**.
 
 ![](assets/marketo-plugin-releases-for-microsoft-dynamics-2.png)
 
@@ -30,88 +30,93 @@ Microsoft Dynamics에 처음 동기화하면 Marketo용 플러그인의 최신 �
 
 >[!NOTE]
 >
->이러한 버전은 Dynamics의 온프레미스 및 온라인 버전에서 모두 사용할 수 있습니다.
+>이러한 버전은 Dynamics의 온프레미스 및 온라인 버전 모두에서 작동합니다.
 
 <table> 
  <tbody> 
   <tr> 
    <th colspan="1">버전</th> 
    <th colspan="1">릴리스 날짜</th> 
-   <th>참고 사항</th> 
+   <th>참고</th> 
+  </tr> 
+  <tr> 
+   <td colspan="1">5.0.1.1</td> 
+   <td colspan="1">02/04/21</td> 
+   <td colspan="1">다중 선택 옵션 집합 필드 동기화를 지원합니다(이 기능은 V9.X 이상에서만 사용 가능). .</td> 
   </tr> 
   <tr> 
    <td colspan="1">4.2.0.0</td> 
    <td colspan="1">10/16/20</td> 
-   <td colspan="1">MS Dynamics와 캠페인 동기화에 대한 지원이 추가되었습니다.</td> 
+   <td colspan="1">MS Dynamics와의 캠페인 동기화에 대한 지원이 추가되었습니다.</td> 
   </tr> 
   <tr> 
    <td colspan="1">4.0.0.24</td> 
    <td colspan="1">8/22/18</td> 
-   <td colspan="1">Microsoft Dynamics 버전 9.x에 대한 연락처 프로세스를 즉시 적용할 수 있는 리드에 대한 지원이 추가되었습니다.</td> 
+   <td colspan="1">Microsoft Dynamics 버전 9.x에 대한 연락처 프로세스에 대한 특별 지원 지원이 추가되었습니다.</td> 
   </tr> 
   <tr> 
    <td colspan="1">4.0.0.23</td> 
    <td colspan="1">6/27/18</td> 
-   <td colspan="1">버그 수정:Dynamics 2013용 Marketo 솔루션을 설치하는 동안 비즈니스 프로세스 오류가 발생했습니다.</td> 
+   <td colspan="1">버그 수정: Dynamics 2013용 Marketo 솔루션을 설치하는 동안 비즈니스 프로세스 오류가 발생했습니다.</td> 
   </tr> 
   <tr> 
    <td colspan="1">4.0.0.22</td> 
    <td colspan="1">9/29/17</td> 
-   <td colspan="1">버그 수정:내부 개정.</td> 
+   <td colspan="1">버그 수정: 내부 수정.</td> 
   </tr> 
   <tr> 
    <td colspan="1"><p>4.0.0.21</p></td> 
    <td colspan="1">11/9/16</td> 
-   <td colspan="1">버그 수정:플러그인이 사용자 지정 개체의 상태 변경을 캡처하는 이벤트에 구독하지 않았습니다. 이 수정 사항은 Premise 2011의 Dynamics CRM에만 적용됩니다. </td> 
+   <td colspan="1">버그 수정: 플러그인이 사용자 지정 개체의 상태 변경을 캡처하는 이벤트에 가입하지 않았습니다. 이 수정 사항은 Premise 2011의 Dynamics CRM에만 적용됩니다. </td> 
   </tr> 
   <tr> 
    <td colspan="1">4.0.0.20</td> 
    <td colspan="1">7/22/16</td> 
-   <td colspan="1">버그 수정:기회 연락처 역할의 업데이트가 완전히 캡처되지 않았습니다.</td> 
+   <td colspan="1">버그 수정: 영업 기회 연락처 역할의 업데이트가 완전히 캡처되지 않았습니다.</td> 
   </tr> 
   <tr> 
    <td colspan="1">4.0.0.19</td> 
    <td colspan="1">6/28/16</td> 
-   <td colspan="1"><p>버그 수정:기회를 만들 때 마케팅 로그의 사용자 지정 기회 역할에 대한 불필요한 업데이트 트랜잭션이 기록되었습니다. </p><p>버그 수정:customeropportunityRole 엔티티를 삭제할 때 추가 삭제 트랜잭션이 기록되었습니다.</p></td> 
+   <td colspan="1"><p>버그 수정: 기회를 만들 때 marketo 로그의 customerquityrole에 대한 불필요한 업데이트 트랜잭션이 기록되었습니다. </p><p>버그 수정: customervoicyrole 엔터티를 삭제할 때 추가 삭제 트랜잭션이 기록되었습니다.</p></td> 
   </tr> 
   <tr> 
    <td colspan="1">4.0.0.18</td> 
    <td colspan="1">5/31/16</td> 
-   <td colspan="1">버그 수정: 사용자 지정 개체를 비동기식으로 업데이트 및 삭제했습니다.</td> 
+   <td colspan="1">버그 수정: 사용자 지정 개체를 비동기식으로 업데이트 및 삭제합니다.</td> 
   </tr> 
   <tr> 
    <td colspan="1">4.0.0.17</td> 
    <td colspan="1">4/8/16</td> 
-   <td colspan="1">버그 수정:리드에 동기화 필터가 NO로 설정되어 있고 영업 기회 및 연락처에 동기화 필터가 없으면 리드가 자격을 갖추었을 때 연락처와 기회에 대해 만들기 로그가 생성되지 않았습니다.</td> 
+   <td colspan="1">버그 수정: 리드에 동기화 필터가 NO로 설정되어 있고 영업 기회 및 연락처에 동기화 필터가 없는 경우 리드가 자격을 갖추었을 때 담당자 및 영업 기회에 대해 생성 로그가 생성되지 않았습니다.</td> 
   </tr> 
   <tr> 
    <td colspan="1">4.0.0.16</td> 
    <td colspan="1">3/29/16</td> 
-   <td>버그 수정:동기화 필터가 꺼져 있을 때 [이벤트 할당]이 기록되었습니다.</td> 
+   <td>버그 수정: 동기화 필터가 꺼져 있을 때 할당 이벤트가 기록되었습니다.</td> 
   </tr> 
   <tr> 
    <td colspan="1">4.0.0.15</td> 
    <td colspan="1">3/3/16</td> 
-   <td colspan="1">버그 수정:로그인 사용자에게 Marketo 구성 권한이 없으므로 고객은 CRM에서 리드를 만들 수 없습니다.</td> 
+   <td colspan="1">버그 수정: 로그인 사용자에게 Marketo 구성 권한이 없으므로 고객이 CRM에서 리드를 만들 수 없습니다.</td> 
   </tr> 
   <tr> 
    <td colspan="1">4.0.0.14</td> 
    <td colspan="1">1/18/16</td> 
-   <td colspan="1">버그 수정:보안 문제를 해결하기 위해 일반 Dynamics 사용자에 대한 액세스 제한을 만들었습니다.</td> 
+   <td colspan="1">버그 수정: 보안 문제를 해결하기 위해 일반 Dynamics 사용자에 대한 액세스 제한을 만들었습니다.</td> 
   </tr> 
   <tr> 
    <td colspan="1">4.0.0.13</td> 
    <td colspan="1">12/30/15</td> 
-   <td>버그 수정:Dynamics 업데이트가 단계 및 이미지에 대해 Marketo에 동기화되지 않았습니다.</td> 
+   <td>버그 수정: Dynamics의 업데이트가 단계 및 이미지에 대해 Marketo과 동기화되지 않았습니다.</td> 
   </tr> 
   <tr> 
    <td colspan="1">4.0.0.12</td> 
    <td colspan="1">11/12/15</td> 
-   <td colspan="1">버그 수정:동기화 필터가 false로 설정된 경우 리드 레코드가 Marketo에 동기화되었습니다.</td> 
+   <td colspan="1">버그 수정: 동기화 필터가 false로 설정된 경우 리드 레코드가 Marketo으로 동기화되었습니다.</td> 
   </tr> 
  </tbody> 
 </table>
 
 >[!MORELIKETHIS]
-[Marketo 리드 관리 솔루션 다운로드](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/download-the-marketo-lead-management-solution.md)>
 >
+>[Marketo 리드 관리 솔루션 다운로드](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/download-the-marketo-lead-management-solution.md)
