@@ -2,9 +2,9 @@
 description: Marketo 정적 목록에 Adobe Experience Platform 세그먼트 푸시 - Marketo 문서 - 제품 설명서
 title: Marketo 정적 목록에 Adobe Experience Platform 세그먼트 푸시
 exl-id: 8df11bf4-06f4-4927-8dfb-954414fce6dc
-source-git-commit: 05129f546cf2ba0df5c608485adf73c26d4b4f1e
+source-git-commit: 0dd8059a43bfb37cdcb6b36cc73d82538263245e
 workflow-type: tm+mt
-source-wordcount: '593'
+source-wordcount: '0'
 ht-degree: 0%
 
 ---
@@ -15,6 +15,7 @@ ht-degree: 0%
 
 >[!PREREQUISITES]
 >
+>* [API 역할 편집](/help/marketo/product-docs/administration/users-and-roles/create-delete-edit-and-change-a-user-role.md#edit-an-existing-role) 그 안에 **읽기-쓰기 사람** 권한(액세스 API 드롭다운에서 찾음)
 >* [API 사용자 만들기](/help/marketo/product-docs/administration/users-and-roles/create-an-api-only-user.md) Marketo.
 >* 이동 **관리** > **Launchpoint**. 방금 만든 역할의 이름을 찾아 **세부 사항 보기**. 정보를 복사하여 저장합니다 **클라이언트 ID** 및 **클라이언트 암호** 7단계에 필요한 경우
 >* Marketo에서 정적 목록을 만들거나 이미 만든 정적 목록을 찾아 선택합니다. ID가 필요합니다.
@@ -36,7 +37,7 @@ ht-degree: 0%
 
    ![](assets/push-an-adobe-experience-platform-segment-4.png)
 
-1. Marketo Engage 타일을 찾고 **세그먼트 활성화**.
+1. Marketo Engage 타일을 찾고 **활성화**.
 
    ![](assets/push-an-adobe-experience-platform-segment-5.png)
 
@@ -79,7 +80,11 @@ ht-degree: 0%
 
    >[!NOTE]
    >
-   >여기에서 여러 세그먼트를 선택하는 경우, 세그먼트 예약 탭에서 지정된 정적 목록에 각 세그먼트를 매핑해야 합니다.
+   >여러 세그먼트를 선택하는 경우, 세그먼트 예약 탭에서 지정된 정적 목록에 각 세그먼트를 매핑해야 합니다.
+
+   >[!IMPORTANT]
+   >
+   >세그먼트가 Marketo 대상에 처음으로 활성화되면 Marketo 대상 활성화 전에 세그먼트에 이미 있었던 프로필을 다시 채울 수 있습니다 **최대 24시간**. 앞으로는 언제든지 프로필이 세그먼트에 추가되면 즉시 Marketo에 추가됩니다.
 
 1. 클릭 **새 매핑 추가**.
 
