@@ -3,9 +3,9 @@ audience: end-user
 user-guide-title: Marketo 안내서
 user-guide-description: Marketo 제품 설명서
 feature-set: Marketo Engage
-source-git-commit: 8d19489d50213f81097307eded9f9d21c6537143
+source-git-commit: e651aa8eb79935f5c00594104c60818df9617fb6
 workflow-type: tm+mt
-source-wordcount: '8281'
+source-wordcount: '8285'
 ht-degree: 0%
 
 ---
@@ -481,6 +481,7 @@ ht-degree: 0%
             + [Marketo 리드 관리 솔루션 다운로드](product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/download-the-marketo-lead-management-solution.md)
             + [클라이언트 ID 및 앱 등록에 대한 동의 부여](product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/grant-consent-for-client-id-and-app-registration.md)
             + [Microsoft Dynamics용 Marketo 솔루션 업데이트](product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/update-the-marketo-solution-for-microsoft-dynamics.md)
+            + [Dynamics 인증 메서드 다시 구성](product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/reconfigure-dynamics-authentication-method.md)
             + [Microsoft Dynamics 동기화 유효성 검사](product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/validate-microsoft-dynamics-sync.md)
             + [조직 서비스 URL 보기](product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/view-the-organization-service-url.md)
             + Microsoft Dynamics 2016/Dynamics 365 온-프레미스  {#microsoft-dynamics-2016-dynamics-365-on-premises}

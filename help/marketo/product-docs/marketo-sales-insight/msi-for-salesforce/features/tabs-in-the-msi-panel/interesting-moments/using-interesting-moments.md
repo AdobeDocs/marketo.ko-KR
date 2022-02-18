@@ -3,9 +3,9 @@ unique-page-id: 2951640
 description: 흥미로운 순간 사용 - Marketo 문서 - 제품 설명서
 title: 흥미로운 순간 사용
 exl-id: ccf7664b-08e1-490a-a3f9-5fa3bd8fb05f
-source-git-commit: 1dd4a4f6bfac0b101f85f3776396aeef1a1f7182
+source-git-commit: e651aa8eb79935f5c00594104c60818df9617fb6
 workflow-type: tm+mt
-source-wordcount: '418'
+source-wordcount: '450'
 ht-degree: 0%
 
 ---
@@ -85,5 +85,9 @@ Salesforce1용 Marketo Sales Insight1를 설치하거나 업데이트하면 리�
 1. 경고를 전송할 이메일 주소(본인/팀 구성원)를 선택합니다
 
 1. 클릭 **구독**.
+
+>[!NOTE]
+>
+>관심 모멘트 유형 또는 설명을 구독하면 사용자는 해당 유형 또는 설명과 일치하는 흥미로운 모멘트를 트리거할 때 자신이 소유한 사람(리드/연락처)에 대한 이메일 알림을 받게 됩니다.
 
 ![](assets/using-interesting-moments-8.png)
