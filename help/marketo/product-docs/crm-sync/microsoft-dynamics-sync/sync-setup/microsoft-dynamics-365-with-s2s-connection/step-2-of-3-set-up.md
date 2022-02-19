@@ -3,9 +3,9 @@ unique-page-id: 3571827
 description: 3단계 중 2단계 - 서버 연결 시 Marketo 솔루션 설정 - Marketo 문서 - 제품 설명서
 title: 3단계 중 2단계 - 서버 간 연결을 사용하여 Marketo 솔루션 설정
 exl-id: 324e2142-2aa2-4548-9a04-683832e3ba69
-source-git-commit: 7e6fab646ec03394cb406fc41442d585c162bb25
+source-git-commit: b4fafa28d9a38504a29c25700496d8376c4fe47b
 workflow-type: tm+mt
-source-wordcount: '661'
+source-wordcount: '601'
 ht-degree: 0%
 
 ---
@@ -44,7 +44,13 @@ ht-degree: 0%
 
 ![](assets/step-2-of-3-set-up-marketo-sync-user-in-dynamics-s2s-4.png)
 
-1. 다음 링크에서 다음 절차를 따르십시오. [Microsoft에서 애플리케이션 사용자 설정](https://docs.microsoft.com/en-us/powerapps/developer/common-data-service/use-single-tenant-server-server-authentication#application-user-creation). 애플리케이션 사용자에게 권한을 부여하는 동안 이 권한을 &quot;Marketo 동기화 사용자 역할&quot;에 할당합니다.
+## Microsoft에서 애플리케이션 사용자 만들기 {#create-application-user-in-microsoft}
+
+1. 다음 링크에서 다음 절차를 따르십시오. [Microsoft에서 애플리케이션 사용자 설정](https://docs.microsoft.com/en-us/powerapps/developer/common-data-service/use-single-tenant-server-server-authentication#application-user-creation).
+
+   >[!IMPORTANT]
+   >
+   >애플리케이션 사용자에게 권한을 부여하는 동안 이 권한을 &quot;Marketo 동기화 사용자 역할&quot;에 할당하십시오.
 
 ## AD FS On-prem을 사용하여 Azure AD Federated {#azure-ad-federated-with-ad-fs-on-prem}
 
@@ -52,37 +58,13 @@ ADFS Onprem에 대한 Federated Azure AD는 특정 응용 프로그램에 대한
 
 추가 참조 [여기에서 찾을 수 있습니다.](https://docs.microsoft.com/en-us/azure/active-directory/reports-monitoring/concept-all-sign-ins#:~:text=Interactive%20user%20sign%2Dins%20are,as%20the%20Microsoft%20Authenticator%20app.&amp;text=이%20report%20also%20includes%20federated,are%20federated%20to%20Azure%20AD.).
 
-## 동기화 사용자 역할 할당 {#assign-sync-user-role}
-
-1. Marketo 동기화 사용자에게만 Marketo 동기화 사용자 역할을 할당합니다.
-
->[!NOTE]
->
->이는 Marketo 버전 4.0.0.14 이상에 적용됩니다. 이전 버전의 경우 모든 사용자는 동기화 사용자 역할이 있어야 합니다. Marketo 솔루션을 업그레이드하려면 [이 문서 보기](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/update-the-marketo-solution-for-microsoft-dynamics.md).
-
-1. 응용 프로그램 사용자 탭으로 돌아가서 사용자 목록을 새로 고칩니다.
-
-   ![](assets/step-2-of-3-set-up-marketo-sync-user-in-dynamics-s2s-5.png)
-
-1. 새로 만든 애플리케이션 사용자 옆에 마우스를 가져가면 확인란이 표시됩니다. 클릭하여 선택합니다.
-
-   ![](assets/step-2-of-3-set-up-marketo-sync-user-in-dynamics-s2s-6.png)
-
-1. 클릭 **역할 관리**.
-
-   ![](assets/step-2-of-3-set-up-marketo-sync-user-in-dynamics-s2s-7.png)
-
-1. 확인 **Marketo 동기화 사용자** 을(를) 클릭합니다. **확인**.
-
-   ![](assets/step-2-of-3-set-up-marketo-sync-user-in-dynamics-s2s-8.png)
-
 ## Marketo 솔루션 구성 {#configure-marketo-solution}
 
 거의 다 왔어! 새로 만든 사용자에 대해 Marketo Solution에 알려기만 하면 됩니다.
 
 >[!IMPORTANT]
 >
->기본 인증에서 OAuth로 업그레이드하는 경우 [Marketo 지원](https://nation.marketo.com/t5/support/ct-p/Support) 추가 매개 변수 업데이트에 대한 도움말을 참조하십시오. 이 기능을 사용하면 새 자격 증명을 입력하고 동기화를 다시 사용할 수 있을 때까지 동기화가 일시적으로 중지됩니다. 이전 인증 모드로 되돌리려면 기능을 비활성화할 수 있습니다(2022년 4월까지).
+>기본 인증에서 OAuth로 업그레이드하는 경우 [Marketo 지원](https://nation.marketo.com/t5/support/ct-p/Support) 추가 매개 변수 업데이트에 대한 도움말을 참조하십시오. 기본 동기화 사용자에 대한 구성 변경을 수행하면 새 자격 증명을 입력하고 동기화를 다시 사용할 수 있을 때까지 동기화가 일시적으로 중지됩니다. 요청이 있을 때, Marketo 지원에서 이전 인증 방법으로 되돌리려면 기능을 비활성화(2022년 4월까지)할 수 있습니다.
 
 1. 고급 설정 섹션으로 돌아가서 ![](assets/image2015-5-13-15-3a49-3a19.png) 설정 옆에 있는 아이콘을 선택하고 **Marketo 구성**.
 
@@ -124,4 +106,6 @@ ADFS Onprem에 대한 Federated Azure AD는 특정 응용 프로그램에 대한
 
 >[!MORELIKETHIS]
 >
->[3단계 중 3단계: Marketo 솔루션을 서버와 서버 연결 연결](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/microsoft-dynamics-365-with-s2s-connection/step-3-of-3-connect.md)
+>* [3단계 중 3단계: Marketo 솔루션을 서버와 서버 연결 연결](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/microsoft-dynamics-365-with-s2s-connection/step-3-of-3-connect.md)
+>* [Dynamics 인증 메서드 다시 구성](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/reconfigure-dynamics-authentication-method.md)
+

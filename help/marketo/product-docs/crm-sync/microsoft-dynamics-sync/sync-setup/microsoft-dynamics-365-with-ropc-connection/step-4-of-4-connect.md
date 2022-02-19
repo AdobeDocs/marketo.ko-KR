@@ -2,9 +2,9 @@
 description: 4단계 - Marketo 솔루션을 리소스 소유자 암호 제어 연결과 연결 - Marketo 문서 - 제품 설명서
 title: 4단계 중 4단계 - Marketo 솔루션을 리소스 소유자 암호 제어 연결과 연결
 exl-id: 71a52a3e-f31e-45ee-8196-d536528e42ca
-source-git-commit: eb200f085b41489c8d7e11bb2fd059a311e5349c
+source-git-commit: b4fafa28d9a38504a29c25700496d8376c4fe47b
 workflow-type: tm+mt
-source-wordcount: '0'
+source-wordcount: '460'
 ht-degree: 0%
 
 ---
@@ -54,7 +54,7 @@ ht-degree: 0%
    >
    >새 자격 증명을 입력하기 전에 다음을 수행할 수 있습니다 [여기에서 확인하십시오.](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/validate-microsoft-dynamics-sync.md).
 
-1. 을(를) 입력합니다. **사용자 이름**, **암호**, **클라이언트 ID**, **클라이언트 암호**, 및 Microsoft Dynamics **URL**. 클릭 **저장** 완료 시.
+1. 을(를) 입력합니다. **사용자 이름**, **암호**, Microsoft Dynamics **URL**, **클라이언트 ID**, 및 **클라이언트 암호**. 클릭 **저장** 완료 시.
 
    ![](assets/step-4-of-4-connect-ropc-5.png)
 
@@ -111,3 +111,7 @@ ht-degree: 0%
    ![](assets/image2015-3-16-9-3a59-3a51.png)
 
 탁월한 작업!
+
+>[!MORELIKETHIS]
+>
+>[Dynamics 인증 메서드 다시 구성](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/reconfigure-dynamics-authentication-method.md)
