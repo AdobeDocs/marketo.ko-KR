@@ -4,7 +4,7 @@ title: Salesforce의 MSI 작업 구성
 hide: true
 hidefromtoc: true
 exl-id: 2d842886-3501-4aca-96fb-0d6763ab2b01
-source-git-commit: daff9a98605b8a5c89c538f711fecb5b7a382f84
+source-git-commit: 84e3c4d525c5bde9e3ebd17d2f29ad42578777ff
 workflow-type: tm+mt
 source-wordcount: '0'
 ht-degree: 0%
@@ -15,13 +15,32 @@ ht-degree: 0%
 
 >[!PREREQUISITES]
 >
->설치/업그레이드 [MSI 작업 패키지](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/configuration/configure-marketo-sales-insight-in-salesforce-enterprise-unlimited.md) Salesforce 인스턴스에 배치합니다.
+>* [설치]() 또는 [업그레이드]() Salesforce 인스턴스의 Sales Insight Package에서 [MSI 작업 패키지](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/configuration/configure-marketo-sales-insight-in-salesforce-enterprise-unlimited.md) Salesforce 인스턴스에 배치합니다.
+>* [Salesforce Enterprise/Unlimited에서 Marketo Sales Insight 구성]()
+
+
+## Salesforce에서 새 원격 사이트 추가 {#add-new-remote-site-in-salesforce}
+
+1. Salesforce에서 **설정**.
+
+   ![](assets/msi-actions-configuration-in-salesforce-1.png)
+
+1. &quot;원격 사이트&quot;를 검색하고 선택합니다. **원격 사이트 설정**.
+   ![](assets/msi-actions-configuration-in-salesforce-2.png)
+
+1. 클릭 **새 원격 사이트**.
+
+   ![](assets/msi-actions-configuration-in-salesforce-3.png)
+
+1. 원격 사이트 이름을 입력합니다(&quot;MarketoSalesInsight&quot; 와 유사할 수 있음). 원격 사이트 URL(https://ims-na1-stg1.adobelogin.com)을 입력하고 **저장**.
+
+   ![](assets/msi-actions-configuration-in-salesforce-4.png)
 
 ## CRM에서 MSI 작업 활성화 {#enabling-msi-actions-across-the-crm}
 
 1. Salesforce에서 **Marketo Sales Insight Config** 탭.
 
-   ![](assets/msi-actions-configuration-in-salesforce-1.png)
+   ![](assets/msi-actions-configuration-in-salesforce-5.png)
 
    >[!NOTE]
    >
@@ -29,11 +48,11 @@ ht-degree: 0%
 
 1. 을(를) 선택합니다 **MSI 작업 사용** 확인란을 선택합니다.
 
-   ![](assets/msi-actions-configuration-in-salesforce-2.png)
+   ![](assets/msi-actions-configuration-in-salesforce-6.png)
 
 1. API 암호 키를 입력합니다.
 
-   ![](assets/msi-actions-configuration-in-salesforce-3.png)
+   ![](assets/msi-actions-configuration-in-salesforce-7.png)
 
    >[!NOTE]
    >
@@ -51,11 +70,11 @@ ht-degree: 0%
 
 1. 예정된 섹션에서 판매 캠페인 및/또는 작업 탭을 비활성화할 수 있습니다. 이 작업은 리드, 연락처, 계정 및 기회 패널에 적용할 수 있습니다.
 
-   ![](assets/msi-actions-configuration-in-salesforce-4.png)
+   ![](assets/msi-actions-configuration-in-salesforce-8.png)
 
 1. 작업 설정에서 해당 기능을 선택 취소하여 MSI 작업을 비활성화할 수 있습니다.
 
-   ![](assets/msi-actions-configuration-in-salesforce-5.png)
+   ![](assets/msi-actions-configuration-in-salesforce-9.png)
 
 >[!NOTE]
 >
