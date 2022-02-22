@@ -1,10 +1,8 @@
 ---
 description: 구성 - Marketo 문서 - 제품 설명서
 title: 구성
-hide: true
-hidefromtoc: true
 exl-id: aff17715-b178-4468-b06f-22b3fe3c18ce
-source-git-commit: fda1bf51d4016a61c41be9acba4771db1797a552
+source-git-commit: 8aaa6f5225f7965228c3472c0cf6beb2259f3642
 workflow-type: tm+mt
 source-wordcount: '264'
 ht-degree: 0%
