@@ -4,9 +4,9 @@ title: Salesforce의 MSI 작업 구성
 hide: true
 hidefromtoc: true
 exl-id: 2d842886-3501-4aca-96fb-0d6763ab2b01
-source-git-commit: 84e3c4d525c5bde9e3ebd17d2f29ad42578777ff
+source-git-commit: ea7a5892f121873483909ff7ad3067423710371a
 workflow-type: tm+mt
-source-wordcount: '0'
+source-wordcount: '229'
 ht-degree: 0%
 
 ---
@@ -15,8 +15,8 @@ ht-degree: 0%
 
 >[!PREREQUISITES]
 >
->* [설치]() 또는 [업그레이드]() Salesforce 인스턴스의 Sales Insight Package에서 [MSI 작업 패키지](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/configuration/configure-marketo-sales-insight-in-salesforce-enterprise-unlimited.md) Salesforce 인스턴스에 배치합니다.
->* [Salesforce Enterprise/Unlimited에서 Marketo Sales Insight 구성]()
+>* [설치](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/installation/install-marketo-sales-insight-package-in-salesforce-appexchange.md) 또는 [업그레이드](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/upgrading/upgrading-your-msi-package.md) Salesforce 인스턴스의 Sales Insight 패키지
+>* [Salesforce Enterprise/Unlimited에서 Marketo Sales Insight 구성](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/configuration/configure-marketo-sales-insight-in-salesforce-enterprise-unlimited.md)
 
 
 ## Salesforce에서 새 원격 사이트 추가 {#add-new-remote-site-in-salesforce}
