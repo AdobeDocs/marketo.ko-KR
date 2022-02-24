@@ -3,9 +3,9 @@ unique-page-id: 10095429
 description: Dynamics 유효성 검사 동기화 문제 수정 - Marketo 문서 - 제품 설명서
 title: Dynamics 유효성 검사 동기화 문제 해결
 exl-id: 1a300249-65b7-49b1-bf50-82236916298f
-source-git-commit: b4fafa28d9a38504a29c25700496d8376c4fe47b
+source-git-commit: 8d401eeba46dc1b21983ea03c8ecd823046a5479
 workflow-type: tm+mt
-source-wordcount: '441'
+source-wordcount: '454'
 ht-degree: 0%
 
 ---
@@ -44,7 +44,7 @@ Dynamics 유효성 검사 동기화를 실행하면 보고서가 생성됩니다
 
 ## 동기화 사용자가 Marketo 동기화 사용자 역할에 할당됩니다 {#sync-user-is-assigned-to-the-marketo-sync-user-role}
 
-만약 ![x](assets/delete.png) 여기에서, 이것은 아래의 두 가지 이유 중 하나일 수 있습니다.
+만약 ![x](assets/delete.png) 여기서, 그것은 아래의 세 가지 문제 중 하나일 수 있습니다.
 
 **옵션 1 - Microsoft Dynamics에서 Marketo 동기화 사용자 역할이 선택되어 있는지 확인합니다.**:
 
@@ -75,6 +75,10 @@ Dynamics 유효성 검사 동기화를 실행하면 보고서가 생성됩니다
 **옵션 2 - 승인 확인**:
 
 1. 를 검토합니다. [클라이언트 ID 및 앱 등록에 대한 동의 부여](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/grant-consent-for-client-id-and-app-registration.md) 앱에 API 호출에 대한 관리자 동의가 있는지 확인합니다.
+
+**옵션 3 - 사용자 동기화**:
+
+1. 동기화 사용자가 Marketo 구성에 추가되었는지 확인합니다.
 
 ## Marketo 솔루션이 제대로 설치되어 있습니다. {#marketo-solution-is-properly-installed}
 

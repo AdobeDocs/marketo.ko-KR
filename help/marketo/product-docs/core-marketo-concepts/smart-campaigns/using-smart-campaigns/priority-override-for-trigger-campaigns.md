@@ -3,9 +3,9 @@ description: 트리거 캠페인에 대한 우선순위 무시 - Marketo 문서 
 title: 트리거 캠페인에 대한 우선순위 무시
 hide: true
 hidefromtoc: true
-source-git-commit: f2b6e0ae4759ed279d4c02ae922e9deba838b1ff
+source-git-commit: 8d401eeba46dc1b21983ea03c8ecd823046a5479
 workflow-type: tm+mt
-source-wordcount: '245'
+source-wordcount: '0'
 ht-degree: 0%
 
 ---
@@ -24,7 +24,7 @@ ht-degree: 0%
 
 ## 우선 순위 무시 액세스 권한 부여 {#grant-priority-override-access}
 
->[!CAUTION]
+>[!NOTE]
 >
 >관리자 또는 관리자 권한이 있는 사용자만 캠페인 우선 순위 무시 액세스 권한이 있어야 합니다.
 

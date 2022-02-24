@@ -2,7 +2,7 @@
 description: Dynamics 인증 방법 다시 구성 - Marketo 문서 - 제품 설명서
 title: Dynamics 인증 메서드 다시 구성
 exl-id: 2bd6a992-3dfd-4e91-bec5-9fb3f7bbb840
-source-git-commit: d86a8699838158631f210ea2f7acdfb88061b649
+source-git-commit: 8d401eeba46dc1b21983ea03c8ecd823046a5479
 workflow-type: tm+mt
 source-wordcount: '0'
 ht-degree: 0%
@@ -64,8 +64,10 @@ ht-degree: 0%
 
 1. 클릭 **확인** 다시 한 번
 
+   ![](assets/reconfigure-dynamics-authentication-method-8.png)
+
 1. 클릭 **확인**.
 
    >[!IMPORTANT]
    >
-   >동기화를 다시 활성화해야 합니다!
+   >시스템이 새 인증 모드를 수락하는 데 15분이 걸립니다. 동기화를 다시 활성화하기 전에 스위치 시간으로부터 15분 정도 기다리십시오.
