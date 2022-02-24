@@ -3,9 +3,9 @@ description: 로컬 자산 만료 - Marketo 문서 - 제품 설명서
 title: 로컬 자산 만료
 hide: true
 hidefromtoc: true
-source-git-commit: f2b6e0ae4759ed279d4c02ae922e9deba838b1ff
+source-git-commit: 4a931057a2732a645b267d82a4bacf2a85bff13a
 workflow-type: tm+mt
-source-wordcount: '248'
+source-wordcount: '0'
 ht-degree: 0%
 
 ---
@@ -24,15 +24,15 @@ ht-degree: 0%
 
 1. 에서 [!UICONTROL 관리] 영역을 클릭합니다. **[!UICONTROL 사용자 및 역할]**.
 
-   ![](assets/local-asset-expiration-2.png)
+   ![](assets/local-asset-expiration-1.png)
 
 1. 을(를) 클릭합니다. **[!UICONTROL 역할]** 탭에서 액세스 권한을 부여할 사용자를 선택한 다음 **[!UICONTROL 역할 편집]**.
 
-   ![](assets/local-asset-expiration-3.png)
+   ![](assets/local-asset-expiration-2.png)
 
 1. 아래 [!UICONTROL 마케팅 활동 액세스], 선택 **[!UICONTROL 자산 만료 예약]**. 클릭 **[!UICONTROL 저장]**.
 
-   ![](assets/local-asset-expiration-.png)
+PICC
 
 ## 만료 날짜 설정 {#set-an-expiration-date}
 
