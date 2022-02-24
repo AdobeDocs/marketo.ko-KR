@@ -3,9 +3,9 @@ audience: end-user
 user-guide-title: Marketo 안내서
 user-guide-description: Marketo 제품 설명서
 feature-set: Marketo Engage
-source-git-commit: e651aa8eb79935f5c00594104c60818df9617fb6
+source-git-commit: f2b6e0ae4759ed279d4c02ae922e9deba838b1ff
 workflow-type: tm+mt
-source-wordcount: '8285'
+source-wordcount: '8293'
 ht-degree: 0%
 
 ---
@@ -252,6 +252,7 @@ ht-degree: 0%
             + [스마트 캠페인에서 자격 규칙 편집](product-docs/core-marketo-concepts/smart-campaigns/using-smart-campaigns/edit-qualification-rules-in-a-smart-campaign.md)
             + [스마트 캠페인 이동](product-docs/core-marketo-concepts/smart-campaigns/using-smart-campaigns/move-a-smart-campaign.md)
             + [스마트 캠페인에서 개인 제한 무시](product-docs/core-marketo-concepts/smart-campaigns/using-smart-campaigns/override-person-restrictions-in-a-smart-campaign.md)
+            + [트리거 캠페인에 대한 우선순위 무시](product-docs/core-marketo-concepts/smart-campaigns/using-smart-campaigns/priority-override-for-trigger-campaigns.md)
             + [스마트 캠페인 이름 변경](product-docs/core-marketo-concepts/smart-campaigns/using-smart-campaigns/rename-a-smart-campaign.md)
             + [지금 일괄 처리 스마트 캠페인 실행 | 예약 탭](product-docs/core-marketo-concepts/smart-campaigns/using-smart-campaigns/run-a-batch-smart-campaign-now-schedule-tab.md)
             + [나중에 실행하도록 배치 스마트 캠페인을 예약합니다.](product-docs/core-marketo-concepts/smart-campaigns/using-smart-campaigns/schedule-a-batch-smart-campaign-to-run-later.md)
@@ -377,6 +378,7 @@ ht-degree: 0%
             + [Analytics 동작 설정 편집](product-docs/core-marketo-concepts/programs/working-with-programs/edit-analytics-behavior-settings.md)
             + [프로그램 가져오기](product-docs/core-marketo-concepts/programs/working-with-programs/import-a-program.md)
             + [스프레드시트에서 프로그램으로 멤버 가져오기](product-docs/core-marketo-concepts/programs/working-with-programs/import-members-from-a-spreadsheet-into-a-program.md)
+            + [로컬 자산 만료](product-docs/core-marketo-concepts/programs/working-with-programs/local-asset-expiration.md)
             + [구성원 관리 및 보기](product-docs/core-marketo-concepts/programs/working-with-programs/manage-and-view-members.md)
             + [프로그램 구성원 사용자 정의 필드](product-docs/core-marketo-concepts/programs/working-with-programs/program-member-custom-fields.md)
             + [SFDC 캠페인을 프로그램과 동기화](product-docs/core-marketo-concepts/programs/working-with-programs/sync-an-sfdc-campaign-with-a-program.md)
