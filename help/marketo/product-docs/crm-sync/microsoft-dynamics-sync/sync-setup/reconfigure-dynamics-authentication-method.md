@@ -2,9 +2,9 @@
 description: Dynamics 인증 방법 다시 구성 - Marketo 문서 - 제품 설명서
 title: Dynamics 인증 메서드 다시 구성
 exl-id: 2bd6a992-3dfd-4e91-bec5-9fb3f7bbb840
-source-git-commit: 8d401eeba46dc1b21983ea03c8ecd823046a5479
+source-git-commit: ab20d9683aa5987778970fd32793dc0f3056c84b
 workflow-type: tm+mt
-source-wordcount: '0'
+source-wordcount: '265'
 ht-degree: 0%
 
 ---
@@ -16,6 +16,7 @@ ht-degree: 0%
 >[!PREREQUISITES]
 >
 >다음 문서 중 하나에서 원하는 인증 방법을 사용하여 Microsoft Dynamics 및 active directory(Azure AD/ADFS)에서 응용 프로그램을 설정합니다.
+>
 >* [3단계 중 2단계: 서버 간 연결을 사용하여 Marketo 솔루션 설정](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/microsoft-dynamics-365-with-s2s-connection/step-2-of-3-set-up.md)
 >* [4단계 중 2단계: 리소스 소유자 암호 제어 연결을 사용하여 Marketo 솔루션 설정](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/microsoft-dynamics-365-with-ropc-connection/step-2-of-4-set-up.md)
 

@@ -3,9 +3,9 @@ audience: end-user
 user-guide-title: Marketo 안내서
 user-guide-description: Marketo 제품 설명서
 feature-set: Marketo Engage
-source-git-commit: f2b6e0ae4759ed279d4c02ae922e9deba838b1ff
+source-git-commit: ab20d9683aa5987778970fd32793dc0f3056c84b
 workflow-type: tm+mt
-source-wordcount: '8293'
+source-wordcount: '8320'
 ht-degree: 0%
 
 ---
@@ -1401,6 +1401,13 @@ ht-degree: 0%
       + [비기본 Salesforce 통합을 위한 Sales Insight](product-docs/marketo-sales-insight/sales-insight-for-non-native-salesforce-integrations.md)
    + Marketo Sky {#marketo-sky}
       + [Marketo Sky 역할 활성화](product-docs/marketo-sky/enabling-roles-for-marketo-sky.md)
+      + [예상 동작](product-docs/marketo-sky/expected-behavior.md)
+      + [Predictive Audiences 시작](product-docs/marketo-sky/getting-started-with-predictive-audiences.md)
+      + [모델 상태 및 데이터 유효성](product-docs/marketo-sky/model-health-and-data-validity.md)
+      + [예측 필터](product-docs/marketo-sky/predictive-filters.md)
+      + [이벤트 상한 설정](product-docs/marketo-sky/setting-an-event-cap.md)
+      + [이벤트 목표 설정](product-docs/marketo-sky/setting-event-goals.md)
+      + [목표 추적 및 예상 등록 이해](product-docs/marketo-sky/understanding-goal-tracking-and-projected-registrations.md)
    + 모바일 마케팅 {#mobile-marketing}
       + 관리 {#admin}
          + [모바일 앱 추가](product-docs/mobile-marketing/admin/add-a-mobile-app.md)
