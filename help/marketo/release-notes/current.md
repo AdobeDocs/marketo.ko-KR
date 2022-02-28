@@ -2,9 +2,9 @@
 description: 현재 릴리스 노트 - Marketo 문서 - 제품 설명서
 title: 현재 릴리스 노트
 exl-id: a2eccad5-73ad-48f9-8091-51cee23824e1
-source-git-commit: 9136ef46cd3b3293bef605dec997f23b46fa4326
+source-git-commit: c3b03dd3662ccd470bdf6480df8e5b3a88d1ae3b
 workflow-type: tm+mt
-source-wordcount: '732'
+source-wordcount: '784'
 ht-degree: 0%
 
 ---
@@ -64,6 +64,12 @@ ht-degree: 0%
 ![(별)](assets/yellow-star.png)
 
 * **BI 템플릿**: Bizible은 이제 Tableau 및 Power BI에 대한 다운로드 가능한 기본 보고 아티팩트와 샘플 보고서를 제공하여 특정 비즈니스 요구 사항에 맞는 사용자 지정 보고서를 신속하게 개발할 수 있도록 합니다.
+
+## 영업 연결 {#sales-connect}
+
+![(별)](assets/yellow-star.png)
+
+* **GA(전자 메일 연결 조절)**: 이메일 연결 조절 기능을 사용하면 Sales Connect 관리자가 Gmail 또는 Exchange를 게재 채널로 사용할 때 전자 메일의 전송 속도를 구성할 수 있으므로 전자 메일이 게재 채널 공급자에게 전달되는 비율이 강제 제한을 초과하지 않도록 할 수 있습니다.
 
 ## 공지 {#announcements}
 
