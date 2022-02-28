@@ -3,7 +3,7 @@ unique-page-id: 5472490
 description: 릴리스 일정 - Marketo 문서 - 제품 설명서
 title: 릴리스 일정
 exl-id: 38bd10e3-7f47-46f7-b9b0-83e1ab50014c
-source-git-commit: 08767d476cf89eefe7223308945733c6f813a34d
+source-git-commit: 07d141c67ac12f865397f6ff926accd8835ad368
 workflow-type: tm+mt
 source-wordcount: '136'
 ht-degree: 1%
@@ -37,12 +37,12 @@ _릴리스 날짜는 변경될 수 있습니다_
    <th width="250px">상태</th>
   </tr>
   <tr> 
-   <td><a href="/help/marketo/release-notes/current.md">2022년 1월</a></td>
+   <td><a href="/help/marketo/release-notes/previous-releases/2022/release-notes-jan-22.md">2022년 1월</a></td>
    <td>2022년 1월 21일</td>
    <td>배송됨</td>
   </tr>
   <tr> 
-   <td>2022년 3월</td>
+   <td><a href="/help/marketo/release-notes/current.md">2022년 3월</a></td>
    <td>2022년 3월 11일</td>
    <td>진행 중</td>
   </tr>
