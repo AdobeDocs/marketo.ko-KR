@@ -3,9 +3,9 @@ unique-page-id: 10095429
 description: Dynamics 유효성 검사 동기화 문제 수정 - Marketo 문서 - 제품 설명서
 title: Dynamics 유효성 검사 동기화 문제 해결
 exl-id: 1a300249-65b7-49b1-bf50-82236916298f
-source-git-commit: 8d401eeba46dc1b21983ea03c8ecd823046a5479
+source-git-commit: 48b8289994e000eafd72982ac1b4a0a809b10bab
 workflow-type: tm+mt
-source-wordcount: '454'
+source-wordcount: '493'
 ht-degree: 0%
 
 ---
@@ -40,7 +40,7 @@ Dynamics 유효성 검사 동기화를 실행하면 보고서가 생성됩니다
 
 ## 사용자 이름과 암호가 유효합니다. {#username-and-password-are-valid}
 
-만약 ![x](assets/delete.png) 여기에서 Microsoft Dynamics 사용자 이름과 암호가 올바른지 확인합니다.
+만약 ![x](assets/delete.png) 여기에서 Microsoft Dynamics 자격 증명이 올바른지 확인합니다. 웹 API S2S 인증의 경우 Marketo의 사용자 이름은 [이메일 주소](https://docs.microsoft.com/en-us/power-platform/admin/manage-application-users#view-or-edit-the-details-of-an-application-user) CRM에 있는 응용 프로그램 사용자의 이름을 지정합니다. 다른 유형의 경우 동기화 사용자의 사용자 이름과 일치해야 합니다.
 
 ## 동기화 사용자가 Marketo 동기화 사용자 역할에 할당됩니다 {#sync-user-is-assigned-to-the-marketo-sync-user-role}
 

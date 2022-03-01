@@ -3,9 +3,9 @@ unique-page-id: 3571830
 description: 3단계 - Marketo 솔루션을 서버와 서버 연결 - Marketo 문서 - 제품 설명서
 title: 3단계 - Marketo 솔루션을 서버와 서버 연결
 exl-id: e3ede749-f787-45d3-adb4-f71ef1221208
-source-git-commit: 7e6fab646ec03394cb406fc41442d585c162bb25
+source-git-commit: 48b8289994e000eafd72982ac1b4a0a809b10bab
 workflow-type: tm+mt
-source-wordcount: '443'
+source-wordcount: '451'
 ht-degree: 0%
 
 ---
@@ -60,7 +60,7 @@ ht-degree: 0%
 
    >[!NOTE]
    >
-   >Marketo의 사용자 이름은 CRM에서 동기화 사용자의 사용자 이름과 일치해야 합니다. 형식은 다음과 같습니다 `user@domain.com` 또는 DOMAIN\user.
+   >Marketo의 사용자 이름은 [이메일 주소](https://docs.microsoft.com/en-us/power-platform/admin/manage-application-users#view-or-edit-the-details-of-an-application-user) CRM에 있는 응용 프로그램 사용자의 이름을 지정합니다. 형식은 다음과 같습니다 `user@domain.com` 또는 DOMAIN\user.
 
 ## 동기화할 필드 선택 {#select-fields-to-sync}
 

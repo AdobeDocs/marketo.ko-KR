@@ -3,9 +3,9 @@ unique-page-id: 3571827
 description: 3단계 중 2단계 - 서버 연결 시 Marketo 솔루션 설정 - Marketo 문서 - 제품 설명서
 title: 3단계 중 2단계 - 서버 간 연결을 사용하여 Marketo 솔루션 설정
 exl-id: 324e2142-2aa2-4548-9a04-683832e3ba69
-source-git-commit: b4fafa28d9a38504a29c25700496d8376c4fe47b
+source-git-commit: 48b8289994e000eafd72982ac1b4a0a809b10bab
 workflow-type: tm+mt
-source-wordcount: '601'
+source-wordcount: '643'
 ht-degree: 0%
 
 ---
@@ -50,7 +50,9 @@ ht-degree: 0%
 
    >[!IMPORTANT]
    >
-   >애플리케이션 사용자에게 권한을 부여하는 동안 이 권한을 &quot;Marketo 동기화 사용자 역할&quot;에 할당하십시오.
+   >* 애플리케이션 사용자에게 권한을 부여하는 동안 이 권한을 &quot;Marketo 동기화 사용자 역할&quot;에 할당하십시오.
+   >* Application User의 이메일 주소를 [세부 정보 보기 옵션](https://docs.microsoft.com/en-us/power-platform/admin/manage-application-users#view-or-edit-the-details-of-an-application-user) 전원 플랫폼에 있습니다. 이 이메일 주소는 Marketo 내에서 MS Dynamics 연결을 설정할 때 사용자 이름으로 사용됩니다.
+
 
 ## AD FS On-prem을 사용하여 Azure AD Federated {#azure-ad-federated-with-ad-fs-on-prem}
 
