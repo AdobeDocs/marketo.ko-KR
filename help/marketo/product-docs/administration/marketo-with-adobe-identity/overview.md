@@ -2,7 +2,7 @@
 description: 개요 - Marketo 문서 - 제품 설명서
 title: 개요
 exl-id: 18ddeebc-bc89-411c-9d2c-23df6841cb3a
-source-git-commit: 7eff888c0fdebf31da4706f70d1e99e8327807ca
+source-git-commit: a360b46ab1cd7149f609d139590124dcfcda8dad
 workflow-type: tm+mt
 source-wordcount: '957'
 ht-degree: 0%
@@ -19,7 +19,7 @@ ht-degree: 0%
 >
 >Marketo 지원에서는 Adobe IMS 마이그레이션과 관련된 업데이트를 제공할 수 없습니다. 고객 성공 관리자는 향후 몇 개월 동안 예상되는 타임라인을 통해 지원을 받을 것입니다.
 
-## 프로필 수준
+## 프로필 수준 {#profile-levels}
 
 Adobe Identity Management 시스템에 온보딩된 Adobe Marketo Engage 가입은 다양한 프로필을 지원합니다. 다음은 이 통합과 관련된 사용자 프로필 유형입니다.
 
@@ -42,7 +42,7 @@ Adobe Identity Management 시스템에 온보딩된 Adobe Marketo Engage 가입�
  </tr>
 </table>
 
-## FAQ
+## FAQ {#faq}
 
 **Adobe ID란?**
 
