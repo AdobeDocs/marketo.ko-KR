@@ -3,7 +3,7 @@ audience: end-user
 user-guide-title: Marketo 안내서
 user-guide-description: Marketo 제품 설명서
 feature-set: Marketo Engage
-source-git-commit: 9cbf22e3cecd707641a87482b95eb3d43d3a8f78
+source-git-commit: 9a4dcb4a307928887000ce199b061d3e01192719
 workflow-type: tm+mt
 source-wordcount: '8334'
 ht-degree: 0%
@@ -69,7 +69,7 @@ ht-degree: 0%
          + 페이지 {#pages}
             + [SEO - 페이지 문제에 메모 추가](product-docs/additional-apps/seo/pages/seo-add-notes-to-page-issues.md)
             + [SEO - 페이지 추가](product-docs/additional-apps/seo/pages/seo-add-pages.md)
-            + [SEO - Add/Remove Page from List](product-docs/additional-apps/seo/pages/seo-add-remove-page-from-list.md)
+            + [SEO - 목록에서 페이지 추가/제거](product-docs/additional-apps/seo/pages/seo-add-remove-page-from-list.md)
             + [SEO - 목록에서 페이지 문제 추가/제거](product-docs/additional-apps/seo/pages/seo-add-remove-page-issue-from-a-list.md)
             + [SEO - 문제를 CSV로 내보내기](product-docs/additional-apps/seo/pages/seo-export-issues-to-csv.md)
             + [SEO - 페이지 문제 제거/삭제](product-docs/additional-apps/seo/pages/seo-remove-delete-a-page-issue.md)
@@ -735,7 +735,7 @@ ht-degree: 0%
                + [템플릿 2A](product-docs/demand-generation/landing-pages/landing-page-templates/guided-landing-page-templates/template-2a.md)
                + [템플릿 2B](product-docs/demand-generation/landing-pages/landing-page-templates/guided-landing-page-templates/template-2b.md)
                + [템플릿 2C](product-docs/demand-generation/landing-pages/landing-page-templates/guided-landing-page-templates/template-2c.md)
-               + [Template 2D](product-docs/demand-generation/landing-pages/landing-page-templates/guided-landing-page-templates/template-2d.md)
+               + [템플릿 2D](product-docs/demand-generation/landing-pages/landing-page-templates/guided-landing-page-templates/template-2d.md)
                + [템플릿 3A](product-docs/demand-generation/landing-pages/landing-page-templates/guided-landing-page-templates/template-3a.md)
                + [템플릿 3B](product-docs/demand-generation/landing-pages/landing-page-templates/guided-landing-page-templates/template-3b.md)
                + [템플릿 3C](product-docs/demand-generation/landing-pages/landing-page-templates/guided-landing-page-templates/template-3c.md)
@@ -1161,7 +1161,7 @@ ht-degree: 0%
             + [선택 및 보내기로 대량 이메일 작성](product-docs/marketo-sales-connect/email/using-the-compose-window/composing-bulk-emails-with-select-and-send.md)
             + [이메일 예약](product-docs/marketo-sales-connect/email/using-the-compose-window/scheduling-an-email.md)
             + [추적된 이메일 보내기](product-docs/marketo-sales-connect/email/using-the-compose-window/sending-a-tracked-email.md)
-            + [Sending Emails via Group Email](product-docs/marketo-sales-connect/email/using-the-compose-window/sending-emails-via-group-email.md)
+            + [그룹 이메일을 통해 이메일 보내기](product-docs/marketo-sales-connect/email/using-the-compose-window/sending-emails-via-group-email.md)
             + [작성 창에서 템플릿 사용](product-docs/marketo-sales-connect/email/using-the-compose-window/using-a-template-in-the-compose-window.md)
       + FAQ {#faq}
          + [삭제한 연락처 또는 그룹을 복구할 수 있습니까?](product-docs/marketo-sales-connect/faq/can-i-recover-a-contact-or-group-i-deleted.md)
@@ -1295,10 +1295,10 @@ ht-degree: 0%
          + 사람 {#people}
             + [개인 세부 정보 보기](product-docs/marketo-sales-insight/actions/people/person-detail-view.md)
             + [Sales Insight 작업 및 GDPR 준수](product-docs/marketo-sales-insight/actions/people/sales-insight-actions-and-gdpr-compliance.md)
-               + 연락처 관리 {#managing-contacts}
-                  + [사람에 대한 벌크 작업](product-docs/marketo-sales-insight/actions/people/managing-contacts/bulk-actions-on-people.md)
-                  + [연락처 만들기 및 삭제](product-docs/marketo-sales-insight/actions/people/managing-contacts/creating-and-deleting-contacts.md)
-                  + [CSV를 통해 연락처 가져오기](product-docs/marketo-sales-insight/actions/people/managing-contacts/import-contacts-via-csv.md)
+            + 연락처 관리 {#managing-contacts}
+               + [사람에 대한 벌크 작업](product-docs/marketo-sales-insight/actions/people/managing-contacts/bulk-actions-on-people.md)
+               + [연락처 만들기 및 삭제](product-docs/marketo-sales-insight/actions/people/managing-contacts/creating-and-deleting-contacts.md)
+               + [CSV를 통해 연락처 가져오기](product-docs/marketo-sales-insight/actions/people/managing-contacts/import-contacts-via-csv.md)
          + Salesforce 구성 {#salesforce-configuration}
             + [Salesforce의 MSI 작업 구성](product-docs/marketo-sales-insight/actions/salesforce-configuration/msi-actions-configuration-in-salesforce.md)
             + [Salesforce Classic 사용자 지정 패키지 제거](product-docs/marketo-sales-insight/actions/salesforce-configuration/uninstall-salesforce-classic-customization-package.md)
@@ -1407,7 +1407,7 @@ ht-degree: 0%
       + [Marketo Sky 역할 활성화](product-docs/marketo-sky/enabling-roles-for-marketo-sky.md)
       + [예상 동작](product-docs/marketo-sky/expected-behavior.md)
       + [Predictive Audiences 시작](product-docs/marketo-sky/getting-started-with-predictive-audiences.md)
-      + [Model Health and Data Validity](product-docs/marketo-sky/model-health-and-data-validity.md)
+      + [모델 상태 및 데이터 유효성](product-docs/marketo-sky/model-health-and-data-validity.md)
       + [예측 필터](product-docs/marketo-sky/predictive-filters.md)
       + [이벤트 상한 설정](product-docs/marketo-sky/setting-an-event-cap.md)
       + [이벤트 목표 설정](product-docs/marketo-sky/setting-event-goals.md)
@@ -1831,8 +1831,8 @@ ht-degree: 0%
          + [릴리스 노트: 2013년 7월](release-notes/previous-releases/2013/release-notes-july-2013.md)
          + [릴리스 노트: 2013년 6월](release-notes/previous-releases/2013/release-notes-june-2013.md)
          + [릴리스 노트: 2013년 3월](release-notes/previous-releases/2013/release-notes-march-2013.md)
-         + [Release Notes: May 2013](release-notes/previous-releases/2013/release-notes-may-2013.md)
-         + [Release Notes: October 2013](release-notes/previous-releases/2013/release-notes-october-2013.md)
+         + [릴리스 노트: 2013년 5월](release-notes/previous-releases/2013/release-notes-may-2013.md)
+         + [릴리스 노트: 2013년 10월 일](release-notes/previous-releases/2013/release-notes-october-2013.md)
          + [릴리스 노트: 2013년 9월](release-notes/previous-releases/2013/release-notes-september-2013.md)
       + 2012년 {#2012}
          + [릴리스 노트: 2012년 4월](release-notes/previous-releases/2012/release-notes-april-2012.md)
