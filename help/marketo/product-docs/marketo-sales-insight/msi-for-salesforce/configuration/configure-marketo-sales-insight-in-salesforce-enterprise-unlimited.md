@@ -3,9 +3,9 @@ unique-page-id: 2360368
 description: Salesforce Enterprise/Unlimited에서 Marketo Sales Insight 구성 - Marketo 문서 - 제품 설명서
 title: Salesforce Enterprise/Unlimited에서 Marketo Sales Insight 구성
 exl-id: a33ed396-8d26-403f-b6d8-fe7c55ce76ba
-source-git-commit: 84ac037a041398bdb1a056c3ab2fcf0d516f0097
+source-git-commit: 6ef1ff6f417cc3118e0c573896e1d232a5b97e70
 workflow-type: tm+mt
-source-wordcount: '820'
+source-wordcount: '0'
 ht-degree: 0%
 
 ---
@@ -16,8 +16,7 @@ ht-degree: 0%
 
 >[!PREREQUISITES]
 >
->* [Salesforce AppExchange에 Marketo Sales Insight Package 설치](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/installation/install-marketo-sales-insight-package-in-salesforce-appexchange.md)
-
+>[Salesforce AppExchange에 Marketo Sales Insight Package 설치](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/installation/install-marketo-sales-insight-package-in-salesforce-appexchange.md)
 
 >[!NOTE]
 >
@@ -119,34 +118,52 @@ ht-degree: 0%
    >
    >계정 및 기회 객체의 높이는 410픽셀인 것이 좋습니다.
 
-1. 클릭 **필드** 왼쪽에 있습니다. 그런 다음 을(를) 검색하고 드래그합니다. **참여** 에 레이블 지정 **Marketo Sales Insight** 레이아웃.
+1. 클릭 **필드** 왼쪽에 있습니다. 그런 다음 을(를) 검색하고 드래그합니다. **긴급성** 에 레이블 지정 **Marketo Sales Insight** 레이아웃.
 
-   ![](assets/image2015-5-22-16-3a32-3a46.png)
+   ![](assets/configure-marketo-sales-insight-in-salesforce-professional-edition-18.png)
 
 1. 이러한 필드에 대해서도 위의 단계를 반복합니다.
 
    <table> 
     <tbody> 
      <tr> 
-      <td colspan="1">참여</td> 
+      <td>마지막 흥미로운 순간</td> 
      </tr> 
      <tr> 
-      <td colspan="1" rowspan="1"><p>상대 점수 값</p></td> 
+      <td>마지막 흥미로운 모멘트 날짜</td> 
      </tr> 
      <tr> 
-      <td colspan="1" rowspan="1"><p>긴급성 값</p></td> 
+      <td>마지막 흥미로운 모멘트 설명</td> 
      </tr> 
      <tr> 
-      <td colspan="1" rowspan="1"><p>마지막 흥미로운 모멘트 날짜</p></td> 
+      <td>마지막 관심 영역 소스</td> 
      </tr> 
      <tr> 
-      <td colspan="1" rowspan="1"><p>마지막 흥미로운 모멘트 설명</p></td> 
+      <td>마지막 흥미로운 모멘트 유형</td> 
      </tr> 
      <tr> 
-      <td colspan="1" rowspan="1"><p>마지막 관심 영역 소스</p></td> 
+      <td>판매별 마지막 Marketo 활동</td> 
      </tr> 
      <tr> 
-      <td colspan="1" rowspan="1"><p>마지막 흥미로운 모멘트 유형</p></td> 
+      <td>판매별 마지막 Marketo 참여</td> 
+     </tr> 
+     <tr> 
+      <td>MSI 연락처 ID</td> 
+     </tr> 
+     <tr> 
+      <td>상대 점수</td> 
+     </tr> 
+     <tr> 
+      <td>상대 점수 값</td> 
+     </tr> 
+     <tr> 
+      <td>긴급성</td> 
+     </tr> 
+     <tr> 
+      <td>긴급성 값</td> 
+     </tr> 
+     <tr> 
+      <td>Marketo에서 보기</td> 
      </tr> 
     </tbody> 
    </table>
@@ -155,9 +172,53 @@ ht-degree: 0%
 
    ![](assets/image2014-9-24-17-3a35-3a6.png)
 
-1. 이 프로세스를 반복하여 **연락처**, **계정** 및 **기회**.
+1. 5-7단계를 반복하여 다음 작업을 위한 Visualforce 페이지 섹션과 Sales Insight 필드를 추가합니다. **연락처**, **계정** 및 **기회**.
 
-1. 5-7단계를 반복하여 연락처, 계정 및 Opportunity에 대한 Visualforce 페이지 섹션을 추가합니다. 그런 다음 8~10단계를 반복하여 **연락처**. 변경 사항이 있으면 반드시 저장하십시오.
+1. 8-10단계를 반복하여 아래 목록에서 Sales Insight 필드를 추가합니다. **연락처**. 변경 사항을 모두 저장해야 합니다.
+
+<table> 
+    <tbody> 
+     <tr> 
+      <td>마지막 흥미로운 순간</td> 
+     </tr> 
+     <tr> 
+      <td>마지막 흥미로운 모멘트 날짜</td> 
+     </tr> 
+     <tr> 
+      <td>마지막 흥미로운 모멘트 설명</td> 
+     </tr> 
+     <tr> 
+      <td>마지막 관심 영역 소스</td> 
+     </tr> 
+     <tr> 
+      <td>마지막 흥미로운 모멘트 유형</td> 
+     </tr> 
+     <tr> 
+      <td>판매별 마지막 Marketo 활동</td> 
+     </tr> 
+     <tr> 
+      <td>판매별 마지막 Marketo 참여</td> 
+     </tr> 
+     <tr> 
+      <td>MKTO 리드 점수</td> 
+     </tr> 
+     <tr> 
+      <td>상대 점수</td> 
+     </tr> 
+     <tr> 
+      <td>상대 점수 값</td> 
+     </tr> 
+     <tr> 
+      <td>Sales Insight - 전체 목록 페이지에 열기</td> 
+     </tr> 
+     <tr> 
+      <td>긴급성</td> 
+     </tr> 
+     <tr> 
+      <td>긴급성 값</td> 
+     </tr> 
+    </tbody> 
+   </table>
 
 ## 사용자 지정 개인 필드 매핑 {#map-custom-person-fields}
 
