@@ -3,9 +3,9 @@ audience: end-user
 user-guide-title: Marketo 안내서
 user-guide-description: Marketo 제품 설명서
 feature-set: Marketo Engage
-source-git-commit: 9a4dcb4a307928887000ce199b061d3e01192719
+source-git-commit: 8c271f4883f5e269820ef992cd5c50e746255736
 workflow-type: tm+mt
-source-wordcount: '8334'
+source-wordcount: '8382'
 ht-degree: 0%
 
 ---
@@ -1229,7 +1229,7 @@ ht-degree: 0%
          + [공유 템플릿](product-docs/marketo-sales-connect/templates/shared-templates.md)
          + [템플릿 참여](product-docs/marketo-sales-connect/templates/template-engagement.md)
          + [HTML 사용](product-docs/marketo-sales-connect/templates/using-html.md)
-         + [다른 사용자로 템플릿 목록 보기](product-docs/marketo-sales-connect/templates/view-template-list-as-a-another-user.md)
+         + [템플릿 목록을 다른 사용자로 보기](product-docs/marketo-sales-connect/templates/view-template-list-as-another-user.md)
          + 동적 필드 {#dynamic-fields}
             + [사용자 지정 동적 필드 만들기](product-docs/marketo-sales-connect/templates/dynamic-fields/create-custom-dynamic-fields.md)
             + [동적 필드 용어집](product-docs/marketo-sales-connect/templates/dynamic-fields/dynamic-fields-glossary.md)
@@ -1260,6 +1260,8 @@ ht-degree: 0%
             + [로그인 관리 설정](product-docs/marketo-sales-insight/actions/admin/login-management-settings.md)
             + [공유 설정](product-docs/marketo-sales-insight/actions/admin/sharing-settings.md)
             + [사용자 액세스 세부 정보](product-docs/marketo-sales-insight/actions/admin/user-access-details.md)
+         + Analytics {#analytics}
+            + [템플릿 참여](product-docs/marketo-sales-insight/actions/analytics/template-engagement.md)
          + 캠페인 {#campaigns}
             + [캠페인이 종료됨](product-docs/marketo-sales-insight/actions/campaigns/campaign-has-ended.md)
          + CRM {#crm}
@@ -1290,6 +1292,11 @@ ht-degree: 0%
                + [선택 및 보내기로 대량 이메일 작성](product-docs/marketo-sales-insight/actions/email/using-the-compose-window/composing-bulk-emails-with-select-and-send.md)
                + [그룹 이메일을 통해 이메일 보내기](product-docs/marketo-sales-insight/actions/email/using-the-compose-window/sending-emails-via-group-email.md)
                + [작성 창에서 템플릿 사용](product-docs/marketo-sales-insight/actions/email/using-the-compose-window/using-a-template-in-the-compose-window.md)
+         + FAQ {#faq}
+            + [CC/BCC로 여러 수신자를 추적할 수 있습니까?](product-docs/marketo-sales-insight/actions/faq/can-i-track-multiple-recipients-with-cc-bcc.md)
+            + [자체 보기를 방지하려면 어떻게 해야 합니까?](product-docs/marketo-sales-insight/actions/faq/how-do-i-prevent-self-views.md)
+            + [위치 추적은 어떻게 작동합니까?](product-docs/marketo-sales-insight/actions/faq/how-does-location-tracking-work.md)
+            + [Sales Insight Action은 이메일 중복 제거를 어떻게 처리합니까?](product-docs/marketo-sales-insight/actions/faq/how-does-sales-insight-actions-handle-email-de-duping.md)
          + Marketo {#marketo}
             + [사용자에게 Marketo 액세스 권한 부여](product-docs/marketo-sales-insight/actions/marketo/grant-marketo-access-to-users.md)
          + 사람 {#people}
@@ -1299,6 +1306,8 @@ ht-degree: 0%
                + [사람에 대한 벌크 작업](product-docs/marketo-sales-insight/actions/people/managing-contacts/bulk-actions-on-people.md)
                + [연락처 만들기 및 삭제](product-docs/marketo-sales-insight/actions/people/managing-contacts/creating-and-deleting-contacts.md)
                + [CSV를 통해 연락처 가져오기](product-docs/marketo-sales-insight/actions/people/managing-contacts/import-contacts-via-csv.md)
+               + [그룹 관리](product-docs/marketo-sales-insight/actions/people/managing-contacts/manage-groups.md)
+               + [사용자 페이지 열](product-docs/marketo-sales-insight/actions/people/managing-contacts/people-page-columns.md)
          + Salesforce 구성 {#salesforce-configuration}
             + [Salesforce의 MSI 작업 구성](product-docs/marketo-sales-insight/actions/salesforce-configuration/msi-actions-configuration-in-salesforce.md)
             + [Salesforce Classic 사용자 지정 패키지 제거](product-docs/marketo-sales-insight/actions/salesforce-configuration/uninstall-salesforce-classic-customization-package.md)
@@ -1308,8 +1317,12 @@ ht-degree: 0%
          + 작업 {#tasks}
             + [Salesforce와 작업 동기화 미리 알림](product-docs/marketo-sales-insight/actions/tasks/reminder-task-sync-with-salesforce.md)
          + 템플릿 {#templates}
+            + [하이퍼링크된 텍스트 추가](product-docs/marketo-sales-insight/actions/templates/add-hyperlinked-text.md)
             + [템플릿 관리](product-docs/marketo-sales-insight/actions/templates/manage-templates.md)
             + [템플릿 카테고리 관리](product-docs/marketo-sales-insight/actions/templates/manage-template-categories.md)
+            + [권장 템플릿](product-docs/marketo-sales-insight/actions/templates/recommended-templates.md)
+            + [HTML 사용](product-docs/marketo-sales-insight/actions/templates/using-html.md)
+            + [템플릿 목록을 다른 사용자로 보기](product-docs/marketo-sales-insight/actions/templates/view-template-list-as-another-user.md)
       + MSI 사용 {#using-msi}
          + [Marketo에서 리드의 인바운드 메일 로그](product-docs/marketo-sales-insight/using-msi/log-inbound-mail-from-your-leads-in-marketo.md)
       + MSI Chrome 플러그인 {#msi-chrome-plugin}
