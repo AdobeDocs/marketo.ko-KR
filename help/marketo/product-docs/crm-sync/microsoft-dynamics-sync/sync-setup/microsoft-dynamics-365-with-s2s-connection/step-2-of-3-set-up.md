@@ -3,9 +3,9 @@ unique-page-id: 3571827
 description: 3단계 중 2단계 - 서버 연결 시 Marketo 솔루션 설정 - Marketo 문서 - 제품 설명서
 title: 3단계 중 2단계 - 서버 간 연결을 사용하여 Marketo 솔루션 설정
 exl-id: 324e2142-2aa2-4548-9a04-683832e3ba69
-source-git-commit: 48b8289994e000eafd72982ac1b4a0a809b10bab
+source-git-commit: 3a52db828a9bbf01b617d6e417d078d11ea30fb7
 workflow-type: tm+mt
-source-wordcount: '643'
+source-wordcount: '589'
 ht-degree: 0%
 
 ---
@@ -64,10 +64,6 @@ ADFS Onprem에 대한 Federated Azure AD는 특정 응용 프로그램에 대한
 
 거의 다 왔어! 새로 만든 사용자에 대해 Marketo Solution에 알려기만 하면 됩니다.
 
->[!IMPORTANT]
->
->기본 인증에서 OAuth로 업그레이드하는 경우 [Marketo 지원](https://nation.marketo.com/t5/support/ct-p/Support) 추가 매개 변수 업데이트에 대한 도움말을 참조하십시오. 기본 동기화 사용자에 대한 구성 변경을 수행하면 새 자격 증명을 입력하고 동기화를 다시 사용할 수 있을 때까지 동기화가 일시적으로 중지됩니다. 요청이 있을 때, Marketo 지원에서 이전 인증 방법으로 되돌리려면 기능을 비활성화(2022년 4월까지)할 수 있습니다.
-
 1. 고급 설정 섹션으로 돌아가서 ![](assets/image2015-5-13-15-3a49-3a19.png) 설정 옆에 있는 아이콘을 선택하고 **Marketo 구성**.
 
    ![](assets/fourteen.png)
@@ -99,6 +95,10 @@ ADFS Onprem에 대한 Federated Azure AD는 특정 응용 프로그램에 대한
 1. 을(를) 클릭합니다. **모든 사용자 지정 게시** 버튼을 클릭합니다.
 
    ![](assets/nineteen.png)
+
+   >[!NOTE]
+   >
+   >기본 인증에서 OAuth로 업그레이드하는 경우 를 사용할 수 있습니다 [이 문서](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/reconfigure-dynamics-authentication-method.md) 인증을 다시 구성하기 위해
 
 ## 3단계로 진행하기 전 {#before-proceeding-to-step}
 

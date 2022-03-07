@@ -4,22 +4,22 @@ title: 사용자에게 Marketo 액세스 권한 부여
 hide: true
 hidefromtoc: true
 exl-id: 0efb3e85-cc75-4810-bc67-05127f44e012
-source-git-commit: fda1bf51d4016a61c41be9acba4771db1797a552
+source-git-commit: 3a52db828a9bbf01b617d6e417d078d11ea30fb7
 workflow-type: tm+mt
-source-wordcount: '214'
+source-wordcount: '221'
 ht-degree: 0%
 
 ---
 
 # 사용자에게 Marketo 액세스 권한 부여 {#grant-marketo-access-to-users}
 
-이 문서의 단계에 따라 Marketo 영업 사용자에게 Marketo 연결에 대한 액세스 권한을 부여합니다. 이렇게 하면 라이브 피드의 관심사 및 마케팅 캠페인 액세스와 같은 기능이 잠금 해제됩니다.
+이 문서의 단계에 따라 Sales Insight Actions 사용자에게 Marketo 연결에 대한 액세스 권한을 부여합니다. 이렇게 하면 라이브 피드의 관심사 및 마케팅 캠페인 액세스와 같은 기능이 잠금 해제됩니다.
 
-다음을 수행해야 합니다. [Marketo 영업](/help/marketo/product-docs/marketo-sales-insight/actions/admin/invite-users-and-admins.md#invite-users) Marketo > 팀 액세스 페이지(Marketo 영업)에 표시되기 전에 Marketo 연결에 대한 액세스 권한이 부여됩니다.
+사용자를 [Sales Insight 작업](/help/marketo/product-docs/marketo-sales-insight/actions/admin/invite-users-and-admins.md#invite-users) Marketo > 팀 액세스 페이지(Sales Insight Actions에서)에 표시되기 전에 Marketo 연결에 대한 액세스 권한이 부여됩니다.
 
 >[!CAUTION]
 >
->Marketo Sales와 Marketo을 연결한 후 10분 후에 이 단계를 수행하십시오.
+>Sales Insight Action과 Marketo을 연결한 후 10분 후에 이러한 단계를 수행하십시오.
 
 1. 톱니바퀴 아이콘을 클릭하고 을 선택합니다 **설정**.
 

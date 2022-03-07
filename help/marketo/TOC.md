@@ -3,9 +3,9 @@ audience: end-user
 user-guide-title: Marketo 안내서
 user-guide-description: Marketo 제품 설명서
 feature-set: Marketo Engage
-source-git-commit: 8c271f4883f5e269820ef992cd5c50e746255736
+source-git-commit: 3a52db828a9bbf01b617d6e417d078d11ea30fb7
 workflow-type: tm+mt
-source-wordcount: '8382'
+source-wordcount: '8394'
 ht-degree: 0%
 
 ---
@@ -1263,6 +1263,7 @@ ht-degree: 0%
          + Analytics {#analytics}
             + [템플릿 참여](product-docs/marketo-sales-insight/actions/analytics/template-engagement.md)
          + 캠페인 {#campaigns}
+            + [마케팅 캠페인에 추가](product-docs/marketo-sales-insight/actions/campaigns/add-to-marketing-campaign.md)
             + [캠페인이 종료됨](product-docs/marketo-sales-insight/actions/campaigns/campaign-has-ended.md)
          + CRM {#crm}
             + Salesforce 통합 {#salesforce-integration}
@@ -1299,6 +1300,7 @@ ht-degree: 0%
             + [Sales Insight Action은 이메일 중복 제거를 어떻게 처리합니까?](product-docs/marketo-sales-insight/actions/faq/how-does-sales-insight-actions-handle-email-de-duping.md)
          + Marketo {#marketo}
             + [사용자에게 Marketo 액세스 권한 부여](product-docs/marketo-sales-insight/actions/marketo/grant-marketo-access-to-users.md)
+            + [Sales Connect 사용자에게 캠페인 표시](product-docs/marketo-sales-insight/actions/marketo/make-a-campaign-visible-to-sales-connect-users.md)
          + 사람 {#people}
             + [개인 세부 정보 보기](product-docs/marketo-sales-insight/actions/people/person-detail-view.md)
             + [Sales Insight 작업 및 GDPR 준수](product-docs/marketo-sales-insight/actions/people/sales-insight-actions-and-gdpr-compliance.md)
