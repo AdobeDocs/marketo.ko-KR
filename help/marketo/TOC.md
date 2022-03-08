@@ -3,9 +3,9 @@ audience: end-user
 user-guide-title: Marketo 안내서
 user-guide-description: Marketo 제품 설명서
 feature-set: Marketo Engage
-source-git-commit: d50176e43732a1ce827db46fa2d0fd630c129243
+source-git-commit: 625f4bb873f3d06a977020ca108fc8962574ceac
 workflow-type: tm+mt
-source-wordcount: '8395'
+source-wordcount: '8396'
 ht-degree: 0%
 
 ---
@@ -1240,7 +1240,7 @@ ht-degree: 0%
       + 작업 {#actions}
          + [Sales Insight Actions 기능 개요](product-docs/marketo-sales-insight/actions/sales-insight-actions-feature-overview.md)
          + 시작하기 {#getting-started}
-            + [MSI 작업 사용 온보딩 안내서](product-docs/marketo-sales-insight/actions/getting-started/msi-actions-user-onboarding-guide.md)
+            + [Sales Insight Actions 사용 온보딩 안내서](product-docs/marketo-sales-insight/actions/getting-started/sales-insight-actions-user-onboarding-guide.md)
             + [MSI 작업 관리 안내서](product-docs/marketo-sales-insight/actions/getting-started/msi-actions-admin-guide.md)
             + [Marketo 영업 암호 변경](product-docs/marketo-sales-insight/actions/getting-started/change-your-marketo-sales-password.md)
             + 전자 메일 설정 {#email-settings}
