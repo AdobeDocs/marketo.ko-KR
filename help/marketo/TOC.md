@@ -3,9 +3,9 @@ audience: end-user
 user-guide-title: Marketo 안내서
 user-guide-description: Marketo 제품 설명서
 feature-set: Marketo Engage
-source-git-commit: 3a52db828a9bbf01b617d6e417d078d11ea30fb7
+source-git-commit: d50176e43732a1ce827db46fa2d0fd630c129243
 workflow-type: tm+mt
-source-wordcount: '8394'
+source-wordcount: '8395'
 ht-degree: 0%
 
 ---
@@ -1238,7 +1238,7 @@ ht-degree: 0%
             + [동적 필드에서 자신을 참조합니다.](product-docs/marketo-sales-connect/templates/dynamic-fields/reference-yourself-in-a-dynamic-field.md)
    + Marketo Sales Insight {#marketo-sales-insight}
       + 작업 {#actions}
-         + [MSI 작업 기능 개요](product-docs/marketo-sales-insight/actions/msi-actions-feature-overview.md)
+         + [Sales Insight Actions 기능 개요](product-docs/marketo-sales-insight/actions/sales-insight-actions-feature-overview.md)
          + 시작하기 {#getting-started}
             + [MSI 작업 사용 온보딩 안내서](product-docs/marketo-sales-insight/actions/getting-started/msi-actions-user-onboarding-guide.md)
             + [MSI 작업 관리 안내서](product-docs/marketo-sales-insight/actions/getting-started/msi-actions-admin-guide.md)
