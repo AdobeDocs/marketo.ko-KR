@@ -2,9 +2,9 @@
 description: 개요 - Marketo 문서 - 제품 설명서
 title: 개요
 exl-id: 18ddeebc-bc89-411c-9d2c-23df6841cb3a
-source-git-commit: a360b46ab1cd7149f609d139590124dcfcda8dad
+source-git-commit: a21db1586166b7530bbbb18759752ef834cdc46a
 workflow-type: tm+mt
-source-wordcount: '957'
+source-wordcount: '0'
 ht-degree: 0%
 
 ---
@@ -31,6 +31,10 @@ Adobe Identity Management 시스템에 온보딩된 Adobe Marketo Engage 가입�
  <tr>
   <td><strong>Adobe Admin Console 제품 관리자</strong></td>
   <td>Adobe Admin Console에서 Marketo Engage 제품에 대한 사용자 권한을 부여할 책임이 있습니다. Adobe Admin Console에서 역할을 부여했습니다.</td>
+ </tr>
+ <tr>
+  <td><strong>Adobe Admin Console 제품 프로필 관리</strong></td>
+  <td>해당 관리자에게 지정된 제품 프로필 설명 및 모든 관련 관리 기능을 관리합니다.</td>
  </tr>
  <tr>
   <td><strong>Marketo Engage 제품 관리자</strong></td>
