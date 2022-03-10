@@ -2,9 +2,9 @@
 description: 동적 채팅 개요 - Marketo 문서 - 제품 설명서
 title: 동적 채팅 개요
 exl-id: 73ab651e-bb11-459d-aa6a-39d9e208d512
-source-git-commit: 8aaa6f5225f7965228c3472c0cf6beb2259f3642
+source-git-commit: 59b0946cde42a19d802c136ea25dd8c1fe4437cd
 workflow-type: tm+mt
-source-wordcount: '554'
+source-wordcount: '552'
 ht-degree: 0%
 
 ---
@@ -19,7 +19,7 @@ Dynamic Chat를 사용하면 사용하기 쉬운 인터페이스를 활용하여
 
 >[!TIP]
 >
->방문 [이 페이지](https://dcweb.z20.web.core.windows.net/) Dynamic Chat의 녹화된 데모 및 자습서 비디오를 보려면 여기를 클릭하십시오 .
+>방문 [이 페이지](https://experienceleague.adobe.com/docs/marketo-learn/tutorials/dynamic-chat/dynamic-chat-overview.html) 다이내믹 채팅의 자습서 비디오를 보려면 다음을 수행하십시오.
 
 ## 통합 {#integrations}
 
