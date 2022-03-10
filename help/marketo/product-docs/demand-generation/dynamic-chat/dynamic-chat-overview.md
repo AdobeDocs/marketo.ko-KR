@@ -2,9 +2,9 @@
 description: 동적 채팅 개요 - Marketo 문서 - 제품 설명서
 title: 동적 채팅 개요
 exl-id: 73ab651e-bb11-459d-aa6a-39d9e208d512
-source-git-commit: 59b0946cde42a19d802c136ea25dd8c1fe4437cd
+source-git-commit: c386d5ae542f4f19ba2acf6d2472a0c9d79c20a3
 workflow-type: tm+mt
-source-wordcount: '552'
+source-wordcount: '735'
 ht-degree: 0%
 
 ---
@@ -74,3 +74,71 @@ AI/NLP 기능은 지원하지 않습니다.
 **Dynamic Chat는 영어 이외의 다른 언어를 제공합니까?**
 
 지금은 아니에요
+
+## 동적 채팅의 제한 사항 {#limits-in-dynamic-chat}
+
+<table>
+  <th>매개 변수</th>
+  <th>설명</th>
+  <th>제한</th>
+ <tr>
+  <td>총 대화 상자 수</td>
+  <td>총 대화 상자 수(게시됨 및 초안)</td>
+  <td>500년</td>
+ </tr>
+ <tr>
+  <td>게시된 대화 상자</td>
+  <td>저장된 게시된 대화 상자 수</td>
+  <td>100년</td>
+ </tr>
+ <tr>
+  <td>대화 상자당 Target URL</td>
+  <td>단일 대화 상자에 추가할 수 있는 Target URL 수</td>
+  <td>20년</td>
+ </tr>
+ <tr>
+  <td>대화 상자당 속성</td>
+  <td>단일 대화 상자의 대상 기준에 추가할 수 있는 속성 수입니다</td>
+  <td>100년</td>
+ </tr>
+ <tr>
+  <td>그룹</td>
+  <td>단일 대화 상자에 추가할 수 있는 그룹 수</td>
+  <td>10</td>
+ </tr>
+ <tr>
+  <td>그룹당 속성 수</td>
+  <td>그룹에 추가할 수 있는 속성 수</td>
+  <td>10</td>
+ </tr>
+ <tr>
+  <td>카드</td>
+  <td>대화 상자당 캔버스에 추가할 수 있는 카드 수</td>
+  <td>500년</td>
+ </tr>
+ <tr>
+  <td>익명 리드 데이터 보존 기간</td>
+  <td>참여 없이 익명 리드의 정보를 유지하는 기간</td>
+  <td>90일</td>
+ </tr>
+ <tr>
+  <td>목표 활동 유지 기간</td>
+  <td>목표 활동 데이터가 보존되는 시간</td>
+  <td>24개월</td>
+ </tr>
+ <tr>
+  <td>문서 활동 보존 기간</td>
+  <td>문서 활동 데이터가 보존되는 시간입니다</td>
+  <td>24개월</td>
+ </tr>
+ <tr>
+  <td>대화 상자 활동 유지 기간과 상호 작용</td>
+  <td>대화 상자 활동 데이터와 상호 작용한 시간이 유지됩니다</td>
+  <td>90일</td>
+ </tr>
+ <tr>
+  <td>모임 예약 활동 보존 기간</td>
+  <td>모임 예약 활동이 Dynamic Chat에 저장되는 시간입니다</td>
+  <td>24개월</td>
+ </tr>
+</table>
