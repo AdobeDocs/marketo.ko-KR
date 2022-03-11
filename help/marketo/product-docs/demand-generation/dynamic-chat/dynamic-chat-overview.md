@@ -2,9 +2,9 @@
 description: 동적 채팅 개요 - Marketo 문서 - 제품 설명서
 title: 동적 채팅 개요
 exl-id: 73ab651e-bb11-459d-aa6a-39d9e208d512
-source-git-commit: c386d5ae542f4f19ba2acf6d2472a0c9d79c20a3
+source-git-commit: f08c85f59113a91d3ce020a11199b7fc4ed58857
 workflow-type: tm+mt
-source-wordcount: '735'
+source-wordcount: '742'
 ht-degree: 0%
 
 ---
@@ -55,6 +55,10 @@ Dynamic Chat의 주요 구성 요소는 Marketo 구독과 기본적으로 연결
 
 ## FAQ {#faq}
 
+**보고용으로 데이터가 얼마나 오래 저장됩니까?**
+
+90일(전체 제한 목록 참조) [아래](#limits-in-dynamic-chat)).
+
 **Dynamic Chat에서 실시간 채팅을 허용합니까?**
 
 아니요, 사전 결정된 응답만 사용합니다.
@@ -66,10 +70,6 @@ Dynamic Chat의 주요 구성 요소는 Marketo 구독과 기본적으로 연결
 **AI/NLP 기능을 지원합니까?**
 
 AI/NLP 기능은 지원하지 않습니다.
-
-**보고용으로 데이터가 얼마나 오래 저장됩니까?**
-
-90일.
 
 **Dynamic Chat는 영어 이외의 다른 언어를 제공합니까?**
 
