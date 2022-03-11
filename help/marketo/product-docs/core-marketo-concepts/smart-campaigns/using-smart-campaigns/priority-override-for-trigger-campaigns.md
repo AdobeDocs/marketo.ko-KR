@@ -1,11 +1,10 @@
 ---
 description: 트리거 캠페인에 대한 우선순위 무시 - Marketo 문서 - 제품 설명서
 title: 트리거 캠페인에 대한 우선순위 무시
-hide: true
-hidefromtoc: true
-source-git-commit: 8d401eeba46dc1b21983ea03c8ecd823046a5479
+exl-id: cf9b4d27-0e4c-40cf-accd-4f4a102160cc
+source-git-commit: 48a49faa6a1fde1e9ac391c2bf0800123f6a5bac
 workflow-type: tm+mt
-source-wordcount: '0'
+source-wordcount: '245'
 ht-degree: 0%
 
 ---
