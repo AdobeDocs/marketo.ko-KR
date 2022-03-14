@@ -3,9 +3,9 @@ audience: end-user
 user-guide-title: Marketo 안내서
 user-guide-description: Marketo 제품 설명서
 feature-set: Marketo Engage
-source-git-commit: 1a817ff44e5786e0f94c22969d501ed33465424a
+source-git-commit: c398aff77e09f4a63db5d51af55178aa663ec98e
 workflow-type: tm+mt
-source-wordcount: '8421'
+source-wordcount: '8449'
 ht-degree: 0%
 
 ---
@@ -1276,6 +1276,8 @@ ht-degree: 0%
                + [Salesforce 활동 세부 사항 사용자 지정 구성](product-docs/marketo-sales-insight/actions/crm/salesforce-integration/configure-salesforce-activity-detail-customization.md)
                + [Salesforce에 Marketo 판매 계정 연결](product-docs/marketo-sales-insight/actions/crm/salesforce-integration/connect-your-marketo-sales-account-to-salesforce.md)
                + [Sales Insight Actions에서 Salesforce 연결 해제](product-docs/marketo-sales-insight/actions/crm/salesforce-integration/disconnect-salesforce-from-sales-insight-actions.md)
+               + [회신 로깅](product-docs/marketo-sales-insight/actions/crm/salesforce-integration/reply-logging.md)
+               + [Salesforce 진단](product-docs/marketo-sales-insight/actions/crm/salesforce-integration/salesforce-diagnostics.md)
                + [Salesforce 동기화 설정](product-docs/marketo-sales-insight/actions/crm/salesforce-integration/salesforce-sync-settings.md)
          + 이메일 {#email}
             + 명령 센터 {#command-center}
@@ -1302,9 +1304,11 @@ ht-degree: 0%
                + [작성 창에서 템플릿 사용](product-docs/marketo-sales-insight/actions/email/using-the-compose-window/using-a-template-in-the-compose-window.md)
          + FAQ {#faq}
             + [CC/BCC로 여러 수신자를 추적할 수 있습니까?](product-docs/marketo-sales-insight/actions/faq/can-i-track-multiple-recipients-with-cc-bcc.md)
+            + [Salesforce에 연결할 때 &quot;요청을 인증할 수 없습니다&quot;를 수정하려면 어떻게 합니까?](product-docs/marketo-sales-insight/actions/faq/how-do-i-fix-we-were-unable-to-authenticate-your-request-when-connecting-to-salesforce.md)
             + [자체 보기를 방지하려면 어떻게 해야 합니까?](product-docs/marketo-sales-insight/actions/faq/how-do-i-prevent-self-views.md)
             + [위치 추적은 어떻게 작동합니까?](product-docs/marketo-sales-insight/actions/faq/how-does-location-tracking-work.md)
             + [Sales Insight Action은 이메일 중복 제거를 어떻게 처리합니까?](product-docs/marketo-sales-insight/actions/faq/how-does-sales-insight-actions-handle-email-de-duping.md)
+            + [추적 활동이 Salesforce 활동에 표시되지 않는 이유는 무엇입니까?](product-docs/marketo-sales-insight/actions/faq/why-is-tracking-activity-not-showing-in-salesforce-activity.md)
          + Marketo {#marketo}
             + [사용자에게 Marketo 액세스 권한 부여](product-docs/marketo-sales-insight/actions/marketo/grant-marketo-access-to-users.md)
             + [Sales Connect 사용자에게 캠페인 표시](product-docs/marketo-sales-insight/actions/marketo/make-a-campaign-visible-to-sales-connect-users.md)
