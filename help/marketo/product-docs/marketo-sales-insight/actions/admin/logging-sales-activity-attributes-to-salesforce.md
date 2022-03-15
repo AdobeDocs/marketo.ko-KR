@@ -3,9 +3,10 @@ description: Salesforce에 판매 활동 속성 로깅 - Marketo 문서 - 제품
 title: Salesforce에 영업 활동 속성 로깅
 hide: true
 hidefromtoc: true
-source-git-commit: aa58277a9620c5c187e9bd1e5c691b94b64b0968
+exl-id: fdefe53b-eb99-48ce-a04e-3666be33fea4
+source-git-commit: 94f89e64b69d3997effe6736241a68f8314db1e6
 workflow-type: tm+mt
-source-wordcount: '330'
+source-wordcount: '341'
 ht-degree: 1%
 
 ---
@@ -26,7 +27,7 @@ Salesforce 관리자는 Salesforce에 사용자 지정 활동 필드를 수동�
 
 아래 표에서 각 열에 대한 설명:
 
-* **필드 레이블**: UI에 표시된 필드 이름
+* **필드 레이블**: UI에 표시되는 필드 이름(팀이 읽기 쉽게 사용할 수 있도록 이 이름을 사용자 지정할 수 있음)
 * **필드 이름**: 필드의 기술 이름(입력하는 필드 이름이 아래 테이블의 필드 이름과 일치하는지 확인)
 * **API 이름**: API용 필드의 기술 이름(입력하는 API 이름이 아래 테이블의 API 이름과 일치하는지 확인)
 * **데이터 유형**: 필드 유형

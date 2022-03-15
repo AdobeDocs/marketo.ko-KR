@@ -3,16 +3,16 @@ unique-page-id: 14745793
 description: CRM용 Sales Connect 사용자 지정 - Marketo 문서 - 제품 설명서
 title: CRM용 Sales Connect 사용자 지정
 exl-id: c7344ec2-a16b-48a1-8e39-1bbd2818db80
-source-git-commit: 2712a21b7457ef51a9112074465c54e8f7954fa9
+source-git-commit: 94f89e64b69d3997effe6736241a68f8314db1e6
 workflow-type: tm+mt
-source-wordcount: '726'
+source-wordcount: '735'
 ht-degree: 0%
 
 ---
 
 # CRM용 Sales Connect 사용자 지정 {#sales-connect-customizations-for-crm}
 
-아래 필드와 단추는 Salesforce CRM의 메타데이터 API에 의해 만들어집니다. 필드가 만들어지면 관리자가 CRM에서 페이지 레이아웃을 구성하여 노출해야 합니다. 지침은 [여기](https://docs.marketo.com/display/docs/assets/marketo-sales-engage-for-salesforce-installation-and-success-guide.pdf).
+아래 필드와 단추는 Salesforce CRM의 메타데이터 API에 의해 만들어집니다. 필드가 만들어지면 관리자가 CRM에서 페이지 레이아웃을 구성하여 노출해야 합니다. 지침은 [여기](https://s3.amazonaws.com/tout-user-store/salesforce/assets/Marketo+Sales+Engage+For+Salesforce_+Installation+and+Success+Guide.pdf).
 
 >[!NOTE]
 >
