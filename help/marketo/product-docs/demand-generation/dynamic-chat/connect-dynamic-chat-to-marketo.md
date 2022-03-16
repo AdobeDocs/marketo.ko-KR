@@ -2,9 +2,9 @@
 description: Marketo에 다이내믹 채팅 연결 - Marketo 문서 - 제품 설명서
 title: Marketo에 동적 채팅 연결
 exl-id: bad6c2dc-d4e7-4f98-bf6d-743043f96e4e
-source-git-commit: bb2620ab72987cf857a7144aca21e94a11f29d90
+source-git-commit: 6658aa559890f2a0524eb0bb8207fbfae68f1753
 workflow-type: tm+mt
-source-wordcount: '262'
+source-wordcount: '271'
 ht-degree: 0%
 
 ---
@@ -31,7 +31,7 @@ ht-degree: 0%
 
    ![](assets/connect-dynamic-chat-to-marketo-3.png)
 
-1. Dynamic Chat에 동기화할 표준 또는 사용자 지정 필드를 최대 50개까지 선택합니다. 클릭 **다음** 완료 시.
+1. 대상 타깃팅, 데이터 매핑 및 개인화에 사용할 동적 채팅과 동기화하려면 Marketo 인스턴스에서 최대 50개의 표준 또는 사용자 지정 필드를 선택합니다. 클릭 **다음** 완료 시.
 
    ![](assets/connect-dynamic-chat-to-marketo-4.png)
 
@@ -39,7 +39,7 @@ ht-degree: 0%
    >
    >현재 속성 선택 **사용할 수 없음** 초기 동기화 후 변경됨. 동기화가 완료되면 되돌아가서 더 추가할 수만 있습니다(50개 미만으로 선택한 경우).
 
-1. 올바른 선택(미리 알림: 동기화 후 속성을 제거할 수 없으므로 **선택 항목 편집** 이 단계에서 변경할 필요가 있는 경우). 클릭 **확인** 동기화가 완료되면 됩니다.
+1. 선택 사항 검토(미리 알림: 동기화 후 속성을 제거할 수 없으므로 **선택 항목 편집** 이 단계에서 변경할 필요가 있는 경우). 클릭 **확인** 동기화가 완료되면 됩니다.
 
    ![](assets/connect-dynamic-chat-to-marketo-5.png)
 
