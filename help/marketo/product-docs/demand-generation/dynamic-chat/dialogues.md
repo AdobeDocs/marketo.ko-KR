@@ -2,9 +2,9 @@
 description: 대화 상자 - Marketo 문서 - 제품 설명서
 title: 대화 상자
 exl-id: 5ec17ad0-6d56-4c06-a6ac-4c5771b2d91d
-source-git-commit: 8aaa6f5225f7965228c3472c0cf6beb2259f3642
+source-git-commit: bb2620ab72987cf857a7144aca21e94a11f29d90
 workflow-type: tm+mt
-source-wordcount: '745'
+source-wordcount: '756'
 ht-degree: 0%
 
 ---
@@ -23,7 +23,7 @@ ht-degree: 0%
 
    ![](assets/dialogues-2.png)
 
-1. 이름을 입력하고(설명 선택 사항) 우선 순위 수준을 설정한 다음 **저장**.
+1. 빈 대화 상자 또는 미리 채워진 템플릿 중 하나를 선택합니다. 이름을 입력하고(설명은 선택 사항) 우선 순위 수준을 변경한 다음 **만들기**.
 
    ![](assets/dialogues-3.png)
 

@@ -2,9 +2,9 @@
 description: Marketo에 다이내믹 채팅 연결 - Marketo 문서 - 제품 설명서
 title: Marketo에 동적 채팅 연결
 exl-id: bad6c2dc-d4e7-4f98-bf6d-743043f96e4e
-source-git-commit: 8aaa6f5225f7965228c3472c0cf6beb2259f3642
+source-git-commit: bb2620ab72987cf857a7144aca21e94a11f29d90
 workflow-type: tm+mt
-source-wordcount: '182'
+source-wordcount: '262'
 ht-degree: 0%
 
 ---
@@ -31,6 +31,18 @@ ht-degree: 0%
 
    ![](assets/connect-dynamic-chat-to-marketo-3.png)
 
+1. Dynamic Chat에 동기화할 표준 또는 사용자 지정 필드를 최대 50개까지 선택합니다. 클릭 **다음** 완료 시.
+
+   ![](assets/connect-dynamic-chat-to-marketo-4.png)
+
+   >[!CAUTION]
+   >
+   >현재 속성 선택 **사용할 수 없음** 초기 동기화 후 변경됨. 동기화가 완료되면 되돌아가서 더 추가할 수만 있습니다(50개 미만으로 선택한 경우).
+
+1. 올바른 선택(미리 알림: 동기화 후 속성을 제거할 수 없으므로 **선택 항목 편집** 이 단계에서 변경할 필요가 있는 경우). 클릭 **확인** 동기화가 완료되면 됩니다.
+
+   ![](assets/connect-dynamic-chat-to-marketo-5.png)
+
 >[!NOTE]
 >
 >데이터베이스 크기에 따라 동기화가 완료되는 데 2~24시간이 걸릴 수 있습니다.
@@ -43,19 +55,19 @@ ht-degree: 0%
 
 1. 홈 페이지의 오른쪽 아래 모서리에서 조직 ID를 복사합니다. _빼기_ @AdobeOrg.
 
-   ![](assets/connect-dynamic-chat-to-marketo-4.png)
+   ![](assets/connect-dynamic-chat-to-marketo-6.png)
 
 1. Marketo에서 **관리** 섹션을 선택하고 **Adobe 조직 매핑**.
 
-   ![](assets/connect-dynamic-chat-to-marketo-5.png)
+   ![](assets/connect-dynamic-chat-to-marketo-7.png)
 
 1. 클릭 **편집**.
 
-   ![](assets/connect-dynamic-chat-to-marketo-6.png)
+   ![](assets/connect-dynamic-chat-to-marketo-8.png)
 
 1. 2단계에서 복사한 조직 ID를 붙여넣고 **확인**.
 
-   ![](assets/connect-dynamic-chat-to-marketo-7.png)
+   ![](assets/connect-dynamic-chat-to-marketo-9.png)
 
 >[!MORELIKETHIS]
 >

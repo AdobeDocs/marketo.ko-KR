@@ -2,16 +2,18 @@
 description: 스트림 만들기 - Marketo 문서 - 제품 설명서
 title: 스트림 만들기
 exl-id: aa44c7a5-f81b-4029-a1a4-5439bea83847
-source-git-commit: 8aaa6f5225f7965228c3472c0cf6beb2259f3642
+source-git-commit: bb2620ab72987cf857a7144aca21e94a11f29d90
 workflow-type: tm+mt
-source-wordcount: '400'
+source-wordcount: '412'
 ht-degree: 0%
 
 ---
 
 # 스트림 만들기 {#create-a-stream}
 
-있습니다 _많은_ 만들 수 있는 스트림 조합입니다. 다음은 마케터가 제품 질문이 있는지 사이트 방문자에게 묻는 한 예입니다. 예라면 방문자가 약속을 예약할 수 있습니다. 없을 경우 방문자에게 향후 서신에 대한 메일링 목록에 가입할 수 있는 옵션이 제공됩니다. 목표는 약속을 예약하거나 방문자의 이메일을 수집하는 것입니다.
+있습니다 _많은_ 만들 수 있는 스트림 조합입니다. 이 문서에는 마케터가 제품 관련 질문이 있는지 사이트 방문자에게 묻는 예제가 포함되어 있습니다. 예라면 방문자가 약속을 예약할 수 있습니다. 없을 경우 방문자에게 향후 서신에 대한 메일링 목록에 가입할 수 있는 옵션이 제공됩니다. 목표는 약속을 예약하거나 방문자의 이메일을 수집하는 것입니다.
+
+![](assets/create-a-stream-0.png)
 
 1. 다음에 [대화 상자 만들기](/help/marketo/product-docs/demand-generation/dynamic-chat/dialogues.md#create-a-new-dialogue)를 클릭하고 **스트림 디자이너** 탭.
 
@@ -108,9 +110,13 @@ ht-degree: 0%
 
    ![](assets/create-a-stream-17.png)
 
-1. 대화 상자를 활성화하려면 **게시**.
+1. 대화 상자를 미리 보려면 오른쪽의 미리 보기 아이콘을 클릭합니다.
 
    ![](assets/create-a-stream-18.png)
+
+1. 대화 상자를 활성화할 준비가 되면 **게시**.
+
+   ![](assets/create-a-stream-19.png)
 
 >[!NOTE]
 >

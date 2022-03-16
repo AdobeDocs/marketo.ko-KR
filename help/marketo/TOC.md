@@ -3,9 +3,9 @@ audience: end-user
 user-guide-title: Marketo 안내서
 user-guide-description: Marketo 제품 설명서
 feature-set: Marketo Engage
-source-git-commit: c398aff77e09f4a63db5d51af55178aa663ec98e
+source-git-commit: bb2620ab72987cf857a7144aca21e94a11f29d90
 workflow-type: tm+mt
-source-wordcount: '8449'
+source-wordcount: '8456'
 ht-degree: 0%
 
 ---
@@ -1321,6 +1321,9 @@ ht-degree: 0%
                + [CSV를 통해 연락처 가져오기](product-docs/marketo-sales-insight/actions/people/managing-contacts/import-contacts-via-csv.md)
                + [그룹 관리](product-docs/marketo-sales-insight/actions/people/managing-contacts/manage-groups.md)
                + [사용자 페이지 열](product-docs/marketo-sales-insight/actions/people/managing-contacts/people-page-columns.md)
+         + 전화 {#phone}
+            + [통화 기록 활성화](product-docs/marketo-sales-insight/actions/phone/enable-call-recording.md)
+            + [2자 동의 설정](product-docs/marketo-sales-insight/actions/phone/two-party-consent-settings.md)
          + Salesforce 구성 {#salesforce-configuration}
             + [Salesforce의 Sales Insight Actions 구성](product-docs/marketo-sales-insight/actions/salesforce-configuration/sales-insight-actions-configuration-in-salesforce.md)
             + [Salesforce Classic 사용자 지정 패키지 제거](product-docs/marketo-sales-insight/actions/salesforce-configuration/uninstall-salesforce-classic-customization-package.md)
