@@ -2,9 +2,9 @@
 description: 스트림 만들기 - Marketo 문서 - 제품 설명서
 title: 스트림 만들기
 exl-id: aa44c7a5-f81b-4029-a1a4-5439bea83847
-source-git-commit: bb2620ab72987cf857a7144aca21e94a11f29d90
+source-git-commit: d2ac03bd01e1dd6998d47aac82383b64ffdd3ee7
 workflow-type: tm+mt
-source-wordcount: '412'
+source-wordcount: '409'
 ht-degree: 0%
 
 ---
@@ -110,7 +110,7 @@ ht-degree: 0%
 
    ![](assets/create-a-stream-17.png)
 
-1. 대화 상자를 미리 보려면 오른쪽의 미리 보기 아이콘을 클릭합니다.
+1. 을(를) 선택합니다 **미리 보기** 대화 상자 미리 보기로 전환합니다.
 
    ![](assets/create-a-stream-18.png)
 
