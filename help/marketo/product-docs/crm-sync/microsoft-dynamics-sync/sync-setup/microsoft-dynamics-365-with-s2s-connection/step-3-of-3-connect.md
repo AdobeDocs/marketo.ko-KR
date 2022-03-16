@@ -3,9 +3,9 @@ unique-page-id: 3571830
 description: 3단계 - Marketo 솔루션을 서버와 서버 연결 - Marketo 문서 - 제품 설명서
 title: 3단계 - Marketo 솔루션을 서버와 서버 연결
 exl-id: e3ede749-f787-45d3-adb4-f71ef1221208
-source-git-commit: 48b8289994e000eafd72982ac1b4a0a809b10bab
+source-git-commit: 5536b35d71506f11fdf32bf7149bf5c61174ab34
 workflow-type: tm+mt
-source-wordcount: '451'
+source-wordcount: '446'
 ht-degree: 0%
 
 ---
@@ -54,7 +54,7 @@ ht-degree: 0%
    >
    >제출 후 후속 스키마 변경 사항을 되돌릴 수 없으므로 조직 URL이 올바른지 확인하십시오. 잘못된 조직 URL을 사용하는 경우 새 Marketo 구독을 받아야 합니다. URL을 모르면 [여기에서 찾는 방법 알아보기](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/view-the-organization-service-url.md).
 
-1. 을(를) 입력합니다. **사용자 이름**, **암호**, **클라이언트 ID**, **클라이언트 암호**, 및 Microsoft Dynamics **URL**. 클릭 **저장** 완료 시.
+1. Dynamics 동기화 사용자 정보를 입력하고 **저장** 완료 시.
 
    ![](assets/step-3-of-3-connect-s2s-5.png)
 
