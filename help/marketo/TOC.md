@@ -3,9 +3,9 @@ audience: end-user
 user-guide-title: Marketo 안내서
 user-guide-description: Marketo 제품 설명서
 feature-set: Marketo Engage
-source-git-commit: e377b38a29b3fb8678236fa202a68220f802bb88
+source-git-commit: a0cfc190e00ea6f8a9f5ef717566651423638b7d
 workflow-type: tm+mt
-source-wordcount: '8458'
+source-wordcount: '8475'
 ht-degree: 0%
 
 ---
@@ -1312,6 +1312,9 @@ ht-degree: 0%
          + Marketo {#marketo}
             + [사용자에게 Marketo 액세스 권한 부여](product-docs/marketo-sales-insight/actions/marketo/grant-marketo-access-to-users.md)
             + [Sales Connect 사용자에게 캠페인 표시](product-docs/marketo-sales-insight/actions/marketo/make-a-campaign-visible-to-sales-connect-users.md)
+            + [판매 활동 트리거 및 필터](product-docs/marketo-sales-insight/actions/marketo/sales-activity-triggers-and-filters.md)
+            + [Sales Insight Actions 활동 용어집](product-docs/marketo-sales-insight/actions/marketo/sales-insight-actions-activity-glossary.md)
+            + [Marketo 연결 설정](product-docs/marketo-sales-insight/actions/marketo/set-up-your-marketo-connection.md)
          + 사람 {#people}
             + [개인 세부 정보 보기](product-docs/marketo-sales-insight/actions/people/person-detail-view.md)
             + [Sales Insight 작업 및 GDPR 준수](product-docs/marketo-sales-insight/actions/people/sales-insight-actions-and-gdpr-compliance.md)
@@ -1323,6 +1326,7 @@ ht-degree: 0%
                + [사용자 페이지 열](product-docs/marketo-sales-insight/actions/people/managing-contacts/people-page-columns.md)
          + 전화 {#phone}
             + [통화 기록 활성화](product-docs/marketo-sales-insight/actions/phone/enable-call-recording.md)
+            + [국제 전화](product-docs/marketo-sales-insight/actions/phone/international-calling.md)
             + [로컬 유무](product-docs/marketo-sales-insight/actions/phone/local-presence.md)
             + [2자 동의 설정](product-docs/marketo-sales-insight/actions/phone/two-party-consent-settings.md)
          + Salesforce 구성 {#salesforce-configuration}
