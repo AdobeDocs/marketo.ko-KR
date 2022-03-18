@@ -4,9 +4,9 @@ title: 사용자에게 Marketo 액세스 권한 부여
 hide: true
 hidefromtoc: true
 exl-id: 0efb3e85-cc75-4810-bc67-05127f44e012
-source-git-commit: 3a52db828a9bbf01b617d6e417d078d11ea30fb7
+source-git-commit: 8704643b6e561ce368ce50804a2b7beed6cea71a
 workflow-type: tm+mt
-source-wordcount: '221'
+source-wordcount: '222'
 ht-degree: 0%
 
 ---
@@ -49,4 +49,4 @@ ht-degree: 0%
 
    ![](assets/grant-marketo-access-to-users-6.png)
 
-팀 관리 페이지에서 추가 사용자를 추가하고 위의 단계에 따라 사용자를 연결하여 연결할 수 있습니다.
+팀 관리 페이지에서 사용자를 더 추가하고 위의 단계에 따라 사용자를 연결할 수 있습니다.
