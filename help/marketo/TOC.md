@@ -3,9 +3,9 @@ audience: end-user
 user-guide-title: Marketo 안내서
 user-guide-description: Marketo 제품 설명서
 feature-set: Marketo Engage
-source-git-commit: a0cfc190e00ea6f8a9f5ef717566651423638b7d
+source-git-commit: e42b1f7e32ab0b70a344cad17c3d25e9d8129124
 workflow-type: tm+mt
-source-wordcount: '8475'
+source-wordcount: '8573'
 ht-degree: 0%
 
 ---
@@ -1303,11 +1303,22 @@ ht-degree: 0%
                + [그룹 이메일을 통해 이메일 보내기](product-docs/marketo-sales-insight/actions/email/using-the-compose-window/sending-emails-via-group-email.md)
                + [작성 창에서 템플릿 사용](product-docs/marketo-sales-insight/actions/email/using-the-compose-window/using-a-template-in-the-compose-window.md)
          + FAQ {#faq}
+            + [삭제한 연락처 또는 그룹을 복구할 수 있습니까?](product-docs/marketo-sales-insight/actions/faq/can-i-recover-a-contact-or-group-i-deleted.md)
             + [CC/BCC로 여러 수신자를 추적할 수 있습니까?](product-docs/marketo-sales-insight/actions/faq/can-i-track-multiple-recipients-with-cc-bcc.md)
+            + [컨텐츠 및 파일 첨부 파일 FAQ](product-docs/marketo-sales-insight/actions/faq/content-and-file-attachment-faq.md)
+            + [Sales Insight Action에 iPhone 또는 Android 앱이 있습니까?](product-docs/marketo-sales-insight/actions/faq/does-sales-insight-actions-have-an-iphone-or-android-app.md)
+            + [서버에서 Sales 허용 목록에 추가하다 Insight Action 을 세그먼트화하려면 어떻게 해야 합니까?](product-docs/marketo-sales-insight/actions/faq/how-can-i-allowlist-sales-insight-actions-on-my-server.md)
             + [Salesforce에 연결할 때 &quot;요청을 인증할 수 없습니다&quot;를 수정하려면 어떻게 합니까?](product-docs/marketo-sales-insight/actions/faq/how-do-i-fix-we-were-unable-to-authenticate-your-request-when-connecting-to-salesforce.md)
             + [자체 보기를 방지하려면 어떻게 해야 합니까?](product-docs/marketo-sales-insight/actions/faq/how-do-i-prevent-self-views.md)
             + [위치 추적은 어떻게 작동합니까?](product-docs/marketo-sales-insight/actions/faq/how-does-location-tracking-work.md)
             + [Sales Insight Action은 이메일 중복 제거를 어떻게 처리합니까?](product-docs/marketo-sales-insight/actions/faq/how-does-sales-insight-actions-handle-email-de-duping.md)
+            + [내 계좌에서 잠겨버렸다. 어떻게 해야 합니까?](product-docs/marketo-sales-insight/actions/faq/i-got-locked-out-of-my-account-what-do-i-do.md)
+            + [Sales Insight Actions가 Salesforce Lightning과 호환됩니까?](product-docs/marketo-sales-insight/actions/faq/is-sales-insight-actions-compatible-with-salesforce-lightning.md)
+            + [최신 클라이언트 버전은 무엇입니까?](product-docs/marketo-sales-insight/actions/faq/what-are-the-latest-client-versions.md)
+            + [Sales Insight Actions 서비스 조건은 무엇입니까?](product-docs/marketo-sales-insight/actions/faq/what-are-the-sales-insight-actions-terms-of-service.md)
+            + [내 연락처가 Sales Insight Action에 푸시되지 않는 이유는 무엇입니까?](product-docs/marketo-sales-insight/actions/faq/why-arent-any-of-my-contacts-getting-pushed-to-sales-insight-actions.md)
+            + [연락처를 삭제할 수 없는 이유](product-docs/marketo-sales-insight/actions/faq/why-cant-i-delete-a-contact.md)
+            + [내 연락처 모두가 Sales Insight Action에 푸시되지 않은 이유는 무엇입니까?](product-docs/marketo-sales-insight/actions/faq/why-didnt-all-of-my-contacts-get-pushed-to-sales-insight-actions.md)
             + [추적 활동이 Salesforce 활동에 표시되지 않는 이유는 무엇입니까?](product-docs/marketo-sales-insight/actions/faq/why-is-tracking-activity-not-showing-in-salesforce-activity.md)
          + Marketo {#marketo}
             + [사용자에게 Marketo 액세스 권한 부여](product-docs/marketo-sales-insight/actions/marketo/grant-marketo-access-to-users.md)
