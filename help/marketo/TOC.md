@@ -3,9 +3,9 @@ audience: end-user
 user-guide-title: Marketo 안내서
 user-guide-description: Marketo 제품 설명서
 feature-set: Marketo Engage
-source-git-commit: e42b1f7e32ab0b70a344cad17c3d25e9d8129124
+source-git-commit: 1db88a95777df43c3cef7ee5cabada2464329661
 workflow-type: tm+mt
-source-wordcount: '8573'
+source-wordcount: '8589'
 ht-degree: 0%
 
 ---
@@ -1317,9 +1317,12 @@ ht-degree: 0%
             + [최신 클라이언트 버전은 무엇입니까?](product-docs/marketo-sales-insight/actions/faq/what-are-the-latest-client-versions.md)
             + [Sales Insight Actions 서비스 조건은 무엇입니까?](product-docs/marketo-sales-insight/actions/faq/what-are-the-sales-insight-actions-terms-of-service.md)
             + [내 연락처가 Sales Insight Action에 푸시되지 않는 이유는 무엇입니까?](product-docs/marketo-sales-insight/actions/faq/why-arent-any-of-my-contacts-getting-pushed-to-sales-insight-actions.md)
+            + [내 동적 필드가 채워지지 않는 이유는 무엇입니까?](product-docs/marketo-sales-insight/actions/faq/why-arent-my-dynamic-fields-filling-out.md)
             + [연락처를 삭제할 수 없는 이유](product-docs/marketo-sales-insight/actions/faq/why-cant-i-delete-a-contact.md)
             + [내 연락처 모두가 Sales Insight Action에 푸시되지 않은 이유는 무엇입니까?](product-docs/marketo-sales-insight/actions/faq/why-didnt-all-of-my-contacts-get-pushed-to-sales-insight-actions.md)
             + [추적 활동이 Salesforce 활동에 표시되지 않는 이유는 무엇입니까?](product-docs/marketo-sales-insight/actions/faq/why-is-tracking-activity-not-showing-in-salesforce-activity.md)
+         + 통합 {#integrations}
+            + [외부 소스에 전자 메일 기록](product-docs/marketo-sales-insight/actions/integrations/log-emails-to-an-external-source.md)
          + Marketo {#marketo}
             + [사용자에게 Marketo 액세스 권한 부여](product-docs/marketo-sales-insight/actions/marketo/grant-marketo-access-to-users.md)
             + [Sales Connect 사용자에게 캠페인 표시](product-docs/marketo-sales-insight/actions/marketo/make-a-campaign-visible-to-sales-connect-users.md)
@@ -1350,6 +1353,7 @@ ht-degree: 0%
             + [Salesforce와 작업 동기화 미리 알림](product-docs/marketo-sales-insight/actions/tasks/reminder-task-sync-with-salesforce.md)
          + 템플릿 {#templates}
             + [하이퍼링크된 텍스트 추가](product-docs/marketo-sales-insight/actions/templates/add-hyperlinked-text.md)
+            + [동적 필드](product-docs/marketo-sales-insight/actions/templates/dynamic-fields.md)
             + [템플릿 관리](product-docs/marketo-sales-insight/actions/templates/manage-templates.md)
             + [템플릿 카테고리 관리](product-docs/marketo-sales-insight/actions/templates/manage-template-categories.md)
             + [권장 템플릿](product-docs/marketo-sales-insight/actions/templates/recommended-templates.md)

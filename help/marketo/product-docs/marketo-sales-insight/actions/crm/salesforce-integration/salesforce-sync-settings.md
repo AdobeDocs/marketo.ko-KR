@@ -4,9 +4,9 @@ title: Salesforce 동기화 설정
 hide: true
 hidefromtoc: true
 exl-id: fa13ced2-6184-485f-a0ef-813ccab4f0fe
-source-git-commit: acb077e9d6e9fa4027d660ee182a13820f16ad83
+source-git-commit: 1db88a95777df43c3cef7ee5cabada2464329661
 workflow-type: tm+mt
-source-wordcount: '443'
+source-wordcount: '709'
 ht-degree: 0%
 
 ---
@@ -114,3 +114,21 @@ ht-degree: 0%
 1. 원하는 옵션을 선택합니다(기본적으로 &quot;Salesforce 작업에 동기화 안 함&quot; 옵션이 선택되어 있음).
 
    ![](assets/salesforce-sync-settings-14.png)
+
+## Salesforce와 처음 Sales Insight Actions 작업 동기화 {#syncing-sales-insight-ations-tasks-with-salesforce-for-the-first-time}
+
+처음 Sales Insight Actions와 Salesforce 작업 간의 동기화를 켜면 Salesforce 작업을 가져옵니다. Salesforce에 Sales Insight Actions에 있는 현재 작업을 푸시하지 않습니다. 낮은 복잡성과 중복을 줄이기 위해 Sales Insight Actions에서 Salesforce로 동기화되는 유일한 작업은 SFDC와 Sales Insight Actions를 동기화한 후 생성된 작업입니다.
+
+다음은 Sales Insight Actions 및 SFDC 작업을 동기화할 때 수행되는 작업입니다.
+
+작업 동기화 시 저장을 클릭하면 동기화가 시작됩니다. 처음에는 시간이 좀 걸릴 겁니다
+
+지난 24시간 내에 업데이트되거나 생성된 모든 미리 알림은 SFDC에서 Sales Insight Actions로 가져옵니다. 동기화는 만기 날짜를 기반으로 하며 이러한 모든 작업은 백 엔드에서 동기화되지만 Command Center에서는 오늘과 내일 작업만 표시됩니다.
+
+이전에 동기화가 켜져 있고 SFDC에서 모든 작업을 삭제하면 지난 15일 동안 삭제된 작업은 명령 센터에서 삭제됩니다.
+
+동기화가 활성화되면 Sales Insight Actions와 SFDC 간에 작업을 지속적으로 동기화합니다.
+
+초기 동기화 후 Sales Insight Actions에서 생성, 편집, 완료 또는 삭제하는 모든 작업은 Salesforce의 작업 목록에 동기화됩니다. Salesforce에서 생성, 편집, 완료 또는 삭제된 작업은 Sales Insight Actions에서 작업 목록을 업데이트합니다.
+
+이 동기화를 켜려면 웹 애플리케이션의 설정 페이지에서 동기화 상자를 선택합니다.
