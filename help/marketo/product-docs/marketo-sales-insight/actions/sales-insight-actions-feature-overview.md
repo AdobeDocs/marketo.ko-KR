@@ -1,10 +1,8 @@
 ---
 description: Sales Insight Actions 기능 개요 - Marketo 문서 - 제품 설명서
 title: Sales Insight Actions 기능 개요
-hide: true
-hidefromtoc: true
 exl-id: 059de248-d1a2-42cd-a7ec-f10b15d0b526
-source-git-commit: d50176e43732a1ce827db46fa2d0fd630c129243
+source-git-commit: f2f81167066c2f170f81308b2deec52d19efafb3
 workflow-type: tm+mt
 source-wordcount: '1316'
 ht-degree: 0%
@@ -23,7 +21,7 @@ Sales Insight Actions 을 사용하여 단일 워크플로우에서 마케팅 �
 
 * 영업 전자 메일 보내기
    * 판매 이메일에는 보기, 클릭 및 회신 추적이 있습니다(게재 채널이 설정되면)
-   * 전자 메일 개인화, 사용자 지정 서명 및 첨부 파일 포함
+   * 이메일 Personalization, 사용자 정의 서명 및 첨부 파일 포함
    * 템플릿 공유 및 보고서
    * 팀 공유, 그룹 이메일 및 CC/BCC 기능
    * 영업 이메일 활동이 Marketo 개인 레코드에 기록됩니다
@@ -75,7 +73,7 @@ MSI 패널 내의 탭에서 다음 데이터를 사용할 수 있습니다.
 
 * 영업 전자 메일 보내기 - 계정/영업 기회에 연관된 모든 연락처에 대해 개인화된 또는 템플릿화된 그룹 전자 메일을 보내고 클릭 및 회신 추적을 수행할 수 있습니다
    * 판매 이메일에는 보기, 클릭 및 회신 추적이 있습니다(게재 채널이 설정되면)
-   * 전자 메일 개인화, 사용자 지정 서명 및 첨부 파일 포함
+   * 이메일 Personalization, 사용자 정의 서명 및 첨부 파일 포함
    * 템플릿 공유 및 보고서
    * 팀 공유, 그룹 이메일 및 CC/BCC 기능
    * 영업 이메일 활동이 Marketo 개인 레코드에 기록됩니다
