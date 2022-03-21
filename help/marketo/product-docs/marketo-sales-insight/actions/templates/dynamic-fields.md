@@ -3,7 +3,7 @@ description: 동적 필드 - Marketo 문서 - 제품 설명서
 title: 동적 필드
 hide: true
 hidefromtoc: true
-source-git-commit: 1db88a95777df43c3cef7ee5cabada2464329661
+source-git-commit: a0b10255513c13b7100b667513e3e61fc3788a15
 workflow-type: tm+mt
 source-wordcount: '419'
 ht-degree: 0%
@@ -60,4 +60,4 @@ Sales Insight Actions에서 템플릿을 만들 때는 항상 을 사용하여 �
 
 >[!TIP]
 >
->동적 필드를 채우지 않는 경우 체크 아웃하십시오 [이 문서](/help/marketo/product-docs/marketo-sales-insight/actions/faq/why-arent-my-dynamic-fields-filling-out).
+>동적 필드를 채우지 않는 경우 체크 아웃하십시오 [이 문서](/help/marketo/product-docs/marketo-sales-insight/actions/faq/why-arent-my-dynamic-fields-filling-out.md).
