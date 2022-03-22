@@ -3,9 +3,9 @@ audience: end-user
 user-guide-title: Marketo 안내서
 user-guide-description: Marketo 제품 설명서
 feature-set: Marketo Engage
-source-git-commit: 1db88a95777df43c3cef7ee5cabada2464329661
+source-git-commit: 2f86e4df7dec01ece6ef820674f84fd1ae8ebaf2
 workflow-type: tm+mt
-source-wordcount: '8589'
+source-wordcount: '8601'
 ht-degree: 0%
 
 ---
@@ -1269,6 +1269,7 @@ ht-degree: 0%
          + 캠페인 {#campaigns}
             + [마케팅 캠페인에 추가](product-docs/marketo-sales-insight/actions/campaigns/add-to-marketing-campaign.md)
             + [캠페인이 종료됨](product-docs/marketo-sales-insight/actions/campaigns/campaign-has-ended.md)
+            + [다른 사용자로 캠페인 목록 보기](product-docs/marketo-sales-insight/actions/campaigns/view-campaigns-list-as-another-user.md)
          + CRM {#crm}
             + Salesforce 사용자 지정 {#salesforce-customization}
                + [문서](product-docs/marketo-sales-insight/actions/crm/salesforce-customization/doc.md)
@@ -1325,6 +1326,7 @@ ht-degree: 0%
             + [외부 소스에 전자 메일 기록](product-docs/marketo-sales-insight/actions/integrations/log-emails-to-an-external-source.md)
          + Marketo {#marketo}
             + [사용자에게 Marketo 액세스 권한 부여](product-docs/marketo-sales-insight/actions/marketo/grant-marketo-access-to-users.md)
+            + [Sales Insight Action 의 흥미로운 순간](product-docs/marketo-sales-insight/actions/marketo/interesting-moments-in-sales-insight-actions.md)
             + [Sales Connect 사용자에게 캠페인 표시](product-docs/marketo-sales-insight/actions/marketo/make-a-campaign-visible-to-sales-connect-users.md)
             + [판매 활동 트리거 및 필터](product-docs/marketo-sales-insight/actions/marketo/sales-activity-triggers-and-filters.md)
             + [Sales Insight Actions 활동 용어집](product-docs/marketo-sales-insight/actions/marketo/sales-insight-actions-activity-glossary.md)
