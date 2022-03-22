@@ -2,9 +2,9 @@
 description: 현재 릴리스 노트 - Marketo 문서 - 제품 설명서
 title: 현재 릴리스 노트
 exl-id: a2eccad5-73ad-48f9-8091-51cee23824e1
-source-git-commit: c3b03dd3662ccd470bdf6480df8e5b3a88d1ae3b
+source-git-commit: f2653a21eaa8c353afb0a1634a3301e3b6d5ab2d
 workflow-type: tm+mt
-source-wordcount: '784'
+source-wordcount: '0'
 ht-degree: 0%
 
 ---
@@ -23,9 +23,9 @@ ht-degree: 0%
 
 ## 크로스 채널 오케스트레이션 {#cross-channel-orchestration}
 
-* **다이내믹 채팅**: 사전 대응적이고 매력적인 1:1의 개인화된 대화를 통해 리드 및 계정을 모두 타겟팅하여 웹 사이트에서 모든 기회를 극대화합니다. 동적 채팅을 사용하면 Marketo Engage 사용자가 B2B 마케팅 및 판매 사용 사례를 위한 통합 크로스 채널 경험의 주요 일부로 채팅을 활용할 수 있습니다. 기능은 다음과 같습니다. 채팅, 리드 라우팅, 시작 템플릿, 드래그 앤 드롭 대화 작성 등을 통해 직접 회의를 예약할 수 있습니다. 다이내믹 채트는 모든 Marketo Engage 패키지에 포함되며 올해 모든 Marketo Engage 사용자에게 롤아웃됩니다.
+* **다이내믹 채팅**: 사전 대응적이고 매력적인 1:1의 개인화된 대화를 통해 리드 및 계정을 모두 타겟팅하여 웹 사이트에서 모든 기회를 극대화합니다. [다이내믹 채팅](/help/marketo/product-docs/demand-generation/dynamic-chat/dynamic-chat-overview.md){target=&quot;_blank&quot;} 사용하면 Marketo Engage 사용자가 B2B 마케팅 및 판매 사용 사례를 위한 통합 크로스 채널 경험의 주요 일부로 채팅을 활용할 수 있습니다. 기능은 다음과 같습니다. 채팅, 리드 라우팅, 시작 템플릿, 드래그 앤 드롭 대화 작성 등을 통해 직접 회의를 예약할 수 있습니다. 다이내믹 채트는 모든 Marketo Engage 패키지에 포함되며 올해 모든 Marketo Engage 사용자에게 롤아웃됩니다.
 
-* **이메일 보트 활동 필터링 개선 사항**: 이전에 릴리스된 이메일 보트 활동 필터링 기능의 개선 사항으로 이제 보트로 식별된 로깅 활동을 옵트인할 수 있습니다. 그런 다음 보트가 수행하는 것으로 식별되는 활동에 따라 작업을 필터링하고 트리거할 수 있습니다.
+* **이메일 보트 활동 필터링 개선 사항**: 이전에 릴리스된 [전자 메일 보트 활동 필터링](/help/marketo/product-docs/administration/email-setup/filtering-email-bot-activity.md)이제 {target=&quot;_blank&quot;} 기능을 사용하여 보트로 식별된 로깅 활동을 옵트인할 수 있습니다. 그런 다음 보트가 수행하는 것으로 식별되는 활동에 따라 작업을 필터링하고 트리거할 수 있습니다.
 
 ## 차세대 경험 {#next-generation-experience}
 
@@ -54,6 +54,7 @@ ht-degree: 0%
 * **벌크 사용자 지정 개체 내보내기가 업데이트됨At 필터**: 마케터가 사용자 지정 개체를 프로그래밍 방식으로 동기화할 수 있습니다
 * **이메일 프로그램에 대한 헤드 시작 설정 표시**: 마케터는 API를 통해 시작 시 이메일 프로그램을 구성할 수 있습니다
 * **선택적 프로그램 태그 업데이트**: 마케터는 모든 태그를 동시에 푸시하지 않고 선택적 태그 업데이트를 푸시할 수 있습니다
+* **벌크 활동 추출 작업 결과 필드**: 마케터는 건너뛰거나 실패한 활동을 식별할 수 있습니다
 
 **_분기 전체에 출시_**
 
