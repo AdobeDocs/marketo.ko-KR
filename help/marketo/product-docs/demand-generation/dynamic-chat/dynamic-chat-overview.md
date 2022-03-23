@@ -2,9 +2,9 @@
 description: 동적 채팅 개요 - Marketo 문서 - 제품 설명서
 title: 동적 채팅 개요
 exl-id: 73ab651e-bb11-459d-aa6a-39d9e208d512
-source-git-commit: f08c85f59113a91d3ce020a11199b7fc4ed58857
+source-git-commit: adf3a9f156ec5ed823a0647affb87f6c0686d35f
 workflow-type: tm+mt
-source-wordcount: '742'
+source-wordcount: '744'
 ht-degree: 0%
 
 ---
@@ -33,7 +33,7 @@ Dynamic Chat의 주요 구성 요소는 Marketo 구독과 기본적으로 연결
 
 ## 대화 상자 {#dialogues}
 
-대화 상자는 단일 채팅 참여를 나타냅니다. 웹 사이트 방문자에게 매력적인 채팅 대화 상자를 제공하는 데 필요한 모든 것이 포함된 컨테이너라고 생각하십시오. 각 대화 상자에서 대화 상자를 표시할 페이지, 표시할 페이지 및 대화 상자 자체의 콘텐츠와 흐름을 지정할 수 있습니다. 또한 지표를 찾아 대화 상자가 얼마나 잘 작동하는지 확인할 수 있습니다. [대화 상자에 대해 자세히 알아보기](/help/marketo/product-docs/demand-generation/dynamic-chat/dialogues.md).
+대화 상자는 단일 채팅 참여를 나타냅니다. 웹 사이트 방문자에게 매력적인 채팅 대화 상자를 제공하는 데 필요한 모든 것이 포함된 컨테이너라고 생각하십시오. 각 대화 상자에서 대화 상자를 표시할 페이지, 표시할 페이지 및 대화 상자 자체의 콘텐츠와 흐름을 지정할 수 있습니다. 또한 지표를 찾아 대화 상자가 얼마나 잘 작동하는지 확인할 수 있습니다. [대화 상자에 대해 자세히 알아보기](/help/marketo/product-docs/demand-generation/dynamic-chat/dialogues/dialogue-overview.md){target=&quot;_blank&quot;}.
 
 ## 구성 {#configuration}
 

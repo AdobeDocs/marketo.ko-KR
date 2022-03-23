@@ -2,9 +2,9 @@
 description: 스트림 디자이너 - Marketo 문서 - 제품 설명서
 title: 스트림 디자이너
 exl-id: aa44c7a5-f81b-4029-a1a4-5439bea83847
-source-git-commit: 38e65efc50f7f5e7a2a3dbe91035327007475721
+source-git-commit: adf3a9f156ec5ed823a0647affb87f6c0686d35f
 workflow-type: tm+mt
-source-wordcount: '592'
+source-wordcount: '596'
 ht-degree: 0%
 
 ---
@@ -43,7 +43,7 @@ ht-degree: 0%
 
 ## 스트림 만들기 {#create-a-stream}
 
-1. 당신이 [대화 상자를 만들었습니다.](/help/marketo/product-docs/demand-generation/dynamic-chat/dialogues/create-a-dialogue.md)를 클릭하고 **스트림 디자이너** 탭.
+1. 당신이 [대화 상자를 만들었습니다.](/help/marketo/product-docs/demand-generation/dynamic-chat/dialogues/create-a-dialogue.md){target=&quot;_blank&quot;}, **스트림 디자이너** 탭.
 
    ![](assets/create-a-stream-1.png)
 
@@ -148,7 +148,7 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->게시를 클릭하기 전에 [대상 URL을 입력했습니다.](/help/marketo/product-docs/demand-generation/dynamic-chat/dialogues.md#target).
+>게시를 클릭하기 전에 [대상 URL을 입력했습니다.](/help/marketo/product-docs/demand-generation/dynamic-chat/dialogues/audience-criteria.md#target){target=&quot;_blank&quot;}.
 
 >[!MORELIKETHIS]
 >
