@@ -2,7 +2,7 @@
 description: 현재 릴리스 노트 - Marketo 문서 - 제품 설명서
 title: 현재 릴리스 노트
 exl-id: a2eccad5-73ad-48f9-8091-51cee23824e1
-source-git-commit: f2653a21eaa8c353afb0a1634a3301e3b6d5ab2d
+source-git-commit: c0699a888c6763f164e197395883c1c435fb782c
 workflow-type: tm+mt
 source-wordcount: '0'
 ht-degree: 0%
@@ -31,7 +31,6 @@ ht-degree: 0%
 
 * **차세대 경험에서 업데이트된 화면**: 전환 스위치를 통해 액세스할 수 있는 업데이트된 디자인 및 유용성 개선 사항을 제공하는 차세대 환경에서 새로 고친 추가 화면을 제공하고 있습니다.
 
-   * Design Studio의 전자 메일 목록 보기(새 대량 작업 포함)
    * Design Studio의 양식 목록 보기(새 벌크 작업 포함)
 
 * **프로그램 가져오기 워크플로우 업데이트**: 가져오기 프로그램 워크플로우는 업데이트된 디자인 및 유용성 개선 사항을 통해 차세대 환경에서 제공됩니다. 전환 스위치 없이 자동으로 변경됩니다.
