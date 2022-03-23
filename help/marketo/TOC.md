@@ -3,9 +3,9 @@ audience: end-user
 user-guide-title: Marketo 안내서
 user-guide-description: Marketo 제품 설명서
 feature-set: Marketo Engage
-source-git-commit: 2f86e4df7dec01ece6ef820674f84fd1ae8ebaf2
+source-git-commit: 1f874dc388143db427c2792a7fe5755d682d6fa4
 workflow-type: tm+mt
-source-wordcount: '8601'
+source-wordcount: '8609'
 ht-degree: 0%
 
 ---
@@ -591,8 +591,12 @@ ht-degree: 0%
          + [Marketo에 동적 채팅 연결](product-docs/demand-generation/dynamic-chat/connect-dynamic-chat-to-marketo.md)
          + [채팅 사용자 추가 또는 제거](product-docs/demand-generation/dynamic-chat/add-or-remove-chat-users.md)
          + [구성](product-docs/demand-generation/dynamic-chat/configuration.md)
-         + [대화 상자](product-docs/demand-generation/dynamic-chat/dialogues.md)
-         + [스트림 만들기](product-docs/demand-generation/dynamic-chat/create-a-stream.md)
+         + 대화 상자 {#dialogues}
+            + [대화 상자 개요](product-docs/demand-generation/dynamic-chat/dialogues/dialogue-overview.md)
+            + [대화 상자 만들기](product-docs/demand-generation/dynamic-chat/dialogues/create-a-dialogue.md)
+            + [대상 기준](product-docs/demand-generation/dynamic-chat/dialogues/audience-criteria.md)
+            + [스트림 만들기](product-docs/demand-generation/dynamic-chat/dialogues/create-a-stream.md)
+            + [보고서](product-docs/demand-generation/dynamic-chat/dialogues/reports.md)
       + 이벤트 {#events}
          + 이벤트 이해 {#understanding-events}
             + [이벤트 프로그램에 구성원 추가](product-docs/demand-generation/events/understanding-events/adding-members-to-an-event-program.md)
