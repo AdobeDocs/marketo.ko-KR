@@ -3,7 +3,8 @@ description: Salesforce 활동 세부 정보 사용자 지정 구성 - Marketo �
 title: Salesforce 활동 세부 사항 사용자 지정 구성
 hide: true
 hidefromtoc: true
-source-git-commit: acb077e9d6e9fa4027d660ee182a13820f16ad83
+exl-id: 534ebdb5-7a5b-48eb-98f7-2d05a9eae8e8
+source-git-commit: 43878490538ad5485c9e6d7aa0c7f8f1b443ad8c
 workflow-type: tm+mt
 source-wordcount: '706'
 ht-degree: 0%
@@ -14,7 +15,7 @@ ht-degree: 0%
 
 >[!PREREQUISITES]
 >
->* Salesforce 및 Sales Insight Actions [연결되어 있어야 합니다.](/help/marketo/product-docs/marketo-sales-insight/actions/crm/salesforce-integration/connect-your-marketo-sales-account-to-salesforce.md)
+>* Salesforce 및 Sales Insight Actions [연결되어 있어야 합니다.](/help/marketo/product-docs/marketo-sales-insight/actions/crm/salesforce-integration/connect-your-sales-insight-actions-account-to-salesforce.md)
 >* API를 통해 이메일 활동 로깅 [를 사용해야 합니다.](/help/marketo/product-docs/marketo-sales-insight/actions/crm/salesforce-integration/salesforce-sync-settings.md)
 
 
