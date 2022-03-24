@@ -1,10 +1,8 @@
 ---
 description: 팀 만들기 - Marketo 문서 - 제품 설명서
 title: 팀 만들기
-hide: true
-hidefromtoc: true
 exl-id: 7cca53a8-67e7-467a-988a-bb99872a328e
-source-git-commit: fda1bf51d4016a61c41be9acba4771db1797a552
+source-git-commit: 66baa3063b2f6798f04f1b81d6ea52a484975174
 workflow-type: tm+mt
 source-wordcount: '125'
 ht-degree: 0%

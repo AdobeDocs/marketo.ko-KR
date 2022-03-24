@@ -1,10 +1,8 @@
 ---
 description: 공유 설정 - Marketo 문서 - 제품 설명서
 title: 공유 설정
-hide: true
-hidefromtoc: true
 exl-id: 151d64da-7a36-4da2-8041-ebcdcd016a50
-source-git-commit: fda1bf51d4016a61c41be9acba4771db1797a552
+source-git-commit: 66baa3063b2f6798f04f1b81d6ea52a484975174
 workflow-type: tm+mt
 source-wordcount: '233'
 ht-degree: 0%
