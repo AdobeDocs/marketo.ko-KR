@@ -1,10 +1,8 @@
 ---
 description: 그룹 이메일을 통해 이메일 보내기 - Marketo 문서 - 제품 설명서
 title: 그룹 이메일을 통해 이메일 보내기
-hide: true
-hidefromtoc: true
 exl-id: 0099c0ee-dff2-4d7d-91cd-7d619405bac5
-source-git-commit: 08767d476cf89eefe7223308945733c6f813a34d
+source-git-commit: d9b8b92ac5f051178b8eb9b450c4949b56d50b99
 workflow-type: tm+mt
 source-wordcount: '160'
 ht-degree: 0%

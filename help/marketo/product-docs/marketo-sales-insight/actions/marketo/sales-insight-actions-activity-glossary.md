@@ -1,9 +1,8 @@
 ---
 description: Sales Insight Actions 활동 용어집 - Marketo 문서 - 제품 설명서
 title: Sales Insight Actions 활동 용어집
-hide: true
-hidefromtoc: true
-source-git-commit: a0cfc190e00ea6f8a9f5ef717566651423638b7d
+exl-id: fd0f632c-6f0d-49f9-a805-0730595c81fd
+source-git-commit: d9b8b92ac5f051178b8eb9b450c4949b56d50b99
 workflow-type: tm+mt
 source-wordcount: '541'
 ht-degree: 1%

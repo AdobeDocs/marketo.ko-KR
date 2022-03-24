@@ -1,9 +1,8 @@
 ---
 description: 자체 보기를 방지하는 방법 - Marketo 문서 - 제품 설명서
 title: 자체 보기를 방지하려면 어떻게 합니까?
-hide: true
-hidefromtoc: true
-source-git-commit: 3b7cc0c855221f6fd0fba6dca08ccbe361ca9758
+exl-id: 52de102f-6c6c-4663-9725-aae2f620d5bb
+source-git-commit: d9b8b92ac5f051178b8eb9b450c4949b56d50b99
 workflow-type: tm+mt
 source-wordcount: '314'
 ht-degree: 0%

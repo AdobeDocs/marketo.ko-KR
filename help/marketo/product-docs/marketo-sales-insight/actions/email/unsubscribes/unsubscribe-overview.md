@@ -1,10 +1,8 @@
 ---
 description: 가입 해지 개요 - Marketo 문서 - 제품 설명서
 title: 구독 취소 개요
-hide: true
-hidefromtoc: true
 exl-id: 7598efa9-9686-4dd0-840b-f8b6de4ab2be
-source-git-commit: fda1bf51d4016a61c41be9acba4771db1797a552
+source-git-commit: d9b8b92ac5f051178b8eb9b450c4949b56d50b99
 workflow-type: tm+mt
 source-wordcount: '348'
 ht-degree: 0%

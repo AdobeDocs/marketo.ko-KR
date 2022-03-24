@@ -1,9 +1,8 @@
 ---
 description: 위치 추적이 작동하는 방법 - Marketo 문서 - 제품 설명서
 title: 위치 추적은 어떻게 작동합니까
-hide: true
-hidefromtoc: true
-source-git-commit: ec78e047c9dc126553fe8a4b6a4c21b0d11aea5c
+exl-id: b4e0d121-0f3f-4477-b05a-466c8d2ac467
+source-git-commit: d9b8b92ac5f051178b8eb9b450c4949b56d50b99
 workflow-type: tm+mt
 source-wordcount: '113'
 ht-degree: 0%

@@ -1,11 +1,10 @@
 ---
 description: 하이퍼링크 텍스트 추가 - Marketo 문서 - 제품 설명서
 title: 하이퍼링크된 텍스트 추가
-hide: true
-hidefromtoc: true
-source-git-commit: 47b0f31b410f0bf4b41740aa6440c2a0484ab835
+exl-id: c79f4aa7-e1bf-479a-a4bb-493c26337ae7
+source-git-commit: d9b8b92ac5f051178b8eb9b450c4949b56d50b99
 workflow-type: tm+mt
-source-wordcount: '123'
+source-wordcount: '0'
 ht-degree: 0%
 
 ---

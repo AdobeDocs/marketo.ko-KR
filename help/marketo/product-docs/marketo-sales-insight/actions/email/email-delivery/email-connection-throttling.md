@@ -1,12 +1,10 @@
 ---
 description: 이메일 연결 제한 - Marketo 문서 - 제품 설명서
 title: 전자 메일 연결 조절
-hide: true
-hidefromtoc: true
 exl-id: 02450a1e-5b30-4057-b204-19fab1a7d6c9
-source-git-commit: fda1bf51d4016a61c41be9acba4771db1797a552
+source-git-commit: d9b8b92ac5f051178b8eb9b450c4949b56d50b99
 workflow-type: tm+mt
-source-wordcount: '435'
+source-wordcount: '0'
 ht-degree: 0%
 
 ---

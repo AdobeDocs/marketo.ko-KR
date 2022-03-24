@@ -1,11 +1,10 @@
 ---
 description: Salesforce와 작업 동기화 미리 알림 - Marketo 문서 - 제품 설명서
 title: Salesforce와 작업 동기화 미리 알림
-hide: true
-hidefromtoc: true
-source-git-commit: acb077e9d6e9fa4027d660ee182a13820f16ad83
+exl-id: 11aa6ab5-5489-4c20-a64d-2fd6fe29506f
+source-git-commit: d9b8b92ac5f051178b8eb9b450c4949b56d50b99
 workflow-type: tm+mt
-source-wordcount: '586'
+source-wordcount: '0'
 ht-degree: 0%
 
 ---

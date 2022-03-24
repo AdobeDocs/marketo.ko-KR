@@ -1,9 +1,8 @@
 ---
 description: 최신 클라이언트 버전은 무엇입니까? - Marketo 문서 - 제품 설명서
 title: 최신 클라이언트 버전은 무엇입니까?
-hide: true
-hidefromtoc: true
-source-git-commit: 8704643b6e561ce368ce50804a2b7beed6cea71a
+exl-id: 44610377-e3c3-435e-beb0-85e39c83f6fc
+source-git-commit: d9b8b92ac5f051178b8eb9b450c4949b56d50b99
 workflow-type: tm+mt
 source-wordcount: '72'
 ht-degree: 6%

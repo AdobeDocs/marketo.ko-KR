@@ -1,9 +1,8 @@
 ---
 description: 서버에서 Sales 허용 목록에 추가하다 Insight Action 을 세그먼트화하려면 어떻게 해야 합니까? - Marketo 문서 - 제품 설명서
 title: 서버에서 Sales 허용 목록에 추가하다 Insight Action 을 세그먼트화하려면 어떻게 해야 합니까?
-hide: true
-hidefromtoc: true
-source-git-commit: 8704643b6e561ce368ce50804a2b7beed6cea71a
+exl-id: 55ec5552-d71c-4f86-a8c8-44d6d9cb2c0b
+source-git-commit: d9b8b92ac5f051178b8eb9b450c4949b56d50b99
 workflow-type: tm+mt
 source-wordcount: '74'
 ht-degree: 0%
