@@ -3,7 +3,8 @@ description: 목표 추적 및 예상 등록 이해 - Marketo 문서 - 제품 �
 title: 목표 추적 및 예상 등록 이해
 hide: true
 hidefromtoc: true
-source-git-commit: ab20d9683aa5987778970fd32793dc0f3056c84b
+exl-id: 22d7ef98-2988-4188-99dd-5558a78492e3
+source-git-commit: b609a268f08a7eef47d32c77a054a7d120339186
 workflow-type: tm+mt
 source-wordcount: '986'
 ht-degree: 0%
@@ -12,7 +13,7 @@ ht-degree: 0%
 
 # 목표 추적 및 예상 등록 이해 {#understanding-goal-tracking-and-projected-registrations}
 
-후 [이벤트 목표 설정](/help/marketo/product-docs/marketo-sky/setting-event-goals.md) 그리고 초대장을 통해 보내기 [스마트 캠페인](/help/sky/create-a-smart-campaign.md)다음은 목표 진행 상황을 추적하고 Marketo의 예측을 이해하는 방법입니다.
+후 [이벤트 목표 설정](/help/marketo/product-docs/marketo-sky/setting-event-goals.md) 그리고 초대장을 통해 보내기 [스마트 캠페인](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/creating-a-smart-campaign/create-a-new-smart-campaign.md)다음은 목표 진행 상황을 추적하고 Marketo의 예측을 이해하는 방법입니다.
 
 >[!NOTE]
 >
