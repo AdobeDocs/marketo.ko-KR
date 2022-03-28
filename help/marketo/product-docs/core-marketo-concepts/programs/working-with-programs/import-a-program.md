@@ -3,9 +3,9 @@ unique-page-id: 1147108
 description: 프로그램 가져오기 - Marketo 문서 - 제품 설명서
 title: 프로그램 가져오기
 exl-id: 15e23e38-a24b-45b3-89a9-ffec85649f4a
-source-git-commit: a64c499f6972e94adfecbe164d86f7db1b1447aa
+source-git-commit: b0b1d176ef3471d8d02eb7601cbe7182a60b0e63
 workflow-type: tm+mt
-source-wordcount: '896'
+source-wordcount: '897'
 ht-degree: 0%
 
 ---
@@ -18,11 +18,11 @@ ht-degree: 0%
 
 1. 이동 **마케팅 활동.**
 
-   ![](assets/ma.png)
+   ![](assets/import-a-program-1.png)
 
 1. 클릭 **새로 만들기** 드롭다운 선택 **프로그램 가져오기**.
 
-   ![](assets/image2014-9-17-12-3a15-3a4.png)
+   ![](assets/import-a-program-2.png)
 
    >[!NOTE]
    >
@@ -32,23 +32,23 @@ ht-degree: 0%
 
 1. Marketo 선택 **구독** 가져올 프로그램과 클릭 **다음**.
 
-   ![](assets/image2014-9-17-12-3a20-3a13.png)
+   ![](assets/import-a-program-3.png)
 
 1. 을(를) 지정합니다 **캠페인 폴더** 가져온 프로그램에 대해 설명합니다. 클릭 **다음.**
 
-   ![](assets/image2014-9-17-12-3a20-3a44.png)
+   ![](assets/import-a-program-4.png)
 
    >[!NOTE]
    >
    >확인 **기본 충돌 사용** 규칙이 선택되어 있습니다. 동일한 이름의 자산이 있는 인스턴스로 프로그램을 가져올 때는 충돌 규칙이 필요합니다.
 
+1. 원하는 충돌 세부 정보를 선택하고 **다음**.
+
+   ![](assets/import-a-program-5.png)
+
 1. 세부 사항 및 미리 보기 **가져오기** 프로그램
 
-   ![](assets/image2014-9-17-12-3a21-3a36.png)
-
-   프로그램 가져오기 진행률이 대화 상자에 표시됩니다.
-
-   ![](assets/image2014-9-17-12-3a21-3a51.png)
+   ![](assets/import-a-program-6.png)
 
 가져오기가 완료되면 이메일 확인 메시지가 표시됩니다.
 
@@ -67,7 +67,7 @@ Marketo 프로그램 라이브러리에는 구독에 가져올 수 있는 사전
 1. **흥미로운 순간들.** 영업 팀이 해당 영업 팀을 계속 지원할 수 있는 흥미로운 순간을 만듭니다.
 1. **Autorresponder가 있는 랜딩 페이지.** 다운로드 가능한 콘텐츠를 사용하여 새로운 사람을 확보하고 육성합니다. 랜딩 페이지 및 양식을 포함합니다.
 1. **라이프사이클 2.** 점수를 사용하여 개인을 새 사람에서 마케팅 자격을 가진 사람으로 이동합니다.
-1. **모바일 이메일 템플릿.** iPhone 및 Android에서 테스트한 응답형 이메일 템플릿입니다. Gmail 및 Yahoo! 와 같은 특정 버전의 Android, MS Outlook, Exchange 및 타사 앱 메일 모바일 앱은 응답형 템플릿에 필요한 CSS를 지원하지 않습니다. 이메일을 보내기 전에 테스트하는 것이 좋습니다.
+1. **Mobile 이메일 템플릿.** iPhone 및 Android에서 테스트한 응답형 이메일 템플릿입니다. Gmail 및 Yahoo! 와 같은 특정 버전의 Android, MS Outlook, Exchange 및 타사 앱 메일 모바일 앱은 응답형 템플릿에 필요한 CSS를 지원하지 않습니다. 이메일을 보내기 전에 테스트하는 것이 좋습니다.
 1. **프로그램 가져오기 경품.** 프로그램 라이브러리를 시도하는 사람들을 위한 경품 프로그램! 이메일 및 랜딩 페이지를 승인하고 스마트 캠페인을 활성화하기만 하면 됩니다. 그런 다음 승인된 랜딩 페이지를 보고 양식을 작성하면 됩니다.
 1. **Sales Available Campaigns.** CRM의 대시보드에서 Marketo 스마트 캠페인을 실행하는 방법을 영업 담당자에게 제공합니다.
 1. **점수 - Spark Edition.** 인구 통계학적 및 행동 점수가 단일 점수 필드에 캡처되었습니다. 20개 이상의 점수 관련 캠페인을 포함합니다.
