@@ -3,9 +3,9 @@ unique-page-id: 37355569
 description: 프로그램 구성원 사용자 지정 필드 - Marketo 문서 - 제품 설명서
 title: 프로그램 구성원 사용자 정의 필드
 exl-id: 66b5dac6-015f-4907-8c82-78c932102463
-source-git-commit: 05f31bc1d48dff0351fb6084893be7f5a96a8754
+source-git-commit: 27e70ce28c2da78ebe607e107f69528b6cb60183
 workflow-type: tm+mt
-source-wordcount: '392'
+source-wordcount: '402'
 ht-degree: 0%
 
 ---
@@ -70,7 +70,7 @@ ht-degree: 0%
 * 프로그램 멤버 개체에는 최대 20개의 사용자 지정 필드가 있을 수 있습니다. 이러한 필드는 모든 프로그램에서 사용할 수 있습니다.
 * 프로그램 멤버를 제거할 때 해당 프로그램 멤버 사용자 정의 필드에 데이터가 있으면 해당 필드에서 데이터가 스크러빙됩니다.
 * 데이터를 보려면 프로그램의 멤버 탭을 클릭하고 해당 필드를 포함하는 사용자 지정 보기를 만듭니다.
-* 를 통해 가져오기 및 내보내기 [list](/help/marketo/getting-started/quick-wins/import-a-list-of-people.md) 및 [API](https://developers.marketo.com/) 이 지원됩니다.
+* 를 통해 가져오기 및 내보내기 [list](/help/marketo/getting-started/quick-wins/import-a-list-of-people.md) 및 [API](https://developers.marketo.com/) 이 지원됩니다. 정적 목록이 아니라 프로그램 구성원 목록에서만 작업을 내보냅니다.
 * 두 사람을 병합하면 우승자의 프로그램 구성원 사용자 지정 필드 데이터가 사용됩니다. 그러나 승자가 없는 경우는 패자의 가치만 사용하게 된다.
 * 변경 유형은 다음과 같습니다. **not** 프로그램 구성원 정보 필드에 허용됩니다.
 

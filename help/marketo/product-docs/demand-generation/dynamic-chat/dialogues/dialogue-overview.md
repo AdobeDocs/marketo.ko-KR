@@ -2,7 +2,7 @@
 description: 대화 상자 개요 - Marketo 문서 - 제품 설명서
 title: 대화 상자 개요
 exl-id: 5ec17ad0-6d56-4c06-a6ac-4c5771b2d91d
-source-git-commit: 1f874dc388143db427c2792a7fe5755d682d6fa4
+source-git-commit: 27e70ce28c2da78ebe607e107f69528b6cb60183
 workflow-type: tm+mt
 source-wordcount: '130'
 ht-degree: 0%
@@ -28,3 +28,5 @@ ht-degree: 0%
 ## 보고서 {#reports}
 
 다음 [보고서](/help/marketo/product-docs/demand-generation/dynamic-chat/dialogues/reports.md)대화 상자의 {target=&quot;_blank&quot;} 섹션에서 대화 상자가 얼마나 잘 수행되는지에 대한 지표를 볼 수 있습니다.
+
+![](assets/dialogue-overview-3.png)
