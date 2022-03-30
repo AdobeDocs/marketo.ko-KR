@@ -3,7 +3,7 @@ unique-page-id: 13795395
 description: 릴리스 노트 - 겨울 '18 - Marketo 문서 - 제품 설명서
 title: 릴리스 노트 - 2018년 겨울
 exl-id: f08bdc91-86d3-4ea2-a74a-1398ed525bbb
-source-git-commit: 74effe9f8078f8d71e6de01d6e737ddc86978abb
+source-git-commit: 6ad418c8f4056b9a2fb31b0ac995692f0c618795
 workflow-type: tm+mt
 source-wordcount: '599'
 ht-degree: 0%
@@ -24,9 +24,9 @@ Marketo은 우리의 빅 데이터 아키텍처를 활용하여 트리거 캠페
 
 Salesforce CRM 통합에 대한 두 가지 개선 사항이 있습니다.
 
-* [특정 CRM 동기화 ](/help/marketo/product-docs/core-marketo-concepts/miscellaneous/understanding-notifications/notification-types.md) 실패에 대한 Marketo 관리 알림(자격 증명이 만료됨, API 제한에 도달함 등)
+* [Marketo 관리 알림](/help/marketo/product-docs/core-marketo-concepts/miscellaneous/understanding-notifications/notification-types.md) 특정 CRM 동기화 실패(자격 증명이 만료됨, API 제한에 도달함 등)의 경우
 
-* [리드 할당 시 ](/help/marketo/product-docs/crm-sync/salesforce-sync/setup/optional-steps/turn-off-email-notifications-to-lead-owner.md) 리드 소유자에 대한 이메일 알림을 끄는 기능
+* [이메일 알림 끄기 기능](/help/marketo/product-docs/crm-sync/salesforce-sync/setup/optional-steps/turn-off-email-notifications-to-lead-owner.md) 리드 지정 시 리드 소유자로 이동
 
 이러한 개선 사항은 2018년에 출시될 예정입니다.
 
@@ -54,7 +54,7 @@ Salesforce 또는 Microsoft Dynamics를 사용하는 ABM 고객의 경우 ABM이
 
 **받는 사람 시간대**
 
-* **[월간 Reductive Cadence](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/scheduling-with-recipient-time-zone/schedule-email-programs-with-recipient-time-zone.md)**: 우리는 한 달에 한 번 꼴로 육성프로그램을 예약할 수 있는 능력을 추가했다.
+* **[월간 Cedence Cidence](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/scheduling-with-recipient-time-zone/schedule-email-programs-with-recipient-time-zone.md)**: 우리는 한 달에 한 번 꼴로 육성프로그램을 예약할 수 있는 능력을 추가했다.
 
 * **[게재 중지](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/scheduling-with-recipient-time-zone/abort-delivery-of-email-programs-scheduled-with-recipient-time-zone.md)**: 이제 나머지 전송을 중간에 중지할 수 있습니다.
 
@@ -62,7 +62,7 @@ Salesforce 또는 Microsoft Dynamics를 사용하는 ABM 고객의 경우 ABM이
 
 **[Google Customer Match 통합](/help/marketo/product-docs/demand-generation/ad-network-integrations/add-google-customer-match-as-a-launchpoint-service.md)**
 
-이 통합을 통해 Google AdWords를 사용하여 타깃팅할 Marketo 대상자를 Google에 전송하고 YouTube, 검색 및 Gmail에서 대상을 다시 타깃팅할 수 있습니다.
+이 통합을 사용하면 Google AdWords를 사용하여 타깃팅할 Google에 Marketo 대상자를 보내고 YouTube, 검색 및 Gmail에서 대상을 다시 타깃팅할 수 있습니다.
 
 **[linkedIn Matched Audiences API 개선 사항](/help/marketo/product-docs/demand-generation/ad-network-integrations/add-linkedin-matched-audiences-as-a-launchpoint-service.md)**
 
@@ -70,13 +70,13 @@ Salesforce 또는 Microsoft Dynamics를 사용하는 ABM 고객의 경우 ABM이
 
 ## 웹 개인화 {#web-personalization}
 
-**웹 개인화를 위한 일본어 데이터 소스**
+**웹 Personalization용 일본어 데이터 소스**
 
-Marketo은 일본에서 오는 방문자를 위한 웹 방문자 식별(역방향 IP 조회)과 개인화를 개선하기 위해 웹 개인화에 대한 추가 일본어 데이터 소스를 추가하고 있습니다. 조직 이름이 일본어로 표시됩니다.
+Marketo은 일본에서 오는 방문자를 위한 웹 방문자 식별(역 IP 조회)과 개인화를 개선하기 위해 웹 Personalization에 대한 추가 일본어 데이터 소스를 추가하고 있습니다. 조직 이름이 일본어로 표시됩니다.
 
 **[정적 목록을 사용하여 웹 세그먼트 만들기](/help/marketo/product-docs/web-personalization/using-web-segments/create-a-segment-using-a-static-list.md)**
 
-이제 웹 개인화는 MLM(마케팅 활동)에 정의된 정적 목록에 속하는 알려진 웹 방문자에게 컨텐츠를 개인화할 수 있습니다. 이러한 개선 사항을 통해 이제 여러 채널에서 정적 목록을 마케팅하고 웹 사이트에서 개인화된 콘텐츠를 통해 이러한 목록에 있는 사람들을 타깃팅할 수 있습니다.
+이제 웹 Personalization에서는 MLM(마케팅 활동)에 정의된 정적 목록에 속하는 알려진 웹 방문자에게 컨텐츠를 개인화할 수 있습니다. 이러한 개선 사항을 통해 이제 여러 채널에서 정적 목록을 마케팅하고 웹 사이트에서 개인화된 콘텐츠를 통해 이러한 목록에 있는 사람들을 타깃팅할 수 있습니다.
 
 ## ContentAI {#contentai}
 
@@ -86,7 +86,7 @@ Marketo의 최적화된 ContentAI 알고리즘을 통해 권장되는 콘텐츠�
 
 ## 통합 {#integration}
 
-**[Campaign API 활성화/비활성화](https://developers.marketo.com/rest-api/assets/campaigns/)**
+**[Campaign API 활성화/비활성화](https://developers.marketo.com/rest-api/assets/smart-campaigns/)**
 
 이 새로운 API를 사용하면 트리거 캠페인을 원격으로 활성화 및 비활성화할 수 있으므로 이제 완전히 자동화된 프로그램 템플릿을 만들 수 있습니다. 프로그램 템플릿을 한 번 만든 다음 복제, 마케팅 자료 업데이트, 이제 스마트 캠페인의 활성화/예약을 자동화합니다.
 
@@ -94,7 +94,7 @@ Marketo의 최적화된 ContentAI 알고리즘을 통해 권장되는 콘텐츠�
 
 **업데이트 구독 취소**
 
-2018년 3월 1일부터 [ToutApp.com](https://ToutApp.com)에서 보낸 모든 이메일(및 Salesforce에서 &quot;Email with Tout&quot; 단추를 사용하면)은 하단에 가입 해지 링크가 추가됩니다.
+2018년 3월 1일부터 보낸 모든 이메일 [ToutApp.com](https://ToutApp.com) (및 Salesforce에서 &quot;Email with Tout&quot; 버튼을 사용하면 아래에 가입 해지 링크가 추가됩니다.
 
 **라이브 피드 업데이트**
 

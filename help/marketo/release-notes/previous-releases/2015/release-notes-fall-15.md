@@ -3,9 +3,9 @@ unique-page-id: 10094114
 description: 릴리스 노트 - 2015년 가을 - Marketo 문서 - 제품 설명서
 title: 릴리스 노트 - 2015년 가을
 exl-id: b8a43086-a4d8-432d-89ac-14c75c6f0609
-source-git-commit: 74effe9f8078f8d71e6de01d6e737ddc86978abb
+source-git-commit: 6ad418c8f4056b9a2fb31b0ac995692f0c618795
 workflow-type: tm+mt
-source-wordcount: '995'
+source-wordcount: '991'
 ht-degree: 0%
 
 ---
@@ -44,27 +44,27 @@ Smart List에 가입을 통해 마케터는 스마트 목록을 내보내고 Mar
 
 [Google Chrome용 Marketo 통찰력](/help/marketo/product-docs/marketo-sales-insight/msi-chrome-plugin/using-marketo-insights-for-google-chrome.md)
 
-Google Mail Sales Insight Extension에 대한 업데이트 릴리스를 발표하게 되어 매우 기쁘게 생각합니다! [Chrome 스토어](https://nation.marketo.com/external-link.jspa?url=https://chrome.google.com/webstore/detail/marketo-insights-for-goog/jjkfbhajlmoeegbjgjipliamplidmbjb)에서 봅니다.
+Google Mail Sales Insight Extension에 대한 업데이트 릴리스를 발표하게 되어 매우 기쁘게 생각합니다! 에서 보기  [Chrome 스토어](https://chrome.google.com/webstore/detail/marketo-insights-for-goog/jjkfbhajlmoeegbjgjipliamplidmbjb).
 
 이 업데이트에는 다음과 같은 많은 새로운 기능이 포함되어 있습니다.
 
-* 영업 사원은 Google Mail 내에서 직책, twitter 프로필, 회사 정보, 사진 등을 비롯하여 잠재 고객에 대한 관련 정보를 직접 볼 수 있습니다.
+* 영업 사원은 Job Title, twitter 프로필, 회사 정보, 사진 등 Google Mail 내에서 직접 잠재 고객에 대한 관련 정보를 확인할 수 있습니다.
 * 영업 사원은 이메일 열기 또는 클릭, 온라인 또는 방문 이벤트, 방문 웹 페이지, eBook 다운로드 등과 같이 여러 채널에 걸쳐 어떤 컨텐츠 잠재 고객이 참여하고 있는지를 실시간으로 확인할 수 있습니다.
-* Google Mail을 통해 보낸 이메일은 Marketo에 로그인하고 실시간으로 추적됩니다. 이를 통해 잠재 고객이 이메일을 보고 있는 시점을 파악할 수 있으므로 적시에 후속 조치를 취할 수 있습니다. 또한 Marketo Sales Insight for Google Mail을 사용하면 판매원이 매력적인 초대장, 오퍼 및 기타 유형의 컨텐츠를 보내기 위해 마케팅으로 만든 템플릿을 쉽게 활용할 수 있습니다.
+* Google Mail을 통해 전송된 이메일은 Marketo에 로그인하고 실시간으로 추적됩니다. 이를 통해 잠재 고객이 이메일을 보고 있는 시점을 파악할 수 있으므로 적시에 후속 조치를 취할 수 있습니다. 또한 Marketo Sales Insight for Google Mail을 사용하면 판매자가 매력적인 초대장, 오퍼 및 기타 유형의 컨텐츠를 보내기 위해 마케팅으로 만든 템플릿을 쉽게 활용할 수 있습니다.
 
 ![](assets/image2015-10-2-14-3a47-3a53.png)
 
-## Marketo 모바일 참여 - 토큰, 샘플 보내기 및 미리 보기 {#marketo-mobile-engagement-tokens-send-sample-preview}
+## Marketo Mobile 참여 - 토큰, 샘플 보내기 및 미리 보기 {#marketo-mobile-engagement-tokens-send-sample-preview}
 
 * [토큰](/help/marketo/product-docs/mobile-marketing/push-notifications/configure-mobile-push-notification.md)
 * [샘플 보내기](/help/marketo/product-docs/mobile-marketing/push-notifications/send-a-push-notification-sample.md)
 * [미리 보기](/help/marketo/product-docs/mobile-marketing/push-notifications/preview-a-push-notification.md)
 
-[토큰](/help/marketo/product-docs/mobile-marketing/push-notifications/configure-mobile-push-notification.md)을 사용하여 푸시 알림을 쉽게 개인화할 수 있습니다.
+을 사용하여 푸시 알림 개인화 [토큰](/help/marketo/product-docs/mobile-marketing/push-notifications/configure-mobile-push-notification.md).
 
 ![](assets/image2015-10-1-13-3a44-3a58.png)
 
-고객에게 배포하기 전에 [미리 보기](/help/marketo/product-docs/mobile-marketing/push-notifications/preview-a-push-notification.md) 또는 [샘플](/help/marketo/product-docs/mobile-marketing/push-notifications/send-a-push-notification-sample.md) 푸시 알림을 보낼 수도 있습니다.
+다음을 수행할 수도 있습니다 [미리 보기](/help/marketo/product-docs/mobile-marketing/push-notifications/preview-a-push-notification.md) 또는 [샘플](/help/marketo/product-docs/mobile-marketing/push-notifications/send-a-push-notification-sample.md) 고객에게 배포하기 전에 알림을 푸시합니다.
 
 ![](assets/image2015-10-1-13-3a45-3a25.png)
 
@@ -85,7 +85,7 @@ Google Mail Sales Insight Extension에 대한 업데이트 릴리스를 발표�
 
 ## RTP - Content Analytics 및 Recommendations {#rtp-content-analytics-and-recommendations}
 
-[컨텐츠 ](/help/marketo/product-docs/web-personalization/understanding-web-personalization/understanding-content-analytics.md) 분석 및 Recommendations
+[컨텐츠 분석](/help/marketo/product-docs/web-personalization/understanding-web-personalization/understanding-content-analytics.md) 및 Recommendations
 
 RTP Content Analytics는 일반적인 웹 방문의 웹 컨텐츠 자산 성능 및 RTP의 컨텐츠 권장 사항 엔진에서 생성된 방문도 표시합니다.
 
@@ -95,8 +95,8 @@ RTP Content Analytics는 일반적인 웹 방문의 웹 컨텐츠 자산 성능 
 
 RTP의 자산 페이지가 이제 Content Analytics 및 Content Recommendations으로 분할됩니다.
 
-* **컨텐츠 분석:** 검색되고 정의된 모든 웹 컨텐츠의 보기 및 직접 리드를 표시하여 최상의 수행 컨텐츠를 분석할 수 있도록 합니다
-* **컨텐츠 Recommendations**: RTP의 권장 콘텐츠와 연결된 리드 속성의 노출 횟수 및 클릭 수를 표시합니다. 이 페이지에서 [막대](/help/marketo/product-docs/predictive-content/enabling-predictive-content/enable-the-content-recommendation-bar.md) 및 [리치 미디어](/help/marketo/product-docs/predictive-content/enabling-predictive-content/enable-predictive-content-for-web-rich-media.md) 권장 사항에 대한 컨텐츠 권장 사항을 편집하고 활성화할 수도 있습니다.
+* **컨텐츠 분석:** 검색되고 정의된 모든 웹 컨텐츠의 보기 및 직접 리드를 표시하여 최고의 성과를 분석할 수 있습니다
+* **콘텐츠 Recommendations**: RTP의 권장 콘텐츠와 연결된 리드 속성의 노출 횟수 및 클릭 수를 표시합니다. 이 페이지에서 [막대](/help/marketo/product-docs/predictive-content/enabling-predictive-content/enable-the-content-recommendation-bar.md) 및 [리치 미디어](/help/marketo/product-docs/predictive-content/enabling-predictive-content/enable-predictive-content-for-web-rich-media.md) 권장 사항.
 
 * 이 두 페이지의 모든 직접 리드 데이터는 연도 시작(2015년 1월 1일) 이후 소급 업데이트되었습니다.
 
@@ -120,7 +120,7 @@ RTP 캠페인을 복제하면 보다 빠르고 효율적으로 개인화된 웹 
 </v:background>
 ```
 
-* 이제 모든 항목을 유효한 HTML 주석에 삽입할 수 있습니다(아래 표시된 특정 구문은 이전에 제거됨).
+* 이제 모든 항목을 유효한 HTML 주석에 삽입할 수 있습니다. 아래 표시된 특정 구문은 이전에 제거되었습니다.
 
 `<!--[if gte mso 9]> <![endif]-->`
 
@@ -161,7 +161,7 @@ Salesforce 및 Dynamics에서 동기화된 사용자 지정 개체에 새 필드
 
 ## IE 11 지원(IE 9에 대한 지원 중단) {#ie-support-and-deprecating-support-for-ie}
 
-이제 Microsoft Internet Explorer 11 브라우저를 공식적으로 지원하고 Microsoft Internet Explorer 9 브라우저에 대한 지원을 제거하고 있습니다.
+이제 Microsoft Internet Explorer 11 브라우저를 공식적으로 지원하고 Microsoft Internet Explorer 9 브라우저에 대한 지원을 제거합니다.
 
 ## MSI에 대한 Lightning UI 지원 {#lightning-ui-support-for-msi}
 

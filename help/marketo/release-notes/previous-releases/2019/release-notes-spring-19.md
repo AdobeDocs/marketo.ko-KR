@@ -3,7 +3,7 @@ unique-page-id: 17728380
 description: 릴리스 노트 - 2019년 봄 - Marketo 문서 - 제품 설명서
 title: 릴리스 노트 - 2019년 봄
 exl-id: eb7a9ac4-5c3d-4d98-9b06-e3f11147bc6d
-source-git-commit: 8c271f4883f5e269820ef992cd5c50e746255736
+source-git-commit: 6ad418c8f4056b9a2fb31b0ac995692f0c618795
 workflow-type: tm+mt
 source-wordcount: '459'
 ht-degree: 0%
@@ -24,11 +24,11 @@ ht-degree: 0%
 
 * **대기 목록:** 원할 경우 구성원을 대기 목록에 추가하는 새 프로그램/이벤트 상태 [그들을 기다리게 해라](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/program-flow-actions/change-program-status.md) 공석이 열릴 때까지. 이는 Marketo Classic의 이벤트 프로그램과 연결된 채널과 Marketo Sky의 웨비나 프로그램이 있는 이벤트 및 이벤트에 적용됩니다. 기본적으로 대기 목록에는 등록됨과 동일한 단계 값이 있습니다.
 * **[사용자 지정 통신 제한](/help/marketo/product-docs/administration/email-setup/enable-communication-limits.md)**: 이제 관리자는 사용자 지정 일별 또는 주별 통신 제한을 설정할 수 있습니다.
-* **[스마트 캠페인 자산 API](https://developers.marketo.com/rest-api/assets/campaigns/)**: 업데이트된 날짜 및 ID별로 스마트 캠페인 레코드 검색을 통해 Marketo 외부에서 분석을 보강합니다.
+* **[스마트 캠페인 자산 API](https://developers.marketo.com/rest-api/assets/smart-campaigns/)**: 업데이트된 날짜 및 ID별로 스마트 캠페인 레코드 검색을 통해 Marketo 외부에서 분석을 보강합니다.
 * **이메일에 대한 HTTPS 추적 링크:** &quot;링크 추적을 위한 보안 도메인&quot;을 구입한 고객의 경우 이제 브랜드 추적 링크를 이메일 내에 HTTPS로 표시할 수 있습니다.
 * **전자 메일 게재 기능 Powerpack 업데이트**: 특정 테스트 결과에 플래그 지정 및 주석 달기를 수행하고, URL을 통해 이해 관계자와 결과를 공유하고, 변경 사항을 추적하여 이해 관계자가 콘텐츠를 편집할 때 이메일의 진화를 확인할 수 있는 기능.
 
-계정 기반 마케팅
+Account-Based Marketing
 
 **[AccountAI](/help/marketo/product-docs/target-account-management/account-profiling/account-profiling-ranking-and-tuning.md)** 이제 일반적으로 사용할 수 있습니다. AccountAI는 인공 지능을 사용하여 ABM 전략에 대해 타겟팅해야 하는 계정을 표시합니다.
 

@@ -3,9 +3,9 @@ description: 영업 캠페인 만들기 - Marketo 문서 - 제품 설명서
 title: 영업 캠페인 만들기
 hide: true
 hidefromtoc: true
-source-git-commit: e1eaabc8fc943291b026ab8e9919e5705e5c9046
+source-git-commit: 6ad418c8f4056b9a2fb31b0ac995692f0c618795
 workflow-type: tm+mt
-source-wordcount: '0'
+source-wordcount: '332'
 ht-degree: 0%
 
 ---
@@ -17,7 +17,7 @@ ht-degree: 0%
 캠페인을 사용하여 다음을 수행할 수 있습니다.
 
 * **구성**: 효율적인 실행을 위해 한 곳에서 모든 도달 범위 활동을 간소화합니다.
-* **크기 조정**: 노력을 확장하고 수작업을 최소화하며 필요한 만큼 개인화할 수 있도록 모든 도달 범위의 노력을 계획합니다.
+* **크기 조정**: 노력을 확장하고 수동 작업을 최소화하며 필요한 만큼 개인화할 수 있도록 모든 도달 범위의 노력을 계획합니다.
 * **측정**: Salesforce에 자동으로 로그인하면서 모든 이메일과 작업의 성공을 한 곳에서 추적합니다. 어떤 것이 공명하고 결과를 초래하는지 알면 결과를 일관되게 테스트 및 개선할 수 있습니다.
 
 그러면 캠페인을 어떻게 설정합니까?
@@ -66,7 +66,7 @@ ht-degree: 0%
 
 >[!MORELIKETHIS]
 >
->* 이메일 단계에 대한 영업 캠페인 전송 옵션 이해
+>* [이메일 단계에 대한 영업 캠페인 전송 옵션](/help/marketo/product-docs/marketo-sales-insight/actions/campaigns/sales-campaign-send-options-for-email-steps.md){target=&quot;_blank&quot;}
 >* [영업 캠페인 단계 유형 및 미리 알림 태스크](/help/marketo/product-docs/marketo-sales-insight/actions/campaigns/sales-campaign-step-types-and-reminder-tasks.md){target=&quot;_blank&quot;}
->* 영업 캠페인 설정
+>* [영업 캠페인 설정](/help/marketo/product-docs/marketo-sales-insight/actions/campaigns/sales-campaign-settings.md){target=&quot;_blank&quot;}
 
