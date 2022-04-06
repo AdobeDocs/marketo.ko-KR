@@ -2,7 +2,7 @@
 description: 현재 릴리스 노트 - Marketo 문서 - 제품 설명서
 title: 현재 릴리스 노트
 exl-id: a2eccad5-73ad-48f9-8091-51cee23824e1
-source-git-commit: 2ac0ef0b715eb2acd03fe2c5ad4cfee8daeef4f6
+source-git-commit: 621bb7db9485ef1cc559b5b161d5acb606bc4903
 workflow-type: tm+mt
 source-wordcount: '800'
 ht-degree: 0%
@@ -23,7 +23,7 @@ ht-degree: 0%
 
 ## 기본 CRM 통합 {#native-crm-integration}
 
-**기본 Veva CRM 통합(제한된 가용성)**: 기본 통합을 통해 Vec VRM과 Marketo Engage 간 활동을 동기화하여 의료 전문가와의 참여를 개선할 수 있습니다. 이러한 통합을 통해 마케터는 의료 전문가를 위한 보다 개인화되고 원활한 크로스 채널 경험을 만들 수 있습니다. 참여하는 데 관심이 있는 경우 고객 성공 관리자에게 문의하십시오.
+**기본 Veva CRM 통합(제한된 가용성)**: 기본 통합을 통해 Veeva CRM과 Marketo Engage 간 활동을 동기화하여 의료 전문가와의 참여를 개선할 수 있습니다. 이러한 통합을 통해 마케터는 의료 전문가를 위한 보다 개인화되고 원활한 크로스 채널 경험을 만들 수 있습니다. 참여하는 데 관심이 있는 경우 고객 성공 관리자에게 문의하십시오.
 
 ## 크로스 채널 오케스트레이션 {#cross-channel-orchestration}
 
