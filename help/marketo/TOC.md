@@ -3,9 +3,9 @@ audience: end-user
 user-guide-title: Marketo 안내서
 user-guide-description: Marketo 제품 설명서
 feature-set: Marketo Engage
-source-git-commit: 6ad418c8f4056b9a2fb31b0ac995692f0c618795
+source-git-commit: 2ac0ef0b715eb2acd03fe2c5ad4cfee8daeef4f6
 workflow-type: tm+mt
-source-wordcount: '8637'
+source-wordcount: '8649'
 ht-degree: 0%
 
 ---
@@ -1406,11 +1406,13 @@ ht-degree: 0%
          + 구성 {#configuration}
             + [Salesforce Classic에 벌크 작업 단추 추가](product-docs/marketo-sales-insight/msi-for-salesforce/configuration/add-bulk-action-buttons-to-salesforce-classic.md)
             + [Salesforce에 Marketo 탭 추가](product-docs/marketo-sales-insight/msi-for-salesforce/configuration/add-marketo-tab-to-salesforce.md)
+            + [Sales Insight 권한 집합 추가](product-docs/marketo-sales-insight/msi-for-salesforce/configuration/add-sales-insight-permission-set.md)
             + [Salesforce Lightning의 벌크 작업](product-docs/marketo-sales-insight/msi-for-salesforce/configuration/bulk-actions-in-salesforce-lightning.md)
             + [Salesforce Enterprise/Unlimited에서 Marketo Sales Insight 구성](product-docs/marketo-sales-insight/msi-for-salesforce/configuration/configure-marketo-sales-insight-in-salesforce-enterprise-unlimited.md)
             + [Salesforce Professional Edition에서 Marketo Sales Insight 구성](product-docs/marketo-sales-insight/msi-for-salesforce/configuration/configure-marketo-sales-insight-in-salesforce-professional-edition.md)
             + [기존 고객을 위한 구성](product-docs/marketo-sales-insight/msi-for-salesforce/configuration/configuration-for-existing-customers.md)
             + [Salesforce의 Marketo Sales Insight 구성 탭](product-docs/marketo-sales-insight/msi-for-salesforce/configuration/marketo-sales-insight-configuration-tab-in-salesforce.md)
+            + [Sales Insight Access 제거](product-docs/marketo-sales-insight/msi-for-salesforce/configuration/remove-sales-insight-access.md)
             + [Marketo 관리자를 위한 Sales Insight Page](product-docs/marketo-sales-insight/msi-for-salesforce/configuration/sales-insight-page-for-marketo-admins.md)
             + [팀을 위한 Sales Insight 설정](product-docs/marketo-sales-insight/msi-for-salesforce/configuration/setting-up-sales-insight-for-your-team.md)
          + 기능 {#features}
@@ -1831,6 +1833,7 @@ ht-degree: 0%
    + 이전 릴리스 {#previous-releases}
       + 2022년 {#2022}
          + [릴리스 노트: 2022년 1월](release-notes/previous-releases/2022/release-notes-jan-22.md)
+         + [릴리스 노트: 2022년 3월](release-notes/previous-releases/2022/release-notes-mar-22.md)
       + 2021년 {#2021}
          + [릴리스 노트: 2021년 1월](release-notes/previous-releases/2021/release-notes-jan-21.md)
          + [릴리스 노트: 2021년 5월](release-notes/previous-releases/2021/release-notes-may-21.md)
