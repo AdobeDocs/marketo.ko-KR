@@ -1,11 +1,10 @@
 ---
 description: Sales Insight 권한 세트 추가 - Marketo 문서 - 제품 설명서
 title: Sales Insight 권한 집합 추가
-hide: true
-hidefromtoc: true
-source-git-commit: 2ac0ef0b715eb2acd03fe2c5ad4cfee8daeef4f6
+exl-id: b93ddf2e-0f7b-41e0-ba88-7363f5e34970
+source-git-commit: d9876d73561d63dea4e46b0dfd191082f262baf6
 workflow-type: tm+mt
-source-wordcount: '386'
+source-wordcount: '379'
 ht-degree: 0%
 
 ---
@@ -85,31 +84,29 @@ ht-degree: 0%
 
 1. Salesforce 계정에 로그인합니다.
 
-PICC
-
 1. 클릭 **설정**.
 
-PICC
+   ![](assets/add-sales-insight-permission-set-1.png)
 
 1. 관리자(Administrator)에서 를 클릭하여 열기 **사용자 관리**, 그런 다음 **사용자**.
 
-PICC
+   ![](assets/add-sales-insight-permission-set-2.png)
 
 1. 모든 사용자에서 액세스 권한을 제공할 사용자를 선택한 다음 **권한 집합 지정**.
 
-PICC
+   ![](assets/add-sales-insight-permission-set-3.png)
 
 1. 클릭 **할당 편집**.
 
-PICC
+   ![](assets/add-sales-insight-permission-set-4.png)
 
 1. 선택 **Marketo 앱 액세스** 사용 가능한 사용 권한 세트에서 **추가**. 클릭 **저장**.
 
-PICC
+   ![](assets/add-sales-insight-permission-set-5.png)
 
 1. 이제 사용자 세부 사항 페이지를 아래로 스크롤하면 권한 집합 지정 아래에 &quot;Marketo 앱 액세스&quot;가 표시됩니다.
 
-PICC
+   ![](assets/add-sales-insight-permission-set-6.png)
 
 >[!NOTE]
 >
