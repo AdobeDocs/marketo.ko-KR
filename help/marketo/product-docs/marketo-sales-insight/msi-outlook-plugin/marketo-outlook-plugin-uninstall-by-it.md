@@ -1,21 +1,20 @@
 ---
 unique-page-id: 11382829
-description: IT별로 Marketing Outlook 플러그인 제거 - Marketing Docs - 제품 설명서
-title: IT에서 Marketing Outlook 플러그인 제거
-translation-type: tm+mt
-source-git-commit: 972cf9769ac751d9abfd5665975703dcd07930f0
+description: Marketo Outlook 플러그인 제거(IT별) - Marketo 문서 - 제품 설명서
+title: IT별 Marketo Outlook 플러그인 제거
+exl-id: 678684da-3e99-462f-9950-504df1c1bb1e
+source-git-commit: a24b0de6493d4849723099d6164fafb73ef7c926
 workflow-type: tm+mt
-source-wordcount: '122'
+source-wordcount: '128'
 ht-degree: 0%
 
 ---
 
+# IT별 Marketo Outlook 플러그인 제거 {#marketo-outlook-plugin-uninstall-by-it}
 
-# Marketing Outlook 플러그인 제거(IT {#marketo-outlook-plugin-uninstall-by-it})
+다음은 IT에서 Marketo Outlook 플러그인을 원격으로 제거하는 방법입니다.
 
-IT 팀이 Marketing Outlook 플러그인을 원격으로 제거하는 방법을 설명합니다.
-
-제거할 /x 스위치를 사용하여 &quot;시스템&quot; 또는 관리 사용자 계정으로 다음 명령줄을 실행합니다.
+다음 명령줄을 &#39;System&#39;으로 실행하거나 /x 스위치를 사용하여 관리 사용자 계정을 실행하여 제거하십시오.
 
 `<pre>msiexec.exe /x [File Name] /qn </pre>`
 
@@ -25,7 +24,7 @@ IT 팀이 Marketing Outlook 플러그인을 원격으로 제거하는 방법을 
 >
 >`<pre>msiexec.exe /x MarketoAddInSetup64.msi /qn </pre>`
 
-문제 해결을 위해 로깅을 설정하여 출력 로그 파일을 만들 수 있습니다.
+문제 해결을 위해 로깅을 사용하여 출력 로그 파일을 만들 수 있습니다.
 
 `<pre>msiexec.exe /x [File Name] /qn /L*v MarketoAddinUninstall.log</pre>`
 
@@ -47,6 +46,6 @@ IT 팀이 Marketing Outlook 플러그인을 원격으로 제거하는 방법을 
 
 >[!CAUTION]
 >
->플러그인을 원격으로 제거하면 사용자 컴퓨터의 Outlook이 강제로 닫힙니다.
+>플러그인을 원격으로 제거하면 사용자의 컴퓨터에서 Outlook이 강제로 닫힙니다.
 
-다른 로깅 수준 또는 사용자 인터페이스 수준을 시도하려면 [Microsoft의 스위치 전체 목록](https://support.microsoft.com/en-us/kb/227091)을 참조하십시오.
+자세한 내용은 [Microsoft의 전체 스위치 목록](https://support.microsoft.com/en-us/office/command-line-switches-for-microsoft-office-products-079164cd-4ef5-4178-b235-441737deb3a6) 다른 로깅 수준 또는 사용자 인터페이스 수준을 사용하려는 경우
