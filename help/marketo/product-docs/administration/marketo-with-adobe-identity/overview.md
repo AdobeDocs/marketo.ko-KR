@@ -2,9 +2,9 @@
 description: 개요 - Marketo 문서 - 제품 설명서
 title: 개요
 exl-id: 18ddeebc-bc89-411c-9d2c-23df6841cb3a
-source-git-commit: a21db1586166b7530bbbb18759752ef834cdc46a
+source-git-commit: 0d1762d9a5607d72af625aafbf7b9f412d6713c1
 workflow-type: tm+mt
-source-wordcount: '0'
+source-wordcount: '1016'
 ht-degree: 0%
 
 ---
@@ -77,6 +77,10 @@ Adobe Identity Management 시스템은 세 가지 구성 요소로 구성됩니�
 **Adobe가 IMS와 통합되는 경우 지원 담당자는 누구입니까?**
 
 연락하는 표준 절차를 따릅니다 [Marketo 지원](https://nation.marketo.com/t5/support/ct-p/Support).
+
+**Adobe ID를 사용하여 다른 Adobe 애플리케이션에 액세스하는 경우 이 ID를 사용하여 Marketo에 액세스할 수 있습니까?**
+
+다른 Adobe 제품이 있더라도 구독이 IMS로 마이그레이션되기 전까지는 Adobe ID가 있는 Marketo에 액세스할 수 없습니다.
 
 **Marketo 사용자 역할(작업 공간 내)이 Adobe Admin Console에서 관리됩니까?**
 

@@ -1,62 +1,69 @@
 ---
 unique-page-id: 2950660
-description: 사용자 정의 태그 만들기 - Marketo 문서 - 제품 설명서
+description: 사용자 지정 태그 만들기 - Marketo 문서 - 제품 설명서
 title: 사용자 지정 태그 만들기
 exl-id: f8efcbf5-7557-4cdf-b4e6-29d25b2fdd75
-translation-type: tm+mt
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+source-git-commit: 0d1762d9a5607d72af625aafbf7b9f412d6713c1
 workflow-type: tm+mt
-source-wordcount: '127'
+source-wordcount: '219'
 ht-degree: 0%
 
 ---
 
-# 사용자 지정 태그 {#create-custom-tags} 만들기
+# 사용자 지정 태그 만들기 {#create-custom-tags}
 
-태그는 프로그램을 구성하는 데 도움이 되지만 채널은 보고용 데이터를 수집하는 데 도움이 됩니다.
-
->[!NOTE]
->
->자세한 내용은 [태그 이해](/help/marketo/product-docs/core-marketo-concepts/programs/working-with-programs/understanding-tags.md)를 참조하십시오.
+태그는 프로그램을 구성하는 데 도움이 되지만 채널은 보고 목적으로 데이터를 수집하는 데 도움이 됩니다.
 
 >[!NOTE]
 >
->**관리자 권한 필요**
+>체크 아웃 [태그 이해](/help/marketo/product-docs/core-marketo-concepts/programs/working-with-programs/understanding-tags.md) 추가 정보.
 
-## 새 태그 유형 {#create-a-new-tag-type} 만들기
+>[!NOTE]
+>
+>**관리 권한 필요**
+
+## 새 태그 유형 만들기 {#create-a-new-tag-type}
 
 새 태그 유형을 만들려면:
 
-1. **관리** 섹션으로 이동합니다.
+1. 로 이동합니다. **관리** 섹션을 참조하십시오.
 
-   ![](assets/image2015-4-23-14-3a37-3a48.png)
+   ![](assets/create-custom-tags-1.png)
 
-1. **태그**&#x200B;를 클릭합니다.
+1. 클릭 **태그**.
 
-   ![](assets/image2015-4-23-14-3a41-3a18.png)
+   ![](assets/create-custom-tags-2.png)
 
-1. **새로 만들기**&#x200B;를 클릭하고 **새 태그 유형을 선택합니다.**
+1. 클릭 **새로 만들기** 을(를) 선택합니다. **새 태그 유형.**
 
-   ![](assets/image2015-4-23-14-3a42-3a45.png)
+   ![](assets/create-custom-tags-3.png)
 
-1. **태그 유형**&#x200B;의 이름을 입력합니다.
+1. 태그 유형의 이름을 입력합니다.
 
-   ![](assets/image2015-4-23-14-3a48-3a58.png)
+   ![](assets/create-custom-tags-4.png)
 
-1. 태그 유형에 원하는 **값**&#x200B;을 입력합니다. 추가 태그 값을 입력하려면 **다른 항목 추가**&#x200B;를 클릭합니다.
+1. 태그 유형에 대해 원하는 값을 입력합니다. 클릭 **다른 추가** 추가 값을 입력하려면
 
-   ![](assets/image2015-4-22-11-3a30-3a30.png)
+   ![](assets/create-custom-tags-5.png)
 
 1. 이 태그가 적용되는 프로그램 유형을 선택합니다.
 
-   ![](assets/image2015-4-22-11-3a39-3a7.png)
+   ![](assets/create-custom-tags-6.png)
+
+1. 나열된 모든 프로그램 유형에 이 태그를 필수적으로 할지 여부를 결정합니다.
+
+   ![](assets/create-custom-tags-7.png)
 
    >[!NOTE]
    >
-   >새 프로그램을 만들 때마다 이 태그를 추가하려면 모든 프로그램&#x200B;**에**&#x200B;필수 옵션을 선택합니다.
+   >* 새 프로그램을 만들 때마다 이 태그를 추가하려면 &quot;필수&quot;를 선택합니다.
+   >* &#39;적용 대상&#39; 목록에서 프로그램 유형을 제거하면 해당 유형의 기존의 모든 프로그램에서 태그와 해당 값이 삭제됩니다. 기존 태그 값을 유지하고 이 태그를 다음에 대해 선택적으로 앞으로 이동하도록 하려면 _모두_ 프로그램 유형이 나열되면 &quot;필수&quot; 확인란을 선택하지 않은 상태로 둡니다.
 
-1. **만들기**&#x200B;를 클릭하여 저장합니다.
 
-   ![](assets/image2015-4-22-11-3a38-3a34.png)
+   >[!TIP]
+   >
+   >일부 프로그램 유형에 필요한 유사한 태그를 만들고자 하지만 다른 프로그램 유형에 필요한 옵션을 제공하려면 각각 &quot;필수&quot;가 선택된 다른 프로그램 유형에 적용되고 &quot;필수&quot;가 선택되어 있지 않은 다른 프로그램 유형에 적용되는 두 개의 별도의 태그를 설정해야 합니다.
 
-   바로 그거야! 이제 프로그램용 사용자 정의 태그를 만들 수 있습니다.
+1. 클릭 **만들기**.
+
+   ![](assets/create-custom-tags-8.png)
