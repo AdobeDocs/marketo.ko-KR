@@ -2,7 +2,7 @@
 description: Sales Insight 권한 세트 추가 - Marketo 문서 - 제품 설명서
 title: Sales Insight 권한 집합 추가
 exl-id: b93ddf2e-0f7b-41e0-ba88-7363f5e34970
-source-git-commit: d9876d73561d63dea4e46b0dfd191082f262baf6
+source-git-commit: cccea2e9b7e1d0017e9be071ec85051f71e737bd
 workflow-type: tm+mt
 source-wordcount: '379'
 ht-degree: 0%
@@ -11,7 +11,7 @@ ht-degree: 0%
 
 # Sales Insight 권한 집합 추가 {#add-sales-insight-permission-set}
 
-다음 단계를 사용하여 Salesforce의 Sales Insight 기능에 대한 액세스를 추가합니다. Salesforce Classic 및 Lighting에 적용 가능
+Use the following steps to add access to Sales Insight features in Salesforce. Salesforce Classic 및 Lighting에 적용 가능
 
 >[!PREREQUISITES]
 >
@@ -25,13 +25,13 @@ ht-degree: 0%
 
 &quot;Marketo 앱&quot; 권한은 Sales Insight Salesforce 패키지의 일부입니다. 여기에는 아래에 언급된 개체, Apex 클래스 및 Visualforce 페이지에 대한 액세스 권한이 포함됩니다. 모든 Sales Insight 기능에 액세스하려면 이러한 기능이 필요합니다.
 
-**개체 설정**
+**Object Settings**
 
 <table> 
  <tbody> 
  <tr> 
    <td>BestBetsCache</td> 
-   <td>읽기, 만들기, 편집, 삭제, 모두 보기, 모두 수정</td> 
+   <td>Read, Create, Edit, Delete, View All, Modify All</td> 
   </tr> 
   <tr> 
    <td>최상의 보기 세부 정보</td> 
@@ -39,7 +39,7 @@ ht-degree: 0%
   </tr> 
   <tr> 
    <td>최고의 보기</td> 
-   <td>읽기, 만들기, 편집, 삭제, 모두 보기, 모두 수정</td> 
+   <td>Read, Create, Edit, Delete, View All, Modify All</td> 
   </tr> 
   <tr> 
    <td>EmailActivityCache</td> 
@@ -47,11 +47,11 @@ ht-degree: 0%
   </tr> 
   <tr> 
    <td>GetMethodArgus</td> 
-   <td>읽기, 만들기, 편집, 삭제, 모두 보기, 모두 수정</td> 
+   <td>Read, Create, Edit, Delete, View All, Modify All</td> 
   </tr> 
   <tr> 
    <td>GroupedWebActivityCache</td> 
-   <td>읽기, 만들기, 편집, 삭제, 모두 보기, 모두 수정</td> 
+   <td>Read, Create, Edit, Delete, View All, Modify All</td> 
   </tr> 
   <tr> 
    <td>InterestMomentsCache</td> 
@@ -66,7 +66,7 @@ ht-degree: 0%
    <td>읽기, 만들기, 편집, 삭제, 모두 보기, 모두 수정</td> 
   </tr> 
   <tr> 
-   <td>값</td> 
+   <td>Values</td> 
    <td>읽기, 만들기, 편집, 삭제, 모두 보기, 모두 수정</td> 
   </tr> 
   <tr> 
@@ -76,15 +76,15 @@ ht-degree: 0%
  </tbody> 
 </table>
 
-* Apex 클래스 액세스: 159 &quot;mkto_si&quot;가 있는 Apex 클래스
-* Visualforce 페이지 액세스: 64 &quot;mkto_si&quot;와 함께 있는 시각적 강제 페이지
+* Apex Class Access: 159 Apex Classes that begin with “mkto_si”
+* Visualforce Page Access: 64 Visualforce Pages that begin with “mkto_si”
 * 사용자 지정 설정 정의: mkto_si.Marketo 설정 및 mkto_si.User 환경 설정
 
-## 사용자에게 Marketo 앱 권한 집합 추가 {#adding-marketo-app-permission-set-to-users}
+## Adding Marketo App Permission Set to Users {#adding-marketo-app-permission-set-to-users}
 
-1. Salesforce 계정에 로그인합니다.
+1. Log in to your Salesforce account.
 
-1. 클릭 **설정**.
+1. Click **Setup**.
 
    ![](assets/add-sales-insight-permission-set-1.png)
 
@@ -104,7 +104,7 @@ ht-degree: 0%
 
    ![](assets/add-sales-insight-permission-set-5.png)
 
-1. 이제 사용자 세부 사항 페이지를 아래로 스크롤하면 권한 집합 지정 아래에 &quot;Marketo 앱 액세스&quot;가 표시됩니다.
+1. Now when you scroll down the User Detail page you will see “Marketo App Access” under Permission Set Assignments.
 
    ![](assets/add-sales-insight-permission-set-6.png)
 
@@ -112,4 +112,4 @@ ht-degree: 0%
 >
 >Sales Insight에 액세스할 수 없는 사용자에게는 다음 메시지가 표시됩니다. &quot;이 탭에 액세스할 수 있는 권한이 없습니다.&quot;
 
-됐습니다. Sales Insight 액세스를 추가했습니다. 액세스를 추가할 다른 프로필에 대해 동일한 단계를 반복합니다.
+That’s it! Sales Insight 액세스를 추가했습니다. 액세스를 추가할 다른 프로필에 대해 동일한 단계를 반복합니다.
