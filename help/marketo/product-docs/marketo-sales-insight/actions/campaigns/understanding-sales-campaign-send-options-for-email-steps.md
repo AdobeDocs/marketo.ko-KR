@@ -1,9 +1,9 @@
 ---
-unique-page-id: 14352621
 description: 이메일 단계에 대한 영업 캠페인 전송 옵션 이해 - Marketo 문서 - 제품 설명서
 title: 이메일 단계에 대한 영업 캠페인 전송 옵션 이해
-exl-id: acdee691-478e-4ffe-90e2-54cf559fa38d
-source-git-commit: 540bb61b9accf199e2be841086a6204064762861
+hide: true
+hidefromtoc: true
+source-git-commit: 468488010259c5d81cccf741db5cc4b98d20d9ea
 workflow-type: tm+mt
 source-wordcount: '576'
 ht-degree: 0%
