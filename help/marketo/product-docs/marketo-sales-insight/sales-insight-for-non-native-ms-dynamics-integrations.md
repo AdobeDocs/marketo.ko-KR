@@ -1,9 +1,10 @@
 ---
 description: 비기본 MS Dynamics 통합을 위한 Sales Insight - Marketo 문서 - 제품 설명서
 title: 비네이티브 MS Dynamics 통합을 위한 Sales Insight
-source-git-commit: fb663ddf4c0021f258317636fbc7794e8172ab7e
+exl-id: 07613ff8-b197-4a3d-88e9-720b68a6b8da
+source-git-commit: ff076d66a193664aa6ec05cf940143cebdd2d942
 workflow-type: tm+mt
-source-wordcount: '1426'
+source-wordcount: '1439'
 ht-degree: 0%
 
 ---
@@ -15,6 +16,7 @@ ht-degree: 0%
 >[!PREREQUISITES]
 >
 >* MSI 설정을 시작하기 전에 Marketo 인스턴스에 대해 &quot;MSI Non-Native&quot; 기능이 활성화되었습니다(MSI가 아니고 기능을 이미 구입한 경우, 다음 주소로 문의하십시오 [Marketo 지원](https://nation.marketo.com/t5/support/ct-p/Support){target=&quot;_blank&quot;} - 이 기능을 아직 구입하지 않았다면 고객 성공 관리자에게 문의하십시오.)
+>* 다운로드 [사용자 지정 동기화용 MSI 패키지](https://mktg-cdn.marketo.com/community/MarketoSalesInsight_NonNative.zip){target=&quot;_blank&quot;}.
 >* MSI 설치([On-prem](/help/marketo/product-docs/marketo-sales-insight/msi-for-microsoft-dynamics/installing/install-and-configure-marketo-sales-insight-in-microsoft-dynamics-365.md){target=&quot;_blank&quot;}, [Dynamics Online](/help/marketo/product-docs/marketo-sales-insight/msi-for-microsoft-dynamics/installing/install-and-configure-marketo-sales-insight-in-microsoft-dynamics-online.md){target=&quot;_blank&quot;}).
 >* Marketo REST API [설정](https://developers.marketo.com/rest-api/){target=&quot;_blank&quot;}. 노출된 CRUD API는 비기본 동기화를 수행하는 기반이 됩니다.
 >* 읽기 [이 블로그 게시물](https://developers.marketo.com/blog/create-and-associate-leads-companies-and-opportunities-with-the-marketo-rest-api/)개체 및 관계를 이해하기 위해 {target=&quot;_blank&quot;}.

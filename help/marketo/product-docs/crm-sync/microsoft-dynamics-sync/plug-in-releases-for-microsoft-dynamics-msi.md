@@ -3,10 +3,10 @@ unique-page-id: 10099102
 description: Microsoft Dynamics MSI용 플러그인 릴리스 - Marketo 문서 - 제품 설명서
 title: Microsoft Dynamics MSI용 플러그인 릴리스
 exl-id: 830f7dc3-07fd-429b-b0fd-290ffdda88e6
-source-git-commit: 7b22aec56d15826c1fecd2cf026c561c4df8531c
+source-git-commit: ff076d66a193664aa6ec05cf940143cebdd2d942
 workflow-type: tm+mt
-source-wordcount: '306'
-ht-degree: 6%
+source-wordcount: '342'
+ht-degree: 5%
 
 ---
 
@@ -14,7 +14,7 @@ ht-degree: 6%
 
 Microsoft Dynamics에 처음 동기화할 때 Marketo Sales Insight(MSI)용 플러그인의 최신 버전을 다운로드하여 설치합니다. Marketo은 정기적으로 이러한 플러그인을 업데이트하므로 동일한 위치로 돌아가 새 버전을 다운로드할 수 있습니다.
 
-제발 [최신 플러그인 다운로드](/help/marketo/product-docs/marketo-sales-insight/msi-for-microsoft-dynamics/installing/download-the-marketo-sales-insight-solution-for-microsoft-dynamics.md) 해당 섹션을 참조하십시오.
+Marketo의 기본 CRM 동기화 솔루션을 Dynamics에 사용하는 경우 [최신 플러그인 다운로드](/help/marketo/product-docs/marketo-sales-insight/msi-for-microsoft-dynamics/installing/download-the-marketo-sales-insight-solution-for-microsoft-dynamics.md)Dynamics 릴리스에 해당하는 {target=&quot;_blank&quot;}. 사용자 지정 동기화가 있고 Marketo Sales Insight를 구입한 사용자의 경우 [패키지 여기](https://mktg-cdn.marketo.com/community/MarketoSalesInsight_NonNative.zip){target=&quot;_blank&quot;}.
 
 >[!NOTE]
 >
