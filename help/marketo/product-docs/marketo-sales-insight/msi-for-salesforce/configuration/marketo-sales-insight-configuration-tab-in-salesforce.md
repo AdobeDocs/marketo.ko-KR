@@ -3,9 +3,9 @@ unique-page-id: 42762322
 description: Salesforce의 Marketo Sales Insight Configuration 탭 - Marketo 문서 - 제품 설명서
 title: Salesforce의 Marketo Sales Insight 구성 탭
 exl-id: 4e2abd48-b0a5-4b71-939b-e66c7e39bb6c
-source-git-commit: 2d6df5b08cb4ae6459d10bdc7a1d2ab09a96fb9d
+source-git-commit: 5c4bce6ab6801b861f70722b6782df34f96fed10
 workflow-type: tm+mt
-source-wordcount: '600'
+source-wordcount: '601'
 ht-degree: 0%
 
 ---
@@ -74,4 +74,4 @@ SFDC에서 Sales Insight를 사용하려면 이 설정을 해야 합니다.
 
 >[!MORELIKETHIS]
 >
->[팀을 위한 Sales Insight 설정](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/configuration/setting-up-sales-insight-for-your-team.md)
+>[프로필에 Sales Insight Access 추가](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/configuration/add-sales-insight-access-to-profiles.md){target=&quot;_blank&quot;}
