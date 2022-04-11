@@ -3,9 +3,9 @@ audience: end-user
 user-guide-title: Marketo 안내서
 user-guide-description: Marketo 제품 설명서
 feature-set: Marketo Engage
-source-git-commit: 5c4bce6ab6801b861f70722b6782df34f96fed10
+source-git-commit: 540bb61b9accf199e2be841086a6204064762861
 workflow-type: tm+mt
-source-wordcount: '8648'
+source-wordcount: '8656'
 ht-degree: 0%
 
 ---
@@ -1277,6 +1277,7 @@ ht-degree: 0%
             + [영업 캠페인 설정](product-docs/marketo-sales-insight/actions/campaigns/sales-campaign-settings.md)
             + [이메일 단계에 대한 영업 캠페인 전송 옵션](product-docs/marketo-sales-insight/actions/campaigns/sales-campaign-send-options-for-email-steps.md)
             + [영업 캠페인 단계 유형 및 미리 알림 태스크](product-docs/marketo-sales-insight/actions/campaigns/sales-campaign-step-types-and-reminder-tasks.md)
+            + [이메일 단계에 대한 영업 캠페인 전송 옵션 이해](product-docs/marketo-sales-insight/actions/campaigns/understanding-sales-campaign-send-options-for-email-steps.md)
             + [다른 사용자로 캠페인 목록 보기](product-docs/marketo-sales-insight/actions/campaigns/view-campaigns-list-as-another-user.md)
          + CRM {#crm}
             + Salesforce 사용자 지정 {#salesforce-customization}

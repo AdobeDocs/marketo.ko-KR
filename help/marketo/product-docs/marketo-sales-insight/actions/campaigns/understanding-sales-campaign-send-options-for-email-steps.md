@@ -1,22 +1,22 @@
 ---
 unique-page-id: 14352621
-description: 전송 옵션 이해 - Marketo 문서 - 제품 설명서
-title: 전송 옵션 이해
+description: 이메일 단계에 대한 영업 캠페인 전송 옵션 이해 - Marketo 문서 - 제품 설명서
+title: 이메일 단계에 대한 영업 캠페인 전송 옵션 이해
 exl-id: acdee691-478e-4ffe-90e2-54cf559fa38d
 source-git-commit: 540bb61b9accf199e2be841086a6204064762861
 workflow-type: tm+mt
-source-wordcount: '540'
+source-wordcount: '576'
 ht-degree: 0%
 
 ---
 
-# 전송 옵션 이해 {#understanding-send-options}
+# 이메일 단계에 대한 영업 캠페인 전송 옵션 이해 {#understanding-sales-campaign-send-options-for-email-steps}
 
-캠페인을 만들 때 Sales Connect에서 이메일 단계를 만드는 방법에 대한 몇 가지 옵션이 있습니다. 또한 이메일이 Campaign에서 어디에 영향을 주는지에 따라 옵션도 다릅니다.
+캠페인을 만들 때 Sales Insight Actions에서 이메일 단계를 만드는 방법에 대한 몇 가지 옵션이 있습니다. 또한 이메일이 Campaign에서 어디에 영향을 주는지에 따라 옵션도 다릅니다.
 
 Campaign의 첫 번째 단계와 첫 번째 일일 경우 다음 옵션을 사용할 수 있습니다.
 
-![](assets/image2019-10-25-10-43-19.png)
+![](assets/understanding-sales-campaign-send-options-for-email-steps-1.png)
 
 이 전자 메일을 보낼 시기를 선택합니다
 
@@ -58,3 +58,9 @@ Campaign의 후속 일/단계에 대해 다음 옵션을 사용할 수 있습니
 이 이메일을 이전 전자 메일에 스레드
 
 * 이 전송 옵션은 이전 전자 메일에 대한 &#39;추가 작업&#39;이며, 이전 전자 메일 본문을 이 전자 메일 하단에 추가합니다.
+
+>[!MORELIKETHIS]
+>
+>[영업 캠페인 만들기](/help/marketo/product-docs/marketo-sales-insight/actions/campaigns/create-a-sales-campaign.md){target=&quot;_blank&quot;}
+>[영업 캠페인 단계 유형 및 미리 알림 태스크](/help/marketo/product-docs/marketo-sales-insight/actions/campaigns/sales-campaign-step-types-and-reminder-tasks.md){target=&quot;_blank&quot;}
+>[영업 캠페인 설정](/help/marketo/product-docs/marketo-sales-insight/actions/campaigns/sales-campaign-settings.md){target=&quot;_blank&quot;}

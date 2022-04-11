@@ -3,7 +3,7 @@ unique-page-id: 13796475
 description: 개인 세부 사항 보기 - Marketo 문서 - 제품 설명서
 title: 개인 세부 정보 보기
 exl-id: 3f5ee34d-a21b-4862-80cc-cad921ca479e
-source-git-commit: e1b0e19dc292d867bc9639177592681fb9e8866d
+source-git-commit: 540bb61b9accf199e2be841086a6204064762861
 workflow-type: tm+mt
 source-wordcount: '283'
 ht-degree: 0%
@@ -18,11 +18,11 @@ ht-degree: 0%
 
 1. 개인 세부 사항 보기에 액세스하려면 **사람** 탭.
 
-   ![](assets/people-tab.png)
+   ![](assets/person-detail-view-1.png)
 
 1. 원하는 사람을 클릭합니다.
 
-   ![](assets/select-contact.png)
+   ![](assets/person-detail-view-2.png)
 
    >[!TIP]
    >
@@ -32,7 +32,7 @@ ht-degree: 0%
 
 개인의 모든 연락처 정보를 포함합니다.
 
-![](assets/about.jpg)
+![](assets/person-detail-view-3.png)
 
 **연락처 카드**
 
@@ -59,7 +59,7 @@ ht-degree: 0%
 
 이 사람이 귀하의 출력에 어떻게 관여하는지 확인하십시오.
 
-![](assets/engagement.jpg)
+![](assets/person-detail-view-4.png)
 
 **영업 연결 활동**
 
@@ -73,7 +73,7 @@ ht-degree: 0%
 
 도달 범위를 표시합니다. 이메일, 캠페인 및 호출을 포함합니다.
 
-![](assets/history.jpg)
+![](assets/person-detail-view-5.png)
 
 **영업 캠페인**
 
@@ -95,7 +95,7 @@ ht-degree: 0%
 
 이 사람과 연결된 작업을 관리합니다.
 
-![](assets/tasks.jpg)
+![](assets/person-detail-view-6.png)
 
 수행할 수 있는 작업:
 
