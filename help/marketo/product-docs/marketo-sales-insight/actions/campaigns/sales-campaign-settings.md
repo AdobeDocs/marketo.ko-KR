@@ -1,19 +1,17 @@
 ---
 description: 영업 캠페인 설정 - Marketo 문서 - 제품 설명서
 title: 영업 캠페인 설정
-hide: true
-hidefromtoc: true
 exl-id: 30674296-4a29-4349-afa8-4307be355d07
-source-git-commit: 297b97d215f98c987bee5da7d6db82f6153602cc
+source-git-commit: a0a2c93b89738c048f7aac658be9fa95b5e87f89
 workflow-type: tm+mt
-source-wordcount: '227'
+source-wordcount: '232'
 ht-degree: 0%
 
 ---
 
 # 영업 캠페인 설정 {#sales-campaign-settings}
 
-영업 캠페인 설정 섹션에서는 특정 판매 캠페인을 구성하여 해당 캠페인에 대한 팀의 사용 사례에 가장 잘 맞게 작업할 수 있습니다.
+Sales Campaign 설정 섹션에서는 특정 Sales Campaign을 구성하여 해당 Sales Campaign에 대한 팀의 사용 사례에 가장 잘 맞게 작업할 수 있습니다.
 
 ## 주말 건너뛰기 {#skip-weekends}
 
@@ -27,7 +25,7 @@ ht-degree: 0%
 
    ![](assets/sales-campaign-settings-1.png)
 
-1. 원하는 캠페인을 선택합니다.
+1. 원하는 영업 캠페인을 선택합니다.
 
    ![](assets/sales-campaign-settings-2.png)
 
@@ -41,13 +39,13 @@ ht-degree: 0%
 
 ## 바운스에서 제거 {#remove-on-bounce}
 
-이메일 연결을 사용하는 경우 Adobe에서는 사용자 받은 편지함에 전송된 바운스 메시지를 기반으로 바운스를 감지합니다. 또한 바운스가 감지되면 캠페인에서 사용자를 제거할 수 있습니다.
+이메일 연결을 사용하는 경우 Adobe에서는 사용자 받은 편지함에 전송된 바운스 메시지를 기반으로 바운스를 감지합니다. 또한 바운스가 감지되면 판매 캠페인에서 사람을 제거할 수 있습니다.
 
 1. 클릭 **캠페인**.
 
    ![](assets/sales-campaign-settings-5.png)
 
-1. 원하는 캠페인을 선택합니다.
+1. 원하는 영업 캠페인을 선택합니다.
 
    ![](assets/sales-campaign-settings-6.png)
 
@@ -67,7 +65,7 @@ Gmail 또는 Exchange에 대해 회신 추적을 활성화한 경우, 수신자�
 
    ![](assets/sales-campaign-settings-9.png)
 
-1. 원하는 캠페인을 선택합니다.
+1. 원하는 영업 캠페인을 선택합니다.
 
    ![](assets/sales-campaign-settings-10.png)
 
