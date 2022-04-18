@@ -2,9 +2,9 @@
 description: 개요 - Marketo 문서 - 제품 설명서
 title: 개요
 exl-id: 50ab55b2-f40d-4dbd-ac3b-aa52e37ff426
-source-git-commit: d3d85838c5750f1ff61fe7f542af71014d10a3e8
+source-git-commit: a5d6b3960957aa262fee7372b90f3609e1e19cce
 workflow-type: tm+mt
-source-wordcount: '491'
+source-wordcount: '490'
 ht-degree: 1%
 
 ---
@@ -24,7 +24,7 @@ Marketo 플랫폼의 새로운 모양과 느낌과 함께 향상된 유용성을
 
 ## 투어 시작 {#take-the-tour}
 
-처음 로그인하면 새 경험의 런다운을 제공할 준비가 된 팝업이 나타납니다. 참고로, 건너뛸 경우 나중에 **사용할 수 없게 됩니다**.
+처음 로그인하면 새 경험의 런다운을 제공할 준비가 된 팝업이 나타납니다. 잘 들어, 건너뛸 경우 **not** 나중에 사용 가능합니다.
 
 ![](assets/overview-1.png)
 
@@ -60,7 +60,7 @@ Marketo 플랫폼의 새로운 모양과 느낌과 함께 향상된 유용성을
 
 >[!NOTE]
 >
->트리에서 검색을 수행하면 처음 250개의 결과만 표시됩니다. 검색 후 자산을 찾을 수 없는 경우 [전역 검색](/help/marketo/product-docs/marketo-engage-next-generation-experience/using-the-global-search.md) 함수를 사용하십시오.
+>트리에서 검색을 수행하면 처음 250개의 결과만 표시됩니다. 검색 후 자산을 찾을 수 없는 경우 [전역 검색](/help/marketo/product-docs/marketo-engage-next-generation-experience/using-the-global-search.md) 함수 위에 있어야 합니다.
 
 **Marketo Classic과 새로운 Marketo 비교**
 
@@ -192,7 +192,7 @@ Marketo 플랫폼의 새로운 모양과 느낌과 함께 향상된 유용성을
   </tr>
   <tr>
    <td>3</td> 
-   <td>이 정보를 사용하여 MEUE 경험에 대한 피드백을 제공합니다</td> 
+   <td>이 정보를 사용하여 경험에 대한 피드백을 제공합니다</td> 
   </tr>
   <tr>
    <td>4</td> 
