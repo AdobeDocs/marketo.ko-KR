@@ -2,9 +2,9 @@
 description: Sales Insight Actions Admin Guide - Marketo 문서 - 제품 설명서
 title: Sales Insight Actions 관리 안내서
 exl-id: 339d518d-445b-4634-ab81-92c9d5541927
-source-git-commit: f2f81167066c2f170f81308b2deec52d19efafb3
+source-git-commit: fc94cd3b62b0afd8122c56773d420f385d30dabd
 workflow-type: tm+mt
-source-wordcount: '559'
+source-wordcount: '588'
 ht-degree: 0%
 
 ---
@@ -109,6 +109,10 @@ Salesforce에 이미 로그인한 경우 연결됩니다. 그렇지 않으면 �
 ## 데이터 동기화 시작 {#initiate-data-sync}
 
 Sales Insight Actions에 대한 데이터 통합 필드 동기화를 사용하면 시스템에서 Marketo Engage 데이터베이스의 개인 정보를 Sales Insight Actions 데이터베이스로 가져와서 사용자 데이터를 최신 상태로 유지하고 Marketo 및 Salesforce에서 올바른 레코드에 활동이 기록되도록 할 수 있습니다.
+
+>[!CAUTION]
+>
+>데이터 동기화를 시작하면 다음을 수행해야 합니다 **not** Sales Insight Actions 인스턴스에서 원래 사용자를 제거합니다. 첫 번째 초대장을 보낸 사용자입니다.
 
 1. Marketo에서 **관리**.
 
