@@ -2,9 +2,9 @@
 description: Marketo에 다이내믹 채팅 연결 - Marketo 문서 - 제품 설명서
 title: Marketo에 동적 채팅 연결
 exl-id: bad6c2dc-d4e7-4f98-bf6d-743043f96e4e
-source-git-commit: 6658aa559890f2a0524eb0bb8207fbfae68f1753
+source-git-commit: 9b49c9f0ee03ab72672f46618fb24eed174bf835
 workflow-type: tm+mt
-source-wordcount: '271'
+source-wordcount: '0'
 ht-degree: 0%
 
 ---
@@ -53,7 +53,7 @@ ht-degree: 0%
 
 1. 에 로그인합니다. [experience.adobe.com](https://experience.adobe.com).
 
-1. 홈 페이지의 오른쪽 아래 모서리에서 조직 ID를 복사합니다. _빼기_ @AdobeOrg.
+1. Experience Cloud의 아무 곳이나 화면을 클릭하고 ctrl+i를 누릅니다. 에서 **지정된 조직** 탭에서 조직 ID 를 강조 표시하고 복사합니다(_빼기_ @AdobeOrg). 누르기 **닫기** 완료 시.
 
    ![](assets/connect-dynamic-chat-to-marketo-6.png)
 
