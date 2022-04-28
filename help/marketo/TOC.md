@@ -3,9 +3,9 @@ audience: end-user
 user-guide-title: Marketo 안내서
 user-guide-description: Marketo 제품 설명서
 feature-set: Marketo Engage
-source-git-commit: 86451f1027e74479a415a4c6654a2625275d4112
+source-git-commit: e4653006bbdf750752bb6b1343796d7acde6cd04
 workflow-type: tm+mt
-source-wordcount: '8654'
+source-wordcount: '8658'
 ht-degree: 0%
 
 ---
@@ -188,6 +188,7 @@ ht-degree: 0%
          + [브라우저 지원 설정 편집 &quot;추적 안 함&quot;](product-docs/administration/settings/edit-do-not-track-browser-support-settings.md)
          + [랜딩 페이지 설정 편집](product-docs/administration/settings/edit-landing-page-settings.md)
          + [보고서 및 경고에서 링크 만료 편집](product-docs/administration/settings/edit-link-expiration-in-reports-and-alerts.md)
+         + [이메일 추적 링크 헤더](product-docs/administration/settings/email-tracking-link-headers.md)
          + [구독 설정 편집](product-docs/administration/settings/edit-subscription-settings.md)
          + [보물 상자 피쳐 활성화 또는 비활성화](product-docs/administration/settings/enable-or-disable-treasure-chest-features.md)
          + [계정에 대해 개인화된 URL 활성화(관리)](product-docs/administration/settings/enable-personalized-urls-for-your-account-administration.md)
