@@ -3,7 +3,7 @@ audience: end-user
 user-guide-title: Marketo 안내서
 user-guide-description: Marketo 제품 설명서
 feature-set: Marketo Engage
-source-git-commit: 93e6bb881e10cda26b3a33569dc67627d628a178
+source-git-commit: 1380d3ab2a4316a154cf16015d9bf19d65f0185f
 workflow-type: tm+mt
 source-wordcount: '8728'
 ht-degree: 0%
@@ -580,7 +580,7 @@ ht-degree: 0%
          + [Salesforce 동기화 상태](product-docs/crm-sync/salesforce-sync/salesforce-sync-status.md)
          + [개인 계정 사용](product-docs/crm-sync/salesforce-sync/using-person-accounts.md)
       + Veva CRM 동기화 {#veeva-crm-sync}
-         + [Veva CRM 동기화 이해](product-docs/crm-sync/salesforce-sync/understanding-the-veeva-crm-sync.md)
+         + [Veva CRM 동기화 이해](product-docs/crm-sync/veeva-crm-sync/understanding-the-veeva-crm-sync.md)
          + 설정 {#setup}
             + [3단계 중 1단계: Veva CRM에 Marketo 필드 추가](product-docs/crm-sync/veeva-crm-sync/setup/step-1-of-3-add-marketo-fields-to-veeva-crm.md)
             + [3단계 중 2단계: Marketo Engage용 Veva CRM 사용자 만들기](product-docs/crm-sync/veeva-crm-sync/setup/step-2-of-3-create-a-veeva-crm-user-for-marketo-engage.md)
