@@ -3,10 +3,10 @@ unique-page-id: 4720433
 description: Marketo에 대한 프로토콜 구성 - Marketo 문서 - 제품 설명서
 title: Marketo에 대한 프로토콜 구성
 exl-id: cf2fd4ac-9229-4e52-bb68-5732b44920ef
-source-git-commit: abfd29468bee24644353df497e1f80e0c05b6b2f
+source-git-commit: 56f429dabf19c4425c68b0dcd745621681a038ae
 workflow-type: tm+mt
-source-wordcount: '0'
-ht-degree: 0%
+source-wordcount: '1018'
+ht-degree: 1%
 
 ---
 
@@ -25,18 +25,16 @@ ht-degree: 0%
 >IT 팀이를 사용하여 웹 액세스를 제한하는 허용 목록에 추가하다 경우 모든 Marketo 리소스 및 웹 소켓을 허용하려면 다음 도메인(별표 포함)을 추가하도록 요청하십시오.
 
 * `*.marketo.com`
-
 * `*.marketodesigner.com`
-
 * `*.mktoweb.com`
 
-## Step 1: Create DNS Records for Landing Pages and Email {#step-create-dns-records-for-landing-pages-and-email}
+## 1단계: 랜딩 페이지 및 전자 메일에 대한 DNS 레코드 만들기 {#step-create-dns-records-for-landing-pages-and-email}
 
 **링크 CNAME 추적**
 
-마케팅 팀이 새 CNAME 레코드에 대한 두 개의 요청을 보냈어야 합니다. The first is for landing page URLs, so that the landing pages appear in URLs that reflect your domain and not Marketo (the actual host). 두 번째는 Marketo에서 보내는 이메일에 포함된 추적 링크에 대한 것입니다.
+마케팅 팀이 새 CNAME 레코드에 대한 두 개의 요청을 보냈어야 합니다. 첫 번째 단계는 랜딩 페이지 URL에 대한 것으로서, 랜딩 페이지가 Marketo(실제 호스트)가 아니라 도메인을 반영하는 URL에 표시되도록 합니다. 두 번째는 Marketo에서 보내는 이메일에 포함된 추적 링크에 대한 것입니다.
 
-`1` **Add CNAME for Landing Pages**
+`1` **랜딩 페이지용 CNAME 추가**
 
 DNS 레코드로 보내는 랜딩 페이지 CNAME을 추가하여 `[YourLandingPageCNAME]` Marketo 랜딩 페이지에 지정된 고유한 계정 문자열을 가리킵니다. 도메인 등록자의 사이트에 로그인하고 랜딩 페이지 CNAME 및 계정 문자열을 입력합니다. 일반적으로 여기에는 세 가지 필드가 포함됩니다.
 
@@ -57,6 +55,10 @@ DNS 레코드로 보내는 랜딩 페이지 CNAME을 추가하여 `[YourLandingP
 
 이 프로세스를 완료하면 마케팅 팀에 알립니다.
 
+`4` **연락처 [Marketo 지원](https://nation.marketo.com/t5/support/ct-p/Support){target=&quot;_blank&quot;} 를 사용하여 SSL 인증서를 프로비전하는 프로세스를 시작합니다.**
+
+이 프로세스를 완료하는 데 최대 3일이 걸릴 수 있습니다.
+
 ## 2단계: Marketo 허용 목록에 추가하다 IP {#step-allowlist-marketo-ips}
 
 마케팅 그룹이 Marketo을 사용하여 테스트 이메일(이메일 발매 보내기 전 우수 사례)을 전송하는 경우, 테스트 이메일이 유효한지 확인하기 위해 발신자 IP 주소를 사용하는 스팸 방지 시스템에 의해 차단되는 경우가 있습니다. 해당 테스트 이메일이 도착하는지 확인하려면 Marketo을에 허용 목록에 추가하다 추가하십시오.
@@ -71,15 +73,15 @@ DNS 레코드로 보내는 랜딩 페이지 CNAME을 추가하여 `[YourLandingP
 103.237.104.0/22\
 94.236.119.0/26
 
-Some anti-spam systems use the email Return-Path field instead of the IP address for allowisting. 이러한 경우, Marketo에서는 여러 사서함 하위 도메인을 허용 목록에 추가하다 사용하므로 &#39;*.mktomail.com&#39;을 검색하는 것이 가장 좋습니다. 보낸 사람 주소를 허용 목록에 추가하다 기반으로 하는 다른 스팸 방지 시스템. 이러한 경우 마케팅 그룹이 사람/리드와 통신하는 데 사용하는 모든 전송(&#39;보낸 사람&#39;) 도메인을 포함해야 합니다.
+일부 스팸 방지 시스템에서는 허용되는 IP 주소 대신 이메일 반환 경로 필드를 사용합니다. 그러한 경우, 가장 좋은 접근 방법은 허용 목록에 추가하다 &#39;&#42;Marketo은 여러 사서함 하위 도메인을 사용하므로 .mktomail.com&#39;. 보낸 사람 주소를 허용 목록에 추가하다 기반으로 하는 다른 스팸 방지 시스템. 이러한 경우 마케팅 그룹이 사람/리드와 통신하는 데 사용하는 모든 전송(&#39;보낸 사람&#39;) 도메인을 포함해야 합니다.
 
 >[!NOTE]
 >
->Postini employs a unique technology and requires allowlisting IP ranges. 자세한 내용은 [Postini를 사용한 허용 목록에 추가](https://nation.marketo.com/docs/DOC-1066).
+>Postini는 고유한 기술을 사용하며 허용 목록에 추가 IP 범위가 필요합니다. 자세한 내용은 [Postini를 사용한 허용 목록에 추가](https://nation.marketo.com/docs/DOC-1066).
 
-## Step 3: Set up SPF and DKIM {#step-set-up-spf-and-dkim}
+## 3단계: SPF 및 DKIM 설정 {#step-set-up-spf-and-dkim}
 
-마케팅 팀이 DNS 리소스 레코드(아래 참조)에 추가할 DKIM 정보도 보냈어야 합니다. Follow the steps to successfully configure DKIM and SPF, then notify your marketing team that this has been updated.
+마케팅 팀이 DNS 리소스 레코드(아래 참조)에 추가할 DKIM 정보도 보냈어야 합니다. 단계에 따라 DKIM 및 SPF를 성공적으로 구성한 다음, 이 기능이 업데이트되었음을 마케팅 팀에 알립니다.
 
 1. SPF를 설정하려면 DNS 항목에 다음 줄을 추가합니다.
 
@@ -91,9 +93,9 @@ Some anti-spam systems use the email Return-Path field instead of the IP address
 
    CompanyDomain 을 웹 사이트의 주 도메인으로 바꿉니다(예: &quot;`(company.com/)`&quot;) 및 회사 이메일 서버의 IP 주소를 사용하는 CorpIP( 예: &quot;255.255.255.255&quot;). 여러 도메인에서 Marketo을 통해 이메일을 보내려면 IT 직원이 각 도메인에 대해 이 줄을 추가(한 줄에서)해야 합니다.
 
-1. DKIM의 경우 설정하려는 각 도메인에 대해 DNS 리소스 레코드를 만듭니다. Below are the Host Records and TXT Values for each domain we&#39;ll be signing for:
+1. DKIM의 경우 설정하려는 각 도메인에 대해 DNS 리소스 레코드를 만듭니다. 다음은 Adobe가 서명할 각 도메인에 대한 호스트 레코드 및 TXT 값입니다.
 
-   `[DKIMDomain1]`: Host Record is `[HostRecord1]` and the TXT Value is `[TXTValue1]`.
+   `[DKIMDomain1]`: 호스트 레코드: `[HostRecord1]` 및 TXT 값 `[TXTValue1]`.
 
    `[DKIMDomain2]`: 호스트 레코드: `[HostRecord2]` 및 TXT 값 `[TXTValue2]`.
 
@@ -101,11 +103,11 @@ Some anti-spam systems use the email Return-Path field instead of the IP address
 
 ## 4단계: 도메인에 대한 MX 레코드 설정 {#step-set-up-mx-records-for-your-domain}
 
-MX 레코드를 사용하면 회신과 자동 응답자를 처리하기 위해 이메일을 보내는 도메인으로 메일을 받을 수 있습니다. If you’re sending from your corporate domain, you likely already have this configured. 그렇지 않은 경우 일반적으로 회사 도메인의 MX 레코드에 매핑하도록 설정할 수 있습니다.
+MX 레코드를 사용하면 회신과 자동 응답자를 처리하기 위해 이메일을 보내는 도메인으로 메일을 받을 수 있습니다. 회사 도메인에서 보내는 경우 이미 이 구성이 되었을 수 있습니다. 그렇지 않은 경우 일반적으로 회사 도메인의 MX 레코드에 매핑하도록 설정할 수 있습니다.
 
 ## 아웃바운드 IP 주소 {#outbound-ip-addresses}
 
-An outbound connection is one made by Marketo Engage to a server on the internet on your behalf. 사용하는 일부 파트너/공급업체 또는 고유한 IT 조직은 허용 목록을 사용하여 서버에 대한 액세스를 제한할 수 있습니다. 그럴 경우 Marketo Engage 아웃바운드 IP 주소 블록을 허용 목록에 추가하여 제공해야 합니다.
+아웃바운드 연결은 Marketo Engage이 사용자를 대신하여 인터넷을 통해 서버에 연결하는 것입니다. 사용하는 일부 파트너/공급업체 또는 고유한 IT 조직은 허용 목록을 사용하여 서버에 대한 액세스를 제한할 수 있습니다. 그럴 경우 Marketo Engage 아웃바운드 IP 주소 블록을 허용 목록에 추가하여 제공해야 합니다.
 
 **Webhooks**
 
