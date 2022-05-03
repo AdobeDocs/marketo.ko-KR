@@ -2,9 +2,9 @@
 description: Marketo에 다이내믹 채팅 연결 - Marketo 문서 - 제품 설명서
 title: Marketo에 동적 채팅 연결
 exl-id: bad6c2dc-d4e7-4f98-bf6d-743043f96e4e
-source-git-commit: 9b49c9f0ee03ab72672f46618fb24eed174bf835
+source-git-commit: c36b9206494c14a52937fa787a37601eaf6f4bd4
 workflow-type: tm+mt
-source-wordcount: '0'
+source-wordcount: '309'
 ht-degree: 0%
 
 ---
@@ -50,6 +50,10 @@ ht-degree: 0%
 ## Adobe 조직 및 Marketo 연결 {#link-your-adobe-org-and-marketo}
 
 이제 Adobe과 Marketo을 연결할 차례입니다.
+
+>[!IMPORTANT]
+>
+>이 매핑을 설정하는 Marketo Engage 사용자의 이메일 주소도 연결 중인 Adobe 조직에 액세스할 수 있어야 합니다.
 
 1. 에 로그인합니다. [experience.adobe.com](https://experience.adobe.com).
 
