@@ -3,9 +3,9 @@ audience: end-user
 user-guide-title: Marketo 안내서
 user-guide-description: Marketo 제품 설명서
 feature-set: Marketo Engage
-source-git-commit: e4653006bbdf750752bb6b1343796d7acde6cd04
+source-git-commit: 93e6bb881e10cda26b3a33569dc67627d628a178
 workflow-type: tm+mt
-source-wordcount: '8658'
+source-wordcount: '8728'
 ht-degree: 0%
 
 ---
@@ -579,6 +579,19 @@ ht-degree: 0%
          + [Salesforce 동기화 오류](product-docs/crm-sync/salesforce-sync/salesforce-sync-errors.md)
          + [Salesforce 동기화 상태](product-docs/crm-sync/salesforce-sync/salesforce-sync-status.md)
          + [개인 계정 사용](product-docs/crm-sync/salesforce-sync/using-person-accounts.md)
+      + Veva CRM 동기화 {#veeva-crm-sync}
+         + [Veva CRM 동기화 이해](product-docs/crm-sync/salesforce-sync/understanding-the-veeva-crm-sync.md)
+         + 설정 {#setup}
+            + [3단계 중 1단계: Veva CRM에 Marketo 필드 추가](product-docs/crm-sync/veeva-crm-sync/setup/step-1-of-3-add-marketo-fields-to-veeva-crm.md)
+            + [3단계 중 2단계: Marketo Engage용 Veva CRM 사용자 만들기](product-docs/crm-sync/veeva-crm-sync/setup/step-2-of-3-create-a-veeva-crm-user-for-marketo-engage.md)
+            + [3단계 중 3단계: Marketo Engage 및 Salesforce 연결(Professional)](product-docs/crm-sync/veeva-crm-sync/setup/step-3-of-3-connect-marketo-engage-and-salesforce.md)
+         + 동기화 세부 정보 {#sync-details}
+            + [사용자 지정 개체 필드를 스마트 목록/트리거 제약 조건으로 추가/제거](product-docs/crm-sync/veeva-crm-sync/sync-details/add-remove-custom-object-field-as-smart-list-trigger-constraints.md)
+            + [기본 경험 필드 매핑](product-docs/crm-sync/veeva-crm-sync/sync-details/default-veeva-field-mapping.md)
+            + [사용자 지정 개체 동기화 활성화/비활성화](product-docs/crm-sync/veeva-crm-sync/sync-details/enable-disable-custom-object-sync.md)
+            + [개인 계정 동기화](product-docs/crm-sync/veeva-crm-sync/sync-details/person-account-sync.md)
+            + [호출 및 호출 키 메시지 동기화](product-docs/crm-sync/veeva-crm-sync/sync-details/syncing-call-and-call-key-messages.md)
+            + [Veva CRM 사용자 지정 개체 동기화](product-docs/crm-sync/veeva-crm-sync/sync-details/veeva-crm-custom-object-sync.md)
    + 수요 생성 {#demand-generation}
       + 광고 네트워크 통합 {#ad-network-integrations}
          + [광고 네트워크 통합 이해](product-docs/demand-generation/ad-network-integrations/understanding-ad-network-integrations.md)
