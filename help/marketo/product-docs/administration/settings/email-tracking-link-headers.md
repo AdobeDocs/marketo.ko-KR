@@ -1,12 +1,10 @@
 ---
 description: 이메일 추적 링크 헤더 - Marketo 문서 - 제품 설명서
 title: 이메일 추적 링크 헤더
-hide: true
-hidefromtoc: true
 exl-id: 2db1f1b3-3afe-4710-a8b1-b06fbf09ec8c
-source-git-commit: dcca897dc5014a2179fe35a031ba2f9e5b2dbaf4
+source-git-commit: e9a41359a4a03f323312b61ab5afc820140b6fee
 workflow-type: tm+mt
-source-wordcount: '105'
+source-wordcount: '103'
 ht-degree: 0%
 
 ---
@@ -30,7 +28,7 @@ ht-degree: 0%
 <table>
  <tr>
   <td><strong>Strict-Transport-Security</strong></td>
-  <td>이 옵션을 사용하면 랜딩 페이지에 대한 연결이 항상 HTTPS를 통해 제공될 것임을 보장합니다(SSL로 보호되는 랜딩 페이지를 구독에 대해서만 설정되어야 함)</td>
+  <td>이 옵션을 사용하면 추적 링크가 항상 HTTPS를 통해 제공될 것입니다(SSL로 보호되는 추적 링크가 있는 구독에만 설정되어야 함)</td>
  </tr>
 </table>
 
