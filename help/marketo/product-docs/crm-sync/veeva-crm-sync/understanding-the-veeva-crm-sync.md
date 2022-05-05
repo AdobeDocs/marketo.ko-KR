@@ -1,11 +1,10 @@
 ---
 description: Veva CRM 동기화 이해 - Marketo 문서 - 제품 설명서
 title: Veva CRM 동기화 이해
-hide: true
-hidefromtoc: true
-source-git-commit: 93e6bb881e10cda26b3a33569dc67627d628a178
+exl-id: 99ade106-7f32-40e8-8b9a-2b1d0e769b9c
+source-git-commit: 884c9a27f3876ec3036f2f7187db30565cdd49a7
 workflow-type: tm+mt
-source-wordcount: '248'
+source-wordcount: '0'
 ht-degree: 0%
 
 ---
@@ -28,14 +27,14 @@ Veeva와 Marketo Engage 간의 동기화는 개인 계정 개체의 연락처 �
 
 ## Marketo Engage과 Veva 간에 동기화되는 사항 {#what-is-synced-between-marketo-engage-and-veeva}
 
-* 개인 계정
+* [개인 계정](/help/marketo/product-docs/crm-sync/veeva-crm-sync/sync-details/person-account-sync-faq.md){target=&quot;_blank&quot;}
 * 사용자
-* 키 개체 호출 및 호출
-* 사용자 정의 개체
+* [키 개체 호출 및 호출](/help/marketo/product-docs/crm-sync/veeva-crm-sync/sync-details/syncing-call-and-call-key-messages.md){target=&quot;_blank&quot;}
+* [사용자 정의 개체](/help/marketo/product-docs/crm-sync/veeva-crm-sync/sync-details/custom-object-sync.md){target=&quot;_blank&quot;}
 
 ## 알아야 할 사항 {#things-to-know}
 
-* Veva용 Marketo Engage에 입력하는 자격 증명은 데이터를 동기화하는 데 사용됩니다. 자격 증명이 액세스할 수 있는 데이터만 포함됩니다.
+* 다음 [veveva용 Marketo Engage에 입력하는 자격 증명](/help/marketo/product-docs/crm-sync/salesforce-sync/setup/enterprise-unlimited-edition/step-2-of-3-create-a-salesforce-user-for-marketo-enterprise-unlimited.md){target=&quot;_blank&quot;}은 데이터를 동기화하는 데 사용됩니다. 자격 증명이 액세스할 수 있는 데이터만 포함됩니다.
 
 * Vevar CRM은 force.com을 기반으로 하며 플랫폼과 함께 있는 풍부한 경험 Marketo Engage이 이 동기화에 상속됩니다.
 
