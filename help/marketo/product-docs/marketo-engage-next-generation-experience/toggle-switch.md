@@ -2,16 +2,16 @@
 description: 전환 스위치 - Marketo 문서 - 제품 설명서
 title: 스위치 전환
 exl-id: bb519314-bddf-4184-8585-22ed1fe85f9a
-source-git-commit: 05f31bc1d48dff0351fb6084893be7f5a96a8754
+source-git-commit: 13b3548580d29a0e93958ebac9be39435769121c
 workflow-type: tm+mt
-source-wordcount: '0'
+source-wordcount: '354'
 ht-degree: 0%
 
 ---
 
 # 스위치 전환 {#toggle-switch}
 
-전환 스위치를 사용하면 Marketo의 클래식 인터페이스와 새로운 차세대 Marketo Engage 경험 간에 전환할 수 있습니다. 랜딩 페이지 목록 보기 및 양식 세부 사항 페이지에서 사용할 수 있습니다.
+전환 스위치를 사용하면 Marketo의 클래식 인터페이스와 차세대 Marketo Engage 경험 간에 전환할 수 있습니다. 이 기능은 아래에 강조 표시된 모든 영역에서 사용할 수 있습니다. 2022년 5월 릴리스부터 차세대 경험은 기본적으로 활성화됩니다.
 
 >[!NOTE]
 >
@@ -99,14 +99,32 @@ ht-degree: 0%
 
 ![](assets/toggle-switch-17.png)
 
-## 모든 기능에 대해 활성화 {#enable-for-all-features}
+## 이메일 템플릿 세부 사항 보기 {#email-template-details-view}
 
-사용 가능한 모든 기능, 현재 및 제공 예정인 Marketo의 차세대 인터페이스를 활성화할 수 있습니다.
-
-1. 현재 전환 스위치가 있는 영역에서(이 예에서는) [양식 세부 사항 페이지](#form-details-page))의 경우 페이지 오른쪽 하단에 있는 톱니바퀴 아이콘을 클릭합니다.
+1. Marketo에서 **Design Studio**.
 
    ![](assets/toggle-switch-18.png)
 
-1. 선택 **사용 가능한 모든 기능에 대해 활성화** 을(를) 클릭합니다. **확인**.
+1. 원하는 이메일 템플릿을 선택합니다.
 
    ![](assets/toggle-switch-19.png)
+
+1. 페이지 오른쪽 아래에서 **새 경험** 토글.
+
+   ![](assets/toggle-switch-20.png)
+
+새 경험이 로드됩니다.
+
+![](assets/toggle-switch-21.png)
+
+## 모든 기능에 대해 활성화 {#enable-for-all-features}
+
+사용 가능한 모든 기능, 현재 및 제공 상태에 대해 Marketo의 차세대 인터페이스를 수동으로 활성화하는 옵션이 있습니다.
+
+1. 현재 전환 스위치가 있는 영역에서(이 예에서는) [양식 세부 사항 페이지](#form-details-page))의 경우 페이지 오른쪽 하단에 있는 톱니바퀴 아이콘을 클릭합니다.
+
+   ![](assets/toggle-switch-22.png)
+
+1. 선택 **사용 가능한 모든 기능에 대해 활성화** 을(를) 클릭합니다. **확인**.
+
+   ![](assets/toggle-switch-23.png)
