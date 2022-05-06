@@ -1,7 +1,8 @@
 ---
 description: Veva에서 작업 만들기 - Marketo 문서 - 제품 설명서
 title: Veva에서 작업 만들기
-source-git-commit: 2ce44b7c44517a6fdb3f616a3d69b25158ea4ec9
+exl-id: 342e45dd-2038-432d-a6b6-1740c8f0b58e
+source-git-commit: dfd0ab50a6d77cf88767cc6fb3fe3f2874e0607b
 workflow-type: tm+mt
 source-wordcount: '121'
 ht-degree: 0%

@@ -2,9 +2,9 @@
 description: 현재 릴리스 노트 - Marketo 문서 - 제품 설명서
 title: 현재 릴리스 노트
 exl-id: a2eccad5-73ad-48f9-8091-51cee23824e1
-source-git-commit: 621bb7db9485ef1cc559b5b161d5acb606bc4903
+source-git-commit: 374f7c1bcb8c30dd914eb126c09a71c6b7ae4f90
 workflow-type: tm+mt
-source-wordcount: '800'
+source-wordcount: '851'
 ht-degree: 0%
 
 ---
@@ -64,6 +64,8 @@ Adobe는 Design Studio의 차세대 환경에서 전자 메일 템플릿 세부 
 **이메일 확인 및 고유성**: 4월부터 이메일 확인 롤아웃을 시작합니다. 이때 Marketo Engage 사용자 이메일 주소는 확인 및 고유성이 필요합니다(API 전용 사용자에게는 적용되지 않음). Directory Service 인증된 사용자는 이메일 확인을 통해 구독을 활성화하면 자동으로 이메일이 확인됩니다.
 
 &quot;사용자 초대 대화 상자에 로그인&quot; 기능을 사용하거나 여러 사용자와 연결된 단일 이메일이 있는 가입에 대한 이메일 확인은 5월 릴리스와 일치합니다. 여러 사용자와 연결된 단일 이메일이 있는 가입은 이메일 확인을 통해 활성화되며 이러한 사용자가 충돌을 해결하고 사용자당 고유한 이메일을 사용해야 합니다. &#39;사용자 초대 대화 상자에 로그인&#39; 기능이 활성화되면 이 기능을 통해 초대된 사용자는 고유한 이메일 주소를 가져야 합니다. 이 기능을 통해 초대된 API 전용 사용자의 경우 이메일 주소가 고유할 필요가 없습니다.
+
+**아카이브 폴더 동작 변경**: 이 릴리스에서는 아카이브 폴더에서 새 자산을 생성하는 기능을 트리 컨텍스트 메뉴에서 더 이상 사용할 수 없습니다. 새 자산을 만들기 위한 메뉴 옵션은 모든 자산에 대해 숨겨집니다. [여기에서 추가 정보](https://nation.marketo.com/t5/product-discussions/archive-folder-change-in-may-2022-release/m-p/324369#M183235){target=&quot;_blank&quot;}.
 
 **_제품 릴리스 웨비나_**
 
