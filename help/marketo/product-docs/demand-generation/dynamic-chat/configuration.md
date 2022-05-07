@@ -2,9 +2,9 @@
 description: 구성 - Marketo 문서 - 제품 설명서
 title: 구성
 exl-id: aff17715-b178-4468-b06f-22b3fe3c18ce
-source-git-commit: 8aaa6f5225f7965228c3472c0cf6beb2259f3642
+source-git-commit: 0c7299de282194a01783e9c2d484c1d206460e01
 workflow-type: tm+mt
-source-wordcount: '264'
+source-wordcount: '287'
 ht-degree: 0%
 
 ---
@@ -56,6 +56,15 @@ ht-degree: 0%
 chatbot가 웹 사이트에 표시되도록 하려면 먼저 Dynamic Chat JavaScript 코드 조각을 설치해야 합니다. 필요한 코드를 찾거나 복사하려면 이 탭을 클릭하십시오. 이 작업에 익숙하지 않은 경우 웹 팀이나 IT 부서에 문의하여 지원을 받으십시오.
 
 ![](assets/configuration-8.png)
+
+>[!TIP]
+>
+>사이트에서 컨텐츠 보안 정책을 사용하는 경우 차트봇이 예상대로 작동하려면 다음 URL을 화이트리스트에 추가해야 할 수 있습니다.
+>
+>* `*.adoberesources.net`
+>* `*.adobe.io`
+>* `*.typekit.net`
+
 
 >[!NOTE]
 >
