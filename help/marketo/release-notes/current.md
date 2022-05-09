@@ -2,9 +2,9 @@
 description: 현재 릴리스 노트 - Marketo 문서 - 제품 설명서
 title: 현재 릴리스 노트
 exl-id: a2eccad5-73ad-48f9-8091-51cee23824e1
-source-git-commit: 374f7c1bcb8c30dd914eb126c09a71c6b7ae4f90
+source-git-commit: e489ab3e5e4f1d6628db525e53207d229b50a92b
 workflow-type: tm+mt
-source-wordcount: '851'
+source-wordcount: '0'
 ht-degree: 0%
 
 ---
@@ -23,7 +23,7 @@ ht-degree: 0%
 
 ## 기본 CRM 통합 {#native-crm-integration}
 
-**기본 Veva CRM 통합(제한된 가용성)**: 기본 통합을 통해 Veeva CRM과 Marketo Engage 간 활동을 동기화하여 의료 전문가와의 참여를 개선할 수 있습니다. 이러한 통합을 통해 마케터는 의료 전문가를 위한 보다 개인화되고 원활한 크로스 채널 경험을 만들 수 있습니다. 참여하는 데 관심이 있는 경우 고객 성공 관리자에게 문의하십시오.
+**[기본 Veva CRM 통합](/help/marketo/product-docs/crm-sync/veeva-crm-sync/understanding-the-veeva-crm-sync.md){target=&quot;_blank&quot;}(사용 가능 제한)**: 기본 통합을 통해 Veeva CRM과 Marketo Engage 간 활동을 동기화하여 의료 전문가와의 참여를 개선할 수 있습니다. 이러한 통합을 통해 마케터는 의료 전문가를 위한 보다 개인화되고 원활한 크로스 채널 경험을 만들 수 있습니다. 참여하는 데 관심이 있는 경우 고객 성공 관리자에게 문의하십시오.
 
 ## 크로스 채널 오케스트레이션 {#cross-channel-orchestration}
 
@@ -35,9 +35,9 @@ ht-degree: 0%
 
 **다이내믹 채팅용 URL 제외**: 타깃팅 기준에서 특정 URL을 제외하는 기능을 사용하여 동적 채팅이 표시되는 웹 페이지를 제어합니다.
 
-**전자 메일 보트 활동 필터링 개선 사항**: 기존 IAB 목록 일치 식별 외에도 숨겨진 링크 사용자 에이전트 또는 IP 및 근접 패턴을 기반으로 보트 동작을 식별하는 기능을 사용하여 데이터베이스의 상태를 계속 보호합니다. 각 유형에 대해 식별된 보트 활동 수를 이해할 수 있도록 해주는 보트 활동 상태를 봅니다.
+**[전자 메일 보트 활동 필터링 개선 사항](/help/marketo/product-docs/administration/email-setup/filtering-email-bot-activity.md){target=&quot;_blank&quot;}**: 기존 IAB 목록 일치 식별 외에도 숨겨진 링크 사용자 에이전트 또는 IP 및 근접 패턴을 기반으로 보트 동작을 식별하는 기능을 사용하여 데이터베이스의 상태를 계속 보호합니다. 각 유형에 대해 식별된 보트 활동 수를 이해할 수 있도록 해주는 보트 활동 상태를 봅니다.
 
-**전자 메일 추적 링크에 대한 STS 헤더**: 보안 모범 사례를 충족하여 추적된 링크에 대한 트래픽이 항상 안전하도록 보안 전송 보안 헤더를 적용하는 기능을 제공합니다.
+**[전자 메일 추적 링크에 대한 STS 헤더](/help/marketo/product-docs/administration/settings/email-tracking-link-headers.md){target=&quot;_blank&quot;}**: 보안 모범 사례를 충족하여 추적된 링크에 대한 트래픽이 항상 안전하도록 보안 전송 보안 헤더를 적용하는 기능을 제공합니다.
 
 ## 차세대 경험 {#next-generation-experience}
 
