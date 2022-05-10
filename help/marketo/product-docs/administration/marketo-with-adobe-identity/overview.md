@@ -2,9 +2,9 @@
 description: 개요 - Marketo 문서 - 제품 설명서
 title: 개요
 exl-id: 18ddeebc-bc89-411c-9d2c-23df6841cb3a
-source-git-commit: 0d1762d9a5607d72af625aafbf7b9f412d6713c1
+source-git-commit: 88622c5df7cf04fb9e4a3bcccbf77db5594b5fc4
 workflow-type: tm+mt
-source-wordcount: '1016'
+source-wordcount: '1056'
 ht-degree: 0%
 
 ---
@@ -21,7 +21,7 @@ ht-degree: 0%
 
 ## 프로필 수준 {#profile-levels}
 
-Adobe Identity Management 시스템에 온보딩된 Adobe Marketo Engage 가입은 다양한 프로필을 지원합니다. 다음은 이 통합과 관련된 사용자 프로필 유형입니다.
+Adobe Identity Management 시스템에 온보딩된 Adobe Marketo Engage 구독은 다양한 프로필을 지원합니다. 다음은 이 통합과 관련된 사용자 프로필 유형입니다.
 
 <table>
  <tr>
@@ -34,7 +34,8 @@ Adobe Identity Management 시스템에 온보딩된 Adobe Marketo Engage 가입�
  </tr>
  <tr>
   <td><strong>Adobe Admin Console 제품 프로필 관리</strong></td>
-  <td>해당 관리자에게 지정된 제품 프로필 설명 및 모든 관련 관리 기능을 관리합니다.</td>
+  <td>제품 프로필 내에서 사용자를 관리합니다. 특정 프로필 외부의 사용자를 관리할 수 없습니다. 제품 프로필 관리자는 사용자로 제품 프로필에 추가되지 않는 한 Marketo 애플리케이션에 액세스할 수 없습니다. 해당 역할은 여전히 표준 사용자입니다(작업 공간이 두 개 이상 있는 경우 기본 작업 공간).
+</td>
  </tr>
  <tr>
   <td><strong>Marketo Engage 제품 관리자</strong></td>

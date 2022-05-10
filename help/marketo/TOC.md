@@ -3,9 +3,9 @@ audience: end-user
 user-guide-title: Marketo 안내서
 user-guide-description: Marketo 제품 설명서
 feature-set: Marketo Engage
-source-git-commit: 2ce44b7c44517a6fdb3f616a3d69b25158ea4ec9
+source-git-commit: 88622c5df7cf04fb9e4a3bcccbf77db5594b5fc4
 workflow-type: tm+mt
-source-wordcount: '8735'
+source-wordcount: '8740'
 ht-degree: 0%
 
 ---
@@ -178,6 +178,7 @@ ht-degree: 0%
          + [Adobe IMS 활성화 구독에 대한 API 전용 사용자 추가](product-docs/administration/marketo-with-adobe-identity/add-api-only-user-for-adobe-ims-enabled-subscriptions.md)
          + [제품 관리자 추가 또는 제거](product-docs/administration/marketo-with-adobe-identity/add-or-remove-a-product-admin.md)
          + [사용자 추가 또는 제거](product-docs/administration/marketo-with-adobe-identity/add-or-remove-a-user.md)
+         + [Adobe ID으로 사용자 로그인](product-docs/administration/marketo-with-adobe-identity/user-sign-in-with-adobe-id.md)
       + 설정 {#settings}
          + [Analytics에 대한 속성 설정 변경](product-docs/administration/settings/change-attribution-settings-for-analytics.md)
          + [Marketo 암호 변경](product-docs/administration/settings/change-your-marketo-password.md)

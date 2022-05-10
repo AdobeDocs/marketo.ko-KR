@@ -3,9 +3,9 @@ unique-page-id: 42762511
 description: Adobe 조직 매핑 설정 - Marketo 문서 - 제품 설명서
 title: Adobe 조직 매핑 설정
 exl-id: d20be0d5-508f-40b9-a267-b6752643c311
-source-git-commit: db91b204ab13d47e500b1942ca14a3b1f010749c
+source-git-commit: 88622c5df7cf04fb9e4a3bcccbf77db5594b5fc4
 workflow-type: tm+mt
-source-wordcount: '173'
+source-wordcount: '201'
 ht-degree: 0%
 
 ---
@@ -17,6 +17,10 @@ Audience Manager, B2B CDP Marketo 커넥터, 다이내믹 채팅 등과 같은 A
 >[!NOTE]
 >
 >Marketo 인스턴스의 HIPAA 준비 배포에서는 이 통합을 사용할 수 없습니다.
+
+>[!CAUTION]
+>
+>Adobe 비즈니스 플랫폼 및 Identity Management 시스템에 온보딩된 고객의 경우 구독과 연결된 조직 ID가 이미 채워지고 읽기 전용 필드입니다.
 
 1. Marketo에서 **관리**.
 
