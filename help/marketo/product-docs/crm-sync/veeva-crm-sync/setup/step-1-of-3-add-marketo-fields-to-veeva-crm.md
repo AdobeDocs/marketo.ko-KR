@@ -2,7 +2,7 @@
 description: 3단계 중 1단계 - Veva CRM에 Marketo 필드 추가 - Marketo 문서 - 제품 설명서
 title: 3단계 중 1단계 - Veva CRM에 Marketo 필드 추가
 exl-id: a9a59e76-a7a4-4391-8169-922bd6acfb6d
-source-git-commit: 2ce44b7c44517a6fdb3f616a3d69b25158ea4ec9
+source-git-commit: bb020cba0bb0cb65761e15cba05147b6e9fffe50
 workflow-type: tm+mt
 source-wordcount: '533'
 ht-degree: 0%
@@ -25,7 +25,7 @@ Marketo Engage은 필드 세트를 사용하여 특정 종류의 마케팅 관�
 
 ## Veva CRM에 Marketo 필드 추가 {#add-marketo-fields-to-veeva-crm}
 
-위에 나열된 Veva CRM에서 리드에 세 개의 사용자 지정 필드 및 연락처 개체를 추가합니다. 더 추가하려면 이 섹션의 끝에서 사용 가능한 필드 표를 참조하십시오.
+위에 나열된 Veva CRM에서 리드에 사용자 지정 필드를 추가하고 접촉 개체를 추가합니다. 더 추가하려면 이 섹션의 끝에서 사용 가능한 필드 표를 참조하십시오.
 
 점수 필드에 대해 다음 단계를 수행하여 추가합니다.
 
@@ -112,7 +112,7 @@ Marketo Engage은 필드 세트를 사용하여 특정 종류의 마케팅 관�
 
 >[!NOTE]
 >
->Contact 개체에 필드를 추가하면 개인 계정 계정에도 추가됩니다.
+>Contact 개체에 필드를 추가하면 개인 계정 개체에도 추가됩니다.
 
 선택 사항: 아래 표에서 추가 사용자 지정 필드에 위의 절차를 따르십시오.
 

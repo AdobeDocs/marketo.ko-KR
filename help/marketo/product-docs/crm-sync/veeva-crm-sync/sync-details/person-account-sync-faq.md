@@ -2,9 +2,9 @@
 description: 개인 계정 동기화 FAQ - Marketo 문서 - 제품 설명서
 title: 개인 계정 동기화 FAQ
 exl-id: b77bb44f-94d0-40b2-9955-9636421ac468
-source-git-commit: 2ce44b7c44517a6fdb3f616a3d69b25158ea4ec9
+source-git-commit: bb020cba0bb0cb65761e15cba05147b6e9fffe50
 workflow-type: tm+mt
-source-wordcount: '494'
+source-wordcount: '0'
 ht-degree: 0%
 
 ---
@@ -17,7 +17,7 @@ Marketo Engage은 전체 데이터베이스를 개인 계정 유형의 레코드
 
 >[!NOTE]
 >
->기본 Veva 계정은 전문가입니다.
+>&quot;Professional&quot; 계층 계정만 개인 계정으로 동기화합니다.
 
 **개인 계정이란 무엇입니까?**
 
@@ -49,7 +49,7 @@ Smart List의 &quot;개인&quot; 계정 필터를 사용하여 개인 계정을 
 
 **Lead 또는 Contact 유형의 레코드가 Veeva CRM에 동기화됩니까?**
 
-Veva CRM은 개인 계정 개체만 처리하고 비즈니스 계정도 포함합니다. 기존의 Lead, Contact 및 Opportunity 의 기존 CRM 유형은 기존 Veeva CRM 시스템에서 실제로 사용되지 않습니다. 이러한 구성 요소는 Vevar CRM에서 만들 수 있으며, 동기화가 이러한 구성 요소를 Marketo으로 가져올 수 있지만 이 커넥터를 사용하여 공식적으로 지원되지 않습니다.
+Veva CRM은 개인 계정 개체만 처리하고 비즈니스 계정도 포함합니다. 기존의 Lead, Contact 및 Opportunity 의 기존 CRM 유형은 기존 Veeva CRM 시스템에서 실제로 사용되지 않습니다. 이러한 구성 요소는 Veva CRM에서 만들 수 있지만 이 커넥터를 사용하여 공식적으로 지원되지 않습니다.
 
 **Marketo에서 사람을 연락처로 변환할 수 있습니까?**
 

@@ -2,16 +2,16 @@
 description: 호출 동기화 및 호출 키 메시지 - Marketo 문서 - 제품 설명서
 title: 호출 및 호출 키 메시지 동기화
 exl-id: a8df5b77-e594-4e06-8194-1758a3582cda
-source-git-commit: 2ce44b7c44517a6fdb3f616a3d69b25158ea4ec9
+source-git-commit: bb020cba0bb0cb65761e15cba05147b6e9fffe50
 workflow-type: tm+mt
-source-wordcount: '557'
+source-wordcount: '0'
 ht-degree: 0%
 
 ---
 
 # 호출 및 호출 키 메시지 동기화 {#syncing-call-and-call-key-messages}
 
-Vec CRM의 호출 및 호출 키 메시지 개체는 기본적으로 Marketo Engage에 동기화됩니다. Marketo은 호출 날짜를 기준으로 최대 6개월 된 데이터를 동기화합니다.
+Vec CRM의 호출 및 호출 키 메시지 개체는 기본적으로 Marketo Engage에 동기화됩니다. Marketo은 호출 생성일을 기준으로 최대 6개월 된 데이터를 동기화합니다.
 
 >[!NOTE]
 >
@@ -90,13 +90,6 @@ Vec CRM의 호출 및 호출 키 메시지 개체는 기본적으로 Marketo Eng
       <td>처음 저장하거나 제출한 호출 날짜입니다. 이 필드는 date 또는 datetime 필드가 모두 제공되지 않을 경우 현재 날짜로의 트리거를 통해 설정됩니다.</td>
       <td>Call_Date_vod__c</td>
       <td>날짜</td>
-    </tr>
-    <tr>
-      <td>호출</td>
-      <td>자세한 제품</td>
-      <td>호출에 대한 자세한 제품 목록을 표시하는 도우미 필드입니다. 제품 이름은 왼쪽에서 오른쪽으로 두 번 공백 및 우선 순위 로 구분해야 합니다. 이 필드는 처리를 제어하지 않으며 관련 목록 및 보고서를 보다 쉽게 사용자에게 제공할 수 있도록 포함되어 있습니다.</td>
-      <td>Detailed_Products_vod__c</td>
-      <td>텍스트 영역(255)</td>
     </tr>
     <tr>
       <td>호출</td>
