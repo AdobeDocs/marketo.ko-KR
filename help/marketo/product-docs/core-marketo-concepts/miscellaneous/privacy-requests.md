@@ -2,9 +2,9 @@
 description: 개인 정보 보호 요청 - Marketo 문서 - 제품 설명서
 title: 개인 정보 보호 요청
 exl-id: ae61eabc-ad8f-4c7b-8097-838e89c1a3ec
-source-git-commit: 12b82fdb24b20fde01082ddefe3d78429857f0bc
+source-git-commit: 6f15abf1fed69431b3bbe249c908b0f90a56d391
 workflow-type: tm+mt
-source-wordcount: '335'
+source-wordcount: '336'
 ht-degree: 0%
 
 ---
@@ -19,10 +19,10 @@ ht-degree: 0%
 
 다음 두 가지 방법으로 Marketo Engage에서 소비자 데이터에 액세스하거나 삭제하기 위한 개별 요청을 제출할 수 있습니다.
 
-* 사용 [Privacy Service UI](https://privacyui.cloud.adobe.io/). 설명서를 참조하십시오 [여기](https://developer.adobe.com/experience-platform-apis/references/privacy-service/).
-* 사용 **Privacy Service API**. 설명서를 참조하십시오 [여기](https://developer.adobe.com/experience-platform-apis/references/privacy-service/) 및 API 참조 [여기](https://www.adobe.io/apis/experiencecloud/gdpr/api-reference.html#!acpdr/swagger-specs/privacy-service.yaml).
+* 사용 [Privacy Service UI](https://privacyui.cloud.adobe.io/). 설명서를 참조하십시오 [여기](https://developer.adobe.com/experience-platform-apis/references/privacy-service/){target=&quot;_blank&quot;}.
+* 사용 **Privacy Service API**. 설명서를 참조하십시오 [여기](https://developer.adobe.com/experience-platform-apis/references/privacy-service/){target=&quot;_blank&quot;} 및 API 정보 [여기](https://developer.adobe.com/experience-platform-apis/){target=&quot;_blank&quot;}.
 
-다음 [Privacy Service](https://developer.adobe.com/experience-platform-apis/references/privacy-service/) 에서는 두 가지 유형의 요청을 지원합니다. 데이터 액세스 및 데이터 삭제
+다음 [Privacy Service](https://developer.adobe.com/experience-platform-apis/references/privacy-service/){target=&quot;_blank&quot;}은 두 가지 유형의 요청을 지원합니다. 데이터 액세스 및 데이터 삭제
 
 액세스 및 삭제 요청을 만드는 방법을 살펴보겠습니다.
 

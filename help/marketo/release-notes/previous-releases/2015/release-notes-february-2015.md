@@ -3,9 +3,9 @@ unique-page-id: 6094890
 description: 릴리스 노트 - 2015년 2월 - Marketo 문서 - 제품 설명서
 title: 릴리스 노트 - 2015년 2월
 exl-id: a7ce88dc-a4d2-4ccb-9fe5-61130334d24d
-source-git-commit: 74effe9f8078f8d71e6de01d6e737ddc86978abb
+source-git-commit: 6f15abf1fed69431b3bbe249c908b0f90a56d391
 workflow-type: tm+mt
-source-wordcount: '327'
+source-wordcount: '325'
 ht-degree: 0%
 
 ---
@@ -20,7 +20,7 @@ ht-degree: 0%
 
 기뻐하세요! 이제 트리에서 드래그 앤 드롭이나 이동 기능을 사용하여 프로그램 내외로 스마트 캠페인을 이동할 수 있습니다.
 
-**[Dynamics 2015(온라인)](https://docs.marketo.com/display/docs/microsoft+dynamics+2013+on-premises)**  - 지원됨!
+**[Dynamics 2015(온라인)](https://docs.marketo.com/display/docs/microsoft+dynamics+2013+on-premises)** - 지원됨.
 
 **HTTPS 인증서 변경 사항**
 
@@ -28,11 +28,11 @@ ht-degree: 0%
 
 및 은 현재 사용되는 보안 프로토콜(SHA-1 및 SSL)을 다음 도메인에 대한 더 안전한 버전(SHA-2(SHA-256)과 TLS)으로 대체하게 됩니다.
 
-* [marketo.net](https://marketo.net) (암호화된 Munchkin 트래픽)
+* marketo.net (암호화된 Munchkin 트래픽)
 
 * [marketo.com](https://marketo.com) (주 SaaS 애플리케이션)
 
-이 문제는 릴리스 직후 발생합니다. SHA-1 프로토콜은 이전 시스템 및 응용 프로그램의 소유자가 SHA-2 호환성으로 시스템을 업데이트할 수 있도록 2015년 12월까지 [mktoapi.com](https://mktoapi.com) 도메인에서 일시적으로 지원됩니다.
+이 문제는 릴리스 직후 발생합니다. SHA-1 프로토콜은 임시로 [mktoapi.com](https://mktoapi.com) 도메인은 2015년 12월까지 기존 시스템 및 애플리케이션 소유자가 SHA-2 호환성으로 시스템을 업데이트할 수 있도록 허용합니다.
 
 **Secure Munchkin**
 
