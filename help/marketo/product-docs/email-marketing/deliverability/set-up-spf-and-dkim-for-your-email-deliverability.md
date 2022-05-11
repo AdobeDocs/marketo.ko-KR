@@ -3,7 +3,7 @@ unique-page-id: 4720710
 description: 이메일 게재 기능을 위한 SPF 및 DKIM 설정 - Marketo 문서 - 제품 설명서
 title: 전자 메일 게재 기능에 대해 SPF 및 DKIM을 설정합니다
 exl-id: a0f88e94-3348-4f48-bbd2-963e2af93dc0
-source-git-commit: 46812deb41ed56328a4a64fbd36340d13c50dde4
+source-git-commit: de32becbfe74c2a88c53de8af8be4ee022782114
 workflow-type: tm+mt
 source-wordcount: '443'
 ht-degree: 0%
@@ -12,7 +12,7 @@ ht-degree: 0%
 
 # 전자 메일 게재 기능에 대해 SPF 및 DKIM을 설정합니다 {#set-up-spf-and-dkim-for-your-email-deliverability}
 
-전자 메일 배달률을 향상시키는 한 가지 빠른 방법은 **SPF**(보낸 사람 정책 프레임워크) 및 **DKIM**(식별된 도메인 키)을 DNS 설정에 통합하는 것입니다. DNS 항목 외에도 사용자를 대신하여 Marketo에서 전자 메일을 보내도록 인증했음을 수신자에게 알리고 있습니다. 이 변경 사항이 없으면 이메일이 도메인에서 주소가 지정되었지만 Marketo 도메인이 있는 IP 주소에서 보낸 이후로 스팸으로 표시될 가능성이 높습니다.
+이메일 전송률을 향상시키는 한 가지 빠른 방법은 다음을 통합하는 것입니다 **SPF** (보낸 사람 정책 프레임워크) 및 **DKIM** (식별된 메일) 을 DNS 설정으로 가져옵니다. DNS 항목 외에도 사용자를 대신하여 Marketo에서 전자 메일을 보내도록 인증했음을 수신자에게 알리고 있습니다. 이 변경 사항이 없으면 이메일이 도메인에서 주소가 지정되었지만 Marketo 도메인이 있는 IP 주소에서 보낸 이후로 스팸으로 표시될 가능성이 높습니다.
 
 >[!CAUTION]
 >
@@ -22,7 +22,7 @@ ht-degree: 0%
 
 **도메인에 SPF 레코드가 없는 경우**
 
-네트워크 관리자에게 DNS 항목에 다음 줄을 추가하라고 요청합니다. [도메인]을 웹 사이트의 주 도메인으로 바꿉니다(예: 회사 전자 메일 서버의 IP 주소가 있는 [corpIP]( 예: )입니다. &quot;255.255.255.255&quot;). 여러 도메인에서 Marketo을 통해 이메일을 보내는 경우 각 도메인에 (한 줄에) 추가해야 합니다.
+네트워크 관리자에게 DNS 항목에 다음 줄을 추가하라고 요청합니다. 바꾸기 [도메인] 웹 사이트의 주 도메인(예: &quot;company.com&quot;) 및 [corpIP] (예: 회사 이메일 서버의 IP 주소 사용) &quot;255.255.255.255&quot;). 여러 도메인에서 Marketo을 통해 이메일을 보내는 경우 각 도메인에 (한 줄에) 추가해야 합니다.
 
 `[domain] IN TXT v=spf1 mx ip4:[corpIP] include:mktomail.com ~all`
 
@@ -46,12 +46,12 @@ DNS 레코드에 공개 키를 설정하고 관리 섹션(A)에서 전송 도메
 
 **DKIM을 설정하려면 어떻게 해야 합니까?**
 
-[사용자 지정 DKIM 서명 설정](/help/marketo/product-docs/email-marketing/deliverability/set-up-a-custom-dkim-signature.md)을 참조하십시오.
+자세한 내용은 [사용자 지정 DKIM 서명 설정](/help/marketo/product-docs/email-marketing/deliverability/set-up-a-custom-dkim-signature.md).
 
 >[!MORELIKETHIS]
 >
 >* [SPF 및 SPF 작동 방식에 대해 자세히 알아보기](http://www.open-spf.org/Introduction/)
 >* [Marketo의 이메일 게재 기능 도구](https://www.marketo.com/software/email-marketing/email-deliverability/)
 >* [내 SPF가 올바르게 설정되어 있습니까?](https://www.kitterman.com/spf/validate.html)
->* [올바른 구문을 사용했습니까?](https://www.open-spf.org/SPF_Record_Syntax/)
+>* [올바른 구문을 사용했습니까?](http://www.open-spf.org/SPF_Record_Syntax/)
 
