@@ -3,9 +3,9 @@ unique-page-id: 42762511
 description: Adobe 조직 매핑 설정 - Marketo 문서 - 제품 설명서
 title: Adobe 조직 매핑 설정
 exl-id: d20be0d5-508f-40b9-a267-b6752643c311
-source-git-commit: 88622c5df7cf04fb9e4a3bcccbf77db5594b5fc4
+source-git-commit: bbe5f4a1502ab79d0081807ea6aab196ae75360a
 workflow-type: tm+mt
-source-wordcount: '201'
+source-wordcount: '217'
 ht-degree: 0%
 
 ---
@@ -46,9 +46,9 @@ Audience Manager, B2B CDP Marketo 커넥터, 다이내믹 채팅 등과 같은 A
 
    ![](assets/set-up-adobe-experience-cloud-audience-sharing-6.png)
 
-   >[!NOTE]
+   >[!IMPORTANT]
    >
-   >보안상의 이유로 매핑할 Adobe 조직의 조직 관리자여야 합니다. 그렇지 않으면 작업이 실패합니다.
+   >보안상의 이유로 매핑할 Adobe 조직의 조직 관리자여야 합니다. 그렇지 않으면 작업이 실패합니다. 또한 Adobe 사용자 및 Marketo 사용자는 로그인할 때 동일한 이메일 주소를 사용해야 합니다.
 
 1. 만약 _not_ 이미 로그인되어 있으면 새 탭/창에 팝업이 나타납니다. Adobe 조직에 로그인합니다(이 작업은 조직 액세스를 확인합니다).
 
