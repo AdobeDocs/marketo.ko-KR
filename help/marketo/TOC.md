@@ -3,7 +3,7 @@ audience: end-user
 user-guide-title: Marketo 안내서
 user-guide-description: Marketo 제품 설명서
 feature-set: Marketo Engage
-source-git-commit: 222b0692998be1fd15dc6465af1da627e1c32683
+source-git-commit: d3fb9a9aa70f491afd880d16500b8e93eb9d087f
 workflow-type: tm+mt
 source-wordcount: '8743'
 ht-degree: 0%
@@ -1278,7 +1278,7 @@ ht-degree: 0%
             + [팀 만들기](product-docs/marketo-sales-insight/actions/admin/creating-a-team.md)
             + [사용자 지정 도메인 추적을 설정하는 방법](product-docs/marketo-sales-insight/actions/admin/how-to-set-up-custom-domain-tracking.md)
             + [사용자 및 관리자 초대](product-docs/marketo-sales-insight/actions/admin/invite-users-and-admins.md)
-            + [Salesforce에 영업 활동 속성 로깅](product-docs/marketo-sales-insight/actions/admin/logging-sales-activity-attributes-to-salesforce.md)
+            + [로그인 관리 설정](product-docs/marketo-sales-insight/actions/admin/login-management-settings.md)
             + [공유 설정](product-docs/marketo-sales-insight/actions/admin/sharing-settings.md)
             + [사용자 액세스 세부 정보](product-docs/marketo-sales-insight/actions/admin/user-access-details.md)
          + Analytics {#analytics}
@@ -1307,7 +1307,7 @@ ht-degree: 0%
                + [Salesforce 진단](product-docs/marketo-sales-insight/actions/crm/salesforce-integration/salesforce-diagnostics.md)
                + [Salesforce 동기화 설정](product-docs/marketo-sales-insight/actions/crm/salesforce-integration/salesforce-sync-settings.md)
             + Salesforce 구성 {#salesforce-configuration}
-               + [로그인 관리 설정](product-docs/marketo-sales-insight/actions/crm/salesforce-configuration/login-management-settings.md)
+               + [Salesforce에 영업 활동 속성 로깅](product-docs/marketo-sales-insight/actions/crm/salesforce-configuration/logging-sales-activity-attributes-to-salesforce.md)
                + [Salesforce의 Sales Insight Actions 구성](product-docs/marketo-sales-insight/actions/crm/salesforce-configuration/sales-insight-actions-configuration-in-salesforce.md)
                + [Salesforce Classic 사용자 지정 패키지 제거](product-docs/marketo-sales-insight/actions/crm/salesforce-configuration/uninstall-salesforce-classic-customization-package.md)
                + [Salesforce Lightning 사용자 지정 패키지 제거](product-docs/marketo-sales-insight/actions/crm/salesforce-configuration/uninstall-salesforce-lightning-customization-package.md)
