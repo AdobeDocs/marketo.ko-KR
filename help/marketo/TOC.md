@@ -3,9 +3,9 @@ audience: end-user
 user-guide-title: Marketo 안내서
 user-guide-description: Marketo 제품 설명서
 feature-set: Marketo Engage
-source-git-commit: d3fb9a9aa70f491afd880d16500b8e93eb9d087f
+source-git-commit: db744779ff25428f111f35720e3c8f3ce1011399
 workflow-type: tm+mt
-source-wordcount: '8743'
+source-wordcount: '8761'
 ht-degree: 0%
 
 ---
@@ -475,6 +475,11 @@ ht-degree: 0%
          + [폴더 이해](product-docs/core-marketo-concepts/miscellaneous/understanding-folders.md)
          + [알림 이해](product-docs/core-marketo-concepts/miscellaneous/understanding-notifications.md)
          + [알림 유형](product-docs/core-marketo-concepts/miscellaneous/understanding-notifications/notification-types.md)
+      + Predictive Audiences {#predictive-audiences}
+         + [Predictive Audiences 시작](product-docs/core-marketo-concepts/predictive-audiences/getting-started-with-predictive-audiences.md)
+         + [모델 및 통찰력](product-docs/core-marketo-concepts/predictive-audiences/models-and-insights.md)
+         + [예측 필터](product-docs/core-marketo-concepts/predictive-audiences/predictive-filters.md)
+         + [목표 추적 및 예상 등록 이해](product-docs/core-marketo-concepts/predictive-audiences/understanding-goal-tracking-and-projected-registrations.md)
    + CRM 동기화 {#crm-sync}
       + Microsoft Dynamics 동기화 {#microsoft-dynamics}
          + [Microsoft Dynamics 동기화 이해](product-docs/crm-sync/microsoft-dynamics-sync/understanding-the-microsoft-dynamics-sync.md)
