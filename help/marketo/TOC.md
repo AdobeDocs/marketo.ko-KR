@@ -3,7 +3,7 @@ audience: end-user
 user-guide-title: Marketo 안내서
 user-guide-description: Marketo 제품 설명서
 feature-set: Marketo Engage
-source-git-commit: 6f15abf1fed69431b3bbe249c908b0f90a56d391
+source-git-commit: 222b0692998be1fd15dc6465af1da627e1c32683
 workflow-type: tm+mt
 source-wordcount: '8743'
 ht-degree: 0%
@@ -1218,7 +1218,7 @@ ht-degree: 0%
             + [CSV를 통해 연락처 가져오기](product-docs/marketo-sales-connect/people/managing-contacts/import-contacts-via-csv.md)
             + [그룹 관리](product-docs/marketo-sales-connect/people/managing-contacts/manage-groups.md)
             + [사용자 페이지 열](product-docs/marketo-sales-connect/people/managing-contacts/people-page-columns.md)
-      + 전화 {#phone}
+      + 휴대폰 {#phone}
          + [호출이 Salesforce에 로그인하지 않음](product-docs/marketo-sales-connect/phone/calls-arent-logging-to-salesforce.md)
          + [통화 결과](product-docs/marketo-sales-connect/phone/call-outcomes.md)
          + [통화 이유](product-docs/marketo-sales-connect/phone/call-reasons.md)
@@ -1279,7 +1279,6 @@ ht-degree: 0%
             + [사용자 지정 도메인 추적을 설정하는 방법](product-docs/marketo-sales-insight/actions/admin/how-to-set-up-custom-domain-tracking.md)
             + [사용자 및 관리자 초대](product-docs/marketo-sales-insight/actions/admin/invite-users-and-admins.md)
             + [Salesforce에 영업 활동 속성 로깅](product-docs/marketo-sales-insight/actions/admin/logging-sales-activity-attributes-to-salesforce.md)
-            + [로그인 관리 설정](product-docs/marketo-sales-insight/actions/admin/login-management-settings.md)
             + [공유 설정](product-docs/marketo-sales-insight/actions/admin/sharing-settings.md)
             + [사용자 액세스 세부 정보](product-docs/marketo-sales-insight/actions/admin/user-access-details.md)
          + Analytics {#analytics}
@@ -1307,6 +1306,11 @@ ht-degree: 0%
                + [회신 로깅](product-docs/marketo-sales-insight/actions/crm/salesforce-integration/reply-logging.md)
                + [Salesforce 진단](product-docs/marketo-sales-insight/actions/crm/salesforce-integration/salesforce-diagnostics.md)
                + [Salesforce 동기화 설정](product-docs/marketo-sales-insight/actions/crm/salesforce-integration/salesforce-sync-settings.md)
+            + Salesforce 구성 {#salesforce-configuration}
+               + [로그인 관리 설정](product-docs/marketo-sales-insight/actions/crm/salesforce-configuration/login-management-settings.md)
+               + [Salesforce의 Sales Insight Actions 구성](product-docs/marketo-sales-insight/actions/crm/salesforce-configuration/sales-insight-actions-configuration-in-salesforce.md)
+               + [Salesforce Classic 사용자 지정 패키지 제거](product-docs/marketo-sales-insight/actions/crm/salesforce-configuration/uninstall-salesforce-classic-customization-package.md)
+               + [Salesforce Lightning 사용자 지정 패키지 제거](product-docs/marketo-sales-insight/actions/crm/salesforce-configuration/uninstall-salesforce-lightning-customization-package.md)
          + 이메일 {#email}
             + 명령 센터 {#command-center}
                + [고급 검색 개요](product-docs/marketo-sales-insight/actions/email/command-center/advanced-search-overview.md)
@@ -1367,15 +1371,11 @@ ht-degree: 0%
                + [CSV를 통해 연락처 가져오기](product-docs/marketo-sales-insight/actions/people/managing-contacts/import-contacts-via-csv.md)
                + [그룹 관리](product-docs/marketo-sales-insight/actions/people/managing-contacts/manage-groups.md)
                + [사용자 페이지 열](product-docs/marketo-sales-insight/actions/people/managing-contacts/people-page-columns.md)
-         + 전화 {#phone}
+         + 휴대폰 {#phone}
             + [통화 기록 활성화](product-docs/marketo-sales-insight/actions/phone/enable-call-recording.md)
             + [국제 전화](product-docs/marketo-sales-insight/actions/phone/international-calling.md)
             + [로컬 유무](product-docs/marketo-sales-insight/actions/phone/local-presence.md)
             + [2자 동의 설정](product-docs/marketo-sales-insight/actions/phone/two-party-consent-settings.md)
-         + Salesforce 구성 {#salesforce-configuration}
-            + [Salesforce의 Sales Insight Actions 구성](product-docs/marketo-sales-insight/actions/salesforce-configuration/sales-insight-actions-configuration-in-salesforce.md)
-            + [Salesforce Classic 사용자 지정 패키지 제거](product-docs/marketo-sales-insight/actions/salesforce-configuration/uninstall-salesforce-classic-customization-package.md)
-            + [Salesforce Lightning 사용자 지정 패키지 제거](product-docs/marketo-sales-insight/actions/salesforce-configuration/uninstall-salesforce-lightning-customization-package.md)
          + 영업 전자 메일 보내기 {#send-a-sales-email}
             + [이메일 추적 개요](product-docs/marketo-sales-insight/actions/send-a-sales-email/email-tracking-overview.md)
          + 작업 {#tasks}
@@ -1739,7 +1739,7 @@ ht-degree: 0%
          + [계정 인사이트 설정](product-docs/target-account-management/setup-tam/set-up-account-insight.md)
          + [Account Insight 플러그인 개요](product-docs/target-account-management/setup-tam/account-insight-plug-in-overview.md)
          + [계정 인사이트에 액세스할 사용자 초대](product-docs/target-account-management/setup-tam/invite-users-to-access-account-insight.md)
-      + Target {#target}
+      + 대상 {#target}
          + 명명된 계정 {#named-accounts}
             + [명명된 계정 개요](product-docs/target-account-management/target/named-accounts/named-account-overview.md)
             + [명명된 계정 가져오기](product-docs/target-account-management/target/named-accounts/import-named-accounts.md)
