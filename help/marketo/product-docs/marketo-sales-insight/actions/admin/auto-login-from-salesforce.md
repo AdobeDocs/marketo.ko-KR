@@ -2,7 +2,7 @@
 description: Salesforce에서 자동 로그인 - Marketo 문서 - 제품 설명서
 title: Salesforce에서 자동 로그인
 exl-id: 3b788af5-6204-40f8-af79-74729de45744
-source-git-commit: 222b0692998be1fd15dc6465af1da627e1c32683
+source-git-commit: 451b5cd8e11045de56ebf57c2b2312813d5d5668
 workflow-type: tm+mt
 source-wordcount: '100'
 ht-degree: 0%
@@ -15,7 +15,7 @@ ht-degree: 0%
 
 자동 로그인을 사용하려면
 
-* [로그인 관리 설정](/help/marketo/product-docs/marketo-sales-insight/actions/crm/salesforce-configuration/login-management-settings.md) 는 &quot;Salesforce 전용&quot;으로 설정되어야 합니다.
+* [로그인 관리 설정](/help/marketo/product-docs/marketo-sales-insight/actions/admin/login-management-settings.md) 는 &quot;Salesforce 전용&quot;으로 설정되어야 합니다.
 
 * Sales Insight Actions를 사용하도록 사용자가 초대를 받았어야 합니다.
 
