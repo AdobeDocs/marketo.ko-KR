@@ -3,9 +3,9 @@ audience: end-user
 user-guide-title: Marketo 안내서
 user-guide-description: Marketo 제품 설명서
 feature-set: Marketo Engage
-source-git-commit: db744779ff25428f111f35720e3c8f3ce1011399
+source-git-commit: 9f3b91e7b0626b2a229f4a98fb734e926a141ec0
 workflow-type: tm+mt
-source-wordcount: '8761'
+source-wordcount: '8766'
 ht-degree: 0%
 
 ---
@@ -1268,8 +1268,9 @@ ht-degree: 0%
          + [Sales Insight Actions 기능 개요](product-docs/marketo-sales-insight/actions/sales-insight-actions-feature-overview.md)
          + 시작하기 {#getting-started}
             + [Sales Insight Actions 사용 온보딩 안내서](product-docs/marketo-sales-insight/actions/getting-started/sales-insight-actions-user-onboarding-guide.md)
-            + [MSI 작업 관리 안내서](product-docs/marketo-sales-insight/actions/getting-started/sales-insight-actions-admin-guide.md)
+            + [Sales Insight Actions 관리 설정 안내서](product-docs/marketo-sales-insight/actions/getting-started/sales-insight-actions-admin-setup-guide.md)
             + [Marketo 영업 암호 변경](product-docs/marketo-sales-insight/actions/getting-started/change-your-marketo-sales-password.md)
+            + [제품 사용 제한](product-docs/marketo-sales-insight/actions/getting-started/product-usage-limits.md)
             + 전자 메일 설정 {#email-settings}
                + [이메일 확인](product-docs/marketo-sales-insight/actions/getting-started/email-settings/verify-your-email.md)
                + [전자 메일 서명 추가 또는 업데이트](product-docs/marketo-sales-insight/actions/getting-started/email-settings/add-or-update-your-email-signature.md)
