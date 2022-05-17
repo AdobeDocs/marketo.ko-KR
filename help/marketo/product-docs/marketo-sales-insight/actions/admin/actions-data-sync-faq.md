@@ -2,7 +2,7 @@
 description: 작업 데이터 동기화 FAQ - Marketo 문서 - 제품 설명서
 title: 작업 데이터 동기화 FAQ
 exl-id: bb213d50-be22-492d-b74c-b8cfb834b2ca
-source-git-commit: f2f81167066c2f170f81308b2deec52d19efafb3
+source-git-commit: 3f00a7088a71bbdf028fd6b0a57da57ea13ca5de
 workflow-type: tm+mt
 source-wordcount: '1044'
 ht-degree: 0%
@@ -15,7 +15,7 @@ Sales Insight Actions에 대한 데이터 통합 필드 동기화를 사용하�
 
 이렇게 하면 Sales Insight Actions 웹 앱에서 최신 사람 데이터를 제공하고 시스템에서 Marketo의 해당 개인 레코드에 대한 고유 ID와 Salesforce의 리드/연락처/계정/기회 레코드를 수집할 수 있으므로 레코드를 데이터 로깅에 대해 올바르게 참조할 수 있습니다.
 
-이 동기화는 Marketo Engage의 관리 섹션에 있는 Sales Insight Actions 구성 탭에서 활성화할 수 있습니다. 자세한 내용은 체크아웃 [데이터 동기화 시작](/help/marketo/product-docs/marketo-sales-insight/actions/getting-started/sales-insight-actions-admin-guide.md#initiate-data-sync).
+이 동기화는 Marketo Engage의 관리 섹션에 있는 Sales Insight Actions 구성 탭에서 활성화할 수 있습니다. 자세한 내용은 체크아웃 [데이터 동기화 시작](/help/marketo/product-docs/marketo-sales-insight/actions/getting-started/sales-insight-actions-admin-setup-guide.md#initiate-data-sync).
 
 ![](assets/actions-data-sync-faq-1.png)
 
@@ -118,5 +118,5 @@ Sales Insight Action 을 사용하면 관리자가 Salesforce에 기록되는 �
 >* [Marketo 가입 해지 확인](/help/marketo/product-docs/marketo-sales-insight/actions/email/unsubscribes/marketo-unsubscribe-check.md)
 >* [Salesforce 동기화 설정](/help/marketo/product-docs/marketo-sales-insight/actions/crm/salesforce-integration/salesforce-sync-settings.md)
 >* [Salesforce와 작업 동기화 미리 알림](/help/marketo/product-docs/marketo-sales-insight/actions/tasks/reminder-task-sync-with-salesforce.md)
->* [데이터 동기화 시작](/help/marketo/product-docs/marketo-sales-insight/actions/getting-started/sales-insight-actions-admin-guide.md#initiate-data-sync)
+>* [데이터 동기화 시작](/help/marketo/product-docs/marketo-sales-insight/actions/getting-started/sales-insight-actions-admin-setup-guide.md#initiate-data-sync)
 
