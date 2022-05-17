@@ -2,9 +2,9 @@
 description: 현재 릴리스 노트 - Marketo 문서 - 제품 설명서
 title: 현재 릴리스 노트
 exl-id: a2eccad5-73ad-48f9-8091-51cee23824e1
-source-git-commit: e489ab3e5e4f1d6628db525e53207d229b50a92b
+source-git-commit: c040d8364bd353e31d26b98284130c22f44b24e8
 workflow-type: tm+mt
-source-wordcount: '0'
+source-wordcount: '833'
 ht-degree: 0%
 
 ---
@@ -69,4 +69,4 @@ Adobe는 Design Studio의 차세대 환경에서 전자 메일 템플릿 세부 
 
 **_제품 릴리스 웨비나_**
 
-2022년 5월 11일, 오전 9시/동부 시간 오후 12시에 참가하십시오. [라이브 웨비나](https://engage.marketo.com/2022_March_May_Release_Webinar_RegistrationPage.html)제품 팀에서 호스팅하는 {target=&quot;_blank&quot;}에서 최신 제품 혁신 내용을 모두 사용하는 방법을 배울 수 있습니다.
+[2022년 3월 및 5월 Marketo Engage 릴리스 웨비나](https://engage.marketo.com/2022_March_May_Release_Webinar_DemandPage.html){target=&quot;_blank&quot;}
