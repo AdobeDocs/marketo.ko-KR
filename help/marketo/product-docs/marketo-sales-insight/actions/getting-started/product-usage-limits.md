@@ -1,14 +1,16 @@
 ---
 description: 제품 사용 제한 - Marketo 문서 - 제품 설명서
 title: 제품 사용 제한
-source-git-commit: 9f3b91e7b0626b2a229f4a98fb734e926a141ec0
+source-git-commit: 4dd0d703347ed878f73ddc574d063a6746089887
 workflow-type: tm+mt
-source-wordcount: '168'
-ht-degree: 14%
+source-wordcount: '186'
+ht-degree: 13%
 
 ---
 
 # 제품 사용 제한 {#product-usage-limits}
+
+Sales Insight Actions에서 사용할 수 있는 확장된 영업 참여 기능을 사용하려면 다음 제한이 적용됩니다.
 
 <table>
   <th>기능</th>
