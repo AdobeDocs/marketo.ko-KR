@@ -2,10 +2,10 @@
 description: 동적 채팅 개요 - Marketo 문서 - 제품 설명서
 title: 동적 채팅 개요
 exl-id: 73ab651e-bb11-459d-aa6a-39d9e208d512
-source-git-commit: adf3a9f156ec5ed823a0647affb87f6c0686d35f
+source-git-commit: 9086f99c75aa4a594fa85b474e282e84791b5090
 workflow-type: tm+mt
-source-wordcount: '744'
-ht-degree: 0%
+source-wordcount: '780'
+ht-degree: 1%
 
 ---
 
@@ -45,7 +45,7 @@ Dynamic Chat의 주요 구성 요소는 Marketo 구독과 기본적으로 연결
 
 방문자가 사용자의 일정에서 약속을 예약할 때 방문자에게 보내는 초대의 본문을 사용자 지정할 수도 있습니다.
 
-## 모임 {#meetings}
+## 회의 {#meetings}
 
 다양한 대화 상자를 통해 웹 사이트 방문자가 예약한 모든 약속을 볼 수 있습니다. 여기에서 약속을 예약한 사람의 전자 메일 주소, 약속을 예약한 대리인, 약속 발생 예정 시간, 회의가 발생했는지 여부를 확인할 수 있습니다.
 
@@ -54,6 +54,10 @@ Dynamic Chat의 주요 구성 요소는 Marketo 구독과 기본적으로 연결
 이 위치에서 달력을 연결한 모든 에이전트 목록과 웹 사이트 방문자에게 표시할 순서를 볼 수 있습니다. 회의는 윤곽 스타일로 진행되는데, 만약 5명의 에이전트들과 3명의 에이전트가 마지막 회의를 했다면, 4명의 요원이 다음 1명을 얻고, 5명의 요원이 그 다음에 1명으로 돌아옵니다.
 
 ## FAQ {#faq}
+
+**Dynamic Chat를 회사 웹 사이트의 어디에나 설치할 수 있습니까, 아니면 Marketo 랜딩 페이지에서만 작동합니까?**
+
+Dynamic Chat JavaScript 코드 조각은 Marketo 랜딩 페이지뿐만 아니라 모든 웹 사이트에 설치할 수 있습니다.
 
 **보고용으로 데이터가 얼마나 오래 저장됩니까?**
 
