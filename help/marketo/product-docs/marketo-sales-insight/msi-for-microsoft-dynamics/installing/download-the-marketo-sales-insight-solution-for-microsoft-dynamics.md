@@ -3,9 +3,9 @@ unique-page-id: 6849070
 description: Microsoft Dynamics용 Marketo Sales Insight Solution - Marketo 문서 - 제품 설명서 다운로드
 title: Microsoft Dynamics용 Marketo Sales Insight Solution 다운로드
 exl-id: 6de8c605-d5e9-458d-aca8-2ed708d12402
-source-git-commit: ff076d66a193664aa6ec05cf940143cebdd2d942
+source-git-commit: 3a62fe40856b9b3f2eab61e22eaa38e1b9c44d7e
 workflow-type: tm+mt
-source-wordcount: '135'
+source-wordcount: '119'
 ht-degree: 0%
 
 ---
@@ -18,9 +18,7 @@ ht-degree: 0%
 
 >[!IMPORTANT]
 >
->이 페이지의 플러그인은 Marketo의 기본 CRM 동기화 솔루션을 Dynamics에 사용하여 Marketo Engage에 동기화하는 것입니다. 사용자 지정 동기화가 있고 Marketo Sales Insight를 구입한 사용자의 경우 [패키지 여기](https://mktg-cdn.marketo.com/community/MarketoSalesInsight_NonNative.zip){target=&quot;_blank&quot;}.
-
-동기화를 시작하려면 Microsoft Dynamics 계정에 Sales Insight용 Marketo 솔루션을 다운로드하여 설치해야 합니다.
+>이 페이지의 플러그인은 Marketo의 기본 CRM 동기화 솔루션을 Dynamics 365에 사용하여 Dynamics로 동기화하는 데 사용됩니다. 다음을 보유한 사용자: 사용자 지정 동기화, MS Dynamics 365 Online(9.x 이상)을 사용하고 Marketo Sales Insight를 구입한 고객 [패키지 여기](https://mktg-cdn.marketo.com/community/MarketoSalesInsight_NonNative.zip){target=&quot;_blank&quot;}.
 
 1. 로 이동합니다. **관리** 영역.
 
