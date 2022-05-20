@@ -2,9 +2,9 @@
 description: 동적 채팅 개요 - Marketo 문서 - 제품 설명서
 title: 동적 채팅 개요
 exl-id: 73ab651e-bb11-459d-aa6a-39d9e208d512
-source-git-commit: 9086f99c75aa4a594fa85b474e282e84791b5090
+source-git-commit: ff34ef099f2af949602aa3220eb44e4494a6a7a9
 workflow-type: tm+mt
-source-wordcount: '780'
+source-wordcount: '896'
 ht-degree: 1%
 
 ---
@@ -67,17 +67,39 @@ Dynamic Chat JavaScript 코드 조각은 Marketo 랜딩 페이지뿐만 아니�
 
 아니요, 사전 결정된 응답만 사용합니다.
 
-**익명의 사람들을 어떻게 타겟팅해야 하나요?**
+**Dynamic Chat는 영어 이외의 다른 언어를 지원합니까?**
 
-대화 상자에서 다음을 사용해야 합니다 _개인 전자 메일이 비어 있음_ 속성을 사용합니다.
+예. 동적 채트는 다음 언어를 지원합니다. 프랑스어, 독일어, 일본어, 스페인어, 이탈리아어, 포르투갈어(브라질), 한국어, 중국어(간체) 및 중국어(번체). 자세한 내용은 [아래 섹션](#changing-the-language).
 
 **AI/NLP 기능을 지원합니까?**
 
 AI/NLP 기능은 지원하지 않습니다.
 
-**Dynamic Chat는 영어 이외의 다른 언어를 제공합니까?**
+**익명의 사람들을 어떻게 타겟팅해야 하나요?**
 
-지금은 아니에요
+대화 상자에서 다음을 사용해야 합니다 _개인 전자 메일이 비어 있음_ 속성을 사용합니다.
+
+## 언어 변경 {#changing-the-language}
+
+다음 단계에 따라 다이내믹 채팅 언어를 변경합니다.
+
+1. Experience Cloud 계정에서 설정 아이콘을 클릭하고 을 선택합니다 **기본 설정**.
+
+   ![](assets/dynamic-chat-overview-1.png)
+
+1. 이메일 주소 아래에서 현재 언어를 클릭합니다.
+
+   ![](assets/dynamic-chat-overview-2.png)
+
+1. 새 언어(두 번째 언어는 선택 사항)를 선택하고 **저장**.
+
+   ![](assets/dynamic-chat-overview-3.png)
+
+   >[!IMPORTANT]
+   >
+   >선택할 수 있는 언어가 수십 개 있지만 Dynamic Chat에서는 다음과 같은 기능만 지원합니다. 영어, 프랑스어, 독일어, 일본어, 스페인어, 이탈리아어, 브라질 포르투갈어, 한국어, 중국어 간체 및 중국어 번체.
+
+언어를 업데이트하면 개인적으로 채운 단어(예: 스트림 응답)를 제외하고 앱 자체의 모든 내용이 변경됩니다.
 
 ## 동적 채팅의 제한 사항 {#limits-in-dynamic-chat}
 

@@ -3,9 +3,10 @@ description: Predictive Audiences 시작 - Marketo 문서 - 제품 설명서
 title: Predictive Audiences 시작
 hide: true
 hidefromtoc: true
-source-git-commit: db744779ff25428f111f35720e3c8f3ce1011399
+exl-id: d4780837-4cab-49b8-9aa4-61e6d4c43e8b
+source-git-commit: ff34ef099f2af949602aa3220eb44e4494a6a7a9
 workflow-type: tm+mt
-source-wordcount: '202'
+source-wordcount: '235'
 ht-degree: 0%
 
 ---
@@ -16,10 +17,11 @@ PA(Predictive Audiences)는 AI와 머신 러닝을 활용하여 대상을 보다
 
 PA에는 다음 기능이 포함되어 있습니다.
 
-* [목표 추적 및 예상 등록](/help/marketo/product-docs/core-marketo-concepts/predictive-audiences/understanding-goal-tracking-and-projected-registrations.md){target=&quot;_blank&quot;}
-* AI/ML 기반 통찰력
 * 이벤트 프로그램의 모든 리드에 대한 등록 및 참석 가능성 값
 * [예측 필터](/help/marketo/product-docs/core-marketo-concepts/predictive-audiences/predictive-filters.md){target=&quot;_blank&quot;}
+* [모델 및 영향을 주는 요소](/help/marketo/product-docs/core-marketo-concepts/predictive-audiences/models-and-insights.md){target=&quot;_blank&quot;}
+* AI/ML 기반 통찰력
+* [목표 추적 및 예상 등록](/help/marketo/product-docs/core-marketo-concepts/predictive-audiences/understanding-goal-tracking-and-projected-registrations.md){target=&quot;_blank&quot;} (목표 추적은 이벤트 프로그램에 대해 다음 세대 토글을 사용할 수 있는 사용자만 사용할 수 있습니다. 이 토글 액세스 권한을 얻으려면 CSM에 문의하고 예측 대상 요청)
 
 >[!NOTE]
 >
