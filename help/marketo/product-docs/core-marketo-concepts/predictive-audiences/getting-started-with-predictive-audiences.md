@@ -4,7 +4,7 @@ title: Predictive Audiences 시작
 hide: true
 hidefromtoc: true
 exl-id: d4780837-4cab-49b8-9aa4-61e6d4c43e8b
-source-git-commit: ff34ef099f2af949602aa3220eb44e4494a6a7a9
+source-git-commit: b2b37b8124d1178a6a0005c7d57d4c8505d62bd8
 workflow-type: tm+mt
 source-wordcount: '235'
 ht-degree: 0%
@@ -36,4 +36,3 @@ Predictive Audiences 는 Prime 또는 Ultimate 가격 책정 번들을 활용하
 1. 기능이 인스턴스에 추가되면 다음 위치로 이동합니다 **[!UICONTROL Predictive Audiences]** 페이지의 **[!UICONTROL 관리]** Marketo 영역.
 
 1. 확인 **[!UICONTROL Predictive Audiences 활성화]** 를 클릭하여 기능을 활성화합니다. 모든 프로세스가 설정을 완료하는 데 최대 24시간이 걸릴 수 있습니다.
-
