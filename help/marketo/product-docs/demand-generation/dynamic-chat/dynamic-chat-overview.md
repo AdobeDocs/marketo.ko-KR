@@ -1,170 +1,174 @@
 ---
-description: 동적 채팅 개요 - Marketo 문서 - 제품 설명서
-title: 동적 채팅 개요
+description: Dynamic Chat Overview - Marketo Docs - Product Documentation
+title: Dynamic Chat Overview
 exl-id: 73ab651e-bb11-459d-aa6a-39d9e208d512
-source-git-commit: ff34ef099f2af949602aa3220eb44e4494a6a7a9
+source-git-commit: a437f39ccc5b1937c34ce43e7aedad82b22cf532
 workflow-type: tm+mt
-source-wordcount: '896'
+source-wordcount: '916'
 ht-degree: 1%
 
 ---
 
-# 동적 채팅 개요 {#dynamic-chat-overview}
+# Dynamic Chat Overview {#dynamic-chat-overview}
 
-Dynamic Chat를 사용하면 사용하기 쉬운 인터페이스를 활용하여 웹 사이트를 방문하는 사용자와 계정을 모두 타겟팅할 수 있습니다. 이름, 연락처 정보 및 무료 텍스트와 같은 관련 컨텐츠를 수집합니다. 사이트 방문자는 영업 팀과 회의를 예약할 수도 있습니다. 동적 채팅 활동 및 참여 데이터를 사용하여 Marketo 프로그램에 구성원을 추가하고 크로스채널 활동을 트리거할 수 있습니다.
+Dynamic Chat allows you to leverage an easy-to-use interface to target both people and accounts visiting your website. Collect relevant content such as name, contact information, and free text. Site visitors can also book meetings with your Sales Team. Dynamic Chat activity and engagement data can be used to add members to Marketo programs and trigger cross-channel activities.
 
 >[!NOTE]
 >
->Dynamic Chat는 서서히 롤아웃되는 중입니다. 현재 제한된 가용성을 유지하고 있습니다. 이 페이지는 사용 가능한 GA(General Availability) 세부 정보로 업데이트됩니다.
+>Dynamic Chat is in the process of being rolled out gradually and is currently in limited availability. This page will be updated with general availability (GA) details as they become available.
 
 >[!TIP]
 >
->방문 [이 페이지](https://experienceleague.adobe.com/docs/marketo-learn/tutorials/dynamic-chat/dynamic-chat-overview.html) 다이내믹 채팅의 자습서 비디오를 보려면 다음을 수행하십시오.
+>[](https://experienceleague.adobe.com/docs/marketo-learn/tutorials/dynamic-chat/dynamic-chat-overview.html)
 
 ## 통합 {#integrations}
 
-Dynamic Chat의 주요 구성 요소는 Marketo 구독과 기본적으로 연결할 수 있는 기능입니다. 이 통합의 전체 기능을 활용하려면 먼저 데이터 동기화를 시작해야 합니다. Marketo 데이터베이스의 크기에 따라 초기 데이터 처리에 최대 24시간이 걸릴 수 있습니다. [1회 동기화](/help/marketo/product-docs/demand-generation/dynamic-chat/connect-dynamic-chat-to-marketo.md) 을 클릭하여 완료합니다.
+A key component of Dynamic Chat is its ability to natively interface with your Marketo subscription. In order to leverage the full capability of this integration, you’ll first need to initiate the data sync. [](/help/marketo/product-docs/demand-generation/dynamic-chat/connect-dynamic-chat-to-marketo.md)
 
-다음 항목이 동기화됩니다.
+The following is synced:
 
-* 개인 필드 데이터
-* 회사 필드 데이터
-* 활동 데이터
+* Person field data
+* Company field data
+* Activity data
 
 ## 대화 상자 {#dialogues}
 
-대화 상자는 단일 채팅 참여를 나타냅니다. 웹 사이트 방문자에게 매력적인 채팅 대화 상자를 제공하는 데 필요한 모든 것이 포함된 컨테이너라고 생각하십시오. 각 대화 상자에서 대화 상자를 표시할 페이지, 표시할 페이지 및 대화 상자 자체의 콘텐츠와 흐름을 지정할 수 있습니다. 또한 지표를 찾아 대화 상자가 얼마나 잘 작동하는지 확인할 수 있습니다. [대화 상자에 대해 자세히 알아보기](/help/marketo/product-docs/demand-generation/dynamic-chat/dialogues/dialogue-overview.md){target=&quot;_blank&quot;}.
+Dialogues represent a single chat engagement. Think of it as a container with all the stuff you need to have an engaging chat dialogue to your website visitors. In each Dialogue, you can specify which page(s) you’d like the Dialogue to appear on, to whom you&#39;d like it to be shown to, and the content and flow of the Dialogue itself. Additionally, you can find metrics to see how well your Dialogue is performing. [](/help/marketo/product-docs/demand-generation/dynamic-chat/dialogues/dialogue-overview.md)
 
 ## 구성 {#configuration}
 
-구성 탭에서 다양한 대화 상자의 모양과 느낌을 사용자 지정합니다. 글꼴, 색상, 응답 시간 등을 변경합니다. [구성에 대해 자세히 알아보기](/help/marketo/product-docs/demand-generation/dynamic-chat/configuration.md).
+In the Configuration tab, customize the look and feel of your various Dialogues. Change font, colors, response time, and more! [](/help/marketo/product-docs/demand-generation/dynamic-chat/configuration.md)
 
-## 달력 {#calendar}
+## Calendar {#calendar}
 
-달력 탭에서 (Outlook 또는 Gmail) 일정을 차트보트의 약속 예약에 사용할 일정을 연결합니다. 사용자의 일정이 Dynamic Chat에 연결되면 해당 사용자가 큐에 추가되고 웹 사이트 방문자가 약속을 예약할 수 있도록 해당 일정을 사용할 수 있습니다.
+In the Calendar tab, connect your (Outlook or Gmail) calendar for use in appointment scheduling in the chatbot. Once a user’s calendar is connected to Dynamic Chat, that user will be added to the queue and their calendar will be available for website visitors to schedule appointments on.
 
-방문자가 사용자의 일정에서 약속을 예약할 때 방문자에게 보내는 초대의 본문을 사용자 지정할 수도 있습니다.
+You can also customize the body of the invite that&#39;s sent to the visitor when they schedule an appointment on the user’s calendar.
 
 ## 회의 {#meetings}
 
-다양한 대화 상자를 통해 웹 사이트 방문자가 예약한 모든 약속을 볼 수 있습니다. 여기에서 약속을 예약한 사람의 전자 메일 주소, 약속을 예약한 대리인, 약속 발생 예정 시간, 회의가 발생했는지 여부를 확인할 수 있습니다.
+This is where you&#39;ll see all of the appointments that have been scheduled by website visitors through your various Dialogues. Here you’ll find the email address of the person that booked the appointment, which agent they booked the appointment with, when the appointment is scheduled to occur, and whether the meeting has happened or not.
 
 ## 라우팅 {#routing}
 
-이 위치에서 달력을 연결한 모든 에이전트 목록과 웹 사이트 방문자에게 표시할 순서를 볼 수 있습니다. 회의는 윤곽 스타일로 진행되는데, 만약 5명의 에이전트들과 3명의 에이전트가 마지막 회의를 했다면, 4명의 요원이 다음 1명을 얻고, 5명의 요원이 그 다음에 1명으로 돌아옵니다.
+This is where you can see a list of all the agents that have connected their calendars as well as what order they&#39;ll be presented to website visitors. Meetings go round robin style, so if you have five agents and agent three took the last meeting, agent four will get the next one, followed by agent five, then back to agent one.
 
 ## FAQ {#faq}
 
-**Dynamic Chat를 회사 웹 사이트의 어디에나 설치할 수 있습니까, 아니면 Marketo 랜딩 페이지에서만 작동합니까?**
+****
 
-Dynamic Chat JavaScript 코드 조각은 Marketo 랜딩 페이지뿐만 아니라 모든 웹 사이트에 설치할 수 있습니다.
+The Dynamic Chat JavaScript snippet can be installed on any website as well as Marketo landing pages.
 
-**보고용으로 데이터가 얼마나 오래 저장됩니까?**
+****
 
-90일(전체 제한 목록 참조) [아래](#limits-in-dynamic-chat)).
+[](#limits-in-dynamic-chat)
 
-**Dynamic Chat에서 실시간 채팅을 허용합니까?**
+****
 
-아니요, 사전 결정된 응답만 사용합니다.
+No, it only utilizes pre-determined responses.
 
-**Dynamic Chat는 영어 이외의 다른 언어를 지원합니까?**
+****
 
-예. 동적 채트는 다음 언어를 지원합니다. 프랑스어, 독일어, 일본어, 스페인어, 이탈리아어, 포르투갈어(브라질), 한국어, 중국어(간체) 및 중국어(번체). 자세한 내용은 [아래 섹션](#changing-the-language).
+Yes. Dynamic Chat supports the following languages: French, German, Japanese, Spanish, Italian, Brazilian Portuguese, Korean, Simplified Chinese, and Traditional Chinese. [](#changing-the-language)
 
-**AI/NLP 기능을 지원합니까?**
+****
 
-AI/NLP 기능은 지원하지 않습니다.
+We do not support AI/NLP functionality.
 
-**익명의 사람들을 어떻게 타겟팅해야 하나요?**
+****
 
-대화 상자에서 다음을 사용해야 합니다 _개인 전자 메일이 비어 있음_ 속성을 사용합니다.
+__
 
-## 언어 변경 {#changing-the-language}
+## Changing the Language {#changing-the-language}
 
-다음 단계에 따라 다이내믹 채팅 언어를 변경합니다.
+Follow these steps to change your Dynamic Chat language.
 
-1. Experience Cloud 계정에서 설정 아이콘을 클릭하고 을 선택합니다 **기본 설정**.
+>[!IMPORTANT]
+>
+>__
+
+1. ****
 
    ![](assets/dynamic-chat-overview-1.png)
 
-1. 이메일 주소 아래에서 현재 언어를 클릭합니다.
+1. Click the current language under your email address.
 
    ![](assets/dynamic-chat-overview-2.png)
 
-1. 새 언어(두 번째 언어는 선택 사항)를 선택하고 **저장**.
+1. ****
 
    ![](assets/dynamic-chat-overview-3.png)
 
-   >[!IMPORTANT]
+   >[!NOTE]
    >
-   >선택할 수 있는 언어가 수십 개 있지만 Dynamic Chat에서는 다음과 같은 기능만 지원합니다. 영어, 프랑스어, 독일어, 일본어, 스페인어, 이탈리아어, 브라질 포르투갈어, 한국어, 중국어 간체 및 중국어 번체.
+   >There are a few dozen languages to choose from, however, Dynamic Chat only supports the following: English, French, German, Japanese, Spanish, Italian, Brazilian Portuguese, Korean, Simplified Chinese, and Traditional Chinese.
 
-언어를 업데이트하면 개인적으로 채운 단어(예: 스트림 응답)를 제외하고 앱 자체의 모든 내용이 변경됩니다.
+When you update the language, everything in the app itself changes except for the words you&#39;ve personally populated (e.g., stream responses).
 
-## 동적 채팅의 제한 사항 {#limits-in-dynamic-chat}
+## Limits in Dynamic Chat {#limits-in-dynamic-chat}
 
 <table>
-  <th>매개 변수</th>
+  <th>Parameter</th>
   <th>설명</th>
-  <th>제한</th>
+  <th>Limit</th>
  <tr>
-  <td>총 대화 상자 수</td>
-  <td>총 대화 상자 수(게시됨 및 초안)</td>
-  <td>500년</td>
+  <td>Total Dialogues</td>
+  <td>Total number of Dialogues (published and draft)</td>
+  <td>500</td>
  </tr>
  <tr>
-  <td>게시된 대화 상자</td>
-  <td>저장된 게시된 대화 상자 수</td>
-  <td>100년</td>
+  <td>Published Dialogues</td>
+  <td>Number of published Dialogues saved</td>
+  <td>100</td>
  </tr>
  <tr>
-  <td>대화 상자당 Target URL</td>
-  <td>단일 대화 상자에 추가할 수 있는 Target URL 수</td>
-  <td>20년</td>
+  <td>Target URLs per Dialogue</td>
+  <td>Number of Target URLs that can be added to a single Dialogue</td>
+  <td>20</td>
  </tr>
  <tr>
-  <td>대화 상자당 속성</td>
-  <td>단일 대화 상자의 대상 기준에 추가할 수 있는 속성 수입니다</td>
-  <td>100년</td>
+  <td>Attributes per Dialogue</td>
+  <td>Number of attributes that can be added to audience criteria for a single Dialogue</td>
+  <td>100</td>
  </tr>
  <tr>
-  <td>그룹</td>
-  <td>단일 대화 상자에 추가할 수 있는 그룹 수</td>
+  <td>Groups</td>
+  <td>Number of groups that can be added to a single Dialogue</td>
   <td>10</td>
  </tr>
  <tr>
-  <td>그룹당 속성 수</td>
-  <td>그룹에 추가할 수 있는 속성 수</td>
+  <td>Attributes per Group</td>
+  <td>Number of attributes that can be added to a group</td>
   <td>10</td>
  </tr>
  <tr>
-  <td>카드</td>
-  <td>대화 상자당 캔버스에 추가할 수 있는 카드 수</td>
-  <td>500년</td>
+  <td>Cards</td>
+  <td>Number of cards that can be added to the canvas per Dialogue</td>
+  <td>500</td>
  </tr>
  <tr>
-  <td>익명 리드 데이터 보존 기간</td>
-  <td>참여 없이 익명 리드의 정보를 유지하는 기간</td>
-  <td>90일</td>
+  <td>Anonymous Lead Data Retention Period</td>
+  <td>Duration for how long information of an anonymous lead without any engagement will be retained</td>
+  <td>90 days</td>
  </tr>
  <tr>
-  <td>목표 활동 유지 기간</td>
-  <td>목표 활동 데이터가 보존되는 시간</td>
-  <td>24개월</td>
+  <td>Goal Activity Retention Period</td>
+  <td>Amount of time goal activity data is retained</td>
+  <td>24 months</td>
  </tr>
  <tr>
-  <td>문서 활동 보존 기간</td>
-  <td>문서 활동 데이터가 보존되는 시간입니다</td>
-  <td>24개월</td>
+  <td>Document Activity Retention Period</td>
+  <td>Amount of time document activity data is retained</td>
+  <td>24 months</td>
  </tr>
  <tr>
-  <td>대화 상자 활동 유지 기간과 상호 작용</td>
-  <td>대화 상자 활동 데이터와 상호 작용한 시간이 유지됩니다</td>
-  <td>90일</td>
+  <td>Interacted w/ Dialogue Activity Retention Period</td>
+  <td>Amount of time interacted with Dialogue activity data is retained</td>
+  <td>90 days</td>
  </tr>
  <tr>
-  <td>모임 예약 활동 보존 기간</td>
-  <td>모임 예약 활동이 Dynamic Chat에 저장되는 시간입니다</td>
-  <td>24개월</td>
+  <td>Meeting Booking Activity Retention Period</td>
+  <td>Amount of time meeting booking activity will be stored in Dynamic Chat</td>
+  <td>24 months</td>
  </tr>
 </table>
