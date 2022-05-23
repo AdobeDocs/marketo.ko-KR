@@ -2,10 +2,10 @@
 description: 스트림 디자이너 - Marketo 문서 - 제품 설명서
 title: 스트림 디자이너
 exl-id: aa44c7a5-f81b-4029-a1a4-5439bea83847
-source-git-commit: adf3a9f156ec5ed823a0647affb87f6c0686d35f
+source-git-commit: 3883f31e59e4ba2dccf53961068fea7d5f805192
 workflow-type: tm+mt
-source-wordcount: '596'
-ht-degree: 0%
+source-wordcount: '630'
+ht-degree: 3%
 
 ---
 
@@ -19,13 +19,17 @@ ht-degree: 0%
 
 <table>
  <tr>
-  <td><strong>본문</strong></td>
+  <td><strong>메시지</strong></td>
   <td>응답 없이 구문을 만들려면(예: "안녕! SAVE25" 코드를 사용하면 모든 항목이 오늘 25% 할인됩니다.
 </td>
  </tr>
  <tr>
   <td><strong>질문</strong></td>
   <td>사용 가능한 응답을 제공하는 다중 선택 질문을 하려면 를 사용합니다(예: 어떤 차종에 관심이 있으십니까? 응답 = SUV, 컴팩트, 트럭 등).</td>
+ </tr>
+ <tr>
+  <td><strong>문서</strong></td>
+  <td>대화 상자에 PDF 문서를 포함하고 방문자의 문서 참여 활동(문서를 다운로드한 경우 본 페이지 수 및/또는 사용된 검색어)을 추적할 수 있습니다.</td>
  </tr>
  <tr>
   <td><strong>정보 캡처</strong></td>
@@ -109,15 +113,15 @@ ht-degree: 0%
      <td>캡처할 정보 유형: 전화, 텍스트, 이메일.</td>
     </tr>
     <tr>
-     <td><strong>Chatbot 메시지</strong></td>
+     <td><strong>챗봇 메시지</strong></td>
      <td>방문자에게 정보를 제공하라는 메시지가 표시되는 메시지입니다.</td>
     </tr>
     <tr>
-     <td><strong>자리 표시자</strong></td>
+     <td><strong>플레이스홀더</strong></td>
      <td>방문자가 입력할 내용을 확인하는 데 도움이 되는 샘플 텍스트입니다.</td>
     </tr>
     <tr>
-     <td><strong>특성에 응답 매핑</strong></td>
+     <td><strong>속성에 대한 응답 매핑</strong></td>
      <td>방문자의 응답을 Marketo 구독의 개인 레코드에 있는 해당 필드에 동기화할 수 있습니다.</td>
     </tr>
    </table>
