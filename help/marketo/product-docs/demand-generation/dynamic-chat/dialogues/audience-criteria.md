@@ -2,9 +2,9 @@
 description: 대상 기준 - Marketo 문서 - 제품 설명서
 title: 대상 기준
 exl-id: 9b70b03e-229e-469e-bd65-07aaf2dcbec6
-source-git-commit: b2b37b8124d1178a6a0005c7d57d4c8505d62bd8
+source-git-commit: 17f56a01096b1cc48a9df7a717145a00ef491dbd
 workflow-type: tm+mt
-source-wordcount: '428'
+source-wordcount: '499'
 ht-degree: 1%
 
 ---
@@ -13,9 +13,31 @@ ht-degree: 1%
 
 Marketo 스마트 목록과 유사한 대상 기준 속성을 사용하여 타겟 대상을 정의할 수 있습니다. 추론된, 개인 또는 회사 속성(또는 이들의 조합)을 사용하여 알려진 사람 또는 알 수 없는 사람을 타깃팅할 수 있습니다.
 
+## 이벤트 {#events}
+
+![](assets/audience-criteria-0.png)
+
+이벤트를 사용하면 스크롤하는 정도나 페이지/사이트에 있는 시간을 기반으로 방문자를 타깃팅할 수 있습니다. 아래 예에서는 20초 이상 특정 페이지에 있었던 방문자를 타깃팅합니다.
+
+1. 을 선택합니다. **페이지 시간** 이벤트를 끌어서 오른쪽으로 드래그합니다.
+
+   ![](assets/audience-criteria-0a.png)
+
+1. &quot;보다 큼&quot; 시간을 20초로 설정합니다.
+
+   ![](assets/audience-criteria-0b.png)
+
+1. 원하는 페이지의 URL을 [Target](#target) 섹션을 참조하십시오.
+
+   ![](assets/audience-criteria-0c.png)
+
+## 속성 {#attributes}
+
+![](assets/audience-criteria-0d.png)
+
 **알려진 사람**
 
-있습니다 _많은_ 선택할 속성 조합입니다. 이 예에서는 모두 타겟팅합니다 **알려진 사람** 50명 이상의 직원을 가진 회사에서 일하는 캘리포니아에서.
+있습니다 _많은_ 선택할 속성 조합입니다. 아래 예에서는 모두 타겟팅합니다 **알려진 사람** 50명 이상의 직원을 가진 회사에서 일하는 캘리포니아에서.
 
 1. 을 선택합니다. **개인 주** 속성을 지정하고 오른쪽으로 드래그합니다.
 
