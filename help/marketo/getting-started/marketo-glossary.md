@@ -3,9 +3,9 @@ unique-page-id: 12980733
 description: Marketo 용어집 - Marketo 문서 - 제품 설명서
 title: Marketo 용어
 exl-id: c387b880-708c-439c-99c3-46eb5ccb4536
-source-git-commit: 441482ea4d367d6d751c4dd5b8bcd67f7fb7935a
+source-git-commit: 3559dff22a294545440790c712e80b853340b66d
 workflow-type: tm+mt
-source-wordcount: '4205'
+source-wordcount: '4196'
 ht-degree: 0%
 
 ---
@@ -36,7 +36,7 @@ ht-degree: 0%
   </tr> 
   <tr> 
    <td><strong>계정 목록</strong></td> 
-   <td>주요 계정/조직 이름 목록입니다. 계정 기반 마케팅(<strong>ABM</strong>) 목록에 포함될 수도 있습니다.</td> 
+   <td>주요 계정/조직 이름 목록입니다. Account-Based Marketing(<strong>ABM</strong>) 목록에 포함될 수도 있습니다.</td> 
   </tr> 
   <tr> 
    <td colspan="1"><strong>계정 프로파일링</strong></td> 
@@ -272,7 +272,7 @@ ht-degree: 0%
   </tr> 
   <tr> 
    <td colspan="1"><strong>문서</strong></td> 
-   <td colspan="1">문서의 약자인 문서는 고객이 제품을 더 잘 이해할 수 있도록 도와주는 문서입니다. Marketo에는 다음과 같은 여러 가지 유형의 문서가 있습니다. 제품 문서(현재 있는 사이트), <a href="https://experienceleague.adobe.com/docs/marketo/sky/home.html" rel="nofollow">Marketo Sky</a> docs, <a href="https://developers.marketo.com/" rel="nofollow">개발자</a> 문서 및 <a href="https://nation.marketo.com/t5/Knowledgebase/tkb-p/support_solutions-documents" rel="nofollow">지원</a> 문서.</td> 
+   <td colspan="1">문서의 약자인 문서는 고객이 제품을 더 잘 이해할 수 있도록 도와주는 문서입니다. Marketo에는 다음과 같은 여러 가지 유형의 문서가 있습니다. 제품 문서(현재 있는 사이트), <a href="https://developers.marketo.com/" rel="nofollow">개발자</a> 문서 및 <a href="https://nation.marketo.com/t5/Knowledgebase/tkb-p/support_solutions-documents" rel="nofollow">지원</a> 문서.</td> 
   </tr> 
   <tr> 
    <td colspan="1"><strong>도메인 기반 메시지 인증, 보고 및 적합성(DMARC)</strong></td> 
@@ -522,7 +522,7 @@ ht-degree: 0%
    <td colspan="1">대상의 세그먼트를 만든 후, 일부 개인은 마케팅 자격을 갖춘 리드가 될 수 있습니다. 이는 리드가 후속 작업을 위해 영업 조직에 전달하기 위해 성공 기준을 충족하기 위한 행동과 특성을 발휘했음을 의미합니다.</td> 
   </tr> 
   <tr> 
-   <td colspan="1"><a href="/help/marketo/product-docs/email-marketing/deliverability/understanding-unsubscribe.md#marketing-suspended" rel="nofollow"><strong>마케팅 일시 중단</strong></a></td> 
+   <td colspan="1"><a href="/help/marketo/product-docs/email-marketing/deliverability/understanding-unsubscribe.md#marketing-suspended" rel="nofollow"><strong>마케팅 중단</strong></a></td> 
    <td colspan="1">이 필드는 <strong>사용자</strong> Marketo에서 누군가를 만들다 <strong>데이터베이스</strong> 일시적으로 배달할 수 없습니다.</td> 
   </tr> 
   <tr> 
