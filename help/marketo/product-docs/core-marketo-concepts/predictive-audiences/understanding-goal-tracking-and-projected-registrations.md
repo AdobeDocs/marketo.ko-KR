@@ -4,16 +4,16 @@ title: 목표 추적 및 예상 등록 이해
 hide: true
 hidefromtoc: true
 exl-id: 110768f4-46ed-4951-96b2-a97813d7b257
-source-git-commit: 3559dff22a294545440790c712e80b853340b66d
+source-git-commit: 8aeff85c2287e670443e7e6aa1b2b27a4301754a
 workflow-type: tm+mt
-source-wordcount: '975'
+source-wordcount: '963'
 ht-degree: 0%
 
 ---
 
 # 목표 추적 및 예상 등록 이해 {#understanding-goal-tracking-and-projected-registrations}
 
-후 [이벤트 목표 설정](/help/sky/setting-event-goals.md) 그리고 초대장을 통해 보내기 [스마트 캠페인](/help/sky/create-a-smart-campaign.md)다음은 목표 진행 상황을 추적하고 Marketo의 예측을 이해하는 방법입니다.
+다음은 목표 진행 상황을 추적하고 Marketo의 예측을 이해하는 방법입니다.
 
 >[!NOTE]
 >
