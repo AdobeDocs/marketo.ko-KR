@@ -2,9 +2,9 @@
 description: 현재 릴리스 노트 - Marketo 문서 - 제품 설명서
 title: 현재 릴리스 노트
 exl-id: a2eccad5-73ad-48f9-8091-51cee23824e1
-source-git-commit: 375af5ec7293acd0cdf352c8aa0a7a3973b248be
+source-git-commit: b32fb053062481f0750305548d38055db2c72463
 workflow-type: tm+mt
-source-wordcount: '545'
+source-wordcount: '547'
 ht-degree: 0%
 
 ---
@@ -16,6 +16,8 @@ ht-degree: 0%
 >[!AVAILABILITY]
 >
 >별로 표시된 기능(![별](assets/yellow-star.png))은 유료 추가 기능입니다. 자세한 내용은 Marketo Engage 담당자에게 문의하십시오.
+
+**_분기별 릴리스_**
 
 다음 기능은에서 릴리스되기 시작합니다 **2022년 6월 24일**- 후속 주 동안 나머지 기능에 대한 단계적 롤아웃을 사용합니다(별도로 지정하지 않는 경우).
 
