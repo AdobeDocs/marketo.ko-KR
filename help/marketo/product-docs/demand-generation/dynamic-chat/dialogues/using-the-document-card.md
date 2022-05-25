@@ -1,11 +1,10 @@
 ---
 description: 문서 카드 사용 - Marketo 문서 - 제품 설명서
 title: 문서 카드 사용
-hide: true
-hidefromtoc: true
-source-git-commit: 3559dff22a294545440790c712e80b853340b66d
+exl-id: 7fd1bfd0-95a9-4878-90a1-5bdfe8014919
+source-git-commit: 3df0369a963bd9c918fdeb819d503584c27cd5f1
 workflow-type: tm+mt
-source-wordcount: '116'
+source-wordcount: '141'
 ht-degree: 0%
 
 ---
@@ -28,15 +27,19 @@ ht-degree: 0%
 
    ![](assets/using-the-document-card-3.png)
 
+   >[!IMPORTANT]
+   >
+   >채트봇을 호스팅할 도메인을 사용해야 합니다(예: mycompany.com에서 채트봇을 호스팅하는 경우 4단계에서 해당 도메인을 입력해야 합니다).
+
 1. 클릭 **복사** 클라이언트 ID를 복사하기 위해 사용됩니다.
 
    ![](assets/using-the-document-card-4.png)
 
-1. Dynamic Chat로 돌아가서 **통합**. Adobe PDF Embed API 아래의 작업을 클릭하고 을 선택합니다 **구성 편집**.
+1. Dynamic Chat로 돌아가서 **통합**. Adobe PDF 포함 API 카드에서 **활성화**.
 
    ![](assets/using-the-document-card-5.png)
 
-1. 클라이언트 ID를 붙여넣고 **업데이트**.
+1. 클라이언트 ID를 붙여넣고 **저장**.
 
    ![](assets/using-the-document-card-6.png)
 
