@@ -4,9 +4,9 @@ title: 목표 추적 및 예상 등록 이해
 hide: true
 hidefromtoc: true
 exl-id: 110768f4-46ed-4951-96b2-a97813d7b257
-source-git-commit: 8aeff85c2287e670443e7e6aa1b2b27a4301754a
+source-git-commit: e6b6fc5e3414936390a15dfb2034cfa4980169fb
 workflow-type: tm+mt
-source-wordcount: '963'
+source-wordcount: '982'
 ht-degree: 0%
 
 ---
@@ -14,6 +14,10 @@ ht-degree: 0%
 # 목표 추적 및 예상 등록 이해 {#understanding-goal-tracking-and-projected-registrations}
 
 다음은 목표 진행 상황을 추적하고 Marketo의 예측을 이해하는 방법입니다.
+
+>[!PREREQUISITES]
+>
+>이러한 기능의 대부분을 액세스하려면 [다음 세대 전환](/help/marketo/product-docs/marketo-engage-next-generation-experience/toggle-switch.md)이벤트 프로그램에 대한 {target=&quot;_blank&quot;}.
 
 >[!NOTE]
 >

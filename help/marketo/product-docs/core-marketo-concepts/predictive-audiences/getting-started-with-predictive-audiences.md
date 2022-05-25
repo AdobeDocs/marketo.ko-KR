@@ -1,12 +1,10 @@
 ---
 description: Predictive Audiences 시작 - Marketo 문서 - 제품 설명서
 title: Predictive Audiences 시작
-hide: true
-hidefromtoc: true
 exl-id: d4780837-4cab-49b8-9aa4-61e6d4c43e8b
-source-git-commit: b2b37b8124d1178a6a0005c7d57d4c8505d62bd8
+source-git-commit: e6b6fc5e3414936390a15dfb2034cfa4980169fb
 workflow-type: tm+mt
-source-wordcount: '235'
+source-wordcount: '233'
 ht-degree: 0%
 
 ---
@@ -21,7 +19,7 @@ PA에는 다음 기능이 포함되어 있습니다.
 * [예측 필터](/help/marketo/product-docs/core-marketo-concepts/predictive-audiences/predictive-filters.md){target=&quot;_blank&quot;}
 * [모델 및 영향을 주는 요소](/help/marketo/product-docs/core-marketo-concepts/predictive-audiences/models-and-insights.md){target=&quot;_blank&quot;}
 * AI/ML 기반 통찰력
-* [목표 추적 및 예상 등록](/help/marketo/product-docs/core-marketo-concepts/predictive-audiences/understanding-goal-tracking-and-projected-registrations.md){target=&quot;_blank&quot;} (목표 추적은 이벤트 프로그램에 대해 다음 세대 토글을 사용할 수 있는 사용자만 사용할 수 있습니다. 이 토글 액세스 권한을 얻으려면 CSM에 문의하고 예측 대상 요청)
+* 목표 추적 및 예상 등록 - (목표 추적은 이벤트 프로그램에 대한 다음 세대 토글이 활성화된 사용자만 사용할 수 있으며 이 토글에 액세스하려면 CSM에 문의하고 예측 대상에 요청)
 
 >[!NOTE]
 >
