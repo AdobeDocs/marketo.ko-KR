@@ -2,9 +2,9 @@
 description: 현재 릴리스 노트 - Marketo 문서 - 제품 설명서
 title: 현재 릴리스 노트
 exl-id: a2eccad5-73ad-48f9-8091-51cee23824e1
-source-git-commit: 375af5ec7293acd0cdf352c8aa0a7a3973b248be
+source-git-commit: f7bb22572ed1a79fe8afe4a1066a2cc172a43f23
 workflow-type: tm+mt
-source-wordcount: '545'
+source-wordcount: '644'
 ht-degree: 0%
 
 ---
@@ -48,6 +48,12 @@ ht-degree: 0%
 ![(별)](assets/yellow-star.png)
 
 * **Salesforce의 Sales Insight 권한 집합**: 관리자는 Sales Insight Salesforce 패키지의 일부인 Marketo 앱 권한 세트를 통해 프로필 수준이 아닌 사용자 수준의 제한된 사람 세트에 Sales Insight 액세스 권한을 제공할 수 있습니다.
+
+* **내 Marketo 타일 업데이트 - 판매 통찰력 작업**: Marketo 관리자(및 사용자가 지정하는 사용자)는 이제 내 Marketo 페이지에 있는 새 판매 통찰력 작업 타일을 통해 Sales Insight Actions 인스턴스로 빠르게 이동할 수 있습니다.
+
+## 영업 연결 {#sales-connect}
+
+* **Salesforce API 업데이트**: Salesforce Summer 22 릴리스를 사용하면 API 레거시 버전 21-30은 더 이상 Salesforce에서 지원되지 않습니다. 이 Marketo Engage 릴리스에서는 이전 API 버전을 사용하는 모든 Sales Connect 요청이 지원되는 버전 내에 있도록 업데이트되었습니다. Salesforce API 처분 계획에 대한 자세한 내용을 보려면 [여기](https://help.salesforce.com/s/articleView?language=en_US&amp;type=1&amp;id=000354473){target=&quot;_blank&quot;}.
 
 ## API 개선 사항 {#api-enhancements}
 
