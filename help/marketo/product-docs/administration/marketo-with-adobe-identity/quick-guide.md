@@ -3,16 +3,16 @@ description: 빠른 안내서 - Marketo 문서 - 제품 설명서
 title: 빠른 안내서
 hide: true
 hidefromtoc: true
-source-git-commit: 96f7c405d97471a5dbfbd976cfcb04fd67b4edc7
+source-git-commit: f33af70109b0491138aff8aa0416f3f919e7d20c
 workflow-type: tm+mt
-source-wordcount: '128'
+source-wordcount: '130'
 ht-degree: 0%
 
 ---
 
 # 빠른 안내서 {#quick-guide}
 
-아래 절차에 따라 Adobe Identity Management을 사용한 Marketo Engage을 설정하고 학습하십시오.
+아래 나열된 문서는 Adobe Identity Management을 사용하여 Marketo Engage을 설정하고 학습하는 데 도움이 됩니다.
 
 ## 시스템 관리자 {#system-admin}
 
