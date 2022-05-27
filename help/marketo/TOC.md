@@ -3,9 +3,9 @@ audience: end-user
 user-guide-title: Marketo 안내서
 user-guide-description: Marketo 제품 설명서
 feature-set: Marketo Engage
-source-git-commit: 5d8a129e29d56c0f997d1ef141977469b0afc1a8
+source-git-commit: 96f7c405d97471a5dbfbd976cfcb04fd67b4edc7
 workflow-type: tm+mt
-source-wordcount: '8773'
+source-wordcount: '8775'
 ht-degree: 0%
 
 ---
@@ -172,6 +172,7 @@ ht-degree: 0%
          + [사용자 지정 개체 변경 트리거](product-docs/administration/marketo-custom-objects/trigger-off-custom-object-changes.md)
          + [사용자 지정 개체 메타데이터 내보내기](product-docs/administration/marketo-custom-objects/custom-object-metadata-export.md)
       + Adobe ID가 있는 Marketo {#marketo-with-adobe-identity}
+         + [빠른 안내서](product-docs/administration/marketo-with-adobe-identity/quick-guide.md)
          + [개요](product-docs/administration/marketo-with-adobe-identity/overview.md)
          + [관리 설정](product-docs/administration/marketo-with-adobe-identity/admin-setup.md)
          + [제품 관리자 설정](product-docs/administration/marketo-with-adobe-identity/product-admin-setup.md)
