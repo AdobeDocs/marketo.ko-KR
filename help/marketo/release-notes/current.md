@@ -2,7 +2,7 @@
 description: 현재 릴리스 노트 - Marketo 문서 - 제품 설명서
 title: 현재 릴리스 노트
 exl-id: a2eccad5-73ad-48f9-8091-51cee23824e1
-source-git-commit: 40e88a573079b87b3af9a653d8e0b64b5b7522bc
+source-git-commit: 3fe29ccb26e72b593f8b410a45a4871e68fb5fa8
 workflow-type: tm+mt
 source-wordcount: '646'
 ht-degree: 0%
@@ -63,7 +63,7 @@ ht-degree: 0%
 
 ## 공지 {#announcements}
 
-* **Forms 사용 중단 - Forms 1.0, 리드 캡처/저장 종단점 및 스크립트 없는 버전의 양식**: Forms 1.0 자산에 대한 지원은 2022년 10월에 Marketo Engage에서 완전히 제거됩니다. 기존의 모든 Forms 1.0 자산이 작동하지 않습니다. Marketo Engage 양식을 사용하려면 랜딩 페이지 및 웹 사이트에서 JavaScript를 로드해야 합니다.
+* **Forms 사용 중단 - Forms 1.0, 리드 캡처/저장 종단점 및 스크립트 없는 버전의 양식**: Forms 1.0 자산에 대한 지원은 2022년 10월까지 Marketo Engage에서 완전히 제거됩니다. 기존의 모든 Forms 1.0 자산이 작동하지 않습니다. Marketo Engage 양식을 사용하려면 랜딩 페이지 및 웹 사이트에서 JavaScript를 로드해야 합니다.
 
 **_제품 릴리스 웨비나_**
 
