@@ -3,19 +3,18 @@ unique-page-id: 1146942
 description: 스마트 캠페인에 대한 스마트 목록 정의 | 트리거 - Marketo 문서 - 제품 설명서
 title: 스마트 캠페인에 대한 스마트 목록 정의 | 트리거
 exl-id: 14d9b15e-864a-47ef-8f39-3d65e6036a82
-translation-type: tm+mt
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+source-git-commit: a15a4b9bccb069b51186aac7b913008d15aa645e
 workflow-type: tm+mt
-source-wordcount: '198'
+source-wordcount: '229'
 ht-degree: 0%
 
 ---
 
-# 스마트 캠페인에 대한 스마트 목록 정의 | {#define-smart-list-for-smart-campaign-trigger} 트리거
+# 스마트 캠페인에 대한 스마트 목록 정의 | 트리거 {#define-smart-list-for-smart-campaign-trigger}
 
-트리거를 추가하여 라이브 이벤트를 기반으로 한 번에 한 사람씩 스마트 캠페인을 실행할 수 있습니다.
+트리거를 추가하여 라이브 이벤트를 기반으로 한 한 번에 한 명꼴로 스마트 캠페인을 실행할 수 있습니다.
 
-1. 스마트 캠페인에서 **스마트 목록** 탭을 클릭합니다.
+1. 스마트 캠페인에서 **Smart List** 탭.
 
    ![](assets/image2014-9-19-16-3a22-3a55.png)
 
@@ -25,7 +24,11 @@ ht-degree: 0%
 
    >[!NOTE]
    >
-   >트리거가 있는 스마트 캠페인은 **트리거** 모드에서 실행됩니다. 트리거된 이벤트와 추가 필터를 기반으로 한 번에 한 사람씩 실행됩니다.
+   >트리거가 있는 스마트 캠페인이 실행됩니다 **트리거** 모드. 트리거된 이벤트 및 추가 필터를 기반으로 한 번에 한 사람씩 실행됩니다.
+
+   >[!IMPORTANT]
+   >
+   >트리거 캠페인 스마트 목록에서 부울 필드를 사용할 때, 캠페인을 실행하는 동안 필드가 제대로 평가되도록 명시적으로 &#39;false&#39;로 설정해야 합니다.
 
 1. 드롭다운을 클릭하고 연산자를 선택합니다.
 
@@ -33,11 +36,11 @@ ht-degree: 0%
 
    >[!CAUTION]
    >
-   >빨간색 물결선은 오류나 누락된 정보를 나타냅니다. 수정되지 않으면 캠페인이 유효하지 않으며 실행되지 않습니다.
+   >빨간색 선은 오류 또는 누락된 정보를 나타냅니다. 수정하지 않으면 캠페인이 유효하지 않으며 실행되지 않습니다.
 
    >[!TIP]
    >
-   >트리거와 필터가 모두 포함된 스마트 캠페인에서는 트리거가 맨 위로 이동하고 트리거되면 필터 기준을 충족하는 사람만 흐름을 따라 이동합니다.
+   >트리거와 필터가 모두 있는 스마트 캠페인에서 트리거는 맨 위에 있고 트리거되면 필터 기준을 충족하는 사용자만 흐름을 경험합니다.
 
 1. 트리거를 정의합니다.
 
@@ -45,9 +48,9 @@ ht-degree: 0%
 
    >[!NOTE]
    >
-   >트리거가 여러 개인 경우 트리거가 활성화된 경우 **ANY** 중 하나가 활성화되면 사람이 흐름을 거칩니다.
+   >여러 트리거를 사용할 경우 한 사람이 플로우를 통과합니다 **임의** 트리거 중 하나가 활성화됩니다.
 
-모든 사람 세트에서 동시에 캠페인을 실행하려면 [스마트 캠페인에 대한 스마트 목록 정의 방법을 알아봅니다. | 일괄 처리](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/creating-a-smart-campaign/define-smart-list-for-smart-campaign-batch.md).
+한 세트의 사용자에 대해 캠페인을 동시에 실행하려면 다음을 학습합니다 [스마트 캠페인에 대한 스마트 목록 정의 | 일괄 처리](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/creating-a-smart-campaign/define-smart-list-for-smart-campaign-batch.md).
 
 >[!MORELIKETHIS]
 >
