@@ -1,12 +1,10 @@
 ---
 description: 목표 추적 및 예상 등록 이해 - Marketo 문서 - 제품 설명서
 title: 목표 추적 및 예상 등록 이해
-hide: true
-hidefromtoc: true
 exl-id: 110768f4-46ed-4951-96b2-a97813d7b257
-source-git-commit: e6b6fc5e3414936390a15dfb2034cfa4980169fb
+source-git-commit: c3a17d5d938c91103173999d27e8bc9e75137e29
 workflow-type: tm+mt
-source-wordcount: '982'
+source-wordcount: '988'
 ht-degree: 0%
 
 ---
@@ -27,23 +25,27 @@ ht-degree: 0%
 
 1. 에서 목표 추적 세부 사항을 찾을 수 있습니다 **[!UICONTROL 보고서]** 이벤트 프로그램의 탭입니다. 이 특정 예에서는 지금까지 200(75%)이라는 목표에 대해 150명의 등록된 구성원이 있습니다.
 
-PICC
+   ![](assets/understanding-goal-tracking-and-projected-registrations-1.png)
 
 또한 **[!UICONTROL 투영됨]** 등록 정보 아이콘 위로 마우스를 가져가면 가능성 세그먼트별로 이 수의 분류를 볼 수 있습니다.
 
-PICC
+![](assets/understanding-goal-tracking-and-projected-registrations-2.png)
 
 >[!NOTE]
 >
 >참석자와 상위 차트는 이벤트 날짜까지 비어 있습니다.
 
+전환 스위치를 활성화하지 않은 경우, Marketo 클래스 UI에 표시되는 방식은 다음과 같습니다.
+
+![](assets/understanding-goal-tracking-and-projected-registrations-3.png)
+
 1. 등록 가능성별로 멤버 분류로 전환하려면 차트 전환을 누릅니다. 이전 프로그램에서 해당 세그먼트에 대한 평균 백분율과 비교하여 각 세그먼트에 대한 현재 등록 백분율이 표시됩니다.
 
-PICC
+   ![](assets/understanding-goal-tracking-and-projected-registrations-4.png)
 
 모든 멤버(등록 및 아직 등록되지 않음)는 등록 가능성을 기준으로 분류됩니다. 정보 아이콘 위로 마우스를 가져가면 이러한 가능성 카테고리가 정의되는 방식을 확인할 수 있습니다.
 
-PICC
+![](assets/understanding-goal-tracking-and-projected-registrations-5.png)
 
 >[!NOTE]
 >
@@ -62,19 +64,19 @@ PICC
 * 이벤트 생성에서 이벤트 시작까지의 시간
 * 이벤트 기간
 
-PICC
+   ![](assets/understanding-goal-tracking-and-projected-registrations-6.png)
 
 ## Recommendations
 
 보고서 페이지 상단에서 진행 상황을 기반으로 AI/ML 기반 권장 사항을 찾을 수 있습니다. 유용한 팁과 인사이트를 정기적으로 확인하십시오!
 
-PICC
+![](assets/understanding-goal-tracking-and-projected-registrations-7.png)
 
 ## 개인 수준 예측
 
 을(를) 클릭합니다. **[!UICONTROL 멤버]** 탭을 눌러 모든 프로그램 구성원을 봅니다. 마우스를 위에 놓으십시오 **[!UICONTROL 등록 가능성]** 또는 **[!UICONTROL 참석 가능성]** 정확한 백분율 및 분류를 보는 막대. 그런 다음 특정 카테고리의 멤버(예: &quot;가능성이 없음&quot;에 있는 모든 구성원이 카테고리를 등록하도록 함)에 대해 조치를 취할 수 있으며, 특히 이들을 대상으로 지정하여 등록 번호를 잠재적으로 높이게 할 수 있습니다.
 
-PICC
+![](assets/understanding-goal-tracking-and-projected-registrations-8.png)
 
 >[!NOTE]
 >
@@ -110,7 +112,7 @@ ii. 24시간 후, [!UICONTROL 보고서] 탭에서는 현재 초대된 모든 �
 
 3. 예상 등록 수가 목표보다 적으면 더 많은 사람을 초대해야 합니다. 이 시점에서 이전 프로그램에서 적용된 임계값이 무엇인지 알려주는 통찰력을 볼 수 있습니다.
 
-PICC
+![](assets/understanding-goal-tracking-and-projected-registrations-9.png)
 
 4. 해당 임계값을 사용하여 새 스마트 캠페인을 만들어 더 많은 사용자를 초대할 수 있습니다.
 
@@ -124,7 +126,7 @@ A: 각각 세그먼트를 나타내는 3개의 막대(가능성이 높음, 가�
 
 **파란색 막대:** 해당 세그먼트에 있는 모든 사람의 등록 비율입니다.
 
-PICC
+![](assets/understanding-goal-tracking-and-projected-registrations-10.png)
 
 예를 들어 100명이 등록된 100명 중 50% 이상, 60명 이상이 등록될 가능성이 있다고 가정해 보겠습니다. 전환 가능성이 높습니다. 따라서 프로그램에 추가된 모든 구성원이 값을 등록할 가능성이 높아지면 세그먼트로 배치되며 각 세그먼트 전환율에 등록된 사람 수에 따라 계산됩니다.
 
@@ -134,10 +136,10 @@ A: 등록됨으로 나열되는 사람 또는 동일한 단계 이상의 기타 
 
 이벤트 프로그램에 대해 새 진행 상태를 만들 수 있지만 표준 상태에 매핑합니다. 사람이 초대받은 상태에서 다시 상기되도록 이동하는 경우를 생각해 보십시오. 이는 등록보다 높은 단계입니다. 또한 이 사람은 등록으로 간주되어 목표 추적에 표시됩니다.
 
-PICC
+![](assets/understanding-goal-tracking-and-projected-registrations-11.png)
 
 **Q: 예상 등록은 어떻게 계산됩니까?**
 
 A: 아래를 참조하십시오.
 
-PICC
+![](assets/understanding-goal-tracking-and-projected-registrations-12.png)
