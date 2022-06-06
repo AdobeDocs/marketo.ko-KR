@@ -3,9 +3,9 @@ unique-page-id: 3571743
 description: Salesforce Professional Edition에서 Marketo Sales Insight 구성 - Marketo 문서 - 제품 설명서
 title: Salesforce Professional Edition에서 Marketo Sales Insight 구성
 exl-id: fae63560-0bb3-46a9-94a3-cc27c1aa363e
-source-git-commit: 5c4bce6ab6801b861f70722b6782df34f96fed10
+source-git-commit: bb172e59e96cca3e8997615a2f1367ecccf700ed
 workflow-type: tm+mt
-source-wordcount: '902'
+source-wordcount: '912'
 ht-degree: 0%
 
 ---
@@ -155,6 +155,10 @@ ht-degree: 0%
 1. 높이 편집 **450년** 픽셀 및 클릭 **확인**.
 
    ![](assets/image2014-9-24-17-3a34-3a26.png)
+
+   >[!NOTE]
+   >
+   >확인 **스크롤 막대 표시** 스크롤스루 활동에 액세스할 수 있어야 합니다.
 
    >[!TIP]
    >
