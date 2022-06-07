@@ -3,9 +3,9 @@ audience: end-user
 user-guide-title: Marketo 안내서
 user-guide-description: Marketo 제품 설명서
 feature-set: Marketo Engage
-source-git-commit: 96f7c405d97471a5dbfbd976cfcb04fd67b4edc7
+source-git-commit: a14516e0daf3b9c9b90aa0250fd654b8bbbcc391
 workflow-type: tm+mt
-source-wordcount: '8775'
+source-wordcount: '8780'
 ht-degree: 0%
 
 ---
@@ -384,6 +384,7 @@ ht-degree: 0%
             + [로컬 자산 만료](product-docs/core-marketo-concepts/programs/working-with-programs/local-asset-expiration.md)
             + [구성원 관리 및 보기](product-docs/core-marketo-concepts/programs/working-with-programs/manage-and-view-members.md)
             + [프로그램 구성원 사용자 정의 필드](product-docs/core-marketo-concepts/programs/working-with-programs/program-member-custom-fields.md)
+            + [프로그램 구성원 사용자 지정 필드 동기화](product-docs/core-marketo-concepts/programs/working-with-programs/program-member-custom-field-sync.md)
             + [SFDC 캠페인을 프로그램과 동기화](product-docs/core-marketo-concepts/programs/working-with-programs/sync-an-sfdc-campaign-with-a-program.md)
             + [기간 원가 이해](product-docs/core-marketo-concepts/programs/working-with-programs/understanding-period-costs.md)
             + [태그 이해](product-docs/core-marketo-concepts/programs/working-with-programs/understanding-tags.md)
