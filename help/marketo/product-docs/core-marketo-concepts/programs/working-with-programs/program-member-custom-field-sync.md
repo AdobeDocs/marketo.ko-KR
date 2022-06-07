@@ -3,9 +3,9 @@ description: 프로그램 구성원 사용자 지정 필드 - Marketo 문서 - �
 title: 프로그램 구성원 사용자 정의 필드
 hide: true
 hidefromtoc: true
-source-git-commit: a14516e0daf3b9c9b90aa0250fd654b8bbbcc391
+source-git-commit: 09e9ee74c32f81fdc826454266d3e16826a09eae
 workflow-type: tm+mt
-source-wordcount: '342'
+source-wordcount: '348'
 ht-degree: 4%
 
 ---
@@ -20,7 +20,7 @@ ht-degree: 4%
 >
 >프로그램 멤버 개체에는 최대 20개의 사용자 지정 필드가 있을 수 있습니다. 이러한 필드는 모든 프로그램에서 사용할 수 있습니다.
 
-## Salesforce 필드를 프로그램 구성원 필드에 매핑 {#map-salesforce-fields-to-program-member-fields}
+## Salesforce 필드를 프로그램 구성원 사용자 정의 필드에 매핑 {#map-salesforce-fields-to-program-member-custom-fields}
 
 1. Marketo에서 **관리**.
 
@@ -44,7 +44,7 @@ ht-degree: 4%
 
    >[!NOTE]
    >
-   >드롭다운에는 Salesforce 필드의 데이터 유형과 일치하는 프로그램 멤버 사용자 지정 필드만 표시됩니다.
+   >드롭다운에는 Salesforce 필드의 데이터 유형과 일치하는 프로그램 구성원 사용자 지정 필드만 표시됩니다.
 
 1. 추가 필드 매핑에 대해서는 검색 상자를 지우고 3~5단계를 반복합니다.
 
@@ -60,7 +60,7 @@ ht-degree: 4%
    >
    >Salesforce에서 필드의 데이터 유형의 이름을 바꾸거나 변경하면 프로그램 멤버 사용자 지정 필드를 사용하여 해당 필드의 매핑을 제거합니다. 하지만 검토 후 새 필드로 다시 매핑할 수 있습니다.
 
-## 프로그램 멤버 필드에 Salesforce 필드 매핑 취소 {#unmap-salesforce-fields-to-program-member-fields}
+## 프로그램 구성원 사용자 정의 필드에서 Salesforce 필드 매핑 해제 {#unmap-salesforce-fields-from-program-member-custom-fields}
 
 교체하기 위해 필드를 비워 두거나 일반적인 변경을 하려는 경우 먼저 매핑 해제를 수행해야 합니다. 방법은 다음과 같습니다.
 
@@ -88,7 +88,7 @@ ht-degree: 4%
 
    ![](assets/program-member-custom-field-sync-11.png)
 
-## 데이터 유형 매핑 {#datatype-mapping}
+## 데이터 유형 매핑 {#data-type-mapping}
 
 <table>
   <colgroup>
@@ -98,7 +98,7 @@ ht-degree: 4%
   <tbody>
     <tr>
       <th>SFDC 데이터 유형</th>
-      <th>프로그램 멤버 필드 데이터 유형</th>
+      <th>프로그램 멤버 사용자 지정 필드 데이터 유형</th>
     </tr>
     <tr>
       <td>텍스트</td>
