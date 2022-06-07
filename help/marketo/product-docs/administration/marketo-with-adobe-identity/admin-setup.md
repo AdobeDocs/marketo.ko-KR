@@ -2,9 +2,9 @@
 description: 관리 설정 - Marketo 문서 - 제품 설명서
 title: 관리 설정
 exl-id: e753f61a-b2ad-4b2e-94e7-d7a391f030d8
-source-git-commit: 7eff888c0fdebf31da4706f70d1e99e8327807ca
+source-git-commit: 093d043a0ac368e326c9f7fd05b7098da6274414
 workflow-type: tm+mt
-source-wordcount: '219'
+source-wordcount: '0'
 ht-degree: 0%
 
 ---
@@ -13,13 +13,13 @@ ht-degree: 0%
 
 Adobe 시스템 관리자로 추가되어 Adobe 조직에서 Marketo Engage을 하게 되면 초기 설정을 완료하기 위해 몇 가지 단계를 수행해야 합니다.
 
-## 시스템 관리자 설정 {#system-admin-setup}
+## 초기 설정 {#initial-setup}
 
 1. Marketo Engage을 위한 지정된 시스템 관리자로 추가되면(신규 또는 설정된 조직) 환영 이메일을 받게 됩니다. 해당 이메일에서 **시작하기**.
 
    ![](assets/admin-setup-1.png)
 
-1. 이전에 Adobe ID을 사용하여 애플리케이션에 액세스한 적이 있는 경우 Adobe Admin Console으로 바로 이동합니다. 그렇지 않으면, [Adobe ID 설정](https://helpx.adobe.com/manage-account/using/create-update-adobe-id.html).
+1. 이전에 Adobe ID을 사용하여 애플리케이션에 액세스한 적이 있는 경우 Adobe Admin Console으로 바로 이동합니다. 그렇지 않으면, [Adobe ID 설정](https://helpx.adobe.com/manage-account/using/create-update-adobe-id.html){target=&quot;_blank&quot;}.
 
    ![](assets/admin-setup-2.png)
 
@@ -53,4 +53,4 @@ Adobe 시스템 관리자로 추가되어 Adobe 조직에서 Marketo Engage을 �
 
 >[!MORELIKETHIS]
 >
->[제품 관리자 추가 또는 제거](/help/marketo/product-docs/administration/marketo-with-adobe-identity/add-or-remove-a-product-admin.md)
+>[제품 관리자 추가 또는 제거](/help/marketo/product-docs/administration/marketo-with-adobe-identity/add-or-remove-a-product-admin.md){target=&quot;_blank&quot;}
