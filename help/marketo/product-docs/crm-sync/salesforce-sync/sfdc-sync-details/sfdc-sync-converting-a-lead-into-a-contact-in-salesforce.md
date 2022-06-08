@@ -1,31 +1,30 @@
 ---
 unique-page-id: 2953465
-description: SFDC 동기화 - Salesforce에서 리드를 연락처로 변환 - Marketo Docs - 제품 설명서
+description: SFDC 동기화 - Salesforce에서 리드를 연락처로 변환 - Marketo 문서 - 제품 설명서
 title: SFDC 동기화 - Salesforce에서 리드를 연락처로 변환
 exl-id: 9c9dbe9a-80a6-4153-ac86-96f85025fe77
-translation-type: tm+mt
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+source-git-commit: e04e2d6932830535493c431de50d6cf9e2298fb1
 workflow-type: tm+mt
-source-wordcount: '158'
+source-wordcount: '0'
 ht-degree: 0%
 
 ---
 
-# SFDC 동기화:Salesforce에서 리드를 연락처로 변환 {#sfdc-sync-converting-a-lead-into-a-contact-in-salesforce}
+# SFDC 동기화: Salesforce에서 리드를 연락처로 변환 {#sfdc-sync-converting-a-lead-into-a-contact-in-salesforce}
 
-Salesforce의 3가지 시나리오를 가정해 보십시오.(Marketo에서 [사람 흐름 전환 단계](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/convert-person.md) 사용 안 함)
+Salesforce에서 세 가지 다른 시나리오를 상상하십시오. ( [개인 흐름 변환 단계](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/convert-person.md) Marketo)
 
-1. 리드를 **새 연락처 및 새 계정**&#x200B;으로 변환
-1. 리드를 **기존 계정**&#x200B;에서 **새 연락처**&#x200B;로 변환
+1. 리드를 로 변환 **새 연락처 및 새 계정**
+1. 리드를 로 변환 **새 연락처** 에서 **기존 계정**
 
-1. 리드를 **기존 계정**&#x200B;의 **기존 연락처**&#x200B;로 변환(이 작업은 [병합](/help/marketo/product-docs/crm-sync/salesforce-sync/sfdc-sync-details/sfdc-sync-merging-a-lead-contact-person.md)과 동일하게 작동합니다.)
+1. 리드를 로 변환 **기존 연락처** 에서 **기존 계정** (이 작업은 [병합](/help/marketo/product-docs/crm-sync/salesforce-sync/sfdc-sync-details/sfdc-sync-merging-a-lead-contact-person.md))
 
-세 경우 모두 **1 연락처와 Salesforce에 리드가 없고 1개의 연락처와 Marketo에 있는 사람이 없는 것으로 종료됩니다.**
+세 가지 경우 모두 **Salesforce에서는 1명의 연락처와 리드가 없으며, Marketo에는 1명의 연락처와 연락처가 없습니다.**
 
-Marketo에서 이제 레코드에 SFDC 유형 = 연락처가 있습니다.
+Marketo에서 이제 레코드에 SFDC 유형 = Contact가 있습니다.
 
 >[!TIP]
 >
->Salesforce에서 변환할 때 [리드 사용자 지정 필드가 제대로 매핑되었는지 확인합니다](https://help.salesforce.com/apex/HTViewHelpDoc?id=customize_mapleads.htm). 데이터를 손실하지 마십시오.
+>Salesforce에서 변환할 때 [리드 사용자 지정 필드가 잘 매핑됩니다](https://help.salesforce.com/apex/HTViewHelpDoc?id=customize_mapleads.htm). 데이터를 손실하지 않아도 됩니다.
 
-다음을 사용하여 트리거하고 필터링할 수 있습니다.&quot;리드가 전환됨&quot; 및 &quot;리드가 전환됨&quot;
+다음을 사용하여 트리거하고 필터링할 수 있습니다. &quot;리드가 전환됨&quot; 및 &quot;리드가 전환됨&quot;
