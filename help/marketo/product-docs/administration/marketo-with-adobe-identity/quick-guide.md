@@ -2,9 +2,9 @@
 description: 빠른 안내서 - Marketo 문서 - 제품 설명서
 title: 빠른 안내서
 exl-id: eb854ec8-fabb-477d-977b-9dc7e7d9f24f
-source-git-commit: 4dbf9afa79533034c040fa6fe9756e0fa7c0fbcd
+source-git-commit: 37459d7e72a5719d1b963922071456aff5c3d120
 workflow-type: tm+mt
-source-wordcount: '130'
+source-wordcount: '0'
 ht-degree: 0%
 
 ---
@@ -13,11 +13,9 @@ ht-degree: 0%
 
 아래 나열된 문서는 Adobe Identity Management을 사용하여 Marketo Engage을 설정하고 학습하는 데 도움이 됩니다.
 
-## 시스템 관리자 {#system-admin}
+## 시스템 관리자 설정 {#system-admin-setup}
 
 제품 프로필 및 제품 관리자 만들기.
-
-[시스템 관리자 액세스](/help/marketo/product-docs/administration/marketo-with-adobe-identity/admin-setup.md#system-admin-setup){target=&quot;_blank&quot;}
 
 [제품 프로필 만들기](/help/marketo/product-docs/administration/marketo-with-adobe-identity/admin-setup.md#create-a-product-profile){target=&quot;_blank&quot;}
 
