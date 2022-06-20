@@ -3,9 +3,9 @@ unique-page-id: 12980733
 description: Marketo 용어집 - Marketo 문서 - 제품 설명서
 title: Marketo 용어
 exl-id: c387b880-708c-439c-99c3-46eb5ccb4536
-source-git-commit: 3559dff22a294545440790c712e80b853340b66d
+source-git-commit: 164669e6649927e570974af227c2b1af75ad73d3
 workflow-type: tm+mt
-source-wordcount: '4196'
+source-wordcount: '4203'
 ht-degree: 0%
 
 ---
@@ -28,19 +28,15 @@ ht-degree: 0%
   </tr> 
   <tr> 
    <td colspan="1"><strong>계정</strong></td> 
-   <td colspan="1">이 용어는 다른 의미를 가질 수 있습니다.<br>-Marketo 인스턴스 자체를 Marketo 계정이라고 할 수 있습니다.<br>-In <strong>ABM</strong>, <strong>명명 계정</strong> 는 사용자가 추구하려는 타겟 계정을 결정한 계정입니다.<br>-ABM에서 CRM 계정은 연결된 계정에서 매핑됩니다 <strong>CRM</strong> (계정) <strong>Salesforce</strong>, <strong>MS Dynamics</strong> 또는 <strong>API</strong>).<br>-CRM에서 계정은 리드 및 연락처가 연결된 비즈니스/회사입니다.</td> 
-  </tr> 
-  <tr> 
-   <td colspan="1"><strong><a href="/help/marketo/product-docs/target-account-management/setup-tam/target-account-management-overview.md" rel="nofollow">계정 기반 마케팅</a> (ABM)</strong></td> 
-   <td colspan="1">고도로 조정된 방식으로 주요 계정을 타깃팅하고 참여시킬 수 있는 추가 기능.</td> 
+   <td colspan="1">이 용어는 다른 의미를 가질 수 있습니다.<br>-Marketo 인스턴스 자체를 Marketo 계정이라고 할 수 있습니다.<br>-In <strong>TAM</strong>, <strong>명명 계정</strong> 는 사용자가 추구하려는 타겟 계정을 결정한 계정입니다.<br>-TAM에서 CRM 계정은 연결된 계정에서 매핑됩니다 <strong>CRM</strong> (계정) <strong>Salesforce</strong>, <strong>MS Dynamics</strong> 또는 <strong>API</strong>).<br>-CRM에서 계정은 리드 및 연락처가 연결된 비즈니스/회사입니다.</td> 
   </tr> 
   <tr> 
    <td><strong>계정 목록</strong></td> 
-   <td>주요 계정/조직 이름 목록입니다. Account-Based Marketing(<strong>ABM</strong>) 목록에 포함될 수도 있습니다.</td> 
+   <td>주요 계정/조직 이름 목록입니다. Target 계정 관리라고도 합니다(<strong>TAM</strong>) 목록에 포함될 수도 있습니다.</td> 
   </tr> 
   <tr> 
    <td colspan="1"><strong>계정 프로파일링</strong></td> 
-   <td colspan="1">(이전 AccountAI) In <strong>ABM</strong>, ICP(Idea Customer Profile)를 사용하면 데이터베이스의 기존 회사에 등급이 매겨지고, 순위가 계정의 점수로 추가됩니다.</td> 
+   <td colspan="1">(이전 AccountAI) In <strong>TAM</strong>, ICP(Idea Customer Profile)를 사용하면 데이터베이스의 기존 회사에 등급이 매겨지고, 순위가 계정의 점수로 추가됩니다.</td> 
   </tr> 
   <tr> 
    <td colspan="1"><strong><a href="/help/marketo/product-docs/target-account-management/setup-tam/account-score.md" rel="nofollow">계정 점수</a></strong></td> 
@@ -574,7 +570,7 @@ ht-degree: 0%
  <tbody> 
   <tr> 
    <td><strong>명명 계정</strong></td> 
-   <td><p>in <strong>ABM</strong>인 경우 사용자가 결정한 계정은 추적하려는 타겟 계정입니다.</p></td> 
+   <td><p>in <strong>TAM</strong>인 경우 사용자가 결정한 계정은 추적하려는 타겟 계정입니다.</p></td> 
   </tr> 
   <tr> 
    <td><strong>교육 프로그램</strong></td> 
@@ -647,7 +643,7 @@ ht-degree: 0%
   </tr> 
   <tr> 
    <td colspan="1"><a href="/help/marketo/product-docs/target-account-management/using-personas.md" rel="nofollow"><strong>페르소나</strong></a></td> 
-   <td colspan="1">Marketo의 <strong>계정 기반 마케팅</strong>, 가상 사용자는 대상의 하위 집합으로서, 보다 구체적인 타깃팅을 허용할 수 있습니다.</td> 
+   <td colspan="1">Marketo의 <strong>Target 계정 관리</strong>, 가상 사용자는 대상의 하위 집합으로서, 보다 구체적인 타깃팅을 허용할 수 있습니다.</td> 
   </tr> 
   <tr> 
    <td colspan="1"><a href="/help/marketo/product-docs/demand-generation/social/creating-a-poll/create-a-poll.md" rel="nofollow"><strong>여론 조사</strong></a></td> 
@@ -807,7 +803,11 @@ ht-degree: 0%
   <tr> 
    <td><strong><a href="/help/marketo/product-docs/core-marketo-concepts/programs/working-with-programs/understanding-tags.md" rel="nofollow">태그</a></strong></td> 
    <td>를 설명하는 데 사용되는 식별자 <strong>프로그램</strong>.</td> 
-  </tr> 
+  </tr>
+  <tr> 
+   <td colspan="1"><strong><a href="/help/marketo/product-docs/target-account-management/setup-tam/target-account-management-overview.md" rel="nofollow">Target 계정 관리</a> (TAM)</strong></td> 
+   <td colspan="1">(이전 계정 기반 마케팅/ABM) 주요 계정을 고도로 조정된 방식으로 타겟팅하고 참여시킬 수 있는 추가 기능.</td> 
+  </tr>
   <tr> 
    <td><strong>템플릿</strong></td> 
    <td>An <strong>이메일</strong> 또는 <strong>랜딩 페이지</strong> 추가적인 이메일 또는 랜딩 페이지를 만드는 시작점으로 사용됩니다.</td> 
