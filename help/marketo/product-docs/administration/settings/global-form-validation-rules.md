@@ -2,7 +2,7 @@
 description: 글로벌 양식 유효성 검사 규칙 - Marketo 문서 - 제품 설명서
 title: 글로벌 양식 유효성 검사 규칙
 exl-id: a44db893-00b5-40d2-8be3-41d52b2fd7b5
-source-git-commit: 7749bd1fec7a7c1974efdb8de046eed4f34aefc4
+source-git-commit: c91fa08bcb833a4c8a65055fd2471d7bc03a4e71
 workflow-type: tm+mt
 source-wordcount: '268'
 ht-degree: 0%
@@ -73,7 +73,7 @@ ht-degree: 0%
 
 ## 양식당 액세스를 비활성화하는 방법{#how-to-disable-access-per-form}
 
-규칙이 활성화되면 모든 양식에 적용됩니다. 그러나 특정 요구 사항이 있는 양식이 있고 어떤 것도 거부되지 않으려는 경우 양식의 설정에서 전역 양식 유효성 검사 규칙을 비활성화할 수 있습니다.
+규칙이 활성화되면 모든 양식에 적용됩니다. 그러나 특정 요구 사항이 있는 양식이 있고 어떤 것도 거부되지 않으려면 양식의 설정에서 전역 양식 유효성 검사 규칙을 비활성화할 수 있습니다.
 
 1. 원하는 양식에서 을 클릭합니다 **양식 설정**, 그런 다음 **설정**.
 
