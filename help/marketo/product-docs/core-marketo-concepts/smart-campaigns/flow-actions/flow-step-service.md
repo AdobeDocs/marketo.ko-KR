@@ -2,24 +2,16 @@
 description: 흐름 단계 서비스 - Marketo 문서 - 제품 설명서
 title: 흐름 단계 서비스
 exl-id: 81367562-8b27-4ec5-8a9b-b02083a2e999
-source-git-commit: a24b0de6493d4849723099d6164fafb73ef7c926
+source-git-commit: 5d95a77e5c836bf76d82f0db72781727b2743720
 workflow-type: tm+mt
-source-wordcount: '1292'
+source-wordcount: '1243'
 ht-degree: 0%
 
 ---
 
 # 흐름 단계 서비스 {#flow-step-service}
 
->[!NOTE]
->
->셀프서비스 흐름 단계는 현재 Open Beta에 있습니다. 관리 > Treasure Chrome 메뉴에서 구독 권한을 설정할 수 있습니다.
-
 셀프 서비스 흐름 단계는 Adobe Marketo Engage Smart Campaign에 웹 서비스를 제작, 게시 및 통합하는 프레임워크 및 기능 세트입니다. 이 안내서는 이미 작성 및 게시된 서비스를 설치 및 사용하려는 Marketo Engage 최종 사용자를 위한 것입니다. 자체 서비스를 제작 및 게시하는 방법에 대한 자세한 내용은 [서비스 공급자 인터페이스의 GitHub 리포지토리](https://github.com/adobe/Marketo-SSFS-Service-Provider-Interface){target=&quot;_blank&quot;}. 개념 증명 조회 테이블 구현을 찾을 수 있습니다 [여기](https://github.com/adobe/mkto-flow-lookup){target=&quot;_blank&quot;}.
-
-## 사전 릴리스 제한 및 경고 {#pre-release-restrictions-and-warnings}
-
-이 기능은 현재 공개 베타에 있으며, 서비스가 완전히 테스트될 때까지 Marketo Engage의 샌드박스 인스턴스에서만 사용해야 합니다.
 
 ## 온보딩 및 관리 서비스 {#onboarding-and-managing-services}
 
