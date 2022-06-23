@@ -2,9 +2,9 @@
 description: 전환 스위치 - Marketo 문서 - 제품 설명서
 title: 스위치 전환
 exl-id: bb519314-bddf-4184-8585-22ed1fe85f9a
-source-git-commit: 13b3548580d29a0e93958ebac9be39435769121c
+source-git-commit: 917b74a9175707b9475a5d07eb116cde738f6f13
 workflow-type: tm+mt
-source-wordcount: '354'
+source-wordcount: '422'
 ht-degree: 0%
 
 ---
@@ -53,7 +53,7 @@ ht-degree: 0%
 
 ![](assets/toggle-switch-7.png)
 
-## 랜딩 페이지 세부 정보 페이지 {#landing-page-details-page}
+## 랜딩 페이지 세부 사항 보기 {#landing-page-details-view}
 
 1. Marketo에서 랜딩 페이지를 찾아서 선택합니다.
 
@@ -117,14 +117,48 @@ ht-degree: 0%
 
 ![](assets/toggle-switch-21.png)
 
+## 전자 메일 세부 사항 보기 {#email-details-view}
+
+1. Marketo에서 이메일을 찾아 선택합니다.
+
+   ![](assets/toggle-switch-22.png)
+
+1. 페이지 오른쪽 아래에서 **새 경험** 토글.
+
+   ![](assets/toggle-switch-23.png)
+
+새 경험이 로드됩니다.
+
+![](assets/toggle-switch-24.png)
+
+## 전자 메일 목록 보기 {#email-list-view}
+
+차세대 이메일 목록 보기는 검색 필터와 대량 이메일 작업을 수행하는 기능을 제공합니다.
+
+1. Marketo에서 **Design Studio**.
+
+   ![](assets/toggle-switch-25.png)
+
+1. 선택 **이메일**.
+
+   ![](assets/toggle-switch-26.png)
+
+1. 페이지 오른쪽 아래에서 **새 경험** 토글.
+
+   ![](assets/toggle-switch-27.png)
+
+새 경험이 로드됩니다.
+
+![](assets/toggle-switch-28.png)
+
 ## 모든 기능에 대해 활성화 {#enable-for-all-features}
 
 사용 가능한 모든 기능, 현재 및 제공 상태에 대해 Marketo의 차세대 인터페이스를 수동으로 활성화하는 옵션이 있습니다.
 
 1. 현재 전환 스위치가 있는 영역에서(이 예에서는) [양식 세부 사항 페이지](#form-details-page))의 경우 페이지 오른쪽 하단에 있는 톱니바퀴 아이콘을 클릭합니다.
 
-   ![](assets/toggle-switch-22.png)
+   ![](assets/toggle-switch-second-last.png)
 
 1. 선택 **사용 가능한 모든 기능에 대해 활성화** 을(를) 클릭합니다. **확인**.
 
-   ![](assets/toggle-switch-23.png)
+   ![](assets/toggle-switch-last.png)
