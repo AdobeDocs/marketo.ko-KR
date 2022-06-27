@@ -3,7 +3,7 @@ unique-page-id: 2360360
 description: 웹 후크 만들기 - Marketo 문서 - 제품 설명서
 title: 웹 후크 만들기
 exl-id: 3e753d2d-6f33-4987-884e-8e13167cf3df
-source-git-commit: 6f17d79344653d1b2c364753d774998e343c9808
+source-git-commit: 25a574719eb6c064d33b6a1cebafe2668ed1330d
 workflow-type: tm+mt
 source-wordcount: '209'
 ht-degree: 0%
@@ -42,7 +42,7 @@ ht-degree: 0%
 
    * **응답 유형**: 서비스에서 받은 응답 형식(**JSON** 또는 **XML**).
 
-   * **요청 유형**: 사용할 HTTP 메서드(DELETE, GET, PATCH, POST, PUT)을 선택합니다
+   * **요청 유형**: 사용할 HTTP 메서드(DELETE, GET, PATCH, POST, PUT)을 선택합니다.
 
    클릭 **만들기**.
 
