@@ -2,7 +2,7 @@
 title: Marketo 제품 문서
 description: Marketo 제품 문서
 exl-id: 4b97fe25-ce4d-446c-8b23-2566769f35ee
-source-git-commit: 90d1f0be4127f4543790dc8c4d7a7d141d461ee7
+source-git-commit: a28532c5fb68381da14844c9fd564a4c70476028
 workflow-type: tm+mt
 source-wordcount: '52'
 ht-degree: 0%
@@ -16,11 +16,8 @@ ht-degree: 0%
 ## 시작하기
 
 * [설정 단계](/help/marketo/getting-started/setup-steps.md)
-
 * [설정 및 개인 추가](/help/marketo/getting-started/quick-wins/get-set-up-and-add-a-person.md)
-
 * [Marketo에 대한 프로토콜 구성](/help/marketo/getting-started/setup-steps/configure-protocols-for-marketo.md)
-
 * [Marketo 용어](/help/marketo/getting-started/marketo-glossary.md)
 
 ## 인기 있는 문서
