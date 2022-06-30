@@ -3,16 +3,16 @@ unique-page-id: 4720476
 description: 클래식 아이콘 용어집 - Marketo 문서 - 제품 설명서
 title: 클래식 아이콘 용어집
 exl-id: 478f9d91-07bf-46b6-927f-b020653a2fcb
-source-git-commit: b76fbbafb96fc0d946dfd88d3dada9a0dccffbc4
+source-git-commit: 5f76c35490eba40bea39c66c8675860293041350
 workflow-type: tm+mt
-source-wordcount: '562'
-ht-degree: 0%
+source-wordcount: '564'
+ht-degree: 4%
 
 ---
 
 # 클래식 아이콘 용어집 {#classic-icon-glossary}
 
-아래는 Marketo Classic의 이전 아이콘입니다. 새 아이콘 용어집은 [여기](/help/marketo/product-docs/marketo-engage-next-generation-experience/icon-glossary.md)에 있을 수 있습니다.
+아래는 Marketo Classic의 이전 아이콘입니다. 새 아이콘 용어집은 [여기에서](/help/marketo/product-docs/marketo-engage-next-generation-experience/icon-glossary.md){target=&quot;_blank&quot;}.
 
 **일반 아이콘**
 
@@ -66,7 +66,7 @@ ht-degree: 0%
     <div> 
      <img alt="—" width="25" src="assets/share-from.png"> 
     </div></td> 
-   <td colspan="1">다른 작업 공간 <br>에서 공유된 대상 폴더(자물쇠는 편집할 수 없음을 나타냅니다.)</td> 
+   <td colspan="1">다른 작업 공간에서 공유된 대상 폴더 <br>(자물쇠는 편집할 수 없음을 나타냅니다.)</td> 
   </tr> 
   <tr> 
    <td> 
@@ -501,7 +501,7 @@ ht-degree: 0%
     <div> 
      <img src="assets/image2015-1-9-14-3a45-3a45.png"> 
     </div></td> 
-   <td>미리 보기</td> 
+   <td>미리보기</td> 
   </tr> 
   <tr> 
    <td> 
@@ -543,7 +543,7 @@ ht-degree: 0%
     <div> 
      <img src="assets/image2015-1-9-14-3a55-3a51.png"> 
     </div></td> 
-   <td>미리 보기</td> 
+   <td>미리보기</td> 
   </tr> 
   <tr> 
    <td> 
@@ -585,7 +585,7 @@ ht-degree: 0%
     <div> 
      <img src="assets/image2015-1-9-15-3a17-3a24.png"> 
     </div></td> 
-   <td>미리 보기</td> 
+   <td>미리보기</td> 
   </tr> 
   <tr> 
    <td> 
@@ -662,7 +662,7 @@ ht-degree: 0%
     <div> 
      <img src="assets/image2015-1-14-13-3a3-3a56.png"> 
     </div></td> 
-   <td colspan="1">미리 보기</td> 
+   <td colspan="1">미리보기</td> 
   </tr> 
   <tr> 
    <td colspan="1"> 
@@ -708,7 +708,7 @@ ht-degree: 0%
     <div> 
      <img src="assets/image2015-1-12-10-3a56-3a42.png"> 
     </div></td> 
-   <td>미리 보기</td> 
+   <td>미리보기</td> 
   </tr> 
   <tr> 
    <td> 
