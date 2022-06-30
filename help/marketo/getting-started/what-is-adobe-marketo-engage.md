@@ -3,16 +3,16 @@ unique-page-id: 2949467
 description: Adobe Marketo Engage 소개 - Marketo 문서 - 제품 설명서
 title: Adobe Marketo Engage 소개
 exl-id: 7b76e910-6c01-4fdb-8ab8-f6b1abe13136
-source-git-commit: da8b6723589e1478bfa3dc69d74d27cddf1311c7
+source-git-commit: 0da33dfa840dd1e5a5618fcd762b482f7a2e0789
 workflow-type: tm+mt
-source-wordcount: '228'
+source-wordcount: '232'
 ht-degree: 0%
 
 ---
 
 # Adobe Marketo Engage 소개 {#what-is-adobe-marketo-engage}
 
-Adobe Marketo Engage(경우에 따라 Marketo Engage 또는 Marketo라고도 함)는 마케팅 자동화 소프트웨어입니다. 마케팅 자동화를 통해 마케팅 작업 및 워크플로우를 간소화, 자동화 및 측정할 수 있으므로 운영 효율성을 높이고 매출을 보다 빠르게 늘릴 수 있습니다.
+Adobe Marketo Engage(Marketo Engage 또는 Marketo라고도 함)는 마케팅 자동화 소프트웨어입니다. 마케팅 자동화를 통해 마케팅 작업 및 워크플로우를 간소화, 자동화 및 측정할 수 있으므로 운영 효율성을 높이고 매출을 보다 빠르게 늘릴 수 있습니다.
 
 ## Marketo Engage에서 무엇을 수행할 수 있습니까? {#what-can-i-do-in-marketo-engage}
 
@@ -43,10 +43,10 @@ Marketo Engage에는 마케팅 목표를 달성하는 데 도움이 되는 많�
 
 ## 설정을 수행해야 합니까? {#do-i-need-to-do-any-setup}
 
-예, 수행할 작업의 [검사 목록을 만들었습니다](/help/marketo/getting-started/setup-steps/setup-checklist.md).
+네, 우리는 [수행할 작업의 검사 목록](/help/marketo/getting-started/setup-steps/setup-checklist.md){target=&quot;_blank&quot;}.
 
 ## 설치가 완료될 때까지 기다려야 합니까? {#do-i-have-to-wait-until-setup-is-finished-to-learn}
 
-아니! 우리는 많은 간단한 자습서를 만들었습니다. [여기에서 시작하십시오](/help/marketo/getting-started/quick-wins/get-set-up-and-add-a-person.md). 한 시간 정도 걸릴 겁니다 언제든지 시작할 수 있습니다.
+아니! 우리는 많은 간단한 자습서를 만들었습니다. [여기에서 시작](/help/marketo/getting-started/quick-wins/get-set-up-and-add-a-person.md){target=&quot;_blank&quot;}. 한 시간 정도 걸릴 겁니다 언제든지 시작할 수 있습니다.
 
 Marketo Engage 시작! 당신이 여기 와서 기뻐요

@@ -3,9 +3,9 @@ unique-page-id: 4720433
 description: Marketo에 대한 프로토콜 구성 - Marketo 문서 - 제품 설명서
 title: Marketo에 대한 프로토콜 구성
 exl-id: cf2fd4ac-9229-4e52-bb68-5732b44920ef
-source-git-commit: 56f429dabf19c4425c68b0dcd745621681a038ae
+source-git-commit: 0da33dfa840dd1e5a5618fcd762b482f7a2e0789
 workflow-type: tm+mt
-source-wordcount: '1018'
+source-wordcount: '1020'
 ht-degree: 1%
 
 ---
@@ -99,7 +99,7 @@ DNS 레코드로 보내는 랜딩 페이지 CNAME을 추가하여 `[YourLandingP
 
    `[DKIMDomain2]`: 호스트 레코드: `[HostRecord2]` 및 TXT 값 `[TXTValue2]`.
 
-   다음에 설정한 각 DKIDomain에 대한 HostRecord 및 TXTValue를 복사합니다. [지침](/help/marketo/product-docs/email-marketing/deliverability/set-up-a-custom-dkim-signature.md). IT 직원이 이 단계를 완료한 후 관리 > 이메일 > DKIM에서 각 도메인을 확인하는 것을 잊지 마십시오.
+   다음에 설정한 각 DKIDomain에 대한 HostRecord 및 TXTValue를 복사합니다. [지침](/help/marketo/product-docs/email-marketing/deliverability/set-up-a-custom-dkim-signature.md){target=&quot;_blank&quot;}. IT 직원이 이 단계를 완료한 후 관리 > 이메일 > DKIM에서 각 도메인을 확인하는 것을 잊지 마십시오.
 
 ## 4단계: 도메인에 대한 MX 레코드 설정 {#step-set-up-mx-records-for-your-domain}
 

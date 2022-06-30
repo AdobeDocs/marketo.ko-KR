@@ -1,30 +1,27 @@
 ---
 unique-page-id: 7516605
-description: 체크 오프 항목 - Marketo 문서 - 제품 설명서
+description: 확인할 항목 - Marketo 문서 - 제품 설명서
 title: 체크 오프 항목
 exl-id: fd20fbcf-3690-41da-94fa-b40f32a0b251
-translation-type: tm+mt
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+source-git-commit: 0da33dfa840dd1e5a5618fcd762b482f7a2e0789
 workflow-type: tm+mt
-source-wordcount: '149'
+source-wordcount: '161'
 ht-degree: 0%
 
 ---
 
-# {#items-to-check-off} 체크 오프 항목
+# 체크 오프 항목 {#items-to-check-off}
 
-![](assets/life-preserver.jpg)
+올바른 종류의 액세스 및 정보를 사용하여 올바로 설정되었는지 확인하십시오. 할 일 목록에서 즉시 몇 가지 사항을 확인할 수 있도록 이러한 간단한 단계를 수행하십시오.
 
-올바른 유형의 액세스 및 정보를 올바르게 설정했는지 확인하십시오. 할 일 목록에서 바로 확인할 수 있도록 간단한 단계를 수행합니다.
+* 에 대한 간단한 개요 보기 [**Marketo 기능**](https://pages2.marketo.com/demoFull.html){target=&quot;_blank&quot;}.
 
-* [**Marketo 작업**](https://pages2.marketo.com/demoFull.html)에 대한 간단한 개요를 보십시오.
+* **프로필 설정** 에서 [**마케팅 국가**](https://nation.marketo.com/){target=&quot;_blank&quot;} 커뮤니티(사용자 이름 및 암호 필요)
 
-* **Marketing Nationwide** 에서 프로필 [**을 설정합니다(사용자**](https://nation.marketo.com/) 이름 및 암호 필요).
+* 에 참여하는 방법 알아보기 [**마케팅 국가**](https://nation.marketo.com/t5/About-Community/ct-p/about-community){target=&quot;_blank&quot;} 커뮤니티에서 질문에 대한 답변을 얻을 수 있습니다.
 
-* 질문에 대한 답변을 얻기 위해 [**마케팅 국가**](https://nation.marketo.com/t5/About-Community/ct-p/about-community) 커뮤니티에 참여하는 방법을 알아봅니다.
+* 클릭 **사용자 위치** ( Marketo Nation 커뮤니티 프로필에서 회사의 계정 페이지를 체크아웃합니다.)
 
-* Marketo 국가 커뮤니티 프로필에서 **위치**&#x200B;를 클릭하여 회사의 계정 페이지를 확인합니다.
+* 방법 알아보기 [**지원 사례 제출**](https://nation.marketo.com/t5/Knowledgebase/Submitting-a-Support-Case-to-Marketo-Support/ta-p/252201){target=&quot;_blank&quot;}(및 확인) [**공인 지원 담당자로 설정**](https://nation.marketo.com/t5/Knowledgebase/Managing-Authorized-Support-Contacts/ta-p/254341){target=&quot;_blank&quot;}).
 
-* [**지원 사례**](https://nation.marketo.com/t5/Knowledgebase/Submitting-a-Support-Case-to-Marketo-Support/ta-p/252201)를 제출하는 방법에 대해 학습하고 [**인증된 지원 연락처**](https://nation.marketo.com/t5/Knowledgebase/Managing-Authorized-Support-Contacts/ta-p/254341)로 설정되어 있는지 확인합니다.
-
-* [**사용자**](/help/marketo/product-docs/administration/users-and-roles/managing-marketo-users.md) 를 관리하고 회사를 떠난 사용자를 삭제합니다.
+* [**사용자 관리**](/help/marketo/product-docs/administration/users-and-roles/managing-marketo-users.md){target=&quot;_blank&quot;} 하고 회사를 떠난 사용자를 삭제합니다.

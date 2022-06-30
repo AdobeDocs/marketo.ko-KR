@@ -1,69 +1,68 @@
 ---
 unique-page-id: 2359424
-description: 영업 담당자 - Marketo 문서 - 제품 문서에 알림
-title: 영업 담당자에게 알림
+description: 영업 담당자 - Marketo 문서 - 제품 설명서에 경고
+title: 영업 담당자에게 경고
 exl-id: 4ad7d7b8-ee1e-4605-b4e0-e72a7e573c05
-translation-type: tm+mt
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+source-git-commit: 0da33dfa840dd1e5a5618fcd762b482f7a2e0789
 workflow-type: tm+mt
-source-wordcount: '401'
+source-wordcount: '405'
 ht-degree: 0%
 
 ---
 
-# 영업 담당자 {#alert-the-sales-rep} 알림
+# 영업 담당자에게 경고 {#alert-the-sales-rep}
 
-## 임무:사용자가 웹 사이트 {#mission-alert-the-sales-rep-when-a-person-fills-out-a-form-on-your-web-site}에서 양식을 작성할 때 영업 담당자에게 알림
+## 임무: 사용자가 웹 사이트에서 양식을 작성하면 영업 담당자에게 알립니다 {#mission-alert-the-sales-rep-when-a-person-fills-out-a-form-on-your-web-site}
 
-세일즈 담당자에게 경고 이메일을 자동으로 보내려면 알림 이메일과 이메일 캠페인만 있으면 됩니다. 방법
+영업 담당자에게 경고 이메일을 자동으로 보내려면 경고 이메일과 이메일 캠페인이 필요합니다. 어떻게 하는지 알려드리겠습니다.
 
 >[!PREREQUISITES]
 >
->[양식이 있는 랜딩 페이지](/help/marketo/getting-started/quick-wins/landing-page-with-a-form.md)
+>[양식이 있는 랜딩 페이지](/help/marketo/getting-started/quick-wins/landing-page-with-a-form.md){target=&quot;_blank&quot;}
 
-## 1단계:경고 이메일 {#step-create-an-alert-email} 만들기
+## 1단계: 경고 이메일 만들기 {#step-create-an-alert-email}
 
-1. **마케팅 활동** 영역으로 이동합니다.
+1. 로 이동합니다. **마케팅 활동** 영역.
 
    ![](assets/one-5.png)
 
-1. **양식](/help/marketo/getting-started/quick-wins/landing-page-with-a-form.md) 빠른 승산이 있는 [랜딩 페이지에서 만든**&#x200B;내 프로그램&#x200B;**을 선택한 다음**&#x200B;새로 만들기&#x200B;**새 로컬 자산**&#x200B;을 클릭합니다.
+1. 선택 **내 프로그램** 여기서 생성한 [양식이 있는 랜딩 페이지](/help/marketo/getting-started/quick-wins/landing-page-with-a-form.md){target=&quot;_blank&quot;} 빠른 우승 후 아래 **새로 만들기** click **새 로컬 자산**.
 
    ![](assets/two-6.png)
 
-1. **이메일**&#x200B;을 클릭합니다.
+1. 클릭 **이메일**.
 
    ![](assets/three-5.png)
 
-1. **이메일** &quot;My Email Alert&quot;의 이름을 지정하고 템플릿을 선택하고 [만들기]를  **클릭합니다**.
+1. **이름** 이메일 &quot;내 이메일 경고&quot;에서 템플릿을 선택하고 **만들기**.
 
    ![](assets/four-4.png)
 
-1. 영업 팀이 볼 **보낸 사람 이름**, **이메일**, **회신** 및 **제목**&#x200B;을 입력합니다.
+1. 을(를) 입력합니다. **이름**, **이메일에서**, **회신**, 및 **제목** 영업 팀이 직접 보고 싶어합니다.
 
    ![](assets/five-5.png)
 
-1. 이메일 텍스트를 편집하려면 두 번 클릭합니다.
+1. 전자 메일 텍스트를 편집하려면 두 번 클릭합니다.
 
    ![](assets/six-5.png)
 
-1. 이메일 컨텐츠를 입력합니다.
+1. 이메일 콘텐츠를 입력합니다.
 
    ![](assets/seven-6.png)
 
-1. 사람의 연락처 정보를 삽입할 위치에 커서를 놓고 **토큰 삽입** 아이콘을 클릭합니다.
+1. 연락처 정보를 삽입할 위치에 커서를 놓고 **토큰 삽입** 아이콘.
 
    ![](assets/eight-4.png)
 
-1. `{{SP_Send_Alert_Info}}` **토큰**&#x200B;을 찾아 선택하고 **삽입**&#x200B;을 클릭합니다.
+1. 을(를) 찾아 선택합니다 `{{SP_Send_Alert_Info}}` **토큰** 을(를) 클릭합니다. **삽입**.
 
    ![](assets/image2014-9-24-13-3a10-3a0.png)
 
    >[!NOTE]
    >
-   >{{SP_Send_Alert_Info}}은(는) 경고 이메일에 대한 특수 토큰입니다. 자세한 내용은 [경고 정보 토큰 보내기](/help/marketo/product-docs/email-marketing/general/using-tokens/use-the-send-alert-info-token.md)를 참조하십시오.
+   >{{SP_Send_Alert_Info}} 는 경고 이메일에 대한 특수 토큰입니다. 자세한 내용은 [경고 정보 토큰 보내기 사용](/help/marketo/product-docs/email-marketing/general/using-tokens/use-the-send-alert-info-token.md)자세한 내용은 {target=&quot;_blank&quot;}{target=&quot;_blank&quot;} 를 참조하십시오.
 
-1. **저장**&#x200B;을 클릭합니다.
+1. 클릭 **저장**.
 
    ![](assets/ten-5.png)
 
@@ -71,76 +70,76 @@ ht-degree: 0%
 
    ![](assets/eleven-5.png)
 
-1. **전자 메일 작업** 아래에서 **승인**&#x200B;을 클릭합니다.
+1. 아래 **이메일 작업** click **승인**.
 
    ![](assets/twelve-4.png)
 
-## 2단계:경고 트리거 캠페인 만들기 {#step-create-an-alert-trigger-campaign}
+## 2단계: 경고 트리거 캠페인 만들기 {#step-create-an-alert-trigger-campaign}
 
-1. **이전에 만든 내 프로그램**&#x200B;을 선택한 다음 **새로 만들기** 아래에서 **새 스마트 캠페인**&#x200B;을 클릭합니다.
+1. 선택 **내 프로그램** 이전에 만든 후 **새로 만들기** click **새로운 스마트 캠페인**.
 
    ![](assets/image2014-9-24-13-3a14-3a17.png)
 
-1. **캠페인** 의 이름을 &quot;내 경고 캠페인&quot;으로 지정하고 만들기를  **클릭합니다**.
+1. **이름** 캠페인 &quot;내 경고 캠페인&quot;을 클릭하고 **만들기**.
 
    ![](assets/image2014-9-24-13-3a14-3a28.png)
 
-1. **스마트 목록** 탭에서 **양식 채우기** 트리거를 찾아 캔버스로 드래그합니다.
+1. 아래에 **Smart List** 탭에서 을(를) 찾아 드래그합니다. **양식 채우기** 캔버스에 트리거합니다.
 
    ![](assets/image2014-9-24-13-3a14-3a43.png)
 
-1. 이전에 만든 양식을 선택합니다.
+1. 앞에서 만든 양식을 선택합니다.
 
    ![](assets/image2014-9-24-13-3a14-3a58.png)
 
-1. **흐름** 탭에서 **경고 보내기** 흐름 작업을 캔버스로 찾아 드래그합니다.
+1. 아래에 **흐름** 탭에서 을(를) 찾아 드래그합니다. **경고 보내기** 캔버스로 이동 작업을 이동합니다.
 
    ![](assets/image2014-9-24-13-3a15-3a10.png)
 
-1. **내 경고 이메일**&#x200B;을 이전에 만들었으며 **Send To**&#x200B;을 **영업 소유자**&#x200B;로 두십시오.
+1. 선택 **내 경고 이메일** 일찍 작성 및 종료 **보내기** 로서의 **영업 소유자**.
 
    ![](assets/eighteen-1.png)
 
-1. **다른 이메일을 받는 사람** 필드에 이메일 주소를 입력합니다.
+1. 에 이메일 주소를 입력합니다 **다른 전자 메일로 보내기** 필드.
 
    ![](assets/nineteen-2.png)
 
-1. **예약** 탭으로 이동하여 **활성화** 단추를 클릭합니다.
+1. 로 이동합니다. **예약** 탭을 클릭하고 **활성화** 버튼을 클릭합니다.
 
    ![](assets/twenty-2.png)
 
    >[!TIP]
    >
-   >동일한 사람이 경고를 여러 번 트리거할 수 있도록 [스마트 캠페인 편집]을 사용하여 **자격 조건 규칙**&#x200B;을 항상 **로 설정합니다.**
+   >설정 **자격 규칙** to **항상** (Smart Campaign을 편집하여) 동일한 사람이 경고를 여러 번 트리거할 수 있도록 합니다.
 
-1. 확인 화면에서 **활성화**&#x200B;를 클릭합니다.
+1. 클릭 **활성화** 확인 화면에 표시됩니다.
 
    ![](assets/twenty-one-1.png)
 
-## 3단계:테스트해 보기!{#step-test-it-out}
+## 3단계: 테스트해 보십시오! {#step-test-it-out}
 
-1. 랜딩 페이지를 선택하고 **승인된 페이지 보기**&#x200B;를 클릭합니다.
+1. 랜딩 페이지를 선택하고 을(를) 클릭합니다. **승인된 페이지 보기**.
 
    ![](assets/image2014-9-24-13-3a17-3a8.png)
 
    >[!NOTE]
    >
-   >랜딩 페이지를 승인하는 것을 잊지 마십시오.승인될 때까지 라이브되지 않습니다.
+   >랜딩 페이지 승인 잊지 마십시오. 승인될 때까지 라이브로 전환되지 않습니다.
 
-1. 양식을 채우고 **제출**&#x200B;을 클릭합니다.
+1. 양식을 작성하고 **제출**.
 
    ![](assets/image2014-9-24-13-3a17-3a41.png)
 
-1. 곧 이메일을 받게 됩니다. 모든 것이 제대로 작동하는지 확인했으면 경고 보내기 흐름에서 이메일 주소를 제거합니다(위의 2.7단계 참조).
+1. 곧 이메일이 전송됩니다. 모든 것이 제대로 작동하는지 확인했으면 경고 보내기 흐름에서 이메일 주소를 제거합니다(위의 2.7단계 참조).
 
    >[!NOTE]
    >
-   >연락처 정보를 보려면 Marketo에서 **개인 정보** 탭을 클릭합니다.
+   >을(를) 클릭합니다. **개인 정보** 연락처 정보를 보려면 Marketo에서 탭을 클릭하십시오.
 
-## 임무 완료!{#mission-complete}
+## 임무 완료! {#mission-complete}
 
 <br> 
 
-[◄ 미션 7:이메일 개인화](personalize-an-email.md)
+[◄ 미션 7: 이메일 개인화](/help/marketo/getting-started/quick-wins/personalize-an-email.md)
 
-[임무 9:리드 데이터 업데이트 ►](update-person-data.md)
+[미션 9: 개인 데이터 업데이트 ►](/help/marketo/getting-started/quick-wins/update-person-data.md)

@@ -3,47 +3,46 @@ unique-page-id: 2359410
 description: 이메일 보내기 - Marketo 문서 - 제품 설명서
 title: 이메일 보내기
 exl-id: 1f80fc08-3587-41f0-9c51-2feea10dff0d
-translation-type: tm+mt
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+source-git-commit: 0da33dfa840dd1e5a5618fcd762b482f7a2e0789
 workflow-type: tm+mt
-source-wordcount: '399'
+source-wordcount: '410'
 ht-degree: 0%
 
 ---
 
-# 이메일 {#send-an-email} 보내기
+# 이메일 보내기 {#send-an-email}
 
-누구나 원하는 첫 번째 단계입니다. Marketo에서 이메일을 보내요!
+모두가 제일 먼저 하고 싶은 거야 Marketo에서 이메일을 보내요!
 
 >[!PREREQUISITES]
 >
->[설정 및 사람 추가](/help/marketo/getting-started/quick-wins/get-set-up-and-add-a-person.md)
+>[설정 및 개인 추가](/help/marketo/getting-started/quick-wins/get-set-up-and-add-a-person.md){target=&quot;_blank&quot;}
 
-## 이메일 프로그램 {#create-an-email-program} 만들기
+## 이메일 프로그램 만들기 {#create-an-email-program}
 
-1. **마케팅 활동** 영역으로 이동합니다.
+1. 로 이동합니다. **마케팅 활동** 영역.
 
    ![](assets/one-1.png)
 
-1. **학습** 폴더를 선택합니다. **새로 만들기** 드롭다운을 클릭하고 **새 프로그램**&#x200B;을 선택합니다.
+1. 을(를) 선택합니다 **학습** 폴더를 입력합니다. 을(를) 클릭합니다. **새로 만들기** 드롭다운 및 선택 **새 프로그램**.
 
    ![](assets/two-1.png)
 
-1. **이름**&#x200B;을 입력하고 **프로그램 유형에**&#x200B;이메일&#x200B;**을 선택합니다.**
+1. 을(를) 입력합니다. **이름** 을(를) 선택합니다. **이메일** 대상 **프로그램 유형.**
 
    >[!TIP]
    >
-   >프로그램 이름의 끝에 이니셜을 추가하여 고유하게 만드십시오.
+   >프로그램 이름의 끝에 이니셜을 추가하여 고유하게 만듭니다.
 
    ![](assets/three.png)
 
-1. **채널**&#x200B;에서 **이메일 보내기**&#x200B;를 선택하고 **만들기**&#x200B;를 클릭합니다.
+1. 아래 **채널**, 선택 **이메일 보내기** 을(를) 클릭합니다. **만들기**.
 
    ![](assets/image2015-3-2-16-3a25-3a18.png)
 
-## 대상 정의 {#define-your-audience}
+## 대상자 정의 {#define-your-audience}
 
-1. 대상 타일 아래에서 **스마트 목록 편집**&#x200B;을 클릭합니다.
+1. 클릭 **스마트 목록 편집** 아래에 표시됩니다.
 
    ![](assets/five.png)
 
@@ -53,7 +52,7 @@ ht-degree: 0%
 
    >[!TIP]
    >
-   >필터 목록 맨 위에 있는 **검색**&#x200B;을 사용하여 보다 쉽게 필터를 찾을 수 있습니다.
+   >사용 **검색** 필터 목록 맨 위에서 필터를 보다 쉽게 찾을 수 있습니다.
 
 1. 이메일 주소를 찾아 선택합니다.
 
@@ -61,25 +60,25 @@ ht-degree: 0%
 
    >[!NOTE]
    >
-   >이메일이 자동으로 채워지지 않으면 [설정 및 리드 추가를 잊어버렸을 수 있습니다.](/help/marketo/getting-started/quick-wins/get-set-up-and-add-a-person.md)
+   >이메일이 자동으로 채워지지 않는 경우 [설정하고 리드를 추가합니다.](/help/marketo/getting-started/quick-wins/get-set-up-and-add-a-person.md){target=&quot;_blank&quot;}
 
    >[!NOTE]
    >
-   >이 예에서는 자신에게만 이메일을 보내지만 대상에 맞게 사용자를 변경할 수 있습니다.
+   >이 예제에서는 이메일만 자신에게 전송하도록 하지만 대상자를 원하는 대로 사용자 지정할 수 있습니다.
 
-1. 기본 프로그램 탭으로 돌아가서 **Person**&#x200B;에 대한 새로 고침 아이콘을 클릭합니다.
+1. 기본 프로그램 탭으로 돌아가서 새로 고침 아이콘을 클릭합니다. **개인**.
 
    ![](assets/refresh-icon.png)
 
-   사람 카운트가 1까지 올라가는 것을 보셔야 합니다. 너구나!
+   사람 카운트가 1까지 올라가는 것을 볼 수 있습니다. 바로 당신이에요!
 
-## 이메일 {#create-an-email} 만들기
+## 이메일 만들기 {#create-an-email}
 
-1. 이메일 타일에서 **새 이메일**&#x200B;을 클릭합니다.
+1. 전자 메일 타일에서 를 클릭합니다. **새 이메일**.
 
    ![](assets/image2014-9-8-15-3a10-3a47.png)
 
-1. **이름**&#x200B;을 입력하고 **템플릿**&#x200B;을 선택하고 **만들기**&#x200B;를 클릭합니다.
+1. 을(를) 입력합니다. **이름**, 을 선택합니다. **템플릿**&#x200B;를 클릭하고 **만들기**.
 
    ![](assets/ten-1.png)
 
@@ -89,13 +88,13 @@ ht-degree: 0%
 
    >[!NOTE]
    >
-   >팝업 차단이 있는 경우 **초안 편집**&#x200B;을 클릭하여 이메일 편집기를 입력합니다.
+   >팝업 차단기가 있는 경우 **초안 편집** 이메일 편집기를 입력하려면 다음을 수행하십시오.
 
-1. 편집할 영역을 선택하고 오른쪽에 있는 톱니바퀴 아이콘을 클릭한 다음 **편집**&#x200B;을 선택합니다(편집할 편집 가능한 섹션을 두 번 클릭할 수도 있음).
+1. 편집할 영역을 선택하고 오른쪽에 있는 톱니바퀴 아이콘을 클릭한 다음, 을 선택합니다 **편집** 편집할 편집 가능한 섹션을 두 번 클릭할 수도 있습니다.
 
    ![](assets/twelve.png)
 
-1. 원하는 내용을 입력하고 **저장**&#x200B;을 클릭합니다.
+1. 원하는 콘텐츠를 입력하고 **저장**.
 
    ![](assets/thirteen.png)
 
@@ -103,19 +102,19 @@ ht-degree: 0%
 
    ![](assets/fourteen.png)
 
-1. **이메일 작업** 드롭다운을 클릭하고 **승인**&#x200B;을 선택합니다.
+1. 을(를) 클릭합니다. **이메일 작업** 드롭다운 및 선택 **승인**.
 
    ![](assets/fifteen.png)
 
    >[!TIP]
    >
-   >이메일을 실행하기 전에 간단한 샘플을 보내 이메일이 어떻게 표시되는지 확인하고자 하십니까? 위 메뉴에서 **샘플 보내기**&#x200B;를 선택하거나 **이메일 작업**&#x200B;을 클릭한 다음 [**샘플 보내기**](/help/marketo/product-docs/email-marketing/general/creating-an-email/send-a-sample-email.md)&#x200B;를 클릭합니다.
+   >실행하기 전에 이메일이 어떻게 보이는지 간단한 샘플을 보내시겠습니까? 선택 **샘플 보내기** 위의 메뉴에서 를 클릭하거나 **이메일 작업** 그런 다음 [**샘플 보내기**](/help/marketo/product-docs/email-marketing/general/creating-an-email/send-a-sample-email.md){target=&quot;_blank&quot;}.
 
 1. 왼쪽 트리에서 이메일 프로그램을 선택합니다.
 
    ![](assets/sixteen.png)
 
-1. 예약 타일에서 이메일의 시작 날짜를 **오늘.**
+1. 예약 타일에서 이메일의 실행 일을 (으)로 설정합니다. **오늘**
 
    ![](assets/image2014-9-8-15-3a13-3a11.png)
 
@@ -125,16 +124,18 @@ ht-degree: 0%
 
    >[!TIP]
    >
-   >기본 표준 시간대가 아닌 경우 [여기에서 업데이트하는 방법에 대해 알아봅니다](/help/marketo/product-docs/administration/settings/select-your-language-locale-and-time-zone.md).
+   >기본 시간대가 사용자의 시간대가 아닙니다? 방법 알아보기 [여기에서 업데이트합니다.](/help/marketo/product-docs/administration/settings/select-your-language-locale-and-time-zone.md){target=&quot;_blank&quot;}.
 
-1. 승인 타일 아래의 **프로그램 승인**&#x200B;을 클릭하면 완료됩니다!
+1. 클릭 **프로그램 승인** 승인 타일 아래의 작업을 완료하십시오!
 
    ![](assets/image2014-9-8-15-3a13-3a34.png)
 
-예약된 일/시간 바로 후에 이메일을 받게 됩니다.
+예약된 날짜/시간 직후에 이메일을 받게 됩니다.
+
+## 임무 완료! {#mission-complete}
 
 <br> 
 
-[◄ 설정 및 리드 추가](/help/marketo/getting-started/quick-wins/get-set-up-and-add-a-person.md)
+[◄ 설정 및 개인 추가](/help/marketo/getting-started/quick-wins/get-set-up-and-add-a-person.md)
 
-[양식이 있는 랜딩 페이지 ►](/help/marketo/getting-started/quick-wins/landing-page-with-a-form.md)
+[임무 2: 양식이 있는 랜딩 페이지 ►](/help/marketo/getting-started/quick-wins/landing-page-with-a-form.md)

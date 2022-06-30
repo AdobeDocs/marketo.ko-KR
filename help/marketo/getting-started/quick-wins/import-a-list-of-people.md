@@ -3,9 +3,9 @@ unique-page-id: 2359418
 description: 사람 목록 가져오기 - Marketo 문서 - 제품 설명서
 title: 사람 목록 가져오기
 exl-id: a85ec787-7b22-4666-84fd-d7bf23d32cd4
-source-git-commit: a3da3f466e6131fdd3507b7b567fac91ad9c5b6c
+source-git-commit: 0da33dfa840dd1e5a5618fcd762b482f7a2e0789
 workflow-type: tm+mt
-source-wordcount: '490'
+source-wordcount: '500'
 ht-degree: 0%
 
 ---
@@ -16,13 +16,13 @@ ht-degree: 0%
 
 >[!PREREQUISITES]
 >
->[설정 및 개인 추가](/help/marketo/getting-started/quick-wins/get-set-up-and-add-a-person.md)
+>[설정 및 개인 추가](/help/marketo/getting-started/quick-wins/get-set-up-and-add-a-person.md){target=&quot;_blank&quot;}
 
 이 자습서에서는 스프레드시트 파일에서 Marketo으로 사람을 가져오는 방법을 알아봅니다.
 
 ## 1단계: 스프레드시트 다운로드 및 편집 {#step-download-and-edit-a-spreadsheet}
 
-1. 시작하려면 연습 스프레드시트 파일([**tradeshow-attents.csv**](/help/marketo/getting-started/assets/tradeshow-attendees.csv))을 클릭하여 컴퓨터에 연결합니다.
+1. 시작하려면 연습 스프레드시트 파일([**tradeshow-attents.csv**](/help/marketo/getting-started/assets/tradeshow-attendees.csv){target=&quot;_blank&quot;})를 컴퓨터에 추가합니다.
 
    ![](assets/image2014-9-24-12-3a5-3a0.png)
 
@@ -62,7 +62,7 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->이벤트 프로그램은 특정 날짜에 발생합니다. 추가 정보 [**이벤트**](/help/marketo/product-docs/demand-generation/events/understanding-events/understanding-event-programs.md).
+>이벤트 프로그램은 특정 날짜에 발생합니다. 추가 정보 [**이벤트**](/help/marketo/product-docs/demand-generation/events/understanding-events/understanding-event-programs.md){target=&quot;_blank&quot;}.
 
 ## 3단계: 스프레드시트를 Marketo에 가져오기 {#step-import-your-spreadsheet-into-marketo}
 
@@ -109,7 +109,7 @@ ht-degree: 0%
 
    >[!TIP]
    >
-   >열 머리글은 최상의 자동 매핑 결과를 얻으려면 항상 필드와 정확히 일치해야 합니다(대/소문자 구분). 사용자 지정 필드를 사용하고 있는데 드롭다운에서 이 필드가 표시되지 않으면 뒤로 돌아가서 [만들기](/help/marketo/product-docs/administration/field-management/create-a-custom-field-in-marketo.md) 그래서 그것들은 선택사항이 될 수 있습니다.
+   >열 머리글은 최상의 자동 매핑 결과를 얻으려면 항상 필드와 정확히 일치해야 합니다(대/소문자 구분). 사용자 지정 필드를 사용하고 있는데 드롭다운에서 이 필드가 표시되지 않으면 뒤로 돌아가서 [만들기](/help/marketo/product-docs/administration/field-management/create-a-custom-field-in-marketo.md){target=&quot;_blank&quot;}(옵션)이 될 수 있습니다.
 
    >[!NOTE]
    >
@@ -129,7 +129,7 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->프로그램 멤버십을 추적하여 프로그램의 성공을 분석할 수 있습니다. 추가 정보 [**프로그램**](/help/marketo/product-docs/core-marketo-concepts/programs/creating-programs/understanding-programs.md).
+>프로그램 멤버십을 추적하여 프로그램의 성공을 분석할 수 있습니다. 추가 정보 [**프로그램**](/help/marketo/product-docs/core-marketo-concepts/programs/creating-programs/understanding-programs.md){target=&quot;_blank&quot;}.
 
 ## 임무 완료 {#mission-complete}
 

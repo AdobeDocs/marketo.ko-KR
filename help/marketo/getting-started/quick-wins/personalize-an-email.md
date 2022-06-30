@@ -3,90 +3,89 @@ unique-page-id: 2359422
 description: 이메일 개인화 - Marketo 문서 - 제품 설명서
 title: 이메일 개인화
 exl-id: 1562796e-da47-4305-b950-3bed1d36d339
-translation-type: tm+mt
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+source-git-commit: 0da33dfa840dd1e5a5618fcd762b482f7a2e0789
 workflow-type: tm+mt
-source-wordcount: '335'
+source-wordcount: '345'
 ht-degree: 0%
 
 ---
 
-# 이메일 {#personalize-an-email} 개인화
+# 이메일 개인화 {#personalize-an-email}
 
-## 임무:데이터 토큰 {#mission-make-your-emails-personal-by-adding-data-tokens}을 추가하여 개인 이메일 만들기
+## 임무: 데이터 토큰을 추가하여 이메일을 개인화할 수 있습니다 {#mission-make-your-emails-personal-by-adding-data-tokens}
 
 >[!PREREQUISITES]
 >
->* [설정 및 사람 추가](/help/marketo/getting-started/quick-wins/get-set-up-and-add-a-person.md)
->* [이메일 폭발 보내기](/help/marketo/getting-started/quick-wins/send-an-email.md)
->* [드립, 드립, 배드](/help/marketo/getting-started/quick-wins/drip-drip-nurture.md)
+>* [설정 및 개인 추가](/help/marketo/getting-started/quick-wins/get-set-up-and-add-a-person.md){target=&quot;_blank&quot;}
+>* [Email Blast 보내기](/help/marketo/getting-started/quick-wins/send-an-email.md){target=&quot;_blank&quot;}
+>* [드립, 드립, 배양](/help/marketo/getting-started/quick-wins/drip-drip-nurture.md){target=&quot;_blank&quot;}
 
 
-## 1단계:{#step-select-an-email-to-personalize} 개인화할 이메일 선택
+## 1단계: 개인화할 이메일 선택 {#step-select-an-email-to-personalize}
 
-1. [이전 빠른 win](/help/marketo/getting-started/quick-wins/drip-drip-nurture.md)에서 만든 육성형 이메일 중 하나를 선택하고 **초안 편집**&#x200B;을 클릭합니다.
+1. 에서 만든 육성형 이메일 중 하나를 선택합니다 [이전 빠른 승리](/help/marketo/getting-started/quick-wins/drip-drip-nurture.md){target=&quot;_blank&quot;} 를 클릭하고 **초안 편집**.
 
    ![](assets/one-4.png)
 
    >[!NOTE]
    >
-   >그러면 이메일의 복사본이 초안으로 만들어집니다. 변경 내용을 적용하려면 초안을 승인해야 합니다.
+   >그러면 초안으로 전자 메일 복사본이 만들어집니다. 변경 사항이 라이브로 전환되려면 초안을 승인해야 합니다.
 
-팝업 차단을 활성화하지 않은 경우 이메일 편집기가 새 탭/창에서 열립니다. 그렇지 않은 경우 **초안 편집**&#x200B;을 두 번 클릭합니다.
+팝업 차단기를 활성화하지 않은 경우 이메일 편집기가 새 탭/창에서 열립니다. 그렇지 않으면 **초안 편집** 두 번
 
-## 2단계:영업사원을 발송자 {#step-make-the-salesperson-the-sender}
+## 2단계: 영업 사원을 발신자로 지정 {#step-make-the-salesperson-the-sender}
 
-1. **From** 필드를 선택하고 현재 이름을 강조 표시하고 **delete**&#x200B;합니다.
+1. 을(를) 선택합니다 **From** 필드, 강조 및 **delete** 현재 이름입니다.
 
    ![](assets/two-5.png)
 
-1. **보낸 사람** 필드의 오른쪽에 있는 **토큰** 아이콘을 클릭합니다.
+1. 을(를) 클릭합니다. **토큰** 아이콘 을 클릭합니다. **From** 필드.
 
    ![](assets/three-4.png)
 
-1. **`{{lead.Lead Owner First Name}}`** 토큰을 찾아 선택합니다.
+1. 을(를) 찾아 선택합니다 **`{{lead.Lead Owner First Name}}`** 토큰.
 
    ![](assets/four-3.png)
 
-1. **기본값**&#x200B;에 대한 회사 이름과 대시를 입력하여 판매 담당자 이름을 사용할 수 없는 경우에 어떤 것이 표시되는지 확인합니다. **삽입**&#x200B;을 클릭합니다.
+1. 회사 이름과 대시를 입력합니다 **기본값** 판매 담당자의 이름을 사용할 수 없는 경우 어떤 것이 표시되는지 확인합니다. 클릭 **삽입**.
 
    ![](assets/five-4.png)
 
-1. **보낸 사람** 필드의 스페이스바를 눌러 방금 삽입한 토큰 뒤 커서가 하나의 공간을 깜박이게 합니다. 그런 다음 **토큰** 아이콘을 다시 클릭합니다.
+1. 스페이스바를 눌러 **From** 필드. 방금 삽입한 토큰 뒤에 커서가 깜박이고 있는지 확인합니다. 그런 다음 **토큰** 다시 아이콘을 클릭합니다.
 
    ![](assets/six-4.png)
 
-1. **`{{lead.Lead Owner Last Name}}`** 토큰을 찾아 선택합니다.
+1. 을(를) 찾아 선택합니다 **`{{lead.Lead Owner Last Name}}`** 토큰.
 
    ![](assets/seven-5.png)
 
-1. **기본값**&#x200B;에 &quot;Sales&quot;를 입력하고 **삽입**&#x200B;을 클릭합니다.
+1. 에 대해 &quot;Sales&quot;를 입력합니다. **기본값** 을(를) 클릭합니다. **삽입**.
 
    ![](assets/eight-3.png)
 
-## 3단계:이메일 {#step-add-the-leads-name-to-the-email}에 리드의 이름 추가
+## 3단계: 이메일에 리드 이름 추가 {#step-add-the-leads-name-to-the-email}
 
-1. 편집 가능한 상단 섹션을 선택하고 톱니바퀴 아이콘을 클릭한 다음 **편집**&#x200B;을 선택합니다.
+1. 편집 가능한 맨 위 섹션을 선택하고 톱니바퀴 아이콘을 클릭한 다음, 을 선택합니다 **편집**.
 
    ![](assets/nine-2.png)
 
-1. &quot;Hello&quot; 뒤에 공백을 추가하고 커서를 쉼표 앞에 놓은 다음 **토큰 삽입** 아이콘을 클릭합니다.
+1. &quot;Hello&quot; 뒤에 공백을 추가하고 커서를 쉼표 앞에 놓은 다음 **토큰 삽입** 아이콘.
 
    ![](assets/ten-4.png)
 
-1. **`{{lead.First Name}}`** 토큰을 찾아 선택합니다.
+1. 을(를) 찾아 선택합니다 **`{{lead.First Name}}`** 토큰.
 
    ![](assets/eleven-4.png)
 
-1. **기본값** 필드에 &quot;친구&quot;(또는 원하는 레이블)를 입력하고 **삽입**&#x200B;을 클릭합니다.
+1. 에 &quot;친구&quot;(또는 원하는 레이블)를 입력합니다. **기본값** 필드를 입력하고 **삽입**.
 
    ![](assets/twelve-3.png)
 
    >[!TIP]
    >
-   >항상 토큰에 대한 기본값을 포함합니다.그러면 개인 정보의 일부가 누락된 경우 기본값이 이메일에 표시됩니다.
+   >항상 토큰에 대한 기본값을 포함하십시오. 이렇게 하면 개인 정보의 일부가 누락된 경우 기본값이 이메일에 표시됩니다.
 
-1. **저장**&#x200B;을 클릭합니다.
+1. 클릭 **저장**.
 
    ![](assets/thirteen-3.png)
 
@@ -94,13 +93,13 @@ ht-degree: 0%
 
    ![](assets/fourteen-3.png)
 
-1. **이메일 작업**&#x200B;에서 **초안 승인**&#x200B;을 선택합니다.
+1. 아래 **이메일 작업**, 선택 **초안 승인**.
 
    ![](assets/fifteen-3.png)
 
 >[!TIP]
 >
->이메일을 보내는 방법에 대한 신속한 재교육이 필요하십니까? [이메일 폭발 보내기](/help/marketo/getting-started/quick-wins/send-an-email.md)를 참조하십시오.
+>이메일 전송 방법에 대한 빠른 재교육 필요? 자세한 내용은 [Email Blast 보내기](/help/marketo/getting-started/quick-wins/send-an-email.md){target=&quot;_blank&quot;}.
 
 ### 임무 완료 {#mission-complete}
 
@@ -108,6 +107,6 @@ ht-degree: 0%
 
 <br> 
 
-[◄ 미션 6:드립, 드립, 배드](/help/marketo/getting-started/quick-wins/drip-drip-nurture.md)
+[◄ 미션 6: 드립, 드립, 배양](/help/marketo/getting-started/quick-wins/drip-drip-nurture.md)
 
-[임무 8:영업 담당자에게 ► 알림](/help/marketo/getting-started/quick-wins/alert-the-sales-rep.md)
+[미션 8: 영업 담당자에게 ►](/help/marketo/getting-started/quick-wins/alert-the-sales-rep.md)
