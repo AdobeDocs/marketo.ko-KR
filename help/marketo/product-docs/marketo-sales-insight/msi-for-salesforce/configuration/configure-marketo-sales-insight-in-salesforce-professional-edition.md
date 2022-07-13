@@ -3,9 +3,9 @@ unique-page-id: 3571743
 description: Salesforce Professional Edition에서 Marketo Sales Insight 구성 - Marketo 문서 - 제품 설명서
 title: Salesforce Professional Edition에서 Marketo Sales Insight 구성
 exl-id: fae63560-0bb3-46a9-94a3-cc27c1aa363e
-source-git-commit: 86c32e5f7eab00a1963b9d00057af4820cddfe78
+source-git-commit: a59b6b2505c6e5a83c6137a1925aa4e60e56eac8
 workflow-type: tm+mt
-source-wordcount: '912'
+source-wordcount: '906'
 ht-degree: 0%
 
 ---
@@ -295,8 +295,6 @@ Marketo 개인 필드를 Salesforce 연락처 필드에 매핑하여 전환이 �
 ## Marketo Sales Insight 액세스 {#access-marketo-sales-insight}
 
 1. Salesforce에서 **+** 탭 표시줄의 끝에서 를 클릭하고 **Marketo Sales Insight Config**.
-
-1. 을(를) 선택합니다 **Marketo API 활성화** 확인란을 선택합니다.
 
 1. Marketo의 Sales Insight Admin 페이지에 있는 Soap API 패널에서 자격 증명을 복사하여 Salesforce Sales Insight Configuration 페이지의 Soap API 섹션에 붙여넣습니다.
 
