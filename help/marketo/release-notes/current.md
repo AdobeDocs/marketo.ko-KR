@@ -2,9 +2,9 @@
 description: 현재 릴리스 노트 - Marketo 문서 - 제품 설명서
 title: 현재 릴리스 노트
 exl-id: a2eccad5-73ad-48f9-8091-51cee23824e1
-source-git-commit: 46aff8058cb97743bee1bd5ff5ddf0ddbbb663a5
+source-git-commit: c63bbd44863d0145726a1240a6858e517799bf5c
 workflow-type: tm+mt
-source-wordcount: '647'
+source-wordcount: '673'
 ht-degree: 0%
 
 ---
@@ -32,6 +32,13 @@ ht-degree: 0%
 * **다이내믹 채팅에 대한 고급 대화 상자 보고**: 참여 및 전환 지표에 대한 새로운 데이터 시각화를 사용하여 다이내믹 채팅 캠페인의 성과를 자세히 볼 수 있습니다.
 
 * **Dynamic Chat에 대해 사용하지 않은 Marketo Engage 속성 동기화 해제**: 사용하지 않는 동적 채팅 구독에서 Marketo Engage 속성을 동기화 해제하여 데이터 청결을 용이하게 하고 필요에 따라 대체 속성을 동기화할 수 있습니다.
+
+## 차세대 경험
+
+**새로운 전환 스위치 보기**: 이제 차세대 경험에서 아래 보기를 사용할 수 있습니다.
+
+* [전자 메일 세부 사항 보기](/help/marketo/product-docs/marketo-engage-next-generation-experience/toggle-switch.md#email-details-view){target=&quot;_blank&quot;}
+* [전자 메일 목록 보기](/help/marketo/product-docs/marketo-engage-next-generation-experience/toggle-switch.md#email-list-view){target=&quot;_blank&quot;}
 
 ## Experience Automation {#experience-automation}
 
