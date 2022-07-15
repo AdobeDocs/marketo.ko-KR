@@ -3,9 +3,9 @@ audience: end-user
 user-guide-title: Marketo 안내서
 user-guide-description: Marketo 제품 설명서
 feature-set: Marketo Engage
-source-git-commit: a14516e0daf3b9c9b90aa0250fd654b8bbbcc391
+source-git-commit: b759c54954d68bc53829f990ea694a810d99ad6c
 workflow-type: tm+mt
-source-wordcount: '8780'
+source-wordcount: '8787'
 ht-degree: 0%
 
 ---
@@ -630,6 +630,8 @@ ht-degree: 0%
             + [이벤트 채널 편집](product-docs/demand-generation/events/understanding-events/edit-an-event-channel.md)
             + [이벤트 파트너](product-docs/demand-generation/events/understanding-events/event-partners.md)
             + [이벤트 프로그램 이해](product-docs/demand-generation/events/understanding-events/understanding-event-programs.md)
+            + [이벤트 상한 설정](product-docs/demand-generation/events/understanding-events/setting-an-event-cap.md)
+            + [이벤트 목표 설정](product-docs/demand-generation/events/understanding-events/setting-event-goals.md)
          + 이벤트 만들기 {#create-an-event}
             + [Adobe Connect으로 이벤트 만들기](product-docs/demand-generation/events/create-an-event/create-an-event-with-adobe-connect.md)
             + [GotoWebinar를 사용하여 이벤트 만들기](product-docs/demand-generation/events/create-an-event/create-an-event-with-gotowebinar.md)
@@ -873,7 +875,7 @@ ht-degree: 0%
             + [토큰 개요](product-docs/demand-generation/landing-pages/personalizing-landing-pages/tokens-overview.md)
             + [랜딩 페이지에서 동적 콘텐츠 사용](product-docs/demand-generation/landing-pages/personalizing-landing-pages/use-dynamic-content-in-a-landing-page.md)
             + [URL 빌더 사용](product-docs/demand-generation/landing-pages/personalizing-landing-pages/using-the-url-builder.md)
-      + Social {#social}
+      + 소셜 {#social}
          + 소셜 작업 구성 {#configuring-social-actions}
             + [공유 후 프롬프트 구성](product-docs/demand-generation/social/configuring-social-actions/configure-after-share-prompts.md)
             + [소셜 앱에 대한 개인 캡처 구성](product-docs/demand-generation/social/configuring-social-actions/configure-person-capture-for-a-social-app.md)
@@ -1081,7 +1083,7 @@ ht-degree: 0%
          + [판매 연결에서 SAML 2.0을 통해 SSO 설정](product-docs/marketo-sales-connect/admin/setting-up-sso-through-saml-2-0-in-sales-connect.md)
          + [공유 설정](product-docs/marketo-sales-connect/admin/sharing-settings.md)
          + [사용자 액세스 세부 정보](product-docs/marketo-sales-connect/admin/user-access-details.md)
-      + Analytics {#analytics}
+      + 분석 {#analytics}
          + [Analytics 페이지 개요](product-docs/marketo-sales-connect/analytics/analytics-page-overview.md)
          + [컨텐츠 탭 이해](product-docs/marketo-sales-connect/analytics/understanding-the-content-tab.md)
          + [내 탭 이해](product-docs/marketo-sales-connect/analytics/understanding-the-me-tab.md)
@@ -1215,7 +1217,7 @@ ht-degree: 0%
          + [Sales Connect 사용자에게 캠페인 표시](product-docs/marketo-sales-connect/marketo/make-a-campaign-visible-to-sales-connect-users.md)
          + [영업 활동 용어집](product-docs/marketo-sales-connect/marketo/sales-activity-glossary.md)
          + [판매 활동 트리거 및 필터](product-docs/marketo-sales-connect/marketo/sales-activity-triggers-and-filters.md)
-      + 사람 {#people}
+      + 인물 {#people}
          + [개인 세부 정보 보기](product-docs/marketo-sales-connect/people/person-detail-view.md)
          + [영업 연결 및 GDPR 준수](product-docs/marketo-sales-connect/people/sales-connect-and-gdpr-compliance.md)
          + 연락처 관리 {#managing-contacts}
@@ -1267,7 +1269,7 @@ ht-degree: 0%
             + [내 동적 필드가 입력되지 않음](product-docs/marketo-sales-connect/templates/dynamic-fields/my-dynamic-fields-arent-filling-out.md)
             + [동적 필드에서 자신을 참조합니다.](product-docs/marketo-sales-connect/templates/dynamic-fields/reference-yourself-in-a-dynamic-field.md)
    + Marketo Sales Insight {#marketo-sales-insight}
-      + 작업 {#actions}
+      + 액션 {#actions}
          + [Sales Insight Actions 기능 개요](product-docs/marketo-sales-insight/actions/sales-insight-actions-feature-overview.md)
          + 시작하기 {#getting-started}
             + [Sales Insight Actions 사용 온보딩 안내서](product-docs/marketo-sales-insight/actions/getting-started/sales-insight-actions-user-onboarding-guide.md)
@@ -1290,7 +1292,7 @@ ht-degree: 0%
             + [로그인 관리 설정](product-docs/marketo-sales-insight/actions/admin/login-management-settings.md)
             + [공유 설정](product-docs/marketo-sales-insight/actions/admin/sharing-settings.md)
             + [사용자 액세스 세부 정보](product-docs/marketo-sales-insight/actions/admin/user-access-details.md)
-         + Analytics {#analytics}
+         + 분석 {#analytics}
             + [Analytics 페이지 개요](product-docs/marketo-sales-insight/actions/analytics/analytics-page-overview.md)
             + [컨텐츠 탭 이해](product-docs/marketo-sales-insight/actions/analytics/understanding-the-content-tab.md)
             + [내 탭 이해](product-docs/marketo-sales-insight/actions/analytics/understanding-the-me-tab.md)
@@ -1371,7 +1373,7 @@ ht-degree: 0%
             + [판매 활동 트리거 및 필터](product-docs/marketo-sales-insight/actions/marketo/sales-activity-triggers-and-filters.md)
             + [Sales Insight Actions 활동 용어집](product-docs/marketo-sales-insight/actions/marketo/sales-insight-actions-activity-glossary.md)
             + [Marketo 연결 설정](product-docs/marketo-sales-insight/actions/marketo/set-up-your-marketo-connection.md)
-         + 사람 {#people}
+         + 인물 {#people}
             + [개인 세부 정보 보기](product-docs/marketo-sales-insight/actions/people/person-detail-view.md)
             + [Sales Insight 작업 및 GDPR 준수](product-docs/marketo-sales-insight/actions/people/sales-insight-actions-and-gdpr-compliance.md)
             + 연락처 관리 {#managing-contacts}
