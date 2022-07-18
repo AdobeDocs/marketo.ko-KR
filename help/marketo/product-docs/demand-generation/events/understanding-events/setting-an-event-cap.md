@@ -3,9 +3,10 @@ description: 이벤트 상한 설정 - Marketo 문서 - 제품 설명서
 title: 이벤트 상한 설정
 hide: true
 hidefromtoc: true
-source-git-commit: b759c54954d68bc53829f990ea694a810d99ad6c
+exl-id: 5273f7f4-a636-4976-aee6-fc0d5c27bdfc
+source-git-commit: 7050d8f948d4ddd85aa102a4ed8f71f7b347fe5a
 workflow-type: tm+mt
-source-wordcount: '182'
+source-wordcount: '171'
 ht-degree: 0%
 
 ---
@@ -23,24 +24,24 @@ ht-degree: 0%
 
 1. 이벤트 프로그램을 선택합니다.
 
-PICC
+   ![](assets/setting-an-event-cap-1.png)
 
 1. 개요에서 [!UICONTROL 이벤트 상한] 을(를) 클릭합니다. **[!UICONTROL 설정되지 않음]**.
 
-PICC
+   ![](assets/setting-an-event-cap-2.png)
 
 1. 이벤트에 등록할 수 있는 최대 사용자 수를 입력하고 을(를) 클릭합니다 **[!UICONTROL 다음]**.
 
-PICC
+   ![](assets/setting-an-event-cap-3.png)
 
 1. 을(를) 클릭합니다. [!UICONTROL 등록 페이지] 드롭다운을 클릭하고 등록 페이지로 사용될 랜딩 페이지를 선택합니다.
 
-PICC
+   ![](assets/setting-an-event-cap-4.png)
 
 1. 을(를) 클릭합니다. **[!UICONTROL 등록 전체 페이지]** 드롭다운을 클릭하고 등록 전체 페이지로 작동할 랜딩 페이지를 선택합니다. 클릭 **[!UICONTROL 설정 및 활성화]** 완료 시.
 
-PICC
+   ![](assets/setting-an-event-cap-5.png)
 
-다 끝났어 이벤트 상한 세부 사항을 편집하려면 옆에 있는 파란색 텍스트를 클릭합니다 [!UICONTROL 이벤트 상한] 을 반복하여 다음 3단계를 수행합니다.
+   다 끝났어 이벤트 상한 세부 사항을 편집하려면 옆에 있는 파란색 텍스트를 클릭합니다 [!UICONTROL 이벤트 상한].
 
-PICC
+   ![](assets/setting-an-event-cap-6.png)
