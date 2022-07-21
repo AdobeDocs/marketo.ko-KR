@@ -2,9 +2,9 @@
 description: 이메일 보트 활동 필터링 - Marketo 문서 - 제품 설명서
 title: 전자 메일 보트 활동 필터링
 exl-id: 70c97159-72bf-46e5-b29b-247615d0fa80
-source-git-commit: 2ef4b0b2a541c8b6a67bd654fda45956601661bd
+source-git-commit: 524e185e255503ac44bb73303091a59b2d60242a
 workflow-type: tm+mt
-source-wordcount: '317'
+source-wordcount: '284'
 ht-degree: 0%
 
 ---
@@ -16,7 +16,6 @@ ht-degree: 0%
 두 개의 별도 메서드를 사용하여 보트 활동을 확인합니다.
 
 * 일치 [Interactive Advertising Bureau 보트 목록](https://www.iab.com/guidelines/iab-abc-international-spiders-bots-list/){target=&quot;_blank&quot;}: IAB UA/IP(사용자 에이전트/IP 주소) 목록에 있는 무엇과도 일치하는 활동은 보트로 표시됩니다.
-* 숨겨진 링크 UA/IP와 일치: 모든 이메일에 숨겨진 링크를 추가하고 해당하는 UA/IP 클릭 수를 캡처합니다. 이러한 UA/IP와 일치하는 활동은 보트로 표시됩니다.
 * 근접 패턴과 일치: 두 개 이상의 활동이 동시에(2초 미만) 발생하면 봇으로 식별됩니다.
 
 이메일 링크 클릭 및 이메일 열기 활동에 대해 새 속성은 아래 값으로 채워집니다.
@@ -37,15 +36,15 @@ ht-degree: 0%
 
    ![](assets/filtering-email-bot-activity-3.png)
 
-1. 을(를) 클릭합니다. **보트 활동 식별 활성화** 활성화할 슬라이더
+1. 선택 **IAB 목록과 일치**, **근접 패턴과 일치**&#x200B;또는 둘 다 사용할 수 있습니다.
 
    ![](assets/filtering-email-bot-activity-4.png)
 
 >[!NOTE]
 >
->보트 활동을 기록할지 여부를 별도로 선택할 수 있습니다. 선택하지 않으면 잘못된 숫자가 필터링되어 이메일이 열리고 클릭 수가 줄어들 수 있습니다.
+>보트 활동을 필터링하도록 선택할 수 있습니다 **또는** 기록됨. 필터링을 선택하면 잘못된 활동이 제외되므로 이메일 열기 및 클릭 수가 줄어들 수 있습니다
 
-**옵션 단계**: 피쳐를 비활성화하려면 슬라이더를 선택 해제하면 됩니다. 비활성화하면 데이터가 **not** 재설정
+**옵션 단계**: 이 기능을 비활성화하려면 슬라이더를 선택 취소하면 됩니다. 비활성화하면 데이터가 재설정되지 않습니다.
 
 >[!TIP]
 >
