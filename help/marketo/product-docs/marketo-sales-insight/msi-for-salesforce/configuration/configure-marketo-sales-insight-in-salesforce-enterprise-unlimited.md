@@ -3,7 +3,7 @@ unique-page-id: 2360368
 description: Salesforce Enterprise/Unlimited에서 Marketo Sales Insight 구성 - Marketo 문서 - 제품 설명서
 title: Salesforce Enterprise/Unlimited에서 Marketo Sales Insight 구성
 exl-id: a33ed396-8d26-403f-b6d8-fe7c55ce76ba
-source-git-commit: 2fb887e38ec2832b4b62f323d5f72baab24bf41e
+source-git-commit: 6879a542e17d7694ba42494867707ebc93b791d3
 workflow-type: tm+mt
 source-wordcount: '863'
 ht-degree: 0%
@@ -299,7 +299,7 @@ Marketo 개인 필드를 Salesforce 연락처 필드에 매핑하여 전환이 �
 
 1. 의 Rest API 패널에서 자격 증명을 복사합니다. [Marketo의 Sales Insight Admin 페이지](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/configuration/configure-marketo-sales-insight-in-salesforce-professional-edition.md#set-up-marketo-sales-insight){target=&quot;_blank&quot;} 하고 Salesforce Sales Insight Configuration 페이지의 Rest API 섹션에 붙여 넣습니다.
 
-   ![](assets/access-msi.png)
+   ![](assets/configure-marketo-sales-insight-in-salesforce-enterprise-edition-25.png)
 
 그게 다야! 리드, 연락처, 계정 및 기회에 대한 Marketo Sales Insight 필드를 볼 수 있습니다.
 
