@@ -3,9 +3,9 @@ unique-page-id: 2360368
 description: Salesforce Enterprise/Unlimited에서 Marketo Sales Insight 구성 - Marketo 문서 - 제품 설명서
 title: Salesforce Enterprise/Unlimited에서 Marketo Sales Insight 구성
 exl-id: a33ed396-8d26-403f-b6d8-fe7c55ce76ba
-source-git-commit: bb172e59e96cca3e8997615a2f1367ecccf700ed
+source-git-commit: 2fb887e38ec2832b4b62f323d5f72baab24bf41e
 workflow-type: tm+mt
-source-wordcount: '888'
+source-wordcount: '863'
 ht-degree: 0%
 
 ---
@@ -289,39 +289,27 @@ Marketo 개인 필드를 Salesforce 연락처 필드에 매핑하여 전환이 �
 
 1. 클릭 **저장** 다 되면
 
-## Marketo Sales Insight Config {#marketo-sales-insight-config}
-
-1. 클릭 **+** 그런 다음 **Marketo Sales Insight Config**.
-
-   ![](assets/image2014-9-24-17-3a37-3a45.png)
-
-1. 확인 **Marketo API 활성화**. 그런 다음 [Marketo 관리자의 API 구성 정보](#set-up-marketo-sales-insight). 클릭 **변경 내용 저장** 다 되면
-
-   ![](assets/image2014-9-24-17-3a38-3a0.png)
-
-   >[!NOTE]
-   >
-   >진단 테스트에 실패한 경우 다음을 수행해야 합니다 [페이지 레이아웃에 필드 추가](https://nation.marketo.com/docs/DOC-1115).
-
-그게 다야! 리드, 연락처, 계정 및 기회에 대한 Marketo Sales Insight 필드를 볼 수 있습니다.
-
-![](assets/twenty-six.png)
-
->[!NOTE]
->
->계정의 경우 Sales Insight에는 모든 이메일이 포함되지만 가장 최근 흥미로운 시간, 웹 활동 및 점수 변경 사항만 포함됩니다.
-
-## Marketo Sales Insight 액세스 {#access-marketo-sales-insight}
+## Marketo Sales Insight 구성 탭 {#marketo-sales-insight-configuration-tab}
 
 1. Salesforce에서 **+** 탭 표시줄의 끝에서 를 클릭하고 **Marketo Sales Insight Config**.
 
 1. 을(를) 선택합니다 **Marketo API 활성화** 확인란을 선택합니다.
 
-1. Marketo의 Sales Insight Admin 페이지에 있는 Soap API 패널에서 자격 증명을 복사하여 Salesforce Sales Insight Configuration 페이지의 Soap API 섹션에 붙여넣습니다.
+1. 의 Soap API 패널에서 자격 증명을 복사합니다 [Marketo의 Sales Insight Admin 페이지](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/configuration/configure-marketo-sales-insight-in-salesforce-professional-edition.md#set-up-marketo-sales-insight){target=&quot;_blank&quot;} 하고 Salesforce Sales Insight Configuration 페이지의 Soap API 섹션에 붙여 넣습니다.
 
-1. Marketo의 Sales Insight Admin 페이지에 있는 Rest API 패널에서 자격 증명을 복사하여 Salesforce Sales Insight Configuration 페이지의 Rest API 섹션에 붙여넣습니다.
+1. 의 Rest API 패널에서 자격 증명을 복사합니다. [Marketo의 Sales Insight Admin 페이지](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/configuration/configure-marketo-sales-insight-in-salesforce-professional-edition.md#set-up-marketo-sales-insight){target=&quot;_blank&quot;} 하고 Salesforce Sales Insight Configuration 페이지의 Rest API 섹션에 붙여 넣습니다.
 
    ![](assets/access-msi.png)
+
+그게 다야! 리드, 연락처, 계정 및 기회에 대한 Marketo Sales Insight 필드를 볼 수 있습니다.
+
+>[!NOTE]
+>
+>진단 테스트에 실패한 경우 다음을 수행해야 합니다 [페이지 레이아웃에 필드 추가](https://nation.marketo.com/docs/DOC-1115){target=&quot;_blank&quot;}.
+
+>[!NOTE]
+>
+>계정의 경우 Sales Insight에는 모든 이메일이 포함되지만 가장 최근 흥미로운 시간, 웹 활동 및 점수 변경 사항만 포함됩니다.
 
 >[!MORELIKETHIS]
 >

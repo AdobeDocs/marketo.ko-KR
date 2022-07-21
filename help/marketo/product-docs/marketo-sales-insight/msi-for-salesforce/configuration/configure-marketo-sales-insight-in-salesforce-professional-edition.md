@@ -3,9 +3,9 @@ unique-page-id: 3571743
 description: Salesforce Professional Edition에서 Marketo Sales Insight 구성 - Marketo 문서 - 제품 설명서
 title: Salesforce Professional Edition에서 Marketo Sales Insight 구성
 exl-id: fae63560-0bb3-46a9-94a3-cc27c1aa363e
-source-git-commit: a59b6b2505c6e5a83c6137a1925aa4e60e56eac8
+source-git-commit: 2fb887e38ec2832b4b62f323d5f72baab24bf41e
 workflow-type: tm+mt
-source-wordcount: '906'
+source-wordcount: '886'
 ht-degree: 0%
 
 ---
@@ -18,7 +18,7 @@ ht-degree: 0%
 >
 >* Salesforce Professional Edition에 Marketo을 설치합니다.
 >
->* [Salesforce AppExchange에 Marketo Sales Insight Package 설치](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/installation/install-marketo-sales-insight-package-in-salesforce-appexchange.md)
+>* [Salesforce AppExchange에 Marketo Sales Insight Package 설치](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/installation/install-marketo-sales-insight-package-in-salesforce-appexchange.md){target=&quot;_blank&quot;}
 
 
 >[!NOTE]
@@ -270,41 +270,29 @@ Marketo 개인 필드를 Salesforce 연락처 필드에 매핑하여 전환이 �
 
    ![](assets/image2014-9-24-17-3a37-3a17.png)
 
-## Marketo Sales Insight Config {#marketo-sales-insight-config}
+## Marketo Sales Insight 구성 탭 {#marketo-sales-insight-configuration-tab}
 
-1. 클릭 **+** 그런 다음 **Marketo Sales Insight Config**.
+1. Salesforce에서 **+** 탭 표시줄의 끝에서 를 클릭하고 **Marketo Sales Insight Config**.
 
-   ![](assets/image2014-9-24-17-3a37-3a45.png)
+1. 의 Soap API 패널에서 자격 증명을 복사합니다 [Marketo의 Sales Insight Admin 페이지](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/configuration/configure-marketo-sales-insight-in-salesforce-professional-edition.md#set-up-marketo-sales-insight){target=&quot;_blank&quot;} 하고 Salesforce Sales Insight Configuration 페이지의 Soap API 섹션에 붙여 넣습니다.
 
-1. 확인 **Marketo API 활성화**. 그런 다음 [Marketo 관리자의 API 구성 정보](#set-up-marketo-sales-insight). 클릭 **변경 내용 저장** 다 되면
+1. 의 Rest API 패널에서 자격 증명을 복사합니다. [Marketo의 Sales Insight Admin 페이지](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/configuration/configure-marketo-sales-insight-in-salesforce-professional-edition.md#set-up-marketo-sales-insight){target=&quot;_blank&quot;} 하고 Salesforce Sales Insight Configuration 페이지의 Rest API 섹션에 붙여 넣습니다.
 
-   ![](assets/image2014-9-24-17-3a38-3a0.png)
-
-   >[!NOTE]
-   >
-   >진단 테스트에 실패한 경우 다음을 수행해야 합니다 [페이지 레이아웃에 필드 추가](https://nation.marketo.com/docs/DOC-1115).
+   ![](assets/configure-marketo-sales-insight-in-salesforce-professional-edition-27.png)
 
 그게 다야! 리드, 연락처, 계정 및 기회에 대한 Marketo Sales Insight 필드를 볼 수 있습니다.
 
-![](assets/twenty-six-1.png)
+>[!NOTE]
+>
+>진단 테스트에 실패한 경우 다음을 수행해야 합니다 [페이지 레이아웃에 필드 추가](https://nation.marketo.com/docs/DOC-1115){target=&quot;_blank&quot;}.
 
 >[!NOTE]
 >
 >계정의 경우 Sales Insight에는 모든 이메일이 포함되지만 가장 최근 흥미로운 시간, 웹 활동 및 점수 변경 사항만 포함됩니다.
 
-## Marketo Sales Insight 액세스 {#access-marketo-sales-insight}
-
-1. Salesforce에서 **+** 탭 표시줄의 끝에서 를 클릭하고 **Marketo Sales Insight Config**.
-
-1. Marketo의 Sales Insight Admin 페이지에 있는 Soap API 패널에서 자격 증명을 복사하여 Salesforce Sales Insight Configuration 페이지의 Soap API 섹션에 붙여넣습니다.
-
-1. Marketo의 Sales Insight Admin 페이지에 있는 Rest API 패널에서 자격 증명을 복사하여 Salesforce Sales Insight Configuration 페이지의 Rest API 섹션에 붙여넣습니다.
-
-   ![](assets/configure-marketo-sales-insight-in-salesforce-professional-edition-27.png)
-
 >[!MORELIKETHIS]
 >
->* [우선 순위, 긴급성, 상대적인 점수 및 최상의 선택](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/features/stars-and-flames/priority-urgency-relative-score-and-best-bets.md)
->* [Salesforce에 Marketo 탭 추가](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/configuration/add-marketo-tab-to-salesforce.md)
+>* [우선 순위, 긴급성, 상대적인 점수 및 최상의 선택](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/features/stars-and-flames/priority-urgency-relative-score-and-best-bets.md){target=&quot;_blank&quot;}
+>* [Salesforce에 Marketo 탭 추가](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/configuration/add-marketo-tab-to-salesforce.md){target=&quot;_blank&quot;}
 >* [프로필에 Sales Insight Access 추가](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/configuration/add-sales-insight-access-to-profiles.md){target=&quot;_blank&quot;}
 
