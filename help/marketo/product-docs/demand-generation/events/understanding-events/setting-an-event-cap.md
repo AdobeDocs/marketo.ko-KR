@@ -4,9 +4,9 @@ title: 이벤트 상한 설정
 hide: true
 hidefromtoc: true
 exl-id: 5273f7f4-a636-4976-aee6-fc0d5c27bdfc
-source-git-commit: 7050d8f948d4ddd85aa102a4ed8f71f7b347fe5a
+source-git-commit: 59768a413038472e38d28e5fb8bcadc4419b360d
 workflow-type: tm+mt
-source-wordcount: '171'
+source-wordcount: '196'
 ht-degree: 0%
 
 ---
@@ -21,6 +21,10 @@ ht-degree: 0%
 
 >[!IMPORTANT]
 >이벤트 캡을 설정하려면 먼저 프로그램에 승인된 랜딩 페이지(등록 페이지 및 등록 전체 페이지)가 두 개 이상 있어야 합니다.
+
+>[!NOTE]
+>
+>이벤트의 공간을 확보하려면 프로그램 구성원을 제거해야 합니다(해당 상태를 &quot;Not in Program&quot;으로 업데이트하여 이 작업을 수행할 수 있음).
 
 1. 이벤트 프로그램을 선택합니다.
 

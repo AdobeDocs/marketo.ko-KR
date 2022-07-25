@@ -3,9 +3,9 @@ unique-page-id: 1147091
 description: 프로그램 멤버십 이해 - Marketo 문서 - 제품 설명서
 title: 프로그램 멤버십 이해
 exl-id: 02480a93-b499-4e0f-8a1c-a22f7d3b7178
-source-git-commit: f6212795eec123265c6b6628da9974e97f9f7caf
+source-git-commit: 59768a413038472e38d28e5fb8bcadc4419b360d
 workflow-type: tm+mt
-source-wordcount: '308'
+source-wordcount: '309'
 ht-degree: 0%
 
 ---
@@ -14,7 +14,7 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->Marketo은 이제 모든 구독에서 언어를 표준화하고 있으므로 docs.marketo.com에서 구독에 리드/리드가 표시되고 사람/사람이 표시될 수 있습니다. 이 용어는 같은 것을 의미합니다. 문서 지침에는 영향을 주지 않습니다. 다른 변화들도 있습니다. [추가 정보](/help/marketo/product-docs/crm-sync/salesforce-sync/understanding-the-salesforce-sync.md).
+>Marketo은 이제 모든 구독에서 언어를 표준화하고 있으므로 구독에 리드/리드가 표시되고 문서 내에 개인/사람이 표시될 수 있습니다. 이 용어는 같은 것을 의미합니다. 문서 지침에는 영향을 주지 않습니다. 다른 변화들도 있습니다. [자세히 알아보기](/help/marketo/product-docs/crm-sync/salesforce-sync/understanding-the-salesforce-sync.md).
 
 >[!NOTE]
 >

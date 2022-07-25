@@ -3,9 +3,10 @@ description: 이벤트 상한 설정 - Marketo 문서 - 제품 설명서
 title: 이벤트 상한 설정
 hide: true
 hidefromtoc: true
-source-git-commit: ab20d9683aa5987778970fd32793dc0f3056c84b
+exl-id: 8a46d97b-77a7-479a-b7ac-580ec65171fd
+source-git-commit: 59768a413038472e38d28e5fb8bcadc4419b360d
 workflow-type: tm+mt
-source-wordcount: '187'
+source-wordcount: '212'
 ht-degree: 0%
 
 ---
@@ -20,6 +21,10 @@ ht-degree: 0%
 
 >[!IMPORTANT]
 >이벤트 캡을 설정하려면 먼저 프로그램에 승인된 랜딩 페이지(등록 페이지 및 등록 전체 페이지)가 두 개 이상 있어야 합니다.
+
+>[!NOTE]
+>
+>이벤트의 공간을 확보하려면 프로그램 구성원을 제거해야 합니다(해당 상태를 &quot;Not in Program&quot;으로 업데이트하여 이 작업을 수행할 수 있음).
 
 1. 이벤트 프로그램을 선택합니다.
 
