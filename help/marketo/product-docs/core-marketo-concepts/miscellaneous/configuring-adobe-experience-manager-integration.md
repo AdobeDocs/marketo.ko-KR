@@ -2,10 +2,12 @@
 unique-page-id: 30081815
 description: Adobe Experience Manager 통합 구성 - Marketo 문서 - 제품 설명서
 title: Adobe Experience Manager 통합 구성
+hide: true
+hidefromtoc: true
 exl-id: 06b2c214-1afb-443f-ae01-0c00fed77dce
-source-git-commit: 47b0f31b410f0bf4b41740aa6440c2a0484ab835
+source-git-commit: 3105fb33fb457d4dfb63081b80d4d1def717ad34
 workflow-type: tm+mt
-source-wordcount: '217'
+source-wordcount: '235'
 ht-degree: 0%
 
 ---
@@ -18,9 +20,12 @@ AEM 자산을 액세스, 선택 및 Marketo의 Design Studio로 가져올 수 �
 >
 >**관리 권한 필요**
 
->[!CAUTION]
+>[!IMPORTANT]
 >
->현재 이 기능은 Firefox에서만 완전히 지원됩니다. Safari에서 지원되지 않으며, SameSite 쿠키 설정에 따라 최신 버전의 Chrome에서 작동하지 않을 수 있습니다.
+>* 이 통합은 AEM의 온-프레미스 구현에서만 작동하며 AEM Cloud Service 구현에는 지원되지 않습니다.
+>
+>* 현재 이 기능은 Firefox에서만 완전히 지원됩니다. Safari에서 지원되지 않으며, SameSite 쿠키 설정에 따라 최신 버전의 Chrome에서 작동하지 않을 수 있습니다.
+
 
 1. Adobe Experience Manager으로 이동합니다(URL은 회사에만 해당됨).
 
