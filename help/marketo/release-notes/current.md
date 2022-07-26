@@ -2,9 +2,9 @@
 description: 현재 릴리스 노트 - Marketo 문서 - 제품 설명서
 title: 현재 릴리스 노트
 exl-id: a2eccad5-73ad-48f9-8091-51cee23824e1
-source-git-commit: 4bff61b90cbbe9466c23d9b003378eb72570f56c
+source-git-commit: 75c06c8d2eda0da6b8bdcd9011df3ca5deacfd6d
 workflow-type: tm+mt
-source-wordcount: '538'
+source-wordcount: '571'
 ht-degree: 0%
 
 ---
@@ -32,6 +32,11 @@ ht-degree: 0%
 * **Adobe 브랜딩**: 새로운 Adobe Experience Cloud 브랜딩으로 편집자와 개인 세부 사항 페이지의 모양과 느낌을 업데이트했습니다.
 
 * **이동 대화 상자에 대상 폴더의 폴더 계층 표시**: 각 폴더에 대한 폴더 계층 구조를 보면 자산을 쉽게 이동하고 잘못된 폴더에 넣을 가능성이 줄어듭니다.
+
+* **차세대 경험에서 업데이트된 화면**: 전환 스위치를 통해 액세스할 수 있는 업데이트된 디자인 및 유용성 개선 사항을 제공하는 차세대 환경에서 새로 고친 추가 화면을 제공하고 있습니다.
+
+   * &quot;이미지 및 파일&quot; 세부 정보
+   * 코드 조각 세부 사항
 
 >[!NOTE]
 >
