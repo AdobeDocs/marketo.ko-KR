@@ -2,9 +2,9 @@
 description: Marketo 정적 목록에 Adobe Experience Platform 세그먼트 푸시 - Marketo 문서 - 제품 설명서
 title: Marketo 정적 목록에 Adobe Experience Platform 세그먼트 푸시
 exl-id: 8df11bf4-06f4-4927-8dfb-954414fce6dc
-source-git-commit: 0dd8059a43bfb37cdcb6b36cc73d82538263245e
+source-git-commit: 7f312f97b9515f72aa314509dfaa12b146ad7dc4
 workflow-type: tm+mt
-source-wordcount: '0'
+source-wordcount: '666'
 ht-degree: 0%
 
 ---
@@ -58,7 +58,7 @@ ht-degree: 0%
 
    ![](assets/push-an-adobe-experience-platform-segment-8.png)
 
-1. 대상 입력 **이름** 및 선택적 설명. 개인 만들기 드롭다운을 클릭하고 &quot;Match Existing Marketo People and Create Missing People in Marketo&quot;을 선택합니다. _또는_ &quot;기존 Marketo 사용자만 일치&quot;합니다. 이 예에서는 이전 항목을 선택합니다.
+1. 대상 입력 **이름** 및 선택적 설명. 개인 만들기 드롭다운을 클릭하고 &quot;Match Existing Marketo People and Create Missing People in Marketo&quot;을 선택합니다. _또는_ &quot;기존 Marketo 사용자만 일치&quot;합니다. 이 예에서는 이전 항목을 선택합니다. 선택적으로 작업 공간을 선택하거나 기본값으로 이동할 수도 있습니다.
 
    ![](assets/push-an-adobe-experience-platform-segment-9.png)
 
@@ -94,9 +94,13 @@ ht-degree: 0%
 
    ![](assets/push-an-adobe-experience-platform-segment-14.png)
 
-1. 을 선택하여 이름 매핑 **firstName** 및 **선택**.
+1. 원하는 속성을 선택하고 을 클릭합니다 **선택**. 이 예제에서는 이름, 성 및 이메일 주소를 선택합니다.
 
    ![](assets/push-an-adobe-experience-platform-segment-15.png)
+
+   >[!NOTE]
+   >
+   >Experience Platform의 속성을 조직에서 Marketo Engage에서 액세스할 수 있는 속성에 매핑할 수 있습니다. 를 사용하십시오 [API 요청 설명](https://developers.marketo.com/rest-api/lead-database/leads/#describe){target=&quot;_blank&quot;} 를 사용하여 조직에서 액세스할 수 있는 속성 필드를 검색합니다.
 
 1. 을 클릭하여 성 및 회사 이름 매핑 **새 매핑 추가** 다시 15단계를 두 번 반복하여 **lastName** 그리고 **companyName**.
 
@@ -142,22 +146,6 @@ ht-degree: 0%
 
    ![](assets/push-an-adobe-experience-platform-segment-25.png)
 
-1. 이제 목록의 ID가 필요합니다. 브라우저에서 Marketo 정적 목록이 있는 탭을 클릭하거나 새 탭을 열고 원하는 정적 목록을 선택합니다.
+1. 변경 내용을 검토하고 를 클릭합니다. **완료**.
 
    ![](assets/push-an-adobe-experience-platform-segment-26.png)
-
-   >[!NOTE]
-   >
-   >최상의 결과를 얻으려면 빈 Marketo Engage 목록을 사용하십시오.
-
-1. URL 끝에 있는 목록 ID를 강조 표시하고 복사합니다.
-
-   ![](assets/push-an-adobe-experience-platform-segment-27.png)
-
-1. 매핑 ID 아래에 방금 복사한 ID를 붙여넣고 를 클릭합니다 **다음**.
-
-   ![](assets/push-an-adobe-experience-platform-segment-28.png)
-
-1. 클릭 **완료**.
-
-   ![](assets/push-an-adobe-experience-platform-segment-29.png)
