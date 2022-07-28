@@ -3,9 +3,9 @@ audience: end-user
 user-guide-title: Marketo 안내서
 user-guide-description: Marketo 제품 설명서
 feature-set: Marketo Engage
-source-git-commit: 4bff61b90cbbe9466c23d9b003378eb72570f56c
+source-git-commit: ea2ee32a4c8805154f17717d515bb994dbfbe982
 workflow-type: tm+mt
-source-wordcount: '8790'
+source-wordcount: '8793'
 ht-degree: 0%
 
 ---
@@ -1448,6 +1448,7 @@ ht-degree: 0%
          + 기능 {#features}
             + [MSI 기능 개요](product-docs/marketo-sales-insight/msi-for-salesforce/features/msi-feature-overview.md)
             + [통찰력 대시보드 기능 개요](product-docs/marketo-sales-insight/msi-for-salesforce/features/insights-dashboard-feature-overview.md)
+            + [Dynamic Chat 통합](product-docs/marketo-sales-insight/msi-for-salesforce/features/dynamic-chat-integration.md)
             + [Marketo Sales Insight의 여러 레코드로 이메일 보내기](product-docs/marketo-sales-insight/msi-for-salesforce/features/send-an-email-to-multiple-records-in-marketo-sales-insight.md)
             + MSI 패널의 작업 {#actions-in-the-msi-panel}
                + [Sales Insight에서 작업 선택](product-docs/marketo-sales-insight/msi-for-salesforce/features/actions-in-the-msi-panel/choose-an-action-in-sales-insight.md)
