@@ -2,9 +2,9 @@
 description: 동적 채팅 개요 - Marketo 문서 - 제품 설명서
 title: 동적 채팅 개요
 exl-id: 73ab651e-bb11-459d-aa6a-39d9e208d512
-source-git-commit: b2b37b8124d1178a6a0005c7d57d4c8505d62bd8
+source-git-commit: 8f7b773f964b68a7964744de8c1bd3b708719a12
 workflow-type: tm+mt
-source-wordcount: '918'
+source-wordcount: '951'
 ht-degree: 1%
 
 ---
@@ -170,5 +170,15 @@ AI/NLP 기능은 지원하지 않습니다.
   <td>모임 예약 활동 보존 기간</td>
   <td>모임 예약 활동이 Dynamic Chat에 저장되는 시간입니다</td>
   <td>24개월</td>
+ </tr>
+ <tr>
+  <td>대화 참여</td>
+  <td>일별 웹 방문자와 참여할 수 있는 채팅 대화 수</td>
+  <td>1,000</td>
+ </tr>
+ <tr>
+  <td>트리거된 대화</td>
+  <td>하루에 웹 방문자에게 표시할 수 있는 채팅 대화 수</td>
+  <td>25,000</td>
  </tr>
 </table>

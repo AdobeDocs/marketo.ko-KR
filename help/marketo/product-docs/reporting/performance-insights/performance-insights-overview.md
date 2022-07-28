@@ -3,9 +3,9 @@ unique-page-id: 12979006
 description: 성능 통찰력 개요 - Marketo 문서 - 제품 설명서
 title: 성능 통찰력 개요
 exl-id: f89f8500-5623-4ee2-a7c0-1d561dd40687
-source-git-commit: 75c06c8d2eda0da6b8bdcd9011df3ca5deacfd6d
+source-git-commit: 8f7b773f964b68a7964744de8c1bd3b708719a12
 workflow-type: tm+mt
-source-wordcount: '216'
+source-wordcount: '231'
 ht-degree: 0%
 
 ---
@@ -13,6 +13,10 @@ ht-degree: 0%
 # 성능 통찰력 개요 {#performance-insights-overview}
 
 Marketo Performance Insights는 채널 조합을 최적화하여 최대 효과를 얻을 수 있을 뿐만 아니라 장기적인 추세를 파악하여 일관된 우승 전략을 찾을 수 있습니다.
+
+>[!AVAILABILITY]
+>
+>모든 고객이 이 기능을 구입한 것은 아닙니다. 자세한 내용은 고객 성공 관리자에게 문의하십시오.
 
 성능 인사이트는 이전 24개월의 (최대) 데이터를 로드합니다. 여기에는 전년도 데이터와 현재 연간 데이터가 포함됩니다. 예를 들어, 2019년 1월 31일에 MPI는 해당 월의 데이터를 로드하고 2018년부터 매월 데이터를 로드합니다. 2019년 12월 31일에 MPI는 2019년과 2018년 매월 데이터를 로드합니다.
 
