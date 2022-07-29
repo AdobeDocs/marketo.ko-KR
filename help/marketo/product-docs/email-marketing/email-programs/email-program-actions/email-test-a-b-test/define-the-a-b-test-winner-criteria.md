@@ -3,9 +3,9 @@ unique-page-id: 2359545
 description: A/B 테스트 승자 기준 정의 - Marketo 문서 - 제품 설명서
 title: A/B 테스트 승자 기준 정의
 exl-id: be8a0887-70f4-4667-93a6-d982a16cdfdb
-source-git-commit: acea096990b834654b47c40b601ef2418069b9b5
+source-git-commit: 67ae4605d541a475b42a5094a5588c469a9d975d
 workflow-type: tm+mt
-source-wordcount: '421'
+source-wordcount: '439'
 ht-degree: 0%
 
 ---
@@ -63,9 +63,9 @@ When [A/B 테스트 추가](/help/marketo/product-docs/email-marketing/email-pro
 
    ![](assets/image2014-9-12-15-3a53-3a11.png)
 
-   >[!NOTE]
+   >[!IMPORTANT]
    >
-   >Marketo에서는 이 이메일 프로그램에서 이메일을 보낸 사람에 대해서만 트리거를 허용합니다. &quot;이메일을 전송함&quot; 필터를 추가할 필요가 없습니다.
+   >Marketo에서는 이 이메일 프로그램에서 이메일을 보낸 사람에 대한 트리거/필터만 허용하므로 &#39;이메일을 전송함&#39; 필터를 추가할 필요가 없습니다. 또한 전자 메일 관련 트리거/필터를 사용할 때는 &quot;is any&quot;를 연산자로 사용해야 합니다.
 
 1. 클릭 **닫기**.
 
