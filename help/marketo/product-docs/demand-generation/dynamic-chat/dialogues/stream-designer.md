@@ -2,10 +2,10 @@
 description: 스트림 디자이너 - Marketo 문서 - 제품 설명서
 title: 스트림 디자이너
 exl-id: aa44c7a5-f81b-4029-a1a4-5439bea83847
-source-git-commit: f08484455baaf073bb42ae8a62a9dcc6fc7fd48f
+source-git-commit: a70ce09e446769b3b3177e8d5cf902d1ab8cbb05
 workflow-type: tm+mt
-source-wordcount: '0'
-ht-degree: 0%
+source-wordcount: '756'
+ht-degree: 2%
 
 ---
 
@@ -15,7 +15,7 @@ ht-degree: 0%
 
 >[!PREREQUISITES]
 >
->문서 카드를 사용하려면 먼저 [설정](/help/marketo/product-docs/demand-generation/dynamic-chat/dialogues/using-the-document-card.md)Adobe 계정의 {target=&quot;_blank&quot;}.
+>문서 카드를 사용하려면 먼저 [설정](/help/marketo/product-docs/demand-generation/dynamic-chat/integrations/using-the-document-card.md)Adobe 계정의 {target=&quot;_blank&quot;}.
 
 ## 스트림 디자이너 카드 {#stream-designer-cards}
 
@@ -146,7 +146,7 @@ ht-degree: 0%
 
    ![](assets/stream-designer-16.png)
 
-1. 이 예제에서는 새 문서를 만듭니다. 이름을 지정하고 이미 호스팅한 PDF의 URL을 입력한 다음 를 클릭합니다 **저장**.
+1. 이 예제에서는 새 문서를 만듭니다. 이름을 지정하고 이미 호스팅한 PDF의 URL을 입력한 다음 을 클릭합니다 **저장**.
 
    ![](assets/stream-designer-17.png)
 
