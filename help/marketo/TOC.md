@@ -3,9 +3,9 @@ audience: end-user
 user-guide-title: Marketo 안내서
 user-guide-description: Marketo 제품 설명서
 feature-set: Marketo Engage
-source-git-commit: ea2ee32a4c8805154f17717d515bb994dbfbe982
+source-git-commit: 5c6ef7791966b2b71c4d85262f4f3fde04149878
 workflow-type: tm+mt
-source-wordcount: '8793'
+source-wordcount: '8794'
 ht-degree: 0%
 
 ---
@@ -612,16 +612,17 @@ ht-degree: 0%
       + 다이내믹 채팅 {#dynamic-chat}
          + [동적 채팅 개요](product-docs/demand-generation/dynamic-chat/dynamic-chat-overview.md)
          + [초기 설정](product-docs/demand-generation/dynamic-chat/initial-setup.md)
-         + [Marketo에 동적 채팅 연결](product-docs/demand-generation/dynamic-chat/connect-dynamic-chat-to-marketo.md)
          + [채팅 사용자 추가 또는 제거](product-docs/demand-generation/dynamic-chat/add-or-remove-chat-users.md)
          + [구성](product-docs/demand-generation/dynamic-chat/configuration.md)
          + [동적 채팅 활동](product-docs/demand-generation/dynamic-chat/dynamic-chat-activities.md)
+         + 통합 {#integrations}
+            + [Marketo에 동적 채팅 연결](product-docs/demand-generation/dynamic-chat/integrations/connect-dynamic-chat-to-marketo.md)
+            + [문서 카드 사용](product-docs/demand-generation/dynamic-chat/integrations/using-the-document-card.md)
          + 대화 상자 {#dialogues}
             + [대화 상자 개요](product-docs/demand-generation/dynamic-chat/dialogues/dialogue-overview.md)
             + [대화 상자 만들기](product-docs/demand-generation/dynamic-chat/dialogues/create-a-dialogue.md)
             + [대상 기준](product-docs/demand-generation/dynamic-chat/dialogues/audience-criteria.md)
             + [스트림 디자이너](product-docs/demand-generation/dynamic-chat/dialogues/stream-designer.md)
-            + [문서 카드 사용](product-docs/demand-generation/dynamic-chat/dialogues/using-the-document-card.md)
             + [보고서](product-docs/demand-generation/dynamic-chat/dialogues/reports.md)
       + 이벤트 {#events}
          + 이벤트 이해 {#understanding-events}
