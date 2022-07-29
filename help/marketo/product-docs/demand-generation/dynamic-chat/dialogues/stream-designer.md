@@ -2,7 +2,7 @@
 description: 스트림 디자이너 - Marketo 문서 - 제품 설명서
 title: 스트림 디자이너
 exl-id: aa44c7a5-f81b-4029-a1a4-5439bea83847
-source-git-commit: a70ce09e446769b3b3177e8d5cf902d1ab8cbb05
+source-git-commit: eb23d3b6538fd660a95bfb3fdcfc21ccc29c9944
 workflow-type: tm+mt
 source-wordcount: '756'
 ht-degree: 2%
@@ -146,7 +146,7 @@ ht-degree: 2%
 
    ![](assets/stream-designer-16.png)
 
-1. 이 예제에서는 새 문서를 만듭니다. 이름을 지정하고 이미 호스팅한 PDF의 URL을 입력한 다음 을 클릭합니다 **저장**.
+1. 이 예제에서는 새 문서를 만듭니다. 이름을 지정하고 이미 호스팅한 PDF의 URL을 입력한 다음 를 클릭합니다 **저장**.
 
    ![](assets/stream-designer-17.png)
 
@@ -167,5 +167,5 @@ ht-degree: 2%
 >* [대화 상자 만들기](/help/marketo/product-docs/demand-generation/dynamic-chat/dialogues/create-a-dialogue.md){target=&quot;_blank&quot;}
 >* [대상 기준](/help/marketo/product-docs/demand-generation/dynamic-chat/dialogues/audience-criteria.md){target=&quot;_blank&quot;}
 >* [보고서](/help/marketo/product-docs/demand-generation/dynamic-chat/dialogues/reports.md){target=&quot;_blank&quot;}
->* [문서 카드 사용](/help/marketo/product-docs/demand-generation/dynamic-chat/dialogues/using-the-document-card.md){target=&quot;_blank&quot;}
+>* [문서 카드 사용](/help/marketo/product-docs/demand-generation/dynamic-chat/integrations/using-the-document-card.md){target=&quot;_blank&quot;}
 

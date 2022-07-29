@@ -2,7 +2,7 @@
 description: 초기 설정 - Marketo 문서 - 제품 설명서
 title: 초기 설정
 exl-id: 72c20e8f-879d-4490-a87f-3d8e2ba1f263
-source-git-commit: 8aaa6f5225f7965228c3472c0cf6beb2259f3642
+source-git-commit: eb23d3b6538fd660a95bfb3fdcfc21ccc29c9944
 workflow-type: tm+mt
 source-wordcount: '112'
 ht-degree: 0%
@@ -31,4 +31,4 @@ ht-degree: 0%
 
 1. Admin Console에 로그인한 후 다음을 수행합니다. 그 과정이 있습니다 [여기](/help/marketo/product-docs/demand-generation/dynamic-chat/add-or-remove-chat-users.md#add-a-chat-user).
 
-다음, 이제 [Marketo에 다이내믹 채팅 연결](/help/marketo/product-docs/demand-generation/dynamic-chat/connect-dynamic-chat-to-marketo.md).
+다음, 이제 [Marketo에 다이내믹 채팅 연결](/help/marketo/product-docs/demand-generation/dynamic-chat/integrations/connect-dynamic-chat-to-marketo.md).
