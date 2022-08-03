@@ -2,9 +2,9 @@
 description: 현재 릴리스 노트 - Marketo 문서 - 제품 설명서
 title: 현재 릴리스 노트
 exl-id: a2eccad5-73ad-48f9-8091-51cee23824e1
-source-git-commit: 75c06c8d2eda0da6b8bdcd9011df3ca5deacfd6d
+source-git-commit: 40af69d035323a066fd61dcb51fe1636fb26e8c2
 workflow-type: tm+mt
-source-wordcount: '571'
+source-wordcount: '551'
 ht-degree: 0%
 
 ---
@@ -63,8 +63,6 @@ ht-degree: 0%
 ## API 개선 사항 {#api-enhancements}
 
 * **벌크 프로그램 멤버 추출 API에 대한 새로운 필터링 기능**: 프로그램 멤버십 상태, updatedAt, cadence 또는 고갈된 컨텐츠별로 필터링하여 추출된 데이터 세트를 세분화합니다.
-
-* **웹 서비스에서 API 전용 사용자 노출 오류 알림**: 문제 해결을 개선하기 위해 웹 서비스 오류를 생성한 API 전용 사용자를 참조하십시오.
 
 ## 공지 {#announcements}
 
