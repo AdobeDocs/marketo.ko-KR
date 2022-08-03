@@ -3,7 +3,7 @@ unique-page-id: 2360407
 description: 리드를 나열하는 이메일 분석 보고서 작성 - Marketo 문서 - 제품 설명서
 title: 리드를 나열하는 이메일 분석 보고서 작성
 exl-id: f431610c-6570-4df0-9d64-d37d21010604
-source-git-commit: 40af69d035323a066fd61dcb51fe1636fb26e8c2
+source-git-commit: 62f46579b9275f30938b9c57e7fb98ca6dca0ae1
 workflow-type: tm+mt
 source-wordcount: '208'
 ht-degree: 0%
@@ -12,11 +12,11 @@ ht-degree: 0%
 
 # 리드를 나열하는 이메일 분석 보고서 작성 {#build-an-email-analysis-report-that-lists-leads}
 
+다음 단계에 따라 특정 전자 메일을 보낸 모든 리드를 보여 주는 이메일 분석 보고서를 만듭니다. 이 보고서에는 클릭 및 열기 상태도 포함됩니다.
+
 >[!AVAILABILITY]
 >
 >모든 고객이 이 기능을 구입한 것은 아닙니다. 자세한 내용은 고객 성공 관리자에게 문의하십시오.
-
-다음 단계에 따라 특정 전자 메일을 보낸 모든 리드를 보여 주는 이메일 분석 보고서를 만듭니다. 이 보고서에는 클릭 및 열기 상태도 포함됩니다.
 
 >[!NOTE]
 >

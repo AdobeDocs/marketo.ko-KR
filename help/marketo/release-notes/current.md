@@ -2,9 +2,9 @@
 description: 현재 릴리스 노트 - Marketo 문서 - 제품 설명서
 title: 현재 릴리스 노트
 exl-id: a2eccad5-73ad-48f9-8091-51cee23824e1
-source-git-commit: 40af69d035323a066fd61dcb51fe1636fb26e8c2
+source-git-commit: 62f46579b9275f30938b9c57e7fb98ca6dca0ae1
 workflow-type: tm+mt
-source-wordcount: '551'
+source-wordcount: '580'
 ht-degree: 0%
 
 ---
@@ -17,7 +17,7 @@ ht-degree: 0%
 >
 >별로 표시된 기능(![별](assets/yellow-star.png))은 유료 추가 기능입니다. 자세한 내용은 Marketo Engage 담당자에게 문의하십시오.
 
-다음 기능은에서 릴리스되기 시작합니다 **2022년 8월 19일**- 후속 주 동안 나머지 기능에 대한 단계적 롤아웃을 사용합니다(별도로 지정하지 않는 경우). 릴리스 기능과 정확한 날짜는 변경될 수 있습니다.
+다음 기능은에서 릴리스되기 시작합니다 **2022년 8월 26일**- 후속 주 동안 나머지 기능에 대한 단계적 롤아웃을 사용합니다(별도로 지정하지 않는 경우). 릴리스 기능과 정확한 날짜는 변경될 수 있습니다.
 
 ## 크로스 채널 오케스트레이션 {#cross-channel-orchestration}
 
@@ -63,6 +63,12 @@ ht-degree: 0%
 ## API 개선 사항 {#api-enhancements}
 
 * **벌크 프로그램 멤버 추출 API에 대한 새로운 필터링 기능**: 프로그램 멤버십 상태, updatedAt, cadence 또는 고갈된 컨텐츠별로 필터링하여 추출된 데이터 세트를 세분화합니다.
+
+## Sales Insight {#sales-insight}
+
+![(별)](assets/yellow-star.png)
+
+* **Dynamic Chat와 Sales Insight 통합**: Sales Insight 패널에서 Dynamic Chat에서 활동을 보고 이 새로운 데이터 포인트를 잠재 고객 대상 작업에서 활용할 수 있습니다.
 
 ## 공지 {#announcements}
 
