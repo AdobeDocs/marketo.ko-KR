@@ -2,7 +2,7 @@
 description: 현재 릴리스 노트 - Marketo 문서 - 제품 설명서
 title: 현재 릴리스 노트
 exl-id: a2eccad5-73ad-48f9-8091-51cee23824e1
-source-git-commit: 62f46579b9275f30938b9c57e7fb98ca6dca0ae1
+source-git-commit: 87e5bab3f668509bd791a0ec1ff0e2174eadda09
 workflow-type: tm+mt
 source-wordcount: '580'
 ht-degree: 0%
@@ -35,8 +35,8 @@ ht-degree: 0%
 
 * **차세대 경험에서 업데이트된 화면**: 전환 스위치를 통해 액세스할 수 있는 업데이트된 디자인 및 유용성 개선 사항을 제공하는 차세대 환경에서 새로 고친 추가 화면을 제공하고 있습니다.
 
-   * &quot;이미지 및 파일&quot; 세부 정보
    * 코드 조각 세부 사항
+   * &quot;이미지 및 파일&quot; 세부 정보
 
 >[!NOTE]
 >
