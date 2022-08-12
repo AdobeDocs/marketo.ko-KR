@@ -3,9 +3,9 @@ audience: end-user
 user-guide-title: Marketo 안내서
 user-guide-description: Marketo 제품 설명서
 feature-set: Marketo Engage
-source-git-commit: 5c6ef7791966b2b71c4d85262f4f3fde04149878
+source-git-commit: 4ec9338bec2e0255eab4304da74464dd47ffae24
 workflow-type: tm+mt
-source-wordcount: '8794'
+source-wordcount: '8805'
 ht-degree: 0%
 
 ---
@@ -708,6 +708,9 @@ ht-degree: 0%
             + [양식에서 필드 순서 조정](product-docs/demand-generation/forms/form-fields/reorder-fields-in-a-form.md)
             + [양식 필드를 숨김으로 설정](product-docs/demand-generation/forms/form-fields/set-a-form-field-as-hidden.md)
             + [숨겨진 양식 필드 값 설정](product-docs/demand-generation/forms/form-fields/set-a-hidden-form-field-value.md)
+         + CAPTCHA 사용 {#using-captcha}
+            + [reCAPTCHA v3 설정](product-docs/demand-generation/forms/using-captcha/setting-up-recaptcha-v3.md)
+            + [Marketo Engage에서 CAPTCHA 활성화](product-docs/demand-generation/forms/using-captcha/enable-captcha-in-marketo-engage.md)
       + 이미지 및 파일 {#images-and-files}
          + [Marketo에 이미지 및 파일 추가](product-docs/demand-generation/images-and-files/add-images-and-files-to-marketo.md)
          + [업로드된 이미지 또는 파일 삭제](product-docs/demand-generation/images-and-files/delete-an-uploaded-image-or-file.md)
