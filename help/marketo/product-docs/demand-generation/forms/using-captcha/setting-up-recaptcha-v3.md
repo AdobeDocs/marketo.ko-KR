@@ -4,18 +4,18 @@ title: reCAPTCHA v3 설정
 hide: true
 hidefromtoc: true
 exl-id: 235a2688-59a8-4827-a929-a07f3ae06988
-source-git-commit: 1803d6355747f4b6300509a3d361bf235dd56f44
+source-git-commit: ccc62b22f260293ac193ce03a31e4f03aba34768
 workflow-type: tm+mt
-source-wordcount: '205'
+source-wordcount: '204'
 ht-degree: 0%
 
 ---
 
-# reCAPTCHA 설정 {#setting-up-recaptcha}
+# reCAPTCHA v3 설정 {#setting-up-recaptcha-v3}
 
 소개 텍스트
 
-## reCAPTCHA v3 설정 {#setting-up-recaptcha-v3}
+## 초기 reCAPTCHA v3 설정 {#initial-recaptcha-v3-setup}
 
 텍스트: 설명 v3 - Marketo Engage 외부에서 다음 단계를 수행합니다.
 
@@ -47,18 +47,22 @@ ht-degree: 0%
 
 ## Marketo Engage에서 CAPTCHA 설정 {#setting-up-captcha-in-marketo-engage}
 
-1. Marketo에서 **관리** 을(를) 선택합니다. **CAPTCHA**.
+1. Marketo에서 **관리**.
 
-PICC
+   ![](assets/setting-up-recaptcha-v3-1.png)
+
+1. 선택 **CAPTCHA** 나무에 있습니다.
+
+   ![](assets/setting-up-recaptcha-v3-2.png)
 
 1. 클릭 **편집** CAPTCHA 설정
 
-PICC
+   ![](assets/setting-up-recaptcha-v3-3.png)
 
 1. CAPTCHA 드롭다운을 클릭하고 reCAPTCHA v3을 선택합니다.
 
-PICC
+   ![](assets/setting-up-recaptcha-v3-4.png)
 
 1. 비밀 키 및 사이트 키를 삽입합니다. 클릭 **저장** 완료 시.
 
-PICC
+   ![](assets/setting-up-recaptcha-v3-5.png)
