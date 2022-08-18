@@ -4,9 +4,9 @@ title: reCAPTCHA v3 설정
 hide: true
 hidefromtoc: true
 exl-id: 235a2688-59a8-4827-a929-a07f3ae06988
-source-git-commit: ccc62b22f260293ac193ce03a31e4f03aba34768
+source-git-commit: 24942664d613fa2851bad7a0dd3862027deacf37
 workflow-type: tm+mt
-source-wordcount: '204'
+source-wordcount: '205'
 ht-degree: 0%
 
 ---
@@ -23,7 +23,7 @@ ht-degree: 0%
 
 1. Google 계정으로 로그인/등록.
 
-1. 만들기(+ 기호) 단추를 클릭하여 새 키를 만듭니다.
+1. 만들기 단추(+ 기호)를 클릭하여 새 키를 만듭니다.
 
 1. Marketo Engage에 사용할 키를 식별하는 레이블을 만듭니다.
 
@@ -43,7 +43,7 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->Marketo Engage 구성에 도움이 되도록 사이트 키와 비밀 키를 가까이 보관합니다.
+>Marketo Engage 구성에 대해 사이트 키와 비밀 키를 가까이 보관합니다.
 
 ## Marketo Engage에서 CAPTCHA 설정 {#setting-up-captcha-in-marketo-engage}
 
