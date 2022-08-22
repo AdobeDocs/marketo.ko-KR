@@ -1,12 +1,10 @@
 ---
 description: 동적 채팅 활동 - Marketo 문서 - 제품 설명서
 title: 동적 채팅 활동
-hide: true
-hidefromtoc: true
 exl-id: ef3bb1a3-6758-4798-92eb-fef28a5ff9c7
-source-git-commit: 24942664d613fa2851bad7a0dd3862027deacf37
+source-git-commit: d5865cb473f984ffb992a6b439c85e58da89e6dc
 workflow-type: tm+mt
-source-wordcount: '66'
+source-wordcount: '0'
 ht-degree: 0%
 
 ---
@@ -20,6 +18,5 @@ ht-degree: 0%
 ## 참고 사항 {#things-to-note}
 
 * 동적 채팅 흐름 단계에서 조건이 지원됩니다
-* —Marketo 측정—
 * 동적 채팅 활동은 [Marketo Sales Insight](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/features/dynamic-chat-integration.md){target=&quot;_blank&quot;}
 * 개인 레코드의 활동 로그에서 개별 동적 채팅 활동을 볼 수 있습니다
