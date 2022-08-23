@@ -1,25 +1,24 @@
 ---
 unique-page-id: 2359578
-description: 양식 승인 - 마케팅 문서 - 제품 설명서
+description: 양식 승인 - Marketo 문서 - 제품 설명서
 title: 양식 승인
-translation-type: tm+mt
-source-git-commit: ed83438ae5660d172e845f25c4d72d599574bd91
+exl-id: 4ff280d9-dfff-4d1e-829e-74414d731d57
+source-git-commit: cc66f4ff2e3e0e6ddfabab91215e3ad31f3b9226
 workflow-type: tm+mt
-source-wordcount: '151'
+source-wordcount: '123'
 ht-degree: 0%
 
 ---
 
+# 양식 승인 {#approve-a-form}
 
-# 양식 {#approve-a-form} 승인
+랜딩 페이지 중 하나에 양식을 추가하려면 승인해야 합니다. 어떻게 하는지 알려드리겠습니다.
 
-랜딩 페이지 중 하나에 양식을 추가하려면 승인되어야 합니다. 방법
+## 양식 승인 {#approve-a-form-1}
 
-## 양식 {#approve-a-form-1} 승인
+준비가 완료된 기존 양식을 승인하는 방법은 다음과 같습니다.
 
-바로 사용할 수 있는 기존 양식을 승인하는 방법을 설명합니다.
-
-1. **마케팅 활동**&#x200B;으로 이동합니다.
+1. 이동 **마케팅 활동**.
 
    ![](assets/login-marketing-activities-7.png)
 
@@ -27,39 +26,32 @@ ht-degree: 0%
 
    ![](assets/image2014-9-15-17-3a49-3a40.png)
 
-1. **양식 작업**&#x200B;에서 **승인**&#x200B;을 클릭합니다.
+1. 아래 **양식 작업**&#x200B;를 클릭합니다. **승인**.
 
    ![](assets/image2014-9-15-17-3a49-3a47.png)
 
-1. 녹색 체크 표시
+1. 녹색 확인 표시가 보이십니까?
 
    ![](assets/image2014-9-15-17-3a50-3a2.png)
 
-   승인되었으며 랜딩 페이지](/help/marketo/product-docs/demand-generation/landing-pages/understanding-landing-pages/approve-unapprove-or-delete-a-landing-page.md)에 [추가할 준비가 되었습니다.
+   승인되어 준비되었습니다. [랜딩 페이지에 추가됨](/help/marketo/product-docs/demand-generation/landing-pages/understanding-landing-pages/approve-unapprove-or-delete-a-landing-page.md).
 
    >[!NOTE]
    >
-   >승인 후 변경한 내용은 포함된 양식을 업데이트하는 데 최대 4분이 소요됩니다.
+   >승인 후 변경된 사항은 포함된 양식에서 업데이트하는 데 몇 분이 걸릴 수 있습니다.
 
 ## 편집기에서 양식 승인 {#approve-a-form-from-the-editor}
 
-양식을 변경하는 경우 편집기에서 바로 페이지를 승인할 수 있습니다.
+양식을 변경하는 경우 편집기에서 직접 페이지를 승인할 수 있습니다.
 
 >[!PREREQUISITES]
 >
->* [양식 편집](/help/marketo/product-docs/demand-generation/forms/form-actions/edit-a-form.md)
+>[양식 편집](/help/marketo/product-docs/demand-generation/forms/form-actions/edit-a-form.md)
 
-
-1. **완료**&#x200B;를 클릭합니다.
+1. 클릭 **완료**.
 
    ![](assets/image2014-9-15-17-3a51-3a43.png)
 
-1. **승인 및 닫기**&#x200B;를 클릭합니다.
+1. 클릭 **승인 및 닫기**.
 
    ![](assets/image2014-9-15-17-3a52-3a1.png)
-
->[!NOTE]
->
->양식을 승인하고 편집한 경우 [랜딩 페이지](/help/marketo/product-docs/demand-generation/landing-pages/understanding-landing-pages/approve-unapprove-or-delete-a-landing-page.md)에 대한 승인을 통해 변경 사항을 확인합니다.
-
-바로 그거야! 간편하게

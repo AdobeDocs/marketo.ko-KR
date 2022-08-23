@@ -4,7 +4,7 @@ title: reCAPTCHA v3 설정
 hide: true
 hidefromtoc: true
 exl-id: 235a2688-59a8-4827-a929-a07f3ae06988
-source-git-commit: cdc8d5f3322b9d19d50f9f4bd8156b7e3a627977
+source-git-commit: cc66f4ff2e3e0e6ddfabab91215e3ad31f3b9226
 workflow-type: tm+mt
 source-wordcount: '318'
 ht-degree: 0%
@@ -13,7 +13,7 @@ ht-degree: 0%
 
 # reCAPTCHA v3 설정 {#setting-up-recaptcha-v3}
 
-reCAPTCHA v3는 텍스트, 이미지 또는 단추 관련 문제를 사용하지 않고 의심스러운 위치를 기반으로 양식 제출을 평가하는 마찰없는 경험입니다. [추가 정보](https://developers.google.com/search/blog/2018/10/introducing-recaptcha-v3-new-way-to){target=&quot;_blank&quot;}.
+ReCAPTCHA v3는 텍스트, 이미지 또는 단추 관련 문제를 사용하지 않고 의심스러운 위치를 기반으로 양식 제출 점수를 매기는 마찰이 없는 경험입니다. [추가 정보](https://developers.google.com/search/blog/2018/10/introducing-recaptcha-v3-new-way-to){target=&quot;_blank&quot;}.
 
 ## 데이터 센터 및 Munchkin ID 검색 {#retrieve-your-data-center-and-munchkin-id}
 
@@ -61,9 +61,9 @@ reCAPTCHA v3는 텍스트, 이미지 또는 단추 관련 문제를 사용하지
 
 1. 클릭 **제출**.
 
->[!NOTE]
->
->Marketo Engage 구성에 대해 사이트 키와 비밀 키를 가까이 보관합니다.
+   >[!NOTE]
+   >
+   >Marketo Engage 구성에 대해 사이트 키와 비밀 키를 가까이 보관합니다.
 
 ## Marketo Engage에서 CAPTCHA 설정 {#setting-up-captcha-in-marketo-engage}
 
