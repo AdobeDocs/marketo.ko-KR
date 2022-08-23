@@ -4,9 +4,9 @@ title: Marketo Forms에서 CAPTCHA 활성화
 hide: true
 hidefromtoc: true
 exl-id: d83fc2d3-7ae4-4927-9a09-ea6995013b6f
-source-git-commit: ccc62b22f260293ac193ce03a31e4f03aba34768
+source-git-commit: cdc8d5f3322b9d19d50f9f4bd8156b7e3a627977
 workflow-type: tm+mt
-source-wordcount: '64'
+source-wordcount: '0'
 ht-degree: 0%
 
 ---
@@ -38,3 +38,7 @@ ht-degree: 0%
 1. 클릭 **승인 및 닫기**.
 
    ![](assets/enable-captcha-in-marketo-forms-6.png)
+
+>[!NOTE]
+>
+>이 목록에 대한 변경 사항이 Google에서 전파되는 데 몇 분이 걸릴 수 있습니다.
