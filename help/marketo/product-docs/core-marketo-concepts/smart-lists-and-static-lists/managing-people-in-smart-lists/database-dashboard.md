@@ -3,38 +3,33 @@ unique-page-id: 10097447
 description: 데이터베이스 대시보드 - Marketo 문서 - 제품 설명서
 title: 데이터베이스 대시보드
 exl-id: 44b00d28-a224-4f09-8307-468c14ddb0df
-translation-type: tm+mt
-source-git-commit: d81a4a3caa12c5ec642afadf9328b3825bde6fed
+source-git-commit: 1de5fe50189da04ccdbcdcd017e294e5b8cba1af
 workflow-type: tm+mt
-source-wordcount: '141'
+source-wordcount: '0'
 ht-degree: 0%
 
 ---
 
 # 데이터베이스 대시보드 {#database-dashboard}
 
-데이터베이스 대시보드는 작업 공간 내에서 사용자에 대한 주요 속성을 빠르게 판별하는 데 도움이 되는 스냅샷 역할을 합니다.
+데이터베이스 대시보드는 작업 공간 내의 사용자에 대한 주요 속성을 빠르게 확인할 수 있는 스냅샷 역할을 합니다.
 
 >[!NOTE]
 >
 >각 작업 영역에는 자체 데이터베이스 대시보드가 있습니다.
 
-이 타일을 시작하려면 홈 화면에서 **데이터베이스** 타일을 클릭합니다.
+액세스하려면 다음을 선택합니다. **데이터베이스** 내 Marketo에서
 
-![](assets/db-3.png)
+![](assets/database-dashboard-1.png)
 
-또는 Marketo 로고를 클릭하고 **데이터베이스**&#x200B;를 선택합니다.
+이 그래프는 총 인구 수, 마케팅 가능한 사람 수 및 상위 5명의 개인 획득 소스를 나타냅니다. 자세한 내용은 녹색 영역 위로 마우스를 가져갑니다.
 
-![](assets/db2.png)
-
-이 그래프에는 총 사용자 수, 마케팅 가능한 사람 수 및 상위 5명의 인득 소스를 보여줍니다.
-
-![](assets/three-7.png)
+![](assets/database-dashboard-2.png)
 
 >[!TIP]
 >
->사용자에 대한 보다 구체적이거나 시기적절한 정보를 얻고자 하십니까? [사람 성과 보고서](/help/marketo/product-docs/reporting/basic-reporting/report-types/people-performance-report.md)를 사용해 보십시오.
+>사용자에 대한 자세한 정보를 적시에 제공하시겠습니까? 사용해 보기 [사람 성과 보고서](/help/marketo/product-docs/reporting/basic-reporting/report-types/people-performance-report.md).
 
-**총 사람 수:** 해당 작업 영역에 대한 전체 사람 수입니다.
+**총 사용자 수:** 나열된 작업 영역에 대한 모든 시간 사람 수입니다.
 
-**마케팅 가능한 사람:** 작업 공간에 대한 모든 기간 사람들의 수에서 다음을  _뺀 값입니다_.이메일 주소가 없는 사람, 이메일이 많이 반송된 사람, 구독 취소된 사람, 차단 목록에 추가된 현재 마케팅 일시 중단으로 설정된 사람.
+**마케팅 가능한 사람:** 나열된 작업 영역에 대한 모든 사용자 수, _다음을 빼기_: 이메일 주소가 없는 사람, 이메일이 많이 바운스된 사람, 차단 목록에 추가된 사용자, 구독을 취소한 사람, 현재 마케팅 일시 중단으로 설정된 사람.
