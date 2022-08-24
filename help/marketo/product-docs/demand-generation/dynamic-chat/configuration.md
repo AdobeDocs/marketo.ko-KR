@@ -2,10 +2,10 @@
 description: 구성 - Marketo 문서 - 제품 설명서
 title: 구성
 exl-id: aff17715-b178-4468-b06f-22b3fe3c18ce
-source-git-commit: 0c7299de282194a01783e9c2d484c1d206460e01
+source-git-commit: 6f1319c7a175d6b3753324ae21816efb2f416050
 workflow-type: tm+mt
-source-wordcount: '287'
-ht-degree: 0%
+source-wordcount: '296'
+ht-degree: 1%
 
 ---
 
@@ -37,7 +37,7 @@ ht-degree: 0%
 
 **에이전트 설정**
 
-에이전트 설정에서 차트박스에 레이블을 추가할 수 있습니다(예: Adobe 보트 의 맨 위에 표시됩니다. 응답 지연(초)을 결정하고 채팅 아바타를 변경할 수도 있습니다.
+에이전트 설정에서 차트박스에 레이블을 추가할 수 있습니다(예: Adobe 보트 의 맨 위에 표시됩니다. 응답 지연(초)을 결정하고 채팅 아바타를 변경할 수도 있습니다. 자신의 아바타 이미지를 업로드하려면 **+** 버튼을 클릭합니다.
 
 ![](assets/configuration-5.png)
 
