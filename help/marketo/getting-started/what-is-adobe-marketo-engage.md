@@ -3,7 +3,7 @@ unique-page-id: 2949467
 description: Adobe Marketo Engage 소개 - Marketo 문서 - 제품 설명서
 title: Adobe Marketo Engage 소개
 exl-id: 7b76e910-6c01-4fdb-8ab8-f6b1abe13136
-source-git-commit: 0da33dfa840dd1e5a5618fcd762b482f7a2e0789
+source-git-commit: e06aa684f8443e3e8684d15628cc445daba456e2
 workflow-type: tm+mt
 source-wordcount: '232'
 ht-degree: 0%
@@ -43,7 +43,7 @@ Marketo Engage에는 마케팅 목표를 달성하는 데 도움이 되는 많�
 
 ## 설정을 수행해야 합니까? {#do-i-need-to-do-any-setup}
 
-네, 우리는 [수행할 작업의 검사 목록](/help/marketo/getting-started/setup-steps/setup-checklist.md){target=&quot;_blank&quot;}.
+네, 우리는 [수행할 작업의 검사 목록](/help/marketo/getting-started/setup/setup-checklist.md){target=&quot;_blank&quot;}.
 
 ## 설치가 완료될 때까지 기다려야 합니까? {#do-i-have-to-wait-until-setup-is-finished-to-learn}
 

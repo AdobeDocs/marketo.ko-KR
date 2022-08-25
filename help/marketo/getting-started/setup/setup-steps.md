@@ -3,7 +3,7 @@ unique-page-id: 2949469
 description: 설정 단계 - Marketo 문서 - 제품 설명서
 title: 설정 단계
 exl-id: ef6b7311-55ca-4384-a24c-714eae89a57d
-source-git-commit: 3f0ccfcb22e0b84c6d1e60b750af955cb442bd36
+source-git-commit: e06aa684f8443e3e8684d15628cc445daba456e2
 workflow-type: tm+mt
 source-wordcount: '2002'
 ht-degree: 0%
@@ -199,7 +199,7 @@ Marketo 추적 링크를 찾으려면 **관리** 영역.
 
 필요한 정보를 모두 수집하면 IT에 요청을 보낼 수 있습니다. 아래 텍스트를 템플릿으로 사용하여 굵은 텍스트를 사용자의 정보로 바꿀 수 있습니다.
 
-[이 문서에 대한 링크 포함](/help/marketo/getting-started/setup-steps/configure-protocols-for-marketo.md).
+[이 문서에 대한 링크 포함](/help/marketo/getting-started/setup/configure-protocols-for-marketo.md).
 
 이 텍스트를 전자 메일에 붙여넣고 굵게 표시된 자리 표시자를 바꿉니다.
 
