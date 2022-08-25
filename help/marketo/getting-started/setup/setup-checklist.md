@@ -3,7 +3,7 @@ unique-page-id: 2949471
 description: 설정 체크리스트 - Marketo 문서 - 제품 설명서
 title: 설정 검사 목록
 exl-id: 397093f8-9daf-468a-adca-acd94303ebe8
-source-git-commit: 3f0ccfcb22e0b84c6d1e60b750af955cb442bd36
+source-git-commit: 1de69b096171373ab064be016d9ddd12b688a79f
 workflow-type: tm+mt
 source-wordcount: '208'
 ht-degree: 1%
@@ -12,7 +12,7 @@ ht-degree: 1%
 
 # 설정 검사 목록 {#setup-checklist}
 
-Marketo 시작! 다음 체크리스트를 시각적인 할 일 목록으로 사용하여 작업을 시작할 수 있습니다. 자세한 내용은 [설정 단계](/help/marketo/getting-started/setup-steps.md){target=&quot;_blank&quot;}.
+Marketo 시작! 다음 체크리스트를 시각적인 할 일 목록으로 사용하여 작업을 시작할 수 있습니다. 자세한 내용은 [설정 단계](/help/marketo/getting-started/setup/setup-steps.md){target=&quot;_blank&quot;}.
 
 ## Marketo에 로그인 및 추가 사용자 만들기 {#log-in-to-marketo-and-create-additional-users}
 
@@ -50,4 +50,4 @@ Marketo 시작! 다음 체크리스트를 시각적인 할 일 목록으로 사�
 
 >[!MORELIKETHIS]
 >
->[설정 단계](/help/marketo/getting-started/setup-steps.md){target=&quot;_blank&quot;}
+>[설정 단계](/help/marketo/getting-started/setup/setup-steps.md){target=&quot;_blank&quot;}

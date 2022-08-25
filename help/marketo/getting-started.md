@@ -3,10 +3,10 @@ unique-page-id: 1147226
 description: 시작하기 - Marketo 문서 - 제품 설명서
 title: 시작하기
 exl-id: 11c883eb-2a22-4706-ba0a-09ca11648054
-source-git-commit: 5d7c30fe818e37ba86152953d19937e39c7426f5
+source-git-commit: 1de69b096171373ab064be016d9ddd12b688a79f
 workflow-type: tm+mt
 source-wordcount: '135'
-ht-degree: 9%
+ht-degree: 12%
 
 ---
 
@@ -22,7 +22,7 @@ Marketo이란 무엇입니까? 좋은 질문입니다!
 
 IT 팀의 도움을 받으면 신속하게 작업을 완료할 수 있습니다.
 
-[설치 시작](/help/marketo/getting-started/setup-steps.md)
+[설치 시작](/help/marketo/getting-started/setup/setup-steps.md)
 
 ## 3단계 빠른 승자 {#get-some-quick-wins}
 
@@ -32,7 +32,7 @@ IT 팀의 도움을 받으면 신속하게 작업을 완료할 수 있습니다.
 <tr>
   <td>
     <a href="/help/marketo/getting-started/quick-wins/get-set-up-and-add-a-person.md">
-      <img alt="Connect" src="getting-started/assets/getting-started-1.png"/>
+      <img alt="연결" src="getting-started/assets/getting-started-1.png"/>
     </a>
     <div>
     <a href="/help/marketo/getting-started/quick-wins/get-set-up-and-add-a-person.md">1. 설정 및 개인 추가</a>
@@ -43,7 +43,7 @@ IT 팀의 도움을 받으면 신속하게 작업을 완료할 수 있습니다.
       <a href="getting-started/quick-wins/send-an-email.md">
        <img alt="가져오기" src="getting-started/assets/getting-started-2.png" />
        </a>
-    <div><a href="getting-started/quick-wins/send-an-email.md">2. 전자 메일 보내기</a>
+    <div><a href="getting-started/quick-wins/send-an-email.md">2. 이메일 보내기</a>
     </div>
     <br>
   </td>
@@ -52,16 +52,16 @@ IT 팀의 도움을 받으면 신속하게 작업을 완료할 수 있습니다.
       <img alt="이메일" src="getting-started/assets/getting-started-3.png" />
     </a>
     <div>
-    <a href="getting-started/quick-wins/landing-page-with-a-form.md">3. 양식</a>이 있는 랜딩 페이지
+    <a href="getting-started/quick-wins/landing-page-with-a-form.md">3. 양식이 있는 랜딩 페이지</a>
     </div>
     <br>
   </td>
   <td>
     <a href="getting-started/quick-wins/simple-scoring.md">
-      <img alt="Connect" src="getting-started/assets/getting-started-4.png"/>
+      <img alt="연결" src="getting-started/assets/getting-started-4.png"/>
     </a>
     <div>
-    <a href="getting-started/quick-wins/simple-scoring.md">4. 단순 점수</a>
+    <a href="getting-started/quick-wins/simple-scoring.md">4. 단순 점수 책정</a>
     </div>
     <br>
   </td>
@@ -69,7 +69,7 @@ IT 팀의 도움을 받으면 신속하게 작업을 완료할 수 있습니다.
       <a href="getting-started/quick-wins/email-auto-response.md">
        <img alt="가져오기" src="getting-started/assets/getting-started-5.png" />
        </a>
-    <div><a href="getting-started/quick-wins/email-auto-response.md">5. 전자 메일 자동 응답</a>
+    <div><a href="getting-started/quick-wins/email-auto-response.md">5. 이메일 자동 응답</a>
     </div>
     <br>
   </td>
@@ -86,10 +86,10 @@ IT 팀의 도움을 받으면 신속하게 작업을 완료할 수 있습니다.
   </td>
   <td>
     <a href="getting-started/quick-wins/drip-drip-nurture.md">
-      <img alt="Connect" src="getting-started/assets/getting-started-7.png"/>
+      <img alt="연결" src="getting-started/assets/getting-started-7.png"/>
     </a>
     <div>
-    <a href="getting-started/quick-wins/drip-drip-nurture.md">7. 드립 드립 Drug</a>
+    <a href="getting-started/quick-wins/drip-drip-nurture.md">7. 점적 성장</a>
     </div>
     <br>
   </td>
@@ -106,13 +106,13 @@ IT 팀의 도움을 받으면 신속하게 작업을 완료할 수 있습니다.
       <img alt="이메일" src="getting-started/assets/getting-started-9.png" />
     </a>
     <div>
-    <a href="getting-started/quick-wins/alert-the-sales-rep.md">9. Sales Rep</a> 경고
+    <a href="getting-started/quick-wins/alert-the-sales-rep.md">9. 영업 담당자에게 경고</a>
     </div>
     <br>
   </td>
   <td>
     <a href="getting-started/quick-wins/update-person-data.md">
-      <img alt="Connect" src="getting-started/assets/getting-started-10.png"/>
+      <img alt="연결" src="getting-started/assets/getting-started-10.png"/>
     </a>
     <div>
     <a href="getting-started/quick-wins/update-person-data.md">10. 개인 데이터 업데이트</a>
