@@ -3,7 +3,7 @@ unique-page-id: 2949469
 description: 설정 단계 - Marketo 문서 - 제품 설명서
 title: 설정 단계
 exl-id: ef6b7311-55ca-4384-a24c-714eae89a57d
-source-git-commit: e06aa684f8443e3e8684d15628cc445daba456e2
+source-git-commit: fed5fc3a511022fbac40b8ad369a1cdda5112167
 workflow-type: tm+mt
 source-wordcount: '2002'
 ht-degree: 0%
@@ -31,7 +31,7 @@ Marketo을 사용하기 전에 완료해야 하는 몇 가지 단계가 있습�
 
 >[!TIP]
 >
->만약 [이 검사 목록 인쇄](/help/marketo/getting-started/setup-steps/setup-checklist.md){target=&quot;_blank&quot;} 항목을 완료할 때 항목을 체크 아웃할 수 있습니다.
+>만약 [이 검사 목록 인쇄](/help/marketo/getting-started/setup/setup-checklist.md){target=&quot;_blank&quot;} 항목을 완료할 때 항목을 체크 아웃할 수 있습니다.
 
 ## 로그인 및 추가 Marketo 사용자 만들기 {#log-in-and-create-additional-marketo-users}
 

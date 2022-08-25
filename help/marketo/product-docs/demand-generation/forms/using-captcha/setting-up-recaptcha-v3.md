@@ -4,7 +4,7 @@ title: reCAPTCHA v3 설정
 hide: true
 hidefromtoc: true
 exl-id: 235a2688-59a8-4827-a929-a07f3ae06988
-source-git-commit: 3f0ccfcb22e0b84c6d1e60b750af955cb442bd36
+source-git-commit: fed5fc3a511022fbac40b8ad369a1cdda5112167
 workflow-type: tm+mt
 source-wordcount: '354'
 ht-degree: 0%
@@ -69,7 +69,7 @@ ReCAPTCHA v3는 텍스트, 이미지 또는 단추 관련 문제를 사용하지
 
 >[!IMPORTANT]
 >
->다음 단계를 수행한 후 [첫 번째 Marketo 양식에서 CAPTCHA 활성화](help/marketo/product-docs/demand-generation/forms/using-captcha/enable-captcha-in-marketo-forms.md){target=&quot;_blank&quot;}, reCAPTCHA 설정에서 잘못된 구성을 정렬하면 양식이 손상될 수 있으므로 바로 양식을 테스트하십시오.
+>다음 단계를 수행한 후 [첫 번째 Marketo 양식에서 CAPTCHA 활성화](/help/marketo/product-docs/demand-generation/forms/using-captcha/enable-captcha-in-marketo-forms.md){target=&quot;_blank&quot;}, reCAPTCHA 설정에서 잘못된 구성을 정렬하면 양식이 손상될 수 있으므로 바로 양식을 테스트하십시오.
 
 1. Marketo에서 **관리**.
 
