@@ -3,9 +3,9 @@ unique-page-id: 2359351
 description: 설정 및 개인 추가 - Marketo 문서 - 제품 설명서
 title: 설정 및 개인 추가
 exl-id: 194c7421-fe6d-4d8c-bd34-d3fc89ec80f2
-source-git-commit: 0da33dfa840dd1e5a5618fcd762b482f7a2e0789
+source-git-commit: 3e53e5b947755b1b1a8db2b2fc30e93ea6c362ec
 workflow-type: tm+mt
-source-wordcount: '215'
+source-wordcount: '214'
 ht-degree: 0%
 
 ---
@@ -18,7 +18,7 @@ ht-degree: 0%
 
 1. [Marketo에 로그인](https://app.marketo.com)전자 메일로 받은 자격 증명을 사용하여 {target=&quot;_blank&quot;}.
 
-   ![](assets/one.png)
+   ![](assets/get-set-up-and-add-a-person-1.png)
 
 ## 2단계: 학습 폴더 만들기 {#step-create-a-learning-folder}
 
@@ -26,19 +26,19 @@ ht-degree: 0%
 
 1. 로 이동합니다. **마케팅 활동** 영역.
 
-   ![](assets/two.png)
+   ![](assets/get-set-up-and-add-a-person-2.png)
 
 1. 을(를) 클릭합니다. **새로 만들기** 드롭다운 및 선택 **새 캠페인 폴더**.
 
-   ![](assets/image2014-9-24-10-3a53-3a38.png)
+   ![](assets/get-set-up-and-add-a-person-3.png)
 
 1. 폴더 이름을 &quot;Learning&quot;으로 지정하고 **만들기**.
 
-   ![](assets/image2014-9-24-10-3a53-3a55.png)
+   ![](assets/get-set-up-and-add-a-person-4.png)
 
 1. 왼쪽 메뉴에 새 학습 폴더가 표시됩니다.
 
-   ![](assets/image2014-9-24-10-3a54-3a9.png)
+   ![](assets/get-set-up-and-add-a-person-5.png)
 
 ## 3단계: 사용자로 추가 {#step-add-yourself-as-a-person}
 
@@ -46,15 +46,15 @@ ht-degree: 0%
 
 1. 로 이동합니다. **데이터베이스** 영역.
 
-   ![](assets/db.png)
+   ![](assets/get-set-up-and-add-a-person-6.png)
 
 1. 을(를) 클릭합니다. **새로 만들기** 드롭다운 및 선택 **새 사람**.
 
-   ![](assets/seven.png)
+   ![](assets/get-set-up-and-add-a-person-7.png)
 
 1. 이름과 성, 전자 메일 주소 및 회사 이름을 입력한 다음 **만들기** 자기 자신을 한 사람으로 추가하는 것.
 
-   ![](assets/eight.png)
+   ![](assets/get-set-up-and-add-a-person-8.png)
 
    >[!CAUTION]
    >
@@ -62,11 +62,11 @@ ht-degree: 0%
 
 1. 사람을 보려면 왼쪽 메뉴에서 시스템 스마트 목록을 연 다음 모든 사용자를 클릭합니다.
 
-   ![](assets/nine.png)
+   ![](assets/get-set-up-and-add-a-person-9.png)
 
 1. 을(를) 클릭합니다. **사람** 탭. 데이터베이스에 가 있어야 합니다.
 
-   ![](assets/ten.png)
+   ![](assets/get-set-up-and-add-a-person-10.png)
 
 ## 완료 설정 {#set-up-complete}
 
