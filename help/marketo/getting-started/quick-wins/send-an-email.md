@@ -3,7 +3,7 @@ unique-page-id: 2359410
 description: 이메일 보내기 - Marketo 문서 - 제품 설명서
 title: 이메일 보내기
 exl-id: 1f80fc08-3587-41f0-9c51-2feea10dff0d
-source-git-commit: 0da33dfa840dd1e5a5618fcd762b482f7a2e0789
+source-git-commit: b084acfdc58448e01fa6e19a03e6c3e1ea70a97b
 workflow-type: tm+mt
 source-wordcount: '410'
 ht-degree: 0%
@@ -22,11 +22,11 @@ ht-degree: 0%
 
 1. 로 이동합니다. **마케팅 활동** 영역.
 
-   ![](assets/one-1.png)
+   ![](assets/send-an-email-1.png)
 
 1. 을(를) 선택합니다 **학습** 폴더를 입력합니다. 을(를) 클릭합니다. **새로 만들기** 드롭다운 및 선택 **새 프로그램**.
 
-   ![](assets/two-1.png)
+   ![](assets/send-an-email-2.png)
 
 1. 을(를) 입력합니다. **이름** 을(를) 선택합니다. **이메일** 대상 **프로그램 유형.**
 
@@ -34,29 +34,29 @@ ht-degree: 0%
    >
    >프로그램 이름의 끝에 이니셜을 추가하여 고유하게 만듭니다.
 
-   ![](assets/three.png)
+   ![](assets/send-an-email-3.png)
 
 1. 아래 **채널**, 선택 **이메일 보내기** 을(를) 클릭합니다. **만들기**.
 
-   ![](assets/image2015-3-2-16-3a25-3a18.png)
+   ![](assets/send-an-email-4.png)
 
 ## 대상자 정의 {#define-your-audience}
 
 1. 클릭 **스마트 목록 편집** 아래에 표시됩니다.
 
-   ![](assets/five.png)
+   ![](assets/send-an-email-5.png)
 
 1. 이메일 주소 필터를 찾아 캔버스로 드래그합니다.
 
-   ![](assets/six.png)
+   ![](assets/send-an-email-6.png)
 
    >[!TIP]
    >
-   >사용 **검색** 필터 목록 맨 위에서 필터를 보다 쉽게 찾을 수 있습니다.
+   >를 사용하십시오 **검색** 함수를 사용하여 필터를 보다 쉽게 찾을 수 있습니다.
 
 1. 이메일 주소를 찾아 선택합니다.
 
-   ![](assets/seven-1.png)
+   ![](assets/send-an-email-7.png)
 
    >[!NOTE]
    >
@@ -68,7 +68,7 @@ ht-degree: 0%
 
 1. 기본 프로그램 탭으로 돌아가서 새로 고침 아이콘을 클릭합니다. **개인**.
 
-   ![](assets/refresh-icon.png)
+   ![](assets/send-an-email-8.png)
 
    사람 카운트가 1까지 올라가는 것을 볼 수 있습니다. 바로 당신이에요!
 
@@ -76,15 +76,15 @@ ht-degree: 0%
 
 1. 전자 메일 타일에서 를 클릭합니다. **새 이메일**.
 
-   ![](assets/image2014-9-8-15-3a10-3a47.png)
+   ![](assets/send-an-email-9.png)
 
 1. 을(를) 입력합니다. **이름**, 을 선택합니다. **템플릿**&#x200B;를 클릭하고 **만들기**.
 
-   ![](assets/ten-1.png)
+   ![](assets/send-an-email-10.png)
 
 1. 이메일 편집기 창이 열립니다. 50자 이하의 제목을 입력합니다(권장).
 
-   ![](assets/eleven.png)
+   ![](assets/send-an-email-11.png)
 
    >[!NOTE]
    >
@@ -92,19 +92,15 @@ ht-degree: 0%
 
 1. 편집할 영역을 선택하고 오른쪽에 있는 톱니바퀴 아이콘을 클릭한 다음, 을 선택합니다 **편집** 편집할 편집 가능한 섹션을 두 번 클릭할 수도 있습니다.
 
-   ![](assets/twelve.png)
+   ![](assets/send-an-email-12.png)
 
 1. 원하는 콘텐츠를 입력하고 **저장**.
 
-   ![](assets/thirteen.png)
+   ![](assets/send-an-email-13.png)
 
-1. 변경 사항이 자동으로 저장됩니다. 편집기 탭/창을 닫습니다.
+1. 을(를) 클릭합니다. **이메일 작업** 드롭다운 및 선택 **승인 및 닫기**.
 
-   ![](assets/fourteen.png)
-
-1. 을(를) 클릭합니다. **이메일 작업** 드롭다운 및 선택 **승인**.
-
-   ![](assets/fifteen.png)
+   ![](assets/send-an-email-14.png)
 
    >[!TIP]
    >
@@ -112,15 +108,19 @@ ht-degree: 0%
 
 1. 왼쪽 트리에서 이메일 프로그램을 선택합니다.
 
-   ![](assets/sixteen.png)
+   ![](assets/send-an-email-15.png)
 
 1. 예약 타일에서 이메일의 실행 일을 (으)로 설정합니다. **오늘**
 
-   ![](assets/image2014-9-8-15-3a13-3a11.png)
+   ![](assets/send-an-email-16.png)
+
+   >[!NOTE]
+   >
+   >추가 정보 [받는 사람 시간대](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/scheduling-with-recipient-time-zone/schedule-email-programs-with-recipient-time-zone.md){target=&quot;_blank&quot;} 및 [헤드 시작](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/head-start-for-email-programs.md){target=&quot;_blank&quot;}.
 
 1. 향후 15분 이상의 시간을 선택합니다.
 
-   ![](assets/image2014-9-8-15-3a13-3a25.png)
+   ![](assets/send-an-email-17.png)
 
    >[!TIP]
    >
@@ -128,7 +128,7 @@ ht-degree: 0%
 
 1. 클릭 **프로그램 승인** 승인 타일 아래의 작업을 완료하십시오!
 
-   ![](assets/image2014-9-8-15-3a13-3a34.png)
+   ![](assets/send-an-email-18.png)
 
 예약된 날짜/시간 직후에 이메일을 받게 됩니다.
 
