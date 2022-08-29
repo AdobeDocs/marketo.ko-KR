@@ -1,9 +1,10 @@
 ---
 description: 릴리스 노트 - 2022년 6월 - Marketo 문서 - 제품 설명서
 title: 릴리스 노트 - 2022년 6월
-source-git-commit: 4bff61b90cbbe9466c23d9b003378eb72570f56c
+exl-id: f4438ea8-1657-4955-9f9f-640b3ecf5caa
+source-git-commit: beafa230f067972119f1a0eb170b1339d20d3842
 workflow-type: tm+mt
-source-wordcount: '673'
+source-wordcount: '649'
 ht-degree: 0%
 
 ---
@@ -75,4 +76,4 @@ ht-degree: 0%
 
 **_제품 릴리스 웨비나_**
 
-2022년 8월 24일, 오전 9시/동부 시간 오후 12시에 참가하십시오. [라이브 웨비나](https://engage.marketo.com/2022_June_August_Release_Webinar_RegistrationPage.html)제품 팀에서 호스팅하는 {target=&quot;_blank&quot;}에서 최신 제품 혁신 내용을 모두 사용하는 방법을 배울 수 있습니다.
+[2022년 6월 및 8월 Marketo Engage 릴리스 웨비나](https://engage.marketo.com/2022_June_August_Release_Webinar_OnDemandPage.html){target=&quot;_blank&quot;}

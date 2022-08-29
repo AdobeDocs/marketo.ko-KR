@@ -1,9 +1,10 @@
 ---
 description: 릴리스 노트 - 2022년 3월 - Marketo 문서 - 제품 설명서
 title: 릴리스 노트 - 2022년 3월
-source-git-commit: 2ac0ef0b715eb2acd03fe2c5ad4cfee8daeef4f6
+exl-id: 91826d56-a38e-44af-b798-17bfc016c311
+source-git-commit: beafa230f067972119f1a0eb170b1339d20d3842
 workflow-type: tm+mt
-source-wordcount: '793'
+source-wordcount: '771'
 ht-degree: 0%
 
 ---
@@ -76,4 +77,4 @@ ht-degree: 0%
 
 **_제품 릴리스 웨비나_**
 
-2022년 5월 11일, 오전 9시/동부 시간 오후 12시에 참가하십시오. [라이브 웨비나](https://engage.marketo.com/2022_March_May_Release_Webinar_RegistrationPage.html) 는 Adobe의 제품 팀이 호스팅하며, 이 팀이 최신 제품의 모든 혁신적인 기능을 사용하는 방법을 배울 수 있도록 지원합니다.
+[2022년 3월 및 5월 Marketo Engage 릴리스 웨비나](https://engage.marketo.com/2022_March_May_Release_Webinar_DemandPage.html){target=&quot;_blank&quot;}
