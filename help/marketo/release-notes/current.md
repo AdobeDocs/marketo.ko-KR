@@ -2,9 +2,9 @@
 description: 현재 릴리스 노트 - Marketo 문서 - 제품 설명서
 title: 현재 릴리스 노트
 exl-id: a2eccad5-73ad-48f9-8091-51cee23824e1
-source-git-commit: beafa230f067972119f1a0eb170b1339d20d3842
+source-git-commit: 4f79308986a323c248f55c32f0d1db0d9811e6b3
 workflow-type: tm+mt
-source-wordcount: '556'
+source-wordcount: '558'
 ht-degree: 0%
 
 ---
@@ -21,7 +21,7 @@ ht-degree: 0%
 
 ## 크로스 채널 오케스트레이션 {#cross-channel-orchestration}
 
-* **다이내믹 채팅을 위해 게시된 모든 대화 상자를 한 번에 활성화/비활성화**: 구성 페이지에서 단추를 눌러 게시된 모든 대화 상자를 한 번에 전체적으로 활성화/비활성화합니다.
+* **[다이내믹 채팅을 위해 게시된 모든 대화 상자를 한 번에 활성화/비활성화](/help/marketo/product-docs/demand-generation/dynamic-chat/dialogues/dialogue-overview.md#disable-enable-all-dialogues){target=&quot;_blank&quot;}**: 구성 페이지에서 단추를 눌러 게시된 모든 대화 상자를 한 번에 전체적으로 활성화/비활성화합니다.
 
 * **동적 채팅에 대한 사용자 지정 아바타**: 사용자 지정 차트 보트 아바타를 업로드하여 브랜드에 개인화할 수 있습니다.
 
