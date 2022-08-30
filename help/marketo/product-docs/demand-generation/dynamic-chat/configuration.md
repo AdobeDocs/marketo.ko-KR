@@ -2,10 +2,10 @@
 description: 구성 - Marketo 문서 - 제품 설명서
 title: 구성
 exl-id: aff17715-b178-4468-b06f-22b3fe3c18ce
-source-git-commit: 676bd1c43fc62b2eae0e4536fb738b5be863e196
+source-git-commit: 031e5ad328d49042f9c96ded63f1e719f1c377c7
 workflow-type: tm+mt
-source-wordcount: '319'
-ht-degree: 1%
+source-wordcount: '0'
+ht-degree: 0%
 
 ---
 
@@ -23,7 +23,7 @@ ht-degree: 1%
 
 ## 스타일 탭 {#style-tab}
 
-**스타일**
+### 스타일 {#style}
 
 여기에서는 다음과 같이 대화 상자가 표시되는 채트봇의 모양과 느낌을 정의할 수 있습니다. 보트 위젯의 색상, 글꼴, 배치 및 차트 보트의 이름/아바타입니다.
 
@@ -35,7 +35,7 @@ ht-degree: 1%
 
 ![](assets/configuration-4.png)
 
-**에이전트 설정**
+### 에이전트 설정 {#agent-settings}
 
 에이전트 설정에서 차트박스에 레이블을 추가할 수 있습니다(예: Adobe 보트 의 맨 위에 표시됩니다. 응답 지연(초)을 결정하고 채팅 아바타를 변경할 수도 있습니다. 자신의 아바타 이미지를 업로드하려면 **+** 버튼을 클릭합니다.
 

@@ -2,9 +2,9 @@
 description: 현재 릴리스 노트 - Marketo 문서 - 제품 설명서
 title: 현재 릴리스 노트
 exl-id: a2eccad5-73ad-48f9-8091-51cee23824e1
-source-git-commit: 4f79308986a323c248f55c32f0d1db0d9811e6b3
+source-git-commit: 031e5ad328d49042f9c96ded63f1e719f1c377c7
 workflow-type: tm+mt
-source-wordcount: '558'
+source-wordcount: '0'
 ht-degree: 0%
 
 ---
@@ -23,7 +23,7 @@ ht-degree: 0%
 
 * **[다이내믹 채팅을 위해 게시된 모든 대화 상자를 한 번에 활성화/비활성화](/help/marketo/product-docs/demand-generation/dynamic-chat/dialogues/dialogue-overview.md#disable-enable-all-dialogues){target=&quot;_blank&quot;}**: 구성 페이지에서 단추를 눌러 게시된 모든 대화 상자를 한 번에 전체적으로 활성화/비활성화합니다.
 
-* **동적 채팅에 대한 사용자 지정 아바타**: 사용자 지정 차트 보트 아바타를 업로드하여 브랜드에 개인화할 수 있습니다.
+* **[동적 채팅에 대한 사용자 지정 아바타](/help/marketo/product-docs/demand-generation/dynamic-chat/configuration.md#agent-settings){target=&quot;_blank&quot;}**: 사용자 지정 차트 보트 아바타를 업로드하여 브랜드에 개인화할 수 있습니다.
 
 * **동적 채팅의 채팅 스크립트**: 모든 대화의 채팅 스크립트를 보고 각 웹 방문자가 관심이 있는 내용에 대한 심층적인 통찰력을 얻을 수 있습니다.
 
@@ -33,7 +33,7 @@ ht-degree: 0%
 
 * **이동 대화 상자에 대상 폴더의 폴더 계층 표시**: 각 폴더에 대한 폴더 계층 구조를 보면 자산을 쉽게 이동하고 잘못된 폴더에 넣을 가능성이 줄어듭니다.
 
-* **차세대 경험에서 업데이트된 화면**: 전환 스위치를 통해 액세스할 수 있는 업데이트된 디자인 및 유용성 개선 사항을 제공하는 차세대 환경에서 새로 고친 추가 화면을 제공하고 있습니다.
+* **[차세대 경험에서 업데이트된 화면](/help/marketo/product-docs/marketo-engage-next-generation-experience/toggle-switch.md){target=&quot;_blank&quot;}**: 전환 스위치를 통해 액세스할 수 있는 업데이트된 디자인 및 유용성 개선 사항을 제공하는 차세대 환경에서 새로 고친 추가 화면을 제공하고 있습니다.
 
    * 코드 조각 세부 사항
    * &quot;이미지 및 파일&quot; 세부 정보
@@ -44,7 +44,7 @@ ht-degree: 0%
 
 ## Experience Automation {#experience-automation}
 
-* **셀프 서비스 플로우 단계 - 프로그램 가져오기 개선 사항**: 이제 동일한 서비스 공급자의 여러 인스턴스를 사용할 수 있고 해당 서비스 공급자와 호환되는 플로우 단계가 있는 프로그램을 가져올 수 있는 사용자 지정 흐름 단계를 통해 프로그램 가져오기에 대한 지원이 개선되었습니다.
+* **[셀프 서비스 플로우 단계 - 프로그램 가져오기 개선 사항](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/flow-step-service.md){target=&quot;_blank&quot;}**: 이제 동일한 서비스 공급자의 여러 인스턴스를 사용할 수 있고 해당 서비스 공급자와 호환되는 플로우 단계가 있는 프로그램을 가져올 수 있는 사용자 지정 흐름 단계를 통해 프로그램 가져오기에 대한 지원이 개선되었습니다.
 
 * **Munchkin - 확장된 링크 추적**: 추적 지원 확장 `tel` 및 `mailto` 확장된 웹 동작 세트를 추적하기 위해 Munchkin과 연결합니다.
 
@@ -68,7 +68,7 @@ ht-degree: 0%
 
 ![(별)](assets/yellow-star.png)
 
-* **Dynamic Chat와 Sales Insight 통합**: Sales Insight 패널에서 Dynamic Chat에서 활동을 보고 이 새로운 데이터 포인트를 잠재 고객 대상 작업에서 활용할 수 있습니다.
+* **[Dynamic Chat와 Sales Insight 통합](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/features/dynamic-chat-integration.md){target=&quot;_blank&quot;}**: Sales Insight 패널에서 Dynamic Chat에서 활동을 보고 이 새로운 데이터 포인트를 잠재 고객 대상 작업에서 활용할 수 있습니다.
 
 ## 공지 {#announcements}
 
