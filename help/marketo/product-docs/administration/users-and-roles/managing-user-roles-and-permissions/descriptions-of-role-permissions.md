@@ -3,9 +3,9 @@ unique-page-id: 6848747
 description: 역할 권한 설명 - Marketo 문서 - 제품 설명서
 title: 역할 권한 설명
 exl-id: 00963cd9-2d53-455f-bc6f-42a573468ff9
-source-git-commit: cc66f4ff2e3e0e6ddfabab91215e3ad31f3b9226
+source-git-commit: 1f5a6ab994ccb81ff32f39ac32eef6a37aeab192
 workflow-type: tm+mt
-source-wordcount: '1146'
+source-wordcount: '1143'
 ht-degree: 0%
 
 ---
@@ -162,7 +162,6 @@ ht-degree: 0%
    * 세그멘테이션 삭제
    * 세그멘테이션 편집
 
-* 고급 목록 가져오기
 * 개인 삭제
 * 목록 삭제
 * 개인 편집 - 수동 편집 및 단일 플로우 단계 실행을 방지합니다. 캠페인을 실행하여 사용자를 계속 편집할 수 있습니다
