@@ -3,7 +3,7 @@ unique-page-id: 2359418
 description: 사람 목록 가져오기 - Marketo 문서 - 제품 설명서
 title: 사람 목록 가져오기
 exl-id: a85ec787-7b22-4666-84fd-d7bf23d32cd4
-source-git-commit: 0da33dfa840dd1e5a5618fcd762b482f7a2e0789
+source-git-commit: a61f9c2bbfd7c6b4c34fd1731698dc90ad1bd6cf
 workflow-type: tm+mt
 source-wordcount: '500'
 ht-degree: 0%
@@ -24,7 +24,7 @@ ht-degree: 0%
 
 1. 시작하려면 연습 스프레드시트 파일([**tradeshow-attents.csv**](/help/marketo/getting-started/assets/tradeshow-attendees.csv){target=&quot;_blank&quot;})를 컴퓨터에 추가합니다.
 
-   ![](assets/image2014-9-24-12-3a5-3a0.png)
+   ![](assets/import-a-list-of-people-1.png)
 
    >[!NOTE]
    >
@@ -36,7 +36,7 @@ ht-degree: 0%
 
 1. 이름, 성, 실제 이메일 주소(다음 임무에서 전송할 육성 이메일 수신) 및 직함을 추가합니다. 컴퓨터에 파일을 저장합니다.
 
-   ![](assets/image2014-9-24-12-3a5-3a30.png)
+   ![](assets/import-a-list-of-people-2.png)
 
    >[!CAUTION]
    >
@@ -46,19 +46,19 @@ ht-degree: 0%
 
 1. 로 이동합니다. **마케팅 활동** 영역.
 
-   ![](assets/ma-2.png)
+   ![](assets/import-a-list-of-people-3.png)
 
 1. 을(를) 선택합니다 **학습** 폴더, 아래에 **새로 만들기** click **새 프로그램**.
 
-   ![](assets/image2014-9-24-12-3a21-3a13.png)
+   ![](assets/import-a-list-of-people-4.png)
 
 1. **이름** 프로그램 &quot;My Tradeshow Program&quot;에서 **프로그램 유형**.
 
-   ![](assets/image2014-9-24-12-3a21-3a25.png)
+   ![](assets/import-a-list-of-people-5.png)
 
 1. 선택 **트레이드쇼** 대상 **채널** 을(를) 클릭합니다. **만들기**.
 
-   ![](assets/image2014-9-24-12-3a21-3a39.png)
+   ![](assets/import-a-list-of-people-6.png)
 
 >[!NOTE]
 >
@@ -68,19 +68,19 @@ ht-degree: 0%
 
 1. in **My Tradeshow 프로그램**&#x200B;를 클릭합니다. **새로 만들기** 을(를) 선택합니다. **새 로컬 자산**.
 
-   ![](assets/seven-3.png)
+   ![](assets/import-a-list-of-people-7.png)
 
-1. 클릭 **목록**.
+1. 선택 **목록**.
 
-   ![](assets/image2014-9-24-12-3a22-3a56.png)
+   ![](assets/import-a-list-of-people-8.png)
 
 1. **이름** &quot;Tradeshow Contents&quot; 목록을 클릭한 다음 **만들기**.
 
-   ![](assets/image2014-9-24-12-3a23-3a9.png)
+   ![](assets/import-a-list-of-people-9.png)
 
 1. 사용자 **박람회 참석자** 목록, **작업 나열** 을(를) 선택합니다. **목록 가져오기**.
 
-   ![](assets/ten-2.png)
+   ![](assets/import-a-list-of-people-10.png)
 
    >[!CAUTION]
    >
@@ -92,7 +92,7 @@ ht-degree: 0%
 
 1. **찾아보기** 변환 후 **tradeshow-attents.csv** 스프레드시트 파일을 컴퓨터에 저장한 다음 **다음**.
 
-   ![](assets/eleven-2.png)
+   ![](assets/import-a-list-of-people-11.png)
 
    >[!NOTE]
    >
@@ -105,7 +105,7 @@ ht-degree: 0%
 
 1. 목록 열 필드를 해당 Marketo 필드에 매핑하고 을 클릭합니다 **다음**.
 
-   ![](assets/image2014-9-24-12-3a24-3a49.png)
+   ![](assets/import-a-list-of-people-12.png)
 
    >[!TIP]
    >
@@ -117,15 +117,15 @@ ht-degree: 0%
 
 1. 선택 **My Tradeshow 프로그램** 대상 **획득 프로그램**&#x200B;를 클릭한 다음 **가져오기**.
 
-   ![](assets/image2014-9-24-12-3a25-3a1.png)
+   ![](assets/import-a-list-of-people-13.png)
 
 1. 사용자가 가져올 때까지 기다렸다가 가져오기 진행률 팝업을 닫습니다.
 
-   ![](assets/image2014-9-24-12-3a25-3a13.png)
+   ![](assets/import-a-list-of-people-14.png)
 
 1. 다시 시작 **My Tradeshow 프로그램**&#x200B;를 클릭하고 **멤버** 탭. 방금 가져온 사람들을 모두 보게 될 겁니다
 
-   ![](assets/fifteen-1.png)
+   ![](assets/import-a-list-of-people-15.png)
 
 >[!NOTE]
 >
