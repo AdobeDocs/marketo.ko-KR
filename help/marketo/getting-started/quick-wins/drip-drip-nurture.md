@@ -3,9 +3,9 @@ unique-page-id: 2359420
 description: 점적, 점적, 교육 - Marketo 문서 - 제품 설명서
 title: 드립, 드립, 배양
 exl-id: b457e191-3b46-4a4d-af1b-e9127d81b71c
-source-git-commit: 0da33dfa840dd1e5a5618fcd762b482f7a2e0789
+source-git-commit: 4448d6e082c0c4fad35fc2980446175bffe47e4b
 workflow-type: tm+mt
-source-wordcount: '463'
+source-wordcount: '462'
 ht-degree: 0%
 
 ---
@@ -26,35 +26,35 @@ Marketo에서 고급 및 정교한 교육 시스템을 쉽게 만들 수 있습�
 
 1. 로 이동합니다. **마케팅 활동** 영역.
 
-   ![](assets/one-3.png)
+   ![](assets/drip-drip-nurture-1.png)
 
 1. 을(를) 선택합니다 **학습** 폴더를 클릭한 다음 **새로 만들기** 드롭다운 및 선택 **새 프로그램**.
 
-   ![](assets/two-4.png)
+   ![](assets/drip-drip-nurture-2.png)
 
 1. 을(를) 입력합니다. **이름** 을(를) 선택합니다. **참여** 대상 **프로그램 유형**.
 
-   ![](assets/three-3.png)
+   ![](assets/drip-drip-nurture-3.png)
 
 1. 다음을 확인합니다. **채널** 필드: **양육권** 을(를) 클릭합니다. **만들기**.
 
-   ![](assets/four-2.png)
+   ![](assets/drip-drip-nurture-4.png)
 
    이제 참여 프로그램을 만들었습니다.
 
 ## 2단계: 이메일 만들기 {#step-create-an-email}
 
-1. 참여 프로그램을 선택한 다음 **새로 만들기** 을(를) 선택합니다. **새 로컬 자산**.
+1. 참여 프로그램을 선택하고 **새로 만들기** 을(를) 선택합니다. **새 로컬 자산**.
 
-   ![](assets/five-3.png)
+   ![](assets/drip-drip-nurture-5.png)
 
 1. 클릭 **이메일**.
 
-   ![](assets/six-3.png)
+   ![](assets/drip-drip-nurture-6.png)
 
 1. 을(를) 입력합니다. **이름**&#x200B;에서 을(를) 선택합니다. **템플릿** 사용할 다음 **만들기**.
 
-   ![](assets/seven-4.png)
+   ![](assets/drip-drip-nurture-7.png)
 
    >[!NOTE]
    >
@@ -62,53 +62,53 @@ Marketo에서 고급 및 정교한 교육 시스템을 쉽게 만들 수 있습�
 
 1. 제목을 입력합니다.
 
-   ![](assets/eight-2.png)
+   ![](assets/drip-drip-nurture-8.png)
 
 1. 편집할 전자 메일 영역을 선택하고 톱니바퀴 아이콘을 클릭한 다음, 을 선택합니다 **편집**.
 
-   ![](assets/nine-1.png)
+   ![](assets/drip-drip-nurture-9.png)
 
 1. 이메일을 편집하고 을(를) 클릭합니다. **저장**.
 
-   ![](assets/ten-3.png)
+   ![](assets/drip-drip-nurture-10.png)
 
-1. 이메일 편집기 탭/창을 닫습니다.
+1. 아래 **이메일 작업**&#x200B;를 클릭합니다. **승인 및 닫기**.
 
-   ![](assets/eleven-3.png)
-
-1. 아래 **이메일 작업**&#x200B;를 클릭합니다. **승인**.
-
-   ![](assets/twelve-2.png)
+   ![](assets/drip-drip-nurture-11.png)
 
    >[!NOTE]
    >
-   >전자 메일을 승인하거나 나중에 활성화할 수 없습니다.
+   >전자 메일을 승인하지 않으면 나중에 활성화할 수 없습니다.
 
-1. 이제 2단계 작업을 반복하여 다른 이메일을 만듭니다.
+1. 이제 2-7단계의 작업을 반복하여 다른 이메일을 만듭니다.
 
-   ![](assets/thirteen-2.png)
+   ![](assets/drip-drip-nurture-12.png)
 
 ## 3단계: 스트림에 컨텐츠 추가 {#step-add-content-to-your-stream}
 
-1. 이제 만든 이메일을 사용하여 참여 프로그램을 위한 컨텐츠 스트림을 만들 차례입니다.
+이제 만든 이메일을 사용하여 참여 프로그램을 위한 컨텐츠 스트림을 만들 차례입니다.
 
 1. 참여 프로그램을 선택하고 **스트림** 탭.
 
-   ![](assets/fourteen-2.png)
+   ![](assets/drip-drip-nurture-13.png)
 
-1. 만든 이메일 2개를 오른쪽 캔버스로 드래그합니다.
+1. 을(를) 클릭합니다. **컨텐츠 추가** 단추만 덮어씁니다.
 
-   ![](assets/fifteen-2.png)
+   ![](assets/drip-drip-nurture-14.png)
 
    >[!TIP]
    >
-   >를 사용할 수도 있습니다 **컨텐츠 추가** 버튼 또는 스트림 **+** 아이콘.
+   >를 사용할 수도 있습니다 **+** 아이콘.
+
+1. 이메일 유형을 선택한 상태로 둡니다. 만든 두 개의 이메일을 찾아 선택합니다.
+
+   ![](assets/drip-drip-nurture-15.png)
 
 ## 4단계: 스트림 컨텐츠 활성화 {#step-activate-stream-content}
 
 1. 스트림 톱니바퀴 아이콘을 클릭하여 모든 컨텐츠를 한 번에 활성화한 다음, **모든 컨텐츠 활성화**.
 
-   ![](assets/image2014-9-24-12-3a48-3a28.png)
+   ![](assets/drip-drip-nurture-16.png)
 
    >[!NOTE]
    >
@@ -120,11 +120,11 @@ Marketo에서 고급 및 정교한 교육 시스템을 쉽게 만들 수 있습�
 
 1. 클릭 **스트림 간격 설정**.
 
-   ![](assets/seventeen.png)
+   ![](assets/drip-drip-nurture-17.png)
 
 1. 원하는 일정에 맞게 설정을 편집하고 을 클릭합니다. **저장**.
 
-   ![](assets/image2014-9-24-12-3a49-3a5.png)
+   ![](assets/drip-drip-nurture-18.png)
 
    참여 프로그램이 모두 설정되었습니다. 이제 프로그램에 테스트 담당자를 추가하겠습니다.
 
@@ -136,23 +136,23 @@ Marketo에서 고급 및 정교한 교육 시스템을 쉽게 만들 수 있습�
 
 1. 로 이동합니다. **데이터베이스** 영역.
 
-   ![](assets/nineteen-1.png)
+   ![](assets/drip-drip-nurture-19.png)
 
 1. 테스트 대상자를 검색합니다.
 
-   ![](assets/twenty-1.png)
+   ![](assets/drip-drip-nurture-20.png)
 
    >[!NOTE]
    >
    >테스트 시 이메일 수신을 확인할 수 있도록 테스트 사람에게 유효한 이메일 주소가 있는지 확인합니다.
 
-1. 사용자를 마우스 오른쪽 단추로 클릭한 다음 프로그램 및 참여 프로그램에 추가 를 클릭합니다.
+1. 사용자를 마우스 오른쪽 단추로 클릭한 다음 **프로그램** 및 **참여 프로그램에 추가**.
 
-   ![](assets/twenty-one.png)
+   ![](assets/drip-drip-nurture-21.png)
 
 1. 을(를) 선택합니다 **프로그램** 및 **스트림**&#x200B;를 클릭한 다음 **지금 실행**.
 
-   ![](assets/twenty-two.png)
+   ![](assets/drip-drip-nurture-22.png)
 
 1. 임무 완료!
 

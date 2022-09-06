@@ -3,9 +3,9 @@ unique-page-id: 10099077
 description: 전자 메일 게재 기능 팩 - 설명서 목록을 가져오는 방법 - Marketo 문서 - 제품 설명서
 title: 전자 메일 게재 기능 전원 팩 - 세부 목록을 가져오는 방법
 exl-id: a4782611-2556-43bf-802b-afeb332eafcd
-source-git-commit: 6ad418c8f4056b9a2fb31b0ac995692f0c618795
+source-git-commit: 4448d6e082c0c4fad35fc2980446175bffe47e4b
 workflow-type: tm+mt
-source-wordcount: '291'
+source-wordcount: '294'
 ht-degree: 0%
 
 ---
@@ -20,9 +20,9 @@ ht-degree: 0%
 
 ## 묘목 목록 가져오기 {#import-a-seedlist}
 
-1. 이동 **게재 기능 도구**.
+1. 내 Marketo에서 **게재 기능 도구**.
 
-   ![](assets/one-1.png)
+   ![](assets/email-deliverability-power-pack-1.png)
 
 1. 클릭 **받은 편지함 정보**.
 
