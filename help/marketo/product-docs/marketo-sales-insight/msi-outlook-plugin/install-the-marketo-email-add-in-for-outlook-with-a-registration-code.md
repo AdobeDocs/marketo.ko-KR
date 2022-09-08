@@ -3,9 +3,9 @@ unique-page-id: 2949711
 description: 등록 코드 - Marketo 문서 - 제품 설명서와 함께 Outlook용 Marketo 이메일 추가 기능 설치
 title: 등록 코드와 함께 Outlook용 Marketo 이메일 추가 기능 설치
 exl-id: d7a877c2-f71e-44da-b323-04f6cdb44eb0
-source-git-commit: 0dec1dc142a7296ce9d5db91493f654dbe7ee99a
+source-git-commit: 268a7f1ca441661e1d943a8d6abce7bdcf308a98
 workflow-type: tm+mt
-source-wordcount: '471'
+source-wordcount: '470'
 ht-degree: 4%
 
 ---
@@ -22,7 +22,7 @@ ht-degree: 4%
 
 >[!IMPORTANT]
 >
->Windows 사용자 폴더에 영어 이외의 문자가 포함된 PC에서는 설치가 지원되지 않습니다. 이 폴더는 아래의 Windows에서 자동으로 생성됩니다 <System Root>\Users\ Windows 사용자 이름을 기반으로 하며 Windows 사용자 이름이 영어가 아닌 경우 영어가 아닌 문자를 포함할 수 있습니다. IT 팀과 협력하여 설치 문제가 발생하는지 확인하십시오.
+>Windows 사용자 폴더에 영어 이외의 문자가 포함된 PC에서는 설치가 지원되지 않습니다. 이 폴더는 아래의 Windows에서 자동으로 생성됩니다 `<System Root>\Users\` Windows 사용자 이름을 기반으로 하며 Windows 사용자 이름이 영어가 아닌 경우 영어가 아닌 문자를 포함할 수 있습니다. IT 팀과 협력하여 설치 문제가 발생하는지 확인하십시오.
 
 >[!NOTE]
 >
