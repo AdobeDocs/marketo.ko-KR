@@ -3,14 +3,18 @@ unique-page-id: 10096675
 description: 하위 캠페인 및 로컬 자산 만들기 - Marketo 문서 - 제품 설명서
 title: 하위 캠페인 및 로컬 자산 만들기
 exl-id: 272105e1-43d6-455c-a533-aae65e859384
-source-git-commit: a24b0de6493d4849723099d6164fafb73ef7c926
+source-git-commit: 40cfdddac66b7cd90e33bedf11888a7c5e3b38c9
 workflow-type: tm+mt
-source-wordcount: '668'
+source-wordcount: '688'
 ht-degree: 1%
 
 ---
 
 # 하위 캠페인 및 로컬 자산 만들기 {#create-child-campaigns-and-local-assets}
+
+>[!IMPORTANT]
+>
+>2022년 8월부터 ON24는 더 이상 새로운 Marketo 통합을 지원하지 않습니다. 이 문서의 정보는 기존 사용자에게만 적용됩니다.
 
 Design Studio를 사용하여 하위 캠페인 및 로컬 자산을 만듭니다.
 

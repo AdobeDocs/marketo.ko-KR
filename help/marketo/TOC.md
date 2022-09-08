@@ -3,9 +3,9 @@ audience: end-user
 user-guide-title: Marketo 안내서
 user-guide-description: Marketo 제품 설명서
 feature-set: Marketo Engage
-source-git-commit: 3f0ccfcb22e0b84c6d1e60b750af955cb442bd36
+source-git-commit: 40cfdddac66b7cd90e33bedf11888a7c5e3b38c9
 workflow-type: tm+mt
-source-wordcount: '8807'
+source-wordcount: '8795'
 ht-degree: 0%
 
 ---
@@ -99,7 +99,6 @@ ht-degree: 0%
          + [수준 3 웹 모임을 LaunchPoint 서비스로 추가](product-docs/administration/additional-integrations/add-level-3-web-meeting-as-a-launchpoint-service.md)
          + [웹 사이트에 Munchkin 추적 코드 추가](product-docs/administration/additional-integrations/add-munchkin-tracking-code-to-your-website.md)
          + [차세대 Munchkin 추적 FAQ](product-docs/administration/additional-integrations/add-munchkin-tracking-code-to-your-website/next-generation-munchkin-tracking-faq.md)
-         + [ON24를 LaunchPoint 서비스로 추가](product-docs/administration/additional-integrations/add-on24-as-a-launchpoint-service.md)
          + [LaunchPoint 서비스로 ReadyTalk 추가](product-docs/administration/additional-integrations/add-readytalk-as-a-launchpoint-service.md)
          + [포털에 단일 사인온 추가](product-docs/administration/additional-integrations/add-single-sign-on-to-a-portal.md)
          + [WebEx를 LaunchPoint 서비스로 추가](product-docs/administration/additional-integrations/add-webex-as-a-launchpoint-service.md)
@@ -647,7 +646,6 @@ ht-degree: 0%
                + [Marketo에서 이벤트 만들기](product-docs/demand-generation/events/create-an-event/create-an-event-with-the-marketo-on24-adapter/create-an-event-in-marketo.md)
                + [하위 캠페인 및 로컬 자산 만들기](product-docs/demand-generation/events/create-an-event/create-an-event-with-the-marketo-on24-adapter/create-child-campaigns-and-local-assets.md)
                + [24에서 웨비나 이벤트 만들기](product-docs/demand-generation/events/create-an-event/create-an-event-with-the-marketo-on24-adapter/create-your-webinar-event-in-on24.md)
-               + [Marketo에 ON24 자격 증명을 입력합니다](product-docs/demand-generation/events/create-an-event/create-an-event-with-the-marketo-on24-adapter/enter-your-on24-credentials-in-marketo.md)
                + [ON24 이벤트 통합 예](product-docs/demand-generation/events/create-an-event/create-an-event-with-the-marketo-on24-adapter/example-on24-event-integration.md)
                + [ON24 이벤트 등록 업데이트](product-docs/demand-generation/events/create-an-event/create-an-event-with-the-marketo-on24-adapter/on24-event-registration-updates.md)
                + [ON24 이벤트 통합 테스트](product-docs/demand-generation/events/create-an-event/create-an-event-with-the-marketo-on24-adapter/test-your-on24-event-integration.md)
