@@ -2,9 +2,9 @@
 description: 이메일 보트 활동 필터링 - Marketo 문서 - 제품 설명서
 title: 전자 메일 보트 활동 필터링
 exl-id: 70c97159-72bf-46e5-b29b-247615d0fa80
-source-git-commit: 59768a413038472e38d28e5fb8bcadc4419b360d
+source-git-commit: 2fd0856e21c51af6ca29887978d5aa946733405d
 workflow-type: tm+mt
-source-wordcount: '298'
+source-wordcount: '286'
 ht-degree: 0%
 
 ---
@@ -36,16 +36,13 @@ ht-degree: 0%
 
    ![](assets/filtering-email-bot-activity-3.png)
 
-1. 선택 **IAB 목록과 일치**, **근접 패턴과 일치**&#x200B;또는 둘 다 사용할 수 있습니다.
+1. 선택 **IAB 목록과 일치**, **근접 패턴과 일치**&#x200B;또는 둘 다 사용할 수 있습니다. 보트 활동을 기록할지 여부를 선택합니다 _또는_ 보트 활동을 필터링합니다.
 
    ![](assets/filtering-email-bot-activity-4.png)
 
 >[!NOTE]
 >
->* 보트 활동을 필터링하도록 선택할 수 있습니다 **또는** 기록됨. 필터링을 선택하면 잘못된 활동이 제외되므로 이메일 열기 및 클릭 수가 줄어들 수 있습니다.
->
->* 현재 &quot;근접 패턴과 일치&quot;에는 &quot;로그 보트 활동&quot;만 사용할 수 있습니다.
-
+>보트 활동 필터링 을 선택하는 경우 잘못된 활동이 제외되므로 이메일 열기 및 클릭 수가 줄어들 수 있습니다.
 
 **옵션 단계**: 이 기능을 비활성화하려면 슬라이더를 선택 취소하면 됩니다. 비활성화하면 데이터가 재설정되지 않습니다.
 
