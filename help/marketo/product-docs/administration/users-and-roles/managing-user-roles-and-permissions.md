@@ -3,7 +3,7 @@ unique-page-id: 2359909
 description: 사용자 역할 및 권한 관리 - Marketo 문서 - 제품 설명서
 title: 사용자 역할 및 권한 관리
 exl-id: e0213c5f-04e0-41a9-ac7b-873e2e39ac79
-source-git-commit: a360b46ab1cd7149f609d139590124dcfcda8dad
+source-git-commit: 5dcaf886c488e5e1b7fd1c4caa5f869e70c6fb18
 workflow-type: tm+mt
 source-wordcount: '493'
 ht-degree: 0%
@@ -32,7 +32,7 @@ Marketo에서는 액세스 수준이 서로 다른 몇 가지 기본 역할을 �
 
 ## Adobe ID가 있는 Marketo {#marketo-with-adobe-identity}
 
-Adobe ID와 함께 Marketo을 사용하는 경우 프로필 설명 목록입니다 [여기에서 찾을 수 있습니다.](/help/marketo/product-docs/administration/marketo-with-adobe-identity/overview.md#profile-levels).
+Adobe ID와 함께 Marketo을 사용하는 경우 프로필 설명 목록입니다 [여기에서 찾을 수 있습니다.](/help/marketo/product-docs/administration/marketo-with-adobe-identity/adobe-identity-management-overview.md#profile-levels).
 
 ## 사용자에게 역할 할당 {#assign-roles-to-a-user}
 

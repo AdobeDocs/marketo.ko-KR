@@ -3,9 +3,9 @@ unique-page-id: 2360358
 description: SSO로만 사용자 로그인 제한 - Marketo 문서 - 제품 설명서
 title: 사용자 로그인을 SSO로만 제한
 exl-id: 74915871-dcf5-478d-a5ae-b20c3d2de553
-source-git-commit: a21db1586166b7530bbbb18759752ef834cdc46a
+source-git-commit: 5dcaf886c488e5e1b7fd1c4caa5f869e70c6fb18
 workflow-type: tm+mt
-source-wordcount: '0'
+source-wordcount: '232'
 ht-degree: 0%
 
 ---
@@ -16,7 +16,7 @@ ht-degree: 0%
 
 >[!IMPORTANT]
 >
->이 문서는 다음 항목에 적용되지 않습니다 [Adobe IMS 지원](/help/marketo/product-docs/administration/marketo-with-adobe-identity/overview.md) Marketo 구독.
+>이 문서는 다음 항목에 적용되지 않습니다 [Adobe IMS 지원](/help/marketo/product-docs/administration/marketo-with-adobe-identity/adobe-identity-management-overview.md) Marketo 구독.
 
 >[!NOTE]
 >
