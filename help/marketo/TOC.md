@@ -3,9 +3,9 @@ audience: end-user
 user-guide-title: Marketo 안내서
 user-guide-description: Marketo 제품 설명서
 feature-set: Marketo Engage
-source-git-commit: 40cfdddac66b7cd90e33bedf11888a7c5e3b38c9
+source-git-commit: d26428137e9b99d04fef67a3b21b74d150f693e7
 workflow-type: tm+mt
-source-wordcount: '8795'
+source-wordcount: '8801'
 ht-degree: 0%
 
 ---
@@ -172,7 +172,7 @@ ht-degree: 0%
          + [사용자 지정 개체 메타데이터 내보내기](product-docs/administration/marketo-custom-objects/custom-object-metadata-export.md)
       + Adobe ID가 있는 Marketo {#marketo-with-adobe-identity}
          + [빠른 안내서](product-docs/administration/marketo-with-adobe-identity/quick-guide.md)
-         + [개요](product-docs/administration/marketo-with-adobe-identity/overview.md)
+         + [Adobe Identity Management 개요](product-docs/administration/marketo-with-adobe-identity/adobe-identity-management-overview.md)
          + [관리 설정](product-docs/administration/marketo-with-adobe-identity/admin-setup.md)
          + [제품 관리자 설정](product-docs/administration/marketo-with-adobe-identity/product-admin-setup.md)
          + [Adobe IMS 활성화 구독에 대한 API 전용 사용자 추가](product-docs/administration/marketo-with-adobe-identity/add-api-only-user-for-adobe-ims-enabled-subscriptions.md)
@@ -1870,6 +1870,7 @@ ht-degree: 0%
          + [릴리스 노트: 2022년 3월](release-notes/previous-releases/2022/release-notes-mar-22.md)
          + [릴리스 노트: 2022년 5월](release-notes/previous-releases/2022/release-notes-may-22.md)
          + [릴리스 노트: 2022년 6월](release-notes/previous-releases/2022/release-notes-june-22.md)
+         + [릴리스 노트: 2022년 8월](release-notes/previous-releases/2022/release-notes-aug-22.md)
       + 2021년 {#2021}
          + [릴리스 노트: 2021년 1월](release-notes/previous-releases/2021/release-notes-jan-21.md)
          + [릴리스 노트: 2021년 5월](release-notes/previous-releases/2021/release-notes-may-21.md)
