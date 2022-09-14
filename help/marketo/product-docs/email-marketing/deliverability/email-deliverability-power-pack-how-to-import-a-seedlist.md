@@ -3,9 +3,9 @@ unique-page-id: 10099077
 description: 전자 메일 게재 기능 팩 - 설명서 목록을 가져오는 방법 - Marketo 문서 - 제품 설명서
 title: 전자 메일 게재 기능 전원 팩 - 세부 목록을 가져오는 방법
 exl-id: a4782611-2556-43bf-802b-afeb332eafcd
-source-git-commit: 4448d6e082c0c4fad35fc2980446175bffe47e4b
+source-git-commit: 8ff6198abb9cae9cc150b2c267b0a8658acffae2
 workflow-type: tm+mt
-source-wordcount: '294'
+source-wordcount: '307'
 ht-degree: 0%
 
 ---
@@ -24,25 +24,25 @@ ht-degree: 0%
 
    ![](assets/email-deliverability-power-pack-1.png)
 
-1. 클릭 **받은 편지함 정보**.
+1. 에베레스트 애플리케이션이 열립니다. 왼쪽 탐색 메뉴에서 **비행 중** 을(를) 선택합니다. **받은 편지함 배치**.
 
-   ![](assets/two-1.png)
+   ![](assets/email-deliverability-power-pack-2.png)
 
-1. 클릭 **시드 목록 가져오기**.
+1. 을(를) 클릭합니다. **시드 목록 관리** 탭.
 
-   ![](assets/three-1.png)
+   ![](assets/email-deliverability-power-pack-3.png)
 
-1. 클릭 **목록 내보내기**.
+1. 작업 드롭다운을 클릭하고 을 선택합니다 **한 줄에 하나씩 다운로드**.
 
-   ![](assets/four.png)
+   ![](assets/email-deliverability-power-pack-4.png)
 
    >[!NOTE]
    >
-   >선택 **목록 최적화** 250OK로 [목록 최적화](https://help.returnpath.com/hc/en-us/articles/360046746451-What-is-250ok-s-seedlist-optimizer-and-why-should-I-use-it-) 활성화해줄 수 있습니다. 선택 **목록 사용자 지정** 포함할 묘목 목록 영역을 선택하려면
+   >Everest가 목록을 최적화하도록 하려면 페이지 상단에 있는 Seed List Optimizer 를 사용합니다.
 
 1. 내보낸 후에 목록이 브라우저의 다운로드 폴더에 .txt 파일로 표시됩니다. 검색, [가져오기](/help/marketo/getting-started/quick-wins/import-a-list-of-people.md) 정적 목록으로 Marketo 인스턴스에 추가할 수 있습니다.
 
-   ![](assets/five.png)
+   ![](assets/email-deliverability-power-pack-5.png)
 
    >[!TIP]
    >
@@ -50,7 +50,7 @@ ht-degree: 0%
 
    >[!CAUTION]
    >
-   >매월 이러한 받은 편지함 정보 제공업체 캠페인의 양이 제한됩니다. 몇 명인지 보려면 250OK를 보세요 **계정 설정**. 자세한 내용은 Marketo 영업 담당자에게 문의하십시오.
+   >월별 이러한 받은 편지함 배치 캠페인의 양이 제한됩니다. 다운로드 수를 보려면 계정 설정 > Everest의 Subscription 섹션을 참조하십시오. 자세한 내용은 Marketo 영업 담당자에게 문의하십시오.
 
 ## 새 시드 목록 가져오기 {#acquiring-new-seedlists}
 
