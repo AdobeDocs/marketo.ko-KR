@@ -2,9 +2,9 @@
 description: 개인 정보 보호 요청 - Marketo 문서 - 제품 설명서
 title: 개인 정보 보호 요청
 exl-id: ae61eabc-ad8f-4c7b-8097-838e89c1a3ec
-source-git-commit: e3f7b0082b77c1be6b4f046838d7ebe725533e78
+source-git-commit: 5aa75cc35ef8d39983563ab34b075ae580f9a97b
 workflow-type: tm+mt
-source-wordcount: '339'
+source-wordcount: '0'
 ht-degree: 0%
 
 ---
@@ -15,7 +15,14 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->Marketo Engage을 위해 Privacy Service UI 또는 API를 통해 제출된 개인 정보 보호 요청은 Marketo Engage + RT-CDP, B2B 및 B2P 버전을 가진 사용자만 적용됩니다.
+>Marketo Engage에 대해 Privacy Service UI 또는 API를 통해 제출된 개인 정보 보호 요청은 다음 경우에만 적용됩니다.
+>
+>* Identity Management 시스템 Adobe에 온보딩된 Marketo Engage 사용자
+>
+>**-또는-**
+>
+>* 이미 Adobe Identity Management 시스템에 있는 다른 Experience Cloud 제품을 사용하는 Marketo Engage 사용자(예: RT-CDP, B2B 및 B2P 버전, Audience Manager)을 지원합니다.
+
 
 다음 두 가지 방법으로 Marketo Engage에서 소비자 데이터에 액세스하거나 삭제하기 위한 개별 요청을 제출할 수 있습니다.
 
@@ -44,7 +51,7 @@ Marketo Engage에 대한 액세스 및 삭제 데이터를 요청하려면 다�
 &quot;companyContexts&quot;:
 
 * &quot;namespace&quot;: **imsOrgID**
-* &quot;value&quot;: `<Your IMS Org ID Value>`
+* “값”: `<Your IMS Org ID Value>`
 
 &quot;users&quot;:
 
@@ -52,7 +59,7 @@ Marketo Engage에 대한 액세스 및 삭제 데이터를 요청하려면 다�
 * &quot;userIDs&quot;:
    * &quot;namespace&quot;: **이메일**
    * &quot;type&quot;: **standard**
-   * &quot;value&quot;: `<Data Subject’s Email Address>`
+   * “값”: `<Data Subject’s Email Address>`
 
 &quot;include&quot;:
 

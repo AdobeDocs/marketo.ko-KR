@@ -2,9 +2,9 @@
 description: 개인 정보 관리 - Marketo 문서 - 제품 설명서
 title: 개인 정보 관리
 exl-id: e18a48d7-2961-4133-8540-8512ea181fe0
-source-git-commit: fda1bf51d4016a61c41be9acba4771db1797a552
+source-git-commit: 5aa75cc35ef8d39983563ab34b075ae580f9a97b
 workflow-type: tm+mt
-source-wordcount: '381'
+source-wordcount: '409'
 ht-degree: 0%
 
 ---
@@ -15,7 +15,14 @@ Marketo Engage은 개인 정보 보호 규정을 준수하는 데 도움이 되�
 
 >[!NOTE]
 >
->Marketo Engage을 위해 Privacy Service UI 또는 API를 통해 제출된 개인 정보 보호 요청은 Marketo Engage + RT-CDP, B2B 및 B2P 버전을 가진 사용자만 적용됩니다.
+>Marketo Engage에 대해 Privacy Service UI 또는 API를 통해 제출된 개인 정보 보호 요청은 다음 경우에만 적용됩니다.
+>
+>* Identity Management 시스템 Adobe에 온보딩된 Marketo Engage 사용자
+>
+>**-또는-**
+>
+>* 이미 Adobe Identity Management 시스템에 있는 다른 Experience Cloud 제품을 사용하는 Marketo Engage 사용자(예: RT-CDP, B2B 및 B2P 버전, Audience Manager)을 지원합니다.
+
 
 ## 개인 정보 관리에 관한 규정 {#regulations-on-privacy-management}
 
