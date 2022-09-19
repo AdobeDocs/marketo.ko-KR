@@ -3,9 +3,9 @@ unique-page-id: 4720433
 description: Marketo에 대한 프로토콜 구성 - Marketo 문서 - 제품 설명서
 title: Marketo에 대한 프로토콜 구성
 exl-id: cf2fd4ac-9229-4e52-bb68-5732b44920ef
-source-git-commit: 3f0ccfcb22e0b84c6d1e60b750af955cb442bd36
+source-git-commit: ed29cc13d2ced85e639e8b1c6fe228e2bca82ffd
 workflow-type: tm+mt
-source-wordcount: '1025'
+source-wordcount: '1031'
 ht-degree: 1%
 
 ---
@@ -50,6 +50,10 @@ DNS 레코드로 보내는 랜딩 페이지 CNAME을 추가하여 `[YourLandingP
 예:
 
 `pages.abc.com IN CNAME mkto-a0244.com`
+
+>[!NOTE]
+>
+>`[MktoTrackingLink]` 기본 브랜딩 도메인이어야 합니다.
 
 `3` **마케팅 팀에 알림**
 
