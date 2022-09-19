@@ -3,9 +3,9 @@ unique-page-id: 37355768
 description: Adobe Experience Manager을 사용하여 자산 가져오기 - Marketo 문서 - 제품 설명서
 title: Adobe Experience Manager으로 자산 가져오기
 exl-id: 56ccf38f-3c99-4018-9989-719854e37a20
-source-git-commit: 9f8d6895e88250afc2799b2fb7fc73442018362f
+source-git-commit: 2b3a7867811ab2814a668eaa633057b35b7ce68d
 workflow-type: tm+mt
-source-wordcount: '217'
+source-wordcount: '229'
 ht-degree: 0%
 
 ---
@@ -20,17 +20,17 @@ ht-degree: 0%
 
 >[!PREREQUISITES]
 >
->[AEM 구성](/help/marketo/product-docs/core-marketo-concepts/miscellaneous/configuring-adobe-experience-manager-integration.md)을 이미 수행했는지 확인하십시오.
+>를 이미 수행했는지 확인합니다. [AEM 구성](/help/marketo/product-docs/core-marketo-concepts/miscellaneous/configuring-adobe-experience-manager-integration.md).
 
 >[!IMPORTANT]
 >
->이 기능은 현재 Firefox, Chrome 및 Edge 버전에서 완전히 지원됩니다. Safari에서는 지원되지 않습니다.
+>현재 이 기능은 Firefox에서만 완전히 지원됩니다. Safari에서 지원되지 않으며, SameSite 쿠키 설정에 따라 최신 버전의 Chrome에서 작동하지 않을 수 있습니다.
 
-1. **디자인 스튜디오**&#x200B;를 클릭합니다.
+1. 클릭 **Design Studio**.
 
    ![](assets/one-1.png)
 
-1. 새로 만들기 드롭다운을 클릭하고 **Adobe Experience Manager에서 가져오기**&#x200B;를 선택합니다.
+1. 새로 만들기 드롭다운을 클릭하고 을 선택합니다 **Adobe Experience Manager에서 가져오기**.
 
    ![](assets/two-1.png)
 
@@ -42,7 +42,7 @@ ht-degree: 0%
 
    ![](assets/four-1.png)
 
-1. 폴더를 선택합니다. 그런 다음 축소판을 클릭하여 원하는 이미지를 선택합니다(최대 10개까지 선택할 수 있음). 완료되면 **선택**&#x200B;을 클릭합니다.
+1. 폴더를 선택합니다. 그런 다음 축소판을 클릭하여 원하는 이미지를 선택합니다(최대 10개까지 선택할 수 있음). 클릭 **선택** 완료 시.
 
    ![](assets/five.png)
 
@@ -50,11 +50,11 @@ ht-degree: 0%
    >
    >이미지 크기는 100MB를 초과할 수 없습니다.
 
-1. **가져오기**&#x200B;를 클릭하여 프로세스를 완료합니다.
+1. 클릭 **가져오기** 프로세스를 완료합니다.
 
    ![](assets/six-1.png)
 
-   그게 다야! **닫기**&#x200B;를 클릭하여 Design Studio로 돌아갑니다.
+   그게 다야! 클릭 **닫기** 디자인 스튜디오로 돌아갑니다.
 
    ![](assets/seven-1.png)
 
