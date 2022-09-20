@@ -3,9 +3,9 @@ unique-page-id: 7513680
 description: 가능한 중복 사람에 대한 경고 자동화 - Marketo 문서 - 제품 설명서
 title: 가능한 중복 사람에 대한 경고 자동화
 exl-id: 596c03f4-7a84-4564-bbe1-e7bc0d22a616
-source-git-commit: 0da33dfa840dd1e5a5618fcd762b482f7a2e0789
+source-git-commit: 50fc46312d2c7c25556994fad4e118c01cf92fc0
 workflow-type: tm+mt
-source-wordcount: '178'
+source-wordcount: '0'
 ht-degree: 0%
 
 ---
@@ -19,7 +19,7 @@ ht-degree: 0%
 * 트리거: **사람이 생성됨**
 * 필터: **필드가 중복되었습니다.** 필드 이름 **전체 이름**
 
-   ![](assets/image2017-3-27-8-3a22-3a4.png)
+   ![](assets/automate-an-alert-1.png)
 
    >[!TIP]
    >
@@ -27,7 +27,7 @@ ht-degree: 0%
 
 1. 흐름 단계에서 [경고 보내기](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/send-alert.md){target=&quot;_blank&quot;} 흐름 작업.
 
-   ![](assets/image2017-3-27-8-3a24-3a8.png)
+   ![](assets/automate-an-alert-2.png)
 
    >[!TIP]
    >
@@ -41,7 +41,7 @@ ht-degree: 0%
 
 1. 에서 캠페인을 활성화합니다 **예약** 탭.
 
-   ![](assets/image2017-3-27-8-3a24-3a37.png)
+   ![](assets/automate-an-alert-3.png)
 
 됐습니다. 이 스마트 캠페인은 Marketo에서 기존 전체 이름을 가진 새 사람을 만들 때마다 트리거됩니다.
 
