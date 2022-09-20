@@ -2,9 +2,9 @@
 description: 현재 릴리스 노트 - Marketo 문서 - 제품 설명서
 title: 현재 릴리스 노트
 exl-id: a2eccad5-73ad-48f9-8091-51cee23824e1
-source-git-commit: d26428137e9b99d04fef67a3b21b74d150f693e7
+source-git-commit: 4794c44db57b41f6d9358f7e6cc24a41dda68550
 workflow-type: tm+mt
-source-wordcount: '552'
+source-wordcount: '582'
 ht-degree: 0%
 
 ---
@@ -55,6 +55,12 @@ ht-degree: 0%
 ## API 개선 사항 {#api-enhancements}
 
 * **대량 리드 가져오기: 영업 사원 협회**: Lead REST API와 Parity를 사용하여 대량 리드 가져오기 프로세스 동안 Sales와 Lead를 연결할 수 있으므로 복잡성과 API 호출 수가 줄어듭니다.
+
+## Sales Insight {#sales-insight}
+
+![(별)](assets/yellow-star.png)
+
+* **[Dynamic Chat와 Sales Insight 통합](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/features/dynamic-chat-integration.md){target=&quot;_blank&quot;}**: 이제 인사이트 대시보드에 주간 요약 및 세부 사항 카드와 함께 스마트 그리드의 동적 채팅 활동이 포함됩니다.
 
 ## 공지 {#announcements}
 
