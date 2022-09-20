@@ -3,7 +3,7 @@ unique-page-id: 2359426
 description: 개인 데이터 업데이트 - Marketo 문서 - 제품 설명서
 title: 개인 데이터 업데이트
 exl-id: e4fe0df7-5744-41e6-821f-942d247123fc
-source-git-commit: 0da33dfa840dd1e5a5618fcd762b482f7a2e0789
+source-git-commit: a7f0f5b89ca2a35a3aaf0cfe1ed3a96da6366844
 workflow-type: tm+mt
 source-wordcount: '170'
 ht-degree: 0%
@@ -26,7 +26,7 @@ ht-degree: 0%
 
 1. 데이터베이스로 이동합니다.
 
-   ![](assets/db-3.png)
+   ![](assets/update-person-data-1.png)
 
 1. 개인 이름이나 이메일 주소를 검색합니다.
 
@@ -34,11 +34,11 @@ ht-degree: 0%
    >
    >이메일 주소를 사용하여 검색하면 검색이 빨라집니다.
 
-   ![](assets/two-rubiks.png)
+   ![](assets/update-person-data-2.png)
 
 1. 개인 세부 정보를 열려면 두 번 클릭합니다.
 
-   ![](assets/three-rubiks.png)
+   ![](assets/update-person-data-3.png)
 
    >[!TIP]
    >
@@ -48,7 +48,7 @@ ht-degree: 0%
 
 1. 받은 새 정보를 입력하고 탭을 닫습니다.
 
-![](assets/four-rubiks.png)
+![](assets/update-person-data-4.png)
 
 >[!NOTE]
 >
