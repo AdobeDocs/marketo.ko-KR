@@ -1,12 +1,11 @@
 ---
 unique-page-id: 2949190
-description: SEO - 검색 엔진에 대한 지역/국가 선택 - Marketo 문서 - 제품 설명서
+description: SEO - 검색 엔진에 대한 선택 지역/국가 - Marketo 문서 - 제품 설명서
 title: SEO - 검색 엔진에 대한 지역/국가 선택
 exl-id: dc53415c-eb11-41f9-b992-172a32359cef
-translation-type: tm+mt
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+source-git-commit: 0c6c119f5be6e2ac3db7d99f7e8623d8aaa3555c
 workflow-type: tm+mt
-source-wordcount: '119'
+source-wordcount: '123'
 ht-degree: 0%
 
 ---
@@ -17,17 +16,17 @@ SEO 관리자는 키워드 등급 정보를 가져올 검색 엔진의 영역을
 
 >[!NOTE]
 >
->**관리자 권한 필요**
+>**관리 권한 필요**
 
-1. **관리** 섹션으로 이동합니다.
+1. 로 이동합니다. **관리** 섹션을 참조하십시오.
 
 ![](assets/image2014-9-17-21-3a6-3a43.png)
 
-1. **검색 엔진** 탭을 클릭합니다.
+1. 을(를) 클릭합니다. **검색 엔진** 탭.
 
    ![](assets/image2014-9-17-21-3a7-3a25.png)
 
-1. 최적화할 국가/도시를 선택하고 **저장**&#x200B;을 클릭합니다.
+1. 최적화할 국가/도시를 선택하고 클릭합니다 **저장**.
 
 >[!NOTE]
 >
@@ -35,12 +34,12 @@ SEO 관리자는 키워드 등급 정보를 가져올 검색 엔진의 영역을
 
 ![](assets/image2014-9-17-21-3a8-3a8.png)
 
-탁월한 작업 이제 선택한 국가 또는 도시의 키워드 등급이 표시됩니다.
+아주 잘했어요 이제 선택한 국가 또는 도시의 키워드 순위가 표시됩니다.
 
 ![](assets/image2014-9-17-21-3a8-3a15.png)
 
 >[!MORELIKETHIS]
 >
->* [대시보드 이해:SEO 스냅샷](/help/marketo/product-docs/additional-apps/seo/understanding-seo/understanding-the-seo-dashboard-seo-snapshot.md)
->* [대시보드 이해:SEO Recommendations](/help/marketo/product-docs/additional-apps/seo/understanding-seo/understanding-the-seo-dashboard-seo-recommendations.md)
+>* [대시보드 이해: SEO 스냅샷](/help/marketo/product-docs/additional-apps/seo/understanding-seo/understanding-the-seo-dashboard-seo-snapshot.md){target=&quot;_blank&quot;}
+>* [대시보드 이해: SEO Recommendations](/help/marketo/product-docs/additional-apps/seo/understanding-seo/understanding-the-seo-dashboard-seo-recommendations.md){target=&quot;_blank&quot;}
 

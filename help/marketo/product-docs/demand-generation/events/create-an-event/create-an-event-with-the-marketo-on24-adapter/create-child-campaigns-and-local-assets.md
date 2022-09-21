@@ -3,18 +3,14 @@ unique-page-id: 10096675
 description: 하위 캠페인 및 로컬 자산 만들기 - Marketo 문서 - 제품 설명서
 title: 하위 캠페인 및 로컬 자산 만들기
 exl-id: 272105e1-43d6-455c-a533-aae65e859384
-source-git-commit: 40cfdddac66b7cd90e33bedf11888a7c5e3b38c9
+source-git-commit: 0c6c119f5be6e2ac3db7d99f7e8623d8aaa3555c
 workflow-type: tm+mt
-source-wordcount: '688'
+source-wordcount: '678'
 ht-degree: 1%
 
 ---
 
 # 하위 캠페인 및 로컬 자산 만들기 {#create-child-campaigns-and-local-assets}
-
->[!IMPORTANT]
->
->2022년 8월부터 ON24는 더 이상 새로운 Marketo 통합을 지원하지 않습니다. 이 문서의 정보는 기존 사용자에게만 적용됩니다.
 
 Design Studio를 사용하여 하위 캠페인 및 로컬 자산을 만듭니다.
 
@@ -53,7 +49,7 @@ Marketo을 사용하여 이벤트에 대한 확인 이메일을 전송합니다.
 
 >[!TIP]
 >
->확인, 미리 알림 또는 후속 이메일을 보내도록 ON24를 구성할 수 있습니다. 자세한 내용은 [ON24 도움말 사이트](https://www.on24.com/live-webcast-elite/) 추가 정보.
+>확인, 미리 알림 또는 후속 이메일을 보내도록 ON24를 구성할 수 있습니다. 자세한 내용은 [ON24 도움말 사이트](https://www.on24.com/live-webcast-elite/)자세한 내용은 {target=&quot;_blank&quot;} 를 참조하십시오.
 
 ## 등록 하위 캠페인 요구 사항 {#registration-child-campaign-requirements}
 
@@ -98,11 +94,11 @@ Marketo을 사용하여 이벤트에 대한 확인 이메일을 전송합니다.
 >
 >등록 오류가 표시된 사람이 반환되면 전자 메일 확인 메시지를 받지 않습니다.
 
-다음 단계는 다음과 같습니다. [ON24 이벤트 통합 테스트](/help/marketo/product-docs/demand-generation/events/create-an-event/create-an-event-with-the-marketo-on24-adapter/test-your-on24-event-integration.md).
+다음 단계는 다음과 같습니다. [ON24 이벤트 통합 테스트](/help/marketo/product-docs/demand-generation/events/create-an-event/create-an-event-with-the-marketo-on24-adapter/test-your-on24-event-integration.md){target=&quot;_blank&quot;}.
 
 >[!MORELIKETHIS]
 >
->* [Marketo ON24 어댑터 이벤트 이해](/help/marketo/product-docs/demand-generation/events/create-an-event/create-an-event-with-the-marketo-on24-adapter/understanding-marketo-on24-adapter-events.md)
->* [ON24 이벤트 통합 예](/help/marketo/product-docs/demand-generation/events/create-an-event/create-an-event-with-the-marketo-on24-adapter/example-on24-event-integration.md)
->* [웨비나 프로그램 상태 이해](/help/marketo/product-docs/demand-generation/events/create-an-event/create-an-event-with-the-marketo-on24-adapter/understanding-webinar-program-statuses.md)
+>* [Marketo ON24 어댑터 이벤트 이해](/help/marketo/product-docs/demand-generation/events/create-an-event/create-an-event-with-the-marketo-on24-adapter/understanding-marketo-on24-adapter-events.md){target=&quot;_blank&quot;}
+>* [ON24 이벤트 통합 예](/help/marketo/product-docs/demand-generation/events/create-an-event/create-an-event-with-the-marketo-on24-adapter/example-on24-event-integration.md){target=&quot;_blank&quot;}
+>* [웨비나 프로그램 상태 이해](/help/marketo/product-docs/demand-generation/events/create-an-event/create-an-event-with-the-marketo-on24-adapter/understanding-webinar-program-statuses.md){target=&quot;_blank&quot;}
 

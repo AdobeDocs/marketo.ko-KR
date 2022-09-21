@@ -3,18 +3,14 @@ unique-page-id: 10096673
 description: 이벤트 설정 구성 및 Marketo과 웨비나 동기화 - Marketo 문서 - 제품 설명서
 title: 이벤트 설정 구성 및 Marketo과 웨비나 동기화
 exl-id: 03b76c33-3dbe-4675-83f3-e2d82907f94e
-source-git-commit: 40cfdddac66b7cd90e33bedf11888a7c5e3b38c9
+source-git-commit: 0c6c119f5be6e2ac3db7d99f7e8623d8aaa3555c
 workflow-type: tm+mt
-source-wordcount: '248'
+source-wordcount: '232'
 ht-degree: 0%
 
 ---
 
 # 이벤트 설정 구성 및 Marketo과 웨비나 동기화 {#configure-event-settings-and-sync-marketo-with-your-webinar}
-
->[!IMPORTANT]
->
->2022년 8월부터 ON24는 더 이상 새로운 Marketo 통합을 지원하지 않습니다. 이 문서의 정보는 기존 사용자에게만 적용됩니다.
 
 다음 단계에 따라 Marketo 이벤트 설정을 구성하고 Marketo 및 ON24에 연결합니다.
 
@@ -56,8 +52,8 @@ ON24 웨비나와 연결된 이벤트를 설정하면 이벤트 예약이 ON24�
    >
    >ON24에서 이벤트 정보를 업데이트하는 경우 **웨비나 공급자에서 새로 고침** 이벤트 작업 메뉴에서 새 데이터 채우기를 확인합니다.
 
-이제 다음 단계로 이동할 수 있습니다. [하위 캠페인 및 로컬 자산 만들기](/help/marketo/product-docs/demand-generation/events/create-an-event/create-an-event-with-the-marketo-on24-adapter/create-child-campaigns-and-local-assets.md).
+이제 다음 단계로 이동할 수 있습니다. [하위 캠페인 및 로컬 자산 만들기](/help/marketo/product-docs/demand-generation/events/create-an-event/create-an-event-with-the-marketo-on24-adapter/create-child-campaigns-and-local-assets.md){target=&quot;_blank&quot;}.
 
 >[!MORELIKETHIS]
 >
->[Marketo On24 어댑터 이벤트 이해](/help/marketo/product-docs/demand-generation/events/create-an-event/create-an-event-with-the-marketo-on24-adapter/understanding-marketo-on24-adapter-events.md)
+>[Marketo On24 어댑터 이벤트 이해](/help/marketo/product-docs/demand-generation/events/create-an-event/create-an-event-with-the-marketo-on24-adapter/understanding-marketo-on24-adapter-events.md){target=&quot;_blank&quot;}

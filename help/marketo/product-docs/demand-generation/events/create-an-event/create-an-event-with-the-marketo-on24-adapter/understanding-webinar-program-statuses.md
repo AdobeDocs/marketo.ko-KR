@@ -3,18 +3,14 @@ unique-page-id: 10096681
 description: 웨비나 프로그램 상태 이해 - Marketo 문서 - 제품 설명서
 title: 웨비나 프로그램 상태 이해
 exl-id: ef0b1b94-a612-4aa8-9b4a-aa7ef0e2abaa
-source-git-commit: 40cfdddac66b7cd90e33bedf11888a7c5e3b38c9
+source-git-commit: 0c6c119f5be6e2ac3db7d99f7e8623d8aaa3555c
 workflow-type: tm+mt
-source-wordcount: '432'
+source-wordcount: '416'
 ht-degree: 0%
 
 ---
 
 # 웨비나 프로그램 상태 이해 {#understanding-webinar-program-statuses}
-
->[!IMPORTANT]
->
->2022년 8월부터 ON24는 더 이상 새로운 Marketo 통합을 지원하지 않습니다. 이 문서의 정보는 기존 사용자에게만 적용됩니다.
 
 프로그램 상태는 개인이 이벤트의 구성원으로 진행하는 다양한 이벤트 상태를 나타냅니다. 이러한 시퀀스는 채널 유형에 연결됩니다. Marketo에는 **웨비나**. 배치 및 트리거 캠페인 모두에서 상태를 사용할 수 있습니다.
 
@@ -32,7 +28,7 @@ ht-degree: 0%
 
 **초대** - 이 상태를 사용하여 이벤트에 사람을 추가합니다.
 
-**승인 보류 중** - 이 상태를 사용하여 확인 이메일 전송을 중단합니다. 자세한 내용은 의 &quot;수동으로 등록 승인&quot;을 참조하십시오. [ON24 이벤트 등록 업데이트](/help/marketo/product-docs/demand-generation/events/create-an-event/create-an-event-with-the-marketo-on24-adapter/on24-event-registration-updates.md) 추가 정보.
+**승인 보류 중** - 이 상태를 사용하여 확인 이메일 전송을 중단합니다. 자세한 내용은 의 &quot;수동으로 등록 승인&quot;을 참조하십시오. [ON24 이벤트 등록 업데이트](/help/marketo/product-docs/demand-generation/events/create-an-event/create-an-event-with-the-marketo-on24-adapter/on24-event-registration-updates.md)자세한 내용은 {target=&quot;_blank&quot;} 를 참조하십시오.
 
 **대기 목록** - 이 상태를 사용하여 추가 좌석이 마련될 때까지 일부 사용자가 대기하도록 합니다.
 
@@ -58,4 +54,4 @@ ht-degree: 0%
 
 >[!MORELIKETHIS]
 >
->[Marketo ON24 어댑터 이벤트 이해](/help/marketo/product-docs/demand-generation/events/create-an-event/create-an-event-with-the-marketo-on24-adapter/understanding-marketo-on24-adapter-events.md)
+>[Marketo ON24 어댑터 이벤트 이해](/help/marketo/product-docs/demand-generation/events/create-an-event/create-an-event-with-the-marketo-on24-adapter/understanding-marketo-on24-adapter-events.md){target=&quot;_blank&quot;}

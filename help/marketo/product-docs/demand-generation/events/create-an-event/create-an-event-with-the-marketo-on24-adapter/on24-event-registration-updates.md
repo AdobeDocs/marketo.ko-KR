@@ -3,18 +3,14 @@ unique-page-id: 10096683
 description: ON24 이벤트 등록 업데이트 - Marketo 문서 - 제품 설명서
 title: ON24 이벤트 등록 업데이트
 exl-id: 1d194ef2-b6ca-4e2d-b476-beb5bccd3c5f
-source-git-commit: 40cfdddac66b7cd90e33bedf11888a7c5e3b38c9
+source-git-commit: 0c6c119f5be6e2ac3db7d99f7e8623d8aaa3555c
 workflow-type: tm+mt
-source-wordcount: '302'
+source-wordcount: '284'
 ht-degree: 0%
 
 ---
 
 # ON24 이벤트 등록 업데이트 {#on-event-registration-updates}
-
->[!IMPORTANT]
->
->2022년 8월부터 ON24는 더 이상 새로운 Marketo 통합을 지원하지 않습니다. 이 문서의 정보는 기존 사용자에게만 적용됩니다.
 
 ## 수동으로 등록 승인 {#manually-approving-registrants}
 
@@ -44,4 +40,4 @@ Marketo은 매일 밤 약 오후 11시에 참석 정보를 자동으로 가져�
 
 >[!MORELIKETHIS]
 >
->[Marketo ON24 어댑터 이벤트 이해](/help/marketo/product-docs/demand-generation/events/create-an-event/create-an-event-with-the-marketo-on24-adapter/understanding-marketo-on24-adapter-events.md)
+>[Marketo ON24 어댑터 이벤트 이해](/help/marketo/product-docs/demand-generation/events/create-an-event/create-an-event-with-the-marketo-on24-adapter/understanding-marketo-on24-adapter-events.md){target=&quot;_blank&quot;}
