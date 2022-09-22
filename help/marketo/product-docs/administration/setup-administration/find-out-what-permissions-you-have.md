@@ -1,30 +1,29 @@
 ---
 unique-page-id: 2359898
-description: 사용 권한 찾기 - Marketo 문서 - 제품 설명서
-title: 사용 권한 확인
+description: 보유한 권한 찾기 - Marketo 문서 - 제품 설명서
+title: 보유하고 있는 권한 확인
 exl-id: 46eb65ea-afd9-44b8-a753-f3ca74c6b74b
-translation-type: tm+mt
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+source-git-commit: 6553f7112859c3e68ae798cab630ed3dce4765ea
 workflow-type: tm+mt
 source-wordcount: '77'
 ht-degree: 0%
 
 ---
 
-# {#find-out-what-permissions-you-have} 사용 권한을 확인합니다.
+# 보유하고 있는 권한 확인 {#find-out-what-permissions-you-have}
 
-Marketo에서 사용 권한을 가지고 있거나 가지고 있지 않은 경우 손쉽게 확인할 수 있습니다.
+Marketo에 어떤 권한이 있는지 모르면 쉽게 확인할 수 있습니다.
 
-1. **마케팅 활동**&#x200B;으로 이동합니다.
+1. 이동 **마케팅 활동**.
 
-   ![](assets/login-marketing-activities.png)
+   ![](assets/find-out-what-permissions-you-have-1.png)
 
-1. 사용 권한을 보려면 **전체 액세스**&#x200B;를 클릭합니다.
+1. 클릭 **전체 액세스** 사용 권한을 확인합니다.
 
-   ![](assets/image2014-9-8-17-3a45-3a13.png)
+   ![](assets/find-out-what-permissions-you-have-2.png)
 
 나열된 권한이 표시됩니다.
 
-![](assets/image2014-9-8-17-3a45-3a23.png)
+![](assets/find-out-what-permissions-you-have-3.png)
 
-사용 권한이 필요한 경우 Marketo 관리자에게 문의하십시오.
+활성화되는 권한이 필요한 경우 Marketo 관리자에게 문의하십시오.
