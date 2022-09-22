@@ -1,12 +1,10 @@
 ---
 description: Marketo Forms에서 CAPTCHA 활성화 - Marketo 문서 - 제품 설명서
 title: Marketo Forms에서 CAPTCHA 활성화
-hide: true
-hidefromtoc: true
 exl-id: d83fc2d3-7ae4-4927-9a09-ea6995013b6f
-source-git-commit: cdc8d5f3322b9d19d50f9f4bd8156b7e3a627977
+source-git-commit: 457b4aadac47b0a8614c3e6025d2e1ae287b5ecc
 workflow-type: tm+mt
-source-wordcount: '0'
+source-wordcount: '79'
 ht-degree: 0%
 
 ---

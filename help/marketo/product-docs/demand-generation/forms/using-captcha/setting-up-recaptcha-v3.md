@@ -1,12 +1,10 @@
 ---
 description: reCAPTCHA v3 설정 - Marketo 문서 - 제품 설명서
 title: reCAPTCHA v3 설정
-hide: true
-hidefromtoc: true
 exl-id: 235a2688-59a8-4827-a929-a07f3ae06988
-source-git-commit: fed5fc3a511022fbac40b8ad369a1cdda5112167
+source-git-commit: 457b4aadac47b0a8614c3e6025d2e1ae287b5ecc
 workflow-type: tm+mt
-source-wordcount: '354'
+source-wordcount: '0'
 ht-degree: 0%
 
 ---
