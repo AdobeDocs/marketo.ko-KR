@@ -1,63 +1,66 @@
 ---
 unique-page-id: 7512289
-description: GoToWebinar를 LaunchPoint 서비스로 추가 - Marketo Docs - 제품 설명서
-title: GoToWebinar를 LaunchPoint 서비스로 추가
+description: LaunchPoint Service로 GoToWebinar 추가 - Marketo 문서 - 제품 설명서
+title: LaunchPoint 서비스로 GoToWebinar 추가
 exl-id: ebc845df-68e6-408f-8d0f-0c56d7e4baa3
-translation-type: tm+mt
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+source-git-commit: dbb7478ac7b7e811bb9dfeb7c5e4a80ae400ab9b
 workflow-type: tm+mt
-source-wordcount: '169'
+source-wordcount: '172'
 ht-degree: 0%
 
 ---
 
-# GoToWebinar를 LaunchPoint 서비스로 추가 {#add-gotowebinar-as-a-launchpoint-service}
+# LaunchPoint 서비스로 GoToWebinar 추가 {#add-gotowebinar-as-a-launchpoint-service}
 
-Marketo은 GoToWebinar 등록 및 참석을 관리합니다.
-
->[!NOTE]
->
->**관리자 권한 필요**
+Marketo은 GoToWebinar 등록 및 참여를 관리합니다.
 
 >[!NOTE]
 >
->이 단계를 수행하려면 GoToWebinar 및 관리 권한에 대한 기존 구독이 필요합니다. GoToWebinar에 로그인하는 데 사용하는 이메일 및 암호를 준비하십시오.
+>**관리 권한 필요**
+
+>[!NOTE]
+>
+>이 단계에서는 GoToWebinar 및 관리 권한에 대한 기존 구독이 필요합니다. GoToWebinar에 로그인하는 데 사용할 이메일과 암호가 있는지 확인합니다.
 
 >[!NOTE]
 >
 >GoToMeeting, GoToWebcast 및 GoToTraining은 현재 지원되지 않습니다.
 
-1. **관리**&#x200B;로 이동하고 **LaunchPoint**&#x200B;를 선택합니다.
+1. 로 이동합니다. **관리** 영역.
 
-   ![](assets/image2015-4-22-15-3a33-3a47.png)
+   ![](assets/add-gotowebinar-as-a-launchpoint-service-1.png)
 
-1. **새로 만들기** 및 **새 서비스**&#x200B;를 선택합니다.
+1. 클릭 **LaunchPoint**.
 
-   ![](assets/new-service-gotowebinar.png)
+   ![](assets/add-gotowebinar-as-a-launchpoint-service-2.png)
 
-1. **표시 이름**&#x200B;을 입력합니다. **서비스**&#x200B;에서 **GoToWebinar**&#x200B;을 선택합니다.
+1. 선택 **새로 만들기** 및 **새 서비스**.
 
-   ![](assets/new-service-goto-webinar1.png)
+   ![](assets/add-gotowebinar-as-a-launchpoint-service-3.png)
 
-1. 그런 다음 **GoToWebinar에 로그인**&#x200B;을 클릭합니다.
+1. 을(를) 입력합니다. **표시 이름**. 아래 **서비스**, 선택 **GoToWebinar**.
 
-   ![](assets/image2015-4-22-15-3a57-3a59.png)
+   ![](assets/add-gotowebinar-as-a-launchpoint-service-4.png)
+
+1. 다음을 클릭합니다. **GoToWebinar에 로그인**.
+
+   ![](assets/add-gotowebinar-as-a-launchpoint-service-5.png)
 
    >[!NOTE]
    >
-   >Marketo 양식의 회사 이름 및 작업 제목을 GoToWebinar로 동기화하려면 **추가 필드 활성화** 상자를 선택합니다.
+   >Marketo 양식에서 GoToWebinar로 회사 이름 및 작업 제목을 동기화하려면 **추가 필드 활성화** 상자.
 
-1. GoToWebinar 로그인 팝업 창에서 **GoToWebinar** 이메일 및 암호를 입력하고 **로그인**&#x200B;을 클릭합니다.
+1. GoToWebinar 로그인 팝업 창에서 **GoToWebinar** 전자 메일 및 암호 및 클릭 **로그인**.
 
-   ![](assets/image2015-4-22-15-3a52-3a31.png)
+   ![](assets/add-gotowebinar-as-a-launchpoint-service-6.png)
 
-1. 창이 닫히면 **만들기**&#x200B;를 클릭합니다.
+1. 창을 닫은 후 **만들기**.
 
-   ![](assets/image2015-4-22-15-3a57-3a43.png)
+   ![](assets/add-gotowebinar-as-a-launchpoint-service-7.png)
 
-1. 좋아요! 이제 **GoToWebinar** 계정이 Marketo과 동기화됩니다.
+1. 좋아요! 사용자 **GoToWebinar** 이제 계정이 Marketo과 동기화됩니다.
 
-   ![](assets/goto-webinar.png)
+   ![](assets/add-gotowebinar-as-a-launchpoint-service-8.png)
 
 >[!CAUTION]
 >
@@ -65,4 +68,4 @@ Marketo은 GoToWebinar 등록 및 참석을 관리합니다.
 
 >[!MORELIKETHIS]
 >
->[gotoWebinar](/help/marketo/product-docs/demand-generation/events/create-an-event/create-an-event-with-gotowebinar.md)로 이벤트를 만드는 방법을 알아봅니다.
+>방법 알아보기 [gotoWebinar를 사용하여 이벤트 만들기](/help/marketo/product-docs/demand-generation/events/create-an-event/create-an-event-with-gotowebinar.md){target=&quot;_blank&quot;}.

@@ -1,48 +1,51 @@
 ---
 unique-page-id: 7512292
-description: LaunchPoint 서비스로 레벨 3 웹 미팅 추가 - Marketo Docs - 제품 설명서
-title: 수준 3 웹 회의를 LaunchPoint 서비스로 추가
+description: LaunchPoint Service로 수준 3 웹 회의 추가 - Marketo 문서 - 제품 설명서
+title: 수준 3 웹 모임을 LaunchPoint 서비스로 추가
 exl-id: f419b019-33bb-446d-baf5-55393770a703
-translation-type: tm+mt
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+source-git-commit: dbb7478ac7b7e811bb9dfeb7c5e4a80ae400ab9b
 workflow-type: tm+mt
-source-wordcount: '119'
+source-wordcount: '122'
 ht-degree: 0%
 
 ---
 
-# 수준 3 웹 회의를 LaunchPoint 서비스로 추가 {#add-level-web-meeting-as-a-launchpoint-service}
+# 수준 3 웹 모임을 LaunchPoint 서비스로 추가 {#add-level-three-web-meeting-as-a-launchpoint-service}
 
-Marketo에서 수준 3 웹 회의 등록 및 참석을 관리합니다.
-
->[!NOTE]
->
->**관리자 권한 필요**
+Marketo은 수준 3 웹 모임 등록 및 참석 여부를 관리합니다.
 
 >[!NOTE]
 >
->이 단계에서는 레벨 3 웹 미팅에 대한 기존 구독과 관리 권한이 필요합니다. 액세스 번호, 액세스 코드 및 패스코드를 제공할 수 있습니다.
+>**관리 권한 필요**
 
-1. **관리**&#x200B;로 이동하고 **LaunchPoint**&#x200B;를 선택합니다.
+>[!NOTE]
+>
+>이 단계에서는 레벨 3 웹 모임 및 관리 권한에 대한 기존 구독이 필요합니다. 액세스 번호, 액세스 코드 및 암호를 즉시 사용할 수 있습니다.
 
-   ![](assets/image2015-4-23-10-3a5-3a12.png)
+1. 로 이동합니다. **관리** 영역.
 
-1. **새로 만들기**&#x200B;를 선택한 다음 **새 서비스**&#x200B;를 선택합니다.
+   ![](assets/add-level-three-web-meeting-as-a-launchpoint-service-1.png)
 
-   ![](assets/level-3-web-meeting-new-service.png)
+1. 클릭 **LaunchPoint**.
 
-1. **표시 이름**&#x200B;을 입력합니다. **서비스**&#x200B;에서 **수준 3 웹 회의**&#x200B;를 선택합니다.
+   ![](assets/add-level-three-web-meeting-as-a-launchpoint-service-2.png)
 
-   ![](assets/new-service-level-3.png)
+1. 선택 **새로 만들기** 그리고 **새 서비스**.
 
-1. **액세스 번호**, **액세스 코드** 및 **암호**&#x200B;를 입력한 다음 **만들기**&#x200B;를 클릭합니다.
+   ![](assets/add-level-three-web-meeting-as-a-launchpoint-service-3.png)
 
-   ![](assets/image2015-4-23-10-3a10-3a26.png)
+1. 을(를) 입력합니다. **표시 이름**. 아래 **서비스**, 선택 **레벨 3 웹 모임**.
 
-이제 수준 3 웹 회의 계정이 Marketo과 동기화됩니다!
+   ![](assets/add-level-three-web-meeting-as-a-launchpoint-service-4.png)
 
-![](assets/level-3-web-meeting.png)
+1. 을(를) 입력합니다. **액세스 번호**, **액세스 코드**, 및 **암호**&#x200B;를 클릭한 다음 **만들기**.
+
+   ![](assets/add-level-three-web-meeting-as-a-launchpoint-service-5.png)
+
+이제 수준 3 웹 모임 계정이 Marketo과 동기화되었습니다!
+
+![](assets/add-level-three-web-meeting-as-a-launchpoint-service-6.png)
 
 >[!MORELIKETHIS]
 >
->[수준 3 웹 회의](/help/marketo/product-docs/demand-generation/events/create-an-event/create-an-event-with-level-3-web-meeting.md)로 이벤트를 만드는 방법을 알아봅니다.
+>방법 알아보기 [수준 3 웹 모임을 사용하여 이벤트 만들기](/help/marketo/product-docs/demand-generation/events/create-an-event/create-an-event-with-level-3-web-meeting.md){target=&quot;_blank&quot;}.
