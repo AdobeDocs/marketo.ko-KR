@@ -3,9 +3,9 @@ unique-page-id: 10096583
 description: 차세대 Munchkin 추적 FAQ - Marketo 문서 - 제품 설명서
 title: 차세대 Munchkin 추적 FAQ
 exl-id: 283189ac-c817-479a-b896-91233980608c
-source-git-commit: 6ad418c8f4056b9a2fb31b0ac995692f0c618795
+source-git-commit: 813bab6169a121e90919f9a02505ccde5167cda4
 workflow-type: tm+mt
-source-wordcount: '732'
+source-wordcount: '0'
 ht-degree: 0%
 
 ---
@@ -30,7 +30,7 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->이 변경 사항은 웹 Personalization(실시간 Personalization)에는 영향을 주지 않습니다. 익명 및 알려진 웹 방문자를 계속 식별하고 이러한 방문자에게 실시간으로 컨텐츠를 개인화합니다.
+>이 변경 사항은 웹 개인화(실시간 개인화)에 영향을 주지 않습니다. 익명 및 알려진 웹 방문자를 계속 식별하고 이러한 방문자에게 실시간으로 컨텐츠를 개인화합니다.
 
 ## Marketo이 스마트 목록에서 &quot;익명&quot; 필터를 제거한 이유는 무엇입니까? {#why-did-marketo-remove-the-is-anonymous-filter-from-smart-lists}
 
@@ -74,20 +74,20 @@ Munchkin V2를 통해 우리는 모든 익명의 활동을 계속 추적할 것�
 
 다음 링크를 확인하십시오.
 
-[익명 리드 업그레이드 개요](https://nation.marketo.com/docs/DOC-2937)
+[익명 리드 업그레이드 개요](https://nation.marketo.com/docs/DOC-2937){target=&quot;_blank&quot;}
 
-[익명 리드 업그레이드 - Marketo UI 내의 변경 사항](https://nation.marketo.com/docs/DOC-2938)
+[익명 리드 업그레이드 - Marketo UI 내의 변경 사항](https://nation.marketo.com/docs/DOC-2938){target=&quot;_blank&quot;}
 
-[익명 리드 업그레이드 - 고객 조치 필요](https://nation.marketo.com/docs/DOC-2939)
+[익명 리드 업그레이드 - 고객 조치 필요](https://nation.marketo.com/docs/DOC-2939){target=&quot;_blank&quot;}
 
-[익명 리드 업그레이드 - Analytics 보고서](https://nation.marketo.com/docs/DOC-2940)
+[익명 리드 업그레이드 - Analytics 보고서](https://nation.marketo.com/docs/DOC-2940){target=&quot;_blank&quot;}
 
-[익명 리드 업그레이드 - 릴리스 일정](https://nation.marketo.com/docs/DOC-2961)
+[익명 리드 업그레이드 - 릴리스 일정](https://nation.marketo.com/docs/DOC-2961){target=&quot;_blank&quot;}
 
-[익명 리드 업그레이드 - 후드](https://nation.marketo.com/docs/DOC-2962)
+[익명 리드 업그레이드 - 후드](https://nation.marketo.com/docs/DOC-2962){target=&quot;_blank&quot;}
 
-[알려진 리드에 대한 익명의 리드 홍보 - Munchkin V2 동작](https://nation.marketo.com/docs/DOC-2963)
+[알려진 리드에 대한 익명의 리드 홍보 - Munchkin V2 동작](https://nation.marketo.com/docs/DOC-2963){target=&quot;_blank&quot;}
 
 ## 질문이 더 있어! 어떻게 답변을 받게 되죠? {#i-have-more-questions-how-do-i-get-them-answered}
 
-다음 주소로 문의하십시오. [커뮤니티](https://nation.marketo.com/). 연락처가 가능합니다 [Marketo 지원](https://nation.marketo.com/t5/Support/ct-p/Support). 그들은 당신의 질문에 기꺼이 대답할 것입니다.
+다음 주소로 문의하십시오. [커뮤니티](https://nation.marketo.com/){target=&quot;_blank&quot;}. 연락처가 가능합니다 [Marketo 지원](https://nation.marketo.com/t5/Support/ct-p/Support){target=&quot;_blank&quot;}. 그들은 당신의 질문에 기꺼이 대답할 것입니다.

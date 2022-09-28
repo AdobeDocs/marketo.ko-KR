@@ -1,52 +1,55 @@
 ---
 unique-page-id: 7512278
-description: ReadyTalk를 LaunchPoint 서비스로 추가 - Marketo Docs - 제품 설명서
+description: LaunchPoint Service로 ReadyTalk 추가 - Marketo 문서 - 제품 설명서
 title: LaunchPoint 서비스로 ReadyTalk 추가
 exl-id: 936735b5-913e-43ee-bdc2-d65ef37d93a3
-translation-type: tm+mt
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+source-git-commit: 813bab6169a121e90919f9a02505ccde5167cda4
 workflow-type: tm+mt
-source-wordcount: '111'
+source-wordcount: '0'
 ht-degree: 0%
 
 ---
 
-# ReadyTalk를 LaunchPoint 서비스로 추가 {#add-readytalk-as-a-launchpoint-service}
+# LaunchPoint 서비스로 ReadyTalk 추가 {#add-readytalk-as-a-launchpoint-service}
 
-Marketo은 ReadyTalk 웨비나 등록 및 참석을 관리합니다.
-
->[!NOTE]
->
->**관리자 권한 필요**
+Marketo은 ReadyTalk 웨비나 등록 및 출석을 관리합니다.
 
 >[!NOTE]
 >
->이 단계를 수행하려면 ReadyTalk 및 관리 권한에 대한 기존 구독이 필요합니다. 다음과 같은 설정이 있습니다.액세스 번호, 액세스 코드 및 암호.
+>**관리 권한 필요**
 
-1. **관리**&#x200B;로 이동하고 **ReadyTalk**&#x200B;를 클릭합니다.
+>[!NOTE]
+>
+>이 단계에서는 ReadyTalk 및 관리 권한에 대한 기존 구독이 필요합니다. 현재 다음 설정을 사용하십시오. 액세스 번호, 액세스 코드 및 암호
 
-   ![](assets/image2015-4-23-10-3a50-3a23.png)
+1. 로 이동합니다. **관리** 영역.
 
-1. **새로 만들기**&#x200B;를 선택한 다음 **새 서비스**&#x200B;를 선택합니다.
+   ![](assets/add-readytalk-as-a-launchpoint-service-1.png)
 
-   ![](assets/readytalk-new-service.png)
+1. 클릭 **LaunchPoint**.
 
-1. **표시 이름**&#x200B;을 입력합니다. **서비스**&#x200B;에서 **ReadyTalk**&#x200B;를 선택합니다.
+   ![](assets/add-readytalk-as-a-launchpoint-service-2.png)
 
-   ![](assets/new-service-readytalk.png)
+1. 선택 **새로 만들기** 그리고 **새 서비스**.
 
-1. **액세스 번호** 및 **액세스 코드**&#x200B;를 입력합니다.
+   ![](assets/add-readytalk-as-a-launchpoint-service-3.png)
 
-   ![](assets/image2015-4-24-18-3a53-3a2.png)
+1. 을(를) 입력합니다. **표시 이름**. 아래 **서비스**, 선택 **ReadyTalk**.
 
-1. **패스코드**&#x200B;를 입력하고 **만들기**&#x200B;를 클릭하여 프로세스를 완료합니다.
+   ![](assets/add-readytalk-as-a-launchpoint-service-4.png)
 
-   ![](assets/image2015-4-24-18-3a53-3a38.png)
+1. 을(를) 입력합니다. **액세스 번호** 및 **액세스 코드**.
 
-이제 **ReadyTalk** 계정이 Marketo과 동기화됩니다.
+   ![](assets/add-readytalk-as-a-launchpoint-service-5.png)
 
-![](assets/readytalk.png)
+1. 을 입력하여 프로세스를 완료합니다 **암호** 을(를) 클릭합니다. **만들기**.
+
+   ![](assets/add-readytalk-as-a-launchpoint-service-6.png)
+
+사용자 **ReadyTalk** 이제 계정이 Marketo과 동기화됩니다.
+
+![](assets/add-readytalk-as-a-launchpoint-service-7.png)
 
 >[!MORELIKETHIS]
 >
->[ReadyTalk](/help/marketo/product-docs/demand-generation/events/create-an-event/create-an-event-with-readytalk.md)로 이벤트를 만드는 방법을 알아봅니다.
+>방법 알아보기 [ReadyTalk를 사용하여 이벤트 만들기](/help/marketo/product-docs/demand-generation/events/create-an-event/create-an-event-with-readytalk.md).
