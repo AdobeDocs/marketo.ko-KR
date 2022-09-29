@@ -2,9 +2,9 @@
 description: reCAPTCHA v3 설정 - Marketo 문서 - 제품 설명서
 title: reCAPTCHA v3 설정
 exl-id: 235a2688-59a8-4827-a929-a07f3ae06988
-source-git-commit: 457b4aadac47b0a8614c3e6025d2e1ae287b5ecc
+source-git-commit: b848b836274d92d503e1a06cd4f7377ca57bc93e
 workflow-type: tm+mt
-source-wordcount: '0'
+source-wordcount: '359'
 ht-degree: 0%
 
 ---
@@ -88,3 +88,7 @@ ReCAPTCHA v3는 텍스트, 이미지 또는 단추 관련 문제를 사용하지
 1. 비밀 키 및 사이트 키를 삽입합니다. 클릭 **저장** 완료 시.
 
    ![](assets/setting-up-recaptcha-v3-8.png)
+
+>[!MORELIKETHIS]
+>
+>[Marketo Forms에서 CAPTCHA 활성화](/help/marketo/product-docs/demand-generation/forms/using-captcha/enable-captcha-in-marketo-forms.md)
