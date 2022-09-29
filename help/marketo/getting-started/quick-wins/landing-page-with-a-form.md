@@ -3,9 +3,9 @@ unique-page-id: 2359412
 description: 양식이 있는 랜딩 페이지 - Marketo 문서 - 제품 설명서
 title: 양식이 있는 랜딩 페이지
 exl-id: 4ae6df7c-96d0-4bfe-962c-e14ecb877a6a
-source-git-commit: beafa230f067972119f1a0eb170b1339d20d3842
+source-git-commit: 8d412ce5589eb55c85abded4c55b801a9647d1c0
 workflow-type: tm+mt
-source-wordcount: '547'
+source-wordcount: '549'
 ht-degree: 0%
 
 ---
@@ -104,7 +104,7 @@ ht-degree: 0%
 
 ## 3단계: 랜딩 페이지 만들기 및 양식 추가 {#step-create-a-landing-page-and-add-your-form}
 
-1. 프로그램을 선택한 상태에서 **새로 만들기** 그리고 **새 로컬 자산**.
+1. 프로그램을 선택한 상태에서 **새로 만들기** 드롭다운 및 선택 **새 로컬 자산**.
 
    ![](assets/landing-page-with-a-form-15.png)
 
