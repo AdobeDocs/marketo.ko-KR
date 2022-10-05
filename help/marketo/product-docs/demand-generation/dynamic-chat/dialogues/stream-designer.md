@@ -2,9 +2,9 @@
 description: 스트림 디자이너 - Marketo 문서 - 제품 설명서
 title: 스트림 디자이너
 exl-id: aa44c7a5-f81b-4029-a1a4-5439bea83847
-source-git-commit: eb23d3b6538fd660a95bfb3fdcfc21ccc29c9944
+source-git-commit: a746fc2350ba2441ecd2157708b88d2480237c49
 workflow-type: tm+mt
-source-wordcount: '756'
+source-wordcount: '821'
 ht-degree: 2%
 
 ---
@@ -49,19 +49,46 @@ ht-degree: 2%
  </tr>
 </table>
 
+## 스트림 디자이너 아이콘 {#stream-designer-icons}
+
+스트림 디자이너의 오른쪽 상단에 몇 가지 아이콘이 표시됩니다. 여기 그들이 하는 일이 있습니다.
+
+<table>
+ <tr>
+  <td><img src="assets/stream-designer-1.png"></td>
+  <td>해당 보기를 선호하는 사용자를 위해 배경에 격자를 추가합니다</td>
+ </tr>
+ <tr>
+  <td><img src="assets/stream-designer-2.png"></td>
+  <td>확대, 더 큰 카드 만들기</td>
+ </tr>
+ <tr>
+  <td><img src="assets/stream-designer-3.png"></td>
+  <td>확대/축소하여 더 작은 카드 만들기</td>
+ </tr>
+ <tr>
+  <td><img src="assets/stream-designer-4.png"></td>
+  <td>채팅을 테스트할 창을 엽니다(닫으려면 동일한 단추를 누릅니다.)</td>
+ </tr>
+ <tr>
+  <td><img src="assets/stream-designer-5.png"></td>
+  <td>스트림에 있는 모든 카드를 구성합니다</td>
+ </tr>
+</table>
+
 ## 스트림 만들기 {#create-a-stream}
 
 1. 당신이 [대화 상자를 만들었습니다.](/help/marketo/product-docs/demand-generation/dynamic-chat/dialogues/create-a-dialogue.md){target=&quot;_blank&quot;}, **스트림 디자이너** 탭.
 
-   ![](assets/stream-designer-1.png)
+   ![](assets/stream-designer-6.png)
 
 1. 질문 카드를 드래그하여 놓습니다.
 
-   ![](assets/stream-designer-2.png)
+   ![](assets/stream-designer-7.png)
 
 1. Chatbot 응답 아래에서 원하는 방식에 대해 질문합니다.
 
-   ![](assets/stream-designer-3.png)
+   ![](assets/stream-designer-8.png)
 
    >[!NOTE]
    >
@@ -69,7 +96,7 @@ ht-degree: 2%
 
 1. 사용자 응답 입력 및 클릭 **저장**.
 
-   ![](assets/stream-designer-4.png)
+   ![](assets/stream-designer-9.png)
 
    >[!NOTE]
    >
@@ -77,27 +104,27 @@ ht-degree: 2%
 
 1. &quot;예&quot;의 경우 약속을 예약하려고 하므로 아래의 옵션 을 약속 스케줄러 카드 위로 드래그합니다.
 
-   ![](assets/stream-designer-5.png)
+   ![](assets/stream-designer-10.png)
 
 1. 오른쪽 열의 **저장**.
 
-   ![](assets/stream-designer-6.png)
+   ![](assets/stream-designer-11.png)
 
 1. 이것이 목표이므로 약속 일정 아래의 목표 카드를 드래그합니다.
 
-   ![](assets/stream-designer-7.png)
+   ![](assets/stream-designer-12.png)
 
 1. 목표에 이름을 지정하고(또는 기존 목표를 선택) 을 클릭한 다음 **저장**.
 
-   ![](assets/stream-designer-8.png)
+   ![](assets/stream-designer-13.png)
 
 1. &quot;아니요&quot;의 경우 메일링 목록에 추가될 것인지 확인하려고 하므로, 해당 옵션 아래의 다른 질문 카드 위로 드래그합니다.
 
-   ![](assets/stream-designer-9.png)
+   ![](assets/stream-designer-14.png)
 
 1. 응답을 입력하고 방문자에 대한 응답 선택 사항을 추가합니다. 클릭 **저장** 완료 시.
 
-   ![](assets/stream-designer-10.png)
+   ![](assets/stream-designer-15.png)
 
    >[!NOTE]
    >
@@ -105,15 +132,15 @@ ht-degree: 2%
 
 1. &quot;예&quot; 응답 아래에서 정보 캡처 카드 위로 드래그하여 방문자의 이메일을 수집할 수 있습니다.
 
-   ![](assets/stream-designer-11.png)
+   ![](assets/stream-designer-16.png)
 
 1. 을(를) 클릭합니다. **유형** 드롭다운 및 선택 **이메일**.
 
-   ![](assets/stream-designer-12.png)
+   ![](assets/stream-designer-17.png)
 
 1. 차트 보트 메시지와 자리 표시자를 입력합니다. 속성이 Marketo의 해당 필드에 매핑되어 있는지 확인하고 를 클릭합니다 **저장**.
 
-   ![](assets/stream-designer-13.png)
+   ![](assets/stream-designer-18.png)
 
    <table>
     <tr>
@@ -136,27 +163,27 @@ ht-degree: 2%
 
 1. 전자 메일 수집은 목표이므로 정보 캡처 아래에 목표 카드를 드래그합니다.
 
-   ![](assets/stream-designer-14.png)
+   ![](assets/stream-designer-19.png)
 
 1. 목표에 이름을 지정하고(또는 기존 목표를 선택) 을 클릭한 다음 **저장**.
 
-   ![](assets/stream-designer-15.png)
+   ![](assets/stream-designer-20.png)
 
 1. &quot;아니요&quot;라고 하는 경우 응답을 추가해야 합니다. 한 가지 옵션은 아래에 메시지 카드를 드래그하고 &quot;어쨌든 감사합니다&quot;라고 말하는 것입니다. 그러나 이 예에서는 대신 무료 PDF 문서를 제공합니다.
 
-   ![](assets/stream-designer-16.png)
+   ![](assets/stream-designer-21.png)
 
 1. 이 예제에서는 새 문서를 만듭니다. 이름을 지정하고 이미 호스팅한 PDF의 URL을 입력한 다음 를 클릭합니다 **저장**.
 
-   ![](assets/stream-designer-17.png)
+   ![](assets/stream-designer-22.png)
 
 1. 을(를) 선택합니다 **미리 보기** 대화 상자 미리 보기로 전환합니다.
 
-   ![](assets/stream-designer-18.png)
+   ![](assets/stream-designer-23.png)
 
 1. 대화 상자를 활성화할 준비가 되면 **게시**.
 
-   ![](assets/stream-designer-19.png)
+   ![](assets/stream-designer-24.png)
 
 >[!NOTE]
 >

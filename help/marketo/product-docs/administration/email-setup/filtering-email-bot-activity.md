@@ -2,9 +2,9 @@
 description: 이메일 보트 활동 필터링 - Marketo 문서 - 제품 설명서
 title: 전자 메일 보트 활동 필터링
 exl-id: 70c97159-72bf-46e5-b29b-247615d0fa80
-source-git-commit: 2fd0856e21c51af6ca29887978d5aa946733405d
+source-git-commit: a746fc2350ba2441ecd2157708b88d2480237c49
 workflow-type: tm+mt
-source-wordcount: '286'
+source-wordcount: '287'
 ht-degree: 0%
 
 ---
@@ -16,7 +16,7 @@ ht-degree: 0%
 두 개의 별도 메서드를 사용하여 보트 활동을 확인합니다.
 
 * 일치 [Interactive Advertising Bureau 보트 목록](https://www.iab.com/guidelines/iab-abc-international-spiders-bots-list/){target=&quot;_blank&quot;}: IAB UA/IP(사용자 에이전트/IP 주소) 목록에 있는 무엇과도 일치하는 활동은 보트로 표시됩니다.
-* 근접 패턴과 일치: 두 개 이상의 활동이 동시에(2초 미만) 발생하면 봇으로 식별됩니다.
+* 근접 패턴과 일치: 두 개 이상의 활동이 동시에(초 이내)발생하면 보트로 식별됩니다.
 
 이메일 링크 클릭 및 이메일 열기 활동에 대해 새 속성은 아래 값으로 채워집니다.
 
