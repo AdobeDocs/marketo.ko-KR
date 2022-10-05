@@ -2,7 +2,7 @@
 description: 스트림 디자이너 - Marketo 문서 - 제품 설명서
 title: 스트림 디자이너
 exl-id: aa44c7a5-f81b-4029-a1a4-5439bea83847
-source-git-commit: a746fc2350ba2441ecd2157708b88d2480237c49
+source-git-commit: e0f0a89076beaa1be0340e908a59459389b89baa
 workflow-type: tm+mt
 source-wordcount: '821'
 ht-degree: 2%
@@ -72,7 +72,7 @@ ht-degree: 2%
  </tr>
  <tr>
   <td><img src="assets/stream-designer-5.png"></td>
-  <td>스트림에 있는 모든 카드를 구성합니다</td>
+  <td>스트림에 모든 카드를 정렬합니다.</td>
  </tr>
 </table>
 
