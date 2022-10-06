@@ -3,30 +3,34 @@ unique-page-id: 1147226
 description: 시작하기 - Marketo 문서 - 제품 설명서
 title: 시작하기
 exl-id: 11c883eb-2a22-4706-ba0a-09ca11648054
-source-git-commit: 1de69b096171373ab064be016d9ddd12b688a79f
+source-git-commit: d6a61a92cd00c038813793f50307211ecf88d439
 workflow-type: tm+mt
-source-wordcount: '135'
-ht-degree: 12%
+source-wordcount: '161'
+ht-degree: 10%
 
 ---
 
 # 시작하기 {#getting-started}
 
-## 1단계 Marketo 소개 {#what-is-marketo}
+## Adobe Marketo Engage 소개 {#what-is-marketo-engage}
 
-Marketo이란 무엇입니까? 좋은 질문입니다!
+Marketo Engage이 무엇입니까? 좋은 질문입니다!
 
-[Marketo 학습](/help/marketo/getting-started/what-is-adobe-marketo-engage.md)
+[학습 Marketo Engage](/help/marketo/getting-started/what-is-adobe-marketo-engage.md){target=&quot;_blank&quot;}
 
-## 2단계 설정 {#get-set-up}
+## 사용 가능한 가격 책정 계층 {#what-pricing-tiers-are-available}
+
+다음을 확인하십시오 [Marketo Engage 가격 및 포장 페이지](https://www.marketo.com/solutions/pricing/)자세한 내용은 {target=&quot;_blank&quot;} 를 참조하십시오.
+
+## 설정 {#get-set-up}
 
 IT 팀의 도움을 받으면 신속하게 작업을 완료할 수 있습니다.
 
-[설치 시작](/help/marketo/getting-started/setup/setup-steps.md)
+[설치 시작](/help/marketo/getting-started/setup/setup-steps.md){target=&quot;_blank&quot;}
 
-## 3단계 빠른 승자 {#get-some-quick-wins}
+## 빠른 승리 {#get-some-quick-wins}
 
-이러한 작업을 완료하여 Marketo의 핵심 기능을 알아보십시오.
+이러한 작업을 완료하여 Marketo Engage의 핵심 기능을 알아보십시오.
 
 <table style="table-layout:fixed">
 <tr>
@@ -124,6 +128,4 @@ IT 팀의 도움을 받으면 신속하게 작업을 완료할 수 있습니다.
 
 ## 4단계 축하합니다! 당신은 국가를 위한 준비가 되었습니다  {#congrats-youre-ready-for-the-nation}
 
-마케팅 국가에 가입할 시간입니다!
-
-[국가 가입](https://nation.marketo.com)
+다음을 확인하십시오 [마케팅 국가](https://nation.marketo.com){target=&quot;_blank&quot;}!

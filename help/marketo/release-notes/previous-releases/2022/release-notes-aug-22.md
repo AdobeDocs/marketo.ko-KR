@@ -1,9 +1,9 @@
 ---
 description: 릴리스 노트 - 2022년 8월 - Marketo 문서 - 제품 설명서
 title: 릴리스 노트 - 2022년 8월
-source-git-commit: d26428137e9b99d04fef67a3b21b74d150f693e7
+source-git-commit: d6a61a92cd00c038813793f50307211ecf88d439
 workflow-type: tm+mt
-source-wordcount: '542'
+source-wordcount: '544'
 ht-degree: 0%
 
 ---
@@ -49,7 +49,7 @@ ht-degree: 0%
 
 * **Webhook 사용자 지정 헤더 가시성**: 이제 Webhook 사용자 지정 헤더가 관리 > Webhooks 탭에 표시되므로 더 나은 가시성을 얻을 수 있습니다.
 
-* **CAPTCHA**: reCAPTCHA v3를 사용하여 양식 제출의 유효성을 평가하여 들어오는 양식 트래픽에 대해 점수를 지정합니다. 의심스러운 보트 트래픽을 자동으로 제외, 격리 또는 삭제하기 위한 마케팅 워크플로우를 작성합니다.
+* **CAPTCHA**: 양식 제출의 유효성 평가 [reCAPTCHA v3 사용](/help/marketo/product-docs/demand-generation/forms/using-captcha/enable-captcha-in-marketo-forms.md)들어오는 양식 트래픽에 점수를 매기려면 {target=&quot;_blank&quot;}을 수행하십시오. 의심스러운 보트 트래픽을 자동으로 제외, 격리 또는 삭제하기 위한 마케팅 워크플로우를 작성합니다.
 
 * **양식 승인 권한**: 다른 Design Studio 자산과 함께 양식에 대한 변경 사항을 승인할 수 있는 디자이너를 제어하는 새로운 권한. 이렇게 하면 다른 디자이너가 양식을 검토할 수 있는 승인 권한이 없는 상태에서 변경 내용을 양식에 푸시할 수 없습니다.
 
