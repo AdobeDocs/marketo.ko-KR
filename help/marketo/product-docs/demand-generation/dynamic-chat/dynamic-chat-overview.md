@@ -2,9 +2,9 @@
 description: 동적 채팅 개요 - Marketo 문서 - 제품 설명서
 title: 동적 채팅 개요
 exl-id: 73ab651e-bb11-459d-aa6a-39d9e208d512
-source-git-commit: c6632c7b98bee8b1b2394b2e0d0e584ec2db8845
+source-git-commit: 0ca537b46247eef1e7200180d7c1516465910dac
 workflow-type: tm+mt
-source-wordcount: '953'
+source-wordcount: '919'
 ht-degree: 1%
 
 ---
@@ -51,7 +51,7 @@ Dynamic Chat의 주요 구성 요소는 Marketo 구독과 기본적으로 연결
 
 ## 라우팅 {#routing}
 
-이 위치에서 달력을 연결한 모든 에이전트 목록과 웹 사이트 방문자에게 표시할 순서를 볼 수 있습니다. 회의는 윤곽 스타일로 진행되는데, 만약 5명의 에이전트들과 3명의 에이전트가 마지막 회의를 했다면, 4명의 요원이 다음 1명을 얻고, 5명의 요원이 그 다음에 1명으로 돌아옵니다.
+이 위치에서 달력을 연결한 모든 에이전트 목록과 웹 사이트 방문자에게 표시할 순서를 볼 수 있습니다.
 
 ## FAQ {#faq}
 
