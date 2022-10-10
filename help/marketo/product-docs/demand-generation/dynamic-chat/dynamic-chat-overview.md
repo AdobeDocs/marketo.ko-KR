@@ -2,9 +2,9 @@
 description: 동적 채팅 개요 - Marketo 문서 - 제품 설명서
 title: 동적 채팅 개요
 exl-id: 73ab651e-bb11-459d-aa6a-39d9e208d512
-source-git-commit: 0ca537b46247eef1e7200180d7c1516465910dac
+source-git-commit: 91e04b4282f18f8074d0192fae42e62dfe5ebb80
 workflow-type: tm+mt
-source-wordcount: '919'
+source-wordcount: '845'
 ht-degree: 1%
 
 ---
@@ -41,17 +41,15 @@ Dynamic Chat의 주요 구성 요소는 Marketo 구독과 기본적으로 연결
 
 ## 달력 {#calendar}
 
-달력 탭에서 (Outlook 또는 Gmail) 일정을 차트보트의 약속 예약에 사용할 일정을 연결합니다. 사용자의 일정이 Dynamic Chat에 연결되면 해당 사용자가 큐에 추가되고 웹 사이트 방문자가 약속을 예약할 수 있도록 해당 일정을 사용할 수 있습니다.
-
-방문자가 사용자의 일정에서 약속을 예약할 때 방문자에게 보내는 초대의 본문을 사용자 지정할 수도 있습니다.
+Outlook 또는 Gmail 일정을 차트봇의 약속 예약에 사용할 수 있도록 연결합니다. [캘린더에 대해 자세히 알아보기](/help/marketo/product-docs/demand-generation/dynamic-chat/appointment-scheduling/calendar.md){target=&quot;_blank&quot;}
 
 ## 회의 {#meetings}
 
-다양한 대화 상자를 통해 웹 사이트 방문자가 예약한 모든 약속을 볼 수 있습니다. 여기에서 약속을 예약한 사람의 전자 메일 주소, 약속을 예약한 대리인, 약속 발생 예정 시간, 예약된 모임 시간이 경과되었는지 여부를 확인할 수 있습니다.
+다양한 대화 상자를 통해 웹 사이트 방문자가 예약한 모든 약속을 볼 수 있습니다. [모임에 대해 자세히 알아보기](/help/marketo/product-docs/demand-generation/dynamic-chat/appointment-scheduling/meetings.md){target=&quot;_blank&quot;}
 
 ## 라우팅 {#routing}
 
-이 위치에서 달력을 연결한 모든 에이전트 목록과 웹 사이트 방문자에게 표시할 순서를 볼 수 있습니다.
+여기에서 해당 달력을 연결한 모든 에이전트 목록, 웹 사이트 방문자에게 표시되는 순서 및 사용자 지정 라우팅 규칙을 만들 수 있습니다. [라우팅에 대해 자세히 알아보기](/help/marketo/product-docs/demand-generation/dynamic-chat/appointment-scheduling/routing.md){target=&quot;_blank&quot;}
 
 ## FAQ {#faq}
 
