@@ -3,10 +3,10 @@ unique-page-id: 4720433
 description: Marketo에 대한 프로토콜 구성 - Marketo 문서 - 제품 설명서
 title: Marketo에 대한 프로토콜 구성
 exl-id: cf2fd4ac-9229-4e52-bb68-5732b44920ef
-source-git-commit: ed29cc13d2ced85e639e8b1c6fe228e2bca82ffd
+source-git-commit: 3d29cb4cf4af7d83a82d47cfd6b0c44d659ee82b
 workflow-type: tm+mt
-source-wordcount: '1031'
-ht-degree: 1%
+source-wordcount: '1046'
+ht-degree: 2%
 
 ---
 
@@ -77,7 +77,7 @@ DNS 레코드로 보내는 랜딩 페이지 CNAME을 추가하여 `[YourLandingP
 103.237.104.0/22\
 94.236.119.0/26
 
-일부 스팸 방지 시스템에서는 허용되는 IP 주소 대신 이메일 반환 경로 필드를 사용합니다. 그러한 경우, 가장 좋은 접근 방법은 허용 목록에 추가하다 &#39;&#42;Marketo은 여러 사서함 하위 도메인을 사용하므로 .mktomail.com&#39;. 보낸 사람 주소를 허용 목록에 추가하다 기반으로 하는 다른 스팸 방지 시스템. 이러한 경우 마케팅 그룹이 사람/리드와 통신하는 데 사용하는 모든 전송(&#39;보낸 사람&#39;) 도메인을 포함해야 합니다.
+일부 스팸 방지 시스템에서는 허용되는 IP 주소 대신 이메일 반환 경로 필드를 사용합니다. 그런 경우 가장 좋은 접근 방법은 허용 목록에 추가하다 &#39; 입니다.&#42;Marketo은 여러 사서함 하위 도메인을 사용하므로 .mktomail.com&#39;. 보낸 사람 주소를 허용 목록에 추가하다 기반으로 하는 다른 스팸 방지 시스템. 이러한 경우 마케팅 그룹이 사람/리드와 통신하는 데 사용하는 모든 전송(&#39;보낸 사람&#39;) 도메인을 포함해야 합니다.
 
 >[!NOTE]
 >
@@ -123,7 +123,7 @@ Marketo Engage [Salesforce CRM 동기화](/help/marketo/product-docs/crm-sync/sa
 
 **Marketo Engage 아웃바운드 IP 주소 블록**
 
-다음 표에는 아웃바운드 호출을 수행하는 모든 Marketo Engage 서버가 나와 있습니다. Marketo Engage에서 나가는 연결을 받도록 IP 허용 목록에 추가하다, 서버, 방화벽, 액세스 제어 목록, 보안 그룹 또는 타사 서비스를 구성하는 경우 이 목록을 사용합니다.
+다음 표에는 아웃바운드 호출을 수행하는 모든 Marketo Engage 서버가 나와 있습니다. Marketo Engage에서 나가는 연결을 받도록 IP 허용 목록에 추가하다, 서버, 방화벽, 액세스 제어 목록, 보안 그룹 또는 타사 서비스를 구성하는 경우 아래 목록을 사용합니다.
 
 <table>
  <tbody>
@@ -156,3 +156,48 @@ Marketo Engage [Salesforce CRM 동기화](/help/marketo/product-docs/crm-sync/sa
   </tr>
  </tbody>
 </table>
+
+<table>
+ <tbody>
+  <tr>
+   <th>개별 IP 주소</th>
+  </tr>
+  <tr>
+   <td>54.212.167.17</td>
+  </tr>
+   <tr>
+   <td>44.235.171.179</td>
+  </tr>
+   <tr>
+   <td>35.165.244.220</td>
+  </tr>
+   <tr>
+   <td>52.20.211.99</td>
+  </tr>
+   <tr>
+   <td>54.237.141.197</td>
+  </tr>
+  <tr>
+   <td>54.160.246.246</td>
+  </tr>
+   <tr>
+   <td>18.200.201.81</td>
+  </tr>
+  <tr>
+   <td>34.247.24.245</td>
+  </tr>
+   <tr>
+   <td>54.220.138.65</td>
+  </tr>
+  <tr>
+   <td>13.237.155.207</td>
+  </tr>
+   <tr>
+   <td>13.55.192.247</td>
+  </tr>
+  <tr>
+   <td>52.64.109.86</td>
+  </tr>
+ </tbody>
+</table>
+
