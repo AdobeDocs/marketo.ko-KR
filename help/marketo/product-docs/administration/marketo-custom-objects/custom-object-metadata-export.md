@@ -1,24 +1,27 @@
 ---
-description: 사용자 정의 개체 메타데이터 내보내기 - Marketo 문서 - 제품 설명서
-title: 사용자 정의 개체 메타데이터 내보내기
+description: 사용자 지정 개체 메타데이터 내보내기 - Marketo 문서 - 제품 설명서
+title: 사용자 지정 개체 메타데이터 내보내기
 exl-id: 4c23f07e-3491-43c5-8ea8-2e54c9a4b9af
-translation-type: tm+mt
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+source-git-commit: a7fc7701326c51c802d4c632385d1de355646ad0
 workflow-type: tm+mt
-source-wordcount: '91'
+source-wordcount: '106'
 ht-degree: 0%
 
 ---
 
 # 사용자 지정 개체 메타데이터 내보내기 {#custom-object-metadata-export}
 
-SOAP API 또는 Munchkin API를 사용하는 경우 사용자 지정 개체 메타데이터 스키마를 내보낼 수 있습니다. 방법 살펴보기
+SOAP API 또는 Munchkin API를 사용하는 경우 사용자 지정 개체 메타데이터 스키마를 내보낼 수 있습니다. 어떻게 구하는지 알려드리겠습니다.
 
-1. 내 Marketo에서 **관리**&#x200B;를 클릭합니다.
+>[!AVAILABILITY]
+>
+>모든 고객이 이 기능을 구입한 것은 아닙니다. 자세한 내용은 고객 성공 관리자에게 문의하십시오.
+
+1. 내 Marketo에서 **관리**.
 
    ![](assets/custom-object-metadata-export-1.png)
 
-1. **Marketo 사용자 지정 개체**&#x200B;를 클릭합니다.
+1. 클릭 **Marketo 사용자 지정 개체**.
 
    ![](assets/custom-object-metadata-export-2.png)
 
@@ -26,7 +29,7 @@ SOAP API 또는 Munchkin API를 사용하는 경우 사용자 지정 개체 메�
 
    ![](assets/custom-object-metadata-export-3.png)
 
-1. **사용자 지정 개체 작업** 드롭다운을 클릭하고 **개체 내보내기**&#x200B;를 선택합니다.
+1. 을(를) 클릭합니다. **사용자 지정 개체 작업** 드롭다운 및 선택 **개체 내보내기**.
 
    ![](assets/custom-object-metadata-export-4.png)
 
@@ -34,7 +37,7 @@ SOAP API 또는 Munchkin API를 사용하는 경우 사용자 지정 개체 메�
 >
 >사용자 지정 개체를 내보내려면 승인 상태여야 합니다.
 
-이제 3개의 탭에 사용자 정의 객체의 스키마가 있는 스프레드시트가 있습니다.
+이제 세 탭에 사용자 지정 객체의 스키마가 있는 스프레드시트가 있습니다.
 
 ![](assets/custom-object-metadata-export-5.png)
 
