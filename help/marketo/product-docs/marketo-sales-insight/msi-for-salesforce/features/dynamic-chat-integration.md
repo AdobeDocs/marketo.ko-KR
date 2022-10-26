@@ -2,10 +2,10 @@
 description: 다이내믹 채팅 통합 - Marketo 문서 - 제품 설명서
 title: Dynamic Chat 통합
 exl-id: b2e3b4da-9ca7-4299-9c50-f52e0de91e36
-source-git-commit: 676bd1c43fc62b2eae0e4536fb738b5be863e196
+source-git-commit: 9d5c941dc4869b03787a6135550a133ce12b365b
 workflow-type: tm+mt
-source-wordcount: '0'
-ht-degree: 0%
+source-wordcount: '392'
+ht-degree: 3%
 
 ---
 
@@ -58,17 +58,27 @@ Sales Insight 사용자는 다음 Dynamic Chat 활동을 활용할 수 있습니
 * 목표 이름
 * 페이지 URL
 
-채팅 탭은 리드 및 연락처 패널에서 사용할 수 있습니다. 여기에는 활동 유형, 대화 상자 이름 및 날짜 열이 포함되어 있습니다.
+문서와 상호 작용: 방문자가 chatbot를 통해 공유된 문서와 상호 작용할 때 Marketo에 로그인하고 Sales Insight에 채워집니다.
+
+* 대화 상자 이름
+* 문서
+* 상태
+
+채팅 활동은 통찰력 대시보드에서 사용할 수 있습니다.
 
 ![](assets/dynamic-chat-integration-3.png)
 
-활동 유형을 클릭하여 자세히 알아볼 수 있습니다.
+채팅 탭은 리드 및 연락처 패널에서 사용할 수 있습니다. 여기에는 활동 유형, 대화 상자 이름 및 날짜 열이 포함되어 있습니다.
 
 ![](assets/dynamic-chat-integration-4.png)
 
-마찬가지로 계정 및 기회 패널에는 이름, 활동 유형, 대화 상자 이름 및 날짜 열이 포함됩니다.
+활동 유형을 클릭하여 자세히 알아볼 수 있습니다.
 
 ![](assets/dynamic-chat-integration-5.png)
+
+마찬가지로 계정 및 기회 패널에는 이름, 활동 유형, 대화 상자 이름 및 날짜 열이 포함됩니다.
+
+![](assets/dynamic-chat-integration-6.png)
 
 채팅 탭은 글로벌 Marketo 탭에도 포함되어 있습니다. 여기에는 세 가지 활동 유형(참여 대화 상자, 예약된 약속, 도달 목표)이 포함되어 있으며, 다음과 같은 열이 포함되어 있습니다.
 
@@ -80,8 +90,15 @@ Sales Insight 사용자는 다음 Dynamic Chat 활동을 활용할 수 있습니
 
 활동 유형을 클릭하여 자세히 알아볼 수 있습니다.
 
-![](assets/dynamic-chat-integration-6.png)
+![](assets/dynamic-chat-integration-7.png)
 
 >[!NOTE]
 >
->&quot;Interact with Document&quot; 활동은 향후 릴리스에서 MSI에서 사용할 수 있습니다.
+>&quot;동적 채팅 데이터 활성화&quot; 확인란이 비활성화되면 다음 기능이 비활성화됩니다.
+>
+>* 인사이트 대시보드의 채팅 활동 행(스마트 그리드 및 주별 목록 보기)
+>* Lead, Contact, Account 및 Opportunity 패널의 Chat 탭
+>* 글로벌 Marketo 탭의 채팅 탭
+>
+>이러한 기능 중 하나만 비활성화할 수는 없습니다.
+
