@@ -3,9 +3,9 @@ audience: end-user
 user-guide-title: Marketo 안내서
 user-guide-description: Marketo 제품 설명서
 feature-set: Marketo Engage
-source-git-commit: c6632c7b98bee8b1b2394b2e0d0e584ec2db8845
+source-git-commit: c396c205d3cececc752f9b563c0d2ab41ff92b6a
 workflow-type: tm+mt
-source-wordcount: '8809'
+source-wordcount: '8831'
 ht-degree: 0%
 
 ---
@@ -232,6 +232,11 @@ ht-degree: 0%
          + [작업 공간 편집](product-docs/administration/workspaces-and-person-partitions/edit-a-workspace.md)
          + [기존 개인 파티션 편집](product-docs/administration/workspaces-and-person-partitions/edit-an-existing-person-partition.md)
          + [작업 공간 및 파티션 간에 세그먼트 공유](product-docs/administration/workspaces-and-person-partitions/share-segmentations-across-workspaces-and-partitions.md)
+   + Adobe Experience Cloud 통합 {#adobe-experience-cloud-integrations}
+      + [Adobe Experience Cloud 통합 개요](product-docs/adobe-experience-cloud-integrations/adobe-experience-cloud-integrations-overview.md)
+      + [Adobe 조직 매핑 설정](product-docs/adobe-experience-cloud-integrations/set-up-adobe-organization-mapping.md)
+      + [Adobe Experience Cloud에서 대상 동기화](product-docs/adobe-experience-cloud-integrations/sync-an-audience-from-adobe-experience-cloud.md)
+      + [Adobe Experience Manager으로 자산 가져오기](product-docs/adobe-experience-cloud-integrations/importing-assets-with-adobe-experience-manager.md)
    + 핵심 Marketo 개념 {#core-marketo-concepts}
       + 스마트 캠페인 {#smart-campaigns}
          + [스마트 캠페인 이해](product-docs/core-marketo-concepts/smart-campaigns/understanding-smart-campaigns.md)
@@ -471,7 +476,6 @@ ht-degree: 0%
          + [개인 정보 관리](product-docs/core-marketo-concepts/miscellaneous/privacy-management.md)
          + [개인 정보 보호 요청](product-docs/core-marketo-concepts/miscellaneous/privacy-requests.md)
          + [Marketo 자산 이름 변경](product-docs/core-marketo-concepts/miscellaneous/rename-a-marketo-asset.md)
-         + [Adobe 조직 매핑 설정](product-docs/core-marketo-concepts/miscellaneous/set-up-adobe-organization-mapping.md)
          + [Adobe Experience Cloud에서 대상 동기화](product-docs/core-marketo-concepts/miscellaneous/sync-an-audience-from-adobe-experience-cloud.md)
          + [폴더 이해](product-docs/core-marketo-concepts/miscellaneous/understanding-folders.md)
          + [알림 이해](product-docs/core-marketo-concepts/miscellaneous/understanding-notifications.md)

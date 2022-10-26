@@ -28,23 +28,23 @@ ht-degree: 0%
 
 1. 클릭 **Design Studio**.
 
-   ![](assets/importing-assets-with-adobe-experience-manager-1.png)
+   ![](assets/one-1.png)
 
 1. 새로 만들기 드롭다운을 클릭하고 을 선택합니다 **Adobe Experience Manager에서 가져오기**.
 
-   ![](assets/importing-assets-with-adobe-experience-manager-2.png)
+   ![](assets/two-1.png)
 
 1. 이미지를 저장할 폴더를 선택합니다.
 
-   ![](assets/importing-assets-with-adobe-experience-manager-3.png)
+   ![](assets/three-1.png)
 
 1. Adobe Experience Manager에 로그인(아직 로그인하지 않은 경우).
 
-   ![](assets/importing-assets-with-adobe-experience-manager-4.png)
+   ![](assets/four-1.png)
 
 1. 폴더를 선택합니다. 그런 다음 축소판을 클릭하여 원하는 이미지를 선택합니다(최대 10개까지 선택할 수 있음). 클릭 **선택** 완료 시.
 
-   ![](assets/importing-assets-with-adobe-experience-manager-5.png)
+   ![](assets/five.png)
 
    >[!NOTE]
    >
@@ -52,11 +52,11 @@ ht-degree: 0%
 
 1. 클릭 **가져오기** 프로세스를 완료합니다.
 
-   ![](assets/importing-assets-with-adobe-experience-manager-6.png)
+   ![](assets/six-1.png)
 
    그게 다야! 클릭 **닫기** 디자인 스튜디오로 돌아갑니다.
 
-   ![](assets/importing-assets-with-adobe-experience-manager-7.png)
+   ![](assets/seven-1.png)
 
 ## 참고 사항 {#things-to-note}
 
