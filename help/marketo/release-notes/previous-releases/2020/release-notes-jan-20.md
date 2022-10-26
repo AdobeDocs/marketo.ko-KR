@@ -3,9 +3,9 @@ unique-page-id: 37355534
 description: 릴리스 노트 - 2020년 1월 - Marketo 문서 - 제품 설명서
 title: 릴리스 노트 - 2020년 1월
 exl-id: 7b011c1a-1161-42f8-8bd0-4ee273928b59
-source-git-commit: 153c6a05be7ef94a0bc8b591b8f2eebdf879c5db
+source-git-commit: 12f45e694dccf1d9e51343b5eb9d743a8c513c1f
 workflow-type: tm+mt
-source-wordcount: '0'
+source-wordcount: '838'
 ht-degree: 0%
 
 ---
@@ -24,7 +24,7 @@ ht-degree: 0%
 
 ## 코어 Marketo Engage Adobe 애플리케이션 {#core-marketo-engage-adobe-application}
 
-* [Adobe Experience Manager 자산 선택기](/help/marketo/product-docs/adobe-experience-cloud-integrations-overview/importing-assets-with-adobe-experience-manager.md): Marketo Engage에서 직접 사용할 수 있는 AEM 자산과 브랜드에 맞는 자산에 빠르게 액세스합니다. 참고: 이 기능은 Adobe의 Marketo Sky 및 클래식 경험 모두에서 사용할 수 있지만 관리 기능은 Classic 경험에서 찾을 수 있습니다. AEM Assets의 고객이며 버전 6.5 이상이 있어야 합니다.
+* [Adobe Experience Manager 자산 선택기](/help/marketo/product-docs/adobe-experience-cloud-integrations/importing-assets-with-adobe-experience-manager.md): Marketo Engage에서 직접 사용할 수 있는 AEM 자산과 브랜드에 맞는 자산에 빠르게 액세스합니다. 참고: 이 기능은 Adobe의 Marketo Sky 및 클래식 경험 모두에서 사용할 수 있지만 관리 기능은 Classic 경험에서 찾을 수 있습니다. AEM Assets의 고객이며 버전 6.5 이상이 있어야 합니다.
 
 >[!NOTE]
 >

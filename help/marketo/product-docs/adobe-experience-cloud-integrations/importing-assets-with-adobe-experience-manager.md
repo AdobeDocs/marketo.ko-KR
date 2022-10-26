@@ -3,7 +3,7 @@ unique-page-id: 37355768
 description: Adobe Experience Manager을 사용하여 자산 가져오기 - Marketo 문서 - 제품 설명서
 title: Adobe Experience Manager으로 자산 가져오기
 exl-id: 56ccf38f-3c99-4018-9989-719854e37a20
-source-git-commit: c396c205d3cececc752f9b563c0d2ab41ff92b6a
+source-git-commit: 12f45e694dccf1d9e51343b5eb9d743a8c513c1f
 workflow-type: tm+mt
 source-wordcount: '229'
 ht-degree: 0%
@@ -28,23 +28,23 @@ ht-degree: 0%
 
 1. 클릭 **Design Studio**.
 
-   ![](assets/one-1.png)
+   ![](assets/importing-assets-with-adobe-experience-manager-1.png)
 
 1. 새로 만들기 드롭다운을 클릭하고 을 선택합니다 **Adobe Experience Manager에서 가져오기**.
 
-   ![](assets/two-1.png)
+   ![](assets/importing-assets-with-adobe-experience-manager-2.png)
 
 1. 이미지를 저장할 폴더를 선택합니다.
 
-   ![](assets/three-1.png)
+   ![](assets/importing-assets-with-adobe-experience-manager-3.png)
 
 1. Adobe Experience Manager에 로그인(아직 로그인하지 않은 경우).
 
-   ![](assets/four-1.png)
+   ![](assets/importing-assets-with-adobe-experience-manager-4.png)
 
 1. 폴더를 선택합니다. 그런 다음 축소판을 클릭하여 원하는 이미지를 선택합니다(최대 10개까지 선택할 수 있음). 클릭 **선택** 완료 시.
 
-   ![](assets/five.png)
+   ![](assets/importing-assets-with-adobe-experience-manager-5.png)
 
    >[!NOTE]
    >
@@ -52,11 +52,11 @@ ht-degree: 0%
 
 1. 클릭 **가져오기** 프로세스를 완료합니다.
 
-   ![](assets/six-1.png)
+   ![](assets/importing-assets-with-adobe-experience-manager-6.png)
 
    그게 다야! 클릭 **닫기** 디자인 스튜디오로 돌아갑니다.
 
-   ![](assets/seven-1.png)
+   ![](assets/importing-assets-with-adobe-experience-manager-7.png)
 
 ## 참고 사항 {#things-to-note}
 
