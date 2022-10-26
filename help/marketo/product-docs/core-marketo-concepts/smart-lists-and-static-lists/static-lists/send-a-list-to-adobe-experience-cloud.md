@@ -3,10 +3,10 @@ unique-page-id: 37356194
 description: Adobe Experience Cloud에 목록 보내기 - Marketo 문서 - 제품 설명서
 title: Adobe Experience Cloud으로 목록 보내기
 exl-id: 770eefe1-05f9-409d-8e7c-b3f1e6ba8139
-source-git-commit: 86451f1027e74479a415a4c6654a2625275d4112
+source-git-commit: 492f21f090dc2478271172cf7db470e16f202366
 workflow-type: tm+mt
-source-wordcount: '768'
-ht-degree: 0%
+source-wordcount: '770'
+ht-degree: 1%
 
 ---
 
@@ -18,7 +18,7 @@ ht-degree: 0%
 
 >[!PREREQUISITES]
 >
->[Adobe 조직 매핑 설정](/help/marketo/product-docs/core-marketo-concepts/miscellaneous/set-up-adobe-organization-mapping.md)
+>[Adobe 조직 매핑 설정](/help/marketo/product-docs/adobe-experience-cloud-integrations/set-up-adobe-organization-mapping.md){target=&quot;_blank&quot;}
 
 ## 지원되는 대상 응용 프로그램 {#supported-destination-applications}
 

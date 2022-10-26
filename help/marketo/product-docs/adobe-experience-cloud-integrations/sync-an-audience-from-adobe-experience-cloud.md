@@ -2,9 +2,9 @@
 description: Adobe Experience Cloud에서 대상 동기화 - Marketo 문서 - 제품 설명서
 title: Adobe Experience Cloud에서 대상 동기화
 exl-id: 2288ee01-2c2e-4f33-b5c9-da3a431c1816
-source-git-commit: c396c205d3cececc752f9b563c0d2ab41ff92b6a
+source-git-commit: 492f21f090dc2478271172cf7db470e16f202366
 workflow-type: tm+mt
-source-wordcount: '272'
+source-wordcount: '0'
 ht-degree: 0%
 
 ---
@@ -17,7 +17,7 @@ ht-degree: 0%
 
 >[!PREREQUISITES]
 >
->[Adobe 조직 매핑 설정](/help/marketo/product-docs/core-marketo-concepts/miscellaneous/set-up-adobe-organization-mapping.md)
+>[Adobe 조직 매핑 설정](/help/marketo/product-docs/adobe-experience-cloud-integrations/set-up-adobe-organization-mapping.md){target=&quot;_blank&quot;}
 
 ## 대상을 동기화하는 방법 {#how-to-sync-an-audience}
 
@@ -51,7 +51,7 @@ ht-degree: 0%
 
 Marketo 가입에 대해 쿠키 동기화가 활성화되면 Marketo의 munchkin.js는 통합 설정 중에 지정한 Adobe IMS 조직에 대한 Adobe ECID를 캡처하고 저장하려고 하며 이러한 ECID를 해당 Marketo 쿠키 식별자와 일치시킵니다. 이를 통해 Marketo의 익명의 사용자 프로필이 Adobe ECID로 보강될 수 있습니다.
 
-일반 텍스트 이메일을 사용하여 식별되는 리드 프로필에 익명 사용자 프로필을 연결하려면 추가 단계가 필요합니다. 정확히 어떻게 작동합니까 [여기에 설명되어 있습니다.](/help/marketo/product-docs/reporting/basic-reporting/report-activity/tracking-anonymous-activity-and-people.md).
+일반 텍스트 이메일을 사용하여 식별되는 리드 프로필에 익명 사용자 프로필을 연결하려면 추가 단계가 필요합니다. 정확히 어떻게 작동합니까 [여기에 설명되어 있습니다.](/help/marketo/product-docs/reporting/basic-reporting/report-activity/tracking-anonymous-activity-and-people.md){target=&quot;_blank&quot;}.
 
 **Marketo의 목록 크기가 Adobe의 목록 크기와 다른 이유는 무엇입니까?**
 
