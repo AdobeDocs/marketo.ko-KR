@@ -3,9 +3,9 @@ audience: end-user
 user-guide-title: Marketo 안내서
 user-guide-description: Marketo 제품 설명서
 feature-set: Marketo Engage
-source-git-commit: c396c205d3cececc752f9b563c0d2ab41ff92b6a
+source-git-commit: 0ee977037504930b6e8ba4de3ea7b8e9e6859260
 workflow-type: tm+mt
-source-wordcount: '8831'
+source-wordcount: '8818'
 ht-degree: 0%
 
 ---
@@ -470,13 +470,11 @@ ht-degree: 0%
       + 기타 {#miscellaneous}
          + [Adobe Experience Manager 통합 구성](product-docs/core-marketo-concepts/miscellaneous/configuring-adobe-experience-manager-integration.md)
          + [새 캠페인 폴더 만들기](product-docs/core-marketo-concepts/miscellaneous/create-new-campaign-folder.md)
-         + [Adobe Experience Manager으로 자산 가져오기](product-docs/core-marketo-concepts/miscellaneous/importing-assets-with-adobe-experience-manager.md)
          + [키보드 단축키 용어집](product-docs/core-marketo-concepts/miscellaneous/keyboard-shortcuts-glossary.md)
          + [Marketo 샌드박스](product-docs/core-marketo-concepts/miscellaneous/marketo-sandbox.md)
          + [개인 정보 관리](product-docs/core-marketo-concepts/miscellaneous/privacy-management.md)
          + [개인 정보 보호 요청](product-docs/core-marketo-concepts/miscellaneous/privacy-requests.md)
          + [Marketo 자산 이름 변경](product-docs/core-marketo-concepts/miscellaneous/rename-a-marketo-asset.md)
-         + [Adobe Experience Cloud에서 대상 동기화](product-docs/core-marketo-concepts/miscellaneous/sync-an-audience-from-adobe-experience-cloud.md)
          + [폴더 이해](product-docs/core-marketo-concepts/miscellaneous/understanding-folders.md)
          + [알림 이해](product-docs/core-marketo-concepts/miscellaneous/understanding-notifications.md)
          + [알림 유형](product-docs/core-marketo-concepts/miscellaneous/understanding-notifications/notification-types.md)
