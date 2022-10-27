@@ -1,11 +1,9 @@
 ---
 description: Adobe Experience Cloud 통합 개요 - Marketo 문서 - 제품 설명서
 title: Adobe Experience Cloud 통합 개요
-hide: true
-hidefromtoc: true
-source-git-commit: c396c205d3cececc752f9b563c0d2ab41ff92b6a
+source-git-commit: 653ff34c57c6c47544402e58e39042f014b496fa
 workflow-type: tm+mt
-source-wordcount: '144'
+source-wordcount: '143'
 ht-degree: 0%
 
 ---
@@ -16,7 +14,7 @@ Adobe은 Adobe Experience Cloud 제품 간 기본 대상 동기화로 시작하�
 
 >[!NOTE]
 >
->Audience Manager, B2B CDP Marketo 커넥터 및 Dynamic Chat를 포함하는 통합에서는 Marketo Engage에서 IMS 조직을 매핑해야 할 수 있습니다. [여기에서 Adobe 조직 매핑을 설정하는 방법을 알아봅니다](/help/marketo/product-docs/adobe-experience-cloud-integrations/set-up-adobe-organization-mapping.md){target=&quot;_blank&quot;}.
+>Audience Manager, B2B CDP Marketo 커넥터 및 Dynamic Chat를 포함하는 통합에서는 Marketo Engage에서 IMS 조직을 매핑해야 할 수 있습니다. [Adobe 조직 매핑을 설정하는 방법 알아보기](/help/marketo/product-docs/adobe-experience-cloud-integrations/set-up-adobe-organization-mapping.md){target=&quot;_blank&quot;}.
 
 ## Adobe Experience Cloud 통합 {#adobe-experience-cloud-integrations}
 
