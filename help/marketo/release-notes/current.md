@@ -2,9 +2,9 @@
 description: 현재 릴리스 노트 - Marketo 문서 - 제품 설명서
 title: 현재 릴리스 노트
 exl-id: a2eccad5-73ad-48f9-8091-51cee23824e1
-source-git-commit: 4794c44db57b41f6d9358f7e6cc24a41dda68550
+source-git-commit: 538622707eec53e9a137e9aed7ec448d379efe43
 workflow-type: tm+mt
-source-wordcount: '582'
+source-wordcount: '554'
 ht-degree: 0%
 
 ---
@@ -49,8 +49,6 @@ ht-degree: 0%
 ## 마케팅 데이터 환경 {#marketing-data-environment}
 
 * **Adobe Privacy Service 통합**: Privacy Service과 결합하여 Experience Cloud 제품 전반에서 데이터 개인 정보 보호 규정을 자동으로 준수합니다. 현재 이 서비스는 [Identity Management Adobe](/help/marketo/product-docs/administration/marketo-with-adobe-identity/adobe-identity-management-overview.md){target=&quot;_blank&quot;} 시스템.
-
-* **프로그램 구성원 사용자 지정 필드 동기화**: 프로그램 구성원에 대해 캡처한 확장 가능한 필드(예: 음식, 세션, 트랙 등의 이벤트 등록 중 참석자 환경 설정)를 양방향 동기화할 수 있습니다.
 
 ## API 개선 사항 {#api-enhancements}
 
