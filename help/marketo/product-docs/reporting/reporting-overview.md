@@ -1,9 +1,9 @@
 ---
 description: 보고 개요 - Marketo 문서 - 제품 설명서
 title: 보고 개요
-source-git-commit: 79f09e37378a232fd4a254131f4eccb730ab263e
+source-git-commit: 0ad41745fbdb24ccbe13cf82b81635448f136e01
 workflow-type: tm+mt
-source-wordcount: '413'
+source-wordcount: '392'
 ht-degree: 0%
 
 ---
@@ -52,10 +52,6 @@ _(이전에 매출 주기 탐색기/고급 Report Builder라고 함)_
 * 그래픽 양식, 열 맵 및 분배 곡선의 시각화
 
 ## 고급 여정 분석 {#advanced-journey-analytics}
-
->[!AVAILABILITY]
->
->모든 고객이 고급 BI Analytics 및 고급 여정 분석 모듈을 구입한 것은 아닙니다. 자세한 내용은 고객 성공 관리자에게 문의하십시오.
 
 매출 주기 모델: 리드와 처음 상호 작용하는 시점부터 리드가 성공적인 고객까지 전체 매출 단계의 모든 단계와 이러한 단계 간에 전환하는 방법을 모델링합니다.
 
