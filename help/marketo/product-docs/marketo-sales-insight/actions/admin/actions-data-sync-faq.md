@@ -2,9 +2,9 @@
 description: 작업 데이터 동기화 FAQ - Marketo 문서 - 제품 설명서
 title: 작업 데이터 동기화 FAQ
 exl-id: bb213d50-be22-492d-b74c-b8cfb834b2ca
-source-git-commit: 3f00a7088a71bbdf028fd6b0a57da57ea13ca5de
+source-git-commit: fbeb28b1b89fb329a4b45fb01dbad7df939ddc0c
 workflow-type: tm+mt
-source-wordcount: '1044'
+source-wordcount: '1050'
 ht-degree: 0%
 
 ---
@@ -55,11 +55,13 @@ Marketo Engage에서 Sales Insight Action으로 동기화하는 필드는 11개 
 * 성
 * Salesforce 연락처 ID
 * Salesforce 리드 ID
+* Salesforce 계정 ID
+* Salesforce 영업 기회 ID
 * Marketo ID
 * 회사
 * 제목
 * 이메일
-* 전화 번호
+* 전화번호
 * Linkedin URL
 * 원문
 
