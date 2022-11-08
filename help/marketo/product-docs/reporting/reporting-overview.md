@@ -1,13 +1,13 @@
 ---
 description: 보고 개요 - Marketo 문서 - 제품 설명서
 title: 보고 개요
-source-git-commit: 0ad41745fbdb24ccbe13cf82b81635448f136e01
+exl-id: 62b4b9fc-a4fe-4298-947b-1ff453321464
+source-git-commit: d6d8674ef3357cef1b388a43baade1c57ed98e3e
 workflow-type: tm+mt
 source-wordcount: '392'
 ht-degree: 0%
 
 ---
-
 
 # 보고 개요 {#reporting-overview}
 
@@ -64,8 +64,3 @@ _(이전에 매출 주기 탐색기/고급 Report Builder라고 함)_
 >[!NOTE]
 >
 >Advanced BI Analytics Reporting을 사용하는 Model Performance Analysis(회사) 및 Model Performance Analysis(리드)는 Advanced Analytics 제품에서 만든 매출 주기 모델에 따라 다릅니다.
-
-
-
-
-
