@@ -3,9 +3,9 @@ audience: end-user
 user-guide-title: Marketo 안내서
 user-guide-description: Marketo 제품 설명서
 feature-set: Marketo Engage
-source-git-commit: 917cb879bcff0f37533a43e9bb62119986581f65
+source-git-commit: 8a2429eb077b3bddafb3d8c7b96ecdca2eefba34
 workflow-type: tm+mt
-source-wordcount: '8816'
+source-wordcount: '8813'
 ht-degree: 0%
 
 ---
@@ -931,7 +931,6 @@ ht-degree: 0%
       + 게재 기능 {#deliverability}
          + [내구성 구독 취소](product-docs/email-marketing/deliverability/durable-unsubscribe.md)
          + [전자 메일 게재 기능 팩: 시드 목록을 가져오는 방법](product-docs/email-marketing/deliverability/email-deliverability-power-pack-how-to-import-a-seed-list.md)
-         + [전자 메일 게재 기능 도구](product-docs/email-marketing/deliverability/email-deliverability-tool.md)
          + [이메일의 하드 및 소프트 바운스 수](product-docs/email-marketing/deliverability/hard-and-soft-bounces-in-email.md)
          + [사용자 지정 DKIM 서명 설정](product-docs/email-marketing/deliverability/set-up-a-custom-dkim-signature.md)
          + [전자 메일 게재 기능에 대해 SPF 및 DKIM을 설정합니다](product-docs/email-marketing/deliverability/set-up-spf-and-dkim-for-your-email-deliverability.md)
