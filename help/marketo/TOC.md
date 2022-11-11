@@ -3,9 +3,9 @@ audience: end-user
 user-guide-title: Marketo 안내서
 user-guide-description: Marketo 제품 설명서
 feature-set: Marketo Engage
-source-git-commit: 118d0d8266fce05ea670f141372f2dbc2ce10116
+source-git-commit: 917cb879bcff0f37533a43e9bb62119986581f65
 workflow-type: tm+mt
-source-wordcount: '8827'
+source-wordcount: '8816'
 ht-degree: 0%
 
 ---
@@ -99,7 +99,6 @@ ht-degree: 0%
          + [수준 3 웹 모임을 LaunchPoint 서비스로 추가](product-docs/administration/additional-integrations/add-level-3-web-meeting-as-a-launchpoint-service.md)
          + [웹 사이트에 Munchkin 추적 코드 추가](product-docs/administration/additional-integrations/add-munchkin-tracking-code-to-your-website.md)
          + [차세대 Munchkin 추적 FAQ](product-docs/administration/additional-integrations/add-munchkin-tracking-code-to-your-website/next-generation-munchkin-tracking-faq.md)
-         + [LaunchPoint 서비스로 ReadyTalk 추가](product-docs/administration/additional-integrations/add-readytalk-as-a-launchpoint-service.md)
          + [포털에 단일 사인온 추가](product-docs/administration/additional-integrations/add-single-sign-on-to-a-portal.md)
          + [WebEx를 LaunchPoint 서비스로 추가](product-docs/administration/additional-integrations/add-webex-as-a-launchpoint-service.md)
          + [facebook에서 LaunchPoint 서비스로 Workplace 추가](product-docs/administration/additional-integrations/add-workplace-by-facebook-as-a-launchpoint-service.md)
@@ -643,7 +642,6 @@ ht-degree: 0%
             + [Adobe Connect으로 이벤트 만들기](product-docs/demand-generation/events/create-an-event/create-an-event-with-adobe-connect.md)
             + [GotoWebinar를 사용하여 이벤트 만들기](product-docs/demand-generation/events/create-an-event/create-an-event-with-gotowebinar.md)
             + [수준 3 웹 모임을 사용하여 이벤트 만들기](product-docs/demand-generation/events/create-an-event/create-an-event-with-level-3-web-meeting.md)
-            + [ReadyTalk를 사용하여 이벤트 만들기](product-docs/demand-generation/events/create-an-event/create-an-event-with-readytalk.md)
             + [WebEx를 사용하여 이벤트 만들기](product-docs/demand-generation/events/create-an-event/create-an-event-with-webex.md)
             + [확대/축소를 사용하여 이벤트 만들기](product-docs/demand-generation/events/create-an-event/create-an-event-with-zoom.md)
             + Marketo ON24 어댑터를 사용하여 이벤트 만들기 {#create-an-event-with-the-marketo-on24-adapter}
