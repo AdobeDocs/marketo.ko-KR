@@ -2,9 +2,9 @@
 description: Salesforce의 Sales Insight Actions 구성 - Marketo 문서 - 제품 설명서
 title: Salesforce의 Sales Insight Actions 구성
 exl-id: 2d842886-3501-4aca-96fb-0d6763ab2b01
-source-git-commit: 222b0692998be1fd15dc6465af1da627e1c32683
+source-git-commit: 854bbc3642d52e670e0e55e6660ea85661edf904
 workflow-type: tm+mt
-source-wordcount: '234'
+source-wordcount: '253'
 ht-degree: 0%
 
 ---
@@ -30,9 +30,15 @@ ht-degree: 0%
 
    ![](assets/msi-actions-configuration-in-salesforce-3.png)
 
-1. 원격 사이트 이름을 입력합니다(&quot;MarketoSalesInsight&quot; 와 유사할 수 있음). 원격 사이트 URL(https://ims-na1-stg1.adobelogin.com)을 입력하고 **저장**.
+1. 원격 사이트 이름을 입력합니다(&quot;MarketoSalesInsight1&quot;과 같은 것일 수 있음). 원격 사이트 URL 입력 `https://ims-na1.adobelogin.com` 을(를) 클릭합니다. **저장**.
 
    ![](assets/msi-actions-configuration-in-salesforce-4.png)
+
+1. 클릭 **새 원격 사이트** 다시 한 번
+
+   ![](assets/msi-actions-configuration-in-salesforce-4a.png)
+
+1. 원격 사이트 이름을 입력합니다(&quot;MarketoSalesInsight2&quot; 와 유사할 수 있음). 원격 사이트 URL 입력 `https://mkto-sales-connect.adobe.io` 을(를) 클릭합니다. **저장**.
 
 ## CRM에서 Sales Insight Action 활성화 {#enabling-sales-insight-actions-across-the-crm}
 

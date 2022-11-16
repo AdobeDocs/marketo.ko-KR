@@ -2,10 +2,10 @@
 description: 현재 릴리스 노트 - Marketo 문서 - 제품 설명서
 title: 현재 릴리스 노트
 exl-id: a2eccad5-73ad-48f9-8091-51cee23824e1
-source-git-commit: 7e7a82f49b9f723eed5cbcde766c5be91ac170b5
+source-git-commit: 854bbc3642d52e670e0e55e6660ea85661edf904
 workflow-type: tm+mt
-source-wordcount: '0'
-ht-degree: 0%
+source-wordcount: '591'
+ht-degree: 3%
 
 ---
 
@@ -22,6 +22,8 @@ ht-degree: 0%
 다음 기능은 표준 릴리스 주기에 속하며 릴리스되기 시작합니다 **2022년 10월 14일**&#x200B;를 가리키도록 업데이트하는 것이 좋습니다. 릴리스 기능과 날짜는 변경될 수 있습니다. 각 기능 아래에서 해당 상태를 확인하십시오.
 
 ### 차세대 경험 {#next-generation-experience}
+
+</br>
 
 * **차세대 경험에서 업데이트된 화면**: 전환 스위치를 통해 액세스할 수 있는 업데이트된 디자인 및 유용성 개선 사항을 제공하는 차세대 환경에서 새로 고친 추가 화면을 제공하고 있습니다.
 
@@ -70,6 +72,8 @@ ht-degree: 0%
 
 ### 마케팅 데이터 환경 {#marketing-data-environment}
 
+</br>
+
 * **Adobe Privacy Service 통합**: Privacy Service과 결합하여 Experience Cloud 제품 전반에서 데이터 개인 정보 보호 규정을 자동으로 준수합니다. 현재 이 서비스는 Adobe Identity Management 시스템에 온보딩된 Marketo Engage 고객에게만 제공됩니다.
 
 <table> 
@@ -86,6 +90,8 @@ ht-degree: 0%
 
 ### API 개선 사항 {#api-enhancements}
 
+</br>
+
 * **대량 리드 가져오기: 영업 사원 협회**: Lead REST API와 Parity를 사용하여 대량 리드 가져오기 프로세스 동안 Sales와 Lead를 연결할 수 있으므로 복잡성과 API 호출 수가 줄어듭니다.
 
 <table> 
@@ -101,6 +107,8 @@ ht-degree: 0%
 </table>
 
 ### Sales Insight {#sales-insight}
+
+</br>
 
 ![(별)](assets/yellow-star.png)
 
