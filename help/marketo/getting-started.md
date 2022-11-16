@@ -3,10 +3,10 @@ unique-page-id: 1147226
 description: 시작하기 - Marketo 문서 - 제품 설명서
 title: 시작하기
 exl-id: 11c883eb-2a22-4706-ba0a-09ca11648054
-source-git-commit: d6a61a92cd00c038813793f50307211ecf88d439
+source-git-commit: 7e7a82f49b9f723eed5cbcde766c5be91ac170b5
 workflow-type: tm+mt
-source-wordcount: '161'
-ht-degree: 10%
+source-wordcount: '0'
+ht-degree: 0%
 
 ---
 
@@ -17,10 +17,6 @@ ht-degree: 10%
 Marketo Engage이 무엇입니까? 좋은 질문입니다!
 
 [학습 Marketo Engage](/help/marketo/getting-started/what-is-adobe-marketo-engage.md){target=&quot;_blank&quot;}
-
-## 사용 가능한 가격 책정 계층 {#what-pricing-tiers-are-available}
-
-다음을 확인하십시오 [Marketo Engage 가격 및 포장 페이지](https://www.marketo.com/solutions/pricing/)자세한 내용은 {target=&quot;_blank&quot;} 를 참조하십시오.
 
 ## 설정 {#get-set-up}
 
