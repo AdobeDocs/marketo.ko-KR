@@ -2,9 +2,9 @@
 description: 현재 릴리스 노트 - Marketo 문서 - 제품 설명서
 title: 현재 릴리스 노트
 exl-id: a2eccad5-73ad-48f9-8091-51cee23824e1
-source-git-commit: f656901c3a25e043e59411857190f4711036637d
+source-git-commit: 3bc69f05fc72d6fd03f00410fa174829feb90e48
 workflow-type: tm+mt
-source-wordcount: '629'
+source-wordcount: '626'
 ht-degree: 3%
 
 ---
@@ -35,6 +35,20 @@ ht-degree: 3%
   <tr> 
    <td><i>준비 중</i></td>
    <td><i>준비 중</i></td>
+  </tr>
+  </tbody>
+</table>
+
+* **Adobe Privacy Service 통합**: Privacy Service과 결합하여 Experience Cloud 제품 전반에서 데이터 개인 정보 보호 규정을 자동으로 준수합니다. 현재 이 서비스는 Adobe Identity Management 시스템에 온보딩된 Marketo Engage 고객에게만 제공됩니다.
+
+<table> 
+  <tr> 
+   <td><b>상태</b></td>
+   <td><b>설명서 업데이트</b></td>
+  </tr>
+  <tr> 
+   <td>배송됨</td>
+   <td><a href="/help/marketo/product-docs/administration/marketo-with-adobe-identity/adobe-identity-management-overview.md">Identity Management Adobe</a></td>
   </tr>
   </tbody>
 </table>
@@ -84,24 +98,6 @@ ht-degree: 3%
   <tr> 
    <td>배송됨</td>
    <td>해당 사항 없음</td>
-  </tr>
-  </tbody>
-</table>
-
-### 마케팅 데이터 환경 {#marketing-data-environment}
-
-</br>
-
-* **Adobe Privacy Service 통합**: Privacy Service과 결합하여 Experience Cloud 제품 전반에서 데이터 개인 정보 보호 규정을 자동으로 준수합니다. 현재 이 서비스는 Adobe Identity Management 시스템에 온보딩된 Marketo Engage 고객에게만 제공됩니다.
-
-<table> 
-  <tr> 
-   <td><b>상태</b></td>
-   <td><b>설명서 업데이트</b></td>
-  </tr>
-  <tr> 
-   <td>배송됨</td>
-   <td><a href="/help/marketo/product-docs/administration/marketo-with-adobe-identity/adobe-identity-management-overview.md">Identity Management Adobe</a></td>
   </tr>
   </tbody>
 </table>
