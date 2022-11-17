@@ -2,9 +2,9 @@
 description: 현재 릴리스 노트 - Marketo 문서 - 제품 설명서
 title: 현재 릴리스 노트
 exl-id: a2eccad5-73ad-48f9-8091-51cee23824e1
-source-git-commit: 854bbc3642d52e670e0e55e6660ea85661edf904
+source-git-commit: f656901c3a25e043e59411857190f4711036637d
 workflow-type: tm+mt
-source-wordcount: '591'
+source-wordcount: '629'
 ht-degree: 3%
 
 ---
@@ -20,6 +20,24 @@ ht-degree: 3%
 ## 표준 릴리스 주기 기능 {#standard-release-cycle-features}
 
 다음 기능은 표준 릴리스 주기에 속하며 릴리스되기 시작합니다 **2022년 10월 14일**&#x200B;를 가리키도록 업데이트하는 것이 좋습니다. 릴리스 기능과 날짜는 변경될 수 있습니다. 각 기능 아래에서 해당 상태를 확인하십시오.
+
+### 마케팅 데이터 환경 {#marketing-data-environment}
+
+</br>
+
+* **프로그램 구성원 사용자 지정 필드 동기화**: 프로그램 구성원에 대해 캡처한 확장 가능한 필드(예: 음식, 세션, 트랙 등의 이벤트 등록 중 참석자 환경 설정)를 양방향 동기화할 수 있습니다.
+
+<table> 
+  <tr> 
+   <td><b>상태</b></td>
+   <td><b>설명서 업데이트</b></td>
+  </tr>
+  <tr> 
+   <td><i>준비 중</i></td>
+   <td><i>준비 중</i></td>
+  </tr>
+  </tbody>
+</table>
 
 ### 차세대 경험 {#next-generation-experience}
 
