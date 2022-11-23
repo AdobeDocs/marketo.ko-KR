@@ -2,9 +2,9 @@
 description: 글로벌 양식 유효성 검사 규칙 - Marketo 문서 - 제품 설명서
 title: 글로벌 양식 유효성 검사 규칙
 exl-id: a44db893-00b5-40d2-8be3-41d52b2fd7b5
-source-git-commit: 2736e8a0456de76b9894312c26f6ba9c0345daee
+source-git-commit: d9e605d31e9a3434849ba800ba527775885ab34a
 workflow-type: tm+mt
-source-wordcount: '268'
+source-wordcount: '269'
 ht-degree: 0%
 
 ---
@@ -69,7 +69,7 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->Marketo Engage에차단 목록에 추가하다는 사전 로드된 &quot;소비자 이메일 도메인&quot; 규칙을 사용할 때 차단되는 무료 소비자 이메일 차단 목록에 추가하다 도메인의 정의된 도메인이 있습니다. [여기에서 해당 목록 보기](/help/marketo/product-docs/administration/settings/assets/freemaildomains_2023.csv).
+>Marketo Engage에차단 목록에 추가하다는 사전 로드된 &quot;소비자 이메일 도메인&quot; 규칙을 사용할 때 차단되는 무료 소비자 이메일 차단 목록에 추가하다 도메인의 정의된 도메인이 있습니다. [여기에서 해당 목록 보기](/help/marketo/product-docs/administration/settings/assets/freemaildomains.csv).
 
 ## 양식당 액세스를 비활성화하는 방법{#how-to-disable-access-per-form}
 
