@@ -3,9 +3,9 @@ unique-page-id: 2949469
 description: 설정 단계 - Marketo 문서 - 제품 설명서
 title: 설정 단계
 exl-id: ef6b7311-55ca-4384-a24c-714eae89a57d
-source-git-commit: fed5fc3a511022fbac40b8ad369a1cdda5112167
+source-git-commit: 7b0f5e9e39a2521c32a9b718a07c3ed524079eaf
 workflow-type: tm+mt
-source-wordcount: '2002'
+source-wordcount: '2085'
 ht-degree: 0%
 
 ---
@@ -340,5 +340,9 @@ Marketo에는 모든 웹 페이지에서 개인 활동을 추적하는 데 사�
 >[!NOTE]
 >
 >추적 코드를 추가하는 데 필요한 HTML 경험.
+
+## 성능 기대 {#performance-expectations}
+
+Marketo의 성과 측면에서 무엇을 기대할 수 있습니까? 마케팅 캠페인의 크기와 복잡성에 따라 달라질 수 있습니다. 그러나 일부 테이블에서 &quot;표준&quot; 열에 요약된 것과 동일한 수준의 성능 수준을 기대할 수 있습니다 [Marketo Engage 제품 설명](https://helpx.adobe.com/legal/product-descriptions/adobe-marketo-engage---product-description.html){target=&quot;_blank&quot;}. 성능 및 성능 플러스 열은 [높은 성능 수준](https://nation.marketo.com/t5/product-documents/marketo-engage-performance-tiers/ta-p/328835){target=&quot;_blank&quot;}.
 
 모든 설정 단계가 끝났습니다. 남은 것은 Marketo을 사용해 다이빙하는 것입니다!
