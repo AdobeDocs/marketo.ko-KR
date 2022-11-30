@@ -3,10 +3,9 @@ unique-page-id: 2360352
 description: SOAP API 설정 구성 - Marketo 문서 - 제품 설명서
 title: SOAP API 설정 구성
 exl-id: a848f5c5-b3ca-40cc-9202-467f26d3916f
-translation-type: tm+mt
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+source-git-commit: 5f509a7aa27692e54bf129b94c657aff0f645f2b
 workflow-type: tm+mt
-source-wordcount: '86'
+source-wordcount: '87'
 ht-degree: 0%
 
 ---
@@ -15,23 +14,27 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->REST API를 사용하는 것이 좋습니다. [developers.markto.com](https://developers.marketo.com/documentation/rest/)에 대해 자세히 알아보십시오.
+>REST API 를 사용하는 것이 좋습니다. 추가 정보 [developers.marketo.com](https://developers.marketo.com/documentation/rest/).
 
 >[!NOTE]
 >
->**관리자 권한 필요**
+>**관리 권한 필요**
 
-1. **관리**&#x200B;로 이동하고 **웹 서비스**&#x200B;를 클릭합니다.
+1. 로 이동합니다. **관리** 영역.
 
-   ![](assets/image2014-9-19-10-3a58-3a11.png)
+   ![](assets/configuring-your-soap-api-settings-1.png)
 
-1. 적절한 **암호화 키**&#x200B;를 설정하고 **변경 내용 저장**&#x200B;을 클릭한 다음 모든 정보를 개발자에게 전달합니다.
+1. 클릭 **웹 서비스**.
 
-   ![](assets/image2014-9-19-11-3a0-3a46.png)
+   ![](assets/configuring-your-soap-api-settings-2.png)
+
+1. 적절한 **암호화 키**&#x200B;를 클릭합니다. **변경 내용 저장**, 그리고 모든 정보를 개발자에게 전달합니다.
+
+   ![](assets/configuring-your-soap-api-settings-3.png)
 
 >[!CAUTION]
 >
->SOAP 끝점과 사용자 ID는 고유해야 합니다.이 아티클의 스크린샷을 개발자에게 보내지 마십시오.
+>SOAP 종단점 및 사용자 ID가 고유합니다. 이 문서의 스크린샷을 개발자에게 보내지 마십시오.
 
 >[!MORELIKETHIS]
 >

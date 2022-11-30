@@ -3,9 +3,9 @@ unique-page-id: 2360358
 description: SSO로만 사용자 로그인 제한 - Marketo 문서 - 제품 설명서
 title: 사용자 로그인을 SSO로만 제한
 exl-id: 74915871-dcf5-478d-a5ae-b20c3d2de553
-source-git-commit: 5dcaf886c488e5e1b7fd1c4caa5f869e70c6fb18
+source-git-commit: 5f509a7aa27692e54bf129b94c657aff0f645f2b
 workflow-type: tm+mt
-source-wordcount: '232'
+source-wordcount: '233'
 ht-degree: 0%
 
 ---
@@ -22,17 +22,21 @@ ht-degree: 0%
 >
 >**관리 권한 필요**
 
-1. 이동 **관리** 을(를) 클릭합니다. **로그인 설정**.
+1. 로 이동합니다. **관리** 영역.
 
-   ![](assets/image2014-9-24-14-3a44-3a40.png)
+   ![](assets/restrict-user-login-to-sso-only-1.png)
+
+1. 클릭 **로그인 설정**.
+
+   ![](assets/restrict-user-login-to-sso-only-2.png)
 
 1. 클릭 **보안 설정 편집**.
 
-   ![](assets/image2014-9-24-14-3a44-3a53.png)
+   ![](assets/restrict-user-login-to-sso-only-3.png)
 
 1. 고급 설정을 확장하고 다음을 확인합니다. **SSO 필요**&#x200B;를 클릭하고 **저장**.
 
-![](assets/image2014-9-24-14-3a45-3a6.png)
+![](assets/restrict-user-login-to-sso-only-4.png)
 
 >[!NOTE]
 >

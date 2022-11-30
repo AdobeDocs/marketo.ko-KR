@@ -3,9 +3,9 @@ unique-page-id: 2360360
 description: 웹 후크 만들기 - Marketo 문서 - 제품 설명서
 title: 웹 후크 만들기
 exl-id: 3e753d2d-6f33-4987-884e-8e13167cf3df
-source-git-commit: 25a574719eb6c064d33b6a1cebafe2668ed1330d
+source-git-commit: 5f509a7aa27692e54bf129b94c657aff0f645f2b
 workflow-type: tm+mt
-source-wordcount: '209'
+source-wordcount: '210'
 ht-degree: 0%
 
 ---
@@ -18,17 +18,21 @@ ht-degree: 0%
 >
 >모든 고객이 이 기능을 구입한 것은 아닙니다. 자세한 내용은 영업 담당자에게 문의하십시오.
 
-1. 이동 **관리** 을(를) 클릭합니다. **Webhooks**.
+1. 로 이동합니다. **관리** 영역.
 
-   ![](assets/image2014-9-24-14-3a52-3a57.png)
+   ![](assets/create-a-webhook-1.png)
+
+1. 클릭 **Webhooks**.
+
+   ![](assets/create-a-webhook-2.png)
 
 1. 클릭 **새 웹 후크**.
 
-   ![](assets/image2014-9-24-14-3a53-3a9.png)
+   ![](assets/create-a-webhook-3.png)
 
 1. 웹 후크에 이름을 지정하고 구성합니다.
 
-   ![](assets/image2014-9-24-14-3a53-3a19.png)
+   ![](assets/create-a-webhook-4.png)
 
    >[!NOTE]
    >
@@ -44,9 +48,9 @@ ht-degree: 0%
 
    * **요청 유형**: 사용할 HTTP 메서드(DELETE, GET, PATCH, POST, PUT)을 선택합니다.
 
-   클릭 **만들기**.
+1. 클릭 **만들기**.
 
-   ![](assets/image2014-9-24-14-3a53-3a35.png)
+   ![](assets/create-a-webhook-5.png)
 
 >[!NOTE]
 >
