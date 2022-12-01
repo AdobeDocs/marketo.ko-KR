@@ -3,9 +3,9 @@ unique-page-id: 2360251
 description: 구독 취소 메시지 편집 - Marketo 문서 - 제품 설명서
 title: 구독 취소 메시지 편집
 exl-id: 68a3ebc1-b2c9-4e6c-bb13-e5a94c9596d2
-source-git-commit: 931b42d7266b9c57308567527042dfcad9847993
+source-git-commit: aeaf1f55b81da70ac8415cab265165a3848b5a0e
 workflow-type: tm+mt
-source-wordcount: '135'
+source-wordcount: '139'
 ht-degree: 0%
 
 ---
@@ -18,11 +18,15 @@ ht-degree: 0%
 
 마케팅 이메일을 보낼 때(비)[운영](/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/make-an-email-operational.md)), 구독 취소 텍스트 및 링크가 맨 아래에 추가됩니다. 기본값을 변경할 수 있습니다. 방법은 다음과 같습니다.
 
-## 구독 취소 메시지 편집 {#edit-the-unsubscribe-message-1}
+## 편집할 위치 {#where-to-make-the-edit}
 
-1. 아래 **관리**&#x200B;를 클릭합니다. **이메일**.
+1. 로 이동합니다. **관리** 섹션을 참조하십시오.
 
-   ![](assets/image2014-9-18-16-3a52-3a1.png)
+   ![](assets/edit-the-unsubscribe-message-1.png)
+
+1. 클릭 **이메일**.
+
+   ![](assets/edit-the-unsubscribe-message-2.png)
 
    >[!CAUTION]
    >
@@ -34,7 +38,7 @@ ht-degree: 0%
 
 1. 편집 **구독 취소 HTML** 및 **텍스트 구독 취소** 버전을 원하는 대로 설정하고 **변경 내용 저장**.
 
-   ![](assets/image2016-8-26-13-3a40-3a55.png)
+   ![](assets/edit-the-unsubscribe-message-3.png)
 
    여기 있습니다. _반드시 테스트해 보십시오!_ 마케팅 이메일에 끊어진 구독 취소 링크가 포함되면 안 됩니다.
 
