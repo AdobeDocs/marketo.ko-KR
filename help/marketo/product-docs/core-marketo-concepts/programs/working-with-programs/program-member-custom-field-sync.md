@@ -1,10 +1,10 @@
 ---
-description: 프로그램 구성원 사용자 지정 필드 - Marketo 문서 - 제품 설명서
-title: 프로그램 구성원 사용자 정의 필드
+description: 프로그램 구성원 사용자 지정 필드 동기화 - Marketo 문서 - 제품 설명서
+title: 프로그램 구성원 사용자 지정 필드 동기화
 exl-id: 7facfc79-a411-4ad9-b847-2002763af5bb
-source-git-commit: ef3ab6ec245a9d2e1bf89033d9406992061e5420
+source-git-commit: 85e04fb8a52a417982014bc4bb101b6044e53f84
 workflow-type: tm+mt
-source-wordcount: '363'
+source-wordcount: '365'
 ht-degree: 4%
 
 ---

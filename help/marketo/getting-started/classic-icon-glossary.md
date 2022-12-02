@@ -3,16 +3,16 @@ unique-page-id: 4720476
 description: 클래식 아이콘 용어집 - Marketo 문서 - 제품 설명서
 title: 클래식 아이콘 용어집
 exl-id: 478f9d91-07bf-46b6-927f-b020653a2fcb
-source-git-commit: 5f76c35490eba40bea39c66c8675860293041350
+source-git-commit: 85e04fb8a52a417982014bc4bb101b6044e53f84
 workflow-type: tm+mt
 source-wordcount: '564'
-ht-degree: 4%
+ht-degree: 6%
 
 ---
 
 # 클래식 아이콘 용어집 {#classic-icon-glossary}
 
-아래는 Marketo Classic의 이전 아이콘입니다. 새 아이콘 용어집은 [여기에서](/help/marketo/product-docs/marketo-engage-next-generation-experience/icon-glossary.md){target=&quot;_blank&quot;}.
+아래는 Marketo Classic의 이전 아이콘입니다. 새 아이콘 용어집은 [여기에서](/help/marketo/product-docs/marketo-engage-modern-ux/icon-glossary.md){target=&quot;_blank&quot;}.
 
 **일반 아이콘**
 
@@ -108,7 +108,7 @@ ht-degree: 4%
     <div> 
      <img src="assets/image2015-1-9-10-3a38-3a59.png"> 
     </div></td> 
-   <td>기록</td> 
+   <td>내역</td> 
   </tr> 
   <tr> 
    <td> 
@@ -480,7 +480,7 @@ ht-degree: 4%
     <div> 
      <img src="assets/image2015-1-9-14-3a42-3a29.png"> 
     </div></td> 
-   <td>Social</td> 
+   <td>소셜</td> 
   </tr> 
   <tr> 
    <td> 
@@ -848,7 +848,7 @@ ht-degree: 4%
     <div> 
      <img src="assets/image2015-1-14-13-3a8-3a40.png"> 
     </div></td> 
-   <td colspan="1">새로 만들기</td> 
+   <td colspan="1">신규</td> 
   </tr> 
   <tr> 
    <td colspan="1"> 
@@ -1186,7 +1186,7 @@ ht-degree: 4%
     <div> 
      <img src="assets/image2015-1-14-13-3a9-3a33.png"> 
     </div></td> 
-   <td colspan="1">새로 만들기</td> 
+   <td colspan="1">신규</td> 
   </tr> 
   <tr> 
    <td colspan="1"> 

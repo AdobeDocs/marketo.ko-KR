@@ -2,7 +2,7 @@
 description: 릴리스 노트 - 2022년 5월 - Marketo 문서 - 제품 설명서
 title: 릴리스 노트 - 2022년 5월
 exl-id: f591ab95-5ad8-45fa-8c4e-8e42b5d1359a
-source-git-commit: d9ace2b00707c605dda94ec4fc21937d8b36d137
+source-git-commit: 85e04fb8a52a417982014bc4bb101b6044e53f84
 workflow-type: tm+mt
 source-wordcount: '833'
 ht-degree: 0%
@@ -39,7 +39,7 @@ ht-degree: 0%
 
 **[전자 메일 추적 링크에 대한 STS 헤더](/help/marketo/product-docs/administration/settings/email-tracking-link-headers.md){target=&quot;_blank&quot;}**: 보안 모범 사례를 충족하여 추적된 링크에 대한 트래픽이 항상 안전하도록 보안 전송 보안 헤더를 적용하는 기능을 제공합니다.
 
-## 차세대 경험 {#next-generation-experience}
+## 차세대 경험 {#modern-ux}
 
 **다음 세대 경험으로 기본 전환 전환**: 전환 스위치는 기본적으로 사용 가능한 모든 화면에서 새 경험으로 설정되므로 사용자가 업데이트된 디자인과 유용성 개선 사항을 보다 쉽게 찾을 수 있습니다.
 

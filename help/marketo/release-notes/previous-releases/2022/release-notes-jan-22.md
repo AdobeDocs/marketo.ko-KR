@@ -1,7 +1,8 @@
 ---
 description: 릴리스 노트 - 2022년 1월 - Marketo 문서 - 제품 설명서
 title: 릴리스 노트 - 2022년 1월
-source-git-commit: 9136ef46cd3b3293bef605dec997f23b46fa4326
+exl-id: babc4e7f-3f11-4883-80c6-58e69c3e1ab4
+source-git-commit: 85e04fb8a52a417982014bc4bb101b6044e53f84
 workflow-type: tm+mt
 source-wordcount: '964'
 ht-degree: 0%
@@ -20,7 +21,7 @@ ht-degree: 0%
 
 다음 기능은에서 릴리스되기 시작합니다 **2022년 1월 21일**&#x200B;를 설정하는 경우, 다음 주 동안 모든 기능을 단계별로 롤아웃합니다(별도로 지정하지 않는 한).
 
-## 차세대 경험 {#next-generation-experience}
+## 차세대 경험 {#modern-ux}
 
 * **차세대 경험에서 업데이트된 화면**: 전환 스위치를 통해 액세스할 수 있는 업데이트된 디자인 및 유용성 개선 사항을 제공하는 차세대 환경에서 새로 고친 추가 화면을 제공하고 있습니다.
 
@@ -77,7 +78,7 @@ Adobe Experience Platform(AEP)도 사용하는 Marketo Engage 고객은 AEP 대�
 
 ## 공지 {#announcements}
 
-* **Marketo Sky 사용 중단**: 3월에는 차세대 사용자 경험을 제공하기 위해 리소스를 집중하므로 Marketo Sky을 더 이상 사용할 수 없습니다. 현재 Marketo Sky 전용 기능에 대한 액세스를 유지하기 위해 Adobe에서는 자산 만료 및 스마트 캠페인 우선 순위 무시 를 3월에 주요 경험으로 도입할 예정입니다. [여기를 클릭하십시오.](https://nation.marketo.com/t5/the-next-generation-experience/marketo-sky-deprecation-notice/ba-p/320115#M33) 추가 정보
+* **Marketo Sky 사용 중단**: 3월에는 차세대 사용자 경험을 제공하기 위해 리소스를 집중하므로 Marketo Sky을 더 이상 사용할 수 없습니다. 현재 Marketo Sky 전용 기능에 대한 액세스를 유지하기 위해 Adobe에서는 자산 만료 및 스마트 캠페인 우선 순위 무시 를 3월에 주요 경험으로 도입할 예정입니다. [여기를 클릭하십시오.](https://nation.marketo.com/t5/the-modern-ux/marketo-sky-deprecation-notice/ba-p/320115#M33) 추가 정보
 
 * **양식 끝점 사용 중단**: leadCapture/save2 종단점에 대해 지원되지 않는 프로그래밍 방식 양식 POST가 Marketo Engage 양식에 의해 거부됩니다. [여기를 클릭하십시오.](https://nation.marketo.com/t5/product-documents/updated-october-2021-upcoming-changes-to-the-marketo-engage-form/ta-p/306631) 추가 정보
 

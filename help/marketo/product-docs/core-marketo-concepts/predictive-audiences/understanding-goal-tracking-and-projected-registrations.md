@@ -2,7 +2,7 @@
 description: 목표 추적 및 예상 등록 이해 - Marketo 문서 - 제품 설명서
 title: 목표 추적 및 예상 등록 이해
 exl-id: 110768f4-46ed-4951-96b2-a97813d7b257
-source-git-commit: c3a17d5d938c91103173999d27e8bc9e75137e29
+source-git-commit: 85e04fb8a52a417982014bc4bb101b6044e53f84
 workflow-type: tm+mt
 source-wordcount: '988'
 ht-degree: 0%
@@ -15,7 +15,7 @@ ht-degree: 0%
 
 >[!PREREQUISITES]
 >
->이러한 기능의 대부분을 액세스하려면 [다음 세대 전환](/help/marketo/product-docs/marketo-engage-next-generation-experience/toggle-switch.md)이벤트 프로그램에 대한 {target=&quot;_blank&quot;}.
+>이러한 기능의 대부분을 액세스하려면 [다음 세대 전환](/help/marketo/product-docs/marketo-engage-modern-ux/toggle-switch.md)이벤트 프로그램에 대한 {target=&quot;_blank&quot;}.
 
 >[!NOTE]
 >
@@ -59,14 +59,14 @@ ht-degree: 0%
 
 * 프로그램 유형
 * 프로그램 채널
-* 대상 크기
+* 대상자 크기
 * 프로그램 태그
 * 이벤트 생성에서 이벤트 시작까지의 시간
 * 이벤트 기간
 
    ![](assets/understanding-goal-tracking-and-projected-registrations-6.png)
 
-## Recommendations
+## 추천 항목
 
 보고서 페이지 상단에서 진행 상황을 기반으로 AI/ML 기반 권장 사항을 찾을 수 있습니다. 유용한 팁과 인사이트를 정기적으로 확인하십시오!
 

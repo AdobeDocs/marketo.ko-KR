@@ -3,9 +3,9 @@ audience: end-user
 user-guide-title: Marketo 안내서
 user-guide-description: Marketo 제품 설명서
 feature-set: Marketo Engage
-source-git-commit: 5f509a7aa27692e54bf129b94c657aff0f645f2b
+source-git-commit: 85e04fb8a52a417982014bc4bb101b6044e53f84
 workflow-type: tm+mt
-source-wordcount: '8811'
+source-wordcount: '8810'
 ht-degree: 0%
 
 ---
@@ -1064,11 +1064,11 @@ ht-degree: 0%
             + [경고 정보 토큰 보내기 사용](product-docs/email-marketing/general/using-tokens/use-the-send-alert-info-token.md)
             + [내 토큰에서 URL 사용](product-docs/email-marketing/general/using-tokens/using-urls-in-my-tokens.md)
          + [이메일 CC](product-docs/email-marketing/general/email-cc.md)
-   + Marketo Engage 차세대 경험 {#marketo-engage-next-generation-experience}
-      + [개요](product-docs/marketo-engage-next-generation-experience/overview.md)
-      + [아이콘 용어집](product-docs/marketo-engage-next-generation-experience/icon-glossary.md)
-      + [전역 검색 사용](product-docs/marketo-engage-next-generation-experience/using-the-global-search.md)
-      + [스위치 전환](product-docs/marketo-engage-next-generation-experience/toggle-switch.md)
+   + Marketo Engage 모던 UX {#marketo-engage-modern-ux}
+      + [개요](product-docs/marketo-engage-modern-ux/overview.md)
+      + [아이콘 용어집](product-docs/marketo-engage-modern-ux/icon-glossary.md)
+      + [전역 검색 사용](product-docs/marketo-engage-modern-ux/using-the-global-search.md)
+      + [스위치 전환](product-docs/marketo-engage-modern-ux/toggle-switch.md)
    + Marketo Sales Connect {#marketo-sales-connect}
       + 시작하기 {#getting-started}
          + [Sales Connect 개요](product-docs/marketo-sales-connect/getting-started/sales-connect-overview.md)

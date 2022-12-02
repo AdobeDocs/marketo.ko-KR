@@ -2,7 +2,7 @@
 description: 릴리스 노트 - 2022년 8월 - Marketo 문서 - 제품 설명서
 title: 릴리스 노트 - 2022년 8월
 exl-id: 7a224fa7-0aec-4d0d-9535-c35241a45654
-source-git-commit: d6d8674ef3357cef1b388a43baade1c57ed98e3e
+source-git-commit: 85e04fb8a52a417982014bc4bb101b6044e53f84
 workflow-type: tm+mt
 source-wordcount: '544'
 ht-degree: 0%
@@ -33,7 +33,7 @@ ht-degree: 0%
 
 * **이동 대화 상자에 대상 폴더의 폴더 계층 표시**: 각 폴더에 대한 폴더 계층 구조를 보면 자산을 쉽게 이동하고 잘못된 폴더에 넣을 가능성이 줄어듭니다.
 
-* **[차세대 경험에서 업데이트된 화면](/help/marketo/product-docs/marketo-engage-next-generation-experience/toggle-switch.md){target=&quot;_blank&quot;}**: 전환 스위치를 통해 액세스할 수 있는 업데이트된 디자인 및 유용성 개선 사항을 제공하는 차세대 환경에서 새로 고친 추가 화면을 제공하고 있습니다.
+* **[차세대 경험에서 업데이트된 화면](/help/marketo/product-docs/marketo-engage-modern-ux/toggle-switch.md){target=&quot;_blank&quot;}**: 전환 스위치를 통해 액세스할 수 있는 업데이트된 디자인 및 유용성 개선 사항을 제공하는 차세대 환경에서 새로 고친 추가 화면을 제공하고 있습니다.
 
    * 코드 조각 세부 사항
    * &quot;이미지 및 파일&quot; 세부 정보

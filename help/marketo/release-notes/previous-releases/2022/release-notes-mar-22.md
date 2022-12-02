@@ -2,7 +2,7 @@
 description: 릴리스 노트 - 2022년 3월 - Marketo 문서 - 제품 설명서
 title: 릴리스 노트 - 2022년 3월
 exl-id: 91826d56-a38e-44af-b798-17bfc016c311
-source-git-commit: beafa230f067972119f1a0eb170b1339d20d3842
+source-git-commit: 85e04fb8a52a417982014bc4bb101b6044e53f84
 workflow-type: tm+mt
 source-wordcount: '771'
 ht-degree: 0%
@@ -27,7 +27,7 @@ ht-degree: 0%
 
 * **이메일 보트 활동 필터링 개선 사항**: 이전에 릴리스된 [전자 메일 보트 활동 필터링](/help/marketo/product-docs/administration/email-setup/filtering-email-bot-activity.md)이제 {target=&quot;_blank&quot;} 기능을 사용하여 보트로 식별된 로깅 활동을 옵트인할 수 있습니다. 그런 다음 보트가 수행하는 것으로 식별되는 활동에 따라 작업을 필터링하고 트리거할 수 있습니다.
 
-## 차세대 경험 {#next-generation-experience}
+## 차세대 경험 {#modern-ux}
 
 * **차세대 경험에서 업데이트된 화면**: 전환 스위치를 통해 액세스할 수 있는 업데이트된 디자인 및 유용성 개선 사항을 제공하는 차세대 환경에서 새로 고친 추가 화면을 제공하고 있습니다.
 
@@ -73,7 +73,7 @@ ht-degree: 0%
 
 ## 공지 {#announcements}
 
-* **Marketo Sky 사용 중단**: 3월에는 차세대 사용자 경험을 제공하기 위해 리소스를 집중하므로 Marketo Sky을 더 이상 사용할 수 없습니다. 현재 Adobe에서는 Marketo Sky 전용인 기능에 대한 액세스 권한을 유지하기 위해 자산 만료 및 스마트 캠페인 우선 순위 무시 를 클래식 환경에 가져오고 있습니다. [여기를 클릭하십시오.](https://nation.marketo.com/t5/the-next-generation-experience/marketo-sky-deprecation-notice/ba-p/320115#M33) 추가 정보
+* **Marketo Sky 사용 중단**: 3월에는 차세대 사용자 경험을 제공하기 위해 리소스를 집중하므로 Marketo Sky을 더 이상 사용할 수 없습니다. 현재 Adobe에서는 Marketo Sky 전용인 기능에 대한 액세스 권한을 유지하기 위해 자산 만료 및 스마트 캠페인 우선 순위 무시 를 클래식 환경에 가져오고 있습니다. [여기를 클릭하십시오.](https://nation.marketo.com/t5/the-modern-ux/marketo-sky-deprecation-notice/ba-p/320115#M33) 추가 정보
 
 **_제품 릴리스 웨비나_**
 

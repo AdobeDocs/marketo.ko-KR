@@ -2,7 +2,7 @@
 description: 릴리스 노트 - 2021년 1월 - Marketo 문서 - 제품 설명서
 title: 릴리스 노트 - 2021년 1월
 exl-id: 24a5f955-ef4b-4adf-9478-2653db6f9d79
-source-git-commit: 74effe9f8078f8d71e6de01d6e737ddc86978abb
+source-git-commit: 85e04fb8a52a417982014bc4bb101b6044e53f84
 workflow-type: tm+mt
 source-wordcount: '1268'
 ht-degree: 0%
@@ -15,19 +15,19 @@ ht-degree: 0%
 
 >[!AVAILABILITY]
 >
->별(![(star)](assets/yellow-star.png))로 표시되는 기능은 유료 추가 기능입니다. 자세한 내용은 Marketo Engage 담당자에게 문의하십시오.
+>별로 표시된 기능(![(별)](assets/yellow-star.png))은 유료 추가 기능입니다. 자세한 내용은 Marketo Engage 담당자에게 문의하십시오.
 
 **_분기별 릴리스_**
 
-다음 기능은 **2021년 1월 15일에 릴리스됩니다**.
+다음 기능은 **2021년 1월 15일**.
 
 ## 차세대 사용자 경험 {#next-generation-user-experience}
 
-* 작업 공간 지원: Marketo Engage 차세대 사용자 경험은 Adobe Experience Cloud의 모양과 느낌과 생산성 혁신을 통해 마케팅 전문가가 보다 빠르고 스마트하게 작업할 수 있도록 해줍니다. 최신 릴리스에서는 작업 공간 간에 폴더를 공유하는 기능을 포함하여 작업 공간 및 파티션에 대한 모든 지원을 추가하고 있습니다. 오른쪽 캔버스는 전환 스위치를 제공하여 컨텍스트를 잃지 않고 기능별로 이전 경험과 새 경험 간에 원활하게 전환할 수 있습니다. [마케팅 국가](https://nation.marketo.com/t5/The-Next-Generation-Experience/Next-Generation-Experience-FAQ/ba-p/307124) 에 대한 차세대 경험 FAQ에서 자세히 알아보십시오.
+* 작업 공간 지원: Marketo Engage 차세대 사용자 경험은 Adobe Experience Cloud의 모양과 느낌과 생산성 혁신을 통해 마케팅 전문가가 보다 빠르고 스마트하게 작업할 수 있도록 해줍니다. 최신 릴리스에서는 작업 공간 간에 폴더를 공유하는 기능을 포함하여 작업 공간 및 파티션에 대한 모든 지원을 추가하고 있습니다. 오른쪽 캔버스는 전환 스위치를 제공하여 컨텍스트를 잃지 않고 기능별로 이전 경험과 새 경험 간에 원활하게 전환할 수 있습니다. [추가 정보](https://nation.marketo.com/t5/The-modern-ux/modern-ux-FAQ/ba-p/307124) 를 참조하십시오.
 
 ## 다중 채널 개인화 {#multi-channel-personalization}
 
-* **[Adobe Experience Cloud 대상 동기화 단계 3](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/static-lists/send-a-list-to-adobe-experience-cloud.md)**: 기존 Adobe Experience Cloud(AEC) Audience Sync 기능은 이제 실시간 고객 데이터 플랫폼 및 Adobe Experience Platform 활성화과 같은 Adobe Experience Platform(AEP) 오퍼링을 포함하여 Marketo Engage에서 다른 AEC 애플리케이션으로의 지속적인 양방향 B2B 대상 동기화를 지원합니다.  리드가 대상 세그먼트에 추가되고 제거되면 Marketo Engage은 연결된 AEC 앱에서 업데이트된 대상을 자동으로 동기화합니다. 이 기능을 사용하여 AEC 기술 스택에서 Adobe의 멀티채널 오케스트레이션, 재타깃팅, 대상 억제, 개인화 및 보고 사용 사례를 활용할 수 있습니다.
+* **[Adobe Experience Cloud 대상 동기화 3단계](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/static-lists/send-a-list-to-adobe-experience-cloud.md)**: 기존 Adobe Experience Cloud(AEC) Audience Sync 기능은 이제 Real-time Customer Data Platform 및 Adobe Experience Platform 활성화과 같은 Adobe Experience Platform(AEP) 오퍼링을 포함하여 Marketo Engage에서 다른 AEC 애플리케이션으로의 지속적인 양방향 B2B 대상 동기화를 지원합니다.  리드가 대상 세그먼트에 추가되고 제거되면 Marketo Engage은 연결된 AEC 앱에서 업데이트된 대상을 자동으로 동기화합니다. 이 기능을 사용하여 AEC 기술 스택에서 Adobe의 멀티채널 오케스트레이션, 재타깃팅, 대상 억제, 개인화 및 보고 사용 사례를 활용할 수 있습니다.
 * **[Google, Facebook 및 LinkedIn에 대한 지속적인 대상 동기화](/help/marketo/product-docs/demand-generation/ad-network-integrations/send-a-list-to-an-ad-network.md)**: 정적 목록에서 광고 네트워크와의 연속 자동 동기화를 사용할 수 있으며, 사용자 개입 없이 광고 네트워크를 목록 멤버십 변경 사항으로 업데이트할 수 있습니다.
 * **[프로그램 구성원 사용자 지정 필드에 대한 토큰](/help/marketo/product-docs/core-marketo-concepts/programs/tokens/program-member-custom-field-tokens.md)**: 토큰 프레임워크를 지원하기 위해 프로그램 구성원 사용자 지정 필드 기능을 확장했습니다. 마케터는 프로그램 구성원 사용자 지정 필드 토큰을 이메일, 랜딩 페이지, SMS 메시지, 푸시 알림 및 웹 후크에 삽입할 수 있습니다. 캠페인 흐름 작업의 새 토큰을 사용하여 데이터 값을 변경하거나, 작업을 만들거나, 흥미로운 순간을 만들 수 있습니다.
 
@@ -48,7 +48,7 @@ ht-degree: 0%
 
 ## 관리 {#administration}
 
-* **내 계정 페이지를 업데이트했습니다**. 내 계정 페이지에서 필수 구독 정보를 검토합니다. 모든 액세스 수준의 사용자는 구독 이름, 데이터 센터 식별자 및 Munchkin ID를 볼 수 있습니다.
+* **내 계정 페이지를 업데이트했습니다.**: 내 계정 페이지에서 필수 구독 정보를 검토합니다. 모든 액세스 수준의 사용자는 구독 이름, 데이터 센터 식별자 및 Munchkin ID를 볼 수 있습니다.
 
 **_분기 전체에 출시_**
 
@@ -60,9 +60,9 @@ ht-degree: 0%
 
 * **[향상된 테스트 이메일 워크플로우(Salesforce CRM)](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/features/actions-in-the-msi-panel/send-marketo-email/send-a-test-email.md)**: 향상된 Sales Insight 테스트 이메일 워크플로우를 통해 영업 팀의 효율성을 높일 수 있습니다. 판매자는 최대 200명의 수신자에게 벌크 이메일을 보내기 전에 선택한 이메일 주소로 테스트 이메일을 보낼 수 있습니다.
 * **[이메일 상태(Salesforce CRM)에 대한 통찰력](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/features/tabs-in-the-msi-panel/email-tab.md)**: 사용자는 이메일을 보내기 전에 잘못된 이메일 ID 또는 가입 해지된 이메일 주소로 이메일을 보내려고 하면 경고 메시지가 표시됩니다.  이메일 게재 상태는 Sales Insight의 이메일 탭에서 검토할 수 있습니다.
-* **Accountand OpportunityPanels( [](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/features/msi-feature-overview.md#account-layout) Salesforce CRM)에서  [](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/features/msi-feature-overview.md#opportunity-layout) 대량 전자 메일 전송**: 새로운 일괄 작업 기능을 사용하여 판매자 워크플로우의 효율성을 향상시키고 전체 계정 또는 영업 기회 연락처 목록을 통해 영업 기회 활용 개별 연락처를 사용하는 대신 계정 또는 기회 탭에서 새 드롭다운 옵션을 사용하여 Marketo Engage 캠페인에 이메일을 보내거나 연락처를 추가합니다. 리드가 업데이트될 때 알림을 받으려면 감시 목록에 계정 연락처를 추가하십시오.
+* **보낸 사람 대량 이메일 보내기 [계정](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/features/msi-feature-overview.md#account-layout) 및 [기회](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/features/msi-feature-overview.md#opportunity-layout) 패널(Salesforce CRM)**: 새로운 일괄 작업 기능을 사용하여 판매자 워크플로우의 효율성을 향상시키고 전체 계정 또는 영업 기회 연락처 목록을 통해 영업 기회 활용 개별 연락처를 사용하는 대신 계정 또는 기회 탭에서 새 드롭다운 옵션을 사용하여 Marketo Engage 캠페인에 이메일을 보내거나 연락처를 추가합니다. 리드가 업데이트될 때 알림을 받으려면 감시 목록에 계정 연락처를 추가하십시오.
 * **[비기본 Salesforce CRM 통합을 위한 Sales Insight](/help/marketo/product-docs/marketo-sales-insight/sales-insight-for-non-native-salesforce-integrations.md)**: 사용자 지정 Salesforce CRM 통합을 사용하는 GA 가입은 Sales Insight 패키지를 설치하고 영업 팀이 가장 유망한 리드 및 기회를 우선 순위화하고 상호 작용할 수 있도록 지원합니다.
-* **[최상의 개선 사항](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/features/marketo-tab/best-bets.md)**: Marketo Engage 캠페인에 이메일로 전송하거나 추가하여 최상의 선택 탭에서 잠재 고객에게 신속하게 문의하십시오. Marketo Engage에서 리드를 보거나 감시 목록에 추가합니다. 최상의 선택 탭에 있는 대량 작업 및 정렬 옵션을 사용하면 시간을 절약하고 영업 팀의 효율성을 향상시킬 수 있습니다.
+* **[최고의 개선 사항](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/features/marketo-tab/best-bets.md)**: Marketo Engage 캠페인에 이메일로 전송하거나 추가하여 최상의 선택 탭에서 잠재 고객에게 신속하게 문의하십시오. Marketo Engage에서 리드를 보거나 감시 목록에 추가합니다. 최상의 선택 탭에 있는 대량 작업 및 정렬 옵션을 사용하면 시간을 절약하고 영업 팀의 효율성을 향상시킬 수 있습니다.
 
 ## 영업 연결 {#sales-connect}
 
@@ -76,10 +76,10 @@ ht-degree: 0%
 
 **_공지 및 사용 중단_**
 
-* 모든 사용자는 2021년 1월 15일 전에 최신 버전의 Sales Insight **로 업그레이드해야 합니다**. 업그레이드를 완료하지 않은 경우 애플리케이션에 로그인하면 업그레이드를 완료하라는 메시지가 표시됩니다. 이 안내서](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/upgrading/upgrading-your-msi-package.md)의 [지침을 따르십시오. 업데이트된 버전에는 식별된 보안 취약성에 대한 패치가 포함되어 있습니다. 이 패치는 원래 2016년 4월 6일에 릴리스되었습니다. 참고: **버전 1.4363 이상**&#x200B;은 업그레이드를 수행할 필요가 없습니다.
-* 양식 1.0 서비스 중단은 **2021년 5월** 릴리스에서 적용됩니다. Forms 1.0 서비스는 더 이상 사용되지 않으며, 따라서 아직 사용 중인 모든 Forms 1.0 자산의 기능이 손실됩니다. 또한 leadCapture/save 및 leadCapture/save2 종단점에 대한 프로그래밍 양식 POST와 같이 지원되지 않는 방법을 통해 양식 제출이 거부됩니다. 자세한 내용 및 수정은 마케팅 국가의 [당사의 게시물](https://nation.marketo.com/t5/Product-Documents/Upcoming-Changes-to-the-Marketo-Engage-Form-Platform/ta-p/306631)을 참조하십시오.
-* 2021년에 Marketo Engage은 랜딩 페이지, 양식, 이미지 및 파일 자산에 대한 URL 구조를 변경할 예정입니다. 기존 Marketo Engage 가입의 경우 2021년 4월 1일에 점진적 롤아웃을 시작할 예정입니다. 롤아웃 타임라인에 대한 자세한 내용은 2021년 3월에 릴리스됩니다. 영향을 받는 각 자산 유형이 변경되는 방법에 대한 자세한 내용은 마케팅 국가의 [당사의 게시물](https://nation.marketo.com/t5/Product-Documents/Upcoming-Changes-to-Design-Studio-URLs/ta-p/306632)을 참조하십시오.
+* 모든 사용자는 최신 버전의 Sales Insight로 업그레이드해야 합니다 **2021년 1월 15일 이전**. 업그레이드를 완료하지 않은 경우 애플리케이션에 로그인하면 업그레이드를 완료하라는 메시지가 표시됩니다. 다음 지침을 따르십시오 [이 안내서에서](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/upgrading/upgrading-your-msi-package.md). 업데이트된 버전에는 식별된 보안 취약성에 대한 패치가 포함되어 있습니다. 이 패치는 원래 2016년 4월 6일에 릴리스되었습니다. 참고: **버전 1.4363 이상** 업그레이드를 수행할 필요가 없습니다.
+* 양식 1.0 서비스 사용 중단은 **2021년 5월** 릴리스 . Forms 1.0 서비스는 더 이상 사용되지 않으며, 따라서 아직 사용 중인 모든 Forms 1.0 자산의 기능이 손실됩니다. 또한 leadCapture/save 및 leadCapture/save2 종단점에 대한 프로그래밍 양식 POST와 같이 지원되지 않는 방법을 통해 양식 제출이 거부됩니다. 자세한 내용 및 수정은 [마케팅 국가의 adobe 게시물](https://nation.marketo.com/t5/Product-Documents/Upcoming-Changes-to-the-Marketo-Engage-Form-Platform/ta-p/306631).
+* 2021년에 Marketo Engage은 랜딩 페이지, 양식, 이미지 및 파일 자산에 대한 URL 구조를 변경할 예정입니다. 기존 Marketo Engage 가입의 경우 2021년 4월 1일에 점진적 롤아웃을 시작할 예정입니다. 롤아웃 타임라인에 대한 자세한 내용은 2021년 3월에 릴리스됩니다. 영향을 받는 각 자산 유형이 변경되는 방법에 대한 자세한 내용은 [마케팅 국가의 adobe 게시물](https://nation.marketo.com/t5/Product-Documents/Upcoming-Changes-to-Design-Studio-URLs/ta-p/306632).
 
 **_제품 릴리스 웨비나_**
 
-이러한 기능 및 개선 사항에 대해 자세히 알고 싶으십니까? [지금 등록](https://engage.marketo.com/January_21_Release_Webinar_Registration.html)하여 1월 21일 오후 1시 PT / 오후 4시 ET에 참가하여 제품 팀과 함께 이러한 혁신적인 기능을 자세히 살펴보십시오.
+이러한 기능 및 개선 사항에 대해 자세히 알고 싶으십니까? 반드시 다음을 수행하십시오 [지금 등록](https://engage.marketo.com/January_21_Release_Webinar_Registration.html) 1월 21일 오후 1시 PT / 오후 4시 ET에 참가하여 제품 팀과 함께 이러한 혁신적인 기능을 자세히 살펴보십시오.
