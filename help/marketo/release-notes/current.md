@@ -2,7 +2,7 @@
 description: 현재 릴리스 노트 - Marketo 문서 - 제품 설명서
 title: 현재 릴리스 노트
 exl-id: a2eccad5-73ad-48f9-8091-51cee23824e1
-source-git-commit: 9d729864f8e5ea4efbab1b827778a1ff608e7296
+source-git-commit: 7048b87084fcc5be7336ad8146f07c891ec70826
 workflow-type: tm+mt
 source-wordcount: '628'
 ht-degree: 3%
@@ -53,7 +53,7 @@ ht-degree: 3%
   </tbody>
 </table>
 
-### 차세대 경험 {#next-generation-experience}
+### 차세대 경험 {#modern-ux}
 
 </br>
 
@@ -69,7 +69,7 @@ ht-degree: 3%
   </tr>
   <tr> 
    <td>배송됨</td>
-   <td><a href="/help/marketo/product-docs/marketo-engage-next-generation-experience/toggle-switch.md">스위치 전환</a></td>
+   <td><a href="/help/marketo/product-docs/marketo-engage-modern-ux/toggle-switch.md">스위치 전환</a></td>
   </tr>
   </tbody>
 </table>
@@ -205,3 +205,4 @@ ht-degree: 3%
 * **Forms 1.0**: Forms 1.0의 사용 중단은 10월 릴리스와 함께 완료됩니다. Forms 1.0 자산은 더 이상 Marketo Engage에 데이터를 제출할 수 없으며, 시도하는 경우 오류를 반환합니다.
 
 * **No-Script Forms**: 브라우저에서 Javascript가 비활성화되면 Forms이 더 이상 작동하지 않습니다. 양식 제출 시 Javascript를 활성화해야 합니다.
+
