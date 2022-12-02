@@ -2,7 +2,7 @@
 description: 전환 스위치 - Marketo 문서 - 제품 설명서
 title: 스위치 전환
 exl-id: bb519314-bddf-4184-8585-22ed1fe85f9a
-source-git-commit: 85e04fb8a52a417982014bc4bb101b6044e53f84
+source-git-commit: 3f3846fbb3b7e279e8eb2350f5d493fbb1da6304
 workflow-type: tm+mt
 source-wordcount: '268'
 ht-degree: 0%
@@ -11,7 +11,7 @@ ht-degree: 0%
 
 # 스위치 전환 {#toggle-switch}
 
-전환 스위치를 사용하면 Marketo의 클래식 인터페이스와 차세대 Marketo Engage 경험 간에 전환할 수 있습니다. 이 기능은 아래에 강조 표시된 모든 영역에서 사용할 수 있습니다.
+전환 스위치를 사용하면 Marketo의 클래식 인터페이스와 최신 UX 간을 전환할 수 있습니다. 이 기능은 아래에 강조 표시된 모든 영역에서 사용할 수 있습니다.
 
 >[!NOTE]
 >
@@ -35,7 +35,7 @@ ht-degree: 0%
 
 ## 기능 활성화 {#enable-for-features}
 
-개별 기능에 대해 Marketo의 차세대 인터페이스를 수동으로 활성화하는 옵션이 있거나, 사용 가능한 모든 기능(현재 및 제공 예정)을 활성화할 수 있습니다.
+개별 기능 또는 사용 가능한 모든 기능(현재 및 제공 예정)에 대해 Marketo Engage Modern UX를 수동으로 활성화할 수 있습니다.
 
 현재 전환 스위치가 있는 영역(이 예에서는 이메일 목록 보기)에서 페이지의 오른쪽 하단에 있는 토글을 클릭하면 됩니다.
 
@@ -55,7 +55,7 @@ ht-degree: 0%
 
 ## 사용 가능한 기능 {#available-features}
 
-현재 Marketo의 차세대 인터페이스에서 다음 기능을 사용할 수 있습니다(각 릴리스에 새로운 기능이 추가됨).
+현재 Modern UX에서 다음 기능을 사용할 수 있습니다(각 릴리스에 새로운 기능이 추가됨).
 
 * 전자 메일 세부 사항 보기
 * 전자 메일 목록 보기
