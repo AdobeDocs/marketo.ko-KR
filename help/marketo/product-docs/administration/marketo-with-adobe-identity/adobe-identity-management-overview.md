@@ -2,9 +2,9 @@
 description: Adobe Identity Management 개요 - Marketo 문서 - 제품 설명서
 title: Adobe Identity Management 개요
 exl-id: 18ddeebc-bc89-411c-9d2c-23df6841cb3a
-source-git-commit: d26428137e9b99d04fef67a3b21b74d150f693e7
+source-git-commit: 034e3a9a1e2e7feec749afe981aaaf804a4bcddc
 workflow-type: tm+mt
-source-wordcount: '1065'
+source-wordcount: '1068'
 ht-degree: 0%
 
 ---
@@ -13,7 +13,7 @@ ht-degree: 0%
 
 2022년 2월 15일 현재 Adobe Marketo Engage(기존 계정의 새 인스턴스뿐만 아니라 새 계정)에 새로운 계정이 있는 경우, 구입한 제품 패키지에 따라 Adobe Identity Management 시스템과 통합될 수 있습니다. 보유하고 있는지 확인하려면 Marketo 관리자 또는 계정의 고객 성공 관리자에게 문의하십시오.
 
-기존 Marketo 가입은 올해 말부터 Adobe Identity Management 시스템으로 마이그레이션됩니다.
+기존 Marketo 가입은 2023년 하반기에 Adobe Identity Management 시스템으로 마이그레이션되기 시작합니다.
 
 >[!NOTE]
 >
