@@ -4,7 +4,7 @@ title: Marketo Forms에서 CAPTCHA 활성화
 exl-id: d83fc2d3-7ae4-4927-9a09-ea6995013b6f
 source-git-commit: 04d6f37f924d14824c69f2c0caba3ef21ff0a124
 workflow-type: tm+mt
-source-wordcount: '0'
+source-wordcount: '103'
 ht-degree: 0%
 
 ---
@@ -41,7 +41,7 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->Google의 개인 정보 보호 정책 및 서비스 약관에 대한 링크를 포함하는 표준화된 텍스트가 CAPTCHA 지원 양식에 추가됩니다.
+>Google의 개인정보 처리방침 및 서비스 약관에 대한 링크를 포함하는 표준화된 텍스트가 CAPTCHA 지원 양식에 추가됩니다.
 
 >[!MORELIKETHIS]
 >
