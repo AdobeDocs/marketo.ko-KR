@@ -3,9 +3,9 @@ unique-page-id: 2953384
 description: 사용자 지정 엔티티에 대한 동기화 활성화 - Marketo 문서 - 제품 설명서
 title: 사용자 지정 엔터티에 대한 동기화 활성화
 exl-id: 4b075bf3-f10b-4725-8c8e-a6ecee63d756
-source-git-commit: dadaf5bd8e887309d0e9ee8fc25fc58d1c4fbe97
+source-git-commit: 79cfb0396f690a370cdce4e4df3a23c7439c252e
 workflow-type: tm+mt
-source-wordcount: '204'
+source-wordcount: '224'
 ht-degree: 0%
 
 ---
@@ -23,6 +23,10 @@ Marketo에서 사용할 수 있도록 Dynamics의 사용자 지정 엔티티 데
 >* 사용자 지정 엔티티에 대한 동기화를 활성화하면 Marketo에서는 초기 동기화를 수행하여 사용자 지정 개체의 모든 데이터를 가져옵니다.
 >* 마케팅 목록 및 마케팅 목록 구성원은 다음과 같습니다. **지원되지 않음** 현재
 
+
+>[!IMPORTANT]
+>
+>Marketo 동기화 사용자는 사용자 지정 개체를 나열하고 동기화를 수행하려면 사용자 지정 개체에 대한 읽기 액세스 권한이 필요합니다.
 
 1. 로 이동합니다. **관리** 섹션을 참조하십시오.
 
