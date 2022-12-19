@@ -3,9 +3,9 @@ audience: end-user
 user-guide-title: Marketo 안내서
 user-guide-description: Marketo 제품 설명서
 feature-set: Marketo Engage
-source-git-commit: 85e04fb8a52a417982014bc4bb101b6044e53f84
+source-git-commit: 71f221ea74a5589470c0d911a8e29ba9754a34d3
 workflow-type: tm+mt
-source-wordcount: '8810'
+source-wordcount: '8812'
 ht-degree: 0%
 
 ---
@@ -908,7 +908,7 @@ ht-degree: 0%
          + 소셜 함수 {#social-functions}
             + [랜딩 페이지에서 소셜 단추 추가](product-docs/demand-generation/social/social-functions/add-a-social-button-on-a-landing-page.md)
             + [비디오 추가](product-docs/demand-generation/social/social-functions/add-a-video.md)
-            + [소셜 앱에 개인 정보 정책 추가](product-docs/demand-generation/social/social-functions/add-your-privacy-policy-to-a-social-app.md)
+            + [소셜 앱에 개인정보 처리방침 추가](product-docs/demand-generation/social/social-functions/add-your-privacy-policy-to-a-social-app.md)
             + [소셜 앱에 대한 공유 URL 을 선택합니다](product-docs/demand-generation/social/social-functions/choose-the-share-url-for-a-social-app.md)
             + [사용자 지정 이벤트에 대한 전환 스크립트](product-docs/demand-generation/social/social-functions/conversion-script-for-custom-events.md)
             + [웹 사이트에 Social 배포](product-docs/demand-generation/social/social-functions/deploy-social-on-your-website.md)
@@ -1869,46 +1869,47 @@ ht-degree: 0%
 + 릴리스 노트 {#release-notes}
    + [릴리스 일정](release-notes/release-schedule.md)
    + [현재 릴리스](release-notes/current.md)
+   + [현재 릴리스](release-notes/temp.md)
    + 이전 릴리스 {#previous-releases}
-      + 2022년 {#2022}
+      + 2022 {#2022}
          + [릴리스 노트: 2022년 1월](release-notes/previous-releases/2022/release-notes-jan-22.md)
          + [릴리스 노트: 2022년 3월](release-notes/previous-releases/2022/release-notes-mar-22.md)
          + [릴리스 노트: 2022년 5월](release-notes/previous-releases/2022/release-notes-may-22.md)
          + [릴리스 노트: 2022년 6월](release-notes/previous-releases/2022/release-notes-june-22.md)
          + [릴리스 노트: 2022년 8월](release-notes/previous-releases/2022/release-notes-aug-22.md)
-      + 2021년 {#2021}
+      + 2021 {#2021}
          + [릴리스 노트: 2021년 1월](release-notes/previous-releases/2021/release-notes-jan-21.md)
          + [릴리스 노트: 2021년 5월](release-notes/previous-releases/2021/release-notes-may-21.md)
          + [릴리스 노트: 2021년 8월](release-notes/previous-releases/2021/release-notes-aug-21.md)
          + [릴리스 노트: 2021년 10월](release-notes/previous-releases/2021/release-notes-oct-21.md)
-      + 2020년 {#2020}
+      + 2020 {#2020}
          + [릴리스 노트: 2020년 1월](release-notes/previous-releases/2020/release-notes-jan-20.md)
          + [릴리스 노트: 2월 20일](release-notes/previous-releases/2020/release-notes-feb-20.md)
          + [릴리스 노트: 2020년 6월](release-notes/previous-releases/2020/release-notes-june-20.md)
          + [릴리스 노트: 2020년 7월](release-notes/previous-releases/2020/release-notes-july-20.md)
          + [릴리스 노트: 10월 20일](release-notes/previous-releases/2020/release-notes-oct-20.md)
-      + 2019년 {#2019}
+      + 2019 {#2019}
          + [릴리스 노트: 19월 8일](release-notes/previous-releases/2019/release-notes-august-19.md)
          + [릴리스 노트: 1919년 6월](release-notes/previous-releases/2019/release-notes-june-19.md)
          + [릴리스 노트: 19년 봄](release-notes/previous-releases/2019/release-notes-spring-19.md)
          + [릴리스 노트: 19년 겨울](release-notes/previous-releases/2019/release-notes-winter-19.md)
-      + 2018년 {#2018}
+      + 2018 {#2018}
          + [릴리스 노트: 18년 가을](release-notes/previous-releases/2018/release-notes-fall-18.md)
          + [릴리스 노트: 18년 봄](release-notes/previous-releases/2018/release-notes-spring-18.md)
          + [릴리스 노트: 18년 겨울](release-notes/previous-releases/2018/release-notes-winter-18.md)
-      + 2017년 {#2017}
+      + 2017 {#2017}
          + [릴리스 노트: 2017년 4월 ABM 개선 사항](release-notes/previous-releases/2017/release-notes-april-17-abm-enhancements.md)
          + [릴리스 노트: 2017년 8월 ABM 개선 사항](release-notes/previous-releases/2017/release-notes-august-17-abm-enhancements.md)
          + [릴리스 노트: 17년 가을](release-notes/previous-releases/2017/release-notes-fall-17.md)
          + [릴리스 노트: 17년 봄](release-notes/previous-releases/2017/release-notes-spring-17.md)
          + [릴리스 노트: 17년 여름](release-notes/previous-releases/2017/release-notes-summer-17.md)
          + [릴리스 노트: 17년 겨울](release-notes/previous-releases/2017/release-notes-winter-17.md)
-      + 2016년 {#2016}
+      + 2016 {#2016}
          + [릴리스 노트: 16년 가을](release-notes/previous-releases/2016/release-notes-fall-16.md)
          + [릴리스 노트: 16년 봄](release-notes/previous-releases/2016/release-notes-spring-16.md)
          + [릴리스 노트: 16년 여름](release-notes/previous-releases/2016/release-notes-summer-16.md)
          + [릴리스 노트: 16년 겨울](release-notes/previous-releases/2016/release-notes-winter-16.md)
-      + 2015년 {#2015}
+      + 2015 {#2015}
          + [릴리스 노트: 2015년 4월](release-notes/previous-releases/2015/release-notes-april-2015.md)
          + [릴리스 노트: 15년 가을](release-notes/previous-releases/2015/release-notes-fall-15.md)
          + [릴리스 노트: 2015년 2월](release-notes/previous-releases/2015/release-notes-february-2015.md)
@@ -1917,7 +1918,7 @@ ht-degree: 0%
          + [릴리스 노트: 2015년 6월](release-notes/previous-releases/2015/release-notes-june-2015.md)
          + [릴리스 노트: 2015년 3월](release-notes/previous-releases/2015/release-notes-march-2015.md)
          + [릴리스 노트: 2015년 5월](release-notes/previous-releases/2015/release-notes-may-2015.md)
-      + 2014년 {#2014}
+      + 2014 {#2014}
          + [릴리스 노트: 2014년 8월](release-notes/previous-releases/2014/release-notes-august-2014.md)
          + [릴리스 노트: 2014년 12월](release-notes/previous-releases/2014/release-notes-december-2014.md)
          + [릴리스 노트: 2014년 2월](release-notes/previous-releases/2014/release-notes-february-2014.md)
@@ -1927,7 +1928,7 @@ ht-degree: 0%
          + [릴리스 노트: 2014년 3월](release-notes/previous-releases/2014/release-notes-march-2014.md)
          + [릴리스 노트: 2014년 5월](release-notes/previous-releases/2014/release-notes-may-2014.md)
          + [릴리스 노트: 2014년 10월 일](release-notes/previous-releases/2014/release-notes-october-2014.md)
-      + 2013년 {#2013}
+      + 2013 {#2013}
          + [릴리스 노트: 2013년 4월](release-notes/previous-releases/2013/release-notes-april-2013.md)
          + [릴리스 노트: 2013년 8월](release-notes/previous-releases/2013/release-notes-august-2013.md)
          + [릴리스 노트: 2013년 12월](release-notes/previous-releases/2013/release-notes-december-2013.md)
@@ -1939,7 +1940,7 @@ ht-degree: 0%
          + [릴리스 노트: 2013년 5월](release-notes/previous-releases/2013/release-notes-may-2013.md)
          + [릴리스 노트: 2013년 10월 일](release-notes/previous-releases/2013/release-notes-october-2013.md)
          + [릴리스 노트: 2013년 9월](release-notes/previous-releases/2013/release-notes-september-2013.md)
-      + 2012년 {#2012}
+      + 2012 {#2012}
          + [릴리스 노트: 2012년 4월](release-notes/previous-releases/2012/release-notes-april-2012.md)
          + [릴리스 노트: 2012년 12월](release-notes/previous-releases/2012/release-notes-december-2012.md)
          + [릴리스 노트: 2012년 1월/2월](release-notes/previous-releases/2012/release-notes-jan-feb-2012.md)
@@ -1948,5 +1949,5 @@ ht-degree: 0%
          + [릴리스 노트: 2012년 5월](release-notes/previous-releases/2012/release-notes-may-2012.md)
          + [릴리스 노트: 2012년 10월 일](release-notes/previous-releases/2012/release-notes-october-2012.md)
          + [릴리스 노트: 2012년 9월](release-notes/previous-releases/2012/release-notes-september-2012.md)
-      + [2010년-2011년](release-notes/previous-releases/2010-2011.md)
-      + [2007년-2009년](release-notes/previous-releases/2007-2009.md)
+      + [2010-2011](release-notes/previous-releases/2010-2011.md)
+      + [2007-2009](release-notes/previous-releases/2007-2009.md)
