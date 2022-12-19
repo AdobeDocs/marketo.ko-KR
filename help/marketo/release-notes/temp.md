@@ -3,10 +3,10 @@ description: Temp - Marketo 문서 - 제품 설명서
 title: 임시
 hide: true
 hidefromtoc: true
-source-git-commit: 71f221ea74a5589470c0d911a8e29ba9754a34d3
+source-git-commit: 506b4d26cfceffe5e30b55d2dffe497640c1ba2c
 workflow-type: tm+mt
-source-wordcount: '555'
-ht-degree: 12%
+source-wordcount: '523'
+ht-degree: 13%
 
 ---
 
@@ -71,14 +71,11 @@ ht-degree: 12%
   </tbody>
 </table>
 
-### 차세대 경험 {#modern-ux}
+### 제목 {#title}
 
 </br>
 
-* **최신 UX의 업데이트된 화면**: 전환 스위치를 통해 액세스할 수 있는 업데이트된 디자인 및 유용성 개선 사항을 제공하는 차세대 환경에서 새로 고친 추가 화면을 제공하고 있습니다.
-
-   * 랜딩 페이지 템플릿 세부 정보
-   * 전자 메일 템플릿 목록
+* **제목**: 설명
 
 <table> 
   <tr> 
