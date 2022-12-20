@@ -1,11 +1,11 @@
 ---
-description: 현재 릴리스 노트 - Marketo 문서 - 제품 설명서
+description: 현재 릴리스 정보 - Marketo 설명서 - 제품 설명서
 title: 현재 릴리스 노트
 exl-id: a2eccad5-73ad-48f9-8091-51cee23824e1
-source-git-commit: 39eb451117a5f165ceccc0435db77aa22f1bfdcd
+source-git-commit: 4d79b7d40b2ec1defbb6f07333e2a5e96c4e5186
 workflow-type: tm+mt
-source-wordcount: '616'
-ht-degree: 8%
+source-wordcount: '618'
+ht-degree: 10%
 
 ---
 
@@ -113,6 +113,10 @@ ht-degree: 8%
 ## Agile 릴리스 기능
 
 다음 기능은 Agile 형식을 따르며 표준 릴리스 날짜 이전 또는 이후 다양한 날짜에 릴리스됩니다. 각 기능 아래에서 해당 상태를 확인하십시오.
+
+### 다이내믹 채팅 {#dynamic-chat}
+
+</br>
 
 * **Dynamic Chat용 정보 캡처 카드의 선택 목록 정의**: 데이터 청결을 보장하기 위해 정보 캡처 카드에 대한 선택기 목록을 정의할 수 있으므로 방문자는 사전 정의된 옵션 목록에서만 선택할 수 있습니다.
 
