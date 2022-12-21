@@ -3,16 +3,22 @@ unique-page-id: 2953188
 description: 추론된 필터 - Marketo 문서 - 제품 설명서
 title: 유추 필터
 exl-id: 6db4ff4d-7fab-4722-94b1-1bf92ba4651d
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+source-git-commit: c045e9008bf0e9d145ac67866a1e0d7cb6e26069
 workflow-type: tm+mt
-source-wordcount: '143'
+source-wordcount: '211'
 ht-degree: 0%
 
 ---
 
 # 유추 필터 {#inferred-filters}
 
-누군가 여러분의 웹 사이트를 방문하면, [Munchkin](/help/marketo/product-docs/administration/additional-integrations/add-munchkin-tracking-code-to-your-website.md) 쿠키로 구워서 시스템에 넣습니다. 특수 데이터베이스에서 IP를 조회하고 모든 종류의 좋은 정보를 추론합니다. 확인해 보세요
+누군가 여러분의 웹 사이트를 방문하면, [Munchkin](/help/marketo/product-docs/administration/additional-integrations/add-munchkin-tracking-code-to-your-website.md) 쿠키로 구워서 시스템에 넣습니다. 특수 데이터베이스에서 IP를 조회하고 모든 종류의 좋은 정보를 추론합니다.
+
+>[!NOTE]
+>
+>추론된 필드 값이 최신 상태로 유지되도록 하기 위해 IP 주소 조회에 사용되는 데이터베이스를 정기적으로 업데이트합니다. 데이터베이스 업데이트에서는 스마트 목록 필터 정의에 추가해야 할 수 있는 새로운 유추 필드 값을 도입할 수 있습니다.
+>
+>데이터베이스 업데이트는 [Marketo Engage 제품 릴리스](/help/marketo/release-notes/release-schedule.md){target=&quot;_blank&quot;}. 업데이트가 발생하면 [Marketo Engage 릴리스 노트](/help/marketo/release-notes/current.md){target=&quot;_blank&quot;}에는 추론된 필드 값에 대한 변경 내용이 포함됩니다.
 
 ![](assets/image2015-4-27-13-3a25-3a46.png)
 
