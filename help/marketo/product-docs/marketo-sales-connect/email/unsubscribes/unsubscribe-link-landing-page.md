@@ -1,19 +1,18 @@
 ---
 unique-page-id: 14746176
-description: 링크 랜딩 페이지 가입 해지 - 마케팅 문서 - 제품 설명서
-title: 가입 해지 링크 랜딩 페이지
-translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+description: 링크 랜딩 페이지 구독 취소 - Marketo 문서 - 제품 설명서
+title: 링크 랜딩 페이지 구독 취소
+exl-id: 1ef22db5-56ca-47fb-894b-ef94ec4527ac
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '58'
 ht-degree: 0%
 
 ---
 
+# 링크 랜딩 페이지 구독 취소 {#unsubscribe-link-landing-page}
 
-# 구독 취소 링크 랜딩 페이지 {#unsubscribe-link-landing-page}
-
-사용자가 구독 취소 링크를 클릭하면 구독 취소 랜딩 페이지로 이동하며 구독 취소할 페이지와 그 이유를 선택할 수 있습니다.
+사용자가 가입 해지 링크를 클릭하면 가입 해지 랜딩 페이지로 이동되며, 여기에서 가입 해지할 사항과 그 이유를 선택할 수 있습니다.
 
 ![](assets/1.jpg)
 

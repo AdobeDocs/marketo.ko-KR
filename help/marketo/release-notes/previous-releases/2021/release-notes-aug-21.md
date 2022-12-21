@@ -55,7 +55,7 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->이제 Beta에서 전자 메일 제한을 사용할 수 있습니다. [추가 정보](/help/marketo/product-docs/marketo-sales-connect/email/email-delivery/email-connection-throttling.md).
+>이제 Beta에서 전자 메일 제한을 사용할 수 있습니다. [자세히 알아보기](/help/marketo/product-docs/marketo-sales-connect/email/email-delivery/email-connection-throttling.md).
 
 * **Enhanced Sales Activity Insights**: 영업 팀의 이전 활동을 기반으로 개인화된 참여를 캡처하고 활성화할 수 있습니다. Sales Call Recording Link, Sales Campaign Name 및 Sales Email Subject 와 같은 새로운 속성은 Marketo Engage 스마트 목록에서 사용할 수 있습니다.  이러한 활동은 Marketo Engage REST API 또는 벌크 내보내기를 통해 내보내거나 보고할 수 있으며, 스마트 목록에 대한 추가 제한으로 필터 및 트리거에서 사용할 수 있습니다.
 

@@ -12,7 +12,7 @@ ht-degree: 0%
 
 # 릴리스 노트: 2014년 1월 {#release-notes-january}
 
-다음 기능은 2014년 1월 릴리스에 포함되어 있습니다. [Marketo Edition](https://www.marketo.com/pricing/)에서 기능을 사용할 수 있는지 확인하십시오.
+다음 기능은 2014년 1월 릴리스에 포함되어 있습니다. 다음 사항을 확인하십시오. [Marketo 에디션](https://www.marketo.com/pricing/) 기능을 사용할 수 있습니다.
 
 ## Forms 2.0 {#forms}
 
@@ -40,12 +40,12 @@ Marketo 랜딩 페이지에 배치된 양식에서 html 코드를 iFrame에 놓�
 
 ## 이메일 프로그램에 대한 통신 제한 {#communication-limits-for-email-program}
 
-[전자 메일 프로그램](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/enable-disable-communication-limits-in-an-email-program.md) 에 통신 제한 을 설정하여 데이터베이스에 지나치게 통신할 수 없도록 합니다. 정의된 제한을 초과하는 사람은 이메일을 받지 않습니다.
+[전자 메일 프로그램에 통신 제한 설정](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/enable-disable-communication-limits-in-an-email-program.md) 데이터베이스에 대해 과통신하지 않도록 합니다. 정의된 제한을 초과하는 사람은 이메일을 받지 않습니다.
 
 ![](assets/image2014-9-22-10-3a38-3a31.png)
 
 ## 프로그램 멤버십 분석의 추가 필드 {#additional-fields-in-program-membership-analysis}
 
-이제 리드 및 회사 특성별로 [프로그램 멤버십 분석](/help/marketo/product-docs/reporting/revenue-cycle-analytics/program-analytics/build-a-program-membership-analysis-report-that-lists-leads.md) 지표를 추가하고 그룹화할 수 있습니다. 예를 들어 산업 필드를 추가하여 프로그램 구성원 분할과 성공 사례를 볼 수 있습니다.
+이제 다음을 추가 및 그룹화할 수 있습니다 [프로그램 멤버십 분석](/help/marketo/product-docs/reporting/revenue-cycle-analytics/program-analytics/build-a-program-membership-analysis-report-that-lists-leads.md) 리드 및 회사 특성별 지표. 예를 들어 산업 필드를 추가하여 프로그램 구성원 분할과 성공 사례를 볼 수 있습니다.
 
 ![](assets/image2014-9-22-10-3a39-3a1.png)

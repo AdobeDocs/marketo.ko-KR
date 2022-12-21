@@ -5,7 +5,7 @@ title: 프로그램 구성원 사용자 지정 필드 토큰
 exl-id: 3046dec8-b885-4b08-baa9-896bcf3594b2
 source-git-commit: 30f56d93dfd5a600ef3ea75d352ede12c6104940
 workflow-type: tm+mt
-source-wordcount: '437'
+source-wordcount: '435'
 ht-degree: 0%
 
 ---
@@ -18,7 +18,7 @@ ht-degree: 0%
 
 PMCF 토큰은 토큰 제품군의 구성원 도메인에서 지원됩니다.
 
-멤버 토큰은 프로그램 구성원 범위 아래의 필드에 사용됩니다. 현재 상태에서도 멤버 토큰은 통합 서비스 파트너의 고유 값을 삽입하는 데에도 사용됩니다. `{{member.webinar url}}` 토큰은 서비스 공급자가 생성한 개인의 고유 확인 URL을 자동으로 확인합니다. {{member.registration code}}이(가) 서비스 공급자가 제공하는 등록 코드로 확인됩니다.
+멤버 토큰은 프로그램 구성원 범위 아래의 필드에 사용됩니다. 현재 상태에서도 멤버 토큰은 통합 서비스 파트너의 고유 값을 삽입하는 데에도 사용됩니다. `{{member.webinar url}}` 토큰은 서비스 공급자가 생성한 개인의 고유 확인 URL을 자동으로 확인합니다. {{member.registration code}} 서비스 공급자가 제공하는 등록 코드로 확인됩니다.
 
 >[!NOTE]
 >
@@ -33,7 +33,7 @@ PMCF 토큰은 토큰 제품군의 구성원 도메인에서 지원됩니다.
 
 **이메일**
 
-1. 원하는 이메일을 선택하고 **초안 편집**&#x200B;을 클릭합니다.
+1. 원하는 이메일을 선택하고 을(를) 클릭합니다 **초안 편집**.
 
    ![](assets/program-member-custom-field-tokens-1.png)
 
@@ -41,11 +41,11 @@ PMCF 토큰은 토큰 제품군의 구성원 도메인에서 지원됩니다.
 
    ![](assets/program-member-custom-field-tokens-2.png)
 
-1. 원하는 프로그램 멤버 사용자 정의 필드 토큰을 찾아 선택하고 기본값을 입력한 다음 **삽입**&#x200B;을 클릭합니다.
+1. 원하는 프로그램 멤버 사용자 정의 필드 토큰을 찾아 선택하고 기본값을 입력한 다음 **삽입**.
 
    ![](assets/program-member-custom-field-tokens-3.png)
 
-1. **저장**&#x200B;을 클릭합니다.
+1. 클릭 **저장**.
 
    ![](assets/program-member-custom-field-tokens-4.png)
 
@@ -55,7 +55,7 @@ PMCF 토큰은 토큰 제품군의 구성원 도메인에서 지원됩니다.
 
 **랜딩 페이지**
 
-1. 랜딩 페이지를 선택하고 **초안 편집**&#x200B;을 클릭합니다.
+1. 랜딩 페이지를 선택하고 을(를) 클릭합니다. **초안 편집**.
 
    ![](assets/program-member-custom-field-tokens-5.png)
 
@@ -75,21 +75,21 @@ PMCF 토큰은 토큰 제품군의 구성원 도메인에서 지원됩니다.
 
    ![](assets/program-member-custom-field-tokens-8.png)
 
-1. 기본값 을 입력하고 **삽입**&#x200B;을 클릭합니다.
+1. 기본값을 입력하고 를 클릭합니다. **삽입**.
 
    ![](assets/program-member-custom-field-tokens-9.png)
 
-1. **저장**&#x200B;을 클릭합니다.
+1. 클릭 **저장**.
 
    ![](assets/program-member-custom-field-tokens-10.png)
 
 **SMS**
 
-1. 원하는 SMS를 선택하고 **초안 편집**&#x200B;을 클릭합니다.
+1. 원하는 SMS를 선택하고 을(를) 클릭합니다 **초안 편집**.
 
    ![](assets/program-member-custom-field-tokens-11.png)
 
-1. **`{{ Token`** 단추를 클릭합니다.
+1. 을(를) 클릭합니다. **`{{ Token`** 버튼을 클릭합니다.
 
    ![](assets/program-member-custom-field-tokens-12.png)
 
@@ -97,29 +97,29 @@ PMCF 토큰은 토큰 제품군의 구성원 도메인에서 지원됩니다.
 
    ![](assets/program-member-custom-field-tokens-13.png)
 
-1. SMS 작업 드롭다운을 클릭하고 **승인 및 닫기**&#x200B;를 선택합니다.
+1. SMS 작업 드롭다운을 클릭하고 을(를) 선택합니다 **승인 및 닫기**.
 
    ![](assets/program-member-custom-field-tokens-14.png)
 
 **푸시 알림**
 
-1. 원하는 푸시 알림을 선택하고 **초안 편집**&#x200B;을 클릭합니다.
+1. 원하는 푸시 알림을 선택하고 을(를) 클릭합니다 **초안 편집**.
 
    ![](assets/program-member-custom-field-tokens-15.png)
 
-1. **푸시 알림**&#x200B;을 클릭합니다.
+1. 클릭 **푸시 알림**.
 
    ![](assets/program-member-custom-field-tokens-16.png)
 
-1. 편집기에서 메시지를 클릭하고 `{{` 버튼을 클릭하여 토큰 선택기를 가져옵니다.
+1. 편집기에서 메시지를 클릭하고 `{{` 단추 를 클릭하여 토큰 선택기를 가져옵니다.
 
    ![](assets/program-member-custom-field-tokens-17.png)
 
-1. 원하는 프로그램 멤버 사용자 지정 필드 토큰을 찾아 선택합니다. 기본값을 입력하고 **삽입**&#x200B;을 클릭합니다.
+1. 원하는 프로그램 멤버 사용자 지정 필드 토큰을 찾아 선택합니다. 기본값을 입력하고 을(를) 클릭합니다 **삽입**.
 
    ![](assets/program-member-custom-field-tokens-18.png)
 
-1. **완료**&#x200B;를 클릭하여 저장하고 종료합니다(또는 **다음**&#x200B;을 클릭하여 먼저 검토합니다.).
+1. 클릭 **완료** 저장 후 종료(또는 **다음** 먼저 검토하기 위해).
 
    ![](assets/program-member-custom-field-tokens-19.png)
 

@@ -1,9 +1,8 @@
 ---
 unique-page-id: 1147144
-description: 예약 보기에서 새 이메일 프로그램 만들기 - Marketo 문서 - 제품 문서에서
+description: 예약 보기에서 새 이메일 프로그램 만들기 - Marketo 문서 - 제품 설명서
 title: 예약 보기에서 새 이메일 프로그램 만들기
 exl-id: a052d6a8-d745-4017-a22a-a7019c8432ce
-translation-type: tm+mt
 source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '117'
@@ -11,11 +10,11 @@ ht-degree: 0%
 
 ---
 
-# 예약 보기 {#creating-a-new-email-program-in-the-schedule-view}에서 새 이메일 프로그램 만들기
+# 예약 보기에서 새 이메일 프로그램 만들기 {#creating-a-new-email-program-in-the-schedule-view}
 
-프로그램 예약 보기 내에서 이메일 프로그램을 만들 수 있습니다. 방법
+프로그램 예약 보기 내에서 이메일 프로그램을 작성할 수 있습니다. 방법은 다음과 같습니다.
 
-1. **마케팅 활동**&#x200B;으로 이동합니다.
+1. 이동 **마케팅 활동**.
 
    ![](assets/login-marketing-activities-2.png)
 
@@ -27,7 +26,7 @@ ht-degree: 0%
 
    ![](assets/image2014-9-23-15-3a35-3a16.png)
 
-1. 이름을 입력합니다. **이메일 프로그램**&#x200B;을 선택합니다.
+1. 이름을 입력합니다. 선택 **이메일 프로그램**.
 
    ![](assets/image2014-9-23-15-3a35-3a32.png)
 
@@ -35,8 +34,8 @@ ht-degree: 0%
 
    ![](assets/image2014-9-23-15-3a35-3a42.png)
 
-1. [이메일 프로그램을 설정하고 ](/help/marketo/product-docs/email-marketing/email-programs/creating-an-email-program/create-an-email-program.md) 프로그램  **승인을 클릭합니다**.
+1. [이메일 프로그램 설정](/help/marketo/product-docs/email-marketing/email-programs/creating-an-email-program/create-an-email-program.md) 을(를) 클릭합니다. **프로그램 승인**.
 
    ![](assets/learnaboutthespeaker.png)
 
-   세부 대시보드 외에도, 스마트 캠페인 대신 [이메일 프로그램](/help/marketo/product-docs/email-marketing/email-programs/creating-an-email-program/understanding-email-programs.md)을 사용하는 경우의 이점은 [A/B 테스트](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/email-test-a-b-test/add-an-a-b-test.md)를 쉽게 구현할 수 있는 기능입니다. 즐기세요!
+   세부 대시보드 이외에 을 사용하는 것의 이점 [이메일 프로그램](/help/marketo/product-docs/email-marketing/email-programs/creating-an-email-program/understanding-email-programs.md) 스마트 캠페인 대신 를 쉽게 구현할 수 있는 기능이 있습니다 [A/B 테스트](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/email-test-a-b-test/add-an-a-b-test.md). 즐기세요!

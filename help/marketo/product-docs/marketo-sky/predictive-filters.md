@@ -3,9 +3,10 @@ description: 예측 필터 - Marketo 문서 - 제품 설명서
 title: 예측 필터
 hide: true
 hidefromtoc: true
-source-git-commit: ab20d9683aa5987778970fd32793dc0f3056c84b
+exl-id: 29c586d1-6c7d-4892-9c71-354af1552076
+source-git-commit: d229d152cbdae4f6b2e35700b85052d9c0b748d6
 workflow-type: tm+mt
-source-wordcount: '307'
+source-wordcount: '305'
 ht-degree: 0%
 
 ---
@@ -46,7 +47,7 @@ Predictive Audiences의 일부로 Marketo은 스마트 목록에 AI/ML 기반 �
 
 이 두 필터는 다른 프로그램 또는 스마트 목록의 구성원과 유사한 추가 리드를 타겟팅하여 현재 대상자를 확장하는 데 도움이 됩니다. 유사 필터는 리드 속성, 이메일 활동, 웹 활동 및 참여를 포함하여 50개 이상의 요소를 고려합니다.
 
-클릭 **[!UICONTROL 제한 추가]** 선택한 프로그램 구성원의 성공 기준을 선택하려면 다음을 수행하십시오.
+클릭 **[!UICONTROL Add Constraint]** 선택한 프로그램 구성원의 성공 기준을 선택하려면 다음을 수행하십시오.
 
 프로그램 드롭다운 옆의 + 아이콘을 클릭하여 여러 프로그램/스마트 목록을 하나의 필터에 쉽게 추가할 수 있습니다.
 

@@ -3,7 +3,8 @@ description: 개인 세부 정보 페이지의 단일 흐름 작업 - Marketo �
 title: 개인 세부 정보 페이지의 단일 플로우 작업
 hide: true
 hidefromtoc: true
-source-git-commit: e1dd2fe2300e1350e616c46dcaf53ced12c6581a
+exl-id: 3eeb7724-a502-4ea5-a57b-29d03133402f
+source-git-commit: 3b2bd965e37779af3ee89f46e04f925a2f12f207
 workflow-type: tm+mt
 source-wordcount: '120'
 ht-degree: 0%
@@ -14,7 +15,7 @@ ht-degree: 0%
 
 Smart List 내에서 단일 흐름 작업을 실행하는 것 외에도 개인 세부 사항 페이지에서 직접 실행할 수도 있습니다.
 
-1. **데이터베이스**&#x200B;를 클릭합니다.
+1. 클릭 **데이터베이스**.
 
    ![](assets/single-flow-actions-from-person-detail-page-1.png)
 
@@ -22,11 +23,11 @@ Smart List 내에서 단일 흐름 작업을 실행하는 것 외에도 개인 �
 
    ![](assets/single-flow-actions-from-person-detail-page-2.png)
 
-1. **개인 작업** 드롭다운을 클릭하고 선택한 흐름 단계를 선택합니다. 이 예제에서는 [이메일 보내기](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/send-email.md)를 사용합니다.
+1. 을(를) 클릭합니다. **개인 작업** 드롭다운을 선택하고 선택한 흐름 단계를 선택합니다. 이 예제에서는 [이메일 보내기](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/send-email.md).
 
    ![](assets/single-flow-actions-from-person-detail-page-3.png)
 
-1. 원하는 이메일을 선택하고 **지금 실행**&#x200B;을 클릭합니다.
+1. 원하는 이메일을 선택하고 을(를) 클릭합니다 **지금 실행**.
 
    ![](assets/single-flow-actions-from-person-detail-page-4.png)
 

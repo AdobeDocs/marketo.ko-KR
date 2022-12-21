@@ -4,8 +4,8 @@ title: 구성
 exl-id: aff17715-b178-4468-b06f-22b3fe3c18ce
 source-git-commit: 031e5ad328d49042f9c96ded63f1e719f1c377c7
 workflow-type: tm+mt
-source-wordcount: '0'
-ht-degree: 0%
+source-wordcount: '319'
+ht-degree: 1%
 
 ---
 
@@ -51,7 +51,7 @@ ht-degree: 0%
 
 ## 개인 정보 탭 {#privacy-tab}
 
-을(를) 클릭합니다. **개인 정보 보호** 탭을 클릭하여 사이트 개인 정보 정책의 URL을 추가/편집합니다(선택 사항).
+을(를) 클릭합니다. **개인 정보 보호** 탭을 클릭하여 사이트 개인정보 처리방침의 URL을 추가/편집합니다(선택 사항).
 
 ![](assets/configuration-7.png)
 

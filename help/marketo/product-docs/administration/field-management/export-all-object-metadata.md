@@ -2,26 +2,25 @@
 description: 모든 개체 메타데이터 내보내기 - Marketo 문서 - 제품 설명서
 title: 모든 개체 메타데이터 내보내기
 exl-id: 93ddf737-98db-4791-b526-d399c59147ee
-translation-type: tm+mt
 source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '76'
-ht-degree: 0%
+ht-degree: 2%
 
 ---
 
 # 모든 개체 메타데이터 내보내기 {#export-all-object-metadata}
 
-이 기능을 사용하면 모든 개체와 해당 메타데이터를 내보낼 수 있습니다.
+이 기능을 사용하면 모든 개체 및 해당 메타데이터를 내보낼 수 있습니다.
 
 >[!NOTE]
 >
->**관리자 권한 필요**
+>**관리 권한 필요**
 
-## 개체 {#objects}
+## 오브젝트 {#objects}
 
 * 리드 필드(개인/회사)
-* Marketo 사용자 정의 개체
+* Marketo 사용자 지정 개체
 * 표준 활동
 * 사용자 지정 활동
 * 채널
@@ -29,15 +28,15 @@ ht-degree: 0%
 
 ## 개체 메타데이터 내보내기 {#export-object-metadata}
 
-1. 내 Marketo에서 **관리**&#x200B;를 클릭합니다.
+1. 내 Marketo에서 **관리**.
 
    ![](assets/export-all-object-metadata-1.png)
 
-1. **필드 관리**&#x200B;를 선택합니다.
+1. 선택 **필드 관리**.
 
    ![](assets/export-all-object-metadata-2.png)
 
-1. **모든 개체 내보내기**&#x200B;를 클릭합니다.
+1. 클릭 **모든 개체 내보내기**.
 
    ![](assets/export-all-object-metadata-3.png)
 

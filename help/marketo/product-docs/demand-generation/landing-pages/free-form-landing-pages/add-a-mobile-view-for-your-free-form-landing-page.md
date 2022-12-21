@@ -1,12 +1,12 @@
 ---
 unique-page-id: 4720856
-description: 무료 랜딩 페이지에 대한 Mobile 보기 추가 - Marketo 문서 - 제품 설명서
+description: 무료 랜딩 페이지에 대한 모바일 보기 추가 - Marketo 문서 - 제품 설명서
 title: 무형식 랜딩 페이지에 대한 모바일 보기 추가
 exl-id: 1fc9689f-a39c-4ab4-9b03-0953fe229a8c
 source-git-commit: 6ad418c8f4056b9a2fb31b0ac995692f0c618795
 workflow-type: tm+mt
 source-wordcount: '134'
-ht-degree: 0%
+ht-degree: 1%
 
 ---
 
@@ -42,7 +42,7 @@ ht-degree: 0%
    >
    >자유 형식 템플릿을 업그레이드해야 할 수도 있습니다. 해당 메시지가 표시되면 방법을 빨리 읽어보십시오 [기존 자유 형식 랜딩 페이지 템플릿을 모바일과 호환되도록 만들기](/help/marketo/product-docs/demand-generation/landing-pages/landing-page-templates/make-an-existing-free-form-landing-page-template-mobile-compatible.md).
 
-1. 좋아요! 이제 랜딩 페이지의 모바일 버전을 활성화했습니다. 클릭 **닫기**.
+1. 좋아요! 이제 랜딩 페이지의 모바일 버전을 활성화했습니다. Click **Close**.
 
    ![](assets/image2015-1-22-16-3a44-3a37.png)
 

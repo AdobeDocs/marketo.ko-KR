@@ -12,7 +12,7 @@ ht-degree: 0%
 
 # 템플릿 11A {#template-11a}
 
-마우스 오른쪽 단추를 클릭하여 [템플릿 11A](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-11a.html) 다운로드
+마우스 오른쪽 단추를 클릭하여 [템플릿 11A 다운로드](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-11a.html)
 
 ![](assets/image2015-8-4-9-3a56-3a23.png)
 

@@ -5,14 +5,14 @@ title: 템플릿 15E
 exl-id: 4f0b474d-b347-4ce9-bc6c-0479468cf6e6
 source-git-commit: bfcd66388b0d77cf3f1743b0778026a1e5a1ec61
 workflow-type: tm+mt
-source-wordcount: '0'
+source-wordcount: '60'
 ht-degree: 0%
 
 ---
 
 # 템플릿 15E {#template-15e}
 
-마우스 오른쪽 단추를 클릭하여 [템플릿 15E](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-15e.html) 다운로드
+마우스 오른쪽 단추를 클릭하여 [템플릿 15E 다운로드](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-15e.html)
 
 ![](assets/image2015-8-13-14-3a8-3a14.png)
 

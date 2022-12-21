@@ -5,14 +5,14 @@ title: 템플릿 20C
 exl-id: 204c00f7-d0a4-4edc-a738-9ec29f442a6a
 source-git-commit: bfcd66388b0d77cf3f1743b0778026a1e5a1ec61
 workflow-type: tm+mt
-source-wordcount: '0'
+source-wordcount: '57'
 ht-degree: 0%
 
 ---
 
 # 템플릿 20C {#template-20c}
 
-[템플릿 20C](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-20c.html)을 마우스 오른쪽 단추로 클릭합니다.
+마우스 오른쪽 단추를 클릭하여 [템플릿 20C 다운로드](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-20c.html)
 
 ![](assets/template-20c.png)
 

@@ -26,7 +26,7 @@ ht-degree: 0%
 
 ## Google Adwords 통합 {#google-adwords-integration}
 
-Marketo에서 Google AdWords로 오프라인 전환 데이터를 자동으로 업로드하려면 [Google AdWords 계정을 Marketo](/help/marketo/product-docs/administration/additional-integrations/add-google-adwords-as-a-launchpoint-service.md)에 연결합니다. 그런 다음 AdWords UI에서 자격을 갖춘 리드, 기회 및 신규 고객(또는 추적하려는 모든 수익 단계)이 발생한 클릭을 손쉽게 확인할 수 있습니다.
+링크 [Marketo에 대한 Google AdWords 계정](/help/marketo/product-docs/administration/additional-integrations/add-google-adwords-as-a-launchpoint-service.md) Marketo에서 Google AdWords로 오프라인 전환 데이터를 자동으로 업로드합니다. 그런 다음 AdWords UI에서 자격을 갖춘 리드, 기회 및 신규 고객(또는 추적하려는 모든 수익 단계)이 발생한 클릭을 손쉽게 확인할 수 있습니다.
 
 ![](assets/image2015-3-23-11-3a50-3a55.png)
 
@@ -38,18 +38,18 @@ Revenue Explorer에는 새로운 Sunburst 차트 유형뿐만 아니라 완전�
 
 [새 자산 REST API](https://developers.marketo.com/)
 
-이제 API](https://developers.marketo.com/documentation/asset-api)를 통해 이메일, 템플릿, 내 토큰, 파일 및 코드 조각 [을 만들고 편집할 수 있습니다.
+이제 이메일, 템플릿, 내 토큰, 파일 및 코드 조각을 만들고 편집할 수 있습니다 [API 사용](https://developers.marketo.com/documentation/asset-api)!
 
 ## Microsoft Dynamics 2015 온-프레미스 {#microsoft-dynamics-on-premise}
 
-이제 최신 설치 프로그램에서 지원되는 [는 app](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/update-the-marketo-solution-for-microsoft-dynamics.md)을 통해 액세스할 수 있습니다.
+이제 최신 설치 프로그램에서 지원됩니다. [앱을 통해 액세스 가능](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/update-the-marketo-solution-for-microsoft-dynamics.md).
 
 ![](assets/image2015-3-23-11-3a47-3a16.png)
 
 ## RTP - 리드 데이터를 사용한 개인화된 웹 참여 {#rtp-personalized-web-engagement-with-lead-data}
 
-Marketo 리드 데이터베이스에 있는 [리드 데이터 필드](/help/marketo/product-docs/web-personalization/using-web-segments/manage-person-data.md)를 활용하여 실시간 세그먼테이션 및 개인화된 컨텐츠 캠페인을 만들 수 있습니다. RTP에서 리드 데이터 필드를 관리하고 관련 리드 필드를 추가/삭제합니다.
+활용 [리드 데이터 필드](/help/marketo/product-docs/web-personalization/using-web-segments/manage-person-data.md) Marketo 리드 데이터베이스에서 실시간 세그먼테이션 및 개인화된 컨텐츠 캠페인을 만들 수 있습니다. RTP에서 리드 데이터 필드를 관리하고 관련 리드 필드를 추가/삭제합니다.
 
 ## RTP - 이메일 또는 프로그램 캠페인 이름으로 웹 컨텐츠 개인화 {#rtp-personalize-web-content-by-email-or-program-campaign-name}
 
-이메일에서 웹으로 다양한 채널을 통해 대화를 계속 진행할 수 있습니다. [Marketo의 마케팅 활동에 사용되는 이메일 ](/help/marketo/product-docs/web-personalization/using-web-segments/web-segments.md) 캠페인이나 프로그램 이름을 기반으로 인바운드 콘텐츠를 개인화합니다.
+이메일에서 웹으로 다양한 채널을 통해 대화를 계속 진행할 수 있습니다. [이메일 캠페인 또는 프로그램을 기반으로 인바운드 콘텐츠 개인화](/help/marketo/product-docs/web-personalization/using-web-segments/web-segments.md) Marketo의 마케팅 활동에 사용되는 이름입니다.

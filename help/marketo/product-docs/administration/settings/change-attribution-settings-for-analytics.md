@@ -3,7 +3,6 @@ unique-page-id: 2360217
 description: Analytics에 대한 속성 설정 변경 - Marketo 문서 - 제품 설명서
 title: Analytics에 대한 속성 설정 변경
 exl-id: 4740b0fa-ddaf-46ed-87d6-8b3f8d35afe3
-translation-type: tm+mt
 source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '188'
@@ -11,25 +10,25 @@ ht-degree: 0%
 
 ---
 
-# 분석 {#change-attribution-settings-for-analytics}에 대한 속성 설정 변경
+# Analytics에 대한 속성 설정 변경 {#change-attribution-settings-for-analytics}
 
-Marketo이 처음 및 다중 터치 기여도 분석, 리드 전환 지표 및 마케팅에 영향을 미치는 기회 플래그를 위한 기회에 대해 연락처를 연결하는 방법을 변경할 수 있습니다.
+Marketo이 연락처와 첫 번째 및 다중 터치 속성, 리드 전환 지표 및 마케팅 영향을 받는 기회 플래그를 위한 기회에 연결하는 방법을 변경할 수 있습니다.
 
-이러한 설정은 [프로그램 기회 분석](/help/marketo/product-docs/reporting/revenue-cycle-analytics/program-analytics/understanding-the-program-opportunity-analysis-area.md), [기회 분석](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-explorer/understanding-opportunity-analysis-in-revenue-explorer.md) 및 리드 분석 영역의 매출 탐색기 보고서에 영향을 줍니다. 또한 프로그램 분석기 보고서에 영향을 줍니다.
+이러한 설정은 [프로그램 기회 분석](/help/marketo/product-docs/reporting/revenue-cycle-analytics/program-analytics/understanding-the-program-opportunity-analysis-area.md), [기회 분석](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-explorer/understanding-opportunity-analysis-in-revenue-explorer.md), 및 Lead Analysis 영역 을 참조하십시오. 프로그램 분석기 보고서도 영향을 받습니다.
 
-1. **관리** 섹션에서 **매출 주기 분석**&#x200B;을 클릭합니다.
+1. 아래에 **관리** 섹션을 클릭합니다. **Revenue Cycle Analytics**.
 
    ![](assets/image2014-9-24-11-3a55-3a19.png)
 
-1. **속성**&#x200B;에서 **편집** 링크를 클릭합니다.
+1. 을(를) 클릭합니다. **편집** 링크 위치 **속성**.
 
    ![](assets/image2014-9-24-11-3a56-3a33.png)
 
    >[!TIP]
    >
-   >이 설정을 변경해도 Marketo 데이터는 수정되지 않습니다.보고서 실행 방법을 변경하기만 하면 됩니다. 언제든지 되돌릴 수 있습니다.
+   >이 설정을 변경해도 Marketo 데이터가 수정되지 않습니다. 보고서 실행 방식을 변경하기만 하면 됩니다. 언제든지 되돌릴 수 있습니다.
 
-1. 옵션을 선택하고 **저장**&#x200B;을 클릭합니다.
+1. 옵션을 선택하고 을(를) 클릭합니다. **저장**.
 
    ![](assets/image2014-9-24-11-3a57-3a39.png)
 
@@ -37,12 +36,12 @@ Marketo이 처음 및 다중 터치 기여도 분석, 리드 전환 지표 및 �
    >
    >**정의**
    >
-   >**명시적**:역할이 있는 연락처만(기본값).
+   >**명시적**: 역할이 있는 연락처만(기본값)
    >
-   >**하이브리드**:사용 가능한 경우 역할이 있는 연락처. 사용할 수 있는 연락처가 없으면 계정의 모든 연락처를 사용합니다.
+   >**하이브리드**: 가능한 경우 역할이 있는 연락처 사용할 수 있는 연락처가 없으면 계정의 모든 연락처를 사용합니다.
    >
-   >**암시적**:역할에 관계없이 모든 연락처
+   >**암시적**: 역할과 관계없이 모든 연락처
 
 >[!CAUTION]
 >
->**암시적**&#x200B;을 사용하는 경우 Marketo은 역할에 관계없이 계정에 연결된 모든 연락처를 항상 검사합니다. **Marketo은 명시적 모드를 사용할 것을 적극 권장합니다**. 암시적 사용은 잘못된 긍정을 만들 수 있습니다.즉, 기회에는 실질적인 영향력이 없음에도 불구하고 기회가 있다는 인정을 받은 사람들. 암시적 사용을 주의하십시오.
+>사용 시 **암시적**, Marketo은 역할에 관계없이 계정과 연결된 모든 연락처를 검사합니다. **Marketo은 명시적 모드를 사용하는 것이 좋습니다**. 암시적 사용은 긍정 오류(false positive)를 생성할 수 있습니다. 기회에는 실질적인 영향력이 없음에도 기회를 인정 받은 사람들. 암시적 사용을 신중하게 사용하십시오.

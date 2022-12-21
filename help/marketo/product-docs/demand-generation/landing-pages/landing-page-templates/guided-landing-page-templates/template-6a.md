@@ -5,14 +5,14 @@ title: 템플릿 6A
 exl-id: 7bfc6301-f012-4865-a592-6dc5f60469d3
 source-git-commit: bfcd66388b0d77cf3f1743b0778026a1e5a1ec61
 workflow-type: tm+mt
-source-wordcount: '0'
+source-wordcount: '61'
 ht-degree: 0%
 
 ---
 
 # 템플릿 6A {#template-6a}
 
-마우스 오른쪽 단추를 클릭하여 [템플릿 6A](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-6a.html) 다운로드
+마우스 오른쪽 단추를 클릭하여 [템플릿 6A 다운로드](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-6a.html)
 
 ![](assets/image2015-6-29-16-3a14-3a11.png)
 

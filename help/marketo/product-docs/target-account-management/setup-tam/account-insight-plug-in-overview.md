@@ -20,7 +20,7 @@ Account Insight는 영업 팀에 조치 가능한 TAM 및 계정 인사이트를
 
 >[!CAUTION]
 >
->계정 인사이트 플러그인은 [SSO 전용](/help/marketo/product-docs/administration/additional-integrations/restrict-user-login-to-sso-only.md)(Single Sign-On)이 활성화된 가입에서는 작동하지 않습니다.
+>계정 인사이트 플러그인은 [SSO 전용](/help/marketo/product-docs/administration/additional-integrations/restrict-user-login-to-sso-only.md) (단일 사인온)이 활성화되었습니다.
 
 >[!CAUTION]
 >
@@ -70,7 +70,7 @@ Account Insight는 영업 팀에 조치 가능한 TAM 및 계정 인사이트를
 
 ![](assets/af1.png)
 
-**필터** 드롭다운을 클릭하여 다른 활동 유형별로 필터링합니다.
+을(를) 클릭합니다. **필터** 드롭다운을 사용하여 다른 활동 유형별로 필터링합니다.
 
 ![](assets/af2.png)
 
@@ -81,5 +81,5 @@ Account Insight는 영업 팀에 조치 가능한 TAM 및 계정 인사이트를
 꽤 멋진 것들이야!
 
 >[!MORELIKETHIS]
-[계정 인사이트 설정](/help/marketo/product-docs/target-account-management/setup-tam/set-up-account-insight.md)>
 >
+>[계정 인사이트 설정](/help/marketo/product-docs/target-account-management/setup-tam/set-up-account-insight.md)

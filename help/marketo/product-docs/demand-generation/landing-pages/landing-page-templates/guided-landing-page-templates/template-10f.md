@@ -5,14 +5,14 @@ title: 템플릿 10F
 exl-id: 9f983388-725b-4ac0-bf39-5af56035b200
 source-git-commit: bfcd66388b0d77cf3f1743b0778026a1e5a1ec61
 workflow-type: tm+mt
-source-wordcount: '0'
+source-wordcount: '60'
 ht-degree: 0%
 
 ---
 
 # 템플릿 10F {#template-10f}
 
-[템플릿 다운로드 10F](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-10f.html)를 마우스 오른쪽 단추로 클릭합니다.
+마우스 오른쪽 단추를 클릭하여 [템플릿 10F 다운로드](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-10f.html)
 
 ![](assets/image2015-7-27-11-3a14-3a42.png)
 

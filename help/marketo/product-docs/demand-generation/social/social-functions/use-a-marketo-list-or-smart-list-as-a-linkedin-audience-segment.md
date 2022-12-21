@@ -1,25 +1,24 @@
 ---
 unique-page-id: 7504180
-description: LinkedIn 대상 세그먼트로 Marketing To 목록 또는 스마트 목록 사용 - Marketing To Docs - 제품 설명서
-title: LinkedIn 대상 세그먼트로 마케팅 목록 또는 스마트 목록 사용
-translation-type: tm+mt
-source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
+description: Marketo 목록 또는 스마트 목록을 LinkedIn 대상 세그먼트로 사용 - Marketo 문서 - 제품 설명서
+title: Marketo 목록 또는 스마트 목록을 LinkedIn 대상 세그먼트로 사용
+exl-id: 9a7943fe-b2e7-443a-87e0-da01001682de
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '197'
 ht-degree: 0%
 
 ---
 
+# Marketo 목록 또는 스마트 목록을 LinkedIn 대상 세그먼트로 사용 {#use-a-marketo-list-or-smart-list-as-a-linkedin-audience-segment}
 
-# LinkedIn 대상 세그먼트 {#use-a-marketo-list-or-smart-list-as-a-linkedin-audience-segment}(으)로 마케팅 목록 또는 스마트 목록 사용
-
-LinkedIn 대상과 Marketing 사용자를 통합합니다.
+Marketo 대상자를 LinkedIn 대상과 통합합니다.
 
 >[!PREREQUISITES]
 >
->[LinkedIn과 일치하는 대상을 LaunchPoint 서비스로 추가](/help/marketo/product-docs/demand-generation/ad-network-integrations/add-linkedin-matched-audiences-as-a-launchpoint-service.md)
+>[LinkedIn Matched Audiences as a LaunchPoint Service 추가](/help/marketo/product-docs/demand-generation/ad-network-integrations/add-linkedin-matched-audiences-as-a-launchpoint-service.md)
 
-1. **데이터베이스**&#x200B;로 이동합니다.
+1. 로 이동합니다. **데이터베이스**.
 
    ![](assets/db.png)
 
@@ -27,35 +26,35 @@ LinkedIn 대상과 Marketing 사용자를 통합합니다.
 
    ![](assets/two.png)
 
-1. **사람** 탭을 클릭합니다.
+1. 을(를) 클릭합니다. **사람** 탭.
 
    ![](assets/three-1.png)
 
-1. 목록 맨 아래의 **광고 브리지를 통해 보내기** 아이콘 ![—](assets/image2015-4-20-18-3a18-3a41.png)을 클릭합니다.
+1. 을(를) 클릭합니다. **광고 Bridge를 통해 보내기** 아이콘 ![—](assets/image2015-4-20-18-3a18-3a41.png) 목록의 맨 아래에 있습니다.
 
    ![](assets/four-1.png)
 
    >[!NOTE]
    >
-   >광고 네트워크 통합을 사용하여 대상을 LinkedIn으로 보낼 때 Marketing은 이메일 주소만 보냅니다.
+   >광고 네트워크 통합을 사용하여 LinkedIn에 대상을 보낼 때 Marketo은 이메일 주소만 덮어씁니다.
 
-1. **LinkedIn**&#x200B;을 선택하고 **다음**&#x200B;을 클릭합니다.
+1. 선택 **linkedIn** 을(를) 클릭합니다. **다음**.
 
    ![](assets/image2015-4-20-18-3a7-3a19.png)
 
-1. **LinkedIn 대상**&#x200B;을 선택합니다.
+1. 선택 **linkedIn 대상**.
 
    >[!NOTE]
    >
-   >**+새 대상**&#x200B;을 클릭하면 LinkedIn 캠페인 관리자에서 대상이 만들어집니다.
+   >클릭 **+새 대상** LinkedIn Campaign Manager에서 대상을 만듭니다.
 
    ![](assets/6.png)
 
    >[!NOTE]
    >
-   >LinkedIn은 2018년 3월 &quot;대상 지우기 및 리드 추가&quot; 푸시 유형에 사용되는 API를 사용하지 않습니다. 2018년 1분기 릴리스에서는 이 옵션을 더 이상 사용할 수 없습니다.
+   >linkedIn은 2018년 3월에 &quot;대상 지우기 및 리드 추가&quot; 푸시 유형에 사용되는 API를 더 이상 사용하지 않습니다. 이 옵션은 Marketo 2018년 1분기 릴리스부터 더 이상 사용할 수 없습니다.
 
-1. **푸시 유형**&#x200B;을 선택합니다. **업데이트**&#x200B;를 클릭합니다.
+1. 선택 **푸시 유형**. 클릭 **업데이트**.
 
    ![](assets/7.png)
 
@@ -63,4 +62,4 @@ LinkedIn 대상과 Marketing 사용자를 통합합니다.
    >
    >동기화가 수행되려면 15분이 소요됩니다.
 
-하이 파이브! 이제 데이터가 LinkedIn 대상과 연결됩니다. 계정 및 연락처 타게팅을 위해 LinkedIn에 목록을 업로드하는 방법에 대한 자세한 내용은 [LinkedIn의 마케팅 솔루션 도움말 센터](https://www.linkedin.com/help/lms/answer/73938?query=ad%20segment)를 참조하십시오.
+하이 파이브! 이제 데이터가 LinkedIn 대상과 함께 제공됩니다. 계정 및 연락처 타깃팅을 위해 LinkedIn에 목록을 업로드하는 방법에 대한 자세한 내용은 [linkedIn 마케팅 솔루션 도움말 센터](https://www.linkedin.com/help/lms/answer/73938?query=ad%20segment).

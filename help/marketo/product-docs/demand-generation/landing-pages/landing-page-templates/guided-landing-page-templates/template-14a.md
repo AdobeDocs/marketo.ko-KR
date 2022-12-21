@@ -5,14 +5,14 @@ title: 템플릿 14A
 exl-id: bf096c89-b583-4618-aba9-8bfb7653af16
 source-git-commit: bfcd66388b0d77cf3f1743b0778026a1e5a1ec61
 workflow-type: tm+mt
-source-wordcount: '0'
+source-wordcount: '61'
 ht-degree: 0%
 
 ---
 
 # 템플릿 14A {#template-14a}
 
-마우스 오른쪽 단추를 클릭하여 [템플릿 다운로드 14A](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-14a.html)
+마우스 오른쪽 단추를 클릭하여 [템플릿 14A 다운로드](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-14a.html)
 
 ![](assets/image2015-8-11-15-3a9-3a52.png)
 

@@ -1,23 +1,22 @@
 ---
 unique-page-id: 10099413
-description: 이메일 인사이트에서 개요 보내기 - Marketing To Docs - 제품 설명서
-title: 이메일 인사이트 전송 개요
-translation-type: tm+mt
-source-git-commit: cb7df3dd38275837f8ab05ce846c2c68ab78462f
+description: Email Insights 전송 개요 - Marketo 문서 - 제품 설명서
+title: Email Insights 전송 개요
+exl-id: 2e2535bd-fd3d-4660-be43-7755c142bcd1
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '172'
 ht-degree: 0%
 
 ---
 
+# Email Insights 전송 개요 {#email-insights-sends-overview}
 
-# 이메일 인사이트에서 개요 {#email-insights-sends-overview} 보내기
-
-센드 페이지에서 최근 이메일 커뮤니케이션의 특성을 검사합니다.
+전송 페이지에서 최근 이메일 통신의 특성을 검사합니다.
 
 ![](assets/one.png)
 
-[필터링](/help/marketo/product-docs/reporting/email-insights/filtering-in-email-insights.md)을 사용하여 보려는 이메일을 지정합니다.
+사용 [필터링](/help/marketo/product-docs/reporting/email-insights/filtering-in-email-insights.md) 확인할 이메일을 지정합니다.
 
 ![](assets/filtering.png)
 
@@ -25,26 +24,26 @@ ht-degree: 0%
 
 ![](assets/two-1.png)
 
-**유형** 은 사용된 자산의 종류를 나타냅니다.
-**Recipient** number는 이메일을 받은 사람의 수입니다.
-**배달** 지표를 통해 얼마나 많은 이메일이 배달되었거나, 보류 중이거나, 반송되었는지를 빠르게 볼 수 있습니다.\
-**참여 지표** 를 사용하면 이메일에서 열어서, 클릭한 후 구독하지 않은 받는 사람 수를 빠르게 볼 수 있습니다.
-**점수** 는 이메일의  [참여 점수입니다](/help/marketo/product-docs/email-marketing/drip-nurturing/reports-and-notifications/understanding-the-engagement-score.md).
+**유형** 사용된 자산의 종류를 나타냅니다.
+**수신자** number 는 이메일을 보낸 사람의 수입니다.
+**게재 지표** 배달되거나, 보류 중이거나, 바운스된 이메일 수에 대한 빠른 보기를 제공합니다.\
+**참여 지표** 이메일을 열고, 클릭하고, 구독하지 않은 수신자의 수를 빠른 보기에서 확인할 수 있습니다.
+**점수** 이메일 [참여 점수](/help/marketo/product-docs/email-marketing/drip-nurturing/reports-and-notifications/understanding-the-engagement-score.md).
 
-기본적으로 이메일은 가장 최근 이메일 기준으로 정렬되지만 사용 가능한 지표별로 정렬할 수 있습니다.
+기본적으로 이메일은 가장 최근 지표별로 정렬되지만 사용 가능한 지표로 정렬할 수 있습니다.
 
 ![](assets/three-1.png)
 
 >[!NOTE]
 >
->이메일은 프로그램 또는 캠페인 이름(위쪽) 및 이메일 자산 이름(아래쪽)으로 나열됩니다.
+>이메일은 프로그램 또는 캠페인 이름(상단) 및 이메일 자산 이름(하단)으로 나열됩니다.
 
-Analytics에서 이메일의 상태를 보려면 점수 옆에 마우스를 올려 놓고 차트 아이콘을 클릭합니다.
+Analytics에서 이메일 상태를 보려면 점수 옆에 마우스를 놓고 차트 아이콘을 클릭합니다.
 
 ![](assets/five.png)
 
-멋진 물건이야!
+멋지구나!
 
 >[!MORELIKETHIS]
 >
->[이메일 인사이트 분석 개요](/help/marketo/product-docs/reporting/email-insights/email-insights-analytics-overview.md)
+>[이메일 통찰력 분석 개요](/help/marketo/product-docs/reporting/email-insights/email-insights-analytics-overview.md)

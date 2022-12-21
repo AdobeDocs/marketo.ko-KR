@@ -1,33 +1,32 @@
 ---
 unique-page-id: 2359612
-description: 양식 레이블 위치 변경 - 마케팅 문서 - 제품 설명서
+description: 양식 레이블 위치 변경 - Marketo 문서 - 제품 설명서
 title: 양식 레이블 위치 변경
-translation-type: tm+mt
-source-git-commit: ed83438ae5660d172e845f25c4d72d599574bd91
+exl-id: b4291454-f6f8-4800-b806-6ea56d6f83cd
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '125'
 ht-degree: 0%
 
 ---
 
-
 # 양식 레이블 위치 변경 {#change-form-label-position}
 
-[양식](/help/marketo/product-docs/demand-generation/forms/creating-a-form/create-a-form.md)을 만들 때 양식 필드 레이블의 위치를 매우 쉽게 변경할 수 있습니다. 방법
+When [양식 만들기](/help/marketo/product-docs/demand-generation/forms/creating-a-form/create-a-form.md)양식 필드 레이블의 위치를 매우 쉽게 변경할 수 있습니다. 방법은 다음과 같습니다.
 
-1. **마케팅 활동**&#x200B;으로 이동합니다.
+1. 이동 **마케팅 활동**.
 
    ![](assets/login-marketing-activities-2.png)
 
-1. 양식을 선택하고 **양식 편집**&#x200B;을 클릭합니다.
+1. 양식을 선택하고 을(를) 클릭합니다 **양식 편집**.
 
    ![](assets/image2014-9-15-16-3a16-3a9.png)
 
-1. **설정**&#x200B;을 선택합니다.
+1. 선택 **설정**.
 
    ![](assets/image2014-9-15-16-3a16-3a26.png)
 
-1. 원하는 **레이블 위치**&#x200B;를 선택합니다.
+1. 을(를) 선택합니다 **레이블 위치** 원하시는군요
 
    ![](assets/image2014-9-15-16-3a16-3a39.png)
 
@@ -36,11 +35,11 @@ ht-degree: 0%
    * 왼쪽(기본값)
    * 위
 
-1. **완료**&#x200B;를 클릭합니다.
+1. 클릭 **완료**.
 
    ![](assets/image2014-9-15-16-3a16-3a49.png)
 
-1. **승인 및 닫기**&#x200B;를 클릭합니다.
+1. 클릭 **승인 및 닫기**.
 
    >[!NOTE]
    >
@@ -50,10 +49,10 @@ ht-degree: 0%
 
    >[!NOTE]
    >
-   >양식 변경으로 만든 랜딩 페이지 초안을 승인해야 합니다.
+   >양식 변경에 의해 생성된 랜딩 페이지 초안을 승인해야 합니다.
 
-잘 했다! 양식에서 레이블 위치를 손쉽게 변경하는 방법을 살펴보십시오. 좋아요, 양식 레이블의 글꼴을 변경하는 것에 대해 어떻게 할 수 있는지 봅시다.
+잘 했다! 양식에서 레이블 위치를 변경하는 것이 얼마나 쉬웠는지 알아? 좋아요, 양식 레이블의 글꼴을 변경하는 것에 대해 우리가 무엇을 할 수 있는지 봅시다.
 
 >[!MORELIKETHIS]
 >
->[양식 글꼴 모음 변경](/help/marketo/product-docs/demand-generation/forms/form-design/change-the-form-font-family.md)
+>[양식 글꼴 패밀리 변경](/help/marketo/product-docs/demand-generation/forms/form-design/change-the-form-font-family.md)

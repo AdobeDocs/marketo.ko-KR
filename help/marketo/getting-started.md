@@ -5,8 +5,8 @@ title: 시작하기
 exl-id: 11c883eb-2a22-4706-ba0a-09ca11648054
 source-git-commit: 7e7a82f49b9f723eed5cbcde766c5be91ac170b5
 workflow-type: tm+mt
-source-wordcount: '0'
-ht-degree: 0%
+source-wordcount: '139'
+ht-degree: 12%
 
 ---
 

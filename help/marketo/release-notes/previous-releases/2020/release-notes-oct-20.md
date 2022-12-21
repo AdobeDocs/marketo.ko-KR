@@ -16,19 +16,19 @@ ht-degree: 0%
 
 >[!AVAILABILITY]
 >
->별(![](assets/yellow-star.png))로 표시되는 기능은 유료 추가 기능입니다. 자세한 내용은 Marketo Engage 담당자에게 문의하십시오.
+>별로 표시된 기능(![](assets/yellow-star.png))은 유료 추가 기능입니다. 자세한 내용은 Marketo Engage 담당자에게 문의하십시오.
 
-**_분기별_** 릴리스: 다음 기능은 2020년  **10월 16일에 릴리스됩니다**.
+**_분기별 릴리스_** 다음 기능은 **2020년 10월 16일**.
 
 ## Target 계정 관리 {#target-account-management}
 
 ![(별)](assets/yellow-star.png)
 
-* **계정 스마트 목록(베타)**: 새로운 Account Smart List 기능을 사용하여 ABM 전략을 과금합니다. 원하는 계정과 개인 속성을 사용하여 계정을 동적으로 식별하여 크로스채널 캠페인을 수행하고 신속하게 거래를 종료하기 위해 Sales에 적시에 경고를 보냅니다. 참고: 이 기능은 [차세대 사용자 경험](https://nation.marketo.com/t5/Employee-Blogs/The-Next-Generation-Marketo-Engage-Experience/ba-p/304205)에 온보딩된 Target 계정 관리 고객에게만 제공됩니다.
+* **계정 스마트 목록(베타)**: 새로운 Account Smart List 기능을 사용하여 ABM 전략을 과금합니다. 원하는 계정과 개인 속성을 사용하여 계정을 동적으로 식별하여 크로스채널 캠페인을 수행하고 신속하게 거래를 종료하기 위해 Sales에 적시에 경고를 보냅니다. 참고: 이 기능은 [차세대 사용자 경험](https://nation.marketo.com/t5/Employee-Blogs/The-Next-Generation-Marketo-Engage-Experience/ba-p/304205).
 
 ## 이메일 마케팅 {#email-marketing}
 
-* **일괄 이메일 증폭  ![(별)](assets/yellow-star.png)**: 시간당 최대 500만 개의 일괄 이메일 처리량이 증가된 이메일을 더 많이 보냅니다. 광범위한 이메일 게재 기능 옵션을 사용하면 이메일 일괄 처리 사이를 기다릴 필요가 없습니다. 제시간에 일정에 따라 모든 이메일을 보낼 수 있습니다.
+* **일괄 이메일 증폭 ![(별)](assets/yellow-star.png)**: 시간당 최대 500만 개의 일괄 이메일 처리량이 증가된 이메일을 더 많이 보냅니다. 광범위한 이메일 게재 기능 옵션을 사용하면 이메일 일괄 처리 사이를 기다릴 필요가 없습니다. 제시간에 일정에 따라 모든 이메일을 보낼 수 있습니다.
 
 ## 웹 사이트 마케팅 {#website-marketing}
 
@@ -36,7 +36,7 @@ ht-degree: 0%
 
 ## Experience Cloud 통합 {#experience-cloud-integration}
 
-* **Adobe Experience Cloud에서 Marketo Engage으로 지속적인 대상 동기화**: Target은 Adobe Analytics, Adobe Audience Manager 또는 Adobe 실시간 CDP의 자사 의도 데이터를 기반으로 Marketo Engage을 통해 리드를 제공합니다. 지속적인 동기화를 통해 Marketo Engage 정적 목록을 자동으로 업데이트하고, 참여 또는 이메일 프로그램에 리드를 추가하고, 리드가 준비되면 매출에 알립니다.
+* **Adobe Experience Cloud에서 Marketo Engage으로 지속적인 대상 동기화**: Target은 Adobe Analytics, Adobe Audience Manager 또는 Adobe Real-Time CDP의 자사 의도 데이터를 기반으로 한 Marketo Engage으로 리드를 유도합니다. 지속적인 동기화를 통해 Marketo Engage 정적 목록을 자동으로 업데이트하고, 참여 또는 이메일 프로그램에 리드를 추가하고, 리드가 준비되면 매출에 알립니다.
 
 ## CRM 통합 {#crm-integration}
 
@@ -82,4 +82,4 @@ ht-degree: 0%
 
 ## 제품 릴리스 웨비나 {#product-release-webinar}
 
-제품 릴리스 웨비나 [여기](https://engage.marketo.com/Oct_20_Release_OnDemand.html)에서 녹음을 시청하십시오.
+제품 릴리스 웨비나 녹화 보기 [여기](https://engage.marketo.com/Oct_20_Release_OnDemand.html).

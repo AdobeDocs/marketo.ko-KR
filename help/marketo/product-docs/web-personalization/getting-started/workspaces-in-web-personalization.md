@@ -1,33 +1,32 @@
 ---
 unique-page-id: 17727499
-description: 웹 개인화의 작업 영역 - 마케팅 문서 - 제품 설명서
-title: 웹 개인화의 작업 영역
-translation-type: tm+mt
-source-git-commit: fbaf57ec4f3532c2d71acf23171d60873b1c997c
+description: 웹 개인화의 작업 공간 - Marketo 문서 - 제품 설명서
+title: 웹 개인화의 작업 공간
+exl-id: 6b80fb8d-3f6a-4503-af5b-9627e5645247
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '109'
 ht-degree: 0%
 
 ---
 
+# 웹 개인화의 작업 공간 {#workspaces-in-web-personalization}
 
-# 웹 개인화의 작업 영역 {#workspaces-in-web-personalization}
+웹 개인화는 웹 캠페인 및 웹 세그먼트를 위한 여러 작업 공간을 지원합니다.
 
-웹 개인화는 웹 캠페인 및 웹 세그먼트에 대한 여러 작업 영역을 지원합니다.
+## 작업 공간 전환 {#switch-workspaces}
 
-## 작업 영역 전환 {#switch-workspaces}
-
-웹 개인화의 작업 영역 간을 전환하려면 왼쪽 상단의 지구 아이콘을 클릭하고 드롭다운에서 다른 작업 영역을 선택합니다.
+웹 개인화에서 작업 공간 간을 전환하려면 왼쪽 상단의 지구본 아이콘을 클릭하고 드롭다운에서 다른 작업 공간을 선택합니다.
 
 ![](assets/ss7.png)
 
-## 세그먼트의 작업 영역 {#change-a-segments-workspace} 변경
+## 세그먼트의 작업 공간 변경 {#change-a-segments-workspace}
 
-1. **세그먼트** 페이지로 이동하여 세그먼트를 선택하고 편집 아이콘을 클릭합니다.
+1. 로 이동합니다. **세그먼트** 페이지에서 세그먼트를 선택하고 편집 아이콘을 클릭합니다.
 
    ![](assets/ss4.png)
 
-1. **작업 공간** 드롭다운에서 다른 작업 영역을 선택합니다.
+1. 에서 다른 작업 공간을 선택합니다 **작업 공간** 드롭다운.
 
    ![](assets/ss6.png)
 
@@ -35,4 +34,4 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->사용자는 액세스 권한이 있는 작업 영역과 연관된 웹 캠페인 및 세그먼트만 볼 수 있습니다. 다음은 [사용자에게 하나 이상의 작업 영역](/help/marketo/product-docs/administration/workspaces-and-person-partitions/allow-user-access-to-a-workspace.md)에 대한 액세스 권한을 부여하는 방법입니다.
+>사용자는 액세스 권한이 있는 작업 공간과 연결된 웹 캠페인 및 세그먼트만 볼 수 있습니다. 방법은 다음과 같습니다 [사용자에게 하나 이상의 작업 공간에 대한 액세스 권한 제공](/help/marketo/product-docs/administration/workspaces-and-person-partitions/allow-user-access-to-a-workspace.md).

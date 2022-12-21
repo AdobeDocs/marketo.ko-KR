@@ -6,7 +6,7 @@ exl-id: 953a7fd8-b1f2-4f3f-b889-87d1f0471e0d
 source-git-commit: aeaf1f55b81da70ac8415cab265165a3848b5a0e
 workflow-type: tm+mt
 source-wordcount: '491'
-ht-degree: 0%
+ht-degree: 1%
 
 ---
 
@@ -44,7 +44,7 @@ ht-degree: 0%
    >
    >기본 세그먼트는 영어가 됩니다.
 
-1. 모든 언어가 표시될 때까지 세그먼트를 계속 추가합니다. 클릭 **만들기**.
+1. 모든 언어가 표시될 때까지 세그먼트를 계속 추가합니다. Click **Create**.
 
    ![](assets/make-your-unsubscribe-message-dynamic-for-languages-4.png)
 
@@ -74,7 +74,7 @@ ht-degree: 0%
 
    ![](assets/make-your-unsubscribe-message-dynamic-for-languages-10.png)
 
-1. 코드 조각 이름을 지정합니다 **메시지 구독 취소**. 클릭 **만들기**.
+1. 코드 조각 이름을 지정합니다 **메시지 구독 취소**. Click **Create**.
 
    ![](assets/make-your-unsubscribe-message-dynamic-for-languages-11.png)
 

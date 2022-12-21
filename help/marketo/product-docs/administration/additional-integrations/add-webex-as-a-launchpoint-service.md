@@ -6,7 +6,7 @@ exl-id: 2c2cedde-d38f-4d53-a760-104b517afc4c
 source-git-commit: 813bab6169a121e90919f9a02505ccde5167cda4
 workflow-type: tm+mt
 source-wordcount: '147'
-ht-degree: 0%
+ht-degree: 1%
 
 ---
 
@@ -24,7 +24,7 @@ Marketo Engage은 Webex 웨비나 등록 및 출석을 관리합니다.
 
 >[!NOTE]
 >
->사이트 이름은 Webex에 로그인하는 데 사용되는 URL의 끝에서 찾을 수 있습니다. 예:
+>사이트 이름은 Webex에 로그인하는 데 사용되는 URL의 끝에서 찾을 수 있습니다. For example:
 >
 >`https://mycompany.webex.com/mw0300lc/mywebex/default.do?siteurl=mycompany`
 >

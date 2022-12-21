@@ -5,7 +5,7 @@ title: Marketo 용어 업데이트
 source-git-commit: 0da33dfa840dd1e5a5618fcd762b482f7a2e0789
 workflow-type: tm+mt
 source-wordcount: '368'
-ht-degree: 0%
+ht-degree: 1%
 
 ---
 
@@ -29,7 +29,7 @@ Marketo 설명서에서 다른 용어가 표시될 수 있지만, 이러한 변�
  <tbody> 
   <tr> 
    <td><strong>이전</strong></td> 
-   <td><strong>새로 만들기</strong></td> 
+   <td><strong>신규</strong></td> 
   </tr> 
   <tr> 
    <td> 
@@ -54,7 +54,7 @@ Marketo 설명서에서 다른 용어가 표시될 수 있지만, 이러한 변�
  <tbody> 
   <tr> 
    <td><strong>이전</strong></td> 
-   <td><strong>새로 만들기</strong></td> 
+   <td><strong>신규</strong></td> 
   </tr> 
   <tr> 
    <td> 
@@ -91,7 +91,7 @@ Lead 라는 용어가 들어 있는 필드는 Person으로 대체되었거나 Le
  <tbody> 
   <tr> 
    <td><strong>이전</strong></td> 
-   <td><strong>새로 만들기</strong></td> 
+   <td><strong>신규</strong></td> 
   </tr> 
   <tr> 
    <td> 
@@ -120,7 +120,7 @@ Lead 라는 용어가 들어 있는 필드는 Person으로 대체되었거나 Le
  <tbody> 
   <tr> 
    <td><strong>이전</strong></td> 
-   <td><strong>새로 만들기</strong></td> 
+   <td><strong>신규</strong></td> 
   </tr> 
   <tr> 
    <td> 

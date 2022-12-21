@@ -1,19 +1,18 @@
 ---
 unique-page-id: 2949857
-description: 이벤트 채널 편집 - 마케팅 문서 - 제품 설명서
+description: 이벤트 채널 편집 - Marketo 문서 - 제품 설명서
 title: 이벤트 채널 편집
-translation-type: tm+mt
-source-git-commit: ed83438ae5660d172e845f25c4d72d599574bd91
+exl-id: 250cc42b-5d83-4741-8b2b-56134171f3a9
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '186'
 ht-degree: 0%
 
 ---
 
+# 이벤트 채널 편집 {#edit-an-event-channel}
 
-# 이벤트 채널 {#edit-an-event-channel} 편집
-
-이벤트의 **요약** 탭 또는 **설정** 탭에서 채널 유형을 편집할 수 있습니다.
+이벤트의 **요약** 탭 또는 **설정** 탭.
 
 >[!NOTE]
 >
@@ -21,19 +20,19 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->프로그램은 특정 마케팅 이니셔티브입니다. **channel**&#x200B;은 웨비나, 무역 박람회 또는 온라인 광고와 같은 전달 메커니즘이 되기 위한 것입니다. 자신의 인스턴스에서 사용 가능한 항목에 따라 드롭다운에 다른 채널 옵션이 표시될 수 있습니다. [고유한 채널](/help/marketo/product-docs/administration/tags/create-a-program-channel.md)을 만들 수도 있습니다.
+>프로그램은 특정 마케팅 이니셔티브입니다. 다음 **channel** 는 Webinar, Tradeshow 또는 Online Ad와 같은 게재 메커니즘으로 사용됩니다. 자체 인스턴스에서 사용할 수 있는 항목에 따라 드롭다운에 다른 채널 옵션이 표시될 수 있습니다. 다음을 수행할 수도 있습니다  [고유한 채널 만들기](/help/marketo/product-docs/administration/tags/create-a-program-channel.md).
 
 ## 요약 탭에서 {#from-the-summary-tab}
 
-1. **마케팅 활동**&#x200B;의 트리에서 이벤트를 선택합니다.
+1. From **마케팅 활동**&#x200B;트리에서 이벤트를 선택합니다.
 
    ![](assets/eventprogramseelct.png)
 
-1. **요약** 보기로 이동합니다.
+1. 로 이동합니다 **요약** 보기.
 
    ![](assets/eventprogramsummary.png)
 
-1. **설정** 범주에서 하이퍼링크로 표시된 현재 **채널**&#x200B;을 선택합니다.
+1. 아래에 **설정** 카테고리에서 현재 **채널** 하이퍼링크로 표시됩니다.
 
    ![](assets/channeltypeevent.png)
 
@@ -41,28 +40,28 @@ ht-degree: 0%
 
    ![](assets/tradeshowchange.png)
 
-1. **저장**&#x200B;을 클릭합니다.
+1. 클릭 **저장**.
 
    ![](assets/2017-06-13-09-35-53.png)
 
 ## 설정 탭에서 {#from-the-setup-tab}
 
-이벤트의 **설정** 탭에서 새 채널 유형을 할당할 수도 있습니다.
+이벤트의 **설정** 탭.
 
 1. 트리에서 이벤트를 선택합니다.
 
    ![](assets/eventprogramseelct.png)
 
-1. **설정** 탭으로 이동합니다. 현재 **채널**&#x200B;을 두 번 클릭합니다.
+1. 로 이동합니다 **설정** 탭. 현재 **채널**.
 
    ![](assets/setuptabchangechannel.png)
 
-1. 새 **채널**&#x200B;을 선택합니다.
+1. 새 항목 선택 **채널**.
 
    ![](assets/tradeshowchange.png)
 
-1. **저장**&#x200B;을 클릭합니다.
+1. 클릭 **저장**.
 
    ![](assets/2017-06-13-09-35-53.png)
 
-축하합니다! 채널을 편집했습니다!
+축하합니다! 방금 채널을 편집했습니다!

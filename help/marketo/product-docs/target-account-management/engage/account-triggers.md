@@ -1,29 +1,28 @@
 ---
 unique-page-id: 11380734
-description: 계정 트리거 - 마케팅 문서 - 제품 설명서
+description: 계정 트리거 - Marketo 문서 - 제품 설명서
 title: 계정 트리거
-translation-type: tm+mt
-source-git-commit: 9f88e7cebc5e9d0d4491d65d332ccfdd9a31c395
+exl-id: cf8d49ed-58c4-49d0-95e2-e5df8c9bef50
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '96'
 ht-degree: 0%
 
 ---
 
-
 # 계정 트리거 {#account-triggers}
 
-계정 수준 트리거를 사용하여 다양한 채널(예: 이메일, 웹, 광고)에서 계정 수준의 중요한 행동 활동을 경청하고 이에 따라 행동할 수 있습니다.
+계정 수준 트리거를 사용하여 다양한 채널(예: 이메일, 웹, 광고)에서 중요한 계정 수준 행동 활동을 경청하고 행동합니다.
 
-스마트 캠페인을 선택하고 **[!UICONTROL Smart List]**&#x200B;을 클릭합니다.
+스마트 캠페인을 선택하고 을(를) 클릭합니다 **[!UICONTROL Smart List]**.
 
 ![](assets/one-1.png)
 
-&quot;명명된 계정&quot;을 검색 상자에 입력하여 이름 지정된 계정 트리거를 모두 찾습니다.
+명명된 계정 트리거를 모두 찾으려면 검색 상자에 &quot;명명된 계정&quot;을 입력합니다.
 
 ![](assets/two-1.png)
 
-캔버스로 원하는 트리거를 드래그합니다. 이 예에서는 _명명된 계정에 추가됨_&#x200B;을 사용합니다.
+원하는 트리거를 캔버스로 드래그합니다. 이 예제에서는 _명명된 계정에 추가됨_.
 
 ![](assets/three-1.png)
 
@@ -31,7 +30,7 @@ ht-degree: 0%
 
 ![](assets/four-1.png)
 
-이름이 지정된 계정 드롭다운...을 클릭합니다.
+명명된 계정 드롭다운을 클릭합니다...
 
 ![](assets/five-1.png)
 
@@ -39,7 +38,7 @@ ht-degree: 0%
 
 ![](assets/six-1.png)
 
-바로 그거야! 나머지 고급 캠페인을 마친 후 활성화해야 합니다.
+됐습니다. 나머지 스마트 캠페인을 완료한 후 활성화해야 합니다.
 
 >[!MORELIKETHIS]
 >

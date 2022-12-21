@@ -22,7 +22,7 @@ ht-degree: 0%
 >
 >이 기능은 4월 28일 화요일에 릴리스됩니다.
 
-새 [Analytics 홈 페이지](/help/marketo/product-docs/reporting/basic-reporting/creating-reports/navigating-the-analytics-home-page.md)를 사용하면 사용 가능한 보고서 유형에서 임시 보고서를 실행할 수 있도록 빠른 액세스를 제공할 수 있습니다.
+새로운 [Analytics 홈 페이지](/help/marketo/product-docs/reporting/basic-reporting/creating-reports/navigating-the-analytics-home-page.md) 사용 가능한 보고서 유형에서 임시 보고서를 실행하는 데 빠른 액세스를 활성화합니다.
 
 ![](assets/image2015-4-20-11-3a18-3a8.png)
 
@@ -40,7 +40,7 @@ Marketo Mobile Engagement를 사용하면 매력적인 모바일 경험을 손�
 
 [linkedIn Lead Accelerator 통합](/help/marketo/product-docs/demand-generation/social/social-functions/use-a-marketo-list-or-smart-list-as-a-linkedin-audience-segment.md)
 
-리드 육성 전략을 유료 디스플레이 및 소셜 광고로 확장합니다. LinkedIn Lead Accelerator를 사용하는 [광고 네트워크 통합](/help/marketo/product-docs/demand-generation/ad-network-integrations/add-linkedin-matched-audiences-as-a-launchpoint-service.md)을 사용하면 스마트 또는 정적 목록의 구성원을 기준으로 LinkedIn 내에 대상 세그먼트를 안전하게 만들 수 있습니다. 그런 다음 LinkedIn 대상 세그먼트 내의 구성원을 관련 광고 시퀀스로 양성할 수 있습니다.
+리드 육성 전략을 유료 디스플레이 및 소셜 광고로 확장합니다. 다음 [광고 네트워크 통합](/help/marketo/product-docs/demand-generation/ad-network-integrations/add-linkedin-matched-audiences-as-a-launchpoint-service.md) LinkedIn Lead Accelerator를 사용하면 모든 스마트 또는 정적 목록 구성원을 기준으로 LinkedIn 내에 대상 세그먼트를 안전하게 만들 수 있습니다. 그런 다음 LinkedIn 대상 세그먼트 내의 구성원을 관련 광고 시퀀스로 양성할 수 있습니다.
 
 ![](assets/image2015-4-20-11-3a3-3a27.png)
 
@@ -50,8 +50,8 @@ Salesforce1 앱에서 사용할 수 있는 리드 피드, 최상의 선택, 흥�
 
 ![](assets/image2015-4-20-11-3a11-3a37.png) ![](assets/image2015-4-20-11-3a15-3a16.png)
 
-## RTP - 계정 기반 Marketing Analytics {#rtp-account-based-marketing-analytics}
+## RTP - Account-Based Marketing Analytics {#rtp-account-based-marketing-analytics}
 
-**RTP - 계정 기반 Marketing Analytics**
+**RTP - Account-Based Marketing Analytics**
 
 명명 계정 목록에 대한 새 성능 그래프를 사용하여 구매 주기의 각 단계를 기반으로 키 명명 계정 목록의 성능을 즉시 확인할 수 있습니다. 그래프는 방문 횟수 및 방문자 상태에 따라 행동에 대한 인식부터 시작하여 주요 조직에서 시작된 방문의 단계를 보여줍니다.

@@ -70,13 +70,13 @@ Salesforce 또는 Microsoft Dynamics를 사용하는 ABM 고객의 경우 ABM이
 
 ## 웹 개인화 {#web-personalization}
 
-**웹 Personalization용 일본어 데이터 소스**
+**웹 개인화를 위한 일본어 데이터 소스**
 
-Marketo은 일본에서 오는 방문자를 위한 웹 방문자 식별(역 IP 조회)과 개인화를 개선하기 위해 웹 Personalization에 대한 추가 일본어 데이터 소스를 추가하고 있습니다. 조직 이름이 일본어로 표시됩니다.
+Marketo은 일본에서 오는 방문자를 위한 웹 방문자 식별(역방향 IP 조회)과 개인화를 개선하기 위해 웹 개인화에 대한 추가 일본어 데이터 소스를 추가하고 있습니다. 조직 이름이 일본어로 표시됩니다.
 
 **[정적 목록을 사용하여 웹 세그먼트 만들기](/help/marketo/product-docs/web-personalization/using-web-segments/create-a-segment-using-a-static-list.md)**
 
-이제 웹 Personalization에서는 MLM(마케팅 활동)에 정의된 정적 목록에 속하는 알려진 웹 방문자에게 컨텐츠를 개인화할 수 있습니다. 이러한 개선 사항을 통해 이제 여러 채널에서 정적 목록을 마케팅하고 웹 사이트에서 개인화된 콘텐츠를 통해 이러한 목록에 있는 사람들을 타깃팅할 수 있습니다.
+이제 웹 개인화는 MLM(마케팅 활동)에 정의된 정적 목록에 속하는 알려진 웹 방문자에게 컨텐츠를 개인화할 수 있습니다. 이러한 개선 사항을 통해 이제 여러 채널에서 정적 목록을 마케팅하고 웹 사이트에서 개인화된 콘텐츠를 통해 이러한 목록에 있는 사람들을 타깃팅할 수 있습니다.
 
 ## ContentAI {#contentai}
 

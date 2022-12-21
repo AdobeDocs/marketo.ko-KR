@@ -1,29 +1,28 @@
 ---
 unique-page-id: 2359787
-description: 스트림 추가 - 마케팅 문서 - 제품 설명서
+description: 스트림 추가 - Marketo 문서 - 제품 설명서
 title: 스트림 추가
-translation-type: tm+mt
-source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
+exl-id: 3b46b9e3-aecd-4b21-b6f6-d682d0d517cf
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '55'
 ht-degree: 0%
 
 ---
 
+# 스트림 추가 {#add-a-stream}
 
-# 스트림 {#add-a-stream} 추가
+참여 프로그램은 둘 이상의 스트림을 보유할 수 있습니다. 여기에 새 것을 추가하는 방법이 있습니다.
 
-참여 프로그램은 둘 이상의 스트림을 보유할 수 있습니다. 여기에 새 항목을 추가하는 방법이 있습니다.
-
-1. **마케팅 활동**&#x200B;으로 이동합니다.
+1. 이동 **마케팅 활동**.
 
    ![](assets/login-marketing-activities-2.png)
 
-1. 참여 프로그램을 선택하고 **Streams** 탭을 클릭합니다.
+1. 참여 프로그램을 선택하고 **스트림** 탭.
 
    ![](assets/streamstablifecycle.jpg)
 
-1. **스트림 추가**&#x200B;를 클릭합니다.
+1. 클릭 **스트림 추가**.
 
    ![](assets/image2014-9-15-16-3a56-3a23.png)
 

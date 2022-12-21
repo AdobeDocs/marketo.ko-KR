@@ -6,7 +6,7 @@ exl-id: 830f7dc3-07fd-429b-b0fd-290ffdda88e6
 source-git-commit: ff076d66a193664aa6ec05cf940143cebdd2d942
 workflow-type: tm+mt
 source-wordcount: '342'
-ht-degree: 5%
+ht-degree: 6%
 
 ---
 
@@ -60,7 +60,7 @@ Marketo의 기본 CRM 동기화 솔루션을 Dynamics에 사용하는 경우 [�
   <tr> 
    <th colspan="1">릴리스 날짜</th> 
    <th colspan="1">버전</th> 
-   <th colspan="1">참고</th> 
+   <th colspan="1">참고 사항</th> 
   </tr> 
   <tr> 
    <td colspan="1">02/03/22</td> 

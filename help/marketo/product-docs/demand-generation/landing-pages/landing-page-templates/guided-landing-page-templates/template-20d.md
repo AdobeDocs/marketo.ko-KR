@@ -12,7 +12,7 @@ ht-degree: 0%
 
 # 템플릿 20D {#template-20d}
 
-[템플릿 20D](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-20d.html)을 마우스 오른쪽 단추로 클릭합니다.
+마우스 오른쪽 단추를 클릭하여 [템플릿 20D 다운로드](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-20d.html)
 
 ![](assets/template-20d.png)
 

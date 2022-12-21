@@ -5,14 +5,14 @@ title: 템플릿 16A
 exl-id: c55e4f9c-7aca-4cb6-b79a-5b25fd70ac3e
 source-git-commit: bfcd66388b0d77cf3f1743b0778026a1e5a1ec61
 workflow-type: tm+mt
-source-wordcount: '0'
+source-wordcount: '60'
 ht-degree: 0%
 
 ---
 
 # 템플릿 16A {#template-16a}
 
-마우스 오른쪽 단추를 클릭하여 [템플릿 16A](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-16a.html) 다운로드
+마우스 오른쪽 단추를 클릭하여 [템플릿 16A 다운로드](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-16a.html)
 
 ![](assets/image2015-8-14-10-3a19-3a21.png)
 

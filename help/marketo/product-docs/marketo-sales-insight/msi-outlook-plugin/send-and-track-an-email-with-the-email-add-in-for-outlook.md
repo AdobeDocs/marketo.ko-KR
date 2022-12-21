@@ -1,58 +1,57 @@
 ---
 unique-page-id: 2949716
-description: Outlook용 이메일 추가 기능을 사용하여 이메일 보내기 및 추적 - Marketing To Docs - 제품 설명서
-title: Outlook용 이메일 추가 기능을 사용하여 이메일 보내기 및 추적
-translation-type: tm+mt
-source-git-commit: 972cf9769ac751d9abfd5665975703dcd07930f0
+description: Outlook용 전자 메일 추가 기능을 사용하여 전자 메일 보내기 및 추적 - Marketo 문서 - 제품 설명서
+title: Outlook용 전자 메일 추가 기능을 사용하여 전자 메일 보내기 및 추적
+exl-id: 81c2ce86-1528-48ad-8848-ee5a828f9ff7
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '236'
 ht-degree: 0%
 
 ---
 
-
 # Outlook용 전자 메일 추가 기능을 사용하여 전자 메일 보내기 및 추적 {#send-and-track-an-email-with-the-email-add-in-for-outlook}
 
-Outlook에서 바로 Marketing To를 사용하여 이메일을 보내고 추적할 수 있습니다.
+Outlook에서 직접 Marketo으로 이메일을 전송하고 추적할 수 있습니다.
 
 >[!PREREQUISITES]
 >
->아직 설치하지 않은 경우 Outlook](/help/marketo/product-docs/marketo-sales-insight/msi-outlook-plugin/install-the-marketo-email-add-in-for-outlook-with-a-registration-code.md)용 [Marketing 전자 메일 추가 기능을 설치합니다.
+>아직 설치하지 않은 경우 [Outlook용 Marketo 이메일 추가 기능](/help/marketo/product-docs/marketo-sales-insight/msi-outlook-plugin/install-the-marketo-email-add-in-for-outlook-with-a-registration-code.md).
 
-1. Microsoft Outlook을 열고 새 전자 메일을 만듭니다.
+1. Microsoft Outlook을 열고 새 이메일을 만듭니다.
 
    ![](assets/image2014-9-23-16-3a6-3a46.png)
 
    >[!CAUTION]
    >
-   >이메일에 받는 사람이 여러 명인 경우 첫 번째 받는 사람 아래에서 모든 활동이 추적됩니다.
+   >이메일에 여러 수신자를 포함하는 경우 모든 활동이 첫 번째 수신자 아래에서 추적됩니다.
 
-1. 평소대로 이메일을 작성한 다음 **보내기 및 추적**&#x200B;을 클릭합니다.
+1. 평소대로 이메일을 작성한 다음 **보내기 및 추적**.
 
    ![](assets/image2014-9-23-16-3a7-3a1.png)
 
    >[!NOTE]
    >
-   >마케팅 인스턴스에 존재하지 않는 사람에게 이메일을 보내면 사람 레코드가 자동으로 생성됩니다. 그들의 성은 쉽게 찾을 수 있도록 항상 &#39;mktUnknown&#39;이 됩니다.
+   >Marketo 인스턴스에 없는 사람에게 이메일을 보낼 경우 개인 레코드가 자동으로 생성됩니다. 그들의 성은 쉽게 찾을 수 있도록 항상 &#39;mktUnknown&#39;입니다.
 
    >[!TIP]
    >
-   >Marketing 템플릿을 사용하려면 [템플릿을 사용하여 Outlook에서 보내기 및 추적을 참조하십시오](/help/marketo/product-docs/marketo-sales-insight/msi-outlook-plugin/send-and-track-from-outlook-using-a-marketo-template.md).
+   >Marketo 템플릿을 사용하려면 다음을 참조하십시오. [템플릿을 사용하여 Outlook에서 보내기 및 추적](/help/marketo/product-docs/marketo-sales-insight/msi-outlook-plugin/send-and-track-from-outlook-using-a-marketo-template.md).
 
-1. 미리 보기를 보고 **보내기**&#x200B;를 클릭합니다.
+1. 미리 보기를 보고 를 클릭합니다 **보내기**.
 
    ![](assets/image2014-9-23-16-3a7-3a13.png)
 
    >[!CAUTION]
    >
-   >스팸 방지 기술은 이메일을 보낸 후 20초 이내에 열리는 클릭과 열기를 거부하는 경우가 종종 있으므로 테스트하는 동안 최소 그 시간이 오래 기다리십시오.
+   >스팸 방지 기술은 이메일을 보낸 후 20초 이내에 발생하는 열기 및 클릭 수를 종종 거부하므로 테스트하는 동안 열기/클릭이 적어도 오래 기다리십시오.
 
-   Outlook을 통해 보낸 이메일을 받은 사람을 보려면 &quot;보낸 이메일&quot; 필터를 사용하여 스마트 목록을 만듭니다.
+   Outlook을 통해 보낸 전자 메일을 받은 사람을 보려면 &quot;Was Sent Sales Email&quot; 필터를 사용하여 스마트 목록을 만드십시오.
 
    ![](assets/was-sent-sales-email.png)
 
-정말 쉬워! 이 이메일은 판매원의 Outlook에서 전송되었지만 Marketing Cloud에서 추적됩니다.
+그렇게 쉬워요! 이 이메일은 판매원의 Outlook에서 전송되었지만 Marketo에서 추적됩니다.
 
 >[!MORELIKETHIS]
 >
->[Marketing에서 리드의 인바운드 메일 기록](/help/marketo/product-docs/marketo-sales-insight/using-msi/log-inbound-mail-from-your-leads-in-marketo.md)
+>[Marketo에서 리드의 인바운드 메일 로그](/help/marketo/product-docs/marketo-sales-insight/using-msi/log-inbound-mail-from-your-leads-in-marketo.md)

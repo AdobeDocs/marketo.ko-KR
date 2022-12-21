@@ -5,14 +5,14 @@ title: 템플릿 1E
 exl-id: 3ff781e3-2dc9-4581-b116-e588596c0249
 source-git-commit: bfcd66388b0d77cf3f1743b0778026a1e5a1ec61
 workflow-type: tm+mt
-source-wordcount: '0'
+source-wordcount: '60'
 ht-degree: 0%
 
 ---
 
 # 템플릿 1E {#template-1e}
 
-마우스 오른쪽 단추를 클릭하여 [템플릿 1E](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-1e.html) 다운로드
+마우스 오른쪽 단추를 클릭하여 [템플릿 1E 다운로드](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-1e.html)
 
 ![](assets/image2015-5-29-9-3a14-3a40.png)
 

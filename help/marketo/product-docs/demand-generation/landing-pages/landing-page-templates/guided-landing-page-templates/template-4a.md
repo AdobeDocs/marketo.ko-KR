@@ -12,7 +12,7 @@ ht-degree: 0%
 
 # 템플릿 4A {#template-4a}
 
-마우스 오른쪽 단추를 클릭하여 [템플릿 4A](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-4a.html) 다운로드
+마우스 오른쪽 단추를 클릭하여 [템플릿 4A 다운로드](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-4a.html)
 
 ![](assets/image2015-6-29-16-3a2-3a6.png)
 

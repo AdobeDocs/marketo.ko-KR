@@ -1,9 +1,8 @@
 ---
 unique-page-id: 1146999
-description: 흥미로운 순간을 위한 토큰 트리거 - Marketo 문서 - 제품 설명서
+description: 흥미로운 순간에 대한 토큰 트리거 - Marketo 문서 - 제품 설명서
 title: 흥미로운 순간에 대한 토큰 트리거
 exl-id: 666a6eed-c432-4088-b4f1-54c996eca64c
-translation-type: tm+mt
 source-git-commit: f4c773ca76542827a498940f44b018ddb71816d6
 workflow-type: tm+mt
 source-wordcount: '436'
@@ -11,23 +10,23 @@ ht-degree: 0%
 
 ---
 
-# 관심 있는 순간에 대한 토큰 트리거 {#trigger-tokens-for-interesting-moments}
+# 흥미로운 순간에 대한 토큰 트리거 {#trigger-tokens-for-interesting-moments}
 
 >[!PREREQUISITES]
 >
->[흥미로운 모멘트 흐름 단계](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/interesting-moment.md)를 사용하는 방법에 대해 학습합니다.
+>사용 방법 알아보기 [흥미로운 모멘트 흐름 단계](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/interesting-moment.md).
 
 ## 사용 가능한 토큰 {#available-tokens}
 
-흥미로운 순간에 넣을 수 있는 모든 토큰을 보려면 [토큰 개요](/help/marketo/product-docs/demand-generation/landing-pages/personalizing-landing-pages/tokens-overview.md)를 확인하십시오.
+체크 아웃 [토큰 개요](/help/marketo/product-docs/demand-generation/landing-pages/personalizing-landing-pages/tokens-overview.md) 모든 토큰을 확인하는 것이 매우 흥미로운 순간입니다.
 
 ## 트리거 토큰 {#trigger-tokens}
 
 스마트 캠페인에 사용된 트리거를 기반으로 추가 트리거 토큰을 사용할 수 있습니다.
 
-* `{{trigger.Trigger Name}}` 그것은 항상 실제 방아쇠 자체이다. 예:이메일에서 링크를 클릭합니다.
-* `{{trigger.Name}}` 은 캠페인을 트리거한 자산의 이름입니다. 예:웹 페이지에 대한 링크 클릭은 URL 자체이며 Salesforce 트리거 등에 적용됩니다.
-* 추가 트리거는 아래에 나열된 제한 조건을 기반으로 사용할 수 있습니다.
+* `{{trigger.Trigger Name}}` 항상 실제 트리거 자체입니다. 예: 이메일에서 링크 클릭.
+* `{{trigger.Name}}` 은 캠페인을 트리거한 자산의 이름입니다. 예: 웹 페이지에서 클릭 링크 는 URL 자체, Salesforce 트리거 제목 등입니다.
+* 추가 트리거는 아래에 나열된 제한을 기반으로 사용할 수 있습니다.
 
 **이메일 트리거**
 
@@ -67,7 +66,7 @@ ht-degree: 0%
    <th><code>{{trigger.Browser}}</code></th>
   </tr> 
   <tr> 
-   <td>이메일에 있는 링크 클릭 수</td> 
+   <td>이메일의 클릭 링크</td> 
    <td><img src="assets/check.png" alt="check"></td> 
    <td><img src="assets/check.png" alt="check"></td> 
    <td><img src="assets/check.png" alt="check"></td> 
@@ -84,7 +83,7 @@ ht-degree: 0%
    <td><br></td>
   </tr> 
   <tr> 
-   <td>이메일 바운스 하드</td> 
+   <td>이메일 바운스 수 하드</td> 
    <td><img src="assets/check.png" alt="check"></td> 
    <td><img src="assets/check.png" alt="check"></td> 
    <td><br></td> 
@@ -135,7 +134,7 @@ ht-degree: 0%
    <td><br></td>
   </tr> 
   <tr> 
-   <td>이메일 열기</td> 
+   <td>전자 메일 열기</td> 
    <td><img src="assets/check.png" alt="check"></td> 
    <td><img src="assets/check.png" alt="check"></td> 
    <td><br></td> 
@@ -152,7 +151,7 @@ ht-degree: 0%
    <td><br></td>
   </tr> 
     <tr> 
-   <td>친구에게 보낸 이메일 수신</td> 
+   <td>친구에게 전달 전자 메일 수신</td> 
    <td><img src="assets/check.png" alt="check"></td> 
    <td><img src="assets/check.png" alt="check"></td> 
    <td><br></td> 
@@ -169,7 +168,7 @@ ht-degree: 0%
    <td><br></td>
   </tr> 
     <tr> 
-   <td>친구에게 보낸 이메일</td> 
+   <td>친구 전자 메일로 보내기</td> 
    <td><img src="assets/check.png" alt="check"></td> 
    <td><img src="assets/check.png" alt="check"></td> 
    <td><br></td> 
@@ -186,7 +185,7 @@ ht-degree: 0%
    <td><img src="assets/check.png" alt="check"></td>
   </tr> 
   <tr> 
-   <td>이메일의 가입 해지</td> 
+   <td>이메일에서 가입 해지</td> 
    <td><img src="assets/check.png" alt="check"></td> 
    <td><img src="assets/check.png" alt="check"></td> 
    <td><br></td> 
@@ -243,7 +242,7 @@ ht-degree: 0%
    <th><code>{{trigger.Browser}}</code></th>
   </tr> 
   <tr> 
-   <td>영업 이메일의 클릭 수 링크</td> 
+   <td>영업 전자 메일의 클릭 링크</td> 
    <td><img src="assets/check.png" alt="check"></td> 
    <td><img src="assets/check.png" alt="check"></td> 
    <td><img src="assets/check.png" alt="check"></td> 
@@ -260,7 +259,7 @@ ht-degree: 0%
    <td><br></td>
   </tr> 
   <tr> 
-   <td>영업 이메일이 전송됨</td> 
+   <td>판매 이메일을 보냅니다.</td> 
    <td><img src="assets/check.png" alt="check"></td> 
    <td><img src="assets/check.png" alt="check"></td> 
    <td><img src="assets/check.png" alt="check"></td> 
@@ -277,7 +276,7 @@ ht-degree: 0%
    <td><br></td>
   </tr> 
   <tr> 
-   <td>영업 이메일 열기</td> 
+   <td>영업 전자 메일 열기</td> 
    <td><img src="assets/check.png" alt="check"></td> 
    <td><img src="assets/check.png" alt="check"></td> 
    <td><img src="assets/check.png" alt="check"></td> 
@@ -311,7 +310,7 @@ ht-degree: 0%
    <td><br></td>
   </tr> 
   <tr> 
-   <td>판매 이메일 수신</td> 
+   <td>영업 전자 메일 수신</td> 
    <td><img src="assets/check.png" alt="check"></td> 
    <td><img src="assets/check.png" alt="check"></td> 
    <td><img src="assets/check.png" alt="check"></td> 
@@ -328,7 +327,7 @@ ht-degree: 0%
    <td><br></td>
   </tr> 
     <tr> 
-   <td>기회가 업데이트됨</td> 
+   <td>Opportunity 가 업데이트됨</td> 
    <td><img src="assets/check.png" alt="check"></td> 
    <td><img src="assets/check.png" alt="check"></td> 
    <td><br></td> 
@@ -362,7 +361,7 @@ ht-degree: 0%
    <td><br></td>
   </tr> 
   <tr> 
-   <td>전환된 사람</td> 
+   <td>개인 변환</td> 
    <td><img src="assets/check.png" alt="check"></td> 
    <td><img src="assets/check.png" alt="check"></td> 
    <td><br></td> 
@@ -379,7 +378,7 @@ ht-degree: 0%
    <td><br></td>
   </tr> 
   <tr> 
-   <td>SFDC에서 인물 삭제</td> 
+   <td>SFDC에서 개인 삭제</td> 
    <td><img src="assets/check.png" alt="check"></td> 
    <td><img src="assets/check.png" alt="check"></td> 
    <td><br></td> 
@@ -396,7 +395,7 @@ ht-degree: 0%
    <td><br></td>
   </tr> 
   <tr> 
-   <td>사람이 SFDC에 동기화됨</td> 
+   <td>개인이 SFDC에 동기화됨</td> 
    <td><img src="assets/check.png" alt="check"></td> 
    <td><img src="assets/check.png" alt="check"></td> 
    <td><br></td> 
@@ -481,7 +480,7 @@ ht-degree: 0%
    <td><br></td>
   </tr> 
   <tr> 
-   <td>기회에 추가</td> 
+   <td>Opportunity에 추가됨</td> 
    <td><img src="assets/check.png" alt="check"></td> 
    <td><img src="assets/check.png" alt="check"></td> 
    <td><br></td> 
@@ -515,7 +514,7 @@ ht-degree: 0%
    <td><br></td>
   </tr> 
   <tr> 
-   <td>SFDC 캠페인에서 상태가 변경됨</td> 
+   <td>SFDC Campaign에서 상태가 변경됨</td> 
    <td><br></td> 
    <td><br></td> 
    <td><br></td> 
@@ -534,7 +533,7 @@ ht-degree: 0%
  </tbody> 
 </table>
 
-**판매 연결 트리거**
+**영업 연결 트리거**
 
 <table style="table-layout:auto"> 
  <colgroup> 
@@ -572,7 +571,7 @@ ht-degree: 0%
    <th><code>{{trigger.Browser}}</code></th>
   </tr> 
   <tr> 
-   <td>영업 이메일의 클릭 수 링크</td> 
+   <td>영업 전자 메일의 클릭 링크</td> 
    <td><img src="assets/check.png" alt="check"></td> 
    <td><img src="assets/check.png" alt="check"></td> 
    <td><img src="assets/check.png" alt="check"></td> 
@@ -589,7 +588,7 @@ ht-degree: 0%
    <td><br></td>
   </tr> 
   <tr> 
-   <td>영업 이메일이 전송됨</td> 
+   <td>판매 이메일을 보냅니다.</td> 
    <td><img src="assets/check.png" alt="check"></td> 
    <td><img src="assets/check.png" alt="check"></td> 
    <td><img src="assets/check.png" alt="check"></td> 
@@ -606,7 +605,7 @@ ht-degree: 0%
    <td><br></td>
   </tr> 
   <tr> 
-   <td>영업 이메일 열기</td> 
+   <td>영업 전자 메일 열기</td> 
    <td><img src="assets/check.png" alt="check"></td> 
    <td><img src="assets/check.png" alt="check"></td> 
    <td><img src="assets/check.png" alt="check"></td> 
@@ -640,7 +639,7 @@ ht-degree: 0%
    <td><br></td>
   </tr> 
   <tr> 
-   <td>판매 이메일 수신</td> 
+   <td>영업 전자 메일 수신</td> 
    <td><img src="assets/check.png" alt="check"></td> 
    <td><img src="assets/check.png" alt="check"></td> 
    <td><img src="assets/check.png" alt="check"></td> 
@@ -692,7 +691,7 @@ ht-degree: 0%
    <td><br></td>
   </tr> 
   <tr> 
-   <td>접수 판매 전화</td> 
+   <td>수신한 영업 호출</td> 
    <td><img src="assets/check.png" alt="check"></td> 
    <td><img src="assets/check.png" alt="check"></td> 
    <td><br></td> 
@@ -783,7 +782,7 @@ ht-degree: 0%
    <td><br></td>
   </tr> 
   <tr> 
-   <td>웹 페이지에서 링크 클릭 수</td> 
+   <td>웹 페이지에서 링크 클릭</td> 
    <td><img src="assets/check.png" alt="check"></td> 
    <td><img src="assets/check.png" alt="check"></td> 
    <td><br></td> 
@@ -804,9 +803,9 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->검사 ![(tick)](assets/check.png)이 없으면 흥미로운 순간에 빈 문자열(아무것도 없음)이 반환됩니다.
+>수표가 없으면 ![(틱)](assets/check.png) 그런 다음 흥미로운 순간에 빈 문자열(아무것도 없음)을 반환합니다.
 
-*트리거 **방문 웹 페이지**&#x200B;에는 추가적인 토큰이 몇 개 있습니다.
+&#42;트리거 **웹 페이지 방문 횟수** 에는 다음과 같은 몇 가지 추가 토큰이 있습니다.
 
 * `{{trigger.Referrer}}`
 * `{{trigger.Search Engine}}`
@@ -814,6 +813,6 @@ ht-degree: 0%
 
 >[!TIP]
 >
->흥미로운 순간을 테스트하여 의도한 대로 표현할 수 있습니다.
+>항상 흥미로운 순간을 테스트하여 의도한 대로 렌더링합니다.
 >
->또한, 판매 담당자에게도 재미있는지 확인해 보십시오. 여러분들에게만은 아닙니다.
+>또한, 판매 직원에게도 재미있는지, 여러분들에게만이 아닌, 확인하라!

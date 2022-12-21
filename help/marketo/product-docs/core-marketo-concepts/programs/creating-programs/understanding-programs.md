@@ -3,7 +3,6 @@ unique-page-id: 1147089
 description: 프로그램 이해 - Marketo 문서 - 제품 설명서
 title: 프로그램 이해
 exl-id: 3ba18df8-9b31-4a69-bb52-f50d3896bb47
-translation-type: tm+mt
 source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '149'
@@ -13,31 +12,31 @@ ht-degree: 0%
 
 # 프로그램 이해 {#understanding-programs}
 
-프로그램은 단일 마케팅 이니셔티브를 나타냅니다. 이 매개 변수를 컨테이너(로컬 자산이라고 함) 및 **랜딩 페이지**, **이메일**, **스마트 캠페인** 등이 포함된 것으로 생각하면 됩니다. 프로그램은 많은 작업을 수행하지만 시작하기 쉽습니다.
+프로그램은 단일 마케팅 이니셔티브를 나타냅니다. 프로그램을 작동시키는 데 필요한 모든 것이 들어 있는 컨테이너로 생각할 수 있습니다. 로컬 자산이라고 하며 다음을 포함합니다 **랜딩 페이지**, **이메일**, **스마트 캠페인**, 등. 프로그램들이 많은 일을 하지만 시작하기 쉽습니다.
 
-4가지 유형의 프로그램이 있습니다.
+다음 네 가지 유형의 프로그램이 있습니다.
 
 **이벤트 프로그램**
 
-**[이벤트](/help/marketo/product-docs/demand-generation/events/understanding-events/understanding-event-programs.md)** 는 특정 시간 및 날짜를 지정합니다. 라이브 및 온라인 이벤트를 조정, 지원 및 추적할 수 있습니다.
+**[이벤트](/help/marketo/product-docs/demand-generation/events/understanding-events/understanding-event-programs.md)** 특정 시간과 날짜가 있습니다. Adobe Campaign은 라이브 및 온라인 이벤트를 조정, 지원 및 추적하는 데 도움이 됩니다.
 
 **참여 프로그램**
 
-**[드립](/help/marketo/product-docs/email-marketing/drip-nurturing/creating-an-engagement-program/understanding-engagement-programs.md)** 누링글리제는 일정한 주기율제로 사람들을 양성하는데 사용된다.
+**[점적 성장](/help/marketo/product-docs/email-marketing/drip-nurturing/creating-an-engagement-program/understanding-engagement-programs.md)** 이것은 일정한 주기적인 일정에서 사람들을 육성하는 데 사용됩니다.
 
 **이메일 프로그램**
 
-**[클래식 메일이](/help/marketo/product-docs/email-marketing/email-programs/creating-an-email-program/understanding-email-programs.md)**&#x200B;을(를) 폭발시킵니다. A/B 테스트 및 **[이메일 헤드 시작](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/head-start-for-email-programs.md)**&#x200B;과 같은 멋진 내장 기능이 있습니다.
+다음 **[클래식 메일 송풍](/help/marketo/product-docs/email-marketing/email-programs/creating-an-email-program/understanding-email-programs.md)**. A/B 테스트 및 와 같은 멋진 내장 기능이 있습니다 **[이메일 헤드 시작](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/head-start-for-email-programs.md)**.
 
 **기본 프로그램**
 
-기본 프로그램은 이벤트, 참여 또는 이메일 프로그램이 아닌 모든 것입니다. 크리에이티브한 경험 전달
+기본 프로그램은 이벤트, 참여 또는 이메일 프로그램이 아닌 모든 프로그램입니다. 창의력을 발휘하십시오.
 
-시작합시다!
+시작해 보겠습니다!
 
 >[!MORELIKETHIS]
 >
 >* [프로그램 만들기](/help/marketo/product-docs/email-marketing/email-programs/creating-an-email-program/create-an-email-program.md)
 >* [태그 이해](/help/marketo/product-docs/core-marketo-concepts/programs/working-with-programs/understanding-tags.md)
->* [프로그램 회원 이해](/help/marketo/product-docs/core-marketo-concepts/programs/creating-programs/understanding-program-membership.md)
+>* [프로그램 멤버십 이해](/help/marketo/product-docs/core-marketo-concepts/programs/creating-programs/understanding-program-membership.md)
 

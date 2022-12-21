@@ -5,7 +5,7 @@ exl-id: 004c9cdf-7ab1-4476-ba72-9074d978b887
 source-git-commit: 66baa3063b2f6798f04f1b81d6ea52a484975174
 workflow-type: tm+mt
 source-wordcount: '513'
-ht-degree: 0%
+ht-degree: 2%
 
 ---
 
@@ -70,7 +70,7 @@ ht-degree: 0%
    <td>이메일을 만든 날짜입니다.</td> 
   </tr> 
   <tr> 
-   <td><strong>마지막 업데이트 날짜</td> 
+   <td><strong>마지막 업데이트</td> 
    <td>이메일이 마지막으로 업데이트된 날짜입니다.</td> 
   </tr> 
   <tr> 

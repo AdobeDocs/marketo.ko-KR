@@ -47,7 +47,7 @@ DNS 레코드로 보내는 랜딩 페이지 CNAME을 추가하여 `[YourLandingP
 이메일 CNAME 마케팅을 보내어 `[YourEmailCNAME]` 점 [MktoTrackingLink], Marketo이 할당한 기본 추적 링크(형식:\
 `[YourEmailCNAME].[YourDomain].com` CNAME에서 `[MktoTrackingLink]`
 
-예:
+For example:
 
 `pages.abc.com IN CNAME mkto-a0244.com`
 
@@ -70,7 +70,8 @@ DNS 레코드로 보내는 랜딩 페이지 CNAME을 추가하여 `[YourLandingP
 다음 IP 주소를 회사허용 목록에 추가하다에 추가합니다.
 
 199.15.212.0/22\
-192.28.144.0/20 192.28.160.0/19\
+192.28.144.0/20
+192.28.160.0/19\
 185.28.196.0/22\
 130.248.172.0/24\
 130.248.173.0/24\

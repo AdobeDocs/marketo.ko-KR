@@ -1,31 +1,28 @@
 ---
 unique-page-id: 2359455
-description: 이메일 프로그램 예약 - 마케팅 문서 - 제품 설명서
+description: 이메일 프로그램 예약 - Marketo 문서 - 제품 설명서
 title: 이메일 프로그램 예약
-translation-type: tm+mt
-source-git-commit: 8d45a28e1c2adad3e04645f7150f1757414092f0
+exl-id: c125166f-3e0d-49a5-ad83-7abac51da713
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '136'
 ht-degree: 0%
 
 ---
 
-
-# 이메일 프로그램 {#schedule-your-email-program} 예약
+# 이메일 프로그램 예약 {#schedule-your-email-program}
 
 >[!PREREQUISITES]
 >
 >* [이메일 프로그램 만들기](/help/marketo/product-docs/email-marketing/email-programs/creating-an-email-program/create-an-email-program.md)
->* [Smart List를 사용하여 대상 ](/help/marketo/product-docs/email-marketing/email-programs/managing-people-in-email-programs/define-an-audience-with-a-smart-list.md) 정의 또는 목록 [을 가져와 대상 정의](/help/marketo/product-docs/email-marketing/email-programs/managing-people-in-email-programs/define-an-audience-by-importing-a-list.md)
-
-   >
-   >
-* [기존 이메일 ](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/choose-an-existing-email.md) 선택 또는  [이메일 프로그램용 이메일 만들기](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/create-an-email-for-an-email-program.md)
+>* [스마트 목록으로 대상 정의](/help/marketo/product-docs/email-marketing/email-programs/managing-people-in-email-programs/define-an-audience-with-a-smart-list.md) 또는 [목록을 가져와서 대상 정의](/help/marketo/product-docs/email-marketing/email-programs/managing-people-in-email-programs/define-an-audience-by-importing-a-list.md)
+>
+>* [기존 이메일 선택](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/choose-an-existing-email.md) 또는 [이메일 프로그램용 이메일 만들기](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/create-an-email-for-an-email-program.md)
 
 
-이메일 프로그램을 만들고, 대상을 정의하고, 전자 메일을 선택한 상태에서 *when*&#x200B;에 이메일을 보내도록 지시해야 합니다. 방법
+이메일 프로그램 작성, 대상자 정의 및 이메일을 선택하면 프로그램에 대해 알리는 메시지가 표시됩니다 *when* 전자 메일을 보내려면 방법은 다음과 같습니다.
 
-1. **마케팅 활동**&#x200B;으로 이동합니다.
+1. 이동 **마케팅 활동**.
 
    ![](assets/login-marketing-activities-1.png)
 
@@ -33,22 +30,22 @@ ht-degree: 0%
 
    ![](assets/selectemailprogram-1.jpg)
 
-1. **일정** 타일 아래에서 날짜를 설정합니다.
+1. 아래에 **예약** 타일에서 날짜를 설정합니다.
 
    ![](assets/image2017-12-5-14-3a4-3a28.png)
 
-1. 그리고 시간.
+1. 그리고 시간이
 
    ![](assets/image2017-12-5-14-3a3-3a58.png)
 
-1. [수신자 시간대](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/scheduling-with-recipient-time-zone/schedule-email-programs-with-recipient-time-zone.md) 및/또는 [헤드 시작](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/head-start-for-email-programs.md) 기능을 사용하도록 선택할 수도 있습니다.
+1. 를 사용하도록 선택할 수도 있습니다 [받는 사람 시간대](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/scheduling-with-recipient-time-zone/schedule-email-programs-with-recipient-time-zone.md) 및/또는 [헤드 시작](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/head-start-for-email-programs.md) 기능.
 
    ![](assets/image2017-12-5-14-3a3-3a12.png)
 
-   얼마나 쉬웠죠? 남은 것은 [이메일 프로그램](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/approve-unapprove-an-email-program.md)을 승인하면 됩니다.
+   얼마나 쉽죠? 남은 것은 [이메일 프로그램 승인](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/approve-unapprove-an-email-program.md) 넌 가도 좋아
 
 >[!MORELIKETHIS]
 >
->* [받는 사람 시간대로 이메일 프로그램 예약](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/scheduling-with-recipient-time-zone/schedule-email-programs-with-recipient-time-zone.md)
->* [이메일 프로그램의 즉각적인 시작](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/head-start-for-email-programs.md)
+>* [수신자 시간대로 이메일 프로그램 예약](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/scheduling-with-recipient-time-zone/schedule-email-programs-with-recipient-time-zone.md)
+>* [이메일 프로그램 시작 시기](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/head-start-for-email-programs.md)
 

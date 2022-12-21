@@ -3,7 +3,6 @@ unique-page-id: 2949240
 description: SEO - 키워드 제거 - Marketo 문서 - 제품 설명서
 title: SEO - 키워드 제거
 exl-id: 4eba33aa-a397-4a02-8d24-3dbd945f9ac4
-translation-type: tm+mt
 source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '70'
@@ -11,20 +10,20 @@ ht-degree: 0%
 
 ---
 
-# SEO - 키워드 {#seo-remove-a-keyword} 제거
+# SEO - 키워드 제거 {#seo-remove-a-keyword}
 
-계속 최적화하지 않을 키워드가 있는 경우 이를 제거하는 방법을 설명합니다.
+계속 최적화하지 않으려는 키워드가 있는 경우 제거하는 방법을 설명합니다.
 
-1. 을 클릭하여 **키워드** 섹션으로 이동합니다.
+1. 을(를) 클릭하여 **키워드** 섹션을 참조하십시오.
 
    ![](assets/image2014-9-18-13-3a35-3a52.png)
 
-1. 제거할 키워드 위로 마우스를 가져간 후 **DELETE**&#x200B;을 클릭합니다.
+1. 제거할 키워드 위로 마우스를 가져간 다음 **DELETE**.
 
    ![](assets/image2014-9-18-13-3a36-3a6.png)
 
-1. 다시 **삭제**&#x200B;를 클릭하여 확인합니다.
+1. 클릭 **삭제** 다시 확인합니다.
 
    ![](assets/image2014-9-18-13-3a36-3a11.png)
 
-   정말 다행이네요! 이제 더 크고 더 좋은 것으로 옮겨갈 수 있습니다.
+   정말 다행이네요! 이제 더 크고 더 나은 것으로 옮겨갈 수 있습니다.

@@ -3,7 +3,6 @@ unique-page-id: 2360496
 description: 스마트 목록 필터에 여러 값 추가 - Marketo 문서 - 제품 설명서
 title: 스마트 목록 필터에 여러 값 추가
 exl-id: 5f9aaf1b-a3a6-4acf-82ea-7d70d1af1763
-translation-type: tm+mt
 source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '132'
@@ -11,7 +10,7 @@ ht-degree: 0%
 
 ---
 
-# 스마트 목록 필터 {#add-multiple-values-to-a-smart-list-filter}에 여러 값 추가
+# 스마트 목록 필터에 여러 값 추가 {#add-multiple-values-to-a-smart-list-filter}
 
 >[!PREREQUISITES]
 >
@@ -19,25 +18,25 @@ ht-degree: 0%
 >* [스마트 목록에 필터 찾기 및 추가](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/creating-a-smart-list/find-and-add-filters-to-a-smart-list.md)
 
 
-캘리포니아에 있는 모든 사용자를 찾고 싶지만, 데이터베이스에 **California**&#x200B;와 **CA**&#x200B;을 모두 저장할 수 있습니다. 적용 가능한 사람을 모두 포함하려면 두 개의 **상태** 필터를 사용할 수 있지만 한 사람이면 더 쉽습니다.
+캘리포니아에 있는 모든 사람을 찾고싶다고 가정해봅시다. 하지만 둘 다 저장하고 있을 수도 있습니다 **캘리포니아** 및 **CA** 참조하십시오. 적용 가능한 사람을 모두 포함하려면 **주/도** 필터, 하지만 필터를 사용하면 더 쉽습니다.
 
-1. **마케팅 활동**&#x200B;으로 이동합니다.
+1. 이동 **마케팅 활동**.
 
    ![](assets/login-marketing-activities-2.png)
 
-1. 스마트 목록을 찾아 선택하고 **스마트 목록** 탭을 클릭합니다.
+1. 스마트 목록을 찾아 선택하고 **Smart List** 탭.
 
    ![](assets/smarlist-choosefilters.png)
 
-1. 필터에서 **+**&#x200B;을 클릭합니다.
+1. 을(를) 클릭합니다. **+** 필터 아래에 표시합니다.
 
    ![](assets/smartlist-plussignhand-.png)
 
-1. 왼쪽에서 값을 선택하거나 오른쪽에 입력한 다음 **확인**&#x200B;을 클릭합니다.
+1. 왼쪽에서 값을 선택하거나 오른쪽에 입력한 다음 를 클릭합니다 **확인**.
 
    ![](assets/image2014-9-11-17-3a51-3a39.png)
 
-신속한 작업
+빨리!
 
 >[!MORELIKETHIS]
 >

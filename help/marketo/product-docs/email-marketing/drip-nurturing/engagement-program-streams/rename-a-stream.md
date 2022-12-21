@@ -1,21 +1,20 @@
 ---
 unique-page-id: 2359832
-description: 스트림 이름 바꾸기 - 마케팅 문서 - 제품 설명서
+description: 스트림 이름 변경 - Marketo 문서 - 제품 설명서
 title: 스트림 이름 변경
-translation-type: tm+mt
-source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
+exl-id: 38e8af11-78a7-4c52-b0d4-301f97d50999
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '60'
 ht-degree: 0%
 
 ---
 
+# 스트림 이름 변경 {#rename-a-stream}
 
-# 스트림 이름 바꾸기 {#rename-a-stream}
+체계적으로 진행하려면 스트림의 이름을 바꿀 수 있습니다. 어떻게 하는지 알려드리겠습니다.
 
-체계적으로 구성하고 싶은 경우 스트림의 이름을 변경할 수 있습니다. 방법
-
-1. 참여 프로그램을 찾아 선택한 다음 **Streams**&#x200B;를 클릭합니다.
+1. 참여 프로그램을 찾아 선택한 다음 **스트림**.
 
    ![](assets/cloneasteam-1.jpg)
 
@@ -23,8 +22,8 @@ ht-degree: 0%
 
    ![](assets/image2014-9-15-17-3a4-3a10.png)
 
-1. 새 스트림 **이름**&#x200B;을 입력하고 **저장**&#x200B;을 클릭합니다.
+1. 새 스트림 입력 **이름** 을(를) 클릭합니다. **저장**.
 
    ![](assets/image2014-9-15-17-3a4-3a14.png)
 
-   보이라! 이제 스트림 이름을 변경하는 방법을 알 수 있습니다.
+   자! 이제 스트림 이름을 바꾸는 방법을 알 수 있습니다.

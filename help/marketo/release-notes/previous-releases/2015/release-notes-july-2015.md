@@ -14,14 +14,14 @@ ht-degree: 0%
 
 ## Marketo 모멘츠 {#marketo-moments}
 
-점심 시간에 나와서 이메일을 다시 예약해야 하나요? App Store나 Google Play에서 사용할 수 있는 Marketo Momins 앱은 iPhone, iPad 또는 Android 휴대폰에서 이메일과 이벤트 캠페인이 실시간으로 어떻게 수행되고 있는지 그리고 향후 출시될 내용을 확인할 수 있는 기능을 제공합니다.
+점심 시간에 나와서 이메일을 다시 예약해야 하나요? App Store 또는 Google Play에서 사용할 수 있는 Marketo 모멘트 앱에서는 iPhone, iPad 또는 Android 휴대폰에서 이메일 및 이벤트 캠페인이 실시간으로 어떻게 수행되는지와 향후 출시될 내용을 확인할 수 있습니다.
 
 ![](assets/image2015-7-10-9-3a42-3a29.png)
 
 ## 리치 텍스트 편집기 업데이트 {#rich-text-editor-update}
 
-간소화된 텍스트 형식, 이미지 편집, 링크 삽입, HTML 편집 등 최신 모양과 느낌을 갖는 텍스트 편집기를 업데이트했습니다. 이제 HTML 편집기에 최소한의 유효성 검사가 적용되므로 코드 편집을 줄일 수 있습니다.
-`<iframe width="420" height="315" src="https://www.youtube.com/embed/LmmBN6IQrII" frameborder="0" allowfullscreen></iframe>` 이 업데이트는 7월 릴리스 후 며칠 이내에 자동으로 롤아웃됩니다. 그런 다음 편집기의 새 버전과 이전 버전 간을 **관리 > 이메일 > 편집기 설정 편집**&#x200B;에서 전환할 수 있습니다.
+간소화된 텍스트 서식, 이미지 편집, 링크 삽입, HTML 편집 등 최신 모양 및 느낌을 사용하여 텍스트 편집기를 업데이트했습니다. 이제 HTML 편집기에 최소한의 유효성 검사가 적용되므로 코드 편집을 줄일 수 있습니다.
+`<iframe width="420" height="315" src="https://www.youtube.com/embed/LmmBN6IQrII" frameborder="0" allowfullscreen></iframe>` 이 업데이트는 7월 릴리스 후 며칠 이내에 자동으로 롤아웃됩니다. 그런 다음 편집기의 새 버전과 이전 버전 간에 전환할 수 있습니다. **관리자 > 이메일 > 편집기 설정 편집**.
 
 ![](assets/image2015-7-10-9-3a42-3a44.png)
 
@@ -49,8 +49,8 @@ ht-degree: 0%
 
 **REST API를 통한 회사 개체 액세스**: 이제 REST API가 Marketo 회사(계정이라고도 함) 개체에 액세스할 수 있습니다. 즉, Marketo에서 만든 회사 개체를 읽고, 업데이트하고 삭제하고, 업데이트된 리드 API를 사용하여 리드를 해당 회사와 연결할 수 있습니다.
 
-회사 API에 대한 참조 안내서에서 [더 보기](https://developers.marketo.com/documentation/company-api/)를 배웁니다.
+학습 [자세히](https://developers.marketo.com/documentation/company-api/) 회사 API에 대한 참조 안내서에서 를 참조하십시오.
 
 ## 전자 메일 게재 기능에 액세스 {#access-email-deliverability}
 
-**전자 메일 게재 기능 도구에 액세스**: 이 새 권한을 통해 관리자는 사용자에게 이메일 게재 가능성 도구에 대한 액세스 권한을 부여할 수 있습니다.
+**전자 메일 게재 기능 도구 액세스**: 이 새 권한을 통해 관리자는 사용자에게 이메일 게재 가능성 도구에 대한 액세스 권한을 부여할 수 있습니다.

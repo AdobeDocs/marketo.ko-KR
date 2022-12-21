@@ -12,7 +12,7 @@ ht-degree: 0%
 
 # 템플릿 5B {#template-5b}
 
-마우스 오른쪽 단추를 클릭하여 [템플릿 5B](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-5b.html) 다운로드
+마우스 오른쪽 단추를 클릭하여 [템플릿 5B 다운로드](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-5b.html)
 
 ![](assets/template-5b.png)
 

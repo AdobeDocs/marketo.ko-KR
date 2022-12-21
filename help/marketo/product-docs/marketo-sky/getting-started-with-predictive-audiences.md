@@ -3,9 +3,10 @@ description: Predictive Audiences 시작 - Marketo 문서 - 제품 설명서
 title: Predictive Audiences 시작
 hide: true
 hidefromtoc: true
-source-git-commit: ab20d9683aa5987778970fd32793dc0f3056c84b
+exl-id: d39afacc-30e0-4b7c-9b78-18fa95505553
+source-git-commit: d229d152cbdae4f6b2e35700b85052d9c0b748d6
 workflow-type: tm+mt
-source-wordcount: '180'
+source-wordcount: '174'
 ht-degree: 0%
 
 ---
@@ -27,8 +28,8 @@ AI/ML 모델의 성능은 구독의 데이터에 따라 다릅니다. 모델이 
 
 Predictive Audiences 는 Prime 또는 Ultimate 가격 책정 번들을 활용하는 인스턴스에 대해 자동으로 포함되고 활성화됩니다. 이 기능에 대한 액세스 권한에 대한 자세한 내용은 고객 성공 관리자에게 문의하십시오.
 
-1. 기능이 인스턴스에 추가되면 다음 위치로 이동합니다 **[!UICONTROL Predictive Audiences]** 페이지의 **[!UICONTROL 관리]** 영역 [!DNL Marketo Classic].
+1. 기능이 인스턴스에 추가되면 다음 위치로 이동합니다 **[!UICONTROL Predictive Audiences]** 페이지의 **[!UICONTROL Admin]** 영역 [!DNL Marketo Classic].
 
-1. 확인 **[!UICONTROL Predictive Audiences 활성화]** 를 클릭하여 기능을 활성화합니다. 모든 프로세스가 설정을 완료하는 데 최대 24시간이 걸릴 수 있습니다.
+1. 확인 **[!UICONTROL Enable Predictive Audiences]** 를 클릭하여 기능을 활성화합니다. 모든 프로세스가 설정을 완료하는 데 최대 24시간이 걸릴 수 있습니다.
 
    ![이미지 원](assets/getting-started-with-predictive-audiences-1.png)

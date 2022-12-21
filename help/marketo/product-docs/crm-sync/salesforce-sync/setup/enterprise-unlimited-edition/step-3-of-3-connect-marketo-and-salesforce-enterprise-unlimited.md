@@ -5,7 +5,7 @@ title: 3단계 중 3단계 - Marketo 및 Salesforce 연결(Enterprise/Unlimited)
 exl-id: ef74bc53-9dc9-43c7-a9aa-565463fdd2e5
 source-git-commit: 8781c6cf2e64543809fe697e75ae6884969a4e40
 workflow-type: tm+mt
-source-wordcount: '0'
+source-wordcount: '466'
 ht-degree: 0%
 
 ---
@@ -26,15 +26,15 @@ ht-degree: 0%
 >
 >이미 보안 토큰이 있는 경우에는 Set Sync User Credentials and kudoes for preparation!
 
-1. Marketo 동기화 사용자로 Salesforce에 로그인하고 동기화 사용자 이름을 클릭한 다음 **내 설정**&#x200B;을 클릭합니다.
+1. Marketo 동기화 사용자로 Salesforce에 로그인하고 동기화 사용자 이름을 클릭한 다음 **내 설정**.
 
    ![](assets/image2015-6-12-9-3a12-3a47.png)
 
-1. 빠른 찾기에서 &quot;reset&quot;을 입력하고 **내 보안 토큰 재설정**&#x200B;을 클릭합니다.
+1. 빠른 찾기를 &quot;reset&quot;을 입력하고 를 클릭합니다 **내 보안 토큰 재설정**.
 
    ![](assets/image2015-6-12-9-3a13-3a39.png)
 
-1. **보안 토큰 재설정**&#x200B;을 클릭합니다.
+1. 클릭 **보안 토큰 재설정**.
 
    ![](assets/image2014-12-9-9-3a52-3a50.png)
 
@@ -42,33 +42,33 @@ ht-degree: 0%
 
 ## 동기화 사용자 자격 증명 설정 {#set-sync-user-credentials}
 
-1. Marketo에서 **관리**&#x200B;로 이동하여 **CRM**&#x200B;을 선택하고 **Salesforce.com](https://Salesforce.com)**&#x200B;과 동기화 를 클릭합니다[
+1. Marketo에서 **관리**, 선택 **CRM**&#x200B;를 클릭하고 **동기화 [Salesforce.com](https://Salesforce.com)**
 
    ![](assets/image2014-12-9-9-3a52-3a58.png)
 
    >[!NOTE]
    >
-   >**동기화 필드**&#x200B;를 클릭하기 전에 동기화 사용자로부터 Marketo에](/help/marketo/product-docs/crm-sync/salesforce-sync/sfdc-sync-details/hide-a-salesforce-field-from-the-marketo-sync.md)가 필요하지 않은 모든 필드를 반드시 [숨기십시오. 동기화 필드 를 클릭하면 사용자가 볼 수 있는 모든 필드가 Marketo에 영구적으로 만들어지며 삭제할 수 없습니다.
+   >반드시 다음을 수행하십시오 [필요하지 않은 모든 필드 숨기기](/help/marketo/product-docs/crm-sync/salesforce-sync/sfdc-sync-details/hide-a-salesforce-field-from-the-marketo-sync.md) 동기화 사용자의 Marketo에서 **동기화 필드**. 동기화 필드 를 클릭하면 사용자가 볼 수 있는 모든 필드가 Marketo에 영구적으로 만들어지며 삭제할 수 없습니다.
 
-1. Salesforce 구성([Professional](/help/marketo/product-docs/crm-sync/salesforce-sync/setup/professional-edition/step-2-of-3-create-a-salesforce-user-for-marketo-professional.md) 또는 [Enterprise](/help/marketo/product-docs/crm-sync/salesforce-sync/setup/enterprise-unlimited-edition/step-2-of-3-create-a-salesforce-user-for-marketo-enterprise-unlimited.md))의 2부에서 만든 Salesforce 동기화 사용자 자격 증명을 입력하고 **동기화 필드**(Marketo Sandbox를 Salesforce Sandbox에 동기화하는 경우에만 **Sandbox**&#x200B;을 선택)를 클릭합니다.
+1. Salesforce 구성([전문](/help/marketo/product-docs/crm-sync/salesforce-sync/setup/professional-edition/step-2-of-3-create-a-salesforce-user-for-marketo-professional.md) 또는 [Enterprise](/help/marketo/product-docs/crm-sync/salesforce-sync/setup/enterprise-unlimited-edition/step-2-of-3-create-a-salesforce-user-for-marketo-enterprise-unlimited.md)) 를 클릭하고 를 클릭합니다. **동기화 필드** (확인) **샌드박스** Marketo 샌드박스를 Salesforce 샌드박스에 동기화하는 경우에만 해당됩니다.
 
    ![](assets/image2014-12-9-9-3a53-3a8.png)
 
    >[!CAUTION]
    >
-   >사용자 이름/암호/토큰 필드 대신 &quot;Salesforce에 로그인&quot; 단추가 표시되는 경우 OAuth에 Marketo Subscription이 활성화됩니다. [이 문서를 참조하십시오](/help/marketo/product-docs/crm-sync/salesforce-sync/log-in-using-oauth-2-0.md). 동기화가 자격 증명 집합을 사용하여 시작하는 즉시 **Salesforce 자격 증명 또는 구독**&#x200B;을 전환할 수 없습니다. 기본 인증을 사용하려면 고객 성공 관리자에게 문의하십시오.
+   >사용자 이름/암호/토큰 필드 대신 &quot;Salesforce에 로그인&quot; 단추가 표시되는 경우 OAuth에 Marketo Subscription이 활성화됩니다. 제발 [이 문서를 참조하십시오](/help/marketo/product-docs/crm-sync/salesforce-sync/log-in-using-oauth-2-0.md). 동기화가 자격 증명 집합을 사용하는 즉시 **Salesforce 자격 증명 또는 구독을 전환하지 않습니다**. 기본 인증을 사용하려면 고객 성공 관리자에게 문의하십시오.
 
-1. 경고를 읽은 다음 **자격 증명 확인**&#x200B;을 클릭합니다.
+1. 경고를 읽은 다음 **자격 증명 확인**.
 
    ![](assets/image2014-12-9-9-3a53-3a16.png)
 
    >[!CAUTION]
    >
-   >[매핑을 검토하고 사용자 지정하려면](/help/marketo/product-docs/crm-sync/salesforce-sync/setup/optional-steps/edit-initial-field-mappings.md)를 사용하십시오. Salesforce 동기화 시작을 클릭하면 됩니다.
+   >다음 사항을 살펴보려면 [매핑 및 사용자 지정](/help/marketo/product-docs/crm-sync/salesforce-sync/setup/optional-steps/edit-initial-field-mappings.md)그럴 수 있는 유일한 기회야! Salesforce 동기화 시작을 클릭하면 됩니다.
 
 ## Salesforce 동기화 시작 {#start-salesforce-sync}
 
-1. 영구 Marketo-Salesforce 동기화를 시작하려면 **Salesforce 동기화 시작**&#x200B;을 클릭하십시오.
+1. 클릭 **Salesforce 동기화 시작** 영구적 Marketo-Salesforce 동기화를 시작하기 위해
 
    ![](assets/image2014-12-9-9-3a53-3a24.png)
 
@@ -76,7 +76,7 @@ ht-degree: 0%
    >
    >Marketo은 Salesforce 동기화에 대해 자동으로 중복 제거를 수행하지 않거나 리드를 수동으로 입력할 때 자동으로 중복 제거를 수행하지 않습니다.
 
-1. **동기화 시작**&#x200B;을 클릭합니다.
+1. 클릭 **동기화 시작**.
 
    ![](assets/image2014-12-9-9-3a53-3a32.png)
 
@@ -88,11 +88,11 @@ ht-degree: 0%
 
 Marketo은 관리 영역에서 Salesforce 동기화에 대한 상태 메시지를 제공합니다. 다음 단계를 수행하여 동기화가 올바르게 작동하는지 확인할 수 있습니다.
 
-1. Marketo에서 **관리**&#x200B;를 클릭한 다음 **Salesforce**&#x200B;를 클릭합니다.
+1. Marketo에서 **관리**, 그런 다음 **Salesforce**.
 
    ![](assets/image2014-12-9-9-3a53-3a40.png)
 
-1. 동기화 상태는 오른쪽 위 모서리에 표시됩니다. 다음 세 메시지 중 하나를 표시합니다. **마지막 동기화**, **동기화 진행 중** 또는 **실패**.
+1. 동기화 상태는 오른쪽 위 모서리에 표시됩니다. 다음 세 메시지 중 하나를 표시합니다. **마지막 동기화**, **동기화 진행 중**, 또는 **실패**.
 
    ![](assets/image2014-12-9-9-3a53-3a50.png)
 

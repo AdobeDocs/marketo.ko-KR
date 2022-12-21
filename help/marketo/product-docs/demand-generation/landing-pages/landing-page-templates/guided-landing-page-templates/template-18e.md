@@ -12,7 +12,7 @@ ht-degree: 0%
 
 # 템플릿 18E {#template-18e}
 
-[템플릿 다운로드 18E](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-18e.html)를 마우스 오른쪽 단추로 클릭합니다.
+마우스 오른쪽 단추를 클릭하여 [템플릿 18E 다운로드](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-18e.html)
 
 ![](assets/image2015-8-17-18-3a29-3a1.png)
 

@@ -5,14 +5,14 @@ title: 템플릿 2C
 exl-id: aabbc957-5eed-4db6-b107-0a8226371820
 source-git-commit: bfcd66388b0d77cf3f1743b0778026a1e5a1ec61
 workflow-type: tm+mt
-source-wordcount: '0'
+source-wordcount: '73'
 ht-degree: 0%
 
 ---
 
 # 템플릿 2C {#template-2c}
 
-마우스 오른쪽 단추를 클릭하여 [템플릿 2C](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-2c.html) 다운로드
+마우스 오른쪽 단추를 클릭하여 [템플릿 2C 다운로드](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-2c.html)
 
 ![](assets/image2015-6-4-9-3a31-3a46.png)
 

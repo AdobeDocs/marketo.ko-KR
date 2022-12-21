@@ -4,7 +4,7 @@ title: Salesforce와 작업 동기화 미리 알림
 exl-id: 11aa6ab5-5489-4c20-a64d-2fd6fe29506f
 source-git-commit: d9b8b92ac5f051178b8eb9b450c4949b56d50b99
 workflow-type: tm+mt
-source-wordcount: '0'
+source-wordcount: '586'
 ht-degree: 0%
 
 ---
@@ -43,8 +43,8 @@ ht-degree: 0%
   <p>Salesforce의 다른 상태 값은 Sales Insight Actions와 동기화되지 않습니다.</p></td>
  </tr>
  <tr>
-  <td>우선순위</td>
-  <td>우선순위</td>
+  <td>우선 순위</td>
+  <td>우선 순위</td>
   <td><p>Sales Insight Actions 우선순위는 Salesforce의 Normal 및 High 우선 순위 값에 매핑되는 Normal 또는 High일 수 있습니다.</p>
   <p>Salesforce의 낮은 우선 순위 값은 Sales Insight Actions와 동기화되지 않습니다.</p></td>
  </tr>
@@ -54,7 +54,7 @@ ht-degree: 0%
   <td>작업 기한 날짜입니다.</td>
  </tr>
  <tr>
-  <td>세부 사항</td>
+  <td>세부 정보</td>
   <td>댓글</td>
   <td>미리 알림 작업과 함께 완료되는 작업에 대한 자세한 정보를 표시합니다.</td>
  </tr>

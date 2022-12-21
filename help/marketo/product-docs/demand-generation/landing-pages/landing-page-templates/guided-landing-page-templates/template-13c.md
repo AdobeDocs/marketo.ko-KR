@@ -5,14 +5,14 @@ title: 템플릿 13C
 exl-id: 05624f86-03ab-45ab-8daa-61cf4f2b44ba
 source-git-commit: bfcd66388b0d77cf3f1743b0778026a1e5a1ec61
 workflow-type: tm+mt
-source-wordcount: '0'
-ht-degree: 0%
+source-wordcount: '57'
+ht-degree: 3%
 
 ---
 
 # 템플릿 13C {#template-13c}
 
-마우스 오른쪽 단추를 클릭하여 [템플릿 13C](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-13c.html) 다운로드
+마우스 오른쪽 단추를 클릭하여 [템플릿 13C 다운로드](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-13c.html)
 
 ![](assets/image2015-8-11-11-3a45-3a44.png)
 

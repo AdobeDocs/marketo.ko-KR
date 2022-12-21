@@ -5,7 +5,7 @@ exl-id: 1ede23b5-97ff-465a-95b7-a3262cd25bb8
 source-git-commit: d9b8b92ac5f051178b8eb9b450c4949b56d50b99
 workflow-type: tm+mt
 source-wordcount: '1396'
-ht-degree: 0%
+ht-degree: 1%
 
 ---
 
@@ -131,7 +131,7 @@ Sales Insight Actions에는 연락처의 인증 유형과 소스 유형에 대�
  <tbody> 
   <tr> 
    <td>이름</td> 
-   <td>웹사이트</td> 
+   <td>웹 사이트</td> 
    <td>Facebook</td> 
   </tr> 
   <tr> 
@@ -146,7 +146,7 @@ Sales Insight Actions에는 연락처의 인증 유형과 소스 유형에 대�
   </tr> 
   <tr> 
    <td>제목</td> 
-   <td>작성 위치</td> 
+   <td>생성 위치</td> 
    <td>내보낸 위치</td> 
   </tr> 
   <tr> 
@@ -155,7 +155,7 @@ Sales Insight Actions에는 연락처의 인증 유형과 소스 유형에 대�
    <td><br></td> 
   </tr> 
   <tr> 
-   <td>전화 번호</td> 
+   <td>전화번호</td> 
    <td>개인 ID</td> 
    <td><br></td> 
   </tr> 

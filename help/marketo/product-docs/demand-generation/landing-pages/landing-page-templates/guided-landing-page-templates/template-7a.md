@@ -12,7 +12,7 @@ ht-degree: 0%
 
 # 템플릿 7A {#template-7a}
 
-마우스 오른쪽 단추를 클릭하여 [템플릿 7A](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-7a.html) 다운로드
+마우스 오른쪽 단추를 클릭하여 [템플릿 7A 다운로드](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-7a.html)
 
 ![](assets/image2015-7-29-14-3a22-3a54.png)
 

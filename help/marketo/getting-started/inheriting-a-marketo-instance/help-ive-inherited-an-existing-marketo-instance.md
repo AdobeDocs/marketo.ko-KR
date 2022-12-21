@@ -5,7 +5,7 @@ title: 기존 Marketo 인스턴스를 상속하는 데 도움이 됩니다.
 exl-id: f64c04cc-bbac-4577-b242-be8263acff4d
 source-git-commit: e7fafc58ada80537dc5ab2085f9bf55611879d3b
 workflow-type: tm+mt
-source-wordcount: '0'
+source-wordcount: '140'
 ht-degree: 0%
 
 ---

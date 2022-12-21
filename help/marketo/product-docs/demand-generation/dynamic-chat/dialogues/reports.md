@@ -1,10 +1,11 @@
 ---
 description: 보고서 - Marketo 문서 - 제품 설명서
 title: 보고서
-source-git-commit: 38e65efc50f7f5e7a2a3dbe91035327007475721
+exl-id: 25d20567-4bb9-4bc5-aeeb-0ff26d3909b3
+source-git-commit: 3e3446183875b8df7f6ec1fc4a78a5581b109aed
 workflow-type: tm+mt
-source-wordcount: '0'
-ht-degree: 0%
+source-wordcount: '122'
+ht-degree: 8%
 
 ---
 
@@ -14,7 +15,7 @@ ht-degree: 0%
 
 <table>
  <tr>
-  <td><strong>총 트리거됨</strong></td>
+  <td><strong>트리거된 총 수</strong></td>
   <td>방문자가 자격을 얻거나 대화 상자를 표시할 때마다 증가합니다.
 </td>
  </tr>
@@ -23,7 +24,7 @@ ht-degree: 0%
   <td>방문자가 chatbot 앵커를 클릭하여 대화 상자를 열 때마다 증가합니다.</td>
  </tr>
  <tr>
-  <td><strong>완료됨</strong></td>
+  <td><strong>완료</strong></td>
   <td>방문자가 대화 상자의 모든 분기 끝에 도달할 때마다 증가합니다.</td>
  </tr>
  <tr>
@@ -31,11 +32,11 @@ ht-degree: 0%
   <td>방문자가 대화 상자 흐름에서 유효한 이메일 주소를 제공할 때마다 증가합니다.</td>
  </tr>
  <tr>
-  <td><strong>예약된 모임</strong></td>
+  <td><strong>예약된 회의</strong></td>
   <td>방문자가 chatbot을 통해 약속을 성공적으로 예약할 때마다 증가합니다.</td>
  </tr>
  <tr>
-  <td><strong>목표 달성</strong></td>
+  <td><strong>목표 도달</strong></td>
   <td>방문자가 모든 대화 상자 흐름에서 목표에 도달할 때마다 증가합니다.</td>
  </tr>
 </table>

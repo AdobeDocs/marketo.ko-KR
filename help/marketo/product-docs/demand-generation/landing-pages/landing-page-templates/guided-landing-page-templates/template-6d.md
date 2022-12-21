@@ -5,14 +5,14 @@ title: 템플릿 6D
 exl-id: 2708fd0b-1c87-4b2c-b28c-93b7b8547df4
 source-git-commit: bfcd66388b0d77cf3f1743b0778026a1e5a1ec61
 workflow-type: tm+mt
-source-wordcount: '0'
+source-wordcount: '61'
 ht-degree: 0%
 
 ---
 
 # 템플릿 6D {#template-6d}
 
-마우스 오른쪽 단추를 클릭하여 [템플릿 6D](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-6d.html) 다운로드
+마우스 오른쪽 단추를 클릭하여 [템플릿 6D 다운로드](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-6d.html)
 
 ![](assets/image2015-7-29-12-3a1-3a21.png)
 

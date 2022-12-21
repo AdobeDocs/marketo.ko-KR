@@ -1,45 +1,44 @@
 ---
 unique-page-id: 2949966
-description: 양식에 국가 선택 목록 추가 - 마케팅 문서 - 제품 설명서
+description: 양식에 국가 선택기 목록 추가 - Marketo 문서 - 제품 설명서
 title: 양식에 국가 선택 목록 추가
-translation-type: tm+mt
-source-git-commit: ed83438ae5660d172e845f25c4d72d599574bd91
+exl-id: b4725352-7116-4f08-b4ad-2affe81afbf4
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '189'
 ht-degree: 0%
 
 ---
 
-
-# 양식 {#add-a-country-picklist-to-your-form}에 국가 선택 목록 추가
+# 양식에 국가 선택 목록 추가 {#add-a-country-picklist-to-your-form}
 
 다음 지침에 따라 국가 필드를 모든 국가 목록과 함께 드롭다운으로 변환합니다.
 
-1. **마케팅 활동**&#x200B;으로 이동합니다.
+1. 이동 **마케팅 활동**.
 
    ![](assets/login-marketing-activities-9.png)
 
-1. 양식을 선택하고 **양식 편집**&#x200B;을 클릭합니다.
+1. 양식을 선택하고 을(를) 클릭합니다 **양식 편집**.
 
    ![](assets/editform-1.png)
 
-1. **+** 기호를 클릭합니다.
+1. 을(를) 클릭합니다. **+** 서명
 
    ![](assets/image2014-9-15-15-3a33-3a7.png)
 
-1. **국가**&#x200B;를 찾아 선택합니다.
+1. 찾기 및 선택 **국가**.
 
    ![](assets/image2014-9-15-15-3a33-3a15.png)
 
-1. **국가** 필드가 선택된 상태에서 **필드 유형**&#x200B;을 **선택**&#x200B;으로 변경합니다.
+1. 사용 **국가** 선택한 필드 변경 **필드 유형** to **선택**.
 
    ![](assets/image2014-9-15-15-3a33-3a21.png)
 
-1. **값** 을  **** 편집하여 사용자가 선택할 수 있는 국가 목록을 추가합니다.
+1. **편집** a **값** 사용자가 선택할 수 있는 국가 목록을 추가하려면
 
    ![](assets/image2014-9-15-15-3a33-3a40.png)
 
-1. **고급** **편집기**&#x200B;를 클릭합니다.
+1. 클릭 **고급** **편집자**.
 
    ![](assets/image2014-9-15-15-3a34-3a1.png)
 
@@ -55,26 +54,26 @@ ht-degree: 0%
 
    >[!TIP]
    >
-   >목록을 편집하거나 다른 목록을 사용하십시오.
+   >목록을 자유롭게 편집하거나 다른 목록을 사용할 수 있습니다.
 
-1. **저장**&#x200B;을 클릭합니다.
+1. 클릭 **저장**.
 
    ![](assets/image2014-9-15-15-3a35-3a3.png)
 
-1. **완료**&#x200B;를 클릭합니다.
+1. 클릭 **완료**.
 
    ![](assets/image2014-9-15-15-3a35-3a20.png)
 
-1. **승인 및 닫기**&#x200B;를 클릭합니다.
+1. 클릭 **승인 및 닫기**.
 
    ![](assets/image2014-9-15-15-3a35-3a36.png)
 
-   잘했다! 이제 사용자가 양식을 작성하면 제공된 국가 목록에서 선택할 수 있습니다.
+   잘했어요! 이제 사용자가 양식을 작성하면 사용자가 제공한 국가 목록에서 선택할 수 있습니다.
 
    ![](assets/image2014-9-15-15-3a35-3a43.png)
 
-그게 너무 쉬웠기 때문에, 더 이상은 하지 않을래요? 사용자가 목록에서 국가를 선택하여 [주] 필드를 동적으로 표시하는 것은 어떻습니까? 아래 관련 문서를 참조하여 사용 방법을 확인하십시오.
+그게 너무 쉬웠기 때문에, 왜 더 하지? 사용자가 미국을 목록에서 국가로 선택할 때 상태 필드를 동적으로 표시하는 것은 어떻습니까? 아래 관련 문서를 참조하여 방법을 확인하십시오.
 
 >[!MORELIKETHIS]
 >
->[동적으로 양식 필드의 표시 여부 전환](/help/marketo/product-docs/demand-generation/forms/form-fields/dynamically-toggle-visibility-of-a-form-field.md)
+>[양식 필드의 표시 여부를 동적으로 전환](/help/marketo/product-docs/demand-generation/forms/form-fields/dynamically-toggle-visibility-of-a-form-field.md)

@@ -5,14 +5,14 @@ title: 템플릿 3C
 exl-id: 0bf7cb43-607e-4c9b-a860-511837925a1e
 source-git-commit: bfcd66388b0d77cf3f1743b0778026a1e5a1ec61
 workflow-type: tm+mt
-source-wordcount: '0'
+source-wordcount: '64'
 ht-degree: 0%
 
 ---
 
 # 템플릿 3C {#template-3c}
 
-마우스 오른쪽 단추를 클릭하여 [템플릿 다운로드 3C](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-3c.html)
+마우스 오른쪽 단추를 클릭하여 [템플릿 3C 다운로드](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-3c.html)
 
 ![](assets/image2015-6-15-11-3a20-3a37.png)
 

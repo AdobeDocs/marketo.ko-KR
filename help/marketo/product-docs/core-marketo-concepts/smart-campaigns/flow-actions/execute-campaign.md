@@ -1,7 +1,8 @@
 ---
 description: 캠페인 실행 - Marketo 문서 - 제품 설명서
 title: 캠페인 실행
-source-git-commit: 9f8d6895e88250afc2799b2fb7fc73442018362f
+exl-id: d550cf08-b295-4289-9bb0-79d81cabc245
+source-git-commit: 3b2bd965e37779af3ee89f46e04f925a2f12f207
 workflow-type: tm+mt
 source-wordcount: '711'
 ht-degree: 0%
@@ -22,7 +23,7 @@ ht-degree: 0%
 
 별도의 플로우를 실행해야 할 때도 사용할 수 있지만 후속 흐름 단계 선택(예: 이 경우 해당 흐름 선택)에서 해당 플로우의 결과에 의존해야 합니다.
 
-캠페인 실행은 [요청 캠페인](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/request-campaign.md)이 직렬 또는 병렬로 실행될 수 있으므로 이 캠페인이 개선된 반면, 후자는 병렬 실행만 가능합니다.
+Campaign 실행은 [캠페인 요청](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/request-campaign.md)인 시리즈 또는 병렬로 실행할 수 있지만 후자는 병렬로 실행됩니다.
 
 >[!NOTE]
 >
@@ -30,17 +31,17 @@ ht-degree: 0%
 
 ## 실행 가능한 캠페인을 만드는 방법 {#how-to-create-an-executable-campaign}
 
-1. 원하는 프로그램을 마우스 오른쪽 단추로 클릭하고 **새 스마트 캠페인**&#x200B;을 선택합니다.
+1. 원하는 프로그램을 마우스 오른쪽 단추로 클릭하고 을 선택합니다 **새로운 스마트 캠페인**.
 
    ![](assets/execute-campaign-1.png)
 
-1. 이름을 지정하고 **실행 파일** 확인란을 선택한 다음 **만들기**&#x200B;를 클릭합니다.
+1. 이름을 지정하고 **실행 파일** 확인란을 선택하고 **만들기**.
 
    ![](assets/execute-campaign-2.png)
 
 1. 다른 스마트 캠페인과 마찬가지로 스마트 목록 및 흐름을 정의합니다.
 
-기존 스마트 캠페인을 복제할 수도 있습니다. 기존 실행 가능한 캠페인을 복제하는 경우, 이름을 지정한 후 **실행 파일** 확인란을 선택해야 합니다.
+기존 스마트 캠페인을 복제할 수도 있습니다. 기존 실행 가능한 캠페인을 복제하는 경우, 여전히 **실행 파일** 이름을 지정한 후 확인란을 선택합니다.
 
 >[!NOTE]
 >
@@ -54,28 +55,28 @@ true로 설정하면 다음 토큰 컨텍스트가 하위 캠페인(실행 중�
 * 캠페인 토큰
 * 프로그램 토큰
 * 구성원 토큰
-* [트리거 토큰](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/features/tabs-in-the-msi-panel/interesting-moments/trigger-tokens-for-interesting-moments.md) (트리거된 캠페인에서 호출되는 경우)
+* [트리거 토큰](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/features/tabs-in-the-msi-panel/interesting-moments/trigger-tokens-for-interesting-moments.md) ( 트리거된 캠페인에서 호출되는 경우)
 
 **API 상호 작용**
 
-API](https://developers.marketo.com/rest-api/assets/smart-campaigns/#batch)에서 예약 또는 요청 캠페인 [을 사용할 때 둘 다 호출하고 있는 캠페인에서 해당 토큰에 대해 설정된 값을 무시하는 내 토큰에 대한 값을 전달할 수 있습니다. 해당 Campaign이 다른 캠페인을 실행하고 &quot;상위 컨텍스트 사용&quot;을 True로 설정하면 애플리케이션에 설정된 값이 아니라 API를 통해 전달된 값을 사용합니다.
+예약 또는 캠페인 요청 사용 시 [API에서](https://developers.marketo.com/rest-api/assets/smart-campaigns/#batch)두 값을 모두 사용하면 호출하는 캠페인에서 해당 토큰에 대해 설정된 값을 무시하는 내 토큰 값을 전달할 수 있습니다. 해당 Campaign이 다른 캠페인을 실행하고 &quot;상위 컨텍스트 사용&quot;을 True로 설정하면 애플리케이션에 설정된 값이 아니라 API를 통해 전달된 값을 사용합니다.
 
 ## 참고 사항 {#things-to-note}
 
 * 스마트 리스트는 자격이 없는 사람을 필터링합니다. 사람이 자격을 얻으면 실행된 캠페인 활동 레코드에 &quot;자격이 있음: TRUE&quot;(및 없는 경우 FALSE)
 * 예약 캠페인 자격 규칙이 적용됩니다(예약 탭 아래의 Smart Campaign 설정).
 * 작업 공간에서 실행 가능한 캠페인을 호출할 수 없습니다
-* 실행 가능한 캠페인을 대상으로 하는 [흐름](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/remove-from-flow.md)에서 제거 작업을 사용하는 경우 하위 및 상위 항목을 모두 타겟팅합니다
+* 를 사용하는 경우 [흐름에서 제거](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/remove-from-flow.md) 실행 가능한 Campaign을 타겟팅하는 흐름 작업, 하위 및 상위 모두 타겟팅합니다
 * 토큰 상속 활용 - 예를 들어, 여러 다른 자산에 의해 트리거되는 단일 공통 점수 흐름이 있는 경우 상위 캠페인에 대해 하위 캠페인과 상위 캠페인에 기본 내 토큰 점수를 정의하여 하위 스코어카드에 대한 하위 점수 캠페인 값을 무시할 수 있습니다(시각적 예는 아래 참조)
 * 실행 가능한 캠페인은 최대 3개 수준(예: 상위 캠페인 > 하위 > 하위 > 하위)으로 호출할 수 있습니다
 
 >[!CAUTION]
 >
->실행 가능한 캠페인에 대한 스마트 목록을 유효하지 않은 상태로 두지 마십시오. 그렇지 않으면 **아무도**&#x200B;에 대한 자격이 없습니다. 가장 좋은 방법은 별도의 스마트 목록 자산을 만들고 완전히 정의하고 유효한지 확인하는 것입니다. 그런 다음 실행 가능한 캠페인에서 &quot;스마트 목록 멤버&quot; 필터를 사용하여 스마트 목록 정의를 교환할 수 있습니다.
+>실행 가능한 캠페인에 대한 스마트 목록을 유효하지 않은 상태로 두지 마십시오. 그렇지 않으면 **아무도 없음** 자격을 얻습니다. 가장 좋은 방법은 별도의 스마트 목록 자산을 만들고 완전히 정의하고 유효한지 확인하는 것입니다. 그런 다음 실행 가능한 캠페인에서 &quot;스마트 목록 멤버&quot; 필터를 사용하여 스마트 목록 정의를 교환할 수 있습니다.
 
 ## 토큰 상속 예 {#token-inheritance-example}
 
-다음은 하나의 실행 가능한 캠페인과 두 개의 상위 캠페인의 토큰 상속의 시각적 예입니다. 토큰 컨텍스트가 **True**&#x200B;로 설정된 하나와, 다른 하나는 **False**&#x200B;로 설정됩니다.
+다음은 하나의 실행 가능한 캠페인과 두 개의 상위 캠페인의 토큰 상속의 시각적 예입니다. 토큰 컨텍스트가 설정된 하나의 **True**, 및에 다른 **False**.
 
 전환된 변경 점수가 있는 하위 캠페인.
 
@@ -87,7 +88,7 @@ API](https://developers.marketo.com/rest-api/assets/smart-campaigns/#batch)에�
 
 **예제 1 - True**
 
-첫 번째 상위 캠페인의 캠페인 실행 흐름 단계에서 &quot;상위 캠페인 토큰 컨텍스트 사용&quot;이 **True**&#x200B;로 설정됩니다.
+첫 번째 상위 캠페인의 캠페인 실행 흐름 단계에서 &quot;상위 캠페인 토큰 컨텍스트 사용&quot;이 **True**.
 
 ![](assets/execute-campaign-5.png)
 
@@ -101,7 +102,7 @@ API](https://developers.marketo.com/rest-api/assets/smart-campaigns/#batch)에�
 
 **예제 2: False**
 
-두 번째 상위 캠페인의 캠페인 실행 필터에서 &quot;상위 캠페인 토큰 컨텍스트 사용&quot;이 **False**&#x200B;로 설정됩니다.
+두 번째 상위 캠페인의 캠페인 실행 필터에서 &quot;상위 캠페인 토큰 컨텍스트 사용&quot;이 **False**.
 
 ![](assets/execute-campaign-8.png)
 

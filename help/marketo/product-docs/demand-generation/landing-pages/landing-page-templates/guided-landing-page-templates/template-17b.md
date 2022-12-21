@@ -5,14 +5,14 @@ title: 템플릿 17B
 exl-id: f1483278-0f4a-40a4-b652-1df2be5abfa4
 source-git-commit: bfcd66388b0d77cf3f1743b0778026a1e5a1ec61
 workflow-type: tm+mt
-source-wordcount: '0'
+source-wordcount: '59'
 ht-degree: 0%
 
 ---
 
 # 템플릿 17B {#template-17b}
 
-마우스 오른쪽 단추를 클릭하여 [템플릿 17B](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-17b.html) 다운로드
+마우스 오른쪽 단추를 클릭하여 [템플릿 17B 다운로드](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-17b.html)
 
 ![](assets/image2015-8-17-16-3a50-3a15.png)
 

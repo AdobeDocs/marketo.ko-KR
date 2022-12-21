@@ -48,7 +48,7 @@ ht-degree: 0%
 
    * **요청 유형**: 사용할 HTTP 메서드(DELETE, GET, PATCH, POST, PUT)을 선택합니다.
 
-1. 클릭 **만들기**.
+1. Click **Create**.
 
    ![](assets/create-a-webhook-5.png)
 

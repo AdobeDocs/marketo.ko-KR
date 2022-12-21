@@ -64,7 +64,7 @@ ht-degree: 6%
   <tr> 
    <td colspan="1"> 
     <div> 
-     <img alt="—" width="25" src="assets/share-from.png"> 
+     <img alt="--" width="25" src="assets/share-from.png"> 
     </div></td> 
    <td colspan="1">다른 작업 공간에서 공유된 대상 폴더 <br>(자물쇠는 편집할 수 없음을 나타냅니다.)</td> 
   </tr> 
@@ -92,7 +92,7 @@ ht-degree: 6%
   <tr> 
    <td colspan="1"> 
     <div> 
-     <img alt="—" height="22" width="22" src="assets/trigger.png" title="—"> 
+     <img alt="--" height="22" width="22" src="assets/trigger.png" title="--"> 
     </div></td> 
    <td colspan="1">트리거</td> 
   </tr> 
@@ -415,7 +415,7 @@ ht-degree: 6%
   <tr> 
    <td colspan="1"> 
     <div> 
-     <img alt="—" src="assets/hs-icon.png" title="—"> 
+     <img alt="--" src="assets/hs-icon.png" title="--"> 
     </div></td> 
    <td colspan="1">헤드 시작으로 예약된 이메일 프로그램</td> 
   </tr> 

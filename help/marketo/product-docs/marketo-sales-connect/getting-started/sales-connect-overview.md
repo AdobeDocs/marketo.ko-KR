@@ -10,7 +10,7 @@ ht-degree: 0%
 
 ---
 
-# 영업 연결 개요 {#sales-connect-overview}
+# Sales Connect 개요 {#sales-connect-overview}
 
 Marketo Sales Connect 는 다양한 기능을 갖춘 다면적인 영업 지원 솔루션으로, 영업 주기 전반에 걸쳐 참여를 유도할 수 있습니다.
 
@@ -20,17 +20,17 @@ Marketo Sales Connect 는 다양한 기능을 갖춘 다면적인 영업 지원 
 
 ## 라이브 피드 {#the-live-feed}
 
-영업 담당자는 마케팅 및 영업 컨텐츠에 대한 [실시간 참여](/help/marketo/product-docs/marketo-sales-connect/email/the-live-feed/live-feed-overview.md)를 볼 수 있습니다.
+영업 담당자가 [실시간 참여](/help/marketo/product-docs/marketo-sales-connect/email/the-live-feed/live-feed-overview.md) 마케팅 컨텐츠와 영업 컨텐츠에 대한 정보를 제공합니다.
 
 ![](assets/engagement.jpg)
 
 ## 개인 세부 정보 보기 {#person-detail-view}
 
-[자세한 사용자 stats](/help/marketo/product-docs/marketo-sales-connect/people/person-detail-view.md)에 액세스합니다.
+액세스 [상세 사용자 통계](/help/marketo/product-docs/marketo-sales-connect/people/person-detail-view.md).
 
 ![](assets/2018-05-11-at-3.28-pm.jpg)
 
-## Marketo 활동 로그의 결과 보기 {#see-results-in-your-marketo-activity-log}
+## Marketo 활동 로그의 결과 를 참조하십시오. {#see-results-in-your-marketo-activity-log}
 
 잠재 고객이 영업 활동에 어떻게 참여하고 있는지 확인하십시오.
 
@@ -60,7 +60,7 @@ Marketo Sales Connect 는 다양한 기능을 갖춘 다면적인 영업 지원 
   </tr> 
   <tr> 
    <td colspan="1"><p>영업 호출 수신</p></td> 
-   <td colspan="1"><p>Lead 가 <a href="/help/marketo/product-docs/marketo-sales-connect/phone/sales-phone-overview.md" rel="nofollow">영업 전화</a>를 사용하여 영업사원에게 전화를 받았습니다.</p></td> 
+   <td colspan="1"><p>Lead가 Marketing Cloud ID를 사용하여 영업 사원으로부터 전화를 받았습니다. <a href="/help/marketo/product-docs/marketo-sales-connect/phone/sales-phone-overview.md" rel="nofollow">영업 전화</a>.</p></td> 
   </tr> 
   <tr> 
    <td colspan="1"><p>영업 캠페인에 추가</p></td> 
@@ -79,12 +79,12 @@ Marketo Sales Connect 는 다양한 기능을 갖춘 다면적인 영업 지원 
 
 ## 마케팅 캠페인 공유 {#share-marketing-campaigns}
 
-간단한 스마트 캠페인을 만들어 판매 사용자에게 [Marketo 캠페인 데이터](/help/marketo/product-docs/marketo-sales-connect/marketo/make-a-campaign-visible-to-sales-connect-users.md)에 대한 액세스 권한을 제공합니다.
+간단한 스마트 캠페인을 만들어 판매 사용자에게 [Marketo 캠페인 데이터](/help/marketo/product-docs/marketo-sales-connect/marketo/make-a-campaign-visible-to-sales-connect-users.md).
 
 ![](assets/campaign-is-requested.jpg)
 
 시작할 준비가 되었습니까? 설정 지침을 보려면 아래 링크를 클릭하십시오.
 
 >[!MORELIKETHIS]
-[Sales Connect 관리자를 위한 시작 안내서](/help/marketo/product-docs/marketo-sales-connect/getting-started/getting-started-guide-for-sales-connect-admins.md)>
 >
+>[Sales Connect 관리자를 위한 시작 안내서](/help/marketo/product-docs/marketo-sales-connect/getting-started/getting-started-guide-for-sales-connect-admins.md)

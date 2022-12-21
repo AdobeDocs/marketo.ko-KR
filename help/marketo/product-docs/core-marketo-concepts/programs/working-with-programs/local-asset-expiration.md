@@ -4,7 +4,7 @@ title: 로컬 자산 만료
 exl-id: 603e3eee-0531-4139-a8f5-279831ad011f
 source-git-commit: 48a49faa6a1fde1e9ac391c2bf0800123f6a5bac
 workflow-type: tm+mt
-source-wordcount: '263'
+source-wordcount: '237'
 ht-degree: 0%
 
 ---
@@ -21,25 +21,25 @@ ht-degree: 0%
 >
 >**관리 권한 필요**
 
-1. 에서 [!UICONTROL 관리] 영역을 클릭합니다. **[!UICONTROL 사용자 및 역할]**.
+1. 에서 [!UICONTROL Admin] 영역을 클릭합니다. **[!UICONTROL Users & Roles]**.
 
    ![](assets/local-asset-expiration-1.png)
 
-1. 을(를) 클릭합니다. **[!UICONTROL 역할]** 탭에서 액세스 권한을 부여할 사용자를 선택한 다음 **[!UICONTROL 역할 편집]**.
+1. 을(를) 클릭합니다. **[!UICONTROL Roles]** 탭에서 액세스 권한을 부여할 사용자를 선택한 다음 **[!UICONTROL Edit Role]**.
 
    ![](assets/local-asset-expiration-2.png)
 
-1. 아래 [!UICONTROL 마케팅 활동 액세스], 선택 **[!UICONTROL 로컬 자산 만료 예약]** 을(를) 클릭합니다. **[!UICONTROL 저장]**.
+1. 아래 [!UICONTROL Access Marketing Activities], 선택 **[!UICONTROL Schedule Local Asset Expiration]** 을(를) 클릭합니다. **[!UICONTROL Save]**.
 
    ![](assets/local-asset-expiration-3.png)
 
 ## 만료 날짜 설정 {#set-an-expiration-date}
 
-1. 원하는 프로그램을 마우스 오른쪽 단추로 클릭하고 을 선택합니다 **[!UICONTROL 로컬 자산 만료 설정]**.
+1. 원하는 프로그램을 마우스 오른쪽 단추로 클릭하고 을 선택합니다 **[!UICONTROL Set Local Asset Expiration]**.
 
    ![](assets/local-asset-expiration-4.png)
 
-1. 만료 날짜를 설정할 자산을 선택한 다음 를 클릭합니다 **[!UICONTROL 만료 설정]**.
+1. 만료 날짜를 설정할 자산을 선택한 다음 를 클릭합니다 **[!UICONTROL Set Expiration]**.
 
    ![](assets/local-asset-expiration-5.png)
 
@@ -47,24 +47,24 @@ ht-degree: 0%
 
    ![](assets/local-asset-expiration-6.png)
 
-1. 시간을 설정합니다. 최소한 20분 정도 시간을 예약해야 합니다(오전/오후 입력 잊지 않음). 클릭 **[!UICONTROL 확인]** 완료 시.
+1. 시간을 설정합니다. 최소한 20분 정도 시간을 예약해야 합니다(오전/오후 입력 잊지 않음). 클릭 **[!UICONTROL Confirm]** 완료 시.
 
    ![](assets/local-asset-expiration-7.png)
 
 >[!NOTE]
 >
->* 기존 만료 날짜를 편집하려면 자산을 확인하고 **[!UICONTROL 만료 설정]**.
+>* 기존 만료 날짜를 편집하려면 자산을 확인하고 **[!UICONTROL Set Expiration]**.
 >* 자산이 만료되면 더 이상 만료 그리드에 표시되지 않습니다. 그리드에는 게시된 랜딩 페이지, 활성 트리거 캠페인 및 반복 배치 캠페인만 표시됩니다.
 >* 자산이 다른 프로그램으로 이동되면 예약된 만료가 제거됩니다.
 
 
 ## 만료 날짜 제거 {#remove-an-expiration-date}
 
-1. 만료 날짜를 제거하려면 자산을 확인하고 를 클릭합니다 **[!UICONTROL 만료 제거]**.
+1. 만료 날짜를 제거하려면 자산을 확인하고 를 클릭합니다 **[!UICONTROL Remove Expiration]**.
 
    ![](assets/local-asset-expiration-8.png)
 
-1. 영향을 받는 자산을 검토한 다음 **[!UICONTROL 확인]**.
+1. 영향을 받는 자산을 검토한 다음 **[!UICONTROL Confirm]**.
 
    ![](assets/local-asset-expiration-9.png)
 

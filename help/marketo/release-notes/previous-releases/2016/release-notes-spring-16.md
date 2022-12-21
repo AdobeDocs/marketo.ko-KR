@@ -30,7 +30,7 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->이메일 편집기 2.0(템플릿 선택기 사용)은 6월 3일부터 점진적으로 롤아웃됩니다. 6월 30일까지 롤아웃을 완료할 것입니다. 이메일 인사이트와 달리 액세스 권한이 있으면 알림을 받지 않습니다. 이 작업을 수행하는지 확인하려면 [이 문서](/help/marketo/product-docs/email-marketing/general/email-editor-2/transitioning-to-email-editor-2-0.md)의 단계를 따르십시오.
+>이메일 편집기 2.0(템플릿 선택기 사용)은 6월 3일부터 점진적으로 롤아웃됩니다. 6월 30일까지 롤아웃을 완료할 것입니다. 이메일 인사이트와 달리 액세스 권한이 있으면 알림을 받지 않습니다. 확인을 위해 다음 단계를 수행하십시오. [이 문서](/help/marketo/product-docs/email-marketing/general/email-editor-2/transitioning-to-email-editor-2-0.md).
 
 ![](assets/5-29-home-starter-templates.png)
 
@@ -58,7 +58,7 @@ Marketo 내에서 바로 앱을 위한 멋진 인앱 메시지를 만들 수 있
 
 ## [API 액세스를 위한 IP 허용 목록에 추가](/help/marketo/product-docs/administration/additional-integrations/create-an-allowlist-for-ip-based-api-access.md) {#ip-allowlisting-for-api-access}
 
-Marketo 사용자 로그인에 대한 IP 허용 목록에 추가 기능과 유사한 Marketo 관리자는 이제 Marketo SOAP 및 REST API에 액세스할 수 있는 IP 주소을 설정하여 권한이 없는 IP 주소에서의 액세스를 차단할 수 있습니다. 이렇게 하면 Marketo 인스턴스에 보안 계층이 추가되며 API 액세스가 조직의 네트워크 내에서만 발생할 수 있도록 합니다. 이 설정 방법에 대한 자세한 내용은 [Marketo 설명서 사이트](/help/marketo/product-docs/administration/additional-integrations/create-an-allowlist-for-ip-based-api-access.md)에서 확인할 수 있습니다.
+Marketo 사용자 로그인에 대한 IP 허용 목록에 추가 기능과 유사한 Marketo 관리자는 이제 Marketo SOAP 및 REST API에 액세스할 수 있는 IP 주소을 설정하여 권한이 없는 IP 주소에서의 액세스를 차단할 수 있습니다. 이렇게 하면 Marketo 인스턴스에 보안 계층이 추가되며 API 액세스가 조직의 네트워크 내에서만 발생할 수 있도록 합니다. 이 설정 방법에 대한 자세한 내용은 [Marketo 설명서 사이트](/help/marketo/product-docs/administration/additional-integrations/create-an-allowlist-for-ip-based-api-access.md).
 
 ## [새로운 고속 Microsoft Dynamics 동기화 커넥터](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/microsoft-dynamics-sync-details/sync-status.md) {#new-high-speed-microsoft-dynamics-sync-connector}
 
@@ -66,7 +66,7 @@ Orion 아키텍처에 구축된 새로운 고속 Dynamics 커넥터를 사용하
 
 **새 필드에 대한 데이터 새로 고침**: 이제 언제든지 새 동기화 필드를 활성화할 수 있으며, 해당 필드의 모든 데이터 값이 Dynamics CRM에서 Marketo으로 새로 고쳐집니다. 초기 설정 중에 모든 필드를 선택해야 하는 것에 대해 더 이상 걱정하지 마십시오. 기존 동기화 필드를 비활성화하고 나중에 다시 활성화하면 해당 필드의 모든 데이터 값이 Dynamics CRM에서 Marketo으로 새로 고쳐집니다.
 
-**리드를 연락처로 동기화**: 리드로 Microsoft 흐름 동기화 작업에는 리드나 연락처로 동기화하는 새로운 옵션이 있습니다.
+**리드를 연락처로 동기화**: Microsoft에 리드 동기화 흐름 작업에는 리드나 연락처로 동기화하는 새로운 옵션이 있습니다.
 
 ![](assets/image2016-5-19-8-3a59-3a9.png)
 
@@ -76,7 +76,7 @@ Orion 아키텍처에 구축된 새로운 고속 Dynamics 커넥터를 사용하
 
 **Microsoft Dynamics 2016**: 커넥터는 Dynamics 2016 Online 및 On-premise 버전에 대해 완전히 인증되었습니다.
 
-**이제 플러그인 업데이트가 문서화되었습니다.**  [플러그인 업데이트 문서](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/marketo-plugin-releases-for-microsoft-dynamics.md)를 참조하십시오.
+**이제 플러그인 업데이트가 문서화되었습니다.** 자세한 내용은 [플러그인 업데이트 문서](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/marketo-plugin-releases-for-microsoft-dynamics.md).
 
 ## [친숙한 인스턴스 이름](/help/marketo/product-docs/administration/settings/edit-subscription-settings.md) {#friendly-instance-name}
 
@@ -98,4 +98,4 @@ Orion 아키텍처에 구축된 새로운 고속 Dynamics 커넥터를 사용하
 
 ## 사용자 지정 활동 {#custom-activities}
 
-이제 Marketo 관리자는 Marketo 사용자 지정 활동 정의 모델러를 통해 사용자 지정 활동 유형을 정의하고 관리할 수 있습니다. Marketo 사용자 지정 개체 모델러와 유사하게 관리자는 이제 정확한 비즈니스 요구 사항에 맞게 데이터 모델을 확장할 수 있습니다. 이 기능을 사용하는 방법에 대한 자세한 내용은 [Marketo 설명서 사이트](/help/marketo/product-docs/administration/marketo-custom-activities/understanding-custom-activities.md)에서 확인할 수 있습니다.
+이제 Marketo 관리자는 Marketo 사용자 지정 활동 정의 모델러를 통해 사용자 지정 활동 유형을 정의하고 관리할 수 있습니다. Marketo 사용자 지정 개체 모델러와 유사하게 관리자는 이제 정확한 비즈니스 요구 사항에 맞게 데이터 모델을 확장할 수 있습니다. 이 기능을 사용하는 방법에 대한 자세한 내용은 [Marketo 설명서 사이트](/help/marketo/product-docs/administration/marketo-custom-activities/understanding-custom-activities.md).

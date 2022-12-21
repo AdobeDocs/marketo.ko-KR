@@ -5,14 +5,14 @@ title: 템플릿 5D
 exl-id: 98e4d4ba-dad5-4285-994f-50c5d677b300
 source-git-commit: bfcd66388b0d77cf3f1743b0778026a1e5a1ec61
 workflow-type: tm+mt
-source-wordcount: '0'
+source-wordcount: '61'
 ht-degree: 0%
 
 ---
 
 # 템플릿 5D {#template-5d}
 
-마우스 오른쪽 단추를 클릭하여 [템플릿 5D](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-5d.html) 다운로드
+마우스 오른쪽 단추를 클릭하여 [템플릿 5D 다운로드](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-5d.html)
 
 ![](assets/image2015-7-29-15-3a10-3a49.png)
 

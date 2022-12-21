@@ -1,9 +1,8 @@
 ---
 unique-page-id: 1146966
-description: 스마트 캠페인에서 자격이 있는 사람 보기 - Marketo 문서 - 제품 문서
+description: 스마트 캠페인에서 자격이 있는 사람 보기 - Marketo 문서 - 제품 설명서
 title: 스마트 캠페인에서 자격이 있는 사람 보기
 exl-id: 84fb5c85-d794-4eb3-b74c-242c76ecdd1d
-translation-type: tm+mt
 source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '167'
@@ -11,9 +10,9 @@ ht-degree: 0%
 
 ---
 
-# 스마트 캠페인 {#view-qualified-people-in-a-smart-campaign}에서 자격이 있는 사람 보기
+# 스마트 캠페인에서 자격이 있는 사람 보기 {#view-qualified-people-in-a-smart-campaign}
 
-스마트 캠페인을 실행할 때 흐름을 따라갈 자격이 있는 사람을 볼 수 있습니다.
+스마트 캠페인을 실행할 때 흐름을 이용할 수 있는 자격이 있는 사용자를 봅니다.
 
 1. 스마트 캠페인에서 예약을 클릭합니다. 스마트 목록 상태에서 첫 번째 링크를 클릭합니다.
 
@@ -21,9 +20,9 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->스마트 캠페인은 라이브 이벤트를 기반으로 실행되므로 자격이 있는 사람을 표시하지 않습니다.
+>트리거 스마트 캠페인은 라이브 이벤트를 기반으로 실행되므로 자격이 있는 사람을 표시하지 않습니다.
 
-1. **자격이 있는 사람** 탭에는 캠페인이 실행될 때 흐름을 거칠 자격이 있는 사람이 나열됩니다.
+1. 다음 **자격이 있는 사람** 탭에는 캠페인이 실행될 때 흐름을 이용할 수 있는 자격이 있는 사람이 나열됩니다.
 
    ![](assets/qualifiedpeople-tab.png)
 
@@ -33,13 +32,13 @@ ht-degree: 0%
 
    >[!NOTE]
    >
-   >적격한 사람의 수도 스마트 캠페인 자격 규칙에 따라 다릅니다. [자격 조건 규칙 편집 방법](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/using-smart-campaigns/edit-qualification-rules-in-a-smart-campaign.md)을 알아봅니다.
+   >적격한 사람의 수도 스마트한 선거 자격 규칙에 따라 달라집니다. 방법 알아보기 [자격 규칙 편집](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/using-smart-campaigns/edit-qualification-rules-in-a-smart-campaign.md).
 
-달콤해! 이 목록을 사용하여 스마트 캠페인을 실행하기 전에 흐름을 거칠 수 있는 사람을 확인할 수 있습니다.
+달콤해! 이 목록을 사용하여 스마트 캠페인을 실행하기 전에 흐름을 통과할 수 있는 사람을 확인할 수 있습니다.
 
 >[!MORELIKETHIS]
 >
->* [스마트 캠페인 멤버 보기](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/smart-campaign-data/view-smart-campaign-members.md)
+>* [스마트 캠페인 구성원 보기](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/smart-campaign-data/view-smart-campaign-members.md)
 >* [스마트 캠페인에서 차단된 사람 보기](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/smart-campaign-data/view-blocked-people-in-a-smart-campaign.md)
 >* [스마트 캠페인에 흐름 단계 추가](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/add-a-flow-step-to-a-smart-campaign.md)
 

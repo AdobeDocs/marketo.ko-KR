@@ -11,7 +11,7 @@ ht-degree: 0%
 
 # Sales Insight Access 제거 {#remove-sales-insight-access}
 
-Salesforce에서 Sales Insight 기능에 대한 액세스를 제거하려면 다음 단계를 수행합니다. Applicable to Salesforce Classic and Lightning.
+Salesforce에서 Sales Insight 기능에 대한 액세스를 제거하려면 다음 단계를 수행합니다. Salesforce Classic 및 Lightning에 적용됩니다.
 
 ## 개요 {#overview}
 
@@ -23,7 +23,7 @@ Salesforce에서 Sales Insight 기능에 대한 액세스를 제거하려면 다
  <tbody> 
  <tr> 
    <td>BestBetsCache</td> 
-   <td>Read, Create, Edit, Delete, View All, Modify All</td> 
+   <td>읽기, 만들기, 편집, 삭제, 모두 보기, 모두 수정</td> 
   </tr> 
   <tr> 
    <td>최상의 보기 세부 정보</td> 
@@ -39,7 +39,7 @@ Salesforce에서 Sales Insight 기능에 대한 액세스를 제거하려면 다
   </tr> 
   <tr> 
    <td>GetMethodArgus</td> 
-   <td>Read, Create, Edit, Delete, View All, Modify All</td> 
+   <td>읽기, 만들기, 편집, 삭제, 모두 보기, 모두 수정</td> 
   </tr> 
   <tr> 
    <td>GroupedWebActivityCache</td> 
@@ -55,7 +55,7 @@ Salesforce에서 Sales Insight 기능에 대한 액세스를 제거하려면 다
   </tr> 
   <tr> 
    <td>ScoringCache</td> 
-   <td>Read, Create, Edit, Delete, View All, Modify All</td> 
+   <td>읽기, 만들기, 편집, 삭제, 모두 보기, 모두 수정</td> 
   </tr> 
   <tr> 
    <td>값</td> 
@@ -70,11 +70,11 @@ Salesforce에서 Sales Insight 기능에 대한 액세스를 제거하려면 다
 
 * Apex 클래스 액세스: 159 &quot;mkto_si&quot;로 시작하는 Apex 클래스
 * Visualforce 페이지 액세스: 64 &quot;mkto_si&quot;로 시작하는 시각화 강제 페이지
-* Custom Setting Definitions: mkto_si.Marketo Settings &amp; mkto_si.User Preferences
+* 사용자 지정 설정 정의: mkto_si.Marketo 설정 및 mkto_si.User 환경 설정
 
 ## Sales Insight에 대한 액세스 제거 {#removing-access-to-sales-insight}
 
-1. Log in to your Salesforce account.
+1. Salesforce 계정에 로그인합니다.
 
 1. 클릭 **설정**.
 
@@ -82,11 +82,11 @@ Salesforce에서 Sales Insight 기능에 대한 액세스를 제거하려면 다
 
 1. 관리자(Administrator)에서 **사용자 관리**, 그런 다음 **프로필**.
 
-1. Click on the profile you&#39;d like to update, then **Edit**.
+1. 업데이트할 프로필을 클릭한 다음 **편집**.
 
 1. 탭 설정 아래의 &quot;사용자 지정 탭 설정&quot;으로 아래로 스크롤합니다.
 
-1. Select the “Tab Hidden” option from the drop-down for Marketo Sales Insight Config and MSI Marketo Sales Outbox.
+1. Marketo Sales Insight Config 및 MSI Marketo Sales Outbox의 드롭다운에서 &quot;Tab Hidden&quot; 옵션을 선택합니다.
 
    ![](assets/remove-sales-insight-access-2.png)
 
@@ -97,39 +97,39 @@ Salesforce에서 Sales Insight 기능에 대한 액세스를 제거하려면 다
 1. 다음 객체에서 &quot;읽기, 생성, 편집, 삭제&quot; 액세스를 제거합니다.
 
    * BestBetsCache
-   * Best Bets View Details
-   * Best Bets Views
+   * 최상의 보기 세부 정보
+   * 최고의 보기
    * EmailActivityCache
    * GetMethodArgus
    * GroupedWebActivityCache
-   * InterestingMomentsCache
+   * InterestMomentsCache
    * Marketo Sales Insight Config
    * ScoringCache
-   * Values
+   * 값
    * WebActivityCache
 
-1. Scroll down to the “Enabled Apex Class Access” section. 클릭 **편집**.
+1. &quot;Enabled Apex Class Access&quot; 섹션으로 스크롤합니다. 클릭 **편집**.
 
 1. &quot;Enabled Apex 클래스&quot; 섹션에서 &quot;mkto_si&quot;로 시작하는 모든 클래스를 선택합니다. 이 경우 최대 159개의 클래스가 추가됩니다.
 
-1. Click **Remove**, then **Save**.
+1. 클릭 **제거**, 그런 다음 **저장**.
 
    ![](assets/remove-sales-insight-access-4.png)
 
 1. &quot;Enabled Visualforce Page Access&quot; 섹션으로 스크롤합니다. 클릭 **편집**.
 
-1. From the “Enabled Visualforce Pages” section, select all pages that begin with “mkto_si”. This should add up to 64 pages.
+1. &quot;Enabled Visualforce Pages&quot; 섹션에서 &quot;mkto_si&quot;로 시작하는 모든 페이지를 선택합니다. 최대 64페이지가 추가됩니다.
 
 1. 클릭 **제거**, 그런 다음 **저장**.
 
    ![](assets/remove-sales-insight-access-5.png)
 
-1. Scroll down to the “Enabled Custom Setting Definitions Access” section. 클릭 **편집**.
+1. &quot;Enabled Custom Setting Definitions Access&quot; 섹션으로 스크롤합니다. 클릭 **편집**.
 
-1. Select &quot;Marketo Sales Insight.mkto_si.Marketo Settings&quot; and &quot;Marketo Sales Insight.mkto_si.User Preferences.&quot;
+1. Marketo Sales Insight.mkto_si.Marketo Settings 와 &quot;Marketo Sales Insight.mkto_si.User Preferences&quot;를 선택합니다.
 
-1. Click **Remove**, then **Save**.
+1. 클릭 **제거**, 그런 다음 **저장**.
 
    ![](assets/remove-sales-insight-access-6.png)
 
-That’s it! You’ve successfully removed Sales Insight access. 액세스를 제거할 다른 프로필에 대해 동일한 단계를 반복합니다.
+됐습니다. Sales Insight 액세스를 제거했습니다. 액세스를 제거할 다른 프로필에 대해 동일한 단계를 반복합니다.

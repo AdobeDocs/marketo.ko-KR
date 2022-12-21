@@ -1,34 +1,33 @@
 ---
 unique-page-id: 4718675
-description: 스테이지 이름 변경 - 마케팅 문서 - 제품 설명서
+description: 스테이지 이름 변경 - Marketo 문서 - 제품 설명서
 title: 스테이지 이름 변경
-translation-type: tm+mt
-source-git-commit: cb7df3dd38275837f8ab05ce846c2c68ab78462f
+exl-id: 03e2a648-8524-4d10-ba6c-f422d9da5a40
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '74'
-ht-degree: 0%
+ht-degree: 2%
 
 ---
 
+# 스테이지 이름 변경 {#changing-the-name-of-a-stage}
 
-# 스테이지 {#changing-the-name-of-a-stage} 이름 변경
+마음을 바꿔요? 문제 없어 매출 주기 모델러에서 스테이지의 이름을 쉽게 바꿀 수 있습니다.
 
-마음을 바꾸시겠습니까? 문제 없습니다. 매출 주기 모델러에서 스테이지의 이름을 손쉽게 변경할 수 있습니다.
-
-1. **분석** 영역으로 이동합니다.
+1. 로 이동합니다. **Analytics** 영역.
 
    ![](assets/image2015-4-27-23-3a18-3a34.png)
 
-1. 업데이트할 수익 주기 모델을 선택합니다. **초안 편집**&#x200B;을 클릭합니다.
+1. 업데이트할 수익 주기 모델을 선택합니다. 클릭 **초안 편집**.
 
    ![](assets/image2015-4-27-17-3a36-3a33.png)
 
-1. 업데이트할 스테이지를 선택하고 새 **이름**&#x200B;을 입력합니다.
+1. 업데이트할 단계를 선택하고 새 단계를 입력합니다 **이름**.
 
    ![](assets/image2015-4-27-17-3a40-3a46.png)
 
-1. **닫기**&#x200B;를 클릭합니다.
+1. Click **Close**.
 
    ![](assets/image2015-4-27-17-3a41-3a51.png)
 
-   봐 진정해! [모델 승인](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-cycle-models/approve-unapprove-a-revenue-model.md)을 잊지 마십시오.
+   봤지? 진정해! 잊지 말고 [모델 승인](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-cycle-models/approve-unapprove-a-revenue-model.md).

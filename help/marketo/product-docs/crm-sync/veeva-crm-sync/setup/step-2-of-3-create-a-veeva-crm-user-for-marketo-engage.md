@@ -5,7 +5,7 @@ exl-id: 78945192-36b0-4e0b-830a-f37eb0b83484
 source-git-commit: 2ce44b7c44517a6fdb3f616a3d69b25158ea4ec9
 workflow-type: tm+mt
 source-wordcount: '636'
-ht-degree: 0%
+ht-degree: 4%
 
 ---
 
@@ -49,13 +49,13 @@ ht-degree: 0%
 
 1. 다음 필드에 대해 위의 단계를 반복합니다.
 
-   * 유추 도시
+   * 유추된 시
    * 추론된 회사
    * 추론된 국가
-   * 유추 수도권
-   * 추론된 전화 영역 코드
-   * 유추 우편 번호
-   * 유추 주 지역
+   * 대도시 지역 유추
+   * 전화번호 지역코드 유추
+   * 우편번호 유추
+   * 유추된 주 지역
 
    >[!NOTE]
    >
@@ -154,7 +154,7 @@ ht-degree: 0%
 <table>
  <tbody>
   <tr>
-   <th>개체
+   <th>오브젝트
    <th>필드
   </tr>
   <tr>
@@ -162,7 +162,7 @@ ht-degree: 0%
    <td>유형 필드</td>
   </tr>
   <tr>
-   <td>이벤트</td>
+   <td>Event</td>
    <td>모든 필드</td>
   </tr>
   <tr>

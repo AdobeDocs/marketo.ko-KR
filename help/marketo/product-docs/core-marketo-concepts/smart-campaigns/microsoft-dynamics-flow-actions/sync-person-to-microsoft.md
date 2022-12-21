@@ -1,19 +1,18 @@
 ---
 unique-page-id: 7514027
-description: Microsoft에 사람 동기화 - Marketo 문서 - 제품 설명서
-title: Microsoft에 사람 동기화
+description: Microsoft에 개인 동기화 - Marketo 문서 - 제품 설명서
+title: Microsoft에 개인 동기화
 exl-id: cc6f1c03-ba74-418c-95d5-fb073a248379
-translation-type: tm+mt
 source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '75'
-ht-degree: 0%
+ht-degree: 2%
 
 ---
 
-# Microsoft {#sync-person-to-microsoft}에 사람 동기화
+# Microsoft에 개인 동기화 {#sync-person-to-microsoft}
 
-이 기능은 Marketo과 Microsoft Dynamics를 통합하는 사용자에게만 제공됩니다.
+이 기능은 Marketo을 Microsoft Dynamics와 통합하는 사용자만 사용할 수 있습니다.
 
 ## 개요 {#overview}
 
@@ -21,7 +20,7 @@ ht-degree: 0%
 
 ![](assets/one.png)
 
-## 사용량 {#usage}
+## 사용 {#usage}
 
 Dynamics 사용자를 개인 소유자로 설정할 수 있습니다.
 
@@ -29,4 +28,4 @@ Dynamics 사용자를 개인 소유자로 설정할 수 있습니다.
 
 >[!NOTE]
 >
->&quot;Microsoft에 사람 동기화&quot; 흐름 작업을 사용하는 경우(트리거 캠페인에서만) 리드/연락처가 Dynamics에서 실시간으로 만들어집니다.
+>&quot;Microsoft에 개인 동기화&quot; 흐름 작업을 사용할 때(트리거 캠페인에서만) 리드/연락처가 Dynamics에서 실시간으로 생성됩니다.

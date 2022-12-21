@@ -5,14 +5,14 @@ title: 템플릿 8C
 exl-id: 45f0defc-6554-459c-a862-731d18f9ed6b
 source-git-commit: bfcd66388b0d77cf3f1743b0778026a1e5a1ec61
 workflow-type: tm+mt
-source-wordcount: '0'
+source-wordcount: '65'
 ht-degree: 0%
 
 ---
 
 # 템플릿 8C {#template-8c}
 
-마우스 오른쪽 단추를 클릭하여 [템플릿 8C](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-8c.html) 다운로드
+마우스 오른쪽 단추를 클릭하여 [템플릿 8C 다운로드](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-8c.html)
 
 ![](assets/image2015-7-29-14-3a12-3a24.png)
 

@@ -1,42 +1,41 @@
 ---
 unique-page-id: 14352464
-description: Salesforce의 보고 대시보드 - Marketing To Docs - 제품 설명서
-title: Salesforce의 대시보드 보고
-translation-type: tm+mt
-source-git-commit: 1dd80b7de801df78ac7dde39002455063f9979b7
+description: Salesforce에서 대시보드 보고 - Marketo 문서 - 제품 설명서
+title: Salesforce에서 대시보드 보고
+exl-id: f27ba3e1-210b-46df-81b5-e794826d36c7
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '200'
 ht-degree: 0%
 
 ---
 
+# Salesforce에서 대시보드 보고 {#reporting-dashboards-in-salesforce}
 
-# Salesforce {#reporting-dashboards-in-salesforce}에서 대시보드 보고
+아래에서 대시보드를 설정하는 방법을 배웁니다.
 
-아래의 대시보드를 설정하는 방법을 알아봅니다.
+## 보고서 열기 및 클릭 {#open-and-click-report}
 
-## 열고 보고서 {#open-and-click-report} 클릭
+1. 을(를) 선택합니다 **작업 및 이벤트** 레코드 유형입니다.
+1. 원하는 기간 및 계층 구조를 기준으로 보고서 매개 변수를 정의합니다.
+1. Salesforce에 로그된 내부 이메일(예: 회사/계정이 Marketo과 같지 않음)을 제거하는 필터를 추가합니다.
+1. 을(를) 선택합니다 **요약** 보고서 형식입니다.
+1. 제목, 지정 및 Marketo Sales Clicked/Marketo Sales Viewed 필드를 보고서에 추가합니다.
+1. 두 번 클릭 **수식 추가** 필드 창 내에서 참조할 수 있습니다.
+1. 수식에 이름을 추가하고 **Percent** 형식에서 을(를) 선택하고 을(를) 선택합니다. **그룹화 1**.
+1. 선택 **Marketo 판매 클릭/Marketo 판매 조회,** 그런 다음 **합계** 요약 필드에서 을 클릭합니다.
+1. 수식에 분할 기호를 추가한 다음 **레코드 수** 요약 필드에서 - _다른 이름으로 저장_.
 
-1. **작업 및 이벤트** 레코드 유형을 선택합니다.
-1. 원하는 기간 및 계층 구조에 따라 보고서 매개 변수를 정의합니다.
-1. 필터를 추가하여 Salesforce에 기록된 내부 이메일(예: 회사/계정이 Marketing To와 같지 않음)을 제거합니다.
-1. **요약** 보고서 형식을 선택합니다.
-1. [제목], [할당됨] 및 [판매 클릭됨/마케팅을 통해 본 판매 보기] 필드를 보고서에 추가합니다.
-1. 필드 창에서 **수식 추가**&#x200B;를 두 번 클릭합니다.
-1. 공식에 이름을 추가하고 형식으로 **퍼센트**&#x200B;를 선택하고 **그룹화 1**&#x200B;을 선택합니다.
-1. 요약 필드에서 **Marketing to Sales Clicked/Marketing To Sales Viewed,** **Sum**&#x200B;을 선택합니다.
-1. 공식에 나누기 기호를 추가한 다음 요약 필드 - _다른 이름으로 저장_&#x200B;에서 **레코드 수**&#x200B;를 선택합니다.
+## 템플릿 성과 보고서 {#template-performance-report}
 
-## 템플릿 성능 보고서 {#template-performance-report}
-
-1. [열기] 및 [클릭] 보고서를 사용자 지정하여 _다른 이름으로 저장_ 필드를 포함합니다.
+1. 다음 필드를 포함하도록 열기 및 클릭 보고서를 사용자 지정합니다. _다른 이름으로 저장_.
 
 ## 템플릿 볼륨 보고서 {#template-volume-report}
 
-1. 템플릿 성과 보고서를 수정하고 &quot;마케팅 영업 템플릿이 비어 있지 않습니다.&quot;라는 필터를 포함합니다.
-1. Marketing to Sales Clicked 필드 제거 - _다른 이름으로 저장_.
+1. 템플릿 성과 보고서를 수정하고 &quot;Marketo 판매 템플릿이 비어 있지 않음&quot; 필터를 포함합니다.
+1. Marketo Sales Clicked 필드 제거 - _다른 이름으로 저장_.
 
 ## 트렌드 계정 보고서 {#trending-accounts-report}
 
-1. 계정 레코드 유형의 활동을 선택합니다.
-1. 아래 표시된 대로 보고서 매개 변수와 필드를 설정합니다. _다른 이름으로 저장_.
+1. 계정 레코드 유형을 가진 활동 을 선택합니다.
+1. 아래에 표시된 대로 보고서 매개 변수 및 필드를 설정합니다. _다른 이름으로 저장_.

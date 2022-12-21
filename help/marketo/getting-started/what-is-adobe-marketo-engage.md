@@ -6,7 +6,7 @@ exl-id: 7b76e910-6c01-4fdb-8ab8-f6b1abe13136
 source-git-commit: e06aa684f8443e3e8684d15628cc445daba456e2
 workflow-type: tm+mt
 source-wordcount: '232'
-ht-degree: 0%
+ht-degree: 1%
 
 ---
 
@@ -35,7 +35,7 @@ Marketo Engage에는 마케팅 목표를 달성하는 데 도움이 되는 많�
 * 프로그램 분석
 * Target 계정 관리
 
-...더 많이!
+...and much more!
 
 ## 이 모든 것을 배워야 하나요? {#do-i-need-to-learn-all-of-that}
 

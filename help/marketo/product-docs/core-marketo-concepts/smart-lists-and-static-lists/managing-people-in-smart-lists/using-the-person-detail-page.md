@@ -6,7 +6,7 @@ exl-id: 8476ed02-6d94-4aa5-91f6-55c81a87f745
 source-git-commit: a24b0de6493d4849723099d6164fafb73ef7c926
 workflow-type: tm+mt
 source-wordcount: '550'
-ht-degree: 13%
+ht-degree: 19%
 
 ---
 
@@ -74,12 +74,12 @@ ht-degree: 13%
 |---|---|---|---|---|
 | 주소 | 연매출 | 익명 IP | 청구지 주소 | 청구지 시 |
 | 청구지 국가 | 청구지 우편번호 | 청구지 주 | 시 | 회사명 |
-| 국가 | 작성 위치 | 출생일 | 부서 | 두 낫 콜 |
-| 원인 호출 안 함 | 두 낫 콜 이유 | 이메일 주소 | 이메일이 잘못되었습니다. | 전자 메일 잘못된 원인 |
-| 외부 회사 Id | 외부 영업 담당자 Id | 팩스 번호 | 이름 | 전체 이름 |
-| 산업 | 유추 도시 | 추론된 회사 | 추론된 국가 | 유추 수도권 |
-| 추론된 전화 영역 코드 | 유추 우편 번호 | 유추 주 지역 | 익명 | 고객임 |
-| 파트너임 | 직위 | 성 | 등급 | 점수 |
+| 국가 | 생성 위치 | 출생일 | 부서 | 두 낫 콜 |
+| 원인 호출 안 함 | 두 낫 콜 이유 | 이메일 주소 | 이메일이 잘못되었습니다. | 잘못된 이메일 원인 |
+| 외부 회사 Id | 외부 영업 사원 ID | 팩스 번호 | 이름 | 전체 이름 |
+| 산업 | 유추된 시 | 추론된 회사 | 추론된 국가 | 대도시 지역 유추 |
+| 전화번호 지역코드 유추 | 우편번호 유추 | 유추된 주 지역 | 익명 | 고객 |
+| 파트너 | 직위 | 성 | 등급 | 스코어 |
 | 개인 소스 | 상태 | 메인 전화 | Marketo Social Facebook 표시 이름 | Marketo Social Facebook Id |
 | Marketo Social Facebook 사진 URL | Marketo Social Facebook 프로필 URL | Marketo Social Facebook 도달 범위 | Marketo Social Facebook에서 참조하는 등록 | Marketo Social Facebook 참조 방문 |
 | Marketo 소셜 성별 | Marketo Social 마지막 참조 등록 | Marketo Social 마지막 참조 방문 | Marketo Social LinkedIn 표시 이름 | Marketo Social LinkedIn Id |
@@ -87,9 +87,9 @@ ht-degree: 13%
 | Marketo Social 신디케이션 ID | Marketo Social 총 참조 등록 | Marketo 소셜 총 참조된 방문 수 | Marketo 소셜 Twitter 표시 이름 | Marketo Social Twitter Id |
 | Marketo 소셜 Twitter 사진 URL | Marketo 소셜 Twitter 프로필 URL | Marketo 소셜 Twitter 도달 범위 | Marketo Social Twitter 참조 등록 | Marketo Social Twitter 참조 방문 |
 | 중간 이름 | 휴대 전화 번호 | 직원 수 | 전화 번호 | 우편 번호 |
-| 우선순위 | 상대 점수 | 역할 | 인사말 | SIC 코드 |
+| 우선 순위 | 상대 점수 | 역할 | 인사말 | SIC 코드 |
 | 사이트 | 주 | 주소 삭제 | 주소 삭제 이유 | 업데이트 날짜: |
-| 긴급성 | 웹사이트 |  |  |  |
+| 긴급성 | 웹 사이트 |  |  |  |
 
 >[!NOTE]
 >

@@ -5,14 +5,14 @@ title: 템플릿 7D
 exl-id: 089bbf5e-5260-4190-ba66-520871d2d665
 source-git-commit: bfcd66388b0d77cf3f1743b0778026a1e5a1ec61
 workflow-type: tm+mt
-source-wordcount: '0'
+source-wordcount: '62'
 ht-degree: 0%
 
 ---
 
 # 템플릿 7D {#template-7d}
 
-마우스 오른쪽 단추를 클릭하여 [템플릿 7D](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-7d.html) 다운로드
+마우스 오른쪽 단추를 클릭하여 [템플릿 7D 다운로드](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-7d.html)
 
 ![](assets/image2015-7-29-15-3a5-3a39.png)
 

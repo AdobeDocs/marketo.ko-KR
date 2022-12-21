@@ -16,7 +16,7 @@ ht-degree: 0%
 
 ## [익명 필터](/help/marketo/product-docs/administration/additional-integrations/add-munchkin-tracking-code-to-your-website/next-generation-munchkin-tracking-faq.md) {#is-anonymous-filter}
 
-스마트 목록에 대해 익명 필터가 제거되었습니다. 자세한 내용은 [차세대 Munchkin 추적 FAQ](/help/marketo/product-docs/administration/additional-integrations/add-munchkin-tracking-code-to-your-website/next-generation-munchkin-tracking-faq.md) 문서를 참조하십시오. 이 변경 사항은 RTP(웹 개인화)에는 영향을 주지 않으며, 이는 익명 및 알려진 웹 방문자를 계속 식별하고 이러한 방문자에게 실시간으로 컨텐츠를 개인화합니다.
+스마트 목록에 대해 익명 필터가 제거되었습니다. 자세한 내용은 [차세대 Munchkin 추적 FAQ](/help/marketo/product-docs/administration/additional-integrations/add-munchkin-tracking-code-to-your-website/next-generation-munchkin-tracking-faq.md) 자세한 내용은 문서를 참조하십시오. 이 변경 사항은 RTP(웹 개인화)에는 영향을 주지 않으며, 이는 익명 및 알려진 웹 방문자를 계속 식별하고 이러한 방문자에게 실시간으로 컨텐츠를 개인화합니다.
 
 ## [데이터베이스 대시보드](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/managing-people-in-smart-lists/database-dashboard.md) {#database-dashboard}
 
@@ -26,11 +26,11 @@ ht-degree: 0%
 
 ## [Microsoft Edge Browser](/help/marketo/product-docs/administration/setup-administration/supported-browsers.md) {#microsoft-edge-browser}
 
-Marketo에서 지원하는 [브라우저 목록에 Microsoft Edge를 추가했습니다.](https://docs.marketo.com/display/public/DOCS/Supported+Browsers)
+Microsoft Edge를 [브라우저 목록](https://docs.marketo.com/display/public/DOCS/Supported+Browsers) Marketo에서 지원합니다.
 
 ## [Microsoft Outlook 2016](/help/marketo/product-docs/marketo-sales-insight/msi-outlook-plugin/install-the-marketo-email-add-in-for-outlook-with-a-registration-code.md) {#microsoft-outlook}
 
-[이제 Microsoft Outlook 2016](/help/marketo/product-docs/marketo-sales-insight/msi-outlook-plugin/install-the-marketo-email-add-in-for-outlook-with-a-registration-code.md) 이 지원됩니다.
+[Microsoft Outlook 2016](/help/marketo/product-docs/marketo-sales-insight/msi-outlook-plugin/install-the-marketo-email-add-in-for-outlook-with-a-registration-code.md) 이제 가 지원됩니다.
 
 ## [이메일 프로그램 시작](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/head-start-for-email-programs.md) {#email-program-head-start}
 
@@ -48,7 +48,7 @@ Marketo에서 지원하는 [브라우저 목록에 Microsoft Edge를 추가했�
 
 ## [모바일 마케팅 개선 사항](/help/marketo/product-docs/mobile-marketing/admin/add-a-mobile-app.md) {#mobile-marketing-enhancements}
 
-**PhoneGap 지원:**  이제 모바일 앱에 대한 PhoneGap 지원을 제공합니다. [추가 정보](https://developers.marketo.com/documentation/mobile/phonegap-plugin/).
+**PhoneGap 지원:** 이제 모바일 앱에 대한 PhoneGap 지원을 제공합니다. [자세히 알아보기](https://developers.marketo.com/documentation/mobile/phonegap-plugin/).
 
 **샌드박스 앱 지원**:
 
@@ -64,7 +64,7 @@ REST API를 통해 프로그램을 생성, 업데이트 및 복제합니다. 프
 
 ![](assets/pending-backog-cropped.png)
 
-**[알림](/help/marketo/product-docs/core-marketo-concepts/miscellaneous/understanding-notifications/notification-types.md)**: 일반적인 동기화 오류에 대한 알림과 해당 오류가 있는 리드 목록이 함께 제공됩니다.
+**[알림 을 참조하십시오](/help/marketo/product-docs/core-marketo-concepts/miscellaneous/understanding-notifications/notification-types.md)**: 일반적인 동기화 오류에 대한 알림과 해당 오류가 있는 리드 목록이 함께 제공됩니다.
 
 ![](assets/image2016-1-12-8-3a13-3a9.png)
 
@@ -76,7 +76,7 @@ REST API를 통해 프로그램을 생성, 업데이트 및 복제합니다. 프
 
 ## [Facebook 리드 광고](/help/marketo/product-docs/demand-generation/facebook/set-up-facebook-lead-ads.md) {#facebook-lead-ads}
 
-[Facebook 리드 ](https://www.facebook.com/business/a/lead-ads) 관리자는 Facebook에서 리드 생성 캠페인을 실행하는 보다 직접적인 방법을 제공합니다. 상품이나 서비스에 대한 관심을 표현하는 양식을 작성하면 그 회사는 그것을 따라 처리할 수 있다. facebook 리드 광고와 Marketo 통합을 통해 리드 광고 양식 내에 제공하는 정보를 자동으로 캡처합니다. 그런 다음 새로운 Facebook 리드 광고 채우기 트리거를 사용하여 후속 작업 및 알림을 자동화할 수 있습니다.
+[Facebook 리드 광고](https://www.facebook.com/business/a/lead-ads) 는 기업이 Facebook에서 리드 생성 캠페인을 실행하는 보다 직접적인 방법입니다. 상품이나 서비스에 대한 관심을 표현하는 양식을 작성하면 그 회사는 그것을 따라 처리할 수 있다. facebook 리드 광고와 Marketo 통합을 통해 리드 광고 양식 내에 제공하는 정보를 자동으로 캡처합니다. 그런 다음 새로운 Facebook 리드 광고 채우기 트리거를 사용하여 후속 작업 및 알림을 자동화할 수 있습니다.
 
 ![](assets/image2016-1-11-10-3a20-3a39.png)
 

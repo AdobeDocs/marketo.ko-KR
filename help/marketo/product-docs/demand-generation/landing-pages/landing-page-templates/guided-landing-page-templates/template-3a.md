@@ -5,14 +5,14 @@ title: 템플릿 3A
 exl-id: ec664f4b-b82d-408b-8657-d41056a9eb16
 source-git-commit: bfcd66388b0d77cf3f1743b0778026a1e5a1ec61
 workflow-type: tm+mt
-source-wordcount: '0'
+source-wordcount: '64'
 ht-degree: 0%
 
 ---
 
 # 템플릿 3A {#template-3a}
 
-마우스 오른쪽 단추를 클릭하여 [템플릿 다운로드 3A](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-3a.html)
+마우스 오른쪽 단추를 클릭하여 [템플릿 3A 다운로드](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-3a.html)
 
 ![](assets/image2015-6-12-9-3a2-3a8.png)
 

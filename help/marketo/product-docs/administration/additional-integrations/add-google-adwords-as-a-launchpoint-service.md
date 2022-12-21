@@ -6,7 +6,7 @@ exl-id: 993a057a-3f98-4a9f-a770-c9c80dedfd81
 source-git-commit: 457b4aadac47b0a8614c3e6025d2e1ae287b5ecc
 workflow-type: tm+mt
 source-wordcount: '325'
-ht-degree: 0%
+ht-degree: 1%
 
 ---
 
@@ -81,7 +81,7 @@ Google AdWords 계정을 Marketo에 연결하여 Marketo에서 Google AdWords로
    >
    >Marketo 및 AdWords에서 일관된 속성 모델을 사용하면 가장 정확한 데이터가 제공됩니다.
 
-1. 클릭 **만들기**.
+1. Click **Create**.
 
    ![](assets/add-google-adwords-as-a-launchpoint-service-11.png)
 

@@ -43,8 +43,8 @@ ht-degree: 0%
   <p>Salesforce의 다른 상태 값은 Sales Connect에 동기화되지 않습니다.</p></td>
  </tr>
  <tr>
-  <td>우선순위</td>
-  <td>우선순위</td>
+  <td>우선 순위</td>
+  <td>우선 순위</td>
   <td><p>Sales Connect 우선 순위는 Salesforce의 Normal 및 High 우선 순위 값에 매핑되는 Normal 또는 High일 수 있습니다.</p>
   <p>Salesforce의 낮은 우선 순위 값은 Sales Connect에 동기화되지 않습니다.</p></td>
  </tr>
@@ -54,7 +54,7 @@ ht-degree: 0%
   <td>작업 기한 날짜입니다.</td>
  </tr>
  <tr>
-  <td>세부 사항</td>
+  <td>세부 정보</td>
   <td>댓글</td>
   <td>미리 알림 작업과 함께 완료되는 작업에 대한 자세한 정보를 표시합니다.</td>
  </tr>

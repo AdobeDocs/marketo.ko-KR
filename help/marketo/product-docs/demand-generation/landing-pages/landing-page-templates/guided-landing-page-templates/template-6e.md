@@ -12,7 +12,7 @@ ht-degree: 0%
 
 # 템플릿 6E {#template-6e}
 
-마우스 오른쪽 단추를 클릭하여 [템플릿 6E](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-6e.html) 다운로드
+마우스 오른쪽 단추를 클릭하여 [템플릿 6E 다운로드](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-6e.html)
 
 ![](assets/image2015-7-29-14-3a8-3a54.png)
 

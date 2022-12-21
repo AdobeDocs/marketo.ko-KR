@@ -1,7 +1,8 @@
 ---
 description: 제품 사용 제한 - Marketo 문서 - 제품 설명서
 title: 제품 사용 제한
-source-git-commit: 4dd0d703347ed878f73ddc574d063a6746089887
+exl-id: 899dc59e-85bf-408e-9687-e0ed823dd51f
+source-git-commit: b27cf5eae178b5b3da27e0c15c98eb3c3470cd5f
 workflow-type: tm+mt
 source-wordcount: '186'
 ht-degree: 13%
@@ -14,7 +15,7 @@ Sales Insight Actions에서 사용할 수 있는 확장된 영업 참여 기능�
 
 <table>
   <th>기능</th>
-  <th>비율</th>
+  <th>속도</th>
   <th>제한</th>
  <tr>
   <td>영업 전자 메일 전송</td>
@@ -24,7 +25,7 @@ Sales Insight Actions에서 사용할 수 있는 확장된 영업 참여 기능�
  <tr>
   <td>대량 판매 이메일</td>
   <td>전송 횟수</td>
-  <td>200년</td>
+  <td>200</td>
  </tr>
  <tr>
   <td>이메일 템플릿</td>
@@ -34,7 +35,7 @@ Sales Insight Actions에서 사용할 수 있는 확장된 영업 참여 기능�
  <tr>
   <td>이메일 템플릿 카테고리</td>
   <td>인스턴스 수</td>
-  <td>500년</td>
+  <td>500</td>
  </tr>
  <tr>
   <td>이메일 저장된 검색</td>
@@ -44,27 +45,27 @@ Sales Insight Actions에서 사용할 수 있는 확장된 영업 참여 기능�
  <tr>
   <td>캠페인 카테고리</td>
   <td>인스턴스 수</td>
-  <td>500년</td>
+  <td>500</td>
  </tr>
  <tr>
   <td>캠페인 시작</td>
   <td>사용자/일별</td>
-  <td>200년</td>
+  <td>200</td>
  </tr>
  <tr>
   <td>실행 중인 캠페인</td>
   <td>사용자/일별</td>
-  <td>200년</td>
+  <td>200</td>
  </tr>
  <tr>
   <td>벌크 캠페인</td>
   <td>시작 횟수</td>
-  <td>200년</td>
+  <td>200</td>
  </tr>
  <tr>
   <td>캠페인</td>
   <td>인스턴스 수</td>
-  <td>500년</td>
+  <td>500</td>
  </tr>
   <td>호출</td>
   <td>사용자/월별(인스턴스 간 공유)</td>
@@ -83,17 +84,17 @@ Sales Insight Actions에서 사용할 수 있는 확장된 영업 참여 기능�
  <tr>
   <td>업로드된 첨부 파일</td>
   <td>사용자당</td>
-  <td>25년</td>
+  <td>25</td>
  </tr>
  <tr>
   <td>사용자 시트</td>
   <td>인스턴스 수</td>
-  <td>100년</td>
+  <td>100</td>
  </tr>
  <tr>
   <td>팀</td>
   <td>인스턴스 수</td>
-  <td>20년</td>
+  <td>20</td>
  </tr>
  <tr>
   <td>통화 결과</td>
@@ -108,7 +109,7 @@ Sales Insight Actions에서 사용할 수 있는 확장된 영업 참여 기능�
  <tr>
   <td>통화 기록 알림</td>
   <td>인스턴스 수</td>
-  <td>5개</td>
+  <td>5</td>
  </tr>
  <tr>
   <td>Marketo에서 동기화된 필드</td>
@@ -117,7 +118,7 @@ Sales Insight Actions에서 사용할 수 있는 확장된 영업 참여 기능�
  </tr>
   <td>이메일 ID</td>
   <td>사용자당</td>
-  <td>2개</td>
+  <td>2</td>
  </tr>
  <tr>
   <td>팀 SMTP 서버 연결</td>

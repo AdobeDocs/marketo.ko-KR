@@ -5,7 +5,7 @@ exl-id: 4b97fe25-ce4d-446c-8b23-2566769f35ee
 source-git-commit: 85e04fb8a52a417982014bc4bb101b6044e53f84
 workflow-type: tm+mt
 source-wordcount: '52'
-ht-degree: 0%
+ht-degree: 3%
 
 ---
 
@@ -30,6 +30,6 @@ ht-degree: 0%
 
 * [Adobe Marketo Engage 차세대 UX 경험 개요](/help/marketo/product-docs/marketo-engage-modern-ux/overview.md)
 
-## 릴리스 노트
+## 릴리스 정보
 
 * [현재 릴리스](/help/marketo/release-notes/current.md)

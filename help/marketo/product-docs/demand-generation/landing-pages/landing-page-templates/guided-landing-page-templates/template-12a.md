@@ -5,14 +5,14 @@ title: 템플릿 12A
 exl-id: 761d7849-9137-4c6b-b9f2-96d380beb55d
 source-git-commit: bfcd66388b0d77cf3f1743b0778026a1e5a1ec61
 workflow-type: tm+mt
-source-wordcount: '0'
+source-wordcount: '63'
 ht-degree: 0%
 
 ---
 
 # 템플릿 12A {#template-12a}
 
-마우스 오른쪽 단추를 클릭하여 [템플릿 12A](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-12a.html) 다운로드
+마우스 오른쪽 단추를 클릭하여 [템플릿 12A 다운로드](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-12a.html)
 
 ![](assets/image2015-8-4-14-3a23-3a23.png)
 

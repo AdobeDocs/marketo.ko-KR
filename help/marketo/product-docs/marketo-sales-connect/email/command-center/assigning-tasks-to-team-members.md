@@ -5,7 +5,7 @@ title: 팀 구성원에게 작업 할당
 exl-id: 9f7126eb-076e-47b8-ade0-979e46675d5c
 source-git-commit: 01a131e58a3f4ea80d30363d152608820530163e
 workflow-type: tm+mt
-source-wordcount: '0'
+source-wordcount: '117'
 ht-degree: 0%
 
 ---
@@ -18,11 +18,11 @@ ht-degree: 0%
 >
 >공유 연락처에 대한 작업만 할당할 수 있습니다.
 
-1. **명령 센터**&#x200B;를 클릭합니다.
+1. 을(를) 클릭합니다. **명령 센터**.
 
    ![](assets/one-1.png)
 
-1. **작업 추가**&#x200B;를 클릭합니다.
+1. 클릭 **작업 추가**.
 
    ![](assets/two-1.png)
 
@@ -50,6 +50,6 @@ ht-degree: 0%
 
    ![](assets/eight.png)
 
-1. 동료를 위한 중요한 세부 정보(선택 사항)를 추가하고 **만들기**&#x200B;를 클릭합니다.
+1. 팀원과 관련된 중요한 세부 사항을 추가하고(선택 사항) **만들기**.
 
    ![](assets/nine.png)

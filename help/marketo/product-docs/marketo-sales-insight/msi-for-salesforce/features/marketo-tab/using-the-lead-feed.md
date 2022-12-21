@@ -48,7 +48,7 @@ Salesforce에서 볼 때 각 항목에는 다음이 있습니다.
   </tr> 
   <tr> 
    <td><p>C. 계정 이름</p></td> 
-   <td><p>회사 이름</p></td> 
+   <td><p>회사명</p></td> 
   </tr> 
   <tr> 
    <td><p>D. 시간</p></td> 

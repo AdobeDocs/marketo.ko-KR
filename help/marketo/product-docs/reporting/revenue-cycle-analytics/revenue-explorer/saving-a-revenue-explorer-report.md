@@ -1,19 +1,18 @@
 ---
 unique-page-id: 7504725
-description: 매출 탐색기 보고서 저장 - 마케팅 문서 - 제품 설명서
+description: 매출 탐색기 보고서 저장 - Marketo 문서 - 제품 설명서
 title: 매출 탐색기 보고서 저장
-translation-type: tm+mt
-source-git-commit: cb7df3dd38275837f8ab05ce846c2c68ab78462f
+exl-id: 9c63d714-0bd3-42d7-844a-921201bf53bc
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '81'
 ht-degree: 0%
 
 ---
 
+# 매출 탐색기 보고서 저장 {#saving-a-revenue-explorer-report}
 
-# 매출 탐색기 보고서 저장 중 {#saving-a-revenue-explorer-report}
-
-매출 탐색기 보고서를 원하는 파일에 저장할 수 있습니다.
+매출 탐색기 보고서를 선택한 파일에 저장할 수 있습니다.
 
 1. 저장 아이콘을 클릭합니다.
 
@@ -21,13 +20,13 @@ ht-degree: 0%
 
    >[!NOTE]
    >
-   >보고서에 대한 변경 내용은 자동으로 저장되지 않습니다. 따라서 자주 비용을 절감하십시오!
+   >보고서에 대한 변경 사항은 자동으로 저장되지 않습니다. 그러니 자주 저축하도록 하세요!
 
-1. 보고서에 설명형 이름을 지정하고 위치를 선택한 다음 **저장**!
+1. 보고서를 설명하는 이름을 지정하고 위치를 선택한 다음 를 클릭합니다 **저장**!
 
    ![](assets/image2015-3-26-13-3a30-3a33.png)
 
-   그게 다예요! 이제 **파일 찾아보기**&#x200B;에서 파일에 액세스할 수 있습니다.
+   그게 다야! 이제에서 파일에 액세스할 수 있습니다. **파일 찾아보기**.
 
    ![](assets/image2015-3-27-11-3a32-3a51.png)
 

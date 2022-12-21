@@ -12,7 +12,7 @@ ht-degree: 0%
 
 # 템플릿 19B {#template-19b}
 
-마우스 오른쪽 단추를 클릭하여 [템플릿 19B](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-19b.html) 다운로드
+마우스 오른쪽 단추를 클릭하여 [템플릿 19B 다운로드](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-19b.html)
 
 ![](assets/image2015-9-16-16-3a49-3a50.png)
 

@@ -36,7 +36,7 @@ ht-degree: 0%
 
    ![](assets/image2015-12-22-15-3a46-3a34.png)
 
-1. 클릭 **만들기**.
+1. Click **Create**.
 
    ![](assets/image2015-12-22-15-3a48-3a20.png)
 

@@ -5,7 +5,7 @@ title: SFDC 동기화 - 기회 동기화
 exl-id: f8acc528-c631-43f0-8899-2f3c6fdabe9e
 source-git-commit: e04e2d6932830535493c431de50d6cf9e2298fb1
 workflow-type: tm+mt
-source-wordcount: '0'
+source-wordcount: '291'
 ht-degree: 0%
 
 ---

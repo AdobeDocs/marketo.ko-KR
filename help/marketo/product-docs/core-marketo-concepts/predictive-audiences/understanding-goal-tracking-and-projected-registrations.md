@@ -4,7 +4,7 @@ title: 목표 추적 및 예상 등록 이해
 exl-id: 110768f4-46ed-4951-96b2-a97813d7b257
 source-git-commit: 85e04fb8a52a417982014bc4bb101b6044e53f84
 workflow-type: tm+mt
-source-wordcount: '988'
+source-wordcount: '980'
 ht-degree: 0%
 
 ---
@@ -23,11 +23,11 @@ ht-degree: 0%
 
 ## 목표 추적 및 예상 등록
 
-1. 에서 목표 추적 세부 사항을 찾을 수 있습니다 **[!UICONTROL 보고서]** 이벤트 프로그램의 탭입니다. 이 특정 예에서는 지금까지 200(75%)이라는 목표에 대해 150명의 등록된 구성원이 있습니다.
+1. 에서 목표 추적 세부 사항을 찾을 수 있습니다 **[!UICONTROL Reports]** 이벤트 프로그램의 탭입니다. 이 특정 예에서는 지금까지 200(75%)이라는 목표에 대해 150명의 등록된 구성원이 있습니다.
 
    ![](assets/understanding-goal-tracking-and-projected-registrations-1.png)
 
-또한 **[!UICONTROL 투영됨]** 등록 정보 아이콘 위로 마우스를 가져가면 가능성 세그먼트별로 이 수의 분류를 볼 수 있습니다.
+또한 **[!UICONTROL Projected]** 등록 정보 아이콘 위로 마우스를 가져가면 가능성 세그먼트별로 이 수의 분류를 볼 수 있습니다.
 
 ![](assets/understanding-goal-tracking-and-projected-registrations-2.png)
 
@@ -74,7 +74,7 @@ ht-degree: 0%
 
 ## 개인 수준 예측
 
-을(를) 클릭합니다. **[!UICONTROL 멤버]** 탭을 눌러 모든 프로그램 구성원을 봅니다. 마우스를 위에 놓으십시오 **[!UICONTROL 등록 가능성]** 또는 **[!UICONTROL 참석 가능성]** 정확한 백분율 및 분류를 보는 막대. 그런 다음 특정 카테고리의 멤버(예: &quot;가능성이 없음&quot;에 있는 모든 구성원이 카테고리를 등록하도록 함)에 대해 조치를 취할 수 있으며, 특히 이들을 대상으로 지정하여 등록 번호를 잠재적으로 높이게 할 수 있습니다.
+을(를) 클릭합니다. **[!UICONTROL Members]** 탭을 눌러 모든 프로그램 구성원을 봅니다. 마우스를 위에 놓으십시오 **[!UICONTROL Registration Likelihood]** 또는 **[!UICONTROL Attendance Likelihood]** 정확한 백분율 및 분류를 보는 막대. 그런 다음 특정 카테고리의 멤버(예: &quot;가능성이 없음&quot;에 있는 모든 구성원이 카테고리를 등록하도록 함)에 대해 조치를 취할 수 있으며, 특히 이들을 대상으로 지정하여 등록 번호를 잠재적으로 높이게 할 수 있습니다.
 
 ![](assets/understanding-goal-tracking-and-projected-registrations-8.png)
 
@@ -108,7 +108,7 @@ A: 우수 사례에는 다음이 포함됩니다.
 
 나. 프로그램을 만든 다음 스마트 캠페인이 &quot;X보다 큼&quot;을 사용하는 예측 필터를 사용하여 특정 사람(예: 1000명)을 발생시키고 캠페인을 실행합니다.
 
-ii. 24시간 후, [!UICONTROL 보고서] 탭에서는 현재 초대된 모든 사람의 값을 등록할 가능성을 기준으로 계산된 예상 등록을 볼 수 있습니다.
+ii. 24시간 후, [!UICONTROL Reports] 탭에서는 현재 초대된 모든 사람의 값을 등록할 가능성을 기준으로 계산된 예상 등록을 볼 수 있습니다.
 
 3. 예상 등록 수가 목표보다 적으면 더 많은 사람을 초대해야 합니다. 이 시점에서 이전 프로그램에서 적용된 임계값이 무엇인지 알려주는 통찰력을 볼 수 있습니다.
 

@@ -44,7 +44,7 @@ Marketo 이벤트를 ReadyTalk 모임에 원활하게 연결합니다. Marketo �
 
 ## Microsoft Dynamics On Premise {#microsoft-dynamics-on-premise}
 
-이제 Microsoft Dynamics 2011 온프레미스 및 인터넷 연결 배포를 지원합니다.
+이제 인터넷 연결 배포를 통해 Microsoft Dynamics 2011 온-프레미스를 지원합니다.
 
 ## 웹후크(보물상자) {#webhooks-treasure-chest}
 

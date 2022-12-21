@@ -67,7 +67,7 @@ When [A/B 테스트 추가](/help/marketo/product-docs/email-marketing/email-pro
    >
    >Marketo에서는 이 이메일 프로그램에서 이메일을 보낸 사람에 대한 트리거/필터만 허용하므로 &#39;이메일을 전송함&#39; 필터를 추가할 필요가 없습니다. 또한 전자 메일 관련 트리거/필터를 사용할 때는 &quot;is any&quot;를 연산자로 사용해야 합니다.
 
-1. 클릭 **닫기**.
+1. Click **Close**.
 
    ![](assets/image2014-9-12-15-3a53-3a36.png)
 

@@ -6,7 +6,7 @@ exl-id: 5c6a12ec-301b-4dec-975c-24ec759ebb37
 source-git-commit: 5f509a7aa27692e54bf129b94c657aff0f645f2b
 workflow-type: tm+mt
 source-wordcount: '343'
-ht-degree: 0%
+ht-degree: 1%
 
 ---
 
@@ -54,7 +54,7 @@ BrightTALK 채널을 Marketo 인스턴스에 연결하는 방법을 배웁니다
    >
    >드롭다운에서 BrightTALK를 선택하지 않아야 합니다. 현재 제거하고 있는 필드이며 이 필드를 선택하면 Marketo/BrightTALK 통합에 중요한 문제가 발생할 수 있습니다.
 
-1. 원하는 내용을 입력합니다. API 전용 사용자 드롭다운을 클릭하고 5단계에서 만든 BrightTALK API 사용자를 선택합니다. 클릭 **만들기**.
+1. 원하는 내용을 입력합니다. API 전용 사용자 드롭다운을 클릭하고 5단계에서 만든 BrightTALK API 사용자를 선택합니다. Click **Create**.
 
    ![](assets/connect-brighttalk-to-marketo-5.png)
 
@@ -62,7 +62,7 @@ BrightTALK 채널을 Marketo 인스턴스에 연결하는 방법을 배웁니다
 
    ![](assets/connect-brighttalk-to-marketo-6.png)
 
-1. 을(를) 복사하여 저장합니다 **클라이언트 ID** 및 **클라이언트 암호**. 클릭 **닫기**.
+1. 을(를) 복사하여 저장합니다 **클라이언트 ID** 및 **클라이언트 암호**. Click **Close**.
 
    ![](assets/connect-brighttalk-to-marketo-7.png)
 

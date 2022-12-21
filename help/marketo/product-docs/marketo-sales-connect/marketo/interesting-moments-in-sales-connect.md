@@ -16,7 +16,7 @@ ht-degree: 0%
 
 >[!AVAILABILITY]
 >
->이 기능은 [Marketo Sales Insight](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/features/tabs-in-the-msi-panel/interesting-moments/using-interesting-moments.md) 및 Marketo Sales Connect 고객만 사용할 수 있습니다.
+>이러한 기능은 [Marketo Sales Insight](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/features/tabs-in-the-msi-panel/interesting-moments/using-interesting-moments.md) 및 Marketo Sales Connect 고객만 사용할 수 있습니다.
 
 ## 흥미로운 순간은 무엇인가? {#what-is-an-interesting-moment}
 
@@ -28,19 +28,19 @@ ht-degree: 0%
 
 ## 흥미로운 순간을 어떻게 창조합니까? {#how-do-i-create-an-interesting-moment}
 
-1. [스마트 캠페인](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/understanding-smart-campaigns.md)을(를) 선택합니다. 바람직하게는 트리거되면 영업 팀이 관심이 있는 것입니다.
+1. 선택 [스마트 캠페인](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/understanding-smart-campaigns.md)타겟팅되면 귀사의 영업 팀이 관심을 가질 수 있을 것입니다.
 
    ![](assets/image2015-1-8-18-3a8-3a54.png)
 
-1. **관심 있는 순간** 흐름 단계 위로 드래그합니다.
+1. 을(를) 위로 드래그합니다. **흥미로운 순간** 흐름 단계.
 
    ![](assets/image2015-1-8-18-3a15-3a20.png)
 
-1. **입력**(전자 메일, 이정표 또는 웹)을 선택합니다.
+1. 선택 **유형** (이메일, 이정표 또는 웹).
 
    ![](assets/image2015-1-8-18-3a17-3a16.png)
 
-1. 이 작업이 중요한 이유를 설명하는 **설명** 필드에 영업 팀에 메시지를 작성합니다.
+1. 영업 팀에 메시지를 **설명** 이 작업이 중요한 이유를 설명하는 필드입니다.
 
    ![](assets/image2015-1-8-18-3a18-3a23.png)
 
@@ -50,7 +50,7 @@ ht-degree: 0%
 
 ## Marketo에서 흥미로운 순간이 어떻게 생겼나요?  {#what-does-an-interesting-moment-look-like-in-marketo}
 
-흥미로운 순간이 [리드의 활동 로그](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/managing-people-in-smart-lists/using-the-person-detail-page.md)에 표시됩니다.
+흥미로운 순간들은 [리드의 활동 로그](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/managing-people-in-smart-lists/using-the-person-detail-page.md).
 
 ![](assets/image2015-1-14-18-3a45-3a58.png)
 

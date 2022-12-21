@@ -5,7 +5,7 @@ exl-id: c7805642-07b6-4697-9efe-5c673ae9ca53
 source-git-commit: d261da2a2784ab322ef78fe22ef3d6b4321fc806
 workflow-type: tm+mt
 source-wordcount: '520'
-ht-degree: 1%
+ht-degree: 2%
 
 ---
 
@@ -206,7 +206,7 @@ Sales Connect에서 판매자가 영업 케이스에 리드를 추가하거나, 
  </tr>
  <tbody> 
  <tr> 
-   <td><strong>세부 사항</strong></td> 
+   <td><strong>세부 정보</strong></td> 
    <td>반송 오류 메시지 세부 정보입니다.</td> 
   </tr> 
   <tr> 
@@ -259,7 +259,7 @@ Sales Connect에서 판매자가 영업 케이스에 리드를 추가하거나, 
   </tr>
   <tr> 
    <td><strong>영업 캠페인 URL</strong></td> 
-   <td>Sales Campaign의 Sales Connect URL입니다.</td> 
+   <td>Sales Campaign에 대한 Sales Connect URL입니다.</td> 
   </tr>
   <tr> 
    <td><strong>영업 이메일 제목</strong></td> 

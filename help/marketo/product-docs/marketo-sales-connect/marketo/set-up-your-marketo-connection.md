@@ -1,7 +1,8 @@
 ---
 description: Marketo 연결 설정 - Marketo 문서 - 제품 설명서
 title: Marketo 연결 설정
-source-git-commit: 89d46ccadabec8c4dbc2db3cd9cde705c95b3978
+exl-id: 5b499c73-1319-4a58-ac49-61ae5558c05f
+source-git-commit: 3b2bd965e37779af3ee89f46e04f925a2f12f207
 workflow-type: tm+mt
 source-wordcount: '186'
 ht-degree: 0%
@@ -12,38 +13,38 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->MSC를 프로비저닝하면 Marketo은 자격 증명을 자동으로 Sales Connect에 보내고 인스턴스를 Marketo에 연결합니다. 이 단계는 Sales Connect 인스턴스가 프로비전된 후에 설정된 **연결이 표시되지 않는 경우에만**&#x200B;이 필요합니다. 연결이 설정된 경우 Marketo 관리 설정 페이지에 입력한 자격 증명이 표시됩니다.
+>MSC를 프로비저닝하면 Marketo은 자동으로 자격 증명을 Sales Connect에 보내고 인스턴스를 Marketo에 연결합니다. 이 단계는 필수입니다 **연결이 설정되어 있지 않은 경우에만** Sales Connect 인스턴스가 프로비저닝되면 연결이 설정되면 Marketo 관리 설정 페이지에 입력한 자격 증명이 표시됩니다.
 
-## Sales Connect를 Marketo {#acquiring-credentials-prior-to-connecting-sales-connect-with-marketo}에 연결하기 전에 자격 증명 얻기
+## Sales Connect와 Marketo을 연결하기 전에 자격 증명 가져오기 {#acquiring-credentials-prior-to-connecting-sales-connect-with-marketo}
 
-Marketo 내에서 자격 증명 세트를 받아야 합니다. 이러한 자격 증명은 나중에 Sales Connect 관리자가 Marketo을 Sales Connect와 연결하는 데 사용됩니다.
+Marketo 내에서 자격 증명 세트를 가져와야 합니다. 이러한 자격 증명은 나중에 Sales Connect 관리자가 Marketo과 Sales Connect를 연결하는 데 사용됩니다.
 
-1. Marketo에서 **관리**&#x200B;를 클릭합니다.
+1. Marketo에서 **관리**.
 
    ![](assets/manually-set-up-your-marketo-connection-1.png)
 
-1. 트리에서 **판매 연결**&#x200B;을 클릭합니다.
+1. 트리에서 **영업 연결**.
 
    ![](assets/manually-set-up-your-marketo-connection-2.png)
 
-1. 다음 Marketo 자격 증명을 선택하고 Sales Connect 관리자에게 전송합니다.Munchkin ID, 클라이언트 ID, 클라이언트 암호.
+1. 다음 Marketo 자격 증명을 선택하여 Sales Connect 관리자에게 보냅니다. Munchkin ID, 클라이언트 ID, 클라이언트 암호.
 
    ![](assets/manually-set-up-your-marketo-connection-3.jpg)
 
    >[!NOTE]
    >
-   >위 정보를 복사하여 붙여넣을 때 공백이 추가되지 않도록 하십시오.
+   >위의 정보를 복사하여 붙여넣을 때 공백이 추가되지 않도록 합니다.
 
-## Marketo에 판매 연결 {#connect-sales-connect-to-marketo}
+## Marketo에 영업 연결 {#connect-sales-connect-to-marketo}
 
-1. Sales Connect에서 톱니바퀴 아이콘을 클릭하고 **설정**&#x200B;을 선택합니다.
+1. Sales Connect에서 톱니바퀴 아이콘을 클릭하고 **설정**.
 
    ![](assets/manually-set-up-your-marketo-connection-4.png)
 
-1. 관리 설정에서 **Marketo**&#x200B;을 선택합니다.
+1. 관리자 설정에서 을 선택합니다. **Marketo**.
 
    ![](assets/manually-set-up-your-marketo-connection-5.png)
 
-1. Marketo 관리자가 제공하는 Marketo 자격 증명을 입력하고 **Connect**&#x200B;를 클릭합니다.
+1. Marketo 관리자가 제공하는 Marketo 자격 증명을 입력하고 을 클릭합니다 **Connect**.
 
    ![](assets/manually-set-up-your-marketo-connection-6.png)

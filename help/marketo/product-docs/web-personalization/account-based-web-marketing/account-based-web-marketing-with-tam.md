@@ -1,39 +1,38 @@
 ---
 unique-page-id: 11381689
-description: TAM을 통한 계정 기반 웹 마케팅 - Marketing To Docs - 제품 설명서
-title: TAM과의 계정 기반 웹 마케팅
-translation-type: tm+mt
-source-git-commit: ad69776dc366f3b1feba550158bea834bb755beb
+description: TAM을 통한 계정 기반 웹 마케팅 - Marketo 문서 - 제품 설명서
+title: TAM을 통한 계정 기반 웹 마케팅
+exl-id: fa81e979-123a-4f60-95d0-dde3918b2ef3
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '195'
 ht-degree: 0%
 
 ---
 
+# TAM을 통한 계정 기반 웹 마케팅 {#account-based-web-marketing-with-TAM}
 
-# 계정 기반 웹 마케팅(TAM {#account-based-web-marketing-with-TAM} 포함)
+Marketo에서 제공하는 기능 [Target 계정 관리](/help/marketo/product-docs/target-account-management/setup-tam/target-account-management-overview.md) (TAM) 애플리케이션
 
-Marketing에서는 [Target 계정 관리](/help/marketo/product-docs/target-account-management/setup-tam/target-account-management-overview.md)(TAM) 응용 프로그램을 제공합니다.
+Marketo 웹 개인화 및 Target 계정 관리(TAM)를 사용하는 경우:
 
-Marketing to Web Personalization 및 TAM(Target 계정 관리)을 사용하는 경우:
+* TAM은 계정 목록의 소스입니다
+* 계정 목록은 TAM에서 관리(생성, 편집 및 삭제)됩니다
+* 계정 목록은 세그먼테이션에서 사용하기 위해 웹 개인화에 동기화됩니다. 드롭다운에서 선택합니다
 
-* TAM은 계정 목록의 소스입니다.
-* 계정 목록은 TAM에서 관리(생성, 편집 및 삭제)됩니다.
-* 계정 목록은 세그멘테이션에서 사용하기 위해 웹 개인화에 동기화됩니다. 드롭다운에서 선택합니다.
+   * **참고**: 동기화 시간은 최대 5분
 
-   * **참고**:동기화 시간 최대 5분
+* 웹 개인화에서 [계정 목록에서 계정을 타깃팅하는 세그먼트](/help/marketo/product-docs/web-personalization/account-based-web-marketing/create-a-new-account-list.md) TAM에서 만들고, 이러한 계정에 대한 콘텐츠를 개인화합니다.
 
-* 웹 개인화에서는 TAM에서 만든 계정 목록](/help/marketo/product-docs/web-personalization/account-based-web-marketing/create-a-new-account-list.md)의 계정을 대상으로 하는 [세그먼트를 만들고 이러한 계정에 대한 컨텐츠를 개인화할 수 있습니다
-
-## 기존 ABWM 고객의 경우 {#for-existing-abwm-customers}
+## 기존 ABWM 고객 {#for-existing-abwm-customers}
 
 이미 ABWM을 사용하고 있는 경우:
 
-* TAM에서 ABWM _및_&#x200B;에 계정 목록을 만들 수 있습니다.
-* ABWM에서 TAM _및_&#x200B;에서 계정 목록을 만들고 편집하고 삭제할 수 있습니다.
-* ABWM 및 TAM 모두에서 계정 목록은 세그멘테이션에서 사용할 수 있도록 웹 개인화에 동기화됩니다
+* ABWM에서 계정 목록을 만들 수 있습니다 _및_ TAM
+* TAM에서 계정 목록을 생성, 편집 및 삭제할 수 있습니다 _및_ ABWM
+* 계정 목록(ABWM 및 TAM 모두에서)은 세그먼테이션에서 사용할 웹 개인화에 동기화됩니다
 
-   * **참고**:동기화 시간 최대 5분
+   * **참고**: 동기화 시간은 최대 5분
 
-* 웹 개인화에서는 _ABWM 및 TAM에서 만든 계정 목록에서 계정을 타깃팅하는 세그먼트를 만들고 이러한 계정에 대해 컨텐츠를 개인화할 수 있습니다_
-* 웹 개인화 계정 목록 페이지에서 CSV 파일을 업로드할 수 있습니다.
+* 웹 개인화에서는 _둘 다_ ABWM 및 TAM과 이러한 계정에 대한 콘텐츠 개인화
+* 웹 개인화 계정 목록 페이지에서 CSV 파일을 업로드할 수 있습니다

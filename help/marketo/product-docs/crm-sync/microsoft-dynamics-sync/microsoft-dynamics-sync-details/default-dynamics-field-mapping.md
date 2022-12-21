@@ -5,7 +5,7 @@ exl-id: 5f39bd0c-202e-4aa1-a0ac-49ac2554aa1e
 source-git-commit: d87809e12f153d025f8d013ea52e06c0b6530154
 workflow-type: tm+mt
 source-wordcount: '829'
-ht-degree: 12%
+ht-degree: 17%
 
 ---
 
@@ -29,7 +29,7 @@ ht-degree: 12%
     </tr>
     <tr>
       <td>Microsoft 생성 날짜</td>
-      <td>만든 날짜</td>
+      <td>만든 일자</td>
       <td>createdon</td>
     </tr>
     <tr>
@@ -59,13 +59,13 @@ ht-degree: 12%
     </tr>
     <tr>
       <td>직위</td>
-      <td>직함</td>
+      <td>직위</td>
       <td>jobtitle</td>
     </tr>
     <tr>
-      <td>전화</td>
+      <td>휴대폰</td>
       <td>비즈니스 전화</td>
-      <td>전화1</td>
+      <td>telephone1</td>
     </tr>
     <tr>
       <td>모바일</td>
@@ -104,7 +104,7 @@ ht-degree: 12%
     </tr>
     <tr>
       <td>개인 소스</td>
-      <td>리드 소스</td>
+      <td>잠재 고객 소스</td>
       <td>leadsourcecode</td>
     </tr>
     <tr>
@@ -165,7 +165,7 @@ ht-degree: 12%
     <tr>
       <td>Microsoft 홈 전화</td>
       <td>집 전화</td>
-      <td>전화 2</td>
+      <td>telephone2</td>
     </tr>
     <tr>
       <td>Microsoft 기본 연락 방법</td>
@@ -208,8 +208,8 @@ ht-degree: 12%
       <td>mkt_relativescore</td>
     </tr>
     <tr>
-      <td>우선순위</td>
-      <td>우선순위</td>
+      <td>우선 순위</td>
+      <td>우선 순위</td>
       <td>mkt_priority</td>
     </tr>
     <tr>
@@ -223,8 +223,8 @@ ht-degree: 12%
       <td>주제</td>
     </tr>
     <tr>
-      <td>연매출</td>
-      <td>연매출</td>
+      <td>연간 수익</td>
+      <td>연간 수익</td>
       <td>매출</td>
     </tr>
   </tbody>
@@ -269,7 +269,7 @@ ht-degree: 12%
     </tr>
     <tr>
       <td>Microsoft 생성 날짜</td>
-      <td>만든 날짜</td>
+      <td>만든 일자</td>
       <td>createdon</td>
     </tr>
     <tr>
@@ -303,9 +303,9 @@ ht-degree: 12%
       <td>jobtitle</td>
     </tr>
     <tr>
-      <td>전화</td>
+      <td>휴대폰</td>
       <td>비즈니스 전화</td>
-      <td>전화1</td>
+      <td>telephone1</td>
     </tr>
     <tr>
       <td>모바일</td>
@@ -375,7 +375,7 @@ ht-degree: 12%
     <tr>
       <td>Microsoft 홈 전화</td>
       <td>집 전화</td>
-      <td>전화 2</td>
+      <td>telephone2</td>
     </tr>
     <tr>
       <td>Microsoft 기본 연락 방법</td>
@@ -413,8 +413,8 @@ ht-degree: 12%
       <td>donotfax</td>
     </tr>
     <tr>
-      <td>우선순위</td>
-      <td>우선순위</td>
+      <td>우선 순위</td>
+      <td>우선 순위</td>
       <td>mkt_priority</td>
     </tr>
     <tr>
@@ -434,7 +434,7 @@ ht-degree: 12%
     </tr>
     <tr>
       <td>개인 점수</td>
-      <td>리드 점수</td>
+      <td>잠재 고객 점수</td>
       <td>mkt_leadscore</td>
     </tr>
     <tr>
@@ -524,7 +524,7 @@ ht-degree: 12%
     <tr>
       <td>메인 전화</td>
       <td>메인 전화</td>
-      <td>전화1</td>
+      <td>telephone1</td>
     </tr>
     <tr>
       <td>비즈니스 유형</td>
@@ -542,8 +542,8 @@ ht-degree: 12%
       <td>statecode</td>
     </tr>
     <tr>
-      <td>연매출</td>
-      <td>연매출</td>
+      <td>연간 수익</td>
+      <td>연간 수익</td>
       <td>매출</td>
     </tr>
     <tr>
@@ -562,8 +562,8 @@ ht-degree: 12%
       <td>sic</td>
     </tr>
     <tr>
-      <td>웹사이트</td>
-      <td>웹사이트</td>
+      <td>웹 사이트</td>
+      <td>웹 사이트</td>
       <td>웹 사이트</td>
     </tr>
     <tr>

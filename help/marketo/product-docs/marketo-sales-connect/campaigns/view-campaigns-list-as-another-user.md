@@ -1,29 +1,28 @@
 ---
 unique-page-id: 18317367
-description: 캠페인 목록을 다른 사용자로 보기 - 마케팅 문서 - 제품 설명서
+description: 다른 사용자로 캠페인 목록 보기 - Marketo 문서 - 제품 설명서
 title: 다른 사용자로 캠페인 목록 보기
-translation-type: tm+mt
-source-git-commit: 1dd80b7de801df78ac7dde39002455063f9979b7
+exl-id: 4efb565d-2760-4faa-93a3-c2e49b8b8ff3
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '81'
 ht-degree: 0%
 
 ---
 
-
-# 다른 사용자 {#view-campaigns-list-as-another-user}로 캠페인 목록 보기
+# 다른 사용자로 캠페인 목록 보기 {#view-campaigns-list-as-another-user}
 
 관리자는 캠페인을 임의의 사용자로 볼 수 있습니다.
 
 >[!NOTE]
 >
->**관리자 권한 필요**
+>**관리 권한 필요**
 
-1. 웹 응용 프로그램에서 **캠페인**&#x200B;을 클릭합니다.
+1. 웹 응용 프로그램에서 **캠페인**.
 
    ![](assets/one-5.png)
 
-1. **다른 이름으로 보기** 드롭다운을 클릭하고 원하는 사용자를 선택합니다.
+1. 을(를) 클릭합니다. **다음으로 보기** 드롭다운을 클릭하고 원하는 사용자를 선택합니다.
 
    ![](assets/two-4.png)
 
@@ -33,4 +32,4 @@ ht-degree: 0%
 
    >[!NOTE]
    >
-   >다른 이름으로 보기와 함께 필터 또는 검색 기능을 사용하여 가장 관련성이 높은 항목을 볼 수도 있습니다.
+   >필터 또는 검색 기능과 함께 다른 이름 보기 를 사용하여 사용자와 가장 관련이 있는 항목을 볼 수도 있습니다.

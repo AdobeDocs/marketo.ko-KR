@@ -5,8 +5,8 @@ title: facebook에서 LaunchPoint 서비스로 Workplace 추가
 exl-id: afcc1eca-8927-4a25-af9b-c18cef24b0ae
 source-git-commit: 813bab6169a121e90919f9a02505ccde5167cda4
 workflow-type: tm+mt
-source-wordcount: '0'
-ht-degree: 0%
+source-wordcount: '286'
+ht-degree: 1%
 
 ---
 
@@ -37,11 +37,11 @@ Workplace 통합에 포함된 두 가지 알림 유형은 다음과 같습니다
 
    ![](assets/add-workplace-by-facebook-as-a-launchpoint-service-3.png)
 
-1. Workplace 통합에 사용할 표시 이름을 입력합니다. 에서 **서비스** 드롭다운에서 을 선택합니다. **Workplace by Facebook**. 클릭 **만들기**.
+1. Workplace 통합에 사용할 표시 이름을 입력합니다. 에서 **서비스** 드롭다운에서 을 선택합니다. **Workplace by Facebook**. Click **Create**.
 
    ![](assets/add-workplace-by-facebook-as-a-launchpoint-service-4.png)
 
-1. 시스템 알림과 흥미로운 순간을 수신하려면 옵션을 있는 그대로 둡니다. 클릭 **만들기**.
+1. 시스템 알림과 흥미로운 순간을 수신하려면 옵션을 있는 그대로 둡니다. Click **Create**.
 
    ![](assets/add-workplace-by-facebook-as-a-launchpoint-service-5.png)
 

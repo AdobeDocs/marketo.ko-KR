@@ -1,21 +1,20 @@
 ---
 unique-page-id: 7512654
-description: Salesforce1에서 리드 피드 보기 - Marketing To Docs - 제품 설명서
-title: Salesforce1에서 리드 피드 보기
-translation-type: tm+mt
-source-git-commit: 972cf9769ac751d9abfd5665975703dcd07930f0
+description: Salesforce1에서 리드 피드 보기 - Marketo 문서 - 제품 설명서
+title: Salesforce에서 리드 피드 보기1
+exl-id: c6811752-0e60-4b38-88bb-7b1061ee6f7b
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '76'
 ht-degree: 0%
 
 ---
 
+# Salesforce에서 리드 피드 보기1 {#seeing-lead-feed-in-salesforce}
 
-# Salesforce1에서 리드 피드 보기 {#seeing-lead-feed-in-salesforce}
+리드 피드는 리드에 의해 수행되는 흥미로운 사건들의 최신 목록입니다.
 
-리드 피드는 리드가 수행하는 흥미로운 이벤트의 최신 목록입니다.
-
-1. Salesforce1의 **Marketing** 영역으로 이동합니다.
+1. 로 이동합니다. **Marketo** Salesforce1의 영역.
 
    ![](assets/image2015-4-20-15-3a14-3a15.png)
 
@@ -23,17 +22,17 @@ ht-degree: 0%
 
    ![](assets/image2015-4-23-17-3a7-3a16.png)
 
-1. **리드 피드**&#x200B;를 탭합니다.
+1. 탭 **리드 피드**.
 
    ![](assets/image2015-4-23-17-3a19-3a16.png)
 
-   완벽해! 이제 리드 피드로 이동하는 방법을 알 수 있습니다!
+   완벽해! 이제 리드 피드에 도달하는 방법을 알 수 있습니다.
 
    ![](assets/image2015-4-23-17-3a20-3a12.png)
 
 >[!MORELIKETHIS]
 >
 >* [Salesforce의 흥미로운 순간1](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/msi-for-mobile/interesting-moments-in-salesforce1.md)
->* [Salesforce에서 Marketing To Email and Campaign 및 Watchlist 동작 보내기1](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/msi-for-mobile/send-marketo-email-and-campaign-and-watchlist-actions-in-salesforce1.md)
->* [Salesforce에서 최고의 솔루션1](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/msi-for-mobile/best-bets-in-salesforce1.md)
+>* [Salesforce1에서 Marketo 이메일 및 캠페인 및 Watchlist 작업 보내기](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/msi-for-mobile/send-marketo-email-and-campaign-and-watchlist-actions-in-salesforce1.md)
+>* [Salesforce에서 최고의 선택1](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/msi-for-mobile/best-bets-in-salesforce1.md)
 

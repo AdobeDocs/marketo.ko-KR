@@ -5,7 +5,7 @@ exl-id: fdefe53b-eb99-48ce-a04e-3666be33fea4
 source-git-commit: 9f3b91e7b0626b2a229f4a98fb734e926a141ec0
 workflow-type: tm+mt
 source-wordcount: '363'
-ht-degree: 3%
+ht-degree: 5%
 
 ---
 
@@ -58,7 +58,7 @@ Salesforce 관리자는 Salesforce에 사용자 지정 활동 필드를 수동�
   <td>MSE_Call_Local_Presence_ID</td>
   <td>MSE_Call_Local_Presence_ID__c</td>
   <td>텍스트</td>
-  <td>255년</td>
+  <td>255</td>
  </tr>
  <tr>
   <td>Marketo 영업 호출 기록 URL</td>
@@ -72,14 +72,14 @@ Salesforce 관리자는 Salesforce에 사용자 지정 활동 필드를 수동�
   <td>MSE_Campaign</td>
   <td>MSE_Campaign__c</td>
   <td>텍스트</td>
-  <td>255년</td>
+  <td>255</td>
  </tr>
  <tr>
   <td>Marketo 영업 캠페인 현재 단계</td>
   <td>MSE_Current_Campaign_Step</td>
   <td>MSE_Current_Campaign_Step__c</td>
   <td>텍스트</td>
-  <td>255년</td>
+  <td>255</td>
  </tr>
  <tr>
   <td>Marketo 영업 캠페인 URL</td>
@@ -121,7 +121,7 @@ Salesforce 관리자는 Salesforce에 사용자 지정 활동 필드를 수동�
   <td>MSE_Template</td>
   <td>MSE_Template__c</td>
   <td>텍스트</td>
-  <td>255년</td>
+  <td>255</td>
  </tr>
  <tr>
   <td>Marketo 영업 이메일 템플릿 URL</td>

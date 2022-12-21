@@ -1,31 +1,30 @@
 ---
 unique-page-id: 10097867
-description: 웹 개인화 활동에 대한 스마트 목록 정의 - 마케팅 문서 - 제품 설명서
+description: 웹 개인화 활동에 대한 스마트 목록 정의 - Marketo 문서 - 제품 설명서
 title: 웹 개인화 활동에 대한 스마트 목록 정의
-translation-type: tm+mt
-source-git-commit: b33f5ed707a1377daad51191cc6dd9f093138258
+exl-id: 9987f922-f50c-47b3-aef6-230326b094fc
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '299'
 ht-degree: 0%
 
 ---
 
-
 # 웹 개인화 활동에 대한 스마트 목록 정의 {#define-a-smart-list-for-web-personalization-activities}
 
-스마트 캠페인에서 스마트 목록을 정의할 때 필터 및 트리거에서 웹 개인화 활동을 사용할 수 있습니다. 여기서는 웹 개인화 호출을 클릭한 모든 사람(캠페인)을 캡처하려고 합니다.
+스마트 캠페인에서 스마트 목록을 정의할 때 필터 및 트리거에서 웹 개인화 활동을 사용할 수 있습니다. 여기에서는 웹 개인화 호출을 클릭한 사람(캠페인)을 캡처하려고 합니다.
 
-트리거를 사용하여 이메일 또는 경고를 전송하거나 웹 개인화 호출을 클릭하고 조치에 참여한 방문자를 기준으로 값 또는 점수를 변경할 수 있습니다. 웹 개인화 클릭유도에서 클릭하는 리드를 필터링하고 확인할 수도 있습니다.
+트리거를 사용하여 이메일 또는 경고를 전송하거나, 웹 개인화 호출에 참여하여 작업을 수행한 방문자를 기반으로 값 또는 점수를 변경합니다. 또한 웹 개인화 호출에서 클릭된 리드를 필터링하고 작업에 볼 수 있습니다.
 
-1. 스마트 캠페인에서 **스마트 목록** 탭을 클릭합니다.
+1. 스마트 캠페인에서 **Smart List** 탭.
 
    ![](assets/image2016-2-9-10-3a49-3a18.png)
 
    >[!NOTE]
    >
-   >스마트 리스트는 놀라운 일을 할 수 있습니다. [스마트 목록 깊이 검색](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/understanding-smart-campaigns.md)에서 자세한 내용을 알아보십시오.
+   >스마트 리스트는 놀라운 일을 할 수 있습니다. 자세한 내용은 [Smart List 심층 분석](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/understanding-smart-campaigns.md).
 
-1. 트리거를 검색한 다음 트리거를 캔버스로 드래그하여 놓습니다.
+1. 트리거를 검색한 다음 트리거를 캔버스에 드래그하여 놓습니다.
 
    ![](assets/image2016-6-8-9-3a24-3a24.png)
 
@@ -39,7 +38,7 @@ ht-degree: 0%
 
    >[!CAUTION]
    >
-   >빨간색 물결선은 오류를 나타냅니다. 수정되지 않으면 캠페인이 유효하지 않게 되고 실행되지 않습니다.
+   >빨간색 광선이 표시되면 오류가 표시됩니다. 수정하지 않으면 캠페인이 유효하지 않게 되고 실행되지 않습니다.
 
 1. 트리거를 정의합니다.
 
@@ -51,13 +50,13 @@ ht-degree: 0%
 
    >[!TIP]
    >
-   >트리거와 필터가 모두 있는 스마트 캠페인에서 트리거가 맨 위로 이동합니다. 트리거되면 필터 기준을 만족하는 사람만 흐름을 따라 갑니다.
+   >트리거와 필터가 모두 있는 스마트 캠페인에서 트리거가 맨 위에 표시됩니다. 트리거되면 필터 기준을 충족하는 사용자만 흐름을 통과합니다.
 
    >[!NOTE]
    >
-   >트리거가 여러 개인 경우 트리거가 ANY 중 하나가 활성화되면 해당 흐름을 탐색합니다.
+   >여러 트리거를 사용할 때 트리거 중 하나가 활성화되면 한 사람이 플로우에 도달합니다.
 
-   모든 사람 세트에서 동시에 캠페인을 실행하려면 [스마트 캠페인에 대한 스마트 목록 정의 방법을 알아봅니다. | 일괄 처리](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/creating-a-smart-campaign/define-smart-list-for-smart-campaign-batch.md).
+   한 세트의 사용자에 대해 캠페인을 동시에 실행하려면 다음을 학습합니다 [스마트 캠페인에 대한 스마트 목록 정의 | 일괄 처리](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/creating-a-smart-campaign/define-smart-list-for-smart-campaign-batch.md).
 
    >[!MORELIKETHIS]
    >

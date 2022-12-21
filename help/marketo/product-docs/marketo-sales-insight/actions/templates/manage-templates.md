@@ -45,7 +45,7 @@ ht-degree: 0%
   <td>템플릿을 검토하고 편집하고, 기준을 설정하여 템플릿을 권장 템플릿으로 만들고, 메모를 추가합니다</td>
  </tr>
  <tr>
-  <td><strong>Analytics</strong></td>
+  <td><strong>분석</strong></td>
   <td>템플릿에 대한 참여 분석 을 검토합니다. 필터링된 검색을 수행합니다.</td>
  </tr>
  <tr>

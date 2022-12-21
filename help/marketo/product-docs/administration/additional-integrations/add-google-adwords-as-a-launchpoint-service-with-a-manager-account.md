@@ -6,7 +6,7 @@ exl-id: aac106f4-6615-49d5-a561-0dd965c7b0ff
 source-git-commit: 457b4aadac47b0a8614c3e6025d2e1ae287b5ecc
 workflow-type: tm+mt
 source-wordcount: '368'
-ht-degree: 0%
+ht-degree: 1%
 
 ---
 
@@ -87,7 +87,7 @@ Google Adwords 계정이 여러 개 있는 경우 [Google AdWords Manager 계정
 
    ![](assets/add-google-adwords-as-a-launchpoint-service-with-a-manager-11.png)
 
-1. 업데이트하지 않으려는 계정의 선택을 취소합니다. 클릭 **만들기**.
+1. 업데이트하지 않으려는 계정의 선택을 취소합니다. Click **Create**.
 
    ![](assets/add-google-adwords-as-a-launchpoint-service-with-a-manager-12.png)
 

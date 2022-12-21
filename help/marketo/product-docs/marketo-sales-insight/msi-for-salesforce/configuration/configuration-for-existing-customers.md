@@ -22,31 +22,31 @@ ht-degree: 0%
 
 1. 브라우저에서 새 탭을 열어 Marketo 계정에서 Marketo 영업 인사이트 자격 증명을 가져옵니다.
 
-1. **Admin** 영역으로 이동합니다.
+1. 로 이동합니다. **관리** 영역.
 
    ![](assets/configuration-for-existing-customers-1.png)
 
-1. **Sales Insight**&#x200B;를 클릭합니다.
+1. 클릭 **Sales Insight**.
 
    ![](assets/configuration-for-existing-customers-2.png)
 
-1. **보기**&#x200B;를 클릭하여 Rest API 자격 증명을 채웁니다.
+1. 클릭 **보기** Rest API 자격 증명을 채우려면 다음을 수행하십시오.
 
    ![](assets/configuration-for-existing-customers-3.png)
 
-1. 확인 팝업이 표시됩니다. **확인**&#x200B;을 클릭합니다.
+1. 확인 팝업이 표시됩니다. 클릭 **확인**.
 
 ## Salesforce에서 Sales Insight 구성 {#configure-sales-insight-in-salesforce}
 
-1. Salesforce에서 **설정**&#x200B;을 클릭합니다.
+1. Salesforce에서 **설정**.
 
    ![](assets/configuration-for-existing-customers-4.png)
 
-1. **원격 사이트 설정**&#x200B;을 검색하고 선택합니다.
+1. 을(를) 검색하고 선택합니다 **원격 사이트 설정**.
 
    ![](assets/configuration-for-existing-customers-5.png)
 
-1. **새 원격 사이트**&#x200B;를 클릭합니다.
+1. 클릭 **새 원격 사이트**.
 
    ![](assets/configuration-for-existing-customers-6.png)
 
@@ -54,7 +54,7 @@ ht-degree: 0%
 
    ![](assets/configuration-for-existing-customers-7.png)
 
-1. **저장**&#x200B;을 클릭합니다.
+1. 클릭 **저장**.
 
    ![](assets/configuration-for-existing-customers-8.png)
 

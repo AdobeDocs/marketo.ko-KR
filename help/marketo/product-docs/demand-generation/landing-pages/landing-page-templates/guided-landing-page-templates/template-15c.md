@@ -5,14 +5,14 @@ title: 템플릿 15C
 exl-id: 63850bd7-1e63-4fcb-b420-d4528c17a914
 source-git-commit: bfcd66388b0d77cf3f1743b0778026a1e5a1ec61
 workflow-type: tm+mt
-source-wordcount: '0'
+source-wordcount: '57'
 ht-degree: 0%
 
 ---
 
 # 템플릿 15C {#template-15c}
 
-마우스 오른쪽 단추를 클릭하여 [템플릿 15C](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-15c.html) 다운로드
+마우스 오른쪽 단추를 클릭하여 [템플릿 15C 다운로드](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-15c.html)
 
 ![](assets/image2015-8-13-13-3a40-3a23.png)
 

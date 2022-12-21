@@ -4,8 +4,8 @@ title: 호출 및 호출 키 메시지 동기화
 exl-id: a8df5b77-e594-4e06-8194-1758a3582cda
 source-git-commit: bb020cba0bb0cb65761e15cba05147b6e9fffe50
 workflow-type: tm+mt
-source-wordcount: '0'
-ht-degree: 0%
+source-wordcount: '503'
+ht-degree: 2%
 
 ---
 
@@ -46,7 +46,7 @@ Vec CRM의 호출 및 호출 키 메시지 개체는 기본적으로 Marketo Eng
   <thead>
     <tr>
       <th>
-        개체
+        오브젝트
       </th>
       <th>
         필드 레이블
@@ -121,7 +121,7 @@ Vec CRM의 호출 및 호출 키 메시지 개체는 기본적으로 Marketo Eng
     </tr>
     <tr>
       <td>호출 키 메시지</td>
-      <td>카테고리</td>
+      <td>범주</td>
       <td>메시지의 메시지 카테고리를 기록합니다. 주로 보고에 사용됩니다.</td>
       <td>Category_vod__c</td>
       <td>선택 목록</td>

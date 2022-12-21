@@ -1,33 +1,32 @@
 ---
 unique-page-id: 14352406
-description: 하위 팀 만들기 - 마케팅 문서 - 제품 설명서
+description: 하위 팀 만들기 - Marketo 문서 - 제품 설명서
 title: 하위 팀 만들기
-translation-type: tm+mt
-source-git-commit: 0f0217a88929661798015b51a26259a973f9f6ea
+exl-id: 47baa5ac-4598-4277-b656-e99cd6a3e17f
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '102'
 ht-degree: 0%
 
 ---
 
-
 # 하위 팀 만들기 {#create-a-sub-team}
 
 ## 하위 팀 만들기 {#create-a-sub-team-1}
 
-1. 톱니바퀴 아이콘을 클릭하고 **설정**&#x200B;을 선택합니다.
+1. 톱니바퀴 아이콘을 클릭하고 을 선택합니다 **설정**.
 
    ![](assets/one-1.png)
 
-1. 관리 설정에서 **팀 관리**&#x200B;를 선택합니다.
+1. 관리자 설정에서 을 선택합니다. **팀 관리**.
 
    ![](assets/two-1.png)
 
-1. 모든 팀 옆에서 **+**&#x200B;을 클릭합니다.
+1. 모든 팀 옆의 **+**.
 
    ![](assets/three-1.png)
 
-1. 팀 이름(및 선택적 설명)을 입력하고 **만들기**&#x200B;를 클릭합니다.
+1. 팀 이름(및 선택적 설명)을 입력하고 **만들기**.
 
    ![](assets/four-1.png)
 
@@ -35,9 +34,9 @@ ht-degree: 0%
    >
    >이제 해당 팀과 템플릿, 캠페인 및 그룹을 공유할 수 있습니다.
 
-## 하위 팀 {#add-people-to-your-sub-team}에 인물 추가
+## 하위 팀에 사람 추가 {#add-people-to-your-sub-team}
 
-1. 팀 관리에서 **모든 사람** 그룹을 선택합니다.
+1. 팀 관리에서 **모든 사용자** 그룹에 속해 있어야 합니다.
 
    ![](assets/five-1.png)
 
@@ -45,7 +44,7 @@ ht-degree: 0%
 
    ![](assets/six.png)
 
-1. **팀에 선택 항목 추가**&#x200B;를 클릭합니다.
+1. 클릭 **팀에 선택 항목 추가**.
 
    ![](assets/seven.png)
 
@@ -53,6 +52,6 @@ ht-degree: 0%
 
    ![](assets/eight.png)
 
-1. 완료되면 **팀에 추가**&#x200B;를 클릭합니다.
+1. 클릭 **팀에 추가** 완료 시.
 
    ![](assets/nine.png)

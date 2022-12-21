@@ -18,7 +18,7 @@ ht-degree: 0%
 
 **모바일 친화적 랜딩 페이지**
 
-이제 랜딩 페이지 편집기 내에서 [랜딩 페이지용 모바일 보기를 작성할 수 있습니다](/help/marketo/product-docs/demand-generation/landing-pages/free-form-landing-pages/add-a-mobile-view-for-your-free-form-landing-page.md). 장치에 상관없이 효율적으로 메시지를 전달하고 이동 중에 쉽게 사용할 수 있도록 콘텐츠를 맞춤화하여 참여를 높일 수 있습니다. 이 기능은 릴리스 후 한 주 동안 점진적으로 롤아웃됩니다.
+이제 다음을 수행할 수 있습니다 [랜딩 페이지를 위한 모바일 보기 작성](/help/marketo/product-docs/demand-generation/landing-pages/free-form-landing-pages/add-a-mobile-view-for-your-free-form-landing-page.md) 랜딩 페이지 편집기 내에서 를 삭제할 수 있습니다. 장치에 상관없이 효율적으로 메시지를 전달하고 이동 중에 쉽게 사용할 수 있도록 콘텐츠를 맞춤화하여 참여를 높일 수 있습니다. 이 기능은 릴리스 후 한 주 동안 점진적으로 롤아웃됩니다.
 
 [-랜딩 페이지 연습 비디오-](https://youtu.be/aPQHlG2X6c0)
 
@@ -30,7 +30,7 @@ Lead 및 Activity ReST API에 대한 세 가지 새로운 호출:
 * 프로그램 ID별 리드 가져오기
 * 삭제된 리드 가져오기
 
-또한 더 빠른 API 호출을 위해 리드 변경을 비동기식으로 작성하는 Sync Lead에 대한 새로운 옵션이 있습니다. 전체 세부 사항은 [developers.marketo.com](https://developers.marketo.com)에서 릴리스 후에 사용할 수 있습니다.
+또한 더 빠른 API 호출을 위해 리드 변경을 비동기식으로 작성하는 Sync Lead에 대한 새로운 옵션이 있습니다. 자세한 내용은 의 릴리스 후에 제공됩니다. [developers.marketo.com](https://developers.marketo.com)
 
 **이메일 스크립팅 사용자 지정 개체 지원**
 
@@ -40,7 +40,7 @@ Lead 및 Activity ReST API에 대한 세 가지 새로운 호출:
 
 **Google 및 Facebook을 위한 개인화된 리마케팅**
 
-리마케팅은 웹 사이트를 방문한 사람에게 광고를 보여줍니다. 이제 실시간 개인화의 데이터를 사용하여 [Google](/help/marketo/product-docs/web-personalization/website-retargeting/personalized-remarketing-in-google.md) 및 [Facebook](/help/marketo/product-docs/web-personalization/website-retargeting/personalized-remarketing-in-facebook.md)에서 리마케팅 캠페인을 개인화할 수 있습니다. 다양한 업계, 명명 계정 목록, 회사 규모 또는 알려진 리드의 모든 데이터를 대상으로 리마케팅합니다.
+리마케팅은 웹 사이트를 방문한 사람에게 광고를 보여줍니다. 이제 리마케팅 캠페인을 개인화할 수 있습니다 [Google](/help/marketo/product-docs/web-personalization/website-retargeting/personalized-remarketing-in-google.md) 및 [Facebook](/help/marketo/product-docs/web-personalization/website-retargeting/personalized-remarketing-in-facebook.md) 실시간 개인화의 데이터 사용. 다양한 업계, 명명 계정 목록, 회사 규모 또는 알려진 리드의 모든 데이터를 대상으로 리마케팅합니다.
 
 [명명된 계정 목록 모듈](/help/marketo/product-docs/web-personalization/account-based-web-marketing/create-a-new-account-list.md)
 
@@ -61,6 +61,6 @@ Lead 및 Activity ReST API에 대한 세 가지 새로운 호출:
 1. CDN이 없는 비동기 태그
 1. CDN이 없는 동기 태그
 
-최상의 성능을 위해 `<head>` 뒤의 웹 페이지의 헤더 맨 위에 태그를 배치하는 것이 좋습니다. 모든 태그는 [RTP API](https://developers.marketo.com/documentation/websites/rtp-js-api/)를 사용할 수 있습니다. RTP 태그를 배포하는 방법에 대한 자세한 내용은 여기 [여기](/help/marketo/product-docs/web-personalization/rtp-tag-implementation/deploy-the-rtp-javascript.md)를 참조하십시오.
+최상의 성능을 위해 다음 웹 페이지의 헤더 맨 위에 태그를 배치하는 것이 좋습니다 `<head>`. 모든 태그는 [RTP API](https://developers.marketo.com/documentation/websites/rtp-js-api/). RTP 태그를 배포하는 방법에 대한 자세한 내용은 [여기](/help/marketo/product-docs/web-personalization/rtp-tag-implementation/deploy-the-rtp-javascript.md).
 
 ![](assets/image2015-1-15-13-3a30-3a45.png)

@@ -1,17 +1,16 @@
 ---
 unique-page-id: 2359512
-description: 스마트 목록에서 세그먼트 필터 사용 - 마케팅 문서 - 제품 설명서
+description: 스마트 목록에서 세그먼트 필터 사용 - Marketo 문서 - 제품 설명서
 title: 스마트 목록에서 세그먼트 필터 사용
-translation-type: tm+mt
-source-git-commit: 06e0f5489e6375a97e2fe77834bf45fa41f23ea6
+exl-id: 8a0f8631-9657-4209-af64-4e967c27b137
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '66'
 ht-degree: 0%
 
 ---
 
-
-# 스마트 목록 {#use-segment-filters-in-a-smart-list}에서 세그먼트 필터 사용
+# 스마트 목록에서 세그먼트 필터 사용 {#use-segment-filters-in-a-smart-list}
 
 >[!PREREQUISITES]
 >
@@ -21,8 +20,8 @@ ht-degree: 0%
 
 세그먼트 필터를 사용하여 스마트 목록 성능을 최적화합니다.
 
-1. 만든 스마트 목록에서 **세그먼트** 단어를 검색하고 필터를 드래그하여 놓습니다.
+1. 만든 스마트 목록에서 해당 단어를 검색합니다 **세그먼트**&#x200B;을 눌러 필터를 드래그합니다.
 
    ![](assets/image2014-9-16-10-3a30-3a47.png)
 
-좋아요! 이제 세그멘테이션 필터를 찾는 방법을 알 수 있습니다.
+좋아요! 이제 세그먼테이션 필터를 찾는 방법을 알 수 있습니다.

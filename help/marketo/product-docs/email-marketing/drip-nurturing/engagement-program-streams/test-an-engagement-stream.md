@@ -1,21 +1,20 @@
 ---
 unique-page-id: 2359839
-description: 참여 스트림 테스트 - 마케팅 문서 - 제품 설명서
+description: 참여 스트림 테스트 - Marketo 문서 - 제품 설명서
 title: 참여 스트림 테스트
-translation-type: tm+mt
-source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
+exl-id: 144d805c-7805-4b35-b25c-4a18a7c3ab87
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '159'
 ht-degree: 0%
 
 ---
 
-
 # 참여 스트림 테스트 {#test-an-engagement-stream}
 
-모든 콘텐츠를 스트림에 추가하면 한 번에 하나씩 테스트할 수 있습니다.
+모든 콘텐츠를 스트림에 추가하면 한 번에 한 조각씩 테스트할 수 있습니다.
 
-1. **마케팅 활동**&#x200B;으로 이동합니다.
+1. 이동 **마케팅 활동**.
 
    ![](assets/one.png)
 
@@ -23,26 +22,26 @@ ht-degree: 0%
 
    ![](assets/two.png)
 
-1. **프로그램 작업**&#x200B;을 클릭하고 **테스트 스트림**&#x200B;을 선택합니다.
+1. 클릭 **프로그램 작업** 을(를) 선택합니다. **테스트 스트림**.
 
    ![](assets/three.png)
 
-1. **테스트 대상자** 드롭다운에서 사용자를 선택합니다. 컨텐츠는 실제로 사라진다는 것을 기억하십시오. 따라서 선택할 때 주의하십시오.
+1. 에서 본인의 사람을 선택합니다 **테스트 개인** 드롭다운. 컨텐츠는 실제로 밖으로 나가므로 선택할 때 주의하십시오.
 
    ![](assets/four-rubix.png)
 
    >[!CAUTION]
    >
-   >테스트 담당자가 고유하며 데이터베이스에 중복되지 않아야 합니다.
+   >테스트 개인이 고유하며 데이터베이스에 중복이 없는지 확인합니다.
 
    >[!TIP]
    >
-   >원하는 테스트 사용자가 없으면 **사람 만들기** 옵션을 사용하여 즉시 하나를 만듭니다.
+   >찾고 있는 테스트 사람이 없는 경우 **개인 만들기** 즉시 생성할 옵션.
 
-   [초기 스트림]을 클릭하고 테스트할 스트림을 선택하고 [캐스트 실행]을 클릭합니다.
+   초기 스트림 을 클릭하고 테스트할 스트림을 선택하고 캐스트 실행을 클릭합니다.
    ![](assets/five-rubiks.png)
 
-1. 사용자가 이전에 설정한 [전환 규칙](/help/marketo/product-docs/email-marketing/drip-nurturing/engagement-program-streams/transition-people-between-engagement-streams.md)을 살펴본 후 새로 고침 아이콘을 클릭합니다.
+1. 사람이 [전환 규칙](/help/marketo/product-docs/email-marketing/drip-nurturing/engagement-program-streams/transition-people-between-engagement-streams.md) 이전에 설정한 경우 새로 고침 아이콘을 클릭합니다.
 
    ![](assets/six-rubiks.png)
 
@@ -54,4 +53,4 @@ ht-degree: 0%
 
    >[!NOTE]
    >
-   >**Run Cast를 다시 클릭하십시오**.
+   >클릭하지 않으면 다른 컨텐츠는 전송되지 않습니다 **다시 캐스트 실행**.

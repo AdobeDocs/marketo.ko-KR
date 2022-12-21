@@ -5,14 +5,14 @@ title: 템플릿 16B
 exl-id: 99bdd484-e2c2-412d-b309-1681d27025e1
 source-git-commit: bfcd66388b0d77cf3f1743b0778026a1e5a1ec61
 workflow-type: tm+mt
-source-wordcount: '0'
+source-wordcount: '57'
 ht-degree: 0%
 
 ---
 
 # 템플릿 16B {#template-16b}
 
-마우스 오른쪽 단추를 클릭하여 [템플릿 16B](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-16b.html) 다운로드
+마우스 오른쪽 단추를 클릭하여 [템플릿 16B 다운로드](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-16b.html)
 
 ![](assets/image2015-8-14-11-3a2-3a51.png)
 

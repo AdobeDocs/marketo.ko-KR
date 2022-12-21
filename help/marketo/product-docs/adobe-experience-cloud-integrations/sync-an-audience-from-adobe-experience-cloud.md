@@ -4,7 +4,7 @@ title: Adobe Experience Cloud에서 대상 동기화
 exl-id: 2288ee01-2c2e-4f33-b5c9-da3a431c1816
 source-git-commit: 492f21f090dc2478271172cf7db470e16f202366
 workflow-type: tm+mt
-source-wordcount: '0'
+source-wordcount: '276'
 ht-degree: 0%
 
 ---

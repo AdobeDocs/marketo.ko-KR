@@ -5,14 +5,14 @@ title: 템플릿 6C
 exl-id: f8111083-24f5-42c9-82b5-290360d72e5a
 source-git-commit: bfcd66388b0d77cf3f1743b0778026a1e5a1ec61
 workflow-type: tm+mt
-source-wordcount: '0'
+source-wordcount: '61'
 ht-degree: 0%
 
 ---
 
 # 템플릿 6C {#template-6c}
 
-마우스 오른쪽 단추를 클릭하여 [템플릿 6C](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-6c.html) 다운로드
+마우스 오른쪽 단추를 클릭하여 [템플릿 6C 다운로드](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-6c.html)
 
 ![](assets/image2015-7-29-11-3a52-3a22.png)
 

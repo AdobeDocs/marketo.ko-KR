@@ -1,7 +1,8 @@
 ---
 description: 사용자 지정 활동 메타데이터 내보내기 - Marketo 문서 - 제품 설명서
 title: 사용자 지정 활동 메타데이터 내보내기
-source-git-commit: 9f8d6895e88250afc2799b2fb7fc73442018362f
+exl-id: 7dba5cf0-6394-4bb7-b9e1-5db156e6d888
+source-git-commit: 3b2bd965e37779af3ee89f46e04f925a2f12f207
 workflow-type: tm+mt
 source-wordcount: '82'
 ht-degree: 0%
@@ -12,11 +13,11 @@ ht-degree: 0%
 
 아래 절차에 따라 사용자 지정 활동 메타데이터 스키마를 내보내십시오.
 
-1. 내 Marketo에서 **관리**&#x200B;를 클릭합니다.
+1. 내 Marketo에서 **관리**.
 
    ![](assets/custom-activity-metadata-export-1.png)
 
-1. **Marketo 사용자 지정 활동**&#x200B;을 클릭합니다.
+1. 클릭 **Marketo 사용자 지정 활동**.
 
    ![](assets/custom-activity-metadata-export-2.png)
 
@@ -24,7 +25,7 @@ ht-degree: 0%
 
    ![](assets/custom-activity-metadata-export-3.png)
 
-1. **사용자 지정 활동 작업** 드롭다운을 클릭하고 **활동 내보내기**&#x200B;를 선택합니다.
+1. 을(를) 클릭합니다. **사용자 지정 활동 작업** 드롭다운 및 선택 **활동 내보내기**.
 
    ![](assets/custom-activity-metadata-export-4.png)
 

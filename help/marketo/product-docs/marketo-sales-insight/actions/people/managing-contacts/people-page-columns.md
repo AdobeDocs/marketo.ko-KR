@@ -3,10 +3,11 @@ description: 사용자 페이지 열 - Marketo 문서 - 제품 설명서
 title: 사용자 페이지 열
 hide: true
 hidefromtoc: true
-source-git-commit: 47b0f31b410f0bf4b41740aa6440c2a0484ab835
+exl-id: 29870197-81e1-4f88-a129-b1ff6da34924
+source-git-commit: d229d152cbdae4f6b2e35700b85052d9c0b748d6
 workflow-type: tm+mt
 source-wordcount: '273'
-ht-degree: 4%
+ht-degree: 7%
 
 ---
 
@@ -49,16 +50,16 @@ ht-degree: 4%
    <td colspan="1">이메일 주소</td> 
   </tr> 
   <tr> 
-   <td colspan="1">전화</td> 
-   <td colspan="1">전화 번호</td> 
+   <td colspan="1">휴대폰</td> 
+   <td colspan="1">전화번호</td> 
   </tr> 
   <tr> 
    <td colspan="1">제목(기본값)</td> 
-   <td colspan="1">직함</td> 
+   <td colspan="1">직위</td> 
   </tr> 
   <tr> 
    <td>회사(기본값)</td> 
-   <td>회사 이름</td> 
+   <td>회사명</td> 
   </tr> 
   <tr> 
    <td>캠페인(기본값)</td> 
@@ -109,7 +110,7 @@ ht-degree: 4%
    <td>이 사람의 총 회신 수</td> 
   </tr> 
   <tr> 
-   <td>마지막 업데이트 날짜</td> 
+   <td>마지막 업데이트</td> 
    <td>개인 레코드가 마지막으로 업데이트된 날짜</td> 
   </tr> 
   <tr> 

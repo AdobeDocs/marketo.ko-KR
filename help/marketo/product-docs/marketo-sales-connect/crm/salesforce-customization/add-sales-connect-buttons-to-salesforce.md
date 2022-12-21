@@ -1,38 +1,37 @@
 ---
 unique-page-id: 14352463
-description: Salesforce - Marketing To Docs - 제품 문서에 영업 연결 버튼 추가
-title: Salesforce에 영업 연결 버튼 추가
-translation-type: tm+mt
-source-git-commit: 1dd80b7de801df78ac7dde39002455063f9979b7
+description: Salesforce에 Sales Connect 단추 추가 - Marketo 문서 - 제품 설명서
+title: Salesforce에 Sales Connect 단추 추가
+exl-id: cd6b5314-5ac5-4854-a595-97c68aa7e9ba
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '156'
 ht-degree: 0%
 
 ---
 
+# Salesforce에 Sales Connect 단추 추가 {#add-sales-connect-buttons-to-salesforce}
 
-# Salesforce {#add-sales-connect-buttons-to-salesforce}에 판매 연결 버튼 추가
+## Marketo Sales Connect로 푸시 {#push-to-marketo-sales-connect}
 
-## Marketing To Sales Connect {#push-to-marketo-sales-connect}
+1. 이동 **설정** 그런 다음 **사용자 지정**.
+1. 연락처/리드/계정에서 다음을 엽니다. **레이아웃 검색**.
+1. 리드 목록 보기 편집 및 드래그 **MSC에 푸시** 선택 단추 사용
 
-1. **설정**&#x200B;사용자 지정&#x200B;**으로 이동한 다음**&#x200B;사용자 지정으로 이동합니다.
-1. 연락처/리드/계정에서 **레이아웃 검색**&#x200B;을 엽니다.
-1. 리드 목록 보기를 편집하고 **MSC로 푸시를 선택한 단추로 드래그합니다.**.
-
-## Marketing To Sales 이메일 {#send-marketo-sales-email} 보내기
-
-1. 리드/연락처/계정에 대한 페이지 레이아웃을 편집합니다.
-1. 단추 섹션을 선택합니다.
-1. **MSC 이메일 보내기** 단추를 선택하고 [세부 사항]의 **사용자 지정 단추** 섹션으로 드래그합니다.
-
-## Marketing To Sales Connect {#call-with-marketo-sales-connect}(으)로 전화
+## Marketo 영업 이메일 보내기 {#send-marketo-sales-email}
 
 1. 리드/연락처/계정에 대한 페이지 레이아웃을 편집합니다.
-1. 단추 섹션을 선택합니다.
-1. **MSC를 사용하여 호출** 버튼을 선택하고 [세부 사항]의 **사용자 정의 단추** 섹션으로 드래그합니다.
+1. 단추에 대한 섹션을 선택합니다.
+1. 을 선택합니다. **MSC 전자 메일 보내기** 단추를 클릭하여 **사용자 지정 단추** 섹션에 자세히 설명되어 있습니다.
 
-## 캠페인 {#add-to-campaign}에 추가
+## Marketo Sales Connect로 전화 {#call-with-marketo-sales-connect}
 
 1. 리드/연락처/계정에 대한 페이지 레이아웃을 편집합니다.
-1. 단추 섹션을 선택합니다.
-1. **MSC 캠페인에 추가** 단추를 선택하고 세부 사항의 **사용자 지정 단추** 섹션으로 드래그합니다.
+1. 단추에 대한 섹션을 선택합니다.
+1. 을 선택합니다. **MSC를 사용하여 호출** 단추를 클릭하여 **사용자 지정 단추** 섹션에 자세히 설명되어 있습니다.
+
+## Campaign에 추가 {#add-to-campaign}
+
+1. 리드/연락처/계정에 대한 페이지 레이아웃을 편집합니다.
+1. 단추에 대한 섹션을 선택합니다.
+1. 을 선택합니다. **MSC Campaign에 추가** 단추를 클릭하여 **사용자 지정 단추** 섹션에 자세히 설명되어 있습니다.

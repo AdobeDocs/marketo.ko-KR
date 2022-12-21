@@ -5,7 +5,7 @@ title: SFDC 동기화 - 활동 동기화
 exl-id: 780e9cb7-b8b2-4a79-a0b8-d9d34a655330
 source-git-commit: e04e2d6932830535493c431de50d6cf9e2298fb1
 workflow-type: tm+mt
-source-wordcount: '0'
+source-wordcount: '164'
 ht-degree: 0%
 
 ---

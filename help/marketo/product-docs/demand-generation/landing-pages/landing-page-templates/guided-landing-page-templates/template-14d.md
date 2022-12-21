@@ -12,7 +12,7 @@ ht-degree: 0%
 
 # 템플릿 14D {#template-14d}
 
-마우스 오른쪽 단추를 클릭하여 [템플릿 14D](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-14d.html) 다운로드
+마우스 오른쪽 단추를 클릭하여 [템플릿 14D 다운로드](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-14d.html)
 
 ![](assets/image2015-8-13-10-3a36-3a45.png)
 

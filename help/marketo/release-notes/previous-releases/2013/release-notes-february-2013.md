@@ -16,7 +16,7 @@ ht-degree: 0%
 
 ## Apple Safari 공식 지원 {#official-support-for-apple-safari}
 
-Mac 및 Windows용 최신 Apple Safari 버전은 Marketo Lead Management에서 사용할 수 있도록 완벽하게 지원됩니다. 참고: iOS의 Safari는 완전히 호환되지 않습니다.
+Mac 및 Windows용 Apple Safari 최신 버전은 Marketo 리드 관리와 함께 사용할 수 있습니다. 참고: iOS의 Safari는 완전히 호환되지 않습니다.
 
 ## Webhooks 개선 사항 {#webhooks-enhancements}
 
@@ -32,4 +32,4 @@ Marketo에서 게시된 facebook 탭은 모바일 장치를 감지하여 랜딩 
 
 ## 준비 중: 여러 모델 지원 {#coming-soon-support-for-multiple-models}
 
-Adobe는 향후 릴리스에서 커뮤니티의 RCA에 대한 #1에 대한 다수의 수익 주기 모델을 지원할 수 있는 기반을 마련하고 있습니다. 이 릴리스에서는 모델 및 스테이지의 선택을 지원하기 위해 [스마트 목록 필터 및 흐름 단계의 선택 사항 추가](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-cycle-models/find-all-leads-in-a-revenue-cycle-model.md)를 포함한 일부 변경 사항이 표시됩니다. 또한 리드 매출 단계 및 리드 매출 주기 모델 필드를 스마트 목록 리드 그리드 탭에서 이동하고 있습니다.
+Adobe는 향후 릴리스에서 커뮤니티의 RCA에 대한 #1에 대한 다수의 수익 주기 모델을 지원할 수 있는 기반을 마련하고 있습니다. 이 릴리스에서는 다음을 포함한 몇 가지 변경 사항이 표시됩니다 [스마트 목록 필터 및 흐름 단계의 선택 사항 추가](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-cycle-models/find-all-leads-in-a-revenue-cycle-model.md) 모델 및 스테이지 선택을 지원합니다. 또한 리드 매출 단계 및 리드 매출 주기 모델 필드를 스마트 목록 리드 그리드 탭에서 이동하고 있습니다.

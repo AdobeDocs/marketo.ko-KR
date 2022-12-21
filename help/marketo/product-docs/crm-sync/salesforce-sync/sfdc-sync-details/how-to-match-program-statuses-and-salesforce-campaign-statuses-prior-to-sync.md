@@ -16,7 +16,7 @@ ht-degree: 0%
 
 ## 오류 메시지를 받으면 어떻게 합니까? {#what-do-you-do-if-you-received-an-error-message}
 
-리드가 포함된 기존 Salesforce 캠페인에 동기화하려고 하며 캠페인에 하나 이상의 호환되지 않는 상태가 포함되어 있으면 오류 메시지가 표시됩니다. Marketo 프로그램 및 Salesforce 캠페인 *은(는) 상태가 정확히 일치하지 않는 경우* 동기화를 수행하지 않습니다.
+리드가 포함된 기존 Salesforce 캠페인에 동기화하려고 하며 캠페인에 하나 이상의 호환되지 않는 상태가 포함되어 있으면 오류 메시지가 표시됩니다. Marketo 프로그램 및 Salesforce 캠페인 *안 함* 상태가 정확히 일치하지 않으면 동기화
 
 ![](assets/image2015-7-22-9-3a23-3a29.png)
 
@@ -26,4 +26,4 @@ ht-degree: 0%
 1. 오류를 취소하고, 상태 오류를 수정하고, 오류가 복구되면 동기화를 시도할 수 있습니다. 상태 오류를 수정하려면 다음 중 하나를 수행합니다.
 
    * Salesforce에 로그인하고 호환되지 않는 캠페인 구성원 상태를 제거하거나 이름을 바꾸면 Marketo 프로그램과 연결된 채널 유형에 사용되는 Marketo 프로그램 상태에 매핑됩니다.
-   * Marketo의 프로그램 상태 를 수정하여 보유한 Salesforce 캠페인 구성원 상태에 매핑합니다. Marketo 관리 기능입니다. 자세한 내용은 [프로그램 채널 만들기](/help/marketo/product-docs/administration/tags/create-a-program-channel.md)를 참조하십시오.
+   * Marketo의 프로그램 상태 를 수정하여 보유한 Salesforce 캠페인 구성원 상태에 매핑합니다. Marketo 관리 기능입니다. 자세한 내용은 [프로그램 채널 만들기](/help/marketo/product-docs/administration/tags/create-a-program-channel.md).

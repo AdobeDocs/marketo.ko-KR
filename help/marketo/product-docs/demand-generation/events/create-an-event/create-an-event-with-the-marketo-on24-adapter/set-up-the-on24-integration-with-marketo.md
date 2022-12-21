@@ -5,7 +5,7 @@ exl-id: 395ffa37-b87d-4eb4-bf9f-72aa96dc819c
 source-git-commit: 3e0823976e8b837fcb2fdbbf03f26da48cbd74b7
 workflow-type: tm+mt
 source-wordcount: '269'
-ht-degree: 0%
+ht-degree: 1%
 
 ---
 
@@ -27,7 +27,7 @@ ht-degree: 0%
 
    ![](assets/set-up-the-on24-integration-with-marketo-3.png)
 
-1. 역할 이름을 입력합니다. 를 엽니다. **액세스 API** 메뉴를 선택하고 &quot;Read-Write Custom Object&quot; 및 &quot;Read-Write Person&quot;을 선택합니다. 클릭 **만들기**.
+1. 역할 이름을 입력합니다. 를 엽니다. **액세스 API** 메뉴를 선택하고 &quot;Read-Write Custom Object&quot; 및 &quot;Read-Write Person&quot;을 선택합니다. Click **Create**.
 
    ![](assets/set-up-the-on24-integration-with-marketo-4.png)
 
@@ -63,7 +63,7 @@ ht-degree: 0%
 
    ![](assets/set-up-the-on24-integration-with-marketo-10.png)
 
-1. 표시 이름을 선택합니다. 을(를) 클릭합니다. **서비스** 드롭다운 및 선택 **사용자 지정**. 설명을 입력합니다. API 전용 사용자 드롭다운을 클릭하고 생성한 사용자를 선택합니다 [위의 단계에서](#create-a-new-user). 클릭 **만들기**.
+1. 표시 이름을 선택합니다. 을(를) 클릭합니다. **서비스** 드롭다운 및 선택 **사용자 지정**. 설명을 입력합니다. API 전용 사용자 드롭다운을 클릭하고 생성한 사용자를 선택합니다 [위의 단계에서](#create-a-new-user). Click **Create**.
 
    ![](assets/set-up-the-on24-integration-with-marketo-11.png)
 

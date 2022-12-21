@@ -18,9 +18,9 @@ ht-degree: 0%
 
 ## [linkedIn Lead Gen Forms](/help/marketo/product-docs/demand-generation/social/social-functions/set-up-linkedin-lead-gen-forms.md) {#linkedin-lead-gen-forms}
 
-[linkedIn Lead Gen ](https://business.linkedin.com/marketing-solutions/native-advertising/lead-gen-ads) Forms 는 LinkedIn에서 리드 생성 캠페인을 실행하는 보다 직접적인 방법입니다. 사람들은 제품이나 서비스에 대한 관심을 표현하기 위해 양식을 작성할 수 있으므로, 비즈니스에서 개인의 세부 정보를 캡처하고 Marketo에 동기화하여 자동 후속 프로세스 및 리드 라우팅 활동이 발생할 수 있습니다.
+[linkedIn Lead Gen Forms](https://business.linkedin.com/marketing-solutions/native-advertising/lead-gen-ads) 는 기업이 LinkedIn에서 리드 생성 캠페인을 실행하는 보다 직접적인 방법입니다. 사람들은 제품이나 서비스에 대한 관심을 표현하기 위해 양식을 작성할 수 있으므로, 비즈니스에서 개인의 세부 정보를 캡처하고 Marketo에 동기화하여 자동 후속 프로세스 및 리드 라우팅 활동이 발생할 수 있습니다.
 
-LinkedIn Lead Gen Forms과 Marketo 통합하면 Lead Gen 양식 내에 제공하는 정보가 자동으로 캡처됩니다. 그런 다음 새로운 **LinkedIn 리드 양식 채우기** 트리거 및 필터를 사용하여 후속 작업 및 알림을 자동화할 수 있습니다.
+LinkedIn Lead Gen Forms과 Marketo 통합하면 Lead Gen 양식 내에 제공하는 정보가 자동으로 캡처됩니다. 그런 다음 새로운 **LinkedIn 리드 세대 양식 채우기** 트리거 및 필터링.
 
 ![](assets/release-notes-image.png)
 

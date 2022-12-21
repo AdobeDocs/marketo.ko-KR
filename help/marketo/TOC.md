@@ -908,7 +908,7 @@ ht-degree: 0%
          + 소셜 함수 {#social-functions}
             + [랜딩 페이지에서 소셜 단추 추가](product-docs/demand-generation/social/social-functions/add-a-social-button-on-a-landing-page.md)
             + [비디오 추가](product-docs/demand-generation/social/social-functions/add-a-video.md)
-            + [소셜 앱에 개인 정보 정책 추가](product-docs/demand-generation/social/social-functions/add-your-privacy-policy-to-a-social-app.md)
+            + [소셜 앱에 개인정보 처리방침 추가](product-docs/demand-generation/social/social-functions/add-your-privacy-policy-to-a-social-app.md)
             + [소셜 앱에 대한 공유 URL 을 선택합니다](product-docs/demand-generation/social/social-functions/choose-the-share-url-for-a-social-app.md)
             + [사용자 지정 이벤트에 대한 전환 스크립트](product-docs/demand-generation/social/social-functions/conversion-script-for-custom-events.md)
             + [웹 사이트에 Social 배포](product-docs/demand-generation/social/social-functions/deploy-social-on-your-website.md)
@@ -1248,7 +1248,7 @@ ht-degree: 0%
          + [영업 전화 개요](product-docs/marketo-sales-connect/phone/sales-phone-overview.md)
          + [팀과 통화 기록 공유](product-docs/marketo-sales-connect/phone/share-call-recordings-with-your-team.md)
          + [2자 동의 설정](product-docs/marketo-sales-connect/phone/two-party-consent-settings.md)
-      + 작업 {#tasks}
+      + Tasks {#tasks}
          + [미리 알림 작업 만들기 및 할당](product-docs/marketo-sales-connect/tasks/create-and-assign-reminder-tasks.md)
          + [Salesforce와 작업 동기화 미리 알림](product-docs/marketo-sales-connect/tasks/reminder-task-sync-with-salesforce.md)
          + [Salesforce와 Sales Connect 작업 동기화](product-docs/marketo-sales-connect/tasks/syncing-sales-connect-tasks-with-salesforce-for-the-first-time.md)
@@ -1396,7 +1396,7 @@ ht-degree: 0%
             + [2자 동의 설정](product-docs/marketo-sales-insight/actions/phone/two-party-consent-settings.md)
          + 영업 전자 메일 보내기 {#send-a-sales-email}
             + [이메일 추적 개요](product-docs/marketo-sales-insight/actions/send-a-sales-email/email-tracking-overview.md)
-         + 작업 {#tasks}
+         + Tasks {#tasks}
             + [Salesforce와 작업 동기화 미리 알림](product-docs/marketo-sales-insight/actions/tasks/reminder-task-sync-with-salesforce.md)
          + 템플릿 {#templates}
             + [하이퍼링크된 텍스트 추가](product-docs/marketo-sales-insight/actions/templates/add-hyperlinked-text.md)
@@ -1866,7 +1866,7 @@ ht-degree: 0%
          + [최신 또는 성과가 좋은 웹 캠페인 정렬](product-docs/web-personalization/working-with-web-campaigns/sort-web-campaigns-by-latest-or-top-performing.md)
          + [웹 개인화 리치 텍스트 편집기 사용](product-docs/web-personalization/working-with-web-campaigns/using-the-web-personalization-rich-text-editor.md)
          + [특정 레이블에서 웹 캠페인 보기](product-docs/web-personalization/working-with-web-campaigns/view-web-campaigns-from-a-specific-label.md)
-+ 릴리스 노트 {#release-notes}
++ 릴리스 정보 {#release-notes}
    + [릴리스 일정](release-notes/release-schedule.md)
    + [현재 릴리스](release-notes/current.md)
    + 이전 릴리스 {#previous-releases}

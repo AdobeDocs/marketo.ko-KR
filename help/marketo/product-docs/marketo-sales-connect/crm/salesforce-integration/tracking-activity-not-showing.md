@@ -1,18 +1,17 @@
 ---
 unique-page-id: 14352478
-description: 표시되지 않는 활동 추적 - 마케팅 문서 - 제품 설명서
+description: 추적 활동이 표시되지 않음 - Marketo 문서 - 제품 설명서
 title: 추적 활동이 표시되지 않음
-translation-type: tm+mt
-source-git-commit: 1dd80b7de801df78ac7dde39002455063f9979b7
+exl-id: 8f3f6506-9367-4f08-84ef-636adf06e00d
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '76'
 ht-degree: 0%
 
 ---
 
+# 추적 활동이 표시되지 않음 {#tracking-activity-not-showing}
 
-# 추적 활동이 {#tracking-activity-not-showing}을(를) 표시하지 않음
+추적 활동이 표시되지 않는 경우 Sales Connect에서 제공하는 사용자 지정 활동 필드가 Salesforce에서 표시/편집 가능한지 확인하십시오. 필드를 설치했지만 채우지 않는 경우 필드 수준 보안에서 정보를 채우지 못하게 할 수 있습니다. Salesforce 관리자에게 문의하십시오.
 
-추적 활동이 표시되지 않으면 Sales Connect에서 제공하는 사용자 지정 활동 필드가 Salesforce에서 표시/편집 가능한지 확인합니다. 필드를 설치했지만 채워지지 않으면 필드 수준 보안에서 정보를 채우지 못할 수 있습니다. Salesforce 관리자에게 문의하십시오.
-
-Salesforce의 [필드 수준 보안](https://help.salesforce.com/articleView?id=admin_fls.htm&amp;type=5)에 대해 자세히 알아보십시오.
+추가 정보 [필드 수준 보안](https://help.salesforce.com/articleView?id=admin_fls.htm&amp;type=5) Salesforce에서

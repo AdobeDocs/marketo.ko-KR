@@ -6,7 +6,7 @@ exl-id: c780bde0-3044-4c89-a2ac-88398cbc3425
 source-git-commit: df14ed3fb815a6d4fa0fe30435ff076c05798e39
 workflow-type: tm+mt
 source-wordcount: '195'
-ht-degree: 0%
+ht-degree: 2%
 
 ---
 
@@ -30,7 +30,7 @@ ht-degree: 0%
 
    ![](assets/image2014-12-5-14-3a37-3a33.png)
 
-1. 을(를) 입력합니다. **표시 이름** 을(를) 선택합니다. **Google 고객 일치** 에서 **서비스** 드롭다운. 클릭 **만들기**.
+1. 을(를) 입력합니다. **표시 이름** 을(를) 선택합니다. **Google 고객 일치** 에서 **서비스** 드롭다운. Click **Create**.
 
    ![](assets/chooseservice.png)
 
@@ -50,7 +50,7 @@ ht-degree: 0%
 
    ![](assets/reviewpermissions.png)
 
-1. 이제 Google AdWords 계정이 Marketo에 연결됩니다. 클릭 **만들기**.
+1. 이제 Google AdWords 계정이 Marketo에 연결됩니다. Click **Create**.
 
    ![](assets/authorizesuccess.png)
 

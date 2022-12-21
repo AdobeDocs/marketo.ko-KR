@@ -54,7 +54,7 @@ iOS 5.1 이상 필요 iPad만 해당.
 
 ## 향상된 웨비나 확인 URL {#enhanced-webinar-confirmation-url}
 
-이제 ON24 및 Adobe Connect에서 사용할 수 있습니다! 새 `{{member.webinar URL}}` 토큰을 사용하여 등록된 각 참석자의 확인 전자 메일에 고유 링크를 포함합니다. Adobe Connect 개선 사항에는 사용자의 로그인 ID 및 암호를 포함하는 Adobe 계정 정보 이메일을 설정/해제하는 기능도 포함되어 있습니다.
+이제 ON24 및 Adobe Connect에서 사용할 수 있습니다! 등록된 각 참석자의 확인 전자 메일에 새 링크를 포함합니다 `{{member.webinar URL}}` 토큰. Adobe Connect 개선 사항에는 사용자의 로그인 ID 및 암호를 포함하는 Adobe 계정 정보 이메일을 설정/해제하는 기능도 포함되어 있습니다.
 
 ![](assets/image2014-9-23-10-3a15-3a44.png)
 
@@ -90,7 +90,7 @@ Marketo 엔지니어가 개발한 실험적인 기능에 액세스하여 사용�
 
 ## Microsoft Dynamics® CRM 통합 {#microsoft-dynamics-crm-integration}
 
-사전 빌드된 새로운 통합을 사용하여 Marketo과 Microsoft Dynamics CRM Online 간 계정, 연락처 및 리드 동기화!
+사전 설치된 새로운 통합을 사용하여 Marketo과 Microsoft Dynamics CRM Online 간 계정, 연락처 및 리드 동기화!
 
 ![](assets/image2014-9-23-10-3a17-3a6.png)
 
@@ -116,7 +116,7 @@ Sales Insight를 통해 전송된 이메일에 대해 가입 해지 바닥글이
 
 ## Sales Insight에서 Opportunity Analyzer 액세스 {#access-opportunity-analyzer-from-sales-insight}
 
-Sales Rep 는 Marketo Sales Insight에서 Opportunity Analyzer에 직접 액세스하여 마케팅 활동을 통해 참여를 유도하는 통찰력을 제공합니다. 참고. Revenue Cycle Analytics 라이센스가 필요합니다.
+Sales Rep 는 Marketo Sales Insight에서 Opportunity Analyzer에 직접 액세스할 수 있으므로 Insight에서 마케팅 활동을 통해 참여를 유도하는 통찰력을 제공합니다. 참고. Revenue Cycle Analytics 라이센스가 필요합니다.
 
 ## 연락처 상태에 대한 사용자 지정 필드 {#custom-field-for-contact-status}
 

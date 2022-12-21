@@ -1,32 +1,31 @@
 ---
 unique-page-id: 14352609
-description: 캠페인 - 마케팅 문서 - 제품 설명서 끄기
+description: 캠페인 끄기 - Marketo 문서 - 제품 설명서
 title: 캠페인 끄기
-translation-type: tm+mt
-source-git-commit: 1dd80b7de801df78ac7dde39002455063f9979b7
+exl-id: 4b6fcb6e-7966-43aa-aa4f-43c475c79de8
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '144'
 ht-degree: 0%
 
 ---
 
+# 캠페인 끄기 {#turn-off-a-campaign}
 
-# 캠페인 {#turn-off-a-campaign} 끄기
-
-수신자가 회신할 때 캠페인을 자동으로 종료해야 합니까? 방법
+수신자가 답장할 때 캠페인을 자동으로 종료해야 합니까? 방법은 다음과 같습니다.
 
 >[!NOTE]
 >
->Gmail 또는 Exchange와 통합되어 있고 회신 추적을 사용하는 고객에게만 제공됩니다.
+>Gmail 또는 Exchange와 통합되고 회신 추적이 활성화된 고객에게만 제공됩니다.
 
-## 한 사람에 대한 캠페인 {#turn-off-a-campaign-for-one-person} 끄기
+## 한 사람에 대한 캠페인 끄기 {#turn-off-a-campaign-for-one-person}
 
-캠페인을 만든 후 **설정** 탭으로 이동하여 누군가 응답할 경우 캠페인이 어떻게 작동하는지 선택하면 됩니다.
+캠페인을 만든 후 **설정** 탭하고 다른 사람이 응답할 경우 캠페인이 어떻게 동작할 것인지 선택합니다.
 
-두 옵션 모두 캠페인을 종료하며 수신자는 더 이상 귀하로부터 이메일을 받지 못합니다.
+두 옵션 모두 캠페인을 종료하며 수신자가 더 이상 고객으로부터 이메일을 받지 않게 됩니다.
 
-## 여러 사람에 대한 캠페인 {#turn-off-a-campaign-for-multiple-people} 끄기
+## 여러 사용자를 위한 캠페인 끄기 {#turn-off-a-campaign-for-multiple-people}
 
-보낸 폴더에서 필터를 &quot;모두&quot;로 설정하여 캠페인에서 제거할 연락처를 선택하여 캠페인을 받은 모든 사람을 캡처합니다.
+보낸 폴더에서 연락처를 선택하여 필터가 &quot;모두&quot;로 설정된 캠페인에서 제거하고 캠페인을 받은 사람을 캡처합니다.
 
-또는 해당 캠페인이 있는 캠페인으로 직접 이동하여 일괄 제거할 수 있습니다.
+또는 해당 캠페인으로 직접 이동하여 대량으로 제거할 수 있습니다.

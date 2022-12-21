@@ -1,40 +1,39 @@
 ---
 unique-page-id: 2949962
-description: 양식 필드의 동적으로 가시성 전환 - 마케팅 문서 - 제품 설명서
-title: 동적으로 양식 필드의 표시 여부 전환
-translation-type: tm+mt
-source-git-commit: ed83438ae5660d172e845f25c4d72d599574bd91
+description: 양식 필드의 표시 여부를 동적으로 전환 - Marketo 문서 - 제품 설명서
+title: 양식 필드의 표시 여부를 동적으로 전환
+exl-id: 51b9283d-bfa1-4535-89ba-96c0ae2ea909
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '198'
 ht-degree: 0%
 
 ---
 
-
-# 양식 필드 {#dynamically-toggle-visibility-of-a-form-field}의 동적으로 가시성 전환
+# 양식 필드의 표시 여부를 동적으로 전환 {#dynamically-toggle-visibility-of-a-form-field}
 
 >[!PREREQUISITES]
 >
 >* [양식에 국가 선택 목록 추가](/help/marketo/product-docs/demand-generation/forms/form-actions/add-a-country-picklist-to-your-form.md)
 
 
-Marketing 양식의 가장 멋진 기능 중 하나는 양식 필드 또는 [fieldsets](/help/marketo/product-docs/demand-generation/forms/form-fields/add-a-fieldset-to-a-form.md)를 동적으로 숨기거나 표시할 수 있다는 것입니다.
+Marketo Forms의 정말 멋진 기능 중 하나는 양식 필드를 동적으로 표시하거나 숨길 수 있다는 것입니다 [필드 세트](/help/marketo/product-docs/demand-generation/forms/form-fields/add-a-fieldset-to-a-form.md).
 
 >[!NOTE]
 >
 >**예**
 >
->이 예에서 **국가**&#x200B;이 &quot;미국&quot;으로 선택되어 있지 않는 한 **상태** 필드를 숨깁니다.
+>이 예제에서는 를 숨깁니다 **주/도** 필드 제외 **국가** 이 &quot;미국&quot;으로 선택됩니다.
 
-1. **마케팅 활동**&#x200B;으로 이동합니다.
+1. 이동 **마케팅 활동**.
 
    ![](assets/login-marketing-activities-8.png)
 
-1. 양식을 선택하고 **양식 편집**&#x200B;을 클릭합니다.
+1. 양식을 선택하고 을(를) 클릭합니다 **양식 편집**.
 
    ![](assets/editform-1.png)
 
-1. 동적으로 숨기거나 표시할 필드를 선택하고 **가시성 규칙**&#x200B;에 대한 링크를 클릭합니다.
+1. 동적으로 숨기거나 표시할 필드를 선택하고 링크를 클릭합니다 **가시성 규칙**.
 
    ![](assets/image2014-9-15-15-3a16-3a0.png)
 
@@ -46,7 +45,7 @@ Marketing 양식의 가장 멋진 기능 중 하나는 양식 필드 또는 [fie
 
    >[!TIP]
    >
-   >&quot;다음으로 시작&quot;과 같은 흐릿한 일치를 선택할 수 있으므로 멋진 기능입니다.
+   >&quot;다음으로 시작&quot;과 같은 퍼지 일치를 선택할 수 있기 때문에 이 방법은 좋습니다.
 
    ![](assets/image2014-9-15-15-3a16-3a50.png)
 
@@ -60,10 +59,10 @@ Marketing 양식의 가장 멋진 기능 중 하나는 양식 필드 또는 [fie
 
    >[!NOTE]
    >
-   >이전에 국가를 선택 목록 필드 유형으로 변환했으며 [모든 국가를 값](/help/marketo/product-docs/demand-generation/forms/form-actions/add-a-country-picklist-to-your-form.md)으로 추가했습니다.
+   >이전에 국가 를 선택 목록 필드 유형으로 변환했으며 [모든 국가를 값으로 추가했습니다.](/help/marketo/product-docs/demand-generation/forms/form-actions/add-a-country-picklist-to-your-form.md).
 
-1. **저장**&#x200B;을 클릭합니다.
+1. 클릭 **저장**.
 
    ![](assets/image2014-9-15-15-3a18-3a15.png)
 
-바로 그거야! 이제 사람들이 이 양식을 작성하고 미국(United States for Country)을 선택하면 상태 필드가 지정된 선택 사항과 함께 동적으로 표시됩니다.
+그게 다야! 이제 사람들이 이 양식을 작성하고 국가별 미국 을 선택하면 지정된 선택 사항과 함께 주 필드가 동적으로 나타납니다.

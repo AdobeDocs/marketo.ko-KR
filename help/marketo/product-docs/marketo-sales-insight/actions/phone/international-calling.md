@@ -5,7 +5,7 @@ exl-id: a6ef6f28-865b-42e7-94e5-32874eb9ecb4
 source-git-commit: d9b8b92ac5f051178b8eb9b450c4949b56d50b99
 workflow-type: tm+mt
 source-wordcount: '339'
-ht-degree: 8%
+ht-degree: 10%
 
 ---
 
@@ -35,7 +35,7 @@ Sales Dialer를 사용하면 국제적으로 의사 소통할 수 있습니다. 
   </tr> 
   <tr> 
    <td colspan="1">바하마</td> 
-   <td colspan="1">1242년</td> 
+   <td colspan="1">1242</td> 
   </tr> 
   <tr> 
    <td><p>브라질</p></td> 
@@ -43,7 +43,7 @@ Sales Dialer를 사용하면 국제적으로 의사 소통할 수 있습니다. 
   </tr> 
   <tr> 
    <td>키프로스 </td> 
-   <td>357년</td> 
+   <td>357</td> 
   </tr> 
   <tr> 
    <td colspan="1">덴마크 </td> 
@@ -59,19 +59,19 @@ Sales Dialer를 사용하면 국제적으로 의사 소통할 수 있습니다. 
   </tr> 
   <tr> 
    <td>그리스 </td> 
-   <td>30,3021</td> 
+   <td>30, 3021</td> 
   </tr> 
   <tr> 
    <td>헝가리</td> 
-   <td>36,361</td> 
+   <td>36, 361</td> 
   </tr> 
   <tr> 
    <td colspan="1">아일랜드 </td> 
-   <td colspan="1">353,3531</td> 
+   <td colspan="1">353, 3531</td> 
   </tr> 
   <tr> 
    <td>이스라엘</td> 
-   <td>972년</td> 
+   <td>972</td> 
   </tr> 
   <tr> 
    <td colspan="1">이탈리아</td> 
@@ -79,7 +79,7 @@ Sales Dialer를 사용하면 국제적으로 의사 소통할 수 있습니다. 
   </tr> 
   <tr> 
    <td colspan="1">카자흐스탄 </td> 
-   <td colspan="1">76,77</td> 
+   <td colspan="1">76, 77</td> 
   </tr> 
   <tr> 
    <td colspan="1">한국</td> 
@@ -87,15 +87,15 @@ Sales Dialer를 사용하면 국제적으로 의사 소통할 수 있습니다. 
   </tr> 
   <tr> 
    <td colspan="1">라트비아 </td> 
-   <td colspan="1">371년</td> 
+   <td colspan="1">371</td> 
   </tr> 
   <tr> 
    <td colspan="1">멕시코</td> 
-   <td colspan="1">52,523,525,5281</td> 
+   <td colspan="1">52, 5233, 5255, 5281</td> 
   </tr> 
   <tr> 
    <td>모나코</td> 
-   <td>377년</td> 
+   <td>377</td> 
   </tr> 
   <tr> 
    <td>네덜란드 </td> 
@@ -111,15 +111,15 @@ Sales Dialer를 사용하면 국제적으로 의사 소통할 수 있습니다. 
   </tr> 
   <tr> 
    <td colspan="1">폴란드 </td> 
-   <td colspan="1">48,4832</td> 
+   <td colspan="1">48, 4832</td> 
   </tr> 
   <tr> 
    <td colspan="1">포르투갈 </td> 
-   <td colspan="1">351년</td> 
+   <td colspan="1">351</td> 
   </tr> 
   <tr> 
    <td colspan="1">싱가포르 </td> 
-   <td colspan="1">65,658,659</td> 
+   <td colspan="1">65, 658, 659</td> 
   </tr> 
   <tr> 
    <td colspan="1">스페인 </td> 
@@ -135,7 +135,7 @@ Sales Dialer를 사용하면 국제적으로 의사 소통할 수 있습니다. 
   </tr> 
   <tr> 
    <td>미국</td> 
-   <td>1,1800,1808, 1844, 1855, 1866, 1867, 1877, 1888</td> 
+   <td>1, 1800,1808, 1844, 1855, 1866, 1867, 1877, 1888</td> 
   </tr> 
  </tbody> 
 </table>

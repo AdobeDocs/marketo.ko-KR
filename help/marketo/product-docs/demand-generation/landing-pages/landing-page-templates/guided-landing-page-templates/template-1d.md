@@ -5,14 +5,14 @@ title: 템플릿 1D
 exl-id: ae46a81e-fd40-459c-937e-cdc58add7838
 source-git-commit: bfcd66388b0d77cf3f1743b0778026a1e5a1ec61
 workflow-type: tm+mt
-source-wordcount: '0'
+source-wordcount: '60'
 ht-degree: 0%
 
 ---
 
 # 템플릿 1D {#template-1d}
 
-마우스 오른쪽 단추를 클릭하여 [템플릿 1D](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-1d.html) 다운로드
+마우스 오른쪽 단추를 클릭하여 [템플릿 1D 다운로드](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-1d.html)
 
 ![](assets/image2015-5-28-13-3a36-3a44.png)
 

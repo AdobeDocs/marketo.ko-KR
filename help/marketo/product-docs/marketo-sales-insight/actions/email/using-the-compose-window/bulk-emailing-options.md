@@ -5,7 +5,7 @@ exl-id: 08cc60d5-0db1-4dfa-9441-4c5e5a021d73
 source-git-commit: d9b8b92ac5f051178b8eb9b450c4949b56d50b99
 workflow-type: tm+mt
 source-wordcount: '258'
-ht-degree: 0%
+ht-degree: 3%
 
 ---
 
@@ -43,7 +43,7 @@ ht-degree: 0%
   </tr> 
   <tr> 
    <td>선택 및 보내기</td> 
-   <td>200년</td> 
+   <td>200</td> 
    <td>그리드에서 사용자를 선택하고 작업 표시줄에서 "선택한 전자 메일" 단추를 클릭하거나 대량 전자 메일 사이드바에 수신자를 입력합니다.</td> 
    <td>예</td> 
    <td>예</td> 

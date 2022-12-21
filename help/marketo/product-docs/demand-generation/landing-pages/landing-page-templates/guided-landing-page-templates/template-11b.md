@@ -5,14 +5,14 @@ title: 템플릿 11B
 exl-id: 5ea47f4a-b0a3-41ba-8066-b1469ae2b3c9
 source-git-commit: bfcd66388b0d77cf3f1743b0778026a1e5a1ec61
 workflow-type: tm+mt
-source-wordcount: '0'
+source-wordcount: '63'
 ht-degree: 0%
 
 ---
 
 # 템플릿 11B {#template-11b}
 
-마우스 오른쪽 단추를 클릭하여 [템플릿 11B](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-11b.html) 다운로드
+마우스 오른쪽 단추를 클릭하여 [템플릿 11B 다운로드](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-11b.html)
 
 ![](assets/image2015-8-4-11-3a2-3a54.png)
 

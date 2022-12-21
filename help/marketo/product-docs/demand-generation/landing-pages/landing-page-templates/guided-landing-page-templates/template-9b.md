@@ -5,14 +5,14 @@ title: 템플릿 9B
 exl-id: 51e3d572-ab7d-44cb-b372-aacb856199d3
 source-git-commit: bfcd66388b0d77cf3f1743b0778026a1e5a1ec61
 workflow-type: tm+mt
-source-wordcount: '0'
+source-wordcount: '64'
 ht-degree: 0%
 
 ---
 
 # 템플릿 9B {#template-9b}
 
-마우스 오른쪽 단추를 클릭하여 [템플릿 9B](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-9b.html) 다운로드
+마우스 오른쪽 단추를 클릭하여 [템플릿 9B 다운로드](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-9b.html)
 
 ![](assets/image2015-7-28-15-3a21-3a14.png)
 

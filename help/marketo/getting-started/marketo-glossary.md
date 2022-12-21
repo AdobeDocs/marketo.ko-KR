@@ -183,7 +183,7 @@ ht-degree: 0%
    <td colspan="1">스마트 목록에 추가할 수 있는 추가 조건 <strong>필터</strong>/<strong>트리거 </strong>검색 범위를 좁히는 데 도움이 됩니다.</td> 
   </tr> 
   <tr> 
-   <td colspan="1"><strong>컨텐츠</strong></td> 
+   <td colspan="1"><strong>콘텐츠</strong></td> 
    <td colspan="1">에 추가된 정보 <strong>assets</strong>, 예 <strong>이메일</strong> 또는 <strong>랜딩 페이지</strong>. in <strong>참여 프로그램</strong>에는 두 가지 유형의 컨텐츠가 있습니다 <a href="/help/marketo/product-docs/email-marketing/drip-nurturing/creating-an-engagement-program/understanding-engagement-programs.md#content" rel="nofollow">스트림에 추가</a>—이메일 및 <strong>프로그램</strong>.</td> 
   </tr> 
   <tr> 
@@ -336,7 +336,7 @@ ht-degree: 0%
    <td>고려되는 독점 알고리즘을 기반으로 하는 점수: 참여 동작(<strong>열기</strong>, <strong>클릭 수</strong>, 프로그램 성공) 및 참여 해제 동작(가입 해지됨)입니다.</td> 
   </tr> 
   <tr> 
-   <td><strong><a href="/help/marketo/product-docs/demand-generation/events/understanding-events/understanding-event-programs.md" rel="nofollow">이벤트</a></strong></td> 
+   <td><strong><a href="/help/marketo/product-docs/demand-generation/events/understanding-events/understanding-event-programs.md" rel="nofollow">Event</a></strong></td> 
    <td>고객 및 잠재 고객과 커뮤니케이션하기 위해 발생하는 문제입니다. 오프라인 이벤트는 일반적으로 모임이나 박람회로 구성되며, 온라인 이벤트는 대개 <strong>웨비나</strong>.</td> 
   </tr> 
   <tr> 

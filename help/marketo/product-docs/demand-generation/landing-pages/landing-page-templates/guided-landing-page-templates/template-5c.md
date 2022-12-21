@@ -5,14 +5,14 @@ title: 템플릿 5C
 exl-id: b0e6d27e-676a-4162-a34f-65ace83f27c9
 source-git-commit: bfcd66388b0d77cf3f1743b0778026a1e5a1ec61
 workflow-type: tm+mt
-source-wordcount: '0'
+source-wordcount: '64'
 ht-degree: 0%
 
 ---
 
 # 템플릿 5C {#template-5c}
 
-마우스 오른쪽 단추를 클릭하여 [템플릿 5C](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-5c.html) 다운로드
+마우스 오른쪽 단추를 클릭하여 [템플릿 5C 다운로드](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-5c.html)
 
 ![](assets/image2015-7-29-14-3a59-3a31.png)
 

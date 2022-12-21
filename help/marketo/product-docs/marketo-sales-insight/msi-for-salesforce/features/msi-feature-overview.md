@@ -5,8 +5,8 @@ title: MSI 기능 개요
 exl-id: e6cd988c-afba-44e3-b240-68258236f344
 source-git-commit: 5f2967fb56daa8c3f86f6d9577626928f1e5bbd6
 workflow-type: tm+mt
-source-wordcount: '0'
-ht-degree: 0%
+source-wordcount: '937'
+ht-degree: 1%
 
 ---
 
@@ -24,9 +24,9 @@ MSI Visualforce 패널에는 다음 기능이 포함되어 있습니다.
    * 흥미로운 순간
    * 웹 활동
    * 이메일
-   * 점수
+   * 스코어
 
-* 작업
+* 액션
 
    * Marketo Campaign에 추가
    * Marketo 이메일 보내기
@@ -96,7 +96,7 @@ Visualforce 페이지:
 
 * Sales Insight - 전체 목록 페이지에 열기
 
-작업:
+액션:
 
 * Marketo Campaign에 추가
 * Marketo 이메일 보내기
@@ -119,7 +119,7 @@ Visualforce 페이지:
 * Sales Insight - 전체 목록 페이지에 열기
 * Marketo 기회 분석 - Marketo에서 기회 영향 분석기를 엽니다.
 
-작업:
+액션:
 
 * Marketo Campaign에 추가
 * Marketo 이메일 보내기

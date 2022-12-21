@@ -5,7 +5,7 @@ title: SFDC 캠페인을 프로그램과 동기화
 exl-id: b95be580-c960-4a76-9d43-c7f624f43d03
 source-git-commit: 8781c6cf2e64543809fe697e75ae6884969a4e40
 workflow-type: tm+mt
-source-wordcount: '0'
+source-wordcount: '176'
 ht-degree: 0%
 
 ---
@@ -16,13 +16,13 @@ Marketo을 사용하면 프로그램을 Salesforce 캠페인과 동기화하여 
 
 >[!PREREQUISITES]
 >
->먼저 [Salesforce 캠페인 동기화를 활성화](/help/marketo/product-docs/crm-sync/salesforce-sync/setup/optional-steps/enable-disable-campaign-sync.md)해야 합니다.
+>다음을 수행해야 합니다. [Salesforce 캠페인 동기화 활성화](/help/marketo/product-docs/crm-sync/salesforce-sync/setup/optional-steps/enable-disable-campaign-sync.md) 먼저
 
 >[!CAUTION]
 >
 >SFDC 캠페인을 Marketo 프로그램과 동기화할 때 프로그램의 하위 캠페인에 대해 암시된 SFDC 작업(예: SFDC Campaign에 추가, SFDC에 동기화)이 비활성화됩니다.
 
-1. **마케팅 활동**&#x200B;으로 이동합니다.
+1. 이동 **마케팅 활동**.
 
    ![](assets/login-marketing-activities-1.png)
 
@@ -30,17 +30,17 @@ Marketo을 사용하면 프로그램을 Salesforce 캠페인과 동기화하여 
 
    ![](assets/image2015-7-22-8-3a47-3a28.png)
 
-1. **프로그램 작업**&#x200B;을 클릭한 다음 **Salesforce 캠페인 동기화**&#x200B;를 선택합니다.
+1. 클릭 **프로그램 작업**&#x200B;를 선택하고 을 선택합니다. **Salesforce 캠페인 동기화**.
 
    ![](assets/image2015-7-22-8-3a48-3a5.png)
 
-1. **새로 만들기**&#x200B;를 선택하거나 기존 Salesforce 캠페인을 선택합니다.
+1. 선택 **새로 만들기** 또는 기존 Salesforce 캠페인을 선택합니다.
 
    >[!TIP]
    >
-   >기존 Salesforce 캠페인을 선택하는 경우 [Salesforce 캠페인과 Marketo 프로그램](/help/marketo/product-docs/crm-sync/salesforce-sync/sfdc-sync-details/how-to-match-program-statuses-and-salesforce-campaign-statuses-prior-to-sync.md)의 프로그램 상태와 일치시켜야 합니다.
+   >기존 Salesforce 캠페인을 선택하는 경우 다음을 확인하십시오 [salesforce 캠페인 및 Marketo 프로그램의 프로그램 상태와 일치합니다](/help/marketo/product-docs/crm-sync/salesforce-sync/sfdc-sync-details/how-to-match-program-statuses-and-salesforce-campaign-statuses-prior-to-sync.md).
 
-1. 새 캠페인의 이름을 입력하고 **저장**&#x200B;을 클릭합니다.
+1. 새 캠페인의 이름을 입력하고 **저장**.
 
    ![](assets/image2015-7-22-8-3a57-3a19.png)
 

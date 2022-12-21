@@ -5,14 +5,14 @@ title: 템플릿 7B
 exl-id: 80df3bd3-878a-4de1-a804-98ec062c533c
 source-git-commit: bfcd66388b0d77cf3f1743b0778026a1e5a1ec61
 workflow-type: tm+mt
-source-wordcount: '0'
+source-wordcount: '62'
 ht-degree: 0%
 
 ---
 
 # 템플릿 7B {#template-7b}
 
-마우스 오른쪽 단추를 클릭하여 [템플릿 7B](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-7b.html) 다운로드
+마우스 오른쪽 단추를 클릭하여 [템플릿 7B 다운로드](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-7b.html)
 
 ![](assets/image2015-7-29-15-3a13-3a3.png)
 

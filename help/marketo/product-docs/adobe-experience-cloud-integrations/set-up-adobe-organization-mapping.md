@@ -5,7 +5,7 @@ title: Adobe 조직 매핑 설정
 exl-id: d20be0d5-508f-40b9-a267-b6752643c311
 source-git-commit: 22f46fedc90d064bd7fbe6f7d5e4621de0b83718
 workflow-type: tm+mt
-source-wordcount: '0'
+source-wordcount: '217'
 ht-degree: 0%
 
 ---
@@ -42,7 +42,7 @@ Audience Manager, B2B CDP Marketo 커넥터, 다이내믹 채팅 등과 같은 A
 
    ![](assets/set-up-adobe-experience-cloud-audience-sharing-5.png)
 
-1. 클릭 **닫기**.
+1. Click **Close**.
 
    ![](assets/set-up-adobe-experience-cloud-audience-sharing-6.png)
 

@@ -3,9 +3,10 @@ description: 이벤트 목표 설정 - Marketo 문서 - 제품 설명서
 title: 이벤트 목표 설정
 hide: true
 hidefromtoc: true
-source-git-commit: ab20d9683aa5987778970fd32793dc0f3056c84b
+exl-id: bc581336-e78b-4e0e-bdff-b62e1bd99fba
+source-git-commit: d229d152cbdae4f6b2e35700b85052d9c0b748d6
 workflow-type: tm+mt
-source-wordcount: '88'
+source-wordcount: '79'
 ht-degree: 0%
 
 ---
@@ -21,12 +22,12 @@ ht-degree: 0%
 
    ![이미지 원](assets/setting-event-goals-1.png)
 
-1. 이벤트를 [!UICONTROL 이름]에서 을(를) 선택합니다. [!UICONTROL 대상] 폴더 및 [!UICONTROL 채널].
+1. 이벤트를 [!UICONTROL Name]에서 을(를) 선택합니다. [!UICONTROL Destination] 폴더 및 [!UICONTROL Channel].
 
    ![이미지 2](assets/setting-event-goals-2.png)
 
-1. 목표 입력 [!UICONTROL 등록] 및 [!UICONTROL 참석함]를 클릭한 다음 **[!UICONTROL 만들기]** ([!UICONTROL 설명] 및 [!UICONTROL 레이블] 은 선택 사항입니다.
+1. 목표 입력 [!UICONTROL Registered] 및 [!UICONTROL Attended]를 클릭한 다음 **[!UICONTROL Create]** ([!UICONTROL Description] 및 [!UICONTROL Labels] 은 선택 사항입니다.
 
    ![이미지 3](assets/setting-event-goals-3.png)
 
-그게 다야! 을(를) 클릭하여 이벤트 목표 상태를 확인합니다. [!UICONTROL 보고서] 탭.
+그게 다야! 을(를) 클릭하여 이벤트 목표 상태를 확인합니다. [!UICONTROL Reports] 탭.

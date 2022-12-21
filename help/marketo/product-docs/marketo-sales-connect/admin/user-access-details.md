@@ -40,7 +40,7 @@ ht-degree: 0%
 
 ## 관리자가 아닌 사용자 권한 {#non-admin-user-permissions}
 
-* Analytics:
+* 분석:
 
    * 사용자가 팀 분석을 볼 수 있음
    * 사용자는 자신이 속한 팀만으로 드릴다운할 수 있습니다

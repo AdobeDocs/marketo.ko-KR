@@ -6,7 +6,7 @@ hidefromtoc: true
 exl-id: 9690adc0-1136-4416-bb7b-f721789d408b
 source-git-commit: 7050d8f948d4ddd85aa102a4ed8f71f7b347fe5a
 workflow-type: tm+mt
-source-wordcount: '116'
+source-wordcount: '102'
 ht-degree: 0%
 
 ---
@@ -22,21 +22,21 @@ ht-degree: 0%
 
    ![](assets/setting-event-goals-1.png)
 
-1. 을(를) 선택합니다 [!UICONTROL 캠페인 폴더]를 입력하여 이벤트를 [!UICONTROL 이름]에서 을(를) 선택합니다. [!UICONTROL 프로그램 유형] 및 [!UICONTROL 채널]. 클릭 **[!UICONTROL 만들기]** 완료 시.
+1. 을(를) 선택합니다 [!UICONTROL Campaign Folder]를 입력하여 이벤트를 [!UICONTROL Name]에서 을(를) 선택합니다. [!UICONTROL Program Type] 및 [!UICONTROL Channel]. 클릭 **[!UICONTROL Create]** 완료 시.
 
    ![](assets/setting-event-goals-2.png)
 
-1. 이벤트에서 **[!UICONTROL 보고서]** 탭.
+1. 이벤트에서 **[!UICONTROL Reports]** 탭.
 
    ![](assets/setting-event-goals-3.png)
 
-1. 목표 입력 [!UICONTROL 등록] 를 클릭합니다. **[!UICONTROL 목표 설정]**. 에 숫자를 입력하고 Enter 키를 누릅니다.
+1. 목표 입력 [!UICONTROL Registered] 를 클릭합니다. **[!UICONTROL Set a goal]**. 에 숫자를 입력하고 Enter 키를 누릅니다.
 
    ![](assets/setting-event-goals-4.png)
 
    ![](assets/setting-event-goals-5.png)
 
-1. 에 대해 동일한 단계를 반복합니다 [!UICONTROL 참석함].
+1. 에 대해 동일한 단계를 반복합니다 [!UICONTROL Attended].
 
    ![](assets/setting-event-goals-6.png)
 
@@ -44,4 +44,4 @@ ht-degree: 0%
 >
 >이벤트가 시작된 후에는 이벤트에 대한 목표를 설정할 수 없습니다.
 
-그게 다야! 을(를) 클릭하여 이벤트 목표 상태를 확인합니다. [!UICONTROL 보고서] 탭.
+그게 다야! 을(를) 클릭하여 이벤트 목표 상태를 확인합니다. [!UICONTROL Reports] 탭.

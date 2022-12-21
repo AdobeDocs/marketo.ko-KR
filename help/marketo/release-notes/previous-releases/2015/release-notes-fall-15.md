@@ -54,11 +54,11 @@ Google Mail Sales Insight Extension에 대한 업데이트 릴리스를 발표�
 
 ![](assets/image2015-10-2-14-3a47-3a53.png)
 
-## Marketo Mobile 참여 - 토큰, 샘플 보내기 및 미리 보기 {#marketo-mobile-engagement-tokens-send-sample-preview}
+## Marketo 모바일 참여 - 토큰, 샘플 보내기 및 미리 보기 {#marketo-mobile-engagement-tokens-send-sample-preview}
 
 * [토큰](/help/marketo/product-docs/mobile-marketing/push-notifications/configure-mobile-push-notification.md)
 * [샘플 보내기](/help/marketo/product-docs/mobile-marketing/push-notifications/send-a-push-notification-sample.md)
-* [미리 보기](/help/marketo/product-docs/mobile-marketing/push-notifications/preview-a-push-notification.md)
+* [미리보기](/help/marketo/product-docs/mobile-marketing/push-notifications/preview-a-push-notification.md)
 
 을 사용하여 푸시 알림 개인화 [토큰](/help/marketo/product-docs/mobile-marketing/push-notifications/configure-mobile-push-notification.md).
 

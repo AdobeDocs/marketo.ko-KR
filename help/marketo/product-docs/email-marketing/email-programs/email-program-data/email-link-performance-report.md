@@ -6,7 +6,7 @@ exl-id: 216af37d-561f-42ad-9f2c-3d9ee5dfd9d7
 source-git-commit: 36315cda6932121da3656ba1ae3495401b321135
 workflow-type: tm+mt
 source-wordcount: '233'
-ht-degree: 0%
+ht-degree: 1%
 
 ---
 
@@ -61,11 +61,11 @@ ht-degree: 0%
    <td colspan="1" rowspan="1">해당 이메일의 모든 링크에 대한 총 클릭 수 중 이 링크에 대한 비율(%)입니다.</td> 
   </tr> 
   <tr> 
-   <td colspan="1" rowspan="1">사람</td> 
+   <td colspan="1" rowspan="1">인물</td> 
    <td colspan="1" rowspan="1">링크를 클릭한 고유 사용자의 수입니다.</td> 
   </tr> 
   <tr> 
-   <td colspan="1" rowspan="1">사람 %</td> 
+   <td colspan="1" rowspan="1">% 인물</td> 
    <td colspan="1" rowspan="1">해당 이메일의 링크를 클릭한 총 고유 사용자 수 중 이 링크에 대한 백분율입니다.</td> 
   </tr> 
  </tbody> 

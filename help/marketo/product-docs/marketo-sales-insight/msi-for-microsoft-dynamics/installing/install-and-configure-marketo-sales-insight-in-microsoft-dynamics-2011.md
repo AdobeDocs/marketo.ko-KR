@@ -54,7 +54,7 @@ Marketo Sales Insight는 영업 팀에 매우 유용한 도구입니다. 다음�
 
    ![](assets/image2015-5-4-11-3a0-3a58.png)
 
-1. 클릭 **닫기**.
+1. Click **Close**.
 
    ![](assets/crmhand.png)
 
@@ -92,7 +92,7 @@ Marketo Sales Insight는 영업 팀에 매우 유용한 도구입니다. 다음�
    >
    >다음 필드는 다음에 대한 Marketo과 동기화해야 합니다. _리드 및 연락처 모두_ 영업 통찰력 작동 방법:
    >
-   >* 우선순위
+   >* 우선 순위
    >* 긴급성
    >* 상대 점수
 

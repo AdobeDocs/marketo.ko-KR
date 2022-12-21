@@ -5,14 +5,14 @@ title: 템플릿 8E
 exl-id: 4e3c3b18-0a4f-4d5c-8535-77ca063b98b9
 source-git-commit: bfcd66388b0d77cf3f1743b0778026a1e5a1ec61
 workflow-type: tm+mt
-source-wordcount: '0'
+source-wordcount: '65'
 ht-degree: 0%
 
 ---
 
 # 템플릿 8E {#template-8e}
 
-마우스 오른쪽 단추를 클릭하여 [템플릿 8E](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-8e.html) 다운로드
+마우스 오른쪽 단추를 클릭하여 [템플릿 8E 다운로드](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-8e.html)
 
 ![](assets/image2015-7-29-14-3a39-3a0.png)
 

@@ -5,7 +5,7 @@ exl-id: 3bf36d50-daea-431f-9537-b3007ad75945
 source-git-commit: 2ce44b7c44517a6fdb3f616a3d69b25158ea4ec9
 workflow-type: tm+mt
 source-wordcount: '263'
-ht-degree: 27%
+ht-degree: 31%
 
 ---
 
@@ -56,7 +56,7 @@ ht-degree: 27%
       <td>주소 삭제</td>
     </tr>
     <tr>
-      <td>삭제됨</td>
+      <td>삭제된 항목</td>
       <td>SFDC가 삭제됨</td>
     </tr>
     <tr>
@@ -64,12 +64,12 @@ ht-degree: 27%
       <td>성</td>
     </tr>
     <tr>
-      <td>리드 소스</td>
+      <td>잠재 고객 소스</td>
       <td>원문</td>
     </tr>
     <tr>
-      <td>리드 점수</td>
-      <td>점수</td>
+      <td>잠재 고객 점수</td>
+      <td>스코어</td>
     </tr>
     <tr>
       <td>메일링 시티</td>
@@ -93,11 +93,11 @@ ht-degree: 27%
     </tr>
     <tr>
       <td>휴대폰</td>
-      <td>휴대 전화 번호</td>
+      <td>휴대폰 번호</td>
     </tr>
     <tr>
       <td>비즈니스 전화</td>
-      <td>전화 번호</td>
+      <td>전화번호</td>
     </tr>
     <tr>
       <td>인사말</td>
@@ -125,8 +125,8 @@ ht-degree: 27%
   </thead>
   <tbody>
     <tr>
-      <td>연매출</td>
-      <td>연매출</td>
+      <td>연간 수익</td>
+      <td>연간 수익</td>
     </tr>
     <tr>
       <td>청구지 시</td>
@@ -157,7 +157,7 @@ ht-degree: 27%
       <td>산업</td>
     </tr>
     <tr>
-      <td>삭제됨</td>
+      <td>삭제된 항목</td>
       <td>SFDC가 삭제됨</td>
     </tr>
     <tr>
@@ -185,8 +185,8 @@ ht-degree: 27%
       <td>SFDC 유형</td>
     </tr>
     <tr>
-      <td>웹사이트</td>
-      <td>웹사이트</td>
+      <td>웹 사이트</td>
+      <td>웹 사이트</td>
     </tr>
   </tbody>
 </table>

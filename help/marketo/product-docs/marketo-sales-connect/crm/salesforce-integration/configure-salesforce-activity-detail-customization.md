@@ -4,7 +4,7 @@ title: Salesforce 활동 세부 사항 사용자 지정 구성
 exl-id: 4b20ca29-18d6-4026-9bf9-77656ad1442d
 source-git-commit: 4967f6260f084c9382271aa10d15bb0f7e083e8d
 workflow-type: tm+mt
-source-wordcount: '0'
+source-wordcount: '707'
 ht-degree: 0%
 
 ---
@@ -35,7 +35,7 @@ Activity Detail Customization을 사용하면 관리자는 Sales Connect 활동/
   <td>인메일 미리 알림 작업</td>
  </tr>
  <tr>
-  <td><strong>2개</td>
+  <td><strong>2</td>
   <td>이메일 활동</td>
  </tr>
  <tr>

@@ -5,7 +5,7 @@ exl-id: a9a59e76-a7a4-4391-8169-922bd6acfb6d
 source-git-commit: bb020cba0bb0cb65761e15cba05147b6e9fffe50
 workflow-type: tm+mt
 source-wordcount: '533'
-ht-degree: 0%
+ht-degree: 6%
 
 ---
 
@@ -68,7 +68,7 @@ Marketo Engage은 필드 세트를 사용하여 특정 종류의 마케팅 관�
    <th>필드 속성
   </tr>
   <tr>
-   <td>점수</td>
+   <td>스코어</td>
    <td>mkto71_Lead_Score</td>
    <td>숫자</td>
    <td>길이 10<br/>
@@ -125,43 +125,43 @@ Marketo Engage은 필드 세트를 사용하여 특정 종류의 마케팅 관�
    <th>필드 속성
   </tr>
   <tr>
-   <td>유추 도시</td>
+   <td>유추된 시</td>
    <td>mkto71_Infined_City</td>
    <td>텍스트</td>
    <td>길이 255</td>
   </tr>
   <tr>
-   <td>추론된 회사</td>
+   <td>회사 유추</td>
    <td>mkto71_Infined_Company</td>
    <td>텍스트</td>
    <td>길이 255</td>
   </tr>
   <tr>
-   <td>추론된 국가</td>
+   <td>추정 국가</td>
    <td>mkto71_Infined_Country</td>
    <td>텍스트</td>
    <td>길이 255</td>
   </tr>
   <tr>
-   <td>유추 수도권</td>
+   <td>대도시 지역 유추</td>
    <td>mkto71_Infined_Metropolitan_Area</td>
    <td>텍스트</td>
    <td>길이 255</td>
   </tr>
   <tr>
-   <td>추론된 전화 영역 코드</td>
+   <td>전화번호 지역코드 유추</td>
    <td>mkto71_Infined_Phone_Area_Code</td>
    <td>텍스트</td>
    <td>길이 255</td>
   </tr>
   <tr>
-   <td>유추 우편 번호</td>
+   <td>우편번호 유추</td>
    <td>mkto71_Infined_Postal_Code</td>
    <td>텍스트</td>
    <td>길이 255</td>
   </tr>
   <tr>
-   <td>유추 주 지역</td>
+   <td>유추된 주 지역</td>
    <td>mkto71_Infined_State_Region</td>
    <td>텍스트</td>
    <td>길이 255</td>

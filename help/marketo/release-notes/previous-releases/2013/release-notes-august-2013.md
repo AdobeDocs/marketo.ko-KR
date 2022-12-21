@@ -16,7 +16,7 @@ ht-degree: 0%
 
 **텍스트만 이메일**
 
-이제 [의 텍스트 버전](/help/marketo/product-docs/email-marketing/general/creating-an-email/create-a-text-only-email.md)만 전자 메일을 보낼 수 있습니다. 이 옵션을 사용하면 링크가 데코레이트되지 않습니다.
+이제 [텍스트 버전만](/help/marketo/product-docs/email-marketing/general/creating-an-email/create-a-text-only-email.md) 이메일 URL이나 쿼리 문자열과 같은 기능으로 바뀌었습니다. 이 옵션을 사용하면 링크가 데코레이트되지 않습니다.
 
 ![](assets/image2014-9-22-16-3a34-3a15.png)
 
@@ -24,13 +24,13 @@ ht-degree: 0%
 
 ### 소진된 컨텐츠 무시 {#ignore-exhausted-content}
 
-알림에 대한 억제를 포함하여 참여 프로그램을 [고갈무시](/help/marketo/product-docs/email-marketing/drip-nurturing/using-engagement-programs/disable-and-enable-exhausted-content-notifications.md)로 구성합니다.
+참여 프로그램 구성 [무시](/help/marketo/product-docs/email-marketing/drip-nurturing/using-engagement-programs/disable-and-enable-exhausted-content-notifications.md)여기에는 모든 알림 억제를 포함합니다.
 
 ![](assets/image2014-9-22-16-3a34-3a37.png)
 
 ## 참여 스트림 테스트 {#engagement-stream-testing}
 
-[새 테스트 기능](/help/marketo/product-docs/email-marketing/drip-nurturing/engagement-program-streams/test-an-engagement-stream.md)을 사용하여 캐스트를 시뮬레이션하고 새로 추가된 컨텐츠를 라이브 스트림에 테스트합니다.
+를 사용하십시오 [새로운 테스트 기능](/help/marketo/product-docs/email-marketing/drip-nurturing/engagement-program-streams/test-an-engagement-stream.md) 캐스트를 시뮬레이션하고 새로 추가된 컨텐츠를 라이브 스트림에 테스트합니다.
 
 ![](assets/image2014-9-22-16-3a34-3a56.png)
 
@@ -42,13 +42,13 @@ ht-degree: 0%
 
 ## &quot;이메일을 웹 페이지로 보기&quot; 및 &quot;가입 해지&quot; 시스템 토큰 {#view-email-as-web-page-and-unsubscribe-system-tokens}
 
-이러한 [새 토큰](/help/marketo/product-docs/email-marketing/general/using-tokens/system-tokens-glossary.md)을 활용하여 이메일에서 배치를 더 잘 제어할 수 있습니다.
+다음 활용 [새 토큰](/help/marketo/product-docs/email-marketing/general/using-tokens/system-tokens-glossary.md) 이메일에서 위치를 더 잘 제어할 수 있도록 해줍니다.
 
 ![](assets/image2014-9-22-16-3a35-3a38.png)
 
 ## 자동 트리거 캠페인 정리 {#automatic-trigger-campaign-cleanup}
 
-이제 Marketo이 주기적으로 사용자에게 알리고 [은(는) 지난 6개월 동안 실행되지 않은 트리거 캠페인](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/using-smart-campaigns/automatic-trigger-campaign-cleanup.md)을 자동으로 비활성화합니다.
+Marketo은 이제 주기적으로 사용자에게 알림을 보냅니다 [캠페인을 자동으로 비활성화](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/using-smart-campaigns/automatic-trigger-campaign-cleanup.md) 그것은 지난 6개월 동안 실행되지 않았습니다.
 
 ![](assets/image2014-9-22-16-3a36-3a2.png)
 

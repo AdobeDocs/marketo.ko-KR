@@ -37,7 +37,7 @@ Activity Detail Customization을 사용하면 관리자는 Sales Insight Actions
   <td>인메일 미리 알림 작업</td>
  </tr>
  <tr>
-  <td><strong>2개</td>
+  <td><strong>2</td>
   <td>이메일 활동</td>
  </tr>
  <tr>

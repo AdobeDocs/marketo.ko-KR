@@ -1,9 +1,8 @@
 ---
 unique-page-id: 10093192
-description: Marketo 사용자 정의 개체 만들기 - Marketo 문서 - 제품 설명서
-title: Marketo 사용자 정의 개체 만들기
+description: Marketo 사용자 지정 개체 만들기 - Marketo 문서 - 제품 설명서
+title: Marketo 사용자 지정 개체 만들기
 exl-id: d68b41e1-a12b-436f-aad7-42c7264cd901
-translation-type: tm+mt
 source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '710'
@@ -11,129 +10,129 @@ ht-degree: 0%
 
 ---
 
-# Marketo 사용자 정의 개체 만들기 {#create-marketo-custom-objects}
+# Marketo 사용자 지정 개체 만들기 {#create-marketo-custom-objects}
 
-Marketo의 사용자 지정 개체를 사용하여 비즈니스에 맞는 지표를 추적할 수 있습니다. 이것은 자동차, 교육 과정 등 Marketo에서 캠페인을 실행하기 위해 모델링하고 싶은 모든 것일 수 있습니다.
+Marketo의 사용자 지정 개체를 사용하여 비즈니스에 따른 지표를 추적합니다. 이것은 자동차, 교육 과정 등 캠페인을 실행하기 위해 Marketo에서 모델링하고 싶은 모든 것이 될 수 있습니다.
 
 >[!NOTE]
 >
->일대다 또는 다대다 기준으로 사용자 정의 개체를 설정할 수 있습니다. 동일한 방식으로 초기 객체를 만들지만 객체에 필드를 추가하기 시작하면 단계가 다릅니다. 자세한 내용은 [Marketo 사용자 지정 개체 이해](/help/marketo/product-docs/administration/marketo-custom-objects/understanding-marketo-custom-objects.md)를 참조하십시오.
+>일대다 또는 다대다 기준으로 작동하도록 사용자 정의 개체를 설정할 수 있습니다. 초기 개체를 같은 방법으로 만들지만, 개체에 필드를 추가하기 시작할 때는 단계가 다릅니다. 자세한 내용은  [Marketo 사용자 지정 개체 이해](/help/marketo/product-docs/administration/marketo-custom-objects/understanding-marketo-custom-objects.md) 추가 정보.
 
 >[!NOTE]
 >
 >사용자 지정 객체가 승인되면 링크 또는 중복 제거 필드를 생성, 편집 또는 삭제할 수 없습니다.
 
-## 일 대 다 구조에 대한 사용자 지정 개체 만들기 {#create-a-custom-object-for-a-one-to-many-structure}
+## 일대다 구조에 대한 사용자 지정 개체 만들기 {#create-a-custom-object-for-a-one-to-many-structure}
 
-이 예는 일대다 구조에 사용하기 위해 Car 사용자 정의 객체를 보여 줍니다. 나중에 여러 구조에서 사용할 수 있도록 코스 사용자 정의 객체와 중간 객체를 만듭니다.
+이 예는 일대다 구조에 사용할 Car 사용자 지정 개체를 보여줍니다. 나중에 다대다 구조에 사용할 코스 사용자 지정 객체와 중간 개체를 만듭니다.
 
-1. **관리**&#x200B;를 클릭하고 **데이터베이스 관리** Marketo 사용자 지정 개체&#x200B;**를 선택합니다.**
+1. 클릭 **관리**, 및 **데이터베이스 관리** 선택 **Marketo 사용자 지정 개체**.
 
    ![](assets/image2016-1-18-13-3a12-3a19.png)
 
-1. **새 사용자 지정 개체**&#x200B;를 클릭합니다.
+1. 클릭 **새 사용자 지정 개체**.
 
    ![](assets/image2016-5-18-16-3a28-3a4.png)
 
    >[!NOTE]
    >
-   >Marketo 사용자 지정 개체 탭에는 오른쪽의 모든 사용자 지정 개체와 가장 최근 업데이트의 레코드 및 필드 수를 비롯하여 승인된 모든 개체에 대한 세부 사항이 표시됩니다.
+   >Marketo 사용자 정의 개체 탭에는 오른쪽의 모든 사용자 정의 개체와, 가장 최근 업데이트에서의 레코드 수 및 필드 수를 포함하여 승인된 모든 개체 세부 사항이 표시됩니다.
 
-1. 표시 이름을 입력합니다. API 이름 및 복수 이름은 자동으로 채워집니다. 설명을 입력합니다(선택 사항).
+1. 표시 이름을 입력합니다. API 이름 및 복수 이름이 자동으로 채워집니다. 설명을 입력합니다(선택 사항).
 
    ![](assets/image2015-9-15-16-3a29-3a17.png)
 
    >[!NOTE]
    >
-   >이러한 필드를 만들 때는 편집할 수 있지만, 저장한 후에는 [복수 이름] 필드와 **리드 세부 사항 표시** 슬라이더만 편집할 수 있습니다.
+   >이러한 필드를 만들 때는 편집할 수 있지만 저장한 후에는 복수 이름 필드와 **리드 세부 정보에 표시** 슬라이더.
 
-1. 리드 데이터베이스 페이지에서 사용자 지정 개체 데이터를 보려면 **표시**&#x200B;를 표시하려면 **리드 세부 정보에 표시** 슬라이더를 위로 드래그합니다. **저장**&#x200B;을 클릭합니다.
+1. 가져오기 **리드 세부 정보에 표시** 표시할 슬라이더 **표시** 리드 데이터베이스 페이지에서 사용자 지정 객체 데이터를 보려는 경우 클릭 **저장**.
 
    ![](assets/image2015-9-15-16-3a32-3a2.png)
 
-1. 사용자 지정 개체 정보는 입력한 컨텐트를 표시합니다. 초안 상태에 있습니다.
+1. 사용자 지정 개체 정보는 입력한 내용을 표시합니다. 초안 상태에 있습니다.
 
    ![](assets/image2015-9-15-16-3a38-3a22.png)
 
-   다음 단계는 [사용자 지정 개체](/help/marketo/product-docs/administration/marketo-custom-objects/add-marketo-custom-object-fields.md)에 필드를 추가하는 것입니다.
+   다음 단계는 필드를 [사용자 지정 개체 작성](/help/marketo/product-docs/administration/marketo-custom-objects/add-marketo-custom-object-fields.md).
 
    >[!NOTE]
    >
-   >목록 가져오기 또는 [API](https://developers.marketo.com/documentation/rest/)를 통해서만 Marketo 사용자 지정 개체를 채울 수 있습니다.
+   >목록 가져오기 또는 [API](https://developers.marketo.com/documentation/rest/).
 
-## 다대다 구조 {#create-a-custom-object-for-a-many-to-many-structure}에 대한 사용자 지정 개체 만들기
+## 다대다 구조에 대한 사용자 지정 개체 만들기 {#create-a-custom-object-for-a-many-to-many-structure}
 
-이 예는 사람/회사 및 강좌 간에 다대다 관계를 만드는 데 사용할 강좌 사용자 지정 개체를 보여줍니다. 완료되면 중간 객체를 만들어 데이터베이스의 사용자 또는 회사에 연결합니다.
+이 예에서는 사람/회사와 교육 과정 간에 다대다 관계를 만드는 데 사용할 교육 과정 사용자 지정 개체를 보여줍니다. 완료되면 중간 개체를 만들어 데이터베이스의 사용자나 회사에 연결합니다.
 
 >[!NOTE]
 >
 >다대다 관계의 경우 사용자 지정 개체에 링크를 만들 필요가 없습니다. 대신 중간 개체에 두 개의 링크를 추가합니다(아래 참조).
 
-1. **관리**&#x200B;를 클릭하고 **데이터베이스 관리** Marketo 사용자 지정 개체&#x200B;**를 선택합니다.**
+1. 클릭 **관리**, 및 **데이터베이스 관리** 선택 **Marketo 사용자 지정 개체**.
 
    ![](assets/image2016-1-18-13-3a16-3a25.png)
 
-1. **새 사용자 지정 개체**&#x200B;를 클릭합니다.
+1. 클릭 **새 사용자 지정 개체**.
 
    ![](assets/image2016-5-18-16-3a32-3a42.png)
 
-1. 표시 이름을 입력합니다. API 이름 및 복수 이름은 자동으로 채워집니다. 설명을 입력합니다(선택 사항).
+1. 표시 이름을 입력합니다. API 이름 및 복수 이름이 자동으로 채워집니다. 설명을 입력합니다(선택 사항).
 
    ![](assets/image2016-1-14-13-3a38-3a46.png)
 
    >[!NOTE]
    >
-   >이러한 필드를 만들 때는 편집할 수 있지만, 저장한 후에는 [복수 이름] 필드와 **리드 세부 사항 표시** 슬라이더만 편집할 수 있습니다.
+   >이러한 필드를 만들 때는 편집할 수 있지만 저장한 후에는 복수 이름 필드와 **리드 세부 정보에 표시** 슬라이더.
 
-1. 리드 데이터베이스 페이지에서 사용자 지정 개체 데이터를 보려면 **표시**&#x200B;를 표시하려면 **리드 세부 정보에 표시** 슬라이더를 위로 드래그합니다. **저장**&#x200B;을 클릭합니다.
+1. 가져오기 **리드 세부 정보에 표시** 표시할 슬라이더 **표시** 리드 데이터베이스 페이지에서 사용자 지정 객체 데이터를 보려는 경우 클릭 **저장**.
 
    ![](assets/image2016-1-14-13-3a42-3a56.png)
 
-1. 사용자 지정 개체 정보는 입력한 컨텐트를 표시합니다. 초안 상태에 있습니다.
+1. 사용자 지정 개체 정보는 입력한 내용을 표시합니다. 초안 상태에 있습니다.
 
    ![](assets/image2016-1-18-8-3a38-3a58.png)
 
    >[!NOTE]
    >
-   >목록 가져오기 또는 [API](https://developers.marketo.com/documentation/rest/)를 통해서만 Marketo 사용자 지정 개체를 채울 수 있습니다.
+   >목록 가져오기 또는 [API](https://developers.marketo.com/documentation/rest/).
 
-다음 단계는 중간 객체를 만드는 것입니다(아래 참조). 하지만 그 전에 해당 필드에 연결할 필드를 만들어야 합니다.
+다음 단계는 중간 개체를 만드는 것입니다(아래 참조). 하지만 그 전에 필드에 연결된 필드를 만들어야 합니다.
 
-## 중간 개체 {#create-an-intermediary-object} 만들기
+## 중간 객체 만들기 {#create-an-intermediary-object}
 
-중간 객체를 사용하여 사용자 정의 객체를 사용자나 회사에 연결합니다. 이 예제에서는 교육 과정 사용자 정의 개체의 강좌를 데이터베이스의 사용자나 회사에 연결하는 데 사용됩니다.
+중간 객체를 사용하여 사용자 정의 객체를 사용자나 회사에 연결합니다. 이 예제에서는 교육 과정 사용자 정의 객체의 교육 과정을 데이터베이스의 사용자나 회사에 연결하는 데 사용됩니다.
 
 >[!NOTE]
 >
->일대다 사용자 정의 객체 구조에 중간 객체를 만들 필요는 없습니다.
+>일대다 사용자 정의 개체 구조에 중간 개체를 만들 필요는 없습니다.
 
-1. **관리**&#x200B;를 클릭하고 **데이터베이스 관리**&#x200B;에서 **Marketo 사용자 지정 개체**&#x200B;를 선택합니다.
+1. 클릭 **관리**, 및 **데이터베이스 관리**, 선택 **Marketo 사용자 지정 개체**.
 
    ![](assets/image2016-1-18-13-3a17-3a40.png)
 
-1. **새 사용자 지정 개체**&#x200B;를 클릭합니다.
+1. 클릭 **새 사용자 지정 개체**.
 
    ![](assets/image2016-5-18-16-3a33-3a16.png)
 
-1. 표시 이름을 입력합니다. API 이름 및 복수 이름은 자동으로 채워집니다. 설명을 입력합니다(선택 사항).
+1. 표시 이름을 입력합니다. API 이름 및 복수 이름이 자동으로 채워집니다. 설명을 입력합니다(선택 사항).
 
    ![](assets/image2016-1-14-14-3a10-3a44.png)
 
    >[!NOTE]
    >
-   >이러한 필드를 만들 때는 편집할 수 있지만, 저장한 후에는 복수 이름 필드와 리드 세부 사항 표시 슬라이더를 편집할 수만 있습니다.
+   >이러한 필드를 만들 때는 편집할 수 있지만, 저장한 후에는 복수 이름 필드와 리드 세부 정보 표시 슬라이더만 편집할 수 있습니다.
 
-1. 리드 데이터베이스 페이지에서 사용자 지정 개체 데이터를 보려면 **표시**&#x200B;를 표시하려면 **리드 세부 정보에 표시** 슬라이더를 위로 드래그합니다. **저장**&#x200B;을 클릭합니다.
+1. 가져오기 **리드 세부 정보에 표시** 표시할 슬라이더 **표시** 리드 데이터베이스 페이지에서 사용자 지정 객체 데이터를 보려는 경우 클릭 **저장**.
 
    ![](assets/image2016-1-14-14-3a12-3a49.png)
 
-1. 사용자 지정 개체 정보는 입력한 컨텐트를 표시합니다. 초안 상태에 있습니다.
+1. 사용자 지정 개체 정보는 입력한 내용을 표시합니다. 초안 상태에 있습니다.
 
-   다음 단계는 [링크 필드](/help/marketo/product-docs/administration/marketo-custom-objects/add-marketo-custom-object-link-fields.md)를 추가하여 중간 개체를 개인/회사 및 사용자 정의 개체에 연결하는 것입니다.
+   다음 단계는 다음을 수행하는 것입니다. [링크 필드 추가](/help/marketo/product-docs/administration/marketo-custom-objects/add-marketo-custom-object-link-fields.md) 중간 객체를 개인/회사 및 사용자 정의 객체에 연결하기 위해
 
 >[!MORELIKETHIS]
 >
->* [Marketo 사용자 정의 개체 필드 추가](/help/marketo/product-docs/administration/marketo-custom-objects/add-marketo-custom-object-fields.md)
+>* [Marketo 사용자 지정 개체 필드 추가](/help/marketo/product-docs/administration/marketo-custom-objects/add-marketo-custom-object-fields.md)
 >* [Marketo 사용자 지정 개체 링크 필드 추가](/help/marketo/product-docs/administration/marketo-custom-objects/add-marketo-custom-object-link-fields.md)
->* [Marketo 사용자 정의 개체 이해](/help/marketo/product-docs/administration/marketo-custom-objects/understanding-marketo-custom-objects.md)
+>* [Marketo 사용자 지정 개체 이해](/help/marketo/product-docs/administration/marketo-custom-objects/understanding-marketo-custom-objects.md)
 

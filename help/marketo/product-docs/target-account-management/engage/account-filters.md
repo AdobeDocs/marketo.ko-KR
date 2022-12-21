@@ -1,27 +1,26 @@
 ---
 unique-page-id: 11380732
-description: 계정 필터 - 마케팅 문서 - 제품 설명서
+description: 계정 필터 - Marketo 문서 - 제품 설명서
 title: 계정 필터
-translation-type: tm+mt
-source-git-commit: 96d6cc030ecd9d1da844fe27e1c6f62bbd181d62
+exl-id: a359f53b-c0a0-4b46-bad0-2840ba668892
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '182'
 ht-degree: 0%
 
 ---
 
-
 # 계정 필터 {#account-filters}
 
-새로운 계정 중심 필터를 사용하여 지정된 계정 및 계정 내의 개인 식별 및 참여 유도
+새로운 계정 중심 필터를 사용하여 명명 계정 및 그 내에서 가상 사용자를 식별하고 참여시킵니다.
 
 ## TAM 필터 {#tam-filters}
 
-1. 스마트 캠페인을 선택하고 **스마트 목록**&#x200B;을 클릭합니다.
+1. 스마트 캠페인을 선택하고 을(를) 클릭합니다 **Smart List**.
 
    ![](assets/one.png)
 
-1. **+**&#x200B;을 클릭하여 **계정 필터** 폴더를 확장합니다.
+1. 을(를) 클릭합니다. **+** 를 확장하려면 **계정 필터** 폴더를 입력합니다.
 
    ![](assets/two.png)
 
@@ -29,7 +28,7 @@ ht-degree: 0%
 
    ![](assets/three.png)
 
-## 계정 목록 {#member-of-account-list} 구성원
+## 계정 목록 멤버 {#member-of-account-list}
 
 이 필터를 사용하려면 계정 목록 드롭다운..
 
@@ -41,15 +40,15 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->계정 목록 멤버 필터의 경우 구분자는 하나만 있습니다.&quot;is&quot; - 추가 한정자(예: &quot;is not&quot; 및 &quot;is any&quot;)를 사용할 수 없습니다.
+>계정 목록 멤버 필터에 한정자가 하나만 있습니다. &quot;is&quot; - 추가 구분자(예: &quot;is not&quot; 및 &quot;is any&quot;)를 사용할 수 없습니다.
 
-## 명명 계정 {#member-of-named-account} 구성원
+## 명명 계정 멤버 {#member-of-named-account}
 
-먼저 구분자를 선택합니다. **특정** 명명 계정 또는  **지정된** 계정의 이름입니다.
+먼저 구분자를 선택합니다. **다음** 특정 명명 계정 또는 **임의** 모든 명명 계정에 대해
 
 ![](assets/six.png)
 
-이름이 지정된 계정 드롭다운...을 클릭합니다.
+명명된 계정 드롭다운을 클릭합니다...
 
 ![](assets/seven.png)
 
@@ -57,11 +56,11 @@ ht-degree: 0%
 
 ![](assets/eight.png)
 
-&quot;is any&quot; 한정자를 사용하는 경우 [constraints](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/using-smart-lists/add-a-constraint-to-a-smart-list-filter.md)를 사용하여 검색 결과를 좁힐 수 있습니다. 원하는 만큼 추가하세요!
+&quot;is any&quot; 한정자를 사용하는 경우 [제한](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/using-smart-lists/add-a-constraint-to-a-smart-list-filter.md) 검색 결과 범위를 좁히려면 다음을 수행하십시오. 원하는 만큼 추가하세요!
 
 ![](assets/nine.png)
 
-단일 최상위 계정의 멤버만 원할 경우 &quot;하위 포함&quot;을 false로 설정합니다. 모든 하위 계정의 구성원을 사용하려면 true를 선택합니다.
+단일 최상위 계정의 멤버만 원하는 경우 &quot;하위 포함&quot;을 false로 설정합니다. 모든 하위 계정의 멤버를 원하는 경우 true를 선택합니다.
 
 ![](assets/ten.png)
 

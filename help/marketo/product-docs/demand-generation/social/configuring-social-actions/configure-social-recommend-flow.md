@@ -1,35 +1,34 @@
 ---
 unique-page-id: 2950549
-description: 소셜 추천 흐름 구성 - 마케팅 문서 - 제품 설명서
+description: 소셜 추천 흐름 구성 - Marketo 문서 - 제품 설명서
 title: 소셜 추천 흐름 구성
-translation-type: tm+mt
-source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
+exl-id: 01b54215-4a0c-4639-80d2-ec30603b3695
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '515'
 ht-degree: 0%
 
 ---
 
-
 # 소셜 추천 흐름 구성 {#configure-social-recommend-flow}
 
-소셜 앱을 만들 때 소셜 네트워크 선택 사항을 구성하고 사용자가 등록하면 표시되는 메시지를 표시할 수 있습니다.
+소셜 앱을 만들 때 소셜 네트워크 선택 사항을 구성하고 등록할 때 사용자가 방문하는지 여부를 묻습니다.
 
-## {#select-networks-for-sharing} 공유를 위한 네트워크 선택
+## 공유할 네트워크 선택 {#select-networks-for-sharing}
 
 >[!NOTE]
 >
->이것은 [소셜 가입/공유 흐름](/help/marketo/product-docs/demand-generation/social/configuring-social-actions/configure-social-sign-up-share-flow.md)을 구성하는 것과 매우 비슷하지만, 공유 링크 _소셜 앱_&#x200B;에 대한 것입니다.
+>이것은 매우 유사합니다 [소셜 등록/공유 흐름 구성](/help/marketo/product-docs/demand-generation/social/configuring-social-actions/configure-social-sign-up-share-flow.md), 하지만 공유 링크를 위한 것입니다 _아래에_ 소셜 앱입니다.
 
-1. **마케팅 활동**&#x200B;으로 이동합니다.
+1. 이동 **마케팅 활동**.
 
    ![](assets/login-marketing-activities-1.png)
 
-1. 앱을 선택하고 **초안 편집**&#x200B;을 클릭합니다.
+1. 앱을 선택하고 을(를) 클릭합니다 **초안 편집**.
 
    ![](assets/image2014-9-22-11-3a51-3a6.png)
 
-1. 소셜 앱 편집기에서 **추천 흐름** > **소셜 네트워크**&#x200B;로 이동합니다.
+1. 소셜 앱 편집기에서 로 이동합니다. **추천 흐름** > **소셜 네트워크**.
 
    ![](assets/recommendedflow.png)
 
@@ -37,9 +36,9 @@ ht-degree: 0%
 
    ![](assets/socialnetworkschoose.png)
 
-## Facebook 메시지 {#configure-the-facebook-message} 구성
+## facebook 메시지 구성 {#configure-the-facebook-message}
 
-1. Facebook 게시물에 표시되는 메시지를 구성합니다.
+1. facebook 게시물에 나타날 메시지를 구성합니다.
 
    ![](assets/image2014-9-22-11-3a53-3a21.png)
 
@@ -47,59 +46,59 @@ ht-degree: 0%
    >
    >비디오 공유에서 축소판이 자동으로 생성됩니다.
 
-   **동적 컨텐츠 추가**&#x200B;를 선택하면 페이지의 OpenGraph 태그(og:title, og:caption 및 og:description)의 값이 Facebook 게시물에 자동으로 추가됩니다. 다음 단계를 참조하십시오.
+   만약 **동적 콘텐츠 추가**, 페이지의 OpenGraph 태그(og:title, og:caption 및 og:description)의 값과 축소판이 Facebook 게시물에 자동으로 추가됩니다. 다음 단계를 참조하십시오.
 
-   **정적 내용 추가**&#x200B;를 선택한 경우 제목, 캡션 및 설명을 입력하고 이미지를 업로드합니다. 다음 2단계를 참조하십시오.
+   만약 **정적 콘텐츠 추가**&#x200B;제목, 캡션 및 설명을 입력하고 이미지를 업로드합니다. 다음 두 단계를 참조하십시오.
 
-1. 보기 및 편집 창에서 **편집 내용 표시**&#x200B;를 클릭하여 Facebook 게시물에 표시되는 공유 프롬프트 및 메시지를 사용자 지정합니다.
+1. 보기 및 편집 창에서 **편집 내용 표시** facebook 게시물에 표시되는 공유 프롬프트 및 메시지를 사용자 지정하려면 를 사용하십시오.
 
    >[!TIP]
    >
-   >자세한 내용은 [Facebook 리치 게시물 설정 편집](/help/marketo/product-docs/demand-generation/facebook/edit-facebook-rich-post-settings.md)을 참조하십시오.
+   >자세한 내용은 [facebook 리치 게시물 설정 편집](/help/marketo/product-docs/demand-generation/facebook/edit-facebook-rich-post-settings.md).
 
    ![](assets/image2014-9-22-11-3a54-3a36.png)
 
    >[!NOTE]
    >
-   >[공유 URL](/help/marketo/product-docs/demand-generation/social/social-functions/choose-the-share-url-for-a-social-app.md)은(는) 모든 공유 메시지에 자동으로 추가됩니다.
+   >다음 [공유 URL](/help/marketo/product-docs/demand-generation/social/social-functions/choose-the-share-url-for-a-social-app.md) 모든 공유 메시지에 자동으로 추가됩니다.
 
-1. 위의 **정적 컨텐츠 추가**&#x200B;를 선택한 경우 제목, 캡션 및 설명을 편집하고 사용자 지정 이미지(마케팅 이미지 및 파일에서)를 업로드합니다.
+1. 선택한 경우 **정적 콘텐츠 추가** 위에서 제목, 캡션 및 설명을 편집하고 사용자 지정 이미지(Marketo 이미지 및 파일)를 업로드합니다.
 
    ![](assets/image2014-9-22-11-3a55-3a14.png)
 
-   [Marketing](/help/marketo/product-docs/demand-generation/images-and-files/add-images-and-files-to-marketo.md)에 이미지 및 파일 추가를 참조하십시오.
+   자세한 내용은 [Marketo에 이미지 및 파일 추가](/help/marketo/product-docs/demand-generation/images-and-files/add-images-and-files-to-marketo.md).
 
    >[!NOTE]
    >
-   >이미지를 업로드하면 소셜 앱 편집기를 닫고 다시 열기 전까지 이미지가 표시되지 않습니다.
+   >이미지를 업로드하는 경우 소셜 앱 편집기를 닫았다가 다시 열 때까지 여기에 표시되지 않습니다.
 
-1. **다음**&#x200B;을 클릭합니다.
+1. 클릭 **다음**.
 
-선택하는 경우 페이지의 OpenGraph 태그(og:title, og:caption 및 og:description) 값과 축소판이 Facebook 게시물에 자동으로 추가됩니다. 다음 단계를 참조하십시오.
+를 선택하면 페이지의 OpenGraph 태그(og:title, og:caption 및 og:description)의 값과 축소판이 Facebook 게시물에 자동으로 추가됩니다. 다음 단계를 참조하십시오.
 
-## Twitter 메시지 {#configure-the-twitter-message} 구성
+## twitter 메시지 구성 {#configure-the-twitter-message}
 
-1. Twitter 트윗에 표시되는 공유 프롬프트 및 메시지를 편집하려면 클릭합니다.
+1. twitter 트윗에 표시될 공유 메시지와 메시지를 편집하려면 을(를) 클릭합니다.
 
    ![](assets/image2014-9-22-12-3a2-3a40.png)
 
    >[!TIP]
    >
-   >트윗 텍스트에 {html_title}을 사용하여 페이지의 제목을 자동으로 표시합니다.
+   >트윗 텍스트에 {html_title}을(를) 사용하여 페이지의 제목을 자동으로 표시합니다.
 
-1. **다음**&#x200B;을 클릭합니다.
+1. 클릭 **다음**.
 
-## LinkedIn 메시지 {#configure-the-linkedin-message} 구성
+## LinkedIn 메시지 구성 {#configure-the-linkedin-message}
 
-1. LinkedIn 게시물에 표시되는 메시지를 구성합니다.
+1. LinkedIn 게시물에 나타날 메시지를 구성합니다.
 
    ![](assets/image2014-9-22-12-3a3-3a21.png)
 
-   **동적** 컨텐트 추가를 선택하면 페이지 태그(제목 및 설명) 및 축소판의 값이 LinkedIn 게시물에 자동으로 추가됩니다. 다음 단계를 참조하십시오.
+   만약 **동적 추가** 컨텐츠, 페이지 태그 값(제목 및 설명) 및 축소판이 LinkedIn 게시물에 자동으로 추가됩니다. 다음 단계를 참조하십시오.
 
-   **정적** 콘텐트 추가를 선택하는 경우 제목, 캡션 및 설명을 입력하고 이미지를 업로드합니다. 다음 2단계를 참조하십시오.
+   만약 **정적 추가** 컨텐츠에서 제목, 캡션 및 설명을 입력하고 이미지를 업로드합니다. 다음 두 단계를 참조하십시오.
 
-1. **보기 및 편집** 창에서 **편집 내용 표시**&#x200B;를 클릭하고 LinkedIn 게시물에 나타날 공유 프롬프트와 메시지를 편집합니다.
+1. 에서 **보기 및 편집** 창 **편집 내용 표시** LinkedIn 게시물에 표시될 공유 메시지와 메시지를 편집합니다.
 
    ![](assets/image2014-9-22-12-3a3-3a38.png)
 
@@ -107,28 +106,28 @@ ht-degree: 0%
    >
    >게시물 텍스트에서 {html_title}을(를) 사용하여 페이지의 제목을 자동으로 표시합니다.
 
-1. 위의 **정적** 컨텐츠 추가를 선택한 경우 제목과 설명을 편집하고 사용자 지정 이미지를 업로드합니다(마케팅 이미지 및 파일에서).
+1. 선택한 경우 **정적 추가** 위의 컨텐츠를 편집하고, 제목 및 설명을 편집하고, 사용자 지정 이미지(Marketo 이미지 및 파일)를 업로드합니다.
 
    ![](assets/image2014-9-22-12-3a4-3a43.png)
 
-   [Marketing](/help/marketo/product-docs/demand-generation/images-and-files/add-images-and-files-to-marketo.md)에 이미지 및 파일 추가를 참조하십시오.
+   자세한 내용은 [Marketo에 이미지 및 파일 추가](/help/marketo/product-docs/demand-generation/images-and-files/add-images-and-files-to-marketo.md).
 
    >[!NOTE]
    >
-   >이미지를 업로드하면 소셜 앱 편집기를 닫고 다시 열기 전까지 이미지가 표시되지 않습니다.
+   >이미지를 업로드하는 경우 소셜 앱 편집기를 닫았다가 다시 열 때까지 여기에 표시되지 않습니다.
 
-1. **다음**&#x200B;을 클릭합니다.
+1. 클릭 **다음**.
 
-## 확인 메시지 {#configure-the-confirmation-message} 구성
+## 확인 메시지 구성 {#configure-the-confirmation-message}
 
 1. 공유 확인 텍스트를 편집합니다.
 
    ![](assets/image2014-9-22-12-3a5-3a30.png)
 
-1. **완료** > **승인** 및 **닫기**&#x200B;를 클릭합니다.
+1. 클릭 **완료** > **승인** 및 **닫기**.
 
    ![](assets/image2014-9-22-12-3a5-3a45.png)
 
 >[!MORELIKETHIS]
 >
->다음 단계는 [비디오 공유](/help/marketo/product-docs/demand-generation/social/configuring-social-actions/customize-video-share-flow.md) 또는 [투표](/help/marketo/product-docs/demand-generation/social/creating-a-poll/create-a-poll.md)를 랜딩 페이지, Facebook 또는 자신의 웹 사이트에 추가하는 것입니다.
+>다음 단계는 [비디오 공유 추가](/help/marketo/product-docs/demand-generation/social/configuring-social-actions/customize-video-share-flow.md) 또는 [투표](/help/marketo/product-docs/demand-generation/social/creating-a-poll/create-a-poll.md) 랜딩 페이지, Facebook 또는 자체 웹 사이트에 연결할 수 있습니다.

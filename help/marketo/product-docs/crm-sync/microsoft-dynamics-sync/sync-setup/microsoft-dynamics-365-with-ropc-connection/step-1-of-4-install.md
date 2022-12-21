@@ -71,7 +71,7 @@ Microsoft Dynamics 365와 Marketo을 동기화하려면 먼저 Dynamics에서 Ma
 
    ![](assets/image2015-3-11-11-3a34-3a9.png)
 
-1. 클릭 **닫기.**
+1. Click **Close.**
 
    >[!NOTE]
    >

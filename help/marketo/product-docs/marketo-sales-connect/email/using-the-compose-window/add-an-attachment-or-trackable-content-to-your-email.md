@@ -1,7 +1,7 @@
 ---
 unique-page-id: 37356587
 description: 전자 메일에 첨부 파일 또는 추적 가능한 컨텐츠 추가 - Marketo 문서 - 제품 설명서
-title: Add an Attachment or Trackable Content to Your Email
+title: 이메일에 첨부 파일 또는 추적 가능한 컨텐츠 추가
 exl-id: 06a80676-00bd-46d3-a989-ae503f7e76a6
 source-git-commit: 765ce4de418a5565ae7528a49a6947c1e1bb1f3f
 workflow-type: tm+mt
@@ -16,11 +16,11 @@ Sales Connect를 통해 이메일을 보낼 때 파일을 첨부 파일로 추�
 
 >[!NOTE]
 >
->Typically, any file over 20MB will be too large to be delivered. The size of an attachment you can send via email varies depending on the email delivery channel you’re using.
+>일반적으로 20MB가 넘는 파일은 너무 커서 배달할 수 없습니다. 이메일을 통해 보낼 수 있는 첨부 파일의 크기는 사용 중인 이메일 배달 채널에 따라 다릅니다.
 
 ## 첨부 파일 추가 {#add-an-attachment}
 
-1. Create your email draft (there are multiple ways to do this, in this example we&#39;re choosing **Compose** in the header).
+1. 이메일 초안을 만듭니다(이 예제에서는 여러 가지 방법으로 선택하겠습니다 **작성** 헤더).
 
    ![](assets/one-4.png)
 
@@ -66,7 +66,7 @@ Sales Connect를 통해 이메일을 보낼 때 파일을 첨부 파일로 추�
    >
    >파일을 업로드해야 하는 경우 **컨텐츠 업로드** 창 오른쪽 위에 있는 단추.
 
-   컨텐츠가 이메일에 링크로 나타납니다. The recipient can click the link to download the content.
+   컨텐츠가 이메일에 링크로 나타납니다. 수신자가 링크를 클릭하여 콘텐츠를 다운로드할 수 있습니다.
 
    ![](assets/five-2.png)
 

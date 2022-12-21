@@ -5,14 +5,14 @@ title: 템플릿 17A
 exl-id: 279fcad2-7c91-4898-9d5d-e83fcb8492af
 source-git-commit: bfcd66388b0d77cf3f1743b0778026a1e5a1ec61
 workflow-type: tm+mt
-source-wordcount: '0'
+source-wordcount: '60'
 ht-degree: 0%
 
 ---
 
 # 템플릿 17A {#template-17a}
 
-마우스 오른쪽 단추를 클릭하여 [템플릿 다운로드 17A](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-17a.html)
+마우스 오른쪽 단추를 클릭하여 [템플릿 17A 다운로드](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-17a.html)
 
 ![](assets/image2015-8-17-15-3a13-3a9.png)
 

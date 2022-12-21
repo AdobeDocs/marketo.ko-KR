@@ -16,7 +16,6 @@ ht-degree: 0%
 >
 >* [facebook 사용자 지정 대상을 LaunchPoint 서비스로 추가](/help/marketo/product-docs/demand-generation/ad-network-integrations/add-facebook-custom-audiences-as-a-launchpoint-service.md) 관리자 섹션에 있습니다.
 >* [facebook의 사용자 지정 대상 약관에 동의합니다](https://www.facebook.com/ads/manage/customaudiences/tos.php) facebook 계정 내에서 사용할 수 있습니다.
-
 >
 
 

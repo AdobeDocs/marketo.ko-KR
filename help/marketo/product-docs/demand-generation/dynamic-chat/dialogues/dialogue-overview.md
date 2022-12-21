@@ -4,8 +4,8 @@ title: 대화 상자 개요
 exl-id: 5ec17ad0-6d56-4c06-a6ac-4c5771b2d91d
 source-git-commit: f71ac0398b3a93d2c46201a696dd41e6ccd89000
 workflow-type: tm+mt
-source-wordcount: '0'
-ht-degree: 0%
+source-wordcount: '172'
+ht-degree: 2%
 
 ---
 

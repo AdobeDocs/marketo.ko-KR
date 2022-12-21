@@ -5,14 +5,14 @@ title: 템플릿 19A
 exl-id: 365b4442-da1b-4346-b0a4-2512b46f8677
 source-git-commit: bfcd66388b0d77cf3f1743b0778026a1e5a1ec61
 workflow-type: tm+mt
-source-wordcount: '0'
+source-wordcount: '58'
 ht-degree: 0%
 
 ---
 
 # 템플릿 19A {#template-19a}
 
-마우스 오른쪽 단추를 클릭하여 [템플릿 19A](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-19a.html) 다운로드
+마우스 오른쪽 단추를 클릭하여 [템플릿 19A 다운로드](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-19a.html)
 
 ![](assets/image2015-9-16-16-3a46-3a31.png)
 

@@ -6,7 +6,7 @@ exl-id: 66b5dac6-015f-4907-8c82-78c932102463
 source-git-commit: 56f429dabf19c4425c68b0dcd745621681a038ae
 workflow-type: tm+mt
 source-wordcount: '427'
-ht-degree: 0%
+ht-degree: 1%
 
 ---
 
@@ -50,7 +50,7 @@ ht-degree: 0%
 
 ## 개체 설명 {#object-descriptions}
 
-| 개체 | 설명 |
+| 오브젝트 | 설명 |
 |---|---|
 | 회사 | 사람과 연관된 회사의 이름입니다. |
 | 기회 | 잠재 미래 판매로 개인 또는 계정과 연관된 기회가 있을 수 있습니다. 일반적으로 CRM 또는 API를 통해 Marketo에 액세스합니다. |

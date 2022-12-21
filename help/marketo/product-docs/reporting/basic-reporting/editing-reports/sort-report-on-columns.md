@@ -1,25 +1,24 @@
 ---
 unique-page-id: 2359996
-description: 열 기준 보고서 정렬 - 마케팅 문서 - 제품 설명서
-title: 열 기준 보고서 정렬
-translation-type: tm+mt
-source-git-commit: 03ee7b69f691efce12825aa708c81dffa23cecd9
+description: 열에 대한 보고서 정렬 - Marketo 문서 - 제품 설명서
+title: 열에 대한 보고서 정렬
+exl-id: a31383b5-bb18-400b-945a-abecd2b19340
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '78'
 ht-degree: 0%
 
 ---
 
+# 열에 대한 보고서 정렬 {#sort-report-on-columns}
 
-# {#sort-report-on-columns} 열에 대한 보고서 정렬
+열을 사용하여 보고서의 데이터를 정렬하고 가장 중요한 숫자를 쉽게 찾을 수 있습니다.
 
-열을 사용하여 보고서의 데이터를 정렬하고 가장 중요한 수치를 쉽게 찾을 수 있습니다.
-
-1. **Analytics**(또는 **마케팅 활동**)으로 이동합니다.
+1. 이동 **Analytics** 또는 **마케팅 활동**).
 
    ![](assets/login-marketing-activities.png)
 
-1. 탐색 트리에서 보고서를 선택하고 **보고서** 탭을 클릭합니다.
+1. 탐색 트리에서 보고서를 선택하고 **보고서** 탭.
 
    ![](assets/reports2.jpg)
 

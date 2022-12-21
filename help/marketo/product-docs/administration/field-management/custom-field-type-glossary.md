@@ -1,138 +1,137 @@
 ---
 unique-page-id: 2951259
-description: 사용자 정의 필드 유형 용어집 - Marketo 문서 - 제품 설명서
-title: 사용자 지정 필드 유형 용어
+description: 사용자 지정 필드 유형 용어집 - Marketo 문서 - 제품 설명서
+title: 사용자 지정 필드 유형 용어집
 exl-id: 495d4deb-28f1-4044-98d3-27c20756fe73
-translation-type: tm+mt
 source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '583'
-ht-degree: 0%
+ht-degree: 1%
 
 ---
 
 # 사용자 지정 필드 유형 용어집 {#custom-field-type-glossary}
 
-Marketo에서 사용자 정의 필드를 만들면 선택할 유형 목록이 있습니다.
+Marketo에서 사용자 지정 필드를 만들면 선택할 유형 목록이 있습니다.
 
 >[!PREREQUISITES]
 >
->[Marketo에서 사용자 정의 필드 만들기](/help/marketo/product-docs/administration/field-management/create-a-custom-field-in-marketo.md)
+>[Marketo에서 사용자 지정 필드 만들기](/help/marketo/product-docs/administration/field-management/create-a-custom-field-in-marketo.md)
 
 >[!TIP]
 >
->필드 유형에 따라 [연산자](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/creating-a-smart-list/smart-list-filter-operators-glossary.md)가 다릅니다.
+>필드 유형에 따라 필터/트리거 [연산자](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/creating-a-smart-list/smart-list-filter-operators-glossary.md) 은 다릅니다.
 
 >[!NOTE]
 >
->대부분의 필드는 문자 수에서의 최대값을 초과하지 않고 바이트 수에서만 최대값을 유지합니다. 따라서 각 필드에 대해 정확한 문자 제한을 제공할 수 없습니다. 예외는 **String**&#x200B;이며 255자로 구성됩니다.
+>대부분의 필드는 최대 문자 수가 아니라 바이트 수만큼의 문자를 포함하지 않습니다. 따라서 각 필드에 대해 정확한 문자 제한을 제공할 수 없습니다. 예외는 다음과 같습니다 **문자열**: 255자로 표시됩니다.
 
 ## 부울 {#boolean}
 
-**예 이름:** 고객임 - 고객을 고객으로 태깅합니다.
+**예제 이름:** 고객입니까? - 고객에게 고객으로서 태깅
 
-**예 값:** True(선택됨) / False(선택 취소됨)
+**값 예:** True(선택됨) / False(선택 취소됨)
 
-**연산자**:없음
+**연산자**: 없음
 
 ## 통화 {#currency}
 
-**예 이름:** 예산 - 회사 예산에 대한 숫자 값을 저장합니다.
+**예제 이름:** 예산 - 회사 예산에 대한 숫자 값을 저장합니다.
 
-**예제 값:** 100
+**값 예:** 100년
 
-**연산자**:은(는) not, between, greged, less than, at most, is not empty입니다.
+**연산자**: is not, is between, between, greater than, least, is empty 는 비어 있지 않습니다.
 
 ## 날짜 {#date}
 
-**예 이름:** 갱신 날짜 - 고객 갱신 날짜 저장
+**예제 이름:** 갱신 날짜 - 고객 갱신 날짜 저장
 
 **값 예:** 8/19/14
 
-**연산자**:is, between, between, 과거, 미래의 다음, 시간 프레임, after, before, after, on 또는 after, on 또는 그 이전, 이 중 또는 그 이전, 은 비어 있지 않음
+**연산자**: is not, between, between, in 과거, 과거, 미래, 미래, 이후의, time frame, after, before, on 또는 after, on 또는 before, is empty 는 비어 있지 않습니다.
 
 ## Datetime {#datetime}
 
-**예 이름:** 만든 날짜 - 인물을 만든 날짜와 시간을 저장합니다.
+**예제 이름:** 생성 날짜 - 개인이 생성되는 날짜 및 시간을 저장합니다
 
 **값 예:** 8/19/14 2:00
 
-**연산자**:is, between, between, 과거, 미래의 다음, 시간 프레임, after, before, after, on 또는 after, on 또는 그 이전, 이 중 또는 그 이전, 은 비어 있지 않음
+**연산자**: is not, between, between, in 과거, 과거, 미래, 미래, 이후의, time frame, after, before, on 또는 after, on 또는 before, is empty 는 비어 있지 않습니다.
 
 ## 이메일 {#email}
 
-**예 이름:** 대체 이메일 - 사람들의 대체 이메일 주소를 유지합니다. (기본 이메일 주소 필드처럼 이 필드에 이메일을 실제로 보낼 수 없으며, 이 필드는 특별합니다.)
+**예제 이름:** 대체 이메일 - 사용자의 대체 이메일 주소를 유지합니다(기본 이메일 주소 필드와 같이 이 필드에 이메일을 실제로 보낼 수 없으며, 특별한 전자 메일 주소는 아님)
 
 **값 예:** name@company.com
 
-**연산자**:is not, starts with, not started with, not started with, contains, not contains, is empty가 아님
+**연산자**: is not, starts with, not starts with, not starts with, contains, not empty, is not empty
 
-## {#float} 부동
+## 부동 {#float}
 
-**예 이름:** 등급 포인트 평균 - 개인의 등급 포인트 평균 또는 소수가 있는 기타 모든 숫자 값을 유지합니다.
+**예제 이름:** 등급 포인트 평균 - 개인의 등급 포인트 평균 또는 소수가 있는 다른 숫자 값을 유지합니다
 
-**예제 값:** 2.47
+**값 예:** 2.47
 
-**연산자**:better, 보다 큼, 적어도 보다 작음, 적어도 대부분은 비어 있음, 비어 있지 않음
+**연산자**: between, greater than(보다 작음), least, is empty(비어 있음), is not empty
 
 ## 공식 {#formula}
 
-**예제 이름:** 분량 -  [솔루션에 있는 이 특수 필드를 사용하여 성에 따라 올바른 ](/help/marketo/product-docs/administration/field-management/create-and-use-a-concatenated-string-formula-field.md) 분포를 얻습니다.
+**예제 이름:** 솔루션 - [적절한 인사말 받기 위한 솔루션](/help/marketo/product-docs/administration/field-management/create-and-use-a-concatenated-string-formula-field.md) 성별 기준
 
-**값 예: 연결된 솔루션** 확인
+**값 예:** 연결된 솔루션 확인
 
 ## 정수 {#integer}
 
-**예 이름:** 직원 수 - 소수가 필요하지 않은 숫자 값을 저장합니다.
+**예제 이름:** 직원 수 - 소수가 필요하지 않은 숫자 값을 저장합니다.
 
-**예제 값:** 600
+**값 예:** 600년
 
-**연산자**:은(는) not, between, greged, less than, at most, is not empty입니다.
+**연산자**: is not, is between, between, greater than, least, is empty 는 비어 있지 않습니다.
 
-## 퍼센트 {#percent}
+## Percent {#percent}
 
-**예 이름:** 구매 가능성 - 백분율 값 저장(CRM 측에서 계산됨)
+**예제 이름:** 구매 가능성 있음 - 백분율 값 저장(CRM 측에서 계산됨)
 
-**예제 값:** 85%
+**값 예:** 85%
 
-**연산자**:은(는) not, between, greged, less than, at most, is not empty입니다.
+**연산자**: is not, is between, between, greater than, least, is empty 는 비어 있지 않습니다.
 
-## 전화 {#phone}
+## 휴대폰 {#phone}
 
-**예 이름:** 대체 전화 - 사용자를 위한 추가 전화 번호 저장
+**예제 이름:** 대체 전화 - 사용자의 추가 전화 번호를 저장합니다.
 
 **값 예:** 650-555-5555
 
-**연산자**:is not, starts with, not started with, not started with, contains, not contains, is empty가 아님
+**연산자**: is not, starts with, not starts with, not starts with, contains, not empty, is not empty
 
-## 점수 {#score}
+## 스코어 {#score}
 
-**예 이름:** 행동 점수/인구 통계 점수 - 여러 다른 속성을 추적할 여러 점수 필드를 만듭니다.
+**예제 이름:** 행동 점수/인구 통계 점수 - 여러 가지 특성을 추적할 여러 점수 필드를 만듭니다.
 
-**예 값:** 14
+**값 예:** 14
 
-**연산자**:은(는) not, between, greged, less than, at most, is not empty입니다.
+**연산자**: is not, is between, between, greater than, least, is empty 는 비어 있지 않습니다.
 
 ## 문자열 {#string}
 
-**예 이름:** 중간 이름 - 추가 텍스트 속성 저장
+**예제 이름:** 중간 이름 - 추가 텍스트 속성 저장
 
-**값 예:** 장미
+**값 예:** 로즈
 
-**연산자**:is not, starts with, not started with, not started with, contains, not contains, is empty가 아님
+**연산자**: is not, starts with, not starts with, not starts with, contains, not empty, is not empty
 
 ## 텍스트 영역 {#text-area}
 
-**예제 이름:** 주석 - 양식에 주석 필드를 추가하여 여러 줄의 텍스트 입력을 허용합니다.
+**예제 이름:** 댓글 - 양식에 댓글 필드를 추가하여 여러 줄 텍스트 입력 허용
 
-**값 예:** 이 문서는 환상적입니다!
+**값 예:** 이 기사는 정말 환상적이다!
 
-**연산자**:is not, starts with, not started with, not started with, contains, not contains, is empty가 아님
+**연산자**: is not, starts with, not starts with, not starts with, contains, not empty, is not empty
 
 ## URL {#url}
 
-**예 이름:** 블로그 - 개인 블로그 URL을 저장할 필드 만들기
+**예제 이름:** 블로그 - 개인 블로그 URL을 저장할 필드 만들기
 
 **값 예:** www.myblog.com
 
-**연산자**:is not, starts with, not started with, not started with, contains, not contains, is empty가 아님
+**연산자**: is not, starts with, not starts with, not starts with, contains, not empty, is not empty

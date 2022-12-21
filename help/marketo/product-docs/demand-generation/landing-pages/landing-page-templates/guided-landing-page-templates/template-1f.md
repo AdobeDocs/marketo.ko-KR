@@ -12,7 +12,7 @@ ht-degree: 0%
 
 # 템플릿 1F {#template-1f}
 
-마우스 오른쪽 단추를 클릭하여 [템플릿 1F](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-1f.html) 다운로드
+마우스 오른쪽 단추를 클릭하여 [템플릿 1F 다운로드](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-1f.html)
 
 ![](assets/image2015-5-29-9-3a9-3a19.png)
 

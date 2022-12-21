@@ -16,9 +16,9 @@ ht-degree: 0%
 
 ## 마케팅 달력 라이선스 {#marketing-calendar-licenses}
 
-2014년 9월 5일 이후에는 5명의 사용자만 마케팅 일정에 무료로 액세스할 수 있습니다. 중단 없는 액세스를 위해서는 먼저 선택한 사용자에게 [마케팅 달력 라이센스](/help/marketo/product-docs/core-marketo-concepts/marketing-calendar/understanding-the-calendar/issue-revoke-a-marketing-calendar-license.md)를 발행/취소하십시오.
+2014년 9월 5일 이후에는 5명의 사용자만 마케팅 일정에 무료로 액세스할 수 있습니다. 반드시 다음을 수행하십시오 [마케팅 달력 라이선스 문제/취소](/help/marketo/product-docs/core-marketo-concepts/marketing-calendar/understanding-the-calendar/issue-revoke-a-marketing-calendar-license.md) 중단된 액세스를 위해 그 전에 선택한 사용자에게 문의하십시오.
 
-![—](assets/image2014-9-16-9-3a45-3a52.png)
+![--](assets/image2014-9-16-9-3a45-3a52.png)
 
 ## 새 사용자 권한 {#new-user-permissions}
 
@@ -34,7 +34,7 @@ ht-degree: 0%
 
 ## 관리자에서 사용자 및 역할 내보내기 {#export-users-and-roles-from-admin}
 
-이제 Marketo에서 [사용자 및 역할 목록을 내보낼 수 있습니다](/help/marketo/product-docs/administration/users-and-roles/export-a-list-of-users-and-roles.md). 내보내기에 포함할 &quot;마지막 로그인&quot; 타임스탬프를 포함할 수도 있습니다.
+이제 다음을 수행할 수 있습니다 [사용자 및 역할 목록 내보내기](/help/marketo/product-docs/administration/users-and-roles/export-a-list-of-users-and-roles.md) Marketo에서 가져옵니다. 내보내기에 포함할 &quot;마지막 로그인&quot; 타임스탬프를 포함할 수도 있습니다.
 
 ![](assets/image2014-9-16-12-3a20-3a16.png)
 

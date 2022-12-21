@@ -52,7 +52,7 @@ facebook Offline Conversion 통합을 사용하면 Marketo(리드 광고 리드�
 
 **REST API**
 
-또한 이 릴리스를 사용하면 Marketo REST API를 사용하여 ABM에서 명명된 계정 속성 및 계정 점수를 관리할 수 있습니다. API 작업에 대한 자세한 내용은 [Marketo 개발자 웹 사이트](https://developers.marketo.com/rest-api/lead-database/named-accounts)를 참조하십시오.
+또한 이 릴리스를 사용하면 Marketo REST API를 사용하여 ABM에서 명명된 계정 속성 및 계정 점수를 관리할 수 있습니다. API 작업에 대한 자세한 내용은 [Marketo 개발자 웹 사이트](https://developers.marketo.com/rest-api/lead-database/named-accounts).
 
 ## [감사 추적 개선 사항](/help/marketo/product-docs/administration/audit-trail/change-details-in-audit-trail.md) {#audit-trail-enhancements}
 
@@ -66,11 +66,11 @@ facebook Offline Conversion 통합을 사용하면 Marketo(리드 광고 리드�
 
 **캠페인 제한 편집**
 
-적용할 수 없는 경우 [캠페인 제한](/help/marketo/product-docs/administration/email-setup/enable-person-restrictions-for-smart-campaigns.md)을 설정하는 이유는 무엇입니까? 이제 단일 캠페인으로 타겟팅할 수 있는 데이터베이스의 사용자 수를 제한하도록 캠페인 제한 설정을 설정하면 캠페인을 예약할 때 이러한 설정을 재정의할 수 있는 사용자를 제한할 수 있습니다.
+설정 이유 [캠페인 제한](/help/marketo/product-docs/administration/email-setup/enable-person-restrictions-for-smart-campaigns.md) 만약 당신이 그것을 강요할 수 없다면? 이제 단일 캠페인으로 타겟팅할 수 있는 데이터베이스의 사용자 수를 제한하도록 캠페인 제한 설정을 설정하면 캠페인을 예약할 때 이러한 설정을 재정의할 수 있는 사용자를 제한할 수 있습니다.
 
 ## [모바일 푸시 알림용 사운드](/help/marketo/product-docs/mobile-marketing/push-notifications/configure-mobile-push-notification.md) {#sound-for-mobile-push-notifications}
 
-사운드를 활성화하여 iOS 푸시 알림 이 추가된 풍부함을 제공합니다. 이 새 기능을 사용하면 모바일 장치에 푸시 알림이 표시될 때 사운드를 트리거할 수 있습니다.
+사운드를 활성화하여 iOS 푸시 알림에 추가된 풍부함을 제공합니다. 이 새 기능을 사용하면 모바일 장치에 푸시 알림이 표시될 때 사운드를 트리거할 수 있습니다.
 
 >[!NOTE]
 >
@@ -82,7 +82,7 @@ facebook Offline Conversion 통합을 사용하면 Marketo(리드 광고 리드�
 
 ## [Salesforce 암호화와 호환되는 Sales Insight](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/installation/install-marketo-sales-insight-package-in-salesforce-appexchange.md) {#sales-insight-compatible-with-salesforce-encryption}
 
-Market Sales Insight는 이제 Salesforce Shield Encryption과 호환됩니다. 모든 Sales Insight 고객은 Appexchange](https://appexchange.salesforce.com/listingDetail?listingId=a0N30000001SVZmEAO)에서 사용할 수 있는 이 최신 관리 패키지(버전 1.4359.2)로 업그레이드해야 합니다.[
+Market Sales Insight는 이제 Salesforce Shield Encryption과 호환됩니다. 모든 Sales Insight 고객은 최신 관리 패키지(버전 1.4359.2)로 업그레이드해야 합니다. [Appexchange에서 사용 가능](https://appexchange.salesforce.com/listingDetail?listingId=a0N30000001SVZmEAO).
 
 ## [명명된 계정 API](https://developers.marketo.com/rest-api/lead-database/named-accounts/) {#named-accounts-apis}
 
@@ -94,4 +94,4 @@ Marketo REST API를 사용하여 v2.0 형식의 이메일에 대한 변수 및 �
 
 ## [Marketo Salesforce 동기화 변경](https://nation.marketo.com/docs/DOC-3840) {#changes-to-marketo-salesforce-sync}
 
-Marketo의 Salesforce 통합은 Marketo 필드를 Salesforce와 동기화하는 방법을 개선하기 위해 진화하고 있습니다. 이제 필요 시 또는 필요하지 않은 대규모 필드 그룹을 동기화하지 않고 포함할 필드를 선택하고 선택할 수 있습니다. 자세한 내용은 설명서에서 다음을 확인하십시오. [https://nation.marketo.com/docs/DOC-3840](https://nation.marketo.com/docs/DOC-3840)
+Marketo의 Salesforce 통합은 Marketo 필드를 Salesforce와 동기화하는 방법을 개선하기 위해 진화하고 있습니다. 이제 필요 시 또는 필요하지 않은 대규모 필드 그룹을 동기화하지 않고 포함할 필드를 선택하고 선택할 수 있습니다. 자세한 내용은 설명서에서 다음을 확인하십시오. [https://nation.marketo.com/docs/DOC-3840](https://nation.marketo.com/docs/DOC-3840).

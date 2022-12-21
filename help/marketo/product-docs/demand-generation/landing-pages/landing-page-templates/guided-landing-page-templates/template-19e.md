@@ -5,14 +5,14 @@ title: 템플릿 19E
 exl-id: ab318a92-76b5-4ca6-bb51-6633ad498221
 source-git-commit: bfcd66388b0d77cf3f1743b0778026a1e5a1ec61
 workflow-type: tm+mt
-source-wordcount: '0'
+source-wordcount: '55'
 ht-degree: 0%
 
 ---
 
 # 템플릿 19E {#template-19e}
 
-마우스 오른쪽 단추를 클릭하여 [템플릿 19E](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-19e.html) 다운로드
+마우스 오른쪽 단추를 클릭하여 [템플릿 19E 다운로드](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-19e.html)
 
 ![](assets/image2015-9-16-17-3a4-3a14.png)
 

@@ -32,15 +32,15 @@ ht-degree: 0%
 
 ## 비즈니스 계정과 개인 계정을 어떻게 구분합니까? {#how-do-i-differentiate-business-accounts-and-person-accounts}
 
-스마트 목록의 **개인 계정임** 필터를 사용하여 개인 계정을 표준 비즈니스 계정과 구분하십시오.
+를 사용하십시오 **개인 계정임** 표준 비즈니스 계정과 개인 계정을 구분하도록 스마트 목록에 필터링합니다.
 
 ## Marketo Sales Insight에 표시되는 개인 계정 정보는 어디에 있습니까? {#where-is-my-person-accounts-information-displayed-in-marketo-sales-insight}
 
-개인 계정과 관련된 활동은 **계정** 패널에 표시됩니다.
+개인 계정과 관련된 활동은 **계정** 패널.
 
 >[!NOTE]
 >
->Marketo Sales Insight의 **Marketo Campaign에 추가** 및 **이메일 보내기** 옵션은 현재 개인 계정에 사용할 수 없습니다.
+>Marketo 영업 인사이트 **Marketo Campaign에 추가** 및 **이메일 보내기** 현재 개인 계정에 대해 옵션을 사용할 수 없습니다.
 
 ## 개인 계정에 기회를 연결하려면 어떻게 해야 합니까? {#how-do-i-associate-opportunities-to-a-person-account}
 
@@ -48,4 +48,4 @@ Marketo은 영업 기회를 연결할 사람을 결정하기 위해 영업 기�
 
 ## 개인 계정에 사용할 이메일 필드는 무엇입니까? {#which-email-field-should-i-use-for-person-accounts}
 
-개인 계정에 대한 두 개의 이메일 필드가 있습니다. 양식의 **이메일 주소** 필드(**개인 이메일 주소** 아님)를 사용하여 Marketo의 중복 제거 및 기타 이메일 처리가 제대로 작동하는지 확인하십시오.
+개인 계정에 대한 두 개의 이메일 필드가 있습니다. 를 사용하십시오 **이메일 주소** 양식의 필드(아님) **개인 이메일 주소**) Marketo의 중복 제거 및 기타 이메일 처리가 제대로 작동하는지 확인합니다.

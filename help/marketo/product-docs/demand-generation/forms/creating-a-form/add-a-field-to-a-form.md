@@ -1,29 +1,28 @@
 ---
 unique-page-id: 2359543
-description: 양식에 필드 추가 - 마케팅 문서 - 제품 설명서
+description: 양식에 필드 추가 - Marketo 문서 - 제품 설명서
 title: 양식에 필드 추가
-translation-type: tm+mt
-source-git-commit: ed83438ae5660d172e845f25c4d72d599574bd91
+exl-id: cda45a69-128b-4cdc-846e-637acb9555da
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '137'
 ht-degree: 0%
 
 ---
 
+# 양식에 필드 추가 {#add-a-field-to-a-form}
 
-# {#add-a-field-to-a-form} 양식에 필드 추가
+일단 [양식을 만들었습니다.](/help/marketo/product-docs/demand-generation/forms/creating-a-form/create-a-form.md) 및 [선택한 테마](/help/marketo/product-docs/demand-generation/forms/creating-a-form/select-a-form-theme.md)을 채울 수 있도록 필드를 더 추가할 수 있습니다. 방법은 다음과 같습니다.
 
-[양식](/help/marketo/product-docs/demand-generation/forms/creating-a-form/create-a-form.md)과 [테마](/help/marketo/product-docs/demand-generation/forms/creating-a-form/select-a-form-theme.md)을(를) 선택했으면 다른 사람이 채울 필드를 추가할 수 있습니다. 방법
-
-1. **마케팅 활동**&#x200B;으로 이동합니다.
+1. 이동 **마케팅 활동**.
 
    ![](assets/login-marketing-activities-2.png)
 
-1. 양식을 선택하고 **양식 편집**&#x200B;을 클릭합니다.
+1. 양식을 선택하고 을(를) 클릭합니다 **양식 편집**.
 
    ![](assets/editform-1.png)
 
-1. **+** 기호를 클릭합니다.
+1. 을(를) 클릭합니다. **+** 서명
 
    ![](assets/image2014-9-15-17-18-17.png)
 
@@ -35,16 +34,16 @@ ht-degree: 0%
 
    ![](assets/image2014-9-15-17-3a18-3a26.png)
 
-1. 필요한 만큼 필드를 추가하고 **완료**&#x200B;를 클릭합니다.
+1. 필요한 만큼 필드를 추가하고 을(를) 클릭합니다 **완료**.
 
    ![](assets/image2014-9-15-17-3a18-3a35.png)
 
-1. 이제 **승인 및 닫기**&#x200B;를 클릭합니다.
+1. 이제 **승인 및 닫기**.
 
    ![](assets/image2014-9-15-17-3a18-3a43.png)
 
 >[!NOTE]
 >
->양식 변경으로 인해 만든 랜딩 페이지 초안을 승인해야 합니다.
+>양식 변경 사항으로 인해 생성된 랜딩 페이지 초안을 승인해야 합니다.
 
-전혀 나쁘지 않아. 좋은 일을 계속해라! 다음에 [양식 필드를 필수](/help/marketo/product-docs/demand-generation/forms/creating-a-form/make-a-form-field-required.md)로 만드는 방법을 학습하는 것은 어떻습니까?
+전혀 나쁘진 않아 계속 좋은 일을 하세요! 방법을 배우는게 어때요 [양식 필드를 입력해야 합니다.](/help/marketo/product-docs/demand-generation/forms/creating-a-form/make-a-form-field-required.md) 다음?

@@ -4,7 +4,7 @@ title: 트리거 캠페인에 대한 우선순위 무시
 exl-id: cf9b4d27-0e4c-40cf-accd-4f4a102160cc
 source-git-commit: 48a49faa6a1fde1e9ac391c2bf0800123f6a5bac
 workflow-type: tm+mt
-source-wordcount: '245'
+source-wordcount: '220'
 ht-degree: 0%
 
 ---
@@ -27,25 +27,25 @@ ht-degree: 0%
 >
 >관리자 또는 관리자 권한이 있는 사용자만 캠페인 우선 순위 무시 액세스 권한이 있어야 합니다.
 
-1. 에서 [!UICONTROL 관리] 영역을 클릭합니다. **[!UICONTROL 사용자 및 역할]**.
+1. 에서 [!UICONTROL Admin] 영역을 클릭합니다. **[!UICONTROL Users & Roles]**.
 
    ![](assets/priority-override-for-trigger-campaigns-1.png)
 
-1. 을(를) 클릭합니다. **[!UICONTROL 역할]** 탭에서 액세스 권한을 부여할 사용자를 선택한 다음 **[!UICONTROL 역할 편집]**.
+1. 을(를) 클릭합니다. **[!UICONTROL Roles]** 탭에서 액세스 권한을 부여할 사용자를 선택한 다음 **[!UICONTROL Edit Role]**.
 
    ![](assets/priority-override-for-trigger-campaigns-2.png)
 
-1. 아래 [!UICONTROL 마케팅 활동 액세스], 선택 **[!UICONTROL 트리거 캠페인 우선 순위 편집]**. 클릭 **[!UICONTROL 저장]**.
+1. 아래 [!UICONTROL Access Marketing Activities], 선택 **[!UICONTROL Edit Trigger Campaign Priority]**. 클릭 **[!UICONTROL Save]**.
 
    ![](assets/priority-override-for-trigger-campaigns-3.png)
 
 ## 우선 순위 무시 {#override-priority}
 
-1. 트리거 캠페인을 찾습니다. 마우스 오른쪽 단추를 클릭하고 을 선택합니다. **[!UICONTROL 캠페인 우선 순위 무시]**.
+1. 트리거 캠페인을 찾습니다. 마우스 오른쪽 단추를 클릭하고 을 선택합니다. **[!UICONTROL Override Campaign Priority]**.
 
    ![](assets/priority-override-for-trigger-campaigns-4.png)
 
-1. 을(를) 클릭합니다. **[!UICONTROL 캠페인 우선 순위 무시]** 슬라이더를 사용하여 활성화하십시오. 새 우선 순위 수준을 선택하고 **[!UICONTROL 확인]**.
+1. 을(를) 클릭합니다. **[!UICONTROL Override Campaign Priority]** 슬라이더를 사용하여 활성화하십시오. 새 우선 순위 수준을 선택하고 **[!UICONTROL Confirm]**.
 
    ![](assets/priority-override-for-trigger-campaigns-5.png)
 
@@ -55,7 +55,7 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->* 캠페인의 기본 우선 순위를 [!UICONTROL 캠페인 큐] 아래에 [!UICONTROL 마케팅 활동]. 실행 비율을 높이려면 캠페인 우선 순위를 기본값보다 높은 한 수준 높게 설정하는 것이 좋습니다.
+>* 캠페인의 기본 우선 순위를 [!UICONTROL Campaign Queue] 아래에 [!UICONTROL Marketing Activities]. 실행 비율을 높이려면 캠페인 우선 순위를 기본값보다 높은 한 수준 높게 설정하는 것이 좋습니다.
 >* 사용자 설정 우선 순위는 캠페인을 사용할 수 있는 새로운 대상에만 적용됩니다. 이미 큐에 있는 사람은 영향을 받지 않습니다.
 >* 우선 순위 재정의가 캡처됩니다. [감사 추적](/help/marketo/product-docs/administration/audit-trail/audit-trail-overview.md).
 

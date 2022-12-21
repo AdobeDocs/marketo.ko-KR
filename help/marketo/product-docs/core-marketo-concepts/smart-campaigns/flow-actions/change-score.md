@@ -6,11 +6,11 @@ exl-id: bba77aa1-40ab-40e5-ad43-f8cf0b235d3b
 source-git-commit: 0b1c7c7f7cd0becc17ec7636977f34a7d23ca448
 workflow-type: tm+mt
 source-wordcount: '94'
-ht-degree: 0%
+ht-degree: 2%
 
 ---
 
-# 점수 {#change-score} 변경
+# 점수 변경 {#change-score}
 
 ## 개요 {#overview}
 
@@ -26,7 +26,7 @@ ht-degree: 0%
 
    >[!TIP]
    >
-   >여러 점수 필드를 만들 수 있습니다. 자세한 내용은 Marketo](/help/marketo/product-docs/administration/field-management/create-a-custom-field-in-marketo.md)에서 [사용자 지정 필드 만들기 를 참조하십시오.
+   >여러 점수 필드를 만들 수 있습니다. 자세한 내용은 [Marketo에서 사용자 지정 필드 만들기](/help/marketo/product-docs/administration/field-management/create-a-custom-field-in-marketo.md) 자세한 내용
 
 1. 원하는 점수 변경을 입력합니다.
 
@@ -34,9 +34,9 @@ ht-degree: 0%
 
    변경 사항:
 
-   * **+5** 에서 증가
-   * **-5** 이 감소합니다(음수가 허용됨).
-   * **= 5** 는 정확한 숫자를 표시합니다.
-   * **=-5** 를 사용하면 정확한 음수가 됩니다
+   * **+5** 증가
+   * **-5** 감소합니다(음수가 허용됨).
+   * **= 5** 정확한 숫자를 기록하게 됩니다
+   * **=-5** 정확한 음수로 점수를 매깁니다
 
 몇 가지 기본 점수를 빨리 받고 그 결과를 시간이 지남에 따라 조정하세요. 그게 우리가 한 일이야!

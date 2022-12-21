@@ -6,7 +6,7 @@ exl-id: 21c7a136-eafd-4851-a4dd-0e10bb5dacde
 source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '139'
-ht-degree: 0%
+ht-degree: 1%
 
 ---
 
@@ -34,7 +34,7 @@ ht-degree: 0%
    >
    >이 화면에서 오퍼의 규칙(약관)에 대한 링크를 추가할 수도 있습니다. 자세한 내용은 [참조 오퍼 만들기](/help/marketo/product-docs/demand-generation/social/referral-offers/create-a-referral-offer.md).
 
-1. 개인정보 처리방침 링크(및 규칙 링크)는 메시지 공유 화면의 맨 아래에 표시됩니다. 예:
+1. 개인정보 처리방침 링크(및 규칙 링크)는 메시지 공유 화면의 맨 아래에 표시됩니다. For example:
 
    ![](assets/image2014-9-22-10-3a52-3a16.png)
 

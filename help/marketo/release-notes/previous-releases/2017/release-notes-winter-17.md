@@ -38,7 +38,7 @@ ht-degree: 0%
 
 ## 로컬라이제이션 {#localization}
 
-이제 웹 개인화, 예측 컨텐츠 및 이메일 인사이트 앱을 일본어, 독일어 및 스페인어로 사용할 수 있습니다. [언어 및 로케일](/help/marketo/product-docs/administration/settings/select-your-language-locale-and-time-zone.md)을 선택하여 해당 언어로 콘텐츠를 봅니다.
+이제 웹 개인화, 예측 컨텐츠 및 이메일 인사이트 앱을 일본어, 독일어 및 스페인어로 사용할 수 있습니다. 사용자 [언어 및 로케일 선택](/help/marketo/product-docs/administration/settings/select-your-language-locale-and-time-zone.md) 콘텐츠를 해당 언어로 볼 수 있습니다.
 
 ![](assets/japanese-web-personalization.png)
 
@@ -82,7 +82,7 @@ ht-degree: 0%
 
 ## [SDK 개선 사항](https://developers.marketo.com/mobile/) {#sdk-enhancements}
 
-이제 개발자는 개발자가 푸시 토큰을 제거할 수 있는 새 SDK API 호출을 추가하여 푸시 알림 전달을 추가로 제어할 수 있습니다.
+이제 개발자는 개발자가 푸시 토큰을 제거할 수 있는 새로운 SDK API 호출을 추가하여 푸시 알림 전달을 추가로 제어할 수 있습니다.
 
 ## [SMS LaunchPoint 통합을 살펴봅니다](/help/marketo/product-docs/mobile-marketing/vibes-sms-messages/use-vibes-sms-messages-in-smart-list-triggers-and-filters.md) {#vibes-sms-launchpoint-integration}
 

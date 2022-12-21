@@ -37,7 +37,7 @@ Microsoft Dynamics에 처음 동기화하면 Marketo용 플러그인의 최신 �
   <tr> 
    <th colspan="1">버전</th> 
    <th colspan="1">릴리스 날짜</th> 
-   <th>참고</th> 
+   <th>참고 사항</th> 
   </tr> 
   <tr> 
    <td colspan="1">5.0.1.1</td> 

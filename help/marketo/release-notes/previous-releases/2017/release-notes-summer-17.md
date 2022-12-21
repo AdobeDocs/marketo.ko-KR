@@ -42,7 +42,7 @@ Marketo 라이프사이클 단계에 매핑할 오프라인 전환 단계를 최
 
 **[캠페인 미리 보기 개선 사항](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/preview-and-test-a-web-campaign.md)**
 
-마케팅 담당자는 이제 웹 캠페인이 시작하기 전에 *모든 장치에서 잘 보이도록 할 수 있습니다.* 이러한 개선 사항을 통해 데스크탑, 모바일 장치 및 태블릿에서 웹 캠페인이 어떻게 렌더링되는지 확인하십시오. 또한, Chrome용 새 플러그인은 보다 일관되고 정확한 미리 보기를 제공합니다.
+마케팅 담당자는 이제 모든 장치에서 웹 캠페인이 잘 보이도록 할 수 있습니다 *이전* 실행 중입니다. 이러한 개선 사항을 통해 데스크탑, 모바일 장치 및 태블릿에서 웹 캠페인이 어떻게 렌더링되는지 확인하십시오. 또한, Chrome용 새 플러그인은 보다 일관되고 정확한 미리 보기를 제공합니다.
 
 **[위젯 캠페인 개선 사항](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/create-a-new-widget-web-campaign.md)**
 
@@ -58,12 +58,12 @@ Marketo 라이프사이클 단계에 매핑할 오프라인 전환 단계를 최
 
 더 심층적인 분석 및 AI 기반의 콘텐츠 제안을 통해 콘텐츠 마케팅에 대한 수익을 높여 참여를 높일 수 있습니다. 강력한 분석 기능은 인기 있는 보기, 트렌드 및 대상 기반 보기를 포함하여 권장 컨텐츠가 수행되는 방식을 보여줍니다. 포함할 추가 컨텐츠에 대한 제안 사항도 표시됩니다.
 
-## Analytics {#analytics}
+## 분석 {#analytics}
 
 **향상된 이메일 통찰력**
 
-데이터를 준비하고 공유할 수 있는 새로운 방법을 통해 이메일 인사이트 경험을 통해 더 많은 정보를 얻을 수 있습니다. 이제 이메일 인사이트 결과를 Microsoft Excel 및 PowerPoint로 다운로드하여 Marketo 외부의 데이터로 작업할 수 있습니다.
+데이터를 준비하고 공유할 수 있는 새로운 방법을 통해 이메일 인사이트 경험을 통해 더 많은 정보를 얻을 수 있습니다. 이제 이메일 통찰력 결과를 Microsoft Excel 및 PowerPoint로 다운로드하여 Marketo 외부의 데이터로 작업할 수 있습니다.
 
 ## 페더레이션 ID 구성 지원 {#federated-identity-configuration-support}
 
-클라우드에서 Microsoft Dynamics CRM을 계속 사용하는 동안 방화벽 온-프레미스에서 인증(Active Directory)을 유지합니다.
+클라우드에서 Microsoft Dynamics CRM을 계속 사용하면서 방화벽 온-프레미스 뒤에서 인증(Active Directory)을 유지합니다.

@@ -1,29 +1,28 @@
 ---
 unique-page-id: 2360201
-description: 사람 보고서에 사용자 지정 열 추가 - 마케팅 문서 - 제품 설명서
-title: 사람 보고서에 사용자 지정 열 추가
-translation-type: tm+mt
-source-git-commit: 03ee7b69f691efce12825aa708c81dffa23cecd9
+description: 개인 보고서에 사용자 지정 열 추가 - Marketo 문서 - 제품 설명서
+title: 개인 보고서에 사용자 지정 열 추가
+exl-id: 8604b3dc-fc8c-491e-8ffd-a5d5a9597ae1
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '97'
 ht-degree: 0%
 
 ---
 
+# 개인 보고서에 사용자 지정 열 추가 {#add-custom-columns-to-a-person-report}
 
-# 사람 보고서에 사용자 지정 열 추가 {#add-custom-columns-to-a-person-report}
+을 사용하여 개인 보고서의 지표를 추가로 필터링할 수 있습니다 [스마트 목록](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/understanding-smart-lists.md) 를 사용자 지정 열로 추가할 수 있습니다.
 
-사용자 지정 열로 [스마트 목록](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/understanding-smart-lists.md)을 사용하여 개인 보고서에서 지표를 추가로 필터링할 수 있습니다.
-
-1. **마케팅 활동**(또는 **분석**) 영역으로 이동합니다.
+1. 로 이동합니다. **마케팅 활동** 또는 **Analytics**) 영역 내에 있어야 합니다.
 
    ![](assets/ma-1.png)
 
-1. 보고서를 선택하고 **설정** 탭을 클릭합니다.
+1. 보고서를 선택하고 **설정** 탭.
 
    ![](assets/two-1.png)
 
-1. **사용자 지정 열** 위로 드래그합니다.
+1. 드래그 **사용자 지정 열**.
 
    ![](assets/three-1.png)
 
@@ -31,10 +30,10 @@ ht-degree: 0%
 
    ![](assets/image2014-9-16-16-3a39-3a34.png)
 
-1. 네가 한 거야! **보고서** 탭을 클릭하여 새 열이 있는 보고서를 봅니다.
+1. 네가 해냈어! 을(를) 클릭합니다. **보고서** 탭을 클릭하여 새 열이 있는 보고서를 확인합니다.
 
    ![](assets/five-1.png)
 
    >[!MORELIKETHIS]
    >
-   >[리드 보고서에 기회 열 추가](/help/marketo/product-docs/reporting/basic-reporting/editing-reports/add-opportunity-columns-to-a-lead-report.md)도 가능합니다.
+   >다음을 수행할 수도 있습니다 [리드 보고서에 기회 열 추가](/help/marketo/product-docs/reporting/basic-reporting/editing-reports/add-opportunity-columns-to-a-lead-report.md).

@@ -5,14 +5,14 @@ title: 템플릿 4B
 exl-id: cb4b3632-de12-4f99-a2ce-e52f286f6a35
 source-git-commit: bfcd66388b0d77cf3f1743b0778026a1e5a1ec61
 workflow-type: tm+mt
-source-wordcount: '0'
+source-wordcount: '64'
 ht-degree: 0%
 
 ---
 
 # 템플릿 4B {#template-4b}
 
-마우스 오른쪽 단추를 클릭하여 [템플릿 4B](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-4b.html) 다운로드
+마우스 오른쪽 단추를 클릭하여 [템플릿 4B 다운로드](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-4b.html)
 
 ![](assets/image2015-7-24-10-3a22-3a15.png)
 

@@ -5,14 +5,14 @@ title: 템플릿 18D
 exl-id: db998446-12a1-4fd9-9709-3ac08b8ceefa
 source-git-commit: bfcd66388b0d77cf3f1743b0778026a1e5a1ec61
 workflow-type: tm+mt
-source-wordcount: '0'
+source-wordcount: '60'
 ht-degree: 0%
 
 ---
 
 # 템플릿 18D {#template-18d}
 
-마우스 오른쪽 단추를 클릭하여 [템플릿 18D](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-18d.html) 다운로드
+마우스 오른쪽 단추를 클릭하여 [템플릿 18D 다운로드](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-18d.html)
 
 ![](assets/image2015-8-17-18-3a21-3a27.png)
 

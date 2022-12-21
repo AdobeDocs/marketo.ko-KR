@@ -6,7 +6,7 @@ hidefromtoc: true
 exl-id: 5273f7f4-a636-4976-aee6-fc0d5c27bdfc
 source-git-commit: 59768a413038472e38d28e5fb8bcadc4419b360d
 workflow-type: tm+mt
-source-wordcount: '196'
+source-wordcount: '181'
 ht-degree: 0%
 
 ---
@@ -30,22 +30,22 @@ ht-degree: 0%
 
    ![](assets/setting-an-event-cap-1.png)
 
-1. 개요에서 [!UICONTROL 이벤트 상한] 을(를) 클릭합니다. **[!UICONTROL 설정되지 않음]**.
+1. 개요에서 [!UICONTROL Event Cap] 을(를) 클릭합니다. **[!UICONTROL Not Set]**.
 
    ![](assets/setting-an-event-cap-2.png)
 
-1. 이벤트에 등록할 수 있는 최대 사용자 수를 입력하고 을(를) 클릭합니다 **[!UICONTROL 다음]**.
+1. 이벤트에 등록할 수 있는 최대 사용자 수를 입력하고 을(를) 클릭합니다 **[!UICONTROL Next]**.
 
    ![](assets/setting-an-event-cap-3.png)
 
-1. 을(를) 클릭합니다. [!UICONTROL 등록 페이지] 드롭다운을 클릭하고 등록 페이지로 사용될 랜딩 페이지를 선택합니다.
+1. 을(를) 클릭합니다. [!UICONTROL Registration Page] 드롭다운을 클릭하고 등록 페이지로 사용될 랜딩 페이지를 선택합니다.
 
    ![](assets/setting-an-event-cap-4.png)
 
-1. 을(를) 클릭합니다. **[!UICONTROL 등록 전체 페이지]** 드롭다운을 클릭하고 등록 전체 페이지로 작동할 랜딩 페이지를 선택합니다. 클릭 **[!UICONTROL 설정 및 활성화]** 완료 시.
+1. 을(를) 클릭합니다. **[!UICONTROL Registration Full Page]** 드롭다운을 클릭하고 등록 전체 페이지로 작동할 랜딩 페이지를 선택합니다. 클릭 **[!UICONTROL Set and Enable]** 완료 시.
 
    ![](assets/setting-an-event-cap-5.png)
 
-   다 끝났어 이벤트 상한 세부 사항을 편집하려면 옆에 있는 파란색 텍스트를 클릭합니다 [!UICONTROL 이벤트 상한].
+   다 끝났어 이벤트 상한 세부 사항을 편집하려면 옆에 있는 파란색 텍스트를 클릭합니다 [!UICONTROL Event Cap].
 
    ![](assets/setting-an-event-cap-6.png)

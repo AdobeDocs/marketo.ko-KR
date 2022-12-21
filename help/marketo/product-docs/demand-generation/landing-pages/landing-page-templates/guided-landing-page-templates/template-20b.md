@@ -5,14 +5,14 @@ title: 템플릿 20B
 exl-id: 53a993ae-934d-47b0-98c1-f4e88d4f1b1e
 source-git-commit: bfcd66388b0d77cf3f1743b0778026a1e5a1ec61
 workflow-type: tm+mt
-source-wordcount: '0'
+source-wordcount: '57'
 ht-degree: 0%
 
 ---
 
 # 템플릿 20B {#template-20b}
 
-마우스 오른쪽 단추를 클릭하여 [템플릿 20B](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-20b.html) 다운로드
+마우스 오른쪽 단추를 클릭하여 [템플릿 20B 다운로드](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-20b.html)
 
 ![](assets/template-20b.png)
 

@@ -1,17 +1,16 @@
 ---
 unique-page-id: 1147023
-description: Webhook - Marketo Docs - 제품 설명서
-title: Webhook에 문의
+description: Webhook 호출 - Marketo 문서 - 제품 설명서
+title: Webhook 호출
 exl-id: b2f69502-e459-4277-9725-7bbb3578384f
-translation-type: tm+mt
 source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '79'
-ht-degree: 0%
+ht-degree: 2%
 
 ---
 
-# Webhook {#call-webhook} 호출
+# Webhook 호출 {#call-webhook}
 
 >[!PREREQUISITES]
 >
@@ -19,21 +18,21 @@ ht-degree: 0%
 
 ## 개요 {#overview}
 
-Webhook을 사용하면 타사 서비스와 상호 작용할 수 있습니다. 스마트한 캠페인 흐름에서 웹 후크를 호출하여 정보를 전송/받습니다.
+Webhooks를 사용하면 타사 서비스와 상호 작용할 수 있습니다. 스마트 캠페인 흐름에서 웹 후크를 호출하여 정보를 전송/수신합니다.
 
 ![](assets/image2014-9-22-15-3a4-3a7.png)
 
 >[!NOTE]
 >
->[Webhook](https://developers.marketo.com/documentation/webhooks/)이(가) 귀하에게 제공할 수 있는 여러 가지 매력적인 기능에 대해 알아보십시오.
+>많은 흥미로운 것들에 대해 배워라 [Webhooks](https://developers.marketo.com/documentation/webhooks/) 할 수 있습니다.
 
-## 사용량 {#usage}
+## 사용 {#usage}
 
-드롭다운에서 **웹후크**&#x200B;를 선택합니다.
+선택 **Webhook** 드롭다운
 
 ![](assets/image2014-9-22-15-3a4-3a25.png)
 
-그게 다예요! 이제 사람들이 스마트 캠페인 플로우에 들어갈 때마다 웹 후크가 호출됩니다.
+그게 다야! 이제 사람들이 스마트 캠페인 플로우에 들어갈 때마다 웹 후크가 호출됩니다.
 
 >[!MORELIKETHIS]
 >

@@ -1,9 +1,8 @@
 ---
 unique-page-id: 1147093
 description: 프로그램의 로컬 자산 이해 - Marketo 문서 - 제품 설명서
-title: 프로그램의 로컬 자산 이해
+title: 프로그램에서 로컬 자산 이해
 exl-id: aa577b2b-f77c-41cc-aa47-59ce2d189530
-translation-type: tm+mt
 source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '101'
@@ -11,15 +10,15 @@ ht-degree: 4%
 
 ---
 
-# 프로그램 {#understanding-local-assets-in-a-program}의 로컬 자산 이해
+# 프로그램에서 로컬 자산 이해 {#understanding-local-assets-in-a-program}
 
-로컬 자산은 프로그램을 구성하는 컨텐츠입니다. 에셋은 사용자 요구에 맞게 변경할 수 있으며 자동화된 마케팅 전략을 구축할 수 있습니다. 다음은 프로그램에서 만들 수 있는 대부분의 로컬 에셋을 보는 것입니다.
+로컬 자산은 프로그램을 구성하는 콘텐츠입니다. 자산은 사용자 지정할 수 있으며 자동화된 마케팅 이니셔티브를 구축할 수 있도록 해줍니다. 다음은 프로그램에서 만들 수 있는 대부분의 로컬 자산을 보여 줍니다.
 
 ![](assets/one.png)
 
 >[!NOTE]
 >
->모든 고객이 이용 가능한 모든 에셋을 이용할 수 있는 것은 아닙니다. 자세한 내용은 계정 담당자에게 문의하십시오.
+>모든 고객이 사용 가능한 모든 자산에 액세스할 수 있는 것은 아닙니다. 자세한 내용은 계정 담당자에게 문의하십시오.
 
 * [스마트 캠페인](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/creating-a-smart-campaign/understanding-batch-and-trigger-smart-campaigns.md)
 * [목록](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/static-lists/understanding-static-lists.md)
@@ -36,4 +35,4 @@ ht-degree: 4%
 * [여론 조사](/help/marketo/product-docs/demand-generation/social/creating-a-poll/create-a-poll.md)
 * [추천 시 제공 경품](/help/marketo/product-docs/demand-generation/social/referral-offers/create-a-referral-offer.md)
 * [경품 추첨](/help/marketo/product-docs/demand-generation/social/sweepstakes/create-sweepstakes.md)
-* [동영상 SMS 메시지](/help/marketo/product-docs/mobile-marketing/vibes-sms-messages/create-a-vibes-sms-message.md)
+* [SMS 메시지 보기](/help/marketo/product-docs/mobile-marketing/vibes-sms-messages/create-a-vibes-sms-message.md)

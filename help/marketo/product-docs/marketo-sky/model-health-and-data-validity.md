@@ -3,9 +3,10 @@ description: 모델 상태 및 데이터 유효성 - Marketo 문서 - 제품 설
 title: 모델 상태 및 데이터 유효성
 hide: true
 hidefromtoc: true
-source-git-commit: ab20d9683aa5987778970fd32793dc0f3056c84b
+exl-id: fdb4ae1c-a638-4aa3-aa09-1993760b8be5
+source-git-commit: d229d152cbdae4f6b2e35700b85052d9c0b748d6
 workflow-type: tm+mt
-source-wordcount: '199'
+source-wordcount: '192'
 ht-degree: 0%
 
 ---
@@ -20,7 +21,7 @@ ht-degree: 0%
 
 여러분의 모델 건강을 평가하는 방법은 다음과 같습니다.
 
-로 이동합니다 **[!UICONTROL 모델 및 데이터 상태]** 섹션 **[!UICONTROL Predictive Audiences]** 에서 **[!UICONTROL 관리]** Marketo Classic 영역. 모든 모델과 상태를 확인할 수 있습니다.
+로 이동합니다 **[!UICONTROL Models and Data Health]** 섹션 **[!UICONTROL Predictive Audiences]** 에서 **[!UICONTROL Admin]** Marketo Classic 영역. 모든 모델과 상태를 확인할 수 있습니다.
 
 ![이미지 원](assets/model-health-and-data-validity-1.png)
 
