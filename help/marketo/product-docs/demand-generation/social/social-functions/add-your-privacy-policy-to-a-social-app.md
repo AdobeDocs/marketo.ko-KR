@@ -1,7 +1,7 @@
 ---
 unique-page-id: 2950545
 description: 소셜 앱에 개인정보 처리방침 추가 - Marketo 문서 - 제품 설명서
-title: 소셜 앱에 개인 정보 정책 추가
+title: 소셜 앱에 개인정보 처리방침 추가
 exl-id: 21c7a136-eafd-4851-a4dd-0e10bb5dacde
 source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt

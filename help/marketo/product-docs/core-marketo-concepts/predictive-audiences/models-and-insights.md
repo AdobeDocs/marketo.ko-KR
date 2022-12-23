@@ -4,7 +4,7 @@ title: 모델 및 통찰력
 exl-id: 7a01d6f0-000a-4b9a-8abb-9e7f9c4b1679
 source-git-commit: e6b6fc5e3414936390a15dfb2034cfa4980169fb
 workflow-type: tm+mt
-source-wordcount: '187'
+source-wordcount: '194'
 ht-degree: 0%
 
 ---
@@ -19,7 +19,7 @@ ht-degree: 0%
 
 여러분의 모델 건강을 평가하는 방법은 다음과 같습니다.
 
-로 이동합니다 **[!UICONTROL Models and Data Health]** 섹션 **[!UICONTROL Predictive Audiences]** 에서 **[!UICONTROL Admin]** Marketo Engage 영역. 모든 모델과 상태를 확인할 수 있습니다.
+로 이동합니다 **[!UICONTROL 모델 및 데이터 상태]** 섹션 **[!UICONTROL Predictive Audiences]** 에서 **[!UICONTROL 관리]** Marketo Engage 영역. 모든 모델과 상태를 확인할 수 있습니다.
 
 ![이미지 원](assets/models-and-insights-1.png)
 

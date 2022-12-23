@@ -22,7 +22,7 @@ ht-degree: 0%
 
    ![](assets/smartlist-sltab.png)
 
-1. 오른쪽 필터 패널에서 을(를) 검색하고 드래그합니다 **목록 멤버** 캔버스로 필터링합니다.
+1. 오른쪽 필터 패널에서 을 검색하고 드래그합니다 **목록 멤버** 캔버스로 필터링합니다.
 
    ![](assets/use-members-of-list-in-a-smart-list-2nd.png)
 

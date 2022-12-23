@@ -46,7 +46,7 @@ ht-degree: 0%
 
    >[!NOTE]
    >
-   >이 화면에서 개인정보 처리방침 링크를 추가할 수도 있습니다. 자세한 내용은  [소셜 앱에 개인정보 처리방침 추가](/help/marketo/product-docs/demand-generation/social/social-functions/add-your-privacy-policy-to-a-social-app.md).
+   >이 화면에서 개인정보 처리방침 링크를 추가할 수도 있습니다. 자세한 내용은  [소셜 앱에 개인 정보 정책 추가](/help/marketo/product-docs/demand-generation/social/social-functions/add-your-privacy-policy-to-a-social-app.md).
 
 1. 클릭 **완료**.
 
