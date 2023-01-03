@@ -1,9 +1,9 @@
 ---
 description: 릴리스 노트 - 2022년 10월 - Marketo 문서 - 제품 설명서
 title: 릴리스 노트 - 2022년 10월
-source-git-commit: 39eb451117a5f165ceccc0435db77aa22f1bfdcd
+source-git-commit: ea0512aedc41694dfd12801a45a1969a7561debc
 workflow-type: tm+mt
-source-wordcount: '628'
+source-wordcount: '634'
 ht-degree: 3%
 
 ---
@@ -24,7 +24,7 @@ ht-degree: 3%
 
 </br>
 
-* **프로그램 구성원 사용자 지정 필드 동기화**: 프로그램 구성원에 대해 캡처한 확장 가능한 필드(예: 음식, 세션, 트랙 등의 이벤트 등록 중 참석자 환경 설정)를 양방향 동기화할 수 있습니다.
+* **프로그램 구성원 사용자 지정 필드 동기화**: 프로그램 구성원에 대해 캡처한 확장 가능한 필드(예: 음식, 세션, 트랙 등의 이벤트 등록 중 참석자 환경 설정)를 양방향 동기화할 수 있습니다. Salesforce에서 캠페인 멤버 필드 사용.
 
 <table> 
   <tr> 
