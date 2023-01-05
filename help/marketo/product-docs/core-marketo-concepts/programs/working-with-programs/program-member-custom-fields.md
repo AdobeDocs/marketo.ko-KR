@@ -3,9 +3,9 @@ unique-page-id: 37355569
 description: 프로그램 구성원 사용자 지정 필드 - Marketo 문서 - 제품 설명서
 title: 프로그램 구성원 사용자 정의 필드
 exl-id: 66b5dac6-015f-4907-8c82-78c932102463
-source-git-commit: 56f429dabf19c4425c68b0dcd745621681a038ae
+source-git-commit: 10f7bf5b8b3fd91e98550ab281e5ddda87b1c30b
 workflow-type: tm+mt
-source-wordcount: '427'
+source-wordcount: '432'
 ht-degree: 1%
 
 ---
@@ -13,10 +13,6 @@ ht-degree: 1%
 # 프로그램 구성원 사용자 정의 필드 {#program-member-custom-fields}
 
 프로그램 멤버 사용자 정의 필드를 사용하면 각 멤버에 대한 프로그램별 데이터를 수집할 수 있습니다. 다음 위치에서 사용할 수 있습니다. Marketo 양식, 스마트 목록 필터 및 트리거, Smart Campaign 흐름 작업. 이 데이터는 프로그램의 멤버 탭에서 볼 수 있습니다.
-
->[!NOTE]
->
->현재 프로그램 구성원 사용자 지정 필드에는 Salesforce 캠페인 구성원 필드와 통합되지 않습니다.
 
 ## 프로그램 멤버 사용자 정의 필드 만들기 {#create-a-program-member-custom-field}
 
@@ -67,6 +63,7 @@ ht-degree: 1%
 
 * 프로그램 멤버 사용자 지정 필드는 로컬 자산에서만 사용할 수 있습니다. 특정 프로그램에 연결할 방법이 없으므로 Design Studio에서는 지원되지 않습니다.
 * 프로그램 구성원 사용자 지정 필드가 포함된 양식(또는 양식이 있는 랜딩 페이지)을 Design Studio로 복제/이동할 수 없습니다.
+* [동기화할 수 있습니다.](/help/marketo/product-docs/core-marketo-concepts/programs/working-with-programs/program-member-custom-field-sync.md){target=&quot;_blank&quot;} 캠페인 구성원 사용자 지정 필드가 있는 프로그램 구성원 사용자 지정 필드.
 * 프로그램 멤버 개체에는 최대 20개의 사용자 지정 필드가 있을 수 있습니다. 이러한 필드는 모든 프로그램에서 사용할 수 있습니다.
 * 프로그램 멤버를 제거할 때 해당 프로그램 멤버 사용자 정의 필드에 데이터가 있으면 해당 필드에서 데이터가 스크러빙됩니다.
 * 데이터를 보려면 프로그램의 멤버 탭을 클릭하고 해당 필드를 포함하는 사용자 지정 보기를 만듭니다.
@@ -77,4 +74,7 @@ ht-degree: 1%
 
 >[!MORELIKETHIS]
 >
->[Marketo에서 사용자 지정 필드 만들기](/help/marketo/product-docs/administration/field-management/create-a-custom-field-in-marketo.md){target=&quot;_blank&quot;}
+>* [Marketo에서 사용자 지정 필드 만들기](/help/marketo/product-docs/administration/field-management/create-a-custom-field-in-marketo.md){target=&quot;_blank&quot;}
+>
+>* [프로그램 구성원 사용자 지정 필드 동기화](/help/marketo/product-docs/core-marketo-concepts/programs/working-with-programs/program-member-custom-field-sync.md){target=&quot;_blank&quot;}
+
