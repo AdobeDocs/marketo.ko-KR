@@ -2,9 +2,9 @@
 description: 스트림 디자이너 - Marketo 문서 - 제품 설명서
 title: 스트림 디자이너
 exl-id: aa44c7a5-f81b-4029-a1a4-5439bea83847
-source-git-commit: e0f0a89076beaa1be0340e908a59459389b89baa
+source-git-commit: 24075208786077797f4917a2907b6dcfec7ed7bf
 workflow-type: tm+mt
-source-wordcount: '821'
+source-wordcount: '866'
 ht-degree: 2%
 
 ---
@@ -89,6 +89,10 @@ ht-degree: 2%
 1. Chatbot 응답 아래에서 원하는 방식에 대해 질문합니다.
 
    ![](assets/stream-designer-8.png)
+
+   >[!TIP]
+   >
+   >토큰을 사용하여 알려진 채팅 방문자에 대한 경험을 개인화할 수 있습니다(예: Hello `{{lead.leadFirstName:""}}`). 오른쪽의 중괄호 아이콘을 클릭하여 선택하기만 하면 됩니다. 익명 방문자가 일반적인 항목(예: Hello `{{lead.leadFirstName:"there"}}`).
 
    >[!NOTE]
    >

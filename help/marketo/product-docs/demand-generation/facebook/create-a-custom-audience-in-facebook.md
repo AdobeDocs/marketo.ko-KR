@@ -3,9 +3,9 @@ unique-page-id: 4720275
 description: facebook에서 사용자 지정 대상 만들기 - Marketo 문서 - 제품 설명서
 title: facebook에서 사용자 지정 대상 만들기
 exl-id: a2c8d89c-16b3-44f6-a2c6-c52fe78ab39c
-source-git-commit: 68befac1804f2d6e4d42a2967577e14fef8a6ff1
+source-git-commit: 24075208786077797f4917a2907b6dcfec7ed7bf
 workflow-type: tm+mt
-source-wordcount: '277'
+source-wordcount: '285'
 ht-degree: 0%
 
 ---
@@ -14,14 +14,13 @@ ht-degree: 0%
 
 >[!PREREQUISITES]
 >
->* [facebook 사용자 지정 대상을 LaunchPoint 서비스로 추가](/help/marketo/product-docs/demand-generation/ad-network-integrations/add-facebook-custom-audiences-as-a-launchpoint-service.md) 관리자 섹션에 있습니다.
->* [facebook의 사용자 지정 대상 약관에 동의합니다](https://www.facebook.com/ads/manage/customaudiences/tos.php) facebook 계정 내에서 사용할 수 있습니다.
->
+>* [facebook 사용자 지정 대상을 LaunchPoint 서비스로 추가](/help/marketo/product-docs/demand-generation/ad-network-integrations/add-facebook-custom-audiences-as-a-launchpoint-service.md)관리 섹션의 {target=&quot;_blank&quot;}.
+>* [facebook의 사용자 지정 대상 약관에 동의합니다](https://www.facebook.com/ads/manage/customaudiences/tos.php)facebook 계정 내에서 {target=&quot;_blank&quot;}.
 
 
 >[!TIP]
 >
->추가 정보 [facebook의 사용자 지정 대상](https://www.facebook.com/help/341425252616329).
+>추가 정보 [facebook의 사용자 지정 대상](https://www.facebook.com/help/341425252616329){target=&quot;_blank&quot;}.
 
 1. 대상을 만들 리드가 포함된 스마트 또는 정적 목록을 찾아 선택합니다.
 
@@ -55,7 +54,7 @@ ht-degree: 0%
 
    ![](assets/create-a-custom-audience-in-facebook-6.png)
 
-   그게 다야! facebook에서 의 새 대상이 표시됩니다 **광고 관리자 > 대상**.
+   그게 다야! facebook에서 의 새 대상이 표시됩니다 **광고 관리자** > **대상**.
 
    ![](assets/create-a-custom-audience-in-facebook-7.png)
 
@@ -65,8 +64,8 @@ ht-degree: 0%
 
    >[!TIP]
    >
-   >자세한 내용은 [Marketo 고객을 위한 facebook 학습 경로](https://facebook.exceedlms.com/student/enrollments/create_enrollment_from_token/BF9TqSaCvM73PP4ScjhCm4fi). facebook 페이지 생성부터 Marketo의 광고 네트워크 통합을 사용하여 Facebook 광고 타겟팅에 이르기까지 알아야 하는 모든 것을 다룹니다.
+   >자세한 내용은 [Marketo 고객을 위한 facebook 학습 경로](https://facebook.exceedlms.com/student/enrollments/create_enrollment_from_token/BF9TqSaCvM73PP4ScjhCm4fi){target=&quot;_blank&quot;}. facebook 페이지 생성부터 Marketo의 광고 네트워크 통합을 사용하여 Facebook 광고 타겟팅에 이르기까지 알아야 하는 모든 것을 다룹니다.
 
-   >[!NOTE]
+   >[!MORELIKETHIS]
    >
    >[facebook에서 사용자 지정 대상에 리드 추가](/help/marketo/product-docs/demand-generation/facebook/add-leads-to-a-custom-audience-in-facebook.md)
