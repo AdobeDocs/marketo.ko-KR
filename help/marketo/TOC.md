@@ -909,7 +909,7 @@ ht-degree: 0%
          + 소셜 함수 {#social-functions}
             + [랜딩 페이지에서 소셜 단추 추가](product-docs/demand-generation/social/social-functions/add-a-social-button-on-a-landing-page.md)
             + [비디오 추가](product-docs/demand-generation/social/social-functions/add-a-video.md)
-            + [소셜 앱에 개인 정보 정책 추가](product-docs/demand-generation/social/social-functions/add-your-privacy-policy-to-a-social-app.md)
+            + [소셜 앱에 개인정보 처리방침 추가](product-docs/demand-generation/social/social-functions/add-your-privacy-policy-to-a-social-app.md)
             + [소셜 앱에 대한 공유 URL 을 선택합니다](product-docs/demand-generation/social/social-functions/choose-the-share-url-for-a-social-app.md)
             + [사용자 지정 이벤트에 대한 전환 스크립트](product-docs/demand-generation/social/social-functions/conversion-script-for-custom-events.md)
             + [웹 사이트에 Social 배포](product-docs/demand-generation/social/social-functions/deploy-social-on-your-website.md)
