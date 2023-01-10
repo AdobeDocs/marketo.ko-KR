@@ -5,16 +5,16 @@ title: Adobe Experience Manager 통합 구성
 hide: true
 hidefromtoc: true
 exl-id: 06b2c214-1afb-443f-ae01-0c00fed77dce
-source-git-commit: 3105fb33fb457d4dfb63081b80d4d1def717ad34
+source-git-commit: 2a94e4b3b034eac821a82a84db65c09e503c52f4
 workflow-type: tm+mt
-source-wordcount: '235'
+source-wordcount: '214'
 ht-degree: 0%
 
 ---
 
 # Adobe Experience Manager 통합 구성 {#configuring-adobe-experience-manager-integration}
 
-AEM 자산을 액세스, 선택 및 Marketo의 Design Studio로 가져올 수 있도록 AEM을 구성합니다.
+AEM(Adobe Experience Manager)을 구성하여 AEM 자산을 액세스, 선택 및 Marketo Engage Design Studio로 가져올 수 있습니다.
 
 >[!NOTE]
 >
@@ -63,7 +63,7 @@ AEM 자산을 액세스, 선택 및 Marketo의 Design Studio로 가져올 수 �
 
    ![](assets/eight.png)
 
-1. Marketo Classic에서 **관리**.
+1. Marketo Engage에서 **관리**.
 
    ![](assets/nine.png)
 
@@ -78,5 +78,3 @@ AEM 자산을 액세스, 선택 및 Marketo의 Design Studio로 가져올 수 �
 1. AEM URL을 입력하고 을(를) 클릭합니다 **확인**.
 
    ![](assets/twelve.png)
-
-   다 끝났어! 이제 다음을 수행할 수 있습니다 [Marketo Sky에서 Design Studio로 AEM 자산 가져오기](https://experienceleague.adobe.com/docs/marketo/sky/design-studio/importing-assets-with-adobe-experience-manager.html?lang=en#design-studio).
