@@ -2,9 +2,9 @@
 description: 빠른 안내서 - Marketo 문서 - 제품 설명서
 title: 빠른 안내서
 exl-id: eb854ec8-fabb-477d-977b-9dc7e7d9f24f
-source-git-commit: 5dcaf886c488e5e1b7fd1c4caa5f869e70c6fb18
+source-git-commit: 70b98157d06406e56767b0ab5478b01f1ebefdf6
 workflow-type: tm+mt
-source-wordcount: '126'
+source-wordcount: '132'
 ht-degree: 0%
 
 ---
@@ -37,7 +37,7 @@ Marketo Engage API 사용자만 Marketo Engage에서 만들고 관리해야 합�
 
 ## CSV를 통해 사용자 추가 {#add-users-via-csv}
 
-[CSV 가져오기](/help/marketo/product-docs/core-marketo-concepts/programs/working-with-programs/import-members-from-a-spreadsheet-into-a-program.md){target=&quot;_blank&quot;}
+[CSV 가져오기](https://helpx.adobe.com/enterprise/using/bulk-upload-users.html#add-users){target=&quot;_blank&quot;}
 
 ## 사용자 로그인 {#user-sign-in}
 
