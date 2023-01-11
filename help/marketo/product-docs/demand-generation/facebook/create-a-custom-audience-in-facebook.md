@@ -3,9 +3,9 @@ unique-page-id: 4720275
 description: facebook에서 사용자 지정 대상 만들기 - Marketo 문서 - 제품 설명서
 title: facebook에서 사용자 지정 대상 만들기
 exl-id: a2c8d89c-16b3-44f6-a2c6-c52fe78ab39c
-source-git-commit: 24075208786077797f4917a2907b6dcfec7ed7bf
+source-git-commit: 070a90a1eaeef94b20e735e21cc6a56175b2bad6
 workflow-type: tm+mt
-source-wordcount: '285'
+source-wordcount: '297'
 ht-degree: 0%
 
 ---
@@ -37,6 +37,10 @@ ht-degree: 0%
 1. 을(를) 클릭합니다. **Audience** 드롭다운 및 선택 **+ 새 대상**.
 
    ![](assets/create-a-custom-audience-in-facebook-4.png)
+
+   >[!IMPORTANT]
+   >
+   >facebook API를 사용하면 Facebook 광고 계정당 최대 500개의 사용자 지정 대상을 사용할 수 있습니다.
 
 1. 에 입력 **대상 이름**. 클릭 **업데이트**.
 
