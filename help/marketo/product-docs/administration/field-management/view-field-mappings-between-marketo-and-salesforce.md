@@ -3,9 +3,9 @@ unique-page-id: 2360344
 description: Marketo과 Salesforce 간 필드 매핑 보기 - Marketo 문서 - 제품 설명서
 title: Marketo과 Salesforce 간 필드 매핑 보기
 exl-id: a60835ec-da8f-4141-af54-0160e2531581
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+source-git-commit: b13360b009aea869bbd96a9cd0888bb121afdcd2
 workflow-type: tm+mt
-source-wordcount: '97'
+source-wordcount: '0'
 ht-degree: 0%
 
 ---
@@ -18,13 +18,17 @@ ht-degree: 0%
 >
 >**관리 권한 필요**
 
-1. 이동 **관리** 을(를) 클릭합니다. **필드 관리**.
+1. 로 이동합니다. **관리** 영역.
 
-   ![](assets/image2014-9-19-9-3a54-3a26.png)
+   ![](assets/view-field-mappings-between-marketo-and-salesforce-1.png)
+
+1. 클릭 **필드 관리**.
+
+   ![](assets/view-field-mappings-between-marketo-and-salesforce-2.png)
 
 1. 보려는 필드를 찾아 **+** 을 눌러 매핑을 확장합니다.
 
-   ![](assets/image2014-9-19-9-3a54-3a34.png)
+   ![](assets/view-field-mappings-between-marketo-and-salesforce-3.png)
 
 >[!NOTE]
 >

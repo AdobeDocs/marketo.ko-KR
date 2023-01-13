@@ -3,9 +3,9 @@ unique-page-id: 2360293
 description: 필드 이름 변경 - Marketo 문서 - 제품 설명서
 title: 필드 이름 바꾸기
 exl-id: 3c9558b6-df08-4687-94ac-61a2f70628a4
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+source-git-commit: b13360b009aea869bbd96a9cd0888bb121afdcd2
 workflow-type: tm+mt
-source-wordcount: '124'
+source-wordcount: '0'
 ht-degree: 0%
 
 ---
@@ -20,21 +20,25 @@ ht-degree: 0%
 >
 >**관리 권한 필요**
 
-1. Admin으로 이동하고 다음을 클릭합니다. **필드 관리**.
+1. 로 이동합니다. **관리** 영역.
 
-   ![](assets/image2014-9-24-14-3a2-3a25.png)
+   ![](assets/rename-a-field-1.png)
+
+1. 클릭 **필드 관리**.
+
+   ![](assets/rename-a-field-2.png)
 
 1. 이름을 바꿀 필드를 찾아 선택한 다음 캔버스에서 필드 이름을 클릭합니다.
+
+   ![](assets/rename-a-field-3.png)
 
    >[!TIP]
    >
    >을(를) 클릭합니다. **사용자** 링크를 클릭하여 이 필드를 참조하는 자산을 찾습니다.
 
-   ![](assets/changefieldname.png)
-
 1. 필드 이름을 변경하고 를 클릭합니다 **저장**.
 
-   ![](assets/image2014-9-24-14-2-55.png)
+   ![](assets/rename-a-field-4.png)
 
 잘했어! 이제 Marketo에서 필드 이름을 바꾸는 방법을 알 수 있습니다.
 

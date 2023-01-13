@@ -3,9 +3,9 @@ unique-page-id: 45417092
 description: 데이터에 의해 사용되는 필드 내보내기 - Marketo 문서 - 제품 설명서
 title: 데이터에 의해 사용되는 필드 내보내기
 exl-id: 6d7aab4d-1c4d-48f8-aeea-a926628ebf0d
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+source-git-commit: b13360b009aea869bbd96a9cd0888bb121afdcd2
 workflow-type: tm+mt
-source-wordcount: '100'
+source-wordcount: '0'
 ht-degree: 0%
 
 ---
@@ -18,25 +18,25 @@ ht-degree: 0%
 >
 >**관리 권한 필요**
 
-1. 클릭 **관리**.
+1. 로 이동합니다. **관리** 영역.
 
-   ![](assets/one.png)
+   ![](assets/export-used-by-data-for-a-field-1.png)
 
 1. 클릭 **필드 관리**.
 
-   ![](assets/two-3.png)
+   ![](assets/export-used-by-data-for-a-field-2.png)
 
 1. 원하는 필드를 찾아 선택합니다.
 
-   ![](assets/three.png)
+   ![](assets/export-used-by-data-for-a-field-3.png)
 
 1. 을(를) 클릭합니다. **필드 작업** 드롭다운 및 선택 **사용한 내보내기**.
 
-   ![](assets/four.png)
+   ![](assets/export-used-by-data-for-a-field-4.png)
 
 1. Excel 파일이 내보내집니다. 콘텐츠를 보려면 엽니다.
 
-   ![](assets/five-1.png)
+   ![](assets/export-used-by-data-for-a-field-5.png)
 
    >[!TIP]
    >
