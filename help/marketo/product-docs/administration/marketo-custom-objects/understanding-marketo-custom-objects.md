@@ -3,9 +3,9 @@ unique-page-id: 10093188
 description: Marketo 사용자 지정 개체 이해 - Marketo 문서 - 제품 설명서
 title: Marketo 사용자 지정 개체 이해
 exl-id: f18b1689-c7bc-4da0-8326-7b29733d527d
-source-git-commit: 6f17d79344653d1b2c364753d774998e343c9808
+source-git-commit: 0d9417792a7ee1e37451f6f42d963a1bc2a73691
 workflow-type: tm+mt
-source-wordcount: '679'
+source-wordcount: '672'
 ht-degree: 0%
 
 ---
@@ -42,15 +42,21 @@ ht-degree: 0%
 
 ## Marketo 사용자 지정 개체 액세스 {#accessing-marketo-custom-objects}
 
-1. Marketo 사용자 지정 개체를 만들거나 편집하려면 **관리** 그리고 **Marketo 사용자 지정 개체** 링크를 클릭합니다.
+1. 로 이동합니다. **관리** 영역.
 
    ![](assets/understanding-marketo-custom-objects-1.png)
 
-1. Marketo 사용자 지정 개체 표시 는 오른쪽의 모든 사용자 지정 개체를 나열하고, 기본 그리드의 승인된 개체만 표시합니다.
+1. 클릭 **Marketo 사용자 지정 개체**.
 
    ![](assets/understanding-marketo-custom-objects-2.png)
 
-1. 그리드에는 객체 이름, 레코드 수, 필드 수 및 가장 최근 업데이트 날짜가 표시됩니다.
+1. Marketo 사용자 지정 개체 표시 는 오른쪽의 모든 사용자 지정 개체를 나열하고, 기본 그리드의 승인된 개체만 표시합니다.
+
+   ![](assets/understanding-marketo-custom-objects-3.png)
+
+   >[!NOTE]
+   >
+   >그리드에는 객체 이름, 레코드 수, 필드 수 및 가장 최근 업데이트 날짜가 표시됩니다.
 
    >[!TIP]
    >
@@ -58,7 +64,7 @@ ht-degree: 0%
 
 1. 오른쪽에 있는 개체 이름을 클릭하여 세부 정보 페이지를 엽니다.
 
-   ![](assets/understanding-marketo-custom-objects-3.png)
+   ![](assets/understanding-marketo-custom-objects-4.png)
 
 ## 개인에게 연관된 사용자 정의 객체 보기 {#view-custom-objects-associated-to-a-person}
 
@@ -66,19 +72,19 @@ ht-degree: 0%
 
 1. 이동 **데이터베이스**.
 
-   ![](assets/understanding-marketo-custom-objects-4.png)
+   ![](assets/understanding-marketo-custom-objects-5.png)
 
 1. 데이터베이스를 열고 **사람** 탭. 사용자 정의 객체에 연결된 사람의 레코드를 두 번 클릭합니다.
 
-   ![](assets/understanding-marketo-custom-objects-5.png)
+   ![](assets/understanding-marketo-custom-objects-6.png)
 
 1. 개인 세부 사항 페이지에서 **사용자 정의 개체** 탭. 드롭다운에서 객체를 선택합니다.
 
-   ![](assets/understanding-marketo-custom-objects-6.png)
+   ![](assets/understanding-marketo-custom-objects-7.png)
 
 1. 이제 해당 사용자와 연관된 해당 유형의 모든 사용자 정의 객체 목록을 볼 수 있습니다.
 
-   ![](assets/understanding-marketo-custom-objects-7.png)
+   ![](assets/understanding-marketo-custom-objects-8.png)
 
 ## 회사에서 사용자 정의 개체 사용 {#using-custom-objects-with-companies}
 

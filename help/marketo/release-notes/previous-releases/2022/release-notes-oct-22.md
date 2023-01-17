@@ -1,10 +1,10 @@
 ---
 description: 릴리스 노트 - 2022년 10월 - Marketo 문서 - 제품 설명서
 title: 릴리스 노트 - 2022년 10월
-source-git-commit: ea0512aedc41694dfd12801a45a1969a7561debc
+source-git-commit: 0d9417792a7ee1e37451f6f42d963a1bc2a73691
 workflow-type: tm+mt
-source-wordcount: '634'
-ht-degree: 3%
+source-wordcount: '601'
+ht-degree: 2%
 
 ---
 
@@ -172,20 +172,6 @@ ht-degree: 3%
 </table>
 
 * **다이내믹 채팅에 대한 추가 데이터 유형 지원**: 3가지 새로운 데이터 유형(부울, 정수, 부동)을 사용하면 점수를 기반으로 타깃팅하거나 방문자 예/아니요 질문을 하는 등 다이내믹 채팅에서 더 기존 Marketo Engage 필드를 활용할 수 있습니다.
-
-<table> 
-  <tr> 
-   <td><b>상태</b></td>
-   <td><b>설명서 업데이트</b></td>
-  </tr>
-  <tr> 
-   <td><i>곧 출시 예정</i></td>
-   <td>해당 사항 없음</td>
-  </tr>
-  </tbody>
-</table>
-
-* **동적 채팅에 대해 예약된 모임 알림**: 영업 사원은 예약된 모임에 대한 자동 이메일 알림과 방문자의 차트 보트 상호 작용에 대한 관련 정보를 받습니다.
 
 <table> 
   <tr> 
