@@ -2,10 +2,10 @@
 description: 현재 릴리스 정보 - Marketo 설명서 - 제품 설명서
 title: 현재 릴리스 노트
 exl-id: a2eccad5-73ad-48f9-8091-51cee23824e1
-source-git-commit: 8cb8f1d564ccfba5c3861370c7624069a08be712
+source-git-commit: 591dff8db13e22eb129f6e30ecb90f3b7238652b
 workflow-type: tm+mt
-source-wordcount: '667'
-ht-degree: 9%
+source-wordcount: '635'
+ht-degree: 8%
 
 ---
 
@@ -175,20 +175,6 @@ ht-degree: 9%
 </table>
 
 * **동적 채팅에 대해 예약된 모임 전자 메일 알림**: 에이전트의 일정에 모임이 예약되면 에이전트는 방문자의 동적 채팅 참여에 대한 세부 정보를 포함하여 예약 관련 이메일 알림을 받게 됩니다.
-
-<table> 
-  <tr> 
-   <td><b>상태</b></td>
-   <td><b>설명서 업데이트</b></td>
-  </tr>
-  <tr> 
-   <td><i>곧 출시 예정</i></td>
-   <td><i>곧 출시 예정</i></td>
-  </tr>
-  </tbody>
-</table>
-
-* **동적 채팅에 대한 대화 참여 보고서**: 방문자 유형 및 참여 유형별로 필터링하는 기능을 포함하여 시간 경과에 따른 대화 참여 보기를 제공합니다.
 
 <table> 
   <tr> 
