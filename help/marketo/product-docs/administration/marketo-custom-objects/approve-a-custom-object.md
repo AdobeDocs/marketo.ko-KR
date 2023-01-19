@@ -3,9 +3,9 @@ unique-page-id: 10094188
 description: 사용자 지정 개체 승인 - Marketo 문서 - 제품 설명서
 title: 사용자 지정 개체 승인
 exl-id: 8bae94df-91fe-4722-8c75-c26df882c65d
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+source-git-commit: a51ee0b2b513d50febbffd7e3a72874c5ef4679c
 workflow-type: tm+mt
-source-wordcount: '276'
+source-wordcount: '278'
 ht-degree: 0%
 
 ---
@@ -18,17 +18,25 @@ ht-degree: 0%
 
 완전히 새로운 사용자 지정 개체를 만들었습니다. 여기 승인 방법이 있습니다.
 
-1. Admin에서 **Marketo 사용자 지정 개체** 초안 상태의 객체를 선택합니다.
+1. 로 이동합니다. **관리** 영역.
 
-   ![](assets/one.png)
+   ![](assets/approve-a-custom-object-1.png)
+
+1. 클릭 **Marketo 사용자 지정 개체**.
+
+   ![](assets/approve-a-custom-object-2.png)
+
+1. 초안 상태의 객체를 선택합니다.
+
+   ![](assets/approve-a-custom-object-3.png)
 
 1. 을(를) 클릭합니다. **사용자 지정 개체 작업** 드롭다운 및 선택 **개체 승인**.
 
-   ![](assets/two.png)
+   ![](assets/approve-a-custom-object-4.png)
 
 1. 상태가 승인됨으로 변경됩니다.
 
-   ![](assets/three.png)
+   ![](assets/approve-a-custom-object-5.png)
 
    >[!NOTE]
    >
@@ -48,12 +56,12 @@ ht-degree: 0%
 
 1. 이미 승인된 사용자 지정 객체를 편집하면 초안으로 승인됨 상태가 표시됩니다.
 
-   ![](assets/four.png)
+   ![](assets/approve-a-custom-object-6.png)
 
 1. 초안을 승인할 준비가 되면 **사용자 지정 개체 작업** 드롭다운 및 선택 **개체 승인**.
 
-   ![](assets/five-1.png)
+   ![](assets/approve-a-custom-object-7.png)
 
 1. 미리 보기에는 초안에서 변경된 항목이 표시됩니다. 클릭 **승인**.
 
-   ![](assets/six-1.png)
+   ![](assets/approve-a-custom-object-8.png)

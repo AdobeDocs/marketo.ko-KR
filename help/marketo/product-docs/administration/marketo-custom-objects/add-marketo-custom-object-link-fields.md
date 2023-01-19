@@ -3,9 +3,9 @@ unique-page-id: 10097613
 description: Marketo 사용자 지정 개체 링크 필드 추가 - Marketo 문서 - 제품 설명서
 title: Marketo 사용자 지정 개체 링크 필드 추가
 exl-id: e7537d79-9fca-4966-881a-9d7d312008e2
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+source-git-commit: a51ee0b2b513d50febbffd7e3a72874c5ef4679c
 workflow-type: tm+mt
-source-wordcount: '601'
+source-wordcount: '599'
 ht-degree: 0%
 
 ---
@@ -21,21 +21,25 @@ ht-degree: 0%
 
 다음은 일대다 구조에 대한 사용자 지정 개체에서 링크 필드를 만드는 방법입니다.
 
-1. 클릭 **관리**, 및 **데이터베이스 관리**, 선택 **Marketo 사용자 지정 개체**.
+1. 로 이동합니다. **관리** 영역.
 
-   ![](assets/image2016-1-18-13-3a25-3a11.png)
+   ![](assets/add-marketo-custom-object-link-fields-1.png)
+
+1. 클릭 **Marketo 사용자 지정 개체**.
+
+   ![](assets/add-marketo-custom-object-link-fields-2.png)
 
 1. 목록에서 사용자 지정 개체를 선택합니다.
 
-   ![](assets/image2016-1-14-15-3a6-3a2.png)
+   ![](assets/add-marketo-custom-object-link-fields-3.png)
 
 1. 에서 **필드** 탭, **새 필드**.
 
-   ![](assets/image2015-9-17-14-3a9-3a19.png)
+   ![](assets/add-marketo-custom-object-link-fields-4.png)
 
 1. 링크 필드에 이름을 지정하고 선택적 설명을 추가합니다. 링크 데이터 유형을 선택해야 합니다.
 
-   ![](assets/image2015-10-5-13-3a24-3a57.png)
+   ![](assets/add-marketo-custom-object-link-fields-5.png)
 
    >[!CAUTION]
    >
@@ -43,7 +47,7 @@ ht-degree: 0%
 
 1. 링크 개체가 리드(개인)에 대한 것인지 아니면 회사에 대한 것인지 선택합니다.
 
-   ![](assets/image2015-10-5-13-3a28-3a1.png)
+   ![](assets/add-marketo-custom-object-link-fields-6.png)
 
    >[!NOTE]
    >
@@ -53,7 +57,7 @@ ht-degree: 0%
 
 1. 연결할 링크 필드를 새 필드의 상위로 선택합니다.
 
-   ![](assets/image2015-10-5-13-3a30-3a6.png)
+   ![](assets/add-marketo-custom-object-link-fields-7.png)
 
    >[!NOTE]
    >
@@ -61,7 +65,7 @@ ht-degree: 0%
 
 1. 클릭 **저장.**
 
-   ![](assets/image2015-10-5-13-3a34-3a0.png)
+   ![](assets/add-marketo-custom-object-link-fields-8.png)
 
 ## 다대다 구조에 대한 링크 필드 만들기 {#create-a-link-field-for-a-many-to-many-structure}
 
@@ -71,21 +75,25 @@ ht-degree: 0%
 >
 >이미 중간 개체 및 연결하려는 사용자 정의 개체를 만들었어야 합니다.
 
-1. 클릭 **관리**, 및 **데이터베이스 관리**, 선택 **Marketo 사용자 지정 개체**.
+1. 로 이동합니다. **관리** 영역.
 
-   ![](assets/image2016-1-18-9-3a8-3a14.png)
+   ![](assets/add-marketo-custom-object-link-fields-9.png)
+
+1. 클릭 **Marketo 사용자 지정 개체**.
+
+   ![](assets/add-marketo-custom-object-link-fields-10.png)
 
 1. 필드를 추가할 중간 개체를 선택합니다.
 
-   ![](assets/image2016-1-18-9-3a10-3a29.png)
+   ![](assets/add-marketo-custom-object-link-fields-11.png)
 
 1. 에서 **필드** 탭, **새 필드**.
 
-   ![](assets/image2016-1-18-9-3a31-3a43.png)
+   ![](assets/add-marketo-custom-object-link-fields-12.png)
 
 1. 두 개의 링크 필드를 만들어야 합니다. 한 번에 하나씩 만듭니다. 먼저 데이터베이스 목록 구성원의 필드 이름을 지정합니다(예: leadID). 선택적 설명을 추가합니다. 링크 데이터 유형을 선택해야 합니다.
 
-   ![](assets/image2016-1-18-9-3a38-3a59.png)
+   ![](assets/add-marketo-custom-object-link-fields-13.png)
 
    >[!CAUTION]
    >
@@ -93,11 +101,11 @@ ht-degree: 0%
 
 1. 데이터베이스에서 링크 개체를 선택합니다(이 경우 Lead).
 
-   ![](assets/image2016-1-18-9-3a50-3a48.png)
+   ![](assets/add-marketo-custom-object-link-fields-14.png)
 
 1. 연결할 링크 필드(이 경우 ID)를 선택합니다.
 
-   ![](assets/image2016-1-18-9-3a53-3a54.png)
+   ![](assets/add-marketo-custom-object-link-fields-15.png)
 
    >[!NOTE]
    >
@@ -105,11 +113,11 @@ ht-degree: 0%
 
 1. 클릭 **저장.**
 
-   ![](assets/image2016-1-18-9-3a55-3a18.png)
+   ![](assets/add-marketo-custom-object-link-fields-16.png)
 
 1. 사용자 지정 개체에 대한 두 번째 링크(이 예제, courseID)에 대해 이 프로세스를 반복합니다. 링크 개체 이름은 물론, 링크 필드는 courseID입니다. 코스 사용자 정의 객체를 이미 만들고 승인했으므로 드롭다운 메뉴에서 이러한 선택을 사용할 수 있습니다.
 
-   ![](assets/image2016-1-18-9-3a57-3a46.png)
+   ![](assets/add-marketo-custom-object-link-fields-17.png)
 
 1. 등록 ID 또는 등급과 같이 중간 개체에 사용할 다른 필드를 만듭니다.
 
@@ -117,7 +125,7 @@ ht-degree: 0%
 
 다음 단계는 스마트 캠페인의 필터에서 이러한 사용자 지정 개체를 사용하는 것입니다. 다대다 관계를 사용하여 여러 사람/회사 및 여러 사용자 지정 개체를 선택할 수 있습니다. 아래 예에서는 이러한 기준과 일치하는 데이터베이스의 모든 사용자가 나열됩니다. 교육 과정 사용자 정의 객체에서 가져온 교육 과정 이름 필드는 중간 객체에서 가져옵니다.
 
-![](assets/image2016-1-14-15-3a57-3a59.png)
+![](assets/add-marketo-custom-object-link-fields-18.png)
 
 >[!MORELIKETHIS]
 >
