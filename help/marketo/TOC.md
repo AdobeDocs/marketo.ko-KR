@@ -3,9 +3,9 @@ audience: end-user
 user-guide-title: Marketo 안내서
 user-guide-description: Marketo 제품 설명서
 feature-set: Marketo Engage
-source-git-commit: 24075208786077797f4917a2907b6dcfec7ed7bf
+source-git-commit: 296657faa22a31de377fe6e6bd2a72dab07d02dd
 workflow-type: tm+mt
-source-wordcount: '8817'
+source-wordcount: '8822'
 ht-degree: 0%
 
 ---
@@ -657,6 +657,8 @@ ht-degree: 0%
                + [ON24 이벤트 통합 테스트](product-docs/demand-generation/events/create-an-event/create-an-event-with-the-marketo-on24-adapter/test-your-on24-event-integration.md)
                + [Marketo On24 어댑터 이벤트 이해](product-docs/demand-generation/events/create-an-event/create-an-event-with-the-marketo-on24-adapter/understanding-marketo-on24-adapter-events.md)
                + [웨비나 프로그램 상태 이해](product-docs/demand-generation/events/create-an-event/create-an-event-with-the-marketo-on24-adapter/understanding-webinar-program-statuses.md)
+         + 대화형 웨비나 {#interactive-webinars}
+            + [대화형 웨비나 개요](product-docs/demand-generation/events/interactive-webinars/interactive-webinars-overview.md)
       + Facebook {#facebook}
          + [facebook에서 사용자 지정 대상에 리드 추가](product-docs/demand-generation/facebook/add-leads-to-a-custom-audience-in-facebook.md)
          + [facebook에서 사용자 지정 대상 만들기](product-docs/demand-generation/facebook/create-a-custom-audience-in-facebook.md)
