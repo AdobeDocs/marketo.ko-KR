@@ -1,18 +1,16 @@
 ---
 description: 벌크 내보내기 API 정보 - Marketo 문서 - 제품 설명서
 title: 벌크 내보내기 API 정보
-hide: true
-hidefromtoc: true
-source-git-commit: 6cee35eaa7eaf1a55188720a0d11d4ae0059c223
+source-git-commit: 9705e47415edbdeb19cc0e0b78ddcb4723301f20
 workflow-type: tm+mt
-source-wordcount: '100'
+source-wordcount: '98'
 ht-degree: 0%
 
 ---
 
 # 벌크 내보내기 API 정보 {#bulk-export-api-information}
 
-확인 방법 알아보기 [벌크 추출 API](https://developers.marketo.com/rest-api/bulk-extract/)지난 7일 동안 Marketo Engage 인스턴스에서 {target=&quot;_blank&quot;} 용량을 가져왔습니다.
+확인 방법 알아보기 [벌크 추출 API](https://developers.marketo.com/rest-api/bulk-extract/){target="_blank"} 지난 7일 동안 Marketo Engage 인스턴스에서 용량을 가져왔습니다.
 
 >[!NOTE]
 >
