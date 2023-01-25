@@ -2,9 +2,9 @@
 description: 현재 릴리스 정보 - Marketo 설명서 - 제품 설명서
 title: 현재 릴리스 노트
 exl-id: a2eccad5-73ad-48f9-8091-51cee23824e1
-source-git-commit: 9705e47415edbdeb19cc0e0b78ddcb4723301f20
+source-git-commit: ad7054fe697e528fb82dcf186cfc06618352f8dc
 workflow-type: tm+mt
-source-wordcount: '636'
+source-wordcount: '603'
 ht-degree: 8%
 
 ---
@@ -190,4 +190,4 @@ ht-degree: 8%
 
 **_제품 릴리스 웨비나_**
 
-이러한 기능 및 개선 사항에 대해 자세히 알고 싶으십니까? 반드시 다음을 수행하십시오 [지금 등록](https://engage.marketo.com/2023_January_Release_Webinar_RegistrationPage.html) 2월 24일 오전 9시/동부 시간 오후 12시에 Adobe 제품 팀과 라이브 웨비나를 방문하여 이러한 혁신적인 기능을 자세히 살펴보십시오.
+[2022년 10월 및 2023년 1월 Marketo Engage 릴리스 웨비나](https://engage.marketo.com/2023_January_Release_Webinar_OnDemandPage.html){target="_blank"}

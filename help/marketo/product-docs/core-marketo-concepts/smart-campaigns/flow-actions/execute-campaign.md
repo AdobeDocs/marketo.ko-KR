@@ -2,9 +2,9 @@
 description: 캠페인 실행 - Marketo 문서 - 제품 설명서
 title: 캠페인 실행
 exl-id: d550cf08-b295-4289-9bb0-79d81cabc245
-source-git-commit: 3b2bd965e37779af3ee89f46e04f925a2f12f207
+source-git-commit: ad7054fe697e528fb82dcf186cfc06618352f8dc
 workflow-type: tm+mt
-source-wordcount: '711'
+source-wordcount: '708'
 ht-degree: 0%
 
 ---
@@ -23,7 +23,7 @@ ht-degree: 0%
 
 별도의 플로우를 실행해야 할 때도 사용할 수 있지만 후속 흐름 단계 선택(예: 이 경우 해당 흐름 선택)에서 해당 플로우의 결과에 의존해야 합니다.
 
-Campaign 실행은 [캠페인 요청](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/request-campaign.md)인 시리즈 또는 병렬로 실행할 수 있지만 후자는 병렬로 실행됩니다.
+Campaign 실행은 [캠페인 요청](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/request-campaign.md)인-시리즈로 실행할 수 있지만 후자는 동시에 실행됩니다.
 
 >[!NOTE]
 >
