@@ -3,9 +3,9 @@ audience: end-user
 user-guide-title: Marketo 안내서
 user-guide-description: Marketo 제품 설명서
 feature-set: Marketo Engage
-source-git-commit: 296657faa22a31de377fe6e6bd2a72dab07d02dd
+source-git-commit: ad638b2eab24496e2f0b1b8304be139e4e906d06
 workflow-type: tm+mt
-source-wordcount: '8822'
+source-wordcount: '8833'
 ht-degree: 0%
 
 ---
@@ -178,6 +178,7 @@ ht-degree: 0%
          + [제품 관리자 추가 또는 제거](product-docs/administration/marketo-with-adobe-identity/add-or-remove-a-product-admin.md)
          + [사용자 추가 또는 제거](product-docs/administration/marketo-with-adobe-identity/add-or-remove-a-user.md)
          + [Adobe ID으로 사용자 로그인](product-docs/administration/marketo-with-adobe-identity/user-sign-in-with-adobe-id.md)
+         + [Adobe Admin Console에 대한 Marketo 구독 및 사용자 마이그레이션 이해](product-docs/administration/marketo-with-adobe-identity/understanding-marketo-subscription-and-user-migration-to-the-adobe-admin-console.md)
       + 설정 {#settings}
          + [벌크 내보내기 API 정보](product-docs/administration/settings/bulk-export-api-information.md)
          + [Analytics에 대한 속성 설정 변경](product-docs/administration/settings/change-attribution-settings-for-analytics.md)
@@ -911,7 +912,7 @@ ht-degree: 0%
          + 소셜 함수 {#social-functions}
             + [랜딩 페이지에서 소셜 단추 추가](product-docs/demand-generation/social/social-functions/add-a-social-button-on-a-landing-page.md)
             + [비디오 추가](product-docs/demand-generation/social/social-functions/add-a-video.md)
-            + [소셜 앱에 개인정보 처리방침 추가](product-docs/demand-generation/social/social-functions/add-your-privacy-policy-to-a-social-app.md)
+            + [소셜 앱에 개인 정보 정책 추가](product-docs/demand-generation/social/social-functions/add-your-privacy-policy-to-a-social-app.md)
             + [소셜 앱에 대한 공유 URL 을 선택합니다](product-docs/demand-generation/social/social-functions/choose-the-share-url-for-a-social-app.md)
             + [사용자 지정 이벤트에 대한 전환 스크립트](product-docs/demand-generation/social/social-functions/conversion-script-for-custom-events.md)
             + [웹 사이트에 Social 배포](product-docs/demand-generation/social/social-functions/deploy-social-on-your-website.md)

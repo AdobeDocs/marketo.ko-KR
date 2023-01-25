@@ -2,10 +2,10 @@
 description: 현재 릴리스 정보 - Marketo 설명서 - 제품 설명서
 title: 현재 릴리스 노트
 exl-id: a2eccad5-73ad-48f9-8091-51cee23824e1
-source-git-commit: ad7054fe697e528fb82dcf186cfc06618352f8dc
+source-git-commit: ad638b2eab24496e2f0b1b8304be139e4e906d06
 workflow-type: tm+mt
-source-wordcount: '603'
-ht-degree: 8%
+source-wordcount: '597'
+ht-degree: 7%
 
 ---
 
@@ -126,8 +126,8 @@ ht-degree: 8%
    <td><b>설명서 업데이트</b></td>
   </tr>
   <tr> 
-   <td><i>곧 출시 예정</i></td>
-   <td><i>곧 출시 예정</i></td>
+   <td>배송됨</td>
+   <td>해당 사항 없음</td>
   </tr>
   </tbody>
 </table>
@@ -140,8 +140,8 @@ ht-degree: 8%
    <td><b>설명서 업데이트</b></td>
   </tr>
   <tr> 
-   <td><i>곧 출시 예정</i></td>
-   <td><i>곧 출시 예정</i></td>
+   <td>배송됨</td>
+   <td><a href="/help/marketo/product-docs/demand-generation/dynamic-chat/appointment-scheduling/calendar.md">달력</a></td>
   </tr>
   </tbody>
 </table>
@@ -168,8 +168,8 @@ ht-degree: 8%
    <td><b>설명서 업데이트</b></td>
   </tr>
   <tr> 
-   <td><i>곧 출시 예정</i></td>
-   <td><i>곧 출시 예정</i></td>
+   <td>배송됨</td>
+   <td>해당 사항 없음</td>
   </tr>
   </tbody>
 </table>
@@ -182,8 +182,8 @@ ht-degree: 8%
    <td><b>설명서 업데이트</b></td>
   </tr>
   <tr> 
-   <td><i>곧 출시 예정</i></td>
-   <td><i>곧 출시 예정</i></td>
+   <td>배송됨</td>
+   <td><a href="/help/marketo/product-docs/demand-generation/dynamic-chat/appointment-scheduling/meetings.md">회의</a></td>
   </tr>
   </tbody>
 </table>
