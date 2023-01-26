@@ -2,10 +2,10 @@
 description: 개요 - Marketo 문서 - 제품 설명서
 title: 개요
 exl-id: 50ab55b2-f40d-4dbd-ac3b-aa52e37ff426
-source-git-commit: 85e04fb8a52a417982014bc4bb101b6044e53f84
+source-git-commit: ec34ef18e6cbfe808b8a3268783a1b8cda5341b0
 workflow-type: tm+mt
-source-wordcount: '495'
-ht-degree: 2%
+source-wordcount: '486'
+ht-degree: 1%
 
 ---
 
@@ -30,8 +30,6 @@ Marketo Engage 플랫폼의 새로운 모양과 느낌과 함께 향상된 유�
 
 관광은 당신이 알아야 할 모든 것을 안내한다!
 
-![](assets/overview-2.png)
-
 ## 새로운 기능 {#whats-new}
 
 최신 UX에는 마케팅 경험을 크게 향상시키기 위해 고안된 새로운 기능이 많습니다.
@@ -40,7 +38,7 @@ Marketo Engage 플랫폼의 새로운 모양과 느낌과 함께 향상된 유�
 
 새 인터페이스 기능은 개선되고 확장된 icongraphy를 제공합니다. 여기에서 이러한 기능에 대해 알아보십시오. [아이콘 용어집](/help/marketo/product-docs/marketo-engage-modern-ux/icon-glossary.md).
 
-![](assets/overview-new-icons.png)
+![](assets/overview-2.png)
 
 **전역 탐색**
 
@@ -191,15 +189,12 @@ Marketo Engage 플랫폼의 새로운 모양과 느낌과 함께 향상된 유�
    <td>나열된 모든 이전 슈퍼볼 항목</td> 
   </tr>
   <tr>
-   <td>3</td> 
-   <td>이 정보를 사용하여 경험에 대한 피드백을 제공합니다</td> 
-  </tr>
   <tr>
-   <td>4</td> 
+   <td>3</td> 
    <td>여러 개의 구독이 있는 경우 하위 이름을 클릭하여 다른 구독으로 쉽게 전환할 수 있습니다</td> 
   </tr>
   <tr>
-   <td>5</td> 
+   <td>4</td> 
    <td>전역 검색 - 이제 여기에서 전체 인스턴스를 검색할 수 있습니다</td> 
   </tr>
  </tbody>
