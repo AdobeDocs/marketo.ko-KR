@@ -2,9 +2,9 @@
 description: 개요 - Marketo 문서 - 제품 설명서
 title: 개요
 exl-id: 50ab55b2-f40d-4dbd-ac3b-aa52e37ff426
-source-git-commit: ec34ef18e6cbfe808b8a3268783a1b8cda5341b0
+source-git-commit: d019a6a4aa3f246ba330b527f0f0719d99565006
 workflow-type: tm+mt
-source-wordcount: '486'
+source-wordcount: '479'
 ht-degree: 1%
 
 ---
@@ -208,4 +208,4 @@ Marketo Engage 플랫폼의 새로운 모양과 느낌과 함께 향상된 유�
 >
 >트리에서 검색을 사용하면 현재 있는 섹션(예: 마케팅 활동)의 결과만 산출됩니다. 전체 인스턴스를 검색하려면 전역 검색을 사용하십시오.
 
-새로운 Marketo Engage 경험을 즐기고 피드백을 공유하십시오!
+새로운 Marketo Engage 경험을 즐기세요!
