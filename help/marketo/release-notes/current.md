@@ -2,10 +2,10 @@
 description: 현재 릴리스 정보 - Marketo 설명서 - 제품 설명서
 title: 현재 릴리스 노트
 exl-id: a2eccad5-73ad-48f9-8091-51cee23824e1
-source-git-commit: ad638b2eab24496e2f0b1b8304be139e4e906d06
+source-git-commit: 993e81791edcbaf7e8a99d78e9f97cb0400741a2
 workflow-type: tm+mt
-source-wordcount: '597'
-ht-degree: 7%
+source-wordcount: '632'
+ht-degree: 6%
 
 ---
 
@@ -188,6 +188,8 @@ ht-degree: 7%
   </tbody>
 </table>
 
-**_제품 릴리스 웨비나_**
+## 공지 {#announcements}
 
-[2022년 10월 및 2023년 1월 Marketo Engage 릴리스 웨비나](https://engage.marketo.com/2023_January_Release_Webinar_OnDemandPage.html){target="_blank"}
+* **Marketo REST API 변경**: 2022년 10월 릴리스에서는 Marketo REST API 응답 메시지에 대한 작은 변경 사항이 도입되었습니다. 다음을 확인하십시오 [Marketo 국가 게시물](https://nation.marketo.com/t5/product-documents/upcoming-change-to-marketo-rest-api/ta-p/331698){target="_blank"} 자세한 내용
+
+* **_제품 릴리스 웨비나_**: [2022년 10월 및 2023년 1월 Marketo Engage 릴리스 웨비나](https://engage.marketo.com/2023_January_Release_Webinar_OnDemandPage.html){target="_blank"}
