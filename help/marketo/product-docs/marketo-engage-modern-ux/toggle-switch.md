@@ -2,9 +2,9 @@
 description: 전환 스위치 - Marketo 문서 - 제품 설명서
 title: 스위치 전환
 exl-id: bb519314-bddf-4184-8585-22ed1fe85f9a
-source-git-commit: 3f3846fbb3b7e279e8eb2350f5d493fbb1da6304
+source-git-commit: 597c3df7beacafec02994f2fba96f0544822a657
 workflow-type: tm+mt
-source-wordcount: '268'
+source-wordcount: '275'
 ht-degree: 0%
 
 ---
@@ -68,5 +68,9 @@ ht-degree: 0%
 * 랜딩 페이지 세부 사항 보기
 * 랜딩 페이지 목록 보기
 * 랜딩 페이지 템플릿 세부 정보
+* 랜딩 페이지 템플릿 목록
 * 코드 조각 세부 사항 보기
+* 코드 조각 목록 보기
+
+
 

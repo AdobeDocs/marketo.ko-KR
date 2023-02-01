@@ -2,9 +2,9 @@
 description: 현재 릴리스 정보 - Marketo 설명서 - 제품 설명서
 title: 현재 릴리스 노트
 exl-id: a2eccad5-73ad-48f9-8091-51cee23824e1
-source-git-commit: 993e81791edcbaf7e8a99d78e9f97cb0400741a2
+source-git-commit: 597c3df7beacafec02994f2fba96f0544822a657
 workflow-type: tm+mt
-source-wordcount: '632'
+source-wordcount: '631'
 ht-degree: 6%
 
 ---
@@ -36,8 +36,8 @@ ht-degree: 6%
    <td><b>설명서 업데이트</b></td>
   </tr>
   <tr> 
-   <td><i>곧 출시 예정</i></td>
-   <td><i>곧 출시 예정</i></td>
+   <td>배송됨</td>
+   <td><a href="/help/marketo/product-docs/marketo-engage-modern-ux/toggle-switch.md">스위치 전환</a></td>
   </tr>
   </tbody>
 </table>
@@ -74,7 +74,7 @@ ht-degree: 6%
   </tbody>
 </table>
 
-### Marketo 측정 {#marketo-measure}
+### Marketo Measure {#marketo-measure}
 
 </br>
 
