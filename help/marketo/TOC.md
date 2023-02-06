@@ -3,9 +3,9 @@ audience: end-user
 user-guide-title: Marketo 안내서
 user-guide-description: Marketo 제품 설명서
 feature-set: Marketo Engage
-source-git-commit: ad638b2eab24496e2f0b1b8304be139e4e906d06
+source-git-commit: 3cc2fbff42aec23a96ccb09b3c14a90c7e8d39b9
 workflow-type: tm+mt
-source-wordcount: '8833'
+source-wordcount: '8827'
 ht-degree: 0%
 
 ---
@@ -912,7 +912,7 @@ ht-degree: 0%
          + 소셜 함수 {#social-functions}
             + [랜딩 페이지에서 소셜 단추 추가](product-docs/demand-generation/social/social-functions/add-a-social-button-on-a-landing-page.md)
             + [비디오 추가](product-docs/demand-generation/social/social-functions/add-a-video.md)
-            + [소셜 앱에 개인 정보 정책 추가](product-docs/demand-generation/social/social-functions/add-your-privacy-policy-to-a-social-app.md)
+            + [소셜 앱에 개인정보 처리방침 추가](product-docs/demand-generation/social/social-functions/add-your-privacy-policy-to-a-social-app.md)
             + [소셜 앱에 대한 공유 URL 을 선택합니다](product-docs/demand-generation/social/social-functions/choose-the-share-url-for-a-social-app.md)
             + [사용자 지정 이벤트에 대한 전환 스크립트](product-docs/demand-generation/social/social-functions/conversion-script-for-custom-events.md)
             + [웹 사이트에 Social 배포](product-docs/demand-generation/social/social-functions/deploy-social-on-your-website.md)
@@ -1675,7 +1675,6 @@ ht-degree: 0%
          + [성능 통찰력 설정](product-docs/reporting/performance-insights/performance-insights-settings.md)
          + [성능 통찰력 트렌드 개요](product-docs/reporting/performance-insights/performance-insights-trend-overview.md)
          + [성능 통찰력 설정](product-docs/reporting/performance-insights/setting-up-performance-insights.md)
-         + [사용자 지정 필드를 성능 인사이트에 동기화](product-docs/reporting/performance-insights/sync-custom-fields-to-performance-insights.md)
       + Revenue Cycle Analytics {#revenue-cycle-analytics}
          + 이메일 분석 {#email-analysis}
             + [리드를 나열하는 이메일 분석 보고서 작성](product-docs/reporting/revenue-cycle-analytics/email-analysis/build-an-email-analysis-report-that-lists-leads.md)
