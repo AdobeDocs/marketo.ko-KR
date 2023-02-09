@@ -3,9 +3,9 @@ audience: end-user
 user-guide-title: Marketo 안내서
 user-guide-description: Marketo 제품 설명서
 feature-set: Marketo Engage
-source-git-commit: 3cc2fbff42aec23a96ccb09b3c14a90c7e8d39b9
+source-git-commit: 35ff6315ac98bb34594bb2db17314a4a990e6162
 workflow-type: tm+mt
-source-wordcount: '8827'
+source-wordcount: '8829'
 ht-degree: 0%
 
 ---
@@ -181,6 +181,7 @@ ht-degree: 0%
          + [Adobe Admin Console에 대한 Marketo 구독 및 사용자 마이그레이션 이해](product-docs/administration/marketo-with-adobe-identity/understanding-marketo-subscription-and-user-migration-to-the-adobe-admin-console.md)
       + 설정 {#settings}
          + [벌크 내보내기 API 정보](product-docs/administration/settings/bulk-export-api-information.md)
+         + [캠페인 관리자](product-docs/administration/settings/campaign-inspector.md)
          + [Analytics에 대한 속성 설정 변경](product-docs/administration/settings/change-attribution-settings-for-analytics.md)
          + [Marketo 암호 변경](product-docs/administration/settings/change-your-marketo-password.md)
          + [암호 보안 설정 변경](product-docs/administration/settings/change-your-password-security-settings.md)
