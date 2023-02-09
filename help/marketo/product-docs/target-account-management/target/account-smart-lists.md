@@ -3,9 +3,9 @@ unique-page-id: 11378814
 description: Account Smart List - Marketo 문서 - 제품 설명서
 title: 계정 스마트 목록
 exl-id: fbdfb2b8-0061-467d-be89-527744a659a9
-source-git-commit: e4d581ab258a875747a6d5323764e8b4a3949cba
+source-git-commit: adff42d54d7953c9ec72e4d736ce0153502be960
 workflow-type: tm+mt
-source-wordcount: '467'
+source-wordcount: '508'
 ht-degree: 0%
 
 ---
@@ -55,6 +55,10 @@ ht-degree: 0%
    ![](assets/account-smart-lists-7.png)
 
    ![](assets/account-smart-lists-8.png)
+
+   >[!NOTE]
+   >
+   >에서 사용된 ICP 표시기 데이터 [계정 프로파일링 순위 및 조정](/help/marketo/product-docs/target-account-management/account-profiling/account-profiling-ranking-and-tuning.md) 은 계정 스마트 목록에서 사용할 사용자 지정 계정 속성으로 표시됩니다. 이 사용자 지정 속성 데이터는 계정 프로필 모델이 생성/업데이트된 시기를 기반으로 합니다.
 
 1. 일치하는 개인 필터를 선택합니다. 이 예제에서는 _주: 캘리포니아_.
 
