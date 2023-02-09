@@ -1,7 +1,7 @@
 ---
 description: Campaign Inspector - Marketo 문서 - 제품 설명서
 title: 캠페인 관리자
-source-git-commit: 35ff6315ac98bb34594bb2db17314a4a990e6162
+source-git-commit: 64ace065c7505b0b5fbe230678345fff92e078e1
 workflow-type: tm+mt
 source-wordcount: '96'
 ht-degree: 0%
@@ -12,7 +12,7 @@ ht-degree: 0%
 
 모든 Smart Campaign을 한 위치에서 보거나 검색하려면 캠페인 관리자를 사용하십시오.
 
-## Campaign Inspector 활성화 {#activate-campaign-inspector}
+## Campaign Inspector 활성화 {#enable-campaign-inspector}
 
 1. 로 이동합니다. **관리** 영역.
 
