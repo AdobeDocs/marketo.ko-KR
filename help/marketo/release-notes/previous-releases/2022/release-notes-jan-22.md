@@ -2,9 +2,9 @@
 description: 릴리스 노트 - 2022년 1월 - Marketo 문서 - 제품 설명서
 title: 릴리스 노트 - 2022년 1월
 exl-id: babc4e7f-3f11-4883-80c6-58e69c3e1ab4
-source-git-commit: 85e04fb8a52a417982014bc4bb101b6044e53f84
+source-git-commit: ec783ee58e3c249da036d4770231eb9d7ef61bbd
 workflow-type: tm+mt
-source-wordcount: '964'
+source-wordcount: '889'
 ht-degree: 0%
 
 ---
@@ -81,8 +81,6 @@ Adobe Experience Platform(AEP)도 사용하는 Marketo Engage 고객은 AEP 대�
 * **Marketo Sky 사용 중단**: 3월에는 차세대 사용자 경험을 제공하기 위해 리소스를 집중하므로 Marketo Sky을 더 이상 사용할 수 없습니다. 현재 Marketo Sky 전용 기능에 대한 액세스를 유지하기 위해 Adobe에서는 자산 만료 및 스마트 캠페인 우선 순위 무시 를 3월에 주요 경험으로 도입할 예정입니다. [여기를 클릭하십시오.](https://nation.marketo.com/t5/the-modern-ux/marketo-sky-deprecation-notice/ba-p/320115#M33) 추가 정보
 
 * **양식 끝점 사용 중단**: leadCapture/save2 종단점에 대해 지원되지 않는 프로그래밍 방식 양식 POST가 Marketo Engage 양식에 의해 거부됩니다. [여기를 클릭하십시오.](https://nation.marketo.com/t5/product-documents/updated-october-2021-upcoming-changes-to-the-marketo-engage-form/ta-p/306631) 추가 정보
-
-* **사용자 초대 대화 상자에서 로그인**: 3월에는 옵션 기능인 &quot;사용자 초대 대화 상자에서 로그인&quot;이 더 이상 사용되지 않습니다. 기능 &quot;사용자 초대 대화 상자에 로그인&quot; 기능은 예정된 Adobe Identity Management 시스템 통합에 필요하고 모든 구독에서 2021년 8월에 활성화되었던 범용 ID 기능에 의해 재정의됩니다. 사용 중단 결과 Marketo Engage은 구독 내에 이메일 주소당 연결할 사용자를 한 명만 적용합니다.
 
 **Marketo Engage 도메인 - Sales Insight 구성**: SSL 인증서가 프로비저닝되지 않은 Marketo Engage 도메인 및 https://의 경우 SSL 핸드셰이크 오류로 인해 호출이 실패합니다. 따라서 이러한 도메인은 사라질 것입니다. 따라서 이러한 도메인을 가리키는 이전 구성이 있는 Sales Insight 사용자는 Lead, Contact, Account, Opportunity Panels 또는 Marketo Global 페이지에서 시스템 콜아웃 오류가 발생할 수 있습니다. 을(를) 업데이트하는 것이 좋습니다 [Marketo Engage 구성](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/configuration/configure-marketo-sales-insight-in-salesforce-enterprise-unlimited.md) Salesforce에서 이 오류가 발생한 경우 문서의 &quot;Marketo Sales Insight Config&quot; 섹션에 강조 표시된 Marketo Engage 자격 증명만 업데이트해야 합니다.
 
