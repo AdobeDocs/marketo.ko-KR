@@ -1,9 +1,9 @@
 ---
 description: Campaign Inspector - Marketo 문서 - 제품 설명서
 title: 캠페인 관리자
-source-git-commit: 64ace065c7505b0b5fbe230678345fff92e078e1
+source-git-commit: beeba258be336d33cc30a6938e626d703cd409c6
 workflow-type: tm+mt
-source-wordcount: '96'
+source-wordcount: '118'
 ht-degree: 0%
 
 ---
@@ -29,6 +29,10 @@ ht-degree: 0%
 1. 을(를) 선택합니다 **활성화됨** 확인란을 선택하고 **저장**.
 
    ![](assets/campaign-inspector-4.png)
+
+   >[!NOTE]
+   >
+   >[캠페인 검사자] 탭이 활성화된 후 표시되도록 하려면 트리에서 원하는 작업 영역을 선택해야 합니다.
 
 ## Campaign Inspector 사용 {#using-campaign-inspector}
 
