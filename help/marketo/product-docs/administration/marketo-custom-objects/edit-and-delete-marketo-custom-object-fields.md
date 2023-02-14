@@ -3,7 +3,7 @@ unique-page-id: 10095453
 description: Marketo 사용자 지정 개체 필드 편집 및 삭제 - Marketo 문서 - 제품 설명서
 title: Marketo 사용자 지정 개체 필드 편집 및 삭제
 exl-id: 42fb7a24-0669-440b-a15e-3b8f0f4c5105
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+source-git-commit: 99b11e17e9c2255a19c658b166e7b38c45cf1001
 workflow-type: tm+mt
 source-wordcount: '130'
 ht-degree: 0%
@@ -18,15 +18,15 @@ ht-degree: 0%
 
 1. 사용자 지정 개체 및 편집할 필드를 클릭합니다.
 
-   ![](assets/image2015-10-2-10-3a55-3a1.png)
+   ![](assets/edit-and-delete-marketo-custom-object-fields-1.png)
 
 1. 필드 탭에서 **필드 작업** 및 **필드 편집**.
 
-   ![](assets/image2015-10-2-10-3a53-3a26.png)
+   ![](assets/edit-and-delete-marketo-custom-object-fields-2.png)
 
 1. 변경 작업을 수행하고 을(를) 클릭합니다. **저장**.
 
-   ![](assets/image2015-10-2-10-3a58-3a56.png)
+   ![](assets/edit-and-delete-marketo-custom-object-fields-3.png)
 
    >[!NOTE]
    >
@@ -34,7 +34,7 @@ ht-degree: 0%
 
 1. 변경 사항이 필드 목록에 나타납니다.
 
-   ![](assets/image2015-10-2-11-3a1-3a13.png)
+   ![](assets/edit-and-delete-marketo-custom-object-fields-4.png)
 
 ## 필드 삭제 {#delete-a-field}
 
@@ -42,15 +42,15 @@ ht-degree: 0%
 
 1. 필드 탭에서 **필드 작업** 및 **필드 삭제**.
 
-   ![](assets/image2015-10-2-11-3a11-3a20.png)
+   ![](assets/edit-and-delete-marketo-custom-object-fields-5.png)
 
    트리거를 가져오기 전에 필드를 반드시 삭제해야 합니다. 클릭 **삭제**.
 
-   ![](assets/image2015-10-2-11-3a14-3a5.png)
+   ![](assets/edit-and-delete-marketo-custom-object-fields-6.png)
 
    없어졌어!
 
-   ![](assets/image2015-10-2-11-3a15-3a48.png)
+   ![](assets/edit-and-delete-marketo-custom-object-fields-7.png)
 
    >[!NOTE]
    >

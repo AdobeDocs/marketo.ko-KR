@@ -3,7 +3,7 @@ unique-page-id: 10099680
 description: 사용자 지정 개체 데이터 가져오기 - Marketo 문서 - 제품 설명서
 title: 사용자 지정 개체 데이터 가져오기
 exl-id: ee11199a-57ca-47ec-8f59-8384a93ea05e
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+source-git-commit: 99b11e17e9c2255a19c658b166e7b38c45cf1001
 workflow-type: tm+mt
 source-wordcount: '233'
 ht-degree: 0%
@@ -16,23 +16,23 @@ ht-degree: 0%
 
 1. 내 Marketo에서 **데이터베이스**.
 
-   ![](assets/db-1.png)
+   ![](assets/import-custom-object-data-1.png)
 
 1. 클릭 **새로 만들기** 을(를) 선택합니다. **사용자 지정 개체 데이터 가져오기**.
 
-   ![](assets/image2016-4-7-10-6-54.png)
+   ![](assets/import-custom-object-data-2.png)
 
 1. 클릭 **찾아보기** 를 눌러 데이터 파일을 찾습니다. 파일 형식(이 예제에서는 쉼표로 구분된 값)을 선택합니다.
 
-   ![](assets/image2016-4-13-14-3a21-3a53.png)
+   ![](assets/import-custom-object-data-3.png)
 
 1. 사용자 지정 개체를 선택합니다.
 
-   ![](assets/image2016-4-13-14-3a24-3a54.png)
+   ![](assets/import-custom-object-data-4.png)
 
 1. 드롭다운에서 데이터 중복 제거 모드를 선택합니다. 클릭 **다음**.
 
-   ![](assets/image2016-4-13-14-3a28-3a7.png)
+   ![](assets/import-custom-object-data-5.png)
 
    >[!NOTE]
    >
@@ -40,7 +40,7 @@ ht-degree: 0%
 
 1. 각 열을 Marketo 필드에 매핑하여 드롭다운에서 선택합니다.
 
-   ![](assets/image2016-4-13-14-3a36-3a57.png)
+   ![](assets/import-custom-object-data-6.png)
 
    >[!NOTE]
    >
@@ -48,11 +48,11 @@ ht-degree: 0%
 
 1. 클릭 **다음**.
 
-   ![](assets/image2016-4-13-14-3a38-3a41.png)
+   ![](assets/import-custom-object-data-7.png)
 
 1. 클릭 **가져오기**.
 
-   ![](assets/image2016-4-7-13-3a15-3a9.png)
+   ![](assets/import-custom-object-data-8.png)
 
    >[!NOTE]
    >
@@ -64,7 +64,7 @@ ht-degree: 0%
 
 1. 화면의 오른쪽 상단 모서리에는 가져오기가 실행되는 동안 알림이 표시되고 최종 결과가 완료되면 표시됩니다.
 
-   ![](assets/image2016-4-13-14-3a41-3a1.png)
+   ![](assets/import-custom-object-data-9.png)
 
    예이!
 

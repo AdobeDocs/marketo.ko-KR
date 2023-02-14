@@ -3,7 +3,7 @@ unique-page-id: 11378713
 description: 사용자 지정 개체 변경 트리거 - Marketo 문서 - 제품 설명서
 title: 사용자 지정 개체 변경 트리거
 exl-id: a2a3d82f-33ae-4191-b114-dbbf944a66c8
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+source-git-commit: 99b11e17e9c2255a19c658b166e7b38c45cf1001
 workflow-type: tm+mt
 source-wordcount: '196'
 ht-degree: 0%
@@ -30,27 +30,27 @@ ht-degree: 0%
 
 1. Marketo에서 **마케팅 활동.**
 
-   ![](assets/image2016-7-25-15-3a49-3a52.png)
+   ![](assets/trigger-off-custom-object-changes-1.png)
 
 1. 기존 스마트 캠페인을 만들거나 열고 스마트 목록을 선택합니다.
 
-   ![](assets/image2016-7-25-16-3a9-3a19.png)
+   ![](assets/trigger-off-custom-object-changes-2.png)
 
 1. 필요한 트리거를 검색하고 캔버스로 드래그합니다.
 
-   ![](assets/image2016-7-25-16-3a16-3a43.png)
+   ![](assets/trigger-off-custom-object-changes-3.png)
 
 1. 트리거 속성을 선택합니다.
 
-   ![](assets/image2016-7-25-16-3a21-3a42.png)
+   ![](assets/trigger-off-custom-object-changes-4.png)
 
 1. 구속을 설정할 수도 있습니다.
 
-   ![](assets/image2016-9-6-14-3a25-3a22.png)
+   ![](assets/trigger-off-custom-object-changes-5.png)
 
 1. 그리고 여기 있어요 변경 사항이 자동으로 저장됩니다.
 
-   ![](assets/image2016-9-6-14-3a25-3a54.png)
+   ![](assets/trigger-off-custom-object-changes-6.png)
 
    >[!NOTE]
    >

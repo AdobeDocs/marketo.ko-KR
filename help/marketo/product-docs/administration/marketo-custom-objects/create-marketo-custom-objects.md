@@ -3,9 +3,9 @@ unique-page-id: 10093192
 description: Marketo 사용자 지정 개체 만들기 - Marketo 문서 - 제품 설명서
 title: Marketo 사용자 지정 개체 만들기
 exl-id: d68b41e1-a12b-436f-aad7-42c7264cd901
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+source-git-commit: 99b11e17e9c2255a19c658b166e7b38c45cf1001
 workflow-type: tm+mt
-source-wordcount: '710'
+source-wordcount: '704'
 ht-degree: 0%
 
 ---
@@ -26,13 +26,17 @@ Marketo의 사용자 지정 개체를 사용하여 비즈니스에 따른 지표
 
 이 예는 일대다 구조에 사용할 Car 사용자 지정 개체를 보여줍니다. 나중에 다대다 구조에 사용할 코스 사용자 지정 객체와 중간 개체를 만듭니다.
 
-1. 클릭 **관리**, 및 **데이터베이스 관리** 선택 **Marketo 사용자 지정 개체**.
+1. 로 이동합니다. **관리** 영역.
 
-   ![](assets/image2016-1-18-13-3a12-3a19.png)
+   ![](assets/create-marketo-custom-objects-1.png)
+
+1. 클릭 **Marketo 사용자 지정 개체**.
+
+   ![](assets/create-marketo-custom-objects-2.png)
 
 1. 클릭 **새 사용자 지정 개체**.
 
-   ![](assets/image2016-5-18-16-3a28-3a4.png)
+   ![](assets/create-marketo-custom-objects-3.png)
 
    >[!NOTE]
    >
@@ -40,19 +44,19 @@ Marketo의 사용자 지정 개체를 사용하여 비즈니스에 따른 지표
 
 1. 표시 이름을 입력합니다. API 이름 및 복수 이름이 자동으로 채워집니다. 설명을 입력합니다(선택 사항).
 
-   ![](assets/image2015-9-15-16-3a29-3a17.png)
+   ![](assets/create-marketo-custom-objects-4.png)
 
    >[!NOTE]
    >
    >이러한 필드를 만들 때는 편집할 수 있지만 저장한 후에는 복수 이름 필드와 **리드 세부 정보에 표시** 슬라이더.
 
-1. 가져오기 **리드 세부 정보에 표시** 표시할 슬라이더 **표시** 리드 데이터베이스 페이지에서 사용자 지정 객체 데이터를 보려는 경우 클릭 **저장**.
+1. 가져오기 **리드 세부 정보에 표시** 표시할 슬라이더 **표시** 데이터베이스 페이지에서 사용자 지정 객체 데이터를 보려는 경우 클릭 **저장**.
 
-   ![](assets/image2015-9-15-16-3a32-3a2.png)
+   ![](assets/create-marketo-custom-objects-5.png)
 
 1. 사용자 지정 개체 정보는 입력한 내용을 표시합니다. 초안 상태에 있습니다.
 
-   ![](assets/image2015-9-15-16-3a38-3a22.png)
+   ![](assets/create-marketo-custom-objects-6.png)
 
    다음 단계는 필드를 [사용자 지정 개체 작성](/help/marketo/product-docs/administration/marketo-custom-objects/add-marketo-custom-object-fields.md).
 
@@ -68,29 +72,33 @@ Marketo의 사용자 지정 개체를 사용하여 비즈니스에 따른 지표
 >
 >다대다 관계의 경우 사용자 지정 개체에 링크를 만들 필요가 없습니다. 대신 중간 개체에 두 개의 링크를 추가합니다(아래 참조).
 
-1. 클릭 **관리**, 및 **데이터베이스 관리** 선택 **Marketo 사용자 지정 개체**.
+1. 로 이동합니다. **관리** 영역.
 
-   ![](assets/image2016-1-18-13-3a16-3a25.png)
+   ![](assets/create-marketo-custom-objects-7.png)
+
+1. 클릭 **Marketo 사용자 지정 개체**.
+
+   ![](assets/create-marketo-custom-objects-8.png)
 
 1. 클릭 **새 사용자 지정 개체**.
 
-   ![](assets/image2016-5-18-16-3a32-3a42.png)
+   ![](assets/create-marketo-custom-objects-9.png)
 
 1. 표시 이름을 입력합니다. API 이름 및 복수 이름이 자동으로 채워집니다. 설명을 입력합니다(선택 사항).
 
-   ![](assets/image2016-1-14-13-3a38-3a46.png)
+   ![](assets/create-marketo-custom-objects-10.png)
 
    >[!NOTE]
    >
    >이러한 필드를 만들 때는 편집할 수 있지만 저장한 후에는 복수 이름 필드와 **리드 세부 정보에 표시** 슬라이더.
 
-1. 가져오기 **리드 세부 정보에 표시** 표시할 슬라이더 **표시** 리드 데이터베이스 페이지에서 사용자 지정 객체 데이터를 보려는 경우 클릭 **저장**.
+1. 가져오기 **리드 세부 정보에 표시** 표시할 슬라이더 **표시** 데이터베이스 페이지에서 사용자 지정 객체 데이터를 보려는 경우 클릭 **저장**.
 
-   ![](assets/image2016-1-14-13-3a42-3a56.png)
+   ![](assets/create-marketo-custom-objects-11.png)
 
 1. 사용자 지정 개체 정보는 입력한 내용을 표시합니다. 초안 상태에 있습니다.
 
-   ![](assets/image2016-1-18-8-3a38-3a58.png)
+   ![](assets/create-marketo-custom-objects-12.png)
 
    >[!NOTE]
    >
@@ -106,25 +114,29 @@ Marketo의 사용자 지정 개체를 사용하여 비즈니스에 따른 지표
 >
 >일대다 사용자 정의 개체 구조에 중간 개체를 만들 필요는 없습니다.
 
-1. 클릭 **관리**, 및 **데이터베이스 관리**, 선택 **Marketo 사용자 지정 개체**.
+1. 로 이동합니다. **관리** 영역.
 
-   ![](assets/image2016-1-18-13-3a17-3a40.png)
+   ![](assets/create-marketo-custom-objects-13.png)
+
+1. 클릭 **Marketo 사용자 지정 개체**.
+
+   ![](assets/create-marketo-custom-objects-14.png)
 
 1. 클릭 **새 사용자 지정 개체**.
 
-   ![](assets/image2016-5-18-16-3a33-3a16.png)
+   ![](assets/create-marketo-custom-objects-15.png)
 
 1. 표시 이름을 입력합니다. API 이름 및 복수 이름이 자동으로 채워집니다. 설명을 입력합니다(선택 사항).
 
-   ![](assets/image2016-1-14-14-3a10-3a44.png)
+   ![](assets/create-marketo-custom-objects-16.png)
 
    >[!NOTE]
    >
    >이러한 필드를 만들 때는 편집할 수 있지만, 저장한 후에는 복수 이름 필드와 리드 세부 정보 표시 슬라이더만 편집할 수 있습니다.
 
-1. 가져오기 **리드 세부 정보에 표시** 표시할 슬라이더 **표시** 리드 데이터베이스 페이지에서 사용자 지정 객체 데이터를 보려는 경우 클릭 **저장**.
+1. 가져오기 **리드 세부 정보에 표시** 표시할 슬라이더 **표시** 데이터베이스 페이지에서 사용자 지정 객체 데이터를 보려는 경우 클릭 **저장**.
 
-   ![](assets/image2016-1-14-14-3a12-3a49.png)
+   ![](assets/create-marketo-custom-objects-17.png)
 
 1. 사용자 지정 개체 정보는 입력한 내용을 표시합니다. 초안 상태에 있습니다.
 
