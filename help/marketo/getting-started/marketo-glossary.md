@@ -3,7 +3,7 @@ unique-page-id: 12980733
 description: Marketo 용어집 - Marketo 문서 - 제품 설명서
 title: Marketo 용어
 exl-id: c387b880-708c-439c-99c3-46eb5ccb4536
-source-git-commit: 5f76c35490eba40bea39c66c8675860293041350
+source-git-commit: 499729a61dc033c430d31831dc14045b4674de98
 workflow-type: tm+mt
 source-wordcount: '4203'
 ht-degree: 0%
@@ -171,7 +171,7 @@ ht-degree: 0%
    <td colspan="1">Marketo에서 인스턴스 내에 있는 여러 유형의 엔티티를 복제할 수 있습니다. 복제할 수 있습니다 <a href="/help/marketo/product-docs/core-marketo-concepts/programs/working-with-programs/clone-a-program.md" rel="nofollow">프로그램</a>, <a href="/help/marketo/product-docs/core-marketo-concepts/programs/working-with-programs/clone-an-asset-in-a-program.md" rel="nofollow">프로그램 내의 자산</a>, <a href="/help/marketo/product-docs/email-marketing/drip-nurturing/engagement-program-streams/clone-a-stream.md" rel="nofollow">스트림</a>, 등.</td> 
   </tr> 
   <tr> 
-   <td colspan="1"><a href="/help/marketo/product-docs/administration/settings/customize-your-landing-page-urls-with-a-cname-administration.md" rel="nofollow"><strong>CNAME</strong></a></td> 
+   <td colspan="1"><a href="/help/marketo/product-docs/administration/settings/customize-your-landing-page-urls-with-a-cname.md" rel="nofollow"><strong>CNAME</strong></a></td> 
    <td colspan="1">URL의 앞부분. 한 단어(더하기 YourCompany.com)는 CNAME(예: <em>info</em>.YourCompany.com/).</td> 
   </tr> 
   <tr> 
