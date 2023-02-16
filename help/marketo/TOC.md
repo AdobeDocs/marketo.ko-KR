@@ -3,9 +3,9 @@ audience: end-user
 user-guide-title: Marketo 안내서
 user-guide-description: Marketo 제품 설명서
 feature-set: Marketo Engage
-source-git-commit: 35ff6315ac98bb34594bb2db17314a4a990e6162
+source-git-commit: 07899e541b3624e99e0ead59d898ced2ab4e57af
 workflow-type: tm+mt
-source-wordcount: '8829'
+source-wordcount: '8828'
 ht-degree: 0%
 
 ---
@@ -186,7 +186,7 @@ ht-degree: 0%
          + [Marketo 암호 변경](product-docs/administration/settings/change-your-marketo-password.md)
          + [암호 보안 설정 변경](product-docs/administration/settings/change-your-password-security-settings.md)
          + [개인 세부 정보 페이지에 대한 사용자 지정 탭 생성](product-docs/administration/settings/creating-a-custom-tab-for-the-person-detail-page.md)
-         + [CNAME(관리)을 사용하여 랜딩 페이지 URL을 사용자 지정합니다](product-docs/administration/settings/customize-your-landing-page-urls-with-a-cname-administration.md)
+         + [CNAME을 사용하여 랜딩 페이지 URL 사용자 지정](product-docs/administration/settings/customize-your-landing-page-urls-with-a-cname.md)
          + [계정 설정 편집](product-docs/administration/settings/edit-account-settings.md)
          + [브라우저 지원 설정 편집 &quot;추적 안 함&quot;](product-docs/administration/settings/edit-do-not-track-browser-support-settings.md)
          + [랜딩 페이지 설정 편집](product-docs/administration/settings/edit-landing-page-settings.md)

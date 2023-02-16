@@ -3,9 +3,9 @@ unique-page-id: 2360217
 description: Analytics에 대한 속성 설정 변경 - Marketo 문서 - 제품 설명서
 title: Analytics에 대한 속성 설정 변경
 exl-id: 4740b0fa-ddaf-46ed-87d6-8b3f8d35afe3
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+source-git-commit: 07899e541b3624e99e0ead59d898ced2ab4e57af
 workflow-type: tm+mt
-source-wordcount: '188'
+source-wordcount: '189'
 ht-degree: 0%
 
 ---
@@ -16,13 +16,17 @@ Marketo이 연락처와 첫 번째 및 다중 터치 속성, 리드 전환 지�
 
 이러한 설정은 [프로그램 기회 분석](/help/marketo/product-docs/reporting/revenue-cycle-analytics/program-analytics/understanding-the-program-opportunity-analysis-area.md), [기회 분석](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-explorer/understanding-opportunity-analysis-in-revenue-explorer.md), 및 Lead Analysis 영역 을 참조하십시오. 프로그램 분석기 보고서도 영향을 받습니다.
 
-1. 아래에 **관리** 섹션을 클릭합니다. **Revenue Cycle Analytics**.
+1. 로 이동합니다. **관리** 영역.
 
-   ![](assets/image2014-9-24-11-3a55-3a19.png)
+   ![](assets/change-attribution-settings-for-analytics-1.png)
+
+1. 클릭 **Revenue Cycle Analytics**.
+
+   ![](assets/change-attribution-settings-for-analytics-2.png)
 
 1. 을(를) 클릭합니다. **편집** 링크 위치 **속성**.
 
-   ![](assets/image2014-9-24-11-3a56-3a33.png)
+   ![](assets/change-attribution-settings-for-analytics-3.png)
 
    >[!TIP]
    >
@@ -30,7 +34,7 @@ Marketo이 연락처와 첫 번째 및 다중 터치 속성, 리드 전환 지�
 
 1. 옵션을 선택하고 을(를) 클릭합니다. **저장**.
 
-   ![](assets/image2014-9-24-11-3a57-3a39.png)
+   ![](assets/change-attribution-settings-for-analytics-4.png)
 
    >[!NOTE]
    >

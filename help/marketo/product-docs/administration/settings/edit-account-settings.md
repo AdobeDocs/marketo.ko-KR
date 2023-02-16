@@ -3,9 +3,9 @@ unique-page-id: 4719071
 description: 계정 설정 편집 - Marketo 문서 - 제품 설명서
 title: 계정 설정 편집
 exl-id: 770841b8-dbaa-4bb6-bcc0-5ea07e8f7b6c
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+source-git-commit: 07899e541b3624e99e0ead59d898ced2ab4e57af
 workflow-type: tm+mt
-source-wordcount: '49'
+source-wordcount: '51'
 ht-degree: 0%
 
 ---
@@ -18,20 +18,20 @@ ht-degree: 0%
 >
 >**관리 권한 필요**
 
-1. 이동 **관리**.
+1. 로 이동합니다. **관리** 영역.
 
-   ![](assets/adminhand.png)
+   ![](assets/edit-account-settings-1.png)
 
 1. 선택 **내 계정**.
 
-   ![](assets/image2015-6-23-15-3a16-3a52.png)
+   ![](assets/edit-account-settings-2.png)
 
 1. 선택 **계정 설정 편집**.
 
-   ![](assets/image2015-6-23-15-3a21-3a41.png)
+   ![](assets/edit-account-settings-3.png)
 
 1. 편집한 다음 를 클릭합니다 **저장**.
 
-   ![](assets/image2015-6-23-15-3a20-3a16.png)
+   ![](assets/edit-account-settings-4.png)
 
    타! 정보가 업데이트되었습니다.

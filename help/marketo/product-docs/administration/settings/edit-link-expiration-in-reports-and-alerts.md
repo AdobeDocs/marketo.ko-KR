@@ -3,9 +3,9 @@ unique-page-id: 2360213
 description: 보고서 및 경고에서 링크 만료 편집 - Marketo 문서 - 제품 설명서
 title: 보고서 및 경고에서 링크 만료 편집
 exl-id: 9be08798-c413-451b-9b67-893042668061
-source-git-commit: 349309beb754ecd5fcfb26bbda67cda97cc4b29f
+source-git-commit: 07899e541b3624e99e0ead59d898ced2ab4e57af
 workflow-type: tm+mt
-source-wordcount: '97'
+source-wordcount: '100'
 ht-degree: 0%
 
 ---
@@ -18,17 +18,21 @@ ht-degree: 0%
 >
 >**관리 권한 필요**
 
-1. 아래 **관리**&#x200B;를 클릭합니다. **로그인 설정**.
+1. 로 이동합니다. **관리** 섹션을 참조하십시오.
 
-   ![](assets/image2014-9-24-11-3a33-3a31.png)
+   ![](assets/edit-link-expiration-in-reports-and-alerts-1.png)
+
+1. 클릭 **로그인 설정**.
+
+   ![](assets/edit-link-expiration-in-reports-and-alerts-2.png)
 
 1. 클릭 **URL 만료 편집**.
 
-   ![](assets/image2014-9-24-11-3a33-3a43.png)
+   ![](assets/edit-link-expiration-in-reports-and-alerts-3.png)
 
 1. 드롭다운에서 링크가 만료될 때까지 남은 일 수를 선택합니다. 클릭 **저장**.
 
-   ![](assets/emaillinkexpiration.png)
+   ![](assets/edit-link-expiration-in-reports-and-alerts-4.png)
 
 >[!IMPORTANT]
 >
