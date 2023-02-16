@@ -3,9 +3,9 @@ unique-page-id: 2950682
 description: 프로그램 채널 만들기 - Marketo 문서 - 제품 설명서
 title: 프로그램 채널 만들기
 exl-id: 7b4e15db-c221-45a9-9588-99eb2510cde7
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+source-git-commit: 48c2d1deea84ee747ecc2453e770ad33dd49f578
 workflow-type: tm+mt
-source-wordcount: '427'
+source-wordcount: '428'
 ht-degree: 0%
 
 ---
@@ -22,9 +22,13 @@ ht-degree: 0%
 >
 >추가 정보 [프로그램](/help/marketo/product-docs/core-marketo-concepts/programs/creating-programs/understanding-programs.md): Marketo에서 가장 중요한 요소입니다.
 
-1. 아래에 **관리** 섹션을 클릭합니다. **태그**.
+1. 로 이동합니다. **관리** 영역.
 
-   ![](assets/image2014-9-24-12-3a57-3a27.png)
+   ![](assets/create-a-program-channel-1.png)
+
+1. 클릭 **태그**.
+
+   ![](assets/create-a-program-channel-2.png)
 
    >[!NOTE]
    >
@@ -32,11 +36,11 @@ ht-degree: 0%
 
 1. 을(를) 클릭합니다. **+** 다음 **채널** 을 클릭하여 기존 채널을 확장하고 확인합니다.
 
-   ![](assets/image2014-9-24-12-3a58-3a33.png)
+   ![](assets/create-a-program-channel-3.png)
 
 1. 아래 **새로 만들기**&#x200B;를 클릭합니다. **새 채널**.
 
-   ![](assets/image2014-9-24-12-3a58-3a53.png)
+   ![](assets/create-a-program-channel-4.png)
 
    >[!NOTE]
    >
@@ -60,7 +64,7 @@ ht-degree: 0%
 
 1. 자사 채널 예를 살펴보겠습니다. 새 이름을 지정합니다 **채널** 적용할 프로그램 유형을 선택합니다.
 
-   ![](assets/image2014-9-24-13-3a0-3a17.png)
+   ![](assets/create-a-program-channel-5.png)
 
    >[!NOTE]
    >
@@ -70,12 +74,13 @@ ht-degree: 0%
    >
    >웨비나와 함께 이벤트 를 사용하는 경우 시스템 매핑이 잠기고(웨비나 통합에 필요) 편집할 수 없습니다.
 
-   처음 두 프로그램 Status 이름을 입력한 다음 Add Step을 클릭합니다.
-   ![](assets/image2014-9-24-15-3a37-3a0.png)
+1. 처음 두 프로그램 Status 이름을 입력한 다음 **단계 추가**.
+
+   ![](assets/create-a-program-channel-6.png)
 
 1. 다른 프로그램 입력 **상태** 및 **단계** number 를 클릭한 다음 **단계 추가**.
 
-   ![](assets/image2014-9-24-15-3a37-3a30.png)
+   ![](assets/create-a-program-channel-7.png)
 
    >[!TIP]
    >
@@ -83,7 +88,7 @@ ht-degree: 0%
 
 1. 마지막 프로그램 입력 **상태** 및 **단계** 번호.
 
-   ![](assets/image2014-9-24-15-3a39-3a15.png)
+   ![](assets/create-a-program-channel-8.png)
 
    >[!NOTE]
    >
@@ -91,11 +96,11 @@ ht-degree: 0%
 
 1. 을(를) 선택합니다 **모바일 체크인 상태** 대상 **등록**.
 
-   ![](assets/image2014-9-24-15-3a39-3a43.png)
+   ![](assets/create-a-program-channel-9.png)
 
 1. 을(를) 선택합니다 **모바일 체크인 상태** 대상 **참석함**.
 
-   ![](assets/image2014-9-24-15-3a40-3a21.png)
+   ![](assets/create-a-program-channel-10.png)
 
    >[!NOTE]
    >
@@ -111,6 +116,6 @@ ht-degree: 0%
 
 1. 을(를) 선택합니다 **성공** 프로그램 상태 **만들기**.
 
-   ![](assets/image2014-9-24-15-3a42-3a54.png)
+   ![](assets/create-a-program-channel-11.png)
 
    잘했어요! 해당 유형의 새 프로그램을 만들 때 이 새 채널은 선택 항목 중 하나가 됩니다.
