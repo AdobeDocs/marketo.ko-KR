@@ -3,7 +3,7 @@ unique-page-id: 10617187
 description: 개인 정보 설정 이해 - Marketo 문서 - 제품 설명서
 title: 개인 정보 설정 이해
 exl-id: 1fde9011-02a9-4ec9-bfa4-c56a52ce1eed
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+source-git-commit: bd6f049d5959356a99314e81bb6cfe517c2efdfa
 workflow-type: tm+mt
 source-wordcount: '521'
 ht-degree: 0%
@@ -43,17 +43,17 @@ Munchkin에서 마케터는 [브라우저의 DNT 설정을 지원할지 또는 �
 
 다음은 옵트아웃 링크에 &quot;?marketo_opt_out=true&quot; 매개 변수가 있는 단추가 있는 웹 페이지입니다.
 
-![](assets/opt-out-1.png)
+![](assets/understanding-privacy-settings-1.png)
 
 &quot;?marketo_opt_out=true&quot; 매개 변수와의 링크를 클릭할 때 랜딩 페이지를 추가 페이지로 만들고 게시할 수 있습니다.
 
-![](assets/opt-out-2.png)
+![](assets/understanding-privacy-settings-2.png)
 
 링크를 클릭하면 Marketo에서 라는 쿠키를 추가합니다. **mkto_opt_out** 위의 매개 변수로 링크를 클릭하는 사이트 방문자에 대한 Munchkin 추적을 비활성화하는 방문자의 브라우저로 연결합니다.
 
 쿠키를 삽입할 수 있는지 확인하려면 쿠키 리드가 있는지 확인하고 링크를 클릭합니다. 그런 다음 브라우저 쿠키를 확인하여 **mkto_opt_out** 쿠키가 추가되었습니다.
 
-![](assets/opt-out-3.png)
+![](assets/understanding-privacy-settings-3.png)
 
 >[!NOTE]
 >
