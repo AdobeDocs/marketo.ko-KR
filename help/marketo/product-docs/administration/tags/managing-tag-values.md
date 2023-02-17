@@ -3,9 +3,9 @@ unique-page-id: 2360274
 description: 태그 값 관리 - Marketo 문서 - 제품 설명서
 title: 태그 값 관리
 exl-id: cb733007-fc8b-4d7a-a341-b40ea5d4febe
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+source-git-commit: f24a669b10e67bbacf88e3e6cef97c21331695ef
 workflow-type: tm+mt
-source-wordcount: '174'
+source-wordcount: '177'
 ht-degree: 0%
 
 ---
@@ -24,29 +24,33 @@ ht-degree: 0%
 
 ## 태그 값 추가 {#adding-tag-values}
 
-1. 아래 **관리**&#x200B;를 클릭합니다. **태그**.
+1. 로 이동합니다. **관리** 영역.
 
-   ![](assets/image2014-9-24-12-3a24-3a55.png)
+   ![](assets/managing-tag-values-1.png)
+
+1. 클릭 **태그**.
+
+   ![](assets/managing-tag-values-2.png)
 
 1. 클릭 **새로 만들기**, 그런 다음 **새 태그 값**.
 
-   ![](assets/image2014-9-24-12-3a25-3a23.png)
+   ![](assets/managing-tag-values-3.png)
 
 1. 을(를) 선택합니다 **태그 유형**.
 
-   ![](assets/image2014-9-24-12-3a26-3a2.png)
+   ![](assets/managing-tag-values-4.png)
 
 1. 을(를) 입력합니다. **값** 을(를) 클릭합니다. **다른 추가**. 원하는 만큼 값을 추가할 수 있습니다.
 
-   ![](assets/image2014-9-24-12-3a26-3a27.png)
+   ![](assets/managing-tag-values-5.png)
 
 1. 나머지 값을 추가하고 을(를) 클릭합니다. **만들기**.
 
-   ![](assets/image2014-9-24-12-3a26-3a55.png)
+   ![](assets/managing-tag-values-6.png)
 
 1. 변경 사항이 즉시 표시됩니다!
 
-   ![](assets/image2014-9-24-12-3a27-3a34.png)
+   ![](assets/managing-tag-values-7.png)
 
 ## 태그 값 숨기기 {#hiding-tag-values}
 
@@ -54,11 +58,11 @@ ht-degree: 0%
 
 1. 을(를) 선택합니다 **태그** 을(를) 선택하고 을(를) 선택합니다. **값** 숨고 싶구나
 
-   ![](assets/image2014-9-24-12-3a28-3a25.png)
+   ![](assets/managing-tag-values-8.png)
 
 1. 아래 **태그 작업**, 선택 **숨기기**.
 
-   ![](assets/image2014-9-24-12-3a29-3a4.png)
+   ![](assets/managing-tag-values-9.png)
 
 ## 숨겨진 값 표시 {#show-hidden-values}
 
@@ -66,6 +70,6 @@ ht-degree: 0%
 
 1. 숨겨진 표시 상자를 선택합니다. 선택하면 숨겨진 값을 볼 수 있습니다.
 
-   ![](assets/image2014-9-24-12-3a29-3a58.png)
+   ![](assets/managing-tag-values-10.png)
 
 그런 다음 나중에 사용할 값의 숨김을 해제할 수 있습니다.

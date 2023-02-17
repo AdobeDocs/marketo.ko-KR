@@ -3,9 +3,9 @@ unique-page-id: 2360276
 description: 프로그램 채널 숨기기/숨김 취소 - Marketo 문서 - 제품 설명서
 title: 프로그램 채널 숨기기/숨김 취소
 exl-id: 17061f87-85c9-4940-bd8e-590e4c7c04f1
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+source-git-commit: f24a669b10e67bbacf88e3e6cef97c21331695ef
 workflow-type: tm+mt
-source-wordcount: '102'
+source-wordcount: '104'
 ht-degree: 0%
 
 ---
@@ -20,17 +20,21 @@ ht-degree: 0%
 
 ## 프로그램 채널 숨기기 {#hide-a-program-channel}
 
-1. 아래 **관리**&#x200B;를 클릭하고 **태그**.
+1. 로 이동합니다. **관리** 영역.
 
-   ![](assets/image2014-9-24-15-3a45-3a7.png)
+   ![](assets/hide-unhide-a-program-channel-1.png)
+
+1. 클릭 **태그**.
+
+   ![](assets/hide-unhide-a-program-channel-2.png)
 
 1. 을(를) 클릭합니다. **채널** 드롭다운을 선택하고 **채널** 숨기려면
 
-   ![](assets/image2014-9-24-15-3a45-3a41.png)
+   ![](assets/hide-unhide-a-program-channel-3.png)
 
 1. 아래 **태그 작업**&#x200B;를 클릭하고 **숨기기**.
 
-   ![](assets/image2014-9-24-15-3a46-3a22.png)
+   ![](assets/hide-unhide-a-program-channel-4.png)
 
 진정해, 진정해!
 
@@ -38,4 +42,4 @@ ht-degree: 0%
 
 1. 숨김 표시 확인란을 선택하여 프로그램 채널의 숨김을 해제합니다.
 
-   ![](assets/image2014-9-24-15-3a47-3a24.png)
+   ![](assets/hide-unhide-a-program-channel-5.png)
