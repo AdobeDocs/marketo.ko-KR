@@ -3,9 +3,9 @@ unique-page-id: 2360203
 description: API 전용 사용자 역할 만들기 - Marketo 문서 - 제품 설명서
 title: API 전용 사용자 역할 만들기
 exl-id: 731e3e85-8f3d-4c76-91be-1506697211a1
-source-git-commit: 3b2bd965e37779af3ee89f46e04f925a2f12f207
+source-git-commit: 07ebe804d9888c214f9e1ae246ab80dafad54ea3
 workflow-type: tm+mt
-source-wordcount: '128'
+source-wordcount: '0'
 ht-degree: 0%
 
 ---
@@ -18,21 +18,21 @@ ht-degree: 0%
 >
 >**관리 권한 필요**
 
-1. 내 Marketo에서 **관리**.
+1. 로 이동합니다. **관리** 영역.
 
-   ![](assets/adminhand-1.png)
+   ![](assets/create-an-api-only-user-role-1.png)
 
-1. 보안(Security)에서 **사용자 및 역할**.
+1. 클릭 **사용자 및 역할**.
 
-   ![](assets/two.png)
+   ![](assets/create-an-api-only-user-role-2.png)
 
 1. 을(를) 클릭합니다. **역할** 탭한 다음 **새 역할**.
 
-   ![](assets/image2014-9-16-13-3a47-3a12.png)
+   ![](assets/create-an-api-only-user-role-3.png)
 
 1. 역할 이름을 입력하고 제공할 API 액세스 권한을 선택한 다음 를 클릭합니다 **만들기.**
 
-   ![](assets/image2014-9-16-13-3a47-3a36.png)
+   ![](assets/create-an-api-only-user-role-4.png)
 
 >[!TIP]
 >

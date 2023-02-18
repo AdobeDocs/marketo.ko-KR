@@ -3,9 +3,9 @@ unique-page-id: 2360198
 description: 사용자 역할 만들기, 삭제, 편집 및 변경 - Marketo 문서 - 제품 설명서
 title: 사용자 역할 만들기, 삭제, 편집 및 변경
 exl-id: e5bb3184-32a6-4c5b-9d84-f3252ba5f73c
-source-git-commit: bb8b8c309593e34b773b8ab1b9873df425989753
+source-git-commit: 07ebe804d9888c214f9e1ae246ab80dafad54ea3
 workflow-type: tm+mt
-source-wordcount: '289'
+source-wordcount: '295'
 ht-degree: 0%
 
 ---
@@ -31,31 +31,39 @@ ht-degree: 0%
 
 ## 역할 만들기 {#create-a-role}
 
-1. 이동 **관리** 을(를) 클릭합니다. **사용자 및 역할**.
+1. 로 이동합니다. **관리** 영역.
 
-   ![](assets/image2014-9-16-13-3a29-3a48.png)
+   ![](assets/create-delete-edit-and-change-a-user-role-1.png)
+
+1. 클릭 **사용자 및 역할**.
+
+   ![](assets/create-delete-edit-and-change-a-user-role-2.png)
 
 1. 로 이동합니다. **역할 탭** 을(를) 클릭합니다. **새 역할**.
 
-   ![](assets/image2014-9-16-13-3a30-3a0.png)
+   ![](assets/create-delete-edit-and-change-a-user-role-3.png)
 
 1. 새 역할에 이름을 지정하고, 역할과 연관된 사용자에게 부여할 모든 권한을 선택한 다음 를 클릭합니다 **만들기**.
 
-   ![](assets/image2014-9-16-13-3a31-3a19.png)
+   ![](assets/create-delete-edit-and-change-a-user-role-4.png)
 
 ## 역할 삭제 {#delete-a-role}
 
-1. 아래 **관리**&#x200B;를 클릭합니다. **사용자 및 역할**.
+1. 로 이동합니다. **관리** 영역.
 
-   ![](assets/image2014-9-16-13-3a31-3a42.png)
+   ![](assets/create-delete-edit-and-change-a-user-role-5.png)
+
+1. 클릭 **사용자 및 역할**.
+
+   ![](assets/create-delete-edit-and-change-a-user-role-6.png)
 
 1. 아래에 **역할** 탭에서 역할을 선택하고 를 클릭합니다 **역할 삭제**.
 
-   ![](assets/image2014-9-16-13-3a31-3a56.png)
+   ![](assets/create-delete-edit-and-change-a-user-role-7.png)
 
 1. 을 클릭하여 삭제를 확인합니다 **삭제**.
 
-   ![](assets/image2014-9-16-13-3a32-3a25.png)
+   ![](assets/create-delete-edit-and-change-a-user-role-8.png)
 
 >[!NOTE]
 >
@@ -67,21 +75,25 @@ ht-degree: 0%
 >
 >자신의 사용자 역할을 편집하려면 관리자 권한이 있는 다른 사용자로 로그인해야 합니다.
 
-1. 이동 **관리** 을(를) 클릭합니다. **사용자 및 역할**.
+1. 로 이동합니다. **관리** 영역.
 
-   ![](assets/image2014-9-16-13-3a34-3a2.png)
+   ![](assets/create-delete-edit-and-change-a-user-role-9.png)
+
+1. 클릭 **사용자 및 역할**.
+
+   ![](assets/create-delete-edit-and-change-a-user-role-10.png)
 
 1. 을(를) 클릭합니다. **역할** 탭.
 
-   ![](assets/image2014-9-16-13-3a34-3a22.png)
+   ![](assets/create-delete-edit-and-change-a-user-role-11.png)
 
 1. 편집할 역할을 선택하고 **역할 편집**.
 
-   ![](assets/image2014-9-16-13-3a34-3a37.png)
+   ![](assets/create-delete-edit-and-change-a-user-role-12.png)
 
 1. 필요한 모든 변경 작업을 수행하고 **저장**.
 
-   ![](assets/image2014-9-16-13-3a35-3a16.png)
+   ![](assets/create-delete-edit-and-change-a-user-role-13.png)
 
    >[!NOTE]
    >
@@ -93,17 +105,21 @@ ht-degree: 0%
 
 ## 사용자 역할 변경 {#change-a-users-role}
 
-1. 이동 **관리** 을(를) 클릭합니다. **사용자 및 역할**.
+1. 로 이동합니다. **관리** 영역.
 
-   ![](assets/image2014-9-16-13-3a35-3a49.png)
+   ![](assets/create-delete-edit-and-change-a-user-role-14.png)
+
+1. 클릭 **사용자 및 역할**.
+
+   ![](assets/create-delete-edit-and-change-a-user-role-15.png)
 
 1. 다른 역할을 지정할 사용자를 선택하고 을(를) 클릭합니다 **사용자 편집.**
 
-   ![](assets/image2014-9-16-13-36-8.png)
+   ![](assets/create-delete-edit-and-change-a-user-role-16.png)
 
 1. 이전 역할의 선택을 취소하고 새 역할을 선택한 다음 **저장**.
 
-   ![](assets/image2014-9-16-13-3a36-3a35.png)
+   ![](assets/create-delete-edit-and-change-a-user-role-17.png)
 
 >[!NOTE]
 >

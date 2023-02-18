@@ -3,9 +3,9 @@ unique-page-id: 2360207
 description: API 전용 사용자 만들기 - Marketo 문서 - 제품 설명서
 title: API 전용 사용자 만들기
 exl-id: 23c92255-07a8-41c2-b7b8-8e495d135671
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+source-git-commit: 07ebe804d9888c214f9e1ae246ab80dafad54ea3
 workflow-type: tm+mt
-source-wordcount: '163'
+source-wordcount: '166'
 ht-degree: 0%
 
 ---
@@ -22,17 +22,21 @@ ht-degree: 0%
 >
 >**관리 권한 필요**
 
-1. 아래 **관리**&#x200B;를 클릭합니다. **사용자 및 역할.**
+1. 로 이동합니다. **관리** 영역.
 
-   ![](assets/image2014-9-17-9-3a31-3a31.png)
+   ![](assets/create-an-api-only-user-1.png)
+
+1. 클릭 **사용자 및 역할**.
+
+   ![](assets/create-an-api-only-user-2.png)
 
 1. 클릭 **새 사용자 초대**.
 
-   ![](assets/image2014-9-17-9-3a32-3a3.png)
+   ![](assets/create-an-api-only-user-3.png)
 
 1. API 전용 사용자의 이메일, 이름 및 성을 입력합니다. 클릭 **다음**.
 
-   ![](assets/image2016-5-24-10-3a53-3a7.png)
+   ![](assets/create-an-api-only-user-4.png)
 
    >[!TIP]
    >
@@ -40,11 +44,11 @@ ht-degree: 0%
 
 1. 을(를) 선택합니다 **API만** 역할 및 확인 **API만** 확인란을 선택합니다. 클릭 **다음**.
 
-   ![](assets/four.png)
+   ![](assets/create-an-api-only-user-5.png)
 
 1. 클릭 **보내기**.
 
-   ![](assets/image2016-5-24-11-3a8-3a20.png)
+   ![](assets/create-an-api-only-user-6.png)
 
 >[!NOTE]
 >
