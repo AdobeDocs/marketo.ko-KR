@@ -2,10 +2,10 @@
 description: 현재 릴리스 정보 - Marketo 설명서 - 제품 설명서
 title: 현재 릴리스 노트
 exl-id: a2eccad5-73ad-48f9-8091-51cee23824e1
-source-git-commit: 130102aefb0b6c12dc0ea87fdf6fef682e90b44c
+source-git-commit: d744ef8f0798bfef540f49e2a6890eaa307569c4
 workflow-type: tm+mt
-source-wordcount: '623'
-ht-degree: 9%
+source-wordcount: '622'
+ht-degree: 8%
 
 ---
 
@@ -33,8 +33,8 @@ ht-degree: 9%
    <td><b>설명서 업데이트</b></td>
   </tr>
   <tr> 
-   <td><i>곧 출시 예정</i></td>
-   <td><i>곧 출시 예정</i></td>
+   <td>배송됨</td>
+   <td>해당 사항 없음</td>
   </tr>
   </tbody>
 </table>
