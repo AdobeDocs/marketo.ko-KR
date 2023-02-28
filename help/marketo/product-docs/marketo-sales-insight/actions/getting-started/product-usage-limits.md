@@ -2,10 +2,10 @@
 description: 제품 사용 제한 - Marketo 문서 - 제품 설명서
 title: 제품 사용 제한
 exl-id: 899dc59e-85bf-408e-9687-e0ed823dd51f
-source-git-commit: b27cf5eae178b5b3da27e0c15c98eb3c3470cd5f
+source-git-commit: 152b8e4f39dd9036e9479dc58b21d20c46c9e658
 workflow-type: tm+mt
-source-wordcount: '186'
-ht-degree: 13%
+source-wordcount: '192'
+ht-degree: 14%
 
 ---
 
@@ -80,6 +80,11 @@ Sales Insight Actions에서 사용할 수 있는 확장된 영업 참여 기능�
   <td>그룹</td>
   <td>사용자당</td>
   <td>50</td>
+ </tr>
+ <tr>
+  <td>그룹당 사람 수</td>
+  <td>그룹 당</td>
+  <td>200</td>
  </tr>
  <tr>
   <td>업로드된 첨부 파일</td>
