@@ -3,9 +3,9 @@ unique-page-id: 2359909
 description: 사용자 역할 및 권한 관리 - Marketo 문서 - 제품 설명서
 title: 사용자 역할 및 권한 관리
 exl-id: e0213c5f-04e0-41a9-ac7b-873e2e39ac79
-source-git-commit: 5dcaf886c488e5e1b7fd1c4caa5f869e70c6fb18
+source-git-commit: 3bb7e8155491f810cc0e71637482e6da788dc068
 workflow-type: tm+mt
-source-wordcount: '493'
+source-wordcount: '486'
 ht-degree: 0%
 
 ---
@@ -38,17 +38,21 @@ Adobe ID와 함께 Marketo을 사용하는 경우 프로필 설명 목록입니�
 
 사용자에게 역할을 할당할 때 [처음으로 사용자 만들기](/help/marketo/product-docs/administration/users-and-roles/create-delete-edit-and-change-a-user-role.md) 또는 [기존 사용자 편집](/help/marketo/product-docs/administration/users-and-roles/managing-marketo-users.md).
 
-1. 기존 사용자를 편집하려면 **관리** 을(를) 클릭합니다. **사용자 및 역할**.
+1. 로 이동합니다. **관리** 영역.
 
-   ![](assets/image2014-9-9-18-3a7-3a32.png)
+   ![](assets/managing-user-roles-and-permissions-1.png)
+
+1. 클릭 **사용자 및 역할**.
+
+   ![](assets/managing-user-roles-and-permissions-2.png)
 
 1. 목록에서 편집할 사용자를 선택하고 **사용자 편집**.
 
-   ![](assets/image2014-9-9-18-3a7-3a42.png)
+   ![](assets/managing-user-roles-and-permissions-3.png)
 
 1. 아래 **역할**&#x200B;필요한 권한을 기준으로 사용자에게 할당할 역할을 선택하고 을(를) 클릭합니다. **저장**.
 
-   ![](assets/image2014-9-9-18-3a7-3a57.png)
+   ![](assets/managing-user-roles-and-permissions-4.png)
 
    >[!NOTE]
    >
@@ -58,41 +62,49 @@ Adobe ID와 함께 Marketo을 사용하는 경우 프로필 설명 목록입니�
 
 경우에 따라 조직에 매우 특정한 역할에 따라 사용자 지정 권한 조합이 필요한 직원이 있습니다.
 
-1. 새 사용자 역할을 만들려면 [관리]로 이동하고 **사용자 및 역할**.
+1. 로 이동합니다. **관리** 영역.
 
-   ![](assets/image2014-9-9-18-3a8-3a12.png)
+   ![](assets/managing-user-roles-and-permissions-5.png)
+
+1. 클릭 **사용자 및 역할**.
+
+   ![](assets/managing-user-roles-and-permissions-6.png)
 
 1. 을(를) 클릭합니다. **역할** 탭.
 
-   ![](assets/image2014-9-9-18-3a8-3a22.png)
+   ![](assets/managing-user-roles-and-permissions-7.png)
 
 1. 클릭 **새 역할**.
 
-   ![](assets/image2014-9-9-18-3a8-3a38.png)
+   ![](assets/managing-user-roles-and-permissions-8.png)
 
 1. 을(를) 입력합니다. **역할 이름**, **설명** (선택 사항) 을 선택하고 이 역할의 사용자에게 필요한 권한을 선택합니다.
 
-   ![](assets/image2014-9-9-18-3a9-3a3.png)
+   ![](assets/managing-user-roles-and-permissions-9.png)
 
 ## 역할 편집 {#edit-a-role}
 
 기존 역할과 연관된 권한을 변경해야 하는 경우 역할을 편집할 수 있습니다.
 
-1. 이동 **관리** 을(를) 클릭합니다. **사용자 및 역할**.
+1. 로 이동합니다. **관리** 영역.
 
-   ![](assets/image2014-9-9-18-3a9-3a15.png)
+   ![](assets/managing-user-roles-and-permissions-10.png)
+
+1. 클릭 **사용자 및 역할**.
+
+   ![](assets/managing-user-roles-and-permissions-11.png)
 
 1. 을(를) 클릭합니다. **역할** 탭.
 
-   ![](assets/image2014-9-9-18-3a9-3a26.png)
+   ![](assets/managing-user-roles-and-permissions-12.png)
 
 1. 목록에서 수정할 역할을 선택하고 을 클릭합니다 **역할 편집**.
 
-   ![](assets/image2014-9-9-18-3a9-3a40.png)
+   ![](assets/managing-user-roles-and-permissions-13.png)
 
 1. 변경 **역할 이름** 및 **설명** 필요한 경우 연결된 선택을 변경합니다 **권한**.
 
-   ![](assets/image2014-9-9-18-3a10-3a3.png)
+   ![](assets/managing-user-roles-and-permissions-14.png)
 
    >[!NOTE]
    >
@@ -102,18 +114,22 @@ Adobe ID와 함께 Marketo을 사용하는 경우 프로필 설명 목록입니�
 
 역할이 필요하지 않게 되면 삭제할 수 있습니다.
 
-1. Admin으로 이동하고 다음을 클릭합니다. **사용자 및 역할**.
+1. 로 이동합니다. **관리** 영역.
 
-   ![](assets/image2014-9-9-18-3a10-3a15.png)
+   ![](assets/managing-user-roles-and-permissions-15.png)
+
+1. 클릭 **사용자 및 역할**.
+
+   ![](assets/managing-user-roles-and-permissions-16.png)
 
 1. 을(를) 클릭합니다. **역할** 탭.
 
-   ![](assets/image2014-9-9-18-3a10-3a27.png)
+   ![](assets/managing-user-roles-and-permissions-17.png)
 
 1. 목록에서 삭제할 역할을 선택하고 **역할 삭제**.
 
-   ![](assets/image2014-9-9-18-3a10-3a39.png)
+   ![](assets/managing-user-roles-and-permissions-18.png)
 
 1. 클릭 **삭제** 확인합니다.
 
-   ![](assets/image2014-9-9-18-3a10-3a50.png)
+   ![](assets/managing-user-roles-and-permissions-19.png)

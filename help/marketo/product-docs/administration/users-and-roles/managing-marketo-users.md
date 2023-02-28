@@ -3,9 +3,9 @@ unique-page-id: 2359906
 description: Marketo 사용자 관리 - Marketo 문서 - 제품 설명서
 title: Marketo 사용자 관리
 exl-id: 40506d3c-a7cb-45fb-bc10-021bd0c70806
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+source-git-commit: 3bb7e8155491f810cc0e71637482e6da788dc068
 workflow-type: tm+mt
-source-wordcount: '342'
+source-wordcount: '346'
 ht-degree: 0%
 
 ---
@@ -14,25 +14,29 @@ ht-degree: 0%
 
 ## 사용자 만들기 {#create-users}
 
-1. 이동 **관리** 을(를) 클릭합니다. **사용자 및 역할**.
+1. 로 이동합니다. **관리** 영역.
 
-   ![](assets/image2014-9-9-11-3a34-3a58.png)
+   ![](assets/managing-marketo-users-1.png)
+
+1. 클릭 **사용자 및 역할**.
+
+   ![](assets/managing-marketo-users-2.png)
 
 1. 클릭 **새 사용자 초대**.
 
-   ![](assets/image2014-9-9-11-3a35-3a15.png)
+   ![](assets/managing-marketo-users-3.png)
 
 1. 을(를) 입력합니다. **이메일 주소**, **이름**, 및 **성**.
 
-   ![](assets/image2016-5-24-9-3a45-3a30.png)
+   ![](assets/managing-marketo-users-4.png)
 
 1. 초대의 이유를 입력하고(선택적) **액세스 만료** 날짜 선택기를 사용하는 필드.
 
-   ![](assets/image2016-6-29-15-3a52-3a18.png)
+   ![](assets/managing-marketo-users-5.png)
 
 1. 클릭 **다음**.
 
-   ![](assets/image2016-5-24-9-3a58-3a10.png)
+   ![](assets/managing-marketo-users-6.png)
 
    >[!TIP]
    >
@@ -44,17 +48,17 @@ ht-degree: 0%
 
 1. 을(를) 선택합니다 **역할** 선택한 후 **다음**.
 
-   ![](assets/image2016-5-24-10-3a1-3a33.png)
+   ![](assets/managing-marketo-users-7.png)
 
 1. 필요한 경우 초대 메시지를 편집합니다. 클릭 **보내기**.
 
-   ![](assets/image2016-5-24-10-3a3-3a56.png)
+   ![](assets/managing-marketo-users-8.png)
 
    >[!NOTE]
    >
    >이메일/로그인은 고유해야 합니다. 샌드박스 인스턴스에서 이미 사용한 경우 프로덕션에서 다른 인스턴스를 사용하고 그 반대의 경우 이를 사용해야 합니다.
 
-   ![](assets/image2016-5-24-10-3a21-3a57.png)
+   ![](assets/managing-marketo-users-9.png)
 
    >[!NOTE]
    >
@@ -64,35 +68,41 @@ ht-degree: 0%
 
 ## 사용자 삭제 {#delete-users}
 
-1. Admin으로 이동하고 다음을 클릭합니다. **사용자 및 역할**.
+1. 로 이동합니다. **관리** 영역.
 
-   ![](assets/image2014-9-9-11-3a36-3a21.png)
+   ![](assets/managing-marketo-users-10.png)
+
+1. 클릭 **사용자 및 역할**.
+
+   ![](assets/managing-marketo-users-11.png)
 
 1. 제거할 사용자를 선택하고 을(를) 클릭합니다 **사용자 삭제**.
 
-   ![](assets/image2014-9-9-11-3a36-3a36.png)
+   ![](assets/managing-marketo-users-12.png)
 
 1. 을 클릭하여 확인 **확인**.
 
-   ![](assets/image2014-9-9-11-3a36-3a51.png)
+   ![](assets/managing-marketo-users-13.png)
 
 ## 사용자 암호 재설정 {#reset-user-passwords}
 
-1. Admin으로 이동하고 다음을 클릭합니다. **사용자 및 역할**.
+1. 관리 영역으로 이동합니다.
 
-   ![](assets/image2014-9-9-11-3a41-3a0.png)
+   ![](assets/managing-marketo-users-14.png)
+
+1. 클릭 **사용자 및 역할**.
+
+   ![](assets/managing-marketo-users-15.png)
 
 1. 사용자를 선택하고 을(를) 클릭합니다. **암호 재설정**.
 
-   ![](assets/image2014-9-9-11-3a41-3a19.png)
+   ![](assets/managing-marketo-users-16.png)
 
 1. 클릭 **닫기** 메시지를 닫습니다.
 
-   ![](assets/image2014-9-9-11-3a41-3a50.png)
+   ![](assets/managing-marketo-users-17.png)
 
 사용자는 암호 재설정 지침이 포함된 이메일을 받게 됩니다.
-
-![](assets/image2014-9-9-11-3a45-3a53.png)
 
 >[!TIP]
 >
@@ -100,17 +110,21 @@ ht-degree: 0%
 
 ## 권한 변경 및 사용자 정보 편집 {#change-permissions-and-edit-user-information}
 
-1. 이동 **관리** 을(를) 클릭합니다. **사용자 및 역할.**
+1. 로 이동합니다. **관리** 영역.
 
-   ![](assets/image2014-9-9-11-3a37-3a5.png)
+   ![](assets/managing-marketo-users-18.png)
+
+1. 클릭 **사용자 및 역할**.
+
+   ![](assets/managing-marketo-users-19.png)
 
 1. 사용자를 선택하고 을(를) 클릭합니다. **사용자 편집**.
 
-   ![](assets/image2014-9-9-11-3a37-3a16.png)
+   ![](assets/managing-marketo-users-20.png)
 
 1. 사용자 정보를 편집하고 관련 역할을 변경할 수 있습니다. 클릭 **저장**.
 
-   ![](assets/image2014-9-9-11-3a37-3a31.png)
+   ![](assets/managing-marketo-users-21.png)
 
 >[!CAUTION]
 >

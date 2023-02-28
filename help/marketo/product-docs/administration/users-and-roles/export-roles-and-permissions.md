@@ -2,9 +2,9 @@
 description: 역할 및 권한 내보내기 - Marketo 문서 - 제품 설명서
 title: 역할 및 권한 내보내기
 exl-id: 2c3ee917-dc8c-40e1-a6e6-f6cb059963f6
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+source-git-commit: 3bb7e8155491f810cc0e71637482e6da788dc068
 workflow-type: tm+mt
-source-wordcount: '86'
+source-wordcount: '85'
 ht-degree: 0%
 
 ---
@@ -17,7 +17,7 @@ ht-degree: 0%
 >
 >관리 권한 필요
 
-1. 내 Marketo에서 **관리**.
+1. 로 이동합니다. **관리** 영역.
 
    ![](assets/export-roles-and-permissions-1.png)
 
