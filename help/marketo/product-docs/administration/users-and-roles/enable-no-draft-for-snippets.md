@@ -5,7 +5,7 @@ title: 코드 조각에 대한 초안 없음 활성화
 exl-id: 8a6b6f18-175f-417c-9937-4e000afd71af
 source-git-commit: 27eb6dedaae60616fe871d0a3ac4f38b5b4ecfd4
 workflow-type: tm+mt
-source-wordcount: '148'
+source-wordcount: '147'
 ht-degree: 0%
 
 ---
@@ -24,29 +24,25 @@ ht-degree: 0%
 >
 >**관리자 권한 필요**
 
-1. 로 이동 **관리자** 영역입니다.
+1. 다음으로 이동 **관리자** 및 클릭 **사용자 및 역할**.
 
-   ![](assets/enable-no-draft-for-snippets-1.png)
-
-1. 클릭 **사용자 및 역할**.
-
-   ![](assets/enable-no-draft-for-snippets-2.png)
+   ![](assets/usersandroles.png)
 
 1. 로 이동 **역할** 탭에서 역할을 선택한 다음 **역할 편집**.
 
-   ![](assets/enable-no-draft-for-snippets-3.png)
+   ![](assets/editrole2.png)
 
 1. 확장 **Design Studio 액세스** 옵션을 선택합니다.
 
-   ![](assets/enable-no-draft-for-snippets-4.png)
+   ![](assets/expanddesignstudio.png)
 
 1. 확장 **코드 조각 액세스** 옵션을 선택합니다.
 
-   ![](assets/enable-no-draft-for-snippets-5.png)
+   ![](assets/expandsnippet.png)
 
 1. 확장 **코드 조각 승인** 권한 및 확인 **초안 없음** 상자. 그런 다음 **저장**.
 
-   ![](assets/enable-no-draft-for-snippets-6.png)
+   ![](assets/2017-06-15-10-35-04.png)
 
 >[!TIP]
 >
