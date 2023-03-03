@@ -3,9 +3,9 @@ unique-page-id: 2360325
 description: 작업 영역에 대한 사용자 액세스 허용 - Marketo 문서 - 제품 설명서
 title: 작업 영역에 대한 사용자 액세스 허용
 exl-id: 8ccec529-ae28-4bf8-a9ba-4d9c7df809d9
-source-git-commit: 57b94e643154b1463d9fd65295a66f1a3286fd40
+source-git-commit: a45732d3c09e7e3ca9e1a85c66aa7087c01eaa6f
 workflow-type: tm+mt
-source-wordcount: '0'
+source-wordcount: '119'
 ht-degree: 0%
 
 ---
@@ -42,7 +42,7 @@ ht-degree: 0%
    >
    >사용자가 작업 공간에 대한 모든 액세스 권한을 조합해서 보유하도록 허용할 수 있습니다.
 
-변경 사항을 저장한 후 업데이트가 표시됩니다!
+변경 사항을 저장한 후 업데이트가 표시됩니다.
 
 ![](assets/allow-user-access-to-a-workspace-5.png)
 
