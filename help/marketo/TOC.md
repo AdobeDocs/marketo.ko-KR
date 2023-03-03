@@ -3,7 +3,7 @@ audience: end-user
 user-guide-title: Marketo 안내서
 user-guide-description: Marketo 제품 설명서
 feature-set: Marketo Engage
-source-git-commit: e4bd83abfeba54a777548926799f541b7b798ae5
+source-git-commit: f249988baa444b5e48a497225128a0771660649e
 workflow-type: tm+mt
 source-wordcount: '8832'
 ht-degree: 0%
@@ -1216,7 +1216,7 @@ ht-degree: 0%
          + [Sales Connect가 Salesforce Lightning과 호환됩니까?](product-docs/marketo-sales-connect/faq/is-sales-connect-compatible-with-salesforce-lightning.md)
          + [Sales Connect 서비스 약관은 무엇입니까?](product-docs/marketo-sales-connect/faq/what-are-the-sales-connect-terms-of-service.md)
          + [Sales Connect 및 Highspot 통합이란 무엇입니까?](product-docs/marketo-sales-connect/faq/what-is-the-sales-connect-and-highspot-integration.md)
-         + [Sales Insight Actions 는 어떤 브라우저를 지원합니까?](product-docs/marketo-sales-connect/faq/which-browsers-does-sales-insight-actions-support.md)
+         + [최신 클라이언트 버전은 무엇입니까?](product-docs/marketo-sales-connect/faq/what-are-the-latest-client-versions.md)
          + [내 연락처 중 Sales Connect에 푸시되는 연락처가 없는 이유는 무엇입니까?](product-docs/marketo-sales-connect/faq/why-arent-any-of-my-contacts-getting-pushed-to-sales-connect.md)
          + [연락처를 삭제할 수 없는 이유](product-docs/marketo-sales-connect/faq/why-cant-i-delete-a-contact.md)
          + [왜 모든 연락처가 Sales Connect로 푸시되지 않았습니까?](product-docs/marketo-sales-connect/faq/why-didnt-all-of-my-contacts-get-pushed-to-sales-connect.md)
@@ -1369,7 +1369,7 @@ ht-degree: 0%
             + [Sales Insight 작업은 이메일 중복 제거를 어떻게 처리합니까?](product-docs/marketo-sales-insight/actions/faq/how-does-sales-insight-actions-handle-email-de-duping.md)
             + [제 계좌가 잠겨버렸어요. 어떻게 해야 합니까?](product-docs/marketo-sales-insight/actions/faq/i-got-locked-out-of-my-account-what-do-i-do.md)
             + [Sales Insight 작업은 Salesforce Lightning 과 호환됩니까?](product-docs/marketo-sales-insight/actions/faq/is-sales-insight-actions-compatible-with-salesforce-lightning.md)
-            + [최신 클라이언트 버전은 무엇입니까?](product-docs/marketo-sales-insight/actions/faq/what-are-the-latest-client-versions.md)
+            + [Sales Insight Actions 는 어떤 브라우저를 지원합니까?](product-docs/marketo-sales-insight/actions/faq/which-browsers-does-sales-insight-actions-support.md)
             + [Sales Insight Actions 서비스 약관은 무엇입니까?](product-docs/marketo-sales-insight/actions/faq/what-are-the-sales-insight-actions-terms-of-service.md)
             + [내 연락처 중 Sales Insight 작업에 푸시되는 대상이 없는 이유는 무엇입니까?](product-docs/marketo-sales-insight/actions/faq/why-arent-any-of-my-contacts-getting-pushed-to-sales-insight-actions.md)
             + [동적 필드를 채우지 않는 이유는 무엇입니까?](product-docs/marketo-sales-insight/actions/faq/why-arent-my-dynamic-fields-filling-out.md)
