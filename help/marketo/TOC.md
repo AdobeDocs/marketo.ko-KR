@@ -3,9 +3,9 @@ audience: end-user
 user-guide-title: Marketo 안내서
 user-guide-description: Marketo 제품 설명서
 feature-set: Marketo Engage
-source-git-commit: f249988baa444b5e48a497225128a0771660649e
+source-git-commit: 0011d89b6e0b9ad9be8dceb2c60c85c522e84add
 workflow-type: tm+mt
-source-wordcount: '8832'
+source-wordcount: '8836'
 ht-degree: 0%
 
 ---
@@ -1216,7 +1216,7 @@ ht-degree: 0%
          + [Sales Connect가 Salesforce Lightning과 호환됩니까?](product-docs/marketo-sales-connect/faq/is-sales-connect-compatible-with-salesforce-lightning.md)
          + [Sales Connect 서비스 약관은 무엇입니까?](product-docs/marketo-sales-connect/faq/what-are-the-sales-connect-terms-of-service.md)
          + [Sales Connect 및 Highspot 통합이란 무엇입니까?](product-docs/marketo-sales-connect/faq/what-is-the-sales-connect-and-highspot-integration.md)
-         + [최신 클라이언트 버전은 무엇입니까?](product-docs/marketo-sales-connect/faq/what-are-the-latest-client-versions.md)
+         + [Sales Connect에서 지원되는 브라우저 및 이메일 클라이언트는 무엇입니까?](product-docs/marketo-sales-connect/faq/which-browsers-and-email-clients-are-supported-with-sales-connect.md)
          + [내 연락처 중 Sales Connect에 푸시되는 연락처가 없는 이유는 무엇입니까?](product-docs/marketo-sales-connect/faq/why-arent-any-of-my-contacts-getting-pushed-to-sales-connect.md)
          + [연락처를 삭제할 수 없는 이유](product-docs/marketo-sales-connect/faq/why-cant-i-delete-a-contact.md)
          + [왜 모든 연락처가 Sales Connect로 푸시되지 않았습니까?](product-docs/marketo-sales-connect/faq/why-didnt-all-of-my-contacts-get-pushed-to-sales-connect.md)
