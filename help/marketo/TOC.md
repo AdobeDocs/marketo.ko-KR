@@ -3,7 +3,7 @@ audience: end-user
 user-guide-title: Marketo 안내서
 user-guide-description: Marketo 제품 설명서
 feature-set: Marketo Engage
-source-git-commit: b507bee5e41aff140d4ed9f9a2c842398feb8306
+source-git-commit: 375abb702f611d1e50b762606402ccdf1f9ca9c6
 workflow-type: tm+mt
 source-wordcount: '8829'
 ht-degree: 0%
@@ -1201,6 +1201,7 @@ ht-degree: 0%
             + [구독 취소 개요](product-docs/marketo-sales-connect/email/unsubscribes/unsubscribe-overview.md)
          + 작성 창 사용 {#using-the-compose-window}
             + [이메일에 첨부 파일 또는 추적 가능한 콘텐츠 추가](product-docs/marketo-sales-connect/email/using-the-compose-window/add-an-attachment-or-trackable-content-to-your-email.md)
+            + [이메일에 Highspot 콘텐츠 추가](product-docs/marketo-sales-connect/email/using-the-compose-window/adding-highspot-content-to-your-email.md)
             + [대량 전송 옵션](product-docs/marketo-sales-connect/email/using-the-compose-window/bulk-sending-options.md)
             + [Select 및 Send를 사용하여 일괄 이메일 작성](product-docs/marketo-sales-connect/email/using-the-compose-window/composing-bulk-emails-with-select-and-send.md)
             + [이메일 예약](product-docs/marketo-sales-connect/email/using-the-compose-window/scheduling-an-email.md)
@@ -1352,7 +1353,6 @@ ht-degree: 0%
                + [Salesforce와 구독 취소 동기화](product-docs/marketo-sales-insight/actions/email/unsubscribes/syncing-unsubscribes-with-salesforce.md)
             + 작성 창 사용 {#using-the-compose-window}
                + [이메일에 첨부 파일 또는 추적 가능한 콘텐츠 추가](product-docs/marketo-sales-insight/actions/email/using-the-compose-window/add-an-attachment-or-trackable-content-to-your-email.md)
-               + [이메일에 Highspot 콘텐츠 추가](product-docs/marketo-sales-insight/actions/email/using-the-compose-window/adding-highspot-content-to-your-email.md)
                + [벌크 이메일 옵션](product-docs/marketo-sales-insight/actions/email/using-the-compose-window/bulk-emailing-options.md)
                + [Select 및 Send를 사용하여 일괄 이메일 작성](product-docs/marketo-sales-insight/actions/email/using-the-compose-window/composing-bulk-emails-with-select-and-send.md)
                + [그룹 이메일을 통해 이메일 보내기](product-docs/marketo-sales-insight/actions/email/using-the-compose-window/sending-emails-via-group-email.md)
