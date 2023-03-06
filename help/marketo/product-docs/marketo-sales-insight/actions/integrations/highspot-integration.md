@@ -1,11 +1,9 @@
 ---
 description: Highspot 통합 - Marketo 문서 - 제품 설명서
 title: Highspot 통합
-hide: true
-hidefromtoc: true
-source-git-commit: ba7955f97921f7332e5272f6c62651011a1633c7
+source-git-commit: 4f919501ee93790105fae3800f1b0ddd96036dfa
 workflow-type: tm+mt
-source-wordcount: '328'
+source-wordcount: '334'
 ht-degree: 0%
 
 ---
@@ -52,7 +50,7 @@ Sales Insight Actions 작성 창, 템플릿 편집기 및 판매 캠페인 이�
 
    ![](assets/highspot-integration-7.png)
 
-1. Highspot 계정에 로그인합니다.
+1. Highspot 계정에 로그인합니다(아직 로그인하지 않은 경우).
 
    ![](assets/highspot-integration-8.png)
 
