@@ -3,9 +3,9 @@ audience: end-user
 user-guide-title: Marketo 안내서
 user-guide-description: Marketo 제품 설명서
 feature-set: Marketo Engage
-source-git-commit: 0011d89b6e0b9ad9be8dceb2c60c85c522e84add
+source-git-commit: b507bee5e41aff140d4ed9f9a2c842398feb8306
 workflow-type: tm+mt
-source-wordcount: '8836'
+source-wordcount: '8829'
 ht-degree: 0%
 
 ---
@@ -239,6 +239,7 @@ ht-degree: 0%
       + [Adobe 조직 매핑 설정](product-docs/adobe-experience-cloud-integrations/set-up-adobe-organization-mapping.md)
       + [Adobe Experience Cloud에서 대상자 동기화](product-docs/adobe-experience-cloud-integrations/sync-an-audience-from-adobe-experience-cloud.md)
       + [Adobe Experience Manager으로 에셋 가져오기](product-docs/adobe-experience-cloud-integrations/importing-assets-with-adobe-experience-manager.md)
+      + [통합 쉘 개요](product-docs/adobe-experience-cloud-integrations/unified-shell-overview.md)
    + 핵심 Marketo 개념 {#core-marketo-concepts}
       + 스마트 캠페인 {#smart-campaigns}
          + [스마트 캠페인 이해](product-docs/core-marketo-concepts/smart-campaigns/understanding-smart-campaigns.md)
@@ -1200,7 +1201,6 @@ ht-degree: 0%
             + [구독 취소 개요](product-docs/marketo-sales-connect/email/unsubscribes/unsubscribe-overview.md)
          + 작성 창 사용 {#using-the-compose-window}
             + [이메일에 첨부 파일 또는 추적 가능한 콘텐츠 추가](product-docs/marketo-sales-connect/email/using-the-compose-window/add-an-attachment-or-trackable-content-to-your-email.md)
-            + [이메일에 Highspot 콘텐츠 추가](product-docs/marketo-sales-connect/email/using-the-compose-window/adding-highspot-content-to-your-email.md)
             + [대량 전송 옵션](product-docs/marketo-sales-connect/email/using-the-compose-window/bulk-sending-options.md)
             + [Select 및 Send를 사용하여 일괄 이메일 작성](product-docs/marketo-sales-connect/email/using-the-compose-window/composing-bulk-emails-with-select-and-send.md)
             + [이메일 예약](product-docs/marketo-sales-connect/email/using-the-compose-window/scheduling-an-email.md)
@@ -1377,7 +1377,7 @@ ht-degree: 0%
             + [왜 모든 연락처가 Sales Insight 작업에 푸시되지 않습니까?](product-docs/marketo-sales-insight/actions/faq/why-didnt-all-of-my-contacts-get-pushed-to-sales-insight-actions.md)
             + [추적 활동이 Salesforce 활동에 표시되지 않는 이유는 무엇입니까?](product-docs/marketo-sales-insight/actions/faq/why-is-tracking-activity-not-showing-in-salesforce-activity.md)
          + 통합 {#integrations}
-            + [외부 소스에 이메일 기록](product-docs/marketo-sales-insight/actions/integrations/log-emails-to-an-external-source.md)
+            + [Highspot 통합](product-docs/marketo-sales-insight/actions/integrations/highspot-integration.md)
          + Marketo {#marketo}
             + [사용자에게 Marketo 액세스 권한 부여](product-docs/marketo-sales-insight/actions/marketo/grant-marketo-access-to-users.md)
             + [Sales Insight Actions 의 Interesting Moment](product-docs/marketo-sales-insight/actions/marketo/interesting-moments-in-sales-insight-actions.md)
