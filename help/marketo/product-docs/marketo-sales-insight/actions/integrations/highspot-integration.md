@@ -3,9 +3,9 @@ description: Highspot 통합 - Marketo 문서 - 제품 설명서
 title: Highspot 통합
 hide: true
 hidefromtoc: true
-source-git-commit: 342034eeca4ba0084824b833f14d8e8c3b65d6e3
+source-git-commit: ba7955f97921f7332e5272f6c62651011a1633c7
 workflow-type: tm+mt
-source-wordcount: '0'
+source-wordcount: '328'
 ht-degree: 0%
 
 ---
@@ -20,21 +20,21 @@ Sales Insight Actions에서 Highspot 기능에 액세스하여 영업 주기 전
 >
 >Sales Insight Actions 인스턴스에 대해 Highspot 을 활성화하려면 관리자 권한이 있어야 합니다.
 
-1. 설정 선택
+1. 톱니바퀴 아이콘을 클릭하고 **설정**.
 
-PICC
+   ![](assets/highspot-integration-1.png)
 
-1. 사이드바에서 일반 설정 선택
+1. 아래 **관리자 설정**, 선택 **일반**.
 
-PICC
+   ![](assets/highspot-integration-2.png)
 
-1. 통합 카드로 스크롤하여 Highspot 활성화
+1. 다음으로 스크롤 **통합** 카드를 작성하고 슬라이더를 클릭하여 Highspot을 활성화합니다.
 
-PICC
+   ![](assets/highspot-integration-3.png)
 
-1. 이제 작성 창, 템플릿 편집기 및 캠페인 이메일 편집기에서 컨텐츠 업로드 버튼을 선택할 때 하이스팟을 선택하는 옵션이 표시됩니다.
+이제 작성 창, 템플릿 편집기 및 캠페인 이메일 편집기에서 컨텐츠 업로드 버튼을 선택할 때 하이스팟을 선택하는 옵션이 표시됩니다.
 
-PICC
+![](assets/highspot-integration-4.png)
 
 ## Highspot 콘텐츠에 액세스하고 이메일을 통해 콘텐츠 공유 {#accessing-highspot-content}
 
