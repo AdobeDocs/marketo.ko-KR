@@ -2,10 +2,10 @@
 description: 보고서 - Marketo 문서 - 제품 설명서
 title: 보고서
 exl-id: 25d20567-4bb9-4bc5-aeeb-0ff26d3909b3
-source-git-commit: 3e3446183875b8df7f6ec1fc4a78a5581b109aed
+source-git-commit: dd3844ad0d32f8ffab2d611f437b1e8522fb9988
 workflow-type: tm+mt
-source-wordcount: '122'
-ht-degree: 8%
+source-wordcount: '120'
+ht-degree: 11%
 
 ---
 
@@ -21,7 +21,7 @@ ht-degree: 8%
  </tr>
  <tr>
   <td><strong>참여</strong></td>
-  <td>방문자가 chatbot 앵커를 클릭하여 대화 상자를 열 때마다 증가합니다.</td>
+  <td>방문자가 대화 상자에서 하나 이상의 카드와 상호 작용할 때(예: 질문, 정보 캡처 등)</td>
  </tr>
  <tr>
   <td><strong>완료</strong></td>
@@ -43,7 +43,7 @@ ht-degree: 8%
 
 >[!MORELIKETHIS]
 >
->* [대화 상자 만들기](/help/marketo/product-docs/demand-generation/dynamic-chat/dialogues/create-a-dialogue.md){target=&quot;_blank&quot;}
->* [스트림 디자이너](/help/marketo/product-docs/demand-generation/dynamic-chat/dialogues/stream-designer.md){target=&quot;_blank&quot;}
->* [대상 기준](/help/marketo/product-docs/demand-generation/dynamic-chat/dialogues/audience-criteria.md){target=&quot;_blank&quot;}
+>* [대화 상자 만들기](/help/marketo/product-docs/demand-generation/dynamic-chat/dialogues/create-a-dialogue.md){target="_blank"}
+>* [스트림 디자이너](/help/marketo/product-docs/demand-generation/dynamic-chat/dialogues/stream-designer.md){target="_blank"}
+>* [대상 기준](/help/marketo/product-docs/demand-generation/dynamic-chat/dialogues/audience-criteria.md){target="_blank"}
 
