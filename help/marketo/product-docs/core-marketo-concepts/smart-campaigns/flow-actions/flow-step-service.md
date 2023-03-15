@@ -2,16 +2,16 @@
 description: 흐름 단계 서비스 - Marketo 문서 - 제품 설명서
 title: 흐름 단계 서비스
 exl-id: 81367562-8b27-4ec5-8a9b-b02083a2e999
-source-git-commit: 5d95a77e5c836bf76d82f0db72781727b2743720
+source-git-commit: 16fe0682f1b7d70531101e5857f57d1d405f2f4f
 workflow-type: tm+mt
-source-wordcount: '1243'
+source-wordcount: '1220'
 ht-degree: 0%
 
 ---
 
 # 흐름 단계 서비스 {#flow-step-service}
 
-셀프 서비스 흐름 단계는 Adobe Marketo Engage Smart Campaign에 웹 서비스를 제작, 게시 및 통합하는 프레임워크 및 기능 세트입니다. 이 안내서는 이미 작성 및 게시된 서비스를 설치 및 사용하려는 Marketo Engage 최종 사용자를 위한 것입니다. 자체 서비스를 제작 및 게시하는 방법에 대한 자세한 내용은 [서비스 공급자 인터페이스의 GitHub 리포지토리](https://github.com/adobe/Marketo-SSFS-Service-Provider-Interface){target=&quot;_blank&quot;}. 개념 증명 조회 테이블 구현을 찾을 수 있습니다 [여기](https://github.com/adobe/mkto-flow-lookup){target=&quot;_blank&quot;}.
+셀프 서비스 흐름 단계는 Adobe Marketo Engage Smart Campaign에 웹 서비스를 제작, 게시 및 통합하는 프레임워크 및 기능 세트입니다. 이 안내서는 이미 작성 및 게시된 서비스를 설치 및 사용하려는 Marketo Engage 최종 사용자를 위한 것입니다. 자체 서비스를 제작 및 게시하는 방법에 대한 자세한 내용은 [서비스 공급자 인터페이스의 GitHub 리포지토리](https://github.com/adobe/Marketo-SSFS-Service-Provider-Interface){target="_blank"}. A Proof-of-Concept Lookup Table implementation may be found [here](https://github.com/adobe/mkto-flow-lookup){target="_blank"}.
 
 ## 온보딩 및 관리 서비스 {#onboarding-and-managing-services}
 
@@ -28,10 +28,6 @@ ht-degree: 0%
 ## 서비스 자격 증명 입력 {#enter-service-credentials}
 
 설치 중인 서비스에 액세스하려면 Marketo에 유효한 API 자격 증명이 있어야 합니다. 서비스 공급자가 이러한 자격 증명을 제공해야 합니다. 서비스에는 세 가지 서로 다른 인증 옵션이 있으므로 자격 증명에 대한 세 가지 프롬프트 중 하나가 표시될 수 있습니다. **API 키** 입력 필드가 하나만 있는 경우 **기본 인증** 사용자 이름과 암호가 필요하고 Realm이라는 필드가 필요할 수도 있습니다. **OAuth2** 사용 _클라이언트 자격 증명_ 그랜트, _클라이언트 ID_ 및 _클라이언트 암호_.
-
->[!NOTE]
->
->OAuth2는 3월 11일 릴리스까지 사용할 수 없습니다.
 
 자격 증명을 저장하면 Marketo은 서비스의 상태 엔드포인트를 호출하여 해당 끝점이 유효한지 확인합니다. 제공된 자격 증명이 올바르지 않으면 이를 나타내는 오류가 표시됩니다.
 

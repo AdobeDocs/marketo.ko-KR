@@ -2,10 +2,10 @@
 description: 현재 릴리스 정보 - Marketo 설명서 - 제품 설명서
 title: 현재 릴리스 노트
 exl-id: a2eccad5-73ad-48f9-8091-51cee23824e1
-source-git-commit: d744ef8f0798bfef540f49e2a6890eaa307569c4
+source-git-commit: 16fe0682f1b7d70531101e5857f57d1d405f2f4f
 workflow-type: tm+mt
-source-wordcount: '0'
-ht-degree: 0%
+source-wordcount: '622'
+ht-degree: 8%
 
 ---
 
@@ -19,7 +19,7 @@ ht-degree: 0%
 
 ## 표준 릴리스 주기 기능 {#standard-release-cycle-features}
 
-다음 기능은 표준 릴리스 주기에 속하며 릴리스되기 시작합니다 **2023년 3월 24일**&#x200B;를 가리키도록 업데이트하는 것이 좋습니다. 릴리스 기능과 날짜는 변경될 수 있습니다. 각 기능 아래에서 해당 상태를 확인하십시오.
+다음 기능은 표준 릴리스 주기에 속하며 릴리스되기 시작합니다 **2023년 3월 31일**&#x200B;를 가리키도록 업데이트하는 것이 좋습니다. 릴리스 기능과 날짜는 변경될 수 있습니다. 각 기능 아래에서 해당 상태를 확인하십시오.
 
 ### Marketo Engage 모던 UX {#modern-ux}
 
