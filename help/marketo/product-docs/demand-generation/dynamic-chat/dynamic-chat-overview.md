@@ -2,10 +2,10 @@
 description: 동적 채팅 개요 - Marketo 문서 - 제품 설명서
 title: 동적 채팅 개요
 exl-id: 73ab651e-bb11-459d-aa6a-39d9e208d512
-source-git-commit: 91e04b4282f18f8074d0192fae42e62dfe5ebb80
+source-git-commit: 5cd5873132e38d7adea02739da39aebeb3979124
 workflow-type: tm+mt
-source-wordcount: '845'
-ht-degree: 1%
+source-wordcount: '857'
+ht-degree: 2%
 
 ---
 
@@ -33,23 +33,23 @@ Dynamic Chat의 주요 구성 요소는 Marketo 구독과 기본적으로 연결
 
 ## 대화 상자 {#dialogues}
 
-대화 상자는 단일 채팅 참여를 나타냅니다. 웹 사이트 방문자에게 매력적인 채팅 대화 상자를 제공하는 데 필요한 모든 것이 포함된 컨테이너라고 생각하십시오. 각 대화 상자에서 대화 상자를 표시할 페이지, 표시할 페이지 및 대화 상자 자체의 콘텐츠와 흐름을 지정할 수 있습니다. 또한 지표를 찾아 대화 상자가 얼마나 잘 작동하는지 확인할 수 있습니다. [대화 상자에 대해 자세히 알아보기](/help/marketo/product-docs/demand-generation/dynamic-chat/dialogues/dialogue-overview.md){target=&quot;_blank&quot;}.
+대화 상자는 단일 채팅 참여를 나타냅니다. 웹 사이트 방문자에게 매력적인 채팅 대화 상자를 제공하는 데 필요한 모든 것이 포함된 컨테이너라고 생각하십시오. 각 대화 상자에서 대화 상자를 표시할 페이지, 표시할 페이지 및 대화 상자 자체의 콘텐츠와 흐름을 지정할 수 있습니다. 또한 지표를 찾아 대화 상자가 얼마나 잘 작동하는지 확인할 수 있습니다. [대화 상자에 대해 자세히 알아보기](/help/marketo/product-docs/demand-generation/dynamic-chat/dialogues/dialogue-overview.md){target="_blank"}.
 
 ## 구성 {#configuration}
 
-구성 탭에서 다양한 대화 상자의 모양과 느낌을 사용자 지정합니다. 글꼴, 색상, 응답 시간 등을 변경합니다. [구성에 대해 자세히 알아보기](/help/marketo/product-docs/demand-generation/dynamic-chat/configuration.md){target=&quot;_blank&quot;}.
+구성 탭에서 다양한 대화 상자의 모양과 느낌을 사용자 지정합니다. 글꼴, 색상, 응답 시간 등을 변경합니다. [구성에 대해 자세히 알아보기](/help/marketo/product-docs/demand-generation/dynamic-chat/configuration.md){target="_blank"}.
 
 ## 달력 {#calendar}
 
-Outlook 또는 Gmail 일정을 차트봇의 약속 예약에 사용할 수 있도록 연결합니다. [캘린더에 대해 자세히 알아보기](/help/marketo/product-docs/demand-generation/dynamic-chat/appointment-scheduling/calendar.md){target=&quot;_blank&quot;}
+Outlook 또는 Gmail 일정을 차트봇의 약속 예약에 사용할 수 있도록 연결합니다. [캘린더에 대해 자세히 알아보기](/help/marketo/product-docs/demand-generation/dynamic-chat/appointment-scheduling/calendar.md){target="_blank"}
 
 ## 회의 {#meetings}
 
-다양한 대화 상자를 통해 웹 사이트 방문자가 예약한 모든 약속을 볼 수 있습니다. [모임에 대해 자세히 알아보기](/help/marketo/product-docs/demand-generation/dynamic-chat/appointment-scheduling/meetings.md){target=&quot;_blank&quot;}
+다양한 대화 상자를 통해 웹 사이트 방문자가 예약한 모든 약속을 볼 수 있습니다. [모임에 대해 자세히 알아보기](/help/marketo/product-docs/demand-generation/dynamic-chat/appointment-scheduling/meetings.md){target="_blank"}
 
 ## 라우팅 {#routing}
 
-여기에서 해당 달력을 연결한 모든 에이전트 목록, 웹 사이트 방문자에게 표시되는 순서 및 사용자 지정 라우팅 규칙을 만들 수 있습니다. [라우팅에 대해 자세히 알아보기](/help/marketo/product-docs/demand-generation/dynamic-chat/appointment-scheduling/routing.md){target=&quot;_blank&quot;}
+여기에서 해당 달력을 연결한 모든 에이전트 목록, 웹 사이트 방문자에게 표시되는 순서 및 사용자 지정 라우팅 규칙을 만들 수 있습니다. [라우팅에 대해 자세히 알아보기](/help/marketo/product-docs/demand-generation/dynamic-chat/appointment-scheduling/routing.md){target="_blank"}
 
 ## FAQ {#faq}
 
@@ -111,8 +111,18 @@ AI/NLP 기능은 지원하지 않습니다.
   <th>제한</th>
  <tr>
   <td>총 대화 상자 수</td>
-  <td>총 대화 상자 수(게시됨 및 초안)</td>
+  <td>대화 상자 수(게시됨 및 초안)</td>
   <td>500</td>
+ </tr>
+ <tr>
+  <td>총 달력</td>
+  <td>연결된 일정 수</td>
+  <td>25</td>
+ </tr>
+ <tr>
+  <td>총 사용자(관리자 및 마케팅 사용자)</td>
+  <td>동적 채팅 인스턴스당 허용되는 결합된 사용자 수</td>
+  <td>50</td>
  </tr>
  <tr>
   <td>게시된 대화 상자</td>
@@ -171,12 +181,12 @@ AI/NLP 기능은 지원하지 않습니다.
  </tr>
  <tr>
   <td>대화 참여</td>
-  <td>일별 웹 방문자와 참여할 수 있는 채팅 대화 수</td>
-  <td>1,000</td>
+  <td>한 달에 웹 방문자와 참여할 수 있는 채팅 대화 수</td>
+  <td>250</td>
  </tr>
  <tr>
   <td>트리거된 대화</td>
-  <td>하루에 웹 방문자에게 표시할 수 있는 채팅 대화 수</td>
+  <td>매월 웹 방문자에게 표시할 수 있는 채팅 대화 수</td>
   <td>25,000</td>
  </tr>
 </table>
