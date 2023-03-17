@@ -3,9 +3,9 @@ unique-page-id: 10100275
 description: Marketo 사용자 지정 활동 필드 추가/편집/삭제 - Marketo 문서 - 제품 설명서
 title: Marketo 사용자 지정 활동 필드 추가/편집/삭제
 exl-id: cd47f21d-c1d1-4abc-85f8-7823b28cd98a
-source-git-commit: 0d9417792a7ee1e37451f6f42d963a1bc2a73691
+source-git-commit: 6283a9fda6c8577dacfbd3782cda41058fbf67a2
 workflow-type: tm+mt
-source-wordcount: '315'
+source-wordcount: '298'
 ht-degree: 0%
 
 ---
@@ -86,7 +86,7 @@ ht-degree: 0%
 
    >[!CAUTION]
    >
-   >사용자 지정 활동이 게시되지 않은 경우에만 Api 이름을 편집하거나 필드를 기본 로 변경할 수 있습니다. 활동이 이미 게시되어 있는 경우 필드의 이름과 선택적 설명만 편집할 수 있습니다.
+   >사용자 지정 활동이 게시되지 않은 경우에만 Api 이름을 편집하거나 필드를 기본 로 변경할 수 있습니다.
 
    >[!NOTE]
    >
