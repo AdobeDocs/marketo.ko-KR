@@ -3,9 +3,9 @@ description: 통합 셸 개요 - Marketo 문서 - 제품 설명서
 title: 통합 셸 개요
 hide: true
 hidefromtoc: true
-source-git-commit: 16fe0682f1b7d70531101e5857f57d1d405f2f4f
+source-git-commit: f48d0c91667072e5286604c0b7141296cba5542a
 workflow-type: tm+mt
-source-wordcount: '355'
+source-wordcount: '350'
 ht-degree: 0%
 
 ---
@@ -20,7 +20,7 @@ ht-degree: 0%
 
 Adobe Experience Cloud 제품에 이미 로그인한 경우 메뉴 아이콘을 클릭하고 을 선택합니다 **[!DNL Marketo Measure]**.
 
-PICC
+![](assets/unified-shell-overview-1.png)
 
 >[!NOTE]
 >
@@ -36,33 +36,31 @@ PICC
 
 [관리 [!DNL Marketo Engage] 도메인](/help/marketo/product-docs/administration/email-setup/add-multiple-branding-domains/add-an-additional-branding-domain.md) 도움 없이 [!DNL Marketo Engage].
 
-PICC
+PIC2
 
 **통합 도움말 센터**
 
 지원 문서 검색, 티켓 제출, 피드백 제공 등의 모든 작업을 [!DNL Marketo Engage] 응용 프로그램.
 
-PICC
+![](assets/unified-shell-overview-3.png)
 
 **응용 프로그램 전환기**
 
 여러 Adobe 제품에 액세스할 수 있는 사용자는 이러한 제품 간에 쉽게 전환할 수 있습니다.
 
-PICC
+PIC4
 
 **알림 및 공지**
 
 애플리케이션에서 바로 제품별 알림 및 일반 Adobe 제품 알림을 보고 상호 작용할 수 있습니다.
 
-PICC
-
-PICC
+![](assets/unified-shell-overview-5.png)
 
 **Adobe 설정**
 
 언어 또는 기타 Adobe 전체 환경 설정을 변경하려면 프로필 아이콘을 클릭하십시오. 다음을 수행할 수도 있습니다 [!DNL Marketo Engage]을 클릭하여 특정 변경 사항 **내 설정**.
 
-PICC
+![](assets/unified-shell-overview-6.png)
 
 ## FAQ {#faq}
 
@@ -70,7 +68,7 @@ PICC
 
 Adobe Experience Cloud에 로그인할 수 있지만 다음과 같은 페이지가 표시되면 문제가 [!DNL Marketo Engage] 측면:
 
-PICC
+PIC7
 
 위의 오류를 받으시면, [지원 문의](https://nation.marketo.com/t5/support/ct-p/Support) 지원 요청.
 
