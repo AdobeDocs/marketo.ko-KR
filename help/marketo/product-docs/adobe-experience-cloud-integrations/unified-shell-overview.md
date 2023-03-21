@@ -3,9 +3,9 @@ description: 통합 셸 개요 - Marketo 문서 - 제품 설명서
 title: 통합 셸 개요
 hide: true
 hidefromtoc: true
-source-git-commit: b6ec2e1dfa04cb19f92b18117219763a8aa774dc
+source-git-commit: 427b79a584a003204f344ed9c219489c25abfc59
 workflow-type: tm+mt
-source-wordcount: '285'
+source-wordcount: '273'
 ht-degree: 0%
 
 ---
@@ -34,7 +34,7 @@ Adobe Experience Cloud 제품에 아직 로그인하지 않은 경우에는 직�
 
 **통합 도움말 센터**
 
-지원 문서 검색, 티켓 제출, 피드백 제공 등의 모든 작업을 [!DNL Marketo Engage] 응용 프로그램.
+내에서 사용 가능한 다양한 도움말 리소스에 액세스합니다 [!DNL Marketo Engage] 응용 프로그램.
 
 ![](assets/unified-shell-overview-2.png)
 
@@ -52,7 +52,7 @@ Adobe Experience Cloud 제품에 아직 로그인하지 않은 경우에는 직�
 
 **Adobe 설정**
 
-언어 또는 기타 Adobe 전체 환경 설정을 변경하려면 프로필 아이콘을 클릭하십시오. 다음을 수행할 수도 있습니다 [!DNL Marketo Engage]을 클릭하여 특정 변경 사항 **내 설정**.
+언어 또는 기타 Adobe 전체 환경 설정을 변경하려면 프로필 아이콘을 클릭하십시오.
 
 ![](assets/unified-shell-overview-5.png)
 
@@ -65,3 +65,7 @@ Adobe Experience Cloud에 로그인할 수 있지만 &quot;페이지 로드 실�
 **사용자 기록, 전역 검색, Marketo 알림 및 작업 트레이는 어디로 이동합니까?**
 
 이러한 기능은 위쪽 탐색에서 Unified Shell의 왼쪽에 있는 새 막대로 이동되었습니다.
+
+![](assets/unified-shell-overview-6.png)
+
+![](assets/unified-shell-overview-7.png)
