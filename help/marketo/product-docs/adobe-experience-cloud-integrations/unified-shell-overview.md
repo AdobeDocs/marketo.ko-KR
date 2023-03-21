@@ -3,9 +3,9 @@ description: 통합 셸 개요 - Marketo 문서 - 제품 설명서
 title: 통합 셸 개요
 hide: true
 hidefromtoc: true
-source-git-commit: b4f0831ae98dd12a61d7ea5359586ca0b1a0971c
+source-git-commit: b6ec2e1dfa04cb19f92b18117219763a8aa774dc
 workflow-type: tm+mt
-source-wordcount: '0'
+source-wordcount: '285'
 ht-degree: 0%
 
 ---
@@ -20,7 +20,7 @@ ht-degree: 0%
 
 Adobe Experience Cloud 제품에 아직 로그인하지 않은 경우에는 직접 로그인하십시오 [!DNL Marketo Engage] 여기: [https://experience.adobe.com/marketo-engage](https://experience.adobe.com/marketo-engage).
 
-만약 _is_ 이미 Adobe Experience Cloud 제품에 로그인되어 있는 경우 메뉴 아이콘을 클릭하고 **[!DNL Marketo Measure]**.
+만약 _is_ 이미 Adobe Experience Cloud 제품에 로그인되어 있는 경우 메뉴 아이콘을 클릭하고 **[!DNL Marketo Engage]**.
 
 ![](assets/unified-shell-overview-1.png)
 
