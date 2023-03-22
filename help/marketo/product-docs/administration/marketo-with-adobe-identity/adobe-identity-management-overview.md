@@ -2,9 +2,9 @@
 description: Adobe Identity Management 개요 - Marketo 문서 - 제품 설명서
 title: Adobe Identity Management 개요
 exl-id: 18ddeebc-bc89-411c-9d2c-23df6841cb3a
-source-git-commit: 034e3a9a1e2e7feec749afe981aaaf804a4bcddc
+source-git-commit: 05377b78181d002926623268d1fdca40c7b80f46
 workflow-type: tm+mt
-source-wordcount: '1068'
+source-wordcount: '1098'
 ht-degree: 0%
 
 ---
@@ -122,6 +122,10 @@ Adobe IMS는 현재 Marketo의 장치 인증 기능과 같은 것을 지원하�
 **Adobe IMS의 경우 Adobe ID, Enterprise ID 또는 Federated ID을 사용할 수 있는 옵션이 있습니까?**
 
 예, 조직을 지원할 ID 유형을 결정합니다. 자세한 정보는 다음을 참조하십시오. [ID 개요](https://helpx.adobe.com/enterprise/using/identity.html) 여기에서 다음을 수행합니다. [ID 설정](https://helpx.adobe.com/enterprise/using/set-up-identity.html).
+
+**Adobe Admin Console에서 지원되는 제품 카드는 무엇입니까?**
+
+지원되는 제품 카드는 다음과 같습니다. Marketo Engage, Marketo Measure, Marketo Dynamic Chat, Marketo Sales Connect 및 Marketo Sales Insight Actions 입니다.
 
 >[!MORELIKETHIS]
 >
