@@ -3,9 +3,9 @@ unique-page-id: 4720433
 description: Marketo에 대한 프로토콜 구성 - Marketo 문서 - 제품 설명서
 title: Marketo에 대한 프로토콜 구성
 exl-id: cf2fd4ac-9229-4e52-bb68-5732b44920ef
-source-git-commit: 3d29cb4cf4af7d83a82d47cfd6b0c44d659ee82b
+source-git-commit: 6c1699ce986608e8b9d991f21fd649f9330e3d12
 workflow-type: tm+mt
-source-wordcount: '1046'
+source-wordcount: '1021'
 ht-degree: 2%
 
 ---
@@ -20,13 +20,12 @@ ht-degree: 2%
 
 이 문서는 이러한 프로토콜을 구현하려는 회사의 IT 부서와 공유해야 합니다.
 
->[!NOTE]
->
->IT 팀이를 사용하여 웹 액세스를 제한하는 허용 목록에 추가하다 경우 모든 Marketo 리소스 및 웹 소켓을 허용하려면 다음 도메인(별표 포함)을 추가하도록 요청하십시오.
+IT 팀이를 사용하여 웹 액세스를 제한하는 허용 목록에 추가하다 경우 모든 Marketo 리소스 및 웹 소켓을 허용하려면 다음 도메인(별표 포함)을 추가하도록 요청하십시오.
 
 * `*.marketo.com`
 * `*.marketodesigner.com`
 * `*.mktoweb.com`
+* `*.experience.adobe.com`
 
 ## 1단계: 랜딩 페이지 및 전자 메일에 대한 DNS 레코드 만들기 {#step-create-dns-records-for-landing-pages-and-email}
 
@@ -40,7 +39,7 @@ DNS 레코드로 보내는 랜딩 페이지 CNAME을 추가하여 `[YourLandingP
 
 * 별칭: Enter 키 `[YourLandingPageCNAME]` (마케팅에서 제공)
 * 유형: CNAME
-* 가리키기: Enter 키 `[MarketoAccountString].mktoweb.com` (마케팅에서 제공)
+* 가리키기: Enter 키 `[MunchkinID].mktoweb.com` (마케팅에서 제공)
 
 `2` **이메일 추적 링크에 대한 CNAME 추가**
 
@@ -59,7 +58,7 @@ For example:
 
 이 프로세스를 완료하면 마케팅 팀에 알립니다.
 
-`4` **연락처 [Marketo 지원](https://nation.marketo.com/t5/support/ct-p/Support){target=&quot;_blank&quot;} 를 사용하여 SSL 인증서를 프로비전하는 프로세스를 시작합니다.**
+`4` **연락처 [Marketo 지원](https://nation.marketo.com/t5/support/ct-p/Support){target="_blank"} 를 눌러 SSL 인증서를 프로비저닝하는 프로세스를 시작합니다.**
 
 이 프로세스를 완료하는 데 최대 3일이 걸릴 수 있습니다.
 
@@ -104,7 +103,7 @@ For example:
 
    `[DKIMDomain2]`: 호스트 레코드: `[HostRecord2]` 및 TXT 값 `[TXTValue2]`.
 
-   다음에 설정한 각 DKIDomain에 대한 HostRecord 및 TXTValue를 복사합니다. [지침](/help/marketo/product-docs/email-marketing/deliverability/set-up-a-custom-dkim-signature.md){target=&quot;_blank&quot;}. IT 직원이 이 단계를 완료한 후 관리 > 이메일 > DKIM에서 각 도메인을 확인하는 것을 잊지 마십시오.
+   다음에 설정한 각 DKIDomain에 대한 HostRecord 및 TXTValue를 복사합니다. [지침](/help/marketo/product-docs/email-marketing/deliverability/set-up-a-custom-dkim-signature.md){target="_blank"}. IT 직원이 이 단계를 완료한 후 관리 > 이메일 > DKIM에서 각 도메인을 확인하는 것을 잊지 마십시오.
 
 ## 4단계: 도메인에 대한 MX 레코드 설정 {#step-set-up-mx-records-for-your-domain}
 
@@ -116,11 +115,11 @@ MX 레코드를 사용하면 회신과 자동 응답자를 처리하기 위해 �
 
 **Webhooks**
 
-Marketo Engage [Webhooks](/help/marketo/product-docs/administration/additional-integrations/create-a-webhook.md){target=&quot;_blank&quot;}은 아웃바운드 통합 메커니즘입니다. 다음의 경우 [Webhook 호출](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/call-webhook.md){target=&quot;_blank&quot;} 흐름 작업이 스마트 캠페인의 일부로 실행되며 외부 웹 서비스에 대한 HTTP 요청이 수행됩니다. 웹 서비스 게시자가 외부 웹 서비스가 있는 네트워크 방화벽에 있는을 사용하는 경우 게시자는 아래 나열된 IP 주소 블록을 해당 페이지에 추가해야 허용 목록에 추가하다 합니다.
+Marketo Engage [Webhooks](/help/marketo/product-docs/administration/additional-integrations/create-a-webhook.md){target="_blank"} are an outbound integration mechanism. When a [Call Webhook](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/call-webhook.md){target="_blank"} 흐름 작업은 스마트 캠페인의 일부로 실행되며, 외부 웹 서비스에 HTTP 요청이 수행됩니다. 웹 서비스 게시자가 외부 웹 서비스가 있는 네트워크 방화벽에 있는을 사용하는 경우 게시자는 아래 나열된 IP 주소 블록을 해당 페이지에 추가해야 허용 목록에 추가하다 합니다.
 
 **CRM 동기화**
 
-Marketo Engage [Salesforce CRM 동기화](/help/marketo/product-docs/crm-sync/salesforce-sync/sfdc-sync-details/add-an-existing-salesforce-field-to-the-marketo-sync.md){target=&quot;_blank&quot;} 및 [Microsoft Dynamics 동기화](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/understanding-the-microsoft-dynamics-sync.md){target=&quot;_blank&quot;}는 CRM 공급업체가 게시한 API에 대한 아웃바운드 HTTP 요청을 수행하는 통합 메커니즘입니다. IT 조직이 아래 IP 주소 블록을 통해 CRM 공급업체 API에 액세스하지 못하도록 차단하지 않아야 합니다.
+Marketo Engage [Salesforce CRM 동기화](/help/marketo/product-docs/crm-sync/salesforce-sync/sfdc-sync-details/add-an-existing-salesforce-field-to-the-marketo-sync.md){target="_blank"} and [Microsoft Dynamics Sync](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/understanding-the-microsoft-dynamics-sync.md){target="_blank"} 는 CRM 공급업체가 게시한 API에 대한 아웃바운드 HTTP 요청을 수행하는 통합 메커니즘입니다. IT 조직이 아래 IP 주소 블록을 통해 CRM 공급업체 API에 액세스하지 못하도록 차단하지 않아야 합니다.
 
 **Marketo Engage 아웃바운드 IP 주소 블록**
 

@@ -3,9 +3,9 @@ unique-page-id: 2359798
 description: 추가 랜딩 페이지 CNAME 추가 - Marketo 문서 - 제품 설명서
 title: 추가 랜딩 페이지 CNAME 추가
 exl-id: eb5a7f69-552e-49a2-91db-a784f4639cd0
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+source-git-commit: 6c1699ce986608e8b9d991f21fd649f9330e3d12
 workflow-type: tm+mt
-source-wordcount: '245'
+source-wordcount: '234'
 ht-degree: 0%
 
 ---
@@ -28,33 +28,37 @@ ht-degree: 0%
 >
 >**관리 권한 필요**
 
-## 계정 문자열 찾기 {#find-your-account-string}
+1. 로 이동합니다. **관리** 영역.
 
-1. 로 이동합니다. **관리** 영역을 클릭하고 **랜딩 페이지**.
+   ![](assets/add-additional-landing-page-cnames-1.png)
 
-   ![](assets/image2014-9-16-15-3a19-3a54.png)
+1. 클릭 **내 계정**.
 
-1. 를 복사합니다. **계정 문자열** 에서 **설정** 섹션을 참조하십시오.
+   ![](assets/add-additional-landing-page-cnames-2.png)
 
-   ![](assets/image2014-9-16-15-3a20-3a2.png)
+1. &quot;지원 정보&quot;로 스크롤한 다음 Munchkin ID를 복사합니다.
 
-1. 다음 단계를 위해 기록해 두십시오.
+   ![](assets/add-additional-landing-page-cnames-3.png)
 
 ## IT에 요청 보내기 {#send-request-to-it}
 
-1. IT 부서에 다음 CNAME을 설정하도록 요청하십시오. (단어 바꾸기 [CNAME] 원하는 CNAME으로 [계정 문자열] 이전 단계의 텍스트를 포함하는 경우입니다.
+1. IT 부서에 다음 CNAME을 설정하도록 요청하십시오. (단어 바꾸기 [CNAME] 원하는 CNAME으로 [Munchkin ID] 이전 단계의 텍스트를 포함하는 경우입니다.
 
-   [CNAME].YourCompany.com > [계정 문자열].mktoweb.com
+   [CNAME].YourCompany.com > [Munchkin ID].mktoweb.com
 
 ## 새 CNAME 추가 {#add-a-new-cname}
 
-1. IT 부서에서 CNAME을 만들면 다음 위치로 이동하십시오. **관리** 을 클릭한 다음 **랜딩 페이지**.
+1. IT 부서에서 CNAME을 만들면 **관리** 영역.
 
-   ![](assets/image2014-9-16-15-3a20-3a20.png)
+   ![](assets/add-additional-landing-page-cnames-4.png)
+
+1. 클릭 **랜딩 페이지**.
+
+   ![](assets/add-additional-landing-page-cnames-5.png)
 
 1. 클릭 **새로 만들기** 을(를) 선택합니다. **새 도메인 별칭**.
 
-   ![](assets/image2014-9-16-15-3a20-3a28.png)
+   ![](assets/add-additional-landing-page-cnames-6.png)
 
 1. 을(를) 입력합니다. **도메인 별칭.** 다음 **기본 페이지** 방문자가 URL에 입력하지 않으면 표시됩니다. 해당 케이스의 이동 위치를 입력합니다.
 
@@ -62,10 +66,10 @@ ht-degree: 0%
    >
    >기본 페이지에서 랜딩 페이지나 공개 웹 사이트와 같은 외부 URL을 선택할 수 있습니다.
 
-   ![](assets/image2014-9-16-15-3a20-3a36.png)
+   ![](assets/add-additional-landing-page-cnames-7.png)
 
 1. 을(를) 입력합니다. **기본 페이지** 을(를) 클릭합니다. **만들기**.
 
-   ![](assets/image2014-9-16-15-3a20-3a43.png)
+   ![](assets/add-additional-landing-page-cnames-8.png)
 
 좋아! 이제 CNAME을 추가하려는 경우 어떻게 해야 하는지 알 수 있습니다.
