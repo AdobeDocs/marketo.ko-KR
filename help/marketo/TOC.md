@@ -3,9 +3,9 @@ audience: end-user
 user-guide-title: Marketo 안내서
 user-guide-description: Marketo 제품 설명서
 feature-set: Marketo Engage
-source-git-commit: 0864f784d193bfc6dd7a087c9f89ce59bdff710c
+source-git-commit: c53002db5778ce06031a0727c85b1b30aca172e0
 workflow-type: tm+mt
-source-wordcount: '8843'
+source-wordcount: '8849'
 ht-degree: 0%
 
 ---
@@ -622,7 +622,7 @@ ht-degree: 0%
          + [Chatbot 동작](product-docs/demand-generation/dynamic-chat/chatbot-behavior.md)
          + [동적 채팅 활동](product-docs/demand-generation/dynamic-chat/dynamic-chat-activities.md)
          + 약속 예약 {#appointment-scheduling}
-            + [달력](product-docs/demand-generation/dynamic-chat/appointment-scheduling/calendar.md)
+            + [캘린더](product-docs/demand-generation/dynamic-chat/appointment-scheduling/calendar.md)
             + [회의](product-docs/demand-generation/dynamic-chat/appointment-scheduling/meetings.md)
             + [라우팅](product-docs/demand-generation/dynamic-chat/appointment-scheduling/routing.md)
          + 통합 {#integrations}
@@ -1242,7 +1242,7 @@ ht-degree: 0%
             + [CSV를 통해 연락처 가져오기](product-docs/marketo-sales-connect/people/managing-contacts/import-contacts-via-csv.md)
             + [그룹 관리](product-docs/marketo-sales-connect/people/managing-contacts/manage-groups.md)
             + [사용자 페이지 열](product-docs/marketo-sales-connect/people/managing-contacts/people-page-columns.md)
-      + 휴대폰 {#phone}
+      + 전화 {#phone}
          + [호출이 Salesforce에 로그인하지 않음](product-docs/marketo-sales-connect/phone/calls-arent-logging-to-salesforce.md)
          + [통화 결과](product-docs/marketo-sales-connect/phone/call-outcomes.md)
          + [통화 이유](product-docs/marketo-sales-connect/phone/call-reasons.md)
@@ -1287,6 +1287,7 @@ ht-degree: 0%
          + [Sales Insight Actions 기능 개요](product-docs/marketo-sales-insight/actions/sales-insight-actions-feature-overview.md)
          + 시작하기 {#getting-started}
             + [Sales Insight Actions 사용 온보딩 안내서](product-docs/marketo-sales-insight/actions/getting-started/sales-insight-actions-user-onboarding-guide.md)
+            + [Sales Insight 작업 사용자 온보딩 검사 목록](product-docs/marketo-sales-insight/actions/getting-started/sales-insight-actions-user-onboarding-checklist.md)
             + [Sales Insight Actions 관리 설정 안내서](product-docs/marketo-sales-insight/actions/getting-started/sales-insight-actions-admin-setup-guide.md)
             + [Marketo 영업 암호 변경](product-docs/marketo-sales-insight/actions/getting-started/change-your-marketo-sales-password.md)
             + [제품 사용 제한](product-docs/marketo-sales-insight/actions/getting-started/product-usage-limits.md)
@@ -1395,7 +1396,7 @@ ht-degree: 0%
                + [CSV를 통해 연락처 가져오기](product-docs/marketo-sales-insight/actions/people/managing-contacts/import-contacts-via-csv.md)
                + [그룹 관리](product-docs/marketo-sales-insight/actions/people/managing-contacts/manage-groups.md)
                + [사용자 페이지 열](product-docs/marketo-sales-insight/actions/people/managing-contacts/people-page-columns.md)
-         + 휴대폰 {#phone}
+         + 전화 {#phone}
             + [통화 결과](product-docs/marketo-sales-insight/actions/phone/call-outcomes.md)
             + [통화 이유](product-docs/marketo-sales-insight/actions/phone/call-reasons.md)
             + [Salesforce에 통화 이유 및 호출 결과 기록](product-docs/marketo-sales-insight/actions/phone/log-call-reasons-and-call-outcomes-to-salesforce.md)
