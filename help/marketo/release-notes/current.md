@@ -2,7 +2,7 @@
 description: 현재 릴리스 정보 - Marketo 설명서 - 제품 설명서
 title: 현재 릴리스 노트
 exl-id: a2eccad5-73ad-48f9-8091-51cee23824e1
-source-git-commit: 16fe0682f1b7d70531101e5857f57d1d405f2f4f
+source-git-commit: 945ac03e37cd88cbfff89f17056db78107ebb138
 workflow-type: tm+mt
 source-wordcount: '622'
 ht-degree: 8%
@@ -27,7 +27,7 @@ ht-degree: 8%
 
 * **구성 요소에서 랜딩 페이지 템플릿 세부 사항 및 양식 세부 사항에 사용 개선**: 새 사용됨 UI에서 탭 을 사용하면 선택한 자산을 사용한 자산에 대한 세부 사항을 포함하여 랜딩 페이지 템플릿 세부 사항 및 양식 세부 사항에 추가 정보가 제공됩니다. 검색, 정렬 및 필터링 기능을 통해 긴 자산 목록에 대한 분석을 수행합니다.
 
-   <table> 
+<table> 
   <tr> 
    <td><b>상태</b></td>
    <td><b>설명서 업데이트</b></td>
@@ -67,7 +67,7 @@ ht-degree: 8%
   </tbody>
 </table>
 
-### API 개선 사항 {#api-enhancements}
+### 통합 업데이트 {#integration-updates}
 
 </br>
 
