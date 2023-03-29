@@ -1,12 +1,10 @@
 ---
 description: Salesforce 활동 세부 정보 사용자 지정 구성 - Marketo 문서 - 제품 설명서
 title: Salesforce 활동 세부 사항 사용자 지정 구성
-hide: true
-hidefromtoc: true
 exl-id: 534ebdb5-7a5b-48eb-98f7-2d05a9eae8e8
-source-git-commit: 43878490538ad5485c9e6d7aa0c7f8f1b443ad8c
+source-git-commit: b490b10c5544defaad50163fa29bfd0c2ca0d902
 workflow-type: tm+mt
-source-wordcount: '706'
+source-wordcount: '0'
 ht-degree: 0%
 
 ---
@@ -48,7 +46,7 @@ Activity Detail Customization을 사용하면 관리자는 Sales Insight Actions
 
 이 기능을 사용하여 다음과 같은 이점을 잠금 해제할 수 있습니다.
 
-* 제목 필드에 표시되는 정보를 사용자 지정함으로써 Salesforce에서 영업을 위해 활동 세부 사항을 쉽게 확장할 수 있습니다.
+* 제목 필드에 표시되는 정보를 사용자 지정함으로써 Salesforce에서 영업 활동에 대한 활동 세부 사항을 쉽게 확장할 수 있습니다.
 * 관리자는 제목 필드에 &quot;Mkto_sales&quot;와 같은 고유한 식별자를 태깅하여 Sales Insight Actions의 활동을 쉽게 식별하고 다른 이메일 활동, 호출 활동 및 작업과 구별할 수 있습니다.
 * 사용자 지정 활동 필드의 필요성을 줄입니다. Salesforce에서는 사용자 지정 활동 필드 수에 제한을 적용하여 보고서에서 사용할 수 있는 데이터를 제한할 수 있습니다. 활동 동적 필드를 사용하여 제목 줄에 주요 데이터를 추가하면 Salesforce 인스턴스에서 만들어야 하는 사용자 지정 활동 필드의 수를 줄일 수 있습니다.
 * 활동 및 작업의 제목 필드는 Sales Insight Actions 관리자가 정의한 일관된 패턴을 따릅니다.
