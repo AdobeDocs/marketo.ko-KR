@@ -2,9 +2,9 @@
 description: 비기본 MS Dynamics 통합을 위한 Sales Insight - Marketo 문서 - 제품 설명서
 title: 비네이티브 MS Dynamics 통합을 위한 Sales Insight
 exl-id: 07613ff8-b197-4a3d-88e9-720b68a6b8da
-source-git-commit: 3a62fe40856b9b3f2eab61e22eaa38e1b9c44d7e
+source-git-commit: 88c4e844f7ce26b12bae8177dd5311813fb4adcb
 workflow-type: tm+mt
-source-wordcount: '1442'
+source-wordcount: '1413'
 ht-degree: 0%
 
 ---
@@ -15,11 +15,11 @@ ht-degree: 0%
 
 >[!PREREQUISITES]
 >
->* MSI 설정을 시작하기 전에 Marketo 인스턴스에 대해 &quot;MSI Non-Native&quot; 기능이 활성화되었습니다(MSI가 아니고 기능을 이미 구입한 경우, 다음 주소로 문의하십시오 [Marketo 지원](https://nation.marketo.com/t5/support/ct-p/Support){target=&quot;_blank&quot;} - 이 기능을 아직 구입하지 않았다면 고객 성공 관리자에게 문의하십시오.)
->* 다운로드 [사용자 지정 동기화용 MSI 패키지](https://mktg-cdn.marketo.com/community/MarketoSalesInsight_NonNative.zip){target=&quot;_blank&quot;}.
->* MSI 설치 프로그램을 사용하는 MS Dynamics 구독(Adobe에서는 [Dynamics Online](/help/marketo/product-docs/marketo-sales-insight/msi-for-microsoft-dynamics/installing/install-and-configure-marketo-sales-insight-in-microsoft-dynamics-online.md)현재 {target=&quot;_blank&quot;}).
->* Marketo REST API [설정](https://developers.marketo.com/rest-api/){target=&quot;_blank&quot;}. 노출된 CRUD API는 비기본 동기화를 수행하는 기반이 됩니다.
->* 읽기 [이 블로그 게시물](https://developers.marketo.com/blog/create-and-associate-leads-companies-and-opportunities-with-the-marketo-rest-api/)개체 및 관계를 이해하기 위해 {target=&quot;_blank&quot;}.
+>* MSI 설정을 시작하기 전에 Marketo 인스턴스에 대해 &quot;MSI 비네이티브&quot; 기능이 활성화되었습니다. 없는 경우 해당 기능을 이미 구입한 경우 [Marketo 지원](https://nation.marketo.com/t5/support/ct-p/Support){target="_blank"}. 이 기능을 아직 구입하지 않았다면 Adobe 계정 팀(계정 관리자)에 문의하십시오.
+>* 다운로드 [사용자 지정 동기화용 MSI 패키지](https://mktg-cdn.marketo.com/community/MarketoSalesInsight_NonNative.zip){target="_blank"}.
+>* MSI 설치 프로그램을 사용하는 MS Dynamics 구독(Adobe에서는 [Dynamics Online](/help/marketo/product-docs/marketo-sales-insight/msi-for-microsoft-dynamics/installing/install-and-configure-marketo-sales-insight-in-microsoft-dynamics-online.md){target="_blank"} 현재)
+>* Marketo REST API [설정](https://developers.marketo.com/rest-api/){target="_blank"}. 노출된 CRUD API는 비기본 동기화를 수행하는 기반이 됩니다.
+>* 읽기 [이 블로그 게시물](https://developers.marketo.com/blog/create-and-associate-leads-companies-and-opportunities-with-the-marketo-rest-api/){target="_blank"} 그 물체와 관계를 이해하기 위해서.
 
 
 ## MSI에 대해 네이티브 동기화가 실패하면 다음 항목이 필요합니다 {#successful-non-native-sync-for-msi-requires-the-following}
@@ -48,8 +48,8 @@ ht-degree: 0%
     </tbody> 
    </table>
 
-   * 영업 사원에 대한 API 설명서: [https://developers.marketo.com/rest-api/lead-database/sales-persons/](https://developers.marketo.com/rest-api/lead-database/sales-persons/){target=&quot;_blank&quot;}
-   * 영업 담당자 동기화를 위한 API 설명서: [https://developers.marketo.com/rest-api/endpoint-reference/lead-database-endpoint-reference/#!/Sales_Persons/syncSalesPersonsUsingPOST](https://developers.marketo.com/rest-api/endpoint-reference/lead-database-endpoint-reference/#!/Sales_Persons/syncSalesPersonsUsingPOST){target=&quot;_blank&quot;}
+   * 영업 사원에 대한 API 설명서: [https://developers.marketo.com/rest-api/lead-database/sales-persons/](https://developers.marketo.com/rest-api/lead-database/sales-persons/){target="_blank"}
+   * 영업 담당자 동기화를 위한 API 설명서: [https://developers.marketo.com/rest-api/endpoint-reference/lead-database-endpoint-reference/#!/Sales_Persons/syncSalesPersonsUsingPOST](https://developers.marketo.com/rest-api/endpoint-reference/lead-database-endpoint-reference/#!/Sales_Persons/syncSalesPersonsUsingPOST){target="_blank"}
 
 1. MS Dynamics 계정을 Marketo에 동기화합니다.
 
@@ -80,8 +80,8 @@ ht-degree: 0%
     </tbody> 
    </table>
 
-   * 회사를 위한 API 설명서: [https://developers.marketo.com/rest-api/lead-database/companies/](https://developers.marketo.com/rest-api/lead-database/companies/){target=&quot;_blank&quot;}
-   * 회사 동기화를 위한 API 설명서: [https://developers.marketo.com/rest-api/endpoint-reference/lead-database-endpoint-reference/#!/Companies/syncCompaniesUsingPOST](https://developers.marketo.com/rest-api/endpoint-reference/lead-database-endpoint-reference/#!/Companies/syncCompaniesUsingPOST){target=&quot;_blank&quot;}
+   * 회사를 위한 API 설명서: [https://developers.marketo.com/rest-api/lead-database/companies/](https://developers.marketo.com/rest-api/lead-database/companies/){target="_blank"}
+   * 회사 동기화를 위한 API 설명서: [https://developers.marketo.com/rest-api/endpoint-reference/lead-database-endpoint-reference/#!/Companies/syncCompaniesUsingPOST](https://developers.marketo.com/rest-api/endpoint-reference/lead-database-endpoint-reference/#!/Companies/syncCompaniesUsingPOST){target="_blank"}
 
 1. MS Dynamics 리드/연락처를 Marketo에 동기화합니다.
 
@@ -117,8 +117,8 @@ ht-degree: 0%
     </tbody> 
    </table>
 
-   * 리드에 대한 API 설명서: [https://developers.marketo.com/rest-api/lead-database/leads/](https://developers.marketo.com/rest-api/lead-database/leads/){target=&quot;_blank&quot;}
-   * 리드 동기화를 위한 API 설명서: [https://developers.marketo.com/rest-api/endpoint-reference/lead-database-endpoint-reference/#!/Leads/syncLeadUsingPOST](https://developers.marketo.com/rest-api/endpoint-reference/lead-database-endpoint-reference/#!/Leads/syncLeadUsingPOST){target=&quot;_blank&quot;}
+   * 리드에 대한 API 설명서: [https://developers.marketo.com/rest-api/lead-database/leads/](https://developers.marketo.com/rest-api/lead-database/leads/){target="_blank"}
+   * 리드 동기화를 위한 API 설명서: [https://developers.marketo.com/rest-api/endpoint-reference/lead-database-endpoint-reference/#!/Leads/syncLeadUsingPOST](https://developers.marketo.com/rest-api/endpoint-reference/lead-database-endpoint-reference/#!/Leads/syncLeadUsingPOST){target="_blank"}
 
 1. MS Dynamics Opportunity를 Marketo에 동기화합니다.
 
@@ -154,8 +154,8 @@ ht-degree: 0%
     </tbody> 
    </table>
 
-   * Opportunity에 대한 API 설명서: [https://developers.marketo.com/rest-api/lead-database/opportunities/](https://developers.marketo.com/rest-api/lead-database/opportunities/){target=&quot;_blank&quot;}
-   * 기회 동기화를 위한 API 설명서: [https://developers.marketo.com/rest-api/endpoint-reference/lead-database-endpoint-reference/#!/Opportunity/syncOpportunityUsingPOST](https://developers.marketo.com/rest-api/endpoint-reference/lead-database-endpoint-reference/#!/Opportunity/syncOpportunityUsingPOST){target=&quot;_blank&quot;}
+   * Opportunity에 대한 API 설명서: [https://developers.marketo.com/rest-api/lead-database/opportunities/](https://developers.marketo.com/rest-api/lead-database/opportunities/){target="_blank"}
+   * 기회 동기화를 위한 API 설명서: [https://developers.marketo.com/rest-api/endpoint-reference/lead-database-endpoint-reference/#!/Opportunity/syncOpportunityUsingPOST](https://developers.marketo.com/rest-api/endpoint-reference/lead-database-endpoint-reference/#!/Opportunity/syncOpportunityUsingPOST){target="_blank"}
 
 1. MS Dynamics 연락처 역할을 Marketo에 동기화합니다.
 
@@ -191,8 +191,8 @@ ht-degree: 0%
     </tbody> 
    </table>
 
-   * Opportunity에 대한 API 설명서: [https://developers.marketo.com/rest-api/lead-database/opportunities/](https://developers.marketo.com/rest-api/lead-database/opportunities/){target=&quot;_blank&quot;}
-   * 기회 동기화를 위한 API 설명서: [https://developers.marketo.com/rest-api/endpoint-reference/lead-database-endpoint-reference/#!/Opportunity/syncOpportunityUsingPOST](https://developers.marketo.com/rest-api/endpoint-reference/lead-database-endpoint-reference/#!/Opportunity/syncOpportunityUsingPOST){target=&quot;_blank&quot;}
+   * Opportunity에 대한 API 설명서: [https://developers.marketo.com/rest-api/lead-database/opportunities/](https://developers.marketo.com/rest-api/lead-database/opportunities/){target="_blank"}
+   * 기회 동기화를 위한 API 설명서: [https://developers.marketo.com/rest-api/endpoint-reference/lead-database-endpoint-reference/#!/Opportunity/syncOpportunityUsingPOST](https://developers.marketo.com/rest-api/endpoint-reference/lead-database-endpoint-reference/#!/Opportunity/syncOpportunityUsingPOST){target="_blank"}
 
 1. 마지막 흥미로운 모멘트/MSI 점수 필드를 MS Dynamics에 동기화합니다.
 
@@ -255,5 +255,5 @@ ht-degree: 0%
     </tbody> 
    </table>
 
-   * 리드 REST API에 대한 설명서: [https://developers.marketo.com/rest-api/endpoint-reference/lead-database-endpoint-reference/#!/Leads/getLeadByIdUsingGET](https://developers.marketo.com/rest-api/endpoint-reference/lead-database-endpoint-reference/#!/Leads/getLeadByIdUsingGET){target=&quot;_blank&quot;}.
+   * 리드 REST API에 대한 설명서: [https://developers.marketo.com/rest-api/endpoint-reference/lead-database-endpoint-reference/#!/Leads/getLeadByIdUsingGET](https://developers.marketo.com/rest-api/endpoint-reference/lead-database-endpoint-reference/#!/Leads/getLeadByIdUsingGET){target="_blank"}.
    외부 필드를 올바르게 사용하는 것이 비네이티브 동기화를 성공적으로 수행하는 열쇠입니다. 일부 보기에서 데이터를 보지 못하면 특정 필드가 올바르게 동기화되지 않을 수 있습니다. 예를 들어 리드의 활동과 흥미로운 순간이 계정 아래의 MSI 위젯을 볼 때 표시되지 않는 경우 리드의 회사 또는 계정이 올바르게 동기화되지 않았을 수 있습니다. 외부 필드를 지정하는 동안 이 리드에 대한 GET 요청을 수행하면 리드가 올바르게 동기화되었는지 확인하는 데 도움이 됩니다. 또한 Marketo의 외부 영업자용 이메일은 MS Dynamics에서 해당 사용자의 이메일과 일치해야 합니다. 이메일이 일치하지 않는 경우 MS Dynamics의 Marketo 탭에 데이터가 표시되지 않을 수 있습니다.

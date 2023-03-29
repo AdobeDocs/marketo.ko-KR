@@ -2,22 +2,22 @@
 description: Adobe Identity Management 개요 - Marketo 문서 - 제품 설명서
 title: Adobe Identity Management 개요
 exl-id: 18ddeebc-bc89-411c-9d2c-23df6841cb3a
-source-git-commit: 05377b78181d002926623268d1fdca40c7b80f46
+source-git-commit: 88c4e844f7ce26b12bae8177dd5311813fb4adcb
 workflow-type: tm+mt
-source-wordcount: '1098'
+source-wordcount: '1096'
 ht-degree: 0%
 
 ---
 
 # Adobe Identity Management 개요 {#adobe-identity-management-overview}
 
-2022년 2월 15일 현재 Adobe Marketo Engage(기존 계정의 새 인스턴스뿐만 아니라 새 계정)에 새로운 계정이 있는 경우, 구입한 제품 패키지에 따라 Adobe Identity Management 시스템과 통합될 수 있습니다. 보유하고 있는지 확인하려면 Marketo 관리자 또는 계정의 고객 성공 관리자에게 문의하십시오.
+2022년 2월 15일 현재 Adobe Marketo Engage(기존 계정의 새 인스턴스뿐만 아니라 새 계정)에 새로운 계정이 있는 경우, 구입한 제품 패키지에 따라 Adobe Identity Management 시스템과 통합될 수 있습니다. 보유하고 있는지 확인하려면 Adobe 계정 팀(계정 관리자)에 문의하십시오.
 
 기존 Marketo 가입은 2023년 하반기에 Adobe Identity Management 시스템으로 마이그레이션되기 시작합니다.
 
 >[!NOTE]
 >
->Marketo 지원에서는 Adobe IMS 마이그레이션과 관련된 업데이트를 제공할 수 없습니다. 고객 성공 관리자는 향후 몇 개월 동안 예상되는 타임라인을 통해 지원을 받을 것입니다.
+>Marketo 지원에서는 Adobe IMS 마이그레이션과 관련된 업데이트를 제공할 수 없습니다. Adobe 계정 팀은 향후 몇 개월 동안 예상되는 타임라인에 도달합니다.
 
 ## 프로필 수준 {#profile-levels}
 
@@ -61,7 +61,7 @@ Adobe Identity Management 시스템은 세 가지 구성 요소로 구성됩니�
 
 **기존 Marketo Engage 구독은 언제 IMS와 통합됩니까?**
 
-기존 Marketo 가입은 올해 말 Adobe Identity Management 시스템으로 마이그레이션됩니다. Marketo 지원에서는 Adobe IMS 마이그레이션과 관련된 업데이트를 제공할 수 없습니다. 고객 성공 관리자는 향후 몇 개월 동안 예상되는 타임라인을 통해 지원을 받을 것입니다.
+기존 Marketo 가입은 올해 말 Adobe Identity Management 시스템으로 마이그레이션됩니다. Marketo 지원에서는 Adobe IMS 마이그레이션과 관련된 업데이트를 제공할 수 없습니다. Adobe 계정 팀은 향후 몇 개월 동안 예상되는 타임라인에 도달합니다.
 
 **Adobe 제품 관리자와 Marketo Engage 관리자의 차이점은 무엇입니까?**
 

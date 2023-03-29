@@ -3,9 +3,9 @@ unique-page-id: 11378869
 description: 비디오 SMS 메시지 만들기 - Marketo 문서 - 제품 설명서
 title: 비디오 SMS 메시지 만들기
 exl-id: 9ec0da97-7a80-4c40-be79-be08d7d1d9c1
-source-git-commit: 35e86ac356e61e9d6b9a663e468ced1e9a947144
+source-git-commit: 88c4e844f7ce26b12bae8177dd5311813fb4adcb
 workflow-type: tm+mt
-source-wordcount: '372'
+source-wordcount: '374'
 ht-degree: 0%
 
 ---
@@ -16,7 +16,7 @@ ht-degree: 0%
 
 >[!AVAILABILITY]
 >
->이 기능은 Adobe Marketo Engage 계정의 추가 기능으로 사용할 수 있습니다. 제대로 프로비저닝하려면 Adobe을 통해 구매해야 합니다. 자세한 내용은 Adobe 고객 성공 관리자에게 문의하십시오.
+>이 기능은 Adobe Marketo Engage 계정의 추가 기능으로 사용할 수 있습니다. 제대로 프로비저닝하려면 Adobe을 통해 구매해야 합니다. 자세한 내용은 Adobe 계정 팀(계정 관리자)에 문의하십시오.
 
 >[!NOTE]
 >

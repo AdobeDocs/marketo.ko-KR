@@ -3,22 +3,22 @@ unique-page-id: 6095008
 description: Google AdWords as a LaunchPoint Service 추가 - Marketo 문서 - 제품 설명서
 title: Google AdWords as a LaunchPoint Service 추가
 exl-id: 993a057a-3f98-4a9f-a770-c9c80dedfd81
-source-git-commit: 457b4aadac47b0a8614c3e6025d2e1ae287b5ecc
+source-git-commit: 88c4e844f7ce26b12bae8177dd5311813fb4adcb
 workflow-type: tm+mt
-source-wordcount: '325'
+source-wordcount: '318'
 ht-degree: 1%
 
 ---
 
 # Google AdWords as a LaunchPoint Service 추가 {#add-google-adwords-as-a-launchpoint-service}
 
-Google AdWords 계정을 Marketo에 연결하여 Marketo에서 Google AdWords로 오프라인 전환 데이터를 자동으로 업로드합니다. 그런 다음 AdWords UI에서 후에 자격을 갖춘 리드, 기회 및 신규 고객(또는 추적하려는 모든 수익 단계)이 발생한 클릭을 쉽게 확인할 수 있습니다 [사용자 지정 열 추가](https://support.google.com/adwords/answer/3073556)AdWords의 {target=&quot;_blank&quot;}. 이 정보는 Marketo UI에 표시되지 않습니다.
+Google AdWords 계정을 Marketo에 연결하여 Marketo에서 Google AdWords로 오프라인 전환 데이터를 자동으로 업로드합니다. 그런 다음 AdWords UI에서 후에 자격을 갖춘 리드, 기회 및 신규 고객(또는 추적하려는 모든 수익 단계)이 발생한 클릭을 쉽게 확인할 수 있습니다 [사용자 지정 열 추가](https://support.google.com/adwords/answer/3073556){target="_blank"} 참조하십시오. 이 정보는 Marketo UI에 표시되지 않습니다.
 
-추가 정보 [Google의 오프라인 전환 가져오기 기능](https://support.google.com/adwords/answer/2998031?hl=en){target=&quot;_blank&quot;}.
+추가 정보 [Google의 오프라인 전환 가져오기 기능](https://support.google.com/adwords/answer/2998031?hl=en){target="_blank"}.
 
 >[!AVAILABILITY]
 >
->모든 고객이 이 기능을 구입한 것은 아닙니다. 자세한 내용은 고객 성공 관리자에게 문의하십시오.
+>모든 고객이 이 기능을 구입한 것은 아닙니다. 자세한 내용은 Adobe 계정 팀(계정 관리자)에 문의하십시오.
 
 >[!NOTE]
 >
@@ -26,7 +26,7 @@ Google AdWords 계정을 Marketo에 연결하여 Marketo에서 Google AdWords로
 
 >[!NOTE]
 >
->을 통합할 수도 있습니다 [Google AdWords as a Launch 서비스(관리자 계정 포함)](/help/marketo/product-docs/administration/additional-integrations/add-google-adwords-as-a-launchpoint-service-with-a-manager-account.md){target=&quot;_blank&quot;}.
+>을 통합할 수도 있습니다 [Google AdWords as a Launch 서비스(관리자 계정 포함)](/help/marketo/product-docs/administration/additional-integrations/add-google-adwords-as-a-launchpoint-service-with-a-manager-account.md){target="_blank"}.
 
 1. 로 이동합니다. **관리** 섹션을 참조하십시오.
 
@@ -87,10 +87,10 @@ Google AdWords 계정을 Marketo에 연결하여 Marketo에서 Google AdWords로
 
    >[!NOTE]
    >
-   >[자동 태깅](https://support.google.com/adwords/answer/1752125?hl=en)이 기능을 사용하려면 {target=&quot;_blank&quot;}을 선택해야 합니다. 비활성화는 AdWords 내에서 수행해야 합니다.
+   >[자동 태깅](https://support.google.com/adwords/answer/1752125?hl=en){target="_blank"} 이 기능을 사용하려면 선택해야 합니다. 비활성화는 AdWords 내에서 수행해야 합니다.
 
 좋아요! 이제 매출 모델에서 AdWords 오프라인 전환을 매핑하는 방법을 알아보려면 아래 관련 문서를 참조하십시오.
 
 >[!MORELIKETHIS]
 >
->[매출 모델에서 Google AdWords 전환 설정](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-cycle-models/set-google-adwords-conversions-in-the-revenue-model.md){target=&quot;_blank&quot;}
+>[매출 모델에서 Google AdWords 전환 설정](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-cycle-models/set-google-adwords-conversions-in-the-revenue-model.md){target="_blank"}

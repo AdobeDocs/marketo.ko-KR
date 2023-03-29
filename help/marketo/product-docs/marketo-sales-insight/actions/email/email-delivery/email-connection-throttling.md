@@ -2,7 +2,7 @@
 description: 이메일 연결 제한 - Marketo 문서 - 제품 설명서
 title: 전자 메일 연결 조절
 exl-id: 02450a1e-5b30-4057-b204-19fab1a7d6c9
-source-git-commit: d9b8b92ac5f051178b8eb9b450c4949b56d50b99
+source-git-commit: 88c4e844f7ce26b12bae8177dd5311813fb4adcb
 workflow-type: tm+mt
 source-wordcount: '435'
 ht-degree: 0%
@@ -17,7 +17,7 @@ Exchange 또는 Gmail 이메일 공급자를 통해 전송할 Sales Connect 계�
 
 >[!AVAILABILITY]
 >
->이 기능은 현재 베타 릴리스에 있습니다. 이 베타에 참여하려면 고객 성공 관리자에게 문의하십시오.
+>이 기능은 현재 베타에 있습니다. 가입하려면 Adobe 계정 팀(계정 관리자)에 문의하십시오.
 
 이메일 연결 조절 기능을 사용하면 Sales Connect 관리자가 Gmail 또는 Exchange를 게재 채널로 사용할 때 전자 메일의 전송 속도를 구성할 수 있으므로 전자 메일이 게재 채널 공급자에게 전달되는 비율이 강제 제한을 초과하지 않도록 할 수 있습니다.
 

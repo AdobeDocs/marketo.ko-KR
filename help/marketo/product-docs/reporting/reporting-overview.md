@@ -2,9 +2,9 @@
 description: 보고 개요 - Marketo 문서 - 제품 설명서
 title: 보고 개요
 exl-id: 62b4b9fc-a4fe-4298-947b-1ff453321464
-source-git-commit: d6d8674ef3357cef1b388a43baade1c57ed98e3e
+source-git-commit: 88c4e844f7ce26b12bae8177dd5311813fb4adcb
 workflow-type: tm+mt
-source-wordcount: '392'
+source-wordcount: '387'
 ht-degree: 0%
 
 ---
@@ -15,15 +15,15 @@ Marketo에서는 다양한 요구 사항에 맞는 다양한 보고 모듈을 �
 
 ## 기본 보고 {#basic-reporting}
 
-다음을 설정할 수 있습니다 [기본 보고서](/help/marketo/product-docs/reporting/basic-reporting/report-types/report-type-overview.md)프로그램 내 또는 Analytics 영역에서 {target=&quot;_blank&quot;}. 기본 보고서는 필터, 정렬 및 시간 간격을 유연하게 조정하는 다양한 유형의 기본 보고서로 구성됩니다.
+다음을 설정할 수 있습니다 [기본 보고서](/help/marketo/product-docs/reporting/basic-reporting/report-types/report-type-overview.md){target="_blank"} 를 클릭하거나 탭합니다. 기본 보고서는 필터, 정렬 및 시간 간격을 유연하게 조정하는 다양한 유형의 기본 보고서로 구성됩니다.
 
 ## 이메일 통찰력 {#email-insights}
 
-Analytics 및 Sends를 사용하여 가져오기 [강력한 통찰력](/help/marketo/product-docs/reporting/email-insights/email-insights-overview.md)이전 데이터의 전자 메일에 대한 {target=&quot;_blank&quot;}.
+Analytics 및 Sends를 사용하여 가져오기 [강력한 통찰력](/help/marketo/product-docs/reporting/email-insights/email-insights-overview.md){target="_blank"} 내역 데이터에서 보낸 이메일.
 
 ## 성능 통찰력 {#performance-insights}
 
-[성능 통찰력](/help/marketo/product-docs/reporting/performance-insights/performance-insights-overview.md){target=&quot;_blank&quot;}은 참여, 파이프라인 및 매출 생성을 위한 채널 성능 및 프로그램 성능을 다룹니다.
+[성능 통찰력](/help/marketo/product-docs/reporting/performance-insights/performance-insights-overview.md){target="_blank"} 참여, 파이프라인 및 매출 생성을 위한 채널 성능 및 프로그램 성능을 다룹니다.
 
 ## 고급 BI Analytics 보고 {#advanced-bi-analytics-reporting}
 
@@ -31,7 +31,7 @@ _(이전에 매출 주기 탐색기/고급 Report Builder라고 함)_
 
 >[!AVAILABILITY]
 >
->모든 고객이 고급 BI Analytics 및 고급 여정 분석 모듈을 구입한 것은 아닙니다. 자세한 내용은 고객 성공 관리자에게 문의하십시오.
+>모든 사용자가 고급 BI Analytics 및 고급 여정 분석 모듈을 구입한 것은 아닙니다. 자세한 내용은 Adobe 계정 팀(계정 관리자)에 문의하십시오.
 
 마케팅 이니셔티브에서 ROI를 추적합니다. 이메일, 사람, 프로그램, 기회, 모델 성과 분석(회사) 및 모델 성과 분석(리드)을 분석합니다. BI Explorer를 사용하면 분석 영역 내에서 사용자 지정 보고서를 만들고 데이터를 사용하여 그래프, 차트, 피벗 및 대시보드를 만들 수 있습니다.
 

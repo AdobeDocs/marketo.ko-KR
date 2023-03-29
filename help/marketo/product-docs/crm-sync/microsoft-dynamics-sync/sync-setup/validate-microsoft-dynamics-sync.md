@@ -3,9 +3,9 @@ unique-page-id: 8783322
 description: Microsoft Dynamics 동기화 유효성 검사 - Marketo 문서 - 제품 설명서
 title: Microsoft Dynamics 동기화 유효성 검사
 exl-id: 00297a8d-36c3-42f6-a9b8-4a8dd7c1f30d
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+source-git-commit: 88c4e844f7ce26b12bae8177dd5311813fb4adcb
 workflow-type: tm+mt
-source-wordcount: '266'
+source-wordcount: '269'
 ht-degree: 0%
 
 ---
@@ -48,7 +48,7 @@ ht-degree: 0%
 
    >[!CAUTION]
    >
-   >현재 Marketo Dynamics Sync에 대한 샌드박스 새로 고침을 지원하지 않습니다. Dynamics CRM 샌드박스를 새로 고쳐야 하는 경우 새 Marketo 샌드박스가 필요합니다. 자세한 내용은 고객 성공 관리자에게 문의하십시오.
+   >현재 Marketo Dynamics Sync에 대한 샌드박스 새로 고침을 지원하지 않습니다. Dynamics CRM 샌드박스를 새로 고쳐야 하는 경우 새 Marketo 샌드박스가 필요합니다. 자세한 내용은 Adobe 계정 팀(계정 관리자)에 문의하십시오.
 
 >[!MORELIKETHIS]
 >

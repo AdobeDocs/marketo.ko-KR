@@ -3,9 +3,9 @@ unique-page-id: 2359685
 description: 참여 대시보드 - Marketo 문서 - 제품 설명서
 title: 참여 대시보드
 exl-id: ba72cadf-416c-4faa-9f0c-aa75fec3c3cf
-source-git-commit: 8920bc525075923b32e7330da20debb7b8f47b06
+source-git-commit: 88c4e844f7ce26b12bae8177dd5311813fb4adcb
 workflow-type: tm+mt
-source-wordcount: '272'
+source-wordcount: '275'
 ht-degree: 0%
 
 ---
@@ -48,7 +48,7 @@ ht-degree: 0%
 
 >[!AVAILABILITY]
 >
->이 기능은 Marketo의 매출 주기 탐색기를 사용하는 고객을 위한 추가 기능으로 사용할 수 있습니다. 자세한 내용은 고객 성공 관리자에게 문의하십시오.
+>이 기능은 Marketo의 매출 주기 탐색기를 사용하는 고객을 위한 추가 기능으로 사용할 수 있습니다. 자세한 내용은 Adobe 계정 팀(계정 관리자)에 문의하십시오.
 
 ![](assets/image2014-9-15-16-3a45-3a50.png)
 

@@ -3,9 +3,9 @@ unique-page-id: 1900587
 description: 전용 IP 주소를 사용하여 이메일 전송 - Marketo 문서 - 제품 설명서
 title: 전용 IP 주소를 사용하여 이메일 전송
 exl-id: cc83cf43-8b6d-4869-9c4f-7f3d2cd82dfa
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+source-git-commit: 88c4e844f7ce26b12bae8177dd5311813fb4adcb
 workflow-type: tm+mt
-source-wordcount: '427'
+source-wordcount: '432'
 ht-degree: 0%
 
 ---
@@ -16,7 +16,7 @@ ht-degree: 0%
 
 >[!AVAILABILITY]
 >
->전용 IP는 추가 기능 제품입니다. 모든 사용자가 전용 IP를 해당 프로그램에 추가할 수 있는 것은 아닙니다. 매월 10만 개 이상의 이메일을 전송해야 하며 전용 IP를 유지하기 위해 안정적인 캠페인 케이던스가 있어야 합니다. Marketo 프로그램에 전용 IP를 추가하는 방법에 대한 자세한 내용은 CSM에 문의하십시오.
+>전용 IP는 추가 기능 제품입니다. 모든 사용자가 전용 IP를 해당 프로그램에 추가할 수 있는 것은 아닙니다. 매월 10만 개 이상의 이메일을 전송해야 하며 전용 IP를 유지하기 위해 안정적인 캠페인 케이던스가 있어야 합니다. Marketo 프로그램에 전용 IP를 추가하는 방법에 대한 자세한 내용은 Adobe 계정 팀(계정 관리자)에 문의하십시오.
 >
 >월별 10만 개 미만의 이메일을 보내거나, 캠페인 볼륨이 조정되거나, 계절별 보낸 사람이면 전용 IP를 유지 관리할 수 없습니다. Marketo은 엄격한 모범 사례를 따르는 고객을 위해 별도의 신뢰할 수 있는 IP 공유 풀을 유지 관리합니다. 관심 있으시다면 기입해 주십시오 [이 설문지](https://na-sjg.marketo.com/lp/marketoprivacydemo/Trusted-IP-Sending-Range-Program.html) Marketo의 신뢰할 수 있는 IP 프로그램에 적용.
 

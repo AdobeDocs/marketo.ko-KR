@@ -3,9 +3,9 @@ unique-page-id: 10098625
 description: Microsoft Dynamics 동기화 이해 - Marketo 문서 - 제품 설명서
 title: Microsoft Dynamics 동기화 이해
 exl-id: bc87f744-7f1c-421b-8507-1a6e23d27fa2
-source-git-commit: 17cacaa56a437a568bd0d2cc23020f3f880eaf52
+source-git-commit: 88c4e844f7ce26b12bae8177dd5311813fb4adcb
 workflow-type: tm+mt
-source-wordcount: '242'
+source-wordcount: '245'
 ht-degree: 0%
 
 ---
@@ -20,7 +20,7 @@ Marketo과 Microsoft Dynamics가 함께 결합됩니다. Adobe는 귀사의 영�
 
 >[!CAUTION]
 >
->현재 Marketo Dynamics Sync에 대한 샌드박스 새로 고침을 지원하지 않습니다. Dynamics CRM 샌드박스를 새로 고쳐야 하는 경우 새 Marketo 샌드박스가 필요합니다. 자세한 내용은 고객 성공 관리자에게 문의하십시오.
+>현재 Marketo Dynamics Sync에 대한 샌드박스 새로 고침을 지원하지 않습니다. Dynamics CRM 샌드박스를 새로 고쳐야 하는 경우 새 Marketo 샌드박스가 필요합니다. 자세한 내용은 Adobe 계정 팀(계정 관리자)에 문의하십시오.
 
 ## 동기화 작동 방식 {#how-sync-works}
 

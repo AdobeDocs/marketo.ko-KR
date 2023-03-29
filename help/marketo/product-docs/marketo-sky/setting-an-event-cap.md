@@ -4,9 +4,9 @@ title: 이벤트 상한 설정
 hide: true
 hidefromtoc: true
 exl-id: 8a46d97b-77a7-479a-b7ac-580ec65171fd
-source-git-commit: 59768a413038472e38d28e5fb8bcadc4419b360d
+source-git-commit: 88c4e844f7ce26b12bae8177dd5311813fb4adcb
 workflow-type: tm+mt
-source-wordcount: '212'
+source-wordcount: '214'
 ht-degree: 0%
 
 ---
@@ -17,7 +17,7 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->모든 고객이 이 기능을 구입한 것은 아닙니다. 자세한 내용은 고객 성공 관리자에게 문의하십시오.
+>모든 사용자가 이 기능을 구입한 것은 아닙니다. 자세한 내용은 Adobe 계정 팀(계정 관리자)에 문의하십시오.
 
 >[!IMPORTANT]
 >이벤트 캡을 설정하려면 먼저 프로그램에 승인된 랜딩 페이지(등록 페이지 및 등록 전체 페이지)가 두 개 이상 있어야 합니다.

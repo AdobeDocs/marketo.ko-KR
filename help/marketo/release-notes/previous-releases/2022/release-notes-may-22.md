@@ -2,9 +2,9 @@
 description: 릴리스 노트 - 2022년 5월 - Marketo 문서 - 제품 설명서
 title: 릴리스 노트 - 2022년 5월
 exl-id: f591ab95-5ad8-45fa-8c4e-8e42b5d1359a
-source-git-commit: 85e04fb8a52a417982014bc4bb101b6044e53f84
+source-git-commit: 88c4e844f7ce26b12bae8177dd5311813fb4adcb
 workflow-type: tm+mt
-source-wordcount: '833'
+source-wordcount: '826'
 ht-degree: 0%
 
 ---
@@ -23,7 +23,7 @@ ht-degree: 0%
 
 ## 기본 CRM 통합 {#native-crm-integration}
 
-**[기본 Veva CRM 통합](/help/marketo/product-docs/crm-sync/veeva-crm-sync/understanding-the-veeva-crm-sync.md){target=&quot;_blank&quot;}(사용 가능 제한)**: 기본 통합을 통해 Veeva CRM과 Marketo Engage 간 활동을 동기화하여 의료 전문가와의 참여를 개선할 수 있습니다. 이러한 통합을 통해 마케터는 의료 전문가를 위한 보다 개인화되고 원활한 크로스 채널 경험을 만들 수 있습니다. 참여하는 데 관심이 있는 경우 고객 성공 관리자에게 문의하십시오.
+**[기본 Veva CRM 통합](/help/marketo/product-docs/crm-sync/veeva-crm-sync/understanding-the-veeva-crm-sync.md){target="_blank"} (제한된 가용성)**: 기본 통합을 통해 Veeva CRM과 Marketo Engage 간 활동을 동기화하여 의료 전문가와의 참여를 개선할 수 있습니다. 이러한 통합을 통해 마케터는 의료 전문가를 위한 보다 개인화되고 원활한 크로스 채널 경험을 만들 수 있습니다. 참여하는 데 관심이 있는 경우 Adobe 계정 팀(계정 관리자)에 문의하십시오.
 
 ## 크로스 채널 오케스트레이션 {#cross-channel-orchestration}
 
@@ -35,9 +35,9 @@ ht-degree: 0%
 
 **다이내믹 채팅용 URL 제외**: 타깃팅 기준에서 특정 URL을 제외하는 기능을 사용하여 동적 채팅이 표시되는 웹 페이지를 제어합니다.
 
-**[전자 메일 보트 활동 필터링 개선 사항](/help/marketo/product-docs/administration/email-setup/filtering-email-bot-activity.md){target=&quot;_blank&quot;}**: 기존 IAB 목록 일치 식별 외에도 숨겨진 링크 사용자 에이전트 또는 IP 및 근접 패턴을 기반으로 보트 동작을 식별하는 기능을 사용하여 데이터베이스의 상태를 계속 보호합니다. 각 유형에 대해 식별된 보트 활동 수를 이해할 수 있도록 해주는 보트 활동 상태를 봅니다.
+**[전자 메일 보트 활동 필터링 개선 사항](/help/marketo/product-docs/administration/email-setup/filtering-email-bot-activity.md){target="_blank"}**: 기존 IAB 목록 일치 식별 외에도 숨겨진 링크 사용자 에이전트 또는 IP 및 근접 패턴을 기반으로 보트 동작을 식별하는 기능을 사용하여 데이터베이스의 상태를 계속 보호합니다. 각 유형에 대해 식별된 보트 활동 수를 이해할 수 있도록 해주는 보트 활동 상태를 봅니다.
 
-**[전자 메일 추적 링크에 대한 STS 헤더](/help/marketo/product-docs/administration/settings/email-tracking-link-headers.md){target=&quot;_blank&quot;}**: 보안 모범 사례를 충족하여 추적된 링크에 대한 트래픽이 항상 안전하도록 보안 전송 보안 헤더를 적용하는 기능을 제공합니다.
+**[전자 메일 추적 링크에 대한 STS 헤더](/help/marketo/product-docs/administration/settings/email-tracking-link-headers.md){target="_blank"}**: 보안 모범 사례를 충족하여 추적된 링크에 대한 트래픽이 항상 안전하도록 보안 전송 보안 헤더를 적용하는 기능을 제공합니다.
 
 ## 차세대 경험 {#modern-ux}
 
@@ -63,10 +63,10 @@ Adobe는 Design Studio의 차세대 환경에서 전자 메일 템플릿 세부 
 
 **이메일 확인 및 고유성**: 4월부터 이메일 확인 롤아웃을 시작합니다. 이때 Marketo Engage 사용자 이메일 주소는 확인 및 고유성이 필요합니다(API 전용 사용자에게는 적용되지 않음). Directory Service 인증된 사용자는 이메일 확인을 통해 구독을 활성화하면 자동으로 이메일이 확인됩니다.
 
-&quot;사용자 초대 대화 상자에 로그인&quot; 기능을 사용하거나 여러 사용자와 연결된 단일 이메일이 있는 가입에 대한 이메일 확인은 5월 릴리스와 일치합니다. 여러 사용자와 연결된 단일 이메일이 있는 가입은 이메일 확인을 통해 활성화되며 이러한 사용자가 충돌을 해결하고 사용자당 고유한 이메일을 사용해야 합니다. &#39;사용자 초대 대화 상자에 로그인&#39; 기능이 활성화되면 이 기능을 통해 초대된 사용자는 고유한 이메일 주소를 가져야 합니다. 이 기능을 통해 초대된 API 전용 사용자의 경우 이메일 주소가 고유할 필요가 없습니다.
+&quot;사용자 초대 대화 상자에 로그인&quot; 기능을 사용하거나 여러 사용자와 연결된 단일 이메일이 있는 가입에 대한 이메일 확인은 5월 릴리스와 일치합니다. 여러 사용자와 연결된 단일 이메일이 있는 가입은 이메일 확인을 통해 활성화되며 이러한 사용자가 충돌을 해결하고 사용자당 고유한 이메일을 사용해야 합니다. [사용자 초대 대화 상자에 로그인] 기능이 활성화되면 이 기능을 통해 초대된 사용자는 고유한 이메일 주소를 가져야 합니다. 이 기능을 통해 초대된 API 전용 사용자의 경우 이메일 주소가 고유할 필요가 없습니다.
 
-**아카이브 폴더 동작 변경**: 이 릴리스에서는 아카이브 폴더에서 새 자산을 생성하는 기능을 트리 컨텍스트 메뉴에서 더 이상 사용할 수 없습니다. 새 자산을 만들기 위한 메뉴 옵션은 모든 자산에 대해 숨겨집니다. [여기에서 추가 정보](https://nation.marketo.com/t5/product-discussions/archive-folder-change-in-may-2022-release/m-p/324369#M183235){target=&quot;_blank&quot;}.
+**아카이브 폴더 동작 변경**: 이 릴리스에서는 아카이브 폴더에서 새 자산을 생성하는 기능을 트리 컨텍스트 메뉴에서 더 이상 사용할 수 없습니다. 새 자산을 만들기 위한 메뉴 옵션은 모든 자산에 대해 숨겨집니다. [여기에서 추가 정보](https://nation.marketo.com/t5/product-discussions/archive-folder-change-in-may-2022-release/m-p/324369#M183235){target="_blank"}.
 
 **_제품 릴리스 웨비나_**
 
-[2022년 3월 및 5월 Marketo Engage 릴리스 웨비나](https://engage.marketo.com/2022_March_May_Release_Webinar_DemandPage.html){target=&quot;_blank&quot;}
+[2022년 3월 및 5월 Marketo Engage 릴리스 웨비나](https://engage.marketo.com/2022_March_May_Release_Webinar_DemandPage.html){target="_blank"}

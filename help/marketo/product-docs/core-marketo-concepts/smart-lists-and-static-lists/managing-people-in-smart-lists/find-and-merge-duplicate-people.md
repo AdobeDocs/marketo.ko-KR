@@ -3,9 +3,9 @@ unique-page-id: 557339
 description: 중복 사용자 찾기 및 병합 - Marketo 문서 - 제품 설명서
 title: 중복 사람 찾기 및 병합
 exl-id: a6d46096-587a-4e3a-b37a-917c0d2098b1
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+source-git-commit: 88c4e844f7ce26b12bae8177dd5311813fb4adcb
 workflow-type: tm+mt
-source-wordcount: '429'
+source-wordcount: '430'
 ht-degree: 0%
 
 ---
@@ -80,6 +80,6 @@ Lead 또는 Contacts를 병합할 때 Salesforce 동작에 대한 자세한 내�
 
 ## 벌크 병합 {#bulk-merging}
 
-수동으로 병합하기 위해 중복 항목이 너무 많은 경우 고객 성공 관리자에게 문의하여 선택 사항에 대해 논의하십시오.
+수동으로 병합하기 위해 중복 항목이 너무 많으면 Adobe 계정 팀(계정 관리자)에 문의하여 옵션에 대해 논의하십시오.
 
-아주! CRM에 연결되어 있으면 아래 규칙에 따라 레코드가 여기에 병합됩니다.
+CRM에 연결되어 있으면 아래 규칙에 따라 레코드가 여기에 병합됩니다.

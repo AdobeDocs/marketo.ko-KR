@@ -3,9 +3,9 @@ unique-page-id: 14745959
 description: 릴리스 노트 - 2018년 봄 - Marketo 문서 - 제품 설명서
 title: 릴리스 노트 - 2018년 봄
 exl-id: 59bab3a9-12b3-4c87-b035-a7cde63ada1e
-source-git-commit: 74effe9f8078f8d71e6de01d6e737ddc86978abb
+source-git-commit: 88c4e844f7ce26b12bae8177dd5311813fb4adcb
 workflow-type: tm+mt
-source-wordcount: '481'
+source-wordcount: '480'
 ht-degree: 0%
 
 ---
@@ -24,7 +24,7 @@ ht-degree: 0%
 
 >[!AVAILABILITY]
 >
->Sales Engage 는 추가 제품입니다. 견적서는 Marketo 고객 성공 관리자 또는 계정 담당자에게 문의하십시오.
+>Sales Engage 는 추가 제품입니다. 견적서는 Marketo 계정 관리자 또는 계정 담당자에게 문의하십시오.
 
 인텔리전스, 컨텐츠, Playbook 및 Analytics를 통해 매출을 강화하여 더 많은 리드를 판매 기회로 전환할 수 있으므로 더 많은 파이프라인과 수익을 창출할 수 있습니다. Sales Engage 는 고객 여정 전반에서 참여할 수 있는 통합 플랫폼을 통해 영업 및 마케팅을 제공하며 고객 접점에 대한 공유 뷰를 통해 더 나은 조정을 가능하게 합니다.
 

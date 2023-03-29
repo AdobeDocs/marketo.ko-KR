@@ -3,9 +3,9 @@ unique-page-id: 2360409
 description: 프로그램 정보를 표시하는 이메일 분석 보고서 작성 - Marketo 문서 - 제품 설명서
 title: 프로그램 정보를 표시하는 이메일 분석 보고서 작성
 exl-id: 9d7fd359-c06e-4dab-a0d7-9c360bb44d0d
-source-git-commit: 40af69d035323a066fd61dcb51fe1636fb26e8c2
+source-git-commit: 88c4e844f7ce26b12bae8177dd5311813fb4adcb
 workflow-type: tm+mt
-source-wordcount: '148'
+source-wordcount: '151'
 ht-degree: 0%
 
 ---
@@ -16,7 +16,7 @@ ht-degree: 0%
 
 >[!AVAILABILITY]
 >
->모든 고객이 이 기능을 구입한 것은 아닙니다. 자세한 내용은 고객 성공 관리자에게 문의하십시오.
+>모든 사용자가 이 기능을 구입한 것은 아닙니다. 자세한 내용은 Adobe 계정 팀(계정 관리자)에 문의하십시오.
 
 1. Launch **매출 탐색기**.
 

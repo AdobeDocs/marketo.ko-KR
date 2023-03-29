@@ -2,9 +2,9 @@
 description: Sales Insight Actions 기능 개요 - Marketo 문서 - 제품 설명서
 title: Sales Insight Actions 기능 개요
 exl-id: 059de248-d1a2-42cd-a7ec-f10b15d0b526
-source-git-commit: 40af69d035323a066fd61dcb51fe1636fb26e8c2
+source-git-commit: 88c4e844f7ce26b12bae8177dd5311813fb4adcb
 workflow-type: tm+mt
-source-wordcount: '1356'
+source-wordcount: '1360'
 ht-degree: 0%
 
 ---
@@ -15,11 +15,11 @@ Sales Insight Actions 을 사용하여 단일 워크플로우에서 마케팅 �
 
 >[!AVAILABILITY]
 >
->이 기능은 현재 단계적인 롤아웃 중입니다. 고객 성공 관리자에게 문의하거나 이메일로 연락하십시오 `sales-insights(at)adobe(dot)com` 액세스 권한을 요청하려면 다음을 수행하십시오.
+>이 기능은 현재 모든 Sales Insight 사용자에게 롤아웃되고 있습니다. 롤아웃에서 우선 순위를 지정하려면 전자 메일을 보내십시오. `sales-insights(at)adobe(dot)com`.
 
 >[!NOTE]
 >
->Sales Insight Actions에 대한 비디오 개요를 보려면 [여기를 클릭하십시오.](https://experienceleague.adobe.com/docs/marketo-learn/tutorials/sales-insight-actions/overview.html){target=&quot;_blank&quot;}.
+>Sales Insight Actions에 대한 비디오 개요를 보려면 [여기를 클릭하십시오.](https://experienceleague.adobe.com/docs/marketo-learn/tutorials/sales-insight-actions/overview.html){target="_blank"}.
 
 ![](assets/sales-insight-actions-feature-overview-1.png)
 

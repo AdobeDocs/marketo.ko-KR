@@ -3,24 +3,24 @@ unique-page-id: 7504893
 description: 관리자 계정을 사용하여 Google AdWords as a Launch Service 추가 - Marketo 문서 - 제품 설명서
 title: 관리자 계정을 사용하여 Google AdWords를 Launchpoint 서비스로 추가
 exl-id: aac106f4-6615-49d5-a561-0dd965c7b0ff
-source-git-commit: 457b4aadac47b0a8614c3e6025d2e1ae287b5ecc
+source-git-commit: 88c4e844f7ce26b12bae8177dd5311813fb4adcb
 workflow-type: tm+mt
-source-wordcount: '368'
+source-wordcount: '359'
 ht-degree: 1%
 
 ---
 
 # 관리자 계정을 사용하여 Google AdWords를 Launchpoint 서비스로 추가 {#add-google-adwords-as-a-launchpoint-service-with-a-manager-account}
 
-Google AdWords 계정을 Marketo에 연결하여 Marketo에서 Google AdWords로 오프라인 전환 데이터를 자동으로 업로드합니다. 그런 다음 AdWords UI에서 자격 조건을 갖춘 리드, 기회 및 신규 고객(또는 추적하려는 모든 수익 단계)이 발생한 클릭을 손쉽게 확인할 수 있습니다  [사용자 지정 열 추가](https://support.google.com/adwords/answer/3073556)AdWords의 {target=&quot;_blank&quot;}. 이 정보는 Marketo UI에 표시되지 않습니다.
+Google AdWords 계정을 Marketo에 연결하여 Marketo에서 Google AdWords로 오프라인 전환 데이터를 자동으로 업로드합니다. 그런 다음 AdWords UI에서 자격 조건을 갖춘 리드, 기회 및 신규 고객(또는 추적하려는 모든 수익 단계)이 발생한 클릭을 손쉽게 확인할 수 있습니다  [사용자 지정 열 추가](https://support.google.com/adwords/answer/3073556){target="_blank"} 참조하십시오. 이 정보는 Marketo UI에 표시되지 않습니다.
 
-Google Adwords 계정이 여러 개 있는 경우 [Google AdWords Manager 계정](https://www.google.com/adwords/manager-accounts/){target=&quot;_blank&quot;}(이전의 내 클라이언트 센터)를 사용하여 Marketo과 통합할 수 있습니다.
+Google Adwords 계정이 여러 개 있는 경우 [Google AdWords Manager 계정](https://www.google.com/adwords/manager-accounts/){target="_blank"} (이전의 My Client Center) 를 사용하여 Marketo과 통합했습니다.
 
-추가 정보 [Google의 오프라인 전환 가져오기 기능](https://support.google.com/adwords/answer/2998031?hl=en){target=&quot;_blank&quot;}.
+추가 정보 [Google의 오프라인 전환 가져오기 기능](https://support.google.com/adwords/answer/2998031?hl=en){target="_blank"}.
 
 >[!AVAILABILITY]
 >
->모든 고객이 이 기능을 구입한 것은 아닙니다. 자세한 내용은 고객 성공 관리자에게 문의하십시오.
+>모든 고객이 이 기능을 구입한 것은 아닙니다. 자세한 내용은 Adobe 계정 팀(계정 관리자)에 문의하십시오.
 
 >[!NOTE]
 >
@@ -28,7 +28,7 @@ Google Adwords 계정이 여러 개 있는 경우 [Google AdWords Manager 계정
 
 >[!NOTE]
 >
->을 통합할 수도 있습니다 [Launchpoint 서비스로서의 독립형 Google AdWords 계정](/help/marketo/product-docs/administration/additional-integrations/add-google-adwords-as-a-launchpoint-service.md){target=&quot;_blank&quot;}.
+>을 통합할 수도 있습니다 [Launchpoint 서비스로서의 독립형 Google AdWords 계정](/help/marketo/product-docs/administration/additional-integrations/add-google-adwords-as-a-launchpoint-service.md){target="_blank"}.
 
 1. 로 이동합니다. **관리** 섹션을 참조하십시오.
 
@@ -81,7 +81,7 @@ Google Adwords 계정이 여러 개 있는 경우 [Google AdWords Manager 계정
 
    >[!NOTE]
    >
-   >[자동 태깅](https://support.google.com/adwords/answer/1752125?hl=en)이 기능을 사용하려면 {target=&quot;_blank&quot;}을 선택해야 합니다. AdWords 내에서 활성화되어야 합니다.
+   >[자동 태깅](https://support.google.com/adwords/answer/1752125?hl=en){target="_blank"} 이 기능을 사용하려면 선택해야 합니다. AdWords 내에서 활성화되어야 합니다.
 
 1. 클릭 **다음**.
 
@@ -95,4 +95,4 @@ Google Adwords 계정이 여러 개 있는 경우 [Google AdWords Manager 계정
 
    >[!MORELIKETHIS]
    >
-   >[관리자 계정을 사용하여 매출 모델에서 Google AdWords 전환 을 설정합니다](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-cycle-models/set-google-adwords-conversions-in-the-revenue-model-with-a-manager-account.md){target=&quot;_blank&quot;}
+   >[관리자 계정을 사용하여 매출 모델에서 Google AdWords 전환 을 설정합니다](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-cycle-models/set-google-adwords-conversions-in-the-revenue-model-with-a-manager-account.md){target="_blank"}

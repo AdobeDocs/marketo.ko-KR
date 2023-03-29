@@ -3,9 +3,9 @@ unique-page-id: 2360366
 description: 3단계 중 3단계 - Connect Marketo 및 Salesforce(Enterprise/Unlimited) - Marketo 문서 - 제품 설명서
 title: 3단계 중 3단계 - Marketo 및 Salesforce 연결(Enterprise/Unlimited)
 exl-id: ef74bc53-9dc9-43c7-a9aa-565463fdd2e5
-source-git-commit: 8781c6cf2e64543809fe697e75ae6884969a4e40
+source-git-commit: 88c4e844f7ce26b12bae8177dd5311813fb4adcb
 workflow-type: tm+mt
-source-wordcount: '466'
+source-wordcount: '469'
 ht-degree: 0%
 
 ---
@@ -56,7 +56,7 @@ ht-degree: 0%
 
    >[!CAUTION]
    >
-   >사용자 이름/암호/토큰 필드 대신 &quot;Salesforce에 로그인&quot; 단추가 표시되는 경우 OAuth에 Marketo Subscription이 활성화됩니다. 제발 [이 문서를 참조하십시오](/help/marketo/product-docs/crm-sync/salesforce-sync/log-in-using-oauth-2-0.md). 동기화가 자격 증명 집합을 사용하는 즉시 **Salesforce 자격 증명 또는 구독을 전환하지 않습니다**. 기본 인증을 사용하려면 고객 성공 관리자에게 문의하십시오.
+   >사용자 이름/암호/토큰 필드 대신 &quot;Salesforce에 로그인&quot; 단추가 표시되는 경우 OAuth에 Marketo Subscription이 활성화됩니다. 제발 [이 문서를 참조하십시오](/help/marketo/product-docs/crm-sync/salesforce-sync/log-in-using-oauth-2-0.md). 동기화가 자격 증명 집합을 사용하는 즉시 **Salesforce 자격 증명 또는 구독을 전환하지 않습니다**. 기본 인증을 사용하려면 Adobe 계정 팀(계정 관리자)에 문의하십시오.
 
 1. 경고를 읽은 다음 **자격 증명 확인**.
 

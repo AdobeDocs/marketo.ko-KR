@@ -3,9 +3,9 @@ unique-page-id: 11379622
 description: facebook 리드 광고 설정 - Marketo 문서 - 제품 설명서
 title: facebook 리드 광고 설정
 exl-id: 24cb74da-6b46-45de-ba4a-66e3d490afd7
-source-git-commit: 41d8762203786bac9aea03ac978daa0549ac8e93
+source-git-commit: 88c4e844f7ce26b12bae8177dd5311813fb4adcb
 workflow-type: tm+mt
-source-wordcount: '318'
+source-wordcount: '321'
 ht-degree: 0%
 
 ---
@@ -20,7 +20,7 @@ ht-degree: 0%
 
 >[!AVAILABILITY]
 >
->facebook 리드 광고를 인스턴스에 추가하려면 고객 성공 관리자에게 문의하십시오.
+>facebook 리드 광고를 인스턴스에 추가하려면 Adobe 계정 팀(계정 관리자)에 문의하십시오.
 
 1. Marketo으로 이동 **관리**.
 

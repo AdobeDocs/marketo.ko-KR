@@ -2,9 +2,9 @@
 description: OAuth 2.0을 사용하여 로그인 - Marketo 문서 - 제품 설명서
 title: OAuth 2.0을 사용하여 로그인
 exl-id: 0a70505d-d2b8-4dc9-ad11-decc86588f7f
-source-git-commit: c15753e0f2af199af8fd7e8bfe0924a915a39814
+source-git-commit: 88c4e844f7ce26b12bae8177dd5311813fb4adcb
 workflow-type: tm+mt
-source-wordcount: '490'
+source-wordcount: '493'
 ht-degree: 0%
 
 ---
@@ -76,7 +76,7 @@ Salesforce는 OAuth 프로토콜을 사용하여 응용 프로그램 사용자�
 
    >[!CAUTION]
    >
-   >Salesforce로 로그인 단추가 아닌 사용자 이름/암호/토큰 필드가 표시되는 경우 Marketo 구독이 기본 인증에 활성화됩니다. 자세한 내용은 [기본 인증을 사용하여 Marketo 설정](/help/marketo/product-docs/crm-sync/salesforce-sync/setup/enterprise-unlimited-edition/step-3-of-3-connect-marketo-and-salesforce-enterprise-unlimited.md). 자격 증명 집합을 사용하여 동기화가 시작되면 Salesforce 자격 증명 또는 구독을 전환하지 않습니다. Oauth 2.0을 사용하려면 고객 성공 관리자에게 문의하십시오.
+   >Salesforce로 로그인 단추가 아닌 사용자 이름/암호/토큰 필드가 표시되는 경우 Marketo 구독이 기본 인증에 활성화됩니다. 자세한 내용은 [기본 인증을 사용하여 Marketo 설정](/help/marketo/product-docs/crm-sync/salesforce-sync/setup/enterprise-unlimited-edition/step-3-of-3-connect-marketo-and-salesforce-enterprise-unlimited.md). 자격 증명 집합을 사용하여 동기화가 시작되면 Salesforce 자격 증명 또는 구독을 전환하지 않습니다. Oauth 2.0을 사용하려면 Adobe 계정 팀(계정 관리자)에 문의하십시오.
 
 1. salesforce 로그인 페이지가 표시되는 팝업이 나타납니다. 키를 &quot;Marketo 동기화 사용자&quot; 자격 증명에 입력하고 로그인합니다.
 

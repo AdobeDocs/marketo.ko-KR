@@ -3,9 +3,9 @@ unique-page-id: 13795395
 description: 릴리스 노트 - 겨울 '18 - Marketo 문서 - 제품 설명서
 title: 릴리스 노트 - 2018년 겨울
 exl-id: f08bdc91-86d3-4ea2-a74a-1398ed525bbb
-source-git-commit: 6ad418c8f4056b9a2fb31b0ac995692f0c618795
+source-git-commit: 88c4e844f7ce26b12bae8177dd5311813fb4adcb
 workflow-type: tm+mt
-source-wordcount: '599'
+source-wordcount: '598'
 ht-degree: 0%
 
 ---
@@ -34,7 +34,7 @@ Salesforce CRM 통합에 대한 두 가지 개선 사항이 있습니다.
 
 >[!AVAILABILITY]
 >
->Performance Insights 는 추가 기능 제품입니다. 견적서는 Marketo 고객 성공 관리자 또는 계정 담당자에게 문의하십시오.
+>Performance Insights 는 추가 기능 제품입니다. 견적서는 Marketo 계정 관리자 또는 계정 담당자에게 문의하십시오.
 
 기여도 분석, 대화형 시각화 및 자세한 데이터 표를 사용하여 캠페인 및 채널이 비즈니스 결과에 미치는 영향을 알아봅니다.
 
