@@ -2,9 +2,9 @@
 description: 제품 사용 제한 - Marketo 문서 - 제품 설명서
 title: 제품 사용 제한
 exl-id: 899dc59e-85bf-408e-9687-e0ed823dd51f
-source-git-commit: 152b8e4f39dd9036e9479dc58b21d20c46c9e658
+source-git-commit: 679f003e615544679b7f98dd93e2e4f23ec83ee5
 workflow-type: tm+mt
-source-wordcount: '192'
+source-wordcount: '198'
 ht-degree: 14%
 
 ---
@@ -17,6 +17,11 @@ Sales Insight Actions에서 사용할 수 있는 확장된 영업 참여 기능�
   <th>기능</th>
   <th>속도</th>
   <th>제한</th>
+ <tr>
+  <td>Marketo Person 데이터베이스 동기화</td>
+  <td>진행 중</td>
+  <td>1,500,000명</td>
+ </tr>
  <tr>
   <td>영업 전자 메일 전송</td>
   <td>사용자/일별</td>
