@@ -2,10 +2,10 @@
 description: 이메일 보트 활동 필터링 - Marketo 문서 - 제품 설명서
 title: 전자 메일 보트 활동 필터링
 exl-id: 70c97159-72bf-46e5-b29b-247615d0fa80
-source-git-commit: f5a4fa76510cc70fe5b4746d58c6e0d4daf93a72
+source-git-commit: 792db38ec0891d4a6de5a8d0bd746bd7bb429edb
 workflow-type: tm+mt
-source-wordcount: '317'
-ht-degree: 0%
+source-wordcount: '416'
+ht-degree: 3%
 
 ---
 
@@ -15,7 +15,7 @@ ht-degree: 0%
 
 두 개의 별도 메서드를 사용하여 보트 활동을 확인합니다.
 
-* 일치 [Interactive Advertising Bureau 보트 목록](https://www.iab.com/guidelines/iab-abc-international-spiders-bots-list/){target=&quot;_blank&quot;}: IAB UA/IP(사용자 에이전트/IP 주소) 목록에 있는 무엇과도 일치하는 활동은 보트로 표시됩니다.
+* 일치 [Interactive Advertising Bureau 보트 목록](https://www.iab.com/guidelines/iab-abc-international-spiders-bots-list/){target="_blank"}: IAB UA/IP(사용자 에이전트/IP 주소) 목록에 있는 무엇과도 일치하는 활동은 보트로 표시됩니다.
 * 근접 패턴과 일치: 두 개 이상의 활동이 동시에(초 이내)발생하면 보트로 식별됩니다. 비교 중에 고려되는 속성은 다음과 같습니다.
    * 리드 ID(같아야 함)
    * 이메일 자산(같아야 함)
@@ -53,3 +53,28 @@ ht-degree: 0%
 >[!TIP]
 >
 >&quot;Clicked Link in Email&quot; 및 &quot;Open Email&quot; 필터에서 &quot;Is Bot Activity&quot; 부울(예/아니요) 및 &quot;보트 활동 패턴&quot; 을 통해 Smart List에서 보트 활동 데이터를 활용하고 &quot;Click Link in Email&quot; 및 &quot;Open Email&quot; 트리거를 사용합니다.
+
+## IP 차단 목록에 추가하다 {#ip-blocklist}
+
+다음 IP에서 받은 이러한 참여가 자동으로 필터링되어 Marketo Engage 인스턴스에 추가되지 않으므로 수백만 개의 가짜 참여를 생성하는 책임이 있는 IP 주소 목록을 컴파일했습니다. 이로 인해 이메일 열기, 클릭 수 및 기타 관련 활동이 줄어들 수 있습니다. 아래 목록은 정기적으로 업데이트될 수 있습니다.
+
+* 209.222.82.126
+* 209.222.82.127
+* 209.222.82.128
+* 209.222.82.129
+* 209.222.82.138
+* 209.222.82.139
+* 209.222.82.140
+* 209.222.82.141
+* 209.222.82.228
+* 209.222.82.229
+* 209.222.82.230
+* 209.222.82.231
+* 209.222.82.232
+* 209.222.82.233
+* 209.222.82.234
+* 209.222.82.235
+
+>[!NOTE]
+>
+>이 목록에 추가하기 전에 모든 IP 주소를 꼼꼼하게 분석하고 면밀히 관찰하여 가장 중요하고 유해한 IP만 차단합니다.
