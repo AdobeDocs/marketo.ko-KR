@@ -3,9 +3,9 @@ unique-page-id: 2953132
 description: 일괄 처리 및 스마트 캠페인 트리거 이해 - Marketo 문서 - 제품 설명서
 title: 일괄 처리 이해 및 스마트 캠페인 트리거
 exl-id: 84a7b38c-b79c-4360-bd0b-3beb8ca35ac7
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+source-git-commit: 686530e63cffef89bc7b9cbf6affa862689c0a46
 workflow-type: tm+mt
-source-wordcount: '273'
+source-wordcount: '272'
 ht-degree: 0%
 
 ---
@@ -24,11 +24,11 @@ ht-degree: 0%
 
 일괄 처리 스마트 캠페인에는 스마트 목록 섹션(예: 트리거 없음) 내에만 필터가 있습니다.
 
-![](assets/batch-filter.png)
+![](assets/understanding-batch-and-trigger-smart-campaigns-1.png)
 
 을(를) 클릭합니다. **예약** 탭에서 스마트 캠페인이 &quot;일괄 처리&quot;로 설정되어 있는지 확인합니다.
 
-![](assets/batch-c4.png)
+![](assets/understanding-batch-and-trigger-smart-campaigns-2.png)
 
 **일괄 스마트 캠페인**
 
@@ -47,11 +47,11 @@ ht-degree: 0%
 
 스마트 캠페인이 스마트 목록 섹션 내에 하나 이상의 트리거를 사용하는 경우 모드가 자동으로 트리거로 설정됩니다.
 
-![](assets/trigger.png)
+![](assets/understanding-batch-and-trigger-smart-campaigns-3.png)
 
-을(를) 클릭합니다. **예약** 탭에서 스마트 캠페인이 &quot;트리거됨&quot;으로 설정되어 있는지 확인합니다.
+클릭 **예약** 탭에서 스마트 캠페인이 &quot;트리거됨&quot;으로 설정되어 있는지 확인합니다.
 
-![](assets/trigger2.png)
+![](assets/understanding-batch-and-trigger-smart-campaigns-4.png)
 
 **스마트 캠페인 트리거**
 

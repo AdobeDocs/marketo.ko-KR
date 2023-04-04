@@ -3,9 +3,9 @@ unique-page-id: 2953120
 description: 스마트 캠페인 이해 - Marketo 문서 - 제품 설명서
 title: 스마트 캠페인 이해
 exl-id: 94675059-cc04-4dc2-989f-aaf81e1260d3
-source-git-commit: 381e243a39b8249e88f06eeb1dcfc4863e3a497c
+source-git-commit: 686530e63cffef89bc7b9cbf6affa862689c0a46
 workflow-type: tm+mt
-source-wordcount: '252'
+source-wordcount: '243'
 ht-degree: 1%
 
 ---
@@ -14,11 +14,11 @@ ht-degree: 1%
 
 Marketo이 강력한 차라면 스마트 캠페인은 정말로 엔진이다. 시작하는 것은 간단하지만 원하는 것은 거의 다 할 수 있습니다.
 
-스마트 캠페인에는 3개의 기본 영역이 있습니다. 다음 [Smart List](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/understanding-smart-lists.md), [흐름](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/add-a-flow-step-to-a-smart-campaign.md){target=&quot;_blank&quot;} 및 [예약](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/using-smart-campaigns/schedule-a-recurring-batch-campaign.md){target=&quot;_blank&quot;} 탭.
+스마트 캠페인에는 3개의 기본 영역이 있습니다. 다음 [Smart List](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/understanding-smart-lists.md){target="_blank"}, [Flow](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/add-a-flow-step-to-a-smart-campaign.md){target="_blank"} and [Schedule](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/using-smart-campaigns/schedule-a-recurring-batch-campaign.md){target="_blank"} 탭.
 
 ## Smart List {#smart-list}
 
-스마트 목록은 스마트 캠페인으로 타겟팅할 WHO를 정의하는 방법입니다. 필터와 트리거가 있습니다.
+스마트 목록은 _who_ 스마트 캠페인을 통해 타겟팅하고 싶을 수 있습니다. 필터와 트리거가 있습니다.
 
 <table> 
  <tbody> 
@@ -42,11 +42,11 @@ Marketo이 강력한 차라면 스마트 캠페인은 정말로 엔진이다. �
 
 필터를 다양한 방식으로 결합하고 트리거와 함께 사용할 수 있습니다. 강력한 툴입니다. 실험해 보십시오.
 
-## 흐름 {#flow}
+## 플로우 {#flow}
 
 흐름에 따라 대기 단계 및 분할 선택 사항을 포함하여 스마트 캠페인이 수행할 단계가 포함됩니다.
 
-## 일정 {#schedule}
+## 예약 {#schedule}
 
 마지막으로, 이 컨트롤은 스마트 캠페인을 실행할 때 제어합니다. 반복을 반복 일정으로 실행하도록 설정할 수도 있습니다.
 
@@ -58,4 +58,4 @@ Marketo이 강력한 차라면 스마트 캠페인은 정말로 엔진이다. �
 
 >[!MORELIKETHIS]
 >
->[새 스마트 캠페인 만들기](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/creating-a-smart-campaign/create-a-new-smart-campaign.md){target=&quot;_blank&quot;}
+>[새 스마트 캠페인 만들기](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/creating-a-smart-campaign/create-a-new-smart-campaign.md){target="_blank"}

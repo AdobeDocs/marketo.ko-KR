@@ -3,9 +3,9 @@ unique-page-id: 2360323
 description: 기존 개인 파티션 편집 - Marketo 문서 - 제품 설명서
 title: 기존 개인 파티션 편집
 exl-id: 23353e93-f0f0-4f0d-b833-d870ff345b1a
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+source-git-commit: 686530e63cffef89bc7b9cbf6affa862689c0a46
 workflow-type: tm+mt
-source-wordcount: '131'
+source-wordcount: '104'
 ht-degree: 0%
 
 ---
@@ -22,24 +22,22 @@ ht-degree: 0%
 >
 >[개인 파티션 만들기](/help/marketo/product-docs/administration/workspaces-and-person-partitions/create-a-person-partition.md)
 
-1. 아래 **관리**&#x200B;를 클릭합니다. **작업 공간 및 파티션**.
+1. 로 이동합니다. **관리** 영역.
 
-   ![](assets/image2014-9-17-10-3a51-3a23.png)
+   ![](assets/edit-an-existing-person-partition-1.png)
+
+1. 클릭 **작업 공간 및 파티션**.
+
+   ![](assets/edit-an-existing-person-partition-2.png)
 
 1. 아래에 **개인 파티션** 탭에서 편집할 개인 파티션을 선택하고 을 클릭합니다 **개인 파티션 편집**.
 
-   ![](assets/two-5.png)
+   ![](assets/edit-an-existing-person-partition-3.png)
 
 1. 개인 파티션 입력 **이름**, **작업 공간** 해당 항목이 속한 다음 를 클릭합니다. **저장**.
 
-   ![](assets/three-5.png)
+   ![](assets/edit-an-existing-person-partition-4.png)
 
 1. 변경 사항을 저장한 후 업데이트가 표시됩니다!
 
-   ![](assets/four-4.png)
-
-바로 그거야 이렇게 강력한 기능은 복잡해야 할 것 같지만 그렇지 않다.
-
->[!CAUTION]
->
->두 번 측정하고 한 번 잘라라. 파티션을 잘못된 작업 영역에 할당하지 않습니다.
+   ![](assets/edit-an-existing-person-partition-5.png)
