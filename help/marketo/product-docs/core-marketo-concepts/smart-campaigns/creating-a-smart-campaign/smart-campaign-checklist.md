@@ -3,22 +3,22 @@ unique-page-id: 1147051
 description: Smart Campaign 체크리스트 - Marketo 문서 - 제품 설명서
 title: Smart Campaign 체크리스트
 exl-id: 3c0d08c9-66ae-4083-ab0a-fa5a95149aba
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+source-git-commit: 56d3d05d5462c79f32f507655266e3bfa0cc6846
 workflow-type: tm+mt
-source-wordcount: '247'
+source-wordcount: '246'
 ht-degree: 0%
 
 ---
 
 # Smart Campaign 체크리스트 {#smart-campaign-checklist}
 
-아래 절차에 따라 스마트 캠페인을 원활하게 실행하고 오류를 최대한 방지하십시오.
+스마트 캠페인을 원활하게 실행하고 오류를 최대한 방지하려면 아래 단계를 따르십시오.
 
 ## 스마트 목록 오류 제거 {#get-rid-of-smart-list-errors}
 
-스마트 캠페인에서 을(를) 클릭합니다. **Smart List**. 오류를 수정하여 표시되는 빨간색 광선 제거
+Smart Campaign에서 **Smart List**. 오류를 수정하여 표시되는 빨간색 광선 제거
 
-![](assets/image2014-9-22-16-3a9-3a13.png)
+![](assets/smart-campaign-checklist-1.png)
 
 >[!TIP]
 >
@@ -32,9 +32,9 @@ ht-degree: 0%
 
 ## 흐름 오류 제거 {#get-rid-of-flow-errors}
 
-스마트 캠페인에서 을(를) 클릭합니다. **흐름**. 오류를 수정하여 표시되는 빨간색 광선 제거
+스마트 캠페인에서 **흐름**. 오류를 수정하여 표시되는 빨간색 광선 제거
 
-![](assets/image2014-9-22-16-3a10-3a49.png)
+![](assets/smart-campaign-checklist-2.png)
 
 >[!TIP]
 >
@@ -42,24 +42,24 @@ ht-degree: 0%
 
 ## 예약 탭을 검토합니다. {#review-the-schedule-tab}
 
-에서 **예약** 탭, 확인 **Smart** **목록** **상태** 를 수정해야 하는 스마트 캠페인의 모든 오류에 대해 설명합니다.
+에서 **예약** 탭, 확인 **Smart** **목록** **상태** 을(를) 수정해야 하는 스마트 캠페인의 모든 오류에 대해 설명합니다.
 
-![](assets/three.png)
+![](assets/smart-campaign-checklist-3.png)
 
 ## 개인 제한 확인 {#check-person-restrictions-limit}
 
 에서 **예약** 자격이 있는 사람 수가 개인 제한 제한을 초과하지 않는지 확인합니다.
 
-![](assets/four.png)
+![](assets/smart-campaign-checklist-4.png)
 
 >[!TIP]
 >
->필요한 경우 다음을 수행할 수 있습니다  [스마트 캠페인에서 개인 제한 무시](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/using-smart-campaigns/override-person-restrictions-in-a-smart-campaign.md).
+>필요한 경우 다음을 수행할 수 있습니다 [스마트 캠페인에서 개인 제한 무시](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/using-smart-campaigns/override-person-restrictions-in-a-smart-campaign.md).
 
 >[!NOTE]
 >
 >**미리 알림**
 >
->스마트 캠페인이 여전히 실패하는 경우 다음을 알아봅니다 [알림 이해](/help/marketo/product-docs/core-marketo-concepts/miscellaneous/understanding-notifications.md) 무엇이 잘못되었고 어떻게 그것을 고치는지 알아내기 위해.
+>Smart Campaign이 계속 실패하는 경우 다음을 알아봅니다 [알림 이해](/help/marketo/product-docs/core-marketo-concepts/miscellaneous/understanding-notifications.md) 무엇이 잘못되었고 어떻게 그것을 고치는지 알아내기 위해.
 
-잘했어요! 스마트 캠페인을 실행하기 전에 이 체크리스트를 즉시 준비하십시오.
+잘했어요! Smart Campaign을 실행하기 전에 이 체크리스트를 바로 볼 수 있도록 합니다.

@@ -3,28 +3,28 @@ unique-page-id: 1146942
 description: 스마트 캠페인에 대한 스마트 목록 정의 | 트리거 - Marketo 문서 - 제품 설명서
 title: 스마트 캠페인에 대한 스마트 목록 정의 | 트리거
 exl-id: 14d9b15e-864a-47ef-8f39-3d65e6036a82
-source-git-commit: a15a4b9bccb069b51186aac7b913008d15aa645e
+source-git-commit: 56d3d05d5462c79f32f507655266e3bfa0cc6846
 workflow-type: tm+mt
-source-wordcount: '229'
+source-wordcount: '228'
 ht-degree: 0%
 
 ---
 
 # 스마트 캠페인에 대한 스마트 목록 정의 | 트리거 {#define-smart-list-for-smart-campaign-trigger}
 
-트리거를 추가하여 라이브 이벤트를 기반으로 한 한 번에 한 명꼴로 스마트 캠페인을 실행할 수 있습니다.
+트리거를 추가하여 라이브 이벤트를 기반으로 한 한 번에 한 명씩 스마트 캠페인을 실행합니다.
 
 1. 스마트 캠페인에서 **Smart List** 탭.
 
-   ![](assets/image2014-9-19-16-3a22-3a55.png)
+   ![](assets/define-smart-list-for-smart-campaign-trigger-1.png)
 
-1. 트리거를 검색한 다음 트리거를 캔버스로 드래그하여 놓습니다.
+1. 원하는 트리거를 검색하고 캔버스에 드래그하여 놓습니다.
 
-   ![](assets/image2014-9-19-16-3a23-3a24.png)
+   ![](assets/define-smart-list-for-smart-campaign-trigger-2.png)
 
    >[!NOTE]
    >
-   >트리거가 있는 스마트 캠페인이 실행됩니다 **트리거** 모드. 트리거된 이벤트 및 추가 필터를 기반으로 한 번에 한 사람씩 실행됩니다.
+   >트리거가 포함된 스마트 캠페인이 실행됩니다 **트리거** 모드. 트리거된 이벤트 및 추가 필터를 기반으로 한 번에 한 사람씩 실행됩니다.
 
    >[!IMPORTANT]
    >
@@ -32,7 +32,7 @@ ht-degree: 0%
 
 1. 드롭다운을 클릭하고 연산자를 선택합니다.
 
-   ![](assets/image2014-9-19-16-3a23-3a29.png)
+   ![](assets/define-smart-list-for-smart-campaign-trigger-3.png)
 
    >[!CAUTION]
    >
@@ -40,11 +40,11 @@ ht-degree: 0%
 
    >[!TIP]
    >
-   >트리거와 필터가 모두 있는 스마트 캠페인에서 트리거는 맨 위에 있고 트리거되면 필터 기준을 충족하는 사용자만 흐름을 경험합니다.
+   >트리거와 필터가 모두 있는 Smart Campaign에서 트리거는 맨 위에 있고 트리거가 되면 필터 기준을 충족하는 사용자만 흐름을 받습니다.
 
 1. 트리거를 정의합니다.
 
-   ![](assets/image2014-9-19-16-3a24-3a36.png)
+   ![](assets/define-smart-list-for-smart-campaign-trigger-4.png)
 
    >[!NOTE]
    >
