@@ -3,9 +3,9 @@ unique-page-id: 1147053
 description: 스마트 캠페인 중단 - Marketo 문서 - 제품 설명서
 title: 스마트 캠페인 중단
 exl-id: 1d80e67a-324c-4a99-bda3-57074a24ea3d
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+source-git-commit: 073a136953f1997436396cf3f2c87fdc1a3b9c1d
 workflow-type: tm+mt
-source-wordcount: '150'
+source-wordcount: '147'
 ht-degree: 0%
 
 ---
@@ -16,29 +16,29 @@ ht-degree: 0%
 >
 >긴급 용도로만 사용
 
-때때로 당신은 스마트 캠페인을 시작하고 그것이 실수였다는 것을 즉시 깨닫는다. 여기 비상 브레이크를 끌어당겨 스마트 캠페인을 중간에 정지시키는 방법이 있습니다.
+때때로 스마트 캠페인을 시작하고 이것이 실수였다는 것을 즉시 깨닫게 됩니다. 다음은 비상 브레이크를 끌어당겨 스마트 캠페인 중간 실행을 중지하는 방법입니다.
 
-1. 아래 **마케팅 활동**&#x200B;를 클릭하고 스마트 캠페인을 선택한 다음 로 이동합니다. **예약** 탭.
+1. 원하는 스마트 캠페인을 선택하고 을(를) 클릭합니다. **예약** 탭.
 
-   ![](assets/image2014-9-22-16-3a19-3a44.png)
+   ![](assets/abort-a-smart-campaign-1.png)
 
 1. 을(를) 클릭합니다. **캠페인 작업** 드롭다운. 선택 **캠페인 중단**.
 
-   ![](assets/image2014-9-22-16-19-48.png)
+   ![](assets/abort-a-smart-campaign-2.png)
 
 1. 클릭 **Abort** 확인합니다.
 
-   ![](assets/image2014-9-22-16-3a19-3a57.png)
+   ![](assets/abort-a-smart-campaign-3.png)
 
    >[!NOTE]
    >
-   >중단하면 이미 완료된 단계를 실행 취소하지 않고 더 많은 작업이 발생하지 않습니다. (예: 전자 메일을 배달할 수 없습니다.)
+   >중단하면 이미 완료된 단계를 실행 취소하지 않고 더 많은 작업이 발생하지 않습니다(예: 전자 메일을 배달할 수 없음)
 
-   ![](assets/image2014-9-22-16-3a20-3a0.png)
+   ![](assets/abort-a-smart-campaign-4.png)
 
    >[!NOTE]
    >
-   >다음을 확인하십시오 **결과** 스마트 캠페인의 탭에서 중단 전에 발생한 작업을 확인합니다. 또한  [알림](/help/marketo/product-docs/core-marketo-concepts/miscellaneous/understanding-notifications.md) 추가 세부 사항 포함.
+   >다음을 확인하십시오 **결과** Smart Campaign의 탭에서 중단 전에 발생한 작업을 확인할 수 있습니다. 또한  [알림](/help/marketo/product-docs/core-marketo-concepts/miscellaneous/understanding-notifications.md) 추가 세부 사항 포함.
 
    >[!TIP]
    >
