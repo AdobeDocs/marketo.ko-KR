@@ -3,9 +3,9 @@ unique-page-id: 11372975
 description: 3단계 중 1단계 - Salesforce에 Marketo 필드 추가(Professional) - Marketo 문서 - 제품 설명서
 title: 3단계 중 1단계 - Salesforce에 Marketo 필드 추가(Professional)
 exl-id: 1b52825e-201d-4b55-8edf-444b1653d591
-source-git-commit: 7de9b708626172aa6fa0a2fcb87c8aa534d5e9f7
+source-git-commit: e84b8e03ce87f8aa0f16d2b0f22ee992e4151a55
 workflow-type: tm+mt
-source-wordcount: '798'
+source-wordcount: '782'
 ht-degree: 5%
 
 ---
@@ -251,13 +251,10 @@ Salesforce의 리드 개체에 있는 사용자 지정 필드를 연락처 개�
    ![](assets/image2016-5-26-16-3a56-3a23.png)
 
 1. 만든 다른 필드에 대해 위의 단계를 반복합니다.
+
 1. 완료되면 저장 을 클릭합니다.
 
 충분히 쉽죠?
-
->[!NOTE]
->
->여기 있습니다 [전체 프로세스의 비디오](https://nation.marketo.com/videos/1475) 그것은 그것을 분명히 할 것입니다.
 
 >[!MORELIKETHIS]
 >
