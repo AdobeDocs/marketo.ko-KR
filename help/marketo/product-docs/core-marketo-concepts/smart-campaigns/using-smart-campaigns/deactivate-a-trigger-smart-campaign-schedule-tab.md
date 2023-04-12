@@ -3,7 +3,7 @@ unique-page-id: 1146991
 description: 스마트 캠페인 트리거 비활성화 | 예약 탭 - Marketo 문서 - 제품 설명서
 title: 스마트 캠페인 트리거 비활성화 | 예약 탭
 exl-id: 59138811-c963-4c4d-9513-b3e12e8e9e38
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+source-git-commit: f03eb310b66754cce65687133fae63375d2e54dc
 workflow-type: tm+mt
 source-wordcount: '85'
 ht-degree: 0%
@@ -16,15 +16,15 @@ ht-degree: 0%
 
 1. 활성 트리거 캠페인을 찾아 선택합니다.
 
-   ![](assets/selectprogram-hands.png)
+   ![](assets/deactivate-a-trigger-smart-campaign-schedule-tab-1.png)
 
 1. 예약 탭에서 **비활성화**.
 
-   ![](assets/deactivateprogram-hands.png)
+   ![](assets/deactivate-a-trigger-smart-campaign-schedule-tab-2.png)
 
 1. 을 클릭하여 확인 **비활성화**.
 
-   ![](assets/image2014-9-22-13-3a59-3a6.png)
+   ![](assets/deactivate-a-trigger-smart-campaign-schedule-tab-3.png)
 
 >[!NOTE]
 >

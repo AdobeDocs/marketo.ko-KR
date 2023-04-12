@@ -3,9 +3,9 @@ unique-page-id: 1147055
 description: Campaign 작업 - 스마트 캠페인 삭제 - Marketo 문서 - 제품 설명서
 title: Campaign 작업 - 스마트 캠페인 삭제
 exl-id: 11a210c8-3375-4e12-a97f-a70a9115a197
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+source-git-commit: f03eb310b66754cce65687133fae63375d2e54dc
 workflow-type: tm+mt
-source-wordcount: '114'
+source-wordcount: '116'
 ht-degree: 0%
 
 ---
@@ -20,19 +20,19 @@ ht-degree: 0%
 
 1. 로 이동합니다. **마케팅 활동** 영역.
 
-   ![](assets/login-marketing-activities-1.png)
+   ![](assets/campaign-actions-delete-a-smart-campaign-1.png)
 
-1. 비활성 스마트 캠페인으로 이동합니다. 아래 **캠페인** **작업**&#x200B;를 클릭합니다. **삭제**.
+1. 비활성 스마트 캠페인으로 이동합니다. 에서 **캠페인** **작업** 드롭다운에서 을 선택합니다. **삭제**.
+
+   ![](assets/campaign-actions-delete-a-smart-campaign-2.png)
 
    >[!TIP]
    >
    >활성화된 스마트 캠페인을 완전히 삭제하지 않고 처리를 취소하려면, [스마트 캠페인 중단](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/using-smart-campaigns/abort-a-smart-campaign.md).
 
-   ![](assets/image2014-9-22-16-3a41-3a55.png)
-
 1. 클릭 **삭제** 확인합니다.
 
-   ![](assets/image2014-9-22-16-3a41-3a59.png)
+   ![](assets/campaign-actions-delete-a-smart-campaign-3.png)
 
    >[!CAUTION]
    >
