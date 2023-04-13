@@ -3,9 +3,9 @@ unique-page-id: 4720710
 description: 이메일 게재 기능을 위한 SPF 및 DKIM 설정 - Marketo 문서 - 제품 설명서
 title: 전자 메일 게재 기능에 대해 SPF 및 DKIM을 설정합니다
 exl-id: a0f88e94-3348-4f48-bbd2-963e2af93dc0
-source-git-commit: de32becbfe74c2a88c53de8af8be4ee022782114
+source-git-commit: c69d04702a5191f2809cc308e48acfeab7edfc7f
 workflow-type: tm+mt
-source-wordcount: '443'
+source-wordcount: '434'
 ht-degree: 0%
 
 ---
@@ -46,12 +46,11 @@ DNS 레코드에 공개 키를 설정하고 관리 섹션(A)에서 전송 도메
 
 **DKIM을 설정하려면 어떻게 해야 합니까?**
 
-자세한 내용은 [사용자 지정 DKIM 서명 설정](/help/marketo/product-docs/email-marketing/deliverability/set-up-a-custom-dkim-signature.md).
+자세한 내용은 [사용자 지정 DKIM 서명 설정](/help/marketo/product-docs/email-marketing/deliverability/set-up-a-custom-dkim-signature.md){target="_blank"}.
 
 >[!MORELIKETHIS]
 >
->* [SPF 및 SPF 작동 방식에 대해 자세히 알아보기](http://www.open-spf.org/Introduction/)
->* [Marketo의 이메일 게재 기능 도구](https://www.marketo.com/software/email-marketing/email-deliverability/)
->* [내 SPF가 올바르게 설정되어 있습니까?](https://www.kitterman.com/spf/validate.html)
->* [올바른 구문을 사용했습니까?](http://www.open-spf.org/SPF_Record_Syntax/)
+>* [SPF 및 SPF 작동 방식에 대해 자세히 알아보기](http://www.open-spf.org/Introduction/){target="_blank"}
+>* [내 SPF가 올바르게 설정되어 있습니까?](https://www.kitterman.com/spf/validate.html){target="_blank"}
+>* [올바른 구문을 사용했습니까?](http://www.open-spf.org/SPF_Record_Syntax/){target="_blank"}
 
