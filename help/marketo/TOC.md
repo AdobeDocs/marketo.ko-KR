@@ -3,9 +3,9 @@ audience: end-user
 user-guide-title: Marketo 안내서
 user-guide-description: Marketo 제품 설명서
 feature-set: Marketo Engage
-source-git-commit: 98eac847e62df1e17a6abefde0f9097b12cbbf9c
+source-git-commit: 08cfd71b75e58a0185e57c115c2dee59fbfdce1f
 workflow-type: tm+mt
-source-wordcount: '8868'
+source-wordcount: '8863'
 ht-degree: 0%
 
 ---
@@ -694,7 +694,7 @@ ht-degree: 0%
             + [양식에 국가 선택 목록 추가](product-docs/demand-generation/forms/form-actions/add-a-country-picklist-to-your-form.md)
             + [양식에 리치 텍스트 추가](product-docs/demand-generation/forms/form-actions/add-rich-text-to-a-form.md)
             + [양식 로케일 변경](product-docs/demand-generation/forms/form-actions/change-a-forms-locale.md)
-            + [양식 유효성 검사/오류 메시지 및 제출 단추 언어 변경](product-docs/demand-generation/forms/form-actions/change-the-language-of-form-validation-error-messages-and-submit-button.md)
+            + [양식 언어 변경](product-docs/demand-generation/forms/form-actions/change-the-language-of-a-form.md)
             + [양식 점진적 프로파일링 구성](product-docs/demand-generation/forms/form-actions/configure-form-progressive-profiling.md)
             + [양식의 라디오 또는 선택한 필드에서 값 정의](product-docs/demand-generation/forms/form-actions/define-values-in-a-radio-or-selected-field-in-a-form.md)
             + [양식 삭제](product-docs/demand-generation/forms/form-actions/delete-a-form.md)
