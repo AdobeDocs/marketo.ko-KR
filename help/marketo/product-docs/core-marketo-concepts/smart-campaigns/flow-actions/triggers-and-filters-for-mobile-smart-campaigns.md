@@ -3,7 +3,7 @@ unique-page-id: 9437991
 description: 모바일 스마트 캠페인에 대한 트리거 및 필터 - Marketo 문서 - 제품 설명서
 title: 모바일 스마트 캠페인에 대한 트리거 및 필터
 exl-id: 76fc7a74-b27d-4898-a8ca-85c9c2828a28
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+source-git-commit: 98eac847e62df1e17a6abefde0f9097b12cbbf9c
 workflow-type: tm+mt
 source-wordcount: '818'
 ht-degree: 0%
@@ -28,13 +28,13 @@ ht-degree: 0%
 
 검색 대상 **모바일 앱** 오른쪽 패널에서 모든 모바일 앱 트리거와 필터를 나열할 수 있습니다.
 
-![](assets/image2015-8-12-17-3a25-3a18.png)
+![](assets/triggers-and-filters-for-mobile-smart-campaigns-1.png)
 
 ## 제한 {#constraints}
 
 트리거 및 필터와 함께 제약 조건을 사용하여 데이터를 추가로 정렬할 수 있습니다.
 
-![](assets/image2015-8-17-12-3a6-3a33.png)
+![](assets/triggers-and-filters-for-mobile-smart-campaigns-2.png)
 
 푸시 알림을 전송함 을 제외한 모든 트리거 및 필터에는 다음 두 가지 표준 제한 사항이 포함되어 있습니다.
 
@@ -70,7 +70,7 @@ ht-degree: 0%
 
 **제한**: 장치 유형, 플랫폼, 모바일 앱, 모바일 앱 버전, 장치 유형, 설치 소스, 푸시 사용 및 로케일
 
-![](assets/image2015-8-21-13-3a33-3a54.png)
+![](assets/triggers-and-filters-for-mobile-smart-campaigns-3.png)
 
 >[!TIP]
 >
@@ -86,7 +86,7 @@ ht-degree: 0%
 
 **제한**: 장치 유형, 플랫폼, 앱 버전, 로케일 및 설치 소스
 
-![](assets/image2015-8-17-13-3a11-3a3.png)
+![](assets/triggers-and-filters-for-mobile-smart-campaigns-4.png)
 
 모바일 앱이 열림/열림
 
@@ -98,7 +98,7 @@ ht-degree: 0%
 
 **제한**: 장치 유형 및 플랫폼
 
-![](assets/image2015-8-17-13-3a13-3a55.png)
+![](assets/triggers-and-filters-for-mobile-smart-campaigns-5.png)
 
 모바일 앱 활동 있음/있음
 
@@ -138,7 +138,7 @@ ht-degree: 0%
 
 다음은 Marketo에서 필터를 보는 방법입니다.
 
-![](assets/image2015-8-17-13-3a16-3a12.png)
+![](assets/triggers-and-filters-for-mobile-smart-campaigns-6.png)
 
 >[!NOTE]
 >
@@ -163,7 +163,7 @@ ht-degree: 0%
 
 **제한**: 장치 유형, 플랫폼 및 세션 길이(초)
 
-![](assets/image2015-8-17-13-3a18-3a34.png)
+![](assets/triggers-and-filters-for-mobile-smart-campaigns-7.png)
 
 탭/탭 푸시 알림
 
@@ -175,7 +175,7 @@ ht-degree: 0%
 
 **제한**: 장치 유형, 플랫폼, 모바일 앱 버전, 푸시 알림 및 플랫폼 버전
 
-![](assets/image2015-8-21-14-3a2-3a24.png)
+![](assets/triggers-and-filters-for-mobile-smart-campaigns-8.png)
 
 >[!TIP]
 >
@@ -189,7 +189,7 @@ ht-degree: 0%
 
 **제한**: 푸시 알림 및 모바일 앱
 
-![](assets/image2015-8-21-14-3a3-3a50.png)
+![](assets/triggers-and-filters-for-mobile-smart-campaigns-9.png)
 
 >[!MORELIKETHIS]
 >
