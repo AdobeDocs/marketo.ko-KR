@@ -3,9 +3,9 @@ unique-page-id: 9437991
 description: 모바일 스마트 캠페인에 대한 트리거 및 필터 - Marketo 문서 - 제품 설명서
 title: 모바일 스마트 캠페인에 대한 트리거 및 필터
 exl-id: 76fc7a74-b27d-4898-a8ca-85c9c2828a28
-source-git-commit: 98eac847e62df1e17a6abefde0f9097b12cbbf9c
+source-git-commit: a90f752b291e6d34c920a94795011a8c9efa6d5b
 workflow-type: tm+mt
-source-wordcount: '818'
+source-wordcount: '823'
 ht-degree: 0%
 
 ---
@@ -68,7 +68,7 @@ ht-degree: 0%
 >
 >Marketo이 앱 설치를 추적하지 않으므로 이 필터는 현재 및 이전 설치를 모두 찾습니다.
 
-**제한**: 장치 유형, 플랫폼, 모바일 앱, 모바일 앱 버전, 장치 유형, 설치 소스, 푸시 사용 및 로케일
+**제한** - 장치 유형, 플랫폼, 모바일 앱, 모바일 앱 버전, 장치 유형, 설치 소스, 푸시 사용 및 로케일
 
 ![](assets/triggers-and-filters-for-mobile-smart-campaigns-3.png)
 
@@ -84,7 +84,7 @@ ht-degree: 0%
 
 * 모바일 앱이 설치되지 않음 - 비활성 필터
 
-**제한**: 장치 유형, 플랫폼, 앱 버전, 로케일 및 설치 소스
+**제한** - 장치 유형, 플랫폼, 앱 버전, 로케일 및 설치 소스
 
 ![](assets/triggers-and-filters-for-mobile-smart-campaigns-4.png)
 
@@ -96,7 +96,7 @@ ht-degree: 0%
 
 * 모바일 앱이 열리지 않음 - 비활성 필터
 
-**제한**: 장치 유형 및 플랫폼
+**제한** - 장치 유형 및 플랫폼
 
 ![](assets/triggers-and-filters-for-mobile-smart-campaigns-5.png)
 
@@ -110,7 +110,7 @@ ht-degree: 0%
 
 * 모바일 앱 활동이 없음 - 비활성 필터
 
-**제한**: 장치 유형 및 플랫폼과 5개의 추가 장치:
+**제한** - 장치 유형, 플랫폼, 모바일 앱 버전, 로케일, 플랫폼 버전 및 5개의 추가 장치:
 
 * 작업 - 사용자 지정 모바일 활동
 
@@ -161,7 +161,7 @@ ht-degree: 0%
 
 * 모바일 앱 세션이 없음 - 비활성 필터
 
-**제한**: 장치 유형, 플랫폼 및 세션 길이(초)
+**제한** - 장치 유형, 플랫폼 및 세션 길이(초)
 
 ![](assets/triggers-and-filters-for-mobile-smart-campaigns-7.png)
 
@@ -173,7 +173,7 @@ ht-degree: 0%
 
 * 탭되지 않은 푸시 알림 - 비활성 필터
 
-**제한**: 장치 유형, 플랫폼, 모바일 앱 버전, 푸시 알림 및 플랫폼 버전
+**제한** - 장치 유형, 플랫폼, 모바일 앱 버전, 푸시 알림 및 플랫폼 버전
 
 ![](assets/triggers-and-filters-for-mobile-smart-campaigns-8.png)
 
@@ -187,7 +187,7 @@ ht-degree: 0%
 
 * 푸시 알림을 전송하지 않음 - 비활성 필터
 
-**제한**: 푸시 알림 및 모바일 앱
+**제한** - 푸시 알림 및 모바일 앱
 
 ![](assets/triggers-and-filters-for-mobile-smart-campaigns-9.png)
 
