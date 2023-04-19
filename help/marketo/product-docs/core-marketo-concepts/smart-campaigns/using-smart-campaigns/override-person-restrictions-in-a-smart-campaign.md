@@ -3,7 +3,7 @@ unique-page-id: 1147066
 description: 스마트 캠페인에서 개인 제한 무시 - Marketo 문서 - 제품 설명서
 title: 스마트 캠페인에서 개인 제한 무시
 exl-id: 45ff3e36-01fd-42ea-ba74-efd98867a58a
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+source-git-commit: bb628e5211601bd8b424c78cae887c2eeb0614cf
 workflow-type: tm+mt
 source-wordcount: '138'
 ht-degree: 0%
@@ -20,11 +20,11 @@ Marketo을 사용하면 스마트 캠페인에 적합한 최대 사용자 수를
 
 1. 마케팅 활동에서 스마트 캠페인으로 이동하여 를 클릭합니다 **예약**.
 
-   ![](assets/one.png)
+   ![](assets/override-person-restrictions-in-a-smart-campaign-1.png)
 
 1. 스마트 캠페인 설정에서 **편집**.
 
-   ![](assets/two.png)
+   ![](assets/override-person-restrictions-in-a-smart-campaign-2.png)
 
    >[!NOTE]
    >
@@ -32,7 +32,7 @@ Marketo을 사용하면 스마트 캠페인에 적합한 최대 사용자 수를
 
 1. 새 제한을 입력한 다음 **저장.**
 
-   ![](assets/three.png)
+   ![](assets/override-person-restrictions-in-a-smart-campaign-3.png)
 
    자격이 있는 사람 수가 설정된 제한을 초과하는 경우 스마트 캠페인이 실행되지 않습니다.
 
