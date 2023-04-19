@@ -3,7 +3,7 @@ unique-page-id: 1146933
 description: 지금 일괄 처리 스마트 캠페인 실행 | 예약 탭 - Marketo 문서 - 제품 설명서
 title: 지금 일괄 처리 스마트 캠페인 실행 | 예약 탭
 exl-id: a9014ab4-12a4-44ae-a361-72f95bb62e27
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+source-git-commit: bb628e5211601bd8b424c78cae887c2eeb0614cf
 workflow-type: tm+mt
 source-wordcount: '106'
 ht-degree: 0%
@@ -16,15 +16,15 @@ ht-degree: 0%
 
 1. 일괄 처리 스마트 캠페인을 선택하고 **예약** 탭을 클릭하고 **한 번 실행**.
 
-   ![](assets/runcampaignnow-hands.png)
+   ![](assets/run-a-batch-smart-campaign-now-schedule-tab-1.png)
 
 1. 확인 **지금 실행** 을(를) 선택하고 을(를) 클릭합니다. **실행**.
 
-   ![](assets/image2014-9-19-15-3a57-3a4.png)
+   ![](assets/run-a-batch-smart-campaign-now-schedule-tab-2.png)
 
 1. 을 클릭하여 확인 **실행** 한 번만 더
 
-   ![](assets/image2014-9-19-15-3a57-3a19.png)
+   ![](assets/run-a-batch-smart-campaign-now-schedule-tab-3.png)
 
    진정해! 다음을 수행할 수도 있습니다 [나중에 실행 예약](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/using-smart-campaigns/schedule-a-batch-smart-campaign-to-run-later.md) 원한다면
 
