@@ -3,7 +3,7 @@ unique-page-id: 1146974
 description: 스마트 캠페인에서 자격 규칙 편집 - Marketo 문서 - 제품 설명서
 title: 스마트 캠페인에서 자격 규칙 편집
 exl-id: 8b016fe4-8caf-4266-9f8f-2b05dae78cff
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+source-git-commit: bb628e5211601bd8b424c78cae887c2eeb0614cf
 workflow-type: tm+mt
 source-wordcount: '212'
 ht-degree: 0%
@@ -16,7 +16,7 @@ ht-degree: 0%
 
 1. 스마트 캠페인에서 **예약** 탭한 다음 **설정 편집**.
 
-   ![](assets/programeditsettings-hands.png)
+   ![](assets/edit-qualification-rules-in-a-smart-campaign-1.png)
 
    >[!TIP]
    >
@@ -24,7 +24,7 @@ ht-degree: 0%
 
 1. 스마트 캠페인 플로우를 통해 대상자를 실행하는 빈도를 선택합니다. **한 번**, **항상**, 또는 **일 단위로 한 번**/**주**/**개월**.
 
-   ![](assets/edit-qualification-rules-in-a-smart-campaign.png)
+   ![](assets/edit-qualification-rules-in-a-smart-campaign-2.png)
 
    >[!NOTE]
    >
