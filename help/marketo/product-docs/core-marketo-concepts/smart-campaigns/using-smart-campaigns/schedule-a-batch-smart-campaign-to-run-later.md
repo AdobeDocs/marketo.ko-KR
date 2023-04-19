@@ -3,9 +3,9 @@ unique-page-id: 1146970
 description: 나중에 실행하도록 Batch Smart Campaign 예약 - Marketo 문서 - 제품 설명서
 title: 나중에 실행하도록 배치 스마트 캠페인을 예약합니다.
 exl-id: b78ffed2-cf91-4860-8a94-65b35d2927e2
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+source-git-commit: bb628e5211601bd8b424c78cae887c2eeb0614cf
 workflow-type: tm+mt
-source-wordcount: '131'
+source-wordcount: '0'
 ht-degree: 0%
 
 ---
@@ -20,23 +20,23 @@ ht-degree: 0%
 
 1. 실행할 일괄 처리 스마트 캠페인을 선택하고 **예약** 탭을 클릭한 다음 **한 번 실행**.
 
-   ![](assets/scheduledruns2.png)
+   ![](assets/schedule-a-batch-smart-campaign-to-run-later-1.png)
 
 1. 클릭 **나중에 실행**&#x200B;을(를) 클릭한 다음 달력 아이콘을 클릭하고 스마트 캠페인을 실행할 날짜를 선택합니다.
 
-   ![](assets/runonce.png)
+   ![](assets/schedule-a-batch-smart-campaign-to-run-later-2.png)
 
 1. 스마트 캠페인을 실행할 시간(최소 15분 전)을 선택합니다.
 
-   ![](assets/runoncetime.png)
+   ![](assets/schedule-a-batch-smart-campaign-to-run-later-3.png)
 
 1. 클릭 **저장**.
 
-   ![](assets/runoncetimesave.png)
+   ![](assets/schedule-a-batch-smart-campaign-to-run-later-4.png)
 
 1. 를 확인하여 예약된 실행을 확인할 수 있습니다. **예약** 탭.
 
-   ![](assets/scheduledrunsbox.png)
+   ![](assets/schedule-a-batch-smart-campaign-to-run-later-5.png)
 
    >[!NOTE]
    >
