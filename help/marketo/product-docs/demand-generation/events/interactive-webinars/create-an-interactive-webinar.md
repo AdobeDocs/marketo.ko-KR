@@ -4,16 +4,16 @@ title: 대화형 웨비나 만들기
 hide: true
 hidefromtoc: true
 exl-id: 91fdede6-2e5a-4895-9893-852d0441aa2a
-source-git-commit: a90f752b291e6d34c920a94795011a8c9efa6d5b
+source-git-commit: 9eef992dbaf5561df7732ae6edae848d48803a3c
 workflow-type: tm+mt
-source-wordcount: '0'
+source-wordcount: '101'
 ht-degree: 0%
 
 ---
 
 # 대화형 웨비나 만들기 {#create-an-interactive-webinar}
 
-소개
+간단한 몇 가지 단계로 대화형 웨비나를 만듭니다.
 
 1. 이동 **마케팅 활동**.
 
@@ -23,7 +23,7 @@ ht-degree: 0%
 
    ![](assets/create-an-interactive-webinar-2.png)
 
-1. 이벤트 이름을 지정합니다. 프로그램 유형에서 **이벤트**.
+1. 프로그램 이름을 지정합니다. 프로그램 유형에서 **이벤트**.
 
    ![](assets/create-an-interactive-webinar-3.png)
 
@@ -43,8 +43,8 @@ ht-degree: 0%
 
    ![](assets/create-an-interactive-webinar-6.png)
 
-1. 웨비나의 날짜/시간을 예약합니다.
+1. 웨비나의 날짜/시간을 예약하고 를 클릭합니다. **만들기**.
 
    ![](assets/create-an-interactive-webinar-7.png)
 
-1. 텍스트
+대화형 웨비나가 만들어집니다. 이제 할 시간이다 [디자인](/help/marketo/product-docs/demand-generation/events/interactive-webinars/designing-interactive-webinars.md).
