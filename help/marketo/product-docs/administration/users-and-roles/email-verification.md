@@ -2,16 +2,16 @@
 description: 이메일 확인 - Marketo 문서 - 제품 설명서
 title: 전자 메일 확인
 exl-id: 976e46a7-8c85-45ed-86c1-0c5cdb2d5c3e
-source-git-commit: f60c40441be4bcfcc277b620f6d4e19b2047caef
+source-git-commit: c45b3ab94b806b53768891613f15b8e9b694a440
 workflow-type: tm+mt
-source-wordcount: '154'
+source-wordcount: '167'
 ht-degree: 0%
 
 ---
 
 # 전자 메일 확인 {#email-verification}
 
-Adobe Marketo Engage 가입을 위해서는 Marketo Engage 관리자를 비롯한 모든 비API 전용 사용자가 이메일 주소를 확인해야 합니다. 관리자 역할이 지정되지 않은 SSO(Single Sign-On) 사용자는 이메일 확인 기능을 사용하여 구독이 활성화되면 자동으로 이메일이 확인됩니다.
+Adobe Marketo Engage 가입을 위해서는 Marketo Engage 관리자를 비롯한 모든 비API 전용 사용자가 이메일 주소를 확인해야 합니다. 관리자 역할이 지정되지 않았거나 &#39;SSO 무시&#39; 권한이 있는 역할이 할당된 SSO(Single Sign-On) 사용자는 이메일 확인 기능을 사용하여 구독이 활성화되면 자동으로 이메일을 확인할 수 있습니다.
 
 **사용자 초대**
 
