@@ -3,10 +3,10 @@ unique-page-id: 5472490
 description: 릴리스 일정 - Marketo 설명서 - 제품 설명서
 title: 릴리스 일정
 exl-id: 38bd10e3-7f47-46f7-b9b0-83e1ab50014c
-source-git-commit: 3118fa0cbb3981c01a2f6f17f8bfd2bcc6cfa672
+source-git-commit: 2b72ebcd491d07bfaa92baf66815175bb388c8d1
 workflow-type: tm+mt
-source-wordcount: '137'
-ht-degree: 5%
+source-wordcount: '0'
+ht-degree: 0%
 
 ---
 
@@ -53,7 +53,7 @@ _릴리스 날짜는 변경될 수 있습니다_
   </tr>
   <tr>
    <td><a href="/help/marketo/release-notes/current.md">2023년 5월</a></td>
-   <td>2023년 5월 19일</td>
+   <td>2023년 5월 12일</td>
    <td>예약 시</td>
   </tr>
   <tr> 
