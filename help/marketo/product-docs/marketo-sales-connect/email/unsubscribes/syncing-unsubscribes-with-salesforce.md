@@ -3,9 +3,9 @@ unique-page-id: 14746188
 description: Salesforce와 가입 해지 동기화 - Marketo 문서 - 제품 설명서
 title: Salesforce와 가입 해지 동기화
 exl-id: 1694d7bf-d2f6-4950-8a3e-c7d89c37b276
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+source-git-commit: bcfaab258b0b10d271debc2d5521f2a995aa6aed
 workflow-type: tm+mt
-source-wordcount: '438'
+source-wordcount: '0'
 ht-degree: 0%
 
 ---
@@ -24,7 +24,7 @@ Sales Connect에서 가입 해지가 수집되면 Salesforce에 실시간으로 
 
 **동기화 구독 취소**
 
-구독 취소 동기화(아래 3단계)를 활성화하면 야간 동기화를 켜게 됩니다. 동기화는 매일 오후 8시 PST에 한 번 발생합니다. Salesforce의 옵트아웃 필드와 MSE/ToutApp의 모든 구독 취소가 양방향 동기화됩니다.
+구독 취소 동기화(아래 3단계)를 활성화하면 야간 동기화를 켜게 됩니다. 동기화는 매일 오후 8시 PST에 한 번 발생합니다. Salesforce의 옵트아웃 필드와 Marketo Sales의 모든 구독 취소가 양방향 동기화됩니다.
 
 ## Salesforce에 동기화 구독 취소 구성 {#configure-unsubscribe-sync-to-salesforce}
 
