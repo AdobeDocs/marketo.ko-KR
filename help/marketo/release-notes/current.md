@@ -2,9 +2,9 @@
 description: 현재 릴리스 정보 - Marketo 설명서 - 제품 설명서
 title: 현재 릴리스 노트
 exl-id: a2eccad5-73ad-48f9-8091-51cee23824e1
-source-git-commit: 2b72ebcd491d07bfaa92baf66815175bb388c8d1
+source-git-commit: 4096ef98c7daac8b4793c513f677a7b3c71145fc
 workflow-type: tm+mt
-source-wordcount: '480'
+source-wordcount: '452'
 ht-degree: 7%
 
 ---
@@ -96,20 +96,6 @@ ht-degree: 7%
 ### 다이내믹 채팅 {#dynamic-chat}
 
 </br>
-
-* **향상된 동적 채팅 활동**: Dynamic Chat의 기존 활동, 필터 및 트리거는 추가 속성 및 표준화된 명명 규칙으로 개선되었습니다.
-
-<table> 
-  <tr> 
-   <td><b>상태</b></td>
-   <td><b>설명서 업데이트</b></td>
-  </tr>
-  <tr> 
-   <td><i>곧 출시 예정</i></td>
-   <td><i>곧 출시 예정</i></td>
-  </tr>
-  </tbody>
-</table>
 
 * **다이내믹 채팅을 위한 채팅 원본**: &quot;채팅&quot;은 이제 새로운 개인 기록 및 활동의 소스로 제공됩니다. 이 소스는 사용자가 스마트 목록/캠페인에서 활동을 필터링하는 데 도움이 되는 데 사용할 수 있습니다. 또한 소스는 필드의 업데이트로부터 차단될 수 있습니다.
 
