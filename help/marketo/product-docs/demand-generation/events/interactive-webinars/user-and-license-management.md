@@ -4,7 +4,7 @@ title: 사용자 및 라이선스 관리
 hide: true
 hidefromtoc: true
 exl-id: 1fee628b-e9f3-46ab-b993-f2d09fe5e183
-source-git-commit: 4096ef98c7daac8b4793c513f677a7b3c71145fc
+source-git-commit: 9c3ec23cbd0a89f51cab40a51d76b4205baf9944
 workflow-type: tm+mt
 source-wordcount: '412'
 ht-degree: 0%
@@ -107,4 +107,4 @@ ht-degree: 0%
 
 * 이벤트가 생성될 때마다 해당 라이센스에서 &quot;사용됨&quot;으로 계산됩니다(Shared Room 라이센스가 아닌 경우). 동일한 용량의 &quot;공유 이벤트 라이선스&quot; 및 &quot;공유 룸 라이선스&quot;가 모두 있는 경우 &quot;공유 이벤트 라이선스&quot;에 기본 설정이 제공됩니다. 이벤트가 전달되지 않은 경우 예약된 시간 이전에 이벤트 프로그램이 삭제되면 사용된 이벤트에서 이벤트를 빼내어 이벤트 수가 보충됩니다.
 
-* 라이센스가 만료되면 해당 타일은 동일한 값을 갖는 총 이벤트 및 사용한 이벤트가 있는 관리자의 대화형 웨비나 화면에 유지됩니다. 라이센스가 만료될 때만 화면에서 제거됩니다.
+* 라이센스가 만료되면 해당 타일은 동일한 값을 갖는 &quot;총 이벤트&quot; 및 &quot;사용된 이벤트&quot;와 함께 관리 섹션의 대화형 웨비나 화면에 유지됩니다. 라이센스가 만료될 때만 화면에서 제거됩니다.

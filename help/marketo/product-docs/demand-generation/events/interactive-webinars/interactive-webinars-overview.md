@@ -4,16 +4,18 @@ title: 대화형 웨비나 개요
 hide: true
 hidefromtoc: true
 exl-id: c454f0a5-c9c6-48a4-8bbf-e1b10dc00eec
-source-git-commit: 08cfd71b75e58a0185e57c115c2dee59fbfdce1f
+source-git-commit: 9c3ec23cbd0a89f51cab40a51d76b4205baf9944
 workflow-type: tm+mt
-source-wordcount: '137'
-ht-degree: 1%
+source-wordcount: '212'
+ht-degree: 0%
 
 ---
 
 # 대화형 웨비나 개요 {#interactive-webinars-overview}
 
 빈 유효 웨비나를 만드는 기본 Marketo Engage 도구에 대해 자세히 알아보십시오.
+
+Adobe Connect 웨비나는 여러 사용자를 위한 라이브 대화형 온라인 컨퍼런스입니다. Room은 웨비나를 수행하는 데 사용하는 지속적인 온라인 가상 공간입니다. 여기에는 다양한 디스플레이 패널(pod) 및 레이아웃이 포함되어 있습니다. 미리 만들어진 회의실 레이아웃이 여러 개 있습니다. 또는 필요에 맞게 사용자 정의 레이아웃을 추가로 만들고 사용할 수 있습니다. 이 회의실에서 참석자는 컴퓨터 화면이나 파일을 공유하고 채팅과 방송 오디오 및 비디오를 공유하고 대화형 온라인 활동에 참여할 수 있습니다.
 
 _대화형 웨비나란?_
 

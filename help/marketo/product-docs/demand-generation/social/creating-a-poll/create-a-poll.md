@@ -3,9 +3,9 @@ unique-page-id: 2359768
 description: 투표 만들기 - Marketo 문서 - 제품 설명서
 title: 투표 만들기
 exl-id: a43b39d2-d6a7-4ba8-a623-d28a8f089816
-source-git-commit: 5536b35d71506f11fdf32bf7149bf5c61174ab34
+source-git-commit: 9c3ec23cbd0a89f51cab40a51d76b4205baf9944
 workflow-type: tm+mt
-source-wordcount: '309'
+source-wordcount: '296'
 ht-degree: 0%
 
 ---
@@ -13,10 +13,6 @@ ht-degree: 0%
 # 투표 만들기 {#create-a-poll}
 
 SNS에서 투표를 하고 친구들과 공유할 수 있는 설문 조사를 통해 사람들을 참여시키세요. 랜딩 페이지, 웹 사이트 및 Facebook 등의 위치에 추가할 수 있습니다.
-
->[!AVAILABILITY]
->
->모든 고객이 이 기능을 구입한 것은 아닙니다. 자세한 내용은 영업 담당자에게 문의하십시오.
 
 >[!PREREQUISITES]
 >

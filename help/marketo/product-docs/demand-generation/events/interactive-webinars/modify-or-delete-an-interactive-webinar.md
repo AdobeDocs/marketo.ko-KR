@@ -4,9 +4,9 @@ title: 대화형 웨비나 수정 또는 삭제
 hide: true
 hidefromtoc: true
 exl-id: 01dd801f-809b-481f-b926-2ed48bfbd5b7
-source-git-commit: 4096ef98c7daac8b4793c513f677a7b3c71145fc
+source-git-commit: 9c3ec23cbd0a89f51cab40a51d76b4205baf9944
 workflow-type: tm+mt
-source-wordcount: '221'
+source-wordcount: '287'
 ht-degree: 0%
 
 ---
@@ -21,11 +21,25 @@ ht-degree: 0%
 
    ![](assets/modify-or-delete-an-interactive-webinar-1.png)
 
-1. 텍스트
+1. 방이 가득 찰 것이다. 방을 변경하려면 룸 드롭다운에서 하나를 선택합니다. 템플릿을 업데이트하려면 **사용 공간**.
 
-PICC
+   ![](assets/modify-or-delete-an-interactive-webinar-2.png)
 
-??? 닐에쉬의 경우 - 웨비나가 이미 있는 방으로 들어가지 않는 것이 정상입니까? 그렇지 않다면, 가장 좋은 방법은 무엇입니까?
+>[!NOTE]
+>
+>방 변경은 선택 사항이며 템플릿을 업데이트하는 데 필요하지 않습니다.
+
+1. 클릭 **지금 웨비나 구체화**.
+
+   ![](assets/modify-or-delete-an-interactive-webinar-3.png)
+
+1. 오디오/비디오 환경 설정을 선택하고 을 클릭합니다 **Room 입력**.
+
+   ![](assets/modify-or-delete-an-interactive-webinar-4.png)
+
+1. 수정을 완료하면 **퇴실**.
+
+   ![](assets/modify-or-delete-an-interactive-webinar-5.png)
 
 ## 대화형 웨비나 다시 예약 {#reschedule-an-interactive-webinar}
 
@@ -58,6 +72,10 @@ PICC
 1. 클릭 **다음**.
 
    ![](assets/modify-or-delete-an-interactive-webinar-11.png)
+
+   >[!NOTE]
+   >
+   >복제된 대화형 웨비나를 현재 대화형 웨비나로만 저장할 수 있습니다. 복제된 웨비나를 Partner Webinar(예: Zoom, ON24 등)로 저장 곧 제공될 예정입니다.
 
 1. 복제된 웨비나에 대한 설정을 선택하고 를 클릭합니다. **복제**.
 
