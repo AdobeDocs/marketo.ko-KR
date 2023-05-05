@@ -3,9 +3,9 @@ audience: end-user
 user-guide-title: Marketo 안내서
 user-guide-description: Marketo 제품 설명서
 feature-set: Marketo Engage
-source-git-commit: cf6a0800737758d99a9ab07ffd783900332e3c32
+source-git-commit: b7a18b7cb2d39f569cbc22cc06ac58951ad1fee7
 workflow-type: tm+mt
-source-wordcount: '8876'
+source-wordcount: '8884'
 ht-degree: 0%
 
 ---
@@ -484,6 +484,10 @@ ht-degree: 0%
          + [폴더 이해](product-docs/core-marketo-concepts/miscellaneous/understanding-folders.md)
          + [알림 이해](product-docs/core-marketo-concepts/miscellaneous/understanding-notifications.md)
          + [알림 유형](product-docs/core-marketo-concepts/miscellaneous/understanding-notifications/notification-types.md)
+      + 여정 아님 {#not-journeys}
+         + [이름 개요](product-docs/core-marketo-concepts/not-journeys/name-overview.md)
+         + [이름 탭](product-docs/core-marketo-concepts/not-journeys/name-tab.md)
+         + [설정 탭](product-docs/core-marketo-concepts/not-journeys/settings-tab.md)
       + Predictive Audiences {#predictive-audiences}
          + [Predictive Audiences 시작](product-docs/core-marketo-concepts/predictive-audiences/getting-started-with-predictive-audiences.md)
          + [모델 및 통찰력](product-docs/core-marketo-concepts/predictive-audiences/models-and-insights.md)
