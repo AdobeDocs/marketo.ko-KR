@@ -4,16 +4,16 @@ title: 대화형 웨비나 디자인
 hide: true
 hidefromtoc: true
 exl-id: e340910a-ddcb-46e8-82a9-faedf0ab2d74
-source-git-commit: 9c3ec23cbd0a89f51cab40a51d76b4205baf9944
+source-git-commit: b448004300ae1cd1f6af68ee3bb06dd1e89d1aa9
 workflow-type: tm+mt
-source-wordcount: '383'
+source-wordcount: '387'
 ht-degree: 0%
 
 ---
 
 # 대화형 웨비나 디자인 {#designing-interactive-webinars}
 
-웨비나를 원하는 대로 디자인합니다.
+요구 사항에 맞게 웨비나를 디자인하는 방법을 배웁니다.
 
 1. 이벤트를 선택하고 을(를) 클릭합니다. **디자인 웨비나**.
 
