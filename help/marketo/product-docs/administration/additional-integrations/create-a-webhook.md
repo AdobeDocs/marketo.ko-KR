@@ -3,9 +3,9 @@ unique-page-id: 2360360
 description: 웹 후크 만들기 - Marketo 문서 - 제품 설명서
 title: 웹 후크 만들기
 exl-id: 3e753d2d-6f33-4987-884e-8e13167cf3df
-source-git-commit: 5f509a7aa27692e54bf129b94c657aff0f645f2b
+source-git-commit: a498dcc5dc95bd7f732481d30db021485cf052c0
 workflow-type: tm+mt
-source-wordcount: '210'
+source-wordcount: '221'
 ht-degree: 0%
 
 ---
@@ -40,7 +40,7 @@ ht-degree: 0%
 
    * **URL**: 웹 서비스에 대한 요청에서 사용하는 URL을 입력합니다. 개인의 이메일 주소( )와 같은 토큰을 삽입하려면&#x200B;**`{{lead.Email Address}}`**) 내의 아무 곳에나 있는 **토큰 삽입**.
 
-   * **템플릿**: POST 본문에 정보를 전송하려면 템플릿을 입력합니다. XML, JSON 또는 SOAP를 포함하여 HTTP POST을 지원하는 모든 데이터 형식을 사용합니다. 템플릿에 토큰을 삽입하려면 **토큰 삽입**.
+   * **템플릿**: 요청 본문에 정보를 전송하려면 페이로드 템플릿을 통해 을 입력합니다. 다음 요청 유형에 대해 허용되는 템플릿: POST, DELETE, PATCH 또는 PUT JSON 또는 XML과 같은 데이터 형식을 사용할 수 있습니다. 템플릿에 토큰을 삽입하려면 **토큰 삽입**.
 
    * **토큰 인코딩 요청**: 토큰 값에 특수 문자(예: 앰퍼샌드, &#39;&amp;&#39;)가 포함된 경우, 요청 형식을 나타냅니다(**JSON** 또는 **양식/Url**).
 
