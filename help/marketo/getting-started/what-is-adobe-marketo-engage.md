@@ -3,7 +3,7 @@ unique-page-id: 2949467
 description: Adobe Marketo Engage 소개 - Marketo 문서 - 제품 설명서
 title: Adobe Marketo Engage 소개
 exl-id: 7b76e910-6c01-4fdb-8ab8-f6b1abe13136
-source-git-commit: fe43f6dc6c4577972d947021930421ea67829526
+source-git-commit: e6b585657b61f1d327cc6083bb3c4de44a130b3a
 workflow-type: tm+mt
 source-wordcount: '289'
 ht-degree: 1%
@@ -51,7 +51,7 @@ Marketo Engage에는 마케팅 목표를 달성하는 데 도움이 되는 많�
 
 ## 특정 주에 보낼 수 있는 총 이메일 수와 같이 제한을 포함하는 항목 목록이 있습니까? {#list-of-limits}
 
-있습니다. 요약된 정적 제한(및 기타 매개 변수) [이 문서](https://helpx.adobe.com/legal/product-descriptions/adobe-marketo-engage---product-description.html#static-limits){target="_blank"}.
+있습니다. 요약된 정적 제한(및 기타 매개 변수) [이 문서](https://helpx.adobe.com/legal/product-descriptions/adobe-marketo-engage---product-description.html#performance-guardrails){target="_blank"}.
 
 ## Marketo은 내 데이터를 얼마 동안 보관합니까? {#data-retention-policy}
 
