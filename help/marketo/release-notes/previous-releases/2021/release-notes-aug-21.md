@@ -2,9 +2,9 @@
 description: 릴리스 노트 - 2021년 8월 - Marketo 문서 - 제품 설명서
 title: 릴리스 노트 - 2021년 8월
 exl-id: 4aec4e0b-520e-4786-a110-8e68f1bf9950
-source-git-commit: fda1bf51d4016a61c41be9acba4771db1797a552
+source-git-commit: 7a062683a3c38d8765eb966041bf7ee3db665f5a
 workflow-type: tm+mt
-source-wordcount: '922'
+source-wordcount: '925'
 ht-degree: 0%
 
 ---
@@ -63,7 +63,8 @@ ht-degree: 0%
 
 ![](assets/yellow-star.png)
 
-* **Bizible LinkedIn Lead Gen Forms 통합**: 이제 마케터는 LinkedIn에서 Lead Gen Forms 광고 단위를 통해 양식이 채워질 때 발생하는 전환에 대한 매출 기여도 분석을 수행할 수 있습니다. 그런 다음 이러한 통찰력을 사용하여 양식 성능과 유료 미디어 투자를 최적화할 수 있습니다. linkedIn Lead Gen Forms 는 LinkedIn에서 가장 빠르게 성장하고 있는 유료 미디어 서비스 중 하나이며, 이 새로운 기능은 Bizible과 통합되는 기존 LinkedIn Ads에 포함되어 있습니다.   
+* **Bizible LinkedIn Lead Gen Forms 통합**: 이제 마케터는 LinkedIn에서 Lead Gen Forms 광고 단위를 통해 양식이 채워질 때 발생하는 전환에 대한 매출 기여도 분석을 수행할 수 있습니다. 그런 다음 이러한 통찰력을 사용하여 양식 성능과 유료 미디어 투자를 최적화할 수 있습니다. linkedIn Lead Gen Forms 는 LinkedIn에서 가장 빠르게 성장하고 있는 유료 미디어 서비스 중 하나이며, 이 새로운 기능은 Bizible과 통합되는 기존 LinkedIn Ads에 포함되어 있습니다.
+
 * **향상된 속도 대시보드**: 심도 있는 인사이트를 위해 새로운 속도 지표 및 대시보드 필터를 추가했습니다. 이 대시보드는 마케터가 단계별 리드 및 기회 속도와 다양한 형태의 마케팅 및 판매 참여의 효율성을 이해하는 데 사용됩니다.
 
 * **새 집단 폭포 여정 대시보드**: 이를 통해 마케터는 기존의 &quot;수요 흐름&quot; 단계 세트를 통해 선택한 집단에 대한 진행 상황을 볼 수 있으므로 전환율과 단계별 묵시적 스테이지 전환 인과성에 대해 신속하게 이해할 수 있습니다.
@@ -74,7 +75,7 @@ ht-degree: 0%
 
 * **Bizible과 Adobe Privacy Service 통합** (2021년 9월 출시): Bizible은 Adobe Privacy Service과 통합되므로 Adobe Experience Cloud 애플리케이션에서 중요한 데이터 개인 정보 보호 규정(예: GDPR)을 중앙 집중식으로 준수합니다. 이제 이 서비스를 활용하고 모든 개인 정보 보호 요청을 중앙에서 관리할 수 있으므로 Bizible 및 기타 Adobe 제품에 대한 변경 요청이 애플리케이션 간에 반영됩니다.
 
-* **Adobe 통합 셸의 Bizible**: Bizible의 Adobe Unified Shell 채택을 통해 Bizible 애플리케이션 헤더 표시줄에 나타날 새로운 기능을 제공하고 리소스 및 애플리케이션 전환을 지원하기 위한 액세스 권한을 강화합니다. Adobe 통합 셸은 Bizible과 다른 Adobe Experience Cloud 애플리케이션 간에 일관된 경험을 만드는 데 도움이 됩니다.
+* **Adobe Experience Cloud 인터페이스의 Bizible**: Bizible의 Adobe Experience Cloud 인터페이스 채택을 통해 Bizible 애플리케이션 헤더 막대에 표시되는 새로운 기능을 사용할 수 있으며, 리소스 및 애플리케이션 전환을 지원하는 데 더 나은 액세스를 제공할 수 있습니다. Experience Cloud 인터페이스는 Bizible과 다른 Adobe Experience Cloud 애플리케이션 간에 일관된 경험을 만드는 데 도움이 됩니다.
 
 * **Bizible 도메인 소유권 및 자체 관리**: Bizible 사용자는 Adobe Admin Console을 활용하여 Bizible에서 추적할 도메인을 관리할 수 있습니다. 이 경우 이전의 수동 프로세스에 셀프 서비스를 가져오고 Adobe Experience Cloud 애플리케이션에서 도메인 소유권 및 추적을 관리하는 방법에 대해 일관된 경험을 제공합니다.
 

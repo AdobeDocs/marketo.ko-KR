@@ -2,10 +2,10 @@
 description: 현재 릴리스 정보 - Marketo 설명서 - 제품 설명서
 title: 현재 릴리스 노트
 exl-id: a2eccad5-73ad-48f9-8091-51cee23824e1
-source-git-commit: 4096ef98c7daac8b4793c513f677a7b3c71145fc
+source-git-commit: 7a062683a3c38d8765eb966041bf7ee3db665f5a
 workflow-type: tm+mt
-source-wordcount: '452'
-ht-degree: 7%
+source-wordcount: '413'
+ht-degree: 6%
 
 ---
 
@@ -25,21 +25,7 @@ ht-degree: 7%
 
 </br>
 
-* **최신 UX를 위한 스위치 및 클래식 경험 제거 업데이트 전환**: 이메일 템플릿, 랜딩 페이지 템플릿, Forms 및 코드 조각에 대한 세부 정보 페이지 제거를 통해 최신 경험이 사용 가능한 유일한 경험인지 확인하십시오.
-
-<table> 
-  <tr> 
-   <td><b>상태</b></td>
-   <td><b>설명서 업데이트</b></td>
-  </tr>
-  <tr> 
-   <td><i>곧 출시 예정</i></td>
-   <td><i>곧 출시 예정</i></td>
-  </tr>
-  </tbody>
-</table>
-
-* **통합 셸**: Marketo Engage을 Experience Cloud에 정렬하여 하나의 사용자 세션에서 여러 Experience Cloud 솔루션에서 일관된 탐색 경험을 만듭니다.
+* **Adobe Experience Cloud 인터페이스**: Marketo Engage을 Experience Cloud에 정렬하여 하나의 사용자 세션에서 여러 Experience Cloud 솔루션에서 일관된 탐색 경험을 만듭니다.
 
 <table> 
   <tr> 

@@ -4,9 +4,9 @@ title: 대화형 웨비나 개요
 hide: true
 hidefromtoc: true
 exl-id: c454f0a5-c9c6-48a4-8bbf-e1b10dc00eec
-source-git-commit: 093af2946aa0279aff20d4388312fa7630e693a2
+source-git-commit: 7a062683a3c38d8765eb966041bf7ee3db665f5a
 workflow-type: tm+mt
-source-wordcount: '405'
+source-wordcount: '403'
 ht-degree: 0%
 
 ---
@@ -17,7 +17,7 @@ ht-degree: 0%
 
 ## 대화형 웨비나란? {#what-is-interactive-webinars}
 
-대화형 웨비나는 Marketo Engage 내에서 이벤트를 만들고, 관리하고, 전달할 수 있는 기본적이고 원활한 경험을 제공하여 기존 이벤트 및 웨비나 경험을 증가시킵니다. 다음 경우에 [대화형 웨비나 만들기](/help/marketo/product-docs/demand-generation/events/interactive-webinars/create-an-interactive-webinar.md){target="_blank"}미리 만들어진 여러 회의실 레이아웃을 모두 사용자 정의 가능(추가 사용자 정의 레이아웃을 만들고 사용할 수도 있음) 중에서 선택할 수 있습니다. 참석자는 컴퓨터 스크린/파일을 공유하고, 서로 채팅하고, 오디오와 비디오를 브로드캐스트하고, 대화형 온라인 활동에 참여할 수 있습니다.
+대화형 웨비나는 Marketo Engage 내에서 이벤트를 만들고, 관리하고, 전달할 수 있는 기본적이고 원활한 경험을 제공하여 기존 이벤트 및 웨비나 경험을 증가시킵니다. 다음 경우에 [대화형 웨비나 만들기](/help/marketo/product-docs/demand-generation/events/interactive-webinars/create-an-interactive-webinar.md){target="_blank"}미리 만들어진 여러 회의 템플릿을 선택할 수 있습니다. 이러한 템플릿은 모두 사용자 정의 가능합니다(사용자 정의 템플릿을 만들고 사용할 수도 있음). 참석자는 컴퓨터 스크린/파일을 공유하고, 서로 채팅하고, 오디오와 비디오를 브로드캐스트하고, 대화형 온라인 활동에 참여할 수 있습니다.
 
 대화형 웨비나 오퍼 [서로 다른 라이센스](/help/marketo/product-docs/demand-generation/events/interactive-webinars/user-and-license-management.md){target="_blank"}각 구성 요소의 기능은 다양하며,
 
