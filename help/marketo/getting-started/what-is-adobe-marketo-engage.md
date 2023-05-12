@@ -3,9 +3,9 @@ unique-page-id: 2949467
 description: Adobe Marketo Engage 소개 - Marketo 문서 - 제품 설명서
 title: Adobe Marketo Engage 소개
 exl-id: 7b76e910-6c01-4fdb-8ab8-f6b1abe13136
-source-git-commit: e06aa684f8443e3e8684d15628cc445daba456e2
+source-git-commit: fe43f6dc6c4577972d947021930421ea67829526
 workflow-type: tm+mt
-source-wordcount: '232'
+source-wordcount: '289'
 ht-degree: 1%
 
 ---
@@ -43,10 +43,20 @@ Marketo Engage에는 마케팅 목표를 달성하는 데 도움이 되는 많�
 
 ## 설정을 수행해야 합니까? {#do-i-need-to-do-any-setup}
 
-네, 우리는 [수행할 작업의 검사 목록](/help/marketo/getting-started/setup/setup-checklist.md){target=&quot;_blank&quot;}.
+네, 우리는 [수행할 작업의 검사 목록](/help/marketo/getting-started/setup/setup-checklist.md){target="_blank"}.
 
 ## 설치가 완료될 때까지 기다려야 합니까? {#do-i-have-to-wait-until-setup-is-finished-to-learn}
 
-아니! 우리는 많은 간단한 자습서를 만들었습니다. [여기에서 시작](/help/marketo/getting-started/quick-wins/get-set-up-and-add-a-person.md){target=&quot;_blank&quot;}. 한 시간 정도 걸릴 겁니다 언제든지 시작할 수 있습니다.
+아니! 우리는 많은 간단한 자습서를 만들었습니다. [여기에서 시작](/help/marketo/getting-started/quick-wins/get-set-up-and-add-a-person.md){target="_blank"}. 한 시간 정도 걸릴 겁니다 언제든지 시작할 수 있습니다.
+
+## 특정 주에 보낼 수 있는 총 이메일 수와 같이 제한을 포함하는 항목 목록이 있습니까? {#list-of-limits}
+
+있습니다. 요약된 정적 제한(및 기타 매개 변수) [이 문서](https://helpx.adobe.com/legal/product-descriptions/adobe-marketo-engage---product-description.html#static-limits){target="_blank"}.
+
+## Marketo은 내 데이터를 얼마 동안 보관합니까? {#data-retention-policy}
+
+검토하세요 [이 국가 게시물](https://nation.marketo.com/t5/knowledgebase/marketo-activities-data-retention-policy-under-the-hood/ta-p/251191){target="_blank"} 자세한 내용
+
+<br>
 
 Marketo Engage 시작! 당신이 여기 와서 기뻐요
