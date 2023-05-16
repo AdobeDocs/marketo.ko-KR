@@ -3,9 +3,9 @@ unique-page-id: 7516605
 description: 기존 Marketo 인스턴스를 상속한 도움말 - Marketo 문서 - 제품 설명서
 title: 기존 Marketo 인스턴스를 상속하는 데 도움이 됩니다.
 exl-id: f64c04cc-bbac-4577-b242-be8263acff4d
-source-git-commit: e7fafc58ada80537dc5ab2085f9bf55611879d3b
+source-git-commit: 615107dc9da9fec4b6d06c5ca6bc0a2c03e84fdc
 workflow-type: tm+mt
-source-wordcount: '140'
+source-wordcount: '132'
 ht-degree: 0%
 
 ---
@@ -18,8 +18,8 @@ ht-degree: 0%
 
 **목차**
 
-* [체크 오프 항목](/help/marketo/getting-started/inheriting-a-marketo-instance/items-to-check-off.md){target=&quot;_blank&quot;}
-* [검토할 사항: 핵심 기술](/help/marketo/getting-started/inheriting-a-marketo-instance/things-to-review-core-skills.md){target=&quot;_blank&quot;}
-* [지원 방법](/help/marketo/getting-started/inheriting-a-marketo-instance/ways-to-get-help.md){target=&quot;_blank&quot;}
+* [체크 오프 항목](/help/marketo/getting-started/inheriting-a-marketo-instance/items-to-check-off.md){target="_blank"}
+* [검토할 사항: 핵심 기술](/help/marketo/getting-started/inheriting-a-marketo-instance/things-to-review-core-skills.md){target="_blank"}
+* [지원 방법](/help/marketo/getting-started/inheriting-a-marketo-instance/ways-to-get-help.md){target="_blank"}
 
-이미 인스턴스 주변 방법을 알고 있고 Marketo 핵심 개념에 익숙하다면 Marketo Engage 제품 문서를 확인하거나 [마케팅 국가](https://nation.marketo.com/){target=&quot;_blank&quot;} 온라인 커뮤니티에서 다른 Marketo 사용자의 의견을 확인해 보십시오.
+이미 인스턴스 주변 방법을 알고 있고 Marketo 핵심 개념에 익숙하다면 제품 설명서 Marketo Engage을 확인하거나 [마케팅 국가](https://nation.marketo.com/){target="_blank"} 온라인 커뮤니티에서 다른 Marketo 사용자의 의견을 확인할 수 있습니다.

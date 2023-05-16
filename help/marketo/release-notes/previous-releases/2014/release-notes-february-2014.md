@@ -3,7 +3,7 @@ unique-page-id: 2951048
 description: 릴리스 노트 - 2014년 2월 - Marketo 문서 - 제품 설명서
 title: 릴리스 노트 - 2014년 2월
 exl-id: 5fcac75d-4e09-4f4d-9fd0-7c89f890d63e
-source-git-commit: 74effe9f8078f8d71e6de01d6e737ddc86978abb
+source-git-commit: 615107dc9da9fec4b6d06c5ca6bc0a2c03e84fdc
 workflow-type: tm+mt
 source-wordcount: '358'
 ht-degree: 0%
@@ -36,9 +36,9 @@ ht-degree: 0%
 
 [이메일 지표를 Excel로 내보내기](/help/marketo/product-docs/email-marketing/email-programs/email-program-data/export-email-program-dashboard-to-excel.md): AB 테스트 변형 데이터를 포함합니다.
 
-## 참여 스트림 성과 보고서의 참여 점수 {#engagement-score-in-engagement-stream-performance-report}
+## [!UICONTROL 참여 점수] in [!UICONTROL 참여 스트림 성능] 보고서 {#engagement-score-in-engagement-stream-performance-report}
 
-에 참여 점수를 추가했습니다 [참여 스트림 성과 보고서](/help/marketo/product-docs/email-marketing/drip-nurturing/reports-and-notifications/engagement-stream-performance-report.md) 를 통해 참여 프로그램의 컨텐츠가 얼마나 효과적인지를 파악할 수 있습니다.
+에 참여 점수를 추가했습니다 [[!UICONTROL 참여 스트림 성능] 보고서](/help/marketo/product-docs/email-marketing/drip-nurturing/reports-and-notifications/engagement-stream-performance-report.md) 를 통해 참여 프로그램의 컨텐츠가 얼마나 효과적인지를 파악할 수 있습니다.
 
 ![](assets/image2014-9-22-10-3a50-3a36.png)
 

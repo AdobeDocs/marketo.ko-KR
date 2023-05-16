@@ -3,7 +3,7 @@ unique-page-id: 12980733
 description: Marketo 용어집 - Marketo 문서 - 제품 설명서
 title: Marketo 용어
 exl-id: c387b880-708c-439c-99c3-46eb5ccb4536
-source-git-commit: 499729a61dc033c430d31831dc14045b4674de98
+source-git-commit: 615107dc9da9fec4b6d06c5ca6bc0a2c03e84fdc
 workflow-type: tm+mt
 source-wordcount: '4203'
 ht-degree: 0%
@@ -28,7 +28,7 @@ ht-degree: 0%
   </tr> 
   <tr> 
    <td colspan="1"><strong>계정</strong></td> 
-   <td colspan="1">이 용어는 다른 의미를 가질 수 있습니다.<br>-Marketo 인스턴스 자체를 Marketo 계정이라고 할 수 있습니다.<br>-In <strong>TAM</strong>, <strong>명명 계정</strong> 는 사용자가 추구하려는 타겟 계정을 결정한 계정입니다.<br>-TAM에서 CRM 계정은 연결된 계정에서 매핑됩니다 <strong>CRM</strong> (계정) <strong>Salesforce</strong>, <strong>MS Dynamics</strong> 또는 <strong>API</strong>).<br>-CRM에서 계정은 리드 및 연락처가 연결된 비즈니스/회사입니다.</td> 
+   <td colspan="1">이 용어는 다른 의미를 가질 수 있습니다.<br>-Marketo 인스턴스 자체를 Marketo 계정이라고 할 수 있습니다.<br>-In <strong>TAM</strong>, <strong>명명 계정</strong> 는 사용자가 추구하려는 타겟 계정을 결정한 계정입니다.<br>-TAM에서 CRM 계정은 연결된 계정에서 매핑됩니다 <strong>CRM</strong> (계정) <strong><span class="dnl">Salesforce</span></strong>, <strong><span class="dnl">MS Dynamics</span></strong> 또는 <strong>API</strong>).<br>-CRM에서 계정은 리드 및 연락처가 연결된 비즈니스/회사입니다.</td> 
   </tr> 
   <tr> 
    <td><strong>계정 목록</strong></td> 
@@ -374,7 +374,7 @@ ht-degree: 0%
    <td>에 사용되는 도구 <strong>스마트 목록</strong> 이를 통해 대상자(예: 캘리포니아에 거주하는 데이터베이스의 모든 사용자)를 줄일 수 있습니다. 두 가지 모두에서 필터를 사용할 수 있습니다 <strong>일괄 처리</strong> 및 <strong>캠페인 트리거</strong>.</td> 
   </tr> 
   <tr> 
-   <td><strong>흐름</strong></td> 
+   <td><strong>플로우</strong></td> 
    <td><p>의 영역 <strong>스마트 캠페인</strong> 이는 의 <strong>스마트 목록</strong>. 플로우는 하나 이상으로 구성됩니다 <strong>흐름 단계</strong>.</p></td> 
   </tr> 
   <tr> 
@@ -904,7 +904,7 @@ ht-degree: 0%
    <td>문자(*)는 <strong>웹 개인화</strong>)가 문자열의 다른 문자를 대체하기 위해 문자열 앞이나 뒤에 사용됩니다.</td> 
   </tr> 
   <tr> 
-   <td><strong><a href="/help/marketo/product-docs/administration/workspaces-and-person-partitions/understanding-workspaces-and-person-partitions.md" rel="nofollow">작업 공간</a></strong></td> 
+   <td><strong><a href="/help/marketo/product-docs/administration/workspaces-and-person-partitions/understanding-workspaces-and-person-partitions.md" rel="nofollow">작업 영역</a></strong></td> 
    <td>마케팅을 담당하는 Marketo의 별도의 영역 <strong>assets</strong>. 예를 들어 "북미"라는 작업 공간이 있으면 해당 지역의 마케팅에 엄격히 사용할 수 있습니다. 유럽, 아시아 등</td> 
   </tr>  
  </tbody> 
