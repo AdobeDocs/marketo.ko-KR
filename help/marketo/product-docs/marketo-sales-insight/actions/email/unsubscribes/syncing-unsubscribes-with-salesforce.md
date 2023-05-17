@@ -2,9 +2,9 @@
 description: Salesforce와 가입 해지 동기화 - Marketo 문서 - 제품 설명서
 title: Salesforce와 가입 해지 동기화
 exl-id: b5b0f625-e38c-4a03-81e7-010082001636
-source-git-commit: 27ca6c3efc5d49729ca4473853688be9cc8cdbc9
+source-git-commit: f174cba33e18812ac08adf177302d997bbe60c4c
 workflow-type: tm+mt
-source-wordcount: '0'
+source-wordcount: '437'
 ht-degree: 0%
 
 ---
@@ -90,6 +90,6 @@ Marketo Sales에서 구독을 취소하면 Salesforce에 실시간으로 푸시�
 
 ## Marketo 판매 옵트아웃 {#marketo-sales-opt-out}
 
-Marketo 판매 옵트아웃 필드는 Marketo 판매 사용자 지정을 설치한 사용자가 사용할 수 있는 사용자 지정 필드입니다.
+Marketo 판매 옵트아웃 필드는 Marketo Sales Insight 패키지를 설치한 사용자가 사용할 수 있는 사용자 지정 필드입니다 [AppExchange](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/installation/install-marketo-sales-insight-package-in-salesforce-appexchange.md){target="_blank"}.
 
-Salesforce에 Marketo Sales Customizations 를 성공적으로 설치하면 사용 가능한 Marketo Sales Opt Out 필드가 표시됩니다.
+AppExchange에서 Salesforce로 Marketo Sales Insight 패키지를 성공적으로 설치하면 Marketo 영업 옵트아웃 필드를 사용할 수 있습니다.
