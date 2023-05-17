@@ -2,9 +2,9 @@
 description: 현재 릴리스 정보 - Marketo 설명서 - 제품 설명서
 title: 현재 릴리스 노트
 exl-id: a2eccad5-73ad-48f9-8091-51cee23824e1
-source-git-commit: 7a062683a3c38d8765eb966041bf7ee3db665f5a
+source-git-commit: 88316009757720d9ea9987bb88d7a33cbfc25c02
 workflow-type: tm+mt
-source-wordcount: '413'
+source-wordcount: '424'
 ht-degree: 6%
 
 ---
@@ -65,7 +65,7 @@ ht-degree: 6%
 
 대화형 웨비나는 마케터가 Marketo Engage 내에서 이벤트를 만들고, 관리하고, 전달할 수 있는 기본적이고 원활한 경험을 제공하여 기존 이벤트 및 웨비나 경험을 증가시킵니다. 이벤트 유형에 따라 웨비나를 사용자 지정하고 원하는 경우 발표자를 추가할 수도 있습니다. 라이브 설문 조사, 채팅, Q&amp;A 세션, 웹 링크 클릭 수, 문서 다운로드 등과 같은 Adobe Connect 기능을 통해 풍부한 참여 인사이트를 얻을 수 있습니다. Marketo Engage에서 직접 웨비나 기록을 검색하고 풍부한 대시보드 지표를 통해 성능을 평가합니다.
 
-등록 정보 곧 제공
+요청할 수 있습니다 [이 기능에 대한 조기 액세스](https://forms.office.com/r/Jf4zFVCH0T){target="_blank"}.
 
 <table> 
   <tr> 
