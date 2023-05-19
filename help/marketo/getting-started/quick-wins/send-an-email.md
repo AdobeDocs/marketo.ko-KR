@@ -3,56 +3,56 @@ unique-page-id: 2359410
 description: 이메일 보내기 - Marketo 문서 - 제품 설명서
 title: 이메일 보내기
 exl-id: 1f80fc08-3587-41f0-9c51-2feea10dff0d
-source-git-commit: b084acfdc58448e01fa6e19a03e6c3e1ea70a97b
+source-git-commit: 80512816eaf0a70a3f10a50c34aeea14edd9046b
 workflow-type: tm+mt
-source-wordcount: '410'
+source-wordcount: '395'
 ht-degree: 0%
 
 ---
 
 # 이메일 보내기 {#send-an-email}
 
-모두가 제일 먼저 하고 싶은 거야 Marketo에서 이메일을 보내요!
+모두가 하고 싶은 첫 번째 일입니다. Marketo에서 이메일을 전송해 보겠습니다!
 
 >[!PREREQUISITES]
 >
->[설정 및 개인 추가](/help/marketo/getting-started/quick-wins/get-set-up-and-add-a-person.md){target=&quot;_blank&quot;}
+>[설정 및 사용자 추가](/help/marketo/getting-started/quick-wins/get-set-up-and-add-a-person.md){target="_blank"}
 
 ## 이메일 프로그램 만들기 {#create-an-email-program}
 
-1. 로 이동합니다. **마케팅 활동** 영역.
+1. 로 이동 **[!UICONTROL 마케팅 활동]** 영역입니다.
 
    ![](assets/send-an-email-1.png)
 
-1. 을(를) 선택합니다 **학습** 폴더를 입력합니다. 을(를) 클릭합니다. **새로 만들기** 드롭다운 및 선택 **새 프로그램**.
+1. 다음 항목 선택 **[!UICONTROL 학습]** 폴더를 삭제합니다. 다음을 클릭합니다. **[!UICONTROL 신규]** 드롭다운 및 선택 **[!UICONTROL 새 프로그램]**.
 
    ![](assets/send-an-email-2.png)
 
-1. 을(를) 입력합니다. **이름** 을(를) 선택합니다. **이메일** 대상 **프로그램 유형.**
+1. 입력 **[!UICONTROL 이름]** 및 선택 **[!UICONTROL 이메일]** 대상 **[!UICONTROL 프로그램 유형]**.
 
    >[!TIP]
    >
-   >프로그램 이름의 끝에 이니셜을 추가하여 고유하게 만듭니다.
+   >프로그램 이름 끝에 이니셜을 추가하여 고유하게 만듭니다.
 
    ![](assets/send-an-email-3.png)
 
-1. 아래 **채널**, 선택 **이메일 보내기** 을(를) 클릭합니다. **만들기**.
+1. 아래 **[!UICONTROL 채널]**, 선택 **[!UICONTROL 이메일 전송]** 및 클릭 **[!UICONTROL 만들기]**.
 
    ![](assets/send-an-email-4.png)
 
 ## 대상자 정의 {#define-your-audience}
 
-1. 클릭 **스마트 목록 편집** 아래에 표시됩니다.
+1. 클릭 **[!UICONTROL 스마트 목록 편집]** 다음 아래에 [!UICONTROL 대상자] 타일.
 
    ![](assets/send-an-email-5.png)
 
-1. 이메일 주소 필터를 찾아 캔버스로 드래그합니다.
+1. 을(를) 찾아 드래그합니다. [!UICONTROL 이메일 주소] 캔버스에 필터링합니다.
 
    ![](assets/send-an-email-6.png)
 
    >[!TIP]
    >
-   >를 사용하십시오 **검색** 함수를 사용하여 필터를 보다 쉽게 찾을 수 있습니다.
+   >사용 **[!UICONTROL 검색]** 함수를 통해 필터를 보다 쉽게 찾을 수 있습니다.
 
 1. 이메일 주소를 찾아 선택합니다.
 
@@ -60,82 +60,82 @@ ht-degree: 0%
 
    >[!NOTE]
    >
-   >이메일이 자동으로 채워지지 않는 경우 [설정하고 리드를 추가합니다.](/help/marketo/getting-started/quick-wins/get-set-up-and-add-a-person.md){target=&quot;_blank&quot;}
+   >이메일이 자동으로 채워지지 않으면 다음 사항을 잊었을 수 있습니다. [리드 설정 및 추가](/help/marketo/getting-started/quick-wins/get-set-up-and-add-a-person.md){target="_blank"}
 
    >[!NOTE]
    >
-   >이 예제에서는 이메일만 자신에게 전송하도록 하지만 대상자를 원하는 대로 사용자 지정할 수 있습니다.
+   >이 예제에서는 이메일을 자신에게만 보내도록 하고 있지만, 상황에 따라 대상자를 사용자 정의할 수 있습니다.
 
-1. 기본 프로그램 탭으로 돌아가서 새로 고침 아이콘을 클릭합니다. **개인**.
+1. 기본 프로그램 탭으로 돌아가서 새로 고침 아이콘 클릭 **[!UICONTROL 개인]**.
 
    ![](assets/send-an-email-8.png)
 
-   사람 카운트가 1까지 올라가는 것을 볼 수 있습니다. 바로 당신이에요!
+   인원수가 1까지 올라가는 것을 보실 수 있습니다. 바로 당신이에요!
 
 ## 이메일 만들기 {#create-an-email}
 
-1. 전자 메일 타일에서 를 클릭합니다. **새 이메일**.
+1. 이메일 타일 아래에서 **[!UICONTROL 새 이메일]**.
 
    ![](assets/send-an-email-9.png)
 
-1. 을(를) 입력합니다. **이름**, 을 선택합니다. **템플릿**&#x200B;를 클릭하고 **만들기**.
+1. 입력 **[!UICONTROL 이름]**, 선택 **템플릿**, 및 클릭 **[!UICONTROL 만들기]**.
 
    ![](assets/send-an-email-10.png)
 
-1. 이메일 편집기 창이 열립니다. 50자 이하의 제목을 입력합니다(권장).
+1. 이메일 편집기 창이 열립니다. 제목을 50자 이하로 입력하십시오(권장).
 
    ![](assets/send-an-email-11.png)
 
    >[!NOTE]
    >
-   >팝업 차단기가 있는 경우 **초안 편집** 이메일 편집기를 입력하려면 다음을 수행하십시오.
+   >팝업 차단기가 있는 경우 **[!UICONTROL 초안 편집]** 이메일 편집기를 입력합니다.
 
-1. 편집할 영역을 선택하고 오른쪽에 있는 톱니바퀴 아이콘을 클릭한 다음, 을 선택합니다 **편집** 편집할 편집 가능한 섹션을 두 번 클릭할 수도 있습니다.
+1. 편집할 영역을 선택하고 오른쪽에 있는 톱니바퀴 아이콘을 클릭한 다음 를 선택합니다 **[!UICONTROL 편집]** 편집 가능한 섹션을 두 번 클릭하여 편집할 수도 있습니다.
 
    ![](assets/send-an-email-12.png)
 
-1. 원하는 콘텐츠를 입력하고 **저장**.
+1. 원하는 콘텐츠를 입력하고 클릭 **[!UICONTROL 저장]**.
 
    ![](assets/send-an-email-13.png)
 
-1. 을(를) 클릭합니다. **이메일 작업** 드롭다운 및 선택 **승인 및 닫기**.
+1. 다음을 클릭합니다. **[!UICONTROL 이메일 작업]** 드롭다운 및 선택 **[!UICONTROL 승인 및 닫기]**.
 
    ![](assets/send-an-email-14.png)
 
    >[!TIP]
    >
-   >실행하기 전에 이메일이 어떻게 보이는지 간단한 샘플을 보내시겠습니까? 선택 **샘플 보내기** 위의 메뉴에서 를 클릭하거나 **이메일 작업** 그런 다음 [**샘플 보내기**](/help/marketo/product-docs/email-marketing/general/creating-an-email/send-a-sample-email.md){target=&quot;_blank&quot;}.
+   >시작하기 전에 이메일의 모양을 확인할 수 있는 빠른 샘플을 보내시겠습니까? 선택 **[!UICONTROL 샘플 보내기]** 위의 메뉴에서 를 클릭하거나 **[!UICONTROL 이메일 작업]** 그러면 [**[!UICONTROL 샘플 보내기]**](/help/marketo/product-docs/email-marketing/general/creating-an-email/send-a-sample-email.md){target="_blank"}.
 
-1. 왼쪽 트리에서 이메일 프로그램을 선택합니다.
+1. 왼쪽 트리에서 전자 메일 프로그램을 선택합니다.
 
    ![](assets/send-an-email-15.png)
 
-1. 예약 타일에서 이메일의 실행 일을 (으)로 설정합니다. **오늘**
+1. 아래 [!UICONTROL 예약] 타일, 이메일의 개시일을 다음으로 설정 **[!UICONTROL 오늘]**.
 
    ![](assets/send-an-email-16.png)
 
    >[!NOTE]
    >
-   >추가 정보 [받는 사람 시간대](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/scheduling-with-recipient-time-zone/schedule-email-programs-with-recipient-time-zone.md){target=&quot;_blank&quot;} 및 [헤드 시작](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/head-start-for-email-programs.md){target=&quot;_blank&quot;}.
+   >자세히 알아보기 [수신자 시간대](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/scheduling-with-recipient-time-zone/schedule-email-programs-with-recipient-time-zone.md){target="_blank"} and [Head Start](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/head-start-for-email-programs.md){target="_blank"}.
 
-1. 향후 15분 이상의 시간을 선택합니다.
+1. 앞으로 15분 이상 걸릴 시간을 선택하십시오.
 
    ![](assets/send-an-email-17.png)
 
    >[!TIP]
    >
-   >기본 시간대가 사용자의 시간대가 아닙니다? 방법 알아보기 [여기에서 업데이트합니다.](/help/marketo/product-docs/administration/settings/select-your-language-locale-and-time-zone.md){target=&quot;_blank&quot;}.
+   >기본 시간대는 사용자의 시간대가 아닙니까? 방법 알아보기 [여기에서 업데이트](/help/marketo/product-docs/administration/settings/select-your-language-locale-and-time-zone.md){target="_blank"}.
 
-1. 클릭 **프로그램 승인** 승인 타일 아래의 작업을 완료하십시오!
+1. 클릭 **[!UICONTROL 프로그램 승인]** 다음 아래에 [!UICONTROL 승인] 타일을 넣으면 끝이다!
 
    ![](assets/send-an-email-18.png)
 
-예약된 날짜/시간 직후에 이메일을 받게 됩니다.
+예약된 날짜/시간이 지나면 곧 이메일을 받게 됩니다.
 
 ## 임무 완료! {#mission-complete}
 
 <br> 
 
-[◄ 설정 및 개인 추가](/help/marketo/getting-started/quick-wins/get-set-up-and-add-a-person.md)
+[◄ 설정 및 사용자 추가](/help/marketo/getting-started/quick-wins/get-set-up-and-add-a-person.md)
 
-[임무 2: 양식이 있는 랜딩 페이지 ►](/help/marketo/getting-started/quick-wins/landing-page-with-a-form.md)
+[임무 2: 양식 설정이 포함된 랜딩 ►](/help/marketo/getting-started/quick-wins/landing-page-with-a-form.md)
