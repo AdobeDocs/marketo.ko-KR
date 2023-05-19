@@ -2,10 +2,10 @@
 title: Marketo 제품 문서
 description: Marketo 제품 문서
 exl-id: 4b97fe25-ce4d-446c-8b23-2566769f35ee
-source-git-commit: 85e04fb8a52a417982014bc4bb101b6044e53f84
+source-git-commit: 74da8ebbd564b11e2795da31321ca47493135f48
 workflow-type: tm+mt
-source-wordcount: '52'
-ht-degree: 3%
+source-wordcount: '49'
+ht-degree: 4%
 
 ---
 
@@ -13,18 +13,18 @@ ht-degree: 3%
 
 ![](assets/marketo-docs-banner.jpg)
 
-## 시작하기
+## 시작
 
 * [설정 단계](/help/marketo/getting-started/setup/setup-steps.md)
-* [설정 및 개인 추가](/help/marketo/getting-started/quick-wins/get-set-up-and-add-a-person.md)
+* [설정 및 사용자 추가](/help/marketo/getting-started/quick-wins/get-set-up-and-add-a-person.md)
 * [Marketo에 대한 프로토콜 구성](/help/marketo/getting-started/setup/configure-protocols-for-marketo.md)
 * [Marketo 용어](/help/marketo/getting-started/marketo-glossary.md)
 
 ## 인기 있는 문서
 
-* [Salesforce 동기화 이해](/help/marketo/product-docs/crm-sync/salesforce-sync/understanding-the-salesforce-sync.md)
+* [이해 [!DNL Salesforce] 동기화](/help/marketo/product-docs/crm-sync/salesforce-sync/understanding-the-salesforce-sync.md)
 
-* [Microsoft Dynamics 동기화 이해](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/understanding-the-microsoft-dynamics-sync.md)
+* [이해 [!DNL Microsoft Dynamics] 동기화](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/understanding-the-microsoft-dynamics-sync.md)
 
 * [스마트 캠페인 이해](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/understanding-smart-campaigns.md)
 
