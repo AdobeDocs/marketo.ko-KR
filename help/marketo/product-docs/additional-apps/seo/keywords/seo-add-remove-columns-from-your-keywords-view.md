@@ -3,7 +3,7 @@ unique-page-id: 2949243
 description: SEO - 키워드 보기에서 열 추가/제거 - Marketo 문서 - 제품 설명서
 title: SEO - 키워드 보기에서 열 추가/제거
 exl-id: e1a360da-cfe1-41b2-82ab-d2d7a1c0e410
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+source-git-commit: 51ebbef7eac3c133f3bab14ba8899dfdab081ea6
 workflow-type: tm+mt
 source-wordcount: '80'
 ht-degree: 0%
@@ -14,7 +14,7 @@ ht-degree: 0%
 
 키워드 보기를 조정하여 가장 관심 있는 데이터를 표시할 수 있습니다.
 
-1. 로 이동합니다. **키워드** 섹션을 참조하십시오.
+1. 로 이동 **[!UICONTROL 키워드]** 섹션.
 
    ![](assets/image2014-9-18-13-3a37-3a31.png)
 
@@ -26,11 +26,11 @@ ht-degree: 0%
 
    ![](assets/image2014-9-18-13-3a37-3a39.png)
 
-1. 표시할 열을 선택하거나 선택 취소합니다. 클릭 **저장**.
+1. 보려는 열을 선택하거나 선택 취소합니다. 클릭 **[!UICONTROL 저장]**.
 
    ![](assets/image2014-9-18-13-3a37-3a42.png)
 
-   끝내줘! 이제 키워드 보기를 사용자 지정했습니다.
+   멋지다! 이제 키워드 보기를 맞춤화했습니다.
 
    ![](assets/image2014-9-18-13-3a37-3a46.png)
 
