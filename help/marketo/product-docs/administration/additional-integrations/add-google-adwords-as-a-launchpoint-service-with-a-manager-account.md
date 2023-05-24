@@ -1,22 +1,22 @@
 ---
 unique-page-id: 7504893
-description: 관리자 계정을 사용하여 Google AdWords as a Launch Service 추가 - Marketo 문서 - 제품 설명서
-title: 관리자 계정을 사용하여 Google AdWords를 Launchpoint 서비스로 추가
+description: "추가 [!DNL Google AdWords] as a [!DNL Launchpoint] 관리자 계정이 있는 서비스 - Marketo 문서 - 제품 설명서"
+title: "추가 [!DNL Google AdWords] as a [!DNL Launchpoint] 관리자 계정이 있는 서비스"
 exl-id: aac106f4-6615-49d5-a561-0dd965c7b0ff
-source-git-commit: 88c4e844f7ce26b12bae8177dd5311813fb4adcb
+source-git-commit: eb20d804a06bd02b61368e34ad1965a873d2fdf5
 workflow-type: tm+mt
-source-wordcount: '359'
+source-wordcount: '321'
 ht-degree: 1%
 
 ---
 
-# 관리자 계정을 사용하여 Google AdWords를 Launchpoint 서비스로 추가 {#add-google-adwords-as-a-launchpoint-service-with-a-manager-account}
+# 추가 [!DNL Google AdWords] as a [!DNL Launchpoint] 관리자 계정이 있는 서비스 {#add-google-adwords-as-a-launchpoint-service-with-a-manager-account}
 
-Google AdWords 계정을 Marketo에 연결하여 Marketo에서 Google AdWords로 오프라인 전환 데이터를 자동으로 업로드합니다. 그런 다음 AdWords UI에서 자격 조건을 갖춘 리드, 기회 및 신규 고객(또는 추적하려는 모든 수익 단계)이 발생한 클릭을 손쉽게 확인할 수 있습니다  [사용자 지정 열 추가](https://support.google.com/adwords/answer/3073556){target="_blank"} 참조하십시오. 이 정보는 Marketo UI에 표시되지 않습니다.
+링크 [!DNL Google AdWords] Marketo에 계정 을 추가하여 Marketo에서 (으)로 오프라인 전환 데이터를 자동으로 업로드 [!DNL Google AdWords]. 그런 다음 [!DNL AdWords] UI를 사용하면 자격이 있는 리드, 기회 및 신규 고객(또는 추적하려는 매출 단계)을 초래한 클릭 수를 이후에 쉽게 확인할 수 있습니다  [사용자 정의 열 추가](https://support.google.com/adwords/answer/3073556){target="_blank"} 위치: [!DNL AdWords]. 이 정보는 Marketo UI에 표시되지 않습니다.
 
-Google Adwords 계정이 여러 개 있는 경우 [Google AdWords Manager 계정](https://www.google.com/adwords/manager-accounts/){target="_blank"} (이전의 My Client Center) 를 사용하여 Marketo과 통합했습니다.
+여러 개 있는 경우 [!DNL Google Adwords] 계정, 다음을 사용할 수 있습니다. [[!DNL Google AdWords Manager Account]](https://www.google.com/adwords/manager-accounts/){target="_blank"} (이전 이름: [!DNL My Client Center])를 클릭하여 Marketo과 통합합니다.
 
-추가 정보 [Google의 오프라인 전환 가져오기 기능](https://support.google.com/adwords/answer/2998031?hl=en){target="_blank"}.
+자세히 알아보기 [Google의 오프라인 전환 가져오기 기능](https://support.google.com/adwords/answer/2998031?hl=en){target="_blank"}.
 
 >[!AVAILABILITY]
 >
@@ -24,75 +24,75 @@ Google Adwords 계정이 여러 개 있는 경우 [Google AdWords Manager 계정
 
 >[!NOTE]
 >
->**관리 권한 필요**
+>**관리자 권한 필요**
 
 >[!NOTE]
 >
->을 통합할 수도 있습니다 [Launchpoint 서비스로서의 독립형 Google AdWords 계정](/help/marketo/product-docs/administration/additional-integrations/add-google-adwords-as-a-launchpoint-service.md){target="_blank"}.
+>를 통합할 수도 있습니다. [독립형 [!DNL Google AdWords] 계정 as a [!DNL Launchpoint] 서비스](/help/marketo/product-docs/administration/additional-integrations/add-google-adwords-as-a-launchpoint-service.md){target="_blank"}.
 
-1. 로 이동합니다. **관리** 섹션을 참조하십시오.
+1. 로 이동 **[!UICONTROL 관리자]** 영역입니다.
 
    ![](assets/add-google-adwords-as-a-launchpoint-service-with-a-manager-1.png)
 
-1. 선택 **LaunchPoint**.
+1. 선택 **[!UICONTROL 시작 지점]**.
 
    ![](assets/add-google-adwords-as-a-launchpoint-service-with-a-manager-2.png)
 
-1. 을(를) 클릭합니다. **새로 만들기** 드롭다운 및 선택 **새 서비스**.
+1. 다음을 클릭합니다. **[!UICONTROL 신규]** 드롭다운 및 선택 **[!UICONTROL 새 서비스]**.
 
    ![](assets/add-google-adwords-as-a-launchpoint-service-with-a-manager-3.png)
 
-1. 표시 이름을 입력하고 을 선택합니다 **Google AdWords**.
+1. 입력 **[!UICONTROL 표시 이름]** 및 선택 **[!UICONTROL Google AdWords]**.
 
    ![](assets/add-google-adwords-as-a-launchpoint-service-with-a-manager-4.png)
 
-1. 선택 **Marketo 권한 부여**.
+1. 선택 **[!UICONTROL Marketo 승인]**.
 
    >[!NOTE]
    >
-   >개인 Gmail 계정에서 로그아웃하고 팝업을 활성화해야 합니다.
+   >개인 계정에서 로그아웃해야 합니다. [!DNL Gmail] 계정 및 팝업 활성화.
 
    ![](assets/add-google-adwords-as-a-launchpoint-service-with-a-manager-5.png)
 
-1. 연결된 계정을 선택합니다 **Google AdWords**.
+1. 연결된 계정 선택 **[!DNL Google AdWords]**.
 
    ![](assets/add-google-adwords-as-a-launchpoint-service-with-a-manager-6.png)
 
-1. 클릭 **수락**.
+1. 클릭 **[!UICONTROL Accept]**.
 
    ![](assets/add-google-adwords-as-a-launchpoint-service-with-a-manager-7.png)
 
-1. 상태가 **성공**. 선택 **다음**.
+1. 상태는 다음과 같이 표시됩니다. **[!UICONTROL 성공]**. 선택 **[!UICONTROL 다음]**.
 
    ![](assets/add-google-adwords-as-a-launchpoint-service-with-a-manager-8.png)
 
-1. Marketo에서 Google AdWords로 오프라인 전환 업로드 **주별** 또는 **일별**.
+1. Marketo에서 (으)로 오프라인 전환 업로드 [!DNL Google AdWords] **[!UICONTROL 매주]** 또는 **[!UICONTROL 매일]**.
 
    ![](assets/add-google-adwords-as-a-launchpoint-service-with-a-manager-9.png)
 
-1. 으로의 속성 전환 **첫 번째 클릭** 또는 **마지막 클릭**.
+1. 에 대한 속성 전환 **[!UICONTROL 첫 번째 클릭]** 또는 **[!UICONTROL 마지막 클릭]**.
 
    ![](assets/add-google-adwords-as-a-launchpoint-service-with-a-manager-10.png)
 
    | 유형 | 정의 |
    |---|---|
-   | 첫 번째 클릭 | 오프라인 전환은 지난 90일 동안 사용자가 클릭한 첫 번째 AdWords에 귀속됩니다 |
-   | 마지막 클릭 | 오프라인 전환은 사용자가 클릭한 마지막 AdWords에 귀속됩니다 |
+   | [!UICONTROL 첫 번째 클릭] | 오프라인 전환은 첫 번째 [!DNL AdWords] 지난 90일 동안 클릭한 항목 추가 |
+   | [!UICONTROL 마지막 클릭] | 오프라인 전환은 마지막 항목에 속합니다. [!DNL AdWords] 사용자가 클릭한 항목 추가 |
 
    >[!NOTE]
    >
-   >[자동 태깅](https://support.google.com/adwords/answer/1752125?hl=en){target="_blank"} 이 기능을 사용하려면 선택해야 합니다. AdWords 내에서 활성화되어야 합니다.
+   >[자동 태그 지정](https://support.google.com/adwords/answer/1752125?hl=en){target="_blank"} 이 기능을 사용하려면 을(를) 선택해야 합니다. 내부에서 활성화되어야 합니다. [!DNL AdWords].
 
-1. 클릭 **다음**.
+1. 클릭 **[!UICONTROL 다음]**.
 
    ![](assets/add-google-adwords-as-a-launchpoint-service-with-a-manager-11.png)
 
-1. 업데이트하지 않으려는 계정의 선택을 취소합니다. Click **Create**.
+1. 업데이트하지 않으려는 계정의 선택을 취소합니다. Click **[!UICONTROL Create]**.
 
    ![](assets/add-google-adwords-as-a-launchpoint-service-with-a-manager-12.png)
 
-   이제 매출 모델에서 AdWords 오프라인 전환을 매핑하는 방법에 대해서는 아래 관련 문서를 참조하십시오.
+   이제 매핑 방법에 대한 자세한 내용은 아래 관련 문서를 참조하십시오 [!DNL AdWords] 수익 모델에서 오프라인 전환.
 
    >[!MORELIKETHIS]
    >
-   >[관리자 계정을 사용하여 매출 모델에서 Google AdWords 전환 을 설정합니다](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-cycle-models/set-google-adwords-conversions-in-the-revenue-model-with-a-manager-account.md){target="_blank"}
+   >[설정 [!DNL Google AdWords] 관리자 계정을 사용한 수익 모델의 전환](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-cycle-models/set-google-adwords-conversions-in-the-revenue-model-with-a-manager-account.md){target="_blank"}
