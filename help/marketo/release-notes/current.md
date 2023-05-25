@@ -2,10 +2,10 @@
 description: 현재 릴리스 정보 - Marketo 설명서 - 제품 설명서
 title: 최신 릴리스 정보
 exl-id: a2eccad5-73ad-48f9-8091-51cee23824e1
-source-git-commit: 5fc6de5b333e3008ebd542171b6bce8b29701d07
+source-git-commit: 81ee349dbbe48c70b040751cae750c3684b71c78
 workflow-type: tm+mt
-source-wordcount: '401'
-ht-degree: 6%
+source-wordcount: '418'
+ht-degree: 5%
 
 ---
 
@@ -47,8 +47,8 @@ ht-degree: 6%
    <td><b>설명서 업데이트 정보</b></td>
   </tr>
   <tr> 
-   <td><i>곧 출시 예정</i></td>
-   <td><i>곧 출시 예정</i></td>
+   <td>배송됨</td>
+   <td><a href="https://experienceleague.adobe.com/docs/marketo/using/getting-started-with-marketo/help-center.html">도움말 센터</a></td>
   </tr>
   </tbody>
 </table>
@@ -73,8 +73,8 @@ ht-degree: 6%
    <td><b>설명서 업데이트 정보</b></td>
   </tr>
   <tr> 
-   <td><i>곧 출시 예정</i></td>
-   <td><i>곧 출시 예정</i></td>
+   <td>롤아웃 시작됨</td>
+   <td><a href="https://experienceleague.adobe.com/docs/marketo/using/product-docs/demand-generation/events/interactive-webinars/interactive-webinars-overview.html">대화형 웨비나 개요</a></td>
   </tr>
   </tbody>
 </table>

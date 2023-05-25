@@ -1,64 +1,64 @@
 ---
 description: 이메일 보트 활동 필터링 - Marketo 문서 - 제품 설명서
-title: 전자 메일 보트 활동 필터링
+title: 이메일 보트 활동 필터링
 exl-id: 70c97159-72bf-46e5-b29b-247615d0fa80
-source-git-commit: 788084582a616b3cadd45f19d7a4779dad6f8c98
+source-git-commit: 81ee349dbbe48c70b040751cae750c3684b71c78
 workflow-type: tm+mt
 source-wordcount: '470'
 ht-degree: 14%
 
 ---
 
-# 전자 메일 보트 활동 필터링 {#filtering-email-bot-activity}
+# 이메일 보트 활동 필터링 {#filtering-email-bot-activity}
 
-경우에 따라 이메일 보트 활동이 이메일 열기 및 데이터 클릭 수를 잘못 부풀릴 수 있습니다. 아래 절차에 따라 이 문제를 해결하십시오.
+경우에 따라 이메일 봇 활동이 이메일 열기 및 클릭 데이터를 잘못 부풀릴 수 있습니다. 이 문제를 해결하려면 아래 단계를 따르십시오.
 
-두 개의 별도 메서드를 사용하여 보트 활동을 확인합니다.
+보트 활동을 확인하기 위해 세 가지 메서드를 사용합니다.
 
-* 일치 [Interactive Advertising Bureau 보트 목록](https://www.iab.com/guidelines/iab-abc-international-spiders-bots-list/){target="_blank"}: IAB UA/IP(사용자 에이전트/IP 주소) 목록에 있는 무엇과도 일치하는 활동은 보트로 표시됩니다.
-* 근접 패턴과 일치: 두 개 이상의 활동이 동시에(초 이내)발생하면 보트로 식별됩니다. 비교 중에 고려되는 속성은 다음과 같습니다.
-   * 리드 ID(같아야 함)
-   * 이메일 자산(같아야 함)
-   * 링크 클릭 또는 전자 메일 열기
+* 다음과 일치 [Interactive Advertising Bureau 보트 목록](https://www.iab.com/guidelines/iab-abc-international-spiders-bots-list/){target="_blank"}: IAB UA/IP(사용자 에이전트/IP 주소) 목록의 항목과 일치하는 활동은 봇으로 표시됩니다.
+* 근접 패턴과 일치: 두 개 이상의 활동이 동시에 발생하는 경우(초 이내) 이 활동은 봇으로 식별됩니다. 비교 시 고려되는 속성은 다음과 같습니다.
+   * 잠재 고객 ID(같아야 함)
+   * 이메일 자산(동일해야 함)
+   * 링크 클릭 또는 이메일 열기
    * 시간 차이(1초 미만이어야 함)
 
 이메일 링크 클릭 및 이메일 열기 활동에 대해 새 속성은 아래 값으로 채워집니다.
 
-* 보트로 식별되는 활동에는 &quot;보트 활동&quot;이 &quot;True&quot;로 설정되고, &quot;보트 활동 패턴&quot;이 식별된 패턴/메서드로 사용됩니다
-* 보트가 아닌 것으로 식별되는 활동에는 &quot;보트 활동&quot;이 &quot;False&quot;로 표시되고, &quot;보트 활동 패턴&quot;은 &quot;N/A&quot;로 표시됩니다
-* 이러한 속성을 도입하기 전에 발생한 활동의 &quot;보트 활동&quot;은 &quot; (비어 있음) &quot;으로 표시되고, &quot;보트 활동 패턴&quot;은 &quot; &quot; (비어 있음)로 표시됩니다
+* 봇으로 식별되는 활동에는 식별된 패턴/방법으로 &quot;봇 활동&quot;이 &quot;True&quot;이고 &quot;봇 활동 패턴&quot;이 있습니다.
+* 보트가 아닌 것으로 식별된 활동에는 &quot;보트 활동&quot;이 &quot;False&quot;이고 &quot;보트 활동 패턴&quot;이 &quot;N/A&quot;입니다.
+* 이러한 속성을 도입하기 전에 발생한 활동에는 &quot;보트 활동&quot;이 &quot; &quot;(비어 있음)으로, &quot;보트 활동 패턴&quot;이 &quot; &quot;(비어 있음)으로 표시됩니다.
 
 ## 필터 유형 선택 {#select-filter-type}
 
-1. 클릭 **관리**.
+1. 클릭 **[!UICONTROL 관리자]**.
 
    ![](assets/filtering-email-bot-activity-1.png)
 
-1. 클릭 **이메일**.
+1. 클릭 **[!UICONTROL 이메일]**.
 
    ![](assets/filtering-email-bot-activity-2.png)
 
-1. 을(를) 클릭합니다. **보트 활동** 탭.
+1. 다음을 클릭합니다. **[!UICONTROL 보트 활동]** 탭.
 
    ![](assets/filtering-email-bot-activity-3.png)
 
-1. 선택 **IAB 목록과 일치**, **근접 패턴과 일치**&#x200B;또는 둘 다 사용할 수 있습니다. 보트 활동을 기록할지 여부를 선택합니다 _또는_ 보트 활동을 필터링합니다.
+1. 다음을 선택합니다. **[!UICONTROL IAB 목록과 일치]**, **[!UICONTROL 근접 패턴과 일치]**&#x200B;또는 둘 다. 선택 [!UICONTROL 로그 보트 활동] _또는_ [!UICONTROL 보트 활동 필터링].
 
    ![](assets/filtering-email-bot-activity-4.png)
 
 >[!NOTE]
 >
->보트 활동 필터링 을 선택하는 경우 잘못된 활동이 제외되므로 이메일 열기 및 클릭 수가 줄어들 수 있습니다.
+>다음을 선택하는 경우 [!UICONTROL 보트 활동 필터링]에서 false 활동이 삭제되면 이메일이 열리고 클릭수가 줄어드는 것을 볼 수 있습니다.
 
-**옵션 단계**: 이 기능을 비활성화하려면 슬라이더를 선택 취소하면 됩니다. 비활성화하면 데이터가 재설정되지 않습니다.
+**선택적 단계**: 이 기능을 비활성화하려면 슬라이더를 선택 취소하면 됩니다. 비활성화하면 데이터가 재설정되지 않습니다.
 
 >[!TIP]
 >
->&quot;Clicked Link in Email&quot; 및 &quot;Open Email&quot; 필터에서 &quot;Is Bot Activity&quot; 부울(예/아니요) 및 &quot;보트 활동 패턴&quot; 을 통해 Smart List에서 보트 활동 데이터를 활용하고 &quot;Click Link in Email&quot; 및 &quot;Open Email&quot; 트리거를 사용합니다.
+>&quot;이메일에서 링크를 클릭함&quot; 및 &quot;이메일 열기&quot; 필터와 &quot;이메일에서 링크를 클릭함&quot; 및 &quot;이메일을 엽니다&quot; 트리거에서 &quot;보트 활동임&quot; 부울(예/아니요) 및 &quot;보트 활동 패턴&quot;을 통해 스마트 목록의 보트 활동 데이터를 활용합니다.
 
-## IP 차단 목록에 추가하다 {#ip-blocklist}
+## IP 차단 목록 {#ip-blocklist}
 
-다음 IP에서 받은 이러한 참여가 자동으로 필터링되어 Marketo Engage 인스턴스에 추가되지 않으므로 수백만 개의 가짜 참여를 생성하는 책임이 있는 IP 주소 목록을 컴파일했습니다. 이로 인해 이메일 열기, 클릭 수 및 기타 관련 활동이 줄어들 수 있습니다. 아래 목록은 정기적으로 업데이트될 수 있습니다.
+다음 IP에서 받은 이러한 참여는 자동으로 필터링되고 Marketo Engage 인스턴스에 추가되지 않으므로 수백만 개의 가짜 참여를 생성하는 IP 주소 목록을 컴파일했습니다. 이를 통해 이메일 열기, 클릭 수 및 기타 관련 활동이 감소할 수 있습니다. 아래 목록은 주기적으로 업데이트될 수 있습니다.
 
 * 40.94.34.52
 * 40.94.34.86
@@ -130,4 +130,4 @@ ht-degree: 14%
 
 >[!NOTE]
 >
->이 목록에 추가하기 전에 모든 IP 주소를 꼼꼼하게 분석하고 면밀히 관찰하여 가장 중요하고 유해한 IP만 차단합니다.
+>모든 IP 주소를 이 목록에 추가하기 전에 꼼꼼하게 분석하고 검사하여 가장 중요하고 해로운 IP만 차단되도록 합니다.
