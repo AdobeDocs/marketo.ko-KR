@@ -2,9 +2,9 @@
 description: 현재 릴리스 정보 - Marketo 설명서 - 제품 설명서
 title: 최신 릴리스 정보
 exl-id: a2eccad5-73ad-48f9-8091-51cee23824e1
-source-git-commit: 80512816eaf0a70a3f10a50c34aeea14edd9046b
+source-git-commit: 5fc6de5b333e3008ebd542171b6bce8b29701d07
 workflow-type: tm+mt
-source-wordcount: '431'
+source-wordcount: '401'
 ht-degree: 6%
 
 ---
@@ -99,4 +99,4 @@ ht-degree: 6%
 
 ## 공지 {#announcements}
 
-* **_제품 릴리스 웨비나_**: 2023년 5월 17일 오전 9시(PT 기준) / 오후 12시(ET 기준) [라이브 웨비나용](https://engage.marketo.com/2023_March_May_Release_Webinar_RegistrationPage.html){target="_blank"} 제품 팀에서 호스팅하며 2023년 3월과 5월 릴리스에서 제공되는 모든 최신 제품 혁신을 사용하는 방법을 배울 수 있습니다.
+* **_제품 릴리스 웨비나_**: [2023년 3월 및 5월 Marketo Engage 릴리스 웨비나](https://engage.marketo.com/2023_March_May_Release_Webinar_OnDemandPage.html){target="_blank"}
