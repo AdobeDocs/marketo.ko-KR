@@ -1,28 +1,28 @@
 ---
 unique-page-id: 45417092
-description: 데이터에 의해 사용되는 필드 내보내기 - Marketo 문서 - 제품 설명서
-title: 데이터에 의해 사용되는 필드 내보내기
+description: 필드에서 데이터에 의해 사용되는 내보내기 - Marketo 문서 - 제품 설명서
+title: 필드에서 데이터에 의해 사용되는 내보내기
 exl-id: 6d7aab4d-1c4d-48f8-aeea-a926628ebf0d
-source-git-commit: b13360b009aea869bbd96a9cd0888bb121afdcd2
+source-git-commit: 20c41143d1e7839352dddbfea0951c2633987692
 workflow-type: tm+mt
-source-wordcount: '0'
+source-wordcount: '102'
 ht-degree: 0%
 
 ---
 
-# 데이터에 의해 사용되는 필드 내보내기 {#export-used-by-data-for-a-field}
+# 필드에서 데이터에 의해 사용되는 내보내기 {#export-used-by-data-for-a-field}
 
-관리자는 필드의 관련 자산을 내보내 해당 연결 해제를 팀에 위임할 수 있습니다.
+관리자는 필드의 관련 에셋을 내보낼 수 있으므로 해당 링크 해제를 팀에 위임할 수 있습니다.
 
 >[!NOTE]
 >
->**관리 권한 필요**
+>**관리자 권한 필요**
 
-1. 로 이동합니다. **관리** 영역.
+1. 로 이동 **[!UICONTROL 관리자]** 영역입니다.
 
    ![](assets/export-used-by-data-for-a-field-1.png)
 
-1. 클릭 **필드 관리**.
+1. 클릭 **[!UICONTROL 필드 관리]**.
 
    ![](assets/export-used-by-data-for-a-field-2.png)
 
@@ -30,14 +30,14 @@ ht-degree: 0%
 
    ![](assets/export-used-by-data-for-a-field-3.png)
 
-1. 을(를) 클릭합니다. **필드 작업** 드롭다운 및 선택 **사용한 내보내기**.
+1. 다음을 클릭합니다. **[!UICONTROL 필드 작업]** 드롭다운 및 선택 **[!UICONTROL 내보내기 사용]**.
 
    ![](assets/export-used-by-data-for-a-field-4.png)
 
-1. Excel 파일이 내보내집니다. 콘텐츠를 보려면 엽니다.
+1. An [!DNL Excel] 파일을 내보냅니다. 컨텐츠를 보려면 엽니다.
 
    ![](assets/export-used-by-data-for-a-field-5.png)
 
    >[!TIP]
    >
-   >각 관련 자산은 클릭할 수 있는 링크이며 Marketo에서 열립니다.
+   >관련된 각 에셋은 클릭할 수 있는 링크이며 Marketo에서 열립니다.

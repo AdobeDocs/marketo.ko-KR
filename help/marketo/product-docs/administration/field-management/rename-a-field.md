@@ -1,11 +1,11 @@
 ---
 unique-page-id: 2360293
-description: 필드 이름 변경 - Marketo 문서 - 제품 설명서
+description: 필드 이름 바꾸기 - Marketo 문서 - 제품 설명서
 title: 필드 이름 바꾸기
 exl-id: 3c9558b6-df08-4687-94ac-61a2f70628a4
-source-git-commit: b13360b009aea869bbd96a9cd0888bb121afdcd2
+source-git-commit: 20c41143d1e7839352dddbfea0951c2633987692
 workflow-type: tm+mt
-source-wordcount: '0'
+source-wordcount: '125'
 ht-degree: 0%
 
 ---
@@ -14,17 +14,17 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->Marketo에서 사용자 지정 필드의 이름을 바꿀 수 있지만 다음과 같은 한 가지 catch가 있습니다. 시스템에서 모든 사용을 제거해야 합니다. 여기에는 양식, 스마트 목록 및 스마트 캠페인이 포함됩니다.
+>Marketo에서 사용자 정의 필드의 이름을 변경할 수 있지만 한 가지 사항이 있습니다. 변경하기 전에 시스템에서 해당 필드를 모두 제거해야 합니다. 여기에는 양식, 스마트 목록 및 스마트 캠페인이 포함됩니다.
 
 >[!NOTE]
 >
->**관리 권한 필요**
+>**관리자 권한 필요**
 
-1. 로 이동합니다. **관리** 영역.
+1. 로 이동 **[!UICONTROL 관리자]** 영역입니다.
 
    ![](assets/rename-a-field-1.png)
 
-1. 클릭 **필드 관리**.
+1. 클릭 **[!UICONTROL 필드 관리]**.
 
    ![](assets/rename-a-field-2.png)
 
@@ -34,9 +34,9 @@ ht-degree: 0%
 
    >[!TIP]
    >
-   >을(를) 클릭합니다. **사용자** 링크를 클릭하여 이 필드를 참조하는 자산을 찾습니다.
+   >다음을 클릭합니다. **[!UICONTROL 사용한 사람]** 링크를 클릭하여 이 필드를 참조하는 자산을 찾습니다.
 
-1. 필드 이름을 변경하고 를 클릭합니다 **저장**.
+1. 필드 이름을 바꾸고 를 클릭합니다. **[!UICONTROL 저장]**.
 
    ![](assets/rename-a-field-4.png)
 
@@ -44,4 +44,4 @@ ht-degree: 0%
 
 >[!CAUTION]
 >
->Salesforce에서 API 이름을 바꾸면 Marketo에서 완전히 새 필드를 만들고 이전 필드를 뒤에 둡니다.
+>Salesforce에서 API 이름을 바꾸면 Marketo에서 새 필드를 만들고 이전 필드는 남겨 둡니다.

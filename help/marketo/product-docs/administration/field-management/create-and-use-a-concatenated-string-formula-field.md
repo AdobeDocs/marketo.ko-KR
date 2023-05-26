@@ -1,40 +1,40 @@
 ---
 unique-page-id: 2360337
 description: 연결된 문자열(수식) 필드 만들기 및 사용 - Marketo 문서 - 제품 설명서
-title: 연결된 문자열(수식) 필드 만들기 및 사용
+title: 연결된 문자열(공식) 필드 만들기 및 사용
 exl-id: 779fbc56-a913-422a-a778-d86cc3ed7d48
-source-git-commit: b13360b009aea869bbd96a9cd0888bb121afdcd2
+source-git-commit: 20c41143d1e7839352dddbfea0951c2633987692
 workflow-type: tm+mt
-source-wordcount: '0'
+source-wordcount: '173'
 ht-degree: 0%
 
 ---
 
-# 연결된 문자열(수식) 필드 만들기 및 사용 {#create-and-use-a-concatenated-string-formula-field}
+# 연결된 문자열(공식) 필드 만들기 및 사용 {#create-and-use-a-concatenated-string-formula-field}
 
-여러 필드의 값을 결합하거나 Marketo 수식 필드를 사용하여 조건부 값을 작성할 수 있습니다.
+여러 필드의 값을 결합하거나 Marketo 공식 필드를 사용하여 조건부 값을 작성할 수 있습니다.
 
-1. 로 이동합니다. **관리** 영역.
+1. 로 이동 **[!UICONTROL 관리자]** 영역입니다.
 
    ![](assets/create-and-use-a-concatenated-string-formula-field-1.png)
 
-1. 클릭 **필드 관리**.
+1. 클릭 **[!UICONTROL 필드 관리]**.
 
    ![](assets/create-and-use-a-concatenated-string-formula-field-2.png)
 
-1. 클릭 **새 사용자 지정 필드**.
+1. 클릭 **[!UICONTROL 새 사용자 정의 필드]**.
 
    ![](assets/create-and-use-a-concatenated-string-formula-field-3.png)
 
-1. 선택 **공식** 대상 **유형**.
+1. 선택 **[!UICONTROL 공식]** 대상: **[!UICONTROL 유형]**.
 
    ![](assets/create-and-use-a-concatenated-string-formula-field-4.png)
 
-1. 을(를) 입력합니다. **이름** 필드에 대해 을(를) 클릭한 다음 **만들기**.
+1. 입력 **[!UICONTROL 이름]** 을 클릭하여 필드를 만듭니다. **[!UICONTROL 만들기]**.
 
    ![](assets/create-and-use-a-concatenated-string-formula-field-5.png)
 
-1. 수식 필드를 찾아 선택한 다음 를 클릭합니다. **규칙 편집**.
+1. 공식 필드를 찾아 선택한 다음 **[!UICONTROL 규칙 편집]**.
 
    ![](assets/create-and-use-a-concatenated-string-formula-field-6.png)
 
@@ -44,14 +44,14 @@ ht-degree: 0%
 
    >[!TIP]
    >
-   >추가 정보 [흐름 단계에 대한 토큰](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/use-tokens-in-flow-steps.md).
+   >자세히 알아보기 [흐름 단계용 토큰](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/use-tokens-in-flow-steps.md).
 
-1. 이제 이메일에서 공식 필드를 토큰으로 추가할 수 있습니다.
+1. 이제 공식 필드를 이메일에 토큰으로 추가할 수 있습니다.
 
    ![](assets/create-and-use-a-concatenated-string-formula-field-8.png)
 
 >[!NOTE]
 >
->공식 필드는 랜딩 페이지, 이메일 및 스마트 목록 열에서 사용할 수 있습니다(내보내지 않음). 공식 필드가 있는 이메일은 다음 작업을 수행할 수 있습니다 **not** 배치 캠페인을 사용하여 전송됩니다. 다음 코드를 사용하십시오 [전자 메일 스크립트 토큰](/help/marketo/product-docs/email-marketing/general/using-tokens/create-an-email-script-token.md) 을 참조하십시오.
+>공식 필드는 랜딩 페이지, 이메일 및 스마트 목록 열에서 사용할 수 있습니다(내보내지 않음). 공식 필드가 있는 이메일은 _아님_ 일괄 캠페인을 사용하여 전송됩니다. 을(를) 사용하십시오. [이메일 스크립트 토큰](/help/marketo/product-docs/email-marketing/general/using-tokens/create-an-email-script-token.md) 이 시나리오에서는
 
-잘했어! 이제 당신은 성별에 따라 어떤 인사법을 포함시켜야 하는지 아는 똑똑한 분야를 가지고 있습니다. 이것을 가지고 즐거운 시간을 보내고 창의력을 얻으세요.
+잘했어요! 이제 성별에 따른 인사말이 무엇인지 아는 똑똑한 분야가 생겼습니다. 이것들로 재미있게 놀고 창의적으로 하세요.
