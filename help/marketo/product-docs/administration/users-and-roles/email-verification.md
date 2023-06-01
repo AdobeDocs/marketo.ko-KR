@@ -2,9 +2,9 @@
 description: 이메일 확인 - Marketo 문서 - 제품 설명서
 title: 전자 메일 확인
 exl-id: 976e46a7-8c85-45ed-86c1-0c5cdb2d5c3e
-source-git-commit: e104a8bd41d61451202ba089512dc688680292ce
+source-git-commit: 247e032254757789efddeef17bc589ba0ac85d49
 workflow-type: tm+mt
-source-wordcount: '279'
+source-wordcount: '294'
 ht-degree: 0%
 
 ---
@@ -19,7 +19,7 @@ Adobe Marketo Engage 구독을 사용하려면 Marketo Engage 관리자를 포�
 
 ## 확인 전자 메일 {#verification-email}
 
-초대된 사용자는 다음 이메일을 받게 됩니다.
+구독에 대해 이메일 인증이 활성화되거나 관리자/사용자에 의해 트리거되는 경우 사용자는 다음 이메일을 받게 됩니다.
 
 ![](assets/email-verification-1.png)
 
