@@ -3,9 +3,9 @@ audience: end-user
 user-guide-title: Marketo 안내서
 user-guide-description: Marketo 제품 설명서
 feature-set: Marketo Engage
-source-git-commit: 178100fd0e30ed45632c80c3e9d288c6ff2a3a76
+source-git-commit: 4959a5780ae89f7b715485e9106aa275f2b155a1
 workflow-type: tm+mt
-source-wordcount: '8890'
+source-wordcount: '8900'
 ht-degree: 0%
 
 ---
@@ -1373,6 +1373,11 @@ ht-degree: 0%
                + [Select 및 Send를 사용하여 일괄 이메일 작성](product-docs/marketo-sales-insight/actions/email/using-the-compose-window/composing-bulk-emails-with-select-and-send.md)
                + [그룹 이메일을 통해 이메일 보내기](product-docs/marketo-sales-insight/actions/email/using-the-compose-window/sending-emails-via-group-email.md)
                + [작성 창에서 템플릿 사용](product-docs/marketo-sales-insight/actions/email/using-the-compose-window/using-a-template-in-the-compose-window.md)
+         + 이메일 통합 {#email-integrations}
+            + Gmail {#gmail}
+               + [Gmail에 연결](product-docs/marketo-sales-insight/actions/email-integrations/gmail/connect-to-gmail.md)
+            + Outlook {#outlook}
+               + [Outlook에 연결](product-docs/marketo-sales-insight/actions/email-integrations/outlook/connect-to-outlook.md)
          + FAQ {#faq}
             + [삭제한 연락처 또는 그룹을 복구할 수 있습니까?](product-docs/marketo-sales-insight/actions/faq/can-i-recover-a-contact-or-group-i-deleted.md)
             + [CC/BCC로 여러 수신자를 추적할 수 있습니까?](product-docs/marketo-sales-insight/actions/faq/can-i-track-multiple-recipients-with-cc-bcc.md)
