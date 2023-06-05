@@ -2,10 +2,10 @@
 description: 현재 릴리스 정보 - Marketo 설명서 - 제품 설명서
 title: 최신 릴리스 정보
 exl-id: a2eccad5-73ad-48f9-8091-51cee23824e1
-source-git-commit: 81ee349dbbe48c70b040751cae750c3684b71c78
+source-git-commit: 159c0aee929327fc1e1f22d0de3abb7380935d86
 workflow-type: tm+mt
-source-wordcount: '418'
-ht-degree: 5%
+source-wordcount: '368'
+ht-degree: 3%
 
 ---
 
@@ -33,8 +33,8 @@ ht-degree: 5%
    <td><b>설명서 업데이트 정보</b></td>
   </tr>
   <tr> 
-   <td><i>곧 출시 예정</i></td>
-   <td><i>곧 출시 예정</i></td>
+   <td>배송됨</td>
+   <td><a href="/help/marketo/product-docs/adobe-experience-cloud-integrations/experience-cloud-interface-overview.md">Experience Cloud 인터페이스 개요</a></td>
   </tr>
   </tbody>
 </table>
@@ -75,24 +75,6 @@ ht-degree: 5%
   <tr> 
    <td>롤아웃 시작됨</td>
    <td><a href="https://experienceleague.adobe.com/docs/marketo/using/product-docs/demand-generation/events/interactive-webinars/interactive-webinars-overview.html">대화형 웨비나 개요</a></td>
-  </tr>
-  </tbody>
-</table>
-
-### Dynamic Chat {#dynamic-chat}
-
-</br>
-
-* **Dynamic Chat에 대한 채팅 소스**: 이제 &quot;채팅&quot;이 새로운 개인 레코드 및 활동의 소스로 제공됩니다. 이 소스를 사용하여 사용자가 스마트 목록/캠페인의 활동을 필터링할 수 있습니다. 필드의 업데이트에서 소스를 차단할 수도 있습니다.
-
-<table> 
-  <tr> 
-   <td><b>상태</b></td>
-   <td><b>설명서 업데이트 정보</b></td>
-  </tr>
-  <tr> 
-   <td><i>곧 출시 예정</i></td>
-   <td><i>곧 출시 예정</i></td>
   </tr>
   </tbody>
 </table>
