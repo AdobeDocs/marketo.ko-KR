@@ -3,9 +3,9 @@ audience: end-user
 user-guide-title: Marketo 안내서
 user-guide-description: Marketo 제품 설명서
 feature-set: Marketo Engage
-source-git-commit: 4959a5780ae89f7b715485e9106aa275f2b155a1
+source-git-commit: 3e0836fd9f40436564c7b2d8bb58a7f771e49c33
 workflow-type: tm+mt
-source-wordcount: '8900'
+source-wordcount: '8904'
 ht-degree: 0%
 
 ---
@@ -1310,7 +1310,6 @@ ht-degree: 0%
                + [전자 메일 서명 추가 또는 업데이트](product-docs/marketo-sales-insight/actions/getting-started/email-settings/add-or-update-your-email-signature.md)
                + [ID 추가](product-docs/marketo-sales-insight/actions/getting-started/email-settings/add-identity.md)
          + 관리자 {#admin}
-            + [작업 데이터 동기화 FAQ](product-docs/marketo-sales-insight/actions/admin/actions-data-sync-faq.md)
             + [Salesforce에서 자동 로그인](product-docs/marketo-sales-insight/actions/admin/auto-login-from-salesforce.md)
             + [차단된 도메인](product-docs/marketo-sales-insight/actions/admin/blocked-domains.md)
             + [Marketo에 새 관리자 연결](product-docs/marketo-sales-insight/actions/admin/connect-new-admin-to-marketo.md)
@@ -1320,6 +1319,7 @@ ht-degree: 0%
             + [사용자 및 관리자 초대](product-docs/marketo-sales-insight/actions/admin/invite-users-and-admins.md)
             + [로그인 관리 설정](product-docs/marketo-sales-insight/actions/admin/login-management-settings.md)
             + [공유 설정](product-docs/marketo-sales-insight/actions/admin/sharing-settings.md)
+            + [영업 활동 데이터를 Marketo 및 Salesforce와 동기화](product-docs/marketo-sales-insight/actions/admin/sync-sales-action-data-with-marketo-and-salesforce.md)
             + [사용자 액세스 세부 정보](product-docs/marketo-sales-insight/actions/admin/user-access-details.md)
          + 분석 {#analytics}
             + [Analytics 페이지 개요](product-docs/marketo-sales-insight/actions/analytics/analytics-page-overview.md)
