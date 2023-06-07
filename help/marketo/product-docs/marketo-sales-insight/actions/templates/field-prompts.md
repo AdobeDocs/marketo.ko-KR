@@ -1,7 +1,7 @@
 ---
 description: 필드 프롬프트 - Marketo 문서 - 제품 설명서
 title: 필드 프롬프트
-source-git-commit: 466df1fbd561860152f9fea02edb6eab5670c90a
+source-git-commit: b4773137bf21eccc58a6d975d50748e8ff2a57db
 workflow-type: tm+mt
 source-wordcount: '160'
 ht-degree: 0%
@@ -22,7 +22,7 @@ ht-degree: 0%
 
 `{{! Add sentence that references their industry and role}}`
 
-사용자는 이메일을 보내기 전에 이 텍스트를 자신의 개인화로 바꾸어야 합니다.
+<p>사용자는 이메일을 보내기 전에 이 텍스트를 자신의 개인화로 바꾸어야 합니다.
 
 >[!NOTE]
 >
