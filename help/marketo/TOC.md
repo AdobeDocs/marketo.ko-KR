@@ -3,9 +3,9 @@ audience: end-user
 user-guide-title: Marketo 안내서
 user-guide-description: Marketo 제품 설명서
 feature-set: Marketo Engage
-source-git-commit: 3e0836fd9f40436564c7b2d8bb58a7f771e49c33
+source-git-commit: 466df1fbd561860152f9fea02edb6eab5670c90a
 workflow-type: tm+mt
-source-wordcount: '8904'
+source-wordcount: '8906'
 ht-degree: 0%
 
 ---
@@ -1430,6 +1430,7 @@ ht-degree: 0%
          + 템플릿 {#templates}
             + [하이퍼링크가 연결된 텍스트 추가](product-docs/marketo-sales-insight/actions/templates/add-hyperlinked-text.md)
             + [동적 필드](product-docs/marketo-sales-insight/actions/templates/dynamic-fields.md)
+            + [필드 프롬프트](product-docs/marketo-sales-insight/actions/templates/field-prompts.md)
             + [템플릿 관리](product-docs/marketo-sales-insight/actions/templates/manage-templates.md)
             + [템플릿 범주 관리](product-docs/marketo-sales-insight/actions/templates/manage-template-categories.md)
             + [추천 템플릿](product-docs/marketo-sales-insight/actions/templates/recommended-templates.md)
