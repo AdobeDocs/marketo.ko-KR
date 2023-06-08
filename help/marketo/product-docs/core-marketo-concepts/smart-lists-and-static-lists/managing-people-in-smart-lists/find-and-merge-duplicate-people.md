@@ -3,9 +3,9 @@ unique-page-id: 557339
 description: 중복 사용자 찾기 및 병합 - Marketo 문서 - 제품 설명서
 title: 중복 사용자 찾기 및 병합
 exl-id: a6d46096-587a-4e3a-b37a-917c0d2098b1
-source-git-commit: 780071242a608706e06f3026150c43441a29faa5
+source-git-commit: b71729a678ff4a676bb60803d845d0a44118f7e5
 workflow-type: tm+mt
-source-wordcount: '439'
+source-wordcount: '423'
 ht-degree: 0%
 
 ---
@@ -20,7 +20,7 @@ Marketo은 새로운 사용자가 시스템에 들어오면 자동으로 중복 
 
 >[!PREREQUISITES]
 >
->중복 항목을 찾아서 병합하려면 다음을 사용합니다. [기본 제공/시스템 스마트 목록](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/using-smart-lists/use-built-in-system-smart-lists.md).
+>중복 항목을 찾아서 병합하려면 다음을 사용합니다. [기본 제공/시스템 스마트 목록](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/using-smart-lists/use-built-in-system-smart-lists.md){target="_blank"}.
 
 >[!NOTE]
 >
@@ -42,7 +42,7 @@ Marketo은 새로운 사용자가 시스템에 들어오면 자동으로 중복 
 
    >[!NOTE]
    >
-   >다음을 수행할 수도 있습니다. [사용자 지정 논리로 중복 사용자 찾기](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/managing-people-in-smart-lists/find-duplicate-people-with-custom-logic.md).
+   >다음을 수행할 수도 있습니다. [사용자 지정 논리로 중복 사용자 찾기](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/managing-people-in-smart-lists/find-duplicate-people-with-custom-logic.md){target="_blank"}.
 
 ## 수동으로 사람 병합 {#merge-people-manually}
 
@@ -72,18 +72,16 @@ Marketo은 새로운 사용자가 시스템에 들어오면 자동으로 중복 
 
 ## Salesforce의 효과 {#effect-in-salesforce}
 
-Salesforce 통합이 있는 경우 Salesforce의 잠재 고객 병합 효과에 대한 몇 가지 참고 사항이 있습니다.
+Salesforce 통합이 있는 경우 Salesforce의 가망 고객 병합 효과에 대한 몇 가지 참고 사항이 있습니다.
 
 * Lead 만 병합하거나 Contact 만 병합하는 경우 일반적인 Salesforce 규칙에 따라 병합됩니다.
 * Lead 와 Contact 를 병합할 경우 모든 Lead 는 일반적인 Salesforce 규칙에 따라 병합하기 전에 Contact 로 변환됩니다.
 
 Leads 또는 Contact 를 병합할 때의 Salesforce 동작에 대한 자세한 내용은 다음 Salesforce 문서를 확인하십시오.
 
-* [중복 잠재 고객 병합](https://help.salesforce.com/HTViewHelpDoc?id=leads_merge.htm&amp;language=en_US)
-* [중복 연락처 병합](https://help.salesforce.com/HTViewHelpDoc?id=contacts_merge.htm&amp;language=en_US)
+* [중복 잠재 고객 병합](https://help.salesforce.com/HTViewHelpDoc?id=leads_merge.htm&amp;language=en_US){target="_blank"}
+* [중복 연락처 병합](https://help.salesforce.com/HTViewHelpDoc?id=contacts_merge.htm&amp;language=en_US){target="_blank"}
 
 ## 벌크 병합 {#bulk-merging}
 
 중복 항목이 너무 많아 수동으로 병합할 수 없는 경우에는 Adobe 계정 팀(계정 관리자)에 문의하여 옵션에 대해 논의하십시오.
-
-CRM에 연결된 경우 아래 규칙에 따라 레코드가 병합됩니다.

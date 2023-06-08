@@ -3,7 +3,7 @@ unique-page-id: 2360215
 description: 계정에 대해 개인화된 URL 활성화 - Marketo 문서 - 제품 설명서
 title: 계정에 대해 개인화된 URL 활성화
 exl-id: 3fdf6112-f483-4a86-ba8b-43a3d733227a
-source-git-commit: bd6f049d5959356a99314e81bb6cfe517c2efdfa
+source-git-commit: b71729a678ff4a676bb60803d845d0a44118f7e5
 workflow-type: tm+mt
 source-wordcount: '92'
 ht-degree: 0%
@@ -16,26 +16,26 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->**관리 권한 필요**
+>**관리자 권한 필요**
 
-1. 로 이동합니다. **관리** 영역.
+1. 로 이동 **[!UICONTROL 관리자]** 영역입니다.
 
    ![](assets/enable-personalized-urls-for-your-account-1.png)
 
-1. 클릭 **랜딩 페이지**.
+1. 클릭 **[!UICONTROL 랜딩 페이지]**.
 
    ![](assets/enable-personalized-urls-for-your-account-2.png)
 
-1. 클릭 **편집**.
+1. 클릭 **[!UICONTROL 편집]**.
 
    ![](assets/enable-personalized-urls-for-your-account-3.png)
 
-1. 을(를) 확인합니다. **개인화된 URL 활성화** 상자를 클릭하고 **저장**.
+1. 다음 확인: **[!UICONTROL 개인화된 URL 활성화]** 상자 및 클릭 **[!UICONTROL 저장]**.
 
    ![](assets/enable-personalized-urls-for-your-account-4.png)
 
-잘했어요! 계정에 대해 PURL을 활성화했으므로 다음을 수행할 수 있습니다 [개별 랜딩 페이지에 대해 활성화](/help/marketo/product-docs/demand-generation/landing-pages/personalizing-landing-pages/enable-personalized-urls-for-a-landing-page.md).
+잘했어! 계정에 대해 PURL을 활성화했으므로 [개별 랜딩 페이지에 대해 활성화합니다.](/help/marketo/product-docs/demand-generation/landing-pages/personalizing-landing-pages/enable-personalized-urls-for-a-landing-page.md).
 
 >[!NOTE]
 >
->이름이 같은 두 사람이 있는 경우 끝에 숫자가 자동으로 추가됩니다.
+>성/이름이 같은 두 사람이 있는 경우 숫자가 자동으로 끝에 추가됩니다.

@@ -3,7 +3,7 @@ unique-page-id: 2360297
 description: IP를 기반으로 Marketo 로그인 제한 - Marketo 문서 - 제품 설명서
 title: IP를 기반으로 Marketo 로그인 제한
 exl-id: 5d9d0b88-b4bc-4e1b-b70c-2c2e7b4269f5
-source-git-commit: bd6f049d5959356a99314e81bb6cfe517c2efdfa
+source-git-commit: b71729a678ff4a676bb60803d845d0a44118f7e5
 workflow-type: tm+mt
 source-wordcount: '183'
 ht-degree: 0%
@@ -12,43 +12,42 @@ ht-degree: 0%
 
 # IP를 기반으로 Marketo 로그인 제한 {#restrict-marketo-logins-based-on-ip}
 
-사용자가 IP 주소를 기반으로 Marketo에 액세스하는 것을 제한하거나 활성화할 수 있습니다. 방법은 다음과 같습니다.
+사용자가 IP 주소를 기반으로 Marketo에 액세스하지 못하도록 제한하거나 활성화할 수 있습니다. 방법은 다음과 같습니다.
 
 >[!NOTE]
 >
->**관리 권한 필요**
+>**관리자 권한 필요**
 
 >[!NOTE]
 >
->이 문서의 정보는 login.marketo.com의 직접 로그인에만 적용됩니다. 현재 SSO(Single Sign-On) 로그인에 IP 제한을 적용할 수 없습니다.
+>이 문서의 정보는 login.marketo.com의 직접 로그인에 대해서만 적용됩니다. 지금은 SSO(Single Sign-On) 로그인에 IP 제한을 적용할 수 없습니다.
 
-1. 로 이동합니다. **관리** 영역.
+1. 로 이동 **[!UICONTROL 관리자]** 영역입니다.
 
    ![](assets/restrict-marketo-logins-based-on-ip-1.png)
 
-1. 클릭 **로그인 설정**.
+1. 클릭 **[!UICONTROL 로그인 설정]**.
 
    ![](assets/restrict-marketo-logins-based-on-ip-2.png)
 
-1. 클릭 **IP 제한 편집**.
+1. 클릭 **[!UICONTROL IP 제한 편집]**.
 
    ![](assets/restrict-marketo-logins-based-on-ip-3.png)
 
-1. 선택 **허용** 또는 **블록** 특정 주소를 입력한 다음 **저장**.
+1. 다음 중 하나를 선택합니다. **허용** 또는 **차단** 특정 주소에서 주소를 입력한 다음 **[!UICONTROL 저장]**.
 
    >[!NOTE]
    >
    >**정의**
    >
-   >* **허용된 IP 주소**: 허용되는 IP 주소를 추가하는 것은 포함됩니다. 지정된 모든 IP 주소가 포함되며 다른 모든 주소는 제외합니다.
-   >* **IP 주소 차단**: 특정 IP가 Marketo에 액세스하지 못하도록 합니다.
-   >* **IP 제한 사용 안 함**: 이를 선택하면 모든/모든 제한 규칙이 작동하지 않습니다. 테스트 목적으로 사용합니다.
-
+   >* **[!UICONTROL 허용된 IP 주소]**: 허용된 IP 주소를 추가하는 것은 필수입니다. 지정된 모든 IP 주소를 포함하며 그 외의 모든 주소는 제외됩니다.
+   >* **[!UICONTROL IP 주소 차단]**: 특정 IP가 Marketo에 액세스하지 못하도록 합니다.
+   >* **[!UICONTROL IP 제한 비활성화]**: 이 옵션을 선택하면 모든 제한 규칙이 작동하지 않습니다. 테스트 목적으로 사용하십시오.
 
    >[!NOTE]
    >
-   >여러 제한 사항을 추가할 수 있지만 ALL 허용 또는 ALL 차단만 될 수 있습니다. 허용 및 차단을 혼합하여 사용할 수 없습니다.
+   >여러 제한을 추가할 수 있지만 모두 허용되거나 모두 차단될 수 있습니다. 섞어서 허용과 차단을 일치시킬 수 없습니다.
 
    ![](assets/restrict-marketo-logins-based-on-ip-4.png)
 
-   잘 됐군요, 당신의 마케팅 데이터는 지금 그 어느 때보다 더 안전합니다!
+   좋습니다. 이제 마케팅 데이터가 이전보다 안전해졌습니다.

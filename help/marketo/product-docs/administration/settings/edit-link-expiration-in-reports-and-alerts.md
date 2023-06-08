@@ -1,9 +1,9 @@
 ---
 unique-page-id: 2360213
-description: 보고서 및 경고에서 링크 만료 편집 - Marketo 문서 - 제품 설명서
+description: 보고서 및 경고의 링크 만료 편집 - Marketo 문서 - 제품 설명서
 title: 보고서 및 경고에서 링크 만료 편집
 exl-id: 9be08798-c413-451b-9b67-893042668061
-source-git-commit: 07899e541b3624e99e0ead59d898ced2ab4e57af
+source-git-commit: b71729a678ff4a676bb60803d845d0a44118f7e5
 workflow-type: tm+mt
 source-wordcount: '100'
 ht-degree: 0%
@@ -16,24 +16,24 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->**관리 권한 필요**
+>**관리자 권한 필요**
 
-1. 로 이동합니다. **관리** 섹션을 참조하십시오.
+1. 로 이동 **[!UICONTROL 관리자]** 섹션.
 
    ![](assets/edit-link-expiration-in-reports-and-alerts-1.png)
 
-1. 클릭 **로그인 설정**.
+1. 클릭 **[!UICONTROL 로그인 설정]**.
 
    ![](assets/edit-link-expiration-in-reports-and-alerts-2.png)
 
-1. 클릭 **URL 만료 편집**.
+1. 클릭 **[!UICONTROL URL 만료 편집]**.
 
    ![](assets/edit-link-expiration-in-reports-and-alerts-3.png)
 
-1. 드롭다운에서 링크가 만료될 때까지 남은 일 수를 선택합니다. 클릭 **저장**.
+1. 드롭다운에서 링크가 만료될 때까지 남은 일 수를 선택합니다. 클릭 **[!UICONTROL 저장]**.
 
    ![](assets/edit-link-expiration-in-reports-and-alerts-4.png)
 
 >[!IMPORTANT]
 >
->이 설정은 보고서 및 경고의 링크에만 적용됩니다. 그렇습니다 **not** 전자 메일에 적용 [보고서 다운로드](/help/marketo/product-docs/reporting/basic-reporting/report-subscriptions/subscribe-to-a-smart-list.md#email-message) 링크 또는 마케팅 이메일.
+>이 설정은 보고서 및 경고의 링크에만 적용됩니다. 그렇습니다 **아님** 전자 메일에 적용 [보고서 다운로드](/help/marketo/product-docs/reporting/basic-reporting/report-subscriptions/subscribe-to-a-smart-list.md#email-message) 링크 또는 마케팅 이메일.
