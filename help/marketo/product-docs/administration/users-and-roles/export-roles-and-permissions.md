@@ -2,41 +2,41 @@
 description: 역할 및 권한 내보내기 - Marketo 문서 - 제품 설명서
 title: 역할 및 권한 내보내기
 exl-id: 2c3ee917-dc8c-40e1-a6e6-f6cb059963f6
-source-git-commit: 3bb7e8155491f810cc0e71637482e6da788dc068
+source-git-commit: 2d28d4b473815952231356691b1e9310c61a20f1
 workflow-type: tm+mt
-source-wordcount: '85'
+source-wordcount: '84'
 ht-degree: 0%
 
 ---
 
 # 역할 및 권한 내보내기 {#export-roles-and-permissions}
 
-모든 역할과 권한을 내보내는 방법은 다음과 같습니다.
+모든 역할과 해당 권한을 내보내는 방법은 다음과 같습니다.
 
 >[!NOTE]
 >
->관리 권한 필요
+>관리자 권한 필요
 
-1. 로 이동합니다. **관리** 영역.
+1. 로 이동 **[!UICONTROL 관리자]** 영역입니다.
 
    ![](assets/export-roles-and-permissions-1.png)
 
-1. 선택 **사용자 및 역할**.
+1. 선택 **[!UICONTROL 사용자 및 역할]**.
 
    ![](assets/export-roles-and-permissions-2.png)
 
-1. 을(를) 클릭합니다. **역할** 탭.
+1. 다음을 클릭합니다. **[!UICONTROL 역할]** 탭.
 
    ![](assets/export-roles-and-permissions-3.png)
 
-1. 페이지 하단으로 스크롤하여 내보내기 단추를 클릭합니다.
+1. 페이지 하단으로 스크롤한 다음 내보내기 단추를 클릭합니다.
 
    ![](assets/export-roles-and-permissions-4.png)
 
 >[!NOTE]
 >
->브라우저가 Marketo의 팝업을 차단하지 않는지 확인합니다.
+>브라우저가 Marketo의 팝업을 차단하지 않는지 확인하십시오.
 
-데이터는 CSV로 내보내지며 역할, 권한 및 그룹당 활성화된 사용 권한 수를 포함합니다.
+데이터는 CSV로 내보내지고 역할, 권한 및 그룹당 활성화된 권한 수가 포함됩니다.
 
 ![](assets/export-roles-and-permissions-5.png)

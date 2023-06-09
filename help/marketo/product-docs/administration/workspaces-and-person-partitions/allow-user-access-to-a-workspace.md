@@ -3,7 +3,7 @@ unique-page-id: 2360325
 description: 작업 영역에 대한 사용자 액세스 허용 - Marketo 문서 - 제품 설명서
 title: 작업 영역에 대한 사용자 액세스 허용
 exl-id: 8ccec529-ae28-4bf8-a9ba-4d9c7df809d9
-source-git-commit: a45732d3c09e7e3ca9e1a85c66aa7087c01eaa6f
+source-git-commit: 2d28d4b473815952231356691b1e9310c61a20f1
 workflow-type: tm+mt
 source-wordcount: '119'
 ht-degree: 0%
@@ -22,19 +22,19 @@ ht-degree: 0%
 >
 >자세히 알아보기 [작업 공간](/help/marketo/product-docs/administration/workspaces-and-person-partitions/understanding-workspaces-and-person-partitions.md).
 
-1. 로 이동 **관리자** 영역입니다.
+1. 로 이동 **[!UICONTROL 관리자]** 영역입니다.
 
    ![](assets/allow-user-access-to-a-workspace-1.png)
 
-1. 클릭 **사용자 및 역할**.
+1. 클릭 **[!UICONTROL 사용자 및 역할]**.
 
    ![](assets/allow-user-access-to-a-workspace-2.png)
 
-1. 아래 **사용자** 탭을 클릭하고 사용자를 선택한 다음 **사용자 편집**.
+1. 아래 **[!UICONTROL 사용자]** 탭을 클릭하고 사용자를 선택한 다음 **[!UICONTROL 사용자 편집]**.
 
    ![](assets/allow-user-access-to-a-workspace-3.png)
 
-1. 다음 항목 선택 **역할 및 작업 공간** 사용자가 액세스할 수 있도록 합니다.
+1. 다음 항목 선택 **[!UICONTROL 역할 및 작업 공간]** 사용자가 액세스할 수 있도록 합니다.
 
    ![](assets/allow-user-access-to-a-workspace-4.png)
 

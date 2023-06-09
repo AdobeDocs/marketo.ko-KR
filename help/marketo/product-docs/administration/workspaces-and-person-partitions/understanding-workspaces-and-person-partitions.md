@@ -3,9 +3,9 @@ unique-page-id: 2360309
 description: 작업 공간 및 개인 파티션 이해 - Marketo 문서 - 제품 설명서
 title: 작업 공간 및 개인 분할 영역 이해
 exl-id: 27d00a0d-ebf1-4dff-b41e-1644ec9dbd28
-source-git-commit: 57b94e643154b1463d9fd65295a66f1a3286fd40
+source-git-commit: 2d28d4b473815952231356691b1e9310c61a20f1
 workflow-type: tm+mt
-source-wordcount: '0'
+source-wordcount: '517'
 ht-degree: 0%
 
 ---
@@ -27,7 +27,7 @@ ht-degree: 0%
 >작업 영역을 사용할 수 있는 몇 가지 이유:
 >
 >* 지역: 유럽, 아시아 및 북미 마케팅 부서는 각각 작업 공간을 확보합니다.
->* 비즈니스 단위: Quicken, Quickbooks 및 TurboTax에서 각각 작업 공간을 얻습니다.
+>* 비즈니스 단위: [!DNL Quicken], [!DNL Quickbooks] 및 [!DNL TurboTax] 각 사용자에게 작업 공간 제공
 >
 >각각의 경우 분리는 마케팅 자산이 완전히 다르기 때문입니다. 마케팅 에셋을 공유하는 경우 작업 공간은 사용자에게 적합한 도구가 아닐 수 있습니다.
 
@@ -43,15 +43,15 @@ ht-degree: 0%
 >
 >에셋을 포함하는 상위 폴더는 하위 폴더가 아니라 공유할 수 있는 유일한 폴더입니다.
 
-1. 데이터베이스를 누릅니다.
+1. 클릭 **[!UICONTROL 데이터베이스]**.
 
    ![](assets/understanding-workspaces-and-person-partitions-1.png)
 
-1. 세분화 폴더를 마우스 오른쪽 단추로 클릭하고 **새 폴더**.
+1. 세분화 폴더를 마우스 오른쪽 단추로 클릭하고 **[!UICONTROL 새 폴더]**.
 
    ![](assets/understanding-workspaces-and-person-partitions-2.png)
 
-1. 폴더 이름을 지정하고 **만들기**.
+1. 폴더 이름을 지정하고 **[!UICONTROL 만들기]**.
 
    ![](assets/understanding-workspaces-and-person-partitions-3.png)
 
@@ -59,11 +59,11 @@ ht-degree: 0%
 
    ![](assets/understanding-workspaces-and-person-partitions-4.png)
 
-1. 폴더를 마우스 오른쪽 단추로 클릭하고 **폴더 공유**.
+1. 폴더를 마우스 오른쪽 단추로 클릭하고 **[!UICONTROL 폴더 공유]**.
 
    ![](assets/understanding-workspaces-and-person-partitions-5.png)
 
-1. 폴더를 공유할 작업 영역을 선택하고 을(를) 클릭합니다 **저장**. 폴더 공유 대화 상자에는 보기 권한이 있는 작업 공간만 표시됩니다.
+1. 폴더를 공유할 작업 영역을 선택하고 을(를) 클릭합니다 **[!UICONTROL 저장]**. 폴더 공유 대화 상자에는 보기 권한이 있는 작업 공간만 표시됩니다.
 
    ![](assets/understanding-workspaces-and-person-partitions-6.png)
 
@@ -118,7 +118,6 @@ ht-degree: 0%
 >
 >* 작업 공간에 다른 자산이 있을 뿐만 아니라 다른 사람도 공유하지 않습니다.
 >* 다른 비즈니스 이유로 중복 항목을 원합니다.
-
 
 >[!CAUTION]
 >

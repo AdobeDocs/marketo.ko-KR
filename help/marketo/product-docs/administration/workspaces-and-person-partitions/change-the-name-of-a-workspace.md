@@ -3,7 +3,7 @@ unique-page-id: 2360321
 description: 작업 공간 이름 변경 - Marketo 문서 - 제품 설명서
 title: 작업 공간 이름 변경
 exl-id: 1d714803-b1c3-49e9-874b-2555dd13a9d1
-source-git-commit: 57b94e643154b1463d9fd65295a66f1a3286fd40
+source-git-commit: 2d28d4b473815952231356691b1e9310c61a20f1
 workflow-type: tm+mt
 source-wordcount: '80'
 ht-degree: 0%
@@ -26,19 +26,19 @@ ht-degree: 0%
 >
 >을 사용하여 먼저 이해 [작업 공간 및 개인 분할 영역 이해](/help/marketo/product-docs/administration/workspaces-and-person-partitions/understanding-workspaces-and-person-partitions.md).
 
-1. 로 이동 **관리자** 영역입니다.
+1. 로 이동 **[!UICONTROL 관리자]** 영역입니다.
 
    ![](assets/change-the-name-of-a-workspace-1.png)
 
-1. 클릭 **작업 공간 및 파티션**.
+1. 클릭 **[!UICONTROL 작업 공간 및 파티션]**.
 
    ![](assets/change-the-name-of-a-workspace-2.png)
 
-1. 작업 영역을 선택하고 **작업 영역 편집**.
+1. 작업 영역을 선택하고 **[!UICONTROL 작업 영역 편집]**.
 
    ![](assets/change-the-name-of-a-workspace-3.png)
 
-1. 새 항목 입력 **이름** 작업 공간에 대해 **저장.**
+1. 새 항목 입력 **[!UICONTROL 이름]** 작업 공간에 대해 **[!UICONTROL 저장]**.
 
    ![](assets/change-the-name-of-a-workspace-4.png)
 
