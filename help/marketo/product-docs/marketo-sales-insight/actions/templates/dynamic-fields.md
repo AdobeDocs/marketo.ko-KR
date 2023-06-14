@@ -2,9 +2,9 @@
 description: 동적 필드 - Marketo 문서 - 제품 설명서
 title: 동적 필드
 exl-id: d9e52eae-d5bb-462f-8b7b-c28a560f6ea4
-source-git-commit: 466df1fbd561860152f9fea02edb6eab5670c90a
+source-git-commit: 6d4a093d0ce0158028177cc4a4088526ccf79f9d
 workflow-type: tm+mt
-source-wordcount: '481'
+source-wordcount: '487'
 ht-degree: 0%
 
 ---
@@ -37,13 +37,13 @@ Salesforce에 있는 연락처에 이메일을 보내는 경우 Salesforce 동�
 
 이메일 템플릿에 동적 필드를 추가할 때 사용 가능한 다른 값이 없는 경우 동적 필드에서 해결할 기본값을 추가할 수 있습니다.
 
-이렇게 하려면 동적 필드 레이블 뒤에 &quot;|&quot;을 추가한 다음 &quot;기본값:&quot;을 추가하십시오. 다른 값을 찾을 수 없는 경우 필드가 확인할 값을 추가합니다.
+이렇게 하려면 동적 필드 레이블 뒤에 &quot;|&quot;을 추가한 다음, &quot;기본값:&quot;(둘 다 따옴표 제외)을 추가하십시오. 다른 값을 찾을 수 없는 경우 필드가 확인할 값(따옴표로 묶음)을 추가합니다.
 
 **예:**
 
-`{{first name | default: loyal customer}}`
+`{{first name | default: "loyal customer"}}`
 
-`{{sfdc_contact_account_name | default: your company}}`
+`{{sfdc_contact_account_name | default: "your company"}}`
 
 ## 동적 필드 용어집 {#dynamic-fields-glossary}
 
