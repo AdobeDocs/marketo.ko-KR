@@ -1,15 +1,16 @@
 ---
-description: Adobe Admin Console에 대한 Marketo 구독 및 사용자 마이그레이션 이해 - Marketo 문서 - 제품 설명서
-title: Adobe Admin Console에 대한 Marketo 구독 및 사용자 마이그레이션 이해
+description: Marketo 구독 및 Adobe Admin Console으로의 사용자 마이그레이션 이해 - Marketo 문서 - 제품 설명서
+title: Marketo 구독 및 Adobe Admin Console으로의 사용자 마이그레이션 이해
 hide: true
 hidefromtoc: true
-source-git-commit: ad638b2eab24496e2f0b1b8304be139e4e906d06
+exl-id: 91e7b56b-2563-4986-a55c-f9760ea88b05
+source-git-commit: 53ce63735f7d950b3da51a6a3b3f626d1fedca47
 workflow-type: tm+mt
 source-wordcount: '39'
 ht-degree: 0%
 
 ---
 
-# Adobe Admin Console에 대한 Marketo 구독 및 사용자 마이그레이션 이해 {#understanding-marketo-subscription-and-user-migration-to-the-adobe-admin-console}
+# Marketo 구독 및 Adobe Admin Console으로의 사용자 마이그레이션 이해 {#understanding-marketo-subscription-and-user-migration-to-the-adobe-admin-console}
 
-준비 중
+곧 출시 예정
