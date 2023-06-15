@@ -2,7 +2,7 @@
 description: Sales Insight Actions 관리 설정 안내서 - Marketo 문서 - 제품 설명서
 title: Sales Insight Actions 관리 설정 안내서
 exl-id: 339d518d-445b-4634-ab81-92c9d5541927
-source-git-commit: 7249a7e7cd1879d35fedef0a6e3568fbc2872ef9
+source-git-commit: 544dfc0892016223c1e5976bd8c9d108ade7c984
 workflow-type: tm+mt
 source-wordcount: '626'
 ht-degree: 0%
@@ -19,7 +19,6 @@ ht-degree: 0%
 >
 >* Adobe 계정 팀(계정 관리자)에 문의하여 Marketo Engage 계정에 대해 MSI 작업이 활성화되었는지 확인합니다(계정 관리자가 없는 경우 [Marketo 지원](https://nation.marketo.com/t5/support/ct-p/Support){target="_blank"}).
 >* Marketo/Salesforce 동기화를 설정해야 합니다.
-
 
 <table>
  <tr>
@@ -190,4 +189,4 @@ Marketo 및 Salesforce에 있는 개인 레코드는 Marketo Sales Apps 계정�
 
 >[!NOTE]
 >
->이 작업이 완료되면 기존 MSI 패키지를 업그레이드하거나 새 패키지를 설치하고 다음으로 이동할 수 있습니다. [salesforce에서 MSI 작업 구성](/help/marketo/product-docs/marketo-sales-insight/actions/crm/salesforce-configuration/sales-insight-actions-configuration-in-salesforce.md){target="_blank"}.
+>이 작업이 완료되면 기존 MSI 패키지를 업그레이드하거나 새 패키지를 설치하고 다음으로 이동할 수 있습니다. [salesforce에서 MSI 작업 구성](/help/marketo/product-docs/marketo-sales-insight/actions/crm/salesforce-package-configuration/sales-insight-actions-configuration-in-salesforce.md){target="_blank"}.
