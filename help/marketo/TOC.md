@@ -3,9 +3,9 @@ audience: end-user
 user-guide-title: Marketo 안내서
 user-guide-description: Marketo 제품 설명서
 feature-set: Marketo Engage
-source-git-commit: 46c48172a58cf6bd2e9772ef57510fd7d808adc2
+source-git-commit: 02354356949aef7aa8836d4753ec538b7819a65a
 workflow-type: tm+mt
-source-wordcount: '8920'
+source-wordcount: '0'
 ht-degree: 0%
 
 ---
@@ -1345,7 +1345,7 @@ ht-degree: 0%
                + [Sales Insight 작업에서 Salesforce 연결 해제](product-docs/marketo-sales-insight/actions/crm/salesforce-integration/disconnect-salesforce-from-sales-insight-actions.md)
                + [회신 로깅](product-docs/marketo-sales-insight/actions/crm/salesforce-integration/reply-logging.md)
                + [Salesforce 진단](product-docs/marketo-sales-insight/actions/crm/salesforce-integration/salesforce-diagnostics.md)
-               + [Salesforce 동기화 설정](product-docs/marketo-sales-insight/actions/crm/salesforce-integration/salesforce-sync-settings.md)
+               + [영업 활동을 Salesforce에 동기화](product-docs/marketo-sales-insight/actions/crm/salesforce-integration/sync-sales-activities-to-salesforce.md)
             + Salesforce 패키지 구성 {#salesforce-package-configuration}
                + [Salesforce에 판매 활동 속성 로깅](product-docs/marketo-sales-insight/actions/crm/salesforce-package-configuration/logging-sales-activity-attributes-to-salesforce.md)
                + [Salesforce의 Sales Insight 작업 구성](product-docs/marketo-sales-insight/actions/crm/salesforce-package-configuration/sales-insight-actions-configuration-in-salesforce.md)
@@ -1395,6 +1395,7 @@ ht-degree: 0%
             + [Sales Insight Actions 서비스 약관은 무엇입니까?](product-docs/marketo-sales-insight/actions/faq/what-are-the-sales-insight-actions-terms-of-service.md)
             + [내 연락처 중 Sales Insight 작업에 푸시되는 대상이 없는 이유는 무엇입니까?](product-docs/marketo-sales-insight/actions/faq/why-arent-any-of-my-contacts-getting-pushed-to-sales-insight-actions.md)
             + [동적 필드를 채우지 않는 이유는 무엇입니까?](product-docs/marketo-sales-insight/actions/faq/why-arent-my-dynamic-fields-filling-out.md)
+            + [내 판매 활동 및 활동 필드가 Salesforce와 동기화되지 않는 이유는 무엇입니까?](product-docs/marketo-sales-insight/actions/faq/why-arent-my-sales-activities-and-activity-fields-syncing-to-salesforce.md)
             + [연락처를 삭제할 수 없는 이유](product-docs/marketo-sales-insight/actions/faq/why-cant-i-delete-a-contact.md)
             + [왜 모든 연락처가 Sales Insight 작업에 푸시되지 않습니까?](product-docs/marketo-sales-insight/actions/faq/why-didnt-all-of-my-contacts-get-pushed-to-sales-insight-actions.md)
             + [추적 활동이 Salesforce 활동에 표시되지 않는 이유는 무엇입니까?](product-docs/marketo-sales-insight/actions/faq/why-is-tracking-activity-not-showing-in-salesforce-activity.md)

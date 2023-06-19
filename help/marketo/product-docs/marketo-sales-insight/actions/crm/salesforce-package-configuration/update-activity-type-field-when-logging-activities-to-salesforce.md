@@ -1,9 +1,10 @@
 ---
 description: Salesforce - Marketo 문서 - 제품 설명서에 활동을 기록할 때 활동 유형 필드 업데이트
 title: Salesforce에 활동을 기록할 때 활동 유형 필드 업데이트
-source-git-commit: 46c48172a58cf6bd2e9772ef57510fd7d808adc2
+exl-id: f65d7d97-ec65-4210-9381-02be788498f9
+source-git-commit: 02354356949aef7aa8836d4753ec538b7819a65a
 workflow-type: tm+mt
-source-wordcount: '420'
+source-wordcount: '0'
 ht-degree: 0%
 
 ---
@@ -59,4 +60,4 @@ ht-degree: 0%
 >
 >* [Salesforce에 판매 활동 속성 로깅](/help/marketo/product-docs/marketo-sales-insight/actions/crm/salesforce-package-configuration/logging-sales-activity-attributes-to-salesforce.md){target="_blank"}
 >* [Salesforce 활동 세부 정보 사용자 지정 구성](/help/marketo/product-docs/marketo-sales-insight/actions/crm/salesforce-integration/configure-salesforce-activity-detail-customization.md){target="_blank"}
->* [Salesforce 동기화 설정](/help/marketo/product-docs/marketo-sales-insight/actions/crm/salesforce-integration/salesforce-sync-settings.md){target="_blank"}
+>* [영업 활동을 Salesforce에 동기화](/help/marketo/product-docs/marketo-sales-insight/actions/crm/salesforce-integration/sync-sales-activities-to-salesforce.md){target="_blank"}

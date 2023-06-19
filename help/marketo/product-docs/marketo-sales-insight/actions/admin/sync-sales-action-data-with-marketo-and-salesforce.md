@@ -2,10 +2,10 @@
 description: 판매 작업 데이터를 Marketo 및 Salesforce - Marketo 문서 - 제품 설명서와 동기화
 title: 영업 활동 데이터를 Marketo 및 Salesforce와 동기화
 exl-id: bb213d50-be22-492d-b74c-b8cfb834b2ca
-source-git-commit: 3e0836fd9f40436564c7b2d8bb58a7f771e49c33
+source-git-commit: 02354356949aef7aa8836d4753ec538b7819a65a
 workflow-type: tm+mt
-source-wordcount: '1062'
-ht-degree: 1%
+source-wordcount: '0'
+ht-degree: 0%
 
 ---
 
@@ -112,13 +112,12 @@ Sales Insight Actions 을 사용하면 관리자가 Salesforce에 기록할 영�
 
 ![](assets/actions-data-sync-faq-6.png)
 
-위의 다이어그램은 Salesforce에 기록된 정보를 보여 줍니다. 이메일 및 호출과 같은 활동은 다음에서 Salesforce에 기록됩니다. [단방향 동기화](/help/marketo/product-docs/marketo-sales-insight/actions/crm/salesforce-integration/salesforce-sync-settings.md). [구독 취소](/help/marketo/product-docs/marketo-sales-insight/actions/email/unsubscribes/syncing-unsubscribes-with-salesforce.md) 및 [미리 알림 작업](/help/marketo/product-docs/marketo-sales-insight/actions/tasks/reminder-task-sync-with-salesforce.md) 양방향 동기화를 통해 최신 상태로 유지됩니다. 이러한 각 데이터 동기화는 Sales Insight Actions 웹 앱 인터페이스에서 구성할 수 있습니다.
+위의 다이어그램은 Salesforce에 기록된 정보를 보여 줍니다. 이메일 및 호출과 같은 활동은 다음에서 Salesforce에 기록됩니다. [단방향 동기화](/help/marketo/product-docs/marketo-sales-insight/actions/crm/salesforce-integration/sync-sales-activities-to-salesforce.md). [구독 취소](/help/marketo/product-docs/marketo-sales-insight/actions/email/unsubscribes/syncing-unsubscribes-with-salesforce.md) 및 [미리 알림 작업](/help/marketo/product-docs/marketo-sales-insight/actions/tasks/reminder-task-sync-with-salesforce.md) 양방향 동기화를 통해 최신 상태로 유지됩니다. 이러한 각 데이터 동기화는 Sales Insight Actions 웹 앱 인터페이스에서 구성할 수 있습니다.
 
 >[!MORELIKETHIS]
 >
 >* [Salesforce와 구독 취소 동기화](/help/marketo/product-docs/marketo-sales-insight/actions/email/unsubscribes/syncing-unsubscribes-with-salesforce.md)
 >* [Marketo 구독 취소 확인](/help/marketo/product-docs/marketo-sales-insight/actions/email/unsubscribes/marketo-unsubscribe-check.md)
->* [Salesforce 동기화 설정](/help/marketo/product-docs/marketo-sales-insight/actions/crm/salesforce-integration/salesforce-sync-settings.md)
+>* [영업 활동을 Salesforce에 동기화](/help/marketo/product-docs/marketo-sales-insight/actions/crm/salesforce-integration/sync-sales-activities-to-salesforce.md)
 >* [Salesforce와의 미리 알림 작업 동기화](/help/marketo/product-docs/marketo-sales-insight/actions/tasks/reminder-task-sync-with-salesforce.md)
 >* [데이터 동기화 시작](/help/marketo/product-docs/marketo-sales-insight/actions/getting-started/sales-insight-actions-admin-setup-guide.md#initiate-data-sync)
-
