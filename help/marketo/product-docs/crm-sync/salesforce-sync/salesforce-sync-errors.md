@@ -2,7 +2,7 @@
 description: Salesforce 동기화 오류 - Marketo 문서 - 제품 설명서
 title: Salesforce 동기화 오류
 exl-id: 4819f423-30c6-48e3-8cec-5d298ceb7b56
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+source-git-commit: 4d88547ecdc25a2a1e0de49fab1493bbefd6800b
 workflow-type: tm+mt
 source-wordcount: '181'
 ht-degree: 1%
@@ -11,15 +11,15 @@ ht-degree: 1%
 
 # Salesforce 동기화 오류 {#salesforce-sync-errors}
 
-동기화 프로세스 중에 발생한 오류에 대한 요약을 확인합니다. 여기에는 호환되지 않는 데이터를 동기화하지 못해 발생한 오류가 포함됩니다.
+동기화 프로세스 중에 발생한 오류 요약을 확인합니다. 여기에는 호환되지 않는 데이터를 동기화하지 못해 발생하는 오류가 포함됩니다.
 
 >[!NOTE]
 >
->**관리 권한 필요**
+>**관리자 권한 필요**
 
 ## 동기화 오류 보기 {#view-sync-errors}
 
-1. 클릭 **관리**.
+1. 클릭 **관리자**.
 
    ![](assets/salesforce-sync-errors-1.png)
 
@@ -29,17 +29,17 @@ ht-degree: 1%
 
 >[!NOTE]
 >
->나열된 오류는 현재 시간에서 현재 동기화 5일 전까지 발생합니다.
+>나열된 오류 범위는 현재 시간부터 현재 동기화 5일 전까지입니다.
 
 | 필드 | 설명 |
 |---|---|
-| 실패 | 레코드 수준 _또는_ 작업 수준 |
+| 실패 날짜 | 레코드 수준 _또는_ 작업 수준 |
 | 실패 날짜/시간 | 오류 세부 정보 |
 | 오류 유형 | SFDC 반환 메시지 |
 
 >[!TIP]
 >
->레코드 수준 레코드를 클릭하면 관련 개체의 Marketo 및 Salesforce ID가 표시됩니다. 경우에 따라 레코드 및 작업 수준 오류에 대한 메시지는 Salesforce에서 직접 가져옵니다. 온라인으로 검색하면 추가 세부 정보가 제공될 수 있습니다.
+>레코드 수준 레코드를 클릭하면 관련 개체의 Marketo 및 Salesforce ID가 표시됩니다. 레코드와 작업 수준 오류에 있는 메시지는 Salesforce에서 직접 가져온 경우도 있습니다. 온라인으로 검색하는 경우 추가 세부 정보를 제공할 수 있습니다.
 
 ## 동기화 오류 필터링 {#filter-sync-errors}
 
@@ -51,6 +51,6 @@ ht-degree: 1%
 
    ![](assets/salesforce-sync-errors-4.png)
 
-**옵션 단계**: 동기화 오류를 내보내려면 **내보내기**. 데이터를 CSV로 내보냅니다.
+**선택적 단계**: 동기화 오류를 내보내려면 **내보내기**. 데이터는 CSV로 내보내집니다.
 
 ![](assets/salesforce-sync-errors-5.png)

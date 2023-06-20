@@ -1,11 +1,9 @@
 ---
 description: Salesforce 목록 보기 - Marketo 문서 - 제품 설명서에 작업 단추 추가
 title: Salesforce 목록 보기에 작업 단추 추가
-hide: true
-hidefromtoc: true
-source-git-commit: 02354356949aef7aa8836d4753ec538b7819a65a
+source-git-commit: 4d88547ecdc25a2a1e0de49fab1493bbefd6800b
 workflow-type: tm+mt
-source-wordcount: '0'
+source-wordcount: '292'
 ht-degree: 0%
 
 ---
@@ -49,6 +47,6 @@ ht-degree: 0%
 
 >[!MORELIKETHIS]
 >
->* Salesforce에서 일괄 이메일 보내기 사용(만들어야 함)
->* Salesforce에서 Sales Campaign에 일괄 추가 사용(생성해야 함)
+>* [Salesforce에서 판매 이메일 대량 보내기 사용](/help/marketo/product-docs/marketo-sales-insight/actions/crm/actions-in-salesforce/using-bulk-send-sales-email-in-salesforce.md){target="_blank"}
+>* [Salesforce에서 Sales Campaign에 일괄 추가 사용](/help/marketo/product-docs/marketo-sales-insight/actions/crm/actions-in-salesforce/using-bulk-add-to-sales-campaign-in-salesforce.md){target="_blank"}
 >* [Salesforce AppExchange에 Marketo Sales Insight 패키지 설치](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/installation/install-marketo-sales-insight-package-in-salesforce-appexchange.md){target="_blank"}
