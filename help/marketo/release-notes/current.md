@@ -2,16 +2,16 @@
 description: 현재 릴리스 정보 - Marketo 설명서 - 제품 설명서
 title: 최신 릴리스 정보
 exl-id: a2eccad5-73ad-48f9-8091-51cee23824e1
-source-git-commit: 159c0aee929327fc1e1f22d0de3abb7380935d86
+source-git-commit: e994a8d7a9d11545fec3bf61c505180f20107ac4
 workflow-type: tm+mt
-source-wordcount: '368'
-ht-degree: 3%
+source-wordcount: '643'
+ht-degree: 2%
 
 ---
 
-# 릴리스 노트: 2023년 5월 {#release-notes-may-23}
+# 릴리스 노트: 2023년 7월 {#release-notes-july-23}
 
-아래에는 2023년 5월 릴리스에 포함된 모든 기능이 있습니다. Adobe Marketo Engage 버전에서 사용 가능한 기능이 있는지 확인하십시오.
+아래에는 2023년 7월 릴리스에 포함된 모든 기능이 있습니다. Adobe Marketo Engage 버전에서 사용 가능한 기능이 있는지 확인하십시오.
 
 >[!AVAILABILITY]
 >
@@ -19,13 +19,11 @@ ht-degree: 3%
 
 ## 표준 릴리스 주기 기능 {#standard-release-cycle-features}
 
-다음 기능은 표준 릴리스 주기에 해당하고 다음부터 릴리스됩니다. **2023년 5월 12일**: 이후 몇 주 동안 나머지 기능에 대한 단계별 롤아웃 포함. 릴리스 기능 및 날짜는 변경될 수 있습니다. 각 기능의 상태를 아래에서 확인하십시오.
-
-### Marketo Engage 최신 UX {#modern-ux}
+다음 기능은 표준 릴리스 주기에 해당하고 다음부터 릴리스됩니다. **2023년 7월 21일**: 이후 몇 주 동안 나머지 기능에 대한 단계별 롤아웃 포함. 릴리스 기능 및 날짜는 변경될 수 있습니다. 각 기능의 상태를 아래에서 확인하십시오.
 
 </br>
 
-* **Adobe Experience Cloud 인터페이스**: Marketo Engage을 Experience Cloud에 맞게 조정하여 단일 사용자 세션의 여러 Experience Cloud 솔루션에서 일관된 탐색 환경을 만듭니다.
+* **참여 캔버스**: 참여 캔버스 는 재사용 가능한 캠페인을 빌드하고 구성할 수 있는 시각적 도구입니다. 완전히 이전 버전과 호환되므로 버튼 클릭으로 기존의 모든 캠페인을 이 새 구조에서 볼 수 있습니다. 캔버스를 다운로드하여 공유할 수 있습니다.
 
 <table> 
   <tr> 
@@ -33,22 +31,8 @@ ht-degree: 3%
    <td><b>설명서 업데이트 정보</b></td>
   </tr>
   <tr> 
-   <td>배송됨</td>
-   <td><a href="/help/marketo/product-docs/adobe-experience-cloud-integrations/experience-cloud-interface-overview.md">Experience Cloud 인터페이스 개요</a></td>
-  </tr>
-  </tbody>
-</table>
-
-* **Marketo Engage 도움말 센터**: 도움말 센터는 Marketo Engage 사용자에게 제품 내에서 도움말 리소스를 찾을 수 있는 중앙 위치를 제공합니다. 또한 도움말 센터에서는 주요 기능을 활용하는 방법을 설명하는 제품 내 안내서를 활성화할 수 있습니다.
-
-<table> 
-  <tr> 
-   <td><b>상태</b></td>
-   <td><b>설명서 업데이트 정보</b></td>
-  </tr>
-  <tr> 
-   <td>배송됨</td>
-   <td><a href="https://experienceleague.adobe.com/docs/marketo/using/getting-started-with-marketo/help-center.html">도움말 센터</a></td>
+   <td><i>곧 출시 예정</i></td>
+   <td><i>곧 출시 예정</i></td>
   </tr>
   </tbody>
 </table>
@@ -57,15 +41,11 @@ ht-degree: 3%
 
 다음 기능은 애자일 형식을 따르며, 표준 릴리스 날짜 이전 또는 이후의 다양한 날짜에 릴리스됩니다. 각 기능의 상태를 아래에서 확인하십시오.
 
-### 크로스 채널 오케스트레이션 {#cross-channel-orchestration}
+### Dynamic Chat {#dynamic-chat}
 
 </br>
 
-* **대화형 웨비나(초기에 제한된 가용성)**:
-
-대화형 웨비나는 마케터가 Marketo Engage 내에서 이벤트를 생성, 관리 및 제공할 수 있는 기본적이고 원활한 경험을 제공하여 기존 이벤트 및 웨비나 경험을 강화합니다. 이벤트 유형에 따라 웨비나를 사용자 지정하고 원하는 경우 발표자를 추가할 수도 있습니다. 라이브 설문 조사, 채팅, Q&amp;A 세션, 웹 링크 클릭, 문서 다운로드 등과 같은 Adobe Connect 기능을 통해 풍부한 참여 인사이트를 얻을 수 있습니다. Marketo Engage에서 직접 웨비나 녹화를 검색하고 풍부한 대시보드 지표를 통해 성능을 평가합니다.
-
-대화형 웨비나는 점진적으로 롤아웃됩니다. 이전 액세스 권한을 요청하려면 다음을 입력하십시오. [이 양식](https://forms.office.com/r/Jf4zFVCH0T){target="_blank"}.
+* **Dynamic Chat을 위한 채팅 소스**: 이제 &quot;채팅&quot;이 새로운 개인 레코드 및 활동의 소스로 제공됩니다. 이 소스를 사용하여 사용자가 스마트 목록/캠페인의 활동을 필터링할 수 있습니다. 필드의 업데이트에서 소스를 차단할 수도 있습니다.
 
 <table> 
   <tr> 
@@ -73,12 +53,118 @@ ht-degree: 3%
    <td><b>설명서 업데이트 정보</b></td>
   </tr>
   <tr> 
-   <td>롤아웃 시작됨</td>
-   <td><a href="https://experienceleague.adobe.com/docs/marketo/using/product-docs/demand-generation/events/interactive-webinars/interactive-webinars-overview.html">대화형 웨비나 개요</a></td>
+   <td><i>곧 출시 예정</i></td>
+   <td><i>곧 출시 예정</i></td>
+  </tr>
+  </tbody>
+</table>
+
+* **향상된 Dynamic Chat 활동**: Dynamic Chat 활동, 필터 및 트리거가 추가 속성 및 표준화된 이름 지정 규칙으로 향상되었습니다.
+
+<table> 
+  <tr> 
+   <td><b>상태</b></td>
+   <td><b>설명서 업데이트 정보</b></td>
+  </tr>
+  <tr> 
+   <td><i>곧 출시 예정</i></td>
+   <td><i>곧 출시 예정</i></td>
+  </tr>
+  </tbody>
+</table>
+
+### Marketo Sales Insight {#marketo-sales-insight}
+
+</br>
+
+* **추가 설정 구독 취소**: 이제 구독 취소 메시지를 보다 세밀하게 제어할 수 있으며 구독 취소 추가 구성 옵션이 새로 추가되었습니다. 새로운 기능을 통해 관리자는 판매 이메일에 구독 취소 메시지가 표시되는 시기, 장소 및 내용을 제어할 수 있습니다.
+
+<table> 
+  <tr> 
+   <td><b>상태</b></td>
+   <td><b>설명서 업데이트 정보</b></td>
+  </tr>
+  <tr> 
+   <td><i>곧 출시 예정</i></td>
+   <td><i>곧 출시 예정</i></td>
+  </tr>
+  </tbody>
+</table>
+
+* **동적 필드 프롬프트**: 이제 Sales Insight Actions 의 이메일 템플릿에 추가할 수 있는 새로운 필드 프롬프트를 통해 영업팀에 이메일의 특정 부분을 개인화하라는 메시지를 표시할 수 있습니다.
+
+<table> 
+  <tr> 
+   <td><b>상태</b></td>
+   <td><b>설명서 업데이트 정보</b></td>
+  </tr>
+  <tr> 
+   <td><i>곧 출시 예정</i></td>
+   <td><i>곧 출시 예정</i></td>
+  </tr>
+  </tbody>
+</table>
+
+* **기본 동적 필드**: 기본 동적 필드를 사용하면 채울 수 있는 값이 없는 경우 동적 필드에서 확인할 수 있는 대체 값을 구성할 수 있습니다. 이렇게 하면 모든 개인화가 채워진 상태로 이메일이 발송됩니다.
+
+<table> 
+  <tr> 
+   <td><b>상태</b></td>
+   <td><b>설명서 업데이트 정보</b></td>
+  </tr>
+  <tr> 
+   <td><i>곧 출시 예정</i></td>
+   <td><i>곧 출시 예정</i></td>
+  </tr>
+  </tbody>
+</table>
+
+* **Sales Insight Dynamic Chat 지원**: 모든 Dynamic Chat 사용자에 대해 이 릴리스에 도입된 새로운 Dynamic Chat 속성을 지원하도록 업데이트되었습니다.
+
+<table> 
+  <tr> 
+   <td><b>상태</b></td>
+   <td><b>설명서 업데이트 정보</b></td>
+  </tr>
+  <tr> 
+   <td><i>곧 출시 예정</i></td>
+   <td><i>곧 출시 예정</i></td>
+  </tr>
+  </tbody>
+</table>
+
+* **Sales Insight Actions에 대한 Dynamic Chat 지원**: 이제 리드 피드의 Dynamic Chat 활동과 라이브 채팅이 에이전트에게 라우팅될 때의 알림을 지원합니다.
+
+<table> 
+  <tr> 
+   <td><b>상태</b></td>
+   <td><b>설명서 업데이트 정보</b></td>
+  </tr>
+  <tr> 
+   <td><i>곧 출시 예정</i></td>
+   <td><i>곧 출시 예정</i></td>
+  </tr>
+  </tbody>
+</table>
+
+* **Dynamic Chat 트리거 토큰**: 재미있는 순간에 사용할 Dynamic Chat 활동에 대한 새로운 트리거 토큰 소개.
+
+<table> 
+  <tr> 
+   <td><b>상태</b></td>
+   <td><b>설명서 업데이트 정보</b></td>
+  </tr>
+  <tr> 
+   <td><i>곧 출시 예정</i></td>
+   <td><i>곧 출시 예정</i></td>
   </tr>
   </tbody>
 </table>
 
 ## 공지 {#announcements}
 
-* **_제품 릴리스 웨비나_**: [2023년 3월 및 5월 Marketo Engage 릴리스 웨비나](https://engage.marketo.com/2023_March_May_Release_Webinar_OnDemandPage.html){target="_blank"}
+실시간 개인화 Marketo Engage에 두 가지 향상된 기능이 제공됩니다.
+
+* **Google Analytics 4로 업그레이드**: Marketo은 이전에 Universal Analytics를 지원했으며, 2023년 7월 1일까지 데이터 기록을 중단합니다. RTP 사용자는 Google Analytics 대시보드의 마이그레이션 프로세스를 따라 RTP에서 Google Analytics 4 통합에 대한 지원을 완료해야 합니다. 앞으로 사용자는 고유한 영숫자 태그를 갖게 됩니다( 내에 위치). `<head>` Marketo Google Analytics 섹션(html)을 참조하십시오.
+
+* **jQuery 3.7로 업그레이드**: 보안 및 안정성을 개선하기 위해 Marketo은 jQuery 3.7.0으로 업그레이드하고 있습니다. Marketo이 rtp.js에서 로드되는 기본 버전을 변경하고 있으므로 자체 jQuery를 로드하지 않는 RTP 사용자는 부정적인 영향을 받지 않습니다. 그러나 jQuery 버전이 3.0.0보다 오래된 RTP 사용자인 경우 다음으로 문의하십시오. [Marketo 지원](https://nation.marketo.com/t5/support/ct-p/Support){target="_blank"} 사용자의 요구 사항에 맞는 사용자 정의 버전의 rtp.js를 구현하는 데 도움이 됩니다.
