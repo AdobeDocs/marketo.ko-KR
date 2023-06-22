@@ -1,7 +1,7 @@
 ---
 description: Salesforce에서 Sales Campaign에 일괄 추가 사용 - Marketo 문서 - 제품 설명서
 title: Salesforce에서 Sales Campaign에 일괄 추가 사용
-source-git-commit: 4d88547ecdc25a2a1e0de49fab1493bbefd6800b
+source-git-commit: b7d80630e55d30364912e472d126a994c5eeca19
 workflow-type: tm+mt
 source-wordcount: '569'
 ht-degree: 0%
@@ -74,26 +74,28 @@ Salesforce에서 Sales Campaign에 대량 을 추가하여 판매 작업을 사�
 
 1. 원하는 잠재 고객 또는 연락처 목록을 선택하고 **판매 캠페인에 추가** 단추를 클릭합니다.
 
+   ![](assets/using-bulk-add-to-sales-campaign-in-salesforce-9.png)
+
 1. 선택한 사람이 추가된 상태로 작업 판매 캠페인 모달로 이동합니다.
 
 1. 사람 또는 그룹을 제거하는 데 필요한 편집을 한 다음 **다음**.
 
-   ![](assets/using-bulk-add-to-sales-campaign-in-salesforce-9.png)
+   ![](assets/using-bulk-add-to-sales-campaign-in-salesforce-10.png)
 
 1. 에서 사용할 판매 캠페인 범주를 선택합니다. **카테고리** 드롭다운.
 
 1. 선택한 직원을 추가할 영업 캠페인을 선택하고 **다음**.
 
-   ![](assets/using-bulk-add-to-sales-campaign-in-salesforce-10.png)
+   ![](assets/using-bulk-add-to-sales-campaign-in-salesforce-11.png)
 
 1. 캠페인의 첫 번째 단계가 무엇인지에 따라 다른 옵션이 표시될 수 있습니다. 첫 번째 단계가 이메일인 경우 아래 표시된 것처럼 각 수신자의 이메일을 편집할 수 있는 옵션이 있습니다. 이 작업이 완료되면 다음을 클릭하십시오. **다음**.
 
-   ![](assets/using-bulk-add-to-sales-campaign-in-salesforce-11.png)
+   ![](assets/using-bulk-add-to-sales-campaign-in-salesforce-12.png)
 
 1. 다시 말하지만, 첫 번째 단계가 이메일이고 캠페인 시작 시기를 선택할 수 있도록 구성한 경우 **지금 시작** 또는 **새 시작 시간 예약**. 이 작업이 완료되면 다음을 클릭하십시오. **시작**.
 
-   ![](assets/using-bulk-add-to-sales-campaign-in-salesforce-12.png)
+   ![](assets/using-bulk-add-to-sales-campaign-in-salesforce-13.png)
 
 시작을 클릭하면 몇 명이 추가되었는지 알려주는 확인 화면이 표시됩니다.
 
-![](assets/using-bulk-add-to-sales-campaign-in-salesforce-13.png)
+![](assets/using-bulk-add-to-sales-campaign-in-salesforce-14.png)

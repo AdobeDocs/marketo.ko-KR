@@ -1,7 +1,7 @@
 ---
 description: Salesforce에서 판매 이메일 대량 보내기 사용 - Marketo 문서 - 제품 설명서
 title: Salesforce에서 판매 이메일 대량 보내기 사용
-source-git-commit: 4d88547ecdc25a2a1e0de49fab1493bbefd6800b
+source-git-commit: b7d80630e55d30364912e472d126a994c5eeca19
 workflow-type: tm+mt
 source-wordcount: '585'
 ht-degree: 0%
@@ -67,6 +67,8 @@ Salesforce에서 대량 이메일을 보내어 판매 작업을 사용하여 아
    >새 보기 만들기 를 클릭하고 사용 가능한 필터를 구성하여 Sales Campaign에 추가할 대상자의 목록을 좁혀 새 보기를 만들 수 있습니다.
 
 1. 원하는 가망 고객 또는 연락처 목록을 선택하고 **판매 이메일 보내기** 단추를 클릭합니다.
+
+   ![](assets/using-bulk-send-sales-email-in-salesforce-5.png)
 
 1. 작성 창에서 선택한 수신자가 포함된 작업 작성 창으로 이동합니다.
 
