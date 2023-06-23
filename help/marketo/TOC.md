@@ -3,9 +3,9 @@ audience: end-user
 user-guide-title: Marketo 안내서
 user-guide-description: Marketo 제품 설명서
 feature-set: Marketo Engage
-source-git-commit: e994a8d7a9d11545fec3bf61c505180f20107ac4
+source-git-commit: 4974947d546e6e66e69413462e577bfc4e9c1dd8
 workflow-type: tm+mt
-source-wordcount: '8961'
+source-wordcount: '8963'
 ht-degree: 0%
 
 ---
@@ -485,10 +485,10 @@ ht-degree: 0%
          + [폴더 이해](product-docs/core-marketo-concepts/miscellaneous/understanding-folders.md)
          + [알림 이해](product-docs/core-marketo-concepts/miscellaneous/understanding-notifications.md)
          + [알림 유형](product-docs/core-marketo-concepts/miscellaneous/understanding-notifications/notification-types.md)
-      + 여정 아님 {#not-journeys}
-         + [이름 개요](product-docs/core-marketo-concepts/not-journeys/name-overview.md)
-         + [이름 탭](product-docs/core-marketo-concepts/not-journeys/name-tab.md)
-         + [설정 탭](product-docs/core-marketo-concepts/not-journeys/settings-tab.md)
+      + 참여 캔버스 {#engagement-canvas}
+         + [참여 캔버스 개요](product-docs/core-marketo-concepts/engagement-canvas/engagement-canvas-overview.md)
+         + [참여 캔버스 탭](product-docs/core-marketo-concepts/engagement-canvas/engagement-canvas-tab.md)
+         + [설정 탭](product-docs/core-marketo-concepts/engagement-canvas/settings-tab.md)
       + Predictive Audiences {#predictive-audiences}
          + [Predictive Audiences 시작](product-docs/core-marketo-concepts/predictive-audiences/getting-started-with-predictive-audiences.md)
          + [모델 및 인사이트](product-docs/core-marketo-concepts/predictive-audiences/models-and-insights.md)
