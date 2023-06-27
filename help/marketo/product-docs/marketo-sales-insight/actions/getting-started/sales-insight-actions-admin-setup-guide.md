@@ -2,9 +2,9 @@
 description: Sales Insight Actions 관리 설정 안내서 - Marketo 문서 - 제품 설명서
 title: Sales Insight Actions 관리 설정 안내서
 exl-id: 339d518d-445b-4634-ab81-92c9d5541927
-source-git-commit: 544dfc0892016223c1e5976bd8c9d108ade7c984
+source-git-commit: 8b9b2b83f5dc8908f9794d1ee387299edaae31b3
 workflow-type: tm+mt
-source-wordcount: '626'
+source-wordcount: '660'
 ht-degree: 0%
 
 ---
@@ -60,6 +60,10 @@ ht-degree: 0%
 1. Marketo에서 **관리자**.
 
    ![](assets/msi-actions-admin-guide-1.png)
+
+   >[!NOTE]
+   >
+   >통합 정보 카드에 클라이언트 ID 및 클라이언트 암호가 표시되지 않는 경우 첫 번째 사용자를 초대하여 작업 인스턴스를 활성화하면 클라이언트 ID 및 클라이언트 암호가 표시됩니다.
 
 1. 클릭 **Sales Insight**, 그런 다음 **작업 구성**. 초대할 Marketo 관리자 목록에서 선택하고 **초대 보내기**.
 

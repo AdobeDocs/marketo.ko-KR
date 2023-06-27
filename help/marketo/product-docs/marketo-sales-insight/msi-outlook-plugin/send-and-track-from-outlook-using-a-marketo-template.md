@@ -1,41 +1,45 @@
 ---
 unique-page-id: 2949283
-description: Marketo 템플릿을 사용하여 Outlook에서 보내기 및 추적 - Marketo 문서 - 제품 설명서
-title: Marketo 템플릿을 사용하여 Outlook에서 보내기 및 추적
+description: Marketo 템플릿을 사용하여 Outlook에서 전송 및 추적 - Marketo 문서 - 제품 설명서
+title: Marketo 템플릿을 사용하여 Outlook에서 전송 및 추적
 exl-id: 72514b21-f10f-4958-8ee1-0e7f46429e6e
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+source-git-commit: 8b9b2b83f5dc8908f9794d1ee387299edaae31b3
 workflow-type: tm+mt
-source-wordcount: '140'
+source-wordcount: '198'
 ht-degree: 0%
 
 ---
 
-# Marketo 템플릿을 사용하여 Outlook에서 보내기 및 추적 {#send-and-track-from-outlook-using-a-marketo-template}
+# Marketo 템플릿을 사용하여 Outlook에서 전송 및 추적 {#send-and-track-from-outlook-using-a-marketo-template}
 
-마케팅 팀이 템플릿을 사용할 수 있도록 만든 경우, 이 템플릿을 사용하여 전자 메일을 작성할 때 시간을 절약하는 방법을 설명합니다.
+마케팅 팀에서 템플릿을 사용할 수 있도록 한 경우 이메일을 작성할 때 템플릿을 사용하여 시간을 절약할 수 있는 방법은 다음과 같습니다.
+
+>[!NOTE]
+>
+>Gmail 및 Outlook용 Sales Insight 이메일 플러그인에서 판매 이메일 보내기, 판매 캠페인에 추가, 작업 등 Sales Insight 작업 기능을 사용할 수 없습니다. 현재 사용자는 Sales Insight 이메일 플러그인을 사용할 때 이메일 클라이언트에서 Marketo 이메일 템플릿을 사용하거나 사용하지 않고 추적 가능한 이메일을 보낼 수 있습니다.
 
 1. Microsoft Outlook을 열고 클릭 **Marketo 메시지**.
 
    ![](assets/image2014-9-23-17-3a8-3a33.png)
 
-1. 원하는 템플릿을 선택하고 미리 보고 **확인**.
+1. 원하는 템플릿을 선택하고 미리 본 다음 를 클릭합니다 **확인**.
 
    ![](assets/image2014-9-23-17-3a8-3a45.png)
 
-1. 모든 편집 작업을 수행한 다음 **보내기 및 추적**.
+1. 모든 편집 작업을 수행한 다음 **전송 및 추적**.
 
    ![](assets/image2014-9-23-17-3a8-3a58.png)
 
    >[!NOTE]
    >
-   >추가 기능에서는 토큰이 지원되지 않습니다. 템플릿에 있을 수 있는 모든 항목을 제거합니다.
+   >토큰은 추가 기능에서 지원되지 않습니다. 템플릿에 있을 수 있는 모든 을(를) 제거합니다.
 
-1. 미리 보기를 확인하고, 제대로 보이도록 한 다음 를 클릭합니다 **보내기**.
+1. 미리보기를 확인하고, 이상이 없는지 확인한 다음 **보내기**.
 
    ![](assets/image2014-9-23-17-3a9-3a11.png)
 
-   자, 자! 뛰어난 마케팅 팀이 만든 템플릿을 사용하여 많은 시간을 절약할 수 있었습니다.
+   자, 이제 시작이다! 뛰어난 마케팅 팀이 만든 템플릿을 사용하여 많은 시간을 절약할 수 있습니다.
 
 >[!MORELIKETHIS]
 >
->[Marketo에서 리드의 인바운드 메일 로그](/help/marketo/product-docs/marketo-sales-insight/using-msi/log-inbound-mail-from-your-leads-in-marketo.md)
+>[Marketo에서 잠재 고객의 인바운드 메일 기록](/help/marketo/product-docs/marketo-sales-insight/using-msi/log-inbound-mail-from-your-leads-in-marketo.md)
