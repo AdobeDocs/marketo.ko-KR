@@ -3,9 +3,9 @@ audience: end-user
 user-guide-title: Marketo 안내서
 user-guide-description: Marketo 제품 설명서
 feature-set: Marketo Engage
-source-git-commit: 4974947d546e6e66e69413462e577bfc4e9c1dd8
+source-git-commit: 3de5fccd516fdaee6c3dc5168df3d2b0767eb2c3
 workflow-type: tm+mt
-source-wordcount: '8963'
+source-wordcount: '8989'
 ht-degree: 0%
 
 ---
@@ -1332,7 +1332,6 @@ ht-degree: 0%
             + [캠페인이 종료됨](product-docs/marketo-sales-insight/actions/campaigns/campaign-has-ended.md)
             + [판매 캠페인 만들기](product-docs/marketo-sales-insight/actions/campaigns/create-a-sales-campaign.md)
             + [판매 캠페인 설정](product-docs/marketo-sales-insight/actions/campaigns/sales-campaign-settings.md)
-            + [이메일 단계에 대한 판매 캠페인 전송 옵션](product-docs/marketo-sales-insight/actions/campaigns/sales-campaign-send-options-for-email-steps.md)
             + [판매 캠페인 단계 유형 및 미리 알림 작업](product-docs/marketo-sales-insight/actions/campaigns/sales-campaign-step-types-and-reminder-tasks.md)
             + [이메일 단계에 대한 판매 캠페인 전송 옵션 이해](product-docs/marketo-sales-insight/actions/campaigns/understanding-sales-campaign-send-options-for-email-steps.md)
             + [다른 사용자로 캠페인 목록 보기](product-docs/marketo-sales-insight/actions/campaigns/view-campaigns-list-as-another-user.md)
@@ -1387,6 +1386,7 @@ ht-degree: 0%
             + [삭제한 연락처 또는 그룹을 복구할 수 있습니까?](product-docs/marketo-sales-insight/actions/faq/can-i-recover-a-contact-or-group-i-deleted.md)
             + [CC/BCC로 여러 수신자를 추적할 수 있습니까?](product-docs/marketo-sales-insight/actions/faq/can-i-track-multiple-recipients-with-cc-bcc.md)
             + [컨텐츠 및 파일 첨부 파일 FAQ](product-docs/marketo-sales-insight/actions/faq/content-and-file-attachment-faq.md)
+            + [이메일의 참조 및 BCC 섹션에 나열된 수신자의 보기, 클릭 수 및 답글이 추적됩니까?](product-docs/marketo-sales-insight/actions/faq/do-views-clicks-and-replies-from-cc-and-bcc-get-tracked.md)
             + [Sales Insight 작업에는 iPhone 또는 Android 앱이 있습니까?](product-docs/marketo-sales-insight/actions/faq/does-sales-insight-actions-have-an-iphone-or-android-app.md)
             + [내 서버에서 Sales Insight 작업을 어떻게 허용 목록 할 수 있습니까?](product-docs/marketo-sales-insight/actions/faq/how-can-i-allowlist-sales-insight-actions-on-my-server.md)
             + [Salesforce에 연결할 때 &quot;요청을 인증할 수 없습니다.&quot;를 해결하려면 어떻게 합니까?](product-docs/marketo-sales-insight/actions/faq/how-do-i-fix-we-were-unable-to-authenticate-your-request-when-connecting-to-salesforce.md)
@@ -1402,6 +1402,8 @@ ht-degree: 0%
             + [내 판매 활동 및 활동 필드가 Salesforce와 동기화되지 않는 이유는 무엇입니까?](product-docs/marketo-sales-insight/actions/faq/why-arent-my-sales-activities-and-activity-fields-syncing-to-salesforce.md)
             + [연락처를 삭제할 수 없는 이유](product-docs/marketo-sales-insight/actions/faq/why-cant-i-delete-a-contact.md)
             + [왜 모든 연락처가 Sales Insight 작업에 푸시되지 않습니까?](product-docs/marketo-sales-insight/actions/faq/why-didnt-all-of-my-contacts-get-pushed-to-sales-insight-actions.md)
+            + [왜 내 이메일이 스팸으로 표시됩니까?](product-docs/marketo-sales-insight/actions/faq/why-do-my-emails-get-marked-as-spam.md)
+            + [내 캠페인이 종료된 이유는 무엇입니까?](product-docs/marketo-sales-insight/actions/faq/why-has-my-campaign-ended.md)
             + [추적 활동이 Salesforce 활동에 표시되지 않는 이유는 무엇입니까?](product-docs/marketo-sales-insight/actions/faq/why-is-tracking-activity-not-showing-in-salesforce-activity.md)
          + 통합 {#integrations}
             + [Highspot 통합](product-docs/marketo-sales-insight/actions/integrations/highspot-integration.md)

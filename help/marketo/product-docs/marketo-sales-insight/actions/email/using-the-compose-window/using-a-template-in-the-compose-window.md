@@ -2,7 +2,7 @@
 description: 작성 창에서 템플릿 사용 - Marketo 문서 - 제품 설명서
 title: 작성 창에서 템플릿 사용
 exl-id: 766cf3e6-5afa-4ccc-9093-efd06b1713cf
-source-git-commit: 8b9b2b83f5dc8908f9794d1ee387299edaae31b3
+source-git-commit: 3de5fccd516fdaee6c3dc5168df3d2b0767eb2c3
 workflow-type: tm+mt
 source-wordcount: '291'
 ht-degree: 0%
@@ -24,10 +24,6 @@ ht-degree: 0%
 1. 템플릿 섹션에서 검색 아이콘을 클릭하여 템플릿 검색 필드를 엽니다.
 
    ![](assets/using-a-template-in-the-compose-window-3.png)
-
-   >[!TIP]
-   >
-   >&quot;모두&quot; 범주를 고정하여 전체 템플릿 라이브러리 검색에 빠르게 액세스할 수 있도록 하는 것이 좋습니다. 찾고 있는 항목을 찾기 위해 모든 템플릿을 검색해야 하는 경우가 많기 때문입니다. 고정된 카테고리를 선택하고 검색 아이콘을 클릭하면 선택한 고정된 카테고리 내의 검색이 기본적으로 검색됩니다.
 
 1. 검색할 범주를 선택합니다(또는 모든 범주를 검색하려면 모두 선택).
 
@@ -56,6 +52,10 @@ ht-degree: 0%
 1. 다음을 클릭합니다. **범주 고정** 드롭다운을 클릭하고 원하는 카테고리를 선택합니다.
 
    ![](assets/using-a-template-in-the-compose-window-8.png)
+
+   >[!TIP]
+   >
+   >&quot;모두&quot; 범주를 고정하여 전체 템플릿 라이브러리 검색에 빠르게 액세스할 수 있도록 하는 것이 좋습니다. 찾고 있는 항목을 찾기 위해 모든 템플릿을 검색해야 하는 경우가 많기 때문입니다. 고정된 카테고리를 선택하고 검색 아이콘을 클릭하면 선택한 고정된 카테고리 내의 검색이 기본적으로 검색됩니다.
 
 1. 클릭 **변경 내용 저장** 완료되면 됩니다(선택 사항: 3단계를 반복하여 추가).
 
