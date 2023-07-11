@@ -2,9 +2,9 @@
 description: 사용자 및 라이선스 관리 - Marketo 문서 - 제품 설명서
 title: 사용자 및 라이선스 관리
 exl-id: 1fee628b-e9f3-46ab-b993-f2d09fe5e183
-source-git-commit: f3a6427520dff6f4e98bfe3c1afbc1b4fe5ea325
+source-git-commit: c7479355c7f5fda97ce6ad0f18a5c3c6a597e535
 workflow-type: tm+mt
-source-wordcount: '412'
+source-wordcount: '414'
 ht-degree: 0%
 
 ---
@@ -51,7 +51,7 @@ ht-degree: 0%
 
 ## 라이선스 사용 {#license-usage}
 
-대화형 웨비나는 Adobe Connect 이벤트를 만들기 위한 특정 라이선스를 제공합니다. 라이센스가 추가될 때마다 새 라이센스 사용 상자가 나타납니다. Marketo 관리자는 아래 단계에 따라 라이센스를 볼 수 있습니다(편집할 수 없음). 추가 라이선스를 얻으려면 Adobe 계정 팀(계정 관리자)에 문의하십시오.
+대화형 웨비나는 Adobe Connect에서 제공하는 이벤트를 만들기 위한 특정 라이선스를 제공합니다. 라이센스가 추가될 때마다 새 라이센스 사용 상자가 나타납니다. Marketo 관리자는 아래 단계에 따라 라이센스를 볼 수 있습니다(편집할 수 없음). 추가 라이선스를 얻으려면 Adobe 계정 팀(계정 관리자)에 문의하십시오.
 
 1. 로 이동 **관리자** 영역입니다.
 

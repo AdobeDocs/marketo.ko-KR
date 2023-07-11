@@ -2,9 +2,9 @@
 description: 이벤트 워크플로 - Marketo 문서 - 제품 설명서
 title: 이벤트 워크플로
 exl-id: c9f44d9f-9210-4303-a9b5-22be1376efc4
-source-git-commit: f3a6427520dff6f4e98bfe3c1afbc1b4fe5ea325
+source-git-commit: c7479355c7f5fda97ce6ad0f18a5c3c6a597e535
 workflow-type: tm+mt
-source-wordcount: '255'
+source-wordcount: '257'
 ht-degree: 0%
 
 ---
@@ -27,9 +27,9 @@ ht-degree: 0%
 
 **출석**: 웨비나에 참석한 다양한 구성원의 참석 기간을 전체 웨비나 기간과 비교하여 백분율로 강조 표시합니다.
 
-**폴 성능**: Adobe Connect에서 웨비나 동안 시작된 다양한 설문 조사와 각 질문에 대한 설문 조사에 참석하고 응답한 구성원의 분포를 표시합니다.
+**폴 성능**: Adobe Connect에서 제공하는 웨비나 중에 시작된 다양한 설문 조사와 각 질문에 대한 설문 조사에 참석하고 응답한 구성원의 분포를 표시합니다.
 
-**클릭하여 파일 다운로드 활동**: 웨비나에 참여하고 특정 작업을 수행한 다양한 구성원이 Adobe Connect에서 웨비나 동안 클릭한 파일 및 웹 링크의 다운로드 수를 제공합니다.
+**클릭하여 파일 다운로드 활동**: 웨비나에 참여하고 특정 작업을 수행한 다양한 구성원이 Adobe Connect에서 제공하는 웨비나 동안 클릭한 파일 및 웹 링크의 다운로드 수를 제공합니다.
 
 ## 트리거 및 필터 {#triggers-and-filters}
 
