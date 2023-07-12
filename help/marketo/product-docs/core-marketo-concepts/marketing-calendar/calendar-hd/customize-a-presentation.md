@@ -3,16 +3,16 @@ unique-page-id: 7503973
 description: 프레젠테이션 사용자 지정 - Marketo 문서 - 제품 설명서
 title: 프레젠테이션 사용자 지정
 exl-id: c871afb9-9762-498d-b168-cfce4ef05736
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+source-git-commit: dd4fb7dfc92580c58da70d603b6d92bd8f64493c
 workflow-type: tm+mt
-source-wordcount: '285'
+source-wordcount: '277'
 ht-degree: 0%
 
 ---
 
 # 프레젠테이션 사용자 지정 {#customize-a-presentation}
 
-팀에 가장 중요한 목표 및 활동을 반영하도록 달력 프레젠테이션을 설정합니다.
+팀에 가장 중요한 목표와 활동을 반영하도록 달력 프레젠테이션을 설정하십시오.
 
 >[!AVAILABILITY]
 >
@@ -21,22 +21,21 @@ ht-degree: 0%
 
 >[!PREREQUISITES]
 >
->* [사용자 지정 목표 만들기](/help/marketo/product-docs/core-marketo-concepts/marketing-calendar/calendar-hd/create-a-custom-goal.md) 또는 [스마트 목록 목표](/help/marketo/product-docs/core-marketo-concepts/marketing-calendar/calendar-hd/create-a-smart-list-goal.md)
+>* [사용자 정의 목표 만들기](/help/marketo/product-docs/core-marketo-concepts/marketing-calendar/calendar-hd/create-a-custom-goal.md){target="_blank"} or [Smart List Goals](/help/marketo/product-docs/core-marketo-concepts/marketing-calendar/calendar-hd/create-a-smart-list-goal.md){target="_blank"}
 >
->* [프레젠테이션 만들기](/help/marketo/product-docs/core-marketo-concepts/marketing-calendar/calendar-hd/create-a-presentation.md)
-
+>* [프레젠테이션 만들기](/help/marketo/product-docs/core-marketo-concepts/marketing-calendar/calendar-hd/create-a-presentation.md){target="_blank"}
 
 ## 뷰 선택 {#choosing-the-views}
 
-Presentations은 서로 다른 [필터 정의](/help/marketo/product-docs/core-marketo-concepts/marketing-calendar/working-with-the-calendar/filtering-the-marketing-calendar.md) 선택하시면 됩니다 원하는 만큼 보기를 가져오고 빈도를 사용자 지정합니다.
+Presentations이 다른 페이지를 순환함 [필터 정의](/help/marketo/product-docs/core-marketo-concepts/marketing-calendar/working-with-the-calendar/filtering-the-marketing-calendar.md){target="_blank"} 네가 선택해 원하는 만큼 보기를 가져오고 빈도를 사용자 지정합니다.
 
-1. 오른쪽 트리에서 프레젠테이션에서 회전할 다른 뷰를 드래그합니다.
+1. 오른쪽 트리에서 프레젠테이션에서 회전할 다른 보기를 드래그합니다.
 
    ![](assets/image2015-3-18-13-3a6-3a10.png)
 
 ## 목표 추가 {#add-a-goal}
 
-Presentations은 팀 목표를 표시할 때 가장 뛰어난 기능입니다. 다른 곳으로 드래그하면 됩니다 [사용자 지정 목표](/help/marketo/product-docs/core-marketo-concepts/marketing-calendar/calendar-hd/create-a-custom-goal.md) 또는 [스마트 목록 목표](/help/marketo/product-docs/core-marketo-concepts/marketing-calendar/calendar-hd/create-a-smart-list-goal.md). 최대 10개까지 사용할 수 있습니다.
+Presentations은 팀 목표를 표시할 때 가장 멋진 팀입니다. 다른 곳으로 끌어서 [사용자 정의 목표](/help/marketo/product-docs/core-marketo-concepts/marketing-calendar/calendar-hd/create-a-custom-goal.md){target="_blank"} or [smart list goals](/help/marketo/product-docs/core-marketo-concepts/marketing-calendar/calendar-hd/create-a-smart-list-goal.md){target="_blank"}. 최대 10개까지 사용할 수 있습니다.
 
 1. 오른쪽 트리에서 프레젠테이션에 표시할 다른 목표를 드래그합니다.
 
@@ -44,17 +43,17 @@ Presentations은 팀 목표를 표시할 때 가장 뛰어난 기능입니다. �
 
 ## 회전 빈도 설정 {#set-the-frequency-of-rotation}
 
-프레젠테이션에서 원하는 보기를 가져오면 다른 보기 간에 회전하는 빈도를 설정합니다.
+프레젠테이션에서 원하는 보기를 가져왔으면 다른 보기 간에 회전하는 빈도를 설정합니다.
 
-1. 클릭 **5분** 기본 케이던스입니다.
+1. 클릭 **[!UICONTROL 5분]** (기본 케이던스입니다.)
 
    ![](assets/image2015-3-18-13-3a17-3a29.png)
 
-1. 시간을 분 단위로 입력합니다. 클릭 **저장**.
+1. 분을 사용하여 시간을 입력합니다. 클릭 **[!UICONTROL 저장]**.
 
    >[!NOTE]
    >
-   >을 선택하여 정적 보기 하나를 표시합니다 **회전 비활성화**.
+   >다음을 확인하여 하나의 정적 보기 표시 **[!UICONTROL 회전 비활성화]**.
 
    ![](assets/image2015-3-18-13-3a22-3a18.png)
 
@@ -62,32 +61,31 @@ Presentations은 팀 목표를 표시할 때 가장 뛰어난 기능입니다. �
 
 달력 표시를 3주 또는 월별 보기로 변경할 수 있습니다.
 
-1. 을(를) 선택합니다 **달력 표시** 드롭다운 및 다음 중 선택 **3주** 또는 하나 **월**.
+1. 다음 항목 선택 **[!UICONTROL 달력 표시]** 드롭다운 및 다음 중에서 선택 **[!UICONTROL 3주]** 또는 1개 **[!UICONTROL 월]**.
 
    ![](assets/image2015-3-18-13-3a27-3a37.png)
 
-   끝내줘! 프레젠테이션을 볼 준비가 되셨습니까?
+   멋지다! 프레젠테이션을 볼 준비가 되셨습니까?
 
 >[!TIP]
 >
->설정 [배경 이미지](/help/marketo/product-docs/core-marketo-concepts/marketing-calendar/calendar-hd/add-a-background-image-to-a-presentation.md) 프레젠테이션 자료입니다. 우리는 고양이나 무지개를 추천합니다.
+>설정 [배경 이미지](/help/marketo/product-docs/core-marketo-concepts/marketing-calendar/calendar-hd/add-a-background-image-to-a-presentation.md){target="_blank"} 프레젠테이션용. 우리는 새끼 고양이나 무지개를 추천합니다.
 
 ## 프레젠테이션 미리 보기 {#preview-a-presentation}
 
-프레젠테이션이 구성되면 미리 보고 시작할 준비가 되었습니다.
+프레젠테이션을 구성하고 나면 미리 보고 시작할 준비가 되었습니다.
 
-1. 선택 **미리 보기**.
+1. 선택 **[!UICONTROL 미리 보기]**.
 
    ![](assets/image2015-3-18-13-3a37-3a55.png)
 
-   타! 프레젠테이션의 모습은 다음과 같습니다.
+   짜잔! 이것이 당신의 프레젠테이션의 모습입니다.
 
    ![](assets/image2015-3-24-14-3a29-3a29.png)
 
-   보는 게 마음에 안 들어? 돌아가서 다른 필터 정의를 사용하여 원하는 보기를 만듭니다.
+   보이는 게 마음에 안 들어? 돌아가서 다른 필터 정의를 사용하여 원하는 보기를 만듭니다.
 
 >[!MORELIKETHIS]
 >
->* [프레젠테이션에 배경 이미지 추가](/help/marketo/product-docs/core-marketo-concepts/marketing-calendar/calendar-hd/add-a-background-image-to-a-presentation.md)
->* [프레젠테이션 시작](/help/marketo/product-docs/core-marketo-concepts/marketing-calendar/calendar-hd/launch-a-presentation.md)
-
+>* [프레젠테이션에 배경 이미지 추가](/help/marketo/product-docs/core-marketo-concepts/marketing-calendar/calendar-hd/add-a-background-image-to-a-presentation.md){target="_blank"}
+>* [프레젠테이션 시작](/help/marketo/product-docs/core-marketo-concepts/marketing-calendar/calendar-hd/launch-a-presentation.md){target="_blank"}
