@@ -2,9 +2,9 @@
 description: 현재 릴리스 정보 - Marketo 설명서 - 제품 설명서
 title: 최신 릴리스 정보
 exl-id: a2eccad5-73ad-48f9-8091-51cee23824e1
-source-git-commit: e994a8d7a9d11545fec3bf61c505180f20107ac4
+source-git-commit: 94c6a8dd94bce1d4e938f62365e8fc2c3c391814
 workflow-type: tm+mt
-source-wordcount: '643'
+source-wordcount: '673'
 ht-degree: 2%
 
 ---
@@ -165,6 +165,10 @@ ht-degree: 2%
 
 실시간 개인화 Marketo Engage에 두 가지 향상된 기능이 제공됩니다.
 
-* **Google Analytics 4로 업그레이드**: Marketo은 이전에 Universal Analytics를 지원했으며, 2023년 7월 1일까지 데이터 기록을 중단합니다. RTP 사용자는 Google Analytics 대시보드의 마이그레이션 프로세스를 따라 RTP에서 Google Analytics 4 통합에 대한 지원을 완료해야 합니다. 앞으로 사용자는 고유한 영숫자 태그를 갖게 됩니다( 내에 위치). `<head>` Marketo Google Analytics 섹션(html)을 참조하십시오.
+* **jQuery 3.7로 업그레이드**: 보안 및 안정성을 개선하기 위해 Marketo은 jQuery 3.7.0으로 업그레이드하고 있습니다. Marketo이 rtp.js에서 로드되는 기본 버전을 변경하고 있으므로 자체 jQuery를 로드하지 않는 RTP 사용자는 부정적인 영향을 받지 않습니다. 그러나 jQuery 버전이 3.0.0보다 오래된 RTP 사용자인 경우 [Marketo 지원](https://nation.marketo.com/t5/support/ct-p/Support){target="_blank"} 사용자의 요구 사항에 맞는 사용자 정의 버전의 rtp.js를 구현하는 데 도움이 됩니다.
 
-* **jQuery 3.7로 업그레이드**: 보안 및 안정성을 개선하기 위해 Marketo은 jQuery 3.7.0으로 업그레이드하고 있습니다. Marketo이 rtp.js에서 로드되는 기본 버전을 변경하고 있으므로 자체 jQuery를 로드하지 않는 RTP 사용자는 부정적인 영향을 받지 않습니다. 그러나 jQuery 버전이 3.0.0보다 오래된 RTP 사용자인 경우 다음으로 문의하십시오. [Marketo 지원](https://nation.marketo.com/t5/support/ct-p/Support){target="_blank"} 사용자의 요구 사항에 맞는 사용자 정의 버전의 rtp.js를 구현하는 데 도움이 됩니다.
+>[!NOTE]
+>
+>웹 개발 팀과 협력하여 사이트가 자체 JQuery 라이브러리를 로드하는지 또는 웹 개인화 RTP JavaScript 태그에서 로드되는 기본 버전을 활용하는지 확인하십시오.
+
+* **Google Analytics 4로 업그레이드**: Marketo은 이전에 Universal Analytics를 지원했으며, 2023년 7월 1일까지 데이터 기록을 중단합니다. RTP 사용자는 Google Analytics 대시보드의 마이그레이션 프로세스를 따라 RTP에서 Google Analytics 4 통합에 대한 지원을 완료해야 합니다. 앞으로 사용자는 고유한 영숫자 태그를 갖게 됩니다( 내에 위치). `<head>` Marketo Google Analytics 섹션(html)을 참조하십시오.
