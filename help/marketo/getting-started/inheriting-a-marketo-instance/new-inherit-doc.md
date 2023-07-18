@@ -3,16 +3,16 @@ description: 문서 상속 - Marketo 문서 - 제품 설명서
 title: 문서 상속
 hide: true
 hidefromtoc: true
-source-git-commit: 94c6a8dd94bce1d4e938f62365e8fc2c3c391814
+source-git-commit: 15c3124a53ce55810b598c43e29e21321534c81f
 workflow-type: tm+mt
-source-wordcount: '190'
+source-wordcount: '188'
 ht-degree: 48%
 
 ---
 
 # 문서 상속 {#inherit-doc}
 
-다른 관리자로부터 기존 Marketo Engage 인스턴스를 상속받았습니까? 그렇다면 이 가이드는 당신을 위한 것입니다.
+다른 관리자로부터 기존 Marketo Engage 인스턴스를 상속받았습니까? 그렇다면, 이 기사는 당신을 위한 것입니다.
 
 >[!TIP]
 >
