@@ -3,7 +3,7 @@ audience: end-user
 user-guide-title: Marketo 안내서
 user-guide-description: Marketo 제품 설명서
 feature-set: Marketo Engage
-source-git-commit: beb109fca5f7a94623cac438d2fc8d192905e869
+source-git-commit: 8b934d0c02824953a3b4c3f5c7bfd0bfc741cbe2
 workflow-type: tm+mt
 source-wordcount: '8996'
 ht-degree: 0%
@@ -400,7 +400,7 @@ ht-degree: 0%
             + [프로그램에서 기간 원가 사용](product-docs/core-marketo-concepts/programs/working-with-programs/using-period-costs-in-a-program.md)
          + 프로그램 라이브러리 {#program-library}
             + [프로그램 가져오기 라이브러리 개요](product-docs/core-marketo-concepts/programs/program-library/program-import-library-overview.md)
-            + [콘텐츠 관리 프로그램 템플릿](product-docs/core-marketo-concepts/programs/program-library/content-management-program-template.md)
+            + [콘텐츠 관리 프로그램 예](product-docs/core-marketo-concepts/programs/program-library/content-management-program-example.md)
          + 프로그램 성과 보고서 {#program-performance-report}
             + [프로그램 성과 보고서 만들기](product-docs/core-marketo-concepts/programs/program-performance-report/create-a-program-performance-report.md)
             + [프로그램 보고서에 프로그램 상태 열 추가](product-docs/core-marketo-concepts/programs/program-performance-report/add-program-status-columns-to-a-program-report.md)
