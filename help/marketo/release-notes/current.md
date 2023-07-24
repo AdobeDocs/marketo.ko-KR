@@ -2,9 +2,9 @@
 description: 현재 릴리스 정보 - Marketo 설명서 - 제품 설명서
 title: 최신 릴리스 정보
 exl-id: a2eccad5-73ad-48f9-8091-51cee23824e1
-source-git-commit: 94c6a8dd94bce1d4e938f62365e8fc2c3c391814
+source-git-commit: d232da08e8637a33ff76d63e7984d794a1e18e16
 workflow-type: tm+mt
-source-wordcount: '673'
+source-wordcount: '713'
 ht-degree: 2%
 
 ---
@@ -172,3 +172,5 @@ ht-degree: 2%
 >웹 개발 팀과 협력하여 사이트가 자체 JQuery 라이브러리를 로드하는지 또는 웹 개인화 RTP JavaScript 태그에서 로드되는 기본 버전을 활용하는지 확인하십시오.
 
 * **Google Analytics 4로 업그레이드**: Marketo은 이전에 Universal Analytics를 지원했으며, 2023년 7월 1일까지 데이터 기록을 중단합니다. RTP 사용자는 Google Analytics 대시보드의 마이그레이션 프로세스를 따라 RTP에서 Google Analytics 4 통합에 대한 지원을 완료해야 합니다. 앞으로 사용자는 고유한 영숫자 태그를 갖게 됩니다( 내에 위치). `<head>` Marketo Google Analytics 섹션(html)을 참조하십시오.
+
+* **_제품 릴리스 웨비나_**: 2023년 9월 6일 오전 9시(PT 기준) / 오후 12시(ET 기준) [라이브 웨비나](https://engage.marketo.com/2023_July_September_Release_Webinar_RegistrationPage.html){target="_blank"} 제품 팀에서 호스팅하며 최신 제품 혁신을 모두 사용하는 방법에 대해 알아봅니다.
