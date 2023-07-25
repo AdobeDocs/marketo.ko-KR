@@ -1,32 +1,33 @@
 ---
 unique-page-id: 2952636
-description: 사용자 지정 논리를 사용하여 중복 사람 찾기 - Marketo 문서 - 제품 설명서
-title: 사용자 지정 논리를 사용하여 중복 사람 찾기
+description: 사용자 지정 논리 - Marketo 문서 - 제품 설명서로 중복 사용자 찾기
+title: 사용자 지정 논리로 중복 사용자 찾기
 exl-id: e268ca34-03a3-403a-8869-4e2b60bba05c
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+feature: Smart Lists
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '137'
-ht-degree: 5%
+ht-degree: 6%
 
 ---
 
-# 사용자 지정 논리를 사용하여 중복 사람 찾기 {#find-duplicate-people-with-custom-logic}
+# 사용자 지정 논리로 중복 사용자 찾기 {#find-duplicate-people-with-custom-logic}
 
-Marketo에는 이메일 주소와 일치시켜 중복 사용자를 찾는 시스템 스마트 목록이 있습니다. 다른 필드를 사용하여 중복된 항목을 찾으려면 다음과 같이 하십시오.
+Marketo에는 이메일 주소를 일치시켜 중복 사용자를 찾는 시스템 스마트 목록이 있습니다. 다른 필드를 사용하여 와(과) 중복되는 항목을 찾으려면 다음 방법을 사용하십시오.
 
 >[!PREREQUISITES]
 >
 >[스마트 목록 만들기](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/creating-a-smart-list/create-a-smart-list.md)
 
-1. 로 이동합니다. **마케팅 활동** 영역.
+1. 로 이동 **마케팅 활동** 영역입니다.
 
 ![](assets/ma-2.png)
 
-1. 스마트 목록을 선택하고 **Smart List** 탭.
+1. 스마트 목록을 선택하고 **스마트 목록** 탭.
 
    ![](assets/two-4.png)
 
-1. 을(를) 찾아 드래그합니다. **중복 필드** 캔버스로 필터링합니다.
+1. 을(를) 찾아 드래그합니다. **중복 필드** 캔버스에 필터링합니다.
 
    ![](assets/three-4.png)
 
@@ -35,12 +36,12 @@ Marketo에는 이메일 주소와 일치시켜 중복 사용자를 찾는 시스
    * 이메일 주소
    * 전체 이름
    * 성
-   * 업데이트 날짜:
+   * 업데이트 시간
 
    >[!NOTE]
    >
-   >이메일 주소를 제외한 모든 필드는 대/소문자를 구분합니다. 따라서 전체 이름 필드에서 &quot;john doe&quot;를 사용하면 다음과 같이 됩니다 _not_ John Doe에 대한 결과 반환
+   >이메일 주소를 제외한 모든 필드는 대/소문자를 구분합니다. 따라서 전체 이름 필드에 &quot;john doe&quot;를 사용하면 _아님_ john Doe에 대한 결과를 반환합니다.
 
    ![](assets/four-2.png)
 
-   완료! 스마트 목록을 실행하여 이전에 선택한 필드에서 동일한 값을 가진 사람을 찾습니다.
+   완료! 스마트 목록을 실행하여 이전에 선택한 필드에서 값이 동일한 사람을 찾습니다.

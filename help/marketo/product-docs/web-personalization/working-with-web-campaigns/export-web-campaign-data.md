@@ -3,7 +3,8 @@ unique-page-id: 12615749
 description: 웹 캠페인 데이터 내보내기 - Marketo 문서 - 제품 설명서
 title: 웹 캠페인 데이터 내보내기
 exl-id: 04c33b2a-a314-486d-b72d-5618d7c0ed0d
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+feature: Web Personalization
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '54'
 ht-degree: 0%
@@ -14,7 +15,7 @@ ht-degree: 0%
 
 다음 간단한 단계에 따라 웹 캠페인 데이터를 내보냅니다.
 
-1. 이동 **웹 캠페인**.
+1. 다음으로 이동 **웹 캠페인**.
 
    ![](assets/one-2.png)
 
@@ -26,6 +27,6 @@ ht-degree: 0%
 
    ![](assets/three-2.png)
 
-1. 유용한 통계를 보려면 파일을 확인하십시오.
+1. 유용한 통계를 살펴보려면 파일을 확인하십시오.
 
    ![](assets/four-1.png)

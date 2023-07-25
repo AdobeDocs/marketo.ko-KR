@@ -3,7 +3,8 @@ unique-page-id: 2360331
 description: Marketo 사용자 정의 필드의 유형 변경 - Marketo 문서 - 제품 설명서
 title: Marketo 사용자 정의 필드 유형 변경
 exl-id: b9b3dfc5-cb5f-4233-9fe6-f8fdf111d48c
-source-git-commit: 20c41143d1e7839352dddbfea0951c2633987692
+feature: Field Management
+source-git-commit: 02b2e39580c5eac63de4b4b7fdaf2a835fdd4ba5
 workflow-type: tm+mt
 source-wordcount: '102'
 ht-degree: 0%

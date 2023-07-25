@@ -3,7 +3,8 @@ unique-page-id: 2949184
 description: SEO - 페이지 이해 - Marketo 문서 - 제품 설명서
 title: SEO - 페이지 이해
 exl-id: c0fa5408-4b4f-4981-b4ba-20f40c475244
-source-git-commit: 51ebbef7eac3c133f3bab14ba8899dfdab081ea6
+feature: SEO
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '278'
 ht-degree: 1%

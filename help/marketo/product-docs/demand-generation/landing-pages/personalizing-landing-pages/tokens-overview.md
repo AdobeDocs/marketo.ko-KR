@@ -3,7 +3,8 @@ unique-page-id: 2950799
 description: 토큰 개요 - Marketo 문서 - 제품 설명서
 title: 토큰 개요
 exl-id: d60816ce-33fb-4e18-8acd-71d4e90f47de
-source-git-commit: 4fc3cf6e6458f07df7cced9399831b8c6b50e0ad
+feature: Landing Pages
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '300'
 ht-degree: 0%
@@ -16,21 +17,21 @@ ht-degree: 0%
 
 ## 기본값 이해 {#understanding-default-values}
 
-토큰을 사용하는 경우 기본값을 제공할 수도 있습니다. 참조하는 필드에 값이 없는 경우를 나타내는 텍스트입니다.
+토큰을 사용할 때 기본값도 제공해야 합니다. 참조하고 있는 필드에 대한 값이 사람에게 없는지 보여 주는 텍스트입니다.
 
 ![](assets/image2014-12-2-13-3a16-3a48.png)
 
-이 예제에서 이메일에는 &quot;Greetings, (first name)&quot; 또는 &quot;Greetings, earthling&quot;(기본값)이라고 표시됩니다.
+이 예에서 이메일에는 &quot;Greetings, (이름)&quot; 또는 &quot;Greetings, earthling&quot;(기본값)이 표시됩니다.
 
 ![](assets/two.png)
 
 >[!CAUTION]
 >
->Marketo의 이메일 편집기를 사용할 때 토큰이 사전 헤더에서 작동하지 않습니다. 미리 헤더에서 토큰을 사용하려면 이메일 템플릿에서 자신의 HTML을 통해 해야 합니다.
+>Marketo의 이메일 편집기를 사용할 때 토큰이 사전 헤더에서 작동하지 않습니다. 프리 헤더에서 토큰을 사용하려면 이메일 템플릿에서 자체 HTML을 통해 사용해야 합니다.
 
 >[!NOTE]
 >
->이 목록은 완전하지 않다. 또한 Marketo에 있는 모든 사용자 지정 필드에 대해 토큰이 만들어집니다.
+>이 목록은 완전하지 않습니다. 또한 Marketo에 있는 모든 사용자 지정 필드에 대해 토큰이 만들어집니다.
 
 ## 개인 토큰 {#person-tokens}
 
@@ -86,7 +87,7 @@ ht-degree: 0%
 * `{{lead.Unsubscribed}}`
 * `{{lead.Unsubscribed Reason}}`
 * `{{lead.Updated At}}`
-* 사용자 지정 개인 필드는 표시 이름을 사용하는 경우에도 작동합니다(예: ). `{{lead.Custom Field Name}}`
+* 사용자 정의 사용자 필드는 표시 이름을 사용하는 경우에도 작동합니다. 예: `{{lead.Custom Field Name}}`
 
 ## 회사 토큰 {#company-tokens}
 
@@ -109,7 +110,7 @@ ht-degree: 0%
 * `{{Company.Site}}`
 * `{{Company.State}}`
 * `{{Company.Website}}`
-* 사용자 지정 회사 필드는 표시 이름을 ex로 사용하는 경우에도 작동합니다. `{{Company.Custom Field Name}}`
+* 사용자 정의 회사 필드는 해당 표시 이름 ex를 사용하는 경우에도 작동합니다. `{{Company.Custom Field Name}}`
 
 ## 캠페인 토큰 {#campaign-tokens}
 
@@ -121,7 +122,7 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->에서 이러한 토큰에 대해 자세히 알아보십시오 [시스템 토큰 용어집](/help/marketo/product-docs/email-marketing/general/using-tokens/system-tokens-glossary.md).
+>다음에서 이러한 토큰에 대해 자세히 알아보십시오. [시스템 토큰 용어집](/help/marketo/product-docs/email-marketing/general/using-tokens/system-tokens-glossary.md).
 
 * `{{system.date}}`
 * `{{system.time}}`
@@ -148,7 +149,7 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->에 대한 자세한 내용 찾기 [흥미로운 순간에 토큰](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/features/tabs-in-the-msi-panel/interesting-moments/trigger-tokens-for-interesting-moments.md) 스마트 캠페인에 사용된 트리거를 기반으로 합니다.
+>에 대한 자세한 내용 찾기 [즐거운 순간을 위한 토큰](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/features/tabs-in-the-msi-panel/interesting-moments/trigger-tokens-for-interesting-moments.md) smart campaign에 사용된 트리거를 기반으로 합니다.
 
 ## 프로그램 토큰 {#program-tokens}
 
@@ -158,11 +159,11 @@ ht-degree: 0%
 
 ## 내 토큰 {#my-tokens}
 
-내 토큰은 프로그램 내에 정의되며 `{{my.` 뒤에 토큰에 대해 만든 이름이 옵니다. 추가 정보 [프로그램의 내 토큰](/help/marketo/product-docs/core-marketo-concepts/programs/tokens/understanding-my-tokens-in-a-program.md).
+내 토큰은 프로그램 내에서 정의되며 다음으로 시작합니다. `{{my.` 뒤에 토큰으로 만든 이름이 옵니다. 자세히 알아보기 [프로그램의 내 토큰](/help/marketo/product-docs/core-marketo-concepts/programs/tokens/understanding-my-tokens-in-a-program.md).
 
-## 멤버 토큰 {#member-token}
+## 구성원 토큰 {#member-token}
 
-멤버 토큰은 통합 서비스 파트너의 고유 값을 삽입하는 데 사용됩니다. 일반적인 구성원 토큰 사용은 웨비나 참석자의 고유한 URL을 위한 것입니다. 각 사용자는 를 사용하여 삽입할 수 있는 웨비나에 액세스할 수 있는 고유한 URL을 보유합니다. `{{member.webinar url}}` 토큰. 다음 `{{member.webinar url}}` 토큰은 서비스 공급자가 생성한 개인의 고유 확인 URL을 자동으로 확인합니다.
+멤버 토큰은 통합 서비스 파트너의 고유 값을 삽입하는 데 사용됩니다. 멤버 토큰의 일반적인 용도는 웨비나 참석자의 고유 URL에 사용됩니다. 각 사용자에게는 를 사용하여 삽입할 수 있는 웨비나에 액세스할 수 있는 고유한 URL이 있습니다. `{{member.webinar url}}` 토큰. 다음 `{{member.webinar url}}` 토큰은 서비스 공급자가 생성한 개인의 고유 확인 URL을 자동으로 확인합니다.
 
 * `{{member.webinar url}}`
 

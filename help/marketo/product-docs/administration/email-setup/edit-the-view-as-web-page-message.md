@@ -3,7 +3,8 @@ unique-page-id: 2360253
 description: '"웹 페이지로 보기" 메시지 편집 - Marketo 문서 - 제품 설명서'
 title: '"웹 페이지로 보기" 메시지 편집'
 exl-id: 5541fe6c-7297-4277-8355-ba7b4ac73e2e
-source-git-commit: 81ee349dbbe48c70b040751cae750c3684b71c78
+feature: Email Setup
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '184'
 ht-degree: 0%
@@ -46,7 +47,6 @@ ht-degree: 0%
 >
 >* HTML 상자 중 하나에 추가 URL 추가
 >* 텍스트 버전에 HTML 넣기
-
 
 여기 있습니다. 형식을 지정하기 위해 테스트 이메일을 전송합니다.
 

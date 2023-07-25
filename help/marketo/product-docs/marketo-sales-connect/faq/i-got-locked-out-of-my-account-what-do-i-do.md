@@ -1,15 +1,16 @@
 ---
 unique-page-id: 14352494
-description: 내 계좌에서 잠겨버렸다. 어떻게 해야 합니까? - Marketo 문서 - 제품 설명서
-title: 내 계좌에서 잠겨버렸다. 어떻게 해야 합니까?
+description: 제 계좌가 잠겨버렸어요. 어떻게 해야 합니까? - Marketo 문서 - 제품 설명서
+title: 제 계좌가 잠겨버렸어요. 어떻게 해야 합니까?
 exl-id: ee6b61f8-24d5-4520-a111-00ece2ba02bc
-source-git-commit: 8704643b6e561ce368ce50804a2b7beed6cea71a
+feature: Marketo Sales Connect
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '69'
 ht-degree: 0%
 
 ---
 
-# 내 계좌에서 잠겨버렸다. 어떻게 해야 합니까? {#i-got-locked-out-of-my-account-what-do-i-do}
+# 제 계좌가 잠겨버렸어요. 어떻게 해야 합니까? {#i-got-locked-out-of-my-account-what-do-i-do}
 
-로그인을 시도하는 횟수를 초과하면 계정이 잠깁니다. 연락처 [Marketo 지원](https://nation.marketo.com/t5/Support/ct-p/Support#) 잠금이 해제되도록 도와드리겠습니다.
+로그인 시도 횟수를 초과한 경우 계정에서 잠깁니다. 다음으로 문의하십시오. [Marketo 지원](https://nation.marketo.com/t5/Support/ct-p/Support#) 잠금을 해제하는 데 도움이 필요합니다.

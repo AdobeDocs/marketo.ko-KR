@@ -3,38 +3,39 @@ unique-page-id: 10099102
 description: Microsoft Dynamics MSI용 플러그인 릴리스 - Marketo 문서 - 제품 설명서
 title: Microsoft Dynamics MSI용 플러그인 릴리스
 exl-id: 830f7dc3-07fd-429b-b0fd-290ffdda88e6
-source-git-commit: ff076d66a193664aa6ec05cf940143cebdd2d942
+feature: Microsoft Dynamics
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
-source-wordcount: '342'
+source-wordcount: '316'
 ht-degree: 6%
 
 ---
 
 # Microsoft Dynamics MSI용 플러그인 릴리스 {#plug-in-releases-for-microsoft-dynamics-msi}
 
-Microsoft Dynamics에 처음 동기화할 때 Marketo Sales Insight(MSI)용 플러그인의 최신 버전을 다운로드하여 설치합니다. Marketo은 정기적으로 이러한 플러그인을 업데이트하므로 동일한 위치로 돌아가 새 버전을 다운로드할 수 있습니다.
+Microsoft Dynamics에 처음 동기화하면 Marketo Sales Insight(MSI)의 최신 버전의 플러그인을 다운로드하여 설치합니다. Marketo은 이러한 플러그인을 정기적으로 업데이트하므로 동일한 위치로 돌아가서 새 버전을 다운로드할 수 있습니다.
 
-Marketo의 기본 CRM 동기화 솔루션을 Dynamics에 사용하는 경우 [최신 플러그인 다운로드](/help/marketo/product-docs/marketo-sales-insight/msi-for-microsoft-dynamics/installing/download-the-marketo-sales-insight-solution-for-microsoft-dynamics.md)Dynamics 릴리스에 해당하는 {target=&quot;_blank&quot;}. 사용자 지정 동기화가 있고 Marketo Sales Insight를 구입한 사용자의 경우 [패키지 여기](https://mktg-cdn.marketo.com/community/MarketoSalesInsight_NonNative.zip){target=&quot;_blank&quot;}.
+Marketo의 기본 CRM 동기화 솔루션을 Dynamics에 사용하는 경우 [최신 플러그인 다운로드](/help/marketo/product-docs/marketo-sales-insight/msi-for-microsoft-dynamics/installing/download-the-marketo-sales-insight-solution-for-microsoft-dynamics.md){target="_blank"} corresponding to your Dynamics release. For those who have a custom sync and have purchased Marketo Sales Insight, the [package is here](https://mktg-cdn.marketo.com/community/MarketoSalesInsight_NonNative.zip){target="_blank"}.
 
 >[!NOTE]
 >
->이러한 버전은 Dynamics의 온프레미스 및 온라인 버전 모두에서 작동합니다.
+>이러한 버전은 Dynamics의 온-프레미스 및 온라인 버전 모두에 대해 작동합니다.
 
 ## MSI 솔루션 업그레이드 {#upgrading-your-msi-solution}
 
-1. 솔루션의 최신 버전 가져오기 _기존 버전을 통해_ Dynamics CRM에서 **가져오기** Dynamics에서 단추를 클릭합니다.
+1. 최신 버전의 솔루션 가져오기 _기존 버전 이상_ 을 눌러 Dynamics CRM의 **가져오기** dynamics의 단추입니다.
 
    ![](assets/plug-in-releases-for-microsoft-dynamics-msi-1.png)
 
 >[!NOTE]
 >
->예: dynamics CRM에 버전 2.0.0.20이 있고 최신 버전이 2.0.0.21인 경우 가져오게 됩니다 _over_ 버전 2.0.0.20.
+>예: Dynamics CRM의 버전이 2.0.0.20이고 최신 버전이 2.0.0.21인 경우 다음을 가져옵니다. _초과_ 버전 2.0.0.20.
 
 1. 클릭 **다음**.
 
    ![](assets/plug-in-releases-for-microsoft-dynamics-msi-2.png)
 
-1. 선택 **업그레이드 단계** 및 **사용자 지정 유지 관리**&#x200B;를 클릭한 다음 **가져오기**.
+1. 선택 **업그레이드 단계** 및 **사용자 지정 유지**&#x200B;을 클릭한 다음 을 클릭합니다 **가져오기**.
 
    ![](assets/plug-in-releases-for-microsoft-dynamics-msi-3.png)
 
@@ -42,11 +43,11 @@ Marketo의 기본 CRM 동기화 솔루션을 Dynamics에 사용하는 경우 [�
 
    ![](assets/plug-in-releases-for-microsoft-dynamics-msi-4.png)
 
-1. 가져오기에 성공하면 두 가지 MSI 솔루션이 표시됩니다. MarketoSalesInsight 및 MarketoSalesInsight_Upgrade입니다. 이전 솔루션을 선택하고 솔루션 업그레이드 적용 을 클릭합니다.
+1. 가져오기에 성공하면 MarketoSalesInsight 및 MarketoSalesInsight_Upgrade 의 두 가지 MSI 솔루션이 표시됩니다. 이전 솔루션을 선택하고 솔루션 업그레이드 적용 을 클릭합니다.
 
    ![](assets/plug-in-releases-for-microsoft-dynamics-msi-5.png)
 
-그게 다야! 업그레이드 후 MSI 솔루션이 하나만 표시됩니다.
+다 됐습니다! 업그레이드 후에는 하나의 MSI 솔루션만 표시됩니다.
 
 ## 버전 업데이트 {#version-updates}
 
@@ -65,7 +66,7 @@ Marketo의 기본 CRM 동기화 솔루션을 Dynamics에 사용하는 경우 [�
   <tr> 
    <td colspan="1">02/03/22</td> 
    <td colspan="1">2.0.0.27</td> 
-   <td colspan="1">인사이트에 대한 계정 레이아웃: 흥미로운 순간, 점수 변경 사항, 웹 활동, 이메일 활동</td> 
+   <td colspan="1">인사이트를 위한 계정 레이아웃: 즐거운 순간, 점수 변경, 웹 활동, 이메일 활동</td> 
   </tr>
   <tr> 
    <td colspan="1">01/05/22</td> 
@@ -80,12 +81,12 @@ Marketo의 기본 CRM 동기화 솔루션을 Dynamics에 사용하는 경우 [�
   <tr> 
    <td colspan="1">02/10/21</td> 
    <td colspan="1">2.0.0.22</td> 
-   <td colspan="1">MSI 솔루션에서 자동 감사 사용 및 설명서 변경 제거</td> 
+   <td colspan="1">MSI 솔루션에서 자동 감사 사용 및 설명서 변경 내용 제거</td> 
   </tr>
   <tr> 
    <td colspan="1">10/01/20</td> 
    <td colspan="1">2.0.0.21</td> 
-   <td colspan="1">버그 수정: Sales Insight 역할을 가진 사용자를 위해 MSI API 구성 필드에 액세스 할당</td> 
+   <td colspan="1">버그 수정: Sales Insight 역할이 있는 사용자의 MSI API 구성 필드에 액세스 할당</td> 
   </tr> 
   <tr> 
    <td colspan="1">07/20/20</td> 
@@ -100,17 +101,17 @@ Marketo의 기본 CRM 동기화 솔루션을 Dynamics에 사용하는 경우 [�
   <tr> 
    <td colspan="1">05/26/20</td> 
    <td colspan="1">2.0.0.18</td> 
-   <td colspan="1">버그 수정: MSI 단추를 표시하기 위한 MSI 역할 ID 유효성 검사 변경</td> 
+   <td colspan="1">버그 수정: MSI 단추 표시에 대한 MSI 역할 ID 유효성 검사를 변경하려면</td> 
   </tr> 
   <tr> 
    <td colspan="1">05/21/20</td> 
    <td colspan="1">2.0.0.17</td> 
-   <td colspan="1">버그 수정: 소유자 필드 숨기기 취소 및 필드 비필수 만들기</td> 
+   <td colspan="1">버그 수정: 소유자 필드 숨기기 취소 및 필드를 필수가 아님</td> 
   </tr> 
   <tr> 
    <td colspan="1">04/28/20</td> 
    <td colspan="1">2.0.0.16</td> 
-   <td colspan="1">버그 수정: MSD CRM 사이트 맵 설정 링크 종속성을 제거하는 중</td> 
+   <td colspan="1">버그 수정: MSD CRM 사이트 맵 설정 링크 종속성 제거</td> 
   </tr> 
  </tbody> 
 </table>

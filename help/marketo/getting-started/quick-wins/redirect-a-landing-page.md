@@ -3,7 +3,8 @@ unique-page-id: 2359428
 description: 랜딩 페이지 리디렉션 - Marketo 문서 - 제품 설명서
 title: 랜딩 페이지 리디렉션
 exl-id: 5c9205aa-e970-4d72-a4e3-48593da4181c
-source-git-commit: 80512816eaf0a70a3f10a50c34aeea14edd9046b
+feature: Getting Started
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '139'
 ht-degree: 0%
@@ -22,7 +23,6 @@ ht-degree: 0%
 >
 >* [양식이 있는 랜딩 페이지](/help/marketo/getting-started/quick-wins/landing-page-with-a-form.md){target="_blank"}
 >* [CNAME으로 랜딩 페이지 URL 사용자 지정](/help/marketo/product-docs/demand-generation/landing-pages/landing-page-actions/customize-your-landing-page-urls-with-a-cname.md){target="_blank"}
-
 
 ## 1단계: 새 리디렉션 규칙 시작 {#step-start-a-new-redirect-rule}
 

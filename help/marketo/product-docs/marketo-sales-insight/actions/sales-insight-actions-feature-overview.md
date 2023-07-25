@@ -2,7 +2,8 @@
 description: Sales Insight 작업 기능 개요 - Marketo 문서 - 제품 설명서
 title: Sales Insight Actions 기능 개요
 exl-id: 059de248-d1a2-42cd-a7ec-f10b15d0b526
-source-git-commit: f238214988ae396d7c6e6ad0bd46fff232d442d6
+feature: Sales Insight Actions
+source-git-commit: 02b2e39580c5eac63de4b4b7fdaf2a835fdd4ba5
 workflow-type: tm+mt
 source-wordcount: '1392'
 ht-degree: 0%
@@ -130,7 +131,7 @@ MSI 패널 내의 탭에서 다음 데이터를 사용할 수 있습니다.
 * 판매 이메일 보내기 - 보기, 클릭 및 회신 추적을 사용하여 개인화되거나 템플릿화된 이메일을 보낼 수 있습니다.
 * Sales Campaign 보내기 - 이메일 및 작업의 시퀀스인 Sales Playbook에 잠재 고객을 추가합니다.
 
-   ![](assets/sales-insight-actions-feature-overview-4.png)
+  ![](assets/sales-insight-actions-feature-overview-4.png)
 
 Best Bets 탭에서 개별 리드/연락처에 대해 다음과 같은 인라인 작업을 사용할 수 있습니다.
 
@@ -139,7 +140,7 @@ Best Bets 탭에서 개별 리드/연락처에 대해 다음과 같은 인라인
 * 영업 전화 걸기 - CRM 내에서 전화 걸기를 사용하여 영업 전화 걸기
 * 작업 추가 - 잠재 고객을 위한 이메일, 통화, 고객 또는 Linkedin 작업을 만듭니다.
 
-   ![](assets/sales-insight-actions-feature-overview-5.png)
+  ![](assets/sales-insight-actions-feature-overview-5.png)
 
 **이메일 탭**
 
@@ -160,7 +161,7 @@ Best Bets 탭에서 개별 리드/연락처에 대해 다음과 같은 인라인
 * Salesforce와 작업 동기화
 * Salesforce 활동 내역 섹션에 작업 기록
 
-   ![](assets/sales-insight-actions-feature-overview-6.png)
+  ![](assets/sales-insight-actions-feature-overview-6.png)
 
 **라이브 피드**
 
@@ -189,4 +190,4 @@ Marketo에서 캡처한 영업 활동:
 * 판매 캠페인에 추가됨
 * 판매 캠페인에서 제거됨
 
-   ![](assets/sales-insight-actions-feature-overview-7.png)
+  ![](assets/sales-insight-actions-feature-overview-7.png)

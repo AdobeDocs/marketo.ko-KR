@@ -1,16 +1,17 @@
 ---
 unique-page-id: 10098759
-description: Marketo과 모바일 통합을 위한 Facebook 리드 광고 테스트 - Marketo 문서 - 제품 설명서
-title: Marketo과 모바일 통합을 위해 Facebook 리드 광고 테스트
+description: facebook 리드 광고를 Marketo과 모바일 통합하도록 테스트 - Marketo 문서 - 제품 설명서
+title: Marketo과의 모바일 통합을 위해 Facebook 리드 광고 테스트
 exl-id: 0c381c53-f97a-4e1d-b44d-5ee6521ac990
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+feature: Integrations
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '231'
 ht-degree: 0%
 
 ---
 
-# Marketo과 모바일 통합을 위해 Facebook 리드 광고 테스트 {#test-facebook-lead-ads-for-mobile-integration-with-marketo}
+# Marketo과의 모바일 통합을 위해 Facebook 리드 광고 테스트 {#test-facebook-lead-ads-for-mobile-integration-with-marketo}
 
 리드 광고를 만든 후 테스트해야 합니다!
 
@@ -18,7 +19,7 @@ ht-degree: 0%
 >
 >다음을 수행해야 합니다. [facebook 리드 광고 통합 설정](/help/marketo/product-docs/demand-generation/facebook/set-up-facebook-lead-ads.md).
 
-1. facebook Power Editor에서 캠페인 및 광고를 선택하고 **편집**.
+1. facebook 전원 편집기에서 캠페인 및 광고를 선택하고 **편집**.
 
 1. 아래 **링크**&#x200B;를 클릭하고 **모바일 앱에서 보기** 링크를 클릭합니다.
 
@@ -28,23 +29,23 @@ ht-degree: 0%
 
    ![](assets/image2016-3-11-8-3a35-3a7.png)
 
-1. 모바일 장치에서 **알림 을 참조하십시오** ( Facebook 모바일 앱)에 있을 때 참조할 수 있습니다.
+1. 모바일 장치에서 을 누릅니다. **알림** facebook 모바일 앱에서.
 
    ![](assets/image2016-3-11-8-3a38-3a35.png)
 
-1. 알림에서 탭하기 **광고를 미리 볼 준비가 되었습니다**.
+1. 알림에서 을 누릅니다. **광고를 미리 볼 준비가 되었습니다.**.
 
    ![](assets/image2016-3-11-8-3a41-3a59.png)
 
-1. 클릭유도문안 을 탭하고 작성한 양식을 작성하여 테스트 리드 광고 단위를 제출합니다.
+1. 클릭 유도 문안 을 탭하고 만든 양식을 작성하여 테스트 리드 광고 단위를 제출합니다.
 
    ![](assets/image2016-3-11-8-3a52-3a20.png)
 
    >[!NOTE]
    >
-   >클릭유도문안을 사용하는 예일 뿐입니다. 작업에 대한 리드 광고 단위 호출이 다를 수 있습니다.
+   >이는 추가 정보 클릭 유도 문안(Learn More Call To Action)을 사용하는 예입니다. 리드 광고 단위 콜 투 액션이 다를 수 있습니다.
 
-1. 여기가 마법이 일어나는 곳이에요! 양식을 제출하면 [Marketo에서 스마트 목록 작성](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/creating-a-smart-list/create-a-smart-list.md) 를 사용하는 프로그램 또는 리드 데이터베이스의 일부로 **facebook 리드 광고 양식 입력** 필터. 방금 제출한 양식의 리드 광고 양식 이름을 삽입합니다.
+1. 여기서 마법이 일어나요! 양식을 제출하면 [Marketo에서 스마트 목록 작성](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/creating-a-smart-list/create-a-smart-list.md) 를 사용하는 리드 데이터베이스 또는 프로그램의 일부로 **facebook 리드 광고 양식 작성됨** 필터. 방금 제출한 양식의 리드 광고 양식 이름을 삽입합니다.
 
    ![](assets/image2016-3-11-8-3a59-3a34.png)
 
@@ -52,7 +53,7 @@ ht-degree: 0%
 
    ![](assets/image2016-3-11-15-3a27-3a54.png)
 
-그거 멋지나요?
+멋진거야, 뭐야?
 
 >[!NOTE]
 >

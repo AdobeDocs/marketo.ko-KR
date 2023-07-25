@@ -2,7 +2,8 @@
 description: 개요 - Marketo 문서 - 제품 설명서
 title: 개요
 exl-id: 50ab55b2-f40d-4dbd-ac3b-aa52e37ff426
-source-git-commit: d019a6a4aa3f246ba330b527f0f0719d99565006
+feature: Modern UX
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '479'
 ht-degree: 1%
@@ -11,44 +12,43 @@ ht-degree: 1%
 
 # 개요 {#overview}
 
-Marketo Engage 플랫폼의 새로운 모양과 느낌과 함께 향상된 유용성을 제공하는 업데이트된 인터페이스인 Adobe Marketo Engage Modern UX(사용자 경험)를 시작합니다.
+Marketo Engage 플랫폼에서 새로운 룩과 느낌과 함께 향상된 유용성을 제공하는 업데이트된 인터페이스인 Adobe Marketo Engage Modern UX(사용자 경험)를 시작합니다.
 
 >[!PREREQUISITES]
 >
->IT 팀이를 사용하여 웹 액세스를 제한하는 허용 목록에 추가하다 경우 모든 Marketo 리소스 및 웹 소켓을 허용하려면 다음 도메인(별표 포함)을 추가하도록 요청하십시오.
+>IT 팀이 허용 목록에 추가하다를 사용하여 웹 액세스를 제한하는 경우 모든 Marketo 리소스 및 웹 소켓을 허용하도록 다음 도메인(별표 포함)을 추가하도록 요청하십시오.
 >
 >* *.marketo.com
 >* *.marketodesigner.com
 >* *.mktoweb.com
 
+## 둘러보기 {#take-the-tour}
 
-## 투어 시작 {#take-the-tour}
-
-처음 로그인하면 새 경험의 런다운을 제공할 준비가 된 팝업이 나타납니다. 잘 들어, 건너뛸 경우 **not** 나중에 사용 가능합니다.
+처음 로그인하면 새 경험에 대한 개요를 제공할 준비가 된 팝업이 나타납니다. 당신이 그것을 건너뛰기로 선택한다면, 그것은 **아님** 나중에 사용 가능
 
 ![](assets/overview-1.png)
 
-관광은 당신이 알아야 할 모든 것을 안내한다!
+이 투어는 여러분이 알아야 할 모든 것을 안내합니다!
 
 ## 새로운 기능 {#whats-new}
 
-최신 UX에는 마케팅 경험을 크게 향상시키기 위해 고안된 새로운 기능이 많습니다.
+Modern UX에는 마케팅 경험을 크게 개선하기 위해 설계된 많은 새로운 기능이 있습니다.
 
 **아이콘**
 
-새 인터페이스 기능은 개선되고 확장된 icongraphy를 제공합니다. 여기에서 이러한 기능에 대해 알아보십시오. [아이콘 용어집](/help/marketo/product-docs/marketo-engage-modern-ux/icon-glossary.md).
+새로운 인터페이스는 개선되고 확장된 도식화를 특징으로 합니다. 여기에서 자세히 알아보십시오. [아이콘 용어집](/help/marketo/product-docs/marketo-engage-modern-ux/icon-glossary.md).
 
 ![](assets/overview-2.png)
 
 **전역 탐색**
 
-슈퍼볼 잘 가세요 이제 모든 기본 Marketo Engage 섹션에 빠르게 액세스할 수 있습니다.
+슈퍼볼은 잘 가 이제 모든 기본 Marketo Engage 섹션에 빠르게 액세스할 수 있습니다.
 
 ![](assets/overview-5.png)
 
 **인스턴스 URL**
 
-또한 인스턴스의 URL에 반영되는 munchkin ID에 빠르게 액세스할 수 있습니다(여러 구독이 있는 사용자에게 더 유용함).
+또한 이제 인스턴스의 URL에 반영되는 munchkin ID에 빠르게 액세스할 수 있습니다(여러 구독이 있는 사용자에게 더 유용함).
 
 ![](assets/overview-6.png)
 
@@ -58,16 +58,16 @@ Marketo Engage 플랫폼의 새로운 모양과 느낌과 함께 향상된 유�
 
 >[!NOTE]
 >
->트리에서 검색을 수행하면 처음 250개의 결과만 표시됩니다. 검색 후 자산을 찾을 수 없는 경우 [전역 검색](/help/marketo/product-docs/marketo-engage-modern-ux/using-the-global-search.md) 함수 위에 있어야 합니다.
+>트리에서 검색을 수행하면 처음 250개의 결과만 표시됩니다. 검색 후 에셋을 찾을 수 없는 경우 [글로벌 검색](/help/marketo/product-docs/marketo-engage-modern-ux/using-the-global-search.md) 함수.
 
-**Marketo Classic과 새로운 Marketo 비교**
+**Marketo Classic과 새 Marketo 비교**
 
 <table> 
  <tbody>
   <tr>
    <th>기능</th> 
    <th>Classic</th> 
-   <th>다음 세대</th> 
+   <th>차세대</th> 
   </tr>
   <tr>
    <td>여러 필터를 동시에 적용</td> 
@@ -75,7 +75,7 @@ Marketo Engage 플랫폼의 새로운 모양과 느낌과 함께 향상된 유�
    <td><strong>X</strong></td>  
   </tr>
   <tr>
-   <td>초안 및 승인 트리 노드 결합</td> 
+   <td>초안 및 승인 트리 노드가 결합됨</td> 
    <td></td> 
    <td><strong>X</strong></td> 
   </tr>
@@ -85,7 +85,7 @@ Marketo Engage 플랫폼의 새로운 모양과 느낌과 함께 향상된 유�
    <td><strong>X</strong></td> 
   </tr>
   <tr>
-   <td>트리 노드를 확장/축소하려면 두 번 클릭합니다.</td> 
+   <td>두 번 클릭하여 트리 노드 확장/축소</td> 
    <td><strong>X</strong></td> 
    <td><strong>X</strong></td>  
   </tr>
@@ -95,7 +95,7 @@ Marketo Engage 플랫폼의 새로운 모양과 느낌과 함께 향상된 유�
    <td></td> 
   </tr>
   <tr>
-   <td>트리 내에서 드래그 앤 드롭</td> 
+   <td>트리 안으로 드래그 앤 드롭</td> 
    <td><strong>X</strong></td> 
    <td><strong>X</strong></td> 
   </tr>
@@ -105,7 +105,7 @@ Marketo Engage 플랫폼의 새로운 모양과 느낌과 함께 향상된 유�
    <td><strong>X</strong></td>  
   </tr>
   <tr>
-   <td>초점 상태에 계층을 표시하려면 배경을 강조 표시합니다</td> 
+   <td>배경을 강조 표시하여 포커스 상태에 계층 표시</td> 
    <td></td> 
    <td><strong>X</strong></td> 
   </tr>
@@ -125,7 +125,7 @@ Marketo Engage 플랫폼의 새로운 모양과 느낌과 함께 향상된 유�
    <td><strong>X</strong></td> 
   </tr>
   <tr>
-   <td>전체 트리를 빠르게 축소</td> 
+   <td>전체 트리 빠른 축소</td> 
    <td></td> 
    <td><strong>X</strong></td> 
   </tr>
@@ -150,12 +150,12 @@ Marketo Engage 플랫폼의 새로운 모양과 느낌과 함께 향상된 유�
    <td><strong>X</strong></td>  
   </tr>
   <tr>
-   <td>트리 검색에서 전역 검색을 입력할 때 저장된 검색 문자열</td> 
+   <td>트리 검색에서 글로벌 검색을 입력할 때 검색 문자열이 저장됨</td> 
    <td></td> 
    <td><strong>X</strong></td> 
   </tr>
   <tr>
-   <td>단일 트리에 있는 모든 작업 영역 표시</td> 
+   <td>단일 트리에 모든 작업 영역 표시</td> 
    <td><strong>X</strong></td> 
    <td><strong>X</strong></td> 
   </tr>
@@ -165,7 +165,7 @@ Marketo Engage 플랫폼의 새로운 모양과 느낌과 함께 향상된 유�
    <td><strong>X</strong></td>  
   </tr>
   <tr>
-   <td>'Word로 시작' 검색 논리</td> 
+   <td>'Word가 다음으로 시작' 검색 논리</td> 
    <td></td> 
    <td><strong>X</strong></td> 
   </tr>
@@ -174,7 +174,7 @@ Marketo Engage 플랫폼의 새로운 모양과 느낌과 함께 향상된 유�
 
 ## 전역 탐색 {#global-nav}
 
-새로운 전역 탐색 메뉴를 살펴보십시오.
+새로운 전역 탐색 기능을 살펴보십시오.
 
 ![](assets/overview-7.png)
 
@@ -182,30 +182,30 @@ Marketo Engage 플랫폼의 새로운 모양과 느낌과 함께 향상된 유�
  <tbody>
   <tr>
    <td>1</td> 
-   <td>슈퍼볼 드롭다운이 더 이상 없음</td> 
+   <td>더 이상 수퍼볼 드롭다운이 없음</td> 
   </tr>
   <tr>
    <td>2</td> 
-   <td>나열된 모든 이전 슈퍼볼 항목</td> 
+   <td>이전 슈퍼볼 항목이 모두 나열됨</td> 
   </tr>
   <tr>
   <tr>
    <td>3</td> 
-   <td>여러 개의 구독이 있는 경우 하위 이름을 클릭하여 다른 구독으로 쉽게 전환할 수 있습니다</td> 
+   <td>구독이 여러 개인 경우 하위 이름을 클릭하여 다른 이름으로 쉽게 전환합니다</td> 
   </tr>
   <tr>
    <td>4</td> 
-   <td>전역 검색 - 이제 여기에서 전체 인스턴스를 검색할 수 있습니다</td> 
+   <td>글로벌 검색 - 이제 여기에서 전체 인스턴스를 검색할 수 있습니다.</td> 
   </tr>
  </tbody>
 </table>
 
 >[!NOTE]
 >
->슈퍼볼 드롭다운에서 생활하던 모든 것은 여전히 My Marketo에서 타일로 사용할 수 있습니다.
+>수퍼볼 드롭다운에서 라이브하던 모든 기능을 여전히 My Marketo에서 타일로 사용할 수 있습니다.
 
 >[!TIP]
 >
->트리에서 검색을 사용하면 현재 있는 섹션(예: 마케팅 활동)의 결과만 산출됩니다. 전체 인스턴스를 검색하려면 전역 검색을 사용하십시오.
+>트리에서 검색을 사용하면 현재 있는 섹션의 결과만 생성합니다(예: 마케팅 활동). 전체 인스턴스를 검색하려면 글로벌 검색을 사용하십시오.
 
-새로운 Marketo Engage 경험을 즐기세요!
+새로운 Marketo Engage 환경을 즐기십시오!

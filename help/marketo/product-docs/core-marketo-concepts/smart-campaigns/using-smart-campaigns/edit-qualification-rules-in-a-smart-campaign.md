@@ -1,38 +1,39 @@
 ---
 unique-page-id: 1146974
 description: 스마트 캠페인에서 자격 규칙 편집 - Marketo 문서 - 제품 설명서
-title: 스마트 캠페인에서 자격 규칙 편집
+title: Smart Campaign에서 자격 규칙 편집
 exl-id: 8b016fe4-8caf-4266-9f8f-2b05dae78cff
-source-git-commit: bb628e5211601bd8b424c78cae887c2eeb0614cf
+feature: Smart Campaigns
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '212'
 ht-degree: 0%
 
 ---
 
-# 스마트 캠페인에서 자격 규칙 편집 {#edit-qualification-rules-in-a-smart-campaign}
+# Smart Campaign에서 자격 규칙 편집 {#edit-qualification-rules-in-a-smart-campaign}
 
-자격 규칙은 스마트 캠페인에서 흐름을 통해 사람이 몇 번 실행할 수 있는지를 제어합니다. 기본적으로 스마트 캠페인을 여러 번 트리거하더라도 한 번만 플로우를 통해 전송됩니다. 이러한 설정을 수정하는 방법은 다음과 같습니다.
+자격 규칙은 스마트 캠페인에서 플로우를 통해 실행할 수 있는 횟수를 제어합니다. 기본적으로 어떤 사람이 스마트 캠페인을 여러 번 트리거하더라도 흐름은 한 번만 전송됩니다. 이러한 설정을 수정하는 방법은 다음과 같습니다.
 
-1. 스마트 캠페인에서 **예약** 탭한 다음 **설정 편집**.
+1. 스마트 캠페인에서 **예약** tab 키를 누른 다음 **설정 편집**.
 
    ![](assets/edit-qualification-rules-in-a-smart-campaign-1.png)
 
    >[!TIP]
    >
-   >을 클릭할 수도 있습니다 **편집** 을 &quot;스마트 캠페인 설정&quot;의 오른쪽에 추가합니다.
+   >다음을 클릭할 수도 있습니다. **편집** &quot;스마트 캠페인 설정&quot;의 오른쪽에 있습니다.
 
-1. 스마트 캠페인 플로우를 통해 대상자를 실행하는 빈도를 선택합니다. **한 번**, **항상**, 또는 **일 단위로 한 번**/**주**/**개월**.
+1. 스마트 캠페인 흐름을 통해 직원을 실행하는 빈도를 선택하십시오. **한 번만**, **항상**, 또는 **# 일에 한 번**/**주**/**개월**.
 
    ![](assets/edit-qualification-rules-in-a-smart-campaign-2.png)
 
    >[!NOTE]
    >
-   >매일 한 번 규칙에 대한 규칙을 설정하면 Marketo은 해당 규칙을 시간으로 변환합니다. 예를 들어, 하루에 한 번 규칙을 설정하고 한 사람이 일요일 밤에 10시에 자격을 얻으면 월요일 밤 10시까지 다시 자격이 주어지지 않습니다. 이 논리는 주 또는 월을 사용할 때도 적용됩니다. 한 달은 항상 30일로 계산됩니다.
+   >매일 한 번씩에 대한 규칙을 설정하면 Marketo이 해당 규칙을 시간으로 변환합니다. 예를 들어 규칙을 하루에 한 번으로 설정했는데 어떤 사람이 일요일 밤 10시에 자격을 얻으면 월요일 밤 10시까지 다시 자격을 얻을 수 없습니다. 이 논리는 주 또는 월을 사용하는 경우에도 적용됩니다. 한 달은 항상 30일로 계산됩니다.
 
    >[!NOTE]
    >
-   >기본적으로 커뮤니케이션 제한은 스마트 캠페인에 적용되지 않습니다. 방법 알아보기 [스마트 캠페인에 통신 제한 적용](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/using-smart-campaigns/apply-communication-limits-to-smart-campaign.md).
+   >기본적으로 스마트 캠페인에는 통신 제한이 적용되지 않습니다. 방법 알아보기 [스마트 캠페인에 통신 제한 적용](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/using-smart-campaigns/apply-communication-limits-to-smart-campaign.md).
 
    >[!NOTE]
    >

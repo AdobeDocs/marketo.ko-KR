@@ -2,7 +2,8 @@
 description: 사용자 및 라이선스 관리 - Marketo 문서 - 제품 설명서
 title: 사용자 및 라이선스 관리
 exl-id: 1fee628b-e9f3-46ab-b993-f2d09fe5e183
-source-git-commit: c7479355c7f5fda97ce6ad0f18a5c3c6a597e535
+feature: Interactive Webinars
+source-git-commit: 02b2e39580c5eac63de4b4b7fdaf2a835fdd4ba5
 workflow-type: tm+mt
 source-wordcount: '414'
 ht-degree: 0%
@@ -67,7 +68,7 @@ ht-degree: 0%
 
 <table> 
   <tr> 
-   <td><b>시작일</b></td>
+   <td><b>시작 일자</b></td>
    <td>라이센스 시작 날짜.</td>
   </tr>
   <tr> 

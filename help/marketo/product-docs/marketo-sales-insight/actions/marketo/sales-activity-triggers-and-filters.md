@@ -1,8 +1,9 @@
 ---
-description: 판매 활동 트리거 및 필터 - Marketo 문서 - 제품 설명서
+description: 영업 활동 트리거 및 필터 - Marketo 문서 - 제품 설명서
 title: 판매 활동 트리거 및 필터
 exl-id: d180c1fa-d2bb-443d-ba78-59c26083acf5
-source-git-commit: d9b8b92ac5f051178b8eb9b450c4949b56d50b99
+feature: Sales Insight Actions
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '120'
 ht-degree: 0%
@@ -11,26 +12,26 @@ ht-degree: 0%
 
 # 판매 활동 트리거 및 필터 {#sales-activity-triggers-and-filters}
 
-영업 팀과의 참여를 더 잘 조정하려고 하거나 구매자 여정에서 고객과 어떻게 교류하고 있는지 더 잘 보려고 하는 경우 Marketo의 영업 활동 인사이트가 도움이 됩니다.
+영업 팀과 더 잘 협력하거나 구매자 여정에서 고객과 어떻게 관계를 맺고 있는지 더 잘 파악하려는 경우 Marketo의 영업 활동 인사이트가 유용합니다.
 
-스마트 캠페인에서 판매 활동 필터 및 트리거를 활용하는 방법을 배우려면 아래 단계를 따르십시오.
+아래 단계에 따라 스마트 캠페인에서 판매 활동 필터 및 트리거를 활용하는 방법을 알아보십시오.
 
 1. 원하는 스마트 캠페인을 찾아 선택합니다.
 
    ![](assets/sales-activity-triggers-and-filters-1.png)
 
-1. 에서 **Smart List** 탭에서 &quot;Sales Apps&quot;를 검색합니다.
+1. 다음에서 **스마트 목록** 탭에서 &quot;Sales Apps&quot;를 검색합니다.
 
    ![](assets/sales-activity-triggers-and-filters-2.png)
 
-1. 원하는 필터나 트리거를 선택하고 드래그합니다.
+1. 을(를) 선택하고 원하는 필터 또는 트리거로 드래그합니다.
 
    ![](assets/sales-activity-triggers-and-filters-3.png)
 
-1. 원하는 구속을 선택합니다.
+1. 원하는 제한을 선택합니다.
 
    ![](assets/sales-activity-triggers-and-filters-4.png)
 
 >[!NOTE]
 >
->활동, 제한 및 정의 전체 목록을 보려면 [Sales Insight Actions 활동 용어집](/help/marketo/product-docs/marketo-sales-insight/actions/marketo/sales-insight-actions-activity-glossary.md).
+>활동, 제한 및 정의의 전체 목록은 다음을 참조하십시오. [Sales Insight Actions 활동 용어집](/help/marketo/product-docs/marketo-sales-insight/actions/marketo/sales-insight-actions-activity-glossary.md).

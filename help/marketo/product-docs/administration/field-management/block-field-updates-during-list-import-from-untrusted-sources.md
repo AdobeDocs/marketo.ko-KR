@@ -3,7 +3,8 @@ unique-page-id: 2360335
 description: 신뢰할 수 없는 소스에서 목록 가져오기 중 필드 업데이트 차단 - Marketo 문서 - 제품 설명서
 title: 신뢰할 수 없는 원본에서 목록을 가져오는 동안 필드 업데이트 차단
 exl-id: 0fd59f0c-6cb9-442c-937b-da18a4466873
-source-git-commit: 20c41143d1e7839352dddbfea0951c2633987692
+feature: Field Management
+source-git-commit: 02b2e39580c5eac63de4b4b7fdaf2a835fdd4ba5
 workflow-type: tm+mt
 source-wordcount: '206'
 ht-degree: 0%
@@ -28,7 +29,7 @@ ht-degree: 0%
 
    ![](assets/blocking-field-updates-from-untrusted-sources-2.png)
 
-1. 원하는 필드를 찾아 선택한 다음 아래에 **[!UICONTROL 필드 작업]**, 클릭 **[!UICONTROL 필드 업데이트 차단]**.
+1. 원하는 필드를 찾아 선택한 다음 아래에서 **[!UICONTROL 필드 작업]**, 클릭 **[!UICONTROL 필드 업데이트 차단]**.
 
    ![](assets/blocking-field-updates-from-untrusted-sources-3.png)
 
@@ -50,4 +51,4 @@ ht-degree: 0%
 
 목록 가져오기에 대한 자세한 지침은 [사람 목록 가져오기](/help/marketo/getting-started/quick-wins/import-a-list-of-people.md).
 
-잘 했습니다. 이제 신뢰할 수 없는 목록에서 키 필드를 안전하게 유지하는 방법을 알 수 있습니다.
+수고하셨습니다! 이제 신뢰할 수 없는 목록에서 키 필드를 안전하게 유지하는 방법을 알 수 있습니다.

@@ -3,7 +3,8 @@ unique-page-id: 5472615
 description: 시스템 관리 필드 이해 - Marketo 문서 - 제품 설명서
 title: 시스템 관리 필드 이해
 exl-id: 4a58d41f-c2f5-4bcc-93ef-10a31e5475fd
-source-git-commit: 20c41143d1e7839352dddbfea0951c2633987692
+feature: Field Management
+source-git-commit: 02b2e39580c5eac63de4b4b7fdaf2a835fdd4ba5
 workflow-type: tm+mt
 source-wordcount: '512'
 ht-degree: 8%
@@ -26,8 +27,8 @@ ht-degree: 8%
 | 등록 소스 유형 | 활동이 처음 개인이 된 위치(예: 목록 가져오기, 웹 페이지 방문) |
 | 등록 소스 정보 | 해당 위치에 대한 세부 사항(예: 목록 이름, 웹 페이지의 URL) |
 | 익명 IP | 개인의 IP 주소를 나타냅니다. |
-| 회사 유추 | 개인 회사의 Marketo 최고 추측(IP 기반) |
-| 유추된 시 | 해당 도시의 Marketo 최고의 추측(IP 기반) |
+| 추론된 회사 | 개인 회사의 Marketo 최고 추측(IP 기반) |
+| 추론된 시 | 해당 도시의 Marketo 최고의 추측(IP 기반) |
 | 유추된 주 지역 | 개인 상태 또는 지역에 대한 Marketo의 최고 추측(IP 기반) |
 | 우편번호 유추 | 개인 우편 번호에 대한 Marketo의 최적 추측(IP 기반) |
 | 추정 국가 | 해당 국가에 대한 Marketo의 최고 추측(IP 기반) |

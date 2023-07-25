@@ -3,7 +3,8 @@ unique-page-id: 2360350
 description: ReST API와 함께 사용할 사용자 정의 서비스 만들기 - Marketo 문서 - 제품 설명서
 title: ReST API와 함께 사용할 사용자 정의 서비스 만들기
 exl-id: d94f723b-2e98-4350-a9e5-bd57aff2303b
-source-git-commit: 1f10e1fcdbd5cf91481f749236fd37050ade29f8
+feature: Administration
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '213'
 ht-degree: 0%
@@ -19,7 +20,6 @@ ReST API를 통해 Marketo과 통합하려면 사용자 지정 서비스를 만�
 >* [API 전용 사용자 역할 만들기](/help/marketo/product-docs/administration/users-and-roles/create-an-api-only-user-role.md)
 >* [API 전용 사용자 만들기](/help/marketo/product-docs/administration/users-and-roles/create-an-api-only-user.md)
 >
-
 
 >[!NOTE]
 >

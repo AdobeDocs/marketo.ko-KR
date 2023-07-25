@@ -1,40 +1,41 @@
 ---
 unique-page-id: 3571805
-description: 3단계 중 1단계 - Marketo 솔루션 설치(2011 온프레미스) - Marketo 문서 - 제품 설명서
-title: 3단계 중 1단계 - Marketo 솔루션 설치(2011 온프레미스)
+description: 1단계/3단계 - Marketo 솔루션 설치(2011 온프레미스) - Marketo 문서 - 제품 설명서
+title: 1/3단계 - Marketo 솔루션 설치(2011 온프레미스)
 exl-id: 6e559b10-5273-4dc2-b98d-49c509cbeff7
-source-git-commit: eac7e219f1babc22dce30717fea4cecb93e1cce7
+feature: Microsoft Dynamics
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '291'
 ht-degree: 0%
 
 ---
 
-# 3단계 중 1단계: Marketo 솔루션 설치(2011 온프레미스) {#step-of-install-the-marketo-solution-on-premises}
+# 1단계/3단계: Marketo 솔루션 설치(2011 온프레미스) {#step-of-install-the-marketo-solution-on-premises}
 
-Microsoft Dynamics 온-프레미스 및 Marketo을 동기화하려면 먼저 Dynamics에서 Marketo 솔루션을 설치해야 합니다.
+Microsoft Dynamics 온-프레미스와 Marketo을 동기화하려면 먼저 Dynamics에 Marketo 솔루션을 설치해야 합니다.
 
 >[!NOTE]
 >
->Marketo을 CRM에 동기화한 후에는 인스턴스를 바꾸지 않고 새 동기화를 수행할 수 없습니다.
+>Marketo을 CRM에 동기화한 후에는 인스턴스를 교체하지 않고 새 동기화를 수행할 수 없습니다.
 
 >[!PREREQUISITES]
 >
->다음을 수행해야 합니다. [인터넷 연결 배포](https://www.microsoft.com/en-us/download/confirmation.aspx?id=41701) (IFD) [Active Directory 페더레이션 서비스](https://msdn.microsoft.com/en-us/library/bb897402.aspx) 2.0, 2.1 또는 3.0(ADFS)이 구성되었습니다. **참고**: 링크를 클릭하면 IFD 문서가 자동으로 다운로드됩니다.
+>다음을 수행해야 합니다. [인터넷 연결 배포](https://www.microsoft.com/en-us/download/confirmation.aspx?id=41701) (IFD) 포함 [Active Directory Federation Services](https://msdn.microsoft.com/en-us/library/bb897402.aspx) 2.0, 2.1 또는 3.0(ADFS)이 구성되었습니다. **참고**: IFD 문서는 링크를 클릭하면 자동으로 다운로드됩니다.
 >
->[Marketo 리드 관리 솔루션 다운로드](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/download-the-marketo-lead-management-solution.md) 시작하기 전에
+>[Marketo 리드 관리 솔루션 다운로드](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/download-the-marketo-lead-management-solution.md) 시작하기 전에.
 
 >[!NOTE]
 >
->**Dynamics 관리 권한이 필요합니다.**
+>**Dynamics 관리자 권한이 필요합니다.**
 >
 >이 동기화를 수행하려면 CRM 관리자 권한이 필요합니다.
 
-1. 에 로그인합니다. **Dynamics**, 선택 **설정** 왼쪽 아래 메뉴에 있습니다.
+1. 에 로그인 **Dynamics**, 선택 **설정** 왼쪽 아래 메뉴에서 을 클릭합니다.
 
    ![](assets/image2015-4-2-11-3a32-3a53.png)
 
-1. 선택 **솔루션** 나무에 있습니다.
+1. 선택 **솔루션** 나무에.
 
    ![](assets/image2015-4-2-11-3a35-3a28.png)
 
@@ -42,11 +43,11 @@ Microsoft Dynamics 온-프레미스 및 Marketo을 동기화하려면 먼저 Dyn
 
    ![](assets/image2015-4-2-11-3a37-3a33.png)
 
-1. 클릭 **찾아보기**. 원하는 Marketo 리드 관리 솔루션을 선택합니다 [다운로드](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/download-the-marketo-lead-management-solution.md). 클릭 **다음**.
+1. 클릭 **찾아보기**. 다음과 같은 Marketo 리드 관리 솔루션을 선택합니다. [다운로드됨](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/download-the-marketo-lead-management-solution.md). 클릭 **다음**.
 
    ![](assets/image2015-4-2-11-3a40-3a33.png)
 
-1. 솔루션 정보를 보고 **솔루션 패키지 세부 사항 보기**.
+1. 솔루션 정보를 보고 **솔루션 패키지 세부 정보 보기**.
 
    ![](assets/image2015-11-18-11-3a12-3a8.png)
 
@@ -74,19 +75,19 @@ Microsoft Dynamics 온-프레미스 및 Marketo을 동기화하려면 먼저 Dyn
 
    >[!NOTE]
    >
-   >&quot;Marketo 리드 관리가 경고와 함께 완료됨&quot;이라는 메시지가 표시될 수 있습니다. 이것은 충분히 예상되었습니다.
+   >&quot;Marketo 리드 관리가 경고와 함께 완료되었습니다.&quot;라는 메시지가 표시될 수 있습니다. 이는 완전히 예상되었습니다.
 
    ![](assets/image2015-4-2-11-3a44-3a44.png)
 
-1. 이제 Marketo 리드 관리가 **모든 솔루션** 페이지.
+1. 이제 Marketo Lead Management 가 **모든 솔루션** 페이지를 가리키도록 업데이트하는 중입니다.
 
    ![](assets/image2015-4-2-11-3a46-3a55.png)
 
-1. Marketo Lead Management 를 선택하고 **모든 사용자 지정 사항을 게시합니다.**
+1. Marketo Lead Management 를 선택하고 **모든 사용자 지정을 게시합니다.**
 
    ![](assets/image2015-4-2-11-3a48-3a21.png)
 
-그렇게 나쁘진 않았나요? 자, 내가 계속 널 지나갈께.
+너무 나쁘진 않았죠? 자, 남은 걸 계속 안내해 줄게.
 
 >[!CAUTION]
 >
@@ -94,4 +95,4 @@ Microsoft Dynamics 온-프레미스 및 Marketo을 동기화하려면 먼저 Dyn
 
 >[!MORELIKETHIS]
 >
->[3단계 중 2단계: Dynamics에서 Marketo 동기화 사용자 설정(2011 온프레미스)](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/connecting-to-legacy-versions/step-2-of-3-set-up-2011.md)
+>[2단계/3단계: Dynamics에서 Marketo 동기화 사용자 설정(2011 온-프레미스)](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/connecting-to-legacy-versions/step-2-of-3-set-up-2011.md)

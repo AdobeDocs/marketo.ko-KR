@@ -3,7 +3,8 @@ unique-page-id: 2949168
 description: 템플릿을 사용하여 웹 캠페인 만들기 - Marketo 문서 - 제품 설명서
 title: 템플릿을 사용하여 웹 캠페인 만들기
 exl-id: 1d4f24c7-27c7-4eb6-9377-dc6853d13fa3
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+feature: Web Personalization
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '142'
 ht-degree: 0%
@@ -12,13 +13,13 @@ ht-degree: 0%
 
 # 템플릿을 사용하여 웹 캠페인 만들기 {#using-templates-to-create-web-campaigns}
 
-기본 제공 템플릿을 사용하거나 다음을 통해 웹 캠페인 만들기 프로세스를 가속화하고 단순화합니다 [직접 저장](save-your-campaign-as-a-template.md).
+내장된 템플릿을 사용하거나 를 사용하여 웹 캠페인 생성 프로세스를 가속화하고 간소화합니다. [사용자 저장](save-your-campaign-as-a-template.md).
 
 >[!NOTE]
 >
->템플릿은 데스크톱 및 모바일에 대해 모든 장치 및 탐색 환경에 최적화되어 있습니다.
+>템플릿은 데스크톱과 모바일 모두에서 모든 장치 및 탐색 환경에 최적화됩니다.
 
-1. 이동 **웹 캠페인**.
+1. 다음으로 이동 **웹 캠페인**.
 
    ![](assets/web-campaigns-hand.jpg)
 
@@ -26,7 +27,7 @@ ht-degree: 0%
 
    ![](assets/create-new-web-campaign-create-hand.jpg)
 
-1. 캠페인에 이름을 지정합니다.
+1. 캠페인 이름을 지정합니다.
 
    ![](assets/set-web-campaign-my-campaign-hand.jpg)
 
@@ -42,15 +43,15 @@ ht-degree: 0%
 
    >[!NOTE]
    >
-   >선택할 수 있는 몇 가지 멋진 템플릿이 있으며, 나중에 더 추가할 것입니다.
+   >선택할 수 있는 멋진 템플릿이 몇 가지 있으며 향후 더 추가할 예정입니다.
 
    ![](assets/select.png)
 
    >[!TIP]
    >
-   >모바일 캠페인의 경우 **mobile** 섹션을 참조하십시오.
+   >모바일 캠페인의 경우 **모바일** 섹션.
 
-1. 템플릿을 사용자 지정합니다.
+1. 템플릿을 사용자 정의합니다.
 
    ![](assets/customize-template.jpg)
 
@@ -58,7 +59,7 @@ ht-degree: 0%
 
    ![](assets/click-save-hand.jpg)
 
-잘했어요! 템플릿을 사용하여 저장한 시간을 보셨나요?
+잘했어! 템플릿을 사용해서 시간을 얼마나 절약했는지 봤니?
 
 >[!MORELIKETHIS]
 >

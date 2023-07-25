@@ -3,7 +3,8 @@ unique-page-id: 11377408
 description: 작업 공간 - Marketo 문서 - 제품 설명서를 통해 추가 브랜딩 도메인 추가
 title: 작업 영역을 사용하여 추가 브랜딩 도메인 추가
 exl-id: ca52dd28-7ba0-4407-85b4-bff2adef0b87
-source-git-commit: 81ee349dbbe48c70b040751cae750c3684b71c78
+feature: Email Setup
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '131'
 ht-degree: 0%

@@ -1,17 +1,18 @@
 ---
 description: 호출 결과 - Marketo 문서 - 제품 설명서
-title: 통화 결과
+title: 호출 결과
 exl-id: 55ac4d04-8853-46e7-9027-26f0c4897a2a
-source-git-commit: d2d6d4389f5a480afdfae6bfb62b9f48f0a2d88e
+feature: Marketo Sales Connect
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '179'
 ht-degree: 0%
 
 ---
 
-# 통화 결과 {#call-outcomes}
+# 호출 결과 {#call-outcomes}
 
-영업 팀이 호출 시 통화 결과를 선택할 수 있도록 하여 팀이 고객 참여 노력의 영향을 이해할 수 있도록 합니다.
+영업 팀이 고객 참여 노력의 영향을 이해할 수 있도록 전화 문의 시 통화 결과를 선택할 수 있도록 합니다.
 
 >[!NOTE]
 >
@@ -19,7 +20,7 @@ ht-degree: 0%
 
 ## 호출 결과 활성화 {#enable-call-outcomes}
 
-1. 톱니바퀴 아이콘을 클릭하고 을 선택합니다 **설정**.
+1. 톱니바퀴 아이콘을 클릭하고 **설정**.
 
    ![](assets/call-outcomes-1.png)
 
@@ -31,7 +32,7 @@ ht-degree: 0%
 
    ![](assets/call-outcomes-3.png)
 
-1. 원하는 호출 결과 요구 사항을 선택합니다.
+1. 원하는 통화 결과 요구 사항을 선택합니다.
 
    ![](assets/call-outcomes-4.png)
 
@@ -39,9 +40,9 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->최대 15개의 호출 결과를 만들 수 있습니다.
+>최대 15개의 호출 결과를 생성할 수 있습니다.
 
-1. 톱니바퀴 아이콘을 클릭하고 을 선택합니다 **설정**.
+1. 톱니바퀴 아이콘을 클릭하고 **설정**.
 
    ![](assets/call-outcomes-5.png)
 
@@ -49,27 +50,27 @@ ht-degree: 0%
 
    ![](assets/call-outcomes-6.png)
 
-1. 클릭 **통화 결과 관리**.
+1. 클릭 **호출 결과 관리**.
 
    ![](assets/call-outcomes-7.png)
 
-1. 원하는 호출 결과 이름을 텍스트 필드에 입력합니다.
+1. 텍스트 필드에 원하는 호출 결과 이름을 입력합니다.
 
    ![](assets/call-outcomes-8.png)
 
-1. 응답됨 드롭다운을 클릭하고 결과 유형을 선택합니다(이 예에서는 응답됨 선택). 그런 다음 **추가**.
+1. 답변됨 드롭다운을 클릭하고 결과 유형을 선택합니다(이 예제에서는 답변됨 을 선택합니다). 그런 다음 **추가**.
 
    ![](assets/call-outcomes-9.png)
 
 ## 통화 결과 선택 {#choose-a-call-outcome}
 
-호출 결과가 활성화되면. 사용자는 호출을 하면서 하나를 선택할 수 있습니다.
+호출 결과가 활성화되면, 사용자는 통화 중에 하나를 선택할 수 있습니다.
 
-1. 호출 단추를 클릭하여 대화 상자를 시작합니다.
+1. 호출 버튼을 클릭하여 전화 걸기를 실행합니다.
 
    ![](assets/call-outcomes-10.png)
 
-1. 대화 상자에 통화 정보를 입력하고 를 클릭합니다 **호출**.
+1. 전화 걸기에 통화 정보를 입력하고 **호출**.
 
    ![](assets/call-outcomes-11.png)
 
@@ -77,7 +78,7 @@ ht-degree: 0%
 
    ![](assets/call-outcomes-12.png)
 
-1. 호출을 종료합니다.
+1. 통화를 종료합니다.
 
    ![](assets/call-outcomes-13.png)
 
@@ -87,6 +88,5 @@ ht-degree: 0%
 
 >[!MORELIKETHIS]
 >
->* [Salesforce에 통화 이유 및 호출 결과 기록](/help/marketo/product-docs/marketo-sales-connect/phone/log-call-reasons-and-call-outcomes-to-salesforce.md)
+>* [Salesforce에 호출 사유 및 호출 결과 기록](/help/marketo/product-docs/marketo-sales-connect/phone/log-call-reasons-and-call-outcomes-to-salesforce.md)
 >* [통화 이유](/help/marketo/product-docs/marketo-sales-connect/phone/call-reasons.md)
-

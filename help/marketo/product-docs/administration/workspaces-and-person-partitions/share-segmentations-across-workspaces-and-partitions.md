@@ -3,7 +3,8 @@ unique-page-id: 7515767
 description: 작업 공간 및 파티션 간 세그먼트 공유 - Marketo 문서 - 제품 설명서
 title: 작업 공간 및 분할 영역 간 세그먼트 공유
 exl-id: b50f4328-fdba-4e39-bc0d-75bade1f9cbc
-source-git-commit: 2d28d4b473815952231356691b1e9310c61a20f1
+feature: Partitions, Workspaces
+source-git-commit: 02b2e39580c5eac63de4b4b7fdaf2a835fdd4ba5
 workflow-type: tm+mt
 source-wordcount: '471'
 ht-degree: 0%

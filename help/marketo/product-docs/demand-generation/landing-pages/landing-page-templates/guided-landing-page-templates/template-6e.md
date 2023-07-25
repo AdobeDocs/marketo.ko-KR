@@ -3,7 +3,8 @@ unique-page-id: 8783938
 description: 템플릿 6E - Marketo 문서 - 제품 설명서
 title: 템플릿 6E
 exl-id: 5b02bc9e-9c8c-4255-a339-81d90cf116aa
-source-git-commit: bfcd66388b0d77cf3f1743b0778026a1e5a1ec61
+feature: Landing Pages, Guided Landing Page Templates
+source-git-commit: d20a9bb584f69282eefae3704ce4be2179b29d0b
 workflow-type: tm+mt
 source-wordcount: '57'
 ht-degree: 0%
@@ -12,19 +13,19 @@ ht-degree: 0%
 
 # 템플릿 6E {#template-6e}
 
-마우스 오른쪽 단추를 클릭하여 [템플릿 6E 다운로드](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-6e.html)
+마우스 오른쪽 버튼 클릭 [템플릿 6E 다운로드](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-6e.html)
 
 ![](assets/image2015-7-29-14-3a8-3a54.png)
 
-이 템플릿에는 다음 콘텐츠가 포함되어 있습니다.
+이 템플릿에는 다음 콘텐츠가 포함됩니다.
 
 * 기본 섹션
 
-   * 대표 이미지 및 단추를 포함합니다.
+   * 영웅 이미지와 버튼을 포함합니다.
 
 * 4개의 본문 섹션(선택 사항)
 * 바닥글(선택 사항)
 
-**이 템플릿을 다운로드하려면 아래 마우스 오른쪽 단추를 클릭하십시오.**
+**이 템플릿을 다운로드하려면 아래를 마우스 오른쪽 단추로 클릭하십시오.**
 
 [템플릿 6E.html](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-6e.html)

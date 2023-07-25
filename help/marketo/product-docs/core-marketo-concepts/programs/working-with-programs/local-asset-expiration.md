@@ -2,9 +2,10 @@
 description: 로컬 자산 만료 - Marketo 문서 - 제품 설명서
 title: 로컬 자산 만료
 exl-id: 603e3eee-0531-4139-a8f5-279831ad011f
-source-git-commit: 10873ee50aca443d481117ed66c90930a1cb4b4b
+feature: Programs
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
-source-wordcount: '0'
+source-wordcount: '263'
 ht-degree: 0%
 
 ---
@@ -56,7 +57,6 @@ ht-degree: 0%
 >* 기존 만료 날짜를 편집하려면 자산을 확인하고 을(를) 클릭하십시오. **[!UICONTROL 만료 설정]**.
 >* 자산이 만료되면 만료 그리드에 더 이상 표시되지 않습니다. 그리드에는 게시된 랜딩 페이지, 활성 트리거 캠페인 및 반복 배치 캠페인만 표시됩니다.
 >* 자산이 다른 프로그램으로 이동되면 예약된 만료가 제거됩니다.
-
 
 ## 만료 날짜 제거 {#remove-an-expiration-date}
 

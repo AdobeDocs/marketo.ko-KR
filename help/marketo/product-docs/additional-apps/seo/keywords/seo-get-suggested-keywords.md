@@ -3,7 +3,8 @@ unique-page-id: 2949202
 description: SEO - 추천 키워드 가져오기 - Marketo 문서 - 제품 설명서
 title: SEO - 추천 키워드 가져오기
 exl-id: 6631b389-039a-40f1-8445-3971576e9f65
-source-git-commit: 51ebbef7eac3c133f3bab14ba8899dfdab081ea6
+feature: SEO
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '177'
 ht-degree: 0%
@@ -76,4 +77,3 @@ Marketo SEO는 추적해야 하는 키워드를 제안할 수 있습니다. 키�
 >
 >* [키워드 이해(요약 보기)](/help/marketo/product-docs/additional-apps/seo/keywords/seo-understanding-keywords.md)
 >* [목록에서 키워드 추가/제거](/help/marketo/product-docs/additional-apps/seo/keywords/seo-add-remove-keywords-from-a-list.md)
-

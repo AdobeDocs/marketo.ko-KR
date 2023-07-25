@@ -3,7 +3,8 @@ unique-page-id: 2949711
 description: 등록 코드가 있는 Outlook용 Marketo 이메일 추가 기능 설치 - Marketo 문서 - 제품 설명서
 title: 등록 코드를 사용하여 Outlook용 Marketo 이메일 추가 기능 설치
 exl-id: d7a877c2-f71e-44da-b323-04f6cdb44eb0
-source-git-commit: 8b9b2b83f5dc8908f9794d1ee387299edaae31b3
+feature: Marketo Sales Insights
+source-git-commit: 02b2e39580c5eac63de4b4b7fdaf2a835fdd4ba5
 workflow-type: tm+mt
 source-wordcount: '516'
 ht-degree: 3%

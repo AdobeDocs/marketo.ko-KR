@@ -1,20 +1,21 @@
 ---
 unique-page-id: 1147049
-description: 스마트 캠페인 이름 변경 - Marketo 문서 - 제품 설명서
-title: 스마트 캠페인 이름 변경
+description: 스마트 캠페인 이름 바꾸기 - Marketo 문서 - 제품 설명서
+title: 스마트 캠페인 이름 바꾸기
 exl-id: 116dff4a-56ca-451a-bbab-f277e4f3daf9
-source-git-commit: bb628e5211601bd8b424c78cae887c2eeb0614cf
+feature: Smart Campaigns
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '87'
 ht-degree: 0%
 
 ---
 
-# 스마트 캠페인 이름 변경 {#rename-a-smart-campaign}
+# 스마트 캠페인 이름 바꾸기 {#rename-a-smart-campaign}
 
 기존 스마트 캠페인의 이름을 변경할 수 있습니다. 방법은 다음과 같습니다.
 
-1. 이동 **마케팅 활동**.
+1. 다음으로 이동 **마케팅 활동**.
 
    ![](assets/rename-a-smart-campaign-1.png)
 
@@ -26,7 +27,7 @@ ht-degree: 0%
    >
    >프로그램 내의 스마트 캠페인 이름은 항상 &#39;ProgramName.CampaignName&#39; 형식으로 변환됩니다.
 
-1. 새 Smart Campaign 이름을 입력하고 **저장**.
+1. 새 스마트 캠페인 이름을 입력하고 **저장**.
 
    ![](assets/rename-a-smart-campaign-3.png)
 
@@ -34,4 +35,4 @@ ht-degree: 0%
    >
    >이전 이름은 탭에 표시되며 저장 시 변경됩니다.
 
-빠르고 쉽게! Smart Campaign을 참조하는 모든 위치도 변경됩니다.
+빠르고 쉽게! 스마트 캠페인이 참조되는 위치도 변경됩니다.

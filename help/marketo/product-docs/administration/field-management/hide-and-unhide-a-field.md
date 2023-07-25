@@ -3,7 +3,8 @@ unique-page-id: 2360333
 description: 필드 숨기기 및 숨기기 취소 - Marketo 문서 - 제품 설명서
 title: 필드 숨기기 및 숨기기 취소
 exl-id: 14395c31-d0f4-4aec-8592-a60a764a7263
-source-git-commit: 20c41143d1e7839352dddbfea0951c2633987692
+feature: Field Management
+source-git-commit: 02b2e39580c5eac63de4b4b7fdaf2a835fdd4ba5
 workflow-type: tm+mt
 source-wordcount: '183'
 ht-degree: 1%
@@ -40,7 +41,7 @@ Marketo에서 더 이상 필드를 사용할 수 없는 경우 애플리케이�
 
    ![](assets/hide-and-unhide-a-field-4.png)
 
-   잘 했습니다. 이제 Marketo 사용자 인터페이스에서 필드를 숨기는 방법을 알 수 있습니다.
+   수고하셨습니다! 이제 Marketo 사용자 인터페이스에서 필드를 숨기는 방법을 알 수 있습니다.
 
    ![](assets/hide-and-unhide-a-field-5.png)
 

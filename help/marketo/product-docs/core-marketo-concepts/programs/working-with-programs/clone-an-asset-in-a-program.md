@@ -1,26 +1,27 @@
 ---
 unique-page-id: 1147152
-description: 프로그램에서 자산 복제 - Marketo 문서 - 제품 설명서
-title: 프로그램에서 자산 복제
+description: 프로그램에서 에셋 복제 - Marketo 문서 - 제품 설명서
+title: 프로그램에서 에셋 복제
 exl-id: 27bc2eab-f8ca-405b-b40e-6dadff902c2f
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+feature: Programs
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '118'
 ht-degree: 0%
 
 ---
 
-# 프로그램에서 자산 복제 {#clone-an-asset-in-a-program}
+# 프로그램에서 에셋 복제 {#clone-an-asset-in-a-program}
 
-프로그램 클론 복제 _모든_. 자산을 하나만 복제하려는 경우가 있습니다. 방법은 다음과 같습니다.
+프로그램 클론 복제 _모두_. 때로는 에셋 하나를 복제하려고 할 때도 있습니다. 방법은 다음과 같습니다.
 
 >[!NOTE]
 >
->다음 작업을 추가로 수행해야 합니다 [랜딩 페이지 테스트 그룹 복제](/help/marketo/product-docs/demand-generation/landing-pages/landing-page-actions/cloning-a-landing-page-test-group.md).
+>다음에 대한 추가 단계를 수행해야 합니다. [랜딩 페이지 테스트 그룹 복제](/help/marketo/product-docs/demand-generation/landing-pages/landing-page-actions/cloning-a-landing-page-test-group.md).
 
 ## 로컬 자산 복제 {#clone-a-local-asset}
 
-1. 이동 **마케팅** **활동**.
+1. 다음으로 이동 **마케팅** **활동**.
 
    ![](assets/login-marketing-activities.png)
 
@@ -28,19 +29,19 @@ ht-degree: 0%
 
    ![](assets/image2014-9-23-15-3a56-3a12.png)
 
-1. 복제할 로컬 자산을 마우스 오른쪽 단추로 클릭합니다. 클릭 **복제**.
+1. 복제할 로컬 자산을 마우스 오른쪽 버튼으로 클릭합니다. 클릭 **복제**.
 
    ![](assets/image2014-9-23-15-3a56-3a25.png)
 
-1. 각 자산 유형에는 다른 대화 상자가 표시됩니다. 정보를 입력하고 **복제**.
+1. 에셋의 종류마다 다른 대화 상자가 표시됩니다. 정보를 입력하고 를 클릭합니다. **복제**.
 
    ![](assets/image2014-9-23-15-3a56-3a34.png)
 
    >[!TIP]
    >
-   >자산을 다른 프로그램에 복제할 수도 있습니다. 를 사용하십시오 **프로그램** 드롭다운을 클릭하여 선택합니다.
+   >에셋을 다른 프로그램에 복제할 수도 있습니다. 사용 **프로그램** 드롭다운을 클릭하여 선택합니다.
 
-1. 좋아요! 이제 새로 복제된 자산이 표시됩니다.
+1. 잘됐네! 이제 복제된 새 자산이 표시됩니다.
 
    ![](assets/report.jpg)
 

@@ -1,20 +1,21 @@
 ---
 unique-page-id: 2360055
-description: 보고서 이메일, 작업 공간 간 캠페인 성과 - Marketo 문서 - 제품 설명서
-title: 작업 공간 간 이메일, 캠페인 성과 보고
+description: 보고서 이메일, 작업 공간 전반에 걸친 캠페인 성과 - Marketo 문서 - 제품 설명서
+title: 작업 영역 간 보고서 이메일, 캠페인 성과
 exl-id: e5b94f77-b6f6-4b9b-aef7-88a471929869
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+feature: Reporting
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '84'
 ht-degree: 0%
 
 ---
 
-# 작업 공간 간 이메일, 캠페인 성과 보고 {#report-email-campaign-performance-across-workspaces}
+# 작업 영역 간 보고서 이메일, 캠페인 성과 {#report-email-campaign-performance-across-workspaces}
 
-모든 Marketo의 데이터를 포함하려면 전역 보고 를 켜십시오 [작업 공간](/help/marketo/product-docs/administration/workspaces-and-person-partitions/create-a-new-workspace.md) 다음 위치에서 [이메일 성능](/help/marketo/product-docs/email-marketing/email-programs/email-program-data/email-performance-report.md), [이메일 링크 성능](/help/marketo/product-docs/email-marketing/email-programs/email-program-data/email-link-performance-report.md), 및 [캠페인 활동](/help/marketo/product-docs/reporting/basic-reporting/report-types/campaign-activity-report.md) 보고서.
+모든 Marketo의 데이터를 포함하려면 글로벌 보고를 켭니다 [작업 공간](/help/marketo/product-docs/administration/workspaces-and-person-partitions/create-a-new-workspace.md) (으)로 [이메일 성능](/help/marketo/product-docs/email-marketing/email-programs/email-program-data/email-performance-report.md), [이메일 링크 성능](/help/marketo/product-docs/email-marketing/email-programs/email-program-data/email-link-performance-report.md), 및 [캠페인 활동](/help/marketo/product-docs/reporting/basic-reporting/report-types/campaign-activity-report.md) 보고서.
 
-1. 이동 **Analytics** 또는 **마케팅 활동**) 영역 내에 있어야 합니다.
+1. 다음으로 이동 **분석** (또는 **마케팅 활동**) 영역입니다.
 
    ![](assets/image2014-9-16-16-3a4-3a46.png)
 
@@ -22,7 +23,7 @@ ht-degree: 0%
 
    ![](assets/image2014-9-16-16-3a4-3a51.png)
 
-1. 을(를) 클릭합니다. **설정** 탭하고 두 번 클릭 **전역 보고**.
+1. 다음을 클릭합니다. **설정** tab 키 및 두 번 클릭 **글로벌 보고**.
 
    ![](assets/image2014-9-16-16-3a4-3a58.png)
 
@@ -30,7 +31,7 @@ ht-degree: 0%
 
    ![](assets/image2014-9-16-16-3a5-3a4.png)
 
-1. 그게 다야! 을(를) 클릭합니다. **보고서** 탭을 클릭하여 모든 작업 공간에서 데이터를 확인합니다.
+1. 그게 다야! 다음을 클릭합니다. **보고서** 탭으로 이동하여 모든 작업 영역의 데이터를 볼 수 있습니다.
 
    ![](assets/image2014-9-16-16-3a5-3a8.png)
 

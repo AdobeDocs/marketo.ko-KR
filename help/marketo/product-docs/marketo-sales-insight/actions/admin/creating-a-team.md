@@ -2,7 +2,8 @@
 description: 팀 만들기 - Marketo 문서 - 제품 설명서
 title: 팀 만들기
 exl-id: 7cca53a8-67e7-467a-988a-bb99872a328e
-source-git-commit: 66baa3063b2f6798f04f1b81d6ea52a484975174
+feature: Sales Insight Actions
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '125'
 ht-degree: 0%
@@ -11,11 +12,11 @@ ht-degree: 0%
 
 # 팀 만들기 {#creating-a-team}
 
-팀을 만들면 컨텐츠를 공유할 수 있고 보고서를 필터링 할 수 있는 사용자 그룹을 어셈블할 수 있습니다.
+팀을 만들면 콘텐츠를 공유할 수 있고 보고서를 필터링할 수 있는 사용자 그룹을 조합할 수 있습니다.
 
 ## 팀 만들기 {#create-a-team}
 
-1. 에서 [웹 애플리케이션](https://toutapp.com/login), 톱니바퀴 아이콘을 클릭하고 을 선택합니다. **설정**.
+1. 다음에서 [웹 애플리케이션](https://toutapp.com/login), 톱니바퀴 아이콘 을 클릭하고 **설정**.
 
    ![](assets/creating-a-team-1.png)
 
@@ -23,7 +24,7 @@ ht-degree: 0%
 
    ![](assets/creating-a-team-2.png)
 
-1. 팀 옆의 **+** 아이콘.
+1. Teams 옆의 **+** 아이콘.
 
    ![](assets/creating-a-team-3.png)
 
@@ -33,15 +34,15 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->이제 해당 팀과 템플릿, 캠페인 및 그룹을 공유할 수 있습니다.
+>이제 템플릿, 캠페인 및 그룹을 해당 팀과 공유할 수 있습니다.
 
 ## 팀에 사람 추가 {#add-people-to-a-team}
 
-1. 팀 관리에서 **모든 구성원**.
+1. 팀 관리에서 다음을 선택합니다. **모든 구성원**.
 
    ![](assets/creating-a-team-5.png)
 
-1. 팀에 추가할 사용자를 찾아 해당 확인란을 선택합니다.
+1. 팀에 추가할 사용자를 찾은 다음 해당 확인란을 선택합니다.
 
    ![](assets/creating-a-team-6.png)
 

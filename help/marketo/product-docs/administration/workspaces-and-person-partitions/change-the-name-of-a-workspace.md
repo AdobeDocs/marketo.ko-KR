@@ -3,7 +3,8 @@ unique-page-id: 2360321
 description: 작업 공간 이름 변경 - Marketo 문서 - 제품 설명서
 title: 작업 공간 이름 변경
 exl-id: 1d714803-b1c3-49e9-874b-2555dd13a9d1
-source-git-commit: 2d28d4b473815952231356691b1e9310c61a20f1
+feature: Workspaces
+source-git-commit: 02b2e39580c5eac63de4b4b7fdaf2a835fdd4ba5
 workflow-type: tm+mt
 source-wordcount: '80'
 ht-degree: 0%

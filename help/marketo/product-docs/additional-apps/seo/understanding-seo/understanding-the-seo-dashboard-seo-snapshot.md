@@ -3,7 +3,8 @@ unique-page-id: 2949178
 description: SEO 대시보드 이해 -SEO 스냅샷 - Marketo 문서 - 제품 설명서
 title: SEO 대시보드 이해 - SEO 스냅샷
 exl-id: 59ff940f-368c-4e71-9e1f-a6f959811841
-source-git-commit: eb20d804a06bd02b61368e34ad1965a873d2fdf5
+feature: SEO
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '251'
 ht-degree: 0%

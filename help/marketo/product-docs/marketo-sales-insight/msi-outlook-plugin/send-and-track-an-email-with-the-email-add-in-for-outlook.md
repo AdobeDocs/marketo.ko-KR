@@ -3,7 +3,8 @@ unique-page-id: 2949716
 description: Outlook용 이메일 추가 기능 - Marketo 문서 - 제품 설명서를 사용하여 이메일 전송 및 추적
 title: Outlook용 이메일 추가 기능을 사용하여 이메일 전송 및 추적
 exl-id: 81c2ce86-1528-48ad-8848-ee5a828f9ff7
-source-git-commit: 8b9b2b83f5dc8908f9794d1ee387299edaae31b3
+feature: Marketo Sales Insights
+source-git-commit: 02b2e39580c5eac63de4b4b7fdaf2a835fdd4ba5
 workflow-type: tm+mt
 source-wordcount: '294'
 ht-degree: 0%

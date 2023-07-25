@@ -1,32 +1,33 @@
 ---
 unique-page-id: 1146970
-description: 나중에 실행하도록 Batch Smart Campaign 예약 - Marketo 문서 - 제품 설명서
-title: 나중에 실행하도록 배치 스마트 캠페인을 예약합니다.
+description: 나중에 실행하도록 배치 스마트 캠페인 예약 - Marketo 문서 - 제품 설명서
+title: 나중에 실행되도록 일괄 처리 스마트 캠페인 예약
 exl-id: b78ffed2-cf91-4860-8a94-65b35d2927e2
-source-git-commit: bb628e5211601bd8b424c78cae887c2eeb0614cf
+feature: Smart Campaigns
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
-source-wordcount: '0'
+source-wordcount: '131'
 ht-degree: 0%
 
 ---
 
-# 나중에 실행하도록 배치 스마트 캠페인을 예약합니다. {#schedule-a-batch-smart-campaign-to-run-later}
+# 나중에 실행되도록 일괄 처리 스마트 캠페인 예약 {#schedule-a-batch-smart-campaign-to-run-later}
 
-나중에 특정 시점에 실행하도록 일괄 스마트 캠페인을 설정하려면 다음과 같이 하십시오.
+미래의 특정 시점에 실행할 일괄 처리 스마트 캠페인을 설정하려면 다음 방법을 참조하십시오.
 
 >[!TIP]
 >
->다음을 수행할 수도 있습니다 [프로그램 스케줄 보기에서 일괄 처리 스마트 캠페인 스케줄 조정](/help/marketo/product-docs/core-marketo-concepts/programs/program-schedule-view/reschedule-a-batch-smart-campaign-in-the-program-schedule-view.md).
+>다음을 수행할 수도 있습니다. [프로그램 일정 보기에서 배치 스마트 캠페인 일정 조정](/help/marketo/product-docs/core-marketo-concepts/programs/program-schedule-view/reschedule-a-batch-smart-campaign-in-the-program-schedule-view.md).
 
-1. 실행할 일괄 처리 스마트 캠페인을 선택하고 **예약** 탭을 클릭한 다음 **한 번 실행**.
+1. 실행할 일괄 처리 스마트 캠페인을 선택하고 **예약** 탭을 클릭하고 다음을 클릭합니다. **한 번 실행**.
 
    ![](assets/schedule-a-batch-smart-campaign-to-run-later-1.png)
 
-1. 클릭 **나중에 실행**&#x200B;을(를) 클릭한 다음 달력 아이콘을 클릭하고 스마트 캠페인을 실행할 날짜를 선택합니다.
+1. 클릭 **나중에 실행**&#x200B;그런 다음 달력 아이콘을 클릭하고 스마트 캠페인을 실행할 날짜를 선택합니다.
 
    ![](assets/schedule-a-batch-smart-campaign-to-run-later-2.png)
 
-1. 스마트 캠페인을 실행할 시간(최소 15분 전)을 선택합니다.
+1. 스마트 캠페인을 실행할 시간을 선택합니다(최소 15분 전).
 
    ![](assets/schedule-a-batch-smart-campaign-to-run-later-3.png)
 
@@ -34,7 +35,7 @@ ht-degree: 0%
 
    ![](assets/schedule-a-batch-smart-campaign-to-run-later-4.png)
 
-1. 를 확인하여 예약된 실행을 확인할 수 있습니다. **예약** 탭.
+1. 다음을 확인하여 예약된 실행을 확인할 수 있습니다. **예약** 탭.
 
    ![](assets/schedule-a-batch-smart-campaign-to-run-later-5.png)
 

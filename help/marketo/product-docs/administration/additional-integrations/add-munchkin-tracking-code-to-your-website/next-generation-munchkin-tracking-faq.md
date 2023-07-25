@@ -3,7 +3,8 @@ unique-page-id: 10096583
 description: "차세대 [!DNL Munchkin] 추적 FAQ - Marketo 문서 - 제품 설명서"
 title: "차세대 [!DNL Munchkin] 추적 FAQ"
 exl-id: 283189ac-c817-479a-b896-91233980608c
-source-git-commit: 1a6f029b8c9665ecd7fcc066004d88ee6c915505
+feature: Administration, Munchkin Tracking Code
+source-git-commit: d20a9bb584f69282eefae3704ce4be2179b29d0b
 workflow-type: tm+mt
 source-wordcount: '716'
 ht-degree: 0%
@@ -55,7 +56,6 @@ ht-degree: 0%
 >* (그녀가 실제로 페이지를 방문한 날짜와 함께, 그녀가 알려졌을 때가 아님) 그녀를 위해 기록 된 흥미로운 순간
 >
 >* 오늘과 같이 &quot;새 사용자&quot; 활동이 기록됨
-
 
 ## 이미 &quot;익명 여부&quot; 필터가 있는 내 스마트 목록은 어떻게 됩니까? {#what-happens-to-my-smart-lists-that-already-have-the-is-anonymous-filter}
 

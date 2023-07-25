@@ -3,7 +3,8 @@ unique-page-id: 2359414
 description: 단순 점수 - Marketo 문서 - 제품 설명서
 title: 단순 채점
 exl-id: 6129d46a-e6d2-4819-9b6c-ccbf37060712
-source-git-commit: 74da8ebbd564b11e2795da31321ca47493135f48
+feature: Getting Started
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '369'
 ht-degree: 0%
@@ -16,7 +17,6 @@ ht-degree: 0%
 >
 >* [설정 및 사용자 추가](/help/marketo/getting-started/quick-wins/get-set-up-and-add-a-person.md){target="_blank"}
 >* [양식이 있는 랜딩 페이지](/help/marketo/getting-started/quick-wins/landing-page-with-a-form.md){target="_blank"}
-
 
 ## 1단계: 채점 캠페인 만들기 {#step-create-a-scoring-campaign}
 

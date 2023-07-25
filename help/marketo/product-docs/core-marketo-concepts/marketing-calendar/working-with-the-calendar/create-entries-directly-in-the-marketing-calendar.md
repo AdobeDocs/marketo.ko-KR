@@ -3,7 +3,8 @@ unique-page-id: 2953348
 description: 마케팅 달력 - Marketo 문서 - 제품 설명서에서 바로 항목 만들기
 title: 마케팅 달력에서 바로 항목 만들기
 exl-id: 114b94e8-39f0-4e5d-abb0-27515957b33f
-source-git-commit: dd4fb7dfc92580c58da70d603b6d92bd8f64493c
+feature: Marketing Calendar
+source-git-commit: 02b2e39580c5eac63de4b4b7fdaf2a835fdd4ba5
 workflow-type: tm+mt
 source-wordcount: '122'
 ht-degree: 0%

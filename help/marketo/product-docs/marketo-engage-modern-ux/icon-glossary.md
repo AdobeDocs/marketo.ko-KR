@@ -2,16 +2,17 @@
 description: 아이콘 용어집 - Marketo 문서 - 제품 설명서
 title: 아이콘 용어집
 exl-id: 443dc653-4ecb-4daa-9a6d-e124a6be0329
-source-git-commit: 85e04fb8a52a417982014bc4bb101b6044e53f84
+feature: Modern UX
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '237'
-ht-degree: 19%
+ht-degree: 20%
 
 ---
 
 # 아이콘 용어집 {#new-icon-glossary}
 
-아래는 새 Adobe Marketo Engage 인터페이스의 아이콘입니다. Marketo Classic 아이콘을 참조해야 하는 경우 다음 작업을 수행할 수 있습니다 [여기에서](/help/marketo/getting-started/classic-icon-glossary.md).
+다음은 새 Adobe Marketo Engage 인터페이스의 아이콘입니다. Marketo Classic 아이콘을 참조해야 하는 경우 다음과 같을 수 있습니다. [여기에서 찾음](/help/marketo/getting-started/classic-icon-glossary.md).
 
 ## 일반 아이콘 {#general-icons}
 
@@ -25,17 +26,17 @@ ht-degree: 19%
   <tr>
    <td><strong>해당 사항 없음</strong></td> 
    <td><img src="assets/account-smart-list.png"></td> 
-   <td>계정 Smart List</td> 
+   <td>계정 스마트 목록</td> 
   </tr>
   <tr>
    <td><img src="assets/classic-smart-campaign-active.png"></td> 
    <td><img src="assets/batch-active.png"></td> 
-   <td>배치 캠페인 - 활성</td> 
+   <td>일괄 캠페인 - 활성</td> 
   </tr>
   <tr>
    <td><img src="assets/classic-smart-campaign-inactive.png"></td> 
    <td><img src="assets/batch-inactive.png"></td> 
-   <td>배치 캠페인 - 비활성</td> 
+   <td>일괄 캠페인 - 비활성</td> 
   </tr>
   <tr>
    <td><img src="assets/classic-default-program.png"></td> 
@@ -75,7 +76,7 @@ ht-degree: 19%
   <tr>
    <td><img src="assets/classic-field-organizer.png"></td> 
    <td><img src="assets/field-organizer.png"></td> 
-   <td>필드 구성자</td> 
+   <td>필드 구성</td> 
   </tr>
   <tr>
    <td><img src="assets/classic-filter.png"></td> 
@@ -155,7 +156,7 @@ ht-degree: 19%
   <tr>
    <td><img src="assets/classic-report.png"></td> 
    <td><img src="assets/report.png"></td> 
-   <td>보고서</td> 
+   <td>보고</td> 
   </tr>
   <tr>
    <td><strong>해당 사항 없음</strong></td> 
@@ -170,12 +171,12 @@ ht-degree: 19%
   <tr>
    <td><img src="assets/classic-smart-list.png"></td> 
    <td><img src="assets/smart-list.png"></td> 
-   <td>Smart List</td> 
+   <td>스마트 목록</td> 
   </tr>
   <tr>
    <td><img src="assets/classic-smart-list-cached.png"></td> 
    <td><img src="assets/smart-list-cached.png"></td> 
-   <td>Smart List - 캐시됨</td> 
+   <td>스마트 목록 - 캐시됨</td> 
   </tr>
   <tr>
    <td><img src="assets/classic-sms-message.png"></td> 
@@ -220,7 +221,7 @@ ht-degree: 19%
   <tr>
    <td><img src="assets/classic-workspace.png"></td> 
    <td><img src="assets/workspace.png"></td> 
-   <td>작업 공간</td> 
+   <td>작업 영역</td> 
   </tr>
   <tr>
    <td><img src="assets/classic-youtube.png"></td> 
@@ -230,7 +231,7 @@ ht-degree: 19%
  </tbody>
 </table>
 
-## 배치 캠페인 {#batch-campaigns}
+## 캠페인 일괄 처리 {#batch-campaigns}
 
 <table> 
  <tbody>
@@ -242,12 +243,12 @@ ht-degree: 19%
   <tr>
    <td><img src="assets/classic-smart-campaign-executed.png"></td> 
    <td><img src="assets/has-run-no-upcoming.png"></td> 
-   <td>실행 있음, 예정 없음</td> 
+   <td>실행, 예정된 항목 없음</td> 
   </tr>
   <tr>
    <td><img src="assets/classic-invalid.png"></td> 
    <td><img src="assets/invalid.png"></td> 
-   <td>유효하지 않습니다</td> 
+   <td>잘못됨</td> 
   </tr>
   <tr>
    <td><img src="assets/classic-smart-campaign-never-run.png"></td> 
@@ -257,7 +258,7 @@ ht-degree: 19%
   <tr>
    <td><img src="assets/classic-smart-campaign-executed.png"></td> 
    <td><img src="assets/running-in-wait-step.png"></td> 
-   <td>실행 중, 대기 단계에서</td> 
+   <td>실행 중, 대기 단계</td> 
   </tr>
   <tr>
    <td><img src="assets/classic-smart-campaign-scheduled.png"></td> 
@@ -267,12 +268,12 @@ ht-degree: 19%
   <tr>
    <td><img src="assets/classic-smart-campaign-scheduled-again.png"></td> 
    <td><img src="assets/scheduled-to-run-again.png"></td> 
-   <td>다시 실행되도록 예약됨</td> 
+   <td>다시 실행하도록 예약됨</td> 
   </tr>
   <tr>
    <td><img src="assets/classic-used-by-nurture.png"></td> 
    <td><img src="assets/used-by-nurture.png"></td> 
-   <td>양육에 의해 사용됨</td> 
+   <td>양육에서 사용됨</td> 
   </tr>
  </tbody>
 </table>
@@ -304,7 +305,7 @@ ht-degree: 19%
   <tr>
    <td><img src="assets/classic-invalid.png"></td> 
    <td><img src="assets/invalid.png"></td> 
-   <td>유효하지 않습니다</td> 
+   <td>잘못됨</td> 
   </tr>
  </tbody>
 </table>
@@ -353,7 +354,7 @@ ht-degree: 19%
   <tr>
    <td><img src="assets/classic-engagement-program-off.png"></td> 
    <td><img src="assets/off.png"></td> 
-   <td>해제</td> 
+   <td>끔</td> 
   </tr>
   <tr>
    <td><img src="assets/classic-engagement-program-on.png"></td> 
@@ -400,7 +401,7 @@ ht-degree: 19%
  </tbody>
 </table>
 
-## 자산 {#assets}
+## 에셋 {#assets}
 
 <table> 
  <tbody>
@@ -439,7 +440,7 @@ ht-degree: 19%
   <tr>
    <td><strong>해당 사항 없음</strong></td> 
    <td><img src="assets/approved-under-calculation.png"></td> 
-   <td>승인됨 - 계산 중</td> 
+   <td>승인됨 - 미달 계산</td> 
   </tr>
   <tr>
    <td><strong>해당 사항 없음</strong></td> 

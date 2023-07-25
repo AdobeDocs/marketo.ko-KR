@@ -3,7 +3,8 @@ unique-page-id: 11370952
 description: 릴리스 노트 - 2016년 봄 - Marketo 문서 - 제품 설명서
 title: 릴리스 노트 - 2016년 봄
 exl-id: 0ca26acf-2ac2-418e-bc4e-9820f483fa71
-source-git-commit: 4fa7e733a824af8d2fc0e3ba824b25f9bb985ccf
+feature: Release Information
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '799'
 ht-degree: 0%

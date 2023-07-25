@@ -3,7 +3,8 @@ unique-page-id: 7512448
 description: 개발자에게 SDK 코드 보내기 - Marketo 문서 - 제품 설명서
 title: 개발자에게 SDK 코드 보내기
 exl-id: 0c32b9af-8d86-40d7-b1f3-9aaa53b9b730
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+feature: Mobile Marketing
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '125'
 ht-degree: 0%
@@ -12,7 +13,7 @@ ht-degree: 0%
 
 # 개발자에게 SDK 코드 보내기 {#send-sdk-code-to-a-developer}
 
-인앱 메시지 또는 푸시 알림을 만들려면 먼저 개발자가 Android 및 iOS 플랫폼용 Mobile App SDK를 설정하고 초기화해야 합니다.
+인앱 메시지 또는 푸시 알림을 만들려면 먼저 개발자에게 Android 및 iOS 플랫폼용 Mobile App SDK를 설정하고 초기화하도록 해야 합니다.
 
 * [Android용 지침](https://developers.marketo.com/documentation/mobile/installation-instructions-on-android/)
 * [iOS 지침](https://developers.marketo.com/documentation/mobile/installation-instructions-on-ios/)
@@ -23,9 +24,9 @@ ht-degree: 0%
 
 ![](assets/image2016-3-9-16-3a24-3a14.png)
 
-이렇게 하세요.
+이렇게 하면 됩니다.
 
-1. 클릭 **관리**.
+1. 클릭 **관리자**.
 
    ![](assets/image2015-4-22-16-3a12-3a32.png)
 
@@ -37,11 +38,11 @@ ht-degree: 0%
 
    ![](assets/image2015-4-22-16-3a33-3a19.png)
 
-1. 클릭 **모바일 앱 작업** 을(를) 선택합니다. **개발자에게 보내기**.
+1. 클릭 **모바일 앱 작업** 및 선택 **개발자에게 보내기**.
 
    ![](assets/image2015-4-22-17-3a13-3a30.png)
 
-1. 전자 메일 주소를 입력하고 **보내기**.
+1. 이메일 주소를 입력하고 클릭 **보내기**.
 
    ![](assets/image2015-4-22-18-3a51-3a54.png)
 

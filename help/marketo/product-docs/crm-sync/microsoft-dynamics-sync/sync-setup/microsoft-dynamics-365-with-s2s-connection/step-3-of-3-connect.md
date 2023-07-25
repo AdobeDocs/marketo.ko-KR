@@ -1,40 +1,40 @@
 ---
 unique-page-id: 3571830
-description: 3단계 - Marketo 솔루션을 서버와 서버 연결 - Marketo 문서 - 제품 설명서
-title: 3단계 - Marketo 솔루션을 서버와 서버 연결
+description: 3단계/3단계 - Marketo 솔루션 및 서버 연결 - Marketo 문서 - 제품 설명서
+title: 3단계/3 - Marketo 솔루션을 서버 간 연결에 연결
 exl-id: e3ede749-f787-45d3-adb4-f71ef1221208
-source-git-commit: 5536b35d71506f11fdf32bf7149bf5c61174ab34
+feature: Microsoft Dynamics
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '446'
 ht-degree: 0%
 
 ---
 
-# 3단계 중 3단계: Marketo 솔루션을 서버와 서버 연결 연결 {#step-3-of-3-connect-microsoft-dynamics-with-marketo-solution-s2s}
+# 3단계/3: Marketo 솔루션을 서버 간 연결에 연결 {#step-3-of-3-connect-microsoft-dynamics-with-marketo-solution-s2s}
 
-이 단계는 동기화의 마지막 단계입니다. 거의 다 왔어!
+동기화의 마지막 단계입니다. 거의 다 왔어!
 
 >[!PREREQUISITES]
 >
->* [3단계 중 1단계: 서버 간 연결과 함께 Marketo 솔루션 설치](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/microsoft-dynamics-365-with-s2s-connection/step-1-of-3-install.md)
->* [3단계 중 2단계: 서버 간 연결을 사용하여 Marketo 솔루션 설정](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/microsoft-dynamics-365-with-s2s-connection/step-2-of-3-set-up.md)
-
+>* [1/3단계: 서버 간 연결을 통해 Marketo 솔루션 설치](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/microsoft-dynamics-365-with-s2s-connection/step-1-of-3-install.md)
+>* [2단계/3단계: 서버 간 연결을 통해 Marketo 솔루션 설정](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/microsoft-dynamics-365-with-s2s-connection/step-2-of-3-set-up.md)
 
 >[!NOTE]
 >
->**관리 권한 필요**
+>**관리자 권한 필요**
 
 >[!IMPORTANT]
 >
->기본 인증에서 OAuth로 업그레이드하는 경우 [Marketo 지원](https://nation.marketo.com/t5/support/ct-p/Support) 추가 매개 변수 업데이트에 대한 도움말을 참조하십시오. 이 기능을 사용하면 새 자격 증명을 입력하고 동기화를 다시 사용할 수 있을 때까지 동기화가 일시적으로 중지됩니다. 이전 인증 모드로 되돌리려면 기능을 비활성화할 수 있습니다(2022년 4월까지).
+>기본 인증에서 OAuth로 업그레이드하는 경우 다음으로 문의해야 합니다. [Marketo 지원](https://nation.marketo.com/t5/support/ct-p/Support) 추가 매개 변수 업데이트에 대한 도움말을 참조하십시오. 이 기능을 활성화하면 새 자격 증명을 입력하고 동기화를 다시 활성화할 때까지 동기화가 일시적으로 중지됩니다. 이전 인증 모드로 되돌리려는 경우 기능을 비활성화할 수 있습니다(2022년 4월까지).
 
 >[!NOTE]
 >
->새 자격 증명을 입력하기 전에 다음을 수행할 수 있습니다 [여기에서 확인하십시오.](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/validate-microsoft-dynamics-sync.md).
+>새 자격 증명을 입력하기 전에 다음을 수행할 수 있습니다. [여기에서 유효성 검사](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/validate-microsoft-dynamics-sync.md).
 
 ## Dynamics 동기화 사용자 정보 입력 {#enter-dynamics-sync-user-information}
 
-1. Marketo에 로그인하고 **관리**.
+1. Marketo에 로그인하고 **관리자**.
 
    ![](assets/login-admin.png)
 
@@ -46,25 +46,25 @@ ht-degree: 0%
 
    ![](assets/image2015-3-16-9-3a50-3a6.png)
 
-1. 클릭 **편집** in **1단계: 자격 증명 입력**.
+1. 클릭 **편집** 위치: **1단계: 자격 증명 입력**.
 
    ![](assets/image2015-3-16-9-3a48-3a43.png)
 
    >[!CAUTION]
    >
-   >제출 후 후속 스키마 변경 사항을 되돌릴 수 없으므로 조직 URL이 올바른지 확인하십시오. 잘못된 조직 URL을 사용하는 경우 새 Marketo 구독을 받아야 합니다. URL을 모르면 [여기에서 찾는 방법 알아보기](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/view-the-organization-service-url.md).
+   >제출 후 후속 스키마 변경 사항을 되돌릴 수 없으므로 조직 URL이 올바른지 확인하십시오. 잘못된 조직 URL이 사용되는 경우 새 Marketo 구독을 얻어야 합니다. URL을 모르는 경우 [여기에서 찾는 방법 알아보기](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/view-the-organization-service-url.md).
 
-1. Dynamics 동기화 사용자 정보를 입력하고 **저장** 완료 시.
+1. Dynamics Sync 사용자 정보를 입력하고 **저장** 완료 시.
 
    ![](assets/step-3-of-3-connect-s2s-5.png)
 
    >[!NOTE]
    >
-   >Marketo의 사용자 이름은 [이메일 주소](https://docs.microsoft.com/en-us/power-platform/admin/manage-application-users#view-or-edit-the-details-of-an-application-user) CRM에 있는 응용 프로그램 사용자의 이름을 지정합니다. 형식은 다음과 같습니다 `user@domain.com` 또는 DOMAIN\user.
+   >Marketo의 사용자 이름은 [이메일 주소](https://docs.microsoft.com/en-us/power-platform/admin/manage-application-users#view-or-edit-the-details-of-an-application-user) CRM의 애플리케이션 사용자. 형식은 다음과 같을 수 있습니다 `user@domain.com` 또는 도메인\사용자
 
 ## 동기화할 필드 선택 {#select-fields-to-sync}
 
-1. 클릭 **편집** in **2단계: 동기화할 필드 선택**.
+1. 클릭 **편집** 위치: **2단계: 동기화할 필드 선택**.
 
    ![](assets/image2015-3-16-9-3a51-3a28.png)
 
@@ -74,35 +74,35 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->Marketo은 동기화할 필드에 대한 참조를 저장합니다. Dynamics에서 필드를 삭제하는 경우 [동기화 사용 안 함](/help/marketo/product-docs/crm-sync/salesforce-sync/enable-disable-the-salesforce-sync.md). 그런 다음 를 편집하고 저장하여 Marketo에서 스키마를 새로 고칩니다 [동기화할 필드 선택](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/microsoft-dynamics-sync-details/microsoft-dynamics-sync-field-sync/editing-fields-to-sync-before-deleting-them-in-dynamics.md).
+>Marketo은 동기화할 필드에 대한 참조를 저장합니다. Dynamics에서 필드를 삭제하는 경우 [동기화가 비활성화됨](/help/marketo/product-docs/crm-sync/salesforce-sync/enable-disable-the-salesforce-sync.md). 그런 다음 를 편집하고 저장하여 Marketo에서 스키마를 새로 고칩니다. [동기화할 필드 선택](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/microsoft-dynamics-sync-details/microsoft-dynamics-sync-field-sync/editing-fields-to-sync-before-deleting-them-in-dynamics.md).
 
-## 사용자 지정 필터에 대한 필드 동기화 {#sync-fields-for-a-custom-filter}
+## 사용자 정의 필터의 동기화 필드 {#sync-fields-for-a-custom-filter}
 
 사용자 지정 필터를 만든 경우 로 이동하여 Marketo과 동기화할 새 필드를 선택하십시오.
 
-1. Admin으로 이동하여 를 선택합니다 **Microsoft Dynamics**.
+1. [관리]로 이동하여 **Microsoft Dynamics**.
 
    ![](assets/image2015-10-9-9-3a50-3a9.png)
 
-1. 클릭 **편집** 필드 동기화 세부 정보
+1. 클릭 **편집** 필드 동기화 세부 정보.
 
    ![](assets/image2015-10-9-9-3a52-3a23.png)
 
-1. 아래로 스크롤하여 필드를 확인합니다. 실제 이름은 new_synctokto여야 하지만 표시 이름은 무엇이든 될 수 있습니다. 클릭 **저장**.
+1. 필드로 스크롤하여 확인합니다. 실제 이름은 new_synctomkto여야 하지만 표시 이름은 무엇이든 될 수 있습니다. 클릭 **저장**.
 
    ![](assets/image2016-8-25-15-3a7-3a35.png)
 
 ## 동기화 활성화 {#enable-sync}
 
-1. 클릭 **편집** in **3단계: 동기화 활성화**.
+1. 클릭 **편집** 위치: **3단계: 동기화 활성화**.
 
    ![](assets/image2015-3-16-9-3a52-3a2.png)
 
    >[!CAUTION]
    >
-   >Marketo은 Microsoft Dynamics 동기화에 대해 자동으로 중복 제거를 수행하지 않거나 수동으로 사람 또는 리드를 입력할 때 자동으로 중복 제거를 수행하지 않습니다.
+   >Marketo은 Microsoft Dynamics 동기화와 비교하여 또는 사람 또는 잠재 고객을 수동으로 입력하는 경우 자동으로 중복 제거되지 않습니다.
 
-1. 팝업에서 모든 내용을 읽고 전자 메일 주소를 입력한 다음 **동기화 시작**.
+1. 팝업의 모든 내용을 읽고 이메일 주소를 입력한 다음 을(를) 클릭합니다. **동기화 시작**.
 
    ![](assets/image2015-3-16-9-3a55-3a10.png)
 
@@ -110,4 +110,4 @@ ht-degree: 0%
 
    ![](assets/image2015-3-16-9-3a59-3a51.png)
 
-탁월한 작업!
+훌륭합니다!

@@ -3,7 +3,8 @@ unique-page-id: 2953459
 description: SFDC 동기화 - 계정 동기화 - Marketo 문서 - 제품 설명서
 title: SFDC 동기화 - 계정 동기화
 exl-id: 94f7a9e5-86ea-4bb4-9d78-96a09c61321d
-source-git-commit: e04e2d6932830535493c431de50d6cf9e2298fb1
+feature: Salesforce Integration
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '225'
 ht-degree: 0%
@@ -12,28 +13,28 @@ ht-degree: 0%
 
 # SFDC 동기화: 계정 동기화 {#sfdc-sync-account-sync}
 
-또한 Marketo은 계정 정보를 Salesforce와 동기화합니다. 몇 가지 구체적인 사항을 알려드리겠습니다!
+Marketo은 계정 정보를 Salesforce와 동기화합니다. 다음은 알아야 할 몇 가지 구체적인 사항입니다!
 
-## 정보는 어떤 방식으로 동기화됩니까? {#which-way-does-the-information-sync}
+## 정보는 어느 방향으로 동기화됩니까? {#which-way-does-the-information-sync}
 
-한 가지 방법만: SFDC에서 Marketo으로
+SFDC에서 Marketo으로의 유일한 방법입니다.
 
 ## 업데이트는 어떻게 작동합니까? {#how-do-the-updates-work}
 
-Marketo에서 연락처에 대한 계정 필드를 업데이트하면 Marketo에서 해당 계정에 속하는 모든 연락처의 값이 변경됩니다. SFDC와 동기화되지 않습니다. 그러나 다음에 해당 계정이 SFDC에서 업데이트되면 변경 사항이 Marketo의 모든 계정 정보를 덮어씁니다.
+Marketo의 연락처에 대한 계정 필드를 업데이트하면 Marketo의 해당 계정에 속하는 모든 연락처의 값이 변경됩니다. SFDC와 동기화되지 않습니다. 그러나 다음에 해당 계정이 SFDC에서 업데이트되면 변경 사항이 Marketo의 모든 계정 정보보다 우선 적용됩니다.
 
 ## 연락처가 여러 계정에 속할 수 있습니까?  {#can-a-contact-belong-to-multiple-accounts}
 
-아니요. Account에는 연락처가 여러 개 있을 수 있으며 연락처에는 하나의 계정만 있을 수 있습니다.
+아니요. 계정에는 여러 연락처가 있을 수 있으며 연락처에는 하나의 계정만 있을 수 있습니다.
 
 ## Marketo에서 계정을 만들 수 있습니까? {#can-i-create-accounts-from-marketo}
 
-대부분 아닙니다 그러나 [개인 변환](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/convert-person.md) 한 개인에게 흐름 단계를 수행하면 새 연락처, 새 계정 및 새 Opportunity 가 생성됩니다.
+대부분, 아니야 그러나 를 사용하는 경우 [사용자 전환](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/convert-person.md) 개인에 대한 플로우 단계를 수행하면 새 연락처, 새 계정 및 새 기회가 만들어집니다.
 
 >[!CAUTION]
 >
->이 흐름 단계에는 매우 제한된 사용 사례가 있습니다. 잘 모르겠으면 사용하지 말아야 할 거예요
+>이 플로우 단계는 사용 사례가 매우 제한적입니다. 확실하지 않다면 사용하지 말아야 할 것 같습니다.
 
-## Salesforce의 계정 필드를 변경하면 각 연락처에 대한 데이터 값 변경 활동 로그가 발생합니까?  {#does-a-change-in-an-account-field-in-salesforce-result-in-a-change-data-value-activity-log-for-each-contact}
+## Salesforce에서 계정 필드를 변경하면 각 연락처에 대한 데이터 값 변경 활동 로그가 발생합니까?  {#does-a-change-in-an-account-field-in-salesforce-result-in-a-change-data-value-activity-log-for-each-contact}
 
-대부분 그래 그러나 계정에 5,000명 이상의 연락처가 있고 SFDC에서 해당 계정의 필드가 변경되면 변경 사항을 동기화하지만 5,000명 이상의 연락처에 대한 활동은 기록하지 않습니다.
+대부분, 네. 그러나 계정에 5,000명 이상의 연락처가 있고 해당 계정의 필드가 SFDC에서 변경되는 경우 변경 사항을 동기화하지만 5,000명 이상의 연락처에 대한 활동은 기록하지 않습니다.

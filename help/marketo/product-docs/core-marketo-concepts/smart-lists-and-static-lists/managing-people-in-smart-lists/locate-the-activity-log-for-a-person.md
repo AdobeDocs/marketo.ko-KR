@@ -1,20 +1,21 @@
 ---
 unique-page-id: 5472404
-description: 개인에 대한 활동 로그 찾기 - Marketo 문서 - 제품 설명서
-title: 개인에 대한 활동 로그 찾기
+description: 사용자에 대한 활동 로그 찾기 - Marketo 문서 - 제품 설명서
+title: 사용자에 대한 활동 로그 찾기
 exl-id: c4018711-e68d-4684-ac3d-a5e10b138a86
-source-git-commit: 7bd453393fbba5e60eace6ec9d831494ebfdd883
+feature: Smart Lists
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '128'
 ht-degree: 0%
 
 ---
 
-# 개인에 대한 활동 로그 찾기 {#locate-the-activity-log-for-a-person}
+# 사용자에 대한 활동 로그 찾기 {#locate-the-activity-log-for-a-person}
 
-활동 로그는 진실의 최종 원천입니다. Marketo에 있는 한 사람의 여정에 대한 완전한 이야기입니다.
+활동 로그는 진실의 궁극적인 소스입니다. Marketo에서 한 개인의 여정에 대한 전체 이야기입니다.
 
-1. 로 이동합니다. **데이터베이스**.
+1. 로 이동 **데이터베이스**.
 
    ![](assets/locate-the-activity-log-for-a-person-1.png)
 
@@ -22,7 +23,7 @@ ht-degree: 0%
 
    ![](assets/locate-the-activity-log-for-a-person-2.png)
 
-1. 을(를) 클릭합니다. **사람** 탭. 개인 선택 **Id** 번호.
+1. 다음을 클릭합니다. **사람** 탭. 개인 선택 **Id** 숫자.
 
    ![](assets/locate-the-activity-log-for-a-person-3.png)
 
@@ -30,7 +31,7 @@ ht-degree: 0%
 
    ![](assets/locate-the-activity-log-for-a-person-4.png)
 
-   이제 한 사람에 대해 시간이 지남에 따라 일어나는 모든 정보를 수집합니다.
+   이제 한 사람에 대해 시간이 지남에 따라 발생하는 모든 정보의 컬렉션을 보유하고 있습니다.
 
    ![](assets/locate-the-activity-log-for-a-person-5.png)
 
@@ -42,10 +43,10 @@ ht-degree: 0%
 
    ![](assets/locate-the-activity-log-for-a-person-6.png)
 
-1. 브라우저에 Excel 파일 다운로드.
+1. Excel 파일이 브라우저에 다운로드됩니다.
 
    ![](assets/locate-the-activity-log-for-a-person-7.png)
 
    >[!MORELIKETHIS]
    >
-   >추가 정보 [활동 로그 필터링](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/managing-people-in-smart-lists/filter-activity-types-in-the-activity-log-of-a-person.md) 을 눌러 특정 개인 활동을 확인합니다.
+   >자세히 알아보기 [활동 로그 필터링](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/managing-people-in-smart-lists/filter-activity-types-in-the-activity-log-of-a-person.md) 특정 개인 활동을 보려면 다음과 같이 하십시오.

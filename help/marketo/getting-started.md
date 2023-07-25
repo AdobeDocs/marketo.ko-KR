@@ -1,32 +1,33 @@
 ---
 unique-page-id: 1147226
 description: 시작하기 - Marketo 문서 - 제품 설명서
-title: 시작하기
+title: 시작
 exl-id: 11c883eb-2a22-4706-ba0a-09ca11648054
-source-git-commit: 7e7a82f49b9f723eed5cbcde766c5be91ac170b5
+feature: Getting Started
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
-source-wordcount: '139'
-ht-degree: 12%
+source-wordcount: '133'
+ht-degree: 15%
 
 ---
 
-# 시작하기 {#getting-started}
+# 시작 {#getting-started}
 
 ## Adobe Marketo Engage 소개 {#what-is-marketo-engage}
 
-Marketo Engage이 무엇입니까? 좋은 질문입니다!
+Marketo Engage이 뭐냐고 물으세요? 좋은 질문입니다!
 
-[학습 Marketo Engage](/help/marketo/getting-started/what-is-adobe-marketo-engage.md){target=&quot;_blank&quot;}
+[학습 Marketo Engage](/help/marketo/getting-started/what-is-adobe-marketo-engage.md){target="_blank"}
 
 ## 설정 {#get-set-up}
 
-IT 팀의 도움을 받으면 신속하게 작업을 완료할 수 있습니다.
+IT 팀의 작은 도움을 받아 즉시 작업을 완료할 수 있습니다.
 
-[설치 시작](/help/marketo/getting-started/setup/setup-steps.md){target=&quot;_blank&quot;}
+[설정 시작](/help/marketo/getting-started/setup/setup-steps.md){target="_blank"}
 
-## 빠른 승리 {#get-some-quick-wins}
+## 빠른 성공 얻기 {#get-some-quick-wins}
 
-이러한 작업을 완료하여 Marketo Engage의 핵심 기능을 알아보십시오.
+이 미션을 완료하여 Marketo Engage의 핵심 기능을 알아보십시오.
 
 <table style="table-layout:fixed">
 <tr>
@@ -35,7 +36,7 @@ IT 팀의 도움을 받으면 신속하게 작업을 완료할 수 있습니다.
       <img alt="연결" src="getting-started/assets/getting-started-1.png"/>
     </a>
     <div>
-    <a href="/help/marketo/getting-started/quick-wins/get-set-up-and-add-a-person.md">1. 설정 및 개인 추가</a>
+    <a href="/help/marketo/getting-started/quick-wins/get-set-up-and-add-a-person.md">1. 설정 및 사용자 추가</a>
     </div>
     <br>
   </td>
@@ -61,7 +62,7 @@ IT 팀의 도움을 받으면 신속하게 작업을 완료할 수 있습니다.
       <img alt="연결" src="getting-started/assets/getting-started-4.png"/>
     </a>
     <div>
-    <a href="getting-started/quick-wins/simple-scoring.md">4. 단순 점수 책정</a>
+    <a href="getting-started/quick-wins/simple-scoring.md">4. 단순 채점</a>
     </div>
     <br>
   </td>
@@ -89,7 +90,7 @@ IT 팀의 도움을 받으면 신속하게 작업을 완료할 수 있습니다.
       <img alt="연결" src="getting-started/assets/getting-started-7.png"/>
     </a>
     <div>
-    <a href="getting-started/quick-wins/drip-drip-nurture.md">7. 점적 성장</a>
+    <a href="getting-started/quick-wins/drip-drip-nurture.md">7. 점적 점적 육성</a>
     </div>
     <br>
   </td>
@@ -106,7 +107,7 @@ IT 팀의 도움을 받으면 신속하게 작업을 완료할 수 있습니다.
       <img alt="이메일" src="getting-started/assets/getting-started-9.png" />
     </a>
     <div>
-    <a href="getting-started/quick-wins/alert-the-sales-rep.md">9. 영업 담당자에게 경고</a>
+    <a href="getting-started/quick-wins/alert-the-sales-rep.md">9. 영업 담당자에게 알림</a>
     </div>
     <br>
   </td>
@@ -122,6 +123,6 @@ IT 팀의 도움을 받으면 신속하게 작업을 완료할 수 있습니다.
 </tr>
 </table>
 
-## 4단계 축하합니다! 당신은 국가를 위한 준비가 되었습니다  {#congrats-youre-ready-for-the-nation}
+## 4단계 축하합니다! 넌 국가를 위해 준비됐지  {#congrats-youre-ready-for-the-nation}
 
-다음을 확인하십시오 [마케팅 국가](https://nation.marketo.com){target=&quot;_blank&quot;}!
+다음을 확인하십시오. [마케팅 국가](https://nation.marketo.com){target="_blank"}!

@@ -2,7 +2,8 @@
 description: 채팅 사용자 추가 또는 제거 - Marketo 문서 - 제품 설명서
 title: 채팅 사용자 추가 또는 제거
 exl-id: b616030c-a9fe-48d7-902c-40621307bfec
-source-git-commit: 8aaa6f5225f7965228c3472c0cf6beb2259f3642
+feature: Dynamic Chat
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '233'
 ht-degree: 0%
@@ -15,31 +16,31 @@ ht-degree: 0%
 
 ## 채팅 사용자 추가 {#add-a-chat-user}
 
-1. 에 로그인합니다. [Adobe Admin Console](https://adminconsole.adobe.com/).
+1. 에 로그인합니다 [Adobe Admin Console](https://adminconsole.adobe.com/).
 
    ![](assets/add-or-remove-chat-users-1.png)
 
-1. 클릭 **다이내믹 채팅**.
+1. 클릭 **Dynamic Chat**.
 
    ![](assets/add-or-remove-chat-users-2.png)
 
    >[!NOTE]
    >
-   >Marketo 구독이 두 개 이상 있는 경우 다음 단계 전에 원하는 구독을 선택하십시오.
+   >Marketo 구독이 두 개 이상인 경우 다음 단계 전에 원하는 구독을 선택하십시오.
 
-1. 을(를) 클릭합니다. **사용자** 탭.
+1. 다음을 클릭합니다. **사용자** 탭.
 
    ![](assets/add-or-remove-chat-users-3.png)
 
-1. 을(를) 클릭합니다. **사용자 추가** 버튼을 클릭합니다.
+1. 다음을 클릭합니다. **사용자 추가** 단추를 클릭합니다.
 
    ![](assets/add-or-remove-chat-users-4.png)
 
-1. 추가할 사용자의 이름, 사용자 그룹 또는 이메일 주소를 입력합니다. 이름과 성은 선택 사항입니다.
+1. 추가하려는 사용자의 이름, 사용자 그룹 또는 이메일 주소를 입력합니다. 이름과 성은 선택 사항입니다.
 
    ![](assets/add-or-remove-chat-users-5.png)
 
-1. 을(를) 클릭합니다. **+** 아이콘을 클릭하고 원하는 제품 프로필을 선택합니다.
+1. 다음을 클릭합니다. **+** 아이콘을 클릭하고 원하는 제품 프로필을 선택합니다.
 
    ![](assets/add-or-remove-chat-users-6.png)
 
@@ -47,41 +48,41 @@ ht-degree: 0%
 
    ![](assets/add-or-remove-chat-users-7.png)
 
-## Marketo 역할에 동적 채팅 액세스 추가 {#add-dynamic-chat-access-to-marketo-role}
+## Marketo 역할에 Dynamic Chat 액세스 추가 {#add-dynamic-chat-access-to-marketo-role}
 
-새로 추가된 채팅 사용자의 Marketo 역할이 아직 동적 채팅 권한이 없는 경우 추가하는 방법은 다음과 같습니다.
+새로 추가된 채팅 사용자의 Marketo 역할에 아직 Dynamic Chat 권한이 없는 경우 추가하는 방법은 다음과 같습니다.
 
-1. Marketo에서 **관리** 을(를) 선택합니다. **사용자 및 역할**.
+1. Marketo에서 **관리자** 및 선택 **사용자 및 역할**.
 
    ![](assets/add-or-remove-chat-users-8.png)
 
-1. 을(를) 클릭합니다. **역할** 탭.
+1. 다음을 클릭합니다. **역할** 탭.
 
    ![](assets/add-or-remove-chat-users-9.png)
 
-1. 목록에서 수정할 역할을 선택하고 을 클릭합니다 **역할 편집**.
+1. 목록에서 수정할 역할을 선택하고 **역할 편집**.
 
    ![](assets/add-or-remove-chat-users-10.png)
 
-1. 선택 **동적 채팅 액세스** 을(를) 클릭합니다. **저장**.
+1. 선택 **액세스 Dynamic Chat** 및 클릭 **저장**.
 
    ![](assets/add-or-remove-chat-users-11.png)
 
 ## 채팅 사용자 제거 {#remove-a-chat-user}
 
-1. 에 로그인합니다. [Adobe Admin Console](https://adminconsole.adobe.com/).
+1. 에 로그인합니다 [Adobe Admin Console](https://adminconsole.adobe.com/).
 
    ![](assets/add-or-remove-chat-users-12.png)
 
-1. 클릭 **다이내믹 채팅**.
+1. 클릭 **Dynamic Chat**.
 
    ![](assets/add-or-remove-chat-users-13.png)
 
    >[!NOTE]
    >
-   >Marketo 구독이 두 개 이상 있는 경우 다음 단계 전에 원하는 구독을 선택하십시오.)
+   >Marketo 구독이 두 개 이상 있는 경우 다음 단계 전에 원하는 구독을 선택하십시오).
 
-1. 을(를) 클릭합니다. **사용자** 탭.
+1. 다음을 클릭합니다. **사용자** 탭.
 
    ![](assets/add-or-remove-chat-users-14.png)
 
@@ -89,16 +90,15 @@ ht-degree: 0%
 
    ![](assets/add-or-remove-chat-users-15.png)
 
-1. 을(를) 클릭합니다. **사용자 제거** 버튼을 클릭합니다.
+1. 다음을 클릭합니다. **사용자 제거** 단추를 클릭합니다.
 
    ![](assets/add-or-remove-chat-users-16.png)
 
-1. 클릭 **사용자 제거** 확인합니다.
+1. 클릭 **사용자 제거** 확인할 수 있습니다.
 
    ![](assets/add-or-remove-chat-users-17.png)
 
 >[!MORELIKETHIS]
 >
 >* [Adobe Admin Console 사용자](https://helpx.adobe.com/enterprise/using/users.html)
->* [개별 사용자 관리](https://helpx.adobe.com/enterprise/using/manage-users-individually.html)
-
+>* [개별적으로 사용자 관리](https://helpx.adobe.com/enterprise/using/manage-users-individually.html)

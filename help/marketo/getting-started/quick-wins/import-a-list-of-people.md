@@ -3,7 +3,8 @@ unique-page-id: 2359418
 description: 사람 목록 가져오기 - Marketo 문서 - 제품 설명서
 title: 사람 목록 가져오기
 exl-id: a85ec787-7b22-4666-84fd-d7bf23d32cd4
-source-git-commit: 80512816eaf0a70a3f10a50c34aeea14edd9046b
+feature: Getting Started
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '490'
 ht-degree: 0%
@@ -101,7 +102,6 @@ ht-degree: 0%
    > * 새 사용자 만들기 건너뛰기
    > * 개인 필드 업데이트 건너뛰기
    > * 활동 로깅 건너뛰기
-
 
 1. 매핑 [!UICONTROL 목록 열] 필드를 해당 Marketo 필드로 이동하고 **[!UICONTROL 다음]**.
 

@@ -1,9 +1,10 @@
 ---
 unique-page-id: 1147138
-description: 예약 보기 - Marketo 문서 - 제품 설명서에서 전체 프로그램 스케줄 조정
+description: 일정 보기 - Marketo 문서 - 제품 설명서에서 전체 프로그램 일정 조정
 title: 스케줄 뷰에서 전체 프로그램 스케줄 조정
 exl-id: 3debeff2-67ce-4b59-be5b-ce8cc198f4a0
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+feature: Programs
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '125'
 ht-degree: 0%
@@ -12,9 +13,9 @@ ht-degree: 0%
 
 # 스케줄 뷰에서 전체 프로그램 스케줄 조정 {#rescheduling-an-entire-program-from-the-schedule-view}
 
-프로그램 또는 이벤트를 날짜로 복제하면 모든 날짜를 한 번에 다시 예약하려고 할 수 있습니다. 방법은 다음과 같습니다.
+날짜가 있는 프로그램 또는 이벤트를 복제할 때는 모든 날짜를 한 번에 다시 예약해야 합니다. 방법은 다음과 같습니다.
 
-1. 다시 예약하려는 프로그램을 선택합니다.
+1. 스케줄을 조정할 프로그램을 선택합니다.
 
    ![](assets/image2014-9-23-15-3a15-3a18.png)
 
@@ -30,18 +31,18 @@ ht-degree: 0%
 
    ![](assets/image2014-9-23-15-3a18-3a37.png)
 
-1. 클릭 **다시 예약**.
+1. 클릭 **일정 조정**.
 
    ![](assets/image2014-9-23-15-3a18-3a54.png)
 
-1. 그러면 데이터 검색자가 올바른 날짜로 모든 자산을 승인하지 않고, 다시 예약하고, 다시 승인합니다!
+1. 그런 다음 데이터 검색기는 올바른 날짜가 있는 모든 에셋에 대한 승인을 취소하고, 다시 예약하며, 다시 승인합니다!
 
    ![](assets/image2014-9-23-15-3a19-3a1.png)
 
 >[!NOTE]
 >
->이미 실행된 자산은 이동되지 않습니다.
+>이미 실행된 자산은 이동하지 않습니다.
 
-이제 모든 일정이 다시 조정되었습니다. 필요에 따라 특정 날짜를 조정합니다.
+이제 모든 일정이 조정되었습니다. 필요에 따라 특정 날짜를 조정합니다.
 
 ![](assets/image2014-9-23-15-3a19-3a58.png)

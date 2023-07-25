@@ -3,16 +3,17 @@ unique-page-id: 4720476
 description: 클래식 아이콘 용어집 - Marketo 문서 - 제품 설명서
 title: 클래식 아이콘 용어집
 exl-id: 478f9d91-07bf-46b6-927f-b020653a2fcb
-source-git-commit: 85e04fb8a52a417982014bc4bb101b6044e53f84
+feature: Getting Started
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
-source-wordcount: '564'
+source-wordcount: '562'
 ht-degree: 6%
 
 ---
 
 # 클래식 아이콘 용어집 {#classic-icon-glossary}
 
-아래는 Marketo Classic의 이전 아이콘입니다. 새 아이콘 용어집은 [여기에서](/help/marketo/product-docs/marketo-engage-modern-ux/icon-glossary.md){target=&quot;_blank&quot;}.
+아래는 Marketo Classic의 이전 아이콘입니다. 새 아이콘 용어집은 다음과 같을 수 있습니다 [여기에서 찾음](/help/marketo/product-docs/marketo-engage-modern-ux/icon-glossary.md){target="_blank"}.
 
 **일반 아이콘**
 
@@ -59,28 +60,28 @@ ht-degree: 6%
     <div> 
      <img alt="—" height="25" src="assets/share-to.png"> 
     </div></td> 
-   <td colspan="1">다른 작업 공간과 공유한 소스 폴더</td> 
+   <td colspan="1">다른 작업 영역과 공유한 소스 폴더</td> 
   </tr> 
   <tr> 
    <td colspan="1"> 
     <div> 
      <img alt="--" width="25" src="assets/share-from.png"> 
     </div></td> 
-   <td colspan="1">다른 작업 공간에서 공유된 대상 폴더 <br>(자물쇠는 편집할 수 없음을 나타냅니다.)</td> 
+   <td colspan="1">다른 작업 영역에서 공유된 대상 폴더 <br>(자물쇠는 편집을 수행할 수 없음을 나타냅니다.)</td> 
   </tr> 
   <tr> 
    <td> 
     <div> 
      <img src="assets/image2015-1-9-9-3a23-3a11.png"> 
     </div></td> 
-   <td>보관 폴더 또는 보관 폴더로 변환(모든 폴더 및 보관된 프로그램에 표시될 수 있음)</td> 
+   <td>보관 폴더 또는 보관 폴더로 변환(모든 폴더 및 보관된 프로그램에 대해 표시될 수 있음)</td> 
   </tr> 
   <tr> 
    <td> 
     <div> 
      <img src="assets/image2015-1-9-9-3a35-3a59.png"> 
     </div></td> 
-   <td>성공!(프로그램 성공, 성공 실행 또는 활성으로 표시된 자주)</td> 
+   <td>성공!(프로그램 성공, 실행 성공 또는 활성으로 표시되는 경우가 많음)</td> 
   </tr> 
   <tr> 
    <td> 
@@ -141,7 +142,7 @@ ht-degree: 6%
  </tbody> 
 </table>
 
-## 관리 아이콘 {#admin-icons}
+## 관리자 아이콘 {#admin-icons}
 
 <table style="table-layout:auto"> 
  <tbody> 
@@ -210,7 +211,7 @@ ht-degree: 6%
     <div> 
      <img src="assets/image2015-1-8-16-3a40-3a3.png"> 
     </div></td> 
-   <td>통신 제한</td> 
+   <td>커뮤니케이션 제한</td> 
   </tr> 
   <tr> 
    <td> 
@@ -252,7 +253,7 @@ ht-degree: 6%
     <div> 
      <img src="assets/image2015-1-8-18-3a25-3a25.png"> 
     </div></td> 
-   <td>Munchkin</td> 
+   <td>먼치킨</td> 
   </tr> 
   <tr> 
    <td> 
@@ -266,14 +267,14 @@ ht-degree: 6%
     <div> 
      <img src="assets/image2015-1-8-18-3a28-3a16.png"> 
     </div></td> 
-   <td>LaunchPoint</td> 
+   <td>시작 지점</td> 
   </tr> 
   <tr> 
    <td> 
     <div> 
      <img src="assets/image2015-1-8-18-3a44-3a51.png"> 
     </div></td> 
-   <td>Webhooks</td> 
+   <td>웹훅</td> 
   </tr> 
   <tr> 
    <td> 
@@ -287,7 +288,7 @@ ht-degree: 6%
     <div> 
      <img src="assets/image2015-1-9-9-3a39-3a28.png"> 
     </div></td> 
-   <td>Revenue Cycle Analytics</td> 
+   <td>수익 주기 분석</td> 
   </tr> 
   <tr> 
    <td> 
@@ -301,14 +302,14 @@ ht-degree: 6%
     <div> 
      <img src="assets/image2015-1-9-8-3a40-3a3.png"> 
     </div></td> 
-   <td>관리</td> 
+   <td>관리자</td> 
   </tr> 
   <tr> 
    <td> 
     <div> 
      <img src="assets/image2015-1-9-8-3a46-3a19.png"> 
     </div></td> 
-   <td>알림 - 중요한 시스템 단위 경고</td> 
+   <td>알림 - 시스템 전체에 중요한 경고</td> 
   </tr> 
  </tbody> 
 </table>
@@ -347,7 +348,7 @@ ht-degree: 6%
     <div> 
      <img src="assets/image2014-12-23-11-3a28-3a3.png"> 
     </div></td> 
-   <td>참여 교육</td> 
+   <td>참여 육성</td> 
   </tr> 
   <tr> 
    <td> 
@@ -361,7 +362,7 @@ ht-degree: 6%
     <div> 
      <img src="assets/image2014-12-23-11-3a40-3a19.png"> 
     </div></td> 
-   <td>참여 간격 변경(일시 중지됨,정상)</td> 
+   <td>참여 케이던스 변경(일시 중지됨, 정상)</td> 
   </tr> 
   <tr> 
    <td> 
@@ -382,7 +383,7 @@ ht-degree: 6%
     <div> 
      <img src="assets/image2015-1-5-11-3a12-3a45.png"> 
     </div></td> 
-   <td>요청된 Smart Campaign(Sales Insight 또는 Marketo Flow Action)</td> 
+   <td>요청된 스마트 캠페인(Sales Insight 또는 Marketo 흐름 작업)</td> 
   </tr> 
   <tr> 
    <td> 
@@ -410,28 +411,28 @@ ht-degree: 6%
     <div> 
      <img src="assets/image2015-1-5-11-3a45-3a39.png"> 
     </div></td> 
-   <td>이메일 프로그램 <br>(빨간색 플래그 다운 = 전자 메일이 아직 전송되지 않음)</td> 
+   <td>이메일 프로그램 <br>(빨간색 플래그 다운 = 이메일이 아직 전송되지 않음)</td> 
   </tr> 
   <tr> 
    <td colspan="1"> 
     <div> 
      <img alt="--" src="assets/hs-icon.png" title="--"> 
     </div></td> 
-   <td colspan="1">헤드 시작으로 예약된 이메일 프로그램</td> 
+   <td colspan="1">헤드 시작으로 이메일 프로그램 예약</td> 
   </tr> 
   <tr> 
    <td> 
     <div> 
      <img src="assets/image2015-1-5-11-3a51-3a1.png"> 
     </div></td> 
-   <td>스마트 캠페인 - 예약된 배치(확인 표시는 이전에 실행되었음을 나타냅니다)</td> 
+   <td>스마트 캠페인 - 예약된 일괄 처리(확인 표시는 이전에 실행되었음을 나타냄)</td> 
   </tr> 
   <tr> 
    <td> 
     <div> 
      <img src="assets/image2015-1-9-11-3a6-3a26.png"> 
     </div></td> 
-   <td>예약된 배치 캠페인</td> 
+   <td>예약된 일괄 처리 캠페인</td> 
   </tr> 
   <tr> 
    <td> 
@@ -459,7 +460,7 @@ ht-degree: 6%
     <div> 
      <img src="assets/image2015-1-9-14-3a40-3a19.png"> 
     </div></td> 
-   <td>복제 양식</td> 
+   <td>양식 복제</td> 
   </tr> 
   <tr> 
    <td> 
@@ -571,7 +572,7 @@ ht-degree: 6%
     <div> 
      <img src="assets/image2015-1-9-15-3a15-3a42.png"> 
     </div></td> 
-   <td>경품 작업</td> 
+   <td>경품 행사</td> 
   </tr> 
   <tr> 
    <td> 
@@ -613,14 +614,14 @@ ht-degree: 6%
     <div> 
      <img src="assets/image2015-1-9-15-3a20-3a13.png"> 
     </div></td> 
-   <td>승자 선택</td> 
+   <td>수상자 선정</td> 
   </tr> 
   <tr> 
    <td colspan="1"> 
     <div> 
      <img src="assets/image2015-1-14-13-3a3-3a1.png"> 
     </div></td> 
-   <td colspan="1">다운로드 HTML</td> 
+   <td colspan="1">HTML 다운로드</td> 
   </tr> 
   <tr> 
    <td colspan="1"> 
@@ -648,7 +649,7 @@ ht-degree: 6%
     <div> 
      <img src="assets/image2015-1-14-13-3a3-3a42.png"> 
     </div></td> 
-   <td colspan="1">비승인</td> 
+   <td colspan="1">승인 취소</td> 
   </tr> 
   <tr> 
    <td colspan="1"> 
@@ -676,7 +677,7 @@ ht-degree: 6%
     <div> 
      <img src="assets/image2015-1-14-13-3a4-3a16.png"> 
     </div></td> 
-   <td colspan="1">게재 기능 도구</td> 
+   <td colspan="1">전달성 도구</td> 
   </tr> 
  </tbody> 
 </table>
@@ -715,7 +716,7 @@ ht-degree: 6%
     <div> 
      <img src="assets/image2015-1-12-10-3a57-3a25.png"> 
     </div></td> 
-   <td>비승인</td> 
+   <td>승인 취소</td> 
   </tr> 
   <tr> 
    <td> 
@@ -729,7 +730,7 @@ ht-degree: 6%
     <div> 
      <img src="assets/image2015-1-12-11-3a0-3a49.png"> 
     </div></td> 
-   <td>테스트 그룹으로 변환</td> 
+   <td>테스트 그룹으로 전환</td> 
   </tr> 
   <tr> 
    <td> 
@@ -792,7 +793,7 @@ ht-degree: 6%
     <div> 
      <img src="assets/image2015-1-5-12-3a45-3a13.png"> 
     </div></td> 
-   <td>이메일 - 승인되지 않음 또는 초안</td> 
+   <td>이메일 - 미승인 또는 초안</td> 
   </tr> 
   <tr> 
    <td> 
@@ -880,28 +881,28 @@ ht-degree: 6%
     <div> 
      <img src="assets/image2015-1-9-9-3a50-3a24.png"> 
     </div></td> 
-   <td>매출 주기 모델</td> 
+   <td>수익 주기 모델</td> 
   </tr> 
   <tr> 
    <td> 
     <div> 
      <img src="assets/image2015-1-9-9-3a55-3a4.png"> 
     </div></td> 
-   <td>Revenue Cycle Model (RCM) - 승인되지 않음</td> 
+   <td>RCM(Revenue Cycle Model) - 미승인</td> 
   </tr> 
   <tr> 
    <td> 
     <div> 
      <img src="assets/image2015-1-9-9-3a56-3a30.png"> 
     </div></td> 
-   <td>수익 주기 모델(RCM) - 승인됨</td> 
+   <td>RCM(Revenue Cycle Model) - 승인됨</td> 
   </tr> 
   <tr> 
    <td> 
     <div> 
      <img src="assets/image2015-1-9-9-3a58-3a14.png"> 
     </div></td> 
-   <td>Revenue Cycle Model (RCM) - Approved with Draft</td> 
+   <td>RCM(Revenue Cycle Model) - Approved with Draft</td> 
   </tr> 
   <tr> 
    <td> 
@@ -915,7 +916,7 @@ ht-degree: 6%
     <div> 
      <img src="assets/image2015-1-9-12-3a55-3a51.png"> 
     </div></td> 
-   <td>보고서</td> 
+   <td>보고</td> 
   </tr> 
   <tr> 
    <td> 
@@ -936,14 +937,14 @@ ht-degree: 6%
     <div> 
      <img src="assets/image2015-1-9-12-3a58-3a53.png"> 
     </div></td> 
-   <td>검증된 리드 보기</td> 
+   <td>적격 잠재 고객 보기</td> 
   </tr> 
   <tr> 
    <td> 
     <div> 
      <img src="assets/image2015-1-9-15-3a46-3a10.png"> 
     </div></td> 
-   <td>재미있는 모먼트 개요</td> 
+   <td>즐거운 순간 개요</td> 
   </tr> 
   <tr> 
    <td> 
@@ -971,7 +972,7 @@ ht-degree: 6%
     <div> 
      <img src="assets/image2015-1-9-13-3a45-3a48.png"> 
     </div></td> 
-   <td>사용자 지정 열</td> 
+   <td>사용자 정의 열</td> 
   </tr> 
  </tbody> 
 </table>
@@ -989,7 +990,7 @@ ht-degree: 6%
     <div> 
      <img src="assets/image2015-1-5-13-3a53-3a27.png"> 
     </div></td> 
-   <td>달력 ICS - 달력, (통합 달력)</td> 
+   <td>달력 ICS - iCalendars, (통합 달력)</td> 
   </tr> 
   <tr> 
    <td> 
@@ -1010,14 +1011,14 @@ ht-degree: 6%
     <div> 
      <img src="assets/image2015-1-5-14-3a31-3a7.png"> 
     </div></td> 
-   <td>Salesforce(모든 SFDC 관련 항목에서도 사용)</td> 
+   <td>Salesforce(모든 SFDC 관련 항목에도 적용)</td> 
   </tr> 
   <tr> 
    <td> 
     <div> 
      <img src="assets/image2015-1-5-15-3a44-3a30.png"> 
     </div></td> 
-   <td>스마트 캠페인을 한 번 실행하도록 예약합니다.</td> 
+   <td>스마트 캠페인이 한 번 실행되도록 예약</td> 
   </tr> 
   <tr> 
    <td> 
@@ -1031,14 +1032,14 @@ ht-degree: 6%
     <div> 
      <img src="assets/image2015-1-5-15-3a47-3a48.png"> 
     </div></td> 
-   <td>새로 고침(일반적으로 실행 카운트, 보고서, Smart List)</td> 
+   <td>새로 고침(일반적으로 실행 횟수, 보고서, 스마트 목록)</td> 
   </tr> 
   <tr> 
    <td> 
     <div> 
      <img src="assets/image2015-1-5-16-3a1-3a29.png"> 
     </div></td> 
-   <td>스마트 멤버 보기(이전에 검증됨 및 현재)</td> 
+   <td>스마트 멤버 보기(이전 적격 및 현재)</td> 
   </tr> 
  </tbody> 
 </table>
@@ -1056,14 +1057,14 @@ ht-degree: 6%
     <div> 
      <img src="assets/image2015-1-5-15-3a18-3a8.png"> 
     </div></td> 
-   <td>캠페인의 반복 예약(다중 실행)</td> 
+   <td>캠페인 반복 예약(다중 실행)</td> 
   </tr> 
   <tr> 
    <td> 
     <div> 
      <img src="assets/image2015-1-5-15-3a21-3a29.png"> 
     </div></td> 
-   <td>실행, 작업 또는 삭제를 취소합니다</td> 
+   <td>실행, 작업 또는 삭제 취소</td> 
   </tr> 
   <tr> 
    <td> 
@@ -1077,7 +1078,7 @@ ht-degree: 6%
     <div> 
      <img src="assets/image2015-1-5-14-3a31-3a7.png"> 
     </div></td> 
-   <td>Salesforce(모든 SFDC 관련 항목에서도 사용)</td> 
+   <td>Salesforce(모든 SFDC 관련 항목에도 적용)</td> 
   </tr> 
   <tr> 
    <td> 
@@ -1091,28 +1092,28 @@ ht-degree: 6%
     <div> 
      <img src="assets/image2015-1-12-11-3a33-3a51.png"> 
     </div></td> 
-   <td>상대 점수(모든 점수 흐름 작업에 표시됨)</td> 
+   <td>상대 점수(모든 채점 흐름 액션에도 표시됨)</td> 
   </tr> 
   <tr> 
    <td> 
     <div> 
      <img src="assets/image2015-1-12-11-3a34-3a22.png"> 
     </div></td> 
-   <td>상대적인 긴급성</td> 
+   <td>상대 긴급도</td> 
   </tr> 
   <tr> 
    <td> 
     <div> 
      <img src="assets/image2015-1-5-14-3a43-3a28.png"> 
     </div></td> 
-   <td>이메일 스크립트(Velocity에만 해당)</td> 
+   <td>이메일 스크립트(Velocity 전용)</td> 
   </tr> 
   <tr> 
    <td> 
     <div> 
      <img src="assets/image2015-1-5-14-3a48-3a34.png"> 
     </div></td> 
-   <td>날짜 - "YYYY-MM-DD"로 형식이 지정됩니다.</td> 
+   <td>날짜 - "MM-DD-YYYY" 형식</td> 
   </tr> 
  </tbody> 
 </table>
@@ -1130,7 +1131,7 @@ ht-degree: 6%
     <div> 
      <img src="assets/image2015-1-5-16-3a26-3a11.png"> 
     </div></td> 
-   <td>Smart List</td> 
+   <td>스마트 목록</td> 
   </tr> 
   <tr> 
    <td> 
@@ -1165,14 +1166,14 @@ ht-degree: 6%
     <div> 
      <img src="assets/image2015-1-5-16-3a42-3a11.png"> 
     </div></td> 
-   <td>필드 구성자</td> 
+   <td>필드 구성</td> 
   </tr> 
   <tr> 
    <td> 
     <div> 
      <img src="assets/image2015-1-5-14-3a43-3a28.png"> 
     </div></td> 
-   <td>이메일 스크립트(Velocity에만 해당)</td> 
+   <td>이메일 스크립트(Velocity 전용)</td> 
   </tr> 
   <tr> 
    <td> 
@@ -1193,7 +1194,7 @@ ht-degree: 6%
     <div> 
      <img src="assets/image2015-1-14-13-3a9-3a39.png"> 
     </div></td> 
-   <td colspan="1">새 세그멘테이션</td> 
+   <td colspan="1">새 세분화</td> 
   </tr> 
   <tr> 
    <td colspan="1"> 

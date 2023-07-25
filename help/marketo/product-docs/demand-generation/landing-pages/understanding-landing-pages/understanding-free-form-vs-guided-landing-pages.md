@@ -1,34 +1,35 @@
 ---
 unique-page-id: 7515207
-description: 자유 형식 및 안내 랜딩 페이지 이해 - Marketo 문서 - 제품 설명서
-title: 무형식 페이지와 안내가 있는 랜딩 페이지 이해
+description: 자유 형식 및 안내식 랜딩 페이지 이해 - Marketo 문서 - 제품 설명서
+title: 자유 형식 및 안내식 랜딩 페이지 이해
 exl-id: 1a71133a-1cd2-4d6c-94ad-df1f6f44e6d3
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+feature: Landing Pages
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '174'
 ht-degree: 0%
 
 ---
 
-# 무형식 페이지와 안내가 있는 랜딩 페이지 이해 {#understanding-free-form-vs-guided-landing-pages}
+# 자유 형식 및 안내식 랜딩 페이지 이해 {#understanding-free-form-vs-guided-landing-pages}
 
-선택하는 템플릿에 따라 작업할 랜딩 페이지 편집 모드가 결정됩니다. 다음 두 가지 경로를 사용할 수 있습니다. [자유 형식](/help/marketo/product-docs/demand-generation/landing-pages/free-form-landing-pages/create-a-free-form-landing-page.md) 및 [안내](/help/marketo/product-docs/demand-generation/landing-pages/guided-landing-pages/create-a-guided-landing-page.md). 아래에서 중요한 차이점에 대한 간단한 요약을 확인할 수 있습니다.
+선택하는 템플릿에 따라 작업할 랜딩 페이지 편집 모드가 결정됩니다. 가능한 경로는 두 가지가 있습니다. [무형식](/help/marketo/product-docs/demand-generation/landing-pages/free-form-landing-pages/create-a-free-form-landing-page.md) 및 [가이드](/help/marketo/product-docs/demand-generation/landing-pages/guided-landing-pages/create-a-guided-landing-page.md). 아래에서 중요한 차이점에 대한 간단한 요약을 확인할 수 있습니다.
 
-## 무형식 페이지 {#free-form-pages}
+## 자유 형식 페이지 {#free-form-pages}
 
-* 원하는 콘텐츠를 원하는 위치에 배치할 때마다 드래그하여 놓습니다.
-* 템플릿은 PowerPoint의 SlideMaster와 비슷하며 백그라운드입니다.
-* 단추를 클릭하여 간단한 모바일 버전의 페이지를 만듭니다.
-* 시간 또는 기술 리소스가 많지 않을 때 가장 잘 사용됩니다.
+* 원하는 컨텐츠를 원하는 위치에 드래그하여 놓습니다.
+* 템플릿은 PowerPoint의 SlideMaster처럼 배경에 불과합니다.
+* 한 번의 버튼 클릭으로 페이지의 간단한 모바일 버전을 만들 수 있습니다.
+* 가장 좋은 방법은 시간이나 기술 리소스가 많이 없을 때 사용하는 것입니다.
 
 ![](assets/image2015-5-20-17-3a50-3a53.png)
 
-## 안내 페이지 {#guided-pages}
+## 안내식 페이지 {#guided-pages}
 
-* 템플릿에 의해 제어되는 사전 정의된 레이아웃/구조입니다.
-* 템플릿에서 편집 가능하도록 정의된 지역 또는 변수만 편집기에서 사용자 지정할 수 있습니다.
+* 템플릿에 의해 제어되는 사전 정의된 레이아웃/구조.
+* 템플릿에서 편집 가능한 것으로 정의된 영역 또는 변수만 편집기에서 사용자 정의할 수 있습니다.
 * 레이아웃을 수정하고 자산을 추가하는 데 필요한 코드 변경 사항입니다.
-* 템플릿에 빌드된 규칙에 의해 결정된 장치 간 모양과 느낌.
-* 반응형 템플릿을 코딩하거나 구매했거나 사전 빌드된 Marketo 템플릿을 수정하려는 경우 가장 많이 사용됩니다.
+* 템플릿에 내장된 규칙에 따라 결정된 디바이스를 살펴보고 느낍니다.
+* 응답형 템플릿을 코딩 또는 구매했거나 사전 빌드된 Marketo 템플릿을 수정하려는 경우 가장 적절하게 사용됩니다.
 
 ![](assets/two-1.png)

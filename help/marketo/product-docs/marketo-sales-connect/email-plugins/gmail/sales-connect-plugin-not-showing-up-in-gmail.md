@@ -1,29 +1,30 @@
 ---
 unique-page-id: 14352547
-description: Gmail에 표시되지 않는 Sales Connect 플러그인 - Marketo 문서 - 제품 설명서
-title: Gmail에 표시되지 않는 Sales Connect 플러그인
+description: Sales Connect 플러그인이 Gmail - Marketo 문서 - 제품 설명서에 표시되지 않음
+title: Sales Connect 플러그인이 Gmail에 표시되지 않음
 exl-id: 6cfe0100-5b5c-4f0e-99af-2f54bbd5623c
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+feature: Marketo Sales Connect
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '167'
 ht-degree: 0%
 
 ---
 
-# Gmail에 표시되지 않는 Sales Connect 플러그인 {#sales-connect-plugin-not-showing-up-in-gmail}
+# Sales Connect 플러그인이 Gmail에 표시되지 않음 {#sales-connect-plugin-not-showing-up-in-gmail}
 
-도구 모음이 표시되지 않는 경우 다음과 같이 해보십시오.
+경험에 따르면 도구 모음이 표시되지 않는 경우 몇 가지 시도를 해볼 수 있습니다.
 
-- 확장이 제대로 다운로드되었는지 확인합니다. Chrome에 있는 경우 확장 프로그램 목록을 가져옵니다. Sales Connect(Tout) 가 나열되어 있습니까?
+- 확장이 제대로 다운로드되었는지 확인합니다. Chrome에 있는 경우 확장 목록을 가져옵니다. Sales Connect(Tout) 가 나열됩니까?
 
-- Gmail에서 어떤 언어로 설정되어 있습니까? 영어 이외의 것이면 영어로 바꿔 보세요.
+- Gmail에서 설정한 언어는 무엇입니까? 영어 말고 다른 거면 영어로 바꿔 보세요.
 
-- 이는 명백할 수 있지만, 브라우저를 종료하고 완전히 새로운 창을 열어 보십시오.
+- 이는 명확할 수 있지만 브라우저를 종료하고 완전히 새로운 창을 열어 보십시오.
 
-- 로 향하십시오. [웹 애플리케이션](https://toutapp.com/login) 로그인했는지 확인하십시오.
+- 로 이동 [웹 애플리케이션](https://toutapp.com/login) 로그인되어 있는지 확인하십시오.
 
-- 쿠키가 활성화되어 있는지 확인합니다. Chrome을 사용하는 경우 설정 > 고급 설정 표시 > 컨텐츠 설정 > &quot;타사 쿠키 및 사이트 데이터 차단&quot;의 선택을 취소합니다.
+- 쿠키가 활성화되어 있는지 확인하십시오. Chrome을 사용 중인 경우 설정 > 고급 설정 표시 > 콘텐츠 설정 > 선택 취소 &quot;서드파티 쿠키 및 사이트 데이터 차단&quot;으로 이동합니다.
 
-- 연결을 끊고 Sales Connect 브라우저 확장을 다시 연결해 보십시오.
+- Sales Connect 브라우저 확장 연결을 끊고 다시 연결해 보십시오.
 
-위의 팁 중 어느 것도 도움이 되지 않으신다면, [사례 제출](https://nation.marketo.com/community/support_solutions) 지원 요청.
+위의 팁이 도움이 되지 않았다면 다음을 수행하십시오 [서비스 케이스 제출](https://nation.marketo.com/community/support_solutions) 을 참조하십시오.

@@ -1,23 +1,24 @@
 ---
 unique-page-id: 14352637
-description: 템플릿에 자동 가입 해지 추가 - Marketo 문서 - 제품 설명서
-title: 템플릿에 자동 가입 해지 추가
+description: 템플릿에 자동 구독 취소 추가 - Marketo 문서 - 제품 설명서
+title: 템플릿에 자동 구독 취소 추가
 exl-id: 82319fb8-75d5-4f24-87dc-d14814a06224
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+feature: Marketo Sales Connect
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '77'
 ht-degree: 0%
 
 ---
 
-# 템플릿에 자동 가입 해지 추가 {#add-auto-unsubscribes-to-a-template}
+# 템플릿에 자동 구독 취소 추가 {#add-auto-unsubscribes-to-a-template}
 
-1. 템플릿을 선택하고 을(를) 클릭합니다. **편집** 을 참조하십시오.
+1. 템플릿을 선택하고 **편집** ( 구독 취소 섹션) 아래에 그룹화됩니다.
 
-1. 자동 가입 해지, 자동 차단 가입 해지 또는 둘 다 추가할지 여부를 선택합니다.
+1. 자동 구독 취소, 자동 차단 구독 취소 또는 두 가지 모두를 추가할지 여부를 선택합니다.
 
-   선택한 항목이 저장되면 이 템플릿으로 이메일을 보낼 때마다 서명 아래에 자동으로 추가됩니다.
+   이러한 선택 사항이 저장되면 이 템플릿으로 이메일을 보낼 때마다 서명 아래에 자동으로 추가됩니다.
 
 >[!NOTE]
 >
->또한 이러한 구독 취소 메시지가 **시간대 및 가입 해지됨** 탭 **설정**.
+>또한 다음 목록에서 이러한 구독 취소 메시지가 표시되는 방식을 조정할 수 있습니다. **시간대 및 구독 취소** 의 탭 **설정**.

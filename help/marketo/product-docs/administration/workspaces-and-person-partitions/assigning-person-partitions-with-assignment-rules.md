@@ -3,7 +3,8 @@ unique-page-id: 2360327
 description: 할당 규칙을 사용하여 개인 파티션 할당 - Marketo 문서 - 제품 설명서
 title: 할당 규칙으로 개인 분할 영역 할당
 exl-id: 6b54dcb7-8da9-466b-b153-099ebcb96424
-source-git-commit: 2d28d4b473815952231356691b1e9310c61a20f1
+feature: Partitions
+source-git-commit: 02b2e39580c5eac63de4b4b7fdaf2a835fdd4ba5
 workflow-type: tm+mt
 source-wordcount: '169'
 ht-degree: 0%

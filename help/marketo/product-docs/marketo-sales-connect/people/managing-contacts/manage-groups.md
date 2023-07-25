@@ -3,7 +3,8 @@ unique-page-id: 30081250
 description: 그룹 관리 - Marketo 문서 - 제품 설명서
 title: 그룹 관리
 exl-id: 8788c9ab-7d52-4b8d-96eb-26fd1a07b0f5
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+feature: Marketo Sales Connect
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '280'
 ht-degree: 0%
@@ -16,31 +17,31 @@ Sales Connect에서 그룹을 관리하는 방법을 알아봅니다.
 
 ## 그룹 만들기 {#create-a-group}
 
-1. 사용자 페이지에서 **+** 그룹 옆에 표시됩니다.
+1. 인물 페이지에서 **+** 그룹 옆에 있습니다.
 
    ![](assets/one-4.png)
 
-1. 그룹 이름을 지정하고 을(를) 클릭합니다. **만들기**.
+1. 그룹 이름을 지정하고 **만들기**.
 
    ![](assets/two-3.png)
 
-   됐습니다.
+   다 됐습니다!
 
 ## 그룹에 연락처 추가 {#add-contacts-to-a-group}
 
-1. 사용자 페이지에서 사용자를 추가할 그룹을 찾아 선택합니다.
+1. 인물 페이지에서 인물을 추가할 그룹을 찾아 선택합니다.
 
    ![](assets/three-3.png)
 
-1. 클릭 **그룹 작업** 을(를) 선택합니다. **연락처 만들기**.
+1. 클릭 **그룹 작업** 및 선택 **연락처 만들기**.
 
    ![](assets/four-3.png)
 
    >[!NOTE]
    >
-   >한 번에 한 연락처가 추가됩니다. 여러 연락처를 동시에 추가하려면 [다음 단계](/help/marketo/product-docs/marketo-sales-connect/people/managing-contacts/import-contacts-via-csv.md).
+   >이렇게 하면 한 번에 한 명의 연락처가 추가됩니다. 여러 연락처를 동시에 추가하려면 다음 작업을 수행하십시오 [다음 단계](/help/marketo/product-docs/marketo-sales-connect/people/managing-contacts/import-contacts-via-csv.md).
 
-1. 연락처 정보를 입력하고 **만들기** 또는 **새로 만들기 및 추가** 추가).
+1. 연락처 정보를 입력하고 클릭 **만들기** (또는 **새로 만들기 및 추가** 추가).
 
    ![](assets/five-3.png)
 
@@ -48,15 +49,15 @@ Sales Connect에서 그룹을 관리하는 방법을 알아봅니다.
 
    >[!NOTE]
    >
-   >새로 추가된 연락처를 보려면 새로 고침을 눌러야 할 수 있습니다.
+   >추가된 새 연락처를 보려면 새로 고침을 눌러야 할 수 있습니다.
 
 ## 그룹 공유 {#share-a-group}
 
-1. 사용자 페이지에서 공유할 그룹을 찾아 선택합니다.
+1. 사람 페이지에서 공유할 그룹을 찾아 선택합니다.
 
    ![](assets/six.png)
 
-1. 도타(세 개의 세로 점)를 클릭하고 을 선택합니다 **공유**.
+1. 점(세 개의 세로 점)을 클릭하고 을 선택합니다 **공유**.
 
    ![](assets/seven.png)
 
@@ -68,19 +69,19 @@ Sales Connect에서 그룹을 관리하는 방법을 알아봅니다.
 
    ![](assets/nine.png)
 
-   여전히 그룹을 소유하고 있지만 이제 팀 그룹 아래에 표시됩니다.
+   여전히 그룹을 소유하고 있지만, 이제 팀 그룹 아래에 표시됩니다.
 
-## 그룹 공유 안 함 {#unshare-a-group}
+## 그룹 공유 해제 {#unshare-a-group}
 
-1. 사용자 페이지에서 공유를 해제할 그룹을 찾아 선택합니다.
+1. 사람 페이지에서 공유를 해제할 그룹을 찾아 선택합니다.
 
    ![](assets/ten.png)
 
-1. 도타(세 개의 세로 점)를 클릭하고 을 선택합니다 **공유**.
+1. 점(세 개의 세로 점)을 클릭하고 을 선택합니다 **공유**.
 
    ![](assets/eleven.png)
 
-1. 을(를) 클릭합니다. **X** 그룹을 공유한 팀 옆의 모달 바깥쪽을 클릭합니다.
+1. 다음을 클릭합니다. **X** 그룹을 공유한 팀 옆에 있는 를 클릭한 다음 모달에서 를 클릭합니다.
 
    ![](assets/twelve.png)
 
@@ -88,15 +89,15 @@ Sales Connect에서 그룹을 관리하는 방법을 알아봅니다.
 
 ## 그룹 이름 바꾸기 {#rename-a-group}
 
-1. 사용자 페이지에서 이름을 바꿀 그룹을 찾아 선택합니다.
+1. 사람 페이지에서 이름을 바꿀 그룹을 찾아 선택합니다.
 
    ![](assets/six.png)
 
-1. 도타(세 개의 세로 점)를 클릭하고 을 선택합니다 **이름 변경**.
+1. 점(세 개의 세로 점)을 클릭하고 을 선택합니다 **이름 바꾸기**.
 
    ![](assets/thirteen.png)
 
-1. 새 이름을 입력하고 Enter 키를 누릅니다.
+1. 새 이름을 입력하고 enter 키를 누릅니다.
 
    ![](assets/fourteen.png)
 
@@ -106,10 +107,10 @@ Sales Connect에서 그룹을 관리하는 방법을 알아봅니다.
 
    ![](assets/fifteen.png)
 
-1. 도타(세 개의 세로 점)를 클릭하고 을 선택합니다 **삭제**.
+1. 점(세 개의 세로 점)을 클릭하고 을 선택합니다 **삭제**.
 
    ![](assets/sixteen.png)
 
-1. 클릭 **삭제** 확인합니다.
+1. 클릭 **삭제** 확인할 수 있습니다.
 
    ![](assets/seventeen.png)

@@ -2,9 +2,10 @@
 description: Salesforce 활동 세부 정보 사용자 지정 구성 - Marketo 문서 - 제품 설명서
 title: Salesforce 활동 세부 정보 사용자 지정 구성
 exl-id: 4b20ca29-18d6-4026-9bf9-77656ad1442d
-source-git-commit: 02354356949aef7aa8836d4753ec538b7819a65a
+feature: Marketo Sales Connect
+source-git-commit: 02b2e39580c5eac63de4b4b7fdaf2a835fdd4ba5
 workflow-type: tm+mt
-source-wordcount: '0'
+source-wordcount: '707'
 ht-degree: 0%
 
 ---

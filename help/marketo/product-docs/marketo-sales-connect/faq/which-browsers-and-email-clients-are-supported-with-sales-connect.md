@@ -3,7 +3,8 @@ unique-page-id: 14352422
 description: Sales Connect에서 지원되는 브라우저 및 이메일 클라이언트는 무엇입니까? - Marketo 문서 - 제품 설명서
 title: Sales Connect에서 지원되는 브라우저 및 이메일 클라이언트는 무엇입니까?
 exl-id: 00f3537e-358d-4540-b569-085674c360a4
-source-git-commit: 0011d89b6e0b9ad9be8dceb2c60c85c522e84add
+feature: Marketo Sales Connect
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '111'
 ht-degree: 0%

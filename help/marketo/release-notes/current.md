@@ -2,7 +2,8 @@
 description: 현재 릴리스 정보 - Marketo 설명서 - 제품 설명서
 title: 최신 릴리스 정보
 exl-id: a2eccad5-73ad-48f9-8091-51cee23824e1
-source-git-commit: d232da08e8637a33ff76d63e7984d794a1e18e16
+feature: Release Information
+source-git-commit: 7e0d78810cce1c35918a15ad29c1f3863128c1dd
 workflow-type: tm+mt
 source-wordcount: '713'
 ht-degree: 2%

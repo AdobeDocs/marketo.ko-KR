@@ -3,7 +3,8 @@ unique-page-id: 10099680
 description: 사용자 지정 개체 데이터 가져오기 - Marketo 문서 - 제품 설명서
 title: 사용자 지정 개체 데이터 가져오기
 exl-id: ee11199a-57ca-47ec-8f59-8384a93ea05e
-source-git-commit: 4a33b192cc22550c75769b383e261ac0a86e7ddb
+feature: Custom Objects
+source-git-commit: 02b2e39580c5eac63de4b4b7fdaf2a835fdd4ba5
 workflow-type: tm+mt
 source-wordcount: '233'
 ht-degree: 0%

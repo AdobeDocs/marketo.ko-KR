@@ -1,28 +1,29 @@
 ---
 unique-page-id: 2359608
-description: 양식 글꼴 제품군 변경 - Marketo 문서 - 제품 설명서
-title: 양식 글꼴 패밀리 변경
+description: 양식 글꼴 모음 변경 - Marketo 문서 - 제품 설명서
+title: 양식 글꼴 모음 변경
 exl-id: eb5e861b-6e0b-4291-9944-828ea00f1869
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+feature: Forms
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '143'
 ht-degree: 0%
 
 ---
 
-# 양식 글꼴 패밀리 변경 {#change-the-form-font-family}
+# 양식 글꼴 모음 변경 {#change-the-form-font-family}
 
-Google 글꼴은 뛰어난 기능을 갖추고 있으며 양식 편집기에 바로 빌드했습니다. 확인해!
+Google 글꼴은 훌륭하며 양식 편집기에 바로 빌드되었습니다. 확인해 봐!
 
 >[!NOTE]
 >
->이 설정은 양식 레이블, 입력 텍스트 및 리치 텍스트에 영향을 줍니다.
+>이 설정은 양식 레이블, 입력 텍스트 및 모든 서식 있는 텍스트에 영향을 줍니다.
 
-1. 이동 **마케팅 활동**.
+1. 다음으로 이동 **마케팅 활동**.
 
    ![](assets/login-marketing-activities.png)
 
-1. 양식을 선택하고 을(를) 클릭합니다 **양식 편집**.
+1. 양식을 선택하고 **양식 편집**.
 
    ![](assets/image2014-9-15-15-3a47-3a27.png)
 
@@ -30,11 +31,11 @@ Google 글꼴은 뛰어난 기능을 갖추고 있으며 양식 편집기에 바
 
    ![](assets/image2014-9-15-15-3a47-3a56.png)
 
-1. 을(를) 선택합니다 **글꼴 패밀리** 원하시는군요
+1. 다음 항목 선택 **글꼴 모음** 원하는 대로
 
    >[!TIP]
    >
-   >한 묶음 [Google 글꼴](https://www.google.com/fonts) 사용할 수 있습니다.
+   >한 다발 [Google 글꼴](https://www.google.com/fonts) 사용할 수 있습니다.
 
    ![](assets/image2014-9-15-16-3a0-3a8.png)
 
@@ -46,17 +47,17 @@ Google 글꼴은 뛰어난 기능을 갖추고 있으며 양식 편집기에 바
 
    >[!NOTE]
    >
-   >랜딩 페이지에서 사용하려면 양식을 승인해야 합니다.
+   >양식이 랜딩 페이지에서 사용되도록 승인되어야 합니다.
 
    ![](assets/image2014-9-15-16-3a1-3a28.png)
 
    >[!NOTE]
    >
-   >양식 변경에 의해 생성된 랜딩 페이지 초안을 승인해야 합니다.
+   >양식 변경으로 생성된 랜딩 페이지 초안을 승인해야 합니다.
 
    ![](assets/image2014-9-15-16-3a2-3a1.png)
 
-양식에서 글꼴 모음을 바꾸는 게 얼마나 쉬웠는지 보실래요? 좋아요, 이제 그 과정이 끝났으니, 양식 글꼴 크기를 변경하는 방법을 알아봅시다.
+양식의 글꼴 모음을 변경하는 것이 얼마나 쉬웠는지 살펴보세요. 좋습니다. 이제 완료되었으므로 양식 글꼴 크기를 변경하는 방법을 알아보겠습니다.
 
 >[!MORELIKETHIS]
 >

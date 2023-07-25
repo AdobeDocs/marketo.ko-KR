@@ -2,7 +2,8 @@
 description: Salesforce 동기화 상태 - Marketo 문서 - 제품 설명서
 title: Salesforce 동기화 상태
 exl-id: 61197808-7812-4e0a-8ac6-4a60af0f7979
-source-git-commit: 4d88547ecdc25a2a1e0de49fab1493bbefd6800b
+feature: Salesforce Integration
+source-git-commit: 02b2e39580c5eac63de4b4b7fdaf2a835fdd4ba5
 workflow-type: tm+mt
 source-wordcount: '552'
 ht-degree: 3%
@@ -241,7 +242,7 @@ ht-degree: 3%
   </tr>  
   <tr> 
    <td colspan="1">FKS 업데이트</td> 
-   <td colspan="1">모두</td> 
+   <td colspan="1">전체</td> 
    <td colspan="1">모든 개체의 외래 키 업데이트</td> 
    <td colspan="1">해당 없음</td>
   </tr>  

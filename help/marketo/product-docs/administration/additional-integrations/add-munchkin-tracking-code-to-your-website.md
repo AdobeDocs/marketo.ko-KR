@@ -3,7 +3,8 @@ unique-page-id: 2360354
 description: "추가 [!DNL Munchkin] 웹 사이트에 대한 추적 코드 - Marketo 문서 - 제품 설명서"
 title: "추가 [!DNL Munchkin] 웹 사이트에 대한 추적 코드"
 exl-id: a03a7f11-8d5e-4325-b975-8fc350711da0
-source-git-commit: 1a6f029b8c9665ecd7fcc066004d88ee6c915505
+feature: Administration, Munchkin Tracking Code
+source-git-commit: d20a9bb584f69282eefae3704ce4be2179b29d0b
 workflow-type: tm+mt
 source-wordcount: '657'
 ht-degree: 0%

@@ -3,7 +3,8 @@ unique-page-id: 7504893
 description: "추가 [!DNL Google AdWords] as a [!DNL Launchpoint] 관리자 계정이 있는 서비스 - Marketo 문서 - 제품 설명서"
 title: "추가 [!DNL Google AdWords] as a [!DNL Launchpoint] 관리자 계정이 있는 서비스"
 exl-id: aac106f4-6615-49d5-a561-0dd965c7b0ff
-source-git-commit: eb20d804a06bd02b61368e34ad1965a873d2fdf5
+feature: Administration, Integrations
+source-git-commit: d20a9bb584f69282eefae3704ce4be2179b29d0b
 workflow-type: tm+mt
 source-wordcount: '321'
 ht-degree: 1%

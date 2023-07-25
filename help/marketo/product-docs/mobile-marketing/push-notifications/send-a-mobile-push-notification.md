@@ -3,7 +3,8 @@ unique-page-id: 7512457
 description: 모바일 푸시 알림 보내기 - Marketo 문서 - 제품 설명서
 title: 모바일 푸시 알림 보내기
 exl-id: b462857e-c63d-419d-9e28-aafc778e217e
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+feature: Mobile Marketing
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '98'
 ht-degree: 0%
@@ -12,23 +13,22 @@ ht-degree: 0%
 
 # 모바일 푸시 알림 보내기 {#send-a-mobile-push-notification}
 
-모바일 앱을 사용하는 사람에게 푸시 알림을 보냅니다.
+모바일 앱을 사용하여 사람들에게 푸시 알림을 보냅니다.
 
 >[!PREREQUISITES]
 >
 >* [새 스마트 캠페인 만들기](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/creating-a-smart-campaign/create-a-new-smart-campaign.md)
 >* [푸시 알림 만들기](/help/marketo/product-docs/mobile-marketing/push-notifications/create-a-push-notification.md)
 
-
-1. 로 이동합니다. **마케팅 활동** 영역.
+1. 로 이동 **마케팅 활동** 영역입니다.
 
    ![](assets/image2015-4-22-18-3a31-3a54.png)
 
-1. 스마트 캠페인을 선택하고 을(를) 클릭합니다 **Smart List**.
+1. 스마트 캠페인을 선택하고 **스마트 목록**.
 
    ![](assets/image2015-4-23-17-3a57-3a46.png)
 
-1. 스마트 목록을 정의한 다음 **흐름**.
+1. 스마트 목록을 정의한 다음 **플로우**.
 
    ![](assets/image2015-4-22-18-3a33-3a13.png)
 
@@ -38,7 +38,7 @@ ht-degree: 0%
 
    >[!NOTE]
    >
-   >푸시 알림이 드롭다운에 표시되기 전에 승인해야 합니다.
+   >푸시 알림은 드롭다운에 표시되기 전에 승인되어야 합니다.
 
 1. 클릭 **한 번 실행**.
 
@@ -48,4 +48,4 @@ ht-degree: 0%
 
    ![](assets/image2015-4-23-18-3a1-3a33.png)
 
-돌아가서 푸시 알림이 전송될 때까지 기다립니다.
+푸시 알림이 나갈 때까지 기다립니다.

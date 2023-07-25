@@ -3,7 +3,8 @@ unique-page-id: 2359426
 description: 개인 데이터 업데이트 - Marketo 문서 - 제품 설명서
 title: 개인 데이터 업데이트
 exl-id: e4fe0df7-5744-41e6-821f-942d247123fc
-source-git-commit: 74da8ebbd564b11e2795da31321ca47493135f48
+feature: Getting Started
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '158'
 ht-degree: 0%
@@ -18,7 +19,6 @@ ht-degree: 0%
 >
 >* [설정 및 사용자 추가](/help/marketo/getting-started/quick-wins/get-set-up-and-add-a-person.md){target="_blank"}
 >* [사람 목록 가져오기](/help/marketo/getting-started/quick-wins/import-a-list-of-people.md){target="_blank"}
-
 
 최근 박람회에서 어떤 사람이 추가 연락처 정보를 제공했다고 가정해 보겠습니다. 개인 데이터를 업데이트하는 방법은 다음과 같습니다.
 

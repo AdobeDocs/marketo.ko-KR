@@ -3,7 +3,8 @@ unique-page-id: 2360317
 description: 작업 공간에 개인 파티션 할당 - Marketo 문서 - 제품 설명서
 title: 작업 공간에 개인 분할 영역 지정
 exl-id: 84c539f0-ca68-4be3-a462-cbe9d191dbb6
-source-git-commit: 2d28d4b473815952231356691b1e9310c61a20f1
+feature: Workspaces
+source-git-commit: 02b2e39580c5eac63de4b4b7fdaf2a835fdd4ba5
 workflow-type: tm+mt
 source-wordcount: '142'
 ht-degree: 0%

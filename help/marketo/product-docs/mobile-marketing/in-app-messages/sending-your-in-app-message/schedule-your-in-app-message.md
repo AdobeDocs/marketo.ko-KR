@@ -3,7 +3,8 @@ unique-page-id: 11370503
 description: 인앱 메시지 예약 - Marketo 문서 - 제품 설명서
 title: 인앱 메시지 예약
 exl-id: 2ff785b4-a0c9-4c04-869b-86fba7b997d7
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+feature: Mobile Marketing
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '86'
 ht-degree: 0%
@@ -12,9 +13,9 @@ ht-degree: 0%
 
 # 인앱 메시지 예약 {#schedule-your-in-app-message}
 
-지금 메시지를 보내거나 나중에 예약하십시오.
+메시지를 지금 보내거나 나중에 보내도록 예약하십시오.
 
-1. 인앱 메시지를 예약하려면 을(를) 선택합니다 **미래 날짜 설정** 및 드롭다운 달력에서 시작 날짜를 선택합니다.
+1. 인앱 메시지를 예약하려면 다음을 선택합니다 **미래 날짜 설정** 드롭다운 달력에서 시작 날짜를 선택합니다.
 
    ![](assets/schedule-your-in-app-message-1.png)
 
@@ -30,4 +31,4 @@ ht-degree: 0%
 
    ![](assets/schedule-your-in-app-message-4.png)
 
-진정해! 마지막이지만 가장 중요한 것은 [승인](/help/marketo/product-docs/mobile-marketing/in-app-messages/sending-your-in-app-message/approve-your-in-app-message.md) 단계.
+진정해! 마지막은 아니지만 [승인](/help/marketo/product-docs/mobile-marketing/in-app-messages/sending-your-in-app-message/approve-your-in-app-message.md) 단계.

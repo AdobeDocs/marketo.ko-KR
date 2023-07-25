@@ -1,35 +1,36 @@
 ---
 unique-page-id: 12983390
 description: Azure에 앱을 등록하여 클라이언트 ID/앱 ID 획득 - Marketo 문서 - 제품 설명서
-title: Azure에 앱을 등록하여 클라이언트 ID/앱 ID를 확보하십시오
+title: Azure에 앱을 등록하여 클라이언트 ID/앱 ID를 얻습니다.
 exl-id: 006cd130-a2fc-41ce-b5ee-890ef6167b34
-source-git-commit: 6f15abf1fed69431b3bbe249c908b0f90a56d391
+feature: Microsoft Dynamics
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
-source-wordcount: '353'
+source-wordcount: '347'
 ht-degree: 0%
 
 ---
 
-# Azure에 앱을 등록하여 클라이언트 ID/앱 ID를 확보하십시오 {#register-an-app-with-azure-to-acquire-your-client-id-app-id}
+# Azure에 앱을 등록하여 클라이언트 ID/앱 ID를 얻습니다. {#register-an-app-with-azure-to-acquire-your-client-id-app-id}
 
-Azure Active Directory는 온-프레미스 디렉터리를 클라우드로 확장하여 온-프레미스 ADFS 인증을 통해 MS Dynamics 365 CRM에 대한 지원을 제공합니다.
+Azure Active Directory는 온-프레미스 디렉터리를 클라우드로 확장하여 온-프레미스 ADFS 인증을 사용하는 MS Dynamics 365 CRM을 지원합니다.
 
 ## 새 앱 등록 {#registering-a-new-app}
 
-1. [로그인](https://login.microsoftonline.com/)관리자 권한이 있는 계정을 사용하여 Microsoft Azure 관리 포털에 {target=&quot;_blank&quot;} 님. Office 365 관리 센터를 통해 Office Azure 포털에서 **관리** 왼쪽 탐색 창의 항목과 선택 **Azure AD**.
+1. [로그인](https://login.microsoftonline.com/){target="_blank"} 관리자 권한이 있는 계정을 사용하여 Microsoft Azure 관리 포털에 연결합니다. 또한 Office 365 관리 센터를 통해 다음을 확장하여 Microsoft Azure 포털에 액세스할 수 있습니다. **관리자** 왼쪽 탐색 창의 항목 및 선택 **Azure AD**.
 
    >[!CAUTION]
    >
-   >앱을 등록하려는 계정과 동일한 Office 365 구독의 계정을 사용해야 합니다.
+   >앱을 등록할 계정과 동일한 Office 365 구독의 계정을 사용해야 합니다.
 
    >[!NOTE]
    >
-   >Azure 계정이 없는 경우 다음 작업을 수행할 수 있습니다 [등록](https://azure.microsoft.com/en-us/free/){target=&quot;_blank&quot;}(하나)에 대해 사용할 수 있습니다. 자세한 내용은 Microsoft 설명서를 참조하거나 Microsoft 담당자에게 문의하십시오. Azure 계정을 만든 후에는 아래 요약된 절차를 사용하여 하나 이상의 앱을 등록할 수 있습니다.
+   >Azure 계정이 없는 경우 다음을 수행할 수 있습니다. [등록](https://azure.microsoft.com/en-us/free/){target="_blank"} 한 명이요. 자세한 내용은 Microsoft 설명서를 참조하거나 Microsoft 담당자에게 문의하십시오. Azure 계정을 만든 후에는 아래 설명된 절차를 사용하여 하나 이상의 앱을 등록할 수 있습니다.
    >
    >
-   >Azure 계정이 있지만 Microsoft Dynamics 365의 Office 365 구독을 Azure 구독에서 사용할 수 없는 경우 다음을 수행하십시오 [이러한 지침은](https://msdn.microsoft.com/office/office365/howto/setup-development-environment#bk_CreateAzureSubscription){target=&quot;_blank&quot;} 를 사용하여 두 계정을 연결합니다.
+   >Azure 계정이 있지만 Microsoft Dynamics 365를 사용하는 Office 365 구독을 Azure 구독에서 사용할 수 없는 경우 다음을 참조하세요. [이 지침](https://msdn.microsoft.com/office/office365/howto/setup-development-environment#bk_CreateAzureSubscription){target="_blank"} 두 계정을 연결합니다.
 
-1. 찾기 및 클릭 **Azure Active Directory** 왼쪽 탐색 창에서 클릭합니다.
+1. 찾기 및 클릭 **Azure Active Directory** 왼쪽 탐색 창에서 을 클릭합니다.
 
    ![](assets/two.png)
 
@@ -37,21 +38,21 @@ Azure Active Directory는 온-프레미스 디렉터리를 클라우드로 확�
 
    ![](assets/three.png)
 
-1. 클릭 **새 등록** 를 클릭합니다.
+1. 클릭 **새 등록** 을 클릭합니다.
 
    ![](assets/four.png)
 
-1. 앱의 이름을 입력하고 적용 가능한 계정 유형을 선택한 다음 리디렉션 URL을 입력합니다. 그런 다음 **등록** 를 클릭합니다.
+1. 앱 이름을 입력하고 적용 가능한 계정 유형을 선택한 다음 리디렉션 URL을 입력합니다. 그런 다음 **등록** 페이지 하단에 있습니다.
 
    ![](assets/five.png)
 
-1. 이제 앱이 **앱 등록** 탭.
+1. 이제 앱이에 표시됩니다. **앱 등록** 탭.
 
    ![](assets/six.png)
 
 ## 앱 권한 구성 {#configuring-app-permissions}
 
-1. 아래에 **앱 등록** 탭에서 권한을 구성할 앱을 클릭합니다.
+1. 아래 **앱 등록** active Directory에서 권한을 구성할 앱을 클릭합니다.
 
    ![](assets/seven.png)
 
@@ -59,7 +60,7 @@ Azure Active Directory는 온-프레미스 디렉터리를 클라우드로 확�
 
    ![](assets/eight.png)
 
-1. 을(를) 클릭합니다. **권한 추가** 버튼을 클릭합니다.
+1. 다음을 클릭합니다. **권한 추가** 단추를 클릭합니다.
 
    ![](assets/nine.png)
 
@@ -67,19 +68,19 @@ Azure Active Directory는 온-프레미스 디렉터리를 클라우드로 확�
 
    ![](assets/ten.png)
 
-1. 을(를) 확인합니다. **조직 사용자로 일반 데이터 서비스에 ****** 상자를 클릭한 다음 **권한 추가.**
+1. 다음 확인: **조직 사용자로 공통 데이터 서비스**** 액세스** 상자를 클릭한 다음 **권한을 추가합니다.**
 
    ![](assets/eleven.png)
 
-1. 권한이 성공적으로 추가되면 10초 이상 기다립니다.
+1. 권한이 성공적으로 추가되면 10초 이상 기다리십시오.
 
    ![](assets/twelve.png)
 
-1. 을(를) 클릭합니다. **관리자 동의 부여** 버튼을 클릭합니다.
+1. 다음을 클릭합니다. **관리자 동의 부여** 단추를 클릭합니다.
 
    ![](assets/thirteen.png)
 
-1. 클릭 **예** 확인합니다.
+1. 클릭 **예** 확인할 수 있습니다.
 
    ![](assets/fourteen.png)
 

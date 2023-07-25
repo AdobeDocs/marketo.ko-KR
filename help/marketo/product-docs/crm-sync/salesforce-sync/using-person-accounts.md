@@ -3,7 +3,8 @@ unique-page-id: 4719316
 description: 개인 계정 사용 - Marketo 문서 - 제품 설명서
 title: 개인 계정 사용
 exl-id: 3cc67ff2-f689-4dfb-8b67-2b5b8d389aaf
-source-git-commit: 7376804bda915d7ff25cdc50cb78a6686bd36882
+feature: Salesforce Integration
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '291'
 ht-degree: 0%
@@ -12,7 +13,7 @@ ht-degree: 0%
 
 # 개인 계정 사용 {#using-person-accounts}
 
-조직의 요구 사항에 맞게 Salesforce에서 개인 계정을 설정할 수 있습니다. Marketo이 개인 계정을 처리하는 방법은 다음과 같습니다.
+조직의 필요에 맞게 Salesforce에서 개인 계정을 설정할 수 있습니다. Marketo에서 개인 계정을 처리하는 방법은 다음과 같습니다.
 
 >[!NOTE]
 >
@@ -20,32 +21,32 @@ ht-degree: 0%
 
 ## 개인 계정이란 무엇입니까? {#what-is-a-person-account}
 
-개인 계정은 Salesforce의 계정 개체와 매우 유사합니다. 그러나 개인 계정은 계정 필드와 연락처 필드 모두에 액세스할 수 있습니다.
+개인 계정은 Salesforce의 계정 개체와 매우 유사합니다. 단, 개인 계정은 계정 필드와 연락처 필드 모두에 액세스할 수 있습니다.
 
 ## 개인 계정이 Marketo에 동기화되면 어떻게 됩니까? {#what-happens-when-a-person-account-is-synced-to-marketo}
 
-개인 계정은 회사 및 개인으로서 Marketo에 동기화됩니다.
+개인 계정은 회사 및 개인으로 Marketo에 동기화됩니다.
 
 >[!NOTE]
 >
->개인 계정에 대한 사용자 지정 필드는 Marketo의 회사와 개인 모두에 복사됩니다.
+>개인 계정에 대한 사용자 정의 필드는 Marketo의 회사와 사용자 모두에게 복사됩니다.
 
 ## 비즈니스 계정과 개인 계정을 어떻게 구분합니까? {#how-do-i-differentiate-business-accounts-and-person-accounts}
 
-를 사용하십시오 **개인 계정임** 표준 비즈니스 계정과 개인 계정을 구분하도록 스마트 목록에 필터링합니다.
+사용 **개인 계정임** 스마트 목록을 필터링하여 개인 계정을 표준 비즈니스 계정과 구분합니다.
 
-## Marketo Sales Insight에 표시되는 개인 계정 정보는 어디에 있습니까? {#where-is-my-person-accounts-information-displayed-in-marketo-sales-insight}
+## Marketo Sales Insight에 표시되는 내 개인 계정 정보는 어디에 있습니까? {#where-is-my-person-accounts-information-displayed-in-marketo-sales-insight}
 
-개인 계정과 관련된 활동은 **계정** 패널.
+개인 계정과 관련된 활동은 다음에 표시됩니다. **계정** 패널.
 
 >[!NOTE]
 >
->Marketo 영업 인사이트 **Marketo Campaign에 추가** 및 **이메일 보내기** 현재 개인 계정에 대해 옵션을 사용할 수 없습니다.
+>Marketo Sales Insight **Marketo 캠페인에 추가** 및 **이메일 보내기** 현재 개인 계정에는 옵션을 사용할 수 없습니다.
 
-## 개인 계정에 기회를 연결하려면 어떻게 해야 합니까? {#how-do-i-associate-opportunities-to-a-person-account}
+## 기회를 개인 계정에 연결하려면 어떻게 해야 합니까? {#how-do-i-associate-opportunities-to-a-person-account}
 
-Marketo은 영업 기회를 연결할 사람을 결정하기 위해 영업 기회 담당자 역할에 따라 달라집니다. Marketo의 해당 사람에게 기회를 연결하려면 각 개인 계정에 대해 기회 담당자 역할을 추가해야 합니다. 영업 기회 연락처 역할을 자동으로 추가할 워크플로우를 설정하는 것이 좋습니다.
+Marketo은 영업 기회를 연결할 사람을 결정하는 영업 기회 연락처 역할에 따라 다릅니다. Marketo의 적절한 사용자에게 기회를 연결하려면 각 사용자 계정에 대해 영업 기회 연락처 역할을 추가해야 합니다. 영업 기회 연락처 역할을 자동으로 추가하는 워크플로우를 설정하는 것이 좋습니다.
 
-## 개인 계정에 사용할 이메일 필드는 무엇입니까? {#which-email-field-should-i-use-for-person-accounts}
+## 개인 계정에 대해 어떤 이메일 필드를 사용해야 합니까? {#which-email-field-should-i-use-for-person-accounts}
 
-개인 계정에 대한 두 개의 이메일 필드가 있습니다. 를 사용하십시오 **이메일 주소** 양식의 필드(아님) **개인 이메일 주소**) Marketo의 중복 제거 및 기타 이메일 처리가 제대로 작동하는지 확인합니다.
+개인 계정에는 두 개의 이메일 필드가 있습니다. 사용 **이메일 주소** 양식의 필드(양식이 아님) **개인 이메일 주소**)를 클릭하여 Marketo의 중복 제거 및 기타 이메일 처리가 제대로 작동하도록 할 수 있습니다.

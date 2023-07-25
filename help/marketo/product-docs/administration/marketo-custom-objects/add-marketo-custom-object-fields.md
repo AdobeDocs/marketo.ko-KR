@@ -3,7 +3,8 @@ unique-page-id: 10093688
 description: Marketo 사용자 지정 개체 필드 추가 - Marketo 문서 - 제품 설명서
 title: Marketo 사용자 지정 개체 필드 추가
 exl-id: 6d776d97-93e2-4708-9ce5-2172e02b71c3
-source-git-commit: 4a33b192cc22550c75769b383e261ac0a86e7ddb
+feature: Custom Objects
+source-git-commit: 02b2e39580c5eac63de4b4b7fdaf2a835fdd4ba5
 workflow-type: tm+mt
 source-wordcount: '293'
 ht-degree: 0%
@@ -68,4 +69,3 @@ ht-degree: 0%
 >* [Marketo 사용자 지정 개체 편집 및 삭제](/help/marketo/product-docs/administration/marketo-custom-objects/edit-and-delete-a-marketo-custom-object.md)
 >* [Marketo 사용자 지정 개체 필드 편집 및 삭제](/help/marketo/product-docs/administration/marketo-custom-objects/edit-and-delete-marketo-custom-object-fields.md)
 >* [Marketo 사용자 지정 개체 이해](/help/marketo/product-docs/administration/marketo-custom-objects/understanding-marketo-custom-objects.md)
-

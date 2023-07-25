@@ -2,7 +2,8 @@
 description: Adobe IMS 활성화 구독 - Marketo 문서 - 제품 설명서에 대한 API 전용 사용자 추가
 title: Adobe IMS 활성화 구독에 대한 API 전용 사용자 추가
 exl-id: bf908a50-de2f-4ea0-8d6a-5d7ed6d39ebf
-source-git-commit: b71729a678ff4a676bb60803d845d0a44118f7e5
+feature: Marketo with Adobe Identity
+source-git-commit: 02b2e39580c5eac63de4b4b7fdaf2a835fdd4ba5
 workflow-type: tm+mt
 source-wordcount: '152'
 ht-degree: 0%

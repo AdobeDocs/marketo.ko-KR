@@ -1,34 +1,35 @@
 ---
 unique-page-id: 7515616
-description: 안내 랜딩 페이지 템플릿 목록 - Marketo 문서 - 제품 설명서
-title: 안내 랜딩 페이지 템플릿 목록
+description: 안내식 랜딩 페이지 템플릿 목록 - Marketo 문서 - 제품 설명서
+title: 안내식 랜딩 페이지 템플릿 목록
 exl-id: 93893c9c-dda2-4d18-b74c-e47388ed552c
-source-git-commit: c46902686f1d5af63a51f5eaae2dc0e6afe99629
+feature: Landing Pages, Guided Landing Page Templates
+source-git-commit: d20a9bb584f69282eefae3704ce4be2179b29d0b
 workflow-type: tm+mt
 source-wordcount: '347'
 ht-degree: 0%
 
 ---
 
-# 안내 랜딩 페이지 템플릿 목록 {#guided-landing-page-template-list}
+# 안내식 랜딩 페이지 템플릿 목록 {#guided-landing-page-template-list}
 
-에서 사용할 예제 템플릿 컬렉션을 찾아봅니다. [안내 랜딩 페이지 편집기](/help/marketo/product-docs/demand-generation/landing-pages/guided-landing-pages/create-a-guided-landing-page.md). 각 템플릿은 완전히 응답형이며 Bootstrap 프레임워크을 기반으로 합니다.
+에 사용할 예제 템플릿 컬렉션 찾아보기 [안내식 랜딩 페이지 편집기](/help/marketo/product-docs/demand-generation/landing-pages/guided-landing-pages/create-a-guided-landing-page.md). 각 템플릿은 전적으로 응답하며 Bootstrap 프레임워크를 기반으로 합니다.
 
 >[!NOTE]
 >
->Marketo 지원 기능이 HTML 문제 해결을 지원하기 위해 설정되어 있지 않습니다. 이러한 템플릿 수정에 도움이 필요한 경우 웹 개발자에게 문의하십시오.
+>Marketo 지원 은 HTML 문제 해결을 지원하기 위해 설정되어 있지 않습니다. 이러한 템플릿을 수정하는 데 도움이 필요한 경우 웹 개발자에게 문의하십시오.
 
 템플릿을 Marketo으로 가져오려면 다음을 수행하십시오.
 
 1. 더 큰 보기를 보려면 템플릿 이름을 클릭합니다.
 1. 선택한 템플릿을 다운로드합니다.
 1. Marketo에서 **디자인 스튜디오.**
-1. 클릭 **랜딩 페이지** 왼쪽 트리에서 **템플릿.**
+1. 클릭 **랜딩 페이지** 왼쪽 트리에서 를 선택한 다음 **템플릿.**
 
-1. 메뉴 모음에서 **템플릿 가져오기.**
-1. 다운로드한 파일을 선택하고 템플릿 이름을 입력한 다음 **가져오기** (수사적 이름을 선택하고 편집 모드가 **안내**).
+1. 메뉴 모음에서 를 클릭합니다. **템플릿을 가져옵니다.**
+1. 다운로드한 파일을 선택하고 템플릿 이름을 입력한 다음 를 클릭합니다 **가져오기** (설명하는 이름을 선택하고 편집 모드가 **안내식**).
 
-|  |  |  |
+|   |  |  |
 |---|---|---|
 | [템플릿 1A](guided-landing-page-templates/template-1a.md) | [템플릿 1B](guided-landing-page-templates/template-1b.md) | [템플릿 1C](guided-landing-page-templates/template-1c.md) |
 | ![](assets/1a.jpg) | ![](assets/1b.jpg) | ![](assets/1c.jpg) |

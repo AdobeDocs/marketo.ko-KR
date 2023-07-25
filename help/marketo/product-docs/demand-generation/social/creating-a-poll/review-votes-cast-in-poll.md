@@ -1,20 +1,21 @@
 ---
 unique-page-id: 2359777
-description: 설문 조사 투표 검토 - Marketo 문서 - 제품 설명서
-title: 투표에서 투표한 투표 검토
+description: 설문 조사에서 투표된 투표 검토 - Marketo 문서 - 제품 설명서
+title: 투표의 투표 검토
 exl-id: 1877c5d2-0842-468c-826b-8027270ab292
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+feature: Social
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '71'
 ht-degree: 2%
 
 ---
 
-# 투표에서 투표한 투표 검토 {#review-votes-cast-in-poll}
+# 투표의 투표 검토 {#review-votes-cast-in-poll}
 
-당신의 여론조사에서 누가 찬성표를 던졌습니까? 알아봅시다.
+누가 당신의 투표에 무엇을 투표했습니까? 알아보자.
 
-1. in **마케팅 활동**&#x200B;에서 투표를 선택하고 을(를) 클릭합니다. **참가자** 탭.
+1. 위치 **마케팅 활동**&#x200B;을(를) 클릭하고 투표를 클릭합니다. **참가자** 탭.
 
    ![](assets/image2015-5-12-14-3a35-3a10.png)
 
@@ -22,10 +23,10 @@ ht-degree: 2%
 
    ![](assets/image2015-5-12-14-3a36-3a36.png)
 
-1. 그들이 투표한 것은 전시될 것이다. Click **Close**.
+1. 투표한 내용이 표시됩니다. Click **Close**.
 
    ![](assets/image2015-5-12-14-3a37-3a24.png)
 
    >[!MORELIKETHIS]
    >
-   >에서 앱의 소셜 도달 범위와 영향에 대해 자세히 알아보십시오 [소셜 성과 보기](/help/marketo/product-docs/demand-generation/social/social-functions/view-social-performance.md).
+   >에서 앱의 사회적 범위 및 영향에 대해 자세히 알아보십시오. [소셜 성과 보기](/help/marketo/product-docs/demand-generation/social/social-functions/view-social-performance.md).

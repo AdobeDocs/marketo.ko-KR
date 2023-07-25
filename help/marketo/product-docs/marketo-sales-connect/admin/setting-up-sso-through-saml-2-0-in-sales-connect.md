@@ -1,22 +1,23 @@
 ---
 unique-page-id: 14352405
-description: Sales Connect에서 SAML 2.0을 통해 SSO 설정 - Marketo 문서 - 제품 설명서
-title: 판매 연결에서 SAML 2.0을 통해 SSO 설정
+description: Sales Connect - Marketo 문서 - 제품 설명서에서 SAML 2.0을 통해 SSO 설정
+title: Sales Connect에서 SAML 2.0을 통해 SSO 설정
 exl-id: aab80626-d6d1-4194-9733-09c90c0b49a6
-source-git-commit: 88c4e844f7ce26b12bae8177dd5311813fb4adcb
+feature: Marketo Sales Connect
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '259'
 ht-degree: 0%
 
 ---
 
-# 판매 연결에서 SAML 2.0을 통해 SSO 설정 {#setting-up-sso-through-saml-in-sales-connect}
+# Sales Connect에서 SAML 2.0을 통해 SSO 설정 {#setting-up-sso-through-saml-in-sales-connect}
 
-Adobe는 SAML 2.0 사양을 통해 SSO를 지원합니다. 그러나 현재는 어떤 공급자와의 직접 통합이 없습니다. 이 설정을 가져오려면 SSO 공급자로부터 정보를 수집해야 합니다.
+SAML 2.0 사양을 통해 SSO를 지원합니다. 그러나 현재 어떤 공급자와도 직접 통합이 되어 있지 않습니다. 이 설정을 사용하려면 SSO 공급자로부터 일부 정보를 수집해야 합니다.
 
 >[!NOTE]
 >
->다음에만 적용할 수 있습니다 **Marketo Sales Connect** 사용자 참조. Sales Connect가 없지만 자세한 내용을 알아보려면 Adobe 계정 팀(계정 관리자)에 문의하십시오.
+>이는 에만 해당됩니다. **Marketo Sales Connect** 사용자. Sales Connect가 없지만 자세히 알아보려면 Adobe 계정 팀(계정 관리자)에 문의하십시오.
 
 ## 요구 사항 {#requirements}
 
@@ -26,10 +27,10 @@ Adobe는 SAML 2.0 사양을 통해 SSO를 지원합니다. 그러나 현재는 �
 
 ## 설정 {#setup}
 
-팀의 SSO 인스턴스에서 가져온 metadata.xml에는 발급자 URL, 유효성 검사의 종단점 및 공개 키가 포함되어야 합니다.
+팀의 SSO 인스턴스에서 가져온 metadata.xml에는 발급자 URL, 유효성 검사를 위한 끝점 및 공개 키가 포함되어야 합니다.
 
-또한 회사의 SSO 계정이 고유한 도메인이 되려면 SSO 위치가 필요합니다. 예를 들어 다음과 같은 고유한 하위 도메인이 필요합니다 `toutapp.pingidentity.com` 또는 과 비슷합니다. 이 유형의 고유 식별자가 없으면 대시보드에서 SAML을 설정할 수 없습니다.
+또한 고유한 도메인이 되려면 귀사의 SSO 계정에 대한 SSO 위치가 필요합니다. 예를 들어 다음과 같은 고유한 하위 도메인이 필요합니다. `toutapp.pingidentity.com` 또는 유사합니다. 이 유형의 고유 식별자가 없으면 대시보드에서 SAML을 설정할 수 없습니다.
 
-URL을 할당할 때 하나의 로그인 및 Okta가 항상 고유 식별자를 제공하지는 않습니다. Okta 또는 One Login을 사용하는 경우 대시보드 단추에서 한 개의 로그인을 설정할 수 없음을 의미합니다. Adobe에서는 여전히 [웹 애플리케이션](https://toutapp.com/login).
+URL을 할당할 때 하나의 로그인 및 Okta가 항상 고유 식별자를 제공하는 것은 아닙니다. Okta 또는 One Login을 사용하는 경우 대시보드 버튼에서 하나의 로그인을 설정할 수 없음을 의미합니다. 의 SSO(Single Sign On) 버튼에서 계속 설정할 수 있습니다. [웹 애플리케이션](https://toutapp.com/login).
 
-그 정보가 있으면 저희 엔지니어링 팀과 협력하여 구독에 맞게 설정할 것입니다.
+해당 정보가 준비되면 엔지니어링 팀과 협력하여 귀하의 구독을 위해 이를 설정합니다.

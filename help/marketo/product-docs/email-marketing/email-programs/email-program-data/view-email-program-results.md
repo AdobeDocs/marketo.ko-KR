@@ -3,7 +3,8 @@ unique-page-id: 2951167
 description: 이메일 프로그램 결과 보기 - Marketo 문서 - 제품 설명서
 title: 이메일 프로그램 결과 보기
 exl-id: 31bb94f5-bb4a-4f9e-96c8-dd744b57f795
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+feature: Email Programs
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '76'
 ht-degree: 0%
@@ -12,9 +13,9 @@ ht-degree: 0%
 
 # 이메일 프로그램 결과 보기 {#view-email-program-results}
 
-스마트 캠페인의 결과 탭과 마찬가지로 이메일 프로그램에서 동일한 정보를 볼 수 있습니다.
+스마트 캠페인의 결과 탭과 마찬가지로 이메일 프로그램에서도 동일한 정보를 볼 수 있습니다.
 
-1. 이동 **마케팅 활동**.
+1. 다음으로 이동 **마케팅 활동**.
 
    ![](assets/login-marketing-activities-2.png)
 
@@ -30,10 +31,10 @@ ht-degree: 0%
 
    ![](assets/controlpanelview.jpg)
 
-1. 아래에 **Audience** 타일, **결과 보기**.
+1. 아래 **대상자** 타일, 클릭 **결과 보기**.
 
    ![](assets/audiencetile.jpg)
 
-   여기 있어요!
+   여기 있습니다!
 
    ![](assets/image2014-9-22-11-3a15-3a49.png)

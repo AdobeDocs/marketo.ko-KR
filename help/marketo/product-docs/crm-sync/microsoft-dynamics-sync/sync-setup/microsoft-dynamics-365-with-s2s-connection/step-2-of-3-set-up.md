@@ -3,7 +3,8 @@ unique-page-id: 3571827
 description: 2단계/3단계 - 서버 간 연결을 통해 Marketo 솔루션 설정 - Marketo 문서 - 제품 설명서
 title: 2/3단계 - 서버 간 연결을 통해 Marketo 솔루션 설정
 exl-id: 324e2142-2aa2-4548-9a04-683832e3ba69
-source-git-commit: b4773137bf21eccc58a6d975d50748e8ff2a57db
+feature: Microsoft Dynamics
+source-git-commit: 02b2e39580c5eac63de4b4b7fdaf2a835fdd4ba5
 workflow-type: tm+mt
 source-wordcount: '598'
 ht-degree: 0%
@@ -53,7 +54,6 @@ ht-degree: 0%
    >* 애플리케이션 사용자에게 권한을 부여하는 동안 &quot;Marketo 동기화 사용자 역할&quot;에 할당해야 합니다.
    >* 에서 애플리케이션 사용자의 이메일 주소를 기록합니다. [세부 정보 보기 옵션](https://docs.microsoft.com/en-us/power-platform/admin/manage-application-users#view-or-edit-the-details-of-an-application-user){target="_blank"} 전원 플랫폼에서. 이 이메일 주소는 Marketo 내에서 MS Dynamics에 대한 연결을 설정할 때 사용자 이름으로 사용됩니다.
    >* 동기화 사용자가 CRM을 업데이트하면 **아님** Marketo에 다시 동기화됩니다.
-
 
 ## Azure AD Federated with AD FS On-prem {#azure-ad-federated-with-ad-fs-on-prem}
 
@@ -111,4 +111,3 @@ Federated Azure AD에서 ADFS Onprem으로 전환하려면 특정 응용 프로�
 >
 >* [3단계/3: Marketo 솔루션을 서버 간 연결에 연결](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/microsoft-dynamics-365-with-s2s-connection/step-3-of-3-connect.md){target="_blank"}
 >* [Dynamics 인증 방법 다시 구성](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/reconfigure-dynamics-authentication-method.md){target="_blank"}
-

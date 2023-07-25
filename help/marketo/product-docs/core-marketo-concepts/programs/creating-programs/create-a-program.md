@@ -3,7 +3,8 @@ unique-page-id: 1147095
 description: 프로그램 만들기 - Marketo 문서 - 제품 설명서
 title: 프로그램 만들기
 exl-id: 9767dacb-2b24-4700-ab23-c48998cb0063
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+feature: Programs
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '68'
 ht-degree: 0%
@@ -12,17 +13,17 @@ ht-degree: 0%
 
 # 프로그램 만들기 {#create-a-program}
 
-프로그램은 Marketo에서 가장 중요한 요소 중 하나입니다. 많이 사용하게 될 거야!
+프로그램은 Marketo에서 가장 중요한 요소 중 하나입니다. 많이 쓰실 거예요!
 
-1. 이동 **마케팅 활동.**
+1. 다음으로 이동 **마케팅 활동.**
 
    ![](assets/login-marketing-activities.png)
 
-1. 새 프로그램의 폴더를 선택합니다. 선택 **새로 만들기** 을(를) 클릭합니다. **새 프로그램**.
+1. 새 프로그램의 폴더를 선택합니다. 선택 **신규** 및 클릭 **새 프로그램**.
 
    ![](assets/leadlifecycle.jpg)
 
-1. 을(를) 입력합니다. **이름**, 을 선택합니다. **[채널](https://docs.marketo.com/display/DOCS/Create+a+Program+Channel)** 드롭다운에서 을(를) 클릭하고 **만들기**.
+1. 입력 **이름**, 선택 **[채널](https://docs.marketo.com/display/DOCS/Create+a+Program+Channel)** 을 클릭하고 **만들기**.
 
    ![](assets/image2015-2-5-16-3a33-3a23.png)
 

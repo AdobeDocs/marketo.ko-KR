@@ -1,20 +1,21 @@
 ---
 unique-page-id: 1147251
-description: 프로그램 예약 보기에서 사용자 지정 오버레이 만들기 - Marketo 문서 - 제품 설명서
-title: 프로그램 예약 보기에서 사용자 지정 오버레이 만들기
+description: 프로그램 일정 보기 - Marketo 문서 - 제품 설명서에서 사용자 지정 오버레이 만들기
+title: 프로그램 일정 보기에서 사용자 정의 오버레이 생성
 exl-id: 066e7b4d-ff2c-4968-be1e-6d95d680a59a
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+feature: Programs
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '73'
 ht-degree: 0%
 
 ---
 
-# 프로그램 예약 보기에서 사용자 지정 오버레이 만들기 {#creating-custom-overlays-in-program-schedule-view}
+# 프로그램 일정 보기에서 사용자 정의 오버레이 생성 {#creating-custom-overlays-in-program-schedule-view}
 
-사용자 지정 오버레이를 만들어 필요에 맞는 항목을 볼 수 있습니다.
+사용자 정의 오버레이를 만들어 요구 사항과 관련된 항목을 볼 수 있습니다.
 
-1. 을(를) 클릭합니다. **의제** 드롭다운.
+1. 다음을 클릭합니다. **주제** 드롭다운.
 
    ![](assets/image2014-9-24-10-3a20-3a11.png)
 
@@ -26,10 +27,10 @@ ht-degree: 0%
 
    ![](assets/image2014-9-24-10-3a20-3a26.png)
 
-1. 다음을 기준으로 필터링할 수도 있습니다 [프로그램 태그](/help/marketo/product-docs/core-marketo-concepts/programs/working-with-programs/understanding-tags/use-tags-in-a-program.md).
+1. 다음을 기준으로 필터링할 수도 있습니다. [프로그램 태그](/help/marketo/product-docs/core-marketo-concepts/programs/working-with-programs/understanding-tags/use-tags-in-a-program.md).
 
    ![](assets/image2014-9-24-10-3a20-3a32.png)
 
-   끝내줘 이제 오버레이에는 정의한 항목만 표시됩니다.
+   끝내주네 이제 오버레이에 정의한 항목만 표시됩니다.
 
    ![](assets/image2014-9-24-10-3a20-3a37.png)

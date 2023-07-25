@@ -2,7 +2,8 @@
 description: 판매 캠페인 만들기 - Marketo 문서 - 제품 설명서
 title: 판매 캠페인 만들기
 exl-id: 12969d09-529d-4cba-a419-7a3be52d3e96
-source-git-commit: ac5d9c431a524164ce6f0cc076e9801ee52fd899
+feature: Sales Insight Actions
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '312'
 ht-degree: 0%
@@ -67,4 +68,3 @@ Sales Campaign 을 통해 다음과 같은 작업을 수행할 수 있습니다.
 >
 >* [판매 캠페인 단계 유형 및 미리 알림 작업](/help/marketo/product-docs/marketo-sales-insight/actions/campaigns/sales-campaign-step-types-and-reminder-tasks.md){target="_blank"}
 >* [판매 캠페인 설정](/help/marketo/product-docs/marketo-sales-insight/actions/campaigns/sales-campaign-settings.md){target="_blank"}
-

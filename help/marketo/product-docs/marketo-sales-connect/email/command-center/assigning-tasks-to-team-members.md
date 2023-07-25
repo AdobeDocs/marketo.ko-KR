@@ -1,24 +1,25 @@
 ---
 unique-page-id: 45417460
-description: 팀 구성원에게 작업 할당 - Marketo 문서 - 제품 설명서
-title: 팀 구성원에게 작업 할당
+description: 팀원에게 작업 할당 - Marketo 문서 - 제품 설명서
+title: 팀원에게 작업 할당
 exl-id: 9f7126eb-076e-47b8-ade0-979e46675d5c
-source-git-commit: 01a131e58a3f4ea80d30363d152608820530163e
+feature: Marketo Sales Connect
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '117'
 ht-degree: 0%
 
 ---
 
-# 팀 구성원에게 작업 할당 {#assigning-tasks-to-team-members}
+# 팀원에게 작업 할당 {#assigning-tasks-to-team-members}
 
-다른 팀 구성원과 공동 작업을 수행하려는 경우 작업을 할당하면 전망 작업을 조정할 수 있습니다.
+다른 팀 구성원과 공동 작업을 하고자 하는 경우 작업 할당은 향후 작업을 조율하는 좋은 방법이 될 수 있습니다.
 
 >[!NOTE]
 >
->공유 연락처에 대한 작업만 할당할 수 있습니다.
+>공유 연락처에 대해서만 작업을 할당할 수 있습니다.
 
-1. 을(를) 클릭합니다. **명령 센터**.
+1. 을(를) 클릭합니다 **관리 센터**.
 
    ![](assets/one-1.png)
 
@@ -34,15 +35,15 @@ ht-degree: 0%
 
    ![](assets/four-1.png)
 
-1. 작업 지정 필드에서 작업을 지정할 팀의 사람을 선택합니다.
+1. 작업 할당 필드에서 작업을 할당할 사람을 팀에서 선택합니다.
 
    ![](assets/five.png)
 
-1. 사람 필드에 연락할 사람을 추가합니다.
+1. 사용자 필드에 연락할 사용자를 추가합니다.
 
    ![](assets/six.png)
 
-1. 만기 일자를 선택합니다.
+1. 기한을 선택합니다.
 
    ![](assets/seven.png)
 
@@ -50,6 +51,6 @@ ht-degree: 0%
 
    ![](assets/eight.png)
 
-1. 팀원과 관련된 중요한 세부 사항을 추가하고(선택 사항) **만들기**.
+1. 팀원과 관련된 중요한 세부 정보를 추가하고(선택 사항) 을 클릭합니다. **만들기**.
 
    ![](assets/nine.png)

@@ -2,7 +2,8 @@
 description: 릴리스 노트 - 2023년 3월 - Marketo 문서 - 제품 설명서
 title: 릴리스 노트 - 2023년 3월
 exl-id: 3074beee-e223-4794-8714-7d78e9d2d4eb
-source-git-commit: 5fc6de5b333e3008ebd542171b6bce8b29701d07
+feature: Release Information
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '582'
 ht-degree: 5%
@@ -107,7 +108,7 @@ ht-degree: 5%
   </tbody>
 </table>
 
-* **Dynamic Chat 역할 및 권한**: Dynamic Chat에 역할 및 권한을 도입하여 관리자가 앱의 다양한 영역에 대한 가시성 및 사용을 선택한 사용자 유형으로 제한할 수 있습니다.
+* **Dynamic Chat에 대한 역할 및 권한**: Dynamic Chat에 역할 및 권한을 도입하여 관리자가 앱의 다양한 영역에 대한 가시성 및 사용을 선택한 사용자 유형으로 제한할 수 있습니다.
 
 <table> 
   <tr> 
@@ -121,7 +122,7 @@ ht-degree: 5%
   </tbody>
 </table>
 
-* **Dynamic Chat 을 위한 프로그램 채널로서 채팅**: Dynamic Chat으로 습득한 사람의 프로그램 진행률을 추적하는 새 &quot;채팅&quot; 프로그램 채널을 만듭니다. 예를 들어 마케터에는 새 잠재 고객을 캡처하기 위한 Dynamic Chat Dialog 와 연결된 프로그램이 있습니다. 이제 해당 프로그램에 채팅 채널을 할당하여 잠재 고객이 프로그램의 멤버인 시기와 성공 시기를 추적할 수 있습니다.
+* **Dynamic Chat을 위한 프로그램 채널로 채팅**: Dynamic Chat으로 습득한 사람에 대한 프로그램 진행을 추적할 새로운 &quot;채팅&quot; 프로그램 채널을 만듭니다. 예를 들어 마케터에는 새 잠재 고객을 캡처하기 위한 Dynamic Chat Dialog 와 연결된 프로그램이 있습니다. 이제 해당 프로그램에 채팅 채널을 할당하여 잠재 고객이 프로그램의 멤버인 시기와 성공 시기를 추적할 수 있습니다.
 
 <table> 
   <tr> 
@@ -135,7 +136,7 @@ ht-degree: 5%
   </tbody>
 </table>
 
-* **Dynamic Chat에 대한 속성 유추**: 유추된 IP 데이터 (도시, 주, 국가 등) Dynamic Chat에서 인수한 새 사용자에 대한 개인 레코드에 작성됩니다.
+* **Dynamic Chat 속성 유추**: 유추된 IP 데이터 (도시, 주, 국가 등) Dynamic Chat에서 인수한 새 사용자에 대한 개인 레코드에 작성됩니다.
 
 <table> 
   <tr> 

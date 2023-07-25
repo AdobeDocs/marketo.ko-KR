@@ -2,7 +2,8 @@
 description: 이벤트 워크플로 - Marketo 문서 - 제품 설명서
 title: 이벤트 워크플로
 exl-id: c9f44d9f-9210-4303-a9b5-22be1376efc4
-source-git-commit: c7479355c7f5fda97ce6ad0f18a5c3c6a597e535
+feature: Interactive Webinars
+source-git-commit: 02b2e39580c5eac63de4b4b7fdaf2a835fdd4ba5
 workflow-type: tm+mt
 source-wordcount: '257'
 ht-degree: 0%

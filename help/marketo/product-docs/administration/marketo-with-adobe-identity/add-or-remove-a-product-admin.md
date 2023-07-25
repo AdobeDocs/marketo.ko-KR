@@ -2,7 +2,8 @@
 description: 제품 관리자 - Marketo 문서 - 제품 설명서 추가 또는 제거
 title: 제품 관리자 추가 또는 제거
 exl-id: 9c48b830-cce6-48bd-88c4-4d02e3ada2b1
-source-git-commit: b71729a678ff4a676bb60803d845d0a44118f7e5
+feature: Marketo with Adobe Identity
+source-git-commit: 02b2e39580c5eac63de4b4b7fdaf2a835fdd4ba5
 workflow-type: tm+mt
 source-wordcount: '293'
 ht-degree: 0%

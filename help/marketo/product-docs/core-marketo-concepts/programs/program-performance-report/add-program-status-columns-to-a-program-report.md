@@ -3,7 +3,8 @@ unique-page-id: 1147239
 description: 프로그램 보고서에 프로그램 상태 열 추가 - Marketo 문서 - 제품 설명서
 title: 프로그램 보고서에 프로그램 상태 열 추가
 exl-id: ab8e5be7-7ea6-4b69-b701-0c81ea556107
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+feature: Programs
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '134'
 ht-degree: 0%
@@ -12,7 +13,7 @@ ht-degree: 0%
 
 # 프로그램 보고서에 프로그램 상태 열 추가 {#add-program-status-columns-to-a-program-report}
 
-프로그램 상태에 대한 통계를 [프로그램 성과 보고서](/help/marketo/product-docs/core-marketo-concepts/programs/program-performance-report/create-a-program-performance-report.md).
+프로그램 상태에 대한 통계를 추가합니다. [프로그램 성과 보고서](/help/marketo/product-docs/core-marketo-concepts/programs/program-performance-report/create-a-program-performance-report.md).
 
 1. 마케팅 활동(또는 Analytics)으로 이동합니다.
 
@@ -22,17 +23,17 @@ ht-degree: 0%
 
    ![](assets/emailperformance.jpg)
 
-1. 을(를) 클릭합니다. **설정** 탭을 선택하고 채널 태그 위로 드래그합니다.
+1. 다음을 클릭합니다. **설정** 을 탭하고 채널 태그 위로 드래그합니다.
 
    ![](assets/image2014-9-23-16-3a26-3a38.png)
 
-1. 필터링할 채널을 선택하십시오.
+1. 필터링 기준으로 사용할 채널을 선택하십시오.
 
    ![](assets/image2014-9-23-16-3a26-3a48.png)
 
    >[!TIP]
    >
-   >프로그램 상태 열을 표시하려면 보고서를 _1개_ 채널.
+   >프로그램 상태 열을 표시하려면 보고서를 다음 기준으로 필터링해야 합니다. _단 하나_ 채널.
 
 1. 프로그램 상태 열 표시 옵션을 선택합니다. 클릭 **적용**.
 
@@ -44,7 +45,7 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->프로그램의 각 상태에 대한 열이 표시되지 않으면 [표시할 열을 선택했습니다.](/help/marketo/product-docs/reporting/basic-reporting/editing-reports/select-report-columns.md) 참조하십시오.
+>프로그램의 각 상태에 대한 열이 표시되지 않으면 다음을 확인하십시오. [표시할 열을 선택했습니다.](/help/marketo/product-docs/reporting/basic-reporting/editing-reports/select-report-columns.md) 을 참조하십시오.
 
 >[!MORELIKETHIS]
 >

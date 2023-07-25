@@ -2,7 +2,8 @@
 description: Sales Insight Actions 사용 온보딩 안내서 - Marketo 문서 - 제품 설명서
 title: Sales Insight Actions 사용 온보딩 안내서
 exl-id: ace517b6-3a06-4e2e-b545-8c95ad0cf457
-source-git-commit: f238214988ae396d7c6e6ad0bd46fff232d442d6
+feature: Sales Insight Actions
+source-git-commit: 02b2e39580c5eac63de4b4b7fdaf2a835fdd4ba5
 workflow-type: tm+mt
 source-wordcount: '327'
 ht-degree: 0%
@@ -19,7 +20,6 @@ ht-degree: 0%
 >
 >* 관리자가 MSI-Actions 사용을 시작하려면 사용자를 초대해야 합니다.
 >* Salesforce로 계정을 활성화하려면 Salesforce 프로필 권한에 &quot;API 활성화&quot;가 있어야 합니다.
-
 
 신규 사용자는 아래 단계를 따라야 합니다.
 

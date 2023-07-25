@@ -1,9 +1,10 @@
 ---
 unique-page-id: 10099408
-description: 이메일 통찰력 개요 - Marketo 문서 - 제품 설명서
+description: 이메일 인사이트 개요 - Marketo 문서 - 제품 설명서
 title: 이메일 통찰력 개요
 exl-id: ce261c9b-3a52-4aec-a299-0eb60026483d
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+feature: Reporting
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '212'
 ht-degree: 1%
@@ -12,7 +13,7 @@ ht-degree: 1%
 
 # 이메일 통찰력 개요 {#email-insights-overview}
 
-이메일 인사이트는 이메일 마케터를 위한 내역 데이터를 통해 강력한 통찰력을 제공합니다. 이 섹션은 서로 다른 두 섹션으로 구성됩니다. Analytics 및 Sends.
+이메일 인사이트는 이메일 마케터를 위해 내역 데이터를 통해 강력한 인사이트를 제공합니다. 이 섹션은 서로 다르지만 연결된 두 개의 섹션(Analytics 및 Sends)으로 구성됩니다.
 
 이메일 인사이트에 액세스하려면 내 Marketo(또는 Analytics 홈 화면)에서 해당 타일을 클릭하면 됩니다.
 
@@ -20,11 +21,11 @@ ht-degree: 1%
 
 >[!NOTE]
 >
->기본적으로 액세스 권한이 있는 모든 작업 공간에 대한 데이터가 표시됩니다. 표시하지 않을 작업 공간을 선택 취소할 수 있습니다. 선택한 항목이 앞으로 기억됩니다.
+>기본적으로 액세스 권한이 있는 모든 작업 공간에 대한 데이터가 표시됩니다. 표시하지 않으려는 작업 공간은 선택 취소할 수 있습니다. 선택 항목은 앞으로 기억됩니다.
 
 ## 분석 {#analytics}
 
-사용 [Analytics](/help/marketo/product-docs/reporting/email-insights/email-insights-analytics-overview.md) 이메일 게재 및 참여 지표에 대한 집계 시계열 데이터를 탐색합니다.
+사용 [분석](/help/marketo/product-docs/reporting/email-insights/email-insights-analytics-overview.md) 이메일 게재 및 참여 지표에 대한 집계 시계열 데이터를 살펴봅니다.
 
 ![](assets/emailanalytics.jpg)
 
@@ -36,13 +37,13 @@ ht-degree: 1%
 
 **빠른 차트**
 
-[빠른 차트](/help/marketo/product-docs/reporting/email-insights/email-insights-quick-charts.md) 축소판을 만들고 저장하면 중요한 차트를 빠르게 볼 수 있습니다.
+[빠른 차트](/help/marketo/product-docs/reporting/email-insights/email-insights-quick-charts.md) 는 만들고 저장하는 축소판으로서, 중요한 차트를 빠르게 볼 수 있습니다.
 
 ![](assets/three.png)
 
-## 전송 {#sends}
+## 전송 횟수 {#sends}
 
-에서 [전송](/help/marketo/product-docs/reporting/email-insights/email-insights-sends-overview.md) 페이지를 열고 최근 이메일 통신의 특성을 검사합니다.
+다음에서 [전송 횟수](/help/marketo/product-docs/reporting/email-insights/email-insights-sends-overview.md) 페이지를 열고 최근 이메일 커뮤니케이션의 특성을 살펴봅니다.
 
 ![](assets/two.png)
 
@@ -54,14 +55,13 @@ ht-degree: 1%
 
 >[!NOTE]
 >
->데이터가 이메일 인사이트에 반영되는 데 최대 8시간이 걸릴 수 있습니다.
+>이메일 인사이트에 데이터를 반영하는 데 최대 8시간이 걸릴 수 있습니다.
 
 ## 사용자 지정 Dimension {#custom-dimensions}
 
-모든 표준 Marketo 차원이 포함되지만 최대 10개의 사용자 지정 차원을 추가할 수 있습니다. [사용자 지정 차원](/help/marketo/product-docs/reporting/email-insights/custom-dimensions-for-email-insights.md) 세그먼테이션 및 프로그램 태그로 구성됩니다.
+모든 표준 Marketo 차원이 포함되지만 최대 10개의 사용자 지정 차원을 추가할 수 있습니다. [사용자 지정 차원](/help/marketo/product-docs/reporting/email-insights/custom-dimensions-for-email-insights.md) 세그먼트 및 프로그램 태그로 구성됩니다.
 
 >[!MORELIKETHIS]
 >
 >* [이메일 통찰력 분석 개요](/help/marketo/product-docs/reporting/email-insights/email-insights-analytics-overview.md)
->* [Email Insights 전송 개요](/help/marketo/product-docs/reporting/email-insights/email-insights-sends-overview.md)
-
+>* [이메일 인사이트 전송 개요](/help/marketo/product-docs/reporting/email-insights/email-insights-sends-overview.md)

@@ -1,9 +1,10 @@
 ---
 unique-page-id: 11385183
-description: TAM 영업 보고서 - Marketo 문서 - 제품 설명서
+description: TAM 영업 보고서 - Marketo 설명서 - 제품 설명서
 title: TAM 영업 보고서
 exl-id: db4680df-74fd-41a4-9e9c-bf405da97bf0
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+feature: Target Account Management
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '126'
 ht-degree: 0%
@@ -12,7 +13,7 @@ ht-degree: 0%
 
 # TAM 영업 보고서 {#tam-sales-report}
 
-주요 계정과 주별 트렌드가 포함된 주간 이메일을 수신합니다.
+상위 계정 및 주간 트렌드가 포함된 주간 이메일을 수신합니다.
 
 >[!NOTE]
 >
@@ -20,10 +21,10 @@ ht-degree: 0%
 
 보고서 공유:
 
-* 선택한 계정 점수로 정렬된 명명 계정
-* 상위 참여 사람
-* 주요 트렌드와 흥미로운 순간
-* 추가 세부 사항이 포함된 CSV 파일을 다운로드하는 링크
+* 선택한 계정 점수별로 정렬된 명명된 계정
+* 상위 참여 사용자
+* 주요 트렌드 및 흥미로운 순간
+* 추가 세부 정보가 포함된 CSV 파일 다운로드 링크
 
 ![](assets/tam-sales-report-1.png)
 
@@ -32,31 +33,31 @@ ht-degree: 0%
 <table> 
  <tbody> 
   <tr> 
-   <td><strong>계정 점수</strong></td> 
+   <td><strong>계정 스코어</strong></td> 
    <td> 
     <div>
-      주별 계정 점수(설정에서 선택됨)별 트렌드 다음에 현재 계정 점수가 표시됩니다 
+      계정 점수별 주별 트렌드(설정에서 선택됨), 현재 계정 점수 뒤 
     </div></td> 
   </tr> 
   <tr> 
-   <td><strong>판매 파이프라인</strong></td> 
+   <td><strong>영업 파이프라인</strong></td> 
    <td> 
     <div>
-      파이프라인별 주별 트렌드, 현재 총 파이프라인 및 열린 기회 수 순으로 이동 
+      파이프라인별 주간 트렌드, 총 현재 파이프라인 및 오픈 기회 수 순 
     </div></td> 
   </tr> 
   <tr> 
    <td><strong>페이지 보기 수</strong></td> 
    <td> 
     <div>
-      주별 페이지 보기, 그 다음에 총 페이지 보기 수 및 고유 방문자 수가 옵니다 
+      주간 페이지 보기 트렌드, 총 페이지 보기 횟수 및 고유 방문자 수 
     </div></td> 
   </tr> 
   <tr> 
-   <td><strong>흥미로운 순간</strong></td> 
+   <td><strong>즐거운 순간</strong></td> 
    <td> 
     <div>
-      그 주 동안 발생한 총 관심 시간 
+      일주일 동안 발생한 총 관심 순간 수 
     </div></td> 
   </tr> 
  </tbody> 

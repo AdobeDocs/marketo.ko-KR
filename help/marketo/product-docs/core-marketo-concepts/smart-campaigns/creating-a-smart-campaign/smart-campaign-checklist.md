@@ -1,65 +1,66 @@
 ---
 unique-page-id: 1147051
-description: Smart Campaign 체크리스트 - Marketo 문서 - 제품 설명서
-title: Smart Campaign 체크리스트
+description: 스마트 캠페인 체크리스트 - Marketo 문서 - 제품 설명서
+title: 스마트 캠페인 체크리스트
 exl-id: 3c0d08c9-66ae-4083-ab0a-fa5a95149aba
-source-git-commit: 56d3d05d5462c79f32f507655266e3bfa0cc6846
+feature: Smart Campaigns
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '246'
 ht-degree: 0%
 
 ---
 
-# Smart Campaign 체크리스트 {#smart-campaign-checklist}
+# 스마트 캠페인 체크리스트 {#smart-campaign-checklist}
 
-스마트 캠페인을 원활하게 실행하고 오류를 최대한 방지하려면 아래 단계를 따르십시오.
+아래 단계에 따라 스마트 캠페인을 원활하게 실행하고 오류를 최대한 방지하십시오.
 
 ## 스마트 목록 오류 제거 {#get-rid-of-smart-list-errors}
 
-Smart Campaign에서 **Smart List**. 오류를 수정하여 표시되는 빨간색 광선 제거
+Smart Campaign에서 다음을 클릭합니다. **스마트 목록**. 오류를 수정하여 표시되는 빨간 오글거리는 선을 제거합니다.
 
 ![](assets/smart-campaign-checklist-1.png)
 
 >[!TIP]
 >
->빨간색 선은 오류 또는 누락된 정보를 나타냅니다. 수정하지 않으면 캠페인이 유효하지 않으며 실행되지 않습니다.
+>빨간색 구불구불한 선은 오류나 누락된 정보를 나타냅니다. 수정하지 않으면 캠페인이 유효하지 않고 실행되지 않습니다.
 >
->또한, **단순하게**. 수십 또는 수백 개의 필터가 있다면, 유지하고 추적하기가 어렵습니다. 필터 수가 적을수록 더 빠르게 로드됩니다.
+>또한, **단순하게 유지**. 수십, 수백 개의 필터를 가지고 있으면 유지해서 추적하기가 어렵다. 적은 수의 필터도 로드하는 것이 더 빠릅니다.
 
 >[!NOTE]
 >
->사용 **스마트 목록의 구성원** 다른 목록에 오류가 있을 수 있습니다. 거기서도 확인해 보세요
+>사용 **스마트 목록의 구성원** 다른 목록에 오류가 있을 수 있습니다. 거기도 확인해 보세요
 
 ## 흐름 오류 제거 {#get-rid-of-flow-errors}
 
-스마트 캠페인에서 **흐름**. 오류를 수정하여 표시되는 빨간색 광선 제거
+스마트 캠페인에서 **플로우**. 오류를 수정하여 볼 수 있는 빨간 오글거리는 선을 제거합니다.
 
 ![](assets/smart-campaign-checklist-2.png)
 
 >[!TIP]
 >
->빨간색 광선 위로 마우스를 가져가면 오류 세부 정보가 표시됩니다.
+>빨간색 물결 모양 선 위로 마우스를 가져가 오류의 세부 정보를 확인합니다.
 
-## 예약 탭을 검토합니다. {#review-the-schedule-tab}
+## 예약 탭 검토 {#review-the-schedule-tab}
 
-에서 **예약** 탭, 확인 **Smart** **목록** **상태** 을(를) 수정해야 하는 스마트 캠페인의 모든 오류에 대해 설명합니다.
+다음에서 **예약** 탭, 확인 **스마트** **목록** **상태** 스마트 캠페인에 수정해야 하는 오류가 있는 경우.
 
 ![](assets/smart-campaign-checklist-3.png)
 
-## 개인 제한 확인 {#check-person-restrictions-limit}
+## 개인 제한 사항 확인 {#check-person-restrictions-limit}
 
-에서 **예약** 자격이 있는 사람 수가 개인 제한 제한을 초과하지 않는지 확인합니다.
+다음에서 **예약** 탭에서 자격이 있는 사람의 수가 개인 제한 한도를 초과하지 않도록 합니다.
 
 ![](assets/smart-campaign-checklist-4.png)
 
 >[!TIP]
 >
->필요한 경우 다음을 수행할 수 있습니다 [스마트 캠페인에서 개인 제한 무시](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/using-smart-campaigns/override-person-restrictions-in-a-smart-campaign.md).
+>필요한 경우 다음을 수행할 수 있습니다 [smart Campaign에서 개인 제한 재정의](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/using-smart-campaigns/override-person-restrictions-in-a-smart-campaign.md).
 
 >[!NOTE]
 >
->**미리 알림**
+>**알림 메시지**
 >
->Smart Campaign이 계속 실패하는 경우 다음을 알아봅니다 [알림 이해](/help/marketo/product-docs/core-marketo-concepts/miscellaneous/understanding-notifications.md) 무엇이 잘못되었고 어떻게 그것을 고치는지 알아내기 위해.
+>Smart Campaign이 계속 실패할 경우 [알림 이해](/help/marketo/product-docs/core-marketo-concepts/miscellaneous/understanding-notifications.md) 무엇이 잘못되었는지 그리고 어떻게 그것을 고쳐야 하는지를 알기 위해서.
 
-잘했어요! Smart Campaign을 실행하기 전에 이 체크리스트를 바로 볼 수 있도록 합니다.
+잘했어! 스마트 캠페인을 실행하기 전에 이 체크리스트를 가까이 유지하십시오.

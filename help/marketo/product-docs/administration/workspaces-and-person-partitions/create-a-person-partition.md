@@ -3,7 +3,8 @@ unique-page-id: 2360315
 description: 개인 파티션 만들기 - Marketo 문서 - 제품 설명서
 title: 개인 파티션 만들기
 exl-id: 097fd314-c3e1-4123-af47-2f7e53a658e3
-source-git-commit: 2d28d4b473815952231356691b1e9310c61a20f1
+feature: Partitions
+source-git-commit: 02b2e39580c5eac63de4b4b7fdaf2a835fdd4ba5
 workflow-type: tm+mt
 source-wordcount: '76'
 ht-degree: 0%

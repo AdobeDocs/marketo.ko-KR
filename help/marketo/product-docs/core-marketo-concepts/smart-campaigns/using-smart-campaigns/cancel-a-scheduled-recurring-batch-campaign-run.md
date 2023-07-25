@@ -3,7 +3,8 @@ unique-page-id: 1147060
 description: 예약된 반복 배치 캠페인 실행 취소 - Marketo 문서 - 제품 설명서
 title: 예약된 반복 배치 캠페인 실행 취소
 exl-id: 7a659d4e-e546-4630-a36f-38ed80dd2a6e
-source-git-commit: f03eb310b66754cce65687133fae63375d2e54dc
+feature: Smart Campaigns
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '121'
 ht-degree: 0%
@@ -12,7 +13,7 @@ ht-degree: 0%
 
 # 예약된 반복 배치 캠페인 실행 취소 {#cancel-a-scheduled-recurring-batch-campaign-run}
 
-더 이상 원하지 않는 반복 배치 캠페인이 있는 경우 이후 실행을 취소할 수 있습니다. 방법은 다음과 같습니다.
+더 이상 원하지 않는 반복 배치 캠페인이 있는 경우 향후 실행을 취소할 수 있습니다. 방법은 다음과 같습니다.
 
 1. 스마트 캠페인을 선택하고 **예약** 탭.
 
@@ -24,18 +25,18 @@ ht-degree: 0%
 
    >[!TIP]
    >
-   >를 클릭하여 단일 실행을 취소할 수 있습니다 ![빨간색 x](assets/cancel-a-scheduled-recurring-batch-campaign-run-3.png) 바로 옆에 있습니다. 방법 알아보기 [예약된 배치 캠페인 실행 취소](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/using-smart-campaigns/cancel-a-scheduled-batch-campaign-run.md).
+   >다음을 클릭하여 단일 실행을 취소할 수 있습니다. ![빨간색 x](assets/cancel-a-scheduled-recurring-batch-campaign-run-3.png) 옆에. 방법 알아보기 [예약된 일괄 캠페인 실행 취소](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/using-smart-campaigns/cancel-a-scheduled-batch-campaign-run.md).
 
-1. 일정을 다음으로 설정 **없음** 을(를) 클릭합니다. **저장**.
+1. 일정 설정 **없음** 및 클릭 **저장**.
 
    ![](assets/cancel-a-scheduled-recurring-batch-campaign-run-4.png)
 
-   빌라! 스마트 캠페인은 더 이상 실행되지 않습니다.
+   짜잔! 스마트 캠페인이 더 이상 실행되지 않습니다.
 
    >[!CAUTION]
    >
-   >이 경우 향후 실행이 취소되지만, 스마트 캠페인이 실행 중인 경우 취소할 수 없습니다.
+   >이렇게 하면 향후 실행이 취소되지만, 스마트 캠페인이 실행 중인 경우 취소할 수 없습니다.
 
    >[!MORELIKETHIS]
    >
-   >[예약된 배치 캠페인 실행 취소](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/using-smart-campaigns/cancel-a-scheduled-batch-campaign-run.md)
+   >[예약된 일괄 캠페인 실행 취소](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/using-smart-campaigns/cancel-a-scheduled-batch-campaign-run.md)

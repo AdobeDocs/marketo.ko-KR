@@ -3,7 +3,8 @@ unique-page-id: 2360346
 description: 목록 가져오기의 필드 별칭 편집 - Marketo 문서 - 제품 설명서
 title: 목록 가져오기의 필드 별칭 편집
 exl-id: 0cc2f4c8-6858-4b41-bae3-4a8d267efe88
-source-git-commit: 20c41143d1e7839352dddbfea0951c2633987692
+feature: Field Management
+source-git-commit: 02b2e39580c5eac63de4b4b7fdaf2a835fdd4ba5
 workflow-type: tm+mt
 source-wordcount: '131'
 ht-degree: 0%
