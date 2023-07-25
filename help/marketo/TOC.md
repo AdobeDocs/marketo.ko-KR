@@ -3,7 +3,7 @@ audience: end-user
 user-guide-title: Marketo 안내서
 user-guide-description: Marketo 제품 설명서
 feature-set: Marketo Engage
-source-git-commit: 8b934d0c02824953a3b4c3f5c7bfd0bfc741cbe2
+source-git-commit: 02f3150cda31ec25fc47fc7f6ea50feaa9fed6b5
 workflow-type: tm+mt
 source-wordcount: '8996'
 ht-degree: 0%
@@ -485,10 +485,10 @@ ht-degree: 0%
          + [폴더 이해](product-docs/core-marketo-concepts/miscellaneous/understanding-folders.md)
          + [알림 이해](product-docs/core-marketo-concepts/miscellaneous/understanding-notifications.md)
          + [알림 유형](product-docs/core-marketo-concepts/miscellaneous/understanding-notifications/notification-types.md)
-      + 참여 캔버스 {#engagement-canvas}
-         + [참여 캔버스 개요](product-docs/core-marketo-concepts/engagement-canvas/engagement-canvas-overview.md)
-         + [참여 캔버스 탭](product-docs/core-marketo-concepts/engagement-canvas/engagement-canvas-tab.md)
-         + [설정 탭](product-docs/core-marketo-concepts/engagement-canvas/settings-tab.md)
+      + 참여 맵 {#engagement-map}
+         + [참여 맵 개요](product-docs/core-marketo-concepts/engagement-map/engagement-map-overview.md)
+         + [참여 맵 탭](product-docs/core-marketo-concepts/engagement-map/engagement-map-tab.md)
+         + [설정 탭](product-docs/core-marketo-concepts/engagement-map/settings-tab.md)
       + Predictive Audiences {#predictive-audiences}
          + [Predictive Audiences 시작](product-docs/core-marketo-concepts/predictive-audiences/getting-started-with-predictive-audiences.md)
          + [모델 및 인사이트](product-docs/core-marketo-concepts/predictive-audiences/models-and-insights.md)
@@ -1297,7 +1297,7 @@ ht-degree: 0%
             + [동적 필드가 채워지지 않습니다.](product-docs/marketo-sales-connect/templates/dynamic-fields/my-dynamic-fields-arent-filling-out.md)
             + [동적 필드에서 자기 자신을 참조합니다.](product-docs/marketo-sales-connect/templates/dynamic-fields/reference-yourself-in-a-dynamic-field.md)
    + Marketo Sales Insight {#marketo-sales-insight}
-      + 액션 {#actions}
+      + 작업 {#actions}
          + [Sales Insight Actions 기능 개요](product-docs/marketo-sales-insight/actions/sales-insight-actions-feature-overview.md)
          + 시작 {#getting-started}
             + [Sales Insight Actions 사용 온보딩 안내서](product-docs/marketo-sales-insight/actions/getting-started/sales-insight-actions-user-onboarding-guide.md)

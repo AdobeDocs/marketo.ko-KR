@@ -3,9 +3,9 @@ description: 현재 릴리스 정보 - Marketo 설명서 - 제품 설명서
 title: 최신 릴리스 정보
 exl-id: a2eccad5-73ad-48f9-8091-51cee23824e1
 feature: Release Information
-source-git-commit: 7e0d78810cce1c35918a15ad29c1f3863128c1dd
+source-git-commit: 02f3150cda31ec25fc47fc7f6ea50feaa9fed6b5
 workflow-type: tm+mt
-source-wordcount: '713'
+source-wordcount: '780'
 ht-degree: 2%
 
 ---
@@ -24,7 +24,7 @@ ht-degree: 2%
 
 </br>
 
-* **참여 캔버스**: 참여 캔버스 는 재사용 가능한 캠페인을 빌드하고 구성할 수 있는 시각적 도구입니다. 완전히 이전 버전과 호환되므로 버튼 클릭으로 기존의 모든 캠페인을 이 새 구조에서 볼 수 있습니다. 캔버스를 다운로드하여 공유할 수 있습니다.
+* **참여 맵**: 참여 맵은 재사용 가능한 캠페인을 작성하고 구성할 수 있는 시각적 도구입니다. 완전히 이전 버전과 호환되므로 버튼 클릭으로 기존의 모든 캠페인을 이 새 구조에서 볼 수 있습니다. 캔버스를 다운로드하여 공유할 수 있습니다.
 
 <table> 
   <tr> 
@@ -34,6 +34,20 @@ ht-degree: 2%
   <tr> 
    <td><i>곧 출시 예정</i></td>
    <td><i>곧 출시 예정</i></td>
+  </tr>
+  </tbody>
+</table>
+
+* **알림 - 웹 서비스 오류**: 이제 웹 서비스 오류 알림에 구독 이름이 포함되므로 여러 Marketo Engage 인스턴스를 더 쉽게 관리할 수 있습니다. 또한 오류 코드 및 카운트가 포함된 &quot;사용자&quot; 열을 표에 추가했으므로 Marketo REST API를 호출할 때 특정 오류를 생성할 책임이 있는 API 사용자를 쉽게 식별할 수 있습니다.
+
+<table> 
+  <tr> 
+   <td><b>상태</b></td>
+   <td><b>설명서 업데이트 정보</b></td>
+  </tr>
+  <tr> 
+   <td>배송됨</td>
+   <td>해당 사항 없음</td>
   </tr>
   </tbody>
 </table>
