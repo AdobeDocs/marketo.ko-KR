@@ -108,7 +108,7 @@ ht-degree: 0%
 
 ## 웹 캠페인 삭제 {#delete-a-web-campaign}
 
-1. 웹 캠페인 페이지에서 **삭제** Campaign에서 삭제하고자 합니다.
+1. 웹 캠페인 페이지에서 **삭제** Campaign에서 삭제하고자 하는 것입니다.
 
    ![](assets/in-zone-web-campaign-delete.png)
 

@@ -59,4 +59,4 @@ ht-degree: 0%
    >
    >**샘플 크기를 100%로 설정하지 않는 것이 좋습니다**. 정적 목록을 사용하는 경우 샘플 크기를 100%로 설정하면 대상자의 모든 사람에게 이메일이 전송되며 우승자는 누구에게도 전송되지 않습니다. 을(를) 사용하는 경우 **스마트** 샘플 크기를 100%로 설정하면 대상자의 모든 사용자에게 이메일이 전송됩니다. _그 시간에_. 이메일 프로그램이 나중에 다시 실행되면 스마트 목록의 자격이 되는 새로운 사람도 이제 대상자에 포함되므로 이메일을 받게 됩니다.
 
-   좋아, 거의 다 왔어 이제 다음을 수행해야 합니다. [a/B 테스트 승자 기준 정의](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/email-test-a-b-test/define-the-a-b-test-winner-criteria.md).
+   좋아, 거의 다 왔어 이제 다음을 수행해야 합니다. [A/B 테스트 승자 기준 정의](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/email-test-a-b-test/define-the-a-b-test-winner-criteria.md).

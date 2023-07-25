@@ -62,6 +62,6 @@ Named Accounts 모듈의 개선 사항은 사용자의 일치율과 유효성 �
 1. CDN이 없는 비동기 태그
 1. CDN 없이 동기식 태그
 
-최상의 성능을 위해서는 웹 페이지의 헤더 맨 위에 태그를 배치하는 것이 좋습니다 `<head>`. 모든 태그는 [RTP API](https://developers.marketo.com/documentation/websites/rtp-js-api/). RTP 태그를 배포하는 방법에 대한 자세한 내용은 를 참조하십시오. [여기](/help/marketo/product-docs/web-personalization/rtp-tag-implementation/deploy-the-rtp-javascript.md).
+최상의 성능을 위해서는 웹 페이지의 헤더 맨 위에 태그를 배치하는 것이 좋습니다 `<head>`. 모든 태그는 [RTP API](https://developers.marketo.com/documentation/websites/rtp-js-api/). RTP 태그를 배포하는 방법은 다음을 참조하십시오. [여기](/help/marketo/product-docs/web-personalization/rtp-tag-implementation/deploy-the-rtp-javascript.md).
 
 ![](assets/image2015-1-15-13-3a30-3a45.png)

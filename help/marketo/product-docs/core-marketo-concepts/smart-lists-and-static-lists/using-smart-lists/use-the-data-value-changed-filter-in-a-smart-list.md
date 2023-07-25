@@ -35,4 +35,4 @@ Marketo 데이터베이스에서 값이 지속적으로 변경되고 업데이�
 
    ![](assets/four.png)
 
-이 필터는 상태가 변경된(모든 변경) 모든 사람을 찾습니다. 더 화려해지고 싶다면, 한번 해봐 [스마트 목록 필터에 제한 추가](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/using-smart-lists/add-a-constraint-to-a-smart-list-filter.md).
+이 필터는 상태가 변경된(모든 변경) 모든 사람을 찾습니다. 더 화려하게 하고 싶다면 [스마트 목록 필터에 제한 추가](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/using-smart-lists/add-a-constraint-to-a-smart-list-filter.md).

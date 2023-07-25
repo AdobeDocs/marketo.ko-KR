@@ -30,7 +30,7 @@ Veeva와 Marketo Engage 간의 동기화는 개인 계정 개체의 연락처 �
 
 * [개인 계정](/help/marketo/product-docs/crm-sync/veeva-crm-sync/sync-details/person-account-sync-faq.md){target="_blank"}
 * 사용자
-* [호출 및 호출 키 개체](/help/marketo/product-docs/crm-sync/veeva-crm-sync/sync-details/syncing-call-and-call-key-messages.md){target="_blank"}
+* [호출 및 키 개체 호출](/help/marketo/product-docs/crm-sync/veeva-crm-sync/sync-details/syncing-call-and-call-key-messages.md){target="_blank"}
 * [사용자 지정 개체](/help/marketo/product-docs/crm-sync/veeva-crm-sync/sync-details/custom-object-sync.md){target="_blank"}
 
 ## 알아야 할 사항 {#things-to-know}

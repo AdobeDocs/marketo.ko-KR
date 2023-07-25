@@ -29,7 +29,7 @@ ht-degree: 0%
 
    ![](assets/blocking-field-updates-from-untrusted-sources-2.png)
 
-1. 원하는 필드를 찾아 선택한 다음 아래에서 **[!UICONTROL 필드 작업]**, 클릭 **[!UICONTROL 필드 업데이트 차단]**.
+1. 원하는 필드를 찾아 선택한 다음 아래에 **[!UICONTROL 필드 작업]**, 클릭 **[!UICONTROL 필드 업데이트 차단]**.
 
    ![](assets/blocking-field-updates-from-untrusted-sources-3.png)
 

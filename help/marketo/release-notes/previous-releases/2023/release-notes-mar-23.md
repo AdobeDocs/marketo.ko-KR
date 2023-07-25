@@ -108,7 +108,7 @@ ht-degree: 5%
   </tbody>
 </table>
 
-* **Dynamic Chat에 대한 역할 및 권한**: Dynamic Chat에 역할 및 권한을 도입하여 관리자가 앱의 다양한 영역에 대한 가시성 및 사용을 선택한 사용자 유형으로 제한할 수 있습니다.
+* **Dynamic Chat 역할 및 권한**: Dynamic Chat에 역할 및 권한을 도입하여 관리자가 앱의 다양한 영역에 대한 가시성 및 사용을 선택한 사용자 유형으로 제한할 수 있습니다.
 
 <table> 
   <tr> 
@@ -136,7 +136,7 @@ ht-degree: 5%
   </tbody>
 </table>
 
-* **Dynamic Chat 속성 유추**: 유추된 IP 데이터 (도시, 주, 국가 등) Dynamic Chat에서 인수한 새 사용자에 대한 개인 레코드에 작성됩니다.
+* **Dynamic Chat에 대한 속성 유추**: 유추된 IP 데이터 (도시, 주, 국가 등) Dynamic Chat에서 인수한 새 사용자에 대한 개인 레코드에 작성됩니다.
 
 <table> 
   <tr> 
