@@ -4,9 +4,9 @@ title: 참여 맵 개요
 hide: true
 hidefromtoc: true
 exl-id: 0b445ac7-bfa4-4f86-bb92-86d4d982555e
-source-git-commit: 02f3150cda31ec25fc47fc7f6ea50feaa9fed6b5
+source-git-commit: f88704f03a757f117fbb997eff13843cad637315
 workflow-type: tm+mt
-source-wordcount: '818'
+source-wordcount: '787'
 ht-degree: 0%
 
 ---
@@ -27,11 +27,11 @@ ht-degree: 0%
 
 스크린샷
 
-Engagement Map에 두 개의 탭이 표시됩니다. [참여 맵](/help/marketo/product-docs/core-marketo-concepts/engagement-map/engagement-map-tab.md){target="_blank"} and [Settings](/help/marketo/product-docs/core-marketo-concepts/engagement-map/engagement-map-tab.md){target="_blank"}.
+Engagement Map에 두 개의 탭이 표시됩니다. [참여 맵](/help/marketo/product-docs/core-marketo-concepts/engagement-map/engagement-map-tab.md){target="_blank"} and [Settings](/help/marketo/product-docs/core-marketo-concepts/engagement-map/settings-tab.md){target="_blank"}.
 
 스크린샷
 
-헤더 - 카드 설명 - LOPA가 확인
+## 카드 설명 {#card-descriptions}
 
 **트리거**: 트리거가 포함된 캠페인에서 맵에는 &quot;트리거 개요&quot; 카드가 있습니다. 이 아이콘을 클릭하면 각 트리거에 대한 카드와 추가 정보가 있는 슬라이드 아웃 패널이 표시됩니다.
 
@@ -43,7 +43,7 @@ Engagement Map에 두 개의 탭이 표시됩니다. [참여 맵](/help/marketo/
 
 ## 중첩된 캠페인 {#nested-campaigns}
 
-* 캠페인에 요청 또는 캠페인 실행 흐름 단계가 포함된 경우 흐름 카드를 클릭하면 호출되는 캠페인의 세부 정보와 추가 정보가 있는 슬라이드 아웃 패널이 표시됩니다. (중첩된 캠페인에는 닫기 알약도 포함되어 있습니다. 이 알약을 클릭하면 중첩된 캠페인과 관련된 카드가 축소됩니다.) !!!!!!!!!!!! - 재작성 또는 제거 - LOPA에서 확인
+* 캠페인에 요청 또는 캠페인 실행 흐름 단계가 포함된 경우 흐름 카드를 클릭하면 호출되는 캠페인의 세부 정보와 추가 정보가 있는 슬라이드 아웃 패널이 표시됩니다.
 
 * 캠페인에 선택 사항이 있는 요청 또는 캠페인 실행 흐름 단계가 포함된 경우 흐름 카드를 클릭하면 선택 사항 카드와 선택 사항에 대한 자세한 정보가 있는 슬라이드 아웃 패널이 표시됩니다. 각 선택 카드를 클릭하면 호출되는 캠페인의 세부 정보와 자세한 정보가 포함된 슬라이드 아웃 패널이 표시됩니다.
 
