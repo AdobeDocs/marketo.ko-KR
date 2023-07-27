@@ -3,14 +3,18 @@ description: 이벤트 체크인 개요
 title: 이벤트 체크인 개요
 exl-id: aae09cd8-5f8f-48c7-9d26-63c8345445d0
 feature: Mobile Marketing
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 762b8206b1e4c748daae063a80e76cc028904d10
 workflow-type: tm+mt
-source-wordcount: '225'
+source-wordcount: '237'
 ht-degree: 0%
 
 ---
 
 # 이벤트 체크인 개요 {#event-check-in-overview}
+
+>[!AVAILABILITY]
+>
+>이 앱은 과 호환되지 않습니다. [Adobe ID 인증](/help/marketo/product-docs/administration/marketo-with-adobe-identity/adobe-identity-management-overview.md){target="_blank"} 이 시간에.
 
 iPad 또는 Android 태블릿용 Marketo 이벤트 앱을 사용하면 사람들이 이벤트에 도착할 때 즉시 체크인할 수 있습니다.
 
@@ -24,9 +28,9 @@ iPad 또는 Android 태블릿용 Marketo 이벤트 앱을 사용하면 사람들
 
 이벤트 전:
 
-* [새 Marketo 역할 만들기](/help/marketo/product-docs/core-marketo-concepts/mobile-apps/event-check-in/grant-users-access-to-the-check-in-app.md) 이벤트용 iPad 또는 Android 사용자용
-* [이벤트에 새 태블릿 사용자 초대](/help/marketo/product-docs/core-marketo-concepts/mobile-apps/event-check-in/grant-users-access-to-the-check-in-app.md) 새 역할 할당
-* [새 Marketo 이벤트 프로그램 만들기](/help/marketo/product-docs/demand-generation/events/understanding-events/create-a-new-event-program.md)
+* [새 Marketo 역할 만들기](/help/marketo/product-docs/core-marketo-concepts/mobile-apps/event-check-in/grant-users-access-to-the-check-in-app.md){target="_blank"} 이벤트용 iPad 또는 Android 사용자용
+* [이벤트에 새 태블릿 사용자 초대](/help/marketo/product-docs/core-marketo-concepts/mobile-apps/event-check-in/grant-users-access-to-the-check-in-app.md){target="_blank"} 새 역할 할당
+* [새 Marketo 이벤트 프로그램 만들기](/help/marketo/product-docs/demand-generation/events/understanding-events/create-a-new-event-program.md){target="_blank"}
 * 이벤트 날짜 지정
 * 내 이벤트에 직원 추가
 
@@ -45,5 +49,5 @@ iPad 또는 Android 태블릿을 준비하려면 다음을 수행하십시오.
 
 * 앱에 로그인
 * 게스트 찾기(및 새 사람 만들기)
-* [체크인 게스트](/help/marketo/product-docs/core-marketo-concepts/mobile-apps/event-check-in/check-people-into-your-event-from-your-tablet.md) (체크인 취소, 체크인 시 개인 레코드 편집)
+* [체크인 게스트](/help/marketo/product-docs/core-marketo-concepts/mobile-apps/event-check-in/check-people-into-your-event-from-your-tablet.md){target="_blank"} (체크인 취소, 체크인 시 개인 레코드 편집)
 * iPad 또는 Android 태블릿 앱을 Marketo과 동기화

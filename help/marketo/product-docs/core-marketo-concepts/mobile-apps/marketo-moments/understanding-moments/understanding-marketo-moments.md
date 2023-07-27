@@ -4,9 +4,9 @@ description: Marketo 순간 이해 - Marketo 문서 - 제품 설명서
 title: Marketo 모멘트 이해
 exl-id: bc103d25-a175-4ab1-8305-1e05b9b0dc2d
 feature: Mobile Marketing
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 762b8206b1e4c748daae063a80e76cc028904d10
 workflow-type: tm+mt
-source-wordcount: '544'
+source-wordcount: '556'
 ht-degree: 0%
 
 ---
@@ -15,10 +15,13 @@ ht-degree: 0%
 
 이제 Marketo의 힘은 문자 그대로 여러분의 손에 달렸습니다! 휴대폰 또는 iPad에서 바로 이메일을 미리 보고 일정을 조정할 수 있습니다.
 
->[!AVAILABILITY]
->
+>[!NOTE]
 >
 >모바일 앱 액세스 권한이 필요합니다. Marketo 관리자에게 문의하여 다음 작업을 수행하십시오 [역할 업데이트](/help/marketo/product-docs/administration/users-and-roles/managing-user-roles-and-permissions.md).
+
+>[!AVAILABILITY]
+>
+>이 앱은 과 호환되지 않습니다. [Adobe ID 인증](/help/marketo/product-docs/administration/marketo-with-adobe-identity/adobe-identity-management-overview.md){target="_blank"} 이 시간에.
 
 ## 스트림 {#streams}
 
