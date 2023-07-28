@@ -3,9 +3,9 @@ audience: end-user
 user-guide-title: Marketo 안내서
 user-guide-description: Marketo 제품 설명서
 feature-set: Marketo Engage
-source-git-commit: 02f3150cda31ec25fc47fc7f6ea50feaa9fed6b5
+source-git-commit: 5b52f8fb9a7d2f19e271ec3f48d0f3499e2ef00f
 workflow-type: tm+mt
-source-wordcount: '8996'
+source-wordcount: '9001'
 ht-degree: 0%
 
 ---
@@ -958,6 +958,8 @@ ht-degree: 0%
          + [공유 및 전용 IP 주소](product-docs/email-marketing/deliverability/shared-and-dedicated-ip-addresses.md)
          + [구독 취소 이해](product-docs/email-marketing/deliverability/understanding-unsubscribe.md)
          + [전용 IP 주소를 사용하여 이메일 보내기](product-docs/email-marketing/deliverability/use-your-dedicated-ip-addresses-to-send-emails.md)
+         + 받은 편지함 추적기 {#inbox-tracker}
+            + [받은 편지함 추적기 Tutorials](product-docs/email-marketing/deliverability/inbox-tracker/inbox-tracker-tutorials.md)
       + 점적 양육 {#drip-nurturing}
          + 참여 프로그램 만들기 {#creating-an-engagement-program}
             + [스트림 추가](product-docs/email-marketing/drip-nurturing/creating-an-engagement-program/add-a-stream.md)
@@ -1073,7 +1075,7 @@ ht-degree: 0%
                + [챔피언/챌린저 : 챔피언 선언](product-docs/email-marketing/general/functions-in-the-editor/email-tests-champion-challenger/champion-challenger-declare-a-champion.md)
                + [챔피언/챌린저: 챔피언 기준 정의](product-docs/email-marketing/general/functions-in-the-editor/email-tests-champion-challenger/champion-challenger-define-champion-criteria.md)
                + [챔피언/챌린저: 이메일 테스트 취소](product-docs/email-marketing/general/functions-in-the-editor/email-tests-champion-challenger/champion-challenger-discard-an-email-test.md)
-               + [챔피언/챌린저: 보내는 주소](product-docs/email-marketing/general/functions-in-the-editor/email-tests-champion-challenger/champion-challenger-from-address.md)
+               + [챔피언/챌린저: 보낸 주소](product-docs/email-marketing/general/functions-in-the-editor/email-tests-champion-challenger/champion-challenger-from-address.md)
                + [챔피언/챌린저: 제목 줄](product-docs/email-marketing/general/functions-in-the-editor/email-tests-champion-challenger/champion-challenger-subject-line.md)
                + [챔피언/챌린저: 전체 이메일](product-docs/email-marketing/general/functions-in-the-editor/email-tests-champion-challenger/champion-challenger-whole-emails.md)
          + 토큰 사용 {#using-tokens}
