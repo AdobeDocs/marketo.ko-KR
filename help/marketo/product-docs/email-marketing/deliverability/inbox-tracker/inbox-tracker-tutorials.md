@@ -1,23 +1,21 @@
 ---
 description: 받은 편지함 추적기 Tutorials - Marketo 문서 - 제품 설명서
 title: 받은 편지함 추적기 Tutorials
-hide: true
-hidefromtoc: true
 feature: Deliverability
-source-git-commit: 95eb2ddf7ecb94a930c59cad57f39d45465bb9c2
+source-git-commit: 1f55f6ae17f4c5a059a7e937f9c115a79514e8db
 workflow-type: tm+mt
-source-wordcount: '287'
+source-wordcount: '324'
 ht-degree: 0%
 
 ---
 
 # 받은 편지함 추적기 Tutorials {#inbox-tracker-tutorials.md}
 
-MessageBird의 Inbox Tracker는 강력한 타사 도구입니다.
+MessageBird의 받은 편지함 추적기 플랫폼에서 제공하는 Marketo의 이메일 게재 기능 Powerpack을 사용하여 게재 기능 문제를 테스트, 모니터링 및 이해합니다. Inbox Tracker는 프로그램의 인텔리전스와 이메일 렌더링/받은 편지함 테스트의 선견지명을 결합하여 이메일 성능을 극대화하는 단일 애플리케이션입니다.
 
-MessageBird는 플랫폼을 탐색하는 데 도움이 되는 몇 가지 교육 비디오를 만들었습니다.
+![](assets/inbox-tracker-tutorials-1.png)
 
-스크린샷
+MessageBird는 이 강력한 도구를 최대한 활용하는 데 도움이 되는 몇 가지 교육 비디오를 만들었습니다.
 
 ## 받은 편지함 추적기 개요 {#inbox-tracker-overview}
 
@@ -28,6 +26,8 @@ MessageBird는 플랫폼을 탐색하는 데 도움이 되는 몇 가지 교육 
 [Intelliseed(구성 및 다운로드)](https://veed.io/view/8b9e398e-21c9-49dc-a133-e1d8eb8ba03d){target="_blank"}
 
 ## 받은 편지함 추적기 게재 기능 섹션 {#inbox-tracker-deliverability-section}
+
+![](assets/inbox-tracker-tutorials-2.png)
 
 [대시보드 개요](https://veed.io/view/2d1084f3-b4b4-440b-9977-a3cc3b885bb9){target="_blank"}
 
@@ -62,5 +62,7 @@ MessageBird는 플랫폼을 탐색하는 데 도움이 되는 몇 가지 교육 
 [Google Postmaster 도구](https://veed.io/view/7c89c0d8-ead2-46ad-9709-7509d043442a){target="_blank"}
 
 ## 디자인 추적기 {#design-tracker}
+
+![](assets/inbox-tracker-tutorials-3.png)
 
 [디자인 추적기](https://veed.io/view/3efe7959-d835-4a00-948c-93e4a0394871){target="_blank"}
