@@ -4,9 +4,9 @@ title: 참여 맵 탭
 hide: true
 hidefromtoc: true
 exl-id: f54b9258-451b-4607-b5a9-f8627c6f420a
-source-git-commit: f88704f03a757f117fbb997eff13843cad637315
+source-git-commit: 3c7eb2fc2e64898e12f08743225c0b802bf97474
 workflow-type: tm+mt
-source-wordcount: '965'
+source-wordcount: '913'
 ht-degree: 0%
 
 ---
@@ -153,12 +153,6 @@ ht-degree: 0%
 * 하나 이상의 필터에 제한 오류(또는 제한 없음)
 
   ![](assets/engagement-map-tab-20.png)
-
-값(속성)을 입력하지 않으면 오류가 발생하지 않습니다. 흐름 탭에서와 마찬가지로 계속 작동합니다. 따라서 기존 캠페인은 중단되지 않습니다. 그러나 흐름 단계에 속성이 포함되지 않은 경우 이러한 속성이 경고로 표시됩니다.
-
-^^^이 정말 필요합니까, 고객에게 경고가 표시되지 않습니다???
-
-![](assets/engagement-map-tab-21.png)
 
 >[!NOTE]
 >

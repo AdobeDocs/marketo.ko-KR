@@ -4,9 +4,9 @@ title: 참여 맵 개요
 hide: true
 hidefromtoc: true
 exl-id: 0b445ac7-bfa4-4f86-bb92-86d4d982555e
-source-git-commit: f88704f03a757f117fbb997eff13843cad637315
+source-git-commit: 3c7eb2fc2e64898e12f08743225c0b802bf97474
 workflow-type: tm+mt
-source-wordcount: '787'
+source-wordcount: '777'
 ht-degree: 0%
 
 ---
@@ -19,17 +19,17 @@ ht-degree: 0%
 
 참여 맵을 사용하면 직관적인 시각화를 통해 재사용 가능한 스마트 캠페인을 구축할 수 있습니다. 현재 기능의 손실 없이 기존의 모든 Marketo Engage 스마트 캠페인과의 완전한 이전 버전과의 호환성을 제공합니다.
 
-스크린샷
+![](assets/engagement-map-overview-1.png)
 
 ## 참여 맵 액세스 {#accessing-engagement-map}
 
 기존 캠페인으로 이동하여 **참여 맵** 단추를 클릭합니다.
 
-스크린샷
+![](assets/engagement-map-overview-2.png)
 
 Engagement Map에 두 개의 탭이 표시됩니다. [참여 맵](/help/marketo/product-docs/core-marketo-concepts/engagement-map/engagement-map-tab.md){target="_blank"} and [Settings](/help/marketo/product-docs/core-marketo-concepts/engagement-map/settings-tab.md){target="_blank"}.
 
-스크린샷
+![](assets/engagement-map-overview-3.png)
 
 ## 카드 설명 {#card-descriptions}
 
@@ -51,11 +51,7 @@ Engagement Map에 두 개의 탭이 표시됩니다. [참여 맵](/help/marketo/
 
 ## 위쪽 탐색 {#top-navigation}
 
-스크린샷
-
 위쪽 탐색에는 다음 기능이 포함됩니다.
-
-!!!!! SCREENSHOUT IS OLD - GRAB NEW ONE
 
 * 캠페인 이름 및 &quot;캠페인 편집&quot; 모달에 대한 액세스 권한을 여기에서 캠페인 이름 및 설명을 편집할 수 있습니다.
 

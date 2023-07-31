@@ -3,7 +3,7 @@ description: Marketo 구독 및 Adobe Admin Console으로의 사용자 마이그
 title: Marketo 구독 및 Adobe Admin Console으로의 사용자 마이그레이션 이해
 exl-id: 91e7b56b-2563-4986-a55c-f9760ea88b05
 feature: Marketo with Adobe Identity
-source-git-commit: 830b8d3fa4ca49834523eb4d5119a9bb9161e04d
+source-git-commit: 3c7eb2fc2e64898e12f08743225c0b802bf97474
 workflow-type: tm+mt
 source-wordcount: '1121'
 ht-degree: 0%
@@ -67,7 +67,7 @@ Marketo 제품 관리자는 다음 작업을 수행합니다.
 
 Marketo 제품 관리자는 모든 사용자가 마이그레이션할 날을 준비해야 합니다.
 
-* Marketo 관리 영역에서 모든 사용자에 대한 이메일 확인 상태를 확인합니다. 이메일 주소를 확인하지 않은 사용자에게 이메일 주소를 확인하도록 권장하고 사용자가 확인 프로세스를 완료하는 데 발생하는 모든 문제를 해결하도록 지원합니다
+* Marketo 관리 영역에서 모든 사용자에 대한 이메일 확인 상태를 확인합니다. 이메일 주소를 확인하지 않은 사용자에게 이메일 주소를 확인하도록 권장하고 사용자가 확인 프로세스를 완료하는 데 발생하는 모든 문제를 해결하도록 지원합니다.
 
 * Adobe ID로의 향후 마이그레이션에 대해 모든 사용자를 준비합니다.
 

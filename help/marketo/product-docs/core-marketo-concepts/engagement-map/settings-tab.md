@@ -4,9 +4,9 @@ title: 설정 탭
 hide: true
 hidefromtoc: true
 exl-id: 44bb3227-4d77-47db-88ef-aafc2ddf3c74
-source-git-commit: f88704f03a757f117fbb997eff13843cad637315
+source-git-commit: 3c7eb2fc2e64898e12f08743225c0b802bf97474
 workflow-type: tm+mt
-source-wordcount: '333'
+source-wordcount: '303'
 ht-degree: 1%
 
 ---
@@ -63,8 +63,6 @@ ht-degree: 1%
 >[!NOTE]
 >
 >도움말 아이콘을 클릭하면 &quot;추가 권한 필요&quot;가 표시되면 Marketo 관리자에게 문의하십시오.
-
-중복됨 위에서 설명한 대로 제거할 수 있습니까 —> 사용자가 캠페인 설정을 편집할 수 있는 액세스 권한이 없으면 예약된 실행을 취소할 수 있는 액세스 권한도 없습니다.
 
 ![](assets/settings-tab-5.png)
 

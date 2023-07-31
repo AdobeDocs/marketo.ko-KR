@@ -3,7 +3,7 @@ description: 현재 릴리스 정보 - Marketo 설명서 - 제품 설명서
 title: 최신 릴리스 정보
 exl-id: a2eccad5-73ad-48f9-8091-51cee23824e1
 feature: Release Information
-source-git-commit: f4c1e01f830f4f2f6ac16502511457cee7f3384e
+source-git-commit: 3c7eb2fc2e64898e12f08743225c0b802bf97474
 workflow-type: tm+mt
 source-wordcount: '667'
 ht-degree: 2%
@@ -24,7 +24,7 @@ ht-degree: 2%
 
 </br>
 
-* **참여 맵**: 참여 맵은 재사용 가능한 캠페인을 작성하고 구성할 수 있는 시각적 도구입니다. 완전히 이전 버전과 호환되므로 버튼 클릭으로 기존의 모든 캠페인을 이 새 구조에서 볼 수 있습니다. 캔버스를 다운로드하여 공유할 수 있습니다.
+* **참여 맵**: 참여 맵은 재사용 가능한 캠페인을 작성하고 구성할 수 있는 시각적 도구입니다. 완전히 이전 버전과 호환되므로 버튼 클릭으로 기존의 모든 캠페인을 이 새 구조에서 볼 수 있습니다. 맵을 다운로드하고 공유할 수 있습니다.
 
 <table> 
   <tr> 
