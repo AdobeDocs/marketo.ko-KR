@@ -4,7 +4,7 @@ title: 참여 맵 개요
 hide: true
 hidefromtoc: true
 exl-id: 0b445ac7-bfa4-4f86-bb92-86d4d982555e
-source-git-commit: 3c7eb2fc2e64898e12f08743225c0b802bf97474
+source-git-commit: 7075f04972f755ffef01e0608ca81f0640fb8aa6
 workflow-type: tm+mt
 source-wordcount: '777'
 ht-degree: 0%
@@ -13,11 +13,11 @@ ht-degree: 0%
 
 # 참여 맵 개요 {#engagement-map-overview}
 
->[!AVAILABILITY]
->
->이 기능은 현재 스마트 캠페인에 사용할 수 있습니다. 프로그램에는 사용할 수 없습니다.
-
 참여 맵을 사용하면 직관적인 시각화를 통해 재사용 가능한 스마트 캠페인을 구축할 수 있습니다. 현재 기능의 손실 없이 기존의 모든 Marketo Engage 스마트 캠페인과의 완전한 이전 버전과의 호환성을 제공합니다.
+
+>[!NOTE]
+>
+>참여 맵은 현재 스마트 캠페인에서 사용할 수 있습니다. 프로그램에서는 사용할 수 없습니다.
 
 ![](assets/engagement-map-overview-1.png)
 
