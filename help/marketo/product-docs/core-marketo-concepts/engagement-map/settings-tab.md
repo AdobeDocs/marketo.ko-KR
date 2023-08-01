@@ -1,10 +1,8 @@
 ---
 description: 설정 탭 - Marketo 문서 - 제품 설명서
 title: 설정 탭
-hide: true
-hidefromtoc: true
 exl-id: 44bb3227-4d77-47db-88ef-aafc2ddf3c74
-source-git-commit: 3c7eb2fc2e64898e12f08743225c0b802bf97474
+source-git-commit: d41324dbde32ee731b3ce9c3416888e8088a2daa
 workflow-type: tm+mt
 source-wordcount: '303'
 ht-degree: 1%
@@ -45,7 +43,7 @@ ht-degree: 1%
 
 ![](assets/settings-tab-4.png)
 
-설정 탭에는 스마트 목록에 대한 빠른 개요도 포함되어 있습니다. 여기에는 다음 항목이 포함됩니다.
+설정 탭에는 Smart Campaign에 대한 간략한 개요도 포함되어 있습니다. 여기에는 다음 항목이 포함됩니다.
 
 * 캠페인 상태
 * 제작일
