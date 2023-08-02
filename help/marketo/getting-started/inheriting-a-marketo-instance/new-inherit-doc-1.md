@@ -3,18 +3,20 @@ description: 문서 1 상속 - Marketo 문서 - 제품 설명서
 title: 문서 1 상속
 hide: true
 hidefromtoc: true
-source-git-commit: 93be928e540fd50d92bef4ead3ea23519de18cce
+source-git-commit: f3ec0872e94d9e12219945f92040b7dbc67e5bed
 workflow-type: tm+mt
-source-wordcount: '851'
-ht-degree: 6%
+source-wordcount: '1140'
+ht-degree: 3%
 
 ---
 
 # 문서 1 상속 {#inherit-doc-1}
 
-상속된 인스턴스 감사는 다음과 같을 수 있습니다.
+상속된 인스턴스를 감사하는 것은...
 
-다른 관리자로부터 기존 Marketo Engage 인스턴스를 상속받았습니까? 그렇다면, 이 기사는 당신을 위한 것입니다.
+다른 관리자로부터 기존 Marketo Engage 인스턴스를 상속받았습니까? 그렇다면 이 문서는 귀하를 위한 것입니다 ...
+
+아래 체크리스트는 상속된 인스턴스에서 빠르게 속도를 높이는 데 도움이 되도록 Marketo 챔피언의 입력과 함께 입력되었습니다.
 
 >[!TIP]
 >
@@ -37,7 +39,7 @@ ht-degree: 6%
 <li>관리자 권한이 있는 사용자는 몇 명입니까?</li>
 <li>그러한 사용자 중 다른 역할로 변경해야 합니까?</li> 
 <li>이 인스턴스의 API 사용자는 누구입니까?</li></td>
-   <td>3.1</td>
+   <td>3</td>
   </tr>
   <tr> 
    <td>역할</td> 
@@ -47,19 +49,19 @@ ht-degree: 6%
 <li>사용자들은 얼마나 자주 로그인합니까?</li>
 <li>각 API 사용자에게는 고유한 사용자 역할이 있습니까? 그렇지 않은 경우 이 기능을 구현하여 문제를 더 쉽게 해결할 수 있습니다.</li> 
 <li>사용자 역할 및 권한이 회사 데이터 개인정보 처리방침과 일치합니까?</li></td>
-   <td>3.2</td>
+   <td>3</td>
   </tr>
   <tr> 
    <td>내부 설명서</td> 
    <td><li>조직에서 사용자와 역할이 명확하게 정의됩니까?</li>
 <li>새 사용자/관리자를 추가하는 프로세스는 무엇입니까?</li></td>
-   <td>3.3</td>
+   <td>3</td>
   </tr>
   <tr> 
    <td>샌드박스(해당되는 경우)</td> 
    <td><li>샌드박스 인스턴스가 있습니까? 그렇다면 샌드박스에 대한 위의 카테고리를 검토하십시오.</li>
 <li>프로그램 가져오기가 샌드박스와 연결되어 있습니까?</li></td>
-   <td>3.4</td>
+   <td>3</td>
   </tr>
  </tbody> 
 </table>
@@ -76,7 +78,7 @@ ht-degree: 6%
   <tr> 
    <td>감사 추적</td> 
    <td><li>인스턴스에서 작업 중인 사람은 누구입니까?</li></td>
-   <td>3.1</td>
+   <td>3</td>
   </tr>
  </tbody> 
 </table>
@@ -230,18 +232,29 @@ ht-degree: 6%
    <td>3</td>
   </tr>
   <tr> 
-   <td>1</td> 
-   <td>2</td>
+   <td>랜딩 페이지</td> 
+   <td><li>으로 설정된 도메인은 무엇입니까?</li>
+<li>대체 (fallback) 은 무엇으로 설정됩니까?</li>
+<li>홈페이지가 무엇으로 설정되어 있습니까?</li>
+<li>양식 미리 채우기가 활성화되었습니까?</li>
+<li>개인화된 URL이 활성화됩니까?</li>
+<li>리디렉션에 대한 규칙이 설정되어 있습니까?</li>
+<li>도메인 별칭을 사용할 수 있습니까? 도메인 별칭을 활용하는 방법을 설명서를 통해 추적하고 있습니까?</li>
+<li>랜딩 페이지의 보안 도메인이 활성화되어 있습니까? 랜딩 페이지 에셋에 "http" URL이 포함되어 있는지 확인합니다.</li></td>
    <td>3</td>
   </tr>
   <tr> 
-   <td>1</td> 
-   <td>2</td>
+   <td>먼치킨</td> 
+   <td><li>Munchkin 추적 코드가 웹 사이트(Marketo이 아님)에 있습니까?</li>
+<li>"Do Not Track" 브라우저 요청이 활성화되어 있습니까?</li>
+<li>Munchkin API가 구성되어 있습니까? 웹 사이트에서 munchkin 코드가 있는 위치에 대한 설명서가 없는 경우 기본 'Analytics'의 '웹 분석 보고서'를 사용하여 빠른 보기를 시작하여 웹 사이트 전체에서 Munchkin 코드가 있는 위치를 파악합니다.</li></td>
    <td>3</td>
   </tr>
   <tr> 
-   <td>1</td> 
-   <td>2</td>
+   <td>웹 서비스</td> 
+   <td><li>IP 제한이 활성화되어 있습니까? 그래야 하나?</li>
+<li>인스턴스에서 API를 호출하는 사용자/앱은 무엇입니까?</li>
+<li>API 제한에 도달하고 있습니까, 거의 도달하고 있습니까? 그런 경우에는 API를 늘리거나 인스턴스를 감사하여 해당 API 호출을 줄여 보십시오.</li></td>
    <td>3</td>
   </tr>
   <tr> 
@@ -265,18 +278,15 @@ ht-degree: 6%
    <th>열 3</th>
   </tr> 
   <tr> 
-   <td>1</td> 
-   <td>2</td>
+   <td>보물상자</td> 
+   <td><li>보물상자에는 무엇이 작동되고 있나요?</li>
+<li>켜거나 꺼야 하는 기능이 있습니까?</li></td>
    <td>3</td>
   </tr>
   <tr> 
-   <td>1</td> 
-   <td>2</td>
-   <td>3</td>
-  </tr>
-  <tr> 
-   <td>1</td> 
-   <td>2</td>
+   <td>캠페인 검사자</td> 
+   <td><li>Campaign Inspector가 켜져 있습니까?</li>
+<li>활성화되지 않은 경우 켜서 활성화된 캠페인을 쉽게 식별하고 CRM과 동기화하거나 레코드를 삭제하는 것이 좋습니다.</li></td>
    <td>3</td>
   </tr>
  </tbody> 
@@ -292,18 +302,24 @@ ht-degree: 6%
    <th>열 3</th>
   </tr> 
   <tr> 
-   <td>1</td> 
-   <td>2</td>
+   <td>Marketo Engage 상태 업데이트</td> 
+   <td><li>인스턴스가 Marketo Engage 상태 업데이트에 등록되었습니까?</li></td>
    <td>3</td>
   </tr>
   <tr> 
-   <td>1</td> 
-   <td>2</td>
+   <td>승인된 연락처</td> 
+   <td><li>지원 포털에서 적절한 공인 연락처를 설정했습니까?</li></td>
    <td>3</td>
   </tr>
   <tr> 
-   <td>1</td> 
-   <td>2</td>
+   <td>경고</td> 
+   <td><li>Marketo Engage에서 내부 팀으로 전송되는 활성 경고가 있습니까?</li>
+<li>그렇다면 해당 경고가 적절하게 작동하고 있습니까?</li></td>
+   <td>3</td>
+  </tr>
+  <tr> 
+   <td>알림</td> 
+   <td><li>적절한 관리자 알림을 구독하십니까?</li></td>
    <td>3</td>
   </tr>
  </tbody> 

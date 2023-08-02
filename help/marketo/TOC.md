@@ -3,9 +3,9 @@ audience: end-user
 user-guide-title: Marketo 안내서
 user-guide-description: Marketo 제품 설명서
 feature-set: Marketo Engage
-source-git-commit: 5b52f8fb9a7d2f19e271ec3f48d0f3499e2ef00f
+source-git-commit: f3ec0872e94d9e12219945f92040b7dbc67e5bed
 workflow-type: tm+mt
-source-wordcount: '9001'
+source-wordcount: '9003'
 ht-degree: 0%
 
 ---
@@ -42,6 +42,7 @@ ht-degree: 0%
       + [체크오프할 항목](getting-started/inheriting-a-marketo-instance/items-to-check-off.md)
       + [검토해야 할 사항: 핵심 기술](getting-started/inheriting-a-marketo-instance/things-to-review-core-skills.md)
       + [도움말 받는 방법](getting-started/inheriting-a-marketo-instance/ways-to-get-help.md)
+      + [문서 1 상속](getting-started/inheriting-a-marketo-instance/inherit-doc-1.md)
 + 제품 문서 {#product-docs}
    + 추가 앱 {#additional-apps}
       + SEO {#seo}
