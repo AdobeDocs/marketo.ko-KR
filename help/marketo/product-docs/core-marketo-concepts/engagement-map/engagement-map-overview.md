@@ -2,9 +2,9 @@
 description: Engagement Map 개요 - Marketo 문서 - 제품 설명서
 title: 참여 맵 개요
 exl-id: 0b445ac7-bfa4-4f86-bb92-86d4d982555e
-source-git-commit: d41324dbde32ee731b3ce9c3416888e8088a2daa
+source-git-commit: b6628cee17799801815f5b84c424399538eaf5ee
 workflow-type: tm+mt
-source-wordcount: '793'
+source-wordcount: '796'
 ht-degree: 0%
 
 ---
@@ -57,9 +57,9 @@ Engagement Map에 두 개의 탭이 표시됩니다. [참여 맵](/help/marketo/
 
 * 트리거 캠페인에 대한 활성화/비활성화 버튼
 
-* 스마트 목록 편집 - 흐름 단계를 추가하거나 편집할 수 있는 새 탭에서 스마트 목록 인터페이스로 이동합니다
+* 스마트 목록 편집 - 필터 및/또는 트리거를 추가하거나 편집할 수 있는 새 탭에서 스마트 목록 인터페이스로 이동합니다
 
-* 플로우 편집 - 스마트 목록을 추가하거나 편집할 수 있는 새 탭에서 플로우 인터페이스로 이동합니다
+* 플로우 편집 - 플로우 단계를 추가하거나 편집할 수 있는 새 탭에서 플로우 인터페이스로 이동합니다
 
 * 내보내기 - 캠페인 시각화의 이미지를 다운로드합니다. 다운로드한 버전은 확장한 분기를 반영합니다
 

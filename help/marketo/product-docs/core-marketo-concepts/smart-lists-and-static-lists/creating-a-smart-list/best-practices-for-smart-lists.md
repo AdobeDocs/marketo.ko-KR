@@ -4,9 +4,9 @@ description: 스마트 목록 우수 사례 - Marketo 문서 - 제품 설명서
 title: 스마트 목록 우수 사례
 exl-id: 466de198-1012-4ac3-906c-d41943fe5bc0
 feature: Smart Lists
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: b6628cee17799801815f5b84c424399538eaf5ee
 workflow-type: tm+mt
-source-wordcount: '566'
+source-wordcount: '570'
 ht-degree: 0%
 
 ---
@@ -36,4 +36,4 @@ ht-degree: 0%
 
 >[!TIP]
 >
->Marketo은 다양한 방식으로 사용할 수 있으며 특정 기술은 사용자와 비즈니스에 더 적합합니다. 고려 [Marketo 전문 서비스](https://pages2.marketo.com/72-hour-survival-guide.html){target="_blank"} 투자를 더 빛나게 하기 위해.
+>Marketo Engage은 다양한 방식으로 사용할 수 있으며 특정 기술은 사용자와 비즈니스에 더 적합합니다. 투자를 최대한 활용하는 데 도움이 필요하면 Adobe Professional Services 영업 담당자에게 문의하십시오.
