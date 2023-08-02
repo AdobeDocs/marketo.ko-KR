@@ -3,10 +3,10 @@ description: 문서 1 상속 - Marketo 문서 - 제품 설명서
 title: 문서 1 상속
 hide: true
 hidefromtoc: true
-source-git-commit: b6628cee17799801815f5b84c424399538eaf5ee
+source-git-commit: 93be928e540fd50d92bef4ead3ea23519de18cce
 workflow-type: tm+mt
-source-wordcount: '804'
-ht-degree: 7%
+source-wordcount: '851'
+ht-degree: 6%
 
 ---
 
@@ -223,8 +223,10 @@ ht-degree: 7%
    <th>열 3</th>
   </tr> 
   <tr> 
-   <td>1</td> 
-   <td>2</td>
+   <td>CRM</td> 
+   <td><li>어떤 CRM과 동기화하시겠습니까? Salesforce? MS Dynamics? 베바?</li>
+<li>사용자 지정 동기화 또는 양방향 동기화? (KG: 문법 수정 및 중요도 확인)</li>
+<li>[Salesforce만 해당] 인스턴스에 사용자 지정 동기화 필터가 구현되었습니까? 사용자 지정 동기화 필터를 식별하거나 사용자 지정 동기화 규칙을 구현하도록 요청하려면 Marketo 지원 센터에 문의하십시오.</li></td>
    <td>3</td>
   </tr>
   <tr> 
@@ -244,10 +246,10 @@ ht-degree: 7%
   </tr>
   <tr> 
    <td>Marketo Sales Insight(해당되는 경우)</td> 
-   <td><li>MSI 패키지가 설치되었습니까?</li>
-<li>최신 버전의 Sales Insight로 업그레이드했습니까?</li>
+   <td><li>이(가) <a href="/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/installation/install-marketo-sales-insight-package-in-salesforce-appexchange.md" target="_blank">MSI 패키지 설치됨</a>?</li>
+<li>있음 <a href="/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/upgrading/upgrading-your-msi-package.md" target="_blank">최신 버전의 Sales Insight로 업그레이드</a>?</li>
 <li>Sales Insight 구성을 완료했습니까?</li>
-<li>구매한 시트 수에 따라 사용자에게 액세스 권한을 부여했습니까?</li></td>
+<li>있음 <a href="/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/configuration/add-sales-insight-permission-set.md" target="_blank">사용자에게 부여된 액세스 권한</a> 구입한 시트 수에 따라?</li></td>
    <td>3</td>
   </tr>
  </tbody> 
