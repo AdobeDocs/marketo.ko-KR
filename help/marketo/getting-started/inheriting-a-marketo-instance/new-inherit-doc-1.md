@@ -3,9 +3,9 @@ description: 문서 1 상속 - Marketo 문서 - 제품 설명서
 title: 문서 1 상속
 hide: true
 hidefromtoc: true
-source-git-commit: f3ec0872e94d9e12219945f92040b7dbc67e5bed
+source-git-commit: 0f34b8ac4283e78027c81bf654d090c5ee78b9ee
 workflow-type: tm+mt
-source-wordcount: '1140'
+source-wordcount: '1149'
 ht-degree: 3%
 
 ---
@@ -261,7 +261,7 @@ ht-degree: 3%
    <td>Marketo Sales Insight(해당되는 경우)</td> 
    <td><li>이(가) <a href="/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/installation/install-marketo-sales-insight-package-in-salesforce-appexchange.md" target="_blank">MSI 패키지 설치됨</a>?</li>
 <li>있음 <a href="/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/upgrading/upgrading-your-msi-package.md" target="_blank">최신 버전의 Sales Insight로 업그레이드</a>?</li>
-<li>Sales Insight 구성을 완료했습니까?</li>
+<li>Sales Insight 구성을 완료했습니까? Enterprise/Unlimited 사용자 <a href="/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/configuration/configure-marketo-sales-insight-in-salesforce-enterprise-unlimited.md" target="_blank">여기를 클릭하십시오</a>, 전문 사용자 <a href="/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/configuration/configure-marketo-sales-insight-in-salesforce-professional-edition.md" target="_blank">여기를 클릭하십시오</a>.</li>
 <li>있음 <a href="/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/configuration/add-sales-insight-permission-set.md" target="_blank">사용자에게 부여된 액세스 권한</a> 구입한 시트 수에 따라?</li></td>
    <td>3</td>
   </tr>
