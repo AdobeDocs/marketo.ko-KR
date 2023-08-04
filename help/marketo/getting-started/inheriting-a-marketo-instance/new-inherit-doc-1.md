@@ -3,9 +3,9 @@ description: 문서 1 상속 - Marketo 문서 - 제품 설명서
 title: 문서 1 상속
 hide: true
 hidefromtoc: true
-source-git-commit: 0f34b8ac4283e78027c81bf654d090c5ee78b9ee
+source-git-commit: b06d1d0f8101895ebefeb821150090aac3044870
 workflow-type: tm+mt
-source-wordcount: '1149'
+source-wordcount: '1220'
 ht-degree: 3%
 
 ---
@@ -24,7 +24,7 @@ ht-degree: 3%
 
 ## 사용자 및 역할 {#users-and-roles}
 
-<table style="table-layout:auto"> 
+<table> 
  <tbody> 
   <tr> 
    <th>영역</th> 
@@ -33,22 +33,22 @@ ht-degree: 3%
   </tr> 
   <tr> 
    <td>사용자</td> 
-   <td><li>사용자가 몇 명입니까?</li>
+   <td><li><a href="/help/marketo/product-docs/administration/users-and-roles/managing-marketo-users.md" target="_blank">사용자 수</a> 있습니까?</li>
 <li>만료되어야 하는 사용자가 있습니까?</li>
 <li>회사에 사용자 삭제에 대한 정책이 있습니까?</li> 
-<li>관리자 권한이 있는 사용자는 몇 명입니까?</li>
-<li>그러한 사용자 중 다른 역할로 변경해야 합니까?</li> 
+<li>보유한 사용자 수 <a href="/help/marketo/product-docs/administration/users-and-roles/descriptions-of-role-permissions.md" target="_blank">관리자 권한</a>?</li>
+<li>해당 사용자 중 하나를 (으)로 변경하시겠습니까? <a href="/help/marketo/product-docs/administration/users-and-roles/managing-user-roles-and-permissions.md" target="_blank">다른 역할?</a></li> 
 <li>이 인스턴스의 API 사용자는 누구입니까?</li></td>
    <td>3</td>
   </tr>
   <tr> 
    <td>역할</td> 
    <td><li>역할이 몇 개 있습니까?</li>  
-<li>각 역할에는 어떤 권한/액세스 권한이 있습니까? 조정해야 합니까?</li>
+<li>내용 <a href="/help/marketo/product-docs/administration/users-and-roles/descriptions-of-role-permissions.md" target="_blank">권한/액세스</a> 각 역할에 다음이 있습니까? 조정해야 합니까?</li>
 <li>역할당 사용자가 몇 명입니까?</li>
-<li>사용자들은 얼마나 자주 로그인합니까?</li>
-<li>각 API 사용자에게는 고유한 사용자 역할이 있습니까? 그렇지 않은 경우 이 기능을 구현하여 문제를 더 쉽게 해결할 수 있습니다.</li> 
-<li>사용자 역할 및 권한이 회사 데이터 개인정보 처리방침과 일치합니까?</li></td>
+<li>사용자 빈도 <a href="/help/marketo/product-docs/administration/audit-trail/user-login-history.md" target="_blank">로그인 중</a>?</li>
+<li>각 API 사용자에게는 다음 항목이 있습니까? <a href="/help/marketo/product-docs/administration/users-and-roles/create-an-api-only-user-role.md" target="_blank">사용자 역할 소유</a>? 그렇지 않은 경우 이 기능을 구현하여 문제를 더 쉽게 해결할 수 있습니다.</li> 
+<li>사용자 역할 및 권한이 회사 데이터와 일치합니까? <a href="/help/marketo/product-docs/core-marketo-concepts/miscellaneous/privacy-management.md" target="_blank">개인정보 처리방침</a>?</li></td>
    <td>3</td>
   </tr>
   <tr> 
@@ -59,8 +59,8 @@ ht-degree: 3%
   </tr>
   <tr> 
    <td>샌드박스(해당되는 경우)</td> 
-   <td><li>샌드박스 인스턴스가 있습니까? 그렇다면 샌드박스에 대한 위의 카테고리를 검토하십시오.</li>
-<li>프로그램 가져오기가 샌드박스와 연결되어 있습니까?</li></td>
+   <td><li>가지고 계세요 <a href="/help/marketo/product-docs/core-marketo-concepts/miscellaneous/marketo-sandbox.md" target="_blank">샌드박스 인스턴스</a>? 그렇다면 샌드박스에 대한 위의 카테고리를 검토하십시오.</li>
+<li>다음과 같음 <a href="/help/marketo/product-docs/core-marketo-concepts/programs/working-with-programs/import-a-program.md" target="_blank">프로그램 가져오기</a> 샌드박스와 연결하시겠습니까?</li></td>
    <td>3</td>
   </tr>
  </tbody> 
@@ -77,7 +77,7 @@ ht-degree: 3%
   </tr> 
   <tr> 
    <td>감사 추적</td> 
-   <td><li>인스턴스에서 작업 중인 사람은 누구입니까?</li></td>
+   <td><li><a href="/help/marketo/product-docs/administration/audit-trail/audit-trail-overview.md" target="_blank">작업 중인 사용자</a> 그 사건에서?</li></td>
    <td>3</td>
   </tr>
  </tbody> 
@@ -263,6 +263,25 @@ ht-degree: 3%
 <li>있음 <a href="/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/upgrading/upgrading-your-msi-package.md" target="_blank">최신 버전의 Sales Insight로 업그레이드</a>?</li>
 <li>Sales Insight 구성을 완료했습니까? Enterprise/Unlimited 사용자 <a href="/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/configuration/configure-marketo-sales-insight-in-salesforce-enterprise-unlimited.md" target="_blank">여기를 클릭하십시오</a>, 전문 사용자 <a href="/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/configuration/configure-marketo-sales-insight-in-salesforce-professional-edition.md" target="_blank">여기를 클릭하십시오</a>.</li>
 <li>있음 <a href="/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/configuration/add-sales-insight-permission-set.md" target="_blank">사용자에게 부여된 액세스 권한</a> 구입한 시트 수에 따라?</li></td>
+   <td>3</td>
+  </tr>
+  <tr> 
+   <td>론치 포인트(해당되는 경우)</td> 
+   <td><li>어떤 서비스(웨비나, 광고 등)를 구성했습니까? 유통기한이 임박했나요?</li>
+<li>통합에서 사용하는 API 호출은 몇 개입니까?</li>
+<li>사용 사례에 적합한 통합이 있습니까?</li></td>
+   <td>3</td>
+  </tr>
+  <tr> 
+   <td>Webhooks(해당되는 경우)</td> 
+   <td><li>어떤 연결을 설정했습니까?</li>
+<li>더 이상 사용되지 않습니까?</li></td>
+   <td>3</td>
+  </tr>
+  <tr> 
+   <td>모바일 앱 (해당되는 경우)</td> 
+   <td><li>어떤 모바일 앱을 보유하고 있습니까?</li>
+<li>어떤 테스트 장치가 추가되었습니까?</li></td>
    <td>3</td>
   </tr>
  </tbody> 
