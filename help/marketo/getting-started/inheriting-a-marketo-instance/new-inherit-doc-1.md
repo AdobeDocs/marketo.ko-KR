@@ -3,9 +3,9 @@ description: 문서 1 상속 - Marketo 문서 - 제품 설명서
 title: 문서 1 상속
 hide: true
 hidefromtoc: true
-source-git-commit: b06d1d0f8101895ebefeb821150090aac3044870
+source-git-commit: 518c6a84dafd0882f1112caa0356f04a772832a1
 workflow-type: tm+mt
-source-wordcount: '1220'
+source-wordcount: '1225'
 ht-degree: 3%
 
 ---
@@ -94,11 +94,11 @@ ht-degree: 3%
   </tr> 
   <tr> 
    <td>작업 공간 및 파티션</td> 
-   <td><li>보유한 작업 공간 및/또는 파티션은 몇 개입니까?</li>
+   <td><li>몇 개 <a href="/help/marketo/product-docs/administration/workspaces-and-person-partitions/understanding-workspaces-and-person-partitions.md" target="_blank">작업 영역 및/또는 파티션</a> 가지고 있어?</li>
 <li>각 작업 공간 및 파티션의 주요 목적은 무엇입니까?</li>
-<li>감사를 받거나 변경해야 합니까?</li>
+<li>다음 중 하나를 수행합니다. <a href="/help/marketo/product-docs/administration/workspaces-and-person-partitions/edit-a-workspace.md" target="_blank">작업 공간</a> 또는 <a href="/help/marketo/product-docs/administration/workspaces-and-person-partitions/edit-an-existing-person-partition.md" target="_blank">파티션</a> 감사/변경이 필요하십니까?</li>
 <li>작업 영역과 파티션 간의 관계는 무엇입니까?</li>
-<li>각 작업 영역에 액세스할 수 있는 사용자는 몇 명입니까?</li></td>
+<li>사용자 수 <a href="/help/marketo/product-docs/administration/workspaces-and-person-partitions/allow-user-access-to-a-workspace.md" target="_blank">액세스 권한 있음</a> 각 작업 영역에 대해?</li></td>
    <td>3</td>
   </tr>
   <tr> 
@@ -121,7 +121,7 @@ ht-degree: 3%
   </tr> 
   <tr> 
    <td>스마트 캠페인 설정</td> 
-   <td><li>스마트 캠페인 크기에 대한 제한이 있습니까?</li>
+   <td><li><a href="/help/marketo/product-docs/administration/email-setup/enable-person-restrictions-for-smart-campaigns.md" target="_blank">제한이 있나요</a> 스마트 캠페인 크기</li>
 <li>그렇지 않으면 한 개를 추가하는 것이 좋습니다. 스마트 캠페인 제한을 데이터베이스의 25%로 제한하여 과도한 커뮤니케이션이나 워크플로우에서 전체 데이터베이스를 처리하지 않도록 함으로써 브랜드를 보호할 뿐만 아니라 인스턴스의 성능을 보호하는 것이 좋습니다.</li></td>
    <td>3</td>
   </tr>
@@ -139,8 +139,8 @@ ht-degree: 3%
   </tr> 
   <tr> 
    <td>커뮤니케이션 제한</td> 
-   <td><li>제한이 있나요? 귀사의 비즈니스에 통신 제한이 필요할 수 있는 정책이 있습니까?</li>
-<li>Adobe은 비운영 이메일을 차단하여 하루에 1회, 7일에 3회로 커뮤니케이션을 제한하는 것을 권장합니다.</li></td>
+   <td><li>거기 있습니까 <a href="/help/marketo/product-docs/administration/email-setup/enable-communication-limits.md" target="_blank">커뮤니케이션 제한</a> 제자리에? 귀사의 비즈니스에 통신 제한이 필요할 수 있는 정책이 있습니까?</li>
+<li>Adobe은 하루에 1회, 7일에 3회로 커뮤니케이션을 제한할 것을 권장합니다. <b>비</b>-<a href="/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/make-an-email-operational.md" target="_blank">작동-</a> 이메일이 차단되었습니다.</li></td>
    <td>3</td>
   </tr>
  </tbody> 
@@ -163,8 +163,8 @@ ht-degree: 3%
   </tr>
   <tr> 
    <td>채널</td> 
-   <td><li>채널이 몇 개나 됩니까? 몇 대가 사용 중입니까?</li>
-<li>모든 채널 프로그램 상태가 적절합니까? 프로그램 내에서 진행 상황을 표시합니까?</li>
+   <td><li>몇 개 <a href="/help/marketo/product-docs/administration/tags/create-a-program-channel.md" target="_blank">채널</a> 있습니까? 몇 대가 사용 중입니까?</li>
+<li>모두 <a href="/help/marketo/product-docs/administration/tags/hide-unhide-a-program-channel.md" target="_blank">적절한 채널 프로그램 상태</a>? 프로그램 내에서 진행 상황을 표시합니까?</li>
 <li>특정 프로그램 유형과 관련된 채널?</li>
 <li>각 채널에 대해 성공으로 간주되는 상태는 무엇입니까? 이것이 마케팅 목표와 일치합니까?</li>
 <li>운영 채널이 적절하게 사용되고 있습니까?</li>
