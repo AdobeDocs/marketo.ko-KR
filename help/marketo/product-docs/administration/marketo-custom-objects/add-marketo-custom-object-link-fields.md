@@ -4,9 +4,9 @@ description: Marketo 사용자 지정 개체 링크 필드 추가 - Marketo 문�
 title: Marketo 사용자 지정 개체 링크 필드 추가
 exl-id: e7537d79-9fca-4966-881a-9d7d312008e2
 feature: Custom Objects
-source-git-commit: 02b2e39580c5eac63de4b4b7fdaf2a835fdd4ba5
+source-git-commit: 1dbe820e126f92ce5820e38414925605372a4b09
 workflow-type: tm+mt
-source-wordcount: '599'
+source-wordcount: '702'
 ht-degree: 0%
 
 ---
@@ -17,6 +17,10 @@ ht-degree: 0%
 
 * 일대다 사용자 지정 구조의 경우 사용자 지정 개체의 링크 필드를 사용하여 개인 또는 회사에 연결합니다.
 * 다대다 구조의 경우 별도로 만든 중간 개체(사용자 지정 개체의 유형이기도 함)에서 연결된 두 개의 링크 필드를 사용합니다. 한 링크는 데이터베이스의 사람 또는 회사에 연결되고 다른 링크는 사용자 지정 개체에 연결됩니다. 이 경우 링크 필드는 사용자 지정 개체 자체에 있지 않습니다.
+
+>[!IMPORTANT]
+>
+>Marketo Engage은 다대다 관계의 각 브리지 객체에 대해 단일 에지 객체만 지원합니다. 아래 샘플에서 각 등록은 단일 과정에만 연결할 수 있습니다. 그러나 각 과정에 많은 학생이 등록(다대일 관계)한 것처럼 Edge 객체마다 Bridge 객체가 많을 수 있습니다. 각 Bridge 개체 레코드(일대다 또는 다대다)에 대해 두 개 이상의 Edge 개체 레코드가 존재하도록 사용자 지정 개체 데이터를 구조화한 경우, 각 레코드가 단일 Edge 개체 레코드를 참조하는 여러 Bridge 개체 레코드를 만들어 Marketo에서 해당 데이터를 나타낼 수 있습니다.
 
 ## 일대다 구조에 대한 링크 필드 만들기 {#create-a-link-field-for-a-one-to-many-structure}
 

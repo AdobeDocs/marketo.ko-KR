@@ -4,9 +4,9 @@ title: 현재 릴리스 노트 임시
 hide: true
 hidefromtoc: true
 feature: Release Information
-source-git-commit: 518c6a84dafd0882f1112caa0356f04a772832a1
+source-git-commit: 1dbe820e126f92ce5820e38414925605372a4b09
 workflow-type: tm+mt
-source-wordcount: '927'
+source-wordcount: '929'
 ht-degree: 2%
 
 ---
@@ -313,7 +313,7 @@ ht-degree: 2%
   </tbody>
 </table>
 
-* **새 활동에 대한 트리거 토큰**: Dynamic Chat을 위한 새 활동을 지원하는 새 트리거 토큰입니다.
+* **새 활동에 대한 트리거 토큰**: Dynamic Chat을 위한 새 활동을 지원하는 데 새 트리거 토큰을 사용할 수 있습니다.
 
 <table> 
   <tr> 
