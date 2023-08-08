@@ -3,7 +3,7 @@ description: 문서 1 상속 - Marketo 문서 - 제품 설명서
 title: 문서 1 상속
 hide: true
 hidefromtoc: true
-source-git-commit: 518c6a84dafd0882f1112caa0356f04a772832a1
+source-git-commit: e912b9112fc9fc3d72428e23b16de058874e8c21
 workflow-type: tm+mt
 source-wordcount: '1225'
 ht-degree: 3%
@@ -157,13 +157,13 @@ ht-degree: 3%
   </tr> 
   <tr> 
    <td>태그</td> 
-   <td><li>태그가 몇 개 있습니까? 몇 개의 태그가 사용 중입니까? 추가해야 합니까?</li>
+   <td><li><a href="/help/marketo/product-docs/administration/tags/create-a-new-program-tag-and-tag-values.md" target="_blank">태그 수</a> 있습니까? 몇 개의 태그가 사용 중입니까? 추가해야 합니까?</li>
 <li>프로그램 내에 태그가 필요합니까?</li></td>
    <td>3</td>
   </tr>
   <tr> 
    <td>채널</td> 
-   <td><li>몇 개 <a href="/help/marketo/product-docs/administration/tags/create-a-program-channel.md" target="_blank">채널</a> 있습니까? 몇 대가 사용 중입니까?</li>
+   <td><li><a href="/help/marketo/product-docs/administration/tags/create-a-program-channel.md" target="_blank">채널 수</a> 있습니까? 몇 대가 사용 중입니까?</li>
 <li>모두 <a href="/help/marketo/product-docs/administration/tags/hide-unhide-a-program-channel.md" target="_blank">적절한 채널 프로그램 상태</a>? 프로그램 내에서 진행 상황을 표시합니까?</li>
 <li>특정 프로그램 유형과 관련된 채널?</li>
 <li>각 채널에 대해 성공으로 간주되는 상태는 무엇입니까? 이것이 마케팅 목표와 일치합니까?</li>
@@ -173,7 +173,7 @@ ht-degree: 3%
   </tr>
   <tr> 
    <td>마케팅 달력(해당되는 경우)</td> 
-   <td><li>달력 항목 유형은 몇 가지입니까? 그들 모두 여전히 관련이 있습니까?</li></td>
+   <td><li>몇 개 <a href="/help/marketo/product-docs/core-marketo-concepts/marketing-calendar/understanding-the-calendar/navigating-the-marketing-calendar.md" target="_blank">달력 항목 유형</a> 있습니까? 그들 모두 여전히 관련이 있습니까?</li></td>
    <td>3</td>
   </tr>
  </tbody> 
@@ -190,25 +190,25 @@ ht-degree: 3%
   </tr> 
   <tr> 
    <td>필드 관리</td> 
-   <td><li>몇 개의 필드가 있습니까? 필드, 사용자 정의 필드 및 API 이름 목록을 검토하려면 "필드 이름 내보내기"를 클릭합니다.</li>
-<li>사용자 정의 필드는 몇 개입니까?</li>
-<li>얼마나 많은 필드가 사용되고 있습니까? 필드의 관련 에셋을 검토하려면 필드 작업 드롭다운에서 "Export Used By"를 선택합니다.</li>
+   <td><li>몇 개의 필드가 있습니까? 클릭 <a href="/help/marketo/product-docs/administration/field-management/export-a-list-of-all-marketo-api-field-names.md" target="_blank">필드 이름 내보내기</a> 필드, 사용자 정의 필드 및 해당 API 이름 목록을 검토하려면</li>
+<li>몇 개 <a href="/help/marketo/product-docs/administration/field-management/create-a-custom-field-in-marketo.md" target="_blank">사용자 정의 필드</a> 있습니까?</li>
+<li>얼마나 많은 필드가 사용되고 있습니까? 선택 <a href="/help/marketo/product-docs/administration/field-management/export-used-by-data-for-a-field.md" target="_blank">내보내기 사용</a> 필드 작업 드롭다운에서 필드의 관련 에셋을 검토합니다.</li>
 <li>Marketo Engage과 CRM 간에 몇 개가 동기화됩니까?</li>
 <li>CRM 필드가 적절한 오브젝트에 동기화됩니까?</li>
-<li>개인 세부 사항에 대한 사용자 정의 보기가 설정되어 있습니까? 있어야 하나?</li>
+<li>다음 항목이 있습니까? <a href="/help/marketo/product-docs/administration/settings/creating-a-custom-tab-for-the-person-detail-page.md" target="_blank">사용자 정의 보기 집합</a> 사용자 세부 사항? 있어야 하나?</li>
 <li>소스를 기반으로 필드에 대한 이름 지정 규칙이 있습니까? 그렇지 않으면 이를 구현하는 것이 좋습니다.</li>
-<li>차단된 필드가 있습니까? 그 이유가 무엇인지 반드시 알아두십시오.</li></td>
+<li>필드가 있습니까 <a href="/help/marketo/product-docs/administration/field-management/block-updates-to-a-field.md" target="_blank">차단됨</a>? 그 이유가 무엇인지 반드시 알아두십시오.</li></td>
    <td>3</td>
   </tr>
   <tr> 
    <td>사용자 지정 활동</td> 
-   <td><li>사용자 지정 활동이 있습니까?</li>
+   <td><li>혹시 있습니까 <a href="/help/marketo/product-docs/administration/marketo-custom-activities/understanding-custom-activities.md" target="_blank">사용자 지정 활동</a>?</li>
 <li>그렇다면 이러한 활동을 클릭하여 Marketo 양식, 이메일 또는 랜딩 페이지와 관련이 없는 활동을 이해합니다.</li></td>
    <td>3</td>
   </tr>
   <tr> 
    <td>사용자 지정 개체</td> 
-   <td><li>사용자 지정 개체가 몇 개 있습니까? CRM에 동기화되는 방법은 무엇입니까?</li>
+   <td><li>몇 개 <a href="/help/marketo/product-docs/administration/marketo-custom-objects/understanding-marketo-custom-objects.md" target="_blank">사용자 지정 개체</a> 있습니까? CRM에 동기화되는 방법은 무엇입니까?</li>
 <li>프로그램 및 목록 쿼리에서 이러한 사용자 지정 개체를 어떻게 활용합니까?</li></td>
    <td>3</td>
   </tr>
