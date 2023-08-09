@@ -3,9 +3,9 @@ description: 문서 1 상속 - Marketo 문서 - 제품 설명서
 title: 문서 1 상속
 hide: true
 hidefromtoc: true
-source-git-commit: e912b9112fc9fc3d72428e23b16de058874e8c21
+source-git-commit: 5892d119745772a9d4e7869e7c4be7318c65fd19
 workflow-type: tm+mt
-source-wordcount: '1225'
+source-wordcount: '1240'
 ht-degree: 3%
 
 ---
@@ -233,26 +233,26 @@ ht-degree: 3%
   </tr>
   <tr> 
    <td>랜딩 페이지</td> 
-   <td><li>으로 설정된 도메인은 무엇입니까?</li>
-<li>대체 (fallback) 은 무엇으로 설정됩니까?</li>
-<li>홈페이지가 무엇으로 설정되어 있습니까?</li>
+   <td><li>이란? <a href="/help/marketo/product-docs/administration/settings/edit-landing-page-settings.md" target="_blank">도메인으로 설정됨</a>?</li>
+   <li>홈페이지가 무엇으로 설정되어 있습니까?</li>
+<li>이란? <a href="/help/marketo/product-docs/administration/settings/set-a-fallback-page.md" target="_blank">대체 (으)로 설정됨</a>?</li>
 <li>양식 미리 채우기가 활성화되었습니까?</li>
-<li>개인화된 URL이 활성화됩니까?</li>
-<li>리디렉션에 대한 규칙이 설정되어 있습니까?</li>
+<li>다음과 같음 <a href="/help/marketo/product-docs/demand-generation/landing-pages/personalizing-landing-pages/enable-personalized-urls-for-your-account.md" target="_blank">개인화된 URL</a> 활성화하시겠습니까?</li>
+<li>다음에 대한 규칙이 설정되어 있습니까? <a href="/help/marketo/product-docs/demand-generation/landing-pages/landing-page-actions/redirect-a-marketo-landing-page-to-another-page.md" target="_blank">리디렉션</a>?</li>
 <li>도메인 별칭을 사용할 수 있습니까? 도메인 별칭을 활용하는 방법을 설명서를 통해 추적하고 있습니까?</li>
-<li>랜딩 페이지의 보안 도메인이 활성화되어 있습니까? 랜딩 페이지 에셋에 "http" URL이 포함되어 있는지 확인합니다.</li></td>
+<li>다음과 같음 <a href="https://nation.marketo.com/t5/knowledgebase/setting-up-secured-domains-for-marketo-landing-pages-first-time/ta-p/250370" target="_blank">랜딩 페이지의 보안 도메인</a> 활성화하시겠습니까? 랜딩 페이지 에셋에 "http" URL이 포함되어 있는지 확인합니다.</li></td>
    <td>3</td>
   </tr>
   <tr> 
    <td>먼치킨</td> 
-   <td><li>Munchkin 추적 코드가 웹 사이트(Marketo이 아님)에 있습니까?</li>
-<li>"Do Not Track" 브라우저 요청이 활성화되어 있습니까?</li>
-<li>Munchkin API가 구성되어 있습니까? 웹 사이트에서 munchkin 코드가 있는 위치에 대한 설명서가 없는 경우 기본 'Analytics'의 '웹 분석 보고서'를 사용하여 빠른 보기를 시작하여 웹 사이트 전체에서 Munchkin 코드가 있는 위치를 파악합니다.</li></td>
+   <td><li>본인 <a href="/help/marketo/product-docs/administration/additional-integrations/add-munchkin-tracking-code-to-your-website.md" target="_blank">Munchkin 추적 코드</a> 웹 사이트에서(Marketo에서는 아님)?</li>
+<li>다음 값: <a href="/help/marketo/product-docs/administration/settings/edit-do-not-track-browser-support-settings.md" target="_blank">추적 안 함</a> 브라우저 요청이 활성화되었습니까?</li>
+<li>본인 <a href="https://developers.marketo.com/javascript-api/lead-tracking/" target="_blank">Munchkin API</a> 구성됨? 웹 사이트에서 munchkin 코드가 있는 위치에 대한 설명서가 없는 경우 기본 'Analytics'의 '웹 분석 보고서'를 사용하여 빠른 보기를 시작하여 웹 사이트 전체에서 Munchkin 코드가 있는 위치를 파악합니다.</li></td>
    <td>3</td>
   </tr>
   <tr> 
    <td>웹 서비스</td> 
-   <td><li>IP 제한이 활성화되어 있습니까? 그래야 하나?</li>
+   <td><li>다음과 같음 <a href="/help/marketo/product-docs/administration/additional-integrations/create-an-allowlist-for-ip-based-api-access.md" target="_blank">IP 제한 사항</a> 활성화하시겠습니까? 그래야 하나?</li>
 <li>인스턴스에서 API를 호출하는 사용자/앱은 무엇입니까?</li>
 <li>API 제한에 도달하고 있습니까, 거의 도달하고 있습니까? 그런 경우에는 API를 늘리거나 인스턴스를 감사하여 해당 API 호출을 줄여 보십시오.</li></td>
    <td>3</td>
@@ -267,21 +267,21 @@ ht-degree: 3%
   </tr>
   <tr> 
    <td>론치 포인트(해당되는 경우)</td> 
-   <td><li>어떤 서비스(웨비나, 광고 등)를 구성했습니까? 유통기한이 임박했나요?</li>
-<li>통합에서 사용하는 API 호출은 몇 개입니까?</li>
+   <td><li>구성한 서비스(예: <a href="/help/marketo/product-docs/administration/additional-integrations/add-adobe-connect-as-a-launchpoint-service.md" target="_blank">Adobe Connect</a>, <a href="/help/marketo/product-docs/administration/additional-integrations/add-zoom-as-a-launchpoint-service.md" target="_blank">확대/축소</a>등)? 유통기한이 임박했나요?</li>
+<li><a href="https://nation.marketo.com/t5/knowledgebase/viewing-your-number-of-api-calls-to-marketo/ta-p/254256" target="_blank">API 호출 수</a> 통합에서 을 사용 중입니까?</li>
 <li>사용 사례에 적합한 통합이 있습니까?</li></td>
    <td>3</td>
   </tr>
   <tr> 
    <td>Webhooks(해당되는 경우)</td> 
-   <td><li>어떤 연결을 설정했습니까?</li>
+   <td><li><a href="/help/marketo/product-docs/administration/additional-integrations/create-a-webhook.md" target="_blank">연결</a> 설정이 되어 있습니까?</li>
 <li>더 이상 사용되지 않습니까?</li></td>
    <td>3</td>
   </tr>
   <tr> 
    <td>모바일 앱 (해당되는 경우)</td> 
-   <td><li>어떤 모바일 앱을 보유하고 있습니까?</li>
-<li>어떤 테스트 장치가 추가되었습니까?</li></td>
+   <td><li>대상 <a href="/help/marketo/product-docs/mobile-marketing/admin/add-a-mobile-app.md" target="_blank">모바일 앱</a> 가지고 있어?</li>
+<li>모두 있음 <a href="/help/marketo/product-docs/mobile-marketing/push-notifications/adding-a-new-test-device.md" target="_blank">테스트 장치</a>  추가되었습니까?</li></td>
    <td>3</td>
   </tr>
  </tbody> 
@@ -298,13 +298,13 @@ ht-degree: 3%
   </tr> 
   <tr> 
    <td>보물상자</td> 
-   <td><li>보물상자에는 무엇이 작동되고 있나요?</li>
+   <td><li>에서 켜진 항목 <a href="/help/marketo/product-docs/administration/settings/enable-or-disable-treasure-chest-features.md" target="_blank">보물상자</a>?</li>
 <li>켜거나 꺼야 하는 기능이 있습니까?</li></td>
    <td>3</td>
   </tr>
   <tr> 
    <td>캠페인 검사자</td> 
-   <td><li>Campaign Inspector가 켜져 있습니까?</li>
+   <td><li>다음과 같음 <a href="/help/marketo/product-docs/administration/settings/campaign-inspector.md" target="_blank">캠페인 검사자</a> 켜졌나요?</li>
 <li>활성화되지 않은 경우 켜서 활성화된 캠페인을 쉽게 식별하고 CRM과 동기화하거나 레코드를 삭제하는 것이 좋습니다.</li></td>
    <td>3</td>
   </tr>
@@ -318,28 +318,23 @@ ht-degree: 3%
   <tr> 
    <th>영역</th> 
    <th>리뷰 포커스</th>
-   <th>열 3</th>
   </tr> 
   <tr> 
    <td>Marketo Engage 상태 업데이트</td> 
-   <td><li>인스턴스가 Marketo Engage 상태 업데이트에 등록되었습니까?</li></td>
-   <td>3</td>
+   <td><li>인스턴스 등록됨 대상 <a href="https://status.adobe.com/" target="_blank">Marketo Engage 상태 업데이트</a>?</li></td>
   </tr>
   <tr> 
    <td>승인된 연락처</td> 
-   <td><li>지원 포털에서 적절한 공인 연락처를 설정했습니까?</li></td>
-   <td>3</td>
+   <td><li>적절한 설정을 하셨습니까 <a href="/help/marketo/getting-started/setup/setup-steps.md#set-up-your-authorized-support-contacts" target="_blank">승인된 연락처</a> 지원 포털에서?</li></td>
   </tr>
   <tr> 
    <td>경고</td> 
-   <td><li>Marketo Engage에서 내부 팀으로 전송되는 활성 경고가 있습니까?</li>
+   <td><li>혹시 있습니까 <a href="/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/send-alert.md" target="_blank">활성 경고</a> Marketo Engage에서 내부 팀으로 전송됩니까?</li>
 <li>그렇다면 해당 경고가 적절하게 작동하고 있습니까?</li></td>
-   <td>3</td>
   </tr>
   <tr> 
    <td>알림</td> 
-   <td><li>적절한 관리자 알림을 구독하십니까?</li></td>
-   <td>3</td>
+   <td><li>적절한 관리자를 구독하고 있습니까 <a href="/help/marketo/product-docs/core-marketo-concepts/miscellaneous/understanding-notifications.md" target="_blank">알림</a>?</li></td>
   </tr>
  </tbody> 
 </table>
