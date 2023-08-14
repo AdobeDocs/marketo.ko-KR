@@ -3,10 +3,10 @@ description: 문서 2 상속 - Marketo 문서 - 제품 설명서
 title: 문서 2 상속
 hide: true
 hidefromtoc: true
-source-git-commit: 5892d119745772a9d4e7869e7c4be7318c65fd19
+source-git-commit: cc87ecb8d3245734ec0ce984eeccf742833a85d2
 workflow-type: tm+mt
-source-wordcount: '295'
-ht-degree: 8%
+source-wordcount: '383'
+ht-degree: 1%
 
 ---
 
@@ -28,13 +28,13 @@ ht-degree: 8%
   </tr> 
   <tr> 
    <td>모든 사람</td> 
-   <td><li>데이터베이스에 몇 명이 있습니까?</li>
+   <td><li>에 존재하는 사람 수 <a href="/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/managing-people-in-smart-lists/database-dashboard.md" target="_blank">데이터베이스</a>?</li>
 <li>데이터베이스가 거의 꽉 찼을 경우 회사 정책에서 데이터베이스 크기를 확장하거나 기록 데이터를 정리하는 것이 좋습니까?</li>
 <li>전체 데이터베이스가 최소 85%의 시장성을 갖추고 있습니까? 이 임계값에 해당하면 다른 시스템 스마트 목록(차단 목록 중복, 마케팅 중단, 구독 취소)을 더 자세히 살펴보십시오.</li></td>
   </tr>
   <tr> 
    <td>구독 취소된 사람</td> 
-   <td><li>구독 취소한 사람에 대한 기준은 무엇입니까? 구독 취소자가 너무 많습니까?</li>
+   <td><li>다음에 대한 기준은 무엇입니까? <a href="/help/marketo/product-docs/email-marketing/deliverability/durable-unsubscribe.md" target="_blank">구독 취소된 사람</a>? 구독 취소자가 너무 많습니까?</li>
 <li>구독 취소 방법이 데이터 개인 정보 보호 요구 사항과 일치합니까?</li>
 <li>구독 취소 기본 설정이 최신 상태입니까? 데이터베이스에 얼마나 오랫동안 마케팅할 수 없는 레코드가 남아 있습니까?</li></td>
   </tr>
@@ -72,16 +72,10 @@ ht-degree: 8%
    <th>리뷰 포커스</th>
   </tr> 
   <tr> 
-   <td>1</td> 
-   <td>2</td>
-  </tr>
-  <tr> 
-   <td>1</td> 
-   <td>2</td>
-  </tr>
-  <tr> 
-   <td>1</td> 
-   <td>2</td>
+   <td>스마트 목록 그룹화</td> 
+   <td><li>어떤 그룹의 스마트 목록이 있습니까? 이 인스턴스에서는 어떻게 사용됩니까?</li>
+<li>목록은 일관된 폴더 구조로 구성되어 있습니까? 고아 목록이 있는 경우 에셋을 쉽게 찾을 수 있도록 트리 구성을 고려하십시오.</li>
+<p>팁: 조직 및 성능에 도움이 되도록 쿼리, 보고 또는 참조에 더 이상 필요하지 않은 스마트 목록을 보관하십시오.</td>
   </tr>
  </tbody> 
 </table>
@@ -95,16 +89,9 @@ ht-degree: 8%
    <th>리뷰 포커스</th>
   </tr> 
   <tr> 
-   <td>1</td> 
-   <td>2</td>
-  </tr>
-  <tr> 
-   <td>1</td> 
-   <td>2</td>
-  </tr>
-  <tr> 
-   <td>1</td> 
-   <td>2</td>
+   <td>그룹 목록</td> 
+   <td><li>어떤 그룹리스트가 있나요?</li>
+<li>이 인스턴스에서는 어떻게 사용됩니까?</li></td>
   </tr>
  </tbody> 
 </table>
@@ -118,16 +105,10 @@ ht-degree: 8%
    <th>리뷰 포커스</th>
   </tr> 
   <tr> 
-   <td>1</td> 
-   <td>2</td>
-  </tr>
-  <tr> 
-   <td>1</td> 
-   <td>2</td>
-  </tr>
-  <tr> 
-   <td>1</td> 
-   <td>2</td>
+   <td>세그먼트화</td> 
+   <td><li>대상 <a href="/help/marketo/product-docs/personalization/segmentation-and-snippets/segmentation/create-a-segmentation.md" target="_blank">세분화</a> 있습니까? 어떻게 사용하고 있습니까?</li>
+<li>너무 많은 사람이 있습니까 <a href="/help/marketo/product-docs/personalization/segmentation-and-snippets/segmentation/segmentation-order-priority.md" target="_blank">기본 세그먼트</a>?</li>
+<li>마케팅 가능한 대상을 위한 세그먼테이션이 있습니까? 그렇지 않으면 새로 만드는 것이 좋습니다.</li></td>
   </tr>
  </tbody> 
 </table>
