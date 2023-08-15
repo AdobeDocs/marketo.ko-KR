@@ -4,10 +4,10 @@ description: 랜딩 페이지 설정 편집 - Marketo 문서 - 제품 설명서
 title: 랜딩 페이지 설정 편집
 exl-id: 019b4651-3a66-46f9-8722-66af30194380
 feature: Administration, Landing Pages
-source-git-commit: 02b2e39580c5eac63de4b4b7fdaf2a835fdd4ba5
+source-git-commit: 43565104a7f6512d2f99eae6bc47e1ae048b2231
 workflow-type: tm+mt
-source-wordcount: '259'
-ht-degree: 0%
+source-wordcount: '231'
+ht-degree: 1%
 
 ---
 
@@ -45,10 +45,6 @@ ht-degree: 0%
 
    ![](assets/edit-landing-page-settings-5.png)
 
-1. 악성 사이트가 콘텐츠를 호스팅하지 못하도록 하려면 **[!UICONTROL Marketo 페이지를 외부 웹 페이지에 포함할 수 없음]** 확인란.
-
-   ![](assets/edit-landing-page-settings-6.png)
-
    >[!NOTE]
    >
    >미리 채우기를 원하는 경우 `<script>` 태그 끝에 표시 `<head>` 코드에서 태그를 지정한 경우 **[!UICONTROL 헤드 끝에 미리 채우기 스크립트 삽입]** 상자. 시작 부분에 표시하려면 선택하지 않은 상태로 둡니다.
@@ -57,6 +53,6 @@ ht-degree: 0%
 
 1. 선택한 후 다음을 클릭합니다. **[!UICONTROL 저장]**.
 
-   ![](assets/edit-landing-page-settings-7.png)
+   ![](assets/edit-landing-page-settings-6.png)
 
-   잘했어! 이제 랜딩 페이지에 올바른 정보가 있으므로 즉시 작업을 시작해야 합니다.
+   좋습니다! 이제 랜딩 페이지에 올바른 정보가 있으므로 즉시 작업을 시작해야 합니다.
