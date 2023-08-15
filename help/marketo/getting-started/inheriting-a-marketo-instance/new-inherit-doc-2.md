@@ -3,9 +3,9 @@ description: 문서 2 상속 - Marketo 문서 - 제품 설명서
 title: 문서 2 상속
 hide: true
 hidefromtoc: true
-source-git-commit: cc87ecb8d3245734ec0ce984eeccf742833a85d2
+source-git-commit: e5fe19bd17e3da7991b09dfa17beb05d4efd58f6
 workflow-type: tm+mt
-source-wordcount: '383'
+source-wordcount: '384'
 ht-degree: 1%
 
 ---
@@ -40,13 +40,13 @@ ht-degree: 1%
   </tr>
   <tr> 
    <td>마케팅 중단</td> 
-   <td><li>마케팅 중단 기준은 무엇입니까? 마케팅이 중단된 사람이 너무 많나요?</li>
+   <td><li>다음에 대한 기준은 무엇입니까? <a href="/help/marketo/product-docs/email-marketing/deliverability/durable-unsubscribe.md#marketing-suspended" target="_blank">마케팅 일시 중단됨</a>? 마케팅이 중단된 사람이 너무 많나요?</li>
 <li>얼마나 오랫동안 마케팅 중단 상태에 남아 있습니까?</li>
 <p>마케팅 중단 사용 사례 예: 마케팅 커뮤니케이션을 억제하려는 지연 단계 기회의 영업과 관련하여 활발한 활동을 하는 레코드.</td>
   </tr>
    <tr> 
    <td>차단 목록</td> 
-   <td><li>차단 목록에 추가하다 기준은 무엇입니까? 차단 목록에 추가된으로 받는 사람이 너무 많은가요?</li></td>
+   <td><li>다음에 대한 기준은 무엇입니까? <a href="/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/managing-people-in-smart-lists/add-person-to-blocklist.md" target="_blank">차단 목록에 추가 레코드</a>? 차단 목록에 추가된으로 받는 사람이 너무 많은가요?</li></td>
   </tr>
   <tr> 
    <td>반송된 이메일 주소</td> 
@@ -54,11 +54,11 @@ ht-degree: 1%
   </tr>
   <tr> 
    <td>가능한 중복 항목</td> 
-   <td><li>복제될 가능성이 있는 레코드는 몇 개입니까? 이를 삭제하거나 병합하는 것이 좋습니다.</li></td>
+   <td><li>몇 개 <a href="/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/managing-people-in-smart-lists/find-and-merge-duplicate-people.md" target="_blank">중복 레코드 발생 가능</a> 있습니까? 이를 삭제하거나 병합하는 것이 좋습니다.</li></td>
   </tr>
    <tr> 
    <td>획득 프로그램 없음</td> 
-   <td><li>고객 확보 프로그램이 없는 사람은 몇 명입니까? 만약 많다면, 이유를 조사하는 것을 고려하세요.</li></td>
+   <td><li>얼마나 많은 사람들이 <a href="/help/marketo/product-docs/core-marketo-concepts/programs/creating-programs/understanding-program-membership.md#acquisition-program" target="_blank">고객 확보 프로그램</a>? 만약 많다면, 이유를 조사하는 것을 고려하세요.</li></td>
   </tr>
  </tbody> 
 </table>
@@ -75,7 +75,7 @@ ht-degree: 1%
    <td>스마트 목록 그룹화</td> 
    <td><li>어떤 그룹의 스마트 목록이 있습니까? 이 인스턴스에서는 어떻게 사용됩니까?</li>
 <li>목록은 일관된 폴더 구조로 구성되어 있습니까? 고아 목록이 있는 경우 에셋을 쉽게 찾을 수 있도록 트리 구성을 고려하십시오.</li>
-<p>팁: 조직 및 성능에 도움이 되도록 쿼리, 보고 또는 참조에 더 이상 필요하지 않은 스마트 목록을 보관하십시오.</td>
+<p>팁: <a href="/help/marketo/product-docs/core-marketo-concepts/miscellaneous/understanding-folders.md#archive-a-folder" target="_blank">보관</a> 조직 및 성능에 도움이 되도록 더 이상 쿼리, 보고 또는 참조에 필요하지 않은 스마트 목록을 그룹화합니다.</td>
   </tr>
  </tbody> 
 </table>

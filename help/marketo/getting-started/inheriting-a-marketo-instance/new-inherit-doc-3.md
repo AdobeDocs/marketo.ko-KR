@@ -3,10 +3,10 @@ description: 문서 3 상속 - Marketo 문서 - 제품 설명서
 title: 문서 3 상속
 hide: true
 hidefromtoc: true
-source-git-commit: fe18bd1c759bd7442723a1a6326b786203c62fd0
+source-git-commit: e5fe19bd17e3da7991b09dfa17beb05d4efd58f6
 workflow-type: tm+mt
-source-wordcount: '188'
-ht-degree: 48%
+source-wordcount: '777'
+ht-degree: 0%
 
 ---
 
@@ -18,272 +18,148 @@ ht-degree: 48%
 >
 >새로운 Marketo Engage 사용자이고 많은 용어를 잘 모를 경우 [Marketo 용어](/help/marketo/getting-started/marketo-glossary.md){target="_blank"}.
 
-## 사용자 및 역할 {#users-and-roles}
+## 조직 {#organization}
 
 <table style="table-layout:auto"> 
  <tbody> 
   <tr> 
-   <th>열 1</th> 
-   <th>열 2</th>
-   <th>열 3</th>
+   <th>영역</th> 
+   <th>리뷰 포커스</th>
   </tr> 
   <tr> 
-   <td>1</td> 
-   <td>2</td>
-   <td>3</td>
+   <td>이름 지정 규칙</td> 
+   <td><li>프로그램에 일관된 명명 규칙이 있습니까?</li></td>
   </tr>
   <tr> 
-   <td>1</td> 
-   <td>2</td>
-   <td>3</td>
+   <td>폴더 구조</td> 
+   <td><li>폴더 구조가 일관되고 검색하기 쉽습니까?</li></td>
   </tr>
   <tr> 
-   <td>1</td> 
-   <td>2</td>
-   <td>3</td>
+   <td>프로그램</td> 
+   <td><li>프로그램 템플릿을 갖춘 Center of Excellence 가 있습니까? 그렇다면 팀의 사용 사례에 맞게 프로그램 템플릿을 사용할 수 있습니까?</li>
+<li>유사한 프로그램 유형이 일관되게 구성되어 있습니까?</li>
+<li>기간 비용이 적용됩니까?</li>
+<li>모든 프로그램이 SFDC 캠페인에 동기화됩니까(해당하는 경우)?</li>
+<li>확보 프로그램을 사람에게 할당하는 흐름 단계가 있습니까?</li></td>
+  </tr>
+  <tr> 
+   <td>보관</td> 
+   <td><li>이전 프로그램이 보관됩니까? 가장 좋은 방법은 매년 복습하는 것이다.</li>
+<li>귀사는 오래된 프로그램을 얼마나 자주 검토하고 아카이빙합니까?</li></td>
+  </tr>
+  <tr> 
+   <td>알림</td> 
+   <td><li>인스턴스 상단의 알림 탭에 캠페인 오류가 있습니까?</li>
+<li>향후 발생할 수 있는 모든 오류를 방지하기 위해 알림을 구독하고 있습니까?</li></td>
+  </tr>
+  <tr> 
+   <td>스마트 목록 구독 
+   <br/>(마케팅 활동/구독 탭)</td> 
+   <td><li>인스턴스에 진행 중인 스마트 목록 구독이 있습니까? 그렇다면 그들은 누구에게 갈 것입니까?</li>
+<li>개인이 아닌 팀 별칭으로 이동하려면 스마트 목록 구독을 설정하는 것이 좋습니다. 이것은 개인이 휴가 중이거나 떠날 경우를 대비하여 귀하를 포함합니다.</li></td>
   </tr>
  </tbody> 
 </table>
 
-## 감사 추적 {#audit-trail}
+## 에셋 {#assets}
 
 <table style="table-layout:auto"> 
  <tbody> 
   <tr> 
-   <th>열 1</th> 
-   <th>열 2</th>
-   <th>열 3</th>
+   <th>영역</th> 
+   <th>리뷰 포커스</th>
   </tr> 
   <tr> 
-   <td>1</td> 
-   <td>2</td>
-   <td>3</td>
+   <td>토큰</td> 
+   <td><li>토큰이 정기적으로 사용되는 프로그램 유형에서 사용됩니까? 그렇지 않다면 효율성을 높이기 위해 이를 사용하는 것을 고려해야 한다.</li>
+<li>토큰이 구현되면 글로벌 폴더 토큰이 있습니까? 어떻게 사용하고 있습니까?</li></td>
   </tr>
   <tr> 
-   <td>1</td> 
-   <td>2</td>
-   <td>3</td>
+   <td>참여 프로그램</td> 
+   <td><li>실행 중인 라이브 육성 프로그램이 있습니까?</li>
+<li>얼마나 많은 사람들이 지쳤나요? 소진된 사람이 많으면 콘텐츠 추가를 고려합니다.</li>
+<li>사람들이 육성 콘텐츠에 참여하고 있습니까? 그렇지 않으면 콘텐츠 및/또는 A/B 테스트를 업데이트하는 것이 좋습니다.</li>
+<li>두 개 이상의 참여 프로그램에 얼마나 많은 사람들이 있습니까? 여러 개가 있어야 합니까?</li></td>
   </tr>
   <tr> 
-   <td>1</td> 
-   <td>2</td>
-   <td>3</td>
+   <td>캠페인 일괄 처리</td> 
+   <td><li>반복 배치 캠페인은 몇 개입니까?</li>
+<li>비활성화해야 합니까/보관해야 합니까?</li></td>
+  </tr>
+   <tr> 
+   <td>캠페인 트리거</td> 
+   <td><li>몇 개의 트리거 캠페인이 있습니까?</li>
+<li>비활성화해야 합니까/보관해야 합니까?</li>
+<li>트리거 캠페인을 일괄 캠페인으로 변경하여 처리 효율성을 개선해야 합니까?</li></td>
+  </tr>
+  <tr> 
+   <td>로컬 Forms</td> 
+   <td><li>몇 개의 프로그램에 로컬 양식이 있습니까? 이러한 양식들은 글로벌 양식으로 바뀌어야 하는가?</li>
+<li>마케팅 및 영업 팀에 적합한 데이터를 캡처하고 있습니까?</li>
+<p>팁: 로컬 양식 수를 제한하여 쉽게 업데이트하고 데이터 개인정보 보호, 옵트인/옵트아웃 정책에 대한 변경 사항에 맞추시겠습니까? 양식을 만들 때, 수집된 정보가 변경되지 않고 고급 양식 기능이 이동하지 않는 경우 질문할 사항을 고려하십시오. 로컬 양식 대신 글로벌 양식을 고려하십시오.</td>
+  </tr>
+  <tr> 
+   <td>글로벌 Forms</td> 
+   <td><li>글로벌 양식은 어디에서 사용합니까? (Marketo 랜딩 페이지와 비 Marketo 랜딩 페이지 비교)</li>
+<li>글로벌 양식은 어떻게 사용자를 감사 페이지로 유도합니까? (숨겨진 양식 필드 또는 CMS 페이지 템플릿 내에서)</li>
+<li>추가하거나 제거해야 하는 양식 필드가 있습니까?</li>
+<li>변경해야 하는 선택 목록 값이 있습니까?</li>
+<li>점진적 프로파일링을 고려해야 합니까?</li>
+<li>CRM 동기화 및 마케팅 요구 사항에 대한 필수 필드가 모두 포함되어 있습니까?</li>
+<li>글로벌 양식에서 옵트인 전략 및 관리를 위한 데이터 개인정보 보호 및 법적 요구 사항을 고려합니까?</li></td>
   </tr>
  </tbody> 
 </table>
 
-## 작업 공간 및 파티션 {#workspaces-and-partitions}
+## 운영 프로그램 {#operational-programs}
 
 <table style="table-layout:auto"> 
  <tbody> 
   <tr> 
-   <th>열 1</th> 
-   <th>열 2</th>
-   <th>열 3</th>
+   <th>영역</th> 
+   <th>리뷰 포커스</th>
   </tr> 
   <tr> 
-   <td>1</td> 
-   <td>2</td>
-   <td>3</td>
+   <td>개인 채점</td> 
+   <td><li>중앙 집중형 개인 채점 프로그램이 있습니까?</li>
+<li>점수를 매기면 점수가 증가하고 감소합니까?</li></td>
   </tr>
   <tr> 
-   <td>1</td> 
-   <td>2</td>
-   <td>3</td>
+   <td>개인 소스</td> 
+   <td><li>개인 소스 필드에 값을 할당하는 중앙 집중식 프로그램이 있습니까?</li>
+<p>참고: Marketo Engage은 운영 프로그램에 관계없이 소스 필드에 데이터를 자동으로 수집합니다</td>
   </tr>
   <tr> 
-   <td>1</td> 
-   <td>2</td>
-   <td>3</td>
-  </tr>
- </tbody> 
-</table>
-
-## 스마트 캠페인 {#smart-campaigns}
-
-<table style="table-layout:auto"> 
- <tbody> 
-  <tr> 
-   <th>열 1</th> 
-   <th>열 2</th>
-   <th>열 3</th>
-  </tr> 
-  <tr> 
-   <td>1</td> 
-   <td>2</td>
-   <td>3</td>
+   <td>데이터 표준화</td> 
+   <td><li>들어오는 데이터를 표준화할 수 있는 중앙 집중식 프로그램이 있습니까?</li></td>
   </tr>
   <tr> 
-   <td>1</td> 
-   <td>2</td>
-   <td>3</td>
+   <td>바운스 관리</td> 
+   <td><li>바운스되는 사람들을 다룰 수 있는 중앙 집중형 프로그램이 있습니까?</li></td>
   </tr>
   <tr> 
-   <td>1</td> 
-   <td>2</td>
-   <td>3</td>
-  </tr>
- </tbody> 
-</table>
-
-## 커뮤니케이션 제한 {#communication-limits}
-
-<table style="table-layout:auto"> 
- <tbody> 
-  <tr> 
-   <th>열 1</th> 
-   <th>열 2</th>
-   <th>열 3</th>
-  </tr> 
-  <tr> 
-   <td>1</td> 
-   <td>2</td>
-   <td>3</td>
+   <td>개인 정보 및 규정 준수</td> 
+   <td><li>데이터 개인정보 보호 및 스팸 법률을 준수하는지 확인하는 프로그램이 있습니까? GDPR, CASL, CAN-SPAM, CCPA 등을 고려합니다.</li>
+<p>팁: 이러한 문제에 대해서는 항상 법무팀에 문의하십시오. 변경하기 전에 규정 준수를 유지하기 위한 이전 이니셔티브에 대해 팀에 문의하십시오.</td>
   </tr>
   <tr> 
-   <td>1</td> 
-   <td>2</td>
-   <td>3</td>
+   <td>라이프사이클</td> 
+   <td><li>개인 라이프사이클을 통해 사람들을 이동할 수 있는 프로그램이 있습니까?</li>
+<li>개인 상태에 사용할 수 있는 값은 무엇입니까?</li></td>
   </tr>
   <tr> 
-   <td>1</td> 
-   <td>2</td>
-   <td>3</td>
-  </tr>
- </tbody> 
-</table>
-
-## 태그 {#tags}
-
-<table style="table-layout:auto"> 
- <tbody> 
-  <tr> 
-   <th>열 1</th> 
-   <th>열 2</th>
-   <th>열 3</th>
-  </tr> 
-  <tr> 
-   <td>1</td> 
-   <td>2</td>
-   <td>3</td>
+   <td>이메일 전달성</td> 
+   <td><li>지난 몇 달 동안의 전송에 대한 이메일 성능 보고서를 가져오십시오. 이메일 전달성은 어떻게 보입니까?</li>
+<li>이메일 전달성이 낮은 경우 SPF 및 DKIM과 같은 이메일 전달성 모범 사례를 조사하고 구현하는 것이 좋습니다.</li>
+<li>당신은 당신의 전체 마케팅 대상자들에게 다가가고 있습니까?</li></td>
   </tr>
   <tr> 
-   <td>1</td> 
-   <td>2</td>
-   <td>3</td>
+   <td>구독/환경 설정 센터</td> 
+   <td><li>구독/환경 설정 센터를 설치했습니까? 제대로 작동하고 있습니까?</li></td>
   </tr>
   <tr> 
-   <td>1</td> 
-   <td>2</td>
-   <td>3</td>
-  </tr>
- </tbody> 
-</table>
-
-## 데이터베이스 관리 {#database-management}
-
-<table style="table-layout:auto"> 
- <tbody> 
-  <tr> 
-   <th>열 1</th> 
-   <th>열 2</th>
-   <th>열 3</th>
-  </tr> 
-  <tr> 
-   <td>1</td> 
-   <td>2</td>
-   <td>3</td>
-  </tr>
-  <tr> 
-   <td>1</td> 
-   <td>2</td>
-   <td>3</td>
-  </tr>
-  <tr> 
-   <td>1</td> 
-   <td>2</td>
-   <td>3</td>
-  </tr>
- </tbody> 
-</table>
-
-## 통합 {#integrations}
-
-<table style="table-layout:auto"> 
- <tbody> 
-  <tr> 
-   <th>열 1</th> 
-   <th>열 2</th>
-   <th>열 3</th>
-  </tr> 
-  <tr> 
-   <td>1</td> 
-   <td>2</td>
-   <td>3</td>
-  </tr>
-  <tr> 
-   <td>1</td> 
-   <td>2</td>
-   <td>3</td>
-  </tr>
-  <tr> 
-   <td>1</td> 
-   <td>2</td>
-   <td>3</td>
-  </tr>
- </tbody> 
-</table>
-
-## 보물상자 {#treasure-chest}
-
-<table style="table-layout:auto"> 
- <tbody> 
-  <tr> 
-   <th>열 1</th> 
-   <th>열 2</th>
-   <th>열 3</th>
-  </tr> 
-  <tr> 
-   <td>1</td> 
-   <td>2</td>
-   <td>3</td>
-  </tr>
-  <tr> 
-   <td>1</td> 
-   <td>2</td>
-   <td>3</td>
-  </tr>
-  <tr> 
-   <td>1</td> 
-   <td>2</td>
-   <td>3</td>
-  </tr>
- </tbody> 
-</table>
-
-## 기타 {#miscellaneous}
-
-<table style="table-layout:auto"> 
- <tbody> 
-  <tr> 
-   <th>열 1</th> 
-   <th>열 2</th>
-   <th>열 3</th>
-  </tr> 
-  <tr> 
-   <td>1</td> 
-   <td>2</td>
-   <td>3</td>
-  </tr>
-  <tr> 
-   <td>1</td> 
-   <td>2</td>
-   <td>3</td>
-  </tr>
-  <tr> 
-   <td>1</td> 
-   <td>2</td>
-   <td>3</td>
+   <td>즐거운 순간(해당되는 경우)</td> 
+   <td><li>Salesforce에 흥미로운 순간을 적절하게 보낼 수 있는 프로그램이나 흐름 단계가 있습니까?</li></td>
   </tr>
  </tbody> 
 </table>

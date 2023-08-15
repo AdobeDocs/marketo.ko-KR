@@ -4,9 +4,9 @@ description: Google Chrome용 Marketo Insights 설치 - Marketo 문서 - 제품 
 title: Google Chrome용 Marketo Insights 설치
 exl-id: 358b2737-52de-4d3b-a6e8-3254a8123359
 feature: Marketo Sales Insights
-source-git-commit: 762b8206b1e4c748daae063a80e76cc028904d10
+source-git-commit: e5fe19bd17e3da7991b09dfa17beb05d4efd58f6
 workflow-type: tm+mt
-source-wordcount: '219'
+source-wordcount: '207'
 ht-degree: 0%
 
 ---
@@ -18,10 +18,6 @@ ht-degree: 0%
 >[!NOTE]
 >
 >Gmail 및 Outlook용 Sales Insight 이메일 플러그인에서 판매 이메일 보내기, 판매 캠페인에 추가, 작업 등 Sales Insight 작업 기능을 사용할 수 없습니다. 현재 사용자는 Sales Insight 이메일 플러그인을 사용할 때 이메일 클라이언트에서 Marketo 이메일 템플릿을 사용하거나 사용하지 않고 추적 가능한 이메일을 보낼 수 있습니다.
-
->[!AVAILABILITY]
->
->이 확장은 와 호환되지 않습니다. [Adobe ID 인증](/help/marketo/product-docs/administration/marketo-with-adobe-identity/adobe-identity-management-overview.md){target="_blank"} 이 시간에.
 
 1. 설치 [Google Chrome 추가 기능 확장 프로그램용 Marketo Insights](https://chrome.google.com/webstore/detail/marketo-for-google-mail/jjkfbhajlmoeegbjgjipliamplidmbjb){target="_blank"} Chrome 웹 스토어에서.
 

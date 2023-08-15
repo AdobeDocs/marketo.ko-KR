@@ -4,9 +4,9 @@ description: Account Insight 플러그인 개요 - Marketo 문서 - 제품 설�
 title: 계정 통찰력 플러그인 개요
 exl-id: 0306f82d-43c8-44eb-943f-f7f01279b844
 feature: Target Account Management
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: e5fe19bd17e3da7991b09dfa17beb05d4efd58f6
 workflow-type: tm+mt
-source-wordcount: '305'
+source-wordcount: '317'
 ht-degree: 0%
 
 ---
@@ -17,7 +17,9 @@ Account Insight는 영업 팀에 유용한 TAM 및 계정 인사이트를 제공
 
 >[!AVAILABILITY]
 >
->TAM과 Marketo Sales Insight를 모두 보유한 모든 고객을 위한 Account Insight가 포함됩니다. TAM만 있는 고객의 경우 계정 인사이트를 구매한 추가 기능으로 사용할 수 있습니다. 각 고객은 250개의 Account Insight 시트로 제한됩니다. 자세한 내용은 영업 담당자에게 문의하십시오. TAM이 없는 고객은 사용할 수 없습니다.
+>* TAM과 Marketo Sales Insight를 모두 보유한 모든 고객을 위한 Account Insight가 포함됩니다. TAM만 있는 고객의 경우 계정 인사이트를 구매한 추가 기능으로 사용할 수 있습니다. 각 고객은 250개의 Account Insight 시트로 제한됩니다. 자세한 내용은 영업 담당자에게 문의하십시오. TAM이 없는 고객은 사용할 수 없습니다.
+>
+>* 이 플러그인은 와 호환되지 않습니다. [Adobe ID 인증](/help/marketo/product-docs/administration/marketo-with-adobe-identity/adobe-identity-management-overview.md){target="_blank"} 이 시간에.
 
 >[!CAUTION]
 >
