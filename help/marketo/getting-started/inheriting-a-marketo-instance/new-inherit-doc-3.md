@@ -3,7 +3,7 @@ description: 문서 3 상속 - Marketo 문서 - 제품 설명서
 title: 문서 3 상속
 hide: true
 hidefromtoc: true
-source-git-commit: e5fe19bd17e3da7991b09dfa17beb05d4efd58f6
+source-git-commit: 4f833625421d7977d5aa8f59e13221a1946163f2
 workflow-type: tm+mt
 source-wordcount: '777'
 ht-degree: 0%
@@ -28,19 +28,19 @@ ht-degree: 0%
   </tr> 
   <tr> 
    <td>이름 지정 규칙</td> 
-   <td><li>프로그램에 일관된 명명 규칙이 있습니까?</li></td>
+   <td><li>프로그램에 일관성이 있습니까 <a href="/help/marketo/product-docs/core-marketo-concepts/programs/working-with-programs/best-practice-how-to-organize-your-programs.md#naming-schemes" target="_blank">명명 규칙</a>?</li></td>
   </tr>
   <tr> 
    <td>폴더 구조</td> 
-   <td><li>폴더 구조가 일관되고 검색하기 쉽습니까?</li></td>
+   <td><li>일관되고 탐색하기 쉬운 옵션이 있습니까 <a href="/help/marketo/product-docs/core-marketo-concepts/programs/working-with-programs/best-practice-how-to-organize-your-programs.md#folders" target="_blank">폴더 구조</a>?</li></td>
   </tr>
   <tr> 
    <td>프로그램</td> 
    <td><li>프로그램 템플릿을 갖춘 Center of Excellence 가 있습니까? 그렇다면 팀의 사용 사례에 맞게 프로그램 템플릿을 사용할 수 있습니까?</li>
-<li>유사한 프로그램 유형이 일관되게 구성되어 있습니까?</li>
-<li>기간 비용이 적용됩니까?</li>
-<li>모든 프로그램이 SFDC 캠페인에 동기화됩니까(해당하는 경우)?</li>
-<li>확보 프로그램을 사람에게 할당하는 흐름 단계가 있습니까?</li></td>
+<li>유사한 프로그램 유형 <a href="/help/marketo/product-docs/core-marketo-concepts/programs/working-with-programs/best-practice-how-to-organize-your-programs.md" target="_blank">일관되게 조직되</a>?</li>
+<li>다음과 같음 <a href="/help/marketo/product-docs/core-marketo-concepts/programs/working-with-programs/understanding-period-costs.md" target="_blank">기간 비용</a> 제자리에 두라고?</li>
+<li>모든 프로그램 <a href="/help/marketo/product-docs/crm-sync/salesforce-sync/sfdc-sync-details/how-to-match-program-statuses-and-salesforce-campaign-statuses-prior-to-sync.md" target="_blank">sfdc 캠페인에 동기화됨</a> (해당되는 경우)?</li>
+<li>을(를) 지정하는 흐름 단계가 있습니까? <a href="/help/marketo/product-docs/core-marketo-concepts/programs/creating-programs/understanding-program-membership.md#acquisition-program" target="_blank">고객 확보 프로그램</a> 사람들에게?</li></td>
   </tr>
   <tr> 
    <td>보관</td> 

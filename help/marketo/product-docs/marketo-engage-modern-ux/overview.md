@@ -3,10 +3,10 @@ description: 개요 - Marketo 문서 - 제품 설명서
 title: 개요
 exl-id: 50ab55b2-f40d-4dbd-ac3b-aa52e37ff426
 feature: Modern UX
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 4f833625421d7977d5aa8f59e13221a1946163f2
 workflow-type: tm+mt
-source-wordcount: '479'
-ht-degree: 1%
+source-wordcount: '434'
+ht-degree: 2%
 
 ---
 
@@ -21,14 +21,6 @@ Marketo Engage 플랫폼에서 새로운 룩과 느낌과 함께 향상된 유�
 >* *.marketo.com
 >* *.marketodesigner.com
 >* *.mktoweb.com
-
-## 둘러보기 {#take-the-tour}
-
-처음 로그인하면 새 경험에 대한 개요를 제공할 준비가 된 팝업이 나타납니다. 당신이 그것을 건너뛰기로 선택한다면, 그것은 **아님** 나중에 사용 가능
-
-![](assets/overview-1.png)
-
-이 투어는 여러분이 알아야 할 모든 것을 안내합니다!
 
 ## 새로운 기능 {#whats-new}
 
