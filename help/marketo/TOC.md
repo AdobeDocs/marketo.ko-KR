@@ -3,7 +3,7 @@ audience: end-user
 user-guide-title: Marketo 안내서
 user-guide-description: Marketo 제품 설명서
 feature-set: Marketo Engage
-source-git-commit: cb45578229c50300840660fc2a5629341ecfa98e
+source-git-commit: 6ced5418f33086cb5607a3b91c21dd5de3e14be8
 workflow-type: tm+mt
 source-wordcount: '9012'
 ht-degree: 0%
@@ -403,7 +403,7 @@ ht-degree: 0%
             + [프로그램에서 기간 원가 사용](product-docs/core-marketo-concepts/programs/working-with-programs/using-period-costs-in-a-program.md)
          + 프로그램 라이브러리 {#program-library}
             + [프로그램 가져오기 라이브러리 개요](product-docs/core-marketo-concepts/programs/program-library/program-import-library-overview.md)
-            + [콘텐츠 관리 프로그램 예](product-docs/core-marketo-concepts/programs/program-library/content-management-program-example.md)
+            + [동의 관리 프로그램 예](product-docs/core-marketo-concepts/programs/program-library/consent-management-program-example.md)
          + 프로그램 성과 보고서 {#program-performance-report}
             + [프로그램 성과 보고서 만들기](product-docs/core-marketo-concepts/programs/program-performance-report/create-a-program-performance-report.md)
             + [프로그램 보고서에 프로그램 상태 열 추가](product-docs/core-marketo-concepts/programs/program-performance-report/add-program-status-columns-to-a-program-report.md)
@@ -568,7 +568,7 @@ ht-degree: 0%
                + [2/3단계: Marketo용 Salesforce 사용자 만들기(전문가)](product-docs/crm-sync/salesforce-sync/setup/professional-edition/step-2-of-3-create-a-salesforce-user-for-marketo-professional.md)
                + [3단계/3단계: Marketo 및 Salesforce 연결(전문가)](product-docs/crm-sync/salesforce-sync/setup/professional-edition/step-3-of-3-connect-marketo-and-salesforce-professional.md)
             + 선택적 단계 {#optional-steps}
-               + [사용자 지정 개체 필드를 스마트 목록/트리거 제약 조건으로 추가/제거](product-docs/crm-sync/salesforce-sync/setup/optional-steps/add-remove-custom-object-field-as-smart-list-trigger-constraints.md)
+               + [사용자 지정 개체 필드를 스마트 목록/트리거 제한으로 추가/제거](product-docs/crm-sync/salesforce-sync/setup/optional-steps/add-remove-custom-object-field-as-smart-list-trigger-constraints.md)
                + [활동 동기화 사용자 지정](product-docs/crm-sync/salesforce-sync/setup/optional-steps/customize-activities-sync.md)
                + [초기 필드 매핑 편집](product-docs/crm-sync/salesforce-sync/setup/optional-steps/edit-initial-field-mappings.md)
                + [Campaign 동기화 활성화/비활성화](product-docs/crm-sync/salesforce-sync/setup/optional-steps/enable-disable-campaign-sync.md)
@@ -609,7 +609,7 @@ ht-degree: 0%
             + [2/3단계: Marketo Engage을 위한 Veeva CRM 사용자 만들기](product-docs/crm-sync/veeva-crm-sync/setup/step-2-of-3-create-a-veeva-crm-user-for-marketo-engage.md)
             + [3/3단계: Marketo Engage 및 Veeva CRM 연결](product-docs/crm-sync/veeva-crm-sync/setup/step-3-of-3-connect-marketo-engage-and-veeva-crm.md)
          + 동기화 세부 정보 {#sync-details}
-            + [사용자 지정 개체 필드를 스마트 목록/트리거 제약 조건으로 추가/제거](product-docs/crm-sync/veeva-crm-sync/sync-details/add-remove-custom-object-field-as-smart-list-trigger-constraints.md)
+            + [사용자 지정 개체 필드를 스마트 목록/트리거 제한으로 추가/제거](product-docs/crm-sync/veeva-crm-sync/sync-details/add-remove-custom-object-field-as-smart-list-trigger-constraints.md)
             + [사용자 지정 개체 동기화](product-docs/crm-sync/veeva-crm-sync/sync-details/custom-object-sync.md)
             + [기본 Veeva 필드 매핑](product-docs/crm-sync/veeva-crm-sync/sync-details/default-veeva-field-mapping.md)
             + [사용자 지정 개체 동기화 활성화/비활성화](product-docs/crm-sync/veeva-crm-sync/sync-details/enable-disable-custom-object-sync.md)
@@ -1790,7 +1790,7 @@ ht-degree: 0%
             + 필드 이끌이 {#field-organizers}
                + [필드 이끌이 사용](product-docs/reporting/revenue-cycle-analytics/revenue-tools/using-field-organizers.md)
                + [Field Organizer를 사용하여 사용자 정의 필드 그룹 만들기](product-docs/reporting/revenue-cycle-analytics/revenue-tools/field-organizers/create-custom-field-groups-using-the-field-organizer.md)
-   + Target 계정 관리 {#target-account-management}
+   + 타겟 계정 관리 {#target-account-management}
       + 설정 {#setup}
          + [Target 계정 관리 개요](product-docs/target-account-management/setup-tam/target-account-management-overview.md)
          + [TAM 시작하기](product-docs/target-account-management/setup-tam/getting-started-with-tam.md)

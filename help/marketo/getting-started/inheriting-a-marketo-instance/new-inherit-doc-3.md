@@ -3,9 +3,9 @@ description: 문서 3 상속 - Marketo 문서 - 제품 설명서
 title: 문서 3 상속
 hide: true
 hidefromtoc: true
-source-git-commit: 75aa1f6c5f7d0c193787978a18900441aa9a8b82
+source-git-commit: 6ced5418f33086cb5607a3b91c21dd5de3e14be8
 workflow-type: tm+mt
-source-wordcount: '835'
+source-wordcount: '833'
 ht-degree: 0%
 
 ---
@@ -71,7 +71,7 @@ ht-degree: 0%
   </tr> 
   <tr> 
    <td>토큰</td> 
-   <td><li>토큰이 정기적으로 사용되는 프로그램 유형에서 사용됩니까? KG - DOUBLE CHECK MEANING IF NOT, YOU SHOULD CONSIDER USING THEM TO INCREASE EFFICIENCY.</li>
+   <td><li>가장 일반적으로 사용되는 프로그램 유형에서 토큰이 사용되고 있습니까? 그렇지 않다면 효율성을 높이기 위해 이를 사용하는 것을 고려해야 한다.</li>
 <li>토큰이 구현되면 글로벌 폴더 토큰이 있습니까? 어떻게 사용하고 있습니까?</li></td>
   </tr>
   <tr> 
