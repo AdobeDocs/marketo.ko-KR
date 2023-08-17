@@ -3,9 +3,9 @@ description: 문서 3 상속 - Marketo 문서 - 제품 설명서
 title: 문서 3 상속
 hide: true
 hidefromtoc: true
-source-git-commit: 4f833625421d7977d5aa8f59e13221a1946163f2
+source-git-commit: 75aa1f6c5f7d0c193787978a18900441aa9a8b82
 workflow-type: tm+mt
-source-wordcount: '777'
+source-wordcount: '835'
 ht-degree: 0%
 
 ---
@@ -36,7 +36,7 @@ ht-degree: 0%
   </tr>
   <tr> 
    <td>프로그램</td> 
-   <td><li>프로그램 템플릿을 갖춘 Center of Excellence 가 있습니까? 그렇다면 팀의 사용 사례에 맞게 프로그램 템플릿을 사용할 수 있습니까?</li>
+   <td><li>KG - 이것은 여전히 관련이 있습니까 <a href="https://business.adobe.com/blog/perspectives/center-of-excellence-top-10-questions-to-ask-yourself" target="_blank">우수성의 중심</a> 프로그램 템플릿과 함께? 그렇다면 팀의 사용 사례에 맞게 프로그램 템플릿을 사용할 수 있습니까?</li>
 <li>유사한 프로그램 유형 <a href="/help/marketo/product-docs/core-marketo-concepts/programs/working-with-programs/best-practice-how-to-organize-your-programs.md" target="_blank">일관되게 조직되</a>?</li>
 <li>다음과 같음 <a href="/help/marketo/product-docs/core-marketo-concepts/programs/working-with-programs/understanding-period-costs.md" target="_blank">기간 비용</a> 제자리에 두라고?</li>
 <li>모든 프로그램 <a href="/help/marketo/product-docs/crm-sync/salesforce-sync/sfdc-sync-details/how-to-match-program-statuses-and-salesforce-campaign-statuses-prior-to-sync.md" target="_blank">sfdc 캠페인에 동기화됨</a> (해당되는 경우)?</li>
@@ -44,19 +44,19 @@ ht-degree: 0%
   </tr>
   <tr> 
    <td>보관</td> 
-   <td><li>이전 프로그램이 보관됩니까? 가장 좋은 방법은 매년 복습하는 것이다.</li>
+   <td><li>이전 프로그램임 <a href="/help/marketo/product-docs/core-marketo-concepts/miscellaneous/understanding-folders.md#archive-a-folder" target="_blank">보관됨</a>? 가장 좋은 방법은 매년 복습하는 것이다.</li>
 <li>귀사는 오래된 프로그램을 얼마나 자주 검토하고 아카이빙합니까?</li></td>
   </tr>
   <tr> 
    <td>알림</td> 
-   <td><li>인스턴스 상단의 알림 탭에 캠페인 오류가 있습니까?</li>
-<li>향후 발생할 수 있는 모든 오류를 방지하기 위해 알림을 구독하고 있습니까?</li></td>
+   <td><li>에 캠페인 오류가 있습니까? <a href="/help/marketo/product-docs/core-marketo-concepts/miscellaneous/understanding-notifications/notification-types.md" target="_blank">알림 탭</a> 당신이 생각하기에 최우선인가요?</li>
+<li>본인 <a href="/help/marketo/product-docs/core-marketo-concepts/miscellaneous/understanding-notifications.md#subscribe-to-notifications" target="_blank">알림을 구독함</a> 앞으로 발생할 수 있는 오류를 모두 처리할 수 있습니까?</li></td>
   </tr>
   <tr> 
    <td>스마트 목록 구독 
    <br/>(마케팅 활동/구독 탭)</td> 
-   <td><li>인스턴스에 진행 중인 스마트 목록 구독이 있습니까? 그렇다면 그들은 누구에게 갈 것입니까?</li>
-<li>개인이 아닌 팀 별칭으로 이동하려면 스마트 목록 구독을 설정하는 것이 좋습니다. 이것은 개인이 휴가 중이거나 떠날 경우를 대비하여 귀하를 포함합니다.</li></td>
+   <td><li>진행 중인 작업 <a href="/help/marketo/product-docs/reporting/basic-reporting/report-subscriptions/subscribe-to-a-smart-list.md" target="_blank">스마트 목록 구독</a> 네 생각으로? 그렇다면 그들은 누구에게 갈 것입니까?</li>
+<p>팁: 개인이 아닌 팀 별칭으로 이동하려면 스마트 목록 구독을 설정하는 것이 좋습니다. 이것은 개인이 휴가 중이거나 떠날 경우를 대비하여 귀하를 포함합니다.</td>
   </tr>
  </tbody> 
 </table>
@@ -71,40 +71,40 @@ ht-degree: 0%
   </tr> 
   <tr> 
    <td>토큰</td> 
-   <td><li>토큰이 정기적으로 사용되는 프로그램 유형에서 사용됩니까? 그렇지 않다면 효율성을 높이기 위해 이를 사용하는 것을 고려해야 한다.</li>
+   <td><li>토큰이 정기적으로 사용되는 프로그램 유형에서 사용됩니까? KG - DOUBLE CHECK MEANING IF NOT, YOU SHOULD CONSIDER USING THEM TO INCREASE EFFICIENCY.</li>
 <li>토큰이 구현되면 글로벌 폴더 토큰이 있습니까? 어떻게 사용하고 있습니까?</li></td>
   </tr>
   <tr> 
    <td>참여 프로그램</td> 
-   <td><li>실행 중인 라이브 육성 프로그램이 있습니까?</li>
-<li>얼마나 많은 사람들이 지쳤나요? 소진된 사람이 많으면 콘텐츠 추가를 고려합니다.</li>
-<li>사람들이 육성 콘텐츠에 참여하고 있습니까? 그렇지 않으면 콘텐츠 및/또는 A/B 테스트를 업데이트하는 것이 좋습니다.</li>
-<li>두 개 이상의 참여 프로그램에 얼마나 많은 사람들이 있습니까? 여러 개가 있어야 합니까?</li></td>
+   <td><li>라이브 진행 여부 <a href="/help/marketo/product-docs/email-marketing/drip-nurturing/creating-an-engagement-program/understanding-engagement-programs.md" target="_blank">참여 프로그램</a> 달리기?</li>
+<li>몇 개 <a href="/help/marketo/product-docs/email-marketing/drip-nurturing/using-engagement-programs/people-who-have-exhausted-content.md" target="_blank">사람들이 지쳤습니다.</a>? 소진된 사람이 많으면 콘텐츠 추가를 고려합니다.</li>
+<li>사람들이 콘텐츠를 사용하고 있습니까? 그렇지 않은 경우 업데이트 및/또는 A/B 테스트를 고려하십시오.</li>
+<li><a href="/help/marketo/product-docs/email-marketing/drip-nurturing/using-engagement-programs/see-members-of-an-engagement-program.md" target="_blank">몇 분이시죠</a> KG - 모든 프로그램을 한 번에 볼 수 있는 방법이 있습니까? 그렇게 생각하지 말고 반드시 두 가지 이상의 참여 프로그램에 참여하도록 하십시오. 여러 개가 있어야 합니까?</li></td>
   </tr>
   <tr> 
    <td>캠페인 일괄 처리</td> 
-   <td><li>반복 배치 캠페인은 몇 개입니까?</li>
+   <td><li>반복 횟수 <a href="/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/creating-a-smart-campaign/understanding-batch-and-trigger-smart-campaigns.md#batch-campaign" target="_blank">캠페인 일괄 처리</a> 있습니까?</li>
 <li>비활성화해야 합니까/보관해야 합니까?</li></td>
   </tr>
    <tr> 
    <td>캠페인 트리거</td> 
-   <td><li>몇 개의 트리거 캠페인이 있습니까?</li>
+   <td><li>몇 개 <a href="/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/creating-a-smart-campaign/understanding-batch-and-trigger-smart-campaigns.md#trigger-campaign" target="_blank">캠페인 트리거</a> 있습니까?</li>
 <li>비활성화해야 합니까/보관해야 합니까?</li>
 <li>트리거 캠페인을 일괄 캠페인으로 변경하여 처리 효율성을 개선해야 합니까?</li></td>
   </tr>
-  <tr> 
+  <tr>
    <td>로컬 Forms</td> 
-   <td><li>몇 개의 프로그램에 로컬 양식이 있습니까? 이러한 양식들은 글로벌 양식으로 바뀌어야 하는가?</li>
+   <td><li>몇 개의 프로그램이 로컬에 있습니까 <a href="/help/marketo/product-docs/demand-generation/forms/creating-a-form/create-a-form.md" target="_blank">양식</a>? 이러한 양식들은 글로벌 양식으로 바뀌어야 하는가?</li>
 <li>마케팅 및 영업 팀에 적합한 데이터를 캡처하고 있습니까?</li>
 <p>팁: 로컬 양식 수를 제한하여 쉽게 업데이트하고 데이터 개인정보 보호, 옵트인/옵트아웃 정책에 대한 변경 사항에 맞추시겠습니까? 양식을 만들 때, 수집된 정보가 변경되지 않고 고급 양식 기능이 이동하지 않는 경우 질문할 사항을 고려하십시오. 로컬 양식 대신 글로벌 양식을 고려하십시오.</td>
   </tr>
   <tr> 
    <td>글로벌 Forms</td> 
-   <td><li>글로벌 양식은 어디에서 사용합니까? (Marketo 랜딩 페이지와 비 Marketo 랜딩 페이지 비교)</li>
-<li>글로벌 양식은 어떻게 사용자를 감사 페이지로 유도합니까? (숨겨진 양식 필드 또는 CMS 페이지 템플릿 내에서)</li>
+   <td><li>어디에서 사용합니까 <a href="/help/marketo/product-docs/administration/settings/global-form-validation-rules.md" target="_blank">글로벌 양식</a>? (Marketo 랜딩 페이지와 비 Marketo 랜딩 페이지 비교)</li>
+<li>전역 양식에서 사용자를 어떻게 <a href="/help/marketo/product-docs/demand-generation/forms/creating-a-form/set-a-form-thank-you-page.md" target="_blank">감사 인사 페이지</a>? (숨겨진 양식 필드 또는 CMS 페이지 템플릿 내에서)</li>
 <li>추가하거나 제거해야 하는 양식 필드가 있습니까?</li>
 <li>변경해야 하는 선택 목록 값이 있습니까?</li>
-<li>점진적 프로파일링을 고려해야 합니까?</li>
+<li>다음을 고려해야 합니까? <a href="/help/marketo/product-docs/demand-generation/forms/form-actions/configure-form-progressive-profiling.md" target="_blank">점진적 프로파일링</a>?</li>
 <li>CRM 동기화 및 마케팅 요구 사항에 대한 필수 필드가 모두 포함되어 있습니까?</li>
 <li>글로벌 양식에서 옵트인 전략 및 관리를 위한 데이터 개인정보 보호 및 법적 요구 사항을 고려합니까?</li></td>
   </tr>
@@ -121,25 +121,25 @@ ht-degree: 0%
   </tr> 
   <tr> 
    <td>개인 채점</td> 
-   <td><li>중앙 집중형 개인 채점 프로그램이 있습니까?</li>
+   <td><li>중앙집중식으로 되어 있나요 <a href="/help/marketo/getting-started/quick-wins/simple-scoring.md" target="_blank">개인 채점</a> 프로그램은 준비됐나?</li>
 <li>점수를 매기면 점수가 증가하고 감소합니까?</li></td>
   </tr>
   <tr> 
    <td>개인 소스</td> 
    <td><li>개인 소스 필드에 값을 할당하는 중앙 집중식 프로그램이 있습니까?</li>
-<p>참고: Marketo Engage은 운영 프로그램에 관계없이 소스 필드에 데이터를 자동으로 수집합니다</td>
+<p>참고: Marketo Engage은 운영 프로그램에 관계없이 소스 필드에 데이터를 자동으로 수집합니다.</td>
   </tr>
   <tr> 
    <td>데이터 표준화</td> 
-   <td><li>들어오는 데이터를 표준화할 수 있는 중앙 집중식 프로그램이 있습니까?</li></td>
+   <td><li>들어오는 데이터를 표준화할 수 있는 중앙 집중식 프로그램이 있습니까? KG - 두 번 확인</li></td>
   </tr>
   <tr> 
    <td>바운스 관리</td> 
-   <td><li>바운스되는 사람들을 다룰 수 있는 중앙 집중형 프로그램이 있습니까?</li></td>
+   <td><li>중앙 집중식으로 처리할 수 있는 프로그램이 있습니까 <a href="https://nation.marketo.com/t5/product-blogs/data-management-best-practices-resources-for-managing-bounces/ba-p/243512" target="_blank">바운스된 사람</a>? KG - 이 2017 기사는 여전히 관련성이 있습니까?</li></td>
   </tr>
   <tr> 
    <td>개인 정보 및 규정 준수</td> 
-   <td><li>데이터 개인정보 보호 및 스팸 법률을 준수하는지 확인하는 프로그램이 있습니까? GDPR, CASL, CAN-SPAM, CCPA 등을 고려합니다.</li>
+   <td><li>데이터 개인정보 보호 및 스팸 법률을 준수하는지 확인하는 프로그램이 있습니까? 고려 <a href="https://business.adobe.com/resources/ebooks/the-gdpr-and-the-marketer.html" target="_blank">GDPR</a>, CASL, CAN-SPAM, CCPA 등</li>
 <p>팁: 이러한 문제에 대해서는 항상 법무팀에 문의하십시오. 변경하기 전에 규정 준수를 유지하기 위한 이전 이니셔티브에 대해 팀에 문의하십시오.</td>
   </tr>
   <tr> 
@@ -149,17 +149,17 @@ ht-degree: 0%
   </tr>
   <tr> 
    <td>이메일 전달성</td> 
-   <td><li>지난 몇 달 동안의 전송에 대한 이메일 성능 보고서를 가져오십시오. 이메일 전달성은 어떻게 보입니까?</li>
-<li>이메일 전달성이 낮은 경우 SPF 및 DKIM과 같은 이메일 전달성 모범 사례를 조사하고 구현하는 것이 좋습니다.</li>
+   <td><li>가져오기 <a href="/help/marketo/product-docs/email-marketing/email-programs/email-program-data/email-performance-report.md" target="_blank">전자 메일 성능 보고서</a> 지난 몇 달 동안의 전송입니다. 이메일 전달성은 어떻게 보입니까?</li>
+<li>이메일 전달성이 좋지 않은 경우 다음과 같은 이메일 전달성 모범 사례를 조사하고 구현하는 것을 고려하십시오. <a href="/help/marketo/product-docs/email-marketing/deliverability/set-up-spf-and-dkim-for-your-email-deliverability.md" target="_blank">SPF 및 DKIM</a>.</li>
 <li>당신은 당신의 전체 마케팅 대상자들에게 다가가고 있습니까?</li></td>
   </tr>
   <tr> 
    <td>구독/환경 설정 센터</td> 
-   <td><li>구독/환경 설정 센터를 설치했습니까? 제대로 작동하고 있습니까?</li></td>
+   <td><li>가지고 계세요 <a href="https://experienceleague.adobe.com/docs/marketo-learn/tutorials/lead-and-data-management/subscription-center-watch.html" target="_blank">구독/환경 설정 센터</a> 설정하시겠습니까? 제대로 작동하고 있습니까?</li></td>
   </tr>
   <tr> 
    <td>즐거운 순간(해당되는 경우)</td> 
-   <td><li>Salesforce에 흥미로운 순간을 적절하게 보낼 수 있는 프로그램이나 흐름 단계가 있습니까?</li></td>
+   <td><li>보낼 프로그램 또는 프로그램의 흐름 단계가 있습니까 <a href="/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/features/tabs-in-the-msi-panel/interesting-moments/interesting-moments-overview.md" target="_blank">즐거운 순간</a> Salesforce에 적절한 지원을 제공하시겠습니까?</li></td>
   </tr>
  </tbody> 
 </table>

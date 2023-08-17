@@ -4,9 +4,9 @@ description: 일괄 처리 및 트리거 스마트 캠페인 이해 - Marketo �
 title: 일괄 처리 및 트리거 스마트 캠페인 이해
 exl-id: 84a7b38c-b79c-4360-bd0b-3beb8ca35ac7
 feature: Smart Campaigns
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 75aa1f6c5f7d0c193787978a18900441aa9a8b82
 workflow-type: tm+mt
-source-wordcount: '272'
+source-wordcount: '266'
 ht-degree: 0%
 
 ---
@@ -15,15 +15,15 @@ ht-degree: 0%
 
 스마트 캠페인에는 일괄 처리와 트리거의 두 가지 유형이 있습니다.
 
-## 일괄 처리 스마트 캠페인 {#batch-smart-campaign}
+## 일괄 캠페인 {#batch-campaign}
 
 >[!NOTE]
 >
 >**정의**
 >
->배치 캠페인은 특정 시간에 시작되며 특정 직원 집합에 한 번에 영향을 줍니다. 예를 들어 캘리포니아의 모든 사람에게 이메일을 보내는 것입니다.
+>일괄 처리 캠페인은 특정 시간에 시작되며 특정 사용자 집합에 영향을 동시에 줍니다. 예를 들어 캘리포니아의 모든 사람에게 이메일을 보내는 것입니다.
 
-일괄 스마트 캠페인에는 스마트 목록 섹션 내에만 필터가 있습니다(즉, 트리거가 없음).
+일괄 처리 캠페인에는 스마트 목록 섹션 내에만 필터가 있습니다(즉, 트리거가 없음).
 
 ![](assets/understanding-batch-and-trigger-smart-campaigns-1.png)
 
@@ -38,13 +38,13 @@ ht-degree: 0%
 
 <br> 
 
-## 스마트 캠페인 트리거 {#trigger-smart-campaign}
+## 캠페인 트리거 {#trigger-campaign}
 
 >[!NOTE]
 >
 >**정의**
 >
->스마트 캠페인 트리거는 트리거된 이벤트를 기반으로 한 번에 한 사람에게만 영향을 줍니다. 트리거의 예로는 이메일의 링크를 클릭하는 것입니다.
+>트리거 캠페인은 트리거된 이벤트를 기반으로 한 번에 한 사람에게만 영향을 줍니다. 트리거의 예로는 이메일의 링크를 클릭하는 것입니다.
 
 스마트 캠페인이 스마트 목록 섹션 내에서 하나 이상의 트리거를 사용하는 경우 모드가 자동으로 트리거로 설정됩니다.
 
@@ -54,7 +54,7 @@ ht-degree: 0%
 
 ![](assets/understanding-batch-and-trigger-smart-campaigns-4.png)
 
-**스마트 캠페인 트리거**
+**캠페인 트리거**
 
 * 반복에 대해 예약할 수 없습니다. 활성 또는 비활성으로만 설정할 수 있습니다.
 * 두 개 이상의 트리거를 설정할 수 있습니다. 그러나 트리거가 발생하면 캠페인 작업이 실행됩니다.
