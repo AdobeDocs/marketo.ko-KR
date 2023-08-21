@@ -3,7 +3,7 @@ description: 문서 4 상속 - Marketo 문서 - 제품 설명서
 title: 문서 4 상속
 hide: true
 hidefromtoc: true
-source-git-commit: 75aa1f6c5f7d0c193787978a18900441aa9a8b82
+source-git-commit: 4b726947bfaf9f8e4dcf48076e1148124fb46d25
 workflow-type: tm+mt
 source-wordcount: '419'
 ht-degree: 1%
@@ -64,7 +64,8 @@ ht-degree: 1%
   </tr>
   <tr> 
    <td>개인 정보 및 규정 준수</td> 
-   <td><li>양식 전략이 회사 데이터 개인 정보 보호 및 옵트인 요구 사항과 일치합니까? 고려 <a href="https://business.adobe.com/resources/ebooks/the-gdpr-and-the-marketer.html" target="_blank">GDPR(일반 데이터 보호 규정)</a>, CACL(Anti-Spam Law), 2003 년 Controlling The Attention Of Non-Soliced Pornography and Marketing Act of 2003 (CAN-SPAM), California Consumer Privacy Act (CCPA) 등. 규정 준수.</li>
+   <td><li>양식 전략이 회사 데이터 개인 정보 보호 및 옵트인 요구 사항과 일치합니까? 
+   <br/>고려 <a href="https://business.adobe.com/resources/ebooks/the-gdpr-and-the-marketer.html" target="_blank">GDPR(일반 데이터 보호 규정)</a>, 규정 준수를 위한 CACL(Anti-Spam Law), 2003 년 Controlling The Assault Of Non-Solicited Pornography and Marketing Act of 2003 (CAN-SPAM), California Consumer Privacy Act (CCPA) 등이 있습니다.</li>
 <p>팁: 이러한 문제에 대해서는 항상 법무팀에 문의하십시오. 변경하기 전에 규정 준수를 유지하기 위한 이전 이니셔티브에 대해 팀에 문의하십시오.</td>
   </tr>
  </tbody> 
@@ -104,7 +105,8 @@ ht-degree: 1%
   </tr> 
   <tr> 
    <td>코드 조각</td> 
-   <td><li>몇 개 <a href="/help/marketo/product-docs/personalization/segmentation-and-snippets/snippets/create-a-snippet.md" target="_blank">코드 조각</a> 있습니까? 사용 중입니까? 그렇지 않은 경우 다음 용도로 사용하는 것이 좋습니다. <a href="/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/add-a-snippet-to-an-email.md" target="_blank">이메일</a> 및 <a href="/help/marketo/product-docs/demand-generation/landing-pages/personalizing-landing-pages/add-a-snippet-to-a-landing-page.md" target="_blank">랜딩 페이지</a> 바닥글 콘텐츠, 로고 등.</li></td>
+   <td><li>몇 개 <a href="/help/marketo/product-docs/personalization/segmentation-and-snippets/snippets/create-a-snippet.md" target="_blank">코드 조각</a> 있습니까? 사용 중입니까? 
+   <br/>그렇지 않은 경우 다음 용도로 사용하는 것이 좋습니다. <a href="/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/add-a-snippet-to-an-email.md" target="_blank">이메일</a> 및 <a href="/help/marketo/product-docs/demand-generation/landing-pages/personalizing-landing-pages/add-a-snippet-to-a-landing-page.md" target="_blank">랜딩 페이지</a> 바닥글 콘텐츠, 로고 등.</li></td>
   </tr>
  </tbody> 
 </table>

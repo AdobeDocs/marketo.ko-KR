@@ -3,7 +3,7 @@ description: 문서 1 상속 - Marketo 문서 - 제품 설명서
 title: 문서 1 상속
 hide: true
 hidefromtoc: true
-source-git-commit: 5602a0a771127a341a4c269739aca6e2a4e78d40
+source-git-commit: 4b726947bfaf9f8e4dcf48076e1148124fb46d25
 workflow-type: tm+mt
 source-wordcount: '1223'
 ht-degree: 1%
@@ -55,7 +55,7 @@ ht-degree: 1%
   </tr>
   <tr> 
    <td>샌드박스(해당되는 경우)</td> 
-   <td><li>가지고 계세요 <a href="/help/marketo/product-docs/core-marketo-concepts/miscellaneous/marketo-sandbox.md" target="_blank">샌드박스 인스턴스</a>? 
+   <td><li>가지고 계세요 <a href="/help/marketo/product-docs/core-marketo-concepts/miscellaneous/marketo-sandbox.md" target="_blank">샌드박스 인스턴스</a>?
    <br/>그렇다면 샌드박스에 대한 위의 카테고리를 검토하십시오.</li>
 <li>다음과 같음 <a href="/help/marketo/product-docs/core-marketo-concepts/programs/working-with-programs/import-a-program.md" target="_blank">프로그램 가져오기</a> 샌드박스와 연결하시겠습니까?</li></td>
   </tr>
@@ -187,8 +187,8 @@ ht-degree: 1%
   </tr>
   <tr> 
    <td>사용자 지정 활동</td> 
-   <td><li>혹시 있습니까 <a href="/help/marketo/product-docs/administration/marketo-custom-activities/understanding-custom-activities.md" target="_blank">사용자 지정 활동</a>?</li>
-<br/>그렇다면 이러한 활동을 클릭하여 Marketo 양식, 이메일 또는 랜딩 페이지와 관련이 없는 활동을 이해합니다.</td>
+   <td><li>혹시 있습니까 <a href="/help/marketo/product-docs/administration/marketo-custom-activities/understanding-custom-activities.md" target="_blank">사용자 지정 활동</a>?
+<br/>그렇다면 이러한 활동을 클릭하여 Marketo 양식, 이메일 또는 랜딩 페이지와 관련이 없는 활동을 이해합니다.</li></td>
   </tr>
   <tr> 
    <td>사용자 지정 개체</td> 
@@ -280,8 +280,8 @@ ht-degree: 1%
   </tr>
   <tr> 
    <td>캠페인 검사자</td> 
-   <td><li>다음과 같음 <a href="/help/marketo/product-docs/administration/settings/campaign-inspector.md" target="_blank">캠페인 검사자</a> 켜졌나요?</li>
-<br/>활성화되지 않은 경우 활성화하여 활성, CRM과 동기화 및/또는 레코드 삭제 등의 캠페인을 쉽게 식별할 수 있습니다.</td>
+   <td><li>다음과 같음 <a href="/help/marketo/product-docs/administration/settings/campaign-inspector.md" target="_blank">캠페인 검사자</a> 켜졌나요?
+<br/>활성화되지 않은 경우 활성화하여 활성, CRM과 동기화 및/또는 레코드 삭제 등의 캠페인을 쉽게 식별할 수 있습니다.</li></td>
   </tr>
  </tbody> 
 </table>

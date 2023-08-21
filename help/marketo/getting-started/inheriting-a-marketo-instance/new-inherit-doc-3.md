@@ -3,9 +3,9 @@ description: 문서 3 상속 - Marketo 문서 - 제품 설명서
 title: 문서 3 상속
 hide: true
 hidefromtoc: true
-source-git-commit: 6ced5418f33086cb5607a3b91c21dd5de3e14be8
+source-git-commit: 4b726947bfaf9f8e4dcf48076e1148124fb46d25
 workflow-type: tm+mt
-source-wordcount: '833'
+source-wordcount: '843'
 ht-degree: 0%
 
 ---
@@ -36,7 +36,8 @@ ht-degree: 0%
   </tr>
   <tr> 
    <td>프로그램</td> 
-   <td><li>KG - 이것은 여전히 관련이 있습니까 <a href="https://business.adobe.com/blog/perspectives/center-of-excellence-top-10-questions-to-ask-yourself" target="_blank">우수성의 중심</a> 프로그램 템플릿과 함께? 그렇다면 팀의 사용 사례에 맞게 프로그램 템플릿을 사용할 수 있습니까?</li>
+   <td><li>KG - 이것은 여전히 관련이 있습니까 <a href="https://business.adobe.com/blog/perspectives/center-of-excellence-top-10-questions-to-ask-yourself" target="_blank">우수성의 중심</a> 프로그램 템플릿과 함께? 
+   <br/>그렇다면 팀의 사용 사례에 맞게 프로그램 템플릿을 사용할 수 있습니까?</li>
 <li>유사한 프로그램 유형 <a href="/help/marketo/product-docs/core-marketo-concepts/programs/working-with-programs/best-practice-how-to-organize-your-programs.md" target="_blank">일관되게 조직되</a>?</li>
 <li>다음과 같음 <a href="/help/marketo/product-docs/core-marketo-concepts/programs/working-with-programs/understanding-period-costs.md" target="_blank">기간 비용</a> 제자리에 두라고?</li>
 <li>모든 프로그램 <a href="/help/marketo/product-docs/crm-sync/salesforce-sync/sfdc-sync-details/how-to-match-program-statuses-and-salesforce-campaign-statuses-prior-to-sync.md" target="_blank">sfdc 캠페인에 동기화됨</a> (해당되는 경우)?</li>
@@ -44,7 +45,8 @@ ht-degree: 0%
   </tr>
   <tr> 
    <td>보관</td> 
-   <td><li>이전 프로그램임 <a href="/help/marketo/product-docs/core-marketo-concepts/miscellaneous/understanding-folders.md#archive-a-folder" target="_blank">보관됨</a>? 가장 좋은 방법은 매년 복습하는 것이다.</li>
+   <td><li>이전 프로그램임 <a href="/help/marketo/product-docs/core-marketo-concepts/miscellaneous/understanding-folders.md#archive-a-folder" target="_blank">보관됨</a>? 
+   <br/>가장 좋은 방법은 매년 복습하는 것이다. KG - 사실입니까?</li>
 <li>귀사는 오래된 프로그램을 얼마나 자주 검토하고 아카이빙합니까?</li></td>
   </tr>
   <tr> 
@@ -56,7 +58,7 @@ ht-degree: 0%
    <td>스마트 목록 구독 
    <br/>(마케팅 활동/구독 탭)</td> 
    <td><li>진행 중인 작업 <a href="/help/marketo/product-docs/reporting/basic-reporting/report-subscriptions/subscribe-to-a-smart-list.md" target="_blank">스마트 목록 구독</a> 네 생각으로? 그렇다면 그들은 누구에게 갈 것입니까?</li>
-<p>팁: 개인이 아닌 팀 별칭으로 이동하려면 스마트 목록 구독을 설정하는 것이 좋습니다. 이것은 개인이 휴가 중이거나 떠날 경우를 대비하여 귀하를 포함합니다.</td>
+<p>팁: 개인이 아닌 팀 별칭으로 이동하려면 스마트 목록 구독을 설정하는 것이 좋습니다. 개인들이 사무실을 비울 경우를 대비한 것입니다.</td>
   </tr>
  </tbody> 
 </table>
@@ -71,14 +73,17 @@ ht-degree: 0%
   </tr> 
   <tr> 
    <td>토큰</td> 
-   <td><li>가장 일반적으로 사용되는 프로그램 유형에서 토큰이 사용되고 있습니까? 그렇지 않다면 효율성을 높이기 위해 이를 사용하는 것을 고려해야 한다.</li>
+   <td><li>가장 일반적으로 사용되는 프로그램 유형에서 토큰이 사용되고 있습니까? 
+   <br/>그렇지 않다면 효율성을 높이기 위해 이를 사용하는 것을 고려해야 한다.</li>
 <li>토큰이 구현되면 글로벌 폴더 토큰이 있습니까? 어떻게 사용하고 있습니까?</li></td>
   </tr>
   <tr> 
    <td>참여 프로그램</td> 
    <td><li>라이브 진행 여부 <a href="/help/marketo/product-docs/email-marketing/drip-nurturing/creating-an-engagement-program/understanding-engagement-programs.md" target="_blank">참여 프로그램</a> 달리기?</li>
-<li>몇 개 <a href="/help/marketo/product-docs/email-marketing/drip-nurturing/using-engagement-programs/people-who-have-exhausted-content.md" target="_blank">사람들이 지쳤습니다.</a>? 소진된 사람이 많으면 콘텐츠 추가를 고려합니다.</li>
-<li>사람들이 콘텐츠를 사용하고 있습니까? 그렇지 않은 경우 업데이트 및/또는 A/B 테스트를 고려하십시오.</li>
+<li>몇 개 <a href="/help/marketo/product-docs/email-marketing/drip-nurturing/using-engagement-programs/people-who-have-exhausted-content.md" target="_blank">사람들이 지쳤습니다.</a>? 
+<br/>소진된 사람이 많으면 콘텐츠 추가를 고려합니다.</li>
+<li>사람들이 콘텐츠를 사용하고 있습니까? 
+<br/>그렇지 않은 경우 업데이트 및/또는 A/B 테스트를 고려하십시오.</li>
 <li><a href="/help/marketo/product-docs/email-marketing/drip-nurturing/using-engagement-programs/see-members-of-an-engagement-program.md" target="_blank">몇 분이시죠</a> KG - 모든 프로그램을 한 번에 볼 수 있는 방법이 있습니까? 그렇게 생각하지 말고 반드시 두 가지 이상의 참여 프로그램에 참여하도록 하십시오. 여러 개가 있어야 합니까?</li></td>
   </tr>
   <tr> 
@@ -96,12 +101,12 @@ ht-degree: 0%
    <td>로컬 Forms</td> 
    <td><li>몇 개의 프로그램이 로컬에 있습니까 <a href="/help/marketo/product-docs/demand-generation/forms/creating-a-form/create-a-form.md" target="_blank">양식</a>? 이러한 양식들은 글로벌 양식으로 바뀌어야 하는가?</li>
 <li>마케팅 및 영업 팀에 적합한 데이터를 캡처하고 있습니까?</li>
-<p>팁: 로컬 양식 수를 제한하여 쉽게 업데이트하고 데이터 개인정보 보호, 옵트인/옵트아웃 정책에 대한 변경 사항에 맞추시겠습니까? 양식을 만들 때, 수집된 정보가 변경되지 않고 고급 양식 기능이 이동하지 않는 경우 질문할 사항을 고려하십시오. 로컬 양식 대신 글로벌 양식을 고려하십시오.</td>
+<p>팁: 로컬 양식 수를 제한하여 데이터 개인 정보 보호 및 옵트인/옵트아웃 정책을 쉽게 업데이트하고 변경 사항에 맞출 수 있습니다. 양식을 만들 때 어떤 질문을 해야 하는지 고려하십시오. 수집된 정보가 변경되지 않고 고급 양식 기능이 이동하지 않으면 로컬 양식 대신 글로벌 양식을 고려하십시오. KG - 확인</td>
   </tr>
   <tr> 
    <td>글로벌 Forms</td> 
-   <td><li>어디에서 사용합니까 <a href="/help/marketo/product-docs/administration/settings/global-form-validation-rules.md" target="_blank">글로벌 양식</a>? (Marketo 랜딩 페이지와 비 Marketo 랜딩 페이지 비교)</li>
-<li>전역 양식에서 사용자를 어떻게 <a href="/help/marketo/product-docs/demand-generation/forms/creating-a-form/set-a-form-thank-you-page.md" target="_blank">감사 인사 페이지</a>? (숨겨진 양식 필드 또는 CMS 페이지 템플릿 내에서)</li>
+   <td><li>어디에서 사용합니까 <a href="/help/marketo/product-docs/administration/settings/global-form-validation-rules.md" target="_blank">글로벌 양식</a>? (Marketo Engage 랜딩 페이지와 Marketo Engage이 아닌 랜딩 페이지)</li>
+<li>전역 양식에서 사용자를 어떻게 <a href="/help/marketo/product-docs/demand-generation/forms/creating-a-form/set-a-form-thank-you-page.md" target="_blank">감사 인사 페이지</a> (숨겨진 양식 필드 또는 CMS 페이지 템플릿 내에서)</li>
 <li>추가하거나 제거해야 하는 양식 필드가 있습니까?</li>
 <li>변경해야 하는 선택 목록 값이 있습니까?</li>
 <li>다음을 고려해야 합니까? <a href="/help/marketo/product-docs/demand-generation/forms/form-actions/configure-form-progressive-profiling.md" target="_blank">점진적 프로파일링</a>?</li>
@@ -127,7 +132,7 @@ ht-degree: 0%
   <tr> 
    <td>개인 소스</td> 
    <td><li>개인 소스 필드에 값을 할당하는 중앙 집중식 프로그램이 있습니까?</li>
-<p>참고: Marketo Engage은 운영 프로그램에 관계없이 소스 필드에 데이터를 자동으로 수집합니다.</td>
+<p>참고: Marketo Engage은 운영 프로그램과 관계없이 소스 필드에서 데이터를 자동으로 수집합니다.</td>
   </tr>
   <tr> 
    <td>데이터 표준화</td> 
@@ -139,7 +144,8 @@ ht-degree: 0%
   </tr>
   <tr> 
    <td>개인 정보 및 규정 준수</td> 
-   <td><li>데이터 개인정보 보호 및 스팸 법률을 준수하는지 확인하는 프로그램이 있습니까? 고려 <a href="https://business.adobe.com/resources/ebooks/the-gdpr-and-the-marketer.html" target="_blank">GDPR</a>, CASL, CAN-SPAM, CCPA 등</li>
+   <td><li>데이터 개인정보 보호 및 스팸 법률을 준수하는지 확인하는 프로그램이 있습니까? 
+   <br/>고려 <a href="https://business.adobe.com/resources/ebooks/the-gdpr-and-the-marketer.html" target="_blank">GDPR</a>, CASL, CAN-SPAM, CCPA 등</li>
 <p>팁: 이러한 문제에 대해서는 항상 법무팀에 문의하십시오. 변경하기 전에 규정 준수를 유지하기 위한 이전 이니셔티브에 대해 팀에 문의하십시오.</td>
   </tr>
   <tr> 
