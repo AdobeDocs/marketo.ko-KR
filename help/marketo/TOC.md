@@ -3,9 +3,9 @@ audience: end-user
 user-guide-title: Marketo 안내서
 user-guide-description: Marketo 제품 설명서
 feature-set: Marketo Engage
-source-git-commit: 5602a0a771127a341a4c269739aca6e2a4e78d40
+source-git-commit: b5cd0192eefab83bca047094de42eede479c755a
 workflow-type: tm+mt
-source-wordcount: '9021'
+source-wordcount: '9027'
 ht-degree: 0%
 
 ---
@@ -38,6 +38,7 @@ ht-degree: 0%
       + [랜딩 페이지 리디렉션](getting-started/quick-wins/redirect-a-landing-page.md)
       + [중복 가능성이 있는 사용자에 대한 경고 자동화](getting-started/quick-wins/advanced-solutions/automate-an-alert-for-possible-duplicate-people.md)
    + Marketo 인스턴스 상속 {#inheriting-a-marketo-instance}
+      + [새 상속 개요](getting-started/inheriting-a-marketo-instance/new-inherit-overview.md)
       + [도움말! 기존 Marketo 인스턴스를 상속했습니다.](getting-started/inheriting-a-marketo-instance/help-ive-inherited-an-existing-marketo-instance.md)
       + [체크오프할 항목](getting-started/inheriting-a-marketo-instance/items-to-check-off.md)
       + [검토해야 할 사항: 핵심 기술](getting-started/inheriting-a-marketo-instance/things-to-review-core-skills.md)
@@ -46,6 +47,7 @@ ht-degree: 0%
       + [새 문서 상속 2](getting-started/inheriting-a-marketo-instance/new-inherit-doc-2.md)
       + [새 문서 상속 3](getting-started/inheriting-a-marketo-instance/new-inherit-doc-3.md)
       + [새 문서 상속 4](getting-started/inheriting-a-marketo-instance/new-inherit-doc-4.md)
+      + [새 문서 상속 5](getting-started/inheriting-a-marketo-instance/new-inherit-doc-5.md)
 + 제품 문서 {#product-docs}
    + 추가 앱 {#additional-apps}
       + SEO {#seo}
