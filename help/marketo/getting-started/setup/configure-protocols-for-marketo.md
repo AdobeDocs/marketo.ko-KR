@@ -4,7 +4,7 @@ description: Marketo에 대한 프로토콜 구성 - Marketo 문서 - 제품 설
 title: Marketo에 대한 프로토콜 구성
 exl-id: cf2fd4ac-9229-4e52-bb68-5732b44920ef
 feature: Getting Started
-source-git-commit: 02b2e39580c5eac63de4b4b7fdaf2a835fdd4ba5
+source-git-commit: 9d1b18b2aebde00ae715a072580a8f128d07923e
 workflow-type: tm+mt
 source-wordcount: '1024'
 ht-degree: 3%
@@ -27,6 +27,7 @@ IT 팀이 허용 목록에 추가하다를 사용하여 웹 액세스를 제한�
 * `*.marketodesigner.com`
 * `*.mktoweb.com`
 * `*.experience.adobe.com`
+* `*.adobe.net`
 
 ## 1단계: 랜딩 페이지 및 이메일에 대한 DNS 레코드 만들기 {#step-create-dns-records-for-landing-pages-and-email}
 

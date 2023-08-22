@@ -4,9 +4,9 @@ description: Salesforce Enterprise/Unlimited에서 Marketo Sales Insight 구성 
 title: Salesforce Enterprise/Unlimited에서 Marketo Sales Insight 구성
 exl-id: a33ed396-8d26-403f-b6d8-fe7c55ce76ba
 feature: Marketo Sales Insights
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 9d1b18b2aebde00ae715a072580a8f128d07923e
 workflow-type: tm+mt
-source-wordcount: '849'
+source-wordcount: '847'
 ht-degree: 0%
 
 ---
@@ -147,10 +147,10 @@ Salesforce Enterprise/Unlimited Editions에서 Marketo Sales Insight를 구성�
       <td>마지막 관심 순간 유형</td> 
      </tr> 
      <tr> 
-      <td>영업별 마지막 Marketo 활동</td> 
+      <td>판매별 마지막 활동</td> 
      </tr> 
      <tr> 
-      <td>영업 팀별 마지막 Marketo 계약</td> 
+      <td>영업 팀별 마지막 참여</td> 
      </tr> 
      <tr> 
       <td>MSI 연락처 Id</td> 
