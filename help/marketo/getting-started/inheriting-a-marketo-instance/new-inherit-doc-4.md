@@ -3,20 +3,16 @@ description: 문서 4 상속 - Marketo 문서 - 제품 설명서
 title: 문서 4 상속
 hide: true
 hidefromtoc: true
-source-git-commit: 4b726947bfaf9f8e4dcf48076e1148124fb46d25
+source-git-commit: d7334acc31456b640a128c699d07a6b4af330469
 workflow-type: tm+mt
-source-wordcount: '419'
+source-wordcount: '506'
 ht-degree: 1%
 
 ---
 
 # 문서 4 상속 {#inherit-doc-4}
 
-다른 관리자로부터 기존 Marketo Engage 인스턴스를 상속받았습니까? 그렇다면, 이 기사는 당신을 위한 것입니다.
-
->[!TIP]
->
->새로운 Marketo Engage 사용자이고 많은 용어를 잘 모를 경우 [Marketo 용어](/help/marketo/getting-started/marketo-glossary.md){target="_blank"}.
+템플릿을 구조화하고 글로벌 양식, 코드 조각, 이미지 및 파일을 만들면 데이터 오류를 최소화하고 프로그램 빌드의 워크플로를 간소화할 수 있습니다.
 
 ## 랜딩 페이지 {#landing-pages}
 
@@ -35,6 +31,10 @@ ht-degree: 1%
    <td><li>몇 개 <a href="/help/marketo/product-docs/demand-generation/landing-pages/landing-page-templates/create-a-free-form-landing-page-template.md" target="_blank">랜딩 페이지 템플릿</a> 있습니까? 그들이 이용되고 있습니까?</li></td>
   </tr>
   <tr> 
+   <td>테스트 그룹</td> 
+   <td><li>몇 개 <a href="/help/marketo/product-docs/demand-generation/landing-pages/understanding-landing-pages/landing-page-test-groups.md" target="_blank">랜딩 페이지 테스트 그룹</a> 그런가요? 그들 모두 여전히 관련이 있습니까?</li></td>
+  </tr>
+   <tr> 
    <td>개인 정보 및 규정 준수</td> 
    <td><li>모든 랜딩 페이지에 적절한 바닥글이 있습니까?</li></td>
   </tr>
@@ -88,6 +88,10 @@ ht-degree: 1%
    <td><li>몇 개 <a href="/help/marketo/product-docs/email-marketing/general/email-editor-2/create-an-email-template.md" target="_blank">이메일 템플릿</a> 있습니까? 그들이 이용되고 있습니까?</li></td>
   </tr>
   <tr> 
+   <td>이메일 테스트</td> 
+   <td><li>사용 방법 <a href="/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/email-test-a-b-test/understanding-email-testing-options.md" target="_blank">이메일 테스트</a>? 당신의 방법은 여전히 효과적입니까?</li></td>
+  </tr>
+  <tr> 
    <td>개인 정보 및 규정 준수</td> 
    <td><li>모든 이메일에 적합한 바닥글이 있습니까? GDPR, CASL, CAN-SPAM, CCPA 등을 고려합니다. 규정 준수에 관한 내용입니다.</li>
 <p>팁: 이러한 규정 준수 문제는 항상 법률 팀에 문의하십시오. 변경하기 전에 규정 준수를 유지하기 위한 이전 이니셔티브에 대해 팀에 문의하십시오.</td>
@@ -135,3 +139,30 @@ ht-degree: 1%
   </tr>
  </tbody> 
 </table>
+
+## 모든 에셋 {#all-assets}
+
+<table style="table-layout:auto"> 
+ <tbody> 
+  <tr> 
+   <th>영역</th> 
+   <th>리뷰 포커스</th>
+  </tr> 
+  <tr> 
+   <td>에셋 상태</td> 
+   <td><li>에셋 수 <i>초안</i> 및 <i>초안으로 승인됨</i> 상태?
+   <br/>많은 항목이 있는 경우 삭제하거나 승인하는 것이 좋습니다.</li></td>
+  </tr>
+  <tr> 
+   <td>자산 공유</td> 
+   <td><li>에셋은 무엇입니까? <a href="/help/marketo/product-docs/administration/workspaces-and-person-partitions/understanding-workspaces-and-person-partitions.md#sharing-across-workspaces" target="_blank">작업 영역에서 공유됨</a>?</li>
+   <p>참고: 한 작업 영역에서 작업을 수행하면 다른 사용자의 다른 작업 영역에서 액세스할 수 없는 자산이 될 수 있으므로 이 사실을 아는 것이 중요합니다.</td>
+  </tr>
+ </tbody> 
+</table>
+
+<br> 
+
+[◄ 인스턴스 감사: 마케팅 활동](/help/marketo/getting-started/inheriting-a-marketo-instance/new-inherit-doc-3.md)
+
+[상속된 인스턴스 감사: 상속된 인스턴스 설정 문서를 ►](/help/marketo/getting-started/inheriting-a-marketo-instance/new-inherit-doc-5.md)
