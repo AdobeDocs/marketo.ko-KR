@@ -3,16 +3,16 @@ description: 문서 5 상속 - Marketo 문서 - 제품 설명서
 title: 문서 5 상속
 hide: true
 hidefromtoc: true
-source-git-commit: dcfbd50df5ef642c3c94b96be938a43f30e8288b
+source-git-commit: f143c4e2dae309767c828282f718ad8d72733f81
 workflow-type: tm+mt
-source-wordcount: '174'
-ht-degree: 3%
+source-wordcount: '228'
+ht-degree: 2%
 
 ---
 
 # 문서 5 상속 {#inherit-doc-5}
 
-텍스트
+설정된 인스턴스를 상속할 때 감사할 주요 제품 영역에 대해 알아보았으므로, 다음 단계는 인스턴스 구성 및 기술 스택에 대한 설명서를 생성/업데이트하는 것입니다. 스프레드시트나 프로젝트 관리 애플리케이션을 통해 작성하든 진행 상황을 추적하고 세부 정보를 기록할 수 있는 유용한 리소스입니다.
 
 ## 데이터 {#data}
 
@@ -51,7 +51,7 @@ ht-degree: 3%
   <tr> 
    <td>조직</td> 
     <td><li>Marketo Engage 인스턴스가 구성되는 방식과 그 이유에 대한 강력한 설명서가 있습니까?</li>
-   <p>작업 항목: 폴더 구조, 명명 규칙 및 채널/법령 KG가 포함된 문서를 만드십시오. 인스턴스에서 사용됩니다.</td>
+   <p>작업 항목: 폴더 구조, 명명 규칙 및 인스턴스에 사용되는 채널이 포함된 설명서를 만듭니다.</td>
   </tr>
   <tr> 
    <td>변경 로그</td> 
@@ -69,3 +69,5 @@ ht-degree: 3%
   </tr>
  </tbody> 
 </table>
+
+[◄ 인스턴스 감사: Design Studio](/help/marketo/getting-started/inheriting-a-marketo-instance/new-inherit-doc-4.md)

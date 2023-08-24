@@ -3,20 +3,16 @@ description: 문서 2 상속 - Marketo 문서 - 제품 설명서
 title: 문서 2 상속
 hide: true
 hidefromtoc: true
-source-git-commit: 4b726947bfaf9f8e4dcf48076e1148124fb46d25
+source-git-commit: f143c4e2dae309767c828282f718ad8d72733f81
 workflow-type: tm+mt
-source-wordcount: '384'
+source-wordcount: '369'
 ht-degree: 1%
 
 ---
 
 # 문서 2 상속 {#inherit-doc-2}
 
-다른 관리자로부터 기존 Marketo Engage 인스턴스를 상속받았습니까? 그렇다면, 이 기사는 당신을 위한 것입니다.
-
->[!TIP]
->
->새로운 Marketo Engage 사용자이고 많은 용어를 잘 모를 경우 [Marketo 용어](/help/marketo/getting-started/marketo-glossary.md){target="_blank"}.
+구독의 총 인원 수, 마케팅 가능한 사람 및 인기 사용자 확보 소스를 파악합니다.
 
 ## 시스템 스마트 목록 {#system-smart-lists}
 
@@ -116,3 +112,9 @@ ht-degree: 1%
   </tr>
  </tbody> 
 </table>
+
+<br> 
+
+[◄ 인스턴스 감사: 관리자](/help/marketo/getting-started/inheriting-a-marketo-instance/new-inherit-doc-1.md)
+
+[상속된 인스턴스 감사: 마케팅 활동 ►](/help/marketo/getting-started/inheriting-a-marketo-instance/new-inherit-doc-3.md)

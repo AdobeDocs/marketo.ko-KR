@@ -3,20 +3,18 @@ description: 문서 1 상속 - Marketo 문서 - 제품 설명서
 title: 문서 1 상속
 hide: true
 hidefromtoc: true
-source-git-commit: 4b726947bfaf9f8e4dcf48076e1148124fb46d25
+source-git-commit: f143c4e2dae309767c828282f718ad8d72733f81
 workflow-type: tm+mt
-source-wordcount: '1223'
+source-wordcount: '1229'
 ht-degree: 1%
 
 ---
 
 # 문서 1 상속 {#inherit-doc-1}
 
-상속된 인스턴스를 감사하는 것은...
+새로운 Adobe Marketo Engage 관리자로서 상속된 인스턴스의 상태와 실행 가능성을 확인하기 위해 수행해야 하는 몇 가지 작업이 있습니다.
 
-다른 관리자로부터 기존 Marketo Engage 인스턴스를 상속받았습니까? 그렇다면 이 문서는 귀하를 위한 것입니다 ...
-
-아래 체크리스트는 상속된 인스턴스에서 빠르게 속도를 높이는 데 도움이 되도록 Marketo 챔피언의 입력과 함께 입력되었습니다.
+아래 체크리스트(각 문서의 하단에 연결된 후속 체크리스트)는 Marketo 챔피언의 입력과 함께 사용되어 빠르게 시작할 수 있습니다. Marketo Engage 상속 인스턴스 확인 목록에 진행 상황을 문서화합니다.
 
 >[!TIP]
 >
@@ -112,7 +110,7 @@ ht-degree: 1%
   <tr> 
    <td>스마트 캠페인 설정</td> 
    <td><li><a href="/help/marketo/product-docs/administration/email-setup/enable-person-restrictions-for-smart-campaigns.md" target="_blank">제한이 있나요</a> 스마트 캠페인 크기 
-   <br/>그렇지 않으면 한 개를 추가하는 것이 좋습니다. 워크플로우에서 전체 데이터베이스를 처리하거나 과도한 통신을 방지하기 위해 스마트 캠페인 제한을 데이터베이스의 25%로 제한하는 것이 좋습니다. 이렇게 하면 브랜드를 보호할 뿐만 아니라 인스턴스의 성능을 보호할 수 있습니다. KG - 이게 정확한가?</li></td>
+   <br/>그렇지 않으면 한 개를 추가하는 것이 좋습니다. 워크플로우에서 전체 데이터베이스를 처리하거나 과도한 통신을 방지하기 위해 Smart Campaign 제한을 데이터베이스의 25%로 제한하는 것이 좋습니다. 이렇게 하면 브랜드를 보호할 뿐만 아니라 인스턴스의 성능을 보호할 수 있습니다.</li></td>
   </tr>
  </tbody> 
 </table>
@@ -128,7 +126,7 @@ ht-degree: 1%
   <tr> 
    <td>커뮤니케이션 제한</td> 
    <td><li>거기 있습니까 <a href="/help/marketo/product-docs/administration/email-setup/enable-communication-limits.md" target="_blank">커뮤니케이션 제한</a> 제자리에? 귀사의 비즈니스에 통신 제한이 필요할 수 있는 정책이 있습니까?</li>
-<p>참고: Adobe은 하루에 1회, 7일마다 3회로 커뮤니케이션을 제한할 것을 권장합니다. <b>비</b>-<a href="/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/make-an-email-operational.md" target="_blank">작동-</a> 이메일이 차단되었습니다. KG - 이게 정확한가?</td>
+<p>참고: Adobe은 하루에 1회, 7일마다 3회로 커뮤니케이션을 제한할 것을 권장합니다. <b>비</b>-<a href="/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/make-an-email-operational.md" target="_blank">작동-</a> 이메일이 차단되었습니다.</td>
   </tr>
  </tbody> 
 </table>
@@ -209,7 +207,7 @@ ht-degree: 1%
   <tr> 
    <td>CRM</td> 
    <td><li>어떤 CRM과 동기화하시겠습니까? Salesforce? MS Dynamics? 베바?</li>
-<li>사용자 지정 동기화 또는 양방향 동기화? (KG: 문법 수정 및 중요도 확인)</li>
+<li>사용자 지정 동기화를 활용하고 있습니까?</li>
 <li>[Salesforce만 해당] 인스턴스에 사용자 지정 동기화 필터가 구현되었습니까? 
 <p>참고: Marketo 지원 센터에 문의하여 사용자 지정 동기화 필터를 식별하거나 사용자 지정 동기화 규칙을 구현하도록 요청하십시오.</li></td>
   </tr>
@@ -313,3 +311,7 @@ ht-degree: 1%
   </tr>
  </tbody> 
 </table>
+
+<br> 
+
+[상속된 인스턴스 감사: 데이터베이스 ►](/help/marketo/getting-started/inheriting-a-marketo-instance/new-inherit-doc-2.md)

@@ -3,9 +3,9 @@ description: Campaign 실행 - Marketo 문서 - 제품 설명서
 title: 캠페인 실행
 exl-id: d550cf08-b295-4289-9bb0-79d81cabc245
 feature: Smart Campaigns
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: f143c4e2dae309767c828282f718ad8d72733f81
 workflow-type: tm+mt
-source-wordcount: '708'
+source-wordcount: '709'
 ht-degree: 0%
 
 ---
@@ -103,7 +103,7 @@ true로 설정하면 다음 토큰 컨텍스트가 하위 캠페인(실행 중�
 
 **예제 2: False**
 
-두 번째 상위 캠페인의 캠페인 실행 필터에서 &quot;상위 캠페인 토큰 컨텍스트 사용&quot;이 로 설정됩니다. **False**.
+두 번째 상위 캠페인의 캠페인 실행 흐름 단계에서 &quot;상위 캠페인 토큰 컨텍스트 사용&quot;이 로 설정됩니다. **False**.
 
 ![](assets/execute-campaign-8.png)
 

@@ -3,9 +3,9 @@ description: 상속한 기존 Marketo Engage 인스턴스를 최적화하고 확
 title: 상속된 Marketo Engage 인스턴스 Jumpstart
 hide: true
 hidefromtoc: true
-source-git-commit: b449dd568bd382dc9abd1c4f023e09962ac52081
+source-git-commit: f143c4e2dae309767c828282f718ad8d72733f81
 workflow-type: tm+mt
-source-wordcount: '353'
+source-wordcount: '335'
 ht-degree: 0%
 
 ---
@@ -55,5 +55,3 @@ ht-degree: 0%
 * 에서 동료 Marketo Engage 사용자와 연결하고 학습합니다. **[마케팅 국가](https://nation.marketo.com/){target="_blank"}**.
 
 * Marketo Engage 인스턴스를 최대한 활용하는 데 대한 실습 지원이 필요한 경우 **[Adobe Professional Services](https://business.adobe.com/products/marketo/services-support.html)**.
-
-* Marketo Engage 기술을 향상시키려면 **[Marketo Engage 과정 카탈로그](https://learning.adobe.com/catalog.html?products=Marketo%20Engage){target="_blank"}**.

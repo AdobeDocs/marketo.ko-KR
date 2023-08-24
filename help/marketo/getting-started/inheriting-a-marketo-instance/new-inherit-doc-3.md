@@ -3,20 +3,16 @@ description: 문서 3 상속 - Marketo 문서 - 제품 설명서
 title: 문서 3 상속
 hide: true
 hidefromtoc: true
-source-git-commit: 4b726947bfaf9f8e4dcf48076e1148124fb46d25
+source-git-commit: f143c4e2dae309767c828282f718ad8d72733f81
 workflow-type: tm+mt
-source-wordcount: '843'
+source-wordcount: '801'
 ht-degree: 0%
 
 ---
 
 # 문서 3 상속 {#inherit-doc-3}
 
-다른 관리자로부터 기존 Marketo Engage 인스턴스를 상속받았습니까? 그렇다면, 이 기사는 당신을 위한 것입니다.
-
->[!TIP]
->
->새로운 Marketo Engage 사용자이고 많은 용어를 잘 모를 경우 [Marketo 용어](/help/marketo/getting-started/marketo-glossary.md){target="_blank"}.
+마케팅 활동에서는 마케팅 팀이 스마트 캠페인을 만들고, 크리에이티브 에셋(예: 이메일 및 랜딩 페이지)을 빌드하고, 에셋 성과를 볼 수 있습니다.
 
 ## 조직 {#organization}
 
@@ -45,9 +41,9 @@ ht-degree: 0%
   </tr>
   <tr> 
    <td>보관</td> 
-   <td><li>이전 프로그램임 <a href="/help/marketo/product-docs/core-marketo-concepts/miscellaneous/understanding-folders.md#archive-a-folder" target="_blank">보관됨</a>? 
-   <br/>가장 좋은 방법은 매년 복습하는 것이다. KG - 사실입니까?</li>
-<li>귀사는 오래된 프로그램을 얼마나 자주 검토하고 아카이빙합니까?</li></td>
+   <td><li>이전 프로그램임 <a href="/help/marketo/product-docs/core-marketo-concepts/miscellaneous/understanding-folders.md#archive-a-folder" target="_blank">보관됨</a>?</li>
+<li>귀사는 오래된 프로그램을 얼마나 자주 검토하고 아카이빙합니까?</li>
+<p>팁: 매년 리뷰를 수행하는 것이 좋습니다.</td>
   </tr>
   <tr> 
    <td>알림</td> 
@@ -83,8 +79,7 @@ ht-degree: 0%
 <li>몇 개 <a href="/help/marketo/product-docs/email-marketing/drip-nurturing/using-engagement-programs/people-who-have-exhausted-content.md" target="_blank">사람들이 지쳤습니다.</a>? 
 <br/>소진된 사람이 많으면 콘텐츠 추가를 고려합니다.</li>
 <li>사람들이 콘텐츠를 사용하고 있습니까? 
-<br/>그렇지 않은 경우 업데이트 및/또는 A/B 테스트를 고려하십시오.</li>
-<li><a href="/help/marketo/product-docs/email-marketing/drip-nurturing/using-engagement-programs/see-members-of-an-engagement-program.md" target="_blank">몇 분이시죠</a> KG - 모든 프로그램을 한 번에 볼 수 있는 방법이 있습니까? 그렇게 생각하지 말고 반드시 두 가지 이상의 참여 프로그램에 참여하도록 하십시오. 여러 개가 있어야 합니까?</li></td>
+<br/>그렇지 않은 경우 업데이트 및/또는 A/B 테스트를 고려하십시오.</li></td>
   </tr>
   <tr> 
    <td>캠페인 일괄 처리</td> 
@@ -169,3 +164,9 @@ ht-degree: 0%
   </tr>
  </tbody> 
 </table>
+
+<br> 
+
+[◄ 인스턴스 감사: 데이터베이스](/help/marketo/getting-started/inheriting-a-marketo-instance/new-inherit-doc-2.md)
+
+[상속된 인스턴스 감사: Design Studio ►](/help/marketo/getting-started/inheriting-a-marketo-instance/new-inherit-doc-4.md)
