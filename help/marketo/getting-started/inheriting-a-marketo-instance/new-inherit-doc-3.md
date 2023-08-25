@@ -3,9 +3,9 @@ description: 문서 3 상속 - Marketo 문서 - 제품 설명서
 title: 문서 3 상속
 hide: true
 hidefromtoc: true
-source-git-commit: f143c4e2dae309767c828282f718ad8d72733f81
+source-git-commit: 9b2d2ffd93f2c8b209e4ea25bbe7ef41c9f0e5fc
 workflow-type: tm+mt
-source-wordcount: '801'
+source-wordcount: '788'
 ht-degree: 0%
 
 ---
@@ -96,7 +96,7 @@ ht-degree: 0%
    <td>로컬 Forms</td> 
    <td><li>몇 개의 프로그램이 로컬에 있습니까 <a href="/help/marketo/product-docs/demand-generation/forms/creating-a-form/create-a-form.md" target="_blank">양식</a>? 이러한 양식들은 글로벌 양식으로 바뀌어야 하는가?</li>
 <li>마케팅 및 영업 팀에 적합한 데이터를 캡처하고 있습니까?</li>
-<p>팁: 로컬 양식 수를 제한하여 데이터 개인 정보 보호 및 옵트인/옵트아웃 정책을 쉽게 업데이트하고 변경 사항에 맞출 수 있습니다. 양식을 만들 때 어떤 질문을 해야 하는지 고려하십시오. 수집된 정보가 변경되지 않고 고급 양식 기능이 이동하지 않으면 로컬 양식 대신 글로벌 양식을 고려하십시오. KG - 확인</td>
+<p>팁: 로컬 양식 수를 제한하여 데이터 개인 정보 보호 및 옵트인/옵트아웃 정책을 쉽게 업데이트하고 변경 사항에 맞출 수 있습니다. 양식을 만들 때 어떤 질문을 해야 합니까? 수집된 정보가 변경되지 않고 고급 양식 기능이 이동하지 않으면 로컬 양식 대신 글로벌 양식을 고려하십시오.</td>
   </tr>
   <tr> 
    <td>글로벌 Forms</td> 
@@ -131,11 +131,11 @@ ht-degree: 0%
   </tr>
   <tr> 
    <td>데이터 표준화</td> 
-   <td><li>들어오는 데이터를 표준화할 수 있는 중앙 집중식 프로그램이 있습니까? KG - 두 번 확인</li></td>
+   <td><li>들어오는 데이터를 표준화할 수 있는 중앙 집중식 프로그램이 있습니까?</li></td>
   </tr>
   <tr> 
    <td>바운스 관리</td> 
-   <td><li>중앙 집중식으로 처리할 수 있는 프로그램이 있습니까 <a href="https://nation.marketo.com/t5/product-blogs/data-management-best-practices-resources-for-managing-bounces/ba-p/243512" target="_blank">바운스된 사람</a>? KG - 이 2017 기사는 여전히 관련성이 있습니까?</li></td>
+   <td><li>중앙 집중식으로 처리할 수 있는 프로그램이 있습니까 <a href="https://nation.marketo.com/t5/product-blogs/data-management-best-practices-resources-for-managing-bounces/ba-p/243512" target="_blank">바운스된 사람</a>?</li></td>
   </tr>
   <tr> 
    <td>개인 정보 및 규정 준수</td> 
