@@ -2,10 +2,10 @@
 description: 릴리스 노트 - 2023년 7월 - Marketo 설명서 - 제품 설명서
 title: 릴리스 노트 - 2023년 7월
 feature: Release Information
-source-git-commit: 00b5fbef3ba91a84afa9da261cd73b875446e3e0
+source-git-commit: 45e092f7b7e7beeef9712869b62ba4e022c2bf3d
 workflow-type: tm+mt
-source-wordcount: '666'
-ht-degree: 1%
+source-wordcount: '664'
+ht-degree: 2%
 
 ---
 
@@ -67,8 +67,8 @@ ht-degree: 1%
    <td><b>설명서 업데이트 정보</b></td>
   </tr>
   <tr> 
-   <td><i>곧 출시 예정</i></td>
-   <td><i>곧 출시 예정</i></td>
+   <td>배송됨</td>
+   <td>해당 사항 없음</td>
   </tr>
   </tbody>
 </table>
@@ -81,8 +81,8 @@ ht-degree: 1%
    <td><b>설명서 업데이트 정보</b></td>
   </tr>
   <tr> 
-   <td><i>곧 출시 예정</i></td>
-   <td><i>곧 출시 예정</i></td>
+   <td>배송됨</td>
+   <td>해당 사항 없음</td>
   </tr>
   </tbody>
 </table>
