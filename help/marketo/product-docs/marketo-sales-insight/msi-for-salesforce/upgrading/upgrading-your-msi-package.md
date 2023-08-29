@@ -4,14 +4,18 @@ description: MSI 패키지 업그레이드 - Marketo 문서 - 제품 설명서
 title: MSI 패키지 업그레이드 중
 exl-id: 45004990-8452-4824-a9b2-89cd8302fe43
 feature: Marketo Sales Insights
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: ddc9242bdf1b3ec34bb2672821b6b054647d94b5
 workflow-type: tm+mt
-source-wordcount: '218'
+source-wordcount: '268'
 ht-degree: 0%
 
 ---
 
 # MSI 패키지 업그레이드 중 {#upgrading-your-msi-package}
+
+>[!IMPORTANT]
+>
+>Salesforce의 보안 향상으로 인해 Sales Insight 패키지는 더 이상 표준 오브젝트에 대한 권한을 부여할 수 없습니다. 앞으로 Sales Insight 사용자의 Salesforce 프로필에는 리드, 연락처, 계정 및 기회와 같은 표준 오브젝트에 대한 읽기 액세스 권한이 있어야 합니다. [여기에서 구성하는 방법에 대해 알아보십시오.](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/configuration/configure-marketo-sales-insight-in-salesforce-professional-edition.md#grant-sales-insight-users-profile-access){target="_blank"}.
 
 1. 다음으로 이동 [appexchange의 이 페이지](https://appexchange.salesforce.com/listingDetail?listingId=a0N30000001SVZmEAO){target="_blank"}.
 
@@ -23,7 +27,7 @@ ht-degree: 0%
    >
    >프로덕션 인스턴스를 업그레이드하기 전에 샌드박스 인스턴스에서 이를 테스트하는 것이 좋습니다.
 
-1. &quot;관리자만 설치&quot;(및 나중에 특정 프로필에 대한 MSI 액세스 권한 제공), &quot;모든 사용자용 설치&quot; 또는 &quot;특정 프로필용 설치&quot;를 선택하여 패키지를 업그레이드할 수 있습니다. 이 예제에서는 관리자만 선택합니다. 선택을 완료하면 **업그레이드**.
+1. &quot;관리자만 설치&quot;(및 나중에 특정 프로필에 대한 MSI 액세스 권한 제공), &quot;모든 사용자에 대해 설치&quot; 또는 &quot;특정 프로필에 대해 설치&quot;를 선택하여 패키지를 업그레이드할 수 있습니다. 이 예제에서는 관리자만 선택합니다. 선택을 완료하면 **업그레이드**.
 
    ![](assets/four.png)
 
