@@ -4,9 +4,9 @@ description: Salesforce Professional Edition에서 Marketo Sales Insight 구성 
 title: Salesforce Professional Edition에서 Marketo Sales Insight 구성
 exl-id: fae63560-0bb3-46a9-94a3-cc27c1aa363e
 feature: Marketo Sales Insights
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: c85f544f2c06a2f5bb92d6e7cad5f801e73fdaed
 workflow-type: tm+mt
-source-wordcount: '872'
+source-wordcount: '962'
 ht-degree: 0%
 
 ---
@@ -121,6 +121,20 @@ Salesforce Professional Edition에서 Marketo Sales Insight를 구성하는 데 
    >[!NOTE]
    >
    >다음을 선택하세요. **원격 사이트 이름** (여기서는 MarketoAPI가 사용됩니다.) 다음 **원격 사이트 URL** 4단계에서 API 구성 편집 대화 상자의 Marketo 호스트 필드에 표시됩니다.
+
+## 표준 Salesforce 개체에 대한 Sales Insight 사용자 프로필 액세스 권한 부여 {#grant-sales-insight-users-profile-access}
+
+Saleforce 보안 향상으로 인해 앱 교환 패키지는 더 이상 표준 오브젝트에 대한 권한을 부여할 수 없으므로 Salesforce 사용자 프로필에서 관련 Salesforce 오브젝트에 액세스 권한을 부여해야 합니다. 필요한 권한을 부여하려면 아래 단계를 따르십시오.
+
+1. 클릭 **설정**.
+
+1. 빠른 찾기에서 &quot;프로필&quot;을 검색합니다.
+
+1. 클릭 **편집** 다음은 Salesforce 사용자가 사용하는 프로필 옆에 있습니다.
+
+1. Standard Object Permission 섹션에서 Lead, Contact, Account 및 Opportunity 객체에 대한 읽기 액세스를 활성화합니다.
+
+1. 클릭 **저장**.
 
 ## 페이지 레이아웃 사용자 지정 {#customize-page-layouts}
 
@@ -266,7 +280,7 @@ Marketo 사용자 필드를 Salesforce 연락처 필드에 매핑하여 전환�
  </tbody> 
 </table>
 
-1. 클릭 **저장** 완료 시.
+1. 클릭 **저장** 다 끝나면.
 
    ![](assets/image2014-9-24-17-3a37-3a17.png)
 
@@ -280,7 +294,7 @@ Marketo 사용자 필드를 Salesforce 연락처 필드에 매핑하여 전환�
 
    ![](assets/configure-marketo-sales-insight-in-salesforce-professional-edition-27.png)
 
-바로 그거야! 잠재 고객, 연락처, 계정 및 기회에 대한 Marketo Sales Insight 필드를 볼 수 있어야 합니다.
+다 됐습니다! 잠재 고객, 연락처, 계정 및 기회에 대한 Marketo Sales Insight 필드를 볼 수 있어야 합니다.
 
 >[!NOTE]
 >

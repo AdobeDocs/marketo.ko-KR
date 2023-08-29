@@ -4,9 +4,9 @@ description: Salesforce Enterprise/Unlimited에서 Marketo Sales Insight 구성 
 title: Salesforce Enterprise/Unlimited에서 Marketo Sales Insight 구성
 exl-id: a33ed396-8d26-403f-b6d8-fe7c55ce76ba
 feature: Marketo Sales Insights
-source-git-commit: 9d1b18b2aebde00ae715a072580a8f128d07923e
+source-git-commit: c85f544f2c06a2f5bb92d6e7cad5f801e73fdaed
 workflow-type: tm+mt
-source-wordcount: '847'
+source-wordcount: '937'
 ht-degree: 0%
 
 ---
@@ -80,6 +80,20 @@ Salesforce Enterprise/Unlimited Editions에서 Marketo Sales Insight를 구성�
    >[!NOTE]
    >
    >_본인_ 선택 **원격 사이트 이름** (여기서는 MarketoAPI가 사용됩니다.) 다음 **원격 사이트 URL** API 구성 편집 대화 상자의 Marketo 호스트 필드에 있는 &quot;Marketo에서 Sales Insight 구성&quot; 섹션의 3단계를 참조하십시오.
+
+## 표준 Salesforce 개체에 대한 Sales Insight 사용자 프로필 액세스 권한 부여 {#grant-sales-insight-users-profile-access}
+
+Saleforce 보안 향상으로 인해 앱 교환 패키지는 더 이상 표준 오브젝트에 대한 권한을 부여할 수 없으므로 Salesforce 사용자 프로필에서 관련 Salesforce 오브젝트에 액세스 권한을 부여해야 합니다.  필요한 권한을 부여하려면 아래 단계를 따르십시오.
+
+1. 클릭 **설정**.
+
+1. 빠른 찾기에서 &quot;프로필&quot;을 검색합니다.
+
+1. 클릭 **편집** 다음은 Salesforce 사용자가 사용하는 프로필 옆에 있습니다.
+
+1. Standard Object Permission 섹션에서 Lead, Contact, Account 및 Opportunity 객체에 대한 읽기 액세스를 활성화합니다.
+
+1. 클릭 **저장**.
 
 ## 페이지 레이아웃 사용자 지정 {#customize-page-layouts}
 
