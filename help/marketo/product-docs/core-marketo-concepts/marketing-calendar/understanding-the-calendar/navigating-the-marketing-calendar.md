@@ -4,20 +4,24 @@ description: 마케팅 달력 탐색 - Marketo 문서 - 제품 설명서
 title: 마케팅 달력 탐색
 exl-id: 0a70def5-d98e-4efd-ac3a-36c52c1cbc45
 feature: Marketing Calendar
-source-git-commit: 02b2e39580c5eac63de4b4b7fdaf2a835fdd4ba5
+source-git-commit: afdf59729f16d27a548fa60a8156c941be54a8a7
 workflow-type: tm+mt
-source-wordcount: '165'
+source-wordcount: '172'
 ht-degree: 0%
 
 ---
 
 # 마케팅 달력 탐색 {#navigating-the-marketing-calendar}
 
-마케팅 캘린더를 탐색하는 것은 1, 2, 3으로 간단합니다!
+마케팅 캘린더를 탐색하는 것은 쉽습니다. 방법은 다음과 같습니다.
 
 >[!PREREQUISITES]
 >
 >다음 항목이 있는지 확인하십시오 [마케팅 캘린더 라이선스](/help/marketo/product-docs/core-marketo-concepts/marketing-calendar/understanding-the-calendar/issue-revoke-a-marketing-calendar-license.md){target="_blank"} - 그렇지 않으면 마케팅 달력 타일이 내 Marketo에 표시되지 않습니다.
+
+>[!NOTE]
+>
+>마케팅 캘린더에서는 반복 스마트 캠페인이 지원되지 않습니다.
 
 1. 로 이동 **마케팅 캘린더**.
 

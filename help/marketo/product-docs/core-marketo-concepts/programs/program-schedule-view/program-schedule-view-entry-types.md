@@ -4,9 +4,9 @@ description: 프로그램 일정 보기 항목 유형 - Marketo 문서 - 제품 
 title: 프로그램 스케줄 조회 입력 유형
 exl-id: 0b53d6d3-b813-45c6-9101-191c777610bb
 feature: Programs
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: afdf59729f16d27a548fa60a8156c941be54a8a7
 workflow-type: tm+mt
-source-wordcount: '143'
+source-wordcount: '152'
 ht-degree: 0%
 
 ---
@@ -14,6 +14,10 @@ ht-degree: 0%
 # 프로그램 스케줄 조회 입력 유형 {#program-schedule-view-entry-types}
 
 프로그램 예약 보기에 표시되고 사용할 수 있는 8개의 기본 제공 항목 유형이 있습니다. 다음을 수행할 수도 있습니다. [사용자 지정 항목 유형 만들기](/help/marketo/product-docs/core-marketo-concepts/programs/program-schedule-view/create-custom-entry-types.md) 을 참조하십시오.
+
+>[!NOTE]
+>
+>반복 스마트 캠페인은 다음과 같습니다 **아님** 일정 보기에서 지원됩니다.
 
 <table> 
  <thead> 
