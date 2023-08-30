@@ -3,29 +3,59 @@ description: 문서 1 상속 - Marketo 문서 - 제품 설명서
 title: 문서 1 상속
 hide: true
 hidefromtoc: true
-source-git-commit: 9b2d2ffd93f2c8b209e4ea25bbe7ef41c9f0e5fc
+source-git-commit: 8d9ea20f04ec6320b31c2d6000240b72a45be959
 workflow-type: tm+mt
-source-wordcount: '1209'
+source-wordcount: '1428'
 ht-degree: 1%
 
 ---
 
 # 문서 1 상속 {#inherit-doc-1}
 
-새로운 Adobe Marketo Engage 관리자로서 상속된 인스턴스의 상태와 실행 가능성을 확인하기 위해 수행해야 하는 몇 가지 작업이 있습니다.
-
-아래 체크리스트(각 문서의 하단에 연결된 후속 체크리스트)는 Marketo 챔피언의 입력과 함께 사용되어 빠르게 시작할 수 있습니다. Marketo Engage 상속 인스턴스 확인 목록에 진행 상황을 문서화합니다.
+아래 체크리스트(각 문서의 하단에 연결된 후속 체크리스트)는 Marketo 챔피언의 입력과 함께 사용되어 빠르게 시작할 수 있습니다. 또한 체크리스트를 다운로드하고 진행 상황을 추적할 수 있습니다.
 
 >[!TIP]
 >
 >새로운 Marketo Engage 사용자이고 많은 용어를 잘 모를 경우 [Marketo 용어](/help/marketo/getting-started/marketo-glossary.md){target="_blank"}.
+
+## Adobe Admin Console {#adobe-admin-console}
+
+<table> 
+ <tbody> 
+  <tr> 
+   <th style="width:25%">영역</th> 
+   <th>리뷰 포커스</th>
+  </tr> 
+  <tr> 
+   <td>구독</td> 
+   <td><li>Marketo Engage 구독 기간 <a href="/help/marketo/product-docs/administration/marketo-with-adobe-identity/adobe-identity-management-overview.md" target="_blank">Identity Management 시스템 Adobe</a> (Adobe IMS) 아직 시작하지 않습니까? 
+<br/>
+그렇다면 'Adobe Admin Console 시스템 관리자'로부터 'Adobe Admin Console 제품 관리자' 역할이 부여되었습니까? 조직의 콘솔 관리자 권한을 가진 사람을 모르는 경우 <a href="https://helpx.adobe.com/contact.html" target="_blank">Adobe 고객 지원 센터</a>.  
+<br/>그렇지 않으면 다음을 계속 진행합니다. <a href="/help/marketo/product-docs/administration/users-and-roles/managing-user-roles-and-permissions.md" target="_blank">기존 사용자 역할 및 권한 경험</a> 구독이 갱신될 때까지 Marketo Engage &gt; 관리자 &gt; 사용자 및 역할에서 다음을 수행합니다.</li></td>
+  </tr>
+  <tr> 
+   <td>제품 프로필</td> 
+   <td>(Adobe IMS 구독 <b>전용</b>)
+<p>
+<li>Marketo Engage/관리자/사용자 및 역할에서 'Marketo Engage 제품 관리자' 역할이 부여되었습니까?</li> 
+<li>Adobe Admin Console에서 모든 적절한 사용자의 제품 프로필에 Marketo Engage을 할당했습니까?
+<br/>그렇지 않은 경우 Marketo Engage/관리자/사용자 및 역할에서 역할을 할당하기 전에 먼저 Adobe IMS 제품 프로필에 Marketo Engage을 할당해야 합니다.</li>
+<p>참고: 구독이 75명 이상의 사용자를 포함하고 있고 Adobe IMS로 방금 마이그레이션된 경우 배치 내에서 마이그레이션하고 Adobe 식별을 그룹 또는 한꺼번에 관리할 사용자를 선택할 수 있습니다. 다음에 대한 기대 사항에 대해 자세히 알아보기 <a href="/help/marketo/product-docs/administration/marketo-with-adobe-identity/understanding-marketo-subscription-and-user-migration-to-the-adobe-admin-console.md#prepare-users-for-migration-day" target="_blank">Adobe IMS 마이그레이션일</a>.</td>
+  </tr>
+  <tr> 
+   <td>사용자 관리 API</td> 
+   <td><li>구독에서 Marketo User Management API를 사용했습니까?
+<br/>이 경우 다음을 사용해야 합니다. <a href="https://www.adobe.io/apis/experienceplatform/umapi-new.html" target="_blank">Adobe IMS API</a> 사용자를 앞으로 초대, 업데이트 및 삭제합니다.</li></td>
+  </tr>
+ </tbody> 
+</table>
 
 ## 사용자 및 역할 {#users-and-roles}
 
 <table> 
  <tbody> 
   <tr> 
-   <th>영역</th> 
+   <th style="width:25%">영역</th>
    <th>리뷰 포커스</th>
   </tr> 
   <tr> 
@@ -47,6 +77,10 @@ ht-degree: 1%
 <li>사용자 역할 및 권한이 회사 데이터와 일치합니까? <a href="/help/marketo/product-docs/core-marketo-concepts/miscellaneous/privacy-management.md" target="_blank">개인정보 처리방침</a>?</li></td>
   </tr>
   <tr> 
+   <td>사용자 지원</td> 
+   <td><li>적절한 설정을 하셨습니까 <a href="/help/marketo/getting-started/setup/setup-steps.md#set-up-your-authorized-support-contacts" target="_blank">승인된 연락처</a> 지원 포털에서?</li></td>
+  </tr>
+  <tr> 
    <td>내부 설명서</td> 
    <td><li>조직에서 사용자와 역할이 명확하게 정의됩니까?</li>
 <li>새 사용자/관리자를 추가하는 프로세스는 무엇입니까?</li></td>
@@ -54,7 +88,7 @@ ht-degree: 1%
   <tr> 
    <td>샌드박스(해당되는 경우)</td> 
    <td><li>가지고 계세요 <a href="/help/marketo/product-docs/core-marketo-concepts/miscellaneous/marketo-sandbox.md" target="_blank">샌드박스 인스턴스</a>?
-   <br/>그렇다면 샌드박스에 대한 위의 카테고리를 검토하십시오.</li>
+   <br/>  그렇다면 샌드박스에 대한 위의 카테고리를 검토하십시오.</li>
 <li>다음과 같음 <a href="/help/marketo/product-docs/core-marketo-concepts/programs/working-with-programs/import-a-program.md" target="_blank">프로그램 가져오기</a> 샌드박스와 연결하시겠습니까?</li></td>
   </tr>
  </tbody> 
@@ -65,7 +99,7 @@ ht-degree: 1%
 <table style="table-layout:auto"> 
  <tbody> 
   <tr> 
-   <th>영역</th> 
+   <th style="width:25%">영역</th>
    <th>리뷰 포커스</th>
   </tr> 
   <tr> 
@@ -80,16 +114,16 @@ ht-degree: 1%
 <table style="table-layout:auto"> 
  <tbody> 
   <tr> 
-   <th>영역</th> 
+   <th style="width:25%">영역</th>
    <th>리뷰 포커스</th>
   </tr> 
   <tr> 
    <td>작업 공간 및 파티션</td> 
    <td><li>몇 개 <a href="/help/marketo/product-docs/administration/workspaces-and-person-partitions/understanding-workspaces-and-person-partitions.md" target="_blank">작업 영역 및/또는 파티션</a> 가지고 있어?</li>
-<li>각 작업 공간 및 파티션의 주요 목적은 무엇입니까?</li>
+<li>각 작업 영역 및 파티션의 주요 목적은 무엇입니까?</li>
 <li>다음 중 하나를 수행합니다. <a href="/help/marketo/product-docs/administration/workspaces-and-person-partitions/edit-a-workspace.md" target="_blank">작업 공간</a> 또는 <a href="/help/marketo/product-docs/administration/workspaces-and-person-partitions/edit-an-existing-person-partition.md" target="_blank">파티션</a> 감사/변경이 필요하십니까?</li>
 <li>작업 영역과 파티션 간의 관계는 무엇입니까?</li>
-<li>사용자 수 <a href="/help/marketo/product-docs/administration/workspaces-and-person-partitions/allow-user-access-to-a-workspace.md" target="_blank">액세스 권한 있음</a> 각 작업 영역에 대해?</li></td>
+<li>사용자 수 <a href="/help/marketo/product-docs/administration/workspaces-and-person-partitions/allow-user-access-to-a-workspace.md" target="_blank">액세스 권한 있음</a> 각 작업 영역에 대해</li></td>
   </tr>
   <tr> 
    <td>내부 설명서</td> 
@@ -104,7 +138,7 @@ ht-degree: 1%
 <table style="table-layout:auto"> 
  <tbody> 
   <tr> 
-   <th>영역</th> 
+   <th style="width:25%">영역</th>
    <th>리뷰 포커스</th>
   </tr> 
   <tr> 
@@ -120,7 +154,7 @@ ht-degree: 1%
 <table style="table-layout:auto"> 
  <tbody> 
   <tr> 
-   <th>영역</th> 
+   <th style="width:25%">영역</th>
    <th>리뷰 포커스</th>
   </tr> 
   <tr> 
@@ -136,7 +170,7 @@ ht-degree: 1%
 <table style="table-layout:auto"> 
  <tbody> 
   <tr> 
-   <th>영역</th> 
+   <th style="width:25%">영역</th>
    <th>리뷰 포커스</th>
   </tr> 
   <tr> 
@@ -165,7 +199,7 @@ ht-degree: 1%
 <table style="table-layout:auto"> 
  <tbody> 
   <tr> 
-   <th>영역</th> 
+   <th style="width:25%">영역</th>
    <th>리뷰 포커스</th>
   </tr> 
   <tr> 
@@ -175,13 +209,13 @@ ht-degree: 1%
 <li>몇 개 <a href="/help/marketo/product-docs/administration/field-management/create-a-custom-field-in-marketo.md" target="_blank">사용자 정의 필드</a> 있습니까?</li>
 <li>얼마나 많은 필드가 사용되고 있습니까? 
 <br/>선택 <a href="/help/marketo/product-docs/administration/field-management/export-used-by-data-for-a-field.md" target="_blank">내보내기 사용</a> 필드 작업 드롭다운에서 필드의 관련 에셋을 검토합니다.</li>
-<li>Marketo Engage과 CRM 간에 몇 개가 동기화됩니까?</li>
+<li>Marketo Engage과 CRM 간에 동기화되는 필드는 몇 개입니까?</li>
 <li>CRM 필드가 적절한 오브젝트에 동기화됩니까?</li>
 <li>다음 항목이 있습니까? <a href="/help/marketo/product-docs/administration/settings/creating-a-custom-tab-for-the-person-detail-page.md" target="_blank">사용자 정의 보기 집합</a> 사용자 세부 사항? 있어야 하나?</li>
 <li>소스를 기반으로 필드에 대한 이름 지정 규칙이 있습니까? 
 <br/>그렇지 않으면 이를 구현하는 것이 좋습니다.</li>
 <li>필드가 있습니까 <a href="/help/marketo/product-docs/administration/field-management/block-updates-to-a-field.md" target="_blank">차단됨</a>? 
-<br/>그 이유가 무엇인지 반드시 알아두십시오.</li></td>
+<br/>그렇다면 그 이유가 무엇인지 반드시 이해하십시오.</li></td>
   </tr>
   <tr> 
    <td>사용자 지정 활동</td> 
@@ -201,13 +235,13 @@ ht-degree: 1%
 <table style="table-layout:auto"> 
  <tbody> 
   <tr> 
-   <th>영역</th> 
+   <th style="width:25%">영역</th>
    <th>리뷰 포커스</th>
   </tr> 
   <tr> 
    <td>CRM</td> 
    <td><li>어떤 CRM과 동기화하시겠습니까? Salesforce? MS Dynamics? 베바?</li>
-<li>사용자 지정 동기화를 활용하고 있습니까?</li>
+<li>을(를) 사용하고 있습니까? <a href="https://nation.marketo.com/t5/product-blogs/instructions-for-creating-a-custom-sync-rule/ba-p/242758" target="_blank">사용자 지정 동기화</a>?</li>
 <li>[Salesforce만 해당] 인스턴스에 사용자 지정 동기화 필터가 구현되었습니까? 
 <p>참고: Marketo 지원 센터에 문의하여 사용자 지정 동기화 필터를 식별하거나 사용자 지정 동기화 규칙을 구현하도록 요청하십시오.</li></td>
   </tr>
@@ -219,7 +253,7 @@ ht-degree: 1%
 <li>양식 미리 채우기가 활성화되었습니까?</li>
 <li>다음과 같음 <a href="/help/marketo/product-docs/demand-generation/landing-pages/personalizing-landing-pages/enable-personalized-urls-for-your-account.md" target="_blank">개인화된 URL</a> 활성화하시겠습니까?</li>
 <li>다음에 대한 규칙이 설정되어 있습니까? <a href="/help/marketo/product-docs/demand-generation/landing-pages/landing-page-actions/redirect-a-marketo-landing-page-to-another-page.md" target="_blank">리디렉션</a>?</li>
-<li>도메인 별칭을 사용할 수 있습니까? 도메인 별칭을 활용하는 방법을 설명서를 통해 추적하고 있습니까?</li>
+<li>도메인 별칭을 사용할 수 있습니까? 도메인 별칭을 어떻게 활용하고 있는지 추적하고 있습니까?</li>
 <li>다음과 같음 <a href="https://nation.marketo.com/t5/knowledgebase/setting-up-secured-domains-for-marketo-landing-pages-first-time/ta-p/250370" target="_blank">랜딩 페이지의 보안 도메인</a> 활성화하시겠습니까? 
 <br/>랜딩 페이지 에셋에 "http" URL이 포함되어 있는지 확인합니다.</li></td>
   </tr>
@@ -242,17 +276,18 @@ ht-degree: 1%
    <td><li>이(가) <a href="/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/installation/install-marketo-sales-insight-package-in-salesforce-appexchange.md" target="_blank">MSI 패키지 설치됨</a>?</li>
 <li>있음 <a href="/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/upgrading/upgrading-your-msi-package.md" target="_blank">최신 버전의 Sales Insight로 업그레이드</a>?</li>
 <li>Sales Insight 구성을 완료했습니까? <br/>Enterprise/Unlimited 사용자 <a href="/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/configuration/configure-marketo-sales-insight-in-salesforce-enterprise-unlimited.md" target="_blank">여기를 클릭하십시오</a>, 전문 사용자 <a href="/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/configuration/configure-marketo-sales-insight-in-salesforce-professional-edition.md" target="_blank">여기를 클릭하십시오</a>.</li>
-<li>있음 <a href="/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/configuration/add-sales-insight-permission-set.md" target="_blank">사용자에게 부여된 액세스 권한</a> 구입한 시트 수에 따라?</li></td>
+<li>있음 <a href="/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/configuration/add-sales-insight-permission-set.md" target="_blank">사용자에게 부여된 액세스 권한</a> 구입한 시트 수에 따라?</li>
+<li>다음과 같음 <a href="/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/features/stars-and-flames/customize-stars-and-flames.md" target="_blank">별과 불꽃</a> 사용자 지정하시겠습니까?</li></td>
   </tr>
   <tr> 
    <td>론치 포인트(해당되는 경우)</td> 
-   <td><li>구성한 서비스(예: <a href="/help/marketo/product-docs/administration/additional-integrations/add-adobe-connect-as-a-launchpoint-service.md" target="_blank">Adobe Connect</a>, <a href="/help/marketo/product-docs/administration/additional-integrations/add-zoom-as-a-launchpoint-service.md" target="_blank">확대/축소</a>등)? 유통기한이 임박했나요?</li>
+   <td><li>구성한 서비스(예: <a href="/help/marketo/product-docs/administration/additional-integrations/add-webex-as-a-launchpoint-service.md" target="_blank">브라이트토크</a>, <a href="/help/marketo/product-docs/administration/additional-integrations/connect-brighttalk-to-marketo.md" target="_blank">확대/축소</a>등)? 유통기한이 임박했나요?</li>
 <li><a href="https://nation.marketo.com/t5/knowledgebase/viewing-your-number-of-api-calls-to-marketo/ta-p/254256" target="_blank">API 호출 수</a> 통합에서 을 사용 중입니까?</li>
 <li>사용 사례에 적합한 통합이 있습니까?</li></td>
   </tr>
   <tr> 
    <td>Webhooks(해당되는 경우)</td> 
-   <td><li><a href="/help/marketo/product-docs/administration/additional-integrations/create-a-webhook.md" target="_blank">연결</a> 설정이 되어 있습니까?</li>
+   <td><li><a href="/help/marketo/product-docs/administration/additional-integrations/create-a-webhook.md" target="_blank">연결</a> 준비 다 됐어?</li>
 <li>더 이상 사용되지 않습니까?</li></td>
   </tr>
   <tr> 
@@ -268,7 +303,7 @@ ht-degree: 1%
 <table style="table-layout:auto"> 
  <tbody> 
   <tr> 
-   <th>영역</th> 
+   <th style="width:25%">영역</th>
    <th>리뷰 포커스</th>
   </tr> 
   <tr> 
@@ -284,21 +319,17 @@ ht-degree: 1%
  </tbody> 
 </table>
 
-## 기타 {#miscellaneous}
+## 경고 및 업데이트 {#alerts-and-updates}
 
 <table style="table-layout:auto"> 
  <tbody> 
   <tr> 
-   <th>영역</th> 
+   <th style="width:25%">영역</th>
    <th>리뷰 포커스</th>
   </tr> 
   <tr> 
    <td>Marketo Engage 상태 업데이트</td> 
-   <td><li>인스턴스 등록됨 대상 <a href="https://status.adobe.com/" target="_blank">Marketo Engage 상태 업데이트</a>?</li></td>
-  </tr>
-  <tr> 
-   <td>승인된 연락처</td> 
-   <td><li>적절한 설정을 하셨습니까 <a href="/help/marketo/getting-started/setup/setup-steps.md#set-up-your-authorized-support-contacts" target="_blank">승인된 연락처</a> 지원 포털에서?</li></td>
+   <td><li>인스턴스를 구독 중이십니까? <a href="https://nation.marketo.com/t5/knowledgebase/how-to-subscribe-to-status-page-notifications/ta-p/296749" target="_blank">Marketo Engage 상태 업데이트</a>?</li></td>
   </tr>
   <tr> 
    <td>경고</td> 
