@@ -5,18 +5,20 @@ hide: true
 hidefromtoc: true
 feature: Programs
 exl-id: 1271c60b-1bcd-458a-bfdc-af0d5535743c
-source-git-commit: eb68ae803f2e313a7ac35747aacca5eed7089b0f
+source-git-commit: 632f34fa3ab69537703b1f82678955047476d0d3
 workflow-type: tm+mt
-source-wordcount: '65'
+source-wordcount: '128'
 ht-degree: 0%
 
 ---
 
 # 프로그램 가져오기 라이브러리 개요 {#program-import-library-overview}
 
-소개 텍스트입니다.
+Marketo Engage 참조 라이브러리에는 Marketo 인스턴스로 직접 가져와 팀을 지원하는 데 도움이 되는 프로그램 빌드를 시작할 수 있는 몇 가지 스타터 프로그램이 포함되어 있습니다.
 
-—Marketo Engage 프로그램 가져오기 라이브러리 정보를 여기에 표시—
+라이브러리에는 이메일, 참여, 이벤트, 점수, 전달성 및 운영과 같은 프로그램이 포함되어 있습니다. 모든 프로그램은 품질 및 효과를 극대화하기 위해 Adobe 제품 팀에서 개발하고 글로벌 전문 서비스 팀에서 검사했습니다.
+
+## 사용 가능한 프로그램 예 {#available-program-examples}
 
 * [CT-YYYY-MM-Content Marketo 이외 랜딩 페이지](/help/marketo/product-docs/core-marketo-concepts/programs/program-library/ct-yyyy-mm-content-non-marketo-landing-page.md){target="_blank"}
 
@@ -51,3 +53,7 @@ ht-degree: 0%
 * [WBN-YYYY-MM-DD-웨비나 프로그램](/help/marketo/product-docs/core-marketo-concepts/programs/program-library/wbn-yyyy-mm-dd-webinar-program.md){target="_blank"}
 
 * [WR-YYYY-MM-Web 요청 프로그램](/help/marketo/product-docs/core-marketo-concepts/programs/program-library/wr-yyyy-mm-web-request-program.md){target="_blank"}
+
+>[!MORELIKETHIS]
+>
+>[프로그램 가져오기](/help/marketo/product-docs/core-marketo-concepts/programs/working-with-programs/import-a-program.md){target="_blank"}
