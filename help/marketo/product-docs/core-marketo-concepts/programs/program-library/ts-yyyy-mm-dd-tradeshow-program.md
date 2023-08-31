@@ -1,19 +1,19 @@
 ---
-description: EM-YYYY-MM-DD-Single 이메일 보내기 - Marketo 문서 - 제품 설명서
-title: EM-YYYY-MM-DD-Single 이메일 보내기
+description: TS-YYYY-MM-DD-Tradeshow 프로그램 - Marketo 문서 - 제품 설명서
+title: TS-YYYY-MM-DD-Tradeshow 프로그램
 hide: true
 hidefromtoc: true
 feature: Programs
 source-git-commit: ea276734b6d277f4a3548a9a697e1c7ed4c30e2d
 workflow-type: tm+mt
-source-wordcount: '291'
+source-wordcount: '428'
 ht-degree: 4%
 
 ---
 
-# EM-YYYY-MM-DD-Single 이메일 보내기 {#em-yyyy-mm-dd-single-email-send}
+# TS-YYYY-MM-DD-Tradeshow 프로그램 {#ts-yyyy-mm-dd-tradeshow-program}
 
-이 예에서는 Marketo Engage 이메일 프로그램을 활용하여 하나의 이메일을 전송합니다. 이메일에는 A/B 테스트가 포함되거나 포함되지 않을 수 있습니다.
+Marketo Engage 이벤트 프로그램을 활용하는 초대 및 후속 이메일이 포함된 박람회 프로그램의 예입니다.
 
 추가적인 전략 지원 또는 프로그램 맞춤화에 대한 도움말을 보려면 Adobe 계정 팀에 문의하거나 [Adobe Professional Services](https://business.adobe.com/customers/consulting-services/main.html){target="_blank"} 페이지를 가리키도록 업데이트하는 중입니다.
 
@@ -28,11 +28,15 @@ ht-degree: 4%
    <th>프로그램 유형</th>
   </tr> 
   <tr> 
-   <td>이메일</td> 
-   <td>구성원 
-<br/>2-참여 성공</td>
+   <td>Event</td> 
+   <td>01-초대됨 
+   <br/>대기자 명단에 등록됨
+   <br/>03-등록됨
+   <br/>04 방문 부스
+   <br/>05-참여 쇼 - 성공
+   <br/>06-Engaged at Post Show - 성공</td>
    <td>포함</td>
-   <td>이메일</td>
+   <td>Event</td>
   </tr>
  </tbody> 
 </table>
@@ -51,6 +55,12 @@ ht-degree: 4%
    <td>빠른 시작 이메일 템플릿</td>
    <td>01-이메일-감사</td>
   </tr>
+   <tr> 
+   <td>이메일</td> 
+   <td>빠른 시작 이메일 템플릿</td>
+   <td>02a- 이메일 - 초대</td>
+  </tr>
+  <tr>
   <tr> 
    <td>로컬 보고서</td> 
    <td> </td>
@@ -59,19 +69,38 @@ ht-degree: 4%
   <tr> 
    <td>로컬 보고서</td> 
    <td> </td>
-   <td>이메일 링크 성능</td>
+   <td>프로그램 성능</td>
   </tr>
-  <tr>
   <tr> 
    <td>스마트 캠페인</td> 
    <td> </td>
-   <td>01-참여(프로그램 성공)</td>
+   <td>00 - 획득 프로그램 캡처</td>
+  </tr>
+  <tr> 
+   <td>스마트 캠페인</td> 
+   <td> </td>
+   <td>01 - 초대 보내기</td>
+  </tr>
+   <tr> 
+   <td>스마트 캠페인</td> 
+   <td> </td>
+   <td>02 - 참여도 표시(성공)</td>
+  </tr>
+   <tr> 
+   <td>스마트 캠페인</td> 
+   <td> </td>
+   <td>03 - 후속 이메일 보내기</td>
+  </tr>
+   <tr> 
+   <td>스마트 캠페인</td> 
+   <td> </td>
+   <td>04 - 후속 이메일 참여(성공)</td>
   </tr>
   <tr> 
    <td>폴더</td> 
    <td> </td>
    <td>Assets - 모든 크리에이티브 에셋을 저장합니다. 
-<br/>(이메일 및 랜딩 페이지의 하위 폴더)  </td>
+<br/>(이메일 및 랜딩 페이지의 하위 폴더)</td>
   </tr>
   <tr> 
    <td>폴더</td> 
@@ -86,8 +115,6 @@ ht-degree: 4%
  </tbody> 
 </table>
 
-프로그램의 스크린샷
-
 ## 내 토큰이 포함됨 {#my-tokens-included}
 
 <table style="table-layout:auto"> 
@@ -96,6 +123,11 @@ ht-degree: 4%
    <th>토큰 유형</th> 
    <th>토큰 이름</th>
    <th>값</th>
+  </tr>
+  <tr> 
+   <td>캘린더 파일</td> 
+   <td><code>{{my.AddToCalendar}}</code></td>
+   <td>세부 사항을 보려면 두 번 클릭</td>
   </tr>
   <tr> 
    <td>텍스트</td> 
@@ -112,8 +144,45 @@ ht-degree: 4%
    <td><code>{{my.Email-ReplyToAddress}}</code></td>
    <td>reply-to.email@mydomain.com</td>
   </tr>
+  <tr> 
+   <td>텍스트</td> 
+   <td><code>{{my.Event-Date}}</code></td>
+   <td><code><--My Event Date--></code></td>
+  </tr>
+   <tr> 
+   <td>리치 텍스트</td> 
+   <td><code>{{my.Event-Booth#}}</code></td>
+   <td><code><--My Booth Number--></code></td>
+  </tr>
+   <tr> 
+   <td>텍스트</td> 
+   <td><code>{{my.Event-City}}</code></td>
+   <td><code><--My Event City Here--></code></td>
+  </tr>
+  <tr> 
+   <td>텍스트</td> 
+   <td><code>{{my.Event-Date}}</code></td>
+   <td><code><--My Event Date--></code></td>
+  </tr>
+  <tr> 
+   <td>텍스트</td> 
+   <td><code>{{my.Event-Time}}</code></td>
+   <td><code><--My Event Time + TimeZone--></code></td>
+  </tr>
+  <tr> 
+   <td>텍스트</td> 
+   <td><code>{{my.Event-Title}}</code></td>
+   <td><code><--My Event Title Here--></code></td>
+  </tr>
+  <tr> 
+   <td>텍스트</td> 
+   <td><code>{{my.Event-Type}}</code></td>
+   <td>박람회</td>
+  </tr>
  </tbody> 
 </table>
+
+프로그램의 스크린샷
 
 ## 충돌 규칙 {#conflict-rules}
 
@@ -137,6 +206,9 @@ ht-degree: 4%
 
 ## 우수 사례 {#best-practices}
 
+* 웨비나 프로그램을 가져온 후 양식을 로컬 에셋에서 Design Studio에 있는 글로벌 에셋으로 이동합니다.
+   * Design Studio에서 양식 수를 줄이고 더 많은 글로벌 에셋을 사용하면 프로그램 설계 및 관리 거버넌스에서 더 많은 확장성을 얻을 수 있습니다. 또한 필드, 옵트인 언어 등에 대한 정기적인 규정 준수 업데이트의 유연성을 제공합니다.
+
 * 현재 브랜드 템플릿을 활용하도록 가져온 프로그램의 템플릿을 업데이트하거나, 코드 조각 또는 적절한 로고/바닥글 정보에 추가하여 브랜드를 반영하도록 새로 가져온 템플릿을 업데이트하는 것이 좋습니다.
 
 * 명명 규칙에 맞게 이 프로그램 예제의 명명 규칙을 업데이트하는 것이 좋습니다.
@@ -147,4 +219,8 @@ ht-degree: 4%
 
 >[!TIP]
 >
->성공 추적을 위해 &quot;01-참여&quot; 캠페인을 활성화하는 것을 잊지 마십시오! 수행 _다음 이전_ 양식이 라이브이고 이메일이 전송됩니다.
+>성공 추적을 위해 &quot;02-참여 - 쇼(프로그램 성공)&quot; 및 &quot;04-참여 - 후속 이메일(프로그램 성공)&quot; 캠페인을 활성화하는 것을 잊지 마십시오! 수행 _다음 이전_ 이메일이 전송되었습니다.
+
+>[!IMPORTANT]
+>
+>URL을 참조하는 내 토큰은 http:// 또는 https://을 포함할 수 없습니다. 그렇지 않으면 링크가 자산 내에서 적절하게 작동하지 않습니다.

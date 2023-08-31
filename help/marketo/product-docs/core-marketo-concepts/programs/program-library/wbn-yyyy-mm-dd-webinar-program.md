@@ -1,19 +1,19 @@
 ---
-description: EV-YYYY-MM-DD-Event 프로그램 - Marketo 문서 - 제품 설명서
-title: EV-YYYY-MM-DD-이벤트 프로그램
+description: WBN-YYYY-MM-DD-Webinar 프로그램 - Marketo 문서 - 제품 설명서
+title: WBN-YYYY-MM-DD-웨비나 프로그램
 hide: true
 hidefromtoc: true
 feature: Programs
 source-git-commit: ea276734b6d277f4a3548a9a697e1c7ed4c30e2d
 workflow-type: tm+mt
-source-wordcount: '566'
-ht-degree: 6%
+source-wordcount: '591'
+ht-degree: 5%
 
 ---
 
-# EV-YYYY-MM-DD-이벤트 프로그램 {#ev-yyyy-mm-dd-event-program}
+# WBN-YYYY-MM-DD-웨비나 프로그램 {#wbn-yyyy-mm-dd-webinar-program}
 
-Marketo Engage 이벤트 프로그램을 활용하는 등록 페이지, 3개의 초대 이메일 및 후속 이메일이 있는 이벤트 프로그램의 예입니다. 로드쇼, 점심 식사, 저녁 식사 또는 무역 박람회 행사의 프레젠테이션을 포함하여 등록이 필요한 모든 이벤트에 적합합니다.
+등록 관리, 3개의 초대 이메일, 참석 알림 이메일 및 Marketo Engage 이벤트 프로그램을 활용한 후속 이메일이 포함된 웨비나 프로그램의 예입니다.
 
 추가적인 전략 지원 또는 프로그램 맞춤화에 대한 도움말을 보려면 Adobe 계정 팀에 문의하거나 [Adobe Professional Services](https://business.adobe.com/customers/consulting-services/main.html){target="_blank"} 페이지를 가리키도록 업데이트하는 중입니다.
 
@@ -29,13 +29,15 @@ Marketo Engage 이벤트 프로그램을 활용하는 등록 페이지, 3개의 
   </tr> 
   <tr> 
    <td>Event</td> 
-   <td>01-초대됨 
-<br/>대기자 명단에 등록됨
-<br/>03-등록됨
-<br/>04-표시 안 함
-<br/>05-참석-성공</td>
+   <td>01 - 초대됨 
+   <br/>02 - 대기자 명단 등록됨
+   <br/>03 - 등록됨
+   <br/>04 - 표시 안 함
+   <br/>05 - 참석함 - 성공
+   <br/>06 - Attend On-Demand - 성공</td>
    <td>포함</td>
-   <td>Event</td>
+   <td>Event
+   <p>(통합: 웨비나를 사용하는 이벤트)</td>
   </tr>
  </tbody> 
 </table>
@@ -52,59 +54,65 @@ Marketo Engage 이벤트 프로그램을 활용하는 등록 페이지, 3개의 
   <tr> 
    <td>이메일</td> 
    <td>빠른 시작 이메일 템플릿</td>
-   <td>01-이메일-감사</td>
+   <td>01 - 이메일 - 초대</td>
   </tr>
    <tr> 
    <td>이메일</td> 
    <td>빠른 시작 이메일 템플릿</td>
-   <td>02a- 이메일 - 초대</td>
+   <td>02 - 이메일 - 초대 미리 알림</td>
+  </tr>
+   <tr> 
+   <td>이메일</td> 
+   <td>빠른 시작 이메일 템플릿</td>
+   <td>03 - 이메일 - 초대 미리 알림 - 마지막 기회</td>
   </tr>
   <tr> 
    <td>이메일</td> 
    <td>빠른 시작 이메일 템플릿</td>
-   <td>02b - 이메일 - 초대 미리 알림</td>
+   <td>04 - 이메일 - 등록 확인</td>
   </tr>
   <tr> 
    <td>이메일</td> 
    <td>빠른 시작 이메일 템플릿</td>
-   <td>02c- 이메일 - 초대 미리 알림 마지막 기회</td>
+   <td>05 - 이메일 - 참석 알림 메시지</td>
   </tr>
   <tr> 
    <td>이메일</td> 
    <td>빠른 시작 이메일 템플릿</td>
-   <td>03 - 이메일 - 참석 알림 메시지</td>
+   <td>06 - 이메일 - 후속 작업 - 참석함</td>
   </tr>
   <tr> 
    <td>이메일</td> 
    <td>빠른 시작 이메일 템플릿</td>
-   <td>04a - 이메일 - 후속 작업 - 참석함</td>
+   <td>07 - 이메일 - 후속 작업 - 표시 안 함 </td>
   </tr>
-  <tr> 
-   <td>이메일</td> 
-   <td>빠른 시작 이메일 템플릿</td>
-   <td>04b - 이메일 - 후속 작업 - NoShow</td>
-  </tr>
-  <tr> 
-   <td>랜딩 페이지</td> 
-   <td>빠른 시작 LP 템플릿</td>
-   <td>01a - LP - 등록</td>
-  </tr>
-  <tr> 
-   <td>랜딩 페이지</td> 
-   <td>빠른 시작 LP 템플릿</td>
-   <td>01b - LP - 감사합니다.</td>
-  </tr>
+  <tr>
   <tr> 
    <td>양식</td> 
    <td> </td>
    <td>FM-이벤트 등록</td>
   </tr>
   <tr> 
+   <td>랜딩 페이지</td> 
+   <td>빠른 시작 LP 템플릿</td>
+   <td>01 - LP - 등록</td>
+  </tr>
+  <tr> 
+   <td>랜딩 페이지</td> 
+   <td>빠른 시작 LP 템플릿</td>
+   <td>02 - LP - 감사합니다.</td>
+  </tr>
+  <tr> 
+   <td>랜딩 페이지</td> 
+   <td>빠른 시작 LP 템플릿</td>
+   <td>03 - LP - 온디맨드</td>
+  </tr>
+  <tr> 
    <td>로컬 보고서</td> 
    <td> </td>
    <td>이메일 성능</td>
   </tr>
-  <tr> 
+   <tr> 
    <td>로컬 보고서</td> 
    <td> </td>
    <td>랜딩 페이지 성능</td>
@@ -117,7 +125,7 @@ Marketo Engage 이벤트 프로그램을 활용하는 등록 페이지, 3개의 
   <tr> 
    <td>스마트 캠페인</td> 
    <td> </td>
-   <td>01 - 프로세스 등록</td>
+   <td>01 - 등록 처리</td>
   </tr>
    <tr> 
    <td>스마트 캠페인</td> 
@@ -132,28 +140,33 @@ Marketo Engage 이벤트 프로그램을 활용하는 등록 페이지, 3개의 
    <tr> 
    <td>스마트 캠페인</td> 
    <td> </td>
-   <td>02c - 마지막 기회 초대 보내기</td>
+   <td>02c - 마지막 기회 초대 알림 보내기</td>
   </tr>
-   <tr> 
+  <tr> 
    <td>스마트 캠페인</td> 
    <td> </td>
    <td>03 - 참석하도록 미리 알림 보내기</td>
   </tr>
-   <tr> 
+  <tr> 
    <td>스마트 캠페인</td> 
    <td> </td>
    <td>04 - 참석함(프로그램 성공)</td>
   </tr>
-   <tr> 
+  <tr> 
    <td>스마트 캠페인</td> 
    <td> </td>
    <td>05 - 후속 이메일 보내기</td>
   </tr>
   <tr> 
+   <td>스마트 캠페인</td> 
+   <td> </td>
+   <td>06 - Attend On-Demand(프로그램 성공)</td>
+  </tr>
+  <tr> 
    <td>폴더</td> 
    <td> </td>
    <td>Assets - 모든 크리에이티브 에셋을 저장합니다. 
-<br/>(이메일 및 랜딩 페이지의 하위 폴더)</td>
+<br/>(이메일, 랜딩 페이지 및 Forms의 하위 폴더)</td>
   </tr>
   <tr> 
    <td>폴더</td> 
@@ -184,6 +197,11 @@ Marketo Engage 이벤트 프로그램을 활용하는 등록 페이지, 3개의 
   </tr>
   <tr> 
    <td>텍스트</td> 
+   <td><code>{{my.DownloadURL-PresentationSlides}}</code></td>
+   <td>my.DownloadURL?without=http:// </td>
+  </tr>
+  <tr> 
+   <td>텍스트</td> 
    <td><code>{{my.Email-FromAddress}}</code></td>
    <td>PlaceholderFrom.email@mydomain.com</td>
   </tr>
@@ -204,34 +222,14 @@ Marketo Engage 이벤트 프로그램을 활용하는 등록 페이지, 3개의 
   </tr>
    <tr> 
    <td>리치 텍스트</td> 
-   <td><code>{{my.Content-Description}}</code></td>
+   <td><code>{{my.Event-Description}}</code></td>
    <td>세부 사항을 보려면 두 번 클릭  
-<br/><code><--My Content Description Here--></code> 
-<br/>내 토큰 탭 아래의 프로그램 수준에서 이 컨텐츠 설명을 편집합니다. 
+<br/><code><--My Event Description Here--></code> 
+<br/>내 토큰 탭 아래의 프로그램 수준에서 이 이벤트 설명을 편집합니다. 
 <br/>배울 내용: 
 <li>글머리 기호</li>
 <li>글머리 기호 2</li>
 <li>글머리 기호 3</li></td>
-  </tr>
-  <tr> 
-   <td>텍스트</td> 
-   <td><code>{{my.Event-Location-Line1}}</code></td>
-   <td><code><--XYZ Hotel--></code></td>
-  </tr>
-   <tr> 
-   <td>텍스트</td> 
-   <td><code>{{my.Event-Location-Line2}}</code></td>
-   <td><code><--ABC Room--></code></td>
-  </tr>
-   <tr> 
-   <td>텍스트</td> 
-   <td><code>{{my.Event-Location-Line3}}</code></td>
-   <td><code><--1234 Anystreet--></code></td>
-  </tr>
-  <tr> 
-   <td>텍스트</td> 
-   <td><code>{{my.Event-Location-Line4}}</code></td>
-   <td><code><--Anytown, ZZ 99999--></code></td>
   </tr>
   <tr> 
    <td>텍스트</td> 
@@ -246,7 +244,7 @@ Marketo Engage 이벤트 프로그램을 활용하는 등록 페이지, 3개의 
   <tr> 
    <td>텍스트</td> 
    <td><code>{{my.Event-Type}}</code></td>
-   <td>라이브 이벤트</td>
+   <td>웨비나</td>
   </tr>
   <tr> 
    <td>텍스트</td> 
@@ -258,7 +256,7 @@ Marketo Engage 이벤트 프로그램을 활용하는 등록 페이지, 3개의 
    <td><code>{{my.PageURL-Registration}}</code></td>
    <td>my.RegistrationPageURL?without=http://</td>
   </tr>
-  <tr> 
+   <tr> 
    <td>텍스트</td> 
    <td><code>{{my.PageURL-ThankYou}}</code></td>
    <td>my.ThankYouPageURL?without=http://</td>
@@ -320,6 +318,8 @@ Marketo Engage 이벤트 프로그램을 활용하는 등록 페이지, 3개의 
 
 ## 우수 사례 {#best-practices}
 
+* 통합 웨비나 공급자를 사용하는 경우 호스팅 시스템의 웨비나에 Marketo Engage 프로그램을 연결하는 것을 잊지 마십시오.
+
 * 웨비나 프로그램을 가져온 후 양식을 로컬 에셋에서 Design Studio에 있는 글로벌 에셋으로 이동합니다.
    * Design Studio에서 양식 수를 줄이고 더 많은 글로벌 에셋을 사용하면 프로그램 설계 및 관리 거버넌스에서 더 많은 확장성을 얻을 수 있습니다. 또한 필드, 옵트인 언어 등에 대한 정기적인 규정 준수 업데이트의 유연성을 제공합니다.
 
@@ -333,7 +333,7 @@ Marketo Engage 이벤트 프로그램을 활용하는 등록 페이지, 3개의 
 
 >[!TIP]
 >
->성공 추적을 위해 &quot;06-참석(프로그램 성공)&quot; 캠페인을 활성화하는 것을 잊지 마십시오! 수행 _다음 이전_ 양식이 라이브이고 이메일이 전송됩니다.
+>성공 추적을 위해 &quot;04-참석(프로그램 성공)&quot; 및 &quot;06-참석 온디맨드(프로그램 성공)&quot; 캠페인을 활성화하는 것을 잊지 마십시오! 수행 _다음 이전_ 이메일이 전송되었습니다.
 
 >[!IMPORTANT]
 >

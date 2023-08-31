@@ -1,19 +1,19 @@
 ---
-description: EM-YYYY-MM-DD-Single 이메일 보내기 - Marketo 문서 - 제품 설명서
-title: EM-YYYY-MM-DD-Single 이메일 보내기
+description: NL-YYYY-MM-Newsletter - Marketo 문서 - 제품 설명서
+title: NL-YYYY-MM-뉴스레터
 hide: true
 hidefromtoc: true
 feature: Programs
 source-git-commit: ea276734b6d277f4a3548a9a697e1c7ed4c30e2d
 workflow-type: tm+mt
-source-wordcount: '291'
+source-wordcount: '282'
 ht-degree: 4%
 
 ---
 
-# EM-YYYY-MM-DD-Single 이메일 보내기 {#em-yyyy-mm-dd-single-email-send}
+# NL-YYYY-MM-뉴스레터 {#nl-yyyy-mm-newsletter}
 
-이 예에서는 Marketo Engage 이메일 프로그램을 활용하여 하나의 이메일을 전송합니다. 이메일에는 A/B 테스트가 포함되거나 포함되지 않을 수 있습니다.
+이 예에서는 Marketo Engage 이메일 프로그램을 활용하여 뉴스레터 이메일을 한 개 보냅니다. 이메일에는 A/B 테스트가 포함되거나 포함되지 않을 수 있습니다.
 
 추가적인 전략 지원 또는 프로그램 맞춤화에 대한 도움말을 보려면 Adobe 계정 팀에 문의하거나 [Adobe Professional Services](https://business.adobe.com/customers/consulting-services/main.html){target="_blank"} 페이지를 가리키도록 업데이트하는 중입니다.
 
@@ -28,7 +28,7 @@ ht-degree: 4%
    <th>프로그램 유형</th>
   </tr> 
   <tr> 
-   <td>이메일</td> 
+   <td>뉴스레터</td> 
    <td>구성원 
 <br/>2-참여 성공</td>
    <td>포함</td>
@@ -49,7 +49,7 @@ ht-degree: 4%
   <tr> 
    <td>이메일</td> 
    <td>빠른 시작 이메일 템플릿</td>
-   <td>01-이메일-감사</td>
+   <td>01 - 이메일</td>
   </tr>
   <tr> 
    <td>로컬 보고서</td> 
@@ -65,13 +65,13 @@ ht-degree: 4%
   <tr> 
    <td>스마트 캠페인</td> 
    <td> </td>
-   <td>01-참여(프로그램 성공)</td>
+   <td>01 - 참여(프로그램 성공)</td>
   </tr>
   <tr> 
    <td>폴더</td> 
    <td> </td>
    <td>Assets - 모든 크리에이티브 에셋을 저장합니다. 
-<br/>(이메일 및 랜딩 페이지의 하위 폴더)  </td>
+<br/>(전자 메일의 하위 폴더)  </td>
   </tr>
   <tr> 
    <td>폴더</td> 
@@ -147,4 +147,4 @@ ht-degree: 4%
 
 >[!TIP]
 >
->성공 추적을 위해 &quot;01-참여&quot; 캠페인을 활성화하는 것을 잊지 마십시오! 수행 _다음 이전_ 양식이 라이브이고 이메일이 전송됩니다.
+>성공 추적을 위해 &quot;01-Engaged&quot; 캠페인을 활성화하는 것을 잊지 마십시오! 수행 _다음 이전_ 양식이 라이브이고 이메일이 전송됩니다.
