@@ -3,9 +3,9 @@ description: 문서 1 상속 - Marketo 문서 - 제품 설명서
 title: 문서 1 상속
 hide: true
 hidefromtoc: true
-source-git-commit: fa36cb5e56236670c82d0471b599c2d3599bc174
+source-git-commit: f41cb94d96d475e7ea063fb6fbbab3b2363f6346
 workflow-type: tm+mt
-source-wordcount: '1428'
+source-wordcount: '1429'
 ht-degree: 1%
 
 ---
@@ -16,7 +16,7 @@ ht-degree: 1%
 
 >[!TIP]
 >
->새로운 Marketo Engage 사용자이고 많은 용어를 잘 모를 경우 [Marketo 용어](/help/marketo/getting-started/marketo-glossary.md){target="_blank"}.
+>새로운 Marketo Engage 사용자이고 많은 용어를 잘 모를 경우 [Marketo Engage 용어집](/help/marketo/getting-started/marketo-engage-glossary.md){target="_blank"}.
 
 ## Identity Management Adobe {#adobe-identity-management}
 

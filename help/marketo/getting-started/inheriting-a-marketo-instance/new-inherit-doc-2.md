@@ -3,14 +3,14 @@ description: 문서 2 상속 - Marketo 문서 - 제품 설명서
 title: 문서 2 상속
 hide: true
 hidefromtoc: true
-source-git-commit: 1b97a8a2a491c2091eb722a16ab10f901e77a912
+source-git-commit: f41cb94d96d475e7ea063fb6fbbab3b2363f6346
 workflow-type: tm+mt
-source-wordcount: '365'
+source-wordcount: '366'
 ht-degree: 1%
 
 ---
 
-# 문서 2 상속 {#inherit-doc-2}
+# 감사 데이터베이스 검사 목록 {#inherit-doc-2}
 
 구독의 총 인원 수, 마케팅 가능한 사람 및 인기 사용자 확보 소스를 파악합니다.
 
