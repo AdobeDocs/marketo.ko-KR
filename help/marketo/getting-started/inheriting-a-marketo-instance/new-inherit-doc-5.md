@@ -3,7 +3,7 @@ description: 문서 5 상속 - Marketo 문서 - 제품 설명서
 title: 문서 5 상속
 hide: true
 hidefromtoc: true
-source-git-commit: f143c4e2dae309767c828282f718ad8d72733f81
+source-git-commit: fa36cb5e56236670c82d0471b599c2d3599bc174
 workflow-type: tm+mt
 source-wordcount: '228'
 ht-degree: 2%
@@ -19,7 +19,7 @@ ht-degree: 2%
 <table style="table-layout:auto"> 
  <tbody> 
   <tr> 
-   <th>영역</th> 
+   <th style="width:20%">영역</th> 
    <th>리뷰 포커스</th>
   </tr> 
   <tr> 
@@ -40,13 +40,13 @@ ht-degree: 2%
 <table style="table-layout:auto"> 
  <tbody> 
   <tr> 
-   <th>영역</th> 
+   <th style="width:20%">영역</th> 
    <th>리뷰 포커스</th>
   </tr> 
   <tr> 
    <td>데이터 사전</td> 
    <td><li>사용 가능한 필드를 설명하는 데이터 사전이 별도로 있습니까?
-   <br/>그렇지 않으면 새로 만드는 것이 좋습니다.</li></td>
+   <br/>     그렇지 않으면 새로 만드는 것이 좋습니다.</li></td>
   </tr>
   <tr> 
    <td>조직</td> 
@@ -60,7 +60,7 @@ ht-degree: 2%
   <tr> 
    <td>플레이북</td> 
     <td><li>조직에 사용자 또는 관리자 플레이북이 있습니까? 
-    <br/>그렇다면 그에 따라 업데이트하십시오.</li></td>
+    <br/>     그렇다면 그에 따라 업데이트하십시오.</li></td>
   </tr>
   <tr> 
    <td>내부 이해 당사자와의 대화</td> 

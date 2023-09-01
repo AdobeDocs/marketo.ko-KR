@@ -3,9 +3,9 @@ description: 문서 4 상속 - Marketo 문서 - 제품 설명서
 title: 문서 4 상속
 hide: true
 hidefromtoc: true
-source-git-commit: d7334acc31456b640a128c699d07a6b4af330469
+source-git-commit: fa36cb5e56236670c82d0471b599c2d3599bc174
 workflow-type: tm+mt
-source-wordcount: '506'
+source-wordcount: '513'
 ht-degree: 1%
 
 ---
@@ -19,7 +19,7 @@ ht-degree: 1%
 <table style="table-layout:auto"> 
  <tbody> 
   <tr> 
-   <th>영역</th> 
+   <th style="width:20%">영역</th> 
    <th>리뷰 포커스</th>
   </tr> 
   <tr> 
@@ -46,7 +46,7 @@ ht-degree: 1%
 <table style="table-layout:auto"> 
  <tbody> 
   <tr> 
-   <th>영역</th> 
+   <th style="width:20%">영역</th> 
    <th>리뷰 포커스</th>
   </tr> 
   <tr> 
@@ -65,7 +65,7 @@ ht-degree: 1%
   <tr> 
    <td>개인 정보 및 규정 준수</td> 
    <td><li>양식 전략이 회사 데이터 개인 정보 보호 및 옵트인 요구 사항과 일치합니까? 
-   <br/>고려 <a href="https://business.adobe.com/resources/ebooks/the-gdpr-and-the-marketer.html" target="_blank">GDPR(일반 데이터 보호 규정)</a>, 규정 준수를 위한 CACL(Anti-Spam Law), 2003 년 Controlling The Assault Of Non-Solicited Pornography and Marketing Act of 2003 (CAN-SPAM), California Consumer Privacy Act (CCPA) 등이 있습니다.</li>
+   <br/>     고려 <a href="https://business.adobe.com/resources/ebooks/the-gdpr-and-the-marketer.html" target="_blank">GDPR(일반 데이터 보호 규정)</a>, 규제 준수를 위한 캐나다의 CASL(Anti-Spam Law), 2003년 CAN-SPAM(Controlling The Assault Of Non-Solicited Pornography and Marketing Act), CCPA(California Consumer Privacy Act) 등.</li>
 <p>팁: 이러한 문제에 대해서는 항상 법무팀에 문의하십시오. 변경하기 전에 규정 준수를 유지하기 위한 이전 이니셔티브에 대해 팀에 문의하십시오.</td>
   </tr>
  </tbody> 
@@ -76,7 +76,7 @@ ht-degree: 1%
 <table style="table-layout:auto"> 
  <tbody> 
   <tr> 
-   <th>영역</th> 
+   <th style="width:20%">영역</th> 
    <th>리뷰 포커스</th>
   </tr> 
   <tr> 
@@ -104,13 +104,13 @@ ht-degree: 1%
 <table style="table-layout:auto"> 
  <tbody> 
   <tr> 
-   <th>영역</th> 
+   <th style="width:20%">영역</th> 
    <th>리뷰 포커스</th>
   </tr> 
   <tr> 
    <td>코드 조각</td> 
    <td><li>몇 개 <a href="/help/marketo/product-docs/personalization/segmentation-and-snippets/snippets/create-a-snippet.md" target="_blank">코드 조각</a> 있습니까? 사용 중입니까? 
-   <br/>그렇지 않은 경우 다음 용도로 사용하는 것이 좋습니다. <a href="/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/add-a-snippet-to-an-email.md" target="_blank">이메일</a> 및 <a href="/help/marketo/product-docs/demand-generation/landing-pages/personalizing-landing-pages/add-a-snippet-to-a-landing-page.md" target="_blank">랜딩 페이지</a> 바닥글 콘텐츠, 로고 등.</li></td>
+   <br/>     그렇지 않은 경우 다음 용도로 사용하는 것이 좋습니다. <a href="/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/add-a-snippet-to-an-email.md" target="_blank">이메일</a> 및 <a href="/help/marketo/product-docs/demand-generation/landing-pages/personalizing-landing-pages/add-a-snippet-to-a-landing-page.md" target="_blank">랜딩 페이지</a> 바닥글 콘텐츠, 로고 등.</li></td>
   </tr>
  </tbody> 
 </table>
@@ -120,7 +120,7 @@ ht-degree: 1%
 <table style="table-layout:auto"> 
  <tbody> 
   <tr> 
-   <th>영역</th> 
+   <th style="width:20%">영역</th> 
    <th>리뷰 포커스</th>
   </tr> 
   <tr> 
@@ -134,7 +134,7 @@ ht-degree: 1%
   <tr> 
    <td>이미지 및 파일</td> 
    <td><li>이미지 또는 파일 실행 <a href="/help/marketo/product-docs/demand-generation/images-and-files/find-the-url-of-an-uploaded-image-or-file.md" target="_blank">웹 페이지에서 참조됨</a> 업데이트해야 합니까? 
-   <p>예: 다음과 같이 하드코딩된 URL 구조를 업데이트해야 할 수 있습니다 <code>http://na-sj01.marketo.com/rs/123-ABC-456/images/puppy.png</code>. 
+   <p>예: 하드코딩된 URL 구조 <a href="https://nation.marketo.com/t5/product-documents/upcoming-changes-to-design-studio-urls/ta-p/306632#_Toc54870361" target="_blank">업데이트해야 할 수 있음</a>, 예: <code>http://na-sj01.marketo.com/rs/123-ABC-456/images/puppy.png</code>. 
    <p>웹 개발자와 협력하여 업데이트할 위치를 결정하십시오.</li></td>
   </tr>
  </tbody> 
@@ -145,13 +145,13 @@ ht-degree: 1%
 <table style="table-layout:auto"> 
  <tbody> 
   <tr> 
-   <th>영역</th> 
+   <th style="width:20%">영역</th> 
    <th>리뷰 포커스</th>
   </tr> 
   <tr> 
    <td>에셋 상태</td> 
    <td><li>에셋 수 <i>초안</i> 및 <i>초안으로 승인됨</i> 상태?
-   <br/>많은 항목이 있는 경우 삭제하거나 승인하는 것이 좋습니다.</li></td>
+   <br/>     많은 항목이 있는 경우 삭제하거나 승인하는 것이 좋습니다.</li></td>
   </tr>
   <tr> 
    <td>자산 공유</td> 

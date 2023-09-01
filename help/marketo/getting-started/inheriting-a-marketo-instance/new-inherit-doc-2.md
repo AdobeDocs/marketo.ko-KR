@@ -3,7 +3,7 @@ description: 문서 2 상속 - Marketo 문서 - 제품 설명서
 title: 문서 2 상속
 hide: true
 hidefromtoc: true
-source-git-commit: 699b213157a8a621a1f2f8544c6f4995fad930cd
+source-git-commit: fa36cb5e56236670c82d0471b599c2d3599bc174
 workflow-type: tm+mt
 source-wordcount: '362'
 ht-degree: 1%
@@ -19,7 +19,7 @@ ht-degree: 1%
 <table style="table-layout:auto"> 
  <tbody> 
   <tr> 
-   <th style="width:25%">영역</th> 
+   <th style="width:20%">영역</th> 
    <th>리뷰 포커스</th>
   </tr> 
   <tr> 
@@ -27,7 +27,7 @@ ht-degree: 1%
    <td><li>에 존재하는 사람 수 <a href="/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/managing-people-in-smart-lists/database-dashboard.md" target="_blank">데이터베이스</a>?</li>
 <li>데이터베이스가 거의 꽉 찼을 경우 회사 정책에서 데이터베이스 크기를 확장하거나 기록 데이터를 정리하는 것이 좋습니까?</li>
 <li>전체 데이터베이스가 최소 85%의 시장성을 갖추고 있습니까? 
-<br/>차단 목록에 추가하다 이 임계값에 해당하면 다른 시스템 스마트 목록(마케팅 중단, 마케팅 중단, 중복, 구독 취소)을 더 자세히 살펴보십시오.</li></td>
+<br/>     차단 목록에 추가하다 이 임계값에 해당하면 다른 시스템 스마트 목록(마케팅 중단, 마케팅 중단, 중복, 구독 취소)을 더 자세히 살펴보십시오.</li></td>
   </tr>
   <tr> 
    <td>구독 취소된 사람</td> 
@@ -52,12 +52,12 @@ ht-degree: 1%
   <tr> 
    <td>가능한 중복 항목</td> 
    <td><li>몇 개 <a href="/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/managing-people-in-smart-lists/find-and-merge-duplicate-people.md" target="_blank">중복 레코드 발생 가능</a> 있습니까?
-   <br/>이를 삭제하거나 병합하는 것이 좋습니다.</li></td>
+   <br/>     이를 삭제하거나 병합하는 것이 좋습니다.</li></td>
   </tr>
    <tr> 
    <td>획득 프로그램 없음</td> 
    <td><li>얼마나 많은 사람들이 <a href="/help/marketo/product-docs/core-marketo-concepts/programs/creating-programs/understanding-program-membership.md#acquisition-program" target="_blank">고객 확보 프로그램</a>?
-   <br/>만약 많다면, 이유를 조사하는 것을 고려하세요.</li></td>
+   <br/>     만약 많다면, 이유를 조사하는 것을 고려하세요.</li></td>
   </tr>
  </tbody> 
 </table>
@@ -67,13 +67,14 @@ ht-degree: 1%
 <table style="table-layout:auto"> 
  <tbody> 
   <tr> 
-   <th style="width:25%">영역</th> 
+   <th style="width:20%">영역</th> 
    <th>리뷰 포커스</th>
   </tr> 
   <tr> 
    <td>스마트 목록</td> 
    <td><li>몇 개 <a href="/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/understanding-smart-lists.md" target="_blank">스마트 목록</a> 있습니까? 이 인스턴스에서는 어떻게 사용됩니까?</li>
-<li>목록은 일관된 폴더 구조로 구성되어 있습니까? <br/>고아 목록이 있는 경우 에셋을 쉽게 찾을 수 있도록 트리 구성을 고려하십시오.</li>
+<li>목록은 일관된 폴더 구조로 구성되어 있습니까? 
+<br/>     고아 목록이 있는 경우 에셋을 쉽게 찾을 수 있도록 트리 구성을 고려하십시오.</li>
 <p>팁: <a href="/help/marketo/product-docs/core-marketo-concepts/miscellaneous/understanding-folders.md#archive-a-folder" target="_blank">보관 중</a> 더 이상 필요하지 않은 스마트 목록은 조직 및 성능에 도움이 됩니다.</td>
   </tr>
  </tbody> 
@@ -84,7 +85,7 @@ ht-degree: 1%
 <table style="table-layout:auto"> 
  <tbody> 
   <tr> 
-   <th style="width:25%">영역</th> 
+   <th style="width:20%">영역</th> 
    <th>리뷰 포커스</th>
   </tr> 
   <tr> 
@@ -99,7 +100,7 @@ ht-degree: 1%
 <table style="table-layout:auto"> 
  <tbody> 
   <tr> 
-   <th style="width:25%">영역</th> 
+   <th style="width:20%">영역</th> 
    <th>리뷰 포커스</th>
   </tr> 
   <tr> 
@@ -107,7 +108,7 @@ ht-degree: 1%
    <td><li>대상 <a href="/help/marketo/product-docs/personalization/segmentation-and-snippets/segmentation/create-a-segmentation.md" target="_blank">세분화</a> 있습니까? 어떻게 사용하고 있습니까?</li>
 <li>이(가) 너무 많은 사용자입니다. <a href="/help/marketo/product-docs/personalization/segmentation-and-snippets/segmentation/segmentation-order-priority.md" target="_blank">기본 세그먼트</a>?</li>
 <li>마케팅 가능한 대상을 위한 세그먼테이션이 있습니까? 
-<br/>그렇지 않으면 새로 만드는 것이 좋습니다.</li></td>
+<br/>     그렇지 않으면 새로 만드는 것이 좋습니다.</li></td>
   </tr>
  </tbody> 
 </table>

@@ -3,23 +3,23 @@ description: 문서 3 상속 - Marketo 문서 - 제품 설명서
 title: 문서 3 상속
 hide: true
 hidefromtoc: true
-source-git-commit: 9b2d2ffd93f2c8b209e4ea25bbe7ef41c9f0e5fc
+source-git-commit: fa36cb5e56236670c82d0471b599c2d3599bc174
 workflow-type: tm+mt
-source-wordcount: '788'
+source-wordcount: '796'
 ht-degree: 0%
 
 ---
 
 # 문서 3 상속 {#inherit-doc-3}
 
-마케팅 활동에서는 마케팅 팀이 스마트 캠페인을 만들고, 크리에이티브 에셋(예: 이메일 및 랜딩 페이지)을 빌드하고, 에셋 성과를 볼 수 있습니다.
+마케팅 활동 섹션을 적절히 구성하여 다른 사람이 Marketo Engage 인스턴스 내에서 다양한 프로그램을 찾고 관리할 수 있도록 하고 마케팅 담당자들이 마케팅에서 영업으로 전달되도록 처리합니다.
 
 ## 조직 {#organization}
 
 <table style="table-layout:auto"> 
  <tbody> 
   <tr> 
-   <th>영역</th> 
+   <th style="width:20%">영역</th> 
    <th>리뷰 포커스</th>
   </tr> 
   <tr> 
@@ -33,7 +33,7 @@ ht-degree: 0%
   <tr> 
    <td>프로그램</td> 
    <td><li>KG - 이것은 여전히 관련이 있습니까 <a href="https://business.adobe.com/blog/perspectives/center-of-excellence-top-10-questions-to-ask-yourself" target="_blank">우수성의 중심</a> 프로그램 템플릿과 함께? 
-   <br/>그렇다면 팀의 사용 사례에 맞게 프로그램 템플릿을 사용할 수 있습니까?</li>
+   <br/>     그렇다면 팀의 사용 사례에 맞게 프로그램 템플릿을 사용할 수 있습니까?</li>
 <li>유사한 프로그램 유형 <a href="/help/marketo/product-docs/core-marketo-concepts/programs/working-with-programs/best-practice-how-to-organize-your-programs.md" target="_blank">일관되게 조직되</a>?</li>
 <li>다음과 같음 <a href="/help/marketo/product-docs/core-marketo-concepts/programs/working-with-programs/understanding-period-costs.md" target="_blank">기간 비용</a> 제자리에 두라고?</li>
 <li>모든 프로그램 <a href="/help/marketo/product-docs/crm-sync/salesforce-sync/sfdc-sync-details/how-to-match-program-statuses-and-salesforce-campaign-statuses-prior-to-sync.md" target="_blank">sfdc 캠페인에 동기화됨</a> (해당되는 경우)?</li>
@@ -64,22 +64,22 @@ ht-degree: 0%
 <table style="table-layout:auto"> 
  <tbody> 
   <tr> 
-   <th>영역</th> 
+   <th style="width:20%">영역</th> 
    <th>리뷰 포커스</th>
   </tr> 
   <tr> 
    <td>토큰</td> 
-   <td><li>가장 일반적으로 사용되는 프로그램 유형에서 토큰이 사용되고 있습니까? 
-   <br/>그렇지 않다면 효율성을 높이기 위해 이를 사용하는 것을 고려해야 한다.</li>
+   <td><li>다음과 같음 <a href="/help/marketo/product-docs/core-marketo-concepts/programs/tokens/understanding-my-tokens-in-a-program.md" target="_blank">토큰</a> 가장 일반적으로 사용되는 프로그램 유형에서 사용 중입니까? 
+   <br/>     그렇지 않다면 효율성을 높이기 위해 이를 사용하는 것을 고려해야 한다.</li>
 <li>토큰이 구현되면 글로벌 폴더 토큰이 있습니까? 어떻게 사용하고 있습니까?</li></td>
   </tr>
   <tr> 
    <td>참여 프로그램</td> 
    <td><li>라이브 진행 여부 <a href="/help/marketo/product-docs/email-marketing/drip-nurturing/creating-an-engagement-program/understanding-engagement-programs.md" target="_blank">참여 프로그램</a> 달리기?</li>
 <li>몇 개 <a href="/help/marketo/product-docs/email-marketing/drip-nurturing/using-engagement-programs/people-who-have-exhausted-content.md" target="_blank">사람들이 지쳤습니다.</a>? 
-<br/>소진된 사람이 많으면 콘텐츠 추가를 고려합니다.</li>
-<li>사람들이 콘텐츠를 사용하고 있습니까? 
-<br/>그렇지 않은 경우 업데이트 및/또는 A/B 테스트를 고려하십시오.</li></td>
+<br/>     소진된 사람이 많다면 다음을 고려하십시오 <a href="/help/marketo/product-docs/email-marketing/drip-nurturing/creating-an-engagement-program/add-content-to-a-stream.md" target="_blank">콘텐츠 추가</a>.</li>
+<li>사람 <a href="/help/marketo/product-docs/email-marketing/drip-nurturing/reports-and-notifications/engagement-stream-performance-report.md" target="_blank">콘텐츠 참여</a>? 
+<br/>     그렇지 않은 경우 업데이트 및/또는 A/B 테스트를 고려하십시오.</li></td>
   </tr>
   <tr> 
    <td>캠페인 일괄 처리</td> 
@@ -116,7 +116,7 @@ ht-degree: 0%
 <table style="table-layout:auto"> 
  <tbody> 
   <tr> 
-   <th>영역</th> 
+   <th style="width:20%">영역</th> 
    <th>리뷰 포커스</th>
   </tr> 
   <tr> 
@@ -140,7 +140,7 @@ ht-degree: 0%
   <tr> 
    <td>개인 정보 및 규정 준수</td> 
    <td><li>데이터 개인정보 보호 및 스팸 법률을 준수하는지 확인하는 프로그램이 있습니까? 
-   <br/>고려 <a href="https://business.adobe.com/resources/ebooks/the-gdpr-and-the-marketer.html" target="_blank">GDPR</a>, CASL, CAN-SPAM, CCPA 등</li>
+   <br/>     고려 <a href="https://business.adobe.com/resources/ebooks/the-gdpr-and-the-marketer.html" target="_blank">GDPR</a>, CASL, CAN-SPAM, CCPA 등</li>
 <p>팁: 이러한 문제에 대해서는 항상 법무팀에 문의하십시오. 변경하기 전에 규정 준수를 유지하기 위한 이전 이니셔티브에 대해 팀에 문의하십시오.</td>
   </tr>
   <tr> 
