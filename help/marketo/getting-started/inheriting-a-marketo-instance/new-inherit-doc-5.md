@@ -3,9 +3,9 @@ description: 문서 5 상속 - Marketo 문서 - 제품 설명서
 title: 문서 5 상속
 hide: true
 hidefromtoc: true
-source-git-commit: fa36cb5e56236670c82d0471b599c2d3599bc174
+source-git-commit: 1b97a8a2a491c2091eb722a16ab10f901e77a912
 workflow-type: tm+mt
-source-wordcount: '228'
+source-wordcount: '237'
 ht-degree: 2%
 
 ---
@@ -46,7 +46,7 @@ ht-degree: 2%
   <tr> 
    <td>데이터 사전</td> 
    <td><li>사용 가능한 필드를 설명하는 데이터 사전이 별도로 있습니까?
-   <br/>     그렇지 않으면 새로 만드는 것이 좋습니다.</li></td>
+   <br/>     그렇지 않은 경우 마케팅 운영 팀에 액세스할 수 있는 폴더에 하나를 만드는 것이 좋습니다.</li></td>
   </tr>
   <tr> 
    <td>조직</td> 

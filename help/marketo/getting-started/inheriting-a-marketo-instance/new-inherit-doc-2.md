@@ -3,9 +3,9 @@ description: 문서 2 상속 - Marketo 문서 - 제품 설명서
 title: 문서 2 상속
 hide: true
 hidefromtoc: true
-source-git-commit: fa36cb5e56236670c82d0471b599c2d3599bc174
+source-git-commit: 1b97a8a2a491c2091eb722a16ab10f901e77a912
 workflow-type: tm+mt
-source-wordcount: '362'
+source-wordcount: '365'
 ht-degree: 1%
 
 ---
@@ -47,7 +47,7 @@ ht-degree: 1%
   </tr>
   <tr> 
    <td>반송된 이메일 주소</td> 
-   <td><li>텍스트</li></td>
+   <td><li>KG - 게재 대기 중</li></td>
   </tr>
   <tr> 
    <td>가능한 중복 항목</td> 
