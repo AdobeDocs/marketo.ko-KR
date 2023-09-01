@@ -4,9 +4,9 @@ title: CT-YYYY-MM-Content Marketo 이외 랜딩 페이지
 hide: true
 hidefromtoc: true
 feature: Programs
-source-git-commit: 0f71600b18315feb3ef32e95dfb108b09c4cb79f
+source-git-commit: 17b86ff816a447315dda5e1cbac67536472e777d
 workflow-type: tm+mt
-source-wordcount: '410'
+source-wordcount: '407'
 ht-degree: 3%
 
 ---
@@ -94,8 +94,6 @@ Marketo Engage 기본 프로그램을 사용하여 Marketo Engage이 아닌 랜�
   </tr>
  </tbody> 
 </table>
-
-프로그램의 스크린샷
 
 ## 내 토큰이 포함됨 {#my-tokens-included}
 

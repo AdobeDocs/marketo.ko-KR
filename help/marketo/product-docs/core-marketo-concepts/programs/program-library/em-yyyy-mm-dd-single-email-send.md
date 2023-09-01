@@ -4,7 +4,7 @@ title: EM-YYYY-MM-DD-Single 이메일 보내기
 hide: true
 hidefromtoc: true
 feature: Programs
-source-git-commit: ea276734b6d277f4a3548a9a697e1c7ed4c30e2d
+source-git-commit: 17b86ff816a447315dda5e1cbac67536472e777d
 workflow-type: tm+mt
 source-wordcount: '291'
 ht-degree: 4%
@@ -86,8 +86,6 @@ ht-degree: 4%
  </tbody> 
 </table>
 
-프로그램의 스크린샷
-
 ## 내 토큰이 포함됨 {#my-tokens-included}
 
 <table style="table-layout:auto"> 
@@ -114,6 +112,8 @@ ht-degree: 4%
   </tr>
  </tbody> 
 </table>
+
+프로그램의 스크린샷
 
 ## 충돌 규칙 {#conflict-rules}
 
