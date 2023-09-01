@@ -5,7 +5,7 @@ hide: true
 hidefromtoc: true
 feature: Programs
 exl-id: 1271c60b-1bcd-458a-bfdc-af0d5535743c
-source-git-commit: 632f34fa3ab69537703b1f82678955047476d0d3
+source-git-commit: d7f3ccbbef3afb8e2f51a0a5515c5a5054c72696
 workflow-type: tm+mt
 source-wordcount: '128'
 ht-degree: 0%
@@ -20,27 +20,29 @@ Marketo Engage 참조 라이브러리에는 Marketo 인스턴스로 직접 가�
 
 ## 사용 가능한 프로그램 예 {#available-program-examples}
 
-* [CT-YYYY-MM-Content Marketo 이외 랜딩 페이지](/help/marketo/product-docs/core-marketo-concepts/programs/program-library/ct-yyyy-mm-content-non-marketo-landing-page.md){target="_blank"}
-
-* [Marketo 랜딩 페이지의 CT-YYYY-MM-Content](/help/marketo/product-docs/core-marketo-concepts/programs/program-library/ct-yyyy-mm-content-on-marketo-landing-page.md){target="_blank"}
-
 * [EM-YYYY-MM-DD-Single 이메일 보내기](/help/marketo/product-docs/core-marketo-concepts/programs/program-library/em-yyyy-mm-dd-single-email-send.md){target="_blank"}
-
-* [EV-YYYY-MM-DD-이벤트 프로그램](/help/marketo/product-docs/core-marketo-concepts/programs/program-library/ev-yyyy-mm-dd-event-program.md){target="_blank"}
 
 * [NL-YYYY-MM-뉴스레터](/help/marketo/product-docs/core-marketo-concepts/programs/program-library/nl-yyyy-mm-newsletter.md){target="_blank"}
 
-* [NUR-YYYY-MM-Advanced Gurture](/help/marketo/product-docs/core-marketo-concepts/programs/program-library/nur-yyyy-mm-advanced-nurture.md){target="_blank"}
+* [WBN-YYYY-MM-DD-웨비나 프로그램](/help/marketo/product-docs/core-marketo-concepts/programs/program-library/wbn-yyyy-mm-dd-webinar-program.md){target="_blank"}
+
+* [EV-YYYY-MM-DD-이벤트 프로그램](/help/marketo/product-docs/core-marketo-concepts/programs/program-library/ev-yyyy-mm-dd-event-program.md){target="_blank"}
+
+* [TS-YYYY-MM-DD-Tradeshow 프로그램](/help/marketo/product-docs/core-marketo-concepts/programs/program-library/ts-yyyy-mm-dd-tradeshow-program.md){target="_blank"}
 
 * [NUR-YYYY-MM-Simple Grooth](/help/marketo/product-docs/core-marketo-concepts/programs/program-library/nur-yyyy-mm-simple-nurture.md){target="_blank"}
 
+* [NUR-YYYY-MM-Advanced Gurture](/help/marketo/product-docs/core-marketo-concepts/programs/program-library/nur-yyyy-mm-advanced-nurture.md){target="_blank"}
+
+* [Marketo 랜딩 페이지의 CT-YYYY-MM-Content](/help/marketo/product-docs/core-marketo-concepts/programs/program-library/ct-yyyy-mm-content-on-marketo-landing-page.md){target="_blank"}
+
+* [CT-YYYY-MM-Content Marketo 이외 랜딩 페이지](/help/marketo/product-docs/core-marketo-concepts/programs/program-library/ct-yyyy-mm-content-non-marketo-landing-page.md){target="_blank"}
+
+* [WR-YYYY-MM-Web 요청 프로그램](/help/marketo/product-docs/core-marketo-concepts/programs/program-library/wr-yyyy-mm-web-request-program.md){target="_blank"}
+
 * [OA-YYYY-MM-Online Advertising Marketo 랜딩 페이지](/help/marketo/product-docs/core-marketo-concepts/programs/program-library/oa-yyyy-mm-online-advertising-marketo-landing-page.md){target="_blank"}
 
-* [OP-Acquisition-API](/help/marketo/product-docs/core-marketo-concepts/programs/program-library/op-acquisition-api.md){target="_blank"}
-
 * [OP-데이터 관리](/help/marketo/product-docs/core-marketo-concepts/programs/program-library/op-data-management.md){target="_blank"}
-
-* [OP-Deliverability Management](/help/marketo/product-docs/core-marketo-concepts/programs/program-library/op-deliverability-management.md){target="_blank"}
 
 * [OP-리드 관리](/help/marketo/product-docs/core-marketo-concepts/programs/program-library/op-lead-management.md){target="_blank"}
 
@@ -48,11 +50,9 @@ Marketo Engage 참조 라이브러리에는 Marketo 인스턴스로 직접 가�
 
 * [OP-점수-인구 통계](/help/marketo/product-docs/core-marketo-concepts/programs/program-library/op-scoring-demographic.md){target="_blank"}
 
-* [TS-YYYY-MM-DD-Tradeshow 프로그램](/help/marketo/product-docs/core-marketo-concepts/programs/program-library/ts-yyyy-mm-dd-tradeshow-program.md){target="_blank"}
+* [OP-Acquisition-API](/help/marketo/product-docs/core-marketo-concepts/programs/program-library/op-acquisition-api.md){target="_blank"}
 
-* [WBN-YYYY-MM-DD-웨비나 프로그램](/help/marketo/product-docs/core-marketo-concepts/programs/program-library/wbn-yyyy-mm-dd-webinar-program.md){target="_blank"}
-
-* [WR-YYYY-MM-Web 요청 프로그램](/help/marketo/product-docs/core-marketo-concepts/programs/program-library/wr-yyyy-mm-web-request-program.md){target="_blank"}
+* [OP-Deliverability Management](/help/marketo/product-docs/core-marketo-concepts/programs/program-library/op-deliverability-management.md){target="_blank"}
 
 >[!MORELIKETHIS]
 >
