@@ -3,7 +3,7 @@ description: 현재 릴리스 정보 - Marketo 설명서 - 제품 설명서
 title: 최신 릴리스 정보
 exl-id: a2eccad5-73ad-48f9-8091-51cee23824e1
 feature: Release Information
-source-git-commit: d87c05212afbc916bd11cf681a4375e31f46550c
+source-git-commit: 515821580741449f71df31dbd0652498fd744783
 workflow-type: tm+mt
 source-wordcount: '941'
 ht-degree: 2%
@@ -314,7 +314,7 @@ ht-degree: 2%
 
 * **새 활동에 대한 트리거 토큰**: Dynamic Chat을 위한 새 활동을 지원하는 데 새 트리거 토큰을 사용할 수 있습니다.
 
-<table> 
+<table style="margin-left:10px" width="400px"> 
   <tr> 
    <td><b>상태</b></td>
    <td><b>설명서 업데이트 정보</b></td>
