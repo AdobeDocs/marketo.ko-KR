@@ -4,9 +4,9 @@ title: WBN-YYYY-MM-DD-웨비나 프로그램
 hide: true
 hidefromtoc: true
 feature: Programs
-source-git-commit: ea276734b6d277f4a3548a9a697e1c7ed4c30e2d
+source-git-commit: 569f61f15a9bdeb31b3a60b237f0c19aad68800a
 workflow-type: tm+mt
-source-wordcount: '591'
+source-wordcount: '581'
 ht-degree: 5%
 
 ---
@@ -53,37 +53,37 @@ ht-degree: 5%
   </tr> 
   <tr> 
    <td>이메일</td> 
-   <td>빠른 시작 이메일 템플릿</td>
+   <td><a href="/help/marketo/product-docs/core-marketo-concepts/programs/program-library/quick-start-email-template.md" target="_blank">빠른 시작 이메일 템플릿</a></td>
    <td>01 - 이메일 - 초대</td>
   </tr>
    <tr> 
    <td>이메일</td> 
-   <td>빠른 시작 이메일 템플릿</td>
+   <td><a href="/help/marketo/product-docs/core-marketo-concepts/programs/program-library/quick-start-email-template.md" target="_blank">빠른 시작 이메일 템플릿</a></td>
    <td>02 - 이메일 - 초대 미리 알림</td>
   </tr>
    <tr> 
    <td>이메일</td> 
-   <td>빠른 시작 이메일 템플릿</td>
+   <td><a href="/help/marketo/product-docs/core-marketo-concepts/programs/program-library/quick-start-email-template.md" target="_blank">빠른 시작 이메일 템플릿</a></td>
    <td>03 - 이메일 - 초대 미리 알림 - 마지막 기회</td>
   </tr>
   <tr> 
    <td>이메일</td> 
-   <td>빠른 시작 이메일 템플릿</td>
+   <td><a href="/help/marketo/product-docs/core-marketo-concepts/programs/program-library/quick-start-email-template.md" target="_blank">빠른 시작 이메일 템플릿</a></td>
    <td>04 - 이메일 - 등록 확인</td>
   </tr>
   <tr> 
    <td>이메일</td> 
-   <td>빠른 시작 이메일 템플릿</td>
+   <td><a href="/help/marketo/product-docs/core-marketo-concepts/programs/program-library/quick-start-email-template.md" target="_blank">빠른 시작 이메일 템플릿</a></td>
    <td>05 - 이메일 - 참석 알림 메시지</td>
   </tr>
   <tr> 
    <td>이메일</td> 
-   <td>빠른 시작 이메일 템플릿</td>
+   <td><a href="/help/marketo/product-docs/core-marketo-concepts/programs/program-library/quick-start-email-template.md" target="_blank">빠른 시작 이메일 템플릿</a></td>
    <td>06 - 이메일 - 후속 작업 - 참석함</td>
   </tr>
   <tr> 
    <td>이메일</td> 
-   <td>빠른 시작 이메일 템플릿</td>
+   <td><a href="/help/marketo/product-docs/core-marketo-concepts/programs/program-library/quick-start-email-template.md" target="_blank">빠른 시작 이메일 템플릿</a></td>
    <td>07 - 이메일 - 후속 작업 - 표시 안 함 </td>
   </tr>
   <tr>
@@ -94,17 +94,17 @@ ht-degree: 5%
   </tr>
   <tr> 
    <td>랜딩 페이지</td> 
-   <td>빠른 시작 LP 템플릿</td>
+   <td><a href="/help/marketo/product-docs/core-marketo-concepts/programs/program-library/quick-start-landing-page-template.md" target="_blank">빠른 시작 LP 템플릿</a></td>
    <td>01 - LP - 등록</td>
   </tr>
   <tr> 
    <td>랜딩 페이지</td> 
-   <td>빠른 시작 LP 템플릿</td>
+   <td><a href="/help/marketo/product-docs/core-marketo-concepts/programs/program-library/quick-start-landing-page-template.md" target="_blank">빠른 시작 LP 템플릿</a></td>
    <td>02 - LP - 감사합니다.</td>
   </tr>
   <tr> 
    <td>랜딩 페이지</td> 
-   <td>빠른 시작 LP 템플릿</td>
+   <td><a href="/help/marketo/product-docs/core-marketo-concepts/programs/program-library/quick-start-landing-page-template.md" target="_blank">빠른 시작 LP 템플릿</a></td>
    <td>03 - LP - 온디맨드</td>
   </tr>
   <tr> 
@@ -150,17 +150,12 @@ ht-degree: 5%
   <tr> 
    <td>스마트 캠페인</td> 
    <td> </td>
-   <td>04 - 참석함(프로그램 성공)</td>
+   <td>04 - 후속 이메일 보내기</td>
   </tr>
   <tr> 
    <td>스마트 캠페인</td> 
    <td> </td>
-   <td>05 - 후속 이메일 보내기</td>
-  </tr>
-  <tr> 
-   <td>스마트 캠페인</td> 
-   <td> </td>
-   <td>06 - Attend On-Demand(프로그램 성공)</td>
+   <td>05 - Attend On-Demand(프로그램 성공)</td>
   </tr>
   <tr> 
    <td>폴더</td> 
@@ -333,7 +328,7 @@ ht-degree: 5%
 
 >[!TIP]
 >
->성공 추적을 위해 &quot;04-참석(프로그램 성공)&quot; 및 &quot;06-참석 온디맨드(프로그램 성공)&quot; 캠페인을 활성화하는 것을 잊지 마십시오! 수행 _다음 이전_ 이메일이 전송되었습니다.
+>성공 추적을 위해 &quot;05 - 참석함(프로그램 성공)&quot; 캠페인을 활성화하는 것을 잊지 마십시오! 수행 _다음 이전_ 이메일이 전송되었습니다.
 
 >[!IMPORTANT]
 >

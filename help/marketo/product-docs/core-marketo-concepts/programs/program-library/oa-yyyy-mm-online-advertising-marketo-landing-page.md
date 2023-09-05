@@ -4,9 +4,9 @@ title: OA-YYYY-MM-Online Advertising Marketo 랜딩 페이지
 hide: true
 hidefromtoc: true
 feature: Programs
-source-git-commit: 17b86ff816a447315dda5e1cbac67536472e777d
+source-git-commit: 569f61f15a9bdeb31b3a60b237f0c19aad68800a
 workflow-type: tm+mt
-source-wordcount: '477'
+source-wordcount: '480'
 ht-degree: 3%
 
 ---
@@ -29,8 +29,8 @@ ht-degree: 3%
   </tr> 
   <tr> 
    <td>온라인 광고</td> 
-   <td>구성원 
-<br/>2-참여 성공</td>
+   <td>01 - 구성원 
+<br/>02 - 참여 - 성공</td>
    <td>포함</td>
    <td>기본값</td>
   </tr>
@@ -53,17 +53,17 @@ ht-degree: 3%
   </tr>
   <tr> 
    <td>이메일</td> 
-   <td>빠른 시작 이메일 템플릿</td>
+   <td><a href="/help/marketo/product-docs/core-marketo-concepts/programs/program-library/quick-start-email-template.md" target="_blank">빠른 시작 이메일 템플릿</a></td>
    <td>01-이메일-감사</td>
   </tr>
   <tr> 
    <td>랜딩 페이지</td> 
-   <td>빠른 시작 LP 템플릿</td>
+   <td><a href="/help/marketo/product-docs/core-marketo-concepts/programs/program-library/quick-start-landing-page-template.md" target="_blank">빠른 시작 LP 템플릿</a></td>
    <td>01 - LP - 등록</td>
   </tr>
    <tr> 
    <td>랜딩 페이지</td> 
-   <td>빠른 시작 LP 템플릿</td>
+   <td><a href="/help/marketo/product-docs/core-marketo-concepts/programs/program-library/quick-start-landing-page-template.md" target="_blank">빠른 시작 LP 템플릿</a></td>
    <td>02 - LP - 감사합니다.</td>
   </tr>
    <tr> 
@@ -79,17 +79,17 @@ ht-degree: 3%
   <tr> 
    <td>스마트 캠페인</td> 
    <td> </td>
-   <td>00-Capture Acquisition 프로그램</td>
+   <td>00 - 획득 프로그램 캡처</td>
   </tr>
   <tr> 
    <td>스마트 캠페인</td> 
    <td> </td>
-   <td>01개 작성된 양식</td>
+   <td>01 - 작성된 양식</td>
   </tr>
   <tr> 
    <td>스마트 캠페인</td> 
    <td> </td>
-   <td>02-참여(프로그램 성공)</td>
+   <td>02 - 참여(프로그램 성공)</td>
   </tr>
   <tr> 
    <td>폴더</td> 
@@ -207,7 +207,7 @@ ht-degree: 3%
 
 >[!TIP]
 >
->성공 추적을 위해 &quot;02 참여&quot; 캠페인을 활성화하는 것을 잊지 마십시오! 수행 _다음 이전_ 양식이 라이브이고 이메일이 전송됩니다.
+>성공 추적을 위해 &quot;02 - 참여(프로그램 성공)&quot; 캠페인을 활성화하는 것을 잊지 마십시오! 수행 _다음 이전_ 양식이 라이브이고 이메일이 전송됩니다.
 
 >[!IMPORTANT]
 >

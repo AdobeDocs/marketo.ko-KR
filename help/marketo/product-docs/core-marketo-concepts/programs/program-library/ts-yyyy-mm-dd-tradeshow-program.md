@@ -4,9 +4,9 @@ title: TS-YYYY-MM-DD-Tradeshow 프로그램
 hide: true
 hidefromtoc: true
 feature: Programs
-source-git-commit: ea276734b6d277f4a3548a9a697e1c7ed4c30e2d
+source-git-commit: 569f61f15a9bdeb31b3a60b237f0c19aad68800a
 workflow-type: tm+mt
-source-wordcount: '428'
+source-wordcount: '416'
 ht-degree: 4%
 
 ---
@@ -52,12 +52,12 @@ Marketo Engage 이벤트 프로그램을 활용하는 초대 및 후속 이메�
   </tr> 
   <tr> 
    <td>이메일</td> 
-   <td>빠른 시작 이메일 템플릿</td>
+   <td><a href="/help/marketo/product-docs/core-marketo-concepts/programs/program-library/quick-start-email-template.md" target="_blank">빠른 시작 이메일 템플릿</a></td>
    <td>01-이메일-감사</td>
   </tr>
    <tr> 
    <td>이메일</td> 
-   <td>빠른 시작 이메일 템플릿</td>
+   <td><a href="/help/marketo/product-docs/core-marketo-concepts/programs/program-library/quick-start-email-template.md" target="_blank">빠른 시작 이메일 템플릿</a></td>
    <td>02a- 이메일 - 초대</td>
   </tr>
   <tr>
@@ -84,17 +84,12 @@ Marketo Engage 이벤트 프로그램을 활용하는 초대 및 후속 이메�
    <tr> 
    <td>스마트 캠페인</td> 
    <td> </td>
-   <td>02 - 참여도 표시(성공)</td>
+   <td>02 - 후속 이메일 보내기</td>
   </tr>
    <tr> 
    <td>스마트 캠페인</td> 
    <td> </td>
-   <td>03 - 후속 이메일 보내기</td>
-  </tr>
-   <tr> 
-   <td>스마트 캠페인</td> 
-   <td> </td>
-   <td>04 - 후속 이메일 참여(성공)</td>
+   <td>03 - 후속 이메일 참여(성공)</td>
   </tr>
   <tr> 
    <td>폴더</td> 
@@ -219,7 +214,7 @@ Marketo Engage 이벤트 프로그램을 활용하는 초대 및 후속 이메�
 
 >[!TIP]
 >
->성공 추적을 위해 &quot;02-참여 - 쇼(프로그램 성공)&quot; 및 &quot;04-참여 - 후속 이메일(프로그램 성공)&quot; 캠페인을 활성화하는 것을 잊지 마십시오! 수행 _다음 이전_ 이메일이 전송되었습니다.
+>성공 추적을 위해 &quot;03 - 후속 이메일에 참여(프로그램 성공)&quot; 캠페인을 활성화하는 것을 잊지 마십시오! 수행 _다음 이전_ 이메일이 전송되었습니다.
 
 >[!IMPORTANT]
 >
