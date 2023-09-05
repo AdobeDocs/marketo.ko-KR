@@ -3,7 +3,7 @@ description: Marketo 구독 및 Adobe Admin Console으로의 사용자 마이그
 title: Marketo 구독 및 Adobe Admin Console으로의 사용자 마이그레이션 이해
 exl-id: 91e7b56b-2563-4986-a55c-f9760ea88b05
 feature: Marketo with Adobe Identity
-source-git-commit: 3c7eb2fc2e64898e12f08743225c0b802bf97474
+source-git-commit: c3214b440a1bfc9d54551f50e364935d66286764
 workflow-type: tm+mt
 source-wordcount: '1121'
 ht-degree: 0%
@@ -57,7 +57,7 @@ Marketo 제품 관리자는 다음 작업을 수행합니다.
 
 >[!NOTE]
 >
->마이그레이션의 복잡성으로 인해 날짜 변경은 예약된 날짜를 30일 이내로 제한됩니다. 더 늦은 날짜가 필요한 경우 marketocares@adobe.com으로 이메일을 보내십시오.
+>마이그레이션의 복잡성으로 인해 날짜 변경은 예약된 날짜를 30일 이내로 제한됩니다. 더 늦은 날짜가 필요한 경우 marketocares@marketo.com으로 이메일을 보내십시오.
 
 * 사용자 마이그레이션 시작 날짜까지의 카운트다운을 표시하는 My Marketo 배너를 참조하십시오.
 
@@ -97,4 +97,4 @@ Adobe이 마이그레이션되면 사용자는 Marketo에 로그인하는 방식
 
 ## 지원 받기 {#get-support}
 
-구독 또는 사용자 마이그레이션에 대한 추가 지원이 필요하면 marketocares@adobe.com으로 이메일을 보내십시오.
+구독 또는 사용자 마이그레이션에 대한 추가 지원이 필요하면 marketocares@marketo.com으로 이메일을 보내십시오.
