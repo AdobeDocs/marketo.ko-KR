@@ -3,9 +3,9 @@ description: 대화형 웨비나 개요 - Marketo 문서 - 제품 설명서
 title: 대화형 웨비나 개요
 exl-id: c454f0a5-c9c6-48a4-8bbf-e1b10dc00eec
 feature: Interactive Webinars
-source-git-commit: 02b2e39580c5eac63de4b4b7fdaf2a835fdd4ba5
+source-git-commit: c38f2361edcf8ed04aff28b25ea5f5fb757fb5ab
 workflow-type: tm+mt
-source-wordcount: '304'
+source-wordcount: '348'
 ht-degree: 0%
 
 ---
@@ -13,6 +13,10 @@ ht-degree: 0%
 # 대화형 웨비나 개요 {#interactive-webinars-overview}
 
 대화형 웨비나 기능은 Marketo Engage 내에 내장된 웨비나 플랫폼입니다. 추가 도구 또는 통합이 필요하지 않습니다.
+
+>[!IMPORTANT]
+>
+>Adobe Connect에서 제공하는 대화형 웨비나는 Adobe Connect에 기본적으로 통합되어 있는 기능입니다. 대화형 웨비나 사용은 추가 약관의 적용을 받습니다.  계약 내용을 검토하거나 Adobe에 문의하여 추가 약관에 대해 문의하시기 바랍니다.
 
 ## 대화형 웨비나란 무엇입니까? {#what-is-interactive-webinars}
 
