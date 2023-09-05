@@ -4,7 +4,7 @@ title: NL-YYYY-MM-뉴스레터
 hide: true
 hidefromtoc: true
 feature: Programs
-source-git-commit: 17b86ff816a447315dda5e1cbac67536472e777d
+source-git-commit: 9c9046d6ac889bef4ec8ab7add82fda8e72d73b4
 workflow-type: tm+mt
 source-wordcount: '282'
 ht-degree: 4%
@@ -48,7 +48,7 @@ ht-degree: 4%
   </tr> 
   <tr> 
    <td>이메일</td> 
-   <td>빠른 시작 이메일 템플릿</td>
+   <td><a href="/help/marketo/product-docs/core-marketo-concepts/programs/program-library/quick-start-email-template.md" target="_blank">빠른 시작 이메일 템플릿</a></td>
    <td>01 - 이메일</td>
   </tr>
   <tr> 

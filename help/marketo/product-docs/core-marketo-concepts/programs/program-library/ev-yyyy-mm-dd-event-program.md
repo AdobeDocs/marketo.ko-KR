@@ -4,7 +4,7 @@ title: EV-YYYY-MM-DD-이벤트 프로그램
 hide: true
 hidefromtoc: true
 feature: Programs
-source-git-commit: ea276734b6d277f4a3548a9a697e1c7ed4c30e2d
+source-git-commit: 9c9046d6ac889bef4ec8ab7add82fda8e72d73b4
 workflow-type: tm+mt
 source-wordcount: '566'
 ht-degree: 6%
@@ -51,47 +51,47 @@ Marketo Engage 이벤트 프로그램을 활용하는 등록 페이지, 3개의 
   </tr> 
   <tr> 
    <td>이메일</td> 
-   <td>빠른 시작 이메일 템플릿</td>
+   <td><a href="/help/marketo/product-docs/core-marketo-concepts/programs/program-library/quick-start-email-template.md" target="_blank">빠른 시작 이메일 템플릿</a></td>
    <td>01-이메일-감사</td>
   </tr>
    <tr> 
    <td>이메일</td> 
-   <td>빠른 시작 이메일 템플릿</td>
+   <td><a href="/help/marketo/product-docs/core-marketo-concepts/programs/program-library/quick-start-email-template.md" target="_blank">빠른 시작 이메일 템플릿</a></td>
    <td>02a- 이메일 - 초대</td>
   </tr>
   <tr> 
    <td>이메일</td> 
-   <td>빠른 시작 이메일 템플릿</td>
+   <td><a href="/help/marketo/product-docs/core-marketo-concepts/programs/program-library/quick-start-email-template.md" target="_blank">빠른 시작 이메일 템플릿</a></td>
    <td>02b - 이메일 - 초대 미리 알림</td>
   </tr>
   <tr> 
    <td>이메일</td> 
-   <td>빠른 시작 이메일 템플릿</td>
+   <td><a href="/help/marketo/product-docs/core-marketo-concepts/programs/program-library/quick-start-email-template.md" target="_blank">빠른 시작 이메일 템플릿</a></td>
    <td>02c- 이메일 - 초대 미리 알림 마지막 기회</td>
   </tr>
   <tr> 
    <td>이메일</td> 
-   <td>빠른 시작 이메일 템플릿</td>
+   <td><a href="/help/marketo/product-docs/core-marketo-concepts/programs/program-library/quick-start-email-template.md" target="_blank">빠른 시작 이메일 템플릿</a></td>
    <td>03 - 이메일 - 참석 알림 메시지</td>
   </tr>
   <tr> 
    <td>이메일</td> 
-   <td>빠른 시작 이메일 템플릿</td>
+   <td><a href="/help/marketo/product-docs/core-marketo-concepts/programs/program-library/quick-start-email-template.md" target="_blank">빠른 시작 이메일 템플릿</a></td>
    <td>04a - 이메일 - 후속 작업 - 참석함</td>
   </tr>
   <tr> 
    <td>이메일</td> 
-   <td>빠른 시작 이메일 템플릿</td>
+   <td><a href="/help/marketo/product-docs/core-marketo-concepts/programs/program-library/quick-start-email-template.md" target="_blank">빠른 시작 이메일 템플릿</a></td>
    <td>04b - 이메일 - 후속 작업 - NoShow</td>
   </tr>
   <tr> 
    <td>랜딩 페이지</td> 
-   <td>빠른 시작 LP 템플릿</td>
+   <td><a href="/help/marketo/product-docs/core-marketo-concepts/programs/program-library/quick-start-landing-page-template.md" target="_blank">빠른 시작 LP 템플릿</a></td>
    <td>01a - LP - 등록</td>
   </tr>
   <tr> 
    <td>랜딩 페이지</td> 
-   <td>빠른 시작 LP 템플릿</td>
+   <td><a href="/help/marketo/product-docs/core-marketo-concepts/programs/program-library/quick-start-landing-page-template.md" target="_blank">빠른 시작 LP 템플릿</a></td>
    <td>01b - LP - 감사합니다.</td>
   </tr>
   <tr> 

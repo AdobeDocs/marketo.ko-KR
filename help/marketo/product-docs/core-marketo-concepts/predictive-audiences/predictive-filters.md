@@ -3,9 +3,9 @@ description: 예측 필터 - Marketo 문서 - 제품 설명서
 title: 예측 필터
 exl-id: 27736b80-cd8b-455d-9d73-c17d492d0906
 feature: Predictive Audiences
-source-git-commit: 9019cb4b81fb3acd744e644d51059644af454e5e
+source-git-commit: 9c9046d6ac889bef4ec8ab7add82fda8e72d73b4
 workflow-type: tm+mt
-source-wordcount: '408'
+source-wordcount: '406'
 ht-degree: 0%
 
 ---
@@ -18,7 +18,7 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->&quot;참석할 가능성이 있음&quot; 및 &quot;등록할 가능성이 있음&quot; 필터는 이벤트 또는 이메일 프로그램에서만 사용할 수 있습니다. &quot;구독 취소 가능성&quot;, &quot;프로그램 멤버 유사&quot; 및 &quot;스마트 목록 멤버 유사&quot;는 모든 프로그램 유형에서 사용할 수 있습니다.
+>&quot;참석할 가능성이 있음&quot; 및 &quot;등록할 가능성이 있음&quot; 필터는 이벤트 프로그램에서만 사용할 수 있습니다. &quot;구독 취소 가능성&quot;, &quot;프로그램 멤버 유사&quot; 및 &quot;스마트 목록 멤버 유사&quot;는 모든 프로그램 유형에서 사용할 수 있습니다.
 
 ## 참석 가능성 {#likelihood-to-attend}
 

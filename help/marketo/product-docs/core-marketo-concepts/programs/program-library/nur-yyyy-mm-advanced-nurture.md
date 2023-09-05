@@ -4,7 +4,7 @@ title: NUR-YYYY-MM-Advanced Gurture
 hide: true
 hidefromtoc: true
 feature: Programs
-source-git-commit: 5aa0c2e3be16219613f0c72235428a962f8d58b3
+source-git-commit: 9c9046d6ac889bef4ec8ab7add82fda8e72d73b4
 workflow-type: tm+mt
 source-wordcount: '482'
 ht-degree: 3%
@@ -71,17 +71,17 @@ Marketo Engage 참여 프로그램을 활용하는 고급 Grooth 프로그램의
   </tr>
   <tr> 
    <td>이메일</td> 
-   <td>빠른 시작 이메일 템플릿</td>
+   <td><a href="/help/marketo/product-docs/core-marketo-concepts/programs/program-library/quick-start-email-template.md" target="_blank">빠른 시작 이메일 템플릿</a></td>
    <td>01 - 이메일(중첩된 프로그램에 라이브)</td>
   </tr>
    <tr> 
    <td>이메일</td> 
-   <td>빠른 시작 이메일 템플릿</td>
+   <td><a href="/help/marketo/product-docs/core-marketo-concepts/programs/program-library/quick-start-email-template.md" target="_blank">빠른 시작 이메일 템플릿</a></td>
    <td>02 - 이메일(중첩된 프로그램에서 라이브)</td>
   </tr>
    <tr> 
    <td>이메일</td> 
-   <td>빠른 시작 이메일 템플릿</td>
+   <td><a href="/help/marketo/product-docs/core-marketo-concepts/programs/program-library/quick-start-email-template.md" target="_blank">빠른 시작 이메일 템플릿</a></td>
    <td>03 - 이메일(중첩된 프로그램에 라이브)</td>
   </tr>
   <tr> 

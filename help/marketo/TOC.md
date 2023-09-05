@@ -3,9 +3,9 @@ audience: end-user
 user-guide-title: Marketo 안내서
 user-guide-description: Marketo 제품 설명서
 feature-set: Marketo Engage
-source-git-commit: d7f3ccbbef3afb8e2f51a0a5515c5a5054c72696
+source-git-commit: 69c2dc58f8ca609702f6e39543d8d72cba6b439c
 workflow-type: tm+mt
-source-wordcount: '9064'
+source-wordcount: '9073'
 ht-degree: 0%
 
 ---
@@ -425,6 +425,8 @@ ht-degree: 0%
             + [OP-점수-인구 통계](/help/marketo/product-docs/core-marketo-concepts/programs/program-library/op-scoring-demographic.md)
             + [OP-Acquisition-API](/help/marketo/product-docs/core-marketo-concepts/programs/program-library/op-acquisition-api.md)
             + [OP-Deliverability Management](/help/marketo/product-docs/core-marketo-concepts/programs/program-library/op-deliverability-management.md)
+            + [빠른 시작 이메일 템플릿](/help/marketo/product-docs/core-marketo-concepts/programs/program-library/quick-start-email-template.md)
+            + [빠른 시작 랜딩 페이지 템플릿](/help/marketo/product-docs/core-marketo-concepts/programs/program-library/quick-start-landing-page-template.md)
          + 프로그램 성과 보고서 {#program-performance-report}
             + [프로그램 성과 보고서 만들기](product-docs/core-marketo-concepts/programs/program-performance-report/create-a-program-performance-report.md)
             + [프로그램 보고서에 프로그램 상태 열 추가](product-docs/core-marketo-concepts/programs/program-performance-report/add-program-status-columns-to-a-program-report.md)

@@ -4,7 +4,7 @@ title: WR-YYYY-MM-Web 요청 프로그램
 hide: true
 hidefromtoc: true
 feature: Programs
-source-git-commit: 5aa0c2e3be16219613f0c72235428a962f8d58b3
+source-git-commit: 9c9046d6ac889bef4ec8ab7add82fda8e72d73b4
 workflow-type: tm+mt
 source-wordcount: '409'
 ht-degree: 3%
@@ -52,17 +52,17 @@ Marketo Engage 기본 프로그램을 활용하는 연락처 요청, 견적 요�
   </tr>
   <tr> 
    <td>이메일</td> 
-   <td>빠른 시작 이메일 템플릿</td>
+   <td><a href="/help/marketo/product-docs/core-marketo-concepts/programs/program-library/quick-start-email-template.md" target="_blank">빠른 시작 이메일 템플릿</a></td>
    <td>경고-웹 요청</td>
   </tr>
   <tr> 
    <td>랜딩 페이지</td> 
-   <td>빠른 시작 LP 템플릿</td>
+   <td><a href="/help/marketo/product-docs/core-marketo-concepts/programs/program-library/quick-start-landing-page-template.md" target="_blank">빠른 시작 LP 템플릿</a></td>
    <td>01 - LP - 요청</td>
   </tr>
   <tr> 
    <td>랜딩 페이지</td> 
-   <td>빠른 시작 LP 템플릿</td>
+   <td><a href="/help/marketo/product-docs/core-marketo-concepts/programs/program-library/quick-start-landing-page-template.md" target="_blank">빠른 시작 LP 템플릿</a></td>
    <td>02 - LP - 감사합니다.</td>
   </tr>
   <tr> 

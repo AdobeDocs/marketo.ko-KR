@@ -5,9 +5,9 @@ hide: true
 hidefromtoc: true
 feature: Programs
 exl-id: 1271c60b-1bcd-458a-bfdc-af0d5535743c
-source-git-commit: d7f3ccbbef3afb8e2f51a0a5515c5a5054c72696
+source-git-commit: 9c9046d6ac889bef4ec8ab7add82fda8e72d73b4
 workflow-type: tm+mt
-source-wordcount: '128'
+source-wordcount: '133'
 ht-degree: 0%
 
 ---
@@ -16,7 +16,7 @@ ht-degree: 0%
 
 Marketo Engage 참조 라이브러리에는 Marketo 인스턴스로 직접 가져와 팀을 지원하는 데 도움이 되는 프로그램 빌드를 시작할 수 있는 몇 가지 스타터 프로그램이 포함되어 있습니다.
 
-라이브러리에는 이메일, 참여, 이벤트, 점수, 전달성 및 운영과 같은 프로그램이 포함되어 있습니다. 모든 프로그램은 품질 및 효과를 극대화하기 위해 Adobe 제품 팀에서 개발하고 글로벌 전문 서비스 팀에서 검사했습니다.
+라이브러리에는 이메일, 참여, 이벤트, 점수, 전달성 및 운영과 같은 프로그램이 포함되어 있습니다. 모든 프로그램은 Adobe 제품 팀에서 개발했으며 [글로벌 전문 서비스](https://business.adobe.com/customers/consulting-services/main.html){target="_blank"} 팀은 품질과 효과를 극대화하기 위한 노력에 있습니다.
 
 ## 사용 가능한 프로그램 예 {#available-program-examples}
 
