@@ -3,9 +3,9 @@ description: 문서 1 상속 - Marketo 문서 - 제품 설명서
 title: 문서 1 상속
 hide: true
 hidefromtoc: true
-source-git-commit: f41cb94d96d475e7ea063fb6fbbab3b2363f6346
+source-git-commit: 088f51a5aa6be65f5f2e4f8ae5df946f6bdf2866
 workflow-type: tm+mt
-source-wordcount: '1429'
+source-wordcount: '1433'
 ht-degree: 1%
 
 ---
@@ -39,7 +39,7 @@ ht-degree: 1%
 <li>Marketo Engage/관리자/사용자 및 역할에서 'Marketo Engage 제품 관리자' 역할이 부여되었습니까?</li> 
 <li>Adobe Admin Console에서 모든 적절한 사용자의 제품 프로필에 Marketo Engage을 할당했습니까?
 <br/>     그렇지 않은 경우 Marketo Engage/관리자/사용자 및 역할에서 역할을 할당하기 전에 먼저 Adobe IMS 제품 프로필에 Marketo Engage을 할당해야 합니다.</li>
-<p>참고: 구독이 75명 이상의 사용자를 포함하고 있고 Adobe IMS로 방금 마이그레이션된 경우 배치 내에서 마이그레이션하고 Adobe 식별을 그룹 또는 한꺼번에 관리할 사용자를 선택할 수 있습니다. 다음에 대한 기대 사항에 대해 자세히 알아보기 <a href="/help/marketo/product-docs/administration/marketo-with-adobe-identity/understanding-marketo-subscription-and-user-migration-to-the-adobe-admin-console.md#prepare-users-for-migration-day" target="_blank">Adobe IMS 마이그레이션일</a>.</td>
+<p><img src="assets/note-icon-25.png" alt="메모 아이콘">참고: 구독이 75명 이상의 사용자를 포함하고 있고 Adobe IMS로 방금 마이그레이션된 경우 배치 내에서 마이그레이션하고 Adobe 식별을 그룹 또는 한꺼번에 관리할 사용자를 선택할 수 있습니다. 다음에 대한 기대 사항에 대해 자세히 알아보기 <a href="/help/marketo/product-docs/administration/marketo-with-adobe-identity/understanding-marketo-subscription-and-user-migration-to-the-adobe-admin-console.md#prepare-users-for-migration-day" target="_blank">Adobe IMS 마이그레이션일</a>.</td>
   </tr>
   <tr> 
    <td>사용자 관리 API</td> 
@@ -261,7 +261,7 @@ ht-degree: 1%
    <td><li>본인 <a href="/help/marketo/product-docs/administration/additional-integrations/add-munchkin-tracking-code-to-your-website.md" target="_blank">Munchkin 추적 코드</a> 웹 사이트에서(Marketo에서는 아님)?</li>
 <li>다음 값: <a href="/help/marketo/product-docs/administration/settings/edit-do-not-track-browser-support-settings.md" target="_blank">추적 안 함</a> 브라우저 요청이 활성화되었습니까?</li>
 <li>본인 <a href="https://developers.marketo.com/javascript-api/lead-tracking/" target="_blank">Munchkin API</a> 구성됨? 
-<p>팁: 웹 사이트에서 munchkin 코드가 있는 위치에 대한 설명서가 없는 경우 <a href="/help/marketo/product-docs/reporting/basic-reporting/report-types/web-page-activity-report.md" target="_blank">웹 페이지 활동 보고서</a>.</li></td>
+<p><img src="assets/tip-icon-25.png" alt="메모 아이콘">팁: 웹 사이트에서 munchkin 코드가 있는 위치에 대한 설명서가 없는 경우 <a href="/help/marketo/product-docs/reporting/basic-reporting/report-types/web-page-activity-report.md" target="_blank">웹 페이지 활동 보고서</a>.</li></td>
   </tr>
   <tr> 
    <td>웹 서비스</td> 
