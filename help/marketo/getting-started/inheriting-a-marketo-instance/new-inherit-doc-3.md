@@ -3,9 +3,9 @@ description: 문서 3 상속 - Marketo 문서 - 제품 설명서
 title: 문서 3 상속
 hide: true
 hidefromtoc: true
-source-git-commit: fa36cb5e56236670c82d0471b599c2d3599bc174
+source-git-commit: 77314760bfd188725440311f3dc9da2005488ee5
 workflow-type: tm+mt
-source-wordcount: '796'
+source-wordcount: '806'
 ht-degree: 0%
 
 ---
@@ -43,7 +43,7 @@ ht-degree: 0%
    <td>보관</td> 
    <td><li>이전 프로그램임 <a href="/help/marketo/product-docs/core-marketo-concepts/miscellaneous/understanding-folders.md#archive-a-folder" target="_blank">보관됨</a>?</li>
 <li>귀사는 오래된 프로그램을 얼마나 자주 검토하고 아카이빙합니까?</li>
-<p>팁: 매년 리뷰를 수행하는 것이 좋습니다.</td>
+<p><img src="assets/tip-icon.png" alt="팁 아이콘">팁: 매년 리뷰를 수행하는 것이 좋습니다.</td>
   </tr>
   <tr> 
    <td>알림</td> 
@@ -54,7 +54,7 @@ ht-degree: 0%
    <td>스마트 목록 구독 
    <br/>(마케팅 활동/구독 탭)</td> 
    <td><li>진행 중인 작업 <a href="/help/marketo/product-docs/reporting/basic-reporting/report-subscriptions/subscribe-to-a-smart-list.md" target="_blank">스마트 목록 구독</a> 네 생각으로? 그렇다면 그들은 누구에게 갈 것입니까?</li>
-<p>팁: 개인이 아닌 팀 별칭으로 이동하려면 스마트 목록 구독을 설정하는 것이 좋습니다. 개인들이 사무실을 비울 경우를 대비한 것입니다.</td>
+<p><img src="assets/tip-icon.png" alt="팁 아이콘">팁: 개인이 아닌 팀 별칭으로 이동하려면 스마트 목록 구독을 설정하는 것이 좋습니다. 개인들이 사무실을 비울 경우를 대비한 것입니다.</td>
   </tr>
  </tbody> 
 </table>
@@ -96,7 +96,7 @@ ht-degree: 0%
    <td>로컬 Forms</td> 
    <td><li>몇 개의 프로그램이 로컬에 있습니까 <a href="/help/marketo/product-docs/demand-generation/forms/creating-a-form/create-a-form.md" target="_blank">양식</a>? 이러한 양식들은 글로벌 양식으로 바뀌어야 하는가?</li>
 <li>마케팅 및 영업 팀에 적합한 데이터를 캡처하고 있습니까?</li>
-<p>팁: 로컬 양식 수를 제한하여 데이터 개인 정보 보호 및 옵트인/옵트아웃 정책을 쉽게 업데이트하고 변경 사항에 맞출 수 있습니다. 양식을 만들 때 어떤 질문을 해야 합니까? 수집된 정보가 변경되지 않고 고급 양식 기능이 이동하지 않으면 로컬 양식 대신 글로벌 양식을 고려하십시오.</td>
+<p><img src="assets/tip-icon.png" alt="팁 아이콘">팁: 로컬 양식 수를 제한하여 데이터 개인 정보 보호 및 옵트인/옵트아웃 정책을 쉽게 업데이트하고 변경 사항에 맞출 수 있습니다. 양식을 만들 때 어떤 질문을 해야 합니까? 수집된 정보가 변경되지 않고 고급 양식 기능이 이동하지 않으면 로컬 양식 대신 글로벌 양식을 고려하십시오.</td>
   </tr>
   <tr> 
    <td>글로벌 Forms</td> 
@@ -127,7 +127,7 @@ ht-degree: 0%
   <tr> 
    <td>개인 소스</td> 
    <td><li>개인 소스 필드에 값을 할당하는 중앙 집중식 프로그램이 있습니까?</li>
-<p>참고: Marketo Engage은 운영 프로그램과 관계없이 소스 필드에서 데이터를 자동으로 수집합니다.</td>
+<p><img src="assets/note-icon.png" alt="메모 아이콘"> 참고: Marketo Engage은 운영 프로그램과 관계없이 소스 필드에서 데이터를 자동으로 수집합니다.</td>
   </tr>
   <tr> 
    <td>데이터 표준화</td> 
@@ -141,7 +141,7 @@ ht-degree: 0%
    <td>개인 정보 및 규정 준수</td> 
    <td><li>데이터 개인정보 보호 및 스팸 법률을 준수하는지 확인하는 프로그램이 있습니까? 
    <br/>     고려 <a href="https://business.adobe.com/resources/ebooks/the-gdpr-and-the-marketer.html" target="_blank">GDPR</a>, CASL, CAN-SPAM, CCPA 등</li>
-<p>팁: 이러한 문제에 대해서는 항상 법무팀에 문의하십시오. 변경하기 전에 규정 준수를 유지하기 위한 이전 이니셔티브에 대해 팀에 문의하십시오.</td>
+<p><img src="assets/tip-icon.png" alt="팁 아이콘">팁: 이러한 문제에 대해서는 항상 법무팀에 문의하십시오. 변경하기 전에 규정 준수를 유지하기 위한 이전 이니셔티브에 대해 팀에 문의하십시오.</td>
   </tr>
   <tr> 
    <td>라이프사이클</td> 

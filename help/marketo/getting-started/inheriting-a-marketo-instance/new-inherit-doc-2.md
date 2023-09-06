@@ -3,9 +3,9 @@ description: 문서 2 상속 - Marketo 문서 - 제품 설명서
 title: 문서 2 상속
 hide: true
 hidefromtoc: true
-source-git-commit: f41cb94d96d475e7ea063fb6fbbab3b2363f6346
+source-git-commit: 77314760bfd188725440311f3dc9da2005488ee5
 workflow-type: tm+mt
-source-wordcount: '366'
+source-wordcount: '368'
 ht-degree: 1%
 
 ---
@@ -75,7 +75,7 @@ ht-degree: 1%
    <td><li>몇 개 <a href="/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/understanding-smart-lists.md" target="_blank">스마트 목록</a> 있습니까? 이 인스턴스에서는 어떻게 사용됩니까?</li>
 <li>목록은 일관된 폴더 구조로 구성되어 있습니까? 
 <br/>     고아 목록이 있는 경우 에셋을 쉽게 찾을 수 있도록 트리 구성을 고려하십시오.</li>
-<p>팁: <a href="/help/marketo/product-docs/core-marketo-concepts/miscellaneous/understanding-folders.md#archive-a-folder" target="_blank">보관 중</a> 더 이상 필요하지 않은 스마트 목록은 조직 및 성능에 도움이 됩니다.</td>
+<p><img src="assets/tip-icon.png" alt="팁 아이콘">팁: <a href="/help/marketo/product-docs/core-marketo-concepts/miscellaneous/understanding-folders.md#archive-a-folder" target="_blank">보관 중</a> 더 이상 필요하지 않은 스마트 목록은 조직 및 성능에 도움이 됩니다.</td>
   </tr>
  </tbody> 
 </table>

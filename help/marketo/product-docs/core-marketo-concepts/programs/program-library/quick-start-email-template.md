@@ -4,9 +4,9 @@ title: 빠른 시작 이메일 템플릿
 hide: true
 hidefromtoc: true
 feature: Programs
-source-git-commit: 9c9046d6ac889bef4ec8ab7add82fda8e72d73b4
+source-git-commit: 77314760bfd188725440311f3dc9da2005488ee5
 workflow-type: tm+mt
-source-wordcount: '577'
+source-wordcount: '569'
 ht-degree: 0%
 
 ---
@@ -37,7 +37,7 @@ Marketo Engage 이메일 편집기에는 이메일 레이아웃을 변경하고 
    * 모듈의 아래쪽 패딩
    * 모듈의 배경색
    * 로고 정렬
-* PICC
+* ![](assets/quick-start-email-template-1.png)
 
 ### 이미지 모듈 {#image-module}
 
@@ -46,7 +46,7 @@ Marketo Engage 이메일 편집기에는 이메일 레이아웃을 변경하고 
    * 모듈의 위쪽 패딩
    * 모듈의 아래쪽 패딩
    * 모듈의 배경색
-* PICC
+* ![](assets/quick-start-email-template-2.png)
 
 ### 제목 모듈 {#headline-module}
 
@@ -58,7 +58,7 @@ Marketo Engage 이메일 편집기에는 이메일 레이아웃을 변경하고 
    * 헤드라인의 글꼴 크기(리치 텍스트 편집기에서도 편집할 수 있음)
    * 헤드라인의 글꼴 색상(리치 텍스트 편집기에서도 편집할 수 있음)
    * 헤드라인 텍스트 정렬(리치 텍스트 편집기에서도 편집할 수 있음)
-* PICC
+* ![](assets/quick-start-email-template-3.png)
 
 ### 서브헤드라인 모듈 {#subheadline-module}
 
@@ -70,7 +70,7 @@ Marketo Engage 이메일 편집기에는 이메일 레이아웃을 변경하고 
    * 하위 헤드라인의 글꼴 크기(리치 텍스트 편집기에서도 편집할 수 있음)
    * 하위 헤드라인의 글꼴 색상(리치 텍스트 편집기에서도 편집할 수 있음)
    * 하위 헤드라인 텍스트 정렬(리치 텍스트 편집기에서도 편집할 수 있음)
-* PICC
+* ![](assets/quick-start-email-template-4.png)
 
 ### 자유 텍스트 모듈 {#free-text-module}
 
@@ -82,7 +82,7 @@ Marketo Engage 이메일 편집기에는 이메일 레이아웃을 변경하고 
    * 텍스트의 글꼴 크기(리치 텍스트 편집기에서도 편집할 수 있음)
    * 텍스트의 글꼴 색상(리치 텍스트 편집기에서도 편집할 수 있음)
    * 텍스트 정렬(리치 텍스트 편집기에서도 편집할 수 있음)
-* PICC
+* ![](assets/quick-start-email-template-5.png)
 
 ### CTA 모듈 {#cta-module}
 
@@ -97,7 +97,7 @@ Marketo Engage 이메일 편집기에는 이메일 레이아웃을 변경하고 
    * CTA URL
    * CTA 텍스트
    * CTA 정렬
-* PICC
+* ![](assets/quick-start-email-template-6.png)
 
 ### 분할자 모듈 {#divider-module}
 
@@ -108,7 +108,7 @@ Marketo Engage 이메일 편집기에는 이메일 레이아웃을 변경하고 
    * 구분선 색상
    * 구분선 높이(픽셀 단위)
    * 구분선 너비(%)
-* PICC
+* ![](assets/quick-start-email-template-7.png)
 
 ### 바닥글 모듈 {#footer-module}
 
@@ -120,4 +120,4 @@ Marketo Engage 이메일 편집기에는 이메일 레이아웃을 변경하고 
    * 모듈의 배경색
    * 텍스트 색상
    * 컨텐츠 정렬
-* PICC
+* ![](assets/quick-start-email-template-8.png)

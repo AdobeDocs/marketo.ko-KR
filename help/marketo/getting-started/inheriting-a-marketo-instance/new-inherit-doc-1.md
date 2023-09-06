@@ -3,9 +3,9 @@ description: 문서 1 상속 - Marketo 문서 - 제품 설명서
 title: 문서 1 상속
 hide: true
 hidefromtoc: true
-source-git-commit: 088f51a5aa6be65f5f2e4f8ae5df946f6bdf2866
+source-git-commit: 77314760bfd188725440311f3dc9da2005488ee5
 workflow-type: tm+mt
-source-wordcount: '1433'
+source-wordcount: '1437'
 ht-degree: 1%
 
 ---
@@ -39,7 +39,7 @@ ht-degree: 1%
 <li>Marketo Engage/관리자/사용자 및 역할에서 'Marketo Engage 제품 관리자' 역할이 부여되었습니까?</li> 
 <li>Adobe Admin Console에서 모든 적절한 사용자의 제품 프로필에 Marketo Engage을 할당했습니까?
 <br/>     그렇지 않은 경우 Marketo Engage/관리자/사용자 및 역할에서 역할을 할당하기 전에 먼저 Adobe IMS 제품 프로필에 Marketo Engage을 할당해야 합니다.</li>
-<p><img src="assets/note-icon-25.png" alt="메모 아이콘">참고: 구독이 75명 이상의 사용자를 포함하고 있고 Adobe IMS로 방금 마이그레이션된 경우 배치 내에서 마이그레이션하고 Adobe 식별을 그룹 또는 한꺼번에 관리할 사용자를 선택할 수 있습니다. 다음에 대한 기대 사항에 대해 자세히 알아보기 <a href="/help/marketo/product-docs/administration/marketo-with-adobe-identity/understanding-marketo-subscription-and-user-migration-to-the-adobe-admin-console.md#prepare-users-for-migration-day" target="_blank">Adobe IMS 마이그레이션일</a>.</td>
+<p><img src="assets/note-icon.png" alt="메모 아이콘"> 참고: 구독이 75명 이상의 사용자를 포함하고 있고 Adobe IMS로 방금 마이그레이션된 경우 배치 내에서 마이그레이션하고 Adobe 식별을 그룹 또는 한꺼번에 관리할 사용자를 선택할 수 있습니다. 다음에 대한 기대 사항에 대해 자세히 알아보기 <a href="/help/marketo/product-docs/administration/marketo-with-adobe-identity/understanding-marketo-subscription-and-user-migration-to-the-adobe-admin-console.md#prepare-users-for-migration-day" target="_blank">Adobe IMS 마이그레이션일</a>.</td>
   </tr>
   <tr> 
    <td>사용자 관리 API</td> 
@@ -159,7 +159,7 @@ ht-degree: 1%
   <tr> 
    <td>커뮤니케이션 제한</td> 
    <td><li>거기 있습니까 <a href="/help/marketo/product-docs/administration/email-setup/enable-communication-limits.md" target="_blank">커뮤니케이션 제한</a> 제자리에? 귀사의 비즈니스에 통신 제한이 필요할 수 있는 정책이 있습니까?</li>
-<p>참고: 와(과) 함께 커뮤니케이션을 1일당 1회, 7일당 3회로 제한하는 것이 좋습니다. <b>비</b>-<a href="/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/make-an-email-operational.md" target="_blank">작동-</a> 이메일이 차단되었습니다.</td>
+<p><img src="assets/note-icon.png" alt="메모 아이콘"> 참고: 와(과) 함께 커뮤니케이션을 1일당 1회, 7일당 3회로 제한하는 것이 좋습니다. <b>비</b>-<a href="/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/make-an-email-operational.md" target="_blank">작동-</a> 이메일이 차단되었습니다.</td>
   </tr>
  </tbody> 
 </table>
@@ -242,7 +242,7 @@ ht-degree: 1%
    <td><li>어떤 CRM과 동기화하시겠습니까? Salesforce? MS Dynamics? 베바?</li>
 <li>을(를) 사용하고 있습니까? <a href="https://nation.marketo.com/t5/product-blogs/instructions-for-creating-a-custom-sync-rule/ba-p/242758" target="_blank">사용자 지정 동기화</a>?</li>
 <li>[Salesforce만 해당] 인스턴스에 사용자 지정 동기화 필터가 구현되었습니까? 
-<p>참고: Marketo 지원 센터에 문의하여 사용자 지정 동기화 필터를 식별하거나 사용자 지정 동기화 규칙을 구현하도록 요청하십시오.</li></td>
+<p><img src="assets/note-icon.png" alt="메모 아이콘"> 참고: Marketo 지원 센터에 문의하여 사용자 지정 동기화 필터를 식별하거나 사용자 지정 동기화 규칙을 구현하도록 요청하십시오.</li></td>
   </tr>
   <tr> 
    <td>랜딩 페이지</td> 
@@ -261,7 +261,7 @@ ht-degree: 1%
    <td><li>본인 <a href="/help/marketo/product-docs/administration/additional-integrations/add-munchkin-tracking-code-to-your-website.md" target="_blank">Munchkin 추적 코드</a> 웹 사이트에서(Marketo에서는 아님)?</li>
 <li>다음 값: <a href="/help/marketo/product-docs/administration/settings/edit-do-not-track-browser-support-settings.md" target="_blank">추적 안 함</a> 브라우저 요청이 활성화되었습니까?</li>
 <li>본인 <a href="https://developers.marketo.com/javascript-api/lead-tracking/" target="_blank">Munchkin API</a> 구성됨? 
-<p><img src="assets/tip-icon-25.png" alt="메모 아이콘">팁: 웹 사이트에서 munchkin 코드가 있는 위치에 대한 설명서가 없는 경우 <a href="/help/marketo/product-docs/reporting/basic-reporting/report-types/web-page-activity-report.md" target="_blank">웹 페이지 활동 보고서</a>.</li></td>
+<p><img src="assets/tip-icon.png" alt="팁 아이콘">팁: 웹 사이트에서 munchkin 코드가 있는 위치에 대한 설명서가 없는 경우 <a href="/help/marketo/product-docs/reporting/basic-reporting/report-types/web-page-activity-report.md" target="_blank">웹 페이지 활동 보고서</a>.</li></td>
   </tr>
   <tr> 
    <td>웹 서비스</td> 

@@ -3,9 +3,9 @@ description: 문서 4 상속 - Marketo 문서 - 제품 설명서
 title: 문서 4 상속
 hide: true
 hidefromtoc: true
-source-git-commit: fa36cb5e56236670c82d0471b599c2d3599bc174
+source-git-commit: 77314760bfd188725440311f3dc9da2005488ee5
 workflow-type: tm+mt
-source-wordcount: '513'
+source-wordcount: '521'
 ht-degree: 1%
 
 ---
@@ -60,13 +60,13 @@ ht-degree: 1%
   <tr> 
    <td>데이터 표준화</td> 
    <td><li>본인 <a href="/help/marketo/product-docs/demand-generation/forms/form-fields/add-a-fieldset-to-a-form.md" target="_blank">양식 필드</a> 주로 선택 목록 또는 열린 텍스트 필드</li>
-<p>팁: 텍스트 필드가 열려 있는 경우 데이터 지장을 방지하기 위해 선택 목록으로 전환하는 것이 좋습니다.</td>
+<p><img src="assets/tip-icon.png" alt="팁 아이콘">팁: 텍스트 필드가 열려 있는 경우 데이터 지장을 방지하기 위해 선택 목록으로 전환하는 것이 좋습니다.</td>
   </tr>
   <tr> 
    <td>개인 정보 및 규정 준수</td> 
    <td><li>양식 전략이 회사 데이터 개인 정보 보호 및 옵트인 요구 사항과 일치합니까? 
    <br/>     고려 <a href="https://business.adobe.com/resources/ebooks/the-gdpr-and-the-marketer.html" target="_blank">GDPR(일반 데이터 보호 규정)</a>, 규제 준수를 위한 캐나다의 CASL(Anti-Spam Law), 2003년 CAN-SPAM(Controlling The Assault Of Non-Solicited Pornography and Marketing Act), CCPA(California Consumer Privacy Act) 등.</li>
-<p>팁: 이러한 문제에 대해서는 항상 법무팀에 문의하십시오. 변경하기 전에 규정 준수를 유지하기 위한 이전 이니셔티브에 대해 팀에 문의하십시오.</td>
+<p><img src="assets/tip-icon.png" alt="팁 아이콘">팁: 이러한 문제에 대해서는 항상 법무팀에 문의하십시오. 변경하기 전에 규정 준수를 유지하기 위한 이전 이니셔티브에 대해 팀에 문의하십시오.</td>
   </tr>
  </tbody> 
 </table>
@@ -94,7 +94,7 @@ ht-degree: 1%
   <tr> 
    <td>개인 정보 및 규정 준수</td> 
    <td><li>모든 이메일에 적합한 바닥글이 있습니까? GDPR, CASL, CAN-SPAM, CCPA 등을 고려합니다. 규정 준수에 관한 내용입니다.</li>
-<p>팁: 이러한 규정 준수 문제는 항상 법률 팀에 문의하십시오. 변경하기 전에 규정 준수를 유지하기 위한 이전 이니셔티브에 대해 팀에 문의하십시오.</td>
+<p><img src="assets/tip-icon.png" alt="팁 아이콘">팁: 이러한 규정 준수 문제는 항상 법률 팀에 문의하십시오. 변경하기 전에 규정 준수를 유지하기 위한 이전 이니셔티브에 대해 팀에 문의하십시오.</td>
   </tr>
  </tbody> 
 </table>
@@ -156,7 +156,7 @@ ht-degree: 1%
   <tr> 
    <td>자산 공유</td> 
    <td><li>에셋은 무엇입니까? <a href="/help/marketo/product-docs/administration/workspaces-and-person-partitions/understanding-workspaces-and-person-partitions.md#sharing-across-workspaces" target="_blank">작업 영역에서 공유됨</a>?</li>
-   <p>참고: 한 작업 영역에서 작업을 수행하면 다른 사용자의 다른 작업 영역에서 액세스할 수 없는 자산이 될 수 있으므로 이 사실을 아는 것이 중요합니다.</td>
+   <p><img src="assets/note-icon.png" alt="메모 아이콘"> 참고: 한 작업 영역에서 작업을 수행하면 다른 사용자의 다른 작업 영역에서 액세스할 수 없는 자산이 될 수 있으므로 이 사실을 아는 것이 중요합니다.</td>
   </tr>
  </tbody> 
 </table>

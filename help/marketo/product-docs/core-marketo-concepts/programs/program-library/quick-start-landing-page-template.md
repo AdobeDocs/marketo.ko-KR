@@ -4,9 +4,9 @@ title: 빠른 시작 랜딩 페이지 템플릿
 hide: true
 hidefromtoc: true
 feature: Programs
-source-git-commit: 9c9046d6ac889bef4ec8ab7add82fda8e72d73b4
+source-git-commit: 77314760bfd188725440311f3dc9da2005488ee5
 workflow-type: tm+mt
-source-wordcount: '470'
+source-wordcount: '465'
 ht-degree: 0%
 
 ---
@@ -33,7 +33,7 @@ Marketo Engage 참조 라이브러리의 일부 시작 프로그램에는 여러
    * 섹션 표시 또는 숨기기
    * 섹션의 위쪽 패딩
    * 섹션의 아래쪽 패딩
-* PICC
+* ![](assets/quick-start-landing-page-template-1.png)
 
 ### 이미지 섹션 {#image-section}
 
@@ -42,7 +42,7 @@ Marketo Engage 참조 라이브러리의 일부 시작 프로그램에는 여러
    * 배너 이미지 링크
    * 배너 너비 - 오른쪽 하단에 있는 스위치 중 하나를 사용하여 이미지를 콘텐츠 컨테이너의 너비 또는 전체 브라우저의 너비로 만들 수 있습니다
    * 섹션 표시 또는 숨기기
-* PICC
+* ![](assets/quick-start-landing-page-template-2.png)
 
 ### 2-왼쪽 텍스트, 오른쪽 섹션 양식 {#two-col-left-form-right}
 
@@ -56,7 +56,7 @@ Marketo Engage 참조 라이브러리의 일부 시작 프로그램에는 여러
    * 전체 섹션 표시 또는 숨기기
    * 양식만 표시하거나 숨깁니다. 양식을 숨기면 왼쪽 열에 있는 텍스트가 페이지 너비를 채웁니다. 양식이 없는 감사 또는 확인 페이지에 사용할 수 있습니다.)
    * 개인정보 처리방침 텍스트 표시 또는 숨기기
-* PICC
+* ![](assets/quick-start-landing-page-template-3.png)
 
 ### 비디오 섹션 {#video-section}
 
@@ -66,7 +66,7 @@ Marketo Engage 참조 라이브러리의 일부 시작 프로그램에는 여러
    * 비디오 포함 코드
    * 비디오 헤드라인 표시/숨기기
    * 비디오 표시/숨기기
-* PICC
+* ![](assets/quick-start-landing-page-template-4.png)
 
 ### 바닥글 섹션 {#footer-section}
 
@@ -76,7 +76,7 @@ Marketo Engage 참조 라이브러리의 일부 시작 프로그램에는 여러
    * 섹션의 배경색
    * 소셜 아이콘 색상
    * 섹션 표시/숨기기
-* PICC
+* ![](assets/quick-start-landing-page-template-5.png)
 
 ### 추가 변수 {#additional-variables}
 
