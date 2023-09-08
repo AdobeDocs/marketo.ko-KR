@@ -4,9 +4,9 @@ title: 스트림 디자이너
 hide: true
 hidefromtoc: true
 feature: Dynamic Chat
-source-git-commit: ea9e02d9ad52991757f137c7c2b549b98f139ba5
+source-git-commit: b4ba55769034e8fb8a7878f52e21bd08e073fa8c
 workflow-type: tm+mt
-source-wordcount: '852'
+source-wordcount: '980'
 ht-degree: 2%
 
 ---
@@ -48,6 +48,16 @@ ht-degree: 2%
  <tr>
   <td><strong>목표</strong></td>
   <td>방문자가 볼 수 없는 유일한 카드입니다. 특정 채팅 내에서 어느 시점에 목표가 달성되었는지 확인하는 것입니다(예: 방문자의 이메일을 수집하는 것이 본인의 목표인 경우 스트림에서 정보 캡처 바로 뒤에 목표 카드를 놓으십시오).</td>
+ </tr>
+ <tr>
+  <td><strong>액션</strong></td>
+  <td>양식의 숨겨진 필드와 마찬가지로 작업 카드를 사용하여 리드 또는 회사 속성을 리드 레코드에 대해 캡처할 암시적 값으로 채울 수 있습니다. 대화의 어느 시점에서든 작업 카드를 추가하고 각 속성을 값 또는 해당 값을 자동으로 채우는 기본 토큰으로 업데이트할 수 있습니다.</td>
+ </tr>
+ <tr>
+  <td><strong>라이브 채팅</strong></td>
+  <td>방문자가 라이브 에이전트와 채팅하도록 하려면 라이브 채팅 카드를 사용하십시오.
+  <li>라이브 채팅 카드가 분기의 마지막 카드여야 합니다.</li>
+  <li>방문자는 스트림의 이 카드에 도달하면 에이전트로 라우팅됩니다. 따라서 방문자에게 라이브 에이전트와 채팅할 것인지 묻는 질문 카드와 함께 이 카드 앞에 서는 것이 좋습니다</li></td>
  </tr>
 </table>
 

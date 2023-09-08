@@ -4,9 +4,9 @@ title: Dynamic Chat 개요
 hide: true
 hidefromtoc: true
 feature: Dynamic Chat
-source-git-commit: ea9e02d9ad52991757f137c7c2b549b98f139ba5
+source-git-commit: b4ba55769034e8fb8a7878f52e21bd08e073fa8c
 workflow-type: tm+mt
-source-wordcount: '857'
+source-wordcount: '876'
 ht-degree: 2%
 
 ---
@@ -52,6 +52,10 @@ Dynamic Chat의 주요 구성 요소는 Marketo 구독과 기본적으로 상호
 ## 라우팅 {#routing}
 
 여기에서 달력에 연결된 모든 에이전트 목록과 웹 사이트 방문자에게 제공될 순서 및 사용자 지정 라우팅 규칙을 만들 수 있습니다. [라우팅에 대해 자세히 알아보기](/help/marketo/product-docs/demand-generation/dynamic-chat/appointment-scheduling/routing.md){target="_blank"}
+
+## 라이브 채팅 {#live-chat}
+
+라이브 채팅을 통해 자격을 갖춘 웹 방문자에게 영업 담당자와 연결할 수 있도록 하십시오. 문서에 연결
 
 ## FAQ {#faq}
 
