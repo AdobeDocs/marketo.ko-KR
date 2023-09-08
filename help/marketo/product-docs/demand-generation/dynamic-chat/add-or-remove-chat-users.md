@@ -3,7 +3,7 @@ description: 채팅 사용자 추가 또는 제거 - Marketo 문서 - 제품 설
 title: 채팅 사용자 추가 또는 제거
 exl-id: b616030c-a9fe-48d7-902c-40621307bfec
 feature: Dynamic Chat
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: ea9e02d9ad52991757f137c7c2b549b98f139ba5
 workflow-type: tm+mt
 source-wordcount: '233'
 ht-degree: 0%
@@ -80,7 +80,7 @@ ht-degree: 0%
 
    >[!NOTE]
    >
-   >Marketo 구독이 두 개 이상 있는 경우 다음 단계 전에 원하는 구독을 선택하십시오).
+   >Marketo 구독이 두 개 이상인 경우 다음 단계 전에 원하는 구독을 선택하십시오.
 
 1. 다음을 클릭합니다. **사용자** 탭.
 
