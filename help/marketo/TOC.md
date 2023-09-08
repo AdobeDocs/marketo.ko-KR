@@ -3,9 +3,9 @@ audience: end-user
 user-guide-title: Marketo 안내서
 user-guide-description: Marketo 제품 설명서
 feature-set: Marketo Engage
-source-git-commit: 69c2dc58f8ca609702f6e39543d8d72cba6b439c
+source-git-commit: 5d2c7f39805473a94f9d67dd829faf37d87631b1
 workflow-type: tm+mt
-source-wordcount: '9073'
+source-wordcount: '9083'
 ht-degree: 0%
 
 ---
@@ -647,7 +647,11 @@ ht-degree: 0%
          + [LaunchPoint Service로 Google 고객 일치 추가](product-docs/demand-generation/ad-network-integrations/add-google-customer-match-as-a-launchpoint-service.md)
          + [linkedIn 일치 대상을 LaunchPoint 서비스로 추가](product-docs/demand-generation/ad-network-integrations/add-linkedin-matched-audiences-as-a-launchpoint-service.md)
          + [광고 네트워크에 목록 보내기](product-docs/demand-generation/ad-network-integrations/send-a-list-to-an-ad-network.md)
+      + DYNAMIC CHAT 2 {#dynamic-chat-two}
+         + 자동화된 채팅 {#automated-chat}
+            + [대화형 흐름 설정](product-docs/demand-generation/dynamic-chat-two/automated-chat/conversational-flow-settings.md)
       + Dynamic Chat {#dynamic-chat}
+         + [삽입 해제](product-docs/demand-generation/dynamic-chat/release-inserts.md)
          + [Dynamic Chat 개요](product-docs/demand-generation/dynamic-chat/dynamic-chat-overview.md)
          + [초기 설정](product-docs/demand-generation/dynamic-chat/initial-setup.md)
          + [채팅 사용자 추가 또는 제거](product-docs/demand-generation/dynamic-chat/add-or-remove-chat-users.md)
