@@ -4,9 +4,9 @@ title: OP-Acquisition-API
 hide: true
 hidefromtoc: true
 feature: Programs
-source-git-commit: 0f71600b18315feb3ef32e95dfb108b09c4cb79f
+source-git-commit: 6b54fe2830200c6673559a257065248390c6d212
 workflow-type: tm+mt
-source-wordcount: '178'
+source-wordcount: '171'
 ht-degree: 1%
 
 ---
@@ -61,7 +61,7 @@ ht-degree: 1%
  </tbody> 
 </table>
 
-프로그램의 스크린샷
+![](assets/op-acquisition-api-1.png)
 
 ## 충돌 규칙 {#conflict-rules}
 
@@ -80,8 +80,6 @@ ht-degree: 1%
 * **이름이 같은 이메일 템플릿**
    * 두 템플릿 모두 유지 - _추천_
    * 기존 템플릿 바꾸기
-
-충돌 규칙 스크린샷
 
 ## 우수 사례 {#best-practices}
 

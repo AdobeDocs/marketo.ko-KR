@@ -4,9 +4,9 @@ title: NUR-YYYY-MM-Advanced Gurture
 hide: true
 hidefromtoc: true
 feature: Programs
-source-git-commit: 9c9046d6ac889bef4ec8ab7add82fda8e72d73b4
+source-git-commit: 6b54fe2830200c6673559a257065248390c6d212
 workflow-type: tm+mt
-source-wordcount: '482'
+source-wordcount: '475'
 ht-degree: 3%
 
 ---
@@ -153,6 +153,8 @@ Marketo Engage 참여 프로그램을 활용하는 고급 Grooth 프로그램의
  </tbody> 
 </table>
 
+![](assets/nur-yyyy-mm-advanced-nurture-1.png)
+
 ## 내 토큰이 포함됨 {#my-tokens-included}
 
 <table style="table-layout:auto"> 
@@ -180,8 +182,6 @@ Marketo Engage 참여 프로그램을 활용하는 고급 Grooth 프로그램의
  </tbody> 
 </table>
 
-프로그램의 스크린샷
-
 ## 충돌 규칙 {#conflict-rules}
 
 * **프로그램 태그**
@@ -199,8 +199,6 @@ Marketo Engage 참여 프로그램을 활용하는 고급 Grooth 프로그램의
 * **이름이 같은 이메일 템플릿**
    * 두 템플릿 모두 유지
    * 기존 템플릿 바꾸기 - _추천_
-
-충돌 규칙 스크린샷
 
 ## 우수 사례 {#best-practices}
 

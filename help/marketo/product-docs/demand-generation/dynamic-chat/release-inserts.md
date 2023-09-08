@@ -4,31 +4,16 @@ title: 초기 설정
 hide: true
 hidefromtoc: true
 feature: Dynamic Chat
-source-git-commit: 62af6c2379746e776b6b76d9f1fbb8ad9bb47305
+source-git-commit: 6b54fe2830200c6673559a257065248390c6d212
 workflow-type: tm+mt
-source-wordcount: '270'
-ht-degree: 1%
+source-wordcount: '301'
+ht-degree: 0%
 
 ---
 
 # 삽입 해제 {#release-inserts}
 
 아래 항목 릴리스...
-
-스티븐
-
-## Marketo Engage 스마트 목록 타깃팅 {#marketo-engage-smart-list-targeting}
-
-마케터는 대화 상자 대상 기준에서 Marketo Engage 스마트 목록 구성원을 타깃팅할 수 있습니다.
-
-## 새 Dynamic Chat 활동 {#new-dynamic-chat-activities}
-
-대화 흐름, 라이브 채팅 및 기타 새로운 기능을 지원하는 새로운 활동.
-
-## 새 활동에 대한 트리거 토큰 {#trigger-tokens-for-new-activities}
-
-Dynamic Chat을 위한 새 활동을 지원하는 데 새 트리거 토큰을 사용할 수 있습니다.
-
 
 JOHN
 
@@ -74,3 +59,122 @@ JOHN
 ## 스트림 디자이너의 작업 카드 {#action-card-in-stream-designer}
 
 마케터는 방문자가 대화 상자를 사용할 때 대화 상자의 작업 카드를 사용하여 숨겨진 값을 Marketo Engage 사용자 레코드에 전달할 수 있습니다.
+
+
+스티븐
+
+## Marketo Engage 스마트 목록 타깃팅 {#marketo-engage-smart-list-targeting}
+
+마케터는 대화 상자 대상 기준에서 Marketo Engage 스마트 목록 구성원을 타깃팅할 수 있습니다.
+
+## 새 Dynamic Chat 활동 {#new-dynamic-chat-activities}
+
+대화 흐름, 라이브 채팅 및 기타 새로운 기능을 지원하는 새로운 활동.
+
+## 새 활동에 대한 트리거 토큰 {#trigger-tokens-for-new-activities}
+
+### Dynamic Chat 트리거 토큰 {#dynamic-chat-trigger-tokens}
+
+<table style="table-layout:auto"> 
+ <colgroup> 
+  <col> 
+  <col> 
+  <col> 
+  <col> 
+  <col> 
+  <col> 
+  <col> 
+  <col> 
+  <col> 
+  <col> 
+  <col>
+  <col>
+  <col>
+  <col> 
+ </colgroup> 
+ <tbody> 
+  <tr> 
+   <th><br></th> 
+   <th><code>{{trigger.Trigger Name}}</code></th> 
+   <th><code>{{trigger.Name}}</code></th> 
+   <th><code>{{trigger.Page URL}}</code></th> 
+   <th><code>{{Trigger.Conversation Transcript}}</code></th> 
+   <th><code>{{trigger.Conversation Status}}</code></th> 
+   <th><code>{{trigger.Agent Name}}</code></th> 
+   <th><code>{{trigger.Agent Email}}</code></th> 
+   <th><code>{{trigger.Scheduled For}}</code></th> 
+   <th><code>{{trigger.Goal name}}</code></th> 
+   <th><code>{{trigger.Document Name}}</code></th> 
+   <th><code>{{trigger.Document URL}}</code></th>
+   <th><code>{{trigger.Document Opened}}</code></th>
+   <th><code>{{trigger.Document Downloaded}}</code></th>
+  </tr> 
+  <tr> 
+   <td>대화 상자 참여</td> 
+   <td><img src="assets/check.png" alt="check"></td> 
+   <td><img src="assets/check.png" alt="check"></td> 
+   <td><img src="assets/check.png" alt="check"></td> 
+   <td><img src="assets/check.png" alt="check"></td> 
+   <td><img src="assets/check.png" alt="check"></td> 
+   <td><br></td> 
+   <td></td> 
+   <td><img src="assets/check.png" alt="check"></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td>
+  </tr> 
+  <tr> 
+   <td>대화 상자에서 예약된 회의</td> 
+   <td><img src="assets/check.png" alt="check"></td> 
+   <td><img src="assets/check.png" alt="check"></td> 
+   <td><img src="assets/check.png" alt="check"></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><img src="assets/check.png" alt="check"></td> 
+   <td><img src="assets/check.png" alt="check"></td> 
+   <td><img src="assets/check.png" alt="check"></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td>
+  </tr> 
+  <tr> 
+   <td>대화 상자 목표에 도달함</td> 
+   <td><img src="assets/check.png" alt="check"></td> 
+   <td><img src="assets/check.png" alt="check"></td> 
+   <td><img src="assets/check.png" alt="check"></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><img src="assets/check.png" alt="check"></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td>
+  </tr>
+  <tr> 
+   <td>대화 상자에서 문서와 상호 작용함</td> 
+   <td><img src="assets/check.png" alt="check"></td> 
+   <td><img src="assets/check.png" alt="check"></td> 
+   <td><img src="assets/check.png" alt="check"></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><img src="assets/check.png" alt="check"></td> 
+   <td><img src="assets/check.png" alt="check"></td> 
+   <td><img src="assets/check.png" alt="check"></td> 
+   <td><img src="assets/check.png" alt="check"></td> 
+  </tr> 
+ </tbody> 
+</table>

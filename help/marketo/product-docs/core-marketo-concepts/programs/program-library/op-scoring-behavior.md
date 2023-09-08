@@ -4,9 +4,9 @@ title: OP-Scoring-Behavior
 hide: true
 hidefromtoc: true
 feature: Programs
-source-git-commit: 17b86ff816a447315dda5e1cbac67536472e777d
+source-git-commit: 6b54fe2830200c6673559a257065248390c6d212
 workflow-type: tm+mt
-source-wordcount: '357'
+source-wordcount: '350'
 ht-degree: 11%
 
 ---
@@ -155,6 +155,8 @@ ht-degree: 11%
  </tbody> 
 </table>
 
+![](assets/op-scoring-behavior-1.png)
+
 ## 내 토큰이 포함됨 {#my-tokens-included}
 
 <table style="table-layout:auto"> 
@@ -242,8 +244,6 @@ ht-degree: 11%
  </tbody> 
 </table>
 
-프로그램의 스크린샷
-
 ## 충돌 규칙 {#conflict-rules}
 
 * **프로그램 태그**
@@ -261,8 +261,6 @@ ht-degree: 11%
 * **이름이 같은 이메일 템플릿**
    * 두 템플릿 모두 유지 - _추천_
    * 기존 템플릿 바꾸기
-
-충돌 규칙 스크린샷
 
 ## 우수 사례 {#best-practices}
 
