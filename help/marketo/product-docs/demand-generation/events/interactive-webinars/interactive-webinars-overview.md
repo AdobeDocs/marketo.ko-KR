@@ -3,9 +3,9 @@ description: 대화형 웨비나 개요 - Marketo 문서 - 제품 설명서
 title: 대화형 웨비나 개요
 exl-id: c454f0a5-c9c6-48a4-8bbf-e1b10dc00eec
 feature: Interactive Webinars
-source-git-commit: 7e1f289cb074e016308b75b913a3faeafe149404
+source-git-commit: 4eb28480b3863650a128a56393a8ef375f268982
 workflow-type: tm+mt
-source-wordcount: '354'
+source-wordcount: '394'
 ht-degree: 0%
 
 ---
@@ -31,6 +31,10 @@ ht-degree: 0%
 **대화형 웨비나를 사용하려면 별도의 구독이 필요합니까?**
 
 아니요. 대화형 웨비나를 사용하려면 활성 Marketo Engage 구독만 필요합니다.
+
+**대화형 웨비나에 사용할 수 있는 언어는 무엇입니까?**
+
+대화형 웨비나는 영어, 프랑스어, 독일어, 일본어, 포르투갈어 및 스페인어의 Marketo 지원 6개 언어로 제공됩니다. Adobe Connect은 대화형 웨비나를 통해 웨비나를 전달하는 동안에도 동일한 언어를 지원합니다.
 
 **포함된 대화형 웨비나 수를 모두 사용했습니다. 세션 수를 늘리거나 용량을 늘리려면 어떻게 해야 합니까?**
 

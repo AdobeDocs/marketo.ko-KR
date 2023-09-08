@@ -3,9 +3,9 @@ description: 대화형 웨비나 디자인 - Marketo 문서 - 제품 설명서
 title: 대화형 웨비나 디자인
 exl-id: e340910a-ddcb-46e8-82a9-faedf0ab2d74
 feature: Interactive Webinars
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 4eb28480b3863650a128a56393a8ef375f268982
 workflow-type: tm+mt
-source-wordcount: '381'
+source-wordcount: '414'
 ht-degree: 0%
 
 ---
@@ -33,6 +33,10 @@ ht-degree: 0%
 1. 웨비나 미리 보기가 표시됩니다.
 
    ![](assets/designing-interactive-webinars-4.png)
+
+   >[!TIP]
+   >
+   >웨비나는 Marketo Engage 인스턴스의 기본 언어로 설정되지만 미리 보기 위의 드롭다운을 사용하여 웨비나별로 언어를 변경할 수 있는 옵션이 있습니다.
 
 1. 다른 레이아웃을 선택하여 미리 볼 수 있습니다. 계속하려면 **템플릿 사용**.
 
