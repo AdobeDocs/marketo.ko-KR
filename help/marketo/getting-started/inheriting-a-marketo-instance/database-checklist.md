@@ -3,7 +3,7 @@ description: 상속된 인스턴스 데이터베이스 검사 목록 - Marketo �
 title: 상속된 인스턴스 데이터베이스 검사 목록
 hide: true
 hidefromtoc: true
-source-git-commit: 8660e8a7afa239c51cfed9e6e90e35aeedf6884f
+source-git-commit: 74afe85b5d7b78cc4bce3e2ec89cb5c1a56d2f59
 workflow-type: tm+mt
 source-wordcount: '386'
 ht-degree: 1%
@@ -116,6 +116,6 @@ ht-degree: 1%
 
 <br> 
 
-[◄ 인스턴스 감사: 관리자](/help/marketo/getting-started/inheriting-a-marketo-instance/new-inherit-doc-1.md)
+[◄ 인스턴스 감사: 관리자](/help/marketo/getting-started/inheriting-a-marketo-instance/admin-section-checklist.md)
 
-[상속된 인스턴스 감사: 마케팅 활동 ►](/help/marketo/getting-started/inheriting-a-marketo-instance/new-inherit-doc-3.md)
+[상속된 인스턴스 감사: 마케팅 활동 ►](/help/marketo/getting-started/inheriting-a-marketo-instance/marketing-activities-checklist.md)

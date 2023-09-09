@@ -3,10 +3,10 @@ description: 상속된 인스턴스 문서 설정 - Marketo 문서 - 제품 설�
 title: 상속된 인스턴스 문서 내 설정
 hide: true
 hidefromtoc: true
-source-git-commit: 8660e8a7afa239c51cfed9e6e90e35aeedf6884f
+source-git-commit: 74afe85b5d7b78cc4bce3e2ec89cb5c1a56d2f59
 workflow-type: tm+mt
-source-wordcount: '246'
-ht-degree: 2%
+source-wordcount: '252'
+ht-degree: 1%
 
 ---
 
@@ -26,7 +26,7 @@ ht-degree: 2%
    <td>입력</td> 
    <td><li>어떤 시스템이 데이터를 Marketo Engage에 전송합니까?</li>
    <li>데이터를 프로그램으로 로드합니까, 아니면 데이터베이스로 로드합니까? 프로그램이라면 어떤 것인가요?</li>
-   <p>작업 항목: 시스템 간에 데이터 사전/필드 매핑 테이블을 생성합니다.</td>
+   <p><img src="assets/action-item-icon.png" alt="작업 항목 아이콘">작업 항목: 시스템 간에 데이터 사전/필드 매핑 테이블을 생성합니다.</td>
   </tr>
   <tr> 
    <td>출력</td> 
@@ -51,7 +51,7 @@ ht-degree: 2%
   <tr> 
    <td>조직</td> 
     <td><li>Marketo Engage 인스턴스가 구성되는 방식과 그 이유에 대한 강력한 설명서가 있습니까?</li>
-   <p>작업 항목: 폴더 구조, 명명 규칙 및 인스턴스에 사용되는 채널이 포함된 설명서를 만듭니다.</td>
+   <p><p><img src="assets/action-item-icon.png" alt="작업 항목 아이콘">작업 항목: 폴더 구조, 명명 규칙 및 인스턴스에 사용되는 채널이 포함된 설명서를 만듭니다.</td>
   </tr>
   <tr> 
    <td>변경 로그</td> 
@@ -70,4 +70,4 @@ ht-degree: 2%
  </tbody> 
 </table>
 
-[◄ 인스턴스 감사: Design Studio](/help/marketo/getting-started/inheriting-a-marketo-instance/new-inherit-doc-4.md)
+[◄ 인스턴스 감사: Design Studio](/help/marketo/getting-started/inheriting-a-marketo-instance/design-studio-checklist.md)

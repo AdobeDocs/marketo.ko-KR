@@ -3,7 +3,7 @@ description: 상속한 기존 Marketo Engage 인스턴스를 최적화하고 확
 title: 상속된 Marketo Engage 인스턴스 Jumpstart
 hide: true
 hidefromtoc: true
-source-git-commit: f143c4e2dae309767c828282f718ad8d72733f81
+source-git-commit: 74afe85b5d7b78cc4bce3e2ec89cb5c1a56d2f59
 workflow-type: tm+mt
 source-wordcount: '335'
 ht-degree: 0%
@@ -36,15 +36,15 @@ ht-degree: 0%
 
 스프레드시트 양식에서 체크리스트를 다운로드할 수도 있습니다.
 
-* [관리 섹션](/help/marketo/getting-started/inheriting-a-marketo-instance/new-inherit-doc-1.md)
+* [관리 섹션](/help/marketo/getting-started/inheriting-a-marketo-instance/admin-section-checklist.md)
 
-* [데이터베이스](/help/marketo/getting-started/inheriting-a-marketo-instance/new-inherit-doc-2.md)
+* [데이터베이스](/help/marketo/getting-started/inheriting-a-marketo-instance/database-checklist.md)
 
-* [마케팅 활동](/help/marketo/getting-started/inheriting-a-marketo-instance/new-inherit-doc-3.md)
+* [마케팅 활동](/help/marketo/getting-started/inheriting-a-marketo-instance/marketing-activities-checklist.md)
 
-* [Design Studio](/help/marketo/getting-started/inheriting-a-marketo-instance/new-inherit-doc-4.md)
+* [Design Studio](/help/marketo/getting-started/inheriting-a-marketo-instance/design-studio-checklist.md)
 
-* [상속된 인스턴스 설정을 문서화합니다.](/help/marketo/getting-started/inheriting-a-marketo-instance/new-inherit-doc-5.md)
+* [상속된 인스턴스 설정을 문서화합니다.](/help/marketo/getting-started/inheriting-a-marketo-instance/document-your-setup.md)
 
 ## 도움말 받는 방법 {#ways-to-get-help}
 
