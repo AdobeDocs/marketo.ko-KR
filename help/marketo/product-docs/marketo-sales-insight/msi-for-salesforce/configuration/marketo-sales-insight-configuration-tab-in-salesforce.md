@@ -4,9 +4,9 @@ description: Salesforce - Marketo 문서 - 제품 설명서의 Marketo Sales Ins
 title: Salesforce의 Marketo Sales Insight 구성 탭
 exl-id: 4e2abd48-b0a5-4b71-939b-e66c7e39bb6c
 feature: Marketo Sales Insights
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 4848676d423ff96c2e880819bc760b2f8dbbd094
 workflow-type: tm+mt
-source-wordcount: '599'
+source-wordcount: '618'
 ht-degree: 0%
 
 ---
@@ -42,9 +42,9 @@ SFDC에서 Sales Insight를 사용하려면 이를 설정해야 합니다.
 
 **Marketo 전역 탭**
 
-* RSS 피드 활성화됨: 활성화되면 MSI 사용자는 RSS 피드에서 RSS 피드를 볼 수 있습니다(Salesforce의 리드 피드 포함). &quot;토큰 만료&quot; 기능이 비활성화된 경우에만 RSS 피드가 작동할 수 있습니다. 이 설정은 Marketo Sales Insight Admin 페이지에서 제어합니다.
+* RSS 피드 활성화됨: 활성화되면 MSI 사용자는 RSS 피드에서 RSS 피드를 볼 수 있습니다(Salesforce의 리드 피드 포함). RSS 피드는 &quot;토큰 만료&quot; 기능이 비활성화된 경우에만 작동할 수 있습니다. 이 설정은 Marketo Sales Insight Admin 페이지에서 제어합니다.
 * 최상의 디버그 모드
-* 기본 숨기기: 여기에서 선택하는 옵션은 &quot;숨기기&quot; 아이콘을 클릭할 때 Marketo의 최상의 선택 탭에서 최상의 선택을 숨길 일 수가 됩니다
+* 기본 숨기기: 여기에서 선택하는 옵션은 &quot;숨기기&quot; 아이콘을 클릭할 때 Marketo의 최고 베트 탭에서 최고 베트가 숨겨지는 일 수입니다
 * 연락처 상태 필드: 여기에서 선택하는 옵션은 Marketo의 최상의 선택 탭에 있는 상태 헤더 열에 채워지는 값이 됩니다
 * 라이브 피드 설정: 라이브 피드(리드, 연락처, 계정 및 영업 기회 패널, 글로벌 Marketo 페이지)만, 리드 피드(Marketo 글로벌 페이지)만 또는 라이브 피드와 리드 피드를 모두 표시하도록 선택하는 옵션입니다
 * 탭 설정: 기본적으로 5개의 탭을 모두 사용할 수 있습니다. Marketo 글로벌 페이지에서 탭 순서를 선택할 수 있습니다
@@ -63,15 +63,21 @@ SFDC에서 Sales Insight를 사용하려면 이를 설정해야 합니다.
 
 ![](assets/marketo-sales-insight-configuration-tab-in-salesforce-4.png)
 
+## 지원 설정 {#support-settings}
+
+이 확인란을 선택하면 Salesforce 인스턴스에서 디버그 로깅이 활성화됩니다. 문제를 해결하는 데 도움이 될 수 있습니다.
+
+![](assets/marketo-sales-insight-configuration-tab-in-salesforce-5.png)
+
 ## Marketo Sales Insight 재설정 {#reset-marketo-sales-insight}
 
 이를 선택하면 SFDC의 모든 구성이 지워지므로 복원할 수 없습니다. 모든 항목을 다시 구성해야 합니다.
 
-![](assets/marketo-sales-insight-configuration-tab-in-salesforce-5.png)
+![](assets/marketo-sales-insight-configuration-tab-in-salesforce-6.png)
 
 >[!IMPORTANT]
 >
->Sales Insights 작업 기능을 사용하고 있지 않은 경우 &quot;MSI 작업 활성화&quot; 확인란을 선택하지 마십시오.
+>Sales Insights 작업 기능을 사용하지 않는 한 &quot;MSI 작업 사용&quot; 확인란을 선택하지 마십시오.
 
 >[!MORELIKETHIS]
 >

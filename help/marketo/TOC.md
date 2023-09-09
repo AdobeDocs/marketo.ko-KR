@@ -3,9 +3,9 @@ audience: end-user
 user-guide-title: Marketo 안내서
 user-guide-description: Marketo 제품 설명서
 feature-set: Marketo Engage
-source-git-commit: 5084013638c4131ebf4c5812e3e4d485ca94419c
+source-git-commit: 4848676d423ff96c2e880819bc760b2f8dbbd094
 workflow-type: tm+mt
-source-wordcount: '9086'
+source-wordcount: '9095'
 ht-degree: 0%
 
 ---
@@ -43,11 +43,11 @@ ht-degree: 0%
       + [체크오프할 항목](getting-started/inheriting-a-marketo-instance/items-to-check-off.md)
       + [검토해야 할 사항: 핵심 기술](getting-started/inheriting-a-marketo-instance/things-to-review-core-skills.md)
       + [도움말 받는 방법](getting-started/inheriting-a-marketo-instance/ways-to-get-help.md)
-      + [새 문서 상속 1](getting-started/inheriting-a-marketo-instance/new-inherit-doc-1.md)
-      + [새 문서 상속 2](getting-started/inheriting-a-marketo-instance/new-inherit-doc-2.md)
-      + [새 문서 상속 3](getting-started/inheriting-a-marketo-instance/new-inherit-doc-3.md)
-      + [새 문서 상속 4](getting-started/inheriting-a-marketo-instance/new-inherit-doc-4.md)
-      + [새 문서 상속 5](getting-started/inheriting-a-marketo-instance/new-inherit-doc-5.md)
+      + [상속된 인스턴스: 관리 섹션 확인 목록](getting-started/inheriting-a-marketo-instance/admin-section-checklist.md)
+      + [상속된 인스턴스: 데이터베이스 검사 목록](getting-started/inheriting-a-marketo-instance/database-checklist.md)
+      + [상속된 인스턴스: 마케팅 활동 검사 목록](getting-started/inheriting-a-marketo-instance/marketing-activities-checklist.md)
+      + [상속된 인스턴스: Design Studio 검사 목록](getting-started/inheriting-a-marketo-instance/design-studio-checklist.md)
+      + [상속된 인스턴스: 설정 문서화](getting-started/inheriting-a-marketo-instance/document-your-setup.md)
 + 제품 문서 {#product-docs}
    + 추가 앱 {#additional-apps}
       + SEO {#seo}
