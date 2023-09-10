@@ -3,7 +3,7 @@ audience: end-user
 user-guide-title: Marketo 안내서
 user-guide-description: Marketo 제품 설명서
 feature-set: Marketo Engage
-source-git-commit: 3fc84a0e679b0b27aaf4ee251668a3ba0a62f9ef
+source-git-commit: a2830942e6e51e754d313bd79a00f87713c2db8c
 workflow-type: tm+mt
 source-wordcount: '9153'
 ht-degree: 1%
@@ -648,11 +648,11 @@ ht-degree: 1%
          + [linkedIn 일치 대상을 LaunchPoint 서비스로 추가](product-docs/demand-generation/ad-network-integrations/add-linkedin-matched-audiences-as-a-launchpoint-service.md)
          + [광고 네트워크에 목록 보내기](product-docs/demand-generation/ad-network-integrations/send-a-list-to-an-ad-network.md)
       + DYNAMIC CHAT 2 {#dynamic-chat-two}
-         + [Dynamic Chat 개요](product-docs/demand-generation/dynamic-chat-two/automated-chat/dynamic-chat-overview.md)
-         + [챗봇 비헤이비어](product-docs/demand-generation/dynamic-chat-two/automated-chat/chatbot-behavior.md)
-         + [모임 목록](product-docs/demand-generation/dynamic-chat-two/automated-chat/meeting-list.md)
-         + [Dynamic Chat 활동](product-docs/demand-generation/dynamic-chat-two/automated-chat/dynamic-chat-activites.md)
-         + [분석](product-docs/demand-generation/dynamic-chat-two/automated-chat/analytics.md)
+         + [Dynamic Chat 개요](product-docs/demand-generation/dynamic-chat-two/dynamic-chat-overview.md)
+         + [챗봇 비헤이비어](product-docs/demand-generation/dynamic-chat-two/chatbot-behavior.md)
+         + [모임 목록](product-docs/demand-generation/dynamic-chat-two/meeting-list.md)
+         + [Dynamic Chat 활동](product-docs/demand-generation/dynamic-chat-two/dynamic-chat-activites.md)
+         + [분석](product-docs/demand-generation/dynamic-chat-two/analytics.md)
          + 자동화된 채팅 {#automated-chat}
             + [대화 흐름 개요](product-docs/demand-generation/dynamic-chat-two/automated-chat/conversational-flows-overview.md)
             + [대화 흐름 만들기](product-docs/demand-generation/dynamic-chat-two/automated-chat/create-a-conversational-flow.md)
