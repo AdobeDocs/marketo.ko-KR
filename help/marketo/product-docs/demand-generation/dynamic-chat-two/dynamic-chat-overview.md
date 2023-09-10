@@ -4,9 +4,9 @@ title: Dynamic Chat 개요
 hide: true
 hidefromtoc: true
 feature: Dynamic Chat
-source-git-commit: b4ba55769034e8fb8a7878f52e21bd08e073fa8c
+source-git-commit: 3fc84a0e679b0b27aaf4ee251668a3ba0a62f9ef
 workflow-type: tm+mt
-source-wordcount: '876'
+source-wordcount: '873'
 ht-degree: 2%
 
 ---
@@ -55,7 +55,7 @@ Dynamic Chat의 주요 구성 요소는 Marketo 구독과 기본적으로 상호
 
 ## 라이브 채팅 {#live-chat}
 
-라이브 채팅을 통해 자격을 갖춘 웹 방문자에게 영업 담당자와 연결할 수 있도록 하십시오. 문서에 연결
+다음을 통해 자격을 갖춘 웹 방문자에게 영업 담당자와 연결할 수 있는 기회를 제공하십시오. [라이브 채팅](/help/marketo/product-docs/demand-generation/dynamic-chat-two/live-chat/agent-inbox.md){target="_blank"}.
 
 ## FAQ {#faq}
 

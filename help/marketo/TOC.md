@@ -3,10 +3,10 @@ audience: end-user
 user-guide-title: Marketo 안내서
 user-guide-description: Marketo 제품 설명서
 feature-set: Marketo Engage
-source-git-commit: 4848676d423ff96c2e880819bc760b2f8dbbd094
+source-git-commit: 3fc84a0e679b0b27aaf4ee251668a3ba0a62f9ef
 workflow-type: tm+mt
-source-wordcount: '9095'
-ht-degree: 0%
+source-wordcount: '9153'
+ht-degree: 1%
 
 ---
 
@@ -648,9 +648,35 @@ ht-degree: 0%
          + [linkedIn 일치 대상을 LaunchPoint 서비스로 추가](product-docs/demand-generation/ad-network-integrations/add-linkedin-matched-audiences-as-a-launchpoint-service.md)
          + [광고 네트워크에 목록 보내기](product-docs/demand-generation/ad-network-integrations/send-a-list-to-an-ad-network.md)
       + DYNAMIC CHAT 2 {#dynamic-chat-two}
+         + [Dynamic Chat 개요](product-docs/demand-generation/dynamic-chat-two/automated-chat/dynamic-chat-overview.md)
+         + [챗봇 비헤이비어](product-docs/demand-generation/dynamic-chat-two/automated-chat/chatbot-behavior.md)
+         + [모임 목록](product-docs/demand-generation/dynamic-chat-two/automated-chat/meeting-list.md)
+         + [Dynamic Chat 활동](product-docs/demand-generation/dynamic-chat-two/automated-chat/dynamic-chat-activites.md)
+         + [분석](product-docs/demand-generation/dynamic-chat-two/automated-chat/analytics.md)
          + 자동화된 채팅 {#automated-chat}
-            + [대화형 흐름 설정](product-docs/demand-generation/dynamic-chat-two/automated-chat/conversational-flow-settings.md)
             + [대화 흐름 개요](product-docs/demand-generation/dynamic-chat-two/automated-chat/conversational-flows-overview.md)
+            + [대화 흐름 만들기](product-docs/demand-generation/dynamic-chat-two/automated-chat/create-a-conversational-flow.md)
+            + [대화형 흐름 설정](product-docs/demand-generation/dynamic-chat-two/automated-chat/conversational-flow-settings.md)
+            + [대화 SDK](product-docs/demand-generation/dynamic-chat-two/automated-chat/conversations-sdk.md)
+            + [대화 상자 개요](product-docs/demand-generation/dynamic-chat-two/automated-chat/doc.md)
+            + [대화 상자 만들기](product-docs/demand-generation/dynamic-chat-two/automated-chat/create-a-dialogue.md)
+            + [대상 기준](product-docs/demand-generation/dynamic-chat-two/automated-chat/audience-criteria.md)
+            + [스트림 디자이너](product-docs/demand-generation/dynamic-chat-two/automated-chat/stream-designer.md)
+            + [보고서](product-docs/demand-generation/dynamic-chat-two/automated-chat/reports.md)
+         + 통합 {#integrations}
+            + [Adobe Marketo Engage](product-docs/demand-generation/dynamic-chat-two/integrations/adobe-marketo-engage.md)
+            + [Adobe PDF 임베드 API](product-docs/demand-generation/dynamic-chat-two/integrations/adobe-pdf-embed-api.md)
+         + 라이브 채팅 {#live-chat}
+            + [에이전트 받은 편지함](product-docs/demand-generation/dynamic-chat-two/live-chat/agent-inbox.md)
+            + [알림](product-docs/demand-generation/dynamic-chat-two/live-chat/notifications.md)
+         + 설정 및 구성 {#setup-and-configuration}
+            + [초기 설정](product-docs/demand-generation/dynamic-chat-two/setup-and-configuration/initial-setup.md)
+            + [채팅 사용자 추가 또는 제거](product-docs/demand-generation/dynamic-chat-two/setup-and-configuration/add-or-remove-chat-users.md)
+            + [구성](product-docs/demand-generation/dynamic-chat-two/setup-and-configuration/configuration.md)
+            + [에이전트 설정](product-docs/demand-generation/dynamic-chat-two/setup-and-configuration/agent-settings.md)
+            + [에이전트 관리](product-docs/demand-generation/dynamic-chat-two/setup-and-configuration/agent-management.md)
+            + [보안 설정](product-docs/demand-generation/dynamic-chat-two/setup-and-configuration/security-settings.md)
+            + [라우팅](product-docs/demand-generation/dynamic-chat-two/setup-and-configuration/routing.md)
       + Dynamic Chat {#dynamic-chat}
          + [삽입 해제](product-docs/demand-generation/dynamic-chat/release-inserts.md)
          + [Dynamic Chat 개요](product-docs/demand-generation/dynamic-chat/dynamic-chat-overview.md)
