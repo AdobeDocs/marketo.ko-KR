@@ -3,7 +3,7 @@ audience: end-user
 user-guide-title: Marketo 안내서
 user-guide-description: Marketo 제품 설명서
 feature-set: Marketo Engage
-source-git-commit: a2830942e6e51e754d313bd79a00f87713c2db8c
+source-git-commit: 801c9935cacf79971ce42a9517647e310a1ed25a
 workflow-type: tm+mt
 source-wordcount: '9153'
 ht-degree: 1%
@@ -651,14 +651,14 @@ ht-degree: 1%
          + [Dynamic Chat 개요](product-docs/demand-generation/dynamic-chat-two/dynamic-chat-overview.md)
          + [챗봇 비헤이비어](product-docs/demand-generation/dynamic-chat-two/chatbot-behavior.md)
          + [모임 목록](product-docs/demand-generation/dynamic-chat-two/meeting-list.md)
-         + [Dynamic Chat 활동](product-docs/demand-generation/dynamic-chat-two/dynamic-chat-activites.md)
+         + [Dynamic Chat 활동](product-docs/demand-generation/dynamic-chat-two/dynamic-chat-activities.md)
          + [분석](product-docs/demand-generation/dynamic-chat-two/analytics.md)
          + 자동화된 채팅 {#automated-chat}
             + [대화 흐름 개요](product-docs/demand-generation/dynamic-chat-two/automated-chat/conversational-flows-overview.md)
             + [대화 흐름 만들기](product-docs/demand-generation/dynamic-chat-two/automated-chat/create-a-conversational-flow.md)
             + [대화형 흐름 설정](product-docs/demand-generation/dynamic-chat-two/automated-chat/conversational-flow-settings.md)
             + [대화 SDK](product-docs/demand-generation/dynamic-chat-two/automated-chat/conversations-sdk.md)
-            + [대화 상자 개요](product-docs/demand-generation/dynamic-chat-two/automated-chat/doc.md)
+            + [대화 상자 개요](product-docs/demand-generation/dynamic-chat-two/automated-chat/dialogue-overview.md)
             + [대화 상자 만들기](product-docs/demand-generation/dynamic-chat-two/automated-chat/create-a-dialogue.md)
             + [대상 기준](product-docs/demand-generation/dynamic-chat-two/automated-chat/audience-criteria.md)
             + [스트림 디자이너](product-docs/demand-generation/dynamic-chat-two/automated-chat/stream-designer.md)

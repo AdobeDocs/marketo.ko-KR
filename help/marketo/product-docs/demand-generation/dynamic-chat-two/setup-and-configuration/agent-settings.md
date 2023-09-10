@@ -4,16 +4,18 @@ title: 에이전트 설정
 hide: true
 hidefromtoc: true
 feature: Dynamic Chat
-source-git-commit: ea9e02d9ad52991757f137c7c2b549b98f139ba5
+source-git-commit: 801c9935cacf79971ce42a9517647e310a1ed25a
 workflow-type: tm+mt
-source-wordcount: '231'
-ht-degree: 2%
+source-wordcount: '249'
+ht-degree: 3%
 
 ---
 
 # 에이전트 설정 {#agent-settings}
 
 일정 탭에서 챗봇의 약속 예약에 사용할 Outlook 또는 Gmail 일정을 연결합니다.
+
+## 캘린더 연결 {#connect-calendar}
 
 ![](assets/agent-settings-1.png)
 
@@ -31,7 +33,7 @@ ht-degree: 2%
 >
 >토큰 아이콘(중괄호)을 사용하여 개인 또는 회사 특성을 사용하여 모임 예약 확인 이메일을 개인화할 수 있습니다.
 
-## 권한 {#permissions}
+### 권한 {#permissions}
 
 Outlook으로 구성하면 Dynamic Chat에 다음 권한이 부여됩니다.
 
@@ -47,3 +49,15 @@ Google으로 구성하면 Dynamic Chat에 대한 다음 권한이 부여됩니�
 * 이벤트를 볼 수 있는 사람을 포함하여 설정 변경
 * 캘린더를 공유한 사람 변경
 * 이름, 이메일 주소, 언어 환경 설정 및 프로필 사진에 액세스
+
+## 라이브 채팅 가용성 설정 {#live-chat-availability-settings}
+
+텍스트
+
+## 모임 예약 가용성 설정 {#meeting-booking-availability-settings}
+
+텍스트
+
+## 모임 길이 및 버퍼 시간 {#meeting-length-and-buffer-time}
+
+텍스트
