@@ -4,9 +4,9 @@ title: 에이전트 받은 편지함
 hide: true
 hidefromtoc: true
 feature: Dynamic Chat
-source-git-commit: 4d5f0c1c2fa050d4da38daaff1a1be3725bda1d7
+source-git-commit: d22849c01d55dc4c5bca30cbd39bfe66bfaeb473
 workflow-type: tm+mt
-source-wordcount: '250'
+source-wordcount: '319'
 ht-degree: 1%
 
 ---
@@ -27,6 +27,10 @@ ht-degree: 1%
 >
 >**재정의합니다.** 다음 [라이브 채팅 가용성](/help/marketo/product-docs/demand-generation/dynamic-chat-two/setup-and-configuration/agent-settings.md#live-chat-availability) 에이전트 설정에서 을(를) 설정했습니다. 상태를 다시 전환하거나 사용 가능한 다음 시간 블록으로 전환할 때까지 유지됩니다.
 
+>[!NOTE]
+>
+>상태를 사용할 수 없음으로 설정하면 활성 채팅에 영향을 주지 않습니다.
+
 ## 라이브 채팅 수락 {#accepting-a-live-chat}
 
 실시간 채팅이 에이전트에게 라우팅되면 화면 맨 위에 수락하라는 파란색 배너가 표시됩니다.
@@ -36,7 +40,6 @@ ht-degree: 1%
 ### 참고할 사항 {#things-to-note}
 
 * 상담원은 &quot;채팅 수락&quot; 메시지가 시간 초과되기 전에 45초 동안 응답할 수 있습니다.
-* 브라우저 TIDBIT
 * 현재 에이전트당 라이브 채팅 수는 10개로 제한됩니다
 
 ## 대화 {#conversations}
@@ -44,6 +47,10 @@ ht-degree: 1%
 [에이전트 받은 편지함] 화면의 왼쪽에서는 활성 대화만 표시하거나 모든 대화를 표시하도록 선택할 수 있습니다.
 
 ![](assets/agent-inbox-4.png)
+
+>[!NOTE]
+>
+>자신과 다른 에이전트로부터 과거(비활성) 대화를 볼 수 있지만 자신의 활성 대화만 볼 수 있습니다.
 
 ## 방문자 정보 {#visitor-information}
 
@@ -61,4 +68,18 @@ ht-degree: 1%
 >
 >지난 90일 동안만 정보가 표시됩니다.
 
-활성 대화- 모든 대화- 캘린더 공유 방문자 정보- 최근 Dynamic Chat 활동
+## 캘린더 공유 {#calendar-sharing}
+
+라이브 채팅 창 하단에 있는 아이콘을 통해 다른 에이전트의 캘린더를 채팅 방문자와 공유할 수 있습니다.
+
+1. 달력 아이콘을 클릭합니다.
+
+   ![](assets/agent-inbox-7.png)
+
+1. 원하는 에이전트 달력을 선택하고 **보내기**.
+
+   ![](assets/agent-inbox-8.png)
+
+1. 채팅 방문자는 모임을 예약할 수 있습니다.
+
+   ![](assets/agent-inbox-9.png)

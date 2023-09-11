@@ -4,9 +4,9 @@ title: 에이전트 관리
 hide: true
 hidefromtoc: true
 feature: Dynamic Chat
-source-git-commit: 89c7cfb987196ebb83bada4a6ba44c760ab83ee4
+source-git-commit: d22849c01d55dc4c5bca30cbd39bfe66bfaeb473
 workflow-type: tm+mt
-source-wordcount: '180'
+source-wordcount: '189'
 ht-degree: 2%
 
 ---
@@ -63,7 +63,7 @@ PICC2 - 남자의 스크린샷 필요
 
 >[!NOTE]
 >
->선택 **모임 예약 옵션 포함** 확인란은 채팅 방문자에 대한 모임 예약 위젯을 생성합니다.
+>선택 **모임 예약 옵션 포함** 확인란을 선택하면 라이브 채팅에 액세스할 수 있는 에이전트가 없을 때 채팅 방문자가 모임을 예약할 수 있는 옵션이 제공됩니다.
 
 >[!TIP]
 >
