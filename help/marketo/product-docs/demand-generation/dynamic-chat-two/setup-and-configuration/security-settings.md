@@ -4,9 +4,9 @@ title: 보안 설정
 hide: true
 hidefromtoc: true
 feature: Dynamic Chat
-source-git-commit: d22849c01d55dc4c5bca30cbd39bfe66bfaeb473
+source-git-commit: 720215ea958206931413f2d273a4a058bc051579
 workflow-type: tm+mt
-source-wordcount: '77'
+source-wordcount: '63'
 ht-degree: 0%
 
 ---
@@ -22,10 +22,6 @@ ht-degree: 0%
 1. 다음 항목 선택 **유효성 검사 활성화** 차단 목록에 추가하다 슬라이더를 활성화하십시오. 최대 50개의 도메인을 입력하고 **저장**.
 
    ![](assets/security-settings-2.png)
-
->[!CAUTION]
->
->다음을 확인하십시오. **아님** 추가하려면 `adobeeventlab.com` 차단 목록에게 전달하지 않으면 전달됩니다??? 채팅 사용 안 함???
 
 ## 허용된 도메인 {#allowed-domains}
 

@@ -4,9 +4,9 @@ title: 라우팅
 hide: true
 hidefromtoc: true
 feature: Dynamic Chat
-source-git-commit: 863e5e542e2006ee15f44ad949e876e56a9b39e3
+source-git-commit: 720215ea958206931413f2d273a4a058bc051579
 workflow-type: tm+mt
-source-wordcount: '188'
+source-wordcount: '195'
 ht-degree: 1%
 
 ---
@@ -61,6 +61,6 @@ Dynamic Chat에서 예약된 회의는 두 가지 방법으로 라우팅될 수 
 
 ![](assets/routing-9.png)
 
-팀 라우팅
+팀 라우팅 - 현재로서는 이러한 참조에 DELETE
 
-스마트 목록 라우팅 멤버
+스마트 목록 라우팅의 구성원 - 지연될 수 있음
