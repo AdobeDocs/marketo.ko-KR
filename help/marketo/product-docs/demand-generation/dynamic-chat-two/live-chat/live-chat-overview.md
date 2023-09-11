@@ -4,7 +4,7 @@ title: 라이브 채팅 개요
 hide: true
 hidefromtoc: true
 feature: Dynamic Chat
-source-git-commit: 89c7cfb987196ebb83bada4a6ba44c760ab83ee4
+source-git-commit: 863e5e542e2006ee15f44ad949e876e56a9b39e3
 workflow-type: tm+mt
 source-wordcount: '238'
 ht-degree: 2%
@@ -26,7 +26,7 @@ ht-degree: 2%
 **우수 사례**
 
 * 라이브 채팅 카드 앞에 있는 질문 카드를 사용하여 방문자에게 연결 여부를 물어봅니다.
-* 방문자가 연결에 동의한 후 정보 캡처 카드를 사용하여 이름/성, 이메일 주소, 직책 등과 같은 일부 정보를 얻습니다. (최소 이름 및 이메일 주소를 요청하는 것이 좋습니다.)
+* 방문자가 연결에 동의한 후 정보 캡처 카드를 사용하여 이름/성, 이메일 주소, 직책 등과 같은 일부 정보를 수집합니다. (최소 이름 및 이메일 주소를 요청하는 것이 좋습니다.)
 
 ## 라이브 채팅 카드 옵션 {#live-chat-card-options}
 

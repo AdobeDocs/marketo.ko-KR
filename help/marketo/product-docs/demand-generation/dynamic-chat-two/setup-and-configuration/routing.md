@@ -4,7 +4,7 @@ title: 라우팅
 hide: true
 hidefromtoc: true
 feature: Dynamic Chat
-source-git-commit: c39d30c40f6e067af6a2a6434a26eb8e2bee8a87
+source-git-commit: 863e5e542e2006ee15f44ad949e876e56a9b39e3
 workflow-type: tm+mt
 source-wordcount: '188'
 ht-degree: 1%
@@ -54,7 +54,6 @@ Dynamic Chat에서 예약된 회의는 두 가지 방법으로 라우팅될 수 
 1. 원하는 값을 모두 선택한 경우 **저장**.
 
    ![](assets/routing-8.png)
-
 
 ## 계정 라우팅 {#account-routing}
 

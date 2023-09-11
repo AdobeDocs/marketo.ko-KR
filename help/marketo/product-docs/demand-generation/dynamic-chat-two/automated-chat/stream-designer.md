@@ -4,9 +4,9 @@ title: 스트림 디자이너
 hide: true
 hidefromtoc: true
 feature: Dynamic Chat
-source-git-commit: 89c7cfb987196ebb83bada4a6ba44c760ab83ee4
+source-git-commit: 863e5e542e2006ee15f44ad949e876e56a9b39e3
 workflow-type: tm+mt
-source-wordcount: '980'
+source-wordcount: '1024'
 ht-degree: 2%
 
 ---
@@ -43,7 +43,11 @@ ht-degree: 2%
  </tr>
  <tr>
   <td><strong>약속 스케줄러</strong></td>
-  <td>방문자에게 후속 작업을 예약할 수 있는 사용 가능한 날짜 일정을 제공합니다. 일정 가용성은 다음을 반영합니다. <a href="/help/marketo/product-docs/demand-generation/dynamic-chat/dynamic-chat-overview.md#routing">줄 서 있는 다음 에이전트</a>.</td>
+  <td>방문자에게 후속 작업을 예약할 수 있는 사용 가능한 날짜 일정을 제공합니다. 일정 가용성은 다음을 반영합니다. <a href="/help/marketo/product-docs/demand-generation/dynamic-chat/dynamic-chat-overview.md#routing">줄 서 있는 다음 에이전트</a>. 에이전트 이름 또는 이메일 주소와 같은 속성을 전달하는 옵션도 있습니다.</td>
+ </tr>
+ <tr>
+  <td><strong>모임 예약</strong></td>
+  <td>방문자에게 회의 일정을 잡을 수 있는 날짜 일정을 제공합니다. 특정 에이전트의 라운드 로빈 또는 사용자 지정 규칙을 사용하여 일정 가용성을 선택합니다.</td>
  </tr>
  <tr>
   <td><strong>목표</strong></td>
@@ -68,19 +72,19 @@ ht-degree: 2%
 <table>
  <tr>
   <td><img src="assets/stream-designer-1.png"></td>
-  <td>해당 보기를 선호하는 사용자의 배경에 표를 추가합니다.</td>
- </tr>
- <tr>
-  <td><img src="assets/stream-designer-2.png"></td>
   <td>확대하기, 더 큰 카드 만들기</td>
  </tr>
  <tr>
-  <td><img src="assets/stream-designer-3.png"></td>
+  <td><img src="assets/stream-designer-2.png"></td>
   <td>축소하여 더 작은 카드 만들기</td>
  </tr>
  <tr>
-  <td><img src="assets/stream-designer-4.png"></td>
+  <td><img src="assets/stream-designer-3.png"></td>
   <td>채팅을 테스트할 수 있는 창을 엽니다(닫으려면 동일한 버튼 누름).</td>
+ </tr>
+ <tr>
+  <td><img src="assets/stream-designer-4.png"></td>
+  <td>스트림 내에서 카드 유형 또는 콘텐츠를 검색할 수 있습니다.</td>
  </tr>
  <tr>
   <td><img src="assets/stream-designer-5.png"></td>
@@ -211,4 +215,3 @@ ht-degree: 2%
 >* [대상 기준](/help/marketo/product-docs/demand-generation/dynamic-chat/dialogues/audience-criteria.md){target="_blank"}
 >* [보고서](/help/marketo/product-docs/demand-generation/dynamic-chat/dialogues/reports.md){target="_blank"}
 >* [문서 카드 사용](/help/marketo/product-docs/demand-generation/dynamic-chat/integrations/using-the-document-card.md){target="_blank"}
-

@@ -4,9 +4,9 @@ title: 대화 상자 만들기
 hide: true
 hidefromtoc: true
 feature: Dynamic Chat
-source-git-commit: ea9e02d9ad52991757f137c7c2b549b98f139ba5
+source-git-commit: 863e5e542e2006ee15f44ad949e876e56a9b39e3
 workflow-type: tm+mt
-source-wordcount: '73'
+source-wordcount: '80'
 ht-degree: 6%
 
 ---
@@ -31,9 +31,10 @@ ht-degree: 6%
 >
 >우선 순위는 방문자가 여러 대화 상자를 동시에 사용할 수 있을 때 표시할 대화 상자를 결정합니다.
 
+다음으로, 방법 알아보기 [스트림 만들기](/help/marketo/product-docs/demand-generation/dynamic-chat/dialogues/stream-designer.md#create-a-stream){target="_blank"}.
+
 >[!MORELIKETHIS]
 >
 >* [대상 기준](/help/marketo/product-docs/demand-generation/dynamic-chat/dialogues/audience-criteria.md){target="_blank"}
 >* [스트림 디자이너](/help/marketo/product-docs/demand-generation/dynamic-chat/dialogues/stream-designer.md){target="_blank"}
 >* [보고서](/help/marketo/product-docs/demand-generation/dynamic-chat/dialogues/reports.md){target="_blank"}
-

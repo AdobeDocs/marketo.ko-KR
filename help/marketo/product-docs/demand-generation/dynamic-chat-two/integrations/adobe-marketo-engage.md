@@ -4,9 +4,9 @@ title: Adobe Marketo Engage
 hide: true
 hidefromtoc: true
 feature: Dynamic Chat
-source-git-commit: ea9e02d9ad52991757f137c7c2b549b98f139ba5
+source-git-commit: 863e5e542e2006ee15f44ad949e876e56a9b39e3
 workflow-type: tm+mt
-source-wordcount: '258'
+source-wordcount: '260'
 ht-degree: 2%
 
 ---
@@ -15,7 +15,7 @@ ht-degree: 2%
 
 ## 연결 Dynamic Chat {#connecting-dynamic-chat}
 
-을(를) 완료한 후 [초기 설정](/help/marketo/product-docs/demand-generation/dynamic-chat/initial-setup.md){target="_blank"}이제 Marketo 구독에 Dynamic Chat 연결 1회 동기화를 수행할 차례입니다.
+을(를) 완료한 후 [초기 설정](/help/marketo/product-docs/demand-generation/dynamic-chat/initial-setup.md){target="_blank"}이제 Adobe Marketo Engage 구독에 Dynamic Chat 연결 1회 동기화를 수행할 차례입니다.
 
 1. 내 Marketo에서 **Dynamic Chat** 타일.
 
