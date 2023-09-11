@@ -4,9 +4,9 @@ title: 라우팅
 hide: true
 hidefromtoc: true
 feature: Dynamic Chat
-source-git-commit: ea9e02d9ad52991757f137c7c2b549b98f139ba5
+source-git-commit: c39d30c40f6e067af6a2a6434a26eb8e2bee8a87
 workflow-type: tm+mt
-source-wordcount: '148'
+source-wordcount: '188'
 ht-degree: 1%
 
 ---
@@ -23,7 +23,7 @@ Dynamic Chat에서 예약된 회의는 두 가지 방법으로 라우팅될 수 
 
 이 예에서는 유추한 CA, OR 및 WA 상태의 모든 회의를 John 에이전트에게 보냅니다.
 
-1. Dynamic Chat에서 **라우팅**.
+1. Configuration에서 **라우팅 규칙**.
 
    ![](assets/routing-1.png)
 
@@ -35,7 +35,7 @@ Dynamic Chat에서 예약된 회의는 두 가지 방법으로 라우팅될 수 
 
    ![](assets/routing-3.png)
 
-1. 규칙에 이름을 지정하고 **다음**.
+1. 규칙 이름을 지정합니다. 원할 경우 설명을 추가하고 우선 순위 수준을 설정할 수 있습니다. 클릭 **다음**.
 
    ![](assets/routing-4.png)
 
@@ -54,3 +54,14 @@ Dynamic Chat에서 예약된 회의는 두 가지 방법으로 라우팅될 수 
 1. 원하는 값을 모두 선택한 경우 **저장**.
 
    ![](assets/routing-8.png)
+
+
+## 계정 라우팅 {#account-routing}
+
+대상 계정 및 해당 영업 소유자를 식별하고 해당 계정에서 오는 방문자 경로를 해당 계정 소유자에게 직접 업로드합니다.
+
+![](assets/routing-9.png)
+
+팀 라우팅
+
+스마트 목록 라우팅 멤버

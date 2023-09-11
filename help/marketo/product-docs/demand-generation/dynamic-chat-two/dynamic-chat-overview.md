@@ -4,10 +4,10 @@ title: Dynamic Chat 개요
 hide: true
 hidefromtoc: true
 feature: Dynamic Chat
-source-git-commit: 3fc84a0e679b0b27aaf4ee251668a3ba0a62f9ef
+source-git-commit: c39d30c40f6e067af6a2a6434a26eb8e2bee8a87
 workflow-type: tm+mt
-source-wordcount: '873'
-ht-degree: 2%
+source-wordcount: '665'
+ht-degree: 1%
 
 ---
 
@@ -109,90 +109,29 @@ Dynamic Chat 언어를 변경하려면 다음 단계를 따르십시오.
 
 언어를 업데이트할 때 개인적으로 채운 단어(예: 스트림 응답)를 제외한 앱 자체의 모든 내용이 변경됩니다.
 
-## Dynamic Chat 제한 {#limits-in-dynamic-chat}
+## Dynamic Chat 데이터 보존 제한 {#dynamic-chat-data-retention-limits}
 
 <table>
-  <th>매개 변수</th>
-  <th>설명</th>
-  <th>제한</th>
+  <th>데이터 유형</th>
+  <th>유지 기간</th>
  <tr>
-  <td>총 대화 상자</td>
-  <td>대화 상자 수(게시됨 및 초안)</td>
-  <td>500</td>
- </tr>
- <tr>
-  <td>총 캘린더</td>
-  <td>연결된 캘린더 수</td>
-  <td>25</td>
- </tr>
- <tr>
-  <td>총 사용자(관리자 및 마케팅 사용자)</td>
-  <td>Dynamic Chat 인스턴스당 허용된 결합된 사용자 수</td>
-  <td>50</td>
- </tr>
- <tr>
-  <td>게시된 대화 상자</td>
-  <td>저장된 게시된 대화 상자 수</td>
-  <td>100</td>
- </tr>
- <tr>
-  <td>대화 상자당 타겟 URL</td>
-  <td>단일 대화 상자에 추가할 수 있는 Target URL 수</td>
-  <td>20</td>
- </tr>
- <tr>
-  <td>대화 상자당 속성</td>
-  <td>단일 대화 상자의 대상 기준에 추가할 수 있는 속성 수입니다</td>
-  <td>100</td>
- </tr>
- <tr>
-  <td>그룹</td>
-  <td>단일 대화 상자에 추가할 수 있는 그룹 수</td>
-  <td>10</td>
- </tr>
- <tr>
-  <td>그룹당 속성</td>
-  <td>그룹에 추가할 수 있는 속성 수</td>
-  <td>10</td>
- </tr>
- <tr>
-  <td>카드</td>
-  <td>대화 상자 당 캔버스에 추가할 수 있는 카드 수</td>
-  <td>500</td>
- </tr>
- <tr>
-  <td>익명 잠재 고객 데이터 유지 기간</td>
-  <td>참여 없이 익명 잠재 고객의 정보가 유지되는 기간</td>
+  <td>참여가 없는 익명 잠재 고객</td>
   <td>90일</td>
  </tr>
  <tr>
-  <td>목표 활동 유지 기간</td>
-  <td>목표 활동 데이터가 유지되는 시간</td>
+  <td>목표 활동</td>
   <td>24개월</td>
  </tr>
  <tr>
-  <td>문서 활동 보존 기간</td>
-  <td>문서 활동 데이터가 유지되는 시간</td>
+  <td>문서 활동</td>
   <td>24개월</td>
  </tr>
  <tr>
-  <td>대화 상자 활동 유지 기간을 사용하여 상호 작용</td>
-  <td>대화 상자 활동 데이터와 상호 작용한 시간이 유지됩니다.</td>
+  <td>대화 상자 활동과 상호 작용</td>
   <td>90일</td>
  </tr>
  <tr>
-  <td>모임 예약 활동 유지 기간</td>
-  <td>모임 예약 활동이 Dynamic Chat에 저장되는 시간</td>
+  <td>모임 예약 활동</td>
   <td>24개월</td>
- </tr>
- <tr>
-  <td>대화 참여</td>
-  <td>월별 웹 방문자가 참여할 수 있는 채팅 대화 수</td>
-  <td>250</td>
- </tr>
- <tr>
-  <td>대화 트리거됨</td>
-  <td>월별 웹 방문자에게 표시할 수 있는 채팅 대화 수</td>
-  <td>25,000</td>
  </tr>
 </table>

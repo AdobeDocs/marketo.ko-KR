@@ -4,9 +4,9 @@ title: 에이전트 관리
 hide: true
 hidefromtoc: true
 feature: Dynamic Chat
-source-git-commit: d22849c01d55dc4c5bca30cbd39bfe66bfaeb473
+source-git-commit: c39d30c40f6e067af6a2a6434a26eb8e2bee8a87
 workflow-type: tm+mt
-source-wordcount: '189'
+source-wordcount: '184'
 ht-degree: 2%
 
 ---
@@ -21,7 +21,7 @@ ht-degree: 2%
 
 이 탭에는 Dynamic Chat 인스턴스의 모든 에이전트가 나열되며 여기에는 이름, 이메일 주소, 라이브 채팅 상태 등의 정보가 포함됩니다.
 
-PICC2 - 남자의 스크린샷 필요
+![](assets/agent-management-2.png)
 
 ## 팀 {#teams}
 
