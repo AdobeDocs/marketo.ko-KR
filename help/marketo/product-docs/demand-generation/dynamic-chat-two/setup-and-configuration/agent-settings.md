@@ -4,16 +4,16 @@ title: 에이전트 설정
 hide: true
 hidefromtoc: true
 feature: Dynamic Chat
-source-git-commit: 801c9935cacf79971ce42a9517647e310a1ed25a
+source-git-commit: 89c7cfb987196ebb83bada4a6ba44c760ab83ee4
 workflow-type: tm+mt
-source-wordcount: '249'
+source-wordcount: '248'
 ht-degree: 3%
 
 ---
 
 # 에이전트 설정 {#agent-settings}
 
-일정 탭에서 챗봇의 약속 예약에 사용할 Outlook 또는 Gmail 일정을 연결합니다.
+캘린더 구성 탭에서 챗봇의 약속 예약에 사용할 Outlook 또는 Gmail 캘린더를 연결합니다.
 
 ## 캘린더 연결 {#connect-calendar}
 
@@ -50,14 +50,14 @@ Google으로 구성하면 Dynamic Chat에 대한 다음 권한이 부여됩니�
 * 캘린더를 공유한 사람 변경
 * 이름, 이메일 주소, 언어 환경 설정 및 프로필 사진에 액세스
 
-## 라이브 채팅 가용성 설정 {#live-chat-availability-settings}
-
-텍스트
-
-## 모임 예약 가용성 설정 {#meeting-booking-availability-settings}
+## 모임 예약 가용성 {#meeting-booking-availability}
 
 텍스트
 
 ## 모임 길이 및 버퍼 시간 {#meeting-length-and-buffer-time}
+
+텍스트
+
+## 라이브 채팅 사용 가능 여부 {#live-chat-availability}
 
 텍스트

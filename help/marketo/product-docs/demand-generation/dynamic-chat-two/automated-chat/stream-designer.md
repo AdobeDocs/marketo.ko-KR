@@ -4,7 +4,7 @@ title: 스트림 디자이너
 hide: true
 hidefromtoc: true
 feature: Dynamic Chat
-source-git-commit: b4ba55769034e8fb8a7878f52e21bd08e073fa8c
+source-git-commit: 89c7cfb987196ebb83bada4a6ba44c760ab83ee4
 workflow-type: tm+mt
 source-wordcount: '980'
 ht-degree: 2%
@@ -57,7 +57,7 @@ ht-degree: 2%
   <td><strong>라이브 채팅</strong></td>
   <td>방문자가 라이브 에이전트와 채팅하도록 하려면 라이브 채팅 카드를 사용하십시오.
   <li>라이브 채팅 카드가 분기의 마지막 카드여야 합니다.</li>
-  <li>방문자는 스트림의 이 카드에 도달하면 에이전트로 라우팅됩니다. 따라서 방문자에게 라이브 에이전트와 채팅할 것인지 묻는 질문 카드와 함께 이 카드 앞에 서는 것이 좋습니다</li></td>
+  <li>방문자는 스트림의 이 카드에 도달하면 에이전트로 라우팅됩니다. 따라서 방문자에게 라이브 에이전트와 채팅할 것인지 묻는 질문 카드와 함께 이 카드 앞에 서는 것이 좋습니다.</li></td>
  </tr>
 </table>
 

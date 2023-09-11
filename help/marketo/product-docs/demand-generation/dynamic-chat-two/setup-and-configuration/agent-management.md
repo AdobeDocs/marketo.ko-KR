@@ -4,9 +4,9 @@ title: 에이전트 관리
 hide: true
 hidefromtoc: true
 feature: Dynamic Chat
-source-git-commit: ce4daadc8351faaeb6537e75ec7d9f96bd835e5c
+source-git-commit: 89c7cfb987196ebb83bada4a6ba44c760ab83ee4
 workflow-type: tm+mt
-source-wordcount: '163'
+source-wordcount: '180'
 ht-degree: 2%
 
 ---
@@ -60,6 +60,10 @@ PICC2 - 남자의 스크린샷 필요
 표준(시스템) 메시지를 선택하거나 방문자가 Live Chat을 사용할 수 없을 때 볼 수 있도록 사용자 지정 메시지를 작성하십시오.
 
 ![](assets/agent-management-9.png)
+
+>[!NOTE]
+>
+>선택 **모임 예약 옵션 포함** 확인란은 채팅 방문자에 대한 모임 예약 위젯을 생성합니다.
 
 >[!TIP]
 >
