@@ -4,9 +4,9 @@ title: Dynamic Chat 개요
 hide: true
 hidefromtoc: true
 feature: Dynamic Chat
-source-git-commit: c39d30c40f6e067af6a2a6434a26eb8e2bee8a87
+source-git-commit: 6682ff8611c0be30599b7bb6f516f9d7ba7ba926
 workflow-type: tm+mt
-source-wordcount: '665'
+source-wordcount: '658'
 ht-degree: 1%
 
 ---
@@ -65,7 +65,7 @@ Dynamic Chat JavaScript 코드 조각은 Marketo 랜딩 페이지뿐만 아니�
 
 **보고를 위해 데이터가 저장되는 기간은 얼마입니까?**
 
-90일(전체 제한 목록 참조) [아래](#limits-in-dynamic-chat)).
+90일.
 
 **Dynamic Chat에서 라이브 채팅을 허용합니까?**
 
