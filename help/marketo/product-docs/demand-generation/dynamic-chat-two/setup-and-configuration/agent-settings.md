@@ -4,9 +4,9 @@ title: 에이전트 설정
 hide: true
 hidefromtoc: true
 feature: Dynamic Chat
-source-git-commit: 49421ecf7f8cec6fb94bc138969c0a43b8832537
+source-git-commit: 04359fc2bb395d442bb5215118d71de59a881749
 workflow-type: tm+mt
-source-wordcount: '476'
+source-wordcount: '482'
 ht-degree: 2%
 
 ---
@@ -64,11 +64,11 @@ Google으로 구성하면 Dynamic Chat에 대한 다음 권한이 부여됩니�
  <tbody> 
   <tr> 
    <td><b>회의 기간</b></td>
-   <td>최대 모임 길이. 무슨 일이 일어나죠? 자동 종료?</td>
+   <td>최대 모임 길이. 무슨 일이 일어나죠? 확대/축소처럼 자동 정지</td>
   </tr> 
   <tr> 
    <td><b>회의 간 여유 시간</b></td>
-   <td>회의 후 버퍼로 설정한 시간입니다. 30분 동안 설정하면 캘린더에서 예약된 회의가 종료된 후 31분이 지나서야 귀하와의 회의를 예약할 수 있습니다. - 31 또는 30???????????</td>
+   <td>회의 후 버퍼로 설정한 시간입니다. 30분 동안 설정하면 캘린더에서 예약된 회의가 끝난 후 30분이 지날 때까지 아무도 귀하와의 회의를 예약할 수 없습니다.</td>
   </tr>
  </tbody> 
 </table>
@@ -83,11 +83,11 @@ Google으로 구성하면 Dynamic Chat에 대한 다음 권한이 부여됩니�
 
 ![](assets/agent-settings-5.png)
 
-앱에 로그인하면 수신 채팅에 대한 인앱 알림을 받게 됩니다. 로그인하지 않은 경우 브라우저 알림을 받게 됩니다.
+앱에 로그인하면 수신 채팅에 대한 인앱 알림을 받게 됩니다. 로그인하지 않은 경우 브라우저 알림을 받게 됩니다(다음을 보유한 경우). [설정](/help/marketo/product-docs/demand-generation/dynamic-chat-two/live-chat/agent-inbox.md#live-chat-notifications){target="_blank"}).
 
 >[!IMPORTANT]
 >
->다음 [가용성 전환](/help/marketo/product-docs/demand-generation/dynamic-chat-two/live-chat/agent-inbox.md#availability-toggle){target="_blank"} 에이전트 받은 편지함에서 **재정의** 라이브 채팅 가용성 탭에 입력하는 내용. 따라서 1p-5p부터 사용할 수 있도록 예약되어 있지만 3p에 잠깐 쉬어야 하는 경우에는 에이전트 설정을 변경할 필요가 없습니다. 가용성 전환 상태는 수동으로 전환할 때까지 또는 가용성의 다음 블록에 도달할 때까지 유지됩니다.
+>다음 [가용성 전환](/help/marketo/product-docs/demand-generation/dynamic-chat-two/live-chat/agent-inbox.md#availability-toggle){target="_blank"} 에이전트 받은 편지함에서 **재정의** 라이브 채팅 가용성 탭에 입력하는 내용. 따라서 1p-5p부터 사용할 수 있도록 예약되어 있지만 3p에 잠깐 쉬어야 하는 경우에는 에이전트 설정을 변경할 필요가 없습니다. 가용성 전환 상태는 수동으로 변경하거나 가용성의 다음 블록에 도달할 때까지 유지됩니다.
 
 >[!TIP]
 >

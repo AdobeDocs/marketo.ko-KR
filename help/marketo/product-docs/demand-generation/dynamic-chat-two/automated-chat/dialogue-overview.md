@@ -4,9 +4,9 @@ title: 대화 상자 개요
 hide: true
 hidefromtoc: true
 feature: Dynamic Chat
-source-git-commit: ea9e02d9ad52991757f137c7c2b549b98f139ba5
+source-git-commit: 04359fc2bb395d442bb5215118d71de59a881749
 workflow-type: tm+mt
-source-wordcount: '166'
+source-wordcount: '163'
 ht-degree: 3%
 
 ---
@@ -29,7 +29,7 @@ ht-degree: 3%
 
 ## 보고서 {#reports}
 
-다음 [보고서](/help/marketo/product-docs/demand-generation/dynamic-chat/dialogues/reports.md){target="_blank"} 대화 상자의 섹션에서 대화 상자의 성능 수준에 대한 지표를 볼 수 있습니다.
+보고서 탭에서는 대화 상자의 성능 수준에 대한 지표를 볼 수 있습니다.
 
 ![](assets/dialogue-overview-3.png)
 

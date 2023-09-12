@@ -4,10 +4,10 @@ title: 라우팅
 hide: true
 hidefromtoc: true
 feature: Dynamic Chat
-source-git-commit: 720215ea958206931413f2d273a4a058bc051579
+source-git-commit: 04359fc2bb395d442bb5215118d71de59a881749
 workflow-type: tm+mt
-source-wordcount: '195'
-ht-degree: 1%
+source-wordcount: '231'
+ht-degree: 0%
 
 ---
 
@@ -61,6 +61,18 @@ Dynamic Chat에서 예약된 회의는 두 가지 방법으로 라우팅될 수 
 
 ![](assets/routing-9.png)
 
-팀 라우팅 - 현재로서는 이러한 참조에 DELETE
+### 계정 추가 {#add-an-account}
 
-스마트 목록 라우팅의 구성원 - 지연될 수 있음
+이 예에서는 모든 직원을 레고에서 스티븐 요원으로 직접 안내합니다.
+
+1. 계정 라우팅 탭에서 **+ 계정 추가**.
+
+   ![](assets/routing-10.png)
+
+   >[!TIP]
+   >
+   >다음을 클릭하여 여러 계정을 한 번에 만들 수 있습니다. **계정 목록 업로드** CSV를 업로드하는 방법
+
+1. 회사 이름, 도메인을 입력하고 원하는 에이전트를 선택합니다.
+
+   ![](assets/routing-11.png)

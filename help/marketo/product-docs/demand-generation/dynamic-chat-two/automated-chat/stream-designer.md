@@ -4,9 +4,9 @@ title: 스트림 디자이너
 hide: true
 hidefromtoc: true
 feature: Dynamic Chat
-source-git-commit: 83f9cc2c59815a3df171d703d7069973de325909
+source-git-commit: 04359fc2bb395d442bb5215118d71de59a881749
 workflow-type: tm+mt
-source-wordcount: '1084'
+source-wordcount: '1102'
 ht-degree: 2%
 
 ---
@@ -17,7 +17,7 @@ ht-degree: 2%
 
 >[!PREREQUISITES]
 >
->문서 카드를 사용하려면 먼저 다음을 수행해야 합니다 [설정](/help/marketo/product-docs/demand-generation/dynamic-chat/integrations/using-the-document-card.md){target="_blank"} Adobe 계정에서.
+>문서 카드를 사용하려면 먼저 다음을 수행해야 합니다 [설정](/help/marketo/product-docs/demand-generation/dynamic-chat-two/integrations/adobe-pdf-embed-api.md){target="_blank"} Adobe 계정에서.
 
 ## 스트림 디자이너 카드 {#stream-designer-cards}
 
@@ -89,6 +89,8 @@ ht-degree: 2%
 </table>
 
 ## 스트림 만들기 {#create-a-stream}
+
+대화 상자 또는 [대화형 Forms](/help/marketo/product-docs/demand-generation/dynamic-chat-two/automated-chat/conversational-flow-overview.md){target="_blank"}. 이 예제에서는 대화 상자에 대해 하나를 만들겠습니다.
 
 1. 다음 작업을 수행한 후 [이(가) 내 대화 상자를 만들었습니다.](/help/marketo/product-docs/demand-generation/dynamic-chat/dialogues/create-a-dialogue.md){target="_blank"}를 클릭하고 **스트림 디자이너** 탭.
 

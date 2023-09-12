@@ -4,9 +4,9 @@ title: 라이브 채팅 개요
 hide: true
 hidefromtoc: true
 feature: Dynamic Chat
-source-git-commit: 863e5e542e2006ee15f44ad949e876e56a9b39e3
+source-git-commit: 04359fc2bb395d442bb5215118d71de59a881749
 workflow-type: tm+mt
-source-wordcount: '238'
+source-wordcount: '240'
 ht-degree: 2%
 
 ---
@@ -23,7 +23,7 @@ ht-degree: 2%
 >
 >라이브 채팅 카드는 항상 분기의 마지막 카드여야 합니다. 카드를 지점 내 임의의 지점에 배치하면 갑자기 에이전트와 연결해 방문자를 놀라게 할 수 있다.
 
-**우수 사례**
+### 우수 사례 {#best-practices}
 
 * 라이브 채팅 카드 앞에 있는 질문 카드를 사용하여 방문자에게 연결 여부를 물어봅니다.
 * 방문자가 연결에 동의한 후 정보 캡처 카드를 사용하여 이름/성, 이메일 주소, 직책 등과 같은 일부 정보를 수집합니다. (최소 이름 및 이메일 주소를 요청하는 것이 좋습니다.)
@@ -46,7 +46,7 @@ ht-degree: 2%
   </tr>
     <tr> 
    <td><b>사용자 지정 규칙</b></td>
-   <td>방문자를 라우팅할 위치를 고려할 때 모든 사용자 지정 규칙이 순환됩니다. 방문자가 기준을 충족하지 않으면 FALLBACK RULE이 발생합니다???</td>
+   <td>방문자를 라우팅할 위치를 고려할 때 모든 사용자 지정 규칙이 순환됩니다. 방문자가 사용자 정의 규칙에 대한 자격이 없는 경우 <a href="/help/marketo/product-docs/demand-generation/dynamic-chat-two/setup-and-configuration/agent-management.md#live-chat-fallback" target="_blank">라이브 채팅 대체 메시지</a>.</td>
   </tr> 
   <tr> 
    <td><b>팀</b></td>

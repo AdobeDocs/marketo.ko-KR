@@ -4,16 +4,16 @@ title: 대상 기준
 hide: true
 hidefromtoc: true
 feature: Dynamic Chat
-source-git-commit: 863e5e542e2006ee15f44ad949e876e56a9b39e3
+source-git-commit: 04359fc2bb395d442bb5215118d71de59a881749
 workflow-type: tm+mt
-source-wordcount: '569'
+source-wordcount: '570'
 ht-degree: 2%
 
 ---
 
 # 대상 기준 {#audience-criteria}
 
-Marketo 스마트 목록과 유사한 대상 기준 속성을 사용하여 타겟 대상을 정의할 수 있습니다. 유추, 개인 또는 회사 속성(또는 이들의 조합)을 사용하여 알려지거나 알려지지 않은 사람을 타깃팅할 수 있습니다.
+대상 기준 속성을 사용하면 Marketo Engage 스마트 목록과 유사하게 대상 대상을 정의할 수 있습니다. 유추, 개인 또는 회사 속성(또는 이들의 조합)을 사용하여 알려지거나 알려지지 않은 사람을 타깃팅할 수 있습니다.
 
 ## 우선 순위 {#priority}
 
