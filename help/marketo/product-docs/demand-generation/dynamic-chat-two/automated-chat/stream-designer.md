@@ -4,9 +4,9 @@ title: 스트림 디자이너
 hide: true
 hidefromtoc: true
 feature: Dynamic Chat
-source-git-commit: 863e5e542e2006ee15f44ad949e876e56a9b39e3
+source-git-commit: 83f9cc2c59815a3df171d703d7069973de325909
 workflow-type: tm+mt
-source-wordcount: '1024'
+source-wordcount: '1084'
 ht-degree: 2%
 
 ---
@@ -39,15 +39,11 @@ ht-degree: 2%
  </tr>
  <tr>
   <td><strong>정보 캡처</strong></td>
-  <td>정보를 수집하려는 경우 를 사용합니다. 선택할 3개의 필드는 이메일 주소, 전화 번호 및 텍스트(방문자가 자신의 메시지를 작성할 수 있음)입니다.</td>
- </tr>
- <tr>
-  <td><strong>약속 스케줄러</strong></td>
-  <td>방문자에게 후속 작업을 예약할 수 있는 사용 가능한 날짜 일정을 제공합니다. 일정 가용성은 다음을 반영합니다. <a href="/help/marketo/product-docs/demand-generation/dynamic-chat/dynamic-chat-overview.md#routing">줄 서 있는 다음 에이전트</a>. 에이전트 이름 또는 이메일 주소와 같은 속성을 전달하는 옵션도 있습니다.</td>
+  <td>정보(예: 이름, 이메일 주소, 직함 등)를 수집하려는 경우 사용합니다. 응답을 지정할 필드를 선택한 후 방문자가 해당 응답에 입력할 수 있도록 하거나 사용자가 결정한 선택 목록에서 옵션을 선택할 수 있습니다(팁: 후자가 데이터베이스 청결도에 도움이 될 수 있음). 현재 나열된 모든 데이터를 해당 응답과 함께 덮어쓰거나 이미 값이 있는 경우 질문을 완전히 건너뛰도록 선택할 수도 있습니다.</td>
  </tr>
  <tr>
   <td><strong>모임 예약</strong></td>
-  <td>방문자에게 회의 일정을 잡을 수 있는 날짜 일정을 제공합니다. 특정 에이전트의 라운드 로빈 또는 사용자 지정 규칙을 사용하여 일정 가용성을 선택합니다.</td>
+  <td>방문자에게 회의 일정을 잡을 수 있는 날짜 일정을 제공합니다. 라운드 로빈, 특정 에이전트를 통해 또는 사용자 지정 규칙을 사용하여 일정 가용성을 선택합니다. 클릭 <b>속성 추가</b> 에이전트의 이름 또는 이메일 주소를 캡처하고 나중에 쿼리하기 위해 채팅 방문자의 개인 레코드에 할당하려는 경우(팁: <a href="/help/marketo/product-docs/administration/field-management/create-a-custom-field-in-marketo.md" target="_blank">사용자 정의 필드</a> 표준 Marketo Engage 필드를 덮어쓰지 않도록 에이전트의 정보를 로 매핑).</td>
  </tr>
  <tr>
   <td><strong>목표</strong></td>

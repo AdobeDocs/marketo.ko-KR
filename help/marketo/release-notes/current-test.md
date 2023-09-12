@@ -4,9 +4,9 @@ title: 최신 릴리스 정보 테스트
 hide: true
 hidefromtoc: true
 feature: Release Information
-source-git-commit: 49421ecf7f8cec6fb94bc138969c0a43b8832537
+source-git-commit: 83f9cc2c59815a3df171d703d7069973de325909
 workflow-type: tm+mt
-source-wordcount: '1083'
+source-wordcount: '1209'
 ht-degree: 2%
 
 ---
@@ -41,8 +41,8 @@ ht-degree: 2%
 
 <table>
   <tr> 
-   <td><b>기능</b></td>
-   <td><strong>Design Studio 에셋의 개수 열에서 사용됨</strong>: Marketo Engage 프로그램 참조 라이브러리를 사용하여 "예제" 프로그램 및 Adobe이 권장하는 우수 사례를 나타내는 기타 에셋을 가져올 수 있습니다. 제품 관리 팀은 라이브러리를 완전히 업데이트하여 프로그램을 빠르게 시작하고자 하는 사용자에게 보다 중요한 도구를 제공합니다.</td>
+   <td style="width:20%"><b>기능</b></td>
+   <td style="width:80%"><strong>Design Studio 에셋의 개수 열에서 사용됨</strong>: Marketo Engage 프로그램 참조 라이브러리를 사용하여 "예제" 프로그램 및 Adobe이 권장하는 우수 사례를 나타내는 기타 에셋을 가져올 수 있습니다. 제품 관리 팀은 라이브러리를 완전히 업데이트하여 프로그램을 빠르게 시작하고자 하는 사용자에게 보다 중요한 도구를 제공합니다.</td>
   </tr>
   <tr> 
    <td><b>상태</b></td>
@@ -58,9 +58,9 @@ ht-degree: 2%
 <table style="table-layout:auto"> 
  <tbody> 
   <tr> 
-   <th>기능</th> 
-   <th>상태</th>
-   <th>설명서</th>
+   <th style="width:70%">기능</th> 
+   <th style="width:15%">상태</th>
+   <th style="width:15%">설명서</th>
   </tr> 
   <tr> 
    <td><strong>Marketo 참조 라이브러리</strong>: Marketo Engage 프로그램 참조 라이브러리를 사용하여 "예제" 프로그램 및 Adobe이 권장하는 우수 사례를 나타내는 기타 에셋을 가져올 수 있습니다. 제품 관리 팀은 라이브러리를 완전히 업데이트하여 프로그램을 빠르게 시작하고자 하는 사용자에게 보다 중요한 도구를 제공합니다.</td> 
@@ -80,9 +80,44 @@ ht-degree: 2%
  </tbody> 
 </table>
 
+* 공간
 
+* 공간
 
+* 추가 공간
 
+<table style="table-layout:auto"> 
+ <tbody> 
+  <tr> 
+   <th style="width:65%">기능</th> 
+   <th style="width:15%">상태</th>
+   <th style="width:20%">설명서</th>
+  </tr> 
+  <tr> 
+   <td><strong>Marketo 참조 라이브러리</strong>: Marketo Engage 프로그램 참조 라이브러리를 사용하여 "예제" 프로그램 및 Adobe이 권장하는 우수 사례를 나타내는 기타 에셋을 가져올 수 있습니다. 제품 관리 팀은 라이브러리를 완전히 업데이트하여 프로그램을 빠르게 시작하고자 하는 사용자에게 보다 중요한 도구를 제공합니다.</td> 
+   <td>배송됨</td>
+   <td><a href="/help/marketo/product-docs/core-marketo-concepts/programs/program-library/program-import-library-overview.md" target="_blank">프로그램 가져오기 라이브러리 개요</a></td>
+  </tr>
+   <tr> 
+   <td> </td> 
+   <td> </td>
+   <td> </td>
+  </tr>
+  <tr> 
+   <td><strong>Design Studio 에셋의 개수 열에서 사용됨</strong>: Marketo Engage 프로그램 참조 라이브러리를 사용하여 "예제" 프로그램 및 Adobe이 권장하는 우수 사례를 나타내는 기타 에셋을 가져올 수 있습니다. 제품 관리 팀은 라이브러리를 완전히 업데이트하여 프로그램을 빠르게 시작하고자 하는 사용자에게 보다 중요한 도구를 제공합니다.</td> 
+   <td><i>곧 출시 예정</i></td>
+   <td><i>곧 출시 예정</i></td>
+  </tr>
+ </tbody> 
+</table>
+
+* 공간
+
+* 공간
+
+* 추가 공간
+
+* 테스트 종료... 당분간
 
 * **Design Studio 에셋의 개수 열에서 사용됨**:
 
