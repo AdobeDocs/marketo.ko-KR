@@ -4,7 +4,7 @@ title: Forms Marketo Engage에 대한 대화 흐름 설정
 hide: true
 hidefromtoc: true
 feature: Dynamic Chat
-source-git-commit: 49421ecf7f8cec6fb94bc138969c0a43b8832537
+source-git-commit: b894b6fa62c6939ba450fa259b4cf5290b4582f5
 workflow-type: tm+mt
 source-wordcount: '189'
 ht-degree: 0%
@@ -49,7 +49,7 @@ Marketo Engage Forms을 Dynamic Chat 대화 흐름과 통합하여 대화형으�
 
    >[!NOTE]
    >
-   >[대화 흐름에 대해 자세히 알아보기](/help/marketo/product-docs/demand-generation/dynamic-chat-two/automated-chat/conversational-flows-overview.md){target="_blank"}
+   >[대화 흐름에 대해 자세히 알아보기](/help/marketo/product-docs/demand-generation/dynamic-chat-two/automated-chat/conversational-flow-overview.md){target="_blank"}
 
    **선택적 단계**: 선택 사항 추가 를 클릭하여 특정 기준을 충족하는 채팅 방문자를 타깃팅할 수 있습니다.
 
