@@ -1,10 +1,8 @@
 ---
 description: 빠른 시작 랜딩 페이지 템플릿 - Marketo 문서 - 제품 설명서
 title: 빠른 시작 랜딩 페이지 템플릿
-hide: true
-hidefromtoc: true
 feature: Programs
-source-git-commit: 77314760bfd188725440311f3dc9da2005488ee5
+source-git-commit: 720215ea958206931413f2d273a4a058bc051579
 workflow-type: tm+mt
 source-wordcount: '465'
 ht-degree: 0%

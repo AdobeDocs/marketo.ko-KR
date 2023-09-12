@@ -1,10 +1,8 @@
 ---
 description: 잠재 고객 관리 - Marketo 문서 - 제품 설명서
 title: OP-리드 관리
-hide: true
-hidefromtoc: true
 feature: Programs
-source-git-commit: 6b54fe2830200c6673559a257065248390c6d212
+source-git-commit: 720215ea958206931413f2d273a4a058bc051579
 workflow-type: tm+mt
 source-wordcount: '266'
 ht-degree: 2%
