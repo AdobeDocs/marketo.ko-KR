@@ -4,9 +4,9 @@ title: 라우팅
 hide: true
 hidefromtoc: true
 feature: Dynamic Chat
-source-git-commit: 04359fc2bb395d442bb5215118d71de59a881749
+source-git-commit: df719d0db50009180e707b88b53115d4a62f35bf
 workflow-type: tm+mt
-source-wordcount: '231'
+source-wordcount: '268'
 ht-degree: 0%
 
 ---
@@ -18,6 +18,10 @@ Dynamic Chat에서 예약된 회의는 두 가지 방법으로 라우팅될 수 
 라운드 로빈: 모임이 에이전트에 순차적으로 할당됩니다. 그래서 당신이 5명의 요원들과 3번 요원이 마지막 회의를 가졌다면, 4번 요원이 다음 회의를 가질 것이고, 5번 요원이 그 후에 1번 요원으로 돌아갈 것입니다.
 
 사용자 지정 규칙: 선택한 속성에 따라 회의를 수신할 특정 에이전트를 선택할 수 있습니다.
+
+>[!NOTE]
+>
+>계정 라우팅에 가장 높은 우선 순위가 지정됩니다. 방문자가 대화의 시점에 도달하여 회의를 예약하거나 라이브 채팅을 시작하는 경우 [계정 라우팅](#account-routing) 다른 라우팅 옵션을 고려하기 전에 이 먼저 선택됩니다.
 
 ## 사용자 지정 규칙 만들기 {#create-a-custom-rule}
 
