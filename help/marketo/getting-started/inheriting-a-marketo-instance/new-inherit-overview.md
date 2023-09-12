@@ -3,9 +3,9 @@ description: 상속한 기존 Marketo Engage 인스턴스를 최적화하고 확
 title: 상속된 Marketo Engage 인스턴스 Jumpstart
 hide: true
 hidefromtoc: true
-source-git-commit: 74afe85b5d7b78cc4bce3e2ec89cb5c1a56d2f59
+source-git-commit: 67cfa02b558236bb9e963c2949a70185cc531ef0
 workflow-type: tm+mt
-source-wordcount: '335'
+source-wordcount: '318'
 ht-degree: 0%
 
 ---
@@ -14,21 +14,23 @@ ht-degree: 0%
 
 새 작업을 시작하거나 다른 관리자의 기존 인스턴스를 인수하시겠습니까? 잠시 동안 실행되는 라이브 인스턴스를 인수하는 것은 다소 어려울 수 있지만, 이 안내서를 통해 신속하게 시작하고 실행할 수 있습니다.
 
-## 체크오프할 항목 {#items-to-check-off}
+## 마케팅 국가 설정 {#get-set-up-in-the-marketing-nation}
 
-올바른 종류의 액세스 및 정보를 올바르게 설정했는지 확인하십시오.
+Marketo 커뮤니티에서 제대로 설정되었는지 확인하십시오.
 
-* 에 대한 간략한 개요 보기 **Marketo의 기능** - KG - 더 나은 비디오 또는 DELETE 찾기
+* **[프로필 설정]**(https://nation.marketo.com/){target="_blank"}.
 
-* **프로필 설정** 다음에서 [**마케팅 국가**](https://nation.marketo.com/){target="_blank"} 커뮤니티(사용자 이름 및 암호 필요).
+* [**프로필 설정**](https://nation.marketo.com/){target="_blank"}.
+
+* **[프로필 설정](https://nation.marketo.com/)**{target="_blank"}.
+
+* **[프로필 설정](https://nation.marketo.com/){target="_blank"}**.
 
 * 다음을 읽어 보십시오. [**마케팅 커뮤니티 지침**](https://nation.marketo.com/t5/community-guidelines/ct-p/community-guidelines){target="_blank"}.
 
 * 클릭 **[!UICONTROL 내 위치]** Marketo Nation 커뮤니티 프로필에서 회사 계정 페이지를 확인하십시오.
 
 * 방법 알아보기 [**지원 사례 제출**](https://nation.marketo.com/t5/Knowledgebase/Submitting-a-Support-Case-to-Marketo-Support/ta-p/252201){target="_blank"} (and confirm you're [**set up as an authorized support contact**](https://nation.marketo.com/t5/Knowledgebase/Managing-Authorized-Support-Contacts/ta-p/254341){target="_blank"}).
-
-* [**사용자 관리**](/help/marketo/product-docs/administration/users-and-roles/managing-marketo-users.md){target="_blank"} 회사를 떠난 사용자를 삭제합니다.
 
 ## 상속된 인스턴스 감사 가이드 {#inherited-instance-audit-guides}
 

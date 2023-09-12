@@ -3,7 +3,7 @@ description: 상속된 인스턴스 관리 검사 목록 - Marketo 문서 - 제�
 title: 상속된 인스턴스 관리 검사 목록
 hide: true
 hidefromtoc: true
-source-git-commit: 74afe85b5d7b78cc4bce3e2ec89cb5c1a56d2f59
+source-git-commit: 67cfa02b558236bb9e963c2949a70185cc531ef0
 workflow-type: tm+mt
 source-wordcount: '1444'
 ht-degree: 1%
@@ -60,7 +60,7 @@ ht-degree: 1%
   <tr> 
    <td>사용자</td> 
    <td><li><a href="/help/marketo/product-docs/administration/users-and-roles/managing-marketo-users.md" target="_blank">사용자 수</a> 있습니까?</li>
-<li>만료되어야 하는 사용자가 있습니까?</li>
+<li>제거해야 하는 사용자가 있습니까?</li>
 <li>회사에 사용자 삭제에 대한 정책이 있습니까?</li> 
 <li>보유한 사용자 수 <a href="/help/marketo/product-docs/administration/users-and-roles/descriptions-of-role-permissions.md" target="_blank">관리자 권한</a>?</li>
 <li>해당 사용자 중 하나를 (으)로 변경하시겠습니까? <a href="/help/marketo/product-docs/administration/users-and-roles/managing-user-roles-and-permissions.md" target="_blank">다른 역할?</a></li> 
