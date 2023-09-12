@@ -4,7 +4,7 @@ title: 대화 흐름 개요
 hide: true
 hidefromtoc: true
 feature: Dynamic Chat
-source-git-commit: 04359fc2bb395d442bb5215118d71de59a881749
+source-git-commit: 2f5b79e9fb0340dd1ed65b00f2ec3ac487b7b7ca
 workflow-type: tm+mt
 source-wordcount: '343'
 ht-degree: 0%
@@ -21,7 +21,7 @@ ht-degree: 0%
 
 대화 상자 및 대화 흐름에는 몇 가지 유사성이 있지만 두 가지 별개의 기능입니다.
 
-<table style="table-layout:auto"> 
+<table> 
  <tbody> 
   <tr> 
    <th style="width:50%">대화 상자</th> 

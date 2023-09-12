@@ -4,9 +4,9 @@ title: 대상 기준
 hide: true
 hidefromtoc: true
 feature: Dynamic Chat
-source-git-commit: 04359fc2bb395d442bb5215118d71de59a881749
+source-git-commit: 2f5b79e9fb0340dd1ed65b00f2ec3ac487b7b7ca
 workflow-type: tm+mt
-source-wordcount: '570'
+source-wordcount: '569'
 ht-degree: 2%
 
 ---
@@ -17,7 +17,7 @@ ht-degree: 2%
 
 ## 우선 순위 {#priority}
 
-우선 순위는 잠재 고객이 두 개 이상의 자격이 있는 경우 받을 대화 상자를 결정합니다. 처음 시작했을 때 설정됩니다. [대화 상자 만들기](/help/marketo/product-docs/demand-generation/dynamic-chat/dialogues/create-a-dialogue.md){target="_blank"}. 기존 대화 상자를 열고 로 이동하여 대화 상자의 우선 순위를 변경할 수 있습니다. **대화 상자 세부 정보** 대상 기준 탭에서.
+우선 순위는 잠재 고객이 두 개 이상의 자격이 있는 경우 받을 대화 상자를 결정합니다. 처음 시작했을 때 설정됩니다. [대화 상자 만들기](/help/marketo/product-docs/demand-generation/dynamic-chat-two/automated-chat/create-a-dialogue.md){target="_blank"}. 기존 대화 상자를 열고 로 이동하여 대화 상자의 우선 순위를 변경할 수 있습니다. **대화 상자 세부 정보** 대상 기준 탭에서.
 
 ![](assets/audience-criteria-1.png)
 
@@ -87,7 +87,7 @@ ht-degree: 2%
 
    >[!NOTE]
    >
-   >누군가가 귀하의 웹 사이트를 방문할 때, [먼치킨](/help/marketo/product-docs/administration/additional-integrations/add-munchkin-tracking-code-to-your-website.md) 쿠키를 만들어 시스템에 넣습니다. 우리는 특별한 데이터베이스에서 그들의 IP를 찾고 모든 종류의 좋은 정보를 추론한다.
+   >누군가가 귀하의 웹 사이트를 방문할 때, [먼치킨](/help/marketo/product-docs/administration/additional-integrations/add-munchkin-tracking-code-to-your-website.md){target="_blank"} 쿠키를 만들어 시스템에 넣습니다. 우리는 특별한 데이터베이스에서 그들의 IP를 찾고 모든 종류의 좋은 정보를 추론한다.
 
 1. _다음과 같음_ 는 기본적으로 설정되어 있습니다. 값 선택 필드에 NY를 입력합니다(드롭다운을 클릭하고 목록에서 선택할 수도 있음).
 
@@ -136,7 +136,5 @@ ht-degree: 2%
 
 >[!MORELIKETHIS]
 >
->* [대화 상자 만들기](/help/marketo/product-docs/demand-generation/dynamic-chat/dialogues/create-a-dialogue.md){target="_blank"}
->* [스트림 디자이너](/help/marketo/product-docs/demand-generation/dynamic-chat/dialogues/stream-designer.md){target="_blank"}
->* [보고서](/help/marketo/product-docs/demand-generation/dynamic-chat/dialogues/reports.md){target="_blank"}
-
+>* [대화 상자 만들기](/help/marketo/product-docs/demand-generation/dynamic-chat-two/automated-chat/create-a-dialogue.md){target="_blank"}
+>* [스트림 디자이너](/help/marketo/product-docs/demand-generation/dynamic-chat-two/automated-chat/stream-designer.md){target="_blank"}

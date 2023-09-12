@@ -4,7 +4,7 @@ title: Adobe PDF 임베드 API
 hide: true
 hidefromtoc: true
 feature: Dynamic Chat
-source-git-commit: ea9e02d9ad52991757f137c7c2b549b98f139ba5
+source-git-commit: 2f5b79e9fb0340dd1ed65b00f2ec3ac487b7b7ca
 workflow-type: tm+mt
 source-wordcount: '139'
 ht-degree: 5%
@@ -45,5 +45,5 @@ ht-degree: 5%
 
    ![](assets/adobe-pdf-embed-api-6.png)
 
-이제 대화 상자에서 문서 카드를 사용할 수 있습니다. [스트림 디자이너](/help/marketo/product-docs/demand-generation/dynamic-chat/dialogues/stream-designer.md)!
+이제 대화 상자에서 문서 카드를 사용할 수 있습니다. [스트림 디자이너](/help/marketo/product-docs/demand-generation/dynamic-chat-two/automated-chat/stream-designer.md){target="_blank"}!
 

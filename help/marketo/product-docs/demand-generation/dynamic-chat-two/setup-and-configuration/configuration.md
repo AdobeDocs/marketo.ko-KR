@@ -4,7 +4,7 @@ title: 구성
 hide: true
 hidefromtoc: true
 feature: Dynamic Chat
-source-git-commit: ea9e02d9ad52991757f137c7c2b549b98f139ba5
+source-git-commit: 2f5b79e9fb0340dd1ed65b00f2ec3ac487b7b7ca
 workflow-type: tm+mt
 source-wordcount: '319'
 ht-degree: 1%
@@ -29,7 +29,7 @@ ht-degree: 1%
 
 여기에서 색상, 글꼴, 보트 위젯의 배치, 챗봇의 이름/아바타 등 대화 상자가 표시되는 챗봇의 모양과 느낌을 정의할 수 있습니다.
 
-각 카테고리의 색상은 다음에 의해 결정됩니다. [16진수 색상 값](https://color.adobe.com/create/color-wheel) (예: 흰색 = #ffffff, 빨간색 = #bf1932 등).
+각 카테고리의 색상은 다음에 의해 결정됩니다. [16진수 색상 값](https://color.adobe.com/create/color-wheel){target="_blank"} (예: 흰색 = #ffffff, 빨간색 = #bf1932 등).
 
 ![](assets/configuration-3.png)
 

@@ -4,7 +4,7 @@ title: 채팅 사용자 추가 또는 제거
 hide: true
 hidefromtoc: true
 feature: Dynamic Chat
-source-git-commit: ea9e02d9ad52991757f137c7c2b549b98f139ba5
+source-git-commit: 2f5b79e9fb0340dd1ed65b00f2ec3ac487b7b7ca
 workflow-type: tm+mt
 source-wordcount: '233'
 ht-degree: 0%
@@ -17,7 +17,7 @@ ht-degree: 0%
 
 ## 채팅 사용자 추가 {#add-a-chat-user}
 
-1. 에 로그인합니다 [Adobe Admin Console](https://adminconsole.adobe.com/).
+1. 에 로그인합니다 [Adobe Admin Console](https://adminconsole.adobe.com/){target="_blank"}.
 
    ![](assets/add-or-remove-chat-users-1.png)
 
@@ -71,7 +71,7 @@ ht-degree: 0%
 
 ## 채팅 사용자 제거 {#remove-a-chat-user}
 
-1. 에 로그인합니다 [Adobe Admin Console](https://adminconsole.adobe.com/).
+1. 에 로그인합니다 [Adobe Admin Console](https://adminconsole.adobe.com/){target="_blank"}.
 
    ![](assets/add-or-remove-chat-users-12.png)
 
@@ -101,5 +101,5 @@ ht-degree: 0%
 
 >[!MORELIKETHIS]
 >
->* [Adobe Admin Console 사용자](https://helpx.adobe.com/enterprise/using/users.html)
->* [개별적으로 사용자 관리](https://helpx.adobe.com/enterprise/using/manage-users-individually.html)
+>* [Adobe Admin Console 사용자](https://helpx.adobe.com/enterprise/using/users.html){target="_blank"}
+>* [개별적으로 사용자 관리](https://helpx.adobe.com/enterprise/using/manage-users-individually.html){target="_blank"}
