@@ -4,9 +4,9 @@ title: Dynamic Chat 개요
 hide: true
 hidefromtoc: true
 feature: Dynamic Chat
-source-git-commit: 6682ff8611c0be30599b7bb6f516f9d7ba7ba926
+source-git-commit: a4fe70e1a95ff382499800049f161d1ad7dec7ab
 workflow-type: tm+mt
-source-wordcount: '658'
+source-wordcount: '627'
 ht-degree: 1%
 
 ---
@@ -14,10 +14,6 @@ ht-degree: 1%
 # Dynamic Chat 개요 {#dynamic-chat-overview}
 
 Dynamic Chat을 사용하면 사용하기 쉬운 인터페이스를 활용하여 웹 사이트를 방문하는 사용자와 계정을 모두 타겟팅할 수 있습니다. 이름, 연락처 정보 및 자유 텍스트와 같은 관련 콘텐츠를 수집합니다. 사이트 방문자는 영업 팀과의 회의를 예약할 수도 있습니다. Dynamic Chat 활동 및 참여 데이터를 사용하여 Marketo 프로그램에 멤버를 추가하고 크로스 채널 활동을 트리거할 수 있습니다.
-
->[!NOTE]
->
->Dynamic Chat은 점진적으로 롤아웃되는 과정에 있으며 현재 가용성이 제한되어 있습니다. 이 페이지는 사용 가능한 GA(일반 가용성) 세부 사항으로 업데이트됩니다.
 
 >[!TIP]
 >
