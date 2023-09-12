@@ -4,9 +4,9 @@ title: Forms Marketo Engage에 대한 대화 흐름 설정
 hide: true
 hidefromtoc: true
 feature: Dynamic Chat
-source-git-commit: 720215ea958206931413f2d273a4a058bc051579
+source-git-commit: 49421ecf7f8cec6fb94bc138969c0a43b8832537
 workflow-type: tm+mt
-source-wordcount: '181'
+source-wordcount: '189'
 ht-degree: 0%
 
 ---
@@ -21,7 +21,7 @@ Marketo Engage Forms을 Dynamic Chat 대화 흐름과 통합하여 대화형으�
 
 >[!AVAILABILITY]
 >
->스마트 목록 구성원 또는 목록 구성원 기준에는 Dynamic Chat Prime이 필요합니다. Adobe 계정 팀!!!!!!!!!!!!!!
+>스마트 목록 구성원 또는 목록 구성원 기준에는 Dynamic Chat Prime이 필요합니다. 자세한 내용은 Adobe 계정 팀(계정 관리자)에 문의하십시오.
 
 1. 양식을 찾아서 선택합니다(또는 새 양식을 만듭니다).
 

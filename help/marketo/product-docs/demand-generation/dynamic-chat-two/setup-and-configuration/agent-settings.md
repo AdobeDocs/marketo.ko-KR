@@ -4,9 +4,9 @@ title: 에이전트 설정
 hide: true
 hidefromtoc: true
 feature: Dynamic Chat
-source-git-commit: d22849c01d55dc4c5bca30cbd39bfe66bfaeb473
+source-git-commit: 49421ecf7f8cec6fb94bc138969c0a43b8832537
 workflow-type: tm+mt
-source-wordcount: '479'
+source-wordcount: '476'
 ht-degree: 2%
 
 ---
@@ -83,7 +83,7 @@ Google으로 구성하면 Dynamic Chat에 대한 다음 권한이 부여됩니�
 
 ![](assets/agent-settings-5.png)
 
-앱에 로그인하면 수신 채팅에 대한 인앱 알림을 받게 됩니다. 로그인하지 않은 경우 브라우저 알림(Google Chrome)이 표시됩니다.
+앱에 로그인하면 수신 채팅에 대한 인앱 알림을 받게 됩니다. 로그인하지 않은 경우 브라우저 알림을 받게 됩니다.
 
 >[!IMPORTANT]
 >

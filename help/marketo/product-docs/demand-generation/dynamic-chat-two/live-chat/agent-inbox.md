@@ -4,9 +4,9 @@ title: 에이전트 받은 편지함
 hide: true
 hidefromtoc: true
 feature: Dynamic Chat
-source-git-commit: d22849c01d55dc4c5bca30cbd39bfe66bfaeb473
+source-git-commit: 49421ecf7f8cec6fb94bc138969c0a43b8832537
 workflow-type: tm+mt
-source-wordcount: '319'
+source-wordcount: '367'
 ht-degree: 1%
 
 ---
@@ -25,17 +25,24 @@ ht-degree: 1%
 
 >[!IMPORTANT]
 >
->**재정의합니다.** 다음 [라이브 채팅 가용성](/help/marketo/product-docs/demand-generation/dynamic-chat-two/setup-and-configuration/agent-settings.md#live-chat-availability) 에이전트 설정에서 을(를) 설정했습니다. 상태를 다시 전환하거나 사용 가능한 다음 시간 블록으로 전환할 때까지 유지됩니다.
+>**재정의합니다.** 다음 [라이브 채팅 가용성](/help/marketo/product-docs/demand-generation/dynamic-chat-two/setup-and-configuration/agent-settings.md#live-chat-availability){target="_blank"} 에이전트 설정에서 을(를) 설정했습니다. 상태를 다시 전환하거나 사용 가능한 다음 시간 블록으로 전환할 때까지 유지됩니다.
 
 >[!NOTE]
 >
 >상태를 사용할 수 없음으로 설정하면 활성 채팅에 영향을 주지 않습니다.
 
-## 라이브 채팅 수락 {#accepting-a-live-chat}
+## 라이브 채팅 알림 {#live-chat-notifications}
 
 실시간 채팅이 에이전트에게 라우팅되면 화면 맨 위에 수락하라는 파란색 배너가 표시됩니다.
 
 ![](assets/agent-inbox-3.png)
+
+>[!TIP]
+>
+>또한 Dynamic Chat 알림을 설정할 수 있는 옵션도 있습니다. 이 옵션은 브라우저에 로그인하지 않은 경우 알림을 제공합니다.
+>
+>* 에서 브라우저 알림 활성화 [Google 크롬](https://support.google.com/chrome/answer/3220216?hl=en&amp;co=GENIE.Platform%3DDesktop){target="_blank"}
+>* 에서 브라우저 알림 활성화 [Mozilla Firefox](https://support.mozilla.org/en-US/kb/push-notifications-firefox){target="_blank"}
 
 ### 참고할 사항 {#things-to-note}
 

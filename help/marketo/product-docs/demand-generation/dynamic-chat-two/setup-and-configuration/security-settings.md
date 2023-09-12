@@ -4,9 +4,9 @@ title: 보안 설정
 hide: true
 hidefromtoc: true
 feature: Dynamic Chat
-source-git-commit: 720215ea958206931413f2d273a4a058bc051579
+source-git-commit: 49421ecf7f8cec6fb94bc138969c0a43b8832537
 workflow-type: tm+mt
-source-wordcount: '63'
+source-wordcount: '109'
 ht-degree: 0%
 
 ---
@@ -19,11 +19,15 @@ ht-degree: 0%
 
 ## 차단된 이메일 도메인 {#blocked-email-domains}
 
+에이전트와 상호 작용하지 않으려는 이메일 도메인을 사용하는 방문자(예: 경쟁업체)가 있는 경우 해당 이메일 도메인을 차단 목록에 추가하다에 추가합니다.
+
 1. 다음 항목 선택 **유효성 검사 활성화** 차단 목록에 추가하다 슬라이더를 활성화하십시오. 최대 50개의 도메인을 입력하고 **저장**.
 
    ![](assets/security-settings-2.png)
 
 ## 허용된 도메인 {#allowed-domains}
+
+허용된 도메인을 추가하면 타사에서 사이트에서 Javascript를 스크랩하여 자신의 사이트에 추가할 수 없습니다.
 
 1. 다음 항목 선택 **유효성 검사 활성화** 허용 목록에 추가하다 슬라이더를 활성화하십시오. 허용된 도메인을 입력하고 을(를) 클릭합니다 **저장**.
 
