@@ -3,9 +3,9 @@ description: 현재 릴리스 정보 - Marketo 설명서 - 제품 설명서
 title: 최신 릴리스 정보
 exl-id: a2eccad5-73ad-48f9-8091-51cee23824e1
 feature: Release Information
-source-git-commit: 61aa38883d62523449aed77d1dbd2e30f1d31038
+source-git-commit: d84a1183938238a79c5aba61005ae07f7fd902a1
 workflow-type: tm+mt
-source-wordcount: '942'
+source-wordcount: '951'
 ht-degree: 2%
 
 ---
@@ -328,6 +328,6 @@ ht-degree: 2%
 
 ## 공지 {#announcements}
 
-* **Design Studio Assets의 스위치 사용 중단 전환**: 사용자가 Design Studio의 클래식 인터페이스와 최신 UX 경험 사이를 전환할 수 있는 토글 스위치는 이전 버전의 Design Studio 경험과 함께 사용되지 않으며, 따라서 사용자가 최신 UX 경험으로 완전히 마이그레이션할 수 있습니다.
+* **Design Studio Assets의 스위치 사용 중단 전환**: 사용자가 Design Studio의 클래식 인터페이스와 최신 UX 경험 사이를 전환할 수 있는 토글 스위치는 이전 버전의 Design Studio 경험과 함께 사용되지 않으며, 따라서 사용자가 최신 UX 경험으로 완전히 마이그레이션할 수 있습니다. [여기에서 자세히 알아보기](https://nation.marketo.com/t5/the-next-generation-experience/adobe-marketo-engage-switch-to-modern-experience-for-all-design/ba-p/339411){target="_blank"}.
 
 * **_제품 릴리스 웨비나_**: 2023년 9월 6일 오전 9시(PT 기준) / 오후 12시(ET 기준) [라이브 웨비나](https://engage.marketo.com/2023_July_September_Release_Webinar_RegistrationPage.html){target="_blank"} 제품 팀에서 호스팅하며 최신 제품 혁신을 모두 사용하는 방법에 대해 알아봅니다.

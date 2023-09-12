@@ -4,9 +4,9 @@ title: 최신 릴리스 정보 테스트
 hide: true
 hidefromtoc: true
 feature: Release Information
-source-git-commit: 83f9cc2c59815a3df171d703d7069973de325909
+source-git-commit: d84a1183938238a79c5aba61005ae07f7fd902a1
 workflow-type: tm+mt
-source-wordcount: '1209'
+source-wordcount: '1212'
 ht-degree: 2%
 
 ---
@@ -117,11 +117,9 @@ ht-degree: 2%
 
 * 추가 공간
 
-* 테스트 종료... 당분간
-
 * **Design Studio 에셋의 개수 열에서 사용됨**:
 
-<table> 
+<table width="400">
   <tr> 
    <td><b>상태</b></td>
    <td><b>설명서 업데이트 정보</b></td>
@@ -135,7 +133,7 @@ ht-degree: 2%
 
 * **Design Studio 에셋의 향상된 탭에서 사용됨**: 기능에서 사용 탭은 에셋이 사용되는 위치와 함께 에셋의 유형 및 이름에 대한 자세한 보기를 제공합니다. 이메일 세부 정보 및 이미지 및 파일 세부 정보에 적용됩니다.
 
-<table> 
+<table width="400px">
   <tr> 
    <td><b>상태</b></td>
    <td><b>설명서 업데이트 정보</b></td>
@@ -146,6 +144,12 @@ ht-degree: 2%
   </tr>
   </tbody>
 </table>
+
+* 공간
+
+* 추가 공간
+
+* 테스트 종료... 당분간
 
 * **계산 공식 플로우 단계 서비스**: Compute Formula는 Marketo Engage 스마트 캠페인과 함께 사용할 수 있도록 Adobe의 IO Runtime 플랫폼에 구축된 흐름 단계 서비스입니다. IO 런타임을 사용하는 Adobe 클라이언트는 서비스를 배포하고 Marketo Engage 구독에 설치하여 Marketo 스마트 캠페인에서 Excel과 유사한 공식을 계산할 수 있습니다.
 
