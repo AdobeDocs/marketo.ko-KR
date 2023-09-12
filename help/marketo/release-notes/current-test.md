@@ -4,10 +4,10 @@ title: 최신 릴리스 정보 테스트
 hide: true
 hidefromtoc: true
 feature: Release Information
-source-git-commit: 5a46493d1d9f1a56d574f62ce1d316a6238ee870
+source-git-commit: bca573d47314ce8017cbe8a3834c01618ccf601f
 workflow-type: tm+mt
-source-wordcount: '901'
-ht-degree: 0%
+source-wordcount: '897'
+ht-degree: 1%
 
 ---
 
@@ -70,7 +70,7 @@ ht-degree: 0%
 ## 애자일 릴리스 기능 {#agile-release-features}
 
 아래의 모든 기능은 애자일 형식을 따르며, 표준 릴리스 날짜 이전 또는 이후의 다양한 날짜에 릴리스됩니다. 각 기능 옆에 있는 상태를 확인하십시오.
-</br>
+
 <table style="border: none">
  <tbody> 
   <tr> 
@@ -97,8 +97,8 @@ ht-degree: 0%
   </tr> 
   <tr> 
    <td><strong>스트림 디자이너의 작업 카드</strong>: 마케터는 방문자가 대화 상자를 사용할 때 대화 상자의 작업 카드를 사용하여 숨겨진 값을 Marketo Engage 사용자 레코드에 전달할 수 있습니다.</td> 
-   <td><i>곧 출시 예정</i></td>
-   <td><i>곧 출시 예정</i></td>
+   <td>배송됨</td>
+   <td><a href="/help/marketo/product-docs/demand-generation/dynamic-chat-two/automated-chat/stream-designer.md#stream-designer-cards" target="_blank">스트림 디자이너 카드</a></td>
   </tr>
    <tr> 
    <td> </td> 
@@ -107,8 +107,8 @@ ht-degree: 0%
   </tr>
    <tr> 
    <td><strong>Marketo Engage Forms을 사용한 대화형 Forms</strong>: Marketo Engage Forms을 Dynamic Chat 대화 흐름과 통합하여 대화형으로 만듭니다. 양식 데이터 또는 스마트 목록 멤버십을 사용하여 모임 예약, 백서 링크 또는 사용자 정의 목표에 대한 잠재 고객의 자격을 즉시 부여합니다.</td> 
-   <td><i>곧 출시 예정</i></td>
-   <td><i>곧 출시 예정</i></td>
+   <td>배송됨</td>
+   <td><a href="/help/marketo/product-docs/demand-generation/dynamic-chat-two/automated-chat/conversational-flow-settings-for-marketo-engage-forms.md" target="_blank">대화 양식</a></td>
   </tr>
    <tr> 
    <td> </td> 
@@ -117,8 +117,8 @@ ht-degree: 0%
   </tr>
     <tr> 
    <td><strong>대화 SDK</strong>: 모든 양식, 랜딩 페이지 또는 거의 모든 웹 페이지를 매력적인 회의 예약 경험으로 전환합니다.</td> 
-   <td><i>곧 출시 예정</i></td>
-   <td><i>곧 출시 예정</i></td>
+   <td>배송됨</td>
+   <td><a href="/help/marketo/product-docs/demand-generation/dynamic-chat-two/automated-chat/conversational-flow-overview.md#conversations-sdk" target="_blank">대화 SDK</a></td>
   </tr>
    <tr> 
    <td> </td> 
@@ -127,8 +127,8 @@ ht-degree: 0%
   </tr>
   <tr> 
    <td><strong>사용자 지정 모임 예약 설정</strong>: 에이전트는 가용성, 모임 길이 및 모임 간 '버퍼 시간'과 같은 사용자 지정 모임 예약 설정을 설정할 수 있습니다.</td> 
-   <td><i>곧 출시 예정</i></td>
-   <td><i>곧 출시 예정</i></td>
+   <td>배송됨</td>
+   <td><a href="/help/marketo/product-docs/demand-generation/dynamic-chat-two/setup-and-configuration/agent-settings.md#meeting-booking-availability" target="_blank">사용자 지정 모임 예약 설정</a></td>
   </tr>
    <tr> 
    <td> </td> 
@@ -137,8 +137,8 @@ ht-degree: 0%
   </tr>
    <tr> 
    <td><strong>대체 설정</strong>: 관리자는 사용자 지정 대체 설정을 설정하여 에이전트를 채팅할 수 없을 때 방문자가 보게 되는 내용을 정의할 수 있습니다.</td> 
-   <td><i>곧 출시 예정</i></td>
-   <td><i>곧 출시 예정</i></td>
+   <td>배송됨</td>
+   <td><a href="/help/marketo/product-docs/demand-generation/dynamic-chat-two/setup-and-configuration/agent-management.md#fallback-rules" target="_blank">대체 규칙</a></td>
   </tr>
    <tr> 
    <td> </td> 
@@ -147,8 +147,8 @@ ht-degree: 0%
   </tr>
     <tr> 
    <td><strong>전역 성능 대시보드</strong>: 참여 및 성과 지표(합계 및 시간 초과), 성과가 가장 높은 페이지 및 성과가 가장 높은 대화 상자를 포함하여 대화 상자의 성과를 확인합니다.</td> 
-   <td><i>곧 출시 예정</i></td>
-   <td><i>곧 출시 예정</i></td>
+   <td>배송됨</td>
+   <td><a href="/help/marketo/product-docs/demand-generation/dynamic-chat-two/analytics.md#global-performance-dashboard" target="_blank">전역 성능 대시보드</a></td>
   </tr>
    <tr> 
    <td> </td> 
@@ -157,8 +157,8 @@ ht-degree: 0%
   </tr>
    <tr> 
    <td><strong>라이브 채팅</strong>: 웹 방문자는 판매 에이전트와 실시간으로 채팅하여 질문에 대한 답변을 얻을 수 있습니다.</td> 
-   <td><i>곧 출시 예정</i></td>
-   <td><i>곧 출시 예정</i></td>
+   <td>배송됨</td>
+   <td><a href="/help/marketo/product-docs/demand-generation/dynamic-chat-two/live-chat/live-chat-overview.md" target="_blank">라이브 채팅 개요</a></td>
   </tr>
    <tr> 
    <td> </td> 
@@ -167,8 +167,8 @@ ht-degree: 0%
   </tr>
    <tr> 
    <td><strong>라이브 채팅 성능 대시보드</strong>: 라이브 판매 에이전트가 수행한 대화의 수와 가장 성과가 좋은 팀을 확인합니다.</td> 
-   <td><i>곧 출시 예정</i></td>
-   <td><i>곧 출시 예정</i></td>
+   <td>배송됨</td>
+   <td><a href="/help/marketo/product-docs/demand-generation/dynamic-chat-two/analytics.md#live-chat-performance-dashboard" target="_blank">라이브 채팅 성능 대시보드</a></td>
   </tr>
    <tr> 
    <td> </td> 
@@ -177,8 +177,8 @@ ht-degree: 0%
   </tr>
     <tr> 
    <td><strong>Marketo Engage 스마트 목록 타깃팅</strong>: 마케터는 대화 상자 대상 기준에서 Marketo Engage 스마트 목록 구성원을 타깃팅할 수 있습니다.</td> 
-   <td><i>곧 출시 예정</i></td>
-   <td><i>곧 출시 예정</i></td>
+   <td>배송됨</td>
+   <td><a href="/help/marketo/product-docs/demand-generation/dynamic-chat-two/automated-chat/audience-criteria.md#membership" target="_blank">멤버십</a></td>
   </tr>
    <tr> 
    <td> </td> 
@@ -187,8 +187,8 @@ ht-degree: 0%
   </tr>
   <tr> 
    <td><strong>모임 성과 대시보드</strong>: 예약되는 회의 수와 예약되는 사람을 확인합니다.</td> 
-   <td><i>곧 출시 예정</i></td>
-   <td><i>곧 출시 예정</i></td>
+   <td>배송됨</td>
+   <td><a href="/help/marketo/product-docs/demand-generation/dynamic-chat-two/analytics.md#meeting-performance-dashboard" target="_blank">모임 성과 대시보드</a></td>
   </tr>
    <tr> 
    <td> </td> 
@@ -197,8 +197,8 @@ ht-degree: 0%
   </tr>
    <tr> 
    <td><strong>새 Dynamic Chat 활동</strong>: 대화 흐름, 라이브 채팅 및 기타 새로운 기능을 지원하는 새로운 활동.</td> 
-   <td><i>곧 출시 예정</i></td>
-   <td><i>곧 출시 예정</i></td>
+   <td>배송됨</td>
+   <td><a href="/help/marketo/product-docs/demand-generation/dynamic-chat-two/dynamic-chat-activities.md" target="_blank">Dynamic Chat 활동</a></td>
   </tr>
    <tr> 
    <td> </td> 
@@ -207,8 +207,8 @@ ht-degree: 0%
   </tr>
     <tr> 
    <td><strong>실시간 라이브 채팅 알림</strong>: 방문자가 라이브 채팅을 요청하면 에이전트는 실시간 인앱 및 브라우저 알림을 받습니다.</td> 
-   <td><i>곧 출시 예정</i></td>
-   <td><i>곧 출시 예정</i></td>
+   <td>배송됨</td>
+   <td><a href="/help/marketo/product-docs/demand-generation/dynamic-chat-two/live-chat/agent-inbox.md#live-chat-notifications" target="_blank">라이브 채팅 알림</a></td>
   </tr>
   <tr> 
    <td> </td> 
@@ -217,8 +217,8 @@ ht-degree: 0%
   </tr>
     <tr> 
    <td><strong>팀</strong>: 방문자를 실시간 채팅 또는 모임 예약을 위해 라우팅할 수 있는 에이전트 팀을 만듭니다.</td> 
-   <td><i>곧 출시 예정</i></td>
-   <td><i>곧 출시 예정</i></td>
+   <td>배송됨</td>
+   <td><a href="/help/marketo/product-docs/demand-generation/dynamic-chat-two/setup-and-configuration/agent-management.md#teams" target="_blank">팀</a></td>
   </tr>
   <tr> 
    <td> </td> 
@@ -227,8 +227,8 @@ ht-degree: 0%
   </tr>
     <tr> 
    <td><strong>새 활동에 대한 트리거 토큰</strong>: Dynamic Chat을 위한 새 활동을 지원하는 데 새 트리거 토큰을 사용할 수 있습니다.</td> 
-   <td><i>곧 출시 예정</i></td>
-   <td><i>곧 출시 예정</i></td>
+   <td>배송됨</td>
+   <td><a href="/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/features/tabs-in-the-msi-panel/interesting-moments/trigger-tokens-for-interesting-moments.md#dynamic-chat-trigger-tokens" target="_blank">Dynamic Chat 트리거 토큰</a></td>
   </tr>
   <tr> 
    <td> </td> 
