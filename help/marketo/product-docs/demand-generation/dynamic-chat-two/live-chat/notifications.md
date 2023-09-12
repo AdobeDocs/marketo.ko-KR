@@ -4,13 +4,19 @@ title: 알림
 hide: true
 hidefromtoc: true
 feature: Dynamic Chat
-source-git-commit: 89c7cfb987196ebb83bada4a6ba44c760ab83ee4
+source-git-commit: c2a3e2915c8a205f03c4bf578e6b2479af1206b3
 workflow-type: tm+mt
-source-wordcount: '12'
-ht-degree: 16%
+source-wordcount: '14'
+ht-degree: 14%
 
 ---
 
 # 알림 {#notifications}
 
-앱의 브라우저 MSI 작업
+곧 출시 예정
+
+브라우저
+
+인앱
+
+MSI 작업
