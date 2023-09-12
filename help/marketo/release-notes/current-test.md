@@ -4,7 +4,7 @@ title: 최신 릴리스 정보 테스트
 hide: true
 hidefromtoc: true
 feature: Release Information
-source-git-commit: bca573d47314ce8017cbe8a3834c01618ccf601f
+source-git-commit: 8c0a62806d6ef24e75d1e6e2eafe2640a3ebb6e5
 workflow-type: tm+mt
 source-wordcount: '897'
 ht-degree: 1%
@@ -22,6 +22,7 @@ ht-degree: 1%
 ## 표준 릴리스 주기 기능 {#standard-release-cycle-features}
 
 다음 기능은 표준 릴리스 주기에 해당하고 다음부터 릴리스됩니다. **2023년 9월 8일**: 이후 몇 주 동안 나머지 기능에 대한 단계별 롤아웃 포함. 릴리스 기능 및 날짜는 변경될 수 있습니다. 각 기능 옆에 있는 상태를 확인하십시오.
+
 <table style="table-layout:auto"> 
  <tbody> 
   <tr> 
@@ -85,6 +86,7 @@ ht-degree: 1%
   </tr>
  </tbody> 
 </table>
+</br>
 
 ### Dynamic Chat {#dynamic-chat}
 
