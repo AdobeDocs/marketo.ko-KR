@@ -4,9 +4,9 @@ title: 에이전트 설정
 hide: true
 hidefromtoc: true
 feature: Dynamic Chat
-source-git-commit: 04359fc2bb395d442bb5215118d71de59a881749
+source-git-commit: 5c99dd3394ad09a48b5adbb022a9c4e63b619c81
 workflow-type: tm+mt
-source-wordcount: '482'
+source-wordcount: '486'
 ht-degree: 2%
 
 ---
@@ -64,7 +64,7 @@ Google으로 구성하면 Dynamic Chat에 대한 다음 권한이 부여됩니�
  <tbody> 
   <tr> 
    <td><b>회의 기간</b></td>
-   <td>최대 모임 길이. 무슨 일이 일어나죠? 확대/축소처럼 자동 정지</td>
+   <td>방문자가 사용 가능한 모임 슬롯에서 볼 수 있는 시간을 결정합니다.</td>
   </tr> 
   <tr> 
    <td><b>회의 간 여유 시간</b></td>
