@@ -3,7 +3,7 @@ description: 릴리스 노트 - 2023년 1월 - Marketo 설명서 - 제품 설명
 title: 릴리스 노트 - 2023년 1월
 exl-id: 584f74e5-ed0a-4f2f-9a1e-93cb8804dec8
 feature: Release Information
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: a977597ccf15520bae32a4b65538a55c3930f36a
 workflow-type: tm+mt
 source-wordcount: '637'
 ht-degree: 3%
@@ -142,7 +142,7 @@ ht-degree: 3%
   </tr>
   <tr> 
    <td>배송됨</td>
-   <td><a href="/help/marketo/product-docs/demand-generation/dynamic-chat/appointment-scheduling/calendar.md">캘린더</a></td>
+   <td><a href="/help/marketo/product-docs/demand-generation/dynamic-chat/setup-and-configuration/agent-settings.md">캘린더</a></td>
   </tr>
   </tbody>
 </table>
@@ -184,7 +184,7 @@ ht-degree: 3%
   </tr>
   <tr> 
    <td>배송됨</td>
-   <td><a href="/help/marketo/product-docs/demand-generation/dynamic-chat/appointment-scheduling/meetings.md">회의</a></td>
+   <td><a href="/help/marketo/product-docs/demand-generation/demand-generation/dynamic-chat/meeting-list.md">회의</a></td>
   </tr>
   </tbody>
 </table>
