@@ -2,7 +2,7 @@
 description: 대화 흐름 만들기 - Marketo 문서 - 제품 설명서
 title: 대화 흐름 만들기
 feature: Dynamic Chat
-source-git-commit: 9a8f6fe57b585ba0eac6a577bf99e0419d8818a1
+source-git-commit: 78ca35c105be2fd437da2f783388d5bfaced8c70
 workflow-type: tm+mt
 source-wordcount: '90'
 ht-degree: 0%
@@ -25,9 +25,9 @@ ht-degree: 0%
 
    ![](assets/create-a-conversational-flow-3.png)
 
->[!NOTE]
->
->이렇게 하면 시스템 텍스트의 언어만 변경됩니다. 콘텐츠 번역은 사용자가 담당합니다.
+   >[!NOTE]
+   >
+   >이렇게 하면 시스템 텍스트의 언어만 변경됩니다. 콘텐츠 번역은 사용자가 담당합니다.
 
 1. 대화 상자에서와 마찬가지로, 이 시점에서 다음을 수행할 때입니다. [스트림 만들기](/help/marketo/product-docs/demand-generation/dynamic-chat/automated-chat/stream-designer.md#create-a-stream){target="_blank"}.
 
