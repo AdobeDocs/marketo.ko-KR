@@ -3,7 +3,7 @@ description: 릴리스 노트 - 2022년 8월 - Marketo 문서 - 제품 설명서
 title: 릴리스 노트 - 2022년 8월
 exl-id: 7a224fa7-0aec-4d0d-9535-c35241a45654
 feature: Release Information
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 206952c2aaa9b568a9312def6d36b15f699791b3
 workflow-type: tm+mt
 source-wordcount: '530'
 ht-degree: 0%
@@ -20,11 +20,11 @@ ht-degree: 0%
 
 다음 기능은에 대한 단계별 롤아웃을 시작했습니다. **2022년 8월 26일**.
 
-## 크로스 채널 오케스트레이션 {#cross-channel-orchestration}
+## 크로스 채널 오케스트레이션 {#cross-channel-orchestration}
 
-* **[게시된 모든 대화 상자를 한 번에 활성화/비활성화하여 Dynamic Chat](/help/marketo/product-docs/demand-generation/dynamic-chat/dialogues/dialogue-overview.md#disable-enable-all-dialogues){target="_blank"}**: 구성 페이지에서 버튼을 한 번 눌러 게시된 모든 대화 상자를 전체적으로 한 번에 활성화/비활성화합니다.
+* **[게시된 모든 대화 상자를 한 번에 활성화/비활성화하여 Dynamic Chat](/help/marketo/product-docs/demand-generation/dynamic-chat/automated-chat/dialogue-overview.md#disable-enable-all-dialogues){target="_blank"}**: 구성 페이지에서 버튼을 한 번 눌러 게시된 모든 대화 상자를 전체적으로 한 번에 활성화/비활성화합니다.
 
-* **[Dynamic Chat을 위한 사용자 지정 아바타](/help/marketo/product-docs/demand-generation/dynamic-chat/configuration.md#agent-settings){target="_blank"}**: 사용자 지정 챗봇 아바타를 업로드하여 내 브랜드에 맞게 개인화할 수 있습니다.
+* **[Dynamic Chat을 위한 사용자 지정 아바타](/help/marketo/product-docs/demand-generation/dynamic-chat/setup-and-configuration/configuration.md#agent-settings){target="_blank"}**: 사용자 지정 챗봇 아바타를 업로드하여 내 브랜드에 맞게 개인화할 수 있습니다.
 
 * **Dynamic Chat 채팅 대본**: 모든 대화에 대한 채팅 기록을 확인하여 각 웹 방문자의 관심사에 대한 자세한 통찰력을 얻으십시오.
 

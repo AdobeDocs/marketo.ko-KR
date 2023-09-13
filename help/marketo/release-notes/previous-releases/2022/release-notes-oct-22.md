@@ -3,7 +3,7 @@ description: 릴리스 노트 - 2022년 10월 - Marketo 설명서 - 제품 설�
 title: 릴리스 노트 - 2022년 10월
 exl-id: 1494b8b9-049c-4969-ab95-a4be41d886b0
 feature: Release Information
-source-git-commit: a977597ccf15520bae32a4b65538a55c3930f36a
+source-git-commit: 206952c2aaa9b568a9312def6d36b15f699791b3
 workflow-type: tm+mt
 source-wordcount: '600'
 ht-degree: 2%
@@ -154,7 +154,7 @@ ht-degree: 2%
   </tr>
   <tr> 
    <td>배송됨</td>
-   <td><a href="/help/marketo/product-docs/demand-generation/dynamic-chat/automated-chat/stream-designer#stream-designer-icons">스트림 디자이너 아이콘</a></td>
+   <td><a href="/help/marketo/product-docs/demand-generation/dynamic-chat/automated-chat/stream-designer.md#stream-designer-icons">스트림 디자이너 아이콘</a></td>
   </tr>
   </tbody>
 </table>
