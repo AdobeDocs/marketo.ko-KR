@@ -1,12 +1,11 @@
 ---
 description: Dynamic Chat 개요 - Marketo 문서 - 제품 설명서
 title: Dynamic Chat 개요
-exl-id: 73ab651e-bb11-459d-aa6a-39d9e208d512
 feature: Dynamic Chat
-source-git-commit: a4fe70e1a95ff382499800049f161d1ad7dec7ab
+source-git-commit: 9a8f6fe57b585ba0eac6a577bf99e0419d8818a1
 workflow-type: tm+mt
-source-wordcount: '826'
-ht-degree: 2%
+source-wordcount: '627'
+ht-degree: 1%
 
 ---
 
@@ -16,11 +15,11 @@ Dynamic Chat을 사용하면 사용하기 쉬운 인터페이스를 활용하여
 
 >[!TIP]
 >
->방문 [이 페이지](https://experienceleague.adobe.com/docs/marketo-learn/tutorials/dynamic-chat/dynamic-chat-overview.html) Dynamic Chat 자습서 비디오를 보십시오.
+>방문 [이 페이지](https://experienceleague.adobe.com/docs/marketo-learn/tutorials/dynamic-chat/dynamic-chat-overview.html){target="_blank"} Dynamic Chat 자습서 비디오를 보십시오.
 
 ## 통합 {#integrations}
 
-Dynamic Chat의 주요 구성 요소는 Marketo 구독과 기본적으로 상호 작용하는 기능입니다. 이 통합의 전체 기능을 활용하려면 먼저 데이터 동기화를 시작해야 합니다. Marketo 데이터베이스의 크기에 따라 초기 데이터의 경우 최대 24시간이 걸릴 수 있습니다. [1회 동기화](/help/marketo/product-docs/demand-generation/dynamic-chat/integrations/connect-dynamic-chat-to-marketo.md) 완료를 위해.
+Dynamic Chat의 주요 구성 요소는 Marketo 구독과 기본적으로 상호 작용하는 기능입니다. 이 통합의 전체 기능을 활용하려면 먼저 데이터 동기화를 시작해야 합니다. Marketo 데이터베이스의 크기에 따라 초기 데이터의 경우 최대 24시간이 걸릴 수 있습니다. [1회 동기화](/help/marketo/product-docs/demand-generation/dynamic-chat/integrations/adobe-marketo-engage.md){target="_blank"} 완료를 위해.
 
 다음 항목이 동기화됩니다.
 
@@ -30,23 +29,27 @@ Dynamic Chat의 주요 구성 요소는 Marketo 구독과 기본적으로 상호
 
 ## 대화 상자 {#dialogues}
 
-대화 상자는 단일 채팅 참여를 나타냅니다. 웹 사이트 방문자에게 매력적인 채팅 대화 상자를 만드는 데 필요한 모든 기능이 포함된 컨테이너라고 생각해 보십시오. 각 대화 상자에서 대화 상자를 표시할 페이지, 표시할 대상, 대화 상자 자체의 내용 및 흐름을 지정할 수 있습니다. 또한 지표를 찾아 대화 상자의 성능을 확인할 수 있습니다. [대화 상자에 대해 자세히 알아보기](/help/marketo/product-docs/demand-generation/dynamic-chat/dialogues/dialogue-overview.md){target="_blank"}.
+대화 상자는 단일 채팅 참여를 나타냅니다. 웹 사이트 방문자에게 매력적인 채팅 대화 상자를 만드는 데 필요한 모든 기능이 포함된 컨테이너라고 생각해 보십시오. 각 대화 상자에서 대화 상자를 표시할 페이지, 표시할 대상, 대화 상자 자체의 내용 및 흐름을 지정할 수 있습니다. 또한 지표를 찾아 대화 상자의 성능을 확인할 수 있습니다. [대화 상자에 대해 자세히 알아보기](/help/marketo/product-docs/demand-generation/dynamic-chat/automated-chat/dialogue-overview.md){target="_blank"}.
 
 ## 구성 {#configuration}
 
-구성 탭에서 다양한 대화 상자의 모양과 느낌을 사용자 지정합니다. 글꼴, 색상, 응답 시간 등을 변경합니다! [구성에 대해 자세히 알아보기](/help/marketo/product-docs/demand-generation/dynamic-chat/configuration.md){target="_blank"}.
+구성 탭에서 다양한 대화 상자의 모양과 느낌을 사용자 지정합니다. 글꼴, 색상, 응답 시간 등을 변경합니다! [구성에 대해 자세히 알아보기](/help/marketo/product-docs/demand-generation/dynamic-chat/setup-and-configuration/configuration.md){target="_blank"}.
 
 ## 캘린더 {#calendar}
 
-챗봇에서 약속 예약에 사용할 Outlook 또는 Gmail 일정을 연결합니다. [캘린더에 대해 자세히 알아보기](/help/marketo/product-docs/demand-generation/dynamic-chat/appointment-scheduling/calendar.md){target="_blank"}
+챗봇에서 약속 예약에 사용할 Outlook 또는 Gmail 일정을 연결합니다. [캘린더에 대해 자세히 알아보기](/help/marketo/product-docs/demand-generation/dynamic-chat/setup-and-configuration/agent-settings.md#connect-calendar){target="_blank"}
 
 ## 회의 {#meetings}
 
-여기에서 다양한 대화 상자를 통해 웹 사이트 방문자가 예약한 모든 약속을 볼 수 있습니다. [모임에 대해 자세히 알아보기](/help/marketo/product-docs/demand-generation/dynamic-chat/appointment-scheduling/meetings.md){target="_blank"}
+여기에서 다양한 대화 상자를 통해 웹 사이트 방문자가 예약한 모든 약속을 볼 수 있습니다. [모임에 대해 자세히 알아보기](/help/marketo/product-docs/demand-generation/dynamic-chat/meeting-list.md){target="_blank"}
 
 ## 라우팅 {#routing}
 
-여기에서 달력에 연결된 모든 에이전트 목록과 웹 사이트 방문자에게 제공될 순서 및 사용자 지정 라우팅 규칙을 만들 수 있습니다. [라우팅에 대해 자세히 알아보기](/help/marketo/product-docs/demand-generation/dynamic-chat/appointment-scheduling/routing.md){target="_blank"}
+여기에서 달력에 연결된 모든 에이전트 목록과 웹 사이트 방문자에게 제공될 순서 및 사용자 지정 라우팅 규칙을 만들 수 있습니다. [라우팅에 대해 자세히 알아보기](/help/marketo/product-docs/demand-generation/dynamic-chat/setup-and-configuration/routing.md){target="_blank"}
+
+## 라이브 채팅 {#live-chat}
+
+다음을 통해 자격을 갖춘 웹 방문자에게 영업 담당자와 연결할 수 있는 기회를 제공하십시오. [라이브 채팅](/help/marketo/product-docs/demand-generation/dynamic-chat/live-chat/live-chat-overview.md){target="_blank"}.
 
 ## FAQ {#faq}
 
@@ -56,7 +59,7 @@ Dynamic Chat JavaScript 코드 조각은 Marketo 랜딩 페이지뿐만 아니�
 
 **보고를 위해 데이터가 저장되는 기간은 얼마입니까?**
 
-90일(전체 제한 목록 참조) [아래](#limits-in-dynamic-chat)).
+90일.
 
 **Dynamic Chat에서 라이브 채팅을 허용합니까?**
 
@@ -100,90 +103,29 @@ Dynamic Chat 언어를 변경하려면 다음 단계를 따르십시오.
 
 언어를 업데이트할 때 개인적으로 채운 단어(예: 스트림 응답)를 제외한 앱 자체의 모든 내용이 변경됩니다.
 
-## Dynamic Chat 제한 {#limits-in-dynamic-chat}
+## Dynamic Chat 데이터 보존 제한 {#dynamic-chat-data-retention-limits}
 
 <table>
-  <th>매개 변수</th>
-  <th>설명</th>
-  <th>제한</th>
+  <th>데이터 유형</th>
+  <th>유지 기간</th>
  <tr>
-  <td>총 대화 상자</td>
-  <td>대화 상자 수(게시됨 및 초안)</td>
-  <td>500</td>
- </tr>
- <tr>
-  <td>총 캘린더</td>
-  <td>연결된 캘린더 수</td>
-  <td>25</td>
- </tr>
- <tr>
-  <td>총 사용자(관리자 및 마케팅 사용자)</td>
-  <td>Dynamic Chat 인스턴스당 허용된 결합된 사용자 수</td>
-  <td>50</td>
- </tr>
- <tr>
-  <td>게시된 대화 상자</td>
-  <td>저장된 게시된 대화 상자 수</td>
-  <td>100</td>
- </tr>
- <tr>
-  <td>대화 상자당 타겟 URL</td>
-  <td>단일 대화 상자에 추가할 수 있는 Target URL 수</td>
-  <td>20</td>
- </tr>
- <tr>
-  <td>대화 상자당 속성</td>
-  <td>단일 대화 상자의 대상 기준에 추가할 수 있는 속성 수입니다</td>
-  <td>100</td>
- </tr>
- <tr>
-  <td>그룹</td>
-  <td>단일 대화 상자에 추가할 수 있는 그룹 수</td>
-  <td>10</td>
- </tr>
- <tr>
-  <td>그룹당 속성</td>
-  <td>그룹에 추가할 수 있는 속성 수</td>
-  <td>10</td>
- </tr>
- <tr>
-  <td>카드</td>
-  <td>대화 상자 당 캔버스에 추가할 수 있는 카드 수</td>
-  <td>500</td>
- </tr>
- <tr>
-  <td>익명 잠재 고객 데이터 유지 기간</td>
-  <td>참여 없이 익명 잠재 고객의 정보가 유지되는 기간</td>
+  <td>참여가 없는 익명 잠재 고객</td>
   <td>90일</td>
  </tr>
  <tr>
-  <td>목표 활동 유지 기간</td>
-  <td>목표 활동 데이터가 유지되는 시간</td>
+  <td>목표 활동</td>
   <td>24개월</td>
  </tr>
  <tr>
-  <td>문서 활동 보존 기간</td>
-  <td>문서 활동 데이터가 유지되는 시간</td>
+  <td>문서 활동</td>
   <td>24개월</td>
  </tr>
  <tr>
-  <td>대화 상자 활동 유지 기간을 사용하여 상호 작용</td>
-  <td>대화 상자 활동 데이터와 상호 작용한 시간이 유지됩니다.</td>
+  <td>대화 상자 활동과 상호 작용</td>
   <td>90일</td>
  </tr>
  <tr>
-  <td>모임 예약 활동 유지 기간</td>
-  <td>모임 예약 활동이 Dynamic Chat에 저장되는 시간</td>
+  <td>모임 예약 활동</td>
   <td>24개월</td>
- </tr>
- <tr>
-  <td>대화 참여</td>
-  <td>월별 웹 방문자가 참여할 수 있는 채팅 대화 수</td>
-  <td>250</td>
- </tr>
- <tr>
-  <td>대화 트리거됨</td>
-  <td>월별 웹 방문자에게 표시할 수 있는 채팅 대화 수</td>
-  <td>25,000</td>
  </tr>
 </table>

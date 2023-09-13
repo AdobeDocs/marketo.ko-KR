@@ -4,9 +4,9 @@ description: 즐거운 순간을 위한 트리거 토큰 - Marketo 문서 - 제�
 title: 즐거운 순간을 위한 트리거 토큰
 exl-id: 666a6eed-c432-4088-b4f1-54c996eca64c
 feature: Marketo Sales Insights
-source-git-commit: 96ba23e53e395f3e07b6f636f6acf7e6b94e1392
+source-git-commit: f0a38ddec7e42a52f31f22aa114a3f6f0c20baae
 workflow-type: tm+mt
-source-wordcount: '480'
+source-wordcount: '546'
 ht-degree: 0%
 
 ---
@@ -26,7 +26,7 @@ ht-degree: 0%
 스마트 캠페인에 사용된 트리거를 기반으로 추가 트리거 토큰을 사용할 수 있습니다.
 
 * `{{trigger.Trigger Name}}` 그것은 항상 실제 방아쇠 그 자체입니다. 예: 이메일의 링크를 클릭합니다.
-* `{{trigger.Name}}` 은 캠페인을 트리거한 에셋의 이름입니다. 예를 들어 웹 페이지에서 링크 를 클릭하면 URL 자체이며, Salesforce 트리거에 대한 제목입니다.
+* `{{trigger.Name}}` 은 캠페인을 트리거한 에셋의 이름입니다. 예를 들어 웹 페이지에서 링크를 클릭하면 URL 자체이며, Salesforce 트리거에 대한 제목입니다.
 * 아래 나열된 제한 사항에 따라 추가 트리거를 사용할 수 있습니다.
 
 ### 이메일 트리거 {#email-triggers}
@@ -713,108 +713,253 @@ ht-degree: 0%
 
 ### Dynamic Chat 트리거 토큰 {#dynamic-chat-trigger-tokens}
 
-<table style="table-layout:auto"> 
- <colgroup> 
-  <col> 
-  <col> 
-  <col> 
-  <col> 
-  <col> 
-  <col> 
-  <col> 
-  <col> 
-  <col> 
-  <col> 
-  <col>
-  <col>
-  <col>
-  <col> 
- </colgroup> 
- <tbody> 
-  <tr> 
-   <th><br></th> 
-   <th><code>{{trigger.Trigger Name}}</code></th> 
-   <th><code>{{trigger.Name}}</code></th> 
-   <th><code>{{trigger.Page URL}}</code></th> 
-   <th><code>{{Trigger.Conversation Transcript}}</code></th> 
-   <th><code>{{trigger.Conversation Status}}</code></th> 
-   <th><code>{{trigger.Agent Name}}</code></th> 
-   <th><code>{{trigger.Agent Email}}</code></th> 
-   <th><code>{{trigger.Scheduled For}}</code></th> 
-   <th><code>{{trigger.Goal name}}</code></th> 
-   <th><code>{{trigger.Document Name}}</code></th> 
-   <th><code>{{trigger.Document URL}}</code></th>
-   <th><code>{{trigger.Document Opened}}</code></th>
-   <th><code>{{trigger.Document Downloaded}}</code></th>
-  </tr> 
-  <tr> 
-   <td>대화 상자 참여</td> 
-   <td><img src="assets/check.png" alt="check"></td> 
-   <td><img src="assets/check.png" alt="check"></td> 
-   <td><img src="assets/check.png" alt="check"></td> 
-   <td><img src="assets/check.png" alt="check"></td> 
-   <td><img src="assets/check.png" alt="check"></td> 
-   <td><br></td> 
-   <td></td> 
-   <td><img src="assets/check.png" alt="check"></td> 
-   <td><br></td> 
-   <td><br></td> 
-   <td><br></td> 
-   <td><br></td> 
-   <td><br></td> 
-   <td><br></td>
-  </tr> 
-  <tr> 
-   <td>대화 상자에서 예약된 회의</td> 
-   <td><img src="assets/check.png" alt="check"></td> 
-   <td><img src="assets/check.png" alt="check"></td> 
-   <td><img src="assets/check.png" alt="check"></td> 
-   <td><br></td> 
-   <td><br></td> 
-   <td><img src="assets/check.png" alt="check"></td> 
-   <td><img src="assets/check.png" alt="check"></td> 
-   <td><img src="assets/check.png" alt="check"></td> 
-   <td><br></td> 
-   <td><br></td> 
-   <td><br></td> 
-   <td><br></td> 
-   <td><br></td> 
-   <td><br></td>
-  </tr> 
-  <tr> 
-   <td>대화 상자 목표에 도달함</td> 
-   <td><img src="assets/check.png" alt="check"></td> 
-   <td><img src="assets/check.png" alt="check"></td> 
-   <td><img src="assets/check.png" alt="check"></td> 
-   <td><br></td> 
-   <td><br></td> 
-   <td><br></td> 
-   <td><br></td> 
-   <td><br></td> 
-   <td><img src="assets/check.png" alt="check"></td> 
-   <td><br></td> 
-   <td><br></td> 
-   <td><br></td> 
-   <td><br></td> 
-   <td><br></td>
+<table>
+<thead>
+  <tr>
+    <th> </th>
+    <th><code>{{trigger.Agent Email}}</code></th>
+    <th><code>{{trigger.Agent Name}}</code></th>
+    <th><code>{{trigger.Conversation Status}}</code></th>
+    <th><code>{{trigger.Conversation Summary}}</code></th>
+    <th><code>{{trigger.Conversation Transcript}}</code></th>
+    <th><code>{{trigger.Document Downloaded}}</code></th>
+    <th><code>{{trigger.Document Name}}</code></th>
+    <th><code>{{trigger.Document Opened}}</code></th>
+    <th><code>{{trigger.Document URL}}</code></th>
+    <th><code>{{trigger.Goal name}}</code></th>
+    <th><code>{{trigger.meeting status}}</code></th>
+    <th><code>{{trigger.Name}}</code></th>
+    <th><code>{{trigger.Page URL}}</code></th>
+    <th><code>{{trigger.routing queue name}}</code></th>
+    <th><code>{{trigger.Scheduled For}}</code></th>
+    <th><code>{{trigger.source name}}</code></th>
+    <th><code>{{trigger.source type}}</code></th>
+    <th><code>{{trigger.Trigger Name}}</code></th>
+    <th><code>{{trigger.ui type}}</code></th>
   </tr>
-  <tr> 
-   <td>대화 상자에서 문서와 상호 작용함</td> 
-   <td><img src="assets/check.png" alt="check"></td> 
-   <td><img src="assets/check.png" alt="check"></td> 
-   <td><img src="assets/check.png" alt="check"></td> 
-   <td><br></td> 
-   <td><br></td> 
-   <td><br></td> 
-   <td><br></td> 
-   <td><br></td> 
-   <td><br></td> 
-   <td><img src="assets/check.png" alt="check"></td> 
-   <td><img src="assets/check.png" alt="check"></td> 
-   <td><img src="assets/check.png" alt="check"></td> 
-   <td><img src="assets/check.png" alt="check"></td> 
-  </tr> 
- </tbody> 
+</thead>
+<tbody>
+  <tr>
+    <td>대화 상자 참여</td>
+    <td></td>
+    <td></td>
+    <td><img src="assets/check.png" alt="check"></td>
+    <td><img src="assets/check.png" alt="check"></td>
+    <td><img src="assets/check.png" alt="check"></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td><img src="assets/check.png" alt="check"></td>
+    <td><img src="assets/check.png" alt="check"></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>대화 양식에 참여</td>
+    <td></td>
+    <td></td>
+    <td><img src="assets/check.png" alt="check"></td>
+    <td><img src="assets/check.png" alt="check"></td>
+    <td><img src="assets/check.png" alt="check"></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td><img src="assets/check.png" alt="check"></td>
+    <td><img src="assets/check.png" alt="check"></td>
+    <td></td>
+    <td></td>
+    <td><img src="assets/check.png" alt="check"></td>
+    <td><img src="assets/check.png" alt="check"></td>
+    <td></td>
+    <td><img src="assets/check.png" alt="check"></td>
+  </tr>
+  <tr>
+    <td>대화 상자에서 에이전트와 참여</td>
+    <td><img src="assets/check.png" alt="check"></td>
+    <td><img src="assets/check.png" alt="check"></td>
+    <td></td>
+    <td><img src="assets/check.png" alt="check"></td>
+    <td><img src="assets/check.png" alt="check"></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td><img src="assets/check.png" alt="check"></td>
+    <td><img src="assets/check.png" alt="check"></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>대화 형식으로 에이전트와 참여</td>
+    <td><img src="assets/check.png" alt="check"></td>
+    <td><img src="assets/check.png" alt="check"></td>
+    <td></td>
+    <td><img src="assets/check.png" alt="check"></td>
+    <td><img src="assets/check.png" alt="check"></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td><img src="assets/check.png" alt="check"></td>
+    <td><img src="assets/check.png" alt="check"></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>대화 상자에서 예약된 회의</td>
+    <td><img src="assets/check.png" alt="check"></td>
+    <td><img src="assets/check.png" alt="check"></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td><img src="assets/check.png" alt="check"></td>
+    <td><img src="assets/check.png" alt="check"></td>
+    <td><img src="assets/check.png" alt="check"></td>
+    <td><img src="assets/check.png" alt="check"></td>
+    <td><img src="assets/check.png" alt="check"></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>대화 양식의 예약된 회의</td>
+    <td><img src="assets/check.png" alt="check"></td>
+    <td><img src="assets/check.png" alt="check"></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td><img src="assets/check.png" alt="check"></td>
+    <td><img src="assets/check.png" alt="check"></td>
+    <td><img src="assets/check.png" alt="check"></td>
+    <td><img src="assets/check.png" alt="check"></td>
+    <td><img src="assets/check.png" alt="check"></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>대화 상자 목표에 도달함</td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td><img src="assets/check.png" alt="check"></td>
+    <td></td>
+    <td><img src="assets/check.png" alt="check"></td>
+    <td><img src="assets/check.png" alt="check"></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>대화형 양식 목표에 도달했습니다.</td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td><img src="assets/check.png" alt="check"></td>
+    <td></td>
+    <td><img src="assets/check.png" alt="check"></td>
+    <td><img src="assets/check.png" alt="check"></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>대화 상자에서 문서와 상호 작용함</td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td><img src="assets/check.png" alt="check"></td>
+    <td><img src="assets/check.png" alt="check"></td>
+    <td><img src="assets/check.png" alt="check"></td>
+    <td><img src="assets/check.png" alt="check"></td>
+    <td></td>
+    <td></td>
+    <td><img src="assets/check.png" alt="check"></td>
+    <td><img src="assets/check.png" alt="check"></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>대화형 양식에서 문서와 상호 작용</td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td><img src="assets/check.png" alt="check"></td>
+    <td><img src="assets/check.png" alt="check"></td>
+    <td><img src="assets/check.png" alt="check"></td>
+    <td><img src="assets/check.png" alt="check"></td>
+    <td></td>
+    <td></td>
+    <td><img src="assets/check.png" alt="check"></td>
+    <td><img src="assets/check.png" alt="check"></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+</tbody>
 </table>
 
 ### 기타 {#miscellaneous}
