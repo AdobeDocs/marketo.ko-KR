@@ -3,10 +3,10 @@ description: 현재 릴리스 정보 - Marketo 설명서 - 제품 설명서
 title: 최신 릴리스 정보
 exl-id: a2eccad5-73ad-48f9-8091-51cee23824e1
 feature: Release Information
-source-git-commit: f0a38ddec7e42a52f31f22aa114a3f6f0c20baae
+source-git-commit: 0dce393742df841af88b71614b55c4946c081814
 workflow-type: tm+mt
-source-wordcount: '904'
-ht-degree: 1%
+source-wordcount: '902'
+ht-degree: 2%
 
 ---
 
@@ -41,8 +41,8 @@ ht-degree: 1%
   </tr>
   <tr> 
    <td><strong>Design Studio 에셋의 개수 열에서 사용됨</strong>: Marketo Engage 프로그램 참조 라이브러리를 사용하여 "예제" 프로그램 및 Adobe이 권장하는 우수 사례를 나타내는 기타 에셋을 가져올 수 있습니다. 제품 관리 팀은 라이브러리를 완전히 업데이트하여 프로그램을 빠르게 시작하고자 하는 사용자에게 보다 중요한 도구를 제공합니다.</td> 
-   <td><i>곧 출시 예정</i></td>
-   <td><i>곧 출시 예정</i></td>
+   <td>배송됨</td>
+   <td>해당 사항 없음</td>
   </tr>
    <tr> 
    <td> </td> 
@@ -51,8 +51,8 @@ ht-degree: 1%
   </tr>
    <tr> 
    <td><strong>Design Studio 에셋의 향상된 탭에서 사용됨</strong>: 기능에서 사용 탭은 에셋이 사용되는 위치와 함께 에셋의 유형 및 이름에 대한 자세한 보기를 제공합니다. 이메일 세부 정보 및 이미지 및 파일 세부 정보에 적용됩니다.</td> 
-   <td><i>곧 출시 예정</i></td>
-   <td><i>곧 출시 예정</i></td>
+   <td>배송됨</td>
+   <td>해당 사항 없음</td>
   </tr>
    <tr> 
    <td> </td> 
