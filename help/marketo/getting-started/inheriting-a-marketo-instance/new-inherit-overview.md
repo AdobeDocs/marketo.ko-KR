@@ -3,9 +3,9 @@ description: 상속한 기존 Marketo Engage 인스턴스를 최적화하고 확
 title: 상속된 Marketo Engage 인스턴스 Jumpstart
 hide: true
 hidefromtoc: true
-source-git-commit: 67cfa02b558236bb9e963c2949a70185cc531ef0
+source-git-commit: d3a35d669eb54d020228ffdbdd7606a86abd18af
 workflow-type: tm+mt
-source-wordcount: '318'
+source-wordcount: '307'
 ht-degree: 0%
 
 ---
@@ -16,15 +16,9 @@ ht-degree: 0%
 
 ## 마케팅 국가 설정 {#get-set-up-in-the-marketing-nation}
 
-Marketo 커뮤니티에서 제대로 설정되었는지 확인하십시오.
-
-* **[프로필 설정]**(https://nation.marketo.com/){target="_blank"}.
+마케팅 국가 커뮤니티에 올바르게 설정되어 있는지 확인하십시오.
 
 * [**프로필 설정**](https://nation.marketo.com/){target="_blank"}.
-
-* **[프로필 설정](https://nation.marketo.com/)**{target="_blank"}.
-
-* **[프로필 설정](https://nation.marketo.com/){target="_blank"}**.
 
 * 다음을 읽어 보십시오. [**마케팅 커뮤니티 지침**](https://nation.marketo.com/t5/community-guidelines/ct-p/community-guidelines){target="_blank"}.
 
@@ -32,9 +26,9 @@ Marketo 커뮤니티에서 제대로 설정되었는지 확인하십시오.
 
 * 방법 알아보기 [**지원 사례 제출**](https://nation.marketo.com/t5/Knowledgebase/Submitting-a-Support-Case-to-Marketo-Support/ta-p/252201){target="_blank"} (and confirm you're [**set up as an authorized support contact**](https://nation.marketo.com/t5/Knowledgebase/Managing-Authorized-Support-Contacts/ta-p/254341){target="_blank"}).
 
-## 상속된 인스턴스 감사 가이드 {#inherited-instance-audit-guides}
+## 상속된 인스턴스 감사  {#audit-your-inherited-instance}
 
-아래 체크리스트는 Marketo 챔피언의 입력과 함께 사용되어 속도를 빠르게 향상할 수 있도록 도와줍니다. 권장 도움말 설명서에 대한 링크를 포함하여 다양한 Marketo Engage 영역을 탐색하고 감사를 수행하는 데 필요한 다양한 작업을 수행하는 방법에 대해 알아봅니다.
+Adobe Professional Services(Marketo Champions의 입력 포함)는 여러 Marketo Engage 상속 인스턴스 감사 확인 목록을 결합하여 빠르게 시작할 수 있도록 지원합니다. 권장 도움말 설명서에 대한 링크를 포함하여 다양한 Marketo Engage 영역을 탐색하고 감사를 수행하는 데 필요한 다양한 작업을 수행하는 방법에 대해 알아봅니다.
 
 스프레드시트 양식에서 체크리스트를 다운로드할 수도 있습니다.
 

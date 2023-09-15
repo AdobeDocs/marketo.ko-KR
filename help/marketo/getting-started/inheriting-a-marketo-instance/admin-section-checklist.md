@@ -3,22 +3,26 @@ description: 상속된 인스턴스 관리 검사 목록 - Marketo 문서 - 제�
 title: 상속된 인스턴스 관리 검사 목록
 hide: true
 hidefromtoc: true
-source-git-commit: 67cfa02b558236bb9e963c2949a70185cc531ef0
+source-git-commit: d3a35d669eb54d020228ffdbdd7606a86abd18af
 workflow-type: tm+mt
-source-wordcount: '1444'
+source-wordcount: '1566'
 ht-degree: 1%
 
 ---
 
 # 상속된 인스턴스: 관리 섹션 확인 목록 {#inherited-instance-admin-section-checklist}
 
-아래 체크리스트(각 문서의 하단에 연결된 후속 체크리스트)는 Marketo 챔피언의 입력과 함께 사용되어 빠르게 시작할 수 있습니다. 또한 체크리스트를 다운로드하고 진행 상황을 추적할 수 있습니다.
+아래 체크리스트(각 문서의 하단에 연결된 후속 체크리스트)는 Adobe Professional Services에서 Marketo 챔피언의 입력을 통해 통합하여 빠르게 시작할 수 있도록 구성되었습니다. 또한 체크리스트를 다운로드하고 진행 상황을 추적할 수 있습니다.
 
 >[!TIP]
 >
 >새로운 Marketo Engage 사용자이고 많은 용어를 잘 모를 경우 [Marketo Engage 용어집](/help/marketo/getting-started/marketo-engage-glossary.md){target="_blank"}.
 
 ## Identity Management Adobe {#adobe-identity-management}
+
+>[!NOTE]
+>
+>에 온보딩된 구독에만 적용됩니다. [Adobe Identity Management 시스템(IMS)](/help/marketo/product-docs/administration/marketo-with-adobe-identity/adobe-identity-management-overview.md){target="_blank"}. If your Marketo Engage subscription has not onboarded Adobe IMS yet, proceed with the [legacy user roles and permissions experience](/help/marketo/product-docs/administration/users-and-roles/managing-user-roles-and-permissions.md){target="_blank"} Marketo Engage > 관리자 > 사용자 및 역할에서 다음을 수행합니다.
 
 <table> 
  <tbody> 
@@ -28,23 +32,22 @@ ht-degree: 1%
   </tr> 
   <tr> 
    <td>구독</td> 
-   <td><li>Marketo Engage 구독 기간 <a href="/help/marketo/product-docs/administration/marketo-with-adobe-identity/adobe-identity-management-overview.md" target="_blank">Identity Management 시스템 Adobe</a> (Adobe IMS) 아직 시작하지 않습니까? 
-<br/>     그렇다면 'Adobe Admin Console 시스템 관리자'로부터 'Adobe Admin Console 제품 관리자' 역할이 부여되었습니까? 조직의 콘솔 관리자 권한을 가진 사람을 모르는 경우 <a href="https://helpx.adobe.com/contact.html" target="_blank">Adobe 고객 지원 센터</a>.  
-<br/>     그렇지 않으면 다음을 계속 진행합니다. <a href="/help/marketo/product-docs/administration/users-and-roles/managing-user-roles-and-permissions.md" target="_blank">기존 사용자 역할 및 권한 경험</a> 구독이 갱신될 때까지 Marketo Engage &gt; 관리자 &gt; 사용자 및 역할에서 다음을 수행합니다.</li></td>
+   <td><li>Marketo Engage 구독을으로 마이그레이션했습니까? <a href="/help/marketo/product-docs/administration/marketo-with-adobe-identity/adobe-identity-management-overview.md" target="_blank">Adobe IMS</a> 아직? 
+<br/>     그렇다면 'Adobe Admin Console 시스템 관리자'로부터 'Adobe Admin Console 제품 관리자' 역할이 부여되었습니까? 조직의 콘솔 관리자 권한을 가진 사람을 모르는 경우 <a href="https://helpx.adobe.com/contact.html" target="_blank">Adobe 고객 지원 센터</a>.</li>
+<li>'Marketo Engage 제품 관리자' 초대를 수락했습니까? Adobe Admin Console에서 역할이 할당되면 이메일이 전송됩니다.
+<br/>     그렇지 않으면 다음을 찾습니다. <a href="//help/marketo/product-docs/administration/marketo-with-adobe-identity/admin-setup.md#" target="_blank">시작 이메일</a> 받은 편지함에서 초대를 수락하여 Adobe ID을 활성화하십시오.</li></td>
   </tr>
   <tr> 
    <td>제품 프로필</td> 
-   <td>(Adobe IMS 구독 <b>전용</b>)
-<p>
-<li>Marketo Engage/관리자/사용자 및 역할에서 'Marketo Engage 제품 관리자' 역할이 부여되었습니까?</li> 
-<li>Adobe Admin Console에서 모든 적절한 사용자의 제품 프로필에 Marketo Engage을 할당했습니까?
-<br/>     그렇지 않은 경우 Marketo Engage/관리자/사용자 및 역할에서 역할을 할당하기 전에 먼저 Adobe IMS 제품 프로필에 Marketo Engage을 할당해야 합니다.</li>
-<p><img src="assets/note-icon.png" alt="메모 아이콘"> 참고: 구독이 75명 이상의 사용자를 포함하고 있고 Adobe IMS로 방금 마이그레이션된 경우 배치 내에서 마이그레이션하고 Adobe 식별을 그룹 또는 한꺼번에 관리할 사용자를 선택할 수 있습니다. 다음에 대한 기대 사항에 대해 자세히 알아보기 <a href="/help/marketo/product-docs/administration/marketo-with-adobe-identity/understanding-marketo-subscription-and-user-migration-to-the-adobe-admin-console.md#prepare-users-for-migration-day" target="_blank">Adobe IMS 마이그레이션일</a>.</td>
+   <td><li>모든 적절한 사용자가 Adobe Admin Console에서 Marketo Engage의 제품 프로필에 할당됩니까?
+<br/>     그렇지 않은 경우 다음을 확인하십시오. <a href="/help/marketo/product-docs/administration/marketo-with-adobe-identity/add-or-remove-a-user.md" target="_blank">사용자 추가 및/또는 제거</a> Adobe Admin Console의 Marketo Engage 제품 프로필에서. 제품 프로필에 추가된 경우 Marketo Engage &gt; 관리자 &gt; 사용자 및 역할에서 사용자 역할을 할당할 수 없습니다.</li>
+<p><img src="assets/note-icon.png" alt="메모 아이콘"> 참고: 여러 제품 프로필에 원하지 않는 사용자가 추가되면 모든 제품 프로필에서 해당 사용자를 제거해야 합니다. 그렇지 않으면, 여전히 Marketo Engage에 액세스할 수 있습니다.</td>
   </tr>
   <tr> 
    <td>사용자 관리 API</td> 
-   <td><li>구독에서 Marketo User Management API를 사용했습니까?
-<br/>     이 경우 다음을 사용해야 합니다. <a href="https://www.adobe.io/apis/experienceplatform/umapi-new.html" target="_blank">Adobe IMS API</a> 사용자를 앞으로 초대, 업데이트 및 삭제합니다.</li></td>
+   <td><li>구독에서 Marketo User Management API를 사용합니까?
+<br/>     이 경우 다음을 사용해야 합니다. <a href="https://www.adobe.io/apis/experienceplatform/umapi-new.html" target="_blank">Adobe IMS API</a> 사용자를 앞으로 초대, 업데이트 및 삭제합니다.</li>
+<p><img src="assets/note-icon.png" alt="메모 아이콘"> 참고: '역할 관리'는 Marketo Engage에 남아 있으며 Marketo 사용자 관리 API는 여전히 역할 관리에 사용할 수 있습니다.</td>
   </tr>
  </tbody> 
 </table>
@@ -59,8 +62,10 @@ ht-degree: 1%
   </tr> 
   <tr> 
    <td>사용자</td> 
-   <td><li><a href="/help/marketo/product-docs/administration/users-and-roles/managing-marketo-users.md" target="_blank">사용자 수</a> 있습니까?</li>
-<li>제거해야 하는 사용자가 있습니까?</li>
+   <td><img src="assets/note-icon.png" alt="메모 아이콘"> 참고: 구독이 이미 Adobe IMS에 등록되어 있는 경우 Adobe Admin Console에서 다음 사용자 관리 검토를 계속 진행하십시오. 그렇지 않으면 [관리] &gt; [사용자 및 역할] &gt; [Marketo Engage의 사용자]로 이동합니다.
+   <p>
+   <li><a href="/help/marketo/product-docs/administration/users-and-roles/managing-marketo-users.md" target="_blank">사용자 수</a> 있습니까?</li>
+<li>다음 작업을 수행해야 하는 사용자가 있습니까? <a href="/help/marketo/product-docs/administration/marketo-with-adobe-identity/add-or-remove-a-user.md#remove-a-user" target="_blank">제거됨</a>?</li>
 <li>회사에 사용자 삭제에 대한 정책이 있습니까?</li> 
 <li>보유한 사용자 수 <a href="/help/marketo/product-docs/administration/users-and-roles/descriptions-of-role-permissions.md" target="_blank">관리자 권한</a>?</li>
 <li>해당 사용자 중 하나를 (으)로 변경하시겠습니까? <a href="/help/marketo/product-docs/administration/users-and-roles/managing-user-roles-and-permissions.md" target="_blank">다른 역할?</a></li> 
@@ -68,12 +73,13 @@ ht-degree: 1%
   </tr>
   <tr> 
    <td>역할</td> 
-   <td><li>역할이 몇 개 있습니까?</li>  
+   <td><img src="assets/note-icon.png" alt="메모 아이콘"> 참고: Adobe ID와 함께 Marketo을 사용하든 사용하지 않든, 관리 &gt; 사용자 및 역할 &gt; 역할 아래의 Marketo Engage에서 역할 권한 검토를 계속 진행하십시오.
+   <p><li>역할이 몇 개 있습니까?</li>  
 <li>내용 <a href="/help/marketo/product-docs/administration/users-and-roles/descriptions-of-role-permissions.md" target="_blank">권한/액세스</a> 각 역할에 다음이 있습니까? 조정해야 합니까?</li>
 <li>역할당 사용자가 몇 명입니까?</li>
 <li>사용자 빈도 <a href="/help/marketo/product-docs/administration/audit-trail/user-login-history.md" target="_blank">로그인 중</a>?</li>
 <li>각 API 사용자에게는 다음 항목이 있습니까? <a href="/help/marketo/product-docs/administration/users-and-roles/create-an-api-only-user-role.md" target="_blank">사용자 역할 소유</a>? 그렇지 않은 경우 이 기능을 구현하여 문제를 더 쉽게 해결할 수 있습니다.</li> 
-<li>사용자 역할 및 권한이 회사 데이터와 일치합니까? <a href="/help/marketo/product-docs/core-marketo-concepts/miscellaneous/privacy-management.md" target="_blank">개인정보 처리방침</a>?</li></td>
+<li>사용자 역할 및 권한이 규정 준수를 위해 기업 데이터 개인정보 처리방침과 일치합니까(예: <a href="https://gdpr-info.eu/" target="_blank">GDPR</a>)? 기업 데이터 수행 <a href="/help/marketo/product-docs/core-marketo-concepts/miscellaneous/privacy-management.md" target="_blank">개인정보 처리방침</a> 사용자가 Marketo Engage 사용자 데이터를 다운로드하고 공유할 수 있도록 허용하시겠습니까? 허가 업무가 필요합니까?</li></td>
   </tr>
   <tr> 
    <td>사용자 지원</td> 
