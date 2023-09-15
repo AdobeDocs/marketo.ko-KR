@@ -3,9 +3,9 @@ description: 대화형 웨비나 만들기 - Marketo 문서 - 제품 설명서
 title: 대화형 웨비나 만들기
 exl-id: 91fdede6-2e5a-4895-9893-852d0441aa2a
 feature: Interactive Webinars
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0ee9bd4bc9639c452219f9445a88b552617a785f
 workflow-type: tm+mt
-source-wordcount: '101'
+source-wordcount: '148'
 ht-degree: 0%
 
 ---
@@ -26,9 +26,13 @@ ht-degree: 0%
 
    ![](assets/create-an-interactive-webinar-3.png)
 
-1. 채널 드롭다운을 클릭하고 을 선택합니다. **웨비나**.
+1. 채널 드롭다운을 클릭하고 _웨비나를 사용하는 이벤트_ 적용 대상 열에서 다음을 수행합니다. 이 예제에서는 **웨비나**.
 
    ![](assets/create-an-interactive-webinar-4.png)
+
+   >[!NOTE]
+   >
+   >적용 대상 채널 확인 _웨비나를 사용하는 이벤트_&#x200B;로 이동합니다. **관리자** > **태그**. &quot;적용 대상&quot;은 가운데 열이어야 합니다. 의 5단계에서 &quot;적용 대상&quot;에 대해 자세히 알아보기 [이 문서](/help/marketo/product-docs/administration/tags/create-a-program-channel.md){target="_blank"}.
 
 1. 선택 **대화형 웨비나** 및 클릭 **다음**.
 
@@ -46,6 +50,6 @@ ht-degree: 0%
 
    ![](assets/create-an-interactive-webinar-7.png)
 
-대화형 웨비나가 만들어집니다. 이제 할 시간이야 [디자인](/help/marketo/product-docs/demand-generation/events/interactive-webinars/designing-interactive-webinars.md).
+대화형 웨비나가 만들어집니다. 이제 할 시간이야 [디자인](/help/marketo/product-docs/demand-generation/events/interactive-webinars/designing-interactive-webinars.md){target="_blank"}.
 
 ![](assets/create-an-interactive-webinar-8.png)
