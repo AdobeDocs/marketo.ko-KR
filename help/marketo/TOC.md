@@ -3,9 +3,9 @@ audience: end-user
 user-guide-title: Marketo 안내서
 user-guide-description: Marketo 제품 설명서
 feature-set: Marketo Engage
-source-git-commit: f0a38ddec7e42a52f31f22aa114a3f6f0c20baae
+source-git-commit: ab7173fe39c80d3123dc9bf488d24571661c58b4
 workflow-type: tm+mt
-source-wordcount: '9107'
+source-wordcount: '9111'
 ht-degree: 0%
 
 ---
@@ -707,6 +707,7 @@ ht-degree: 0%
             + [사용자 및 라이선스 관리](product-docs/demand-generation/events/interactive-webinars/user-and-license-management.md)
             + [대화형 웨비나 만들기](product-docs/demand-generation/events/interactive-webinars/create-an-interactive-webinar.md)
             + [대화형 웨비나 디자인](product-docs/demand-generation/events/interactive-webinars/designing-interactive-webinars.md)
+            + [대화형 웨비나 홍보](product-docs/demand-generation/events/interactive-webinars/promoting-an-interactive-webinar.md)
             + [대화형 웨비나 수정 또는 삭제](product-docs/demand-generation/events/interactive-webinars/modify-or-delete-an-interactive-webinar.md)
             + [이벤트 워크플로](product-docs/demand-generation/events/interactive-webinars/event-workflows.md)
       + Facebook {#facebook}

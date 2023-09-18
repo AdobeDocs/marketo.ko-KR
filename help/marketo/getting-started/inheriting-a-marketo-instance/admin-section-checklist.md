@@ -3,9 +3,9 @@ description: 상속된 인스턴스 관리 검사 목록 - Marketo 문서 - 제�
 title: 상속된 인스턴스 관리 검사 목록
 hide: true
 hidefromtoc: true
-source-git-commit: ea0e8368e83168dd3f14f815f387f8dead0fff11
+source-git-commit: ab7173fe39c80d3123dc9bf488d24571661c58b4
 workflow-type: tm+mt
-source-wordcount: '1560'
+source-wordcount: '1564'
 ht-degree: 1%
 
 ---
@@ -31,7 +31,7 @@ ht-degree: 1%
    <th>리뷰 포커스</th>
   </tr> 
   <tr> 
-   <td>구독</td> 
+   <td>구독 및 Marketo Engage 제품 관리자</td> 
    <td><li>Marketo Engage 구독을으로 마이그레이션했습니까? <a href="/help/marketo/product-docs/administration/marketo-with-adobe-identity/adobe-identity-management-overview.md" target="_blank">Adobe IMS</a> 아직? 
 <br/>     그렇다면 'Adobe Admin Console 시스템 관리자'로부터 'Adobe Admin Console 제품 관리자' 역할이 부여되었습니까? 조직의 콘솔 관리자 권한을 가진 사람을 모르는 경우 <a href="https://helpx.adobe.com/contact.html" target="_blank">Adobe 고객 지원 센터</a>.</li>
 <li>'Marketo Engage 제품 관리자' 초대를 수락했습니까? Adobe Admin Console에서 역할이 할당되면 이메일이 전송됩니다.
