@@ -3,9 +3,9 @@ description: 상속된 인스턴스 Design Studio 검사 목록 - Marketo 문서
 title: 상속된 인스턴스 Design Studio 검사 목록
 hide: true
 hidefromtoc: true
-source-git-commit: 74afe85b5d7b78cc4bce3e2ec89cb5c1a56d2f59
+source-git-commit: 18749bdff222980177b46969b105216d7b720db9
 workflow-type: tm+mt
-source-wordcount: '530'
+source-wordcount: '553'
 ht-degree: 1%
 
 ---
@@ -55,7 +55,11 @@ ht-degree: 1%
 <li>대부분의 프로그램이 글로벌 또는 로컬 양식을 사용합니까?</li>
 <li>모든 양식이 마케팅 및 영업에 적합한 데이터를 수집하고 있습니까?</li>
 <li>숨겨진 값이 적절하게 활용됩니까?</li>
-<li>웹 사이트에서 사용 중인 Marketo Engage 양식(Marketo Engage 랜딩 페이지 아님)이 있습니까?</li></td>
+<li>Marketo Engage이 아닌 랜딩 페이지에서 사용 중인 Marketo Engage 양식이 있습니까? 어떻게 참조되고 있습니까?</li>
+<p><img src="assets/tip-icon.png" alt="팁 아이콘">팁: 새로운 포함 코드가 도입된 Marketo Engage 양식을 포함하는 페이지를 업데이트합니다(보안 랜딩 페이지 필요).
+<br/><script src="//example.marketo.com/js/forms2/js/forms2.min.js"></script>
+<br/><form id="mktoForm_1"><script>MktoForms2.loadForm("//example.marketo.com", "123-ABC-456", 1);</script>
+</td>
   </tr>
   <tr> 
    <td>데이터 표준화</td> 

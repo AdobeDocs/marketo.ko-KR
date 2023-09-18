@@ -3,7 +3,7 @@ description: 상속된 인스턴스 마케팅 활동 체크리스트 - Marketo �
 title: 상속된 인스턴스 마케팅 활동 검사 목록
 hide: true
 hidefromtoc: true
-source-git-commit: 711e8c7ba0249e9c88d146113b1cfae298d35aa3
+source-git-commit: 18749bdff222980177b46969b105216d7b720db9
 workflow-type: tm+mt
 source-wordcount: '826'
 ht-degree: 0%
@@ -16,11 +16,11 @@ ht-degree: 0%
 
 ## 조직 {#organization}
 
-<table style="table-layout:auto"> 
+<table> 
  <tbody> 
   <tr> 
-   <th style="width:20%">영역</th> 
-   <th style="width:80%">리뷰 포커스</th>
+   <th style="width:30%">영역</th> 
+   <th style="width:70%">리뷰 포커스</th>
   </tr> 
   <tr> 
    <td>이름 지정 규칙</td> 
@@ -61,12 +61,12 @@ ht-degree: 0%
 
 ## 에셋 {#assets}
 
-<table style="table-layout:auto"> 
+<table> 
  <tbody> 
-  <tr> 
-   <th style="width:20%">영역</th> 
-   <th style="width:80%">리뷰 포커스</th>
-  </tr> 
+  <tr>
+   <th style="width:30%">영역</th>
+   <th style="width:70%">리뷰 포커스</th>
+  </tr>
   <tr> 
    <td>토큰</td> 
    <td><li>다음과 같음 <a href="/help/marketo/product-docs/core-marketo-concepts/programs/tokens/understanding-my-tokens-in-a-program.md" target="_blank">토큰</a> 가장 일반적으로 사용되는 프로그램 유형에서 사용 중입니까? 
@@ -114,12 +114,12 @@ ht-degree: 0%
 
 ## 운영 프로그램 {#operational-programs}
 
-<table style="table-layout:auto"> 
+<table> 
  <tbody> 
   <tr> 
-   <th style="width:20%">영역</th> 
-   <th style="width:80%">리뷰 포커스</th>
-  </tr> 
+   <th style="width:30%">영역</th> 
+   <th style="width:70%">리뷰 포커스</th>
+  </tr>
   <tr> 
    <td>개인 채점</td> 
    <td><li>중앙집중식으로 되어 있나요 <a href="/help/marketo/getting-started/quick-wins/simple-scoring.md" target="_blank">개인 채점</a> 프로그램은 준비됐나?</li>

@@ -3,16 +3,16 @@ description: 상속된 인스턴스 문서 설정 - Marketo 문서 - 제품 설�
 title: 상속된 인스턴스 문서 내 설정
 hide: true
 hidefromtoc: true
-source-git-commit: 74afe85b5d7b78cc4bce3e2ec89cb5c1a56d2f59
+source-git-commit: 18749bdff222980177b46969b105216d7b720db9
 workflow-type: tm+mt
-source-wordcount: '252'
+source-wordcount: '310'
 ht-degree: 1%
 
 ---
 
 # 상속된 인스턴스: 설정 문서화 {#inherited-instance-document-your-setup}
 
-설정된 인스턴스를 상속할 때 감사할 주요 제품 영역에 대해 알아보았으므로, 다음 단계는 인스턴스 구성 및 기술 스택에 대한 설명서를 생성/업데이트하는 것입니다. 스프레드시트나 프로젝트 관리 애플리케이션을 통해 작성하든 진행 상황을 추적하고 세부 정보를 기록할 수 있는 유용한 리소스입니다.
+설정된 인스턴스를 상속할 때 감사할 주요 제품 영역에 대해 알아보았으므로, 다음 단계는 인스턴스 구성 및 기술 스택에 대한 설명서를 생성/업데이트하는 것입니다. 스프레드시트나 프로젝트 관리 애플리케이션을 통해 작성하든, 설명서는 진행 상황을 추적하고 세부 정보를 기록할 수 있을 뿐만 아니라 인스턴스를 체계적이고 지속가능하게 유지하는 데 훌륭한 리소스가 됩니다.
 
 ## 데이터 {#data}
 
@@ -51,11 +51,12 @@ ht-degree: 1%
   <tr> 
    <td>조직</td> 
     <td><li>Marketo Engage 인스턴스가 구성되는 방식과 그 이유에 대한 강력한 설명서가 있습니까?</li>
-   <p><p><img src="assets/action-item-icon.png" alt="작업 항목 아이콘">작업 항목: 폴더 구조, 명명 규칙 및 인스턴스에 사용되는 채널이 포함된 설명서를 만듭니다.</td>
+   <p><img src="assets/action-item-icon.png" alt="작업 항목 아이콘">작업 항목: 폴더 구조, 명명 규칙 및 인스턴스에 사용되는 채널이 포함된 설명서를 만듭니다.</td>
   </tr>
   <tr> 
    <td>변경 로그</td> 
-    <td><li>인스턴스의 변경 사항과 그 이유를 문서화할 수 있는 변경 로그가 있습니까?</li></td>
+    <td><li>인스턴스의 변경 사항과 그 이유를 문서화할 수 있는 변경 로그가 있습니까?</li>
+    <p><img src="assets/action-item-icon.png" alt="작업 항목 아이콘">작업 항목: 이 예제를 다운로드하여 인스턴스 설정에 대한 변경 로그 및 문서 변경 사항을 만듭니다.</td>
   </tr>
   <tr> 
    <td>플레이북</td> 
@@ -65,7 +66,8 @@ ht-degree: 1%
   <tr> 
    <td>내부 이해 당사자와의 대화</td> 
     <td><li>귀사의 마케팅 팀 내부 기대치는 어떻습니까? 어떤 Marketo Engage이 전달되는지 일치합니까?</li>
-   <li>Marketo Engage 인스턴스의 이해 당사자는 무엇입니까?</li></td>
+   <li>Marketo Engage 인스턴스의 이해 당사자는 무엇입니까?</li>
+   <p><img src="assets/action-item-icon.png" alt="작업 항목 아이콘">작업 항목: 이 항목 다운로드 <a href="https://nation.marketo.com/t5/product-blogs/planning-and-communicating-about-your-marketo-onboarding/ba-p/243555?attachment-id=1705" target="_blank">내부 관련자 커뮤니케이션 안내서 템플릿</a> 주요 관련자의 목표와 기대치를 문서화합니다.</td>
   </tr>
  </tbody> 
 </table>
