@@ -1,12 +1,10 @@
 ---
 description: 대화형 웨비나 홍보 - Marketo 문서 - 제품 설명서
 title: 대화형 웨비나 홍보
-hide: true
-hidefromtoc: true
 feature: Interactive Webinars
-source-git-commit: d747305b4571cfbf8e40c46824d1e4bc148fca7e
+source-git-commit: 346e159bdc2bb8e28cbf87764f4f71577177b636
 workflow-type: tm+mt
-source-wordcount: '489'
+source-wordcount: '496'
 ht-degree: 0%
 
 ---
@@ -33,4 +31,6 @@ ht-degree: 0%
 
 토큰을 사용하여 이메일 캠페인에 개별 구성원에 대한 웨비나 URL을 포함시켜 이벤트에 등록되었음을 알리고 가입 URL을 사용하여 예약된 시간에 웨비나를 입력할 수 있습니다. 동일한 이메일 캠페인에서 달력 토큰을 사용하여 웨비나 일정을 구성원의 달력에 추가할 수 있습니다.
 
-에 링크가 제공되었습니다. [개요 페이지](/help/marketo/product-docs/demand-generation/events/interactive-webinars/interactive-webinars-overview.md) 랜딩 페이지와 이메일 캠페인을 만듭니다. 이벤트와 관련된 나머지 프로모션은 Launchpoint 통합을 사용하여 파트너 웨비나와 동일하게 유지됩니다.
+링크는 이벤트 프로그램의 개요 탭 오른쪽에 있어 랜딩 페이지와 이메일 캠페인을 만들 수 있습니다. 이벤트와 관련된 나머지 프로모션은 Launchpoint 통합을 사용하여 파트너 웨비나와 동일하게 유지됩니다.
+
+![](assets/promoting-an-interactive-webinar-2.png)
