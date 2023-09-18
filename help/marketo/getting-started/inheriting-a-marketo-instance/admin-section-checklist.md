@@ -3,9 +3,9 @@ description: 상속된 인스턴스 관리 검사 목록 - Marketo 문서 - 제�
 title: 상속된 인스턴스 관리 검사 목록
 hide: true
 hidefromtoc: true
-source-git-commit: ab7173fe39c80d3123dc9bf488d24571661c58b4
+source-git-commit: 711e8c7ba0249e9c88d146113b1cfae298d35aa3
 workflow-type: tm+mt
-source-wordcount: '1564'
+source-wordcount: '1566'
 ht-degree: 1%
 
 ---
@@ -147,7 +147,7 @@ ht-degree: 1%
    <th>리뷰 포커스</th>
   </tr> 
   <tr> 
-   <td>스마트 캠페인 설정</td> 
+   <td>스마트 캠페인</td> 
    <td><li><a href="/help/marketo/product-docs/administration/email-setup/enable-person-restrictions-for-smart-campaigns.md" target="_blank">제한이 있나요</a> 스마트 캠페인 크기 
    <br/>     그렇지 않으면 한 개를 추가하는 것이 좋습니다. 워크플로우에서 전체 데이터베이스를 처리하거나 과도한 통신을 방지하기 위해 Smart Campaign 제한을 데이터베이스의 25%로 제한하는 것이 좋습니다. 이렇게 하면 브랜드를 보호할 뿐만 아니라 인스턴스의 성능을 보호할 수 있습니다.</li></td>
   </tr>
@@ -264,7 +264,7 @@ ht-degree: 1%
   </tr>
   <tr> 
    <td>먼치킨</td> 
-   <td><li>본인 <a href="/help/marketo/product-docs/administration/additional-integrations/add-munchkin-tracking-code-to-your-website.md" target="_blank">Munchkin 추적 코드</a> 웹 사이트에서(Marketo에서는 아님)?</li>
+   <td><li>본인 <a href="/help/marketo/product-docs/administration/additional-integrations/add-munchkin-tracking-code-to-your-website.md" target="_blank">Munchkin 추적 코드</a> (Marketo Engage 랜딩 페이지 아님)?</li>
 <li>다음 값: <a href="/help/marketo/product-docs/administration/settings/edit-do-not-track-browser-support-settings.md" target="_blank">추적 안 함</a> 브라우저 요청이 활성화되었습니까?</li>
 <li>본인 <a href="https://developers.marketo.com/javascript-api/lead-tracking/" target="_blank">Munchkin API</a> 구성됨? 
 <p><img src="assets/tip-icon.png" alt="팁 아이콘">팁: 웹 사이트에서 munchkin 코드가 있는 위치에 대한 설명서가 없는 경우 <a href="/help/marketo/product-docs/reporting/basic-reporting/report-types/web-page-activity-report.md" target="_blank">웹 페이지 활동 보고서</a>.</li></td>

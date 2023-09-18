@@ -3,9 +3,9 @@ description: 상속된 인스턴스 마케팅 활동 체크리스트 - Marketo �
 title: 상속된 인스턴스 마케팅 활동 검사 목록
 hide: true
 hidefromtoc: true
-source-git-commit: 74afe85b5d7b78cc4bce3e2ec89cb5c1a56d2f59
+source-git-commit: 711e8c7ba0249e9c88d146113b1cfae298d35aa3
 workflow-type: tm+mt
-source-wordcount: '815'
+source-wordcount: '826'
 ht-degree: 0%
 
 ---
@@ -20,7 +20,7 @@ ht-degree: 0%
  <tbody> 
   <tr> 
    <th style="width:20%">영역</th> 
-   <th>리뷰 포커스</th>
+   <th style="width:80%">리뷰 포커스</th>
   </tr> 
   <tr> 
    <td>이름 지정 규칙</td> 
@@ -32,12 +32,12 @@ ht-degree: 0%
   </tr>
   <tr> 
    <td>프로그램</td> 
-   <td><li>KG - 이것은 여전히 관련이 있습니까 <a href="https://business.adobe.com/blog/perspectives/center-of-excellence-top-10-questions-to-ask-yourself" target="_blank">우수성의 중심</a> 프로그램 템플릿과 함께? 
-   <br/>     그렇다면 팀의 사용 사례에 맞게 프로그램 템플릿을 사용할 수 있습니까?</li>
-<li>유사한 프로그램 유형 <a href="/help/marketo/product-docs/core-marketo-concepts/programs/working-with-programs/best-practice-how-to-organize-your-programs.md" target="_blank">일관되게 조직되</a>?</li>
+   <td><li>유사한 프로그램 유형 <a href="/help/marketo/product-docs/core-marketo-concepts/programs/working-with-programs/best-practice-how-to-organize-your-programs.md" target="_blank">일관되게 조직되</a>?</li>
 <li>다음과 같음 <a href="/help/marketo/product-docs/core-marketo-concepts/programs/working-with-programs/understanding-period-costs.md" target="_blank">기간 비용</a> 제자리에 두라고?</li>
 <li>모든 프로그램 <a href="/help/marketo/product-docs/crm-sync/salesforce-sync/sfdc-sync-details/how-to-match-program-statuses-and-salesforce-campaign-statuses-prior-to-sync.md" target="_blank">sfdc 캠페인에 동기화됨</a> (해당되는 경우)?</li>
-<li>을(를) 지정하는 흐름 단계가 있습니까? <a href="/help/marketo/product-docs/core-marketo-concepts/programs/creating-programs/understanding-program-membership.md#acquisition-program" target="_blank">고객 확보 프로그램</a> 사람들에게?</li></td>
+<li>을(를) 지정하는 흐름 단계가 있습니까? <a href="/help/marketo/product-docs/core-marketo-concepts/programs/creating-programs/understanding-program-membership.md#acquisition-program" target="_blank">고객 확보 프로그램</a> 사람들에게?</li>
+<li>프로그램 템플릿을 위한 중앙 위치가 설정되어 있습니까? 
+   <br/>     그렇지 않은 경우, 다음 목록에서 사전 설치된 여러 프로그램 예제 중에서 선택하십시오. <a href="/help/marketo/product-docs/core-marketo-concepts/programs/program-library/program-import-library-overview.md" target="_blank">Marketo Engage 프로그램 라이브러리</a>.</li></td>
   </tr>
   <tr> 
    <td>보관</td> 
@@ -45,14 +45,14 @@ ht-degree: 0%
 <li>귀사는 오래된 프로그램을 얼마나 자주 검토하고 아카이빙합니까?</li>
 <p><img src="assets/tip-icon.png" alt="팁 아이콘">팁: 매년 리뷰를 수행하는 것이 좋습니다.</td>
   </tr>
-  <tr> 
+  <tr>
    <td>알림</td> 
    <td><li>에 캠페인 오류가 있습니까? <a href="/help/marketo/product-docs/core-marketo-concepts/miscellaneous/understanding-notifications/notification-types.md" target="_blank">알림 탭</a> 당신이 생각하기에 최우선인가요?</li>
 <li>본인 <a href="/help/marketo/product-docs/core-marketo-concepts/miscellaneous/understanding-notifications.md#subscribe-to-notifications" target="_blank">알림을 구독함</a> 앞으로 발생할 수 있는 오류를 모두 처리할 수 있습니까?</li></td>
   </tr>
   <tr> 
    <td>스마트 목록 구독 
-   <br/>(마케팅 활동/구독 탭)</td> 
+   <br/>(마케팅 활동/구독)</td> 
    <td><li>진행 중인 작업 <a href="/help/marketo/product-docs/reporting/basic-reporting/report-subscriptions/subscribe-to-a-smart-list.md" target="_blank">스마트 목록 구독</a> 네 생각으로? 그렇다면 그들은 누구에게 갈 것입니까?</li>
 <p><img src="assets/tip-icon.png" alt="팁 아이콘">팁: 개인이 아닌 팀 별칭으로 이동하려면 스마트 목록 구독을 설정하는 것이 좋습니다. 개인들이 사무실을 비울 경우를 대비한 것입니다.</td>
   </tr>
@@ -65,7 +65,7 @@ ht-degree: 0%
  <tbody> 
   <tr> 
    <th style="width:20%">영역</th> 
-   <th>리뷰 포커스</th>
+   <th style="width:80%">리뷰 포커스</th>
   </tr> 
   <tr> 
    <td>토큰</td> 
@@ -79,7 +79,8 @@ ht-degree: 0%
 <li>몇 개 <a href="/help/marketo/product-docs/email-marketing/drip-nurturing/using-engagement-programs/people-who-have-exhausted-content.md" target="_blank">사람들이 지쳤습니다.</a>? 
 <br/>     소진된 사람이 많다면 다음을 고려하십시오 <a href="/help/marketo/product-docs/email-marketing/drip-nurturing/creating-an-engagement-program/add-content-to-a-stream.md" target="_blank">콘텐츠 추가</a>.</li>
 <li>사람 <a href="/help/marketo/product-docs/email-marketing/drip-nurturing/reports-and-notifications/engagement-stream-performance-report.md" target="_blank">콘텐츠 참여</a>? 
-<br/>     그렇지 않은 경우 업데이트 및/또는 A/B 테스트를 고려하십시오.</li></td>
+<br/>     그렇지 않은 경우 업데이트 및/또는 A/B 테스트를 고려하십시오.</li>
+<li>여러 참여 프로그램에서 사람을 만난 적이 있습니까? 두 개 이상이어야 합니까?</li></td>
   </tr>
   <tr> 
    <td>캠페인 일괄 처리</td> 
@@ -117,7 +118,7 @@ ht-degree: 0%
  <tbody> 
   <tr> 
    <th style="width:20%">영역</th> 
-   <th>리뷰 포커스</th>
+   <th style="width:80%">리뷰 포커스</th>
   </tr> 
   <tr> 
    <td>개인 채점</td> 
@@ -151,7 +152,7 @@ ht-degree: 0%
   <tr> 
    <td>이메일 전달성</td> 
    <td><li>가져오기 <a href="/help/marketo/product-docs/email-marketing/email-programs/email-program-data/email-performance-report.md" target="_blank">전자 메일 성능 보고서</a> 지난 몇 달 동안의 전송입니다. 이메일 전달성은 어떻게 보입니까?</li>
-<li>이메일 전달성이 좋지 않은 경우 다음과 같은 이메일 전달성 모범 사례를 조사하고 구현하는 것을 고려하십시오. <a href="/help/marketo/product-docs/email-marketing/deliverability/set-up-spf-and-dkim-for-your-email-deliverability.md" target="_blank">SPF 및 DKIM</a>.</li>
+<li>이메일 전달성이 원하는 만큼 강하지 않은 경우 다음과 같은 이메일 전달성 모범 사례를 조사하고 구현하는 것을 고려하십시오. <a href="/help/marketo/product-docs/email-marketing/deliverability/set-up-spf-and-dkim-for-your-email-deliverability.md" target="_blank">SPF 및 DKIM</a>.</li>
 <li>당신은 당신의 전체 마케팅 대상자들에게 다가가고 있습니까?</li></td>
   </tr>
   <tr> 
