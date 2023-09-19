@@ -3,9 +3,9 @@ description: 상속한 기존 Marketo Engage 인스턴스를 최적화하고 확
 title: 상속된 Marketo Engage 인스턴스 Jumpstart
 hide: true
 hidefromtoc: true
-source-git-commit: 2f0f92fdd439d5119d577096c5bf6c034bcd2be5
+source-git-commit: 46a981c45d3fd7b78e97815193243b4f0d172f30
 workflow-type: tm+mt
-source-wordcount: '475'
+source-wordcount: '459'
 ht-degree: 0%
 
 ---
@@ -21,8 +21,6 @@ ht-degree: 0%
 * [**프로필 설정**](https://nation.marketo.com/){target="_blank"}.
 
 * 다음을 읽어 보십시오. [**마케팅 커뮤니티 지침**](https://nation.marketo.com/t5/community-guidelines/ct-p/community-guidelines){target="_blank"}.
-
-* 클릭 **[!UICONTROL 내 위치]** Marketo Nation 커뮤니티 프로필에서 회사 계정 페이지를 확인하십시오.
 
 * 방법 알아보기 [**지원 사례 제출**](https://nation.marketo.com/t5/Knowledgebase/Submitting-a-Support-Case-to-Marketo-Support/ta-p/252201){target="_blank"} (and confirm you're [**set up as an authorized support contact**](https://nation.marketo.com/t5/Knowledgebase/Managing-Authorized-Support-Contacts/ta-p/254341){target="_blank"}).
 
@@ -46,7 +44,7 @@ ht-degree: 0%
 
 Marketo Champions의 입력을 사용하여 Adobe은 몇 개의 Marketo Engage 상속 인스턴스 감사 확인 목록을 결합하여 빠르게 시작할 수 있도록 했습니다. 권장 도움말 설명서에 대한 링크를 포함하여 다양한 Marketo Engage 영역을 탐색하고 감사를 수행하는 데 필요한 다양한 작업을 수행하는 방법에 대해 알아봅니다.
 
-스프레드시트 양식에서 체크리스트를 다운로드할 수도 있습니다.
+다음을 수행할 수도 있습니다. [확인 목록 다운로드](/help/marketo/getting-started/inheriting-a-marketo-instance/assets/adobe-marketo-engage-inherited-instance-admin-checklist-09.2023.xlsx) 스프레드시트 형식으로 변환.
 
 * [관리 섹션](/help/marketo/getting-started/inheriting-a-marketo-instance/admin-section-checklist.md)
 

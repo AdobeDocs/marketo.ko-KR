@@ -3,7 +3,7 @@ description: 상속된 인스턴스 Design Studio 검사 목록 - Marketo 문서
 title: 상속된 인스턴스 Design Studio 검사 목록
 hide: true
 hidefromtoc: true
-source-git-commit: a3f99e113e862010c64568e51f37e55d6c25106c
+source-git-commit: 46a981c45d3fd7b78e97815193243b4f0d172f30
 workflow-type: tm+mt
 source-wordcount: '582'
 ht-degree: 1%
@@ -30,7 +30,7 @@ ht-degree: 1%
   </tr>
   <tr> 
    <td>템플릿</td> 
-   <td><li>몇 개 <a href="/help/marketo/product-docs/demand-generation/landing-pages/landing-page-templates/create-a-free-form-landing-page-template.md" target="_blank">랜딩 페이지 템플릿</a> 있습니까? 그들이 이용되고 있습니까?</li></td>
+   <td><li>몇 개 <a href="/help/marketo/product-docs/demand-generation/landing-pages/landing-page-templates/edit-a-marketo-landing-page-template.md" target="_blank">랜딩 페이지 템플릿</a> 있습니까? 그들이 이용되고 있습니까?</li></td>
   </tr>
   <tr> 
    <td>테스트 그룹</td> 
@@ -84,7 +84,7 @@ ht-degree: 1%
 <li>숨겨진 값이 적절하게 활용됩니까?</li>
 <li>Marketo Engage이 아닌 랜딩 페이지에서 사용 중인 Marketo Engage 양식이 있습니까? 어떻게 참조되고 있습니까?</li>
 <p><img src="assets/tip-icon.png" alt="팁 아이콘">팁: 새로운 포함 코드가 도입된 Marketo Engage 양식을 포함하는 페이지를 업데이트합니다(보안 랜딩 페이지 필요).
-<p><a href="/help/marketo/getting-started/inheriting-a-marketo-instance/assets/design-studio-checklist-2.png"><img src="assets/design-studio-checklist-1.png" alt="코드 썸네일"></a>
+<p><a href="/help/marketo/getting-started/inheriting-a-marketo-instance/assets/design-studio-checklist-2.png" target="_blank"><img src="assets/design-studio-checklist-1.png" alt="코드 썸네일"></a>
 </td>
   </tr>
   <tr> 
