@@ -3,7 +3,7 @@ audience: end-user
 user-guide-title: Marketo 안내서
 user-guide-description: Marketo 제품 설명서
 feature-set: Marketo Engage
-source-git-commit: 092b66fe4170d571d373291f84971e2beda6d7d7
+source-git-commit: c6bafe84ce856705b233818dddb49e4770c60d86
 workflow-type: tm+mt
 source-wordcount: '9098'
 ht-degree: 0%
@@ -38,7 +38,7 @@ ht-degree: 0%
       + [랜딩 페이지 리디렉션](getting-started/quick-wins/redirect-a-landing-page.md)
       + [중복 가능성이 있는 사용자에 대한 경고 자동화](getting-started/quick-wins/advanced-solutions/automate-an-alert-for-possible-duplicate-people.md)
    + Marketo Engage 인스턴스 상속 {#inheriting-a-marketo-engage-instance}
-      + [시작 위치](getting-started/inheriting-a-marketo-engage-instance/new-inherit-overview.md)
+      + [시작 위치](getting-started/inheriting-a-marketo-engage-instance/where-to-start.md)
       + [상속된 인스턴스: 관리 섹션 확인 목록](getting-started/inheriting-a-marketo-engage-instance/admin-section-checklist.md)
       + [상속된 인스턴스: 데이터베이스 검사 목록](getting-started/inheriting-a-marketo-engage-instance/database-checklist.md)
       + [상속된 인스턴스: 마케팅 활동 검사 목록](getting-started/inheriting-a-marketo-engage-instance/marketing-activities-checklist.md)
