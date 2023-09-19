@@ -3,9 +3,9 @@ description: 상속된 인스턴스 Design Studio 검사 목록 - Marketo 문서
 title: 상속된 인스턴스 Design Studio 검사 목록
 hide: true
 hidefromtoc: true
-source-git-commit: 30a7b16e20b6abdfe4f7c10000e64d556ba94116
+source-git-commit: de7dcdfc580d9d6b01a55d366c895fc6c696975c
 workflow-type: tm+mt
-source-wordcount: '560'
+source-wordcount: '580'
 ht-degree: 1%
 
 ---
@@ -24,7 +24,9 @@ ht-degree: 1%
   </tr> 
   <tr> 
    <td>전역 랜딩 페이지</td> 
-   <td><li>얼마나 많은 글로벌 <a href="/help/marketo/product-docs/demand-generation/landing-pages/understanding-landing-pages/understanding-free-form-vs-guided-landing-pages.md" target="_blank">랜딩 페이지</a> 있습니까? 프로그램에서 사용하고 있습니까?</li></td>
+   <td><li>얼마나 많은 글로벌 <a href="/help/marketo/product-docs/demand-generation/landing-pages/understanding-landing-pages/understanding-free-form-vs-guided-landing-pages.md" target="_blank">랜딩 페이지</a> 있습니까? 프로그램에서 사용하고 있습니까?</li>
+   <li>가지고 계세요 <a href="https://experienceleague.adobe.com/docs/marketo-learn/tutorials/lead-and-data-management/subscription-center-learn.html" target="_blank">구독 센터</a> 설정하시겠습니까?
+   <br/>     그렇지 않으면 새로 만드는 것이 좋습니다.</li></td>
   </tr>
   <tr> 
    <td>템플릿</td> 
@@ -83,7 +85,8 @@ ht-degree: 1%
 <li>Marketo Engage이 아닌 랜딩 페이지에서 사용 중인 Marketo Engage 양식이 있습니까? 어떻게 참조되고 있습니까?</li>
 <p><img src="assets/tip-icon.png" alt="팁 아이콘">팁: 새로운 포함 코드가 도입된 Marketo Engage 양식을 포함하는 페이지를 업데이트합니다(보안 랜딩 페이지 필요).
 <br/><pre><script src="//example.marketo.com/js/forms2/js/forms2.min.js"></script></pre>
-<br/><pre><form id="mktoForm_1"></form><script>MktoForms2.loadForm("//example.marketo.com", "123-ABC-456", 1);</script></pre>
+<blockquote><form id="mktoForm_1"></form></blockquote>
+<script>MktoForms2.loadForm("//example.marketo.com", "123-ABC-456", 1);</script>
 </td>
   </tr>
   <tr> 
