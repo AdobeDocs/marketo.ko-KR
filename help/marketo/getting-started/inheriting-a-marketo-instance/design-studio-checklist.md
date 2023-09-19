@@ -3,9 +3,9 @@ description: 상속된 인스턴스 Design Studio 검사 목록 - Marketo 문서
 title: 상속된 인스턴스 Design Studio 검사 목록
 hide: true
 hidefromtoc: true
-source-git-commit: 0d6507c251e2b7567483af8d75158f6bc6a1ca49
+source-git-commit: 30a7b16e20b6abdfe4f7c10000e64d556ba94116
 workflow-type: tm+mt
-source-wordcount: '553'
+source-wordcount: '560'
 ht-degree: 1%
 
 ---
@@ -41,6 +41,31 @@ ht-degree: 1%
  </tbody> 
 </table>
 
+## 이미지 및 파일 {#images-and-files}
+
+<table style="table-layout:auto"> 
+ <tbody> 
+  <tr> 
+   <th style="width:20%">영역</th> 
+   <th>리뷰 포커스</th>
+  </tr> 
+  <tr> 
+   <td>이름 지정 규칙</td> 
+   <td><li>실행 <a href="/help/marketo/product-docs/demand-generation/images-and-files/add-images-and-files-to-marketo.md" target="_blank">이미지 및 파일</a> 일관된 이름 지정 규칙이 있습니까?</li></td>
+  </tr>
+  <tr> 
+   <td>폴더 구조</td> 
+   <td><li>이미지 및 파일 <a href="/help/marketo/product-docs/demand-generation/images-and-files/organize-your-images-and-files-using-folders.md" target="_blank">적절히 구성됨</a> 검색하기 쉽나요?</li></td>
+  </tr>
+  <tr> 
+   <td>이미지 및 파일</td> 
+   <td><li>이미지 또는 파일 실행 <a href="/help/marketo/product-docs/demand-generation/images-and-files/find-the-url-of-an-uploaded-image-or-file.md" target="_blank">웹 페이지에서 참조됨</a> 업데이트해야 합니까? 
+   <p>예: 하드코딩된 URL 구조 <a href="https://nation.marketo.com/t5/product-documents/upcoming-changes-to-design-studio-urls/ta-p/306632#_Toc54870361" target="_blank">업데이트해야 할 수 있음</a>, 예: <code>http://na-sj01.marketo.com/rs/123-ABC-456/images/puppy.png</code>. 
+   <p>웹 개발자와 협력하여 업데이트할 위치를 결정하십시오.</li></td>
+  </tr>
+ </tbody> 
+</table>
+
 ## Forms {#forms}
 
 <table style="table-layout:auto"> 
@@ -57,8 +82,8 @@ ht-degree: 1%
 <li>숨겨진 값이 적절하게 활용됩니까?</li>
 <li>Marketo Engage이 아닌 랜딩 페이지에서 사용 중인 Marketo Engage 양식이 있습니까? 어떻게 참조되고 있습니까?</li>
 <p><img src="assets/tip-icon.png" alt="팁 아이콘">팁: 새로운 포함 코드가 도입된 Marketo Engage 양식을 포함하는 페이지를 업데이트합니다(보안 랜딩 페이지 필요).
-<br/><script src="//example.marketo.com/js/forms2/js/forms2.min.js"></script>
-<br/><form id="mktoForm_1"><script>MktoForms2.loadForm("//example.marketo.com", "123-ABC-456", 1);</script>
+<br/><pre><script src="//example.marketo.com/js/forms2/js/forms2.min.js"></script></pre>
+<br/><pre><form id="mktoForm_1"></form><script>MktoForms2.loadForm("//example.marketo.com", "123-ABC-456", 1);</script></pre>
 </td>
   </tr>
   <tr> 
@@ -120,31 +145,6 @@ ht-degree: 1%
  </tbody> 
 </table>
 
-## 이미지 및 파일 {#images-and-files}
-
-<table style="table-layout:auto"> 
- <tbody> 
-  <tr> 
-   <th style="width:20%">영역</th> 
-   <th>리뷰 포커스</th>
-  </tr> 
-  <tr> 
-   <td>이름 지정 규칙</td> 
-   <td><li>실행 <a href="/help/marketo/product-docs/demand-generation/images-and-files/add-images-and-files-to-marketo.md" target="_blank">이미지 및 파일</a> 일관된 이름 지정 규칙이 있습니까?</li></td>
-  </tr>
-  <tr> 
-   <td>폴더 구조</td> 
-   <td><li>이미지 및 파일 <a href="/help/marketo/product-docs/demand-generation/images-and-files/organize-your-images-and-files-using-folders.md" target="_blank">적절히 구성됨</a> 검색하기 쉽나요?</li></td>
-  </tr>
-  <tr> 
-   <td>이미지 및 파일</td> 
-   <td><li>이미지 또는 파일 실행 <a href="/help/marketo/product-docs/demand-generation/images-and-files/find-the-url-of-an-uploaded-image-or-file.md" target="_blank">웹 페이지에서 참조됨</a> 업데이트해야 합니까? 
-   <p>예: 하드코딩된 URL 구조 <a href="https://nation.marketo.com/t5/product-documents/upcoming-changes-to-design-studio-urls/ta-p/306632#_Toc54870361" target="_blank">업데이트해야 할 수 있음</a>, 예: <code>http://na-sj01.marketo.com/rs/123-ABC-456/images/puppy.png</code>. 
-   <p>웹 개발자와 협력하여 업데이트할 위치를 결정하십시오.</li></td>
-  </tr>
- </tbody> 
-</table>
-
 ## 모든 에셋 {#all-assets}
 
 <table style="table-layout:auto"> 
@@ -155,7 +155,7 @@ ht-degree: 1%
   </tr> 
   <tr> 
    <td>에셋 상태</td> 
-   <td><li>에셋 수 <i>초안</i> 및 <i>초안으로 승인됨</i> 상태?
+   <td><li>에셋 수 <i>초안</i> 및 <i>초안으로 승인됨</i> 상태(예: <a href="/help/marketo/product-docs/email-marketing/general/creating-an-email/approve-an-email.md" target="_blank">이메일</a>, <a href="/help/marketo/product-docs/demand-generation/landing-pages/understanding-landing-pages/approve-unapprove-or-delete-a-landing-page.md#approve-a-landing-page" target="_blank">랜딩 페이지</a>, <a href="/help/marketo/product-docs/demand-generation/forms/creating-a-form/approve-a-form.md" target="_blank">양식</a>, <a href="/help/marketo/product-docs/personalization/segmentation-and-snippets/snippets/approve-a-snippet.md" target="_blank">코드 조각</a>)?
    <br/>     많은 항목이 있는 경우 삭제하거나 승인하는 것이 좋습니다.</li></td>
   </tr>
   <tr> 
