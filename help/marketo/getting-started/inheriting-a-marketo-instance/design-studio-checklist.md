@@ -3,7 +3,7 @@ description: 상속된 인스턴스 Design Studio 검사 목록 - Marketo 문서
 title: 상속된 인스턴스 Design Studio 검사 목록
 hide: true
 hidefromtoc: true
-source-git-commit: de7dcdfc580d9d6b01a55d366c895fc6c696975c
+source-git-commit: e859c6b7c968f93b11bbd8dc281661824236fbaf
 workflow-type: tm+mt
 source-wordcount: '580'
 ht-degree: 1%
@@ -84,9 +84,9 @@ ht-degree: 1%
 <li>숨겨진 값이 적절하게 활용됩니까?</li>
 <li>Marketo Engage이 아닌 랜딩 페이지에서 사용 중인 Marketo Engage 양식이 있습니까? 어떻게 참조되고 있습니까?</li>
 <p><img src="assets/tip-icon.png" alt="팁 아이콘">팁: 새로운 포함 코드가 도입된 Marketo Engage 양식을 포함하는 페이지를 업데이트합니다(보안 랜딩 페이지 필요).
-<br/><pre><script src="//example.marketo.com/js/forms2/js/forms2.min.js"></script></pre>
-<blockquote><form id="mktoForm_1"></form></blockquote>
-<script>MktoForms2.loadForm("//example.marketo.com", "123-ABC-456", 1);</script>
+<br/><textarea style="width: 100%; max-width: 100%; height: 80px;"><script src="//example.marketo.com/js/forms2/js/forms2.min.js"></script>
+<form id="mktoForm_1"></form>
+<script>MktoForms2.loadForm("//example.marketo.com", "123-ABC-456", 1);</script></textarea>
 </td>
   </tr>
   <tr> 
