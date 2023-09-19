@@ -3,7 +3,7 @@ description: 상속된 인스턴스 Design Studio 검사 목록 - Marketo 문서
 title: 상속된 인스턴스 Design Studio 검사 목록
 hide: true
 hidefromtoc: true
-source-git-commit: 18749bdff222980177b46969b105216d7b720db9
+source-git-commit: 0d6507c251e2b7567483af8d75158f6bc6a1ca49
 workflow-type: tm+mt
 source-wordcount: '553'
 ht-degree: 1%
@@ -94,6 +94,7 @@ ht-degree: 1%
   <tr> 
    <td>이메일 테스트</td> 
    <td><li>사용 방법 <a href="/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/email-test-a-b-test/understanding-email-testing-options.md" target="_blank">이메일 테스트</a>? 당신의 방법은 여전히 효과적입니까?</li></td>
+  </tr>
   </tr>
   <tr> 
    <td>개인 정보 및 규정 준수</td> 

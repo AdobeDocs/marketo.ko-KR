@@ -3,9 +3,9 @@ description: 상속된 인스턴스 관리 검사 목록 - Marketo 문서 - 제�
 title: 상속된 인스턴스 관리 검사 목록
 hide: true
 hidefromtoc: true
-source-git-commit: 711e8c7ba0249e9c88d146113b1cfae298d35aa3
+source-git-commit: 0d6507c251e2b7567483af8d75158f6bc6a1ca49
 workflow-type: tm+mt
-source-wordcount: '1566'
+source-wordcount: '1592'
 ht-degree: 1%
 
 ---
@@ -231,6 +231,21 @@ ht-degree: 1%
    <td>사용자 지정 개체</td> 
    <td><li>몇 개 <a href="/help/marketo/product-docs/administration/marketo-custom-objects/understanding-marketo-custom-objects.md" target="_blank">사용자 지정 개체</a> 있습니까? CRM에 동기화되는 방법은 무엇입니까?</li>
 <li>프로그램 및 목록 쿼리에서 이러한 사용자 지정 개체를 어떻게 활용합니까?</li></td>
+  </tr>
+ </tbody> 
+</table>
+
+## 이메일 {#email}
+
+<table style="table-layout:auto"> 
+ <tbody> 
+  <tr> 
+   <th style="width:20%">영역</th>
+   <th>리뷰 포커스</th>
+  </tr> 
+  <tr> 
+   <td>이메일 기본 설정</td> 
+   <td><li>관리 &gt; 이메일에서, 는 모든 기본 설정을 최신 상태로 유지합니다(예: <a href="/help/marketo/product-docs/administration/email-setup/change-the-default-from-email-and-from-label.md" target="_blank">"보낸 사람" 이메일/레이블</a>, <a href="/help/marketo/product-docs/administration/email-setup/add-multiple-branding-domains/edit-your-default-branding-domain.md" target="_blank">브랜딩 도메인</a>, <a href="/help/marketo/product-docs/administration/email-setup/edit-the-unsubscribe-message.md" target="_blank">메시지 구독 취소</a>등)?</li></td>
   </tr>
  </tbody> 
 </table>

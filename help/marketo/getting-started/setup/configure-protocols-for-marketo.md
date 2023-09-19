@@ -4,9 +4,9 @@ description: Marketo에 대한 프로토콜 구성 - Marketo 문서 - 제품 설
 title: Marketo에 대한 프로토콜 구성
 exl-id: cf2fd4ac-9229-4e52-bb68-5732b44920ef
 feature: Getting Started
-source-git-commit: 232895f3d07b2b076100eeaaabaea0ed7560c7b2
+source-git-commit: 0d6507c251e2b7567483af8d75158f6bc6a1ca49
 workflow-type: tm+mt
-source-wordcount: '1026'
+source-wordcount: '1028'
 ht-degree: 3%
 
 ---
@@ -114,7 +114,7 @@ For example:
 
    `[DKIMDomain2]`: 호스트 레코드: `[HostRecord2]` 그리고 TXT 값은 `[TXTValue2]`.
 
-   다음을 수행한 후 설정한 각 DKIMDomain의 HostRecord 및 TXTValue를 복사합니다. [여기에 있는 지침](/help/marketo/product-docs/email-marketing/deliverability/set-up-a-custom-dkim-signature.md){target="_blank"}. IT 직원이 이 단계를 완료한 후 관리 > 이메일 > DKIM에서 각 도메인을 확인하는 것을 잊지 마십시오.
+   다음 단계를 수행하여 설정한 각 DKIMDomain의 HostRecord 및 TXTValue를 복사합니다. [여기에 있는 지침](/help/marketo/product-docs/email-marketing/deliverability/set-up-a-custom-dkim-signature.md){target="_blank"}. IT 직원이 이 단계를 완료한 후 관리 > 이메일 > DKIM에서 각 도메인을 확인하는 것을 잊지 마십시오.
 
 ## 4단계: 도메인에 대한 MX 레코드 설정 {#step-set-up-mx-records-for-your-domain}
 

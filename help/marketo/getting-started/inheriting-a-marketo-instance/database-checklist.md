@@ -3,9 +3,9 @@ description: 상속된 인스턴스 데이터베이스 검사 목록 - Marketo �
 title: 상속된 인스턴스 데이터베이스 검사 목록
 hide: true
 hidefromtoc: true
-source-git-commit: 74afe85b5d7b78cc4bce3e2ec89cb5c1a56d2f59
+source-git-commit: 0d6507c251e2b7567483af8d75158f6bc6a1ca49
 workflow-type: tm+mt
-source-wordcount: '386'
+source-wordcount: '421'
 ht-degree: 1%
 
 ---
@@ -74,6 +74,7 @@ ht-degree: 1%
   <tr> 
    <td>스마트 목록</td> 
    <td><li>몇 개 <a href="/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/understanding-smart-lists.md" target="_blank">스마트 목록</a> 있습니까? 이 인스턴스에서는 어떻게 사용됩니까?</li>
+   <p><img src="assets/note-icon.png" alt="메모 아이콘"> 참고: 데이터베이스 섹션에서 Marketo Engage 스마트 목록은 사용자가 생성한 목록이며 시스템 스마트 목록은 사용자가 생성한 기본 목록입니다.
 <li>목록은 일관된 폴더 구조로 구성되어 있습니까? 
 <br/>     고아 목록이 있는 경우 에셋을 쉽게 찾을 수 있도록 트리 구성을 고려하십시오.</li>
 <p><img src="assets/tip-icon.png" alt="팁 아이콘">팁: <a href="/help/marketo/product-docs/core-marketo-concepts/miscellaneous/understanding-folders.md#archive-a-folder" target="_blank">보관 중</a> 더 이상 필요하지 않은 스마트 목록은 조직 및 성능에 도움이 됩니다.</td>
@@ -91,7 +92,8 @@ ht-degree: 1%
   </tr> 
   <tr> 
    <td>정적 목록</td> 
-   <td><li>몇 개 <a href="/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/static-lists/understanding-static-lists.md" target="_blank">정적 목록</a> 있습니까? 이 인스턴스에서는 어떻게 사용됩니까?</li></td>
+   <td><li>몇 개 <a href="/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/static-lists/understanding-static-lists.md" target="_blank">정적 목록</a> 있습니까? 이 인스턴스에서는 어떻게 사용됩니까?</li>
+   <p><img src="assets/note-icon.png" alt="메모 아이콘"> 참고: 데이터베이스 섹션에서 그룹 목록은 정적 목록입니다.</td>
   </tr>
  </tbody> 
 </table>

@@ -3,9 +3,9 @@ description: 상속된 인스턴스 문서 설정 - Marketo 문서 - 제품 설�
 title: 상속된 인스턴스 문서 내 설정
 hide: true
 hidefromtoc: true
-source-git-commit: 18749bdff222980177b46969b105216d7b720db9
+source-git-commit: 0d6507c251e2b7567483af8d75158f6bc6a1ca49
 workflow-type: tm+mt
-source-wordcount: '310'
+source-wordcount: '305'
 ht-degree: 1%
 
 ---
@@ -56,7 +56,7 @@ ht-degree: 1%
   <tr> 
    <td>변경 로그</td> 
     <td><li>인스턴스의 변경 사항과 그 이유를 문서화할 수 있는 변경 로그가 있습니까?</li>
-    <p><img src="assets/action-item-icon.png" alt="작업 항목 아이콘">작업 항목: 이 예제를 다운로드하여 인스턴스 설정에 대한 변경 로그 및 문서 변경 사항을 만듭니다.</td>
+    <p><img src="assets/action-item-icon.png" alt="작업 항목 아이콘">작업 항목: 인스턴스 구성에 대한 변경 로그와 문서 변경 사항을 만듭니다.</td>
   </tr>
   <tr> 
    <td>플레이북</td> 
@@ -67,7 +67,7 @@ ht-degree: 1%
    <td>내부 이해 당사자와의 대화</td> 
     <td><li>귀사의 마케팅 팀 내부 기대치는 어떻습니까? 어떤 Marketo Engage이 전달되는지 일치합니까?</li>
    <li>Marketo Engage 인스턴스의 이해 당사자는 무엇입니까?</li>
-   <p><img src="assets/action-item-icon.png" alt="작업 항목 아이콘">작업 항목: 이 항목 다운로드 <a href="https://nation.marketo.com/t5/product-blogs/planning-and-communicating-about-your-marketo-onboarding/ba-p/243555?attachment-id=1705" target="_blank">내부 관련자 커뮤니케이션 안내서 템플릿</a> 주요 관련자의 목표와 기대치를 문서화합니다.</td>
+   <p><img src="assets/action-item-icon.png" alt="작업 항목 아이콘">작업 항목: 주요 이해 관계자의 목표와 기대를 문서화하고 연중 내내 해당 이해 관계자와 확인하면서 업데이트합니다.</td>
   </tr>
  </tbody> 
 </table>
