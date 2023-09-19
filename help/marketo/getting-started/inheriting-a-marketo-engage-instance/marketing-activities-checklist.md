@@ -2,7 +2,7 @@
 description: 상속된 인스턴스 마케팅 활동 체크리스트 - Marketo 문서 - 제품 설명서
 title: 상속된 인스턴스 마케팅 활동 검사 목록
 feature: Getting Started
-source-git-commit: 092b66fe4170d571d373291f84971e2beda6d7d7
+source-git-commit: 2120b700fde80f470b5e221c0212c8d29e3920ae
 workflow-type: tm+mt
 source-wordcount: '835'
 ht-degree: 0%
@@ -11,7 +11,7 @@ ht-degree: 0%
 
 # 상속된 인스턴스: 마케팅 활동 검사 목록 {#inherited-instance-marketing-activities-checklist}
 
-마케팅 활동 섹션을 적절히 구성하여 다른 사람이 Marketo Engage 인스턴스 내에서 다양한 프로그램을 찾고 관리할 수 있도록 하고 마케팅 담당자들이 마케팅에서 영업으로 전달되도록 처리합니다. 다음을 잊지 마십시오. [확인 목록 다운로드](/help/marketo/getting-started/inheriting-a-marketo-instance/assets/adobe-marketo-engage-inherited-instance-admin-checklist.xlsx) 진행 상황을 추적할 수 있습니다.
+마케팅 활동 섹션을 적절히 구성하여 다른 사람이 Marketo Engage 인스턴스 내에서 다양한 프로그램을 찾고 관리할 수 있도록 하고 마케팅 담당자들이 마케팅에서 영업으로 전달되도록 처리합니다. 다음을 잊지 마십시오. [확인 목록 다운로드](/help/marketo/getting-started/inheriting-a-marketo-engage-instance/assets/adobe-marketo-engage-inherited-instance-admin-checklist.xlsx) 진행 상황을 추적할 수 있습니다.
 
 ## 조직 {#organization}
 
@@ -167,6 +167,6 @@ ht-degree: 0%
 
 <br> 
 
-[◄ 인스턴스 감사: 데이터베이스](/help/marketo/getting-started/inheriting-a-marketo-instance/database-checklist.md)
+[◄ 인스턴스 감사: 데이터베이스](/help/marketo/getting-started/inheriting-a-marketo-engage-instance/database-checklist.md)
 
-[상속된 인스턴스 감사: Design Studio ►](/help/marketo/getting-started/inheriting-a-marketo-instance/design-studio-checklist.md)
+[상속된 인스턴스 감사: Design Studio ►](/help/marketo/getting-started/inheriting-a-marketo-engage-instance/design-studio-checklist.md)

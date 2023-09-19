@@ -2,7 +2,7 @@
 description: 상속한 기존 Marketo Engage 인스턴스를 최적화하고 확장하는 방법을 알아봅니다. 체크리스트에 따라 관리자 설정을 감사하고 데이터베이스 위생을 유지합니다.
 title: 시작 위치
 feature: Getting Started
-source-git-commit: 25ed17585865d8232a4cc19cbf67b9842342b020
+source-git-commit: 2120b700fde80f470b5e221c0212c8d29e3920ae
 workflow-type: tm+mt
 source-wordcount: '468'
 ht-degree: 0%
@@ -43,17 +43,17 @@ ht-degree: 0%
 
 Marketo Champions의 입력을 사용하여 Adobe은 몇 가지 Marketo Engage 상속 인스턴스 감사 체크리스트를 결합하여 첫 번째 실행을 도와줍니다. 권장 도움말 설명서에 대한 링크를 포함하여 다양한 Marketo Engage 영역을 탐색하고 감사를 수행하는 데 필요한 다양한 작업을 수행하는 방법에 대해 알아봅니다.
 
-다음을 수행할 수도 있습니다. [확인 목록 다운로드](/help/marketo/getting-started/inheriting-a-marketo-instance/assets/adobe-marketo-engage-inherited-instance-admin-checklist.xlsx) 스프레드시트 형식으로 변환.
+다음을 수행할 수도 있습니다. [확인 목록 다운로드](/help/marketo/getting-started/inheriting-a-marketo-engage-instance/assets/adobe-marketo-engage-inherited-instance-admin-checklist.xlsx) 스프레드시트 형식으로 변환.
 
-* [관리 섹션](/help/marketo/getting-started/inheriting-a-marketo-instance/admin-section-checklist.md)
+* [관리 섹션](/help/marketo/getting-started/inheriting-a-marketo-engage-instance/admin-section-checklist.md)
 
-* [데이터베이스](/help/marketo/getting-started/inheriting-a-marketo-instance/database-checklist.md)
+* [데이터베이스](/help/marketo/getting-started/inheriting-a-marketo-engage-instance/database-checklist.md)
 
-* [마케팅 활동](/help/marketo/getting-started/inheriting-a-marketo-instance/marketing-activities-checklist.md)
+* [마케팅 활동](/help/marketo/getting-started/inheriting-a-marketo-engage-instance/marketing-activities-checklist.md)
 
-* [Design Studio](/help/marketo/getting-started/inheriting-a-marketo-instance/design-studio-checklist.md)
+* [Design Studio](/help/marketo/getting-started/inheriting-a-marketo-engage-instance/design-studio-checklist.md)
 
-* [상속된 인스턴스 설정을 문서화합니다.](/help/marketo/getting-started/inheriting-a-marketo-instance/document-your-setup.md)
+* [상속된 인스턴스 설정을 문서화합니다.](/help/marketo/getting-started/inheriting-a-marketo-engage-instance/document-your-setup.md)
 
 ## 도움말 받는 방법 {#ways-to-get-help}
 

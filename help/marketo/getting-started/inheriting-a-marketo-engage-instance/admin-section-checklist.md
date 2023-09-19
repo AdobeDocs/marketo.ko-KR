@@ -2,7 +2,7 @@
 description: 상속된 인스턴스 관리 검사 목록 - Marketo 문서 - 제품 설명서
 title: 상속된 인스턴스 관리 검사 목록
 feature: Getting Started
-source-git-commit: 092b66fe4170d571d373291f84971e2beda6d7d7
+source-git-commit: 2120b700fde80f470b5e221c0212c8d29e3920ae
 workflow-type: tm+mt
 source-wordcount: '1592'
 ht-degree: 1%
@@ -11,7 +11,7 @@ ht-degree: 1%
 
 # 상속된 인스턴스: 관리 섹션 확인 목록 {#inherited-instance-admin-section-checklist}
 
-아래 체크리스트(각 문서의 하단에 연결된 후속 체크리스트)는 Adobe Professional Services에서 Marketo 챔피언의 입력을 통해 통합하여 빠르게 시작할 수 있도록 구성되었습니다. 다음을 수행할 수도 있습니다. [확인 목록 다운로드](/help/marketo/getting-started/inheriting-a-marketo-instance/assets/adobe-marketo-engage-inherited-instance-admin-checklist.xlsx) 진행 상황을 추적할 수 있습니다.
+아래 체크리스트(각 문서의 하단에 연결된 후속 체크리스트)는 Adobe Professional Services에서 Marketo 챔피언의 입력을 통해 통합하여 빠르게 시작할 수 있도록 구성되었습니다. 다음을 수행할 수도 있습니다. [확인 목록 다운로드](/help/marketo/getting-started/inheriting-a-marketo-engage-instance/assets/adobe-marketo-engage-inherited-instance-admin-checklist.xlsx) 진행 상황을 추적할 수 있습니다.
 
 >[!TIP]
 >
@@ -364,4 +364,4 @@ ht-degree: 1%
 
 <br> 
 
-[상속된 인스턴스 감사: 데이터베이스 ►](/help/marketo/getting-started/inheriting-a-marketo-instance/database-checklist.md)
+[상속된 인스턴스 감사: 데이터베이스 ►](/help/marketo/getting-started/inheriting-a-marketo-engage-instance/database-checklist.md)

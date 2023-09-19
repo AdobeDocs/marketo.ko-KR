@@ -2,7 +2,7 @@
 description: 상속된 인스턴스 Design Studio 검사 목록 - Marketo 문서 - 제품 설명서
 title: 상속된 인스턴스 Design Studio 검사 목록
 feature: Getting Started
-source-git-commit: 092b66fe4170d571d373291f84971e2beda6d7d7
+source-git-commit: 2120b700fde80f470b5e221c0212c8d29e3920ae
 workflow-type: tm+mt
 source-wordcount: '591'
 ht-degree: 1%
@@ -11,7 +11,7 @@ ht-degree: 1%
 
 # 상속된 인스턴스: Design Studio 검사 목록 {#inherited-instance-design-studio-checklist}
 
-템플릿을 구조화하고 글로벌 양식, 코드 조각, 이미지 및 파일을 만들면 데이터 오류를 최소화하고 프로그램 빌드의 워크플로를 간소화할 수 있습니다. 다음을 잊지 마십시오. [확인 목록 다운로드](/help/marketo/getting-started/inheriting-a-marketo-instance/assets/adobe-marketo-engage-inherited-instance-admin-checklist.xlsx) 진행 상황을 추적할 수 있습니다.
+템플릿을 구조화하고 글로벌 양식, 코드 조각, 이미지 및 파일을 만들면 데이터 오류를 최소화하고 프로그램 빌드의 워크플로를 간소화할 수 있습니다. 다음을 잊지 마십시오. [확인 목록 다운로드](/help/marketo/getting-started/inheriting-a-marketo-engage-instance/assets/adobe-marketo-engage-inherited-instance-admin-checklist.xlsx) 진행 상황을 추적할 수 있습니다.
 
 ## 랜딩 페이지 {#landing-pages}
 
@@ -83,7 +83,7 @@ ht-degree: 1%
 <li>숨겨진 값이 적절하게 활용됩니까?</li>
 <li>Marketo Engage이 아닌 랜딩 페이지에서 사용 중인 Marketo Engage 양식이 있습니까? 어떻게 참조되고 있습니까?</li>
 <p><img src="assets/tip-icon.png" alt="팁 아이콘">팁: 새로운 포함 코드가 도입된 Marketo Engage 양식을 포함하는 페이지를 업데이트합니다(보안 랜딩 페이지 필요).
-<p><a href="/help/marketo/getting-started/inheriting-a-marketo-instance/assets/design-studio-checklist-2.png" target="_blank"><img src="assets/design-studio-checklist-1.png" alt="코드 썸네일"></a>
+<p><a href="/help/marketo/getting-started/inheriting-a-marketo-engage-instance/assets/design-studio-checklist-2.png" target="_blank"><img src="assets/design-studio-checklist-1.png" alt="코드 썸네일"></a>
 </td>
   </tr>
   <tr> 
@@ -168,6 +168,6 @@ ht-degree: 1%
 
 <br> 
 
-[◄ 인스턴스 감사: 마케팅 활동](/help/marketo/getting-started/inheriting-a-marketo-instance/marketing-activities-checklist.md)
+[◄ 인스턴스 감사: 마케팅 활동](/help/marketo/getting-started/inheriting-a-marketo-engage-instance/marketing-activities-checklist.md)
 
-[상속된 인스턴스 감사: 상속된 인스턴스 설정 문서를 ►](/help/marketo/getting-started/inheriting-a-marketo-instance/document-your-setup.md)
+[상속된 인스턴스 감사: 상속된 인스턴스 설정 문서를 ►](/help/marketo/getting-started/inheriting-a-marketo-engage-instance/document-your-setup.md)
