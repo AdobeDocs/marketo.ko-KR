@@ -4,10 +4,10 @@ description: 동적 필드 용어집 - Marketo 문서 - 제품 설명서
 title: 동적 필드 용어집
 exl-id: 28351ba9-53da-4408-9526-918200d9bd29
 feature: Marketo Sales Connect
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: d6a3d95ed42d1c08d69014e1aa013e7436bd06c2
 workflow-type: tm+mt
 source-wordcount: '176'
-ht-degree: 0%
+ht-degree: 1%
 
 ---
 
@@ -19,14 +19,14 @@ Sales Connect에서 템플릿을 생성할 때는 항상 를 사용하여 동적
 
 | 동적 필드 | 이메일에 표시되는 항목 예 |
 |---|---|
-| `{{company}}` | Marketo |
-| `{{company_friendly}}` | Marketo |
+| `{{company}}` | Adobe |
+| `{{company_friendly}}` | Adobe |
 | `{{first_name}}` | 키스 |
 | `{{friendly_unsubscribe}}` | 다시 소식을 듣고 싶지 않으시면 여기 좀 알려주세요 |
-| `{{my_name}}` | 앨런 브래들리 |
+| `{{my_name}}` | 키스 플린 |
 | `{{personal_email}}` | keith@pickyouremail.com |
 | `{{title}}` | 수석 기술 저자 |
-| `{{work_website}}` | https://www.marketo.com |
+| `{{work_website}}` | https://www.adobe.com |
 
 **유의할 사항**:
 
