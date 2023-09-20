@@ -2,9 +2,9 @@
 description: 릴리스 노트 - 2023년 9월 - Marketo 설명서 - 제품 설명서
 title: 릴리스 노트 - 2023년 9월
 feature: Release Information
-source-git-commit: 93aae6830eba6de393c428e59a1d95da2bb8d413
+source-git-commit: f11e455196cdfb7a6c1054df40344cab5b06772b
 workflow-type: tm+mt
-source-wordcount: '849'
+source-wordcount: '793'
 ht-degree: 1%
 
 ---
@@ -52,16 +52,6 @@ ht-degree: 1%
    <td><strong>Design Studio 에셋의 향상된 탭에서 사용됨</strong>: 기능에서 사용 탭은 에셋이 사용되는 위치와 함께 에셋의 유형 및 이름에 대한 자세한 보기를 제공합니다. 이메일 세부 정보 및 이미지 및 파일 세부 정보에 적용됩니다.</td> 
    <td>배송됨</td>
    <td>해당 사항 없음</td>
-  </tr>
-   <tr> 
-   <td> </td> 
-   <td> </td>
-   <td> </td>
-  </tr>
-   <tr> 
-   <td><strong>계산 공식 플로우 단계 서비스</strong>: Compute Formula는 Marketo Engage 스마트 캠페인과 함께 사용할 수 있도록 Adobe의 IO Runtime 플랫폼에 구축된 흐름 단계 서비스입니다. IO 런타임을 사용하는 Adobe 클라이언트는 서비스를 배포하고 Marketo Engage 구독에 설치하여 Marketo 스마트 캠페인에서 Excel과 유사한 공식을 계산할 수 있습니다.</td> 
-   <td><i>곧 출시 예정</i></td>
-   <td><i>곧 출시 예정</i></td>
   </tr>
  </tbody> 
 </table>
