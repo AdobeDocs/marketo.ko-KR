@@ -2,9 +2,9 @@
 description: Dynamic Chat 개요 - Marketo 문서 - 제품 설명서
 title: Dynamic Chat 개요
 feature: Dynamic Chat
-source-git-commit: 78ca35c105be2fd437da2f783388d5bfaced8c70
+source-git-commit: 93aae6830eba6de393c428e59a1d95da2bb8d413
 workflow-type: tm+mt
-source-wordcount: '654'
+source-wordcount: '641'
 ht-degree: 1%
 
 ---
@@ -64,10 +64,6 @@ Dynamic Chat JavaScript 코드 조각은 Marketo 랜딩 페이지뿐만 아니�
 **보고를 위해 데이터가 저장되는 기간은 얼마입니까?**
 
 90일.
-
-**Dynamic Chat에서 라이브 채팅을 허용합니까?**
-
-아니요, 미리 결정된 응답만 활용합니다.
 
 **Dynamic Chat은 영어 외에 다른 언어를 지원합니까?**
 

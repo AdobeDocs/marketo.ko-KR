@@ -2,9 +2,9 @@
 description: 릴리스 노트 - 2023년 9월 - Marketo 설명서 - 제품 설명서
 title: 릴리스 노트 - 2023년 9월
 feature: Release Information
-source-git-commit: df16b75e0b2fafbd8b671c9e43845937c37e8dd9
+source-git-commit: 93aae6830eba6de393c428e59a1d95da2bb8d413
 workflow-type: tm+mt
-source-wordcount: '862'
+source-wordcount: '849'
 ht-degree: 1%
 
 ---
@@ -39,7 +39,7 @@ ht-degree: 1%
    <td> </td>
   </tr>
   <tr> 
-   <td><strong>Design Studio 에셋의 개수 열에서 사용됨</strong>: Marketo Engage 프로그램 참조 라이브러리를 사용하여 "예제" 프로그램 및 Adobe이 권장하는 우수 사례를 나타내는 기타 에셋을 가져올 수 있습니다. 제품 관리 팀은 라이브러리를 완전히 업데이트하여 프로그램을 빠르게 시작하고자 하는 사용자에게 보다 중요한 도구를 제공합니다.</td> 
+   <td><strong>Design Studio 에셋의 개수 열에서 사용됨</strong>: Design Studio의 목록 보기에 대한 [사용 기준] 열은 사용 중인 에셋의 수를 강조 표시합니다. 코드 조각, 이메일 템플릿, Forms 및 랜딩 페이지 템플릿에 적용할 수 있습니다.</td> 
    <td>배송됨</td>
    <td>해당 사항 없음</td>
   </tr>
