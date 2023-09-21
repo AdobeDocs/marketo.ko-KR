@@ -2,9 +2,9 @@
 description: 릴리스 노트 - 2023년 9월 - Marketo 설명서 - 제품 설명서
 title: 릴리스 노트 - 2023년 9월
 feature: Release Information
-source-git-commit: f11e455196cdfb7a6c1054df40344cab5b06772b
+source-git-commit: c83fcb184c12677c85f34e899907ccb2a8ff9473
 workflow-type: tm+mt
-source-wordcount: '793'
+source-wordcount: '872'
 ht-degree: 1%
 
 ---
@@ -52,6 +52,26 @@ ht-degree: 1%
    <td><strong>Design Studio 에셋의 향상된 탭에서 사용됨</strong>: 기능에서 사용 탭은 에셋이 사용되는 위치와 함께 에셋의 유형 및 이름에 대한 자세한 보기를 제공합니다. 이메일 세부 정보 및 이미지 및 파일 세부 정보에 적용됩니다.</td> 
    <td>배송됨</td>
    <td>해당 사항 없음</td>
+  </tr>
+  <tr> 
+   <td> </td> 
+   <td> </td>
+   <td> </td>
+  </tr>
+   <tr> 
+   <td><strong>대화형 웨비나 현지화</strong>: 원하는 언어로 Marketo 대화형 웨비나 이벤트 프로그램 세부 정보를 보고 이벤트 프로그램을 만든 Marketo 사용자의 언어와 다를 수 있도록 전달 언어를 선택할 수 있습니다.</td> 
+   <td>배송됨</td>
+   <td><a href="/help/marketo/product-docs/demand-generation/events/interactive-webinars/interactive-webinars-overview.md" target="_blank">대화형 웨비나 FAQ</a></td>
+  </tr>
+  <tr> 
+   <td> </td> 
+   <td> </td>
+   <td> </td>
+  </tr>
+   <tr> 
+   <td><strong>대화형 웨비나에 대한 사용자 액세스 관리</strong>: 사용자 액세스 관리 를 사용하면 대화형 웨비나 사용자가 허용된 이벤트 프로그램에만 액세스할 수 있으므로 무단 액세스를 방지할 수 있습니다.</td> 
+   <td>배송됨</td>
+   <td><a href="/help/marketo/product-docs/demand-generation/events/interactive-webinars/user-and-license-management.md#user-access" target="_blank">사용자 액세스</a></td>
   </tr>
  </tbody> 
 </table>
