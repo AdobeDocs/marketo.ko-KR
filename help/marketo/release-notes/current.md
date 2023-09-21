@@ -3,7 +3,7 @@ description: 현재 릴리스 정보 - Marketo 설명서 - 제품 설명서
 title: 최신 릴리스 정보
 exl-id: a2eccad5-73ad-48f9-8091-51cee23824e1
 feature: Release Information
-source-git-commit: 362aba77e372ff5ae09878c6a57d6ce97b019421
+source-git-commit: 00038ada6a3712ccc06cb638125f2f6fb185a1c6
 workflow-type: tm+mt
 source-wordcount: '241'
 ht-degree: 3%
@@ -20,7 +20,7 @@ ht-degree: 3%
 
 ## 표준 릴리스 주기 기능 {#standard-release-cycle-features}
 
-다음 기능은 표준 릴리스 주기에 해당하고 다음부터 릴리스됩니다. **2023년 10월 13일**: 이후 몇 주 동안 나머지 기능에 대한 단계별 롤아웃 포함. 릴리스 기능 및 날짜는 변경될 수 있습니다. 각 기능 옆에 있는 상태를 확인하십시오.
+다음 기능은 표준 릴리스 주기에 해당하고 다음부터 릴리스됩니다. **2023년 10월 6일**: 이후 몇 주 동안 나머지 기능에 대한 단계별 롤아웃 포함. 릴리스 기능 및 날짜는 변경될 수 있습니다. 각 기능 옆에 있는 상태를 확인하십시오.
 
 <table style="table-layout:auto"> 
  <tbody> 
