@@ -2,7 +2,7 @@
 description: 릴리스 노트 - 2023년 9월 - Marketo 설명서 - 제품 설명서
 title: 릴리스 노트 - 2023년 9월
 feature: Release Information
-source-git-commit: c83fcb184c12677c85f34e899907ccb2a8ff9473
+source-git-commit: 1075444e8c23d6d925c3b427ba8835ddeeead5ea
 workflow-type: tm+mt
 source-wordcount: '872'
 ht-degree: 1%
@@ -59,7 +59,7 @@ ht-degree: 1%
    <td> </td>
   </tr>
    <tr> 
-   <td><strong>대화형 웨비나 현지화</strong>: 원하는 언어로 Marketo 대화형 웨비나 이벤트 프로그램 세부 정보를 보고 이벤트 프로그램을 만든 Marketo 사용자의 언어와 다를 수 있도록 전달 언어를 선택할 수 있습니다.</td> 
+   <td><strong>대화형 웨비나 현지화</strong>: 원하는 언어로 Marketo 대화형 웨비나 이벤트 프로그램 세부 정보를 볼 수 있으며, 원하는 경우 이벤트 프로그램을 만든 Marketo 사용자의 언어와 전달 언어를 선택할 수 있습니다.</td> 
    <td>배송됨</td>
    <td><a href="/help/marketo/product-docs/demand-generation/events/interactive-webinars/interactive-webinars-overview.md" target="_blank">대화형 웨비나 FAQ</a></td>
   </tr>
