@@ -4,649 +4,116 @@ title: 권한
 hide: true
 hidefromtoc: true
 feature: Dynamic Chat
-source-git-commit: 34545817fd35719290a848384e4bc9feba521305
+source-git-commit: 45bd5bac341e08cdb14c7ae2a08c97a5ebcba73c
 workflow-type: tm+mt
-source-wordcount: '682'
-ht-degree: 48%
+source-wordcount: '299'
+ht-degree: 5%
 
 ---
 
 # 권한 {#permissions}
 
-테이블
+Dynamic Chat의 다양한 영역에 대한 사용자 액세스를 관리합니다.
+
+1. 다음에서 [Adobe Admin Console](https://adminconsole.adobe.com/){target="_blank"}, 클릭 **Dynamic Chat**.
+
+   ![](assets/permissions-1.png)
+
+1. 다음에서 **제품 프로필** 탭에서 편집할 프로필을 선택합니다. 이 예제에서는 **라이브 에이전트**.
+
+   ![](assets/permissions-2.png)
+
+1. 다음을 클릭합니다. **권한** 탭.
+
+   ![](assets/permissions-3.png)
+
+1. 편집할 Dynamic Chat 영역을 선택합니다. Live Agent 프로필을 선택했으므로 Live Chat 을 선택합니다. 연필 아이콘을 클릭합니다.
+
+   ![](assets/permissions-4.png)
+
+1. 사용 가능한 모든 권한 항목은 왼쪽에 있습니다. 권한을 하나씩 또는 모두 한 번에 추가하도록 선택할 수 있습니다. 이 예제에서는 모두를 선택합니다. 다음을 클릭합니다. **+ 모두 추가** 단추를 클릭합니다.
+
+   ![](assets/permissions-5.png)
+
+   >[!NOTE]
+   >
+   >자동 포함을 활성화하면 모든 권한 항목이 포함 목록에 추가됩니다. 새 권한 항목을 사용할 수 있게 되면 해당 제품 프로필에 자동으로 포함됩니다.
+
+1. **저장**&#x200B;을 클릭합니다.
+
+   ![](assets/permissions-6.png)
+
+이제 다른 모든 Dynamic Chat 영역에 대해 이 프로세스를 반복할 수 있습니다.
+
+![](assets/permissions-7.png)
+
+## 권한 목록 {#list-of-permissions}
+
+아래에는 사용 가능한 모든 권한 목록이 영역별로 정렬되어 있습니다.
 
 <table>
-  <tbody>
-    <tr>
-      <th>S.No.</th>
-      <th>기능 이름</th>
-      <th>설명</th>
-      <th>권한</th>
-      <th>가격 패키지</th>
-      <td>마케팅 사용자</td>
-      <td>라이브 에이전트</td>
-      <td>캘린더 에이전트</td>
-      <td>마케팅 관리자</td>
-      <td>영업 관리자</td>
-      <td>GenAI 사용자</td>
-      <td>기본 권한</td>
-    </tr>
-    <tr>
-      <td>1.</td>
-      <td>대화 관리</td>
-      <td>보기, 편집 및 게시 작업을 포함한 대화 상자에 대한 액세스 관리</td>
-      <td>대화 상자 보기</td>
-      <td>포함된 버전</td>
-      <td>네</td>
-      <td>네</td>
-      <td>네</td>
-      <td>네</td>
-      <td>네</td>
-      <td>아니요</td>
-      <td>네</td>
-    </tr>
-    <tr>
-      <td> </td>
-      <td> </td>
-      <td> </td>
-      <td>대화 상자 관리(만들기, 삭제)</td>
-      <td>포함된 버전</td>
-      <td>네</td>
-      <td>아니요</td>
-      <td>아니요</td>
-      <td>네</td>
-      <td>아니요</td>
-      <td>아니요</td>
-      <td>아니요</td>
-    </tr>
-    <tr>
-      <td> </td>
-      <td> </td>
-      <td> </td>
-      <td>대화 상자 게시</td>
-      <td>포함된 버전</td>
-      <td>네</td>
-      <td>아니요</td>
-      <td>아니요</td>
-      <td>네</td>
-      <td>아니요</td>
-      <td>아니요</td>
-      <td>아니요</td>
-    </tr>
-    <tr>
-      <td> </td>
-      <td> </td>
-      <td>보기, 편집 및 게시 작업을 포함한 대화 흐름에 대한 액세스 관리</td>
-      <td>대화 흐름 보기</td>
-      <td>포함된 버전</td>
-      <td>네</td>
-      <td>네</td>
-      <td>네</td>
-      <td>네</td>
-      <td>네</td>
-      <td>아니요</td>
-      <td>네</td>
-    </tr>
-    <tr>
-      <td> </td>
-      <td> </td>
-      <td> </td>
-      <td>대화 흐름 관리(만들기, 삭제)</td>
-      <td>포함된 버전</td>
-      <td>네</td>
-      <td>아니요</td>
-      <td>아니요</td>
-      <td>네</td>
-      <td>아니요</td>
-      <td>아니요</td>
-      <td>아니요</td>
-    </tr>
-    <tr>
-      <td> </td>
-      <td> </td>
-      <td> </td>
-      <td>대화 흐름 게시</td>
-      <td>포함된 버전</td>
-      <td>네</td>
-      <td>아니요</td>
-      <td>아니요</td>
-      <td>네</td>
-      <td>아니요</td>
-      <td>아니요</td>
-      <td>아니요</td>
-    </tr>
-    <tr>
-      <td>2.</td>
-      <td>라이브 채팅</td>
-      <td>에이전트가 방문자와 실시간 대화를 나눌 수 있는 에이전트 받은 편지함에 대한 액세스 관리</td>
-      <td>에이전트 받은 편지함</td>
-      <td>포함된 버전</td>
-      <td>아니요</td>
-      <td>네</td>
-      <td>아니요</td>
-      <td>아니요</td>
-      <td>네</td>
-      <td>아니요</td>
-      <td>아니요</td>
-    </tr>
-    <tr>
-      <td> </td>
-      <td> </td>
-      <td> </td>
-      <td>내 대화 보기</td>
-      <td>포함된 버전</td>
-      <td>아니요</td>
-      <td>네</td>
-      <td>아니요</td>
-      <td>아니요</td>
-      <td>네</td>
-      <td>아니요</td>
-      <td>아니요</td>
-    </tr>
-    <tr>
-      <td> </td>
-      <td> </td>
-      <td> </td>
-      <td>모든 대화 보기</td>
-      <td>포함된 버전</td>
-      <td>아니요</td>
-      <td>아니요</td>
-      <td>아니요</td>
-      <td>아니요</td>
-      <td>네</td>
-      <td>아니요</td>
-      <td>아니요</td>
-    </tr>
-    <tr>
-      <td> </td>
-      <td> </td>
-      <td> </td>
-      <td>대화 요약 보기</td>
-      <td>Dynamic Chat 프라임</td>
-      <td>아니요</td>
-      <td>네</td>
-      <td>아니요</td>
-      <td>아니요</td>
-      <td>네</td>
-      <td>네</td>
-      <td>아니요</td>
-    </tr>
-    <tr>
-      <td> </td>
-      <td> </td>
-      <td> </td>
-      <td>지원 응답 보기</td>
-      <td>Dynamic Chat 프라임</td>
-      <td>아니요</td>
-      <td>네</td>
-      <td>아니요</td>
-      <td>아니요</td>
-      <td>네</td>
-      <td>네</td>
-      <td>아니요</td>
-    </tr>
-    <tr>
-      <td>3.</td>
-      <td>생성형 AI</td>
-      <td>GenAI 기반 지원 응답 워크플로에 대한 액세스 관리</td>
-      <td>응답 라이브러리 보기</td>
-      <td>Dynamic Chat 프라임</td>
-      <td>네</td>
-      <td>네</td>
-      <td>네</td>
-      <td>네</td>
-      <td>네</td>
-      <td>네</td>
-      <td>네</td>
-    </tr>
-    <tr>
-      <td> </td>
-      <td> </td>
-      <td> </td>
-      <td>응답 라이브러리 관리(편집, 가져오기, 삭제)</td>
-      <td>Dynamic Chat 프라임</td>
-      <td>아니요</td>
-      <td>아니요</td>
-      <td>아니요</td>
-      <td>아니요</td>
-      <td>아니요</td>
-      <td>네</td>
-      <td>아니요</td>
-    </tr>
-    <tr>
-      <td> </td>
-      <td> </td>
-      <td> </td>
-      <td>새 Q&amp;R 생성(만들기, 내보내기)</td>
-      <td>Dynamic Chat 프라임</td>
-      <td>아니요</td>
-      <td>아니요</td>
-      <td>아니요</td>
-      <td>아니요</td>
-      <td>아니요</td>
-      <td>네</td>
-      <td>아니요</td>
-    </tr>
-    <tr>
-      <td> </td>
-      <td> </td>
-      <td> </td>
-      <td>Q&amp;R 게시</td>
-      <td>Dynamic Chat 프라임</td>
-      <td>아니요</td>
-      <td>아니요</td>
-      <td>아니요</td>
-      <td>아니요</td>
-      <td>아니요</td>
-      <td>네</td>
-      <td>아니요</td>
-    </tr>
-    <tr>
-      <td> </td>
-      <td> </td>
-      <td> </td>
-      <td>답변되지 않은 질문 보기</td>
-      <td>Dynamic Chat 프라임</td>
-      <td>아니요</td>
-      <td>아니요</td>
-      <td>아니요</td>
-      <td>아니요</td>
-      <td>아니요</td>
-      <td>네</td>
-      <td>아니요</td>
-    </tr>
-    <tr>
-      <td> </td>
-      <td> </td>
-      <td> </td>
-      <td>기술 자료 보기</td>
-      <td>Dynamic Chat 프라임</td>
-      <td>아니요</td>
-      <td>아니요</td>
-      <td>아니요</td>
-      <td>아니요</td>
-      <td>아니요</td>
-      <td>네</td>
-      <td>아니요</td>
-    </tr>
-    <tr>
-      <td> </td>
-      <td> </td>
-      <td> </td>
-      <td>기술 자료 관리(추가, 편집, 삭제)</td>
-      <td>Dynamic Chat 프라임</td>
-      <td>아니요</td>
-      <td>아니요</td>
-      <td>아니요</td>
-      <td>아니요</td>
-      <td>아니요</td>
-      <td>네</td>
-      <td>아니요</td>
-    </tr>
-    <tr>
-      <td>4.</td>
-      <td>회의</td>
-      <td>Dynamic Chat에서 예약된 모임에 대한 정보에 대한 액세스 관리</td>
-      <td>모든 모임 관리</td>
-      <td>포함된 버전</td>
-      <td>아니요</td>
-      <td>아니요</td>
-      <td>아니요</td>
-      <td>아니요</td>
-      <td>네</td>
-      <td>아니요</td>
-      <td>아니요</td>
-    </tr>
-    <tr>
-      <td> </td>
-      <td> </td>
-      <td> </td>
-      <td>내 모임 관리</td>
-      <td>포함된 버전</td>
-      <td>아니요</td>
-      <td>네</td>
-      <td>아니요</td>
-      <td>아니요</td>
-      <td>네</td>
-      <td>아니요</td>
-      <td>아니요</td>
-    </tr>
-    <tr>
-      <td>5.</td>
-      <td>Analytics</td>
-      <td>보고서에 대한 액세스 관리</td>
-      <td>글로벌 성과 보고서 보기</td>
-      <td>포함된 버전</td>
-      <td>네</td>
-      <td>네</td>
-      <td>네</td>
-      <td>네</td>
-      <td>네</td>
-      <td>아니요</td>
-      <td>네</td>
-    </tr>
-    <tr>
-      <td> </td>
-      <td> </td>
-      <td> </td>
-      <td>라이브 채팅 보고서 보기</td>
-      <td>포함된 버전</td>
-      <td>네</td>
-      <td>네</td>
-      <td>네</td>
-      <td>네</td>
-      <td>네</td>
-      <td>아니요</td>
-      <td>네</td>
-    </tr>
-    <tr>
-      <td> </td>
-      <td> </td>
-      <td> </td>
-      <td>모임 보고서 보기</td>
-      <td>포함된 버전</td>
-      <td>네</td>
-      <td>네</td>
-      <td>네</td>
-      <td>네</td>
-      <td>네</td>
-      <td>아니요</td>
-      <td>네</td>
-    </tr>
-    <tr>
-      <td> </td>
-      <td> </td>
-      <td> </td>
-      <td>보고서 내보내기</td>
-      <td>포함된 버전</td>
-      <td>아니요</td>
-      <td>아니요</td>
-      <td>아니요</td>
-      <td>네</td>
-      <td>네</td>
-      <td>아니요</td>
-      <td>아니요</td>
-    </tr>
-    <tr>
-      <td>6.</td>
-      <td>에이전트 설정</td>
-      <td>액세스 권한을 활성화하여 개별 에이전트의 프로필 및 가용성을 구성합니다.</td>
-      <td>Live Chat 가용성 관리</td>
-      <td>포함된 버전</td>
-      <td>아니요</td>
-      <td>네</td>
-      <td>아니요</td>
-      <td>아니요</td>
-      <td>네</td>
-      <td>아니요</td>
-      <td>아니요</td>
-    </tr>
-    <tr>
-      <td> </td>
-      <td> </td>
-      <td> </td>
-      <td>캘린더 연결</td>
-      <td>포함된 버전</td>
-      <td>아니요</td>
-      <td>네</td>
-      <td>네</td>
-      <td>아니요</td>
-      <td>네</td>
-      <td>아니요</td>
-      <td>아니요</td>
-    </tr>
-    <tr>
-      <td> </td>
-      <td> </td>
-      <td> </td>
-      <td>일정 가용성 관리</td>
-      <td>포함된 버전</td>
-      <td>아니요</td>
-      <td>네</td>
-      <td>네</td>
-      <td>아니요</td>
-      <td>네</td>
-      <td>아니요</td>
-      <td>아니요</td>
-    </tr>
-    <tr>
-      <td>7.</td>
-      <td>관리자 설정</td>
-      <td>시스템 구성, 통합 및 브랜딩에 대한 액세스 관리</td>
-      <td>작업 영역 보기</td>
-      <td>Dynamic Chat 프라임</td>
-      <td>네</td>
-      <td>네</td>
-      <td>네</td>
-      <td>네</td>
-      <td>네</td>
-      <td>아니요</td>
-      <td>아니요</td>
-    </tr>
-    <tr>
-      <td> </td>
-      <td> </td>
-      <td> </td>
-      <td>작업 공간 관리(만들기, 편집, 삭제)</td>
-      <td>Dynamic Chat 프라임</td>
-      <td>아니요</td>
-      <td>아니요</td>
-      <td>아니요</td>
-      <td>네</td>
-      <td>아니요</td>
-      <td>아니요</td>
-      <td>아니요</td>
-    </tr>
-    <tr>
-      <td> </td>
-      <td> </td>
-      <td> </td>
-      <td>라운드 로빈 보기</td>
-      <td>포함된 버전</td>
-      <td>네</td>
-      <td>네</td>
-      <td>네</td>
-      <td>네</td>
-      <td>네</td>
-      <td>아니요</td>
-      <td>아니요</td>
-    </tr>
-    <tr>
-      <td> </td>
-      <td> </td>
-      <td> </td>
-      <td>사용자 정의 규칙 보기</p>
-      </td>
-      <td>포함된 버전</td>
-      <td>네</td>
-      <td>네</td>
-      <td>네</td>
-      <td>네</td>
-      <td>네</td>
-      <td>아니요</td>
-      <td>아니요</td>
-    </tr>
-    <tr>
-      <td> </td>
-      <td> </td>
-      <td> </td>
-      <td>사용자 정의 규칙 관리(추가, 편집, 삭제)</td>
-      <td>포함된 버전</td>
-      <td>아니요</td>
-      <td>아니요</td>
-      <td>아니요</td>
-      <td>네</td>
-      <td>네</td>
-      <td>아니요</td>
-      <td>아니요</td>
-    </tr>
-    <tr>
-      <td> </td>
-      <td> </td>
-      <td> </td>
-      <td>계정 목록 보기</td>
-      <td>Dynamic Chat 프라임</td>
-      <td>네</td>
-      <td>네</td>
-      <td>네</td>
-      <td>네</td>
-      <td>네</td>
-      <td>아니요</td>
-      <td>아니요</td>
-    </tr>
-    <tr>
-      <td> </td>
-      <td> </td>
-      <td> </td>
-      <td>계정 관리(추가, 편집, 삭제)</td>
-      <td>Dynamic Chat 프라임</td>
-      <td>아니요</td>
-      <td>아니요</td>
-      <td>아니요</td>
-      <td>네</td>
-      <td>네</td>
-      <td>아니요</td>
-      <td>아니요</td>
-    </tr>
-    <tr>
-      <td> </td>
-      <td> </td>
-      <td> </td>
-      <td>챗봇 설정 관리</td>
-      <td>포함된 버전</td>
-      <td>아니요</td>
-      <td>아니요</td>
-      <td>아니요</td>
-      <td>네</td>
-      <td>아니요</td>
-      <td>아니요</td>
-      <td>아니요</td>
-    </tr>
-    <tr>
-      <td> </td>
-      <td> </td>
-      <td> </td>
-      <td>대화 흐름 설정 관리</td>
-      <td>포함된 버전</td>
-      <td>아니요</td>
-      <td>아니요</td>
-      <td>아니요</td>
-      <td>네</td>
-      <td>아니요</td>
-      <td>아니요</td>
-      <td>아니요</td>
-    </tr>
-    <tr>
-      <td> </td>
-      <td> </td>
-      <td> </td>
-      <td>생성 AI 설정 관리</td>
-      <td>Dynamic Chat 프라임</td>
-      <td>아니요</td>
-      <td>아니요</td>
-      <td>아니요</td>
-      <td>네</td>
-      <td>아니요</td>
-      <td>네</td>
-      <td>아니요</td>
-    </tr>
-    <tr>
-      <td> </td>
-      <td> </td>
-      <td> </td>
-      <td>개인 정보 및 보안 관리</td>
-      <td>포함된 버전</td>
-      <td>아니요</td>
-      <td>아니요</td>
-      <td>아니요</td>
-      <td>네</td>
-      <td>아니요</td>
-      <td>아니요</td>
-      <td>아니요</td>
-    </tr>
-    <tr>
-      <td> </td>
-      <td> </td>
-      <td> </td>
-      <td>통합 관리</td>
-      <td>포함된 버전</td>
-      <td>아니요</td>
-      <td>아니요</td>
-      <td>아니요</td>
-      <td>네</td>
-      <td>아니요</td>
-      <td>아니요</td>
-      <td>아니요</td>
-    </tr>
-    <tr>
-      <td> </td>
-      <td> </td>
-      <td> </td>
-      <td>언어 관리</td>
-      <td>Dynamic Chat 프라임</td>
-      <td>아니요</td>
-      <td>아니요</td>
-      <td>아니요</td>
-      <td>네</td>
-      <td>아니요</td>
-      <td>아니요</td>
-      <td>아니요</td>
-    </tr>
-    <tr>
-      <td> </td>
-      <td> </td>
-      <td> </td>
-      <td>에이전트 관리</td>
-      <td>포함된 버전</td>
-      <td>아니요</td>
-      <td>아니요</td>
-      <td>아니요</td>
-      <td>아니요</td>
-      <td>네</td>
-      <td>아니요</td>
-      <td>아니요</td>
-    </tr>
-    <tr>
-      <td> </td>
-      <td> </td>
-      <td> </td>
-      <td>에이전트 팀 보기</td>
-      <td>Dynamic Chat 프라임</td>
-      <td>네</td>
-      <td>네</td>
-      <td>네</td>
-      <td>네</td>
-      <td>네</td>
-      <td>아니요</td>
-      <td>아니요</td>
-    </tr>
-    <tr>
-      <td> </td>
-      <td> </td>
-      <td> </td>
-      <td>에이전트 팀 관리(추가, 편집, 삭제)</td>
-      <td>Dynamic Chat 프라임</td>
-      <td>아니요</td>
-      <td>아니요</td>
-      <td>아니요</td>
-      <td>아니요</td>
-      <td>네</td>
-      <td>아니요</td>
-      <td>아니요</td>
-    </tr>
-    <tr>
-      <td> </td>
-      <td> </td>
-      <td> </td>
-      <td>사용 제한 보기</td>
-      <td>포함된 버전</td>
-      <td>아니요</td>
-      <td>아니요</td>
-      <td>아니요</td>
-      <td>네</td>
-      <td>네</td>
-      <td>아니요</td>
-      <td>아니요</td>
-    </tr>
-  </tbody>
+<thead>
+  <tr>
+    <th>Dynamic Chat 영역</th>
+    <th>권한</th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td>대화 관리</td>
+    <td><li>대화 상자 보기</li>
+    <li>대화 상자 관리(만들기, 삭제)</li>
+    <li>게시 대화 상자</li>
+    <li>대화 흐름 보기</li>
+    <li>대화 흐름 관리(만들기, 삭제)</li>
+    <li>대화 흐름 게시</li></td>
+  </tr>
+  <tr>
+    <td>라이브 채팅</td>
+    <td><li>에이전트 받은 편지함</li>
+    <li>내 대화 보기</li>
+    <li>모든 대화 보기</li>
+    <li>대화 요약 보기<b>*</b></li>
+    <li>지원 응답 보기<b>*</b></li></td>
+  </tr>
+  <tr>
+    <td>회의</td>
+    <td><li>모든 모임 관리</li>
+    <li>내 모임 관리</li></td>
+  </tr>
+  <tr>
+    <td>Analytics</td>
+    <td><li>글로벌 성과 보고서 보기</li>
+    <li>라이브 채팅 보고서 보기</li>
+    <li>모임 보고서 보기</li>
+    <li>보고서 내보내기</li></td>
+  </tr>
+  <tr>
+    <td>에이전트 설정</td>
+    <td><li>라이브 채팅 가용성 관리</li>
+    <li>캘린더 연결</li>
+    <li>일정 가용성 관리</li></td>
+  </tr>
+  <tr>
+    <td>관리자 설정</td>
+    <td><li>작업 영역 보기<b>*</b></li>
+    <li>작업 공간 관리(만들기, 편집, 삭제)<b>*</b></li>
+    <li>라운드 로빈 보기</li>
+    <li>사용자 정의 규칙 보기</li>
+    <li>사용자 정의 규칙 관리(추가, 편집, 삭제)</li>
+    <li>계정 목록 보기<b>*</b></li>
+    <li>계정 관리(추가, 편집, 삭제)<b>*</b></li>
+    <li>챗봇 설정 관리</li>
+    <li>대화 흐름 설정 관리</li>
+    <li>개인 정보 및 보안 관리</li>
+    <li>통합 관리</li>
+    <li>언어 관리<b>*</b></li>
+    <li>에이전트 관리</li>
+    <li>에이전트 팀 보기<b>*</b></li>
+    <li>에이전트 팀 관리(추가, 편집, 삭제)<b>*</b></li>
+    <li>사용 제한 보기</li></td>
+  </tr>
+</tbody>
 </table>
+
+**&#42;** 현재 Dynamic Prime 사용자만 사용할 수 있습니다.

@@ -3,10 +3,10 @@ audience: end-user
 user-guide-title: Marketo 안내서
 user-guide-description: Marketo 제품 설명서
 feature-set: Marketo Engage
-source-git-commit: f11e455196cdfb7a6c1054df40344cab5b06772b
+source-git-commit: 45bd5bac341e08cdb14c7ae2a08c97a5ebcba73c
 workflow-type: tm+mt
-source-wordcount: '9106'
-ht-degree: 0%
+source-wordcount: '9107'
+ht-degree: 1%
 
 ---
 
@@ -15,7 +15,7 @@ ht-degree: 0%
 
 + [홈](home.md)
 + Marketo 시작하기 {#getting-started-with-marketo}
-   + [시작](getting-started.md)
+   + [시작하기](getting-started.md)
    + [Adobe Marketo Engage란?](getting-started/what-is-adobe-marketo-engage.md)
    + [도움말 센터](getting-started/help-center.md)
    + [Marketo Engage 용어집](getting-started/marketo-engage-glossary.md)
@@ -649,7 +649,7 @@ ht-degree: 0%
          + [챗봇 비헤이비어](product-docs/demand-generation/dynamic-chat/chatbot-behavior.md)
          + [모임 목록](product-docs/demand-generation/dynamic-chat/meeting-list.md)
          + [Dynamic Chat 활동](product-docs/demand-generation/dynamic-chat/dynamic-chat-activities.md)
-         + [분석](product-docs/demand-generation/dynamic-chat/analytics.md)
+         + [Analytics](product-docs/demand-generation/dynamic-chat/analytics.md)
          + 자동화된 채팅 {#automated-chat}
             + [대화 흐름 개요](product-docs/demand-generation/dynamic-chat/automated-chat/conversational-flow-overview.md)
             + [대화 흐름 만들기](product-docs/demand-generation/dynamic-chat/automated-chat/create-a-conversational-flow.md)
@@ -667,6 +667,7 @@ ht-degree: 0%
          + 설정 및 구성 {#setup-and-configuration}
             + [초기 설정](product-docs/demand-generation/dynamic-chat/setup-and-configuration/initial-setup.md)
             + [채팅 사용자 추가 또는 제거](product-docs/demand-generation/dynamic-chat/setup-and-configuration/add-or-remove-chat-users.md)
+            + [권한](product-docs/demand-generation/dynamic-chat/setup-and-configuration/permissions.md)
             + [구성](product-docs/demand-generation/dynamic-chat/setup-and-configuration/configuration.md)
             + [에이전트 설정](product-docs/demand-generation/dynamic-chat/setup-and-configuration/agent-settings.md)
             + [에이전트 관리](product-docs/demand-generation/dynamic-chat/setup-and-configuration/agent-management.md)
@@ -1124,7 +1125,7 @@ ht-degree: 0%
       + [글로벌 검색 사용](product-docs/marketo-engage-modern-ux/using-the-global-search.md)
       + [전환 스위치](product-docs/marketo-engage-modern-ux/toggle-switch.md)
    + Marketo Sales Connect {#marketo-sales-connect}
-      + 시작 {#getting-started}
+      + 시작하기 {#getting-started}
          + [Sales Connect 개요](product-docs/marketo-sales-connect/getting-started/sales-connect-overview.md)
          + [새 Sales Connect 인스턴스에 액세스](product-docs/marketo-sales-connect/getting-started/accessing-your-new-sales-connect-instance.md)
          + [Sales Connect 관리자를 위한 시작 안내서](product-docs/marketo-sales-connect/getting-started/getting-started-guide-for-sales-connect-admins.md)
@@ -1144,7 +1145,7 @@ ht-degree: 0%
          + [Sales Connect에서 SAML 2.0을 통해 SSO 설정](product-docs/marketo-sales-connect/admin/setting-up-sso-through-saml-2-0-in-sales-connect.md)
          + [공유 설정](product-docs/marketo-sales-connect/admin/sharing-settings.md)
          + [사용자 액세스 세부 정보](product-docs/marketo-sales-connect/admin/user-access-details.md)
-      + 분석 {#analytics}
+      + Analytics {#analytics}
          + [Analytics 페이지 개요](product-docs/marketo-sales-connect/analytics/analytics-page-overview.md)
          + [콘텐츠 탭 이해](product-docs/marketo-sales-connect/analytics/understanding-the-content-tab.md)
          + [내 탭 이해](product-docs/marketo-sales-connect/analytics/understanding-the-me-tab.md)
@@ -1333,7 +1334,7 @@ ht-degree: 0%
    + Marketo Sales Insight {#marketo-sales-insight}
       + 액션 {#actions}
          + [Sales Insight Actions 기능 개요](product-docs/marketo-sales-insight/actions/sales-insight-actions-feature-overview.md)
-         + 시작 {#getting-started}
+         + 시작하기 {#getting-started}
             + [Sales Insight Actions 사용 온보딩 안내서](product-docs/marketo-sales-insight/actions/getting-started/sales-insight-actions-user-onboarding-guide.md)
             + [Sales Insight Actions 사용자 온보딩 체크리스트](product-docs/marketo-sales-insight/actions/getting-started/sales-insight-actions-user-onboarding-checklist.md)
             + [Sales Insight Actions 관리 설정 안내서](product-docs/marketo-sales-insight/actions/getting-started/sales-insight-actions-admin-setup-guide.md)
@@ -1355,7 +1356,7 @@ ht-degree: 0%
             + [공유 설정](product-docs/marketo-sales-insight/actions/admin/sharing-settings.md)
             + [영업 활동 데이터를 Marketo 및 Salesforce와 동기화](product-docs/marketo-sales-insight/actions/admin/sync-sales-action-data-with-marketo-and-salesforce.md)
             + [사용자 액세스 세부 정보](product-docs/marketo-sales-insight/actions/admin/user-access-details.md)
-         + 분석 {#analytics}
+         + Analytics {#analytics}
             + [Analytics 페이지 개요](product-docs/marketo-sales-insight/actions/analytics/analytics-page-overview.md)
             + [콘텐츠 탭 이해](product-docs/marketo-sales-insight/actions/analytics/understanding-the-content-tab.md)
             + [내 탭 이해](product-docs/marketo-sales-insight/actions/analytics/understanding-the-me-tab.md)
@@ -1656,7 +1657,7 @@ ht-degree: 0%
       + [예측 콘텐츠 요약](product-docs/predictive-content/the-predictive-content-summary.md)
       + [예측 콘텐츠 활동을 위한 스마트 목록 정의](product-docs/predictive-content/define-a-smart-list-for-predictive-content-activities.md)
       + [Predictive Content Analytics 개요](product-docs/predictive-content/predictive-content-analytics-overview.md)
-      + 시작 {#getting-started}
+      + 시작하기 {#getting-started}
          + [알고리즘 목표 설정](product-docs/predictive-content/getting-started/algorithm-goal-settings.md)
          + [콘텐츠 패턴 만들기](product-docs/predictive-content/getting-started/create-content-patterns.md)
          + [Content-AI용 JavaScript 배포](product-docs/predictive-content/getting-started/deploy-the-javascript-for-content-ai.md)
@@ -1811,7 +1812,7 @@ ht-degree: 0%
             + [기간 원가 정의](product-docs/reporting/revenue-cycle-analytics/revenue-tools/define-period-costs.md)
             + [수익 주기 분석에 대한 사용자 정의 필드 동기화 활성화](product-docs/reporting/revenue-cycle-analytics/revenue-tools/enabling-custom-field-sync-for-revenue-cycle-analytics.md)
             + [수익 단계별 인력 보고서](product-docs/reporting/revenue-cycle-analytics/revenue-tools/people-by-revenue-stage-report.md)
-            + 속성 {#attribution}
+            + 귀속 {#attribution}
                + [속성 이해](product-docs/reporting/revenue-cycle-analytics/revenue-tools/attribution/understanding-attribution.md)
                + [속성 예 1](product-docs/reporting/revenue-cycle-analytics/revenue-tools/attribution/attribution-example-1.md)
                + [속성 예 2](product-docs/reporting/revenue-cycle-analytics/revenue-tools/attribution/attribution-example-2.md)
@@ -1832,7 +1833,7 @@ ht-degree: 0%
          + [계정 인사이트 설정](product-docs/target-account-management/setup-tam/set-up-account-insight.md)
          + [계정 통찰력 플러그인 개요](product-docs/target-account-management/setup-tam/account-insight-plug-in-overview.md)
          + [계정 인사이트에 액세스하도록 사용자 초대](product-docs/target-account-management/setup-tam/invite-users-to-access-account-insight.md)
-      + 대상 {#target}
+      + Target {#target}
          + 명명된 계정 {#named-accounts}
             + [명명된 계정 개요](product-docs/target-account-management/target/named-accounts/named-account-overview.md)
             + [명명 계정 가져오기](product-docs/target-account-management/target/named-accounts/import-named-accounts.md)
@@ -1868,7 +1869,7 @@ ht-degree: 0%
          + [TAM을 통한 계정 기반 웹 마케팅](product-docs/web-personalization/account-based-web-marketing/account-based-web-marketing-with-tam.md)
          + [새 계정 목록 만들기](product-docs/web-personalization/account-based-web-marketing/create-a-new-account-list.md)
          + [계정 목록을 사용하여 세그먼트 만들기](product-docs/web-personalization/account-based-web-marketing/create-a-segment-using-an-account-list.md)
-      + 시작 {#getting-started}
+      + 시작하기 {#getting-started}
          + [계정 설정에서 하위 도메인 추가](product-docs/web-personalization/getting-started/add-subdomains-in-account-settings.md)
          + [영역 편집](product-docs/web-personalization/getting-started/edit-regions.md)
          + [로그인 및 사용자 관리](product-docs/web-personalization/getting-started/login-and-user-management.md)
