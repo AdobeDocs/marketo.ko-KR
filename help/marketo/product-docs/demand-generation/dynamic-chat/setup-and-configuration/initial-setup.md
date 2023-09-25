@@ -2,7 +2,7 @@
 description: 초기 설정 - Marketo 문서 - 제품 설명서
 title: 초기 설정
 feature: Dynamic Chat
-source-git-commit: 9a8f6fe57b585ba0eac6a577bf99e0419d8818a1
+source-git-commit: 34545817fd35719290a848384e4bc9feba521305
 workflow-type: tm+mt
 source-wordcount: '112'
 ht-degree: 0%
@@ -11,9 +11,9 @@ ht-degree: 0%
 
 # 초기 설정 {#initial-setup}
 
-## 액세스 Admin Console {#access-admin-console}
-
 Dynamic Chat을 설정하려면 아래 단계를 따르십시오.
+
+## 액세스 Admin Console {#access-admin-console}
 
 >[!NOTE]
 >

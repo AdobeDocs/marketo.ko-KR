@@ -2,18 +2,20 @@
 description: 라이브 채팅 개요 - Marketo 문서 - 제품 설명서
 title: 라이브 채팅 개요
 feature: Dynamic Chat
-source-git-commit: 9a8f6fe57b585ba0eac6a577bf99e0419d8818a1
+source-git-commit: 34545817fd35719290a848384e4bc9feba521305
 workflow-type: tm+mt
-source-wordcount: '239'
+source-wordcount: '254'
 ht-degree: 2%
 
 ---
 
 # 라이브 채팅 개요 {#live-chat-overview}
 
-에서 라이브 채팅 카드 사용 [스트림 디자이너](/help/marketo/product-docs/demand-generation/dynamic-chat/automated-chat/stream-designer.md){target="_blank"} 방문자가 라이브 에이전트와 채팅하도록 하려는 경우.
+라이브 채팅을 사용하면 웹 사이트 방문자가 판매 에이전트와 실시간 채팅 대화를 나눌 수 있습니다.
 
 ## 라이브 채팅 카드 사용 {#using-the-live-chat-card}
+
+에서 라이브 채팅 카드 사용 [스트림 디자이너](/help/marketo/product-docs/demand-generation/dynamic-chat/automated-chat/stream-designer.md){target="_blank"} 방문자가 라이브 에이전트와 채팅하도록 하려는 경우.
 
 ![](assets/live-chat-overview-1.png)
 
