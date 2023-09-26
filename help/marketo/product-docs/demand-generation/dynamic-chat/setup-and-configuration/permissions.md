@@ -2,9 +2,9 @@
 description: 권한 - Marketo 문서 - 제품 설명서
 title: 권한
 feature: Dynamic Chat
-source-git-commit: 8b2eed5e28c46ea9c467fd25dd732c1654a09bed
+source-git-commit: d60b506f0c84fc2883054be628817374d3a1a09b
 workflow-type: tm+mt
-source-wordcount: '396'
+source-wordcount: '397'
 ht-degree: 4%
 
 ---
@@ -43,7 +43,7 @@ Dynamic Chat에서 편집할 수 있는 사전 정의된 권한이 있는 5개�
 
    ![](assets/permissions-6.png)
 
-이제 다른 Dynamic Chat 영역에 대해 이 프로세스를 반복할 수 있습니다.
+이제 다른 모든 Dynamic Chat 영역에 대해 이 프로세스를 반복할 수 있습니다.
 
 ![](assets/permissions-7.png)
 
@@ -75,7 +75,7 @@ Dynamic Chat에서 편집할 수 있는 사전 정의된 권한이 있는 5개�
 <table>
 <thead>
   <tr>
-    <th>Dynamic Chat 영역</th>
+    <th style="width:30%">Dynamic Chat 영역</th>
     <th>권한</th>
   </tr>
 </thead>
