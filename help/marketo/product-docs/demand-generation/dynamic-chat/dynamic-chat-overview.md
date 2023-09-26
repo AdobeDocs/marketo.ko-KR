@@ -2,16 +2,16 @@
 description: Dynamic Chat 개요 - Marketo 문서 - 제품 설명서
 title: Dynamic Chat 개요
 feature: Dynamic Chat
-source-git-commit: 5e413f280b44691336bd724ddc20936e88d53764
+source-git-commit: 0bc016e63626c880238316ff2130f12a31fdd717
 workflow-type: tm+mt
-source-wordcount: '689'
+source-wordcount: '696'
 ht-degree: 1%
 
 ---
 
 # Dynamic Chat 개요 {#dynamic-chat-overview}
 
-Dynamic Chat을 사용하면 사용하기 쉬운 인터페이스를 활용하여 웹 사이트를 방문하는 사용자와 계정을 모두 타겟팅할 수 있습니다. 이름, 연락처 정보 및 자유 텍스트와 같은 관련 콘텐츠를 수집합니다. 사이트 방문자는 영업 팀과의 회의를 예약할 수도 있습니다. Dynamic Chat 활동 및 참여 데이터를 사용하여 Marketo 프로그램에 멤버를 추가하고 크로스 채널 활동을 트리거할 수 있습니다.
+Dynamic Chat을 사용하면 사용하기 쉬운 인터페이스를 활용하여 웹 사이트를 방문하는 사용자와 계정을 모두 타겟팅할 수 있습니다. 이름, 연락처 정보 및 자유 텍스트와 같은 관련 콘텐츠를 수집합니다. 사이트 방문자는 라이브 에이전트와 채팅하고 영업팀과 회의를 예약할 수도 있습니다. Dynamic Chat 활동 및 참여 데이터를 사용하여 Marketo 프로그램에 멤버를 추가하고 크로스 채널 활동을 트리거할 수 있습니다.
 
 >[!TIP]
 >
@@ -122,7 +122,7 @@ Dynamic Chat JavaScript 코드 조각은 Marketo 랜딩 페이지뿐만 아니�
 
 **Dynamic Chat은 영어 외에 다른 언어를 지원합니까?**
 
-네. Dynamic Chat은 프랑스어, 독일어, 일본어, 스페인어, 이탈리아어, 포르투갈어(브라질), 한국어, 중국어 간체 및 중국어 번체를 지원합니다. 다음에서 자세히 알아보기 [아래 섹션](#changing-the-language).
+네. Dynamic Chat은 프랑스어, 독일어, 일본어, 스페인어, 이탈리아어, 포르투갈어(브라질), 한국어, 중국어 간체 및 중국어 번체를 지원합니다. 다음에서 자세히 알아보기 [언어 변경](#changing-the-language).
 
 **AI/NLP 기능을 지원합니까?**
 
