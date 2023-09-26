@@ -4,7 +4,7 @@ title: 자동 추가 구독 취소 메시지 설정
 hide: true
 hidefromtoc: true
 feature: Marketo Sales Connect
-source-git-commit: b0f62abfe04efd8e72ed8e92442d4a46ea118f33
+source-git-commit: 8b2eed5e28c46ea9c467fd25dd732c1654a09bed
 workflow-type: tm+mt
 source-wordcount: '198'
 ht-degree: 0%
@@ -37,4 +37,4 @@ ht-degree: 0%
 
 >[!TIP]
 >
->구독 취소 메시지 추가 설정을 비활성화하는 경우 템플릿에 구독 취소 바닥글을 추가하여 통신에 옵트아웃 옵션이 있는지 확인하는 것이 좋습니다. 이렇게 하려면 각 템플릿에 고유한 사용자 지정 메시지를 추가하거나 다음을 사용할 수 있습니다. `{{team_unsubscribe}}` 동적 필드.
+>구독 취소 메시지 추가 설정을 비활성화하는 경우 템플릿에 구독 취소 바닥글을 추가하여 통신에 옵트아웃 옵션이 있는지 확인하는 것이 좋습니다. 이렇게 하려면 각 템플릿에 고유한 사용자 지정 메시지를 추가하거나 다음을 사용할 수 있습니다. `{{team_unsubscribe}}` [동적 필드](/help/marketo/product-docs/marketo-sales-connect/templates/dynamic-fields/dynamic-fields-glossary.md){target="_blank"}.

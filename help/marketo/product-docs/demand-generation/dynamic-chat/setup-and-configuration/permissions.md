@@ -1,21 +1,19 @@
 ---
 description: 권한 - Marketo 문서 - 제품 설명서
 title: 권한
-hide: true
-hidefromtoc: true
 feature: Dynamic Chat
-source-git-commit: ca158295a492edfa74c97f98196021767364f692
+source-git-commit: 8b2eed5e28c46ea9c467fd25dd732c1654a09bed
 workflow-type: tm+mt
-source-wordcount: '301'
+source-wordcount: '396'
 ht-degree: 4%
 
 ---
 
 # 권한 {#permissions}
 
-Dynamic Chat의 다양한 영역에 대한 사용자 액세스를 관리합니다.
+Dynamic Chat에서 편집할 수 있는 사전 정의된 권한이 있는 5개의 기본 프로필이 있습니다. 사용자 지정 권한 집합으로 사용자 지정 프로필을 만들 수도 있습니다. 둘 다 검토해 보겠습니다.
 
-## 권한 사용자 지정 {#customize-permissions}
+## 기존 권한 편집 {#edit-existing-permissions}
 
 1. 다음에서 [Adobe Admin Console](https://adminconsole.adobe.com/){target="_blank"}, 클릭 **Dynamic Chat**.
 
@@ -29,11 +27,11 @@ Dynamic Chat의 다양한 영역에 대한 사용자 액세스를 관리합니�
 
    ![](assets/permissions-3.png)
 
-1. 편집할 Dynamic Chat 영역을 선택합니다. Live Agent 프로필을 선택했으므로 Live Chat 을 선택합니다. 연필 아이콘을 클릭합니다.
+1. 편집할 프로필 영역을 선택합니다. 이 예제에서는 라이브 채팅을 선택합니다. 연필 아이콘을 클릭합니다.
 
    ![](assets/permissions-4.png)
 
-1. 사용 가능한 모든 권한 항목은 왼쪽에 있습니다. 권한을 하나씩 또는 모두 한 번에 추가하도록 선택할 수 있습니다. 이 예제에서는 모두를 선택합니다. 다음을 클릭합니다. **+ 모두 추가** 단추를 클릭합니다.
+1. 사용 가능한 권한 항목은 왼쪽에 나열됩니다. 권한을 하나씩 또는 모두 한 번에 추가하도록 선택할 수 있습니다. 이 예에는 사용 가능한 항목이 하나만 있으므로 해당 항목을 추가합니다. 다음을 클릭합니다. **+** 서명.
 
    ![](assets/permissions-5.png)
 
@@ -45,9 +43,30 @@ Dynamic Chat의 다양한 영역에 대한 사용자 액세스를 관리합니�
 
    ![](assets/permissions-6.png)
 
-이제 다른 모든 Dynamic Chat 영역에 대해 이 프로세스를 반복할 수 있습니다.
+이제 다른 Dynamic Chat 영역에 대해 이 프로세스를 반복할 수 있습니다.
 
 ![](assets/permissions-7.png)
+
+## 프로필 만들기 {#create-a-profile}
+
+1. 다음에서 [Adobe Admin Console](https://adminconsole.adobe.com/){target="_blank"}, 클릭 **Dynamic Chat**.
+
+   ![](assets/permissions-8.png)
+
+1. 다음에서 **제품 프로필** 탭을 클릭하고 **새 프로필**.
+
+   ![](assets/permissions-9.png)
+
+1. **이름** 제품 프로필. 선택적으로, 사용자에게 표시 이름 및/또는 설명을 지정하고, 사용자가 추가/제거될 때 알림이 표시되도록 선택할 수 있습니다. 클릭 **저장** 완료 시.
+
+   ![](assets/permissions-10.png)
+
+1. 새 프로필이 제품 프로필 탭에 나타납니다. 선택합니다.
+
+   ![](assets/permissions-11.png)
+
+1. 이제 다음에서 3-6단계를 수행합니다. [위의 섹션](#edit-existing-permissions) 원하는 영역마다.
+
 
 ## 권한 목록 {#list-of-permissions}
 

@@ -2,16 +2,22 @@
 description: 라이브 채팅 개요 - Marketo 문서 - 제품 설명서
 title: 라이브 채팅 개요
 feature: Dynamic Chat
-source-git-commit: 34545817fd35719290a848384e4bc9feba521305
+source-git-commit: 8b2eed5e28c46ea9c467fd25dd732c1654a09bed
 workflow-type: tm+mt
-source-wordcount: '254'
-ht-degree: 2%
+source-wordcount: '322'
+ht-degree: 1%
 
 ---
 
 # 라이브 채팅 개요 {#live-chat-overview}
 
 라이브 채팅을 사용하면 웹 사이트 방문자가 판매 에이전트와 실시간 채팅 대화를 나눌 수 있습니다.
+
+## 라이브 채팅 에이전트 추가 {#add-live-chat-agents}
+
+라이브 채팅을 시작하려면 라이브 채팅 에이전트를 다음으로 추가해야 합니다. [Adobe Admin Console의 사용자](/help/marketo/product-docs/demand-generation/dynamic-chat/setup-and-configuration/add-or-remove-chat-users.md#add-a-chat-user){target="_blank"} and give them the [Live Chat permission](/help/marketo/product-docs/demand-generation/dynamic-chat/setup-and-configuration/permissions.md){target="_blank"}. 이 작업이 완료되면 다음을 추가할 수 있습니다. [라이브 채팅 카드](#using-the-live-chat-card) 새 대화 상자 또는 기존 대화 상자로 이동합니다.
+
+방문자가 대화 상자를 통해 에이전트와의 채팅을 요청하면 에이전트에는 여러 개의 [알림 옵션](/help/marketo/product-docs/demand-generation/dynamic-chat/live-chat/agent-inbox.md#live-chat-notifications){target="_blank"}. When they click on the notification, they'll be taken to their [Agent Inbox](/help/marketo/product-docs/demand-generation/dynamic-chat/live-chat/agent-inbox.md){target="_blank"} 방문자와 채팅을 시작할 수 있는 곳.
 
 ## 라이브 채팅 카드 사용 {#using-the-live-chat-card}
 
