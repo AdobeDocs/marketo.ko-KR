@@ -2,9 +2,9 @@
 description: 릴리스 노트 - 2023년 7월 - Marketo 설명서 - 제품 설명서
 title: 릴리스 노트 - 2023년 7월
 feature: Release Information
-source-git-commit: 45e092f7b7e7beeef9712869b62ba4e022c2bf3d
+source-git-commit: 3d9985127db3a420aca8bed13c9e3241d24b149f
 workflow-type: tm+mt
-source-wordcount: '664'
+source-wordcount: '641'
 ht-degree: 2%
 
 ---
@@ -179,4 +179,4 @@ ht-degree: 2%
 
 * **Google Analytics 4로 업그레이드**: Marketo은 이전에 Universal Analytics를 지원했으며, 2023년 7월 1일까지 데이터 기록을 중단합니다. RTP 사용자는 Google Analytics 대시보드의 마이그레이션 프로세스를 따라 RTP에서 Google Analytics 4 통합에 대한 지원을 완료해야 합니다. 앞으로 사용자는 고유한 영숫자 태그를 갖게 됩니다( 내에 위치). `<head>` Marketo Google Analytics 섹션(html)을 참조하십시오.
 
-* **_제품 릴리스 웨비나_**: 2023년 9월 6일 오전 9시(PT 기준) / 오후 12시(ET 기준) [라이브 웨비나](https://engage.marketo.com/2023_July_September_Release_Webinar_RegistrationPage.html){target="_blank"} 제품 팀에서 호스팅하며 최신 제품 혁신을 모두 사용하는 방법에 대해 알아봅니다.
+* **_제품 릴리스 웨비나_**: [2023년 7월 및 9월 Marketo Engage 릴리스 웨비나](https://engage.marketo.com/2023_July_September_Release_Webinar_OnDemandPage.html){target="_blank"}
