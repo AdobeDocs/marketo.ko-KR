@@ -2,9 +2,9 @@
 description: 릴리스 노트 - 2023년 9월 - Marketo 설명서 - 제품 설명서
 title: 릴리스 노트 - 2023년 9월
 feature: Release Information
-source-git-commit: 3d9985127db3a420aca8bed13c9e3241d24b149f
+source-git-commit: 91abb47c44297f3b87646840aebf72d64a9a3a8d
 workflow-type: tm+mt
-source-wordcount: '889'
+source-wordcount: '937'
 ht-degree: 1%
 
 ---
@@ -265,6 +265,8 @@ ht-degree: 1%
 <br/>
 
 ## 공지 {#announcements}
+
+* **Marketo 이벤트 및 Marketo 순간 사용 중단**: Adobe은 2023년 10월 2일부터 모든 앱스토어에서 Marketo 이벤트 및 Marketo 순간을 제거합니다. 기존 사용자 - Marketo Engage 인스턴스를 Adobe ID로 마이그레이션할 때까지 이러한 앱을 계속 사용할 수 있습니다. 이러한 앱은 Adobe ID 로그인을 지원하지 않습니다.
 
 * **Design Studio Assets의 스위치 사용 중단 전환**: 사용자가 Design Studio의 클래식 인터페이스와 최신 UX 경험 사이를 전환할 수 있는 토글 스위치는 이전 버전의 Design Studio 경험과 함께 사용되지 않으며, 따라서 사용자가 최신 UX 경험으로 완전히 마이그레이션할 수 있습니다. [여기에서 자세히 알아보기](https://nation.marketo.com/t5/the-next-generation-experience/adobe-marketo-engage-switch-to-modern-experience-for-all-design/ba-p/339411){target="_blank"}.
 
