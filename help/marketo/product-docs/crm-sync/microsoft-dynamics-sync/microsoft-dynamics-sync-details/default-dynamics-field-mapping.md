@@ -3,7 +3,7 @@ description: 기본 Dynamics 필드 매핑 - Marketo 문서 - 제품 설명서
 title: 기본 동적 필드 매핑
 exl-id: 5f39bd0c-202e-4aa1-a0ac-49ac2554aa1e
 feature: Microsoft Dynamics
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 09c70bb891f5cc93553c1f8dd0fb58dfd407fa81
 workflow-type: tm+mt
 source-wordcount: '829'
 ht-degree: 18%
@@ -200,7 +200,7 @@ Marketo 계정을 Microsoft과 처음 동기화할 때 Marketo은 내장된 Dyna
     </tr>
     <tr>
       <td>회사</td>
-      <td>회사명</td>
+      <td>회사 이름</td>
       <td>companyname</td>
     </tr>
     <tr>
@@ -468,7 +468,7 @@ Marketo 계정을 Microsoft과 처음 동기화할 때 Marketo은 내장된 Dyna
     </tr>
     <tr>
       <td>parentcustomerid</td>
-      <td>회사명</td>
+      <td>회사 이름</td>
     </tr>
   </tbody>
 </table>
@@ -579,8 +579,8 @@ Marketo 계정을 Microsoft과 처음 동기화할 때 Marketo은 내장된 Dyna
     </tr>
     <tr>
       <td>회사</td>
-      <td>이름</td>
       <td>계정 이름</td>
+      <td>이름</td>
     </tr>
     <tr>
       <td>직원 수</td>
