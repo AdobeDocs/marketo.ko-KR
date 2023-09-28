@@ -2,7 +2,8 @@
 description: 구성 - Marketo 문서 - 제품 설명서
 title: 구성
 feature: Dynamic Chat
-source-git-commit: 9a8f6fe57b585ba0eac6a577bf99e0419d8818a1
+exl-id: 824cd1de-a407-4250-8777-33eec0777361
+source-git-commit: 38274b4859ae38c018ee73d4f1715fdf6a78e815
 workflow-type: tm+mt
 source-wordcount: '319'
 ht-degree: 1%

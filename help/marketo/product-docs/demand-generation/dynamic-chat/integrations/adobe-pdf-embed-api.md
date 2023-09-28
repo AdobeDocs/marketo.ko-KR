@@ -2,7 +2,8 @@
 description: Adobe PDF Embed API - Marketo 문서 - 제품 설명서
 title: Adobe PDF 임베드 API
 feature: Dynamic Chat
-source-git-commit: 9a8f6fe57b585ba0eac6a577bf99e0419d8818a1
+exl-id: 0c8c4e7c-6576-40b6-b96b-cfd0bae5d27d
+source-git-commit: 38274b4859ae38c018ee73d4f1715fdf6a78e815
 workflow-type: tm+mt
 source-wordcount: '139'
 ht-degree: 5%
@@ -44,4 +45,3 @@ ht-degree: 5%
    ![](assets/adobe-pdf-embed-api-6.png)
 
 이제 대화 상자에서 문서 카드를 사용할 수 있습니다. [스트림 디자이너](/help/marketo/product-docs/demand-generation/dynamic-chat/automated-chat/stream-designer.md){target="_blank"}!
-

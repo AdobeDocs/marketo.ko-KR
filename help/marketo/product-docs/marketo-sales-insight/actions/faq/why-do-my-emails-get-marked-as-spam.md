@@ -1,7 +1,8 @@
 ---
 description: 왜 내 이메일이 스팸으로 표시됩니까? - Marketo 문서 - 제품 설명서
 title: 왜 내 이메일이 스팸으로 표시됩니까?
-source-git-commit: 3de5fccd516fdaee6c3dc5168df3d2b0767eb2c3
+exl-id: 09fbfd78-fd06-4350-ad22-c0ff5e08394d
+source-git-commit: 38274b4859ae38c018ee73d4f1715fdf6a78e815
 workflow-type: tm+mt
 source-wordcount: '186'
 ht-degree: 0%

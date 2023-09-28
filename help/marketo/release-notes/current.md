@@ -3,10 +3,10 @@ description: 현재 릴리스 정보 - Marketo 설명서 - 제품 설명서
 title: 최신 릴리스 정보
 exl-id: a2eccad5-73ad-48f9-8091-51cee23824e1
 feature: Release Information
-source-git-commit: 00038ada6a3712ccc06cb638125f2f6fb185a1c6
+source-git-commit: 6440f43ab77e32038964bf8272f350bd28474eec
 workflow-type: tm+mt
-source-wordcount: '241'
-ht-degree: 3%
+source-wordcount: '329'
+ht-degree: 2%
 
 ---
 
@@ -45,6 +45,17 @@ ht-degree: 3%
    <td><i>곧 출시 예정</i></td>
    <td><i>곧 출시 예정</i></td>
   </tr>
+  <tr> 
+   <td> </td> 
+   <td> </td>
+   <td> </td>
+  </tr>
+  </tr>
+   <tr> 
+   <td><strong>대화형 웨비나에서 녹화 다운로드 및 공동 호스트 할당</strong>: 이제 원래 호스트를 사용할 수 없는 경우 웨비나에 대한 외부 공동 호스트를 추가할 수 있습니다. 이제 웨비나 녹화를 다운로드할 수도 있습니다.</td> 
+   <td><i>곧 출시 예정</i></td>
+   <td><i>곧 출시 예정</i></td>
+  </tr>
  </tbody> 
 </table>
 <br/>
@@ -52,3 +63,5 @@ ht-degree: 3%
 ## 공지 {#announcements}
 
 * **Forms jQuery 1.x Marketo Engage**: 2024년 1월 릴리스에서는 Forms Marketo Engage에 대한 jQuery를 jQuery 3.x로 업데이트할 예정입니다. 이는 이전 버전의 jQuery에 의존하는 사용자 정의 양식 구현에 영향을 줄 수 있습니다.
+
+* **Marketo 이벤트 및 Marketo 순간 사용 중단**: Adobe은 2023년 10월 2일부터 모든 앱스토어에서 Marketo 이벤트 및 Marketo 순간을 제거합니다. 기존 사용자 - Marketo Engage 인스턴스를 Adobe ID로 마이그레이션할 때까지 이러한 앱을 계속 사용할 수 있습니다. 이러한 앱은 Adobe ID 로그인을 지원하지 않습니다.

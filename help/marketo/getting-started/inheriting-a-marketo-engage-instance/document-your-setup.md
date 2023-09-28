@@ -2,7 +2,8 @@
 description: 상속된 인스턴스 문서 설정 - Marketo 문서 - 제품 설명서
 title: 상속된 인스턴스 문서 내 설정
 feature: Getting Started
-source-git-commit: 2120b700fde80f470b5e221c0212c8d29e3920ae
+exl-id: 5a3fc755-0d1d-450a-bde6-9e27ea0cae8e
+source-git-commit: 38274b4859ae38c018ee73d4f1715fdf6a78e815
 workflow-type: tm+mt
 source-wordcount: '305'
 ht-degree: 1%
@@ -34,7 +35,7 @@ ht-degree: 1%
  </tbody> 
 </table>
 
-## 설명서 {#documentation}
+## 사용자 가이드 {#documentation}
 
 <table style="table-layout:auto"> 
  <tbody> 

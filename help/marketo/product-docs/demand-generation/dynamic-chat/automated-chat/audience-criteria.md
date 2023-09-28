@@ -2,7 +2,8 @@
 description: 대상 기준 - Marketo 문서 - 제품 설명서
 title: 대상 기준
 feature: Dynamic Chat
-source-git-commit: 9a8f6fe57b585ba0eac6a577bf99e0419d8818a1
+exl-id: ffe62cb7-707d-4b6d-8a66-9240d111191a
+source-git-commit: 38274b4859ae38c018ee73d4f1715fdf6a78e815
 workflow-type: tm+mt
 source-wordcount: '569'
 ht-degree: 2%
@@ -111,7 +112,7 @@ ht-degree: 2%
 
 ![](assets/audience-criteria-17.png)
 
-## 대상 {#target}
+## Target {#target}
 
 여기에서 특정 대화 상자를 표시할 URL을 입력합니다. 제외를 추가할 수도 있습니다.
 

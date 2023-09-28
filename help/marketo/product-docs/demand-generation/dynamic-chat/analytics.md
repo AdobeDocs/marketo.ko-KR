@@ -1,15 +1,16 @@
 ---
 description: Analytics - Marketo 문서 - 제품 설명서
-title: 분석
+title: Analytics
 feature: Dynamic Chat
-source-git-commit: 78ca35c105be2fd437da2f783388d5bfaced8c70
+exl-id: 8a698f2f-fa1b-4d0f-835c-8d65101c36fb
+source-git-commit: 38274b4859ae38c018ee73d4f1715fdf6a78e815
 workflow-type: tm+mt
 source-wordcount: '168'
 ht-degree: 1%
 
 ---
 
-# 분석 {#analytics}
+# Analytics {#analytics}
 
 대화 상자 수준에서 보고를 사용할 수 있지만 아래 세 개의 대시보드를 사용하여 전반적인 참여를 확인하십시오.
 

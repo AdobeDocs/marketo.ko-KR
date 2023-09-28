@@ -1,7 +1,8 @@
 ---
 description: 릴리스 노트 - 2023년 5월 - Marketo 문서 - 제품 설명서
 title: 릴리스 노트 - 2023년 5월
-source-git-commit: e994a8d7a9d11545fec3bf61c505180f20107ac4
+exl-id: e647fefc-e4f1-46e5-b688-887989f5feea
+source-git-commit: 38274b4859ae38c018ee73d4f1715fdf6a78e815
 workflow-type: tm+mt
 source-wordcount: '368'
 ht-degree: 1%

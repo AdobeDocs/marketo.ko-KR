@@ -2,10 +2,11 @@
 description: 라우팅 - Marketo 문서 - 제품 설명서
 title: 라우팅
 feature: Dynamic Chat
-source-git-commit: 9a8f6fe57b585ba0eac6a577bf99e0419d8818a1
+exl-id: 93d1a96d-c101-4a1c-898c-dcadb5cdce85
+source-git-commit: 38274b4859ae38c018ee73d4f1715fdf6a78e815
 workflow-type: tm+mt
 source-wordcount: '268'
-ht-degree: 0%
+ht-degree: 1%
 
 ---
 
@@ -37,7 +38,7 @@ Dynamic Chat에서 예약된 회의는 두 가지 방법으로 라우팅될 수 
 
    ![](assets/routing-3.png)
 
-1. 규칙 이름을 지정합니다. 원할 경우 설명을 추가하고 우선 순위 수준을 설정할 수 있습니다. 클릭 **다음**.
+1. 규칙 이름을 지정합니다. 원할 경우 설명을 추가하고 우선 순위 수준을 설정할 수 있습니다. **다음**&#x200B;을 클릭합니다.
 
    ![](assets/routing-4.png)
 

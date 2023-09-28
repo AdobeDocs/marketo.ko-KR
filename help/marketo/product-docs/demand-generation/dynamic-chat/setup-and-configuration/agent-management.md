@@ -2,7 +2,8 @@
 description: 에이전트 관리 - Marketo 문서 - 제품 설명서
 title: 에이전트 관리
 feature: Dynamic Chat
-source-git-commit: 9a8f6fe57b585ba0eac6a577bf99e0419d8818a1
+exl-id: 6518a0bd-cdd2-4489-b414-d84e0ed2f61f
+source-git-commit: 38274b4859ae38c018ee73d4f1715fdf6a78e815
 workflow-type: tm+mt
 source-wordcount: '184'
 ht-degree: 2%
