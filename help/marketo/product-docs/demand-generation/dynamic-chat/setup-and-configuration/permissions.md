@@ -3,7 +3,7 @@ description: 권한 - Marketo 문서 - 제품 설명서
 title: 권한
 feature: Dynamic Chat
 exl-id: e05308fe-b8b7-40a3-8099-cec937e1961c
-source-git-commit: feb7c04d056455c00cfe63a1ada17f7c34b509d3
+source-git-commit: 57e5bd8a9968c26c5431484fe06964f696299856
 workflow-type: tm+mt
 source-wordcount: '724'
 ht-degree: 8%
@@ -75,7 +75,7 @@ Dynamic Chat에서 편집할 수 있는 사전 정의된 권한이 있는 5개�
 <table>
 <thead>
   <tr>
-    <th style="width:30%">Dynamic Chat 영역</th>
+    <th style="width:25%">Dynamic Chat 영역</th>
     <th>권한</th>
   </tr>
 </thead>
@@ -140,7 +140,7 @@ Dynamic Chat에서 편집할 수 있는 사전 정의된 권한이 있는 5개�
 <table>
 <thead>
   <tr>
-    <th style="width:30%">프로필</th>
+    <th style="width:25%">프로필</th>
     <th>기본 권한</th>
   </tr>
 </thead>
@@ -154,22 +154,22 @@ Dynamic Chat에서 편집할 수 있는 사전 정의된 권한이 있는 5개�
     <li>대화 흐름 보기</li>
     <li>대화 흐름 관리(만들기, 삭제)</li>
     <li>대화 흐름 게시</li>
-    <p>
+    <br/>
+    <br/>
     <i>라이브 채팅</i>
     <li>해당 사항 없음</li>
-    <p>
-    <br/><i>회의</i>
+    <br>
+    <br/><i>모임</i>
     <li>해당 사항 없음</li>
-    <p>
-    <br/><i>Analytics</i>
+    <br>
+    <br><i>Analytics</i>
     <li>글로벌 성과 보고서 보기</li>
     <li>라이브 채팅 보고서 보기</li>
     <li>모임 보고서 보기</li>
-    <p>
-    <br/><i>에이전트 설정</i>
+    <br>
+    <br><i>에이전트 설정</i>
     <li>해당 사항 없음</li>
-    <p>
-    <br/><i>관리자 설정</i>
+    <br><i>관리자 설정</i>
     <li>라운드 로빈 보기</li>
     <li>사용자 정의 규칙 보기</li>
     <li>계정 목록 보기 <b>*</b></li>
