@@ -3,7 +3,7 @@ description: 권한 - Marketo 문서 - 제품 설명서
 title: 권한
 feature: Dynamic Chat
 exl-id: e05308fe-b8b7-40a3-8099-cec937e1961c
-source-git-commit: 2dab494bd897bf1030b8c2253831e7626dfe6e67
+source-git-commit: feb7c04d056455c00cfe63a1ada17f7c34b509d3
 workflow-type: tm+mt
 source-wordcount: '724'
 ht-degree: 8%
@@ -148,7 +148,6 @@ Dynamic Chat에서 편집할 수 있는 사전 정의된 권한이 있는 5개�
   <tr>
     <td>마케팅 사용자</td>
     <td><i>대화 관리</i>
-    <p>
     <li>대화 상자 보기</li>
     <li>대화 상자 관리(만들기, 삭제)</li>
     <li>게시 대화 상자</li>
@@ -156,21 +155,21 @@ Dynamic Chat에서 편집할 수 있는 사전 정의된 권한이 있는 5개�
     <li>대화 흐름 관리(만들기, 삭제)</li>
     <li>대화 흐름 게시</li>
     <p>
-    <p><i>라이브 채팅</i></p>
+    <i>라이브 채팅</i>
     <li>해당 사항 없음</li>
     <p>
-    <p><i>회의</i></p>
+    <br/><i>회의</i>
     <li>해당 사항 없음</li>
     <p>
-    <p><i>Analytics</i></p>
+    <br/><i>Analytics</i>
     <li>글로벌 성과 보고서 보기</li>
     <li>라이브 채팅 보고서 보기</li>
     <li>모임 보고서 보기</li>
     <p>
-    <p><i>에이전트 설정</i></p>
+    <br/><i>에이전트 설정</i>
     <li>해당 사항 없음</li>
     <p>
-    <p><i>관리자 설정</i></p>
+    <br/><i>관리자 설정</i>
     <li>라운드 로빈 보기</li>
     <li>사용자 정의 규칙 보기</li>
     <li>계정 목록 보기 <b>*</b></li>
