@@ -4,16 +4,16 @@ description: 최소 시스템 요구 사항 - Marketo 문서 - 제품 설명서
 title: 최소 시스템 요구 사항
 exl-id: 0fa8369f-18d6-45f2-80d0-d95fb2631a01
 feature: Administration
-source-git-commit: 02b2e39580c5eac63de4b4b7fdaf2a835fdd4ba5
+source-git-commit: c0375ae1a08fa2bc77f4128abfe5017db69e6ca8
 workflow-type: tm+mt
-source-wordcount: '90'
+source-wordcount: '93'
 ht-degree: 0%
 
 ---
 
 # 최소 시스템 요구 사항 {#minimum-system-requirements}
 
-Marketo에 로그인하고 사용해야 하는 항목이 궁금한 경우 찾고 있는 정보가 여기에 있습니다.
+로그인하여 Marketo Engage을 사용해야 하는 항목이 궁금한 경우 여기에서 찾고 있는 정보를 확인할 수 있습니다.
 
 >[!NOTE]
 >
@@ -27,4 +27,4 @@ Marketo에 로그인하고 사용해야 하는 항목이 궁금한 경우 찾고
 
 >[!NOTE]
 >
->IT 팀이 웹 액세스를 허용 목록에 추가하다으로 제한하는 경우 추가하도록 요청하십시오. `*.marketo.com` 모든 Marketo 리소스 및 웹 소켓을 허용합니다.
+>IT 팀이 웹 액세스를 허용 목록에 추가하다으로 제한하는 경우 추가하도록 요청하십시오. `*.marketo.com`, `*.adobe.com`, 및 `*.adobe.net` 모든 Marketo Engage 리소스 및 웹 소켓을 허용합니다.
