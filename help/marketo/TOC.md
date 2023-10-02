@@ -3,9 +3,9 @@ audience: end-user
 user-guide-title: Marketo 안내서
 user-guide-description: Marketo 제품 설명서
 feature-set: Marketo Engage
-source-git-commit: 45bd5bac341e08cdb14c7ae2a08c97a5ebcba73c
+source-git-commit: 01bb763931e875630bbd9e32d0a4ecc200fef61c
 workflow-type: tm+mt
-source-wordcount: '9107'
+source-wordcount: '9111'
 ht-degree: 1%
 
 ---
@@ -1408,6 +1408,7 @@ ht-degree: 1%
                + [구독 취소 링크 메시지 사용자 지정](product-docs/marketo-sales-insight/actions/email/unsubscribes/customize-unsubscribe-link-message.md)
                + [Marketo 구독 취소 확인](product-docs/marketo-sales-insight/actions/email/unsubscribes/marketo-unsubscribe-check.md)
                + [Salesforce와 구독 취소 동기화](product-docs/marketo-sales-insight/actions/email/unsubscribes/syncing-unsubscribes-with-salesforce.md)
+               + [트랜잭션 판매 이메일 템플릿](product-docs/marketo-sales-insight/actions/email/unsubscribes/transactional-sales-email-templates.md)
             + 작성 창 사용 {#using-the-compose-window}
                + [이메일에 첨부 파일 또는 추적 가능한 콘텐츠 추가](product-docs/marketo-sales-insight/actions/email/using-the-compose-window/add-an-attachment-or-trackable-content-to-your-email.md)
                + [벌크 이메일 옵션](product-docs/marketo-sales-insight/actions/email/using-the-compose-window/bulk-emailing-options.md)

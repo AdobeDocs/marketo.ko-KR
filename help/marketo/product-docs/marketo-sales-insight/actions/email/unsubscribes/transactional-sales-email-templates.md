@@ -4,9 +4,9 @@ title: 트랜잭션 판매 이메일 템플릿
 hide: true
 hidefromtoc: true
 feature: Sales Insight Actions
-source-git-commit: d6a3d95ed42d1c08d69014e1aa013e7436bd06c2
+source-git-commit: 01bb763931e875630bbd9e32d0a4ecc200fef61c
 workflow-type: tm+mt
-source-wordcount: '172'
+source-wordcount: '161'
 ht-degree: 0%
 
 ---
@@ -25,34 +25,32 @@ ht-degree: 0%
 
 1. 헤더에서 를 클릭합니다. **템플릿**.
 
-PICC
+   ![](assets/transactional-sales-email-templates-1.png)
 
-1. 업데이트할 템플릿을 검색합니다.
+1. 업데이트할 템플릿을 찾아 선택합니다.
 
-PICC
-
-1. 템플릿을 선택합니다.
-
-PICC
+   ![](assets/transactional-sales-email-templates-2.png)
 
 1. 템플릿 설정에서 비상업적인 이메일 토글을 활성화합니다.
 
-PICC
+   ![](assets/transactional-sales-email-templates-3.png)
 
 ## 비상업적인 이메일 보내기 {#send-a-non-commercial-email}
 
-구독 취소한 사람을 선택하면 주황색으로 강조 표시됩니다.
+>[!NOTE]
+>
+>구독 취소한 사람을 선택하면 주황색으로 강조 표시됩니다.
 
-1. 작성 창에서 보려는 비상업적 템플리트를 선택합니다.
+1. 헤더에서 를 클릭합니다. **작성**. 원하는 비상업적 템플릿을 찾아 선택합니다.
 
-PICC
+   ![](assets/transactional-sales-email-templates-4.png)
 
-1. 사용자에게는 현재 비상업적인 이메일 템플릿을 선택했음을 보여 주는 배너가 표시됩니다.
+1. 사용자에게는 비상업적인 이메일 템플릿을 선택했음을 보여 주는 배너가 표시됩니다.
 
-PICC
+   ![](assets/transactional-sales-email-templates-5.png)
 
 1. 클릭 **보내기**.
 
-PICC
+   ![](assets/transactional-sales-email-templates-6.png)
 
 구독을 취소한 경우에도 이메일이 계속 전송됩니다.
