@@ -4,7 +4,7 @@ description: iPad 또는 Android 태블릿 설정 - Marketo 문서 - 제품 설�
 title: iPad 또는 Android 태블릿 설정
 exl-id: ccfd48dc-ca8d-442f-87fd-f16b34d1a76c
 feature: Mobile Marketing
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 46507c0caab93778e3afe6a39ff5a8e70d492233
 workflow-type: tm+mt
 source-wordcount: '471'
 ht-degree: 0%
@@ -31,11 +31,11 @@ iPad에 Marketo 이벤트 앱이 설치되어 있지 않은 경우 다운로드�
 
 1. iPad을 열고 App Store을 시작합니다.
 
-   ![](assets/image2016-4-14-15-3a52-3a19.png)
+   ![](assets/set-up-the-ipad-or-android-tablet-1.png)
 
 1. 검색 상자에 을 입력합니다. **Marketo** 및 제안에서 을 누릅니다. **marketo 이벤트**.
 
-   ![](assets/image2016-4-14-16-3a0-3a3.png)
+   ![](assets/set-up-the-ipad-or-android-tablet-2.png)
 
 1. 절차에 따라 iPad에 앱을 다운로드하여 설치합니다.
 
@@ -47,7 +47,7 @@ Android 태블릿에 아직 Marketo 이벤트 앱이 설치되지 않은 경우 
 1. 검색 상자에 을 입력합니다. **Marketo** 및 탭 **반환**.
 1. 검색 결과에서 **Marketo 이벤트** 앱.
 
-   ![](assets/image2016-4-15-14-3a42-3a11.png)
+   ![](assets/set-up-the-ipad-or-android-tablet-3.png)
 
 1. 절차에 따라 태블릿에 앱을 다운로드하여 설치하십시오.
 
@@ -58,7 +58,7 @@ Android 태블릿에 아직 Marketo 이벤트 앱이 설치되지 않은 경우 
 1. iPad 또는 태블릿에 로그인하려면 로그인 절차를 따르십시오.
 1. 이벤트가 홈 화면에 표시되는지 확인합니다. 날짜가 현재 날짜보다 1주일 전 및 1주일 후인 경우에만 표시됩니다.
 
-   ![](assets/image2016-4-15-15-3a29-3a0.png)
+   ![](assets/set-up-the-ipad-or-android-tablet-4.png)
 
    >[!NOTE]
    >
@@ -73,11 +73,11 @@ Android 태블릿에 아직 Marketo 이벤트 앱이 설치되지 않은 경우 
 
    **iPad**
 
-   ![](assets/image2016-4-12-14-3a25-3a13.png)
+   ![](assets/set-up-the-ipad-or-android-tablet-5.png)
 
    **Android**
 
-   ![](assets/screenshot-2016-04-15-14-14-08-sync-button.png)
+   ![](assets/set-up-the-ipad-or-android-tablet-6.png)
 
 ## 체크인이 작동하는지 확인 {#confirm-check-ins-are-working}
 
@@ -87,11 +87,11 @@ Android 태블릿에 아직 Marketo 이벤트 앱이 설치되지 않은 경우 
 1. 탭 **동기화** 아이콘을 클릭하여 앱을 동기화합니다.
 1. Marketo에서 이벤트를 열고 **구성원**.
 
-   ![](assets/image2016-4-15-15-3a32-3a42.png)
+   ![](assets/set-up-the-ipad-or-android-tablet-7.png)
 
 1. 개인의 상태가 (으)로 변경되었는지 확인합니다. **출석함** 및 성공 이 선택되어 있습니다.
 
-   ![](assets/image2016-4-18-14-3a11-3a36.png)
+   ![](assets/set-up-the-ipad-or-android-tablet-8.png)
 
    >[!TIP]
    >

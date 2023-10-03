@@ -2,10 +2,10 @@
 description: 대상 기준 - Marketo 문서 - 제품 설명서
 title: 대상 기준
 feature: Dynamic Chat
-exl-id: ffe62cb7-707d-4b6d-8a66-9240d111191a
-source-git-commit: 38274b4859ae38c018ee73d4f1715fdf6a78e815
+exl-id: 95c4558e-0c0c-4623-bb7d-b6ac2f455c01
+source-git-commit: 46507c0caab93778e3afe6a39ff5a8e70d492233
 workflow-type: tm+mt
-source-wordcount: '569'
+source-wordcount: '593'
 ht-degree: 2%
 
 ---
@@ -95,6 +95,10 @@ ht-degree: 2%
 ## 멤버십 {#membership}
 
 대화 상자의 타겟 대상에 Marketo Engage 스마트 목록 을 사용합니다.
+
+>[!AVAILABILITY]
+>
+>스마트 목록 구성원 또는 목록 구성원 기준에는 Dynamic Chat Prime이 필요합니다. 자세한 내용은 Adobe 계정 팀(계정 관리자)에 문의하십시오.
 
 1. 멤버십에서 **스마트 목록의 구성원** 캔버스에 떨어뜨려
 
