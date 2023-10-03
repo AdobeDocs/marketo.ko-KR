@@ -4,9 +4,9 @@ description: 태블릿에서 이벤트 직원 확인 - Marketo 문서 - 제품 �
 title: 태블릿에서 다른 사람을 내 이벤트에 체크 인
 exl-id: b48f5f95-8e36-441f-a785-1651f42f9f60
 feature: Mobile Marketing
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 61b5500c6acbe6448a70e28f4b0cafe3c005a02a
 workflow-type: tm+mt
-source-wordcount: '815'
+source-wordcount: '859'
 ht-degree: 0%
 
 ---
@@ -15,12 +15,15 @@ ht-degree: 0%
 
 사람들이 이벤트에 나타나면 앱에서 해당 정보를 찾을 수 있습니다. 체크인 후 Marketo에 동기화하면 출석됨 상태로 승격됩니다.
 
+>[!IMPORTANT]
+>
+>2023년 10월 2일에 Adobe은 모든 앱스토어에서 Marketo 이벤트 앱을 제거했습니다. 태블릿/모바일 장치에 이미 앱이 설치되어 있는 경우 당분간 앱을 계속 사용할 수 있습니다. Marketo 인증을 위해 Marketo Engage 인스턴스가 Adobe ID로 마이그레이션되면 더 이상 앱에 액세스할 수 없습니다. [자세히 알아보기](https://nation.marketo.com/t5/product-discussions/marketo-events-app-and-marketo-moments-app-end-of-life/m-p/340712/highlight/true#M193869){target="_blank"}.
+
 이 앱은 사소한 레이아웃 및 디자인 차이점을 제외하고 iPad과 Android 모두에서 동일하게 작동합니다.
 
 >[!PREREQUISITES]
 >
 >* Marketo에서 이벤트를 만들고 초대됨 및 등록된 사용자로 채웁니다.
->* 다음에 대한 태블릿 앱 다운로드 [Android](https://play.google.com/store/apps/details?id=com.marketo.eventcheckin&amp;hl=en) 또는 [iOS](https://itunes.apple.com/us/app/marketo-events/id522766637?mt=8)
 
 ## 등록된 게스트 체크인 {#check-in-registered-guests}
 

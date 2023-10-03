@@ -4,16 +4,20 @@ description: 순간 공유 - Marketo 문서 - 제품 설명서
 title: 순간 공유
 exl-id: e149f8d8-1405-43d2-aa0b-900796328a92
 feature: Mobile Marketing
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 61b5500c6acbe6448a70e28f4b0cafe3c005a02a
 workflow-type: tm+mt
-source-wordcount: '89'
-ht-degree: 0%
+source-wordcount: '157'
+ht-degree: 2%
 
 ---
 
 # 순간 공유 {#sharing-a-moment}
 
-팀에 업데이트를 제공하시겠습니까? 공유를 선택할 수 있는 두 가지 옵션이 있습니다.
+팀에 업데이트를 제공하시겠습니까? 공유를 선택할 수 있는 두 가지 선택 사항이 있습니다.
+
+>[!IMPORTANT]
+>
+>2023년 10월 2일, Adobe은 모든 앱스토어에서 Marketo 모먼트 앱을 제거했습니다. 태블릿/모바일 장치에 이미 앱이 설치되어 있는 경우 당분간 앱을 계속 사용할 수 있습니다. Marketo 인증을 위해 Marketo Engage 인스턴스가 Adobe ID로 마이그레이션되면 더 이상 앱에 액세스할 수 없습니다. [자세히 알아보기](https://nation.marketo.com/t5/product-discussions/marketo-events-app-and-marketo-moments-app-end-of-life/m-p/340712/highlight/true#M193869){target="_blank"}.
 
 1. 탭 **공유** 카드의 아이콘
 
@@ -37,4 +41,4 @@ ht-degree: 0%
 
    ![](assets/image2015-7-14-16-3a18-3a16.png)
 
-   잘했어!
+   좋습니다!

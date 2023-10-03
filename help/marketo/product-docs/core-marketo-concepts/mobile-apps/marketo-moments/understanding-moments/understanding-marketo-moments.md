@@ -4,9 +4,9 @@ description: Marketo 순간 이해 - Marketo 문서 - 제품 설명서
 title: Marketo 모멘트 이해
 exl-id: bc103d25-a175-4ab1-8305-1e05b9b0dc2d
 feature: Mobile Marketing
-source-git-commit: 762b8206b1e4c748daae063a80e76cc028904d10
+source-git-commit: 61b5500c6acbe6448a70e28f4b0cafe3c005a02a
 workflow-type: tm+mt
-source-wordcount: '556'
+source-wordcount: '612'
 ht-degree: 0%
 
 ---
@@ -15,13 +15,13 @@ ht-degree: 0%
 
 이제 Marketo의 힘은 문자 그대로 여러분의 손에 달렸습니다! 휴대폰 또는 iPad에서 바로 이메일을 미리 보고 일정을 조정할 수 있습니다.
 
+>[!IMPORTANT]
+>
+>2023년 10월 2일, Adobe은 모든 앱스토어에서 Marketo 모먼트 앱을 제거했습니다. 태블릿/모바일 장치에 이미 앱이 설치되어 있는 경우 당분간 앱을 계속 사용할 수 있습니다. Marketo 인증을 위해 Marketo Engage 인스턴스가 Adobe ID로 마이그레이션되면 더 이상 앱에 액세스할 수 없습니다. [자세히 알아보기](https://nation.marketo.com/t5/product-discussions/marketo-events-app-and-marketo-moments-app-end-of-life/m-p/340712/highlight/true#M193869){target="_blank"}.
+
 >[!NOTE]
 >
->모바일 앱 액세스 권한이 필요합니다. Marketo 관리자에게 문의하여 다음 작업을 수행하십시오 [역할 업데이트](/help/marketo/product-docs/administration/users-and-roles/managing-user-roles-and-permissions.md).
-
->[!AVAILABILITY]
->
->이 앱은 과 호환되지 않습니다. [Adobe ID 인증](/help/marketo/product-docs/administration/marketo-with-adobe-identity/adobe-identity-management-overview.md){target="_blank"} 이 시간에.
+>_모바일 앱 액세스_ 권한이 필요합니다. Marketo 관리자에게 문의하여 다음 작업을 수행하십시오 [역할 업데이트](/help/marketo/product-docs/administration/users-and-roles/managing-user-roles-and-permissions.md).
 
 ## 스트림 {#streams}
 

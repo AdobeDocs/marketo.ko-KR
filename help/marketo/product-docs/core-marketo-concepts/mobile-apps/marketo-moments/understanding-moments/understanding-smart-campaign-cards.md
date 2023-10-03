@@ -4,9 +4,9 @@ description: 스마트 캠페인 카드 이해 - Marketo 문서 - 제품 설명�
 title: 스마트 캠페인 카드 이해
 exl-id: 2d7476aa-d33d-4c82-aef8-b340766b9526
 feature: Mobile Marketing
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 61b5500c6acbe6448a70e28f4b0cafe3c005a02a
 workflow-type: tm+mt
-source-wordcount: '514'
+source-wordcount: '582'
 ht-degree: 0%
 
 ---
@@ -15,7 +15,11 @@ ht-degree: 0%
 
 Marketo 모먼트 를 사용하여 스마트 폰 또는 iPad에서 스마트 캠페인이 실행되는 각 항목을 볼 수 있습니다. Marketo Moments 스마트 캠페인 카드는 캠페인의 단일 실행을 나타냅니다. 스마트 캠페인이 실행될 때마다 새 카드가 표시됩니다. 스마트 캠페인 카드는 왼쪽 상단에 전구가 표시되어 있습니다.
 
-예약되었지만 아직 실행되지 않은 향후 스마트 캠페인의 경우 Marketo 모멘트 카드에 아직 캠페인 통계가 표시되지 않습니다. 향후 릴리스에 제공될 예정입니다.
+>[!IMPORTANT]
+>
+>2023년 10월 2일, Adobe은 모든 앱스토어에서 Marketo 모먼트 앱을 제거했습니다. 태블릿/모바일 장치에 이미 앱이 설치되어 있는 경우 당분간 앱을 계속 사용할 수 있습니다. Marketo 인증을 위해 Marketo Engage 인스턴스가 Adobe ID로 마이그레이션되면 더 이상 앱에 액세스할 수 없습니다. [자세히 알아보기](https://nation.marketo.com/t5/product-discussions/marketo-events-app-and-marketo-moments-app-end-of-life/m-p/340712/highlight/true#M193869){target="_blank"}.
+
+예약되었지만 아직 실행되지 않은 미래의 스마트 캠페인의 경우 Marketo 모멘트 카드에 아직 캠페인 통계가 표시되지 않습니다. 향후 릴리스에 제공될 예정입니다.
 
 ![](assets/image2015-9-23-10-3a1-3a5.png)
 
@@ -51,7 +55,7 @@ Marketo 모먼트 를 사용하여 스마트 폰 또는 iPad에서 스마트 캠
 
    ![](assets/image2015-9-21-13-3a59-3a29.png)
 
-1. 밑에 두 점이 보이시죠? 이 스마트 캠페인에 연결된 이메일이 두 개임을 나타냅니다. 다른 전자 메일에 대한 결과를 보려면 화면을 왼쪽으로 밉니다. 두 번째 이메일에 대한 결과는 다음과 같습니다.
+1. 밑에 두 점이 보이시죠? 이 Smart Campaign에 연결된 이메일이 두 개임을 나타냅니다. 다른 전자 메일에 대한 결과를 보려면 화면을 왼쪽으로 밉니다. 두 번째 이메일에 대한 결과는 다음과 같습니다.
 
    ![](assets/image2015-9-21-14-3a4-3a51.png)
 
@@ -75,7 +79,7 @@ Marketo 모먼트 를 사용하여 스마트 폰 또는 iPad에서 스마트 캠
 
 확인되지 않은 스마트 캠페인에 대한 카드는 확인할 때까지 회색으로 표시됩니다. 그리고 나서, 그들은 주황색으로 변합니다.
 
-1. 확인되지 않은 스마트 캠페인 카드를 확인하려면 점 3개 작업 메뉴를 탭합니다.
+1. 확인되지 않은 Smart Campaign 카드를 확인하려면 점 3개 작업 메뉴를 누릅니다.
 
    ![](assets/image2015-9-23-10-3a43-3a23.png)
 

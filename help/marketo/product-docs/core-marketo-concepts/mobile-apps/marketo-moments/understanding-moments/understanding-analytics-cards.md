@@ -4,9 +4,9 @@ description: Analytics 카드 이해 - Marketo 문서 - 제품 설명서
 title: Analytics 카드 이해
 exl-id: fc314ab8-4d29-44f5-bc45-71e6727ecc06
 feature: Mobile Marketing
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 61b5500c6acbe6448a70e28f4b0cafe3c005a02a
 workflow-type: tm+mt
-source-wordcount: '220'
+source-wordcount: '288'
 ht-degree: 0%
 
 ---
@@ -14,6 +14,10 @@ ht-degree: 0%
 # Analytics 카드 이해 {#understanding-analytics-cards}
 
 Marketo Moments는 매월 초에 인수한 리드, 새 리드 및 구독 취소 등 세 가지 보고서 카드를 제공합니다. 각 보고서는 6개월 동안의 월별 실적 및 추세를 보여 줍니다.
+
+>[!IMPORTANT]
+>
+>2023년 10월 2일, Adobe은 모든 앱스토어에서 Marketo 모먼트 앱을 제거했습니다. 태블릿/모바일 장치에 이미 앱이 설치되어 있는 경우 당분간 앱을 계속 사용할 수 있습니다. Marketo 인증을 위해 Marketo Engage 인스턴스가 Adobe ID로 마이그레이션되면 더 이상 앱에 액세스할 수 없습니다. [자세히 알아보기](https://nation.marketo.com/t5/product-discussions/marketo-events-app-and-marketo-moments-app-end-of-life/m-p/340712/highlight/true#M193869){target="_blank"}.
 
 ## Analytics 카드 {#analytics-cards}
 

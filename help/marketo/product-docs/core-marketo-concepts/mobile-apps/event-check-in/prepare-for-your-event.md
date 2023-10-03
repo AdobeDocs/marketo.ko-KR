@@ -4,9 +4,9 @@ description: 이벤트 준비 - Marketo 문서 - 제품 설명서
 title: 이벤트 준비
 exl-id: 30754c2e-dad0-4275-b5b3-f31680a62c42
 feature: Mobile Marketing
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 61b5500c6acbe6448a70e28f4b0cafe3c005a02a
 workflow-type: tm+mt
-source-wordcount: '342'
+source-wordcount: '410'
 ht-degree: 0%
 
 ---
@@ -14,6 +14,10 @@ ht-degree: 0%
 # 이벤트 준비 {#prepare-for-your-event}
 
 행사를 준비하기 위해 해야 할 일이 몇 가지 있습니다.
+
+>[!IMPORTANT]
+>
+>2023년 10월 2일에 Adobe은 모든 앱스토어에서 Marketo 이벤트 앱을 제거했습니다. 태블릿/모바일 장치에 이미 앱이 설치되어 있는 경우 당분간 앱을 계속 사용할 수 있습니다. Marketo 인증을 위해 Marketo Engage 인스턴스가 Adobe ID로 마이그레이션되면 더 이상 앱에 액세스할 수 없습니다. [자세히 알아보기](https://nation.marketo.com/t5/product-discussions/marketo-events-app-and-marketo-moments-app-end-of-life/m-p/340712/highlight/true#M193869){target="_blank"}.
 
 ## 새 Marketo 역할 만들기 {#create-a-new-marketo-role}
 

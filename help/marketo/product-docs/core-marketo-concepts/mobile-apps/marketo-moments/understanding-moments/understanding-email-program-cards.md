@@ -4,9 +4,9 @@ description: 이메일 프로그램 카드 이해 - Marketo 문서 - 제품 설�
 title: 이메일 프로그램 카드 이해
 exl-id: c9de8334-4c42-44e4-aa73-9e82f25e5f00
 feature: Mobile Marketing
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 61b5500c6acbe6448a70e28f4b0cafe3c005a02a
 workflow-type: tm+mt
-source-wordcount: '310'
+source-wordcount: '378'
 ht-degree: 0%
 
 ---
@@ -14,6 +14,10 @@ ht-degree: 0%
 # 이메일 프로그램 카드 이해 {#understanding-email-program-cards}
 
 Marketo 모먼트 를 사용하여 휴대폰 또는 iPad에서 이메일 프로그램을 봅니다.
+
+>[!IMPORTANT]
+>
+>2023년 10월 2일, Adobe은 모든 앱스토어에서 Marketo 모먼트 앱을 제거했습니다. 태블릿/모바일 장치에 이미 앱이 설치되어 있는 경우 당분간 앱을 계속 사용할 수 있습니다. Marketo 인증을 위해 Marketo Engage 인스턴스가 Adobe ID로 마이그레이션되면 더 이상 앱에 액세스할 수 없습니다. [자세히 알아보기](https://nation.marketo.com/t5/product-discussions/marketo-events-app-and-marketo-moments-app-end-of-life/m-p/340712/highlight/true#M193869){target="_blank"}.
 
 ## 이메일 프로그램 카드 {#email-program-cards}
 

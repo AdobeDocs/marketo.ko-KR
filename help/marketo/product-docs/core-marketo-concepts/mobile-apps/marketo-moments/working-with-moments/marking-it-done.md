@@ -4,16 +4,20 @@ description: 완료로 표시 - Marketo 문서 - 제품 설명서
 title: 완료로 표시
 exl-id: 0abac320-da3b-4ab8-a1ce-28e5e17f4d15
 feature: Mobile Marketing
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 61b5500c6acbe6448a70e28f4b0cafe3c005a02a
 workflow-type: tm+mt
-source-wordcount: '78'
-ht-degree: 0%
+source-wordcount: '146'
+ht-degree: 1%
 
 ---
 
 # 완료로 표시 {#marking-it-done}
 
 이메일 프로그램, 이벤트 또는 분석 카드를 완료로 표시하여 스트림에서 제거합니다. 두 가지 방법이 있습니다.
+
+>[!IMPORTANT]
+>
+>2023년 10월 2일, Adobe은 모든 앱스토어에서 Marketo 모먼트 앱을 제거했습니다. 태블릿/모바일 장치에 이미 앱이 설치되어 있는 경우 당분간 앱을 계속 사용할 수 있습니다. Marketo 인증을 위해 Marketo Engage 인스턴스가 Adobe ID로 마이그레이션되면 더 이상 앱에 액세스할 수 없습니다. [자세히 알아보기](https://nation.marketo.com/t5/product-discussions/marketo-events-app-and-marketo-moments-app-end-of-life/m-p/340712/highlight/true#M193869){target="_blank"}.
 
 1. 작업 메뉴를 탭합니다.
 

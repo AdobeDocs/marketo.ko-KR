@@ -4,9 +4,9 @@ description: 사용자에게 체크인 앱에 대한 액세스 권한 부여 - M
 title: 사용자에게 체크인 앱에 대한 액세스 권한 부여
 exl-id: 898ac49f-a708-4cdf-b341-58582740a45b
 feature: Mobile Marketing
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 61b5500c6acbe6448a70e28f4b0cafe3c005a02a
 workflow-type: tm+mt
-source-wordcount: '202'
+source-wordcount: '270'
 ht-degree: 0%
 
 ---
@@ -14,6 +14,10 @@ ht-degree: 0%
 # 사용자에게 체크인 앱에 대한 액세스 권한 부여 {#grant-users-access-to-the-check-in-app}
 
 Marketo에는 이벤트 체크인 앱에 대한 특수 사용자 역할이 있습니다. 앱을 사용할 수 있는 권한이 있는 새 역할을 만드는 방법은 다음과 같습니다.
+
+>[!IMPORTANT]
+>
+>2023년 10월 2일에 Adobe은 모든 앱스토어에서 Marketo 이벤트 앱을 제거했습니다. 태블릿/모바일 장치에 이미 앱이 설치되어 있는 경우 당분간 앱을 계속 사용할 수 있습니다. Marketo 인증을 위해 Marketo Engage 인스턴스가 Adobe ID로 마이그레이션되면 더 이상 앱에 액세스할 수 없습니다. [자세히 알아보기](https://nation.marketo.com/t5/product-discussions/marketo-events-app-and-marketo-moments-app-end-of-life/m-p/340712/highlight/true#M193869){target="_blank"}.
 
 ## 모바일에 대한 새 사용자 역할 만들기 {#create-a-new-user-role-for-mobile}
 
