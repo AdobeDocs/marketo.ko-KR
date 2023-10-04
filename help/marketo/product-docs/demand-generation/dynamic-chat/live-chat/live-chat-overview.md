@@ -2,11 +2,11 @@
 description: 라이브 채팅 개요 - Marketo 문서 - 제품 설명서
 title: 라이브 채팅 개요
 feature: Dynamic Chat
-exl-id: f6563e73-4b6e-437d-bf8b-ec72a9b8bcb3
-source-git-commit: 38274b4859ae38c018ee73d4f1715fdf6a78e815
+exl-id: 44e8b249-b534-4cec-a612-daa184acd266
+source-git-commit: 870dd6df82c605fffa6681d68867354084988bcd
 workflow-type: tm+mt
-source-wordcount: '322'
-ht-degree: 1%
+source-wordcount: '0'
+ht-degree: 0%
 
 ---
 
@@ -19,6 +19,10 @@ ht-degree: 1%
 라이브 채팅을 시작하려면 라이브 채팅 에이전트를 다음으로 추가해야 합니다. [Adobe Admin Console의 사용자](/help/marketo/product-docs/demand-generation/dynamic-chat/setup-and-configuration/add-or-remove-chat-users.md#add-a-chat-user){target="_blank"} and give them the [Live Chat permission](/help/marketo/product-docs/demand-generation/dynamic-chat/setup-and-configuration/permissions.md){target="_blank"}. 이 작업이 완료되면 다음을 추가할 수 있습니다. [라이브 채팅 카드](#using-the-live-chat-card) 새 대화 상자 또는 기존 대화 상자로 이동합니다.
 
 방문자가 대화 상자를 통해 에이전트와의 채팅을 요청하면 에이전트에는 여러 개의 [알림 옵션](/help/marketo/product-docs/demand-generation/dynamic-chat/live-chat/agent-inbox.md#live-chat-notifications){target="_blank"}. When they click on the notification, they'll be taken to their [Agent Inbox](/help/marketo/product-docs/demand-generation/dynamic-chat/live-chat/agent-inbox.md){target="_blank"} 방문자와 채팅을 시작할 수 있는 곳.
+
+>[!NOTE]
+>
+>라이브 에이전트 아바타는 에이전트의 Adobe 계정 프로필에서 프로필 사진을 사용합니다. 이미지를 업데이트하려면 다음을 수행하십시오 [다음 단계](https://helpx.adobe.com/manage-account/using/edit-adobe-account-personal-profile.html){target="_blank"}.
 
 ## 라이브 채팅 카드 사용 {#using-the-live-chat-card}
 
