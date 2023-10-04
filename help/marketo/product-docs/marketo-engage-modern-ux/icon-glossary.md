@@ -3,9 +3,9 @@ description: 아이콘 용어집 - Marketo 문서 - 제품 설명서
 title: 아이콘 용어집
 exl-id: 443dc653-4ecb-4daa-9a6d-e124a6be0329
 feature: Modern UX
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: b635cecbdca47944dd92127b668a956fdc8c9509
 workflow-type: tm+mt
-source-wordcount: '237'
+source-wordcount: '239'
 ht-degree: 20%
 
 ---
@@ -97,6 +97,11 @@ ht-degree: 20%
    <td><img src="assets/classic-archive-folder.png"></td> 
    <td><img src="assets/folder-archive.png"></td> 
    <td>폴더 - 보관됨</td> 
+  </tr>
+  <tr>
+   <td><img src="assets/classic-folder-shared.png"></td> 
+   <td><img src="assets/folder-shared.png"></td> 
+   <td>폴더 - 공유</td> 
   </tr>
   <tr>
    <td><img src="assets/classic-locked-folder.jpg"></td> 
@@ -248,7 +253,7 @@ ht-degree: 20%
   <tr>
    <td><img src="assets/classic-invalid.png"></td> 
    <td><img src="assets/invalid.png"></td> 
-   <td>잘못됨</td> 
+   <td>유효하지 않음</td> 
   </tr>
   <tr>
    <td><img src="assets/classic-smart-campaign-never-run.png"></td> 
@@ -305,7 +310,7 @@ ht-degree: 20%
   <tr>
    <td><img src="assets/classic-invalid.png"></td> 
    <td><img src="assets/invalid.png"></td> 
-   <td>잘못됨</td> 
+   <td>유효하지 않음</td> 
   </tr>
  </tbody>
 </table>
