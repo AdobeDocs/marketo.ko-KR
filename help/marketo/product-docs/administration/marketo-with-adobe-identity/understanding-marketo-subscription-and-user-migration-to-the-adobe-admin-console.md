@@ -3,9 +3,9 @@ description: Marketo 구독 및 Adobe Admin Console으로의 사용자 마이그
 title: Marketo 구독 및 Adobe Admin Console으로의 사용자 마이그레이션 이해
 exl-id: 91e7b56b-2563-4986-a55c-f9760ea88b05
 feature: Marketo with Adobe Identity
-source-git-commit: c3214b440a1bfc9d54551f50e364935d66286764
+source-git-commit: c871be92ce61c37e9a8d198c1b3bae6588f6a94f
 workflow-type: tm+mt
-source-wordcount: '1121'
+source-wordcount: '1172'
 ht-degree: 0%
 
 ---
@@ -14,7 +14,7 @@ ht-degree: 0%
 
 Adobe은 Adobe Marketo Engage 구독 및 사용자를 관리하는 방법을 향상시켜 귀사와 조직에 향상된 생산성을 제공합니다. 이 변경의 일부로 Adobe은 Marketo Engage 구독과 사용자를 Adobe Admin Console으로 마이그레이션하고 있습니다. 이는 필요한 마이그레이션이며 마케팅 워크플로우, 콘텐츠, 통합 또는 자산에는 영향을 주지 않습니다.
 
-Adobe Admin Console을 사용하여 를 통해 전체 조직에서 Adobe 권한을 관리하는 방법을 알아봅니다. [Enterprise 및 Teams 관리 안내서](https://helpx.adobe.com/enterprise/admin-guide.html){target="_blank"}.
+Adobe Admin Console을 사용하여 를 통해 전체 조직에서 Adobe 권한을 관리하는 방법을 알아봅니다. [Enterprise 및 Teams 관리 안내서](https://helpx.adobe.com/kr/enterprise/admin-guide.html){target="_blank"}.
 
 ## 변경 사항 {#what-is-changing}
 
@@ -67,13 +67,17 @@ Marketo 제품 관리자는 다음 작업을 수행합니다.
 
 Marketo 제품 관리자는 모든 사용자가 마이그레이션할 날을 준비해야 합니다.
 
-* Marketo 관리 영역에서 모든 사용자에 대한 이메일 확인 상태를 확인합니다. 이메일 주소를 확인하지 않은 사용자에게 이메일 주소를 확인하도록 권장하고 사용자가 확인 프로세스를 완료하는 데 발생하는 모든 문제를 해결하도록 지원합니다.
+* 확인 [전자 메일 확인](/help/marketo/product-docs/administration/users-and-roles/email-verification.md){target="_blank"} Marketo 관리 영역의 모든 사용자에 대한 상태입니다. 이메일 주소를 확인하지 않은 사용자에게 이메일 주소를 확인하도록 권장하고 사용자가 확인 프로세스를 완료하는 데 발생하는 모든 문제를 해결하도록 지원합니다.
 
 * Adobe ID로의 향후 마이그레이션에 대해 모든 사용자를 준비합니다.
 
 >[!NOTE]
 >
 >사용자가 마이그레이션되면 Adobe에서 Marketo에 로그인하는 방식의 변경 사항을 알리는 이메일을 받게 됩니다. 기존 Adobe ID으로 로그인하거나 동일한 이메일 주소를 사용하여 새 사용자를 설정하여 Adobe ID를 사용하여 로그인하라는 초대를 처음으로 수락하도록 사용자를 초대합니다.
+
+>[!IMPORTANT]
+>
+>Marketo Engage 사용자가 이메일 주소를 확인하지 않는 경우, 이메일 주소는 Adobe ID으로 마이그레이션되지 않고 구독에 대한 마이그레이션이 완료된 후 Marketo 구독에 대한 액세스 권한을 잃게 됩니다. 액세스 권한을 다시 얻으려면 Marketo 제품 관리자가 새 사용자로 추가해야 합니다.
 
 ### 마이그레이션 당일 기대 사항 {#what-to-expect-on-migration-day}
 
@@ -89,7 +93,7 @@ Marketo 제품 관리자는 모든 사용자가 마이그레이션할 날을 준
 >
 >사용자 마이그레이션 중에도 제품에 대한 액세스 손실이 발생하지 않습니다. 사용자를 마이그레이션하는 동안 사용자가 로그인하면 사용자가 로그아웃되고 마이그레이션이 완료된 후 Adobe ID를 사용하여 몇 분 안에 다시 로그인하라는 메시지가 표시됩니다.
 
-Adobe이 마이그레이션되면 사용자는 Marketo에 로그인하는 방식으로 변경되었음을 알리는 이메일을 사용자로부터 받게 됩니다. 기존 Adobe ID으로 로그인하거나 동일한 이메일 주소를 사용하여 새 Adobe ID을 설정하여 Adobe ID를 사용하여 로그인하라는 초대를 처음으로 수락하도록 사용자를 초대합니다. 자세한 내용은 [Adobe으로 로그인](/help/marketo/product-docs/administration/marketo-with-adobe-identity/user-sign-in-with-adobe-id.md) 기사.
+Adobe이 마이그레이션되면 사용자는 Marketo에 로그인하는 방식으로 변경되었음을 알리는 이메일을 사용자로부터 받게 됩니다. 기존 Adobe ID으로 로그인하거나 동일한 이메일 주소를 사용하여 새 Adobe ID을 설정하여 Adobe ID를 사용하여 로그인하라는 초대를 처음으로 수락하도록 사용자를 초대합니다. 자세한 내용은 [Adobe으로 로그인](/help/marketo/product-docs/administration/marketo-with-adobe-identity/user-sign-in-with-adobe-id.md){target="_blank"} 기사.
 
 ## 사용자 마이그레이션 완료 {#user-migration-complete}
 
