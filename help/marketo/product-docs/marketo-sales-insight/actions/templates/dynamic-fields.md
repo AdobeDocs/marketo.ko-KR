@@ -3,9 +3,9 @@ description: 동적 필드 - Marketo 문서 - 제품 설명서
 title: 동적 필드
 exl-id: d9e52eae-d5bb-462f-8b7b-c28a560f6ea4
 feature: Sales Insight Actions
-source-git-commit: 02b2e39580c5eac63de4b4b7fdaf2a835fdd4ba5
+source-git-commit: 7c8703059d7d28afbf57f4f285ac972fb9d8fbef
 workflow-type: tm+mt
-source-wordcount: '487'
+source-wordcount: '519'
 ht-degree: 0%
 
 ---
@@ -54,14 +54,16 @@ Sales Insight Actions에서 템플릿을 생성할 때는 항상 다음을 사�
 
 | 동적 필드 | 이메일에 표시되는 항목 예 |
 |---|---|
-| `{{company}}` | Marketo |
-| `{{company_friendly}}` | Marketo |
+| `{{company}}` | Adobe |
+| `{{company_friendly}}` | Adobe |
 | `{{first_name}}` | 키스 |
-| `{{friendly_unsubscribe}}` | 다시 소식을 듣고 싶지 않으시면 여기 좀 알려주세요 |
-| `{{my_name}}` | 앨런 브래들리 |
+| `{{team_unsubscribe}}` | 더 이상 이메일을 수신하지 않으려면 여기를 클릭하십시오. |
+| `{{friendly_unsubscribe}}` | 모든 이메일에 지쳤나요? 여기 좀 알려주세요 |
+| `{{my_name}}` | 키스 플린 |
+| `{{my_signature}}` | 수석 기술 작가 Keith Flynn - Adobe |
 | `{{personal_email}}` | keith@pickyouremail.com |
 | `{{title}}` | 수석 기술 저자 |
-| `{{work_website}}` | https://www.marketo.com |
+| `{{work_website}}` | https://www.adobe.com |
 
 **유의할 사항**:
 
@@ -69,6 +71,7 @@ Sales Insight Actions에서 템플릿을 생성할 때는 항상 다음을 사�
 * 차이점 `{{company}}` 및 `{{company_friendly}}` 다음과 같음 `{{company_friendly}}` 은(는) 귀하의 연락처 회사의 이름에서 Inc., LLC 등과 같은 공식적인 제목을 제거합니다.
 * 사용 시 `{{company_friendly}}`연락처 세부 정보에서 쉼표로 Inc. 또는 Co.를 구분해야 합니다. 이는 Sales Insight Actions 이 값을 가져올 때 제거할 항목을 아는 방법입니다.
 * 다음과 같이 사전 정의된 속성을 사용하여 이메일 템플릿을 개인화할 수 있습니다. `{{my_name}}` 또는 `{{my_title}}`. 이러한 필드를 사용하면 전자 메일 템플릿에서 자신을 빠르게 참조할 수 있습니다.
+* 를 사용하는 경우 `{{my_signature}}` 동적 필드에서는 중복 방지를 위해 사용자 서명이 자동으로 추가되지 않습니다.
 
 >[!TIP]
 >

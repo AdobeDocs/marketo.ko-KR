@@ -1,10 +1,8 @@
 ---
 description: 트랜잭션 판매 이메일 템플릿 - Marketo 문서 - 제품 설명서
 title: 트랜잭션 판매 이메일 템플릿
-hide: true
-hidefromtoc: true
 feature: Marketo Sales Connect
-source-git-commit: ee0f005bb00a7233725d788c318630af90616174
+source-git-commit: 7c8703059d7d28afbf57f4f285ac972fb9d8fbef
 workflow-type: tm+mt
 source-wordcount: '161'
 ht-degree: 0%
