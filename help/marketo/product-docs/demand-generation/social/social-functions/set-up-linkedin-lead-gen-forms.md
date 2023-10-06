@@ -4,9 +4,9 @@ description: linkedIn 리드 세대 Forms 설정 - Marketo 문서 - 제품 설�
 title: linkedIn Lead Gen Forms 설정
 exl-id: 554a546c-adeb-4132-830d-ff15ba5cf9a1
 feature: Social
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: e1254c8156557b27d066a4482076becbd03fc774
 workflow-type: tm+mt
-source-wordcount: '433'
+source-wordcount: '471'
 ht-degree: 0%
 
 ---
@@ -18,6 +18,10 @@ linkedIn 리드 세대 Forms을 사용하여 LinkedIn에서 광고 캠페인을 
 >[!NOTE]
 >
 >**관리자 권한 필요**
+
+>[!NOTE]
+>
+>linkedIn 리드가 회사 API를 사용하여 만든 회사 레코드와 연결된 Marketo의 기존 개인 레코드와 일치하고 Marketo 구독이 CRM에 연결되어 있지 않으면 Marketo Engage이 되지 않습니다.
 
 1. Marketo으로 이동 **관리자**.
 
@@ -47,7 +51,7 @@ linkedIn 리드 세대 Forms을 사용하여 LinkedIn에서 광고 캠페인을 
 
    ![](assets/linkedin-marketo-allow.png)
 
-1. 이제 권한이 부여되었음을 알 수 있습니다. 클릭 **다음**.
+1. 이제 권한이 부여되었음을 알 수 있습니다. **다음**&#x200B;을 클릭합니다.
 
    ![](assets/image2017-9-28-7-3a55-3a14.png)
 
