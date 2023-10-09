@@ -3,9 +3,9 @@ description: Dynamic Chat 개요 - Marketo 문서 - 제품 설명서
 title: Dynamic Chat 개요
 feature: Dynamic Chat
 exl-id: 73ab651e-bb11-459d-aa6a-39d9e208d512
-source-git-commit: 38274b4859ae38c018ee73d4f1715fdf6a78e815
+source-git-commit: c4a02e1c365da6c56c94b119650e2c366cdc6641
 workflow-type: tm+mt
-source-wordcount: '696'
+source-wordcount: '571'
 ht-degree: 1%
 
 ---
@@ -113,22 +113,4 @@ Dynamic Chat 언어를 변경하려면 다음 단계를 따르십시오.
 
 ## FAQ {#faq}
 
-**회사 웹 사이트의 어디에나 Dynamic Chat을 설치할 수 있습니까, 아니면 Marketo 랜딩 페이지에서만 작동합니까?**
-
-Dynamic Chat JavaScript 코드 조각은 Marketo 랜딩 페이지뿐만 아니라 모든 웹 사이트에 설치할 수 있습니다.
-
-**보고를 위해 데이터가 저장되는 기간은 얼마입니까?**
-
-90일. 제한/매개 변수의 전체 목록을 보려면 Marketo Engage을 방문하십시오. [제품 설명 페이지](https://helpx.adobe.com/legal/product-descriptions/adobe-marketo-engage---product-description.html){target="_blank"}.
-
-**Dynamic Chat은 영어 외에 다른 언어를 지원합니까?**
-
-네. Dynamic Chat은 프랑스어, 독일어, 일본어, 스페인어, 이탈리아어, 포르투갈어(브라질), 한국어, 중국어 간체 및 중국어 번체를 지원합니다. 다음에서 자세히 알아보기 [언어 변경](#changing-the-language).
-
-**AI/NLP 기능을 지원합니까?**
-
-당사는 AI/NLP 기능을 지원하지 않습니다.
-
-**익명의 사용자를 타깃팅하려면 어떻게 해야 합니까?**
-
-대화 상자에서 _개인 이메일이 비어 있음_ 특성.
+다음을 참조하십시오. [DYNAMIC CHAT FAQ](/help/marketo/product-docs/demand-generation/dynamic-chat/faq.md){target="_blank"}.
