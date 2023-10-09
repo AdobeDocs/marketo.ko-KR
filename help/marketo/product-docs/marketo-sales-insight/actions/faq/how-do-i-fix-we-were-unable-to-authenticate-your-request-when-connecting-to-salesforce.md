@@ -3,9 +3,9 @@ description: Salesforce - Marketo 문서 - 제품 설명서에 연결할 때 "�
 title: Salesforce에 연결할 때 "요청을 인증할 수 없습니다."를 해결하려면 어떻게 합니까?
 exl-id: ef876f0f-bd76-4ba5-bf48-885ee048ceae
 feature: Sales Insight Actions
-source-git-commit: b09bff5fe72e5cce86ab4664e264edb181fa3e5c
+source-git-commit: e6d939eca9731dc9df8ea506090a049e8741fa07
 workflow-type: tm+mt
-source-wordcount: '354'
+source-wordcount: '350'
 ht-degree: 0%
 
 ---
@@ -31,7 +31,7 @@ URL을 확인하여 어떤 유형을 가져오는지 식별할 수 있습니다.
 
 연결하려는 인스턴스가 Salesforce Sandbox 도메인이고 오류가 발생하는 경우 추가 단계를 거쳐 인스턴스를 업데이트하여 Salesforce Sandbox와 호환되도록 해야 합니다. [자세히 알아보기](/help/marketo/product-docs/marketo-sales-insight/actions/crm/salesforce-integration/set-up-a-sales-insight-actions-sandbox.md){target="_blank"}.
 
-## 차단된 Oauth 앱 및 기타 오류 유형 해결 {#resolve-oauth-app-blocked-and-other-error-types}
+## Oauth 앱 차단 확인 {#resolve-oauth-app-blocked}
 
 Oauth 앱 차단 오류 유형 또는 URL에 다른 유형이 있는 &quot;요청을 인증할 수 없습니다.&quot;라는 오류 메시지가 표시되는 경우 Salesforce의 API에 대한 액세스가 제한될 수 있습니다. Salesforce 관리자에게 문의하여 다음 항목이 올바른지 확인하십시오.
 
