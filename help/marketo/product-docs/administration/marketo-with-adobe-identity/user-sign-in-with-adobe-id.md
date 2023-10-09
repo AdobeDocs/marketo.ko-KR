@@ -3,18 +3,18 @@ description: Adobe ID으로 사용자 로그인 - Marketo 문서 - 제품 설명
 title: Adobe ID으로 사용자 로그인
 exl-id: d17f4de3-491c-45a7-b4b8-f68b9bd35124
 feature: Marketo with Adobe Identity
-source-git-commit: 02b2e39580c5eac63de4b4b7fdaf2a835fdd4ba5
+source-git-commit: d1ea45826d9ddf55a67d615b757b6deb9b5c6fc2
 workflow-type: tm+mt
-source-wordcount: '99'
+source-wordcount: '95'
 ht-degree: 0%
 
 ---
 
 # Adobe ID으로 사용자 로그인 {#user-sign-in-with-adobe-id}
 
-Adobe ID를 가진 사용자가 Marketo Engage 애플리케이션에 로그인해야 하는 경우 Marketo 로그인 페이지의 일반적인 로그인과 비교하여 Adobe ID 로그인 링크를 통해 로그인해야 합니다. 링크를 클릭하면 Marketo Engage 애플리케이션으로 이동합니다.
+Adobe ID를 가진 사용자가 Marketo Engage 애플리케이션에 로그인해야 하는 경우 Marketo Engage 로그인 페이지의 일반적인 로그인과 비교하여 AdobeID 로그인 링크를 통해 로그인해야 합니다. 링크를 클릭하면 Marketo Engage 애플리케이션으로 이동합니다.
 
-1. 다음을 클릭합니다. **[!UICONTROL Adobe ID으로 로그인]** Marketo 로그인 페이지에 있는 링크입니다.
+1. 클릭 **[!UICONTROL AdobeID로 계속]** Marketo Engage 로그인 페이지에서 확인할 수 있습니다.
 
    ![](assets/user-sign-in-with-adobe-id-1.png)
 
