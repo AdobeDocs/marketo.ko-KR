@@ -3,7 +3,7 @@ description: Salesforce - Marketo 문서 - 제품 설명서에 연결할 때 "�
 title: Salesforce에 연결할 때 "요청을 인증할 수 없습니다."를 해결하려면 어떻게 합니까?
 exl-id: ef876f0f-bd76-4ba5-bf48-885ee048ceae
 feature: Sales Insight Actions
-source-git-commit: e6d939eca9731dc9df8ea506090a049e8741fa07
+source-git-commit: 0899b8cf9c97953d7212e79164d26d2f42dfeb23
 workflow-type: tm+mt
 source-wordcount: '350'
 ht-degree: 0%
@@ -33,7 +33,7 @@ URL을 확인하여 어떤 유형을 가져오는지 식별할 수 있습니다.
 
 ## Oauth 앱 차단 확인 {#resolve-oauth-app-blocked}
 
-Oauth 앱 차단 오류 유형 또는 URL에 다른 유형이 있는 &quot;요청을 인증할 수 없습니다.&quot;라는 오류 메시지가 표시되는 경우 Salesforce의 API에 대한 액세스가 제한될 수 있습니다. Salesforce 관리자에게 문의하여 다음 항목이 올바른지 확인하십시오.
+URL에 Oauth 앱 차단 오류 유형(또는 다른 유형)이 있는 오류 메시지 &quot;요청을 인증할 수 없습니다&quot;가 표시되면 Salesforce의 API에 액세스하는 데 제한이 있을 수 있습니다. Salesforce 관리자에게 문의하여 아래 내용이 올바른지 확인하십시오.
 
 ### 사용자 권한에서 API 활성화 {#enable-api-in-user-permissions}
 
