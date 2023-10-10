@@ -4,9 +4,9 @@ description: '"캠페인이 요청됨"을 사용하여 판매용 스마트 캠�
 title: '"캠페인이 요청됨"을 사용하여 판매용 스마트 캠페인 트리거 설정'
 exl-id: ed6d7c27-d54b-48e3-af67-19503da4ef56
 feature: Smart Campaigns
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 3916413a90e52a3423a8d7f78ad1c9eb45c2a219
 workflow-type: tm+mt
-source-wordcount: '288'
+source-wordcount: '290'
 ht-degree: 0%
 
 ---
@@ -26,11 +26,11 @@ Marketo의 가장 멋진 기능 중 하나는 영업 사원이 마케팅 활동�
 
 1. 만들기 **스마트 캠페인.**
 
-   ![](assets/image2015-5-20-16-3a3-3a25.png)
+   ![](assets/setting-up-a-trigger-smart-campaign-for-sales-1.png)
 
-1. 찾기 및 끌기 **캠페인이 요청됨** 캔버스로
+1. 을(를) 찾아 드래그합니다. **캠페인이 요청됨** 캔버스를 트리거합니다.
 
-   ![](assets/campaignfilterdrag.png)
+   ![](assets/setting-up-a-trigger-smart-campaign-for-sales-2.png)
 
 1. 소스 선택 사항은 어떤 종류의 요청을 수행할 것인지 나타냅니다. Salesforce 기능의 경우 다음을 선택하십시오. **판매** **인사이트**.
 
@@ -40,7 +40,7 @@ Marketo의 가장 멋진 기능 중 하나는 영업 사원이 마케팅 활동�
    >
    >**기억**&#x200B;에 대해 Sales Insight 를 선택하면 Sales 상자에 마법처럼 표시됩니다. 너무 무리하지 마세요. 너무 많으면 무시당하기 마련이다.
 
-   ![](assets/image2015-5-20-17-3a56-3a56.png)
+   ![](assets/setting-up-a-trigger-smart-campaign-for-sales-3.png)
 
 마케팅 범위를 다른 부서로 확장하는 좋은 방법입니다. 자동화할 모든 종류의 캠페인을 설정합니다.
 
