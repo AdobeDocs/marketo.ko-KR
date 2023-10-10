@@ -4,9 +4,9 @@ description: 구독 로그인에 범용 ID 사용 - Marketo 문서 - 제품 설�
 title: 구독 로그인에 범용 ID 사용
 exl-id: 75cf1323-0468-49e9-83ca-e55aa30744ac
 feature: Administration
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: b633a81cce39c89d63c2445fa197dbd6d7e6c57c
 workflow-type: tm+mt
-source-wordcount: '586'
+source-wordcount: '580'
 ht-degree: 0%
 
 ---
@@ -21,7 +21,7 @@ ht-degree: 0%
 
 ## 범용 ID 설정 {#setting-up-a-universal-id}
 
-모든 Marketo 구독에는 선택 사항인 범용 ID 기능이 제공됩니다. Marketo 관리자는 각 개별 인스턴스에서 동일한 로그인으로 서로 다른 각 구독에 여러분을 초대해야 합니다. Marketo에서는 기존 로그인을 자동으로 병합할 수 없습니다.
+모든 Marketo 구독에는 선택 사항인 범용 ID 기능이 제공됩니다. Marketo 관리자는 각 개별 인스턴스에서 동일한 로그인으로 서로 다른 각 구독에 여러분을 초대해야 합니다. Marketo에서 기존 로그인을 자동으로 병합할 수 없습니다.
 
 >[!NOTE]
 >
@@ -61,10 +61,10 @@ ht-degree: 0%
 
 ## 모바일 플랫폼 {#mobile-platform}
 
-Universal ID가 있는 사용자는 마지막으로 로그인한 구독에서 Marketo Moments 및 iPad 이벤트 체크인 애플리케이션에서 데이터를 볼 수 있습니다. 모바일 플랫폼 자체에서는 구독을 변경할 수 없습니다.
+Universal ID를 가진 사용자는에서 해당 데이터를 볼 수 있습니다. [Marketo 모먼츠](/help/marketo/product-docs/core-marketo-concepts/mobile-apps/marketo-moments/understanding-moments/understanding-marketo-moments.md){target="_blank"} and the [event check-in application](/help/marketo/product-docs/core-marketo-concepts/mobile-apps/event-check-in/event-check-in-overview.md){target="_blank"} 마지막으로 로그인한 구독에서. 모바일 플랫폼 자체에서는 구독을 변경할 수 없습니다.
 
 >[!MORELIKETHIS]
 >
->* [포털에 SSO(Single Sign-On) 추가](/help/marketo/product-docs/administration/additional-integrations/add-single-sign-on-to-a-portal.md)
->* [SSO로만 사용자 로그인 제한](/help/marketo/product-docs/administration/additional-integrations/restrict-user-login-to-sso-only.md)
->* [Marketo 사용자를 범용 ID를 사용하는 두 개의 인스턴스에 초대](https://nation.marketo.com/t5/Knowledgebase/Inviting-Marketo-Users-to-Two-Instances-with-Universal-ID-UID/ta-p/251122)
+>* [포털에 SSO(Single Sign-On) 추가](/help/marketo/product-docs/administration/additional-integrations/add-single-sign-on-to-a-portal.md){target="_blank"}
+>* [SSO로만 사용자 로그인 제한](/help/marketo/product-docs/administration/additional-integrations/restrict-user-login-to-sso-only.md){target="_blank"}
+>* [Marketo 사용자를 범용 ID를 사용하는 두 개의 인스턴스에 초대](https://nation.marketo.com/t5/Knowledgebase/Inviting-Marketo-Users-to-Two-Instances-with-Universal-ID-UID/ta-p/251122){target="_blank"}
