@@ -3,9 +3,9 @@ description: Dynamic Chat 통합 - Marketo 문서 - 제품 설명서
 title: Dynamic Chat 통합
 exl-id: b2e3b4da-9ca7-4299-9c50-f52e0de91e36
 feature: Marketo Sales Insights
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 6e81a8891f7d6e5916549d453a694b42e08cd496
 workflow-type: tm+mt
-source-wordcount: '388'
+source-wordcount: '396'
 ht-degree: 5%
 
 ---
@@ -16,9 +16,11 @@ Sales Insight와의 Dynamic Chat 통합에 대해 자세히 알아보십시오.
 
 >[!PREREQUISITES]
 >
->* Sales Insight SFDC 패키지 버전은 이어야 합니다. [1.9 이상](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/upgrading/upgrading-your-msi-package.md){target="_blank"}
+>* Sales Insight SFDC 패키지 버전은 이어야 합니다. [2.4.0 이상](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/upgrading/upgrading-your-msi-package.md){target="_blank"}
 >
 >* 다음을 보유해야 합니다. [Dynamic Chat 통합](/help/marketo/product-docs/demand-generation/dynamic-chat/dynamic-chat-overview.md){target="_blank"} 설정
+>
+>* Sales Insight에서 [운영 설정](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/configuration/marketo-sales-insight-configuration-tab-in-salesforce.md#operational-settings){target="_blank"}, you have the "API Secret Key" field populated. If you don't, learn how to retrieve it [here](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/configuration/configure-marketo-sales-insight-in-salesforce-enterprise-unlimited.md#configure-sales-insight-in-marketo){target="_blank"}.
 
 ## Marketo Sales Insight 구성 탭 {#marketo-sales-insight-configuration-tab}
 
