@@ -3,7 +3,7 @@ description: 대화형 웨비나 만들기 - Marketo 문서 - 제품 설명서
 title: 대화형 웨비나 만들기
 exl-id: 91fdede6-2e5a-4895-9893-852d0441aa2a
 feature: Interactive Webinars
-source-git-commit: aead0cbadac353df1364ccc094dabfcbafcdac05
+source-git-commit: f085eb0169b7eabc7e4290f56a8805fc9048f761
 workflow-type: tm+mt
 source-wordcount: '156'
 ht-degree: 0%
@@ -53,5 +53,7 @@ ht-degree: 0%
 대화형 웨비나가 만들어집니다. 발표자 및/또는 공동 호스트를 추가할 수 있습니다.
 
 ![](assets/create-an-interactive-webinar-8.png)
+
+<br>
 
 자, 이제 [웨비나 디자인](/help/marketo/product-docs/demand-generation/events/interactive-webinars/designing-interactive-webinars.md){target="_blank"}.
