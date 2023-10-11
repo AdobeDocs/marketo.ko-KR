@@ -2,10 +2,10 @@
 description: 스트림 디자이너 - Marketo 문서 - 제품 설명서
 title: 스트림 디자이너
 feature: Dynamic Chat
-exl-id: 5afc7abd-a57b-467a-9356-5332964f997c
-source-git-commit: 38274b4859ae38c018ee73d4f1715fdf6a78e815
+exl-id: 310b1dff-dd93-48a6-85c2-64c58494ce48
+source-git-commit: 40daf5e09aaf66502b1e7e8754b9a374ff0a9fa9
 workflow-type: tm+mt
-source-wordcount: '1101'
+source-wordcount: '1107'
 ht-degree: 2%
 
 ---
@@ -50,7 +50,7 @@ ht-degree: 2%
  </tr>
  <tr>
   <td><strong>액션</strong></td>
-  <td>양식의 숨겨진 필드와 마찬가지로 작업 카드를 사용하여 리드 또는 회사 속성을 리드 레코드에 대해 캡처할 암시적 값으로 채울 수 있습니다. 대화의 어느 시점에서든 작업 카드를 추가하고 각 속성을 값 또는 해당 값을 자동으로 채우는 기본 토큰으로 업데이트할 수 있습니다.</td>
+  <td>양식의 숨겨진 필드와 유사하며 작업 카드로 잠재 고객 또는 회사 속성(이 있는 경우 <a href="/help/marketo/product-docs/administration/field-management/custom-field-type-glossary.md#string">문자열 데이터 형식</a>잠재 고객 레코드와 비교하여 캡처할 암시적 값이 있는 대화의 어느 시점에서든 작업 카드를 추가하고 각 속성을 값 또는 해당 값을 자동으로 채우는 기본 토큰으로 업데이트할 수 있습니다.</td>
  </tr>
  <tr>
   <td><strong>라이브 채팅</strong></td>
