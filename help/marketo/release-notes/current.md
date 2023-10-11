@@ -3,9 +3,9 @@ description: 현재 릴리스 정보 - Marketo 설명서 - 제품 설명서
 title: 최신 릴리스 정보
 exl-id: a2eccad5-73ad-48f9-8091-51cee23824e1
 feature: Release Information
-source-git-commit: 215f32a43715b0e2d3794890e245675265748f09
+source-git-commit: aead0cbadac353df1364ccc094dabfcbafcdac05
 workflow-type: tm+mt
-source-wordcount: '337'
+source-wordcount: '340'
 ht-degree: 2%
 
 ---
@@ -53,8 +53,9 @@ ht-degree: 2%
   </tr>
    <tr> 
    <td><strong>대화형 웨비나에서 녹화 다운로드 및 공동 호스트 할당</strong>: 이제 원래 호스트를 사용할 수 없는 경우 웨비나에 대한 외부 공동 호스트를 추가할 수 있습니다. 이제 웨비나 녹화를 다운로드할 수도 있습니다.</td> 
-   <td><i>곧 출시 예정</i></td>
-   <td><i>곧 출시 예정</i></td>
+   <td>배송됨</td>
+   <td><li><a href="/help/marketo/product-docs/demand-generation/events/interactive-webinars/event-workflows.md#webinar-recording" target="_blank">레코딩 다운로드</a></li>
+   <li><a href="/help/marketo/product-docs/demand-generation/events/interactive-webinars/create-an-interactive-webinar.md" target="_blank">대화형 웨비나 만들기</a></li></td>
   </tr>
  </tbody> 
 </table>

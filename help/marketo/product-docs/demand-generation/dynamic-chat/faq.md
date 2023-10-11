@@ -2,9 +2,10 @@
 description: Dynamic Chat FAQ - Marketo 문서 - 제품 설명서
 title: DYNAMIC CHAT FAQ
 feature: Dynamic Chat
-source-git-commit: c4a02e1c365da6c56c94b119650e2c366cdc6641
+exl-id: 7b31afc3-77f4-46fb-9f0e-8cb9d60f3ffb
+source-git-commit: aead0cbadac353df1364ccc094dabfcbafcdac05
 workflow-type: tm+mt
-source-wordcount: '756'
+source-wordcount: '780'
 ht-degree: 0%
 
 ---
@@ -23,7 +24,7 @@ Dynamic Chat JavaScript 코드 조각은 Marketo 랜딩 페이지뿐만 아니�
 
 **Dynamic Chat은 영어 외에 다른 언어를 지원합니까?**
 
-네. Dynamic Chat은 프랑스어, 독일어, 일본어, 스페인어, 이탈리아어, 포르투갈어(브라질), 한국어, 중국어 간체 및 중국어 번체를 지원합니다. 다음에서 자세히 알아보기 [언어 변경](#changing-the-language).
+네. Dynamic Chat은 프랑스어, 독일어, 일본어, 스페인어, 이탈리아어, 포르투갈어(브라질), 한국어, 중국어 간체 및 중국어 번체를 지원합니다. 다음에서 자세히 알아보기 [언어 변경](/help/marketo/product-docs/demand-generation/dynamic-chat/dynamic-chat-overview.md#changing-the-language){target="_blank"}.
 
 **AI/NLP 기능을 지원합니까?**
 
@@ -80,6 +81,10 @@ Dynamic Chat은 Marketo Engage Salesforce 통합을 통해 Salesforce와 통합�
 **대화와 대화 흐름의 차이점은 무엇입니까?**
 
 대화 상자는 정의된 타겟팅 기준 세트를 충족하는 웹 방문자에게 자동으로 표시되는 대화입니다. 대화형 흐름은 버튼 누르기와 같이 웹에서 특정 작업을 수행하는 방문자에게만 표시됩니다.
+
+**이메일에서 직접 미팅을 예약하는 데 Dynamic Chat을 사용할 수 있는 방법이 있나요?**
+
+네! [방법 알아보기](https://nation.marketo.com/t5/product-blogs/using-dynamic-chat-conversational-flows-for-meeting-booking/ba-p/340936){target="_blank"}.
 
 **Marketo Engage 없이 Dynamic Chat을 사용할 수 있습니까?**
 
