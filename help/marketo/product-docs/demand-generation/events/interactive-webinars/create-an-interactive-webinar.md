@@ -3,9 +3,9 @@ description: 대화형 웨비나 만들기 - Marketo 문서 - 제품 설명서
 title: 대화형 웨비나 만들기
 exl-id: 91fdede6-2e5a-4895-9893-852d0441aa2a
 feature: Interactive Webinars
-source-git-commit: f085eb0169b7eabc7e4290f56a8805fc9048f761
+source-git-commit: 9eb715104155f063da049b25b2a28661df65f25f
 workflow-type: tm+mt
-source-wordcount: '156'
+source-wordcount: '184'
 ht-degree: 0%
 
 ---
@@ -53,6 +53,10 @@ ht-degree: 0%
 대화형 웨비나가 만들어집니다. 발표자 및/또는 공동 호스트를 추가할 수 있습니다.
 
 ![](assets/create-an-interactive-webinar-8.png)
+
+>[!NOTE]
+>
+>공동 호스트 및 발표자는 외부 사용자일 수 있으며 Marketo Engage에 액세스할 필요가 없습니다. 웨비나 URL을 제공하기만 하면 됩니다.
 
 <br>
 
