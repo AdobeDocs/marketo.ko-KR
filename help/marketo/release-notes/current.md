@@ -3,9 +3,9 @@ description: 현재 릴리스 정보 - Marketo 설명서 - 제품 설명서
 title: 최신 릴리스 정보
 exl-id: a2eccad5-73ad-48f9-8091-51cee23824e1
 feature: Release Information
-source-git-commit: 60f9c584b0f73b74a1a1db2c0c6b2a030e01412c
+source-git-commit: a69c6955f0390f791d8e45056967e8f0eb4699d7
 workflow-type: tm+mt
-source-wordcount: '340'
+source-wordcount: '347'
 ht-degree: 2%
 
 ---
@@ -42,8 +42,8 @@ ht-degree: 2%
   </tr>
    <tr> 
    <td><strong>계산 공식 플로우 단계 서비스</strong>: Compute Formula는 Marketo Engage 스마트 캠페인과 함께 사용하기 위해 Adobe의 IO Runtime 플랫폼에 구축된 흐름 단계 서비스입니다. IO 런타임이 있는 사용자는 서비스를 배포하고 Marketo Engage 구독에 설치하여 Marketo Engage 스마트 캠페인에서 Excel과 유사한 공식을 계산할 수 있습니다.</td> 
-   <td><i>곧 출시 예정</i></td>
-   <td><i>곧 출시 예정</i></td>
+   <td>배송됨</td>
+   <td><a href="https://nation.marketo.com/t5/product-documents/compute-formula-user-guide/ta-p/340633" target="_blank">계산 공식 사용 안내서</a></td>
   </tr>
   <tr> 
    <td> </td> 
