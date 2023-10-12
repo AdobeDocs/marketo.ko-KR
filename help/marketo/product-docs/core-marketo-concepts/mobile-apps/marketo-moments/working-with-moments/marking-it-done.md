@@ -4,16 +4,16 @@ description: 완료로 표시 - Marketo 문서 - 제품 설명서
 title: 완료로 표시
 exl-id: 0abac320-da3b-4ab8-a1ce-28e5e17f4d15
 feature: Mobile Marketing
-source-git-commit: 61b5500c6acbe6448a70e28f4b0cafe3c005a02a
+source-git-commit: 0abb315be0f9cb5f42fa41d72b446de8c2f62c1e
 workflow-type: tm+mt
-source-wordcount: '146'
+source-wordcount: '143'
 ht-degree: 1%
 
 ---
 
 # 완료로 표시 {#marking-it-done}
 
-이메일 프로그램, 이벤트 또는 분석 카드를 완료로 표시하여 스트림에서 제거합니다. 두 가지 방법이 있습니다.
+이메일 프로그램, 이벤트 또는 분석 카드를 다음으로 표시 [!UICONTROL 완료] 스트림에서 제거합니다. 두 가지 방법이 있습니다.
 
 >[!IMPORTANT]
 >
@@ -23,7 +23,7 @@ ht-degree: 1%
 
    ![](assets/image2015-7-14-17-3a32-3a35.png)
 
-1. 누르기 **완료**.
+1. 누르기 **[!UICONTROL 완료]**.
 
    ![](assets/image2015-7-14-17-3a36-3a31.png)
 
@@ -34,5 +34,3 @@ ht-degree: 1%
    >[!NOTE]
    >
    >카드를 완료로 표시해도 이메일, 이벤트 또는 스마트 캠페인이 삭제되지 않습니다. 모멘트/이후 스트림에서 완료 스트림으로 이동하기만 합니다.
-
-케이크 한 조각!

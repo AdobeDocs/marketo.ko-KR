@@ -4,9 +4,9 @@ description: Analytics 카드 이해 - Marketo 문서 - 제품 설명서
 title: Analytics 카드 이해
 exl-id: fc314ab8-4d29-44f5-bc45-71e6727ecc06
 feature: Mobile Marketing
-source-git-commit: 61b5500c6acbe6448a70e28f4b0cafe3c005a02a
+source-git-commit: 0abb315be0f9cb5f42fa41d72b446de8c2f62c1e
 workflow-type: tm+mt
-source-wordcount: '288'
+source-wordcount: '285'
 ht-degree: 0%
 
 ---
@@ -51,17 +51,15 @@ Analytics 카드를 탭하여 표시:
 
 ## 새 잠재 고객 {#new-leads}
 
-다음 **새 잠재 고객** 카드에는 지난 6개월 동안 인스턴스에 있는 총 새 잠재 고객 수에 대한 월별 트렌드 보고서가 표시됩니다.
+다음 **[!UICONTROL 새 잠재 고객]** 카드에는 지난 6개월 동안 인스턴스에 있는 총 새 잠재 고객 수에 대한 월별 트렌드 보고서가 표시됩니다.
 
 ![](assets/image2015-6-30-14-3a33-3a23.png)
 
 ## 구독 취소 {#unsubscribes}
 
-다음 **구독 취소** 카드는 지난 6개월 동안의 구독 취소율에 대한 월별 트렌드 보고서를 보여 줍니다.
+다음 **[!UICONTROL 구독 취소]** 카드는 지난 6개월 동안의 구독 취소율에 대한 월별 트렌드 보고서를 보여 줍니다.
 
 ![](assets/image2015-6-30-14-3a29-3a3.png)
-
-이제 알겠지
 
 >[!MORELIKETHIS]
 >

@@ -6,7 +6,7 @@ hide: true
 hidefromtoc: true
 exl-id: 06b2c214-1afb-443f-ae01-0c00fed77dce
 feature: Integrations
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0abb315be0f9cb5f42fa41d72b446de8c2f62c1e
 workflow-type: tm+mt
 source-wordcount: '214'
 ht-degree: 0%
@@ -35,7 +35,7 @@ AEM 에셋에 액세스하고, 선택하고, Marketo Engage Design Studio로 가
 
    ![](assets/two.png)
 
-1. 위치 **도구**, 클릭 **작업** 및 선택 **웹 콘솔**.
+1. 위치 **[!UICONTROL 도구]**, 클릭 **[!UICONTROL 작업]** 및 선택 **[!UICONTROL 웹 콘솔]**.
 
    ![](assets/2a.png)
 
@@ -47,34 +47,34 @@ AEM 에셋에 액세스하고, 선택하고, Marketo Engage Design Studio로 가
 
    ![](assets/four.png)
 
-1. 다음에서 **허용된 원본 (Regexp)** 텍스트 상자, 입력 `https://.*\.marketo\.com` 및 클릭 **저장**.
+1. 다음에서 **[!UICONTROL 허용된 원본 (Regexp)]** 텍스트 상자, 입력 `https://.*\.marketo\.com` 및 클릭 **[!UICONTROL 저장]**.
 
    ![](assets/five-psd.png)
 
-1. 페이지 상단의 헤더에서 을 클릭합니다. **웹 콘솔** 및 선택 **시스템 정보**.
+1. 페이지 상단의 헤더에서 을 클릭합니다. **[!UICONTROL 웹 콘솔]** 및 선택 **[!UICONTROL 시스템 정보]**.
 
    ![](assets/six.png)
 
-1. 서버 정보에서 **다시 시작** 단추를 클릭합니다.
+1. 서버 정보에서 **[!UICONTROL 다시 시작]** 단추를 클릭합니다.
 
    ![](assets/seven.png)
 
-1. 클릭 **확인** 확인할 수 있습니다.
+1. 클릭 **[!UICONTROL 확인]** 확인할 수 있습니다.
 
    ![](assets/eight.png)
 
-1. Marketo Engage에서 **관리자**.
+1. Marketo Engage에서 **[!UICONTROL 관리자]**.
 
    ![](assets/nine.png)
 
-1. 통합에서 을 선택합니다. **Adobe Experience Manager**.
+1. 통합에서 을 선택합니다. **[!UICONTROL Adobe Experience Manager]**.
 
    ![](assets/ten.png)
 
-1. 클릭 **편집**.
+1. 클릭 **[!UICONTROL 편집]**.
 
    ![](assets/eleven.png)
 
-1. AEM URL을 입력하고 **확인**.
+1. AEM URL을 입력하고 **[!UICONTROL 확인]**.
 
    ![](assets/twelve.png)

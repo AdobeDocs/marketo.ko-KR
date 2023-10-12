@@ -4,9 +4,9 @@ description: 이벤트 준비 - Marketo 문서 - 제품 설명서
 title: 이벤트 준비
 exl-id: 30754c2e-dad0-4275-b5b3-f31680a62c42
 feature: Mobile Marketing
-source-git-commit: 61b5500c6acbe6448a70e28f4b0cafe3c005a02a
+source-git-commit: 0abb315be0f9cb5f42fa41d72b446de8c2f62c1e
 workflow-type: tm+mt
-source-wordcount: '410'
+source-wordcount: '408'
 ht-degree: 0%
 
 ---
@@ -21,7 +21,7 @@ ht-degree: 0%
 
 ## 새 Marketo 역할 만들기 {#create-a-new-marketo-role}
 
-Marketo에는 이벤트 체크인 앱에 대한 특수 사용자 역할이 있습니다. [새 Marketo 역할 만들기](/help/marketo/product-docs/core-marketo-concepts/mobile-apps/event-check-in/grant-users-access-to-the-check-in-app.md) iPad 또는 Android 사용자의 경우 모바일 애플리케이션에 액세스할 수 있는 권한이 있습니다.
+Marketo에는 이벤트 체크인 앱에 대한 특수 사용자 역할이 있습니다. [새 Marketo 역할 만들기](/help/marketo/product-docs/core-marketo-concepts/mobile-apps/event-check-in/grant-users-access-to-the-check-in-app.md) 대상 [!DNL iPad] 또는 [!DNL Android] 모바일 애플리케이션에 액세스할 수 있는 권한이 있는 사용자
 
 ## 이벤트에 새 태블릿 사용자 초대 {#invite-new-tablet-users-to-the-event}
 
@@ -39,7 +39,7 @@ Marketo에는 이벤트 체크인 앱에 대한 특수 사용자 역할이 있�
 
    ![](assets/image2016-4-6-15-3a27-3a35.png)
 
-1. 변경하려면 뒤로 슬라이드 **잠정적** 끝 **확인됨**.
+1. 변경하려면 뒤로 슬라이드 **[!UICONTROL 잠정적]** 끝 **[!UICONTROL 확인됨]**.
 
    ![](assets/image2016-4-6-15-3a30-3a57.png)
 
@@ -49,29 +49,29 @@ Marketo에는 이벤트 체크인 앱에 대한 특수 사용자 역할이 있�
 
 ## 내 이벤트에 직원 추가 {#add-people-to-your-event}
 
-이제 다음을 알게 되었습니다. *조건*&#x200B;을(를) 추가할 때입니다. *사용자*.
+이제 다음을 알게 되었습니다. _조건_&#x200B;을(를) 추가할 때입니다. *사용자*.
 
-1. 이미 사람 목록이 있는 경우 내 Marketo에서 **데이터베이스** 타일.
+1. 이미 사람 목록이 있는 경우 내 Marketo에서 **[!UICONTROL 데이터베이스]** 타일.
 
    ![](assets/db.png)
 
-1. 사람들과 함께 목록을 선택하고 **사람** 탭.
+1. 사람들과 함께 목록을 선택하고 **[!UICONTROL 사람]** 탭.
 
    ![](assets/four.png)
 
-1. 목록에서 이벤트에 사용할 사람을 선택합니다. 사용 **Ctrl** (또는 **명령** Mac에서) 을 클릭하여 여러 사람을 클릭하거나, **모두 선택** 모두 표시합니다.
+1. 목록에서 이벤트에 사용할 사람을 선택합니다. 사용 **[!UICONTROL Ctrl]** (또는 **[!UICONTROL 명령]** Mac에서) 을 클릭하여 여러 사람을 클릭하거나, **[!UICONTROL 모두 선택]** 모두 표시합니다.
 
    ![](assets/five.png)
 
-1. 클릭 **개인 작업**, 마우스로 가리키기 **프로그램** 및 선택 **프로그램 상태 변경**.
+1. 클릭 **[!UICONTROL 개인 작업]**, 마우스로 가리키기 **[!UICONTROL 프로그램]** 및 선택 **[!UICONTROL 프로그램 상태 변경]**.
 
    ![](assets/six.png)
 
-1. 다음을 클릭합니다. **프로그램** 드롭다운 목록을 보고 이벤트를 선택합니다.
+1. 다음을 클릭합니다. **[!UICONTROL 프로그램]** 드롭다운 목록을 보고 이벤트를 선택합니다.
 
    ![](assets/seven.png)
 
-1. 다음을 클릭합니다. **새 상태** 드롭다운 및 선택 **로드쇼 > 등록됨**. 클릭 **지금 실행**.
+1. 다음을 클릭합니다. **[!UICONTROL 새 상태]** 드롭다운 및 선택 **[!UICONTROL 로드쇼] > [!UICONTROL 등록됨]**. 클릭 **[!UICONTROL 지금 실행]**.
 
    ![](assets/eight.png)
 

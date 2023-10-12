@@ -4,9 +4,9 @@ description: 이메일 미리 보기 - Marketo 문서 - 제품 설명서
 title: 이메일 미리 보기
 exl-id: 10bcedbd-553f-4ba1-b1bd-1aad2890dbd4
 feature: Mobile Marketing
-source-git-commit: 61b5500c6acbe6448a70e28f4b0cafe3c005a02a
+source-git-commit: 0abb315be0f9cb5f42fa41d72b446de8c2f62c1e
 workflow-type: tm+mt
-source-wordcount: '135'
+source-wordcount: '134'
 ht-degree: 1%
 
 ---
@@ -23,7 +23,7 @@ ht-degree: 1%
 
    ![](assets/image2015-9-25-11-3a30-3a52.png)
 
-1. 누르기 **이메일 미리 보기**.
+1. 누르기 **[!UICONTROL 이메일 미리 보기]**.
 
    ![](assets/image2015-7-14-16-3a42-3a21.png)
 
@@ -34,5 +34,3 @@ ht-degree: 1%
    >[!NOTE]
    >
    >이메일 미리 보기 페이지에서 바로 샘플을 보내려면 오른쪽 상단의 종이 비행기 아이콘을 탭합니다.
-
-   훌륭합니다!

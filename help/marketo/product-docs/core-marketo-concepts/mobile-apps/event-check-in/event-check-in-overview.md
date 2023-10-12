@@ -3,9 +3,9 @@ description: 이벤트 체크인 개요
 title: 이벤트 체크인 개요
 exl-id: aae09cd8-5f8f-48c7-9d26-63c8345445d0
 feature: Mobile Marketing
-source-git-commit: b1484ce0921b4e47d45aef6ea56d6e9b340efaea
+source-git-commit: 0abb315be0f9cb5f42fa41d72b446de8c2f62c1e
 workflow-type: tm+mt
-source-wordcount: '293'
+source-wordcount: '280'
 ht-degree: 0%
 
 ---
@@ -16,7 +16,7 @@ ht-degree: 0%
 >
 >2023년 10월 2일에 Adobe은 모든 앱스토어에서 Marketo 이벤트 앱을 제거했습니다. 태블릿/모바일 장치에 이미 앱이 설치되어 있는 경우 당분간 앱을 계속 사용할 수 있습니다. Marketo 인증을 위해 Marketo Engage 인스턴스가 Adobe ID로 마이그레이션되면 더 이상 앱에 액세스할 수 없습니다. [자세히 알아보기](https://nation.marketo.com/t5/product-discussions/marketo-events-app-and-marketo-moments-app-end-of-life/m-p/340712/highlight/true#M193869){target="_blank"}.
 
-iPad 또는 Android 태블릿용 Marketo 이벤트 앱을 사용하면 사람들이 이벤트에 도착할 때 즉시 체크인할 수 있습니다.
+의 Marketo 이벤트 앱 [!DNL iPad] 또는 [!DNL Android] 태블릿은 사용자가 이벤트에 도착하면 즉시 체크인할 수 있도록 해줍니다.
 
 이 문서에서는 전체 프로세스를 간략하게 설명합니다. 제목은 별도의 문서에 연결되어 있으며 일부 Marketo 활동은 이 개요의 링크입니다.
 
@@ -28,26 +28,26 @@ iPad 또는 Android 태블릿용 Marketo 이벤트 앱을 사용하면 사람들
 
 이벤트 전:
 
-* [새 Marketo 역할 만들기](/help/marketo/product-docs/core-marketo-concepts/mobile-apps/event-check-in/grant-users-access-to-the-check-in-app.md){target="_blank"} 이벤트용 iPad 또는 Android 사용자용
+* [새 Marketo 역할 만들기](/help/marketo/product-docs/core-marketo-concepts/mobile-apps/event-check-in/grant-users-access-to-the-check-in-app.md){target="_blank"} 대상 [!DNL iPad] 또는 [!DNL Android] 이벤트 사용자
 * [이벤트에 새 태블릿 사용자 초대](/help/marketo/product-docs/core-marketo-concepts/mobile-apps/event-check-in/grant-users-access-to-the-check-in-app.md){target="_blank"} 새 역할 할당
 * [새 Marketo 이벤트 프로그램 만들기](/help/marketo/product-docs/demand-generation/events/understanding-events/create-a-new-event-program.md){target="_blank"}
 * 이벤트 날짜 지정
 * 내 이벤트에 직원 추가
 
-## iPad 또는 Android 태블릿 설정
+## 설정 [!DNL iPad] 또는 [!DNL Android] 태블릿
 
-iPad 또는 Android 태블릿을 준비하려면 다음을 수행하십시오.
+을(를) 가져오려면 [!DNL iPad] 또는 [!DNL Android] 태블릿 준비:
 
-* Marketo 이벤트 iPad 또는 Android 태블릿 앱 다운로드 및 설치
+* Marketo 이벤트 다운로드 및 설치 [!DNL iPad] 또는 [!DNL Android] 태블릿 앱
 * 로그인 자격 증명 확인
 * 앱을 동기화하여 이벤트 채우기
 * 체크인이 작동하는지 확인
 
-## iPad 또는 태블릿 사용에서 사람 확인
+## 다음을 사용하여 직원 확인 [!DNL iPad] 또는 태블릿
 
 이벤트:
 
 * 앱에 로그인
 * 게스트 찾기(및 새 사람 만들기)
 * [체크인 게스트](/help/marketo/product-docs/core-marketo-concepts/mobile-apps/event-check-in/check-people-into-your-event-from-your-tablet.md){target="_blank"} (체크인 취소, 체크인 시 개인 레코드 편집)
-* iPad 또는 Android 태블릿 앱을 Marketo과 동기화
+* 동기화 [!DNL iPad] 또는 [!DNL Android] Marketo이 포함된 태블릿 앱

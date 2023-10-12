@@ -4,16 +4,16 @@ description: 사용자에게 체크인 앱에 대한 액세스 권한 부여 - M
 title: 사용자에게 체크인 앱에 대한 액세스 권한 부여
 exl-id: 898ac49f-a708-4cdf-b341-58582740a45b
 feature: Mobile Marketing
-source-git-commit: 61b5500c6acbe6448a70e28f4b0cafe3c005a02a
+source-git-commit: 0abb315be0f9cb5f42fa41d72b446de8c2f62c1e
 workflow-type: tm+mt
-source-wordcount: '270'
+source-wordcount: '271'
 ht-degree: 0%
 
 ---
 
 # 사용자에게 체크인 앱에 대한 액세스 권한 부여 {#grant-users-access-to-the-check-in-app}
 
-Marketo에는 이벤트 체크인 앱에 대한 특수 사용자 역할이 있습니다. 앱을 사용할 수 있는 권한이 있는 새 역할을 만드는 방법은 다음과 같습니다.
+Marketo Engage은 이벤트 체크인 앱에 대한 특수 사용자 역할을 갖습니다. 앱을 사용할 수 있는 권한이 있는 새 역할을 만드는 방법은 다음과 같습니다.
 
 >[!IMPORTANT]
 >
@@ -21,19 +21,19 @@ Marketo에는 이벤트 체크인 앱에 대한 특수 사용자 역할이 있�
 
 ## 모바일에 대한 새 사용자 역할 만들기 {#create-a-new-user-role-for-mobile}
 
-1. 클릭 **관리자**.
+1. 클릭 **[!UICONTROL 관리자]**.
 
    ![](assets/image2015-6-2-10-3a39-3a31.png)
 
-1. 클릭 **사용자 및 역할**.
+1. 클릭 **[!UICONTROL 사용자 및 역할]**.
 
    ![](assets/image2015-6-2-10-3a56-3a0.png)
 
-1. 다음을 클릭합니다. **역할** 탭을 클릭한 다음 를 클릭합니다 **새 역할**.
+1. 다음을 클릭합니다. **[!UICONTROL 역할]** 탭을 클릭한 다음 를 클릭합니다 **[!UICONTROL 새 역할]**.
 
    ![](assets/image2015-6-2-11-3a3-3a23.png)
 
-1. 새 역할의 이름과 설명(선택 사항)을 입력합니다. 다음 확인: **모바일 애플리케이션 액세스** 상자 및 클릭 **만들기**.
+1. 새 역할의 이름과 설명(선택 사항)을 입력합니다. 다음 확인: **[!UICONTROL 모바일 애플리케이션 액세스]** 상자 및 클릭 **[!UICONTROL 만들기]**.
 
    ![](assets/image2015-6-2-11-3a4-3a58.png)
 
@@ -41,15 +41,15 @@ Marketo에는 이벤트 체크인 앱에 대한 특수 사용자 역할이 있�
 
 ## 체크인 앱에 새 사용자 초대 {#invite-new-users-for-the-check-in-app}
 
-1. 다음을 클릭합니다. **사용자** 탭.
+1. 다음을 클릭합니다. **[!UICONTROL 사용자]** 탭.
 
    ![](assets/image2015-6-2-11-3a10-3a42.png)
 
-1. 클릭 **새 사용자 초대**.
+1. 클릭 **[!UICONTROL 새 사용자 초대]**.
 
    ![](assets/image2015-6-2-11-3a11-3a32.png)
 
-1. 새 사용자의 정보를 입력합니다. 모든 적절한 역할과 모바일 앱에 액세스할 수 있는 권한이 있는 새 역할에 대한 확인란을 선택합니다. 클릭 **초대** 다 끝나면.
+1. 새 사용자의 정보를 입력합니다. 모든 적절한 역할과 모바일 앱에 액세스할 수 있는 권한이 있는 새 역할에 대한 확인란을 선택합니다. 클릭 **[!UICONTROL 초대]** 다 끝나면.
 
    ![](assets/image2015-6-2-11-3a16-3a26.png)
 
