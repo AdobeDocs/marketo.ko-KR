@@ -4,9 +4,9 @@ description: 스마트 Campaign에 흐름 단계 추가 - Marketo 문서 - 제�
 title: 스마트 캠페인에 플로우 단계 추가
 exl-id: bd842551-b981-4cd9-a742-321b1ceab872
 feature: Smart Campaigns
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 5c146729757bc5f6b503ecde611c25dcdb0ad5b5
 workflow-type: tm+mt
-source-wordcount: '186'
+source-wordcount: '181'
 ht-degree: 0%
 
 ---
@@ -17,23 +17,19 @@ ht-degree: 0%
 
 1. 다음으로 이동 **마케팅 활동**.
 
-   ![](assets/login-marketing-activities.png)
+   ![](assets/add-a-flow-step-to-a-smart-campaign-1.png)
 
 1. 스마트 캠페인을 선택하고 **플로우**.
 
-   ![](assets/image2014-9-19-16-3a27-3a1.png)
+   ![](assets/add-a-flow-step-to-a-smart-campaign-2.png)
 
-   흐름 단계를 검색하려면 을(를) 입력한 다음 캔버스로 드래그 앤 드롭합니다. 여러 흐름 단계를 추가할 수 있습니다. 캠페인이 수행하려는 모든 단계에서 이 단계를 반복합니다.
+1. 흐름 단계를 검색하려면 을(를) 입력한 다음 캔버스로 드래그 앤 드롭합니다. 여러 흐름 단계를 추가할 수 있습니다. 캠페인이 수행하려는 모든 단계에서 이 단계를 반복합니다.
 
-   ![](assets/image2014-9-19-16-3a27-3a7.png)
+   ![](assets/add-a-flow-step-to-a-smart-campaign-3.png)
 
-1. 드롭다운을 클릭하고 적절한 옵션을 선택합니다.
+1. 원하는 옵션 및 값을 클릭합니다.
 
-   ![](assets/four-1.png)
-
-1. 값을 입력합니다.
-
-   ![](assets/changescorevalue-cursor.png)
+   ![](assets/add-a-flow-step-to-a-smart-campaign-4.png)
 
 >[!NOTE]
 >
@@ -43,7 +39,7 @@ ht-degree: 0%
 >
 >잘못된 항목이 있는 경우 빨간색 물결 모양 줄이 나타납니다. 마우스를 라인 위로 가져가면 수정 방법을 확인할 수 있습니다.
 
-멋지다! 다음을 확인합니다. [smart campaign 검토 및 유효성 검사](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/creating-a-smart-campaign/smart-campaign-checklist.md) 예약하거나 활성화하기 전에
+멋지다! 다음을 확인합니다. [스마트 캠페인 검토 및 유효성 검사](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/creating-a-smart-campaign/smart-campaign-checklist.md) 예약하거나 활성화하기 전에
 
 >[!MORELIKETHIS]
 >
