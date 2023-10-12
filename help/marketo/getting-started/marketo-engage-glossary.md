@@ -4,7 +4,7 @@ description: Marketo Engage 용어집 - Marketo 설명서 - 제품 설명서
 title: Marketo Engage 용어집
 exl-id: c387b880-708c-439c-99c3-46eb5ccb4536
 feature: Getting Started
-source-git-commit: f41cb94d96d475e7ea063fb6fbbab3b2363f6346
+source-git-commit: 096936c8bc94bbbfc5213a6b45913b300f547b90
 workflow-type: tm+mt
 source-wordcount: '4176'
 ht-degree: 1%
@@ -132,7 +132,7 @@ ht-degree: 1%
  </colgroup> 
  <tbody> 
   <tr> 
-   <td colspan="1"><strong>캠페인</strong></td> 
+   <td colspan="1"><strong>Campaign</strong></td> 
    <td colspan="1">"캠페인"은 Marketo에서 몇 가지 의미를 가질 수 있습니다. A <a href="/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/understanding-smart-campaigns.md" rel="nofollow">campaign</a> 는 스마트 캠페인에 대한 짧은 용어입니다. 위치 <strong>Marketo Sales Connect</strong>, <a href="/help/marketo/product-docs/marketo-sales-connect/campaigns/create-a-campaign.md" rel="nofollow">캠페인</a> 일련의 다중 채널 대응 단계입니다. 위치 <strong>웹 개인화</strong>, 웹 <a href="/help/marketo/product-docs/web-personalization/working-with-web-campaigns/create-a-new-dialog-web-campaign.md" rel="nofollow">캠페인</a> 특정 세그먼트와 연관된 사용자 지정 반응입니다.</td> 
   </tr> 
   <tr> 
@@ -160,7 +160,7 @@ ht-degree: 1%
    <td>이메일에 링크가 클릭되어 열려 있는 이메일의 백분율입니다. 이 메서드는 고유한 클릭 수를 고유한 열기 수로 나눈 다음 100을 곱하여 백분율로 표시함으로써 이메일의 관련성과 컨텍스트를 측정합니다.</td> 
   </tr> 
   <tr> 
-   <td><strong>클릭 수</strong></td> 
+   <td><strong>클릭수</strong></td> 
    <td>기본적으로 이메일의 링크에는 누가 어떤 링크를 클릭했는지, 총 몇 개의 링크를 클릭했는지 등을 볼 수 있도록 해주는 추적이 포함되어 있습니다.</td> 
   </tr> 
   <tr> 
@@ -172,7 +172,7 @@ ht-degree: 1%
    <td colspan="1">Marketo에서는 인스턴스 내에서 여러 유형의 엔티티를 복제할 수 있습니다. 복제할 수 있습니다 <a href="/help/marketo/product-docs/core-marketo-concepts/programs/working-with-programs/clone-a-program.md" rel="nofollow">프로그램</a>, <a href="/help/marketo/product-docs/core-marketo-concepts/programs/working-with-programs/clone-an-asset-in-a-program.md" rel="nofollow">프로그램 내 자산</a>, a <a href="/help/marketo/product-docs/email-marketing/drip-nurturing/engagement-program-streams/clone-a-stream.md" rel="nofollow">스트림</a>등.</td> 
   </tr> 
   <tr> 
-   <td colspan="1"><a href="/help/marketo/product-docs/administration/settings/customize-your-landing-page-urls-with-a-cname.md" rel="nofollow"><strong>CNAME</strong></a></td> 
+   <td colspan="1"><a href="/help/marketo/product-docs/demand-generation/landing-pages/landing-page-actions/customize-your-landing-page-urls-with-a-cname.md" rel="nofollow"><strong>CNAME</strong></a></td> 
    <td colspan="1">URL의 앞부분입니다. 이 한 단어(더하기 YourCompany.com)는 CNAME(예: <em>정보</em>.YourCompany.com/)을 참조하십시오.</td> 
   </tr> 
   <tr> 
