@@ -4,7 +4,7 @@ description: 프로그램의 내 토큰 이해 - Marketo 문서 - 제품 설명�
 title: 프로그램의 내 토큰 이해
 exl-id: 01b42272-c419-4cd5-ad30-87413ceb2032
 feature: Tokens
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: b21f955bf98063e11f8ed3fdc6f164134ee4f5aa
 workflow-type: tm+mt
 source-wordcount: '416'
 ht-degree: 1%
@@ -15,15 +15,15 @@ ht-degree: 1%
 
 토큰은 이메일, 랜딩 페이지 및 스마트 캠페인에 사용하여 생활을 편리하게 할 수 있는 변수입니다.
 
-내 토큰 외에도 프로그램의 기본 제공 토큰을 사용할 수 있습니다. 다음을 확인하십시오. [토큰 개요](/help/marketo/product-docs/demand-generation/landing-pages/personalizing-landing-pages/tokens-overview.md).
+내 토큰 외에도 프로그램의 기본 제공 토큰을 사용할 수 있습니다. 다음을 확인하십시오. [토큰 개요](/help/marketo/product-docs/demand-generation/landing-pages/personalizing-landing-pages/tokens-overview.md){target="_blank"}.
 
 ## 내 토큰  {#my-tokens}
 
-내 토큰은 누구나 만들 수 있는 사용자 지정 변수입니다. 다음과 같습니다 [생성됨](/help/marketo/product-docs/core-marketo-concepts/programs/tokens/managing-my-tokens.md) campaign 폴더 또는 프로그램에서
+내 토큰은 누구나 만들 수 있는 사용자 지정 변수입니다. 다음과 같습니다 [생성됨](/help/marketo/product-docs/core-marketo-concepts/programs/tokens/managing-my-tokens.md){target="_blank"} campaign 폴더 또는 프로그램에서
 
 내 토큰은 다음과 같이 표시됩니다. `{{my.Name Of Token}}`
 
-예:
+예시:
 
 * `{{my.Event Date}}`
 * `{{my.Webinar Speaker}}`
@@ -93,5 +93,5 @@ ht-degree: 1%
 
 >[!MORELIKETHIS]
 >
->* [토큰 개요](/help/marketo/product-docs/demand-generation/landing-pages/personalizing-landing-pages/tokens-overview.md)
->* [내 토큰 관리](/help/marketo/product-docs/core-marketo-concepts/programs/tokens/managing-my-tokens.md)
+>* [토큰 개요](/help/marketo/product-docs/demand-generation/landing-pages/personalizing-landing-pages/tokens-overview.md){target="_blank"}
+>* [내 토큰 관리](/help/marketo/product-docs/core-marketo-concepts/programs/tokens/managing-my-tokens.md){target="_blank"}

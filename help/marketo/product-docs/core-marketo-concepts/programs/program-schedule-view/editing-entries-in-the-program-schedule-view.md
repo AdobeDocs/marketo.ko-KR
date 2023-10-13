@@ -4,10 +4,10 @@ description: 프로그램 예약 보기의 항목 편집 - Marketo 문서 - 제�
 title: 프로그램 일정 보기에서 항목 편집
 exl-id: f04cfb84-ff96-4f4e-ab0d-d4b0b95a9f9c
 feature: Programs
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: b21f955bf98063e11f8ed3fdc6f164134ee4f5aa
 workflow-type: tm+mt
 source-wordcount: '147'
-ht-degree: 0%
+ht-degree: 1%
 
 ---
 
@@ -21,7 +21,7 @@ ht-degree: 0%
 
    ![](assets/image2014-9-18-18-3a1-3a36.png)
 
-1. 새 이름을 입력하고 키를 누릅니다 **Enter/Return** 키보드에서 변경 내용을 확인합니다.
+1. 새 이름을 입력하고 키를 누릅니다 **[!UICONTROL Enter/Return]** 키보드에서 변경 내용을 확인합니다.
 
    ![](assets/image2014-9-18-18-3a1-3a53.png)
 
@@ -35,7 +35,7 @@ ht-degree: 0%
 
    ![](assets/image2014-9-18-18-3a3-3a7.png)
 
-1. 설명을 편집합니다. 클릭 **저장**.
+1. 설명을 편집합니다. **[!UICONTROL 저장]**&#x200B;을 클릭합니다.
 
    ![](assets/image2014-9-18-18-3a3-3a22.png)
 

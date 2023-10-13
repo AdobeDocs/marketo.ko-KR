@@ -4,7 +4,7 @@ description: 일정 보기 - Marketo 문서 - 제품 설명서에서 전체 프�
 title: 스케줄 뷰에서 전체 프로그램 스케줄 조정
 exl-id: 3debeff2-67ce-4b59-be5b-ce8cc198f4a0
 feature: Programs
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: b21f955bf98063e11f8ed3fdc6f164134ee4f5aa
 workflow-type: tm+mt
 source-wordcount: '125'
 ht-degree: 0%
@@ -19,7 +19,7 @@ ht-degree: 0%
 
    ![](assets/image2014-9-23-15-3a15-3a18.png)
 
-1. 이벤트 작업 드롭다운을 선택합니다. 선택 **항목 스케줄 조정**.
+1. 이벤트 작업 드롭다운을 선택합니다. 선택 **[!UICONTROL 항목 스케줄 조정]**.
 
    ![](assets/image2014-9-23-15-3a15-3a53.png)
 
@@ -31,7 +31,7 @@ ht-degree: 0%
 
    ![](assets/image2014-9-23-15-3a18-3a37.png)
 
-1. 클릭 **일정 조정**.
+1. 클릭 **[!UICONTROL 일정 조정]**.
 
    ![](assets/image2014-9-23-15-3a18-3a54.png)
 

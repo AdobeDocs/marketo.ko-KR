@@ -4,7 +4,7 @@ description: 잠정/확정 일자 이해 - Marketo 문서 - 제품 설명서
 title: 미정/확정 일자 이해
 exl-id: af6b907f-e4d8-432f-b1da-dd7c04376ba8
 feature: Programs
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: b21f955bf98063e11f8ed3fdc6f164134ee4f5aa
 workflow-type: tm+mt
 source-wordcount: '210'
 ht-degree: 0%
@@ -13,7 +13,7 @@ ht-degree: 0%
 
 # 미정/확정 일자 이해 {#understanding-tentative-confirmed-dates}
 
-스마트 캠페인 및 이메일 프로그램에는 다음과 같이 표시할 수 있는 강력한 기능이 있습니다. **잠정적** 또는 **확인됨**. 작동 방식은 다음과 같습니다.
+스마트 캠페인 및 이메일 프로그램에는 다음과 같이 표시할 수 있는 강력한 기능이 있습니다. **[!UICONTROL 잠정적]** 또는 **[!UICONTROL 확인됨]**. 작동 방식은 다음과 같습니다.
 
 ## 잠정적 {#tentative}
 
@@ -47,7 +47,7 @@ ht-degree: 0%
 
 ## 완료됨  {#finished}
 
-완료된 항목이 이미 실행되었습니다. 과거에만 있을 수 있습니다(분명히). 항목이 실행되면 **완료됨**&#x200B;를 이동하거나 미정으로 설정할 수 없습니다. (변화하는 현실과 시간 흐름의 연속성을 방해하는 것은 없다.)
+완료된 항목이 이미 실행되었습니다. 과거에만 있을 수 있습니다(분명히). 항목이 실행되면 **[!UICONTROL 완료됨]**&#x200B;를 이동하거나 미정으로 설정할 수 없습니다. (변화하는 현실과 시간 흐름의 연속성을 방해하는 것은 없다.)
 
 ![](assets/image2014-9-23-15-3a25-3a53.png)
 
