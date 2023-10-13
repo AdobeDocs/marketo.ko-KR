@@ -4,20 +4,20 @@ description: 에셋 탭 사용 - Marketo 문서 - 제품 설명서
 title: 에셋 탭 사용
 exl-id: 7e7679bb-f83d-4b7f-adfb-2733259eeac2
 feature: Programs
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 86f9e9f13b24a82deb50ec4c398035d7d7479d20
 workflow-type: tm+mt
-source-wordcount: '136'
+source-wordcount: '137'
 ht-degree: 0%
 
 ---
 
 # 에셋 탭 사용 {#using-the-assets-tab}
 
-에셋 캔버스는 프로그램을 시각적으로 표현한 것입니다. 이를 사용하여 로컬 에셋을 추가하고 기존 에셋과 상호 작용할 수 있습니다.
+에셋 캔버스는 기본 또는 이벤트 프로그램을 시각적으로 표현한 것입니다. 로컬 자산을 추가하고 기존 자산과 상호 작용하는 데 사용할 수 있습니다.
 
 ## 에셋 추가 {#adding-assets}
 
-다음에서 **마케팅 활동** 영역을 클릭하고 **에셋** 탭. 아래 에셋 중 하나를 선택하여 프로그램에 추가하십시오.
+다음을 클릭합니다. **[!UICONTROL 에셋]** 원하는 프로그램의 탭 아래 에셋 중 하나를 선택하여 프로그램에 추가하십시오.
 
 ![](assets/programassets.png)
 

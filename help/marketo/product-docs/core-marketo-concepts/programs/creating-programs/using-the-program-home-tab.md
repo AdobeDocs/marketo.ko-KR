@@ -4,7 +4,7 @@ description: 프로그램 홈 탭 사용 - Marketo 문서 - 제품 설명서
 title: 프로그램 홈 탭 사용
 exl-id: 04c36190-d853-4900-b566-973d08316e37
 feature: Programs
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 86f9e9f13b24a82deb50ec4c398035d7d7479d20
 workflow-type: tm+mt
 source-wordcount: '158'
 ht-degree: 0%
@@ -17,7 +17,7 @@ ht-degree: 0%
 
 ## 요약 보기 {#summary-view}
 
-1. 다음으로 이동 **마케팅 활동**.
+1. 다음으로 이동 **[!UICONTROL 마케팅 활동]**.
 
    ![](assets/login-marketing-activities-1.png)
 
@@ -33,17 +33,17 @@ ht-degree: 0%
 
    ![](assets/image2014-9-18-17-3a2-3a53.png)
 
-1. 클릭 **내보내기** 요약 하단에 있는 을 클릭하여 보고서를 다운로드합니다.
+1. 클릭 **[!UICONTROL 내보내기]** 요약 하단에 있는 을 클릭하여 보고서를 다운로드합니다.
 
    ![](assets/image2014-9-18-17-3a3-3a47.png)
 
 ## 보기에서 사용됨 {#used-by-view}
 
-1. 마케팅 활동에서 프로그램을 선택합니다.
+1. 위치 **[!UICONTROL 마케팅 활동]**&#x200B;을 클릭하고 프로그램을 선택합니다.
 
    ![](assets/image2014-9-18-17-3a4-3a24.png)
 
-1. 다음을 클릭합니다. **보기** 드롭다운. 선택 **사용한 사람**.
+1. 다음을 클릭합니다. **[!UICONTROL 보기]** 드롭다운. 선택 **[!UICONTROL 사용한 사람]**.
 
    ![](assets/image2014-9-18-17-3a5-3a2.png)
 
@@ -53,11 +53,11 @@ ht-degree: 0%
 
 ## 멤버십 보기 {#membership-view}
 
-1. 마케팅 활동에서 프로그램을 선택합니다.
+1. 위치 **[!UICONTROL 마케팅 활동]**&#x200B;을 클릭하고 프로그램을 선택합니다.
 
    ![](assets/image2014-9-18-17-3a7-3a25.png)
 
-1. 다음을 클릭합니다. **보기** 드롭다운. 선택 **멤버십**.
+1. 다음을 클릭합니다. **[!UICONTROL 보기]** 드롭다운. 선택 **[!UICONTROL 멤버십]**.
 
    ![](assets/image2014-9-18-17-3a7-3a49.png)
 
@@ -67,8 +67,8 @@ ht-degree: 0%
 
    >[!NOTE]
    >
-   >**기록** 은 프로그램을 경험한 모든 사람을 의미합니다. **현재** 현재 프로그램에 참여 중인 사람만 포함합니다.
+   >**[!UICONTROL 기록]** 은 프로그램을 경험한 모든 사람을 의미합니다. **[!UICONTROL 현재]** 현재 프로그램에 참여 중인 사람만 포함합니다.
 
    >[!MORELIKETHIS]
    >
-   >[프로그램 멤버십 이해](/help/marketo/product-docs/core-marketo-concepts/programs/creating-programs/understanding-program-membership.md)
+   >[프로그램 멤버십 이해](/help/marketo/product-docs/core-marketo-concepts/programs/creating-programs/understanding-program-membership.md){target="_blank"}
