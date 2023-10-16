@@ -4,38 +4,38 @@ description: 프로그램 가져오기 - Marketo 문서 - 제품 설명서
 title: 프로그램 가져오기
 exl-id: 15e23e38-a24b-45b3-89a9-ffec85649f4a
 feature: Programs
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 797ae74a76674a0ad2b05ff22cd1c084068299fd
 workflow-type: tm+mt
-source-wordcount: '519'
+source-wordcount: '520'
 ht-degree: 0%
 
 ---
 
 # 프로그램 가져오기 {#import-a-program}
 
-한 Marketo 구독에서 다른 구독으로 프로그램을 가져올 수 있습니다. 예를 들어 샌드박스에서 프로그램을 만든 다음 라이브 구독으로 가져올 수 있습니다. 또한 Marketo 프로그램 라이브러리에서 미리 빌드된 프로그램을 가져올 수 있습니다.
+한 Marketo 구독에서 다른 구독으로 프로그램을 가져올 수 있습니다. 예를 들어 샌드박스에서 프로그램을 만든 다음 라이브 구독으로 가져올 수 있습니다. 또한 [Marketo 프로그램 라이브러리](/help/marketo/product-docs/core-marketo-concepts/programs/program-library/program-import-library-overview.md){target="_blank"}.
 
 ## 프로그램 가져오기 {#importing-a-program}
 
-1. 다음으로 이동 **마케팅 활동.**
+1. 다음으로 이동 **마케팅 활동**.
 
    ![](assets/import-a-program-1.png)
 
-1. 클릭 **신규** 드롭다운입니다. 선택 **프로그램 가져오기**.
+1. 다음을 클릭합니다. **신규** 드롭다운 및 선택 **프로그램 가져오기**.
 
    ![](assets/import-a-program-2.png)
 
    >[!NOTE]
    >
-   >프로그램 가져오기는 프로그램 가져오기 권한이 활성화된 역할이 있는 사용자만 사용할 수 있습니다. 자세히 알아보기 [사용자 역할 및 권한 관리](/help/marketo/product-docs/administration/users-and-roles/managing-user-roles-and-permissions.md).
+   >프로그램 가져오기는 프로그램 가져오기 권한이 활성화된 역할이 있는 사용자만 사용할 수 있습니다. 자세히 알아보기 [사용자 역할 및 권한 관리](/help/marketo/product-docs/administration/users-and-roles/managing-user-roles-and-permissions.md){target="_blank"}.
    >
-   >샌드박스 계정을 라이브 구독에 연결하려면 다음으로 문의하십시오. [Marketo 지원](https://nation.marketo.com/t5/Support/ct-p/Support).
+   >샌드박스 계정을 라이브 구독에 연결하려면 다음으로 문의하십시오. [Marketo 지원](https://nation.marketo.com/t5/Support/ct-p/Support){target="_blank"}.
 
-1. Marketo 선택 **구독** 가져올 프로그램. 클릭 **다음**.
+1. Marketo 선택 **구독** 가져올 프로그램. **다음**&#x200B;을 클릭합니다.
 
    ![](assets/import-a-program-3.png)
 
-1. 지정 **캠페인 폴더** 가져온 프로그램의 경우. 클릭 **다음.**
+1. 지정 **캠페인 폴더** 가져온 프로그램의 경우. **다음**&#x200B;을 클릭합니다.
 
    ![](assets/import-a-program-4.png)
 
@@ -63,13 +63,13 @@ ht-degree: 0%
 
 ## 프로그램 가져오기 중 외부 자산에 미치는 영향 {#impact-on-external-assets-during-program-imports}
 
-프로그램은 이메일 템플릿, 랜딩 페이지 템플릿, 이미지, 양식, 토큰 및 프로그램 태그와 같은 외부 자산을 사용합니다. 랜딩 페이지 템플릿과 프로그램 태그가 처리되는 방법을 구성할 수 있으며 Marketo에서 나머지 부분을 자동으로 관리합니다.
+프로그램은 이메일 템플릿, 랜딩 페이지 템플릿, 이미지, 양식, 토큰 및 프로그램 태그와 같은 외부 자산을 사용합니다. 랜딩 페이지 템플릿과 프로그램 태그를 처리하는 방법을 구성할 수 있으며, Marketo에서 나머지 부분을 자동으로 관리합니다.
 
-**이메일/랜딩 페이지 템플릿:** 이메일/랜딩 페이지 템플릿을 Design Studio로 가져옵니다. 충돌 규칙을 사용하여 이름이 같은 템플릿이 존재할 때의 동작을 구성할 수 있습니다. 기본 규칙을 사용하면 동일한 이름의 템플릿이 있는 경우 템플릿에 숫자가 추가됩니다. 예를 들어 &quot;표준 템플릿&quot;이라는 이름의 템플릿이 이미 있는 경우 새 템플릿의 이름은 &quot;표준 템플릿 - 1&quot;로 지정됩니다.
+**이메일/랜딩 페이지 템플릿:** 이메일/랜딩 페이지 템플릿을 Design Studio로 가져옵니다. 충돌 규칙을 사용하여 이름이 같은 템플릿이 있는 경우 동작을 구성할 수 있습니다. 기본 규칙을 사용하면 동일한 이름의 템플릿이 있는 경우 템플릿에 숫자가 추가됩니다. 예를 들어 &quot;표준 템플릿&quot;이라는 이름의 템플릿이 이미 있는 경우 새 템플릿의 이름은 &quot;표준 템플릿 - 1&quot;로 지정됩니다.
 
 **랜딩 페이지/Forms:** Design Studio에 이름이 같은 양식 또는 랜딩 페이지가 있는 경우 계속 가져오지만 이름에 숫자가 추가됩니다(예: 랜딩 페이지 - 1).
 
-**이미지:** 랜딩 페이지에서 사용하는 이미지는 같은 이름의 이미지가 없는 한 디자인 스튜디오로 가져옵니다.
+**이미지:** 같은 이름의 이미지가 없는 경우 랜딩 페이지에서 사용하는 이미지를 디자인 스튜디오로 가져옵니다.
 
 **토큰:** 프로그램 외부에 있는 토큰은 가져오기 프로세스 중에 로컬 토큰으로 변환됩니다.
 
@@ -81,4 +81,4 @@ ht-degree: 0%
 
 >[!CAUTION]
 >
->프로그램을 가져올 때 포함된 이메일/랜딩 페이지 [다이내믹 콘텐츠](/help/marketo/product-docs/personalization/segmentation-and-snippets/segmentation/understanding-dynamic-content.md) 건너뜁니다.
+>프로그램을 가져올 때 포함된 이메일/랜딩 페이지 [다이내믹 콘텐츠](/help/marketo/product-docs/personalization/segmentation-and-snippets/segmentation/understanding-dynamic-content.md){target="_blank"} 건너뜁니다.
