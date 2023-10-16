@@ -4,9 +4,9 @@ description: 소셜 프로필 데이터 관리 - Marketo 문서 - 제품 설명�
 title: 소셜 프로필 데이터 관리
 exl-id: 9b20c6fc-5c80-4665-9c93-1bb6e53a29ae
 feature: Social
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 2671f81f62658447e4b2a3dc2e02a4e0927443e8
 workflow-type: tm+mt
-source-wordcount: '304'
+source-wordcount: '310'
 ht-degree: 5%
 
 ---
@@ -19,7 +19,7 @@ ht-degree: 5%
 
 >[!AVAILABILITY]
 >
->모든 고객이 이 기능을 구입한 것은 아닙니다. 자세한 내용은 영업 담당자에게 문의하십시오.
+>일부 Marketo Engage 사용자가 이 기능을 구입한 것은 아닙니다. 자세한 내용은 Adobe 계정 팀(계정 관리자)에 문의하십시오.
 
 ## 소셜 앱을 통해 캡처됨 {#captured-via-social-app}
 

@@ -4,9 +4,9 @@ description: 소셜 활동 트리거 및 필터 - Marketo 문서 - 제품 설명
 title: 소셜 활동에 대한 트리거 및 필터
 exl-id: 97b28a89-21d2-4179-9257-f50efbb3c228
 feature: Social
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 2671f81f62658447e4b2a3dc2e02a4e0927443e8
 workflow-type: tm+mt
-source-wordcount: '158'
+source-wordcount: '164'
 ht-degree: 0%
 
 ---
@@ -17,7 +17,7 @@ Marketo의 소셜 앱에는 고유한 특별한 트리거와 필터가 있습니
 
 >[!AVAILABILITY]
 >
->모든 고객이 이 기능을 구입한 것은 아닙니다. 자세한 내용은 영업 담당자에게 문의하십시오.
+>일부 Marketo Engage 사용자가 이 기능을 구입한 것은 아닙니다. 자세한 내용은 Adobe 계정 팀(계정 관리자)에 문의하십시오.
 
 1. 소셜 을 사용하려면 _트리거_&#x200B;스마트 캠페인을 선택하고 **스마트 목록** 탭. 오른쪽에서 +를 클릭하여 확장합니다. **트리거**, 그런 다음 **소셜**.
 

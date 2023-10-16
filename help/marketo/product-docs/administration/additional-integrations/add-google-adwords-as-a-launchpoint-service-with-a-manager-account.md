@@ -4,9 +4,9 @@ description: "추가 [!DNL Google AdWords] as a [!DNL Launchpoint] 관리자 계
 title: "추가 [!DNL Google AdWords] as a [!DNL Launchpoint] 관리자 계정이 있는 서비스"
 exl-id: aac106f4-6615-49d5-a561-0dd965c7b0ff
 feature: Administration, Integrations
-source-git-commit: d20a9bb584f69282eefae3704ce4be2179b29d0b
+source-git-commit: 2671f81f62658447e4b2a3dc2e02a4e0927443e8
 workflow-type: tm+mt
-source-wordcount: '321'
+source-wordcount: '322'
 ht-degree: 1%
 
 ---
@@ -21,7 +21,7 @@ ht-degree: 1%
 
 >[!AVAILABILITY]
 >
->모든 고객이 이 기능을 구입한 것은 아닙니다. 자세한 내용은 Adobe 계정 팀(계정 관리자)에 문의하십시오.
+>일부 Marketo Engage 사용자가 이 기능을 구입한 것은 아닙니다. 자세한 내용은 Adobe 계정 팀(계정 관리자)에 문의하십시오.
 
 >[!NOTE]
 >
@@ -84,7 +84,7 @@ ht-degree: 1%
    >
    >[자동 태그 지정](https://support.google.com/adwords/answer/1752125?hl=en){target="_blank"} 이 기능을 사용하려면 을(를) 선택해야 합니다. 내부에서 활성화되어야 합니다. [!DNL AdWords].
 
-1. 클릭 **[!UICONTROL 다음]**.
+1. **[!UICONTROL 다음]**&#x200B;을 클릭합니다.
 
    ![](assets/add-google-adwords-as-a-launchpoint-service-with-a-manager-11.png)
 

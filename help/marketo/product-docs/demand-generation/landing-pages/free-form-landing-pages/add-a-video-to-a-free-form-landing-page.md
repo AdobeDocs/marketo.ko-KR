@@ -4,9 +4,9 @@ description: 자유 형식 랜딩 페이지에 비디오 추가 - Marketo 문서
 title: 자유 형식 랜딩 페이지에 비디오 추가
 exl-id: 3a3bbb56-1fd9-48dd-84e8-8750032bd984
 feature: Landing Pages
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 2671f81f62658447e4b2a3dc2e02a4e0927443e8
 workflow-type: tm+mt
-source-wordcount: '234'
+source-wordcount: '240'
 ht-degree: 0%
 
 ---
@@ -17,7 +17,7 @@ ht-degree: 0%
 
 >[!AVAILABILITY]
 >
->모든 고객이 이 기능을 구입한 것은 아닙니다. 자세한 내용은 영업 담당자에게 문의하십시오.
+>일부 Marketo Engage 사용자가 이 기능을 구입한 것은 아닙니다. 자세한 내용은 Adobe 계정 팀(계정 관리자)에 문의하십시오.
 
 1. 자유 형식 랜딩 페이지로 이동하여 **초안 편집**.
 

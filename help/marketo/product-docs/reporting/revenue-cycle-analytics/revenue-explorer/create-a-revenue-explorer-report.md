@@ -4,9 +4,9 @@ description: 매출 탐색기 보고서 만들기 - Marketo 문서 - 제품 설�
 title: 수익 탐색기 보고서 만들기
 exl-id: dc7b705d-00cc-4b9f-aae1-83a5127036f4
 feature: Reporting, Revenue Cycle Analytics
-source-git-commit: d20a9bb584f69282eefae3704ce4be2179b29d0b
+source-git-commit: 2671f81f62658447e4b2a3dc2e02a4e0927443e8
 workflow-type: tm+mt
-source-wordcount: '93'
+source-wordcount: '99'
 ht-degree: 0%
 
 ---
@@ -17,7 +17,7 @@ Revenue Explorer 보고서를 사용하면 마케팅 이니셔티브에 대한 R
 
 >[!AVAILABILITY]
 >
->모든 고객이 이 기능을 구입한 것은 아닙니다. 자세한 내용은 영업 담당자에게 문의하십시오.
+>일부 Marketo Engage 사용자가 이 기능을 구입한 것은 아닙니다. 자세한 내용은 Adobe 계정 팀(계정 관리자)에 문의하십시오.
 
 1. 로 이동 **매출 탐색기** 영역입니다.
 

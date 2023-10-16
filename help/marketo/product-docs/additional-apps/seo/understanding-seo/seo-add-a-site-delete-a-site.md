@@ -4,9 +4,9 @@ description: SEO - 사이트 추가/사이트 삭제 - Marketo 문서 - 제품 �
 title: SEO - 사이트 추가/사이트 삭제
 exl-id: 1005f5a8-8744-4fb3-9a07-83bc72810820
 feature: SEO
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 2671f81f62658447e4b2a3dc2e02a4e0927443e8
 workflow-type: tm+mt
-source-wordcount: '190'
+source-wordcount: '196'
 ht-degree: 0%
 
 ---
@@ -17,7 +17,7 @@ Marketo이 사이트 페이지와 관련된 데이터(인바운드 링크 및 �
 
 >[!AVAILABILITY]
 >
->모든 고객이 이 기능을 구입한 것은 아닙니다. 자세한 내용은 영업 담당자에게 문의하십시오.
+>일부 Marketo Engage 사용자가 이 기능을 구입한 것은 아닙니다. 자세한 내용은 Adobe 계정 팀(계정 관리자)에 문의하십시오.
 
 ## [!UICONTROL 사이트 추가] {#add-a-site}
 

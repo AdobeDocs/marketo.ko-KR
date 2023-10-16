@@ -4,9 +4,9 @@ description: Marketo 이메일 추가 기능 라이선스 발급 - Marketo 문�
 title: Marketo 이메일 추가 기능 라이선스 발행
 exl-id: 179bb2b6-2e06-4e85-8f3f-2cd5d3ae3081
 feature: Marketo Sales Insights
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 2671f81f62658447e4b2a3dc2e02a4e0927443e8
 workflow-type: tm+mt
-source-wordcount: '296'
+source-wordcount: '302'
 ht-degree: 0%
 
 ---
@@ -20,7 +20,7 @@ Marketo 이메일 Outlook 추가 기능을 사용하려면 먼저 라이선스�
 
 >[!AVAILABILITY]
 >
->모든 고객이 이 기능을 구입한 것은 아닙니다. 자세한 내용은 영업 담당자에게 문의하십시오.
+>일부 Marketo Engage 사용자가 이 기능을 구입한 것은 아닙니다. 자세한 내용은 Adobe 계정 팀(계정 관리자)에 문의하십시오.
 
 >[!NOTE]
 >

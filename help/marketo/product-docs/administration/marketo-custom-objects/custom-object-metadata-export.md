@@ -3,9 +3,9 @@ description: 사용자 지정 개체 메타데이터 내보내기 - Marketo 문�
 title: 사용자 지정 개체 메타데이터 내보내기
 exl-id: 4c23f07e-3491-43c5-8ea8-2e54c9a4b9af
 feature: Custom Objects
-source-git-commit: 02b2e39580c5eac63de4b4b7fdaf2a835fdd4ba5
+source-git-commit: 2671f81f62658447e4b2a3dc2e02a4e0927443e8
 workflow-type: tm+mt
-source-wordcount: '109'
+source-wordcount: '110'
 ht-degree: 0%
 
 ---
@@ -16,7 +16,7 @@ SOAP API 또는 Munchkin API를 사용하는 경우 사용자 지정 개체 메�
 
 >[!AVAILABILITY]
 >
->모든 고객이 이 기능을 구입한 것은 아닙니다. 자세한 내용은 Adobe 계정 팀(계정 관리자)에 문의하십시오.
+>일부 Marketo Engage 사용자가 이 기능을 구입한 것은 아닙니다. 자세한 내용은 Adobe 계정 팀(계정 관리자)에 문의하십시오.
 
 1. 로 이동 **[!UICONTROL 관리자]** 영역입니다.
 
