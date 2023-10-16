@@ -4,9 +4,9 @@ description: 스마트 목록 우수 사례 - Marketo 문서 - 제품 설명서
 title: 스마트 목록 우수 사례
 exl-id: 466de198-1012-4ac3-906c-d41943fe5bc0
 feature: Smart Lists
-source-git-commit: b6628cee17799801815f5b84c424399538eaf5ee
+source-git-commit: 0e68da238100f3816c2e64e1fbe4a5a2892bb3e1
 workflow-type: tm+mt
-source-wordcount: '570'
+source-wordcount: '573'
 ht-degree: 0%
 
 ---
@@ -19,7 +19,7 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->**고객마다 다릅니다.** 데이터베이스가 클수록 더 많은 처리가 이루어집니다. 더 많은 활동을 저장할수록 활동을 검색하는 데 더 오래 걸립니다.
+>**모든 Marketo Engage 사용자는 다릅니다.** 데이터베이스가 클수록 더 많은 처리가 이루어집니다. 더 많은 활동을 저장할수록 활동을 검색하는 데 더 오래 걸립니다.
 >
 >속도가 느려지는 경우 아래 팁을 시도해 보십시오. 문제가 지속되면 다음으로 문의하십시오. [Marketo 지원](https://nation.marketo.com/t5/Support/ct-p/Support){target="_blank"}.
 
