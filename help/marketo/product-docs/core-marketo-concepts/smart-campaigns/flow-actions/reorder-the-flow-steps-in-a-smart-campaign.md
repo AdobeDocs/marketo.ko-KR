@@ -4,7 +4,7 @@ description: 스마트 캠페인에서 흐름 단계 재정렬 - Marketo 문서 
 title: 스마트 캠페인에서 흐름 단계 재정렬
 exl-id: 5cf4dac1-d21a-44ff-a485-c24a91e83fc9
 feature: Smart Campaigns
-source-git-commit: 9e51ece12742152040dbbcb6a1584fba28e863ff
+source-git-commit: 17662d6c45ced21053fe18506ee79bb4b8f10c10
 workflow-type: tm+mt
 source-wordcount: '96'
 ht-degree: 0%
@@ -21,7 +21,7 @@ ht-degree: 0%
 
 1. 스마트 캠페인 플로우 탭에서 플로우 단계를 원하는 위치로 끌어다 놓습니다.
 
-![](assets/image2014-9-22-13-3a49-3a11.png)
+![](assets/reorder-the-flow-steps-in-a-smart-campaign-1.png)
 
 >[!NOTE]
 >
