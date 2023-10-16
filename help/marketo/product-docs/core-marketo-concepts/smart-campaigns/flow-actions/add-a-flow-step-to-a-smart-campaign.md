@@ -4,7 +4,7 @@ description: 스마트 Campaign에 흐름 단계 추가 - Marketo 문서 - 제�
 title: 스마트 캠페인에 플로우 단계 추가
 exl-id: bd842551-b981-4cd9-a742-321b1ceab872
 feature: Smart Campaigns
-source-git-commit: 9e51ece12742152040dbbcb6a1584fba28e863ff
+source-git-commit: e7211ff1336e0b7dc730ed113ce8b7cbfe986c70
 workflow-type: tm+mt
 source-wordcount: '170'
 ht-degree: 0%
@@ -33,7 +33,7 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->흐름 단계는 나열된 순서대로 실행됩니다. [흐름 단계 재정렬](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/add-a-flow-step-to-a-smart-campaign/reorder-the-flow-steps-in-a-smart-campaign.md){target="_blank"} 올바른 순서로 정렬되도록 합니다.
+>흐름 단계는 나열된 순서대로 실행됩니다. [흐름 단계 재정렬](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/reorder-the-flow-steps-in-a-smart-campaign.md){target="_blank"} 올바른 순서로 정렬되도록 합니다.
 
 >[!TIP]
 >
@@ -44,4 +44,4 @@ ht-degree: 0%
 >[!MORELIKETHIS]
 >
 >* [흐름 단계에서 선택 항목 추가 사용](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/use-add-choice-in-a-flow-step.md){target="_blank"}
->* [스마트 캠페인에서 흐름 단계 재정렬](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/add-a-flow-step-to-a-smart-campaign/reorder-the-flow-steps-in-a-smart-campaign.md){target="_blank"}
+>* [스마트 캠페인에서 흐름 단계 재정렬](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/reorder-the-flow-steps-in-a-smart-campaign.md){target="_blank"}
