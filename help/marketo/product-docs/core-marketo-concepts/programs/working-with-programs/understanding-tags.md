@@ -4,16 +4,16 @@ description: 태그 이해 - Marketo 문서 - 제품 설명서
 title: 태그 이해
 exl-id: af74aec2-096f-489f-adf8-388da3867fae
 feature: Programs
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 9e51ece12742152040dbbcb6a1584fba28e863ff
 workflow-type: tm+mt
-source-wordcount: '167'
-ht-degree: 0%
+source-wordcount: '168'
+ht-degree: 2%
 
 ---
 
 # 태그 이해 {#understanding-tags}
 
-지금쯤이면 프로그램이 Marketo의 기본 구성 요소와 같다는 것을 알 수 있을 것입니다. 태그와 채널을 사용하면 보고 목적으로 데이터를 필터링할 수 있습니다.
+여러분은 아마 지금쯤 프로그램이 Marketo Engage에서 기본 구성단위와 같다는 것을 알고 있을 것입니다. 태그와 채널을 사용하면 보고 목적으로 데이터를 필터링할 수 있습니다.
 
 태그는 프로그램을 설명하는 데 사용됩니다. 각각 고유한 값을 사용하여 필요한 만큼 만들 수 있습니다. 채널은 웨비나, 후원 또는 온라인 광고와 같은 프로그램의 게재 메커니즘을 식별합니다.
 
@@ -23,7 +23,7 @@ ht-degree: 0%
 
 >[!TIP]
 >
->다음 사용자에게 문의하십시오. [Marketo 관리자](/help/marketo/product-docs/administration/tags/create-custom-tags.md) 사용자 지정 태그를 만들려면.
+>다음을 만들려면 Marketo 관리자에게 문의하십시오. [사용자 지정 태그](/help/marketo/product-docs/administration/tags/create-custom-tags.md){target="_blank"}.
 
 >[!NOTE]
 >
@@ -47,7 +47,7 @@ ht-degree: 0%
 
 ## 채널 {#channel}
 
-채널은 다음 방법에 대해 보고하는 데 사용됩니다. [구성원](/help/marketo/product-docs/core-marketo-concepts/programs/creating-programs/understanding-program-membership.md) 프로그램을 통해 이동했습니다. 각 채널에는 진행 상태 세트와 동일한 성공으로 설정된 하나의 상태가 있습니다.
+채널은 다음 방법에 대해 보고하는 데 사용됩니다. [구성원](/help/marketo/product-docs/core-marketo-concepts/programs/creating-programs/understanding-program-membership.md){target="_blank"} 프로그램을 통해 이동했습니다. 각 채널에는 진행 상태 세트와 동일한 성공으로 설정된 하나의 상태가 있습니다.
 
 >[!NOTE]
 >
@@ -61,5 +61,5 @@ ht-degree: 0%
 
 >[!MORELIKETHIS]
 >
->* [사용자 지정 태그 만들기](/help/marketo/product-docs/administration/tags/create-custom-tags.md)
->* [프로그램 채널 만들기](/help/marketo/product-docs/administration/tags/create-a-program-channel.md)
+>* [사용자 지정 태그 만들기](/help/marketo/product-docs/administration/tags/create-custom-tags.md){target="_blank"}
+>* [프로그램 채널 만들기](/help/marketo/product-docs/administration/tags/create-a-program-channel.md){target="_blank"}

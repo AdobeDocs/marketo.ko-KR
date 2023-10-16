@@ -4,7 +4,7 @@ description: 점수 변경 - Marketo 문서 - 제품 설명서
 title: 점수 변경
 exl-id: bba77aa1-40ab-40e5-ad43-f8cf0b235d3b
 feature: Smart Campaigns
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 9e51ece12742152040dbbcb6a1584fba28e863ff
 workflow-type: tm+mt
 source-wordcount: '94'
 ht-degree: 2%
@@ -27,7 +27,7 @@ ht-degree: 2%
 
    >[!TIP]
    >
-   >여러 점수 필드를 만들 수 있습니다. 다음을 참조하십시오 [Marketo에서 사용자 정의 필드 만들기](/help/marketo/product-docs/administration/field-management/create-a-custom-field-in-marketo.md) 을 참조하십시오.
+   >여러 점수 필드를 만들 수 있습니다. 다음을 참조하십시오 [Marketo에서 사용자 정의 필드 만들기](/help/marketo/product-docs/administration/field-management/create-a-custom-field-in-marketo.md){target="_blank"} 을 참조하십시오.
 
 1. 원하는 점수 변경 사항을 입력합니다.
 

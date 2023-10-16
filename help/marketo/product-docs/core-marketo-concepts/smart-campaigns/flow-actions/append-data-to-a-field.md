@@ -4,7 +4,7 @@ description: 필드에 데이터 추가 - Marketo 문서 - 제품 설명서
 title: 필드에 데이터 추가
 exl-id: 62d68efd-b2df-48bd-925e-f9a95907f33c
 feature: Smart Campaigns
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 9e51ece12742152040dbbcb6a1584fba28e863ff
 workflow-type: tm+mt
 source-wordcount: '109'
 ht-degree: 0%
@@ -17,13 +17,13 @@ ht-degree: 0%
 
 >[!PREREQUISITES]
 >
->[캠페인 만들기](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/creating-a-smart-campaign/create-a-new-smart-campaign.md)
+>[캠페인 만들기](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/creating-a-smart-campaign/create-a-new-smart-campaign.md){target="_blank"}
 
 >[!NOTE]
 >
->아래 단계는에 적용됩니다. [프로그램 멤버 데이터 변경](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/program-flow-actions/change-program-member-data.md).
+>아래 단계는에 적용됩니다. [프로그램 멤버 데이터 변경](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/program-flow-actions/change-program-member-data.md){target="_blank"}.
 
-1. 아래 **플로우** 탭에서 을(를) 끌어서 놓습니다. **데이터 값 변경** 흐름 단계.
+1. 아래 **[!UICONTROL 플로우]** 탭에서 을(를) 끌어서 놓습니다. **[!UICONTROL 데이터 값 변경]** 흐름 단계.
 
    ![](assets/image2014-9-22-16-3a5-3a1.png)
 

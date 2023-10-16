@@ -4,9 +4,9 @@ description: 새 스마트 캠페인 만들기 - Marketo 문서 - 제품 설명�
 title: 새 스마트 캠페인 만들기
 exl-id: c24ef00a-1f5c-4d0f-a7ff-131dcb593119
 feature: Smart Campaigns
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 9e51ece12742152040dbbcb6a1584fba28e863ff
 workflow-type: tm+mt
-source-wordcount: '120'
+source-wordcount: '119'
 ht-degree: 0%
 
 ---
@@ -19,11 +19,11 @@ ht-degree: 0%
 >
 >자세히 알아보기 [스마트 캠페인](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/understanding-smart-campaigns.md){target="_blank"}.
 
-1. 다음으로 이동 **마케팅 활동**.
+1. 다음으로 이동 **[!UICONTROL 마케팅 활동]**.
 
    ![](assets/create-a-new-smart-campaign-1.png)
 
-1. 원하는 프로그램을 마우스 오른쪽 단추로 클릭하고 를 선택합니다. **새 스마트 캠페인**.
+1. 원하는 프로그램을 마우스 오른쪽 단추로 클릭하고 를 선택합니다. **[!UICONTROL 새 스마트 캠페인]**.
 
    ![](assets/create-a-new-smart-campaign-2.png)
 
@@ -31,7 +31,7 @@ ht-degree: 0%
    >
    >스마트 캠페인을 모든 프로그램의 로컬 자산으로 만들 수 있습니다.
 
-1. 스마트 캠페인 이름을 입력하고 를 클릭합니다. **만들기**.
+1. 스마트 캠페인 이름을 입력하고 를 클릭합니다. **[!UICONTROL 만들기]**.
 
    ![](assets/create-a-new-smart-campaign-3.png)
 

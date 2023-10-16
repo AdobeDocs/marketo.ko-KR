@@ -4,9 +4,9 @@ description: 개인 삭제 - Marketo 문서 - 제품 설명서
 title: 개인 삭제
 exl-id: 40039444-9b2a-4b80-93bc-7da3d6e9475c
 feature: Smart Campaigns
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 9e51ece12742152040dbbcb6a1584fba28e863ff
 workflow-type: tm+mt
-source-wordcount: '125'
+source-wordcount: '123'
 ht-degree: 1%
 
 ---
@@ -31,10 +31,10 @@ ht-degree: 1%
 
 ![](assets/two-4.png)
 
-다음과 같이 CRM이 아닌 Marketo에서 삭제할 수 있습니다.
+다음과 같이 CRM이 아닌 Marketo Engage에서 삭제할 수 있습니다.
 
 ![](assets/three-3.png)
 
 >[!NOTE]
 >
->CRM에서 사용자 제거 **는 Salesforce에서만 작동합니다.**. Marketo에서 한 개인을 삭제하고 Salesforce에 보관하도록 선택하면 Salesforce 레코드가 업데이트될 경우 해당 개인들이 Marketo에 다시 만들어집니다.
+>CRM에서 사용자 제거 _은(는) 에서만 작동합니다.[!DNL Salesforce]_. Marketo에서 한 사람을 삭제하고 이 사람들을 계속 보유하도록 선택하는 경우 [!DNL Salesforce], 다음과 같은 경우 Marketo에서 다시 만들어집니다. [!DNL Salesforce] 레코드가 업데이트됩니다.

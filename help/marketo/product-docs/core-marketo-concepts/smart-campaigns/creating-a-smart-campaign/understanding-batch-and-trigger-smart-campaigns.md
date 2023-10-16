@@ -4,7 +4,7 @@ description: 일괄 처리 및 트리거 스마트 캠페인 이해 - Marketo �
 title: 일괄 처리 및 트리거 스마트 캠페인 이해
 exl-id: 84a7b38c-b79c-4360-bd0b-3beb8ca35ac7
 feature: Smart Campaigns
-source-git-commit: 75aa1f6c5f7d0c193787978a18900441aa9a8b82
+source-git-commit: 9e51ece12742152040dbbcb6a1584fba28e863ff
 workflow-type: tm+mt
 source-wordcount: '266'
 ht-degree: 0%
@@ -27,14 +27,14 @@ ht-degree: 0%
 
 ![](assets/understanding-batch-and-trigger-smart-campaigns-1.png)
 
-클릭 **예약** 탭에서는 스마트 캠페인이 &quot;일괄 처리&quot;로 설정되어 있는지 확인합니다.
+클릭 **[!UICONTROL 예약]** 탭에서는 스마트 캠페인이 &quot;일괄 처리&quot;로 설정되어 있는지 확인합니다.
 
 ![](assets/understanding-batch-and-trigger-smart-campaigns-2.png)
 
 **일괄 스마트 캠페인**
 
 * 일별, 주별 및 월별 등의 반복에 대해 예약할 수 있습니다. 한 번만 실행되도록 할 수도 있습니다.
-* 다음에 표시: [프로그램 일정 보기](/help/marketo/product-docs/core-marketo-concepts/programs/program-schedule-view/navigating-the-program-schedule-view.md). 스마트 캠페인 내의 &quot;대기&quot; 단계 이후의 모든 항목은 보기에 포함되지 않습니다.
+* 다음에 표시: [프로그램 일정 보기](/help/marketo/product-docs/core-marketo-concepts/programs/program-schedule-view/navigating-the-program-schedule-view.md){target="_blank"}. 스마트 캠페인 내의 &quot;대기&quot; 단계 이후의 모든 항목은 보기에 포함되지 않습니다.
 
 <br> 
 
@@ -50,7 +50,7 @@ ht-degree: 0%
 
 ![](assets/understanding-batch-and-trigger-smart-campaigns-3.png)
 
-클릭 **예약** 탭에서는 스마트 캠페인이 &quot;트리거됨&quot;으로 설정되어 있는지 확인합니다.
+클릭 **[!UICONTROL 예약]** 탭에서는 스마트 캠페인이 &quot;트리거됨&quot;으로 설정되어 있는지 확인합니다.
 
 ![](assets/understanding-batch-and-trigger-smart-campaigns-4.png)
 
@@ -61,4 +61,4 @@ ht-degree: 0%
 
 >[!TIP]
 >
->사용 [활동 로그](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/managing-people-in-smart-lists/locate-the-activity-log-for-a-person.md) 스마트 캠페인 내에서 발생한 사항을 단계별로 확인합니다. 개인 세부 정보 페이지의 마지막 탭에서 활동 로그를 찾을 수 있습니다.
+>사용 [활동 로그](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/managing-people-in-smart-lists/locate-the-activity-log-for-a-person.md){target="_blank"} 스마트 캠페인 내에서 발생한 사항을 단계별로 확인합니다. 개인 세부 정보 페이지의 마지막 탭에서 활동 로그를 찾을 수 있습니다.
