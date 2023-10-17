@@ -4,9 +4,9 @@ description: 모바일 스마트 캠페인용 트리거 및 필터 - Marketo 문
 title: 모바일 스마트 캠페인용 트리거 및 필터
 exl-id: 76fc7a74-b27d-4898-a8ca-85c9c2828a28
 feature: Smart Campaigns
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 2eeb7ea7fd43ba75a3c802a91ce07c90dc8abd91
 workflow-type: tm+mt
-source-wordcount: '823'
+source-wordcount: '820'
 ht-degree: 0%
 
 ---
@@ -15,7 +15,7 @@ ht-degree: 0%
 
 모바일 앱 스마트 캠페인에 대한 트리거 및 필터를 설정할 수 있습니다.
 
-대부분의 활동에는 트리거, 필터 및 비활성 필터가 있습니다. 비활성 필터를 사용하여 푸시 알림 탭과 같은 작업 추적 *다음을 수행하지 않음* 그러세요.
+대부분의 활동에는 트리거, 필터 및 비활성 필터가 있습니다. 비활성 필터를 사용하여 푸시 알림 탭과 같은 작업 추적 _다음을 수행하지 않음_ 그러세요.
 
 * 모바일 앱 설치됨/설치됨
 * 모바일 앱이 열림/열림
@@ -27,7 +27,7 @@ ht-degree: 0%
 
 * 푸시 알림이 전송됨 - 필터 및 비활성 필터
 
-검색 대상 **모바일 앱** 모든 모바일 앱 트리거 및 필터를 나열할 오른쪽 패널.
+모든 모바일 앱 트리거 및 필터를 나열하려면 오른쪽 패널에서 &quot;모바일 앱&quot;을 검색합니다.
 
 ![](assets/triggers-and-filters-for-mobile-smart-campaigns-1.png)
 
@@ -103,7 +103,7 @@ ht-degree: 0%
 
 모바일 앱 활동 있음/있음
 
-이렇게 하면 사용자 지정 모바일 활동을 추적할 수 있는 강력한 방법을 제공합니다. 추적을 설정하려면 개발자와 협력해야 합니다 [Android용](https://developers.marketo.com/documentation/mobile/installation-instructions-on-android) 및 [iOS용](https://developers.marketo.com/documentation/mobile/installation-instructions-on-ios).
+이렇게 하면 사용자 지정 모바일 활동을 추적할 수 있는 강력한 방법을 제공합니다. 추적을 설정하려면 개발자와 협력해야 합니다 [Android용](https://developers.marketo.com/documentation/mobile/installation-instructions-on-android){target="_blank"} and [for iOS](https://developers.marketo.com/documentation/mobile/installation-instructions-on-ios){target="_blank"}.
 
 * 모바일 앱 활동 있음 - 트리거
 
@@ -192,5 +192,5 @@ Marketo에서 필터가 표시되는 모양은 다음과 같습니다.
 
 >[!MORELIKETHIS]
 >
->* [스마트 목록 필터에 제한 추가](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/using-smart-lists/add-a-constraint-to-a-smart-list-filter.md)
->* [스마트 목록에서 비활성 필터 사용](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/using-smart-lists/use-inactivity-filters-in-a-smart-list.md)
+>* [스마트 목록 필터에 제한 추가](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/using-smart-lists/add-a-constraint-to-a-smart-list-filter.md){target="_blank"}
+>* [스마트 목록에서 비활성 필터 사용](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/using-smart-lists/use-inactivity-filters-in-a-smart-list.md){target="_blank"}

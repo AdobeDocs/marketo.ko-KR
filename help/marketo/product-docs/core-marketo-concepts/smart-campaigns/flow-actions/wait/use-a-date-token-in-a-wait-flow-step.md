@@ -4,30 +4,30 @@ description: 대기 흐름 단계에서 날짜 토큰 사용 - Marketo 문서 - 
 title: 대기 흐름 단계에서 날짜 토큰 사용
 exl-id: d161922b-ce90-4e65-9282-d3bb866c1d94
 feature: Smart Campaigns
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 2eeb7ea7fd43ba75a3c802a91ce07c90dc8abd91
 workflow-type: tm+mt
-source-wordcount: '216'
+source-wordcount: '213'
 ht-degree: 0%
 
 ---
 
 # 대기 흐름 단계에서 날짜 토큰 사용 {#use-a-date-token-in-a-wait-flow-step}
 
-대기 흐름 단계를 사용하여 날짜 토큰을 사용하는 특정 날짜까지 스마트 캠페인을 통해 개인의 여정을 일시 중지할 수 있습니다. 종료 날짜를 며칠 단위로 수정할 수도 있습니다.
+대기 흐름 단계를 사용하여 날짜 토큰을 사용하는 특정 날짜까지 Smart Campaign을 통해 개인의 여정을 일시 중지할 수 있습니다. 종료 날짜를 며칠 단위로 수정할 수도 있습니다.
 
 >[!NOTE]
 >
 >이는 트리거 캠페인에만 적용됩니다. 일괄 캠페인에서는 이 기능을 사용할 수 없습니다.
 
-1. 스마트 캠페인에서 **플로우** 탭, 위로 드래그 **대기** 흐름 단계.
+1. 스마트 캠페인에서 **[!UICONTROL 플로우]** 탭, 위로 드래그 **[!UICONTROL 대기]** 흐름 단계.
 
    ![](assets/image2014-9-22-14-3a8-3a22.png)
 
-1. 오른쪽에 있는 톱니바퀴 아이콘을 클릭합니다.
+1. 톱니바퀴 아이콘을 클릭합니다.
 
    ![](assets/image2014-9-22-14-3a8-3a37.png)
 
-1. 다음에서 **유형** 드롭다운, 선택 **날짜 토큰**.
+1. 다음에서 **[!UICONTROL 유형]** 드롭다운, 선택 **[!UICONTROL 날짜 토큰]**.
 
    ![](assets/image2014-9-22-14-3a8-3a41.png)
 
@@ -56,11 +56,11 @@ ht-degree: 0%
    >
    >를 사용하여 일 수를 지정할 수도 있습니다. `{{lead.` 또는 `{{company.` 정수 필드를 나타내는 토큰 또는 `{{my.` 숫자 유형의 토큰.
 
-1. 클릭 **저장**.
+1. **[!UICONTROL 저장]**&#x200B;을 클릭합니다.
 
    ![](assets/image2014-9-22-14-3a11-3a3.png)
 
    >[!MORELIKETHIS]
    >
-   >* [대기 흐름 단계에서 기간 사용](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/wait/use-a-duration-in-a-wait-flow-step.md)
-   >* [대기 흐름 단계의 특정 날짜 사용](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/wait/use-a-specific-date-in-a-wait-flow-step.md)
+   >* [대기 흐름 단계에서 기간 사용](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/wait/use-a-duration-in-a-wait-flow-step.md){target="_blank"}
+   >* [대기 흐름 단계의 특정 날짜 사용](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/wait/use-a-specific-date-in-a-wait-flow-step.md){target="_blank"}

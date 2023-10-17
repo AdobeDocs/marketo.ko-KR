@@ -4,16 +4,16 @@ description: 사용자를 Microsoft에 동기화 - Marketo 문서 - 제품 설�
 title: Microsoft에 사용자 동기화
 exl-id: cc6f1c03-ba74-418c-95d5-fb073a248379
 feature: Smart Campaigns, Microsoft Dynamics
-source-git-commit: d20a9bb584f69282eefae3704ce4be2179b29d0b
+source-git-commit: 2eeb7ea7fd43ba75a3c802a91ce07c90dc8abd91
 workflow-type: tm+mt
-source-wordcount: '75'
+source-wordcount: '74'
 ht-degree: 2%
 
 ---
 
 # Microsoft에 사용자 동기화 {#sync-person-to-microsoft}
 
-이 기능은 Marketo을 Microsoft Dynamics와 통합하는 사용자를 위한 것입니다.
+이 기능은 와 Marketo Engage을 통합하는 대상에게만 제공됩니다 [!DNL Microsoft Dynamics].
 
 ## 개요 {#overview}
 
@@ -29,4 +29,4 @@ Dynamics 사용자를 개인 소유자로 설정할 수 있습니다.
 
 >[!NOTE]
 >
->&quot;사용자와 Microsoft 동기화&quot; 흐름 작업(트리거 캠페인에서만)을 사용하는 경우 리드/연락처가 Dynamics에서 실시간으로 생성됩니다.
+>&quot;&quot;를 사용하는 경우[!UICONTROL Microsoft에 사용자 동기화]&quot;흐름 작업(캠페인 트리거만 해당), 리드/연락처는 Dynamics에서 실시간으로 생성됩니다.

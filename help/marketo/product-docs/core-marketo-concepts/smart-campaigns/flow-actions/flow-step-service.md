@@ -3,9 +3,9 @@ description: 흐름 단계 서비스 - Marketo 문서 - 제품 설명서
 title: 흐름 단계 서비스
 exl-id: 81367562-8b27-4ec5-8a9b-b02083a2e999
 feature: Smart Campaigns
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 2eeb7ea7fd43ba75a3c802a91ce07c90dc8abd91
 workflow-type: tm+mt
-source-wordcount: '1220'
+source-wordcount: '1207'
 ht-degree: 0%
 
 ---
@@ -16,13 +16,13 @@ ht-degree: 0%
 
 ## 온보딩 및 서비스 관리 {#onboarding-and-managing-services}
 
-사용자 지정 흐름 단계를 설치하려면 Marketo의 관리자 권한이 필요합니다(**웹 후크 관리** 1월 21일 릴리스, 3월 11일 릴리스에서 변경). 설치 URL과는 별도로, 서비스 공급자 그리드에서 서비스 세부 정보 화면으로 드릴다운하여 초기 온보딩을 완료한 후 서비스의 다른 모든 측면을 편집할 수 있습니다.
+사용자 지정 흐름 단계를 설치하려면 Marketo에서 관리자 권한이 필요합니다. 설치 URL과는 별도로, 서비스 공급자 그리드에서 서비스 세부 정보 화면으로 드릴다운하여 초기 온보딩을 완료한 후 서비스의 다른 모든 측면을 편집할 수 있습니다.
 
 ## 설치 URL {#installation-url}
 
 설치를 시작하려면 먼저 서비스를 정의하는 OpenAPI 문서의 URL을 가져와야 합니다. 서비스 공급업체는 이를 제공할 수 있어야 하며 일반적으로 다음으로 끝나는 URL을 갖게 됩니다. `/openapi.json`. 전체 URL은 다음과 같이 표시됩니다. `https://www.example.com/OpenAPI.json`. 이 URL이 있으면 관리 섹션의 서비스 공급자 메뉴로 이동합니다.
 
-클릭 **다음** 서비스 자격 증명 입력 섹션으로 이동합니다.
+클릭 **[!UICONTROL 다음]** 서비스 자격 증명 입력 섹션으로 이동합니다.
 
 ![](assets/flow-step-service-1.png)
 

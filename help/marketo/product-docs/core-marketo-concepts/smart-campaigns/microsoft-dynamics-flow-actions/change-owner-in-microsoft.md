@@ -4,7 +4,7 @@ description: Microsoft - Marketo 문서 - 제품 설명서에서 소유자 변�
 title: Microsoft에서 소유자 변경
 exl-id: d17cfb70-1d78-48e9-8e53-99a7abd5a647
 feature: Smart Campaigns, Microsoft Dynamics
-source-git-commit: d20a9bb584f69282eefae3704ce4be2179b29d0b
+source-git-commit: 2eeb7ea7fd43ba75a3c802a91ce07c90dc8abd91
 workflow-type: tm+mt
 source-wordcount: '91'
 ht-degree: 1%
@@ -17,7 +17,7 @@ ht-degree: 1%
 
 >[!NOTE]
 >
->이 흐름 단계는 **트리거와 함께 사용할 때만 작동합니다.**, 스마트 캠페인에서 필터 아님.
+>이 흐름 단계는 _트리거와 함께 사용할 때만 작동합니다._, 스마트 캠페인에서 필터 아님.
 
 ![](assets/one-1.png)
 
