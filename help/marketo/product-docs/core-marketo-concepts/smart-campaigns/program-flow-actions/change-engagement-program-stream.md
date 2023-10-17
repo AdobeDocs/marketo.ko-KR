@@ -4,7 +4,7 @@ description: 참여 프로그램 스트림 변경 - Marketo 문서 - 제품 설�
 title: 참여 프로그램 스트림 변경
 exl-id: 1b8dd04b-3af8-4733-b630-b06c4b06bb75
 feature: Smart Campaigns
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 4bae0126d6b36720e170bea7b6b973508c855633
 workflow-type: tm+mt
 source-wordcount: '95'
 ht-degree: 2%
@@ -15,7 +15,7 @@ ht-degree: 2%
 
 ## 개요 {#overview}
 
-일반적으로 [스트림 전환 규칙](/help/marketo/product-docs/email-marketing/drip-nurturing/engagement-program-streams/transition-people-between-engagement-streams.md) 이를 위해 그러나 한 스트림에서 다른 스트림으로 사람들을 수동으로 이동하려는 경우 사용할 흐름 단계입니다.
+일반적으로 [스트림 전환 규칙](/help/marketo/product-docs/email-marketing/drip-nurturing/engagement-program-streams/transition-people-between-engagement-streams.md) 이를 위해. 하지만 한 스트림에서 다른 스트림으로 사람을 수동으로 이동하려는 경우 사용할 흐름 단계입니다.
 
 ![](assets/image2014-9-22-14-3a52-3a14.png)
 

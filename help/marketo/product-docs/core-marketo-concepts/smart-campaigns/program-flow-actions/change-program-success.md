@@ -4,7 +4,7 @@ description: 프로그램 변경 성공 - Marketo 문서 - 제품 설명서
 title: 프로그램 변경 성공
 exl-id: 5b45b6d0-0c3d-4677-8b9a-8bbf03b1209e
 feature: Smart Campaigns
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 4bae0126d6b36720e170bea7b6b973508c855633
 workflow-type: tm+mt
 source-wordcount: '141'
 ht-degree: 1%
@@ -29,7 +29,7 @@ ht-degree: 1%
 
    ![](assets/image2014-9-22-14-3a45-3a35.png)
 
-1. 선택 **성공** 또는 **성공 날짜** 를 속성으로 사용하십시오.
+1. 선택 **[!UICONTROL 성공]** 또는 **[!UICONTROL 성공 날짜]** 를 속성으로 사용하십시오.
 
    ![](assets/image2014-9-22-14-3a45-3a39.png)
 
@@ -37,7 +37,7 @@ ht-degree: 1%
    >
    >성공 날짜를 아무 것이나 설정하면 자동으로 성공이 true로 설정됩니다. Success를 true로 설정하면 성공 날짜가 현재 날짜로 자동 설정됩니다.
 
-1. 설정 **새 값** 끝 **True** 또는 **False**.
+1. 설정 **[!UICONTROL 새 값]** 끝 **[!UICONTROL True]** 또는 **[!UICONTROL False]**.
 
    ![](assets/image2014-9-22-14-3a45-3a55.png)
 

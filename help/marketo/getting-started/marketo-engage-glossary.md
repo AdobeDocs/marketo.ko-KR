@@ -4,9 +4,9 @@ description: Marketo Engage 용어집 - Marketo 설명서 - 제품 설명서
 title: Marketo Engage 용어집
 exl-id: c387b880-708c-439c-99c3-46eb5ccb4536
 feature: Getting Started
-source-git-commit: 096936c8bc94bbbfc5213a6b45913b300f547b90
+source-git-commit: 4bae0126d6b36720e170bea7b6b973508c855633
 workflow-type: tm+mt
-source-wordcount: '4176'
+source-wordcount: '4128'
 ht-degree: 1%
 
 ---
@@ -118,10 +118,6 @@ ht-degree: 1%
   </tr> 
  </tbody> 
 </table>
-
->[!NOTE]
->
->Marketo은 우리 제품의 블랙리스트 및 허용 목록에 추가하다와 차단 목록에 추가하다에 대한 화이트 리스트 등의 용어를 변경 중입니다. 이 업데이트 중에 UI 및 설명서 스크린샷에서 이전 용어를 보고 설명서 텍스트에서 새 용어를 볼 수 있습니다. 착오가 있었다면 죄송합니다.
 
 ## C {#c}
 

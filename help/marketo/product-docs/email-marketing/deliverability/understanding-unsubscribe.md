@@ -4,9 +4,9 @@ description: 구독 취소 이해 - Marketo 문서 - 제품 설명서
 title: 구독 취소 이해
 exl-id: 30866dc0-cdac-4e73-8dbf-d4b509012269
 feature: Deliverability
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 4bae0126d6b36720e170bea7b6b973508c855633
 workflow-type: tm+mt
-source-wordcount: '265'
+source-wordcount: '217'
 ht-degree: 1%
 
 ---
@@ -14,10 +14,6 @@ ht-degree: 1%
 # 구독 취소 이해 {#understanding-unsubscribe}
 
 실제로 Marketo에는 몇 가지 유형의 기본 제공 구독 취소가 있습니다. 모두 이름과 마찬가지로 사용자 개체의 필드로 표시됩니다.
-
->[!NOTE]
->
->Marketo은 우리 제품의 블랙리스트 및 허용 목록에 추가하다와 차단 목록에 추가하다에 대한 화이트 리스트 등의 용어를 변경 중입니다. 이 업데이트 중에 UI 및 설명서 스크린샷에서 이전 용어를 보고 설명서 텍스트에서 새 용어를 볼 수 있습니다. 착오가 있었다면 죄송합니다.
 
 이러한 모든 필드는 Marketo 구독에 내장되어 있습니다. 모두 부울(확인란) 유형입니다. Forms 또는 [데이터 값 변경](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/change-data-value.md) 흐름 단계.
 
@@ -37,7 +33,7 @@ ht-degree: 1%
 >
 >일시 중단된 이메일은 24시간 기간이 끝난 후에도 계속 확인되므로 역사적으로 이와 같이 표시된 사용자를 참조할 수 있습니다. 해당 사용자가 우편 발송이 가능한지 확인하려면 이메일 일시 중단 시점 후 24시간을 계산하면 됩니다.
 
-## 차단 목록에 추가된 덧신 {#blocklisted}
+## 차단 목록에 추가된 {#blocklisted}
 
 [경쟁사와 같은 사용자에게 사용](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/managing-people-in-smart-lists/add-person-to-blocklist.md). 받고 싶은 모든 사람 **아니요** 이메일—운영, 마케팅 등 아무것도 얻지 못해!
 

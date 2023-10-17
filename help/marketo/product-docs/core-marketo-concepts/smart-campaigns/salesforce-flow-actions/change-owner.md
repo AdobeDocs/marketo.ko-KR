@@ -4,7 +4,7 @@ description: 소유자 변경 - Marketo 문서 - 제품 설명서
 title: 소유자 변경
 exl-id: b22c5cd8-1b53-4802-8b49-7f607c8a601b
 feature: Smart Campaigns, Salesforce Integration
-source-git-commit: d20a9bb584f69282eefae3704ce4be2179b29d0b
+source-git-commit: 4bae0126d6b36720e170bea7b6b973508c855633
 workflow-type: tm+mt
 source-wordcount: '170'
 ht-degree: 0%
@@ -29,7 +29,7 @@ ht-degree: 0%
    >
    >1. Marketo에서 중복 리드를 생성합니다. **전용** 연락처가 Salesforce에 동기화되는 경우입니다. 즉, **[사용자를 SFDC에 동기화](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/salesforce-flow-actions/sync-person-to-sfdc.md)** 다음으로 흐름 단계 `AssignTo=<a lead queue>`, Marketo은 Salesforce에서 중복 리드를 만들고 리드 큐에 할당합니다.
    >
-   >1. 를 사용하는 경우 **소유자 변경** 연락처의 흐름 단계에서 Marketo은 Salesforce에서 중복 리드를 만듭니다. 이 문제를 방지하려면 작업을 리드로만 제한하는 &#39;SFDC 유형&#39; 필드의 필터를 사용하십시오.
+   >1. 를 사용하는 경우 **[!UICONTROL 소유자 변경]** 연락처의 흐름 단계에서 Marketo은 Salesforce에서 중복 리드를 만듭니다. 이 문제를 방지하려면 작업을 리드로만 제한하는 &#39;SFDC 유형&#39; 필드의 필터를 사용하십시오.
 
    >[!NOTE]
    >

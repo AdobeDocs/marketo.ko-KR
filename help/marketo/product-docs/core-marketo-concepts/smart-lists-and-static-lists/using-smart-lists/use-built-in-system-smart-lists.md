@@ -4,9 +4,9 @@ description: 기본 제공/시스템 스마트 목록 사용 - Marketo 문서 - 
 title: 기본 제공/시스템 스마트 목록 사용
 exl-id: f4db0e02-2250-4c56-ba74-f9fa8a5b9c11
 feature: Smart Lists
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 4bae0126d6b36720e170bea7b6b973508c855633
 workflow-type: tm+mt
-source-wordcount: '242'
+source-wordcount: '194'
 ht-degree: 1%
 
 ---
@@ -14,10 +14,6 @@ ht-degree: 1%
 # 기본 제공/시스템 스마트 목록 사용 {#use-built-in-system-smart-lists}
 
 Marketo에는 매우 유용한 내장 스마트 목록이 있습니다. 확인해 보자!
-
->[!NOTE]
->
->Marketo은 우리 제품의 블랙리스트 및 허용 목록에 추가하다와 차단 목록에 추가하다에 대한 화이트 리스트 등의 용어를 변경 중입니다. 이 업데이트 중에 UI 및 설명서 스크린샷에서 이전 용어를 보고 설명서 텍스트에서 새 용어를 볼 수 있습니다. 착오가 있었다면 죄송합니다.
 
 1. 로 이동 **데이터베이스**.
 
