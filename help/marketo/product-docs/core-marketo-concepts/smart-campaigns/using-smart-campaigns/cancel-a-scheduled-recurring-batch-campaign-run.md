@@ -4,7 +4,7 @@ description: 예약된 반복 배치 캠페인 실행 취소 - Marketo 문서 - 
 title: 예약된 반복 배치 캠페인 실행 취소
 exl-id: 7a659d4e-e546-4630-a36f-38ed80dd2a6e
 feature: Smart Campaigns
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: fec5219c599c805328d77797d2636e549e489ca5
 workflow-type: tm+mt
 source-wordcount: '121'
 ht-degree: 0%
@@ -25,9 +25,9 @@ ht-degree: 0%
 
    >[!TIP]
    >
-   >다음을 클릭하여 단일 실행을 취소할 수 있습니다. ![빨간색 x](assets/cancel-a-scheduled-recurring-batch-campaign-run-3.png) 옆에. 방법 알아보기 [예약된 일괄 캠페인 실행 취소](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/using-smart-campaigns/cancel-a-scheduled-batch-campaign-run.md).
+   >다음을 클릭하여 단일 실행을 취소할 수 있습니다. ![빨간색 x](assets/cancel-a-scheduled-recurring-batch-campaign-run-3.png) 옆에. 방법 알아보기 [예약된 일괄 캠페인 실행 취소](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/using-smart-campaigns/cancel-a-scheduled-batch-campaign-run.md){target="_blank"}.
 
-1. 일정 설정 **없음** 및 클릭 **저장**.
+1. 일정 설정 **[!UICONTROL 없음]** 및 클릭 **[!UICONTROL 저장]**.
 
    ![](assets/cancel-a-scheduled-recurring-batch-campaign-run-4.png)
 
@@ -39,4 +39,4 @@ ht-degree: 0%
 
    >[!MORELIKETHIS]
    >
-   >[예약된 일괄 캠페인 실행 취소](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/using-smart-campaigns/cancel-a-scheduled-batch-campaign-run.md)
+   >[예약된 일괄 캠페인 실행 취소](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/using-smart-campaigns/cancel-a-scheduled-batch-campaign-run.md){target="_blank"}

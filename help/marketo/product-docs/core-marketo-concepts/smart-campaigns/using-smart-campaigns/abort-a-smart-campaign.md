@@ -4,9 +4,9 @@ description: 스마트 캠페인 중단 - Marketo 문서 - 제품 설명서
 title: 스마트 캠페인 중단
 exl-id: 1d80e67a-324c-4a99-bda3-57074a24ea3d
 feature: Smart Campaigns
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: fec5219c599c805328d77797d2636e549e489ca5
 workflow-type: tm+mt
-source-wordcount: '147'
+source-wordcount: '144'
 ht-degree: 0%
 
 ---
@@ -19,15 +19,15 @@ ht-degree: 0%
 
 경우에 따라 Smart Campaign을 시작하고 오류가 있음을 즉시 깨닫게 됩니다. 다음은 비상 브레이크를 당기고 스마트 캠페인 중계를 중단하는 방법입니다.
 
-1. 원하는 스마트 캠페인을 선택하고 **예약** 탭.
+1. 원하는 스마트 캠페인을 선택하고 **[!UICONTROL 예약]** 탭.
 
    ![](assets/abort-a-smart-campaign-1.png)
 
-1. 다음을 클릭합니다. **캠페인 작업** 드롭다운. 선택 **캠페인 중단**.
+1. 다음을 클릭합니다. **[!UICONTROL 캠페인 작업]** 드롭다운. 선택 **[!UICONTROL 캠페인 중단]**.
 
    ![](assets/abort-a-smart-campaign-2.png)
 
-1. 클릭 **중단** 확인할 수 있습니다.
+1. 클릭 **[!UICONTROL 중단]** 확인할 수 있습니다.
 
    ![](assets/abort-a-smart-campaign-3.png)
 
@@ -39,10 +39,10 @@ ht-degree: 0%
 
    >[!NOTE]
    >
-   >다음을 살펴보십시오. **결과** 중단하기 전에 수행한 작업을 확인하는 Smart Campaign 탭입니다. 다음 항목도 찾을 수 있습니다  [알림](/help/marketo/product-docs/core-marketo-concepts/miscellaneous/understanding-notifications.md) 추가 세부 정보.
+   >다음을 살펴보십시오. **[!UICONTROL 결과]** 중단하기 전에 수행한 작업을 확인하는 Smart Campaign 탭입니다. 다음 항목도 찾을 수 있습니다  [알림](/help/marketo/product-docs/core-marketo-concepts/miscellaneous/understanding-notifications.md){target="_blank"} 추가 세부 정보.
 
    >[!TIP]
    >
-   >트리거 캠페인의 흐름에서 사람을 제거하시겠습니까? 체크아웃 [플로우에서 제거](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/remove-from-flow.md).
+   >트리거 캠페인의 흐름에서 사람을 제거하시겠습니까? 체크아웃 [플로우에서 제거](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/remove-from-flow.md){target="_blank"}.
 
-항상 업무를 재점검하지만, 이 비상 브레이크는 미래에 쓸모가 있을 것이다.
+항상 업무를 재점검하지만, 이 비상 브레이크는 쓸모가 있을 것이다.

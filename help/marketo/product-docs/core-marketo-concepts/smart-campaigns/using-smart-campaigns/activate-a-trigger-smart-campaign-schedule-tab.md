@@ -4,7 +4,7 @@ description: 스마트 캠페인 트리거 활성화 | 예약 탭 - Marketo 문�
 title: 스마트 캠페인 트리거 활성화 | 예약 탭
 exl-id: f9232c91-aa39-4033-bd11-865d1cbc5eb2
 feature: Smart Campaigns
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: fec5219c599c805328d77797d2636e549e489ca5
 workflow-type: tm+mt
 source-wordcount: '86'
 ht-degree: 0%
@@ -15,7 +15,7 @@ ht-degree: 0%
 
 스마트 캠페인 트리거를 활성화하는 것은 켜는 것과 같습니다. 할 일이 있습니다.
 
-1. 스마트 캠페인의 **예약** 탭을 클릭하고 **활성화**.
+1. 스마트 캠페인의 **[!UICONTROL 예약]** 탭을 클릭하고 **[!UICONTROL 활성화]**.
 
    ![](assets/activate-a-trigger-smart-campaign-schedule-tab-1.png)
 
@@ -23,11 +23,11 @@ ht-degree: 0%
    >
    >활성화하기 전에 스마트 캠페인을 검토하십시오.
 
-1. 클릭 **활성화** 다시.
+1. 클릭 **[!UICONTROL 활성화]** 다시.
 
    ![](assets/activate-a-trigger-smart-campaign-schedule-tab-2.png)
 
-   >[!CAUTION]
+   >[!TIP]
    >
    >활성화하기 전에 캠페인이 준비되었는지 확인하십시오.
 

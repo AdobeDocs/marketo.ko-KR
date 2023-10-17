@@ -4,7 +4,7 @@ description: 스마트 캠페인에서 자격 규칙 편집 - Marketo 문서 - �
 title: Smart Campaign에서 자격 규칙 편집
 exl-id: 8b016fe4-8caf-4266-9f8f-2b05dae78cff
 feature: Smart Campaigns
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: fec5219c599c805328d77797d2636e549e489ca5
 workflow-type: tm+mt
 source-wordcount: '212'
 ht-degree: 0%
@@ -13,17 +13,17 @@ ht-degree: 0%
 
 # Smart Campaign에서 자격 규칙 편집 {#edit-qualification-rules-in-a-smart-campaign}
 
-자격 규칙은 스마트 캠페인에서 플로우를 통해 실행할 수 있는 횟수를 제어합니다. 기본적으로 어떤 사람이 스마트 캠페인을 여러 번 트리거하더라도 흐름은 한 번만 전송됩니다. 이러한 설정을 수정하는 방법은 다음과 같습니다.
+자격 규칙은 스마트 캠페인에서 누군가가 플로우를 통해 실행할 수 있는 횟수를 제어합니다. 기본적으로 어떤 사용자가 Smart Campaign을 여러 번 트리거하더라도 흐름은 한 번만 전송됩니다. 이러한 설정을 수정하는 방법은 다음과 같습니다.
 
-1. 스마트 캠페인에서 **예약** tab 키를 누른 다음 **설정 편집**.
+1. 스마트 캠페인에서 **[!UICONTROL 예약]** tab 키를 누른 다음 **[!UICONTROL 설정 편집]**.
 
    ![](assets/edit-qualification-rules-in-a-smart-campaign-1.png)
 
    >[!TIP]
    >
-   >다음을 클릭할 수도 있습니다. **편집** &quot;스마트 캠페인 설정&quot;의 오른쪽에 있습니다.
+   >다음을 클릭할 수도 있습니다. **[!UICONTROL 편집]** &quot;스마트 캠페인 설정&quot;의 오른쪽에 있습니다.
 
-1. 스마트 캠페인 흐름을 통해 직원을 실행하는 빈도를 선택하십시오. **한 번만**, **항상**, 또는 **# 일에 한 번**/**주**/**개월**.
+1. Smart Campaign 흐름을 통해 직원을 실행하는 빈도를 선택하십시오. **[!UICONTROL 한 번만]**, **[!UICONTROL 항상]**, 또는 **# 일에 한 번**/**주**/**개월**.
 
    ![](assets/edit-qualification-rules-in-a-smart-campaign-2.png)
 
@@ -33,10 +33,10 @@ ht-degree: 0%
 
    >[!NOTE]
    >
-   >기본적으로 스마트 캠페인에는 통신 제한이 적용되지 않습니다. 방법 알아보기 [스마트 캠페인에 통신 제한 적용](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/using-smart-campaigns/apply-communication-limits-to-smart-campaign.md).
+   >기본적으로 스마트 캠페인에는 통신 제한이 적용되지 않습니다. 방법 알아보기 [스마트 캠페인에 통신 제한 적용](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/using-smart-campaigns/apply-communication-limits-to-smart-campaign.md){target="_blank"}.
 
    >[!NOTE]
    >
-   >[스마트 캠페인에 통신 제한 적용](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/using-smart-campaigns/apply-communication-limits-to-smart-campaign.md)
+   >[스마트 캠페인에 통신 제한 적용](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/using-smart-campaigns/apply-communication-limits-to-smart-campaign.md){target="_blank"}
 
-임무 완수! 이제 스마트 캠페인에서 자격 규칙을 제어하는 방법을 알 수 있습니다.
+임무 완수! 이제 Smart Campaign에서 자격 규칙을 제어하는 방법을 알 수 있습니다.
