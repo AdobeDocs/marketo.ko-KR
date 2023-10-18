@@ -4,9 +4,9 @@ description: 업로드한 이미지 또는 파일 바꾸기 - Marketo 문서 - �
 title: 업로드한 이미지 또는 파일 바꾸기
 exl-id: 2bd936bc-2103-49b0-98b5-55f45674a257
 feature: Image Editor
-source-git-commit: fbfbc22477b5e1596a2491cb34cf2bd63601bc63
+source-git-commit: 74266763ab61379d50560f18fa65bbb35c37feb0
 workflow-type: tm+mt
-source-wordcount: '113'
+source-wordcount: '115'
 ht-degree: 0%
 
 ---
@@ -25,7 +25,7 @@ ht-degree: 0%
 
    ![](assets/replace-an-uploaded-image-or-file-3.png)
 
-1. 컴퓨터를 드래그 앤 드롭하거나 찾아 교체 파일을 찾습니다.
+1. 컴퓨터를 드래그 앤 드롭하거나 찾아 교체 이미지/파일을 찾습니다.
 
    ![](assets/replace-an-uploaded-image-or-file-4.png)
 
@@ -33,7 +33,7 @@ ht-degree: 0%
    >
    >대체 파일 유형은 원본(예: .jpg)과 동일해야 합니다.
 
-1. 대체 파일을 선택한 후 **[!UICONTROL 바꾸기]**.
+1. 대체 이미지/파일을 선택한 후 **[!UICONTROL 바꾸기]**.
 
    ![](assets/replace-an-uploaded-image-or-file-5.png)
 
