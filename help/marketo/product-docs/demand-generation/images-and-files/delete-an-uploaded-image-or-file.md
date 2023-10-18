@@ -4,43 +4,43 @@ description: 업로드된 이미지 또는 파일 삭제 - Marketo 문서 - 제�
 title: 업로드된 이미지 또는 파일 삭제
 exl-id: 291ea4f3-a317-4696-b26e-0d69bf4581e3
 feature: Image Editor
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: fbfbc22477b5e1596a2491cb34cf2bd63601bc63
 workflow-type: tm+mt
-source-wordcount: '135'
+source-wordcount: '107'
 ht-degree: 0%
 
 ---
 
 # 업로드된 이미지 또는 파일 삭제 {#delete-an-uploaded-image-or-file}
 
-1. 로 이동 **디자인** **스튜디오**.
+이미지 또는 파일을 삭제하는 것은 빠르고 쉽습니다.
 
-   ![](assets/designstudio-5.png)
+>[!CAUTION]
+>
+>일단 삭제되면 이미지 / 파일은 Marketo Engage에서 완전히 제거되며 복구 할 수 없습니다.
 
-1. 선택 **이미지 및 파일** 왼쪽 메뉴에서 삭제할 파일 이름 옆에 있는 을 클릭합니다.
+1. 로 이동 **[!UICONTROL Design Studio]**.
 
-   ![](assets/image2014-9-16-11-3a18-3a15.png)
+   ![](assets/delete-an-uploaded-image-or-file-1.png)
 
-1. 다음을 클릭합니다. **파일 작업** 드롭다운 및 선택 **삭제**.
+1. 선택 **[!UICONTROL 이미지 및 파일]**
 
-   ![](assets/image2014-9-16-11-3a18-3a22.png)
+   ![](assets/delete-an-uploaded-image-or-file-2.png)
 
-1. 올바른 파일을 선택했는지 확인하고 **삭제**.
+1. 원하는 이미지/파일을 찾아 선택합니다. 다음을 클릭합니다. **[!UICONTROL 이미지 및 파일 작업]** 드롭다운 및 선택 **[!UICONTROL 삭제]**.
 
-   ![](assets/image2014-9-16-11-3a18-3a30.png)
+   ![](assets/delete-an-uploaded-image-or-file-3.png)
 
-   >[!CAUTION]
+1. 올바른 파일을 선택했는지 확인하고 **[!UICONTROL 삭제]**.
+
+   ![](assets/delete-an-uploaded-image-or-file-4.png)
+
+   >[!NOTE]
    >
-   >삭제된 이미지 및 파일은 Marketo에서 완전히 제거되며 복구할 수 없습니다.  더 이상 사용 중이던 랜딩 페이지나 이메일에 표시되지 않습니다.
-
-1. (으)로 돌아갑니다. **이미지** 및 **파일** 파일이 삭제된 페이지입니다.
-
-   ![](assets/image2014-9-16-11-3a19-3a0.png)
-
-잘했어!
+   >에셋이 현재 사용 중인 경우 삭제되지 않습니다.
 
 >[!MORELIKETHIS]
 >
->* [업로드한 이미지 또는 파일 바꾸기](/help/marketo/product-docs/demand-generation/images-and-files/replace-an-uploaded-image-or-file.md)
->* [업로드된 이미지 및 파일 검색](/help/marketo/product-docs/demand-generation/images-and-files/search-uploaded-images-and-files.md)
->* [업로드된 이미지 또는 파일의 URL 찾기](/help/marketo/product-docs/demand-generation/images-and-files/find-the-url-of-an-uploaded-image-or-file.md)
+>* [업로드한 이미지 또는 파일 바꾸기](/help/marketo/product-docs/demand-generation/images-and-files/replace-an-uploaded-image-or-file.md){target="_blank"}
+>* [업로드된 이미지 및 파일 검색](/help/marketo/product-docs/demand-generation/images-and-files/search-uploaded-images-and-files.md){target="_blank"}
+>* [업로드된 이미지 또는 파일의 URL 찾기](/help/marketo/product-docs/demand-generation/images-and-files/find-the-url-of-an-uploaded-image-or-file.md){target="_blank"}

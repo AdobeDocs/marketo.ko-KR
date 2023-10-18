@@ -4,22 +4,22 @@ description: 업로드된 이미지 및 파일 검색 - Marketo 문서 - 제품 
 title: 업로드된 이미지 및 파일 검색
 exl-id: c8eb7493-768a-4580-a76e-5b59ca9c14b1
 feature: Image Editor
-source-git-commit: 929d2eff975c491b29b93cef96a5c59a1f833474
+source-git-commit: fbfbc22477b5e1596a2491cb34cf2bd63601bc63
 workflow-type: tm+mt
-source-wordcount: '85'
+source-wordcount: '87'
 ht-degree: 0%
 
 ---
 
 # 업로드된 이미지 및 파일 검색 {#search-uploaded-images-and-files}
 
-Marketo에서 이미지와 파일을 찾는 것은 쉬운 일이 아닙니다.
+이미지 또는 파일 검색을 수행하는 방법에 대해 알아봅니다.
 
-1. 로 이동 **Design Studio**.
+1. 로 이동 **[!UICONTROL Design Studio]**.
 
    ![](assets/search-uploaded-images-and-files-1.png)
 
-1. 클릭 **이미지 및 파일** 업로드한 모든 파일의 전체 목록입니다.
+1. 클릭 **[!UICONTROL 이미지 및 파일]** 업로드한 모든 파일의 전체 목록입니다.
 
    ![](assets/search-uploaded-images-and-files-2.png)
 
