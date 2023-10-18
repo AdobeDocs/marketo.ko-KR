@@ -4,7 +4,7 @@ description: 구성원 관리 및 보기 - Marketo 문서 - 제품 설명서
 title: 구성원 관리 및 보기
 exl-id: 8d6ad815-4022-4d4b-a258-2bc048ca48f9
 feature: Programs
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: e49860ae611f2f77789bb491aeccbee46a911a2c
 workflow-type: tm+mt
 source-wordcount: '251'
 ht-degree: 0%
@@ -17,13 +17,13 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->자세히 알아보기 [프로그램 멤버십](/help/marketo/product-docs/core-marketo-concepts/programs/creating-programs/understanding-program-membership.md).
+>자세히 알아보기 [프로그램 멤버십](/help/marketo/product-docs/core-marketo-concepts/programs/creating-programs/understanding-program-membership.md){target="_blank"}.
 
 ## 구성원 검색 {#search-for-a-member}
 
 멤버 섹션 하단에서 검색 필드를 사용하여 이름, 이메일, 직함 또는 회사별로 프로그램 멤버를 검색합니다.
 
-1. 다음을 클릭합니다. **구성원** 프로그램 탭
+1. 다음을 클릭합니다. **[!UICONTROL 구성원]** 프로그램 탭
 
    ![](assets/image2014-10-1-16-3a0-3a29.png)
 
@@ -49,21 +49,21 @@ ht-degree: 0%
 
 ## 그리드에 표시할 열 선택 {#choose-which-columns-are-visible-in-the-grid}
 
-1. 다음을 클릭합니다. **보기** 드롭다운 및 선택 **보기 만들기**.
+1. 다음을 클릭합니다. **[!UICONTROL 보기]** 드롭다운 및 선택 **[!UICONTROL 보기 만들기]**.
 
    ![](assets/image2014-10-1-16-3a32-3a43.png)
 
-1. 사용자 정의 보기에 이름을 지정합니다. 열 제목을 선택합니다. 클릭 **추가** 및 **제거** 열을 이동하고 보기를 만들 수 있습니다.
+1. 사용자 정의 보기에 이름을 지정합니다. 열 제목을 선택합니다. 클릭 **[!UICONTROL 추가]** 및 **[!UICONTROL 제거]** 열을 이동하고 보기를 만들 수 있습니다.
 
    ![](assets/image2014-10-1-16-3a36-3a52.png)
 
-1. Click **Create**.
+1. Click **[!UICONTROL Create]**.
 
    ![](assets/image2014-10-1-16-3a38-3a7.png)
 
 ## 멤버 그리드 필터링  {#filter-the-members-grid}
 
-1. 다음을 클릭합니다. **필터** 드롭다운을 클릭하고 정렬할 승급 단계를 선택합니다.
+1. 다음을 클릭합니다. **[!UICONTROL 필터]** 드롭다운을 클릭하고 정렬할 승급 단계를 선택합니다.
 
    ![](assets/image2014-10-1-16-3a42-3a4.png)
 
@@ -71,11 +71,11 @@ ht-degree: 0%
 
 멤버 그리드 내에서 사용자의 상태를 변경할 수 있습니다.
 
-1. 누르고 있음 **Ctrl/Cmd** 사람을 선택합니다.
+1. 누르고 있음 **[!UICONTROL Ctrl/Cmd]** 사람을 선택합니다.
 
    ![](assets/image2014-10-1-16-3a44-3a27.png)
 
-1. 다음을 클릭합니다. **상태 변경** 드롭다운을 클릭하고 상태를 선택합니다.
+1. 다음을 클릭합니다. **[!UICONTROL 상태 변경]** 드롭다운을 클릭하고 상태를 선택합니다.
 
    ![](assets/image2014-10-1-16-3a47-3a45.png)
 
@@ -87,4 +87,4 @@ ht-degree: 0%
 
 >[!MORELIKETHIS]
 >
->[프로그램 성과 보고서 만들기](/help/marketo/product-docs/core-marketo-concepts/programs/program-performance-report/create-a-program-performance-report.md)
+>[프로그램 성과 보고서 만들기](/help/marketo/product-docs/core-marketo-concepts/programs/program-performance-report/create-a-program-performance-report.md){target="_blank"}

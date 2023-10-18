@@ -4,9 +4,9 @@ description: 프로그램 삭제 - Marketo 문서 - 제품 설명서
 title: 프로그램 삭제
 exl-id: c13dbb4a-36ea-49ee-aee2-a4af28750b0f
 feature: Programs
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: e49860ae611f2f77789bb491aeccbee46a911a2c
 workflow-type: tm+mt
-source-wordcount: '175'
+source-wordcount: '177'
 ht-degree: 0%
 
 ---
@@ -19,15 +19,15 @@ ht-degree: 0%
 
 ![](assets/image2014-9-23-15-3a40-3a57.png)
 
-1. 클릭 **프로그램 동작**. 클릭 **삭제**.
+1. 다음을 클릭합니다. **[!UICONTROL 프로그램 동작]** 드롭다운 및 선택 **[!UICONTROL 삭제]**.
 
    ![](assets/image2014-9-23-15-3a41-3a11.png)
 
-1. 모두 삭제 옵션을 선택합니다. 프로그램 삭제의 부작용을 검토하고 **삭제** 확인할 수 있습니다.
+1. &quot;모두 삭제...&quot; 라디오 단추를 선택합니다. 프로그램 삭제의 효과를 검토한 다음 **[!UICONTROL 삭제]** 확인할 수 있습니다.
 
 >[!TIP]
 >
->**프로그램 보관** 는 프로그램 데이터를 유지하지만 프로그램은 방해가 됩니다. 해당 옵션을 선택한 다음 **다음** 을 클릭하여 아카이브에 대한 자세한 내용을 확인하십시오.
+>프로그램을 보관하면 프로그램 데이터는 유지되지만 프로그램은 방해가 됩니다. 해당 옵션을 선택한 다음 **[!UICONTROL 다음]** 을 클릭하여 아카이브에 대한 자세한 내용을 확인하십시오.
 
 ![](assets/2017-05-05-15-04-15.png)
 
@@ -43,7 +43,7 @@ ht-degree: 0%
 
    ![](assets/image2014-9-23-15-3a42-3a10.png)
 
-1. 클릭 **사용한 사람** 을 클릭하여 자산을 사용 중인 위치를 확인합니다.
+1. 클릭 **[!UICONTROL 사용한 사람]** 을 클릭하여 자산을 사용 중인 위치를 확인합니다.
 
    ![](assets/image2014-9-23-15-3a42-3a57.png)
 

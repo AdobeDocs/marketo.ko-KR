@@ -4,7 +4,7 @@ description: 프로그램 멤버 사용자 정의 필드 - Marketo 문서 - 제�
 title: 프로그램 멤버 사용자 정의 필드
 exl-id: 66b5dac6-015f-4907-8c82-78c932102463
 feature: Programs
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: e49860ae611f2f77789bb491aeccbee46a911a2c
 workflow-type: tm+mt
 source-wordcount: '411'
 ht-degree: 1%
@@ -17,15 +17,15 @@ ht-degree: 1%
 
 ## 프로그램 멤버 사용자 정의 필드 만들기 {#create-a-program-member-custom-field}
 
-1. Marketo에서 **관리자**.
+1. Marketo에서 **[!UICONTROL 관리자]**.
 
    ![](assets/one.png)
 
-1. 클릭 **필드 관리**.
+1. 클릭 **[!UICONTROL 필드 관리]**.
 
    ![](assets/two.png)
 
-1. 클릭 **새 사용자 정의 필드**.
+1. 클릭 **[!UICONTROL 새 사용자 정의 필드]**.
 
    ![](assets/three.png)
 
@@ -37,7 +37,7 @@ ht-degree: 1%
    >
    >사용자 및 프로그램 구성원 사용자 정의 필드는 같은 이름을 공유할 수 없습니다.
 
-1. 나머지 필드를 입력한 다음 **만들기**.
+1. 나머지 필드를 입력한 다음 **[!UICONTROL 만들기]**.
 
    ![](assets/five.png)
 

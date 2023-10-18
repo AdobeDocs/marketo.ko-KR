@@ -3,10 +3,10 @@ description: 프로그램 구성원 사용자 정의 필드 동기화 - Marketo 
 title: 프로그램 구성원 사용자 정의 필드 동기화
 exl-id: 7facfc79-a411-4ad9-b847-2002763af5bb
 feature: Programs
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: e49860ae611f2f77789bb491aeccbee46a911a2c
 workflow-type: tm+mt
-source-wordcount: '355'
-ht-degree: 5%
+source-wordcount: '353'
+ht-degree: 6%
 
 ---
 
@@ -23,11 +23,11 @@ ht-degree: 5%
 
 ## Salesforce 필드를 프로그램 멤버 사용자 정의 필드에 매핑 {#map-salesforce-fields-to-program-member-custom-fields}
 
-1. Marketo에서 **관리자**.
+1. Marketo에서 **[!UICONTROL 관리자]**.
 
    ![](assets/program-member-custom-field-sync-1.png)
 
-1. 클릭 **Salesforce**&#x200B;을 클릭한 다음 을 클릭합니다 **편집** 프로그램 멤버 사용자 정의 필드 동기화 옆에 있습니다.
+1. 클릭 **[!DNL Salesforce]**&#x200B;을 클릭한 다음 을 클릭합니다 **[!UICONTROL 편집]** 프로그램 멤버 사용자 정의 필드 동기화 옆에 있습니다.
 
    ![](assets/program-member-custom-field-sync-2.png)
 
@@ -49,7 +49,7 @@ ht-degree: 5%
 
 1. 추가 필드 매핑의 경우 검색 상자를 지우고 3~5단계를 반복합니다.
 
-1. 클릭 **저장** 완료 시.
+1. 클릭 **[!UICONTROL 저장]** 완료 시.
 
    ![](assets/program-member-custom-field-sync-6.png)
 
@@ -65,11 +65,11 @@ ht-degree: 5%
 
 필드를 바꾸기 위해 필드를 비우거나 일반적인 변경 내용을 적용하려는 경우 먼저 매핑 해제를 수행해야 합니다. 방법은 다음과 같습니다.
 
-1. Marketo에서 **관리자**.
+1. Marketo에서 **[!UICONTROL 관리자]**.
 
    ![](assets/program-member-custom-field-sync-7.png)
 
-1. 클릭 **Salesforce**&#x200B;을 클릭한 다음 을 클릭합니다 **편집** 프로그램 멤버 사용자 정의 필드 동기화 옆에 있습니다.
+1. 클릭 **[!DNL Salesforce]**&#x200B;을 클릭한 다음 을 클릭합니다 **[!UICONTROL 편집]** 프로그램 멤버 사용자 정의 필드 동기화 옆에 있습니다.
 
    ![](assets/program-member-custom-field-sync-8.png)
 
@@ -79,13 +79,13 @@ ht-degree: 5%
 
    >[!TIP]
    >
-   >다음을 선택할 수 있습니다. **매핑됨** 매핑된 필드만 볼 수 있는 확인란입니다.
+   >다음을 선택할 수 있습니다. **[!UICONTROL 매핑됨]** 매핑된 필드만 볼 수 있는 확인란입니다.
 
 1. 을(를) 클릭하여 매핑 해제 **X** 필드 옆.
 
    ![](assets/program-member-custom-field-sync-10.png)
 
-1. 이제 매핑이 제거됩니다. 클릭 **저장**.
+1. 이제 매핑이 제거됩니다. **[!UICONTROL 저장]**&#x200B;을 클릭합니다.
 
    ![](assets/program-member-custom-field-sync-11.png)
 
