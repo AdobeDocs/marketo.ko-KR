@@ -3,9 +3,9 @@ description: 대화형 웨비나 개요 - Marketo 문서 - 제품 설명서
 title: 대화형 웨비나 개요
 exl-id: c454f0a5-c9c6-48a4-8bbf-e1b10dc00eec
 feature: Interactive Webinars
-source-git-commit: 4eb28480b3863650a128a56393a8ef375f268982
+source-git-commit: b5fb106126e52a8d759e560d21e525e21154a4d6
 workflow-type: tm+mt
-source-wordcount: '394'
+source-wordcount: '421'
 ht-degree: 0%
 
 ---
@@ -47,3 +47,7 @@ ht-degree: 0%
 **Adobe Connect에서 제공하는 웨비나를 Launchpoint 이벤트 프로그램과 같은 대화형 웨비나 이벤트 프로그램에 다시 연결해야 합니까?**
 
 아니요. 대화형 웨비나 이벤트 프로그램을 사용하면 쉽게 연결할 수 있습니다.
+
+**대화형 웨비나는 자동으로 기록됩니까?**
+
+그렇지 않습니다. 웨비나가 시작되면 웨비나 이름 옆에 있는 드롭다운을 클릭하고 을 선택합니다 **세션 기록**.

@@ -3,9 +3,9 @@ description: 이벤트 워크플로 - Marketo 문서 - 제품 설명서
 title: 이벤트 워크플로
 exl-id: c9f44d9f-9210-4303-a9b5-22be1376efc4
 feature: Interactive Webinars
-source-git-commit: f085eb0169b7eabc7e4290f56a8805fc9048f761
+source-git-commit: b5fb106126e52a8d759e560d21e525e21154a4d6
 workflow-type: tm+mt
-source-wordcount: '309'
+source-wordcount: '333'
 ht-degree: 0%
 
 ---
@@ -40,6 +40,7 @@ ht-degree: 0%
 
 >[!NOTE]
 >
+>* 대화형 웨비나는 자동으로 기록되지 않습니다. 웨비나가 시작되면 웨비나 이름 옆에 있는 드롭다운을 클릭하고 을 선택합니다 **세션 기록**.
 >* 레코딩은 MP4 형식으로 다운로드됩니다.
 >* 녹화를 공유할 때는 링크가 있는 모든 사용자가 볼 수 있으므로 의도한 대상자와 공유되었는지 확인하십시오.
 
