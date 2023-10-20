@@ -4,10 +4,10 @@ description: 사용자 지정 DKIM 서명 설정 - Marketo 문서 - 제품 설�
 title: 사용자 지정 DKIM 서명 설정
 exl-id: a7c6429e-14ee-439e-9f47-1b25b98d41e7
 feature: Deliverability
-source-git-commit: 9e731fa02cd20b34f48c7f85241b97f4c507d4a9
+source-git-commit: aed161086948aa2cec0199771ba5b3b1491600f9
 workflow-type: tm+mt
-source-wordcount: '290'
-ht-degree: 1%
+source-wordcount: '345'
+ht-degree: 0%
 
 ---
 
@@ -33,9 +33,9 @@ ht-degree: 1%
 
    ![](assets/set-up-a-custom-dkim-signature-2.png)
 
-1, 클릭 **SPF/DKIM** 탭을 선택한 다음 **도메인 추가**.
+1. 다음을 클릭합니다. **SPF/DKIM** 탭을 선택한 다음 **도메인 추가**.
 
-![](assets/set-up-a-custom-dkim-signature-3.png)
+   ![](assets/set-up-a-custom-dkim-signature-3.png)
 
 1. Marketo 이메일에서 사용할 도메인을 보낸 사람 주소로 입력합니다. 선택기 및 키 크기를 선택합니다. 클릭 **추가** 완료 시.
 
@@ -45,6 +45,18 @@ ht-degree: 1%
    >
    >* 2048의 키 크기를 권장합니다.
    >* 보낸 사람 주소에서 다른 도메인을 사용하는 경우 Marketo 공유 DKIM 서명을 사용합니다.
+
+   <table> 
+   <tr>
+   <td width="20%"><b>선택기</b></td>
+   <td>DKIM 레코드의 공개 키 부분을 찾는 데 사용되는 고유한 문자열/식별자입니다. DKIM 키/레코드의 목적을 구분하여 식별하는 임의의 문자열이거나 고유 식별자일 수 있습니다.</td>
+   </tr>
+   <tr> 
+   <td width="20%"><b>키 크기</b></td>
+   <td>DKIM 서명을 암호화할 보안 수준입니다.</td>
+   </tr>
+   </tbody>
+   </table>
 
 1. 보내기 **호스트 레코드** 및 **TXT 값** IT에 레코드를 만들도록 요청하고 이 레코드가 from 도메인과 연결된 모든 이름 서버에 전파되는지 확인하십시오. Marketo의 DKIM 확인을 사용하려면 DKIM 키가 DKIM 서명되는 도메인과 연결된 모든 이름 서버에 전파되어야 합니다.
 
