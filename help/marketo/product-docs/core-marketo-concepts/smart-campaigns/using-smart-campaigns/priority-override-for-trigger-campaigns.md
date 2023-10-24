@@ -3,20 +3,20 @@ description: 트리거 캠페인에 대한 우선 순위 재정의 - Marketo 문
 title: 트리거 캠페인에 대한 우선 순위 재정의
 exl-id: cf9b4d27-0e4c-40cf-accd-4f4a102160cc
 feature: Smart Campaigns
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 47bc93665a7efa0d64cd4d5f34b868895d407527
 workflow-type: tm+mt
-source-wordcount: '245'
+source-wordcount: '247'
 ht-degree: 0%
 
 ---
 
 # 트리거 캠페인에 대한 우선 순위 재정의 {#priority-override-for-trigger-campaigns}
 
-관리자는 트리거 캠페인에 대해 결정된 Marketo 우선 순위를 재정의하여 비즈니스 목표에 더 잘 부합하는 우선 순위를 설정할 수 있습니다.
+관리자는 트리거 캠페인에 대해 결정된 Marketo Engage 우선 순위를 재정의하여 비즈니스 목표에 더 잘 부합하는 우선 순위를 설정할 수 있습니다.
 
 >[!NOTE]
 >
->이 기능은 트리거 캠페인 및 권한이 부여된 사용자만 사용할 수 있습니다. [&quot;트리거 캠페인 우선 순위 편집&quot; 권한](#grant-priority-override-access).
+>이 기능은 트리거 캠페인 및 이 부여된 사용자만 사용할 수 있습니다. [&quot;트리거 캠페인 우선 순위 편집&quot; 권한](#grant-priority-override-access).
 
 >[!CAUTION]
 >
@@ -36,7 +36,7 @@ ht-degree: 0%
 
    ![](assets/priority-override-for-trigger-campaigns-2.png)
 
-1. 아래 [!UICONTROL 마케팅 활동 액세스], 선택 **[!UICONTROL 트리거 캠페인 우선 순위 편집]**. 클릭 **[!UICONTROL 저장]**.
+1. 아래 [!UICONTROL 마케팅 활동 액세스], 선택 **[!UICONTROL 트리거 캠페인 우선 순위 편집]**. **[!UICONTROL 저장]**&#x200B;을 클릭합니다.
 
    ![](assets/priority-override-for-trigger-campaigns-3.png)
 
@@ -58,4 +58,4 @@ ht-degree: 0%
 >
 >* 캠페인의 기본 우선 순위는 [!UICONTROL 캠페인 대기열] 아래에 [!UICONTROL 마케팅 활동]. 실행 속도를 높이려면 캠페인 우선 순위를 기본값보다 높은 한 수준으로 설정하는 것이 좋습니다.
 >* 사용자 설정 우선 순위는 캠페인에 적합한 새 사용자에게만 적용됩니다. 이미 대기열에 있는 사람은 영향을 받지 않습니다.
->* 우선 순위 재정의는 다음 위치에서 캡처됩니다. [감사 추적](/help/marketo/product-docs/administration/audit-trail/audit-trail-overview.md).
+>* 우선 순위 재정의는 다음 위치에서 캡처됩니다. [감사 추적](/help/marketo/product-docs/administration/audit-trail/audit-trail-overview.md){target="_blank"}.

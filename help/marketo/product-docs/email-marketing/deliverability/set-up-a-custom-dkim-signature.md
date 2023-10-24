@@ -4,7 +4,7 @@ description: 사용자 지정 DKIM 서명 설정 - Marketo 문서 - 제품 설�
 title: 사용자 지정 DKIM 서명 설정
 exl-id: a7c6429e-14ee-439e-9f47-1b25b98d41e7
 feature: Deliverability
-source-git-commit: aed161086948aa2cec0199771ba5b3b1491600f9
+source-git-commit: 47bc93665a7efa0d64cd4d5f34b868895d407527
 workflow-type: tm+mt
 source-wordcount: '345'
 ht-degree: 0%
@@ -57,6 +57,8 @@ ht-degree: 0%
    </tr>
    </tbody>
    </table>
+
+   <p>
 
 1. 보내기 **호스트 레코드** 및 **TXT 값** IT에 레코드를 만들도록 요청하고 이 레코드가 from 도메인과 연결된 모든 이름 서버에 전파되는지 확인하십시오. Marketo의 DKIM 확인을 사용하려면 DKIM 키가 DKIM 서명되는 도메인과 연결된 모든 이름 서버에 전파되어야 합니다.
 

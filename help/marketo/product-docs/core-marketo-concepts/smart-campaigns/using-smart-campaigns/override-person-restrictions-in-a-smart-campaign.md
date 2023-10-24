@@ -4,9 +4,9 @@ description: 스마트 캠페인에서 개인 제한 재정의 - Marketo 문서 
 title: 스마트 캠페인에서 개인 제한 재정의
 exl-id: 45ff3e36-01fd-42ea-ba74-efd98867a58a
 feature: Smart Campaigns
-source-git-commit: fec5219c599c805328d77797d2636e549e489ca5
+source-git-commit: 47bc93665a7efa0d64cd4d5f34b868895d407527
 workflow-type: tm+mt
-source-wordcount: '139'
+source-wordcount: '137'
 ht-degree: 0%
 
 ---
@@ -19,7 +19,7 @@ Marketo Engage을 사용하면 Smart Campaign의 자격을 가질 수 있는 최
 >
 >다음을 확인합니다. [스마트 캠페인에 대한 개인 제한 활성화](/help/marketo/product-docs/administration/email-setup/enable-person-restrictions-for-smart-campaigns.md){target="_blank"} Marketo 관리에서.
 
-1. 마케팅 활동에서 Smart Campaign으로 이동하고 **예약**.
+1. 위치 **[!UICONTROL 마케팅 활동]**, Smart Campaign으로 이동하고 **[!UICONTROL 예약]**.
 
    ![](assets/override-person-restrictions-in-a-smart-campaign-1.png)
 
@@ -31,7 +31,7 @@ Marketo Engage을 사용하면 Smart Campaign의 자격을 가질 수 있는 최
    >
    >기본 제한은 Admin에 설정된 제한입니다.
 
-1. 새 한도를 입력한 다음 을(를) 클릭합니다. **[!UICONTROL 저장]**.
+1. 새 한도를 입력하고 **[!UICONTROL 저장]**.
 
    ![](assets/override-person-restrictions-in-a-smart-campaign-3.png)
 
