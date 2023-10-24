@@ -4,9 +4,9 @@ description: 개인 차단 목록에 추가하다 추가 - Marketo 문서 - 제�
 title: 차단 목록에 추가하다 Person 추가
 exl-id: e4543bf9-11e9-42df-a31e-e2cebe24ad4a
 feature: Smart Lists
-source-git-commit: cc87ecb8d3245734ec0ce984eeccf742833a85d2
+source-git-commit: de8eb7dd1b7f1da5d219ec8c182a02eb998a2a22
 workflow-type: tm+mt
-source-wordcount: '184'
+source-wordcount: '183'
 ht-degree: 1%
 
 ---
@@ -15,21 +15,21 @@ ht-degree: 1%
 
 차단 목록에 사람들을 추가하면 그들은 당신의 서신을 받지 못하게 됩니다.
 
-1. [새 기본 프로그램 만들기](/help/marketo/product-docs/core-marketo-concepts/programs/creating-programs/create-a-program.md) 이름을 지정합니다. **차단 목록에 추가하다 추가**.
+1. 새로 만들기 [기본 프로그램](/help/marketo/product-docs/core-marketo-concepts/programs/creating-programs/create-a-program.md){target="_blank"} 이름을 &quot;차단 목록에 추가하다에 추가&quot;로 지정합니다.
 
-1. 클릭 **신규** 및 선택 **새 로컬 자산**.
+1. 클릭 **[!UICONTROL 신규]** 및 선택 **[!UICONTROL 새 로컬 자산]**.
 
    ![](assets/add-person-to-blocklist-1.png)
 
-1. 선택 **스마트 목록**.
+1. 선택 **[!UICONTROL 스마트 목록]**.
 
    ![](assets/add-person-to-blocklist-2.png)
 
-1. 목록 이름을 지정하고 **만들기**.
+1. 목록 이름을 지정하고 **[!UICONTROL 만들기]**.
 
    ![](assets/add-person-to-blocklist-3.png)
 
-1. 모든 사용자를 다음에 추가 **스마트 목록** 차단 목록에 추가하다에 추가하려는 경우
+1. 당신이 당신의 스마트 목록에 추가하려는 모든 사람들을 추가 차단 목록에 추가하다.
 
    ![](assets/add-person-to-blocklist-4.png)
 
@@ -41,15 +41,15 @@ ht-degree: 1%
 
    ![](assets/add-person-to-blocklist-5.png)
 
-1. 클릭 **신규** 및 선택 **새 스마트 캠페인**.
+1. 클릭 **[!UICONTROL 신규]** 및 선택 **[!UICONTROL 새 스마트 캠페인]**.
 
    ![](assets/add-person-to-blocklist-6.png)
 
-1. 이름 지정 **새 스마트 캠페인**. Click **Create**.
+1. 새 스마트 캠페인에 이름을 지정합니다. Click **[!UICONTROL Create]**.
 
    ![](assets/add-person-to-blocklist-7.png)
 
-1. 드래그 앤 드롭 **스마트 목록의 구성원**.
+1. 드래그 앤 드롭 **[!UICONTROL 스마트 목록의 구성원]**.
 
    ![](assets/add-person-to-blocklist-8.png)
 
@@ -57,23 +57,23 @@ ht-degree: 1%
 
    ![](assets/add-person-to-blocklist-9.png)
 
-1. 다음을 클릭합니다. **플로우** 탭. 을(를) 끌어다 놓습니다. **데이터 값 변경** 흐름 작업.
+1. 다음을 클릭합니다. **[!UICONTROL 플로우]** 탭. 을(를) 끌어다 놓습니다. **[!UICONTROL 데이터 값 변경]** 흐름 작업.
 
    ![](assets/add-person-to-blocklist-10.png)
 
-1. 다음에서 **속성** 드롭다운 선택 **차단 목록** 및 설정 **새 값** 끝 **true**.
+1. 다음에서 **[!UICONTROL 속성]** 드롭다운 선택 **[!UICONTROL 차단 목록]** 및 설정 **[!UICONTROL 새 값]** 끝 **[!UICONTROL true]**.
 
    ![](assets/add-person-to-blocklist-11.png)
 
-1. 다음을 클릭합니다. **예약** 탭하고 선택 **한 번 실행**.
+1. 다음을 클릭합니다. **[!UICONTROL 예약]** 탭하고 선택 **[!UICONTROL 한 번 실행]**.
 
    ![](assets/add-person-to-blocklist-12.png)
 
-1. 선택 **지금 실행** 및 클릭 **실행**.
+1. 선택 **[!UICONTROL 지금 실행]** 및 클릭 **[!UICONTROL 실행]**.
 
    ![](assets/add-person-to-blocklist-13.png)
 
-1. 클릭 **실행** 다시.
+1. 클릭 **[!UICONTROL 실행]** 다시.
 
    ![](assets/add-person-to-blocklist-14.png)
 
@@ -81,4 +81,4 @@ ht-degree: 1%
 
 >[!TIP]
 >
->만들기 [스마트 캠페인 트리거](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/creating-a-smart-campaign/create-a-new-smart-campaign.md) 사용 **데이터 값 변경** 포함 **나열된 블록이 true입니다.** 미래의 모든 사람들은 차단 목록에 추가하다가 가능한 속성을 가지고 있습니다.
+>만들기 [캠페인 트리거](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/creating-a-smart-campaign/create-a-new-smart-campaign.md){target="_blank"} 사용 **데이터 값 변경** 포함 **나열된 블록이 true입니다.** 미래의 모든 사람들은 차단 목록에 추가하다가 가능한 속성을 가지고 있습니다.
