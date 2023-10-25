@@ -4,7 +4,7 @@ description: 필터 유추 - Marketo 문서 - 제품 설명서
 title: 필터 유추
 exl-id: 6db4ff4d-7fab-4722-94b1-1bf92ba4651d
 feature: Smart Lists
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 8a5903fa5313e34f448f833f20ab8e3624cf23e6
 workflow-type: tm+mt
 source-wordcount: '198'
 ht-degree: 0%
@@ -13,7 +13,7 @@ ht-degree: 0%
 
 # 필터 유추 {#inferred-filters}
 
-누군가가 귀하의 웹 사이트를 방문할 때, [먼치킨](/help/marketo/product-docs/administration/additional-integrations/add-munchkin-tracking-code-to-your-website.md) 쿠키를 만들어 시스템에 넣습니다. 우리는 특별한 데이터베이스에서 그들의 IP를 찾고 모든 종류의 좋은 정보를 추론한다.
+누군가가 귀하의 웹 사이트를 방문할 때, [먼치킨](/help/marketo/product-docs/administration/additional-integrations/add-munchkin-tracking-code-to-your-website.md){target="_blank"} 쿠키를 만들어 시스템에 넣습니다. 우리는 특별한 데이터베이스에서 그들의 IP를 찾고 모든 종류의 좋은 정보를 추론한다.
 
 >[!NOTE]
 >
@@ -46,4 +46,4 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->자세히 알아보기 [익명 활동 및 리드](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/managing-people-in-smart-lists/understanding-anonymous-activity-and-people.md).
+>자세히 알아보기 [익명 활동 및 리드](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/managing-people-in-smart-lists/understanding-anonymous-activity-and-people.md){target="_blank"}.

@@ -4,7 +4,7 @@ description: 목록 또는 스마트 목록 복제 - Marketo 문서 - 제품 설
 title: 목록 또는 스마트 목록 복제
 exl-id: e802fa74-5884-4201-9b55-d6cd7e2a7d9f
 feature: Smart Lists
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 8a5903fa5313e34f448f833f20ab8e3624cf23e6
 workflow-type: tm+mt
 source-wordcount: '80'
 ht-degree: 0%
@@ -15,7 +15,7 @@ ht-degree: 0%
 
 처음부터 스마트 목록을 만드는 대신 유사한 목록을 복제하고 변경하여 시간을 절약하십시오. 방법은 다음과 같습니다.
 
-1. 다음으로 이동 **마케팅 활동**.
+1. 다음으로 이동 **[!UICONTROL 마케팅 활동]**.
 
    ![](assets/login-marketing-activities.png)
 
@@ -23,11 +23,11 @@ ht-degree: 0%
 
    ![](assets/smartlist-find.png)
 
-1. 아래 **작업 나열**, 클릭 **스마트 목록 복제**.
+1. 아래 **[!UICONTROL 작업 나열]**, 클릭 **[!UICONTROL 스마트 목록 복제]**.
 
    ![](assets/clonesmartlist-hands.png)
 
-1. 입력 **이름** 및 클릭 **복제**.
+1. 입력 **[!UICONTROL 이름]** 및 클릭 **[!UICONTROL 복제]**.
 
    ![](assets/supersmartlist-clonewindow.png)
 

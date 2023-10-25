@@ -4,7 +4,7 @@ description: 작업 영역 간 목록 또는 스마트 목록 참조 - Marketo �
 title: 작업 영역 간 목록 또는 스마트 목록 참조
 exl-id: c390685c-e51d-4298-ba3b-8e4dd27eb85c
 feature: Smart Lists
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 8a5903fa5313e34f448f833f20ab8e3624cf23e6
 workflow-type: tm+mt
 source-wordcount: '167'
 ht-degree: 0%
@@ -13,15 +13,15 @@ ht-degree: 0%
 
 # 작업 영역 간 목록 또는 스마트 목록 참조 {#reference-a-list-or-smart-list-across-workspaces}
 
-데이터베이스에서 쉽게 재사용할 수 있도록 작업 영역 간에 목록과 스마트 목록을 공유하고 참조할 수 있습니다.
+목록 및 스마트 목록은 데이터베이스에서 쉽게 재사용할 수 있도록 작업 영역 간에 공유 및 참조될 수 있습니다.
 
 >[!NOTE]
 >
->개인 분할 영역 규칙이 적용됩니다(작업 영역의 스마트 목록 및 정적 목록에는 목록 구성원인 사람만 표시됩니다.) *및* 현재 작업 공간의 구성원입니다).
+>개인 분할 영역 규칙이 적용됩니다(작업 영역의 스마트 목록 및 정적 목록에는 목록 멤버인 사람만 표시됩니다.) _및_ 현재 작업 공간의 구성원입니다).
 
-## 목록 또는 스마트 목록 공유  {#share-a-list-or-smart-list}
+## 목록 또는 스마트 목록 공유 {#share-a-list-or-smart-list}
 
-1. 로 이동 **데이터베이스**.
+1. 로 이동 **[!UICONTROL 데이터베이스]**.
 
    ![](assets/db-1.png)
 
@@ -37,11 +37,11 @@ ht-degree: 0%
 
    ![](assets/three-4.png)
 
-1. 마우스 오른쪽 버튼 클릭 **새 폴더** 및 선택 **폴더 공유**.
+1. 마우스 오른쪽 버튼 클릭 **[!UICONTROL 새 폴더]** 및 선택 **[!UICONTROL 폴더 공유]**.
 
    ![](assets/four-3.png)
 
-1. 선택 **작업 영역** 공유할 수 있습니다. 선택 **저장**.
+1. 선택 **[!UICONTROL 작업 영역]** 공유할 수 있습니다. 선택 **[!UICONTROL 저장]**.
 
    ![](assets/image2014-12-9-15-3a37-3a25.png)
 

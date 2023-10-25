@@ -4,7 +4,7 @@ description: 고급 스마트 목록 규칙 논리 사용 - Marketo 문서 - 제
 title: 고급 스마트 목록 규칙 논리 사용
 exl-id: fc41b6fd-c65e-4c44-b0ee-7bb5c77c51fb
 feature: Smart Lists
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 8a5903fa5313e34f448f833f20ab8e3624cf23e6
 workflow-type: tm+mt
 source-wordcount: '288'
 ht-degree: 0%
@@ -17,8 +17,8 @@ ht-degree: 0%
 
 >[!PREREQUISITES]
 >
->* [스마트 목록 필터 찾기 및 추가](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/creating-a-smart-list/find-and-add-filters-to-a-smart-list.md)
->* [스마트 목록 필터 정의](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/creating-a-smart-list/define-smart-list-filters.md)
+>* [스마트 목록 필터 찾기 및 추가](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/creating-a-smart-list/find-and-add-filters-to-a-smart-list.md){target="_blank"}
+>* [스마트 목록 필터 정의](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/creating-a-smart-list/define-smart-list-filters.md){target="_blank"}
 
 >[!NOTE]
 >
@@ -26,19 +26,19 @@ ht-degree: 0%
 
 ## 스마트 목록에 논리 추가 {#add-logic-to-a-smart-list}
 
-기본적으로 스마트 목록에서 일치하는 사람을 찾습니다 **모두** 필터(필터 1) _및_ 2 _및_ 3). 규칙 논리를 변경하여 일치하는 사람을 찾을 수 있습니다 **임의** 정의된 필터 중 하나(필터 1) _또는_ 2 _또는_ 3) 또는 고급 필터 사용(필터 1) _및_ 2 _또는_ 3).
+기본적으로 스마트 목록에서 일치하는 사용자를 찾습니다 **[!UICONTROL 모두]** 필터(필터 1) _및_ 2 _및_ 3). 규칙 논리를 변경하여 일치하는 사람을 찾을 수 있습니다 **[!UICONTROL 임의]** 정의된 필터 중 하나(필터 1) _또는_ 2 _또는_ 3) 또는 고급 필터 사용(필터 1) _및_ 2 _또는_ 3).
 
 이 예에서는 캘리포니아에 있는 사람을 찾는다고 가정합니다 _및_ 최소 50점의 점수 _또는_ &quot;Sales Qualified&quot; 상태로.
 
-1. 선택 **고급 필터 사용** 드롭다운에서 을 클릭합니다.
+1. 선택 **[!UICONTROL 고급 필터 사용]** 드롭다운에서 을 클릭합니다.
 
    ![](assets/one.png)
 
    >[!NOTE]
    >
-   >사용 **고급** 필터는 스마트 목록 구성원 필터로 스마트 목록을 만들 필요가 없습니다. 이렇게 하면 성능이 최적화됩니다.
+   >사용 **[!UICONTROL 고급]** 필터는 스마트 목록 구성원 필터로 스마트 목록을 만들 필요가 없습니다. 이렇게 하면 성능이 최적화됩니다.
 
-1. 다음 **고급 필터** 텍스트 상자에 모든 필터 간의 기본값으로 &quot;and&quot;가 표시됩니다.
+1. 다음 **[!UICONTROL 고급 필터]** 텍스트 상자에 모든 필터 간의 기본값으로 &quot;and&quot;가 표시됩니다.
 
    ![](assets/two-2.png)
 

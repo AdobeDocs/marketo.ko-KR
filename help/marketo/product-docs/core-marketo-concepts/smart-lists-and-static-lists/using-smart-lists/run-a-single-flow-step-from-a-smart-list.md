@@ -4,7 +4,7 @@ description: 스마트 목록에서 단일 흐름 단계 실행 - Marketo 문서
 title: 스마트 목록에서 단일 흐름 단계 실행
 exl-id: 1ac5795b-1906-4f94-bd0a-570d55c9357b
 feature: Smart Lists
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 8a5903fa5313e34f448f833f20ab8e3624cf23e6
 workflow-type: tm+mt
 source-wordcount: '234'
 ht-degree: 1%
@@ -17,13 +17,13 @@ ht-degree: 1%
 
 >[!PREREQUISITES]
 >
->[스마트 목록 만들기](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/creating-a-smart-list/create-a-smart-list.md)
+>[스마트 목록 만들기](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/creating-a-smart-list/create-a-smart-list.md){target="_blank"}
 
-1. 다음으로 이동 **마케팅 활동**.
+1. 다음으로 이동 **[!UICONTROL 마케팅 활동]**.
 
    ![](assets/login-marketing-activities-1.png)
 
-1. 사람들이 포함된 목록 또는 스마트 목록을 선택한 다음 **사람** 탭.
+1. 목록 또는 대상이 있는 스마트 목록을 선택한 다음 **[!UICONTROL 사람]** 탭.
 
    ![](assets/smartlistpeopletab-hands.png)
 
@@ -31,27 +31,27 @@ ht-degree: 1%
    >
    >정적 목록과 스마트 목록 모두에 이 기능이 있습니다.
 
-1. 클릭 **모두 선택**. 다음을 사용할 수도 있습니다. **Ctrl/Cmd** 을(를) 클릭하여 몇 개의 레코드를 수동으로 선택합니다.
+1. 클릭 **[!UICONTROL 모두 선택]**. 다음을 사용할 수도 있습니다. **Ctrl/Cmd** 을(를) 클릭하여 몇 개의 레코드를 수동으로 선택합니다.
 
    ![](assets/smartlist-selectallhand.png)
 
    >[!NOTE]
    >
-   >결과가 여러 페이지에 걸쳐 있는 경우 **모두 선택** 은(는) 모든 페이지에서 모든 사람을 선택합니다.
+   >결과가 여러 페이지에 걸쳐 있는 경우 **[!UICONTROL 모두 선택]** 은(는) 모든 페이지에서 모든 사람을 선택합니다.
 
-1. 아래 **개인** **작업**&#x200B;원하는 플로우 단계를 선택합니다. 이 예제에서는 를 [데이터 값 변경](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/change-data-value.md).
+1. 아래 **[!UICONTROL 개인 작업]**&#x200B;원하는 플로우 단계를 선택합니다. 이 예제에서는 를 [데이터 값 변경](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/change-data-value.md){target="_blank"}.
 
    ![](assets/personactions-hands.png)
 
-1. 다음을 찾아 선택 **속성**. 이 예제에서는 주 &quot;California&quot;가 있는 모든 사람을 &quot;CA&quot;로 변경합니다.
+1. 다음을 찾아 선택 **[!UICONTROL 속성]**. 이 예제에서는 주 &quot;California&quot;가 있는 모든 사람을 &quot;CA&quot;로 변경합니다.
 
    ![](assets/runaction-hands.png)
 
-1. 새 값 입력. 클릭 **지금 실행**.
+1. 새 값 입력. 클릭 **[!UICONTROL 지금 실행]**.
 
    ![](assets/runactionnewvalue-hands.png)
 
-1. 많은 수의 사용자에 대한 데이터 값을 변경하는 경우 숫자를 입력하여 변경 내용을 확인해야 할 수 있습니다. 클릭 **시도해 보십시오.**.
+1. 많은 수의 사용자에 대한 데이터 값을 변경하는 경우 숫자를 입력하여 변경 내용을 확인해야 할 수 있습니다. 클릭 **[!UICONTROL 시도해 보십시오.]**.
 
    ![](assets/changedatavalue.jpg)
 

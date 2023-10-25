@@ -4,7 +4,7 @@ description: 영업 기회 필터 및 트리거 - Marketo 문서 - 제품 설명
 title: 영업 기회 필터 및 트리거
 exl-id: 5b372c00-1553-4ac3-a495-53e208371d8d
 feature: Smart Lists
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 8a5903fa5313e34f448f833f20ab8e3624cf23e6
 workflow-type: tm+mt
 source-wordcount: '471'
 ht-degree: 0%
