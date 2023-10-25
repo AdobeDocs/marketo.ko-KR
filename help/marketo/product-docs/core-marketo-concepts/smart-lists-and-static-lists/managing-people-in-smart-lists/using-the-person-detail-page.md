@@ -4,7 +4,7 @@ description: 개인 세부 정보 페이지 사용 - Marketo 문서 - 제품 설
 title: 개인 세부 정보 페이지 사용
 exl-id: 8476ed02-6d94-4aa5-91f6-55c81a87f745
 feature: Smart Lists
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 208ba59e3a5cb8e613e887b4c89e51cec4b3f897
 workflow-type: tm+mt
 source-wordcount: '550'
 ht-degree: 22%
@@ -20,7 +20,7 @@ ht-degree: 22%
 특정 사람들을 여는 방법에는 여러 가지가 있습니다. 몇 가지 예는 다음과 같습니다.
 
 * 다음에서 **데이터베이스**, 빠른 찾기에서 검색할 수 있습니다
-* 모든 스마트 **목록** 또는 목록
+* 임의 **스마트 목록** 또는 목록
 * **구성원** 프로그램의 탭
 * **캠페인 멤버 보기** 스마트 캠페인에서
 * 일부 **보고서**
@@ -73,12 +73,12 @@ ht-degree: 22%
 |   |  |  |  |  |
 |---|---|---|---|---|
 | 주소 | 연매출 | 익명 IP | 청구지 주소 | 청구지 시 |
-| 청구지 국가 | 청구지 우편번호 | 청구지 주 | 도시 | 회사명 |
+| 청구지 국가 | 청구지 우편번호 | 청구지 주 | 도시 | 회사 이름 |
 | 국가 | 생성 위치 | 출생일 | 부서 | 두 낫 콜 |
 | 원인 호출 안 함 | 두 낫 콜 이유 | 이메일 주소 | 이메일 잘못됨 | 잘못된 이메일 원인 |
 | 외부 회사 ID | 외부 영업 사원 ID | 팩스 번호 | 이름 | 전체 이름 |
 | 산업 | 추론된 시 | 추론된 회사 | 추론된 국가 | 대도시 지역 유추 |
-| 전화번호 지역코드 유추 | 우편번호 유추 | 유추된 주 지역 | 익명 | 고객 |
+| 전화번호 지역코드 유추 | 추론된 우편번호 | 유추된 주 지역 | 익명 | 고객 |
 | 파트너 | 직위 | 성 | 등급 | 스코어 |
 | 개인 소스 | 상태 | 주요 전화 | Marketo Social Facebook 표시 이름 | Marketo Social Facebook Id |
 | Marketo Social Facebook 사진 URL | Marketo Social Facebook 프로필 URL | Marketo Social Facebook Reach | Marketo Social Facebook 참조 등록 | Marketo Social Facebook 참조 방문 |
@@ -100,8 +100,8 @@ ht-degree: 22%
 >* SFDC 연락처 기회
 >* 만든 날짜 및 원본 소스 유형과 같은 특정 Marketo 관련 필드.
 >
->자세히 알아보기 [시스템 관리 필드](/help/marketo/product-docs/administration/field-management/understanding-system-managed-fields.md).
+>자세히 알아보기 [시스템 관리 필드](/help/marketo/product-docs/administration/field-management/understanding-system-managed-fields.md){target="_blank"}.
 
 >[!MORELIKETHIS]
 >
->[개인 세부 정보 페이지에 대한 사용자 정의 탭 만들기](/help/marketo/product-docs/administration/settings/creating-a-custom-tab-for-the-person-detail-page.md)
+>[개인 세부 정보 페이지에 대한 사용자 정의 탭 만들기](/help/marketo/product-docs/administration/settings/creating-a-custom-tab-for-the-person-detail-page.md){target="_blank"}

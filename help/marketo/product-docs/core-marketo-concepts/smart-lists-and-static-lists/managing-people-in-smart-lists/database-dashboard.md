@@ -4,7 +4,7 @@ description: 데이터베이스 대시보드 - Marketo 문서 - 제품 설명서
 title: 데이터베이스 대시보드
 exl-id: 44b00d28-a224-4f09-8307-468c14ddb0df
 feature: Smart Lists
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 208ba59e3a5cb8e613e887b4c89e51cec4b3f897
 workflow-type: tm+mt
 source-wordcount: '138'
 ht-degree: 0%
@@ -19,7 +19,7 @@ ht-degree: 0%
 >
 >각 작업 공간에는 자체 데이터베이스 대시보드가 있습니다.
 
-액세스하려면 다음을 선택합니다. **데이터베이스** 내 Marketo에서
+액세스하려면 다음을 선택합니다. **[!UICONTROL 데이터베이스]** 내 Marketo에서
 
 ![](assets/database-dashboard-1.png)
 
@@ -29,7 +29,7 @@ ht-degree: 0%
 
 >[!TIP]
 >
->귀사에 대한 보다 구체적이거나 시기 적절한 정보를 얻고자 하십니까? 시도 [사용자 성과 보고서](/help/marketo/product-docs/reporting/basic-reporting/report-types/people-performance-report.md).
+>귀사에 대한 보다 구체적이거나 시기 적절한 정보를 얻고자 하십니까? 시도 [사용자 성과 보고서](/help/marketo/product-docs/reporting/basic-reporting/report-types/people-performance-report.md){target="_blank"}.
 
 **총 인원:** 나열된 작업 영역에 대한 상시 사용자 수입니다.
 

@@ -4,9 +4,9 @@ description: 정적 목록 이해 - Marketo 문서 - 제품 설명서
 title: 정적 목록 이해
 exl-id: c37c1496-cf19-4e44-aaec-77b10669b9bf
 feature: Static Lists
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 208ba59e3a5cb8e613e887b4c89e51cec4b3f897
 workflow-type: tm+mt
-source-wordcount: '215'
+source-wordcount: '212'
 ht-degree: 0%
 
 ---
@@ -32,11 +32,11 @@ ht-degree: 0%
 
 ## 목록에서 사람을 추가/제거하는 방법 {#ways-to-add-remove-people-from-a-list}
 
-1. 스마트 캠페인 흐름 단계([목록에 추가](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/add-to-list.md), [목록에서 제거](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/remove-from-list.md))
+1. 스마트 캠페인 흐름 단계([목록에 추가](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/add-to-list.md){target="_blank"}, [Remove from List](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/remove-from-list.md){target="_blank"})
 
-1. [단일 작업 흐름 단계](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/using-smart-lists/run-a-single-flow-step-from-a-smart-list.md)
+1. [단일 작업 흐름 단계](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/using-smart-lists/run-a-single-flow-step-from-a-smart-list.md){target="_blank"}
 1. 사람을 트리의 목록으로 드래그
-1. [목록 가져오기](/help/marketo/getting-started/quick-wins/import-a-list-of-people.md)
+1. [목록 가져오기](/help/marketo/getting-started/quick-wins/import-a-list-of-people.md){target="_blank"}
 
 ## 정적 목록의 일부 사용 {#some-uses-of-a-static-list}
 
@@ -48,4 +48,4 @@ LIST의 기능을 활용하십시오!
 
 >[!MORELIKETHIS]
 >
->[정적 목록 만들기](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/static-lists/create-a-static-list.md)
+>[정적 목록 만들기](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/static-lists/create-a-static-list.md){target="_blank"}

@@ -4,16 +4,16 @@ description: 익명 활동 및 사용자 이해 - Marketo 문서 - 제품 설명
 title: 익명 활동 및 사용자 이해
 exl-id: 1676e8f3-9138-42ed-8bb4-40e195391fc4
 feature: Smart Lists
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 208ba59e3a5cb8e613e887b4c89e51cec4b3f897
 workflow-type: tm+mt
-source-wordcount: '264'
+source-wordcount: '262'
 ht-degree: 0%
 
 ---
 
 # 익명 활동 및 사용자 이해 {#understanding-anonymous-activity-and-people}
 
-누군가가 Marketo 랜딩 페이지(또는 웹 사이트의 페이지에 [Munchkin 추적 코드](/help/marketo/product-docs/administration/additional-integrations/add-munchkin-tracking-code-to-your-website.md), Marketo은 _익명 활동_ 브라우저 쿠키를 사용하여 추적합니다. 식별되면 개인이 되고 브라우저 쿠키와 연관된 기록이 병합됩니다.
+누군가가 Marketo 랜딩 페이지(또는 웹 사이트의 페이지에 [Munchkin 추적 코드](/help/marketo/product-docs/administration/additional-integrations/add-munchkin-tracking-code-to-your-website.md){target="_blank"}), Marketo은 *익명 활동* 브라우저 쿠키를 사용하여 추적합니다. 식별되면 개인이 되고 브라우저 쿠키와 연관된 기록이 병합됩니다.
 
 >[!IMPORTANT]
 >
@@ -22,21 +22,21 @@ ht-degree: 0%
 **익명** 활동은 다음과 같은 경우에 만들어집니다.
 
 * Marketo 랜딩 페이지를 처음 방문합니다.
-* 가 있는 사이트의 페이지를 방문합니다. [Munchkin 추적](/help/marketo/product-docs/administration/additional-integrations/add-munchkin-tracking-code-to-your-website.md).
-* 클릭 수: [웹 페이지로 보기](/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/add-a-view-as-web-page-link-to-an-email.md) Marketo 이메일에 있는 링크입니다.
+* 가 있는 사이트의 페이지를 방문합니다. [Munchkin 추적](/help/marketo/product-docs/administration/additional-integrations/add-munchkin-tracking-code-to-your-website.md){target="_blank"}.
+* 클릭 수: [웹 페이지로 보기](/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/add-a-view-as-web-page-link-to-an-email.md){target="_blank"} Marketo 이메일에 있는 링크입니다.
 
 >[!NOTE]
 >
->Marketo 이메일의 다른 링크와 달리 [웹 페이지로 보기](/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/add-a-view-as-web-page-link-to-an-email.md) 이메일 클릭으로 추적되지 않습니다.
+>Marketo 이메일의 다른 링크와 달리 [웹 페이지로 보기](/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/add-a-view-as-web-page-link-to-an-email.md){target="_blank"} 이메일 클릭으로 추적되지 않습니다.
 
 누군가 다음과 같은 경우 익명 활동은 새 사용자 또는 기존 사용자에 병합됩니다.
 
-* 클릭 수: [Marketo 이메일의 링크](/help/marketo/product-docs/email-marketing/general/using-tokens/add-a-system-token-as-a-link-in-an-email.md).
-* Marketo 작성 [양식](/help/marketo/product-docs/demand-generation/forms/form-actions/embed-a-form-on-your-website.md).
-* Marketo 사용 [SOAP](/help/marketo/product-docs/administration/additional-integrations/configuring-your-soap-api-settings.md) 또는 [먼치킨](/help/marketo/product-docs/administration/additional-integrations/add-munchkin-tracking-code-to-your-website.md) 익명의 사용자를 알려진 레코드와 연결하기 위한 API(개발자용).
+* 클릭 수: [Marketo 이메일의 링크](/help/marketo/product-docs/email-marketing/general/using-tokens/add-a-system-token-as-a-link-in-an-email.md){target="_blank"}.
+* Marketo 작성 [양식](/help/marketo/product-docs/demand-generation/forms/form-actions/embed-a-form-on-your-website.md){target="_blank"}.
+* Marketo 사용 [SOAP](/help/marketo/product-docs/administration/additional-integrations/configuring-your-soap-api-settings.md){target="_blank"} or [Munchkin](/help/marketo/product-docs/administration/additional-integrations/add-munchkin-tracking-code-to-your-website.md){target="_blank"} 익명의 사용자를 알려진 레코드와 연결하기 위한 API(개발자용).
 
 사람들이 사이트를 방문하기 위해 서로 다른 디바이스와 브라우저를 사용하는 경우가 많기 때문에 데이터베이스의 한 이름이 많은 쿠키에 연결되어 있을 수 있습니다.
 
 >[!NOTE]
 >
->익명 레코드가 새 개인 레코드 또는 기존 개인 레코드에 병합되면 사용자 정의 필드 값이 **아님** 갈아타세요
+>익명 레코드가 새 개인 레코드 또는 기존 개인 레코드에 병합되면 사용자 정의 필드 값이 *아님* 갈아타세요

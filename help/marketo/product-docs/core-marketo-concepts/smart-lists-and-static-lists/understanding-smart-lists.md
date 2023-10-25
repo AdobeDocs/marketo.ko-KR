@@ -4,7 +4,7 @@ description: 스마트 목록 이해 - Marketo 문서 - 제품 설명서
 title: 스마트 목록 이해
 exl-id: 8b7fd845-96d8-4b53-9ad0-118cf55be24a
 feature: Smart Lists
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 208ba59e3a5cb8e613e887b4c89e51cec4b3f897
 workflow-type: tm+mt
 source-wordcount: '210'
 ht-degree: 0%
@@ -20,21 +20,21 @@ ht-degree: 0%
 
 스마트 목록을 만드는 주요 단계는 다음과 같습니다.
 
-1. [스마트 목록 만들기](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/creating-a-smart-list/create-a-smart-list.md)
-1. [스마트 목록 필터 찾기 및 추가](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/creating-a-smart-list/find-and-add-filters-to-a-smart-list.md)
-1. [스마트 목록 필터 정의](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/creating-a-smart-list/define-smart-list-filters.md)
+1. [스마트 목록 만들기](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/creating-a-smart-list/create-a-smart-list.md){target="_blank"}
+1. [스마트 목록 필터 찾기 및 추가](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/creating-a-smart-list/find-and-add-filters-to-a-smart-list.md){target="_blank"}
+1. [스마트 목록 필터 정의](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/creating-a-smart-list/define-smart-list-filters.md){target="_blank"}
 
-다음은 스마트 목록의 모습입니다.
+다음은 Smart List의 모습입니다.
 
 ## 메인 탭 {#main-tab}
 
-여기에서 다음을 수행할 수 있습니다 [스마트 목록 이름 편집](/help/marketo/product-docs/core-marketo-concepts/miscellaneous/rename-a-marketo-asset.md) 스마트 목록에 대한 정보를 확인하십시오.
+여기에서 다음을 수행할 수 있습니다 [스마트 목록 이름 편집](/help/marketo/product-docs/core-marketo-concepts/miscellaneous/rename-a-marketo-asset.md){target="_blank"} 및 Smart List에 대한 정보를 참조하십시오.
 
 ![](assets/smartlist.png)
 
 ## 인물 탭 {#people-tab}
 
-여기에서 결과를 볼 수 있습니다. 즉, 필터에 대한 자격이 있는 모든 사람입니다 [추가되고 정의됨](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/creating-a-smart-list/find-and-add-filters-to-a-smart-list.md) 을 클릭합니다.
+여기에서 결과를 볼 수 있습니다. 즉, 필터에 대한 자격이 있는 모든 사람입니다 [추가되고 정의됨](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/creating-a-smart-list/find-and-add-filters-to-a-smart-list.md){target="_blank"} 을 클릭합니다.
 
 ![](assets/smartlist-people.png)
 
@@ -48,5 +48,5 @@ ht-degree: 0%
 
 >[!MORELIKETHIS]
 >
->* [기본 제공/시스템 스마트 목록 사용](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/using-smart-lists/use-built-in-system-smart-lists.md)
->* [스마트 목록 만들기](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/creating-a-smart-list/create-a-smart-list.md)
+>* [기본 제공/시스템 스마트 목록 사용](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/using-smart-lists/use-built-in-system-smart-lists.md){target="_blank"}
+>* [스마트 목록 만들기](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/creating-a-smart-list/create-a-smart-list.md){target="_blank"}
