@@ -4,16 +4,16 @@ description: Microsoft Dynamics 동기화 - 영업 기회 동기화 - Marketo �
 title: Microsoft Dynamics 동기화 - 영업 기회 동기화
 exl-id: dcb72f28-c980-4183-8473-a1e5ad0c8d3c
 feature: Microsoft Dynamics
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 2403ae0f1fdca3b8238f3f59e2a3b94129deb301
 workflow-type: tm+mt
-source-wordcount: '108'
+source-wordcount: '109'
 ht-degree: 0%
 
 ---
 
 # Microsoft Dynamics 동기화: 영업 기회 동기화 {#microsoft-dynamics-sync-opportunity-sync}
 
-Marketo에서 Dynamics로의 동기화는 매우 강력합니다. 다음은 영업 기회 동기화에 대한 모든 세부 정보입니다.
+Dynamics 동기화로의 Marketo Engage 기능은 매우 강력합니다. 다음은 영업 기회 동기화에 대한 세부 정보입니다.
 
 ## 두 시스템 간에 영업 기회 세부 정보가 어떻게 동기화됩니까? {#how-are-opportunity-details-kept-in-sync-between-the-two-systems}
 
@@ -25,4 +25,4 @@ Marketo에서 Dynamics로의 동기화는 매우 강력합니다. 다음은 영�
 
 ## 어떤 필드가 Marketo에 동기화됩니까? {#what-fields-will-sync-to-marketo}
 
-다음을 수행할 수 있습니다. [동기화할 필드 선택](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/microsoft-dynamics-365-with-ropc-connection/step-4-of-4-connect.md#select-fields-to-sync) 설정하는 동안.
+다음을 수행할 수 있습니다. [동기화할 필드 선택](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/microsoft-dynamics-365-with-ropc-connection/step-4-of-4-connect.md#select-fields-to-sync){target="_blank"} 설정하는 동안.

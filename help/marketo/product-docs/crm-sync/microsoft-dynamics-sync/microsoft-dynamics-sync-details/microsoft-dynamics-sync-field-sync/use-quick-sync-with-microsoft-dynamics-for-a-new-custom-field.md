@@ -4,10 +4,10 @@ description: 새 사용자 정의 필드 - Microsoft 문서 - 제품 설명서�
 title: 새 사용자 정의 필드에 대해 Microsoft Dynamics와 빠른 동기화 사용
 exl-id: c98f1443-c0dd-40e1-919b-f8110088b38a
 feature: Microsoft Dynamics
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 2403ae0f1fdca3b8238f3f59e2a3b94129deb301
 workflow-type: tm+mt
-source-wordcount: '355'
-ht-degree: 0%
+source-wordcount: '354'
+ht-degree: 1%
 
 ---
 
@@ -23,19 +23,19 @@ ht-degree: 0%
 
 빠른 동기화를 사용하여 새 필드를 재동기화하는 방법은 다음과 같습니다.
 
-1. Marketo에서 **관리자**.
+1. Marketo Engage에서 **[!UICONTROL 관리자]**.
 
    ![](assets/image2016-8-19-11-3a14-3a5.png)
 
-1. 클릭 **Microsoft Dynamics**.
+1. 클릭 **[!UICONTROL Microsoft Dynamics]**.
 
    ![](assets/image2016-8-19-11-3a15-3a8.png)
 
-1. 필드 동기화 세부 정보에서 **편집**.
+1. 필드 동기화 세부 정보에서 **[!UICONTROL 편집]**.
 
    ![](assets/image2016-8-19-11-3a16-3a22.png)
 
-1. 빠르게 동기화할 필드를 선택하고 **저장**.
+1. 빠르게 동기화할 필드를 선택하고 **[!UICONTROL 저장]**.
 
    ![](assets/image2016-8-25-15-3a26-3a11.png)
 
@@ -55,7 +55,7 @@ ht-degree: 0%
 
 기존 필드를 동기화하되, 제한된 데이터 세트에만 동기화하려면 어떻게 해야 합니까? 방법은 다음과 같습니다.
 
-1. 기존 필드에 대한 확인란의 선택을 취소합니다. 클릭 **저장**.
+1. 기존 필드에 대한 확인란의 선택을 취소합니다. **[!UICONTROL 저장]**&#x200B;을 클릭합니다.
 
    ![](assets/image2016-8-25-16-3a16-3a32.png)
 
@@ -63,11 +63,11 @@ ht-degree: 0%
 
    ![](assets/select-field-reselect-hand.png)
 
-1. 클릭 **고급 동기화**.
+1. 클릭 **[!UICONTROL 고급 동기화]**.
 
    ![](assets/image2016-8-25-15-3a52-3a9.png)
 
-1. 선택 **업데이트됨** 날짜 선택기를 사용하여 날짜 범위를 선택합니다. 클릭 **저장**.
+1. 선택 **[!UICONTROL 업데이트됨]** 날짜 선택기를 사용하여 날짜 범위를 선택합니다. **[!UICONTROL 저장]**&#x200B;을 클릭합니다.
 
    ![](assets/image2016-8-25-16-3a0-3a3.png)
 
@@ -75,13 +75,13 @@ ht-degree: 0%
 
 ## 동기화 필드 문제 해결 {#fixing-out-of-sync-fields}
 
-Dynamics와 Marketo 필드가 동기화되지 않는 드문 경우 빠르고 간편하게 다시 동기화할 수 있습니다.
+드물지만 Dynamics와 Marketo 필드가 동기화되지 않는 경우 빠르고 간편하게 다시 동기화할 수 있습니다.
 
-1. 필드 선택을 취소하고 클릭 **저장**.
+1. 필드 선택을 취소하고 클릭 **[!UICONTROL 저장]**.
 
    ![](assets/image2016-8-25-16-3a16-3a32-1.png)
 
-1. 필드를 다시 선택하고 **저장**. 그게 다야!
+1. 필드를 다시 선택하고 **[!UICONTROL 저장]**.
 
    ![](assets/image2016-8-25-16-3a20-3a45.png)
 

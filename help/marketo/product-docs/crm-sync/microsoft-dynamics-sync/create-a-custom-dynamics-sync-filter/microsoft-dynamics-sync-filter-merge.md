@@ -4,7 +4,7 @@ description: Microsoft Dynamics 동기화 필터 - 병합 - Marketo 문서 - 제
 title: Microsoft Dynamics 동기화 필터 - 병합
 exl-id: f8da9c3c-0f04-4f61-be03-7e7953d25afe
 feature: Microsoft Dynamics
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 2403ae0f1fdca3b8238f3f59e2a3b94129deb301
 workflow-type: tm+mt
 source-wordcount: '172'
 ht-degree: 4%
@@ -22,6 +22,6 @@ Microsoft Dynamics에서 리드를 병합하면 동기화 필터 = 예(TRUE) 및
 | 손실되는 레코드에 대한 동기화 필터가 다음과 같은 경우 | 그리고 우승 레코드에 대한 동기화 필터는 다음과 같습니다. | 이것은 Marketo의 결과입니다 |
 |---|---|---|
 | 참 | 참 | 우승 기록은 Marketo과 계속 동기화됩니다. |
-| 거짓 | 거짓 | 우승 기록은 계속 이어집니다 **아님** Marketo과 동기화 |
-| 거짓 | 참 | 우승 기록은 Marketo과 동기화됩니다. |
-| 참 | 거짓 | 우승 기록은 Marketo과 동기화되지 않습니다. |
+| False | False | 우승 기록은 계속 이어집니다 _아님_ Marketo과 동기화 |
+| False | 참 | 우승 기록은 Marketo과 동기화됩니다. |
+| 참 | False | 우승 기록은 Marketo과 동기화되지 않습니다. |

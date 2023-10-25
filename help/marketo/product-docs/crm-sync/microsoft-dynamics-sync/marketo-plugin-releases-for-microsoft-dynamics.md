@@ -4,7 +4,7 @@ description: Microsoft Dynamics용 Marketo 플러그인 릴리스 - Marketo 문�
 title: Microsoft Dynamics용 Marketo 플러그인 릴리스
 exl-id: c9c25e11-bcf7-49bf-920a-4182af27d278
 feature: Microsoft Dynamics
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 2403ae0f1fdca3b8238f3f59e2a3b94129deb301
 workflow-type: tm+mt
 source-wordcount: '419'
 ht-degree: 7%
@@ -15,7 +15,7 @@ ht-degree: 7%
 
 Microsoft Dynamics에 처음 동기화하면 Marketo용 플러그인의 최신 버전을 다운로드합니다. Marketo은 이러한 플러그인을 정기적으로 업데이트하므로 동일한 위치로 돌아가서 새 버전을 다운로드할 수 있습니다.
 
-[최신 플러그인 다운로드](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/download-the-marketo-lead-management-solution.md) dynamics 릴리스에 해당합니다.
+[최신 플러그인 다운로드](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/download-the-marketo-lead-management-solution.md){target="_blank"} dynamics 릴리스에 해당합니다.
 
 ![](assets/marketo-plugin-releases-for-microsoft-dynamics-1.png)
 
@@ -120,4 +120,4 @@ Microsoft Dynamics에 처음 동기화하면 Marketo용 플러그인의 최신 �
 
 >[!MORELIKETHIS]
 >
->[Marketo 리드 관리 솔루션 다운로드](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/download-the-marketo-lead-management-solution.md)
+>[Marketo 리드 관리 솔루션 다운로드](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/download-the-marketo-lead-management-solution.md){target="_blank"}

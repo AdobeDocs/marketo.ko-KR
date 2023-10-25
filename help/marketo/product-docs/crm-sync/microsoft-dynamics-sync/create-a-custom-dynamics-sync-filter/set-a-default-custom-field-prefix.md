@@ -4,7 +4,7 @@ description: 기본 사용자 정의 필드 접두사 설정 - Marketo 문서 - 
 title: 기본 사용자 정의 필드 접두사 설정
 exl-id: 5608864b-356d-451b-b079-4ea11c3296e5
 feature: Microsoft Dynamics
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 2403ae0f1fdca3b8238f3f59e2a3b94129deb301
 workflow-type: tm+mt
 source-wordcount: '101'
 ht-degree: 0%
@@ -13,9 +13,9 @@ ht-degree: 0%
 
 # 기본 사용자 정의 필드 접두사 설정 {#set-a-default-custom-field-prefix}
 
-사용자 정의 필드에 대한 기본 Microsoft Dynamics 접두사는 다음과 같아야 합니다. **신규** Marketo 소유 필드가 올바르게 동기화되도록 합니다. 기본 접두사를 변경하는 방법은 다음과 같습니다.
+사용자 정의 필드에 대한 기본 Microsoft Dynamics 접두사는 다음과 같아야 합니다. _신규_ Marketo 소유 필드가 올바르게 동기화되도록 합니다. 기본 접두사를 변경하는 방법은 다음과 같습니다.
 
-1. 설정으로 이동하고 선택 **사용자 지정.**
+1. 설정으로 이동하고 선택 **사용자 정의**.
 
    ![](assets/image2015-10-9-11-3a18-3a8.png)
 

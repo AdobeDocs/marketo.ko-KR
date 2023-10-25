@@ -4,7 +4,7 @@ description: 동기화 상태 - Marketo 문서 - 제품 설명서
 title: 동기화 상태
 exl-id: cab1cb1d-2bc7-4466-bab8-c9e03ab269f7
 feature: Microsoft Dynamics
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 2403ae0f1fdca3b8238f3f59e2a3b94129deb301
 workflow-type: tm+mt
 source-wordcount: '162'
 ht-degree: 0%
@@ -17,11 +17,11 @@ ht-degree: 0%
 
 ## 동기화 상태 탭 {#sync-status-tab}
 
-1. 클릭 **관리자** 및 **Microsoft Dynamics**.
+1. 클릭 **[!UICONTROL 관리자]**, 그런 다음 **[!UICONTROL Microsoft Dynamics]**.
 
    ![](assets/image2016-1-20-11-3a34-3a14.png)
 
-1. 다음을 클릭합니다. **동기화 상태** 탭.
+1. 다음을 클릭합니다. **[!UICONTROL 동기화 상태]** 탭.
 
    ![](assets/image2016-5-19-10-3a1-3a11.png)
 
@@ -35,7 +35,7 @@ ht-degree: 0%
 
    ![](assets/image2016-1-22-10-3a51-3a10.png)
 
-1. 다음을 클릭합니다. **보기:** 드롭다운 및 선택 **지난 시간** 처리량 정보를 봅니다.
+1. 다음을 클릭합니다. **[!UICONTROL 보기]** 드롭다운 및 선택 **[!UICONTROL 지난 시간]** 처리량 정보를 봅니다.
 
    ![](assets/image2016-5-19-10-3a20-3a7.png)
 
@@ -55,4 +55,4 @@ ht-degree: 0%
 
 >[!MORELIKETHIS]
 >
->[알림 유형](/help/marketo/product-docs/core-marketo-concepts/miscellaneous/understanding-notifications/notification-types.md)
+>[알림 유형](/help/marketo/product-docs/core-marketo-concepts/miscellaneous/understanding-notifications/notification-types.md){target="_blank"}

@@ -3,16 +3,16 @@ description: Campaign 동기화 활성화 - Marketo 문서 - 제품 설명서
 title: Campaign 동기화 활성화
 exl-id: b33af554-b4c0-465c-a5a4-3ee3450af5e5
 feature: Microsoft Dynamics
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 2403ae0f1fdca3b8238f3f59e2a3b94129deb301
 workflow-type: tm+mt
-source-wordcount: '111'
+source-wordcount: '112'
 ht-degree: 0%
 
 ---
 
 # Campaign 동기화 활성화 {#enable-campaign-sync}
 
-이 옵션을 사용하면 Marketo에서 MS Dynamics 캠페인에 구성원을 추가하고 제거할 수 있습니다.
+이 옵션을 사용하면 Marketo Engage이 MS Dynamics Campaign에서 구성원을 추가하고 제거할 수 있습니다.
 
 >[!PREREQUISITES]
 >
@@ -22,19 +22,19 @@ ht-degree: 0%
 >
 >**관리자 권한 필요**
 
-1. 내 Marketo에서 **관리자**.
+1. 내 Marketo에서 **[!UICONTROL 관리자]**.
 
    ![](assets/enable-campaign-sync-1.png)
 
-1. 클릭 **Microsoft Dynamics**.
+1. 클릭 **[!UICONTROL Microsoft Dynamics]**.
 
    ![](assets/enable-campaign-sync-2.png)
 
-1. 동기화 옵션에서 **편집**.
+1. 동기화 옵션에서 **[!UICONTROL 편집]**.
 
    ![](assets/enable-campaign-sync-3.png)
 
-1. 다음 항목 선택 **Microsoft Dynamics Campaign 동기화 활성화** 확인란 및 클릭 **저장**.
+1. 다음 항목 선택 **[!UICONTROL Microsoft Dynamics Campaign 동기화 활성화]** 확인란 및 클릭 **[!UICONTROL 저장]**.
 
    ![](assets/enable-campaign-sync-4.png)
 

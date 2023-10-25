@@ -3,16 +3,16 @@ description: 기본 Dynamics 필드 매핑 - Marketo 문서 - 제품 설명서
 title: 기본 동적 필드 매핑
 exl-id: 5f39bd0c-202e-4aa1-a0ac-49ac2554aa1e
 feature: Microsoft Dynamics
-source-git-commit: 09c70bb891f5cc93553c1f8dd0fb58dfd407fa81
+source-git-commit: 2403ae0f1fdca3b8238f3f59e2a3b94129deb301
 workflow-type: tm+mt
-source-wordcount: '829'
+source-wordcount: '830'
 ht-degree: 18%
 
 ---
 
 # 기본 동적 필드 매핑 {#default-dynamics-field-mapping}
 
-Marketo 계정을 Microsoft과 처음 동기화할 때 Marketo은 내장된 Dynamics와 Marketo 필드 간에 이러한 연결을 자동으로 만듭니다.  Marketo은 리드, 계정, 기회 및 연락처에서 사용자 정의 필드도 동기화합니다.
+처음에 Marketo Engage 계정을 Microsoft과 동기화하면 Marketo에서 기본 제공 Dynamics와 Marketo 필드 간에 이러한 연결을 자동으로 수행합니다.  Marketo은 리드, 계정, 기회 및 연락처에서 사용자 정의 필드도 동기화합니다.
 
 ## 리드 필드 {#lead-fields}
 
@@ -244,7 +244,7 @@ Marketo 계정을 Microsoft과 처음 동기화할 때 Marketo은 내장된 Dyna
       <th>MS Dynamics API 이름</th>
     </tr>
     <tr>
-      <td>소유자 </td>
+      <td>소유자</td>
       <td>소유자 ID</td>
     </tr>
     <tr>
@@ -431,7 +431,7 @@ Marketo 계정을 Microsoft과 처음 동기화할 때 Marketo은 내장된 Dyna
     <tr>
       <td>개인 메모</td>
       <td>설명</td>
-      <td>설명 </td>
+      <td>설명</td>
     </tr>
     <tr>
       <td>개인 스코어</td>
@@ -441,7 +441,7 @@ Marketo 계정을 Microsoft과 처음 동기화할 때 Marketo은 내장된 Dyna
     <tr>
       <td>개인 메모</td>
       <td>설명</td>
-      <td>설명 </td>
+      <td>설명</td>
     </tr>
   </tbody>
 </table>
@@ -459,7 +459,7 @@ Marketo 계정을 Microsoft과 처음 동기화할 때 Marketo은 내장된 Dyna
       <th>MS Dynamics API 이름</th>
     </tr>
     <tr>
-      <td>소유자 </td>
+      <td>소유자</td>
       <td>소유자 ID</td>
     </tr>
     <tr>
@@ -603,7 +603,7 @@ Marketo 계정을 Microsoft과 처음 동기화할 때 Marketo은 내장된 Dyna
       <th>MS Dynamics API 이름</th>
     </tr>
     <tr>
-      <td>소유자 </td>
+      <td>소유자</td>
       <td>소유자 ID</td>
     </tr>
     <tr>
@@ -673,7 +673,7 @@ Marketo 계정을 Microsoft과 처음 동기화할 때 Marketo은 내장된 Dyna
       <th>MS Dynamics API 이름</th>
     </tr>
     <tr>
-      <td>소유자 </td>
+      <td>소유자</td>
       <td>소유자 ID</td>
     </tr>
     <tr>
