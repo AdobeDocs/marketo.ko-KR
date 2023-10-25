@@ -4,9 +4,9 @@ description: SEO - 키워드 이해 - Marketo 문서 - 제품 설명서
 title: SEO - 키워드 이해
 exl-id: 33a350c9-7b57-4031-b916-58d2b12c1927
 feature: SEO
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: d9ea30742b6ef3b6299284a1f446a69f15105379
 workflow-type: tm+mt
-source-wordcount: '206'
+source-wordcount: '213'
 ht-degree: 0%
 
 ---
@@ -51,6 +51,10 @@ ht-degree: 0%
   </tr> 
  </tbody> 
 </table>
+
+>[!NOTE]
+>
+>데이터는 1~100순위 키워드에 대해서만 표시됩니다.
 
 ## [!UICONTROL 키워드] - 경쟁업체 보기 {#keywords-competitor-view}
 

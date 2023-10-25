@@ -4,9 +4,9 @@ description: SEO 대시보드 이해 -SEO 스냅샷 - Marketo 문서 - 제품 �
 title: SEO 대시보드 이해 - SEO 스냅샷
 exl-id: 59ff940f-368c-4e71-9e1f-a6f959811841
 feature: SEO
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: d9ea30742b6ef3b6299284a1f446a69f15105379
 workflow-type: tm+mt
-source-wordcount: '251'
+source-wordcount: '253'
 ht-degree: 0%
 
 ---
@@ -35,7 +35,9 @@ SEO 노력을 개선하기 위해 초점을 맞추려면 [[!UICONTROL Recommenda
 >
 >또한 이(가) [특정 목록](/help/marketo/product-docs/additional-apps/seo/keywords/seo-add-remove-keywords-from-a-list.md) of 키워드가 수행되고 있습니다. 드롭다운을 클릭하고 원하는 항목을 선택합니다.
 
-록온! 계속 움직이자
+>[!NOTE]
+>
+>데이터는 1~100순위 키워드에 대해서만 표시됩니다.
 
 ## [!UICONTROL 평균 페이지 최적화 점수] {#average-page-optimization-score}
 

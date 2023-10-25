@@ -4,9 +4,9 @@ description: SEO - 키워드 추가 - Marketo 문서 - 제품 설명서
 title: SEO - 키워드 추가
 exl-id: 95e7907a-62f7-40c7-85a9-97728fbe40eb
 feature: SEO
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: d9ea30742b6ef3b6299284a1f446a69f15105379
 workflow-type: tm+mt
-source-wordcount: '84'
+source-wordcount: '91'
 ht-degree: 0%
 
 ---
@@ -33,8 +33,12 @@ ht-degree: 0%
 
    ![](assets/image2014-9-18-11-3a29-3a12.png)
 
-   >[!MORELIKETHIS]
-   >
-   >[키워드 이해(요약 보기)](/help/marketo/product-docs/additional-apps/seo/keywords/seo-understanding-keywords.md)
-
 잘했어! 이제 키워드 목록에 새로 추가한 항목이 표시됩니다.
+
+>[!NOTE]
+>
+>데이터는 1~100순위 키워드에 대해서만 표시됩니다.
+
+>[!MORELIKETHIS]
+>
+>[키워드 이해(요약 보기)](/help/marketo/product-docs/additional-apps/seo/keywords/seo-understanding-keywords.md)
