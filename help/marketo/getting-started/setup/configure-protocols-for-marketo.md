@@ -4,9 +4,9 @@ description: Marketo에 대한 프로토콜 구성 - Marketo 문서 - 제품 설
 title: Marketo에 대한 프로토콜 구성
 exl-id: cf2fd4ac-9229-4e52-bb68-5732b44920ef
 feature: Getting Started
-source-git-commit: 0d6507c251e2b7567483af8d75158f6bc6a1ca49
+source-git-commit: f95721d5007fc686a8de7d11233cfe08ccce7237
 workflow-type: tm+mt
-source-wordcount: '1028'
+source-wordcount: '968'
 ht-degree: 3%
 
 ---
@@ -15,13 +15,7 @@ ht-degree: 3%
 
 허용 목록에 추가하다 제한적 방화벽 또는 프록시 서버 설정을 사용하는 경우, 사용자 또는 네트워크 관리자가 Adobe Marketo Engage이 예상대로 작동하도록 특정 도메인 및 IP 주소 범위를 설정해야 할 수 있습니다.
 
-## 브랜드 캠페인 랜딩 페이지 및 이메일 {#branded-campaign-landing-pages-and-emails}
-
-마케팅 그룹은 Marketo을 사용하여 브랜드 캠페인 랜딩 페이지 및 이메일을 만듭니다. 이러한 랜딩 페이지와 이메일이 작동하도록 하려면 IT의 도움이 약간 필요합니다. 마케팅 그룹에서 전자 메일로 보냈어야 하는 정보를 사용하여 다음 프로토콜을 설정하십시오.
-
-이 문서는 이러한 프로토콜을 구현하려는 회사의 IT 부서와 공유해야 합니다.
-
-IT 팀이 허용 목록에 추가하다를 사용하여 웹 액세스를 제한하는 경우 모든 Marketo 리소스 및 웹 소켓을 허용하도록 다음 도메인(별표 포함)을 추가하도록 요청하십시오.
+아래 프로토콜을 구현하는 데 도움이 필요하면 이 문서를 IT 부서와 공유하십시오. Marketo을 사용하여 웹 액세스를 제한하는 경우 모든 허용 목록에 추가하다 리소스 및 웹 소켓을 허용하도록 다음 도메인(별표 포함)을 추가해야 합니다.
 
 * `*.marketo.com`
 * `*.marketodesigner.com`
