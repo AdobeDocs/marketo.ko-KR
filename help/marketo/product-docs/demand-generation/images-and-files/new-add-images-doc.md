@@ -4,9 +4,9 @@ title: 새 이미지 추가 문서
 hide: true
 hidefromtoc: true
 feature: Image Editor
-source-git-commit: 100a12a2d9cafe73b6ce62cecee177da604332d3
+source-git-commit: 2154c444be9654474fcc2d1b8e9983983f44846f
 workflow-type: tm+mt
-source-wordcount: '262'
+source-wordcount: '285'
 ht-degree: 2%
 
 ---
@@ -103,9 +103,13 @@ PICC
 
    ![](assets/add-images-and-files-to-marketo-15.png)
 
-1. 텍스트
+1. 다음 항목 선택 **[!UICONTROL Adobe Experience Manager]** 옵션 및 클릭 **[!UICONTROL 다음]**.
 
-PICC
+   ![](assets/add-images-and-files-to-marketo-16.png)
+
+   >[!NOTE]
+   >
+   >이전에 로그인하지 않았다면 AEM 계정에 로그인하라는 메시지가 표시됩니다.
 
 1. 텍스트
 
