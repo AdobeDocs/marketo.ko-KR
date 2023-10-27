@@ -3,10 +3,10 @@ description: 현재 릴리스 정보 - Marketo 설명서 - 제품 설명서
 title: 최신 릴리스 정보
 exl-id: a2eccad5-73ad-48f9-8091-51cee23824e1
 feature: Release Information
-source-git-commit: a69c6955f0390f791d8e45056967e8f0eb4699d7
+source-git-commit: d0302459ac521d6b0dc6dc699fa7d99b38b9f058
 workflow-type: tm+mt
-source-wordcount: '347'
-ht-degree: 2%
+source-wordcount: '346'
+ht-degree: 3%
 
 ---
 
@@ -31,8 +31,8 @@ ht-degree: 2%
   </tr> 
   <tr> 
    <td><strong>최신 UX의 보고서 구성을 위한 새로운 디자인</strong>: 보고서 자산을 설정할 때 <a href="https://nation.marketo.com/t5/product-blogs/analytic-modal-updates/ba-p/340321" target="_blank">새 자산 트리</a> 구성 메뉴와 만든 날짜 및 수정한 날짜를 필터링할 수 있는 기능을 함께 사용할 수 있습니다.</td> 
-   <td><i>곧 출시 예정</i></td>
-   <td><i>곧 출시 예정</i></td>
+   <td>배송됨</td>
+   <td>해당 사항 없음</td>
   </tr>
    <tr> 
    <td> </td> 
