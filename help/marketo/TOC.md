@@ -3,9 +3,9 @@ audience: end-user
 user-guide-title: Marketo 안내서
 user-guide-description: Marketo 제품 설명서
 feature-set: Marketo Engage
-source-git-commit: 51a4374cb2ce1995ec8f33eddd4b3470e7ad409e
+source-git-commit: dbfbf2bfe78e88e494d15b8d81e78e16e8c92edb
 workflow-type: tm+mt
-source-wordcount: '9099'
+source-wordcount: '9104'
 ht-degree: 1%
 
 ---
@@ -104,7 +104,7 @@ ht-degree: 1%
          + [웹 사이트에 Munchkin 추적 코드 추가](product-docs/administration/additional-integrations/add-munchkin-tracking-code-to-your-website.md)
          + [차세대 Munchkin 추적 FAQ](product-docs/administration/additional-integrations/add-munchkin-tracking-code-to-your-website/next-generation-munchkin-tracking-faq.md)
          + [포털에 SSO(Single Sign-On) 추가](product-docs/administration/additional-integrations/add-single-sign-on-to-a-portal.md)
-         + [LaunchPoint 서비스로 WebEx 추가](product-docs/administration/additional-integrations/add-webex-as-a-launchpoint-service.md)
+         + [Webex를 LaunchPoint 서비스로 추가](product-docs/administration/additional-integrations/add-webex-as-a-launchpoint-service.md)
          + [facebook as a LaunchPoint Service의 작업 공간 추가](product-docs/administration/additional-integrations/add-workplace-by-facebook-as-a-launchpoint-service.md)
          + [LaunchPoint 서비스로 확대/축소 추가](product-docs/administration/additional-integrations/add-zoom-as-a-launchpoint-service.md)
          + [SOAP API 설정 구성](product-docs/administration/additional-integrations/configuring-your-soap-api-settings.md)
@@ -684,7 +684,8 @@ ht-degree: 1%
             + [Adobe Connect으로 이벤트 만들기](product-docs/demand-generation/events/create-an-event/create-an-event-with-adobe-connect.md)
             + [GotoWebinar를 사용하여 이벤트 만들기](product-docs/demand-generation/events/create-an-event/create-an-event-with-gotowebinar.md)
             + [수준 3 웹 모임으로 이벤트 만들기](product-docs/demand-generation/events/create-an-event/create-an-event-with-level-3-web-meeting.md)
-            + [WebEx로 이벤트 만들기](product-docs/demand-generation/events/create-an-event/create-an-event-with-webex.md)
+            + [Webex를 사용하여 이벤트 만들기](product-docs/demand-generation/events/create-an-event/create-an-event-with-webex.md)
+              [Webex 2를 사용하여 이벤트 만들기](product-docs/demand-generation/events/create-an-event/create-an-event-with-webex-2.md)
             + [확대/축소를 사용하여 이벤트 만들기](product-docs/demand-generation/events/create-an-event/create-an-event-with-zoom.md)
             + Marketo ON24 어댑터를 사용하여 이벤트 만들기 {#create-an-event-with-the-marketo-on24-adapter}
                + [Marketo과 ON24 통합 설정](product-docs/demand-generation/events/create-an-event/create-an-event-with-the-marketo-on24-adapter/set-up-the-on24-integration-with-marketo.md)
