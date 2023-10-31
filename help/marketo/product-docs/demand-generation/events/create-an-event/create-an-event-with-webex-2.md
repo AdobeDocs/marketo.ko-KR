@@ -4,14 +4,16 @@ title: Webex를 사용하여 이벤트 만들기
 hide: true
 hidefromtoc: true
 feature: Events
-source-git-commit: 286e1b7b563be70e932206adec6f80b4877b7953
+source-git-commit: eb7bea86a5696ff2699b38b27291deeb5cbe7ab2
 workflow-type: tm+mt
-source-wordcount: '616'
+source-wordcount: '602'
 ht-degree: 0%
 
 ---
 
 # Webex를 사용하여 이벤트 만들기 {#create-an-event-with-webex}
+
+Webex에서 웨비나를 만든 후에는 이벤트를 Marketo Engage과 동기화해야 합니다.
 
 >[!PREREQUISITES]
 >
@@ -19,13 +21,9 @@ ht-degree: 0%
 >* [새 이벤트 프로그램 만들기](/help/marketo/product-docs/demand-generation/events/understanding-events/create-a-new-event-program.md)
 >* 적절한 설정 [흐름 작업](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/add-a-flow-step-to-a-smart-campaign.md) 참여를 추적하려면
 
-## 웨비나 예약 {#schedule-a-webinar}
+## 웨비나 예약 {#schedule-your-webinar}
 
-먼저,에서 웨비나를 만듭니다. [Webex](https://www.webex.com/){target="_blank"}. Marketo Engage only uses specific settings and fields for your integration, which we'll go through shortly. For additional information, please see the [Webex Webinars Help Documentation](https://help.webex.com/en-us/landing/ld-7srxjs-WebexWebinars/Webex-Webinars){target="_blank"}.
-
->[!NOTE]
->
->Webex에서 기본 설정을 선택했지만 Marketo Engage에서 웨비나 이름, 시작/종료 날짜 및 시간, 시간대 및 설명 정보만 볼 수 있습니다.
+에서 이벤트를 예약하고 선호하는 설정을 선택합니다. [Webex](https://www.webex.com/){target="_blank"}. Only the following information is viewable in Marketo: webinar name, start/end date & time, time zone, and description. Additional information about Webex Webinars [can be found here](https://help.webex.com/en-us/landing/ld-7srxjs-WebexWebinars/Webex-Webinars){target="_blank"}.
 
 ### 기본 정보 {#basic-information}
 
@@ -71,11 +69,9 @@ ht-degree: 0%
 >
 >Marketo-Webex 통합은 Webex에서 확인 이메일 전송을 지원할 수 없습니다. 확인 메일은 Marketo을 통해 전송되어야 합니다. 이벤트를 예약한 후에는 이벤트 정보를 Marketo 확인 이메일에 복사하고 이메일을 다음으로 설정하십시오. _운영_.
 
-이제 Marketo Engage에 뛰어들 준비가 되었습니다!
-
 ## Marketo Engage과 이벤트 동기화 {#sync-your-event-with-marketo-engage}
 
-1. Marketo에서 만든 이벤트 프로그램을 찾아 선택합니다. 다음에서 **이벤트 작업** 드롭다운, 선택 **이벤트 설정**.
+1. Marketo에서 원하는 이벤트 프로그램을 찾아 선택합니다. 다음에서 **이벤트 작업** 드롭다운, 선택 **이벤트 설정**.
 
    ![](assets/create-an-event-with-webex-5.png)
 
@@ -99,7 +95,7 @@ ht-degree: 0%
 
    ![](assets/create-an-event-with-webex-9.png)
 
-이제 Webex 이벤트가 Marketo 이벤트와 동기화됩니다. 웨비나에 등록하는 사람은 를 통해 웨비나 공급자에게 푸시됩니다. _프로그램 상태 변경_ 새 상태가 &quot;등록됨&quot;으로 설정된 경우 흐름 단계. 다른 상태는 사용자를 밀어내지 않습니다. 다음을 확인하십시오. _프로그램 상태 변경_ 플로우 단계 #1 및 _이메일 보내기_ 흐름 단계 #2.
+이제 Webex 이벤트가 Marketo 이벤트 프로그램과 동기화됩니다. 웨비나에 등록하는 사람은 를 통해 웨비나 공급자에게 푸시됩니다. _프로그램 상태 변경_ 새 상태가 &quot;등록됨&quot;으로 설정된 경우 흐름 단계. 다른 상태는 사용자를 밀어내지 않습니다. 다음을 확인하십시오. _프로그램 상태 변경_ 플로우 단계 #1 및 _이메일 보내기_ 흐름 단계 #2.
 
 ## 참고할 사항 {#things-to-note}
 
