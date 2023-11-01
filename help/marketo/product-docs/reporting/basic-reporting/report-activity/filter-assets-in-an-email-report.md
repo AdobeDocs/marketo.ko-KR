@@ -4,9 +4,9 @@ description: 이메일 보고서에서 에셋 필터링 - Marketo 문서 - 제�
 title: 이메일 보고서에서 자산 필터링
 exl-id: c242e566-94d0-4e20-ba81-13a8f8f0b8a9
 feature: Reporting
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: e396542eb13e54306b0b7620d0092716a5be182f
 workflow-type: tm+mt
-source-wordcount: '147'
+source-wordcount: '172'
 ht-degree: 0%
 
 ---
@@ -14,6 +14,10 @@ ht-degree: 0%
 # 이메일 보고서에서 자산 필터링 {#filter-assets-in-an-email-report}
 
 포커스에 맞추기 [이메일 성능](/help/marketo/product-docs/email-marketing/email-programs/email-program-data/email-performance-report.md) 또는 [이메일 링크 성능](/help/marketo/product-docs/email-marketing/email-programs/email-program-data/email-link-performance-report.md) 프로그램의 이메일(&#39;로컬 자산&#39;), Design Studio의 이메일(&#39;글로벌 자산&#39;) 또는 보관된 이메일에 대해 보고합니다.
+
+>[!NOTE]
+>
+>보고서에서 자산을 필터링하는 기능은 위성 모드(자산 세부 사항 페이지 오른쪽에 있는 &#39;새 창에서 열기&#39; 아이콘)에서 지원되지 않습니다.
 
 1. 다음으로 이동 **분석** (또는 **마케팅 활동**) 영역입니다.
 

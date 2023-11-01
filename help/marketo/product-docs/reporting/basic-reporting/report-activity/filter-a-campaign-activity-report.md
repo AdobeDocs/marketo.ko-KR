@@ -4,9 +4,9 @@ description: 캠페인 활동 보고서 필터링 - Marketo 문서 - 제품 설�
 title: 캠페인 활동 보고서 필터링
 exl-id: c34d6dfa-c635-4ca8-ad4f-bfa5cadaef2d
 feature: Reporting
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: e396542eb13e54306b0b7620d0092716a5be182f
 workflow-type: tm+mt
-source-wordcount: '100'
+source-wordcount: '125'
 ht-degree: 0%
 
 ---
@@ -14,6 +14,10 @@ ht-degree: 0%
 # 캠페인 활동 보고서 필터링 {#filter-a-campaign-activity-report}
 
 포커스에 맞추기 [캠페인 활동 보고서](/help/marketo/product-docs/reporting/basic-reporting/report-types/campaign-activity-report.md)특정 [스마트 캠페인](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/creating-a-smart-campaign/understanding-batch-and-trigger-smart-campaigns.md).
+
+>[!NOTE]
+>
+>보고서에서 자산을 필터링하는 기능은 위성 모드(자산 세부 사항 페이지 오른쪽에 있는 &#39;새 창에서 열기&#39; 아이콘)에서 지원되지 않습니다.
 
 1. 다음으로 이동 **마케팅 활동** (또는 **분석**)을 만들고 캠페인 활동 보고서를 선택합니다.
 
