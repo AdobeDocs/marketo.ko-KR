@@ -2,10 +2,10 @@
 description: 릴리스 노트 - 2023년 7월 - Marketo 설명서 - 제품 설명서
 title: 릴리스 노트 - 2023년 7월
 feature: Release Information
-exl-id: bda861e3-24a1-4325-9b4c-f65a046d7696
-source-git-commit: 38274b4859ae38c018ee73d4f1715fdf6a78e815
+exl-id: 4056353c-4125-4849-8350-59c58afb9e66
+source-git-commit: 87bc9acec7f998edaf06ecb1880da91513f32214
 workflow-type: tm+mt
-source-wordcount: '641'
+source-wordcount: '654'
 ht-degree: 2%
 
 ---
@@ -92,7 +92,7 @@ ht-degree: 2%
 
 </br>
 
-* **추가 설정 구독 취소**: 이제 구독 취소 메시지를 보다 세밀하게 제어할 수 있으며 구독 취소 추가 구성 옵션이 새로 추가되었습니다. 새로운 기능을 통해 관리자는 판매 이메일에 구독 취소 메시지가 표시되는 시기, 장소 및 내용을 제어할 수 있습니다.
+* **Sales Insight 작업에 대한 추가 설정 구독 취소**: 이제 구독 취소 메시지를 보다 세밀하게 제어할 수 있으며 구독 취소 추가 구성 옵션이 새로 추가되었습니다. 새로운 기능을 통해 관리자는 판매 이메일에 구독 취소 메시지가 표시되는 시기, 장소 및 내용을 제어할 수 있습니다.
 
 <table> 
   <tr> 
@@ -100,13 +100,13 @@ ht-degree: 2%
    <td><b>설명서 업데이트 정보</b></td>
   </tr>
   <tr> 
-   <td><i>곧 출시 예정</i></td>
-   <td><i>곧 출시 예정</i></td>
+   <td>배송됨</td>
+   <td><a href="help/marketo/product-docs/marketo-sales-insight/actions/email/unsubscribes/auto-append-unsubscribe-message-setting.md" target="_blank">자동 추가 구독 취소 메시지 설정</a></td>
   </tr>
   </tbody>
 </table>
 
-* **동적 필드 프롬프트**: 이제 Sales Insight Actions 의 이메일 템플릿에 추가할 수 있는 새로운 필드 프롬프트를 통해 영업팀에 이메일의 특정 부분을 개인화하라는 메시지를 표시할 수 있습니다.
+* **Sales Insight Actions에 대한 동적 필드 프롬프트**: 이제 Sales Insight Actions 의 이메일 템플릿에 추가할 수 있는 새로운 필드 프롬프트를 통해 영업팀에 이메일의 특정 부분을 개인화하라는 메시지를 표시할 수 있습니다.
 
 <table> 
   <tr> 
@@ -120,7 +120,7 @@ ht-degree: 2%
   </tbody>
 </table>
 
-* **기본 동적 필드**: 기본 동적 필드를 사용하면 채울 수 있는 값이 없는 경우 동적 필드에서 확인할 수 있는 대체 값을 구성할 수 있습니다. 이렇게 하면 모든 개인화가 채워진 상태로 이메일이 발송됩니다.
+* **판매 통찰력 작업에 대한 기본 동적 필드**: 기본 동적 필드를 사용하면 채울 수 있는 값이 없는 경우 동적 필드에서 확인할 수 있는 대체 값을 구성할 수 있습니다. 이렇게 하면 모든 개인화가 채워진 상태로 이메일이 발송됩니다.
 
 <table> 
   <tr> 
