@@ -3,7 +3,7 @@ description: 릴리스 노트 - 2023년 7월 - Marketo 설명서 - 제품 설명
 title: 릴리스 노트 - 2023년 7월
 feature: Release Information
 exl-id: 4056353c-4125-4849-8350-59c58afb9e66
-source-git-commit: 87bc9acec7f998edaf06ecb1880da91513f32214
+source-git-commit: dc13ffb4232b39d702ba835814f272256c153f6a
 workflow-type: tm+mt
 source-wordcount: '654'
 ht-degree: 2%
@@ -101,7 +101,7 @@ ht-degree: 2%
   </tr>
   <tr> 
    <td>배송됨</td>
-   <td><a href="help/marketo/product-docs/marketo-sales-insight/actions/email/unsubscribes/auto-append-unsubscribe-message-setting.md" target="_blank">자동 추가 구독 취소 메시지 설정</a></td>
+   <td><a href="/help/marketo/product-docs/marketo-sales-insight/actions/email/unsubscribes/auto-append-unsubscribe-message-setting.md" target="_blank">자동 추가 구독 취소 메시지 설정</a></td>
   </tr>
   </tbody>
 </table>
