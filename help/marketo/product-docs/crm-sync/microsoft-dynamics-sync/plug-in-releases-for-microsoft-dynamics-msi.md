@@ -4,18 +4,18 @@ description: Microsoft Dynamics MSI용 플러그인 릴리스 - Marketo 문서 -
 title: Microsoft Dynamics MSI용 플러그인 릴리스
 exl-id: 830f7dc3-07fd-429b-b0fd-290ffdda88e6
 feature: Microsoft Dynamics
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 821d69736b1cbeac0c80718c58a7a3c471387545
 workflow-type: tm+mt
-source-wordcount: '316'
-ht-degree: 6%
+source-wordcount: '318'
+ht-degree: 8%
 
 ---
 
 # Microsoft Dynamics MSI용 플러그인 릴리스 {#plug-in-releases-for-microsoft-dynamics-msi}
 
-Microsoft Dynamics에 처음 동기화하면 Marketo Sales Insight(MSI)의 최신 버전의 플러그인을 다운로드하여 설치합니다. Marketo은 이러한 플러그인을 정기적으로 업데이트하므로 동일한 위치로 돌아가서 새 버전을 다운로드할 수 있습니다.
+Microsoft Dynamics에 처음 동기화하면 Marketo Sales Insight(MSI)의 최신 버전의 플러그인을 다운로드하여 설치합니다. Marketo Engage은 이러한 플러그인을 정기적으로 업데이트하므로 동일한 위치로 돌아가서 새 버전을 다운로드할 수 있습니다.
 
-Marketo의 기본 CRM 동기화 솔루션을 Dynamics에 사용하는 경우 [최신 플러그인 다운로드](/help/marketo/product-docs/marketo-sales-insight/msi-for-microsoft-dynamics/installing/download-the-marketo-sales-insight-solution-for-microsoft-dynamics.md){target="_blank"} corresponding to your Dynamics release. For those who have a custom sync and have purchased Marketo Sales Insight, the [package is here](https://mktg-cdn.marketo.com/community/MarketoSalesInsight_NonNative.zip){target="_blank"}.
+Dynamics에 대한 Marketo 기본 CRM 동기화 솔루션을 사용하는 경우 [최신 플러그인 다운로드](/help/marketo/product-docs/marketo-sales-insight/msi-for-microsoft-dynamics/installing/download-the-marketo-sales-insight-solution-for-microsoft-dynamics.md){target="_blank"} corresponding to your Dynamics release. For those who have a custom sync and have purchased Marketo Sales Insight, the [package is here](https://mktg-cdn.marketo.com/community/MarketoSalesInsight_NonNative.zip){target="_blank"}.
 
 >[!NOTE]
 >
@@ -23,7 +23,7 @@ Marketo의 기본 CRM 동기화 솔루션을 Dynamics에 사용하는 경우 [�
 
 ## MSI 솔루션 업그레이드 {#upgrading-your-msi-solution}
 
-1. 최신 버전의 솔루션 가져오기 _기존 버전 이상_ 을 눌러 Dynamics CRM의 **가져오기** dynamics의 단추입니다.
+1. 최신 버전의 솔루션 가져오기 _기존 버전 이상_ 을 눌러 Dynamics CRM의 **[!UICONTROL 가져오기]** dynamics의 단추입니다.
 
    ![](assets/plug-in-releases-for-microsoft-dynamics-msi-1.png)
 
@@ -31,15 +31,15 @@ Marketo의 기본 CRM 동기화 솔루션을 Dynamics에 사용하는 경우 [�
 >
 >예: Dynamics CRM의 버전이 2.0.0.20이고 최신 버전이 2.0.0.21인 경우 다음을 가져옵니다. _초과_ 버전 2.0.0.20.
 
-1. 클릭 **다음**.
+1. **[!UICONTROL 다음]**&#x200B;을 클릭합니다.
 
    ![](assets/plug-in-releases-for-microsoft-dynamics-msi-2.png)
 
-1. 선택 **업그레이드 단계** 및 **사용자 지정 유지**&#x200B;을 클릭한 다음 을 클릭합니다 **가져오기**.
+1. 선택 **[!UICONTROL 업그레이드 단계]** 및 **[!UICONTROL 사용자 지정 유지]**&#x200B;을 클릭한 다음 을 클릭합니다 **[!UICONTROL 가져오기]**.
 
    ![](assets/plug-in-releases-for-microsoft-dynamics-msi-3.png)
 
-1. 클릭 **다음**.
+1. **[!UICONTROL 다음]**&#x200B;을 클릭합니다.
 
    ![](assets/plug-in-releases-for-microsoft-dynamics-msi-4.png)
 

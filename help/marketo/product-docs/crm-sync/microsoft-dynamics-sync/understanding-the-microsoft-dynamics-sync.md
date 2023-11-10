@@ -4,16 +4,16 @@ description: Microsoft Dynamics 동기화 이해 - Marketo 문서 - 제품 설�
 title: Microsoft Dynamics 동기화 이해
 exl-id: bc87f744-7f1c-421b-8507-1a6e23d27fa2
 feature: Microsoft Dynamics
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 821d69736b1cbeac0c80718c58a7a3c471387545
 workflow-type: tm+mt
-source-wordcount: '245'
+source-wordcount: '246'
 ht-degree: 0%
 
 ---
 
 # Microsoft Dynamics 동기화 이해 {#understanding-the-microsoft-dynamics-sync}
 
-Marketo과 Microsoft Dynamics가 함께 제공됩니다. Dell은 고객의 판매 및 마케팅 데이터를 동기화합니다.
+Marketo Engage과 Microsoft Dynamics가 함께 제공됩니다. Dell은 고객의 판매 및 마케팅 데이터를 동기화합니다.
 
 >[!NOTE]
 >
