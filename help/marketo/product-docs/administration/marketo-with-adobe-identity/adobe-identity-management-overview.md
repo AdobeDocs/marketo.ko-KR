@@ -3,22 +3,16 @@ description: Adobe Identity Management 개요 - Marketo 문서 - 제품 설명�
 title: Adobe Identity Management 개요
 exl-id: 18ddeebc-bc89-411c-9d2c-23df6841cb3a
 feature: Marketo with Adobe Identity
-source-git-commit: 9e51ece12742152040dbbcb6a1584fba28e863ff
+source-git-commit: 094a11f9544e0dba75167de229d78e8ff50cf6e8
 workflow-type: tm+mt
-source-wordcount: '430'
+source-wordcount: '307'
 ht-degree: 0%
 
 ---
 
 # Adobe Identity Management 개요 {#adobe-identity-management-overview}
 
-2022년 2월 15일 현재 Adobe Marketo Engage에 새 계정(기존 계정의 새 인스턴스뿐만 아니라 새 계정)이 있는 경우, 구매한 제품 패키지에 따라 Adobe Identity Management 시스템과 통합될 수 있습니다. 보유하고 있는지 확인하려면 Adobe 계정 팀(계정 관리자)에 문의하십시오.
-
-기존 Marketo 구독은 2023년 하반기에 Adobe Identity Management 시스템으로 마이그레이션되기 시작합니다.
-
-다음 항목이 있는 경우: [새 계정](/help/marketo/product-docs/administration/marketo-with-adobe-identity/quick-guide.md){target="_blank"} (기존 계정에 대한 새 인스턴스뿐만 아니라) Adobe Marketo Engage은 2022년 2월 15일부터 구입한 제품 패키지에 따라 Identity Management 시스템(IMS) Adobe과 통합될 수 있습니다. 보유하고 있는지 확인하려면 Adobe 계정 팀(계정 관리자)에 문의하십시오.
-
-기존 Marketo 구독은 2023년 말부터 Adobe Identity Management 시스템으로 마이그레이션되기 시작합니다. 처음에는 Marketo 구독을 다시 계약한 후에만 이러한 마이그레이션이 발생할 수 있습니다. Adobe은 2024년 중순경 재계약 이벤트 외부에서 Marketo 사용자 마이그레이션을 시작할 계획입니다.
+모든 새 Adobe Marketo Engage 구독(2023년 7월 31일 이상)은 Adobe Identity Management 시스템과 통합됩니다. 기존 Marketo 구독은 현재 갱신 및/또는 이벤트 재계약 시 Adobe Identity Management 시스템으로 마이그레이션되고 있습니다. 갱신 또는 재계약 이벤트 이외의 마이그레이션은 현재 지원되지 않습니다.
 
 >[!NOTE]
 >

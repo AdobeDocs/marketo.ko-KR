@@ -3,9 +3,9 @@ description: Marketo 구독 및 Adobe Admin Console으로의 사용자 마이그
 title: Marketo 구독 및 Adobe Admin Console으로의 사용자 마이그레이션 이해
 exl-id: 91e7b56b-2563-4986-a55c-f9760ea88b05
 feature: Marketo with Adobe Identity
-source-git-commit: cc7f5880dba926349ddf763e5b28fc4a922aa26d
+source-git-commit: 094a11f9544e0dba75167de229d78e8ff50cf6e8
 workflow-type: tm+mt
-source-wordcount: '1169'
+source-wordcount: '1189'
 ht-degree: 0%
 
 ---
@@ -27,7 +27,6 @@ Adobe Admin Console을 사용하여 를 통해 전체 조직에서 Adobe 권한�
 * **사용자가 Adobe ID로 로그인합니다.**. Adobe은 기존 사용자를 Adobe Admin Console으로 마이그레이션합니다. 사용자는 새로운 Adobe ID(Adobe ID 또는 Adobe Federated ID(SSO))를 사용하여 Marketo 구독에 로그인합니다.
 
 * **다른 모든 기능을 관리하는 방법에는 변경 사항이 없습니다** 기능, 사용자 역할, 작업 공간, 기능 및 비헤이비어 관리를 포함하여 Marketo Engage 애플리케이션 자체 내에서.
-
 
 ## 마이그레이션 여정 타임라인 {#migration-journey-timeline}
 
@@ -81,7 +80,7 @@ Marketo 제품 관리자는 모든 사용자가 마이그레이션할 날을 준
 
 ### 마이그레이션 당일 기대 사항 {#what-to-expect-on-migration-day}
 
-사용자 마이그레이션은 마이그레이션 시작일 자정(태평양 표준시)에 시작됩니다.
+미국 시간대가 포함된 모든 Marketo 구독은 마이그레이션 시작일의 태평양 표준시 자정(자정)부터 마이그레이션됩니다. 다른 모든 구독에 대한 사용자 마이그레이션은 구독이 지정된 시간대의 자정에 시작됩니다.
 
 **Adobe은 먼저 Marketo 관리자를 자동으로 마이그레이션합니다.**. Marketo 관리자는 Adobe ID로 마이그레이션되면 이전에 수행한 다른 역할과 함께 Marketo 애플리케이션 내에서 Adobe 제품 관리자 역할이 할당됩니다.
 
@@ -93,7 +92,9 @@ Marketo 제품 관리자는 모든 사용자가 마이그레이션할 날을 준
 >
 >사용자 마이그레이션 중에도 제품에 대한 액세스 손실이 발생하지 않습니다. 사용자를 마이그레이션하는 동안 사용자가 로그인하면 사용자가 로그아웃되고 마이그레이션이 완료된 후 Adobe ID를 사용하여 몇 분 안에 다시 로그인하라는 메시지가 표시됩니다.
 
-Adobe이 마이그레이션되면 사용자는 Marketo에 로그인하는 방식으로 변경되었음을 알리는 이메일을 사용자로부터 받게 됩니다. 기존 Adobe ID으로 로그인하거나 동일한 이메일 주소를 사용하여 새 Adobe ID을 설정하여 Adobe ID를 사용하여 로그인하라는 초대를 처음으로 수락하도록 사용자를 초대합니다. 자세한 내용은 [Adobe으로 로그인](/help/marketo/product-docs/administration/marketo-with-adobe-identity/user-sign-in-with-adobe-id.md){target="_blank"} 기사.
+Adobe이 마이그레이션되면 사용자는 Marketo에 로그인하는 방식으로 변경되었음을 알리는 이메일을 사용자로부터 받게 됩니다. 기존 Adobe ID으로 로그인하거나 동일한 이메일 주소를 사용하여 새 Adobe ID을 설정하여 Adobe ID를 사용하여 로그인하라는 초대를 처음으로 수락하도록 사용자를 초대합니다.
+
+자세한 내용은에서 찾을 수 있습니다. [Adobe으로 로그인](/help/marketo/product-docs/administration/marketo-with-adobe-identity/user-sign-in-with-adobe-id.md){target="_blank"} and [Adobe Identity Management FAQ](/help/marketo/product-docs/administration/marketo-with-adobe-identity/faq.md){target="_blank"}.
 
 ## 사용자 마이그레이션 완료 {#user-migration-complete}
 
