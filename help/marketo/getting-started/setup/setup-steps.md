@@ -4,9 +4,9 @@ description: 설정 단계 - Marketo 문서 - 제품 설명서
 title: 설정 단계
 exl-id: ef6b7311-55ca-4384-a24c-714eae89a57d
 feature: Getting Started
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: a5cda002c4b8805d3ecd0adb0a08128ce7c91629
 workflow-type: tm+mt
-source-wordcount: '2043'
+source-wordcount: '2062'
 ht-degree: 0%
 
 ---
@@ -36,6 +36,10 @@ Marketo 사용에 앞서 몇 가지 단계를 완료해야 합니다.
 
 ## 로그인 및 추가 Marketo 사용자 만들기 {#log-in-and-create-additional-marketo-users}
 
+>[!IMPORTANT]
+>
+>Marketo 구독이 2023년 7월 31일 이후에 생성되었거나 이미 (으)로 마이그레이션된 경우 [Identity Management Adobe](/help/marketo/product-docs/administration/marketo-with-adobe-identity/adobe-identity-management-overview.md){target="_blank"}, the steps for adding a user outlined below will not apply to you. Please see [this article](/help/marketo/product-docs/administration/marketo-with-adobe-identity/add-or-remove-a-user.md){target="_blank"} 대신,
+
 Marketo에 로그인 [여기](https://app.marketo.com/){target="_blank"} 전자 메일로 받은 자격 증명을 사용합니다.
 
 ![](assets/setup-steps-1.png)
@@ -62,7 +66,7 @@ Marketo에 로그인 [여기](https://app.marketo.com/){target="_blank"} 전자 
 
 ![](assets/setup-steps-4.png)
 
-동료의 이메일 주소, 이름, 성을 입력합니다. _액세스 만료일 설정은 선택 사항입니다._. 클릭 **[!UICONTROL 다음]**.
+동료의 이메일 주소, 이름, 성을 입력합니다. _액세스 만료일 설정은 선택 사항입니다._. **[!UICONTROL 다음]**&#x200B;을 클릭합니다.
 
 ![](assets/setup-steps-5.png)
 
@@ -313,7 +317,7 @@ IT 담당자가 작업을 완료하면 다음 단계에 따라 랜딩 페이지 
 
 도메인 필드에 이메일 추적 도메인을 입력합니다. 형식은 다음과 같아야 합니다.
 
-`[EmailTrackingCNAME].[CompanyDomain].com`. 클릭 **[!UICONTROL 저장]**.
+`[EmailTrackingCNAME].[CompanyDomain].com`. **[!UICONTROL 저장]**&#x200B;을 클릭합니다.
 
 ![](assets/setup-steps-21.png)
 
