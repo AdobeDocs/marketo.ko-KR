@@ -3,9 +3,9 @@ description: Identity Management FAQ Adobe - Marketo 문서 - 제품 설명서
 title: IDENTITY MANAGEMENT FAQ ADOBE
 feature: Marketo with Adobe Identity
 exl-id: 2401def7-1696-4d77-a8a3-96c490517121
-source-git-commit: 094a11f9544e0dba75167de229d78e8ff50cf6e8
+source-git-commit: eca77d8426c8f696dc35dbfb9e20abcb46e53127
 workflow-type: tm+mt
-source-wordcount: '783'
+source-wordcount: '1180'
 ht-degree: 1%
 
 ---
@@ -89,3 +89,23 @@ Adobe IMS는 현재 Marketo의 장치 인증 기능과 같은 기능을 지원�
 **Adobe Admin Console에서 지원되는 제품 카드는 무엇입니까?**
 
 지원되는 제품 카드는 Marketo Engage, Marketo Measure, Marketo Dynamic Chat, Marketo Sales Connect 및 Marketo Sales Insight Actions 입니다.
+
+**Adobe ID로 마이그레이션했을 때 사용자 로그인이 내 이메일과 일치하지 않으면 어떻게 합니까?**
+
+이메일 주소와 다른 로그인을 사용하는 현재 Marketo 사용자는 Adobe ID로 마이그레이션되면 더 이상 해당 자격 증명으로 로그인하지 않습니다. Adobe ID는 항상 사용자의 이메일 주소로 인증됩니다.
+
+**내 구독이 IP 제한 설정을 사용하는 경우 Adobe ID 마이그레이션 후 어떻게 됩니까?**
+
+Adobe ID에 구독을 온보딩할 때 IP 제한 설정이 Adobe Admin Console으로 마이그레이션되지 않습니다. Marketo의 IP 제한 설정에는 특정 IP 주소에서의 액세스만 허용하고 특정 IP 주소의 액세스를 차단하는 것이 포함됩니다. 현재 Adobe Identity Management 시스템은 IP 제한 기능을 지원하지 않습니다.
+
+2024년 Adobe Identity Management System은 특정 IP 주소만 허용하는 기능을 출시하며 현재 이 기능을 사용하는 Marketo 사용자에 대한 전환을 지원합니다. 현재 이 기능을 사용하는 사용자는 기능이 릴리스될 때까지 사용자 마이그레이션을 수행하지 않습니다. 기능이 전달되면 마이그레이션이 예약된다는 알림이 사용자에게 표시됩니다. 사용 가능한 경우 기능에 대한 자세한 정보가 제공됩니다.
+
+현재 IP 제한을 사용하는 사용자는 특정 주소의 액세스를 차단하며, Adobe Identity Management 시스템에서 지원하지 않으므로 Adobe ID로 마이그레이션한 후에는 이 기능을 더 이상 사용할 수 없습니다.
+
+**&#39;단일 사인온 우회&#39; 옵션이 있는 역할을 가진 사용자가 있을 경우, Adobe ID 마이그레이션 후 어떻게 됩니까?**
+
+구독이 Adobe ID에 온보딩되면 모든 사용자에 대한 Adobe 조직 수준에서 SSO(Single Sign-On)가 설정됩니다. SSO가 설정되면 해당 Adobe 조직의 모든 Marketo 사용자/모든 Marketo 인스턴스에 대해 적용됩니다. 이전에는 Marketo에서 사용자 역할을 설정하여 &#39;단일 사인온 우회&#39; 옵션을 사용할 수 있도록 지원했습니다. Adobe Identity Management 시스템에서 지원되지 않습니다.
+
+**둘 이상의 구독이 있지만 모두 SSO(Single Sign-On)가 활성화되어 있지는 않습니다. Adobe ID 마이그레이션 후 어떻게 됩니까?**
+
+구독이 Adobe ID에 온보딩되면 Adobe 조직 수준에서 SSO(Single Sign-On)가 설정됩니다. 즉, SSO는 Adobe 조직의 모든 제품 인스턴스에 적용됩니다. SSO가 설정되면 이 SSO는 해당 Adobe 조직의 모든 Marketo 인스턴스에 적용됩니다. 이전에는 Marketo에서 인스턴스 수준에서 이 설정을 지원했습니다. Adobe Identity Management 시스템에서 지원되지 않습니다.
