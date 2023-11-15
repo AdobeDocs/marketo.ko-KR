@@ -3,9 +3,9 @@ audience: end-user
 user-guide-title: Marketo 안내서
 user-guide-description: Marketo 제품 설명서
 feature-set: Marketo Engage
-source-git-commit: 7edce24c2199a6a2eaa119d3ef77543bbd97999c
+source-git-commit: 1152e81462fb77dd23ff57e26ded7f9b3c02c258
 workflow-type: tm+mt
-source-wordcount: '9099'
+source-wordcount: '9103'
 ht-degree: 1%
 
 ---
@@ -24,6 +24,7 @@ ht-degree: 1%
       + [설정 단계](getting-started/setup/setup-steps.md)
       + [체크리스트 설정](getting-started/setup/setup-checklist.md)
       + [Marketo에 대한 프로토콜 구성](getting-started/setup/configure-protocols-for-marketo.md)
+      + [프로토콜 구성 문서를 업데이트했습니다.](getting-started/setup/updated-configure-protocols-doc.md)
    + 빠른 성공 {#quick-wins}
       + [설정 및 사용자 추가](getting-started/quick-wins/get-set-up-and-add-a-person.md)
       + [이메일 보내기](getting-started/quick-wins/send-an-email.md)
