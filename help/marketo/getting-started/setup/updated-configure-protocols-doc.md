@@ -4,7 +4,7 @@ title: 프로토콜 구성 문서를 업데이트했습니다.
 hide: true
 hidefromtoc: true
 feature: Getting Started
-source-git-commit: 1152e81462fb77dd23ff57e26ded7f9b3c02c258
+source-git-commit: 10458ed8bc6553e11686d00dacc1ba36d683ab56
 workflow-type: tm+mt
 source-wordcount: '2104'
 ht-degree: 2%
@@ -257,7 +257,7 @@ DMARC에는 DKIM 정렬과 SPF 정렬의 두 가지 정렬 유형이 있습니�
 
 * DKIM 정렬 DMARC - DKIM 정렬 DMARC를 설정하려면 다음을 수행해야 합니다.
 
-   * 메시지의 보낸 사람: 도메인에 대한 DKIM을 설정합니다. 지침 사용 [이 문서에서](help/marketo/product-docs/email-marketing/deliverability/set-up-a-custom-dkim-signature.md){target="_blank"}.
+   * 메시지의 보낸 사람: 도메인에 대한 DKIM을 설정합니다. 지침 사용 [이 문서에서](/help/marketo/product-docs/email-marketing/deliverability/set-up-a-custom-dkim-signature.md){target="_blank"}.
    * 이전에 구성한 FROM:/DKIM 도메인에 대한 DMARC 구성
 
 * DMARC 정렬 SPF - 브랜드 반환 경로를 통해 DMARC 정렬 SPF를 설정하려면 다음을 수행해야 합니다.
