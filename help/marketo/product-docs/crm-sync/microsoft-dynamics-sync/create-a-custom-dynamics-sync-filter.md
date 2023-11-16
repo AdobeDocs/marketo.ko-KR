@@ -4,9 +4,9 @@ description: 사용자 지정 Dynamics 동기화 필터 만들기 - Marketo 문�
 title: 사용자 지정 Dynamics 동기화 필터 만들기
 exl-id: 6b0d878a-9c55-4e73-9923-11140e83bb37
 feature: Microsoft Dynamics
-source-git-commit: 2403ae0f1fdca3b8238f3f59e2a3b94129deb301
+source-git-commit: a9aa55184a7971d3c82d106481f1f83593a7dd99
 workflow-type: tm+mt
-source-wordcount: '785'
+source-wordcount: '799'
 ht-degree: 0%
 
 ---
@@ -20,11 +20,13 @@ Dynamics CRM의 모든 항목을 Marketo에 동기화하지 않으시겠습니�
 Dynamics 동기화 필터를 설정하려면 다음을 수행하십시오.
 
 1. Dynamics CRM에서 개체(잠재 고객, 연락처, 계정, 기회 및 기타 사용자 지정 엔터티)에 대해 new_synctomkto라는 사용자 지정 두 가지 옵션(부울) 필드를 만듭니다.
-1. 이 필드에 예/아니요 값을 지정하거나 비워 둡니다.
+1. 이 필드에 예/아니요 값을 지정합니다.
 
->[!NOTE]
+데이터베이스나 Marketo이 아닌 Dynamics CRM에서 이러한 변경 작업을 수행해야 합니다.
+
+>[!CAUTION]
 >
->데이터베이스나 Marketo이 아닌 Dynamics CRM에서 이러한 변경 작업을 수행해야 합니다.
+>필드를 할당하지 않고 비워 두거나 NULL로 두면 동기화되지만 업데이트되지는 않습니다.
 
 Marketo은 자동 백그라운드 동기화 중에 이 필드를 찾고 이 논리를 기반으로 동기화할 레코드를 결정합니다.
 

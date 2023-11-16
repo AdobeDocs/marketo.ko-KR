@@ -3,7 +3,7 @@ audience: end-user
 user-guide-title: Marketo 안내서
 user-guide-description: Marketo 제품 설명서
 feature-set: Marketo Engage
-source-git-commit: 2c293eacb0dd693118efc0260118337eb671c1b9
+source-git-commit: a9aa55184a7971d3c82d106481f1f83593a7dd99
 workflow-type: tm+mt
 source-wordcount: '9099'
 ht-degree: 1%
@@ -565,7 +565,7 @@ ht-degree: 1%
             + [동기화 상태](product-docs/crm-sync/microsoft-dynamics-sync/microsoft-dynamics-sync-details/sync-status.md)
             + [Campaign 동기화 개요](product-docs/crm-sync/microsoft-dynamics-sync/microsoft-dynamics-sync-details/campaign-sync-overview.md)
             + [Campaign 동기화 활성화](product-docs/crm-sync/microsoft-dynamics-sync/microsoft-dynamics-sync-details/enable-campaign-sync.md)
-         + 사용자 지정 Dynamics 동기화 필터 세부 정보 {#custom-dynmaics-sync-filter-details}
+         + 사용자 지정 Dynamics 동기화 필터 세부 정보 {#custom-dynamics-sync-filter-details}
             + [사용자 지정 Dynamics 동기화 필터 만들기](product-docs/crm-sync/microsoft-dynamics-sync/create-a-custom-dynamics-sync-filter.md)
             + [이메일 주소에 대한 사용자 정의 동기화 필터 규칙](product-docs/crm-sync/microsoft-dynamics-sync/create-a-custom-dynamics-sync-filter/custom-sync-filter-rules-for-an-email-address.md)
             + [Microsoft Dynamics 동기화 필터: 병합](product-docs/crm-sync/microsoft-dynamics-sync/create-a-custom-dynamics-sync-filter/microsoft-dynamics-sync-filter-merge.md)
