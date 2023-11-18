@@ -3,10 +3,10 @@ description: 4단계/4단계 - 리소스 소유자 암호 제어 연결과 Marke
 title: 4단계/4단계 - 리소스 소유자 암호 제어 연결과 Marketo 솔루션 연결
 exl-id: 71a52a3e-f31e-45ee-8196-d536528e42ca
 feature: Microsoft Dynamics
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 4045f262889d06304111288d30da893529396e81
 workflow-type: tm+mt
-source-wordcount: '415'
-ht-degree: 0%
+source-wordcount: '396'
+ht-degree: 1%
 
 ---
 
@@ -16,9 +16,9 @@ ht-degree: 0%
 
 >[!PREREQUISITES]
 >
->* [1단계/4단계: 리소스 소유자 암호 제어 연결을 사용하여 Marketo 솔루션 설치](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/microsoft-dynamics-365-with-ropc-connection/step-1-of-4-install.md)
->* [2단계/4단계: 리소스 소유자 암호 제어 연결을 사용하여 Marketo 솔루션 설정](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/microsoft-dynamics-365-with-ropc-connection/step-2-of-4-set-up.md)
->* [3단계/4단계: MS Dynamics에서 클라이언트 앱 설정](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/microsoft-dynamics-365-with-ropc-connection/step-3-of-4-set-up.md)
+>* [1단계/4단계: 리소스 소유자 암호 제어 연결을 사용하여 Marketo 솔루션 설치](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/microsoft-dynamics-365-with-ropc-connection/step-1-of-4-install.md){target="_blank"}
+>* [2단계/4단계: 리소스 소유자 암호 제어 연결을 사용하여 Marketo 솔루션 설정](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/microsoft-dynamics-365-with-ropc-connection/step-2-of-4-set-up.md){target="_blank"}
+>* [3단계/4단계: MS Dynamics에서 클라이언트 앱 설정](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/microsoft-dynamics-365-with-ropc-connection/step-3-of-4-set-up.md){target="_blank"}
 
 >[!NOTE]
 >
@@ -26,35 +26,35 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->기본 인증에서 OAuth로 업그레이드하는 경우 다음을 사용할 수 있습니다 [이 문서](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/reconfigure-dynamics-authentication-method.md) 인증을 다시 구성합니다.
+>기본 인증에서 OAuth로 업그레이드하는 경우 다음을 사용할 수 있습니다 [이 문서](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/reconfigure-dynamics-authentication-method.md){target="_blank"} 인증을 다시 구성합니다.
 
 ## Dynamics 동기화 사용자 정보 입력 {#enter-dynamics-sync-user-information}
 
-1. Marketo에 로그인하고 **관리자**.
+1. Marketo에 로그인하고 **Admin**.
 
    ![](assets/login-admin.png)
 
-1. 클릭 **CRM**.
+1. 클릭 **[!UICONTROL CRM]**.
 
    ![](assets/image2015-3-16-9-3a47-3a34.png)
 
-1. 선택 **Microsoft**.
+1. 선택 **[!UICONTROL Microsoft]**.
 
    ![](assets/image2015-3-16-9-3a50-3a6.png)
 
-1. 클릭 **편집** 위치: **1단계: 자격 증명 입력**.
+1. 클릭 **[!UICONTROL 편집]** 위치: **[!UICONTROL 자격 증명 입력]**.
 
    ![](assets/image2015-3-16-9-3a48-3a43.png)
 
    >[!CAUTION]
    >
-   >제출 후 후속 스키마 변경 사항을 되돌릴 수 없으므로 조직 URL이 올바른지 확인하십시오. 잘못된 조직 URL이 사용되는 경우 새 Marketo 구독을 얻어야 합니다. URL을 모르는 경우 [여기에서 찾는 방법 알아보기](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/view-the-organization-service-url.md).
+   >제출 후 후속 스키마 변경 사항을 되돌릴 수 없으므로 조직 URL이 올바른지 확인하십시오. 잘못된 조직 URL이 사용되는 경우 새 Marketo 구독을 얻어야 합니다. URL을 모르는 경우 [여기에서 찾는 방법 알아보기](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/view-the-organization-service-url.md){target="_blank"}.
 
    >[!NOTE]
    >
-   >새 자격 증명을 입력하기 전에 다음을 수행할 수 있습니다. [여기에서 유효성 검사](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/validate-microsoft-dynamics-sync.md).
+   >새 자격 증명을 입력하기 전에 다음을 수행할 수 있습니다. [여기에서 유효성 검사](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/validate-microsoft-dynamics-sync.md){target="_blank"}.
 
-1. 다음을 입력합니다. **사용자 이름**, **암호**, Microsoft Dynamics **URL**, **클라이언트 ID**, 및 **클라이언트 암호**. 클릭 **저장** 완료 시.
+1. 다음을 입력합니다. **[!UICONTROL 사용자 이름]**, **[!UICONTROL 암호]**, Microsoft Dynamics **URL**, **[!UICONTROL 클라이언트 ID]**, 및 **[!UICONTROL 클라이언트 암호]**. 클릭 **[!UICONTROL 저장]** 완료 시.
 
    ![](assets/step-4-of-4-connect-ropc-5.png)
 
@@ -64,37 +64,37 @@ ht-degree: 0%
 
 ## 동기화할 필드 선택 {#select-fields-to-sync}
 
-1. 클릭 **편집** 위치: **2단계: 동기화할 필드 선택**.
+1. 클릭 **[!UICONTROL 편집]** 위치: **[!UICONTROL 동기화할 필드 선택]**.
 
    ![](assets/image2015-3-16-9-3a51-3a28.png)
 
-1. Marketo에 동기화할 필드를 선택하면 미리 선택됩니다. 클릭 **저장**.
+1. Marketo에 동기화할 필드를 선택하면 미리 선택됩니다. **[!UICONTROL 저장]**&#x200B;을 클릭합니다.
 
    ![](assets/image2016-8-25-15-3a6-3a11.png)
 
 >[!NOTE]
 >
->Marketo은 동기화할 필드에 대한 참조를 저장합니다. Dynamics에서 필드를 삭제하는 경우 [동기화가 비활성화됨](/help/marketo/product-docs/crm-sync/salesforce-sync/enable-disable-the-salesforce-sync.md). 그런 다음 를 편집하고 저장하여 Marketo에서 스키마를 새로 고칩니다. [동기화할 필드 선택](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/microsoft-dynamics-sync-details/microsoft-dynamics-sync-field-sync/editing-fields-to-sync-before-deleting-them-in-dynamics.md).
+>Marketo은 동기화할 필드에 대한 참조를 저장합니다. Dynamics에서 필드를 삭제하는 경우 [동기화가 비활성화됨](/help/marketo/product-docs/crm-sync/salesforce-sync/enable-disable-the-salesforce-sync.md){target="_blank"}. Then refresh the schema in Marketo by editing and saving the [Select Fields to Sync](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/microsoft-dynamics-sync-details/microsoft-dynamics-sync-field-sync/editing-fields-to-sync-before-deleting-them-in-dynamics.md){target="_blank"}.
 
 ## 사용자 정의 필터의 동기화 필드 {#sync-fields-for-a-custom-filter}
 
 사용자 지정 필터를 만든 경우 로 이동하여 Marketo과 동기화할 새 필드를 선택하십시오.
 
-1. [관리]로 이동하여 **Microsoft Dynamics**.
+1. [관리]로 이동하여 **[!DNL Microsoft Dynamics]**.
 
    ![](assets/image2015-10-9-9-3a50-3a9.png)
 
-1. 클릭 **편집** 필드 동기화 세부 정보.
+1. 클릭 **[!UICONTROL 편집]** 필드 동기화 세부 정보.
 
    ![](assets/image2015-10-9-9-3a52-3a23.png)
 
-1. 필드로 스크롤하여 확인합니다. 실제 이름은 new_synctomkto여야 하지만 표시 이름은 무엇이든 될 수 있습니다. 클릭 **저장**.
+1. 필드로 스크롤하여 확인합니다. 실제 이름은 new_synctomkto여야 하지만 표시 이름은 무엇이든 될 수 있습니다. **[!UICONTROL 저장]**&#x200B;을 클릭합니다.
 
    ![](assets/image2016-8-25-15-3a7-3a35.png)
 
 ## 동기화 활성화 {#enable-sync}
 
-1. 클릭 **편집** 위치: **3단계: 동기화 활성화**.
+1. 클릭 **[!UICONTROL 편집]** 위치: **[!UICONTROL 동기화 활성화]**.
 
    ![](assets/image2015-3-16-9-3a52-3a2.png)
 
@@ -102,7 +102,7 @@ ht-degree: 0%
    >
    >Marketo은 Microsoft Dynamics 동기화와 비교하여 또는 사람 또는 잠재 고객을 수동으로 입력하는 경우 자동으로 중복 제거되지 않습니다.
 
-1. 팝업의 모든 내용을 읽고 이메일 주소를 입력한 다음 을(를) 클릭합니다. **동기화 시작**.
+1. 팝업의 모든 내용을 읽고 이메일 주소를 입력한 다음 을(를) 클릭합니다. **[!UICONTROL 동기화 시작]**.
 
    ![](assets/image2015-3-16-9-3a55-3a10.png)
 
@@ -114,4 +114,4 @@ ht-degree: 0%
 
 >[!MORELIKETHIS]
 >
->[Dynamics 인증 방법 다시 구성](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/reconfigure-dynamics-authentication-method.md)
+>[Dynamics 인증 방법 다시 구성](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/reconfigure-dynamics-authentication-method.md){target="_blank"}

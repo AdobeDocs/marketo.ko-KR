@@ -4,7 +4,7 @@ description: 2단계/3단계 - 서버 간 연결을 통해 Marketo 솔루션 설
 title: 2/3단계 - 서버 간 연결을 통해 Marketo 솔루션 설정
 exl-id: 324e2142-2aa2-4548-9a04-683832e3ba69
 feature: Microsoft Dynamics
-source-git-commit: 02b2e39580c5eac63de4b4b7fdaf2a835fdd4ba5
+source-git-commit: 4045f262889d06304111288d30da893529396e81
 workflow-type: tm+mt
 source-wordcount: '598'
 ht-degree: 0%
@@ -27,15 +27,15 @@ ht-degree: 0%
 
 1. 단계에 따라 관리자 동의 부여 [이 문서에서](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/grant-consent-for-client-id-and-app-registration.md){target="_blank"}.
 
-1. 다음을 클릭하여 관리 센터에서 클라이언트 암호 생성 **인증서 및 암호**.
+1. 다음을 클릭하여 관리 센터에서 클라이언트 암호 생성 **[!UICONTROL 인증서 및 암호]**.
 
    ![](assets/step-2-of-3-set-up-marketo-sync-user-in-dynamics-s2s-1.png)
 
-1. 다음을 클릭합니다. **새 클라이언트 암호** 단추를 클릭합니다.
+1. 다음을 클릭합니다. **[!UICONTROL 새 클라이언트 암호]** 단추를 클릭합니다.
 
    ![](assets/step-2-of-3-set-up-marketo-sync-user-in-dynamics-s2s-2.png)
 
-1. 클라이언트 암호 설명을 입력하고 **추가**.
+1. 클라이언트 암호 설명을 입력하고 **[!UICONTROL 추가]**.
 
    ![](assets/step-2-of-3-set-up-marketo-sync-user-in-dynamics-s2s-3.png)
 
@@ -65,19 +65,19 @@ Federated Azure AD에서 ADFS Onprem으로 전환하려면 특정 응용 프로�
 
 거의 다 됐어! 이제 새로 만든 사용자에 대해 Marketo 솔루션에 알리는 일만 남았습니다.
 
-1. 고급 설정 섹션으로 돌아가서 ![](assets/image2015-5-13-15-3a49-3a19.png) 아이콘을 클릭하고 **Marketo 구성**.
+1. 고급 설정 섹션으로 돌아가서 ![](assets/image2015-5-13-15-3a49-3a19.png) 아이콘을 클릭하고 **[!UICONTROL Marketo 구성]**.
 
    ![](assets/fourteen.png)
 
    >[!NOTE]
    >
-   >표시되지 않으면 **Marketo 구성** 설정 메뉴에서 페이지를 새로 고칩니다. 그래도 안 되면 [Marketo 솔루션 게시](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/microsoft-dynamics-365-with-s2s-connection/step-1-of-3-install.md){target="_blank"} 다시 로그인하거나 로그아웃했다가 다시 로그인합니다.
+   >설정 메뉴에 &quot;Marketo 구성&quot;이 표시되지 않으면 페이지를 새로 고치십시오. 그래도 안 되면 [Marketo 솔루션 게시](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/microsoft-dynamics-365-with-s2s-connection/step-1-of-3-install.md){target="_blank"} 다시 로그인하거나 로그아웃했다가 다시 로그인합니다.
 
-1. 클릭 **기본값**.
+1. 클릭 **[!UICONTROL 기본값]**.
 
    ![](assets/fifteen.png)
 
-1. 에서 검색 단추를 클릭합니다. **Marketo 사용자** 을(를) 필드에 추가하고 생성한 동기화 사용자를 선택합니다.
+1. 에서 검색 단추를 클릭합니다. **[!UICONTROL Marketo 사용자]** 을(를) 필드에 추가하고 생성한 동기화 사용자를 선택합니다.
 
    ![](assets/sixteen.png)
 
@@ -89,11 +89,11 @@ Federated Azure AD에서 ADFS Onprem으로 전환하려면 특정 응용 프로�
 
    ![](assets/seventeen.png)
 
-1. 다음을 클릭합니다. ![](assets/image2015-5-13-15-3a49-3a19-1.png) 아이콘을 클릭하고 **솔루션**.
+1. 다음을 클릭합니다. ![](assets/image2015-5-13-15-3a49-3a19-1.png) 아이콘을 클릭하고 **[!UICONTROL 솔루션]**.
 
    ![](assets/eighteen.png)
 
-1. 다음을 클릭합니다. **모든 사용자 지정 게시** 단추를 클릭합니다.
+1. 다음을 클릭합니다. **[!UICONTROL 모든 사용자 지정 게시]** 단추를 클릭합니다.
 
    ![](assets/nineteen.png)
 

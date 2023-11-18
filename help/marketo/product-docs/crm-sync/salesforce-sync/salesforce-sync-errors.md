@@ -3,7 +3,7 @@ description: Salesforce 동기화 오류 - Marketo 문서 - 제품 설명서
 title: Salesforce 동기화 오류
 exl-id: 4819f423-30c6-48e3-8cec-5d298ceb7b56
 feature: Salesforce Integration
-source-git-commit: 02b2e39580c5eac63de4b4b7fdaf2a835fdd4ba5
+source-git-commit: 4045f262889d06304111288d30da893529396e81
 workflow-type: tm+mt
 source-wordcount: '181'
 ht-degree: 1%
@@ -20,11 +20,11 @@ ht-degree: 1%
 
 ## 동기화 오류 보기 {#view-sync-errors}
 
-1. 클릭 **관리자**.
+1. 클릭 **[!UICONTROL 관리자]**.
 
    ![](assets/salesforce-sync-errors-1.png)
 
-1. 통합에서 **Salesforce**, 그런 다음 **동기화 오류** 탭.
+1. 통합에서 **Salesforce**, 그런 다음 **[!UICONTROL 동기화 오류]** 탭.
 
    ![](assets/salesforce-sync-errors-2.png)
 
@@ -48,10 +48,10 @@ ht-degree: 1%
 
    ![](assets/salesforce-sync-errors-3.png)
 
-1. 날짜 및 시간 범위를 선택한 다음 오류 유형(작업 수준 또는 레코드 수준)별로 필터링합니다. 클릭 **적용** 완료 시.
+1. 날짜 및 시간 범위를 선택한 다음 오류 유형(작업 수준 또는 레코드 수준)별로 필터링합니다. 클릭 **[!UICONTROL 적용]** 완료 시.
 
    ![](assets/salesforce-sync-errors-4.png)
 
-**선택적 단계**: 동기화 오류를 내보내려면 **내보내기**. 데이터는 CSV로 내보내집니다.
+**선택적 단계**: 동기화 오류를 내보내려면 **[!UICONTROL 내보내기]**. 데이터는 CSV로 내보내집니다.
 
 ![](assets/salesforce-sync-errors-5.png)

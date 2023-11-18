@@ -3,20 +3,20 @@ description: 1단계/3단계 - 서버 간 연결을 통해 Marketo 솔루션 설
 title: 1/3단계 - 서버 간 연결을 통해 Marketo 솔루션 설치
 exl-id: bf6f87c1-5ba5-490b-bcce-365120af3730
 feature: Microsoft Dynamics
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 4045f262889d06304111288d30da893529396e81
 workflow-type: tm+mt
-source-wordcount: '266'
-ht-degree: 0%
+source-wordcount: '260'
+ht-degree: 1%
 
 ---
 
 # 1/3단계: 서버 간 연결을 통해 Marketo 솔루션 설치 {#step-1-of-3-install-the-marketo-solution-s2s}
 
-Microsoft Dynamics 365와 Marketo을 동기화하려면 먼저 Dynamics에 Marketo 솔루션을 설치해야 합니다. **Dynamics 관리자 권한이 필요합니다.**
+Microsoft Dynamics 365와 Marketo을 동기화하려면 먼저 Dynamics에 Marketo 솔루션을 설치해야 합니다. **Dynamics 관리자 권한이 필요합니다.**.
 
 >[!CAUTION]
 >
->* 초기 동기화가 완료되기 전에 사용자 지정 엔티티 동기화를 활성화하지 마십시오. 초기 동기화가 완료되면 이메일로 알림을 받게 됩니다.
+>초기 동기화가 완료되기 전에 사용자 지정 엔티티 동기화를 활성화하지 마십시오. 초기 동기화가 완료되면 이메일로 알림을 받게 됩니다.
 
 >[!NOTE]
 >
@@ -24,41 +24,41 @@ Microsoft Dynamics 365와 Marketo을 동기화하려면 먼저 Dynamics에 Marke
 
 >[!PREREQUISITES]
 >
->[Marketo 리드 관리 솔루션 다운로드](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/download-the-marketo-lead-management-solution.md)
+>[Marketo 리드 관리 솔루션 다운로드](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/download-the-marketo-lead-management-solution.md){target="_blank"}
 
-1. 에 로그인 **[Microsoft Office 365](https://login.microsoftonline.com/)**.
+1. 에 로그인 [Microsoft Office 365](https://login.microsoftonline.com/){target="_blank"}.
 
    ![](assets/image2015-3-16-15-3a58-3a55.png)
 
-1. 클릭 ![](assets/image2015-3-16-16-3a1-3a13.png) 메뉴 및 선택 **CRM**.
+1. 클릭 ![](assets/image2015-3-16-16-3a1-3a13.png) 메뉴 및 선택 **[!UICONTROL CRM]**.
 
    ![](assets/image2015-3-16-16-3a0-3a10.png)
 
-1. 클릭 ![](assets/image2015-5-13-10-3a5-3a8.png) 메뉴 아래의 제품에서 사용할 수 있습니다. 드롭다운 메뉴에서 을(를) 선택합니다 **설정** 그런 다음 선택 **솔루션**.
+1. 클릭 ![](assets/image2015-5-13-10-3a5-3a8.png) 메뉴 아래의 제품에서 사용할 수 있습니다. 드롭다운 메뉴에서 을(를) 선택합니다 **[!UICONTROL 설정]** 그런 다음 선택 **[!UICONTROL 솔루션]**.
 
    ![](assets/image2015-5-13-10-3a4-3a1.png)
 
-1. 클릭 **가져오기.**
+1. 클릭 **[!UICONTROL 가져오기]**.
 
    ![](assets/image2015-3-19-8-3a34-3a8.png)
 
-1. 클릭 **파일을 선택합니다.** 다음과 같은 Marketo 리드 관리 솔루션을 선택합니다. [다운로드됨](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/download-the-marketo-lead-management-solution.md). 클릭 **다음**.
+1. 클릭 **[!UICONTROL 파일 선택]**. 다음과 같은 Marketo 리드 관리 솔루션을 선택합니다. [다운로드됨](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/download-the-marketo-lead-management-solution.md){target="_blank"}. **[!UICONTROL 다음]**&#x200B;을 클릭합니다.
 
    ![](assets/image2015-10-9-14-3a44-3a14.png)
 
-1. 솔루션 정보를 보고 **솔루션 패키지 세부 정보 보기**.
+1. 솔루션 정보를 보고 **[!UICONTROL 솔루션 패키지 세부 정보 보기]**.
 
    ![](assets/image2015-10-9-15-3a4-3a16.png)
 
-1. 모든 세부 사항을 확인했으면 **닫기**.
+1. 모든 세부 사항을 확인했으면 **[!UICONTROL 닫기]**.
 
    ![](assets/image2015-10-9-14-3a57-3a3.png)
 
-1. 이제 솔루션 정보 페이지로 돌아가서 **다음**.
+1. 이제 솔루션 정보 페이지로 돌아가서 **[!UICONTROL 다음]**.
 
    ![](assets/image2015-10-9-14-3a59-3a24.png)
 
-1. SDK 옵션 확인란이 선택되어 있는지 확인합니다. 클릭 **가져오기**.
+1. SDK 옵션 확인란이 선택되어 있는지 확인합니다. 클릭 **[!UICONTROL 가져오기]**.
 
    ![](assets/image2015-10-9-15-3a7-3a12.png)
 
@@ -66,11 +66,11 @@ Microsoft Dynamics 365와 Marketo을 동기화하려면 먼저 Dynamics에 Marke
    >
    >설치 프로세스를 완료하려면 브라우저에서 팝업을 활성화해야 합니다.
 
-1. 이제 가져오기가 완료될 때까지 기다립니다. 일어나서 스트레칭을 좀 하세요.
+1. 이제 가져오기가 완료될 때까지 기다립니다.
 
    ![](assets/image2015-3-11-11-3a34-3a9.png)
 
-1. Click **Close.**
+1. Click **[!UICONTROL Close]**.
 
    >[!NOTE]
    >
@@ -78,11 +78,11 @@ Microsoft Dynamics 365와 Marketo을 동기화하려면 먼저 Dynamics에 Marke
 
    ![](assets/image2015-3-13-9-3a54-3a39.png)
 
-1. 이제 Marketo Lead Management 가 솔루션 목록에 표시됩니다.
+1. 이제 &quot;Marketo 리드 관리&quot;가 솔루션 목록에 표시됩니다.
 
    ![](assets/image2015-3-19-8-3a40-3a38.png)
 
-1. 선택 **Marketo 리드 관리** 및 클릭 **모든 사용자 지정을 게시합니다.**
+1. 선택 **[!UICONTROL Marketo 리드 관리]** 및 클릭 **[!UICONTROL 모든 사용자 지정 게시]**.
 
    ![](assets/image2015-3-19-8-3a41-3a21.png)
 
@@ -90,4 +90,4 @@ Microsoft Dynamics 365와 Marketo을 동기화하려면 먼저 Dynamics에 Marke
 
    >[!MORELIKETHIS]
    >
-   >[2/3단계: S2S 연결을 사용하여 Marketo 솔루션 설정](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/microsoft-dynamics-365-with-s2s-connection/step-2-of-3-set-up.md)
+   >[2/3단계: S2S 연결을 사용하여 Marketo 솔루션 설정](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/microsoft-dynamics-365-with-s2s-connection/step-2-of-3-set-up.md){target="_blank"}

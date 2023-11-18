@@ -3,10 +3,10 @@ description: Salesforce 동기화 상태 - Marketo 문서 - 제품 설명서
 title: Salesforce 동기화 상태
 exl-id: 61197808-7812-4e0a-8ac6-4a60af0f7979
 feature: Salesforce Integration
-source-git-commit: 02b2e39580c5eac63de4b4b7fdaf2a835fdd4ba5
+source-git-commit: 4045f262889d06304111288d30da893529396e81
 workflow-type: tm+mt
-source-wordcount: '552'
-ht-degree: 3%
+source-wordcount: '554'
+ht-degree: 4%
 
 ---
 
@@ -14,7 +14,7 @@ ht-degree: 3%
 
 동기화 상태 대시보드를 사용하여 동기화 단계 및 성공 상태의 일부로 동기화 상태를 봅니다.
 
-동기화 단계는 객체 스키마 및 데이터 자체에 대한 각 객체 유형별 푸시 또는 풀 작업을 반영합니다. 통계는 동기화 중 새 레코드, 업데이트, 삭제 및 실패 수를 다룹니다. 사용자는 날짜, 작업 유형 또는 오브젝트 유형별로 필터링할 수 있습니다. 동기화 상태 대시보드에 지난 5일 동안의 동기화 주기 상태가 표시됩니다.
+동기화 단계는 객체 스키마 및 데이터 자체에 대한 각 객체 유형별 푸시 또는 풀 작업을 반영합니다. 통계는 동기화 중 새 레코드, 업데이트, 삭제 및 실패 수를 다룹니다. 사용자는 날짜, 작업 유형 또는 오브젝트 유형별로 필터링할 수 있습니다. 동기화 상태 대시보드에 지난 5일 동안의 동기화 주기 상태가 표시됩니다.
 
 >[!NOTE]
 >
@@ -22,11 +22,11 @@ ht-degree: 3%
 
 ## 동기화 상태 보기 {#view-sync-status}
 
-1. 클릭 **관리자**.
+1. 클릭 **[!UICONTROL 관리자]**.
 
    ![](assets/salesforce-sync-status-1.png)
 
-1. 통합에서 Salesforce를 클릭한 다음 동기화 상태 탭을 클릭합니다.
+1. 아래 [!UICONTROL 통합], 클릭 **Salesforce**, 그런 다음 **[!UICONTROL 동기화 상태]** 탭.
 
    ![](assets/salesforce-sync-status-2.png)
 
@@ -40,15 +40,15 @@ ht-degree: 3%
 
    ![](assets/salesforce-sync-status-4.png)
 
-1. 날짜 및 시간 범위를 선택한 다음 드롭다운을 클릭하여 개체 유형, 작업 유형 및/또는 상태 유형별로 필터링합니다.
+1. 날짜 및 시간 범위를 선택한 다음 필터링할 드롭다운을 클릭합니다 [!UICONTROL 오브젝트 유형], [!UICONTROL 작업 유형], 및/또는 [!UICONTROL 상태 유형].
 
    ![](assets/salesforce-sync-status-5.png)
 
-1. 클릭 **적용**.
+1. 클릭 **[!UICONTROL 적용]**.
 
    ![](assets/salesforce-sync-status-6.png)
 
-**선택적 단계**: 동기화 오류를 내보내려면 **내보내기**. 데이터는 CSV로 내보내집니다.
+**선택적 단계**: 동기화 오류를 내보내려면 **[!UICONTROL 내보내기]**. 데이터는 CSV로 내보내집니다.
 
 ![](assets/salesforce-sync-status-7.png)
 
@@ -138,7 +138,7 @@ ht-degree: 3%
    <td colspan="1">사용자 지정 개체</td> 
   </tr>  
   <tr> 
-   <td colspan="1">캠페인</td> 
+   <td colspan="1">Campaign</td> 
   </tr>  
   <tr> 
    <td colspan="1">캠페인 멤버 상태</td> 
@@ -188,7 +188,7 @@ ht-degree: 3%
   </tr> 
   <tr> 
    <td colspan="1">프로그램에 대한 초기화 링크</td> 
-   <td colspan="1">캠페인</td> 
+   <td colspan="1">Campaign</td> 
    <td colspan="1">프로그램에 캠페인 연결</td> 
    <td colspan="1">업데이트</td>
   </tr>  

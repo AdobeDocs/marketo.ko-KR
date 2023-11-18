@@ -4,16 +4,16 @@ description: 개인 계정 사용 - Marketo 문서 - 제품 설명서
 title: 개인 계정 사용
 exl-id: 3cc67ff2-f689-4dfb-8b67-2b5b8d389aaf
 feature: Salesforce Integration
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 4045f262889d06304111288d30da893529396e81
 workflow-type: tm+mt
-source-wordcount: '291'
+source-wordcount: '292'
 ht-degree: 0%
 
 ---
 
 # 개인 계정 사용 {#using-person-accounts}
 
-조직의 필요에 맞게 Salesforce에서 개인 계정을 설정할 수 있습니다. Marketo에서 개인 계정을 처리하는 방법은 다음과 같습니다.
+조직의 필요에 맞게 Salesforce에서 개인 계정을 설정할 수 있습니다. 다음은 Marketo Engage이 개인 계정을 처리하는 방법입니다.
 
 >[!NOTE]
 >
@@ -33,15 +33,15 @@ ht-degree: 0%
 
 ## 비즈니스 계정과 개인 계정을 어떻게 구분합니까? {#how-do-i-differentiate-business-accounts-and-person-accounts}
 
-사용 **개인 계정임** 스마트 목록을 필터링하여 개인 계정을 표준 비즈니스 계정과 구분합니다.
+스마트 목록의 &quot;개인 계정&quot; 필터를 사용하여 개인 계정을 표준 비즈니스 계정과 구분합니다.
 
 ## Marketo Sales Insight에 표시되는 내 개인 계정 정보는 어디에 있습니까? {#where-is-my-person-accounts-information-displayed-in-marketo-sales-insight}
 
-개인 계정과 관련된 활동은 다음에 표시됩니다. **계정** 패널.
+개인 계정과 관련된 활동은 다음에 표시됩니다. **[!UICONTROL 계정]** 패널.
 
 >[!NOTE]
 >
->Marketo Sales Insight **Marketo 캠페인에 추가** 및 **이메일 보내기** 현재 개인 계정에는 옵션을 사용할 수 없습니다.
+>Marketo Sales Insight **[!UICONTROL Marketo 캠페인에 추가]** 및 **[!UICONTROL 이메일 보내기]** 현재 개인 계정에는 옵션을 사용할 수 없습니다.
 
 ## 기회를 개인 계정에 연결하려면 어떻게 해야 합니까? {#how-do-i-associate-opportunities-to-a-person-account}
 
