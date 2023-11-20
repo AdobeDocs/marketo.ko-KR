@@ -4,10 +4,10 @@ description: 1단계/3단계 - Salesforce에 Marketo 필드 추가(전문가) - 
 title: 1/3단계 - Salesforce에 Marketo 필드 추가(Professional)
 exl-id: 1b52825e-201d-4b55-8edf-444b1653d591
 feature: Salesforce Integration
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 756a38ba87dd5af9ee783e9709056d444d4f415b
 workflow-type: tm+mt
-source-wordcount: '782'
-ht-degree: 7%
+source-wordcount: '783'
+ht-degree: 8%
 
 ---
 
@@ -15,7 +15,7 @@ ht-degree: 7%
 
 >[!PREREQUISITES]
 >
->Marketo과 Salesforce 간에 데이터를 동기화하려면 Salesforce 인스턴스에 Salesforce API에 대한 액세스 권한이 있어야 합니다.
+>Marketo Engage과 Salesforce 간에 데이터를 동기화하려면 Salesforce 인스턴스에 대한 액세스 권한이 있어야 합니다.
 
 Marketo은 일련의 필드를 사용하여 특정 종류의 마케팅 관련 정보를 캡처합니다. 이 데이터를 Salesforce에 보관하려면 아래 지침을 따르십시오.
 
@@ -29,25 +29,25 @@ Marketo은 일련의 필드를 사용하여 특정 종류의 마케팅 관련 �
 
 위에 나열된 Salesforce의 리드 및 연락처 개체에 세 개의 사용자 지정 필드를 추가합니다. 더 추가하려면 이 섹션의 끝에 있는 사용 가능한 필드 표를 참조하십시오.
 
-세 개의 사용자 정의 필드 각각에 대해 다음 단계를 수행하여 추가합니다. 다음으로 시작 **점수**.
+세 개의 사용자 정의 필드 각각에 대해 다음 단계를 수행하여 추가합니다. 다음으로 시작 **[!UICONTROL 점수]**.
 
-1. Salesforce에 로그인하고 **설정.**
+1. Salesforce에 로그인하고 **[!UICONTROL 설정]**.
 
    ![](assets/image2016-5-23-13-3a15-3a21.png)
 
-1. 왼쪽의 빌드 메뉴에서 **사용자 지정** 및 선택 **잠재 고객**. 클릭 **필드**.
+1. 왼쪽의 빌드 메뉴에서 **[!UICONTROL 사용자 지정]** 및 선택 **[!UICONTROL 잠재 고객]**. 클릭 **[!UICONTROL 필드]**.
 
    ![](assets/image2016-5-23-13-3a20-3a5.png)
 
-1. 클릭 **신규** (페이지 하단에 있는 사용자 정의 필드 및 관계 섹션)
+1. 클릭 **[!UICONTROL 신규]** (페이지 하단에 있는 사용자 정의 필드 및 관계 섹션)
 
    ![](assets/image2016-5-26-14-3a41-3a40.png)
 
-1. 적절한 필드 유형을 선택합니다( 점수 — **숫자**; 고객 확보 프로그램 — **텍스트**; 획득 날짜 — **날짜/시간**).
+1. 적절한 필드 유형을 선택합니다(점수 - **[!UICONTROL 숫자]**; 고객 확보 프로그램 - **[!UICONTROL 텍스트]**; 획득 날짜 - **날짜/시간**).
 
    ![](assets/choose-field-type-2-hand.png)
 
-1. 클릭 **다음**.
+1. **[!UICONTROL 다음]**&#x200B;을 클릭합니다.
 
    ![](assets/image2016-5-26-14-3a51-3a14.png)
 
@@ -106,19 +106,19 @@ Marketo은 일련의 필드를 사용하여 특정 종류의 마케팅 관련 �
 >
 >텍스트 및 숫자 필드는 길이가 필요하지만 날짜/시간 필드는 길이가 필요하지 않습니다. 설명은 선택 사항입니다.
 
-1. 클릭 **다음**.
+1. **[!UICONTROL 다음]**&#x200B;을 클릭합니다.
 
    ![](assets/image2016-5-23-14-3a50-3a5.png)
 
-1. 액세스 설정을 지정하고 **다음**:
+1. 액세스 설정을 지정하고 **[!UICONTROL 다음]**:
 
-   * 모든 역할을 다음으로 설정 **표시** 및 **읽기 전용**
+   * 모든 역할을 다음으로 설정 **[!UICONTROL 표시]** 및 **[!UICONTROL 읽기 전용]**
 
-   * 지우기 **읽기 전용** 동기화 사용자의 프로필에 대한 확인란:
+   * 지우기 **[!UICONTROL 읽기 전용]** 동기화 사용자의 프로필에 대한 확인란:
 
-      * 의 프로필을 가진 사용자가 있는 경우 _시스템 관리자_ 동기화 사용자로 를 지웁니다. **읽기 전용** 시스템 관리자 프로필에 대한 확인란(아래 참조)
+      * 의 프로필을 가진 사용자가 있는 경우 _시스템 관리자_ 동기화 사용자로 를 지웁니다. **[!UICONTROL 읽기 전용]** 시스템 관리자 프로필에 대한 확인란(아래 참조)
 
-      * 을(를) 생성한 경우 _사용자 지정 프로필_ 동기화 사용자의 경우 **읽기 전용** 해당 사용자 지정 프로필에 대한 확인란
+      * 을(를) 생성한 경우 _사용자 지정 프로필_ 동기화 사용자의 경우 **[!UICONTROL 읽기 전용]** 해당 사용자 지정 프로필에 대한 확인란
 
    ![](assets/image2016-6-30-9-3a25-3a4.png)
 
@@ -126,11 +126,11 @@ Marketo은 일련의 필드를 사용하여 특정 종류의 마케팅 관련 �
 
    ![](assets/image2016-5-26-15-3a14-3a45.png)
 
-1. 클릭 **저장 및 새로 만들기** 로 돌아가서 다른 두 개의 사용자 정의 필드를 각각 만듭니다. 클릭 **저장** 셋 다 끝냈으니
+1. 클릭 **[!UICONTROL 저장 및 새로 만들기]** 로 돌아가서 다른 두 개의 사용자 정의 필드를 각각 만듭니다. 클릭 **[!UICONTROL 저장]** 셋 다 끝냈으니
 
    ![](assets/image2016-5-23-15-3a8-3a43.png)
 
-1. 왼쪽의 빌드 메뉴에서 **사용자 지정** 및 선택 **연락처**. 클릭 **필드**.
+1. 왼쪽의 빌드 메뉴에서 **[!UICONTROL 사용자 지정]** 및 선택 **[!UICONTROL 연락처]**. 클릭 **[!UICONTROL 필드]**.
 1. 가망 고객 객체에 대해 수행한 것처럼 연락처 객체의 점수, 획득 일자 및 획득 프로그램 필드에 대해 단계 3부터 10까지를 수행합니다.
 1. 필요한 경우 이 테이블의 추가 사용자 정의 필드에 대해 위의 절차를 사용합니다.
 
@@ -191,7 +191,7 @@ Marketo은 일련의 필드를 사용하여 특정 종류의 마케팅 관련 �
    <td>길이 255</td> 
   </tr> 
   <tr> 
-   <td>추정 국가</td> 
+   <td>추론된 국가</td> 
    <td>mkto71_Inferred_Country</td> 
    <td>텍스트</td> 
    <td>길이 255</td> 
@@ -209,7 +209,7 @@ Marketo은 일련의 필드를 사용하여 특정 종류의 마케팅 관련 �
    <td>길이 255</td> 
   </tr> 
   <tr> 
-   <td>우편번호 유추</td> 
+   <td>추론된 우편번호</td> 
    <td>mkto71_Inferred_Postal_Code</td> 
    <td>텍스트</td> 
    <td>길이 255</td> 
@@ -231,15 +231,15 @@ Marketo은 일련의 필드를 사용하여 특정 종류의 마케팅 관련 �
 
 Salesforce의 리드 개체에 있는 사용자 지정 필드는 전환이 발생할 때 데이터가 전달되도록 연락처 개체에 있는 연락처 필드에 매핑되어야 합니다.
 
-1. 오른쪽 상단 모서리에서 설정 을 클릭합니다.
+1. 오른쪽 상단 모서리에서 을(를) 클릭합니다 **[!UICONTROL 설정]**.
 
    ![](assets/image2016-5-26-16-3a34-3a0.png)
 
-1. Enter 키를 누르지 않고 탐색 검색에 &quot;fields&quot;를 입력합니다. 필드는 다른 개체 아래에 나타납니다. 리드 아래의 필드 를 클릭합니다.
+1. 유형 &quot;[!UICONTROL 필드]Enter 키를 누르지 않고 탐색 검색으로 들어갑니다. 필드는 다른 개체 아래에 나타납니다. **[!UICONTROL 필드]** 잠재 고객 아래에
 
    ![](assets/image2016-5-26-16-3a36-3a32.png)
 
-1. 잠재 고객 사용자 정의 필드 및 관계 섹션으로 이동하고 잠재 고객 필드 매핑을 클릭합니다.
+1. 리드 사용자 정의 필드 및 관계 섹션으로 이동한 다음 **[!UICONTROL 리드 필드 매핑]**.
 
    ![](assets/image2016-5-26-16-3a39-3a29.png)
 
@@ -253,10 +253,10 @@ Salesforce의 리드 개체에 있는 사용자 지정 필드는 전환이 발�
 
 1. 생성한 다른 필드에 대해 위의 단계를 반복합니다.
 
-1. 완료되면 저장 을 클릭합니다.
+1. 클릭 **[!UICONTROL 저장]** 다 끝나면.
 
 충분히 쉽죠?
 
 >[!MORELIKETHIS]
 >
->[2/3단계: Marketo용 Salesforce 사용자 만들기(전문가)](/help/marketo/product-docs/crm-sync/salesforce-sync/setup/professional-edition/step-2-of-3-create-a-salesforce-user-for-marketo-professional.md)
+>[2/3단계: Marketo용 Salesforce 사용자 만들기(전문가)](/help/marketo/product-docs/crm-sync/salesforce-sync/setup/professional-edition/step-2-of-3-create-a-salesforce-user-for-marketo-professional.md){target="_blank"}

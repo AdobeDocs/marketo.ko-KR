@@ -4,7 +4,7 @@ description: 활동 동기화 사용자 지정 - Marketo 문서 - 제품 설명�
 title: 활동 동기화 사용자 지정
 exl-id: 938d83dc-b9b1-41d8-bf98-04548b074ec4
 feature: Salesforce Integration
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 756a38ba87dd5af9ee783e9709056d444d4f415b
 workflow-type: tm+mt
 source-wordcount: '272'
 ht-degree: 0%
@@ -13,17 +13,17 @@ ht-degree: 0%
 
 # 활동 동기화 사용자 지정 {#customize-activities-sync}
 
-Marketo Sales Insight를 사용하지 않는 경우에는 Marketo에서 특정 이벤트에 대한 Salesforce 활동 기록 레코드를 만들 수 있습니다. 활성화 방법은 다음과 같습니다.
+Marketo Sales Insight를 사용하지 않는 경우에는 Marketo Engage이 특정 이벤트에 대한 Salesforce 활동 기록 레코드를 만들 수 있습니다. 활성화 방법은 다음과 같습니다.
 
-1. 다음으로 이동 **관리자**.
+1. 다음으로 이동 **[!UICONTROL 관리자]**.
 
    ![](assets/admin.png)
 
-1. 클릭 **Salesforce**&#x200B;을 클릭한 다음 을 클릭합니다 **동기화 옵션 편집**.
+1. 클릭 **[!DNL Salesforce]**&#x200B;을 클릭한 다음 을 클릭합니다 **[!UICONTROL 동기화 옵션 편집]**.
 
    ![](assets/two-1.png)
 
-1. Marketo에서 Salesforce로 푸시할 활동 옆에 있는 상자를 선택하고 **저장**.
+1. Marketo에서 Salesforce로 푸시할 활동 옆의 확인란을 선택하고 **[!UICONTROL 저장]**.
 
    ![](assets/three-1.png)
 
@@ -96,8 +96,8 @@ Marketo Sales Insight를 사용하지 않는 경우에는 Marketo에서 특정 �
 
 >[!NOTE]
 >
->&quot;영업 이메일 수신됨&quot;은 다음을 수행합니다 **아님** 평균 게재됨. Sales Insight를 통해 전송된 이메일에는 게재됨 상태가 캡처되지 않습니다.
+>&quot;영업 이메일 수신됨&quot;은 다음을 수행합니다 _아님_ 평균 게재됨. Sales Insight를 통해 전송된 이메일에는 게재됨 상태가 캡처되지 않습니다.
 
 >[!TIP]
 >
->Salesforce에 Marketo 정보를 더 많이 얻고 싶다면 다음을 확인하십시오. [Marketo Sales Insight](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/installation/install-marketo-sales-insight-package-in-salesforce-appexchange.md) 제품.
+>Salesforce에 Marketo 정보를 더 많이 얻고 싶다면 다음을 확인하십시오. [Marketo Sales Insight](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/installation/install-marketo-sales-insight-package-in-salesforce-appexchange.md){target="_blank"} 제품.
