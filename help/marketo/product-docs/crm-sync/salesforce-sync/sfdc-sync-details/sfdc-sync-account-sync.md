@@ -4,16 +4,16 @@ description: SFDC 동기화 - 계정 동기화 - Marketo 문서 - 제품 설명�
 title: SFDC 동기화 - 계정 동기화
 exl-id: 94f7a9e5-86ea-4bb4-9d78-96a09c61321d
 feature: Salesforce Integration
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0087a5e88b8bd9601875f68a2e7cadeebdb5d682
 workflow-type: tm+mt
-source-wordcount: '225'
+source-wordcount: '226'
 ht-degree: 0%
 
 ---
 
 # SFDC 동기화: 계정 동기화 {#sfdc-sync-account-sync}
 
-Marketo은 계정 정보를 Salesforce와 동기화합니다. 다음은 알아야 할 몇 가지 구체적인 사항입니다!
+Marketo Engage은 계정 정보를 Salesforce와 동기화합니다. 다음은 알아야 할 몇 가지 구체적인 사항입니다!
 
 ## 정보는 어느 방향으로 동기화됩니까? {#which-way-does-the-information-sync}
 
@@ -29,7 +29,7 @@ Marketo의 연락처에 대한 계정 필드를 업데이트하면 Marketo의 �
 
 ## Marketo에서 계정을 만들 수 있습니까? {#can-i-create-accounts-from-marketo}
 
-대부분, 아니야 그러나 를 사용하는 경우 [사용자 전환](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/convert-person.md) 개인에 대한 플로우 단계를 수행하면 새 연락처, 새 계정 및 새 기회가 만들어집니다.
+대부분, 아니야 그러나 를 사용하는 경우 [사용자 전환](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/convert-person.md){target="_blank"} 개인에 대한 플로우 단계를 수행하면 새 연락처, 새 계정 및 새 기회가 만들어집니다.
 
 >[!CAUTION]
 >

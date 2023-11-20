@@ -4,23 +4,23 @@ description: SFDC 동기화 - 리드 큐 - Marketo 문서 - 제품 설명서
 title: SFDC 동기화 - 잠재 고객 큐
 exl-id: b3b5e14c-f914-429c-a4b9-6b535ad8e882
 feature: Salesforce Integration
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0087a5e88b8bd9601875f68a2e7cadeebdb5d682
 workflow-type: tm+mt
-source-wordcount: '139'
+source-wordcount: '140'
 ht-degree: 0%
 
 ---
 
 # SFDC 동기화: 리드 큐 {#sfdc-sync-lead-queue}
 
-Marketo을(를) 사용하면 다음을 수행할 사람을 추가할 수 있습니다. [Salesforce 리드 큐](https://help.salesforce.com/apex/HTViewHelpDoc?id=queues_overview.htm) 리드 배포를 지원합니다. 세부사항은 다음과 같습니다.
+Marketo Engage에 사용자를 추가할 수 있음 [Salesforce 리드 큐](https://help.salesforce.com/apex/HTViewHelpDoc?id=queues_overview.htm){target="_blank"} 리드 배포를 지원합니다. 세부사항은 다음과 같습니다.
 
 ## Marketo에서 대기열에 사람을 할당하는 방법 {#how-to-assign-a-person-to-a-queue-in-marketo}
 
 다음 플로우 작업 중 하나를 사용하여 Salesforce 리드 대기열에 개인을 할당할 수 있습니다.
 
-* [사용자를 SFDC에 동기화](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/salesforce-flow-actions/sync-person-to-sfdc.md)
-* [소유자 변경](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/salesforce-flow-actions/change-owner.md)
+* [사용자를 SFDC에 동기화](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/salesforce-flow-actions/sync-person-to-sfdc.md){target="_blank"}
+* [소유자 변경](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/salesforce-flow-actions/change-owner.md){target="_blank"}
 
 >[!NOTE]
 >

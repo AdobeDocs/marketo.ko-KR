@@ -4,16 +4,16 @@ description: 기본 Salesforce 필드 매핑 - Marketo 문서 - 제품 설명서
 title: 기본 Salesforce 필드 매핑
 exl-id: d6639733-f85d-4f4c-ac41-5d2a68a9c6b2
 feature: Salesforce Integration
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0087a5e88b8bd9601875f68a2e7cadeebdb5d682
 workflow-type: tm+mt
-source-wordcount: '362'
+source-wordcount: '363'
 ht-degree: 43%
 
 ---
 
 # 기본 Salesforce 필드 매핑 {#default-salesforce-field-mapping}
 
-처음에 Marketo 계정을 Salesforce와 동기화하면 Marketo에서 기본 제공 Salesforce와 Marketo 필드 간에 이러한 연결을 자동으로 만듭니다. Marketo은 리드, 계정, 기회 및 연락처에서 사용자 정의 필드도 동기화합니다.
+처음에 Marketo Engage 계정을 Salesforce와 동기화하면 Marketo에서 기본 제공 Salesforce와 Marketo 필드 간에 이러한 연결을 자동으로 만듭니다. Marketo은 리드, 계정, 기회 및 연락처에서 사용자 정의 필드도 동기화합니다.
 
 ## 리드 필드 {#lead-fields}
 
@@ -21,7 +21,7 @@ ht-degree: 43%
 |---|---|
 | 연간 수익 | 연간 수익 |
 | 도시 | 도시 |
-| 회사 | 회사명 |
+| 회사 | 회사 이름 |
 | 전환된 날짜 | SFDC 변환일 |
 | 국가 | 국가 |
 | 만든 날짜 | SFDC 생성일 |
@@ -86,7 +86,7 @@ ht-degree: 43%
 | 계정 설명 | 회사 메모 |
 | 산업 | 산업 |
 | 삭제됨 | SFDC 삭제됨 |
-| 계정 이름 | 회사명 |
+| 계정 이름 | 회사 이름 |
 | 직원 | 직원 수 |
 | 계정 전화 | 주요 전화 |
 | SIC 코드 | SIC 코드 |

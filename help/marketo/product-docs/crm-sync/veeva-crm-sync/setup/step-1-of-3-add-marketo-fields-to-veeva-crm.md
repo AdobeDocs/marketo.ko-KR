@@ -3,10 +3,10 @@ description: 1/3단계 - Veeva CRM에 Marketo 필드 추가 - Marketo 문서 - �
 title: 1/3단계 - Veeva CRM에 Marketo 필드 추가
 exl-id: a9a59e76-a7a4-4391-8169-922bd6acfb6d
 feature: Veeva CRM
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0087a5e88b8bd9601875f68a2e7cadeebdb5d682
 workflow-type: tm+mt
 source-wordcount: '533'
-ht-degree: 6%
+ht-degree: 7%
 
 ---
 
@@ -30,35 +30,35 @@ Marketo Engage은 일련의 필드를 사용하여 특정 종류의 마케팅 �
 
 점수 필드에 대해 다음 단계를 수행하여 추가합니다.
 
-1. Veeva CRM에 로그인하고 **설정**.
+1. Veeva CRM에 로그인하고 **[!UICONTROL 설정]**.
 
    ![](assets/step-1-of-3-add-marketo-fields-1.png)
 
-1. 개체 및 필드 를 클릭하고 개체 관리자를 선택합니다.
+1. 클릭 **[!UICONTROL 오브젝트 및 필드]** 및 선택 **[!UICONTROL 오브젝트 관리자]**.
 
    ![](assets/step-1-of-3-add-marketo-fields-2.png)
 
-1. 검색 창에서 연락처를 검색합니다.
+1. 검색 창에서 &quot;Contact&quot;를 검색합니다.
 
    ![](assets/step-1-of-3-add-marketo-fields-3.png)
 
-1. Contact 개체를 클릭합니다.
+1. 다음을 클릭합니다. **[!UICONTROL 연락처]** 개체.
 
-1. 필드 및 관계를 선택합니다.
+1. 선택 **[!UICONTROL 필드 및 관계]**.
 
-1. 클릭 **신규**.
+1. 클릭 **[!UICONTROL 신규]**.
 
    ![](assets/step-1-of-3-add-marketo-fields-4.png)
 
-1. 적절한 필드 유형(점수 — 숫자)을 선택합니다.
+1. 적절한 필드 유형을 선택합니다(점수 - 숫자의 경우).
 
    ![](assets/step-1-of-3-add-marketo-fields-5.png)
 
-1. 클릭 **다음**.
+1. **[!UICONTROL 다음]**&#x200B;을 클릭합니다.
 
    ![](assets/step-1-of-3-add-marketo-fields-6.png)
 
-1. 아래 표와 같이 필드에 대한 필드 레이블, 길이 및 필드 이름을 입력합니다.
+1. 다음을 입력합니다. **[!UICONTROL 필드 레이블]**, **[!UICONTROL Length]**, 및 **[!UICONTROL 필드 이름]** (아래 표에 표시된 대로) 필드를 선택합니다.
 
 <table>
  <tbody>
@@ -88,11 +88,11 @@ Marketo Engage은 일련의 필드를 사용하여 특정 종류의 마케팅 �
 >
 >텍스트 및 숫자 필드는 길이가 필요하지만 날짜/시간 필드는 길이가 필요하지 않습니다. 설명은 선택 사항입니다.
 
-1. 클릭 **다음**.
+1. **[!UICONTROL 다음]**&#x200B;을 클릭합니다.
 
    ![](assets/step-1-of-3-add-marketo-fields-8.png)
 
-1. 액세스 설정을 지정하고 **다음**.
+1. 액세스 설정을 지정하고 **[!UICONTROL 다음]**.
 
 1. 모든 역할을 표시 및 읽기 전용으로 설정합니다.
 
@@ -105,9 +105,9 @@ Marketo Engage은 일련의 필드를 사용하여 특정 종류의 마케팅 �
 
 1. 필드를 표시할 페이지 레이아웃을 선택합니다.
 
-1. 클릭 **저장 및 새로 만들기** 로 돌아가서 다른 두 개의 사용자 정의 필드를 각각 만듭니다.
+1. 클릭 **[!UICONTROL 저장 및 새로 만들기]** 로 돌아가서 다른 두 개의 사용자 정의 필드를 각각 만듭니다.
 
-1. 클릭 **저장** 세 가지를 모두 완료하면 됩니다.
+1. 클릭 **[!UICONTROL 저장]** 세 가지를 다 끝내면
 
    ![](assets/step-1-of-3-add-marketo-fields-10.png)
 
@@ -138,7 +138,7 @@ Marketo Engage은 일련의 필드를 사용하여 특정 종류의 마케팅 �
    <td>길이 255</td>
   </tr>
   <tr>
-   <td>추정 국가</td>
+   <td>추론된 국가</td>
    <td>mkto71_Inferred_Country</td>
    <td>텍스트</td>
    <td>길이 255</td>
@@ -156,7 +156,7 @@ Marketo Engage은 일련의 필드를 사용하여 특정 종류의 마케팅 �
    <td>길이 255</td>
   </tr>
   <tr>
-   <td>우편번호 유추</td>
+   <td>추론된 우편번호</td>
    <td>mkto71_Inferred_Postal_Code</td>
    <td>텍스트</td>
    <td>길이 255</td>

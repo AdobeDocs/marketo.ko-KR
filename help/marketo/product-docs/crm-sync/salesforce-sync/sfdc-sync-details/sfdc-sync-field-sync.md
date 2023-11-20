@@ -4,16 +4,16 @@ description: SFDC 동기화 - 필드 동기화 - Marketo 문서 - 제품 설명�
 title: SFDC 동기화 - 필드 동기화
 exl-id: fbd66829-53cb-47fd-a530-149d12baee0e
 feature: Salesforce Integration
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0087a5e88b8bd9601875f68a2e7cadeebdb5d682
 workflow-type: tm+mt
-source-wordcount: '413'
+source-wordcount: '414'
 ht-degree: 0%
 
 ---
 
 # SFDC 동기화: 필드 동기화 {#sfdc-sync-field-sync}
 
-Marketo은 Salesforce의 필드 정보를 동기화합니다. 세부사항은 다음과 같습니다.
+Marketo Engage은 Salesforce의 필드 정보를 동기화합니다. 세부사항은 다음과 같습니다.
 
 ## 동기화되는 필드는 무엇입니까? {#which-fields-are-synced}
 
@@ -39,7 +39,7 @@ SFDC에 새 필드를 추가하고 동기화 사용자에게 이를 볼 수 있�
 
 SFDC에서 필드 레이블을 변경해도 Marketo의 필드 레이블에는 영향을 주지 않습니다.
 
-## SFDC에서 필드 유형을 변경하면 어떻게 합니까? {#what-if-i-change-a-field-type-in-sfdc}
+## SFDC에서 필드 유형을 변경하는 경우 어떻게 합니까? {#what-if-i-change-a-field-type-in-sfdc}
 
 필드 유형을 변경하면 Marketo은 필드의 데이터가 일치하지 않으면 해당 데이터를 삭제합니다(하지만 먼저 경고가 표시됨). 데이터를 보존하려면 필드 유형을 변경한 후 내보내고 다시 가져와야 합니다.
 
@@ -57,8 +57,8 @@ SFDC의 조회 필드는 ID는 동기화하지만 참조된 이름은 동기화�
 
 ## SFDC 공식 필드는 어떻습니까? {#what-about-sfdc-formula-fields}
 
-공식 필드는 동기화되지만 공식의 참조에 대한 업데이트는 다음에 대한 업데이트가 있을 때까지 동기화되지 않습니다. [시스템 변경사항 스탬프](https://help.salesforce.com/apex/HTViewSolution?id=000193203&amp;language=en_US).
+공식 필드는 동기화되지만 공식의 참조에 대한 업데이트는 다음에 대한 업데이트가 있을 때까지 동기화되지 않습니다. [시스템 변경사항 스탬프](https://help.salesforce.com/apex/HTViewSolution?id=000193203&amp;language=en_US){target="_blank"}.
 
 ## 이전에 Marketo과 동기화되던 Salesforce에서 필드를 삭제하면 어떻게 됩니까? {#what-happens-when-i-delete-a-field-from-salesforce-that-was-previously-syncing-with-marketo}
 
-SFDC에서 필드를 삭제해도 Marketo에서 필드가 자동으로 삭제되지 않고, 동기화가 중지됩니다.
+SFDC에서 필드를 삭제하면 Marketo의 필드가 자동으로 삭제되지 않고 동기화만 중지됩니다.

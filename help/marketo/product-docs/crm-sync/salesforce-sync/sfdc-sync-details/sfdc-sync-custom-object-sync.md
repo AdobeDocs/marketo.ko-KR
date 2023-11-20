@@ -4,16 +4,16 @@ description: SFDC 동기화 - 사용자 지정 개체 동기화 - Marketo 문서
 title: SFDC 동기화 - 사용자 지정 개체 동기화
 exl-id: e491e0bc-04a9-4e78-97c3-a25b945d546a
 feature: Salesforce Integration
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0087a5e88b8bd9601875f68a2e7cadeebdb5d682
 workflow-type: tm+mt
-source-wordcount: '234'
+source-wordcount: '232'
 ht-degree: 0%
 
 ---
 
 # SFDC 동기화: 사용자 지정 개체 동기화 {#sfdc-sync-custom-object-sync}
 
-Salesforce 인스턴스에서 만든 사용자 지정 개체도 Marketo의 일부일 수 있습니다.  설정 방법은 다음과 같습니다.
+Salesforce 인스턴스에서 만든 사용자 지정 개체도 Marketo Engage의 일부일 수 있습니다. 설정 방법은 다음과 같습니다.
 
 >[!NOTE]
 >
@@ -21,7 +21,7 @@ Salesforce 인스턴스에서 만든 사용자 지정 개체도 Marketo의 일�
 
 >[!PREREQUISITES]
 >
->사용자 지정 개체를 사용하려면 개체에 연결해야 합니다 [리드](/help/marketo/product-docs/crm-sync/salesforce-sync/sfdc-sync-details/sfdc-sync-field-sync.md), [연락처](/help/marketo/product-docs/crm-sync/salesforce-sync/sfdc-sync-details/sfdc-sync-contact-sync.md), 또는 [account](/help/marketo/product-docs/crm-sync/salesforce-sync/sfdc-sync-details/sfdc-sync-account-sync.md) salesforce의 개체입니다.
+>사용자 지정 개체를 사용하려면 개체에 연결해야 합니다 [리드](/help/marketo/product-docs/crm-sync/salesforce-sync/sfdc-sync-details/sfdc-sync-field-sync.md){target="_blank"}, [contact](/help/marketo/product-docs/crm-sync/salesforce-sync/sfdc-sync-details/sfdc-sync-contact-sync.md){target="_blank"}, or [account](/help/marketo/product-docs/crm-sync/salesforce-sync/sfdc-sync-details/sfdc-sync-account-sync.md){target="_blank"} salesforce의 개체입니다.
 
 >[!IMPORTANT]
 >
@@ -29,15 +29,15 @@ Salesforce 인스턴스에서 만든 사용자 지정 개체도 Marketo의 일�
 
 ## 사용자 지정 개체 사용  {#enable-custom-object}
 
-1. 클릭 **관리자** 및 **Salesforce 개체 동기화** 링크를 클릭합니다.
+1. 클릭 **[!UICONTROL 관리자]** 및 **[!UICONTROL Salesforce 개체 동기화]** 링크를 클릭합니다.
 
    ![](assets/image2015-11-19-10-3a28-3a5.png).
 
-1. 첫 번째 사용자 지정 개체인 경우 **동기화 스키마**.
+1. 첫 번째 사용자 지정 개체인 경우 **[!UICONTROL 동기화 스키마]**.
 
    ![](assets/rtaimage-2.png)
 
-1. 클릭 **전역 동기화 비활성화**.
+1. 클릭 **[!UICONTROL 전역 동기화 비활성화]**.
 
    ![](assets/image2015-4-22-10-3a45-3a0.png)
 
@@ -55,11 +55,11 @@ Salesforce 인스턴스에서 만든 사용자 지정 개체도 Marketo의 일�
    >
    >사용자 지정 개체에는 고유한 이름이 있어야 합니다. Marketo은 이름이 같은 두 개의 서로 다른 사용자 지정 개체를 지원하지 않습니다.
 
-1. 클릭 **동기화 활성화**.
+1. 클릭 **[!UICONTROL 동기화 활성화]**.
 
    ![](assets/image2015-4-22-10-3a45-3a50.png)
 
-1. 클릭 **동기화 활성화** 다시.
+1. 클릭 **[!UICONTROL 동기화 활성화]** 다시.
 
    ![](assets/image2015-4-22-10-3a46-3a10.png)
 
@@ -71,11 +71,11 @@ Salesforce 인스턴스에서 만든 사용자 지정 개체도 Marketo의 일�
 
    ![](assets/image2015-4-22-10-3a46-3a25.png)
 
-1. 클릭 **동기화 활성화**.
+1. 클릭 **[!UICONTROL 동기화 활성화]**.
 
    ![](assets/image2015-4-22-10-3a50-3a26.png)
 
-1. 모든 Salesforce 사용자 지정 개체를 보려면 **관리자** 및 **Salesforce 개체 동기화** 링크(위의 1단계와 동일).
+1. 모든 Salesforce 사용자 지정 개체를 보려면 **[!UICONTROL 관리자]** 및 **[!UICONTROL Salesforce 개체 동기화]** 링크(위의 1단계와 동일).
 
    ![](assets/image2016-6-23-9-3a28-3a23.png)
 
@@ -85,6 +85,6 @@ Salesforce 인스턴스에서 만든 사용자 지정 개체도 Marketo의 일�
 
 ### 다음 단계: {#whats-next}
 
-[사용자 지정 개체 필드를 스마트 목록/트리거 제약 조건으로 추가/제거](/help/marketo/product-docs/crm-sync/salesforce-sync/setup/optional-steps/add-remove-custom-object-field-as-smart-list-trigger-constraints.md)
+[사용자 지정 개체 필드를 스마트 목록/트리거 제한으로 추가/제거](/help/marketo/product-docs/crm-sync/salesforce-sync/setup/optional-steps/add-remove-custom-object-field-as-smart-list-trigger-constraints.md){target="_blank"}
 
 훌륭합니다! 이제 스마트 캠페인 및 스마트 목록에서 이 사용자 지정 개체의 데이터를 사용할 수 있습니다.
