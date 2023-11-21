@@ -3,9 +3,9 @@ description: Dynamic Chat FAQ - Marketo 문서 - 제품 설명서
 title: DYNAMIC CHAT FAQ
 feature: Dynamic Chat
 exl-id: 7b31afc3-77f4-46fb-9f0e-8cb9d60f3ffb
-source-git-commit: aead0cbadac353df1364ccc094dabfcbafcdac05
+source-git-commit: a7404dc5c3f2014f53d49fd033f7e4002b9b2203
 workflow-type: tm+mt
-source-wordcount: '780'
+source-wordcount: '781'
 ht-degree: 0%
 
 ---
@@ -24,7 +24,7 @@ Dynamic Chat JavaScript 코드 조각은 Marketo 랜딩 페이지뿐만 아니�
 
 **Dynamic Chat은 영어 외에 다른 언어를 지원합니까?**
 
-네. Dynamic Chat은 프랑스어, 독일어, 일본어, 스페인어, 이탈리아어, 포르투갈어(브라질), 한국어, 중국어 간체 및 중국어 번체를 지원합니다. 다음에서 자세히 알아보기 [언어 변경](/help/marketo/product-docs/demand-generation/dynamic-chat/dynamic-chat-overview.md#changing-the-language){target="_blank"}.
+네. Dynamic Chat은 프랑스어, 스페인어, 독일어, 일본어, 네덜란드어, 이탈리아어, 포르투갈어(브라질), 한국어, 중국어 간체 및 중국어 번체를 지원합니다. 다음에서 자세히 알아보기 [언어 변경](/help/marketo/product-docs/demand-generation/dynamic-chat/dynamic-chat-overview.md#changing-the-language){target="_blank"}.
 
 **AI/NLP 기능을 지원합니까?**
 
