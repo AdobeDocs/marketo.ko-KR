@@ -4,7 +4,7 @@ description: SMS에 대한 흐름 단계 추가 - Marketo 문서 - 제품 설명
 title: SMS에 대한 흐름 단계 추가
 exl-id: 8e96f6ad-43c9-4d64-8cb6-241664956d72
 feature: Mobile Marketing
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: cd09ad43c08855af63131aa385c4fd406c963926
 workflow-type: tm+mt
 source-wordcount: '283'
 ht-degree: 0%
@@ -32,7 +32,7 @@ SMS 사용에 대한 기본 사항은 다음과 같습니다.
 
 1. 내 Marketo에서 **마케팅 활동**.
 
-   ![](assets/image2016-7-28-11-3a41-3a17.png)
+   ![](assets/add-a-flow-step-for-sms-1.png)
 
 1. SMS 흐름을 추가할 스마트 캠페인을 찾습니다. 다음을 클릭합니다. **플로우** 탭.
 

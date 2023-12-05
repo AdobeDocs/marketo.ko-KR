@@ -4,7 +4,7 @@ description: 스마트 목록 트리거 및 필터 - Marketo 문서 - 제품 설
 title: 스마트 목록 트리거 및 필터에서 SMS 메시지 보기 사용
 exl-id: 9a629a39-fddc-4ec5-b1c5-d5053d676594
 feature: Mobile Marketing
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: cd09ad43c08855af63131aa385c4fd406c963926
 workflow-type: tm+mt
 source-wordcount: '281'
 ht-degree: 0%
@@ -17,7 +17,7 @@ ht-degree: 0%
 
 1. 내 Marketo에서 **마케팅 활동**.
 
-   ![](assets/image2016-7-28-9-3a48-3a32.png)
+   ![](assets/use-vibes-sms-messages-in-smart-list-triggers-and-filters-1.png)
 
 1. SMS 자산을 사용할 스마트 캠페인을 선택합니다. 인기 항목 등의 트리거 위로 끌기 **양식 작성**.
 
