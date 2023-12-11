@@ -3,10 +3,10 @@ audience: end-user
 user-guide-title: Marketo 안내서
 user-guide-description: Marketo 제품 설명서
 feature-set: Marketo Engage
-source-git-commit: a9aa55184a7971d3c82d106481f1f83593a7dd99
+source-git-commit: cf4dcb6a316eba631ccb73a991c09e83c80b82ca
 workflow-type: tm+mt
-source-wordcount: '9099'
-ht-degree: 1%
+source-wordcount: '9267'
+ht-degree: 0%
 
 ---
 
@@ -1124,7 +1124,7 @@ ht-degree: 1%
       + [글로벌 검색 사용](product-docs/marketo-engage-modern-ux/using-the-global-search.md)
       + [전환 스위치](product-docs/marketo-engage-modern-ux/toggle-switch.md)
    + Marketo Sales Connect {#marketo-sales-connect}
-      + 시작하기 {#getting-started}
+      + 시작 {#getting-started}
          + [Sales Connect 개요](product-docs/marketo-sales-connect/getting-started/sales-connect-overview.md)
          + [새 Sales Connect 인스턴스에 액세스](product-docs/marketo-sales-connect/getting-started/accessing-your-new-sales-connect-instance.md)
          + [Sales Connect 관리자를 위한 시작 안내서](product-docs/marketo-sales-connect/getting-started/getting-started-guide-for-sales-connect-admins.md)
@@ -1144,7 +1144,7 @@ ht-degree: 1%
          + [Sales Connect에서 SAML 2.0을 통해 SSO 설정](product-docs/marketo-sales-connect/admin/setting-up-sso-through-saml-2-0-in-sales-connect.md)
          + [공유 설정](product-docs/marketo-sales-connect/admin/sharing-settings.md)
          + [사용자 액세스 세부 정보](product-docs/marketo-sales-connect/admin/user-access-details.md)
-      + Analytics {#analytics}
+      + 분석 {#analytics}
          + [Analytics 페이지 개요](product-docs/marketo-sales-connect/analytics/analytics-page-overview.md)
          + [콘텐츠 탭 이해](product-docs/marketo-sales-connect/analytics/understanding-the-content-tab.md)
          + [내 탭 이해](product-docs/marketo-sales-connect/analytics/understanding-the-me-tab.md)
@@ -1279,7 +1279,7 @@ ht-degree: 1%
          + [Sales Connect 사용자에게 캠페인 표시](product-docs/marketo-sales-connect/marketo/make-a-campaign-visible-to-sales-connect-users.md)
          + [영업 활동 용어집](product-docs/marketo-sales-connect/marketo/sales-activity-glossary.md)
          + [판매 활동 트리거 및 필터](product-docs/marketo-sales-connect/marketo/sales-activity-triggers-and-filters.md)
-      + 인물 {#people}
+      + 사람 {#people}
          + [개인 세부 사항 보기](product-docs/marketo-sales-connect/people/person-detail-view.md)
          + [Sales Connect 및 GDPR 준수](product-docs/marketo-sales-connect/people/sales-connect-and-gdpr-compliance.md)
          + 연락처 관리 {#managing-contacts}
@@ -1303,7 +1303,7 @@ ht-degree: 1%
          + [영업 전화 개요](product-docs/marketo-sales-connect/phone/sales-phone-overview.md)
          + [통화 녹음을 팀과 공유](product-docs/marketo-sales-connect/phone/share-call-recordings-with-your-team.md)
          + [타사 동의 설정](product-docs/marketo-sales-connect/phone/two-party-consent-settings.md)
-      + Tasks {#tasks}
+      + 작업 {#tasks}
          + [미리 알림 작업 만들기 및 할당](product-docs/marketo-sales-connect/tasks/create-and-assign-reminder-tasks.md)
          + [Salesforce와의 미리 알림 작업 동기화](product-docs/marketo-sales-connect/tasks/reminder-task-sync-with-salesforce.md)
          + [처음으로 Salesforce와 Sales Connect 작업 동기화](product-docs/marketo-sales-connect/tasks/syncing-sales-connect-tasks-with-salesforce-for-the-first-time.md)
@@ -1331,9 +1331,9 @@ ht-degree: 1%
             + [동적 필드가 채워지지 않습니다.](product-docs/marketo-sales-connect/templates/dynamic-fields/my-dynamic-fields-arent-filling-out.md)
             + [동적 필드에서 자기 자신을 참조합니다.](product-docs/marketo-sales-connect/templates/dynamic-fields/reference-yourself-in-a-dynamic-field.md)
    + Marketo Sales Insight {#marketo-sales-insight}
-      + 액션 {#actions}
+      + 작업 {#actions}
          + [Sales Insight Actions 기능 개요](product-docs/marketo-sales-insight/actions/sales-insight-actions-feature-overview.md)
-         + 시작하기 {#getting-started}
+         + 시작 {#getting-started}
             + [Sales Insight Actions 사용 온보딩 안내서](product-docs/marketo-sales-insight/actions/getting-started/sales-insight-actions-user-onboarding-guide.md)
             + [Sales Insight Actions 사용자 온보딩 체크리스트](product-docs/marketo-sales-insight/actions/getting-started/sales-insight-actions-user-onboarding-checklist.md)
             + [Sales Insight Actions 관리 설정 안내서](product-docs/marketo-sales-insight/actions/getting-started/sales-insight-actions-admin-setup-guide.md)
@@ -1355,7 +1355,7 @@ ht-degree: 1%
             + [공유 설정](product-docs/marketo-sales-insight/actions/admin/sharing-settings.md)
             + [영업 활동 데이터를 Marketo 및 Salesforce와 동기화](product-docs/marketo-sales-insight/actions/admin/sync-sales-action-data-with-marketo-and-salesforce.md)
             + [사용자 액세스 세부 정보](product-docs/marketo-sales-insight/actions/admin/user-access-details.md)
-         + Analytics {#analytics}
+         + 분석 {#analytics}
             + [Analytics 페이지 개요](product-docs/marketo-sales-insight/actions/analytics/analytics-page-overview.md)
             + [콘텐츠 탭 이해](product-docs/marketo-sales-insight/actions/analytics/understanding-the-content-tab.md)
             + [내 탭 이해](product-docs/marketo-sales-insight/actions/analytics/understanding-the-me-tab.md)
@@ -1451,7 +1451,7 @@ ht-degree: 1%
             + [판매 활동 트리거 및 필터](product-docs/marketo-sales-insight/actions/marketo/sales-activity-triggers-and-filters.md)
             + [Sales Insight Actions 활동 용어집](product-docs/marketo-sales-insight/actions/marketo/sales-insight-actions-activity-glossary.md)
             + [Marketo 연결 설정](product-docs/marketo-sales-insight/actions/marketo/set-up-your-marketo-connection.md)
-         + 인물 {#people}
+         + 사람 {#people}
             + [개인 세부 사항 보기](product-docs/marketo-sales-insight/actions/people/person-detail-view.md)
             + [Sales Insight 작업 및 GDPR 규정 준수](product-docs/marketo-sales-insight/actions/people/sales-insight-actions-and-gdpr-compliance.md)
             + 연락처 관리 {#managing-contacts}
@@ -1470,7 +1470,7 @@ ht-degree: 1%
             + [타사 동의 설정](product-docs/marketo-sales-insight/actions/phone/two-party-consent-settings.md)
          + 판매 이메일 보내기 {#send-a-sales-email}
             + [이메일 추적 개요](product-docs/marketo-sales-insight/actions/send-a-sales-email/email-tracking-overview.md)
-         + Tasks {#tasks}
+         + 작업 {#tasks}
             + [Salesforce와의 미리 알림 작업 동기화](product-docs/marketo-sales-insight/actions/tasks/reminder-task-sync-with-salesforce.md)
          + 템플릿 {#templates}
             + [하이퍼링크가 연결된 텍스트 추가](product-docs/marketo-sales-insight/actions/templates/add-hyperlinked-text.md)
@@ -1657,7 +1657,7 @@ ht-degree: 1%
       + [예측 콘텐츠 요약](product-docs/predictive-content/the-predictive-content-summary.md)
       + [예측 콘텐츠 활동을 위한 스마트 목록 정의](product-docs/predictive-content/define-a-smart-list-for-predictive-content-activities.md)
       + [Predictive Content Analytics 개요](product-docs/predictive-content/predictive-content-analytics-overview.md)
-      + 시작하기 {#getting-started}
+      + 시작 {#getting-started}
          + [알고리즘 목표 설정](product-docs/predictive-content/getting-started/algorithm-goal-settings.md)
          + [콘텐츠 패턴 만들기](product-docs/predictive-content/getting-started/create-content-patterns.md)
          + [Content-AI용 JavaScript 배포](product-docs/predictive-content/getting-started/deploy-the-javascript-for-content-ai.md)
@@ -1812,7 +1812,7 @@ ht-degree: 1%
             + [기간 원가 정의](product-docs/reporting/revenue-cycle-analytics/revenue-tools/define-period-costs.md)
             + [수익 주기 분석에 대한 사용자 정의 필드 동기화 활성화](product-docs/reporting/revenue-cycle-analytics/revenue-tools/enabling-custom-field-sync-for-revenue-cycle-analytics.md)
             + [수익 단계별 인력 보고서](product-docs/reporting/revenue-cycle-analytics/revenue-tools/people-by-revenue-stage-report.md)
-            + 귀속 {#attribution}
+            + 속성 {#attribution}
                + [속성 이해](product-docs/reporting/revenue-cycle-analytics/revenue-tools/attribution/understanding-attribution.md)
                + [속성 예 1](product-docs/reporting/revenue-cycle-analytics/revenue-tools/attribution/attribution-example-1.md)
                + [속성 예 2](product-docs/reporting/revenue-cycle-analytics/revenue-tools/attribution/attribution-example-2.md)
@@ -1869,7 +1869,7 @@ ht-degree: 1%
          + [TAM을 통한 계정 기반 웹 마케팅](product-docs/web-personalization/account-based-web-marketing/account-based-web-marketing-with-tam.md)
          + [새 계정 목록 만들기](product-docs/web-personalization/account-based-web-marketing/create-a-new-account-list.md)
          + [계정 목록을 사용하여 세그먼트 만들기](product-docs/web-personalization/account-based-web-marketing/create-a-segment-using-an-account-list.md)
-      + 시작하기 {#getting-started}
+      + 시작 {#getting-started}
          + [계정 설정에서 하위 도메인 추가](product-docs/web-personalization/getting-started/add-subdomains-in-account-settings.md)
          + [영역 편집](product-docs/web-personalization/getting-started/edit-regions.md)
          + [로그인 및 사용자 관리](product-docs/web-personalization/getting-started/login-and-user-management.md)
@@ -1943,6 +1943,7 @@ ht-degree: 1%
 + 릴리스 정보 {#release-notes}
    + [릴리스 일정](release-notes/release-schedule.md)
    + [현재 릴리스](release-notes/current.md)
+   + [현재 릴리스 임시 페이지](release-notes/current-temp.md)
    + 이전 릴리스 {#previous-releases}
       + 2023 {#2023}
          + [릴리스 노트: 2023년 1월](release-notes/previous-releases/2023/release-notes-jan-23.md)
@@ -1973,7 +1974,7 @@ ht-degree: 1%
          + [릴리스 노트: 2019년 6월](release-notes/previous-releases/2019/release-notes-june-19.md)
          + [릴리스 노트: 2019년 봄](release-notes/previous-releases/2019/release-notes-spring-19.md)
          + [릴리스 노트: 2019년 겨울](release-notes/previous-releases/2019/release-notes-winter-19.md)
-      + 2018 {#2018}
+      + 20 {#2018}
          + [릴리스 노트: 2018년 가을](release-notes/previous-releases/2018/release-notes-fall-18.md)
          + [릴리스 노트: 2018년 봄](release-notes/previous-releases/2018/release-notes-spring-18.md)
          + [릴리스 정보: 2018년 겨울](release-notes/previous-releases/2018/release-notes-winter-18.md)
@@ -1989,7 +1990,7 @@ ht-degree: 1%
          + [릴리스 노트: 2016년 봄](release-notes/previous-releases/2016/release-notes-spring-16.md)
          + [릴리스 노트: 2016년 여름](release-notes/previous-releases/2016/release-notes-summer-16.md)
          + [릴리스 정보: 2016년 겨울](release-notes/previous-releases/2016/release-notes-winter-16.md)
-      + 2015 {#2015}
+      + 20 {#2015}
          + [릴리스 노트: 2015년 4월](release-notes/previous-releases/2015/release-notes-april-2015.md)
          + [릴리스 노트: 2015년 가을](release-notes/previous-releases/2015/release-notes-fall-15.md)
          + [릴리스 노트: 2015년 2월](release-notes/previous-releases/2015/release-notes-february-2015.md)
@@ -2030,4 +2031,4 @@ ht-degree: 1%
          + [릴리스 노트: 2012년 10월](release-notes/previous-releases/2012/release-notes-october-2012.md)
          + [릴리스 노트: 2012년 9월](release-notes/previous-releases/2012/release-notes-september-2012.md)
       + [2010-2011](release-notes/previous-releases/2010-2011.md)
-      + [2007-2009](release-notes/previous-releases/2007-2009.md)
+      + [2007년-2009년](release-notes/previous-releases/2007-2009.md)

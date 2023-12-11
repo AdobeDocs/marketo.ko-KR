@@ -3,9 +3,9 @@ description: 릴리스 노트 - 2022년 6월 - Marketo 문서 - 제품 설명서
 title: 릴리스 노트 - 2022년 6월
 exl-id: f4438ea8-1657-4955-9f9f-640b3ecf5caa
 feature: Release Information
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: cf4dcb6a316eba631ccb73a991c09e83c80b82ca
 workflow-type: tm+mt
-source-wordcount: '641'
+source-wordcount: '640'
 ht-degree: 0%
 
 ---
@@ -24,7 +24,7 @@ ht-degree: 0%
 
 * **사용자 지정 개체에 대해 CreatedAt/UpdatedAt 필드 표시**: 개인 세부 정보 화면에서 이러한 필드를 검사하여 추가 통찰력을 얻을 수 있는 기능을 제공합니다.
 
-## 크로스 채널 오케스트레이션 {#cross-channel-orchestration}
+## 크로스 채널 오케스트레이션 {#cross-channel-orchestration}
 
 * **Dynamic Chat을 위한 스트림 디자이너 유용성 개선**: 드래그하여 놓을 필요 없이 스트림 디자이너 캔버스에서 직접 카드를 추가합니다. Dynamic Chat 인터페이스도 개선되어 개별 카드의 콘텐츠를 더 잘 볼 수 있습니다.
 
