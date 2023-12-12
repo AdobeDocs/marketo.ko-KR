@@ -4,10 +4,10 @@ description: 등록 코드가 있는 Outlook용 Marketo 이메일 추가 기능 
 title: 등록 코드를 사용하여 Outlook용 Marketo 이메일 추가 기능 설치
 exl-id: d7a877c2-f71e-44da-b323-04f6cdb44eb0
 feature: Marketo Sales Insights
-source-git-commit: 02b2e39580c5eac63de4b4b7fdaf2a835fdd4ba5
+source-git-commit: 40fe81d465d04be97ae5e216250b7e06e6d3791e
 workflow-type: tm+mt
-source-wordcount: '516'
-ht-degree: 3%
+source-wordcount: '491'
+ht-degree: 1%
 
 ---
 
@@ -53,6 +53,10 @@ ht-degree: 3%
    | Office 365* | [다운로드](https://munchkin.marketo.net/MarketoAddInSetup32.msi) | [다운로드](https://munchkin.marketo.net/MarketoAddInSetup64.msi) |
 
    *Office 365 버전: Windows 클라이언트 전용(Windows 10, Enterprise 또는 Pro).
+
+   >[!IMPORTANT]
+   >
+   >Microsoft이 [Windows용 Outlook의 새 버전](https://techcommunity.microsoft.com/t5/outlook-blog/new-outlook-for-windows-now-available/ba-p/3932068){target="_blank"}. This new version does not support the existing MSI Outlook plugin. The MSI Outlook plugin will continue to work for Windows desktops running the classic version of Outlook. To learn more about the new Outlook for Windows for organizations, [click here](https://techcommunity.microsoft.com/t5/outlook-blog/the-new-outlook-for-windows-for-organization-admins/ba-p/3929169){target="_blank"}.
 
 ## 등록 코드 복사 {#copy-your-registration-code}
 

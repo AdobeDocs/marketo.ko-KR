@@ -2,10 +2,10 @@
 description: 릴리스 노트 - 2023년 9월 - Marketo 설명서 - 제품 설명서
 title: 릴리스 노트 - 2023년 9월
 feature: Release Information
-exl-id: fe00a1cf-c4bd-4513-bd39-ed81ea02c23d
-source-git-commit: 38274b4859ae38c018ee73d4f1715fdf6a78e815
+exl-id: 5a3a5b9f-73d8-4227-9e75-62852833619b
+source-git-commit: 40fe81d465d04be97ae5e216250b7e06e6d3791e
 workflow-type: tm+mt
-source-wordcount: '937'
+source-wordcount: '922'
 ht-degree: 1%
 
 ---
@@ -248,8 +248,8 @@ ht-degree: 1%
   </tr>
     <tr> 
    <td><strong>대화형 흐름 자산 페이지</strong>: 이제 Design Studio 에셋 페이지에 Dynamic Chat 대화 흐름이 나열됩니다. Marketo Engage 에셋에 통합할 수 있는 흐름을 확인하고 편집기에 바로 딥링크합니다.</td> 
-   <td><i>곧 출시 예정</i></td>
-   <td><i>곧 출시 예정</i></td>
+   <td>배송됨</td>
+   <td>해당 사항 없음</td>
   </tr>
   <tr> 
    <td> </td> 

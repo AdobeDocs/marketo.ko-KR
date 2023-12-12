@@ -4,9 +4,9 @@ description: 엔터프라이즈 키가 포함된 Outlook용 Marketo 추가 기�
 title: Enterprise 키로 Outlook용 Marketo 추가 기능 설치
 exl-id: a44780d6-a360-4536-8913-31429cc32f65
 feature: Marketo Sales Insights
-source-git-commit: 02b2e39580c5eac63de4b4b7fdaf2a835fdd4ba5
+source-git-commit: 40fe81d465d04be97ae5e216250b7e06e6d3791e
 workflow-type: tm+mt
-source-wordcount: '226'
+source-wordcount: '233'
 ht-degree: 0%
 
 ---
@@ -22,6 +22,10 @@ ht-degree: 0%
 >[!NOTE]
 >
 >Gmail 및 Outlook용 Sales Insight 이메일 플러그인에서 판매 이메일 보내기, 판매 캠페인에 추가, 작업 등 Sales Insight 작업 기능을 사용할 수 없습니다. 현재 사용자는 Sales Insight 이메일 플러그인을 사용할 때 이메일 클라이언트에서 Marketo 이메일 템플릿을 사용하거나 사용하지 않고 추적 가능한 이메일을 보낼 수 있습니다.
+
+>[!IMPORTANT]
+>
+>Microsoft이 [Windows용 Outlook의 새 버전](https://techcommunity.microsoft.com/t5/outlook-blog/new-outlook-for-windows-now-available/ba-p/3932068){target="_blank"}. This new version does not support the existing MSI Outlook plugin. The MSI Outlook plugin will continue to work for Windows desktops running the classic version of Outlook. To learn more about the new Outlook for Windows for organizations, [click here](https://techcommunity.microsoft.com/t5/outlook-blog/the-new-outlook-for-windows-for-organization-admins/ba-p/3929169){target="_blank"}.
 
 1. 내 Marketo에서 **관리자** 그런 다음 **Sales Insight**.
 
