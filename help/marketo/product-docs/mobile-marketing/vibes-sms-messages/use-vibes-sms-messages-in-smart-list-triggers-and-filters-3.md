@@ -4,9 +4,9 @@ title: 스마트 목록 트리거 및 필터에서 SMS 메시지 보기 사용
 hide: true
 hidefromtoc: true
 feature: Mobile Marketing
-source-git-commit: cf4dcb6a316eba631ccb73a991c09e83c80b82ca
+source-git-commit: 6b8c54dbe95c7bc6e2f68a48de11306f3f678cb6
 workflow-type: tm+mt
-source-wordcount: '413'
+source-wordcount: '412'
 ht-degree: 0%
 
 ---
@@ -15,7 +15,7 @@ ht-degree: 0%
 
 새 문서
 
-이후 [Vibes SMS 메시지 만들기](/help/marketo/product-docs/mobile-marketing/vibes-sms-messages/create-a-vibes-sms-message.md){target="_blank"}, 스마트 캠페인 내의 스마트 목록 트리거 및 필터를 사용하여 이점을 얻고자 합니다. 방법은 다음과 같습니다.
+이후 [sms 메시지 만들기](/help/marketo/product-docs/mobile-marketing/vibes-sms-messages/create-an-sms-message.md){target="_blank"}, 스마트 캠페인 내의 스마트 목록 트리거 및 필터를 사용하여 이점을 얻고자 합니다. 방법은 다음과 같습니다.
 
 1. 내 Marketo에서 **마케팅 활동**.
 
