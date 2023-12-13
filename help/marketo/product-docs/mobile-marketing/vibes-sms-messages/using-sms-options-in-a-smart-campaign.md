@@ -4,7 +4,7 @@ title: 스마트 캠페인에서 SMS 옵션 사용
 hide: true
 hidefromtoc: true
 feature: Mobile Marketing
-source-git-commit: c3bad3c7d32259a9989227c1d6fa43bc693dd814
+source-git-commit: 5c6e014224b33310c847c08784a70a08796d971a
 workflow-type: tm+mt
 source-wordcount: '406'
 ht-degree: 0%
@@ -25,10 +25,10 @@ ht-degree: 0%
 
 ## SMS 트리거 {#sms-triggers}
 
-<table>
+<table style="width:600px">
   <tr>
-    <td><img src="assets/using-sms-options-in-a-smart-campaign-1.png"></td>
-    <td><img src="assets/using-sms-options-in-a-smart-campaign-2.png"></td>
+    <td style="width:50%"><img src="assets/using-sms-options-in-a-smart-campaign-1.png"></td>
+    <td style="width:50%"><img src="assets/using-sms-options-in-a-smart-campaign-2.png"></td>
   </tr>
 </table>
 
@@ -42,10 +42,10 @@ ht-degree: 0%
 
 ## SMS 필터 {#sms-filters}
 
-<table>
+<table style="width:600px">
   <tr>
-    <td><img src="assets/using-sms-options-in-a-smart-campaign-3.png"></td>
-    <td><img src="assets/using-sms-options-in-a-smart-campaign-4.png"></td>
+    <td style="width:50%"><img src="assets/using-sms-options-in-a-smart-campaign-3.png"></td>
+    <td style="width:50%"><img src="assets/using-sms-options-in-a-smart-campaign-4.png"></td>
   </tr>
 </table>
 
@@ -66,16 +66,16 @@ ht-degree: 0%
 <table>
 <tbody>
   <tr>
-    <td style="width:25%">SMS 메시지 보내기</td>
+    <td style="width:20%"><b>SMS 메시지 보내기</b></td>
     <td>이 흐름 작업은 Marketo Smart List에서 사용자 옵트인 Vibes 구독 목록을 구독하는 사람에게 메시지를 보냅니다. 가입 프로세스가 시작되지 않습니다. <a href="/help/marketo/product-docs/mobile-marketing/vibes-sms-messages/send-an-sms-message.md">자세히 알아보기</a>.</td>
   </tr>
 
 <tr>
-    <td style="width:25%">비디오 목록 구독</td>
+    <td style="width:20%"><b>비디오 목록 구독</b></td>
     <td>이 흐름 작업은 사용자가 선택한 Vibes 획득 캠페인을 통해 SMS 구독 프로세스를 시작합니다. 그런 다음 Vibes가 확인 메시지를 보내며, 수신자는 옵트인을 확인하기 위해 24시간 이내에 "Y"로 회신해야 합니다. 사용자가 옵트인하면 연결된 Vibes 구독 목록의 구성원이 됩니다.</td>
   </tr>
   <tr>
-    <td style="width:25%">비디오 목록에서 구독 취소</td>
+    <td style="width:20%"><b>비디오 목록에서 구독 취소</b></td>
     <td>이 플로우 작업은 옵트인 Vibes 구독 목록에서 각 사용자의 구독을 취소합니다. 사용자가 코드에 "STOP"을 입력하면 개인 레코드가 업데이트되어 더 이상 Vibes 구독 목록의 멤버가 아니라는 것을 반영합니다.</td>
   </tr>
   </tbody>
