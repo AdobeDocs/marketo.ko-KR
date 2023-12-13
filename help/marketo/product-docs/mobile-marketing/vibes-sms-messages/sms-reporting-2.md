@@ -4,16 +4,16 @@ title: SMS 보고
 hide: true
 hidefromtoc: true
 feature: Mobile Marketing
-source-git-commit: 96bc28212ef275920fb106d69293958522cb4eb0
+source-git-commit: b9973d8bc5bf7d9e6944d05e6cf084966a31fcdb
 workflow-type: tm+mt
-source-wordcount: '135'
+source-wordcount: '134'
 ht-degree: 0%
 
 ---
 
 # SMS 보고 {#sms-reporting}
 
-SMS 메시지 대시보드는 메시지에 대한 유용한 보고 분석을 제공합니다.
+SMS 메시지 대시보드는 메시지에 대한 유용한 분석을 제공합니다.
 
 ## 대시보드 액세스 {#access-the-dashboard}
 
