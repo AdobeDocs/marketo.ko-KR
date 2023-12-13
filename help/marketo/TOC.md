@@ -3,9 +3,9 @@ audience: end-user
 user-guide-title: Marketo 안내서
 user-guide-description: Marketo 제품 설명서
 feature-set: Marketo Engage
-source-git-commit: 164fcc02570e421b10d52a2be002ddbab70843bd
+source-git-commit: 8895c2db94263659f3f9e3e3b5ebfeedcf8cbbd3
 workflow-type: tm+mt
-source-wordcount: '9267'
+source-wordcount: '9298'
 ht-degree: 0%
 
 ---
@@ -1591,6 +1591,7 @@ ht-degree: 0%
       + 관리자 {#admin}
          + [모바일 앱 추가](product-docs/mobile-marketing/admin/add-a-mobile-app.md)
          + [LaunchPoint Service로 비디오 추가](product-docs/mobile-marketing/admin/add-vibes-as-a-launchpoint-service.md)
+         + [TEMP Vibes as a LaunchPoint 서비스 추가](product-docs/mobile-marketing/admin/add-vibes-as-a-launchpoint-service-2.md)
          + [모바일 액세스 보안 인증](product-docs/mobile-marketing/admin/authenticate-mobile-access-security.md)
          + [푸시 알림 및 인앱 메시지를 만들기 전에](product-docs/mobile-marketing/admin/before-you-create-push-notifications-and-in-app-messages.md)
          + [모바일 앱 Android 푸시 액세스 구성](product-docs/mobile-marketing/admin/configure-mobile-app-android-push-access.md)
@@ -1630,6 +1631,11 @@ ht-degree: 0%
          + [SMS에 대한 흐름 단계 추가](product-docs/mobile-marketing/vibes-sms-messages/add-a-flow-step-for-sms.md)
          + [SMS 메시지 대시보드](product-docs/mobile-marketing/vibes-sms-messages/the-sms-message-dashboard.md)
          + [스마트 목록 트리거 및 필터에서 SMS 메시지 보기 사용](product-docs/mobile-marketing/vibes-sms-messages/use-vibes-sms-messages-in-smart-list-triggers-and-filters.md)
+         + [TEMP SMS 메시지 만들기](product-docs/mobile-marketing/vibes-sms-messages/create-an-sms-message-2.md)
+         + [TEMP SMS 메시지 보내기](product-docs/mobile-marketing/vibes-sms-messages/send-an-sms-message.md)
+         + [Smart Campaign에서 SMS 옵션을 사용하는 임시](product-docs/mobile-marketing/vibes-sms-messages/using-sms-options-in-a-smart-campaign.md)
+         + [임시 SMS 용어집](product-docs/mobile-marketing/vibes-sms-messages/sms-glossary.md)
+         + [임시 SMS 보고](product-docs/mobile-marketing/vibes-sms-messages/sms-reporting-2.md)
    + 개인화 {#personalization}
       + 세그먼테이션 및 코드 조각 {#segmentation-and-snippets}
          + 세분화 {#segmentation}
