@@ -4,9 +4,9 @@ description: 작업 공간 및 개인 파티션 이해 - Marketo 문서 - 제품
 title: 작업 공간 및 개인 분할 영역 이해
 exl-id: 27d00a0d-ebf1-4dff-b41e-1644ec9dbd28
 feature: Partitions, Workspaces
-source-git-commit: 02b2e39580c5eac63de4b4b7fdaf2a835fdd4ba5
+source-git-commit: 91b6460bf0fa7fed85d48887ec38203f2ee7440f
 workflow-type: tm+mt
-source-wordcount: '517'
+source-wordcount: '538'
 ht-degree: 0%
 
 ---
@@ -84,12 +84,16 @@ ht-degree: 0%
 
 ## 작업 영역 간 복제 {#cloning-across-workspaces}
 
-템플릿이 아닌 에셋의 경우 프로그램 내에서 로컬 에셋으로 복제하는 것이 가장 좋습니다.  적절한 액세스 수준을 사용하여 다음 에셋을 다른 작업 영역으로 끌어다 놓을 수 있습니다.
+템플릿이 아닌 에셋의 경우 프로그램 내에서 로컬 에셋으로 복제하는 것이 가장 좋습니다. 적절한 액세스 수준을 사용하여 다음 에셋을 다른 작업 영역으로 끌어다 놓을 수 있습니다.
 
 * 프로그램
 * 이메일
 * 랜딩 페이지
 * Forms
+
+>[!IMPORTANT]
+>
+>위에 나열된 모든 항목을 작업 공간, 이메일, 양식 및 랜딩 페이지 간에 복제할 수 있습니다. _은(는) 프로그램 내에 있어야 합니다._ 복제 시점.
 
 >[!NOTE]
 >
