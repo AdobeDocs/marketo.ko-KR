@@ -4,10 +4,10 @@ description: linkedIn에 일치하는 대상을 LaunchPoint 서비스로 추가 
 title: linkedIn 일치 대상을 LaunchPoint 서비스로 추가
 exl-id: 82096b19-aae9-4086-8fb4-defc5481d382
 feature: Integrations
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: bebf61037f37a06b40b4d9c1df872f1cf62a1403
 workflow-type: tm+mt
-source-wordcount: '178'
-ht-degree: 2%
+source-wordcount: '179'
+ht-degree: 0%
 
 ---
 
@@ -17,25 +17,25 @@ ht-degree: 2%
 >
 >**관리자 권한 필요**
 
-Marketo 계정을 LinkedIn 일치 대상과 연결하여 Marketo 정적 목록 또는 스마트 목록을 LinkedIn 대상 세그먼트로 사용합니다.
+linkedIn 정적 목록 또는 스마트 목록을 LinkedIn 대상 세그먼트로 사용하려면 Marketo Engage 계정을 Marketo 일치 대상 과 연결하십시오.
 
-1. 로 이동 **관리자** 섹션.
+1. 로 이동 **[!UICONTROL 관리자]** 섹션.
 
    ![](assets/admin.png)
 
-1. 선택 **Launchpoint**.
+1. 선택 **[!UICONTROL 시작 지점]**.
 
    ![](assets/image2014-12-5-14-3a35-3a27.png)
 
-1. 선택 **신규** 및 **새 서비스**.
+1. 선택 **[!UICONTROL 신규]** 및 **[!UICONTROL 새 서비스]**.
 
    ![](assets/image2014-12-5-14-3a37-3a33.png)
 
-1. 입력 **표시 이름** 및 선택 **LinkedIn과 일치하는 대상**. Click **Create**.
+1. 입력 **[!UICONTROL 표시 이름]** 및 선택 **[!UICONTROL LinkedIn과 일치하는 대상]**. 클릭 **[!UICONTROL 만들기]**.
 
    ![](assets/image2018-2-23-14-3a25-3a39.png)
 
-1. linkedIn 계정에 연결하려면 **승인**.
+1. linkedIn 계정에 연결하려면 **[!UICONTROL 승인]**.
 
    ![](assets/authorizeaccount.png)
 
@@ -47,11 +47,11 @@ Marketo 계정을 LinkedIn 일치 대상과 연결하여 Marketo 정적 목록 �
 
    ![](assets/image2018-2-23-14-3a32-3a20.png)
 
-1. 요청된 권한을 검토한 다음 **허용**.
+1. 요청된 권한을 검토한 다음 **[!UICONTROL 허용]**.
 
    ![](assets/li-permissions.png)
 
-1. 이제 LinkedIn 계정이 Marketo에 연결되었습니다. Click **Create**.
+1. 이제 LinkedIn 계정이 Marketo에 연결되었습니다. 클릭 **[!UICONTROL 만들기]**.
 
    ![](assets/image2018-2-23-14-3a35-3a55.png)
 
@@ -61,4 +61,4 @@ Marketo 계정을 LinkedIn 일치 대상과 연결하여 Marketo 정적 목록 �
 
 >[!MORELIKETHIS]
 >
->[Marketo 목록 또는 스마트 목록을 LinkedIn 대상 세그먼트로 사용](/help/marketo/product-docs/demand-generation/social/social-functions/use-a-marketo-list-or-smart-list-as-a-linkedin-audience-segment.md)
+>[Marketo 목록 또는 스마트 목록을 LinkedIn 대상 세그먼트로 사용](/help/marketo/product-docs/demand-generation/social/social-functions/use-a-marketo-list-or-smart-list-as-a-linkedin-audience-segment.md){target="_blank"}

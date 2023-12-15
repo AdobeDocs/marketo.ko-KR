@@ -4,7 +4,7 @@ description: Ad 네트워크 통합 이해 - Marketo 문서 - 제품 설명서
 title: Ad 네트워크 통합 이해
 exl-id: c13b5dc2-8fc1-40de-acfb-eede0e1fb099
 feature: Integrations
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: bebf61037f37a06b40b4d9c1df872f1cf62a1403
 workflow-type: tm+mt
 source-wordcount: '249'
 ht-degree: 0%
@@ -25,7 +25,7 @@ ht-degree: 0%
 
    * 구매자 단계, 참여 수준 등을 기준으로 세그먼트화
    * 대상을 확장하여 획득 향상
-   * Target 이메일 구독 및 비응답자(광고 포함)
+   * 광고를 통해 이메일 구독 및 비응답자 타겟팅
    * 이메일 및 디지털 광고 등 다양한 채널을 육성합니다.
 
 * 유료 미디어 시스템에서 Marketo으로 리드 또는 데이터 수집
@@ -36,7 +36,7 @@ ht-degree: 0%
 
    * 예를 들어 어떤 사람이 광고를 검색하고 보고 클릭한 다음 온라인에서 양식을 작성합니다. 이후, 그는 오프라인으로 데모를 받고 CRM 기회가 됩니다. 광고주가 그를 타겟으로 삼은 곳이 바로 그곳이다
 
-* 웹 사이트 방문자 재타겟팅, 사용 [웹 개인화](/help/marketo/product-docs/web-personalization/understanding-web-personalization/web-personalization-overview.md)를 클릭하여 웹 사이트로 다시 안내합니다
+* 웹 사이트 방문자 재타겟팅, 사용 [웹 개인화](/help/marketo/product-docs/web-personalization/understanding-web-personalization/web-personalization-overview.md){target="_blank"}를 클릭하여 웹 사이트로 다시 안내합니다
 
    * 세그먼트 또는 수직을 통한 개인화
 
@@ -44,14 +44,14 @@ ht-degree: 0%
 
 통합을 사용하여 다음을 수행할 수 있습니다.
 
-* [Google AdWords를 LaunchPoint Service로 추가](/help/marketo/product-docs/administration/additional-integrations/add-google-adwords-as-a-launchpoint-service.md)
-* [facebook에서 사용자 지정 대상에 리드 추가](/help/marketo/product-docs/demand-generation/facebook/add-leads-to-a-custom-audience-in-facebook.md)
-* [facebook에서 사용자 지정 대상 만들기](/help/marketo/product-docs/demand-generation/facebook/create-a-custom-audience-in-facebook.md)
-* [facebook 오프라인 전환 설정](/help/marketo/product-docs/demand-generation/facebook/set-up-facebook-offline-conversions.md)
-* [Marketo 목록 또는 스마트 목록을 LinkedIn 대상 세그먼트로 사용](/help/marketo/product-docs/demand-generation/social/social-functions/use-a-marketo-list-or-smart-list-as-a-linkedin-audience-segment.md)
+* [Google AdWords를 LaunchPoint Service로 추가](/help/marketo/product-docs/administration/additional-integrations/add-google-adwords-as-a-launchpoint-service.md){target="_blank"}
+* [facebook에서 사용자 지정 대상에 리드 추가](/help/marketo/product-docs/demand-generation/facebook/add-leads-to-a-custom-audience-in-facebook.md){target="_blank"}
+* [facebook에서 사용자 지정 대상 만들기](/help/marketo/product-docs/demand-generation/facebook/create-a-custom-audience-in-facebook.md){target="_blank"}
+* [facebook 오프라인 전환 설정](/help/marketo/product-docs/demand-generation/facebook/set-up-facebook-offline-conversions.md){target="_blank"}
+* [Marketo 목록 또는 스마트 목록을 LinkedIn 대상 세그먼트로 사용](/help/marketo/product-docs/demand-generation/social/social-functions/use-a-marketo-list-or-smart-list-as-a-linkedin-audience-segment.md){target="_blank"}
 
 |   | 대상 데이터 | 잠재 고객 수집 | 오프라인 전환 |
 |---|---|---|---|
-| ![--](assets/facebook-logo-2-150.jpg) | ![--](assets/checkmark-flat-25.png) | ![--](assets/checkmark-flat-25.png) | ![--](assets/checkmark-flat-25-1.png) |
-| ![--](assets/linkedin-logo-150.jpg) | ![--](assets/checkmark-flat-25.png) | ![--](assets/checkmark-flat-25.png) | ![--](assets/x-mark-3-256-25.png) |
-| ![--](assets/google-logo-150.jpg) | ![--](assets/checkmark-flat-25.png) | ![--](assets/x-mark-3-256-25.png) | ![--](assets/checkmark-flat-25.png) |
+| ![—](assets/facebook-logo-2-150.jpg) | ![—](assets/checkmark-flat-25.png) | ![—](assets/checkmark-flat-25.png) | ![—](assets/checkmark-flat-25-1.png) |
+| ![—](assets/linkedin-logo-150.jpg) | ![—](assets/checkmark-flat-25.png) | ![—](assets/checkmark-flat-25.png) | ![—](assets/x-mark-3-256-25.png) |
+| ![—](assets/google-logo-150.jpg) | ![—](assets/checkmark-flat-25.png) | ![—](assets/x-mark-3-256-25.png) | ![—](assets/checkmark-flat-25.png) |

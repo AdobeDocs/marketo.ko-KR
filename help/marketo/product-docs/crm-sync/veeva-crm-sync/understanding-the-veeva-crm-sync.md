@@ -3,9 +3,9 @@ description: Veeva CRM Sync 이해 - Marketo 문서 - 제품 설명서
 title: Veeva CRM Sync 이해
 exl-id: 99ade106-7f32-40e8-8b9a-2b1d0e769b9c
 feature: Veeva CRM
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: bebf61037f37a06b40b4d9c1df872f1cf62a1403
 workflow-type: tm+mt
-source-wordcount: '248'
+source-wordcount: '249'
 ht-degree: 0%
 
 ---
@@ -24,13 +24,13 @@ Marketo Engage은 하루 종일, 매일 Veeva CRM과 동기화됩니다. 각 동
 
 ![](assets/understanding-the-veeva-sync-1.png)
 
-Veeva와 Marketo Engage 간의 동기화는 개인 계정 개체의 연락처 필드에 대해서만 양방향입니다. 이러한 경우 Veeva 또는 Marketo Engage에서 변경 작업을 수행할 때마다 업데이트가 두 시스템에 반영됩니다. 다른 모든 동기화는 Veeva에서 Marketo Engage 전용입니다. 각 링크에 대한 자세한 내용을 보려면 아래 링크를 클릭하십시오.
+Veeva와 Marketo Engage 간의 동기화는 개인 계정 개체의 연락처 필드에 대해서만 양방향입니다. 이러한 경우 Veeva 또는 Marketo Engage에서 변경할 때마다 업데이트가 두 시스템에 반영됩니다. 다른 모든 동기화는 Veeva에서 Marketo Engage 전용입니다. 각 링크에 대한 자세한 내용을 보려면 아래 링크를 클릭하십시오.
 
 ## Marketo Engage과 Veeva 간의 동기화 기능 {#what-is-synced-between-marketo-engage-and-veeva}
 
 * [개인 계정](/help/marketo/product-docs/crm-sync/veeva-crm-sync/sync-details/person-account-sync-faq.md){target="_blank"}
 * 사용자
-* [호출 및 키 개체 호출](/help/marketo/product-docs/crm-sync/veeva-crm-sync/sync-details/syncing-call-and-call-key-messages.md){target="_blank"}
+* [호출 및 호출 키 개체](/help/marketo/product-docs/crm-sync/veeva-crm-sync/sync-details/syncing-call-and-call-key-messages.md){target="_blank"}
 * [사용자 지정 개체](/help/marketo/product-docs/crm-sync/veeva-crm-sync/sync-details/custom-object-sync.md){target="_blank"}
 
 ## 알아야 할 사항 {#things-to-know}
@@ -39,4 +39,4 @@ Veeva와 Marketo Engage 간의 동기화는 개인 계정 개체의 연락처 �
 
 * Veeva CRM은 force.com을 기반으로 하며 플랫폼과 관련된 풍부한 경험 Marketo Engage이 이 동기화에 상속됩니다.
 
-* Veeva CRM에는 잠재 고객, 연락처, 계정(비즈니스 계정, 영업 기회, 캠페인 및 활동)이 표시됩니다. 하지만 Marketo Engage과 동기화에서는 지원되지 않습니다.
+* Veeva CRM에는 잠재 고객, 연락처, 계정, 비즈니스 계정, 기회, 캠페인 및 활동이 표시됩니다. 하지만 Marketo Engage과 동기화에서는 지원되지 않습니다.
