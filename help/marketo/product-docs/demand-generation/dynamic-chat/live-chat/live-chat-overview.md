@@ -3,9 +3,9 @@ description: 라이브 채팅 개요 - Marketo 문서 - 제품 설명서
 title: 라이브 채팅 개요
 feature: Dynamic Chat
 exl-id: 44e8b249-b534-4cec-a612-daa184acd266
-source-git-commit: 870dd6df82c605fffa6681d68867354084988bcd
+source-git-commit: 82ff48a227f7f05d49d0189cc48df48c34190622
 workflow-type: tm+mt
-source-wordcount: '0'
+source-wordcount: '550'
 ht-degree: 0%
 
 ---
@@ -65,6 +65,44 @@ ht-degree: 0%
   </tr>
  </tbody> 
 </table>
+
+## 라이브 채팅 알림 {#live-chat-notifications}
+
+라이브 채팅에 대한 브라우저 알림을 받으려면 모든 라이브 채팅 에이전트가 메시지가 표시되면 Dynamic Chat에 대한 브라우저 알림을 활성화해야 합니다.
+
+### 알림 활성화 {#enabling-notifications}
+
+라이브 채팅 에이전트가 로그인하면 화면 상단에 &quot;라이브 채팅 알림을 받으려면 브라우저 알림을 활성화하십시오.&quot;라는 배너가 표시됩니다. 클릭 **사용**.
+
+![](assets/live-chat-overview-4.png)
+
+그러면 실시간 채팅 에이전트가 알림을 표시하도록 브라우저에서 메시지를 표시합니다. 클릭 **허용**.
+
+![](assets/live-chat-overview-5.png)
+
+에이전트가 브라우저에서 허용한 후에도 브라우저 알림을 받지 않는 경우 OS 알림 설정에서 브라우저에 대한 알림을 활성화해야 할 수 있습니다.
+
+[Mac 단계](https://support.apple.com/guide/mac-help/change-notifications-settings-mh40583/mac){target="_blank"}
+
+[Windows용 단계](https://support.microsoft.com/en-us/windows/change-notification-settings-in-windows-8942c744-6198-fe56-4639-34320cf9444e){target="_blank"}
+
+### 실시간 채팅이 에이전트에게 라우팅되는 경우 {#when-a-live-chat-is-routed-to-an-agent}
+
+실시간 채팅이 에이전트에게 라우팅되면 화면 맨 위에 수락하라는 파란색 배너가 표시됩니다.
+
+![](assets/live-chat-overview-3.png)
+
+>[!TIP]
+>
+>또한 Dynamic Chat 알림을 설정할 수 있는 옵션도 있습니다. 이 옵션은 브라우저에 로그인하지 않은 경우 알림을 제공합니다.
+>
+>* 에서 브라우저 알림 활성화 [Google 크롬](https://support.google.com/chrome/answer/3220216?hl=en&amp;co=GENIE.Platform%3DDesktop){target="_blank"}
+>* 에서 브라우저 알림 활성화 [Mozilla Firefox](https://support.mozilla.org/en-US/kb/push-notifications-firefox){target="_blank"}
+
+### 참고할 사항 {#things-to-note}
+
+* 상담원은 &quot;채팅 수락&quot; 메시지가 시간 초과되기 전에 45초 동안 응답할 수 있습니다
+* 현재 에이전트당 라이브 채팅 수는 10개로 제한됩니다
 
 >[!MORELIKETHIS]
 >
