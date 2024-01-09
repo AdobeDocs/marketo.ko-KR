@@ -2,11 +2,11 @@
 description: 에이전트 받은 편지함 - Marketo 문서 - 제품 설명서
 title: 에이전트 받은 편지함
 feature: Dynamic Chat
-exl-id: 656f8716-d982-4c02-8311-17add0fcd924
-source-git-commit: 38274b4859ae38c018ee73d4f1715fdf6a78e815
+exl-id: 65f13879-36d2-4a23-a029-271f5aea1229
+source-git-commit: 49a75b6aef25787a68554dff3a847279ef8ba12a
 workflow-type: tm+mt
-source-wordcount: '367'
-ht-degree: 1%
+source-wordcount: '0'
+ht-degree: 0%
 
 ---
 
@@ -32,21 +32,7 @@ ht-degree: 1%
 
 ## 라이브 채팅 알림 {#live-chat-notifications}
 
-실시간 채팅이 에이전트에게 라우팅되면 화면 맨 위에 수락하라는 파란색 배너가 표시됩니다.
-
-![](assets/agent-inbox-3.png)
-
->[!TIP]
->
->또한 Dynamic Chat 알림을 설정할 수 있는 옵션도 있습니다. 이 옵션은 브라우저에 로그인하지 않은 경우 알림을 제공합니다.
->
->* 에서 브라우저 알림 활성화 [Google 크롬](https://support.google.com/chrome/answer/3220216?hl=en&amp;co=GENIE.Platform%3DDesktop){target="_blank"}
->* 에서 브라우저 알림 활성화 [Mozilla Firefox](https://support.mozilla.org/en-US/kb/push-notifications-firefox){target="_blank"}
-
-### 참고할 사항 {#things-to-note}
-
-* 상담원은 &quot;채팅 수락&quot; 메시지가 시간 초과되기 전에 45초 동안 응답할 수 있습니다.
-* 현재 에이전트당 라이브 채팅 수는 10개로 제한됩니다
+에서 알림에 대해 자세히 알아보기 [라이브 채팅 개요](/help/marketo/product-docs/demand-generation/dynamic-chat/live-chat/live-chat-overview.md#live-chat-notifications){target="_blank"}.
 
 ## 대화 {#conversations}
 
