@@ -4,16 +4,16 @@ description: 연결된 문자열(수식) 필드 만들기 및 사용 - Marketo �
 title: 연결된 문자열(공식) 필드 만들기 및 사용
 exl-id: 779fbc56-a913-422a-a778-d86cc3ed7d48
 feature: Field Management
-source-git-commit: 02b2e39580c5eac63de4b4b7fdaf2a835fdd4ba5
+source-git-commit: 9181a599ae715e9ffcfd84d8316dfa1c094329a6
 workflow-type: tm+mt
-source-wordcount: '173'
+source-wordcount: '170'
 ht-degree: 0%
 
 ---
 
 # 연결된 문자열(공식) 필드 만들기 및 사용 {#create-and-use-a-concatenated-string-formula-field}
 
-여러 필드의 값을 결합하거나 Marketo 공식 필드를 사용하여 조건부 값을 작성할 수 있습니다.
+여러 필드의 값을 결합하거나 Marketo Engage 수식 필드를 사용하여 조건부 값을 만들 수 있습니다.
 
 1. 로 이동 **[!UICONTROL 관리자]** 영역입니다.
 
@@ -53,6 +53,6 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->공식 필드는 랜딩 페이지, 이메일 및 스마트 목록 열에서 사용할 수 있습니다(내보내지 않음). 공식 필드가 있는 이메일은 _아님_ 일괄 캠페인을 사용하여 전송됩니다. 을(를) 사용하십시오. [이메일 스크립트 토큰](/help/marketo/product-docs/email-marketing/general/using-tokens/create-an-email-script-token.md) 이 시나리오에서는
+>공식 필드는 랜딩 페이지, 이메일 및 스마트 목록 열에서 사용할 수 있습니다. 공식 필드가 있는 이메일은 _아님_ 일괄 캠페인을 사용하여 전송됩니다. 을(를) 사용하십시오. [이메일 스크립트 토큰](/help/marketo/product-docs/email-marketing/general/using-tokens/create-an-email-script-token.md) 이 시나리오에서는
 
 잘했어요! 이제 성별에 따른 인사말이 무엇인지 아는 똑똑한 분야가 생겼습니다. 이것들로 재미있게 놀고 창의적으로 하세요.
