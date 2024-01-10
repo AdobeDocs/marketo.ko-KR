@@ -1,17 +1,17 @@
 ---
 unique-page-id: 2360245
-description: 관리자 이메일 섹션에서 구독 취소 텍스트 제거 - Marketo 문서 - 제품 설명서
+description: 관리자 이메일 섹션 - Marketo 문서 - 제품 설명서에서 구독 취소 텍스트 제거
 title: 관리자 이메일 섹션에서 구독 취소 텍스트 제거
 exl-id: 2961a9b6-8b35-4227-bf8a-a07b2664a6c4
 feature: Email Setup
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: d635fbd4807890266429d4a257cf7d6588736bb5
 workflow-type: tm+mt
 source-wordcount: '165'
 ht-degree: 0%
 
 ---
 
-# 관리자 이메일 섹션에서 구독 취소 텍스트 제거 {#remove-unsubscribe-text-from-the-admin-email-section}
+# 관리자 > 이메일 섹션에서 구독 취소 텍스트 제거 {#remove-unsubscribe-text-from-the-admin-email-section}
 
 에서 구독 취소 콘텐츠를 완전히 제거해야 하는 유일한 이유 **[!UICONTROL 관리자]** > **[!UICONTROL 이메일]** 영역은 구독 취소 링크를 이메일 템플릿 자체에 빌드하도록 선택하는 경우입니다. 텍스트 상자에 유효성 검사가 있어 콘텐츠 없이 저장할 수 없습니다. 여기에 작은 HTML 댓글을 추가하면 알 수 있습니다. HTML 주석은 HTML으로 이메일을 렌더링하고 주석이 생략되므로 이메일 클라이언트에 표시되지 않습니다. 방법은 다음과 같습니다.
 
