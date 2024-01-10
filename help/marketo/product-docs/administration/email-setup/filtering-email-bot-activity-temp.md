@@ -4,9 +4,9 @@ title: 이메일 보트 활동 필터링
 hide: true
 hidefromtoc: true
 feature: Email Setup
-source-git-commit: d635fbd4807890266429d4a257cf7d6588736bb5
+source-git-commit: 0e0db640e8a54773adc0c643af7aedd9e34e8be0
 workflow-type: tm+mt
-source-wordcount: '511'
+source-wordcount: '536'
 ht-degree: 0%
 
 ---
@@ -44,19 +44,23 @@ ht-degree: 0%
 
    ![](assets/filtering-email-bot-activity-3.png)
 
-1. 다음을 선택합니다. **[!UICONTROL IAB 목록과 일치]**, **[!UICONTROL 근접 패턴과 일치]**&#x200B;또는 둘 다. 선택 [!UICONTROL 로그 보트 활동] _또는_ [!UICONTROL 보트 활동 필터링]. 시간(초) 설정 **활동 간 기간** 길이가 0초에서 3초 사이입니다(기본값은 0).
+1. 선택할 수 있는 두 가지 슬라이더가 있습니다. 하나 또는 둘 다 활성화할 수 있습니다. 을 활성화한 경우 **[!UICONTROL IAB 목록과 일치]**, 선택 [!UICONTROL 로그 보트 활동] _또는_ [!UICONTROL 보트 활동 필터링].
 
    ![](assets/filtering-email-bot-activity-temp-4.png)
+
+1. 을 활성화한 경우 **[!UICONTROL 근접 패턴과 일치]**, 선택 [!UICONTROL 로그 보트 활동] _또는_ [!UICONTROL 보트 활동 필터링]. 에 대한 시간(초)을 설정할 수도 있습니다. **활동 간 기간** (기본값은 0, 최대값은 3)입니다.
+
+   ![](assets/filtering-email-bot-activity-temp-5.png)
 
 >[!NOTE]
 >
 >포함 **활동 간 기간** 0초로 설정하면 정확히 같은 시간에 발생하는 이메일 활동을 식별합니다. 지정된 시간(초) 내에 여러 개의 이메일 활동이 발생하는 경우 봇 활동으로 식별됩니다.
 
->[!NOTE]
+>[!IMPORTANT]
 >
 >* 다음을 선택하는 경우 [!UICONTROL 보트 활동 필터링]에서 false 활동이 삭제되면 이메일이 열리고 클릭수가 줄어드는 것을 볼 수 있습니다.
 
-**선택적 단계**: 이 기능을 비활성화하려면 슬라이더를 선택 취소하면 됩니다. 비활성화하면 데이터가 재설정되지 않습니다.
+**선택적 단계**: 두 기능 중 하나를 비활성화하려면 해당 슬라이더를 선택 취소하면 됩니다. 그렇게 하면 데이터가 재설정되지 않습니다.
 
 >[!TIP]
 >
