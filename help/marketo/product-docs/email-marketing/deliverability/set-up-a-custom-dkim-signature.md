@@ -4,9 +4,9 @@ description: 사용자 지정 DKIM 서명 설정 - Marketo 문서 - 제품 설�
 title: 사용자 지정 DKIM 서명 설정
 exl-id: a7c6429e-14ee-439e-9f47-1b25b98d41e7
 feature: Deliverability
-source-git-commit: 47bc93665a7efa0d64cd4d5f34b868895d407527
+source-git-commit: b72c69b0e96fa3e504242425abd3954f5a49bebd
 workflow-type: tm+mt
-source-wordcount: '345'
+source-wordcount: '426'
 ht-degree: 0%
 
 ---
@@ -41,11 +41,6 @@ ht-degree: 0%
 
    ![](assets/set-up-a-custom-dkim-signature-4.png)
 
-   >[!TIP]
-   >
-   >* 2048의 키 크기를 권장합니다.
-   >* 보낸 사람 주소에서 다른 도메인을 사용하는 경우 Marketo 공유 DKIM 서명을 사용합니다.
-
    <table> 
    <tr>
    <td width="20%"><b>선택기</b></td>
@@ -59,6 +54,17 @@ ht-degree: 0%
    </table>
 
    <p>
+
+   >[!TIP]
+   >
+   >* 2048의 키 크기를 권장합니다.
+   >* 보낸 사람 주소에서 다른 도메인을 사용하는 경우 Marketo 공유 DKIM 서명을 사용합니다.
+
+   >[!IMPORTANT]
+   >
+   >도메인의 DKIM 선택기 또는 DKIM 암호화 크기 를 업데이트해야 하는 경우 기존 레코드를 삭제하고 새로 생성된 레코드를 새 값으로 다시 게시해야 합니다.
+   >
+   >이렇게 하면 새 레코드가 게시되고 시스템에 의해 확인될 때까지 DKIM이 도메인에 서명되지 않습니다. 새로운 DKIM 레코드가 인터넷으로 완전히 전파되기까지 24~48시간이 걸릴 수 있으므로 변경 사항을 계획하십시오.
 
 1. 보내기 **호스트 레코드** 및 **TXT 값** IT에 레코드를 만들도록 요청하고 이 레코드가 from 도메인과 연결된 모든 이름 서버에 전파되는지 확인하십시오. Marketo의 DKIM 확인을 사용하려면 DKIM 키가 DKIM 서명되는 도메인과 연결된 모든 이름 서버에 전파되어야 합니다.
 
