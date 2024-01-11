@@ -4,9 +4,9 @@ title: 온디맨드 웨비나
 hide: true
 hidefromtoc: true
 feature: Interactive Webinars
-source-git-commit: 41298677e9bef49624220dac463388f0cab0ebf6
+source-git-commit: 4dccf70f42153045f630bf646a6a193e27dbf637
 workflow-type: tm+mt
-source-wordcount: '436'
+source-wordcount: '440'
 ht-degree: 0%
 
 ---
@@ -21,7 +21,7 @@ ht-degree: 0%
 
 Marketo은 다음 위젯의 도움을 받아 대시보드 탭의 온디맨드 웨비나에 대한 시계 통계를 제공합니다.
 
-* 온디맨드 요약: 이벤트 후 녹화를 시청하는 방문자 수(no-Shows)에 대한 일별 요약을 제공합니다.
+* 온디맨드 요약: 특정 일에 이벤트 후 녹화를 시청하는 방문자 수(no-Shows)에 대한 요약을 제공합니다
 
 * 온디맨드 통계: 이 위젯은 다음에 대한 정보를 제공합니다.
    * 온디맨드 녹화를 볼 수 있는 일 수 - 마케터가 기록 가용성 기간 30일이 거의 끝날 무렵 이메일 캠페인 실행과 같은 작업을 수행하는 데 도움이 됩니다.

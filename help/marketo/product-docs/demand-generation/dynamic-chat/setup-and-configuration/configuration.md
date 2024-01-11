@@ -3,10 +3,10 @@ description: 구성 - Marketo 문서 - 제품 설명서
 title: 구성
 feature: Dynamic Chat
 exl-id: 01ca6a38-4918-46b0-b0f6-1baffbb0bbaf
-source-git-commit: 99798a8d333be43ec8d7e12571a96184fa11c0f0
+source-git-commit: 4dccf70f42153045f630bf646a6a193e27dbf637
 workflow-type: tm+mt
-source-wordcount: '316'
-ht-degree: 1%
+source-wordcount: '310'
+ht-degree: 0%
 
 ---
 
@@ -14,7 +14,7 @@ ht-degree: 1%
 
 챗봇 대화 상자 창의 모양과 느낌을 맞춤화하는 방법에 대해 알아봅니다.
 
-시작하려면 다음을 클릭하십시오. **구성**.
+시작하려면 다음을 클릭하십시오. **챗봇 설정** 아래에 **구성**.
 
 ![](assets/configuration-1.png)
 
@@ -36,9 +36,9 @@ ht-degree: 1%
 
 ![](assets/configuration-4.png)
 
-### 에이전트 설정 {#agent-settings}
+### 보트 설정 {#agent-settings}
 
-에이전트 설정에서 맨 위에 표시될 레이블을 챗박스(예: &quot;Adobe 보트&quot;)에 추가할 수 있습니다. 응답 지연(초)을 확인하고 채팅 아바타를 변경할 수도 있습니다. 자신의 아바타 이미지를 업로드하려면 **+** 단추를 클릭합니다.
+봇 설정에서 맨 위에 표시되는 챗박스(예: &quot;Adobe 도우미&quot;)에 레이블을 추가할 수 있습니다. 응답 지연(초)을 확인하고 채팅 아바타를 변경할 수도 있습니다. 자신의 아바타 이미지를 업로드하려면 **+** 단추를 클릭합니다.
 
 ![](assets/configuration-5.png)
 
@@ -64,11 +64,7 @@ ht-degree: 1%
 
 >[!TIP]
 >
->사이트에서 컨텐츠 보안 정책을 활용하는 경우 챗봇이 예상대로 작동하려면 다음 URL을 허용 목록에 추가하다해야 할 수 있습니다.
->
->* `*.adoberesources.net`
->* `*.adobe.io`
->* `*.typekit.net`
+>사이트에서 CSP(콘텐츠 보안 정책)를 사용하는 경우 추가할 내용은 코드 아래를 참조하십시오.
 
 >[!NOTE]
 >
