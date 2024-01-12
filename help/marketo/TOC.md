@@ -3,9 +3,9 @@ audience: end-user
 user-guide-title: Marketo 안내서
 user-guide-description: Marketo 제품 설명서
 feature-set: Marketo Engage
-source-git-commit: 41298677e9bef49624220dac463388f0cab0ebf6
+source-git-commit: c3819373fbd49f7ea67f6eb6661d63ad5ba86d57
 workflow-type: tm+mt
-source-wordcount: '9300'
+source-wordcount: '9295'
 ht-degree: 0%
 
 ---
@@ -136,7 +136,6 @@ ht-degree: 0%
          + [통신 제한 활성화](product-docs/administration/email-setup/enable-communication-limits.md)
          + [스마트 캠페인에 대한 개인 제한 활성화](product-docs/administration/email-setup/enable-person-restrictions-for-smart-campaigns.md)
          + [이메일 보트 활동 필터링](product-docs/administration/email-setup/filtering-email-bot-activity.md)
-         + [이메일 보트 활동 임시 필터링](product-docs/administration/email-setup/filtering-email-bot-activity-temp.md)
          + [구독 취소 텍스트 제거](product-docs/administration/email-setup/remove-unsubscribe-text-from-the-admin-email-section.md)
       + 필드 관리 {#field-management}
          + [신뢰할 수 없는 원본에서 목록을 가져오는 동안 필드 업데이트 차단](product-docs/administration/field-management/block-field-updates-during-list-import-from-untrusted-sources.md)

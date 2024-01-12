@@ -3,10 +3,10 @@ description: 에이전트 받은 편지함 - Marketo 문서 - 제품 설명서
 title: 에이전트 받은 편지함
 feature: Dynamic Chat
 exl-id: 65f13879-36d2-4a23-a029-271f5aea1229
-source-git-commit: 49a75b6aef25787a68554dff3a847279ef8ba12a
+source-git-commit: c3819373fbd49f7ea67f6eb6661d63ad5ba86d57
 workflow-type: tm+mt
-source-wordcount: '0'
-ht-degree: 0%
+source-wordcount: '301'
+ht-degree: 1%
 
 ---
 
@@ -50,11 +50,17 @@ ht-degree: 0%
 
 ![](assets/agent-inbox-5.png)
 
+## 세션 종료 {#end-a-session}
+
+에이전트는 다음을 클릭하여 세션을 수동으로 종료할 수 있습니다. **세션 종료** 방문자 정보 옆에 있는 단추입니다.
+
+![](assets/agent-inbox-6.png)
+
 ## 활동 내역 {#activity-history}
 
 방문자 정보 아래는 활동 기록입니다. 활동 유형 및 날짜를 보고 채팅 기록을 봅니다.
 
-![](assets/agent-inbox-6.png)
+![](assets/agent-inbox-7.png)
 
 >[!NOTE]
 >
@@ -66,12 +72,12 @@ ht-degree: 0%
 
 1. 달력 아이콘을 클릭합니다.
 
-   ![](assets/agent-inbox-7.png)
+   ![](assets/agent-inbox-8.png)
 
 1. 원하는 에이전트 달력을 선택하고 **보내기**.
 
-   ![](assets/agent-inbox-8.png)
+   ![](assets/agent-inbox-9.png)
 
 1. 채팅 방문자는 모임을 예약할 수 있습니다.
 
-   ![](assets/agent-inbox-9.png)
+   ![](assets/agent-inbox-10.png)
