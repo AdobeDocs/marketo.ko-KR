@@ -3,9 +3,9 @@ description: 현재 릴리스 정보 - Marketo 설명서 - 제품 설명서
 title: 최신 릴리스 정보
 exl-id: a2eccad5-73ad-48f9-8091-51cee23824e1
 feature: Release Information
-source-git-commit: 5f44192438ace61e234925a756def6ca88004cff
+source-git-commit: fdc13eac0a8f3c57e53ef6352409aab6645ee0f0
 workflow-type: tm+mt
-source-wordcount: '650'
+source-wordcount: '648'
 ht-degree: 2%
 
 ---
@@ -32,7 +32,7 @@ ht-degree: 2%
   </tr>
     <tr> 
    <td><strong>대화형 웨비나를 위한 온디맨드 웨비나</strong>: 온디맨드 웨비나를 사용하면 웨비나 녹화를 게시하고 방문/시계를 추적할 수 있습니다. 이렇게 하면 웨비나(no-show)에 참여하지 않았지만 여전히 자세한 내용을 찾고 녹화를 보는 데 관심이 있는 등록자를 통해 더 많은 잠재 고객을 확보하는 데 도움이 됩니다.</td> 
-   <td>오늘 배송</td>
+   <td>배송됨</td>
    <td><a href="/help/marketo/product-docs/demand-generation/events/interactive-webinars/on-demand-webinars.md" target="_blank">온디맨드 웨비나</a></td>
   </tr>
    <tr> 
@@ -56,7 +56,7 @@ ht-degree: 2%
    </tr>
     <tr> 
    <td><strong>이메일 보트 활동 필터링</strong>: 보트 활동 식별 필터링이 얼마나 적극적인지를 선택할 수 있도록 함으로써 이메일 참여에 대한 보트 활동 캡처 기능을 향상시킵니다.</td> 
-   <td>오늘 배송</td>
+   <td>배송됨</td>
    <td><a href="/help/marketo/product-docs/administration/email-setup/filtering-email-bot-activity.md" target="_blank">이메일 보트 활동 필터링</a></td>
   </tr>
   <tr> 
@@ -125,8 +125,8 @@ ht-degree: 2%
    </tr>
     <tr> 
    <td><strong>챗봇 글꼴 색상 옵션</strong>: 챗봇 구성에서 글꼴 색상을 사용자 정의합니다.</td> 
-   <td>오늘 배송</td>
-   <td><a href="/help/marketo/product-docs/demand-generation/dynamic-chat/setup-and-configuration/configuration.md#style" target="_blank">구성</a></td>
+   <td><i>곧 출시 예정</i></td>
+   <td><i>곧 출시 예정</i></td>
   </tr>
   <tr> 
    <td> </td> 
@@ -147,7 +147,7 @@ ht-degree: 2%
     </tr>
     <tr> 
    <td><strong>수동 라이브 채팅 종료</strong>: 이제 방문자와 에이전트가 라이브 채팅 세션을 수동으로 종료할 수 있습니다.</td> 
-   <td>오늘 배송</td>
+   <td>배송됨</td>
    <td><a href="/help/marketo/product-docs/demand-generation/dynamic-chat/live-chat/agent-inbox.md#end-a-session" target="_blank">에이전트 받은 편지함</a></td>
   </tr>
   <tr> 
