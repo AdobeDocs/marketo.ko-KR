@@ -4,9 +4,9 @@ description: API 전용 사용자 만들기 - Marketo 문서 - 제품 설명서
 title: API 전용 사용자 만들기
 exl-id: 23c92255-07a8-41c2-b7b8-8e495d135671
 feature: Users and Roles
-source-git-commit: 02b2e39580c5eac63de4b4b7fdaf2a835fdd4ba5
+source-git-commit: 6c2f3550f3e95bbfc14730d74bb2fbaa966255db
 workflow-type: tm+mt
-source-wordcount: '167'
+source-wordcount: '185'
 ht-degree: 0%
 
 ---
@@ -14,6 +14,10 @@ ht-degree: 0%
 # API 전용 사용자 만들기 {#create-an-api-only-user}
 
 를 통해 Marketo과 통합하려는 경우 [나머지 API](https://developers.marketo.com/documentation/rest/){target="_blank"}, API 전용 사용자를 만들어야 합니다. 방법은 다음과 같습니다.
+
+>[!NOTE]
+>
+>Adobe ID에 온보딩된 구독에서 API 전용 사용자를 생성하는 경우 다음 단계를 수행하십시오 [은(는) 여기에서 찾을 수 있음](/help/marketo/product-docs/administration/marketo-with-adobe-identity/add-api-only-user-for-adobe-ims-enabled-subscriptions.md){target="_blank"}.
 
 >[!PREREQUISITES]
 >
@@ -59,4 +63,4 @@ ht-degree: 0%
 
 >[!MORELIKETHIS]
 >
->[ReST API와 함께 사용할 사용자 정의 서비스 만들기](/help/marketo/product-docs/administration/additional-integrations/create-a-custom-service-for-use-with-rest-api.md){target="_blank"}
+>[REST API와 함께 사용할 사용자 지정 서비스 만들기](/help/marketo/product-docs/administration/additional-integrations/create-a-custom-service-for-use-with-rest-api.md){target="_blank"}

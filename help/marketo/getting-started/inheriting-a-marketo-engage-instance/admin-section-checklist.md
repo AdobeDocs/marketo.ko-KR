@@ -2,10 +2,10 @@
 description: 상속된 인스턴스 관리 검사 목록 - Marketo 문서 - 제품 설명서
 title: 상속된 인스턴스 관리 검사 목록
 feature: Getting Started
-exl-id: 4840d1a8-306b-4b53-917d-2262ae903a42
-source-git-commit: 38274b4859ae38c018ee73d4f1715fdf6a78e815
+exl-id: 088f3ce9-bf3d-4323-9cde-c39fec06c20e
+source-git-commit: 6c2f3550f3e95bbfc14730d74bb2fbaa966255db
 workflow-type: tm+mt
-source-wordcount: '1592'
+source-wordcount: '1832'
 ht-degree: 1%
 
 ---
@@ -22,7 +22,7 @@ ht-degree: 1%
 
 >[!NOTE]
 >
->에 온보딩된 구독에만 적용됩니다. [Adobe Identity Management 시스템(IMS)](/help/marketo/product-docs/administration/marketo-with-adobe-identity/adobe-identity-management-overview.md){target="_blank"}. If your Marketo Engage subscription has not onboarded Adobe IMS yet, proceed with the [legacy user roles and permissions experience](/help/marketo/product-docs/administration/users-and-roles/managing-user-roles-and-permissions.md){target="_blank"} Marketo Engage > 관리자 > 사용자 및 역할에서 다음을 수행합니다.
+>에 온보딩된 Marketo Engage 구독에만 적용됩니다. [Adobe Identity Management 시스템(IMS)](/help/marketo/product-docs/administration/marketo-with-adobe-identity/adobe-identity-management-overview.md){target="_blank"}. If your subscription has not onboarded Adobe IMS yet, proceed with the [legacy user roles and permissions experience](/help/marketo/product-docs/administration/users-and-roles/managing-user-roles-and-permissions.md){target="_blank"} Marketo Engage > 관리자 > 사용자 및 역할에서 다음을 수행합니다.
 
 <table> 
  <tbody> 
@@ -288,11 +288,31 @@ ht-degree: 1%
    <td>웹 서비스</td> 
    <td><li>다음과 같음 <a href="/help/marketo/product-docs/administration/additional-integrations/create-an-allowlist-for-ip-based-api-access.md" target="_blank">IP 제한 사항</a> 활성화하시겠습니까? 그래야 하나?</li>
 <li>인스턴스에서 API를 호출하는 사용자/앱은 무엇입니까?</li>
-<li>API 제한에 도달하고 있습니까, 거의 도달하고 있습니까? 
+<li>API 제한에 도달하고 있습니까, 거의 도달하고 있습니까?
 <br/>     그런 경우에는 API를 늘리거나 인스턴스를 감사하여 해당 API 호출을 줄여 보십시오.</li></td>
   </tr>
   <tr> 
-   <td>Marketo Sales Insight(해당되는 경우)</td> 
+   <td>Adobe Dynamic Chat(해당되는 경우)</td> 
+<td><li>수락하셨습니까 <a href="/help/marketo/product-docs/demand-generation/dynamic-chat/setup-and-configuration/initial-setup.md" target="_blank">Dynamic Chat 제품 관리자</a> 초대? Marketo Engage 인스턴스에서 Dynamic Chat이 활성화되고 시스템 관리자로 지정되면 이메일이 전송됩니다.
+<br/>     없는 경우 받은 편지함에서 환영 이메일을 찾고 초대를 수락하여 Adobe ID을 설정합니다.</li>   
+<li>을(를) 추가했습니까? <a href="/help/marketo/product-docs/demand-generation/dynamic-chat/setup-and-configuration/add-or-remove-chat-users.md#add-a-chat-user" target="_blank">원하는 사용자</a> Adobe Admin Console의 Dynamic Chat 제품 프로필로 이동하시겠습니까?
+<ul>
+<li>자격 있는 사용자에게 Adobe ID에 추가된 Dynamic Chat 제품 프로필이 있는지 확인하십시오. 제품 프로필에 추가된 경우 Marketo Engage &gt; 관리자 &gt; 사용자 및 역할에서 '액세스 Dynamic Chat' 역할을 할당할 수 없습니다.</li>
+<li>제품 프로필 탭에서 기본 프로필 권한이 조직에 필요한 사항과 일치합니까?<br/> 
+그렇지 않은 경우 특정 프로필에 대한 권한을 편집합니다. </li>
+<li>구독이 두 개 이상인 경우 사용자가 올바른 구독에 추가되고 있습니까?</li>
+</ul>
+</li>
+사용자 및 역할 설정 감사를 마치면 Dynamic Chat에 로그인하여 감사를 계속합니다.  
+<li>'통합' 탭에서 Marketo Engage 및 Dynamic Chat 동기화가 여전히 활성화되어 있습니까?</li>
+<li>사전 정의된 권한이 있는 5개의 기본 프로필을 조직에 적용할 수 있습니까?<br/> 
+     그렇지 않은 경우 다음을 수행할 수 있습니다. <a href="/help/marketo/product-docs/demand-generation/dynamic-chat/setup-and-configuration/permissions.md#edit-existing-permissions" target="_blank">Dynamic Chat에서 편집</a>. 다음을 수행할 수도 있습니다. <a href="/help/marketo/product-docs/demand-generation/dynamic-chat/setup-and-configuration/permissions.md#create-a-profile" target="_blank">사용자 지정 프로필 만들기</a> (사용자 지정 권한 집합 포함)</li>
+<li>사용자에게 Dynamic Chat에 대한 액세스 권한을 제공하려면 관리 &gt; 사용자 및 역할 &gt; 역할에서 적용 가능한 Marketo Engage 역할에 대해 "Dynamic Chat 액세스"를 선택했습니까?
+<br/><img src="assets/note-icon.png" alt="메모 아이콘"> 참고: '관리자' 및 '마케팅 사용자' 역할은 Dynamic Chat에 대한 액세스 권한이 있어야 합니다.</li>
+<li>있음 <a href="/help/marketo/product-docs/demand-generation/dynamic-chat/integrations/adobe-marketo-engage.md" target="_blank">Marketo Engage 인스턴스를 연결했습니다.</a> Dynamic Chat?</li>
+</td>
+  </tr>
+  <td>Marketo Sales Insight(해당되는 경우)</td> 
    <td><li>이(가) <a href="/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/installation/install-marketo-sales-insight-package-in-salesforce-appexchange.md" target="_blank">MSI 패키지 설치됨</a>?</li>
 <li>있음 <a href="/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/upgrading/upgrading-your-msi-package.md" target="_blank">최신 버전의 Sales Insight로 업그레이드</a>?</li>
 <li>Sales Insight 구성을 완료했습니까? <br/>     Enterprise/Unlimited 사용자 <a href="/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/configuration/configure-marketo-sales-insight-in-salesforce-enterprise-unlimited.md" target="_blank">여기를 클릭하십시오</a>, 전문 사용자 <a href="/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/configuration/configure-marketo-sales-insight-in-salesforce-professional-edition.md" target="_blank">여기를 클릭하십시오</a>.</li>
