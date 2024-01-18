@@ -3,9 +3,9 @@ description: 라이브 채팅 개요 - Marketo 문서 - 제품 설명서
 title: 라이브 채팅 개요
 feature: Dynamic Chat
 exl-id: 44e8b249-b534-4cec-a612-daa184acd266
-source-git-commit: 82ff48a227f7f05d49d0189cc48df48c34190622
+source-git-commit: 492a43045bdf77243e4600eeb2223e750a35859b
 workflow-type: tm+mt
-source-wordcount: '550'
+source-wordcount: '618'
 ht-degree: 0%
 
 ---
@@ -13,6 +13,10 @@ ht-degree: 0%
 # 라이브 채팅 개요 {#live-chat-overview}
 
 라이브 채팅을 사용하면 웹 사이트 방문자가 판매 에이전트와 실시간 채팅 대화를 나눌 수 있습니다.
+
+>[!NOTE]
+>
+>대화 흐름 및 라이브 채팅은 Dynamic Chat 선택 패키지에 있는 참여자의 전체 라이프타임 제한이 100개인 공유 체험판 기능입니다. 이 한도에 도달하면 게시된 모든 대화 흐름이 트리거를 중지하고 라이브 에이전트와의 채팅을 요청하는 방문자에게 글로벌 대체 메시지를 수신합니다. 이 제한을 늘리려면 계정 담당자에게 문의하여 패키지 업그레이드 옵션에 대해 논의하십시오.
 
 ## 라이브 채팅 에이전트 추가 {#add-live-chat-agents}
 

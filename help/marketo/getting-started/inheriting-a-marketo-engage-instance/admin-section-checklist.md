@@ -3,9 +3,9 @@ description: 상속된 인스턴스 관리 검사 목록 - Marketo 문서 - 제�
 title: 상속된 인스턴스 관리 검사 목록
 feature: Getting Started
 exl-id: 088f3ce9-bf3d-4323-9cde-c39fec06c20e
-source-git-commit: 6c2f3550f3e95bbfc14730d74bb2fbaa966255db
+source-git-commit: 492a43045bdf77243e4600eeb2223e750a35859b
 workflow-type: tm+mt
-source-wordcount: '1832'
+source-wordcount: '1817'
 ht-degree: 1%
 
 ---
@@ -298,18 +298,17 @@ ht-degree: 1%
 <li>을(를) 추가했습니까? <a href="/help/marketo/product-docs/demand-generation/dynamic-chat/setup-and-configuration/add-or-remove-chat-users.md#add-a-chat-user" target="_blank">원하는 사용자</a> Adobe Admin Console의 Dynamic Chat 제품 프로필로 이동하시겠습니까?
 <ul>
 <li>자격 있는 사용자에게 Adobe ID에 추가된 Dynamic Chat 제품 프로필이 있는지 확인하십시오. 제품 프로필에 추가된 경우 Marketo Engage &gt; 관리자 &gt; 사용자 및 역할에서 '액세스 Dynamic Chat' 역할을 할당할 수 없습니다.</li>
-<li>제품 프로필 탭에서 기본 프로필 권한이 조직에 필요한 사항과 일치합니까?<br/> 
+<li>제품 프로필 탭에서 기본 프로필 권한이 조직의 필요에 맞게 조정됩니까?<br/> 
 그렇지 않은 경우 특정 프로필에 대한 권한을 편집합니다. </li>
 <li>구독이 두 개 이상인 경우 사용자가 올바른 구독에 추가되고 있습니까?</li>
 </ul>
 </li>
 사용자 및 역할 설정 감사를 마치면 Dynamic Chat에 로그인하여 감사를 계속합니다.  
-<li>'통합' 탭에서 Marketo Engage 및 Dynamic Chat 동기화가 여전히 활성화되어 있습니까?</li>
+<li>있음 <a href="/help/marketo/product-docs/demand-generation/dynamic-chat/integrations/adobe-marketo-engage.md" target="_blank">Marketo Engage 인스턴스를 연결했습니다.</a> Dynamic Chat?</li>
 <li>사전 정의된 권한이 있는 5개의 기본 프로필을 조직에 적용할 수 있습니까?<br/> 
      그렇지 않은 경우 다음을 수행할 수 있습니다. <a href="/help/marketo/product-docs/demand-generation/dynamic-chat/setup-and-configuration/permissions.md#edit-existing-permissions" target="_blank">Dynamic Chat에서 편집</a>. 다음을 수행할 수도 있습니다. <a href="/help/marketo/product-docs/demand-generation/dynamic-chat/setup-and-configuration/permissions.md#create-a-profile" target="_blank">사용자 지정 프로필 만들기</a> (사용자 지정 권한 집합 포함)</li>
 <li>사용자에게 Dynamic Chat에 대한 액세스 권한을 제공하려면 관리 &gt; 사용자 및 역할 &gt; 역할에서 적용 가능한 Marketo Engage 역할에 대해 "Dynamic Chat 액세스"를 선택했습니까?
 <br/><img src="assets/note-icon.png" alt="메모 아이콘"> 참고: '관리자' 및 '마케팅 사용자' 역할은 Dynamic Chat에 대한 액세스 권한이 있어야 합니다.</li>
-<li>있음 <a href="/help/marketo/product-docs/demand-generation/dynamic-chat/integrations/adobe-marketo-engage.md" target="_blank">Marketo Engage 인스턴스를 연결했습니다.</a> Dynamic Chat?</li>
 </td>
   </tr>
   <td>Marketo Sales Insight(해당되는 경우)</td> 

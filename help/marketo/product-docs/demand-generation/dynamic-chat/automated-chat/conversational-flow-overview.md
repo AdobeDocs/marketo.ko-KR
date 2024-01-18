@@ -2,10 +2,10 @@
 description: 대화형 흐름 개요 - Marketo 문서 - 제품 설명서
 title: 대화 흐름 개요
 feature: Dynamic Chat
-exl-id: a48f78c8-77d6-4c83-9dbd-c905cd9b6b47
-source-git-commit: 38274b4859ae38c018ee73d4f1715fdf6a78e815
+exl-id: c741886d-d672-471f-8902-208d25898afa
+source-git-commit: 492a43045bdf77243e4600eeb2223e750a35859b
 workflow-type: tm+mt
-source-wordcount: '343'
+source-wordcount: '407'
 ht-degree: 0%
 
 ---
@@ -15,6 +15,10 @@ ht-degree: 0%
 대화형 흐름을 디자인하고 특정 작업(예: 콜 투 액션 버튼 클릭, 페이지 로드 시, 페이지에서 보낸 시간 등)을 기반으로 방문자에게 이를 트리거합니다.
 
 ![](assets/conversational-flow-overview-1.png)
+
+>[!NOTE]
+>
+>대화 흐름 및 라이브 채팅은 Dynamic Chat 선택 패키지에 있는 참여자의 전체 라이프타임 제한이 100개인 공유 체험판 기능입니다. 이 한도에 도달하면 게시된 모든 대화 흐름이 트리거를 중지하고 라이브 에이전트와의 채팅을 요청하는 방문자에게 글로벌 대체 메시지를 수신합니다. 이 제한을 늘리려면 계정 담당자에게 문의하여 패키지 업그레이드 옵션에 대해 논의하십시오.
 
 ## 대화 상자 대 대화 흐름 {#dialogues-vs-conversational-flows}
 
