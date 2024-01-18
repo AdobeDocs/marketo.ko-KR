@@ -4,10 +4,10 @@ description: Microsoft Dynamics용 Marketo 플러그인 릴리스 - Marketo 문�
 title: Microsoft Dynamics용 Marketo 플러그인 릴리스
 exl-id: c9c25e11-bcf7-49bf-920a-4182af27d278
 feature: Microsoft Dynamics
-source-git-commit: 2403ae0f1fdca3b8238f3f59e2a3b94129deb301
+source-git-commit: e99fa6d25bcf3c4a03234ce48dd17dd7c396c430
 workflow-type: tm+mt
-source-wordcount: '419'
-ht-degree: 7%
+source-wordcount: '464'
+ht-degree: 0%
 
 ---
 
@@ -39,11 +39,26 @@ Microsoft Dynamics에 처음 동기화하면 Marketo용 플러그인의 최신 �
    <th colspan="1">버전</th> 
    <th colspan="1">릴리스 날짜</th> 
    <th>참고 사항</th> 
+  </tr>
+  <tr> 
+   <td colspan="1">5.0.2.1</td> 
+   <td colspan="1">10/13/23</td> 
+   <td colspan="1">버그 수정: 사용자 지정 엔티티 동기화와 관련된 버그가 수정되었습니다.</td> 
+  </tr> 
+  <tr> 
+   <td colspan="1">5.0.2.0</td> 
+   <td colspan="1">03/24/23</td> 
+   <td colspan="1">버그 수정: MS Dynamics에서 연락처를 병합하지 못하는 버그를 수정했습니다.</td> 
+  </tr> 
+  <tr> 
+   <td colspan="1">5.0.1.8</td> 
+   <td colspan="1">03/27/23</td> 
+   <td colspan="1">버그 수정: 플러그인이 MS Dynamics의 UI 요소에서 다른 사용자 지정을 덮어쓰지 않도록 합니다.</td> 
   </tr> 
   <tr> 
    <td colspan="1">5.0.1.1</td> 
-   <td colspan="1">02/04/21</td> 
-   <td colspan="1">다중 선택 옵션 집합 필드 동기화 지원(이 기능은 V9.X 이상에서만 사용 가능). .</td> 
+   <td colspan="1">202/04/21</td> 
+   <td colspan="1">다중 선택 옵션 집합 필드 동기화 지원(이 기능은 V9.X 이상에서만 사용 가능).</td> 
   </tr> 
   <tr> 
    <td colspan="1">4.2.0.0</td> 
@@ -68,7 +83,7 @@ Microsoft Dynamics에 처음 동기화하면 Marketo용 플러그인의 최신 �
   <tr> 
    <td colspan="1"><p>4.0.0.21</p></td> 
    <td colspan="1">11/9/16</td> 
-   <td colspan="1">버그 수정: 플러그인이 사용자 지정 개체의 상태 변경을 캡처하는 이벤트를 구독하지 않았습니다. 이 수정 사항은 Dynamics CRM On Premise 2011에만 해당됩니다. </td> 
+   <td colspan="1">버그 수정: 플러그인이 사용자 지정 개체의 상태 변경을 캡처하는 이벤트를 구독하지 않았습니다. 이 수정 사항은 Dynamics CRM On Premise 2011에만 해당됩니다.</td> 
   </tr> 
   <tr> 
    <td colspan="1">4.0.0.20</td> 
@@ -78,7 +93,7 @@ Microsoft Dynamics에 처음 동기화하면 Marketo용 플러그인의 최신 �
   <tr> 
    <td colspan="1">4.0.0.19</td> 
    <td colspan="1">6/28/16</td> 
-   <td colspan="1"><p>버그 수정: 영업 기회를 만들 때 marketo 로그의 customeropportunityrole에 대한 불필요한 업데이트 트랜잭션이 기록되었습니다. </p><p>버그 수정: customeropportunityrole 엔티티를 삭제할 때 추가 삭제 트랜잭션이 기록되었습니다.</p></td> 
+   <td colspan="1">버그 수정: 영업 기회를 만들 때 marketo 로그의 customeropportunityrole에 대한 불필요한 업데이트 트랜잭션이 기록되었습니다.<p>버그 수정: customeropportunityrole 엔티티를 삭제할 때 추가 삭제 트랜잭션이 기록되었습니다.</td> 
   </tr> 
   <tr> 
    <td colspan="1">4.0.0.18</td> 
