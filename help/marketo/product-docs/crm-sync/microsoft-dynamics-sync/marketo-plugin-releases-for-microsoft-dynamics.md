@@ -4,7 +4,7 @@ description: Microsoft Dynamics용 Marketo 플러그인 릴리스 - Marketo 문�
 title: Microsoft Dynamics용 Marketo 플러그인 릴리스
 exl-id: c9c25e11-bcf7-49bf-920a-4182af27d278
 feature: Microsoft Dynamics
-source-git-commit: 492a43045bdf77243e4600eeb2223e750a35859b
+source-git-commit: 44bbd12ec5c5c213a977b9d99f455eefb99bf275
 workflow-type: tm+mt
 source-wordcount: '464'
 ht-degree: 0%
@@ -36,9 +36,9 @@ Microsoft Dynamics에 처음 동기화하면 Marketo용 플러그인의 최신 �
 <table> 
  <tbody> 
   <tr> 
-   <th>버전</th> 
-   <th>릴리스 날짜</th> 
-   <th>참고 사항</th> 
+   <th style="width:15%">버전</th> 
+   <th style="width:20%">릴리스 날짜</th> 
+   <th style="width:65%">참고 사항</th> 
   </tr>
   <tr> 
    <td>5.0.2.1</td> 
