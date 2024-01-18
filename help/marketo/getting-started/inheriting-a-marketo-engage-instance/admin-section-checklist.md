@@ -3,9 +3,9 @@ description: 상속된 인스턴스 관리 검사 목록 - Marketo 문서 - 제�
 title: 상속된 인스턴스 관리 검사 목록
 feature: Getting Started
 exl-id: 088f3ce9-bf3d-4323-9cde-c39fec06c20e
-source-git-commit: 492a43045bdf77243e4600eeb2223e750a35859b
+source-git-commit: 0ca63c52cb255cc41cbb53b2c481e589d08004b3
 workflow-type: tm+mt
-source-wordcount: '1817'
+source-wordcount: '1846'
 ht-degree: 1%
 
 ---
@@ -293,16 +293,16 @@ ht-degree: 1%
   </tr>
   <tr> 
    <td>Adobe Dynamic Chat(해당되는 경우)</td> 
-<td><li>수락하셨습니까 <a href="/help/marketo/product-docs/demand-generation/dynamic-chat/setup-and-configuration/initial-setup.md" target="_blank">Dynamic Chat 제품 관리자</a> 초대? Marketo Engage 인스턴스에서 Dynamic Chat이 활성화되고 시스템 관리자로 지정되면 이메일이 전송됩니다.
+<td>아래 단계를 따르려면 <a href="https://adminconsole.adobe.com/" target="_blank">Adobe Admin Console</a>. 아직 Adobe ID을 설정하지 않았다면, <a href="https://helpx.adobe.com/manage-account/using/create-update-adobe-id.html" target="_blank">여기에서 수행 방법 알아보기</a>.
+<br/>
+<li>수락하셨습니까 <a href="/help/marketo/product-docs/demand-generation/dynamic-chat/setup-and-configuration/initial-setup.md" target="_blank">Dynamic Chat 제품 관리자</a> 초대? Marketo Engage 인스턴스에서 Dynamic Chat이 활성화되고 시스템 관리자로 지정되면 이메일이 전송됩니다.
 <br/>     없는 경우 받은 편지함에서 환영 이메일을 찾고 초대를 수락하여 Adobe ID을 설정합니다.</li>   
 <li>을(를) 추가했습니까? <a href="/help/marketo/product-docs/demand-generation/dynamic-chat/setup-and-configuration/add-or-remove-chat-users.md#add-a-chat-user" target="_blank">원하는 사용자</a> Adobe Admin Console의 Dynamic Chat 제품 프로필로 이동하시겠습니까?
-<ul>
 <li>자격 있는 사용자에게 Adobe ID에 추가된 Dynamic Chat 제품 프로필이 있는지 확인하십시오. 제품 프로필에 추가된 경우 Marketo Engage &gt; 관리자 &gt; 사용자 및 역할에서 '액세스 Dynamic Chat' 역할을 할당할 수 없습니다.</li>
 <li>제품 프로필 탭에서 기본 프로필 권한이 조직의 필요에 맞게 조정됩니까?<br/> 
 그렇지 않은 경우 특정 프로필에 대한 권한을 편집합니다. </li>
 <li>구독이 두 개 이상인 경우 사용자가 올바른 구독에 추가되고 있습니까?</li>
-</ul>
-</li>
+<br>
 사용자 및 역할 설정 감사를 마치면 Dynamic Chat에 로그인하여 감사를 계속합니다.  
 <li>있음 <a href="/help/marketo/product-docs/demand-generation/dynamic-chat/integrations/adobe-marketo-engage.md" target="_blank">Marketo Engage 인스턴스를 연결했습니다.</a> Dynamic Chat?</li>
 <li>사전 정의된 권한이 있는 5개의 기본 프로필을 조직에 적용할 수 있습니까?<br/> 
