@@ -4,9 +4,9 @@ description: Microsoft Dynamics용 Marketo 플러그인 릴리스 - Marketo 문�
 title: Microsoft Dynamics용 Marketo 플러그인 릴리스
 exl-id: c9c25e11-bcf7-49bf-920a-4182af27d278
 feature: Microsoft Dynamics
-source-git-commit: 44bbd12ec5c5c213a977b9d99f455eefb99bf275
+source-git-commit: f1fd9564abe4702c3a124442ee26027d4d22f23d
 workflow-type: tm+mt
-source-wordcount: '464'
+source-wordcount: '474'
 ht-degree: 0%
 
 ---
@@ -42,7 +42,7 @@ Microsoft Dynamics에 처음 동기화하면 Marketo용 플러그인의 최신 �
   </tr>
   <tr> 
    <td>5.0.2.1</td> 
-   <td>10/13/23</td> 
+   <td>1/19/24</td> 
    <td>버그 수정: 사용자 지정 엔티티 동기화와 관련된 버그가 수정되었습니다.</td> 
   </tr> 
   <tr> 
@@ -53,7 +53,9 @@ Microsoft Dynamics에 처음 동기화하면 Marketo용 플러그인의 최신 �
   <tr> 
    <td>5.0.1.8</td> 
    <td>03/27/23</td> 
-   <td>버그 수정: 플러그인이 MS Dynamics의 UI 요소에서 다른 사용자 지정을 덮어쓰지 않도록 합니다.</td> 
+   <td>버그 수정: 플러그인이 MS Dynamics의 UI 요소에서 다른 사용자 지정을 덮어쓰지 않도록 합니다.
+   <p>
+   버그 수정: 5.0.1.1에서 누락된 탐색 타일을 복원했습니다.</td> 
   </tr> 
   <tr> 
    <td>5.0.1.1</td> 
