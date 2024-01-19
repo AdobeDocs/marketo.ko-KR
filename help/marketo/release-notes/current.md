@@ -3,9 +3,9 @@ description: 현재 릴리스 정보 - Marketo 설명서 - 제품 설명서
 title: 최신 릴리스 정보
 exl-id: a2eccad5-73ad-48f9-8091-51cee23824e1
 feature: Release Information
-source-git-commit: fdc13eac0a8f3c57e53ef6352409aab6645ee0f0
+source-git-commit: f49158e8b180641c1202b39b091ef8dd4088074e
 workflow-type: tm+mt
-source-wordcount: '648'
+source-wordcount: '681'
 ht-degree: 2%
 
 ---
@@ -176,6 +176,8 @@ ht-degree: 2%
 <br/>
 
 ## 공지 {#announcements}
+
+* **잠재 고객 API 업데이트 동기화**: Sync Lead API의 비헤이비어가 업데이트에 대해 약간 조정되었습니다. `unsubscribed` 필드. 이제, 지나가면 `null` 값은 다음 값을 전달하는 것과 같습니다. `false`.
 
 * **Forms jQuery 1.x Marketo Engage**: 2024년 1월 릴리스에서는 Forms Marketo Engage에 대한 jQuery를 jQuery 3.x로 업데이트합니다. 이는 이전 버전의 jQuery에 의존하는 사용자 정의 양식 구현에 영향을 줄 수 있습니다. [여기에서 자세히 알아보기](https://nation.marketo.com/t5/product-blogs/marketo-engage-forms-amp-forms2-js-jquery-update/ba-p/341705){target="_blank"}.
 
