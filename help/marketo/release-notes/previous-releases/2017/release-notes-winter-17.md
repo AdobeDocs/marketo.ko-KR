@@ -4,9 +4,9 @@ description: 릴리스 노트 - 17년 겨울 - Marketo 문서 - 제품 설명서
 title: 릴리스 정보 - 2017년 겨울
 exl-id: b76dab24-43be-4d13-b4dc-b199e3e8f9a2
 feature: Release Information
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: d1187418ecc5fa0dc47e17471baf86955667c647
 workflow-type: tm+mt
-source-wordcount: '387'
+source-wordcount: '381'
 ht-degree: 0%
 
 ---
@@ -67,7 +67,7 @@ ht-degree: 0%
 
 **[소스별 Analytics 필터링](/help/marketo/product-docs/predictive-content/working-with-predictive-content/understanding-predictive-content.md)**
 
-특정 소스(이메일, 리치 미디어 또는 권장 사항 표시줄)에 대한 예측 콘텐츠 분석을 필터링합니다.
+이메일, 리치 미디어 또는 권장 사항 표시줄 등 특정 소스에 대한 예측 콘텐츠 분석을 필터링합니다.
 
 ![](assets/predictive-content-analytics-by-source.png)
 
@@ -85,7 +85,7 @@ ht-degree: 0%
 
 이제 개발자는 푸시 토큰을 제거할 수 있는 새로운 SDK API 호출의 추가로 푸시 알림 전달을 추가로 제어할 수 있습니다.
 
-## [SMS LaunchPoint 통합 보기](/help/marketo/product-docs/mobile-marketing/vibes-sms-messages/use-vibes-sms-messages-in-smart-list-triggers-and-filters.md) {#vibes-sms-launchpoint-integration}
+## [SMS LaunchPoint 통합 보기](/help/marketo/product-docs/mobile-marketing/vibes-sms-messages/using-sms-options-in-a-smart-campaign.md) {#vibes-sms-launchpoint-integration}
 
 새로운 필터 옵션 &quot;Vibes 목록 멤버&quot;로 타깃팅을 개선합니다.
 
