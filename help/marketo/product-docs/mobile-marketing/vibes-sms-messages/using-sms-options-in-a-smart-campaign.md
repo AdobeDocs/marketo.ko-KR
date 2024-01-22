@@ -2,7 +2,7 @@
 description: 스마트 캠페인에서 SMS 옵션 사용 - Marketo 문서 - 제품 설명서
 title: 스마트 캠페인에서 SMS 옵션 사용
 feature: Mobile Marketing
-source-git-commit: efaf34e8113fc6364655ff01aa788aa62bdd31af
+source-git-commit: 5e2d1979abcafd8e4a37e55b843be932125c954e
 workflow-type: tm+mt
 source-wordcount: '406'
 ht-degree: 0%
@@ -11,7 +11,7 @@ ht-degree: 0%
 
 # 스마트 캠페인에서 SMS 옵션 사용 {#using-sms-options-in-a-smart-campaign}
 
-이후 [sms 메시지 만들기](/help/marketo/product-docs/mobile-marketing/vibes-sms-messages/create-an-sms-message-2.md){target="_blank"}, 스마트 캠페인 내의 스마트 목록 트리거 및 필터를 사용하여 이점을 얻고자 합니다.
+이후 [sms 메시지 만들기](/help/marketo/product-docs/mobile-marketing/vibes-sms-messages/create-an-sms-message.md){target="_blank"}, 스마트 캠페인 내의 스마트 목록 트리거 및 필터를 사용하여 이점을 얻고자 합니다.
 
 >[!NOTE]
 >

@@ -4,7 +4,7 @@ description: 릴리스 노트 - 2016년 여름 - Marketo 문서 - 제품 설명�
 title: 릴리스 노트 - 2016년 여름
 exl-id: 3843668e-c729-42aa-b05c-55c33ee0d783
 feature: Release Information
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 5e2d1979abcafd8e4a37e55b843be932125c954e
 workflow-type: tm+mt
 source-wordcount: '783'
 ht-degree: 0%
@@ -39,7 +39,7 @@ Marketo 계정 기반 마케팅은 하나의 통합 플랫폼에서 모든 핵�
 
 ![](assets/audit-trail.png)
 
-## [Marketo-Vibes SMS LaunchPoint 통합](/help/marketo/product-docs/mobile-marketing/vibes-sms-messages/create-a-vibes-sms-message.md) {#marketo-vibes-sms-launchpoint-integration}
+## [Marketo-Vibes SMS LaunchPoint 통합](/help/marketo/product-docs/mobile-marketing/vibes-sms-messages/create-an-sms-message.md) {#marketo-vibes-sms-launchpoint-integration}
 
 Marketo 내에서 SMS 메시지를 쉽게 만들 수 있습니다. 풍부한 Marketo 데이터를 사용하여 메시지를 개인화하고 타겟팅하고 SMS 메시지 대시보드를 사용하여 성과를 쉽게 모니터링할 수 있습니다.
 

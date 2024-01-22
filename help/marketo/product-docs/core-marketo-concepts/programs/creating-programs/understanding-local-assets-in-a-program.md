@@ -4,10 +4,10 @@ description: 프로그램의 로컬 자산 이해 - Marketo 문서 - 제품 설�
 title: 프로그램의 로컬 자산 이해
 exl-id: aa577b2b-f77c-41cc-aa47-59ce2d189530
 feature: Programs
-source-git-commit: 86f9e9f13b24a82deb50ec4c398035d7d7479d20
+source-git-commit: 5e2d1979abcafd8e4a37e55b843be932125c954e
 workflow-type: tm+mt
 source-wordcount: '104'
-ht-degree: 5%
+ht-degree: 0%
 
 ---
 
@@ -24,7 +24,7 @@ ht-degree: 5%
 * [스마트 캠페인](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/creating-a-smart-campaign/understanding-batch-and-trigger-smart-campaigns.md){target="_blank"}
 * [목록](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/static-lists/understanding-static-lists.md){target="_blank"}
 * [스마트 목록](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/creating-a-smart-list/create-a-smart-list.md){target="_blank"}
-* [보고](/help/marketo/product-docs/reporting/basic-reporting/report-types/report-type-overview.md){target="_blank"}
+* [보고서](/help/marketo/product-docs/reporting/basic-reporting/report-types/report-type-overview.md){target="_blank"}
 * [이메일 프로그램](/help/marketo/product-docs/email-marketing/email-programs/creating-an-email-program/understanding-email-programs.md){target="_blank"}
 * [이메일](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/create-an-email-for-an-email-program.md){target="_blank"}
 * [푸시 알림](/help/marketo/product-docs/mobile-marketing/push-notifications/understanding-push-notifications.md){target="_blank"}
@@ -33,7 +33,7 @@ ht-degree: 5%
 * [테스트 그룹](/help/marketo/product-docs/demand-generation/landing-pages/understanding-landing-pages/landing-page-test-groups.md){target="_blank"}
 * [소셜 단추](/help/marketo/product-docs/demand-generation/landing-pages/free-form-landing-pages/add-a-social-button-to-a-free-form-landing-page.md){target="_blank"}
 * [Youtube 비디오](/help/marketo/product-docs/demand-generation/social/social-functions/add-a-video.md){target="_blank"}
-* [여론 조사](/help/marketo/product-docs/demand-generation/social/creating-a-poll/create-a-poll.md){target="_blank"}
-* [추천 시 제공 경품](/help/marketo/product-docs/demand-generation/social/referral-offers/create-a-referral-offer.md){target="_blank"}
+* [투표](/help/marketo/product-docs/demand-generation/social/creating-a-poll/create-a-poll.md){target="_blank"}
+* [참조 오퍼](/help/marketo/product-docs/demand-generation/social/referral-offers/create-a-referral-offer.md){target="_blank"}
 * [경품 추첨](/help/marketo/product-docs/demand-generation/social/sweepstakes/create-sweepstakes.md){target="_blank"}
-* [SMS 메시지 보기](/help/marketo/product-docs/mobile-marketing/vibes-sms-messages/create-a-vibes-sms-message.md){target="_blank"}
+* [SMS 메시지 보기](/help/marketo/product-docs/mobile-marketing/vibes-sms-messages/create-an-sms-message.md){target="_blank"}
