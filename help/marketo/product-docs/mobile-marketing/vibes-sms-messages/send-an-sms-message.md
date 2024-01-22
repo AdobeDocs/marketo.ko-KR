@@ -1,19 +1,17 @@
 ---
 description: SMS 메시지 보내기 - Marketo 문서 - 제품 설명서
 title: SMS 메시지 보내기
-hide: true
-hidefromtoc: true
 feature: Mobile Marketing
-source-git-commit: 6731d6fca4b6547f1f709e45f32f766e0e0e30b4
+source-git-commit: efaf34e8113fc6364655ff01aa788aa62bdd31af
 workflow-type: tm+mt
-source-wordcount: '317'
+source-wordcount: '321'
 ht-degree: 0%
 
 ---
 
 # SMS 메시지 보내기 {#send-a-vibes-sms-message}
 
-다음을 수행함: [이(가) 내 SMS 메시지를 만들었습니다.](/help/marketo/product-docs/mobile-marketing/vibes-sms-messages/create-an-sms-message-2.md), 이제 전송할 때입니다. 일괄 처리 또는 트리거 캠페인을 통해 전송할 수 있습니다.
+다음을 수행함: [이(가) 내 SMS 메시지를 만들었습니다.](/help/marketo/product-docs/mobile-marketing/vibes-sms-messages/create-an-sms-message.md){target="_blank"}, 이제 전송할 때입니다. 일괄 처리 또는 트리거 캠페인을 통해 전송할 수 있습니다.
 
 >[!NOTE]
 >
@@ -77,6 +75,5 @@ ht-degree: 0%
 
 >[!MORELIKETHIS]
 >
->* [비디오 메시지 만들기](/help/marketo/product-docs/mobile-marketing/vibes-sms-messages/create-a-vibes-sms-message.md)
->* Vibes 흐름 단계
-
+>* [비디오 메시지 만들기](/help/marketo/product-docs/mobile-marketing/vibes-sms-messages/create-a-vibes-sms-message.md){target="_blank"}
+>* [스마트 캠페인에서 SMS 옵션 사용](/help/marketo/product-docs/mobile-marketing/vibes-sms-messages/using-sms-options-in-a-smart-campaign.md){target="_blank"}

@@ -1,19 +1,17 @@
 ---
-description: 문서 - Marketo 문서 - 제품 설명서
-title: 문서
-hide: true
-hidefromtoc: true
+description: SMS 용어집 - Marketo 문서 - 제품 설명서
+title: SMS 용어집
 feature: Mobile Marketing
-source-git-commit: ce43fe1848bb333caa2f73fde4c6ce8403b3e1e8
+source-git-commit: efaf34e8113fc6364655ff01aa788aa62bdd31af
 workflow-type: tm+mt
-source-wordcount: '731'
+source-wordcount: '734'
 ht-degree: 0%
 
 ---
 
 # SMS 용어집 {#sms-glossary}
 
-다음은 Marketo Engage 시 Vibes SMS 메시지를 사용할 때 접하게 되는 일반적인 용어입니다.
+다음은 Marketo Engage 시 Vibes SMS 메시지를 사용할 때 접하게 되는 몇 가지 일반적인 용어입니다.
 
 <table>
 <thead>

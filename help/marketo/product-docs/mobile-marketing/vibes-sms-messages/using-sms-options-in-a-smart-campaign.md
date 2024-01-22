@@ -1,10 +1,8 @@
 ---
 description: 스마트 캠페인에서 SMS 옵션 사용 - Marketo 문서 - 제품 설명서
 title: 스마트 캠페인에서 SMS 옵션 사용
-hide: true
-hidefromtoc: true
 feature: Mobile Marketing
-source-git-commit: 5c6e014224b33310c847c08784a70a08796d971a
+source-git-commit: efaf34e8113fc6364655ff01aa788aa62bdd31af
 workflow-type: tm+mt
 source-wordcount: '406'
 ht-degree: 0%
@@ -17,11 +15,11 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->SMS 메시지를 보내려는 경우 [특정 문서](/help/marketo/product-docs/mobile-marketing/vibes-sms-messages/send-an-sms-message.md) 그러게요.
+>SMS 메시지를 보내려는 경우 [특정 문서](/help/marketo/product-docs/mobile-marketing/vibes-sms-messages/send-an-sms-message.md){target="_blank"} 그러게요.
 
 >[!PREREQUISITES]
 >
->SMS 트리거/필터는 [Vibes 서비스가 활성화되었습니다.](/help/marketo/product-docs/mobile-marketing/admin/add-vibes-as-a-launchpoint-service.md).
+>SMS 트리거/필터는 [Vibes 서비스가 활성화되었습니다.](/help/marketo/product-docs/mobile-marketing/admin/add-vibes-as-a-launchpoint-service.md){target="_blank"}.
 
 ## SMS 트리거 {#sms-triggers}
 
@@ -87,6 +85,6 @@ ht-degree: 0%
 
 >[!MORELIKETHIS]
 >
->* [SMS 메시지 보내기](/help/marketo/product-docs/mobile-marketing/vibes-sms-messages/send-an-sms-message.md)
->* [스마트 캠페인을 위한 스마트 목록 정의 | 트리거](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/creating-a-smart-campaign/define-smart-list-for-smart-campaign-trigger.md)
->* [스마트 캠페인을 위한 스마트 목록 정의 | 일괄 처리](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/creating-a-smart-campaign/define-smart-list-for-smart-campaign-batch.md)
+>* [SMS 메시지 보내기](/help/marketo/product-docs/mobile-marketing/vibes-sms-messages/send-an-sms-message.md){target="_blank"}
+>* [스마트 캠페인을 위한 스마트 목록 정의 | 트리거](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/creating-a-smart-campaign/define-smart-list-for-smart-campaign-trigger.md){target="_blank"}
+>* [스마트 캠페인을 위한 스마트 목록 정의 | 일괄 처리](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/creating-a-smart-campaign/define-smart-list-for-smart-campaign-batch.md){target="_blank"}
