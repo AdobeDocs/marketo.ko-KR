@@ -3,9 +3,9 @@ description: 현재 릴리스 정보 - Marketo 설명서 - 제품 설명서
 title: 최신 릴리스 정보
 exl-id: a2eccad5-73ad-48f9-8091-51cee23824e1
 feature: Release Information
-source-git-commit: 06cfbcb6eb8b9f0370f5bc29e0787dedac7267bf
+source-git-commit: 13720f1a79ddfb7e26b09c2f9a24b5206401280a
 workflow-type: tm+mt
-source-wordcount: '683'
+source-wordcount: '690'
 ht-degree: 2%
 
 ---
@@ -176,6 +176,8 @@ ht-degree: 2%
 <br/>
 
 ## 공지 {#announcements}
+
+* [2024년 1월 Marketo Engage 릴리스 웨비나](https://engage.marketo.com/2024_January_Release_Webinar_OnDemandPage.html){target="_blank"}
 
 * **잠재 고객 API 업데이트 동기화**: [잠재 고객 API 동기화](https://developers.marketo.com/rest-api/lead-database/leads/#create_and_update){target="_blank"}의 비헤이비어가 의 업데이트와 관련하여 약간 조정되었습니다. `unsubscribed` 필드. 이제, 지나가면 `null` 값은 다음 값을 전달하는 것과 같습니다. `false`.
 
