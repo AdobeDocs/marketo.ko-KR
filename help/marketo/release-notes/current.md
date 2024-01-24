@@ -3,7 +3,7 @@ description: 현재 릴리스 정보 - Marketo 설명서 - 제품 설명서
 title: 최신 릴리스 정보
 exl-id: a2eccad5-73ad-48f9-8091-51cee23824e1
 feature: Release Information
-source-git-commit: 8921f2e7608dd1ec1240d39cfeae845f79ae5db2
+source-git-commit: af5e6b567c074507e20a8b8d312f3abaa5ab60b0
 workflow-type: tm+mt
 source-wordcount: '691'
 ht-degree: 2%
@@ -183,4 +183,4 @@ ht-degree: 2%
 
 * **SSO 전용 사용자에 대한 이메일 인증**: SSO만 자동으로 확인되어 액세스할 수 없는 이메일 계정을 사용할 수 있습니다. 1월 중순부터 모든 기존 SSO 전용 사용자는 확인되지 않으며 이메일 계정에 보내는 링크를 통해 이메일을 다시 확인하라는 메시지가 표시됩니다. 모든 새 SSO는 앞으로 사용자만 이메일 주소를 확인해야 합니다.
 
-* 시청 [2024년 1월 Marketo Engage 릴리스 웨비나](https://engage.marketo.com/2024_January_Release_Webinar_OnDemandPage.html){target="_blank"}
+* 시청 [2024년 1월 Marketo Engage 릴리스 웨비나](https://engage.marketo.com/2024_January_Release_Webinar_OnDemandPage.html){target="_blank"}.

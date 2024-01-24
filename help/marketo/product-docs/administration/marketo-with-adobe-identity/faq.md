@@ -3,7 +3,7 @@ description: Identity Management FAQ Adobe - Marketo 문서 - 제품 설명서
 title: IDENTITY MANAGEMENT FAQ ADOBE
 feature: Marketo with Adobe Identity
 exl-id: 2401def7-1696-4d77-a8a3-96c490517121
-source-git-commit: ab1ea483998d6cb37277b18adf2c1d3371bb40e6
+source-git-commit: af5e6b567c074507e20a8b8d312f3abaa5ab60b0
 workflow-type: tm+mt
 source-wordcount: '1202'
 ht-degree: 0%
@@ -74,7 +74,7 @@ Adobe ID에 온보딩되는 사용자는 제품의 구독 전환기를 통해 IM
 
 예. Adobe IMS와 Marketo 통합은 범용 ID 사용자 및 SSO를 지원합니다. SSO는 이제 Adobe IMS에 의해 구동되며 Adobe Admin Console의 조직 수준에서 설정됩니다. [여기에서 자세히 알아보기](https://helpx.adobe.com/enterprise/using/set-up-identity.html){target="_blank"}.
 
-* **이미 Adobe ID에 온보딩했고 이제 SSO를 구현하려고 합니다. 어떻게 해야 합니까?**
+**이미 Adobe ID에 온보딩했고 이제 SSO를 구현하려고 합니다. 어떻게 해야 합니까?**
 
 SSO를 Adobe 조직에서 구현하지 않고 구독이 Adobe ID에 온보딩되었으므로 단일 사인온을 구현하려면 다음에 대한 티켓을 제출하십시오. [Marketo 지원](https://nation.marketo.com/){target="_blank"} 그리고 항목을 &quot;Admin Console 시 Marketo, SSO 구현&quot;으로 지정합니다.
 
