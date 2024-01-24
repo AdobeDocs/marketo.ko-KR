@@ -4,9 +4,9 @@ description: 포털에 SSO(Single Sign-On) 추가 - Marketo 문서 - 제품 설�
 title: 포털에 SSO(Single Sign-On) 추가
 exl-id: 72f96239-7252-4cbc-bbe1-84ac7ae7f92e
 feature: Administration
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: ab1ea483998d6cb37277b18adf2c1d3371bb40e6
 workflow-type: tm+mt
-source-wordcount: '524'
+source-wordcount: '546'
 ht-degree: 0%
 
 ---
@@ -22,6 +22,10 @@ SSO가 활성화되면 IdP는 사용자의 자격 증명을 확인할 수 있습
 >[!NOTE]
 >
 >**관리자 권한 필요**
+
+>[!IMPORTANT]
+>
+>Adobe ID에 온보딩된 구독에는 적용되지 않습니다. Adobe ID에 온보딩된 구독의 경우 단일 사인온이 Adobe Admin Console의 Adobe 조직 수준에서 설정됩니다. [여기에서 자세히 알아보기](https://helpx.adobe.com/enterprise/using/set-up-identity.html){target="_blank"}.
 
 >[!NOTE]
 >
@@ -83,7 +87,7 @@ SSO는 기본적으로 비활성화되어 있습니다. 다음 단계에 따라 
 
    ![](assets/add-single-sign-on-to-a-portal-6.png)
 
-1. 클릭 **[!UICONTROL 저장]**.
+1. **[!UICONTROL 저장]**&#x200B;을 클릭합니다.
 
    ![](assets/add-single-sign-on-to-a-portal-7.png)
 
@@ -101,7 +105,7 @@ SSO는 기본적으로 비활성화되어 있습니다. 다음 단계에 따라 
 
    ![](assets/add-single-sign-on-to-a-portal-9.png)
 
-1. 다음을 입력하십시오. **[!UICONTROL 오류 URL]**. Marketo 로그인에 실패할 경우 사용자에게 표시하려는 URL입니다. 클릭 **[!UICONTROL 저장]**.
+1. 다음을 입력하십시오. **[!UICONTROL 오류 URL]**. Marketo 로그인에 실패할 경우 사용자에게 표시하려는 URL입니다. **[!UICONTROL 저장]**&#x200B;을 클릭합니다.
 
    ![](assets/add-single-sign-on-to-a-portal-10.png)
 

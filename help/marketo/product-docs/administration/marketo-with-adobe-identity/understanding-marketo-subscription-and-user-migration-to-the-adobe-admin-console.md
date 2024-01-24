@@ -3,9 +3,9 @@ description: Marketo 구독 및 Adobe Admin Console으로의 사용자 마이그
 title: Marketo 구독 및 Adobe Admin Console으로의 사용자 마이그레이션 이해
 exl-id: 91e7b56b-2563-4986-a55c-f9760ea88b05
 feature: Marketo with Adobe Identity
-source-git-commit: 094a11f9544e0dba75167de229d78e8ff50cf6e8
+source-git-commit: ab1ea483998d6cb37277b18adf2c1d3371bb40e6
 workflow-type: tm+mt
-source-wordcount: '1189'
+source-wordcount: '1289'
 ht-degree: 0%
 
 ---
@@ -42,7 +42,11 @@ Adobe은 먼저 Marketo Engage 구독을 Adobe Admin Console으로 마이그레�
 
 * Adobe Admin Console에서 다른 Adobe 제품을 이미 관리하는 경우, Adobe은 사용자를 기존 콘솔로 자동으로 마이그레이션하는 데 동의할 것을 요청할 수 있습니다. 이메일의 &quot;시작하기&quot; 버튼을 클릭하여 동의 페이지로 이동합니다.
 
-현재 사용자 관리에 대한 변경 사항은 없습니다. Marketo 관리자는 Marketo 관리 영역에서 사용자를 계속 관리하며, 사용자는 사용자 마이그레이션이 완료될 때까지 Marketo ID로 계속 로그인합니다.
+현재 사용자 관리에 대한 변경 사항은 없습니다. Marketo 제품이 Admin Console에 표시되지만 Marketo 관리자는 Marketo 관리 영역에서 사용자를 계속 관리하며 사용자 마이그레이션이 완료될 때까지 사용자는 Marketo ID로 계속 로그인합니다. 이 기간 동안 Marketo 제품은 사용자 마이그레이션이 시작될 때까지 Admin Console에서 관리할 수 없습니다. 여기에는 구독과 연결된 Dynamic Chat 인스턴스가 포함됩니다.
+
+>[!NOTE]
+>
+>현재 SSO를 사용하고 있지 않지만 구현을 고려 중인 경우 사용자 마이그레이션이 발생하기 전에 이를 수행하는 것이 좋습니다. SSO를 Adobe 조직에서 구현하지 않고 구독이 Adobe ID에 온보딩되었으므로 단일 사인온을 구현하려면 다음에 대한 티켓을 제출하십시오. [Marketo 지원](https://nation.marketo.com/){target="_blank"} 그리고 항목을 &quot;Admin Console 시 Marketo, SSO 구현&quot;으로 지정합니다.
 
 ### 사용자 마이그레이션 예약 {#schedule-user-migration}
 

@@ -4,9 +4,9 @@ description: API 전용 사용자 만들기 - Marketo 문서 - 제품 설명서
 title: API 전용 사용자 만들기
 exl-id: 23c92255-07a8-41c2-b7b8-8e495d135671
 feature: Users and Roles
-source-git-commit: 6c2f3550f3e95bbfc14730d74bb2fbaa966255db
+source-git-commit: ab1ea483998d6cb37277b18adf2c1d3371bb40e6
 workflow-type: tm+mt
-source-wordcount: '185'
+source-wordcount: '188'
 ht-degree: 0%
 
 ---
@@ -15,9 +15,9 @@ ht-degree: 0%
 
 를 통해 Marketo과 통합하려는 경우 [나머지 API](https://developers.marketo.com/documentation/rest/){target="_blank"}, API 전용 사용자를 만들어야 합니다. 방법은 다음과 같습니다.
 
->[!NOTE]
+>[!IMPORTANT]
 >
->Adobe ID에 온보딩된 구독에서 API 전용 사용자를 생성하는 경우 다음 단계를 수행하십시오 [은(는) 여기에서 찾을 수 있음](/help/marketo/product-docs/administration/marketo-with-adobe-identity/add-api-only-user-for-adobe-ims-enabled-subscriptions.md){target="_blank"}.
+>Adobe ID에 온보딩된 구독에서 API 전용 사용자를 생성하는 경우 단계가 다르고 [은(는) 여기에서 찾을 수 있음](/help/marketo/product-docs/administration/marketo-with-adobe-identity/add-api-only-user-for-adobe-ims-enabled-subscriptions.md){target="_blank"}.
 
 >[!PREREQUISITES]
 >
