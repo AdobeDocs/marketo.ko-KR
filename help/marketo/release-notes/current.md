@@ -3,9 +3,9 @@ description: 현재 릴리스 정보 - Marketo 설명서 - 제품 설명서
 title: 최신 릴리스 정보
 exl-id: a2eccad5-73ad-48f9-8091-51cee23824e1
 feature: Release Information
-source-git-commit: 13720f1a79ddfb7e26b09c2f9a24b5206401280a
+source-git-commit: 8921f2e7608dd1ec1240d39cfeae845f79ae5db2
 workflow-type: tm+mt
-source-wordcount: '690'
+source-wordcount: '691'
 ht-degree: 2%
 
 ---
@@ -68,7 +68,7 @@ ht-degree: 2%
    </tr>
     <tr> 
    <td><strong>잠재 고객 가져오기 API 업데이트 일괄</strong>: 다음의 경우 벌크 리드 가져오기 API의 비헤이비어가 약간 조정되었습니다. <b>id</b> 은(는) (으)로 지정됩니다. <b>lookupField</b> 작업 생성 중. 개인이 제공된 와 연결된 경우 <b>id</b> 이(가) Marketo Engage 데이터베이스에 없습니다. 레코드를 찾을 수 없으므로 레코드가 업데이트되지 않습니다. 이제 업데이트된 비헤이비어에 의 카운트 증분이 포함됩니다. <b>numOfRowsFailed</b> 응답 내의 속성으로, 이러한 경우 작업이 실패했음을 나타냅니다.</td> 
-   <td><i>곧 출시 예정</i></td>
+   <td>배송됨</td>
    <td>해당 사항 없음</td>
   </tr>
  </tbody> 
@@ -177,10 +177,10 @@ ht-degree: 2%
 
 ## 공지 {#announcements}
 
-* [2024년 1월 Marketo Engage 릴리스 웨비나](https://engage.marketo.com/2024_January_Release_Webinar_OnDemandPage.html){target="_blank"}
-
 * **잠재 고객 API 업데이트 동기화**: [잠재 고객 API 동기화](https://developers.marketo.com/rest-api/lead-database/leads/#create_and_update){target="_blank"}의 비헤이비어가 의 업데이트와 관련하여 약간 조정되었습니다. `unsubscribed` 필드. 이제, 지나가면 `null` 값은 다음 값을 전달하는 것과 같습니다. `false`.
 
 * **Forms jQuery 1.x Marketo Engage**: 2024년 1월 릴리스에서는 Forms Marketo Engage에 대한 jQuery를 jQuery 3.x로 업데이트합니다. 이는 이전 버전의 jQuery에 의존하는 사용자 정의 양식 구현에 영향을 줄 수 있습니다. [여기에서 자세히 알아보기](https://nation.marketo.com/t5/product-blogs/marketo-engage-forms-amp-forms2-js-jquery-update/ba-p/341705){target="_blank"}.
 
 * **SSO 전용 사용자에 대한 이메일 인증**: SSO만 자동으로 확인되어 액세스할 수 없는 이메일 계정을 사용할 수 있습니다. 1월 중순부터 모든 기존 SSO 전용 사용자는 확인되지 않으며 이메일 계정에 보내는 링크를 통해 이메일을 다시 확인하라는 메시지가 표시됩니다. 모든 새 SSO는 앞으로 사용자만 이메일 주소를 확인해야 합니다.
+
+* 시청 [2024년 1월 Marketo Engage 릴리스 웨비나](https://engage.marketo.com/2024_January_Release_Webinar_OnDemandPage.html){target="_blank"}
