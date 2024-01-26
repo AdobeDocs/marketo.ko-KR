@@ -3,10 +3,10 @@ description: 스트림 디자이너 - Marketo 문서 - 제품 설명서
 title: 스트림 디자이너
 feature: Dynamic Chat
 exl-id: 310b1dff-dd93-48a6-85c2-64c58494ce48
-source-git-commit: 40daf5e09aaf66502b1e7e8754b9a374ff0a9fa9
+source-git-commit: b1101617ec670d42aed8c35044b656ba5fa0f9f5
 workflow-type: tm+mt
-source-wordcount: '1107'
-ht-degree: 2%
+source-wordcount: '1108'
+ht-degree: 1%
 
 ---
 
@@ -24,36 +24,36 @@ ht-degree: 2%
 
 <table>
  <tr>
-  <td><strong>메시지</strong></td>
+  <td style="width:25%"><strong>메시지</strong></td>
   <td>응답이 필요하지 않은 명령문을 만들고자 할 때 사용합니다(예: "안녕하세요! 모든 품목은 오늘 25% 할인 코드 SAVE25").
 </td>
  </tr>
  <tr>
-  <td><strong>질문</strong></td>
+  <td style="width:25%"><strong>질문</strong></td>
   <td>사용 가능한 응답(예: 어떤 유형의 차량에 관심이 있습니까?)을 제공하는 객관식 질문을 하려는 경우 사용합니다. 응답 = SUV, 소형, 트럭 등).</td>
  </tr>
  <tr>
-  <td><strong>문서</strong></td>
+  <td style="width:25%"><strong>문서</strong></td>
   <td>대화 상자에 PDF 문서를 포함하고 방문자의 문서 참여 활동(문서를 다운로드한 경우 본 페이지 수 및/또는 사용된 검색어)을 추적할 수 있습니다.</td>
  </tr>
  <tr>
-  <td><strong>정보 캡처</strong></td>
+  <td style="width:25%"><strong>정보 캡처</strong></td>
   <td>정보(예: 이름, 이메일 주소, 직함 등)를 수집하려는 경우 사용합니다. 응답을 지정할 필드를 선택한 후 방문자가 해당 응답에 입력할 수 있도록 하거나 사용자가 결정한 선택 목록에서 옵션을 선택할 수 있습니다(팁: 후자가 데이터베이스 청결도에 도움이 될 수 있음). 현재 나열된 모든 데이터를 해당 응답과 함께 덮어쓰거나 이미 값이 있는 경우 질문을 완전히 건너뛰도록 선택할 수도 있습니다.</td>
  </tr>
  <tr>
-  <td><strong>모임 예약</strong></td>
+  <td style="width:25%"><strong>모임 예약</strong></td>
   <td>방문자에게 회의 일정을 잡을 수 있는 날짜 일정을 제공합니다. 라운드 로빈, 특정 에이전트를 통해 또는 사용자 지정 규칙을 사용하여 일정 가용성을 선택합니다. 클릭 <b>속성 추가</b> 에이전트의 이름 또는 이메일 주소를 캡처하고 나중에 쿼리하기 위해 채팅 방문자의 개인 레코드에 할당하려는 경우(팁: <a href="/help/marketo/product-docs/administration/field-management/create-a-custom-field-in-marketo.md" target="_blank">사용자 정의 필드</a> 표준 Marketo Engage 필드를 덮어쓰지 않도록 에이전트의 정보를 로 매핑).</td>
  </tr>
  <tr>
-  <td><strong>목표</strong></td>
+  <td style="width:25%"><strong>목표</strong></td>
   <td>방문자가 볼 수 없는 유일한 카드입니다. 특정 채팅 내에서 어느 시점에 목표가 달성되었는지 확인하는 것입니다(예: 방문자의 이메일을 수집하는 것이 본인의 목표인 경우 스트림에서 정보 캡처 바로 뒤에 목표 카드를 놓으십시오).</td>
  </tr>
  <tr>
-  <td><strong>액션</strong></td>
+  <td style="width:25%"><strong>액션</strong></td>
   <td>양식의 숨겨진 필드와 유사하며 작업 카드로 잠재 고객 또는 회사 속성(이 있는 경우 <a href="/help/marketo/product-docs/administration/field-management/custom-field-type-glossary.md#string">문자열 데이터 형식</a>잠재 고객 레코드와 비교하여 캡처할 암시적 값이 있는 대화의 어느 시점에서든 작업 카드를 추가하고 각 속성을 값 또는 해당 값을 자동으로 채우는 기본 토큰으로 업데이트할 수 있습니다.</td>
  </tr>
  <tr>
-  <td><strong>라이브 채팅</strong></td>
+  <td style="width:25%"><strong>라이브 채팅</strong></td>
   <td>방문자가 라이브 에이전트와 채팅하도록 하려면 라이브 채팅 카드를 사용하십시오.
   <li>라이브 채팅 카드가 분기의 마지막 카드여야 합니다.</li>
   <li>방문자는 스트림의 이 카드에 도달하면 에이전트로 라우팅됩니다. 따라서 방문자에게 라이브 에이전트와 채팅할 것인지 묻는 질문 카드와 함께 이 카드 앞에 서는 것이 좋습니다.</li></td>
@@ -66,23 +66,23 @@ ht-degree: 2%
 
 <table>
  <tr>
-  <td><img src="assets/stream-designer-1.png"></td>
+  <td style="width:10%"><img src="assets/stream-designer-1.png"></td>
   <td>확대하기, 더 큰 카드 만들기</td>
  </tr>
  <tr>
-  <td><img src="assets/stream-designer-2.png"></td>
+  <td style="width:10%"><img src="assets/stream-designer-2.png"></td>
   <td>축소하여 더 작은 카드 만들기</td>
  </tr>
  <tr>
-  <td><img src="assets/stream-designer-3.png"></td>
+  <td style="width:10%"><img src="assets/stream-designer-3.png"></td>
   <td>채팅을 테스트할 수 있는 창을 엽니다(닫으려면 동일한 버튼 누름).</td>
  </tr>
  <tr>
-  <td><img src="assets/stream-designer-4.png"></td>
+  <td style="width:10%"><img src="assets/stream-designer-4.png"></td>
   <td>스트림 내에서 카드 유형 또는 콘텐츠를 검색할 수 있습니다.</td>
  </tr>
  <tr>
-  <td><img src="assets/stream-designer-5.png"></td>
+  <td style="width:10%"><img src="assets/stream-designer-5.png"></td>
   <td>스트림에 있는 모든 카드 정렬</td>
  </tr>
 </table>
@@ -161,19 +161,19 @@ ht-degree: 2%
 
    <table>
     <tr>
-     <td><strong>유형</strong></td>
+     <td style="width:30%"><strong>유형</strong></td>
      <td>캡처할 정보 유형(전화, 텍스트, 이메일)입니다.</td>
     </tr>
     <tr>
-     <td><strong>챗봇 메시지</strong></td>
+     <td style="width:30%"><strong>챗봇 메시지</strong></td>
      <td>방문자에게 정보를 입력하라는 메시지가 표시됩니다.</td>
     </tr>
     <tr>
-     <td><strong>플레이스홀더</strong></td>
+     <td style="width:30%"><strong>플레이스홀더</strong></td>
      <td>방문자가 입력할 내용을 확인하는 데 도움이 되는 샘플 텍스트입니다.</td>
     </tr>
     <tr>
-     <td><strong>속성에 대한 응답 매핑</strong></td>
+     <td style="width:30%"><strong>속성에 대한 응답 매핑</strong></td>
      <td>Marketo 구독에서 방문자의 응답을 개인 레코드의 해당 필드에 동기화할 수 있습니다.</td>
     </tr>
    </table>
@@ -210,4 +210,4 @@ ht-degree: 2%
 >
 >* [대화 상자 만들기](/help/marketo/product-docs/demand-generation/dynamic-chat/automated-chat/create-a-dialogue.md){target="_blank"}
 >* [대상 기준](/help/marketo/product-docs/demand-generation/dynamic-chat/automated-chat/audience-criteria.md){target="_blank"}
->* [Adobe PDF 임베드 API](/help/marketo/product-docs/demand-generation/dynamic-chat/integrations/adobe-pdf-embed-api.md){target="_blank"}
+>* [Adobe PDF 포함 API](/help/marketo/product-docs/demand-generation/dynamic-chat/integrations/adobe-pdf-embed-api.md){target="_blank"}

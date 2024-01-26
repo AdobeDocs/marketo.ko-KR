@@ -2,11 +2,11 @@
 description: Analytics - Marketo 문서 - 제품 설명서
 title: Analytics
 feature: Dynamic Chat
-exl-id: 8a698f2f-fa1b-4d0f-835c-8d65101c36fb
-source-git-commit: 38274b4859ae38c018ee73d4f1715fdf6a78e815
+exl-id: 8130a970-4cf1-4bf6-9403-998460269843
+source-git-commit: b1101617ec670d42aed8c35044b656ba5fa0f9f5
 workflow-type: tm+mt
-source-wordcount: '168'
-ht-degree: 1%
+source-wordcount: '218'
+ht-degree: 2%
 
 ---
 
@@ -47,3 +47,21 @@ ht-degree: 1%
 대화 상자, 대화 흐름 또는 모두 보기 사전 설정 또는 사용자 지정 날짜 범위를 선택합니다. 버튼을 클릭하여 결과를 내보냅니다.
 
 ![](assets/analytics-7.png)
+
+## 정의 {#definitions}
+
+<table>
+<thead>
+<tbody>
+  <tr>
+    <td><b>완료</b></td>
+    <td>완료된 이벤트는 방문자가 대화의 마지막 프롬프트에 도달할 때 발생합니다 <i>또는</i> 방문자가 대화의 모든 콘텐츠를 소진하는 경우.
+    <br>방문자당, 세션당 하나의 완료된 이벤트.</td>
+  </tr>
+  <tr>
+    <td><b>획득된 사용자</b></td>
+    <td>방문자가 이메일 주소를 제출하면 발생합니다.
+    <br>방문자당, 세션당 하나의 획득입니다.</td>
+  </tr>
+</tbody>
+</table>
