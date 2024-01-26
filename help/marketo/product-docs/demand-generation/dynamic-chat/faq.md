@@ -3,7 +3,7 @@ description: Dynamic Chat FAQ - Marketo 문서 - 제품 설명서
 title: DYNAMIC CHAT FAQ
 feature: Dynamic Chat
 exl-id: 7b31afc3-77f4-46fb-9f0e-8cb9d60f3ffb
-source-git-commit: b1101617ec670d42aed8c35044b656ba5fa0f9f5
+source-git-commit: 79b439a9bb3d3cd130eb5a7b52cea13988e7b88e
 workflow-type: tm+mt
 source-wordcount: '837'
 ht-degree: 0%
@@ -89,9 +89,10 @@ Dynamic Chat은 Marketo Engage Salesforce 통합을 통해 Salesforce와 통합�
 **&#39;참여&#39;나 &#39;후천성&#39;과 같은 용어는 정확히 무엇을 의미합니까?**
 
 Dynamic Chat에는 여러 용어가 사용됩니다. 그 중 많은 부분에 대한 정의는 해당 영역의 도움말 문서에서 찾을 수 있다.
-* &quot;획득한 사용자&quot;와 같은 Analytics 용어 [은(는) 여기에서 찾을 수 있음](/help/marketo/product-docs/demand-generation/dynamic-chat/analytics.md#definitions).
-* 스마트 목록 트리거/필터 정의 [은(는) 여기에서 찾을 수 있음](/help/marketo/product-docs/demand-generation/dynamic-chat/dynamic-chat-activities.md#definitions).
-* 다양한 스트림 디자이너 카드에 대한 설명 [은(는) 여기에서 찾을 수 있음](/help/marketo/product-docs/demand-generation/dynamic-chat/automated-chat/stream-designer.md#stream-designer-cards).
+
+* &quot;획득한 사용자&quot;와 같은 Analytics 용어 [은(는) 여기에서 찾을 수 있음](/help/marketo/product-docs/demand-generation/dynamic-chat/analytics.md#definitions){target="_blank"}.
+* 스마트 목록 트리거/필터 정의 [은(는) 여기에서 찾을 수 있음](/help/marketo/product-docs/demand-generation/dynamic-chat/dynamic-chat-activities.md#definitions){target="_blank"}.
+* 다양한 스트림 디자이너 카드에 대한 설명 [은(는) 여기에서 찾을 수 있음](/help/marketo/product-docs/demand-generation/dynamic-chat/automated-chat/stream-designer.md#stream-designer-cards){target="_blank"}.
 
 **Marketo Engage 없이 Dynamic Chat을 사용할 수 있습니까?**
 
