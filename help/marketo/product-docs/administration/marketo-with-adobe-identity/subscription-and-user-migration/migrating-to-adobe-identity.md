@@ -5,7 +5,7 @@ hide: true
 hidefromtoc: true
 feature: Marketo with Adobe Identity
 exl-id: a7969204-0ec9-45aa-a206-eff2df8adcd0
-source-git-commit: 9e77e49507fb14a6eee555850540cf12ae2dab8c
+source-git-commit: b5e10b2820c3091a648510e131e16c03ffe9c564
 workflow-type: tm+mt
 source-wordcount: '2249'
 ht-degree: 0%
@@ -75,7 +75,7 @@ Marketo 셀프 서비스 사용자 마이그레이션 콘솔 도구는 두 개�
 * **사용자 마이그레이션 및 활성화**: 구독 내 사용자의 사용자 마이그레이션 및 활성화(Marketo Engage 제품에 대한 마이그레이션 및 자격 부여) 상태.
 * **마이그레이션 확인**: 구독의 마이그레이션 완료 상태.
 
-**사용자 전자 메일 확인**
+#### 사용자 전자 메일 확인 {#user-email-verification}
 
 관리자는 사용자 이메일 확인 섹션에서 Adobe ID로 마이그레이션하기 전에 구독의 사용자에 대한 이메일 확인 현재 상태를 찾을 수 있습니다.
 
@@ -87,13 +87,13 @@ Marketo 셀프 서비스 사용자 마이그레이션 콘솔 도구는 두 개�
 >
 >Marketo Engage 사용자가 이메일 주소를 확인하지 않는 경우, Adobe ID으로 마이그레이션할 수 없으며 마이그레이션이 완료된 후 Marketo 구독에 액세스할 수 없습니다. 액세스 권한을 다시 얻으려면 Marketo 제품 관리자가 새 사용자로 추가해야 합니다.
 
-**사용자 마이그레이션 및 활성화**
+#### 사용자 마이그레이션 및 활성화 {#user-migration-and-activation}
 
 사용자 마이그레이션 및 활성화 섹션에서 관리자는 Adobe Identity Management 시스템에 대한 총 사용자 마이그레이션 및 권한 부여의 현재 상태를 찾을 수 있습니다.
 
 관리자는 구독에서 Adobe ID으로 마이그레이션되거나 건너뛴 것으로 표시된 사용자의 비율을 볼 수 있습니다. 구독의 Adobe ID에 대한 모든 사용자의 마이그레이션 상태에 따라 상태가 보고되거나, 건너뛰기로 표시되고 마이그레이션되지 않습니다. 사용자가 마이그레이션되고 Marketo Engage 권한이 부여되거나 건너뛸 때 이 상태가 업데이트됩니다.
 
-**마이그레이션 확인**
+#### 마이그레이션 확인 {#migration-confirmation}
 
 마이그레이션 확인 섹션에서 관리자는 구독에 대한 사용자 마이그레이션이 완료되었는지 확인해야 합니다.
 
