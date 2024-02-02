@@ -4,9 +4,9 @@ title: 대화형 웨비나에 대한 우수 사례
 hide: true
 hidefromtoc: true
 feature: Interactive Webinars
-source-git-commit: d65eb1814cbc5fa15b49a0ccd14a9016301d8bcb
+source-git-commit: c5d5fd490fe2800dc7a34d02c73d728e115646a0
 workflow-type: tm+mt
-source-wordcount: '1648'
+source-wordcount: '1650'
 ht-degree: 0%
 
 ---
@@ -74,7 +74,7 @@ ht-degree: 0%
 
 * 사용자 지정 팟은 Adobe Connect 룸의 기능을 확장하는 데 사용할 수 있는 서드파티 앱입니다. 사용자 지정 Pod는에서 다운로드할 수 있습니다. `apps.adobeconnect.com` 공유 pod에서 공유할 수 있는 .pod 또는 .zip 파일로.
    * 일부 인기 있는 사용자 정의 포드 카운트 다운 타이머, 시계, 바위 종이 가위, 워드 클라우드, 타이틀러입니다.
-   * 사용자 지정 포드 사용 방법에 대한 간단한 비디오를 보려면 여기를 클릭하십시오 .
+   * [여기를 클릭하십시오.](https://www.youtube.com/watch?v=1w5nqJqEHQw){target="_blank"} 사용자 지정 pod 사용 방법에 대한 짧은 비디오를 시청하십시오.
 
 **개인 정보: 참가자 정보를 기밀로 유지하려면 아래 설정을 확인하십시오.**
 

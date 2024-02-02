@@ -3,9 +3,9 @@ description: Marketo 구독 및 Adobe Admin Console으로의 사용자 마이그
 title: Marketo 구독 및 Adobe Admin Console으로의 사용자 마이그레이션 이해
 exl-id: 91e7b56b-2563-4986-a55c-f9760ea88b05
 feature: Marketo with Adobe Identity
-source-git-commit: ab1ea483998d6cb37277b18adf2c1d3371bb40e6
+source-git-commit: c5d5fd490fe2800dc7a34d02c73d728e115646a0
 workflow-type: tm+mt
-source-wordcount: '1289'
+source-wordcount: '1301'
 ht-degree: 0%
 
 ---
@@ -98,7 +98,7 @@ Marketo 제품 관리자는 모든 사용자가 마이그레이션할 날을 준
 
 Adobe이 마이그레이션되면 사용자는 Marketo에 로그인하는 방식으로 변경되었음을 알리는 이메일을 사용자로부터 받게 됩니다. 기존 Adobe ID으로 로그인하거나 동일한 이메일 주소를 사용하여 새 Adobe ID을 설정하여 Adobe ID를 사용하여 로그인하라는 초대를 처음으로 수락하도록 사용자를 초대합니다.
 
-자세한 내용은에서 찾을 수 있습니다. [Adobe으로 로그인](/help/marketo/product-docs/administration/marketo-with-adobe-identity/user-sign-in-with-adobe-id.md){target="_blank"} and [Adobe Identity Management FAQ](/help/marketo/product-docs/administration/marketo-with-adobe-identity/faq.md){target="_blank"}.
+자세한 내용은에서 찾을 수 있습니다. [Adobe ID로 마이그레이션](/help/marketo/product-docs/administration/marketo-with-adobe-identity/subscription-and-user-migration/migrating-to-adobe-identity.md){target="_blank"}, [User Sign-in with Adobe](/help/marketo/product-docs/administration/marketo-with-adobe-identity/user-sign-in-with-adobe-id.md){target="_blank"}, and [Adobe Identity Management FAQ](/help/marketo/product-docs/administration/marketo-with-adobe-identity/faq.md){target="_blank"}.
 
 ## 사용자 마이그레이션 완료 {#user-migration-complete}
 
@@ -107,3 +107,9 @@ Adobe이 마이그레이션되면 사용자는 Marketo에 로그인하는 방식
 ## 지원 받기 {#get-support}
 
 구독 또는 사용자 마이그레이션에 대한 추가 지원이 필요하면 이메일을 보내주십시오. `marketocares@marketo.com`.
+
+>[!MORELIKETHIS]
+>
+>* [Adobe ID로 마이그레이션](/help/marketo/product-docs/administration/marketo-with-adobe-identity/subscription-and-user-migration/migrating-to-adobe-identity.md){target="_blank"}
+>* [Adobe으로 로그인](/help/marketo/product-docs/administration/marketo-with-adobe-identity/user-sign-in-with-adobe-id.md){target="_blank"}
+>* [IDENTITY MANAGEMENT FAQ ADOBE](/help/marketo/product-docs/administration/marketo-with-adobe-identity/faq.md){target="_blank"}
