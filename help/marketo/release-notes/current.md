@@ -3,9 +3,9 @@ description: 현재 릴리스 정보 - Marketo 설명서 - 제품 설명서
 title: 최신 릴리스 정보
 exl-id: a2eccad5-73ad-48f9-8091-51cee23824e1
 feature: Release Information
-source-git-commit: af5e6b567c074507e20a8b8d312f3abaa5ab60b0
+source-git-commit: 60da79f1d2a9baffddc407e448b7b5da3cf52526
 workflow-type: tm+mt
-source-wordcount: '691'
+source-wordcount: '718'
 ht-degree: 2%
 
 ---
@@ -176,6 +176,8 @@ ht-degree: 2%
 <br/>
 
 ## 공지 {#announcements}
+
+* **원클릭 목록 구독 취소 업데이트**: Gmail 및 Yahoo는 2024년 2월 1일부터 적용되는 새로운 발신자 요구 사항을 구현했습니다. 학습 [그것들이 무엇이며 여러분에게 어떤 영향을 미치는지](https://nation.marketo.com/t5/employee-blogs/update-support-for-one-click-list-unsubscribe-for-marketo/ba-p/344514#M352){target="_blank"}.
 
 * **잠재 고객 API 업데이트 동기화**: [잠재 고객 API 동기화](https://developers.marketo.com/rest-api/lead-database/leads/#create_and_update){target="_blank"}의 비헤이비어가 의 업데이트와 관련하여 약간 조정되었습니다. `unsubscribed` 필드. 이제, 지나가면 `null` 값은 다음 값을 전달하는 것과 같습니다. `false`.
 
