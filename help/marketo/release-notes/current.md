@@ -3,9 +3,9 @@ description: 현재 릴리스 정보 - Marketo 설명서 - 제품 설명서
 title: 최신 릴리스 정보
 exl-id: a2eccad5-73ad-48f9-8091-51cee23824e1
 feature: Release Information
-source-git-commit: 60da79f1d2a9baffddc407e448b7b5da3cf52526
+source-git-commit: 33c67217b57c4dced059488edec9f78d0759e72b
 workflow-type: tm+mt
-source-wordcount: '718'
+source-wordcount: '780'
 ht-degree: 2%
 
 ---
@@ -28,7 +28,6 @@ ht-degree: 2%
    <th style="width:65%">기능</th> 
    <th style="width:10%">상태</th>
    <th style="width:25%">설명서</th>
-  </tr> 
   </tr>
     <tr> 
    <td><strong>대화형 웨비나를 위한 온디맨드 웨비나</strong>: 온디맨드 웨비나를 사용하면 웨비나 녹화를 게시하고 방문/시계를 추적할 수 있습니다. 이렇게 하면 웨비나(no-show)에 참여하지 않았지만 여전히 자세한 내용을 찾고 녹화를 보는 데 관심이 있는 등록자를 통해 더 많은 잠재 고객을 확보하는 데 도움이 됩니다.</td> 
@@ -40,8 +39,6 @@ ht-degree: 2%
    <td> </td>
    <td> </td>
   </tr>
-  </tr>
-  </tr>
     <tr> 
    <td><strong>대화형 랜딩 페이지</strong>: 방문자가 양식을 작성하거나 챗봇과 상호 작용할 필요 없이 Dynamic Chat을 통해 회의를 예약할 수 있도록 Dynamic Chat 대화 흐름을 Marketo Engage 랜딩 페이지에 직접 임베드합니다.</td> 
    <td><i>곧 출시 예정</i></td>
@@ -52,8 +49,6 @@ ht-degree: 2%
    <td> </td>
    <td> </td>
   </tr>
-  </tr>
-   </tr>
     <tr> 
    <td><strong>이메일 보트 활동 필터링</strong>: 보트 활동 식별 필터링이 얼마나 적극적인지를 선택할 수 있도록 함으로써 이메일 참여에 대한 보트 활동 캡처 기능을 향상시킵니다.</td> 
    <td>배송됨</td>
@@ -63,11 +58,29 @@ ht-degree: 2%
    <td> </td> 
    <td> </td>
    <td> </td>
-  </tr>
-  </tr>
    </tr>
     <tr> 
    <td><strong>잠재 고객 가져오기 API 업데이트 일괄</strong>: 다음의 경우 벌크 리드 가져오기 API의 비헤이비어가 약간 조정되었습니다. <b>id</b> 은(는) (으)로 지정됩니다. <b>lookupField</b> 작업 생성 중. 개인이 제공된 와 연결된 경우 <b>id</b> 이(가) Marketo Engage 데이터베이스에 없습니다. 레코드를 찾을 수 없으므로 레코드가 업데이트되지 않습니다. 이제 업데이트된 비헤이비어에 의 카운트 증분이 포함됩니다. <b>numOfRowsFailed</b> 응답 내의 속성으로, 이러한 경우 작업이 실패했음을 나타냅니다.</td> 
+   <td>배송됨</td>
+   <td>해당 사항 없음</td>
+  </tr>
+  <tr> 
+   <td> </td> 
+   <td> </td>
+   <td> </td>
+   </tr>
+  <tr> 
+   <td><strong>대화형 웨비나를 위한 공동 호스트</strong>: 대화형 웨비나의 웨비나 팀 섹션에 있는 공동 호스트를 사용하면 이벤트 작성자가 대화형 웨비나 프로그램에 내부 또는 외부 사용자를 추가하여 관리 및 게재 권한을 공유할 수 있습니다.</td> 
+   <td>배송됨</td>
+   <td><a href="/help/marketo/product-docs/demand-generation/events/interactive-webinars/create-an-interactive-webinar.md#adding-a-webinar-team" target="_blank">웨비나 팀 추가</a></td>
+  </tr>
+  <tr>
+   <td> </td> 
+   <td> </td>
+   <td> </td>
+  </tr>
+    <tr> 
+   <td><strong>대화형 웨비나에서 사용자 제거</strong>: 이제 Marketo Engage 관리자는 대화형 웨비나에서 특정 사용자를 제거할 수 있습니다.</td> 
    <td>배송됨</td>
    <td>해당 사항 없음</td>
   </tr>

@@ -1,10 +1,8 @@
 ---
 description: 대화형 웨비나에 대한 우수 사례 - Marketo 문서 - 제품 설명서
 title: 대화형 웨비나에 대한 우수 사례
-hide: true
-hidefromtoc: true
 feature: Interactive Webinars
-source-git-commit: c5d5fd490fe2800dc7a34d02c73d728e115646a0
+source-git-commit: 33c67217b57c4dced059488edec9f78d0759e72b
 workflow-type: tm+mt
 source-wordcount: '1650'
 ht-degree: 0%
