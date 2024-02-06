@@ -4,9 +4,9 @@ description: IP를 기반으로 Marketo 로그인 제한 - Marketo 문서 - 제�
 title: IP를 기반으로 Marketo 로그인 제한
 exl-id: 5d9d0b88-b4bc-4e1b-b70c-2c2e7b4269f5
 feature: Administration
-source-git-commit: 02b2e39580c5eac63de4b4b7fdaf2a835fdd4ba5
+source-git-commit: b4bd06d3e5ee205744478e0f5556f490f9f5abe4
 workflow-type: tm+mt
-source-wordcount: '183'
+source-wordcount: '196'
 ht-degree: 0%
 
 ---
@@ -19,9 +19,9 @@ ht-degree: 0%
 >
 >**관리자 권한 필요**
 
->[!NOTE]
+>[!IMPORTANT]
 >
->이 문서의 정보는 login.marketo.com의 직접 로그인에 대해서만 적용됩니다. 지금은 SSO(Single Sign-On) 로그인에 IP 제한을 적용할 수 없습니다.
+>이 문서의 정보는 login.marketo.com에 직접 로그인하는 사용자를 위한 것으로 Adobe ID을 통해 인증하는 사용자에게는 적용되지 않습니다. 지금은 SSO(Single Sign-On) 로그인에 IP 제한을 적용할 수 없습니다.
 
 1. 로 이동 **[!UICONTROL 관리자]** 영역입니다.
 
