@@ -3,7 +3,7 @@ audience: end-user
 user-guide-title: Marketo 안내서
 user-guide-description: Marketo 제품 설명서
 feature-set: Marketo Engage
-source-git-commit: 94afeacfdecf71e6985daccc31dd67e3d19953ac
+source-git-commit: 10fe526c672867b93b54e99e492e59c0541c3f36
 workflow-type: tm+mt
 source-wordcount: '9272'
 ht-degree: 0%
@@ -1127,7 +1127,7 @@ ht-degree: 0%
       + [글로벌 검색 사용](product-docs/marketo-engage-modern-ux/using-the-global-search.md)
       + [전환 스위치](product-docs/marketo-engage-modern-ux/toggle-switch.md)
    + Marketo 알림 {#marketo-notifications}
-      + [알림: Websocket 연결](product-docs/marketo-notifications/notification-websocket-connection.md)
+      + [알림: Websocket 연결](product-docs/marketo-notifications/websocket-connection.md)
    + Marketo Sales Connect {#marketo-sales-connect}
       + 시작 {#getting-started}
          + [Sales Connect 개요](product-docs/marketo-sales-connect/getting-started/sales-connect-overview.md)
