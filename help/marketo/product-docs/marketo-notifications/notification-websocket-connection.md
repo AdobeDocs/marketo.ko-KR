@@ -1,0 +1,26 @@
+---
+description: 알림 - Websocket 연결 - Marketo 문서 - 제품 설명서
+title: 알림 - Websocket 연결
+hide: true
+hidefromtoc: true
+feature: Getting Started
+source-git-commit: 94afeacfdecf71e6985daccc31dd67e3d19953ac
+workflow-type: tm+mt
+source-wordcount: '114'
+ht-degree: 0%
+
+---
+
+# 알림: Websocket 연결 {#notification-websocket-connection}
+
+이 문서는 Marketo 인스턴스에서 다음 알림을 받은 Marketo Engage 사용자를 위한 것입니다. `"We were unable to establish a websocket connection to <some-server.adobe.net>. We are ending support of the servers you are connected to now on March 3, 2024. Please work with your IT team to allowlist required Marketo Engage and Adobe domains and ports to prevent access disruptions."`
+
+허용 목록에 추가하다 제한적 방화벽 또는 프록시 서버 설정을 사용하는 경우, 사용자 또는 네트워크 관리자가 Adobe Marketo Engage이 예상대로 작동하도록 특정 도메인 및 IP 주소 범위를 설정해야 할 수 있습니다.
+
+Marketo 지원이 아래 프로토콜 구현을 지원하도록 설정되지 않았습니다. 지원이 필요한 경우 이 문서를 귀하의 IT 팀과 공유하십시오. 허용 목록에 추가하다를 사용하여 웹 액세스를 제한하는 경우 모든 Marketo 리소스 및 웹 소켓을 허용하도록 다음 도메인(별표 포함)을 추가하도록 요청합니다.
+
+* `*.marketo.com`
+* `*.marketodesigner.com`
+* `*.mktoweb.com`
+* `*.experience.adobe.com`
+* `*.adobe.net`
