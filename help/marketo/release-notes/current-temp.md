@@ -4,9 +4,9 @@ title: 최신 릴리스 정보
 hide: true
 hidefromtoc: true
 feature: Release Information
-source-git-commit: a5b711284ffb3c5e41bca5135cd28da4c65f6d80
+source-git-commit: 35c73cf04563cc2cd7b3124ed2ba0bc00b720993
 workflow-type: tm+mt
-source-wordcount: '295'
+source-wordcount: '296'
 ht-degree: 3%
 
 ---
@@ -41,7 +41,7 @@ ht-degree: 3%
    <td> </td>
   </tr>
     <tr> 
-   <td><strong>API 활동 메타데이터</strong>: 이제 사용자 에이전트, 플랫폼, 브라우저 및 장치와 같은 메타데이터가에 포함됩니다. <i>모두</i> Marketo REST API를 통해 브라우저 기반 활동에 대한 일관된 통찰력을 제공하는 브라우저 기반 활동.</td> 
+   <td><strong>API 활동 메타데이터</strong>: 사용자 에이전트, 플랫폼 및 장치와 같은 메타데이터가 이제 웹 및 이메일 활동에 포함되어 Marketo REST API를 통해 이러한 활동에 대한 일관된 통찰력을 제공하는 데 도움이 됩니다.</td> 
    <td><i>곧 출시 예정</i></td>
    <td><i>곧 출시 예정</i></td>
   </tr>
