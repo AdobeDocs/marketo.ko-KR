@@ -4,9 +4,9 @@ title: 최신 릴리스 정보
 hide: true
 hidefromtoc: true
 feature: Release Information
-source-git-commit: 35c73cf04563cc2cd7b3124ed2ba0bc00b720993
+source-git-commit: 83cd2466d7be84d3f1dceb7fae17ca0cb53d7408
 workflow-type: tm+mt
-source-wordcount: '296'
+source-wordcount: '260'
 ht-degree: 3%
 
 ---
@@ -30,6 +30,27 @@ ht-degree: 3%
    <th style="width:10%">상태</th>
    <th style="width:25%">설명서</th>
   </tr>
+  <tr> 
+   <td><strong>고급 대화 흐름 논리</strong>: 대화 흐름 후속 작업을 위해 단일 선택 사항에 평가를 위한 추가 필드를 추가합니다.</td> 
+   <td><i>곧 출시 예정</i></td>
+   <td><i>곧 출시 예정</i></td>
+  </tr>
+   <tr> 
+   <td> </td> 
+   <td> </td>
+   <td> </td>
+  </tr>
+   </tr>
+    <tr> 
+   <td><strong>대화형 흐름 논리 재정렬</strong>: 이제 Forms Marketo Engage에서 을 삭제하고 다시 추가하는 대신 대화 흐름 선택 사항을 재정렬할 수 있습니다.</td> 
+   <td><i>곧 출시 예정</i></td>
+   <td><i>곧 출시 예정</i></td>
+   </tr>
+  <tr> 
+   <td> </td> 
+   <td> </td>
+   <td> </td>
+  </tr>
     <tr> 
    <td><strong>대화형 웨비나의 사용자 지정 템플릿</strong>: 이제 대화형 웨비나에서 룸 레이아웃에 대한 사용자 지정 템플릿을 만들 수 있습니다.</td> 
    <td><i>곧 출시 예정</i></td>
@@ -49,42 +70,6 @@ ht-degree: 3%
 </table>
 <br/>
 
-## 애자일 릴리스 기능 {#agile-release-features}
-
-아래의 모든 기능은 애자일 형식을 따르며, 표준 릴리스 날짜 이전 또는 이후의 다양한 날짜에 릴리스됩니다. 각 기능 옆에 있는 상태를 확인하십시오.
-
-### Dynamic Chat {#dynamic-chat}
-
-<table style="border: 0px">
- <tbody> 
-  <tr> 
-   <th style="width:65%">기능</th> 
-   <th style="width:15%">상태</th>
-   <th style="width:20%">설명서</th>
-  </tr> 
-  </tr>
-    <tr> 
-   <td><strong>고급 대화 흐름 논리</strong>: 대화 흐름 후속 작업을 위해 단일 선택 사항에 평가를 위한 추가 필드를 추가합니다.</td> 
-   <td><i>곧 출시 예정</i></td>
-   <td><i>곧 출시 예정</i></td>
-  </tr>
-   <tr> 
-   <td> </td> 
-   <td> </td>
-   <td> </td>
-  </tr>
-   </tr>
-    <tr> 
-   <td><strong>대화형 흐름 논리 재정렬</strong>: 이제 을(를) 삭제하고 읽는 대신 대화형 흐름에 대한 조건부 논리가 구성된 논리를 재정렬할 수 있습니다.</td> 
-   <td><i>곧 출시 예정</i></td>
-   <td><i>곧 출시 예정</i></td>
-   </tr>
- </tbody> 
-</table>
-<br/>
-
 ## 공지 {#announcements}
 
-* **계정 통찰력 브라우저 플러그인 사용 중단**: Adobe이 다음을 제거하는 중 [계정 통찰력 브라우저 플러그인](/help/marketo/product-docs/target-account-management/setup-tam/account-insight-plug-in-overview.md) 2024년 3월 18일 Chrome 웹 스토어에서. 기존 사용자: Marketo Engage 인스턴스를 Adobe ID 및 Admin Console으로 마이그레이션할 때까지 플러그인을 계속 사용할 수 있습니다.
-
-{target="_blank"}
+* **계정 통찰력 브라우저 플러그인 사용 중단**: Adobe이 Target 계정 관리를 제거하는 중입니다. [계정 통찰력 브라우저 플러그인](/help/marketo/product-docs/target-account-management/setup-tam/account-insight-plug-in-overview.md){target="_blank"} 2024년 3월 18일 Chrome 웹 스토어에서. 기존 사용자: Marketo Engage 인스턴스를 Adobe ID 및 Admin Console으로 마이그레이션할 때까지 플러그인을 계속 사용할 수 있습니다.
