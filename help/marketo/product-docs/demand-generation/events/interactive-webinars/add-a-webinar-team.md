@@ -4,20 +4,26 @@ title: 웨비나 팀 추가
 hide: true
 hidefromtoc: true
 feature: Interactive Webinars
-source-git-commit: 77300e8d620887b5c1d14a4f979a96488b6eec87
+source-git-commit: 0d09fb0bec3b8fb392e503db13c9ab5b265424a5
 workflow-type: tm+mt
-source-wordcount: '221'
+source-wordcount: '378'
 ht-degree: 0%
 
 ---
 
 # 웨비나 팀 추가 {#add-a-webinar-team}
 
+대화형 웨비나의 웨비나 팀은 Adobe Connect에서 웨비나를 성공적으로 전달하는 데 기여하는 모든 역할로 구성됩니다. 여기에는 발표자와 공동 호스트가 모두 포함됩니다.
+
 >[!PREREQUISITES]
 >
 >[대화형 웨비나 만들기](/help/marketo/product-docs/demand-generation/events/interactive-webinars/create-an-interactive-webinar.md)
 
-대화형 웨비나를 만든 후에는 공동 호스트 또는 발표자를 추가할 수 있습니다.
+발표자는 웨비나 경험 전달에 참여하는 외부 역할이지만 공동 주최자는 발표자 역할을 할 수 있을 뿐만 아니라 웨비나 전달의 관리 측면도 처리할 수 있습니다. 공동 호스트는 내부 및 외부일 수 있습니다. 외부 공동 호스트는 Marketo의 대화형 웨비나 이벤트 프로그램에 액세스할 수 없지만 Adobe Connect에서 전달하는 동안 공동 호스트 권한을 갖게 됩니다. 내부 공동 호스트는 Marketo의 대화형 웨비나 이벤트 프로그램과 게재 중 공동 호스트 권한 모두에 액세스할 수 있습니다. 이렇게 하면 대화형 웨비나 프로그램의 원래 작성자가 대화형 웨비나 사용자 세트의 일부가 아니거나 Marketo 사용자가 아닐 때 내부 공동 호스트가 대화형 웨비나 이벤트 프로그램의 고삐를 쥘 수 있습니다.
+
+>[!NOTE]
+>
+>Marketo의 발표자 및 공동 호스트는 Adobe Connect의 웨비나 게재 중 발표자 및 공동 호스트의 역할에 정확히 매핑됩니다.
 
 ## 공동 호스트 추가 {#add-a-co-host}
 
