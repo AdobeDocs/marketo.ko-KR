@@ -3,9 +3,9 @@ description: 대화형 웨비나 디자인 - Marketo 문서 - 제품 설명서
 title: 대화형 웨비나 디자인
 exl-id: e340910a-ddcb-46e8-82a9-faedf0ab2d74
 feature: Interactive Webinars
-source-git-commit: 4eb28480b3863650a128a56393a8ef375f268982
+source-git-commit: 815fd7a67d65588c4a0a56ba1f478bd1844d7ee3
 workflow-type: tm+mt
-source-wordcount: '414'
+source-wordcount: '453'
 ht-degree: 0%
 
 ---
@@ -33,6 +33,10 @@ ht-degree: 0%
 1. 웨비나 미리 보기가 표시됩니다.
 
    ![](assets/designing-interactive-webinars-4.png)
+
+   >[!NOTE]
+   >
+   >기본적으로 &quot;대화형 웨비나 룸 이름&quot; 필드에 표시된 룸 이름은 대화형 웨비나 이벤트 프로그램과 동일한 이름입니다. 이 이름은 대상자가 볼 수 있으므로 웨비나 자체의 제목을 반영하도록 변경할 수 있습니다.
 
    >[!TIP]
    >
