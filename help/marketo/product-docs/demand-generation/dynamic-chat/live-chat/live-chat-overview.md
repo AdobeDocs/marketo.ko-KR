@@ -3,9 +3,9 @@ description: 라이브 채팅 개요 - Marketo 문서 - 제품 설명서
 title: 라이브 채팅 개요
 feature: Dynamic Chat
 exl-id: 44e8b249-b534-4cec-a612-daa184acd266
-source-git-commit: 492a43045bdf77243e4600eeb2223e750a35859b
+source-git-commit: b05ae6f1b5a63cdf5a0d5da1cb1a6a3641d973c1
 workflow-type: tm+mt
-source-wordcount: '618'
+source-wordcount: '649'
 ht-degree: 0%
 
 ---
@@ -105,8 +105,8 @@ ht-degree: 0%
 
 ### 참고할 사항 {#things-to-note}
 
-* 상담원은 &quot;채팅 수락&quot; 메시지가 시간 초과되기 전에 45초 동안 응답할 수 있습니다
-* 현재 에이전트당 라이브 채팅 수는 10개로 제한됩니다
+* 상담원은 &quot;채팅 수락&quot; 메시지가 시간 초과되기 전에 45초 동안 응답할 수 있습니다. 그런 다음 방문자에게 다음을 제공합니다. [대체 메시지](/help/marketo/product-docs/demand-generation/dynamic-chat/setup-and-configuration/agent-management.md#live-chat-fallback){target="_blank"}. 라우팅 옵션이 로 설정된 Dynamic Prime 구독자의 경우 **팀**&#x200B;대체 메시지가 나타나기 전에 에이전트를 한 번 더 시도합니다.
+* 현재 에이전트당 라이브 채팅 수는 10개로 제한됩니다.
 
 >[!MORELIKETHIS]
 >
