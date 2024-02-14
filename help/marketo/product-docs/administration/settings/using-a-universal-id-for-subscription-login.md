@@ -4,9 +4,9 @@ description: 구독 로그인에 범용 ID 사용 - Marketo 문서 - 제품 설�
 title: 구독 로그인에 범용 ID 사용
 exl-id: 75cf1323-0468-49e9-83ca-e55aa30744ac
 feature: Administration
-source-git-commit: 2bd8a7c2a1fe467cc73460807faee42e39faea5d
+source-git-commit: c0f0134972138eb4fa3498028a4acf5233dbe2fe
 workflow-type: tm+mt
-source-wordcount: '576'
+source-wordcount: '544'
 ht-degree: 0%
 
 ---
@@ -58,10 +58,6 @@ ht-degree: 0%
 ## 커뮤니티 프로필 {#community-profiles}
 
 구독이 여러 개인 경우 커뮤니티 프로필이 여러 개 있을 수 있습니다. 가장 활동적인 커뮤니티 프로필과 연결된 로그인을 선택하는 것이 좋습니다.
-
-## 모바일 플랫폼 {#mobile-platform}
-
-Universal ID를 가진 사용자는에서 해당 데이터를 볼 수 있습니다. [Marketo 모먼츠](/help/marketo/product-docs/core-marketo-concepts/mobile-apps/marketo-moments/understanding-moments/understanding-marketo-moments.md){target="_blank"} and the [event check-in application](/help/marketo/product-docs/core-marketo-concepts/mobile-apps/event-check-in/event-check-in-overview.md){target="_blank"} 마지막으로 로그인한 구독에서. 모바일 플랫폼 자체에서는 구독을 변경할 수 없습니다.
 
 >[!MORELIKETHIS]
 >
