@@ -2,9 +2,9 @@
 description: SMS 메시지 만들기 - Marketo 문서 - 제품 설명서
 title: SMS 메시지 만들기
 feature: Mobile Marketing
-source-git-commit: efaf34e8113fc6364655ff01aa788aa62bdd31af
+source-git-commit: c0e2c460559860a22a649e67624db0ad717ae327
 workflow-type: tm+mt
-source-wordcount: '453'
+source-wordcount: '481'
 ht-degree: 0%
 
 ---
@@ -15,7 +15,7 @@ SMS 메시지를 만드는 방법은 다음과 같습니다.
 
 >[!AVAILABILITY]
 >
->이 기능은 Adobe Marketo Engage 계정의 추가 기능으로 사용할 수 있습니다. 제대로 프로비저닝되려면 Adobe을 통해 구매해야 합니다. 자세한 내용은 Adobe 계정 팀(계정 관리자)에 문의하십시오.
+>이 기능은 Adobe Marketo Engage 계정의 추가 기능으로 사용할 수 있습니다. 제대로 프로비저닝되려면 Adobe을 통해 구매해야 합니다. 자세한 내용은 Adobe 계정 팀(계정 관리자)에 문의하십시오. Marketo Vibes SMS 기본 통합은 미국 및 캐나다에서 사용할 수 있습니다. 다른 국가의 경우 Marketo 웹후크를 통한 연결을 [Vibes에 직접 연결](https://www.vibes.com/talk-to-sales){target="_blank"}.
 
 >[!PREREQUISITES]
 >

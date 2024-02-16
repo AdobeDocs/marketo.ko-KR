@@ -4,9 +4,9 @@ description: LaunchPoint Service로 비디오 추가 - Marketo 문서 - 제품 �
 title: LaunchPoint Service로 비디오 추가
 exl-id: 13f153c1-609e-4bee-a588-eb4665755acc
 feature: Mobile Marketing
-source-git-commit: efaf34e8113fc6364655ff01aa788aa62bdd31af
+source-git-commit: c0e2c460559860a22a649e67624db0ad717ae327
 workflow-type: tm+mt
-source-wordcount: '140'
+source-wordcount: '168'
 ht-degree: 0%
 
 ---
@@ -19,9 +19,9 @@ SMS 활동을 활용하여 Marketo Engage 인스턴스에서 기본적으로 캠
 >
 >**관리자 권한 필요**
 
->[!PREREQUISITES]
+>[!AVAILABILITY]
 >
->Vibes SMS에 대한 활성 Vibes 계정과 Adobe 라이선스가 있어야 합니다.
+>Vibes SMS에 대한 활성 Vibes 계정과 Adobe 라이선스가 있어야 합니다. Marketo Vibes SMS 기본 통합은 미국 및 캐나다에서 사용할 수 있습니다. 다른 국가의 경우 Marketo 웹후크를 통한 연결을 [Vibes에 직접 연결](https://www.vibes.com/talk-to-sales){target="_blank"}.
 
 1. 내 Marketo에서 **[!UICONTROL 관리자]** 영역입니다.
 
@@ -49,4 +49,4 @@ SMS 활동을 활용하여 Marketo Engage 인스턴스에서 기본적으로 캠
 
 >[!MORELIKETHIS]
 >
->[비디오 데모 보기](https://vimeo.com/215233767/1ed136adbc)
+>[비디오 데모 보기](https://vimeo.com/215233767/1ed136adbc){target="_blank"}
