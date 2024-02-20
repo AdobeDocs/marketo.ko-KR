@@ -4,16 +4,20 @@ description: 프로그램 가져오기 - Marketo 문서 - 제품 설명서
 title: 프로그램 가져오기
 exl-id: 15e23e38-a24b-45b3-89a9-ffec85649f4a
 feature: Programs
-source-git-commit: e49860ae611f2f77789bb491aeccbee46a911a2c
+source-git-commit: 0adb780ea1622d12b8daafc502fd6a9151757ad3
 workflow-type: tm+mt
-source-wordcount: '520'
+source-wordcount: '551'
 ht-degree: 0%
 
 ---
 
 # 프로그램 가져오기 {#import-a-program}
 
-한 Marketo 구독에서 다른 구독으로 프로그램을 가져올 수 있습니다. 예를 들어 샌드박스에서 프로그램을 만든 다음 라이브 구독으로 가져올 수 있습니다. 또한 [Marketo 프로그램 라이브러리](/help/marketo/product-docs/core-marketo-concepts/programs/program-library/program-import-library-overview.md){target="_blank"}.
+한 Marketo Engage 구독에서 다른 구독으로 프로그램을 가져올 수 있습니다. 예를 들어 샌드박스에서 프로그램을 만든 다음 라이브 구독으로 가져올 수 있습니다. 또한 [Marketo 프로그램 라이브러리](/help/marketo/product-docs/core-marketo-concepts/programs/program-library/program-import-library-overview.md){target="_blank"}.
+
+>[!CAUTION]
+>
+>&quot;사용자 지정 개체가 업데이트됨&quot; 트리거가 포함된 스마트 목록이 있는 프로그램은 가져오기에 실패합니다. 아래 설명된 단계를 수행하기 전에 모든 스마트 목록에서 이 트리거를 제거하십시오.
 
 ## 프로그램 가져오기 {#importing-a-program}
 
@@ -27,15 +31,15 @@ ht-degree: 0%
 
    >[!NOTE]
    >
-   >프로그램 가져오기는 프로그램 가져오기 권한이 활성화된 역할이 있는 사용자만 사용할 수 있습니다. 자세히 알아보기 [사용자 역할 및 권한 관리](/help/marketo/product-docs/administration/users-and-roles/managing-user-roles-and-permissions.md){target="_blank"}.
+   >* 프로그램 가져오기는 프로그램 가져오기 권한이 활성화된 역할이 있는 사용자만 사용할 수 있습니다. 자세히 알아보기 [사용자 역할 및 권한 관리](/help/marketo/product-docs/administration/users-and-roles/managing-user-roles-and-permissions.md){target="_blank"}.
    >
-   >샌드박스 계정을 라이브 구독에 연결하려면 다음으로 문의하십시오. [Marketo 지원](https://nation.marketo.com/t5/Support/ct-p/Support){target="_blank"}.
+   >* 샌드박스 계정을 라이브 구독에 연결하려면 다음으로 문의하십시오. [Marketo 지원](https://nation.marketo.com/t5/Support/ct-p/Support){target="_blank"}.
 
-1. Marketo 선택 **[!UICONTROL 구독]** 가져올 프로그램. **[!UICONTROL 다음]**&#x200B;을 클릭합니다.
+1. Marketo 선택 **[!UICONTROL 구독]** 가져올 프로그램. 클릭 **[!UICONTROL 다음]**.
 
    ![](assets/import-a-program-3.png)
 
-1. 지정 **[!UICONTROL 캠페인 폴더]** 가져온 프로그램의 경우. **[!UICONTROL 다음]**&#x200B;을 클릭합니다.
+1. 지정 **[!UICONTROL 캠페인 폴더]** 가져온 프로그램의 경우. 클릭 **[!UICONTROL 다음]**.
 
    ![](assets/import-a-program-4.png)
 
