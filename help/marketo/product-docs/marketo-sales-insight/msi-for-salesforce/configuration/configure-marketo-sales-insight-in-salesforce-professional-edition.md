@@ -4,9 +4,9 @@ description: Salesforce Professional Edition에서 Marketo Sales Insight 구성 
 title: Salesforce Professional Edition에서 Marketo Sales Insight 구성
 exl-id: fae63560-0bb3-46a9-94a3-cc27c1aa363e
 feature: Marketo Sales Insights
-source-git-commit: c85f544f2c06a2f5bb92d6e7cad5f801e73fdaed
+source-git-commit: 1ce807ce99e3551ffc29e59ed356423633dc2276
 workflow-type: tm+mt
-source-wordcount: '962'
+source-wordcount: '850'
 ht-degree: 0%
 
 ---
@@ -28,7 +28,8 @@ Salesforce Professional Edition에서 Marketo Sales Insight를 구성하는 데 
 ## Marketo에서 Sales Insight 구성 {#configure-sales-insight-in-marketo}
 
 1. 새 브라우저 창을 열어 Marketo 계정에서 Marketo Sales Insight 자격 증명을 가져옵니다.
-1. 관리 영역으로 이동하여 을(를) 선택합니다. **Sales Insight**.
+
+1. 로 이동 **관리자** 영역 및 선택 **Sales Insight**.
 
    ![](assets/configure-marketo-sales-insight-in-salesforce-professional-edition-1-1.png)
 
@@ -76,52 +77,6 @@ Salesforce Professional Edition에서 Marketo Sales Insight를 구성하는 데 
 
 1. 원격 사이트 이름을 입력합니다(&quot;MarketoRestAPI&quot;와 같은 것일 수 있음). Marketo의 Rest API 구성 패널에서 API URL인 원격 사이트 URL을 입력합니다. 클릭 **저장**. 이제 Rest API에 대한 원격 사이트 설정을 만들었습니다.
 
-## Marketo Sales Insight 설정 {#set-up-marketo-sales-insight}
-
-1. Marketo 인스턴스에 로그인하고 **관리자**.
-
-   ![](assets/login-admin-1.png)
-
-1. 클릭 **Sales Insight**.
-
-   ![](assets/image2015-5-22-15-3a12-3a33-1.png)
-
-1. 클릭 **API 구성 편집**.
-
-   ![](assets/image2015-5-22-15-3a15-3a0-1.png)
-
-1. 다음을 입력하십시오. **API 비밀 키** 및 클릭 **저장**.
-
-   >[!CAUTION]
-   >
-   >API 비밀 키에 앰퍼샌드(&amp;)를 사용하지 마십시오.
-
-   ![](assets/image2015-5-27-16-3a36-3a56-1.png)
-
-   >[!TIP]
-   >
-   >이 창을 열어 두십시오. 이 정보는 나중에 Salesforce에서 필요합니다.
-
-1. Salesforce로 돌아가서 **설정**.
-
-   ![](assets/image2015-5-22-14-3a40-3a39-1.png)
-
-1. &quot;원격 사이트&quot;를 검색하고 **원격 사이트 설정** 아래에 **보안 제어**.
-
-   ![](assets/image2014-9-24-17-3a25-3a52.png)
-
-1. 클릭 **새 원격 사이트**.
-
-   ![](assets/image2014-9-24-17-3a26-3a6.png)
-
-1. 입력 **원격 사이트 이름** 및 **원격 사이트 URL**&#x200B;을 클릭한 다음 을 클릭합니다 **저장**.
-
-   ![](assets/remote-site-1.png)
-
-   >[!NOTE]
-   >
-   >다음을 선택하세요. **원격 사이트 이름** (여기서는 MarketoAPI가 사용됩니다.) 다음 **원격 사이트 URL** 4단계에서 API 구성 편집 대화 상자의 Marketo 호스트 필드에 표시됩니다.
-
 ## 표준 Salesforce 개체에 대한 Sales Insight 사용자 프로필 액세스 권한 부여 {#grant-sales-insight-users-profile-access}
 
 Saleforce 보안 향상으로 인해 앱 교환 패키지는 더 이상 표준 오브젝트에 대한 권한을 부여할 수 없으므로 Salesforce 사용자 프로필에서 관련 Salesforce 오브젝트에 액세스 권한을 부여해야 합니다. 필요한 권한을 부여하려면 아래 단계를 따르십시오.
@@ -134,7 +89,7 @@ Saleforce 보안 향상으로 인해 앱 교환 패키지는 더 이상 표준 �
 
 1. Standard Object Permission 섹션에서 Lead, Contact, Account 및 Opportunity 객체에 대한 읽기 액세스를 활성화합니다.
 
-1. 클릭 **저장**.
+1. **저장**&#x200B;을 클릭합니다.
 
 ## 페이지 레이아웃 사용자 지정 {#customize-page-layouts}
 

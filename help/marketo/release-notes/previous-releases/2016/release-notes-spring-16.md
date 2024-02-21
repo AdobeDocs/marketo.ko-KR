@@ -4,9 +4,9 @@ description: 릴리스 노트 - 2016년 봄 - Marketo 문서 - 제품 설명서
 title: 릴리스 노트 - 2016년 봄
 exl-id: 0ca26acf-2ac2-418e-bc4e-9820f483fa71
 feature: Release Information
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: c20ea4d17f6bf2d6f14a8fe71527dd9fa0c446a2
 workflow-type: tm+mt
-source-wordcount: '799'
+source-wordcount: '797'
 ht-degree: 0%
 
 ---
@@ -17,7 +17,7 @@ ht-degree: 0%
 
 ## [이메일 인사이트](/help/marketo/product-docs/reporting/email-insights/email-insights-overview.md) {#email-insights}
 
-이메일 인사이트는 Project Orion의 일부로 매우 빠른 성능을 제공하도록 완전히 새롭게 디자인된 새로운 기록 집계 데이터 이메일 분석 경험입니다. 이메일 마케터의 요구 사항과 워크플로에 맞게 최적화된 완전히 새로운 사용자 인터페이스 디자인을 특징으로 합니다.
+이메일 인사이트는 완전히 새롭게 디자인된 새로운 내역 집계 데이터 이메일 분석 경험으로, 매우 빠른 성능을 제공합니다. 이메일 마케터의 요구 사항과 워크플로에 맞게 최적화된 완전히 새로운 사용자 인터페이스 디자인을 특징으로 합니다.
 
 >[!NOTE]
 >
@@ -63,7 +63,7 @@ Marketo 내에서 바로 앱에 대한 멋진 인앱 메시지를 만들 수 있
 
 ## [새로운 고속 Microsoft Dynamics 동기화 커넥터](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/microsoft-dynamics-sync-details/sync-status.md) {#new-high-speed-microsoft-dynamics-sync-connector}
 
-Orion 아키텍처 위에 구축된 새로운 고속 동적 커넥터는 초기 동기화에 대해 최대 20배 빠른 속도를 제공하며 증분 동기화에 대해 최대 5배 빠른 속도를 제공합니다. 모든 신규 고객은 릴리스 날짜에 이 커넥터에 온보딩되며, 여름 릴리스 기간 동안 기존 고객에게 점진적으로 배포될 예정입니다.
+새로운 고속 Dynamics 커넥터는 초기 동기화에는 최대 20배, 증분 동기화에는 최대 5배 더 빠른 속도를 제공합니다. 모든 신규 고객은 릴리스 날짜에 이 커넥터에 온보딩되며, 여름 릴리스 기간 동안 기존 고객에게 점진적으로 배포될 예정입니다.
 
 **새 필드의 데이터 새로 고침**: 이제 언제든지 새 동기화 필드를 활성화할 수 있으며 해당 필드에 대한 모든 데이터 값이 Dynamics CRM에서 Marketo으로 새로 고쳐집니다. 초기 설정 중에 모든 필드를 선택해야 하는 것에 대해 걱정할 필요가 없습니다. 기존 동기화 필드를 비활성화했다가 나중에 다시 활성화하면 해당 필드의 모든 데이터 값이 Dynamics CRM에서 Marketo으로 새로 고쳐집니다.
 
