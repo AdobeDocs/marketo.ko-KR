@@ -4,9 +4,9 @@ description: 필드 숨기기 및 숨기기 취소 - Marketo 문서 - 제품 설
 title: 필드 숨기기 및 숨기기 취소
 exl-id: 14395c31-d0f4-4aec-8592-a60a764a7263
 feature: Field Management
-source-git-commit: 7663965cd18d52a7ad452be3076759c4be95bf98
+source-git-commit: 37e6f60d2f26ce2c7a8c7564f33c6121a6a507a1
 workflow-type: tm+mt
-source-wordcount: '171'
+source-wordcount: '177'
 ht-degree: 1%
 
 ---
@@ -37,6 +37,7 @@ ht-degree: 1%
    >
    >* 필드를 숨기려면 (보관된 에셋을 포함한) 다른 에셋과 연관되지 않아야 합니다. 숨기기 전에 모든 스마트 목록, 흐름 단계 선택 사항, 양식, 이메일 등에서 필드를 제거해야 합니다.
    >* 표준(시스템) 필드는 숨길 수 없습니다.
+   >* 영업 기회 정보 필드는 숨길 수 없습니다.
 
 1. 클릭 **[!UICONTROL 숨기기]** 확인할 수 있습니다.
 
