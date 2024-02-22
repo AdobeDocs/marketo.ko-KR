@@ -4,9 +4,9 @@ description: "추가 [!DNL Munchkin] 웹 사이트에 대한 추적 코드 - Mar
 title: "추가 [!DNL Munchkin] 웹 사이트에 대한 추적 코드"
 exl-id: a03a7f11-8d5e-4325-b975-8fc350711da0
 feature: Administration, Munchkin Tracking Code
-source-git-commit: d20a9bb584f69282eefae3704ce4be2179b29d0b
+source-git-commit: bb9593ab500d57127f22b14757688d7521661e38
 workflow-type: tm+mt
-source-wordcount: '657'
+source-wordcount: '666'
 ht-degree: 0%
 
 ---
@@ -23,7 +23,7 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->Adobe Experience Cloud 고객은 Adobe Launch에서 Marketo의 통합을 사용하여 다음을 포함할 수도 있습니다. [!DNL Munchkin] 스크립트를 웹 페이지에 추가합니다. 앱 가져오기 [여기](https://www.adobeexchange.com/experiencecloud.details.101054.html){target="_blank"}.
+>Adobe Experience Cloud 사용자는 [Adobe Launch의 Marketo 통합](https://exchange.adobe.com/apps/ec/100223/adobe-launch-core-extension){target="_blank"} 포함할 항목 [!DNL Munchkin] 스크립트를 웹 페이지에 추가합니다. Adobe 실행을 사용하는 경우, _다음 [!DNL Munchkin] 스크립트가 자동으로 추가됩니다_&#x200B;따라서 직접 추가할 필요가 없습니다.
 
 1. 로 이동 **[!UICONTROL 관리자]** 영역입니다.
 
@@ -59,7 +59,7 @@ ht-degree: 0%
 
    >[!TIP]
    >
-   >많은 양의 트래픽(즉, 매월 수십만 건의 방문)이 표시되는 사이트의 경우 익명의 사용자를 추적하지 않도록 선택하는 것이 좋습니다. [자세히 알아보기](https://developers.marketo.com/documentation/websites/lead-tracking-munchkin-js/).
+   >많은 양의 트래픽(즉, 매월 수십만 건의 방문)이 표시되는 사이트의 경우 익명의 사용자를 추적하지 않도록 선택하는 것이 좋습니다. [자세히 알아보기](https://developers.marketo.com/documentation/websites/lead-tracking-munchkin-js/){target="_blank"}.
 
 ## 여러 작업 공간을 사용할 때 추적 코드 추가 {#add-tracking-code-when-using-multiple-workspaces}
 
