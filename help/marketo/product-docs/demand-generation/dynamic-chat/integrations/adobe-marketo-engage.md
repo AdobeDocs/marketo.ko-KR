@@ -3,9 +3,9 @@ description: Adobe Marketo Engage - Marketo 문서 - 제품 설명서
 title: Adobe Marketo Engage
 feature: Dynamic Chat
 exl-id: 9ce43de3-0503-4894-89f2-ee24e7df9a73
-source-git-commit: a8369dc36d5d2baae1091b2417615d1e642e364f
+source-git-commit: f5f93a993d5b13c1fda0b31172393eff0bc65fd4
 workflow-type: tm+mt
-source-wordcount: '279'
+source-wordcount: '273'
 ht-degree: 2%
 
 ---
@@ -20,7 +20,7 @@ ht-degree: 2%
 >
 >Dynamic Chat에서 동기화 지원 [Marketo 네이티브](https://developers.marketo.com/rest-api/lead-database/fields/list-of-standard-fields/){target="_blank"} 사용자 정의 개인 필드 및 회사 필드.
 
-1. 내 Marketo에서 **Dynamic Chat** 타일.
+1. 내 Marketo에서 **[!UICONTROL Dynamic Chat]** 타일.
 
    ![](assets/adobe-marketo-engage-1.png)
 
@@ -30,19 +30,19 @@ ht-degree: 2%
 
 1. 이전에 Adobe ID으로 애플리케이션에 액세스한 적이 있다면 바로 Dynamic Chat 상태가 됩니다. 그렇지 않은 경우, [Adobe ID 설정](https://helpx.adobe.com/manage-account/using/create-update-adobe-id.html){target="_blank"}.
 
-1. Marketo 인스턴스를 연결하려면 **통합**.
+1. Marketo 인스턴스를 연결하려면 **[!UICONTROL 통합]**.
 
    ![](assets/adobe-marketo-engage-2.png)
 
-1. Marketo 카드에서 **동기화 시작**.
+1. Marketo 카드에서 **[!UICONTROL 동기화 시작]**.
 
    ![](assets/adobe-marketo-engage-3.png)
 
-1. 대상 타기팅, 데이터 매핑 및 개인화에 사용할 Dynamic Chat과 동기화하려면 Marketo 인스턴스에서 최대 50개의 속성(표준 또는 사용자 지정 필드)을 선택합니다. 클릭 **다음** 완료 시.
+1. 대상 타기팅, 데이터 매핑 및 개인화에 사용할 Dynamic Chat과 동기화하려면 Marketo 인스턴스에서 최대 50개의 속성(표준 또는 사용자 지정 필드)을 선택합니다. 클릭 **[!UICONTROL 다음]** 완료 시.
 
    ![](assets/adobe-marketo-engage-4.png)
 
-1. 선택 항목을 검토합니다. 클릭 **확인** 동기화를 시작합니다.
+1. 선택 항목을 검토합니다. 클릭 **[!UICONTROL 확인]** 동기화를 시작합니다.
 
    ![](assets/adobe-marketo-engage-5.png)
 
@@ -54,15 +54,15 @@ ht-degree: 2%
 
 초기 동기화 후 속성을 추가하는 방법은 다음과 같습니다.
 
-1. 위치 **통합**, 다음을 확인합니다. **Adobe Marketo Engage** 탭을 선택하고 **속성 추가**.
+1. 위치 **[!UICONTROL 통합]**, 다음을 확인합니다. **[!UICONTROL Adobe Marketo Engage]** 탭을 선택하고 **[!UICONTROL 속성 추가]**.
 
    ![](assets/adobe-marketo-engage-6.png)
 
-1. 추가할 속성을 선택하고 **다음**.
+1. 추가할 속성을 선택하고 **[!UICONTROL 다음]**.
 
    ![](assets/adobe-marketo-engage-7.png)
 
-1. 선택 내용을 검토하고 **확인**.
+1. 선택 내용을 검토하고 **[!UICONTROL 확인]**.
 
    ![](assets/adobe-marketo-engage-8.png)
 
@@ -74,11 +74,11 @@ ht-degree: 2%
 >
 >현재 대화 상자에서 사용하고 있지 않은 속성만 제거하는 옵션이 표시됩니다.
 
-1. 위치 **통합**, 다음을 확인합니다. **Adobe Marketo Engage** 탭을 선택하고 제거할 속성을 클릭합니다.
+1. 위치 **[!UICONTROL 통합]**, 다음을 확인합니다. **[!UICONTROL Adobe Marketo Engage]** 탭을 선택하고 제거할 속성을 클릭합니다.
 
    ![](assets/adobe-marketo-engage-9.png)
 
-1. 클릭 **속성 제거**.
+1. 클릭 **[!UICONTROL 속성 제거]**.
 
    ![](assets/adobe-marketo-engage-10.png)
 

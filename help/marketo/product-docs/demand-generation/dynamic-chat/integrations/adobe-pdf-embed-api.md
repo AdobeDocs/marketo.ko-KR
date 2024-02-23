@@ -2,10 +2,10 @@
 description: Adobe PDF Embed API - Marketo 문서 - 제품 설명서
 title: Adobe PDF 임베드 API
 feature: Dynamic Chat
-exl-id: 0c8c4e7c-6576-40b6-b96b-cfd0bae5d27d
-source-git-commit: 38274b4859ae38c018ee73d4f1715fdf6a78e815
+exl-id: 27482f55-1bd1-423c-9154-f650532ff1e5
+source-git-commit: f5f93a993d5b13c1fda0b31172393eff0bc65fd4
 workflow-type: tm+mt
-source-wordcount: '139'
+source-wordcount: '136'
 ht-degree: 5%
 
 ---
@@ -16,7 +16,7 @@ ht-degree: 5%
 
 1. 다음으로 이동 [Adobe PDF 포함 API](https://udp.adobe.io/document-services/apis/pdf-embed/){target="_blank"}.
 
-1. 클릭 **자격 증명 가져오기**.
+1. 클릭 **[!UICONTROL 자격 증명 가져오기]**.
 
    ![](assets/adobe-pdf-embed-api-1.png)
 
@@ -24,7 +24,7 @@ ht-degree: 5%
 
    ![](assets/adobe-pdf-embed-api-2.png)
 
-1. 자격 증명을 입력하고 조건에 동의한 다음 을(를) 클릭합니다. **자격 증명 만들기**.
+1. 자격 증명을 입력하고 조건에 동의한 다음 을(를) 클릭합니다. **[!UICONTROL 자격 증명 만들기]**.
 
    ![](assets/adobe-pdf-embed-api-3.png)
 
@@ -32,15 +32,15 @@ ht-degree: 5%
    >
    >챗봇을 호스팅할 도메인을 사용해야 합니다(예: mycompany.com에서 챗봇을 호스팅하는 경우 4단계에 입력해야 함).
 
-1. 클릭 **복사** 클라이언트 ID를 복사합니다.
+1. 클릭 **[!UICONTROL 복사]** 클라이언트 ID를 복사합니다.
 
    ![](assets/adobe-pdf-embed-api-4.png)
 
-1. 다시 Dynamic Chat으로 돌아가서 **통합**. Adobe PDF Embed API 카드에서 **활성화**.
+1. 다시 Dynamic Chat으로 돌아가서 **[!UICONTROL 통합]**. Adobe PDF Embed API 카드에서 **[!UICONTROL 활성화]**.
 
    ![](assets/adobe-pdf-embed-api-5.png)
 
-1. 클라이언트 ID를 붙여넣고 **저장**.
+1. 붙여넣기 [!UICONTROL 클라이언트 ID] 및 클릭 **[!UICONTROL 저장]**.
 
    ![](assets/adobe-pdf-embed-api-6.png)
 

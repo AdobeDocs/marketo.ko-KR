@@ -2,8 +2,8 @@
 description: 대화 상자 개요 - Marketo 문서 - 제품 설명서
 title: 대화 상자 개요
 feature: Dynamic Chat
-exl-id: 13acba58-fe66-4153-ad90-f433ef316342
-source-git-commit: 38274b4859ae38c018ee73d4f1715fdf6a78e815
+exl-id: c5e5650f-5f34-4c04-b287-62556bc35593
+source-git-commit: f5f93a993d5b13c1fda0b31172393eff0bc65fd4
 workflow-type: tm+mt
 source-wordcount: '254'
 ht-degree: 5%
@@ -64,10 +64,10 @@ ht-degree: 5%
 
 게시된 모든 대화 상자를 동시에 비활성화(및 다시 활성화)할 수 있습니다.
 
-1. Dynamic Chat에서 **구성** 탭.
+1. Dynamic Chat에서 **[!UICONTROL 구성]** 탭.
 
    ![](assets/dialogue-overview-4.png)
 
-1. 전환 **채팅 활성화됨** 모든 대화 상자를 비활성화하려면 끄고 다시 활성화하려면 켜십시오.
+1. 전환 **[!UICONTROL 채팅 활성화됨]** 모든 대화 상자를 비활성화하려면 끄고 다시 활성화하려면 켜십시오.
 
    ![](assets/dialogue-overview-5.png)

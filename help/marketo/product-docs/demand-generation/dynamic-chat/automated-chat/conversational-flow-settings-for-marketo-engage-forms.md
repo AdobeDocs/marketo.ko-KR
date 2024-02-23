@@ -2,8 +2,8 @@
 description: Forms Marketo Engage에 대한 대화 흐름 설정 - Marketo 문서 - 제품 설명서
 title: Forms Marketo Engage에 대한 대화 흐름 설정
 feature: Dynamic Chat
-exl-id: 28d509c8-e967-43fa-ba80-c6619c647144
-source-git-commit: 38274b4859ae38c018ee73d4f1715fdf6a78e815
+exl-id: 36d00862-4bb9-46fd-a5f8-69df7bf22ecf
+source-git-commit: f5f93a993d5b13c1fda0b31172393eff0bc65fd4
 workflow-type: tm+mt
 source-wordcount: '186'
 ht-degree: 0%
@@ -22,19 +22,19 @@ Marketo Engage Forms을 Dynamic Chat 대화 흐름과 통합하여 대화형으�
 
    ![](assets/conversational-flow-settings-1.png)
 
-1. 클릭 **초안 편집**.
+1. 클릭 **[!UICONTROL 초안 편집]**.
 
    ![](assets/conversational-flow-settings-2.png)
 
-1. 양식 편집 페이지에서 **양식 설정**, 그런 다음 **설정**.
+1. 양식 편집 페이지에서 **[!UICONTROL 양식 설정]**, 그런 다음 **[!UICONTROL 설정]**.
 
    ![](assets/conversational-flow-settings-3.png)
 
-1. 다음을 클릭합니다. **대화형 흐름 설정** 슬라이더를 사용하십시오.
+1. 다음을 클릭합니다. **[!UICONTROL 대화형 흐름 설정]** 슬라이더를 사용하십시오.
 
    ![](assets/conversational-flow-settings-4.png)
 
-1. 기본 선택 모달이 나타납니다. 환경 설정을 선택합니다. 이 예제에서는 다음을 선택합니다 **대화형 흐름 사용**.
+1. 기본 선택 모달이 나타납니다. 환경 설정을 선택합니다. 이 예제에서는 다음을 선택합니다 **[!UICONTROL 대화형 흐름 사용]**.
 
    ![](assets/conversational-flow-settings-5.png)
 
@@ -54,6 +54,6 @@ Marketo Engage Forms을 Dynamic Chat 대화 흐름과 통합하여 대화형으�
    >
    >방문자의 브라우저는 Static/Smart List의 멤버 자격을 얻으려면 양식 제출 전에 알려진 사람으로서 쿠키여야 합니다.
 
-1. 클릭 **완료** 완료 시.
+1. 클릭 **[!UICONTROL 완료]** 완료 시.
 
    ![](assets/conversational-flow-settings-8.png)

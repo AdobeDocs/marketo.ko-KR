@@ -2,8 +2,8 @@
 description: 대화 흐름 만들기 - Marketo 문서 - 제품 설명서
 title: 대화 흐름 만들기
 feature: Dynamic Chat
-exl-id: e3548ebc-0788-48ff-bac8-f8c240319f92
-source-git-commit: 38274b4859ae38c018ee73d4f1715fdf6a78e815
+exl-id: 2a4a87e4-13d8-4546-a9c0-75f36f5d83c9
+source-git-commit: f5f93a993d5b13c1fda0b31172393eff0bc65fd4
 workflow-type: tm+mt
 source-wordcount: '90'
 ht-degree: 0%
@@ -14,15 +14,15 @@ ht-degree: 0%
 
 새로운 대화 흐름을 만드는 방법은 다음과 같습니다.
 
-1. Automated Chat 아래에서 **대화 흐름**.
+1. 아래 [!UICONTROL 자동화된 채팅], 클릭 **[!UICONTROL 대화 흐름]**.
 
    ![](assets/create-a-conversational-flow-1.png)
 
-1. 클릭 **대화 흐름 만들기**.
+1. 클릭 **[!UICONTROL 대화 흐름 만들기]**.
 
    ![](assets/create-a-conversational-flow-2.png)
 
-1. 빈 대화 흐름 또는 미리 채워진 템플릿 중 하나를 선택합니다. 이름을 입력하고(설명은 선택 사항) 언어를 변경한(선택 사항) 다음 **만들기**.
+1. 빈 대화 흐름 또는 미리 채워진 템플릿 중 하나를 선택합니다. 이름을 입력하고(설명은 선택 사항) 언어를 변경한(선택 사항) 다음 **[!UICONTROL 만들기]**.
 
    ![](assets/create-a-conversational-flow-3.png)
 
