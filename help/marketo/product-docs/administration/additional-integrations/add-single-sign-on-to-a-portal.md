@@ -4,7 +4,7 @@ description: 포털에 SSO(Single Sign-On) 추가 - Marketo 문서 - 제품 설�
 title: 포털에 SSO(Single Sign-On) 추가
 exl-id: 72f96239-7252-4cbc-bbe1-84ac7ae7f92e
 feature: Administration
-source-git-commit: f8fa8781d2b1e96ffda038f2f2e28cd242dcfead
+source-git-commit: 48f280eef0fb5762b8032307c5442906f7ceaae3
 workflow-type: tm+mt
 source-wordcount: '560'
 ht-degree: 0%
@@ -29,8 +29,7 @@ SSO가 활성화되면 IdP는 사용자의 자격 증명을 확인할 수 있습
 
 >[!NOTE]
 >
->다음 대상이 맞습니까? [!DNL Microsoft Azure] 사용자? 다음을 확인하십시오. [통합 튜토리얼](https://azure.microsoft.com/en-us/documentation/articles/active-directory-saas-marketo-tutorial/){target="_blank"}.
-참고로, 그들의 자습서의 5c단계에 오타가 있습니다. 다음을 사용하십시오. `https://<munchkinid>.mktoweb.com`, _아님_ `https://<munchkinid>.marketo.com`.
+>다음 대상이 맞습니까? [!DNL Microsoft Azure] 사용자? 다음을 확인하십시오. [통합 튜토리얼](https://azure.microsoft.com/en-us/documentation/articles/active-directory-saas-marketo-tutorial/){target="_blank"}. 참고로, 그들의 자습서의 5c단계에 오타가 있습니다. 다음을 사용하십시오. `https://<munchkinid>.mktoweb.com`, **_아님_** `https://<munchkinid>.marketo.com`.
 
 ## 요청을 보내는 방법 {#how-to-send-the-request}
 
