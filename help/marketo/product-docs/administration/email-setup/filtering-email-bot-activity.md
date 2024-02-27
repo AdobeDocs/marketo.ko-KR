@@ -3,7 +3,7 @@ description: 이메일 보트 활동 필터링 - Marketo 문서 - 제품 설명�
 title: 이메일 보트 활동 필터링
 exl-id: 70c97159-72bf-46e5-b29b-247615d0fa80
 feature: Email Setup
-source-git-commit: c3819373fbd49f7ea67f6eb6661d63ad5ba86d57
+source-git-commit: f3d0b2be794ca4bb6c38c942cef1fa72fe091d7c
 workflow-type: tm+mt
 source-wordcount: '534'
 ht-degree: 0%
