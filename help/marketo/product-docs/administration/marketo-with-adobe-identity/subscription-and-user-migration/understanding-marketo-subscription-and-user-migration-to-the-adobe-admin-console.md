@@ -3,9 +3,9 @@ description: Marketo 구독 및 Adobe Admin Console으로의 사용자 마이그
 title: Marketo 구독 및 Adobe Admin Console으로의 사용자 마이그레이션 이해
 exl-id: 91e7b56b-2563-4986-a55c-f9760ea88b05
 feature: Marketo with Adobe Identity
-source-git-commit: 404d2720dec6b4932c99a1f390a88dc0835c7491
+source-git-commit: 179fe78c35c04617df47b61d88322f82feab746a
 workflow-type: tm+mt
-source-wordcount: '1301'
+source-wordcount: '1323'
 ht-degree: 0%
 
 ---
@@ -88,9 +88,9 @@ Marketo 제품 관리자는 모든 사용자가 마이그레이션할 날을 준
 
 **Adobe은 먼저 Marketo 관리자를 자동으로 마이그레이션합니다.**. Marketo 관리자는 Adobe ID로 마이그레이션되면 이전에 수행한 다른 역할과 함께 Marketo 애플리케이션 내에서 Adobe 제품 관리자 역할이 할당됩니다.
 
-**Marketo 구독의 사용자 수가 75명 미만인 경우**, Adobe은 나머지 사용자를 자동으로 마이그레이션합니다. 이 워크플로우는 Adobe Marketo 사용자의 오버헤드를 최소화하기 위해 최고 수준의 자동화를 제공하는 것을 목표로 합니다. 마이그레이션을 실행하는 데 필요한 작업은 없습니다.
+**Marketo 구독이 75명 미만이고 Marketo 및/또는 Adobe 조직에 SSO가 없는 경우**, Adobe은 나머지 사용자를 자동으로 마이그레이션합니다. 이 워크플로우는 Adobe Marketo 사용자의 오버헤드를 최소화하기 위해 최고 수준의 자동화를 제공하는 것을 목표로 합니다. 마이그레이션을 실행하는 데 필요한 작업은 없습니다.
 
-**Marketo 구독이 75명 이상인 경우**, Marketo 제품 관리자는 Marketo 관리 영역에 있는 Marketo 마이그레이션 콘솔의 셀프서비스 사용자 마이그레이션 영역에 액세스할 수 있습니다. 사용자 마이그레이션 프로세스 중에 더 세밀한 제어가 필요한 사용자를 위해 Marketo 제품 관리자는 일괄로 마이그레이션하거나 동시에 마이그레이션할 사용자를 선택할 수 있습니다. 사용자를 선택하면 관리자는 나중에 &quot;지금 마이그레이션&quot; 또는 &quot;마이그레이션 예약&quot;할 수 있는 옵션을 제공하므로 관리자는 유연성을 극대화하고 언제 마이그레이션되는지 제어할 수 있습니다.
+**Marketo 구독이 75명 이상이거나 Marketo 및/또는 Adobe 조직에 SSO가 있는 경우**, Marketo 제품 관리자는 Marketo 관리 영역에 있는 Marketo 마이그레이션 콘솔의 셀프서비스 사용자 마이그레이션 영역에 액세스할 수 있습니다. 사용자 마이그레이션 프로세스 중에 더 세밀한 제어가 필요한 사용자를 위해 Marketo 제품 관리자는 일괄로 마이그레이션하거나 동시에 마이그레이션할 사용자를 선택할 수 있습니다. 사용자를 선택하면 관리자는 나중에 &quot;지금 마이그레이션&quot; 또는 &quot;마이그레이션 예약&quot;할 수 있는 옵션을 제공하므로 관리자는 유연성을 극대화하고 언제 마이그레이션되는지 제어할 수 있습니다.
 
 >[!NOTE]
 >

@@ -3,9 +3,9 @@ description: Adobe ID로 마이그레이션 - Marketo 문서 - 제품 설명서
 title: Adobe ID로 마이그레이션
 feature: Marketo with Adobe Identity
 exl-id: a7969204-0ec9-45aa-a206-eff2df8adcd0
-source-git-commit: 404d2720dec6b4932c99a1f390a88dc0835c7491
+source-git-commit: 179fe78c35c04617df47b61d88322f82feab746a
 workflow-type: tm+mt
-source-wordcount: '2230'
+source-wordcount: '2252'
 ht-degree: 0%
 
 ---
@@ -44,9 +44,9 @@ Adobe은 먼저 확인된 이메일을 통해 모든 Marketo 관리자를 자동
 
 ![](assets/migrating-to-adobe-identity-5.png)
 
-**Marketo 구독의 사용자 수가 75명 미만인 경우**, Adobe은 나머지 사용자를 자동으로 마이그레이션합니다. 이 워크플로우는 최고 수준의 자동화를 제공하는 것을 목표로 하며 마이그레이션을 실행하는 데 필요한 작업은 없습니다. 마이그레이션이 완료되면 Marketo 마이그레이션 콘솔이 더 이상 Marketo 관리 탐색 영역에 표시되지 않고 모든 사용자가 Adobe ID을 사용하여 Marketo에 액세스합니다.
+**Marketo 구독이 75명 미만이고 Marketo 및/또는 Adobe 조직에 SSO가 없는 경우**, Adobe은 나머지 사용자를 자동으로 마이그레이션합니다. 이 워크플로우는 최고 수준의 자동화를 제공하는 것을 목표로 하며 마이그레이션을 실행하는 데 필요한 작업은 없습니다. 마이그레이션이 완료되면 Marketo 마이그레이션 콘솔이 더 이상 Marketo 관리 탐색 영역에 표시되지 않고 모든 사용자가 Adobe ID을 사용하여 Marketo에 액세스합니다.
 
-**Marketo 구독에 75명 이상의 사용자가 있는 경우**, Marketo 제품 관리자는 사용자 마이그레이션이 시작되면 마이그레이션 콘솔의 셀프서비스 사용자 마이그레이션 도구에 액세스할 수 있으며 내 Marketo 페이지에서 로그인하면 배너를 통해 알림을 받게 됩니다. 관리자는 셀프 서비스 사용자 마이그레이션 도구를 사용하여 사용자 마이그레이션을 완료할 책임이 있습니다.
+**Marketo 구독에 75명 이상의 사용자가 있거나 Marketo 및/또는 Adobe 조직에 SSO가 있는 경우**, Marketo 제품 관리자는 사용자 마이그레이션이 시작되면 마이그레이션 콘솔의 셀프서비스 사용자 마이그레이션 도구에 액세스할 수 있으며 내 Marketo 페이지에서 로그인하면 배너를 통해 알림을 받게 됩니다. 관리자는 셀프 서비스 사용자 마이그레이션 도구를 사용하여 사용자 마이그레이션을 완료할 책임이 있습니다.
 
 ![](assets/migrating-to-adobe-identity-6.png)
 
