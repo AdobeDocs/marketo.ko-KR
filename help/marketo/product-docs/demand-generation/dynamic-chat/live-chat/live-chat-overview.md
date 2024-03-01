@@ -3,7 +3,7 @@ description: 라이브 채팅 개요 - Marketo 문서 - 제품 설명서
 title: 라이브 채팅 개요
 feature: Dynamic Chat
 exl-id: 44e8b249-b534-4cec-a612-daa184acd266
-source-git-commit: a1341ab39690190fa203bf320543e9b5f5e20e66
+source-git-commit: 56070990d8bcea61fbbf3b382e5abae786b2488e
 workflow-type: tm+mt
 source-wordcount: '650'
 ht-degree: 0%
@@ -72,7 +72,9 @@ ht-degree: 0%
 
 ## 라이브 채팅 알림 {#live-chat-notifications}
 
-라이브 채팅에 대한 브라우저 알림을 받으려면 모든 라이브 채팅 에이전트가 메시지가 표시되면 Dynamic Chat에 대한 브라우저 알림을 활성화해야 합니다.
+>[!IMPORTANT]
+>
+>라이브 채팅에 대한 브라우저 알림을 받으려면 모든 라이브 채팅 에이전트가 메시지가 표시되면 Dynamic Chat에 대한 브라우저 알림을 활성화해야 합니다.
 
 ### 알림 활성화 {#enabling-notifications}
 

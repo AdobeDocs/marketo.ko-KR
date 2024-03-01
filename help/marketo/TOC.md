@@ -3,9 +3,9 @@ audience: end-user
 user-guide-title: Marketo 안내서
 user-guide-description: Marketo 제품 설명서
 feature-set: Marketo Engage
-source-git-commit: 7d8cdb2da42769ee0326a3d585ad32a3405dfac1
+source-git-commit: 56070990d8bcea61fbbf3b382e5abae786b2488e
 workflow-type: tm+mt
-source-wordcount: '9287'
+source-wordcount: '9288'
 ht-degree: 0%
 
 ---
@@ -666,6 +666,7 @@ ht-degree: 0%
          + 라이브 채팅 {#live-chat}
             + [라이브 채팅 개요](product-docs/demand-generation/dynamic-chat/live-chat/live-chat-overview.md)
             + [에이전트 받은 편지함](product-docs/demand-generation/dynamic-chat/live-chat/agent-inbox.md)
+            + [알림](product-docs/demand-generation/dynamic-chat/live-chat/notifications.md)
          + 설정 및 구성 {#setup-and-configuration}
             + [초기 설정](product-docs/demand-generation/dynamic-chat/setup-and-configuration/initial-setup.md)
             + [채팅 사용자 추가 또는 제거](product-docs/demand-generation/dynamic-chat/setup-and-configuration/add-or-remove-chat-users.md)
