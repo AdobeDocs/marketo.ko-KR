@@ -4,9 +4,9 @@ description: 이메일 전달성 파워 팩 - 시드 목록을 가져오는 방�
 title: 이메일 게재 기능 파워 팩 - 시드 목록을 가져오는 방법
 exl-id: a4782611-2556-43bf-802b-afeb332eafcd
 feature: Deliverability
-source-git-commit: 2671f81f62658447e4b2a3dc2e02a4e0927443e8
+source-git-commit: 3cb7e5ddef8ec05a7cf8d65dd9f3bafa5dcb7da1
 workflow-type: tm+mt
-source-wordcount: '323'
+source-wordcount: '332'
 ht-degree: 0%
 
 ---
@@ -15,9 +15,9 @@ ht-degree: 0%
 
 시드 목록은 Google 앱, Hotmail, Yahoo! 등을 비롯한 여러 사서함 공급자의 이메일 계정 목록으로, 스팸 폴더 전달률과 받은 편지함의 비율을 비교하는 데 사용됩니다. 다음은 Marketo 인스턴스로 해당 목록을 가져오는 방법입니다.
 
->[!AVAILABILITY]
+>[!IMPORTANT]
 >
->일부 Marketo Engage 사용자가 이 기능을 구입한 것은 아닙니다. 자세한 내용은 Adobe 계정 팀(계정 관리자)에 문의하십시오.
+>이 기사는 현재 에베레스트 구독이 활발한 사람들을 위한 것이다. Bird(이전 MessageBird)별 받은 편지함 추적기를 사용하는 경우 자습서 [은(는) 여기에서 찾을 수 있음](/help/marketo/product-docs/email-marketing/deliverability/inbox-tracker/inbox-tracker-tutorials.md){target="_blank"}.
 
 ## 시드 목록 가져오기 {#import-a-seed-list}
 
@@ -41,7 +41,7 @@ ht-degree: 0%
    >
    >Everest에서 목록을 최적화하도록 하려면 페이지 상단에 있는 시드 목록 최적화 도구 를 사용하십시오.
 
-1. 내보내면 목록이 브라우저의 다운로드 폴더에 .txt 파일로 나타납니다. 검색 및 [가져오기](/help/marketo/getting-started/quick-wins/import-a-list-of-people.md) 정적 목록으로 Marketo 인스턴스에 통합합니다.
+1. 내보내기가 끝나면 브라우저의 다운로드 폴더에 목록이 .txt 파일로 나타납니다. 검색 및 [가져오기](/help/marketo/getting-started/quick-wins/import-a-list-of-people.md) 정적 목록으로 Marketo 인스턴스에 통합합니다.
 
    ![](assets/email-deliverability-power-pack-5.png)
 

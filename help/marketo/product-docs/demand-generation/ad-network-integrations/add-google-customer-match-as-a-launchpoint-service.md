@@ -4,9 +4,9 @@ description: LaunchPoint Service로 Google Customer Match 추가 - Marketo 문�
 title: LaunchPoint Service로 Google 고객 일치 추가
 exl-id: c780bde0-3044-4c89-a2ac-88398cbc3425
 feature: Integrations
-source-git-commit: bebf61037f37a06b40b4d9c1df872f1cf62a1403
+source-git-commit: 3cb7e5ddef8ec05a7cf8d65dd9f3bafa5dcb7da1
 workflow-type: tm+mt
-source-wordcount: '196'
+source-wordcount: '226'
 ht-degree: 0%
 
 ---
@@ -14,6 +14,10 @@ ht-degree: 0%
 # LaunchPoint Service로 Google 고객 일치 추가 {#add-google-customer-match-as-a-launchpoint-service}
 
 이 통합을 통해 Google AdWords를 사용하여 타깃팅할 Google에 Marketo Engage 대상을 보내고 YouTube, Search 및 Gmail에서 대상을 다시 타깃팅할 수 있습니다.
+
+>[!IMPORTANT]
+>
+>Google Ads API의 최근 업데이트로 인해 Adobe과 Google 간의 동기화 기능이 일시적으로 비활성화됩니다.  Adobe은 현재 업데이트와 관련된 Google의 요구 사항을 검토하고 있습니다.
 
 >[!NOTE]
 >
