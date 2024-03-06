@@ -1,19 +1,19 @@
 ---
 unique-page-id: 10099077
-description: 이메일 전달성 파워 팩 - 시드 목록을 가져오는 방법 - Marketo 문서 - 제품 설명서
+description: 시드 목록을 Marketo Engage 인스턴스로 가져오는 방법을 알아봅니다.
 title: 이메일 게재 기능 파워 팩 - 시드 목록을 가져오는 방법
 exl-id: a4782611-2556-43bf-802b-afeb332eafcd
 feature: Deliverability
-source-git-commit: 3cb7e5ddef8ec05a7cf8d65dd9f3bafa5dcb7da1
+source-git-commit: 136707304350be59918716233f5d6e2a6438be4e
 workflow-type: tm+mt
-source-wordcount: '332'
+source-wordcount: '333'
 ht-degree: 0%
 
 ---
 
 # 이메일 전달성 파워 팩: 시드 목록을 가져오는 방법 {#email-deliverability-power-pack-how-to-import-a-seed-list}
 
-시드 목록은 Google 앱, Hotmail, Yahoo! 등을 비롯한 여러 사서함 공급자의 이메일 계정 목록으로, 스팸 폴더 전달률과 받은 편지함의 비율을 비교하는 데 사용됩니다. 다음은 Marketo 인스턴스로 해당 목록을 가져오는 방법입니다.
+시드 목록은 Google 앱, Hotmail, Yahoo! 등을 비롯한 여러 사서함 공급자의 이메일 계정 목록으로, 스팸 폴더 전달률과 받은 편지함의 비율을 비교하는 데 사용됩니다. 다음은 해당 목록을 Marketo Engage 인스턴스로 가져오는 단계입니다.
 
 >[!IMPORTANT]
 >
