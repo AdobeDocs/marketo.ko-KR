@@ -3,9 +3,9 @@ description: 현재 릴리스 정보 - Marketo 설명서 - 제품 설명서
 title: 최신 릴리스 정보
 exl-id: a2eccad5-73ad-48f9-8091-51cee23824e1
 feature: Release Information
-source-git-commit: acaf2b421ed65f74bedf18b121ce54e30c19c721
+source-git-commit: d65903d64d068a6f919df78258654414f3b76426
 workflow-type: tm+mt
-source-wordcount: '208'
+source-wordcount: '216'
 ht-degree: 4%
 
 ---
@@ -31,8 +31,8 @@ ht-degree: 4%
   </tr>
   <tr> 
    <td><strong>고급 대화 흐름 논리</strong>: 대화 흐름 후속 작업을 위해 단일 선택 사항에 평가를 위한 추가 필드를 추가합니다.</td> 
-   <td><i>곧 출시 예정</i></td>
-   <td><i>곧 출시 예정</i></td>
+   <td>배송됨</td>
+   <td><a href="/help/marketo/product-docs/demand-generation/dynamic-chat/automated-chat/conversational-flow-settings-for-marketo-engage-forms.md" target="_blank">Forms Marketo Engage에 대한 대화 흐름 설정</a></td>
   </tr>
    <tr> 
    <td> </td> 
@@ -42,8 +42,8 @@ ht-degree: 4%
    </tr>
     <tr> 
    <td><strong>대화형 흐름 논리 재정렬</strong>: 이제 Forms Marketo Engage에서 을 삭제하고 다시 추가하는 대신 대화 흐름 선택 사항을 재정렬할 수 있습니다.</td> 
-   <td><i>곧 출시 예정</i></td>
-   <td><i>곧 출시 예정</i></td>
+   <td>배송됨</td>
+   <td><a href="/help/marketo/product-docs/demand-generation/dynamic-chat/automated-chat/conversational-flow-settings-for-marketo-engage-forms.md" target="_blank">Forms Marketo Engage에 대한 대화 흐름 설정</a></td>
    </tr>
   <tr> 
    <td> </td> 

@@ -3,9 +3,9 @@ description: Forms Marketo Engage에 대한 대화 흐름 설정 - Marketo 문�
 title: Forms Marketo Engage에 대한 대화 흐름 설정
 feature: Dynamic Chat
 exl-id: 36d00862-4bb9-46fd-a5f8-69df7bf22ecf
-source-git-commit: f5f93a993d5b13c1fda0b31172393eff0bc65fd4
+source-git-commit: d65903d64d068a6f919df78258654414f3b76426
 workflow-type: tm+mt
-source-wordcount: '186'
+source-wordcount: '285'
 ht-degree: 0%
 
 ---
@@ -38,7 +38,7 @@ Marketo Engage Forms을 Dynamic Chat 대화 흐름과 통합하여 대화형으�
 
    ![](assets/conversational-flow-settings-5.png)
 
-1. 원하는 대화 흐름 및 게재 유형을 선택합니다.
+1. 원하는 을 선택합니다 **[!UICONTROL 대화 흐름]** 및 **[!UICONTROL 게재 유형]**.
 
    ![](assets/conversational-flow-settings-6.png)
 
@@ -46,14 +46,26 @@ Marketo Engage Forms을 Dynamic Chat 대화 흐름과 통합하여 대화형으�
    >
    >[대화 흐름에 대해 자세히 알아보기](/help/marketo/product-docs/demand-generation/dynamic-chat/automated-chat/conversational-flow-overview.md){target="_blank"}
 
-   **선택적 단계**: 선택 사항 추가 를 클릭하여 특정 기준을 충족하는 채팅 방문자를 타깃팅할 수 있습니다.
+   **선택적 단계**: 다음을 클릭할 수 있습니다. **[!UICONTROL 선택 항목 추가]** 특정 기준을 충족하는 채팅 방문자를 타깃팅하려면 다음을 수행하십시오. 총 10개의 선택 사항에 최대 9개까지 추가할 수 있습니다.
 
    ![](assets/conversational-flow-settings-7.png)
 
-   >[!IMPORTANT]
+   >[!NOTE]
    >
    >방문자의 브라우저는 Static/Smart List의 멤버 자격을 얻으려면 양식 제출 전에 알려진 사람으로서 쿠키여야 합니다.
 
-1. 클릭 **[!UICONTROL 완료]** 완료 시.
+   **선택적 단계**: 다음을 클릭합니다. **+** 각 단계 내에 서명하여 더 많은 속성을 추가함으로써 타겟팅된 대상자의 범위를 좁힐 수 있습니다(사용 가능한 속성은 양식에 대해 선택한 필드임). 이 예에서는 캘리포니아에 있는 Adobe 기술 문서 작성자를 타겟팅합니다.
 
    ![](assets/conversational-flow-settings-8.png)
+
+   >[!NOTE]
+   >
+   >기준 논리를 &quot;모두&quot;로 설정하면 모든 속성이 충족되어야 자격을 얻을 수 있습니다. 기준 로직이 &quot;any&quot;로 설정된 경우 속성 중 하나이면 충분합니다.
+
+   **선택적 단계**: 두 개 이상의 선택 항목을 추가하는 경우 위쪽/아래쪽 화살표를 클릭하여 선택 항목의 순서를 변경할 수 있습니다.
+
+   ![](assets/conversational-flow-settings-9.png)
+
+1. 클릭 **[!UICONTROL 완료]** 완료 시.
+
+   ![](assets/conversational-flow-settings-10.png)

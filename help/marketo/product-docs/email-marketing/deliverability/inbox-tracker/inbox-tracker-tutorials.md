@@ -1,18 +1,18 @@
 ---
-description: Marketo Engage 이메일 전달성 Powerpack을 사용하여 전달성 문제를 테스트, 모니터링 및 이해합니다.
+description: 받은 편지함 추적기를 사용하여 게재 기능 문제를 테스트, 모니터링 및 이해합니다.
 title: 받은 편지함 추적기 Tutorials
 feature: Deliverability
 exl-id: 23e2875d-e0ee-45a7-a79a-caa0b7310e55
-source-git-commit: 3cb7e5ddef8ec05a7cf8d65dd9f3bafa5dcb7da1
+source-git-commit: d65903d64d068a6f919df78258654414f3b76426
 workflow-type: tm+mt
-source-wordcount: '180'
+source-wordcount: '173'
 ht-degree: 0%
 
 ---
 
 # 받은 편지함 추적기 Tutorials {#inbox-tracker-tutorials}
 
-Bird(이전의 MessageBird) 받은 편지함 추적기 플랫폼에서 제공하는 Marketo Engage 이메일 게재 기능 Powerpack을 사용하여 게재 기능 문제를 테스트, 모니터링 및 이해합니다. Inbox Tracker는 프로그램의 인텔리전스와 이메일 렌더링/받은 편지함 테스트의 선견지명을 결합하여 이메일 성능을 극대화하는 단일 애플리케이션입니다.
+Bird(이전의 MessageBird) 받은 편지함 추적기 플랫폼에서 제공하는 이메일 게재 기능 도구를 사용하여 게재 기능 문제를 테스트, 모니터링 및 이해합니다. Inbox Tracker는 프로그램의 인텔리전스와 이메일 렌더링/받은 편지함 테스트의 선견지명을 결합하여 이메일 성능을 극대화하는 단일 애플리케이션입니다.
 
 >[!AVAILABILITY]
 >
