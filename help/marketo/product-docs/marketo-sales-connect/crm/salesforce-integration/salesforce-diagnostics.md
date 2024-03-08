@@ -4,9 +4,9 @@ description: Salesforce 진단 - Marketo 문서 - 제품 설명서
 title: Salesforce 진단
 exl-id: a2b5bd10-bc92-4fd4-bc1b-4e02b48c9d83
 feature: Marketo Sales Connect
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 9384d72b335a4b975b190816ea999ad067fddeda
 workflow-type: tm+mt
-source-wordcount: '1427'
+source-wordcount: '1354'
 ht-degree: 0%
 
 ---
@@ -154,7 +154,7 @@ Salesforce 통합의 일부에는 웹 애플리케이션 내의 Salesforce 진�
 
 **오류:** 잘못된 유형\
 **범주:** 액세스/유효성 검사\
-**메시지:** CreatedDate, (SELECT ID FROM Tasks) FROM Lead WHERE Email=&#39;emailid&#39;^ERROR AT Row:1:Column:53sObject type &#39;Lead&#39;는 지원되지 않습니다. 사용자 지정 개체를 사용하려는 경우 엔티티 이름 뒤에 &#39;__c&#39;를 추가해야 합니다. 적절한 이름에 대해 WSDL 또는 설명 호출을 참조하십시오.
+**메시지:** CreatedDate, (SELECT ID FROM Tasks) FROM Lead WHERE Email=&#39;emailid&#39;^ERROR `Row:1:Column:53sObject` &#39;잠재 고객&#39; 유형은 지원되지 않습니다. 사용자 지정 개체를 사용하려는 경우 엔티티 이름 뒤에 &#39;__c&#39;를 추가해야 합니다. 적절한 이름에 대해 WSDL 또는 설명 호출을 참조하십시오.
 **발생한 결과:** 사용자가 액세스할 수 없는 Salesforce에서 오브젝트 유형을 쿼리하려고 합니다. 이는 사용자가 잠재 고객 객체에 대한 올바른 액세스 권한을 가지고 있지 않은 것과 관련이 있을 수 있습니다.\
 **문제 해결 단계:** Salesforce의 잠재 고객 개체에 대한 읽기 및 업데이트 액세스 권한을 부여하거나 잠재 고객 레코드에 대한 이메일 로깅 및 가장 최근 활동 로깅을 해제합니다.
 
