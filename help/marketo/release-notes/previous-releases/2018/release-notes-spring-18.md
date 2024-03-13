@@ -4,9 +4,9 @@ description: 릴리스 노트 - 2018년 봄 - Marketo 문서 - 제품 설명서
 title: 릴리스 노트 - 2018년 봄
 exl-id: 59bab3a9-12b3-4c87-b035-a7cde63ada1e
 feature: Release Information
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 9725758f46fcabb96572d7ae14cedabc29b2ce60
 workflow-type: tm+mt
-source-wordcount: '480'
+source-wordcount: '466'
 ht-degree: 0%
 
 ---
@@ -76,10 +76,6 @@ Marketo Sky 오픈 Beta에 옵트인하여 다음을 포함한 100개 이상의 
 더 많은 보기, 클릭 수 또는 전환을 유도하려면 ContentAI 최적화 알고리즘의 목표를 설정하십시오.
 
 ## 통합 및 API {#integration-and-apis}
-
-[Facebook Workplace 통합](/help/marketo/product-docs/administration/additional-integrations/add-workplace-by-facebook-as-a-launchpoint-service.md)
-
-시스템 알림과 흥미로운 순간을 Facebook Workplace로 보냅니다.
 
 [정적 목록 API](https://developers.marketo.com/rest-api/assets/static-lists/)
 
