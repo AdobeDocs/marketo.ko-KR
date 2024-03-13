@@ -3,9 +3,9 @@ audience: end-user
 user-guide-title: Marketo 안내서
 user-guide-description: Marketo 제품 설명서
 feature-set: Marketo Engage
-source-git-commit: 56070990d8bcea61fbbf3b382e5abae786b2488e
+source-git-commit: abfdda5b42df9d01e1ad723c58fe6128048d4023
 workflow-type: tm+mt
-source-wordcount: '9288'
+source-wordcount: '9282'
 ht-degree: 0%
 
 ---
@@ -48,6 +48,7 @@ ht-degree: 0%
    + TEMP 시작 영역 {#temp-getting-started-area}
       + [관리자](getting-started/temp-getting-started-area/admin.md)
       + [데이터베이스](getting-started/temp-getting-started-area/database.md)
+      + [마케팅 활동](getting-started/temp-getting-started-area/marketing-activities.md)
 + 제품 문서 {#product-docs}
    + 추가 앱 {#additional-apps}
       + SEO {#seo}
@@ -108,7 +109,6 @@ ht-degree: 0%
          + [차세대 Munchkin 추적 FAQ](product-docs/administration/additional-integrations/add-munchkin-tracking-code-to-your-website/next-generation-munchkin-tracking-faq.md)
          + [포털에 SSO(Single Sign-On) 추가](product-docs/administration/additional-integrations/add-single-sign-on-to-a-portal.md)
          + [Webex를 LaunchPoint 서비스로 추가](product-docs/administration/additional-integrations/add-webex-as-a-launchpoint-service.md)
-         + [facebook as a LaunchPoint Service의 작업 공간 추가](product-docs/administration/additional-integrations/add-workplace-by-facebook-as-a-launchpoint-service.md)
          + [LaunchPoint 서비스로 확대/축소 추가](product-docs/administration/additional-integrations/add-zoom-as-a-launchpoint-service.md)
          + [SOAP API 설정 구성](product-docs/administration/additional-integrations/configuring-your-soap-api-settings.md)
          + [Marketo에 BrightTALK 연결](product-docs/administration/additional-integrations/connect-brighttalk-to-marketo.md)
