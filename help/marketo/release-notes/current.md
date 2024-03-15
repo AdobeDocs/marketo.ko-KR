@@ -3,10 +3,10 @@ description: 현재 릴리스 정보 - Marketo 설명서 - 제품 설명서
 title: 최신 릴리스 정보
 exl-id: a2eccad5-73ad-48f9-8091-51cee23824e1
 feature: Release Information
-source-git-commit: d65903d64d068a6f919df78258654414f3b76426
+source-git-commit: 99c38fd24631e94a9554bf09de11e8eb607150d6
 workflow-type: tm+mt
-source-wordcount: '216'
-ht-degree: 4%
+source-wordcount: '296'
+ht-degree: 3%
 
 ---
 
@@ -60,5 +60,7 @@ ht-degree: 4%
 <br/>
 
 ## 공지 {#announcements}
+
+* **프로그램 구성원 API 수정 가져오기**: 최근에 의 동작을 수정하기 위해 변경되었습니다. [프로그램 구성원 가져오기](https://developers.marketo.com/rest-api/endpoint-reference/lead-database-endpoint-reference/#!/Program_Members/getProgramMembersUsingGET){target="_blank"} 엔드포인트. 이전에는 updatedAt 필터 유형을 활용하여 날짜 범위를 지정할 때 해당 범위 내에서 업데이트된 프로그램 멤버십 레코드가 응답에 포함되지 않았을 수 있었습니다. 또한 지정된 날짜 범위 외에 업데이트된 프로그램 멤버십 레코드가 응답에 잘못 포함될 가능성이 있었습니다. 두 문제가 모두 해결되었습니다.
 
 * **계정 통찰력 브라우저 플러그인 사용 중단**: Adobe이 Target 계정 관리를 제거하는 중입니다. [계정 통찰력 브라우저 플러그인](/help/marketo/product-docs/target-account-management/setup-tam/account-insight-plug-in-overview.md){target="_blank"} from the Chrome Web Store on March 18, 2024. Existing users: you can continue to use the plug-in until you migrate your Marketo Engage instance to Adobe Identity and Admin Console. This change **will not impact** any other TAM features/data within Marketo Engage or the Chrome and Outlook email plug-ins that work with Sales Insight. [Learn more](https://nation.marketo.com/t5/product-blogs/marketo-engage-account-insights-browser-plug-in-end-of-life/ba-p/344834){target="_blank"}.
