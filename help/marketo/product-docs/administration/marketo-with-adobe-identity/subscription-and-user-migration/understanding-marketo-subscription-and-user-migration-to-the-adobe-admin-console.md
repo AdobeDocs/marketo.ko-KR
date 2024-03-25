@@ -3,9 +3,9 @@ description: Marketo 구독 및 Adobe Admin Console으로의 사용자 마이그
 title: Marketo 구독 및 Adobe Admin Console으로의 사용자 마이그레이션 이해
 exl-id: 91e7b56b-2563-4986-a55c-f9760ea88b05
 feature: Marketo with Adobe Identity
-source-git-commit: 179fe78c35c04617df47b61d88322f82feab746a
+source-git-commit: d32189021024da48dd8a333f80398cf0d92a4f66
 workflow-type: tm+mt
-source-wordcount: '1323'
+source-wordcount: '1327'
 ht-degree: 0%
 
 ---
@@ -14,7 +14,9 @@ ht-degree: 0%
 
 Adobe은 Adobe Marketo Engage 구독 및 사용자를 관리하는 방법을 향상시켜 귀사와 조직에 향상된 생산성을 제공합니다. 이 변경의 일부로 Adobe은 Marketo Engage 구독과 사용자를 Adobe Admin Console으로 마이그레이션하고 있습니다. 이는 필요한 마이그레이션이며 마케팅 워크플로우, 콘텐츠, 통합 또는 자산에는 영향을 주지 않습니다.
 
-Adobe Admin Console을 사용하여 를 통해 전체 조직에서 Adobe 권한을 관리하는 방법을 알아봅니다. [Enterprise 및 Teams 관리 안내서](https://helpx.adobe.com/kr/enterprise/admin-guide.html){target="_blank"}.
+>[!TIP]
+>
+>Adobe Admin Console을 사용하여 를 통해 전체 조직에서 Adobe 권한을 관리하는 방법을 알아봅니다. [Enterprise 및 Teams 관리 안내서](https://helpx.adobe.com/kr/enterprise/admin-guide.html){target="_blank"}.
 
 ## 변경 사항 {#what-is-changing}
 
@@ -26,11 +28,15 @@ Adobe Admin Console을 사용하여 를 통해 전체 조직에서 Adobe 권한�
 
 * **사용자가 Adobe ID로 로그인합니다.**. Adobe은 기존 사용자를 Adobe Admin Console으로 마이그레이션합니다. 사용자는 새로운 Adobe ID(Adobe ID 또는 Adobe Federated ID(SSO))를 사용하여 Marketo 구독에 로그인합니다.
 
+## 변경되지 않는 것은 무엇입니까? {#what-is-not-changing}
+
 * **다른 모든 기능을 관리하는 방법에는 변경 사항이 없습니다** 기능, 사용자 역할, 작업 공간, 기능 및 비헤이비어 관리를 포함하여 Marketo Engage 애플리케이션 자체 내에서.
 
 ## 마이그레이션 여정 타임라인 {#migration-journey-timeline}
 
 Adobe은 먼저 Marketo Engage 구독을 Adobe Admin Console으로 마이그레이션한 다음 확인된 이메일 주소가 있는 기존 사용자를 모두 마이그레이션합니다. 시스템 관리자 또는 Marketo 제품 관리자인 경우 마이그레이션 여정을 안내하는 이메일을 받게 됩니다. 다음은 예상할 수 있는 작업의 타임라인입니다.
+
+![](assets/understanding-marketo-subscription-and-user-migration-1.png)
 
 ### 구독 마이그레이션 완료 {#subscription-migration-complete}
 
