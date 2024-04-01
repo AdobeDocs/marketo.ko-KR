@@ -4,7 +4,7 @@ title: 새 AREA DESIGN STUDIO
 hide: true
 hidefromtoc: true
 feature: Getting Started
-source-git-commit: d32189021024da48dd8a333f80398cf0d92a4f66
+source-git-commit: 433aae54a012e6bbf04c90056d8815a88e76498c
 workflow-type: tm+mt
 source-wordcount: '306'
 ht-degree: 4%
@@ -141,7 +141,7 @@ ht-degree: 4%
 <tbody>
   <tr>
     <td>폴더 구조</td>
-    <td><li>각 에셋 유형에 대한 하위 폴더 만들기 및 <a href="https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/demand-generation/images-and-files/organize-your-images-and-files-using-folders" target="_blank" rel="noopener noreferrer">글로벌 에셋 구성</a>(즉, 이메일 템플릿, 이메일, 양식, 이미지 및 파일, 랜딩 페이지 및 랜딩 페이지 템플릿) 적절하고 검색하기 쉽습니다.</li></td>
+    <td><li>각 에셋 유형에 대한 하위 폴더 만들기 및 <a href="https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/demand-generation/images-and-files/organize-your-images-and-files-using-folders" target="_blank" rel="noopener noreferrer">글로벌 에셋 구성</a> (즉, 이메일 템플릿, 이메일, 양식, 이미지 및 파일, 랜딩 페이지 및 랜딩 페이지 템플릿) 적절하고 검색하기 쉽습니다.</li></td>
     <td><a href="https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/demand-generation/images-and-files/organize-your-images-and-files-using-folders" target="_blank" rel="noopener noreferrer">폴더를 사용하여 이미지 및 파일 구성</a></td>
   </tr>
 </tbody>

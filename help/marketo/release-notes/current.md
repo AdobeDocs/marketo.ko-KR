@@ -3,10 +3,10 @@ description: 현재 릴리스 정보 - Marketo 설명서 - 제품 설명서
 title: 최신 릴리스 정보
 exl-id: a2eccad5-73ad-48f9-8091-51cee23824e1
 feature: Release Information
-source-git-commit: c7359cc95a3e90f228353dc3d21c92712f9d5684
+source-git-commit: 433aae54a012e6bbf04c90056d8815a88e76498c
 workflow-type: tm+mt
-source-wordcount: '271'
-ht-degree: 3%
+source-wordcount: '380'
+ht-degree: 2%
 
 ---
 
@@ -68,3 +68,70 @@ ht-degree: 3%
  </tbody> 
 </table>
 <br/>
+
+## 공지 {#announcements}
+
+* **활동 API 업데이트**: 4월 26일부터 를 사용하여 활동을 검색할 때 반환되는 웹 기반 및 이메일 기반 활동에 몇 가지 새로운 속성을 추가합니다. [MARKETO REST API](https://developers.marketo.com/rest-api/lead-database/activities/){target="_blank"}. The activities listed below will now include Browser, Platform, Device, and User Agent attributes. Call the [Get Activity Types](https://developers.marketo.com/rest-api/endpoint-reference/lead-database-endpoint-reference/#!/Activities/getAllActivityTypesUsingGET){target="_blank"} 각 활동에 대한 속성 세부 사항을 검토할 종단점입니다.
+
+**웹 기반 활동**
+
+<table style="table-layout:auto"> 
+ <tbody> 
+  <tr> 
+   <th style="width:30%">활동</th> 
+   <th style="width:70%">새로 추가된 속성</th>
+   </tr>
+  <tr> 
+   <td>웹 페이지 방문</td> 
+   <td>브라우저, 플랫폼, 장치</td>
+  </tr>
+   <tr> 
+   <td>양식 작성</td> 
+   <td>브라우저, 플랫폼, 장치</td>
+  </tr>
+  <tr> 
+   <td>링크 클릭</td> 
+   <td>브라우저, 플랫폼, 장치</td>
+  </tr>
+ </tbody> 
+</table>
+
+**이메일 기반 활동**
+
+<table style="table-layout:auto"> 
+ <tbody> 
+  <tr> 
+   <th style="width:30%">활동</th> 
+   <th style="width:70%">새로 추가된 속성</th>
+  </tr>
+   <tr> 
+   <td>이메일 보내기</td> 
+   <td>브라우저, 플랫폼, 장치, 사용자 에이전트</td>
+  </tr>
+   </tr>
+  <tr> 
+   <td>이메일 전달됨</td> 
+   <td>브라우저, 플랫폼, 장치, 사용자 에이전트</td>
+  </tr>
+   <tr> 
+   <td>반송된 이메일</td> 
+   <td>브라우저, 플랫폼, 장치, 사용자 에이전트</td>
+  </tr>
+  <tr> 
+   <td>이메일 구독 취소</td> 
+   <td>브라우저, 플랫폼, 장치</td>
+  </tr>
+  <tr> 
+   <td>이메일 열기</td> 
+   <td>브라우저</td>
+  </tr>
+   <tr> 
+   <td>이메일 클릭</td> 
+   <td>브라우저</td>
+  </tr>
+  <tr> 
+   <td>가볍게 반송된 이메일</td> 
+   <td>브라우저, 플랫폼, 장치, 사용자 에이전트</td>
+  </tr>
+ </tbody> 
+</table>
