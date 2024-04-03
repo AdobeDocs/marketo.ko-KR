@@ -3,9 +3,9 @@ description: 스트림 디자이너 - Marketo 문서 - 제품 설명서
 title: 스트림 디자이너
 feature: Dynamic Chat
 exl-id: 310b1dff-dd93-48a6-85c2-64c58494ce48
-source-git-commit: 8fb15ae509820fcfcb07c2b4a34b32f6724fe649
+source-git-commit: b31ea2f84b2ac5eb0b6fd0122d8ebadfc451b3a0
 workflow-type: tm+mt
-source-wordcount: '1126'
+source-wordcount: '1128'
 ht-degree: 1%
 
 ---
@@ -156,7 +156,7 @@ ht-degree: 1%
 
    ![](assets/stream-designer-17.png)
 
-1. 챗봇 메시지 및 자리 표시자를 입력합니다. 속성이 Marketo의 적절한 필드에 매핑되어 있는지 확인하고 **[!UICONTROL 저장]**.
+1. 챗봇 메시지 및 자리 표시자를 입력합니다. 속성이 Marketo Engage의 적절한 필드에 매핑되어 있는지 확인하고 **[!UICONTROL 저장]**.
 
    ![](assets/stream-designer-18.png)
 
@@ -175,7 +175,7 @@ ht-degree: 1%
     </tr>
     <tr>
      <td style="width:30%"><strong>속성에 대한 응답 매핑</strong></td>
-     <td>Marketo 구독에서 방문자의 응답을 개인 레코드의 해당 필드에 동기화할 수 있습니다.</td>
+     <td>Marketo Engage 구독에서 방문자의 응답을 개인 레코드의 해당 필드에 동기화할 수 있습니다.</td>
     </tr>
    </table>
 
