@@ -3,9 +3,9 @@ description: 작업 데이터 동기화 FAQ - Marketo 문서 - 제품 설명서
 title: 작업 데이터 동기화 FAQ
 feature: Sales Insight Actions
 exl-id: bb213d50-be22-492d-b74c-b8cfb834b2ca
-source-git-commit: 7ee5e8e3a32de5d4ff4022361f0d23d1d828ef74
+source-git-commit: 26173379c89393596b3ece18c7f7e945a79588d9
 workflow-type: tm+mt
-source-wordcount: '1050'
+source-wordcount: '1054'
 ht-degree: 1%
 
 ---
@@ -122,3 +122,4 @@ Sales Insight Actions 을 사용하면 관리자가 Salesforce에 기록할 영�
 >* [Salesforce 동기화 설정](/help/marketo/product-docs/marketo-sales-insight/actions/crm/salesforce-integration/salesforce-sync-settings.md)
 >* [Salesforce와의 미리 알림 작업 동기화](/help/marketo/product-docs/marketo-sales-insight/actions/tasks/reminder-task-sync-with-salesforce.md)
 >* [데이터 동기화 시작](/help/marketo/product-docs/marketo-sales-insight/actions/getting-started/sales-insight-actions-admin-setup-guide.md#initiate-data-sync)
+
