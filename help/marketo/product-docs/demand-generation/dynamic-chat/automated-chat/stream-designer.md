@@ -3,7 +3,7 @@ description: 스트림 디자이너 - Marketo 문서 - 제품 설명서
 title: 스트림 디자이너
 feature: Dynamic Chat
 exl-id: 310b1dff-dd93-48a6-85c2-64c58494ce48
-source-git-commit: e2914b37e4557ad20007884f0a17ca88ef85491b
+source-git-commit: 04a993ecd700c5aa9b11a5347cf77d8a9c2e6091
 workflow-type: tm+mt
 source-wordcount: '1128'
 ht-degree: 1%
@@ -51,7 +51,7 @@ ht-degree: 1%
  <tr>
   <td style="width:25%"><strong>작업*</strong></td>
   <td>양식의 숨겨진 필드와 유사하며 작업 카드로 잠재 고객 또는 회사 속성(이 있는 경우 <a href="/help/marketo/product-docs/administration/field-management/custom-field-type-glossary.md#string">문자열 데이터 형식</a>잠재 고객 레코드와 비교하여 캡처할 암시적 값이 있는 대화의 어느 시점에서든 작업 카드를 추가하고 각 속성을 값 또는 해당 값을 자동으로 채우는 기본 토큰으로 업데이트할 수 있습니다.
-  <p>* <i>작업 카드에는 Dynamic Chat Prime이 필요합니다. 자세한 내용은 Adobe 계정 팀(계정 관리자)에 문의하십시오.</i></td>
+  <p><i>* 작업 카드에는 Dynamic Chat Prime이 필요합니다. 자세한 내용은 Adobe 계정 팀(계정 관리자)에 문의하십시오.</i></td>
  </tr>
  <tr>
   <td style="width:25%"><strong>라이브 채팅</strong></td>
