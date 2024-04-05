@@ -3,7 +3,7 @@ description: 스트림 디자이너 - Marketo 문서 - 제품 설명서
 title: 스트림 디자이너
 feature: Dynamic Chat
 exl-id: 310b1dff-dd93-48a6-85c2-64c58494ce48
-source-git-commit: b31ea2f84b2ac5eb0b6fd0122d8ebadfc451b3a0
+source-git-commit: e2914b37e4557ad20007884f0a17ca88ef85491b
 workflow-type: tm+mt
 source-wordcount: '1128'
 ht-degree: 1%
@@ -49,9 +49,9 @@ ht-degree: 1%
   <td>방문자가 볼 수 없는 유일한 카드입니다. 특정 채팅 내에서 어느 시점에 목표가 달성되었는지 확인하는 것입니다(예: 방문자의 이메일을 수집하는 것이 본인의 목표인 경우 스트림에서 정보 캡처 바로 뒤에 목표 카드를 놓으십시오).</td>
  </tr>
  <tr>
-  <td style="width:25%"><strong>액션</strong></td>
+  <td style="width:25%"><strong>작업*</strong></td>
   <td>양식의 숨겨진 필드와 유사하며 작업 카드로 잠재 고객 또는 회사 속성(이 있는 경우 <a href="/help/marketo/product-docs/administration/field-management/custom-field-type-glossary.md#string">문자열 데이터 형식</a>잠재 고객 레코드와 비교하여 캡처할 암시적 값이 있는 대화의 어느 시점에서든 작업 카드를 추가하고 각 속성을 값 또는 해당 값을 자동으로 채우는 기본 토큰으로 업데이트할 수 있습니다.
-  <p><i>작업 카드에는 Dynamic Chat Prime이 필요합니다. 자세한 내용은 Adobe 계정 팀(계정 관리자)에 문의하십시오.</i></td>
+  <p>* <i>작업 카드에는 Dynamic Chat Prime이 필요합니다. 자세한 내용은 Adobe 계정 팀(계정 관리자)에 문의하십시오.</i></td>
  </tr>
  <tr>
   <td style="width:25%"><strong>라이브 채팅</strong></td>
