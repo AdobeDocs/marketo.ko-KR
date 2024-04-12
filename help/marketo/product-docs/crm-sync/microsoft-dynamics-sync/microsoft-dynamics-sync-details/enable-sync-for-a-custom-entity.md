@@ -4,9 +4,9 @@ description: 사용자 지정 엔터티에 대해 동기화 활성화 - Marketo 
 title: 사용자 지정 엔터티에 대해 동기화 활성화
 exl-id: 4b075bf3-f10b-4725-8c8e-a6ecee63d756
 feature: Microsoft Dynamics
-source-git-commit: 28d8dc35b3f265728c31516e3082fd55a83a045f
+source-git-commit: d522950af40c5e3e702a6522101ebe9550432be5
 workflow-type: tm+mt
-source-wordcount: '224'
+source-wordcount: '222'
 ht-degree: 0%
 
 ---
