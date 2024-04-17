@@ -3,9 +3,9 @@ description: 대화형 웨비나 개요 - Marketo 문서 - 제품 설명서
 title: 대화형 웨비나 개요
 exl-id: c454f0a5-c9c6-48a4-8bbf-e1b10dc00eec
 feature: Interactive Webinars
-source-git-commit: b5fb106126e52a8d759e560d21e525e21154a4d6
+source-git-commit: 60532106a220ff249c0fdbe52387e8f81bda12cb
 workflow-type: tm+mt
-source-wordcount: '421'
+source-wordcount: '454'
 ht-degree: 0%
 
 ---
@@ -30,7 +30,7 @@ ht-degree: 0%
 
 **대화형 웨비나를 사용하려면 별도의 구독이 필요합니까?**
 
-아니요. 대화형 웨비나를 사용하려면 활성 Marketo Engage 구독만 필요합니다.
+아니. 대화형 웨비나를 사용하려면 활성 Marketo Engage 구독만 필요합니다.
 
 **대화형 웨비나에 사용할 수 있는 언어는 무엇입니까?**
 
@@ -47,6 +47,10 @@ ht-degree: 0%
 **Adobe Connect에서 제공하는 웨비나를 Launchpoint 이벤트 프로그램과 같은 대화형 웨비나 이벤트 프로그램에 다시 연결해야 합니까?**
 
 아니요. 대화형 웨비나 이벤트 프로그램을 사용하면 쉽게 연결할 수 있습니다.
+
+**내 잠재 고객 중 일부에 &quot;등록됨&quot; 대신 &quot;등록 오류&quot; 상태가 있는 이유는 무엇입니까?**
+
+잠재 고객의 &quot;이름&quot; 필드가 비어 있는 경우 웨비나에 등록할 수 없습니다. 올바른 이름을 입력하여 이 문제를 해결할 수 있습니다.
 
 **대화형 웨비나는 자동으로 기록됩니까?**
 
