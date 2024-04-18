@@ -3,10 +3,10 @@ description: 현재 릴리스 정보 - Marketo 설명서 - 제품 설명서
 title: 최신 릴리스 정보
 exl-id: a2eccad5-73ad-48f9-8091-51cee23824e1
 feature: Release Information
-source-git-commit: 433aae54a012e6bbf04c90056d8815a88e76498c
+source-git-commit: 9f442b64f2e6d012207f79d06298583655db86b7
 workflow-type: tm+mt
-source-wordcount: '380'
-ht-degree: 2%
+source-wordcount: '356'
+ht-degree: 3%
 
 ---
 
@@ -29,17 +29,6 @@ ht-degree: 2%
    <th style="width:10%">상태</th>
    <th style="width:25%">설명서</th>
   </tr>
-   <tr> 
-   <td><strong>대화형 웨비나용 템플릿</strong>: 조직에 적합한 사양으로 브랜딩된 룸 레이아웃에 대한 사용자 정의 템플릿을 생성하여 시간을 절약할 수 있습니다.</td> 
-   <td><i>곧 출시 예정</i></td>
-   <td><i>곧 출시 예정</i></td>
-  </tr>
-   <tr> 
-   <td> </td> 
-   <td> </td>
-   <td> </td>
-  </tr>
-   </tr>
      <tr> 
    <td><strong>대화형 웨비나 개선 사항</strong>: 이제 호스트 및 발표자에게 웨비나 제목을 추가하고, 회의실 이름을 바꾸고, 이벤트 게재 후 참여 데이터를 수동으로 동기화할 수 있는 기능을 제공할 수 있습니다.</td> 
    <td><i>곧 출시 예정</i></td>

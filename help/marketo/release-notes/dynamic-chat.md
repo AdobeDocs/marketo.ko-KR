@@ -5,7 +5,7 @@ hide: true
 hidefromtoc: true
 feature: Release Information, Dynamic Chat
 exl-id: 0447dc47-b9c5-42e1-8f66-73bf67c7871d
-source-git-commit: 14ccfe39059b9c900a5e5e00b082146bb500d79d
+source-git-commit: 9f442b64f2e6d012207f79d06298583655db86b7
 workflow-type: tm+mt
 source-wordcount: '1203'
 ht-degree: 0%
@@ -20,7 +20,7 @@ Marketo Engage을 위한 표준 릴리스 노트 페이지 [은(는) 여기에�
 
 ## 2024년 4월 릴리스 {#april-release}
 
-**릴리스 날짜: 2024년 4월 16일**
+**릴리스 날짜: 2024년 4월 22일**
 
 ### 이제 모든 사용자가 대화 흐름을 사용할 수 있습니다. {#conversational-flows-available-to-all-users}
 
