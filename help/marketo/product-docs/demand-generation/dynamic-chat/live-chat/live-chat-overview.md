@@ -3,9 +3,9 @@ description: 라이브 채팅 개요 - Marketo 문서 - 제품 설명서
 title: 라이브 채팅 개요
 feature: Dynamic Chat
 exl-id: 44e8b249-b534-4cec-a612-daa184acd266
-source-git-commit: 56070990d8bcea61fbbf3b382e5abae786b2488e
+source-git-commit: 14ccfe39059b9c900a5e5e00b082146bb500d79d
 workflow-type: tm+mt
-source-wordcount: '650'
+source-wordcount: '645'
 ht-degree: 0%
 
 ---
@@ -16,7 +16,7 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->대화 흐름 및 라이브 채팅은 Dynamic Chat 선택 패키지에 있는 참여자의 전체 라이프타임 제한이 100개인 공유 체험판 기능입니다. 이 한도에 도달하면 게시된 모든 대화 흐름이 트리거를 중지하고 라이브 에이전트와의 채팅을 요청하는 방문자에게 글로벌 대체 메시지를 수신합니다. 이 제한을 늘리려면 계정 담당자에게 문의하여 패키지 업그레이드 옵션에 대해 논의하십시오.
+>Dynamic Chat 선택 패키지에 있는 사용자의 경우, 라이브 채팅은 100회 참여 수명 제한이 있는 체험판 기능입니다. 이 한도에 도달하면 라이브 에이전트와의 채팅을 요청하는 방문자는 연결되지 않고 대신 글로벌 대체 메시지를 받게 됩니다. 한도를 높이려면 Adobe 계정 담당자에게 문의하여 패키지 업그레이드 옵션에 대해 논의하십시오.
 
 ## 라이브 채팅 에이전트 추가 {#add-live-chat-agents}
 

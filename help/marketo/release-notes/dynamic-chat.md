@@ -5,9 +5,9 @@ hide: true
 hidefromtoc: true
 feature: Release Information, Dynamic Chat
 exl-id: 0447dc47-b9c5-42e1-8f66-73bf67c7871d
-source-git-commit: e2fcd5587df8776a07b092cd03f081a88480353e
+source-git-commit: 14ccfe39059b9c900a5e5e00b082146bb500d79d
 workflow-type: tm+mt
-source-wordcount: '1193'
+source-wordcount: '1203'
 ht-degree: 0%
 
 ---
@@ -22,11 +22,11 @@ Marketo Engage을 위한 표준 릴리스 노트 페이지 [은(는) 여기에�
 
 **릴리스 날짜: 2024년 4월 16일**
 
-### 이제 선택 패키지의 사용자가 대화형 흐름을 사용할 수 있습니다. {#conversational-flows-select-package}
+### 이제 모든 사용자가 대화 흐름을 사용할 수 있습니다. {#conversational-flows-available-to-all-users}
 
-작년에 대화형 플로우를 릴리스했을 때 Dynamic Chat 선택 패키지의 사용자는 100개의 라이프타임 참여 평가판으로만 기능을 활용할 수 있었습니다. 이제 Select 패키지의 모든 사용자가 대화형 흐름을 완전히 사용할 수 있습니다.
+이제 Conversational Forms을 사용한 양식 제출 직후 자격 있는 잠재 고객이 영업 팀과 미팅을 예약하거나 채팅을 예약할 수 있도록 하여 양식 및 랜딩 페이지를 보다 대화형으로 만들 수 있습니다.&#42; 모든 Dynamic Chat 사용자용.
 
-대화 흐름 참여는 Select 패키지에서 사용자의 참여 대화 월별 제한인 250개에 포함됩니다.
+_&#42;이전에는 100개의 라이프타임 참여와 함께 체험판 기능으로 사용할 수 있었습니다. 이제 대화 흐름 참여는 Select 패키지에서 사용자에 대해 250개의 참여 대화를 월별 한도로 계산합니다._
 
 ### 콜백 함수 {#callback-functions}
 
