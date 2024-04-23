@@ -4,7 +4,7 @@ description: 스마트 캠페인을 위한 스마트 목록 정의 | 트리거 -
 title: 스마트 캠페인을 위한 스마트 목록 정의 | 트리거
 exl-id: 14d9b15e-864a-47ef-8f39-3d65e6036a82
 feature: Smart Campaigns
-source-git-commit: a9d902bf40e6193838a931ecb96a080bae098d68
+source-git-commit: c3aa1a29b084cb1c1add9d22cdbfc23bdcf7512b
 workflow-type: tm+mt
 source-wordcount: '253'
 ht-degree: 0%

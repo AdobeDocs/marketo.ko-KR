@@ -4,7 +4,7 @@ description: 스마트 캠페인을 위한 스마트 목록 정의 | 일괄 처�
 title: 스마트 캠페인을 위한 스마트 목록 정의 | 일괄 처리
 exl-id: 0e0061a9-df24-4cf6-8f1e-09ff0ee62efa
 feature: Smart Campaigns
-source-git-commit: a9d902bf40e6193838a931ecb96a080bae098d68
+source-git-commit: c3aa1a29b084cb1c1add9d22cdbfc23bdcf7512b
 workflow-type: tm+mt
 source-wordcount: '275'
 ht-degree: 0%
