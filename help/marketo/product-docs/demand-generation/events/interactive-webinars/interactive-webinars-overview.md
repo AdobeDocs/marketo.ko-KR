@@ -3,7 +3,7 @@ description: 대화형 웨비나 개요 - Marketo 문서 - 제품 설명서
 title: 대화형 웨비나 개요
 exl-id: c454f0a5-c9c6-48a4-8bbf-e1b10dc00eec
 feature: Interactive Webinars
-source-git-commit: a92ad77514a827e7a227d0548ab75a6a65831220
+source-git-commit: 7f90ff09fbab7bc1559ce75b213cb86bd3cd25f4
 workflow-type: tm+mt
 source-wordcount: '517'
 ht-degree: 0%
@@ -52,7 +52,7 @@ ht-degree: 0%
 
 잠재 고객의 &quot;이름&quot; 필드가 비어 있는 경우 웨비나에 등록할 수 없습니다. 올바른 이름을 입력하여 이 문제를 해결할 수 있습니다.
 
-**조직의 VPN에 액세스하는 동안 웨비나를 표시하는 동안 오디오/비디오 문제가 발생했습니다. 어떻게 해야 합니까?**
+**조직의 VPN에 액세스하는 동안 웨비나를 표시할 때 오디오/비디오 문제가 발생합니다. 어떻게 해야 합니까?**
 
 대화형 웨비나의 게재 플랫폼인 Adobe Connect은 오디오/비디오/화면 공유에 WebRTC를 사용합니다. 조직의 네트워크 방화벽이 WebRTC 기반 통신에 사용하는 IP 주소/포트를 차단하고 있을 수 있습니다. WebRTC가 작동하려면 IT 팀이 이러한 포트를 허용해야 합니다. [자세히 알아보기](https://helpx.adobe.com/in/adobe-connect/firewall-proxy-server-configuration-adobe-connect.html){target="_blank"}.
 

@@ -3,9 +3,9 @@ description: 이벤트 워크플로 - Marketo 문서 - 제품 설명서
 title: 이벤트 워크플로
 exl-id: c9f44d9f-9210-4303-a9b5-22be1376efc4
 feature: Interactive Webinars
-source-git-commit: b5fb106126e52a8d759e560d21e525e21154a4d6
+source-git-commit: 7f90ff09fbab7bc1559ce75b213cb86bd3cd25f4
 workflow-type: tm+mt
-source-wordcount: '333'
+source-wordcount: '401'
 ht-degree: 0%
 
 ---
@@ -19,6 +19,10 @@ ht-degree: 0%
 >[!NOTE]
 >
 >웨비나가 완료되지 않았거나 어떤 이유로든 데이터를 받지 않은 경우 대시보드 탭을 아직 사용할 수 없습니다.
+
+## 수동 동기화 {#manual-sync}
+
+대화형 웨비나를 사용하면 웨비나 완료 후 2시간 내에 웨비나를 자동으로 수신하지 않은 경우 Adobe Connect에서 웨비나의 참여 데이터를 획득할 수 있습니다. 개요 페이지에 &quot;지금 동기화&quot; 단추가 나타납니다. 클릭 **지금 동기화** Adobe Connect에서 가져오기를 트리거하여 Marketo Engage의 데이터를 채웁니다. 동기화가 수행되면 버튼이 사라지고 대시보드 탭이 채워집니다.
 
 ## 대시보드 위젯 {#dashboard-widgets}
 

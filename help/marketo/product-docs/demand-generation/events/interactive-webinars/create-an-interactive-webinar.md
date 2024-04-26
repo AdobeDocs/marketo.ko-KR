@@ -3,9 +3,9 @@ description: 대화형 웨비나 만들기 - Marketo 문서 - 제품 설명서
 title: 대화형 웨비나 만들기
 exl-id: 91fdede6-2e5a-4895-9893-852d0441aa2a
 feature: Interactive Webinars
-source-git-commit: 1e5e5a64e2524a65e0f7c75cd87ac2765a5e69e3
+source-git-commit: 7f90ff09fbab7bc1559ce75b213cb86bd3cd25f4
 workflow-type: tm+mt
-source-wordcount: '158'
+source-wordcount: '223'
 ht-degree: 0%
 
 ---
@@ -42,16 +42,26 @@ ht-degree: 0%
    >
    >파트너 웨비나에 대한 정보는 여기에서 확인할 수 있습니다.
 
-1. 웨비나의 최대 대상 크기와 지속 시간을 설정합니다.
+1. 웨비나에 제목을 지정합니다. 최대 대상자 크기 및 지속 시간을 설정합니다.
 
    ![](assets/create-an-interactive-webinar-6.png)
+
+   >[!NOTE]
+   >
+   >* 웨비나 제목은 참여자가 참여하면 볼 수 있다. 제목이 웨비나 룸 이름뿐만 아니라 Marketo Engage 인스턴스에 있는 대화형 웨비나 이벤트 프로그램의 이름과 다른 것이 중요합니다.
+   >
+   >* 웨비나 제목은 재사용할 수 없습니다. 각 인스턴스는 Marketo 인스턴스에서 고유해야 합니다.
+   >
+   >* 원하는 경우 이후 단계에서 웨비나 제목을 변경할 수 있습니다.
 
 1. 웨비나 날짜/시간을 예약하고 **만들기**.
 
    ![](assets/create-an-interactive-webinar-7.png)
 
-대화형 웨비나가 만들어집니다. [발표자 및/또는 공동 호스트를 추가하는 방법 알아보기](/help/marketo/product-docs/demand-generation/events/interactive-webinars/add-a-webinar-team.md){target="_blank"}.
-
-<br>
+<p>
 
 자, 이제 [웨비나 디자인](/help/marketo/product-docs/demand-generation/events/interactive-webinars/designing-interactive-webinars.md){target="_blank"}.
+
+>[!MORELIKETHIS]
+>
+>[발표자 및/또는 공동 호스트를 추가하는 방법 알아보기](/help/marketo/product-docs/demand-generation/events/interactive-webinars/add-a-webinar-team.md){target="_blank"}

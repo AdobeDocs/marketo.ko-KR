@@ -2,10 +2,10 @@
 description: 대화형 웨비나 홍보 - Marketo 문서 - 제품 설명서
 title: 대화형 웨비나 홍보
 feature: Interactive Webinars
-exl-id: 1f0777fe-fded-4629-b074-9a1ec94ba996
-source-git-commit: 38274b4859ae38c018ee73d4f1715fdf6a78e815
+exl-id: d26f91ce-3a95-4247-9a52-085260bb15e8
+source-git-commit: 7f90ff09fbab7bc1559ce75b213cb86bd3cd25f4
 workflow-type: tm+mt
-source-wordcount: '496'
+source-wordcount: '563'
 ht-degree: 0%
 
 ---
@@ -35,3 +35,5 @@ ht-degree: 0%
 링크는 이벤트 프로그램의 개요 탭 오른쪽에 있어 랜딩 페이지와 이메일 캠페인을 만들 수 있습니다. 이벤트와 관련된 나머지 프로모션은 Launchpoint 통합을 사용하여 파트너 웨비나와 동일하게 유지됩니다.
 
 ![](assets/promoting-an-interactive-webinar-2.png)
+
+대화형 웨비나를 사용하면 웨비나 전, 중, 후에 등록을 요청할 수 있습니다. 모든 경우, 웨비나 URL을 잠재 고객과 공유하면 됩니다. 웨비나가 시작되기 전에 링크를 클릭하면 웨비나 이전 랜딩 페이지로 이동합니다. 웨비나 중에 클릭하면 진행 중인 웨비나로 이동합니다. 웨비나 다음에 해당 웨비나를 클릭하면 웨비나 녹화로 이동합니다.
