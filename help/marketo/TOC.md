@@ -3,9 +3,9 @@ audience: end-user
 user-guide-title: Marketo 안내서
 user-guide-description: Marketo 제품 설명서
 feature-set: Marketo Engage
-source-git-commit: 04544aacaf1eeec4ee60d0c09cae87ad591a1c9c
+source-git-commit: f9bf2082968737277b3c976659802992f975ec9a
 workflow-type: tm+mt
-source-wordcount: '9281'
+source-wordcount: '9346'
 ht-degree: 0%
 
 ---
@@ -45,6 +45,24 @@ ht-degree: 0%
       + [상속된 인스턴스: Design Studio 검사 목록](getting-started/inheriting-a-marketo-engage-instance/design-studio-checklist.md)
       + [상속된 인스턴스: 설정 문서화](getting-started/inheriting-a-marketo-engage-instance/document-your-setup.md)
       + [핵심 기술 검토](getting-started/inheriting-a-marketo-engage-instance/reviewing-core-skills.md)
++ Marketo 2 시작하기 {#getting-started-with-marketo-2}
+   + [Adobe Marketo Engage란?](getting-started-2/what-is-adobe-marketo-engage.md)
+   + 초기 설정 {#initial-setup}
+      + [초기 설정 작업](getting-started-2/initial-setup/initial-setup-tasks.md)
+      + [설정 단계](getting-started-2/initial-setup/setup-steps.md)
+      + [사용자 설정](getting-started-2/initial-setup/user-setup.md)
+   + 새 Marketo Engage 인스턴스 구현 {#implementing-a-new-marketo-engage-instance}
+      + [시작 위치](getting-started-2/implementing-a-new-marketo-engage-instance/where-to-start.md)
+      + [새 인스턴스: 관리 섹션 확인 목록](getting-started-2/implementing-a-new-marketo-engage-instance/admin-section-checklist.md)
+      + [새 인스턴스: 데이터베이스 검사 목록](getting-started-2/implementing-a-new-marketo-engage-instance/database-checklist.md)
+      + [새 인스턴스: 마케팅 활동 체크리스트](getting-started-2/implementing-a-new-marketo-engage-instance/marketing-activities-checklist.md)
+      + [새 인스턴스: Design Studio 검사 목록](getting-started-2/implementing-a-new-marketo-engage-instance/design-studio-checklist.md)
+      + [새 인스턴스: 설정 문서화](getting-started-2/implementing-a-new-marketo-engage-instance/document-your-setup.md)
+   + 알아야 할 사항 {#things-to-know}
+      + [Marketo Engage 용어집](getting-started-2/things-to-know/marketo-engage-glossary.md)
+      + [아이콘 용어집](getting-started-2/things-to-know/icon-glossary.md)
+      + [클래식 아이콘 용어집](getting-started-2/things-to-know/classic-icon-glossary.md)
+      + [도움말 센터](getting-started-2/things-to-know/help-center.md)
 + 제품 문서 {#product-docs}
    + 추가 앱 {#additional-apps}
       + SEO {#seo}

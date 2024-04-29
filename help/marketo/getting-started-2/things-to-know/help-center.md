@@ -1,11 +1,12 @@
 ---
-description: 도움말 센터 - Marketo 문서 - 제품 설명서
+description: 도움말 센터 - Marketo Engage 문서 - 제품 설명서
 title: 도움말 센터
+hide: true
+hidefromtoc: true
 feature: Getting Started
-exl-id: 5acb6ae5-73f5-417b-8fbc-e5bbfa37a623
 source-git-commit: f9bf2082968737277b3c976659802992f975ec9a
 workflow-type: tm+mt
-source-wordcount: '151'
+source-wordcount: '160'
 ht-degree: 4%
 
 ---
@@ -18,39 +19,39 @@ Adobe Marketo Engage의 도움말 센터는 지원을 받을 수 있는 중앙 �
 
 Marketo Engage에 로그인한 후 도움말 아이콘을 클릭합니다.
 
-![](assets/help-center-1.png)
+스크린샷
 
 ### 안내서 {#guides}
 
 안내서는 인기 있는 기능에 대한 빠른 연습의 역할을 합니다.
 
-![](assets/help-center-2.png)
+스크린샷
 
 1. 원하는 안내선을 클릭하여 봅니다.
 
-   ![](assets/help-center-3.png)
+스크린샷
 
 1. 클릭 **시작**.
 
-   ![](assets/help-center-4.png)
+스크린샷
 
 1. 클릭 **다음** 계속합니다.
 
-   ![](assets/help-center-5.png)
+스크린샷
 
 1. 클릭 **완료** 연습을 종료합니다.
 
-   ![](assets/help-center-6.png)
+스크린샷
 
-   >[!TIP]
-   >
-   >언제든지 을 클릭하여 안내서를 종료합니다. **닫기**.
+>[!TIP]
+>
+>언제든지 을 클릭하여 안내서를 종료합니다. **닫기**.
 
 ### 새로운 기능 {#whats-new}
 
 새로운 기능 탭에는 Marketo Engage 최신 릴리스에 대한 전체 세부 정보가 포함되어 있습니다.
 
-![](assets/help-center-7.png)
+스크린샷
 
 >[!TIP]
 >
@@ -60,4 +61,4 @@ Marketo Engage에 로그인한 후 도움말 아이콘을 클릭합니다.
 
 리소스 탭에서는 Marketo Engage 인스턴스에 대한 추가 지원을 받을 수 있는 다양한 방법에 빠르고 직접 액세스할 수 있습니다.
 
-![](assets/help-center-8.png)
+스크린샷
