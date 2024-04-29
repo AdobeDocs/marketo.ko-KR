@@ -4,7 +4,7 @@ title: 시작 위치
 hide: true
 hidefromtoc: true
 feature: Getting Started
-source-git-commit: f9bf2082968737277b3c976659802992f975ec9a
+source-git-commit: 2edeac3d6111208e454e61a3dccad45e5fd53916
 workflow-type: tm+mt
 source-wordcount: '204'
 ht-degree: 0%
@@ -21,15 +21,15 @@ ht-degree: 0%
 
 Marketo Engage 인스턴스 새 구현 관리자 확인 목록 다운로드[링크 삽입]또는 아래 온라인 안내서를 참조하십시오.
 
-* [관리 섹션](/help/marketo/getting-started-2/implementing-a-new-marketo-engage-instance/admin.md){target="_blank"}
+* [관리 섹션](/help/marketo/getting-started-2/implementing-a-new-marketo-engage-instance/admin-section-checklist.md){target="_blank"}
 
-* [데이터베이스](/help/marketo/getting-started-2/implementing-a-new-marketo-engage-instance/database.md){target="_blank"}
+* [데이터베이스](/help/marketo/getting-started-2/implementing-a-new-marketo-engage-instance/database-checklist.md){target="_blank"}
 
-* [마케팅 활동](/help/marketo/getting-started-2/implementing-a-new-marketo-engage-instance/marketing-activities.md){target="_blank"}
+* [마케팅 활동](/help/marketo/getting-started-2/implementing-a-new-marketo-engage-instance/marketing-activities-checklist.md){target="_blank"}
 
-* [Design Studio](/help/marketo/getting-started-2/implementing-a-new-marketo-engage-instance/design-studio.md){target="_blank"}
+* [Design Studio](/help/marketo/getting-started-2/implementing-a-new-marketo-engage-instance/design-studio-checklist.md){target="_blank"}
 
-* [새 인스턴스 설정 문서화](/help/marketo/getting-started-2/implementing-a-new-marketo-engage-instance/documentation.md){target="_blank"}
+* [새 인스턴스 설정 문서화](/help/marketo/getting-started-2/implementing-a-new-marketo-engage-instance/document-your-setup.md){target="_blank"}
 
 ## 피어와 연결 {#connect-with-your-peers}
 
