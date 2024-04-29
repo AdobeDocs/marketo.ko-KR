@@ -3,9 +3,9 @@ description: Marketo 구독 및 Adobe Admin Console으로의 사용자 마이그
 title: Marketo 구독 및 Adobe Admin Console으로의 사용자 마이그레이션 이해
 exl-id: 91e7b56b-2563-4986-a55c-f9760ea88b05
 feature: Marketo with Adobe Identity
-source-git-commit: d32189021024da48dd8a333f80398cf0d92a4f66
+source-git-commit: 04544aacaf1eeec4ee60d0c09cae87ad591a1c9c
 workflow-type: tm+mt
-source-wordcount: '1327'
+source-wordcount: '1370'
 ht-degree: 0%
 
 ---
@@ -24,7 +24,7 @@ Adobe은 Adobe Marketo Engage 구독 및 사용자를 관리하는 방법을 향
 
 * **시스템 관리자는 Adobe Admin Console에서 구독을 관리합니다.**. 모든 Adobe 제품을 하나의 콘솔에서 볼 수 있습니다.
 
-* **제품 관리자는 Adobe Admin Console에서의 사용자 및 사용자 액세스를 관리합니다.**. 모든 Adobe 구독에 대한 사용자를 추가하고 제거합니다.
+* **제품 관리자는 Adobe Admin Console에서의 사용자 및 사용자 액세스를 관리합니다.**. 모든 Adobe 구독에 대한 사용자를 추가하고 제거합니다. Adobe Admin Console은 사용자 기반 액세스 만료를 지원하지 않습니다. 마이그레이션 후 만료되도록 예약된 Marketo Engage 액세스 권한이 있는 사용자는 계속 마이그레이션되고 만료되지 않는 액세스 권한이 부여됩니다. 마이그레이션 후에는 원하는 만료 날짜 이전에 수동으로 제거해야 합니다.
 
 * **사용자가 Adobe ID로 로그인합니다.**. Adobe은 기존 사용자를 Adobe Admin Console으로 마이그레이션합니다. 사용자는 새로운 Adobe ID(Adobe ID 또는 Adobe Federated ID(SSO))를 사용하여 Marketo 구독에 로그인합니다.
 
