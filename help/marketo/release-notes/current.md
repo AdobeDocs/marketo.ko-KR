@@ -3,16 +3,18 @@ description: 현재 릴리스 정보 - Marketo 설명서 - 제품 설명서
 title: 최신 릴리스 정보
 exl-id: a2eccad5-73ad-48f9-8091-51cee23824e1
 feature: Release Information
-source-git-commit: 9f442b64f2e6d012207f79d06298583655db86b7
+source-git-commit: 8473c4d59210bb18c3968a56883034febf00c320
 workflow-type: tm+mt
-source-wordcount: '356'
-ht-degree: 3%
+source-wordcount: '399'
+ht-degree: 2%
 
 ---
 
 # 릴리스 노트: 2024년 4월 {#release-notes-apr-24}
 
 아래에는 2024년 4월 릴리스에 포함된 모든 기능이 있습니다. Adobe Marketo Engage 버전에서 사용 가능한 기능이 있는지 확인하십시오.
+
+Adobe Dynamic Chat에 대한 릴리스 노트 [은(는) 여기에서 찾을 수 있음](/help/marketo/release-notes/dynamic-chat.md){target="_blank"}.
 
 >[!AVAILABILITY]
 >
@@ -31,8 +33,9 @@ ht-degree: 3%
   </tr>
      <tr> 
    <td><strong>대화형 웨비나 개선 사항</strong>: 이제 호스트 및 발표자에게 웨비나 제목을 추가하고, 회의실 이름을 바꾸고, 이벤트 게재 후 참여 데이터를 수동으로 동기화할 수 있는 기능을 제공할 수 있습니다.</td> 
-   <td><i>곧 출시 예정</i></td>
-   <td><i>곧 출시 예정</i></td>
+   <td>배송됨</td>
+   <td><li><a href="/help/marketo/product-docs/demand-generation/events/interactive-webinars/create-an-interactive-webinar.md">대화형 웨비나 만들기</a></li>
+   <li><a href="/help/marketo/product-docs/demand-generation/events/interactive-webinars/event-workflows.md#manual-sync">수동 동기화</a></li></td>
   </tr>
   <tr> 
    <td> </td> 
@@ -50,9 +53,9 @@ ht-degree: 3%
    <td> </td>
   </tr>
     <tr> 
-   <td><strong>새 사용자 및 역할 권한</strong>: 새로운 권한을 사용할 수 있으므로 사용자는 Marketo Engage에 보다 세밀하게 액세스할 수 있습니다. 새 경험 및 예측 대상과 같이 이전에 제어되지 않은 관리자의 부분을 제어하고, 자산 감사 추적 및 관리자 감사 추적에 대한 액세스 권한을 별도로 부여하기 위해 권한을 분할하고, 자산 및 폴더에 대한 새로운 만들기 및 이동 권한을 활용하여 읽기 전용 사용자가 변경하지 못하도록 합니다.</td> 
-   <td><i>곧 출시 예정</i></td>
-   <td><i>곧 출시 예정</i></td>
+   <td><strong>새 사용자 및 역할 권한</strong>: 새로운 권한을 사용할 수 있으므로 사용자는 Marketo Engage에 보다 세밀하게 액세스할 수 있습니다. 새 경험 및 예측 대상과 같이 이전에 제어되지 않은 관리자의 부분을 제어하고, 자산 감사 추적 및 관리자 감사 추적에 대한 액세스 권한을 별도로 부여하기 위해 권한을 분할하고, 자산 및 폴더에 대한 새로운 만들기 및 이동 권한을 활용하여 읽기 전용 사용자가 변경하지 못하도록 합니다. 새 권한은 4월 26일부터 Marketo Engage 인스턴스에 표시되지만 현재로서는 수동적이며 이번 분기 말에 액세스할 수 있습니다.</td> 
+   <td>배송됨</td>
+   <td><a href="/help/marketo/product-docs/administration/users-and-roles/descriptions-of-role-permissions.md">역할 권한 설명</a></td>
   </tr>
  </tbody> 
 </table>
