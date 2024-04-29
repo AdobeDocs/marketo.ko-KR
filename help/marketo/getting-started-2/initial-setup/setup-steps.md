@@ -4,9 +4,9 @@ title: 설정 단계
 hide: true
 hidefromtoc: true
 feature: Getting Started
-source-git-commit: f9bf2082968737277b3c976659802992f975ec9a
+source-git-commit: 2910b81de3eabb0793b9a339eb4fc934d620d525
 workflow-type: tm+mt
-source-wordcount: '1696'
+source-wordcount: '1735'
 ht-degree: 0%
 
 ---
@@ -56,15 +56,15 @@ Marketo 사용에 앞서 몇 가지 단계를 완료해야 합니다.
 
 랜딩 페이지 CNAME으로 바꿀 Munchkin ID를 검색하려면 관리 영역으로 이동합니다.
 
-![](assets/setup-steps-9.png)
+스크린샷: setup-steps-9.png
 
 클릭 **내 계정**.
 
-![](assets/setup-steps-10.png)
+스크린샷: setup-steps-10.png
 
 다음을 복사합니다. [!UICONTROL 계정 문자열] 랜딩 페이지 설정에서.
 
-![](assets/setup-steps-11.png)
+스크린샷: setup-steps-11.png
 
 다음 은 `[Munchkin ID]`. 저장합니다. 5단계에서 IT에 제공해야 합니다.
 
@@ -100,17 +100,17 @@ Google 앱을 사용하여 회사 전자 메일을 호스팅하는 경우 도메
 
 Marketo 추적 링크를 찾으려면 **[!UICONTROL 관리자]** 영역입니다.
 
-![](assets/setup-steps-12.png)
+스크린샷: setup-steps-12.png
 
 클릭 **[!UICONTROL 이메일]**.
 
-![](assets/setup-steps-13.png)
+스크린샷: setup-steps-13.png
 
 다음을 복사합니다. [!UICONTROL 링크 추적] 이메일 설정에서.
 
 다음 [!UICONTROL 링크 추적] 은(는) 다음 형식을 갖습니다. `mkto-[a-z][4 digits].com`.
 
-![](assets/setup-steps-14.png)
+스크린샷: setup-steps-14.png
 
 이 은(는) `[MktoTrackingLink]`. 저장합니다. 5단계에서 IT에 제공해야 합니다.
 
@@ -215,35 +215,35 @@ IT 담당자가 작업을 완료하면 다음 단계에 따라 랜딩 페이지 
 
 로 이동 **[!UICONTROL 관리자]** 랜딩 페이지 CNAME을 추가할 영역
 
-![](assets/setup-steps-15.png)
+스크린샷: setup-steps-15.png
 
 랜딩 페이지 를 선택하고 **[!UICONTROL 편집]** 다음에서 [!UICONTROL 설정] 영역입니다.
 
-![](assets/setup-steps-16.png)
+스크린샷: setup-steps-16.png
 
 필드에 새 도메인 이름을 입력합니다 **[!UICONTROL 랜딩 페이지의 도메인 이름]**. 형식은 다음과 같아야 합니다.
 
 `[LandingPageCNAME].[CompanyDomain].com`
 
-![](assets/setup-steps-17.png)
+스크린샷: setup-steps-17.png
 
 다음에서 **[!UICONTROL 대체 항목]** 페이지 필드에 랜딩 페이지를 사용할 수 없는 경우 사람들이 이동할 URL을 입력합니다. 대체 페이지가 없는 경우 회사 홈 페이지를 사용할 수 있습니다. 다음에서 **[!UICONTROL 홈페이지]** 필드에 회사 웹 사이트를 입력합니다.
 
-![](assets/setup-steps-18.png)
+스크린샷: setup-steps-18.png
 
 다음에서 [!UICONTROL 관리자] 영역, 선택 **[!UICONTROL 이메일]** 이메일 CNAME을 추가하려면
 
-![](assets/setup-steps-19.png)
+스크린샷: setup-steps-19.png
 
 아래로 스크롤하여 [!UICONTROL 브랜딩 도메인]. 도메인을 선택하고 **[!UICONTROL 편집]**.
 
-![](assets/setup-steps-20.png)
+스크린샷: setup-steps-20.png
 
 도메인 필드에 이메일 추적 도메인을 입력합니다. 형식은 다음과 같아야 합니다.
 
 `[EmailTrackingCNAME].[CompanyDomain].com`. **[!UICONTROL 저장]**&#x200B;을 클릭합니다.
 
-![](assets/setup-steps-21.png)
+스크린샷: setup-steps-21.png
 
 ## CRM 통합 {#integrate-your-crm}
 
