@@ -1,17 +1,17 @@
 ---
 description: 새 Marketo Engage 인스턴스에 대한 마케팅 활동 섹션을 설정합니다.
-title: 새 인스턴스 - 마케팅 활동 검사 목록
+title: 새 인스턴스 모범 사례 - 마케팅 활동 검사 목록
 hide: true
 hidefromtoc: true
 feature: Getting Started
-source-git-commit: 2910b81de3eabb0793b9a339eb4fc934d620d525
+source-git-commit: 47446db902f85e1b4a910d0924efc5beb82bffbe
 workflow-type: tm+mt
-source-wordcount: '720'
+source-wordcount: '724'
 ht-degree: 1%
 
 ---
 
-# 새 인스턴스: 마케팅 활동 체크리스트 {#new-instance-marketing-activities-checklist}
+# 새 인스턴스 모범 사례: 마케팅 활동 검사 목록 {#new-instance-best-practices-marketing-activities-checklist}
 
 마케팅 활동에는 자동화된 마케팅 프로그램을 구성하는 모든 에셋 및 콘텐츠가 보관됩니다. 새 Marketo Engage 인스턴스를 설정할 때 깔끔하고 명확한 조직을 통해 모든 사용자가 다양한 프로그램을 쉽게 찾고 관리할 수 있습니다.
 

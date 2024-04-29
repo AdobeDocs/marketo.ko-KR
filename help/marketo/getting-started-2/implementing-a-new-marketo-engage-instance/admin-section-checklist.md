@@ -1,17 +1,17 @@
 ---
 description: 새 Marketo Engage 인스턴스에 대한 관리 섹션을 설정합니다.
-title: 새 인스턴스 - 관리 섹션 확인 목록
+title: 새 인스턴스 모범 사례 - 관리 섹션 검사 목록
 hide: true
 hidefromtoc: true
 feature: Getting Started
-source-git-commit: 2910b81de3eabb0793b9a339eb4fc934d620d525
+source-git-commit: 47446db902f85e1b4a910d0924efc5beb82bffbe
 workflow-type: tm+mt
-source-wordcount: '1095'
+source-wordcount: '1099'
 ht-degree: 1%
 
 ---
 
-# 새 인스턴스: 관리 섹션 확인 목록 {#new-instance-admin-section-checklist}
+# 새 인스턴스 모범 사례: 관리 섹션 검사 목록 {#new-instance-best-practices-admin-section-checklist}
 
 새 Marketo Engage 인스턴스를 탐색하는 새 관리자는 아래 체크리스트를 적용하여 구현 프로세스를 안내합니다. 이러한 모든 안내서와 마찬가지로 체크리스트를 다운로드할 수 있습니다 [링크] 진행 상황을 추적할 수 있습니다.
 

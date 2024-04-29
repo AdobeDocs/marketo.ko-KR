@@ -1,17 +1,17 @@
 ---
 description: 새 Marketo Engage 인스턴스에 대한 데이터베이스 섹션을 설정합니다.
-title: 새 인스턴스 - 데이터베이스 검사 목록
+title: 새 인스턴스 모범 사례 - 데이터베이스 검사 목록
 hide: true
 hidefromtoc: true
 feature: Getting Started
-source-git-commit: 2910b81de3eabb0793b9a339eb4fc934d620d525
+source-git-commit: 47446db902f85e1b4a910d0924efc5beb82bffbe
 workflow-type: tm+mt
-source-wordcount: '298'
+source-wordcount: '302'
 ht-degree: 2%
 
 ---
 
-# 새 인스턴스: 데이터베이스 검사 목록 {#new-instance-database-checklist}
+# 새 인스턴스 모범 사례: 데이터베이스 검사 목록 {#new-instance-best-practices-database-checklist}
 
 데이터베이스 섹션은 인스턴스에 있는 사람에 대한 주요 속성의 스냅샷을 제공합니다. 데이터베이스에서 다양한 목록 및 세그먼트를 탐색하고 사용자 레코드를 관리하는 데 필요한 단계에 대해 자세히 알아봅니다.
 

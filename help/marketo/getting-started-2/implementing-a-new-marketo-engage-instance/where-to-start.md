@@ -4,9 +4,9 @@ title: 시작 위치
 hide: true
 hidefromtoc: true
 feature: Getting Started
-source-git-commit: 2edeac3d6111208e454e61a3dccad45e5fd53916
+source-git-commit: 47446db902f85e1b4a910d0924efc5beb82bffbe
 workflow-type: tm+mt
-source-wordcount: '204'
+source-wordcount: '206'
 ht-degree: 0%
 
 ---
@@ -15,7 +15,7 @@ ht-degree: 0%
 
 새 Adobe Marketo Engage 인스턴스 시작! 강력한 마케팅 자동화 기능을 통해 마케팅 작업 및 워크플로를 능률화, 자동화 및 측정할 준비를 하십시오.
 
-이 &quot;새 Marketo Engage 인스턴스 구현&quot; 안내서에서 인스턴스를 원활하게 구현하여 장기 위생 및 운영 효율성을 보장하는 방법을 알아봅니다. 각 체크리스트는 구성 진행 상황을 추적하는 중요한 단계를 제공합니다. 다운로드 가능한 체크리스트를 사용하여 향후 인스턴스 감사 및 온보딩을 위해 작업을 문서화합니다.
+이 &quot;새 Marketo Engage 인스턴스 구현&quot; 안내서에서 인스턴스를 원활하게 구현하여 장기 위생 및 운영 효율성을 보장하는 모범 사례에 대해 알아봅니다. 각 체크리스트는 구성 진행 상황을 추적하는 중요한 단계를 제공합니다. 다운로드 가능한 체크리스트를 사용하여 향후 인스턴스 감사 및 온보딩을 위해 작업을 문서화합니다.
 
 ## 새 Marketo Engage 인스턴스에 대한 우수 사례 확인 목록 {#best-practice-checklists-new-instance}
 

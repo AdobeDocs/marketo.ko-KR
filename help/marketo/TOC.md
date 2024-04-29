@@ -3,9 +3,9 @@ audience: end-user
 user-guide-title: Marketo 안내서
 user-guide-description: Marketo 제품 설명서
 feature-set: Marketo Engage
-source-git-commit: f9bf2082968737277b3c976659802992f975ec9a
+source-git-commit: 47446db902f85e1b4a910d0924efc5beb82bffbe
 workflow-type: tm+mt
-source-wordcount: '9346'
+source-wordcount: '9356'
 ht-degree: 0%
 
 ---
@@ -53,11 +53,11 @@ ht-degree: 0%
       + [사용자 설정](getting-started-2/initial-setup/user-setup.md)
    + 새 Marketo Engage 인스턴스 구현 {#implementing-a-new-marketo-engage-instance}
       + [시작 위치](getting-started-2/implementing-a-new-marketo-engage-instance/where-to-start.md)
-      + [새 인스턴스: 관리 섹션 확인 목록](getting-started-2/implementing-a-new-marketo-engage-instance/admin-section-checklist.md)
-      + [새 인스턴스: 데이터베이스 검사 목록](getting-started-2/implementing-a-new-marketo-engage-instance/database-checklist.md)
-      + [새 인스턴스: 마케팅 활동 체크리스트](getting-started-2/implementing-a-new-marketo-engage-instance/marketing-activities-checklist.md)
-      + [새 인스턴스: Design Studio 검사 목록](getting-started-2/implementing-a-new-marketo-engage-instance/design-studio-checklist.md)
-      + [새 인스턴스: 설정 문서화](getting-started-2/implementing-a-new-marketo-engage-instance/document-your-setup.md)
+      + [새 인스턴스 모범 사례: 관리 섹션 검사 목록](getting-started-2/implementing-a-new-marketo-engage-instance/admin-section-checklist.md)
+      + [새 인스턴스 모범 사례: 데이터베이스 검사 목록](getting-started-2/implementing-a-new-marketo-engage-instance/database-checklist.md)
+      + [새 인스턴스 모범 사례: 마케팅 활동 검사 목록](getting-started-2/implementing-a-new-marketo-engage-instance/marketing-activities-checklist.md)
+      + [새 인스턴스 모범 사례: Design Studio 검사 목록](getting-started-2/implementing-a-new-marketo-engage-instance/design-studio-checklist.md)
+      + [새로운 인스턴스 모범 사례: 설정 문서화](getting-started-2/implementing-a-new-marketo-engage-instance/document-your-setup.md)
    + 알아야 할 사항 {#things-to-know}
       + [Marketo Engage 용어집](getting-started-2/things-to-know/marketo-engage-glossary.md)
       + [아이콘 용어집](getting-started-2/things-to-know/icon-glossary.md)

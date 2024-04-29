@@ -1,17 +1,17 @@
 ---
 description: 새 Marketo Engage 인스턴스에 대해 Design Studio 섹션을 설정합니다.
-title: 새 인스턴스 - Design Studio 검사 목록
+title: 새로운 인스턴스 모범 사례 - Design Studio 검사 목록
 hide: true
 hidefromtoc: true
 feature: Getting Started
-source-git-commit: f9bf2082968737277b3c976659802992f975ec9a
+source-git-commit: 47446db902f85e1b4a910d0924efc5beb82bffbe
 workflow-type: tm+mt
-source-wordcount: '357'
+source-wordcount: '361'
 ht-degree: 3%
 
 ---
 
-# 새 인스턴스: Design Studio 검사 목록 {#new-instance-design-studio-checklist}
+# 새 인스턴스 모범 사례: Design Studio 검사 목록 {#new-instance-best-practices-design-studio-checklist}
 
 Design Studio 섹션은 재사용 가능한 &#39;글로벌 자산&#39;이 있는 위치입니다. 조직에서 프로그램에서 사용할 전역 자산을 만들고 일관된 명명 규칙을 사용하며 쉬운 검색을 위해 하위 폴더에 구성합니다.
 

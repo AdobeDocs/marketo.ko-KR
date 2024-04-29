@@ -1,17 +1,17 @@
 ---
 description: 새 Marketo Engage 인스턴스의 설정을 문서화합니다.
-title: 새 인스턴스 - 설정 문서화
+title: 새 인스턴스 모범 사례 - 설정 문서화
 hide: true
 hidefromtoc: true
 feature: Getting Started
-source-git-commit: f9bf2082968737277b3c976659802992f975ec9a
+source-git-commit: 47446db902f85e1b4a910d0924efc5beb82bffbe
 workflow-type: tm+mt
-source-wordcount: '375'
+source-wordcount: '379'
 ht-degree: 1%
 
 ---
 
-# 새 인스턴스: 설정 문서화 {#new-instancei-document-your-setup}
+# 새로운 인스턴스 모범 사례: 설정 문서화 {#new-instance-best-practices-document-your-setup}
 
 이제 새 Marketo Engage 인스턴스를 설정하는 주요 제품 영역에 대해 알아보았으므로, 다음 단계는 인스턴스 구성 및 기술 스택에 대한 설명서를 만드는 것입니다. 스프레드시트나 프로젝트 관리 애플리케이션을 통해 작성하든, 설명서는 진행 상황을 추적하고 세부 정보를 기록할 수 있을 뿐만 아니라 조직 내에서 미래의 마케터를 위해 인스턴스를 구조화하고 지속 가능하게 유지하는 데 훌륭한 리소스가 됩니다.
 
