@@ -3,9 +3,9 @@ description: 콜백 함수 - Marketo 문서 - 제품 설명서
 title: 콜백 함수
 feature: Dynamic Chat
 exl-id: 5ae7f6cb-5c57-4257-8a1a-992c9602cfaa
-source-git-commit: 1641d3f7ea96c8898f902d52271fd2bb2116e966
+source-git-commit: fd070322b6741268595d460318246abd3768dd3d
 workflow-type: tm+mt
-source-wordcount: '615'
+source-wordcount: '616'
 ht-degree: 3%
 
 ---
@@ -284,7 +284,7 @@ window.addEventListener('adobedx.conversations.ready', () => {
 
 ### 라이브 채팅 시간 초과 {#live-chat-timeout}
 
-이 이벤트는 방문자가 응답을 중지하거나 삭제되어 라이브 채팅 대화 시간이 초과되면 트리거됩니다.
+이 이벤트는 방문자의 응답이 중지되었거나 방문자가 중단되어 라이브 채팅 대화 시간이 초과되면 트리거됩니다.
 
 ```javascript
 window.addEventListener('adobedx.conversations.ready', () => { 
