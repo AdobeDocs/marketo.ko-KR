@@ -3,7 +3,7 @@ description: Dynamic Chat 릴리스 노트 - Marketo 문서 - 제품 설명서
 title: Dynamic Chat 릴리스 노트
 feature: Release Information, Dynamic Chat
 exl-id: 0447dc47-b9c5-42e1-8f66-73bf67c7871d
-source-git-commit: a3089d4ff390f600f7820110ac5d40872deb4eb0
+source-git-commit: 719b43c637cb02ef22bde902912d53fae2661dad
 workflow-type: tm+mt
 source-wordcount: '1203'
 ht-degree: 0%
@@ -28,7 +28,7 @@ _&#42;이전에는 100개의 라이프타임 참여와 함께 체험판 기능�
 
 ### 콜백 함수 {#callback-functions}
 
-콜백 함수를 사용하면 방문자가 Dynamic Chat 대화를 나눌 때 Adobe Analytics 또는 Google Analytics과 같은 외부 시스템에서 Dynamic Chat 분석 이벤트를 수집할 수 있습니다. 이벤트를 수신할 API에 콜백을 등록하여 Dynamic Chat 분석 이벤트를 활성화합니다. 이를 통해 웹 트래픽과 같은 다른 주요 데이터와 연관되므로 Dynamic Chat 참여를 보다 전체적으로 파악할 수 있습니다.
+[콜백 함수](/help/marketo/product-docs/demand-generation/dynamic-chat/setup-and-configuration/callback-functions.md){target="_blank"} 방문자가 Dynamic Chat 대화를 나눌 때 Adobe Analytics 또는 Google Analytics과 같은 외부 시스템에서 Dynamic Chat 분석 이벤트를 수집할 수 있습니다. 이벤트를 수신할 API에 콜백을 등록하여 Dynamic Chat 분석 이벤트를 활성화합니다. 이를 통해 웹 트래픽과 같은 다른 주요 데이터와 연관되므로 Dynamic Chat 참여를 보다 전체적으로 파악할 수 있습니다.
 
 ### 조건부 분기에 라이브 에이전트 가용성 조건 추가됨 {#live-agent-availability-conditional-branching}
 

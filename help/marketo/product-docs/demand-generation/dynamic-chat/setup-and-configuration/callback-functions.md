@@ -1,12 +1,11 @@
 ---
 description: 콜백 함수 - Marketo 문서 - 제품 설명서
 title: 콜백 함수
-hide: true
-hidefromtoc: true
 feature: Dynamic Chat
-source-git-commit: 30deeb59cd70b42af38cd1e047833394f9341a5c
+exl-id: 5ae7f6cb-5c57-4257-8a1a-992c9602cfaa
+source-git-commit: 1641d3f7ea96c8898f902d52271fd2bb2116e966
 workflow-type: tm+mt
-source-wordcount: '623'
+source-wordcount: '615'
 ht-degree: 3%
 
 ---
@@ -78,7 +77,7 @@ window.addEventListener('adobedx.conversations.ready', () => {
 });
 ```
 
-이벤트의 &#39;event&#39; 인수가 대화와 관련된 메타데이터가 있는 개체입니다. event.data별로 메타데이터에 액세스할 수 있습니다.
+다음 `event` 매개 변수는 대화와 관련된 메타데이터가 있는 개체입니다. 에 액세스하여 이 메타데이터에 액세스할 수 있습니다. `event.data`.
 
 다음은 액세스할 수 있는 몇 가지 주요 메타데이터 값입니다.
 
@@ -141,7 +140,7 @@ window.addEventListener('adobedx.conversations.ready', () => {
 });
 ```
 
-이벤트의 &#39;event&#39; 인수가 대화와 관련된 메타데이터가 있는 개체입니다. event.data별로 메타데이터에 액세스할 수 있습니다.
+다음 `event` 매개 변수는 대화와 관련된 메타데이터가 있는 개체입니다. 에 액세스하여 이 메타데이터에 액세스할 수 있습니다. `event.data`.
 
 다음은 액세스할 수 있는 몇 가지 주요 메타데이터 값입니다.
 
@@ -194,7 +193,7 @@ window.addEventListener('adobedx.conversations.ready', () => {
 });
 ```
 
-이벤트의 &#39;event&#39; 인수가 대화와 관련된 메타데이터가 있는 개체입니다. event.data별로 메타데이터에 액세스할 수 있습니다.
+다음 `event` 매개 변수는 대화와 관련된 메타데이터가 있는 개체입니다. 에 액세스하여 이 메타데이터에 액세스할 수 있습니다. `event.data`.
 
 다음은 액세스할 수 있는 몇 가지 주요 메타데이터 값입니다.
 
@@ -295,7 +294,7 @@ window.addEventListener('adobedx.conversations.ready', () => {
 });
 ```
 
-이벤트의 &#39;event&#39; 인수가 대화와 관련된 메타데이터가 있는 개체입니다. event.data별로 메타데이터에 액세스할 수 있습니다.
+다음 `event` 매개 변수는 대화와 관련된 메타데이터가 있는 개체입니다. 에 액세스하여 이 메타데이터에 액세스할 수 있습니다. `event.data`.
 
 다음은 액세스할 수 있는 몇 가지 주요 메타데이터 값입니다.
 
@@ -338,7 +337,7 @@ window.addEventListener('adobedx.conversations.ready', () => {
 </tbody>
 </table>
 
-이러한 이벤트를 Adobe Analytics 또는 Google Analytics과 같은 서드파티 플랫폼으로 보내려면 이러한 Dynamic Chat 이벤트 내에 해당 추적 호출을 추가해야 합니다. 아래 예와 같은 모습일 것입니다.
+이러한 이벤트를 Adobe Analytics 또는 Google Analytics과 같은 분석 플랫폼으로 보내려면 이러한 Dynamic Chat 이벤트 내에 해당 추적 호출을 추가해야 합니다. 아래 예와 같은 모습일 것입니다.
 
 ```javascript
 window.addEventListener('adobedx.conversations.ready', () => { 
