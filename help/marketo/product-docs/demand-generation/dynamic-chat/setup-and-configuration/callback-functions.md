@@ -3,7 +3,7 @@ description: 콜백 함수 - Marketo 문서 - 제품 설명서
 title: 콜백 함수
 feature: Dynamic Chat
 exl-id: 5ae7f6cb-5c57-4257-8a1a-992c9602cfaa
-source-git-commit: fd070322b6741268595d460318246abd3768dd3d
+source-git-commit: f355022fb7e6f733bb7485229e395b0fe1a9818f
 workflow-type: tm+mt
 source-wordcount: '616'
 ht-degree: 3%
@@ -21,7 +21,7 @@ Dynamic Chat 위젯 콜백 함수를 사용하여 대화 이벤트를 서드파�
 ```javascript
 window.addEventListener('adobedx.conversations.ready', () => { 
     // code here will execute when chatbot scripts are loaded in a webpage 
-});
+}); 
 ```
 
 ## 대화 이벤트 {#conversation-events}
@@ -34,11 +34,11 @@ window.addEventListener('adobedx.conversations.ready', () => {
 
 ```javascript
 window.addEventListener('adobedx.conversations.ready', () => { 
-
+    const {addListener, Enum} = window.AdobeDX; 
     addListener(Enum.Events.CONVERSATION_TRIGGERED, (event) => { 
-// code here will execute when chatbot is loaded for a visitor 
-   });
-});
+ // code here will execute when the chatbot is loaded for a visitor 
+    }); 
+});  
 ```
 
 ### 대화 참여 {#conversation-engaged}
@@ -47,10 +47,11 @@ window.addEventListener('adobedx.conversations.ready', () => {
 
 ```javascript
 window.addEventListener('adobedx.conversations.ready', () => { 
+    const {addListener, Enum} = window.AdobeDX; 
     addListener(Enum.Events.CONVERSATION_ENGAGED, (event) => { 
- // code here will execute when visitor engages with chatbot 
-    });
-});
+ // code here will execute when a visitor engages with the chatbot 
+     }); 
+}); 
 ```
 
 ### 대화 완료됨 {#conversation-completed}
@@ -59,10 +60,11 @@ window.addEventListener('adobedx.conversations.ready', () => {
 
 ```javascript
 window.addEventListener('adobedx.conversations.ready', () => { 
+    const {addListener, Enum} = window.AdobeDX; 
     addListener(Enum.Events.CONVERSATION_COMPLETED, (event) => { 
- // code here will execute when conversation is completed 
-    });
-});
+ // code here will execute when a conversation is completed 
+     }); 
+}); 
 ```
 
 ### 대화 종료됨
@@ -71,10 +73,11 @@ window.addEventListener('adobedx.conversations.ready', () => {
 
 ```javascript
 window.addEventListener('adobedx.conversations.ready', () => { 
+    const {addListener, Enum} = window.AdobeDX; 
     addListener(Enum.Events.CONVERSATION_CLOSED, (event) => { 
- // code here will execute when conversation is closed 
-    });
-});
+ // code here will execute when a conversation is closed 
+    }); 
+}); 
 ```
 
 다음 `event` 매개 변수는 대화와 관련된 메타데이터가 있는 개체입니다. 에 액세스하여 이 메타데이터에 액세스할 수 있습니다. `event.data`.
@@ -122,10 +125,11 @@ window.addEventListener('adobedx.conversations.ready', () => {
 
 ```javascript
 window.addEventListener('adobedx.conversations.ready', () => { 
+    const {addListener, Enum} = window.AdobeDX; 
     addListener(Enum.Events.CONVERSATION_INPUT_PHONE, (event) => { 
-  // code here will execute when a visitor provides their phone number 
+ // code here will execute when a visitor provides their phone number 
     }); 
-}); 
+});  
 ```
 
 ### 이메일 ID {#email-id}
@@ -134,10 +138,11 @@ window.addEventListener('adobedx.conversations.ready', () => {
 
 ```javascript
 window.addEventListener('adobedx.conversations.ready', () => { 
+    const {addListener, Enum} = window.AdobeDX; 
     addListener(Enum.Events.CONVERSATION_INPUT_EMAIL, (event) => { 
  // code here will execute when a visitor provides their email address 
     }); 
-});
+}); 
 ```
 
 다음 `event` 매개 변수는 대화와 관련된 메타데이터가 있는 개체입니다. 에 액세스하여 이 메타데이터에 액세스할 수 있습니다. `event.data`.
@@ -187,10 +192,11 @@ window.addEventListener('adobedx.conversations.ready', () => {
 
 ```javascript
 window.addEventListener('adobedx.conversations.ready', () => { 
+    const {addListener, Enum} = window.AdobeDX; 
     addListener(Enum.Events.CONVERSATION_MEETING_BOOKED, (event) => { 
  // code here will execute when a meeting is booked 
     }); 
-});
+}); 
 ```
 
 다음 `event` 매개 변수는 대화와 관련된 메타데이터가 있는 개체입니다. 에 액세스하여 이 메타데이터에 액세스할 수 있습니다. `event.data`.
@@ -252,10 +258,11 @@ window.addEventListener('adobedx.conversations.ready', () => {
 
 ```javascript
 window.addEventListener('adobedx.conversations.ready', () => { 
+    const {addListener, Enum} = window.AdobeDX; 
     addListener(Enum.Events.CONVERSATION_LIVE_CHAT_REQUESTED, (event) => { 
- // code here will execute when a visitor requests for live chat 
+ // code here will execute when a visitor requests a live chat 
     }); 
-});
+}); 
 ```
 
 ### 라이브 채팅 시작됨 {#live-chat-initiated}
@@ -264,10 +271,11 @@ window.addEventListener('adobedx.conversations.ready', () => {
 
 ```javascript
 window.addEventListener('adobedx.conversations.ready', () => { 
+    const {addListener, Enum} = window.AdobeDX; 
     addListener(Enum.Events.CONVERSATION_LIVE_CHAT_INITIATED, (event) => { 
- // code here will execute after a live agent accepted the chat 
+ // code here will execute after a live agent accepts the chat 
     }); 
-});
+}); 
 ```
 
 ### 라이브 채팅 종료됨 {#live-chat-ended}
@@ -276,10 +284,11 @@ window.addEventListener('adobedx.conversations.ready', () => {
 
 ```javascript
 window.addEventListener('adobedx.conversations.ready', () => { 
+    const {addListener, Enum} = window.AdobeDX; 
     addListener(Enum.Events.CONVERSATION_LIVE_CHAT_ENDED, (event) => { 
  // code here will execute when a live chat is ended 
     }); 
-});
+}); 
 ```
 
 ### 라이브 채팅 시간 초과 {#live-chat-timeout}
@@ -288,10 +297,11 @@ window.addEventListener('adobedx.conversations.ready', () => {
 
 ```javascript
 window.addEventListener('adobedx.conversations.ready', () => { 
+    const {addListener, Enum} = window.AdobeDX; 
     addListener(Enum.Events.CONVERSATION_LIVE_CHAT_REQUEST_TIMEOUT, (event) => { 
- // code here will execute when a visitor abandoned live chat 
+ // code here will execute when a visitor abandons a live chat 
     }); 
-});
+}); 
 ```
 
 다음 `event` 매개 변수는 대화와 관련된 메타데이터가 있는 개체입니다. 에 액세스하여 이 메타데이터에 액세스할 수 있습니다. `event.data`.
@@ -341,6 +351,7 @@ window.addEventListener('adobedx.conversations.ready', () => {
 
 ```javascript
 window.addEventListener('adobedx.conversations.ready', () => { 
+    const {addListener, Enum} = window.AdobeDX; 
     addListener(Enum.Events.CONVERSATION_TRIGGERED, (event) => { 
  // Enter Adobe Analytics or Google Analytics function here 
     ga('send', 'event', { 
@@ -349,5 +360,5 @@ window.addEventListener('adobedx.conversations.ready', () => {
       eventLabel: event.data.payload.id, 
     }); 
     }); 
-});
+}); 
 ```
