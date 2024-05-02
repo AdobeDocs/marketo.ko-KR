@@ -5,9 +5,9 @@ hide: true
 hidefromtoc: true
 feature: Getting Started
 exl-id: df536423-7ac8-437a-86c1-3692e68cd9fa
-source-git-commit: 3004885d1b6b986eb30072d2f67c5bd29ad251c7
+source-git-commit: 67b9d79482c16b0b513f81b02fe8f237961ac30f
 workflow-type: tm+mt
-source-wordcount: '758'
+source-wordcount: '757'
 ht-degree: 1%
 
 ---
@@ -54,9 +54,9 @@ ht-degree: 1%
 
 ## 자산 {#assets}
 
->[!TIP]
+>[!NOTE]
 >
->프로그램, 랜딩 페이지 및 이메일과 같은 마케팅 에셋을 별도의 영역에 저장하려면 &#39;관리 섹션&#39; 체크리스트를 참조하십시오 [링크] 을(를) 클릭하여 작업 공간을 설정하는 방법을 알아봅니다.
+>프로그램, 랜딩 페이지 및 이메일과 같은 마케팅 에셋을 별도의 영역에 저장하려면 을 참조하십시오. [관리 섹션 확인 목록](/help/marketo/getting-started-2/implementing-a-new-marketo-engage-instance/admin-section-checklist.md#workspaces-partitions) 을(를) 클릭하여 작업 공간을 설정하는 방법을 알아봅니다.
 
 <table>
 <thead>

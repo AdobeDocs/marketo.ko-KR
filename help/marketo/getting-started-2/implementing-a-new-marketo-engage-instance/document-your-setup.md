@@ -5,9 +5,9 @@ hide: true
 hidefromtoc: true
 feature: Getting Started
 exl-id: c64d25e8-564b-487d-824e-7fcbfbf5d8bb
-source-git-commit: 3004885d1b6b986eb30072d2f67c5bd29ad251c7
+source-git-commit: 67b9d79482c16b0b513f81b02fe8f237961ac30f
 workflow-type: tm+mt
-source-wordcount: '388'
+source-wordcount: '409'
 ht-degree: 1%
 
 ---
@@ -53,11 +53,16 @@ ht-degree: 1%
     <td><li>문서 작성 <a href="https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/administration/marketo-with-adobe-identity/add-or-remove-a-user#add-a-user" target="_blank">현재 사용자</a> 안전상의 이유로. 다음 세부 정보는 최소한으로 포함해야 합니다(그리고 Adobe Admin Console &gt; 사용자로 이동하여 모두 볼 수 있음).</li>
     <br>이름
     <br>이메일
-    <br>ID 유형
-    <br>제품 프로필
-    <p>
-    <li>Marketo Engage 제품 관리자로서 Marketo Engage 사용자 목록을 정기적으로 감사하고 업데이트하는 내부 프로세스를 개발하십시오. Adobe Admin Console의 사용자 목록을 변경하려면 다음을 고려하십시오. <a href="https://helpx.adobe.com/kr/enterprise/using/users.html" target="_blank">대량 작업</a>예를 들어 .CSV 업로드, User Management REST API 사용 등이 있습니다.</li></td>
-  </tr>
+    <br>로그인
+    <br>역할
+    <br>액세스 만료일
+    <br>사용자 생성 날짜
+    <br>가장 최근 로그인 날짜
+
+참고: 고객은 이에 대해 를 확장하여 역할/권한에 대한 설명서를 포함할 수도 있습니다.
+<p>
+<li>Marketo Engage 제품 관리자로서 Marketo Engage 사용자 목록을 정기적으로 감사하고 업데이트하는 내부 프로세스를 개발하십시오. Adobe Admin Console의 사용자 목록을 변경하려면 다음을 고려하십시오. <a href="https://helpx.adobe.com/kr/enterprise/using/users.html" target="_blank">대량 작업</a>예를 들어 .CSV 업로드, User Management REST API 사용 등이 있습니다.</li></td>
+</tr>
   <tr>
     <td>조직</td>
     <td><li>합의된 폴더 구조, 프로그램, 에셋 등에 대한 표준 이름 지정 규칙 및 이러한 결정에 영향을 미치는 이유를 문서화합니다. <a href="https://experienceleague.adobe.com/en/docs/marketo-learn/tutorials/fundamentals/best-practices-to-organize-a-new-instance" target="_blank">여기에서 모범 사례에 대해 자세히 알아보십시오.</a></li></td>
