@@ -4,9 +4,10 @@ title: 새로운 인스턴스 모범 사례 - Design Studio 검사 목록
 hide: true
 hidefromtoc: true
 feature: Getting Started
-source-git-commit: 47446db902f85e1b4a910d0924efc5beb82bffbe
+exl-id: 070ee235-dad0-4627-bac0-14bf0174bb03
+source-git-commit: 3004885d1b6b986eb30072d2f67c5bd29ad251c7
 workflow-type: tm+mt
-source-wordcount: '361'
+source-wordcount: '364'
 ht-degree: 3%
 
 ---
@@ -29,8 +30,8 @@ Design Studio 섹션은 재사용 가능한 &#39;글로벌 자산&#39;이 있는
 <tbody>
   <tr>
     <td>전역 랜딩 페이지</td>
-    <td><li>글로벌 랜딩 페이지 만들기 (자유 형식/가이드).</li>
-    <li>A/B 테스트의 테스트 페이지를 만들어 우승 랜딩 페이지 템플릿을 테스트합니다(해당하는 경우).</li></td>
+    <td><li>만들기 <a href="https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/demand-generation/landing-pages/understanding-landing-pages/understanding-free-form-vs-guided-landing-pages#product-docs">글로벌 랜딩 페이지(자유 형식/가이드)</a>.</li>
+    <li><a href="https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/demand-generation/landing-pages/understanding-landing-pages/landing-page-test-groups">테스트 페이지 만들기</a> 대상 A/B는 우승한 랜딩 페이지 템플릿을 테스트합니다(해당하는 경우).</li></td>
   </tr>
   <tr>
     <td>템플릿</td>
@@ -38,7 +39,7 @@ Design Studio 섹션은 재사용 가능한 &#39;글로벌 자산&#39;이 있는
   </tr>
   <tr>
     <td>개인 정보 및 규정 준수</td>
-    <td><li>를 사용하여 바닥글 만들기 <a href="https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/demand-generation/landing-pages/personalizing-landing-pages/add-a-snippet-to-a-landing-page">코드 조각</a> 또는 개인 정보 보호 규정 준수를 위한 랜딩 페이지의 토큰.</li></td>
+    <td><li>를 사용하여 바닥글 만들기 <a href="https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/demand-generation/landing-pages/personalizing-landing-pages/add-a-snippet-to-a-landing-page">코드 조각</a> 또는 <a href="https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/demand-generation/landing-pages/personalizing-landing-pages/add-text-and-tokens-to-a-landing-page#add-a-token-to-your-landing-page">토큰</a> 개인정보 규정 준수를 위한 랜딩 페이지</li></td>
   </tr>
 </tbody>
 </table>
@@ -125,8 +126,8 @@ Design Studio 섹션은 재사용 가능한 &#39;글로벌 자산&#39;이 있는
     <td>이름 지정 규칙</td>
     <td><li>이미지 및 파일에 대해 일관된 이름 지정 규칙을 사용합니다.</li>  
     <br>예:  
-    <br>파일 이름 지정 규칙: 에셋 유형-에셋 이름(예: 백서 평가-클라우드 컴퓨팅-보드 다운로드) 
-    <p>이미지 이름 지정 규칙: 이미지 유형-자산 유형-자산 이름(예: 썸네일-백서-평가-클라우드 컴퓨팅-보드 가져오기)</td>
+    <br><ul><li>파일 이름 지정 규칙: 에셋 유형-에셋 이름(예: 백서 평가-클라우드 컴퓨팅-보드 다운로드)</li>
+    <p><li>이미지 이름 지정 규칙: 이미지 유형-자산 유형-자산 이름(예: 썸네일-백서-평가-클라우드 컴퓨팅-보드 가져오기)</li></td>
   </tr>
 </tbody>
 </table>

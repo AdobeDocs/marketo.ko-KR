@@ -4,9 +4,10 @@ title: 새 인스턴스 모범 사례 - 마케팅 활동 검사 목록
 hide: true
 hidefromtoc: true
 feature: Getting Started
-source-git-commit: 47446db902f85e1b4a910d0924efc5beb82bffbe
+exl-id: df536423-7ac8-437a-86c1-3692e68cd9fa
+source-git-commit: 3004885d1b6b986eb30072d2f67c5bd29ad251c7
 workflow-type: tm+mt
-source-wordcount: '724'
+source-wordcount: '758'
 ht-degree: 1%
 
 ---
@@ -29,20 +30,20 @@ ht-degree: 1%
 <tbody>
   <tr>
     <td>이름 지정 규칙</td>
-    <td><li>폴더 구조를 구축하기 전에 구독에 대해 일관된 명명 규칙을 정의합니다.</li></td>
+    <td><li>정의 <a href="https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/core-marketo-concepts/programs/working-with-programs/best-practice-how-to-organize-your-programs#naming-schemes">일관된 명명 규칙</a> 폴더 구조를 빌드하기 전에 구독하는 경우.</li></td>
   </tr>
   <tr>
     <td>폴더 구조</td>
-    <td><li>이 예제를 참조하여 일관성 있고 쉽게 탐색할 수 있는 폴더 구조를 구축하십시오.</td>
+    <td><li>를 참조하여 일관되고 쉽게 탐색할 수 있는 폴더 구조 구축 <a href="https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/core-marketo-concepts/programs/working-with-programs/best-practice-how-to-organize-your-programs#folders">이 예</a>.</td>
   </tr>
   <tr>
     <td>프로그램</td>
-    <td><li>관리자 섹션에서 만든 각 채널에 대한 프로그램 템플릿을 만듭니다. 프로그램 라이브러리에서 프로그램을 가져와 쉽게 시작할 수 있습니다. 아래의 "에셋" 표에서 세부 사항을 참조하십시오.</li>
-    <li>글로벌 프로그램과 로컬 프로그램에서 스마트 캠페인의 흐름 단계를 결정할 수 있습니다.</li> <li>획득, 멤버십 및 성공 추적을 프로그램 템플릿의 일부로 포함하여 프로세스를 표준화합니다.</li></td>
+    <td><li>다음에 대한 프로그램 템플릿 만들기 <a href="https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/administration/tags/create-a-program-channel">각 채널</a> 관리자 섹션에서 을(를) 만들었습니다. 다음을 시작할 수 있습니다. <a href="https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/core-marketo-concepts/programs/working-with-programs/import-a-program">프로그램 가져오기</a> 을 참조하십시오. 아래의 "에셋" 표에서 세부 사항을 참조하십시오.</li>
+    <li>결정 <a href="https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/add-a-flow-step-to-a-smart-campaign">스마트 캠페인의 흐름 단계</a> 글로벌 프로그램과 로컬 프로그램에 있을 수 있습니다.</li> <li>획득, 멤버십 및 성공 추적을 프로그램 템플릿의 일부로 포함하여 프로세스를 표준화합니다.</li></td>
   </tr>
   <tr>
     <td>보관</td>
-    <td><li>프로그램 및 자산을 보관할 시기에 대한 정책을 결정합니다. 보관되면 선택 목록과 보고에서 항목이 제거됩니다.</li></td>
+    <td><li>정책 결정 시기 <a href="https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/core-marketo-concepts/miscellaneous/understanding-folders#archive-a-folder">프로그램 및 에셋 보관</a>. 보관되면 선택 목록과 보고에서 항목이 제거됩니다.</li></td>
   </tr>
   <tr>
     <td>알림</td>
@@ -52,6 +53,10 @@ ht-degree: 1%
 </table>
 
 ## 자산 {#assets}
+
+>[!TIP]
+>
+>프로그램, 랜딩 페이지 및 이메일과 같은 마케팅 에셋을 별도의 영역에 저장하려면 &#39;관리 섹션&#39; 체크리스트를 참조하십시오 [링크] 을(를) 클릭하여 작업 공간을 설정하는 방법을 알아봅니다.
 
 <table>
 <thead>
@@ -65,13 +70,14 @@ ht-degree: 1%
     <td>프로그램 유형</td>
     <td><li>이해 <a href="https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/core-marketo-concepts/programs/creating-programs/understanding-programs">4가지 프로그램 유형</a>.</li>
     <li><a href="https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/core-marketo-concepts/programs/working-with-programs/import-a-program">프로그램 템플릿 가져오기</a> 다음에서 <a href="https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/core-marketo-concepts/programs/program-library/program-import-library-overview">프로그램 라이브러리</a> 시작합니다.</li>
-    <li>이메일 프로그램: '설정' 탭 아래에서 <a href="https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/administration/email-setup/enable-communication-limits">통신 제한 활성화</a>(권장).</li>
-    <li>만들기 <a href="https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/demand-generation/events/interactive-webinars/create-an-interactive-webinar">대화형 웨비나</a>, 기본 제공 웨비나 플랫폼, 이벤트 프로그램 사용 및 <a href="https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/demand-generation/events/interactive-webinars/designing-interactive-webinars">대화식 웨비나와 룸 연결</a> program(권장).  <li>설정 <a href="https://experienceleague.adobe.com/docs/marketo/using/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/change-score.html">채점 프로그램</a> 웹 사이트 및 콘텐츠에서 구매 신호를 확인하십시오.</li></td>
+    <li>이메일 프로그램: '설정' 탭 아래에서 <a href="https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/administration/email-setup/enable-communication-limits">통신 제한 활성화</a> (권장).</li>
+    <li>만들기 <a href="https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/demand-generation/events/interactive-webinars/create-an-interactive-webinar">대화형 웨비나</a>, 기본 제공 웨비나 플랫폼, 이벤트 프로그램 사용 및 <a href="https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/demand-generation/events/interactive-webinars/designing-interactive-webinars">대화식 웨비나와 룸 연결</a> 프로그램(권장).</li>
+    <li>설정 <a href="https://experienceleague.adobe.com/docs/marketo/using/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/change-score.html">채점 프로그램</a> 웹 사이트 및 콘텐츠에서 구매 신호를 확인하십시오.</li></td>
   </tr>
   <tr>
     <td>토큰</td>
-    <td><li>설정 <a href="https://experienceleague.adobe.com/docs/marketo/using/product-docs/core-marketo-concepts/programs/tokens/understanding-my-tokens-in-a-program.html">토큰</a></li>.
-    <li>정기적으로 사용되는 프로그램 유형에서 토큰을 사용하여 효율성을 높입니다. 조직에서 정기적으로 필요로 하는 토큰을 구현하는 것을 고려하십시오. <a href="https://experienceleague.adobe.com/docs/marketo/using/product-docs/core-marketo-concepts/programs/tokens/understanding-my-tokens-in-a-program.html#nesting-tokens">전역 폴더</a>.</li></td>
+    <td><li>설정 <a href="https://experienceleague.adobe.com/docs/marketo/using/product-docs/core-marketo-concepts/programs/tokens/understanding-my-tokens-in-a-program.html">토큰</a>.</li>
+    <li>정기적으로 사용되는 프로그램 유형에서 토큰을 사용하여 효율성을 높입니다. 조직에서 정기적으로 필요로 하는 토큰을 구현하는 것을 고려하십시오. <a href="https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/core-marketo-concepts/programs/tokens/understanding-my-tokens-in-a-program#nesting-tokens">전역 폴더</a>.</li></td>
   </tr>
   <tr>
     <td>캠페인 일괄 처리</td>
@@ -80,7 +86,7 @@ ht-degree: 1%
   </tr>
   <tr>
     <td>캠페인 트리거</td>
-    <td><li>설정 <a href="https://experienceleague.adobe.com/docs/marketo/using/product-docs/core-marketo-concepts/smart-campaigns/creating-a-smart-campaign/understanding-batch-and-trigger-smart-campaigns.html#trigger-campaign">스마트 캠페인 트리거</a> 스마트 목록 섹션 내에서 하나 이상의 트리거 사용.</li>
+    <td><li>설정 <a href="https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/core-marketo-concepts/smart-campaigns/creating-a-smart-campaign/understanding-batch-and-trigger-smart-campaigns#trigger-campaign">스마트 캠페인 트리거</a> 스마트 목록 섹션 내에서 하나 이상의 트리거 사용.</li>
     <li>'예약' 탭에서 스마트 캠페인을 활성화하여 캠페인 작업을 실행합니다.</li></td>
   </tr>
   <tr>
@@ -120,8 +126,8 @@ ht-degree: 1%
   </tr>
   <tr>
     <td>개인 소스</td>
-    <td><li>의 리드/개인 소스에 값을 할당하는 중앙 집중식 프로그램 만들기 <a href="https://experienceleague.adobe.com/docs/marketo/using/product-docs/core-marketo-concepts/programs/program-library/op-data-management.html" target="_blank"> 시스템 관리 필드</a></li>.  
-    <li>Operational Data Management 프로그램 가져오기</a> Marketo 프로그램 라이브러리에서 시작합니다.</li></td>
+    <td><li>시스템 관리 필드의 잠재 고객/개인 소스에 값을 할당하는 중앙 집중식 프로그램을 만듭니다.</li>  
+    <li><a href="https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/core-marketo-concepts/programs/program-library/op-data-management">Operational Data Management 프로그램 가져오기</a> Marketo 프로그램 라이브러리에서 시작합니다.</li></td>
   </tr>
   <tr>
     <td>데이터 표준화</td>
@@ -131,7 +137,7 @@ ht-degree: 1%
   <tr>
     <td>바운스 관리</td>
     <td><li>바운스 관리를 위한 운영 프로그램을 만들어 모든 바운스 세부 정보를 캡처합니다.</li>
-    <li><a href="https://experienceleague.adobe.com/docs/marketo/using/product-docs/core-marketo-concepts/programs/program-library/op-lead-management.html">게재 가능성 관리 프로그램 가져오기</a> Marketo 프로그램 라이브러리에서 시작합니다.</li></td>
+    <li><a href="https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/core-marketo-concepts/programs/program-library/op-deliverability-management">게재 가능성 관리 프로그램 가져오기</a> Marketo 프로그램 라이브러리에서 시작합니다.</li></td>
   </tr>
   <tr>
     <td>개인 정보 및 규정 준수</td>
@@ -153,7 +159,7 @@ ht-degree: 1%
   </tr>
   <tr>
     <td>이메일 전달성</td>
-    <td><li><a href="https://experienceleague.adobe.com/docs/marketo/using/product-docs/email-marketing/deliverability/hard-and-soft-bounces-in-email.html">이메일 성과 보고서 만들기</a> 이메일 전송 및 게재 가능성 트렌드 모니터링용.</li></td>
+    <td><li><a href="https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/email-marketing/email-programs/email-program-data/email-performance-report">이메일 성과 보고서 만들기</a> 이메일 전송 및 게재 가능성 트렌드 모니터링용.</li></td>
   </tr>
 </tbody>
 </table>

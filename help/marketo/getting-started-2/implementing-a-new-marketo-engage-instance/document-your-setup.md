@@ -4,9 +4,10 @@ title: 새 인스턴스 모범 사례 - 설정 문서화
 hide: true
 hidefromtoc: true
 feature: Getting Started
-source-git-commit: 47446db902f85e1b4a910d0924efc5beb82bffbe
+exl-id: c64d25e8-564b-487d-824e-7fcbfbf5d8bb
+source-git-commit: 3004885d1b6b986eb30072d2f67c5bd29ad251c7
 workflow-type: tm+mt
-source-wordcount: '379'
+source-wordcount: '388'
 ht-degree: 1%
 
 ---
@@ -55,7 +56,7 @@ ht-degree: 1%
     <br>ID 유형
     <br>제품 프로필
     <p>
-    <li>Marketo Engage 제품 관리자로서 Marketo Engage 사용자 목록을 정기적으로 감사하고 업데이트하는 내부 프로세스를 개발하십시오. Adobe Admin Console의 사용자 목록을 변경하려면 다음을 고려하십시오. <a href="https://helpx.adobe.com/kr/enterprise/using/users.html" target="_blank">.csv 업로드</a> 일괄적으로.</li></td>
+    <li>Marketo Engage 제품 관리자로서 Marketo Engage 사용자 목록을 정기적으로 감사하고 업데이트하는 내부 프로세스를 개발하십시오. Adobe Admin Console의 사용자 목록을 변경하려면 다음을 고려하십시오. <a href="https://helpx.adobe.com/kr/enterprise/using/users.html" target="_blank">대량 작업</a>예를 들어 .CSV 업로드, User Management REST API 사용 등이 있습니다.</li></td>
   </tr>
   <tr>
     <td>조직</td>

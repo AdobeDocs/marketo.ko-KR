@@ -4,9 +4,10 @@ title: 시작 위치
 hide: true
 hidefromtoc: true
 feature: Getting Started
-source-git-commit: 47446db902f85e1b4a910d0924efc5beb82bffbe
+exl-id: 91b751ab-88c5-4575-96f8-166f62f007e2
+source-git-commit: 3004885d1b6b986eb30072d2f67c5bd29ad251c7
 workflow-type: tm+mt
-source-wordcount: '206'
+source-wordcount: '248'
 ht-degree: 0%
 
 ---
@@ -15,7 +16,7 @@ ht-degree: 0%
 
 새 Adobe Marketo Engage 인스턴스 시작! 강력한 마케팅 자동화 기능을 통해 마케팅 작업 및 워크플로를 능률화, 자동화 및 측정할 준비를 하십시오.
 
-이 &quot;새 Marketo Engage 인스턴스 구현&quot; 안내서에서 인스턴스를 원활하게 구현하여 장기 위생 및 운영 효율성을 보장하는 모범 사례에 대해 알아봅니다. 각 체크리스트는 구성 진행 상황을 추적하는 중요한 단계를 제공합니다. 다운로드 가능한 체크리스트를 사용하여 향후 인스턴스 감사 및 온보딩을 위해 작업을 문서화합니다.
+이 &quot;새 Marketo Engage 인스턴스 구현&quot; 안내서에서 인스턴스를 원활하게 구현하여 장기 위생 및 운영 효율성을 보장하는 모범 사례에 대해 알아봅니다. 각 체크리스트는 구성 진행 상황을 추적하는 중요한 단계를 제공합니다. 다운로드 가능한 체크리스트를 사용하여 향후 인스턴스 감사 및 사용자 온보딩을 위해 작업을 문서화합니다.
 
 ## 새 Marketo Engage 인스턴스에 대한 우수 사례 확인 목록 {#best-practice-checklists-new-instance}
 
@@ -33,4 +34,10 @@ Marketo Engage 인스턴스 새 구현 관리자 확인 목록 다운로드[링�
 
 ## 피어와 연결 {#connect-with-your-peers}
 
-다음 방문: [Marketing Nation 커뮤니티](https://nation.marketo.com/){target="_blank"} 또한 커뮤니티 프로필을 만들어 동료에게 Marketo Engage 인스턴스를 구현하고 관리하는 방법을 배우고 질문합니다.
+다음 방문: [Marketing Nation 커뮤니티](https://nation.marketo.com/){target="_blank"} Marketo Engage 직원과 동료 사용자로부터 Marketo Engage 인스턴스에 대해 자세히 알아봅니다.
+
+Marketing Nation 커뮤니티에서 시작하기:
+
+1. 클릭 **Adobe ID 계속** 로그인 페이지에서 기본 구독을 선택합니다.
+1. 로그인하면 커뮤니티 프로필을 작성합니다.
+1. 정보를 제출하면 커뮤니티 홈페이지에 게시되어 언제든지 이동할 수 있습니다.

@@ -4,16 +4,17 @@ title: 새 인스턴스 모범 사례 - 데이터베이스 검사 목록
 hide: true
 hidefromtoc: true
 feature: Getting Started
-source-git-commit: 47446db902f85e1b4a910d0924efc5beb82bffbe
+exl-id: 996ea2db-a00c-48e5-97a8-00f869c261b1
+source-git-commit: 3004885d1b6b986eb30072d2f67c5bd29ad251c7
 workflow-type: tm+mt
-source-wordcount: '302'
+source-wordcount: '300'
 ht-degree: 2%
 
 ---
 
 # 새 인스턴스 모범 사례: 데이터베이스 검사 목록 {#new-instance-best-practices-database-checklist}
 
-데이터베이스 섹션은 인스턴스에 있는 사람에 대한 주요 속성의 스냅샷을 제공합니다. 데이터베이스에서 다양한 목록 및 세그먼트를 탐색하고 사용자 레코드를 관리하는 데 필요한 단계에 대해 자세히 알아봅니다.
+데이터베이스 섹션에서 인스턴스에 있는 사람들의 주요 속성을 찾을 수 있습니다. 데이터베이스에서 다양한 목록 및 세그먼트를 탐색하고 사용자 레코드를 관리하는 데 필요한 단계에 대해 자세히 알아봅니다.
 
 체크리스트를 다운로드해야 합니다. [링크] 진행 상황을 추적할 수 있습니다.
 
@@ -38,7 +39,7 @@ ht-degree: 2%
   </tr>
   <tr>
     <td>마케팅 중단</td>
-    <td><li>정의 <a href="https://experienceleague.adobe.com/docs/marketo/using/product-docs/email-marketing/deliverability/understanding-unsubscribe.html#marketing-suspended" target="_blank">마케팅 일시 중단됨</a> 기준.</li></td>
+    <td><li>정의 <a href="https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/email-marketing/deliverability/understanding-unsubscribe#marketing-suspended" target="_blank">마케팅 일시 중단됨</a> 기준.</li></td>
   </tr>
   <tr>
     <td>반송된 이메일 주소 </td>
@@ -49,7 +50,7 @@ ht-degree: 2%
     <td>가능한 중복 항목</td>
     <td><li>가능한 중복 항목 목록의 사용자를 검토하십시오.</li> 
     <li>중복 관리 전략을 정의하여 다음을 원하는지 결정합니다. <a href="https://experienceleague.adobe.com/docs/marketo/using/product-docs/core-marketo-concepts/smart-lists-and-static-lists/managing-people-in-smart-lists/find-and-merge-duplicate-people.html" target="_blank">수동으로 사람 병합</a>.</li>  
-    <li>CRM 통합이 있는 경우 다음 프로세스 및 계정을 정의합니다 <a href="https://experienceleague.adobe.com/docs/marketo/using/product-docs/core-marketo-concepts/smart-lists-and-static-lists/managing-people-in-smart-lists/find-and-merge-duplicate-people.html#effect-in-salesforce" target="_blank">crm에서 잠재 고객 병합의 효과</a>.</li></td>
+    <li>CRM 통합이 있는 경우 다음 프로세스 및 계정을 정의합니다 <a href="https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/core-marketo-concepts/smart-lists-and-static-lists/managing-people-in-smart-lists/find-and-merge-duplicate-people#effect-in-salesforce" target="_blank">crm에서 잠재 고객 병합의 효과</a>.</li></td>
   </tr>
   <tr>
     <td>획득 프로그램 없음</td>
