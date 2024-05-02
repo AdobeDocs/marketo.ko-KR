@@ -4,9 +4,10 @@ title: 새 인스턴스 모범 사례 - 관리 섹션 검사 목록
 hide: true
 hidefromtoc: true
 feature: Getting Started
-source-git-commit: 47446db902f85e1b4a910d0924efc5beb82bffbe
+exl-id: 4fa90a32-7e97-404c-90b1-90d05c2561d0
+source-git-commit: fa5b686aabd3aab2d9020758fde00ed06564c76c
 workflow-type: tm+mt
-source-wordcount: '1099'
+source-wordcount: '772'
 ht-degree: 1%
 
 ---
@@ -29,7 +30,7 @@ ht-degree: 1%
     <td>역할</td>
     <td><li>미리 작성된 역할을 검토하고 각 역할에 어떤 권한/액세스 권한이 있는지 확인하십시오.</li>
     <li><a href="https://experienceleague.adobe.com/docs/marketo/using/product-docs/administration/users-and-roles/managing-user-roles-and-permissions.html#create-a-new-role" target="_blank">새 역할 만들기</a> 또는 <a href="https://experienceleague.adobe.com/docs/marketo/using/product-docs/administration/users-and-roles/managing-user-roles-and-permissions.html#edit-a-role" target="_blank">역할 편집</a> 조직의 요구 사항을 기반으로 합니다.</li>
-    <li><a href="https://experienceleague.adobe.com/docs/marketo/using/product-docs/administration/users-and-roles/managing-user-roles-and-permissions.html%22%20/l%20%22assign-roles-to-a-user" target="_blank">적절한 역할에 사용자 할당</a>. 역할에서 역할을 부여하려면 먼저 Adobe Admin Console의 구독에 사용자를 추가해야 합니다. '초기 설정' 체크리스트 [LINK]의 '사용자' 섹션을 참조하십시오.</li>
+    <li><a href="https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/administration/users-and-roles/managing-user-roles-and-permissions#assign-roles-to-a-user" target="_blank">적절한 역할에 사용자 할당</a>. 역할에서 역할을 부여하려면 먼저 Adobe Admin Console의 구독에 사용자를 추가해야 합니다. 에서 "사용자" 섹션을 참조하십시오. <a href="/help/marketo/getting-started-2/initial-setup/user-setup.md">초기 설정 체크리스트</a>.</li>
     <li>사용자에 대한 역할을 할당한 후 역할당 사용자 수를 검토하십시오.</li>
     <li>간단한 문제 해결을 위해 각 API 사용자에 대해 고유한 역할을 구현합니다.</li></td>
   </tr>
@@ -198,15 +199,6 @@ ht-degree: 1%
     <li>문제 해결을 위해 CRM 관리자를 식별합니다.</li></td>
   </tr>
   <tr>
-    <td>랜딩 페이지</td>
-    <td>참고: Launch Pack 고객입니까? 이 단계는 건너뛸 수 있습니다. 컨설턴트는 킥오프 통화 중 IT 설치 지침 문서를 제공합니다. <br>을(를) 사용하여 랜딩 페이지 도메인 설정 <a href="https://experienceleague.adobe.com/docs/marketo/using/product-docs/administration/settings/edit-landing-page-settings.html">CNAME</a> 및 <a href="https://experienceleague.adobe.com/docs/marketo/using/product-docs/administration/settings/edit-landing-page-settings.html">도메인 및 페이지 정보 입력</a>. 형식은 [LandingPageCNAME]이어야 합니다.[CompanyDomain].com <br>랜딩 페이지의 CNAME을 선택합니다. 몇 가지 예: <br>* **go**.[CompanyDomain].com <br>* **www2**.[CompanyDomain].com <br>* **lp**.[CompanyDomain].com <br><a href="https://experienceleague.adobe.com/en/docs/customer-one/using/home#create-a-support-ticket-with-admin-console">Marketo 지원 문의</a> 을 클릭하여 SSL 인증서 프로비저닝 프로세스를 시작합니다. 이 프로세스를 완료하는 데 영업일 기준으로 최대 3일이 소요될 수 있습니다. <br>팁: 짧게 유지하십시오! 짧은 URL을 기억하기가 더 쉽습니다. 도메인으로 "go"를 제안합니다. <br>Analytics 추적 코드(예: Google Analytics 또는 Adobe Analytics)를 랜딩 페이지 템플릿에 추가합니다. </td>
-  </tr>
-  <tr>
-    <td>먼치킨</td>
-    <td>참고: Launch Pack 고객인 경우 이 단계를 건너뜁니다. 컨설턴트는 IT 설정 지침 문서에 Munchkin 코드 지침을 제공합니다.
-    <li><a href="https://experienceleague.adobe.com/docs/marketo/using/product-docs/administration/additional-integrations/add-munchkin-tracking-code-to-your-website.html">Munchkin 추적 코드 추가</a> 웹 사이트로 이동합니다. Munchkin 코드는 다음과 같을 수 있습니다. <a href="https://developers.marketo.com/javascript-api/lead-tracking/">하드 코드됨</a> 또는 Google 태그 관리자를 통해 배포됩니다.</li></td>
-  </tr>
-  <tr>
     <td>웹 서비스</td>
     <td><li>다음을 수행할 수 있는 사용자/앱 결정 <a href="https://experienceleague.adobe.com/docs/marketo/using/product-docs/administration/users-and-roles/create-an-api-only-user.html">API 호출</a> 을 참조하십시오.</li>
     <li>API 호출을 수행할 모든 앱을 검토하고 API 호출의 증가 또는 감소가 필요한지 결정합니다.</li></td>
@@ -222,7 +214,7 @@ ht-degree: 1%
   </tr>
   <tr>
     <td>Adobe Dynamic Chat(해당되는 경우)</td>
-    <td>사용용 <a href="https://experienceleague.adobe.com/docs/marketo/using/product-docs/demand-generation/dynamic-chat/dynamic-chat-overview.html">Dynamic Chat</a>의 기본 대화 자동화 채널인 Marketo Engage에서 아래 단계에 따라 사용자 권한 설정을 계속 진행합니다. <a href="https://adminconsole.adobe.com/">Adobe Admin Console</a>. <br>Adobe 조직 시스템 관리자가 Adobe 제품 관리자 역할을 부여했는지 확인합니다. 연락처 <a href="https://helpx.adobe.com/contact.html">Adobe 고객 지원 센터</a> 콘솔에서 관리자 권한이 있는 사용자를 확인합니다. <br>Accept <a href="https://experienceleague.adobe.com/docs/marketo/using/product-docs/demand-generation/dynamic-chat/setup-and-configuration/initial-setup.html">'Dynamic Chat 제품 관리자' 초대</a>. 다음 <a href="https://experienceleague.adobe.com/docs/marketo/using/product-docs/demand-generation/dynamic-chat/setup-and-configuration/initial-setup.html">시작 이메일</a> Dynamic Chat이 Marketo Engage 인스턴스에서 활성화되고 시스템 관리자로 지정되면 전송됩니다.  <br>Adobe Admin Console에서 Dynamic Chat의 제품 프로필에 모든 적절한 사용자를 할당합니다. <br>여러 제품 프로필에 원하지 않는 사용자가 추가되면 모든 제품 프로필에서 해당 사용자를 삭제해야 합니다. 그렇지 않으면 Dynamic Chat에 계속 액세스할 수 있습니다. <br>다음을 수행할 수 있습니다. <a href="https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/demand-generation/dynamic-chat/setup-and-configuration/permissions#edit-existing-permissions">Dynamic Chat에서 제품 프로필 편집</a> 및 의 사용자 지정 집합으로 사용자 지정 프로필을 만듭니다. <a href="https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/demand-generation/dynamic-chat/setup-and-configuration/permissions#list-of-permissions">구독 내에서 사용 가능한 권한</a>. <br>사용자 할당 대상 <a href="https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/demand-generation/dynamic-chat/setup-and-configuration/add-or-remove-chat-users#add-dynamic-chat-access-to-marketo-role">'액세스 Dynamic Chat' 역할</a> Marketo Engage/관리자/사용자 및 역할의 . </td>
+    <td><li>사용자 할당 대상 <a href="https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/demand-generation/dynamic-chat/setup-and-configuration/add-or-remove-chat-users#add-dynamic-chat-access-to-marketo-role">'액세스 Dynamic Chat' 역할</a> Marketo Engage &gt; 관리자 &gt; 사용자 및 역할에서 다음을 수행합니다.</li></td>
   </tr>
   <tr>
     <td>Sales Insight(해당되는 경우)</td>
@@ -235,6 +227,11 @@ ht-degree: 1%
     <td>Sales Connect(해당되는 경우)</td>
     <td><li><a href="https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/marketo-sales-connect/getting-started/accessing-your-new-sales-connect-instance">Sales Connect 인스턴스에 적절한 Marketo Engage 관리자 초대</a>.</li>
     <li>다음을 완료합니다. <a href="https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/marketo-sales-connect/getting-started/getting-started-guide-for-sales-connect-admins">추가 Sales Connect 관리자 설정</a> Sales Connect 및 Salesforce에서 확인할 수 있습니다.</li></td>
+  </tr>
+  <tr>
+    <td>Webhooks(해당되는 경우)</td>
+    <td><li><a href="https://experienceleague.adobe.com/docs/marketo/using/product-docs/administration/additional-integrations/create-a-webhook.html">필요한 웹후크 만들기</a> 비즈니스.</li>
+    </td>
   </tr>
 </tbody>
 </table>
