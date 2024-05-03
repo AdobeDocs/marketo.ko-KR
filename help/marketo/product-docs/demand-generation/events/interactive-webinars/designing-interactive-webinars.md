@@ -3,9 +3,9 @@ description: 대화형 웨비나 디자인 - Marketo 문서 - 제품 설명서
 title: 대화형 웨비나 디자인
 exl-id: e340910a-ddcb-46e8-82a9-faedf0ab2d74
 feature: Interactive Webinars
-source-git-commit: 7f90ff09fbab7bc1559ce75b213cb86bd3cd25f4
+source-git-commit: 97480487268af59aac90ef64bc1ef35ee81db310
 workflow-type: tm+mt
-source-wordcount: '475'
+source-wordcount: '488'
 ht-degree: 0%
 
 ---
@@ -27,6 +27,8 @@ ht-degree: 0%
    >* 룸은 회의를 진행하는 데 사용되는 온라인 공간입니다.
    >
    >* 기존 웨비나 룸을 선택하고 이름을 변경해야 하는 경우 **웨비나 룸 이름 바꾸기** 오른쪽 버튼
+   >
+   >* 드롭다운에는 다른 호스트의 룸이 아니라 이전에 생성한 기존 룸만 표시됩니다.
 
 1. 템플릿을 선택합니다.
 

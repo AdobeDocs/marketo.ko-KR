@@ -5,7 +5,7 @@ hide: true
 hidefromtoc: true
 feature: Getting Started
 exl-id: 4fa90a32-7e97-404c-90b1-90d05c2561d0
-source-git-commit: fa5b686aabd3aab2d9020758fde00ed06564c76c
+source-git-commit: 97480487268af59aac90ef64bc1ef35ee81db310
 workflow-type: tm+mt
 source-wordcount: '772'
 ht-degree: 1%
@@ -41,7 +41,7 @@ ht-degree: 1%
   </tr>
   <tr>
     <td>샌드박스(해당되는 경우)</td>
-    <td><li>다음에 대한 위의 범주를 검토하십시오. <a href="/help/marketo/product-docs/core-marketo-concepts/miscellaneous/marketo-sandbox.md">샌드박스</a>.</li></td>
+    <td><li>다음에 대한 위의 범주를 검토하십시오. <a href="/help/marketo/product-docs/core-marketo-concepts/miscellaneous/marketo-sandbox.md" target="_blank">샌드박스</a>.</li></td>
   </tr>
 </tbody>
 </table>
@@ -172,12 +172,12 @@ ht-degree: 1%
   </tr>
   <tr>
     <td>사용자 지정 활동</td>
-    <td><li>정의 <a href="https://experienceleague.adobe.com/docs/marketo/using/product-docs/administration/marketo-custom-activities/understanding-custom-activities.html">사용자 지정 활동</a> 이는 귀하의 비즈니스에 따라 다릅니다.</li></td>
+    <td><li>정의 <a href="https://experienceleague.adobe.com/docs/marketo/using/product-docs/administration/marketo-custom-activities/understanding-custom-activities.html" target="_blank">사용자 지정 활동</a> 이는 귀하의 비즈니스에 따라 다릅니다.</li></td>
   </tr>
   <tr>
     <td>사용자 지정 개체</td>
-    <td><li>몇 개 검토 <a href="https://experienceleague.adobe.com/docs/marketo/using/product-docs/administration/marketo-custom-objects/understanding-marketo-custom-objects.html">사용자 지정 개체</a> 넌 필요해.</li>
-    <li><a href="https://experienceleague.adobe.com/docs/marketo/using/product-docs/crm-sync/salesforce-sync/sfdc-sync-details/sfdc-sync-custom-object-sync.html">이러한 사용자 지정 개체를 CRM에 동기화</a>.</li></td>
+    <td><li>몇 개 검토 <a href="https://experienceleague.adobe.com/docs/marketo/using/product-docs/administration/marketo-custom-objects/understanding-marketo-custom-objects.html" target="_blank">사용자 지정 개체</a> 넌 필요해.</li>
+    <li><a href="https://experienceleague.adobe.com/docs/marketo/using/product-docs/crm-sync/salesforce-sync/sfdc-sync-details/sfdc-sync-custom-object-sync.html" target="_blank">이러한 사용자 지정 개체를 CRM에 동기화</a>.</li></td>
   </tr>
 </tbody>
 </table>
@@ -194,43 +194,43 @@ ht-degree: 1%
 <tbody>
   <tr>
     <td>CRM </td>
-    <td><li>CRM 동기화를 시작합니다. 회사에서 사용하는 CRM에 따라 다음 중에서 선택하십시오. <a href="https://experienceleague.adobe.com/docs/marketo-learn/tutorials/integrations/salesforce-sync-setup.html">Salesforce</a> | <a href="https://experienceleague.adobe.com/docs/marketo-learn/tutorials/integrations/microsoft-dynamics-sync-setup.html">Microsoft Dynamics</a>.</li>
+    <td><li>CRM 동기화를 시작합니다. 회사에서 사용하는 CRM에 따라 다음 중에서 선택하십시오. <a href="https://experienceleague.adobe.com/docs/marketo-learn/tutorials/integrations/salesforce-sync-setup.html" target="_blank">Salesforce</a> | <a href="https://experienceleague.adobe.com/docs/marketo-learn/tutorials/integrations/microsoft-dynamics-sync-setup.html" target="_blank">Microsoft Dynamics</a>.</li>
     <li>CRM에 액세스하는 데 필요한 액세스 유형을 식별합니다.</li>
     <li>문제 해결을 위해 CRM 관리자를 식별합니다.</li></td>
   </tr>
   <tr>
     <td>웹 서비스</td>
-    <td><li>다음을 수행할 수 있는 사용자/앱 결정 <a href="https://experienceleague.adobe.com/docs/marketo/using/product-docs/administration/users-and-roles/create-an-api-only-user.html">API 호출</a> 을 참조하십시오.</li>
+    <td><li>다음을 수행할 수 있는 사용자/앱 결정 <a href="https://experienceleague.adobe.com/docs/marketo/using/product-docs/administration/users-and-roles/create-an-api-only-user.html" target="_blank">API 호출</a> 을 참조하십시오.</li>
     <li>API 호출을 수행할 모든 앱을 검토하고 API 호출의 증가 또는 감소가 필요한지 결정합니다.</li></td>
   </tr>
   <tr>
     <td>시작 지점</td>
-    <td><li>설정 <a href="https://experienceleague.adobe.com/docs/marketo/using/product-docs/administration/additional-integrations/add-adobe-connect-as-a-launchpoint-service.html">시작 지점</a> 비즈니스를 위한 서비스. 각 LaunchPoint는 문제 해결을 지원하기 위해 고유한 API 사용자와 연결되어야 합니다.</li></td>
+    <td><li>설정 <a href="https://experienceleague.adobe.com/docs/marketo/using/product-docs/administration/additional-integrations/add-adobe-connect-as-a-launchpoint-service.html" target="_blank">시작 지점</a> 비즈니스를 위한 서비스. 각 LaunchPoint는 문제 해결을 지원하기 위해 고유한 API 사용자와 연결되어야 합니다.</li></td>
   </tr>
   <tr>
     <td>대화형 웨비나(해당되는 경우)</td>
     <td>참고: 대화형 웨비나는 프로덕션 인스턴스에만 프로비저닝됩니다.
-    <li>기본 제공 웨비나 기능인 대화형 웨비나를 만들려면 <a href="https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/demand-generation/events/interactive-webinars/user-and-license-management">'사용자' 섹션에 사용자 추가</a> ( 대화형 웨비나 탭).</li></td>
+    <li>기본 제공 웨비나 기능인 대화형 웨비나를 만들려면 <a href="https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/demand-generation/events/interactive-webinars/user-and-license-management" target="_blank">'사용자' 섹션에 사용자 추가</a> ( 대화형 웨비나 탭).</li></td>
   </tr>
   <tr>
     <td>Adobe Dynamic Chat(해당되는 경우)</td>
-    <td><li>사용자 할당 대상 <a href="https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/demand-generation/dynamic-chat/setup-and-configuration/add-or-remove-chat-users#add-dynamic-chat-access-to-marketo-role">'액세스 Dynamic Chat' 역할</a> Marketo Engage &gt; 관리자 &gt; 사용자 및 역할에서 다음을 수행합니다.</li></td>
+    <td><li>사용자 할당 대상 <a href="https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/demand-generation/dynamic-chat/setup-and-configuration/add-or-remove-chat-users#add-dynamic-chat-access-to-marketo-role" target="_blank">'액세스 Dynamic Chat' 역할</a> Marketo Engage &gt; 관리자 &gt; 사용자 및 역할에서 다음을 수행합니다.</li></td>
   </tr>
   <tr>
     <td>Sales Insight(해당되는 경우)</td>
-    <td><li><a href="https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/marketo-sales-insight/actions/getting-started/sales-insight-actions-admin-setup-guide#set-up-marketo-sales-account">Sales Insight 작업 설정</a> Sales Insight &gt; Actions Config에서 확인할 수 있습니다.</li>
-    <li><a href="https://experienceleague.adobe.com/docs/marketo/using/product-docs/marketo-sales-insight/actions/getting-started/sales-insight-actions-admin-setup-guide.html#invite-individual-users-to-msi-actions">적절한 사용자에게 시트 발행</a>.</li>
-    <li><a href="https://experienceleague.adobe.com/docs/marketo/using/product-docs/marketo-sales-insight/msi-for-salesforce/configuration/marketo-sales-insight-configuration-tab-in-salesforce.html">API 구성</a>.</li>
-    <li><a href="https://experienceleague.adobe.com/docs/marketo/using/product-docs/marketo-sales-insight/msi-for-salesforce/features/stars-and-flames/priority-urgency-relative-score-and-best-bets.html">잠재 고객 점수 사용자 지정</a>.</li></td>
+    <td><li><a href="https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/marketo-sales-insight/actions/getting-started/sales-insight-actions-admin-setup-guide#set-up-marketo-sales-account" target="_blank">Sales Insight 작업 설정</a> Sales Insight &gt; Actions Config에서 확인할 수 있습니다.</li>
+    <li><a href="https://experienceleague.adobe.com/docs/marketo/using/product-docs/marketo-sales-insight/actions/getting-started/sales-insight-actions-admin-setup-guide.html#invite-individual-users-to-msi-actions" target="_blank">적절한 사용자에게 시트 발행</a>.</li>
+    <li><a href="https://experienceleague.adobe.com/docs/marketo/using/product-docs/marketo-sales-insight/msi-for-salesforce/configuration/marketo-sales-insight-configuration-tab-in-salesforce.html" target="_blank">API 구성</a>.</li>
+    <li><a href="https://experienceleague.adobe.com/docs/marketo/using/product-docs/marketo-sales-insight/msi-for-salesforce/features/stars-and-flames/priority-urgency-relative-score-and-best-bets.html" target="_blank">잠재 고객 점수 사용자 지정</a>.</li></td>
   </tr>
   <tr>
     <td>Sales Connect(해당되는 경우)</td>
-    <td><li><a href="https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/marketo-sales-connect/getting-started/accessing-your-new-sales-connect-instance">Sales Connect 인스턴스에 적절한 Marketo Engage 관리자 초대</a>.</li>
-    <li>다음을 완료합니다. <a href="https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/marketo-sales-connect/getting-started/getting-started-guide-for-sales-connect-admins">추가 Sales Connect 관리자 설정</a> Sales Connect 및 Salesforce에서 확인할 수 있습니다.</li></td>
+    <td><li><a href="https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/marketo-sales-connect/getting-started/accessing-your-new-sales-connect-instance" target="_blank">Sales Connect 인스턴스에 적절한 Marketo Engage 관리자 초대</a>.</li>
+    <li>다음을 완료합니다. <a href="https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/marketo-sales-connect/getting-started/getting-started-guide-for-sales-connect-admins" target="_blank">추가 Sales Connect 관리자 설정</a> Sales Connect 및 Salesforce에서 확인할 수 있습니다.</li></td>
   </tr>
   <tr>
     <td>Webhooks(해당되는 경우)</td>
-    <td><li><a href="https://experienceleague.adobe.com/docs/marketo/using/product-docs/administration/additional-integrations/create-a-webhook.html">필요한 웹후크 만들기</a> 비즈니스.</li>
+    <td><li><a href="https://experienceleague.adobe.com/docs/marketo/using/product-docs/administration/additional-integrations/create-a-webhook.html" target="_blank">필요한 웹후크 만들기</a> 비즈니스.</li>
     </td>
   </tr>
 </tbody>
@@ -248,12 +248,12 @@ ht-degree: 1%
 <tbody>
   <tr>
     <td>보물상자 </td>
-    <td><li><a href="https://experienceleague.adobe.com/docs/marketo/using/product-docs/administration/settings/enable-or-disable-treasure-chest-features.html">보물 상자 활성화</a> 테스트 도구 모음을 표시합니다.</li>
+    <td><li><a href="https://experienceleague.adobe.com/docs/marketo/using/product-docs/administration/settings/enable-or-disable-treasure-chest-features.html" target="_blank">보물 상자 활성화</a> 테스트 도구 모음을 표시합니다.</li>
     <li>켜거나 끌 기능을 결정합니다.</li></td>
   </tr>
   <tr>
     <td>캠페인 검사자 </td>
-    <td><li><a href="https://experienceleague.adobe.com/docs/marketo/using/product-docs/administration/settings/campaign-inspector.html">Campaign Inspector 켜기</a> 모든 Smart Campaign을 한 번에 볼 수 있습니다.</li></td>
+    <td><li><a href="https://experienceleague.adobe.com/docs/marketo/using/product-docs/administration/settings/campaign-inspector.html" target="_blank">Campaign Inspector 켜기</a> 모든 Smart Campaign을 한 번에 볼 수 있습니다.</li></td>
   </tr>
 </tbody>
 </table>

@@ -5,9 +5,9 @@ hide: true
 hidefromtoc: true
 feature: Getting Started
 exl-id: c7b068fc-a038-4f9c-a037-72440a1a864e
-source-git-commit: f9bf2082968737277b3c976659802992f975ec9a
+source-git-commit: 97480487268af59aac90ef64bc1ef35ee81db310
 workflow-type: tm+mt
-source-wordcount: '732'
+source-wordcount: '767'
 ht-degree: 0%
 
 ---
@@ -51,6 +51,12 @@ ht-degree: 0%
     <td><li>정책 생성 시기 <a href="https://experienceleague.adobe.com/docs/marketo/using/product-docs/administration/marketo-with-adobe-identity/add-or-remove-a-user.html">사용자 만들기</a>.</li> <li>사용자를 제거할 시기에 대한 정책을 만듭니다.</li>
     <li>다음을 보유해야 하는 사람 결정 <a href="https://experienceleague.adobe.com/docs/marketo/using/product-docs/administration/marketo-with-adobe-identity/adobe-identity-management-overview.html">Adobe 시스템 관리자 및 Marketo Engage 제품 관리자 권한.</a> <li><a href="https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/administration/marketo-with-adobe-identity/add-or-remove-a-user">사용자 추가</a> 원하는 제품 프로필로 이동합니다.</li>
     <li>각 API 사용 사례에 대해 하나의 API 사용자를 만듭니다.</li></td>
+  </tr>
+  <tr>
+    <td>User Management API(해당되는 경우)</td>
+    <td><li>사용 <a href="https://www.adobe.io/apis/experienceplatform/umapi-new.html">Adobe 사용자 관리 API</a> 사용자를 초대, 업데이트 및 삭제합니다.</li>
+    <li>사용 <a href="https://developer.adobe.com/umapi/">Adobe 사용자 관리 API</a> 역할(예: 관리자, 지원 관리자, 개발자)을 추가하거나 제거합니다.</li>
+    </td>
   </tr>
   <tr>
     <td>제품 지원 관리자 </td>

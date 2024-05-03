@@ -5,9 +5,9 @@ hide: true
 hidefromtoc: true
 feature: Getting Started
 exl-id: 91b751ab-88c5-4575-96f8-166f62f007e2
-source-git-commit: 67b9d79482c16b0b513f81b02fe8f237961ac30f
+source-git-commit: 97480487268af59aac90ef64bc1ef35ee81db310
 workflow-type: tm+mt
-source-wordcount: '255'
+source-wordcount: '274'
 ht-degree: 0%
 
 ---
@@ -18,9 +18,13 @@ ht-degree: 0%
 
 이 &quot;새 Marketo Engage 인스턴스 구현&quot; 안내서에서 인스턴스를 원활하게 구현하여 장기 위생 및 운영 효율성을 보장하는 모범 사례에 대해 알아봅니다. 각 체크리스트는 구성 진행 상황을 추적하는 중요한 단계를 제공합니다. 다운로드 가능한 체크리스트를 사용하여 향후 인스턴스 감사 및 사용자 온보딩을 위해 작업을 문서화합니다.
 
-## 필수 단계
+## 초기 설정 {#initial-setup}
 
-이 섹션의 단어 입력 및 이름 변경
+아래의 모범 사례 확인 목록으로 이동하기 전에 초기 설정 영역의 단계를 따랐는지 확인하십시오.
+
+* [초기 설정 작업](/help/marketo/getting-started-2/initial-setup/initial-setup-tasks.md)
+
+* [사용자 설정](/help/marketo/getting-started-2/initial-setup/user-setup.md)
 
 ## 새 Marketo Engage 인스턴스에 대한 우수 사례 확인 목록 {#best-practice-checklists-new-instance}
 
