@@ -3,16 +3,16 @@ description: 새 Marketo Engage 인스턴스를 탐색하기 전에 몇 가지 �
 title: 사용자 설정 체크리스트
 feature: Getting Started
 exl-id: c7b068fc-a038-4f9c-a037-72440a1a864e
-source-git-commit: 7805983cdaff0b99a38aefc2c2467b53f3386da3
+source-git-commit: a3d9fcfa0381933e1a7e62f19b414bc380f325b5
 workflow-type: tm+mt
-source-wordcount: '776'
+source-wordcount: '799'
 ht-degree: 0%
 
 ---
 
 # 사용자 설정 체크리스트 {#user-setup-checklist}
 
-이제 모든 작업을 완료했으므로 [초기 설정 단계](/help/marketo/getting-started/initial-setup/setup-steps.md)를 통해 원활한 지속적인 사용을 보장하기 위한 몇 가지 기본 요소를 수립해야 할 때입니다. 이를 통해 Marketo Engage을 통한 여정의 토대를 마련하고 기능을 최대한 활용할 수 있습니다. 시작해 보겠습니다!
+이제 모든 작업을 완료했으므로 [초기 설정 단계](/help/marketo/getting-started/initial-setup/setup-steps.md){target="_blank"}를 통해 원활한 지속적인 사용을 보장하기 위한 몇 가지 기본 요소를 수립해야 할 때입니다. 이를 통해 Marketo Engage을 통한 여정의 토대를 마련하고 기능을 최대한 활용할 수 있습니다. 시작해 보겠습니다!
 
 >[!NOTE]
 >
@@ -34,7 +34,7 @@ ht-degree: 0%
     <td>구독 및 Marketo Engage 제품 관리자</td>
     <td><li>Adobe 조직 시스템 관리자가 Adobe 제품 관리자 역할을 부여했는지 확인합니다.</li>  
     <ul>
-    <li>연락처 <a href="https://helpx.adobe.com/contact.html">Adobe 고객 지원 센터</a> 조직의 사용자를 확인하려면 <a href="https://experienceleague.adobe.com/docs/marketo/using/product-docs/administration/marketo-with-adobe-identity/adobe-identity-management-overview.html">Adobe Admin Console 시스템 관리자</a> 권한.</li></ul>
+    <li>Adobe 계정 팀(계정 관리자)에 문의하거나 (으)로 이메일 보내기 <code>customercare@marketo.com</code> 또는 customercare@marketo.comto으로 이메일을 보내 조직에서 사용자를 확인합니다. <a href="https://experienceleague.adobe.com/docs/marketo/using/product-docs/administration/marketo-with-adobe-identity/adobe-identity-management-overview.html">Adobe Admin Console 시스템 관리자</a> 권한.</li></ul>
     <li>Adobe ID을 활성화하려면 'Marketo Engage 제품 관리자' 초대를 수락하십시오. 다음 <a href="https://experienceleague.adobe.com/docs/marketo/using/product-docs/administration/marketo-with-adobe-identity/admin-setup.html?lang=en#create-a-product-profile">시작 이메일</a> 은 Adobe Admin Console에서 역할이 할당되면 전송됩니다.</li></td>
   </tr>
   <tr>
@@ -67,7 +67,7 @@ ht-degree: 0%
 
 ## Identity Management 설정 Adobe 시 Dynamic Chat {#dynamic-chat-on-adobe-identity-management}
 
-사용 [Dynamic Chat](https://experienceleague.adobe.com/docs/marketo/using/product-docs/demand-generation/dynamic-chat/dynamic-chat-overview.html)의 기본 대화 자동화 채널인 Marketo Engage에서 아래 단계에 따라 사용자 권한 설정을 계속 진행합니다. [Adobe Admin Console](https://adminconsole.adobe.com/).
+사용 [Dynamic Chat](https://experienceleague.adobe.com/docs/marketo/using/product-docs/demand-generation/dynamic-chat/dynamic-chat-overview.html)의 기본 대화 자동화 채널인 Marketo Engage에서 아래 단계에 따라 사용자 권한 설정을 계속 진행합니다. [Adobe Admin Console](https://adminconsole.adobe.com/){target="_blank"}.
 
 <table>
 <thead>
@@ -79,14 +79,15 @@ ht-degree: 0%
 <tbody>
   <tr>
     <td>구독 및 Dynamic Chat 제품 관리자(해당되는 경우)</td>
-    <td><li>Adobe 조직 시스템 관리자가 Adobe 제품 관리자 역할을 부여했는지 확인합니다. 연락처 <a href="https://helpx.adobe.com/contact.html">Adobe 고객 지원 센터</a> 콘솔에서 관리자 권한이 있는 사용자를 확인합니다.</li>
+    <td><li>Adobe 조직 시스템 관리자가 Adobe 제품 관리자 역할을 부여했는지 확인합니다.</li> 
+    <ul><li>Adobe 계정 팀(계정 관리자)에 문의하거나 (으)로 이메일 보내기 <code>customercare@marketo.com</code> 조직의 사용자를 확인하려면 <a href="https://experienceleague.adobe.com/docs/marketo/using/product-docs/administration/marketo-with-adobe-identity/adobe-identity-management-overview.html">Adobe Admin Console 시스템 관리자</a> 권한.</li></ul>
     <li>수락 <a href="https://experienceleague.adobe.com/docs/marketo/using/product-docs/demand-generation/dynamic-chat/setup-and-configuration/initial-setup.html">'Dynamic Chat 제품 관리자'</a> 초대합니다. 다음 <a href="https://experienceleague.adobe.com/docs/marketo/using/product-docs/demand-generation/dynamic-chat/setup-and-configuration/initial-setup.html">시작 이메일</a> Dynamic Chat이 Marketo Engage 인스턴스에서 활성화되고 시스템 관리자로 지정되면 전송됩니다.</li></td>
   </tr>
   <tr>
     <td>제품 프로필</td>
     <td><li>Adobe Admin Console에서 원하는 모든 사용자를 Dynamic Chat의 제품 프로필에 할당합니다.</li> 
     <ul>
-    <li>여러 제품 프로필에 원하지 않는 사용자가 추가되면 모든 제품 프로필에서 해당 사용자를 삭제해야 합니다. 그렇지 않으면 Dynamic Chat에 계속 액세스할 수 있습니다.</li>
+    <li>여러 제품 프로필에 원하지 않는 사용자가 추가되면 모든 제품 프로필에서 사용자를 삭제해야 합니다. 그렇지 않으면 Dynamic Chat에 계속 액세스할 수 있습니다.</li>
     <li>다음을 수행할 수 있습니다. <a href="https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/demand-generation/dynamic-chat/setup-and-configuration/permissions#edit-existing-permissions">Dynamic Chat에서 제품 프로필 편집</a> 및 의 사용자 지정 집합으로 사용자 지정 프로필을 만듭니다. <a href="https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/demand-generation/dynamic-chat/setup-and-configuration/permissions#list-of-permissions">구독 내에서 사용 가능한 권한</a>.</li></td>
   </tr>
   <tr>
@@ -121,4 +122,4 @@ ht-degree: 0%
 
 <p>
 
-이제 Marketo Engage 계정을 사용할 준비가 되었으므로 [새 Marketo Engage 인스턴스에 대한 우수 사례](/help/marketo/getting-started/implementing-a-new-marketo-engage-instance/where-to-start.md) 섹션 을 통해 투자를 최대한 활용하고 장기적인 성공을 위한 환경을 구축할 수 있습니다.
+이제 Marketo Engage 계정을 사용할 준비가 되었으므로 [새 Marketo Engage 인스턴스에 대한 우수 사례](/help/marketo/getting-started/implementing-a-new-marketo-engage-instance/where-to-start.md){target="_blank"} 섹션 을 통해 투자를 최대한 활용하고 장기적인 성공을 위한 환경을 구축할 수 있습니다.

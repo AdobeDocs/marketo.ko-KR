@@ -3,7 +3,7 @@ description: 상속된 인스턴스 관리 검사 목록 - Marketo 문서 - 제�
 title: 상속된 인스턴스 관리 검사 목록
 feature: Getting Started
 exl-id: 088f3ce9-bf3d-4323-9cde-c39fec06c20e
-source-git-commit: 14583b7fa148aa2b03c8cf6316b9a106c11717b7
+source-git-commit: a3d9fcfa0381933e1a7e62f19b414bc380f325b5
 workflow-type: tm+mt
 source-wordcount: '1846'
 ht-degree: 1%
@@ -41,7 +41,7 @@ ht-degree: 1%
    <td>제품 프로필</td> 
    <td><li>모든 적절한 사용자가 Adobe Admin Console에서 Marketo Engage의 제품 프로필에 할당됩니까?
 <br/>     그렇지 않은 경우 다음을 확인하십시오. <a href="/help/marketo/product-docs/administration/marketo-with-adobe-identity/add-or-remove-a-user.md" target="_blank">사용자 추가 및/또는 제거</a> Adobe Admin Console의 Marketo Engage 제품 프로필에서. 제품 프로필에 추가된 경우 Marketo Engage &gt; 관리자 &gt; 사용자 및 역할에서 사용자 역할을 할당할 수 없습니다.</li>
-<p><img src="assets/note-icon.png" alt="메모 아이콘"> 참고: 여러 제품 프로필에 원하지 않는 사용자가 추가되면 모든 제품 프로필에서 해당 사용자를 제거해야 합니다. 그렇지 않으면, 여전히 Marketo Engage에 액세스할 수 있습니다.</td>
+<p><img src="assets/note-icon.png" alt="메모 아이콘"> 참고: 원치 않는 사용자가 여러 제품 프로필에 추가되면 모든 제품 프로필에서 사용자를 제거해야 합니다. 그렇지 않으면, 여전히 Marketo Engage에 액세스할 수 있습니다.</td>
   </tr>
   <tr> 
    <td>사용자 관리 API</td> 
