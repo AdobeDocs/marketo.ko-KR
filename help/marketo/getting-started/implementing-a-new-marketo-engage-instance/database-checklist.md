@@ -3,7 +3,7 @@ description: 새 Marketo Engage 인스턴스에 대한 데이터베이스 섹션
 title: 새 인스턴스 모범 사례 - 데이터베이스 검사 목록
 feature: Getting Started
 exl-id: 996ea2db-a00c-48e5-97a8-00f869c261b1
-source-git-commit: 14583b7fa148aa2b03c8cf6316b9a106c11717b7
+source-git-commit: 7805983cdaff0b99a38aefc2c2467b53f3386da3
 workflow-type: tm+mt
 source-wordcount: '301'
 ht-degree: 2%
@@ -14,7 +14,7 @@ ht-degree: 2%
 
 데이터베이스 섹션에서 인스턴스에 있는 사람들의 주요 속성을 찾을 수 있습니다. 데이터베이스에서 다양한 목록 및 세그먼트를 탐색하고 사용자 레코드를 관리하는 데 필요한 단계에 대해 자세히 알아봅니다.
 
-다음을 잊지 마십시오. [확인 목록 다운로드](/help/marketo/getting-started/inheriting-a-marketo-engage-instance/assets/adobe-marketo-engage-new-instance-admin-checklist.xlsx) 진행 상황을 추적할 수 있습니다.
+다음을 잊지 마십시오. [확인 목록 다운로드](/help/marketo/getting-started/implementing-a-new-marketo-engage-instance/assets/adobe-marketo-engage-new-instance-admin-checklist.xlsx) 진행 상황을 추적할 수 있습니다.
 
 ## 시스템 스마트 목록 {#system-smart-lists}
 

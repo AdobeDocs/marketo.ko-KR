@@ -3,7 +3,7 @@ description: 새 Marketo Engage 인스턴스에 대해 Design Studio 섹션을 �
 title: 새로운 인스턴스 모범 사례 - Design Studio 검사 목록
 feature: Getting Started
 exl-id: 070ee235-dad0-4627-bac0-14bf0174bb03
-source-git-commit: 14583b7fa148aa2b03c8cf6316b9a106c11717b7
+source-git-commit: 7805983cdaff0b99a38aefc2c2467b53f3386da3
 workflow-type: tm+mt
 source-wordcount: '369'
 ht-degree: 2%
@@ -14,7 +14,7 @@ ht-degree: 2%
 
 Design Studio 섹션은 재사용 가능한 &#39;글로벌 자산&#39;이 있는 위치입니다. 조직에서 프로그램에서 사용할 전역 자산을 만들고 일관된 명명 규칙을 사용하며 쉬운 검색을 위해 하위 폴더에 구성합니다.
 
-다음을 잊지 마십시오. [확인 목록 다운로드](/help/marketo/getting-started/inheriting-a-marketo-engage-instance/assets/adobe-marketo-engage-new-instance-admin-checklist.xlsx) 진행 상황을 추적할 수 있습니다.
+다음을 잊지 마십시오. [확인 목록 다운로드](/help/marketo/getting-started/implementing-a-new-marketo-engage-instance/assets/adobe-marketo-engage-new-instance-admin-checklist.xlsx) 진행 상황을 추적할 수 있습니다.
 
 ## 랜딩 페이지 {#landing-pages}
 

@@ -3,7 +3,7 @@ description: 새 Marketo Engage 인스턴스에 대한 마케팅 활동 섹션�
 title: 새 인스턴스 모범 사례 - 마케팅 활동 검사 목록
 feature: Getting Started
 exl-id: df536423-7ac8-437a-86c1-3692e68cd9fa
-source-git-commit: 14583b7fa148aa2b03c8cf6316b9a106c11717b7
+source-git-commit: 7805983cdaff0b99a38aefc2c2467b53f3386da3
 workflow-type: tm+mt
 source-wordcount: '794'
 ht-degree: 1%
@@ -14,7 +14,7 @@ ht-degree: 1%
 
 마케팅 활동에는 자동화된 마케팅 프로그램을 구성하는 모든 에셋 및 콘텐츠가 보관됩니다. 새 Marketo Engage 인스턴스를 설정할 때 깔끔하고 명확한 조직을 통해 모든 사용자가 다양한 프로그램을 쉽게 찾고 관리할 수 있습니다.
 
-다음을 잊지 마십시오. [확인 목록 다운로드](/help/marketo/getting-started/inheriting-a-marketo-engage-instance/assets/adobe-marketo-engage-new-instance-admin-checklist.xlsx) 진행 상황을 추적할 수 있습니다.
+다음을 잊지 마십시오. [확인 목록 다운로드](/help/marketo/getting-started/implementing-a-new-marketo-engage-instance/assets/adobe-marketo-engage-new-instance-admin-checklist.xlsx) 진행 상황을 추적할 수 있습니다.
 
 ## 조직 {#organization}
 

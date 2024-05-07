@@ -3,7 +3,7 @@ description: 새 Marketo Engage 인스턴스에 대한 관리 섹션을 설정�
 title: 새 인스턴스 모범 사례 - 관리 섹션 검사 목록
 feature: Getting Started
 exl-id: 4fa90a32-7e97-404c-90b1-90d05c2561d0
-source-git-commit: 14583b7fa148aa2b03c8cf6316b9a106c11717b7
+source-git-commit: 7805983cdaff0b99a38aefc2c2467b53f3386da3
 workflow-type: tm+mt
 source-wordcount: '634'
 ht-degree: 1%
@@ -12,7 +12,7 @@ ht-degree: 1%
 
 # 새 인스턴스 모범 사례: 관리 섹션 검사 목록 {#new-instance-best-practices-admin-section-checklist}
 
-새 Marketo Engage 인스턴스를 탐색하는 새 관리자는 아래 체크리스트를 적용하여 구현 프로세스를 안내합니다. 이 모든 안내서와 마찬가지로 [확인 목록 다운로드](/help/marketo/getting-started/inheriting-a-marketo-engage-instance/assets/adobe-marketo-engage-new-instance-admin-checklist.xlsx) 진행 상황을 추적할 수 있습니다.
+새 Marketo Engage 인스턴스를 탐색하는 새 관리자는 아래 체크리스트를 적용하여 구현 프로세스를 안내합니다. 이 모든 안내서와 마찬가지로 [확인 목록 다운로드](/help/marketo/getting-started/implementing-a-new-marketo-engage-instance/assets/adobe-marketo-engage-new-instance-admin-checklist.xlsx) 진행 상황을 추적할 수 있습니다.
 
 ## 역할 {#roles}
 
