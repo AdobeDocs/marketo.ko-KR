@@ -2,7 +2,7 @@
 title: Marketo 제품 문서
 description: Marketo Engage 제품 문서
 exl-id: 4b97fe25-ce4d-446c-8b23-2566769f35ee
-source-git-commit: 14583b7fa148aa2b03c8cf6316b9a106c11717b7
+source-git-commit: d41a43d7579775c0c866e867f778962ff61ff044
 workflow-type: tm+mt
 source-wordcount: '53'
 ht-degree: 7%
@@ -17,7 +17,7 @@ ht-degree: 7%
 
 * [설정 단계](/help/marketo/getting-started/initial-setup/setup-steps.md)
 * [설정 및 사용자 추가](/help/marketo/getting-started/quick-wins/get-set-up-and-add-a-person.md)
-* [Marketo Engage을 위한 프로토콜 구성](/help/marketo/getting-started/setup/configure-protocols-for-marketo.md)
+* [Marketo Engage을 위한 프로토콜 구성](/help/marketo/getting-started/initial-setup/configure-protocols-for-marketo.md)
 * [Marketo Engage 용어집](/help/marketo/getting-started/things-to-know/marketo-engage-glossary.md)
 
 ## 인기 있는 문서

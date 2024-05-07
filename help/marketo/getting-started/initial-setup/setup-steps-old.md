@@ -6,7 +6,7 @@ hide: true
 hidefromtoc: true
 exl-id: ef6b7311-55ca-4384-a24c-714eae89a57d
 feature: Getting Started
-source-git-commit: 14583b7fa148aa2b03c8cf6316b9a106c11717b7
+source-git-commit: d41a43d7579775c0c866e867f778962ff61ff044
 workflow-type: tm+mt
 source-wordcount: '2071'
 ht-degree: 0%
@@ -206,7 +206,7 @@ Marketo 추적 링크를 찾으려면 **[!UICONTROL 관리자]** 영역입니다
 
 필요한 모든 정보를 수집했으면 IT에 요청을 보낼 준비가 된 것입니다. 아래 텍스트를 템플릿으로 사용하여 굵은 텍스트를 고유한 정보로 바꿀 수 있습니다.
 
-[이 문서에 대한 링크 포함](/help/marketo/getting-started/setup/configure-protocols-for-marketo.md).
+[이 문서에 대한 링크 포함](/help/marketo/getting-started/initial-setup/configure-protocols-for-marketo.md).
 
 이 텍스트를 전자 메일에 붙여넣고 굵은 자리 표시자를 바꿉니다.
 

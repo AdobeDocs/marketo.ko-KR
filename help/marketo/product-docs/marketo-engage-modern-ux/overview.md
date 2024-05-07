@@ -3,7 +3,7 @@ description: Marketo Engage 최신 UX 개요 - Marketo 문서 - 제품 설명서
 title: Marketo Engage 최신 UX 개요
 exl-id: 50ab55b2-f40d-4dbd-ac3b-aa52e37ff426
 feature: Modern UX
-source-git-commit: 14583b7fa148aa2b03c8cf6316b9a106c11717b7
+source-git-commit: d41a43d7579775c0c866e867f778962ff61ff044
 workflow-type: tm+mt
 source-wordcount: '447'
 ht-degree: 1%
@@ -28,7 +28,7 @@ Modern UX에는 마케팅 경험을 크게 개선하기 위해 설계된 많은 
 
 **아이콘**
 
-새로운 인터페이스는 개선되고 확장된 도식화를 특징으로 합니다. 여기에서 자세히 알아보십시오. [아이콘 용어집](/help/marketo/product-docs/getting-started/things-to-know/icon-glossary.md).
+새로운 인터페이스는 개선되고 확장된 도식화를 특징으로 합니다. 여기에서 자세히 알아보십시오. [아이콘 용어집](/help/marketo/getting-started/things-to-know/icon-glossary.md).
 
 ![](assets/overview-2.png)
 
