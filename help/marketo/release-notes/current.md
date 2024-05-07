@@ -3,9 +3,9 @@ description: 현재 릴리스 정보 - Marketo 설명서 - 제품 설명서
 title: 최신 릴리스 정보
 exl-id: a2eccad5-73ad-48f9-8091-51cee23824e1
 feature: Release Information
-source-git-commit: 8473c4d59210bb18c3968a56883034febf00c320
+source-git-commit: 0d2416651da183460ad1f60ff5d566cbfc7abd12
 workflow-type: tm+mt
-source-wordcount: '399'
+source-wordcount: '428'
 ht-degree: 2%
 
 ---
@@ -53,7 +53,18 @@ Adobe Dynamic Chat에 대한 릴리스 노트 [은(는) 여기에서 찾을 수 
    <td> </td>
   </tr>
     <tr> 
-   <td><strong>새 사용자 및 역할 권한</strong>: 새로운 권한을 사용할 수 있으므로 사용자는 Marketo Engage에 보다 세밀하게 액세스할 수 있습니다. 새 경험 및 예측 대상과 같이 이전에 제어되지 않은 관리자의 부분을 제어하고, 자산 감사 추적 및 관리자 감사 추적에 대한 액세스 권한을 별도로 부여하기 위해 권한을 분할하고, 자산 및 폴더에 대한 새로운 만들기 및 이동 권한을 활용하여 읽기 전용 사용자가 변경하지 못하도록 합니다. 새 권한은 4월 26일부터 Marketo Engage 인스턴스에 표시되지만 현재로서는 수동적이며 이번 분기 말에 액세스할 수 있습니다.</td> 
+   <td><strong>새 사용자 및 역할 권한</strong>: 새로운 권한을 사용할 수 있으므로 사용자는 Marketo Engage에 보다 세밀하게 액세스할 수 있습니다. 새 경험 및 예측 대상과 같이 이전에 제어되지 않은 관리자의 부분을 제어하고, 자산 감사 추적 및 관리자 감사 추적에 대한 액세스 권한을 별도로 부여하기 위해 권한을 분할하고, 자산 및 폴더에 대한 새로운 만들기 및 이동 권한을 활용하여 읽기 전용 사용자가 변경하지 못하도록 합니다. 
+   <p>새 권한은 4월 26일부터 Marketo Engage 인스턴스에 표시되지만 현재로서는 수동적이며 이번 분기 말에 액세스할 수 있습니다.
+   <li>Adobe Experience Manager 액세스</li>
+   <li>Adobe 조직 매핑 액세스</li>
+   <li>관리자 감사 추적 액세스</li>
+   <li>자산 감사 추적 액세스</li>
+   <li>새 경험 액세스</li>
+   <li>예측 대상 액세스</li>
+   <li>보고서 만들기</li>
+   <li>목록 만들기</li>
+   <li>캠페인 활동 내보내기</li>
+   </td> 
    <td>배송됨</td>
    <td><a href="/help/marketo/product-docs/administration/users-and-roles/descriptions-of-role-permissions.md">역할 권한 설명</a></td>
   </tr>
