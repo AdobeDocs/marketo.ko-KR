@@ -1,21 +1,21 @@
 ---
 unique-page-id: 4720433
-description: Marketo에 대한 프로토콜 구성 - Marketo 문서 - 제품 설명서
-title: Marketo에 대한 프로토콜 구성
+description: Marketo Engage - Marketo Engage 문서 - 제품 설명서에 대한 프로토콜 구성
+title: Marketo Engage을 위한 프로토콜 구성
 exl-id: cf2fd4ac-9229-4e52-bb68-5732b44920ef
 feature: Getting Started
-source-git-commit: 14583b7fa148aa2b03c8cf6316b9a106c11717b7
+source-git-commit: 0330fd1b7bcc6d5fc21e5e591b65e8d6d5d3efee
 workflow-type: tm+mt
-source-wordcount: '2116'
+source-wordcount: '2136'
 ht-degree: 0%
 
 ---
 
-# Marketo에 대한 프로토콜 구성 {#configure-protocols-for-marketo}
+# Marketo Engage을 위한 프로토콜 구성{#configure-protocols-for-marketo-engage}
 
 허용 목록에 추가하다 제한적 방화벽 또는 프록시 서버 설정을 사용하는 경우, 사용자 또는 네트워크 관리자가 Adobe Marketo Engage이 예상대로 작동하도록 특정 도메인 및 IP 주소 범위를 설정해야 할 수 있습니다.
 
-아래 프로토콜을 구현하는 데 도움이 필요하면 이 문서를 IT 부서와 공유하십시오. Marketo을 사용하여 웹 액세스를 제한하는 경우 모든 허용 목록에 추가하다 리소스 및 웹 소켓을 허용하도록 다음 도메인(별표 포함)을 추가해야 합니다.
+아래 프로토콜을 구현하는 데 도움이 필요하면 이 문서를 IT 부서와 공유하십시오. Marketo Engage을 사용하여 웹 액세스를 제한하는 경우 모든 허용 목록 리소스 및 웹 소켓을 허용하도록 다음 도메인(별표 포함)을 추가해야 합니다.
 
 * `*.marketo.com`
 * `*.marketodesigner.com`
@@ -27,11 +27,11 @@ ht-degree: 0%
 
 **링크 CNAME 추적**
 
-마케팅 팀에서 새 CNAME 레코드에 대한 요청을 두 개 보냈어야 합니다. 첫 번째는 랜딩 페이지 URL에 대한 것이므로 랜딩 페이지는 Marketo(실제 호스트)가 아닌 도메인을 반영하는 URL에 표시됩니다. 두 번째는 Marketo에서 보내는 이메일에 포함된 추적 링크에 대한 것입니다.
+마케팅 팀에서 새 CNAME 레코드에 대한 요청을 두 개 보냈어야 합니다. 첫 번째는 랜딩 페이지 URL에 대한 것이므로 랜딩 페이지는 Marketo Engage(실제 호스트)가 아닌 도메인을 반영하는 URL에 표시됩니다. 두 번째는 Marketo Engage에서 보내는 이메일에 포함된 추적 링크에 대한 것입니다.
 
 `1` **랜딩 페이지용 CNAME 추가**
 
-DNS 레코드로 보낸 랜딩 페이지 CNAME을 추가합니다. `[YourLandingPageCNAME]` 는 Marketo 랜딩 페이지에 할당된 고유한 계정 문자열을 가리킵니다. 도메인 등록자의 사이트에 로그인하고 랜딩 페이지 CNAME 및 계정 문자열을 입력합니다. 일반적으로 다음과 같은 세 가지 필드가 포함됩니다.
+DNS 레코드로 보낸 랜딩 페이지 CNAME을 추가합니다. `[YourLandingPageCNAME]` 는 Marketo Engage 랜딩 페이지에 할당된 고유한 계정 문자열을 가리킵니다. 도메인 등록자의 사이트에 로그인하고 랜딩 페이지 CNAME 및 계정 문자열을 입력합니다. 일반적으로 다음과 같은 세 가지 필드가 포함됩니다.
 
 * 별칭: Enter `[YourLandingPageCNAME]` (마케팅에서 제공)
 * 유형: CNAME
@@ -39,7 +39,7 @@ DNS 레코드로 보낸 랜딩 페이지 CNAME을 추가합니다. `[YourLanding
 
 `2` **이메일 추적 링크에 대한 CNAME 추가**
 
-CNAME 마케팅이 귀하에게 보낸 이메일을 추가하여 `[YourEmailCNAME]` 포인트 대상 [MktoTrackingLink]: Marketo이 할당한 기본 추적 링크로서, 다음과 같은 형식입니다.\
+CNAME 마케팅이 귀하에게 보낸 이메일을 추가하여 `[YourEmailCNAME]` 포인트 대상 [MktoTrackingLink]: Marketo Engage이 할당한 기본 추적 링크로서, 다음과 같은 형식입니다.\
 `[YourEmailCNAME].[YourDomain].com` CNAME `[MktoTrackingLink]`
 
 For example:
@@ -58,9 +58,9 @@ For example:
 
 이 프로세스를 완료하는 데 영업일 기준으로 최대 3일이 소요될 수 있습니다.
 
-## 2단계: Marketo IP 허용 목록 {#step-allowlist-marketo-ips}
+## 허용 목록에 추가하다 2단계: Marketo Engage IP {#step-allowlist-marketo-ips}
 
-마케팅 그룹이 Marketo을 사용하여 테스트 이메일을 전송하는 경우(이메일 알림을 전송하기 전에 모범 사례), 이메일이 유효한지 확인하기 위해 발신자 IP 주소에 의존하는 스팸 방지 시스템에 의해 테스트 이메일이 차단되는 경우가 있습니다. 이러한 테스트 이메일이 도착하는지 확인하려면 Marketo에 허용 목록에 추가하다를 추가하십시오.
+마케팅 그룹이 Marketo Engage을 사용하여 테스트 이메일을 전송하는 경우(이메일 알림을 전송하기 전에 모범 사례), 이메일이 유효한지 확인하기 위해 발신자 IP 주소에 의존하는 스팸 방지 시스템에 의해 테스트 이메일이 차단되는 경우가 있습니다. 이러한 테스트 이메일이 도착하는지 확인하려면 Marketo Engage허용 목록에 추가하다 에 테스트를 추가합니다.
 
 다음 IP 주소를 기업 허용 목록에 추가합니다.
 
@@ -82,7 +82,7 @@ For example:
 
 199.15.212.0/22
 
-일부 스팸 방지 시스템은 할당에 IP 주소 대신 이메일 반환 경로 필드를 사용합니다. 이러한 경우, 가장 좋은 접근 방법은 &#39;허용 목록 &#39; 입니다.&#42;Marketo에서 여러 사서함 하위 도메인을 사용하므로 .mktomail.com&#39; From 주소를 기반으로 하는 기타 스팸 방지 시스템 허용 목록에 추가하다. 이러한 경우 마케팅 그룹이 사람/리드와 통신하는 데 사용하는 모든 전송(&#39;보낸 사람&#39;) 도메인을 포함해야 합니다.
+일부 스팸 방지 시스템은 할당에 IP 주소 대신 이메일 반환 경로 필드를 사용합니다. 이러한 경우, 가장 좋은 접근 방법은 &#39;허용 목록 &#39; 입니다.&#42;Marketo Engage은 여러 사서함 하위 도메인을 사용하므로 .mktomail.com&#39; From 주소를 기반으로 하는 기타 스팸 방지 시스템 허용 목록에 추가하다. 이러한 경우 마케팅 그룹이 사람/리드와 통신하는 데 사용하는 모든 전송(&#39;보낸 사람&#39;) 도메인을 포함해야 합니다.
 
 >[!NOTE]
 >
@@ -100,7 +100,7 @@ For example:
    DNS 항목에 기존 SPF 레코드가 이미 있는 경우 다음을 추가하기만 하면 됩니다.\
    포함: mktomail.com
 
-   CompanyDomain을 웹 사이트의 주 도메인으로 바꾸기(예: &quot;`(company.com/)`&quot;) 및 회사 이메일 서버의 IP 주소가 있는 CorpIP(예: &quot;255.255.255.255&quot;). Marketo을 통해 여러 도메인에서 이메일을 전송하려면 IT 직원에게 각 도메인에 대해 한 줄에 이 줄을 추가하도록 해야 합니다.
+   CompanyDomain을 웹 사이트의 주 도메인으로 바꾸기(예: &quot;`(company.com/)`&quot;) 및 회사 이메일 서버의 IP 주소가 있는 CorpIP(예: &quot;255.255.255.255&quot;). Marketo Engage을 통해 여러 도메인에서 이메일을 보내려면 IT 직원이 각 도메인에 대해 한 줄에 이 줄을 추가하도록 해야 합니다.
 
 1. DKIM의 경우 설정하려는 각 도메인에 대해 DNS 리소스 레코드를 만듭니다. 다음은 서명할 각 도메인의 호스트 레코드 및 TXT 값입니다.
 
@@ -253,7 +253,7 @@ DMARC에는 DKIM 정렬과 SPF 정렬의 두 가지 정렬 유형이 있습니�
 
 >[!NOTE]
 >
->Marketo용 DKIM과 SPF에서 DMARC 정렬을 수행하는 것이 좋습니다.
+>Marketo Engage을 위해 DKIM과 SPF에서 DMARC 정렬을 수행하는 것이 좋습니다.
 
 * DKIM 정렬 DMARC - DKIM 정렬 DMARC를 설정하려면 다음을 수행해야 합니다.
 
@@ -268,15 +268,15 @@ DMARC에는 DKIM 정렬과 SPF 정렬의 두 가지 정렬 유형이 있습니�
 
    * 브랜드 재방문 경로 도메인에 대한 DMARC 구성
 
-* 전용 IP를 통해 Marketo에서 메일을 보내고 브랜드 반환 경로를 아직 구현하지 않았거나 반환 경로가 있는지 확실하지 않은 경우 [Marketo 지원](https://nation.marketo.com/t5/support/ct-p/Support){target="_blank"}.
+* 전용 IP를 통해 Marketo Engage에서 메일을 보내고 브랜드 반환 경로를 아직 구현하지 않았거나 반환 경로가 있는지 확실하지 않은 경우 [Adobe 지원](https://nation.marketo.com/t5/support/ct-p/Support){target="_blank"}.
 
-* IP 공유 풀을 통해 Marketo에서 메일을 전송하는 경우 다음에서 신뢰할 수 있는 IP에 대한 자격이 있는지 확인할 수 있습니다. [여기에 적용](http://na-sjg.marketo.com/lp/marketoprivacydemo/Trusted-IP-Sending-Range-Program.html){target="_blank"}. 브랜드 반환 경로는 Marketo의 신뢰할 수 있는 IP에서 전송하는 사용자에게 무료로 제공됩니다. 이 프로그램에 대해 승인된 경우 Marketo 지원 팀에 연락하여 브랜드 반환 경로를 설정하십시오.
+* IP 공유 풀을 통해 Marketo Engage에서 메일을 전송하는 경우 다음 방법으로 신뢰할 수 있는 IP에 대한 자격이 있는지 확인할 수 있습니다. [여기에 적용](http://na-sjg.marketo.com/lp/marketoprivacydemo/Trusted-IP-Sending-Range-Program.html){target="_blank"}. 신뢰할 수 있는 Marketo Engage IP에서 전송하는 사람에게 브랜드 반환 경로가 무료로 제공됩니다. 이 프로그램에 대해 승인된 경우 Adobe 지원 팀에 연락하여 브랜드 반환 경로를 설정하십시오.
 
    * 신뢰할 수 있는 IP: 전용 IP에 대한 자격이 없는 매월 75K 미만을 보내는 하위 볼륨 사용자를 위해 예약된 IP 공유 풀입니다. 이러한 사용자는 모범 사례 요구 사항도 충족해야 합니다.
 
-* 공유 IP를 통해 Marketo에서 메일을 보내는 경우 신뢰할 수 있는 IP에 대한 자격이 없고 매월 100,000개 이상의 메시지를 보내는 경우 Adobe 계정 팀(계정 관리자)에 연락하여 전용 IP를 구매해야 합니다.
+* 공유 IP를 통해 Marketo Engage에서 메일을 보내는 경우 신뢰할 수 있는 IP에 대한 자격이 없고 매월 100,000개가 넘는 메시지를 보내는 경우 Adobe 계정 팀(계정 관리자)에 연락하여 전용 IP를 구매해야 합니다.
 
-* 엄격한 SPF 정렬은 Marketo 내에서 지원되지 않으며 권장되지 않습니다.
+* 엄격한 SPF 정렬은 지원되지 않으며 Marketo Engage 내에서 권장되지 않습니다.
 
 ## 5단계: 도메인에 대한 MX 레코드 설정 {#step-set-up-mx-records-for-your-domain}
 
