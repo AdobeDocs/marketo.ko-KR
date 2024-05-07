@@ -1,17 +1,19 @@
 ---
 unique-page-id: 1147226
 description: 시작하기 - Marketo 문서 - 제품 설명서
-title: 시작
+title: 시작하기
+hide: true
+hidefromtoc: true
 exl-id: 11c883eb-2a22-4706-ba0a-09ca11648054
 feature: Getting Started
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 14583b7fa148aa2b03c8cf6316b9a106c11717b7
 workflow-type: tm+mt
 source-wordcount: '133'
-ht-degree: 15%
+ht-degree: 11%
 
 ---
 
-# 시작 {#getting-started}
+# 시작하기 {#getting-started}
 
 ## Adobe Marketo Engage 소개 {#what-is-marketo-engage}
 
@@ -23,7 +25,7 @@ Marketo Engage이 뭐냐고 물으세요? 좋은 질문입니다!
 
 IT 팀의 작은 도움을 받아 즉시 작업을 완료할 수 있습니다.
 
-[설정 시작](/help/marketo/getting-started/setup/setup-steps.md){target="_blank"}
+[설정 시작](/help/marketo/getting-started/initial-setup/setup-steps.md){target="_blank"}
 
 ## 빠른 성공 얻기 {#get-some-quick-wins}
 
@@ -42,7 +44,7 @@ IT 팀의 작은 도움을 받아 즉시 작업을 완료할 수 있습니다.
   </td>
   <td>
       <a href="getting-started/quick-wins/send-an-email.md">
-       <img alt="가져오기" src="getting-started/assets/getting-started-2.png" />
+       <img alt="가져오기" src="getting-started/assets/getting-started.png" />
        </a>
     <div><a href="getting-started/quick-wins/send-an-email.md">2. 이메일 보내기</a>
     </div>

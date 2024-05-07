@@ -3,9 +3,9 @@ audience: end-user
 user-guide-title: Marketo 안내서
 user-guide-description: Marketo 제품 설명서
 feature-set: Marketo Engage
-source-git-commit: 30deeb59cd70b42af38cd1e047833394f9341a5c
+source-git-commit: 14583b7fa148aa2b03c8cf6316b9a106c11717b7
 workflow-type: tm+mt
-source-wordcount: '9358'
+source-wordcount: '9327'
 ht-degree: 0%
 
 ---
@@ -14,16 +14,24 @@ ht-degree: 0%
 # Marketo 안내서 {#using}
 
 + [홈](home.md)
-+ Marketo 시작하기 {#getting-started-with-marketo}
-   + [시작하기](getting-started.md)
++ Marketo Engage 시작 {#getting-started}
    + [Adobe Marketo Engage란?](getting-started/what-is-adobe-marketo-engage.md)
-   + [도움말 센터](getting-started/help-center.md)
-   + [Marketo Engage 용어집](getting-started/marketo-engage-glossary.md)
-   + [클래식 아이콘 용어집](getting-started/classic-icon-glossary.md)
-   + 설정 {#setup}
-      + [설정 단계](getting-started/setup/setup-steps.md)
-      + [체크리스트 설정](getting-started/setup/setup-checklist.md)
-      + [Marketo에 대한 프로토콜 구성](getting-started/setup/configure-protocols-for-marketo.md)
+   + 초기 설정 {#initial-setup}
+      + [설정 단계](getting-started/initial-setup/setup-steps.md)
+      + [프로토콜 구성](getting-started/initial-setup/configure-protocols-for-marketo.md)
+      + [사용자 설정](getting-started/initial-setup/user-setup.md)
+   + 새 Marketo Engage 인스턴스 구현 {#implementing-a-new-marketo-engage-instance}
+      + [시작 위치](getting-started/implementing-a-new-marketo-engage-instance/where-to-start.md)
+      + [새 인스턴스 모범 사례: 관리 섹션 검사 목록](getting-started/implementing-a-new-marketo-engage-instance/admin-section-checklist.md)
+      + [새 인스턴스 모범 사례: 데이터베이스 검사 목록](getting-started/implementing-a-new-marketo-engage-instance/database-checklist.md)
+      + [새 인스턴스 모범 사례: 마케팅 활동 검사 목록](getting-started/implementing-a-new-marketo-engage-instance/marketing-activities-checklist.md)
+      + [새 인스턴스 모범 사례: Design Studio 검사 목록](getting-started/implementing-a-new-marketo-engage-instance/design-studio-checklist.md)
+      + [새로운 인스턴스 모범 사례: 설정 문서화](getting-started/implementing-a-new-marketo-engage-instance/document-your-setup.md)
+   + 알아야 할 사항 {#things-to-know}
+      + [Marketo Engage 용어집](getting-started/things-to-know/marketo-engage-glossary.md)
+      + [아이콘 용어집](getting-started/things-to-know/icon-glossary.md)
+      + [클래식 아이콘 용어집](getting-started/things-to-know/classic-icon-glossary.md)
+      + [도움말 센터](getting-started/things-to-know/help-center.md)
    + 빠른 성공 {#quick-wins}
       + [설정 및 사용자 추가](getting-started/quick-wins/get-set-up-and-add-a-person.md)
       + [이메일 보내기](getting-started/quick-wins/send-an-email.md)
@@ -45,24 +53,6 @@ ht-degree: 0%
       + [상속된 인스턴스: Design Studio 검사 목록](getting-started/inheriting-a-marketo-engage-instance/design-studio-checklist.md)
       + [상속된 인스턴스: 설정 문서화](getting-started/inheriting-a-marketo-engage-instance/document-your-setup.md)
       + [핵심 기술 검토](getting-started/inheriting-a-marketo-engage-instance/reviewing-core-skills.md)
-+ Marketo 2 시작하기 {#getting-started-with-marketo-2}
-   + [Adobe Marketo Engage란?](getting-started-2/what-is-adobe-marketo-engage.md)
-   + 초기 설정 {#initial-setup}
-      + [초기 설정 작업](getting-started-2/initial-setup/initial-setup-tasks.md)
-      + [설정 단계](getting-started-2/initial-setup/setup-steps.md)
-      + [사용자 설정](getting-started-2/initial-setup/user-setup.md)
-   + 새 Marketo Engage 인스턴스 구현 {#implementing-a-new-marketo-engage-instance}
-      + [시작 위치](getting-started-2/implementing-a-new-marketo-engage-instance/where-to-start.md)
-      + [새 인스턴스 모범 사례: 관리 섹션 검사 목록](getting-started-2/implementing-a-new-marketo-engage-instance/admin-section-checklist.md)
-      + [새 인스턴스 모범 사례: 데이터베이스 검사 목록](getting-started-2/implementing-a-new-marketo-engage-instance/database-checklist.md)
-      + [새 인스턴스 모범 사례: 마케팅 활동 검사 목록](getting-started-2/implementing-a-new-marketo-engage-instance/marketing-activities-checklist.md)
-      + [새 인스턴스 모범 사례: Design Studio 검사 목록](getting-started-2/implementing-a-new-marketo-engage-instance/design-studio-checklist.md)
-      + [새로운 인스턴스 모범 사례: 설정 문서화](getting-started-2/implementing-a-new-marketo-engage-instance/document-your-setup.md)
-   + 알아야 할 사항 {#things-to-know}
-      + [Marketo Engage 용어집](getting-started-2/things-to-know/marketo-engage-glossary.md)
-      + [아이콘 용어집](getting-started-2/things-to-know/icon-glossary.md)
-      + [클래식 아이콘 용어집](getting-started-2/things-to-know/classic-icon-glossary.md)
-      + [도움말 센터](getting-started-2/things-to-know/help-center.md)
 + 제품 문서 {#product-docs}
    + 추가 앱 {#additional-apps}
       + SEO {#seo}
@@ -1143,7 +1133,6 @@ ht-degree: 0%
          + [이메일 CC](product-docs/email-marketing/general/email-cc.md)
    + Marketo Engage 최신 UX {#marketo-engage-modern-ux}
       + [개요](product-docs/marketo-engage-modern-ux/overview.md)
-      + [아이콘 용어집](product-docs/marketo-engage-modern-ux/icon-glossary.md)
       + [글로벌 검색 사용](product-docs/marketo-engage-modern-ux/using-the-global-search.md)
       + [전환 스위치](product-docs/marketo-engage-modern-ux/toggle-switch.md)
    + Marketo 알림 {#marketo-notifications}

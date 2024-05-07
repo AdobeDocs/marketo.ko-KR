@@ -4,16 +4,16 @@ description: Adobe Marketo Engage란? - Marketo 문서 - 제품 설명서
 title: Adobe Marketo Engage란?
 exl-id: 7b76e910-6c01-4fdb-8ab8-f6b1abe13136
 feature: Getting Started
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 14583b7fa148aa2b03c8cf6316b9a106c11717b7
 workflow-type: tm+mt
-source-wordcount: '288'
+source-wordcount: '284'
 ht-degree: 1%
 
 ---
 
 # Adobe Marketo Engage란? {#what-is-adobe-marketo-engage}
 
-Adobe Marketo Engage(경우에 따라 Marketo Engage 또는 Marketo이라고도 함)는 마케팅 자동화 소프트웨어입니다. 마케팅 자동화를 통해 마케팅 작업과 워크플로를 간소화, 자동화 및 측정할 수 있으므로 운영 효율성을 높이고 매출을 더 빠르게 늘릴 수 있습니다.
+Adobe Marketo Engage은 마케팅 자동화 소프트웨어입니다. 마케팅 자동화를 통해 마케팅 작업과 워크플로를 간소화, 자동화 및 측정할 수 있으므로 운영 효율성을 높이고 매출을 더 빠르게 늘릴 수 있습니다.
 
 ## Marketo Engage에서 무엇을 할 수 있습니까? {#what-can-i-do-in-marketo-engage}
 
@@ -26,7 +26,9 @@ Marketo Engage은 마케팅 목표를 달성하는 데 도움이 되는 다양�
 * 메일 폭발 도구
 * 세분화
 * 예측 콘텐츠
-* 웨비나 통합
+* Dynamic Chat
+* 기본 대화형 웨비나
+* 서드파티 웨비나 통합
 * 모바일 마케팅
 * CRM(Salesforce 또는 Dynamics)과 동기화
 * 웹 사이트 통합
@@ -34,17 +36,17 @@ Marketo Engage은 마케팅 목표를 달성하는 데 도움이 되는 다양�
 * 개인 채점
 * Sales Rep 를 위한 CRM 내 대시보드
 * 프로그램 분석
-* Target 계정 관리
+* 타겟 계정 관리
 
-...and much more!
+...그리고 훨씬 더!
 
 ## 제가 다 배워야 하나요? {#do-i-need-to-learn-all-of-that}
 
-안 돼! Marketo Engage에서 시작하기 쉬우며, 당신과 함께 발전할 것입니다. 원한다면 모든 것을 배울 수도 있고, 자신의 필요에 맞는 조각을 사용할 수도 있다.
+넌 몰라 Marketo Engage에서 시작하기 쉬우며, 당신과 함께 발전할 것입니다. 원한다면 모든 것을 배울 수도 있고, 자신의 필요에 맞는 조각을 사용할 수도 있다.
 
 ## 설정이 필요합니까? {#do-i-need-to-do-any-setup}
 
-예, 다음을 수행했습니다. [수행할 작업 검사 목록](/help/marketo/getting-started/setup/setup-checklist.md){target="_blank"}.
+예, 수행해야 하는 몇 가지 단계가 있습니다(또는 적극 권장). [여기에서 찾을 수 있습니다.](/help/marketo/getting-started/initial-setup/setup-steps.md){target="_blank"}.
 
 ## 설정이 완료될 때까지 기다려야 알 수 있습니까? {#do-i-have-to-wait-until-setup-is-finished-to-learn}
 
@@ -56,8 +58,8 @@ Marketo Engage은 마케팅 목표를 달성하는 데 도움이 되는 다양�
 
 ## Marketo은 내 데이터를 얼마나 오래 보관합니까? {#data-retention-policy}
 
-검토하십시오. [이 국가 게시물](https://nation.marketo.com/t5/knowledgebase/marketo-activities-data-retention-policy-under-the-hood/ta-p/251191){target="_blank"} 을 참조하십시오.
+검토하십시오. [이 Marketing Nation 블로그 글](https://nation.marketo.com/t5/knowledgebase/marketo-activities-data-retention-policy-overview-amp-faq/ta-p/250750){target="_blank"} 을 참조하십시오.
 
 <br>
 
-Marketo Engage 시작! 당신이 여기 있어서 우리는 행복합니다.
+Marketo Engage 시작!

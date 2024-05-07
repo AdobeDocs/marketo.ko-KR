@@ -3,7 +3,7 @@ description: 상속된 인스턴스 관리 검사 목록 - Marketo 문서 - 제�
 title: 상속된 인스턴스 관리 검사 목록
 feature: Getting Started
 exl-id: 088f3ce9-bf3d-4323-9cde-c39fec06c20e
-source-git-commit: 0ca63c52cb255cc41cbb53b2c481e589d08004b3
+source-git-commit: 14583b7fa148aa2b03c8cf6316b9a106c11717b7
 workflow-type: tm+mt
 source-wordcount: '1846'
 ht-degree: 1%
@@ -16,7 +16,7 @@ ht-degree: 1%
 
 >[!TIP]
 >
->새로운 Marketo Engage 사용자이고 많은 용어를 잘 모를 경우 [Marketo Engage 용어집](/help/marketo/getting-started/marketo-engage-glossary.md){target="_blank"}.
+>새로운 Marketo Engage 사용자이고 많은 용어를 잘 모를 경우 [Marketo Engage 용어집](/help/marketo/getting-started/things-to-know/marketo-engage-glossary.md){target="_blank"}.
 
 ## Identity Management Adobe {#adobe-identity-management}
 
@@ -83,7 +83,7 @@ ht-degree: 1%
   </tr>
   <tr> 
    <td>사용자 지원</td> 
-   <td><li>적절한 설정을 하셨습니까 <a href="/help/marketo/getting-started/setup/setup-steps.md#set-up-your-authorized-support-contacts" target="_blank">승인된 연락처</a> 지원 포털에서?</li></td>
+   <td><li>적절한 설정을 하셨습니까 <a href="/help/marketo/getting-started/initial-setup/setup-steps.md#set-up-your-authorized-support-contacts" target="_blank">승인된 연락처</a> 지원 포털에서?</li></td>
   </tr>
   <tr> 
    <td>내부 설명서</td> 
