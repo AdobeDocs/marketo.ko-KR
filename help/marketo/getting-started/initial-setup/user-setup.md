@@ -3,9 +3,9 @@ description: 새 Marketo Engage 인스턴스를 탐색하기 전에 몇 가지 �
 title: 사용자 설정 체크리스트
 feature: Getting Started
 exl-id: c7b068fc-a038-4f9c-a037-72440a1a864e
-source-git-commit: a3d9fcfa0381933e1a7e62f19b414bc380f325b5
+source-git-commit: 1d153012aa151ddc787cbcfd03a2f420a7d65e48
 workflow-type: tm+mt
-source-wordcount: '799'
+source-wordcount: '794'
 ht-degree: 0%
 
 ---
@@ -34,7 +34,7 @@ ht-degree: 0%
     <td>구독 및 Marketo Engage 제품 관리자</td>
     <td><li>Adobe 조직 시스템 관리자가 Adobe 제품 관리자 역할을 부여했는지 확인합니다.</li>  
     <ul>
-    <li>Adobe 계정 팀(계정 관리자)에 문의하거나 (으)로 이메일 보내기 <code>customercare@marketo.com</code> 또는 customercare@marketo.comto으로 이메일을 보내 조직에서 사용자를 확인합니다. <a href="https://experienceleague.adobe.com/docs/marketo/using/product-docs/administration/marketo-with-adobe-identity/adobe-identity-management-overview.html">Adobe Admin Console 시스템 관리자</a> 권한.</li></ul>
+    <li>Adobe 계정 팀(계정 관리자)에 문의하거나 (으)로 이메일 보내기 <code>customercare@marketo.com</code> 조직의 사용자를 확인하려면 <a href="https://experienceleague.adobe.com/docs/marketo/using/product-docs/administration/marketo-with-adobe-identity/adobe-identity-management-overview.html">Adobe Admin Console 시스템 관리자</a> 권한.</li></ul>
     <li>Adobe ID을 활성화하려면 'Marketo Engage 제품 관리자' 초대를 수락하십시오. 다음 <a href="https://experienceleague.adobe.com/docs/marketo/using/product-docs/administration/marketo-with-adobe-identity/admin-setup.html?lang=en#create-a-product-profile">시작 이메일</a> 은 Adobe Admin Console에서 역할이 할당되면 전송됩니다.</li></td>
   </tr>
   <tr>
