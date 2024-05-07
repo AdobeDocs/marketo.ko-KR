@@ -4,9 +4,9 @@ description: Microsoft Dynamics - Marketo 문서 - 제품 설명서에서 Market
 title: Microsoft Dynamics에서 Marketo 판매 이메일 보내기
 exl-id: 9ee53a3e-8bbe-458a-9905-a1e1503f9553
 feature: Marketo Sales Insights
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 22385fc545378f8835c36564b1029bedbdbb3848
 workflow-type: tm+mt
-source-wordcount: '155'
+source-wordcount: '166'
 ht-degree: 0%
 
 ---
@@ -39,7 +39,13 @@ ht-degree: 0%
 
    ![](assets/image2014-10-20-11-3a57-3a8.png)
 
-   다음을 클릭할 수 있습니다. **테스트 이메일 보내기** 실제 이메일을 보내기 전에 먼저 및 이메일(Microsoft Dynamics의 기본 이메일 주소)을 받게 됩니다.
+   >[!TIP]
+   >
+   >다음을 클릭할 수 있습니다. **테스트 이메일 보내기** 실제 이메일을 보내기 전에 먼저 및 이메일(Microsoft Dynamics의 기본 이메일 주소)을 받게 됩니다.
+
+   >[!NOTE]
+   >
+   >한 번에 최대 2000개의 Marketo 이메일을 보낼 수 있습니다.
 
 잘했어! 이제 Microsoft Dynamics 내에서 Marketo 추적 이메일을 직접 전송하는 방법을 알 수 있습니다.
 
