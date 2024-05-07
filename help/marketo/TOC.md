@@ -3,9 +3,9 @@ audience: end-user
 user-guide-title: Marketo 안내서
 user-guide-description: Marketo 제품 설명서
 feature-set: Marketo Engage
-source-git-commit: 90ccae3e7390db36e45e2a391482df4ec34447d3
+source-git-commit: 1679d8fa3d4d58685471c7869a6d73689c9b4a51
 workflow-type: tm+mt
-source-wordcount: '9332'
+source-wordcount: '9329'
 ht-degree: 0%
 
 ---
@@ -1736,7 +1736,6 @@ ht-degree: 0%
             + [기본 보고서 구독](product-docs/reporting/basic-reporting/report-subscriptions/subscribe-to-a-basic-report.md)
             + [스마트 목록 구독](product-docs/reporting/basic-reporting/report-subscriptions/subscribe-to-a-smart-list.md)
          + 보고서 유형 {#report-types}
-            + [캠페인 활동 보고서](product-docs/reporting/basic-reporting/report-types/campaign-activity-report.md)
             + [캠페인 이메일 성과 보고서](product-docs/reporting/basic-reporting/report-types/campaign-email-performance-report.md)
             + [회사 웹 활동 보고서](product-docs/reporting/basic-reporting/report-types/company-web-activity-report.md)
             + [상태별 인원 보고서](product-docs/reporting/basic-reporting/report-types/people-by-status-report.md)
