@@ -4,14 +4,18 @@ description: linkedIn에 일치하는 대상을 LaunchPoint 서비스로 추가 
 title: linkedIn 일치 대상을 LaunchPoint 서비스로 추가
 exl-id: 82096b19-aae9-4086-8fb4-defc5481d382
 feature: Integrations
-source-git-commit: bebf61037f37a06b40b4d9c1df872f1cf62a1403
+source-git-commit: 94ca714d038863ad801551960c66086ea47e6b10
 workflow-type: tm+mt
-source-wordcount: '179'
+source-wordcount: '224'
 ht-degree: 0%
 
 ---
 
 # linkedIn 일치 대상을 LaunchPoint 서비스로 추가 {#add-linkedin-matched-audiences-as-a-launchpoint-service}
+
+>[!IMPORTANT]
+>
+>LinkedIn은 Marketo Engage LinkedIn 통합에 사용되는 마케팅 API를 업그레이드하고 있습니다. 이러한 변경 사항을 적용하려면 의 모든 LinkedIn LaunchPoint 서비스에 대한 재인증이 필요합니다. **관리자** > **시작 지점** 서비스 중단을 방지하기 위해 2024년 6월 7일부터 12월 15일 사이에 메뉴에서 사용할 수 있습니다. 자세한 내용은 다음을 참조하십시오. [마이그레이션 FAQ](https://nation.marketo.com/t5/employee-blogs/linkedin-re-authentication-required/ba-p/347794){target="_blank"}.
 
 >[!NOTE]
 >

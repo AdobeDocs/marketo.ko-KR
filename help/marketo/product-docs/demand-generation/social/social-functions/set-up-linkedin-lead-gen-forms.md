@@ -4,9 +4,9 @@ description: linkedIn 리드 세대 Forms 설정 - Marketo 문서 - 제품 설�
 title: linkedIn Lead Gen Forms 설정
 exl-id: 554a546c-adeb-4132-830d-ff15ba5cf9a1
 feature: Social
-source-git-commit: e1254c8156557b27d066a4482076becbd03fc774
+source-git-commit: 94ca714d038863ad801551960c66086ea47e6b10
 workflow-type: tm+mt
-source-wordcount: '471'
+source-wordcount: '511'
 ht-degree: 0%
 
 ---
@@ -14,6 +14,10 @@ ht-degree: 0%
 # linkedIn Lead Gen Forms 설정 {#set-up-linkedin-lead-gen-forms}
 
 linkedIn 리드 세대 Forms을 사용하여 LinkedIn에서 광고 캠페인을 실행하고 Marketo에 대한 리드를 생성합니다.
+
+>[!IMPORTANT]
+>
+>LinkedIn은 Marketo Engage LinkedIn 통합에 사용되는 마케팅 API를 업그레이드하고 있습니다. 이러한 변경 사항을 적용하려면 의 모든 LinkedIn LaunchPoint 서비스에 대한 재인증이 필요합니다. **관리자** > **시작 지점** 서비스 중단을 방지하기 위해 2024년 6월 7일부터 12월 15일 사이에 메뉴에서 사용할 수 있습니다. 자세한 내용은 다음을 참조하십시오. [마이그레이션 FAQ](https://nation.marketo.com/t5/employee-blogs/linkedin-re-authentication-required/ba-p/347794){target="_blank"}.
 
 >[!NOTE]
 >
@@ -51,7 +55,7 @@ linkedIn 리드 세대 Forms을 사용하여 LinkedIn에서 광고 캠페인을 
 
    ![](assets/linkedin-marketo-allow.png)
 
-1. 이제 권한이 부여되었음을 알 수 있습니다. **다음**&#x200B;을 클릭합니다.
+1. 이제 권한이 부여되었음을 알 수 있습니다. 클릭 **다음**.
 
    ![](assets/image2017-9-28-7-3a55-3a14.png)
 
