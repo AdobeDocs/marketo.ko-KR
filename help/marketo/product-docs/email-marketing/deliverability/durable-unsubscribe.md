@@ -4,16 +4,16 @@ description: 지속적인 구독 취소 - Marketo 문서 - 제품 설명서
 title: 지속적인 구독 취소
 exl-id: e03a5a01-7395-45b3-8351-7931ec413236
 feature: Deliverability
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 35f5b33b01462b1cd00e29360daee465c7f18cf0
 workflow-type: tm+mt
-source-wordcount: '319'
+source-wordcount: '296'
 ht-degree: 0%
 
 ---
 
 # 지속적인 구독 취소 {#durable-unsubscribe}
 
-Marketo은 구독 취소 기능의 비헤이비어를 &quot;내구성&quot;으로 향상시켰습니다. 개인 세부 정보 레코드에 표시되는 구독 취소 플래그와 별도의 마스터 이메일 상태를 추가했습니다.
+Marketo은 &quot;지속적&quot;으로 만들기 위해 구독 취소 기능의 비헤이비어를 개선했습니다. 개인 세부 정보 레코드에 표시되는 구독 취소 플래그와 별도의 마스터 이메일 상태를 추가했습니다.
 
 구독 취소 플래그가 false에서 true로 설정되면 마스터 이메일 상태가 업데이트되고 변경 사항이 동일한 이메일 주소를 가진 다른 사용자에게 전파됩니다. 개인이 제거되고 다시 만들어지는 경우 또는 동일한 이메일 주소로 새 레코드가 만들어지는 경우 구독 취소 플래그가 **아님** 덮어씁니다.
 
@@ -52,10 +52,6 @@ SOAP API를 통해 기존 사용자를 업데이트합니다.
 ## 다시 구독 {#re-subscribing}
 
 구독을 취소하면 동일한 이메일 주소를 가진 모든 사람이 구독 취소되는 것처럼, 재구독은 실제로 동일한 이메일 주소를 가진 모든 사람을 다시 구독합니다.
-
-## 활동 로그 {#activity-log}
-
-데이터 값 변경 정의 _updateLeadEmailStatus_ 및 _resetLeadEmailStatus_ 다음에서 찾을 수 있음: [이 커뮤니티 문서](https://nation.marketo.com/t5/Knowledgebase/Durable-Unsubscribe-Activity-Log/ta-p/252688).
 
 >[!MORELIKETHIS]
 >
