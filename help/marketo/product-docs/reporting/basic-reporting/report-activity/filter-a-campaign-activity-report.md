@@ -4,7 +4,7 @@ description: 캠페인 활동 보고서 필터링 - Marketo 문서 - 제품 설�
 title: 캠페인 활동 보고서 필터링
 exl-id: c34d6dfa-c635-4ca8-ad4f-bfa5cadaef2d
 feature: Reporting
-source-git-commit: e396542eb13e54306b0b7620d0092716a5be182f
+source-git-commit: 0a4c889d22232f7da8f4dda2f077bba1873cd1b2
 workflow-type: tm+mt
 source-wordcount: '125'
 ht-degree: 0%
@@ -21,15 +21,15 @@ ht-degree: 0%
 
 1. 다음으로 이동 **마케팅 활동** (또는 **분석**)을 만들고 캠페인 활동 보고서를 선택합니다.
 
-   ![](assets/image2014-9-16-16-3a13-3a56.png)
+   ![](assets/filter-a-campaign-activity-report-1.png)
 
 1. 다음을 클릭합니다. **설정** tab 키 및 두 번 클릭 **캠페인**.
 
-   ![](assets/image2014-9-16-16-3a14-3a1.png)
+   ![](assets/filter-a-campaign-activity-report-2.png)
 
 1. 보고서에 포함할 폴더 및 특정 스마트 캠페인을 선택합니다. 클릭 **적용**.
 
-   ![](assets/image2014-9-16-16-3a14-3a11.png)
+   ![](assets/filter-a-campaign-activity-report-3.png)
 
    >[!TIP]
    >
@@ -37,7 +37,7 @@ ht-degree: 0%
 
 1. 완료되었습니다! 다음을 클릭합니다. **보고서** 탭으로 보기 _just_ 보고서에서 선택한 스마트 캠페인입니다.
 
-   ![](assets/image2014-9-16-16-3a14-3a32.png)
+   ![](assets/filter-a-campaign-activity-report-4.png)
 
 >[!MORELIKETHIS]
 >
