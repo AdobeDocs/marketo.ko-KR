@@ -3,9 +3,9 @@ description: Marketo Engage 용어집 - Marketo 설명서 - 제품 설명서
 title: Marketo Engage 용어집
 feature: Getting Started
 exl-id: 57b60323-fe4a-4de1-898d-282e5aefd3ed
-source-git-commit: 14583b7fa148aa2b03c8cf6316b9a106c11717b7
+source-git-commit: c7069488ccb0444179cd995bec523ac4dd92da73
 workflow-type: tm+mt
-source-wordcount: '4097'
+source-wordcount: '4085'
 ht-degree: 1%
 
 ---
@@ -129,11 +129,7 @@ ht-degree: 1%
   <tr> 
    <td colspan="1"><strong>Campaign</strong></td> 
    <td colspan="1">"캠페인"은 Marketo에서 몇 가지 의미를 가질 수 있습니다. A <a href="/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/understanding-smart-campaigns.md" rel="nofollow">campaign</a> 는 스마트 캠페인에 대한 짧은 용어입니다. 위치 <strong>Marketo Sales Connect</strong>, <a href="/help/marketo/product-docs/marketo-sales-connect/campaigns/create-a-campaign.md" rel="nofollow">캠페인</a> 일련의 다중 채널 대응 단계입니다. 위치 <strong>웹 개인화</strong>, 웹 <a href="/help/marketo/product-docs/web-personalization/working-with-web-campaigns/create-a-new-dialog-web-campaign.md" rel="nofollow">캠페인</a> 특정 세그먼트와 연관된 사용자 지정 반응입니다.</td> 
-  </tr> 
-  <tr> 
-   <td colspan="1"><strong><a href="/help/marketo/product-docs/reporting/basic-reporting/report-types/campaign-activity-report.md" rel="nofollow">캠페인 활동 보고서</a></strong></td> 
-   <td colspan="1">방법을 보여 주는 보고서 유형 <strong>스마트 캠페인</strong> 수행 중입니다.</td> 
-  </tr> 
+  </tr>
   <tr> 
    <td colspan="1"><strong><a href="/help/marketo/product-docs/reporting/basic-reporting/report-types/campaign-email-performance-report.md" rel="nofollow">캠페인 이메일 성과 보고서</a></strong></td> 
    <td colspan="1">그룹화된 이메일 성능 지표를 보여 주는 보고서 유형 <strong>스마트 캠페인</strong>.</td> 

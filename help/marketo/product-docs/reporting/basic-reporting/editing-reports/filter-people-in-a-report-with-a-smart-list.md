@@ -4,9 +4,9 @@ description: 스마트 목록으로 보고서 사람 필터링 - Marketo 문서 
 title: 스마트 목록으로 보고서 사람 필터링
 exl-id: f3cc38d1-35fd-424a-a024-949852edd6a7
 feature: Reporting
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: c7069488ccb0444179cd995bec523ac4dd92da73
 workflow-type: tm+mt
-source-wordcount: '134'
+source-wordcount: '132'
 ht-degree: 0%
 
 ---
@@ -23,7 +23,6 @@ ht-degree: 0%
 * [이메일 성능](/help/marketo/product-docs/email-marketing/email-programs/email-program-data/email-performance-report.md)
 * [이메일 링크 성능](/help/marketo/product-docs/email-marketing/email-programs/email-program-data/email-link-performance-report.md)
 * [참여 스트림 성능](/help/marketo/product-docs/email-marketing/drip-nurturing/reports-and-notifications/engagement-stream-performance-report.md)
-* [캠페인 활동](/help/marketo/product-docs/reporting/basic-reporting/report-types/campaign-activity-report.md)
 * [Campaign 이메일 성과](/help/marketo/product-docs/reporting/basic-reporting/report-types/campaign-email-performance-report.md)
 * [회사 웹 활동](/help/marketo/product-docs/reporting/basic-reporting/report-types/company-web-activity-report.md)
 * [웹 페이지 활동](/help/marketo/product-docs/reporting/basic-reporting/report-types/web-page-activity-report.md)

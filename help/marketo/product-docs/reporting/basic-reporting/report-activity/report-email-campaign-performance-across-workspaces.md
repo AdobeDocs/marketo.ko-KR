@@ -4,16 +4,16 @@ description: 보고서 이메일, 작업 공간 전반에 걸친 캠페인 성�
 title: 작업 영역 간 보고서 이메일, 캠페인 성과
 exl-id: e5b94f77-b6f6-4b9b-aef7-88a471929869
 feature: Reporting
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: c7069488ccb0444179cd995bec523ac4dd92da73
 workflow-type: tm+mt
-source-wordcount: '84'
+source-wordcount: '82'
 ht-degree: 0%
 
 ---
 
 # 작업 영역 간 보고서 이메일, 캠페인 성과 {#report-email-campaign-performance-across-workspaces}
 
-모든 Marketo의 데이터를 포함하려면 글로벌 보고를 켭니다 [작업 공간](/help/marketo/product-docs/administration/workspaces-and-person-partitions/create-a-new-workspace.md) (으)로 [이메일 성능](/help/marketo/product-docs/email-marketing/email-programs/email-program-data/email-performance-report.md), [이메일 링크 성능](/help/marketo/product-docs/email-marketing/email-programs/email-program-data/email-link-performance-report.md), 및 [캠페인 활동](/help/marketo/product-docs/reporting/basic-reporting/report-types/campaign-activity-report.md) 보고서.
+모든 Marketo의 데이터를 포함하려면 글로벌 보고를 켭니다 [작업 공간](/help/marketo/product-docs/administration/workspaces-and-person-partitions/create-a-new-workspace.md) (으)로 [이메일 성능](/help/marketo/product-docs/email-marketing/email-programs/email-program-data/email-performance-report.md) 및 [이메일 링크 성능](/help/marketo/product-docs/email-marketing/email-programs/email-program-data/email-link-performance-report.md) 보고서.
 
 1. 다음으로 이동 **분석** (또는 **마케팅 활동**) 영역입니다.
 
