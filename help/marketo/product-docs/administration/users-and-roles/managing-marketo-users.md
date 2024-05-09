@@ -4,14 +4,18 @@ description: Marketo 사용자 관리 - Marketo 문서 - 제품 설명서
 title: Marketo 사용자 관리
 exl-id: 40506d3c-a7cb-45fb-bc10-021bd0c70806
 feature: Users and Roles
-source-git-commit: ab1ea483998d6cb37277b18adf2c1d3371bb40e6
+source-git-commit: ee6944a02a4535f9d763453fa16c95623eed6378
 workflow-type: tm+mt
-source-wordcount: '378'
+source-wordcount: '393'
 ht-degree: 0%
 
 ---
 
 # Marketo 사용자 관리 {#managing-marketo-users}
+
+>[!IMPORTANT]
+>
+>이 문서는 다음을 수행하는 사람만을 위한 것입니다. _아님_ 사용 [Adobe ID가 있는 Marketo](/help/marketo/product-docs/administration/marketo-with-adobe-identity/adobe-identity-management-overview.md){target="_blank"}. If you do, please follow the steps in [this article](/help/marketo/product-docs/administration/marketo-with-adobe-identity/add-or-remove-a-user.md){target="_blank"} 대신,
 
 ## 사용자 만들기 {#create-users}
 
@@ -71,7 +75,7 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->삭제할 사용자가 Dynamic Chat 사용자이기도 한 경우 다음을 수행해야 합니다 [Dynamic Chat에서 제거](/help/marketo/product-docs/demand-generation/dynamic-chat/setup-and-configuration/add-or-remove-chat-users.md#remove-a-chat-user) Marketo Engage에서 삭제하기 전에 Admin Console에서.
+>삭제할 사용자가 Dynamic Chat 사용자이기도 한 경우 다음을 수행해야 합니다 [Dynamic Chat에서 제거](/help/marketo/product-docs/demand-generation/dynamic-chat/setup-and-configuration/add-or-remove-chat-users.md#remove-a-chat-user){target="_blank"} Marketo Engage에서 삭제하기 전에 Admin Console에서.
 
 1. 로 이동 **[!UICONTROL 관리자]** 영역입니다.
 
