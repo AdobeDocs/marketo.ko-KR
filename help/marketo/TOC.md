@@ -3,9 +3,9 @@ audience: end-user
 user-guide-title: Marketo 안내서
 user-guide-description: Marketo 제품 설명서
 feature-set: Marketo Engage
-source-git-commit: 94ca714d038863ad801551960c66086ea47e6b10
+source-git-commit: a6745e4a5321000bc1c91ef99c5f265b4c6c5760
 workflow-type: tm+mt
-source-wordcount: '9336'
+source-wordcount: '9349'
 ht-degree: 0%
 
 ---
@@ -657,6 +657,16 @@ ht-degree: 0%
          + [Dynamic Chat 활동](product-docs/demand-generation/dynamic-chat/dynamic-chat-activities.md)
          + [Analytics](product-docs/demand-generation/dynamic-chat/analytics.md)
          + [FAQ](product-docs/demand-generation/dynamic-chat/faq.md)
+         + 설정 및 구성 {#setup-and-configuration}
+            + [초기 설정](product-docs/demand-generation/dynamic-chat/setup-and-configuration/initial-setup.md)
+            + [채팅 사용자 추가 또는 제거](product-docs/demand-generation/dynamic-chat/setup-and-configuration/add-or-remove-chat-users.md)
+            + [권한](product-docs/demand-generation/dynamic-chat/setup-and-configuration/permissions.md)
+            + [구성](product-docs/demand-generation/dynamic-chat/setup-and-configuration/configuration.md)
+            + [에이전트 설정](product-docs/demand-generation/dynamic-chat/setup-and-configuration/agent-settings.md)
+            + [에이전트 관리](product-docs/demand-generation/dynamic-chat/setup-and-configuration/agent-management.md)
+            + [보안 설정](product-docs/demand-generation/dynamic-chat/setup-and-configuration/security-settings.md)
+            + [라우팅](product-docs/demand-generation/dynamic-chat/setup-and-configuration/routing.md)
+            + [콜백 함수](product-docs/demand-generation/dynamic-chat/setup-and-configuration/callback-functions.md)
          + 자동화된 채팅 {#automated-chat}
             + [대화 흐름 개요](product-docs/demand-generation/dynamic-chat/automated-chat/conversational-flow-overview.md)
             + [대화 흐름 만들기](product-docs/demand-generation/dynamic-chat/automated-chat/create-a-conversational-flow.md)
@@ -672,16 +682,12 @@ ht-degree: 0%
             + [라이브 채팅 개요](product-docs/demand-generation/dynamic-chat/live-chat/live-chat-overview.md)
             + [에이전트 받은 편지함](product-docs/demand-generation/dynamic-chat/live-chat/agent-inbox.md)
             + [알림](product-docs/demand-generation/dynamic-chat/live-chat/notifications.md)
-         + 설정 및 구성 {#setup-and-configuration}
-            + [초기 설정](product-docs/demand-generation/dynamic-chat/setup-and-configuration/initial-setup.md)
-            + [채팅 사용자 추가 또는 제거](product-docs/demand-generation/dynamic-chat/setup-and-configuration/add-or-remove-chat-users.md)
-            + [권한](product-docs/demand-generation/dynamic-chat/setup-and-configuration/permissions.md)
-            + [구성](product-docs/demand-generation/dynamic-chat/setup-and-configuration/configuration.md)
-            + [에이전트 설정](product-docs/demand-generation/dynamic-chat/setup-and-configuration/agent-settings.md)
-            + [에이전트 관리](product-docs/demand-generation/dynamic-chat/setup-and-configuration/agent-management.md)
-            + [보안 설정](product-docs/demand-generation/dynamic-chat/setup-and-configuration/security-settings.md)
-            + [라우팅](product-docs/demand-generation/dynamic-chat/setup-and-configuration/routing.md)
-            + [콜백 함수](product-docs/demand-generation/dynamic-chat/setup-and-configuration/callback-functions.md)
+         + 생성 AI {#generative-ai}
+            + [생성 AI 개요](product-docs/demand-generation/dynamic-chat/generative-ai/overview.md)
+            + [질문 생성](product-docs/demand-generation/dynamic-chat/generative-ai/question-generation.md)
+            + [응답 라이브러리](product-docs/demand-generation/dynamic-chat/generative-ai/response-library.md)
+            + [활동 로그](product-docs/demand-generation/dynamic-chat/generative-ai/activity-log.md)
+            + [답변되지 않은 질문](product-docs/demand-generation/dynamic-chat/generative-ai/unanswered-questions.md)
       + 이벤트 {#events}
          + 이벤트 이해 {#understanding-events}
             + [이벤트 프로그램에 멤버 추가](product-docs/demand-generation/events/understanding-events/adding-members-to-an-event-program.md)
