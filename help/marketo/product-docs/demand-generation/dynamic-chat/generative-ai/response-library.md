@@ -4,10 +4,10 @@ title: 응답 라이브러리
 hide: true
 hidefromtoc: true
 feature: Dynamic Chat
-source-git-commit: a6745e4a5321000bc1c91ef99c5f265b4c6c5760
+source-git-commit: d76230bb5feeaa4c75964a69eba070aca1bf8c6a
 workflow-type: tm+mt
-source-wordcount: '199'
-ht-degree: 2%
+source-wordcount: '366'
+ht-degree: 0%
 
 ---
 
@@ -57,24 +57,49 @@ ht-degree: 2%
 
 ## 질문/응답 일괄 편집 및 업로드 {#bulk-edit-and-upload-questions-responses}
 
-1. 텍스트
+다운로드한 Excel 파일에서 일괄 편집하는 방법에 대한 지침은 다음과 같습니다. 파일의 작업 세부 사항 탭에서도 볼 수 있습니다.
 
-스크린샷
+<table>
+<thead>
+  <tr>
+    <th>액션</th>
+    <th>지침</th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td>질문 편집</td>
+    <td>"editedQuestion" 열(H열)에 새 질문을 입력합니다.</td>
+  </tr>
+  <tr>
+    <td>응답 편집</td>
+    <td>"editedResponse" 열(I열)에 새 응답 입력</td>
+  </tr>
+  <tr>
+    <td>새 질문 추가</td>
+    <td>"editedQuestion" 열(H 열)에 새 질문을 입력하고 questionResponseld를 비워 둡니다. 또한 "topics" 열(C 열)에는 적절한 항목을 입력하고 "sourceUr!" 열에는 소스 URL을 입력해야 합니다.</td>
+  </tr>
+  <tr>
+    <td>질문 및 답변 추가</td>
+    <td>"editedQuestion" 열(H열)에 새 질문을 입력하고 "editedResponse" 열(I열)에 새 응답을 입력한 다음 questionResponseld를 비워 둡니다. 또한 "주제" 열(C열)에 적절한 주제를 입력해야 합니다.</td>
+  </tr>
+</tbody>
+</table>
 
-1. 텍스트
+1. 파일에서 편집을 완료한 후 응답 라이브러리 탭으로 돌아가서 응답 업로드 를 클릭합니다.
 
-스크린샷
+   ![](assets/response-library-9.png)
 
-1. 텍스트
+1. 해당 작업 이름을 입력합니다. 파일을 드래그 앤 드롭하거나 장치에서 찾아 선택합니다. 클릭 **저장** 완료 시.
 
-스크린샷
+   ![](assets/response-library-10.png)
 
-1. 텍스트
+1. 확인이 나타나고 설정이 모두 완료되었습니다.
 
-스크린샷
+   ![](assets/response-library-11.png)
 
 ## 질문 필터링 {#filter-your-questions}
 
 기본적으로 질문은 생성 시간/날짜별로 순서대로 나열되며, 최신 질문이 먼저 표시됩니다. 특정 질문을 찾고 있는 경우 필터를 적용하여 검색 범위를 좁힙니다. 항목, 작업 이름 및/또는 승인 상태별로 필터링합니다.
 
-스크린샷
+![](assets/response-library-12.png)
