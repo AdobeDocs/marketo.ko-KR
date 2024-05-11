@@ -4,16 +4,16 @@ title: 질문 생성
 hide: true
 hidefromtoc: true
 feature: Dynamic Chat
-source-git-commit: a6745e4a5321000bc1c91ef99c5f265b4c6c5760
+source-git-commit: 9ba9e80e9dcfb2ac835d172635489cc65307270c
 workflow-type: tm+mt
-source-wordcount: '409'
+source-wordcount: '411'
 ht-degree: 0%
 
 ---
 
 # 질문 생성 {#question-generation}
 
-모든 작업과 해당 기간 세부 정보(예: 생성 시기, 총 질문 수, 승인 상태 등)를 확인합니다.
+모든 작업과 관련 세부 정보(예: 생성 시기, 총 질문 수, 승인 상태 등)를 확인합니다.
 
 ## 질문 생성 {#generate-questions}
 
@@ -37,11 +37,11 @@ ht-degree: 0%
 
    ![](assets/question-generation-4.png)
 
->[!TIP]
->
->페이지의 상태가 실시간으로 업데이트되지 않습니다. &quot;처리 중&quot;에서 &quot;완료&quot;로 언제 변경되는지 보려면 새로 고침을 누르십시오.
+   >[!TIP]
+   >
+   >페이지의 상태가 실시간으로 업데이트되지 않습니다. &quot;처리 중&quot;에서 &quot;완료&quot;로 언제 변경되는지 보려면 새로 고침을 누르십시오.
 
-![](assets/question-generation-5.png)
+   ![](assets/question-generation-5.png)
 
 ## 질문 및 응답 다운로드 {#download-questions-and-responses}
 
@@ -53,7 +53,7 @@ ht-degree: 0%
 
    ![](assets/question-generation-6.png)
 
-1. 브라우저에서 다운로드 폴더를 찾아 파일을 선택합니다. 브라우저에 따라 다르게 보일 수 있습니다.
+1. 브라우저에서 다운로드 폴더를 찾아 파일을 선택합니다. 사용하는 브라우저에 따라 다르게 보일 수 있습니다.
 
    ![](assets/question-generation-7.png)
 

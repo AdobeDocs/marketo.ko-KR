@@ -4,16 +4,16 @@ title: 답변되지 않은 질문
 hide: true
 hidefromtoc: true
 feature: Dynamic Chat
-source-git-commit: a6745e4a5321000bc1c91ef99c5f265b4c6c5760
+source-git-commit: 9ba9e80e9dcfb2ac835d172635489cc65307270c
 workflow-type: tm+mt
-source-wordcount: '102'
+source-wordcount: '103'
 ht-degree: 0%
 
 ---
 
 # 답변되지 않은 질문 {#unanswered-questions}
 
-챗봇이 대답할 수 없는 모든 질문이나 방문자가 &quot;도움이 되지 않음&quot;으로 표시한 질문을 확인하고 이 중요한 정보를 사용하여 사전 승인된 추가 응답을 만듭니다.
+챗봇이 대답할 수 없는 모든 질문 및/또는 방문자가 &quot;도움이 되지 않음&quot;으로 표시한 질문을 확인하고 이 중요한 정보를 사용하여 사전 승인된 추가 응답을 만듭니다.
 
 >[!NOTE]
 >
@@ -27,7 +27,7 @@ ht-degree: 0%
 
    ![](assets/unanswered-questions-2.png)
 
-1. 응답을 생성할 답변 없는 질문을 선택합니다.
+1. 응답을 만들 답변이 없는 질문을 선택합니다.
 
    ![](assets/unanswered-questions-3.png)
 
@@ -35,6 +35,6 @@ ht-degree: 0%
 
    ![](assets/unanswered-questions-4.png)
 
-1. 답변되지 않은 질문은 이제 답변되고 응답 라이브러리에 자동으로 추가됩니다.
+1. 이제 답변되지 않은 질문에 답변이 제공되며 응답 라이브러리에 자동으로 추가됩니다.
 
    ![](assets/unanswered-questions-5.png)
