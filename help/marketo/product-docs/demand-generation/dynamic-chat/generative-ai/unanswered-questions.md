@@ -4,9 +4,10 @@ title: 답변되지 않은 질문
 hide: true
 hidefromtoc: true
 feature: Dynamic Chat
-source-git-commit: 9ba9e80e9dcfb2ac835d172635489cc65307270c
+exl-id: 2f0f61a5-8c82-437c-af78-4c2ccc74d135
+source-git-commit: cc16ec5dd5c6671ba9265042e108d0ff76b0e16d
 workflow-type: tm+mt
-source-wordcount: '103'
+source-wordcount: '106'
 ht-degree: 0%
 
 ---
@@ -17,13 +18,13 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->답변되지 않은 질문 목록은 24시간마다 자동으로 새로 고쳐집니다.
+>답변되지 않은 질문 목록은 24시간마다 자정(PST)에 자동으로 새로 고쳐집니다.
 
-1. 생성 AI에서 **지원 응답**.
+1. 생성 AI에서 **[!UICONTROL 지원 응답]**.
 
    ![](assets/unanswered-questions-1.png)
 
-1. 다음을 클릭합니다. **답변되지 않은 질문** 탭.
+1. 다음을 클릭합니다. **[!UICONTROL 답변되지 않은 질문]** 탭.
 
    ![](assets/unanswered-questions-2.png)
 
@@ -31,7 +32,7 @@ ht-degree: 0%
 
    ![](assets/unanswered-questions-3.png)
 
-1. 응답을 입력합니다. 주제를 할당하고 사용자가 방문자와 공유할 수 있는 선택적 URL을 추가합니다. 클릭 **저장** 완료 시.
+1. 응답을 입력합니다. 주제를 할당하고 사용자가 방문자와 공유할 수 있는 선택적 URL을 추가합니다. 클릭 **[!UICONTROL 저장]** 완료 시.
 
    ![](assets/unanswered-questions-4.png)
 

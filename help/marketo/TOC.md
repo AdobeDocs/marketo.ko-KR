@@ -3,9 +3,9 @@ audience: end-user
 user-guide-title: Marketo 안내서
 user-guide-description: Marketo 제품 설명서
 feature-set: Marketo Engage
-source-git-commit: a6745e4a5321000bc1c91ef99c5f265b4c6c5760
+source-git-commit: cc16ec5dd5c6671ba9265042e108d0ff76b0e16d
 workflow-type: tm+mt
-source-wordcount: '9349'
+source-wordcount: '9355'
 ht-degree: 0%
 
 ---
@@ -675,12 +675,14 @@ ht-degree: 0%
             + [대화 상자 만들기](product-docs/demand-generation/dynamic-chat/automated-chat/create-a-dialogue.md)
             + [대상 기준](product-docs/demand-generation/dynamic-chat/automated-chat/audience-criteria.md)
             + [스트림 디자이너](product-docs/demand-generation/dynamic-chat/automated-chat/stream-designer.md)
+            + [스트림 디자이너 온도](product-docs/demand-generation/dynamic-chat/automated-chat/stream-designer-temp.md)
          + 통합 {#integrations}
             + [Adobe Marketo Engage](product-docs/demand-generation/dynamic-chat/integrations/adobe-marketo-engage.md)
             + [Adobe PDF 임베드 API](product-docs/demand-generation/dynamic-chat/integrations/adobe-pdf-embed-api.md)
          + 라이브 채팅 {#live-chat}
             + [라이브 채팅 개요](product-docs/demand-generation/dynamic-chat/live-chat/live-chat-overview.md)
             + [에이전트 받은 편지함](product-docs/demand-generation/dynamic-chat/live-chat/agent-inbox.md)
+            + [에이전트 받은 편지함 온도](product-docs/demand-generation/dynamic-chat/live-chat/agent-inbox-temp.md)
             + [알림](product-docs/demand-generation/dynamic-chat/live-chat/notifications.md)
          + 생성 AI {#generative-ai}
             + [생성 AI 개요](product-docs/demand-generation/dynamic-chat/generative-ai/overview.md)

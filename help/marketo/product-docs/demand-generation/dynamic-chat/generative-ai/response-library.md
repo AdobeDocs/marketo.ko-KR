@@ -4,9 +4,10 @@ title: 응답 라이브러리
 hide: true
 hidefromtoc: true
 feature: Dynamic Chat
-source-git-commit: d76230bb5feeaa4c75964a69eba070aca1bf8c6a
+exl-id: 774346fa-f633-48e8-a489-999404b6070b
+source-git-commit: cc16ec5dd5c6671ba9265042e108d0ff76b0e16d
 workflow-type: tm+mt
-source-wordcount: '366'
+source-wordcount: '365'
 ht-degree: 0%
 
 ---
@@ -17,27 +18,27 @@ ht-degree: 0%
 
 ## 수동으로 질문 추가 {#manually-add-a-question}
 
-1. 생성 AI에서 **지원 응답**.
+1. 생성 AI에서 **[!UICONTROL 지원 응답]**.
 
    ![](assets/response-library-1.png)
 
-1. 다음을 클릭합니다. **응답 라이브러리** 탭.
+1. 다음을 클릭합니다. **[!UICONTROL 응답 라이브러리]** 탭.
 
    ![](assets/response-library-2.png)
 
-1. 클릭 **질문 추가**.
+1. 클릭 **[!UICONTROL 질문 추가]**.
 
    ![](assets/response-library-3.png)
 
-1. 질문 및 응답을 입력합니다. 주제를 할당하고 사용자가 방문자와 공유할 수 있는 선택적 URL을 추가합니다. 클릭 **저장** 완료 시.
+1. 질문 및 응답을 입력합니다. 주제를 할당하고 사용자가 방문자와 공유할 수 있는 선택적 URL을 추가합니다. 클릭 **[!UICONTROL 저장]** 완료 시.
 
    ![](assets/response-library-4.png)
 
-1. 새로 고침을 클릭하면 새 질문이 맨 위에 &quot;처리 중&quot; 상태로 표시됩니다.
+1. 새로 고침을 클릭하면 새 질문이 맨 위에 &quot; 상태로 표시됩니다.[!UICONTROL 처리 중].&quot;
 
    ![](assets/response-library-5.png)
 
-1. 몇 분 후 을 다시 클릭하면 상태가 &quot;승인됨&quot;으로 변경됩니다.
+1. 몇 분 후에 다시 새로 고침하면 상태가 &quot;승인됨&quot;으로 변경됩니다.
 
    ![](assets/response-library-6.png)
 
@@ -45,13 +46,13 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->생성된 모든 질문 및 응답에는 기본적으로 &quot;검토 필요&quot; 상태가 할당됩니다. 채팅 방문자는 &quot;승인된&quot; 질문과 응답만 사용할 수 있습니다.
+>생성된 모든 질문 및 답변에는 &quot;[!UICONTROL 검토 필요]기본적으로 &quot; 상태입니다. 만 해당 &quot;[!UICONTROL 승인됨]&quot;채팅 방문자가 질문과 응답을 사용할 수 있습니다.
 
-1. 다음에서 **응답 라이브러리**&#x200B;을 클릭하고 원하는 질문을 클릭합니다.
+1. 다음에서 **[!UICONTROL 응답 라이브러리]**&#x200B;을 클릭하고 원하는 질문을 클릭합니다.
 
    ![](assets/response-library-7.png)
 
-1. 원하는 대로 편집하고 **저장**.
+1. 편집하고 클릭 **[!UICONTROL 저장]**.
 
    ![](assets/response-library-8.png)
 
@@ -86,11 +87,11 @@ ht-degree: 0%
 </tbody>
 </table>
 
-1. 파일에서 편집을 완료한 후 응답 라이브러리 탭으로 돌아가서 응답 업로드 를 클릭합니다.
+1. 파일에서 편집을 완료한 후 **[!UICONTROL 응답 라이브러리]** tab 키를 누른 다음 클릭 **[!UICONTROL 응답 업로드]**.
 
    ![](assets/response-library-9.png)
 
-1. 해당 작업 이름을 입력합니다. 파일을 드래그 앤 드롭하거나 장치에서 찾아 선택합니다. 클릭 **저장** 완료 시.
+1. 해당 작업 이름을 입력합니다. 파일을 드래그 앤 드롭하거나 장치에서 찾아 선택합니다. 클릭 **[!UICONTROL 저장]** 완료 시.
 
    ![](assets/response-library-10.png)
 
