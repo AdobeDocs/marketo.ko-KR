@@ -3,9 +3,9 @@ description: Dynamic Chat 릴리스 노트 - Marketo 문서 - 제품 설명서
 title: Dynamic Chat 릴리스 노트
 feature: Release Information, Dynamic Chat
 exl-id: 0447dc47-b9c5-42e1-8f66-73bf67c7871d
-source-git-commit: 719b43c637cb02ef22bde902912d53fae2661dad
+source-git-commit: bdfe64c28d3e6ae4e83561024b53e076c10fff96
 workflow-type: tm+mt
-source-wordcount: '1203'
+source-wordcount: '1343'
 ht-degree: 0%
 
 ---
@@ -15,6 +15,44 @@ ht-degree: 0%
 Adobe Dynamic Chat 릴리스는 기능 배포에 대한 보다 확장 가능한 접근 방식을 고려하는 연속 제공 모델에서 작동합니다. 한 달에 릴리스가 여러 개인 경우가 있으므로 정기적으로 최신 정보를 확인하십시오.
 
 Marketo Engage을 위한 표준 릴리스 노트 페이지 [은(는) 여기에서 찾을 수 있음](/help/marketo/release-notes/current.md){target="_blank"}.
+
+## 2024년 5월 릴리스 {#may-release}
+
+**릴리스 날짜: 2024년 5월 15일**
+
+### 사전 승인된 응답 라이브러리 {#pre-approved-response-library}
+
+[마케팅 승인 라이브러리 만들기](/help/marketo/product-docs/demand-generation/dynamic-chat/generative-ai/response-library.md){target="_blank"} AI 생성 질문 및 답변으로 생성형 AI 채팅을 단 몇 분 안에 설정할 수 있습니다.
+
+![](assets/dynamic-chat-may-2024-release-1.png)
+
+## 답변되지 않은 질문 {#unanswered-questions}
+
+[대답되지 않은 질문 저장소 사용](/help/marketo/product-docs/demand-generation/dynamic-chat/generative-ai/unanswered-questions.md){target="_blank"} 응답 라이브러리를 최신 정보로 유지 관리하는 새로운 사전 승인된 응답을 생성하기 위해 이전 대화에서
+
+![](assets/dynamic-chat-may-2024-release-2.png)
+
+### 대화 요약 {#conversation-summaries}
+
+[영업 담당자에게 요약된 대화 제공](/help/marketo/product-docs/demand-generation/dynamic-chat/live-chat/agent-inbox.md#conversation-summary){target="_blank"} 회의 전 주요 토론 주제에 대한 통찰력을 포함하여 준비 시간을 줄이고 최신 정보로 판매 대리점을 더 잘 무장시킵니다.
+
+![](assets/dynamic-chat-may-2024-release-3.png)
+
+### GenAI 영업 단축키 {#genai-sales-shortcuts}
+
+[더 빠른 방법으로 라이브 채팅 에이전트 제공](/help/marketo/product-docs/demand-generation/dynamic-chat/live-chat/agent-inbox.md#shortcuts){target="_blank"} ai 생성 응답에 액세스하려면 기존 생성 응답을 편집하고 대화 중에 구매자에게 전송할 추가 콘텐츠를 검색하십시오.
+
+![](assets/dynamic-chat-may-2024-release-4.png)
+
+### 대화 지원 {#conversation-assist}
+
+마케팅 팀에서 사전 승인한 응답을 사용하여 라이브 대화 중에 영업 에이전트가 정확하게 응답할 수 있도록 지원합니다.
+
+### 대화 넛지 {#conversation-nudges}
+
+대화의 결론을 이끌어 내기 위해 클릭 유도 문안(call-to-action)으로 웹 방문자를 살짝 밀어냅니다.
+
+<p>
 
 ## 2024년 4월 릴리스 {#april-release}
 
