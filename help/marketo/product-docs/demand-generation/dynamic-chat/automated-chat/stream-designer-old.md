@@ -1,11 +1,12 @@
 ---
 description: 스트림 디자이너 - Marketo 문서 - 제품 설명서
 title: 스트림 디자이너
+hide: true
+hidefromtoc: true
 feature: Dynamic Chat
-exl-id: 310b1dff-dd93-48a6-85c2-64c58494ce48
 source-git-commit: 3788898496c50ebc3a5a8bf6adbd79a270024be7
 workflow-type: tm+mt
-source-wordcount: '1212'
+source-wordcount: '1128'
 ht-degree: 1%
 
 ---
@@ -41,7 +42,7 @@ ht-degree: 1%
   <td>정보(예: 이름, 이메일 주소, 직함 등)를 수집하려는 경우 사용합니다. 응답을 지정할 필드를 선택한 후 방문자가 해당 응답에 입력할 수 있도록 하거나 사용자가 결정한 선택 목록에서 옵션을 선택할 수 있습니다(팁: 후자가 데이터베이스 청결도에 도움이 될 수 있음). 현재 나열된 모든 데이터를 해당 응답과 함께 덮어쓰거나 이미 값이 있는 경우 질문을 완전히 건너뛰도록 선택할 수도 있습니다.</td>
  </tr>
  <tr>
-  <td style="width:25%"><strong>회의 예약</strong></td>
+  <td style="width:25%"><strong>모임 예약</strong></td>
   <td>방문자에게 회의 일정을 잡을 수 있는 날짜 일정을 제공합니다. 라운드 로빈, 특정 에이전트를 통해 또는 사용자 지정 규칙을 사용하여 일정 가용성을 선택합니다. 클릭 <b>속성 추가</b> 에이전트의 이름 또는 이메일 주소를 캡처하고 나중에 쿼리하기 위해 채팅 방문자의 개인 레코드에 할당하려는 경우(팁: <a href="/help/marketo/product-docs/administration/field-management/create-a-custom-field-in-marketo.md" target="_blank">사용자 정의 필드</a> 표준 Marketo Engage 필드를 덮어쓰지 않도록 에이전트의 정보를 로 매핑).</td>
  </tr>
  <tr>
@@ -51,22 +52,13 @@ ht-degree: 1%
  <tr>
   <td style="width:25%"><strong>작업*</strong></td>
   <td>양식의 숨겨진 필드와 유사하며 작업 카드로 잠재 고객 또는 회사 속성(이 있는 경우 <a href="/help/marketo/product-docs/administration/field-management/custom-field-type-glossary.md#string">문자열 데이터 형식</a>잠재 고객 레코드와 비교하여 캡처할 암시적 값이 있는 대화의 어느 시점에서든 작업 카드를 추가하고 각 속성을 값 또는 해당 값을 자동으로 채우는 기본 토큰으로 업데이트할 수 있습니다.
-  <p><i>* 이 카드에는 Dynamic Chat Prime이 필요합니다. 자세한 내용은 Adobe 계정 팀(계정 관리자)에 문의하십시오.</i></td>
+  <p><i>* 작업 카드에는 Dynamic Chat Prime이 필요합니다. 자세한 내용은 Adobe 계정 팀(계정 관리자)에 문의하십시오.</i></td>
  </tr>
  <tr>
-  <td style="width:25%"><strong>실시간 채팅</strong></td>
+  <td style="width:25%"><strong>라이브 채팅</strong></td>
   <td>방문자가 라이브 에이전트와 채팅하도록 하려면 라이브 채팅 카드를 사용하십시오.
   <li>라이브 채팅 카드가 분기의 마지막 카드여야 합니다.</li>
   <li>방문자는 스트림의 이 카드에 도달하면 에이전트로 라우팅됩니다. 따라서 방문자에게 라이브 에이전트와 채팅할 것인지 묻는 질문 카드와 함께 이 카드 앞에 서는 것이 좋습니다.</li></td>
- </tr>
- <tr>
-  <td style="width:25%"><strong>생성된 응답*</strong></td>
-  <td>방문자가 대화의 특정 지점에 도달했을 때를에 대한 메시지를 만듭니다. 원하는 주요 성과 지표를 얻기 위해 한 번에 여러 질문을 할 수 있습니다.
-  <p><i>* 이 카드에는 Dynamic Chat Prime이 필요합니다. 자세한 내용은 Adobe 계정 팀(계정 관리자)에 문의하십시오.</i></td>
- </tr>
- <tr>
-  <td style="width:25%"><strong>조건부 분기</strong></td>
-  <td>다양한 조건을 기반으로 대화 상자 흐름에서 분기를 만듭니다. Marketo Engage의 리드 및 회사 속성에 따라 동일한 대화 상자에서 다른 사람에게 다른 컨텐츠를 제공합니다.</td>
  </tr>
 </table>
 

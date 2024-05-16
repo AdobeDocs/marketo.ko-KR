@@ -1,12 +1,13 @@
 ---
 description: 에이전트 받은 편지함 - Marketo 문서 - 제품 설명서
 title: 에이전트 받은 편지함
+hide: true
+hidefromtoc: true
 feature: Dynamic Chat
-exl-id: 65f13879-36d2-4a23-a029-271f5aea1229
 source-git-commit: 3788898496c50ebc3a5a8bf6adbd79a270024be7
 workflow-type: tm+mt
-source-wordcount: '550'
-ht-degree: 0%
+source-wordcount: '301'
+ht-degree: 1%
 
 ---
 
@@ -56,45 +57,11 @@ ht-degree: 0%
 
 ![](assets/agent-inbox-6.png)
 
-## 단축키 {#shortcuts}
-
->[!NOTE]
->
->이 기능은 Dynamic Chat Prime 구독을 통해 사용할 수 있는 생성 AI의 일부입니다. 자세한 내용은 Adobe 계정 팀(계정 관리자)에 문의하십시오.
-
-생성 AI에서 제공하는 단축키 [응답 라이브러리](/help/marketo/product-docs/demand-generation/dynamic-chat/generative-ai/response-library.md)는 방문자와 채팅할 때 언제든지 도움을 받을 수 있는 좋은 방법입니다. 슬래시(`/`)를 클릭하여 텍스트 상자를 선택합니다 `ask` 또는 `search`.
-
-![](assets/agent-inbox-7.png)
-
-**묻기** 은(는) 질문에 대한 응답에 대한 도움말입니다.
-
-1. 입력 또는 선택 `/ask` 텍스트 상자에 입력합니다. 질문을 입력하고 키보드에서 Enter 키를 누릅니다.
-
-   ![](assets/agent-inbox-8.png)
-
-1. 답변이 나타납니다. 복사 아이콘을 클릭하여 텍스트 상자에 붙여 넣습니다. 방문자에게 텍스트를 보내기 전에 편집할 수 있습니다.
-
-   ![](assets/agent-inbox-9.png)
-
-**검색** 특정 텍스트와 관련된 페이지를 찾는 데 도움이 됩니다.
-
-1. 입력 또는 선택 `/search` 텍스트 상자에 입력합니다.
-
-   ![](assets/agent-inbox-10.png)
-
-1. 검색할 내용을 입력하고 키보드에서 enter 키를 누릅니다.
-
-   ![](assets/agent-inbox-11.png)
-
-1. 적용 가능한 링크가 나타납니다. 복사 아이콘을 클릭하여 텍스트 상자에 붙여 넣습니다. 방문자에게 정보를 보내기 전에 편집할 수 있습니다.
-
-   ![](assets/agent-inbox-12.png)
-
 ## 활동 내역 {#activity-history}
 
 방문자 정보 아래는 활동 기록입니다. 활동 유형 및 날짜를 보고 채팅 기록을 봅니다.
 
-![](assets/agent-inbox-13.png)
+![](assets/agent-inbox-7.png)
 
 >[!NOTE]
 >
@@ -106,26 +73,13 @@ ht-degree: 0%
 
 1. 달력 아이콘을 클릭합니다.
 
-   ![](assets/agent-inbox-14.png)
+   ![](assets/agent-inbox-8.png)
 
 1. 원하는 에이전트 달력을 선택하고 **보내기**.
 
-   ![](assets/agent-inbox-15.png)
+   ![](assets/agent-inbox-9.png)
 
 1. 채팅 방문자는 모임을 예약할 수 있습니다.
 
-   ![](assets/agent-inbox-16.png)
+   ![](assets/agent-inbox-10.png)
 
-## 대화 요약 {#conversation-summary}
-
->[!NOTE]
->
->이 기능은 Dynamic Chat Prime 구독을 통해 사용할 수 있는 생성 AI의 일부입니다. 자세한 내용은 Adobe 계정 팀(계정 관리자)에 문의하십시오.
-
-대화 요약 은 방문자가 관심을 표현한 주제를 포함하여 실시간으로 빠른 요약을 생성합니다. 모든 채팅 화면의 오른쪽 하단에서 사용할 수 있습니다.
-
-![](assets/agent-inbox-17.png)
-
->[!NOTE]
->
->완료된 대화 요약은 Marketo Engage 데이터베이스에 있는 방문자 개인 레코드의 활동 로그에서도 찾을 수 있습니다.

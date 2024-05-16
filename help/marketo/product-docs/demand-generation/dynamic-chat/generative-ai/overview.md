@@ -1,14 +1,12 @@
 ---
 description: 생성 AI 개요 - Marketo 문서 - 제품 설명서
 title: 생성 AI 개요
-hide: true
-hidefromtoc: true
 feature: Dynamic Chat
 exl-id: 2ec6409b-f2c8-42a4-94e0-5d2cd331a0a6
-source-git-commit: ed8f0f5543e66ab6e6df5a97ac9a6cf55931daba
+source-git-commit: 3788898496c50ebc3a5a8bf6adbd79a270024be7
 workflow-type: tm+mt
-source-wordcount: '359'
-ht-degree: 3%
+source-wordcount: '429'
+ht-degree: 2%
 
 ---
 
@@ -30,33 +28,45 @@ Adobe Dynamic Chat의 생성 AI는 의도 신호, 사용자 환경 설정 및 �
 
 ## 대화 요약 {#conversation-summary}
 
-일반적으로 방문자 대화의 전체 컨텍스트를 가져오려면 전체 채팅 대본을 스크롤해야 합니다. 대화 요약 은 실시간으로 요약을 생성하며 방문자가 관심을 표현한 주제까지 포함합니다. 이 기능은 여러 방문자와 채팅 간을 전환할 때 빠른 대화 컨텍스트가 필요한 채팅 에이전트에 특히 유용합니다.
+일반적으로 방문자 대화의 전체 컨텍스트를 가져오려면 전체 채팅 대본을 스크롤해야 합니다. 대화 요약 은 실시간으로 요약을 생성하며 방문자가 관심을 표현한 주제까지 포함합니다. 이 기능은 여러 방문자와 채팅 간을 전환할 때 빠른 대화 컨텍스트가 필요한 채팅 에이전트에 특히 유용합니다. 에이전트 받은 편지함 채팅 화면에 표시되는 것 외에도 완료된 대화 요약은 Marketo Engage 데이터베이스에 있는 방문자의 개인 레코드 활동 로그에서 찾을 수 있습니다.
 
 ![](assets/generative-ai-overview-3.png)
+
+![](assets/generative-ai-overview-4.png)
+
+>[!NOTE]
+>
+>대화 요약은 라이브 채팅과 자동화된 채팅 모두에 대해 생성됩니다.
 
 ## 질문 생성 {#question-generation}
 
 [인바운드 경험 향상](/help/marketo/product-docs/demand-generation/dynamic-chat/generative-ai/question-generation.md) 영업, 마케팅 및 제품 지식을 숙지한 인터페이스를 사용하여 방문자를 위한 AI 지원 대화와 함께.
 
-![](assets/generative-ai-overview-4.png)
+![](assets/generative-ai-overview-5.png)
 
 ## 응답 라이브러리 {#response-library}
 
 [사용자 지정된 컬렉션 생성](/help/marketo/product-docs/demand-generation/dynamic-chat/generative-ai/response-library.md) 생성 AI 채팅 캠페인 내에서 사용할 수 있도록 모든 사전 승인된 질문과 대답이 제공됩니다.
 
-![](assets/generative-ai-overview-5.png)
+![](assets/generative-ai-overview-6.png)
 
 ## 활동 로그 {#activity-log}
 
 [모든 작업 목록 보기](/help/marketo/product-docs/demand-generation/dynamic-chat/generative-ai/activity-log.md) 이름, 소유자, 유형, 편집한 사용자 및 시기 등 관련 세부 정보.
 
-![](assets/generative-ai-overview-6.png)
+![](assets/generative-ai-overview-7.png)
 
 ## 답변되지 않은 질문 {#unanswered-questions}
 
 [사전 승인된 추가 응답 만들기](/help/marketo/product-docs/demand-generation/dynamic-chat/generative-ai/unanswered-questions.md) 리포지토리 기반의 AI를 사용하는 응답 라이브러리에 대해 이전 대화에서 답을 찾지 못한 다른 WORD의 질문을 사용하십시오.
 
-![](assets/generative-ai-overview-7.png)
+![](assets/generative-ai-overview-8.png)
+
+## 논의된 항목 {#discussed-topics}
+
+논의된 주제는 스마트 목록 트리거 및 필터에서 제한 사항으로 사용할 수 있으므로 Dynamic Chat 통찰력을 더욱 자세히 살펴볼 수 있습니다.
+
+![](assets/generative-ai-overview-9.png)
 
 >[!IMPORTANT]
 >
