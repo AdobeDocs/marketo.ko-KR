@@ -3,7 +3,7 @@ description: 사용자 및 라이선스 관리 - Marketo 문서 - 제품 설명�
 title: 사용자 및 라이선스 관리
 exl-id: 1fee628b-e9f3-46ab-b993-f2d09fe5e183
 feature: Interactive Webinars
-source-git-commit: b5fb106126e52a8d759e560d21e525e21154a4d6
+source-git-commit: 0ab3b8075923f58a9546acff8039d67126f22bf3
 workflow-type: tm+mt
 source-wordcount: '703'
 ht-degree: 0%
@@ -69,31 +69,31 @@ ht-degree: 0%
 <table> 
   <tr>
    <td width="20%"><b>시작 일자</b></td>
-   <td>라이센스 시작 날짜.</td>
+   <td width="80%">라이센스 시작 날짜.</td>
   </tr>
   <tr> 
    <td width="20%"><b>만료일</b></td>
-   <td>라이센스가 만료되는 날짜입니다.</td>
+   <td width="80%">라이센스가 만료되는 날짜입니다.</td>
   </tr>
   <tr> 
    <td width="20%"><b>유형</b></td>
-   <td>구매한 라이선스 유형. 사용 가능한 유형은 공유 이벤트 라이선스, 공유 룸 라이선스, 추가 저장소 라이선스 세 가지입니다.</td>
+   <td width="80%">구매한 라이선스 유형. 사용 가능한 유형은 공유 이벤트 라이선스, 공유 룸 라이선스, 추가 저장소 라이선스 세 가지입니다.</td>
   </tr>
   <tr> 
    <td width="20%"><b>이벤트 용량</b></td>
-   <td>이벤트에 수용할 수 있는 최대 참가자 수입니다.</td>
+   <td width="80%">이벤트에 수용할 수 있는 최대 참가자 수입니다.</td>
   </tr>
   <tr> 
    <td width="20%"><b>총 이벤트 수</b></td>
-   <td>이 라이선스로 프로비저닝된 총 이벤트 수입니다.</td>
+   <td width="80%">이 라이선스로 프로비저닝된 총 이벤트 수입니다.</td>
   </tr>
   <tr> 
    <td width="20%"><b>사용된 이벤트</b></td>
-   <td>완료된 총 이벤트 수입니다.</td>
+   <td width="80%">완료된 총 이벤트 수입니다.</td>
   </tr>
   <tr> 
    <td width="20%"><b>스토리지 용량</b></td>
-   <td>기록, 자료, hero images, 문서 및 기타 자산을 저장하는 데 사용할 수 있는 스토리지 용량입니다.</td>
+   <td width="80%">기록, 자료, hero images, 문서 및 기타 자산을 저장하는 데 사용할 수 있는 스토리지 용량입니다.</td>
   </tr>
   </tbody>
 </table>
