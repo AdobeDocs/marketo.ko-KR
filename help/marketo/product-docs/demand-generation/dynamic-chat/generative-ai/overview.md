@@ -3,9 +3,9 @@ description: 생성 AI 개요 - Marketo 문서 - 제품 설명서
 title: 생성 AI 개요
 feature: Dynamic Chat
 exl-id: 2ec6409b-f2c8-42a4-94e0-5d2cd331a0a6
-source-git-commit: 3788898496c50ebc3a5a8bf6adbd79a270024be7
+source-git-commit: 091e4cb2d9909b86a9e1a78fff812b8421fb970d
 workflow-type: tm+mt
-source-wordcount: '429'
+source-wordcount: '426'
 ht-degree: 2%
 
 ---
@@ -58,7 +58,7 @@ Adobe Dynamic Chat의 생성 AI는 의도 신호, 사용자 환경 설정 및 �
 
 ## 답변되지 않은 질문 {#unanswered-questions}
 
-[사전 승인된 추가 응답 만들기](/help/marketo/product-docs/demand-generation/dynamic-chat/generative-ai/unanswered-questions.md) 리포지토리 기반의 AI를 사용하는 응답 라이브러리에 대해 이전 대화에서 답을 찾지 못한 다른 WORD의 질문을 사용하십시오.
+[사전 승인된 추가 응답 만들기](/help/marketo/product-docs/demand-generation/dynamic-chat/generative-ai/unanswered-questions.md) 이전 대화의 답변 없는 질문 저장소를 기반으로 AI를 사용하는 응답 라이브러리에 대해 설명합니다.
 
 ![](assets/generative-ai-overview-8.png)
 
