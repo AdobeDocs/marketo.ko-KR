@@ -3,7 +3,7 @@ description: Dynamic Chat 릴리스 노트 - Marketo 문서 - 제품 설명서
 title: Dynamic Chat 릴리스 노트
 feature: Release Information, Dynamic Chat
 exl-id: 0447dc47-b9c5-42e1-8f66-73bf67c7871d
-source-git-commit: bdfe64c28d3e6ae4e83561024b53e076c10fff96
+source-git-commit: cbf60ee8756996c554370604f95be7a2ffb1b959
 workflow-type: tm+mt
 source-wordcount: '1343'
 ht-degree: 0%
@@ -26,7 +26,7 @@ Marketo Engage을 위한 표준 릴리스 노트 페이지 [은(는) 여기에�
 
 ![](assets/dynamic-chat-may-2024-release-1.png)
 
-## 답변되지 않은 질문 {#unanswered-questions}
+### 답변되지 않은 질문 {#unanswered-questions}
 
 [대답되지 않은 질문 저장소 사용](/help/marketo/product-docs/demand-generation/dynamic-chat/generative-ai/unanswered-questions.md){target="_blank"} 응답 라이브러리를 최신 정보로 유지 관리하는 새로운 사전 승인된 응답을 생성하기 위해 이전 대화에서
 
