@@ -3,10 +3,10 @@ description: Dynamic Chat 개요 - Marketo 문서 - 제품 설명서
 title: Dynamic Chat 개요
 feature: Dynamic Chat
 exl-id: 73ab651e-bb11-459d-aa6a-39d9e208d512
-source-git-commit: c4a02e1c365da6c56c94b119650e2c366cdc6641
+source-git-commit: be1ca409642fd5d81d341fbadaff38c268fe198f
 workflow-type: tm+mt
-source-wordcount: '571'
-ht-degree: 1%
+source-wordcount: '595'
+ht-degree: 2%
 
 ---
 
@@ -52,13 +52,17 @@ Dynamic Chat의 주요 구성 요소는 Marketo 구독과 기본적으로 상호
 
 다음을 통해 자격을 갖춘 웹 방문자에게 영업 담당자와 연결할 수 있는 기회를 제공하십시오. [라이브 채팅](/help/marketo/product-docs/demand-generation/dynamic-chat/live-chat/live-chat-overview.md){target="_blank"}.
 
-## 대화 흐름 {#conversational-flow}
+## 대화 플로우 {#conversational-flow}
 
 [대화 디자인](/help/marketo/product-docs/demand-generation/dynamic-chat/automated-chat/conversational-flow-overview.md){target="_blank"} 지정한 작업(예: 양식 작성, 링크 클릭 등)에 따라 방문자가 트리거할 수 있습니다.
 
+## 생성형 AI {#generative-ai}
+
+[생성 AI](/help/marketo/product-docs/demand-generation/dynamic-chat/generative-ai/overview.md){target="_blank"} Adobe Dynamic Chat에서 는 의도 신호, 사용자 환경 설정 및 과거 동작을 실시간으로 처리하여 채팅 방문자를 위한 관련성 있고 개인화된 메시지를 생성합니다.
+
 ## 언어 변경 {#changing-the-language}
 
-Dynamic Chat 언어를 변경하려면 다음 단계를 따르십시오.
+Dynamic Chat 언어를 변경하려면 아래 단계를 따르십시오.
 
 >[!IMPORTANT]
 >
