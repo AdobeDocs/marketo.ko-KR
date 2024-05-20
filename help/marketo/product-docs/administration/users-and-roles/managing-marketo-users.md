@@ -4,9 +4,9 @@ description: Marketo 사용자 관리 - Marketo 문서 - 제품 설명서
 title: Marketo 사용자 관리
 exl-id: 40506d3c-a7cb-45fb-bc10-021bd0c70806
 feature: Users and Roles
-source-git-commit: ee6944a02a4535f9d763453fa16c95623eed6378
+source-git-commit: ab4358ac1d3e1aa1d3733fa5191c5d59022bdf9f
 workflow-type: tm+mt
-source-wordcount: '393'
+source-wordcount: '402'
 ht-degree: 0%
 
 ---
@@ -15,7 +15,7 @@ ht-degree: 0%
 
 >[!IMPORTANT]
 >
->이 문서는 다음을 수행하는 사람만을 위한 것입니다. _아님_ 사용 [Adobe ID가 있는 Marketo](/help/marketo/product-docs/administration/marketo-with-adobe-identity/adobe-identity-management-overview.md){target="_blank"}. If you do, please follow the steps in [this article](/help/marketo/product-docs/administration/marketo-with-adobe-identity/add-or-remove-a-user.md){target="_blank"} 대신,
+>이 문서는 다음을 수행하는 사람만을 위한 것입니다. _아님_ 사용 [Adobe ID가 있는 Marketo](/help/marketo/product-docs/administration/marketo-with-adobe-identity/adobe-identity-management-overview.md){target="_blank"}. 그럴 경우 의 단계를 따르십시오. [이 문서](/help/marketo/product-docs/administration/marketo-with-adobe-identity/add-or-remove-a-user.md){target="_blank"}.
 
 ## 사용자 만들기 {#create-users}
 

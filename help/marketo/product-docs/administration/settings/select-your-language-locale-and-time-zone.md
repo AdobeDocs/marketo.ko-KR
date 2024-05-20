@@ -4,16 +4,20 @@ description: 언어, 로케일 및 시간대 선택 - Marketo 문서 - 제품 �
 title: 언어, 로케일 및 시간대 선택
 exl-id: d11f376f-618c-4fa8-a6b5-e11d29e8d728
 feature: Administration
-source-git-commit: 02b2e39580c5eac63de4b4b7fdaf2a835fdd4ba5
+source-git-commit: ab4358ac1d3e1aa1d3733fa5191c5d59022bdf9f
 workflow-type: tm+mt
-source-wordcount: '124'
-ht-degree: 4%
+source-wordcount: '156'
+ht-degree: 5%
 
 ---
 
 # 언어, 로케일 및 시간대 선택 {#select-your-language-locale-and-time-zone}
 
-영어가 모국어가 아닙니까? 걱정하지 마십시오. 이미 해결했습니다. 여기에서 언어, 로케일 및 시간대를 변경하는 방법을 알아볼 수 있습니다.
+영어는 모국어가 아닙니까? 걱정하지 마십시오. 이미 해결했습니다. 다음은 Marketo Engage 인스턴스의 언어, 로케일 및 시간대를 변경하는 방법입니다.
+
+>[!IMPORTANT]
+>
+>이 문서는 다음을 수행하는 사람만을 위한 것입니다. _아님_ 사용 [Adobe ID가 있는 Marketo](/help/marketo/product-docs/administration/marketo-with-adobe-identity/adobe-identity-management-overview.md). 이 옵션을 선택하면 아래에 설명된 설정에 액세스할 수 있습니다. [Adobe 계정 프로필](https://account.adobe.com/profile).
 
 ## 지원되는 언어 {#supported-languages}
 
@@ -54,7 +58,7 @@ ht-degree: 4%
 
    ![](assets/select-your-language-locale-and-time-zone-6.png)
 
-1. 클릭 **[!UICONTROL 저장]**.
+1. **[!UICONTROL 저장]**&#x200B;을 클릭합니다.
 
    ![](assets/select-your-language-locale-and-time-zone-7.png)
 
