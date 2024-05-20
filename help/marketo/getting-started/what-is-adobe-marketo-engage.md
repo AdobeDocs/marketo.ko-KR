@@ -4,9 +4,9 @@ description: Adobe Marketo Engage란? - Marketo 문서 - 제품 설명서
 title: Adobe Marketo Engage란?
 exl-id: 7b76e910-6c01-4fdb-8ab8-f6b1abe13136
 feature: Getting Started
-source-git-commit: 14583b7fa148aa2b03c8cf6316b9a106c11717b7
+source-git-commit: f0885ae2fcc1fe51768edc34bc4e814c19b9c315
 workflow-type: tm+mt
-source-wordcount: '284'
+source-wordcount: '286'
 ht-degree: 1%
 
 ---
@@ -21,13 +21,14 @@ Marketo Engage은 마케팅 목표를 달성하는 데 도움이 되는 다양�
 
 * 양식 편집기
 * 랜딩 페이지 편집기
+* 스마트 캠페인
+* Dynamic Chat
+* 기본 대화형 웨비나
 * 안내식 랜딩 페이지 템플릿
 * 이메일 편집기
 * 메일 폭발 도구
 * 세분화
 * 예측 콘텐츠
-* Dynamic Chat
-* 기본 대화형 웨비나
 * 서드파티 웨비나 통합
 * 모바일 마케팅
 * CRM(Salesforce 또는 Dynamics)과 동기화
