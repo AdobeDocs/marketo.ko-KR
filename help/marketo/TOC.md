@@ -3,9 +3,9 @@ audience: end-user
 user-guide-title: Marketo 안내서
 user-guide-description: Marketo 제품 설명서
 feature-set: Marketo Engage
-source-git-commit: c7b46fe06e9bdd2cf3437ee6be741a72c69830b8
+source-git-commit: c40726e04b4b661e70cc9ba62f6b10aefab2cd58
 workflow-type: tm+mt
-source-wordcount: '9341'
+source-wordcount: '9350'
 ht-degree: 0%
 
 ---
@@ -26,12 +26,14 @@ ht-degree: 0%
       + [새 인스턴스 모범 사례: 데이터베이스 검사 목록](getting-started/implementing-a-new-marketo-engage-instance/database-checklist.md)
       + [새 인스턴스 모범 사례: 마케팅 활동 검사 목록](getting-started/implementing-a-new-marketo-engage-instance/marketing-activities-checklist.md)
       + [새 인스턴스 모범 사례: Design Studio 검사 목록](getting-started/implementing-a-new-marketo-engage-instance/design-studio-checklist.md)
+      + [새로운 인스턴스 모범 사례: Analytics 검사 목록](getting-started/implementing-a-new-marketo-engage-instance/analytics-checklist.md)
       + [새로운 인스턴스 모범 사례: 설정 문서화](getting-started/implementing-a-new-marketo-engage-instance/document-your-setup.md)
    + 알아야 할 사항 {#things-to-know}
       + [Marketo Engage 용어집](getting-started/things-to-know/marketo-engage-glossary.md)
       + [아이콘 용어집](getting-started/things-to-know/icon-glossary.md)
       + [클래식 아이콘 용어집](getting-started/things-to-know/classic-icon-glossary.md)
       + [도움말 센터](getting-started/things-to-know/help-center.md)
+      + [Marketing Nation 커뮤니티](getting-started/things-to-know/community.md)
    + 빠른 성공 {#quick-wins}
       + [설정 및 사용자 추가](getting-started/quick-wins/get-set-up-and-add-a-person.md)
       + [이메일 보내기](getting-started/quick-wins/send-an-email.md)
