@@ -4,16 +4,16 @@ description: 이메일 프로그램 이해 - Marketo 문서 - 제품 설명서
 title: 이메일 프로그램 이해
 exl-id: 3ec1a4f0-90fb-4a4b-94bf-ce5ee7d8bdd4
 feature: Email Programs
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 40d1191fb5bab275e83322dd1fea89888d818820
 workflow-type: tm+mt
-source-wordcount: '253'
+source-wordcount: '243'
 ht-degree: 0%
 
 ---
 
 # 이메일 프로그램 이해 {#understanding-email-programs}
 
-새로운 Marketo 친구인 이메일 프로그램에 인사하세요. 한 곳에서 이메일을 보내고, A/B 테스트를 만들고, 결과를 추적하십시오.
+한 곳에서 이메일을 보내고, A/B 테스트를 만들고, 결과를 추적하십시오.
 
 ## Campaign 컨트롤 패널 {#control-panel}
 

@@ -3,9 +3,9 @@ description: 현재 릴리스 정보 - Marketo 설명서 - 제품 설명서
 title: 최신 릴리스 정보
 exl-id: a2eccad5-73ad-48f9-8091-51cee23824e1
 feature: Release Information
-source-git-commit: 29c730246188740d004a45f34923bb83f0322ec5
+source-git-commit: 40d1191fb5bab275e83322dd1fea89888d818820
 workflow-type: tm+mt
-source-wordcount: '257'
+source-wordcount: '280'
 ht-degree: 3%
 
 ---
@@ -30,6 +30,17 @@ Adobe Dynamic Chat에 대한 릴리스 노트 [은(는) 여기에서 찾을 수 
    <th style="width:65%">기능</th> 
    <th style="width:10%">상태</th>
    <th style="width:25%">설명서</th>
+  </tr>
+     <tr> 
+   <td><strong>대화형 웨비나용 템플릿</strong>: 이제 마케터는 대화형 웨비나에서 룸 레이아웃에 대한 사용자 지정 템플릿을 만들 수 있습니다.</td> 
+   <td><i>곧 출시 예정</i></td>
+   <td><i>곧 출시 예정</i></td>
+  </tr>
+  <tr> 
+   <td> </td> 
+   <td> </td>
+   <td> </td>
+  </tr>
   </tr>
      <tr> 
    <td><strong>Forms의 필드 유추</strong>: 이전 웹 활동이 없는 양식 채우기를 통해 개인을 만들 때 유추된 필드를 채우는 데 사용된 데이터 소스가 다른 사용자 수집 방법과 동일한 데이터 소스를 사용하도록 업데이트되었습니다. 이제 추론된 필드 데이터가 모든 수집 지점에서 일관됩니다.</td> 
