@@ -4,9 +4,9 @@ description: 이메일 프로그램 대시보드 - Marketo 문서 - 제품 설�
 title: 이메일 프로그램 대시보드 사용
 exl-id: 47c1925a-144b-4277-a08d-1af660ed3d50
 feature: Email Programs
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 77aa62c45572bcd92710ee4a80529109aba45120
 workflow-type: tm+mt
-source-wordcount: '321'
+source-wordcount: '382'
 ht-degree: 0%
 
 ---
@@ -15,9 +15,13 @@ ht-degree: 0%
 
 이 대시보드 보기에서 이메일 프로그램의 성능을 확인하십시오.
 
+>[!CAUTION]
+>
+>정확한 보고를 위해 Smart Campaign을 통해 또는 시작한 이메일 프로그램에서 새 이메일 프로그램으로 자산을 이동하여 이메일 프로그램에서 이전에 사용된 이메일을 재사용하지 마십시오. 이렇게 하면 원래 전자 메일 프로그램 대시보드의 보고 번호에 추가됩니다. 동일한 이메일을 재사용해야 하는 경우 [복제](/help/marketo/product-docs/core-marketo-concepts/programs/working-with-programs/clone-an-asset-in-a-program.md){target="_blank"} 대신,
+
 >[!NOTE]
 >
->프로그램에 A/B 테스트가 있는 경우 [이메일 프로그램 대시보드 - A/B 테스트 보기](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/email-test-a-b-test/use-the-email-program-dashboard-a-b-test-view.md).
+>프로그램에 A/B 테스트가 있는 경우 [이메일 프로그램 대시보드 - A/B 테스트 보기](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/email-test-a-b-test/use-the-email-program-dashboard-a-b-test-view.md){target="_blank"}.
 
 ![](assets/image2014-9-12-14-3a12-3a56.png)
 
@@ -47,7 +51,7 @@ ht-degree: 0%
 
 ## 요약 - 참여 {#summary-engagement}
 
-이는 다음을 전체적으로 보여 줍니다. [참여 점수](/help/marketo/product-docs/email-marketing/drip-nurturing/reports-and-notifications/understanding-the-engagement-score.md).
+이는 다음을 전체적으로 보여 줍니다. [참여 점수](/help/marketo/product-docs/email-marketing/drip-nurturing/reports-and-notifications/understanding-the-engagement-score.md){target="_blank"}.
 
 ![](assets/image2014-9-12-14-3a13-3a11.png)
 
@@ -77,4 +81,4 @@ ht-degree: 0%
 
 >[!MORELIKETHIS]
 >
->[이메일 프로그램 대시보드 사용 - A/B 테스트 보기](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/email-test-a-b-test/use-the-email-program-dashboard-a-b-test-view.md)
+>[이메일 프로그램 대시보드 사용 - A/B 테스트 보기](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/email-test-a-b-test/use-the-email-program-dashboard-a-b-test-view.md){target="_blank"}

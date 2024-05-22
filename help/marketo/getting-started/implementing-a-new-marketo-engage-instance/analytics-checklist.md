@@ -4,7 +4,7 @@ title: 새로운 인스턴스 모범 사례 - Analytics 검사 목록
 hide: true
 hidefromtoc: true
 feature: Getting Started
-source-git-commit: a7b1ede27b8286f13fcb850ee49757e86e23dbd5
+source-git-commit: 77aa62c45572bcd92710ee4a80529109aba45120
 workflow-type: tm+mt
 source-wordcount: '1424'
 ht-degree: 0%
@@ -109,7 +109,7 @@ ht-degree: 0%
     <td>참고: 이 보고서에서는 채널, 진행 상태 및 성공 단계가 정의되어야 합니다. <a href="https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/administration/tags/create-a-program-channel">관리자 &gt; 태그 영역</a>. <li><a href="https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/core-marketo-concepts/programs/program-performance-report/create-a-program-performance-report">마케팅 전술의 효율성 측정</a> 선택적 프로그램 내.</li>
     <li>마케팅 활동 내의 모범 사례에 따라 프로그램 멤버십을 관리합니다(스마트 캠페인을 사용하여 획득 프로그램, 상태, 성공 상태 업데이트).</li>
     <li>올해 및 12개월 동안의 비용을 기준으로 측정합니다.
-    <ul><li>유지 관리 <a href="https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/core-marketo-concepts/programs/working-with-programs/using-period-costs-in-a-program">기간 비용</a> 는 프로그램 성과 보고서를 활용하는 데 매우 중요합니다.</li>
+    <ul><li>유지 관리 <a href="https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/core-marketo-concepts/programs/working-with-programs/using-period-costs-in-a-program">기간 비용</a> 는 프로그램 성과 보고서를 활용하는 데 매우 중요합니다.</li></ul>
     <br>팁: 모든 항목을 집계하고 조회하려면 <a href="https://experienceleague.adobe.com/en/docs/marketo/using/getting-started/quick-wins/import-a-list-of-people">가져온 목록</a> 프로그램 성과 보고서에서 팀이 태그 지정에 적합한 획득 프로그램을 선택했는지 확인합니다. 고려 <a href="https://experienceleague.adobe.com/en/docs/marketo-learn/tutorials/programs-and-campaigns/default-programs/create-and-measure-default-programs">기본 프로그램 만들기</a> 가져온 목록이 채널에 적용되지 않을 때 획득 프로그램으로 선택됩니다. 이렇게 하면 가져온 모든 사람이 소스, 비즈니스 단위, 채널 등과 관련된 유효한 획득 프로그램을 보유하게 됩니다. 빈 값 대신 사용됩니다.</td>
   </tr>
   <tr>

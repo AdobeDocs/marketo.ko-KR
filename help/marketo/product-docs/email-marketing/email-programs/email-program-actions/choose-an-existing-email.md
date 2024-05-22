@@ -4,9 +4,9 @@ description: 기존 이메일 선택 - Marketo 문서 - 제품 설명서
 title: 기존 이메일 선택
 exl-id: c59200fd-808a-4b99-8c44-d7c1aaf53f98
 feature: Email Programs
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 77aa62c45572bcd92710ee4a80529109aba45120
 workflow-type: tm+mt
-source-wordcount: '153'
+source-wordcount: '213'
 ht-degree: 0%
 
 ---
@@ -17,6 +17,10 @@ ht-degree: 0%
 >
 >* [이메일 프로그램 만들기](/help/marketo/product-docs/email-marketing/email-programs/creating-an-email-program/create-an-email-program.md)
 >* [스마트 목록으로 대상자 정의](/help/marketo/product-docs/email-marketing/email-programs/managing-people-in-email-programs/define-an-audience-with-a-smart-list.md) 또는 [목록을 가져와서 대상자 정의](/help/marketo/product-docs/email-marketing/email-programs/managing-people-in-email-programs/define-an-audience-by-importing-a-list.md)
+
+>[!CAUTION]
+>
+>정확한 보고를 위해 Smart Campaign을 통해 또는 시작한 이메일 프로그램에서 새 이메일 프로그램으로 자산을 이동하여 이메일 프로그램에서 이전에 사용된 이메일을 재사용하지 마십시오. 이렇게 하면 원래 전자 메일 프로그램 대시보드의 보고 번호에 추가됩니다. 동일한 이메일을 재사용해야 하는 경우 [복제](/help/marketo/product-docs/core-marketo-concepts/programs/working-with-programs/clone-an-asset-in-a-program.md){target="_blank"} 대신,
 
 다음 작업을 완료하면 [이메일 프로그램 생성됨](/help/marketo/product-docs/email-marketing/email-programs/creating-an-email-program/create-an-email-program.md) 대상자를 정의하면 전송할 이메일을 결정할 수 있습니다. 다음을 수행할 수 있습니다. [이메일 프로그램용 이메일 만들기](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/create-an-email-for-an-email-program.md) 처음부터 새로 만들거나 이미 존재하는 것을 선택하십시오. 이미 존재하는 항목을 선택하는 방법은 다음과 같습니다.
 

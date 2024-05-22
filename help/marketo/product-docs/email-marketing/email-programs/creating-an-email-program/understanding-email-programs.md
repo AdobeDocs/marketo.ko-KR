@@ -4,9 +4,9 @@ description: 이메일 프로그램 이해 - Marketo 문서 - 제품 설명서
 title: 이메일 프로그램 이해
 exl-id: 3ec1a4f0-90fb-4a4b-94bf-ce5ee7d8bdd4
 feature: Email Programs
-source-git-commit: 40d1191fb5bab275e83322dd1fea89888d818820
+source-git-commit: 77aa62c45572bcd92710ee4a80529109aba45120
 workflow-type: tm+mt
-source-wordcount: '243'
+source-wordcount: '303'
 ht-degree: 0%
 
 ---
@@ -36,15 +36,19 @@ A/B 테스트를 통해 가장 적합한 이메일을 확인할 수 있습니다
 
 ## 대시보드 {#dashboards}
 
->[!TIP]
+>[!CAUTION]
 >
->일부 사용자는 프로그램의 세부 보고 대시보드 때문에 스마트 캠페인을 통해 이메일을 보내는 것보다 이메일 프로그램을 사용하는 것을 선호합니다.
+>정확한 보고를 위해 Smart Campaign을 통해 또는 시작한 이메일 프로그램에서 새 이메일 프로그램으로 자산을 이동하여 이메일 프로그램에서 이전에 사용된 이메일을 재사용하지 마십시오. 이렇게 하면 원래 전자 메일 프로그램 대시보드의 보고 번호에 추가됩니다. 동일한 이메일을 재사용해야 하는 경우 [복제](/help/marketo/product-docs/core-marketo-concepts/programs/working-with-programs/clone-an-asset-in-a-program.md){target="_blank"} 대신,
 
 수고의 결실을 즐겨라. 대시보드는 이메일 프로그램과 A/B 테스트 성능을 한눈에 보여줍니다.
 
 ![](assets/image2015-4-27-11-3a38-3a41.png)
 
 ![](assets/image2015-4-27-11-3a38-3a27.png)
+
+>[!TIP]
+>
+>일부 사용자는 프로그램의 자세한 보고 대시보드 때문에 Smart Campaign을 통해 이메일을 보내는 것보다 이메일 프로그램을 사용하는 것을 선호합니다.
 
 ## 중첩 {#nesting}
 
