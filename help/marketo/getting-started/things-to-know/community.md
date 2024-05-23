@@ -4,16 +4,16 @@ title: Marketo Engage 커뮤니티
 hide: true
 hidefromtoc: true
 feature: Getting Started
-source-git-commit: a7b1ede27b8286f13fcb850ee49757e86e23dbd5
+source-git-commit: ece7af20c10f646bfc66708c45c3a4e612f0a823
 workflow-type: tm+mt
-source-wordcount: '516'
+source-wordcount: '524'
 ht-degree: 0%
 
 ---
 
-# Marketo Engage 커뮤니티 {#marketo-engage-community}
+# Adobe Marketo Engage 커뮤니티 {#marketo-engage-community}
 
-다음 [Marketing Nation 커뮤니티](https://nation.marketo.com/){target="_blank"} 은 동료 사용자와 Marketo 직원으로부터 Marketo Engage 인스턴스에 대해 자세히 알아볼 수 있는 위치입니다. 들어가기 전에 잠시 시간을 내어 [커뮤니티 지침](https://nation.marketo.com/t5/community-guidelines/ct-p/community-guidelines){target="_blank"}.
+다음 [Adobe Marketo Engage 커뮤니티](https://nation.marketo.com/) (Marketing Nation이라고도 함)는 Marketo 직원뿐만 아니라 동료 사용자로부터도 Marketo Engage 인스턴스에 대해 자세히 알아볼 수 있는 곳입니다. 들어가기 전에 잠시 시간을 내어 [커뮤니티 지침](https://nation.marketo.com/t5/community-guidelines/ct-p/community-guidelines).
 
 ## 사용자 이름 등록 {#register-your-username}
 
