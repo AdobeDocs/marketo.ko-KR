@@ -4,9 +4,9 @@ title: 새로운 인스턴스 모범 사례 - Analytics 검사 목록
 hide: true
 hidefromtoc: true
 feature: Getting Started
-source-git-commit: 77aa62c45572bcd92710ee4a80529109aba45120
+source-git-commit: 46485fb692c0ad9734cbe9cad9df24736002587a
 workflow-type: tm+mt
-source-wordcount: '1424'
+source-wordcount: '1435'
 ht-degree: 0%
 
 ---
@@ -31,8 +31,13 @@ ht-degree: 0%
   <tr>
     <td>조직: 이름 지정, 폴더 및 보관</td>
     <td><li>보고서 이름 지정 규칙을 사용하여 글로벌 보고서 탭의 보고서를 구분합니다.</li>
-    <ul><li>좋은 명명 규칙 사례의 예로는 [이메일 성능]-[전역]-[180일 이메일 참여]와 같은 [보고서 유형] [전역 및 BU별 태그] [보고서 설명]이 있습니다.</li></ul> <li>조직 내의 다른 사용자 그룹(예: 영업 팀, 마케팅 리더십)과 공유해야 하는 보고서를 식별하고, 글로벌 보고서용 Analytics의 그룹 보고서 폴더 내에 있는 폴더별로 보고서를 구성합니다.</li> 
-    <li>보관은 항상 켜져 있는 보고서이므로 글로벌 보고서 폴더로 제한되어야 합니다.   <ul><li>사업부 구조에 따라 보고하는 경우 관련 사업부를 축소하거나 추가하는 등의 조직 변경 사항으로 보관을 제한합니다.</li></ul></td>
+    <ul>
+    <li>좋은 명명 규칙 사례의 예로는 [이메일 성능]-[전역]-[180일 이메일 참여]와 같은 [보고서 유형] [전역 및 BU별 태그] [보고서 설명]이 있습니다.</li>
+    </ul> 
+    <li>조직 내의 다른 사용자 그룹(예: 영업 팀, 마케팅 리더십)과 공유해야 하는 보고서를 식별하고, 글로벌 보고서용 Analytics의 그룹 보고서 폴더 내에 있는 폴더별로 보고서를 구성합니다.</li> 
+    <li>보관은 항상 켜져 있는 보고서이므로 글로벌 보고서 폴더로 제한되어야 합니다.   <ul>
+    <li>사업부 구조에 따라 보고하는 경우 관련 사업부를 축소하거나 추가하는 등의 조직 변경 사항으로 보관을 제한합니다.</li>
+    </ul></td>
   </tr>
   <tr>
     <td>작업 공간(해당하는 경우)</td>
@@ -46,12 +51,12 @@ ht-degree: 0%
   <tr>
     <td>그룹 보고서</td>
     <td><li>그룹 보고서는 조직의 글로벌 보고서이며 Marketo Engage 조직의 전체 활동에 대해 보고해야 합니다.</li>
-    <li>생성 고려 <a href="https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/reporting/basic-reporting/report-activity/clone-a-report-to-group-reports" target="_blank">복제 가능한 핵심 보고서</a> 각 사업부에서 가장 많은 시간을 사용하여 보고서를 가져오는 데 필요한 시간을 줄이고 데이터를 정확할 것으로 기대합니다. '기본 보고 - 글로벌 보고서' 표 [책갈피가 지정된 섹션에 링크 삽입]의 세부 정보를 참조하십시오.
+    <li>생성 고려 <a href="https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/reporting/basic-reporting/report-activity/clone-a-report-to-group-reports" target="_blank">복제 가능한 핵심 보고서</a> 각 사업부에서 가장 많은 시간을 사용하여 보고서를 가져오는 데 필요한 시간을 줄이고 데이터를 정확할 것으로 기대합니다. 다음에서 세부 사항을 참조하십시오. <a href="#global-reports">아래 글로벌 보고서 표</a>.
     <ul><li>인력 성과 보고서(항상 및 시간 기반) - 소스별, 월별</li>
     <li>프로그램 성과 보고서(비용 월별, 시간 기반)</li>
     <li>이메일 성과 보고서(시간 기반)</li></ul>
     <li><a href="https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/reporting/basic-reporting/report-activity/report-email-campaign-performance-across-workspaces" target="_blank">"전역 보고" 켜기</a> 보고서의 설정 탭에서 모든 작업 공간의 데이터를 이메일 성능 및 이메일 링크 성능 보고서에 포함할 수 있습니다. 작업 영역이 두 개 이상 있는 경우 기본 작업 영역에서만 활성화하면 됩니다.</li>
-    <br>팁: <a href="https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/core-marketo-concepts/smart-lists-and-static-lists/understanding-smart-lists" target="_blank">스마트 목록</a> 대부분의 보고서에 '데이터베이스' 섹션에 포함할 필터 포함 스마트 목록 기준을 업데이트해야 하는 경우 모든 글로벌 보고서에서 업데이트하지 않고 한 곳에서 업데이트할 수 있습니다.</td>
+    <p><img src="assets/tip-icon.png" alt="메모 아이콘"> 팁: <a href="https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/core-marketo-concepts/smart-lists-and-static-lists/understanding-smart-lists" target="_blank">스마트 목록</a> 대부분의 보고서에 '데이터베이스' 섹션에 포함할 필터 포함 스마트 목록 기준을 업데이트해야 하는 경우 모든 글로벌 보고서에서 업데이트하지 않고 한 곳에서 업데이트할 수 있습니다.</td>
   </tr>
 </tbody>
 </table>
@@ -69,7 +74,8 @@ ht-degree: 0%
   <tr>
     <td>구독수</td>
     <td><li>구현 중에 보고서 결과 및 케이던스를 검토해야 하는 사람에 대해 마케팅 리더와 협력합니다.</li> <li>구독을 사용하여 명명된 사용자 라이선스를 사용하지 않고 조직의 꼭 필요한 사람에게 데이터를 배포합니다.</li>
-    <br>팁: 구독 이메일은 일반적으로 야간에 전송됩니다. 사람들이 실시간 보고서 데이터에 액세스하도록 하려면 사람들이 보고서를 직접 확인할 수 있도록 사용자를 사용자로 추가해야 합니다.
+    <p><img src="assets/tip-icon.png" alt="메모 아이콘"> 팁: 구독 이메일은 일반적으로 야간에 전송됩니다. 사람들이 실시간 보고서 데이터에 액세스하도록 하려면 사람들이 보고서를 직접 확인할 수 있도록 사용자를 사용자로 추가해야 합니다.
+    <p>
     <li><a href="https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/reporting/basic-reporting/report-subscriptions/subscribe-to-a-basic-report">구독 설정</a> 각 팀의 지속적인 모니터링에 대한 바람직한 케이던스(일별/주별/월별)에 따라. 다음을 수행할 수도 있습니다. <a href="https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/reporting/basic-reporting/report-subscriptions/manage-report-subscriptions">모든 구독 보기</a> analytics의 구독 탭 아래에서 한 곳에 있습니다.</li></td>
   </tr>
 </tbody>
@@ -92,25 +98,28 @@ ht-degree: 0%
     <td><li>올바른 이메일을 선택하여 글로벌, 작업 공간/비즈니스 단위 전체 보고서를 만듭니다.</li>
     <li>복제 가능한 모든 프로그램 템플릿에서 로컬 이메일 성과 보고서를 만듭니다.</li>
     <li><a href="https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/reporting/basic-reporting/editing-reports/change-a-report-time-frame">관련 일정 사용</a> (예: YTD, 최근 90일 등) 표준 이메일 참여 및 전달성 지표에 대한 정확한 보기를 보고서에 제공합니다.</li>
-    <br>팁: <a href="https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/administration/email-setup/filtering-email-bot-activity">'관리자&gt;이메일'에서 '보트 활동' 필터링 켜기</a> 로깅을 피하거나 보트 활동에 대해 로깅이 활성화되어 있는지 식별합니다. <a href="https://nation.marketo.com/t5/product-documents/filtering-email-bot-activity-feature-latest-release/ta-p/324860">"봇 활동 여부"가 "False"로 제한된 상태에서 열림/클릭됨 활동만 허용하는 필터를 포함합니다.</a> (복제 가능한 글로벌 보고서의 스마트 목록).</td>
+    <p><img src="assets/tip-icon.png" alt="메모 아이콘"> 팁: <a href="https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/administration/email-setup/filtering-email-bot-activity">'관리자&gt;이메일'에서 '보트 활동' 필터링 켜기</a> 로깅을 피하거나 보트 활동에 대해 로깅이 활성화되어 있는지 식별합니다. <a href="https://nation.marketo.com/t5/product-documents/filtering-email-bot-activity-feature-latest-release/ta-p/324860">"봇 활동 여부"가 "False"로 제한된 상태에서 열림/클릭됨 활동만 허용하는 필터를 포함합니다.</a> (복제 가능한 글로벌 보고서의 스마트 목록).</td>
   </tr>
   <tr>
     <td>사용자 성과 보고서</td>
-    <td>참고: 적절한 것이 좋습니다 <a href="https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/core-marketo-concepts/programs/working-with-programs/understanding-tags">채널 및 태그 전략</a> 를 통해 얻은 사람과 채널별 마케팅 투자의 ROI를 추적하기 전에 모든 Marketo Engage 구현에 대해 이 작업을 수행할 수 있습니다.
-    <br>
-    <li>잠재 고객 확보 프로그램의 성과를 측정하는 데 사용할 기준을 결정하고 다음 지표를 기반으로 시간 기반(올해, 마지막 롤링 12개월 보기 또는 180일) 표준 보고서를 만듭니다.</li> <ul><li>고객 확보 프로그램: 가망 고객 확보에 기여한 Marketo Engage 프로그램.</li>
-    <li>개인 소스: 레코드가 데이터베이스에 알려지는 방법에 대한 소스 범주(CRM의 소스 값 목록 기반)</li></ul>
+    <td><img src="assets/note-icon.png" alt="메모 아이콘"> 참고: 적절한 것이 좋습니다 <a href="https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/core-marketo-concepts/programs/working-with-programs/understanding-tags">채널 및 태그 전략</a> 를 통해 얻은 사람과 채널별 마케팅 투자의 ROI를 추적하기 전에 모든 Marketo Engage 구현에 대해 이 작업을 수행할 수 있습니다.
+    <p>
+    <li>잠재 고객 확보 프로그램의 성과를 측정하는 데 사용할 기준을 결정하고 다음 지표를 기반으로 시간 기반(올해, 마지막 롤링 12개월 보기 또는 180일) 표준 보고서를 만듭니다.</li> <ul><li>고객 확보 프로그램: 가망 고객 확보에 기여한 Marketo Engage 프로그램.
+    <li>개인 소스: 레코드가 데이터베이스에 알려지는 방법에 대한 소스 범주(CRM의 소스 값 목록 기반)
+    </li></ul>
     <li>주 또는 월별로 생성된 사람을 측정합니다. 이 보고서는 데이터베이스 증가 속도 및 데이터베이스 크기 제한에 도달하는지 또는 곧 초과하는지 여부를 측정합니다.</li>
     <li>사람 성과 보고서의 지표 필터링 기준 <a href="https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/reporting/basic-reporting/editing-reports/add-custom-columns-to-a-person-report">스마트 목록을 사용자 정의 열로 사용.</a></li>
-    <br>팁: '마케팅 활동' 대신 '데이터베이스'의 사람 성과 보고서에 추가할 사용자 정의 열에 대한 스마트 목록을 만들면 보고서에서 스마트 목록 이름을 올바르게 그리고 언제 선택했는지 명확하게 볼 수 있습니다.</td>
+    <p><img src="assets/tip-icon.png" alt="메모 아이콘"> 팁: '마케팅 활동' 대신 '데이터베이스'의 사람 성과 보고서에 추가할 사용자 정의 열에 대한 스마트 목록을 만들면 보고서에서 스마트 목록 이름을 올바르게 그리고 언제 선택했는지 명확하게 볼 수 있습니다.</td>
   </tr>
   <tr>
     <td>프로그램 성과 보고서</td>
-    <td>참고: 이 보고서에서는 채널, 진행 상태 및 성공 단계가 정의되어야 합니다. <a href="https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/administration/tags/create-a-program-channel">관리자 &gt; 태그 영역</a>. <li><a href="https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/core-marketo-concepts/programs/program-performance-report/create-a-program-performance-report">마케팅 전술의 효율성 측정</a> 선택적 프로그램 내.</li>
+    <td><p><img src="assets/note-icon.png" alt="메모 아이콘"> 참고: 이 보고서에서는 채널, 진행 상태 및 성공 단계가 정의되어야 합니다. <a href="https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/administration/tags/create-a-program-channel">관리자 &gt; 태그 영역</a>.
+    <p>
+    <li><a href="https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/core-marketo-concepts/programs/program-performance-report/create-a-program-performance-report">마케팅 전술의 효율성 측정</a> 선택적 프로그램 내.</li>
     <li>마케팅 활동 내의 모범 사례에 따라 프로그램 멤버십을 관리합니다(스마트 캠페인을 사용하여 획득 프로그램, 상태, 성공 상태 업데이트).</li>
     <li>올해 및 12개월 동안의 비용을 기준으로 측정합니다.
     <ul><li>유지 관리 <a href="https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/core-marketo-concepts/programs/working-with-programs/using-period-costs-in-a-program">기간 비용</a> 는 프로그램 성과 보고서를 활용하는 데 매우 중요합니다.</li></ul>
-    <br>팁: 모든 항목을 집계하고 조회하려면 <a href="https://experienceleague.adobe.com/en/docs/marketo/using/getting-started/quick-wins/import-a-list-of-people">가져온 목록</a> 프로그램 성과 보고서에서 팀이 태그 지정에 적합한 획득 프로그램을 선택했는지 확인합니다. 고려 <a href="https://experienceleague.adobe.com/en/docs/marketo-learn/tutorials/programs-and-campaigns/default-programs/create-and-measure-default-programs">기본 프로그램 만들기</a> 가져온 목록이 채널에 적용되지 않을 때 획득 프로그램으로 선택됩니다. 이렇게 하면 가져온 모든 사람이 소스, 비즈니스 단위, 채널 등과 관련된 유효한 획득 프로그램을 보유하게 됩니다. 빈 값 대신 사용됩니다.</td>
+    <p><img src="assets/tip-icon.png" alt="메모 아이콘"> 팁: 모든 항목을 집계하고 조회하려면 <a href="https://experienceleague.adobe.com/en/docs/marketo/using/getting-started/quick-wins/import-a-list-of-people">가져온 목록</a> 프로그램 성과 보고서에서 팀이 태그 지정에 적합한 획득 프로그램을 선택했는지 확인합니다. 고려 <a href="https://experienceleague.adobe.com/en/docs/marketo-learn/tutorials/programs-and-campaigns/default-programs/create-and-measure-default-programs">기본 프로그램 만들기</a> 가져온 목록이 채널에 적용되지 않을 때 획득 프로그램으로 선택됩니다. 이렇게 하면 가져온 모든 사람이 소스, 비즈니스 단위, 채널 등과 관련된 유효한 획득 프로그램을 보유하게 됩니다. 빈 값 대신 사용됩니다.</td>
   </tr>
   <tr>
     <td>랜딩 페이지 성능 보고서</td>
@@ -119,8 +128,8 @@ ht-degree: 0%
   </tr>
   <tr>
     <td>웹 페이지 활동 보고서</td>
-    <td>참고: 다음과 같은 웹 페이지(외부 및 Marketo 랜딩 페이지)만 <a href="https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/administration/additional-integrations/add-munchkin-tracking-code-to-your-website">munchkin JavaScript</a> 활성화됨은 이 보고서에서 추적됩니다. 다음과 같은 Tag Management Platform에 JavaScript 코드를 배치하는 것이 좋습니다. <a href="https://developers.marketo.com/blog/integrating-munchkin-with-google-tag-manager/">Google 태그 관리자</a>모든 웹 페이지에서 코드를 하드코딩하지 않도록 합니다.
-    <br>
+    <td><img src="assets/note-icon.png" alt="메모 아이콘"> 참고: 다음과 같은 웹 페이지(외부 및 Marketo 랜딩 페이지)만 <a href="https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/administration/additional-integrations/add-munchkin-tracking-code-to-your-website">munchkin JavaScript</a> 활성화됨은 이 보고서에서 추적됩니다. 다음과 같은 Tag Management Platform에 JavaScript 코드를 배치하는 것이 좋습니다. <a href="https://developers.marketo.com/blog/integrating-munchkin-with-google-tag-manager/">Google 태그 관리자</a>모든 웹 페이지에서 코드를 하드코딩하지 않도록 하려면 를 사용하십시오.
+    <p>
     <li>만들기 <a href="https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/reporting/basic-reporting/report-types/web-page-activity-report">웹 페이지 활동 보고서</a> 모든 웹 페이지의 수를 한 곳에서 검토할 수 있는 글로벌 보고서입니다. 외부 웹 페이지 활동은 웹 페이지 활동 보고서에만 반영됩니다.</li></td>
   </tr>
 </tbody>
