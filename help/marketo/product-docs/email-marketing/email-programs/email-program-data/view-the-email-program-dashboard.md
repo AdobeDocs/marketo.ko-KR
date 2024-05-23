@@ -4,9 +4,9 @@ description: 이메일 프로그램 대시보드 보기 - Marketo 문서 - 제�
 title: 이메일 프로그램 대시보드 보기
 exl-id: dd05d7f6-8979-4ef1-a7d2-adaf086dd903
 feature: Email Programs
-source-git-commit: 77aa62c45572bcd92710ee4a80529109aba45120
+source-git-commit: b2ceefb068005d916027fb71be0dc4e25849ae23
 workflow-type: tm+mt
-source-wordcount: '210'
+source-wordcount: '225'
 ht-degree: 0%
 
 ---
@@ -17,7 +17,7 @@ ht-degree: 0%
 
 >[!CAUTION]
 >
->정확한 보고를 위해 Smart Campaign을 통해 또는 시작한 이메일 프로그램에서 새 이메일 프로그램으로 자산을 이동하여 이메일 프로그램에서 이전에 사용된 이메일을 재사용하지 마십시오. 이렇게 하면 원래 전자 메일 프로그램 대시보드의 보고 번호에 추가됩니다. 동일한 이메일을 재사용해야 하는 경우 [복제](/help/marketo/product-docs/core-marketo-concepts/programs/working-with-programs/clone-an-asset-in-a-program.md){target="_blank"} 대신,
+>정확한 보고를 위해 _재사용_ Smart Campaign에서 참조하거나 시작한 이메일 프로그램에서 새 이메일 프로그램으로 에셋을 이동하여 이메일 프로그램의 이메일. 이렇게 하면 해당 이메일에 첨부된 모든 보고 대시보드의 모든 데이터가 집계됩니다. 이메일을 다시 사용해야 하는 경우 [복제](/help/marketo/product-docs/core-marketo-concepts/programs/working-with-programs/clone-an-asset-in-a-program.md){target="_blank"} 대신 에서는 가 이메일을 복사하지만 새 이메일 ID로 새 이메일을 만듭니다.
 
 ## 이메일 프로그램 선택 {#select-your-email-program}
 

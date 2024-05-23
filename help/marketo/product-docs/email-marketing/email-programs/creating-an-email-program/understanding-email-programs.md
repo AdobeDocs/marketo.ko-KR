@@ -4,9 +4,9 @@ description: 이메일 프로그램 이해 - Marketo 문서 - 제품 설명서
 title: 이메일 프로그램 이해
 exl-id: 3ec1a4f0-90fb-4a4b-94bf-ce5ee7d8bdd4
 feature: Email Programs
-source-git-commit: 77aa62c45572bcd92710ee4a80529109aba45120
+source-git-commit: b2ceefb068005d916027fb71be0dc4e25849ae23
 workflow-type: tm+mt
-source-wordcount: '303'
+source-wordcount: '318'
 ht-degree: 0%
 
 ---
@@ -38,7 +38,7 @@ A/B 테스트를 통해 가장 적합한 이메일을 확인할 수 있습니다
 
 >[!CAUTION]
 >
->정확한 보고를 위해 Smart Campaign을 통해 또는 시작한 이메일 프로그램에서 새 이메일 프로그램으로 자산을 이동하여 이메일 프로그램에서 이전에 사용된 이메일을 재사용하지 마십시오. 이렇게 하면 원래 전자 메일 프로그램 대시보드의 보고 번호에 추가됩니다. 동일한 이메일을 재사용해야 하는 경우 [복제](/help/marketo/product-docs/core-marketo-concepts/programs/working-with-programs/clone-an-asset-in-a-program.md){target="_blank"} 대신,
+>정확한 보고를 위해 _재사용_ Smart Campaign에서 참조하거나 시작한 이메일 프로그램에서 새 이메일 프로그램으로 에셋을 이동하여 이메일 프로그램의 이메일. 이렇게 하면 해당 이메일에 첨부된 모든 보고 대시보드의 모든 데이터가 집계됩니다. 이메일을 다시 사용해야 하는 경우 [복제](/help/marketo/product-docs/core-marketo-concepts/programs/working-with-programs/clone-an-asset-in-a-program.md){target="_blank"} 대신 에서는 가 이메일을 복사하지만 새 이메일 ID로 새 이메일을 만듭니다.
 
 수고의 결실을 즐겨라. 대시보드는 이메일 프로그램과 A/B 테스트 성능을 한눈에 보여줍니다.
 
