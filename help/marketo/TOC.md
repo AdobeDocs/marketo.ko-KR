@@ -3,9 +3,9 @@ audience: end-user
 user-guide-title: Marketo 안내서
 user-guide-description: Marketo 제품 설명서
 feature-set: Marketo Engage
-source-git-commit: c40726e04b4b661e70cc9ba62f6b10aefab2cd58
+source-git-commit: b8abf0d697ff2df4a6b7234fbe33a40ca801187d
 workflow-type: tm+mt
-source-wordcount: '9350'
+source-wordcount: '9358'
 ht-degree: 0%
 
 ---
@@ -1730,6 +1730,7 @@ ht-degree: 0%
             + [웹 보고서에 사람 또는 익명 방문자 표시](product-docs/reporting/basic-reporting/report-activity/display-people-or-anonymous-visitors-in-web-reports.md)
             + [인력 성과 보고서에서 드릴다운](product-docs/reporting/basic-reporting/report-activity/drill-down-in-a-people-performance-report.md)
             + [Excel로 보고서 내보내기](product-docs/reporting/basic-reporting/report-activity/export-a-report-to-excel.md)
+            + [캠페인 활동 보고서 필터링](product-docs/reporting/basic-reporting/report-activity/filter-a-campaign-activity-report.md)
             + [캠페인 이메일 보고서에서 에셋 필터링](product-docs/reporting/basic-reporting/report-activity/filter-assets-in-a-campaign-email-reports.md)
             + [이메일 보고서에서 자산 필터링](product-docs/reporting/basic-reporting/report-activity/filter-assets-in-an-email-report.md)
             + [속성별 개인 보고서 그룹화](product-docs/reporting/basic-reporting/report-activity/group-person-reports-by-attribute.md)
@@ -1743,6 +1744,7 @@ ht-degree: 0%
             + [기본 보고서 구독](product-docs/reporting/basic-reporting/report-subscriptions/subscribe-to-a-basic-report.md)
             + [스마트 목록 구독](product-docs/reporting/basic-reporting/report-subscriptions/subscribe-to-a-smart-list.md)
          + 보고서 유형 {#report-types}
+            + [캠페인 활동 보고서](product-docs/reporting/basic-reporting/report-types/campaign-activity-report.md)
             + [캠페인 이메일 성과 보고서](product-docs/reporting/basic-reporting/report-types/campaign-email-performance-report.md)
             + [회사 웹 활동 보고서](product-docs/reporting/basic-reporting/report-types/company-web-activity-report.md)
             + [상태별 인원 보고서](product-docs/reporting/basic-reporting/report-types/people-by-status-report.md)
