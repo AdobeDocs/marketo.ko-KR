@@ -3,7 +3,7 @@ description: 새 Marketo Engage 인스턴스에 대한 관리 섹션을 설정�
 title: 새 인스턴스 모범 사례 - 관리 섹션 검사 목록
 feature: Getting Started
 exl-id: 4fa90a32-7e97-404c-90b1-90d05c2561d0
-source-git-commit: 7805983cdaff0b99a38aefc2c2467b53f3386da3
+source-git-commit: df8087dbaf2b621d0d877eba1c16f160ee9bf460
 workflow-type: tm+mt
 source-wordcount: '634'
 ht-degree: 1%
@@ -112,7 +112,8 @@ ht-degree: 1%
     <td><li>사용 방법 정의 <a href="https://experienceleague.adobe.com/docs/marketo/using/product-docs/administration/tags/managing-tag-values.html" target="_blank">태그</a>.</li></td>
   </tr>
   <tr>
-    <td>달력(해당되는 경우)</td>
+    <td>캘린더<br> 
+    (해당되는 경우)</td>
     <td><li><a href="https://experienceleague.adobe.com/docs/marketo/using/product-docs/core-marketo-concepts/marketing-calendar/understanding-the-calendar/issue-revoke-a-marketing-calendar-license.html" target="_blank">마케팅 달력 시트 문제 해결</a> 액세스 권한이 필요한 사용자에게</li>
     <li>다음을 설정합니다. <a href="https://experienceleague.adobe.com/docs/marketo/using/product-docs/core-marketo-concepts/marketing-calendar/understanding-the-calendar/navigating-the-marketing-calendar.html" target="_blank">캘린더</a>.</li></td>
   </tr>

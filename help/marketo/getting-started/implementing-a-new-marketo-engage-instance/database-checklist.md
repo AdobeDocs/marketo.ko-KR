@@ -3,7 +3,7 @@ description: 새 Marketo Engage 인스턴스에 대한 데이터베이스 섹션
 title: 새 인스턴스 모범 사례 - 데이터베이스 검사 목록
 feature: Getting Started
 exl-id: 996ea2db-a00c-48e5-97a8-00f869c261b1
-source-git-commit: 7805983cdaff0b99a38aefc2c2467b53f3386da3
+source-git-commit: df8087dbaf2b621d0d877eba1c16f160ee9bf460
 workflow-type: tm+mt
 source-wordcount: '301'
 ht-degree: 2%
@@ -84,8 +84,8 @@ ht-degree: 2%
 <table>
 <thead>
   <tr>
-    <th style="width:20%">영역</th>
-    <th style="width:80%">작업 항목</th>
+    <th style="width:21%">영역</th>
+    <th style="width:79%">작업 항목</th>
   </tr>
 </thead>
 <tbody>

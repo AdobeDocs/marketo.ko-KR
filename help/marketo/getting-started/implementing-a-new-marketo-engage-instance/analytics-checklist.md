@@ -4,7 +4,7 @@ title: 새로운 인스턴스 모범 사례 - Analytics 검사 목록
 hide: true
 hidefromtoc: true
 feature: Getting Started
-source-git-commit: ece7af20c10f646bfc66708c45c3a4e612f0a823
+source-git-commit: df8087dbaf2b621d0d877eba1c16f160ee9bf460
 workflow-type: tm+mt
 source-wordcount: '1393'
 ht-degree: 0%
@@ -31,9 +31,7 @@ ht-degree: 0%
   <tr>
     <td>조직: 이름 지정, 폴더 및 보관</td>
     <td><li>보고서 이름 지정 규칙을 사용하여 전역 보고서 탭의 보고서를 구분합니다.</li>
-    <ul>
-    <li>좋은 명명 규칙 사례의 예로는 [이메일 성능]-[전역]-[180일 이메일 참여]와 같은 [보고서 유형] [전역 및 BU별 태그] [보고서 설명]이 있습니다.</li>
-    </ul> 
+    <ul><li>좋은 명명 규칙 사례의 예로는 [이메일 성능]-[전역]-[180일 이메일 참여]와 같은 [보고서 유형] [전역 및 BU별 태그] [보고서 설명]이 있습니다.</li></ul><br>
     <li>조직 내의 다른 사용자 그룹(예: 영업 팀, 마케팅 리더십)과 공유해야 하는 보고서를 식별하고, 글로벌 보고서용 Analytics의 그룹 보고서 폴더 내에 있는 폴더별로 보고서를 구성합니다.</li> 
     <li>보관은 항상 켜져 있는 보고서이므로 글로벌 보고서 폴더로 제한되어야 합니다.   <ul>
     <li>사업부 구조에 따라 보고하는 경우 관련 사업부를 축소하거나 추가하는 등의 조직 변경 사항으로 보관을 제한합니다.</li>
@@ -104,7 +102,7 @@ ht-degree: 0%
     <td>사용자 성과 보고서</td>
     <td><img src="assets/note-icon.png" alt="메모 아이콘"> 참고: 적절한 것이 좋습니다 <a href="https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/core-marketo-concepts/programs/working-with-programs/understanding-tags">채널 및 태그 전략</a> 모든 Marketo Engage 구현에 대해, 획득한 사람 및 마케팅 투자의 ROI를 채널별로 추적할 수 있습니다.
     <p>
-    <li>잠재 고객 확보 프로그램의 성과를 측정하는 데 사용할 기준을 결정하고 다음 지표를 기반으로 시간 기반(올해, 마지막 롤링 12개월 보기 또는 180일) 표준 보고서를 만듭니다.</li> <ul><li>고객 확보 프로그램: 개인 확보 Marketo Engage 프로그램.
+    <li>잠재 고객 확보 프로그램의 성과를 측정하는 데 사용할 기준을 결정하고 다음 지표를 기반으로 시간 기반(올해, 마지막 롤링 12개월 보기 또는 180일) 표준 보고서를 만듭니다.</li> <ul><li>고객 확보 프로그램: 개인 확보 Marketo Engage 프로그램.</li>
     <li>개인 소스: 레코드가 데이터베이스에 알려지는 방법에 대한 소스 범주(CRM의 소스 값 목록 기반)
     </li></ul>
     <li>주 또는 월별로 생성된 사람을 측정합니다. 이 보고서는 데이터베이스 증가율과 데이터베이스 크기 제한에 도달하는지 여부를 측정합니다.</li>
