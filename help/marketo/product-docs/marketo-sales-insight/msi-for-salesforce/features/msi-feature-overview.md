@@ -4,16 +4,20 @@ description: MSI 기능 개요 - Marketo 문서 - 제품 설명서
 title: MSI 기능 개요
 exl-id: e6cd988c-afba-44e3-b240-68258236f344
 feature: Marketo Sales Insights
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: bda95da160c5a27a0a460d26c102e6166c1ddea0
 workflow-type: tm+mt
-source-wordcount: '937'
-ht-degree: 1%
+source-wordcount: '965'
+ht-degree: 0%
 
 ---
 
 # MSI 기능 개요 {#msi-feature-overview}
 
 MSI에는 Salesforce Lightning 및 Classic에서 사용할 수 있는 다음 기능이 있습니다.
+
+>[!NOTE]
+>
+>사용 가능한 모든 데이터를 보려면 Windows를 사용할 때 브라우저 확대/축소가 125% 이하로 설정되어 있는지, Mac OS에서 150%를 사용하도록 설정되어 있는지 확인하십시오.
 
 ## Visualforce 패널 {#visualforce-panel}
 
@@ -27,7 +31,7 @@ MSI Visualforce 패널에는 다음 기능이 포함되어 있습니다.
    * 이메일
    * 스코어
 
-* 작업
+* 액션
 
    * Marketo 캠페인에 추가
    * Marketo 이메일 보내기
@@ -39,7 +43,7 @@ MSI Visualforce 패널에는 다음 기능이 포함되어 있습니다.
 
 Visualforce 페이지:
 
-* 리드 - hyper &quot;전체 목록으로 이동&quot;을 클릭하는 옵션이 포함되면 MSI 패널이 전체 페이지 레이아웃으로 표시되는 Salesforce의 새 탭으로 전송됩니다.
+* 리드 - hyper &quot;전체 목록으로 이동&quot;을 클릭하는 옵션이 포함되어 있습니다. MSI 패널이 전체 페이지 레이아웃으로 표시되는 Salesforce의 새 탭으로 전송됩니다.
 * 가망 고객 전체 목록 - &quot;전체 목록으로 이동&quot; 옵션이 포함되지 않음
 * 잠재 고객 모바일 - Salesforce 모바일 애플리케이션에 표시
 * 잠재 고객 연락처 브리지 - MSI 연락처 ID 필드에 추가한 연락처의 MSI 패널을 표시합니다.
@@ -90,7 +94,7 @@ Visualforce 페이지:
 Visualforce 페이지:
 
 * 계정 - hyper &quot;전체 목록으로 이동&quot;을 클릭하는 옵션이 포함되어 있습니다. MSI 패널이 전체 페이지 레이아웃으로 표시되는 Salesforce의 새 탭으로 전송됩니다.
-* 계정 전체 목록 - &quot;전체 목록으로 이동&quot; 옵션은 포함되지 않음
+* 계정 전체 목록 - &quot;전체 목록으로 이동&quot; 옵션이 포함되지 않음
 * Account Mobile - Salesforce 모바일 애플리케이션에 표시
 
 필드:
