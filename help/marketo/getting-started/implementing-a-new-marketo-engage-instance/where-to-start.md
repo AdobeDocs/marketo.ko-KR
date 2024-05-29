@@ -3,9 +3,9 @@ description: 새 Marketo Engage 인스턴스를 구현할 때의 모범 사례�
 title: 시작 위치
 feature: Getting Started
 exl-id: 91b751ab-88c5-4575-96f8-166f62f007e2
-source-git-commit: d41a43d7579775c0c866e867f778962ff61ff044
+source-git-commit: 2c74c71c9311312f7e0991ed5598ccb09a9b1f15
 workflow-type: tm+mt
-source-wordcount: '274'
+source-wordcount: '281'
 ht-degree: 0%
 
 ---
@@ -34,17 +34,19 @@ Marketo Engage 인스턴스 다운로드 [새 구현 관리자 확인 목록](/h
 
 * [데이터베이스](/help/marketo/getting-started/implementing-a-new-marketo-engage-instance/database-checklist.md){target="_blank"}
 
+* [Design Studio](/help/marketo/getting-started/implementing-a-new-marketo-engage-instance/design-studio-checklist.md){target="_blank"}
+
 * [마케팅 활동](/help/marketo/getting-started/implementing-a-new-marketo-engage-instance/marketing-activities-checklist.md){target="_blank"}
 
-* [Design Studio](/help/marketo/getting-started/implementing-a-new-marketo-engage-instance/design-studio-checklist.md){target="_blank"}
+* [Analytics](/help/marketo/getting-started/implementing-a-new-marketo-engage-instance/analytics-checklist.md){target="_blank"}
 
 * [새 인스턴스 설정 문서화](/help/marketo/getting-started/implementing-a-new-marketo-engage-instance/document-your-setup.md){target="_blank"}
 
 ## 피어와 연결 {#connect-with-your-peers}
 
-다음 방문: [Marketing Nation 커뮤니티](https://nation.marketo.com/){target="_blank"} Marketo Engage 직원과 동료 사용자로부터 Marketo Engage 인스턴스에 대해 자세히 알아봅니다.
+다음 방문: [Adobe Marketo Engage 커뮤니티](https://nation.marketo.com/){target="_blank"} (마케팅 국가라고도 함) Marketo Engage 직원과 동료 사용자로부터 Marketo Engage 인스턴스에 대해 자세히 알아봅니다.
 
-Marketing Nation 커뮤니티에서 시작하기:
+커뮤니티에서 시작하기:
 
 1. 클릭 **Adobe ID 계속** 로그인 페이지에서 기본 구독을 선택합니다.
 1. 로그인하면 커뮤니티 프로필을 작성합니다.

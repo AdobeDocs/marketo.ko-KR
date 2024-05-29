@@ -3,9 +3,9 @@ description: 상속된 인스턴스 관리 검사 목록 - Marketo 문서 - 제�
 title: 상속된 인스턴스 관리 검사 목록
 feature: Getting Started
 exl-id: 088f3ce9-bf3d-4323-9cde-c39fec06c20e
-source-git-commit: a3d9fcfa0381933e1a7e62f19b414bc380f325b5
+source-git-commit: 2c74c71c9311312f7e0991ed5598ccb09a9b1f15
 workflow-type: tm+mt
-source-wordcount: '1846'
+source-wordcount: '1858'
 ht-degree: 1%
 
 ---
@@ -22,7 +22,7 @@ ht-degree: 1%
 
 >[!NOTE]
 >
->에 온보딩된 Marketo Engage 구독에만 적용됩니다. [Adobe Identity Management 시스템(IMS)](/help/marketo/product-docs/administration/marketo-with-adobe-identity/adobe-identity-management-overview.md){target="_blank"}. If your subscription has not onboarded Adobe IMS yet, proceed with the [legacy user roles and permissions experience](/help/marketo/product-docs/administration/users-and-roles/managing-user-roles-and-permissions.md){target="_blank"} Marketo Engage > 관리자 > 사용자 및 역할에서 다음을 수행합니다.
+>에 온보딩된 Marketo Engage 구독에만 적용됩니다. [Adobe Identity Management 시스템(IMS)](/help/marketo/product-docs/administration/marketo-with-adobe-identity/adobe-identity-management-overview.md){target="_blank"}. 구독이 아직 Adobe IMS에 온보딩되지 않은 경우 [기존 사용자 역할 및 권한 경험](/help/marketo/product-docs/administration/users-and-roles/managing-user-roles-and-permissions.md){target="_blank"} Marketo Engage > 관리자 > 사용자 및 역할에서 다음을 수행합니다.
 
 <table> 
  <tbody> 
@@ -381,7 +381,3 @@ ht-degree: 1%
   </tr>
  </tbody> 
 </table>
-
-<br> 
-
-[상속된 인스턴스 감사: 데이터베이스 ►](/help/marketo/getting-started/inheriting-a-marketo-engage-instance/database-checklist.md)

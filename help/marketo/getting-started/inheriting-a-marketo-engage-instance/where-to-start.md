@@ -2,10 +2,10 @@
 description: 상속한 기존 Marketo Engage 인스턴스를 최적화하고 확장하는 방법을 알아봅니다. 체크리스트에 따라 관리자 설정을 감사하고 데이터베이스 위생을 유지합니다.
 title: 시작 위치
 feature: Getting Started
-exl-id: a7abbfe3-c2ac-489f-bc4b-9e8d3412b419
-source-git-commit: 38274b4859ae38c018ee73d4f1715fdf6a78e815
+exl-id: 819bddc4-0a92-4ff0-86c6-a93fc61dffac
+source-git-commit: 2c74c71c9311312f7e0991ed5598ccb09a9b1f15
 workflow-type: tm+mt
-source-wordcount: '468'
+source-wordcount: '450'
 ht-degree: 0%
 
 ---
@@ -22,7 +22,7 @@ ht-degree: 0%
 
 * 다음을 읽어 보십시오. [**마케팅 커뮤니티 지침**](https://nation.marketo.com/t5/community-guidelines/ct-p/community-guidelines){target="_blank"}.
 
-* 방법 알아보기 [**지원 사례 제출**](https://nation.marketo.com/t5/Knowledgebase/Submitting-a-Support-Case-to-Marketo-Support/ta-p/252201){target="_blank"} (and confirm you're [**set up as an authorized support contact**](https://nation.marketo.com/t5/Knowledgebase/Managing-Authorized-Support-Contacts/ta-p/254341){target="_blank"}).
+* 방법 알아보기 [**지원 사례 제출**](https://nation.marketo.com/t5/Knowledgebase/Submitting-a-Support-Case-to-Marketo-Support/ta-p/252201){target="_blank"} (그리고 다음을 확인합니다. [**공인 지원 담당자로 설정**](https://nation.marketo.com/t5/Knowledgebase/Managing-Authorized-Support-Contacts/ta-p/254341){target="_blank"}).
 
 ## 마케팅 국가 프로필 병합 {#merge-your-marketing-nation-profile}
 
@@ -46,15 +46,15 @@ Marketo Champions의 입력을 사용하여 Adobe은 몇 가지 Marketo Engage �
 
 다음을 수행할 수도 있습니다. [확인 목록 다운로드](/help/marketo/getting-started/inheriting-a-marketo-engage-instance/assets/adobe-marketo-engage-inherited-instance-admin-checklist.xlsx) 스프레드시트 형식으로 변환.
 
-* [관리 섹션](/help/marketo/getting-started/inheriting-a-marketo-engage-instance/admin-section-checklist.md)
+* [관리 섹션](/help/marketo/getting-started/inheriting-a-marketo-engage-instance/admin-section-checklist.md){target="_blank"}
 
-* [데이터베이스](/help/marketo/getting-started/inheriting-a-marketo-engage-instance/database-checklist.md)
+* [데이터베이스](/help/marketo/getting-started/inheriting-a-marketo-engage-instance/database-checklist.md){target="_blank"}
 
-* [마케팅 활동](/help/marketo/getting-started/inheriting-a-marketo-engage-instance/marketing-activities-checklist.md)
+* [Design Studio](/help/marketo/getting-started/inheriting-a-marketo-engage-instance/design-studio-checklist.md){target="_blank"}
 
-* [Design Studio](/help/marketo/getting-started/inheriting-a-marketo-engage-instance/design-studio-checklist.md)
+* [마케팅 활동](/help/marketo/getting-started/inheriting-a-marketo-engage-instance/marketing-activities-checklist.md){target="_blank"}
 
-* [상속된 인스턴스 설정을 문서화합니다.](/help/marketo/getting-started/inheriting-a-marketo-engage-instance/document-your-setup.md)
+* [상속된 인스턴스 설정을 문서화합니다.](/help/marketo/getting-started/inheriting-a-marketo-engage-instance/document-your-setup.md){target="_blank"}
 
 ## 도움말 받는 방법 {#ways-to-get-help}
 
@@ -62,7 +62,7 @@ Marketo Champions의 입력을 사용하여 Adobe은 몇 가지 Marketo Engage �
 
 * 제대로 작동하지 않는 문제에 대한 기술 지원은 **[Marketo Engage 고객 지원](https://nation.marketo.com/t5/Support/ct-p/Support){target="_blank"}**.
 
-* 에서 동료 Marketo Engage 사용자와 연결하고 학습합니다. **[마케팅 국가](https://nation.marketo.com/){target="_blank"}**.
+* 에서 동료 Marketo Engage 사용자와 연결하고 학습합니다. **[Adobe Marketo Engage 커뮤니티](https://nation.marketo.com/){target="_blank"}**.
 
 * Marketo Engage 인스턴스를 최대한 활용하는 데 대한 실습 지원이 필요한 경우 **[Adobe Professional Services](https://business.adobe.com/products/marketo/services-support.html){target="_blank"}**.
 
