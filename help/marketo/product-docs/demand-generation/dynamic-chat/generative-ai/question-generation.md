@@ -3,9 +3,9 @@ description: 질문 생성 - Marketo 문서 - 제품 설명서
 title: 질문 생성
 feature: Dynamic Chat
 exl-id: 05e0fd4c-b8e0-47de-8ca8-d4ba07d6a06a
-source-git-commit: b2ceefb068005d916027fb71be0dc4e25849ae23
+source-git-commit: 6bdac72f0b9831ba830d842cabffbd0f114325fb
 workflow-type: tm+mt
-source-wordcount: '301'
+source-wordcount: '279'
 ht-degree: 0%
 
 ---
@@ -70,7 +70,7 @@ ht-degree: 0%
 
 ## IP 주소 허용 목록 {#ip-addresses-to-allowlist}
 
-질문 및 응답이 생성되는 동안 웹 URL에서 컨텐츠를 추출하려면 아래에서 해당 지역을 찾아 해당 지역과 관련된 모든 IP 주소를 웹 팀이 허용 목록에추가된으로 제공하는지 확인하십시오.
+질문 및 응답이 생성되는 동안 웹 URL에서 컨텐츠를 추출하려면 아래에서 해당 지역을 찾아 해당 지역과 연결된 IP 주소가 웹 팀에서 허용 목록에추가된으로 제공되는지 확인하십시오.
 
 <table width="450">
 <thead>
@@ -81,41 +81,6 @@ ht-degree: 0%
   </tr>
 </thead>
 <tbody>
-  <tr>
-    <td>20.10.235.188</td>
-    <td>20.76.246.248</td>
-    <td>20.167.0.195</td>
-  </tr>
-  <tr>
-    <td>20.10.235.189</td>
-    <td>20.76.247.92</td>
-    <td>20.248.128.31</td>
-  </tr>
-  <tr>
-    <td>20.10.235.246</td>
-    <td>20.76.247.134</td>
-    <td>20.167.1.48</td>
-  </tr>
-  <tr>
-    <td>20.10.235.248</td>
-    <td>20.76.247.244</td>
-    <td>20.167.1.63</td>
-  </tr>
-  <tr>
-    <td>20.10.235.255</td>
-    <td>20.93.168.10</td>
-    <td>20.167.1.92</td>
-  </tr>
-  <tr>
-    <td>20.10.236.96</td>
-    <td>20.93.168.44</td>
-    <td>20.167.1.155</td>
-  </tr>
-  <tr>
-    <td>20.119.144.14</td>
-    <td>20.105.224.16</td>
-    <td>20.211.64.11</td>
-  </tr>
   <tr>
     <td>13.68.17.252</td>
     <td>20.105.150.224</td>

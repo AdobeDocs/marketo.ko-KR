@@ -4,9 +4,9 @@ title: Marketo Engage 커뮤니티
 hide: true
 hidefromtoc: true
 feature: Getting Started
-source-git-commit: ece7af20c10f646bfc66708c45c3a4e612f0a823
+source-git-commit: 6bdac72f0b9831ba830d842cabffbd0f114325fb
 workflow-type: tm+mt
-source-wordcount: '524'
+source-wordcount: '592'
 ht-degree: 0%
 
 ---
@@ -17,7 +17,17 @@ ht-degree: 0%
 
 ## 사용자 이름 등록 {#register-your-username}
 
--사용자 이름 등록
+1. Marketo Engage 인스턴스에 로그인합니다.
+
+1. 내 Marketo에서 커뮤니티 타일을 클릭합니다.
+
+1. 처음 로그인하는 경우 커뮤니티 사용자 이름을 등록하라는 메시지가 표시됩니다.
+
+   >[!NOTE]
+   >
+   >사용자 이름은 언제든지 변경할 수 있지만 이 시점에서 등록해야 합니다.
+
+1. 사용자 이름을 등록하면 커뮤니티 홈페이지로 이동하여 커뮤니티 내에서 상호 작용하고 게시할 수 있습니다.
 
 스크린샷
 
@@ -87,4 +97,4 @@ Marketo 사용자 그룹(MUG)은 전 세계 다양한 영역에서 발생하는 
 
 <br>
 
-Marketo Engage에 오신 것을 환영합니다. 그리고 Marketing Nation을 즐기십시오!
+Marketo Engage에 오신 것을 환영합니다. 그리고 마케팅 국가를 살펴보는 것도 재미있을 거예요!
