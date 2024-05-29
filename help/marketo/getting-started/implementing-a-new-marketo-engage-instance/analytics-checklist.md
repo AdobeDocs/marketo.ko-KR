@@ -4,9 +4,9 @@ title: 새로운 인스턴스 모범 사례 - Analytics 검사 목록
 hide: true
 hidefromtoc: true
 feature: Getting Started
-source-git-commit: df8087dbaf2b621d0d877eba1c16f160ee9bf460
+source-git-commit: 6aeb894e6a36064825a25474c67f53a291f548ab
 workflow-type: tm+mt
-source-wordcount: '1393'
+source-wordcount: '1615'
 ht-degree: 0%
 
 ---
@@ -117,7 +117,8 @@ ht-degree: 0%
     <li>마케팅 활동 내의 모범 사례에 따라 프로그램 멤버십을 관리합니다(스마트 캠페인을 사용하여 획득 프로그램, 상태, 성공 상태 업데이트).</li>
     <li>현재 연도 및 연속 12개월 비용을 기반으로 측정합니다.
     <ul><li>유지 관리 <a href="https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/core-marketo-concepts/programs/working-with-programs/using-period-costs-in-a-program">기간 비용</a> 는 프로그램 성과 보고서를 활용하는 데 매우 중요합니다.</li></ul>
-    <p><img src="assets/tip-icon.png" alt="메모 아이콘"> 팁: 모든 항목을 집계하고 조회하려면 <a href="https://experienceleague.adobe.com/en/docs/marketo/using/getting-started/quick-wins/import-a-list-of-people">가져온 목록</a> 프로그램 성과 보고서에서 팀이 태그 지정에 적합한 획득 프로그램을 선택했는지 확인합니다. 고려 <a href="https://experienceleague.adobe.com/en/docs/marketo-learn/tutorials/programs-and-campaigns/default-programs/create-and-measure-default-programs">기본 프로그램 만들기</a> 가져온 목록이 채널에 적용되지 않을 때 획득 프로그램으로 선택됩니다. 이렇게 하면 가져온 모든 사람이 빈 값 대신 소스, 비즈니스 단위, 채널 등과 관련된 유효한 획득 프로그램을 보유할 수 있습니다.</td>
+    <br>
+    <br><img src="assets/tip-icon.png" alt="메모 아이콘"> 팁: 모든 항목을 집계하고 조회하려면 <a href="https://experienceleague.adobe.com/en/docs/marketo/using/getting-started/quick-wins/import-a-list-of-people">가져온 목록</a> 프로그램 성과 보고서에서 팀이 태그 지정에 적합한 획득 프로그램을 선택했는지 확인합니다. 고려 <a href="https://experienceleague.adobe.com/ko/docs/marketo-learn/tutorials/programs-and-campaigns/default-programs/create-and-measure-default-programs">기본 프로그램 만들기</a> 가져온 목록이 채널에 적용되지 않을 때 획득 프로그램으로 선택됩니다. 이렇게 하면 가져온 모든 사람이 빈 값 대신 소스, 비즈니스 단위, 채널 등과 관련된 유효한 획득 프로그램을 보유할 수 있습니다.</td>
   </tr>
   <tr>
     <td>랜딩 페이지 성능 보고서</td>
@@ -152,7 +153,7 @@ ht-degree: 0%
   <tr>
     <td>캠페인 활동 보고서</td>
     <td><li>만들기 <a href="https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/reporting/basic-reporting/report-types/campaign-activity-report" target="_blank">캠페인 활동 보고서</a> 마케팅 활동의 운영 폴더 내에서 기간을 선택합니다.</li>
-    <li>보고서를 설정하여 각 사용 사례 및 <a href="https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/reporting/basic-reporting/report-types/campaign-activity-report" target="_blank">캠페인 필터 적용</a> (예: 동작 채점 트리거, 라이프사이클 자격 트리거, 관심 있는 순간 트리거).</li></td>
+    <li>보고서를 설정하여 각 사용 사례 및 <a href="https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/reporting/basic-reporting/report-activity/filter-a-campaign-activity-report" target="_blank">캠페인 필터 적용</a> (예: 동작 채점 트리거, 라이프사이클 자격 트리거, 관심 있는 순간 트리거).</li></td>
   </tr>
   <tr>
     <td>참여 스트림 성과 보고서(해당되는 경우)</td>
@@ -160,4 +161,41 @@ ht-degree: 0%
     <li>다음 사용을 고려하십시오. <a href="https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/personalization/segmentation-and-snippets/segmentation/group-email-reports-by-segmentations" target="_blank">보고서의 설정 탭에 있는 "세그먼테이션" 필터</a> 보고 데이터를 그룹화할 기준: <a href="https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/personalization/segmentation-and-snippets/segmentation/create-a-segmentation" target="_blank">세그먼트</a> (예: 개인 소스, 업계) 귀하의 참여 프로그램에 사용됩니다. 이렇게 하면 각 세그먼트의 참여 패턴에 대한 심층적인 통찰력을 얻을 수 있으므로 참여 프로그램(콘텐츠, 스트림, 스트림 케이던스 등)을 개선하기 위해 전략적인 변경을 수행하는 것을 안내합니다.</li></td>
   </tr>
 </tbody>
+</table>
+
+가공용 글머리 기호가 있는 표
+
+<table>
+<tbody>
+<tr>
+    <td>그룹 보고서</td>
+    <td><img src="assets/note-icon.png" alt="메모 아이콘"> 참고: 텍스트.
+    <p>
+    <li>텍스트.</li>
+    <li>텍스트.
+    <ul><li>텍스트</li>
+    <li>텍스트</li></ul>
+    <li>텍스트.</li>
+    <li>텍스트.</li>
+    <p><img src="assets/tip-icon.png" alt="메모 아이콘"> 팁: 텍스트.</td>
+  </tr>
+  </tbody>
+</table>
+
+테스트 수정 1
+
+<table>
+<tbody>
+<tr>
+    <td>사용자 성과 보고서</td>
+    <td><img src="assets/note-icon.png" alt="메모 아이콘"> 참고: 적절한 것이 좋습니다 <a href="https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/core-marketo-concepts/programs/working-with-programs/understanding-tags">채널 및 태그 전략</a> 모든 Marketo Engage 구현에 대해, 획득한 사람 및 마케팅 투자의 ROI를 채널별로 추적할 수 있습니다.
+    <p>
+    <li>잠재 고객 확보 프로그램의 성과를 측정하는 데 사용할 기준을 결정하고 다음 지표를 기반으로 시간 기반(올해, 마지막 롤링 12개월 보기 또는 180일) 표준 보고서를 만듭니다.</li>
+    <ul><li>고객 확보 프로그램: 개인 확보 Marketo Engage 프로그램</li>
+    <li>개인 소스: 레코드가 데이터베이스에 알려지는 방법에 대한 소스 범주(CRM의 소스 값 목록 기반)</li></ul>
+    <li>주 또는 월별로 생성된 사람을 측정합니다. 이 보고서는 데이터베이스 증가율과 데이터베이스 크기 제한에 도달하는지 여부를 측정합니다.</li>
+    <li>사람 성과 보고서의 지표 필터링 기준 <a href="https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/reporting/basic-reporting/editing-reports/add-custom-columns-to-a-person-report">스마트 목록을 사용자 정의 열로 사용.</a></li>
+    <p><img src="assets/tip-icon.png" alt="메모 아이콘"> 팁: 마케팅 활동 대신 데이터베이스의 사람 성과 보고서에 추가할 사용자 정의 열에 대한 스마트 목록을 만들면 보고서에서 스마트 목록 이름이 선택되었는지 정확하고 올바르게 확인할 수 있습니다.</td>
+  </tr>
+  </tbody>
 </table>
