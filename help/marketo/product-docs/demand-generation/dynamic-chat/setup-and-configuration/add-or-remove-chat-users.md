@@ -3,10 +3,10 @@ description: 채팅 사용자 추가 또는 제거 - Marketo 문서 - 제품 설
 title: 채팅 사용자 추가 또는 제거
 feature: Dynamic Chat
 exl-id: 2f5237f7-edb2-4332-97f1-c5b904ce2d92
-source-git-commit: f5f93a993d5b13c1fda0b31172393eff0bc65fd4
+source-git-commit: 90cbf44cb567f32cc054f4fd6e282b1313a071b7
 workflow-type: tm+mt
-source-wordcount: '223'
-ht-degree: 2%
+source-wordcount: '251'
+ht-degree: 1%
 
 ---
 
@@ -47,6 +47,10 @@ ht-degree: 2%
 1. **[!UICONTROL 저장]**&#x200B;을 클릭합니다.
 
    ![](assets/add-or-remove-chat-users-7.png)
+
+   >[!NOTE]
+   >
+   >Adobe 관리 콘솔에서 사용자를 추가한 후 Dynamic Chat 에이전트 관리 페이지에 표시하는 데 최대 2시간이 걸릴 수 있습니다.
 
 ## Marketo 역할에 Dynamic Chat 액세스 추가 {#add-dynamic-chat-access-to-marketo-role}
 

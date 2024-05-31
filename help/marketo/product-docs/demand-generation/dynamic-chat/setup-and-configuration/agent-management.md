@@ -2,11 +2,11 @@
 description: 에이전트 관리 - Marketo 문서 - 제품 설명서
 title: 에이전트 관리
 feature: Dynamic Chat
-exl-id: 6518a0bd-cdd2-4489-b414-d84e0ed2f61f
-source-git-commit: 38274b4859ae38c018ee73d4f1715fdf6a78e815
+exl-id: 151d8cf2-a5b7-43c4-8418-cc22252108b2
+source-git-commit: 90cbf44cb567f32cc054f4fd6e282b1313a071b7
 workflow-type: tm+mt
-source-wordcount: '184'
-ht-degree: 2%
+source-wordcount: '211'
+ht-degree: 0%
 
 ---
 
@@ -21,6 +21,10 @@ ht-degree: 2%
 이 탭에는 Dynamic Chat 인스턴스의 모든 에이전트가 나열되며 여기에는 이름, 이메일 주소, 라이브 채팅 상태 등의 정보가 포함됩니다.
 
 ![](assets/agent-management-2.png)
+
+>[!NOTE]
+>
+>에이전트를 보지 않음 _just_ 추가됨? Adobe Admin Console에서 추가한 후 여기에 표시되는 데 최대 2시간이 걸릴 수 있습니다.
 
 ## 팀 {#teams}
 
@@ -42,7 +46,7 @@ ht-degree: 2%
 
    ![](assets/agent-management-6.png)
 
-1. Click **Create**.
+1. 클릭 **만들기**.
 
    ![](assets/agent-management-7.png)
 
