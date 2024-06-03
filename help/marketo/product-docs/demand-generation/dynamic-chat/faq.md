@@ -3,9 +3,9 @@ description: Dynamic Chat FAQ - Marketo 문서 - 제품 설명서
 title: DYNAMIC CHAT FAQ
 feature: Dynamic Chat
 exl-id: 7b31afc3-77f4-46fb-9f0e-8cb9d60f3ffb
-source-git-commit: 79b439a9bb3d3cd130eb5a7b52cea13988e7b88e
+source-git-commit: 941fdf08b580bab80c456e3956e965c9e2fa6942
 workflow-type: tm+mt
-source-wordcount: '837'
+source-wordcount: '873'
 ht-degree: 0%
 
 ---
@@ -13,6 +13,10 @@ ht-degree: 0%
 # DYNAMIC CHAT FAQ {#dynamic-chat-faq}
 
 Dynamic Chat에 대한 FAQ에 대한 답변은 아래를 참조하십시오.
+
+**Dynamic Chat에 접근할 수 있는 권한이 없는 것 같습니다. 어떻게 구할 수 있죠?**
+
+Marketo Engage 관리자에게 연락하여 다음을 수행했는지 확인하십시오. [이(가) 나를 사용자로 추가했습니다.](/help/marketo/product-docs/demand-generation/dynamic-chat/setup-and-configuration/add-or-remove-chat-users.md#add-a-chat-user){target="_blank"} Adobe Admin Console.
 
 **회사 웹 사이트의 어디에나 Dynamic Chat을 설치할 수 있습니까, 아니면 Marketo 랜딩 페이지에서만 작동합니까?**
 

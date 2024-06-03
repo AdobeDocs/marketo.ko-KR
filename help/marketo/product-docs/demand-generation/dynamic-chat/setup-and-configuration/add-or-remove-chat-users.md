@@ -3,9 +3,9 @@ description: 채팅 사용자 추가 또는 제거 - Marketo 문서 - 제품 설
 title: 채팅 사용자 추가 또는 제거
 feature: Dynamic Chat
 exl-id: 2f5237f7-edb2-4332-97f1-c5b904ce2d92
-source-git-commit: 90cbf44cb567f32cc054f4fd6e282b1313a071b7
+source-git-commit: 941fdf08b580bab80c456e3956e965c9e2fa6942
 workflow-type: tm+mt
-source-wordcount: '251'
+source-wordcount: '264'
 ht-degree: 1%
 
 ---
@@ -13,6 +13,10 @@ ht-degree: 1%
 # 채팅 사용자 추가 또는 제거 {#add-or-remove-chat-users}
 
 채팅 사용자를 추가하거나 제거하려면 아래 단계를 따르십시오.
+
+>[!NOTE]
+>
+>기본적으로 모든 Marketo Engage 관리자에게는 Dynamic Chat의 관리자 권한이 부여됩니다.
 
 ## 채팅 사용자 추가 {#add-a-chat-user}
 
