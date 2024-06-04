@@ -3,7 +3,7 @@ audience: end-user
 user-guide-title: Marketo 안내서
 user-guide-description: Marketo 제품 설명서
 feature-set: Marketo Engage
-source-git-commit: 2c74c71c9311312f7e0991ed5598ccb09a9b1f15
+source-git-commit: eb6d834c1f430beebf0666d7694203a268be93f2
 workflow-type: tm+mt
 source-wordcount: '9358'
 ht-degree: 0%
@@ -410,7 +410,7 @@ ht-degree: 0%
             + [SFDC 캠페인을 프로그램과 동기화](product-docs/core-marketo-concepts/programs/working-with-programs/sync-an-sfdc-campaign-with-a-program.md)
             + [기간 원가 이해](product-docs/core-marketo-concepts/programs/working-with-programs/understanding-period-costs.md)
             + [태그 이해](product-docs/core-marketo-concepts/programs/working-with-programs/understanding-tags.md)
-            + [프로그램에서 태그 사용](product-docs/core-marketo-concepts/programs/working-with-programs/understanding-tags/use-tags-in-a-program.md)
+            + [프로그램에서 태그 사용](product-docs/core-marketo-concepts/programs/working-with-programs/use-tags-in-a-program.md)
             + [프로그램에서 기간 원가 사용](product-docs/core-marketo-concepts/programs/working-with-programs/using-period-costs-in-a-program.md)
          + 프로그램 라이브러리 {#program-library}
             + [프로그램 가져오기 라이브러리 개요](product-docs/core-marketo-concepts/programs/program-library/program-import-library-overview.md)
