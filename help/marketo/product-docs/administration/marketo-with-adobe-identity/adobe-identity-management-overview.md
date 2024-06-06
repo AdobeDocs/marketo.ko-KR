@@ -3,9 +3,9 @@ description: Adobe Identity Management 개요 - Marketo 문서 - 제품 설명�
 title: Adobe Identity Management 개요
 exl-id: 18ddeebc-bc89-411c-9d2c-23df6841cb3a
 feature: Marketo with Adobe Identity
-source-git-commit: 14ccfe39059b9c900a5e5e00b082146bb500d79d
+source-git-commit: 1defe6e8c7b4e458203169150ec77df4f615e5d2
 workflow-type: tm+mt
-source-wordcount: '408'
+source-wordcount: '421'
 ht-degree: 0%
 
 ---
@@ -16,7 +16,7 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->Marketo 지원에서는 Adobe IMS 마이그레이션과 관련된 업데이트를 제공할 수 없습니다. Adobe 계정 팀은 앞으로 몇 달 안에 예상 타임라인을 확인할 것입니다. 자세한 내용은 다음을 참조하십시오. [이 문서](/help/marketo/product-docs/administration/marketo-with-adobe-identity/subscription-and-user-migration/understanding-marketo-subscription-and-user-migration-to-the-adobe-admin-console.md){target="_blank"}, and the [Frequently Asked Questions](/help/marketo/product-docs/administration/marketo-with-adobe-identity/faq.md){target="_blank"}.
+>Marketo 지원에서는 Adobe IMS 마이그레이션과 관련된 업데이트를 제공할 수 없습니다. Adobe 계정 팀은 앞으로 몇 달 안에 예상 타임라인을 확인할 것입니다. 자세한 내용은 다음을 참조하십시오. [이 문서](/help/marketo/product-docs/administration/marketo-with-adobe-identity/subscription-and-user-migration/understanding-marketo-subscription-and-user-migration-to-the-adobe-admin-console.md){target="_blank"}및 [자주 묻는 질문](/help/marketo/product-docs/administration/marketo-with-adobe-identity/faq.md){target="_blank"}.
 
 Adobe ID에 온보딩된 구독의 경우 사용자 관리에 Adobe Admin Console이 사용됩니다. 단일 사인온과 같은 ID 관련 개념도 Admin Console에서 관리됩니다.
 
@@ -46,8 +46,8 @@ Adobe Identity Management 시스템에 온보딩된 Adobe Marketo Engage 구독�
 </td>
  </tr>
  <tr>
-  <td><strong>Marketo Engage 제품 관리자</strong></td>
-  <td>관리자 권한을 가진 Marketo Engage에 대한 액세스 권한을 부여 받은 사람입니다. Adobe Admin Console이 아닌 Marketo Engage에서 부여된 역할.</td>
+  <td><strong>Marketo Engage 관리자</strong></td>
+  <td>관리자 권한을 가진 Marketo Engage에 대한 액세스 권한을 부여 받은 사람입니다. Adobe Admin Console이 아닌 Marketo Engage에서 부여된 역할( 는에서 "관리자"로만 표시됨) <b>사용자 편집</b> 모달).</td>
  </tr>
  <tr>
   <td><strong>Marketo Engage 사용자</strong></td>
