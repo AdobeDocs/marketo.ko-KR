@@ -4,16 +4,16 @@ title: 대화형 웨비나용 템플릿
 hide: true
 hidefromtoc: true
 feature: Interactive Webinars
-source-git-commit: 1defe6e8c7b4e458203169150ec77df4f615e5d2
+source-git-commit: 51ba08f4f38ddbf0f382dbc99b76b4ffd2d60a37
 workflow-type: tm+mt
-source-wordcount: '45'
-ht-degree: 2%
+source-wordcount: '67'
+ht-degree: 0%
 
 ---
 
 # 대화형 웨비나용 템플릿 {#templates-for-interactive-webinars}
 
-텍스트
+대화형 웨비나에서 사용하기 쉬운 템플릿을 만들어 콘텐츠를 보다 빠르게 제작하거나, 팀에서 작업할 때 브랜드 지침을 준수할 수 있습니다.
 
 ## 템플릿 만들기 {#create-a-template}
 
@@ -25,7 +25,7 @@ ht-degree: 2%
 
 스크린샷
 
-1. 클릭 [!UICONTROL 템플릿 관리].
+1. 클릭 **[!UICONTROL 템플릿 관리]**.
 
 스크린샷
 
