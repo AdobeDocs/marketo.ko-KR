@@ -4,9 +4,9 @@ description: 사용자 지정 활동 이해 - Marketo 문서 - 제품 설명서
 title: 사용자 지정 활동 이해
 exl-id: 0bb74d9d-3a9d-4ef7-8c8c-2de36cd6190b
 feature: Custom Activities
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 2b610cc3486b745212b0b1f36018a83214d7ecd7
 workflow-type: tm+mt
-source-wordcount: '261'
+source-wordcount: '259'
 ht-degree: 0%
 
 ---
@@ -35,6 +35,6 @@ ht-degree: 0%
 
 1단계: [사용자 지정 활동 만들기](/help/marketo/product-docs/administration/marketo-custom-activities/create-a-custom-activity.md) Marketo 계정에서
 
-2단계: API를 사용하는 조직의 직원은 구현을 시작할 수 있습니다. 자세한 내용은 다음을 참조하십시오. [사용자 지정 활동 API](https://developers.marketo.com/documentation/rest/add-custom-activities/)
+2단계: API를 사용하는 조직의 직원은 구현을 시작할 수 있습니다. 자세한 내용은 다음을 참조하십시오. [사용자 지정 활동 API](https://developer.adobe.com/marketo-apis/api/mapi/#tag/Activities/operation/addCustomActivityUsingPOST)
 
 재밌게 놀아!

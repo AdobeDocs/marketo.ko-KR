@@ -4,9 +4,9 @@ description: Marketo 사용자 지정 개체 만들기 - Marketo 문서 - 제품
 title: Marketo 사용자 지정 개체 만들기
 exl-id: d68b41e1-a12b-436f-aad7-42c7264cd901
 feature: Custom Objects
-source-git-commit: 02b2e39580c5eac63de4b4b7fdaf2a835fdd4ba5
+source-git-commit: 2b610cc3486b745212b0b1f36018a83214d7ecd7
 workflow-type: tm+mt
-source-wordcount: '704'
+source-wordcount: '698'
 ht-degree: 0%
 
 ---
@@ -51,7 +51,7 @@ Marketo의 사용자 지정 개체를 사용하여 비즈니스와 관련된 지
    >
    >이러한 필드를 만들 때는 편집할 수 있지만 저장한 후에는 [!UICONTROL 복수 이름] 필드 및 **[!UICONTROL 잠재 고객 세부 정보에 표시]** 슬라이더.
 
-1. 끌기 **[!UICONTROL 잠재 고객 세부 정보에 표시]** 표시할 슬라이더 **[!UICONTROL 표시]** 데이터베이스 페이지에서 사용자 지정 개체 데이터를 보려면 클릭 **[!UICONTROL 저장]**.
+1. 끌기 **[!UICONTROL 잠재 고객 세부 정보에 표시]** 표시할 슬라이더 **[!UICONTROL 표시]** 데이터베이스 페이지에서 사용자 지정 개체 데이터를 보려면 **[!UICONTROL 저장]**&#x200B;을 클릭합니다.
 
    ![](assets/create-marketo-custom-objects-5.png)
 
@@ -63,7 +63,7 @@ Marketo의 사용자 지정 개체를 사용하여 비즈니스와 관련된 지
 
    >[!NOTE]
    >
-   >Marketo 목록 가져오기 또는 [API](https://developers.marketo.com/documentation/rest/).
+   >Marketo 목록 가져오기 또는 [API](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/rest/rest-api).
 
 ## 다대다 구조에 대한 사용자 지정 개체 만들기 {#create-a-custom-object-for-a-many-to-many-structure}
 
@@ -93,7 +93,7 @@ Marketo의 사용자 지정 개체를 사용하여 비즈니스와 관련된 지
    >
    >이러한 필드를 만들 때는 편집할 수 있지만 저장한 후에는 [!UICONTROL 복수 이름] 필드 및 **[!UICONTROL 잠재 고객 세부 정보에 표시]** 슬라이더.
 
-1. 끌기 **[!UICONTROL 잠재 고객 세부 정보에 표시]** 표시할 슬라이더 **[!UICONTROL 표시]** 데이터베이스 페이지에서 사용자 지정 개체 데이터를 보려면 클릭 **[!UICONTROL 저장]**.
+1. 끌기 **[!UICONTROL 잠재 고객 세부 정보에 표시]** 표시할 슬라이더 **[!UICONTROL 표시]** 데이터베이스 페이지에서 사용자 지정 개체 데이터를 보려면 **[!UICONTROL 저장]**&#x200B;을 클릭합니다.
 
    ![](assets/create-marketo-custom-objects-11.png)
 
@@ -103,7 +103,7 @@ Marketo의 사용자 지정 개체를 사용하여 비즈니스와 관련된 지
 
    >[!NOTE]
    >
-   >Marketo 목록 가져오기 또는 [API](https://developers.marketo.com/documentation/rest/).
+   >Marketo 목록 가져오기 또는 [API](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/rest/rest-api).
 
 다음 단계는 중간 개체를 만드는 것입니다(아래 참조). 그러나 그 전에 연결할 필드를 만들어야 합니다.
 
@@ -135,7 +135,7 @@ Marketo의 사용자 지정 개체를 사용하여 비즈니스와 관련된 지
    >
    >이러한 필드를 만들 때는 편집할 수 있지만 저장한 후에는 [!UICONTROL 복수 이름] 필드 및 [!UICONTROL 잠재 고객 세부 정보에 표시] 슬라이더.
 
-1. 끌기 **[!UICONTROL 잠재 고객 세부 정보에 표시]** 표시할 슬라이더 **표시** 데이터베이스 페이지에서 사용자 지정 개체 데이터를 보려면 클릭 **저장**.
+1. 끌기 **[!UICONTROL 잠재 고객 세부 정보에 표시]** 표시할 슬라이더 **표시** 데이터베이스 페이지에서 사용자 지정 개체 데이터를 보려면 **저장**&#x200B;을 클릭합니다.
 
    ![](assets/create-marketo-custom-objects-17.png)
 

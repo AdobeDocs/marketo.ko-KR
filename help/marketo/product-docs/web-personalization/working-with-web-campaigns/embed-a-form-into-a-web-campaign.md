@@ -4,9 +4,9 @@ description: 웹 캠페인에 양식 포함 - Marketo 문서 - 제품 설명서
 title: 웹 캠페인에 양식 포함
 exl-id: 41e60ae6-9a40-444f-8a55-47fc6ef6c5fb
 feature: Web Personalization
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 2b610cc3486b745212b0b1f36018a83214d7ecd7
 workflow-type: tm+mt
-source-wordcount: '339'
+source-wordcount: '333'
 ht-degree: 0%
 
 ---
@@ -59,7 +59,7 @@ Marketo 양식을 웹 캠페인(대화 상자, 영역 또는 위젯)에 임베�
 
 Set Campaign에서 대화 상자 또는 위젯 색상을 변경하려면:
 
-1. 리치 텍스트 편집기에서 대화 상자 캠페인 유형과 대화 상자 스타일, 머리글 색상 및 배경색을 선택하여 양식의 배경색을 사용자 지정합니다. 클릭 **저장**.
+1. 리치 텍스트 편집기에서 대화 상자 캠페인 유형과 대화 상자 스타일, 머리글 색상 및 배경색을 선택하여 양식의 배경색을 사용자 지정합니다. **저장**&#x200B;을 클릭합니다.
 
    ![](assets/image2015-12-29-18-3a28-3a31.png)
 
@@ -85,4 +85,4 @@ Set Campaign에서 대화 상자 또는 위젯 색상을 변경하려면:
 >
 >* [양식 테마의 CSS 편집](/help/marketo/product-docs/demand-generation/forms/form-design/edit-the-css-of-a-form-theme.md)
 >* [후속 랜딩 페이지 없이 감사 메시지 표시](https://developers.marketo.com/blog/show-thank-you-message-without-a-follow-up-landing-page/)
->* [Forms 2.0](https://developers.marketo.com/documentation/websites/forms-2-0/)
+>* [Forms 2.0](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/javascriptapi/forms-api-reference)

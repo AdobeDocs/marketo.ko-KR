@@ -4,9 +4,9 @@ description: 웹 리치 미디어에 대한 예측 콘텐츠 활성화 - Marketo
 title: 웹 리치 미디어에 대한 예측 콘텐츠 활성화
 exl-id: 030f1dd7-8fe7-4c82-be5e-052f0a259e3c
 feature: Predictive Content
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 2b610cc3486b745212b0b1f36018a83214d7ecd7
 workflow-type: tm+mt
-source-wordcount: '311'
+source-wordcount: '307'
 ht-degree: 0%
 
 ---
@@ -47,7 +47,7 @@ ht-degree: 0%
 
 ## Javascript 코드 사용자 지정 및 웹 사이트에 포함  {#customize-the-javascript-code-and-embed-it-into-your-website}
 
-리치 미디어 권장 사항 템플릿에 대한 설명서를 참조하십시오 [Marketo 개발자 사이트에서](https://developers.marketo.com/documentation/websites/rtp-rich-media-recommendations-api){target="_blank"}. 웹 사이트에 맞게 템플릿을 사용자 지정하는 방법을 설명합니다.
+리치 미디어 권장 사항 템플릿에 대한 설명서를 참조하십시오 [Marketo 개발자 사이트에서](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/javascriptapi/rich-media-recommendation){target="_blank"}. 웹 사이트에 맞게 템플릿을 사용자 지정하는 방법을 설명합니다.
 
 템플릿을 표시할 위치에 JavaScript 코드를 웹 사이트에 붙여넣습니다.
 

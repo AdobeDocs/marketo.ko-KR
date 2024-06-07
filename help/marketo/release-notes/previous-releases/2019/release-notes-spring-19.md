@@ -4,9 +4,9 @@ description: 릴리스 노트 - 2019년 봄 - Marketo 문서 - 제품 설명서
 title: 릴리스 노트 - 2019년 봄
 exl-id: eb7a9ac4-5c3d-4d98-9b06-e3f11147bc6d
 feature: Release Information
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 2b610cc3486b745212b0b1f36018a83214d7ecd7
 workflow-type: tm+mt
-source-wordcount: '459'
+source-wordcount: '460'
 ht-degree: 0%
 
 ---
@@ -25,8 +25,8 @@ ht-degree: 0%
 
 * **대기자 명단 등록됨:** 원할 때 구성원 대기를 위한 새 프로그램/이벤트 상태 [보류 중](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/program-flow-actions/change-program-status.md) 공석이 생길 때까지 이는 Marketo Classic의 이벤트 프로그램과 연결된 채널 및 Marketo Sky의 웨비나 프로그램이 있는 이벤트와 모두 적용됩니다. 대기자 명단에 등록됨은 기본적으로 단계 값이 등록됨과 동일합니다.
 * **[사용자 지정 통신 제한](/help/marketo/product-docs/administration/email-setup/enable-communication-limits.md)**: 이제 관리자는 사용자 지정 일별 또는 주별 통신 제한을 설정할 수 있습니다.
-* **[스마트 캠페인 자산 API](https://developers.marketo.com/rest-api/assets/smart-campaigns/)**: 업데이트된 날짜 및 ID로 스마트 캠페인 레코드를 검색하여 Marketo 외부에서 분석을 보강합니다.
-* **이메일에 대한 HTTPS 추적 링크:** &quot;Secure Domains for Tracking Links&quot;를 구매한 고객의 경우 이제 브랜드 추적 링크를 이메일 내에 HTTPS로 표시할 수 있습니다.
+* **[스마트 캠페인 자산 API](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/rest/assets/smart-campaigns)**: 업데이트된 날짜 및 ID로 스마트 캠페인 레코드를 검색하여 Marketo 외부에서 분석을 보강합니다.
+* **이메일에 대한 HTTPS 추적 링크:** &quot;추적 링크를 위한 보안 도메인&quot;을 구매한 고객의 경우 이제 브랜드 추적 링크를 이메일 내에 HTTPS로 표시할 수 있습니다.
 * **이메일 전달성 Powerpack 업데이트**: 특정 테스트 결과에 플래그를 지정하고 댓글을 달거나, URL을 통해 관련자와 결과를 공유하고, 관련자가 콘텐츠를 편집할 때 변경 사항을 추적하여 이메일의 발전을 확인할 수 있습니다.
 
 Account-Based Marketing
@@ -54,5 +54,5 @@ Account-Based Marketing
 ## Bizible by Marketo {#bizible-by-marketo}
 
 * **Bizible 검색 기능 개선 사항**: 새로운 대시보드 세그멘테이션 기능을 통해 마케터가 성능을 더 잘 이해할 수 있습니다.
-* **다중 통화 지원**: CRM 통화 테이블에 구축된 Bizible의 새로운 자동 통화 전환 기능을 사용하여 회사 통화와 모든 로컬 통화 간을 전환할 수 있습니다.
+* **다중 통화 지원**: CRM 통화 표에 빌드된 Bizible의 새로운 자동 통화 전환 기능을 사용하여 회사 통화와 모든 로컬 통화 사이를 전환합니다.
 * **CRM 캠페인 비용**: CRM 캠페인 오브젝트에서 비용 데이터를 자동으로 가져오는 기능으로 오프라인 마케팅 활동의 지출 및 ROI를 측정합니다.

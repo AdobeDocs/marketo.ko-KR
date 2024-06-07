@@ -4,10 +4,10 @@ description: 프로그램의 내 토큰 이해 - Marketo 문서 - 제품 설명�
 title: 프로그램의 내 토큰 이해
 exl-id: 01b42272-c419-4cd5-ad30-87413ceb2032
 feature: Tokens
-source-git-commit: b21f955bf98063e11f8ed3fdc6f164134ee4f5aa
+source-git-commit: 2b610cc3486b745212b0b1f36018a83214d7ecd7
 workflow-type: tm+mt
 source-wordcount: '416'
-ht-degree: 1%
+ht-degree: 0%
 
 ---
 
@@ -23,7 +23,7 @@ ht-degree: 1%
 
 내 토큰은 다음과 같이 표시됩니다. `{{my.Name Of Token}}`
 
-예시:
+예:
 
 * `{{my.Event Date}}`
 * `{{my.Webinar Speaker}}`
@@ -46,7 +46,7 @@ ht-degree: 1%
   </tr> 
   <tr> 
    <td>이메일 스크립트 <img alt="--" src="assets/image2014-9-25-16-3a45-3a4.png" data-linked-resource-id="3083232" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="1147114"></td> 
-   <td>이 토큰을 사용하여 이메일에서 Velocity 스크립트를 실행하십시오. 자세히 알아보기 <a href="https://developers.marketo.com/documentation/email-scripting/" title="링크 따라가기" rel="nofollow">여기</a>. </td> 
+   <td>이 토큰을 사용하여 이메일에서 Velocity 스크립트를 실행하십시오. 자세히 알아보기 <a href="https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/email-scripting" title="링크 따라가기" rel="nofollow">여기</a>. </td> 
   </tr> 
   <tr> 
    <td>숫자<span> <img alt="--" src="assets/image2014-9-25-16-3a45-3a25.png" data-linked-resource-id="3083233" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="1147114"></span></td> 

@@ -4,7 +4,7 @@ description: "추가 [!DNL Munchkin] 웹 사이트에 대한 추적 코드 - Mar
 title: "추가 [!DNL Munchkin] 웹 사이트에 대한 추적 코드"
 exl-id: a03a7f11-8d5e-4325-b975-8fc350711da0
 feature: Administration, Munchkin Tracking Code
-source-git-commit: bb9593ab500d57127f22b14757688d7521661e38
+source-git-commit: 2b610cc3486b745212b0b1f36018a83214d7ecd7
 workflow-type: tm+mt
 source-wordcount: '666'
 ht-degree: 0%
@@ -59,7 +59,7 @@ ht-degree: 0%
 
    >[!TIP]
    >
-   >많은 양의 트래픽(즉, 매월 수십만 건의 방문)이 표시되는 사이트의 경우 익명의 사용자를 추적하지 않도록 선택하는 것이 좋습니다. [자세히 알아보기](https://developers.marketo.com/documentation/websites/lead-tracking-munchkin-js/){target="_blank"}.
+   >많은 양의 트래픽(즉, 매월 수십만 건의 방문)이 표시되는 사이트의 경우 익명의 사용자를 추적하지 않도록 선택하는 것이 좋습니다. [자세히 알아보기](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/javascriptapi/lead-tracking/){target="_blank"}.
 
 ## 여러 작업 공간을 사용할 때 추적 코드 추가 {#add-tracking-code-when-using-multiple-workspaces}
 

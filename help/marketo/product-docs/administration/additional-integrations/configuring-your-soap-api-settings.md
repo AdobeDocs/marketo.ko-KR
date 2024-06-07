@@ -4,9 +4,9 @@ description: SOAP API 설정 구성 - Marketo 문서 - 제품 설명서
 title: SOAP API 설정 구성
 exl-id: a848f5c5-b3ca-40cc-9202-467f26d3916f
 feature: Administration
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 2b610cc3486b745212b0b1f36018a83214d7ecd7
 workflow-type: tm+mt
-source-wordcount: '87'
+source-wordcount: '81'
 ht-degree: 0%
 
 ---
@@ -15,7 +15,7 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->REST API를 사용하는 것이 좋습니다. 자세히 알아보기 [developers.marketo.com](https://developers.marketo.com/documentation/rest/).
+>REST API를 사용하는 것이 좋습니다. 자세히 알아보기 [developer.adobe.com](https://developer.adobe.com/marketo-apis/).
 
 >[!NOTE]
 >
@@ -39,4 +39,4 @@ ht-degree: 0%
 
 >[!MORELIKETHIS]
 >
->[SOAP API 설명서](https://developers.marketo.com/documentation/soap/)
+>[SOAP API 설명서](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/soap/soap-api)

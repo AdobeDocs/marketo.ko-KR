@@ -4,7 +4,7 @@ description: API 전용 사용자 만들기 - Marketo 문서 - 제품 설명서
 title: API 전용 사용자 만들기
 exl-id: 23c92255-07a8-41c2-b7b8-8e495d135671
 feature: Users and Roles
-source-git-commit: ab1ea483998d6cb37277b18adf2c1d3371bb40e6
+source-git-commit: 2b610cc3486b745212b0b1f36018a83214d7ecd7
 workflow-type: tm+mt
 source-wordcount: '188'
 ht-degree: 0%
@@ -13,7 +13,7 @@ ht-degree: 0%
 
 # API 전용 사용자 만들기 {#create-an-api-only-user}
 
-를 통해 Marketo과 통합하려는 경우 [나머지 API](https://developers.marketo.com/documentation/rest/){target="_blank"}, API 전용 사용자를 만들어야 합니다. 방법은 다음과 같습니다.
+를 통해 Marketo과 통합하려는 경우 [나머지 API](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/rest/rest-api){target="_blank"}, API 전용 사용자를 만들어야 합니다. 방법은 다음과 같습니다.
 
 >[!IMPORTANT]
 >

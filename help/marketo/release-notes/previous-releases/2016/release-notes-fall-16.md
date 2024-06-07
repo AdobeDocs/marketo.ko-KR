@@ -4,9 +4,9 @@ description: 릴리스 노트 - 16년 가을 - Marketo 문서 - 제품 설명서
 title: 릴리스 노트 - 16년 가을
 exl-id: da935951-162e-426c-acf2-12c55ff706b4
 feature: Release Information
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 2b610cc3486b745212b0b1f36018a83214d7ecd7
 workflow-type: tm+mt
-source-wordcount: '682'
+source-wordcount: '661'
 ht-degree: 0%
 
 ---
@@ -53,7 +53,7 @@ facebook Offline Conversion 통합을 통해 광고 팀이 광고 지출을 보�
 
 **나머지 API**
 
-또한 이 릴리스에서는 Marketo REST API를 사용하여 ABM에서 명명된 계정 속성 및 계정 점수를 관리할 수 있습니다. API 작업에 대한 자세한 내용은 [Marketo 개발자 웹 사이트](https://developers.marketo.com/rest-api/lead-database/named-accounts).
+또한 이 릴리스에서는 Marketo REST API를 사용하여 ABM에서 명명된 계정 속성 및 계정 점수를 관리할 수 있습니다. API 작업에 대한 자세한 내용은 [Marketo 개발자 웹 사이트](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/rest/lead-database/named-accounts).
 
 ## [감사 추적 개선 사항](/help/marketo/product-docs/administration/audit-trail/change-details-in-audit-trail.md) {#audit-trail-enhancements}
 
@@ -84,11 +84,11 @@ facebook Offline Conversion 통합을 통해 광고 팀이 광고 지출을 보�
 
 Market Sales Insight 는 이제 Salesforce Shield Encryption 과 호환됩니다. 모든 Sales Insight 고객은 최신 관리 패키지(버전 1.4359.2)로 업그레이드해야 합니다. [appexchange에서 사용 가능](https://appexchange.salesforce.com/listingDetail?listingId=a0N30000001SVZmEAO).
 
-## [명명된 계정 API](https://developers.marketo.com/rest-api/lead-database/named-accounts/) {#named-accounts-apis}
+## [명명된 계정 API](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/rest/lead-database/named-accounts) {#named-accounts-apis}
 
 이번 릴리스를 통해 Marketo ABM 사용자는 명명된 계정 API를 통해 명명된 계정을 관리할 수 있습니다. 사용자는 명명된 계정을 만들고, 업데이트하고, 삭제할 수 있으며 ABM 명명된 계정 점수를 읽고 업데이트할 수 있습니다.
 
-## [이메일 편집기 v2.0 API 지원](https://developers.marketo.com/rest-api/assets/emails/) {#email-editor-v-api-support}
+## [이메일 편집기 v2.0 API 지원](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/email-scripting) {#email-editor-v-api-support}
 
 Marketo REST API를 사용하여 v2.0 형식의 전자 메일에 대한 변수 및 모듈을 관리합니다.
 

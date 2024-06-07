@@ -4,9 +4,9 @@ description: 릴리스 노트 - 2015년 1월 - Marketo 설명서 - 제품 설명
 title: 릴리스 노트 - 2015년 1월
 exl-id: f312ff87-6ac1-4167-be98-76600bb4b3cd
 feature: Release Information
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 2b610cc3486b745212b0b1f36018a83214d7ecd7
 workflow-type: tm+mt
-source-wordcount: '361'
+source-wordcount: '356'
 ht-degree: 0%
 
 ---
@@ -31,7 +31,7 @@ ht-degree: 0%
 * 프로그램 ID로 리드 가져오기
 * 삭제된 리드 가져오기
 
-또한 더 빠른 API 호출을 위해 리드 변경을 비동기식으로 작성하는 새로운 리드 동기화 옵션이 있습니다. 전체 세부 정보는 릴리스 이후에서 사용할 수 있습니다. [developers.marketo.com](https://developers.marketo.com)
+또한 더 빠른 API 호출을 위해 리드 변경을 비동기식으로 작성하는 새로운 리드 동기화 옵션이 있습니다. 전체 세부 정보는 릴리스 이후에서 사용할 수 있습니다. [https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/home](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/home)
 
 **이메일 스크립팅 사용자 지정 개체 지원**
 
@@ -62,6 +62,6 @@ Named Accounts 모듈의 개선 사항은 사용자의 일치율과 유효성 �
 1. CDN이 없는 비동기 태그
 1. CDN 없이 동기식 태그
 
-최상의 성능을 위해서는 웹 페이지의 헤더 맨 위에 태그를 배치하는 것이 좋습니다 `<head>`. 모든 태그는 [RTP API](https://developers.marketo.com/documentation/websites/rtp-js-api/). RTP 태그를 배포하는 방법은 다음을 참조하십시오. [여기](/help/marketo/product-docs/web-personalization/rtp-tag-implementation/deploy-the-rtp-javascript.md).
+최상의 성능을 위해서는 웹 페이지의 헤더 맨 위에 태그를 배치하는 것이 좋습니다 `<head>`. 모든 태그는 [RTP API](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/javascriptapi/rich-media-recommendation). RTP 태그를 배포하는 방법에 대한 자세한 내용은 를 참조하십시오. [여기](/help/marketo/product-docs/web-personalization/rtp-tag-implementation/deploy-the-rtp-javascript.md).
 
 ![](assets/image2015-1-15-13-3a30-3a45.png)

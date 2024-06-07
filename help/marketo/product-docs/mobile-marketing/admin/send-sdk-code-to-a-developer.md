@@ -4,9 +4,9 @@ description: 개발자에게 SDK 코드 보내기 - Marketo 문서 - 제품 설�
 title: 개발자에게 SDK 코드 보내기
 exl-id: 0c32b9af-8d86-40d7-b1f3-9aaa53b9b730
 feature: Mobile Marketing
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 2b610cc3486b745212b0b1f36018a83214d7ecd7
 workflow-type: tm+mt
-source-wordcount: '125'
+source-wordcount: '117'
 ht-degree: 0%
 
 ---
@@ -15,8 +15,8 @@ ht-degree: 0%
 
 인앱 메시지 또는 푸시 알림을 만들려면 먼저 개발자에게 Android 및 iOS 플랫폼용 Mobile App SDK를 설정하고 초기화하도록 해야 합니다.
 
-* [Android용 지침](https://developers.marketo.com/documentation/mobile/installation-instructions-on-android/)
-* [iOS 지침](https://developers.marketo.com/documentation/mobile/installation-instructions-on-ios/)
+* [Android용 지침](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/mobile/installation#how-to-install-marketo-sdk-on-android)
+* [iOS 지침](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/mobile/installation#how-to-install-marketo-sdk-on-ios)
 
 ## 개발자에게 SDK 코드 보내기 {#send-sdk-code-to-a-developer-1}
 

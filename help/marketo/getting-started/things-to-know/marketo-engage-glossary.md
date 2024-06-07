@@ -3,9 +3,9 @@ description: Marketo Engage 용어집 - Marketo 설명서 - 제품 설명서
 title: Marketo Engage 용어집
 feature: Getting Started
 exl-id: 57b60323-fe4a-4de1-898d-282e5aefd3ed
-source-git-commit: c7069488ccb0444179cd995bec523ac4dd92da73
+source-git-commit: 2b610cc3486b745212b0b1f36018a83214d7ecd7
 workflow-type: tm+mt
-source-wordcount: '4085'
+source-wordcount: '4083'
 ht-degree: 1%
 
 ---
@@ -67,7 +67,7 @@ ht-degree: 1%
    <td>양식을 작성하지 않았거나 웹 사이트에 세부 정보를 남기지 않은 웹 방문자입니다.</td> 
   </tr> 
   <tr> 
-   <td colspan="1"><strong><a href="https://developers.marketo.com/" rel="nofollow">응용 프로그램 인터페이스</a> (API)</strong></td> 
+   <td colspan="1"><strong><a href="https://developer.adobe.com/marketo-apis/" rel="nofollow">응용 프로그램 인터페이스</a> (API)</strong></td> 
    <td colspan="1">운영 체제 또는 애플리케이션에서 단일 또는 대량 기능을 수행하는 데 사용되는 사전 정의된 프로토콜 세트입니다(이 경우 Marketo).</td> 
   </tr> 
   <tr> 
@@ -260,7 +260,7 @@ ht-degree: 1%
   </tr> 
   <tr> 
    <td colspan="1"><strong>문서</strong></td> 
-   <td colspan="1">약어로 설명하자면, 문서는 고객이 제품을 더 잘 이해할 수 있도록 하는 도움말 문서입니다. Marketo에는 제품 문서(현재 사용 중인 사이트), <a href="https://developers.marketo.com/" rel="nofollow">개발자</a> 문서 및 <a href="https://nation.marketo.com/t5/Knowledgebase/tkb-p/support_solutions-documents" rel="nofollow">지원</a> 문서.</td> 
+   <td colspan="1">약어로 설명하자면, 문서는 고객이 제품을 더 잘 이해할 수 있도록 하는 도움말 문서입니다. Marketo에는 제품 문서(현재 사용 중인 사이트), <a href="https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/home" rel="nofollow">개발자</a> 문서 및 <a href="https://nation.marketo.com/t5/Knowledgebase/tkb-p/support_solutions-documents" rel="nofollow">지원</a> 문서.</td> 
   </tr> 
   <tr> 
    <td colspan="1"><strong>도메인 기반 메시지 인증, 보고 및 적합성(DMARC)</strong></td> 
@@ -443,7 +443,7 @@ ht-degree: 1%
  <tbody> 
   <tr> 
    <td><a href="/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/features/tabs-in-the-msi-panel/interesting-moments/using-interesting-moments.md" rel="nofollow"><strong>알려진 사람</strong></a></td> 
-   <td><p>Marketo의 모든 개인 데이터 <strong>데이터베이스</strong> 는 알려진 사용자 데이터로 간주됩니다. CRM 동기화, 양식 작성, 목록 가져오기/수동 입력, 프로그래밍 방식(rest API/파트너 통합) 등 다양한 방법으로 사용자가 데이터베이스를 입력할 수 있습니다. 웹 방문자는 처음입니다. <strong>쿠키 사용</strong> (및 는 익명으로) Marketo <strong>먼치킨</strong> 웹 추적을 선택한 다음 식별 가능한 작업이 발생하면(예: Marketo 이메일에서 추적된 링크를 클릭하거나, 이메일 주소로 양식을 채우거나, 두 장치에서 Marketo 연결 리드 API를 통해 수동으로) 해당 알려진 사용자 레코드에 매핑됩니다 <a href="https://developers.marketo.com/javascript-api/lead-tracking/api-reference/#munchkin_associatelead">먼치킨</a> 및 <a href="https://developers.marketo.com/rest-api/endpoint-reference/lead-database-endpoint-reference/#!/Leads/associateLeadUsingPOST">Rest API</a></p></td> 
+   <td><p>Marketo의 모든 개인 데이터 <strong>데이터베이스</strong> 는 알려진 사용자 데이터로 간주됩니다. CRM 동기화, 양식 작성, 목록 가져오기/수동 입력, 프로그래밍 방식(rest API/파트너 통합) 등 다양한 방법으로 사용자가 데이터베이스를 입력할 수 있습니다. 웹 방문자는 처음입니다. <strong>쿠키 사용</strong> (및 는 익명으로) Marketo <strong>먼치킨</strong> 웹 추적을 선택한 다음 식별 가능한 작업이 발생하면(예: Marketo 이메일에서 추적된 링크를 클릭하거나, 이메일 주소로 양식을 채우거나, 두 장치에서 Marketo 연결 리드 API를 통해 수동으로) 해당 알려진 사용자 레코드에 매핑됩니다 <a href="https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/javascriptapi/lead-tracking#known-and-anonymous-leads">먼치킨</a> 및 <a href="https://developer.adobe.com/marketo-apis/api/mapi/#tag/Leads/operation/associateLeadUsingPOST">Rest API</a></p></td> 
   </tr> 
  </tbody> 
 </table>
@@ -534,7 +534,7 @@ ht-degree: 1%
    <td>MSD라고도 합니다. Marketo의 두 CRM 중 하나에 와 기본 통합이 있습니다(참조). <a href="#c"><strong>CRM</strong></a>).</td> 
   </tr> 
   <tr> 
-   <td><strong><a href="https://developers.marketo.com/javascript-api/lead-tracking/" rel="nofollow">먼치킨</a></strong></td> 
+   <td><strong><a href="https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/javascriptapi/lead-tracking" rel="nofollow">먼치킨</a></strong></td> 
    <td>Marketo의 사용자 지정 JavaScript 추적 코드. 웹 사이트를 방문하는 모든 개인을 추적합니다. 여기에는 익명 방문자(IP 주소 및 기타 정보 포함)가 포함됩니다. </td> 
   </tr> 
   <tr> 

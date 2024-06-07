@@ -3,9 +3,9 @@ description: Campaign 실행 - Marketo 문서 - 제품 설명서
 title: 캠페인 실행
 exl-id: d550cf08-b295-4289-9bb0-79d81cabc245
 feature: Smart Campaigns
-source-git-commit: 2eeb7ea7fd43ba75a3c802a91ce07c90dc8abd91
+source-git-commit: 2b610cc3486b745212b0b1f36018a83214d7ecd7
 workflow-type: tm+mt
-source-wordcount: '709'
+source-wordcount: '706'
 ht-degree: 0%
 
 ---
@@ -60,7 +60,7 @@ true로 설정하면 다음 토큰 컨텍스트가 하위 캠페인(실행 중�
 
 **API 상호 작용**
 
-일정 또는 요청 캠페인을 사용할 때 [API](https://developers.marketo.com/rest-api/assets/smart-campaigns/#batch)를 사용하면 둘 다 내 토큰에 대한 값을 전달할 수 있습니다. 이는 호출하는 캠페인에 있는 해당 토큰에 대해 설정된 값을 무시합니다. 그런 다음 Campaign이 다른 캠페인을 실행하고 &quot;상위 컨텍스트 사용을 True로&quot; 설정하면 애플리케이션에 설정된 값이 아니라 API를 통해 전달된 값이 사용됩니다.
+일정 또는 요청 캠페인을 사용할 때 [API](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/rest/assets/smart-campaigns#batch)를 사용하면 둘 다 내 토큰에 대한 값을 전달할 수 있습니다. 이는 호출하는 캠페인에 있는 해당 토큰에 대해 설정된 값을 무시합니다. 그런 다음 Campaign이 다른 캠페인을 실행하고 &quot;상위 컨텍스트 사용을 True로&quot; 설정하면 애플리케이션에 설정된 값이 아니라 API를 통해 전달된 값이 사용됩니다.
 
 ## 참고할 사항 {#things-to-note}
 

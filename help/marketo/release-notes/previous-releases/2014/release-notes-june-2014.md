@@ -4,9 +4,9 @@ description: 릴리스 노트 - 2014년 6월 - Marketo 문서 - 제품 설명서
 title: 릴리스 노트 - 2014년 6월
 exl-id: 690c4e41-831b-47b4-a0c6-d29cf607b179
 feature: Release Information
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 2b610cc3486b745212b0b1f36018a83214d7ecd7
 workflow-type: tm+mt
-source-wordcount: '255'
+source-wordcount: '260'
 ht-degree: 0%
 
 ---
@@ -35,7 +35,7 @@ Sales Insight에서 테스트 이메일을 보내면 현재 이메일의 토큰�
 
 ## 리드 ReST API {#lead-rest-api}
 
-새로운 ReST API를 통해 프로그래밍 방식으로 리드를 만들고, 읽고, 업데이트합니다. ReST를 시작하려면 다음을 수행해야 합니다 [사용자 정의 서비스 만들기](/help/marketo/product-docs/administration/additional-integrations/create-a-custom-service-for-use-with-rest-api.md) Marketo. 그런 다음 로 이동합니다. [개발자 사이트](https://developers.marketo.com/documentation/rest/) 이 API 사용에 대한 자세한 내용.
+새로운 ReST API를 통해 프로그래밍 방식으로 리드를 만들고, 읽고, 업데이트합니다. ReST를 시작하려면 다음을 수행해야 합니다 [사용자 정의 서비스 만들기](/help/marketo/product-docs/administration/additional-integrations/create-a-custom-service-for-use-with-rest-api.md) Marketo. 그런 다음 로 이동합니다. [개발자 사이트](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/rest/rest-api/) 이 API 사용에 대한 자세한 내용.
 
 ## Marketo Real-Time Personalization (RTP) 캠페인 페이지 업데이트 {#marketo-real-time-personalization-rtp-campaigns-page-update}
 

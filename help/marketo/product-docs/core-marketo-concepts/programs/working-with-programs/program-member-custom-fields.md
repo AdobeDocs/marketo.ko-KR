@@ -4,9 +4,9 @@ description: 프로그램 멤버 사용자 정의 필드 - Marketo 문서 - 제�
 title: 프로그램 멤버 사용자 정의 필드
 exl-id: 66b5dac6-015f-4907-8c82-78c932102463
 feature: Programs
-source-git-commit: e49860ae611f2f77789bb491aeccbee46a911a2c
+source-git-commit: 2b610cc3486b745212b0b1f36018a83214d7ecd7
 workflow-type: tm+mt
-source-wordcount: '411'
+source-wordcount: '416'
 ht-degree: 1%
 
 ---
@@ -56,7 +56,7 @@ ht-degree: 1%
 
 ## 트리거 및 필터 {#triggers-and-filters}
 
-다음을 통해 스마트 목록에서 이 프로그램별 데이터를 활용할 수 있습니다. [트리거](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/creating-a-smart-campaign/define-smart-list-for-smart-campaign-trigger.md){target="_blank"} and/or [filters](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/creating-a-smart-list/find-and-add-filters-to-a-smart-list.md){target="_blank"}.
+다음을 통해 스마트 목록에서 이 프로그램별 데이터를 활용할 수 있습니다. [트리거](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/creating-a-smart-campaign/define-smart-list-for-smart-campaign-trigger.md){target="_blank"} 및/또는 [필터](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/creating-a-smart-list/find-and-add-filters-to-a-smart-list.md){target="_blank"}.
 
 ![](assets/six.png)
 
@@ -68,7 +68,7 @@ ht-degree: 1%
 * 프로그램 멤버 개체에는 최대 20개의 사용자 지정 필드가 있을 수 있습니다. 이들 필드는 모든 프로그램에서 사용할 수 있습니다.
 * 프로그램의 구성원을 제거할 때 프로그램 구성원 사용자 지정 필드에 데이터가 있으면 해당 필드에서 데이터가 스크러빙됩니다.
 * 데이터를 보려면 프로그램에서 멤버 탭을 클릭하고 해당 필드를 포함하는 사용자 지정 보기를 만듭니다.
-* 을 통해 가져오기 및 내보내기 [목록](/help/marketo/getting-started/quick-wins/import-a-list-of-people.md){target="_blank"} and [API](https://developers.marketo.com/){target="_blank"} 이 지원됩니다. 내보내기는 정적 목록이 아니라 프로그램 멤버 목록에서만 작동합니다.
+* 을 통해 가져오기 및 내보내기 [목록](/help/marketo/getting-started/quick-wins/import-a-list-of-people.md){target="_blank"} 및 [API](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/home){target="_blank"} 이 지원됩니다. 내보내기는 정적 목록이 아니라 프로그램 멤버 목록에서만 작동합니다.
 * 두 사람을 병합하면 우승자의 프로그램 멤버 사용자 정의 필드 데이터가 사용됩니다. 하지만 승자에게 없는 것이 있으면 패자의 값이 쓰인다.
 * 프로그램 구성원 정보 필드에는 유형 변경이 허용되지 않습니다.
 * &quot;포함&quot; 스마트 목록 제약 조건은 프로그램 멤버 사용자 정의 필드에 지원되지 않습니다.

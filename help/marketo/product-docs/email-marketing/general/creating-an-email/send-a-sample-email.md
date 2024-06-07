@@ -4,9 +4,9 @@ description: 샘플 이메일 보내기 - Marketo 문서 - 제품 설명서
 title: 샘플 이메일 보내기
 exl-id: b8f845e8-5c5e-463d-9d60-9c8103cec5ac
 feature: Email Editor
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 2b610cc3486b745212b0b1f36018a83214d7ecd7
 workflow-type: tm+mt
-source-wordcount: '323'
+source-wordcount: '321'
 ht-degree: 0%
 
 ---
@@ -56,7 +56,7 @@ ht-degree: 0%
 
    >[!NOTE]
    >
-   >트리거 필드는 을(를) 사용하는 경우에만 적용할 수 있습니다. [이메일 스크립팅](https://developers.marketo.com/documentation/velocity-script/).
+   >트리거 필드는 을(를) 사용하는 경우에만 적용할 수 있습니다. [이메일 스크립팅](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/email-scripting).
 
 ## 세그먼트를 기반으로 샘플 이메일 보내기 {#send-a-sample-email-based-on-a-segment}
 

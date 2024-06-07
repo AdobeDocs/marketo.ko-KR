@@ -4,9 +4,9 @@ description: 릴리스 노트 - 2015년 3월 - Marketo 문서 - 제품 설명서
 title: 릴리스 노트 - 2015년 3월
 exl-id: aa3c738a-2e5c-41c3-b1d7-95869dd10b02
 feature: Release Information
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 2b610cc3486b745212b0b1f36018a83214d7ecd7
 workflow-type: tm+mt
-source-wordcount: '300'
+source-wordcount: '301'
 ht-degree: 0%
 
 ---
@@ -37,9 +37,9 @@ Revenue Explorer에는 새로운 Sunburst 차트 유형과 함께 새로운 모�
 
 ## 새 자산 REST API {#new-asset-rest-apis}
 
-[새 자산 REST API](https://developers.marketo.com/)
+[새 자산 REST API](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/rest/assets/assets)
 
-이제 이메일, 템플릿, 내 토큰, 파일 및 코드 조각을 만들고 편집할 수 있습니다 [API를 통해](https://developers.marketo.com/documentation/asset-api)!
+이제 이메일, 템플릿, 내 토큰, 파일 및 코드 조각을 만들고 편집할 수 있습니다 [API를 통해](https://developer.adobe.com/marketo-apis/api/asset/)!
 
 ## Microsoft Dynamics 2015 온-프레미스 {#microsoft-dynamics-on-premise}
 

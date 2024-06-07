@@ -4,9 +4,9 @@ description: Webhook 호출 - Marketo 문서 - 제품 설명서
 title: Webhook 호출
 exl-id: b2f69502-e459-4277-9725-7bbb3578384f
 feature: Smart Campaigns
-source-git-commit: 9e51ece12742152040dbbcb6a1584fba28e863ff
+source-git-commit: 2b610cc3486b745212b0b1f36018a83214d7ecd7
 workflow-type: tm+mt
-source-wordcount: '79'
+source-wordcount: '76'
 ht-degree: 2%
 
 ---
@@ -25,7 +25,7 @@ Webhooks를 사용하면 서드파티 서비스와 상호 작용할 수 있습�
 
 >[!NOTE]
 >
->다음과 같은 많은 흥미로운 사항에 대해 알아보십시오. [웹훅](https://developers.marketo.com/documentation/webhooks/){target="_blank"} 당신을 위해 할 수 있습니다.
+>다음과 같은 많은 흥미로운 사항에 대해 알아보십시오. [웹훅](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/webhooks/webhooks){target="_blank"} 당신을 위해 할 수 있습니다.
 
 ## 사용량 {#usage}
 

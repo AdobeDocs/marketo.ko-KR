@@ -4,9 +4,9 @@ description: 릴리스 노트 - 16년 겨울 - Marketo 문서 - 제품 설명서
 title: 릴리스 정보 - 2016년 겨울
 exl-id: 1e3b9207-27fe-47b1-b709-1306ac57b93b
 feature: Release Information
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 2b610cc3486b745212b0b1f36018a83214d7ecd7
 workflow-type: tm+mt
-source-wordcount: '505'
+source-wordcount: '497'
 ht-degree: 0%
 
 ---
@@ -49,13 +49,13 @@ Microsoft Edge를 [브라우저 목록](https://docs.marketo.com/display/public/
 
 ## [모바일 마케팅 개선 사항](/help/marketo/product-docs/mobile-marketing/admin/add-a-mobile-app.md) {#mobile-marketing-enhancements}
 
-**PhoneGap 지원:** 이제 모바일 앱에 대한 PhoneGap 지원을 제공합니다. [자세히 알아보기](https://developers.marketo.com/documentation/mobile/phonegap-plugin/).
+**PhoneGap 지원:** 이제 모바일 앱에 대한 PhoneGap 지원을 제공합니다. [자세히 알아보기](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/mobile/phonegap).
 
 **샌드박스 앱 지원**:
 
 ![](assets/image2016-1-12-10-3a47-3a13.png)
 
-## [프로그램 API](https://developers.marketo.com/documentation/programs/) {#program-api}
+## [프로그램 API](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/rest/assets/programs) {#program-api}
 
 REST API를 통해 프로그램을 만들고, 업데이트하고, 복제합니다. 프로그램 내에서 스마트 목록과 스마트 캠페인을 만들거나 업데이트하는 것은 여기에 포함되지 않습니다.
 

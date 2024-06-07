@@ -2,7 +2,8 @@
 description: 릴리스 노트 - 2024년 1월 - Marketo 설명서 - 제품 설명서
 title: 릴리스 노트 - 2024년 1월
 feature: Release Information
-source-git-commit: 2967e2214b8f1988f8a8482569cbb041381b1b6b
+exl-id: 64e85f6c-b746-46b6-ab51-5ad1817396b2
+source-git-commit: 2b610cc3486b745212b0b1f36018a83214d7ecd7
 workflow-type: tm+mt
 source-wordcount: '782'
 ht-degree: 1%
@@ -191,7 +192,7 @@ ht-degree: 1%
 
 * **원클릭 목록 구독 취소 업데이트**: Gmail 및 Yahoo는 2024년 2월 1일부터 적용되는 새로운 발신자 요구 사항을 구현했습니다. 학습 [그것들이 무엇이며 여러분에게 어떤 영향을 미치는지](https://nation.marketo.com/t5/employee-blogs/update-support-for-one-click-list-unsubscribe-for-marketo/ba-p/344514#M352){target="_blank"}.
 
-* **잠재 고객 API 업데이트 동기화**: [잠재 고객 API 동기화](https://developers.marketo.com/rest-api/lead-database/leads/#create_and_update){target="_blank"}의 비헤이비어가 의 업데이트와 관련하여 약간 조정되었습니다. `unsubscribed` 필드. 이제, 지나가면 `null` 값은 다음 값을 전달하는 것과 같습니다. `false`.
+* **잠재 고객 API 업데이트 동기화**: [잠재 고객 API 동기화](https://developer.adobe.com/marketo-apis/api/mapi/#tag/Leads/operation/syncLeadUsingPOST){target="_blank"}의 비헤이비어가 의 업데이트와 관련하여 약간 조정되었습니다. `unsubscribed` 필드. 이제, 지나가면 `null` 값은 다음 값을 전달하는 것과 같습니다. `false`.
 
 * **Forms jQuery 1.x Marketo Engage**: 2024년 1월 릴리스에서는 Forms Marketo Engage에 대한 jQuery를 jQuery 3.x로 업데이트합니다. 이는 이전 버전의 jQuery에 의존하는 사용자 정의 양식 구현에 영향을 줄 수 있습니다. [여기에서 자세히 알아보기](https://nation.marketo.com/t5/product-blogs/marketo-engage-forms-amp-forms2-js-jquery-update/ba-p/341705){target="_blank"}.
 

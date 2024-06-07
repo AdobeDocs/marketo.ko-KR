@@ -4,9 +4,9 @@ description: 만들기 [!DNL Webhook] - Marketo 문서 - 제품 설명서
 title: 만들기 [!DNL Webhook]
 exl-id: 3e753d2d-6f33-4987-884e-8e13167cf3df
 feature: Administration, Webhooks
-source-git-commit: 2671f81f62658447e4b2a3dc2e02a4e0927443e8
+source-git-commit: 2b610cc3486b745212b0b1f36018a83214d7ecd7
 workflow-type: tm+mt
-source-wordcount: '221'
+source-wordcount: '218'
 ht-degree: 0%
 
 ---
@@ -49,10 +49,10 @@ ht-degree: 0%
 
    * **[!UICONTROL 요청 유형]**: 사용할 HTTP 메서드(DELETE, GET, PATCH, POST, PUT)를 선택합니다.
 
-1. Click **[!UICONTROL Create]**.
+1. 클릭 **[!UICONTROL 만들기]**.
 
    ![](assets/create-a-webhook-5.png)
 
 >[!NOTE]
 >
->다음에서 자세히 알아보기 [[!DNL Webhooks]](https://developers.marketo.com/documentation/webhooks/){target="_blank"} 깊이 잠수해.
+>다음에서 자세히 알아보기 [[!DNL Webhooks]](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/webhooks/webhooks){target="_blank"} 깊이 잠수해.

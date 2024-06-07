@@ -4,9 +4,9 @@ description: 릴리스 노트 - 2013년 10월 - Marketo 설명서 - 제품 설�
 title: 릴리스 노트 - 2013년 10월
 exl-id: f392521e-a5bd-47cd-af5c-d801718ca4e0
 feature: Release Information
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 2b610cc3486b745212b0b1f36018a83214d7ecd7
 workflow-type: tm+mt
-source-wordcount: '146'
+source-wordcount: '138'
 ht-degree: 0%
 
 ---
@@ -21,7 +21,7 @@ ht-degree: 0%
 
 ## developers.marketo.com {#developers-marketo-com}
 
-[Developers.marketo.com](https://developers.marketo.com) 는 Marketo에 통합을 빌드하려는 개발자를 위한 것입니다. Munchkin JavaScript API, SOAP API 코드 예, 웹후크 및 이메일 스크립팅을 비롯한 다양한 통합 옵션을 참조할 수 있습니다. Java SDK는에서 사용할 수도 있습니다. [GitHub](https://github.com/Marketo/SOAP-API-Java-Client).
+[Developer.adobe.com](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/home) 는 Marketo에 통합을 빌드하려는 개발자를 위한 것입니다. Munchkin JavaScript API, SOAP API 코드 예, 웹후크 및 이메일 스크립팅을 비롯한 다양한 통합 옵션을 참조할 수 있습니다. Java SDK는에서 사용할 수도 있습니다. [GitHub](https://github.com/Marketo/SOAP-API-Java-Client).
 
 ## 업데이트된 BrightTALK 이벤트 어댑터 {#updated-brighttalk-event-adapter}
 

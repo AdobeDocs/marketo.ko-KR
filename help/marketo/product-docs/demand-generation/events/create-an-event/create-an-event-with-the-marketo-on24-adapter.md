@@ -4,7 +4,7 @@ description: Marketo ON24 어댑터 - Marketo 문서 - 제품 설명서를 사�
 title: Marketo ON24 어댑터를 사용하여 이벤트 만들기
 exl-id: a240ff72-b12f-4e3a-8e14-94fddb02f944
 feature: Events
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 2b610cc3486b745212b0b1f36018a83214d7ecd7
 workflow-type: tm+mt
 source-wordcount: '284'
 ht-degree: 0%
@@ -18,13 +18,13 @@ Marketo에서 이벤트를 만드는 데 권장되는 구성 요소 및 시퀀�
 * [Marketo 프로그램](/help/marketo/product-docs/core-marketo-concepts/programs/creating-programs/understanding-programs.md){target="_blank"} 이벤트 및 두 이벤트 간의 차이점
 * [채널](/help/marketo/product-docs/administration/tags/create-a-program-channel.md){target="_blank"}
 * [로컬 자산](/help/marketo/product-docs/core-marketo-concepts/programs/creating-programs/understanding-local-assets-in-a-program.md){target="_blank"}
-* [하위 캠페인](/help/marketo/product-docs/demand-generation/events/create-an-event/create-an-event-with-the-marketo-on24-adapter/configure-event-settings-and-sync-marketo-with-your-webinar.md){target="_blank"} and [Program Statuses](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/program-flow-actions/change-program-status.md){target="_blank"}
+* [하위 캠페인](/help/marketo/product-docs/demand-generation/events/create-an-event/create-an-event-with-the-marketo-on24-adapter/configure-event-settings-and-sync-marketo-with-your-webinar.md){target="_blank"} 및 [프로그램 상태](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/program-flow-actions/change-program-status.md){target="_blank"}
 
 >[!NOTE]
 >
->다음을 참조하십시오. [Marketo API 설명서](https://developers.marketo.com/documentation/rest/){target="_blank"} Marketo API에 대한 자세한 내용은
+>다음을 참조하십시오. [Marketo API 설명서](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/rest/rest-api){target="_blank"} Marketo API에 대한 자세한 내용은
 
-## 전제 조건 {#prerequisites}
+## 필요 조건 {#prerequisites}
 
 Marketo ON24 통합을 사용하려면 다음이 필요합니다.
 

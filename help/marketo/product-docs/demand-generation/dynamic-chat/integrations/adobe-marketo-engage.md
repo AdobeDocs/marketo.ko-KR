@@ -3,7 +3,7 @@ description: Adobe Marketo Engage - Marketo 문서 - 제품 설명서
 title: Adobe Marketo Engage
 feature: Dynamic Chat
 exl-id: 9ce43de3-0503-4894-89f2-ee24e7df9a73
-source-git-commit: f5f93a993d5b13c1fda0b31172393eff0bc65fd4
+source-git-commit: 2b610cc3486b745212b0b1f36018a83214d7ecd7
 workflow-type: tm+mt
 source-wordcount: '273'
 ht-degree: 2%
@@ -18,7 +18,7 @@ ht-degree: 2%
 
 >[!NOTE]
 >
->Dynamic Chat에서 동기화 지원 [Marketo 네이티브](https://developers.marketo.com/rest-api/lead-database/fields/list-of-standard-fields/){target="_blank"} 사용자 정의 개인 필드 및 회사 필드.
+>Dynamic Chat에서 동기화 지원 [Marketo 네이티브](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/rest/lead-database/field-types){target="_blank"} 사용자 정의 개인 필드 및 회사 필드.
 
 1. 내 Marketo에서 **[!UICONTROL Dynamic Chat]** 타일.
 

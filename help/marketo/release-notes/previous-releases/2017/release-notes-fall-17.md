@@ -4,9 +4,9 @@ description: 릴리스 노트 - 17년 가을 - Marketo 문서 - 제품 설명서
 title: 릴리스 노트 - 2017년 가을
 exl-id: 329022e6-f388-4ff9-9724-62aeed76c0b9
 feature: Release Information
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 2b610cc3486b745212b0b1f36018a83214d7ecd7
 workflow-type: tm+mt
-source-wordcount: '597'
+source-wordcount: '588'
 ht-degree: 0%
 
 ---
@@ -37,7 +37,7 @@ Marketo 및 Salesforce에서 더 풍부하고 빠른 동기화를 활용할 수 
 
 >[!NOTE]
 >
->아직 이메일 및 참여 프로그램에서 수신자 시간대를 활성화할 수 없는 경우 당황하지 마십시오! 모든 고객에게 이 기능을 점차 활성화하고 있습니다.
+>아직 이메일 및 참여 프로그램에서 수신자 시간대를 활성화할 수 없다면 당황하지 마십시오! 모든 고객에게 이 기능을 점차 활성화하고 있습니다.
 
 ## [세그먼트별 샘플 이메일 검토](/help/marketo/product-docs/email-marketing/general/creating-an-email/send-a-sample-email.md) {#review-sample-emails-by-segment}
 
@@ -58,7 +58,7 @@ linkedIn 리드 세대 양식을 사용자 정의하여 사용자 정의 리드 
 
 **[연락처가 없는 계정 표시](https://docs.marketo.com/x/fKCt)**
 
-이제 Marketo ABM이 동기화되어 연락처 없이 CRM 계정을 표시합니다. 이전 영업 또는 마케팅 기록이 없는 새 계정을 포함하고 후속 리드를 계정에 대응시켜 진행 상황을 추적합니다.
+이제 Marketo ABM이 동기화되어 연락처 없이 CRM 계정을 표시합니다. 이전 판매 또는 마케팅 기록이 없는 새 계정을 포함하고 후속 리드를 계정에 대응시켜 진행 상황을 추적합니다.
 
 ## ContentAI 분석 {#contentai-analytics}
 
@@ -86,10 +86,10 @@ Marketo 내의 여러 채널에서 크리에이티브 에셋 및 이미지를 �
 
 ## 통합  {#integration}
 
-**[이메일 미리보기 API](https://developers.marketo.com/rest-api/assets/emails/)**
+**[이메일 미리보기 API](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/email-scripting)**
 
 이제 Marketo 외부에서 이메일을 원격으로 미리 볼 수 있으므로 이메일 콘텐츠 현지화 프로세스를 단순화하고 오류를 줄일 수 있습니다.
 
-**[HTML API 바꾸기](https://developers.marketo.com/rest-api/assets/emails/)**
+**[HTML API 바꾸기](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/email-scripting)**
 
 개발자는 원격으로 이메일 에셋의 HTML 콘텐츠를 업데이트하여 단일 시스템 내에서 작업하여 에셋을 유지 관리할 수 있습니다.

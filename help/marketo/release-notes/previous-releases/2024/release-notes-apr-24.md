@@ -2,9 +2,10 @@
 description: 릴리스 노트 - 2024년 4월 - Marketo 설명서 - 제품 설명서
 title: 릴리스 노트 - 2024년 4월
 feature: Release Information
-source-git-commit: 94ca714d038863ad801551960c66086ea47e6b10
+exl-id: d87474f8-fc47-407b-bc97-e343b56c1f8f
+source-git-commit: 2b610cc3486b745212b0b1f36018a83214d7ecd7
 workflow-type: tm+mt
-source-wordcount: '430'
+source-wordcount: '447'
 ht-degree: 0%
 
 ---
@@ -73,7 +74,7 @@ Adobe Dynamic Chat에 대한 릴리스 노트 [은(는) 여기에서 찾을 수 
 
 ## 공지 {#announcements}
 
-* **활동 API 업데이트**: 4월 26일부터 를 사용하여 활동을 검색할 때 반환되는 웹 기반 및 이메일 기반 활동에 몇 가지 새로운 속성을 추가합니다. [MARKETO REST API](https://developers.marketo.com/rest-api/lead-database/activities/){target="_blank"}. The activities listed below will now include Browser, Platform, Device, and User Agent attributes. Call the [Get Activity Types](https://developers.marketo.com/rest-api/endpoint-reference/lead-database-endpoint-reference/#!/Activities/getAllActivityTypesUsingGET){target="_blank"} 각 활동에 대한 속성 세부 사항을 검토할 종단점입니다.
+* **활동 API 업데이트**: 4월 26일부터 를 사용하여 활동을 검색할 때 반환되는 웹 기반 및 이메일 기반 활동에 몇 가지 새로운 속성을 추가합니다. [MARKETO REST API](https://developer.adobe.com/marketo-apis/api/mapi/#tag/Activities){target="_blank"}. 아래 나열된 활동에는 이제 브라우저, 플랫폼, 장치 및 사용자 에이전트 속성이 포함됩니다. 호출 [활동 유형 가져오기](https://developer.adobe.com/marketo-apis/api/mapi/#tag/Activities/operation/getAllActivityTypesUsingGET){target="_blank"} 각 활동에 대한 속성 세부 사항을 검토할 종단점입니다.
 
 **웹 기반 활동**
 

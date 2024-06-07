@@ -4,7 +4,7 @@ description: 릴리스 노트 - 2015년 7월 - Marketo 설명서 - 제품 설명
 title: 릴리스 노트 - 2015년 7월
 exl-id: d7658718-27fd-4699-8fac-c30a59802dfd
 feature: Release Information
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 2b610cc3486b745212b0b1f36018a83214d7ecd7
 workflow-type: tm+mt
 source-wordcount: '286'
 ht-degree: 0%
@@ -15,7 +15,7 @@ ht-degree: 0%
 
 ## Marketo 모먼츠 {#marketo-moments}
 
-점심에 나가는데 이메일 일정을 조정해야 하나요? App Store 또는 Google Play에서 사용할 수 있는 Marketo 모먼트 앱은 이메일 및 이벤트 캠페인이 실시간으로 어떻게 작동하는지, iPhone, iPad 또는 Android 휴대폰에서 미래에 어떤 일이 발생하는지 확인할 수 있는 기능을 제공합니다.
+점심에 나가는데 이메일 일정을 조정해야 하나요? App Store 또는 Google Play에서 사용할 수 있는 Marketo 모먼트 앱은 이메일 및 이벤트 캠페인이 실시간으로 어떻게 작동하는지, 그리고 iPhone, iPad 또는 Android 휴대폰에서 미래에 어떤 일이 발생하는지 확인할 수 있는 기능을 제공합니다.
 
 ![](assets/image2015-7-10-9-3a42-3a29.png)
 
@@ -50,7 +50,7 @@ ht-degree: 0%
 
 **REST API를 통한 회사 개체 액세스**: 이제 REST API는 Marketo 회사(계정)에 대한 액세스를 제공합니다. 즉, Marketo에서 만든 회사 오브젝트를 읽고, 업데이트하고, 삭제하고, 업데이트된 리드 API를 사용하여 리드를 해당 회사와 연결할 수 있습니다.
 
-학습 [기타](https://developers.marketo.com/documentation/company-api/) 회사 API에 대한 참조 안내서에서 다음을 참조하십시오.
+학습 [기타]https://developer.adobe.com/marketo-apis/api/mapi/#tag/Companies)을 참조하십시오.
 
 ## 이메일 전달성 액세스 {#access-email-deliverability}
 

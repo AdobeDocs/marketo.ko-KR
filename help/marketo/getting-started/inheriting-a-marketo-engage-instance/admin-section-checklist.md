@@ -3,7 +3,7 @@ description: 상속된 인스턴스 관리 검사 목록 - Marketo 문서 - 제�
 title: 상속된 인스턴스 관리 검사 목록
 feature: Getting Started
 exl-id: 088f3ce9-bf3d-4323-9cde-c39fec06c20e
-source-git-commit: 2c74c71c9311312f7e0991ed5598ccb09a9b1f15
+source-git-commit: 2b610cc3486b745212b0b1f36018a83214d7ecd7
 workflow-type: tm+mt
 source-wordcount: '1858'
 ht-degree: 1%
@@ -281,7 +281,7 @@ ht-degree: 1%
    <td>먼치킨</td> 
    <td><li>본인 <a href="/help/marketo/product-docs/administration/additional-integrations/add-munchkin-tracking-code-to-your-website.md" target="_blank">Munchkin 추적 코드</a> (Marketo Engage 랜딩 페이지 아님)?</li>
 <li>다음 값: <a href="/help/marketo/product-docs/administration/settings/edit-do-not-track-browser-support-settings.md" target="_blank">추적 안 함</a> 브라우저 요청이 활성화되었습니까?</li>
-<li>본인 <a href="https://developers.marketo.com/javascript-api/lead-tracking/" target="_blank">Munchkin API</a> 구성됨? 
+<li>본인 <a href="https://experienceleague.adobe.com/docs/marketo-developer/marketo/javascriptapi/lead-tracking.html" target="_blank">Munchkin API</a> 구성됨? 
 <p><img src="assets/tip-icon.png" alt="팁 아이콘">팁: 웹 사이트에서 munchkin 코드가 있는 위치에 대한 설명서가 없는 경우 <a href="/help/marketo/product-docs/reporting/basic-reporting/report-types/web-page-activity-report.md" target="_blank">웹 페이지 활동 보고서</a>.</li></td>
   </tr>
   <tr> 

@@ -3,9 +3,9 @@ description: 릴리스 노트 - 2022년 10월 - Marketo 설명서 - 제품 설�
 title: 릴리스 노트 - 2022년 10월
 exl-id: 1494b8b9-049c-4969-ab95-a4be41d886b0
 feature: Release Information
-source-git-commit: 206952c2aaa9b568a9312def6d36b15f699791b3
+source-git-commit: 2b610cc3486b745212b0b1f36018a83214d7ecd7
 workflow-type: tm+mt
-source-wordcount: '600'
+source-wordcount: '603'
 ht-degree: 2%
 
 ---
@@ -116,7 +116,7 @@ ht-degree: 2%
   </tr>
   <tr> 
    <td>배송됨</td>
-   <td><a href="https://developers.marketo.com/rest-api/bulk-import/bulk-lead-import/">벌크 리드 가져오기</a></td>
+   <td><a href="https://developer.adobe.com/marketo-apis/api/mapi/#tag/Bulk-Import-Leads">벌크 리드 가져오기</a></td>
   </tr>
   </tbody>
 </table>

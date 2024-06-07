@@ -4,7 +4,7 @@ description: 릴리스 노트 - 1818년 겨울 - Marketo 문서 - 제품 설명�
 title: 릴리스 정보 - 2018년 겨울
 exl-id: f08bdc91-86d3-4ea2-a74a-1398ed525bbb
 feature: Release Information
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 2b610cc3486b745212b0b1f36018a83214d7ecd7
 workflow-type: tm+mt
 source-wordcount: '598'
 ht-degree: 0%
@@ -87,7 +87,7 @@ Marketo의 최적화된 ContentAI 알고리즘을 통해 권장되는 콘텐츠�
 
 ## 통합 {#integration}
 
-**[Campaign API 활성화/비활성화](https://developers.marketo.com/rest-api/assets/smart-campaigns/)**
+**[Campaign API 활성화/비활성화](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/rest/assets/smart-campaigns)**
 
 이 새 API를 사용하면 트리거 캠페인을 원격으로 활성화 및 비활성화할 수 있으므로 이제 완전히 자동화된 프로그램 템플릿을 만들 수 있습니다. 프로그램 템플릿을 한 번 만든 다음 복제, 마케팅 자료 업데이트 및 이제 스마트 캠페인의 활성화/일정을 자동화합니다.
 

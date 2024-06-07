@@ -4,9 +4,9 @@ description: 릴리스 노트 - 2014년 12월 - Marketo 설명서 - 제품 설�
 title: 릴리스 노트 - 2014년 12월
 exl-id: b4dd365d-a2a2-416e-a226-5515203a41f8
 feature: Release Information
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 2b610cc3486b745212b0b1f36018a83214d7ecd7
 workflow-type: tm+mt
-source-wordcount: '471'
+source-wordcount: '477'
 ht-degree: 0%
 
 ---
@@ -53,7 +53,7 @@ Marketo 관리자가 추가되면 [관리자 > Launchpoint를 통한 facebook](/
 
 ## 토큰 인코딩 설정 {#token-encoding-setting}
 
-2015년 3월에 기본적으로 활성화되는 인코딩 토큰을 자동으로 HTML 지정하는 새로운 보안 기능이 출시되었습니다. 그때까지 필드 관리에서 이 기능을 전환하여 미리 동작을 테스트하십시오. 모든 리드 및 회사 토큰은 이메일 또는 랜딩 페이지에 삽입되면 인코딩됩니다. 옵션은 개별 필드에도 사용할 수 있습니다.
+인코딩 토큰을 자동으로 HTML 지정하는 새로운 보안 기능이 출시되었습니다. 이 기능은 2015년 3월에 기본적으로 활성화됩니다. 그때까지 필드 관리에서 이 기능을 전환하여 미리 동작을 테스트하십시오. 모든 리드 및 회사 토큰은 이메일 또는 랜딩 페이지에 삽입되면 인코딩됩니다. 옵션은 개별 필드에도 사용할 수 있습니다.
 
 ## 새 ReST API 호출 {#new-rest-api-calls}
 
@@ -65,7 +65,7 @@ Marketo 관리자가 추가되면 [관리자 > Launchpoint를 통한 facebook](/
 
 · 잠재 고객 병합
 
-전체 세부 정보는 릴리스 이후에서 사용할 수 있습니다. [developers.marketo.com](https://developers.marketo.com/)
+전체 세부 정보는 릴리스 이후에서 사용할 수 있습니다. [https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/home](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/home)
 
 ## Munchkin Javascript 호환성 개선 사항 {#munchkin-javascript-compatibility-enhancements}
 
@@ -83,7 +83,7 @@ Marketo 관리자가 추가되면 [관리자 > Launchpoint를 통한 facebook](/
 
 ## RTP: 명명된 계정 목록 모듈 {#rtp-named-account-list-module}
 
-새 명명된 계정 페이지에서 주요 고수익 계정을 관리하고 모니터링합니다. 명명 계정의 새 목록을 업로드하여 이러한 조직을 식별하고 타겟팅합니다. 계정 기반 마케팅 계획을 구현하고 다양한 채널(웹 및 광고)에서 주요 계정을 타깃팅할 수 있도록 더 많은 제어와 유연성을 제공하는 프로세스를 자동화했습니다.
+새 명명된 계정 페이지에서 주요 고수익 계정을 관리하고 모니터링합니다. 명명 계정의 새 목록을 업로드하여 이러한 조직을 식별하고 타겟팅합니다. Dell은 고객 기반 마케팅 계획을 구현하고 다양한 채널(웹 및 광고)에서 주요 고객을 타깃팅할 수 있도록 더욱 세밀한 제어와 유연성을 제공하는 프로세스를 자동화했습니다.
 
 ![](assets/image2014-12-5-11-3a8-3a56.png)
 

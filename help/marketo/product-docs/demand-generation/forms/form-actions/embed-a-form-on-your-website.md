@@ -4,9 +4,9 @@ description: 웹 사이트에 양식 포함 - Marketo 문서 - 제품 설명서
 title: 웹 사이트에 양식 포함
 exl-id: ead46100-7af8-48fe-a37f-74e5bdc4328c
 feature: Forms
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 2b610cc3486b745212b0b1f36018a83214d7ecd7
 workflow-type: tm+mt
-source-wordcount: '213'
+source-wordcount: '210'
 ht-degree: 0%
 
 ---
@@ -47,6 +47,6 @@ Marketo을 사용하면 자신의 웹 사이트에 양식을 임베드할 수 �
 
 >[!NOTE]
 >
->개발자가 디자인을 사용자 정의하거나 고급 API 기능에 액세스하려는 경우 [Forms 2.0 개발자 페이지](https://developers.marketo.com/documentation/websites/forms-2-0/).
+>개발자가 디자인을 사용자 정의하거나 고급 API 기능에 액세스하려는 경우 [Forms 2.0 개발자 페이지](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/javascriptapi/forms-api-reference).
 
-잘했어! 다음 중 하나를 선택하십시오. [lightbox 코드를 포함할 포함 코드](/help/marketo/product-docs/demand-generation/forms/form-actions/use-a-form-in-a-lightbox.md)? 그것도 쉬워!
+좋습니다! 다음 중 하나를 선택하십시오. [lightbox 코드를 포함할 포함 코드](/help/marketo/product-docs/demand-generation/forms/form-actions/use-a-form-in-a-lightbox.md)? 그것도 쉬워!

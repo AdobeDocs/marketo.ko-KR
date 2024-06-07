@@ -4,9 +4,9 @@ description: 릴리스 노트 - 2017년 봄 - Marketo 문서 - 제품 설명서
 title: 릴리스 노트 - 2017년 봄
 exl-id: 61873d1f-41dd-4f5c-94d0-65f0bcacff75
 feature: Release Information
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 2b610cc3486b745212b0b1f36018a83214d7ecd7
 workflow-type: tm+mt
-source-wordcount: '671'
+source-wordcount: '659'
 ht-degree: 0%
 
 ---
@@ -19,7 +19,7 @@ ht-degree: 0%
 
 ## [LinkedIn 리드 젠 Forms](/help/marketo/product-docs/demand-generation/social/social-functions/set-up-linkedin-lead-gen-forms.md) {#linkedin-lead-gen-forms}
 
-[LinkedIn 리드 젠 Forms](https://business.linkedin.com/marketing-solutions/native-advertising/lead-gen-ads) 는 비즈니스에서 LinkedIn에서 리드 생성 캠페인을 실행하는 더 직접적인 방법입니다. 사람들은 제품이나 서비스에 관심을 표현하기 위한 양식을 작성할 수 있으며, 이를 통해 기업은 개인의 세부 정보를 캡처하고 이를 Marketo에 동기화하여 자동화된 후속 프로세스 및 잠재 고객 라우팅 활동이 발생할 수 있습니다.
+[LinkedIn 리드 젠 Forms](https://business.linkedin.com/marketing-solutions/native-advertising/lead-gen-ads) 는 비즈니스에서 LinkedIn에서 리드 생성 캠페인을 실행하는 더 직접적인 방법입니다. 사람들은 제품이나 서비스에 관심을 표현하기 위해 양식을 작성할 수 있으며, 이를 통해 기업은 개인의 세부 정보를 캡처하고 이를 Marketo에 동기화하여 자동화된 후속 프로세스 및 잠재 고객 라우팅 활동이 발생할 수 있습니다.
 
 linkedIn Lead Gen Forms과 Marketo 통합은 Lead Gen 양식에서 Lead 가 제공하는 정보를 자동으로 캡처합니다. 그런 다음 새로운 기능을 사용하여 후속 작업 및 알림을 자동화할 수 있습니다. **linkedIn Lead Gen 양식 작성** 트리거 및 필터링.
 
@@ -35,7 +35,7 @@ Sales Insight에서 오래된 템플릿을 정리하던 시대는 지났습니�
 
 ![](assets/four-281-29.png)
 
-## [사용자 및 활동에 대한 API 벌크 추출](https://developers.marketo.com/rest-api/bulk-extract/) {#bulk-extract-apis-for-people-and-activities}
+## [사용자 및 활동에 대한 API 벌크 추출](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/rest/bulk-extract/bulk-extract) {#bulk-extract-apis-for-people-and-activities}
 
 대량의 개인 및 활동 데이터를 Marketo에서 외부 시스템으로 쉽게 전송할 수 있습니다.
 
@@ -49,7 +49,7 @@ Sales Insight에서 오래된 템플릿을 정리하던 시대는 지났습니�
 
 명명 계정 점수는 크게 다를 수 있습니다. 이제 Marketo ABM에서 각 점수에 대해 백분위수를 자동으로 계산하므로 각 명명 계정이 다른 명명 계정 중 어디에 속하는지 한 눈에 볼 수 있습니다.
 
-**[ABM 계정 목록 API](https://developers.marketo.com/rest-api/lead-database/named-account-lists/)**
+**[ABM 계정 목록 API](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/rest/lead-database/named-account-lists)**
 
 명명된 계정 목록에 대한 향상된 API 지원과 함께 풍부하고 강력한 ABM 파트너 통합을 활용하십시오.
 
@@ -67,7 +67,7 @@ Sales Insight에서 오래된 템플릿을 정리하던 시대는 지났습니�
 
 **[종료 의도 시 웹 캠페인](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/set-how-your-web-campaign-displays.md)**
 
-페이지를 닫기 전에 방문자의 관심을 사로잡습니다. 마우스 제스처로 방문자가 페이지를 떠난다는 것을 나타낼 때만 개인 맞춤화된 웹 캠페인을 표시하도록 설정하십시오.
+방문자가 페이지를 닫기 전에 방문자의 관심을 사로잡습니다. 마우스 제스처로 방문자가 페이지를 떠난다는 것을 나타낼 때만 개인 맞춤화된 웹 캠페인을 표시하도록 설정하십시오.
 
 **[웹 캠페인에 대한 애니메이션 효과](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/create-a-new-dialog-web-campaign.md)**
 

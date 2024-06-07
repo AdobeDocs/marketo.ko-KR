@@ -3,7 +3,7 @@ description: Adobe Experience Platform 세그먼트를 Marketo 정적 목록에 
 title: Adobe Experience Platform 세그먼트를 Marketo 정적 목록에 푸시
 exl-id: 8df11bf4-06f4-4927-8dfb-954414fce6dc
 feature: Static Lists
-source-git-commit: 208ba59e3a5cb8e613e887b4c89e51cec4b3f897
+source-git-commit: 2b610cc3486b745212b0b1f36018a83214d7ecd7
 workflow-type: tm+mt
 source-wordcount: '658'
 ht-degree: 0%
@@ -100,7 +100,7 @@ ht-degree: 0%
 
    >[!NOTE]
    >
-   >Experience Platform의 속성을 Marketo Engage에서 조직이 액세스할 수 있는 속성에 매핑할 수 있습니다. 사용 [API 요청 설명](https://developers.marketo.com/rest-api/lead-database/leads/#describe){target="_blank"} 조직에서 액세스할 수 있는 속성 필드를 검색합니다.
+   >Experience Platform의 속성을 Marketo Engage에서 조직이 액세스할 수 있는 속성에 매핑할 수 있습니다. 사용 [API 요청 설명](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/rest/lead-database/lead-database#describe){target="_blank"} 조직에서 액세스할 수 있는 속성 필드를 검색합니다.
 
 1. 을 클릭하여 성 및 회사 이름 매핑 **[!UICONTROL 새 매핑 추가]** 다시 한 번 15단계를 두 번 반복하여 **[!UICONTROL 성]** 그런 다음 **[!UICONTROL companyName]**.
 
@@ -142,7 +142,7 @@ ht-degree: 0%
 
    ![](assets/push-an-adobe-experience-platform-segment-24.png)
 
-1. **[!UICONTROL 다음]**&#x200B;을 클릭합니다.
+1. 클릭 **[!UICONTROL 다음]**.
 
    ![](assets/push-an-adobe-experience-platform-segment-25.png)
 

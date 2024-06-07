@@ -3,16 +3,16 @@ description: 벌크 내보내기 API 정보 - Marketo 문서 - 제품 설명서
 title: 일괄 내보내기 API 정보
 exl-id: 527c446b-d5d1-458a-bc4d-d4eb53339ed6
 feature: Administration
-source-git-commit: 02b2e39580c5eac63de4b4b7fdaf2a835fdd4ba5
+source-git-commit: 2b610cc3486b745212b0b1f36018a83214d7ecd7
 workflow-type: tm+mt
-source-wordcount: '98'
+source-wordcount: '97'
 ht-degree: 0%
 
 ---
 
 # 일괄 내보내기 API 정보 {#bulk-export-api-information}
 
-양을 확인하는 방법 알아보기 [대량 추출 API](https://developers.marketo.com/rest-api/bulk-extract/){target="_blank"} 지난 7일 동안 Marketo Engage 인스턴스에서 용량을 차지했습니다.
+양을 확인하는 방법 알아보기 [대량 추출 API](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/rest/bulk-extract/bulk-extract){target="_blank"} 지난 7일 동안 Marketo Engage 인스턴스에서 용량을 차지했습니다.
 
 >[!NOTE]
 >

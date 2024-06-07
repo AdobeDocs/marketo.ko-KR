@@ -4,7 +4,7 @@ description: 릴리스 노트 - 2018년 봄 - Marketo 문서 - 제품 설명서
 title: 릴리스 노트 - 2018년 봄
 exl-id: 59bab3a9-12b3-4c87-b035-a7cde63ada1e
 feature: Release Information
-source-git-commit: 9725758f46fcabb96572d7ae14cedabc29b2ce60
+source-git-commit: 2b610cc3486b745212b0b1f36018a83214d7ecd7
 workflow-type: tm+mt
 source-wordcount: '466'
 ht-degree: 0%
@@ -77,12 +77,12 @@ Marketo Sky 오픈 Beta에 옵트인하여 다음을 포함한 100개 이상의 
 
 ## 통합 및 API {#integration-and-apis}
 
-[정적 목록 API](https://developers.marketo.com/rest-api/assets/static-lists/)
+[정적 목록 API](https://developer.adobe.com/marketo-apis/api/mapi/#tag/Static-Lists)
 
 Marketo UI에서 아무런 조치를 취하지 않고 정적 목록을 생성, 읽기, 업데이트 및 삭제하기 위한 새로운 양방향 API를 사용하여 Marketo과 다른 시스템 간의 목록을 보다 쉽게 관리할 수 있습니다.
 
 ## 개인 정보 보호 개선 사항 {#privacy-enhancements}
 
-[웹 추적 개인 정보](https://developers.marketo.com/javascript-api/lead-tracking/)
+[웹 추적 개인 정보](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/javascriptapi/lead-tracking)
 
 향상된 Munchkin 추적은 웹 방문자의 IP 주소를 익명화하고 웹 추적을 영구적으로 옵트아웃할 수 있도록 하여 로컬 및 국제 개인정보 보호 규정을 준수합니다.

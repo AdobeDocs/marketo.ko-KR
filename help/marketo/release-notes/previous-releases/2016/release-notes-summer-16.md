@@ -4,7 +4,7 @@ description: 릴리스 노트 - 2016년 여름 - Marketo 문서 - 제품 설명�
 title: 릴리스 노트 - 2016년 여름
 exl-id: 3843668e-c729-42aa-b05c-55c33ee0d783
 feature: Release Information
-source-git-commit: 5e2d1979abcafd8e4a37e55b843be932125c954e
+source-git-commit: 2b610cc3486b745212b0b1f36018a83214d7ecd7
 workflow-type: tm+mt
 source-wordcount: '783'
 ht-degree: 0%
@@ -53,7 +53,7 @@ Marketo 내에서 SMS 메시지를 쉽게 만들 수 있습니다. 풍부한 Mar
 
 **모듈 수준 변수**
 
-이전에는 이메일 2.0 템플릿에 지정된 모든 변수가 범위에서 &quot;전역&quot;이었습니다. 모듈 내에서 변수를 사용할 때 모듈의 여러 인스턴스를 사용하려는 경우 이 방법이 항상 바람직한 것은 아닙니다. 이번 릴리스에서는 변수를 &quot;모듈 수준&quot;으로 지정할 수 있으므로 사용자가 사용한 각 모듈에 대해 고유한 값을 설정할 수 있음을 나타낼 수 있습니다.
+이전에는 전자 메일 2.0 템플릿에 지정된 모든 변수가 범위에서 &quot;전역&quot;이었습니다. 모듈 내에서 변수를 사용할 때 모듈의 여러 인스턴스를 사용하려는 경우 이 방법이 항상 바람직한 것은 아닙니다. 이번 릴리스에서는 변수를 &quot;모듈 수준&quot;으로 지정할 수 있으므로 사용자가 사용하는 각 모듈에 대해 고유한 값을 설정할 수 있음을 나타낼 수 있습니다.
 
 ![](assets/module-level-variables.png)
 
@@ -70,11 +70,11 @@ Marketo 내에서 SMS 메시지를 쉽게 만들 수 있습니다. 풍부한 Mar
 
 **이미지 요소에서 토큰 지원**
 
-이제 삽입 이미지 경험의 &quot;외부 URL&quot; 영역에서 토큰을 사용할 수 있습니다! 을 사용하여 이미지를 지정한 경우 `{{my.tokens}}`, 이제 이메일 편집기 2.0 내에서 이러한 토큰을 참조할 수 있습니다. 이미지는 이메일 편집기 2.0 캔버스에서 계속 끊어진 상태로 표시됩니다. 그러나 이메일을 보내기 전에 미리 보기 및 샘플 보내기 내에서 렌더링된 메시지가 표시됩니다.
+이제 삽입 이미지 경험의 &quot;외부 URL&quot; 영역에서 토큰을 사용할 수 있습니다! 다음으로 이미지를 지정한 경우 `{{my.tokens}}`, 이제 이메일 편집기 2.0 내에서 이러한 토큰을 참조할 수 있습니다. 이미지는 이메일 편집기 2.0 캔버스에서 계속 끊어진 상태로 표시됩니다. 그러나 이메일을 보내기 전에 미리 보기 및 샘플 보내기 내에서 렌더링된 메시지가 표시됩니다.
 
 ## 여러 브랜딩 도메인 {#multiple-branding-domains}
 
-이메일 추적 링크를 단일 브랜딩 도메인으로만 브랜딩할 수 있던 시대는 지났습니다. 이제 여러 브랜딩 도메인을 추가하여 소비자의 신뢰를 고취시키고 브랜드에 집중할 수 있는 능률적인 디자인을 만들고 이메일 전달성을 개선하며 각 이메일의 추적 링크에 사용할 브랜딩 도메인을 이메일 단위로 선택할 수 있습니다.
+이메일 추적 링크를 단일 브랜딩 도메인으로만 브랜딩할 수 있던 시대는 지났습니다. 이제 여러 브랜딩 도메인을 추가하여 소비자 신뢰를 고취시키고, 브랜드에 집중할 수 있는 보다 간소화된 디자인을 만들고, 이메일 전달성을 개선하고, 각 이메일의 추적 링크에 사용할 브랜딩 도메인을 이메일 단위로 선택할 수 있습니다.
 
 ![](assets/multiple-branding-domains.png)
 
@@ -100,16 +100,16 @@ Outlook용 Sales Insight Plugin을 설치하려면 영업 팀의 각 직원이 �
 
 컨텐츠 분석 및 권장 사항 데이터를 오프라인으로 봅니다.
 
-## [이메일 편집기 2.0에 대한 API 지원](https://developers.marketo.com/documentation/asset-api/) {#api-support-for-email-editor}
+## [이메일 편집기 2.0에 대한 API 지원](https://developer.adobe.com/marketo-apis/api/asset/) {#api-support-for-email-editor}
 
 이전에 v1.0 이메일 및 템플릿과만 호환되는 기존 에셋 API가 이제 v2.0 이메일 에셋에 대해 활성화됩니다.
 
-## [Marketo 개발자 사이트](https://developers.marketo.com/) {#marketo-developers-site}
+## [Marketo 개발자 사이트](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/home) {#marketo-developers-site}
 
 새로운 기능과 향상된 기능을 제공합니다.
 
 ## [개인 정보 설정](/help/marketo/product-docs/administration/settings/understanding-privacy-settings.md) {#privacy-settings}
 
-마케터는 개인 정보 설정을 사용하여 Munchkin 및 웹 개인화 기능을 사용하여 방문자를 추적할지 여부를 결정할 수 있습니다. 추적 수준은 브라우저의 추적 안 함 설정, 옵트아웃 쿠키 또는 비특정 IP를 사용하여 제어됩니다. 이러한 방법은 특정 영역에서 Marketo의 가치와 기능에 영향을 줄 수 있지만 마케터가 변경하지 않으면 Marketo 기능은 그대로 유지됩니다.
+마케터는 개인 정보 설정을 사용하여 Munchkin 및 웹 개인화 기능을 사용하여 방문자를 추적할지 여부를 결정할 수 있습니다. 추적 수준은 브라우저의 추적 안 함 설정, 옵트아웃 쿠키 또는 비특정 IP를 사용하여 제어됩니다. 이러한 방법은 특정 영역에서 Marketo의 가치 및 기능에 영향을 줄 수 있지만 마케터가 변경하지 않으면 Marketo 기능은 그대로 유지됩니다.
 
 이 기능은 6주 동안 점진적으로 고객에게 출시될 예정입니다. 지금 당장 필요한 경우 Marketo 지원 센터에 문의하십시오.

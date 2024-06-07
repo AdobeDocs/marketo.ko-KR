@@ -4,7 +4,7 @@ description: 릴리스 노트 - 2014년 7월 - Marketo 설명서 - 제품 설명
 title: 릴리스 노트 - 2014년 7월
 exl-id: 0f0b4ad4-0ca7-4f43-bc08-5e555890d289
 feature: Release Information
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 2b610cc3486b745212b0b1f36018a83214d7ecd7
 workflow-type: tm+mt
 source-wordcount: '425'
 ht-degree: 0%
@@ -31,7 +31,7 @@ Marketo Lead Management 는 현대적이고 세련된 새로운 모양과 느낌
 
 ## 날짜 연산자 {#date-operators}
 
-[고급 필터](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/creating-a-smart-list/smart-list-filter-operators-glossary.md) &quot;이전 과거&quot;, &quot;미래&quot; 및 &quot;이후 미래&quot;에 대한 참조. 예를 들어, 생년월일이 3개월 이내인 잠재 고객 또는 6개월 후 만료되는 계약을 찾습니다.
+[고급 필터](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/creating-a-smart-list/smart-list-filter-operators-glossary.md) for &quot;과거&quot;, &quot;미래&quot; 및 &quot;미래 후&quot;에 사용할 수 있습니다. 예를 들어, 생년월일이 3개월 이내인 잠재 고객 또는 6개월 후 만료되는 계약을 찾습니다.
 
 ![](assets/image2014-9-22-14-3a23-3a56.png)
 
@@ -47,7 +47,7 @@ Marketo Lead Management 는 현대적이고 세련된 새로운 모양과 느낌
 
 ## ReST API의 목록 작업 {#list-operations-in-the-rest-api}
 
-ReST의 목록 작업과 관련하여 아래에 호출을 추가했습니다. 다음을 참조하십시오 [developers.marketo.com](https://developers.marketo.com/documentation/rest/) 전체 설명서.
+ReST의 목록 작업과 관련하여 아래에 호출을 추가했습니다. 다음을 참조하십시오 [https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/rest/rest-api](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/rest/rest-api) 전체 설명서.
 
 * ID별 목록 가져오기
 * 여러 목록 가져오기
@@ -56,9 +56,9 @@ ReST의 목록 작업과 관련하여 아래에 호출을 추가했습니다. �
 
 ## 빠른 목록 가져오기 {#fast-list-import}
 
-초과 **50배 빠름**, 파일이 Marketo으로 확대됩니다! 이전 &quot;일반&quot; 및 &quot;새 리드에 맞게 최적화&quot; 가져오기 옵션이 &quot;기본(빠른 가져오기)&quot;으로 대체되었습니다.
+초과 **50배 빠름**, 파일이 Marketo으로 확대됩니다! 이전 &quot;일반&quot; 및 &quot;새 리드에 맞게 최적화&quot; 가져오기 옵션이 &quot;기본값(빠른 가져오기)&quot;으로 대체되었습니다.
 
-&quot;새 리드 및 업데이트 건너뛰기&quot; 옵션은 변경되지 않습니다.
+새 리드 및 업데이트 건너뛰기 옵션은 변경되지 않습니다.
 
 ## 새로운 향상된 Munchkin! {#new-improved-munchkin}
 
@@ -78,7 +78,7 @@ ReST의 목록 작업과 관련하여 아래에 호출을 추가했습니다. �
 
 ## RTP: JavaScript API 개선 사항 {#rtp-javascript-api-enhancements}
 
-조직, 업계, 위치 및 세그먼트 코드 일치와 같은 실시간 방문자 데이터를 가져오기 위한 새로운 RTP API 호출입니다. 또한 세그먼트 페이지의 세그먼트 이름 위로 마우스를 가져가면 세그먼트 코드를 보여주는 도구 설명이 표시됩니다. 다음 참조: [개발자 사이트](https://developers.marketo.com/documentation/websites/rtp-js-api/) 전체 문서를 보려면 다음을 수행하십시오.
+조직, 업계, 위치 및 세그먼트 코드 일치와 같은 실시간 방문자 데이터를 가져오기 위한 새로운 RTP API 호출입니다. 또한 세그먼트 페이지의 세그먼트 이름 위로 마우스를 가져가면 세그먼트 코드를 보여주는 도구 설명이 표시됩니다. 다음 참조: [개발자 사이트](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/javascriptapi/rich-media-recommendation) 전체 문서를 보려면 다음을 수행하십시오.
 
 ![](assets/image2014-9-22-14-3a26-3a11.png)
 

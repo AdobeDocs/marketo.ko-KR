@@ -4,9 +4,9 @@ description: 릴리스 노트 - 2014년 10월 - Marketo 설명서 - 제품 설�
 title: 릴리스 노트 - 2014년 10월
 exl-id: 698b4efd-ee14-459e-83a9-d06652099040
 feature: Release Information
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 2b610cc3486b745212b0b1f36018a83214d7ecd7
 workflow-type: tm+mt
-source-wordcount: '274'
+source-wordcount: '271'
 ht-degree: 0%
 
 ---
@@ -30,7 +30,7 @@ API를 사용하여 잠재 고객에 대한 새 활동 또는 변경 사항을 �
 * 활동 유형 가져오기
 * 페이징 토큰 가져오기
 
-전체 세부 정보는 릴리스 이후에서 사용할 수 있습니다. [developers.marketo.com](https://developers.marketo.com/documentation/rest/).
+전체 세부 정보는 릴리스 이후에서 사용할 수 있습니다. [https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/rest/rest-api](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/rest/rest-api).
 
 ## MSI - Microsoft Dynamics용 Marketo 이메일 보내기 {#msi-send-marketo-email-for-microsoft-dynamics}
 
@@ -70,4 +70,4 @@ Dynamics에서 영업 기회 주주 데이터를 동기화합니다. 또한 &quo
 * 다음에 관심이 있는 제품
 * 본 RTP 캠페인
 
-방문 [developers.marketo.com](https://developers.marketo.com/documentation/websites/rtp-js-api/) 전체 세부 정보.
+방문 [https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/javascriptapi/rich-media-recommendation](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/javascriptapi/rich-media-recommendation) 전체 세부 정보.

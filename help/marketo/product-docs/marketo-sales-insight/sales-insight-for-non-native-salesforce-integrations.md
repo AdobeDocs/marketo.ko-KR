@@ -4,9 +4,9 @@ description: Sales Insight for Non-Native Salesforce 통합 - Marketo 문서 - �
 title: Sales Insight for Non-Native Salesforce 통합
 exl-id: a771ecdf-c610-44e4-9e93-7fdcc9d79f4b
 feature: Marketo Sales Insights
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 2b610cc3486b745212b0b1f36018a83214d7ecd7
 workflow-type: tm+mt
-source-wordcount: '1377'
+source-wordcount: '1230'
 ht-degree: 0%
 
 ---
@@ -19,7 +19,7 @@ Adobe Marketo Engage 계정이 맞춤화된 통합 또는 비원시 통합을 �
 >
 >* MSI 설정을 시작하기 전에 Marketo 인스턴스에 대해 &quot;MSI 비기본&quot; 기능이 활성화되었습니다. 그렇지 않고 이미 기능을 구입한 경우에는 다음으로 문의하십시오. [Marketo 지원](https://nation.marketo.com/t5/support/ct-p/Support){target="_blank"}. 이 기능을 아직 구입하지 않은 경우 Adobe 계정 팀(계정 관리자)에 문의하십시오.
 >* 다음을 보유한 Salesforce 계정 [MSI 패키지 설정](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/installation/install-marketo-sales-insight-package-in-salesforce-appexchange.md){target="_blank"}.
->* MARKETO REST API [설정 성공](https://developers.marketo.com/rest-api/){target="_blank"}. 노출된 CRUD API는 비원시 동기화를 수행하는 기초가 됩니다.
+>* MARKETO REST API [설정 성공](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/rest/rest-api){target="_blank"}. 노출된 CRUD API는 비원시 동기화를 수행하는 기초가 됩니다.
 >* 읽기 [이 블로그 게시물](https://developers.marketo.com/blog/create-and-associate-leads-companies-and-opportunities-with-the-marketo-rest-api/){target="_blank"} 대상과 관계를 이해하기 위해.
 >* Salesforce 개체를 설정하여 15자의 대/소문자 구분 글로벌 고유 식별자가 아닌 18자의 대/소문자를 구분하지 않는 글로벌 고유 식별자를 표시합니다.
 
@@ -53,8 +53,8 @@ Adobe Marketo Engage 계정이 맞춤화된 통합 또는 비원시 통합을 �
     </tbody> 
    </table>
 
-   * 영업 담당자를 위한 API 설명서: [https://developers.marketo.com/rest-api/lead-database/sales-persons/](https://developers.marketo.com/rest-api/lead-database/sales-persons/){target="_blank"}
-   * 영업 담당자 동기화를 위한 API 설명서: [https://developers.marketo.com/rest-api/endpoint-reference/lead-database-endpoint-reference/#!/Sales_Persons/syncSalesPersonsUsingPOST](https://developers.marketo.com/rest-api/endpoint-reference/lead-database-endpoint-reference/#!/Sales_Persons/syncSalesPersonsUsingPOST){target="_blank"}
+   * 영업 담당자를 위한 API 설명서: [https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/rest/lead-database/sales-persons](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/rest/lead-database/sales-persons){target="_blank"}
+   * 영업 담당자 동기화를 위한 API 설명서: [https://developer.adobe.com/marketo-apis/api/mapi/#tag/Sales-Persons/operation/syncSalesPersonsUsingPOST](https://developer.adobe.com/marketo-apis/api/mapi/#tag/Sales-Persons/operation/syncSalesPersonsUsingPOST){target="_blank"}
 
 1. Salesforce 계정을 Marketo에 동기화합니다.
 
@@ -85,8 +85,8 @@ Adobe Marketo Engage 계정이 맞춤화된 통합 또는 비원시 통합을 �
     </tbody> 
    </table>
 
-   * 회사를 위한 API 설명서: [https://developers.marketo.com/rest-api/lead-database/companies/](https://developers.marketo.com/rest-api/lead-database/companies/){target="_blank"}
-   * 회사 동기화를 위한 API 설명서: [https://developers.marketo.com/rest-api/endpoint-reference/lead-database-endpoint-reference/#!/Companies/syncCompaniesUsingPOST](https://developers.marketo.com/rest-api/endpoint-reference/lead-database-endpoint-reference/#!/Companies/syncCompaniesUsingPOST){target="_blank"}
+   * 회사를 위한 API 설명서: [https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/rest/lead-database/companies](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/rest/lead-database/companies){target="_blank"}
+   * 회사 동기화를 위한 API 설명서: [https://developer.adobe.com/marketo-apis/api/mapi/#tag/Companies/operation/syncCompaniesUsingPOST](https://developer.adobe.com/marketo-apis/api/mapi/#tag/Companies/operation/syncCompaniesUsingPOST){target="_blank"}
 
 1. Salesforce 리드/연락처를 Marketo에 동기화합니다.
 
@@ -122,8 +122,8 @@ Adobe Marketo Engage 계정이 맞춤화된 통합 또는 비원시 통합을 �
     </tbody> 
    </table>
 
-   * 리드에 대한 API 설명서: [https://developers.marketo.com/rest-api/lead-database/leads/](https://developers.marketo.com/rest-api/lead-database/leads/)
-   * 리드 동기화를 위한 API 설명서: [https://developers.marketo.com/rest-api/endpoint-reference/lead-database-endpoint-reference/#!/Leads/syncLeadUsingPOST](https://developers.marketo.com/rest-api/endpoint-reference/lead-database-endpoint-reference/#!/Leads/syncLeadUsingPOST)
+   * 리드에 대한 API 설명서: [https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/rest/lead-database/leads](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/rest/lead-database/leads)
+   * 리드 동기화를 위한 API 설명서: [https://developer.adobe.com/marketo-apis/api/mapi/#tag/Leads/operation/syncLeadUsingPOST](https://developer.adobe.com/marketo-apis/api/mapi/#tag/Leads/operation/syncLeadUsingPOST)
 
 1. Salesforce 영업 기회를 Marketo에 동기화합니다.
 
@@ -159,8 +159,8 @@ Adobe Marketo Engage 계정이 맞춤화된 통합 또는 비원시 통합을 �
     </tbody> 
    </table>
 
-   * 영업 기회에 대한 API 설명서: [https://developers.marketo.com/rest-api/lead-database/opportunities/](https://developers.marketo.com/rest-api/lead-database/opportunities/){target="_blank"}
-   * Opportunity 동기화를 위한 API 설명서: [https://developers.marketo.com/rest-api/endpoint-reference/lead-database-endpoint-reference/#!/Opportunities/syncOpportunitiesUsingPOST](https://developers.marketo.com/rest-api/endpoint-reference/lead-database-endpoint-reference/#!/Opportunities/syncOpportunitiesUsingPOST){target="_blank"}
+   * 영업 기회에 대한 API 설명서: [https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/rest/lead-database/opportunities](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/rest/lead-database/opportunities){target="_blank"}
+   * Opportunity 동기화를 위한 API 설명서: [https://developer.adobe.com/marketo-apis/api/mapi/#tag/Opportunities/operation/syncOpportunitiesUsingPOST](https://developer.adobe.com/marketo-apis/api/mapi/#tag/Opportunities/operation/syncOpportunitiesUsingPOST){target="_blank"}
 
 1. Salesforce 연락처 역할을 Marketo에 동기화
 
@@ -196,8 +196,8 @@ Adobe Marketo Engage 계정이 맞춤화된 통합 또는 비원시 통합을 �
     </tbody> 
    </table>
 
-   * 영업 기회에 대한 API 설명서: [https://developers.marketo.com/rest-api/lead-database/opportunities/](https://developers.marketo.com/rest-api/lead-database/opportunities/){target="_blank"}
-   * Opportunity 동기화를 위한 API 설명서: [https://developers.marketo.com/rest-api/endpoint-reference/lead-database-endpoint-reference/#!/Opportunities/syncOpportunitiesUsingPOST](https://developers.marketo.com/rest-api/endpoint-reference/lead-database-endpoint-reference/#!/Opportunities/syncOpportunitiesUsingPOST){target="_blank"}
+   * 영업 기회에 대한 API 설명서: [https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/rest/lead-database/opportunities](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/rest/lead-database/opportunities){target="_blank"}
+   * Opportunity 동기화를 위한 API 설명서: [https://developer.adobe.com/marketo-apis/api/mapi/#tag/Opportunities/operation/syncOpportunitiesUsingPOST](https://developer.adobe.com/marketo-apis/api/mapi/#tag/Opportunities/operation/syncOpportunitiesUsingPOST){target="_blank"}
 
 1. 마지막 관심 순간/MSI 점수 필드를 SFDC에 동기화합니다.
 
@@ -260,6 +260,6 @@ Adobe Marketo Engage 계정이 맞춤화된 통합 또는 비원시 통합을 �
     </tbody> 
    </table>
 
-   리드 REST API에 대한 설명서: [https://developers.marketo.com/rest-api/endpoint-reference/lead-database-endpoint-reference/#!/Leads/getLeadByIdUsingGET](https://developers.marketo.com/rest-api/endpoint-reference/lead-database-endpoint-reference/#!/Leads/getLeadByIdUsingGET){target="_blank"}.
+   리드 REST API에 대한 설명서: [https://developer.adobe.com/marketo-apis/api/mapi/#tag/Leads/operation/getLeadByIdUsingGET](https://developer.adobe.com/marketo-apis/api/mapi/#tag/Leads/operation/getLeadByIdUsingGET){target="_blank"}.
 
    외부 필드를 적절하게 사용하면 성공적인 비원시 동기화가 가능합니다. 일부 보기에서 데이터를 보지 못하면 특정 필드가 올바르게 동기화되지 않았을 수 있습니다. 예를 들어 잠재 고객의 계정 아래에서 MSI 위젯을 볼 때 잠재 고객의 활동 및 흥미로운 순간이 표시되지 않으면 잠재 고객의 회사 또는 계정이 올바르게 동기화되지 않았을 수 있습니다. 외부 필드를 지정하는 동안 이 잠재 고객에 대한 GET 요청을 수행하면 잠재 고객이 올바르게 동기화되었는지 확인하는 데 도움이 됩니다. 또한 Marketo의 외부 영업 사원에 대한 이메일은 Salesforce의 해당 사용자에 대한 이메일과 일치해야 합니다. 이메일이 일치하지 않는 경우 Salesforce의 Marketo 탭에 데이터가 표시되지 않을 수 있습니다.

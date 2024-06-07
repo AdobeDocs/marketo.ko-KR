@@ -4,9 +4,9 @@ description: 웹 세그먼트 - Marketo 문서 - 제품 설명서
 title: 웹 세그먼트
 exl-id: ec62c1ae-579a-4753-9b2d-18c7c2fa1ff5
 feature: Web Personalization
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 2b610cc3486b745212b0b1f36018a83214d7ecd7
 workflow-type: tm+mt
-source-wordcount: '2031'
+source-wordcount: '2051'
 ht-degree: 0%
 
 ---
@@ -149,7 +149,7 @@ ht-degree: 0%
 
 >[!TIP]
 >
->**어떤 세그먼트 조건을 선택해야 합니까? &#39;AND&#39; 또는 &#39;OR&#39;** OR은 각 필드 내에서 추가 옵션으로 작동합니다. 잠재 고객이 해당 세그먼트에 대한 자격을 얻으려면 각 필드 내에서 선택한 여러 기준 중 하나의 기준만 충족하면 됩니다. (예를 들어, 잠재 고객은 미국 출신일 수 있습니다. *또는* 을 참조하십시오. AND는 이 세그먼트에 대해 충족해야 하는 추가 필수 매개 변수로 작동합니다. (예를 들어, 잠재 고객은 모두 미국 및 국방 산업이어야 합니다.) 각 세그멘테이션 프로필 내에서 각 개별 필드는 선택한 세그먼트 조건에 따라 &quot;AND&quot; 또는 &quot;OR&quot; 중 하나로 기능할 수 있습니다.
+>**어떤 세그먼트 조건을 선택해야 합니까? &#39;AND&#39; 또는 &#39;OR&#39;?** OR은 각 필드 내에서 추가 옵션으로 작동합니다. 잠재 고객이 해당 세그먼트에 대한 자격을 얻으려면 각 필드 내에서 선택한 여러 기준 중 하나의 기준만 충족하면 됩니다. (예를 들어, 잠재 고객은 미국 출신일 수 있습니다. *또는* 을 참조하십시오. AND는 이 세그먼트에 대해 충족해야 하는 추가 필수 매개 변수로 작동합니다. (예를 들어, 잠재 고객은 모두 미국 및 국방 산업이어야 합니다.) 각 세그멘테이션 프로필 내에서 각 개별 필드는 선택한 세그먼트 조건에 따라 &quot;AND&quot; 또는 &quot;OR&quot; 중 하나로 기능할 수 있습니다.
 
 **업종** 아래 **프로필 세분화** 섹션에서 옆에 있는 상자를 선택합니다. **업계**.
 
@@ -187,7 +187,7 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->명명된 계정 목록 이름 옆에 있는 대괄호 안의 숫자는 웹 개인화 목록의 색인 참조로 사용됩니다 [API 읽기](https://developers.marketo.com/documentation/websites/rtp-js-api/).
+>명명된 계정 목록 이름 옆에 있는 대괄호 안의 숫자는 웹 개인화 목록의 색인 참조로 사용됩니다 [API 읽기](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/javascriptapi/web-personalization).
 
 **ISP 제외**
 
@@ -217,7 +217,7 @@ ht-degree: 0%
 
 **상태**
 
-잠재 고객의 상태에 따라 세그먼트를 정의합니다(알려진 세그먼트 또는 익명의 세그먼트).
+잠재 고객의 상태에 따라 세그먼트를 정의합니다(알려짐 또는 익명화).
 
 * 알려짐 - 알려진 방문자에 대해 드롭다운 상자에서 이 옵션을 선택합니다. 방문자는 웹 사이트에서 양식을 제출하고 웹 개인화 사용자 페이지에 표시될 때 알려져 있습니다.
 * 익명 - 익명 방문자에 대한 드롭다운 상자에서 이 옵션을 선택합니다.
@@ -273,7 +273,7 @@ ht-degree: 0%
 
 **브라우저**
 
-특정 브라우저 유형 및/또는 버전을 사용하는 Target 방문자입니다.
+특정 브라우저 유형 및/또는 버전을 사용하는 타겟 방문자입니다.
 
 * 브라우저 유형 - 드롭다운 상자에서, 하나 이상의 인터넷 브라우저 를 선택합니다. 선택한 브라우저가 아래에 표시됩니다.
 * 브라우저 버전 - 세그먼트에 추가할 브라우저 버전을 입력합니다. 각 버전을 쉼표로 구분하여 여러 버전을 선택할 수 있습니다. (사용 &#42; (와일드카드가 허용됨).
@@ -286,11 +286,11 @@ ht-degree: 0%
 
 **사용자 컨텍스트 API**
 
-웹 개인화 API 호출  [자세한 내용은 여기 를 참조하십시오.](https://developers.marketo.com/documentation/websites/rtp-user-context-api/)
+웹 개인화 API 호출  [자세한 내용은 여기 를 참조하십시오.](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/javascriptapi/web-personalization)
 
 >[!TIP]
 >
->**와일드카드 사용 -** 내에 포함된 검색어 또는 URL(예: &quot;&quot;)을 포함하려는 경우[google.com](https://google.com)&quot;또는 &quot;검색어 제품&quot;, 우리는 이 와일드카드를 와일드카드라고 부르며 별표로 입력해야 합니다. - 이 작은 사람&#42; - 각 끝 그러니까 [google.com](https://google.com) 다음으로 입력되어야 함: &#42; [google.com](https://google.com)&#42;
+>**와일드카드 사용 -** 내에 포함된 검색어 또는 URL(예: &quot;)을 포함하려는 경우[google.com](https://google.com)&quot;또는 &quot;검색어 제품&quot;, 와일드카드 라고 하며 별표로 입력해야 합니다. 이 작은 사람&#42; - 각 끝 그러니까 [google.com](https://google.com) 다음으로 입력되어야 함: &#42; [google.com](https://google.com)&#42;
 
 ## 세그먼트 편집 {#edit-segments}
 
@@ -302,7 +302,7 @@ ht-degree: 0%
 
 1. 다음에서 **세그먼트** 테이블에서 편집 아이콘( )을 클릭합니다. ![](assets/segment-edit.png))을 클릭하여 제품에서 사용할 수 있습니다. 다음 **세그먼트 설정** 선택한 세그먼트가 있는 페이지가 열립니다.
 1. 세그먼트에 적용할 편집 또는 변경 사항을 적용합니다.
-1. 클릭 **저장**.
+1. **저장**&#x200B;을 클릭합니다.
 
 ## 세그먼트 삭제 {#delete-segments}
 
@@ -314,13 +314,13 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->캠페인과 연결된 세그먼트는 삭제할 수 없습니다. 먼저 캠페인을 삭제한 다음 세그먼트를 삭제해야 합니다.
+캠페인과 연결된 세그먼트는 삭제할 수 없습니다. 먼저 캠페인을 삭제한 다음 세그먼트를 삭제해야 합니다.
 
 잘됐네! 세그먼트 섹션을 이해했으므로 이제 캠페인에 대해 알아보겠습니다.
 
 >[!MORELIKETHIS]
 >
->* [기본 웹 세그먼트 만들기](/help/marketo/product-docs/web-personalization/using-web-segments/create-a-basic-web-segment.md)
->* [새 대화 상자 웹 캠페인 만들기](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/create-a-new-dialog-web-campaign.md)
->* [Zone Web Campaign에서 새로운 기능 만들기](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/create-a-new-in-zone-web-campaign.md)
->* [새 위젯 웹 캠페인 만들기](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/create-a-new-widget-web-campaign.md)
+* [기본 웹 세그먼트 만들기](/help/marketo/product-docs/web-personalization/using-web-segments/create-a-basic-web-segment.md)
+* [새 대화 상자 웹 캠페인 만들기](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/create-a-new-dialog-web-campaign.md)
+* [Zone Web Campaign에서 새로운 기능 만들기](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/create-a-new-in-zone-web-campaign.md)
+* [새 위젯 웹 캠페인 만들기](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/create-a-new-widget-web-campaign.md)

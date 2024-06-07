@@ -4,9 +4,9 @@ description: 개인 세부 정보 페이지 사용 - Marketo 문서 - 제품 설
 title: 개인 세부 정보 페이지 사용
 exl-id: 8476ed02-6d94-4aa5-91f6-55c81a87f745
 feature: Smart Lists
-source-git-commit: 208ba59e3a5cb8e613e887b4c89e51cec4b3f897
+source-git-commit: 2b610cc3486b745212b0b1f36018a83214d7ecd7
 workflow-type: tm+mt
-source-wordcount: '550'
+source-wordcount: '546'
 ht-degree: 22%
 
 ---
@@ -60,7 +60,7 @@ ht-degree: 22%
 
 >[!NOTE]
 >
->Opportunity 정보도 볼 수 있습니다 [api를 통해 삽입됨](https://developers.marketo.com/rest-api/lead-database/opportunities/) CRM과 동기화되지 않은 인스턴스의 경우
+>Opportunity 정보도 볼 수 있습니다 [api를 통해 삽입됨](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/rest/lead-database/opportunities) CRM과 동기화되지 않은 인스턴스의 경우
 
 ## 필드 편집 {#editing-a-field}
 

@@ -4,9 +4,9 @@ description: 모바일 푸시 알림 구성 - Marketo 문서 - 제품 설명서
 title: 모바일 푸시 알림 구성
 exl-id: 10368b13-40c9-435a-847c-68aaa5a892ea
 feature: Mobile Marketing
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 2b610cc3486b745212b0b1f36018a83214d7ecd7
 workflow-type: tm+mt
-source-wordcount: '469'
+source-wordcount: '466'
 ht-degree: 0%
 
 ---
@@ -87,13 +87,13 @@ ht-degree: 0%
 
 ## 딥링크 URI {#deep-link-uris}
 
-구독자가 푸시 메시지에서 단추를 클릭하면 구독자를 앱의 홈 페이지로 이동하거나 앱 내의 특정 페이지로 바로 이동할 수 있습니다. 딥링크는 앱의 특정 페이지에 대한 고유 참조이며 웹 사이트 링크와 매우 유사합니다.
+구독자가 푸시 메시지의 버튼을 클릭하면 앱의 홈 페이지로 이동하거나 앱 내의 특정 페이지로 바로 이동할 수 있습니다. 딥링크는 앱의 특정 페이지에 대한 고유 참조이며 웹 사이트 링크와 매우 유사합니다.
 
-딥링크 URI는 스키마 이름, 경로 및 식별자의 세 부분으로 구성됩니다. 아래 예에서 &quot;myappname&quot;은 체계입니다. &quot;products&quot;는 경로이고 &quot;purple-shirt&quot;는 식별자입니다. 고객이 탭하면 앱의 제품 페이지 내에 있는 보라색 셔츠 항목으로 특별히 이동합니다.
+딥링크 URI는 스키마 이름, 경로 및 식별자의 세 부분으로 구성됩니다. 아래 예에서 &quot;myappname&quot;은 체계입니다. &quot;products&quot;가 경로이고 &quot;purple-shirt&quot;가 식별자입니다. 고객이 탭하면 앱의 제품 페이지 내에 있는 보라색 셔츠 항목으로 특별히 이동합니다.
 
 ![](assets/image2016-7-29-12-3a49-3a1.png)
 
-즉, 앱의 딥링크 구조는 위의 예와 다를 수 있습니다. 개발자는 딥링크 URI를 정의하는 데 여러 가지 옵션을 사용할 수 있으므로 개발자에게 사용하려는 페이지의 URI(링크)를 보내도록 요청하십시오. 이렇게 하면 푸시 메시지에 입력한 URI가 올바른 위치를 가리킵니다. 개발자는 [여기에서 추가 정보 찾기](https://developers.marketo.com/mobile/enabling-deep-links-in-your-app/).
+즉, 앱의 딥링크 구조는 위의 예와 다를 수 있습니다. 개발자는 딥링크 URI를 정의하는 데 여러 가지 옵션을 사용할 수 있으므로 개발자에게 사용하려는 페이지의 URI(링크)를 보내도록 요청하십시오. 이렇게 하면 푸시 메시지에 입력한 URI가 올바른 위치를 가리킵니다. 개발자는 [여기에서 추가 정보 찾기](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/mobile/enabling-deep-links-in-your-app).
 
 >[!MORELIKETHIS]
 >
