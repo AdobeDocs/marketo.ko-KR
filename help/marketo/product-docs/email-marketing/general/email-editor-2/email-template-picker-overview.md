@@ -4,7 +4,7 @@ description: 이메일 템플릿 선택기 개요 - Marketo 문서 - 제품 설�
 title: 이메일 템플릿 선택기 개요
 exl-id: 6bfedd73-8b77-469d-9055-f925e2c2a7f1
 feature: Email Editor
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 1c40ab5912772c2a26dccde111a468daff16c3bc
 workflow-type: tm+mt
 source-wordcount: '276'
 ht-degree: 0%
@@ -15,7 +15,7 @@ ht-degree: 0%
 
 다음을 수행하는 경우 [이메일 만들기](/help/marketo/product-docs/email-marketing/general/creating-an-email/create-an-email.md), 선택할 수 있는 몇 가지 자유 템플릿이 있습니다. 나만의 템플릿을 만들어 나중에 사용할 수 있도록 저장할 수도 있습니다.
 
-![](assets/starter-templates.png)
+![](assets/email-template-picker-overview-1.png)
 
 **이름** 은 템플릿 자체가 아니라 템플릿을 기반으로 만든 이메일의 이름이 됩니다. **설명** 은 이메일에도 적용되며 선택 사항입니다.
 
@@ -27,7 +27,7 @@ ht-degree: 0%
 
 **스타터 템플릿** 즉시 사용 가능한 응답형 이메일 템플릿 컬렉션을 포함합니다. 그대로 사용하거나 원하는 대로 사용자 지정할 수 있습니다.
 
-![](assets/starter-templates.png)
+![](assets/email-template-picker-overview-4.png)
 
 **내 템플릿** 은 사용자가 만든 모든 템플릿으로 구성됩니다. 폴더도 있을 수 있습니다.
 
