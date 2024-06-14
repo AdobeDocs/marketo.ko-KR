@@ -3,9 +3,9 @@ description: Dynamic Chat 릴리스 노트 - Marketo 문서 - 제품 설명서
 title: Dynamic Chat 릴리스 노트
 feature: Release Information, Dynamic Chat
 exl-id: 0447dc47-b9c5-42e1-8f66-73bf67c7871d
-source-git-commit: cbf60ee8756996c554370604f95be7a2ffb1b959
+source-git-commit: 0015db05477cbb46a34e8abd4800d00c6522496f
 workflow-type: tm+mt
-source-wordcount: '1343'
+source-wordcount: '1472'
 ht-degree: 0%
 
 ---
@@ -15,6 +15,26 @@ ht-degree: 0%
 Adobe Dynamic Chat 릴리스는 기능 배포에 대한 보다 확장 가능한 접근 방식을 고려하는 연속 제공 모델에서 작동합니다. 한 달에 릴리스가 여러 개인 경우가 있으므로 정기적으로 최신 정보를 확인하십시오.
 
 Marketo Engage을 위한 표준 릴리스 노트 페이지 [은(는) 여기에서 찾을 수 있음](/help/marketo/release-notes/current.md){target="_blank"}.
+
+## 2024년 6월 릴리스 {#june-release}
+
+**릴리스 날짜: 2024년 6월 6일**
+
+### 대화형 흐름 카드 {#conversational-flow-card}
+
+대화형 흐름 카드를 활용하여 대화 상자 내의 흐름 여러 단계를 간소화합니다.
+
+예: 여러 대화 상자를 통해 웨비나에 대한 등록을 유도하는 것이 목표라면 해당 목표가 있는 모든 대화 상자에서 동일한 흐름을 다시 만들어야 합니다. 세부 정보를 업데이트해야 하는 경우 각 개별 대화 상자를 한 번에 하나씩 편집해야 합니다. 대화형 흐름 카드 덕분에 더 이상 해당되지 않습니다.
+
+여러 대화 상자에 걸쳐 플로우 용도를 변경하는 것 외에도 동일한 전환 플로우를 사용하여 양식 및 랜딩 페이지와 같은 다른 채널을 통해 트리거할 수도 있습니다.
+
+![](assets/dynamic-chat-june-2024-release-1.png)
+
+### 사용 제한 {#usage-limits}
+
+사용 제한 페이지에는 패키지 세부 정보 및 사용 제한 상태와 같은 중요한 정보가 표시됩니다.
+
+![](assets/dynamic-chat-june-2024-release-2.png)
 
 ## 2024년 5월 릴리스 {#may-release}
 
