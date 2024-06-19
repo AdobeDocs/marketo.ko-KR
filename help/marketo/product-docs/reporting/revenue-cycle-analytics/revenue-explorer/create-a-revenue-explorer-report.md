@@ -4,9 +4,9 @@ description: 매출 탐색기 보고서 만들기 - Marketo 문서 - 제품 설�
 title: 수익 탐색기 보고서 만들기
 exl-id: dc7b705d-00cc-4b9f-aae1-83a5127036f4
 feature: Reporting, Revenue Cycle Analytics
-source-git-commit: d270a06fb47fd3ed81845a0914439d6378c74046
+source-git-commit: 2deab35807a078a490916bf379198c3537859e7b
 workflow-type: tm+mt
-source-wordcount: '139'
+source-wordcount: '140'
 ht-degree: 0%
 
 ---
@@ -21,7 +21,7 @@ Revenue Explorer 보고서를 사용하면 마케팅 이니셔티브에 대한 R
 
 >[!IMPORTANT]
 >
->버그로 인해 수익 주기 탐색기의 휴지통 폴더가 일시적으로 숨겨졌습니다. 현재 수정 작업이 진행 중이며 파일은 안전합니다. 다음으로 문의하십시오. [Adobe 지원](https://nation.marketo.com/t5/support/ct-p/Support) 복원해야 하는 파일이 있는 경우
+>기술 문제로 인해 수익 주기 탐색기의 휴지통 폴더가 일시적으로 숨겨졌습니다. 현재 수정 작업이 진행 중이며 파일은 안전합니다. 다음으로 문의하십시오. [Adobe 지원](https://nation.marketo.com/t5/support/ct-p/Support) 복원해야 하는 파일이 있는 경우
 
 1. 로 이동 **매출 탐색기** 영역입니다.
 
