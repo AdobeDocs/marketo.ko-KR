@@ -3,9 +3,9 @@ description: 에이전트 관리 - Marketo 문서 - 제품 설명서
 title: 에이전트 관리
 feature: Dynamic Chat
 exl-id: 151d8cf2-a5b7-43c4-8418-cc22252108b2
-source-git-commit: 90cbf44cb567f32cc054f4fd6e282b1313a071b7
+source-git-commit: 5aaf7081bbe96ff49753a7e142b0f3b38a70ea10
 workflow-type: tm+mt
-source-wordcount: '211'
+source-wordcount: '231'
 ht-degree: 0%
 
 ---
@@ -29,6 +29,10 @@ ht-degree: 0%
 ## 팀 {#teams}
 
 관리자는 에이전트 팀을 만들어 특정 영업 에이전트 그룹으로 쉽게 라우팅할 수 있습니다.
+
+>[!AVAILABILITY]
+>
+>Teams에 액세스하려면 Dynamic Chat Prime 구독이 필요합니다. 자세한 내용은 Adobe 계정 팀(계정 관리자)에 문의하십시오.
 
 ![](assets/agent-management-3.png)
 

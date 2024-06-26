@@ -3,9 +3,9 @@ audience: end-user
 user-guide-title: Marketo 안내서
 user-guide-description: Marketo 제품 설명서
 feature-set: Marketo Engage
-source-git-commit: 68962b2cc0132194852da2081b8577f732d4b497
+source-git-commit: 5aaf7081bbe96ff49753a7e142b0f3b38a70ea10
 workflow-type: tm+mt
-source-wordcount: '9361'
+source-wordcount: '9331'
 ht-degree: 0%
 
 ---
@@ -169,7 +169,7 @@ ht-degree: 0%
          + [Marketo 사용자 지정 활동 필드 추가/편집/삭제](product-docs/administration/marketo-custom-activities/add-edit-delete-marketo-custom-activity-fields.md)
          + [사용자 지정 활동 만들기](product-docs/administration/marketo-custom-activities/create-a-custom-activity.md)
          + [사용자 지정 활동 편집](product-docs/administration/marketo-custom-activities/edit-a-custom-activity.md)
-         + [사용자 지정 활동 게시](product-docs/administration/marketo-custom-activities/publish-a-custom-activity.md)
+         + [Publish a 사용자 지정 활동](product-docs/administration/marketo-custom-activities/publish-a-custom-activity.md)
          + [사용자 지정 활동 메타데이터 내보내기](product-docs/administration/marketo-custom-activities/custom-activity-metadata-export.md)
       + Marketo 사용자 지정 개체 {#marketo-custom-objects}
          + [Marketo 사용자 지정 개체 이해](product-docs/administration/marketo-custom-objects/understanding-marketo-custom-objects.md)
@@ -239,21 +239,21 @@ ht-degree: 0%
          + [코드 조각에 대한 초안 없음 활성화](product-docs/administration/users-and-roles/enable-no-draft-for-snippets.md)
       + 작업 공간 및 개인 파티션 {#workspaces-and-person-partitions}
          + [작업 공간 및 개인 분할 영역 이해](product-docs/administration/workspaces-and-person-partitions/understanding-workspaces-and-person-partitions.md)
-         + [작업 영역에 대한 사용자 액세스 허용](product-docs/administration/workspaces-and-person-partitions/allow-user-access-to-a-workspace.md)
+         + [Workspace에 대한 사용자 액세스 허용](product-docs/administration/workspaces-and-person-partitions/allow-user-access-to-a-workspace.md)
          + [작업 공간에 개인 분할 영역 지정](product-docs/administration/workspaces-and-person-partitions/assign-person-partitions-to-workspaces.md)
          + [할당 규칙으로 개인 분할 영역 할당](product-docs/administration/workspaces-and-person-partitions/assigning-person-partitions-with-assignment-rules.md)
-         + [작업 공간 이름 변경](product-docs/administration/workspaces-and-person-partitions/change-the-name-of-a-workspace.md)
-         + [새 작업 공간 만들기](product-docs/administration/workspaces-and-person-partitions/create-a-new-workspace.md)
+         + [Workspace 이름 변경](product-docs/administration/workspaces-and-person-partitions/change-the-name-of-a-workspace.md)
+         + [새 Workspace 만들기](product-docs/administration/workspaces-and-person-partitions/create-a-new-workspace.md)
          + [개인 파티션 만들기](product-docs/administration/workspaces-and-person-partitions/create-a-person-partition.md)
-         + [작업 영역 삭제](product-docs/administration/workspaces-and-person-partitions/delete-a-workspace.md)
-         + [작업 영역 편집](product-docs/administration/workspaces-and-person-partitions/edit-a-workspace.md)
+         + [Workspace 삭제](product-docs/administration/workspaces-and-person-partitions/delete-a-workspace.md)
+         + [Workspace 편집](product-docs/administration/workspaces-and-person-partitions/edit-a-workspace.md)
          + [기존 개인 파티션 편집](product-docs/administration/workspaces-and-person-partitions/edit-an-existing-person-partition.md)
          + [작업 공간 및 분할 영역 간 세그먼트 공유](product-docs/administration/workspaces-and-person-partitions/share-segmentations-across-workspaces-and-partitions.md)
    + Adobe Experience Cloud 통합 {#adobe-experience-cloud-integrations}
       + [Adobe Experience Cloud 통합 개요](product-docs/adobe-experience-cloud-integrations/adobe-experience-cloud-integrations-overview.md)
       + [Adobe 조직 매핑 설정](product-docs/adobe-experience-cloud-integrations/set-up-adobe-organization-mapping.md)
       + [Adobe Experience Cloud에서 대상자 동기화](product-docs/adobe-experience-cloud-integrations/sync-an-audience-from-adobe-experience-cloud.md)
-      + [Adobe Experience Manager으로 에셋 가져오기](product-docs/adobe-experience-cloud-integrations/importing-assets-with-adobe-experience-manager.md)
+      + [Adobe Experience Manager으로 Assets 가져오기](product-docs/adobe-experience-cloud-integrations/importing-assets-with-adobe-experience-manager.md)
       + [Adobe Experience Cloud 인터페이스 개요](product-docs/adobe-experience-cloud-integrations/experience-cloud-interface-overview.md)
    + 핵심 Marketo 개념 {#core-marketo-concepts}
       + 스마트 캠페인 {#smart-campaigns}
@@ -391,9 +391,9 @@ ht-degree: 0%
          + 프로그램 제작 {#creating-programs}
             + [프로그램 이해](product-docs/core-marketo-concepts/programs/creating-programs/understanding-programs.md)
             + [프로그램 만들기](product-docs/core-marketo-concepts/programs/creating-programs/create-a-program.md)
-            + [프로그램의 로컬 자산 이해](product-docs/core-marketo-concepts/programs/creating-programs/understanding-local-assets-in-a-program.md)
+            + [프로그램의 로컬 Assets 이해](product-docs/core-marketo-concepts/programs/creating-programs/understanding-local-assets-in-a-program.md)
             + [프로그램 멤버십 이해](product-docs/core-marketo-concepts/programs/creating-programs/understanding-program-membership.md)
-            + [에셋 탭 사용](product-docs/core-marketo-concepts/programs/creating-programs/using-the-assets-tab.md)
+            + [Assets 탭 사용](product-docs/core-marketo-concepts/programs/creating-programs/using-the-assets-tab.md)
             + [프로그램 홈 탭 사용](product-docs/core-marketo-concepts/programs/creating-programs/using-the-program-home-tab.md)
          + 프로그램 작업 {#working-with-programs}
             + [모범 사례: 프로그램 구성 방법](product-docs/core-marketo-concepts/programs/working-with-programs/best-practice-how-to-organize-your-programs.md)
@@ -471,7 +471,7 @@ ht-degree: 0%
             + [마케팅 달력에서 바로 항목 삭제](product-docs/core-marketo-concepts/marketing-calendar/working-with-the-calendar/delete-entries-directly-in-the-marketing-calendar.md)
             + [마케팅 달력에서 필터 삭제](product-docs/core-marketo-concepts/marketing-calendar/working-with-the-calendar/deleting-a-filter-in-the-marketing-calendar.md)
             + [마케팅 달력에서 바로 항목 편집](product-docs/core-marketo-concepts/marketing-calendar/working-with-the-calendar/edit-entries-directly-in-the-marketing-calendar.md)
-            + [작업 영역별 마케팅 달력 필터링](product-docs/core-marketo-concepts/marketing-calendar/working-with-the-calendar/filtering-the-marketing-calendar-by-workspace.md)
+            + [Workspace의 마케팅 달력 필터링](product-docs/core-marketo-concepts/marketing-calendar/working-with-the-calendar/filtering-the-marketing-calendar-by-workspace.md)
             + [마케팅 달력 필터링](product-docs/core-marketo-concepts/marketing-calendar/working-with-the-calendar/filtering-the-marketing-calendar.md)
             + [마케팅 캘린더에 필터 정의 저장](product-docs/core-marketo-concepts/marketing-calendar/working-with-the-calendar/saving-a-filter-definition-in-the-marketing-calendar.md)
             + [마케팅 달력에서 필터 정의 공유](product-docs/core-marketo-concepts/marketing-calendar/working-with-the-calendar/sharing-a-filter-definition-in-the-marketing-calendar.md)
@@ -711,7 +711,7 @@ ht-degree: 0%
                + [Marketo ON24 어댑터를 사용하여 이벤트 만들기](product-docs/demand-generation/events/create-an-event/create-an-event-with-the-marketo-on24-adapter.md)
                + [이벤트 설정 구성 및 웨비나와 Marketo 동기화](product-docs/demand-generation/events/create-an-event/create-an-event-with-the-marketo-on24-adapter/configure-event-settings-and-sync-marketo-with-your-webinar.md)
                + [Marketo에서 이벤트 만들기](product-docs/demand-generation/events/create-an-event/create-an-event-with-the-marketo-on24-adapter/create-an-event-in-marketo.md)
-               + [하위 캠페인 및 로컬 자산 만들기](product-docs/demand-generation/events/create-an-event/create-an-event-with-the-marketo-on24-adapter/create-child-campaigns-and-local-assets.md)
+               + [하위 캠페인 및 로컬 Assets 만들기](product-docs/demand-generation/events/create-an-event/create-an-event-with-the-marketo-on24-adapter/create-child-campaigns-and-local-assets.md)
                + [ON24에서 웨비나 이벤트 만들기](product-docs/demand-generation/events/create-an-event/create-an-event-with-the-marketo-on24-adapter/create-your-webinar-event-in-on24.md)
                + [ON24 이벤트 통합 예](product-docs/demand-generation/events/create-an-event/create-an-event-with-the-marketo-on24-adapter/example-on24-event-integration.md)
                + [ON24 이벤트 등록 업데이트](product-docs/demand-generation/events/create-an-event/create-an-event-with-the-marketo-on24-adapter/on24-event-registration-updates.md)
@@ -733,8 +733,8 @@ ht-degree: 0%
       + Facebook {#facebook}
          + [facebook에서 사용자 지정 대상에 리드 추가](product-docs/demand-generation/facebook/add-leads-to-a-custom-audience-in-facebook.md)
          + [facebook에서 사용자 지정 대상 만들기](product-docs/demand-generation/facebook/create-a-custom-audience-in-facebook.md)
-         + [facebook 리치 게시물 설정 편집](product-docs/demand-generation/facebook/edit-facebook-rich-post-settings.md)
-         + [facebook에 랜딩 페이지 게시](product-docs/demand-generation/facebook/publish-landing-pages-to-facebook.md)
+         + [facebook 리치 Post 설정 편집](product-docs/demand-generation/facebook/edit-facebook-rich-post-settings.md)
+         + [Facebook으로 Publish 랜딩 페이지](product-docs/demand-generation/facebook/publish-landing-pages-to-facebook.md)
          + [facebook 리드 광고 설정](product-docs/demand-generation/facebook/set-up-facebook-lead-ads.md)
          + [Marketo에 사용자 정의 필드 매핑](product-docs/demand-generation/facebook/set-up-facebook-lead-ads/map-custom-fields-to-marketo.md)
          + [facebook 오프라인 전환 설정](product-docs/demand-generation/facebook/set-up-facebook-offline-conversions.md)
@@ -970,15 +970,15 @@ ht-degree: 0%
             + [소셜 버튼이 열릴 때 구성](product-docs/demand-generation/social/configuring-social-actions/configure-when-social-button-opens.md)
             + [소셜 앱 사용자 지정 단추](product-docs/demand-generation/social/configuring-social-actions/customize-social-app-button.md)
             + [비디오 공유 플로우 맞춤화](product-docs/demand-generation/social/configuring-social-actions/customize-video-share-flow.md)
-            + [디지털 광고 캠페인에 대한 수익 속성 설정](product-docs/demand-generation/social/configuring-social-actions/set-up-revenue-attribution-for-digital-advertising-campaigns.md)
+            + [디지털 Advertising 캠페인에 대한 수익 속성 설정](product-docs/demand-generation/social/configuring-social-actions/set-up-revenue-attribution-for-digital-advertising-campaigns.md)
          + 투표 만들기 {#creating-a-poll}
             + [투표 만들기](product-docs/demand-generation/social/creating-a-poll/create-a-poll.md)
             + [투표 설정 사용자 지정](product-docs/demand-generation/social/creating-a-poll/customize-poll-settings.md)
-            + [투표 게시](product-docs/demand-generation/social/creating-a-poll/publish-a-poll.md)
+            + [Publish a Poll](product-docs/demand-generation/social/creating-a-poll/publish-a-poll.md)
             + [투표의 투표 검토](product-docs/demand-generation/social/creating-a-poll/review-votes-cast-in-poll.md)
          + 추천 오퍼 {#referral-offers}
             + [참조 오퍼 만들기](product-docs/demand-generation/social/referral-offers/create-a-referral-offer.md)
-            + [참조 오퍼 게시](product-docs/demand-generation/social/referral-offers/publish-a-referral-offer.md)
+            + [Publish a 참조 오퍼](product-docs/demand-generation/social/referral-offers/publish-a-referral-offer.md)
             + [추천 오퍼 이행 이메일 보내기](product-docs/demand-generation/social/referral-offers/send-referral-offer-fulfillment-email.md)
             + [추천 오퍼에 대한 목표 지정](product-docs/demand-generation/social/referral-offers/specify-goal-for-referral-offer.md)
          + 소셜 기능 {#social-functions}
@@ -1001,7 +1001,7 @@ ht-degree: 0%
          + 경품 추첨 {#sweepstakes}
             + [경품 추첨 만들기](product-docs/demand-generation/social/sweepstakes/create-sweepstakes.md)
             + [경품 스타일 사용자 정의](product-docs/demand-generation/social/sweepstakes/customize-sweepstakes-styles.md)
-            + [경품 게재](product-docs/demand-generation/social/sweepstakes/publish-a-sweepstakes.md)
+            + [Publish 어 스위프스테이크](product-docs/demand-generation/social/sweepstakes/publish-a-sweepstakes.md)
             + [경품 당첨자 선택](product-docs/demand-generation/social/sweepstakes/select-sweepstakes-winners.md)
    + 이메일 마케팅 {#email-marketing}
       + 전달성 {#deliverability}
@@ -1449,7 +1449,7 @@ ht-degree: 0%
             + [CC/BCC로 여러 수신자를 추적할 수 있습니까?](product-docs/marketo-sales-insight/actions/faq/can-i-track-multiple-recipients-with-cc-bcc.md)
             + [컨텐츠 및 파일 첨부 파일 FAQ](product-docs/marketo-sales-insight/actions/faq/content-and-file-attachment-faq.md)
             + [이메일의 참조 및 BCC 섹션에 나열된 수신자의 보기, 클릭 수 및 답글이 추적됩니까?](product-docs/marketo-sales-insight/actions/faq/do-views-clicks-and-replies-from-cc-and-bcc-get-tracked.md)
-            + [Sales Insight 작업에는 iPhone 또는 Android 앱이 있습니까?](product-docs/marketo-sales-insight/actions/faq/does-sales-insight-actions-have-an-iphone-or-android-app.md)
+            + [Sales Insight Action에 iPhone 또는 Android 앱이 있습니까?](product-docs/marketo-sales-insight/actions/faq/does-sales-insight-actions-have-an-iphone-or-android-app.md)
             + [내 서버에서 Sales Insight 작업을 어떻게 허용 목록 할 수 있습니까?](product-docs/marketo-sales-insight/actions/faq/how-can-i-allowlist-sales-insight-actions-on-my-server.md)
             + [Salesforce에 연결할 때 &quot;요청을 인증할 수 없습니다.&quot;를 해결하려면 어떻게 합니까?](product-docs/marketo-sales-insight/actions/faq/how-do-i-fix-we-were-unable-to-authenticate-your-request-when-connecting-to-salesforce.md)
             + [자아 보기를 방지하려면 어떻게 해야 합니까?](product-docs/marketo-sales-insight/actions/faq/how-do-i-prevent-self-views.md)
@@ -1561,7 +1561,7 @@ ht-degree: 0%
                + [Sales Insight에서 작업 선택](product-docs/marketo-sales-insight/msi-for-salesforce/features/actions-in-the-msi-panel/choose-an-action-in-sales-insight.md)
                + [Marketo Sales Insight에서 구독 취소 바닥글 구성](product-docs/marketo-sales-insight/msi-for-salesforce/features/actions-in-the-msi-panel/send-marketo-email/configure-unsubscribe-footers-in-marketo-sales-insight.md)
                + [판매 템플릿 잠금](product-docs/marketo-sales-insight/msi-for-salesforce/features/actions-in-the-msi-panel/send-marketo-email/lock-sales-template.md)
-               + [Sales Insight에 이메일 게시](product-docs/marketo-sales-insight/msi-for-salesforce/features/actions-in-the-msi-panel/send-marketo-email/publish-an-email-to-sales-insight.md)
+               + [Sales Insight로 이메일 보내기 Publish](product-docs/marketo-sales-insight/msi-for-salesforce/features/actions-in-the-msi-panel/send-marketo-email/publish-an-email-to-sales-insight.md)
                + [테스트 이메일 보내기](product-docs/marketo-sales-insight/msi-for-salesforce/features/actions-in-the-msi-panel/send-marketo-email/send-a-test-email.md)
             + 언어 지원 {#language-support}
                + [Salesforce에서 다국어 지원을 위한 Sales Insight 준비](product-docs/marketo-sales-insight/msi-for-salesforce/features/language-support/prepare-sales-insight-for-multi-lingual-support-in-salesforce.md)
@@ -1604,14 +1604,7 @@ ht-degree: 0%
       + [Sales Insight for Non-Native MS Dynamics 통합](product-docs/marketo-sales-insight/sales-insight-for-non-native-ms-dynamics-integrations.md)
       + [Sales Insight for Non-Native Salesforce 통합](product-docs/marketo-sales-insight/sales-insight-for-non-native-salesforce-integrations.md)
    + Marketo Sky {#marketo-sky}
-      + [Marketo Sky에 대한 역할 활성화](product-docs/marketo-sky/enabling-roles-for-marketo-sky.md)
       + [예상 비헤이비어](product-docs/marketo-sky/expected-behavior.md)
-      + [Predictive Audiences 시작](product-docs/marketo-sky/getting-started-with-predictive-audiences.md)
-      + [모델 상태 및 데이터 유효성](product-docs/marketo-sky/model-health-and-data-validity.md)
-      + [예측 필터](product-docs/marketo-sky/predictive-filters.md)
-      + [이벤트 상한 설정](product-docs/marketo-sky/setting-an-event-cap.md)
-      + [이벤트 목표 설정](product-docs/marketo-sky/setting-event-goals.md)
-      + [목표 추적 및 예상 등록 이해](product-docs/marketo-sky/understanding-goal-tracking-and-projected-registrations.md)
    + 모바일 마케팅 {#mobile-marketing}
       + 관리자 {#admin}
          + [모바일 앱 추가](product-docs/mobile-marketing/admin/add-a-mobile-app.md)
@@ -1656,7 +1649,7 @@ ht-degree: 0%
          + [스마트 캠페인에서 SMS 옵션 사용](product-docs/mobile-marketing/vibes-sms-messages/using-sms-options-in-a-smart-campaign.md)
          + [SMS 보고](product-docs/mobile-marketing/vibes-sms-messages/sms-reporting.md)
          + [SMS 용어집](product-docs/mobile-marketing/vibes-sms-messages/sms-glossary.md)
-   + 개인화 {#personalization}
+   + Personalization {#personalization}
       + 세그먼테이션 및 코드 조각 {#segmentation-and-snippets}
          + 세분화 {#segmentation}
             + [세분화 승인](product-docs/personalization/segmentation-and-snippets/segmentation/approve-a-segmentation.md)
@@ -1733,8 +1726,8 @@ ht-degree: 0%
             + [인력 성과 보고서에서 드릴다운](product-docs/reporting/basic-reporting/report-activity/drill-down-in-a-people-performance-report.md)
             + [Excel로 보고서 내보내기](product-docs/reporting/basic-reporting/report-activity/export-a-report-to-excel.md)
             + [캠페인 활동 보고서 필터링](product-docs/reporting/basic-reporting/report-activity/filter-a-campaign-activity-report.md)
-            + [캠페인 이메일 보고서에서 에셋 필터링](product-docs/reporting/basic-reporting/report-activity/filter-assets-in-a-campaign-email-reports.md)
-            + [이메일 보고서에서 자산 필터링](product-docs/reporting/basic-reporting/report-activity/filter-assets-in-an-email-report.md)
+            + [캠페인 이메일 보고서에서 Assets 필터링](product-docs/reporting/basic-reporting/report-activity/filter-assets-in-a-campaign-email-reports.md)
+            + [이메일 보고서에서 Assets 필터링](product-docs/reporting/basic-reporting/report-activity/filter-assets-in-an-email-report.md)
             + [속성별 개인 보고서 그룹화](product-docs/reporting/basic-reporting/report-activity/group-person-reports-by-attribute.md)
             + [작업 영역 간 보고서 이메일, 캠페인 성과](product-docs/reporting/basic-reporting/report-activity/report-email-campaign-performance-across-workspaces.md)
             + [작업 영역에서 모델 공유](product-docs/reporting/basic-reporting/report-activity/share-a-model-across-workspaces.md)
@@ -1807,11 +1800,11 @@ ht-degree: 0%
             + [성공 경로 분석기 만들기](product-docs/reporting/revenue-cycle-analytics/revenue-cycle-models/create-a-success-path-analyzer.md)
             + [모델 성능 분석에 대한 사용자 정의 필드 그룹 활성화(잠재 고객)](product-docs/reporting/revenue-cycle-analytics/revenue-cycle-models/enable-custom-field-groups-for-model-performance-analysis-leads.md)
             + [수익 주기 모델에서 모든 리드 찾기](product-docs/reporting/revenue-cycle-analytics/revenue-cycle-models/find-all-leads-in-a-revenue-cycle-model.md)
-            + [수익 모델러에서 두 단계 병합](product-docs/reporting/revenue-cycle-analytics/revenue-cycle-models/merging-two-stages-in-the-revenue-modeler.md)
+            + [매출 Modeler의 두 단계 병합](product-docs/reporting/revenue-cycle-analytics/revenue-cycle-models/merging-two-stages-in-the-revenue-modeler.md)
             + [수익 모델에 대한 보고서](product-docs/reporting/revenue-cycle-analytics/revenue-cycle-models/report-on-your-revenue-model.md)
             + [관리자 계정을 사용하여 수익 모델에서 Google AdWords 전환 설정](product-docs/reporting/revenue-cycle-analytics/revenue-cycle-models/set-google-adwords-conversions-in-the-revenue-model-with-a-manager-account.md)
             + [수익 모델에서 Google AdWords 전환 설정](product-docs/reporting/revenue-cycle-analytics/revenue-cycle-models/set-google-adwords-conversions-in-the-revenue-model.md)
-            + [수익 모델러에서 계정별 추적 시작](product-docs/reporting/revenue-cycle-analytics/revenue-cycle-models/start-tracking-by-account-in-the-revenue-modeler.md)
+            + [매출 Modeler에서 계정별 추적 시작](product-docs/reporting/revenue-cycle-analytics/revenue-cycle-models/start-tracking-by-account-in-the-revenue-modeler.md)
             + [수익 모델 단계 이해](product-docs/reporting/revenue-cycle-analytics/revenue-cycle-models/understanding-revenue-model-phases.md)
             + [수익 모델 성공 경로 이해](product-docs/reporting/revenue-cycle-analytics/revenue-cycle-models/understanding-revenue-model-success-path.md)
             + [수익 모델 이해](product-docs/reporting/revenue-cycle-analytics/revenue-cycle-models/understanding-revenue-models.md)
@@ -1890,7 +1883,7 @@ ht-degree: 0%
          + [계정 프로파일링 설정](product-docs/target-account-management/account-profiling/setting-up-account-profiling.md)
          + [계정 프로파일링 순위 및 조정](product-docs/target-account-management/account-profiling/account-profiling-ranking-and-tuning.md)
          + [새 계정 검색](product-docs/target-account-management/account-profiling/new-account-discovery.md)
-   + 웹 개인화 {#web-personalization}
+   + 웹 Personalization {#web-personalization}
       + 계정 기반 웹 마케팅 {#account-based-web-marketing}
          + [TAM을 통한 계정 기반 웹 마케팅](product-docs/web-personalization/account-based-web-marketing/account-based-web-marketing-with-tam.md)
          + [새 계정 목록 만들기](product-docs/web-personalization/account-based-web-marketing/create-a-new-account-list.md)
@@ -1899,9 +1892,9 @@ ht-degree: 0%
          + [계정 설정에서 하위 도메인 추가](product-docs/web-personalization/getting-started/add-subdomains-in-account-settings.md)
          + [영역 편집](product-docs/web-personalization/getting-started/edit-regions.md)
          + [로그인 및 사용자 관리](product-docs/web-personalization/getting-started/login-and-user-management.md)
-         + [웹 개인화를 추적 안 함으로 설정](product-docs/web-personalization/getting-started/setting-web-personalization-to-do-not-track.md)
+         + [웹 Personalization을 추적 안 함으로 설정](product-docs/web-personalization/getting-started/setting-web-personalization-to-do-not-track.md)
          + [사용자 설정](product-docs/web-personalization/getting-started/user-settings.md)
-         + [웹 개인화의 작업 영역](product-docs/web-personalization/getting-started/workspaces-in-web-personalization.md)
+         + [웹 Personalization의 작업 공간](product-docs/web-personalization/getting-started/workspaces-in-web-personalization.md)
       + RTP 태그 구현 {#rtp-tag-implementation}
          + [RTP JavaScript 배포](product-docs/web-personalization/rtp-tag-implementation/deploy-the-rtp-javascript.md)
          + [RTP JavaScript 태그 활성화 또는 비활성화](product-docs/web-personalization/rtp-tag-implementation/enabling-or-disabling-the-rtp-javascript-tag.md)
@@ -1911,7 +1904,7 @@ ht-degree: 0%
          + [Adobe Tag Manager을 사용하여 RTP 구현](product-docs/web-personalization/rtp-tag-implementation/implementing-rtp-using-adobe-tag-manager.md)
          + [Google Tag Manager를 사용하여 RTP 구현](product-docs/web-personalization/rtp-tag-implementation/implementing-rtp-using-google-tag-manager.md)
          + [Tealium Tag Manager를 사용하여 RTP 구현](product-docs/web-personalization/rtp-tag-implementation/implementing-rtp-using-tealium-tag-manager.md)
-      + 웹 개인화 보고 {#reporting-for-web-personalization}
+      + 웹 Personalization 보고 {#reporting-for-web-personalization}
          + [이메일 보고서](product-docs/web-personalization/reporting-for-web-personalization/email-reports.md)
          + [보고서 구독 활성화/비활성화](product-docs/web-personalization/reporting-for-web-personalization/enable-disable-report-subscriptions.md)
          + [추적 대상에서 특정 IP 제외](product-docs/web-personalization/reporting-for-web-personalization/exclude-specific-ips-from-being-tracked.md)
@@ -1923,10 +1916,10 @@ ht-degree: 0%
             + [RTP와 Google Analytics 통합](product-docs/web-personalization/reporting-for-web-personalization/web-analytics-integrations/integrate-rtp-with-google-analytics.md)
             + [RTP를 Google Universal Analytics와 통합](product-docs/web-personalization/reporting-for-web-personalization/web-analytics-integrations/integrate-rtp-with-google-universal-analytics.md)
             + [Adobe Analytics과 통합](product-docs/web-personalization/reporting-for-web-personalization/web-analytics-integrations/integrate-with-adobe-analytics.md)
-      + 웹 개인화 이해 {#understanding-web-personalization}
+      + 웹 Personalization 이해 {#understanding-web-personalization}
          + [콘텐츠 분석 이해](product-docs/web-personalization/understanding-web-personalization/understanding-content-analytics.md)
-         + [웹 개인화 용어집](product-docs/web-personalization/understanding-web-personalization/web-personalization-glossary.md)
-         + [웹 개인화 개요](product-docs/web-personalization/understanding-web-personalization/web-personalization-overview.md)
+         + [웹 Personalization 용어집](product-docs/web-personalization/understanding-web-personalization/web-personalization-glossary.md)
+         + [웹 Personalization 개요](product-docs/web-personalization/understanding-web-personalization/web-personalization-overview.md)
       + 템플릿 사용 {#using-templates}
          + [캠페인을 템플릿으로 저장](product-docs/web-personalization/using-templates/save-your-campaign-as-a-template.md)
          + [템플릿을 사용하여 웹 캠페인 만들기](product-docs/web-personalization/using-templates/using-templates-to-create-web-campaigns.md)
@@ -1942,7 +1935,7 @@ ht-degree: 0%
       + 웹 사이트 재타겟팅 {#website-retargeting}
          + [facebook의 개인화된 리마케팅](product-docs/web-personalization/website-retargeting/personalized-remarketing-in-facebook.md)
          + [Google의 개인화된 리마케팅](product-docs/web-personalization/website-retargeting/personalized-remarketing-in-google.md)
-         + [웹 개인화 데이터를 사용하여 재타겟팅](product-docs/web-personalization/website-retargeting/retargeting-with-web-personalization-data.md)
+         + [웹 Personalization 데이터를 사용하여 재타겟팅](product-docs/web-personalization/website-retargeting/retargeting-with-web-personalization-data.md)
       + 웹 캠페인 작업 {#working-with-web-campaigns}
          + [AB 웹 캠페인 테스트](product-docs/web-personalization/working-with-web-campaigns/ab-test-your-web-campaign.md)
          + [웹 캠페인에 Target URL 추가](product-docs/web-personalization/working-with-web-campaigns/adding-a-target-url-to-a-web-campaign.md)
@@ -1951,7 +1944,7 @@ ht-degree: 0%
          + [새 대화 상자 웹 캠페인 만들기](product-docs/web-personalization/working-with-web-campaigns/create-a-new-dialog-web-campaign.md)
          + [Zone Web Campaign에서 새로운 기능 만들기](product-docs/web-personalization/working-with-web-campaigns/create-a-new-in-zone-web-campaign.md)
          + [새 위젯 웹 캠페인 만들기](product-docs/web-personalization/working-with-web-campaigns/create-a-new-widget-web-campaign.md)
-         + [웹 개인화 활동에 대한 스마트 목록 정의](product-docs/web-personalization/working-with-web-campaigns/define-a-smart-list-for-web-personalization-activities.md)
+         + [웹 Personalization 활동에 대한 스마트 목록 정의](product-docs/web-personalization/working-with-web-campaigns/define-a-smart-list-for-web-personalization-activities.md)
          + [웹 캠페인 삭제](product-docs/web-personalization/working-with-web-campaigns/delete-a-web-campaign.md)
          + [기존 웹 캠페인 편집](product-docs/web-personalization/working-with-web-campaigns/edit-an-existing-web-campaign.md)
          + [웹 캠페인에 양식 포함](product-docs/web-personalization/working-with-web-campaigns/embed-a-form-into-a-web-campaign.md)
@@ -1964,7 +1957,7 @@ ht-degree: 0%
          + [웹 캠페인 예약](product-docs/web-personalization/working-with-web-campaigns/schedule-a-web-campaign.md)
          + [웹 캠페인이 표시되는 방식 설정](product-docs/web-personalization/working-with-web-campaigns/set-how-your-web-campaign-displays.md)
          + [최신 성과 또는 최고 성과별로 웹 캠페인 정렬](product-docs/web-personalization/working-with-web-campaigns/sort-web-campaigns-by-latest-or-top-performing.md)
-         + [웹 개인화 리치 텍스트 편집기 사용](product-docs/web-personalization/working-with-web-campaigns/using-the-web-personalization-rich-text-editor.md)
+         + [웹 Personalization 리치 텍스트 편집기 사용](product-docs/web-personalization/working-with-web-campaigns/using-the-web-personalization-rich-text-editor.md)
          + [특정 레이블의 웹 캠페인 보기](product-docs/web-personalization/working-with-web-campaigns/view-web-campaigns-from-a-specific-label.md)
 + 릴리스 정보 {#release-notes}
    + [릴리스 일정](release-notes/release-schedule.md)
