@@ -4,9 +4,9 @@ description: 앱 내 메시지 텍스트 만들기 - Marketo 문서 - 제품 설
 title: 인앱 메시지 텍스트 만들기
 exl-id: 8fe5f004-dafb-4e03-9628-bd92fcb3fd44
 feature: Mobile Marketing
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: ea9bf2a002415936cdfb5bfb723ce80723003da5
 workflow-type: tm+mt
-source-wordcount: '352'
+source-wordcount: '369'
 ht-degree: 0%
 
 ---
@@ -14,6 +14,10 @@ ht-degree: 0%
 # 인앱 메시지 텍스트 만들기 {#create-in-app-message-text}
 
 텍스트 스타일 및 콘텐츠를 작업하려면 텍스트 영역을 클릭합니다.
+
+>[!CAUTION]
+>
+>현재는 이모지가 완전히 지원되지 않으므로 텍스트에서 이모지를 사용하지 않는 것이 좋습니다.
 
 1. 인라인 편집하려면 주 텍스트를 클릭하십시오.
 
@@ -41,19 +45,19 @@ ht-degree: 0%
 
    >[!NOTE]
    >
-   >광고에 렌더링되는 텍스트 글꼴은 각 플랫폼의 표준 글꼴입니다(Apple의 경우 Helvetica, Android의 경우 Roboto)
+   >광고에 렌더링되는 텍스트 글꼴은 각 플랫폼에 대한 표준 글꼴입니다(Apple의 경우 Helvetica, Android의 경우 Roboto)
 
 1. 텍스트 탭 작업을 선택하려면 상자를 선택합니다.
 
    ![](assets/image2016-5-6-10-3a20-3a41.png)
 
-1. 각 플랫폼(Apple 또는 Android)에 대한 탭 작업을 선택합니다.
+1. 각 플랫폼(Apple 또는 Android)에 대해 탭 작업을 선택합니다.
 
    ![](assets/image2016-5-6-10-3a22-3a12.png)
 
    >[!NOTE]
    >
-   >탭 작업의 경우 Apple 및 Android 플랫폼에 대해 다양한 작업을 설정할 수 있습니다. 예를 들어 딥링크는 Apple과 Android에서 다르게 처리됩니다. 메시지가 한 플랫폼 또는 다른 플랫폼으로만 이동하는 경우 다른 플랫폼은 기본 설정에 두거나 없음을 선택할 수 있습니다.
+   >탭 작업의 경우 Apple 및 Android 플랫폼에 대해 다양한 작업을 설정할 수 있습니다. 예를 들어 딥링크는 Apple 및 Android에서 다르게 처리됩니다. 메시지가 한 플랫폼 또는 다른 플랫폼으로만 이동하는 경우 다른 플랫폼은 기본 설정에 두거나 없음을 선택할 수 있습니다.
 
 1. 인라인 편집하려면 지원 텍스트를 클릭하십시오. 기본 텍스트를 편집하는 것과 같은 방식으로 작동하지만 기본 텍스트 크기는 더 작습니다.
 
