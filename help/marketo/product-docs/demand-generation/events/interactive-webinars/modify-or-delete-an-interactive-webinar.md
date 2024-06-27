@@ -3,7 +3,7 @@ description: 대화형 웨비나 수정 또는 삭제 - Marketo 문서 - 제품 
 title: 대화형 웨비나 수정 또는 삭제
 exl-id: 01dd801f-809b-481f-b926-2ed48bfbd5b7
 feature: Interactive Webinars
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 19f60f58ae4de26536b304eb8ae9677ecc221993
 workflow-type: tm+mt
 source-wordcount: '287'
 ht-degree: 0%
@@ -64,7 +64,7 @@ ht-degree: 0%
    >
    >트리에서 이벤트 프로그램 을 마우스 오른쪽 단추로 클릭하고 를 선택할 수도 있습니다 **복제** 거기에서.
 
-1. 복제된 프로그램에 이름을 지정하고 Workspace 및 Destination( 프로그램이 다른 곳에 존재하도록 하려는 경우)을 설정한 다음 을 클릭합니다. **저장**.
+1. 복제된 프로그램의 이름을 지정하고 Workspace 및 대상(프로그램이 다른 곳에 존재하도록 하려는 경우)을 설정한 다음 을 클릭합니다. **저장**.
 
    ![](assets/modify-or-delete-an-interactive-webinar-10.png)
 

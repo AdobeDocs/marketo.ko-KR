@@ -3,9 +3,9 @@ description: 이메일 연결 제한 - Marketo 문서 - 제품 설명서
 title: 이메일 연결 제한
 exl-id: 02450a1e-5b30-4057-b204-19fab1a7d6c9
 feature: Sales Insight Actions
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 19f60f58ae4de26536b304eb8ae9677ecc221993
 workflow-type: tm+mt
-source-wordcount: '435'
+source-wordcount: '419'
 ht-degree: 0%
 
 ---
@@ -15,10 +15,6 @@ ht-degree: 0%
 Exchange 또는 Gmail 이메일 공급자를 통해 전송하기 위해 Sales Connect 계정을 통합하면 간소화된 설정이 제공되며 1:1 판매 커뮤니케이션을 위한 이메일 전달성을 최적화합니다. 그러나 시스템의 상태와 계정의 안전을 유지하기 위해 Gmail 및 Exchange는 이메일 전송 제한을 적용합니다. 이러한 한계는 제공자의 재량에 따라 증감될 여지가 있다.
 
 ## 이메일 연결 제한(Beta) {#email-connection-throttling-beta}
-
->[!AVAILABILITY]
->
->이 기능은 현재 Beta 버전입니다. 가입하려면 Adobe 계정 팀(계정 관리자)에 문의하십시오.
 
 이메일 연결 제한을 사용하면 Sales Connect 관리자는 Gmail 또는 Exchange를 게재 채널로 사용할 때 이메일 전송 속도를 구성할 수 있으므로 전송 채널 공급자에게 이메일이 전달되는 속도가 강제 제한을 초과하지 않습니다.
 
@@ -53,7 +49,7 @@ Exchange 또는 Gmail 이메일 공급자를 통해 전송하기 위해 Sales Co
 
    ![](assets/email-connection-throttling-5.png)
 
-1. 클릭 **저장**.
+1. **저장**&#x200B;을 클릭합니다.
 
    ![](assets/email-connection-throttling-6.png)
 

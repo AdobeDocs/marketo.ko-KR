@@ -3,9 +3,9 @@ description: Identity Management FAQ Adobe - Marketo 문서 - 제품 설명서
 title: IDENTITY MANAGEMENT FAQ ADOBE
 feature: Marketo with Adobe Identity
 exl-id: 2401def7-1696-4d77-a8a3-96c490517121
-source-git-commit: af5e6b567c074507e20a8b8d312f3abaa5ab60b0
+source-git-commit: 19f60f58ae4de26536b304eb8ae9677ecc221993
 workflow-type: tm+mt
-source-wordcount: '1202'
+source-wordcount: '1279'
 ht-degree: 0%
 
 ---
@@ -25,6 +25,16 @@ Adobe Identity Management 시스템은 세 가지 구성 요소로 구성됩니�
 **기존 Marketo Engage 구독은 언제 IMS와 통합됩니까?**
 
 기존 Marketo 구독은 올해 말 Adobe Identity Management 시스템으로 마이그레이션됩니다. Marketo 지원에서는 Adobe IMS 마이그레이션과 관련된 업데이트를 제공할 수 없습니다. Adobe 계정 팀은 앞으로 몇 달 안에 예상 타임라인을 확인할 것입니다.
+
+**마이그레이션 후에도 Marketo Engage URL은 그대로 유지됩니까?**
+
+아니. 마이그레이션 후 URL은 다르게 표시됩니다. 그러나 에셋의 ID 번호는 그대로 유지됩니다. 또한 이전에 저장한 책갈피는 여전히 올바른 위치로 이동해야 합니다.
+
+**URL 변경 시 준비해야 할 사항이 있나요?**
+
+예. IT 팀에 문의하여 모든 Marketo Engage 리소스 및 웹 소켓을 허용하도록 아래(별표 포함) 도메인을 추가하는지 확인하십시오.
+
+_*.experience.adobe.com_
 
 **Adobe 제품 관리자와 Marketo Engage 관리자의 차이점은 무엇입니까?**
 
