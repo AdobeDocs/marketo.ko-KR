@@ -4,16 +4,20 @@ description: 프로그램에서 태그 사용 - Marketo 문서 - 제품 설명�
 title: 프로그램에서 태그 사용
 exl-id: f1bae623-a710-472a-a30f-9044ce1001f5
 feature: Programs
-source-git-commit: aca03bfe0626abd18b8d797d0ad85bbeb7280f55
+source-git-commit: 271b3f9a6c526e343f04d4d05d4c03f2ae32d146
 workflow-type: tm+mt
-source-wordcount: '137'
-ht-degree: 4%
+source-wordcount: '164'
+ht-degree: 3%
 
 ---
 
 # 프로그램에서 태그 사용 {#use-tags-in-a-program}
 
 태그는 프로그램을 설명하는 속성이며 보고에서 프로그램 유형을 그룹화하는 데 사용됩니다.
+
+>[!NOTE]
+>
+>수익 주기 탐색기를 사용하는 경우 프로그램에 보고를 사용할 수 있으려면 기간 원가를 정의해야 합니다(0인 경우에도).
 
 ## 프로그램에서 태그 사용 {#use-a-tag-in-a-program}
 
