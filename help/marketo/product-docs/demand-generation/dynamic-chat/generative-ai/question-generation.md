@@ -3,9 +3,9 @@ description: 질문 생성 - Marketo 문서 - 제품 설명서
 title: 질문 생성
 feature: Dynamic Chat
 exl-id: 05e0fd4c-b8e0-47de-8ca8-d4ba07d6a06a
-source-git-commit: 6bdac72f0b9831ba830d842cabffbd0f114325fb
+source-git-commit: a711da0fe04e967bfc525be4f3df59d978021592
 workflow-type: tm+mt
-source-wordcount: '279'
+source-wordcount: '298'
 ht-degree: 0%
 
 ---
@@ -31,6 +31,10 @@ ht-degree: 0%
    >[!IMPORTANT]
    >
    >Marketo Engage허용 목록에 추가하다 가 제공된 URL에서 컨텐츠를 스크랩할 수 있도록 하려면 먼저 몇 개의 IP 주소를 스크랩해야 합니다. [자세한 내용은 아래를 참조하십시오](#ip-addresses-to-allowlist).
+
+   >[!NOTE]
+   >
+   >사이트/페이지는 정보를 스크랩하려면 공개(즉, 로그인 뒤에 숨기지 않음)여야 합니다.
 
 1. 콘텐츠에 따라 질문 및 응답 생성에는 최대 30분이 소요될 수 있습니다. 클릭 **[!UICONTROL 확인]**.
 
