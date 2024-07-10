@@ -3,7 +3,7 @@ description: 현재 릴리스 정보 - Marketo 설명서 - 제품 설명서
 title: 최신 릴리스 정보
 exl-id: a2eccad5-73ad-48f9-8091-51cee23824e1
 feature: Release Information
-source-git-commit: 10a77a09f5ca9ce57e7a357fe1b6736b7bdb95e3
+source-git-commit: cb69844d8e9e25cae19bc2d4a91c28376f58eadb
 workflow-type: tm+mt
 source-wordcount: '465'
 ht-degree: 1%
@@ -12,7 +12,7 @@ ht-degree: 1%
 
 # 릴리스 노트: 2024년 7월 {#release-notes-july-24}
 
-아래에는 2024년 6월 릴리스에 포함된 모든 기능이 있습니다. Adobe Marketo Engage 버전에서 사용 가능한 기능이 있는지 확인하십시오.
+아래에는 2024년 7월 릴리스에 포함된 모든 기능이 있습니다. Adobe Marketo Engage 버전에서 사용 가능한 기능이 있는지 확인하십시오.
 
 Adobe Dynamic Chat에 대한 릴리스 노트 [은(는) 여기에서 찾을 수 있음](/help/marketo/release-notes/dynamic-chat.md){target="_blank"}.
 
