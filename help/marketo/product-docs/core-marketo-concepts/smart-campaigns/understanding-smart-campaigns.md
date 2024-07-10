@@ -4,18 +4,18 @@ description: 스마트 캠페인 이해 - Marketo 문서 - 제품 설명서
 title: 스마트 캠페인 이해
 exl-id: 94675059-cc04-4dc2-989f-aaf81e1260d3
 feature: Smart Campaigns
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 6dd6ce30dd90684ca685ae709cd9ab95e1c7d7e8
 workflow-type: tm+mt
-source-wordcount: '243'
-ht-degree: 1%
+source-wordcount: '249'
+ht-degree: 2%
 
 ---
 
 # 스마트 캠페인 이해 {#understanding-smart-campaigns}
 
-Marketo이 강력한 자동차라면 스마트 캠페인은 그야말로 엔진이다. 시작하는 것은 간단하지만 원하는 거의 모든 작업을 수행할 수 있습니다.
+Marketo Engage이 자동차라면 스마트 캠페인이 엔진입니다. 스마트 캠페인은 생각보다 많은 작업을 수행할 수 있으며, 쉽게 사용할 수 있습니다.
 
-스마트 캠페인에는 다음과 같은 3가지 주요 영역이 있습니다. [스마트 목록](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/understanding-smart-lists.md){target="_blank"}, [Flow](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/add-a-flow-step-to-a-smart-campaign.md){target="_blank"} and [Schedule](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/using-smart-campaigns/schedule-a-recurring-batch-campaign.md){target="_blank"} 탭.
+스마트 캠페인에는 다음과 같은 3가지 주요 영역이 있습니다. [스마트 목록](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/understanding-smart-lists.md){target="_blank"}, [플로우](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/add-a-flow-step-to-a-smart-campaign.md){target="_blank"} 및 [예약](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/using-smart-campaigns/schedule-a-recurring-batch-campaign.md){target="_blank"} 탭.
 
 ## 스마트 목록 {#smart-list}
 
@@ -51,7 +51,7 @@ Marketo이 강력한 자동차라면 스마트 캠페인은 그야말로 엔진�
 
 마지막으로, 스마트 캠페인을 실행할 시기를 제어합니다. 반복을 설정하여 반복 일정에 따라 실행되도록 할 수도 있습니다.
 
-스마트 캠페인이 할 수 있는 일은 엄청나게 많다. 요령을 터득하면 Marketo의 모든 것을 이해하기가 훨씬 더 간단해집니다.
+Smart Campaign이 수행할 수 있는 작업은 매우 방대합니다. 요령을 터득하면 Marketo의 모든 것을 이해하기가 훨씬 더 간단해집니다.
 
 >[!CAUTION]
 >
