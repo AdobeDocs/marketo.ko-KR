@@ -1,11 +1,12 @@
 ---
 description: 설정 단계 - Marketo 문서 - 제품 설명서
+short-description: Adobe Marketo Engage을 시작하시겠습니까? 들어가기 전에 완료해야 하는 단계를 알아봅니다.
 title: 설정 단계
 feature: Getting Started
 exl-id: 5f37da48-b2ed-4e48-a5a2-429149745085
-source-git-commit: 14583b7fa148aa2b03c8cf6316b9a106c11717b7
+source-git-commit: 384740fdfc1f6950369116bd77ee49f9e745bdf1
 workflow-type: tm+mt
-source-wordcount: '1675'
+source-wordcount: '1708'
 ht-degree: 0%
 
 ---
@@ -261,7 +262,7 @@ IT 담당자가 작업을 완료하면 다음 단계에 따라 랜딩 페이지 
 >
 >다음 대상이 맞습니까? [!DNL Launch Pack] 고객? 이 단계는 건너뛸 수 있습니다. 컨설턴트가 다음을 제공합니다. [!DNL Munchkin] IT 설치 지침 문서의 코드 지침
 
-Marketo Engage에 사용자 지정 추적 JavaScript(호출)가 있습니다. [!DNL Munchkin])를 사용하여 웹 페이지에서 개인 활동을 추적할 수 있습니다. [!DNL Munchkin] 웹 사이트를 Marketo에 통합하는 데 필요합니다. 다음 단계를 따라 [추가 [!DNL Munchkin] 웹 사이트에 대한 추적 코드](/help/marketo/product-docs/administration/additional-integrations/add-munchkin-tracking-code-to-your-website.md){target="_blank"}.
+Marketo Engage에게 사용자 지정 추적 JavaScript(라고 함)이 있음 [!DNL Munchkin])를 사용하여 웹 페이지에서 개인 활동을 추적할 수 있습니다. [!DNL Munchkin] 웹 사이트를 Marketo에 통합하는 데 필요합니다. 다음 단계를 따라 [추가 [!DNL Munchkin] 웹 사이트에 대한 추적 코드](/help/marketo/product-docs/administration/additional-integrations/add-munchkin-tracking-code-to-your-website.md){target="_blank"}.
 
 >[!NOTE]
 >
@@ -269,7 +270,7 @@ Marketo Engage에 사용자 지정 추적 JavaScript(호출)가 있습니다. [!
 
 ## 성능 기대치 {#performance-expectations}
 
-Marketo의 성능 측면에서 기대할 수 있는 사항은 무엇입니까? 마케팅 캠페인의 크기와 복잡성에 따라 달라질 수 있습니다. 그러나 의 일부 표에서 &quot;표준&quot; 열에 요약된 것과 동일한 성능 수준을 기대할 수 있습니다. [Marketo Engage 제품 설명](https://helpx.adobe.com/legal/product-descriptions/adobe-marketo-engage---product-description.html){target="_blank"}. The "Performance" and "Performance Plus" columns refer to performance tier packages that provide [higher performance levels](https://nation.marketo.com/t5/product-documents/marketo-engage-performance-tiers/ta-p/328835){target="_blank"}.
+Marketo의 성능 측면에서 기대할 수 있는 사항은 무엇입니까? 마케팅 캠페인의 크기와 복잡성에 따라 달라질 수 있습니다. 그러나 의 일부 표에서 &quot;표준&quot; 열에 요약된 것과 동일한 성능 수준을 기대할 수 있습니다. [Marketo Engage 제품 설명](https://helpx.adobe.com/legal/product-descriptions/adobe-marketo-engage---product-description.html){target="_blank"}. &quot;성능&quot; 및 &quot;성능 플러스&quot; 열은 다음을 제공하는 성능 계층 패키지를 나타냅니다 [더 높은 성능 수준](https://nation.marketo.com/t5/product-documents/marketo-engage-performance-tiers/ta-p/328835){target="_blank"}.
 
 >[!MORELIKETHIS]
 >

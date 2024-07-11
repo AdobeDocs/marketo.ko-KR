@@ -1,11 +1,12 @@
 ---
 description: Marketo Engage 용어집 - Marketo 설명서 - 제품 설명서
+short-description: 속도를 빠르게 향상하는 데 도움이 되는 Marketo Engage 용어 및 해당 정의를 알아봅니다.
 title: Marketo Engage 용어집
 feature: Getting Started
 exl-id: 57b60323-fe4a-4de1-898d-282e5aefd3ed
-source-git-commit: 2b610cc3486b745212b0b1f36018a83214d7ecd7
+source-git-commit: 384740fdfc1f6950369116bd77ee49f9e745bdf1
 workflow-type: tm+mt
-source-wordcount: '4083'
+source-wordcount: '4098'
 ht-degree: 1%
 
 ---
@@ -52,7 +53,7 @@ ht-degree: 1%
   </tr> 
   <tr> 
    <td colspan="1"><a href="/help/marketo/product-docs/demand-generation/ad-network-integrations/understanding-ad-network-integrations.md" rel="nofollow"><strong>광고 네트워크 통합 </strong></a></td> 
-   <td colspan="1">(이전 Ad Bridge) Marketo의 고유 대상 데이터를 유료 미디어 시스템에 연결하여 더 많이 타깃팅되고 개인화된 디지털 광고 캠페인을 실행할 수 있는 방법입니다.</td> 
+   <td colspan="1">(이전 Ad Bridge) 더 많은 타겟팅되고 개인화된 디지털 광고 캠페인을 실행할 수 있도록 Marketo의 고유 대상 데이터를 유료 미디어 시스템에 연결하는 방법입니다.</td> 
   </tr> 
   <tr> 
    <td colspan="1"><strong>Adobe Marketo Engage</strong></td> 
@@ -72,7 +73,7 @@ ht-degree: 1%
   </tr> 
   <tr> 
    <td colspan="1"><strong>승인됨</strong></td> 
-   <td colspan="1">다음을 확인할 때 사용됨: <strong>자산</strong> 소비할 준비가 되었습니다. 자산은 승인될 때까지 공개적으로 볼 수 없습니다.</td> 
+   <td colspan="1">다음을 확인할 때 사용됨: <strong>자산</strong> 소비할 준비가 되었습니다. Assets은 승인될 때까지 공개적으로 볼 수 없습니다.</td> 
   </tr> 
   <tr> 
    <td colspan="1"><strong>자산</strong></td> 
@@ -128,7 +129,7 @@ ht-degree: 1%
  <tbody> 
   <tr> 
    <td colspan="1"><strong>Campaign</strong></td> 
-   <td colspan="1">"캠페인"은 Marketo에서 몇 가지 의미를 가질 수 있습니다. A <a href="/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/understanding-smart-campaigns.md" rel="nofollow">campaign</a> 는 스마트 캠페인에 대한 짧은 용어입니다. 위치 <strong>Marketo Sales Connect</strong>, <a href="/help/marketo/product-docs/marketo-sales-connect/campaigns/create-a-campaign.md" rel="nofollow">캠페인</a> 일련의 다중 채널 대응 단계입니다. 위치 <strong>웹 개인화</strong>, 웹 <a href="/help/marketo/product-docs/web-personalization/working-with-web-campaigns/create-a-new-dialog-web-campaign.md" rel="nofollow">캠페인</a> 특정 세그먼트와 연관된 사용자 지정 반응입니다.</td> 
+   <td colspan="1">"캠페인"은 Marketo에서 몇 가지 의미를 가질 수 있습니다. A <a href="/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/understanding-smart-campaigns.md" rel="nofollow">campaign</a> 는 스마트 캠페인에 대한 짧은 용어입니다. 위치 <strong>Marketo Sales Connect</strong>, <a href="/help/marketo/product-docs/marketo-sales-connect/campaigns/create-a-campaign.md" rel="nofollow">캠페인</a> 일련의 다중 채널 대응 단계입니다. 위치 <strong>웹 Personalization</strong>, 웹 <a href="/help/marketo/product-docs/web-personalization/working-with-web-campaigns/create-a-new-dialog-web-campaign.md" rel="nofollow">캠페인</a> 특정 세그먼트와 연관된 사용자 지정 반응입니다.</td> 
   </tr>
   <tr> 
    <td colspan="1"><strong><a href="/help/marketo/product-docs/reporting/basic-reporting/report-types/campaign-email-performance-report.md" rel="nofollow">캠페인 이메일 성과 보고서</a></strong></td> 
@@ -184,7 +185,7 @@ ht-degree: 1%
   </tr> 
   <tr> 
    <td colspan="1"><a href="/help/marketo/product-docs/web-personalization/understanding-web-personalization/understanding-content-analytics.md" rel="nofollow"><strong>콘텐츠 분석</strong></a></td> 
-   <td colspan="1">의 영역 <strong>웹 개인화</strong> 웹 사이트에서 검색된 기존 콘텐츠와 콘텐츠 성능을 표시합니다.</td> 
+   <td colspan="1">의 영역 <strong>웹 Personalization</strong> 웹 사이트에서 검색된 기존 콘텐츠와 콘텐츠 성능을 표시합니다.</td> 
   </tr> 
   <tr> 
    <td colspan="1"><strong>콘텐츠 참여 수준</strong></td> 
@@ -393,8 +394,8 @@ ht-degree: 1%
    <td><p>2018년 5월 25일에 발효된 유럽연합 법안은 EU 시민에게 개인 데이터에 대한 더 많은 통제권을 부여하는 것을 목표로 하고 있습니다.</p></td> 
   </tr> 
   <tr> 
-   <td><strong>글로벌 자산</strong></td> 
-   <td>에서 생성된 에셋 <strong>Design Studio</strong> 에서 사용 <strong>프로그램</strong> Marketo 인스턴스 간에 코드를 전송합니다. </td> 
+   <td><strong>글로벌 Assets</strong></td> 
+   <td>에서 생성된 Assets <strong>Design Studio</strong> 에서 사용 <strong>프로그램</strong> Marketo 인스턴스 간에 코드를 전송합니다. </td> 
   </tr> 
   <tr> 
    <td colspan="1"><strong>안내식 랜딩 페이지</strong></td> 
@@ -483,8 +484,8 @@ ht-degree: 1%
    <td colspan="1">사람들의 컬렉션입니다. Marketo에는 스마트 목록과 정적 목록이 있습니다. A <a href="/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/understanding-smart-lists.md" rel="nofollow">스마트 목록</a> 는 사용자가 정의한 필터(예: 데이터베이스에 있는 캘리포니아에 거주하는 모든 사람)를 기반으로 하므로 지속적으로 변경할 수 있는 동적 사용자 목록입니다. 새 사용자가 기준에 대한 자격이 되면(또는 기존 사용자가 더 이상 자격이 없는 경우) 목록이 변경됩니다. A <a href="/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/static-lists/understanding-static-lists.md" rel="nofollow">정적 목록</a> 정적이에요 수동으로 다른 사용자를 추가/삭제하지 않는 한 변경되지 않습니다.</td> 
   </tr> 
   <tr> 
-   <td><a href="/help/marketo/product-docs/core-marketo-concepts/programs/creating-programs/understanding-local-assets-in-a-program.md" rel="nofollow"><strong>로컬 자산</strong></a></td> 
-   <td><strong>에셋</strong> 특정 내에서 활용됨 <strong>프로그램</strong>.</td> 
+   <td><a href="/help/marketo/product-docs/core-marketo-concepts/programs/creating-programs/understanding-local-assets-in-a-program.md" rel="nofollow"><strong>로컬 Assets</strong></a></td> 
+   <td><strong>Assets</strong> 특정 내에서 활용됨 <strong>프로그램</strong>.</td> 
   </tr> 
  </tbody> 
 </table>
@@ -861,14 +862,14 @@ ht-degree: 1%
     <div> 
      <p><strong> 웹 캠페인</strong></p> 
     </div></td> 
-   <td colspan="1">특정 세그먼트와 연관된 사용자 지정 반응입니다. 위치 <strong>웹 개인화</strong>, 웹 캠페인은 다음과 같습니다 <a href="/help/marketo/product-docs/web-personalization/working-with-web-campaigns/create-a-new-dialog-web-campaign.md" rel="nofollow">대화 상자</a>, <a href="/help/marketo/product-docs/web-personalization/working-with-web-campaigns/create-a-new-in-zone-web-campaign.md" rel="nofollow">영역</a>, 및 <strong><a href="/help/marketo/product-docs/web-personalization/working-with-web-campaigns/create-a-new-widget-web-campaign.md" rel="nofollow">위젯</a></strong>.</td> 
+   <td colspan="1">특정 세그먼트와 연관된 사용자 지정 반응입니다. 위치 <strong>웹 Personalization</strong>, 웹 캠페인은 다음과 같습니다 <a href="/help/marketo/product-docs/web-personalization/working-with-web-campaigns/create-a-new-dialog-web-campaign.md" rel="nofollow">대화 상자</a>, <a href="/help/marketo/product-docs/web-personalization/working-with-web-campaigns/create-a-new-in-zone-web-campaign.md" rel="nofollow">영역</a>, 및 <strong><a href="/help/marketo/product-docs/web-personalization/working-with-web-campaigns/create-a-new-widget-web-campaign.md" rel="nofollow">위젯</a></strong>.</td> 
   </tr> 
   <tr> 
    <td><strong><a href="/help/marketo/product-docs/reporting/basic-reporting/report-types/web-page-activity-report.md" rel="nofollow">웹 페이지 활동 보고서</a></strong></td> 
    <td>Marketo의 보고서 유형입니다. 이를 통해 알려진 항목을 볼 수 있습니다 <i>또는</i> 웹 사이트를 방문하는 익명 사용자.</td> 
   </tr> 
   <tr> 
-   <td><strong><a href="/help/marketo/product-docs/web-personalization/understanding-web-personalization/web-personalization-overview.md" rel="nofollow">웹 개인화</strong></td> 
+   <td><strong><a href="/help/marketo/product-docs/web-personalization/understanding-web-personalization/web-personalization-overview.md" rel="nofollow">웹 Personalization</strong></td> 
    <td>Marketo 사용자가 누구이며 어떤 작업을 수행하는지에 따라 실시간으로 알려진 방문자와 익명의 방문자의 참여를 유도하는 타겟팅 및 개인화 플랫폼을 제공하는 추가 기능입니다.</td> 
   </tr>
   <tr> 
@@ -889,7 +890,7 @@ ht-degree: 1%
   </tr> 
   <tr> 
    <td><strong>와일드카드</strong></td> 
-   <td>문자(*)는 <strong>웹 개인화</strong>) 문자열의 다른 문자를 대체하기 위해 문자열 앞 또는 뒤에 사용됩니다.</td> 
+   <td>문자(*)는 <strong>웹 Personalization</strong>) 문자열의 다른 문자를 대체하기 위해 문자열 앞 또는 뒤에 사용됩니다.</td> 
   </tr> 
   <tr> 
    <td><strong><a href="/help/marketo/product-docs/administration/workspaces-and-person-partitions/understanding-workspaces-and-person-partitions.md" rel="nofollow">작업 영역</a></strong></td> 

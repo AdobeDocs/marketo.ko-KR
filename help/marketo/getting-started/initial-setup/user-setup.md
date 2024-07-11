@@ -1,11 +1,12 @@
 ---
 description: 새 Marketo Engage 인스턴스를 탐색하기 전에 몇 가지 기본 단계를 완료하여 계속 사용해야 합니다. 이러한 단계에는 사용자 계정 설정, 지원 관리자 설정 및 지속적인 시스템 업데이트 구독이 포함됩니다.
+short-description: 초기 설정 단계를 완료한 후 원활한 지속적인 사용을 위해 기본 요소를 설정하는 방법에 대해 알아보십시오.
 title: 사용자 설정 체크리스트
 feature: Getting Started
 exl-id: c7b068fc-a038-4f9c-a037-72440a1a864e
-source-git-commit: 889071c38fdf1fc99c27cf14064a5463a162916e
+source-git-commit: 384740fdfc1f6950369116bd77ee49f9e745bdf1
 workflow-type: tm+mt
-source-wordcount: '794'
+source-wordcount: '811'
 ht-degree: 0%
 
 ---
