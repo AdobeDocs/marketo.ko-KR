@@ -3,16 +3,16 @@ description: 생성 AI 개요 - Marketo 문서 - 제품 설명서
 title: 생성 AI 개요
 feature: Dynamic Chat
 exl-id: 2ec6409b-f2c8-42a4-94e0-5d2cd331a0a6
-source-git-commit: 5aaf7081bbe96ff49753a7e142b0f3b38a70ea10
+source-git-commit: 338f7ab16b3eea1a5d9777ca5283a1b1629376e6
 workflow-type: tm+mt
-source-wordcount: '437'
+source-wordcount: '445'
 ht-degree: 2%
 
 ---
 
 # 생성 AI 개요 {#generative-ai-overview}
 
-Adobe Dynamic Chat의 생성 AI는 의도 신호, 사용자 환경 설정 및 과거 행동을 실시간으로 처리하여 채팅 방문자를 위한 관련성 있고 개인화된 메시지를 생성합니다.
+Adobe Dynamic Chat의 생성 AI 기반 기능을 사용하면 판매 에이전트의 생산성을 최적화하고, 웹 사이트 방문자의 의도에 대한 통찰력을 얻고, 방문자 질문에 안전한 방식으로 응답할 수 있습니다.
 
 ## 권한 {#permissions}
 
