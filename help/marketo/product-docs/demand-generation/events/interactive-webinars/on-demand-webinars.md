@@ -3,9 +3,9 @@ description: 온디맨드 웨비나 - Marketo 문서 - 제품 설명서
 title: 온디맨드 웨비나
 feature: Interactive Webinars
 exl-id: 65bfc1d2-6382-4cfa-9560-69cbb0c37c42
-source-git-commit: 0bbe8110b7912cfbe04fdfc9b73c90fa9606a6b8
+source-git-commit: 7de0aed6be29a304276f2b3f96dd60974b4c4eb6
 workflow-type: tm+mt
-source-wordcount: '438'
+source-wordcount: '449'
 ht-degree: 0%
 
 ---
@@ -28,5 +28,9 @@ Marketo Engage은 다음 위젯의 도움을 받아 대시보드 탭의 온디�
    * 모든 방문자에 대한 평균 시청 기간(분) - 마케터에게 레코딩이 얼마나 표시되는지, 그리고 특정 시청 기간 이상의 리드를 타깃팅하는 데 스마트 캠페인을 사용할 수 있는지 파악할 수 있습니다.
 
 ![](assets/on-demand-webinars-1.png)
+
+>[!NOTE]
+>
+>보기 시간은 보기 지속 시간이 1분을 초과하는 경우에만 카운트됩니다.
 
 대화형 웨비나에 대한 필터 및 트리거가 온디맨드 웨비나를 충족하도록 수정되었습니다. &quot;이벤트 참석함&quot; 트리거와 &quot;이벤트 참석함&quot; 필터가 추가 제한 사항과 함께 추가됩니다(&quot;이벤트 모드&quot;). 이 경우 마케터는 대상이 라이브 대상인지 또는 온디맨드 대상인지 선택할 수 있습니다. &quot;이벤트 모드&quot; 제한을 선택하지 않으면 라이브 및 온디맨드 대상이 모두 타겟팅됩니다. &quot;시청 날짜&quot; 및 &quot;시청 기간&quot;과 같은 다른 제한은 &quot;온디맨드&quot; 이벤트 모드와 함께 사용할 수 있습니다. 비활성 필터 &quot;이벤트에 참석하지 않음&quot;은 &quot;온디맨드&quot; 이벤트 모드가 있는 온디맨드 웨비나에 사용할 수도 있습니다.
