@@ -4,7 +4,7 @@ description: 대기 흐름 단계의 특정 날짜 사용 - Marketo 문서 - 제
 title: 대기 흐름 단계의 특정 날짜 사용
 exl-id: d6ef26a4-8c9a-4f40-9e80-dcb3921a427f
 feature: Smart Campaigns
-source-git-commit: 2eeb7ea7fd43ba75a3c802a91ce07c90dc8abd91
+source-git-commit: 12f2399859c784095cc2c1df772c66c649106ba3
 workflow-type: tm+mt
 source-wordcount: '106'
 ht-degree: 0%
@@ -13,27 +13,27 @@ ht-degree: 0%
 
 # 대기 흐름 단계의 특정 날짜 사용 {#use-a-specific-date-in-a-wait-flow-step}
 
-를 사용할 수 있습니다.[!UICONTROL 대기]&quot;특정 날짜까지 Smart Campaign을 통해 개인의 여정을 일시 중지하는 흐름 단계.
+&quot;[!UICONTROL 대기]&quot; 흐름 단계를 사용하여 특정 날짜까지 Smart Campaign을 통해 여정을 일시 중지할 수 있습니다.
 
-1. 스마트 캠페인에서 **[!UICONTROL 플로우]** 탭, 위로 드래그 **[!UICONTROL 대기]** 흐름 단계.
+1. 스마트 캠페인 **[!UICONTROL 흐름]** 탭에서 **[!UICONTROL 대기]** 흐름 단계 위로 끌어서 놓습니다.
 
-   ![](assets/image2014-9-22-11-3a50-3a55.png)
+   ![](assets/use-a-specific-date-in-a-wait-flow-step-1.png)
 
 1. 톱니바퀴 아이콘을 클릭합니다.
 
-   ![](assets/image2014-9-22-11-3a50-3a59.png)
+   ![](assets/use-a-specific-date-in-a-wait-flow-step-2.png)
 
-1. 다음에서 **[!UICONTROL 유형]** 드롭다운, 선택 **[!UICONTROL 날짜]**.
+1. **[!UICONTROL Type]** 드롭다운에서 **[!UICONTROL 날짜]**&#x200B;를 선택합니다.
 
-   ![](assets/image2014-9-22-11-3a51-3a27.png)
+   ![](assets/use-a-specific-date-in-a-wait-flow-step-3.png)
 
 1. 다시 시작할 특정 날짜를 선택합니다.
 
-   ![](assets/image2014-9-22-11-3a51-3a20.png)
+   ![](assets/use-a-specific-date-in-a-wait-flow-step-4.png)
 
-1. 시간(선택 사항)을 지정하고 **[!UICONTROL 저장]**.
+1. 시간(선택 사항)을 지정하고 **[!UICONTROL 저장]**&#x200B;을 클릭합니다.
 
-   ![](assets/image2014-9-22-11-3a51-3a13.png)
+   ![](assets/use-a-specific-date-in-a-wait-flow-step-5.png)
 
 >[!MORELIKETHIS]
 >

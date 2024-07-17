@@ -4,30 +4,26 @@ description: 수익 단계 변경 - Marketo 문서 - 제품 설명서
 title: 수익 단계 변경
 exl-id: 267f1a7a-b849-48e4-9bc8-56dd07168d1d
 feature: Smart Campaigns
-source-git-commit: 9e51ece12742152040dbbcb6a1584fba28e863ff
+source-git-commit: 12f2399859c784095cc2c1df772c66c649106ba3
 workflow-type: tm+mt
-source-wordcount: '77'
-ht-degree: 2%
+source-wordcount: '75'
+ht-degree: 0%
 
 ---
 
 # 수익 단계 변경 {#change-revenue-stage}
 
-## 개요 {#overview}
+Revenue Cycle Modeler을 사용하고 승인된 모델이 있는 경우 한 단계에서 다른 단계로 사람을 수동으로 이동해야 할 수 있습니다. 이 흐름 단계는 도움이 됩니다.
 
-수익 주기 모델러를 사용하고 승인된 모델이 있는 경우 한 단계에서 다른 단계로 사람을 수동으로 이동하기로 결정할 수 있습니다. 이 흐름 단계는 도움이 됩니다.
+![](assets/change-revenue-stage-1.png)
 
-![](assets/image2014-9-22-17-3a4-3a59.png)
+1. **[!UICONTROL 모델]**&#x200B;을(를) 선택하십시오.
 
-## 사용량 {#usage}
+   ![](assets/change-revenue-stage-2.png)
 
-1. 다음 항목 선택 **[!UICONTROL 모델]**.
+1. 할당할 **[!UICONTROL 새 단계]**&#x200B;를 선택하면 완료됩니다!
 
-   ![](assets/image2014-9-22-17-3a5-3a4.png)
-
-1. 다음 항목 선택 **[!UICONTROL 새 단계]** 을(를) 할당하려고 하면 이 작업이 완료되었습니다.
-
-   ![](assets/image2014-9-22-17-5-8.png)
+   ![](assets/change-revenue-stage-3.png)
 
    >[!CAUTION]
    >

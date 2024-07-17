@@ -4,16 +4,14 @@ description: 데이터 값 변경 - Marketo 문서 - 제품 설명서
 title: 데이터 값 변경
 exl-id: cdfa7632-87e2-407f-9891-3697771b5687
 feature: Smart Campaigns
-source-git-commit: 7dd2e21969b71a50bfd4643ab15459150ca07c92
+source-git-commit: 12f2399859c784095cc2c1df772c66c649106ba3
 workflow-type: tm+mt
-source-wordcount: '112'
-ht-degree: 1%
+source-wordcount: '110'
+ht-degree: 0%
 
 ---
 
 # 데이터 값 변경 {#change-data-value}
-
-## 개요 {#overview}
 
 Marketo을 사용하여 필드의 값을 업데이트할 수 있습니다. 이를 위해 **[!UICONTROL 데이터 값 변경]** 흐름 작업을 사용합니다.
 
@@ -22,8 +20,6 @@ Marketo을 사용하여 필드의 값을 업데이트할 수 있습니다. 이�
 >[!NOTE]
 >
 >필드가 업데이트되지 않도록 차단할 수도 있습니다. 자세한 내용은 [필드 업데이트 차단](/help/marketo/product-docs/administration/field-management/block-updates-to-a-field.md){target="_blank"}을 참조하세요.
-
-## 사용량 {#usage}
 
 1. 값을 변경할 필드를 찾아 선택합니다.
 

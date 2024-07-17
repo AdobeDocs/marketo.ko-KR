@@ -4,7 +4,7 @@ description: 흐름 단계 - Marketo 문서 - 제품 설명서에서 토큰 사�
 title: 흐름 단계에서 토큰 사용
 exl-id: 9b4c3d57-5906-4d7c-8215-4ba2271be3f8
 feature: Smart Campaigns
-source-git-commit: 2eeb7ea7fd43ba75a3c802a91ce07c90dc8abd91
+source-git-commit: 12f2399859c784095cc2c1df772c66c649106ba3
 workflow-type: tm+mt
 source-wordcount: '194'
 ht-degree: 0%
@@ -15,9 +15,9 @@ ht-degree: 0%
 
 >[!PREREQUISITES]
 >
->[스마트 캠페인에 플로우 단계 추가](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/add-a-flow-step-to-a-smart-campaign.md){target="_blank"}
+>[스마트 캠페인에 흐름 단계 추가](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/add-a-flow-step-to-a-smart-campaign.md){target="_blank"}
 
-토큰은 변수입니다. 이메일, 랜딩 페이지 및 스마트 캠페인에서 이를 사용하여 보다 편리한 작업을 수행할 수 있습니다. 다음을 사용할 수 있습니다. [내 토큰](/help/marketo/product-docs/core-marketo-concepts/programs/tokens/understanding-my-tokens-in-a-program.md){target="_blank"} (사용자 지정 토큰) 흐름 단계, 웹후크, 이메일 및 랜딩 페이지의 . 토큰을 사용하여 다음 흐름 단계에 변수 콘텐츠를 포함할 수 있습니다.
+토큰은 변수입니다. 이메일, 랜딩 페이지 및 스마트 캠페인에서 이를 사용하여 보다 편리한 작업을 수행할 수 있습니다. 흐름 단계, 웹후크, 이메일 및 랜딩 페이지에서 [내 토큰](/help/marketo/product-docs/core-marketo-concepts/programs/tokens/understanding-my-tokens-in-a-program.md){target="_blank"}(사용자 지정 토큰)을 사용할 수 있습니다. 토큰을 사용하여 다음 흐름 단계에 변수 콘텐츠를 포함할 수 있습니다.
 
 * 데이터 값 변경
 * 프로그램 멤버 데이터 변경
@@ -26,17 +26,17 @@ ht-degree: 0%
 * 작업 만들기
 * 경고 보내기(트리거 캠페인에서만)
 
-1. 흐름 단계에서 입력을 시작합니다. `{{` 토큰 범주를 가져옵니다.
+1. 흐름 단계에서 `{{`을(를) 입력하여 토큰 범주를 가져옵니다.
 
-   ![](assets/image2014-9-22-14-3a3-3a17.png)
+   ![](assets/use-tokens-in-flow-steps-1.png)
 
    >[!NOTE]
    >
-   >체크아웃 [토큰 개요](/help/marketo/product-docs/demand-generation/landing-pages/personalizing-landing-pages/tokens-overview.md){target="_blank"} 사용 가능한 여러 토큰 목록입니다.
+   >사용 가능한 여러 토큰 목록을 보려면 [토큰 개요](/help/marketo/product-docs/demand-generation/landing-pages/personalizing-landing-pages/tokens-overview.md){target="_blank"}를 확인하십시오.
 
 1. 원하는 토큰을 찾을 때까지 계속 입력하고 클릭하여 선택합니다.
 
-   ![](assets/image2014-9-22-14-3a3-3a48.png)
+   ![](assets/use-tokens-in-flow-steps-2.png)
 
    >[!TIP]
    >
