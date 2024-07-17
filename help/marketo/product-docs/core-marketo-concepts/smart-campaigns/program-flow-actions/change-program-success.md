@@ -4,22 +4,18 @@ description: 프로그램 변경 성공 - Marketo 문서 - 제품 설명서
 title: 프로그램 변경 성공
 exl-id: 5b45b6d0-0c3d-4677-8b9a-8bbf03b1209e
 feature: Smart Campaigns
-source-git-commit: 4bae0126d6b36720e170bea7b6b973508c855633
+source-git-commit: 934bb5f197f801e48cf8e7554335eb2d07289037
 workflow-type: tm+mt
-source-wordcount: '141'
-ht-degree: 1%
+source-wordcount: '139'
+ht-degree: 0%
 
 ---
 
 # 프로그램 변경 성공 {#change-program-success}
 
-## 개요 {#overview}
+프로그램 성공으로 잘못 표시된 사용자 그룹이 있는 경우 이 흐름 단계를 사용하여 성공을 true 또는 false로 설정할 수 있습니다.
 
-실수로 프로그램 성공으로 표시된 사용자 그룹이 있는 경우 이 흐름 단계를 사용하여 성공을 true 또는 false로 설정할 수 있습니다.
-
-![](assets/image2014-9-22-14-3a45-3a8.png)
-
-## 사용량 {#usage}
+![](assets/change-program-success-1.png)
 
 1. 이 흐름 단계에서 드래그하면 편집 중인 스마트 캠페인이 포함된 프로그램으로 프로그램이 자동으로 설정됩니다.
 
@@ -27,19 +23,19 @@ ht-degree: 1%
    >
    >프로그램의 멤버만 영향을 받습니다.
 
-   ![](assets/image2014-9-22-14-3a45-3a35.png)
+   ![](assets/change-program-success-2.png)
 
-1. 선택 **[!UICONTROL 성공]** 또는 **[!UICONTROL 성공 날짜]** 를 속성으로 사용하십시오.
+1. **[!UICONTROL 성공]** 또는 **[!UICONTROL 성공 날짜]**&#x200B;를 특성으로 선택합니다.
 
-   ![](assets/image2014-9-22-14-3a45-3a39.png)
+   ![](assets/change-program-success-3.png)
 
    >[!NOTE]
    >
    >성공 날짜를 아무 것이나 설정하면 자동으로 성공이 true로 설정됩니다. Success를 true로 설정하면 성공 날짜가 현재 날짜로 자동 설정됩니다.
 
-1. 설정 **[!UICONTROL 새 값]** 끝 **[!UICONTROL True]** 또는 **[!UICONTROL False]**.
+1. **[!UICONTROL 새 값]**&#x200B;을(를) **[!UICONTROL True]** 또는 **[!UICONTROL False]**(으)로 설정하십시오.
 
-   ![](assets/image2014-9-22-14-3a45-3a55.png)
+   ![](assets/change-program-success-4.png)
 
    >[!TIP]
    >

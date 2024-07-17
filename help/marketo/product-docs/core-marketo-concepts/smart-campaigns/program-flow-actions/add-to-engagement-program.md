@@ -4,30 +4,26 @@ description: 참여 프로그램 - Marketo 문서 - 제품 설명서에 추가
 title: 참여 프로그램에 추가
 exl-id: 67b8ddaa-2f00-4702-a10d-0b7c896877a1
 feature: Smart Campaigns
-source-git-commit: 4bae0126d6b36720e170bea7b6b973508c855633
+source-git-commit: 934bb5f197f801e48cf8e7554335eb2d07289037
 workflow-type: tm+mt
-source-wordcount: '69'
-ht-degree: 2%
+source-wordcount: '67'
+ht-degree: 0%
 
 ---
 
 # 참여 프로그램에 추가 {#add-to-engagement-program}
 
-## 개요 {#overview}
-
 이 흐름 단계를 통해 구축하는 스마트 캠페인은 참여 프로그램의 게이트웨이가 됩니다.
 
-![](assets/image2014-9-22-14-3a47-3a32.png)
-
-## 사용량 {#usage}
+![](assets/add-to-engagement-program-1.png)
 
 1. 직원을 추가할 참여 프로그램을 선택합니다.
 
-   ![](assets/image2014-9-22-14-3a47-3a36.png)
+   ![](assets/add-to-engagement-program-2.png)
 
 1. 사용자를 배치할 스트림을 선택합니다.
 
-   ![](assets/image2014-9-22-14-3a47-3a39.png)
+   ![](assets/add-to-engagement-program-3.png)
 
    >[!NOTE]
    >

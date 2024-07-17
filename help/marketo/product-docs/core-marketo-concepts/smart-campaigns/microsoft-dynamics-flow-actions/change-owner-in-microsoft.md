@@ -4,10 +4,10 @@ description: Microsoft - Marketo 문서 - 제품 설명서에서 소유자 변�
 title: Microsoft에서 소유자 변경
 exl-id: d17cfb70-1d78-48e9-8e53-99a7abd5a647
 feature: Smart Campaigns, Microsoft Dynamics
-source-git-commit: 2eeb7ea7fd43ba75a3c802a91ce07c90dc8abd91
+source-git-commit: 934bb5f197f801e48cf8e7554335eb2d07289037
 workflow-type: tm+mt
 source-wordcount: '91'
-ht-degree: 1%
+ht-degree: 0%
 
 ---
 
@@ -17,15 +17,15 @@ ht-degree: 1%
 
 >[!NOTE]
 >
->이 흐름 단계는 _트리거와 함께 사용할 때만 작동합니다._, 스마트 캠페인에서 필터 아님.
+>이 흐름 단계는 Smart Campaign에서 필터가 아닌 트리거&#x200B;_와 함께 사용할 때만_&#x200B;작동합니다.
 
-![](assets/one-1.png)
+![](assets/change-owner-in-microsoft-1.png)
 
 **사용량**
 
 1. 간단히 변경할 소유자를 선택하고 가세요!
 
-   ![](assets/two-1.png)
+   ![](assets/change-owner-in-microsoft-2.png)
 
    >[!NOTE]
    >

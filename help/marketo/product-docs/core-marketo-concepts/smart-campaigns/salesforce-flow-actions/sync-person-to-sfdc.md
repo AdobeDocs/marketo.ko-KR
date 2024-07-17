@@ -4,7 +4,7 @@ description: SFDC에 사용자 동기화 - Marketo 문서 - 제품 설명서
 title: 사용자를 SFDC에 동기화
 exl-id: 4284ec35-6ac5-4084-beb7-976eb6fd7e3c
 feature: Smart Campaigns, Salesforce Integration
-source-git-commit: 4bae0126d6b36720e170bea7b6b973508c855633
+source-git-commit: 934bb5f197f801e48cf8e7554335eb2d07289037
 workflow-type: tm+mt
 source-wordcount: '131'
 ht-degree: 0%
@@ -15,15 +15,13 @@ ht-degree: 0%
 
 이 흐름 단계는 Marketo에서 만든 사람을 Salesforce CRM에 잠재 고객으로 삽입합니다.
 
-![](assets/sync-person-to-sfdc.png)
-
 >[!NOTE]
 >
 >Salesforce와 통합된 경우에만 사용할 수 있습니다.
 
 1. 기본적으로 이 흐름 단계는 Salesforce 자동 할당 규칙에 따라 리드 소유자에게 할당됩니다.
 
-   ![](assets/sync-person-to-sfdc.png)
+   ![](assets/sync-person-to-sfdc-1.png)
 
    >[!TIP]
    >

@@ -4,18 +4,18 @@ description: SFDC 캠페인에서 제거 - Marketo 문서 - 제품 설명서
 title: SFDC 캠페인에서 제거
 exl-id: d19e7847-2287-4926-b0bb-635e7700668f
 feature: Smart Campaigns, Salesforce Integration
-source-git-commit: 4bae0126d6b36720e170bea7b6b973508c855633
+source-git-commit: 934bb5f197f801e48cf8e7554335eb2d07289037
 workflow-type: tm+mt
-source-wordcount: '100'
+source-wordcount: '106'
 ht-degree: 0%
 
 ---
 
 # SFDC 캠페인에서 제거 {#remove-from-sfdc-campaign}
 
-다음과 같은 방법으로 [SFDC 캠페인에 추가](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/salesforce-flow-actions/add-to-sfdc-campaign.md){target="_blank"} and [Change Status in SFDC Campaign](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/salesforce-flow-actions/change-status-in-sfdc-campaign.md){target="_blank"}, Salesforce 캠페인에서 사람 또는 가망 고객을 제거할 수도 있습니다.
+[SFDC 캠페인에 추가](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/salesforce-flow-actions/add-to-sfdc-campaign.md){target="_blank"} 및 [SFDC 캠페인의 상태 변경](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/salesforce-flow-actions/change-status-in-sfdc-campaign.md){target="_blank"}을 수행하는 방법과 마찬가지로 Salesforce 캠페인에서 직원이나 잠재 고객을 제거할 수도 있습니다.
 
-![](assets/image2014-9-22-15-3a54-3a34.png)
+![](assets/remove-from-sfdc-campaign-1.png)
 
 >[!NOTE]
 >
@@ -23,7 +23,7 @@ ht-degree: 0%
 
 1. 흐름 단계에서 드래그한 후 개인이나 잠재 고객을 제거할 Salesforce 캠페인을 찾아 선택합니다.
 
-   ![](assets/image2014-9-22-15-3a54-3a39.png)
+   ![](assets/remove-from-sfdc-campaign-2.png)
 
    >[!TIP]
    >
