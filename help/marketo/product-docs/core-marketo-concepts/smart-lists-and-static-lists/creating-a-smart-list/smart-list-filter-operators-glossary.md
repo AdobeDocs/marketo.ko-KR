@@ -4,9 +4,9 @@ description: 스마트 목록 필터 연산자 용어집 - Marketo 문서 - 제�
 title: 스마트 목록 필터 연산자 용어집
 exl-id: 5a370482-f214-4909-bb49-801c1a36b153
 feature: Smart Lists
-source-git-commit: 198d7d7fd4c1c312aeb30fa922fd89863ac87f81
+source-git-commit: 4bf27f7eb534ec76983a898d020f0b8c336a36dc
 workflow-type: tm+mt
-source-wordcount: '605'
+source-wordcount: '616'
 ht-degree: 11%
 
 ---
@@ -19,28 +19,90 @@ ht-degree: 11%
 
 ## 날짜 필드 {#date-fields}
 
-![](assets/image2014-9-10-17-3a15-3a47.png)
+![](assets/smart-list-filter-operators-glossary-1.png)
 
 연산자를 선택하면 오른쪽이 동적으로 변경됩니다.
 
-| 연산자 | 오른쪽 | 설명 |
-|---|---|---|
-| 은(는) | 단일 날짜 | 정확한 날짜 일치 |
-| 이(가) 아님 | 단일 날짜 | 지정된 날짜를 제외한 모든 날짜 |
-| 사이 | 두 개의 날짜 필드 | 지정된 두 날짜 사이의 및 날짜를 포함하는 모든 날짜 |
-| 이전 | 자연어 입력&#42; | 아래 다이어그램 참조 |
-| 이전 | 자연어 입력&#42; | 아래 다이어그램 참조 |
-| 향후 | 자연어 입력&#42; | 아래 다이어그램 참조 |
-| 향후 | 자연어 입력&#42; | 아래 다이어그램 참조 |
-| 시간대 | 사전 설정(지난 분기, 어제 등) | 선택 목록에 정의됨 |
-| 다음 이후 | 단일 날짜 | 지정된 날짜 이후의 모든 레코드 |
-| 다음 이전 | 단일 날짜 | 지정된 레코드 이전의 모든 레코드 |
-| 다음 또는 이후 | 단일 날짜 | &quot;이후&quot;와 동일하지만 포함 |
-| 다음 또는 이전 | 단일 날짜 | &quot;이전&quot;과 동일하지만 다음을 포함 |
-| 비어 있음 | 없음 | 날짜가 없는 모든 레코드 |
-| 비어 있지 않음 | 없음 | 모든 날짜가 포함된 모든 레코드 |
+<table><thead>
+  <tr>
+    <th>연산자</th>
+    <th>오른쪽</th>
+    <th>설명</th>
+  </tr></thead>
+<tbody>
+  <tr>
+    <td>은(는)</td>
+    <td>단일 날짜</td>
+    <td>정확한 날짜 일치</td>
+  </tr>
+  <tr>
+    <td>이(가) 아님</td>
+    <td>단일 날짜</td>
+    <td>지정된 날짜를 제외한 모든 날짜</td>
+  </tr>
+  <tr>
+    <td>사이</td>
+    <td>두 개의 날짜 필드</td>
+    <td>지정된 두 날짜 사이의 및 날짜를 포함하는 모든 날짜</td>
+  </tr>
+  <tr>
+    <td>이전</td>
+    <td>자연어 입력*</td>
+    <td>아래 다이어그램 참조</td>
+  </tr>
+  <tr>
+    <td>이전</td>
+    <td>자연어 입력*</td>
+    <td>아래 다이어그램 참조</td>
+  </tr>
+  <tr>
+    <td>향후</td>
+    <td>자연어 입력*</td>
+    <td>아래 다이어그램 참조</td>
+  </tr>
+  <tr>
+    <td>향후</td>
+    <td>자연어 입력*</td>
+    <td>아래 다이어그램 참조</td>
+  </tr>
+  <tr>
+    <td>시간대</td>
+    <td>사전 설정(지난 분기, 어제 등)</td>
+    <td>선택 목록에 정의됨</td>
+  </tr>
+  <tr>
+    <td>다음 이후</td>
+    <td>단일 날짜</td>
+    <td>지정된 날짜 이후의 모든 레코드</td>
+  </tr>
+  <tr>
+    <td>다음 이전</td>
+    <td>단일 날짜</td>
+    <td>지정된 레코드 이전의 모든 레코드</td>
+  </tr>
+  <tr>
+    <td>다음 또는 이후</td>
+    <td>단일 날짜</td>
+    <td>"이후"와 동일하지만 포함</td>
+  </tr>
+  <tr>
+    <td>다음 또는 이전</td>
+    <td>단일 날짜</td>
+    <td>"이전"과 동일하지만 다음을 포함</td>
+  </tr>
+  <tr>
+    <td>비어 있음</td>
+    <td>없음</td>
+    <td>날짜가 없는 모든 레코드</td>
+  </tr>
+  <tr>
+    <td>비어 있지 않음</td>
+    <td>없음</td>
+    <td>모든 날짜가 포함된 모든 레코드</td>
+  </tr>
+</tbody></table>
 
-&#42; 자연어 입력이 멋집니다. 다음은 입력할 수 있는 몇 가지 패턴입니다.
+**&#42;** 자연어 입력이 멋집니다. 다음은 입력할 수 있는 몇 가지 패턴입니다.
 
 * 1시간
 * 82일
@@ -52,15 +114,15 @@ ht-degree: 11%
 
 >[!NOTE]
 >
->&quot;이전&quot; _다음과 같음_ 스마트 목록을 만드는 요일(이후가 아닌 시간까지)을 포함합니다.
+>&quot;지난&quot; _does_&#x200B;에는 스마트 목록을 만드는 날(이후가 아닌 시간까지)이 포함됩니다.
 
 >[!CAUTION]
 >
->날짜 필드 필터(예: 생년월일, SFDC 생성 날짜)를 사용하여 스마트 목록을 만들고 제한 사항을 사용하는 경우 **[!UICONTROL 다음 이전]**, **[!UICONTROL 다음 또는 이전]**, 또는 **[!UICONTROL 이전에]**, 스마트 목록에는 해당 날짜 필드에 값이 없는 사람도 포함됩니다.
+>날짜 필드 필터(예: 생년월일, SFDC 생성 날짜)를 사용하여 스마트 목록을 만들고 **[!UICONTROL 이전]**, **[!UICONTROL 다음 또는 이전]** 또는 **[!UICONTROL 이전]**&#x200B;의 제약 조건을 사용하는 경우 스마트 목록에는 해당 날짜 필드에 값이 없는 사람도 포함됩니다.
 
 다음 다이어그램을 사용하여 날짜 연산자 간의 차이점을 이해합니다.
 
-![](assets/image2014-9-10-17-3a15-3a58.png)
+![](assets/smart-list-filter-operators-glossary-2.png)
 
 >[!NOTE]
 >
@@ -68,7 +130,7 @@ ht-degree: 11%
 >
 >과거 및 미래 이벤트로 작업할 때 날짜 필드가 까다로워질 수 있습니다. 여기 몇 가지 예가 있습니다.
 >
->**[!UICONTROL 다음 이전]**
+>**[!UICONTROL 이전]**
 >
 >새 프로모션을 위해 이 연산자를 사용하여 1년 이내에 서비스에 가입하거나 서비스를 갱신하지 않은 사람 또는 아직 가입하지 않은 사람에게만 이메일을 보냅니다.
 >
@@ -78,18 +140,48 @@ ht-degree: 11%
 
 ## 문자열 필드 {#string-fields}
 
-![](assets/image2014-9-10-17-3a16-3a6.png)
+![](assets/smart-list-filter-operators-glossary-3.png)
 
-| 연산자 | 설명 |
-|---|---|
-| 은(는) | 정확한 일치(대/소문자 구분 안 함) |
-| 이(가) 아님 | 정확히 일치하는 항목을 제외한 모든 항목 |
-| 다음으로 시작 | 문자열 일치의 첫 번째 문자 |
-| 다음으로 시작 안 함 | 문자열의 첫 문자가 일치하지 않음 |
-| 포함 | 문자열에 있는 모든 문자 일치(예: california, fortune, for) |
-| 포함하지 않음 | 문자열에 일치하는 문자가 없습니다. (&quot;포함&quot;의 역방향) |
-| 비어 있음 | 값이 없는 레코드(NULL) |
-| 비어 있지 않음 | 모든 값이 있는 레코드 |
+<table><thead>
+  <tr>
+    <th>연산자</th>
+    <th>설명</th>
+  </tr></thead>
+<tbody>
+  <tr>
+    <td>은(는)</td>
+    <td>정확한 일치(대/소문자 구분 안 함)</td>
+  </tr>
+  <tr>
+    <td>이(가) 아님</td>
+    <td>정확히 일치하는 항목을 제외한 모든 항목</td>
+  </tr>
+  <tr>
+    <td>다음으로 시작</td>
+    <td>문자열 일치의 첫 번째 문자</td>
+  </tr>
+  <tr>
+    <td>다음으로 시작 안 함</td>
+    <td>문자열의 첫 문자가 일치하지 않음</td>
+  </tr>
+  <tr>
+    <td>포함</td>
+    <td>문자열에 있는 모든 문자 일치(예: california, fortune, for)</td>
+  </tr>
+  <tr>
+    <td>포함하지 않음</td>
+    <td>문자열에 일치하는 문자가 없습니다. ("포함"의 역방향)</td>
+  </tr>
+  <tr>
+    <td>비어 있음</td>
+    <td>값이 없는 레코드(NULL)</td>
+  </tr>
+  <tr>
+    <td>비어 있지 않음</td>
+    <td>모든 값이 있는 레코드</td>
+  </tr>
+</tbody>
+</table>
 
 >[!TIP]
 >
@@ -97,53 +189,51 @@ ht-degree: 11%
 
 ## 정수 필드 {#integer-fields}
 
-![](assets/image2014-9-10-17-3a16-3a14.png)
+![](assets/smart-list-filter-operators-glossary-4.png)
 
-<table> 
- <thead> 
-  <tr> 
-   <th colspan="1" rowspan="1">연산자</th> 
-   <th colspan="1" rowspan="1">설명</th> 
-  </tr> 
- </thead> 
- <tbody> 
-  <tr> 
-   <td colspan="1" rowspan="1">은(는)</td> 
-   <td colspan="1" rowspan="1">정확한 숫자 일치( = 0이면 두 리드가 모두 0으로 반환됩니다. <em>및</em> NULL)</td> 
-  </tr> 
-  <tr> 
-   <td colspan="1" rowspan="1">이(가) 아님</td> 
-   <td colspan="1" rowspan="1">정확한 숫자 일치를 제외한 모든 항목</td> 
-  </tr> 
-  <tr> 
-   <td colspan="1" rowspan="1">사이</td> 
-   <td colspan="1" rowspan="1">다음 사이에 있는 모든 사람을 찾을 두 개의 값을 정의합니다(포함).</td> 
-  </tr> 
-  <tr> 
-   <td colspan="1" rowspan="1">다음보다 큼</td> 
-   <td colspan="1" rowspan="1">지정한 날짜 이상</td> 
-  </tr> 
-  <tr> 
-   <td colspan="1" rowspan="1">다음보다 작음</td> 
-   <td colspan="1" rowspan="1">다음보다 작음:</td> 
-  </tr> 
-  <tr> 
-   <td colspan="1" rowspan="1">최소</td> 
-   <td colspan="1" rowspan="1">지정된 항목(포함) 이상</td> 
-  </tr> 
-  <tr> 
-   <td colspan="1" rowspan="1">최대</td> 
-   <td colspan="1" rowspan="1">다음보다 작음: 지정(포함)</td> 
-  </tr> 
-  <tr> 
-   <td colspan="1" rowspan="1">비어 있음</td> 
-   <td colspan="1" rowspan="1">값이 없는 레코드(NULL) - 0은 숫자입니다. <em>아님</em> NULL</td> 
-  </tr> 
-  <tr> 
-   <td colspan="1" rowspan="1">비어 있지 않음</td> 
-   <td colspan="1" rowspan="1">ANY 값이 있는 레코드(0 포함)</td> 
-  </tr> 
- </tbody> 
+<table><thead>
+  <tr>
+    <th>연산자</th>
+    <th>설명</th>
+  </tr></thead>
+<tbody>
+  <tr>
+    <td>은(는)</td>
+    <td>정확한 숫자 일치( = 0은 0과 NULL이 있는 두 리드를 모두 반환합니다.)</td>
+  </tr>
+  <tr>
+    <td>이(가) 아님</td>
+    <td>정확한 숫자 일치를 제외한 모든 항목</td>
+  </tr>
+  <tr>
+    <td>사이</td>
+    <td>다음 사이에 있는 모든 사람을 찾을 두 개의 값을 정의합니다(포함).</td>
+  </tr>
+  <tr>
+    <td>다음보다 큼</td>
+    <td>지정한 날짜 이상</td>
+  </tr>
+  <tr>
+    <td>다음보다 작음</td>
+    <td>다음보다 작음:</td>
+  </tr>
+  <tr>
+    <td>최소</td>
+    <td>지정된 항목(포함) 이상</td>
+  </tr>
+  <tr>
+    <td>최대</td>
+    <td>다음보다 작음: 지정(포함)</td>
+  </tr>
+  <tr>
+    <td>비어 있음</td>
+    <td>값이 없는 레코드(NULL) - 0은 숫자입니다. NULL이 아닙니다.</td>
+  </tr>
+  <tr>
+    <td>비어 있지 않음</td>
+    <td>ANY 값이 있는 레코드(0 포함)</td>
+  </tr>
+</tbody>
 </table>
 
 보시다시피, 이러한 연산자들은 Marketo-ese를 유창하게 구사할 수 있게 해줍니다!

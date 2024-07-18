@@ -4,20 +4,20 @@ description: 스마트 캠페인 결과를 Excel로 내보내기 - Marketo 문�
 title: 스마트 캠페인 결과를 Excel로 내보내기
 exl-id: 32aa55d7-dd10-40b9-b3f8-c767e513f103
 feature: Smart Campaigns
-source-git-commit: 4bae0126d6b36720e170bea7b6b973508c855633
+source-git-commit: 4bf27f7eb534ec76983a898d020f0b8c336a36dc
 workflow-type: tm+mt
-source-wordcount: '74'
+source-wordcount: '76'
 ht-degree: 0%
 
 ---
 
 # 스마트 캠페인 결과를 Excel로 내보내기 {#export-smart-campaign-results-to-excel}
 
-Marketo 외부에서 사용하기 위해 스마트 캠페인 결과를 Excel로 내보냅니다.
+Marketo Engage 외부에서 사용하기 위해 스마트 캠페인 결과를 Excel로 내보냅니다.
 
 1. 스마트 캠페인에서 **[!UICONTROL 결과]** 탭을 클릭한 다음 맨 아래에 있는 내보내기 아이콘을 클릭합니다.
 
-   ![](assets/exportexcel-hands.png)
+   ![](assets/export-smart-campaign-results-to-excel-1.png)
 
    결과를 내보내고 사용할 준비가 되었습니다!
 

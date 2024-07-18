@@ -4,9 +4,9 @@ description: 스마트 목록 필터 정의 - Marketo 문서 - 제품 설명서
 title: 스마트 목록 필터 정의
 exl-id: ab08c5be-0afa-46d5-9f29-99e1f6b99dea
 feature: Smart Lists
-source-git-commit: 198d7d7fd4c1c312aeb30fa922fd89863ac87f81
+source-git-commit: 4bf27f7eb534ec76983a898d020f0b8c336a36dc
 workflow-type: tm+mt
-source-wordcount: '180'
+source-wordcount: '185'
 ht-degree: 0%
 
 ---
@@ -16,31 +16,31 @@ ht-degree: 0%
 >[!PREREQUISITES]
 >
 >* [스마트 목록 만들기](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/creating-a-smart-list/create-a-smart-list.md){target="_blank"}
->* [스마트 목록 필터 찾기 및 추가](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/creating-a-smart-list/find-and-add-filters-to-a-smart-list.md){target="_blank"}
+>* [스마트 목록에 필터 찾기 및 추가](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/creating-a-smart-list/find-and-add-filters-to-a-smart-list.md){target="_blank"}
 
-이제 다음을 수행합니다 [스마트 목록 생성됨](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/creating-a-smart-list/create-a-smart-list.md){target="_blank"} and [added filters](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/creating-a-smart-list/find-and-add-filters-to-a-smart-list.md){target="_blank"} 이를 위해 필터를 정의해 보겠습니다. 방법은 다음과 같습니다.
+이제 [스마트 목록을 만들고](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/creating-a-smart-list/create-a-smart-list.md){target="_blank"}에 [필터를 추가](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/creating-a-smart-list/find-and-add-filters-to-a-smart-list.md){target="_blank"}했으므로 필터를 정의해 보겠습니다. 방법은 다음과 같습니다.
 
 계속해서 예를 들어 캘리포니아에 있는 점수가 50이 넘는 모든 사람을 찾기 위해 이러한 필터를 정의해 보겠습니다.
 
-1. 다음으로 이동 **[!UICONTROL 마케팅 활동]**.
+1. **[!UICONTROL 마케팅 활동]**(으)로 이동합니다.
 
-   ![](assets/login-marketing-activities-1.png)
+   ![](assets/define-smart-list-filters-1.png)
 
-1. 스마트 목록을 선택하고 **[!UICONTROL 스마트 목록]** 탭.
+1. 원하는 스마트 목록을 선택하고 **[!UICONTROL 스마트 목록]** 탭을 클릭합니다.
 
-   ![](assets/smarlist-choosefilters.png)
+   ![](assets/define-smart-list-filters-2.png)
 
-1. 에 대해 &quot;CA&quot;를 찾아 선택합니다. **[!UICONTROL 시/도]** 필터.
+1. **[!UICONTROL 상태]** 필터의 &quot;CA&quot;를 찾아 선택하십시오.
 
-   ![](assets/smartlistdefinefilters.png)
+   ![](assets/define-smart-list-filters-3.png)
 
    >[!NOTE]
    >
-   >&quot;California&quot;와 &quot;CA&quot;를 모두 저장하고 있을 수 있습니다. 두 값을 모두 필터링하려면 다음을 포함하십시오. _모두_ 캘리포니아주 출신, 배우기  [스마트 목록 필터에 여러 값 추가](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/using-smart-lists/add-multiple-values-to-a-smart-list-filter.md){target="_blank"}.
+   >&quot;California&quot;와 &quot;CA&quot;를 모두 저장하고 있을 수 있습니다. 두 값을 필터링하고 캘리포니아에서 온 _모두_&#x200B;명을 포함하려면 [스마트 목록 필터에 여러 값을 추가](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/using-smart-lists/add-multiple-values-to-a-smart-list-filter.md){target="_blank"}하는 방법에 대해 알아보세요.
 
-1. 을(를) 선택합니다 **[!UICONTROL 보다 큼]** 연산자를 입력하고 &quot;50&quot;을 입력합니다.
+1. **[!UICONTROL 보다 큼]** 연산자를 선택하고 &quot;50&quot;을 입력하십시오.
 
-   ![](assets/smartlistfilter-personscore.png)
+   ![](assets/define-smart-list-filters-4.png)
 
 >[!TIP]
 >

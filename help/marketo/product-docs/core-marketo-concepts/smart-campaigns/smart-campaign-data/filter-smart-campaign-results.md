@@ -4,7 +4,7 @@ description: 스마트 캠페인 결과 필터링 - Marketo 문서 - 제품 설�
 title: 스마트 캠페인 결과 필터링
 exl-id: 76c1b143-313b-4ef2-860f-f8b127fdfc6b
 feature: Smart Campaigns
-source-git-commit: 4bae0126d6b36720e170bea7b6b973508c855633
+source-git-commit: 4bf27f7eb534ec76983a898d020f0b8c336a36dc
 workflow-type: tm+mt
 source-wordcount: '131'
 ht-degree: 0%
@@ -21,9 +21,9 @@ ht-degree: 0%
 
 ## 저장된 필터로 필터링 {#filter-by-saved-filters}
 
-1. 스마트 캠페인에서 **[!UICONTROL 결과]** 탭을 클릭하고 **[!UICONTROL 필터]** 저장된 필터를 선택합니다.
+1. Smart Campaign **[!UICONTROL 결과]** 탭에서 **[!UICONTROL 필터]**&#x200B;를 클릭하고 저장된 필터를 선택합니다.
 
-   ![](assets/resultsfilter-hands.png)
+   ![](assets/filter-smart-campaign-results-1.png)
 
    >[!NOTE]
    >
@@ -31,22 +31,22 @@ ht-degree: 0%
 
 ## 사용자 지정 필터 만들기 {#create-a-custom-filter}
 
-1. 클릭 **[!UICONTROL 필터]**, 그런 다음 **[!UICONTROL 사용자 정의]**.
+1. **[!UICONTROL 필터]**&#x200B;를 클릭한 다음 **[!UICONTROL 사용자 지정]**&#x200B;을 클릭합니다.
 
-   ![](assets/filterscustom-hands.png)
+   ![](assets/filter-smart-campaign-results-2.png)
 
-1. 보려는 활동 유형을 선택하고 **[!UICONTROL 다른 이름으로 저장]**.
+1. 표시할 활동 유형을 선택하고 **[!UICONTROL 다른 이름으로 저장]**&#x200B;을 클릭합니다.
 
-   ![](assets/activityfiltersettings-hands.png)
+   ![](assets/filter-smart-campaign-results-3.png)
 
    >[!TIP]
    >
-   >클릭 **[!UICONTROL 적용]** 사용자 지정 필터를 저장하지 않고 결과에 직접 적용합니다.
+   >사용자 지정 필터를 저장하지 않고 결과에 직접 적용하려면 **[!UICONTROL 적용]**&#x200B;을 클릭하십시오.
 
-1. 필터 이름을 입력하고 **[!UICONTROL 저장]**.
+1. 필터 이름을 입력하고 **[!UICONTROL 저장]**&#x200B;을 클릭합니다.
 
-   ![](assets/saveasfilter-hands.png)
+   ![](assets/filter-smart-campaign-results-4.png)
 
 1. 사용자 지정 필터는 결과에 적용되며, 이제 드롭다운에서 사용할 수 있습니다(드롭다운에서 보려면 페이지를 새로 고쳐야 할 수 있음).
 
-   ![](assets/customfilter-hands.png)
+   ![](assets/filter-smart-campaign-results-5.png)
