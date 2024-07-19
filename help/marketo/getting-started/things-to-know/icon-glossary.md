@@ -2,10 +2,8 @@
 description: 아이콘 용어집 - Marketo Engage 문서 - 제품 설명서
 title: 아이콘 용어집
 feature: Getting Started
-hide: true
-hidefromtoc: true
 exl-id: bc700abd-cb89-475a-bcaf-3eac46c3ffab
-source-git-commit: ee6944a02a4535f9d763453fa16c95623eed6378
+source-git-commit: 87cf178f82103025ff0132c4a6a40166237805c9
 workflow-type: tm+mt
 source-wordcount: '242'
 ht-degree: 21%
@@ -14,16 +12,16 @@ ht-degree: 21%
 
 # Marketo Engage 아이콘 용어집 {#icon-glossary}
 
-다음은 현재 Adobe Marketo Engage 인터페이스의 아이콘입니다. Marketo Classic 아이콘을 참조해야 하는 경우 다음과 같을 수 있습니다. [여기에서 찾음](/help/marketo/getting-started/things-to-know/classic-icon-glossary.md).
+다음은 현재 Adobe Marketo Engage 인터페이스의 아이콘입니다. Marketo Classic 아이콘을 참조해야 하는 경우 [여기에서 찾을 수 있음](/help/marketo/getting-started/things-to-know/classic-icon-glossary.md).
 
 ## 일반 아이콘 {#general-icons}
 
 <table> 
  <tbody>
   <tr>
-   <th>이전 아이콘</th> 
-   <th> 새 아이콘</th> 
-   <th>설명</th> 
+   <th style="width:25%">이전 아이콘</th>
+   <th style="width:25%">새 아이콘</th> 
+   <th style="width:50%">설명</th> 
   </tr>
   <tr>
    <td><strong>해당 사항 없음</strong></td> 
@@ -243,9 +241,9 @@ ht-degree: 21%
 <table> 
  <tbody>
   <tr>
-   <th>이전 아이콘</th> 
-   <th> 새 아이콘</th> 
-   <th>설명</th> 
+   <th style="width:25%">이전 아이콘</th> 
+   <th style="width:25%"> 새 아이콘</th> 
+   <th style="width:50%">설명</th> 
   </tr>
   <tr>
    <td><img src="assets/classic-smart-campaign-executed.png"></td> 
@@ -290,9 +288,9 @@ ht-degree: 21%
 <table> 
  <tbody>
   <tr>
-   <th>이전 아이콘</th> 
-   <th> 새 아이콘</th> 
-   <th>설명</th> 
+   <th style="width:25%">이전 아이콘</th> 
+   <th style="width:25%"> 새 아이콘</th> 
+   <th style="width:50%">설명</th> 
   </tr>
   <tr>
    <td><img src="assets/classic-trigger.png"></td> 
@@ -322,9 +320,9 @@ ht-degree: 21%
 <table> 
  <tbody>
   <tr>
-   <th>이전 아이콘</th> 
-   <th> 새 아이콘</th> 
-   <th>설명</th> 
+   <th style="width:25%">이전 아이콘</th> 
+   <th style="width:25%"> 새 아이콘</th> 
+   <th style="width:50%">설명</th> 
   </tr>
   <tr>
    <td><img src="assets/classic-email-program-aborted.png"></td> 
@@ -354,9 +352,9 @@ ht-degree: 21%
 <table> 
  <tbody>
   <tr>
-   <th>이전 아이콘</th> 
-   <th> 새 아이콘</th> 
-   <th>설명</th> 
+   <th style="width:25%">이전 아이콘</th> 
+   <th style="width:25%"> 새 아이콘</th> 
+   <th style="width:50%">설명</th> 
   </tr>
   <tr>
    <td><img src="assets/classic-engagement-program-off.png"></td> 
@@ -376,9 +374,9 @@ ht-degree: 21%
 <table> 
  <tbody>
   <tr>
-   <th>이전 아이콘</th> 
-   <th> 새 아이콘</th> 
-   <th>설명</th> 
+   <th style="width:25%">이전 아이콘</th> 
+   <th style="width:25%"> 새 아이콘</th> 
+   <th style="width:50%">설명</th> 
   </tr>
   <tr>
    <td><img src="assets/classic-in-app-program-approved.png"></td> 
@@ -413,9 +411,9 @@ ht-degree: 21%
 <table> 
  <tbody>
   <tr>
-   <th>이전 아이콘</th> 
-   <th> 새 아이콘</th> 
-   <th>설명</th> 
+   <th style="width:25%">이전 아이콘</th> 
+   <th style="width:25%"> 새 아이콘</th> 
+   <th style="width:50%">설명</th> 
   </tr>
   <tr>
    <td><img src="assets/classic-email-approved.png"></td> 
@@ -440,9 +438,9 @@ ht-degree: 21%
 <table> 
  <tbody>
   <tr>
-   <th>이전 아이콘</th> 
-   <th> 새 아이콘</th> 
-   <th>설명</th> 
+   <th style="width:25%">이전 아이콘</th> 
+   <th style="width:25%"> 새 아이콘</th> 
+   <th style="width:50%">설명</th> 
   </tr>
   <tr>
    <td><strong>해당 사항 없음</strong></td> 

@@ -2,10 +2,8 @@
 description: 클래식 아이콘 용어집 - Marketo 문서 - 제품 설명서
 title: 클래식 아이콘 용어집
 feature: Getting Started
-hide: true
-hidefromtoc: true
 exl-id: 05706dc2-9e8b-4f10-89cf-996a69bc4816
-source-git-commit: ee6944a02a4535f9d763453fa16c95623eed6378
+source-git-commit: 87cf178f82103025ff0132c4a6a40166237805c9
 workflow-type: tm+mt
 source-wordcount: '563'
 ht-degree: 6%
@@ -14,15 +12,15 @@ ht-degree: 6%
 
 # 클래식 아이콘 용어집 {#classic-icon-glossary}
 
-다음은 Marketo Classic 인터페이스의 이전 아이콘입니다. 현재 아이콘 용어집은 다음과 같을 수 있습니다 [여기에서 찾음](/help/marketo/getting-started/things-to-know/icon-glossary.md){target="_blank"}.
+다음은 Marketo Classic 인터페이스의 이전 아이콘입니다. 현재 아이콘 용어집은 [여기에서 찾을 수 있음](/help/marketo/getting-started/things-to-know/icon-glossary.md){target="_blank"}.
 
 **일반 아이콘**
 
 <table> 
  <tbody> 
   <tr> 
-   <th style="width:10%">아이콘</th>
-   <th style="width:90%">이름</th>
+   <th style="width:15%">아이콘</th>
+   <th style="width:85%">이름</th>
   </tr> 
   <tr> 
    <td><img src="assets/image2016-2-24-11-3a16-3a17.png"></td> 
@@ -51,7 +49,7 @@ ht-degree: 6%
   <tr> 
    <td><img width="25" src="assets/share-from.png"> 
     </td> 
-   <td>다른 작업 영역에서 공유된 대상 폴더 <br>(자물쇠는 편집을 수행할 수 없음을 나타냅니다.)</td> 
+   <td>다른 작업 영역 <br>에서 공유된 대상 폴더(자물쇠는 편집할 수 없음을 나타냄)</td> 
   </tr> 
   <tr> 
    <td><img src="assets/image2015-1-9-9-3a23-3a11.png"> 
@@ -111,8 +109,8 @@ ht-degree: 6%
 <table> 
  <tbody> 
   <tr> 
-   <th style="width:10%">아이콘</th>
-   <th style="width:90%">이름</th>
+   <th style="width:15%">아이콘</th>
+   <th style="width:85%">이름</th>
   </tr> 
   <tr> 
    <td><img src="assets/image2015-1-8-15-3a58-3a8.png"> 
@@ -237,8 +235,8 @@ ht-degree: 6%
 <table> 
  <tbody> 
   <tr> 
-   <th style="width:10%">아이콘</th>
-   <th style="width:90%">이름</th> 
+   <th style="width:15%">아이콘</th>
+   <th style="width:85%">이름</th> 
   </tr> 
   <tr> 
    <td><img src="assets/image2014-12-18-16-3a45-3a45.png"> 
@@ -303,7 +301,7 @@ ht-degree: 6%
   <tr> 
    <td><img src="assets/image2015-1-5-11-3a45-3a39.png"> 
     </td> 
-   <td>이메일 프로그램 <br>(빨간색 플래그 다운 = 이메일이 아직 전송되지 않음)</td> 
+   <td>전자 메일 프로그램 <br>(빨간색 플래그 다운 = 전자 메일이 아직 전송되지 않음)</td> 
   </tr> 
   <tr> 
    <td><img src="assets/hs-icon.png"> 
@@ -503,8 +501,8 @@ ht-degree: 6%
 <table> 
  <tbody> 
   <tr> 
-   <th style="width:10%">아이콘</th>
-   <th style="width:90%">이름</th> 
+   <th style="width:15%">아이콘</th>
+   <th style="width:85%">이름</th> 
   </tr> 
   <tr> 
    <td><img src="assets/image2015-1-5-12-3a31-3a47.png"> 
@@ -529,7 +527,7 @@ ht-degree: 6%
   <tr> 
    <td><img src="assets/image2015-1-12-10-3a59-3a48.png"> 
     </td> 
-   <td>facebook에 게시</td> 
+   <td>Publish-Facebook</td> 
   </tr> 
   <tr> 
    <td><img src="assets/image2015-1-12-11-3a0-3a49.png"> 
@@ -639,8 +637,8 @@ ht-degree: 6%
 <table> 
  <tbody> 
   <tr> 
-   <th style="width:10%">아이콘</th>
-   <th style="width:90%">이름</th>
+   <th style="width:15%">아이콘</th>
+   <th style="width:85%">이름</th>
   </tr> 
   <tr> 
    <td><img src="assets/image2015-1-9-9-3a50-3a24.png"> 
@@ -720,8 +718,8 @@ ht-degree: 6%
 <table> 
  <tbody> 
   <tr> 
-   <th style="width:10%">아이콘</th>
-   <th style="width:90%">이름</th> 
+   <th style="width:15%">아이콘</th>
+   <th style="width:85%">이름</th> 
   </tr> 
   <tr> 
    <td><img src="assets/image2015-1-5-13-3a53-3a27.png"> 
@@ -771,8 +769,8 @@ ht-degree: 6%
 <table> 
  <tbody> 
   <tr> 
-   <th style="width:10%">아이콘</th>
-   <th style="width:90%">이름</th>
+   <th style="width:15%">아이콘</th>
+   <th style="width:85%">이름</th>
   </tr> 
   <tr> 
    <td><img src="assets/image2015-1-5-15-3a18-3a8.png"> 
@@ -827,8 +825,8 @@ ht-degree: 6%
 <table> 
  <tbody> 
   <tr> 
-   <th style="width:10%">아이콘</th>
-   <th style="width:90%">이름</th> 
+   <th style="width:15%">아이콘</th>
+   <th style="width:85%">이름</th> 
   </tr> 
   <tr> 
    <td><img src="assets/image2015-1-5-16-3a26-3a11.png"> 
