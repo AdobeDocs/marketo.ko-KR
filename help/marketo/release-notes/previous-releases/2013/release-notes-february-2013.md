@@ -6,7 +6,7 @@ exl-id: 9adfa676-09ea-497a-bcce-42300848b9d8
 feature: Release Information
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
-source-wordcount: '273'
+source-wordcount: '277'
 ht-degree: 0%
 
 ---
@@ -23,9 +23,9 @@ Mac 및 Windows용 Apple Safari 최신 버전은 Marketo 리드 관리와 함께
 
 Webhooks는 URL/페이로드의 토큰을 이스케이프 처리하도록 개선되었으며 타사 시스템(Spark SMB Edition에서는 사용할 수 없음)의 XML/JSON 응답을 구문 분석하여 Marketo 리드 필드를 업데이트할 수도 있습니다.
 
-## SOAP API 끝점 업데이트됨 {#updated-soap-api-endpoint}
+## 업데이트된 SOAP API 끝점 {#updated-soap-api-endpoint}
 
-기본 SOAP API 끝점이 업데이트되었으며, 이는 관리 -> SOAP API에 표시됩니다. 이 새 끝점을 사용하도록 호출을 업데이트하십시오. 이전 끝점에 대한 API 호출은 더 이상 사용되지 않지만 계속 작동합니다. (Spark SMB Edition에서는 SOAP API를 사용할 수 없음)
+기본 SOAP API 끝점이 업데이트되어 관리 -> SOAP API에 표시됩니다. 이 새 끝점을 사용하도록 호출을 업데이트하십시오. 이전 끝점에 대한 API 호출은 더 이상 사용되지 않지만 계속 작동합니다. (Spark SMB Edition에서는 SOAP API를 사용할 수 없음)
 
 ## facebook 탭에 대한 모바일 지원 {#mobile-support-for-facebook-tabs}
 
@@ -33,4 +33,4 @@ Marketo에서 게시한 facebook 탭은 모바일 장치를 감지하고 랜딩 
 
 ## 출시 예정: 여러 모델 지원 {#coming-soon-support-for-multiple-models}
 
-향후 릴리스에서 커뮤니티의 RCA에 대한 아이디어#1 투표된 여러 수익 주기 모델을 지원할 수 있는 토대를 마련하고 있습니다. 이 릴리스에서는 다음을 포함한 몇 가지 변경 사항이 표시됩니다. [스마트 목록 필터 및 흐름 단계의 선택 사항 추가](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-cycle-models/find-all-leads-in-a-revenue-cycle-model.md) 모델 및 단계 선택을 지원합니다. 또한 리드 매출 단계 및 리드 매출 주기 모델 필드를 스마트 목록 리드 그리드 탭에서 이동합니다.
+향후 릴리스에서 커뮤니티의 RCA에 대한 아이디어#1 투표된 여러 수익 주기 모델을 지원할 수 있는 토대를 마련하고 있습니다. 이번 릴리스에서는 모델 및 단계 선택을 지원하기 위해 [스마트 목록 필터 및 흐름 단계의 선택 항목 추가](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-cycle-models/find-all-leads-in-a-revenue-cycle-model.md)를 비롯한 몇 가지 변경 사항이 표시됩니다. 또한 리드 매출 단계 및 리드 매출 주기 모델 필드를 스마트 목록 리드 그리드 탭에서 이동합니다.

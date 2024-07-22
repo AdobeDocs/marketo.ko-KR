@@ -15,18 +15,18 @@ ht-degree: 0%
 
 특정 세그먼트를 사용하는 웹 캠페인을 찾고 계십니까?
 
-1. 다음으로 이동 **세그먼트**.
+1. **세그먼트**(으)로 이동합니다.
 
    ![](assets/new-dropdown-segments-hand-1.jpg)
 
-1. 검색 **세그먼트**. 다음 항목 선택 **세그먼트 이름**. 오른쪽 패널에서 을(를) 클릭합니다 **연계된 캠페인** 특정 세그먼트와 연결된 캠페인을 보려면 다음 작업을 수행하십시오.
+1. **세그먼트**&#x200B;를 검색합니다. **세그먼트 이름**&#x200B;을(를) 선택하십시오. 오른쪽 패널에서 **연결된 캠페인**&#x200B;을 클릭하여 이 특정 세그먼트와 연결된 캠페인을 확인합니다.
 
    ![](assets/image2014-11-26-14-21-59.png)
 
-1. 보기 **캠페인** 선택한 세그먼트와 연결됩니다.
+1. 선택한 세그먼트와 연결된 **캠페인**&#x200B;을(를) 봅니다.
 
    ![](assets/image2014-11-26-14-3a25-3a30.png)
 
 >[!MORELIKETHIS]
 >
->자세히 알아보기 [세그먼트](/help/marketo/product-docs/web-personalization/using-web-segments/web-segments.md) 및 방법 [기본 세그먼트 만들기](/help/marketo/product-docs/web-personalization/using-web-segments/create-a-basic-web-segment.md).
+>[세그먼트](/help/marketo/product-docs/web-personalization/using-web-segments/web-segments.md)와 [기본 세그먼트를 만드는 방법](/help/marketo/product-docs/web-personalization/using-web-segments/create-a-basic-web-segment.md)에 대해 자세히 알아보세요.

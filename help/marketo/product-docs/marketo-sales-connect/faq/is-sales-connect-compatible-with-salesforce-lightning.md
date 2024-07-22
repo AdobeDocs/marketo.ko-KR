@@ -6,7 +6,7 @@ exl-id: e1543b92-8175-41d2-b56a-ec60253a87d8
 feature: Marketo Sales Connect
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
-source-wordcount: '67'
+source-wordcount: '58'
 ht-degree: 0%
 
 ---
@@ -15,7 +15,7 @@ ht-degree: 0%
 
 예. Sales Connect는 Salesforce Lightning과 호환됩니다.
 
-다음을 수행하세요. [여기를 클릭하십시오](https://s3.amazonaws.com/tout-user-store/salesforce/assets/SF+Guide+for+Lightning.pdf) 설치 및 성공 가이드에 대한 정보를 참조하십시오.
+설치 및 성공 가이드를 보려면 [여기를 클릭](https://s3.amazonaws.com/tout-user-store/salesforce/assets/SF+Guide+for+Lightning.pdf)하십시오.
 
 >[!NOTE]
 >

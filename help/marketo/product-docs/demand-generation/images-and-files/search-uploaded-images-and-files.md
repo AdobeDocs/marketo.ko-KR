@@ -15,15 +15,15 @@ ht-degree: 0%
 
 이미지 또는 파일 검색을 수행하는 방법에 대해 알아봅니다.
 
-1. 로 이동 **[!UICONTROL Design Studio]**.
+1. **[!UICONTROL 디자인 스튜디오]**(으)로 이동합니다.
 
    ![](assets/search-uploaded-images-and-files-1.png)
 
-1. 클릭 **[!UICONTROL 이미지 및 파일]** 업로드한 모든 파일의 전체 목록입니다.
+1. 업로드한 모든 파일의 전체 목록을 보려면 **[!UICONTROL 이미지 및 파일]**&#x200B;을 클릭하세요.
 
    ![](assets/search-uploaded-images-and-files-2.png)
 
-1. 검색 상자에 파일 시작 및 히트를 입력합니다 **입력**.
+1. 검색 상자에 파일이 시작되는 단어를 입력하고 **Enter**&#x200B;를 누릅니다.
 
    ![](assets/search-uploaded-images-and-files-3.png)
 
@@ -33,5 +33,5 @@ ht-degree: 0%
 
 >[!MORELIKETHIS]
 >
->* [업로드한 이미지 또는 파일 바꾸기](/help/marketo/product-docs/demand-generation/images-and-files/replace-an-uploaded-image-or-file.md){target="_blank"}
+>* [업로드된 이미지 또는 파일 바꾸기](/help/marketo/product-docs/demand-generation/images-and-files/replace-an-uploaded-image-or-file.md){target="_blank"}
 >* [폴더를 사용하여 이미지 및 파일 구성](/help/marketo/product-docs/demand-generation/images-and-files/organize-your-images-and-files-using-folders.md){target="_blank"}

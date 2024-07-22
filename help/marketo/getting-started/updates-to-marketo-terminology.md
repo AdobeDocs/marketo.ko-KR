@@ -71,15 +71,15 @@ Marketo 설명서에 다른 용어가 표시될 수 있지만, 이러한 변경 
  </tbody> 
 </table>
 
-리드 및 개인 **같은 거야**.
+리드와 개인 **이(가) 같습니다**.
 
 ## 토큰 {#tokens}
 
-단어에 리드가 포함된 토큰 **변경되지 않음**. 혼동을 드려 죄송합니다. 그러나 새로운 용어에 맞게 모든 토큰을 변경하면 현재 사용 중인 많은 토큰이 손상될 수 있습니다. 따라서 여전히 &quot;&quot;와 같은 토큰이 표시됩니다.`{{lead.First Name}}`.&quot; 사용자별 토큰이 없습니다.
+리드가 **인 토큰이 변경되지 않습니다**. 혼동을 드려 죄송합니다. 그러나 새로운 용어에 맞게 모든 토큰을 변경하면 현재 사용 중인 많은 토큰이 손상될 수 있습니다. 따라서 &quot;`{{lead.First Name}}`&quot;과(와) 같은 토큰이 계속 표시됩니다. 사용자별 토큰이 없습니다.
 
 >[!NOTE]
 >
->거기 *은(는)* &quot;개인 메모&quot;라는 토큰이지만 이 토큰은 항상 있었습니다. 이 변수는 일반적으로 CRM의 설명 필드에 사용됩니다(있는 경우).
+>&quot;개인 메모&quot;라는 토큰이 *is*&#x200B;있지만 해당 토큰은 항상 있습니다. 이 변수는 일반적으로 CRM의 설명 필드에 사용됩니다(있는 경우).
 
 ## 필드 관리 {#field-management}
 
@@ -110,9 +110,9 @@ Lead 라는 용어가 포함된 필드가 Person으로 대체되거나 Lead 라�
 
 >[!NOTE]
 >
->영향을 받는 필드 이름의 전체 목록은 다음을 참조하십시오. [지원 문서](https://nation.marketo.com/docs/DOC-4218#jive_content_id_Field_Names_and_Tokens){target="_blank"}.
+>영향을 받는 필드 이름의 전체 목록을 보려면 이 [지원 문서](https://nation.marketo.com/docs/DOC-4218#jive_content_id_Field_Names_and_Tokens){target="_blank"}를 참조하십시오.
 
-## Real-Time Personalization (RTP)이 이제 웹 개인화입니다. {#real-time-personalization-rtp-is-now-web-personalization}
+## 실시간 Personalization(RTP)가 이제 웹 Personalization입니다 {#real-time-personalization-rtp-is-now-web-personalization}
 
 <table> 
  <colgroup> 
@@ -139,10 +139,10 @@ Lead 라는 용어가 포함된 필드가 Person으로 대체되거나 Lead 라�
 
 이제 이름 변경 외에도 네 개의 별도 앱으로 구성됩니다.
 
-| **[웹 개인화](https://docs.marketo.com/display/DOCS/Web+Personalization+-+RTP){target="_blank"}** | 홈 화면에 자체 타일이 있음 |
+| **[웹 Personalization](https://docs.marketo.com/display/DOCS/Web+Personalization+-+RTP){target="_blank"}** | 홈 화면에 자체 타일이 있음 |
 |---|---|
-| **[계정 기반 웹 마케팅](https://docs.marketo.com/display/DOCS/Account-Based+Web+Marketing){target="_blank"}** | 웹 개인화 타일을 통해 액세스 가능 |
-| **[개인화된 리타겟팅](https://docs.marketo.com/display/DOCS/Website+Retargeting){target="_blank"}** | 웹 개인화 타일을 통해 액세스 가능 |
+| **[계정 기반 웹 마케팅](https://docs.marketo.com/display/DOCS/Account-Based+Web+Marketing){target="_blank"}** | 웹 Personalization 타일을 통해 액세스 가능 |
+| **[개인화된 리타겟팅](https://docs.marketo.com/display/DOCS/Website+Retargeting){target="_blank"}** | 웹 Personalization 타일을 통해 액세스 가능 |
 | **[예측 콘텐츠](https://docs.marketo.com/display/DOCS/Predictive+Content){target="_blank"}** | 홈 화면에 자체 타일이 있음 |
 
 >[!NOTE]

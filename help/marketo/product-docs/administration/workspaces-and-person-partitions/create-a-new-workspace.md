@@ -1,17 +1,17 @@
 ---
 unique-page-id: 2360311
-description: 새 작업 공간 만들기 - Marketo 문서 - 제품 설명서
-title: 새 작업 공간 만들기
+description: 새 Workspace 만들기 - Marketo 문서 - 제품 설명서
+title: 새 Workspace 만들기
 exl-id: 04245a92-55e0-4b18-9506-aa060cc62dc6
 feature: Workspaces
 source-git-commit: 02b2e39580c5eac63de4b4b7fdaf2a835fdd4ba5
 workflow-type: tm+mt
-source-wordcount: '216'
+source-wordcount: '212'
 ht-degree: 0%
 
 ---
 
-# 새 작업 공간 만들기 {#create-a-new-workspace}
+# 새 Workspace 만들기 {#create-a-new-workspace}
 
 작업 영역은 회사를 세분화하는 데 유용합니다. 작업 영역을 설정하는 이유는 다음과 같습니다.
 
@@ -26,33 +26,33 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->을 사용하여 먼저 이해 [작업 공간 및 개인 분할 영역 이해](/help/marketo/product-docs/administration/workspaces-and-person-partitions/understanding-workspaces-and-person-partitions.md){target="_blank"}.
+>먼저 [작업 공간 및 개인 파티션 이해](/help/marketo/product-docs/administration/workspaces-and-person-partitions/understanding-workspaces-and-person-partitions.md){target="_blank"}를 참조하십시오.
 
 >[!TIP]
 >
->Workspace 모범 사례에 대한 자세한 내용은 [Marketo Professional Services](https://business.adobe.com/products/marketo/services-support.html){target="_blank"}.
+>Workspace 모범 사례에 대한 자세한 내용은 [Marketo Professional Services](https://business.adobe.com/products/marketo/services-support.html){target="_blank"}에 문의하세요.
 
-1. 로 이동 **[!UICONTROL 관리자]** 영역입니다.
+1. **[!UICONTROL 관리자]** 영역으로 이동합니다.
 
    ![](assets/create-a-new-workspace-1.png)
 
-1. 클릭 **[!UICONTROL 작업 공간 및 파티션]**.
+1. **[!UICONTROL 작업 공간 및 파티션]**&#x200B;을 클릭합니다.
 
    ![](assets/create-a-new-workspace-2.png)
 
-1. 클릭 **[!UICONTROL 새 작업 영역]**.
+1. **[!UICONTROL 새 Workspace]**&#x200B;를 클릭합니다.
 
    ![](assets/create-a-new-workspace-3.png)
 
-1. 입력 **[!UICONTROL 이름]**&#x200B;을(를) 클릭하고 **[!UICONTROL 개인 파티션]** 을(를) 사용합니다. 선택 **[!UICONTROL 기본 사용자 파티션]**. 다음을 확인하십시오. [개인 분할 영역 생성](/help/marketo/product-docs/administration/workspaces-and-person-partitions/create-a-person-partition.md){target="_blank"} 아직 안왔으면
+1. **[!UICONTROL 이름]**&#x200B;을(를) 입력하고 사용할 **[!UICONTROL 개인 파티션]**&#x200B;을(를) 선택하십시오. **[!UICONTROL 기본 개인 파티션]**&#x200B;을(를) 선택하십시오. 아직 수행하지 않았다면 [개인 파티션을 만듭니다](/help/marketo/product-docs/administration/workspaces-and-person-partitions/create-a-person-partition.md){target="_blank"}.
 
    ![](assets/create-a-new-workspace-4.png)
 
    >[!NOTE]
    >
-   >* 다음 **[!UICONTROL 모든 개인 파티션]** 확인란은 이 작업 영역이 시스템의 모든 개인 분할 영역을 사용할 수 있음을 의미합니다.
+   >* **[!UICONTROL 모든 개인 파티션]** 확인란은 이 작업 영역이 시스템의 모든 개인 파티션을 사용할 수 있음을 의미합니다.
    >
-   >* 다음 **[!UICONTROL 기본 사용자 파티션]** 는 기본값으로 작동하며 모든 사람에게 할당됩니다.
+   >* **[!UICONTROL 기본 사용자 파티션]**&#x200B;은(는) 기본값으로 작동하며 모든 사용자에게 할당됩니다.
 
    >[!IMPORTANT]
    >
@@ -66,7 +66,7 @@ ht-degree: 0%
    >
    >생성 시 Marketo은 작업 영역에서 샘플 에셋을 시드합니다. 언어는 초기 설정된 객체를 영어가 아닌 언어로 만들 수 있습니다.
 
-1. Click **[!UICONTROL Create]**.
+1. **[!UICONTROL 만들기]**&#x200B;를 클릭합니다.
 
    ![](assets/create-a-new-workspace-6.png)
 

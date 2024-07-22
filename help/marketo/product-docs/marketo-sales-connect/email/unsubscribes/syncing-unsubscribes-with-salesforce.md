@@ -6,7 +6,7 @@ exl-id: 1694d7bf-d2f6-4950-8a3e-c7d89c37b276
 feature: Marketo Sales Connect
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
-source-wordcount: '438'
+source-wordcount: '436'
 ht-degree: 0%
 
 ---
@@ -19,7 +19,7 @@ ht-degree: 0%
 * 옵트아웃 필드는 Salesforce에 설치해야 합니다.
 * Sales Connect의 개인 레코드에는 Salesforce ID가 있어야 합니다.
 
-**푸시 구독 취소**
+**구독 취소 푸시**
 
 Sales Connect에서 구독 취소가 수집되면 실시간으로 Salesforce에 푸시하고 동기화하도록 선택한 옵트아웃 필드 중 하나를 업데이트합니다. Salesforce 동기화를 비활성화한 경우에도 구독 취소가 이메일 옵트아웃에 푸시됩니다.
 
@@ -31,15 +31,15 @@ Sales Connect에서 구독 취소가 수집되면 실시간으로 Salesforce에 
 
 사용자는 Marketo도 동기화할 수 있는 표준 이메일 옵트아웃 필드를 사용하여 구독 취소를 동기화할 것인지 또는 판매 구독 취소와 마케팅 구독 취소를 구분할 수 있도록 Marketo 판매 옵트아웃 필드를 사용하여 동기화할 수 있는지 여부를 결정할 수 있습니다.
 
-1. 로 이동 [웹 애플리케이션](https://toutapp.com/login), 톱니바퀴 아이콘 을 클릭하고 **설정**.
+1. [웹 응용 프로그램](https://toutapp.com/login)(으)로 이동하여 톱니바퀴 아이콘을 클릭하고 **설정**&#x200B;을 선택합니다.
 
    ![](assets/one-1.png)
 
-1. 관리자 설정에서 을 선택합니다. **구독 취소**.
+1. 관리자 설정에서 **구독 취소**&#x200B;를 선택합니다.
 
    ![](assets/two-2.png)
 
-1. 클릭 **Salesforce로 동기화 중**&#x200B;를 클릭한 다음 야간 동기화를 활성화합니다.
+1. **Salesforce와 동기화**&#x200B;를 클릭한 다음 야간 동기화를 활성화합니다.
 
    ![](assets/three-2.png)
 
@@ -50,7 +50,7 @@ Sales Connect에서 구독 취소가 수집되면 실시간으로 Salesforce에 
    | 필드 | 설명 |
    |---|---|
    | **Salesforce 옵트아웃 필드에 동기화** | 기본적으로 선택되어 있으며 Salesforce 옵트아웃 필드만 업데이트합니다. |
-   | **Marketo 판매 옵트아웃 필드에 동기화** | 판매 및 마케팅 구독 취소를 분리하려면 이 옵션을 선택하여 추가로 업데이트합니다 [Marketo 판매 옵트아웃 필드](#msoo) |
+   | **Marketo 판매 옵트아웃 필드에 동기화** | 판매 및 마케팅 구독 취소를 구분하려면 이 옵션을 선택하여 [Marketo 판매 옵트아웃 필드를 추가로 업데이트합니다.](#msoo) |
 
 ## 페이지 레이아웃에 옵트아웃 필드 설치 {#installing-the-opt-out-field-in-the-page-layout}
 
@@ -58,11 +58,11 @@ Sales Connect에서 구독 취소가 수집되면 실시간으로 Salesforce에 
 
 이메일 옵트아웃은 Salesforce에서 설치할 수 있는 Salesforce의 표준 필드입니다. 설치하려면 Salesforce 관리자여야 합니다.
 
-1. 다음으로 이동 [Salesforce.com](https://salesforce.com) 로그인합니다.
+1. [Salesforce.com](https://salesforce.com)(으)로 이동하여 로그인합니다.
 
    ![](assets/five-1.png)
 
-1. 사용자 이름을 클릭하고 을(를) 선택합니다 **설정**.
+1. 사용자 이름을 클릭하고 **설치**&#x200B;를 선택합니다.
 
    ![](assets/six-1.png)
 
@@ -70,15 +70,15 @@ Sales Connect에서 구독 취소가 수집되면 실시간으로 Salesforce에 
 
    ![](assets/seven-1.png)
 
-1. 선택 **페이지 레이아웃**.
+1. **페이지 레이아웃**&#x200B;을 선택합니다.
 
    ![](assets/eight-1.png)
 
-1. 선택 **편집** 필드를 추가할 페이지 레이아웃 옆에 있는
+1. 필드를 추가할 페이지 레이아웃 옆에 있는 **편집**&#x200B;을(를) 선택합니다.
 
    ![](assets/nine.png)
 
-1. 선택 **필드**.
+1. **필드**&#x200B;을(를) 선택하십시오.
 
    ![](assets/ten.png)
 
@@ -86,7 +86,7 @@ Sales Connect에서 구독 취소가 수집되면 실시간으로 Salesforce에 
 
    ![](assets/11.png)
 
-1. 클릭 **저장**.
+1. **저장**&#x200B;을 클릭합니다.
 
    ![](assets/twelve.png)
 

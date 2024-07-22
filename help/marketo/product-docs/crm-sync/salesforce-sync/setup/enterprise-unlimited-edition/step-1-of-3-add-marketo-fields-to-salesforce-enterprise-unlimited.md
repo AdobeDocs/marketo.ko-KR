@@ -6,8 +6,8 @@ exl-id: bcfba281-0d4b-42c3-b52a-ce1c3da884ba
 feature: Salesforce Integration
 source-git-commit: 4045f262889d06304111288d30da893529396e81
 workflow-type: tm+mt
-source-wordcount: '781'
-ht-degree: 8%
+source-wordcount: '766'
+ht-degree: 7%
 
 ---
 
@@ -31,15 +31,15 @@ Marketo은 일련의 필드를 사용하여 특정 종류의 마케팅 관련 �
 
 세 개의 사용자 정의 필드 각각에 대해 다음 단계를 수행하여 추가합니다. 점수로 시작합니다.
 
-1. Salesforce에 로그인하고 **[!UICONTROL 설정]**.
+1. Salesforce에 로그인하고 **[!UICONTROL 설정]**&#x200B;을 클릭합니다.
 
    ![](assets/image2016-5-23-13-3a15-3a21.png)
 
-1. 다음에서 [!UICONTROL 빌드] 왼쪽 메뉴에서 **[!UICONTROL 사용자 지정]** 및 선택 **[!UICONTROL 잠재 고객]**. 클릭 **[!UICONTROL 필드]**.
+1. 왼쪽의 [!UICONTROL 빌드] 메뉴에서 **[!UICONTROL 사용자 지정]**&#x200B;을 클릭하고 **[!UICONTROL 리드]**&#x200B;를 선택합니다. **[!UICONTROL 필드]**&#x200B;를 클릭합니다.
 
    ![](assets/image2016-5-23-13-3a20-3a5.png)
 
-1. 클릭 **[!UICONTROL 신규]** (페이지 하단에 있는 사용자 정의 필드 및 관계 섹션)
+1. 페이지 하단의 사용자 지정 필드 및 관계 섹션에서 **[!UICONTROL 새로 만들기]**&#x200B;를 클릭합니다.
 
    ![](assets/image2016-5-26-14-3a41-3a40.png)
 
@@ -51,7 +51,7 @@ Marketo은 일련의 필드를 사용하여 특정 종류의 마케팅 관련 �
 
    ![](assets/image2016-5-26-14-3a51-3a14.png)
 
-1. 다음을 입력합니다. [!UICONTROL 필드 레이블], [!UICONTROL Length], 및 [!UICONTROL 필드 이름] (아래 표에 표시된 대로) 필드를 선택합니다.
+1. 아래 표와 같이 필드에 대한 [!UICONTROL 필드 레이블], [!UICONTROL 길이] 및 [!UICONTROL 필드 이름]을 입력하십시오.
 
 <table> 
  <thead> 
@@ -110,14 +110,14 @@ Marketo은 일련의 필드를 사용하여 특정 종류의 마케팅 관련 �
 
    ![](assets/image2016-5-23-14-3a50-3a5.png)
 
-1. 액세스 설정을 지정하고 **[!UICONTROL 다음]**:
+1. 액세스 설정을 지정하고 **[!UICONTROL 다음]**&#x200B;을(를) 클릭합니다.
 
-   * 모든 역할을 다음으로 설정 **[!UICONTROL 표시]** 및 **[!UICONTROL 읽기 전용]**
+   * 모든 역할을 **[!UICONTROL 표시]** 및 **[!UICONTROL 읽기 전용]**(으)로 설정
 
-   * 지우기 **[!UICONTROL 읽기 전용]** 동기화 사용자의 프로필에 대한 확인란:
+   * 동기화 사용자의 프로필에 대한 **[!UICONTROL 읽기 전용]** 확인란의 선택을 취소합니다.
 
-      * 의 프로필을 가진 사용자가 있는 경우 _시스템 관리자_ 동기화 사용자로 를 지웁니다. **[!UICONTROL 읽기 전용]** 시스템 관리자 프로필에 대한 확인란(아래 참조)
-      * 을(를) 생성한 경우 _사용자 지정 프로필_ 동기화 사용자의 경우 **[!UICONTROL 읽기 전용]** 해당 사용자 지정 프로필에 대한 확인란
+      * 동기화 사용자로 _시스템 관리자_&#x200B;의 프로필을 가진 사용자가 있는 경우 시스템 관리자 프로필에 대한 **[!UICONTROL 읽기 전용]** 확인란의 선택을 취소하십시오(아래 참조)
+      * 동기화 사용자에 대해 _사용자 지정 프로필_&#x200B;을 만든 경우 해당 사용자 지정 프로필에 대한 **[!UICONTROL 읽기 전용]** 확인란의 선택을 취소하십시오
 
    ![](assets/image2016-6-30-9-3a25-3a4.png)
 
@@ -125,11 +125,11 @@ Marketo은 일련의 필드를 사용하여 특정 종류의 마케팅 관련 �
 
    ![](assets/image2016-5-26-15-3a14-3a45.png)
 
-1. 클릭 **[!UICONTROL 저장 및 새로 만들기]** 로 돌아가서 다른 두 개의 사용자 정의 필드를 각각 만듭니다. 클릭 **[!UICONTROL 저장]** 셋 다 끝냈으니
+1. **[!UICONTROL 저장 및 새로 만들기]**&#x200B;를 클릭하여 돌아가서 다른 두 개의 사용자 지정 필드를 각각 만드십시오. 세 가지를 모두 완료하면 **[!UICONTROL 저장]**&#x200B;을 클릭합니다.
 
    ![](assets/image2016-5-23-15-3a8-3a43.png)
 
-1. 왼쪽의 빌드 메뉴에서 **[!UICONTROL 사용자 지정]** 연락처를 선택합니다. 필드를 클릭합니다.
+1. 왼쪽의 빌드 메뉴에서 **[!UICONTROL 사용자 지정]**&#x200B;을 클릭하고 연락처를 선택합니다. 필드를 클릭합니다.
 1. 가망 고객 객체에 대해 수행한 것처럼 연락처 객체의 점수, 획득 일자 및 획득 프로그램 필드에 대해 단계 3부터 10까지를 수행합니다.
 1. 필요한 경우 이 테이블의 추가 사용자 정의 필드에 대해 위의 절차를 사용합니다.
 
@@ -244,15 +244,15 @@ Marketo은 일련의 필드를 사용하여 특정 종류의 마케팅 관련 �
 
 Salesforce의 리드 개체에 있는 사용자 지정 필드는 전환이 발생할 때 데이터가 전달되도록 연락처 개체에 있는 연락처 필드에 매핑되어야 합니다.
 
-1. 오른쪽 상단 모서리에서 을(를) 클릭합니다 **[!UICONTROL 설정]**.
+1. 오른쪽 상단 모서리에서 **[!UICONTROL 설정]**&#x200B;을 클릭합니다.
 
    ![](assets/image2016-5-26-16-3a34-3a0.png)
 
-1. Enter 키를 누르지 않고 탐색 검색에 &quot;Fields&quot;를 입력합니다. 필드는 다른 개체 아래에 나타납니다. **[!UICONTROL 필드]** 잠재 고객 아래에
+1. Enter 키를 누르지 않고 탐색 검색에 &quot;Fields&quot;를 입력합니다. 다른 개체에 필드가 표시됩니다. [리드]에서 **[!UICONTROL 필드]**&#x200B;를 클릭하세요.
 
    ![](assets/image2016-5-26-16-3a36-3a32.png)
 
-1. 리드 사용자 정의 필드 및 관계 섹션으로 이동한 다음 **[!UICONTROL 리드 필드 매핑]**.
+1. 잠재 고객 사용자 지정 필드 및 관계 섹션으로 이동한 다음 **[!UICONTROL 잠재 고객 필드 매핑]**&#x200B;을 클릭합니다.
 
    ![](assets/image2016-5-26-16-3a39-3a29.png)
 
@@ -266,8 +266,8 @@ Salesforce의 리드 개체에 있는 사용자 지정 필드는 전환이 발�
 
 1. 생성한 다른 필드에 대해 위의 단계를 반복합니다.
 
-1. 클릭 **[!UICONTROL 저장]** 완료 시.
+1. 완료되면 **[!UICONTROL 저장]**&#x200B;을 클릭합니다.
 
 >[!MORELIKETHIS]
 >
->[2단계/3단계: Marketo용 Salesforce 사용자 만들기(Enterprise/Unlimited)](/help/marketo/product-docs/crm-sync/salesforce-sync/setup/enterprise-unlimited-edition/step-2-of-3-create-a-salesforce-user-for-marketo-enterprise-unlimited.md){target="_blank"}
+>[3단계 중 2단계: Marketo(Enterprise/Unlimited)용 Salesforce 사용자 만들기](/help/marketo/product-docs/crm-sync/salesforce-sync/setup/enterprise-unlimited-edition/step-2-of-3-create-a-salesforce-user-for-marketo-enterprise-unlimited.md){target="_blank"}

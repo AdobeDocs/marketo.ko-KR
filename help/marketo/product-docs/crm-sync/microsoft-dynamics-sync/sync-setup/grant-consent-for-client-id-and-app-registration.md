@@ -5,7 +5,7 @@ exl-id: d0c851d7-24a1-4b17-9daa-f0ceed39d040
 feature: Microsoft Dynamics
 source-git-commit: 821d69736b1cbeac0c80718c58a7a3c471387545
 workflow-type: tm+mt
-source-wordcount: '277'
+source-wordcount: '266'
 ht-degree: 0%
 
 ---
@@ -65,24 +65,24 @@ ht-degree: 0%
    >
    >다른 탭에서 관리자로 Azure에 이미 로그인한 경우 다른 브라우저 또는 시크릿 모드를 사용하여 동기화 사용자로 로그인해야 합니다.
 
-1. 클릭 **[!UICONTROL Accept]**.
+1. **[!UICONTROL 승인]**&#x200B;을 클릭합니다.
 
    ![](assets/grant-consent-for-client-id-app-registration-3.png)
 
 ## 모든 사용자에 대한 동의 부여 {#grant-consent-for-all-users}
 
-관리자는 테넌트의 모든 사용자를 대신하여 애플리케이션의 위임된 권한에 동의할 수도 있습니다. 관리자 동의는 테넌트의 모든 사용자에 대해 동의 대화 상자가 표시되지 않도록 하며, 관리자 역할이 있는 사용자가 Azure 포털에서 수행할 수 있습니다. 어떤 관리자 역할을 수행할 수 있는지 알아봅니다 [여기서 위임된 권한에 동의](https://docs.microsoft.com/en-us/azure/active-directory/roles/permissions-reference).
+관리자는 테넌트의 모든 사용자를 대신하여 애플리케이션의 위임된 권한에 동의할 수도 있습니다. 관리자 동의는 테넌트의 모든 사용자에 대해 동의 대화 상자가 표시되지 않도록 하며, 관리자 역할이 있는 사용자가 Azure 포털에서 수행할 수 있습니다. 위임된 권한에 대해 [동의할 수 있는 관리자 역할을 여기에서 알아보세요](https://docs.microsoft.com/en-us/azure/active-directory/roles/permissions-reference).
 
 1. Azure 포털에서 애플리케이션 홈 페이지로 이동합니다.
 
-1. 관리에서 **[!UICONTROL API 권한]**.
+1. 관리에서 **[!UICONTROL API 권한]**&#x200B;을 클릭합니다.
 
    ![](assets/grant-consent-for-client-id-app-registration-4.png)
 
-1. 다음을 클릭합니다. **[!UICONTROL 관리자 동의 부여]** (테넌트용) 버튼.
+1. **[!UICONTROL 관리자 동의 부여]**(테넌트용) 단추를 클릭합니다.
 
    ![](assets/grant-consent-for-client-id-app-registration-5.png)
 
-1. 클릭 **[!UICONTROL 예]** 확인할 수 있습니다.
+1. 확인하려면 **[!UICONTROL 예]**&#x200B;를 클릭하세요.
 
    ![](assets/grant-consent-for-client-id-app-registration-6.png)

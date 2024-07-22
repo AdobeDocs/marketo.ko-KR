@@ -17,7 +17,7 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->이 보고서를 설정하는 방법 알아보기 [여기](/help/marketo/product-docs/target-account-management/measure/tam-report-setup.md).
+>이 보고서를 설정하는 방법을 알아보세요. [여기](/help/marketo/product-docs/target-account-management/measure/tam-report-setup.md).
 
 보고서 공유:
 

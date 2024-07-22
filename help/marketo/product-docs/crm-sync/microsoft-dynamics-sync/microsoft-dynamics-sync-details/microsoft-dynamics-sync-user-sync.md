@@ -6,7 +6,7 @@ exl-id: d642d4d2-2beb-42c6-a6b2-3da5df1cd9c8
 feature: Microsoft Dynamics
 source-git-commit: 2403ae0f1fdca3b8238f3f59e2a3b94129deb301
 workflow-type: tm+mt
-source-wordcount: '155'
+source-wordcount: '156'
 ht-degree: 0%
 
 ---
@@ -23,8 +23,8 @@ Marketo Engage이 전체 데이터베이스를 Dynamics와 동기화하는 것�
 
 ## Marketo을 사용하여 사용자를 만들 수 있습니까? {#can-i-create-an-user-using-marketo}
 
-아니요. Marketo은 Dynamics에서 사용자를 만들 수 없습니다.
+아니. Marketo은 Dynamics에서 사용자를 만들 수 없습니다.
 
 ## 어떤 필드가 Marketo에 동기화됩니까? {#which-fields-will-sync-to-marketo}
 
-다음을 수행할 수 있습니다. [동기화할 필드 선택](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/microsoft-dynamics-365-with-ropc-connection/step-4-of-4-connect.md#select-fields-to-sync){target="_blank"} 설정하는 동안. 하지만 Marketo은 Dynamics 동기화 사용자가 액세스할 수 있는 필드만 동기화합니다.
+설치하는 동안 [동기화할 필드를 선택](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/microsoft-dynamics-365-with-ropc-connection/step-4-of-4-connect.md#select-fields-to-sync){target="_blank"}할 수 있습니다. 하지만 Marketo은 Dynamics 동기화 사용자가 액세스할 수 있는 필드만 동기화합니다.

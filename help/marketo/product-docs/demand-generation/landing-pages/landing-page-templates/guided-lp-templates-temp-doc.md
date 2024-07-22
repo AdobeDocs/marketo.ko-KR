@@ -13,7 +13,7 @@ ht-degree: 0%
 
 # 안내식 랜딩 페이지 템플릿 목록 {#guided-landing-page-template-list}
 
-에 사용할 예제 템플릿 컬렉션 찾아보기 [안내식 랜딩 페이지 편집기](/help/marketo/product-docs/demand-generation/landing-pages/guided-landing-pages/create-a-guided-landing-page.md). 각 템플릿은 전적으로 응답하며 Bootstrap 프레임워크를 기반으로 합니다.
+[안내 랜딩 페이지 편집기](/help/marketo/product-docs/demand-generation/landing-pages/guided-landing-pages/create-a-guided-landing-page.md)에서 사용할 예제 템플릿 컬렉션을 살펴보십시오. 각 템플릿은 전적으로 응답하며 Bootstrap 프레임워크를 기반으로 합니다.
 
 >[!NOTE]
 >
@@ -23,11 +23,11 @@ ht-degree: 0%
 
 1. 더 큰 보기를 보려면 템플릿 이름을 클릭합니다.
 1. 선택한 템플릿을 다운로드합니다.
-1. Marketo에서 **디자인 스튜디오.**
-1. 클릭 **랜딩 페이지** 왼쪽 트리에서 를 선택한 다음 **템플릿.**
+1. Marketo에서 **Design Studio.**&#x200B;로 이동합니다.
+1. 왼쪽 트리에서 **랜딩 페이지**&#x200B;를 클릭한 다음 **서식 파일**&#x200B;을 선택합니다.
 
-1. 메뉴 모음에서 를 클릭합니다. **템플릿을 가져옵니다.**
-1. 다운로드한 파일을 선택하고 템플릿 이름을 입력한 다음 를 클릭합니다 **가져오기** (설명하는 이름을 선택하고 편집 모드가 **안내식**).
+1. 메뉴 표시줄에서 **템플릿 가져오기**&#x200B;를 클릭합니다.
+1. 다운로드한 파일을 선택하고 템플릿 이름을 입력한 다음 **가져오기**&#x200B;를 클릭합니다(설명 이름을 선택하고 편집 모드가 **안내**&#x200B;임을 표시해야 함).
 
 <table>
 <tr>

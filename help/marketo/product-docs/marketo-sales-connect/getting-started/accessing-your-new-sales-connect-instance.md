@@ -18,15 +18,15 @@ ht-degree: 0%
 
 Sales Connect를 구매하면 Marketo 인스턴스에 새 통합 페이지가 나타납니다. 이 페이지에서는 첫 번째 사용자를 초대하고 Sales Connect 인스턴스를 프로비저닝할 수 있습니다.
 
-1. Marketo에서 **관리자**.
+1. Marketo에서 **관리자**&#x200B;를 클릭합니다.
 
    ![](assets/accessing-your-new-sales-connect-instance-1.png)
 
-1. 클릭 **영업 연결**.
+1. **판매 연결**&#x200B;을 클릭합니다.
 
    ![](assets/accessing-your-new-sales-connect-instance-2.png)
 
-1. 초대할 Marketo 관리자 목록에서 선택하고 **초대 보내기**.
+1. 초대할 Marketo 관리자 목록에서 선택하고 **초대 보내기**&#x200B;를 클릭합니다.
 
    ![](assets/accessing-your-new-sales-connect-instance-3.png)
 
@@ -34,4 +34,4 @@ Sales Connect를 구매하면 Marketo 인스턴스에 새 통합 페이지가 �
 
 >[!NOTE]
 >
->추가 사용자는 **아님** Marketo을 통해 추가되고, 대신 Sales Connect의 사용자 관리 페이지를 통해 추가됩니다. [여기를 클릭하십시오.](/help/marketo/product-docs/marketo-sales-connect/admin/invite-users.md) 추가 사용자 추가에 대해 자세히 알아보십시오.
+>추가 사용자는 Marketo을 통해 **추가되지** 않고 대신 Sales Connect의 사용자 관리 페이지를 통해 추가됩니다. 추가 사용자 추가에 대한 자세한 내용을 보려면 [여기를 클릭하세요](/help/marketo/product-docs/marketo-sales-connect/admin/invite-users.md).

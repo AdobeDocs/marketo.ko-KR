@@ -20,7 +20,7 @@ Salesforce에서 옵트아웃 필드로 구독 취소를 동기화하려면 Sale
 * 옵트아웃 필드는 Salesforce에 설치해야 합니다.
 * Marketo 영업의 개인 레코드에는 Salesforce ID가 있어야 합니다.
 
-**푸시 구독 취소**
+**구독 취소 푸시**
 
 Marketo Sales에서 구독 취소가 수집되면 실시간으로 Salesforce에 푸시하고 동기화하도록 선택한 옵트아웃 필드 중 하나를 업데이트합니다. Salesforce 동기화를 비활성화한 경우에도 구독 취소가 이메일 옵트아웃에 푸시됩니다.
 
@@ -36,15 +36,15 @@ Marketo Sales에서 구독 취소가 수집되면 실시간으로 Salesforce에 
 
 사용자는 Marketo도 동기화할 수 있는 표준 이메일 옵트아웃 필드를 사용하여 구독 취소를 동기화할 것인지 또는 판매 구독 취소와 마케팅 구독 취소를 구분할 수 있도록 Marketo 판매 옵트아웃 필드를 사용하여 동기화할 수 있는지 여부를 결정할 수 있습니다.
 
-1. 톱니바퀴 아이콘을 클릭하고 **설정**.
+1. 톱니바퀴 아이콘을 클릭하고 **설정**&#x200B;을 선택합니다.
 
    ![](assets/syncing-unsubscribes-with-salesforce-1.png)
 
-1. 관리자 설정에서 을 선택합니다. **구독 취소**.
+1. 관리자 설정에서 **구독 취소**&#x200B;를 선택합니다.
 
    ![](assets/syncing-unsubscribes-with-salesforce-2.png)
 
-1. 다음을 클릭합니다. **통합** 탭. Salesforce에 동기화에서 야간 동기화를 활성화합니다.
+1. **통합** 탭을 클릭합니다. Salesforce에 동기화에서 야간 동기화를 활성화합니다.
 
    ![](assets/syncing-unsubscribes-with-salesforce-3.png)
 
@@ -55,7 +55,7 @@ Marketo Sales에서 구독 취소가 수집되면 실시간으로 Salesforce에 
    | 필드 | 설명 |
    |---|---|
    | **Salesforce 옵트아웃 필드에 동기화** | 기본적으로 선택되어 있으며 Salesforce 옵트아웃 필드만 업데이트합니다. |
-   | **Marketo 판매 옵트아웃 필드에 동기화** | 판매 및 마케팅 구독 취소를 분리하려면 이 옵션을 선택하여 추가로 업데이트합니다 [Marketo 판매 옵트아웃 필드](#msoo) |
+   | **Marketo 판매 옵트아웃 필드에 동기화** | 판매 및 마케팅 구독 취소를 구분하려면 이 옵션을 선택하여 [Marketo 판매 옵트아웃 필드를 추가로 업데이트합니다.](#msoo) |
 
 ## 페이지 레이아웃에 옵트아웃 필드 설치 {#installing-the-opt-out-field-in-the-page-layout}
 
@@ -63,11 +63,11 @@ Marketo Sales에서 구독 취소가 수집되면 실시간으로 Salesforce에 
 
 이메일 옵트아웃은 Salesforce에서 설치할 수 있는 Salesforce의 표준 필드입니다. 설치하려면 Salesforce 관리자여야 합니다.
 
-1. 다음으로 이동 [Salesforce.com](https://salesforce.com) 로그인합니다.
+1. [Salesforce.com](https://salesforce.com)(으)로 이동하여 로그인합니다.
 
    ![](assets/syncing-unsubscribes-with-salesforce-5.png)
 
-1. 사용자 이름을 클릭하고 을(를) 선택합니다 **설정**.
+1. 사용자 이름을 클릭하고 **설치**&#x200B;를 선택합니다.
 
    ![](assets/syncing-unsubscribes-with-salesforce-6.png)
 
@@ -75,15 +75,15 @@ Marketo Sales에서 구독 취소가 수집되면 실시간으로 Salesforce에 
 
    ![](assets/syncing-unsubscribes-with-salesforce-7.png)
 
-1. 선택 **페이지 레이아웃**.
+1. **페이지 레이아웃**&#x200B;을 선택합니다.
 
    ![](assets/syncing-unsubscribes-with-salesforce-8.png)
 
-1. 선택 **편집** 필드를 추가할 페이지 레이아웃 옆에 있는
+1. 필드를 추가할 페이지 레이아웃 옆에 있는 **편집**&#x200B;을(를) 선택합니다.
 
    ![](assets/syncing-unsubscribes-with-salesforce-9.png)
 
-1. 선택 **필드**.
+1. **필드**&#x200B;을(를) 선택하십시오.
 
    ![](assets/syncing-unsubscribes-with-salesforce-10.png)
 
@@ -91,12 +91,12 @@ Marketo Sales에서 구독 취소가 수집되면 실시간으로 Salesforce에 
 
    ![](assets/syncing-unsubscribes-with-salesforce-11.png)
 
-1. 클릭 **저장**.
+1. **저장**&#x200B;을 클릭합니다.
 
    ![](assets/syncing-unsubscribes-with-salesforce-12.png)
 
 ## Marketo 판매 옵트아웃 {#marketo-sales-opt-out}
 
-Marketo 판매 옵트아웃 필드는 Marketo Sales Insight 패키지를 설치한 사용자가 사용할 수 있는 사용자 지정 필드입니다 [AppExchange에서](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/installation/install-marketo-sales-insight-package-in-salesforce-appexchange.md){target="_blank"}.
+Marketo 판매 옵트아웃 필드는 AppExchange에서 [Marketo Sales Insight 패키지를 설치한 사용자가 사용할 수 있는 사용자 지정 필드입니다](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/installation/install-marketo-sales-insight-package-in-salesforce-appexchange.md){target="_blank"}.
 
 AppExchange에서 Salesforce로 Marketo Sales Insight 패키지를 성공적으로 설치하면 Marketo Sales Opt Out 필드가 표시됩니다.

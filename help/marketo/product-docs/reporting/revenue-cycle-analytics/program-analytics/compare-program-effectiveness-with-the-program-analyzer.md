@@ -6,7 +6,7 @@ exl-id: 6e54d0a4-3cff-46cf-be0d-1992a39d8c03
 feature: Reporting, Revenue Cycle Analytics
 source-git-commit: d20a9bb584f69282eefae3704ce4be2179b29d0b
 workflow-type: tm+mt
-source-wordcount: '467'
+source-wordcount: '469'
 ht-degree: 0%
 
 ---
@@ -19,7 +19,7 @@ ht-degree: 0%
 >
 >[프로그램 분석기 만들기](/help/marketo/product-docs/reporting/revenue-cycle-analytics/program-analytics/create-a-program-analyzer.md)
 
-1. 클릭 **분석**.
+1. **분석**&#x200B;을 클릭합니다.
 
    ![](assets/image2014-9-17-18-3a50-3a30.png)
 
@@ -37,7 +37,7 @@ ht-degree: 0%
 
    >[!TIP]
    >
-   >프로그램을 하나의 채널로만 필터링하는 빠른 방법은 **보기** > **채널별**&#x200B;을 클릭하고 해당 채널의 버블을 클릭한 다음 팝업 대화 상자에서 채널 이름을 클릭합니다.
+   >프로그램을 하나의 채널로만 필터링하는 빠른 방법은 **보기** > **채널별**&#x200B;을 선택하고 해당 채널의 버블을 클릭한 다음 팝업 대화 상자에서 채널 이름을 클릭하는 것입니다.
 
 1. X축 드롭다운을 사용하여 가로 축에 대한 지표를 선택합니다. 프로그램 비용부터 시작하겠습니다.
 
@@ -53,7 +53,7 @@ ht-degree: 0%
 
    >[!TIP]
    >
-   >또한 선형 스케일에서 로그 스케일로 변경하거나 그 반대로 변경하여 보기를 개선하려고 할 수도 있습니다. 사용 **크기 조절** 맨 위에 있는 메뉴.
+   >또한 선형 스케일에서 로그 스케일로 변경하거나 그 반대로 변경하여 보기를 개선하려고 할 수도 있습니다. 맨 위에 있는 **크기 조정** 메뉴를 사용하십시오.
 
 1. 결과 그래프를 살펴봅니다.
 
@@ -67,13 +67,13 @@ ht-degree: 0%
 
    >[!NOTE]
    >
-   >프로그램 분석기에서 선택할 수 있는 많은 지표는 FT(첫 번째 터치) 및 MT(다중 터치) 계산을 통해 사용할 수 있습니다. 다음을 이해하는 것이 중요합니다. [FT와 MT 속성 간의 차이](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-tools/attribution/understanding-attribution.md).
+   >프로그램 분석기에서 선택할 수 있는 많은 지표는 FT(첫 번째 터치) 및 MT(다중 터치) 계산을 통해 사용할 수 있습니다. FT와 MT 속성의 [차이점](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-tools/attribution/understanding-attribution.md)을 이해하는 것이 중요합니다.
 
 1. 그래프에서 거품의 크기가 변경되는 것을 확인하십시오.
 
    ![](assets/image2014-9-17-18-3a54-3a57.png)
 
-   추가 **(FT) 수익(원)**, 우리는 종이 접기 엑스포가 많은 새로운 이름을 획득했지만, 상대적으로 적은 매출을 낳는다는 것을 빨리 볼 수 있다. 또한, 우리는 종이 축제 12 프로그램이 더 적은 수 있지만 더 나은 이름을 얻고 있다는 것을 볼 수 있습니다, 왜냐하면 그것은 더 많은 수익에 영향을 주기 때문입니다 (더 큰 거품).
+   **(FT) 매출 원**&#x200B;을 추가하면 Origami Expo가 많은 새 이름을 획득하는 동안 상대적으로 적은 매출을 얻습니다. 또한, 우리는 종이 축제 12 프로그램이 더 적은 수 있지만 더 나은 이름을 얻고 있다는 것을 볼 수 있습니다, 왜냐하면 그것은 더 많은 수익에 영향을 주기 때문입니다 (더 큰 거품).
 
 1. 색상 드롭다운을 사용하여 네 번째 지표를 추가합니다. 우리는 투자에 대한 (FT) 매출을 살펴볼 것이다.
 
@@ -87,9 +87,9 @@ ht-degree: 0%
 
 >[!TIP]
 >
->한 채널의 프로그램을 다른 채널의 프로그램과 빠르게 비교할 수 있습니다. 다음을 사용하십시오. **채널 필터** 을 클릭합니다.
+>한 채널의 프로그램을 다른 채널의 프로그램과 빠르게 비교할 수 있습니다. 더 많은 채널을 추가하려면 창 상단의 **채널 필터**&#x200B;를 사용하세요.
 
 >[!MORELIKETHIS]
 >
->* [프로그램 분석기를 사용하여 프로그램 및 채널 세부 정보 살펴보기](/help/marketo/product-docs/reporting/revenue-cycle-analytics/program-analytics/explore-program-and-channel-details-with-the-program-analyzer.md)
+>* [프로그램 분석기를 사용하여 프로그램 및 채널 세부 정보 탐색](/help/marketo/product-docs/reporting/revenue-cycle-analytics/program-analytics/explore-program-and-channel-details-with-the-program-analyzer.md)
 >* [프로그램 분석기와 채널 효율성 비교](/help/marketo/product-docs/reporting/revenue-cycle-analytics/program-analytics/compare-channel-effectiveness-with-the-program-analyzer.md)

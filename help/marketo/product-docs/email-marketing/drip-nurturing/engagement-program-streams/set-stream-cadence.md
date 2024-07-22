@@ -6,7 +6,7 @@ exl-id: 589eeefa-b2f6-4131-a72b-359c97ab98c0
 feature: Engagement Programs
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
-source-wordcount: '378'
+source-wordcount: '380'
 ht-degree: 0%
 
 ---
@@ -17,25 +17,25 @@ ht-degree: 0%
 
 ## 케이던스 설정 {#set-cadence}
 
-1. 다음으로 이동 **마케팅 활동**.
+1. **마케팅 활동**(으)로 이동합니다.
 
    ![](assets/login-marketing-activities.png)
 
-1. 참여 프로그램을 찾아 선택하고 **스트림** 탭을 클릭한 다음 를 클릭합니다 **스트림 케이던스 설정**.
+1. 참여 프로그램을 찾아 선택하고 **스트림** 탭을 클릭한 다음 **스트림 케이던스 설정**&#x200B;을 클릭합니다.
 
    ![](assets/selectstreamcadence.jpg)
 
-1. 케이던스를 반복할 빈도를 선택합니다. 다음을 선택할 수 있습니다. **매주** 또는 **월별**.
+1. 케이던스를 반복할 빈도를 선택합니다. **주별** 또는 **월별**&#x200B;을 선택할 수 있습니다.
 
 ## 주간 {#weekly}
 
-1. 선택 **매주**.
+1. **주별**&#x200B;을(를) 선택합니다.
 
    ![](assets/image2017-12-5-14-3a9-3a43.png)
 
    >[!NOTE]
    >
-   >선택 **없음** 개울을 차단합니다.
+   >**없음**&#x200B;을 선택하면 스트림이 종료됩니다.
 
 1. 첫 번째 출연자의 날짜를 선택합니다.
 
@@ -51,9 +51,9 @@ ht-degree: 0%
 
    >[!TIP]
    >
-   >선택으로 매일 실행되도록 케이던스를 설정할 수 있습니다 **반복: 매주** / **매주: 1주** / **날짜**: 모든 일.
+   >**반복: 매주** / **간격: 1주** / **켜기**: 모든 요일을 선택하여 매일 실행되도록 케이던스를 설정할 수 있습니다.
 
-   이제 시간을 선택하세요. 을(를) 사용하려면 상자를 선택합니다 [수신자 시간대](/help/marketo/product-docs/email-marketing/drip-nurturing/engagement-program-streams/set-stream-cadence/schedule-engagement-programs-with-recipient-time-zone.md)(즉, 현지 시간대에 따라 배송) 그런 다음 을 클릭합니다. **저장**.
+   이제 시간을 선택하세요. [받는 사람 시간대](/help/marketo/product-docs/email-marketing/drip-nurturing/engagement-program-streams/set-stream-cadence/schedule-engagement-programs-with-recipient-time-zone.md)(즉, 현지 시간대에 따라 배달)을 사용하려면 확인란을 선택한 다음 **저장**&#x200B;을 클릭합니다.
 
    ![](assets/image2017-12-5-14-3a20-3a11.png)
 
@@ -73,7 +73,7 @@ ht-degree: 0%
 
 ## 월별 {#monthly}
 
-1. 선택 **월별** 얼마나 자주 반복되는지.
+1. **월별**&#x200B;을(를) 선택하여 반복 빈도를 지정합니다.
 
    ![](assets/image2014-9-15-16-3a30-3a15.png)
 
@@ -93,7 +93,7 @@ ht-degree: 0%
    >
    >또는 요일을 선택할 수 있습니다.
 
-1. 선택 **시간** 및 클릭 **저장**.
+1. **시간**&#x200B;을 선택하고 **저장**&#x200B;을 클릭하세요.
 
    ![](assets/image2014-9-15-16-3a29-3a42.png)
 
@@ -109,5 +109,5 @@ ht-degree: 0%
 
 >[!MORELIKETHIS]
 >
->* [수신자 시간대 이해](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/scheduling-with-recipient-time-zone/understanding-recipient-time-zone.md)
->* [수신자 시간대와 참여 프로그램 예약](/help/marketo/product-docs/email-marketing/drip-nurturing/engagement-program-streams/set-stream-cadence/schedule-engagement-programs-with-recipient-time-zone.md)
+>* [받는 사람 시간대 이해](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/scheduling-with-recipient-time-zone/understanding-recipient-time-zone.md)
+>* [받는 사람 시간대로 참여 프로그램 예약](/help/marketo/product-docs/email-marketing/drip-nurturing/engagement-program-streams/set-stream-cadence/schedule-engagement-programs-with-recipient-time-zone.md)

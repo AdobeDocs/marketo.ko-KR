@@ -17,11 +17,11 @@ ht-degree: 0%
 
 ## TAM 필터 {#tam-filters}
 
-1. 스마트 캠페인을 선택하고 **스마트 목록**.
+1. 스마트 캠페인을 선택하고 **스마트 목록**&#x200B;을 클릭하세요.
 
    ![](assets/one.png)
 
-1. 다음을 클릭합니다. **+** 을(를) 확장하려면 **계정 필터** 폴더를 삭제합니다.
+1. **+**&#x200B;을(를) 클릭하여 **계정 필터** 폴더를 확장합니다.
 
    ![](assets/two.png)
 
@@ -45,7 +45,7 @@ ht-degree: 0%
 
 ## 명명된 계정의 구성원 {#member-of-named-account}
 
-먼저 구분자를 선택합니다. **다음과 같음** 특정 명명된 계정 또는 **다음 중 하나** (명명된 계정)
+먼저 구분자를 선택합니다. 특정 명명된 계정의 **Is** 또는 명명된 계정의 **is**.
 
 ![](assets/six.png)
 
@@ -57,7 +57,7 @@ ht-degree: 0%
 
 ![](assets/eight.png)
 
-&quot;임의&quot; 한정자를 사용하는 경우 다음을 활용할 수 있습니다. [제한](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/using-smart-lists/add-a-constraint-to-a-smart-list-filter.md) 검색 결과 범위를 좁히려면 원하는 만큼 추가합니다.
+&quot;is any&quot; 한정자를 사용하는 경우 [제약 조건](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/using-smart-lists/add-a-constraint-to-a-smart-list-filter.md)을 사용하여 검색 결과를 좁힐 수 있습니다. 원하는 만큼 추가합니다.
 
 ![](assets/nine.png)
 

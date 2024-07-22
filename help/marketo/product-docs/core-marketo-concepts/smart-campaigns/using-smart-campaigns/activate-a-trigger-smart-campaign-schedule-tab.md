@@ -15,7 +15,7 @@ ht-degree: 0%
 
 스마트 캠페인 트리거를 활성화하는 것은 켜는 것과 같습니다. 할 일이 있습니다.
 
-1. 스마트 캠페인의 **[!UICONTROL 예약]** 탭을 클릭하고 **[!UICONTROL 활성화]**.
+1. 스마트 캠페인의 **[!UICONTROL 일정]** 탭에서 **[!UICONTROL 활성화]**&#x200B;를 클릭합니다.
 
    ![](assets/activate-a-trigger-smart-campaign-schedule-tab-1.png)
 
@@ -23,7 +23,7 @@ ht-degree: 0%
    >
    >활성화하기 전에 스마트 캠페인을 검토하십시오.
 
-1. 클릭 **[!UICONTROL 활성화]** 다시.
+1. **[!UICONTROL 활성화]**&#x200B;를 다시 클릭합니다.
 
    ![](assets/activate-a-trigger-smart-campaign-schedule-tab-2.png)
 

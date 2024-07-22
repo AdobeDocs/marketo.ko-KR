@@ -19,14 +19,14 @@ ht-degree: 0%
 
    ![](assets/change-the-landing-page-url-1.png)
 
-1. 다음을 클릭합니다. **랜딩 페이지 작업** 드롭다운, 다음으로 스크롤 **URL 도구** 및 선택 **URL 설정**.
+1. **랜딩 페이지 작업** 드롭다운을 클릭하고 **URL 도구**(으)로 스크롤한 다음 **URL 설정**&#x200B;을 선택합니다.
 
    ![](assets/change-the-landing-page-url-2.png)
 
-1. 다음을 입력합니다. **새 URL**, 이전 URL을 삭제하거나 리디렉션하도록 선택하고 **저장**.
+1. **새 URL**&#x200B;을(를) 입력하고 이전 URL을 삭제하거나 리디렉션하도록 선택한 다음 **저장**&#x200B;을 클릭합니다.
 
    ![](assets/change-the-landing-page-url-3.png)
 
    >[!NOTE]
    >
-   >두 URL을 모두 유지하기로 결정하면 리디렉션 규칙이 자동으로 만들어집니다. 자세히 알아보기 [URL 리디렉션](/help/marketo/product-docs/demand-generation/landing-pages/personalizing-landing-pages/redirect-a-url-path.md).
+   >두 URL을 모두 유지하기로 결정하면 리디렉션 규칙이 자동으로 만들어집니다. [URL 리디렉션](/help/marketo/product-docs/demand-generation/landing-pages/personalizing-landing-pages/redirect-a-url-path.md)에 대해 자세히 알아보세요.

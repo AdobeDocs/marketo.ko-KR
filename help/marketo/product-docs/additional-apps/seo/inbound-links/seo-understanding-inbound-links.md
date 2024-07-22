@@ -6,14 +6,14 @@ exl-id: 2f70cff9-1873-4083-927d-a65cae98af54
 feature: SEO
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
-source-wordcount: '120'
-ht-degree: 1%
+source-wordcount: '122'
+ht-degree: 0%
 
 ---
 
-# SEO - 이해 [!UICONTROL 인바운드 링크] {#seo-understanding-inbound-links}
+# SEO - [!UICONTROL 인바운드 링크 이해] {#seo-understanding-inbound-links}
 
-[!UICONTROL 인바운드 링크] 사이트가 참조할 가치가 있는 검색 엔진에 을 표시합니다. 잘됐네!
+[!UICONTROL 인바운드 링크]은(는) 사이트가 참조할 가치가 있는 검색 엔진을 나타냅니다. 잘됐네!
 
 ![](assets/image2014-9-18-13-3a18-3a10.png)
 

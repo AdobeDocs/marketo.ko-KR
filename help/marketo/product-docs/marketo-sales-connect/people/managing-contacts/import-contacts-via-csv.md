@@ -6,7 +6,7 @@ exl-id: e1a15e9f-7978-4112-b38d-ab78a4300a5a
 feature: Marketo Sales Connect
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
-source-wordcount: '120'
+source-wordcount: '121'
 ht-degree: 0%
 
 ---
@@ -19,11 +19,11 @@ ht-degree: 0%
 
    ![](assets/one.png)
 
-1. 클릭 **그룹 작업** 및 선택 **CSV 가져오기**.
+1. **그룹 작업**&#x200B;을 클릭하고 **CSV 가져오기**&#x200B;를 선택합니다.
 
    ![](assets/two.png)
 
-1. 클릭 **찾아보기**.
+1. **찾아보기**&#x200B;를 클릭합니다.
 
    ![](assets/three.png)
 
@@ -33,10 +33,10 @@ ht-degree: 0%
    >
    >그룹은 1000개의 연락처로 제한됩니다.
 
-1. 클릭 **다음**.
+1. **다음**&#x200B;을 클릭합니다.
 
    ![](assets/four.png)
 
-1. CSV의 열을 Sales Connect의 해당 필드에 매핑합니다. 클릭 **다음** 완료 시.
+1. CSV의 열을 Sales Connect의 해당 필드에 매핑합니다. 완료되면 **다음**&#x200B;을 클릭하세요.
 
    ![](assets/five.png)

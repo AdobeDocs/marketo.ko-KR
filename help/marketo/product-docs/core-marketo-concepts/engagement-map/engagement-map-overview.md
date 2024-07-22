@@ -1,10 +1,10 @@
 ---
 description: Engagement Map 개요 - Marketo 문서 - 제품 설명서
 title: 참여 맵 개요
-exl-id: 0b445ac7-bfa4-4f86-bb92-86d4d982555e
-source-git-commit: 34545817fd35719290a848384e4bc9feba521305
+exl-id: 01cb283d-06c2-4a99-86a9-39dea9550c08
+source-git-commit: c16081143588ebc0793f5b6e2630b58348e27124
 workflow-type: tm+mt
-source-wordcount: '748'
+source-wordcount: '750'
 ht-degree: 0%
 
 ---
@@ -21,23 +21,23 @@ ht-degree: 0%
 
 ## 참여 맵 액세스 {#accessing-engagement-map}
 
-기존 캠페인으로 이동하여 **참여 맵** 단추를 클릭합니다.
+기존 캠페인으로 이동하고 **참여 맵** 단추를 클릭합니다.
 
 ![](assets/engagement-map-overview-2.png)
 
-Engagement Map에 두 개의 탭이 표시됩니다. [참여 맵](/help/marketo/product-docs/core-marketo-concepts/engagement-map/engagement-map-tab.md){target="_blank"} and [Settings](/help/marketo/product-docs/core-marketo-concepts/engagement-map/settings-tab.md){target="_blank"}.
+참여 맵에 두 개의 탭이 표시됩니다. [참여 맵](/help/marketo/product-docs/core-marketo-concepts/engagement-map/engagement-map-tab.md){target="_blank"} 및 [설정](/help/marketo/product-docs/core-marketo-concepts/engagement-map/settings-tab.md){target="_blank"}.
 
 ![](assets/engagement-map-overview-3.png)
 
 ## 카드 설명 {#card-descriptions}
 
-**트리거**: 트리거가 포함된 캠페인에서 맵에는 &quot;트리거 개요&quot; 카드가 있습니다. 이 아이콘을 클릭하면 각 트리거에 대한 카드와 추가 정보가 있는 슬라이드 아웃 패널이 표시됩니다.
+**트리거**: 트리거가 포함된 캠페인에서는 맵에 &quot;트리거 개요&quot; 카드가 있습니다. 이 아이콘을 클릭하면 각 트리거에 대한 카드와 추가 정보가 있는 슬라이드 아웃 패널이 표시됩니다.
 
-**필터**: 필터를 포함하는 캠페인에서 맵에는 필터 개요 카드가 포함됩니다. 클릭하면 각 필터에 대한 추가 정보가 있는 슬라이드 아웃 패널이 표시됩니다.
+**필터**: 필터가 포함된 캠페인에서는 맵에 필터 개요 카드가 포함됩니다. 클릭하면 각 필터에 대한 추가 정보가 있는 슬라이드 아웃 패널이 표시됩니다.
 
 **흐름 단계**: 각 캠페인에는 각 흐름 단계에 대한 카드가 포함됩니다. 클릭하면 추가 정보가 있는 슬라이드 아웃 패널이 표시됩니다.
 
-**선택 사항**: 흐름 단계에 하나 이상의 선택 항목이 포함된 경우 흐름 카드를 클릭하면 각 선택 항목에 대한 카드와 추가 정보가 있는 슬라이드 아웃 패널이 표시됩니다.
+**선택 항목**: 흐름 단계에 하나 이상의 선택 항목이 포함되어 있는 경우 흐름 카드를 클릭하면 각 선택 항목에 대한 카드와 추가 정보가 포함된 슬라이드 아웃 패널이 표시됩니다.
 
 ## 중첩된 캠페인 {#nested-campaigns}
 
@@ -71,23 +71,23 @@ Engagement Map에 두 개의 탭이 표시됩니다. [참여 맵](/help/marketo/
 
 ## FAQ {#faq}
 
-**참여 맵에서 모든 캠페인을 다시 빌드해야 합니까?**
+**참여 맵에서 모든 캠페인을 다시 만들어야 합니까?**
 
-아니요. 참여 맵은 이전 버전과의 완전한 호환성을 가지고 있습니다. 버튼을 클릭하면 시각적 참여 맵 인터페이스에서 각 기존 캠페인을 볼 수 있습니다.
+아니. 참여 맵은 이전 버전과의 완전한 호환성을 가지고 있습니다. 버튼을 클릭하면 시각적 참여 맵 인터페이스에서 각 기존 캠페인을 볼 수 있습니다.
 
-**Marketo Engage에 참여 맵이 있으면 폴더 구조에 대한 액세스 권한을 잃게 되고 스마트 캠페인 빌드 방법을 다시 학습해야 합니까?**
+**Marketo Engage에 참여 맵을 사용하면 폴더 구조에 액세스할 수 없게 되고 스마트 캠페인을 만드는 방법을 다시 배워야 합니까?**
 
-아니요. Engagement Map의 가장 좋은 점은 두 세계의 장점을 모두 제공한다는 것입니다. 이는 캠페인을 구축하는 현재 방식과 상호 보완적입니다. 모든 사용자는 이제 명확한 비주얼로 보완된 Marketo Engage의 강력한 기능 세트를 계속 사용할 수 있습니다.
+아니. Engagement Map의 가장 좋은 점은 두 세계의 장점을 모두 제공한다는 것입니다. 이는 캠페인을 구축하는 현재 방식과 상호 보완적입니다. 모든 사용자는 이제 명확한 비주얼로 보완된 Marketo Engage의 강력한 기능 세트를 계속 사용할 수 있습니다.
 
 **참여 맵이 유료 추가 기능입니까?**
 
-아니요. 모든 구독에 있는 모든 기존 및 신규 Marketo Engage 사용자는 이 무료 기능에 액세스할 수 있습니다.
+아니. 모든 구독에 있는 모든 기존 및 신규 Marketo Engage 사용자는 이 무료 기능에 액세스할 수 있습니다.
 
-**Marketo Engage 관리자는 참여 맵을 설정/해제해야 합니까?**
+**Marketo Engage 관리자로서 참여 맵을 설정/해제해야 합니까?**
 
-아니요. 참여 맵은 해당 인스턴스의 모든 사용자가 사용할 수 있습니다. 특정 사용자, 작업 공간 등에 대해 이 기능을 켜거나 끌 수 없습니다.
+아니. 참여 맵은 해당 인스턴스의 모든 사용자가 사용할 수 있습니다. 특정 사용자, 작업 공간 등에 대해 이 기능을 켜거나 끌 수 없습니다.
 
-**다른 시각적 빌더와 어떻게 다릅니까?**
+**다른 비주얼 빌더와 어떻게 다릅니까?**
 
 Engagement Map을 구분하는 세 가지 주요 사항은 다음과 같습니다.
 

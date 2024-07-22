@@ -17,17 +17,17 @@ Dynamic Chat 대화 흐름이 Marketo Engage 랜딩 페이지에 직접 포함�
 
 >[!PREREQUISITES]
 >
->단순 만들기 [대화 흐름](/help/marketo/product-docs/demand-generation/dynamic-chat/automated-chat/create-a-conversational-flow.md) 다음 항목만 포함 **회의 예약** 카드.
+>**모임 예약** 카드만 포함된 간단한 [대화 흐름](/help/marketo/product-docs/demand-generation/dynamic-chat/automated-chat/create-a-conversational-flow.md)을 만듭니다.
 
 ## 안내식 랜딩 페이지 {#guided-landing-pages}
 
-가이드 랜딩 페이지 템플릿에 다음 코드를 포함합니다. `<div class="mktoConversation" id="exampleConversation" mktoName= "Example Conversation"></div>`.
+가이드 랜딩 페이지 템플릿에 `<div class="mktoConversation" id="exampleConversation" mktoName= "Example Conversation"></div>` 코드를 포함합니다.
 
 편집기에서 가이드 랜딩 페이지 템플릿을 열고 대화 흐름 자리 표시자를 선택합니다.
 
 대화형 흐름 드롭다운을 클릭하고 1단계에서 만든 CF를 선택합니다.
 
-게재 유형 항상 다음으로 유지 **인라인**. 클릭 **삽입**.
+항상 게재 유형을 **인라인**(으)로 유지하십시오. **삽입**&#x200B;을 클릭합니다.
 
 방금 입력한 대화 흐름이 오른쪽에 요소로 나타납니다.
 

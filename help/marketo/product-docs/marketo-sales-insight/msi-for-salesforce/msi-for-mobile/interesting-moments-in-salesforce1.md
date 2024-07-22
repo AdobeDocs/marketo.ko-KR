@@ -13,7 +13,7 @@ ht-degree: 0%
 
 # Salesforce1의 흥미로운 순간 {#interesting-moments-in-salesforce}
 
-[즐거운 순간 사용](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/features/tabs-in-the-msi-panel/interesting-moments/using-interesting-moments.md) 는 Marketo Sales Insight 앱을 통해 영업팀과 통신하는 데 중요한 요소입니다. 이제 Marketo Sales Insight for Salesforce1을 사용하여 스마트폰에서도 동일한 작업을 수행할 수 있습니다!
+[관심 있는 순간 사용](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/features/tabs-in-the-msi-panel/interesting-moments/using-interesting-moments.md)은(는) Marketo Sales Insight 앱을 통해 영업팀과 통신하는 데 중요한 요소입니다. 이제 Marketo Sales Insight for Salesforce1을 사용하여 스마트폰에서도 동일한 작업을 수행할 수 있습니다!
 
 >[!AVAILABILITY]
 >
@@ -25,11 +25,11 @@ ht-degree: 0%
 
    ![](assets/one.png)
 
-1. 다음을 클릭합니다. **관련 항목** 탭에서는 즐거운 순간, 웹 활동, 이메일 및 점수를 확인할 수 있습니다.
+1. 즐거운 순간, 웹 활동, 전자 메일 및 점수를 보려면 **관련** 탭을 클릭하십시오.
 
    ![](assets/two.png)
 
 >[!MORELIKETHIS]
 >
->* [즐거운 순간](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/interesting-moment.md)
+>* [관심 있는 순간](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/interesting-moment.md)
 >* [즐거운 순간을 위한 토큰](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/features/tabs-in-the-msi-panel/interesting-moments/trigger-tokens-for-interesting-moments.md)

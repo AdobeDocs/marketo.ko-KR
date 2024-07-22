@@ -17,17 +17,17 @@ ht-degree: 0%
 
 >[!PREREQUISITES]
 >
->[이메일 챔피언/챌린저 추가](/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/email-tests-champion-challenger/add-an-email-champion-challenger.md)
+>[전자 메일 챔피언/도전자 추가](/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/email-tests-champion-challenger/add-an-email-champion-challenger.md)
 
-1. 이메일 테스트 편집기에서 **제목 줄** 다음에서 **테스트 유형** 드롭다운.
+1. 전자 메일 테스트 편집기의 **테스트 형식** 드롭다운에서 **제목 줄**&#x200B;을 선택합니다.
 
    ![](assets/image2014-9-15-12-3a37-3a50.png)
 
    >[!NOTE]
    >
-   >교과 테스트에서 첫 번째로 입력한 제목 줄은 **챔피언**. 후속 제목 줄은 호출됩니다. **챌린저스**.
+   >제목 테스트에서 처음 입력한 제목 줄은 **챔피언**(으)로 지정됩니다. 후속 제목을 **도전자**&#x200B;라고 합니다.
 
-1. 다음에 대한 제목 줄 입력 **챌린저스**.
+1. **도전자**&#x200B;의 제목 줄을 입력하세요.
 
    ![](assets/image2014-9-15-12-3a38-3a4.png)
 
@@ -47,7 +47,7 @@ ht-degree: 0%
 
    통계적 신뢰도를 높이려면 선택한 백분율에 충분한 인원이 포함되어 있는지 확인하여 테스트가 유효한지 확인하십시오. 결론이 나지 않는 결과에 속지 마라.
 
-1. 클릭 **다음**.
+1. **다음**&#x200B;을 클릭합니다.
 
    ![](assets/image2014-9-15-12-3a40-3a42.png)
 

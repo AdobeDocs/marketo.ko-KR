@@ -17,11 +17,11 @@ ht-degree: 0%
 
 >[!CAUTION]
 >
->[개별 단계는 승인되어야 합니다.](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-cycle-models/approving-stages-and-assigning-leads-to-a-revenue-model.md) 전체 모델을 승인하기 전에 추가된 사용자입니다.
+>전체 모델을 승인하기 전에 [개별 단계를 승인해야 하며](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-cycle-models/approving-stages-and-assigning-leads-to-a-revenue-model.md) 사람을 추가해야 합니다.
 
 ## 승인 {#approve}
 
-1. 로 이동 **분석** 영역입니다.
+1. **Analytics** 영역으로 이동합니다.
 
    ![](assets/image2017-3-28-8-3a9-3a16.png)
 
@@ -29,11 +29,11 @@ ht-degree: 0%
 
    ![](assets/image2015-4-28-13-3a25-3a17.png)
 
-1. 다음에서 **모델 작업** 메뉴, 선택 **모델 승인**.
+1. **모델 작업** 메뉴에서 **모델 승인**&#x200B;을 선택합니다.
 
    ![](assets/image2015-4-28-14-3a6-3a3.png)
 
-1. 선택을 확인하는 대화 상자가 나타납니다. 클릭 **승인**.
+1. 선택을 확인하는 대화 상자가 나타납니다. **승인**&#x200B;을 클릭합니다.
 
    ![](assets/image2015-4-28-14-3a6-3a49.png)
 
@@ -45,7 +45,7 @@ ht-degree: 0%
 >
 >모델 승인을 취소하면 모든 직원이 모델에서 제거되고 모델의 기록이 삭제됩니다.
 
-1. 로 이동 **분석** 영역입니다.
+1. **Analytics** 영역으로 이동합니다.
 
    ![](assets/image2017-3-28-8-3a9-3a30.png)
 
@@ -53,11 +53,11 @@ ht-degree: 0%
 
    ![](assets/image2015-4-28-13-3a25-3a17.png)
 
-1. 다음을 클릭합니다. **모델 작업** 메뉴 및 선택 **모델 승인 취소**.
+1. **모델 작업** 메뉴를 클릭하고 **모델 승인 취소**&#x200B;를 선택합니다.
 
    ![](assets/image2015-4-28-13-3a28-3a0.png)
 
-1. 표시되는 대화 상자에서 **모델 승인 취소**.
+1. 표시되는 대화 상자에서 **모델 승인 취소**&#x200B;를 클릭합니다.
 
    ![](assets/image2017-3-28-8-3a21-3a9.png)
 

@@ -5,7 +5,7 @@ exl-id: fcd89688-6905-4714-9254-42873eca8428
 feature: Sales Insight Actions
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
-source-wordcount: '141'
+source-wordcount: '140'
 ht-degree: 2%
 
 ---
@@ -36,7 +36,7 @@ ht-degree: 2%
 
 ## 인증 {#authorization}
 
-를 준수하여 [GDPR](https://eugdpr.org/), 권한 부여를 사용하여 이러한 연락처에 참여할 수 있는 권한을 받은 방법을 나타냅니다.
+[GDPR](https://eugdpr.org/)을(를) 준수하는 경우 권한 부여를 사용하여 해당 연락처에 참여할 수 있는 권한을 받은 방법을 지정하십시오.
 
 ![](assets/bulk-actions-on-people-4.png)
 
@@ -48,6 +48,6 @@ ht-degree: 2%
 
 ## 삭제 {#delete}
 
-연락처를 일괄적으로 삭제합니다. 전체 단계는 다음과 같습니다 [여기](/help/marketo/product-docs/marketo-sales-insight/actions/people/managing-contacts/creating-and-deleting-contacts.md).
+연락처를 일괄적으로 삭제합니다. 전체 단계는 [여기](/help/marketo/product-docs/marketo-sales-insight/actions/people/managing-contacts/creating-and-deleting-contacts.md)에 있습니다.
 
 ![](assets/bulk-actions-on-people-6.png)

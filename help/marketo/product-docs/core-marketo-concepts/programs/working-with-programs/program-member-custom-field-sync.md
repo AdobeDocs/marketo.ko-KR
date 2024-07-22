@@ -5,7 +5,7 @@ exl-id: 7facfc79-a411-4ad9-b847-2002763af5bb
 feature: Programs
 source-git-commit: e49860ae611f2f77789bb491aeccbee46a911a2c
 workflow-type: tm+mt
-source-wordcount: '353'
+source-wordcount: '355'
 ht-degree: 6%
 
 ---
@@ -14,8 +14,8 @@ ht-degree: 6%
 
 >[!PREREQUISITES]
 >
->* 생성 [프로그램 멤버 사용자 정의 필드](/help/marketo/product-docs/core-marketo-concepts/programs/working-with-programs/program-member-custom-fields.md){target="_blank"}
->* [Salesforce 캠페인을 프로그램과 동기화](/help/marketo/product-docs/core-marketo-concepts/programs/working-with-programs/sync-an-sfdc-campaign-with-a-program.md){target="_blank"}
+>* [프로그램 구성원 사용자 지정 필드 만들기](/help/marketo/product-docs/core-marketo-concepts/programs/working-with-programs/program-member-custom-fields.md){target="_blank"}
+>* [프로그램과 Salesforce 캠페인 동기화](/help/marketo/product-docs/core-marketo-concepts/programs/working-with-programs/sync-an-sfdc-campaign-with-a-program.md){target="_blank"}
 
 >[!NOTE]
 >
@@ -23,11 +23,11 @@ ht-degree: 6%
 
 ## Salesforce 필드를 프로그램 멤버 사용자 정의 필드에 매핑 {#map-salesforce-fields-to-program-member-custom-fields}
 
-1. Marketo에서 **[!UICONTROL 관리자]**.
+1. Marketo에서 **[!UICONTROL 관리자]**&#x200B;를 클릭합니다.
 
    ![](assets/program-member-custom-field-sync-1.png)
 
-1. 클릭 **[!DNL Salesforce]**&#x200B;을 클릭한 다음 을 클릭합니다 **[!UICONTROL 편집]** 프로그램 멤버 사용자 정의 필드 동기화 옆에 있습니다.
+1. **[!DNL Salesforce]**&#x200B;을(를) 클릭한 다음 프로그램 구성원 사용자 지정 필드 동기화 옆에 있는 **[!UICONTROL 편집]**&#x200B;을(를) 클릭합니다.
 
    ![](assets/program-member-custom-field-sync-2.png)
 
@@ -49,7 +49,7 @@ ht-degree: 6%
 
 1. 추가 필드 매핑의 경우 검색 상자를 지우고 3~5단계를 반복합니다.
 
-1. 클릭 **[!UICONTROL 저장]** 완료 시.
+1. 완료되면 **[!UICONTROL 저장]**&#x200B;을 클릭합니다.
 
    ![](assets/program-member-custom-field-sync-6.png)
 
@@ -65,11 +65,11 @@ ht-degree: 6%
 
 필드를 바꾸기 위해 필드를 비우거나 일반적인 변경 내용을 적용하려는 경우 먼저 매핑 해제를 수행해야 합니다. 방법은 다음과 같습니다.
 
-1. Marketo에서 **[!UICONTROL 관리자]**.
+1. Marketo에서 **[!UICONTROL 관리자]**&#x200B;를 클릭합니다.
 
    ![](assets/program-member-custom-field-sync-7.png)
 
-1. 클릭 **[!DNL Salesforce]**&#x200B;을 클릭한 다음 을 클릭합니다 **[!UICONTROL 편집]** 프로그램 멤버 사용자 정의 필드 동기화 옆에 있습니다.
+1. **[!DNL Salesforce]**&#x200B;을(를) 클릭한 다음 프로그램 구성원 사용자 지정 필드 동기화 옆에 있는 **[!UICONTROL 편집]**&#x200B;을(를) 클릭합니다.
 
    ![](assets/program-member-custom-field-sync-8.png)
 
@@ -79,9 +79,9 @@ ht-degree: 6%
 
    >[!TIP]
    >
-   >다음을 선택할 수 있습니다. **[!UICONTROL 매핑됨]** 매핑된 필드만 볼 수 있는 확인란입니다.
+   >**[!UICONTROL 매핑됨]** 확인란을 선택하여 매핑된 필드만 볼 수 있습니다.
 
-1. 을(를) 클릭하여 매핑 해제 **X** 필드 옆.
+1. 필드 옆에 있는 **X**&#x200B;을(를) 클릭하여 매핑을 해제합니다.
 
    ![](assets/program-member-custom-field-sync-10.png)
 
@@ -158,6 +158,6 @@ ht-degree: 6%
 
 >[!MORELIKETHIS]
 >
->* [프로그램 멤버 데이터 변경](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/program-flow-actions/change-program-member-data.md){target="_blank"}
->* [프로그램 멤버 그리드에서 데이터 보기](/help/marketo/product-docs/core-marketo-concepts/programs/working-with-programs/manage-and-view-members.md){target="_blank"}
+>* [프로그램 구성원 데이터 변경](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/program-flow-actions/change-program-member-data.md){target="_blank"}
+>* [프로그램 구성원 표에서 데이터를 봅니다](/help/marketo/product-docs/core-marketo-concepts/programs/working-with-programs/manage-and-view-members.md){target="_blank"}
 >* [SFDC 동기화 - Campaign 동기화](/help/marketo/product-docs/crm-sync/salesforce-sync/sfdc-sync-details/sfdc-sync-campaign-sync.md){target="_blank"}

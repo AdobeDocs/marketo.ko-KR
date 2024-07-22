@@ -6,7 +6,7 @@ exl-id: 5583be62-46a6-42f9-b4b3-0df63a171b2d
 feature: Audit Trail
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
-source-wordcount: '1913'
+source-wordcount: '1902'
 ht-degree: 10%
 
 ---
@@ -32,7 +32,7 @@ ht-degree: 10%
   <tr> 
    <td rowspan="15"><strong>기본 프로그램</strong><br><br><br><br><br><br><br><br><br><br><br></td> 
    <td>만들기</td> 
-   <td>채널 유형 "채널 유형"<br>또는<br>"프로그램 이름"에서 복제됨</td> 
+   <td>"프로그램 이름"에서 "채널 유형"<br>또는<br>클론된 채널 유형</td> 
   </tr> 
   <tr> 
    <td>이름 바꾸기</td> 
@@ -40,7 +40,7 @@ ht-degree: 10%
   </tr> 
   <tr> 
    <td>복제</td> 
-   <td>작업 영역 "작업 영역 이름"에 복제됨 <br>위치 "캠페인 폴더" 또는 "참여 프로그램" <br>복제된 프로그램 이름 "새 이름"</td> 
+   <td>작업 영역 "작업 영역 이름" <br>위치 "캠페인 폴더" 또는 "참여 프로그램" <br>복제된 프로그램 이름 "새 이름"에 복제됨</td> 
   </tr> 
   <tr> 
    <td>삭제</td> 
@@ -93,7 +93,7 @@ ht-degree: 10%
   <tr> 
    <td rowspan="19"><strong>이메일</strong><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br></td> 
    <td>만들기</td> 
-   <td>템플릿 "템플릿 이름"을 사용하여 생성됨 <br>또는 <br>"자산 이름"에서 복제됨</td> 
+   <td>템플릿 "템플릿 이름" <br> 또는 "에셋 이름"에서 복제된 <br>을(를) 사용하여 생성됨</td> 
   </tr> 
   <tr> 
    <td>편집</td> 
@@ -149,11 +149,11 @@ ht-degree: 10%
   </tr> 
   <tr> 
    <td>복제</td> 
-   <td>"Design studio"에서 "foldername" 폴더로 복제됨 <br>복제된 자산 이름 "name"<br>또는<br>프로그램 "프로그램 이름"에 "마케팅 활동"으로 복제됨<br>복제된 자산 이름 "name"</td> 
+   <td>"Design studio"에 폴더 "foldername"으로 복제됨 <br>자산 이름 "name"<br>또는<br>프로그램 "program name"<br>자산 이름 "name"(으)로 복제됨</td> 
   </tr> 
   <tr> 
    <td>이동</td> 
-   <td>"Design studio"에서 "folder name" 폴더로 이동됨<br>또는<br>"마케팅 활동"으로 "프로그램 이름" 프로그램으로 이동됨</td> 
+   <td>"Design studio"로 폴더 "폴더 이름"<br>또는<br>프로그램 "프로그램 이름"으로 "마케팅 활동"으로 이동됨</td> 
   </tr> 
   <tr> 
    <td>승인</td> 
@@ -165,11 +165,11 @@ ht-degree: 10%
   </tr> 
   <tr> 
    <td>초안</td> 
-   <td>코드 조각 "코드 조각 이름"이 승인되었으므로 이메일이 작성되었습니다.<br>또는<br>템플릿 "템플릿 이름"이 승인되었으므로 이메일이 작성되었습니다.</td> 
+   <td>코드 조각 "코드 조각 이름"이 승인되어 이메일이 작성되었습니다.<br>또는<br>템플릿 "템플릿 이름"이 승인되어 이메일이 작성되었습니다.</td> 
   </tr> 
    <td rowspan="17">이메일 프로그램</td> 
    <td>만들기</td> 
-   <td>채널 유형 "채널 유형"<br>또는<br>"프로그램 이름"에서 복제됨</td> 
+   <td>"프로그램 이름"에서 "채널 유형"<br>또는<br>클론된 채널 유형</td> 
   </tr> 
   <tr> 
    <td colspan="1">이름 바꾸기</td> 
@@ -177,7 +177,7 @@ ht-degree: 10%
   </tr> 
   <tr> 
    <td>복제</td> 
-   <td>작업 영역 "작업 영역 이름"에 복제됨 <br>위치 "Campaign 폴더 또는 참여 프로그램" <br>복제된 프로그램 이름 "새 이름"</td> 
+   <td>작업 영역 "작업 영역 이름" <br>위치 "Campaign 폴더 또는 참여 프로그램" <br>복제된 프로그램 이름 "새 이름"에 복제됨</td> 
   </tr> 
   <tr> 
    <td>삭제</td> 
@@ -217,7 +217,7 @@ ht-degree: 10%
   </tr> 
   <tr> 
    <td>프로그램 설정 수정</td> 
-   <td>Analytics 비헤이비어 "비헤이비어 이름" 편집<br>이전 비헤이비어 "비헤이비어 이름"</td> 
+   <td>Analytics 동작 "동작 이름"<br>이전 동작 "동작 이름" 편집</td> 
   </tr> 
   <tr> 
    <td>프로그램 설정 수정</td> 
@@ -258,7 +258,7 @@ ht-degree: 10%
   </tr> 
   <tr> 
    <td>복제</td> 
-   <td>"폴더 이름"으로 복제됨 <br> 복제된 자산 이름 "name"</td> 
+   <td>"폴더 이름" <br> 복제된 자산 이름 "이름"으로 복제됨</td> 
   </tr> 
   <tr> 
    <td>승인</td> 
@@ -271,7 +271,7 @@ ht-degree: 10%
   <tr> 
    <td rowspan="23">참여 프로그램</td> 
    <td>만들기</td> 
-   <td>채널 유형 "채널 유형"<br> 또는<br> "프로그램 이름"에서 복제됨</td> 
+   <td>"프로그램 이름"에서 복제된 채널 유형 "채널 유형"<br> 또는<br></td> 
   </tr> 
   <tr> 
    <td>이름 바꾸기</td> 
@@ -279,7 +279,7 @@ ht-degree: 10%
   </tr> 
   <tr> 
    <td>복제</td> 
-   <td>작업 영역 "작업 영역 이름"에 복제됨 <br>위치 "Campaign 폴더 또는 참여 프로그램" <br>복제된 프로그램 이름 "새 이름"</td> 
+   <td>작업 영역 "작업 영역 이름" <br>위치 "Campaign 폴더 또는 참여 프로그램" <br>복제된 프로그램 이름 "새 이름"에 복제됨</td> 
   </tr> 
   <tr> 
    <td>삭제</td> 
@@ -303,19 +303,19 @@ ht-degree: 10%
   </tr> 
   <tr> 
    <td>프로그램 스트림 수정</td> 
-   <td>콘텐츠 추가<br>Steam 이름 "stream name"<br>"Email" 또는 "Program" 입력<br>이름 "이메일 이름" 또는 "프로그램 이름"<br>스마트 캠페인 "스마트 캠페인 이름"</td> 
+   <td>콘텐츠 추가<br>Steam 이름 "stream name"<br>Type "Email" or "Program"<br>Name "email name" or "program name"<br>Smart Campaign "smart campaign name"</td> 
   </tr> 
   <tr> 
    <td>프로그램 스트림 수정</td> 
-   <td>콘텐츠 활성화<br>스트림 이름 "스트림 이름"<br>콘텐츠 이름 "이메일 이름" 또는 "프로그램 이름"</td> 
+   <td>콘텐츠 활성화<br>스트림 이름 "스트림 이름"<br>콘텐츠 이름 "전자 메일 이름" 또는 "프로그램 이름"</td> 
   </tr> 
   <tr> 
    <td>프로그램 스트림 수정</td> 
-   <td>콘텐츠 비활성화<br>스트림 이름 "스트림 이름"<br>콘텐츠 이름 "이메일 이름" 또는 "프로그램 이름"</td> 
+   <td>콘텐츠 비활성화<br>스트림 이름 "스트림 이름"<br>콘텐츠 이름 "전자 메일 이름" 또는 "프로그램 이름"</td> 
   </tr> 
   <tr> 
    <td>프로그램 스트림 수정</td> 
-   <td>콘텐츠 제거<br>스트림 이름 "스트림 이름"<br>콘텐츠 이름 "이메일 이름" 또는 "프로그램 이름"</td> 
+   <td>콘텐츠 제거<br>스트림 이름 "스트림 이름"<br>콘텐츠 이름 "전자 메일 이름" 또는 "프로그램 이름"</td> 
   </tr> 
   <tr> 
    <td>프로그램 토큰 수정</td> 
@@ -335,7 +335,7 @@ ht-degree: 10%
   </tr> 
   <tr> 
    <td>프로그램 설정 수정</td> 
-   <td>Analytics 비헤이비어 "비헤이비어 이름" 편집<br>이전 비헤이비어 "비헤이비어 이름"</td> 
+   <td>Analytics 동작 "동작 이름"<br>이전 동작 "동작 이름" 편집</td> 
   </tr> 
   <tr> 
    <td>프로그램 설정 수정</td> 
@@ -364,7 +364,7 @@ ht-degree: 10%
   <tr> 
    <td rowspan="18">이벤트 프로그램</td> 
    <td>만들기</td> 
-   <td>채널 유형 "채널 유형"<br>또는<br>"프로그램 이름"에서 복제됨</td> 
+   <td>"프로그램 이름"에서 "채널 유형"<br>또는<br>클론된 채널 유형</td> 
   </tr> 
   <tr> 
    <td>이름 바꾸기</td> 
@@ -376,7 +376,7 @@ ht-degree: 10%
   </tr> 
   <tr> 
    <td>복제</td> 
-   <td>작업 영역 "작업 영역 이름"에 복제됨 <br>위치 "캠페인 폴더" 또는 "참여 프로그램" <br>복제된 프로그램 이름 "새 이름"</td> 
+   <td>작업 영역 "작업 영역 이름" <br>위치 "캠페인 폴더" 또는 "참여 프로그램" <br>복제된 프로그램 이름 "새 이름"에 복제됨</td> 
   </tr> 
   <tr> 
    <td>채널 편집</td> 
@@ -408,7 +408,7 @@ ht-degree: 10%
   </tr> 
   <tr> 
    <td>프로그램 설정 수정</td> 
-   <td>Analytics 비헤이비어 "비헤이비어 이름" 편집<br>이전 비헤이비어 "비헤이비어 이름"</td> 
+   <td>Analytics 동작 "동작 이름"<br>이전 동작 "동작 이름" 편집</td> 
   </tr> 
   <tr> 
    <td>프로그램 설정 수정</td> 
@@ -482,11 +482,11 @@ ht-degree: 10%
   </tr> 
   <tr> 
    <td>복제</td> 
-   <td>"Design studio"에서 "foldername" 폴더로 복제됨 <br>복제된 자산 이름 "name"<br>또는<br>프로그램 "프로그램 이름"에 "마케팅 활동"으로 복제됨<br>복제된 자산 이름 "name"</td> 
+   <td>"Design studio"에 폴더 "foldername"으로 복제됨 <br>자산 이름 "name"<br>또는<br>프로그램 "program name"<br>자산 이름 "name"(으)로 복제됨</td> 
   </tr> 
   <tr> 
    <td>이동</td> 
-   <td>"Design studio"에서 "folder name" 폴더로 이동됨<br>또는<br>"마케팅 활동"으로 "프로그램 이름" 프로그램으로 이동됨</td> 
+   <td>"Design studio"로 폴더 "폴더 이름"<br>또는<br>프로그램 "프로그램 이름"으로 "마케팅 활동"으로 이동됨</td> 
   </tr> 
   <tr> 
    <td>Forms</td> 
@@ -496,7 +496,7 @@ ht-degree: 10%
   <tr> 
    <td rowspan="9">랜딩 페이지</td> 
    <td>만들기</td> 
-   <td>템플릿 "템플릿 이름"을 사용하여 생성됨 <br>또는 <br>"자산 이름"에서 복제됨</td> 
+   <td>템플릿 "템플릿 이름" <br> 또는 "에셋 이름"에서 복제된 <br>을(를) 사용하여 생성됨</td> 
   </tr> 
   <tr> 
    <td>삭제</td> 
@@ -520,11 +520,11 @@ ht-degree: 10%
   </tr> 
   <tr> 
    <td>복제</td> 
-   <td>"Design studio"에서 "foldername" 폴더로 복제됨<br>복제된 자산 이름 "name"<br>복제된 자산 URL "www.url.com"<br>또는<br>프로그램 "프로그램 이름"에 "마케팅 활동"으로 복제됨 <br>복제된 자산 이름 "name"<br>복제된 자산 URL "www.url.com"</td> 
+   <td>"Design studio"에 폴더 "foldername"<br>복제된 자산 이름 "name"<br>복제된 자산 URL "www.url.com"<br>또는<br>프로그램 "program name" <br>복제된 자산 이름 "name"<br>복제된 자산 URL "www.url.com"</td> 
   </tr> 
   <tr> 
    <td>이동</td> 
-   <td>"Design studio"에서 "folder name" 폴더로 이동됨<br> 또는<br> "마케팅 활동"으로 "프로그램 이름" 프로그램으로 이동됨</td> 
+   <td>"Design studio"로 폴더 "폴더 이름"<br> 또는 <br>(으)로 이동됨 "마케팅 활동"으로 프로그램 "프로그램 이름"</td> 
   </tr> 
   <tr> 
    <td>승인</td> 
@@ -541,7 +541,7 @@ ht-degree: 10%
   <tr> 
    <td rowspan="8">랜딩 페이지 템플릿</td> 
    <td>만들기</td> 
-   <td><p>비어 있음<br>또는<br>"자산 이름"에서 복제됨</p></td> 
+   <td><p>"자산 이름"에서 빈<br>또는<br>복제됨</p></td> 
   </tr> 
   <tr> 
    <td>삭제</td> 
@@ -557,7 +557,7 @@ ht-degree: 10%
   </tr> 
   <tr> 
    <td>복제</td> 
-   <td>"폴더 이름"으로 복제됨 <br>복제된 자산 이름 "name"</td> 
+   <td>"폴더 이름" <br>복제된 자산 이름 "이름"으로 복제됨</td> 
   </tr> 
   <tr> 
    <td>내보내기</td> 
@@ -582,7 +582,7 @@ ht-degree: 10%
   </tr> 
   <tr> 
    <td>복제</td> 
-   <td>"Person Database"에 "foldername" 폴더로 복제됨 <br>복제된 자산 이름 "name"<br>또는<br>프로그램 "프로그램 이름"에 "마케팅 활동"으로 복제됨<br>복제된 자산 이름 "name"</td> 
+   <td>"Person Database"에 폴더 "foldername" <br>자산 이름 "name"<br>또는<br>프로그램 "프로그램 이름"에 "마케팅 활동"에 복제됨<br>자산 이름 "name" 복제됨</td> 
   </tr> 
   <tr> 
    <td>삭제</td> 
@@ -611,7 +611,7 @@ ht-degree: 10%
   </tr> 
   <tr> 
    <td>이동</td> 
-   <td>"프로그램"으로 "프로그램 이름" 프로그램으로 이동됨<br>또는<br>"폴더"로 "폴더 이름" 폴더로 이동됨</td> 
+   <td>"프로그램"으로 "프로그램 이름"<br>또는<br>폴더로 "폴더"로 "폴더 이름" 폴더로 이동됨</td> 
   </tr> 
   <tr> 
    <td>이름 바꾸기</td> 
@@ -627,7 +627,7 @@ ht-degree: 10%
   </tr> 
   <tr> 
    <td>복제</td> 
-   <td>프로그램 "프로그램 이름"에 "프로그램"으로 복제됨 <br>복제된 자산 이름 "name"<br>또는<br>"폴더 이름" 폴더로 "폴더"로 복제됨<br>복제된 자산 이름 "name"</td> 
+   <td>"프로그램 이름" <br>자산 이름 "이름"<br>또는<br>폴더 "이름"<br>자산 이름 "이름"에 "폴더"로 복제됨프로그램 "프로그램"에 복제됨</td> 
   </tr> 
   <tr> 
    <td>스마트 목록 설정 수정</td> 
@@ -664,7 +664,7 @@ ht-degree: 10%
   </tr> 
   <tr> 
    <td>복제</td> 
-   <td>"Person Database"에 "foldername" 폴더로 복제됨 <br>복제된 자산 이름 "name"<br>또는<br>프로그램 "프로그램 이름"에 "마케팅 활동"으로 복제됨 <br>복제된 자산 이름 "name"</td> 
+   <td>"Person Database"에 폴더 "foldername" <br>자산 이름 "name"<br>또는<br>프로그램 "프로그램 이름" <br>자산 이름 "name"(으)로 복제됨</td> 
   </tr> 
   <tr> 
    <td>스마트 목록 설정 수정</td> 
@@ -673,7 +673,7 @@ ht-degree: 10%
   <tr> 
    <td rowspan="11">코드 조각</td> 
    <td>만들기</td> 
-   <td><p>비어 있음<br>또는<br>"코드 조각 이름"에서 복제됨</p></td> 
+   <td><p>"코드 조각 이름"에서 빈<br>or<br>복제됨</p></td> 
   </tr> 
   <tr> 
    <td>편집</td> 
@@ -701,7 +701,7 @@ ht-degree: 10%
   </tr> 
   <tr> 
    <td>복제</td> 
-   <td>"폴더 이름"으로 복제됨 <br>복제된 코드 조각 이름 "name"</td> 
+   <td>"폴더 이름" <br>복제된 코드 조각 이름 "name"에 복제됨</td> 
   </tr> 
   <tr> 
    <td>승인</td> 
@@ -754,7 +754,7 @@ ht-degree: 10%
   <tr> 
    <td rowspan="3">역할<br><br></td> 
    <td>만들기</td> 
-   <td>"역할 이름"으로 생성된 역할(참고: 추가된 권한에 대한 세부 정보가 필요한 경우 지원 센터에 문의) - <br>역할에 할당된 권한의 스냅숏을 표시합니다</td> 
+   <td>역할 이름이 "역할 이름"으로 만들어진 역할(참고: 추가된 권한에 대한 세부 정보가 필요한 경우 지원 팀에 문의하십시오.) - <br>역할에 할당된 권한의 스냅숏을 표시합니다.</td> 
   </tr> 
   <tr> 
    <td>삭제</td> 
@@ -762,7 +762,7 @@ ht-degree: 10%
   </tr> 
   <tr> 
    <td>편집</td> 
-   <td>"이전 이름"에서 "새 이름"(으)로 편집된 역할(참고: 편집된 권한에 대한 세부 정보가 필요한 경우 지원 센터에 문의) - <br>역할에 할당된 권한의 스냅숏을 표시합니다<br></td> 
+   <td>역할이 "이전 이름"에서 "새 이름"으로 편집되었습니다(참고: 편집된 권한에 대한 세부 정보가 필요한 경우 지원팀에 문의하십시오). - <br>역할에 할당된 권한의 스냅숏을 표시합니다.<br></td> 
   </tr> 
   <tr> 
    <td>Smartlist 보고서</td> 
@@ -772,7 +772,7 @@ ht-degree: 10%
   <tr> 
    <td rowspan="7">사용자<br><br><br><br></td> 
    <td>만들기(초대)</td> 
-   <td>초대된 사용자: 이메일 "이메일 주소", 이름 "이름과 성", 액세스 만료 "공백 또는 날짜 포함", API 사용자 "참 또는 거짓" - <br>사용자에게 할당된 역할 및 작업 영역의 스냅샷을 표시합니다.</td> 
+   <td>초대된 사용자: 이메일 "이메일 주소", 이름 "이름과 성", 액세스 만료 "비어 있거나 날짜가 있음", API 사용자 "참 또는 거짓" - <br>사용자에게 할당된 역할 및 작업 영역의 스냅숏을 표시합니다.</td> 
   </tr> 
   <tr> 
    <td colspan="1">삭제</td> 
@@ -801,7 +801,7 @@ ht-degree: 10%
   <tr> 
    <td rowspan="2">작업 영역</td> 
    <td>만들기</td> 
-   <td>작업 영역이 "작업 영역 이름"으로 생성됨</td> 
+   <td>Workspace이 "workspace name"(으)로 생성됨</td> 
   </tr> 
   <tr> 
    <td>삭제</td> 

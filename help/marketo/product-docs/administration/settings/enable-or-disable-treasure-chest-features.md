@@ -19,19 +19,19 @@ ht-degree: 0%
 >
 >**관리자 권한 필요**
 
-1. 로 이동 **[!UICONTROL 관리자]** 영역입니다.
+1. **[!UICONTROL 관리자]** 영역으로 이동합니다.
 
    ![](assets/enable-or-disable-treasure-chest-features-1.png)
 
-1. 클릭 **[!UICONTROL 보물상자]**.
+1. **[!UICONTROL 보물 상자]**&#x200B;를 클릭합니다.
 
    ![](assets/enable-or-disable-treasure-chest-features-2.png)
 
-1. 클릭 **[!UICONTROL 편집]** 활성화하거나 비활성화하려는 기능에 대해 설명합니다.
+1. 활성화하거나 비활성화하려는 기능에 대해 **[!UICONTROL 편집]**&#x200B;을 클릭합니다.
 
    ![](assets/enable-or-disable-treasure-chest-features-3.png)
 
-1. 다음 확인: **[!UICONTROL 활성화됨]** 활성화 또는 비활성화하려면 상자를 선택하고, **[!UICONTROL 저장]**.
+1. 활성화하려면 **[!UICONTROL 활성화됨]** 상자를 선택하고 비활성화하려면 선택을 취소하고 **[!UICONTROL 저장]**&#x200B;을 클릭합니다.
 
    ![](assets/enable-or-disable-treasure-chest-features-4.png)
 

@@ -18,7 +18,7 @@ ht-degree: 0%
 
    ![](assets/add-hyperlinked-text-1.png)
 
-1. 클릭 **편집**.
+1. **편집**&#x200B;을 클릭합니다.
 
    ![](assets/add-hyperlinked-text-2.png)
 
@@ -26,11 +26,11 @@ ht-degree: 0%
 
    ![](assets/add-hyperlinked-text-3.png)
 
-1. 연결하려는 URL(예: `https://experienceleague.adobe.com/docs/marketo/using/home.html`). URL을 동일한 창에서 열지 또는 새 창에서 열지를 선택하고 **저장**.
+1. 연결할 URL(예: `https://experienceleague.adobe.com/docs/marketo/using/home.html`)을 입력하십시오. URL을 같은 창에서 열지 또는 새 창에서 열지를 선택하고 **저장**&#x200B;을 클릭합니다.
 
    ![](assets/add-hyperlinked-text-4.png)
 
-1. 클릭 **저장** 다시.
+1. **저장**&#x200B;을 다시 클릭합니다.
 
    ![](assets/add-hyperlinked-text-5.png)
 

@@ -23,4 +23,4 @@ ON24 어댑터는 모든 정보 전송을 수행합니다. Marketo 랜딩 페이
 
 ![](assets/image2015-12-16-11-3a26-3a29.png)
 
-시작할 준비가 되셨습니까? 다음으로 시작 [ON24 어댑터를 사용하여 이벤트 만들기](/help/marketo/product-docs/demand-generation/events/create-an-event/create-an-event-with-the-marketo-on24-adapter.md){target="_blank"}.
+시작할 준비가 되셨습니까? [ON24 어댑터로 이벤트 만들기](/help/marketo/product-docs/demand-generation/events/create-an-event/create-an-event-with-the-marketo-on24-adapter.md){target="_blank"}로 시작합니다.

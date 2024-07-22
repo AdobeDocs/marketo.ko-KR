@@ -16,19 +16,19 @@ ht-degree: 0%
 
 ## 관리자로 연결하는 방법 {#how-to-connect-as-an-admin}
 
-1. 톱니바퀴 아이콘을 클릭하고 **설정**.
+1. 톱니바퀴 아이콘을 클릭하고 **설정**&#x200B;을 선택합니다.
 
    ![](assets/connect-your-marketo-sales-account-to-salesforce-1.png)
 
-1. Admin Settings에서 **Salesforce**.
+1. 관리자 설정에서 **Salesforce**&#x200B;를 클릭합니다.
 
    ![](assets/connect-your-marketo-sales-account-to-salesforce-2.png)
 
-1. 연결 및 사용자 지정 탭에서 **Salesforce** 그러면 **연결**.
+1. 연결 및 사용자 지정 탭에서 **Salesforce**, **연결**&#x200B;을 차례로 클릭합니다.
 
    ![](assets/connect-your-marketo-sales-account-to-salesforce-3.png)
 
-1. 클릭 **확인**.
+1. **확인**&#x200B;을 클릭합니다.
 
    ![](assets/connect-your-marketo-sales-account-to-salesforce-4.png)
 
@@ -36,17 +36,17 @@ ht-degree: 0%
 
 ## 관리자가 아닌 사용자로 연결하는 방법 {#how-to-connect-as-a-non-admin}
 
-1. 톱니바퀴 아이콘을 클릭하고 **설정**.
+1. 톱니바퀴 아이콘을 클릭하고 **설정**&#x200B;을 선택합니다.
 
    ![](assets/connect-your-marketo-sales-account-to-salesforce-5.png)
 
-1. 내 계정에서 **Salesforce**.
+1. 내 계정에서 **Salesforce**&#x200B;을(를) 선택합니다.
 
-1. 연결 및 사용자 지정 탭에서 **Salesforce** 그러면 **연결**.
+1. 연결 및 사용자 지정 탭에서 **Salesforce**, **연결**&#x200B;을 차례로 클릭합니다.
 
    ![](assets/connect-your-marketo-sales-account-to-salesforce-7.png)
 
-1. 클릭 **확인**.
+1. **확인**&#x200B;을 클릭합니다.
 
    ![](assets/connect-your-marketo-sales-account-to-salesforce-8.png)
 

@@ -23,9 +23,9 @@ ht-degree: 0%
 
 **전화 번호:** 한 번만 입력하면 됩니다. Sales Connect에서 이후의 모든 통화에 대해 귀하의 번호를 기억합니다.
 
-**로컬 유무:** &quot;로컬 상태 사용&quot;을 확인하고 첫 번째 통화에 대한 통화를 기록하기만 하면 됩니다. Sales Connect에서 이후의 모든 통화에 대한 설정을 기억합니다.
+**로컬 상태:** &quot;로컬 상태 사용&quot;을 확인하고 첫 번째 통화에 대한 통화를 기록하기만 하면 됩니다. Sales Connect에서 이후의 모든 통화에 대한 설정을 기억합니다.
 
-Sales Connect에서 Salesforce에서 통화 활동을 자동으로 만들도록 하려면 다음을 확인하십시오 [이 문서](/help/marketo/product-docs/marketo-sales-connect/phone/calls-arent-logging-to-salesforce.md).
+Sales Connect에서 Salesforce에서 통화 활동을 자동으로 만들려면 [이 문서](/help/marketo/product-docs/marketo-sales-connect/phone/calls-arent-logging-to-salesforce.md)를 확인하십시오.
 
 ## 세일즈폰으로 전화하려면 어떻게 해야 하나요? {#how-do-i-make-a-call-with-sales-phone}
 
@@ -37,6 +37,6 @@ Niko에서 호출할 수 있지만 아직 통화 녹음 기능이나 현지 참�
 
 전화를 걸거나 전화를 걸면 Sales Connect에서 Salesforce에서 리드/연락처의 전화 번호를 가져옵니다. Salesforce에 번호가 나열되지 않으면 Sales Connect에서 계정 레코드의 전화 번호를 가져옵니다.
 
-다른 CRMS를 사용하는 팀의 경우 Sales Connect는 Sales Connect의 레코드에 있는 번호에서 전화번호를 가져옵니다. 이 데이터는 다음을 통해 쉽게 사용할 수 있습니다. [CSV 업로드](/help/marketo/product-docs/marketo-sales-connect/people/managing-contacts/import-contacts-via-csv.md).
+다른 CRMS를 사용하는 팀의 경우 Sales Connect는 Sales Connect의 레코드에 있는 번호에서 전화번호를 가져옵니다. 이 데이터는 [CSV 업로드](/help/marketo/product-docs/marketo-sales-connect/people/managing-contacts/import-contacts-via-csv.md)를 통해 쉽게 사용할 수 있습니다.
 
-큰 그린을 치세요 **호출** 단추를 클릭합니다. 그러면 휴대폰이 울리기 시작합니다. 전화기를 선택하면 Sales Connect에서 자동으로 리드/담당자에게 연락합니다.
+큰 녹색 **통화** 단추를 누르십시오. 그러면 휴대폰이 울리기 시작합니다. 전화기를 선택하면 Sales Connect에서 자동으로 리드/담당자에게 연락합니다.

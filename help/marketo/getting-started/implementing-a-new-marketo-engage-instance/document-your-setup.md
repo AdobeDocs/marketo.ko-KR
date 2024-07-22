@@ -26,8 +26,8 @@ ht-degree: 1%
 <tbody>
   <tr>
     <td>목록 가져오기</td>
-    <td><li>에서 (으)로 가져올 데이터 소스 목록 수집 <a href="https://experienceleague.adobe.com/en/docs/marketo/using/getting-started/quick-wins/import-a-list-of-people" target="_blank">Marketo Engage으로 가져오기</a>.</li>
-    <li>여러 데이터 소스에서 가져오는 경우 기본 목록 또는 <a href="https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/administration/field-management/create-a-custom-field-in-marketo" target="_blank">사용자 정의 필드 만들기</a> 개인 레코드에서 데이터 소스를 표시합니다.</li></td>
+    <td><li>레코드를 <a href="https://experienceleague.adobe.com/en/docs/marketo/using/getting-started/quick-wins/import-a-list-of-people" target="_blank">Marketo Engage으로 가져오기</a>(으)로 가져올 데이터 원본 목록을 수집합니다.</li>
+    <li>여러 데이터 소스에서 가져오는 경우 기본 목록을 사용하거나 개인 레코드에 <a href="https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/administration/field-management/create-a-custom-field-in-marketo" target="_blank">사용자 지정 필드 만들기</a>를 사용하여 데이터 소스를 나타내는 것이 좋습니다.</li></td>
   </tr>
   <tr>
     <td>데이터베이스 통합</td>
@@ -48,7 +48,7 @@ ht-degree: 1%
 <tbody>
   <tr>
     <td>사용자</td>
-    <td><li>문서 작성 <a href="https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/administration/marketo-with-adobe-identity/add-or-remove-a-user#add-a-user" target="_blank">현재 사용자</a> 안전상의 이유로. 다음 세부 정보는 최소한으로 포함해야 합니다(그리고 관리 &gt; 사용자 및 역할로 이동하여 모두 볼 수 있음).</li>
+    <td><li>안전을 위해 인스턴스의 <a href="https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/administration/marketo-with-adobe-identity/add-or-remove-a-user#add-a-user" target="_blank">현재 사용자</a>를 문서화합니다. 다음 세부 정보는 최소한으로 포함해야 합니다(그리고 관리 &gt; 사용자 및 역할로 이동하여 모두 볼 수 있음).</li>
     <ul>
     <li>이름</li>
     <li>이메일</li>
@@ -59,15 +59,15 @@ ht-degree: 1%
     <li>가장 최근 로그인 날짜</li></ul>
     <p><img src="assets/note-icon.png" alt="메모 아이콘"> 참고: 이에 대해 를 확장하여 역할/권한에 대한 설명서를 포함할 수도 있습니다.
     <p>
-    <li>Marketo Engage 제품 관리자로서 Marketo Engage 사용자 목록을 정기적으로 감사하고 업데이트하는 내부 프로세스를 개발하십시오. Adobe Admin Console의 사용자 목록을 변경하려면 다음을 고려하십시오. <a href="https://helpx.adobe.com/kr/enterprise/using/users.html" target="_blank">대량 작업</a>예를 들어 .CSV 업로드, User Management REST API 사용 등이 있습니다.</li></td>
+    <li>Marketo Engage 제품 관리자로서 Marketo Engage 사용자 목록을 정기적으로 감사하고 업데이트하는 내부 프로세스를 개발하십시오. Adobe Admin Console의 사용자 목록을 변경하려면 .CSV 업로드, 사용자 관리 REST API 사용 등과 같은 <a href="https://helpx.adobe.com/kr/enterprise/using/users.html" target="_blank">일괄 작업</a>을 고려해 보십시오.</li></td>
   </tr>
   <tr>
     <td>조직</td>
-    <td><li>합의된 폴더 구조, 프로그램, 에셋 등에 대한 표준 이름 지정 규칙 및 이러한 결정에 영향을 미치는 이유를 문서화합니다. <a href="https://experienceleague.adobe.com/en/docs/marketo-learn/tutorials/fundamentals/best-practices-to-organize-a-new-instance" target="_blank">여기에서 모범 사례에 대해 자세히 알아보십시오.</a></li></td>
+    <td><li>합의된 폴더 구조, 프로그램, 에셋 등에 대한 표준 이름 지정 규칙 및 이러한 결정에 영향을 미치는 이유를 문서화합니다. <a href="https://experienceleague.adobe.com/en/docs/marketo-learn/tutorials/fundamentals/best-practices-to-organize-a-new-instance" target="_blank">모범 사례에 대해 자세히 알아보세요.</a></li></td>
   </tr>
   <tr>
     <td>변경 로그</td>
-    <td><li>인스턴스의 변경 내용과 수정 이유를 문서화할 수 있는 변경 로그를 만듭니다. <a href="https://experienceleague.adobe.com/en/docs/marketo-learn/auditing-an-inherited-instance/develop-an-instance-governance-guide" target="_blank">여기에서 모범 사례에 대해 자세히 알아보십시오.</a></li></td>
+    <td><li>인스턴스의 변경 내용과 수정 이유를 문서화할 수 있는 변경 로그를 만듭니다. <a href="https://experienceleague.adobe.com/en/docs/marketo-learn/auditing-an-inherited-instance/develop-an-instance-governance-guide" target="_blank">모범 사례에 대해 자세히 알아보세요.</a></li></td>
   </tr>
   <tr>
     <td>플레이북</td>

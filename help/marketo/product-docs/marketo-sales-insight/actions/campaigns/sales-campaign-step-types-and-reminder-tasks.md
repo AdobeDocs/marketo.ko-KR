@@ -5,7 +5,7 @@ exl-id: 41b19452-ba1a-4ca7-bf22-29314072a346
 feature: Sales Insight Actions
 source-git-commit: 02b2e39580c5eac63de4b4b7fdaf2a835fdd4ba5
 workflow-type: tm+mt
-source-wordcount: '317'
+source-wordcount: '318'
 ht-degree: 0%
 
 ---
@@ -32,7 +32,7 @@ Sales Campaign에 단계를 추가하면 네 가지 옵션이 제공됩니다.
 
 >[!TIP]
 >
->다음에 대한 세부 정보 알아보기 [전송 옵션](/help/marketo/product-docs/marketo-sales-insight/actions/campaigns/understanding-sales-campaign-send-options-for-email-steps.md){target="_blank"}.
+>[전송 옵션](/help/marketo/product-docs/marketo-sales-insight/actions/campaigns/understanding-sales-campaign-send-options-for-email-steps.md){target="_blank"}에 대한 세부 정보를 알아보세요.
 
 ### 호출 {#call}
 

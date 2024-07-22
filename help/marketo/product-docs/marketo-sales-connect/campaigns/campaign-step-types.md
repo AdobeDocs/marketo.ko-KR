@@ -31,7 +31,7 @@ ht-degree: 0%
 
 >[!TIP]
 >
->다음에 대한 세부 정보 알아보기 [전송 옵션](/help/marketo/product-docs/marketo-sales-connect/campaigns/understanding-send-options.md).
+>[전송 옵션](/help/marketo/product-docs/marketo-sales-connect/campaigns/understanding-send-options.md)에 대한 세부 정보를 알아보세요.
 
 ## 호출 {#call}
 

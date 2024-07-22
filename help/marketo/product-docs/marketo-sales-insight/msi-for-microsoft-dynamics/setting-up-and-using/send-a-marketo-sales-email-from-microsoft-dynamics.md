@@ -15,11 +15,11 @@ ht-degree: 0%
 
 영업팀은 이메일을 전송하여 Microsoft Dynamics 내에서 직접 열기 및 클릭을 추적하도록 할 수 있습니다. 방법은 다음과 같습니다.
 
-1. Dynamics에서 **판매** 영역입니다.
+1. Dynamics에서 **판매** 영역으로 이동합니다.
 
    ![](assets/image2014-10-20-11-3a56-3a9.png)
 
-1. 선택 **시스템 보기**.
+1. **시스템 보기**&#x200B;를 선택하십시오.
 
    ![](assets/image2014-10-20-11-3a56-3a20.png)
 
@@ -27,21 +27,21 @@ ht-degree: 0%
 
    ![](assets/image2014-10-20-11-3a56-3a35.png)
 
-1. 다음을 클릭합니다. **...** 탭을 클릭한 다음 를 클릭합니다 **Marketo 이메일 보내기**.
+1. **..** 탭을 클릭한 다음 **Marketo 이메일 보내기**&#x200B;를 클릭합니다.
 
    ![](assets/image2014-10-20-11-3a56-3a57.png)
 
    >[!TIP]
    >
-   >다음을 수행할 수 있습니다. [이메일을 템플릿으로 게시](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/features/actions-in-the-msi-panel/send-marketo-email/publish-an-email-to-sales-insight.md) 을 사용하십시오.
+   >영업팀에서 사용할 [이메일을 템플릿으로 게시](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/features/actions-in-the-msi-panel/send-marketo-email/publish-an-email-to-sales-insight.md)할 수 있습니다.
 
-1. 제목을 추가하고, 이메일을 작성하고, **이메일 보내기**. (필요한 경우 템플릿을 선택합니다.)
+1. 제목을 추가하고, 전자 메일을 작성한 다음 **전자 메일 보내기**&#x200B;를 클릭합니다. (필요한 경우 템플릿을 선택합니다.)
 
    ![](assets/image2014-10-20-11-3a57-3a8.png)
 
    >[!TIP]
    >
-   >다음을 클릭할 수 있습니다. **테스트 이메일 보내기** 실제 이메일을 보내기 전에 먼저 및 이메일(Microsoft Dynamics의 기본 이메일 주소)을 받게 됩니다.
+   >먼저 **테스트 전자 메일 보내기**&#x200B;를 클릭하면 실제 전자 메일을 보내기 전에 전자 메일이 사용자에게 전송됩니다(Microsoft Dynamics의 기본 전자 메일 주소).
 
    >[!NOTE]
    >

@@ -17,15 +17,15 @@ ht-degree: 0%
 
 ## 목록에 페이지 문제 추가 {#add-page-issues-to-a-list}
 
-1. 로 이동 **[!UICONTROL 페이지]** 섹션.
+1. **[!UICONTROL 페이지]** 섹션으로 이동합니다.
 
    ![](assets/image2014-9-18-14-3a3-3a10.png)
 
-1. 다음에서 **[!UICONTROL 페이지]** 탭을 클릭하고 **[!UICONTROL 문제]**.
+1. **[!UICONTROL 페이지]** 탭에서 **[!UICONTROL 문제]**&#x200B;를 클릭합니다.
 
    ![](assets/image2014-9-18-14-3a3-3a18.png)
 
-1. 추가할 페이지 문제를 마우스로 가리킵니다. 클릭 **[!UICONTROL 목록에서 추가/제거]**.
+1. 추가할 페이지 문제를 마우스로 가리킵니다. **[!UICONTROL 목록에서 추가/제거]**&#x200B;를 클릭합니다.
 
    ![](assets/image2014-9-18-14-3a3-3a40.png)
 
@@ -35,15 +35,15 @@ ht-degree: 0%
 
    >[!TIP]
    >
-   >키워드를 이동할 새 목록을 만들 수도 있습니다. 원하는 이름을 입력하기만 하면 됩니다. **[!UICONTROL 새 목록 만들기]**.
+   >키워드를 이동할 새 목록을 만들 수도 있습니다. **[!UICONTROL 새 목록 만들기]**&#x200B;에서 원하는 이름을 입력하세요.
 
 ## 목록에서 페이지 문제 제거 {#remove-page-issue-from-a-list}
 
-1. 로 이동 **[!UICONTROL 페이지]** 섹션.
+1. **[!UICONTROL 페이지]** 섹션으로 이동합니다.
 
    ![](assets/image2014-9-18-14-3a4-3a8.png)
 
-1. 페이지 탭에서 **[!UICONTROL 문제]**.
+1. 페이지 탭에서 **[!UICONTROL 문제]**&#x200B;를 클릭합니다.
 
    ![](assets/image2014-9-18-14-3a4-3a22.png)
 
@@ -51,7 +51,7 @@ ht-degree: 0%
 
    ![](assets/image2014-9-18-14-3a4-3a29.png)
 
-1. 제거할 페이지 문제를 마우스로 가리킵니다. 클릭 **[!UICONTROL 목록에서 추가/제거]**.
+1. 제거할 페이지 문제를 마우스로 가리킵니다. **[!UICONTROL 목록에서 추가/제거]**&#x200B;를 클릭합니다.
 
    ![](assets/image2014-9-18-14-3a4-3a38.png)
 

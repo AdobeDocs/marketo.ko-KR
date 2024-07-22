@@ -6,7 +6,7 @@ exl-id: 41364270-bd85-4ca3-921e-842c0dedc167
 feature: Target Account Management
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
-source-wordcount: '143'
+source-wordcount: '144'
 ht-degree: 0%
 
 ---
@@ -35,6 +35,6 @@ TAM 계층을 사용하면 명명 계정 대시보드에서 전체 계층 또는
 >
 >Marketo 인터페이스는 최대 10개 수준 아래로(상위 계정의 하위 계정 및 손자 계정) 표시만 하지만 만들 수 있는 하위 계정 수에는 제한이 없습니다.
 
-다음을 사용하여 전체 계층에 대한 Target 및 보고 [한 번 클릭](/help/marketo/product-docs/target-account-management/engage/account-filters.md#member-of-named-account).
+[한 번 클릭](/help/marketo/product-docs/target-account-management/engage/account-filters.md#member-of-named-account)으로 전체 계층을 타깃팅하고 보고합니다.
 
 ![](assets/member.png)

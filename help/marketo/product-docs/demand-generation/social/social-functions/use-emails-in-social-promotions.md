@@ -13,31 +13,31 @@ ht-degree: 0%
 
 # 소셜 프로모션에서 이메일 사용 {#use-emails-in-social-promotions}
 
-다음을 만들 때 [참조 오퍼](/help/marketo/product-docs/demand-generation/social/referral-offers/create-a-referral-offer.md) 또는 [경품 추첨](/help/marketo/product-docs/demand-generation/social/sweepstakes/create-sweepstakes.md), 대상자가 등록하면 전송할 이메일과 대상자가 포상을 받은 경우 다시 전송할 이메일을 포함할 수 있습니다.
+[추천 오퍼](/help/marketo/product-docs/demand-generation/social/referral-offers/create-a-referral-offer.md) 또는 [경품 행사](/help/marketo/product-docs/demand-generation/social/sweepstakes/create-sweepstakes.md)를 만들 때, 해당 사용자가 등록했을 때 전송할 전자 메일을 포함하고 해당 사용자가 보상을 획득했을 때 다시 전송할 수 있습니다.
 
 >[!TIP]
 >
->이메일을 만들려면 다음을 참조하십시오. [이메일 전송](/help/marketo/getting-started/quick-wins/send-an-email.md).
+>전자 메일을 만들려면 [전자 메일 전송](/help/marketo/getting-started/quick-wins/send-an-email.md)을 참조하세요.
 
 이메일에서 다음 토큰을 사용합니다.
 
-* **등록 이메일**: 사용 **`{{social.Share Url}}`** 을 사용하여 각 참여자에게 개인화된 공유 링크를 보낼 수 있습니다.
+* **등록 전자 메일**: **`{{social.Share Url}}`**&#x200B;을(를) 사용하여 각 참가자에게 개인화된 공유 링크를 보냅니다.
 
-* **주문 처리 이메일**: 사용 **`{{social.Promo Code}}`** 각 우승자에게 a 보내기 [프로모션 코드](/help/marketo/product-docs/demand-generation/social/social-functions/use-promo-codes-for-offer-fulfillment.md).
+* **이행 전자 메일**: **`{{social.Promo Code}}`**&#x200B;을(를) 사용하여 각 승자에게 [프로모션 코드](/help/marketo/product-docs/demand-generation/social/social-functions/use-promo-codes-for-offer-fulfillment.md)를 보냅니다.
 
 >[!PREREQUISITES]
 >
->소셜 앱에 이메일을 추가하려면 먼저 다음과 같아야 합니다. _작동-_ 및 _승인됨_. 다음을 참조하십시오 [전자 메일 설정 편집](/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/make-an-email-operational.md).
+>소셜 앱에 전자 메일을 추가하려면 먼저 _작동_ 및 _승인_&#x200B;이어야 합니다. [전자 메일 설정 편집](/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/make-an-email-operational.md)을 참조하세요.
 
-1. 다음으로 이동 **마케팅 활동**.
+1. **마케팅 활동**(으)로 이동합니다.
 
    ![](assets/ma.png)
 
-1. 앱을 선택하고 **초안 편집**.
+1. 앱을 선택하고 **초안 편집**&#x200B;을 클릭합니다.
 
    ![](assets/image2014-9-19-16-3a12-3a33.png)
 
-1. 소셜 앱 편집기에서 **앱 설정 > 오퍼 세부 정보** (또는 **경품 추첨 세부 정보**).
+1. 소셜 앱 편집기에서 **앱 설정 > 오퍼 세부 정보**(또는 **경품 행사 세부 정보**)로 이동합니다.
 
    ![](assets/image2014-9-19-16-3a12-3a41.png)
 
@@ -59,16 +59,16 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->경품행사에서는 주문 시 이행 이메일이 항상 자동으로 전송됩니다 [우승자 선택](/help/marketo/product-docs/demand-generation/social/sweepstakes/select-sweepstakes-winners.md).
+>경품 행사에서는 [우승자를 선택](/help/marketo/product-docs/demand-generation/social/sweepstakes/select-sweepstakes-winners.md)할 때 항상 이행 이메일이 자동으로 전송됩니다.
 
 >[!NOTE]
 >
 >**정의**
 >
->* **목표에 자동**: 각 참가자가 목표를 달성하면 이행 이메일이 자동으로 전송됩니다.
->* **수동으로 보내기**: 사람들이 목표를 충족하기 시작하면 추천 오퍼로 돌아가서 수동으로 [이행 이메일 보내기](/help/marketo/product-docs/demand-generation/social/referral-offers/send-referral-offer-fulfillment-email.md).
+>* **목표에서 자동**: 각 참가자가 목표를 달성할 때마다 이행 전자 메일이 자동으로 전송됩니다.
+>* **수동으로 보내기**: 사용자가 목표를 충족하기 시작하면 추천 오퍼로 돌아가 수동으로 [이행 이메일을 보내기](/help/marketo/product-docs/demand-generation/social/referral-offers/send-referral-offer-fulfillment-email.md).
 >
 
 >[!MORELIKETHIS]
 >
->다음으로, 다음을 수행할 수 있습니다. [공유 URL 선택](/help/marketo/product-docs/demand-generation/social/social-functions/choose-the-share-url-for-a-social-app.md) 또는 추천 오퍼에서 다음을 수행할 수 있습니다 [프로모션 코드 업로드](/help/marketo/product-docs/demand-generation/social/social-functions/use-promo-codes-for-offer-fulfillment.md) 보내게 될 겁니다
+>다음으로 [공유 URL을 선택](/help/marketo/product-docs/demand-generation/social/social-functions/choose-the-share-url-for-a-social-app.md)하거나 추천 오퍼에서 [프로모션 코드를 업로드](/help/marketo/product-docs/demand-generation/social/social-functions/use-promo-codes-for-offer-fulfillment.md)할 수 있습니다.

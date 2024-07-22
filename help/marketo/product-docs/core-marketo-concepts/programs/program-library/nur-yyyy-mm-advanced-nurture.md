@@ -2,10 +2,10 @@
 description: NUR-YYYY-MM-Advanced Grooth - Marketo 문서 - 제품 설명서
 title: NUR-YYYY-MM-Advanced Gurture
 feature: Programs
-exl-id: cd266cad-843b-4329-ad40-2f3d0acd4948
-source-git-commit: 38274b4859ae38c018ee73d4f1715fdf6a78e815
+exl-id: bd9c6605-a13f-4c73-aaa8-eca43cfcc950
+source-git-commit: c16081143588ebc0793f5b6e2630b58348e27124
 workflow-type: tm+mt
-source-wordcount: '475'
+source-wordcount: '490'
 ht-degree: 3%
 
 ---
@@ -14,7 +14,7 @@ ht-degree: 3%
 
 Marketo Engage 참여 프로그램을 활용하는 고급 Grooth 프로그램의 예입니다. 중첩된 이메일 프로그램은 사용자가 이미 사용한 콘텐츠를 수신하지 못하도록 하거나 각 스트림에서 소비해야 하는 콘텐츠 유형을 제어합니다. 각각의 중첩된 이메일 프로그램에 대해 속성 보고를 실행할 수 있습니다. 채널: &quot;Grooth&quot; 및 중첩된 이메일 프로그램에 대한 전용 &quot;Grooth Email&quot; 채널은 Marketo Engage 이메일 프로그램을 활용하여 하나의 뉴스레터 이메일을 전송합니다. 이메일에는 A/B 테스트가 포함되거나 포함되지 않을 수 있습니다.
 
-추가적인 전략 지원 또는 프로그램 맞춤화에 대한 도움말을 보려면 Adobe 계정 팀에 문의하거나 [Adobe Professional Services](https://business.adobe.com/customers/consulting-services/main.html){target="_blank"} 페이지를 가리키도록 업데이트하는 중입니다.
+추가 전략 지원 또는 프로그램 사용자 지정에 도움이 필요하면 Adobe 계정 팀에 문의하거나 [Adobe Professional Services](https://business.adobe.com/customers/consulting-services/main.html){target="_blank"} 페이지를 방문하십시오.
 
 ## 채널 요약 {#channel-summary}
 
@@ -39,12 +39,12 @@ Marketo Engage 참여 프로그램을 활용하는 고급 Grooth 프로그램의
 <br/>02 - 전송됨
 <br/>03 - 참여 - 성공</td>
    <td>포함</td>
-   <td>기본값</td>
+   <td>기본</td>
   </tr>
  </tbody> 
 </table>
 
-## 프로그램에 다음 자산이 포함되어 있습니다. {#program-contains-the-following-assets}
+## 프로그램에는 다음 Assets이 포함되어 있습니다 {#program-contains-the-following-assets}
 
 <table style="table-layout:auto"> 
  <tbody> 
@@ -132,7 +132,7 @@ Marketo Engage 참여 프로그램을 활용하는 고급 Grooth 프로그램의
   <tr> 
    <td>폴더</td> 
    <td> </td>
-   <td>에셋(중첩된 프로그램 포함) 및 에셋 폴더는 중첩된 프로그램에 상주하여 이메일을 포함합니다.</td>
+   <td>Assets(중첩된 프로그램 포함) 및 에셋 폴더는 이메일을 포함할 중첩된 프로그램에 있습니다.</td>
   </tr>
   <tr> 
    <td>폴더</td> 
@@ -184,20 +184,20 @@ Marketo Engage 참여 프로그램을 활용하는 고급 Grooth 프로그램의
 ## 충돌 규칙 {#conflict-rules}
 
 * **프로그램 태그**
-   * 이 구독에서 태그 만들기 - _추천_
+   * 이 구독에서 태그 만들기 - _권장_
    * 무시
 
-* **동일한 이름의 랜딩 페이지 템플릿**
+* **같은 이름의 랜딩 페이지 템플릿**
    * 원본 템플릿 복사
-   * 대상 템플릿 사용 - _추천_
+   * 대상 템플릿 사용 - _권장_
 
 * **이름이 같은 이미지**
    * 두 파일 모두 보관
-   * 이 구독의 항목 바꾸기 - _추천_
+   * 이 구독의 항목 바꾸기 - _권장_
 
-* **이름이 같은 이메일 템플릿**
+* **같은 이름의 전자 메일 서식 파일**
    * 두 템플릿 모두 유지
-   * 기존 템플릿 바꾸기 - _추천_
+   * 기존 템플릿 바꾸기 - _권장_
 
 ## 우수 사례 {#best-practices}
 
@@ -213,4 +213,4 @@ Marketo Engage 참여 프로그램을 활용하는 고급 Grooth 프로그램의
 
 >[!TIP]
 >
->성공 추적을 위해 &quot;04 - 참여(프로그램 성공)&quot; 캠페인을 활성화하는 것을 잊지 마십시오! 수행 _다음 이전_ 이메일이 전송되었습니다.
+>성공 추적을 위해 &quot;04 - 참여(프로그램 성공)&quot; 캠페인을 활성화하는 것을 잊지 마십시오! 이메일을 보내기 전에 _다음 작업을 수행합니다_.

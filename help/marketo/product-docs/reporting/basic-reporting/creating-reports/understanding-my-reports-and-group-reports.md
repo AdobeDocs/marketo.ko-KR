@@ -13,15 +13,15 @@ ht-degree: 0%
 
 # 내 보고서 및 그룹 보고서 이해 {#understanding-my-reports-and-group-reports}
 
-다음을 만들 수 있습니다. **내 보고서** 및 **그룹 보고서** 다음에서 [Analytics 홈](/help/marketo/product-docs/reporting/basic-reporting/creating-reports/navigating-the-analytics-home-page.md).
+[Analytics 홈](/help/marketo/product-docs/reporting/basic-reporting/creating-reports/navigating-the-analytics-home-page.md)에서 **내 보고서** 및 **그룹 보고서**&#x200B;를 만들 수 있습니다.
 
-**내 보고서** 은(는) 귀하에게만 표시됩니다.
+**내 보고서**&#x200B;은(는) 귀하에게만 표시됩니다.
 
-**그룹 보고서** 은 해당 작업 공간의 모든 사용자에게 표시됩니다.
+**그룹 보고서**&#x200B;는 해당 작업 영역의 모든 사용자가 볼 수 있습니다.
 
 >[!NOTE]
 >
->각 작업 공간에는 **내 보고서** 및 **그룹 보고서**.
+>각 작업 공간에는 **내 보고서** 및 **그룹 보고서** 집합이 있습니다.
 
 ![](assets/image2015-4-21-14-3a41-3a22.png)
 

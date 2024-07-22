@@ -7,7 +7,7 @@ feature: Landing Pages
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '156'
-ht-degree: 1%
+ht-degree: 0%
 
 ---
 
@@ -19,23 +19,23 @@ ht-degree: 1%
 >
 >**관리자 권한 필요**
 
-1. 아래 **관리자**, 클릭 **랜딩 페이지**.
+1. **관리자**&#x200B;에서 **랜딩 페이지**&#x200B;를 클릭합니다.
 
    ![](assets/image2014-9-25-15-3a43-3a39.png)
 
-1. 아래 **규칙** 탭을 클릭하고 **신규** 그런 다음 **새 리디렉션 규칙**.
+1. **규칙** 탭에서 **새로 만들기**&#x200B;를 클릭한 다음 **새 리디렉션 규칙**&#x200B;을 클릭합니다.
 
    ![](assets/two-1.png)
 
-1. 첫 번째 **원본 URL** 드롭다운 및 Marketo 선택 [CNAME](/help/marketo/product-docs/demand-generation/landing-pages/landing-page-actions/customize-your-landing-page-urls-with-a-cname.md).
+1. 첫 번째 **원래 URL** 드롭다운을 클릭하고 Marketo [CNAME](/help/marketo/product-docs/demand-generation/landing-pages/landing-page-actions/customize-your-landing-page-urls-with-a-cname.md)을(를) 선택합니다.
 
    ![](assets/image2014-9-25-15-3a46-3a20.png)
 
    >[!NOTE]
    >
-   >Marketo으로 시작하는 URL만 리디렉션할 수 있습니다. [CNAME](/help/marketo/product-docs/demand-generation/landing-pages/landing-page-actions/customize-your-landing-page-urls-with-a-cname.md).
+   >Marketo [CNAME](/help/marketo/product-docs/demand-generation/landing-pages/landing-page-actions/customize-your-landing-page-urls-with-a-cname.md)(으)로 시작하는 URL만 리디렉션할 수 있습니다.
 
-1. 두 번째 단계에서 리디렉션할 랜딩 페이지 선택 **원본 URL** 필드.
+1. 두 번째 **원래 URL** 필드에서 리디렉션할 랜딩 페이지를 선택합니다.
 
    ![](assets/image2014-9-25-15-3a47-3a20.png)
 
@@ -43,17 +43,17 @@ ht-degree: 1%
    >
    >페이지나 디렉토리가 없는 경우에도 모든 URL 경로를 입력할 수 있습니다.
 
-1. 다음을 클릭합니다. **리디렉션 URL** 드롭다운을 클릭하고 방문자를 리디렉션할 페이지를 선택합니다.
+1. **리디렉션 URL** 드롭다운을 클릭하고 방문자를 리디렉션할 페이지를 선택합니다.
 
    ![](assets/image2014-9-25-15-3a47-3a53.png)
 
-1. Click **Create**.
+1. **만들기**&#x200B;를 클릭합니다.
 
    ![](assets/image2014-9-25-15-3a48-3a5.png)
 
    >[!TIP]
    >
-   >Marketo 외부의 웹 페이지로 리디렉션하려면 **Marketo 이외 랜딩 페이지 사용**.
+   >Marketo 외부의 웹 페이지로 리디렉션하려면 **Marketo 이외 랜딩 페이지 사용**&#x200B;을 클릭합니다.
 
    >[!MORELIKETHIS]
    >

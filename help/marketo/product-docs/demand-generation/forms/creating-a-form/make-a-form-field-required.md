@@ -13,13 +13,13 @@ ht-degree: 0%
 
 # 양식 필드 필수 만들기 {#make-a-form-field-required}
 
-날짜 [양식에 필드 추가](/help/marketo/product-docs/demand-generation/forms/creating-a-form/add-a-field-to-a-form.md) 작성하시는 분에게 몇 가지 항목을 필수 항목으로 지정해 주십시오. 방법은 다음과 같습니다.
+[양식에 필드를 추가](/help/marketo/product-docs/demand-generation/forms/creating-a-form/add-a-field-to-a-form.md)할 때 작성자에게 필수 필드를 몇 개 만들 수 있습니다. 방법은 다음과 같습니다.
 
-1. 다음으로 이동 **마케팅 활동**.
+1. **마케팅 활동**(으)로 이동합니다.
 
    ![](assets/login-marketing-activities-4.png)
 
-1. 양식을 선택하고 **양식 편집**.
+1. 양식을 선택하고 **양식 편집**&#x200B;을 클릭합니다.
 
    ![](assets/editform-2.png)
 
@@ -27,16 +27,16 @@ ht-degree: 0%
 
    ![](assets/image2014-9-15-17-3a30-3a44.png)
 
-1. 잘했어! 클릭 **완료**.
+1. 잘했어! **마침**&#x200B;을 클릭합니다.
 
    ![](assets/image2014-9-15-17-3a30-3a58.png)
 
-1. 클릭 **승인 및 닫기**.
+1. **승인 및 닫기**&#x200B;를 클릭합니다.
 
    ![](assets/image2014-9-15-17-3a31-3a11.png)
 
 >[!NOTE]
 >
->잊지 말고 [모든 랜딩 페이지 승인](/help/marketo/product-docs/demand-generation/landing-pages/understanding-landing-pages/approve-unapprove-or-delete-a-landing-page.md) 이 양식은 변경 사항이 적용될 때까지 지속됩니다.
+>[모든 랜딩 페이지를 승인](/help/marketo/product-docs/demand-generation/landing-pages/understanding-landing-pages/approve-unapprove-or-delete-a-landing-page.md)하는 것을 잊지 마십시오. 변경 내용을 실행에 옮기기 위해 이 양식이 적용됩니다.
 
-필요한 작업 [양식에 추가한 필드 순서 바꾸기](/help/marketo/product-docs/demand-generation/forms/form-fields/reorder-fields-in-a-form.md)?
+[양식에 추가한 필드를 다시 정렬하시겠습니까](/help/marketo/product-docs/demand-generation/forms/form-fields/reorder-fields-in-a-form.md)?

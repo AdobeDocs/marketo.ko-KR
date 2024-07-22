@@ -17,9 +17,9 @@ ht-degree: 0%
 
 >[!PREREQUISITES]
 >
->[스마트 캠페인에 플로우 단계 추가](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/add-a-flow-step-to-a-smart-campaign.md)
+>[스마트 캠페인에 흐름 단계 추가](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/add-a-flow-step-to-a-smart-campaign.md)
 
-1. 스마트 캠페인에서 **[!UICONTROL 플로우]** 탭에서 흐름 단계를 원하는 위치로 끌어서 놓습니다.
+1. 스마트 캠페인 **[!UICONTROL 흐름]** 탭에서 흐름 단계를 원하는 위치로 끌어서 놓습니다.
 
 ![](assets/reorder-the-flow-steps-in-a-smart-campaign-1.png)
 

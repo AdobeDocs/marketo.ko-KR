@@ -15,11 +15,11 @@ ht-degree: 0%
 
 보고서의 중복을 만들어 원본을 변경하지 않고 추가로 사용자 지정합니다.
 
-1. 다음으로 이동 **마케팅 활동** (또는 **분석**) 영역입니다.
+1. **마케팅 활동**(또는 **분석**) 영역으로 이동합니다.
 
    ![](assets/image2014-9-16-14-3a23-3a46.png)
 
-1. 보고서를 선택합니다. 선택 **보고서 작업** > **보고서 복제**.
+1. 보고서를 선택합니다. **보고서 작업** > **보고서 복제**&#x200B;를 선택합니다.
 
    ![](assets/image2014-9-16-14-3a23-3a53.png)
 
@@ -27,7 +27,7 @@ ht-degree: 0%
    >
    >트리에서 보고서를 마우스 오른쪽 단추로 클릭하여 복제할 수도 있습니다.
 
-1. 보고서 클론의 이름을 지정합니다.
+1. 보고서 클론 이름을 지정합니다.
 
    ![](assets/image2014-9-16-14-3a23-3a57.png)
 
@@ -35,4 +35,4 @@ ht-degree: 0%
 
    >[!MORELIKETHIS]
    >
-   >[스마트 목록으로 보고서 사람 필터링](/help/marketo/product-docs/reporting/basic-reporting/editing-reports/filter-people-in-a-report-with-a-smart-list.md)
+   >[스마트 목록으로 보고서에 있는 사람 필터링](/help/marketo/product-docs/reporting/basic-reporting/editing-reports/filter-people-in-a-report-with-a-smart-list.md)

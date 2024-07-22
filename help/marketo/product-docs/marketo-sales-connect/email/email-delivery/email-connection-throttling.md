@@ -5,7 +5,7 @@ exl-id: 093f5459-1bbb-45dd-8590-71ea4e1168d4
 feature: Marketo Sales Connect
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
-source-wordcount: '394'
+source-wordcount: '395'
 ht-degree: 0%
 
 ---
@@ -29,11 +29,11 @@ Exchange 또는 Gmail 이메일 공급자를 통해 전송하기 위해 Sales Co
 
 **전자 메일 연결 제한 설정 구성**
 
-1. 톱니바퀴 아이콘을 클릭하고 **설정**.
+1. 톱니바퀴 아이콘을 클릭하고 **설정**&#x200B;을 선택합니다.
 
    ![](assets/email-connection-throttling-1.png)
 
-1. 클릭 **일반**.
+1. **일반**&#x200B;을 클릭합니다.
 
    ![](assets/email-connection-throttling-2.png)
 
@@ -45,7 +45,7 @@ Exchange 또는 Gmail 이메일 공급자를 통해 전송하기 위해 Sales Co
 
    ![](assets/email-connection-throttling-4.png)
 
-1. 클릭 **저장**.
+1. **저장**&#x200B;을 클릭합니다.
 
    ![](assets/email-connection-throttling-5.png)
 
@@ -61,7 +61,7 @@ Exchange 또는 Gmail 이메일 공급자를 통해 전송하기 위해 Sales Co
 * 분당 30
 * 이메일당 500명의 수신자
 
-추가 정보 [은(는) 여기에서 찾을 수 있음](https://docs.microsoft.com/en-us/office365/servicedescriptions/exchange-online-service-description/exchange-online-limits?redirectedfrom=MSDN#RecipientLimits).
+[자세한 정보는 여기에서 찾을 수 있습니다](https://docs.microsoft.com/en-us/office365/servicedescriptions/exchange-online-service-description/exchange-online-limits?redirectedfrom=MSDN#RecipientLimits).
 
 **Gmail**
 
@@ -69,7 +69,7 @@ Exchange 또는 Gmail 이메일 공급자를 통해 전송하기 위해 Sales Co
 * 초당 이메일 2개(API 제한)
 * 메시지당 수신자 2,000명(외부 수신자의 경우 최대 500명)
 
-추가 정보 [은(는) 여기에서 찾을 수 있음](https://support.google.com/a/answer/166852?hl=en).
+[자세한 정보는 여기에서 찾을 수 있습니다](https://support.google.com/a/answer/166852?hl=en).
 
 **Microsoft Exchange Server(2010, 2013)**
 
@@ -79,4 +79,4 @@ Exchange 또는 Gmail 이메일 공급자를 통해 전송하기 위해 Sales Co
 >
 >* [게재 채널 개요](/help/marketo/product-docs/marketo-sales-connect/email/email-delivery/delivery-channel-overview.md)
 >* [Gmail 사용자를 위한 전자 메일 연결](/help/marketo/product-docs/marketo-sales-connect/email-plugins/gmail/email-connection-for-gmail-users.md)
->* [Outlook 사용자용 전자 메일 연결](/help/marketo/product-docs/marketo-sales-connect/email-plugins/msc-for-outlook/email-connection-for-outlook-users.md)
+>* [Outlook 사용자를 위한 전자 메일 연결](/help/marketo/product-docs/marketo-sales-connect/email-plugins/msc-for-outlook/email-connection-for-outlook-users.md)

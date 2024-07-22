@@ -6,7 +6,7 @@ exl-id: b291e641-d3af-4667-a01c-cd491cd87add
 feature: Marketo Sales Connect
 source-git-commit: 02b2e39580c5eac63de4b4b7fdaf2a835fdd4ba5
 workflow-type: tm+mt
-source-wordcount: '265'
+source-wordcount: '264'
 ht-degree: 0%
 
 ---
@@ -30,7 +30,7 @@ Sales Connect를 통해 이메일 및 호출을 Salesforce의 활동으로 기�
 
 먼저 올바른 선택 목록 값이 있는지 확인합니다. 선택 목록을 변경하려면 Salesforce 관리자의 도움이 필요합니다.
 
-1. 다음으로 이동 [Salesforce.com](https://salesforce.com) 오른쪽 상단의 설정 을 클릭합니다.
+1. [Salesforce.com](https://salesforce.com)(으)로 이동한 다음 오른쪽 상단의 [설정]을 클릭합니다.
 1. 사용자 정의를 클릭합니다.
 1. 활동을 클릭합니다.
 1. 작업 필드를 클릭합니다.
@@ -38,8 +38,8 @@ Sales Connect를 통해 이메일 및 호출을 Salesforce의 활동으로 기�
 1. 이제 작업 유형 선택 목록에 있습니다. &#39;기본값&#39;이 선택되어 있지 않은지 확인하십시오.
 1. 이메일, 호출 및 회신에 대해 유형 값이 나열되어 있는지 확인합니다.
 
-이제 이 기능이 제대로 작동했으므로 유형 필드가 기록된 이메일, 호출 및 답글에 대한 해당 값을 채우는 것을 볼 수 있습니다. 이 값은 _아님_ Sales Connect 미리 알림 작업에 채워집니다.
+이제 이 기능이 제대로 작동했으므로 유형 필드가 기록된 이메일, 호출 및 답글에 대한 해당 값을 채우는 것을 볼 수 있습니다. 이 값은 Sales Connect 미리 알림 작업에 _not_&#x200B;이(가) 채워집니다.
 
 >[!NOTE]
 >
->&#39;답글&#39;이 값으로 표시되지 않으면 다음을 클릭하여 추가합니다. **신규**. &#39;Reply&#39;는 Salesforce의 표준 값이 아닙니다.
+>&#39;회신&#39;이 값으로 표시되지 않으면 **새로 만들기**&#x200B;를 클릭하여 추가하십시오. &#39;Reply&#39;는 Salesforce의 표준 값이 아닙니다.

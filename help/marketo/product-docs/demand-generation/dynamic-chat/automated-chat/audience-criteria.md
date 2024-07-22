@@ -16,7 +16,7 @@ ht-degree: 1%
 
 ## 우선 순위 {#priority}
 
-우선 순위는 잠재 고객이 두 개 이상의 자격이 있는 경우 받을 대화 상자를 결정합니다. 처음 시작했을 때 설정됩니다. [대화 상자 만들기](/help/marketo/product-docs/demand-generation/dynamic-chat/automated-chat/create-a-dialogue.md){target="_blank"}. 기존 대화 상자를 열고 로 이동하여 대화 상자의 우선 순위를 변경할 수 있습니다. **[!UICONTROL 대화 상자 세부 정보]** 대상 기준 탭에서.
+우선 순위는 잠재 고객이 두 개 이상의 자격이 있는 경우 받을 대화 상자를 결정합니다. 처음 [대화 상자를 만들기](/help/marketo/product-docs/demand-generation/dynamic-chat/automated-chat/create-a-dialogue.md){target="_blank"}할 때 설정됩니다. 기존 대화 상자를 열고 대상 기준 탭에서 **[!UICONTROL 대화 상자 세부 정보]**(으)로 이동하여 대화 상자의 우선 순위를 변경할 수 있습니다.
 
 ![](assets/audience-criteria-1.png)
 
@@ -24,7 +24,7 @@ ht-degree: 1%
 
 이벤트를 사용하면 스크롤하는 시간이나 페이지/사이트에 있는 시간에 따라 방문자를 타깃팅할 수 있습니다. 아래 예에서는 20초 이상 특정 페이지에 있었던 방문자를 대상으로 합니다.
 
-1. 다음 항목을 가져옵니다. **[!UICONTROL 페이지에서 시간]** 이벤트를 표시하고 오른쪽으로 드래그합니다.
+1. **[!UICONTROL Time on Page]** 이벤트를 가져와서 오른쪽으로 끕니다.
 
    ![](assets/audience-criteria-3.png)
 
@@ -32,33 +32,33 @@ ht-degree: 1%
 
    ![](assets/audience-criteria-4.png)
 
-1. 에서 원하는 페이지의 URL을 추가합니다. [Target](#target) 섹션.
+1. [Target](#target) 섹션에 원하는 페이지의 URL을 추가하십시오.
 
    ![](assets/audience-criteria-5.png)
 
 ## 속성 {#attributes}
 
-**알려진 사람**
+**알려진 사용자**
 
-다음 항목이 있습니다. _많음_ 선택할 속성 조합입니다. 아래 예에서는 캘리포니아에 있는 직원 수 50명 이상의 회사에 근무하는 알려진 모든 사람을 대상으로 합니다.
+선택할 _많은_ 특성 조합이 있습니다. 아래 예에서는 캘리포니아에 있는 직원 수 50명 이상의 회사에 근무하는 알려진 모든 사람을 대상으로 합니다.
 
-1. 다음 항목을 가져옵니다. **[!UICONTROL 사용자 상태]** 속성을 지정하고 오른쪽으로 드래그합니다.
+1. **[!UICONTROL Person State]** 특성을 가져와서 오른쪽으로 끕니다.
 
    ![](assets/audience-criteria-7.png)
 
-1. _다음과 같음_ 는 기본적으로 설정되어 있습니다. 값 선택 필드에 CA를 입력합니다(드롭다운을 클릭하고 목록에서 선택할 수도 있음).
+1. _Is_&#x200B;이(가) 기본적으로 설정되어 있습니다. 값 선택 필드에 CA를 입력합니다(드롭다운을 클릭하고 목록에서 선택할 수도 있음).
 
    ![](assets/audience-criteria-8.png)
 
-1. 다음 항목을 가져옵니다. **[!UICONTROL 회사 규모]** 속성을 지정하고 표시된 위치로 드래그합니다. _여기에 속성 끌어다 놓기_.
+1. **[!UICONTROL Company Size]** 특성을 가져와서 _여기에 특성을 끌어다 놓기_&#x200B;하는 위치로 끌어 놓습니다.
 
    ![](assets/audience-criteria-9.png)
 
    >[!NOTE]
    >
-   >속성을 클릭하여 선택할 수도 있습니다 **+** 아이콘.
+   >해당 **+** 아이콘을 클릭하여 특성을 선택할 수도 있습니다.
 
-1. 연산자 드롭다운을 클릭하고 를 선택합니다. **[!UICONTROL 보다 큼]**.
+1. 연산자 드롭다운을 클릭하고 **[!UICONTROL 다음보다 큼]**&#x200B;을 선택합니다.
 
    ![](assets/audience-criteria-10.png)
 
@@ -72,23 +72,23 @@ ht-degree: 1%
 
 데이터베이스에 아직 없는 사용자를 구체적으로 타겟팅하는 쉬운 방법이 있습니다. 이 예제에서는 뉴욕 지역에 있는 모든 익명의 사용자를 타겟으로 합니다.
 
-1. 다음 항목을 가져옵니다. **[!UICONTROL 개인 이메일]** 속성을 지정하고 오른쪽으로 드래그합니다.
+1. **[!UICONTROL 개인 전자 메일]** 특성을 가져와서 오른쪽으로 끕니다.
 
    ![](assets/audience-criteria-12.png)
 
-1. 연산자 드롭다운을 클릭하고 를 선택합니다. **[!UICONTROL 비어 있음]**.
+1. 연산자 드롭다운을 클릭하고 **[!UICONTROL 비어 있음]**&#x200B;을 선택합니다.
 
    ![](assets/audience-criteria-13.png)
 
-1. 다음 항목을 가져옵니다. **[!UICONTROL 상태 유추]** 속성을 지정하고 표시된 위치로 드래그합니다. _여기에 속성 끌어다 놓기_.
+1. **[!UICONTROL Referred State]** 특성을 가져와서 _특성을 여기에 끌어다 놓기_&#x200B;로 끕니다.
 
    ![](assets/audience-criteria-14.png)
 
    >[!NOTE]
    >
-   >누군가가 귀하의 웹 사이트를 방문할 때, [먼치킨](/help/marketo/product-docs/administration/additional-integrations/add-munchkin-tracking-code-to-your-website.md){target="_blank"} 쿠키를 만들어 시스템에 넣습니다. 우리는 특별한 데이터베이스에서 그들의 IP를 찾고 모든 종류의 좋은 정보를 추론한다.
+   >누군가가 웹 사이트를 방문하면 [Munchkin](/help/marketo/product-docs/administration/additional-integrations/add-munchkin-tracking-code-to-your-website.md){target="_blank"}에서 쿠키를 만들어 시스템에 넣습니다. 우리는 특별한 데이터베이스에서 그들의 IP를 찾고 모든 종류의 좋은 정보를 추론한다.
 
-1. _다음과 같음_ 는 기본적으로 설정되어 있습니다. 값 선택 필드에 NY를 입력합니다(드롭다운을 클릭하고 목록에서 선택할 수도 있음).
+1. _Is_&#x200B;이(가) 기본적으로 설정되어 있습니다. 값 선택 필드에 NY를 입력합니다(드롭다운을 클릭하고 목록에서 선택할 수도 있음).
 
    ![](assets/audience-criteria-15.png)
 
@@ -100,7 +100,7 @@ ht-degree: 1%
 >
 >스마트 목록 구성원 또는 목록 구성원 기준에는 Dynamic Chat Prime이 필요합니다. 자세한 내용은 Adobe 계정 팀(계정 관리자)에 문의하십시오.
 
-1. 멤버십에서 **[!UICONTROL 스마트 목록의 구성원]** 캔버스에 떨어뜨려
+1. [멤버십]에서 **[!UICONTROL Smart List의 멤버]**&#x200B;을(를) 가져와서 캔버스에 놓습니다.
 
    ![](assets/audience-criteria-15a.png)
 
@@ -129,15 +129,15 @@ ht-degree: 1%
 
 >[!NOTE]
 >
->별표를 사용하는 것은 만능의 와일드카드 역할을 합니다. So `https://*.website.com` 은 하위 도메인을 포함하여 사이트의 모든 페이지에 대화 상자를 추가합니다(예: `support.website.com`). 및 `https://website.com/folder/*` 후속 폴더의 모든 HTML 페이지에 대화 상자가 표시됩니다(예: 이 경우 폴더가 &quot;sports&quot;라고 가정해 보겠습니다. website.com/sports/baseball.html, website.com/sports/football.html 등).
+>별표를 사용하는 것은 만능의 와일드카드 역할을 합니다. 따라서 `https://*.website.com`은(는) 하위 도메인을 포함하여 사이트의 모든 페이지에 대화 상자를 표시합니다(예: `support.website.com`). `https://website.com/folder/*`은(는) 후속 폴더의 모든 HTML 페이지에 대화 상자를 추가합니다(예: 이 경우 폴더가 &quot;sports&quot;라고 가정해 보겠습니다. website.com/sports/baseball.html, website.com/sports/football.html 등).
 
 **제외**
 
-제외를 사용하여 대화 상자가 다음을 수행하는지 확인합니다 _아님_ 사이트의 특정 페이지/영역에 표시됩니다. 제외는 포함과 동일한 형식을 따릅니다.
+제외를 사용하여 사이트의 특정 페이지/영역에 대화 상자가 _표시되지 않음_&#x200B;되게 합니다. 제외는 포함과 동일한 형식을 따릅니다.
 
 ![](assets/audience-criteria-18.png)
 
 >[!MORELIKETHIS]
 >
 >* [대화 상자 만들기](/help/marketo/product-docs/demand-generation/dynamic-chat/automated-chat/create-a-dialogue.md){target="_blank"}
->* [스트림 디자이너](/help/marketo/product-docs/demand-generation/dynamic-chat/automated-chat/stream-designer.md){target="_blank"}
+>* [Designer 스트리밍](/help/marketo/product-docs/demand-generation/dynamic-chat/automated-chat/stream-designer.md){target="_blank"}

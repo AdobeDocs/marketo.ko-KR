@@ -7,7 +7,7 @@ feature: Partitions
 source-git-commit: 02b2e39580c5eac63de4b4b7fdaf2a835fdd4ba5
 workflow-type: tm+mt
 source-wordcount: '169'
-ht-degree: 0%
+ht-degree: 1%
 
 ---
 
@@ -27,19 +27,19 @@ ht-degree: 0%
 >
 >CRM과 SOAP API를 통해 Marketo에서 생성된 사람에게만 할당 규칙이 적용됩니다.
 
-1. 로 이동 **[!UICONTROL 관리자]** 영역입니다.
+1. **[!UICONTROL 관리자]** 영역으로 이동합니다.
 
    ![](assets/assigning-person-partitions-with-assignment-rules-1.png)
 
-1. 클릭 **[!UICONTROL 작업 공간 및 파티션]**.
+1. **[!UICONTROL 작업 공간 및 파티션]**&#x200B;을 클릭합니다.
 
    ![](assets/assigning-person-partitions-with-assignment-rules-2.png)
 
-1. 아래 **[!UICONTROL 개인 파티션]** 탭을 클릭하고 **[!UICONTROL 할당 규칙]**.
+1. **[!UICONTROL 개인 파티션]** 탭에서 **[!UICONTROL 할당 규칙]**&#x200B;을 클릭합니다.
 
    ![](assets/assigning-person-partitions-with-assignment-rules-3.png)
 
-1. 클릭 **[!UICONTROL 선택 항목 추가]** 사용자를 개인 파티션으로 라우팅하기 위한 조건을 추가합니다.
+1. **[!UICONTROL 선택 항목 추가]**&#x200B;를 클릭하여 사용자를 개인 파티션으로 라우팅하는 조건을 추가합니다.
 
    ![](assets/assigning-person-partitions-with-assignment-rules-4.png)
 
@@ -59,7 +59,7 @@ ht-degree: 0%
    >
    >원하는 만큼 선택할 수 있습니다.
 
-1. 클릭 **[!UICONTROL 저장]**.
+1. **[!UICONTROL 저장]**&#x200B;을 클릭합니다.
 
    ![](assets/assigning-person-partitions-with-assignment-rules-8.png)
 

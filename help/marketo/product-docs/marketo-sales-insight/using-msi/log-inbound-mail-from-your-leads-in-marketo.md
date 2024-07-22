@@ -23,7 +23,7 @@ Marketo 이메일 추가 기능을 사용하여 Outlook에서 리드의 답글�
 
 >[!TIP]
 >
->메시지를 마우스 오른쪽 단추로 클릭하고 **Marketo으로 로그인**.
+>메시지를 마우스 오른쪽 단추로 클릭하고 **Marketo에 로그인**&#x200B;을 클릭할 수도 있습니다.
 
 확인이 표시됩니다.
 
@@ -43,5 +43,5 @@ Marketo 이메일 추가 기능을 사용하여 Outlook에서 리드의 답글�
 
 >[!MORELIKETHIS]
 >
->* [Outlook용 Marketo 이메일 추가 기능을 사용하여 이메일 전송 및 추적](/help/marketo/product-docs/marketo-sales-insight/msi-outlook-plugin/send-and-track-an-email-with-the-email-add-in-for-outlook.md)
+>* [Outlook용 Marketo 전자 메일 추가 기능을 사용하여 전자 메일을 보내고 추적하기](/help/marketo/product-docs/marketo-sales-insight/msi-outlook-plugin/send-and-track-an-email-with-the-email-add-in-for-outlook.md)
 >* [Marketo 템플릿을 사용하여 Outlook에서 전송 및 추적](/help/marketo/product-docs/marketo-sales-insight/msi-outlook-plugin/send-and-track-from-outlook-using-a-marketo-template.md)

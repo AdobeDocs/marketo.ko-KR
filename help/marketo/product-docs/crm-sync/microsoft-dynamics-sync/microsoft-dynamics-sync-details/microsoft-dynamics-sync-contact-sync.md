@@ -6,7 +6,7 @@ exl-id: d4583ea0-2b52-415e-b28c-a8eafebeff64
 feature: Microsoft Dynamics
 source-git-commit: 2403ae0f1fdca3b8238f3f59e2a3b94129deb301
 workflow-type: tm+mt
-source-wordcount: '278'
+source-wordcount: '279'
 ht-degree: 0%
 
 ---
@@ -25,7 +25,7 @@ Marketo Engage이 전체 데이터베이스를 Dynamics와 동기화하는 것�
 
 ## Marketo을 사용하여 연락처를 만들 수 있습니까? {#can-i-create-a-contact-using-marketo}
 
-네. [방법](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/microsoft-dynamics-sync-details/microsoft-dynamics-sync-lead-sync/create-a-contact-in-microsoft-dynamics.md){target="_blank"}.
+예. [방법은 다음과 같습니다](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/microsoft-dynamics-sync-details/microsoft-dynamics-sync-lead-sync/create-a-contact-in-microsoft-dynamics.md){target="_blank"}.
 
 >[!NOTE]
 >
@@ -33,11 +33,11 @@ Marketo Engage이 전체 데이터베이스를 Dynamics와 동기화하는 것�
 
 ## 개인 또는 연락처의 동기화를 수동으로 강제할 수 있습니까? {#can-i-manually-force-a-sync-of-a-person-or-a-contact}
 
-아니요. 자동화된 백그라운드 동기화는 Marketo과 Dynamics 간에 업데이트를 동기화하는 유일한 방법입니다. 다음 [Microsoft에 사용자 동기화](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/microsoft-dynamics-flow-actions/sync-person-to-microsoft.md){target="_blank"} 강제로 잠재 고객 동기화를 수행하지 않습니다.
+아니요. 자동화된 백그라운드 동기화는 Marketo과 Dynamics 간에 업데이트를 동기화하는 유일한 방법입니다. [사용자를 Microsoft에 동기화](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/microsoft-dynamics-flow-actions/sync-person-to-microsoft.md){target="_blank"}하면 잠재 고객의 동기화가 강제 수행되지 않습니다.
 
 ## 어떤 필드가 Marketo에 동기화됩니까? {#what-fields-will-sync-to-marketo}
 
-다음을 수행할 수 있습니다. [동기화할 필드 선택](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/microsoft-dynamics-365-with-ropc-connection/step-4-of-4-connect.md#select-fields-to-sync){target="_blank"} 설정하는 동안. 하지만 Marketo은 Dynamics 동기화 사용자가 액세스할 수 있는 필드만 동기화합니다.
+설치하는 동안 [동기화할 필드를 선택](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/microsoft-dynamics-365-with-ropc-connection/step-4-of-4-connect.md#select-fields-to-sync){target="_blank"}할 수 있습니다. 하지만 Marketo은 Dynamics 동기화 사용자가 액세스할 수 있는 필드만 동기화합니다.
 
 ## Marketo이 Dynamics 유효성 검사 규칙을 준수합니까? {#will-marketo-respect-the-dynamics-validation-rules}
 

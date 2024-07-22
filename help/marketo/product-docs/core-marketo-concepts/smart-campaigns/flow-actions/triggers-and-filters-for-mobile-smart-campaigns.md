@@ -15,7 +15,7 @@ ht-degree: 0%
 
 모바일 앱 스마트 캠페인에 대한 트리거 및 필터를 설정할 수 있습니다.
 
-대부분의 활동에는 트리거, 필터 및 비활성 필터가 있습니다. 비활성 필터를 사용하여 푸시 알림 탭과 같은 작업 추적 _다음을 수행하지 않음_ 그러세요.
+대부분의 활동에는 트리거, 필터 및 비활성 필터가 있습니다. 비활성 필터를 사용하여 푸시 알림을 탭하는 것과 같이 _발생하지 않은_ 작업을 추적합니다.
 
 * 모바일 앱 설치됨/설치됨
 * 모바일 앱이 열림/열림
@@ -41,13 +41,13 @@ ht-degree: 0%
 
 * 장치 유형 - iPod, iPhone, iPhone 6 Plus, iPad mini, iPad, Android 스마트폰, Android 태블릿, 알 수 없음(사전 설정된 목록)
 
-* 플랫폼 - iPhone 또는 Android
+* Platform - iPhone 또는 Android
 
 일부 트리거 및 필터는 다음과 같은 추가 제약 조건을 제공합니다.
 
 * 앱 버전 - 최신 버전을 사용하지 않는 사용자를 타깃팅하는 방법입니다. 예를 들어 최신 앱 버전이 2.0인 경우 이 버전을 사용하여 앱 버전 2.0에 없는 사용자를 찾을 수 있습니다
 
-* 설치 소스 - 현재 유일한 옵션은 API입니다.
+* Source 설치 - 현재 유일한 옵션은 API입니다.
 
 * 로케일 - 장치의 설정
 
@@ -57,7 +57,7 @@ ht-degree: 0%
 
 * 세션 길이(초) - 앱이 포그라운드에 있는 세션 시간
 
-* 푸시 활성화됨 - **True** 은 푸시 알림을 전송할 수 있음을 의미합니다. **False** 은(는) 할 수 없음을 의미합니다. 예를 들어 푸시 알림 수신을 옵트아웃했을 수 있습니다
+* 푸시 사용 여부 - **True**&#x200B;은(는) 푸시 알림을 보낼 수 있음을 의미합니다. **False**&#x200B;은(는) 수행할 수 없음을 의미합니다. 예를 들어 푸시 알림 수신을 옵트아웃했을 수 있습니다
 
 ## 트리거 및 필터 {#triggers-and-filters}
 
@@ -69,7 +69,7 @@ ht-degree: 0%
 >
 >Marketo에서 앱 설치를 추적하지 않으므로 필터는 현재 설치와 이전 설치를 모두 찾습니다.
 
-**제한** - 장치 유형, 플랫폼, 모바일 앱, 모바일 앱 버전, 장치 유형, 설치 소스, 푸시 활성화됨 및 로케일
+**제약 조건** - 장치 유형, 플랫폼, 모바일 앱, 모바일 앱 버전, 장치 유형, Source 설치, 푸시 사용 및 로케일
 
 ![](assets/triggers-and-filters-for-mobile-smart-campaigns-3.png)
 
@@ -85,7 +85,7 @@ ht-degree: 0%
 
 * 모바일 앱이 설치되지 않음 - 비활성 필터
 
-**제한** - 장치 유형, 플랫폼, 앱 버전, 로케일 및 설치 소스
+**제약 조건** - 장치 유형, 플랫폼, 앱 버전, 로케일 및 Source 설치
 
 ![](assets/triggers-and-filters-for-mobile-smart-campaigns-4.png)
 
@@ -97,13 +97,13 @@ ht-degree: 0%
 
 * NOT 모바일 앱이 열리지 않음 - 비활성 필터
 
-**제한** - 장치 유형 및 플랫폼
+**제약 조건** - 장치 유형 및 플랫폼
 
 ![](assets/triggers-and-filters-for-mobile-smart-campaigns-5.png)
 
 모바일 앱 활동 있음/있음
 
-이렇게 하면 사용자 지정 모바일 활동을 추적할 수 있는 강력한 방법을 제공합니다. 추적을 설정하려면 개발자와 협력해야 합니다 [Android용](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/mobile/installation#how-to-install-marketo-sdk-on-android){target="_blank"} 및 [iOS용](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/mobile/installation#install-marketo-sdk-on-ios){target="_blank"}.
+이렇게 하면 사용자 지정 모바일 활동을 추적할 수 있는 강력한 방법을 제공합니다. 개발자와 협력하여 Android에 대해 [추적](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/mobile/installation#how-to-install-marketo-sdk-on-android){target="_blank"} 및 iOS에 대해 [추적](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/mobile/installation#install-marketo-sdk-on-ios){target="_blank"}을 설정해야 합니다.
 
 * 모바일 앱 활동 있음 - 트리거
 
@@ -111,7 +111,7 @@ ht-degree: 0%
 
 * 모바일 앱 활동이 없음 - 비활성 필터
 
-**제한** - 장치 유형, 플랫폼, 모바일 앱 버전, 로케일, 플랫폼 버전 및 5개의 추가 버전:
+**제약 조건** - 장치 유형, 플랫폼, 모바일 앱 버전, 로케일, 플랫폼 버전 및 5개의 추가 제약 조건:
 
 * 작업 - 사용자 지정 모바일 활동
 
@@ -129,7 +129,7 @@ ht-degree: 0%
 >
 >**예**
 >
->의 작업 유형 아래에 *쇼핑*: 다른 제약 조건이 이를 정의하는 매우 구체적인 작업입니다.
+>*쇼핑*&#x200B;의 작업 유형에는 다음을 정의하는 다른 제약 조건과 함께 매우 구체적인 작업이 있습니다.
 >
 >* 셔츠 구매
 >   * 빨간색이었어요
@@ -160,7 +160,7 @@ Marketo에서 필터가 표시되는 모양은 다음과 같습니다.
 
 * 모바일 앱 세션이 없음 - 비활성 필터
 
-**제한** - 장치 유형, 플랫폼 및 세션 길이(초)
+**제약 조건** - 장치 유형, 플랫폼 및 세션 길이(초)
 
 ![](assets/triggers-and-filters-for-mobile-smart-campaigns-7.png)
 
@@ -172,7 +172,7 @@ Marketo에서 필터가 표시되는 모양은 다음과 같습니다.
 
 * 탭되지 않은 푸시 알림 - 비활성 필터
 
-**제한** - 장치 유형, 플랫폼, 모바일 앱 버전, 푸시 알림 및 플랫폼 버전
+**제약 조건** - 장치 유형, 플랫폼, 모바일 앱 버전, 푸시 알림 및 플랫폼 버전
 
 ![](assets/triggers-and-filters-for-mobile-smart-campaigns-8.png)
 
@@ -180,7 +180,7 @@ Marketo에서 필터가 표시되는 모양은 다음과 같습니다.
 >
 >최근 푸시 알림이 전송되지 않은 사용자를 찾아 이메일을 통해 후속 조치를 할 수 있도록 탭되지 않음 푸시 알림 비활성 필터 를 사용합니다.
 
-**푸시 알림이 전송됨** 이 활동은 필터로만 사용할 수 있습니다.
+**푸시 알림을 보냈습니다** 이 활동은 필터로만 사용할 수 있습니다.
 
 * 푸시 알림이 전송됨 - 필터
 

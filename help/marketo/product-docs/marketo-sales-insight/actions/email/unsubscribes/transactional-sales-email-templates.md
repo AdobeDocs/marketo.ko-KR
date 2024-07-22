@@ -5,7 +5,7 @@ feature: Sales Insight Actions
 exl-id: 0178155e-f01c-449f-b510-40adf718e177
 source-git-commit: 7c8703059d7d28afbf57f4f285ac972fb9d8fbef
 workflow-type: tm+mt
-source-wordcount: '161'
+source-wordcount: '173'
 ht-degree: 0%
 
 ---
@@ -16,13 +16,13 @@ ht-degree: 0%
 
 ## 참고할 사항 {#things-to-note}
 
-* 비상업적인 이메일은 판매 구독 취소 및 [Marketo Engage 구독 취소 확인](/help/marketo/product-docs/marketo-sales-insight/actions/email/unsubscribes/marketo-unsubscribe-check.md){target="_blank"}, but will not bypass [blocked domains](/help/marketo/product-docs/marketo-sales-insight/actions/admin/blocked-domains.md){target="_blank"}.
+* 비상업적인 이메일은 판매 구독 취소 및 [Marketo Engage 구독 취소 확인](/help/marketo/product-docs/marketo-sales-insight/actions/email/unsubscribes/marketo-unsubscribe-check.md){target="_blank"}을 무시하지만 [차단된 도메인](/help/marketo/product-docs/marketo-sales-insight/actions/admin/blocked-domains.md){target="_blank"}은 무시하지 않습니다.
 
-* 구독 취소 메시지는 다음과 같은 경우에도 자동으로 비상업적인 이메일에 추가되지 않습니다. [구독 취소 메시지 관리자 설정 추가](/help/marketo/product-docs/marketo-sales-insight/actions/email/unsubscribes/auto-append-unsubscribe-message-setting.md){target="_blank"} is enabled. However, the `{{team_unsubscribe}}` [dynamic field](/help/marketo/product-docs/marketo-sales-insight/actions/templates/dynamic-fields.md){target="_blank"} 팀 구독 취소 메시지가 계속 채워집니다.
+* [구독 취소 메시지 관리자 추가 설정](/help/marketo/product-docs/marketo-sales-insight/actions/email/unsubscribes/auto-append-unsubscribe-message-setting.md){target="_blank"}이 활성화되어 있더라도 구독 취소 메시지는 비상업적인 이메일에 자동으로 추가되지 않습니다. 그러나 `{{team_unsubscribe}}` [동적 필드](/help/marketo/product-docs/marketo-sales-insight/actions/templates/dynamic-fields.md){target="_blank"}에 팀 구독 취소 메시지가 계속 채워집니다.
 
 ## 비상업적 사용을 위한 이메일 템플릿 구성 {#configure-an-email-template-for-non-commercial-use}
 
-1. 헤더에서 를 클릭합니다. **템플릿**.
+1. 헤더에서 **템플릿**&#x200B;을 클릭합니다.
 
    ![](assets/transactional-sales-email-templates-1.png)
 
@@ -40,7 +40,7 @@ ht-degree: 0%
 >
 >구독 취소한 사람을 선택하면 주황색으로 강조 표시됩니다.
 
-1. 헤더에서 를 클릭합니다. **작성**. 원하는 비상업적 템플릿을 찾아 선택합니다.
+1. 헤더에서 **작성**&#x200B;을 클릭합니다. 원하는 비상업적 템플릿을 찾아 선택합니다.
 
    ![](assets/transactional-sales-email-templates-4.png)
 
@@ -48,7 +48,7 @@ ht-degree: 0%
 
    ![](assets/transactional-sales-email-templates-5.png)
 
-1. 클릭 **보내기**.
+1. **보내기**&#x200B;를 클릭합니다.
 
    ![](assets/transactional-sales-email-templates-6.png)
 

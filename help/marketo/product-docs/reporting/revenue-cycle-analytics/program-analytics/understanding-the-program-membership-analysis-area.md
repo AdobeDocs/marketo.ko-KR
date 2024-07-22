@@ -7,7 +7,7 @@ feature: Reporting, Revenue Cycle Analytics
 source-git-commit: d20a9bb584f69282eefae3704ce4be2179b29d0b
 workflow-type: tm+mt
 source-wordcount: '236'
-ht-degree: 4%
+ht-degree: 5%
 
 ---
 
@@ -45,14 +45,14 @@ ht-degree: 4%
 
 ### 프로그램 속성 {#program-attributes}
 
-| 치수 | 설명 |
+| 차원 | 설명 |
 |---|---|
 | 프로그램 채널 | 프로그램 채널 |
 | 프로그램 이름 | 프로그램 이름 |
 
 ### 프로그램 멤버십 일정 {#program-membership-timeframe}
 
-| 치수 | 설명 |
+| 차원 | 설명 |
 |---|---|
 | 년 | 프로그램 멤버십 일정 |
 | 분기 | 프로그램 멤버십 일정 |

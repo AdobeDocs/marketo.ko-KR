@@ -7,7 +7,7 @@ feature: Salesforce Integration
 source-git-commit: 0087a5e88b8bd9601875f68a2e7cadeebdb5d682
 workflow-type: tm+mt
 source-wordcount: '363'
-ht-degree: 43%
+ht-degree: 44%
 
 ---
 
@@ -90,7 +90,7 @@ ht-degree: 43%
 | 직원 | 직원 수 |
 | 계정 전화 | 주요 전화 |
 | SIC 코드 | SIC 코드 |
-| 계정 사이트 | 사이트 |
+| 계정 사이트 | 위치 |
 | 계정 유형 | SFDC 유형 |
 | 웹 사이트 | 웹 사이트 |
 

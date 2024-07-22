@@ -15,19 +15,19 @@ ht-degree: 0%
 
 달력 파일 토큰을 사용하면 달력 이벤트(.ics) 링크를 Marketo 이메일 및 랜딩 페이지에 추가할 수 있습니다.
 
-1. 프로그램 내에서 **내 토큰** 탭.
+1. 프로그램 내에서 **내 토큰** 탭으로 이동합니다.
 
    ![](assets/image2014-9-11-15-3a33-3a27.png)
 
-1. 드래그 **캘린더 파일** 토큰을 캔버스에 추가합니다.
+1. **캘린더 파일** 토큰을 캔버스로 드래그합니다.
 
    ![](assets/image2014-9-11-15-3a34-3a0.png)
 
-1. 입력 **토큰 이름** 및 **편집**.
+1. **토큰 이름** 및 **편집**&#x200B;을 입력하십시오.
 
    ![](assets/image2014-9-11-15-3a34-3a10.png)
 
-1. 세부 정보를 입력하고 클릭 **저장**.
+1. 세부 정보를 입력하고 **저장**&#x200B;을 클릭합니다.
 
    ![](assets/image2014-9-11-15-3a34-3a16.png)
 
@@ -35,5 +35,5 @@ ht-degree: 0%
 
 >[!MORELIKETHIS]
 >
->* [이메일에 캘린더 이벤트(.ics) 포함](/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/include-a-calendar-event-ics-in-an-email.md)
->* [랜딩 페이지에 달력 이벤트 ICS 파일 포함](/help/marketo/product-docs/demand-generation/landing-pages/personalizing-landing-pages/include-a-calendar-event-ics-file-in-a-landing-page.md)
+>* [전자 메일에 일정 이벤트(.ics) 포함](/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/include-a-calendar-event-ics-in-an-email.md)
+>* [랜딩 페이지에 일정 이벤트 ICS 파일 포함](/help/marketo/product-docs/demand-generation/landing-pages/personalizing-landing-pages/include-a-calendar-event-ics-file-in-a-landing-page.md)

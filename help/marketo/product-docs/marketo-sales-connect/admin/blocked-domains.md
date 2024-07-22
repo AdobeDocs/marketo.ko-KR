@@ -19,18 +19,18 @@ ht-degree: 0%
 >
 >**관리자 권한 필요**
 
-1. 웹 애플리케이션에서 톱니바퀴 아이콘을 클릭하고 **설정**.
+1. 웹 응용 프로그램에서 톱니바퀴 아이콘을 클릭하고 **설정**&#x200B;을 선택합니다.
 
    ![](assets/one-3.png)
 
-1. Admin Settings에서 **일반**.
+1. 관리자 설정에서 **일반**&#x200B;을 클릭합니다.
 
    ![](assets/two-3.png)
 
-1. 차단하려는 도메인을 입력하고 **도메인 차단**.
+1. 차단하려는 도메인을 입력하고 **도메인 차단**&#x200B;을 클릭합니다.
 
    ![](assets/three-3.png)
 
    >[!NOTE]
    >
-   >의 일부인 이메일 [그룹 전자 메일](/help/marketo/product-docs/marketo-sales-connect/email/using-the-compose-window/sending-emails-via-group-email.md) 차단된 이메일 도메인으로 보내어 실패한 전자 메일 보내기는 자동으로 실패하고 실패한 전자 메일 폴더에 표시되지 않습니다.
+   >차단된 전자 메일 도메인으로 보내져 실패한 [그룹 전자 메일](/help/marketo/product-docs/marketo-sales-connect/email/using-the-compose-window/sending-emails-via-group-email.md) 메일의 일부 전자 메일은 자동으로 실패하고 실패한 전자 메일 폴더에 표시되지 않습니다.

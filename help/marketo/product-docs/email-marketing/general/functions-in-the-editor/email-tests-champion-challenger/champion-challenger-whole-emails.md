@@ -17,9 +17,9 @@ ht-degree: 0%
 
 >[!PREREQUISITES]
 >
->[이메일 챔피언/챌린저 추가](/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/email-tests-champion-challenger/add-an-email-champion-challenger.md)
+>[전자 메일 챔피언/도전자 추가](/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/email-tests-champion-challenger/add-an-email-champion-challenger.md)
 
-1. 이메일 테스트 편집기에서 **전체 이메일** 다음에서 **테스트 유형** 드롭다운.
+1. 전자 메일 테스트 편집기의 **테스트 형식** 드롭다운에서 **전체 전자 메일**&#x200B;을(를) 선택합니다.
 
    ![](assets/image2014-9-12-16-3a39-3a14.png)
 
@@ -27,7 +27,7 @@ ht-degree: 0%
    >
    >원래 이메일이 우승자입니다. 도전자들은 그것에 맞서 경쟁한다.
 
-1. 다음 항목을 찾아 선택합니다. **챌린저스** 이메일을 보낸 다음 **복제**.
+1. **도전자** 이메일을 찾아 선택한 다음 **복제**&#x200B;를 클릭합니다.
 
    ![](assets/image2015-8-10-11-3a46-3a28.png)
 
@@ -47,7 +47,7 @@ ht-degree: 0%
 
    통계적 신뢰도를 얻으려면 도전자에게 할당한 비율에 테스트가 유효하다는 충분한 사람이 포함되어 있는지 확인하십시오. 결론이 나지 않는 결과에 속지 마라.
 
-1. 클릭 **다음**.
+1. **다음**&#x200B;을 클릭합니다.
 
    ![](assets/image2014-9-12-16-3a42-3a9.png)
 

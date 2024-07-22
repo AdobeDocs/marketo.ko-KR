@@ -25,11 +25,11 @@ Marketo이 아닌 페이지에 소셜 앱을 포함합니다.
 
    ![](assets/image2015-5-12-11-3a43-3a24.png)
 
-1. 선택 **포함 코드** 소셜 앱 작업에서 을 참조하십시오.
+1. 소셜 앱 작업에서 **포함 코드**&#x200B;을(를) 선택합니다.
 
    ![](assets/image2015-5-12-12-3a59-3a46.png)
 
-1. 사이트의 페이지 헤더에 대한 코드 복사(`<head>`) 및 본문(`<body>`).
+1. 사이트의 페이지 머리글(`<head>`) 및 본문(`<body>`)에 대한 코드를 복사합니다.
 
    ![](assets/image2015-5-12-13-3a3-3a34.png)
 
@@ -41,7 +41,7 @@ Marketo이 아닌 페이지에 소셜 앱을 포함합니다.
 
    ![](assets/socialonsite-embedwidget.png)
 
-1. 소셜 앱의 크기를 페이지의 특정 차원으로 설정해야 하는 경우 **바깥쪽 높이** 및 **외부 너비** 두 번째 코드 조각에 대한 옵션입니다. 예를 들어 다음을 추가할 수 있습니다 `options='{"outerHeight":400, "outerWidth":600}'`과 같은 형식으로 프로필 스크립트에서 참조할 수 있습니다.
+1. 소셜 앱의 크기를 페이지의 특정 차원으로 설정해야 하는 경우 **outerHeight** 및 **outerWidth** 옵션을 두 번째 코드 조각에 추가하십시오. 예를 들어 다음과 같이 `options='{"outerHeight":400, "outerWidth":600}'`을(를) 추가할 수 있습니다.
 
    ![](assets/socialonsite-resizewidget2.png)
 
@@ -51,4 +51,4 @@ Marketo이 아닌 페이지에 소셜 앱을 포함합니다.
    >
    >* [소셜 앱 사용자 지정 단추](/help/marketo/product-docs/demand-generation/social/configuring-social-actions/customize-social-app-button.md)
    >* [소셜 공유 요구 사항 설정](/help/marketo/product-docs/demand-generation/social/social-functions/set-social-share-requirement.md)
-   >* [facebook에 랜딩 페이지 게시](/help/marketo/product-docs/demand-generation/facebook/publish-landing-pages-to-facebook.md)
+   >* facebook으로 [Publish 랜딩 페이지](/help/marketo/product-docs/demand-generation/facebook/publish-landing-pages-to-facebook.md)

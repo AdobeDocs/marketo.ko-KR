@@ -50,7 +50,7 @@ Modern UX에는 마케팅 경험을 크게 개선하기 위해 설계된 많은 
 
 >[!NOTE]
 >
->트리에서 검색을 수행하면 처음 250개의 결과만 표시됩니다. 검색 후 에셋을 찾을 수 없는 경우 [글로벌 검색](/help/marketo/product-docs/marketo-engage-modern-ux/using-the-global-search.md) 함수.
+>트리에서 검색을 수행하면 처음 250개의 결과만 표시됩니다. 검색 후 자산을 찾을 수 없는 경우 [전역 검색](/help/marketo/product-docs/marketo-engage-modern-ux/using-the-global-search.md) 기능을 사용하십시오.
 
 **Marketo Classic과 새 Marketo 비교**
 

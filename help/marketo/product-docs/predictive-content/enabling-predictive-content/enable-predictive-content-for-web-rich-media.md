@@ -25,15 +25,15 @@ ht-degree: 0%
 >
 >* **예측 콘텐츠 준비**
 >
->   * [이메일에 대한 예측 콘텐츠 편집](/help/marketo/product-docs/predictive-content/working-with-predictive-content/edit-predictive-content-for-emails.md){target="_blank"} 또는
+>   * [전자 메일에 대한 예측 콘텐츠 편집](/help/marketo/product-docs/predictive-content/working-with-predictive-content/edit-predictive-content-for-emails.md){target="_blank"} 또는
 >   * [리치 미디어에 대한 예측 콘텐츠 편집](/help/marketo/product-docs/predictive-content/working-with-predictive-content/edit-predictive-content-for-rich-media.md){target="_blank"} 또는
->   * [권장 사항 막대에 대한 예측 콘텐츠 편집](/help/marketo/product-docs/predictive-content/working-with-predictive-content/edit-predictive-content-for-the-recommendation-bar.md){target="_blank"}
+>   * [권장 사항 표시줄에 대한 예측 콘텐츠 편집](/help/marketo/product-docs/predictive-content/working-with-predictive-content/edit-predictive-content-for-the-recommendation-bar.md){target="_blank"}
 >
->* [예측 콘텐츠에 대한 제목 승인](/help/marketo/product-docs/predictive-content/working-with-all-content/approve-a-title-for-predictive-content.md){target="_blank"}
+>* [예측 콘텐츠의 제목 승인](/help/marketo/product-docs/predictive-content/working-with-all-content/approve-a-title-for-predictive-content.md){target="_blank"}
 
 리치 미디어에 대한 컨텐츠 제목, 설명 및 이미지를 준비했으면 개별 또는 여러 컨텐츠 조각을 활성화할 수 있습니다.
 
-1. 개별 제목을 활성화하려면 제목을 클릭하여 편집기를 엽니다. 리치 미디어 를 클릭한 다음 **리치 미디어의 예측 콘텐츠에 대해 활성화됨** 상자 및 클릭 **저장**.
+1. 개별 제목을 활성화하려면 제목을 클릭하여 편집기를 엽니다. 리치 미디어를 클릭한 다음 **리치 미디어의 예측 콘텐츠에 대해 사용** 상자를 선택하고 **저장**&#x200B;을 클릭합니다.
 
    ![](assets/image2017-10-3-9-3a50-3a29.png)
 
@@ -41,17 +41,17 @@ ht-degree: 0%
 
    ![](assets/image2017-10-3-10-3a0-3a42.png)
 
-1. 다음을 클릭합니다. **컨텐츠 작업** 드롭다운 및 선택 **웹 리치 미디어에 대해 활성화**.
+1. **콘텐츠 작업** 드롭다운을 클릭하고 **웹 리치 미디어에 사용**&#x200B;을 선택합니다.
 
    ![](assets/image2017-10-3-10-3a2-3a6.png)|
 
 ## Javascript 코드 사용자 지정 및 웹 사이트에 포함  {#customize-the-javascript-code-and-embed-it-into-your-website}
 
-리치 미디어 권장 사항 템플릿에 대한 설명서를 참조하십시오 [Marketo 개발자 사이트에서](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/javascriptapi/rich-media-recommendation){target="_blank"}. 웹 사이트에 맞게 템플릿을 사용자 지정하는 방법을 설명합니다.
+Marketo 개발자 사이트](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/javascriptapi/rich-media-recommendation){target="_blank"}에서 리치 미디어 권장 사항 템플릿 [에 대한 설명서를 참조하십시오. 웹 사이트에 맞게 템플릿을 사용자 지정하는 방법을 설명합니다.
 
 템플릿을 표시할 위치에 JavaScript 코드를 웹 사이트에 붙여넣습니다.
 
-**템플릿 예**
+**템플릿 예제**
 
 * Template1: 이미지, 헤더 및 설명이 있는 세 개의 가로 콘텐츠 조각
 * Template2: 이미지, 헤더 및 설명이 있는 세 개의 수직 콘텐츠 조각

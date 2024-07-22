@@ -17,7 +17,7 @@ ht-degree: 0%
 
 ## 요약 보기 {#summary-view}
 
-1. 다음으로 이동 **[!UICONTROL 마케팅 활동]**.
+1. **[!UICONTROL 마케팅 활동]**(으)로 이동합니다.
 
    ![](assets/login-marketing-activities-1.png)
 
@@ -33,17 +33,17 @@ ht-degree: 0%
 
    ![](assets/image2014-9-18-17-3a2-3a53.png)
 
-1. 클릭 **[!UICONTROL 내보내기]** 요약 하단에 있는 을 클릭하여 보고서를 다운로드합니다.
+1. 보고서를 다운로드하려면 요약 하단의 **[!UICONTROL 내보내기]**&#x200B;를 클릭하십시오.
 
    ![](assets/image2014-9-18-17-3a3-3a47.png)
 
 ## 보기에서 사용됨 {#used-by-view}
 
-1. 위치 **[!UICONTROL 마케팅 활동]**&#x200B;을 클릭하고 프로그램을 선택합니다.
+1. **[!UICONTROL 마케팅 활동]**&#x200B;에서 프로그램을 선택하십시오.
 
    ![](assets/image2014-9-18-17-3a4-3a24.png)
 
-1. 다음을 클릭합니다. **[!UICONTROL 보기]** 드롭다운. 선택 **[!UICONTROL 사용한 사람]**.
+1. **[!UICONTROL 보기]** 드롭다운을 클릭합니다. **[!UICONTROL 사용 주체]**&#x200B;를 선택합니다.
 
    ![](assets/image2014-9-18-17-3a5-3a2.png)
 
@@ -53,11 +53,11 @@ ht-degree: 0%
 
 ## 멤버십 보기 {#membership-view}
 
-1. 위치 **[!UICONTROL 마케팅 활동]**&#x200B;을 클릭하고 프로그램을 선택합니다.
+1. **[!UICONTROL 마케팅 활동]**&#x200B;에서 프로그램을 선택하십시오.
 
    ![](assets/image2014-9-18-17-3a7-3a25.png)
 
-1. 다음을 클릭합니다. **[!UICONTROL 보기]** 드롭다운. 선택 **[!UICONTROL 멤버십]**.
+1. **[!UICONTROL 보기]** 드롭다운을 클릭합니다. **[!UICONTROL 구성원]**&#x200B;을 선택하세요.
 
    ![](assets/image2014-9-18-17-3a7-3a49.png)
 
@@ -67,8 +67,8 @@ ht-degree: 0%
 
    >[!NOTE]
    >
-   >**[!UICONTROL 기록]** 은 프로그램을 경험한 모든 사람을 의미합니다. **[!UICONTROL 현재]** 현재 프로그램에 참여 중인 사람만 포함합니다.
+   >**[!UICONTROL 기록]**&#x200B;은(는) 프로그램에 참여한 모든 사람을 나타내며, **[!UICONTROL 현재]**&#x200B;에는 현재 프로그램에 있는 사람만 포함됩니다.
 
    >[!MORELIKETHIS]
    >
-   >[프로그램 멤버십 이해](/help/marketo/product-docs/core-marketo-concepts/programs/creating-programs/understanding-program-membership.md){target="_blank"}
+   >[프로그램 구성원 이해](/help/marketo/product-docs/core-marketo-concepts/programs/creating-programs/understanding-program-membership.md){target="_blank"}

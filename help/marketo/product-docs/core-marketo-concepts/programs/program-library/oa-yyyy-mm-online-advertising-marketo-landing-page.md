@@ -2,10 +2,10 @@
 description: OA-YYYY-MM-Online Advertising Marketo 랜딩 페이지 - Marketo 문서 - 제품 설명서
 title: OA-YYYY-MM-Online Advertising Marketo 랜딩 페이지
 feature: Programs
-exl-id: a41b87d9-922a-4ed8-a2a4-36ef17a88ede
-source-git-commit: 38274b4859ae38c018ee73d4f1715fdf6a78e815
+exl-id: f7f17792-cc16-4a99-8683-68796770e42c
+source-git-commit: c16081143588ebc0793f5b6e2630b58348e27124
 workflow-type: tm+mt
-source-wordcount: '480'
+source-wordcount: '485'
 ht-degree: 3%
 
 ---
@@ -14,7 +14,7 @@ ht-degree: 3%
 
 이는 등록 양식이 있는 Marketo 랜딩 페이지를 포함하고 Marketo 기본 프로그램을 활용하는 온라인 광고 추적 프로그램의 예입니다. 오퍼에 대한 링크는 감사 인사 페이지에 표시하거나, 감사 인사 전자 메일로 전송하거나, 둘 다에 표시할 수 있습니다.
 
-추가적인 전략 지원 또는 프로그램 맞춤화에 대한 도움말을 보려면 Adobe 계정 팀에 문의하거나 [Adobe Professional Services](https://business.adobe.com/customers/consulting-services/main.html){target="_blank"} 페이지를 가리키도록 업데이트하는 중입니다.
+추가 전략 지원 또는 프로그램 사용자 지정에 도움이 필요하면 Adobe 계정 팀에 문의하거나 [Adobe Professional Services](https://business.adobe.com/customers/consulting-services/main.html){target="_blank"} 페이지를 방문하십시오.
 
 ## 채널 요약 {#channel-summary}
 
@@ -27,16 +27,16 @@ ht-degree: 3%
    <th>프로그램 유형</th>
   </tr> 
   <tr> 
-   <td>온라인 광고</td> 
+   <td>온라인 Advertising</td> 
    <td>01 - 구성원 
 <br/>02 - 참여 - 성공</td>
    <td>포함</td>
-   <td>기본값</td>
+   <td>기본</td>
   </tr>
  </tbody> 
 </table>
 
-## 프로그램에 다음 자산이 포함되어 있습니다. {#program-contains-the-following-assets}
+## 프로그램에는 다음 Assets이 포함되어 있습니다 {#program-contains-the-following-assets}
 
 <table style="table-layout:auto"> 
  <tbody> 
@@ -93,8 +93,8 @@ ht-degree: 3%
   <tr> 
    <td>폴더</td> 
    <td> </td>
-   <td>에셋 - 모든 크리에이티브 에셋 보유 
-<br/>(이메일 및 랜딩 페이지의 하위 폴더)  </td>
+   <td>Assets - 모든 크리에이티브 에셋 보유 
+<br/>(전자 메일 및 랜딩 페이지의 하위 폴더)  </td>
   </tr>
   <tr> 
    <td>폴더</td> 
@@ -125,7 +125,7 @@ ht-degree: 3%
    <td><code>{{my.Content-Description}}</code></td>
    <td>세부 사항을 보려면 두 번 클릭  
 <br/><code><--My Content Description Here--></code> 
-<br/>내 토큰 탭 아래의 프로그램 수준에서 이 컨텐츠 설명을 편집합니다. 
+<br/>내 토큰 탭의 프로그램 수준에서 이 콘텐츠 설명을 편집합니다. 
 <br/>배울 내용: 
 <li>글머리 기호</li>
 <li>글머리 기호 2</li>
@@ -174,20 +174,20 @@ ht-degree: 3%
 ## 충돌 규칙 {#conflict-rules}
 
 * **프로그램 태그**
-   * 이 구독에서 태그 만들기 - _추천_
+   * 이 구독에서 태그 만들기 - _권장_
    * 무시
 
-* **동일한 이름의 랜딩 페이지 템플릿**
+* **같은 이름의 랜딩 페이지 템플릿**
    * 원본 템플릿 복사
-   * 대상 템플릿 사용 - _추천_
+   * 대상 템플릿 사용 - _권장_
 
 * **이름이 같은 이미지**
    * 두 파일 모두 보관
-   * 이 구독의 항목 바꾸기 - _추천_
+   * 이 구독의 항목 바꾸기 - _권장_
 
-* **이름이 같은 이메일 템플릿**
+* **같은 이름의 전자 메일 서식 파일**
    * 두 템플릿 모두 유지
-   * 기존 템플릿 바꾸기 - _추천_
+   * 기존 템플릿 바꾸기 - _권장_
 
 충돌 규칙 스크린샷
 
@@ -198,7 +198,7 @@ ht-degree: 3%
 
 * 현재 브랜드 템플릿을 활용하도록 가져온 프로그램의 템플릿을 업데이트하거나, 코드 조각 또는 적절한 로고/바닥글 정보에 추가하여 브랜드를 반영하도록 새로 가져온 템플릿을 업데이트하는 것이 좋습니다.
 
-* 프로그램 태그를 사용하여 다양한 온라인 광고 소스별로 보고서를 필터링합니다.
+* 프로그램 태그를 사용하여 다양한 온라인 Advertising 소스별로 보고서를 필터링합니다.
 
 * 명명 규칙에 맞게 이 프로그램 예제의 명명 규칙을 업데이트하는 것이 좋습니다.
 
@@ -208,7 +208,7 @@ ht-degree: 3%
 
 >[!TIP]
 >
->성공 추적을 위해 &quot;02 - 참여(프로그램 성공)&quot; 캠페인을 활성화하는 것을 잊지 마십시오! 수행 _다음 이전_ 양식이 라이브이고 이메일이 전송됩니다.
+>성공 추적을 위해 &quot;02 - 참여(프로그램 성공)&quot; 캠페인을 활성화하는 것을 잊지 마십시오! 양식이 라이브되고 전자 메일이 전송되기 전에 _먼저_&#x200B;하세요.
 
 >[!IMPORTANT]
 >

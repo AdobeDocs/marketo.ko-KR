@@ -19,9 +19,9 @@ ht-degree: 0%
 
 Marketo 계정 기반 마케팅은 하나의 통합 플랫폼에서 모든 핵심 기능을 제공합니다.
 
-* **Target** - 계정 검색, 리드-계정 일치, 명명된 계정 목록
-* **참여** - 계정 기반 개인화, 크로스 채널 참여 및 계정별 워크플로
-* **측정** - 계정 및 목록 수준 인사이트, 계정 참여 점수, 파이프라인 및 매출 영향
+* **Target** - 계정 검색, 리드-계정 일치 및 명명된 계정 목록
+* **참여** - 계정 기반 Personalization, 크로스 채널 참여 및 계정별 워크플로
+* **측정** - 계정 및 목록 수준 인사이트, 계정 참여 점수, 파이프라인 및 매출에 미치는 영향
 
 ![](assets/abm-5-acme.png)
 
@@ -39,7 +39,7 @@ Marketo 계정 기반 마케팅은 하나의 통합 플랫폼에서 모든 핵�
 
 ![](assets/audit-trail.png)
 
-## [Marketo-Vibes SMS LaunchPoint 통합](/help/marketo/product-docs/mobile-marketing/vibes-sms-messages/create-an-sms-message.md) {#marketo-vibes-sms-launchpoint-integration}
+## [Marketo-Vibes SMS LaunchPoint 통합 보기](/help/marketo/product-docs/mobile-marketing/vibes-sms-messages/create-an-sms-message.md) {#marketo-vibes-sms-launchpoint-integration}
 
 Marketo 내에서 SMS 메시지를 쉽게 만들 수 있습니다. 풍부한 Marketo 데이터를 사용하여 메시지를 개인화하고 타겟팅하고 SMS 메시지 대시보드를 사용하여 성과를 쉽게 모니터링할 수 있습니다.
 
@@ -49,7 +49,7 @@ Marketo 내에서 SMS 메시지를 쉽게 만들 수 있습니다. 풍부한 Mar
 
 ![](assets/vibes-sms2.png)
 
-## [이메일 2.0 개선 사항](/help/marketo/product-docs/email-marketing/general/email-editor-2/email-editor-v2-0-overview.md) {#email-enhancements}
+## [전자 메일 2.0 개선 사항](/help/marketo/product-docs/email-marketing/general/email-editor-2/email-editor-v2-0-overview.md) {#email-enhancements}
 
 **모듈 수준 변수**
 
@@ -60,7 +60,7 @@ Marketo 내에서 SMS 메시지를 쉽게 만들 수 있습니다. 풍부한 Mar
 **구문 업데이트**
 
 * 이제 이메일 2.0 템플릿에 지정된 모듈에서 &quot;mktoAddByDefault&quot;를 사용하여 기본적으로 새 이메일에 표시되어야 하는 모듈을 나타낼 수 있습니다. 많은 모듈을 사용하여 이메일 템플릿을 작성하는 경우 훨씬 편리합니다.
-* 이제 이미지 요소에서 원본이 `<img>` HTML 요소의 &quot;height&quot; 및 &quot;width&quot; 속성은 최종 사용자가 잠기거나 편집할 수 있어야 합니다. mktoLockImgSize=&quot;true&quot;로 설정하면 이미지가 변경된 경우에도 높이/너비가 잠깁니다. 마찬가지로 mktoLockImgStyle=&quot;true&quot;이면 &quot;style&quot; 속성이 잠깁니다.
+* 이제 이미지 요소에서 기본 `<img>` HTML 요소의 &quot;height&quot; 및 &quot;width&quot; 속성을 최종 사용자가 잠글 것인지 편집할 것인지 여부를 지정할 수 있습니다. mktoLockImgSize=&quot;true&quot;로 설정하면 이미지가 변경된 경우에도 높이/너비가 잠깁니다. 마찬가지로 mktoLockImgStyle=&quot;true&quot;이면 &quot;style&quot; 속성이 잠깁니다.
 
 **코드 검색**
 
@@ -70,7 +70,7 @@ Marketo 내에서 SMS 메시지를 쉽게 만들 수 있습니다. 풍부한 Mar
 
 **이미지 요소에서 토큰 지원**
 
-이제 삽입 이미지 경험의 &quot;외부 URL&quot; 영역에서 토큰을 사용할 수 있습니다! 다음으로 이미지를 지정한 경우 `{{my.tokens}}`, 이제 이메일 편집기 2.0 내에서 이러한 토큰을 참조할 수 있습니다. 이미지는 이메일 편집기 2.0 캔버스에서 계속 끊어진 상태로 표시됩니다. 그러나 이메일을 보내기 전에 미리 보기 및 샘플 보내기 내에서 렌더링된 메시지가 표시됩니다.
+이제 삽입 이미지 경험의 &quot;외부 URL&quot; 영역에서 토큰을 사용할 수 있습니다! `{{my.tokens}}`을(를) 사용하여 이미지를 지정한 경우 이제 전자 메일 편집기 2.0 내에서 이러한 토큰을 참조할 수 있습니다. 이미지는 이메일 편집기 2.0 캔버스에서 계속 끊어진 상태로 표시됩니다. 그러나 이메일을 보내기 전에 미리 보기 및 샘플 보내기 내에서 렌더링된 메시지가 표시됩니다.
 
 ## 여러 브랜딩 도메인 {#multiple-branding-domains}
 
@@ -90,17 +90,17 @@ Outlook용 Sales Insight Plugin을 설치하려면 영업 팀의 각 직원이 �
 
 ![](assets/enterprise-key.png)
 
-## [웹 개인화 캠페인](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/create-a-new-dialog-web-campaign.md) {#web-personalization-campaigns}
+## [웹 Personalization 캠페인](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/create-a-new-dialog-web-campaign.md) {#web-personalization-campaigns}
 
 웹 캠페인이 웹 사이트에서 반응할 시간 지연을 지정합니다.
 
 ![](assets/dialog-campaign-delay.png)
 
-## [Content Analytics 및 Recommendations 내보내기](/help/marketo/product-docs/web-personalization/understanding-web-personalization/understanding-content-analytics.md) {#content-analytics-and-recommendations-export}
+## [컨텐츠 분석 및 Recommendations 내보내기](/help/marketo/product-docs/web-personalization/understanding-web-personalization/understanding-content-analytics.md) {#content-analytics-and-recommendations-export}
 
 컨텐츠 분석 및 권장 사항 데이터를 오프라인으로 봅니다.
 
-## [이메일 편집기 2.0에 대한 API 지원](https://developer.adobe.com/marketo-apis/api/asset/) {#api-support-for-email-editor}
+## 전자 메일 편집기 2.0에 대한 [API 지원](https://developer.adobe.com/marketo-apis/api/asset/) {#api-support-for-email-editor}
 
 이전에 v1.0 이메일 및 템플릿과만 호환되는 기존 에셋 API가 이제 v2.0 이메일 에셋에 대해 활성화됩니다.
 
@@ -110,6 +110,6 @@ Outlook용 Sales Insight Plugin을 설치하려면 영업 팀의 각 직원이 �
 
 ## [개인 정보 설정](/help/marketo/product-docs/administration/settings/understanding-privacy-settings.md) {#privacy-settings}
 
-마케터는 개인 정보 설정을 사용하여 Munchkin 및 웹 개인화 기능을 사용하여 방문자를 추적할지 여부를 결정할 수 있습니다. 추적 수준은 브라우저의 추적 안 함 설정, 옵트아웃 쿠키 또는 비특정 IP를 사용하여 제어됩니다. 이러한 방법은 특정 영역에서 Marketo의 가치 및 기능에 영향을 줄 수 있지만 마케터가 변경하지 않으면 Marketo 기능은 그대로 유지됩니다.
+마케터는 개인 정보 설정을 사용하여 Munchkin 및 Web Personalization 기능을 사용하는 방문자를 추적할지 여부를 결정할 수 있습니다. 추적 수준은 브라우저의 추적 안 함 설정, 옵트아웃 쿠키 또는 비특정 IP를 사용하여 제어됩니다. 이러한 방법은 특정 영역에서 Marketo의 가치 및 기능에 영향을 줄 수 있지만 마케터가 변경하지 않으면 Marketo 기능은 그대로 유지됩니다.
 
 이 기능은 6주 동안 점진적으로 고객에게 출시될 예정입니다. 지금 당장 필요한 경우 Marketo 지원 센터에 문의하십시오.

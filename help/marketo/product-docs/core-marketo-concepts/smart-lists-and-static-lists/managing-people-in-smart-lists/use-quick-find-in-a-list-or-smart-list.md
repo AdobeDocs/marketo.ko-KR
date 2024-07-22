@@ -15,17 +15,17 @@ ht-degree: 0%
 
 빠른 찾기를 사용하여 목록 또는 스마트 목록 결과에서 사람을 찾습니다.
 
-1. 다음으로 이동 **[!UICONTROL 마케팅 활동]**.
+1. **[!UICONTROL 마케팅 활동]**(으)로 이동합니다.
 
    ![](assets/login-marketing-activities.png)
 
-1. 검색할 스마트 목록을 선택한 다음 **[!UICONTROL 사람]** 탭.
+1. 검색할 스마트 목록을 선택한 다음 **[!UICONTROL 사람]** 탭을 클릭합니다.
 
    ![](assets/smartlistpeople.png)
 
 ## 개인 정보를 사용하여 사람 찾기 {#find-people-using-personal-info}
 
-1. 다음에서 **[!UICONTROL 빠른 찾기]** 상자 화면 맨 아래에 있는 키워드(**개인 이름**, **이메일 주소**, 또는 **직위**).
+1. 화면 맨 아래에 있는 **[!UICONTROL 빠른 찾기]** 상자에 키워드(**개인 이름**, **전자 메일 주소** 또는 **직함**)를 입력하십시오.
 
    ![](assets/searchpeople.png)
 
@@ -33,7 +33,7 @@ ht-degree: 0%
 
 ## 회사 이름을 사용하여 사람 찾기 {#find-people-using-a-company-name}
 
-1. 회사를 찾으려면 을 입력합니다 `[company]` 을 클릭하고 원하는 회사 이름의 일부를 클릭합니다.
+1. 회사를 찾으려면 [빠른 찾기] 상자에 `[company]`을(를) 입력한 다음 원하는 회사 이름의 일부를 입력하십시오.
 
    ![](assets/supersmartlistsearch.jpg)
 

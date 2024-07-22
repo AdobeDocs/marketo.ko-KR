@@ -6,7 +6,7 @@ exl-id: 8a6b6f18-175f-417c-9937-4e000afd71af
 feature: Users and Roles
 source-git-commit: 02b2e39580c5eac63de4b4b7fdaf2a835fdd4ba5
 workflow-type: tm+mt
-source-wordcount: '148'
+source-wordcount: '150'
 ht-degree: 0%
 
 ---
@@ -25,34 +25,34 @@ ht-degree: 0%
 >
 >**관리자 권한 필요**
 
-1. 로 이동 **[!UICONTROL 관리자]** 영역입니다.
+1. **[!UICONTROL 관리자]** 영역으로 이동합니다.
 
    ![](assets/enable-no-draft-for-snippets-1.png)
 
-1. 클릭 **[!UICONTROL 사용자 및 역할]**.
+1. **[!UICONTROL 사용자 및 역할]**&#x200B;을 클릭합니다.
 
    ![](assets/enable-no-draft-for-snippets-2.png)
 
-1. 로 이동 **[!UICONTROL 역할]** 탭에서 역할을 선택한 다음 **[!UICONTROL 역할 편집]**.
+1. **[!UICONTROL 역할]** 탭으로 이동하여 역할을 선택한 다음 **[!UICONTROL 역할 편집]**&#x200B;을 클릭합니다.
 
    ![](assets/enable-no-draft-for-snippets-3.png)
 
-1. 확장 **[!UICONTROL Design Studio 액세스]** 옵션을 선택합니다.
+1. **[!UICONTROL Access Design Studio]** 옵션을 확장합니다.
 
    ![](assets/enable-no-draft-for-snippets-4.png)
 
-1. 확장 **[!UICONTROL 코드 조각 액세스]** 옵션을 선택합니다.
+1. **[!UICONTROL 코드 조각 액세스]** 옵션을 확장합니다.
 
    ![](assets/enable-no-draft-for-snippets-5.png)
 
-1. 확장 **[!UICONTROL 코드 조각 승인]** 권한 및 확인 **[!UICONTROL 초안 없음]** 상자. 그런 다음 **[!UICONTROL 저장]**.
+1. **[!UICONTROL 코드 조각 승인]** 권한을 확장하고 **[!UICONTROL 초안 없음]** 상자를 선택합니다. 그런 다음 **[!UICONTROL 저장]**&#x200B;을 클릭합니다.
 
    ![](assets/enable-no-draft-for-snippets-6.png)
 
 >[!TIP]
 >
->No-Draft를 비활성화하려면 위의 1-4단계에 따라 No-Draft 확인란의 선택을 취소하고 **[!UICONTROL 저장]**.
+>초안을 사용하지 않도록 설정하려면 위의 1-4단계에 따라 초안을 사용하지 않음 확인란의 선택을 취소하고 **[!UICONTROL 저장]**&#x200B;을 클릭하십시오.
 
 >[!MORELIKETHIS]
 >
->[초안이 아닌 코드 조각 승인](/help/marketo/product-docs/personalization/segmentation-and-snippets/snippets/approve-a-snippet-with-no-draft.md){target="_blank"}
+>[초안이 없는 코드 조각 승인](/help/marketo/product-docs/personalization/segmentation-and-snippets/snippets/approve-a-snippet-with-no-draft.md){target="_blank"}

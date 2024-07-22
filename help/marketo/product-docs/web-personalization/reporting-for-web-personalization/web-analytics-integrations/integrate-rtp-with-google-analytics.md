@@ -6,7 +6,7 @@ exl-id: a2bc0c17-dc23-435e-9480-857e97e6fd50
 feature: Web Personalization
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
-source-wordcount: '608'
+source-wordcount: '581'
 ht-degree: 0%
 
 ---
@@ -19,7 +19,7 @@ ht-degree: 0%
 >
 >이 문서에서는 이전 Google Standard Analytics를 사용하는 방법을 보여주지만 Universal Analytics로 전환하는 것이 좋습니다.
 >
->아직 사용하지 않는 경우 [analytics.js 추적 코드](https://developers.google.com/analytics/devguides/collection/analyticsjs/), Google에서는 사이트에서 태그를 다시 지정하여 사용할 것을 강력히 권장합니다. 다음 기능은 Google에서 더 이상 사용되지 않습니다.
+>아직 [analytics.js 추적 코드](https://developers.google.com/analytics/devguides/collection/analyticsjs/)를 사용하고 있지 않다면 Google에서는 사이트를 다시 태깅하여 사용할 것을 강력히 권장합니다. 다음 기능은 Google에서 더 이상 사용되지 않습니다.
 >
 >* ga.js
 >* urchin.js
@@ -28,13 +28,13 @@ ht-degree: 0%
 >* 사용자 지정 변수
 >* 사용자 정의 변수
 >
->통합 방법 보기 [Universal Analytics를 사용한 웹 개인화](/help/marketo/product-docs/web-personalization/reporting-for-web-personalization/web-analytics-integrations/integrate-rtp-with-google-universal-analytics.md)
+>[Web Personalization을 Universal Analytics와 통합하는 방법](/help/marketo/product-docs/web-personalization/reporting-for-web-personalization/web-analytics-integrations/integrate-rtp-with-google-universal-analytics.md)을 참조하세요.
 
 ## 소개 {#introduction}
 
-Marketo 실시간 개인화(RTP)에서 Google Analytics(GA) 계정으로의 직접 데이터 흐름을 사용하여 웹 분석을 새로운 각도에서 분석합니다. 조직, 업계 및 RTP 캠페인에 따라 GA에서 웹 방문을 측정합니다. GA의 산업 또는 RTP 세그먼트 유형 및 다양한 트래픽 소스(소셜, 유료, 유기)에 따라 리드를 수행하고 생성하는 방법과 같은 지표를 보고, 캠페인의 클릭스루 비율을 분석하고, 개인화 캠페인이 웹 사이트에 미치는 영향을 측정합니다. 이 기능을 활용하여 RTP 계정의 최대 이점을 얻을 수 있습니다
+Marketo 실시간 Personalization(RTP)에서 Google Analytics(GA) 계정으로의 직접 데이터 흐름을 사용하여 웹 분석을 새로운 각도에서 분석합니다. 조직, 업계 및 RTP 캠페인에 따라 GA에서 웹 방문을 측정합니다. GA의 산업 또는 RTP 세그먼트 유형 및 다양한 트래픽 소스(소셜, 유료, 유기)에 따라 리드를 수행하고 생성하는 방법과 같은 지표를 보고, 캠페인의 클릭스루 비율을 분석하고, 개인화 캠페인이 웹 사이트에 미치는 영향을 측정합니다. 이 기능을 활용하여 RTP 계정의 최대 이점을 얻을 수 있습니다
 
-**RTP AUDIENCE ANALYTICS**
+**RTP Audience Analytics**
 
 통합하면 GA 계정에 새 차원이 있습니다. RTP는 다음을 통해 대시보드를 자동으로 향상시킵니다.
 
@@ -48,7 +48,7 @@ Marketo 실시간 개인화(RTP)에서 Google Analytics(GA) 계정으로의 직�
 
 ![](assets/image2014-11-28-16-3a39-3a28.png)
 
-RTP B2B 대시보드는 수직 및 RTP 세그멘테이션에 따른 방문자 분류를 이해하는 데 도움이 됩니다. 금융 산업과 다양한 마케팅 캠페인(유료, 유기, 소셜)에 따라 방문자 성과를 볼 수 있습니다. 또한 대시보드는 RTP 세그먼트가 수행되는 방식에 대한 높은 수준의 개요를 제공하고 드릴다운하여 사이트를 방문하는 상위 조직을 표시합니다.
+RTP B2B 대시보드는 세로 및 RTP 세그멘테이션에 따른 방문자 분류를 이해하는 데 도움이 됩니다. 금융 산업과 다양한 마케팅 캠페인(유료, 유기, 소셜)에 따라 방문자 성과를 볼 수 있습니다. 또한 대시보드는 RTP 세그먼트가 수행되는 방식에 대한 높은 수준의 개요를 제공하고 드릴다운하여 사이트를 방문하는 상위 조직을 표시합니다.
 
 ## 행동 흐름 {#behavioral-flow}
 
@@ -64,32 +64,32 @@ RTP 캠페인을 측정하고 이를 전체 사이트 평균과 상호 연관시
 
 ## Google Analytics을 사용하여 RTP 설정 {#setting-up-rtp-with-google-analytics}
 
-1. GA 계정에 읽기 및 분석 사용자로 이메일 rtp.ga2@gmail.com 을 추가합니다. 자세한 내용은 [여기](https://support.google.com/analytics/answer/2884495?hl=en).
+1. GA 계정에 읽기 및 분석 사용자로 이메일 rtp.ga2@gmail.com 을 추가합니다. 자세한 내용은 [여기](https://support.google.com/analytics/answer/2884495?hl=en)를 참조하세요.
 
-1. RTP 계정에서 다음으로 이동 **계정 설정**.
+1. RTP 계정에서 **계정 설정**(으)로 이동합니다.
 
    ![](assets/image2014-11-28-16-3a54-3a40.png)
 
-1. 아래 **계정 설정**, **도메인** 및 **분석**.
+1. **계정 설정**, **도메인** 및 **분석**&#x200B;에서.
 
-1. 클릭 **Google Analytics**.
+1. **Google Analytics**&#x200B;을 클릭합니다.
 
-1. 관련 항목 켜기 **사용자 지정 변수** 및 **이벤트** RTP에서 이 데이터를 Google Analytics에 추가합니다.
+1. 관련 **사용자 지정 변수** 및 **Google Analytics**&#x200B;을 켜서 RTP에서 이 데이터를 이벤트에 추가합니다.
 
-1. 다음을 입력합니다. **슬롯** 사용자 지정 변수 데이터를 보낼 번호입니다(기본값은 1,2).
+1. 사용자 지정 변수 데이터를 전송하려면 **Slot** 번호를 입력하십시오(기본값은 1,2).
 
 ![](assets/image2014-11-28-17-3a0-3a17.png)
 
-1. 클릭 **저장**.
+1. **저장**&#x200B;을 클릭합니다.
 
 >[!NOTE]
 >
->세그먼트 데이터를 GA로 보내려면 [세그먼트 편집 페이지](/help/marketo/product-docs/web-personalization/using-web-segments/create-a-basic-web-segment.md) rtp 플랫폼에서 확인란을 선택합니다. **세그먼트 일치 시 Google Analytics에게 이벤트 보내기**.
+>세그먼트 데이터를 GA로 보내려면 RTP 플랫폼의 [Google Analytics 편집 페이지](/help/marketo/product-docs/web-personalization/using-web-segments/create-a-basic-web-segment.md)에서 **세그먼트 일치 시 사용자에게 이벤트 보내기** 확인란을 선택하십시오.
 
 ## RTP 데이터를 사용하여 Google Analytics 보고서 설정 {#setting-up-google-analytics-reports-with-rtp-data}
 
 Google Analytics에서 대시보드, GA 세그멘테이션 및 보고를 사용하여 RTP 데이터를 볼 수 있습니다.
 
-* [대시보드](https://support.google.com/analytics/answer/1068216?hl=en) 웹 사이트 성능에 대한 개요를 제공합니다.
-* GA 세그먼트는 GA 인터페이스에서 방문자를 필터링하고 세그먼트당 트래픽을 보기 위한 것입니다. 세그먼트 작성 방법 보기 [여기](https://support.google.com/analytics/answer/3124493?hl=en).
-* 생성 중 [사용자 지정된 보고서](https://support.google.com/analytics/answer/1033013?hl=en) 예약된 이메일을 보거나 설정합니다. 사용자 지정 > 새 사용자 지정 보고서에서 을 참조하십시오.
+* [대시보드](https://support.google.com/analytics/answer/1068216?hl=en)는 웹 사이트 성능에 대한 개요를 제공합니다.
+* GA 세그먼트는 GA 인터페이스에서 방문자를 필터링하고 세그먼트당 트래픽을 보기 위한 것입니다. [여기](https://support.google.com/analytics/answer/3124493?hl=en)에서 세그먼트를 만드는 방법을 확인하세요.
+* 예약된 전자 메일을 보거나 설정할 [사용자 지정된 보고서](https://support.google.com/analytics/answer/1033013?hl=en)를 만드는 중입니다. 사용자 지정 > 새 사용자 지정 보고서에서 을 참조하십시오.

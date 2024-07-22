@@ -15,7 +15,7 @@ ht-degree: 0%
 
 다음 기능은 18년 겨울 릴리스에 포함되어 있습니다. Marketo 버전에서 사용 가능한 기능이 있는지 확인하십시오.
 
-각 기능에 대한 자세한 문서를 보려면 제목 링크를 클릭하십시오. **참고**: 이 릴리스에 포함된 일부 기능에는 관련 문서가 없습니다. 한 주제에 여러 하위 머리글이 있는 경우 링크가 배치됩니다.
+각 기능에 대한 자세한 문서를 보려면 제목 링크를 클릭하십시오. **참고**: 이 릴리스에 포함된 일부 기능에 연결된 문서가 없습니다. 한 주제에 여러 하위 머리글이 있는 경우 링크가 배치됩니다.
 
 ## Campaign 성능 및 처리량 개선 {#campaign-performance-and-throughput-enhancements}
 
@@ -25,9 +25,9 @@ Marketo은 빅 데이터 아키텍처를 활용하여 트리거 캠페인 처리
 
 Salesforce CRM 통합에 대한 두 가지 개선 사항이 있습니다.
 
-* [Marketo 관리자 알림](/help/marketo/product-docs/core-marketo-concepts/miscellaneous/understanding-notifications/notification-types.md) 특정 CRM 동기화 실패(자격 증명이 만료됨, API 제한에 도달함 등)에 대해
+* 특정 CRM 동기화 실패(자격 증명이 만료됨, API 제한에 도달함 등)에 대한 [Marketo 관리 알림](/help/marketo/product-docs/core-marketo-concepts/miscellaneous/understanding-notifications/notification-types.md)
 
-* [이메일 알림을 끄는 기능](/help/marketo/product-docs/crm-sync/salesforce-sync/setup/optional-steps/turn-off-email-notifications-to-lead-owner.md) 가망 고객 지정 시 가망 고객 소유자에게
+* 잠재 고객 할당 시 잠재 고객 소유자에 대한 [이메일 알림을 끄는 기능](/help/marketo/product-docs/crm-sync/salesforce-sync/setup/optional-steps/turn-off-email-notifications-to-lead-owner.md)
 
 이러한 개선 사항은 2018년에 걸쳐 제공될 예정입니다.
 
@@ -49,15 +49,15 @@ Salesforce 또는 Microsoft Dynamics를 사용하는 ABM 고객의 경우 ABM은
 
 ## 이메일 마케팅 {#email-marketing}
 
-**[동적 이메일 스크립트](/help/marketo/product-docs/email-marketing/general/using-tokens/create-an-email-script-token.md)**
+**[동적 전자 메일 스크립트](/help/marketo/product-docs/email-marketing/general/using-tokens/create-an-email-script-token.md)**
 
 이제 다이내믹 콘텐츠를 사용하는 이메일에서 속도 스크립팅이 지원됩니다. 속도 및 세그먼테이션 기반의 다이내믹 콘텐츠를 결합하여 고도로 개인화된 이메일을 만듭니다.
 
-**수신자 시간대**
+**받는 사람 시간대**
 
-* **[월간 육성 케이던스](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/scheduling-with-recipient-time-zone/schedule-email-programs-with-recipient-time-zone.md)**: 월간 케이던스로 육성 프로그램을 예약하는 기능이 추가되었습니다.
+* **[월별 케이던스](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/scheduling-with-recipient-time-zone/schedule-email-programs-with-recipient-time-zone.md)**: 월별 케이던스로 육성 프로그램을 예약하는 기능이 추가되었습니다.
 
-* **[게재 중지](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/scheduling-with-recipient-time-zone/abort-delivery-of-email-programs-scheduled-with-recipient-time-zone.md)**: 이제 나머지 전송 중간 실행을 중지할 수 있습니다.
+* **[게재 중지](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/scheduling-with-recipient-time-zone/abort-delivery-of-email-programs-scheduled-with-recipient-time-zone.md)**: 이제 나머지 전송 중간을 중지할 수 있습니다.
 
 ## 광고 네트워크 통합 {#ad-network-integrations}
 
@@ -69,15 +69,15 @@ Salesforce 또는 Microsoft Dynamics를 사용하는 ABM 고객의 경우 ABM은
 
 이제 새로운 LinkedIn API를 사용하여 여러 LinkedIn Campaign Manager 계정에서 Marketo 데이터베이스의 사용자를 다시 타깃팅할 수 있습니다.
 
-## 웹 개인화 {#web-personalization}
+## 웹 Personalization {#web-personalization}
 
-**웹 개인화를 위한 일본어 데이터 소스**
+**Web Personalization용 일본어 데이터 Source**
 
-Marketo은 웹 방문자 식별(역방향 IP 조회)과 일본에서 들어오는 방문자에 대한 개인화를 개선하기 위해 웹 개인화에 대한 일본어 데이터 소스를 추가할 예정입니다. 조직 이름은 일본어로 표시됩니다.
+Marketo은 일본에서 들어오는 방문자에 대한 웹 방문자 식별(역방향 IP 조회) 및 개인화를 개선하기 위해 Web Personalization에 대한 일본어 데이터 소스를 추가할 예정입니다. 조직 이름은 일본어로 표시됩니다.
 
 **[정적 목록을 사용하여 웹 세그먼트 만들기](/help/marketo/product-docs/web-personalization/using-web-segments/create-a-segment-using-a-static-list.md)**
 
-웹 개인화는 이제 마케팅 활동(MLM)에 정의된 정적 목록의 일부인 알려진 웹 방문자에게 콘텐츠를 개인화할 수 있습니다. 이제 이 향상된 기능을 통해 채널 전반의 정적 목록을 마케팅하고 웹 사이트에 개인화된 콘텐츠를 사용하여 이러한 목록의 사용자를 타깃팅할 수 있습니다.
+이제 웹 Personalization은 마케팅 활동(MLM)에 정의된 정적 목록의 일부인 알려진 웹 방문자에게 콘텐츠를 개인화할 수 있습니다. 이제 이 향상된 기능을 통해 채널 전반의 정적 목록을 마케팅하고 웹 사이트에 개인화된 콘텐츠를 사용하여 이러한 목록의 사용자를 타깃팅할 수 있습니다.
 
 ## ContentAI {#contentai}
 
@@ -95,12 +95,12 @@ Marketo의 최적화된 ContentAI 알고리즘을 통해 권장되는 콘텐츠�
 
 **업데이트 구독 취소**
 
-2018년 3월 1일부터 모든 이메일이 [ToutApp.com](https://ToutApp.com) (그리고 Salesforce에서 &quot;Email with Tout&quot; 단추를 사용하면) 맨 아래에 구독 취소 링크가 추가됩니다.
+2018년 3월 1일부터 [ToutApp.com](https://ToutApp.com)과(와) Salesforce의 &quot;Email with Tout&quot; 단추를 사용하여 보내는 모든 전자 메일의 맨 아래에 구독 취소 링크가 추가됩니다.
 
 **라이브 피드 업데이트**
 
 영업 멤버가 라이브 피드에서 직접 고객의 활동에 보다 쉽고 빠르게 응답할 수 있도록 참여 및 작업 탭의 모양과 느낌을 업데이트했습니다.
 
-**직원 세부 정보 보기 업데이트**
+**사람 세부 정보 보기 업데이트**
 
 향상된 사용자 세부 정보 보기(PDV)에서는 Tout 및 Salesforce CRM 연락처 세부 정보를 통합하여 연락처를 종합적으로 볼 수 있습니다.

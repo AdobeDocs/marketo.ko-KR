@@ -7,7 +7,7 @@ feature: Forms
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '103'
-ht-degree: 0%
+ht-degree: 1%
 
 ---
 
@@ -15,19 +15,19 @@ ht-degree: 0%
 
 양식의 리치 텍스트 를 사용하여 필드 사이에 지침이나 기타 정보를 추가할 수 있습니다. 확인해 봐.
 
-1. 다음으로 이동 **마케팅 활동**.
+1. **마케팅 활동**(으)로 이동합니다.
 
    ![](assets/login-marketing-activities-2.png)
 
-1. 양식을 선택하고 **양식 편집**.
+1. 양식을 선택하고 **양식 편집**&#x200B;을 클릭합니다.
 
    ![](assets/image2014-9-15-16-3a46-3a7.png)
 
-1. 다음을 클릭합니다. **+** 서명.
+1. **+** 기호를 클릭합니다.
 
    ![](assets/image2014-9-15-16-3a46-3a43.png)
 
-1. 선택 **리치 텍스트**.
+1. **서식 있는 텍스트**&#x200B;를 선택하십시오.
 
    ![](assets/image2014-9-15-16-3a47-3a9.png)
 
@@ -39,15 +39,15 @@ ht-degree: 0%
    >
    >양식에 줄 구분자가 필요한 경우 가로 줄 단추를 사용합니다.
 
-1. 클릭 **저장**.
+1. **저장**&#x200B;을 클릭합니다.
 
    ![](assets/image2014-9-15-16-3a48-3a18.png)
 
-1. 클릭 **완료**.
+1. **마침**&#x200B;을 클릭합니다.
 
    ![](assets/image2014-9-15-16-3a48-3a36.png)
 
-1. 클릭 **승인 및 닫기**.
+1. **승인 및 닫기**&#x200B;를 클릭합니다.
 
    ![](assets/image2014-9-15-16-3a48-3a51.png)
 
@@ -57,4 +57,4 @@ ht-degree: 0%
 
 >[!TIP]
 >
->너도 할 수 있다는 거 알고 있었어? [가시성 규칙 추가](/help/marketo/product-docs/demand-generation/forms/form-fields/dynamically-toggle-visibility-of-a-form-field.md) 서식 있는 텍스트 블록에 연결하시겠습니까?
+>리치 텍스트 블록에 [가시성 규칙을 추가](/help/marketo/product-docs/demand-generation/forms/form-fields/dynamically-toggle-visibility-of-a-form-field.md)할 수도 있다는 사실을 알고 계십니까?

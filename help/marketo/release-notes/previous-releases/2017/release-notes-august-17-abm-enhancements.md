@@ -6,7 +6,7 @@ exl-id: 3ba6319a-c5a3-4623-8d8e-0b246b29f17e
 feature: Release Information
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
-source-wordcount: '199'
+source-wordcount: '203'
 ht-degree: 0%
 
 ---
@@ -19,7 +19,7 @@ ht-degree: 0%
 
 ## 계정 인사이트 {#account-insight}
 
-**[계정 인사이트](/help/marketo/product-docs/target-account-management/setup-tam/account-insight-plug-in-overview.md)** 는 판매 팀에 실행 가능한 ABM 및 계정 통찰력을 제공하는 Google Chrome 플러그인으로, 마케팅 팀과 긴밀히 협력하여 고객을 효과적으로 참여시킬 수 있습니다. 영업 팀은 보유하고 있는 각 명명 계정에 대해 생성된 데이터와 통찰력을 확인할 수 있습니다. 여기에는 계정 점수 백분위, 명명된 계정의 우선 순위 목록, 해당 계정 내의 참여 사용자 및 계정의 최근 활동에 대한 라이브 활동 스트림이 포함됩니다.
+**[계정 인사이트](/help/marketo/product-docs/target-account-management/setup-tam/account-insight-plug-in-overview.md)**&#x200B;는 실행 가능한 ABM 및 계정 인사이트를 영업 팀에 제공하는 Google Chrome 플러그인으로, 영업 팀이 마케팅과 긴밀히 협력하여 계정을 효과적으로 참여하도록 합니다. 영업 팀은 보유하고 있는 각 명명 계정에 대해 생성된 데이터와 통찰력을 확인할 수 있습니다. 여기에는 계정 점수 백분위, 명명된 계정의 우선 순위 목록, 해당 계정 내의 참여 사용자 및 계정의 최근 활동에 대한 라이브 활동 스트림이 포함됩니다.
 
 ![](assets/image001.png) ![](assets/image002.png)
 
@@ -27,6 +27,6 @@ ht-degree: 0%
 
 ## [동적 계정 목록](/help/marketo/product-docs/target-account-management/target/account-lists.md) {#dynamic-account-lists}
 
-ABM에서 계정 목록을 만드는 새로운 방법을 추가하고 있습니다. 이제 기존 계정 목록 외에도 공개 CRM 계정 보기에서 생성된 동적 계정 목록을 만들 수 있습니다. CRM 계정 보기는 계정을 표시할 때 필터 역할을 하는 규칙 세트입니다. 예를 들어, 산업 이 의료 서비스인 계정을 찾는 데 사용할 수 있습니다 _및_ 매출은 1억 달러가 넘습니다.
+ABM에서 계정 목록을 만드는 새로운 방법을 추가하고 있습니다. 이제 기존 계정 목록 외에도 공개 CRM 계정 보기에서 생성된 동적 계정 목록을 만들 수 있습니다. CRM 계정 보기는 계정을 표시할 때 필터 역할을 하는 규칙 세트입니다. 예를 들어, 업종이 의료 분야인 _과(와)_ 매출액이 1억 달러 이상인 계정을 찾는 데 사용할 수 있습니다.
 
 ![](assets/dynamic-account-list-menu-5b14-5d-copy.png)

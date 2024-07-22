@@ -16,7 +16,7 @@ ht-degree: 0%
 
 자동 로그인을 사용하려면:
 
-* [로그인 관리 설정](/help/marketo/product-docs/marketo-sales-insight/actions/admin/login-management-settings.md) 은(는) &quot;Salesforce만&quot;으로 설정해야 합니다.
+* [로그인 관리 설정](/help/marketo/product-docs/marketo-sales-insight/actions/admin/login-management-settings.md)은(는) &quot;Salesforce만&quot;으로 설정해야 합니다.
 
 * Sales Insight Actions 을 사용하려면 해당 사용자가 초대되어야 합니다.
 

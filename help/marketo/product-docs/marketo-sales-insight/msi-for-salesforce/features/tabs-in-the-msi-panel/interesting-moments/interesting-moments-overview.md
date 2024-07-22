@@ -27,11 +27,11 @@ ht-degree: 0%
 
 >[!TIP]
 >
->**적은 것이 많은 것**. 영업 팀과 협력하여 흥미로운 순간이 실제로 흥미로운지 확인합니다.
+>**적은 값이**&#x200B;보다 큽니다. 영업 팀과 협력하여 흥미로운 순간이 실제로 흥미로운지 확인합니다.
 
 재미있는 순간에 토큰을 사용하여 매우 유용한 동적 설명을 만들 수도 있습니다.
 
 >[!MORELIKETHIS]
 >
->* [즐거운 순간 사용](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/features/tabs-in-the-msi-panel/interesting-moments/using-interesting-moments.md)
+>* [관심 있는 순간 사용](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/features/tabs-in-the-msi-panel/interesting-moments/using-interesting-moments.md)
 >* [즐거운 순간을 위한 토큰](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/features/tabs-in-the-msi-panel/interesting-moments/trigger-tokens-for-interesting-moments.md)

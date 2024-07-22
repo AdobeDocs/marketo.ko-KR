@@ -35,7 +35,7 @@ ht-degree: 0%
    >
    >텍스트 크기가 너무 크면 컨텐츠가 보이는 최대 3개의 텍스트 줄을 초과할 수 있습니다.
 
-1. 강조를 위해 선택적 유형 스타일을 선택합니다. **굵게**, _기울임꼴_, 또는 밑줄.
+1. 선택적 형식 스타일을 선택하십시오. 강조할 형식: **굵게**, _기울임꼴_ 또는 밑줄.
 
    ![](assets/image2016-5-6-10-3a15-3a32.png)
 
@@ -67,7 +67,7 @@ ht-degree: 0%
 
    ![](assets/image2016-5-6-10-3a29-3a2.png)
 
-1. 드롭다운에서 내 토큰 을 선택하고 기본값을 추가한 다음 을 클릭합니다. **삽입**.
+1. 드롭다운에서 [내 토큰]을 선택하고 기본값을 추가한 다음 **삽입**&#x200B;을 클릭합니다.
 
    ![](assets/mytoken.png)
 
@@ -81,9 +81,9 @@ ht-degree: 0%
 
    승인된 인앱 메시지 프로그램에서 사용된 토큰에 대한 변경 사항은 프로그램이 일시 중지되었다가 다시 시작될 때까지 인앱 메시지에 적용되지 않습니다.
 
-넌 금덩이야 다음으로, 다음을 수행해야 합니다 [인앱 메시지 단추 설정](/help/marketo/product-docs/mobile-marketing/in-app-messages/creating-in-app-messages/set-up-the-in-app-message-button.md).
+넌 금덩이야 [인앱 메시지 단추를 설정](/help/marketo/product-docs/mobile-marketing/in-app-messages/creating-in-app-messages/set-up-the-in-app-message-button.md)해야 합니다.
 
 >[!MORELIKETHIS]
 >
 >* [인앱 메시지 이해](/help/marketo/product-docs/mobile-marketing/in-app-messages/understanding-in-app-messages.md)
->* [인앱 메시지의 레이아웃 선택](/help/marketo/product-docs/mobile-marketing/in-app-messages/creating-in-app-messages/choose-a-layout-for-your-in-app-message.md)
+>* [인앱 메시지의 레이아웃을 선택하십시오](/help/marketo/product-docs/mobile-marketing/in-app-messages/creating-in-app-messages/choose-a-layout-for-your-in-app-message.md)

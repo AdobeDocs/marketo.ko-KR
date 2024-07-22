@@ -15,7 +15,7 @@ ht-degree: 0%
 
 경우에 따라 잘못된 필드를 보고서에 드래그할 수 있습니다. 제거 방법은 다음과 같습니다.
 
-1. 제거할 필드를 다음으로 드래그 **휴지통** 아이콘(보고서 오른쪽 하단).
+1. 제거할 필드를 보고서의 오른쪽 하단에 있는 **휴지통** 아이콘으로 드래그합니다.
 
    ![](assets/image2015-3-24-16-3a40-3a13.png)
 
@@ -25,4 +25,4 @@ ht-degree: 0%
 
 >[!MORELIKETHIS]
 >
->[수익 탐색기 보고서 저장](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-explorer/saving-a-revenue-explorer-report.md)
+>[매출 탐색기 보고서 저장](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-explorer/saving-a-revenue-explorer-report.md)

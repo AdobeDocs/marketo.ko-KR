@@ -2,10 +2,10 @@
 description: WR-YYYY-MM-Web 요청 프로그램 - Marketo 문서 - 제품 설명서
 title: WR-YYYY-MM-Web 요청 프로그램
 feature: Programs
-exl-id: 539dfd08-eed8-4fac-b976-7fe43f5d24b3
-source-git-commit: 38274b4859ae38c018ee73d4f1715fdf6a78e815
+exl-id: 4acaa2d0-3329-4027-acbd-ae2e0ec6f7c5
+source-git-commit: c16081143588ebc0793f5b6e2630b58348e27124
 workflow-type: tm+mt
-source-wordcount: '402'
+source-wordcount: '400'
 ht-degree: 3%
 
 ---
@@ -14,7 +14,7 @@ ht-degree: 3%
 
 Marketo Engage 기본 프로그램을 활용하는 연락처 요청, 견적 요청, 데모 요청 또는 체험판 요청 양식에 적합한 예제 프로그램입니다. Marketo 랜딩 페이지와 함께 사용하거나 Marketo이 아닌 랜딩 페이지에 임베드된 양식으로 사용할 수 있습니다. 경고 이메일은 양식 제출 시 지정된 개인에게 전송됩니다.
 
-추가적인 전략 지원 또는 프로그램 맞춤화에 대한 도움말을 보려면 Adobe 계정 팀에 문의하거나 [Adobe Professional Services](https://business.adobe.com/customers/consulting-services/main.html){target="_blank"} 페이지를 가리키도록 업데이트하는 중입니다.
+추가 전략 지원 또는 프로그램 사용자 지정에 도움이 필요하면 Adobe 계정 팀에 문의하거나 [Adobe Professional Services](https://business.adobe.com/customers/consulting-services/main.html){target="_blank"} 페이지를 방문하십시오.
 
 ## 채널 요약 {#channel-summary}
 
@@ -30,12 +30,12 @@ Marketo Engage 기본 프로그램을 활용하는 연락처 요청, 견적 요�
    <td>웹 요청</td> 
    <td>01 - 참여 - 성공</td>
    <td>포함</td>
-   <td>기본값</td>
+   <td>기본</td>
   </tr>
  </tbody> 
 </table>
 
-## 프로그램에 다음 자산이 포함되어 있습니다. {#program-contains-the-following-assets}
+## 프로그램에는 다음 Assets이 포함되어 있습니다 {#program-contains-the-following-assets}
 
 <table style="table-layout:auto"> 
  <tbody> 
@@ -82,7 +82,7 @@ Marketo Engage 기본 프로그램을 활용하는 연락처 요청, 견적 요�
   <tr> 
    <td>폴더</td> 
    <td> </td>
-   <td>Assets - 모든 크리에이티브 에셋을 저장합니다. 
+   <td>Assets - 모든 크리에이티브 에셋 보유 
 <br/>(경고 및 랜딩 페이지의 하위 폴더)</td>
   </tr>
   <tr> 
@@ -140,20 +140,20 @@ Marketo Engage 기본 프로그램을 활용하는 연락처 요청, 견적 요�
 ## 충돌 규칙 {#conflict-rules}
 
 * **프로그램 태그**
-   * 이 구독에서 태그 만들기 - _추천_
+   * 이 구독에서 태그 만들기 - _권장_
    * 무시
 
-* **동일한 이름의 랜딩 페이지 템플릿**
+* **같은 이름의 랜딩 페이지 템플릿**
    * 원본 템플릿 복사
-   * 대상 템플릿 사용 - _추천_
+   * 대상 템플릿 사용 - _권장_
 
 * **이름이 같은 이미지**
    * 두 파일 모두 보관
-   * 이 구독의 항목 바꾸기 - _추천_
+   * 이 구독의 항목 바꾸기 - _권장_
 
-* **이름이 같은 이메일 템플릿**
+* **같은 이름의 전자 메일 서식 파일**
    * 두 템플릿 모두 유지
-   * 기존 템플릿 바꾸기 - _추천_
+   * 기존 템플릿 바꾸기 - _권장_
 
 ## 우수 사례 {#best-practices}
 

@@ -6,7 +6,7 @@ exl-id: 59ff940f-368c-4e71-9e1f-a6f959811841
 feature: SEO
 source-git-commit: d9ea30742b6ef3b6299284a1f446a69f15105379
 workflow-type: tm+mt
-source-wordcount: '253'
+source-wordcount: '258'
 ht-degree: 0%
 
 ---
@@ -15,13 +15,13 @@ ht-degree: 0%
 
 대시보드를 사용하여 키워드 등급의 트렌드와 사이트가 SEO에 맞게 최적화된 방식에 대한 높은 수준의 보기를 얻을 수 있습니다.
 
-SEO 노력을 개선하기 위해 초점을 맞추려면 [[!UICONTROL Recommendations]](/help/marketo/product-docs/additional-apps/seo/understanding-seo/understanding-the-seo-dashboard-seo-recommendations.md) 섹션 을 참조하십시오.
+SEO 작업 개선을 위해 집중해야 할 사항을 알아보려면 이 대시보드의 [[!UICONTROL Recommendations]](/help/marketo/product-docs/additional-apps/seo/understanding-seo/understanding-the-seo-dashboard-seo-recommendations.md) 섹션을 사용하십시오.
 
 ![](assets/image2014-9-17-21-3a32-3a22.png)
 
 ## [!UICONTROL 키워드 등급 요약] {#keyword-rank-summary}
 
-이 섹션에서는 사이트에 대한 등급이 어떻게 지정되는지 보여줍니다. [타깃팅하는 키워드](/help/marketo/product-docs/additional-apps/seo/keywords/seo-add-keywords.md).
+이 섹션에서는 타깃팅하는 [키워드](/help/marketo/product-docs/additional-apps/seo/keywords/seo-add-keywords.md)에 대해 사이트가 어떻게 순위가 매겨졌는지 보여줍니다.
 
 ![](assets/image2014-9-17-21-3a34-3a5.png)
 
@@ -33,7 +33,7 @@ SEO 노력을 개선하기 위해 초점을 맞추려면 [[!UICONTROL Recommenda
 
 >[!TIP]
 >
->또한 이(가) [특정 목록](/help/marketo/product-docs/additional-apps/seo/keywords/seo-add-remove-keywords-from-a-list.md) of 키워드가 수행되고 있습니다. 드롭다운을 클릭하고 원하는 항목을 선택합니다.
+>[특정 키워드 목록](/help/marketo/product-docs/additional-apps/seo/keywords/seo-add-remove-keywords-from-a-list.md)이 수행되는 방식을 확인할 수도 있습니다. 드롭다운을 클릭하고 원하는 항목을 선택합니다.
 
 >[!NOTE]
 >
@@ -53,7 +53,7 @@ Average Page Optimization Score는 1에서 100 사이의 크기로 사이트의 
 
 ## [!UICONTROL 키워드 등급 트렌드] {#keyword-rank-trends}
 
-다음 [!UICONTROL 키워드 등급 트렌드] 그래프는 5개의 가장 높은 월별 검색 볼륨으로 키워드를 가져오고 시간 경과에 따라 키워드의 순위를 차트로 표시합니다.
+[!UICONTROL 키워드 순위 트렌드] 그래프는 월간 검색량이 5개인 키워드를 가져오고 시간 경과에 따라 키워드의 순위를 매깁니다.
 
 >[!TIP]
 >
@@ -61,7 +61,7 @@ Average Page Optimization Score는 1에서 100 사이의 크기로 사이트의 
 
 ![](assets/image2014-9-17-21-3a37-3a1.png)
 
-이제 다음을 확인해 보겠습니다. [!UICONTROL Recommendations] 섹션 을 참조하십시오.
+이제 이 대시보드의 [!UICONTROL Recommendations] 섹션을 확인해 보겠습니다.
 
 >[!MORELIKETHIS]
 >

@@ -18,16 +18,16 @@ Salesforce에 Sales Connect를 연결하려고 할 때 &quot;요청을 인증할
 ## 사용자 권한에서 API 활성화 {#enable-api-in-user-permissions}
 
 1. Salesforce 관리자가 SFDC에 로그인하도록 합니다.
-1. 선택 **설정**.
-1. 선택 **사용자 관리**.
-1. 선택 **프로필**.
-1. ToutApp 사용자가 속한 프로필을 찾아 **편집**.
-1. 아래로 스크롤하여 **관리 권한** 그리고 확실히 **API 활성화됨** 이(가) 선택되었습니다.
+1. **설치**&#x200B;를 선택하십시오.
+1. **사용자 관리**&#x200B;를 선택합니다.
+1. **프로필**&#x200B;을 선택하세요.
+1. ToutApp 사용자가 속한 프로필을 찾은 다음 **편집**&#x200B;을 클릭합니다.
+1. **관리 권한**(으)로 스크롤하여 **API 사용**&#x200B;을(를) 확인합니다.
 
 ## Salesforce가 Sales Connect의 연결을 차단하는지 확인 {#check-if-salesforce-is-blocking-sales-connect-from-connecting}
 
 1. Salesforce 관리자가 SFDC에 로그인하도록 합니다.
-1. 선택 **설정**.
-1. 선택 **앱 관리**.
-1. 선택 **연결된 앱 OAuth 사용**.
+1. **설치**&#x200B;를 선택하십시오.
+1. **앱 관리**&#x200B;를 선택합니다.
+1. **연결된 앱 OAuth 사용**&#x200B;을 선택합니다.
 1. Sales Connect 옆에 &quot;Block&quot;이 표시되어 있는지 확인합니다. &quot;차단 해제&quot;가 표시되면 버튼을 클릭하여 Salesforce에 대한 Sales Connect의 액세스 차단을 해제합니다.

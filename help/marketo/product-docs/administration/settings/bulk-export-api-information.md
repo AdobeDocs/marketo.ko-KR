@@ -12,17 +12,17 @@ ht-degree: 0%
 
 # 일괄 내보내기 API 정보 {#bulk-export-api-information}
 
-양을 확인하는 방법 알아보기 [대량 추출 API](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/rest/bulk-extract/bulk-extract){target="_blank"} 지난 7일 동안 Marketo Engage 인스턴스에서 용량을 차지했습니다.
+지난 7일 동안 Marketo Engage 인스턴스에 의해 [대량 추출 API](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/rest/bulk-extract/bulk-extract){target="_blank"} 용량이 얼마나 사용되었는지 확인하는 방법을 알아봅니다.
 
 >[!NOTE]
 >
 >추가 용량이 필요한 경우 계정 담당자에게 문의하십시오.
 
-1. 로 이동 **[!UICONTROL 관리자]** 영역입니다.
+1. **[!UICONTROL 관리자]** 영역으로 이동합니다.
 
    ![](assets/bulk-export-api-information-1.png)
 
-1. 클릭 **[!UICONTROL 웹 서비스]**.
+1. **[!UICONTROL 웹 서비스]**&#x200B;를 클릭합니다.
 
    ![](assets/bulk-export-api-information-2.png)
 

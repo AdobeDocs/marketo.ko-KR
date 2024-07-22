@@ -6,7 +6,7 @@ exl-id: 4d1ca9b6-e269-4982-9c0c-cf12363feafb
 feature: Release Information
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
-source-wordcount: '432'
+source-wordcount: '441'
 ht-degree: 0%
 
 ---
@@ -72,7 +72,7 @@ _Pro 및 Enterprise 버전에서 사용 가능_
 * Mozilla Firefox 9.0
 * Google Chrome 16
 * Microsoft Internet Explorer 8 및 9
-* **참고**: Internet Explorer 7은 더 이상 지원되지 않습니다
+* **참고**: Internet Explorer 7은 더 이상 지원되지 않습니다.
 
 ## 프로그램 관리 {#program-management}
 

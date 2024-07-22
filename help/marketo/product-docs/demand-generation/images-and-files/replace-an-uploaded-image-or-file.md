@@ -13,15 +13,15 @@ ht-degree: 0%
 
 # 업로드한 이미지 또는 파일 바꾸기 {#replace-an-uploaded-image-or-file}
 
-1. 로 이동 **[!UICONTROL Design Studio]**.
+1. **[!UICONTROL 디자인 스튜디오]**(으)로 이동합니다.
 
    ![](assets/replace-an-uploaded-image-or-file-1.png)
 
-1. 클릭 **[!UICONTROL 이미지 및 파일]**.
+1. **[!UICONTROL 이미지 및 파일]**&#x200B;을 클릭합니다.
 
    ![](assets/replace-an-uploaded-image-or-file-2.png)
 
-1. 바꿀 자산을 선택합니다. 다음을 클릭합니다. **[!UICONTROL 이미지 및 파일 작업]** 드롭다운 및 선택 **[!UICONTROL 이미지 또는 파일 바꾸기]**.
+1. 바꿀 자산을 선택합니다. **[!UICONTROL 이미지 및 파일 작업]** 드롭다운을 클릭하고 **[!UICONTROL 이미지 또는 파일 바꾸기]**&#x200B;를 선택합니다.
 
    ![](assets/replace-an-uploaded-image-or-file-3.png)
 
@@ -33,7 +33,7 @@ ht-degree: 0%
    >
    >대체 파일 유형은 원본(예: .jpg)과 동일해야 합니다.
 
-1. 대체 이미지/파일을 선택한 후 **[!UICONTROL 바꾸기]**.
+1. 대체 이미지/파일을 선택한 후 **[!UICONTROL 바꾸기]**&#x200B;를 클릭합니다.
 
    ![](assets/replace-an-uploaded-image-or-file-5.png)
 

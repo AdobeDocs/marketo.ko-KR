@@ -6,8 +6,8 @@ exl-id: 9b4cdb6b-9969-4427-9ae3-f6d08430f10f
 feature: Mobile Marketing
 source-git-commit: 0abb315be0f9cb5f42fa41d72b446de8c2f62c1e
 workflow-type: tm+mt
-source-wordcount: '139'
-ht-degree: 1%
+source-wordcount: '131'
+ht-degree: 0%
 
 ---
 
@@ -25,11 +25,11 @@ ht-degree: 1%
 
    ![](assets/image2015-7-14-16-3a44-3a7.png)
 
-1. 누르기 **[!UICONTROL 샘플 보내기]**.
+1. **[!UICONTROL 샘플 보내기]**&#x200B;를 탭합니다.
 
    ![](assets/image2015-7-14-16-3a40-3a54.png)
 
-1. 이메일 주소를 입력하고 클릭 **[!UICONTROL 샘플 보내기]**.
+1. 전자 메일 주소를 입력하고 **[!UICONTROL 샘플 보내기]**&#x200B;를 클릭하세요.
 
    ![](assets/image2015-7-14-17-3a2-3a32.png)
 

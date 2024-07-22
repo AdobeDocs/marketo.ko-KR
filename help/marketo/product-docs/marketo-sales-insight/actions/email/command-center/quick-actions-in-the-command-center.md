@@ -6,7 +6,7 @@ feature: Sales Insight Actions
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '318'
-ht-degree: 4%
+ht-degree: 3%
 
 ---
 
@@ -18,7 +18,7 @@ ht-degree: 4%
 
 전자 메일 빠른 작업은 보고 있는 전자 메일의 상태에 대해 가장 관련성이 높은 작업에 따라 동적이고 업데이트됩니다. 각 이메일 상태에 대해 최대 2개의 이메일 빠른 작업이 표시됩니다. 각 상태에 대해 사용할 수 있는 이메일 빠른 작업은 아래에서 확인할 수 있습니다.
 
-**게재됨**
+**배달됨**
 
 | 상태 | 설명 |
 |---|---|
@@ -39,7 +39,7 @@ ht-degree: 4%
   </tr> 
   <tr> 
    <td>삭제</td> 
-   <td><p>이메일을 삭제합니다.<br><strong>참고:</strong> 캠페인의 일부로 전송된 이메일은 삭제할 수 없습니다.</p></td> 
+   <td><p>이메일을 삭제합니다.<br><strong>참고:</strong> 캠페인의 일부로 전송된 전자 메일은 삭제할 수 없습니다.</p></td> 
   </tr> 
  </tbody> 
 </table>
@@ -58,7 +58,7 @@ ht-degree: 4%
   </tr> 
   <tr> 
    <td>삭제</td> 
-   <td><p>이메일을 삭제합니다.<br><strong>참고:</strong> 캠페인의 일부로 전송된 이메일은 삭제할 수 없습니다.</p></td> 
+   <td><p>이메일을 삭제합니다.<br><strong>참고:</strong> 캠페인의 일부로 전송된 전자 메일은 삭제할 수 없습니다.</p></td> 
   </tr> 
  </tbody> 
 </table>
@@ -77,7 +77,7 @@ ht-degree: 4%
   </tr> 
   <tr> 
    <td>삭제</td> 
-   <td><p>이메일을 삭제합니다.<br><strong>참고:</strong> 캠페인의 일부로 전송된 이메일은 삭제할 수 없습니다.</p></td> 
+   <td><p>이메일을 삭제합니다.<br><strong>참고:</strong> 캠페인의 일부로 전송된 전자 메일은 삭제할 수 없습니다.</p></td> 
   </tr> 
  </tbody> 
 </table>

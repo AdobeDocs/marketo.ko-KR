@@ -17,11 +17,11 @@ ht-degree: 1%
 
 >[!PREREQUISITES]
 >
->[이메일 챔피언/챌린저 추가](/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/email-tests-champion-challenger/add-an-email-champion-challenger.md)
+>[전자 메일 챔피언/도전자 추가](/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/email-tests-champion-challenger/add-an-email-champion-challenger.md)
 
 ## 표준 챔피언 기준 {#standard-champion-criteria}
 
-1. 사용 가능한 항목 중 하나 선택 **챔피언 기준**.
+1. 사용 가능한 **챔피언 기준** 중 하나를 선택하십시오.
 
    ![](assets/image2014-9-15-13-3a1-3a15.png)
 
@@ -29,11 +29,11 @@ ht-degree: 1%
    >
    >이 지표를 추적하고 데이터가 포함된 보고서를 이메일로 보냅니다.
 
-1. 기본값 중 하나를 선택한 경우 **챔피언 기준**, 계속 진행하여 다음으로 이동 [챔피언/챌린저: 보고서 경고 구성](/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/email-tests-champion-challenger/champion-challenger-configure-report-alerts.md)!
+1. 기본 **챔피언 기준** 중 하나를 선택한 경우 [챔피언/챌린저: 보고서 알림 구성](/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/email-tests-champion-challenger/champion-challenger-configure-report-alerts.md)(으)로 이동하십시오.
 
 ## 사용자 정의 챔피언 기준 {#custom-champion-criteria}
 
-1. 화려해지고 싶다면, 다음을 선택하여 맞춤화할 수 있습니다. **사용자 지정 전환** 및 클릭 **편집**.
+1. 원하는 경우 **사용자 지정 전환**&#x200B;을 선택하고 **편집**&#x200B;을 클릭하여 사용자 지정할 수 있습니다.
 
    ![](assets/image2014-9-15-13-3a2-3a52.png)
 
@@ -59,4 +59,4 @@ ht-degree: 1%
 
    >[!MORELIKETHIS]
    >
-   >[챔피언/챌린저: 보고서 경고 구성](/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/email-tests-champion-challenger/champion-challenger-configure-report-alerts.md)
+   >[챔피언/챌린저: 보고서 알림 구성](/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/email-tests-champion-challenger/champion-challenger-configure-report-alerts.md)

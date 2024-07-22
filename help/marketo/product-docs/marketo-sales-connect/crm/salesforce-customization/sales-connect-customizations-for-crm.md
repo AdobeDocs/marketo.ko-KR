@@ -6,14 +6,14 @@ exl-id: c7344ec2-a16b-48a1-8e39-1bbd2818db80
 feature: Marketo Sales Connect
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
-source-wordcount: '735'
-ht-degree: 1%
+source-wordcount: '701'
+ht-degree: 0%
 
 ---
 
 # CRM용 Sales Connect 사용자 지정 {#sales-connect-customizations-for-crm}
 
-아래 필드와 단추는 Salesforce CRM의 메타데이터 API에 의해 만들어집니다. 필드가 만들어지면 관리자는 해당 CRM에서 페이지 레이아웃을 구성하여 표시해야 합니다. 지침을 찾을 수 있음 [여기](https://s3.amazonaws.com/tout-user-store/salesforce/assets/Marketo+Sales+Engage+For+Salesforce_+Installation+and+Success+Guide.pdf).
+아래 필드와 단추는 Salesforce CRM의 메타데이터 API에 의해 만들어집니다. 필드가 만들어지면 관리자는 해당 CRM에서 페이지 레이아웃을 구성하여 표시해야 합니다. 지침은 [여기](https://s3.amazonaws.com/tout-user-store/salesforce/assets/Marketo+Sales+Engage+For+Salesforce_+Installation+and+Success+Guide.pdf)에서 찾을 수 있습니다.
 
 >[!NOTE]
 >
@@ -21,19 +21,19 @@ ht-degree: 1%
 
 ## Salesforce에서 사용자 지정을 설치하는 방법 {#how-to-install-customizations-in-salesforce}
 
-1. Sales Connect에서 톱니바퀴 아이콘을 클릭하고 **설정**.
+1. Sales Connect에서 톱니바퀴 아이콘을 클릭하고 **설정**&#x200B;을 선택합니다.
 
    ![](assets/one.png)
 
-1. 관리자 설정에서 을 선택합니다. **Salesforce**.
+1. 관리자 설정에서 **Salesforce**&#x200B;을(를) 선택합니다.
 
    ![](assets/two.png)
 
-1. 클릭 **Marketo Sales Connect 사용자 정의**.
+1. **Marketo Sales Connect 사용자 지정**&#x200B;을 클릭합니다.
 
    ![](assets/three.png)
 
-1. 클릭 **Salesforce에 연결**.
+1. **Salesforce에 연결**&#x200B;을 클릭합니다.
 
    ![](assets/four.png)
 
@@ -49,19 +49,19 @@ Salesforce 사용자 지정 패키지 업데이트에는 개선 사항 및 버�
 >
 >**관리자 권한이 필요합니다.**
 
-1. 다음에서 [웹 애플리케이션](https://www.toutapp.com), 톱니바퀴 아이콘 을 클릭하고 **설정**.
+1. [웹 응용 프로그램](https://www.toutapp.com)에서 톱니바퀴 아이콘을 클릭하고 **설정**&#x200B;을 선택합니다.
 
    ![](assets/sales-connect-customizations-for-crm-6.png)
 
-1. Admin Settings에서 **Salesforce**.
+1. 관리자 설정에서 **Salesforce**&#x200B;를 클릭합니다.
 
    ![](assets/sales-connect-customizations-for-crm-7.png)
 
-1. Sales Connect Customization 카드에 업데이트 가능 여부가 표시됩니다. 클릭 **사용자 지정 업데이트**.
+1. Sales Connect Customization 카드에 업데이트 가능 여부가 표시됩니다. **사용자 지정 업데이트**&#x200B;를 클릭합니다.
 
    ![](assets/sales-connect-customizations-for-crm-8.png)
 
-1. 클릭 **업그레이드**.
+1. **업그레이드**&#x200B;를 클릭합니다.
 
    ![](assets/sales-connect-customizations-for-crm-9.png)
 
@@ -75,7 +75,7 @@ Salesforce 사용자 지정 패키지 업데이트에는 개선 사항 및 버�
 
 ## 사용자 정의 활동 필드 {#custom-activity-fields}
 
-Marketo은 새 필드 생성을 감지한 다음, 데이터의 일회성 채우기, 다시 매핑 및 의 지속적인 값 동기화를 수행합니다. **신규** 필드만 해당됩니다. 이전 필드는 업데이트되지 않습니다.
+Marketo은 새 필드 만들기를 감지한 다음, 데이터의 일회성 채우기, 다시 매핑 및 **new** 필드에만 값의 지속적인 동기화를 수행합니다. 이전 필드는 업데이트되지 않습니다.
 
 | **필드 이름** | **설명** |
 |---|---|
@@ -118,8 +118,8 @@ Marketo은 새 필드 생성을 감지한 다음, 데이터의 일회성 채우�
    <td>참여에 대한 설명.</td> 
   </tr> 
   <tr> 
-   <td>MSE - 마지막 마케팅 참여 소스</td> 
-   <td>마케팅 활동의 소스.</td> 
+   <td>MSE - 마지막 마케팅 참여 Source</td> 
+   <td>Source 마케팅 참여.</td> 
   </tr> 
   <tr> 
    <td colspan="1">MSE - 마지막 마케팅 참여 유형</td> 
@@ -148,7 +148,7 @@ Marketo은 새 필드 생성을 감지한 다음, 데이터의 일회성 채우�
  </tbody> 
 </table>
 
-## 단추 {#buttons}
+## 버튼 {#buttons}
 
 | **단추 이름** | **설명** |
 |---|---|
@@ -166,8 +166,8 @@ Marketo은 새 필드 생성을 감지한 다음, 데이터의 일회성 채우�
 
 ## 사용 안내서 {#user-guides}
 
-[Salesforce의 MSE 맞춤형 보고서](https://docs.marketo.com/display/docs/assets/mse-custom-reports-in-sf.docx)
+Salesforce의 [MSE 사용자 지정 보고서](https://docs.marketo.com/display/docs/assets/mse-custom-reports-in-sf.docx)
 
-[Salesforce용 MSE](https://docs.marketo.com/display/docs/assets/mse-for-sf-classic.pdf)
+Salesforce용 [MSE](https://docs.marketo.com/display/docs/assets/mse-for-sf-classic.pdf)
 
-[Salesforce Lightning에 대한 MSE](https://s3.amazonaws.com/tout-user-store/salesforce/assets/SF+Guide+for+Lightning.pdf)
+Salesforce Lightning에 대한 [MSE](https://s3.amazonaws.com/tout-user-store/salesforce/assets/SF+Guide+for+Lightning.pdf)

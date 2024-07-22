@@ -21,17 +21,17 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->포함할 수 없는 항목 [Marketo 이메일 구문](/help/marketo/product-docs/email-marketing/general/email-editor-2/email-template-syntax.md)스니펫에서; 그것은 **아님** 이메일에서 작업. 스니펫은 본문 콘텐츠(HTML + 텍스트)여야 합니다.
+>[Marketo 전자 메일 구문](/help/marketo/product-docs/email-marketing/general/email-editor-2/email-template-syntax.md)을 스니펫에 포함할 수 없습니다. 전자 메일에는 **사용할 수 없습니다**. 스니펫은 본문 콘텐츠(HTML + 텍스트)여야 합니다.
 
-1. 이메일을 찾아 선택하고 **초안 편집**.
+1. 전자 메일을 찾아 선택하고 **초안 편집**&#x200B;을 클릭합니다.
 
    ![](assets/one-2.png)
 
-1. 코드 조각으로 변환할 편집 가능한 영역을 선택하고 톱니바퀴 아이콘을 클릭한 다음 을(를) 선택합니다 **코드 조각으로 바꾸기**.
+1. 코드 조각으로 변환할 편집 가능한 영역을 선택하고 톱니바퀴 아이콘을 클릭한 다음 **코드 조각으로 바꾸기**&#x200B;를 선택합니다.
 
    ![](assets/two-2.png)
 
-1. 원하는 코드 조각을 선택하고 **저장**.
+1. 원하는 코드 조각을 선택하고 **저장**&#x200B;을 클릭합니다.
 
    ![](assets/three-1.png)
 
@@ -43,6 +43,6 @@ ht-degree: 0%
 
    >[!NOTE]
    >
-   >코드 조각을 업데이트하고 승인할 때마다 변경 사항이 이메일에 반영됩니다. 이 코드 조각을 승인하지 않는 한 이메일이 작성됩니다. [초안 없음](/help/marketo/product-docs/administration/users-and-roles/enable-no-draft-for-snippets.md).
+   >코드 조각을 업데이트하고 승인할 때마다 변경 사항이 이메일에 반영됩니다. [초안 없음](/help/marketo/product-docs/administration/users-and-roles/enable-no-draft-for-snippets.md)을 사용하여 코드 조각을 승인하지 않는 한 전자 메일이 초안 처리됩니다.
 
 다이내믹 콘텐츠를 빠르고 간편하게 다시 사용할 수 있는 방법입니다.

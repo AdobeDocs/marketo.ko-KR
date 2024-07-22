@@ -15,7 +15,7 @@ ht-degree: 0%
 
 리드 피드는 리드가 수행하는 흥미로운 이벤트의 최신 목록입니다.
 
-1. 로 이동 **Marketo** Salesforce1의 영역입니다.
+1. Salesforce1의 **Marketo** 영역으로 이동합니다.
 
    ![](assets/image2015-4-20-15-3a14-3a15.png)
 
@@ -23,7 +23,7 @@ ht-degree: 0%
 
    ![](assets/image2015-4-23-17-3a7-3a16.png)
 
-1. 누르기 **리드 피드**.
+1. **잠재 고객 피드**&#x200B;를 탭하세요.
 
    ![](assets/image2015-4-23-17-3a19-3a16.png)
 
@@ -33,6 +33,6 @@ ht-degree: 0%
 
 >[!MORELIKETHIS]
 >
->* [Salesforce1의 흥미로운 순간](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/msi-for-mobile/interesting-moments-in-salesforce1.md)
->* [Salesforce1에서 Marketo 이메일, 캠페인 및 관심 목록 작업 보내기](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/msi-for-mobile/send-marketo-email-and-campaign-and-watchlist-actions-in-salesforce1.md)
->* [Salesforce1의 최상의 선택](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/msi-for-mobile/best-bets-in-salesforce1.md)
+>* [Salesforce의 흥미로운 순간1](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/msi-for-mobile/interesting-moments-in-salesforce1.md)
+>* [Salesforce1에서 Marketo 전자 메일 및 Campaign 및 Watchlist 작업 보내기](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/msi-for-mobile/send-marketo-email-and-campaign-and-watchlist-actions-in-salesforce1.md)
+>* [Salesforce에서 최상의 선택1](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/msi-for-mobile/best-bets-in-salesforce1.md)

@@ -15,11 +15,11 @@ ht-degree: 0%
 
 이미 만든 사용자 지정 활동을 변경해야 합니까? 방법은 다음과 같습니다.
 
-1. 로 이동 **[!UICONTROL 관리자]** 영역입니다.
+1. **[!UICONTROL 관리자]** 영역으로 이동합니다.
 
    ![](assets/edit-a-custom-activity-1.png)
 
-1. 클릭 **[!UICONTROL Marketo 사용자 지정 활동]**.
+1. **[!UICONTROL Marketo 사용자 지정 활동]**&#x200B;을 클릭합니다.
 
    ![](assets/edit-a-custom-activity-2.png)
 
@@ -27,7 +27,7 @@ ht-degree: 0%
 
    ![](assets/edit-a-custom-activity-3.png)
 
-1. 클릭 **[!UICONTROL 사용자 지정 활동 작업]** 및 선택 **[!UICONTROL 활동 편집]**.
+1. **[!UICONTROL 사용자 지정 활동 작업]**&#x200B;을 클릭하고 **[!UICONTROL 활동 편집]**&#x200B;을 선택합니다.
 
    ![](assets/edit-a-custom-activity-4.png)
 
@@ -35,7 +35,7 @@ ht-degree: 0%
 
    ![](assets/edit-a-custom-activity-5.png)
 
-1. 새 정보를 입력하고 **[!UICONTROL 제출]**.
+1. 새 정보를 입력하고 **[!UICONTROL 제출]**&#x200B;을 클릭합니다.
 
    ![](assets/edit-a-custom-activity-6.png)
 

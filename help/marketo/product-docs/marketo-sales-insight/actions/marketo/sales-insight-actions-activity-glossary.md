@@ -5,8 +5,8 @@ exl-id: fd0f632c-6f0d-49f9-a805-0730595c81fd
 feature: Sales Insight Actions
 source-git-commit: 02b2e39580c5eac63de4b4b7fdaf2a835fdd4ba5
 workflow-type: tm+mt
-source-wordcount: '554'
-ht-degree: 2%
+source-wordcount: '557'
+ht-degree: 5%
 
 ---
 
@@ -300,7 +300,7 @@ Sales Insight Actions에서 판매자: 판매 캠페인에 잠재 고객을 추�
   </tr> 
   <tr> 
    <td><strong>소스</strong></td> 
-   <td>활동의 소스. 2021년 10월 릴리스 이전의 Sales Insight Actions 활동에 대해 "Tout"으로 설정됩니다. 2021년 10월 릴리스 이후 Sales Insight Actions 활동에 대한 "Sales App"이 됩니다.</td>
+   <td>활동의 Source. 2021년 10월 릴리스 이전의 Sales Insight Actions 활동에 대해 "Tout"으로 설정됩니다. 2021년 10월 릴리스 이후 Sales Insight Actions 활동에 대한 "Sales App"이 됩니다.</td>
   </tr> 
   <tr> 
    <td><strong>템플릿 ID</strong></td> 

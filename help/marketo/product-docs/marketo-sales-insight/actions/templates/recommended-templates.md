@@ -5,7 +5,7 @@ exl-id: 079068c3-65e5-45c7-aa8e-63fadd1c5d02
 feature: Sales Insight Actions
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
-source-wordcount: '299'
+source-wordcount: '301'
 ht-degree: 0%
 
 ---
@@ -22,11 +22,11 @@ Sales Insight Action 의 권장 템플릿 을 사용하면 시간을 절약하�
 
    ![](assets/recommended-templates-2.png)
 
-1. 권장 템플릿 카드에서 **편집**.
+1. 권장 템플릿 카드에서 **편집**&#x200B;을 클릭합니다.
 
    ![](assets/recommended-templates-3.png)
 
-1. 다음 항목 선택 **권장 템플릿 만들기** 확인란 및 클릭 **저장**.
+1. **권장 템플릿 만들기** 확인란을 선택하고 **저장**&#x200B;을 클릭합니다.
 
    ![](assets/recommended-templates-4.png)
 
@@ -36,7 +36,7 @@ Sales Insight Action 의 권장 템플릿 을 사용하면 시간을 절약하�
 
 ## 모든 항목과 모든 항목 {#all-vs-any}
 
-선택 **모두** 모든 기준이 충족될 때 템플릿을 추천받고 싶은 경우. 선택 **임의** 기준 중 하나가 충족될 때 템플릿을 추천받으려면 다음을 수행하십시오.
+모든 기준이 충족될 때 템플릿을 추천하려면 **모두**&#x200B;를 선택합니다. 조건 중 하나가 충족될 때 템플릿을 추천하려면 **모두**&#x200B;를 선택하십시오.
 
 ## 기준 설정 {#setting-criteria}
 
@@ -46,13 +46,13 @@ Sales Insight Action 의 권장 템플릿 을 사용하면 시간을 절약하�
 
 이제 상태를 선택합니다. 동적 필드에 대한 조건이 충족되면 템플릿을 사용하는 것이 좋습니다. 4가지 다른 조건 중에서 선택합니다.
 
-**다음과 같음**: 값은 정확히 일치해야 합니다(예: Marketo은 Marketo과 같음).
+**같음**: 값은 정확히 일치해야 합니다(예: Marketo이 Marketo과 같음).
 
 **같지 않음**: 값은 정확히 일치해야 합니다(예: 마케팅 국가가 마케팅과 같지 않음).
 
-**다음 포함**: 값만 포함해야 합니다(예: Marketo Rocks! Marketo 포함)
+**포함**: 값만 포함해야 합니다(예: Marketo Rocks! Marketo 포함)
 
-**다음을 포함하지 않음**: 값이 동적 필드에 있지 않아야 합니다(예: Marketo Rocks! 은(는) Awesome을 포함하지 않습니다.
+**포함하지 않음**: 값이 동적 필드에 있지 않아야 합니다(예: Marketo Rocks! 은(는) Awesome을 포함하지 않습니다.
 
 ## 추천 템플릿의 모양 {#what-a-recommended-template-looks-like}
 

@@ -7,7 +7,7 @@ feature: Forms
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '97'
-ht-degree: 0%
+ht-degree: 2%
 
 ---
 
@@ -17,7 +17,7 @@ ht-degree: 0%
 
 ## 너비 드래그 앤 드롭 {#drag-and-drop-the-width}
 
-1. 다음에서 [양식 편집기](/help/marketo/product-docs/demand-generation/forms/form-actions/edit-a-form.md)을 클릭하고 크기를 조정할 필드를 선택합니다.
+1. [양식 편집기](/help/marketo/product-docs/demand-generation/forms/form-actions/edit-a-form.md)에서 크기를 조정할 필드를 선택합니다.
 
    ![](assets/image2014-9-15-15-3a24-3a0.png)
 
@@ -35,4 +35,4 @@ ht-degree: 0%
 
    ![](assets/image2014-9-15-15-3a24-3a36.png)
 
-잘했어! 꽤 쉽죠?
+좋습니다! 꽤 쉽죠?

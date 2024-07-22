@@ -6,24 +6,24 @@ exl-id: 963529fb-1b30-486c-b97d-3ff697f91258
 feature: Predictive Content
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
-source-wordcount: '363'
+source-wordcount: '367'
 ht-degree: 0%
 
 ---
 
 # 콘텐츠 패턴 만들기 {#create-content-patterns}
 
-컨텐츠 패턴을 설정하면 웹 방문자가 컨텐츠 패턴과 관련된 HTML 웹 페이지를 클릭할 때 컨텐츠가 자동으로 검색됩니다. HTML 페이지(블로그 게시물, 보도 자료, 뉴스 기사)를 모든 컨텐츠 페이지에 컨텐츠 조각으로 추가하는 데 사용됩니다. 자동 검색은 콘텐츠 패턴을 기반으로 하는 경우 웹 방문자가 페이지 링크를 보거나 클릭할 때 정의된 URL 패턴과 관련된 HTML 페이지를 검색하고 추적합니다. 이 콘텐츠 조각(URL, 페이지 이름 및 메타데이터(이미지 URL 및 설명을 포함)은 모든 콘텐츠 페이지에 추가되어 예측 콘텐츠를 준비합니다. PDF 및 포함된 비디오와 같은 다른 컨텐츠를 자동으로 검색하려면 다음을 수행해야 합니다 [콘텐츠 검색 활성화](/help/marketo/product-docs/predictive-content/getting-started/enable-content-discovery.md).
+컨텐츠 패턴을 설정하면 웹 방문자가 컨텐츠 패턴과 관련된 HTML 웹 페이지를 클릭할 때 컨텐츠가 자동으로 검색됩니다. HTML 페이지(블로그 게시물, 보도 자료, 뉴스 기사)를 모든 컨텐츠 페이지에 컨텐츠 조각으로 추가하는 데 사용됩니다. 자동 검색은 콘텐츠 패턴을 기반으로 하는 경우 웹 방문자가 페이지 링크를 보거나 클릭할 때 정의된 URL 패턴과 관련된 HTML 페이지를 검색하고 추적합니다. 이 콘텐츠 조각(URL, 페이지 이름 및 메타데이터(이미지 URL 및 설명을 포함)은 모든 콘텐츠 페이지에 추가되어 예측 콘텐츠를 준비합니다. PDF 및 포함된 비디오와 같은 다른 콘텐츠를 자동으로 검색하려면 [콘텐츠 검색을 활성화](/help/marketo/product-docs/predictive-content/getting-started/enable-content-discovery.md)해야 합니다.
 
-1. 다음으로 이동 **컨텐츠 설정**.
+1. **콘텐츠 설정**(으)로 이동합니다.
 
    ![](assets/settings-dropdown-hand-2.png)
 
-1. 클릭 **URL 패턴**.
+1. **URL 패턴**&#x200B;을 클릭합니다.
 
    ![](assets/click-url-patterns-hand.png)
 
-1. 다음을 클릭합니다. **+** 을 클릭하여 정보를 입력할 수 있는 행을 엽니다.
+1. 정보를 입력할 수 있는 행을 열려면 **+**&#x200B;을(를) 클릭하십시오.
 
    ![](assets/content-settings-create-patterns-hand.png)
 
@@ -33,28 +33,28 @@ ht-degree: 0%
 
    >[!NOTE]
    >
-   >오른쪽 드롭다운 목록에 있는 항목은 사용자가 설정할 때 설정한 카테고리를 반영합니다 [생성된 카테고리](/help/marketo/product-docs/predictive-content/getting-started/set-up-categories.md).
+   >오른쪽의 드롭다운 목록에 있는 항목은 [만든 범주](/help/marketo/product-docs/predictive-content/getting-started/set-up-categories.md)를 설정할 때 설정한 범주를 반영합니다.
 
-1. 클릭 **+** 다른 경로를 추가합니다.
+1. 다른 경로를 추가하려면 **+**&#x200B;을(를) 클릭하십시오.
 
    ![](assets/url-patterns-add2.png)
 
-1. 추가 경로에 대한 확장 및 카테고리를 추가하고 을 클릭합니다. **저장**.
+1. 추가 경로에 대한 확장 및 범주를 추가하고 **저장**&#x200B;을 클릭합니다.
 
    ![](assets/url-patterns-save.png)
 
 ## 콘텐츠 패턴 규칙 {#content-pattern-rules}
 
-* 표현식의 어디에서나 와일드카드를 사용할 수 있습니다(예: _domain.com/&#42;_, _domain.com/&#42;블로그&#42;_)
+* 식의 어디에서나 와일드카드를 사용할 수 있습니다(예: _domain.com/&#42;_, _domain.com/&#42;블로그&#42;_).
 
-* / 를 사용하는 것이 좋습니다.&#42; 패턴 검색을 계속하기 위한 표현식의 끝(예: _domain.com/blog/&#42;_ 블로그 폴더의 모든 게시물 검색)
-* 콘텐츠 패턴은 대소문자를 구분하지 않습니다(예: _domain.com/Blog/&#42;_ 에서 모든 html 페이지 검색 _domain.com/Blog_ 및 _domain.com/blog_)
+* 패턴 검색을 계속하려면 식이 끝날 때 /&#42;을(를) 사용하는 것이 좋습니다(예: _domain.com/blog/&#42;_ 블로그 폴더의 모든 게시물을 검색)
+* 콘텐츠 패턴은 대소문자를 구분하지 않습니다(예: _domain.com/Blog/&#42;_&#x200B;이(가) _domain.com/Blog_ 및 _domain.com/blog_&#x200B;에서 모든 html 페이지를 검색합니다).
 
 * URL 매개 변수는 검색되지 않습니다(이렇게 하면 콘텐츠 URL은 동일하지만 매개 변수가 다른 여러 항목을 검색하지 않음).
 
-## 예 {#examples}
+## 예시 {#examples}
 
-대상 _domain.com_:
+_domain.com_&#x200B;의 경우:
 
 <table> 
  <tbody> 

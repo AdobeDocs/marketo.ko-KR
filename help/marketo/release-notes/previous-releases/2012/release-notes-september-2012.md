@@ -6,7 +6,7 @@ exl-id: c81da5ef-11ec-4015-a820-691fa314f369
 feature: Release Information
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
-source-wordcount: '305'
+source-wordcount: '309'
 ht-degree: 0%
 
 ---
@@ -15,7 +15,7 @@ ht-degree: 0%
 
 이 릴리스에는 크게 기대되는 통합 소셜 기능과 리드 관리 제품이 포함되어 있습니다. 참고: 소셜 기능은 추가 기능이나 선택한 번들의 일부로 사용할 수 있습니다.
 
-## 소셜 공유로 YouTube 비디오 게시 {#publish-a-youtube-video-with-social-sharing}
+## 소셜 공유가 포함된 Publish a YouTube 비디오 {#publish-a-youtube-video-with-social-sharing}
 
 랜딩 페이지의 새로운 비디오 공유를 사용하여 방문자가 비디오를 사회적으로 공유하도록 유도하여 비디오 대상을 증폭합니다.
 
@@ -33,7 +33,7 @@ ht-degree: 0%
 
 ![](assets/image2014-9-23-10-3a40-3a2.png)
 
-## facebook에 랜딩 페이지 게시 {#publish-landing-pages-to-facebook}
+## Facebook으로 Publish 랜딩 페이지 {#publish-landing-pages-to-facebook}
 
 소셜 앱, 양식 및 Marketo 랜딩 페이지의 전체 기능을 포함하여 랜딩 페이지를 Facebook에 직접 게시하여 범위를 확장합니다.
 

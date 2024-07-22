@@ -15,17 +15,17 @@ ht-degree: 0%
 
 대시보드를 사용하여 키워드 등급의 트렌드와 사이트가 SEO에 맞게 최적화된 방식에 대한 높은 수준의 보기를 얻을 수 있습니다.
 
-을 사용하여 을 개선하는 방법도 알아볼 수 있습니다. [!UICONTROL Recommendations] 섹션. 들어가자!
+[!UICONTROL Recommendations] 섹션을 사용하여 개선 방법을 확인할 수도 있습니다. 들어가자!
 
 ![](assets/image2014-9-17-21-3a39-3a57.png)
 
 ## [!UICONTROL 상위 페이지 최적화 문제] {#top-page-optimization-issues}
 
-이렇게 하면 사이트 최적화를 즉시 시작할 수 있는 5가지 높은 효과를 제공하는 방법이 표시됩니다. 링크를 클릭하면 전체 내용을 볼 수 있습니다 [페이지 세부 정보 드릴다운](/help/marketo/product-docs/additional-apps/seo/pages/seo-using-the-page-detail-drill-down.md){target="_blank"}.
+이렇게 하면 사이트 최적화를 즉시 시작할 수 있는 5가지 높은 효과를 제공하는 방법이 표시됩니다. 전체 [페이지 세부 정보 드릴다운](/help/marketo/product-docs/additional-apps/seo/pages/seo-using-the-page-detail-drill-down.md){target="_blank"}을 보려면 링크를 클릭하십시오.
 
 >[!TIP]
 >
->다음을 클릭할 수 있습니다. [!UICONTROL 상위 페이지 최적화 문제] 전체 목록을 봅니다.
+>[!UICONTROL 주요 페이지 최적화 문제]를 클릭하여 전체 목록을 볼 수 있습니다.
 
 ![](assets/image2014-9-17-21-3a40-3a52.png)
 
@@ -35,7 +35,7 @@ ht-degree: 0%
 
 >[!TIP]
 >
->다음을 클릭하면 됩니다. [!UICONTROL 상위 링크 최적화] 전체 목록을 봅니다.
+>[!UICONTROL 상위 링크 최적화]를 클릭하여 전체 목록을 볼 수 있습니다.
 
 ![](assets/image2014-9-17-21-3a41-3a17.png)
 

@@ -13,7 +13,7 @@ ht-degree: 0%
 
 # 스트림 콘텐츠 보관 및 보관 해제 {#archive-and-unarchive-stream-content}
 
-스트림에 더 이상 컨텐츠를 사용하지 않으려면 다음 중 하나를 수행할 수 있습니다. [제거](/help/marketo/product-docs/email-marketing/drip-nurturing/using-stream-content/remove-stream-content.md) 보관하거나 보관하십시오. 다음은 콘텐츠를 보관하는 방법입니다.
+스트림의 콘텐츠를 더 이상 사용하지 않으려면 [제거하거나](/help/marketo/product-docs/email-marketing/drip-nurturing/using-stream-content/remove-stream-content.md)보관할 수 있습니다. 다음은 콘텐츠를 보관하는 방법입니다.
 
 >[!TIP]
 >
@@ -21,11 +21,11 @@ ht-degree: 0%
 
 ## 스트림 콘텐츠 보관 {#archive-stream-content}
 
-1. 참여 프로그램을 선택하고 **스트림** 탭.
+1. 참여 프로그램을 선택하고 **스트림** 탭으로 이동합니다.
 
    ![](assets/cloneasteam-4.jpg)
 
-1. 보관하려는 이메일을 마우스로 가리킨 다음 톱니바퀴 아이콘 아래에서 **보관**.
+1. 보관하려는 전자 메일을 마우스로 가리킨 다음 톱니바퀴 아이콘 아래에서 **보관**&#x200B;을 클릭합니다.
 
    ![](assets/image2014-9-15-17-3a42-3a7.png)
 
@@ -33,15 +33,15 @@ ht-degree: 0%
 
 ## 스트림 콘텐츠 보관 해제 {#unarchive-stream-content}
 
-1. 참여 프로그램을 선택하고 **스트림** 탭.
+1. 참여 프로그램을 선택하고 **스트림** 탭으로 이동합니다.
 
    ![](assets/image2014-9-15-17-3a42-3a11.png)
 
-1. 스트림의 톱니바퀴 아이콘을 클릭한 다음 **보관된 컨텐츠 표시**.
+1. 스트림의 톱니바퀴 아이콘을 클릭한 다음 **보관된 콘텐츠 표시**&#x200B;를 클릭합니다.
 
    ![](assets/image2014-9-15-17-3a42-3a15.png)
 
-1. 이제 보관된 콘텐츠를 볼 수 있으므로 보관을 해제할 콘텐츠의 톱니바퀴 아이콘을 클릭한 다음 를 클릭합니다 **보관 해제**.
+1. 이제 보관된 콘텐츠를 볼 수 있으므로 보관을 해제할 콘텐츠의 톱니바퀴 아이콘을 클릭한 다음 **보관 해제**&#x200B;를 클릭합니다.
 
    ![](assets/image2014-9-15-17-3a42-3a24.png)
 

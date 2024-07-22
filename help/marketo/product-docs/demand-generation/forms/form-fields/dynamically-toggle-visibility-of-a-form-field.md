@@ -17,23 +17,23 @@ ht-degree: 0%
 >
 >* [양식에 국가 선택 목록 추가](/help/marketo/product-docs/demand-generation/forms/form-actions/add-a-country-picklist-to-your-form.md)
 
-Marketo Forms의 멋진 기능 중 하나는 양식 필드를 동적으로 숨기거나 표시할 수 있다는 것입니다. [필드 세트](/help/marketo/product-docs/demand-generation/forms/form-fields/add-a-fieldset-to-a-form.md).
+Marketo Forms의 멋진 기능 중 하나는 양식 필드 또는 [필드 집합](/help/marketo/product-docs/demand-generation/forms/form-fields/add-a-fieldset-to-a-form.md)을 동적으로 숨기거나 표시할 수 있다는 것입니다.
 
 >[!NOTE]
 >
 >**예**
 >
->이 예에서는 을(를) 숨기겠습니다. **시/도** 다음 경우가 아니면 필드 **국가** 은(는) &quot;미국&quot;으로 선택됩니다.
+>이 예제에서는 **국가**&#x200B;가 &quot;미국&quot;으로 선택되지 않은 경우 **상태** 필드를 숨기도록 하겠습니다.
 
-1. 다음으로 이동 **마케팅 활동**.
+1. **마케팅 활동**(으)로 이동합니다.
 
    ![](assets/login-marketing-activities-8.png)
 
-1. 양식을 선택하고 **양식 편집**.
+1. 양식을 선택하고 **양식 편집**&#x200B;을 클릭합니다.
 
    ![](assets/editform-1.png)
 
-1. 동적으로 숨기거나 표시할 필드를 선택하고 다음 링크를 클릭합니다. **가시성 규칙**.
+1. 동적으로 숨기거나 표시할 필드를 선택하고 **가시성 규칙**&#x200B;에 대한 링크를 클릭합니다.
 
    ![](assets/image2014-9-15-15-3a16-3a0.png)
 
@@ -59,7 +59,7 @@ Marketo Forms의 멋진 기능 중 하나는 양식 필드를 동적으로 숨�
 
    >[!NOTE]
    >
-   >이전에 국가를 선택 목록 필드 유형으로 전환했습니다. [모든 국가를 값으로 추가함](/help/marketo/product-docs/demand-generation/forms/form-actions/add-a-country-picklist-to-your-form.md).
+   >이전에 국가를 선택 목록 필드 유형으로 전환했으며 [모든 국가를 값으로 추가](/help/marketo/product-docs/demand-generation/forms/form-actions/add-a-country-picklist-to-your-form.md)했습니다.
 
 1. **저장**&#x200B;을 클릭합니다.
 
@@ -69,6 +69,6 @@ Marketo Forms의 멋진 기능 중 하나는 양식 필드를 동적으로 숨�
 
 >[!IMPORTANT]
 >
->다음을 사용하여 사용자 지정 스크립트를 통해 필드 값을 설정/업데이트할 때 양식 필드 동작이 원활하게 작동합니다. [API 함수](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/javascriptapi/forms-api-reference){target="_blank"} Forms 2.0에서.
+>Forms 2.0에서 [API 함수](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/javascriptapi/forms-api-reference){target="_blank"}를 사용하여 사용자 지정 스크립트를 통해 필드 값을 설정/업데이트할 때 양식 필드 동작이 원활하게 작동합니다.
 >
 >필드 값이 Forms 2.0 JavaScript API 이외의 외부 스크립트에 의해 수정되는 경우 조건부 필드가 예상대로 작동하지 않을 수 있습니다.

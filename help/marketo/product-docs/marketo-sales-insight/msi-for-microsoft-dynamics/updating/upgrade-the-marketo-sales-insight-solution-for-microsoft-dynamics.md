@@ -6,7 +6,7 @@ exl-id: ddc26dc6-7552-4fac-8102-657ecd8c9445
 feature: Marketo Sales Insights
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
-source-wordcount: '143'
+source-wordcount: '146'
 ht-degree: 0%
 
 ---
@@ -19,15 +19,15 @@ Sales Insight용 새 Microsoft Dynamics 솔루션이 출시되면 계정의 관�
 >
 >**관리자 권한 필요**
 
-1. 로 이동 **관리자** 영역입니다.
+1. **관리자** 영역으로 이동합니다.
 
    ![](assets/upgrade-the-marketo-sales-insight-solution-for-microsoft-dynamics-1.png)
 
-1. 클릭 **Microsoft Dynamics**.
+1. **Microsoft Dynamics**&#x200B;을(를) 클릭합니다.
 
    ![](assets/upgrade-the-marketo-sales-insight-solution-for-microsoft-dynamics-2.png)
 
-1. 선택 **Marketo 솔루션 다운로드**.
+1. **Marketo 솔루션 다운로드**&#x200B;를 선택합니다.
 
    ![](assets/upgrade-the-marketo-sales-insight-solution-for-microsoft-dynamics-3.png)
 
@@ -39,8 +39,8 @@ Sales Insight용 새 Microsoft Dynamics 솔루션이 출시되면 계정의 관�
 
 ## 업그레이드 수행 {#performing-the-upgrade}
 
-1. 기존 버전의 Dynamics CRM을 통해 최신 버전의 솔루션을 가져옵니다(예: Dynamics CRM에 버전 1.4가 있고 최신 버전이 1.5인 경우 다음을 가져옵니다.) _초과_ 버전 1.4).
+1. 기존 버전의 Dynamics CRM을 통해 최신 버전의 솔루션을 가져옵니다(예: Dynamics CRM에 버전 1.4가 있고 최신 버전이 1.5인 경우 _over_ 버전 1.4를 가져옵니다).
 
-2. 다음 팝업이 표시됩니다. 선택 **업그레이드 단계** 및 **사용자 지정 유지**&#x200B;을 클릭한 다음 을 클릭합니다 **가져오기**.
+2. 다음 팝업이 표시됩니다. **업그레이드를 위한 단계** 및 **사용자 지정 유지**&#x200B;를 선택한 다음 **가져오기**&#x200B;를 클릭합니다.
 
 ![](assets/upgrade-the-marketo-sales-insight-solution-for-microsoft-dynamics-5.png)

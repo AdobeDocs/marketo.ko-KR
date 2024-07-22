@@ -17,11 +17,11 @@ Sales Connect에서 그룹을 관리하는 방법을 알아봅니다.
 
 ## 그룹 만들기 {#create-a-group}
 
-1. 인물 페이지에서 **+** 그룹 옆에 있습니다.
+1. 사람 페이지에서 그룹 옆의 **+**&#x200B;을(를) 클릭합니다.
 
    ![](assets/one-4.png)
 
-1. 그룹 이름을 지정하고 **만들기**.
+1. 그룹 이름을 지정하고 **만들기**&#x200B;를 클릭하세요.
 
    ![](assets/two-3.png)
 
@@ -33,15 +33,15 @@ Sales Connect에서 그룹을 관리하는 방법을 알아봅니다.
 
    ![](assets/three-3.png)
 
-1. 클릭 **그룹 작업** 및 선택 **연락처 만들기**.
+1. **그룹 작업**&#x200B;을 클릭하고 **연락처 만들기**&#x200B;를 선택합니다.
 
    ![](assets/four-3.png)
 
    >[!NOTE]
    >
-   >이렇게 하면 한 번에 한 명의 연락처가 추가됩니다. 여러 연락처를 동시에 추가하려면 다음 작업을 수행하십시오 [다음 단계](/help/marketo/product-docs/marketo-sales-connect/people/managing-contacts/import-contacts-via-csv.md).
+   >이렇게 하면 한 번에 한 명의 연락처가 추가됩니다. 여러 연락처를 동시에 추가하려면 [다음 단계](/help/marketo/product-docs/marketo-sales-connect/people/managing-contacts/import-contacts-via-csv.md)를 따르십시오.
 
-1. 연락처 정보를 입력하고 클릭 **만들기** (또는 **새로 만들기 및 추가** 추가).
+1. 대화 상대 정보를 입력하고 **만들기**(또는 **새로 만들기 및 추가**&#x200B;를 클릭하여 다른 대화 상대를 추가하세요.)
 
    ![](assets/five-3.png)
 
@@ -57,7 +57,7 @@ Sales Connect에서 그룹을 관리하는 방법을 알아봅니다.
 
    ![](assets/six.png)
 
-1. 점(세 개의 세로 점)을 클릭하고 을 선택합니다 **공유**.
+1. 점(세 개의 세로 점)을 클릭하고 **공유**&#x200B;를 선택합니다.
 
    ![](assets/seven.png)
 
@@ -65,7 +65,7 @@ Sales Connect에서 그룹을 관리하는 방법을 알아봅니다.
 
    ![](assets/eight.png)
 
-1. 클릭 **공유**.
+1. **공유**&#x200B;를 클릭합니다.
 
    ![](assets/nine.png)
 
@@ -77,11 +77,11 @@ Sales Connect에서 그룹을 관리하는 방법을 알아봅니다.
 
    ![](assets/ten.png)
 
-1. 점(세 개의 세로 점)을 클릭하고 을 선택합니다 **공유**.
+1. 점(세 개의 세로 점)을 클릭하고 **공유**&#x200B;를 선택합니다.
 
    ![](assets/eleven.png)
 
-1. 다음을 클릭합니다. **X** 그룹을 공유한 팀 옆에 있는 를 클릭한 다음 모달에서 를 클릭합니다.
+1. 그룹을 공유한 팀 옆의 **X**&#x200B;을(를) 클릭한 다음 모달에서 을(를) 클릭합니다.
 
    ![](assets/twelve.png)
 
@@ -93,7 +93,7 @@ Sales Connect에서 그룹을 관리하는 방법을 알아봅니다.
 
    ![](assets/six.png)
 
-1. 점(세 개의 세로 점)을 클릭하고 을 선택합니다 **이름 바꾸기**.
+1. 점(세 개의 세로 점)을 클릭하고 **이름 바꾸기**&#x200B;를 선택합니다.
 
    ![](assets/thirteen.png)
 
@@ -107,10 +107,10 @@ Sales Connect에서 그룹을 관리하는 방법을 알아봅니다.
 
    ![](assets/fifteen.png)
 
-1. 점(세 개의 세로 점)을 클릭하고 을 선택합니다 **삭제**.
+1. 점(세 개의 세로 점)을 클릭하고 **삭제**&#x200B;를 선택합니다.
 
    ![](assets/sixteen.png)
 
-1. 클릭 **삭제** 확인할 수 있습니다.
+1. 확인하려면 **삭제**&#x200B;를 클릭하세요.
 
    ![](assets/seventeen.png)

@@ -2,10 +2,10 @@
 description: 빠른 시작 랜딩 페이지 템플릿 - Marketo 문서 - 제품 설명서
 title: 빠른 시작 랜딩 페이지 템플릿
 feature: Programs
-exl-id: 677bf3fa-25da-40c8-9c1e-6c6385a0596a
-source-git-commit: 38274b4859ae38c018ee73d4f1715fdf6a78e815
+exl-id: edd60476-31bc-40f1-ae9d-9fcd3d41501c
+source-git-commit: c16081143588ebc0793f5b6e2630b58348e27124
 workflow-type: tm+mt
-source-wordcount: '465'
+source-wordcount: '462'
 ht-degree: 0%
 
 ---
@@ -16,9 +16,9 @@ Marketo Engage 참조 라이브러리의 일부 시작 프로그램에는 여러
 
 >[!TIP]
 >
->자세히 알아보기 [안내식 랜딩 페이지 템플릿](/help/marketo/product-docs/demand-generation/landing-pages/landing-page-templates/create-a-guided-landing-page-template.md){target="_blank"}
+>[안내 랜딩 페이지 템플릿](/help/marketo/product-docs/demand-generation/landing-pages/landing-page-templates/create-a-guided-landing-page-template.md){target="_blank"}에 대해 자세히 알아보기
 
-추가적인 전략 지원 또는 프로그램 맞춤화에 대한 도움말을 보려면 Adobe 계정 팀에 문의하거나 [Adobe Professional Services](https://business.adobe.com/customers/consulting-services/main.html){target="_blank"} 페이지를 가리키도록 업데이트하는 중입니다.
+추가 전략 지원 또는 프로그램 사용자 지정에 도움이 필요하면 Adobe 계정 팀에 문의하거나 [Adobe Professional Services](https://business.adobe.com/customers/consulting-services/main.html){target="_blank"} 페이지를 방문하십시오.
 
 ## 섹션 요약 {#sections-summary}
 
@@ -49,7 +49,8 @@ Marketo Engage 참조 라이브러리의 일부 시작 프로그램에는 여러
 * 단락 복사본을 업데이트하는 단락 텍스트 요소
 * 양식에 추가할 양식 요소
 * 개인정보 처리방침 텍스트 및 링크를 편집할 양식 아래의 텍스트 요소
-* 편집할 변수: 섹션의 배경색
+* 편집할 변수:
+섹션의 배경색
    * 양식 바로 뒤에 배경색
    * 형태 주변의 상자 테두리 반경(구부러진 모서리가 있거나 &quot;0&quot;으로 설정하면 모서리가 사각형)
    * 전체 섹션 표시 또는 숨기기
@@ -79,9 +80,9 @@ Marketo Engage 참조 라이브러리의 일부 시작 프로그램에는 여러
 
 ### 추가 변수 {#additional-variables}
 
-* **단추 테두리 반경**: 양식 단추를 반올림하거나 사각형으로 조정합니다
+* **단추 테두리 반경**: 폼 단추를 둥근 모양이나 사각형으로 조정합니다
 * **단추 색상**: 양식의 단추 색상을 업데이트합니다.
-* **단추 가리키기 색상**: 양식의 버튼에 대한 호버 상태 색상을 변경합니다
-* **링크 색상**: 페이지 전체의 링크 색상을 업데이트합니다.
-* **섹션 상단 간격**: 로고 섹션을 제외한 각 섹션 위에 공간을 추가합니다.
+* **단추 가리키기 색상**: 양식의 단추 가리키기 상태 색상을 변경합니다.
+* **링크 색상**: 페이지 전체에서 링크 색상을 업데이트합니다.
+* **섹션 상단 간격**: 로고 섹션을 제외한 각 섹션 위에 공백을 추가합니다.
 * **섹션 하단 간격**: 로고 섹션을 제외한 각 섹션 아래에 공백을 추가합니다.

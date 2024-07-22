@@ -15,13 +15,13 @@ ht-degree: 0%
 
 이메일 편집기 v2.0을 활성화하기로 하면 몇 가지 새로운 기능이 표시됩니다.
 
-**이메일 템플릿 선택기**
+**전자 메일 템플릿 선택기**
 
-새 이메일을 만들면 [이메일 템플릿 선택기](/help/marketo/product-docs/email-marketing/general/email-editor-2/email-template-picker-overview.md).
+새 전자 메일을 만들면 [전자 메일 템플릿 선택기](/help/marketo/product-docs/email-marketing/general/email-editor-2/email-template-picker-overview.md)(으)로 이동됩니다.
 
 ![](assets/email-editor-v2-overview-1.png)
 
-**이메일 편집기**
+**전자 메일 편집기**
 
 이메일 편집을 시작하면 편집기가 완전히 새로운 모양으로 되어 있음을 알 수 있습니다.
 
@@ -29,19 +29,19 @@ ht-degree: 0%
 
 **모듈**
 
-편집기의 오른쪽에 있는 이러한 항목을 모듈이라고 합니다. 방법 알아보기 [이메일에 모듈 추가](/help/marketo/product-docs/email-marketing/general/email-editor-2/add-modules-to-your-email.md).
+편집기의 오른쪽에 있는 이러한 항목을 모듈이라고 합니다. [전자 메일에 모듈을 추가](/help/marketo/product-docs/email-marketing/general/email-editor-2/add-modules-to-your-email.md)하는 방법을 알아보세요.
 
 ![](assets/email-editor-v2-overview-3.png)
 
 **텍스트 버전**
 
-이제 이메일의 HTML 버전과 텍스트 버전 간을 전환하면 맨 아래에 있는 편리한 탭에 있습니다. 방법 알아보기 [이메일의 텍스트 버전 편집](/help/marketo/product-docs/email-marketing/general/creating-an-email/edit-the-text-version-of-an-email.md).
+이제 이메일의 HTML 버전과 텍스트 버전 간을 전환하면 맨 아래에 있는 편리한 탭에 있습니다. [전자 메일의 텍스트 버전을 편집하는 방법](/help/marketo/product-docs/email-marketing/general/creating-an-email/edit-the-text-version-of-an-email.md)을 알아보세요.
 
 ![](assets/email-editor-v2-overview-4.png)
 
-**이메일 헤더**
+**전자 메일 머리글**
 
-디자인 공간이 더 필요하십니까? 완료 후 이메일 헤더를 숨길 수 있습니다. [편집 중](/help/marketo/product-docs/email-marketing/general/creating-an-email/edit-your-email-header.md). 이 아이콘을 클릭하기만 하면 됩니다.
+디자인 공간이 더 필요하십니까? 전자 메일 머리글은 [편집](/help/marketo/product-docs/email-marketing/general/creating-an-email/edit-your-email-header.md)을 마친 후에 숨길 수 있습니다. 이 아이콘을 클릭하기만 하면 됩니다.
 
 ![](assets/email-editor-v2-overview-5.png)
 
@@ -49,7 +49,7 @@ ht-degree: 0%
 
 ![](assets/email-editor-v2-overview-6.png)
 
-**이메일 미리 보기**
+**전자 메일 미리 보기**
 
 기본적으로 이메일은 강조 표시된 파란색 아이콘으로 표시된 대로 데스크탑에서 어떻게 보이는지 표시합니다. 오른쪽에 있는 아이콘을 클릭하면...
 
@@ -59,7 +59,7 @@ ht-degree: 0%
 
 ![](assets/email-editor-v2-overview-8.png)
 
-더 큰 미리 보기를 보려면 **미리 보기** 이메일 오른쪽 상단에서
+미리 보기를 더 크게 하려면 전자 메일의 오른쪽 상단에서 **미리 보기**&#x200B;를 클릭하세요.
 
 ![](assets/email-editor-v2-overview-9.png)
 
@@ -67,13 +67,13 @@ ht-degree: 0%
 
 ![](assets/email-editor-v2-overview-10.png)
 
-...하지만 모바일 디바이스에서 표시되는 모습도 확인할 수 있습니다. 텍스트 버전도 미리 볼 수 있습니다! 간단히 클릭 **초안 편집** 오른쪽 상단에서 편집을 다시 시작합니다.
+...하지만 모바일 디바이스에서 표시되는 모습도 확인할 수 있습니다. 텍스트 버전도 미리 볼 수 있습니다! 편집을 재개하려면 오른쪽 상단의 **초안 편집**&#x200B;을 클릭하면 됩니다.
 
 ![](assets/email-editor-v2-overview-11.png)
 
-**이메일 작업**
+**전자 메일 동작**
 
-아래 **이메일 작업**&#x200B;그러면 몇 가지 새로운 기능이 표시됩니다. **이미지 또는 파일 업로드**, 및 **웹에서 이미지 가져오기**. 이메일 자체를 새 이메일 템플릿으로 저장할 수도 있습니다. 이름과 목적지를 지정하면 됩니다.
+**전자 메일 동작**&#x200B;에서 몇 가지 새로운 기능을 확인할 수 있습니다. **이미지 또는 파일을 업로드** 및 **웹에서 이미지 가져오기**. 이메일 자체를 새 이메일 템플릿으로 저장할 수도 있습니다. 이름과 목적지를 지정하면 됩니다.
 
 ![](assets/email-editor-v2-overview-12.png)
 
@@ -83,13 +83,13 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->**[웹에서 이미지 가져오기](/help/marketo/product-docs/demand-generation/images-and-files/grab-the-images-from-a-web-page.md)** Design Studio에서와 마찬가지로 작동합니다.
+>**[웹에서 이미지 가져오기](/help/marketo/product-docs/demand-generation/images-and-files/grab-the-images-from-a-web-page.md)**&#x200B;는 Design Studio에서와 동일하게 작동합니다.
 
-**열린 추적 비활성화** 아래 **이메일 설정**, 필요한 경우 열기 추적을 비활성화할 수 있습니다.
+**전자 메일 설정**&#x200B;에서 **공개 추적을 사용하지 않도록 설정**&#x200B;합니다. 필요한 경우 공개 추적을 사용할 수 없습니다.
 
 ![](assets/email-editor-v2-overview-13.png)
 
-**이메일 설정**
+**전자 메일 설정**
 
 프리 헤더를 추가할 수 있습니다. 프리헤더는 받은 편지함에서 전자 메일을 볼 때 제목 줄 다음의 짧은 요약 텍스트입니다.
 
@@ -103,8 +103,8 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->더 깊이 알아보고 싶다면 다음을 확인하십시오. [비디오](https://nation.marketo.com/videos/1463).
+>더 자세히 알아보려면 이 [비디오](https://nation.marketo.com/videos/1463)를 확인하세요.
 
 >[!MORELIKETHIS]
 >
->[이메일 템플릿 구문](/help/marketo/product-docs/email-marketing/general/email-editor-2/email-template-syntax.md)
+>[전자 메일 템플릿 구문](/help/marketo/product-docs/email-marketing/general/email-editor-2/email-template-syntax.md)

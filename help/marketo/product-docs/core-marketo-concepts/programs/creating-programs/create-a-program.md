@@ -15,15 +15,15 @@ ht-degree: 0%
 
 프로그램은 Marketo에서 가장 중요한 요소 중 하나입니다. 많이 쓰실 거예요!
 
-1. 다음으로 이동 **[!UICONTROL 마케팅 활동]**.
+1. **[!UICONTROL 마케팅 활동]**(으)로 이동합니다.
 
    ![](assets/login-marketing-activities.png)
 
-1. 새 프로그램의 폴더를 선택합니다. 선택 **[!UICONTROL 신규]** 및 클릭 **[!UICONTROL 새 프로그램]**.
+1. 새 프로그램의 폴더를 선택합니다. **[!UICONTROL 새로 만들기]**&#x200B;를 선택하고 **[!UICONTROL 새 프로그램]**&#x200B;을 클릭합니다.
 
    ![](assets/leadlifecycle.jpg)
 
-1. 입력 **[!UICONTROL 이름]**, 선택 **[[!UICONTROL 채널]](/help/marketo/product-docs/administration/tags/create-a-program-channel.md){target="_blank"}** 을 클릭하고 **[!UICONTROL 만들기]**.
+1. **[!UICONTROL 이름]**&#x200B;을(를) 입력하고 드롭다운에서 **[[!UICONTROL 채널]](/help/marketo/product-docs/administration/tags/create-a-program-channel.md){target="_blank"}**&#x200B;을(를) 선택한 다음 **[!UICONTROL 만들기]**&#x200B;를 클릭합니다.
 
    ![](assets/image2015-2-5-16-3a33-3a23.png)
 

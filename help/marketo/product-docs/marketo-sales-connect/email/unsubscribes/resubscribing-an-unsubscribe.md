@@ -6,7 +6,7 @@ exl-id: 1c451ff7-c56f-477e-b287-898c359aedcf
 feature: Marketo Sales Connect
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
-source-wordcount: '198'
+source-wordcount: '196'
 ht-degree: 0%
 
 ---
@@ -27,17 +27,17 @@ ht-degree: 0%
 >
 >구독 취소 동기화가 켜진 경우 ToutApp에서 구독 취소를 제거하고 개인 레코드가 다시 동기화되지 않도록 Salesforce에서 옵트아웃을 선택 해제해야 합니다.
 
-1. 로 이동 [웹 애플리케이션](https://toutapp.com/login) 및 클릭 **사람**.
+1. [웹 응용 프로그램](https://toutapp.com/login)(으)로 이동하여 **사용자**&#x200B;를 클릭합니다.
 
 1. 개인 세부 정보 보기를 열 개인을 선택합니다.
 
    ![](assets/two.png)
 
-1. 개인 세부 정보 보기에서 세 점을 클릭하고 다음을 선택합니다 **구독 취소 제거**.
+1. 개인 세부 정보 보기에서 세 점을 클릭하고 **구독 취소 제거**&#x200B;를 선택합니다.
 
    ![](assets/three.png)
 
-1. 이메일을 수신하도록 다시 옵트인되는 이유를 선택한 다음 을 클릭합니다. **구독 취소 제거**.
+1. 이메일 수신을 위해 해당 사용자가 다시 옵트인되는 이유를 선택한 다음 **구독 취소 제거**&#x200B;를 클릭합니다.
 
    ![](assets/four.png)
 

@@ -21,9 +21,9 @@ ht-degree: 0%
 >
 >보고서에 지표가 하나 이상 필요하지만 사용자 지정 측정값을 정의하는 데 사용하는 측정 단위 중 하나가 아니어도 됩니다.
 
-1. 보고서에 필요한 필드를 가져옵니다. 다음을 참조하십시오 [매출 탐색기 보고서에 필드 추가](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-explorer/adding-fields-to-a-revenue-explorer-report.md) 을 참조하십시오.
+1. 보고서에 필요한 필드를 가져옵니다. 자세한 내용은 [매출 탐색기 보고서에 필드 추가](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-explorer/adding-fields-to-a-revenue-explorer-report.md)를 참조하십시오.
 
-1. 기존 지표(파란색 셀)를 마우스 오른쪽 단추로 클릭하고 **사용자 정의 측정** 및 선택 **계산된 측정값**.
+1. 기존 지표(파란색 셀)를 마우스 오른쪽 단추로 클릭하고 **사용자 정의 측정값**&#x200B;을 클릭한 다음 **계산된 측정값**&#x200B;을 선택합니다.
 
    ![](assets/image2016-1-26-11-3a7-3a49.png)
 
@@ -39,7 +39,7 @@ ht-degree: 0%
    >
    >수학 기호를 직접 입력하거나 선택 상자를 사용할 수 있습니다.
 
-1. 완료되면 다음을 클릭합니다. **확인**.
+1. 완료되면 **확인**&#x200B;을 클릭하세요.
 
    ![](assets/image2016-1-26-11-3a37-3a27.png)
 

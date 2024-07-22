@@ -18,23 +18,23 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->* SMTP 서버 설정 외에도 [이메일 ID를 확인해야 합니다.](/help/marketo/product-docs/marketo-sales-insight/actions/getting-started/email-settings/verify-your-email.md) 이메일을 보내기 전에
+>* SMTP 서버 설정 외에 전자 메일을 보내려면 먼저 [전자 메일 ID를 확인](/help/marketo/product-docs/marketo-sales-insight/actions/getting-started/email-settings/verify-your-email.md)해야 합니다.
 >* SMTP 서버에 대한 올바른 서버 자격 증명을 얻기 위해 IT 팀 또는 SMTP 서버 공급업체와 협력하는 것이 좋습니다.
 >* SMTP 서버 자격 증명을 사용하여 Gmail 및 Exchange 서버를 연결할 수 없습니다. 이러한 공급자와 통합하려면 이메일 연결 서비스를 사용하십시오.
 
-1. 톱니바퀴 아이콘을 클릭하고 **설정**.
+1. 톱니바퀴 아이콘을 클릭하고 **설정**&#x200B;을 선택하세요.
 
    ![](assets/set-up-a-custom-delivery-channel-for-your-team-1.png)
 
-1. Admin Settings에서 **일반**.
+1. 관리자 설정에서 **일반**&#x200B;을 클릭합니다.
 
    ![](assets/set-up-a-custom-delivery-channel-for-your-team-2.png)
 
-1. 다음을 클릭합니다. **팀 게재 채널** 탭.
+1. **팀 배달 채널** 탭을 클릭합니다.
 
    ![](assets/set-up-a-custom-delivery-channel-for-your-team-3.png)
 
-1. SMTP 서버 자격 증명을 입력하고 **연결**.
+1. SMTP 서버 자격 증명을 입력하고 **연결**&#x200B;을 클릭합니다.
 
    ![](assets/set-up-a-custom-delivery-channel-for-your-team-4.png)
 
@@ -45,4 +45,4 @@ ht-degree: 0%
    >[!MORELIKETHIS]
    >
    >* [Gmail 사용자를 위한 전자 메일 연결](/help/marketo/product-docs/marketo-sales-connect/email-plugins/gmail/email-connection-for-gmail-users.md)
-   >* [Outlook 사용자용 전자 메일 연결](/help/marketo/product-docs/marketo-sales-connect/email-plugins/msc-for-outlook/email-connection-for-outlook-users.md)
+   >* [Outlook 사용자를 위한 전자 메일 연결](/help/marketo/product-docs/marketo-sales-connect/email-plugins/msc-for-outlook/email-connection-for-outlook-users.md)

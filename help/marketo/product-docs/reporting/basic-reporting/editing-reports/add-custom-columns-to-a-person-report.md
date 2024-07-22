@@ -13,17 +13,17 @@ ht-degree: 0%
 
 # 개인 보고서에 사용자 정의 열 추가 {#add-custom-columns-to-a-person-report}
 
-다음을 사용하여 개인 보고서에서 지표를 추가로 필터링할 수 있습니다. [스마트 목록](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/understanding-smart-lists.md) 사용자 정의 열로 표시합니다.
+[스마트 목록](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/understanding-smart-lists.md)을 사용자 지정 열로 사용하여 개인 보고서에서 지표를 추가로 필터링할 수 있습니다.
 
-1. 로 이동 **마케팅 활동** (또는 **분석**) 영역입니다.
+1. **마케팅 활동**(또는 **분석**) 영역으로 이동합니다.
 
    ![](assets/ma-1.png)
 
-1. 보고서를 선택하고 **설정** 탭.
+1. 보고서를 선택하고 **설정** 탭을 클릭합니다.
 
    ![](assets/two-1.png)
 
-1. 드래그 오버 **사용자 정의 열**.
+1. **사용자 지정 열** 위로 끌어서 놓습니다.
 
    ![](assets/three-1.png)
 
@@ -31,10 +31,10 @@ ht-degree: 0%
 
    ![](assets/image2014-9-16-16-3a39-3a34.png)
 
-1. 네가 해냈어! 다음을 클릭합니다. **보고서** 탭으로 이동하여 새 열이 있는 보고서를 확인합니다.
+1. 네가 해냈어! 새 열이 있는 보고서를 보려면 **보고서** 탭을 클릭하십시오.
 
    ![](assets/five-1.png)
 
    >[!MORELIKETHIS]
    >
-   >다음을 수행할 수도 있습니다. [가망 고객 보고서에 기회 열 추가](/help/marketo/product-docs/reporting/basic-reporting/editing-reports/add-opportunity-columns-to-a-lead-report.md).
+   >[잠재 고객 보고서에 영업 기회 열을 추가](/help/marketo/product-docs/reporting/basic-reporting/editing-reports/add-opportunity-columns-to-a-lead-report.md)할 수도 있습니다.

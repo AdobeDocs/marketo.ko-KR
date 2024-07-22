@@ -19,19 +19,19 @@ ht-degree: 0%
 >
 >**관리자 권한 필요**
 
-1. 로 이동 **[!UICONTROL 관리자]** 영역입니다.
+1. **[!UICONTROL 관리자]** 영역으로 이동합니다.
 
    ![](assets/image2014-9-17-21-3a12-3a15.png)
 
-1. 다음을 클릭합니다. **[!UICONTROL 경쟁업체]** 탭.
+1. **[!UICONTROL 경쟁업체]** 탭을 클릭합니다.
 
    ![](assets/image2014-9-17-21-3a12-3a31.png)
 
-1. 클릭 **[!UICONTROL 경쟁업체 추가]**.
+1. **[!UICONTROL 경쟁업체 추가]**&#x200B;를 클릭합니다.
 
    ![](assets/image2014-9-17-21-3a12-3a38.png)
 
-1. 다음을 입력합니다. **[!UICONTROL 이름]** 및 **[!UICONTROL URL]** 경쟁업체의 제품
+1. 경쟁업체의 **[!UICONTROL 이름]** 및 **[!UICONTROL URL]**&#x200B;을(를) 입력하십시오.
 
    ![](assets/image2014-9-17-21-3a13-3a5.png)
 

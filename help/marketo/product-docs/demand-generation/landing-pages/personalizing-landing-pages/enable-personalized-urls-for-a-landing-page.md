@@ -17,13 +17,13 @@ ht-degree: 0%
 
 >[!PREREQUISITES]
 >
->[계정에 대해 개인화된 URL 활성화](/help/marketo/product-docs/demand-generation/landing-pages/personalizing-landing-pages/enable-personalized-urls-for-your-account.md)
+>[계정에 대해 개인화된 URL 사용](/help/marketo/product-docs/demand-generation/landing-pages/personalizing-landing-pages/enable-personalized-urls-for-your-account.md)
 
-1. 랜딩 페이지를 선택하고 설정 을 클릭합니다. **개인화된 URL**.
+1. 랜딩 페이지를 선택하고 **개인 URL**&#x200B;에 대한 설정을 클릭합니다.
 
    ![](assets/image2014-9-18-13-3a24-3a3.png)
 
-1. 이제 다음을 확인할 수 있습니다. **개인화된 URL 활성화** 및 클릭 **저장**.
+1. 이제 **개인화된 URL 사용**&#x200B;을 선택하고 **저장**&#x200B;을 클릭할 수 있습니다.
 
    ![](assets/image2014-9-18-13-3a23-3a53.png)
 

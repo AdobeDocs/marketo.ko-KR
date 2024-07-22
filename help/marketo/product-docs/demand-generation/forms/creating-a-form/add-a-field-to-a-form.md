@@ -13,17 +13,17 @@ ht-degree: 0%
 
 # 양식에 필드 추가 {#add-a-field-to-a-form}
 
-다음 작업을 완료하면 [이(가) 귀하의 양식을 만들었습니다.](/help/marketo/product-docs/demand-generation/forms/creating-a-form/create-a-form.md) 및 [테마를 선택했습니다.](/help/marketo/product-docs/demand-generation/forms/creating-a-form/select-a-form-theme.md)사용자가 채울 필드를 추가할 수 있습니다. 방법은 다음과 같습니다.
+[양식을 만들고](/help/marketo/product-docs/demand-generation/forms/creating-a-form/create-a-form.md) [테마를 선택하고](/help/marketo/product-docs/demand-generation/forms/creating-a-form/select-a-form-theme.md)하면 다른 사람이 작성할 필드를 추가할 수 있습니다. 방법은 다음과 같습니다.
 
-1. 다음으로 이동 **마케팅 활동**.
+1. **마케팅 활동**(으)로 이동합니다.
 
    ![](assets/login-marketing-activities-2.png)
 
-1. 양식을 선택하고 **양식 편집**.
+1. 양식을 선택하고 **양식 편집**&#x200B;을 클릭합니다.
 
    ![](assets/editform-1.png)
 
-1. 다음을 클릭합니다. **+** 서명.
+1. **+** 기호를 클릭합니다.
 
    ![](assets/image2014-9-15-17-18-17.png)
 
@@ -35,11 +35,11 @@ ht-degree: 0%
 
    ![](assets/image2014-9-15-17-3a18-3a26.png)
 
-1. 필요한 만큼 필드를 추가하고 을(를) 클릭합니다. **완료**.
+1. 필요한 만큼 필드를 추가하고 **마침**&#x200B;을 클릭합니다.
 
    ![](assets/image2014-9-15-17-3a18-3a35.png)
 
-1. 이제 클릭 **승인 및 닫기**.
+1. 이제 **승인 및 닫기**&#x200B;를 클릭합니다.
 
    ![](assets/image2014-9-15-17-3a18-3a43.png)
 
@@ -47,4 +47,4 @@ ht-degree: 0%
 >
 >양식 변경으로 인해 생성된 모든 랜딩 페이지 초안을 승인해야 합니다.
 
-나쁘지 않네. 계속 열심히 하세요! 다음 방법을 배워보는 것은 어떻습니까? [필요한 양식 필드를 만듭니다.](/help/marketo/product-docs/demand-generation/forms/creating-a-form/make-a-form-field-required.md) 다음?
+나쁘지 않네. 계속 열심히 하세요! 다음에 [양식 필드를 필수](/help/marketo/product-docs/demand-generation/forms/creating-a-form/make-a-form-field-required.md)하는 방법을 배워보는 것은 어떻습니까?

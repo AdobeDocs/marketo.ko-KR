@@ -21,13 +21,13 @@ ht-degree: 0%
 
 사용자 지정 개체를 스마트 캠페인의 필터 및 트리거로 사용합니다. For example:
 
-* **필터**: 특정 차량 브랜드 소유자에게만 이메일 보내기
-* **트리거**: 사용자 지정 개체가 개인 또는 회사에 추가되면 이메일을 보냅니다.
+* **필터**: 특정 차량 브랜드의 소유자에게만 전자 메일을 보냅니다.
+* **트리거**: 사용자 지정 개체가 개인 또는 회사에 추가되면 전자 메일을 보냅니다.
 
 일대다 또는 다대다 관계에서 사용자 지정 개체를 설정할 수 있습니다. For example:
 
-* **일대다**: 한 사람이 여러 대의 자동차를 소유합니다
-* **다대다**: 강의 카탈로그에서 여러 강의에 여러 학생이 등록됨
+* **일대다**: 한 사람이 여러 대의 자동차를 소유합니다.
+* **다대다**: 과정 카탈로그에서 여러 과정에 여러 학생이 등록되었습니다
 
 일대다 구조는 단일 링크 필드를 사용하여 사용자 지정 개체를 개인 또는 회사에 연결합니다.
 
@@ -43,11 +43,11 @@ ht-degree: 0%
 
 ## Marketo 사용자 지정 개체 액세스 {#accessing-marketo-custom-objects}
 
-1. 로 이동 **[!UICONTROL 관리자]** 영역입니다.
+1. **[!UICONTROL 관리자]** 영역으로 이동합니다.
 
    ![](assets/understanding-marketo-custom-objects-1.png)
 
-1. 클릭 **[!UICONTROL Marketo 사용자 지정 개체]**.
+1. **[!UICONTROL Marketo 사용자 지정 개체]**&#x200B;를 클릭합니다.
 
    ![](assets/understanding-marketo-custom-objects-2.png)
 
@@ -69,17 +69,17 @@ ht-degree: 0%
 
 ## 개인과 연관된 사용자 정의 객체 보기 {#view-custom-objects-associated-to-a-person}
 
-사용자 지정 개체 구조를 만든 후 특정 사용자 지정 개체 데이터를 업로드하면 사용자 지정 개체의 링크 필드를 사용하여 사용자 지정 개체가 자동으로 데이터베이스의 사용자와 연결됩니다. 다음에서 정보를 볼 수 있습니다. [!UICONTROL 사용자 지정 개체] 개인 세부 정보 페이지의 탭입니다.
+사용자 지정 개체 구조를 만든 후 특정 사용자 지정 개체 데이터를 업로드하면 사용자 지정 개체의 링크 필드를 사용하여 사용자 지정 개체가 자동으로 데이터베이스의 사용자와 연결됩니다. 개인 세부 정보 페이지의 [!UICONTROL 사용자 지정 개체] 탭에서 정보를 볼 수 있습니다.
 
-1. 다음으로 이동 **[!UICONTROL 데이터베이스]**.
+1. **[!UICONTROL 데이터베이스]**(으)로 이동합니다.
 
    ![](assets/understanding-marketo-custom-objects-5.png)
 
-1. 데이터베이스를 열고 **[!UICONTROL 사람]** 탭. 사용자 지정 개체에 연결한 개인의 레코드를 두 번 클릭합니다.
+1. 데이터베이스를 열고 **[!UICONTROL 사람]** 탭을 클릭합니다. 사용자 지정 개체에 연결한 개인의 레코드를 두 번 클릭합니다.
 
    ![](assets/understanding-marketo-custom-objects-6.png)
 
-1. 개인 세부 정보 페이지에서 **[!UICONTROL 사용자 지정 개체]** 탭. 드롭다운에서 객체를 선택합니다.
+1. 사용자 세부 정보 페이지에서 **[!UICONTROL 사용자 지정 개체]** 탭을 클릭합니다. 드롭다운에서 객체를 선택합니다.
 
    ![](assets/understanding-marketo-custom-objects-7.png)
 
@@ -95,7 +95,7 @@ CRM 또는 Marketo 전용 레코드의 레코드인 Marketo에 여러 명이 있
 
 사용자 지정 개체는 단일 레코드에만 직접 연결할 수 있습니다. 즉, 사용자 지정 개체 유형이 회사 필드로 연결된 경우 Marketo의 REST API를 사용하여 회사를 관리하는 경우 CRM에서 연락처 변환을 사용하거나 externalCompanyId 필드를 사용하여 개인 레코드가 회사에 연결되었는지 확인해야 합니다. 회사 레코드에 명시적으로 연결되지 않은 개인 레코드의 경우 회사를 사용하여 연결된 사용자 정의 오브젝트는 회사 필드의 값이 여러 사람에게 공유되더라도 단일 레코드에 임의로 연결됩니다.
 
-다음을 참조하십시오 [사용자 지정 개체 데이터 가져오기](/help/marketo/product-docs/administration/marketo-custom-objects/import-custom-object-data.md) 추가 정보.
+자세한 내용은 [사용자 지정 개체 데이터 가져오기](/help/marketo/product-docs/administration/marketo-custom-objects/import-custom-object-data.md)를 참조하십시오.
 
 >[!MORELIKETHIS]
 >

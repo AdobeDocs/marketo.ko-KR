@@ -15,7 +15,7 @@ ht-degree: 0%
 
 세분화에서 정의한 모든 세그먼트를 기준으로 개인 보고서를 그룹화할 수 있습니다.
 
-1. 다음으로 이동 **마케팅 활동** (또는 **분석**) 섹션에 있는 마지막 항목이 될 필요가 없습니다.
+1. **마케팅 활동**(또는 **분석**) 섹션으로 이동합니다.
 
    ![](assets/image2017-3-28-8-3a43-3a9.png)
 
@@ -23,22 +23,22 @@ ht-degree: 0%
 
    ![](assets/image2017-3-28-9-3a25-3a0.png)
 
-1. 다음을 클릭합니다. **설정** tab 키 및 두 번 클릭 **사람 그룹화 기준**.
+1. **설정** 탭을 클릭하고 **사람 그룹화 기준**&#x200B;을 두 번 클릭합니다.
 
    ![](assets/image2017-3-28-9-3a25-3a22.png)
 
    >[!NOTE]
    >
-   >다음을 수행할 수도 있습니다. [개인 또는 회사 속성별로 개인 보고서 그룹화](/help/marketo/product-docs/reporting/basic-reporting/report-activity/group-person-reports-by-attribute.md).
+   >[개인 보고서를 사용자 또는 회사 특성별로 그룹화](/help/marketo/product-docs/reporting/basic-reporting/report-activity/group-person-reports-by-attribute.md)할 수도 있습니다.
 
-1. 다음에서 **사람 그룹화 기준** 대화 상자에서 텍스트 상자에 &#39;Segmentation&#39;을 입력하십시오. 다음의 경우 **세그먼트화** 제목이 나타나면 제목 아래 목록에서 제목을 선택합니다.
+1. **사람 그룹화 기준** 대화 상자에서 텍스트 상자에 &#39;세분화&#39;를 입력하십시오. **세그먼트** 제목이 나타나면 제목 아래 목록에서 하나를 선택하십시오.
 
    ![](assets/image2017-3-28-9-3a25-3a55.png)
 
-1. 다음을 클릭합니다. **보고서** 탭으로 이동하여 선택한 세그먼트별로 그룹화된 보고서를 볼 수 있습니다.
+1. 선택한 세그먼트로 그룹화된 보고서를 보려면 **보고서** 탭을 클릭하십시오.
 
    ![](assets/image2017-3-28-9-3a26-3a13.png)
 
 >[!MORELIKETHIS]
 >
->[개인 보고서에 사용자 정의 열 추가](/help/marketo/product-docs/reporting/basic-reporting/editing-reports/add-custom-columns-to-a-person-report.md)
+>[개인 보고서에 사용자 지정 열 추가](/help/marketo/product-docs/reporting/basic-reporting/editing-reports/add-custom-columns-to-a-person-report.md)

@@ -29,15 +29,15 @@ ht-degree: 2%
 
 ## 개체 메타데이터 내보내기 {#export-object-metadata}
 
-1. 로 이동 **[!UICONTROL 관리자]** 영역입니다.
+1. **[!UICONTROL 관리자]** 영역으로 이동합니다.
 
    ![](assets/export-all-object-metadata-1.png)
 
-1. 클릭 **[!UICONTROL 필드 관리]**.
+1. **[!UICONTROL 필드 관리]**&#x200B;를 클릭합니다.
 
    ![](assets/export-all-object-metadata-2.png)
 
-1. 클릭 **[!UICONTROL 모든 개체 내보내기]**.
+1. **[!UICONTROL 모든 개체 내보내기]**&#x200B;를 클릭합니다.
 
    ![](assets/export-all-object-metadata-3.png)
 

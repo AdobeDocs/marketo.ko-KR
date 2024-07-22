@@ -13,19 +13,19 @@ ht-degree: 0%
 
 # 기존 웹 캠페인 편집 {#edit-an-existing-web-campaign}
 
-1. 다음으로 이동 **웹 캠페인**.
+1. **웹 캠페인**(으)로 이동합니다.
 
    ![](assets/image2016-8-18-16-3a15-3a14.png)
 
-1. 다음에서 **웹 캠페인** 페이지, 클릭 **편집** 을(를) 캠페인에서 편집합니다.
+1. **웹 캠페인** 페이지에서 편집할 캠페인에 대해 **편집**&#x200B;을 클릭합니다.
 
    ![](assets/web-campaigns-1-edit-hand.png)
 
    >[!NOTE]
    >
-   >원하는 웹 캠페인을 더 쉽게 찾을 수 있도록 하려면 [필터 기능](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/filter-web-campaigns.md).
+   >원하는 웹 캠페인을 더 쉽게 찾으려면 [필터 기능](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/filter-web-campaigns.md)을 사용하세요.
 
 >[!MORELIKETHIS]
 >
 >* [웹 캠페인 삭제](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/delete-a-web-campaign.md)
->* [Campaign 시작/일시 중지](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/launch-pause-a-web-campaign.md).
+>* [캠페인 시작/일시 중지](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/launch-pause-a-web-campaign.md).

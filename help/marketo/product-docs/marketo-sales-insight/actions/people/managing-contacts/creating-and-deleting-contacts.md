@@ -14,21 +14,21 @@ ht-degree: 0%
 
 ## 연락처 만들기 {#creating-contacts}
 
-1. 인물 페이지에서 **작업** 단추 및 선택 **연락처 만들기**.
+1. 인물 페이지에서 **작업** 단추를 클릭하고 **연락처 만들기**&#x200B;를 선택합니다.
 
    ![](assets/creating-and-deleting-contacts-1.png)
 
-1. 이름/성 및 이메일 주소를 원하는 기타 정보와 함께 입력합니다. 클릭 **만들기** 완료 시 또는 **새로 만들기 및 추가** 연락처를 더 추가하세요.
+1. 이름/성 및 이메일 주소를 원하는 기타 정보와 함께 입력합니다. 완료되면 **만들기**&#x200B;를 클릭하거나 **새로 만들기 및 추가**&#x200B;를 클릭하여 연락처를 더 추가하세요.
 
    ![](assets/creating-and-deleting-contacts-2.png)
 
    >[!TIP]
    >
-   >여러 연락처를 한 번에 추가하시겠습니까? [여기를 클릭하십시오.](/help/marketo/product-docs/marketo-sales-insight/actions/people/managing-contacts/import-contacts-via-csv.md) csv로 연락처를 가져오는 방법을 알아봅니다.
+   >여러 연락처를 한 번에 추가하시겠습니까? CSV로 연락처를 가져오는 방법을 알아보려면 [여기를 클릭하세요](/help/marketo/product-docs/marketo-sales-insight/actions/people/managing-contacts/import-contacts-via-csv.md).
 
 ## 연락처 삭제 {#deleting-contacts}
 
-1. 인물 페이지에서 삭제하려는 연락처의 상자를 선택합니다. 점(세 개의 세로 점)을 클릭하고 을 선택합니다 **삭제**.
+1. 인물 페이지에서 삭제하려는 연락처의 상자를 선택합니다. 점(세 개의 세로 점)을 클릭하고 **삭제**&#x200B;를 선택합니다.
 
    ![](assets/creating-and-deleting-contacts-3.png)
 
@@ -36,6 +36,6 @@ ht-degree: 0%
    >
    >여러 연락처를 삭제하려면 여러 사람을 선택하면 됩니다. 나머지 단계는 동일합니다.
 
-1. 클릭 **연락처 삭제** 확인할 수 있습니다.
+1. 확인하려면 **연락처 삭제**&#x200B;를 클릭하세요.
 
    ![](assets/creating-and-deleting-contacts-4.png)

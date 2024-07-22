@@ -6,7 +6,7 @@ exl-id: b951e986-359d-4da0-8654-4d9f1416cebb
 feature: Release Information
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
-source-wordcount: '641'
+source-wordcount: '660'
 ht-degree: 0%
 
 ---
@@ -27,7 +27,7 @@ ht-degree: 0%
 
 그림 1. 업무일에 종료할 대기 단계 지정
 
-## 보관된 자산 숨김 {#archived-assets-hidden}
+## 보관된 Assets 숨김 {#archived-assets-hidden}
 
 보관된 자산은 자동 제안, 드롭다운 및 보고서에서 자동으로 필터링되므로 원하는 항목을 보다 쉽게 찾을 수 있습니다.
 
@@ -55,7 +55,7 @@ iOS 5.1 이상 필요(iPad만 해당)
 
 ## 향상된 웨비나 확인 URL {#enhanced-webinar-confirmation-url}
 
-이제 ON24 및 Adobe Connect에서 사용할 수 있습니다! 새로 등록한 각 참석자에 대해 확인 이메일에 고유한 링크 포함 `{{member.webinar URL}}` 토큰. Adobe Connect의 향상된 기능에는 사용자의 로그인 ID 및 암호가 포함된 Adobe 계정 정보 이메일을 켜거나 끄는 기능도 포함되어 있습니다.
+이제 ON24 및 Adobe Connect에서 사용할 수 있습니다! 새 `{{member.webinar URL}}` 토큰을 사용하여 등록된 각 참석자에 대한 확인 전자 메일에 고유한 링크를 포함하십시오. Adobe Connect의 향상된 기능에는 사용자의 로그인 ID 및 암호가 포함된 Adobe 계정 정보 이메일을 켜거나 끄는 기능도 포함되어 있습니다.
 
 ![](assets/image2014-9-23-10-3a15-3a44.png)
 
@@ -99,7 +99,7 @@ Marketo 엔지니어가 개발한 실험 기능에 액세스하여 사용자 경
 
 ## Marketo Sales Insight 향상 {#marketo-sales-insight-enhancements}
 
-**바닥글 옵션 구독 취소**
+**바닥글 구독 취소 옵션**
 
 Sales Insight를 통해 전송된 이메일에 대한 구독 취소 바닥글이 표시되는 시기와 여부를 구성합니다.
 

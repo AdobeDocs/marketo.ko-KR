@@ -6,7 +6,7 @@ exl-id: f89f8500-5623-4ee2-a7c0-1d561dd40687
 feature: Reporting
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
-source-wordcount: '233'
+source-wordcount: '237'
 ht-degree: 0%
 
 ---
@@ -27,7 +27,7 @@ Marketo 성능 인사이트를 통해 채널 혼합을 최적화하여 최대의
 
 ## 기여도 {#contribution}
 
-마케팅 평가 [수입에 대한 기여](/help/marketo/product-docs/reporting/performance-insights/performance-insights-contribution-overview.md) 고객 확보, 영향, 전환, 심지어 설치 기반 성장의 함수로.
+고객 확보, 영향, 전환, 설치 기반 증가의 함수로 마케팅의 [매출 기여도](/help/marketo/product-docs/reporting/performance-insights/performance-insights-contribution-overview.md)를 평가합니다.
 
 ![](assets/two.png)
 
@@ -37,19 +37,19 @@ Marketo 성능 인사이트를 통해 채널 혼합을 최적화하여 최대의
 
 ## 트렌드 {#trend}
 
-발견 [장기 추세](/help/marketo/product-docs/reporting/performance-insights/performance-insights-trend-overview.md) 일관된 성공 전략을 파악합니다.
+[장기 트렌드](/help/marketo/product-docs/reporting/performance-insights/performance-insights-trend-overview.md)를 파악하여 일관된 성공 전략을 확인하십시오.
 
 ![](assets/4.png)
 
 ## 설정 {#settings}
 
-수익 및 파이프라인 대시보드에서 을 클릭합니다. [설정](/help/marketo/product-docs/reporting/performance-insights/performance-insights-settings.md) 추가 매개 변수를 설정하는 아이콘입니다.
+매출 및 파이프라인 대시보드에서 [설정](/help/marketo/product-docs/reporting/performance-insights/performance-insights-settings.md) 아이콘을 클릭하여 추가 매개 변수를 설정합니다.
 
 ![](assets/5.png)
 
 ## 데이터 내보내기 {#export-data}
 
-PowerPoint 또는 Excel에서 데이터 및 차트를 내보낼 수 있습니다. 다른 이름으로 저장할 수도 있습니다. [빠른 차트](/help/marketo/product-docs/reporting/performance-insights/performance-insights-quick-charts.md).
+PowerPoint 또는 Excel에서 데이터 및 차트를 내보낼 수 있습니다. [빠른 차트](/help/marketo/product-docs/reporting/performance-insights/performance-insights-quick-charts.md)(으)로 저장할 수도 있습니다.
 
 ![](assets/6.png)
 

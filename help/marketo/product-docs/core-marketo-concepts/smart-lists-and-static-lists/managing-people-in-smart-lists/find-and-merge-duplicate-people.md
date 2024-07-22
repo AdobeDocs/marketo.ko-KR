@@ -6,7 +6,7 @@ exl-id: a6d46096-587a-4e3a-b37a-917c0d2098b1
 feature: Smart Lists
 source-git-commit: 208ba59e3a5cb8e613e887b4c89e51cec4b3f897
 workflow-type: tm+mt
-source-wordcount: '423'
+source-wordcount: '411'
 ht-degree: 0%
 
 ---
@@ -21,7 +21,7 @@ Marketo Engage은 새로운 사용자가 시스템에 들어올 때 자동으로
 
 >[!PREREQUISITES]
 >
->중복 항목을 찾아서 병합하려면 다음을 사용합니다. [기본 제공/시스템 스마트 목록](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/using-smart-lists/use-built-in-system-smart-lists.md){target="_blank"}.
+>중복 항목을 찾아서 병합하려면 [기본 제공/시스템 스마트 목록](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/using-smart-lists/use-built-in-system-smart-lists.md){target="_blank"}을 사용해야 합니다.
 
 >[!NOTE]
 >
@@ -29,7 +29,7 @@ Marketo Engage은 새로운 사용자가 시스템에 들어올 때 자동으로
 
 ## 중복 항목 찾기 {#find-duplicates}
 
-1. 로 이동 **[!UICONTROL 데이터베이스]** 영역입니다.
+1. **[!UICONTROL 데이터베이스]** 영역으로 이동합니다.
 
    ![](assets/find-and-merge-duplicate-people-1.png)
 
@@ -37,21 +37,21 @@ Marketo Engage은 새로운 사용자가 시스템에 들어올 때 자동으로
    >
    >Salesforce 사용자 계정을 사용하는 경우 Marketo의 직원 병합이 작동하지 않을 수 있습니다. 가능하면 Salesforce에서 레코드를 병합하십시오.
 
-1. 다음 항목 선택 **[!UICONTROL 가능한 중복 항목]** System Smart List 를 클릭하고 **[!UICONTROL 사람]** 탭.
+1. **[!UICONTROL 가능한 중복 항목]** 시스템 스마트 목록을 선택하고 **[!UICONTROL 사람]** 탭을 클릭합니다.
 
    ![](assets/find-and-merge-duplicate-people-2.png)
 
    >[!NOTE]
    >
-   >다음을 수행할 수도 있습니다. [사용자 지정 논리로 중복 사용자 찾기](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/managing-people-in-smart-lists/find-duplicate-people-with-custom-logic.md){target="_blank"}.
+   >[사용자 지정 논리로 중복된 사람을 찾을 수 있습니다](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/managing-people-in-smart-lists/find-duplicate-people-with-custom-logic.md){target="_blank"}.
 
 ## 수동으로 사람 병합 {#merge-people-manually}
 
 >[!CAUTION]
 >
->사람들을 병합할 때 손실되는 사람에게 Marketo 사용자 지정 개체가 있는 경우 병합은 _아님_ 우승자에게 다시 연결하십시오. 병합을 수행하기 전에 사용자 지정 개체의 상위 항목을 다시 지정하십시오.
+>사용자를 병합할 때 손실되는 사용자에게 Marketo 사용자 지정 개체가 있는 경우 _그렇지 않음_&#x200B;이(가) 우승한 사용자에게 다시 연결됩니다. 병합을 수행하기 전에 사용자 지정 개체의 상위 항목을 다시 지정하십시오.
 
-1. Ctrl/Cmd를 누른 채 클릭하여 중복 항목을 선택하고 **[!UICONTROL 사람 병합]**.
+1. Ctrl/Cmd를 누른 채 클릭하여 중복 항목을 선택한 다음 **[!UICONTROL 사람 병합]**&#x200B;을 클릭합니다.
 
    ![](assets/find-and-merge-duplicate-people-3.png)
 
@@ -59,7 +59,7 @@ Marketo Engage은 새로운 사용자가 시스템에 들어올 때 자동으로
    >
    >동일한 사용자에 대해 두 개 이상의 중복 항목을 가질 수 있습니다. 모두 한 번에 선택하십시오.
 
-1. 다음 레코드 사이에 있는 값이 표시됩니다. _안 함_ 일치. 각 필드에 유지할 값을 선택합니다. 클릭 **[!UICONTROL 병합]** 완료 시. 둘 중 하나의 값을 원하지 않는 경우 다음을 확인할 수 있습니다 **[!UICONTROL 사용자 정의]** 선택한 값을 입력합니다.
+1. _일치하지 않는_ 레코드 사이의 값이 표시됩니다. 각 필드에 유지할 값을 선택합니다. 완료되면 **[!UICONTROL 병합]**&#x200B;을 클릭합니다. 둘 중 어느 값도 원하지 않는 경우 **[!UICONTROL 사용자 지정]**&#x200B;을 확인하고 원하는 값을 입력할 수 있습니다.
 
    ![](assets/find-and-merge-duplicate-people-4.png)
 
@@ -81,7 +81,7 @@ Salesforce 통합이 있는 경우 Salesforce의 가망 고객 병합 효과에 
 Leads 또는 Contact 를 병합할 때의 Salesforce 동작에 대한 자세한 내용은 다음 Salesforce 문서를 확인하십시오.
 
 * [중복 잠재 고객 병합](https://help.salesforce.com/HTViewHelpDoc?id=leads_merge.htm&amp;language=en_US){target="_blank"}
-* [중복 연락처 병합](https://help.salesforce.com/HTViewHelpDoc?id=contacts_merge.htm&amp;language=en_US){target="_blank"}
+* [중복된 연락처 병합](https://help.salesforce.com/HTViewHelpDoc?id=contacts_merge.htm&amp;language=en_US){target="_blank"}
 
 ## 벌크 병합 {#bulk-merging}
 

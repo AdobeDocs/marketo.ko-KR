@@ -6,7 +6,7 @@ exl-id: 9266fdfe-2a12-43b0-84ad-d12eb8589ed4
 feature: Web Personalization
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
-source-wordcount: '373'
+source-wordcount: '374'
 ht-degree: 1%
 
 ---
@@ -17,7 +17,7 @@ ht-degree: 1%
 
 ## 콘텐츠 분석 보기 {#view-content-analytics}
 
-다음으로 이동 **콘텐츠 분석**.
+**콘텐츠 분석**(으)로 이동합니다.
 
 ![](assets/one.png)
 
@@ -45,11 +45,11 @@ Analytics 테이블은 다음 세부 정보를 제공합니다.
  <tbody> 
   <tr> 
    <td colspan="1" rowspan="1"><strong>제목</strong></td> 
-   <td colspan="1" rowspan="1">디지털 콘텐츠 자산의 이름입니다. 클릭 <strong>제목</strong> 새 탭에서 컨텐츠 URL을 엽니다.</td> 
+   <td colspan="1" rowspan="1">디지털 콘텐츠 자산의 이름입니다. <strong>제목</strong>을 클릭하여 새 탭에서 콘텐츠 URL을 엽니다.</td> 
   </tr> 
   <tr> 
-   <td colspan="1"><p><strong>추천 </strong><strong>아이콘</strong></p><p><strong><img alt="—" width="24" src="assets/recommended-icon.png" data-linked-resource-id="10094267" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="10093159" title="--"></strong></p></td> 
-   <td colspan="1">콘텐츠 조각이 다음에 추가되었는지 여부를 나타냅니다. <a href="#">컨텐츠 Recommendations</a>.</td> 
+   <td colspan="1"><p><strong>권장 사항 </strong><strong>아이콘</strong></p><p><strong><img alt="—" width="24" src="assets/recommended-icon.png" data-linked-resource-id="10094267" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="10093159" title="--"></strong></p></td> 
+   <td colspan="1"><a href="#">콘텐츠 Recommendations</a>에 대해 콘텐츠 조각을 추가했는지 여부를 나타냅니다.</td> 
   </tr> 
   <tr> 
    <td colspan="1" rowspan="1"><p><strong>보기</strong></p></td> 
@@ -82,15 +82,15 @@ Analytics 테이블은 다음 세부 정보를 제공합니다.
 
 추가 콘텐츠 분석에는 다음이 포함됩니다.
 
-**분석**
+**Analytics**
 
-* **보기**: 선택한 시간 범위에 대한 해당 콘텐츠 조각 보기
-* **직접 전환**: 동일한 방문에서 콘텐츠를 보고 양식을 작성한 웹 방문자입니다.
-* **전환율****:** 직접 전환 수를 클릭수로 나눈 백분율 전환율입니다
+* **보기**: 선택한 시간 범위에 대한 해당 콘텐츠 부분 보기
+* **직접 전환**: 같은 방문에서 콘텐츠를 보고 양식을 작성한 웹 방문자입니다.
+* **전환율****:** 직접 전환으로 계산된 전환율을 클릭수로 나눈 비율입니다.
 
 **트렌드**
 
-* A **트렌드** 특정 콘텐츠 조각의 마지막 30일 보기를 보여 주는 그래프입니다. 라인 그래프 위로 마우스를 가져가면 특정 날짜의 콘텐츠 보기 수를 볼 수 있습니다
+* 특정 콘텐츠 조각의 마지막 30일 보기를 보여 주는 **트렌드** 그래프입니다. 라인 그래프 위로 마우스를 가져가면 특정 날짜의 콘텐츠 보기 수를 볼 수 있습니다
 
 ## 컨텐츠 삭제 {#delete-content}
 
@@ -100,5 +100,5 @@ Content Analytics 페이지에서 삭제하려는 콘텐츠의 삭제 아이콘�
 
 >[!MORELIKETHIS]
 >
->* [콘텐츠 추천 막대 활성화](/help/marketo/product-docs/predictive-content/enabling-predictive-content/enable-the-content-recommendation-bar.md)
->* [웹 리치 미디어에 대한 예측 콘텐츠 활성화](/help/marketo/product-docs/predictive-content/enabling-predictive-content/enable-predictive-content-for-web-rich-media.md)
+>* [콘텐츠 추천 막대 사용](/help/marketo/product-docs/predictive-content/enabling-predictive-content/enable-the-content-recommendation-bar.md)
+>* [웹 리치 미디어에 대한 예측 콘텐츠 사용](/help/marketo/product-docs/predictive-content/enabling-predictive-content/enable-predictive-content-for-web-rich-media.md)

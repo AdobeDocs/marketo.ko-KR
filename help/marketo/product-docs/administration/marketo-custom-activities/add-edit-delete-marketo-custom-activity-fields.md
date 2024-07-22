@@ -17,15 +17,15 @@ ht-degree: 0%
 
 ## 사용자 지정 활동 필드 추가 {#add-a-custom-activity-field}
 
-1. 로 이동 **[!UICONTROL 관리자]** 영역입니다.
+1. **[!UICONTROL 관리자]** 영역으로 이동합니다.
 
    ![](assets/add-edit-delete-marketo-custom-activity-fields-1.png)
 
-1. 클릭 **[!UICONTROL Marketo 사용자 지정 활동]**.
+1. **[!UICONTROL Marketo 사용자 지정 활동]**&#x200B;을 클릭합니다.
 
    ![](assets/add-edit-delete-marketo-custom-activity-fields-2.png)
 
-1. 클릭 **[!UICONTROL 필드]**.
+1. **[!UICONTROL 필드]**&#x200B;를 클릭합니다.
 
    ![](assets/add-edit-delete-marketo-custom-activity-fields-3.png)
 
@@ -33,19 +33,19 @@ ht-degree: 0%
 
    ![](assets/add-edit-delete-marketo-custom-activity-fields-4.png)
 
-1. 클릭 **[!UICONTROL 새 필드]**.
+1. **[!UICONTROL 새 필드]**&#x200B;을 클릭합니다.
 
    ![](assets/add-edit-delete-marketo-custom-activity-fields-5.png)
 
-1. 필드 선택 [!UICONTROL 데이터 유형].
+1. 필드의 [!UICONTROL 데이터 형식]을(를) 선택하십시오.
 
    ![](assets/add-edit-delete-marketo-custom-activity-fields-6.png)
 
    >[!TIP]
    >
-   >무엇을 선택할지 확실하지 않습니까? 엄호해! 사용 가능한 모든 데이터 유형이에 정의되어 있습니다. [이 문서](/help/marketo/product-docs/administration/field-management/custom-field-type-glossary.md).
+   >무엇을 선택할지 확실하지 않습니까? 엄호해! 사용 가능한 모든 데이터 형식은 [이 문서](/help/marketo/product-docs/administration/field-management/custom-field-type-glossary.md)에 정의되어 있습니다.
 
-1. 필드 이름을 지정합니다. Api 이름이 자동으로 채워집니다. 완료되면 다음을 클릭합니다. **[!UICONTROL 저장]**.
+1. 필드 이름을 지정합니다. Api 이름이 자동으로 채워집니다. 완료되면 **[!UICONTROL 저장]**&#x200B;을 클릭하세요.
 
    ![](assets/add-edit-delete-marketo-custom-activity-fields-7.png)
 
@@ -53,15 +53,15 @@ ht-degree: 0%
 
 ## 사용자 지정 활동 필드 편집 {#edit-a-custom-activity-field}
 
-1. 로 이동 **[!UICONTROL 관리자]** 영역입니다.
+1. **[!UICONTROL 관리자]** 영역으로 이동합니다.
 
    ![](assets/add-edit-delete-marketo-custom-activity-fields-8.png)
 
-1. 클릭 **[!UICONTROL Marketo 사용자 지정 활동]**.
+1. **[!UICONTROL Marketo 사용자 지정 활동]**&#x200B;을 클릭합니다.
 
    ![](assets/add-edit-delete-marketo-custom-activity-fields-9.png)
 
-1. 클릭 **[!UICONTROL 필드]**.
+1. **[!UICONTROL 필드]**&#x200B;를 클릭합니다.
 
    ![](assets/add-edit-delete-marketo-custom-activity-fields-10.png)
 
@@ -69,7 +69,7 @@ ht-degree: 0%
 
    ![](assets/add-edit-delete-marketo-custom-activity-fields-11.png)
 
-1. 편집할 필드를 선택하고 **[!UICONTROL 필드 작업]** 드롭다운 및 선택 **[!UICONTROL 필드 편집]**.
+1. 편집할 필드를 선택하고 **[!UICONTROL 필드 작업]** 드롭다운을 클릭한 다음 **[!UICONTROL 필드 편집]**&#x200B;을 선택합니다.
 
    ![](assets/add-edit-delete-marketo-custom-activity-fields-12.png)
 
@@ -77,7 +77,7 @@ ht-degree: 0%
 
    ![](assets/add-edit-delete-marketo-custom-activity-fields-13.png)
 
-1. 새 이름과 API 이름을 입력한 다음 **[!UICONTROL 저장]**.
+1. 새 이름과 API 이름을 입력한 다음 **[!UICONTROL 저장]**&#x200B;을 클릭합니다.
 
    ![](assets/add-edit-delete-marketo-custom-activity-fields-14.png)
 
@@ -97,15 +97,15 @@ ht-degree: 0%
 
 ## 사용자 지정 활동 필드 삭제 {#delete-a-custom-activity-field}
 
-1. 로 이동 **[!UICONTROL 관리자]** 영역입니다.
+1. **[!UICONTROL 관리자]** 영역으로 이동합니다.
 
    ![](assets/add-edit-delete-marketo-custom-activity-fields-15.png)
 
-1. 클릭 **[!UICONTROL Marketo 사용자 지정 활동]**.
+1. **[!UICONTROL Marketo 사용자 지정 활동]**&#x200B;을 클릭합니다.
 
    ![](assets/add-edit-delete-marketo-custom-activity-fields-16.png)
 
-1. 클릭 **[!UICONTROL 필드]**.
+1. **[!UICONTROL 필드]**&#x200B;를 클릭합니다.
 
    ![](assets/add-edit-delete-marketo-custom-activity-fields-17.png)
 
@@ -113,6 +113,6 @@ ht-degree: 0%
 
    ![](assets/add-edit-delete-marketo-custom-activity-fields-18.png)
 
-1. 삭제할 필드를 선택하고 **[!UICONTROL 필드 작업]** 드롭다운 및 선택 **[!UICONTROL 필드 삭제]**.
+1. 삭제할 필드를 선택하고 **[!UICONTROL 필드 작업]** 드롭다운을 클릭한 다음 **[!UICONTROL 필드 삭제]**&#x200B;를 선택합니다.
 
    ![](assets/add-edit-delete-marketo-custom-activity-fields-19.png)

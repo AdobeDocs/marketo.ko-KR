@@ -46,7 +46,7 @@ Salesforce를 사용하는 경우 동기화 오류 알림은 아래와 같이 �
 
 ## 유휴 트리거 캠페인 정리 {#idle-trigger-campaign-cleanup}
 
-더 이상 활동을 가져올 수 없는 트리거된 스마트 캠페인을 비활성화합니다. 자세히 알아보기  [캠페인 자동 정리 트리거](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/using-smart-campaigns/automatic-trigger-campaign-cleanup.md).
+더 이상 활동을 가져올 수 없는 트리거된 스마트 캠페인을 비활성화합니다. [자동 트리거 캠페인 정리](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/using-smart-campaigns/automatic-trigger-campaign-cleanup.md)에 대해 자세히 알아보세요.
 
 ## LinkedIn {#linkedin}
 
@@ -60,4 +60,4 @@ Marketo에서 3회 시도 후 새 대상을 만들거나, 로그인하거나, �
 
 >[!NOTE]
 >
->받을 수 있는 오류 코드 중 일부는 다음에 요약되어 있습니다. [개발자 설명서](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/rest/error-codes).
+>오류 코드 중 일부는 [개발자 설명서](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/rest/error-codes)에 요약되어 있습니다.

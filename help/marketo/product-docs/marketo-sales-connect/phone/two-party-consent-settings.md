@@ -6,7 +6,7 @@ exl-id: d0468ea1-3009-4190-ab9b-74c6fae955cb
 feature: Marketo Sales Connect
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
-source-wordcount: '153'
+source-wordcount: '154'
 ht-degree: 0%
 
 ---
@@ -17,21 +17,21 @@ ht-degree: 0%
 
 >[!PREREQUISITES]
 >
->아래 단계를 수행하기 전에 먼저 다음을 수행해야 합니다 [통화 기록 활성화](/help/marketo/product-docs/marketo-sales-connect/phone/enable-call-recording.md).
+>아래 단계를 따르려면 먼저 [통화 기록을 활성화](/help/marketo/product-docs/marketo-sales-connect/phone/enable-call-recording.md)해야 합니다.
 
-1. 설정 아이콘을 클릭하고 다음을 선택합니다. **설정**.
+1. 설정 아이콘을 클릭하고 **설정**&#x200B;을 선택합니다.
 
    ![](assets/one-1.png)
 
-1. Admin Settings에서 **일반**.
+1. 관리자 설정에서 **일반**&#x200B;을 클릭합니다.
 
    ![](assets/two-1.png)
 
-1. Sales Connect Phone Settings 로 스크롤한 다음 **녹음/녹화 알림 관리**.
+1. Sales Connect Phone 설정으로 스크롤한 다음 **녹음 알림 관리**&#x200B;를 클릭합니다.
 
    ![](assets/three-1.png)
 
-1. 클릭 **레코딩 가져오기**.
+1. **녹음/녹화 가져오기**&#x200B;를 클릭합니다.
 
    ![](assets/four-1.png)
 
@@ -43,7 +43,7 @@ ht-degree: 0%
 
    ![](assets/five.png)
 
-1. 업로드가 완료되면 파일 관리자에서 dota(세 점)를 선택하고 을(를) 클릭합니다 **동의 알림으로 선택**. 클릭 **확인** 완료 시.
+1. 업로드가 완료되면 파일 관리자에서 dota(세 점)를 선택하고 **동의 알림으로 선택**&#x200B;을 클릭합니다. 완료되면 **확인**&#x200B;을 클릭하세요.
 
    ![](assets/six.png)
 

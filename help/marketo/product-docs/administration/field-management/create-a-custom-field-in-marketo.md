@@ -15,11 +15,11 @@ ht-degree: 0%
 
 데이터를 저장/캡처하기 위해 Marketo Engage에 새 사용자 정의 필드가 필요한 경우 만드는 방법은 다음과 같습니다.
 
-1. 로 이동 **[!UICONTROL 관리자]** 영역입니다.
+1. **[!UICONTROL 관리자]** 영역으로 이동합니다.
 
    ![](assets/create-a-custom-field-in-marketo-1.png)
 
-1. 클릭 **[!UICONTROL 필드 관리]**.
+1. **[!UICONTROL 필드 관리]**&#x200B;를 클릭합니다.
 
    ![](assets/create-a-custom-field-in-marketo-2.png)
 
@@ -27,7 +27,7 @@ ht-degree: 0%
    >
    >필드가 CRM과 계속 동기화되도록 하려면 CRM에서 필드를 만들면 Marketo에서 자동으로 만들어집니다.
 
-1. 클릭 **[!UICONTROL 새 사용자 정의 필드]**.
+1. **[!UICONTROL 새 사용자 지정 필드]**&#x200B;를 클릭합니다.
 
    ![](assets/create-a-custom-field-in-marketo-3.png)
 
@@ -35,15 +35,15 @@ ht-degree: 0%
 
    >[!TIP]
    >
-   >다음을 확인하십시오. [사용자 정의 필드 유형 용어집](/help/marketo/product-docs/administration/field-management/custom-field-type-glossary.md).
+   >[사용자 지정 필드 형식 용어집](/help/marketo/product-docs/administration/field-management/custom-field-type-glossary.md)을 확인하십시오.
 
    ![](assets/create-a-custom-field-in-marketo-4.png)
 
-1. 다음을 입력합니다. [!UICONTROL 이름] 원하는 대로 Marketo에 표시합니다. 다음 [!UICONTROL API 이름] 자동으로 생성됩니다. 조정할 수 있지만 설정한 후에는 이름을 바꿀 수 없습니다. 클릭 **[!UICONTROL 만들기]** 완료 시.
+1. Marketo에 표시할 [!UICONTROL 이름]을(를) 입력하십시오. [!UICONTROL API 이름]이(가) 자동으로 생성됩니다. 조정할 수 있지만 설정한 후에는 이름을 바꿀 수 없습니다. 완료되면 **[!UICONTROL 만들기]**&#x200B;를 클릭합니다.
 
 >[!CAUTION]
 >
->필드 이름은 다음 문자로 시작할 수 없습니다. **. &amp; +[]**
+>필드 이름은 **. &amp; +[]** 문자로 시작할 수 없습니다.
 
 ![](assets/create-a-custom-field-in-marketo-5.png)
 

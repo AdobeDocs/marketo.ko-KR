@@ -6,16 +6,16 @@ exl-id: 33a350c9-7b57-4031-b916-58d2b12c1927
 feature: SEO
 source-git-commit: d9ea30742b6ef3b6299284a1f446a69f15105379
 workflow-type: tm+mt
-source-wordcount: '213'
+source-wordcount: '216'
 ht-degree: 0%
 
 ---
 
-# SEO - 이해 [!UICONTROL 키워드] {#seo-understanding-keywords}
+# SEO - [!UICONTROL 키워드] 이해 {#seo-understanding-keywords}
 
-[!UICONTROL 키워드] 는 SEO 전략의 중추입니다. 목표는 비즈니스와 관련된 키워드에 대해 가능한 한 #1 가까운 첫 페이지에 있는 것입니다.
+[!UICONTROL 키워드]은(는) SEO 전략의 중추입니다. 목표는 비즈니스와 관련된 키워드에 대해 가능한 한 #1 가까운 첫 페이지에 있는 것입니다.
 
-다음 [!UICONTROL 키워드] 섹션에는 사이트가 이를 달성하는 데 얼마나 성공적인지 및 까지 스택하는 방법이 표시됩니다. [경쟁 제품](/help/marketo/product-docs/additional-apps/seo/understanding-seo/seo-add-competitors.md).
+[!UICONTROL 키워드] 섹션은 사이트가 이를 달성하는 데 얼마나 성공적인지 그리고 최대 [경쟁률을 스택](/help/marketo/product-docs/additional-apps/seo/understanding-seo/seo-add-competitors.md)하는 방법을 보여 줍니다.
 
 ## [!UICONTROL 키워드] - 요약 보기 {#keywords-summary-view}
 
@@ -35,7 +35,7 @@ ht-degree: 0%
   </tr> 
   <tr> 
    <td colspan="1" rowspan="1"><span class="uicontrol">순위 및 트렌드</span></td> 
-   <td colspan="1" rowspan="1"><p>이 키워드에 대한 사이트의 등급입니다. 이전 주의 키워드 등급 추세를 화살표로 보여 줍니다. </p><p><img alt="—" src="assets/image2015-5-11-15-3a24-3a6.png" data-linked-resource-id="7514508" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="2949182" title="--">  = 순위 상승</p><p><img alt="--" src="assets/image2015-5-11-15-3a18-3a3.png" data-linked-resource-id="7514505" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="2949182" title="--"> = 등급 하향</p><p> <img alt="--" src="assets/image2015-5-11-15-3a23-3a44.png" data-linked-resource-id="7514507" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="2949182" title="--">= 동일한 순위 지정</p></td> 
+   <td colspan="1" rowspan="1"><p>이 키워드에 대한 사이트의 등급입니다. 이전 주의 키워드 등급 추세를 화살표로 보여 줍니다. </p><p><img alt="—" src="assets/image2015-5-11-15-3a24-3a6.png" data-linked-resource-id="7514508" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="2949182" title="--">  = 순위 상승</p><p><img alt="--" src="assets/image2015-5-11-15-3a18-3a3.png" data-linked-resource-id="7514505" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="2949182" title="--"> = 등급 하향</p><p> <img alt="--" src="assets/image2015-5-11-15-3a23-3a44.png" data-linked-resource-id="7514507" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="2949182" title="--">= 동일한 순위</p></td> 
   </tr> 
   <tr> 
    <td colspan="1" rowspan="1"><span class="uicontrol">경쟁 수준</span></td> 
@@ -62,7 +62,7 @@ ht-degree: 0%
 
 ![](assets/image2014-9-17-21-3a44-3a45.png)
 
-잘됐네! 이제 이해하셨군요 [!UICONTROL 키워드] 섹션, 페이지 및 인바운드 링크에 대해 알아보겠습니다.
+잘됐네! [!UICONTROL 키워드] 섹션을 이해했으므로 페이지 및 인바운드 링크에 대해 알아보겠습니다.
 
 >[!MORELIKETHIS]
 >

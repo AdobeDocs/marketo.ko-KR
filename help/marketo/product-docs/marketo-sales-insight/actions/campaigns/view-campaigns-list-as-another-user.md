@@ -18,11 +18,11 @@ ht-degree: 0%
 >
 >**관리자 권한 필요**
 
-1. 웹 응용 프로그램에서 **캠페인**.
+1. 웹 응용 프로그램에서 **캠페인**&#x200B;을 클릭합니다.
 
    ![](assets/view-campaigns-list-as-another-user-1.png)
 
-1. 다음을 클릭합니다. **다음으로 보기** 드롭다운을 클릭하고 원하는 사용자를 선택합니다.
+1. **다른 이름으로 보기** 드롭다운을 클릭하고 원하는 사용자를 선택합니다.
 
    ![](assets/view-campaigns-list-as-another-user-2.png)
 

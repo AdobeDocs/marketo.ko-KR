@@ -14,19 +14,19 @@ ht-degree: 0%
 
 랜딩 페이지 도메인에서 HTTP 헤더 중 일부를 사용자 지정하려면 아래 단계를 따르십시오.
 
-1. Marketo에서 **[!UICONTROL 관리자]**.
+1. Marketo에서 **[!UICONTROL 관리자]**&#x200B;를 클릭합니다.
 
    ![](assets/landing-page-headers-1.png)
 
-1. 클릭 **[!UICONTROL 랜딩 페이지]**.
+1. **[!UICONTROL 랜딩 페이지]**&#x200B;를 클릭합니다.
 
    ![](assets/landing-page-headers-2.png)
 
-1. 클릭 **[!UICONTROL 편집]** 랜딩 페이지 HTTP 헤더 옆의
+1. 랜딩 페이지 HTTP 헤더 옆의 **[!UICONTROL 편집]**&#x200B;을 클릭합니다.
 
    ![](assets/landing-page-headers-3.png)
 
-1. 원하는 설정을 선택하고 **[!UICONTROL 저장]** 완료 시.
+1. 원하는 설정을 선택하고 완료되면 **[!UICONTROL 저장]**&#x200B;을 클릭하세요.
 
    ![](assets/landing-page-headers-4.png)
 

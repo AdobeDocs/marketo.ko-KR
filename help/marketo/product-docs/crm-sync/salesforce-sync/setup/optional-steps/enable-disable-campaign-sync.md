@@ -19,15 +19,15 @@ ht-degree: 0%
 
 이 옵션을 사용하면 Marketo Engage이 프로그램 멤버십 및 상태를 Salesforce 캠페인과 동기화하거나 그 반대로 동기화할 수 있습니다.
 
-1. 다음으로 이동 **[!UICONTROL 관리자]** 및 클릭 **[!DNL Salesforce]**.
+1. **[!UICONTROL 관리자]**(으)로 이동하여 **[!DNL Salesforce]**&#x200B;을(를) 클릭합니다.
 
    ![](assets/image2014-12-9-13-3a36-3a49.png)
 
-1. 클릭 **[!UICONTROL 동기화 설정 편집]**.
+1. **[!UICONTROL 동기화 설정 편집]**&#x200B;을 클릭합니다.
 
    ![](assets/image2014-12-9-13-3a37-3a0.png)
 
-1. 확인 **[!UICONTROL Salesforce 캠페인 동기화 활성화]** 및 클릭 **[!UICONTROL 저장]**.
+1. **[!UICONTROL Salesforce Campaign 동기화 활성화]**&#x200B;를 선택하고 **[!UICONTROL 저장]**&#x200B;을 클릭합니다.
 
    ![](assets/image2014-12-9-13-3a37-3a8.png)
 

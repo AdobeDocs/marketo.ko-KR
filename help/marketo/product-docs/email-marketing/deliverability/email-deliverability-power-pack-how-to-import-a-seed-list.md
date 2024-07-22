@@ -17,23 +17,23 @@ ht-degree: 0%
 
 >[!IMPORTANT]
 >
->이 기사는 현재 에베레스트 구독이 활발한 사람들을 위한 것이다. Bird(이전 MessageBird)별 받은 편지함 추적기를 사용하는 경우 자습서 [은(는) 여기에서 찾을 수 있음](/help/marketo/product-docs/email-marketing/deliverability/inbox-tracker/inbox-tracker-tutorials.md){target="_blank"}.
+>이 기사는 현재 에베레스트 구독이 활발한 사람들을 위한 것이다. Bird(이전 MessageBird)별 받은 편지함 추적기를 사용하는 경우 [튜토리얼은 여기에서 찾을 수 있습니다](/help/marketo/product-docs/email-marketing/deliverability/inbox-tracker/inbox-tracker-tutorials.md){target="_blank"}.
 
 ## 시드 목록 가져오기 {#import-a-seed-list}
 
-1. 내 Marketo에서 **전달성 도구**.
+1. 내 Marketo에서 **게재 기능 도구**&#x200B;를 선택합니다.
 
    ![](assets/email-deliverability-power-pack-1.png)
 
-1. 에베레스트 지원서가 공개될 것이다. 왼쪽 탐색 메뉴에서 **비행 중** 및 선택 **받은 편지함 배치**.
+1. 에베레스트 지원서가 공개될 것이다. 왼쪽 탐색에서 **진행 중**&#x200B;을 클릭하고 **받은 편지함 배치**&#x200B;를 선택합니다.
 
    ![](assets/email-deliverability-power-pack-2.png)
 
-1. 다음을 클릭합니다. **시드 목록 관리** 탭.
+1. **시드 목록 관리** 탭을 클릭합니다.
 
    ![](assets/email-deliverability-power-pack-3.png)
 
-1. 작업 드롭다운을 클릭하고 을 선택합니다. **한 줄에 한 개 다운로드**.
+1. 작업 드롭다운을 클릭하고 **한 줄에 하나씩 다운로드**&#x200B;를 선택합니다.
 
    ![](assets/email-deliverability-power-pack-4.png)
 
@@ -41,7 +41,7 @@ ht-degree: 0%
    >
    >Everest에서 목록을 최적화하도록 하려면 페이지 상단에 있는 시드 목록 최적화 도구 를 사용하십시오.
 
-1. 내보내기가 끝나면 브라우저의 다운로드 폴더에 목록이 .txt 파일로 나타납니다. 검색 및 [가져오기](/help/marketo/getting-started/quick-wins/import-a-list-of-people.md) 정적 목록으로 Marketo 인스턴스에 통합합니다.
+1. 내보내기가 끝나면 브라우저의 다운로드 폴더에 목록이 .txt 파일로 나타납니다. 검색하고 정적 목록으로 Marketo 인스턴스에 [가져오기](/help/marketo/getting-started/quick-wins/import-a-list-of-people.md)합니다.
 
    ![](assets/email-deliverability-power-pack-5.png)
 

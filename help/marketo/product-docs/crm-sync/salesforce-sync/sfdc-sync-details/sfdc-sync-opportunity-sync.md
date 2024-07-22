@@ -6,7 +6,7 @@ exl-id: f8acc528-c631-43f0-8899-2f3c6fdabe9e
 feature: Salesforce Integration
 source-git-commit: 0087a5e88b8bd9601875f68a2e7cadeebdb5d682
 workflow-type: tm+mt
-source-wordcount: '292'
+source-wordcount: '288'
 ht-degree: 0%
 
 ---
@@ -19,7 +19,7 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->다음 [salesforce용 Marketo에 입력하는 자격 증명](/help/marketo/product-docs/crm-sync/salesforce-sync/setup/enterprise-unlimited-edition/step-2-of-3-create-a-salesforce-user-for-marketo-enterprise-unlimited.md){target="_blank"} 는 데이터를 동기화하는 데 사용됩니다. 해당 자격 증명이 액세스할 수 있는 데이터만 포함됩니다.
+>Salesforce용 Marketo에 입력한 [자격 증명](/help/marketo/product-docs/crm-sync/salesforce-sync/setup/enterprise-unlimited-edition/step-2-of-3-create-a-salesforce-user-for-marketo-enterprise-unlimited.md){target="_blank"}을(를) 사용하여 데이터를 동기화합니다. 해당 자격 증명이 액세스할 수 있는 데이터만 포함됩니다.
 
 ## Opportunity Sync 를 시작할 수 있습니까? {#can-i-initiate-an-opportunity-sync}
 
@@ -27,15 +27,15 @@ ht-degree: 0%
 
 ## Marketo은 Opportunity Amount에서 두 개 이상의 통화를 지원합니까? {#does-marketo-support-more-than-one-currency-in-the-opportunity-amount}
 
-아니요. Marketo은 하나의 통화만 지원합니다. 영업 기회 금액은 Salesforce에서 동기화되지만 통화는 [기본 통화](/help/marketo/product-docs/administration/settings/set-default-location-settings-for-a-subscription.md#set-the-default-currency-settings-for-a-subscription){target="_blank"} Marketo 구독에서.
+아니요. Marketo은 하나의 통화만 지원합니다. 영업 기회 금액은 Salesforce에서 동기화되지만 통화는 Marketo 구독에서 [기본 통화](/help/marketo/product-docs/administration/settings/set-default-location-settings-for-a-subscription.md#set-the-default-currency-settings-for-a-subscription){target="_blank"}가 됩니다.
 
 ## Marketo은 기회와 연락처를 어떻게 연결합니까? {#how-does-marketo-associate-opportunities-and-contacts}
 
-Marketo은 다음을 사용하여 Opportunity 및 Contact 를 연결합니다. [영업 기회 연락처 역할](https://help.salesforce.com/HTViewHelpDoc?id=contactroles.htm){target="_blank"}. 할당된 연락처 역할이 없는 기회는 Marketo에 동기화되지만 누구에게도 속하지 않습니다. 예를 들어 영업 기회 보유 필터에 대한 자격이 부여되지 않습니다.
+Marketo은 [영업 기회 연락처 역할](https://help.salesforce.com/HTViewHelpDoc?id=contactroles.htm){target="_blank"}을 사용하여 영업 기회와 연락처를 연결합니다. 할당된 연락처 역할이 없는 기회는 Marketo에 동기화되지만 누구에게도 속하지 않습니다. 예를 들어 영업 기회 보유 필터에 대한 자격이 부여되지 않습니다.
 
 ## 한 사람의 모든 기회를 어떻게 볼 수 있습니까? {#how-can-i-see-all-the-opportunities-of-a-person}
 
-다음에서 기회 목록을 볼 수 있습니다. **영업 기회 정보** 의 탭 [개인 세부 정보](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/managing-people-in-smart-lists/using-the-person-detail-page.md){target="_blank"} 페이지를 가리키도록 업데이트하는 중입니다.
+[개인 정보](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/managing-people-in-smart-lists/using-the-person-detail-page.md){target="_blank"} 페이지의 **기회 정보** 탭에서 기회 목록을 볼 수 있습니다.
 
 ## 영업 기회와 관련된 트리거/필터는 무엇입니까? {#what-are-the-triggers-filters-related-to-opportunity}
 

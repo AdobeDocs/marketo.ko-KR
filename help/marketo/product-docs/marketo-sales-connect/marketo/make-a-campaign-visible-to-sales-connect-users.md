@@ -19,7 +19,7 @@ ht-degree: 0%
 
    ![](assets/one.png)
 
-1. 다음을 클릭합니다. **스마트 목록** 탭.
+1. **스마트 목록** 탭을 클릭합니다.
 
    ![](assets/two.png)
 
@@ -27,11 +27,11 @@ ht-degree: 0%
 
    ![](assets/three.png)
 
-1. 소스의 경우 &quot;is&quot; 선택 **웹 서비스 API**.
+1. 원본의 경우 &quot;is&quot; **웹 서비스 API**&#x200B;를 선택하십시오.
 
    ![](assets/4.png)
 
-1. 다음을 클릭합니다. **플로우** 탭.
+1. **흐름** 탭을 클릭합니다.
 
    ![](assets/five.png)
 
@@ -39,7 +39,7 @@ ht-degree: 0%
 
    ![](assets/six.png)
 
-1. 유형에서 다음을 선택합니다. **웹**.
+1. 형식에는 **웹**&#x200B;을(를) 선택하십시오.
 
    ![](assets/seven.png)
 
@@ -47,6 +47,6 @@ ht-degree: 0%
 
    ![](assets/eight.png)
 
-1. 다음을 클릭합니다. **예약** 탭 및 **활성화** 캠페인.
+1. **일정** 탭을 클릭하고 캠페인을 **활성화**&#x200B;합니다.
 
    ![](assets/nine.png)

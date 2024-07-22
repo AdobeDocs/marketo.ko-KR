@@ -1,35 +1,35 @@
 ---
 unique-page-id: 4720796
-description: 웹 개인화 데이터를 사용하여 재타겟팅 - Marketo 문서 - 제품 설명서
-title: 웹 개인화 데이터를 사용하여 재타겟팅
+description: 웹 Personalization 데이터를 사용하여 재타겟팅 - Marketo 문서 - 제품 설명서
+title: 웹 Personalization 데이터를 사용하여 재타겟팅
 exl-id: b5af1f84-2061-4d0d-9d1f-2fff9191f028
 feature: Web Personalization
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
-source-wordcount: '406'
-ht-degree: 0%
+source-wordcount: '403'
+ht-degree: 1%
 
 ---
 
-# 웹 개인화 데이터를 사용하여 재타겟팅 {#retargeting-with-web-personalization-data}
+# 웹 Personalization 데이터를 사용하여 재타겟팅 {#retargeting-with-web-personalization-data}
 
 >[!AVAILABILITY]
 >
->이제 웹 사이트 재타겟팅은 웹 개인화 타일에 포함됩니다. 재타겟팅만 구입한 경우 이 타일이 표시되고 을 사용하여 웹 개인화 제품에 액세스합니다 **전용** 기능 재타겟팅이 활성화되었습니다. 이렇게 하면 계정 설정, 리타겟팅 페이지, 세그먼트 및 추가 추적 페이지에 액세스할 수 있습니다.
+>웹 사이트 재타겟팅은 이제 웹 Personalization 타일에 해당됩니다. 리타겟팅만 구매한 경우 이 타일이 표시되고 **전용** 리타겟팅 기능이 활성화된 웹 Personalization 제품에 액세스합니다. 이렇게 하면 계정 설정, 리타겟팅 페이지, 세그먼트 및 추가 추적 페이지에 액세스할 수 있습니다.
 
 리마케팅은 이전에 자신의 신원과 수행한 작업에 따라 디스플레이 광고를 사용하여 사이트를 방문한 잠재 고객을 타깃팅합니다. 개인화된 리타기팅은 업계, 명명 계정 및 알려진 사용자 데이터를 기반으로 하는 관련 광고를 통해 특정 대상을 타기팅합니다.
 
-웹 개인화는 현재 다음 리마케팅 플랫폼에 데이터를 추가합니다.
+웹 Personalization은 현재 다음 리마케팅 플랫폼에 데이터를 추가합니다.
 
 * [Google](/help/marketo/product-docs/web-personalization/website-retargeting/personalized-remarketing-in-google.md)
 * [Facebook](/help/marketo/product-docs/web-personalization/website-retargeting/personalized-remarketing-in-facebook.md)
 
-웹 개인화는 리마케팅 플랫폼으로 다음 데이터를 전송하여 대상자를 만들고 리마케팅 광고 캠페인을 실행합니다.
+웹 Personalization은 대상자를 만들고 리마케팅 광고 캠페인을 실행하기 위해 리마케팅 플랫폼으로 다음 데이터를 보냅니다.
 
 <table> 
  <tbody> 
   <tr> 
-   <th colspan="1">웹 개인화 데이터</th> 
+   <th colspan="1">웹 Personalization 데이터</th> 
   </tr> 
   <tr> 
    <th><p>산업</p></th> 
@@ -54,7 +54,7 @@ ht-degree: 0%
 
 ## 리마케팅 구성 {#remarketing-configuration}
 
-1. 다음으로 이동 **재타겟팅**.
+1. **다시 타깃팅**(으)로 이동합니다.
 
    ![](assets/one.png)
 
@@ -68,15 +68,15 @@ ht-degree: 0%
    >
    >웹 사이트에 Google 리타겟팅 태그가 구현되어 있어야 합니다.
    >
-   >웹 개인화 및 Google Analytics과의 통합을 이미 설정한 경우 이 파트는 계정 설정에서 구성한 것과 동일한 구성이므로 편집할 필요가 없습니다.
+   >이미 웹 Personalization 및 Google Analytics과의 통합을 설정한 경우 이 부분은 계정 설정 의 구성과 동일하므로 편집할 필요가 없습니다.
 
    ![](assets/two.png)
 
-1. facebook에 대한 구성을 활성화합니다. 을(를) 클릭하고 Facebook 아코디언을 확장한 다음 **날짜** 를 클릭하여 해당 이벤트와 데이터를 Facebook Audience Manager으로 보냅니다. 클릭 **저장**.
+1. facebook에 대한 구성을 활성화합니다. facebook 아코디언을 클릭하고 확장한 다음 **켜짐**&#x200B;을 클릭하여 각 이벤트와 데이터를 Facebook Audience Manager으로 보냅니다. **저장**&#x200B;을 클릭합니다.
 
    >[!NOTE]
    >
-   >다음을 수행해야 합니다. [Facebook 사용자 지정 대상 픽셀](https://developers.facebook.com/docs/ads-for-websites/website-custom-audiences/getting-started#install-the-pixel)이 기능이 작동하도록 웹 사이트를 설치했습니다.
+   >이 기능을 사용하려면 [Facebook 사용자 지정 대상 픽셀](https://developers.facebook.com/docs/ads-for-websites/website-custom-audiences/getting-started#install-the-pixel)웹 사이트를 설치해야 합니다.
 
    ![](assets/three.png)
 
@@ -88,7 +88,7 @@ ht-degree: 0%
 >
 >도메인 구성에서 이미 보낸 업계 또는 기타 데이터에 대해 세그먼트화된 대상자를 만들 필요가 없습니다. 알려진 사용자 데이터를 기반으로 하는 세그먼트에 대해 세그먼트화된 대상을 사용하는 것이 가장 좋습니다.
 
-1. 클릭 **세그먼트화된 대상자 만들기**.
+1. **세분화된 대상자 만들기**&#x200B;를 클릭합니다.
 
    ![](assets/image2015-1-15-16-3a36-3a38.png)
 
@@ -96,6 +96,6 @@ ht-degree: 0%
 
    ![](assets/image2015-1-15-16-3a40-3a17.png)
 
-1. 클릭 **저장**.
+1. **저장**&#x200B;을 클릭합니다.
 
-   이제 웹 개인화의 리타겟팅 설정을 완료하고 리타겟팅 플랫폼에 로그인하고 이 데이터를 기반으로 대상을 만들고 리타겟팅 광고 캠페인을 설정했습니다.
+   이제 웹 Personalization에서 리타겟팅 설정을 완료하고 리타겟팅 플랫폼에 로그인하고 이 데이터를 기반으로 대상을 만들고 리타겟팅 광고 캠페인을 설정했습니다.

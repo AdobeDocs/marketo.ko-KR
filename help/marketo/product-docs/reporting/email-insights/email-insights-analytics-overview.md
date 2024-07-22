@@ -17,7 +17,7 @@ Analytics에서 이메일 게재 및 참여를 위한 집계 데이터를 살펴
 
 ![](assets/emailanalytics-1.jpg)
 
-[필터링](/help/marketo/product-docs/reporting/email-insights/filtering-in-email-insights.md) 를 사용하여 특정 지표를 드릴다운할 수 있습니다.
+[필터링](/help/marketo/product-docs/reporting/email-insights/filtering-in-email-insights.md)을 통해 특정 지표를 드릴다운할 수 있습니다.
 
 ![](assets/filter-field.png)
 
@@ -45,7 +45,7 @@ Analytics에서 이메일 게재 및 참여를 위한 집계 데이터를 살펴
 
 ![](assets/chart2.png)
 
-다시 사용할 차트를 만드는 경우 [빠른 차트](/help/marketo/product-docs/reporting/email-insights/email-insights-quick-charts.md).
+다시 사용할 차트를 만드는 경우 [빠른 차트](/help/marketo/product-docs/reporting/email-insights/email-insights-quick-charts.md)로 만드십시오.
 
 ![](assets/quick-chart.png)
 

@@ -7,7 +7,7 @@ exl-id: a89e8212-83cb-4987-abc9-76c5fd74c152
 feature: Sales Insight Actions
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
-source-wordcount: '275'
+source-wordcount: '260'
 ht-degree: 0%
 
 ---
@@ -19,13 +19,13 @@ Sales Insight Actions 은 잠재 고객의 답글을 Salesforce에 자동으로 
 ## 요구 사항 {#requirements}
 
 * API 로깅을 통해 이메일을 로깅해야 합니다.
-* 다음을 수행할 수 있어야 합니다. [답글 추적](/help/marketo/product-docs/marketo-sales-insight/actions/send-a-sales-email/email-tracking-overview.md#how-reply-tracking-works)
+* [회신을 추적할 수 있어야 합니다](/help/marketo/product-docs/marketo-sales-insight/actions/send-a-sales-email/email-tracking-overview.md#how-reply-tracking-works)
 * Salesforce와 연결되어 있어야 합니다.
-* Salesforce가 있어야 합니다. [API 호출](https://developer.salesforce.com/docs/atlas.en-us.salesforce_app_limits_cheatsheet.meta/salesforce_app_limits_cheatsheet/salesforce_app_limits_platform_api.htm) 사용 가능
+* Salesforce [API 호출](https://developer.salesforce.com/docs/atlas.en-us.salesforce_app_limits_cheatsheet.meta/salesforce_app_limits_cheatsheet/salesforce_app_limits_platform_api.htm)을(를) 사용할 수 있어야 합니다.
 
 ## 응답 로깅 활성화 {#enable-reply-logging}
 
-1. 회신 로깅을 활성화하려면 Salesforce 설정 페이지로 이동하십시오. API 로깅을 해제하면 선택할 수 있는 옵션이 표시됩니다 _답변 기록_.
+1. 회신 로깅을 활성화하려면 Salesforce 설정 페이지로 이동하십시오. API 로깅을 해제하면 _Log Replies_&#x200B;을(를) 확인하는 옵션이 표시됩니다.
 
    >[!NOTE]
    >
@@ -33,12 +33,12 @@ Sales Insight Actions 은 잠재 고객의 답글을 Salesforce에 자동으로 
 
 ## Salesforce에서 형식을 회신으로 설정 중 {#setting-type-to-reply-in-salesforce}
 
-Salesforce 보고서에서 의미 있는 데이터를 얻는 것은 중요합니다. 유형 필드를 &#39;회신&#39;으로 채우게 하면 보고서를 통해 해당 데이터를 가져올 수 있습니다. 파트너와 협력 `Salesforce admin` 이 설정을 가져옵니다.
+Salesforce 보고서에서 의미 있는 데이터를 얻는 것은 중요합니다. 유형 필드를 &#39;회신&#39;으로 채우게 하면 보고서를 통해 해당 데이터를 가져올 수 있습니다. 이 설정을 사용하려면 `Salesforce admin`과(와) 협력하세요.
 
-1. 다음으로 이동 **설정** > **사용자 지정** > **활동** > **작업 필드**.
-1. 클릭 **유형**.
-1. 작업 유형 선택 목록 값에서 **신규**.
-1. 빈 상자에 &quot;Reply&quot;를 입력합니다. &#39;R&#39;을 대문자로 사용하고 **저장**.
+1. **설정** > **사용자 지정** > **활동** > **작업 필드**&#x200B;로 이동합니다.
+1. **유형**&#x200B;을 클릭합니다.
+1. 작업 유형 선택 목록 값에서 **새로 만들기**&#x200B;를 클릭합니다.
+1. 빈 상자에 &quot;Reply&quot;를 입력합니다. &#39;R&#39;을 대문자로 사용하고 **저장**&#x200B;을 클릭하세요.
 
    >[!NOTE]
    >

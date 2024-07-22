@@ -15,7 +15,7 @@ ht-degree: 0%
 
 자유 형식의 랜딩 페이지와 달리 안내 랜딩 페이지에는 이미지를 추가할 수 있는 미리 정의된 잠긴 공간이 있습니다.
 
-1. 가이드 랜딩 페이지를 선택합니다. 클릭 **초안 편집**.
+1. 가이드 랜딩 페이지를 선택합니다. **초안 편집**&#x200B;을 클릭합니다.
 
    ![](assets/image2015-5-19-14-3a1-3a26.png)
 
@@ -23,7 +23,7 @@ ht-degree: 0%
 
    ![](assets/image2015-5-19-14-3a4-3a29.png)
 
-1. 원하는 이미지를 선택하고 **삽입**.
+1. 원하는 이미지를 선택하고 **삽입**&#x200B;을 클릭합니다.
 
    ![](assets/image2015-5-20-10-3a37-3a33.png)
 
@@ -31,7 +31,7 @@ ht-degree: 0%
 
    >[!NOTE]
    >
-   >이미지 크기 조정 방법은 템플릿에 따라 다릅니다. 자세히 알아보기 [안내식 랜딩 페이지 템플릿](/help/marketo/product-docs/demand-generation/landing-pages/landing-page-templates/create-a-guided-landing-page-template.md).
+   >이미지 크기 조정 방법은 템플릿에 따라 다릅니다. [안내 랜딩 페이지 템플릿](/help/marketo/product-docs/demand-generation/landing-pages/landing-page-templates/create-a-guided-landing-page-template.md)에 대해 자세히 알아보세요.
 
    ![](assets/image2015-5-20-10-3a39-3a34.png)
 

@@ -15,27 +15,27 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->REST API를 사용하는 것이 좋습니다. 자세히 알아보기 [developer.adobe.com](https://developer.adobe.com/marketo-apis/).
+>REST API를 사용하는 것이 좋습니다. [developer.adobe.com](https://developer.adobe.com/marketo-apis/)에 대해 자세히 알아보세요.
 
 >[!NOTE]
 >
 >**관리자 권한 필요**
 
-1. 로 이동 **[!UICONTROL 관리자]** 영역입니다.
+1. **[!UICONTROL 관리자]** 영역으로 이동합니다.
 
    ![](assets/configuring-your-soap-api-settings-1.png)
 
-1. 클릭 **[!UICONTROL 웹 서비스]**.
+1. **[!UICONTROL 웹 서비스]**&#x200B;를 클릭합니다.
 
    ![](assets/configuring-your-soap-api-settings-2.png)
 
-1. 적절한 설정 **[!UICONTROL 암호화 키]**, 클릭 **[!UICONTROL 변경 내용 저장]**&#x200B;를 클릭하고 모든 정보를 개발자에게 전달합니다.
+1. 적절한 **[!UICONTROL 암호화 키]**&#x200B;를 설정하고 **[!UICONTROL 변경 내용 저장]**&#x200B;을 클릭한 다음 모든 정보를 개발자에게 전달하십시오.
 
    ![](assets/configuring-your-soap-api-settings-3.png)
 
 >[!CAUTION]
 >
->SOAP 끝점 및 [!UICONTROL 사용자 ID] 은 고유합니다. 이 문서의 스크린샷을 개발자에게 보내지 마십시오.
+>SOAP 엔드포인트와 [!UICONTROL 사용자 ID]는 고유합니다. 이 문서의 스크린샷을 개발자에게 보내지 마십시오.
 
 >[!MORELIKETHIS]
 >

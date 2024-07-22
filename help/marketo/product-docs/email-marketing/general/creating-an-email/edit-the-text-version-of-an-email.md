@@ -6,7 +6,7 @@ exl-id: 6973ccdd-6ae1-4051-ab7e-ff7da40baf97
 feature: Email Editor
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
-source-wordcount: '175'
+source-wordcount: '176'
 ht-degree: 0%
 
 ---
@@ -17,13 +17,13 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->텍스트 전용 이메일 만들기에 대한 문서가 아닙니다. 자세한 내용은 [텍스트 전용 이메일 만들기](/help/marketo/product-docs/email-marketing/general/creating-an-email/create-a-text-only-email.md).
+>텍스트 전용 이메일 만들기에 대한 문서가 아닙니다. 자세한 내용은 [텍스트 전용 전자 메일 만들기](/help/marketo/product-docs/email-marketing/general/creating-an-email/create-a-text-only-email.md)를 참조하세요.
 
-1. 이메일 편집기에서 **텍스트** 이메일 하단의 탭입니다.
+1. 전자 메일 편집기에서 전자 메일 하단의 **텍스트** 탭을 클릭합니다.
 
    ![](assets/one-5.png)
 
-1. 선택 취소 **HTML에서 자동 복사** 변경할 수 있습니다.
+1. 변경하려면 **HTML에서 자동으로 복사**&#x200B;를 선택 취소합니다.
 
    ![](assets/two-5.png)
 

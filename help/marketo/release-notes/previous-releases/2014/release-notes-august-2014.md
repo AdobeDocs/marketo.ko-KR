@@ -6,7 +6,7 @@ exl-id: 789af65d-f42a-4500-bebc-fc4dd709379d
 feature: Release Information
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
-source-wordcount: '396'
+source-wordcount: '404'
 ht-degree: 0%
 
 ---
@@ -17,9 +17,9 @@ ht-degree: 0%
 
 ## 마케팅 캘린더 라이선스 {#marketing-calendar-licenses}
 
-2014년 9월 5일 이후에는 5명의 사용자만 마케팅 캘린더에 무료로 액세스할 수 있습니다. 다음을 확인합니다. [마케팅 캘린더 라이선스 문제/취소](/help/marketo/product-docs/core-marketo-concepts/marketing-calendar/understanding-the-calendar/issue-revoke-a-marketing-calendar-license.md) 중단 없이 액세스하려면 그 전에 선택한 사용자에게 문의하십시오.
+2014년 9월 5일 이후에는 5명의 사용자만 마케팅 캘린더에 무료로 액세스할 수 있습니다. 그 전에 선택한 사용자에게 마케팅 일정 라이선스를 [발급/취소](/help/marketo/product-docs/core-marketo-concepts/marketing-calendar/understanding-the-calendar/issue-revoke-a-marketing-calendar-license.md)하여 계속 액세스하십시오.
 
-![--](assets/image2014-9-16-9-3a45-3a52.png)
+![—](assets/image2014-9-16-9-3a45-3a52.png)
 
 ## 새 사용자 권한 {#new-user-permissions}
 
@@ -35,7 +35,7 @@ ht-degree: 0%
 
 ## 책임자로부터 사용자 및 역할 내보내기 {#export-users-and-roles-from-admin}
 
-이제 다음을 수행할 수 있습니다. [사용자 및 역할 목록 내보내기](/help/marketo/product-docs/administration/users-and-roles/export-a-list-of-users-and-roles.md) Marketo에서. 내보내기에 포함할 &quot;마지막 로그인&quot; 타임스탬프를 포함할 수도 있습니다.
+이제 Marketo에서 [사용자 및 역할 목록을 내보내기](/help/marketo/product-docs/administration/users-and-roles/export-a-list-of-users-and-roles.md)할 수 있습니다. 내보내기에 포함할 &quot;마지막 로그인&quot; 타임스탬프를 포함할 수도 있습니다.
 
 ![](assets/image2014-9-16-12-3a20-3a16.png)
 
@@ -57,7 +57,7 @@ ht-degree: 0%
 >
 >DKIM은 천천히 출시될 것입니다, 당신은 몇 주 동안 보지 않을 수 있습니다.
 
-## 실시간 개인화 업데이트 {#real-time-personalization-updates}
+## 실시간 Personalization 업데이트 {#real-time-personalization-updates}
 
 하트 콘텐츠에 태그를 지정할 수 있도록 캠페인 페이지에 레이블을 추가했습니다.
 
@@ -93,6 +93,6 @@ ht-degree: 0%
 
 ## 추적 제어 {#tracking-control}
 
-이제 실시간 개인화의 모든 추적 및 보고에서 특정 IP를 제외할 수 있습니다.
+이제 Real-Time Personalization에서 특정 IP를 모든 추적 및 보고에서 제외할 수 있습니다.
 
 ![](assets/image2014-9-16-12-3a24-3a55.png)

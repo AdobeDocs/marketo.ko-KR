@@ -16,7 +16,7 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->기본적으로 Salesforce 전용 옵션은 Sales Insight Actions 인스턴스에 대해 선택됩니다. 사용자가 다음을 수행할 수 있도록 이 설정을 사용하는 것이 좋습니다. [자동 로그인](/help/marketo/product-docs/marketo-sales-insight/actions/admin/auto-login-from-salesforce.md) Salesforce에서.
+>기본적으로 Salesforce 전용 옵션은 Sales Insight Actions 인스턴스에 대해 선택됩니다. 사용자가 Salesforce에서 [자동 로그인](/help/marketo/product-docs/marketo-sales-insight/actions/admin/auto-login-from-salesforce.md)할 수 있도록 이 설정을 사용하는 것이 좋습니다.
 
 ## 로그인 관리 설정 업데이트 {#update-login-management-settings}
 
@@ -26,15 +26,15 @@ ht-degree: 0%
 
 로그인 관리 환경 설정을 업데이트하려면 다음 단계를 따르십시오.
 
-1. 톱니바퀴 아이콘을 클릭하고 **설정**.
+1. 톱니바퀴 아이콘을 클릭하고 **설정**&#x200B;을 선택합니다.
 
    ![](assets/login-management-settings-1.png)
 
-1. Admin Settings에서 **일반**.
+1. 관리자 설정에서 **일반**&#x200B;을 클릭합니다.
 
    ![](assets/login-management-settings-2.png)
 
-1. Login Management 카드로 아래로 스크롤하고 원하는 설정을 선택합니다(이 예에서는 Salesforce만 선택). 클릭 **저장** 완료 시.
+1. Login Management 카드로 아래로 스크롤하고 원하는 설정을 선택합니다(이 예에서는 Salesforce만 선택). 완료되면 **저장**&#x200B;을 클릭합니다.
 
    ![](assets/login-management-settings-3.png)
 
@@ -44,7 +44,7 @@ Salesforce는 사용자가 Salesforce에서 Sales Insight 작업을 사용하기
 
 ### &quot;Salesforce만&quot;을 선택한 경우 내 인스턴스에 새 사용자는 어떻게 계정을 활성화합니까? {#activate-when-salesforce-only-is-selected}
 
-을(를) 클릭하면 **시작** 초대 이메일의 버튼은 새 사용자가 계정 활성화 화면으로 보내지며, 여기에서 새 사용자는 Salesforce 인스턴스를 연결하여 Sales Insight Actions 계정을 활성화해야 합니다.
+초대 이메일에서 **시작하기** 버튼을 클릭하면 신규 사용자가 계정 활성화 화면으로 보내지며, 이 화면에서 Salesforce 인스턴스를 연결하여 Sales Insight Actions 계정을 활성화해야 합니다.
 
 ![](assets/login-management-settings-4.png)
 
@@ -54,13 +54,13 @@ Salesforce는 사용자가 Salesforce에서 Sales Insight 작업을 사용하기
 
 >[!NOTE]
 >
->로그인 화면으로 직접 이동하는 사용자에게만 해당됩니다. Salesforce에서 작업에 액세스하는 사용자는 다음으로 로그인됩니다. [자동 로그인](/help/marketo/product-docs/marketo-sales-insight/actions/admin/auto-login-from-salesforce.md).
+>로그인 화면으로 직접 이동하는 사용자에게만 해당됩니다. Salesforce에서 작업에 액세스하는 사용자는 [자동 로그인](/help/marketo/product-docs/marketo-sales-insight/actions/admin/auto-login-from-salesforce.md)을 통해 로그인됩니다.
 
 ![](assets/login-management-settings-5.png)
 
 ### 사용자가 Salesforce에서 작업 기능에 액세스하고 &quot;Salesforce만&quot;을 선택한 경우 작업에 대한 사용자 인증은 어떻게 처리됩니까? {#how-is-user-authentication-handled}
 
-사용자가 작업(호출, 이메일, 캠페인, 작업, 캠페인 목록 등) 중 하나를 클릭하면 SFDC 인증을 사용하여 자동으로 Sales Insight Actions 계정에 로그인됩니다. 이 인증을 라고 합니다. [자동 로그인](/help/marketo/product-docs/marketo-sales-insight/actions/admin/auto-login-from-salesforce.md).
+사용자가 작업(호출, 이메일, 캠페인, 작업, 캠페인 목록 등) 중 하나를 클릭하면 SFDC 인증을 사용하여 자동으로 Sales Insight Actions 계정에 로그인됩니다. 이 인증을 [자동 로그인](/help/marketo/product-docs/marketo-sales-insight/actions/admin/auto-login-from-salesforce.md)이라고 합니다.
 
 ## 모든 로그인 방법 FAQ {#all-login-methods-faq}
 

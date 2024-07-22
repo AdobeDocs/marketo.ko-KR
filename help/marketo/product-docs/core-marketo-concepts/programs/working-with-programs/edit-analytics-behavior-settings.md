@@ -13,9 +13,9 @@ ht-degree: 1%
 
 # Analytics 비헤이비어 설정 편집 {#edit-analytics-behavior-settings}
 
-다음을 설정할 수 있습니다. [채널의 관리자 수준에서의 analytics 동작](/help/marketo/product-docs/reporting/revenue-cycle-analytics/program-analytics/make-a-program-without-a-period-cost-available-in-revenue-explorer-and-analyzers.md){target="_blank"}, 그러나 프로그램 수준에서 편집할 수도 있습니다. 방법은 다음과 같습니다.
+[채널](/help/marketo/product-docs/reporting/revenue-cycle-analytics/program-analytics/make-a-program-without-a-period-cost-available-in-revenue-explorer-and-analyzers.md){target="_blank"}의 관리자 수준에서 분석 동작을 설정할 수 있지만 프로그램 수준에서 편집할 수도 있습니다. 방법은 다음과 같습니다.
 
-1. 다음으로 이동 **[!UICONTROL 마케팅 활동]**.
+1. **[!UICONTROL 마케팅 활동]**(으)로 이동합니다.
 
    ![](assets/login-marketing-activities-2.png)
 
@@ -23,7 +23,7 @@ ht-degree: 1%
 
    ![](assets/image2014-9-24-11-3a40-3a57.png)
 
-1. 다음에서 **[!UICONTROL 설정]** 탭, 드래그 [!UICONTROL Analytics 동작] 을 캔버스에 추가합니다.
+1. **[!UICONTROL 설정]** 탭에서 [!UICONTROL 분석 동작]을 캔버스로 드래그합니다.
 
    ![](assets/image2014-9-24-11-3a41-3a2.png)
 
@@ -37,7 +37,7 @@ ht-degree: 1%
 >
 >**[!UICONTROL 포함]** - 이 옵션을 사용하면 기간 비용을 포함했는지 여부에 관계없이 프로그램을 매출 탐색기 및 분석기에서 보고할 수 있습니다.
 >
->**[!UICONTROL 운영]** - 이 옵션을 사용하면 프로그램이 매출 탐색기 또는 분석기에 표시되지 않습니다.
+>**[!UICONTROL 작동]** - 이 옵션을 사용하면 수입 탐색기 또는 분석기에 프로그램이 표시되지 않습니다.
 
 >[!NOTE]
 >

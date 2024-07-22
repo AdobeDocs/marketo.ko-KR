@@ -19,7 +19,7 @@ ht-degree: 0%
 
    ![](assets/image2016-5-6-15-3a6-3a55.png)
 
-1. 표준 단추의 색상을 변경하려면 **색상** 단추를 클릭합니다.
+1. 표준 단추의 색상을 변경하려면 **색상** 단추를 클릭하십시오.
 
    ![](assets/image2016-5-6-15-3a10-3a38.png)
 
@@ -31,11 +31,11 @@ ht-degree: 0%
 
    ![](assets/image2016-5-6-15-3a16-3a26.png)
 
-1. 단추에 사용자 고유의 이미지를 사용하려면 이미지 단추를 클릭하고 **이미지 선택**.
+1. 단추에 자신만의 이미지를 사용하려면 [이미지] 단추를 클릭하고 **이미지 선택**&#x200B;을 클릭하세요.
 
    ![](assets/image2016-5-6-15-3a18-3a18.png)
 
-1. 이미지를 선택하고 **선택**.
+1. 이미지를 선택하고 **선택**&#x200B;을 클릭합니다.
 
    ![](assets/image2016-5-6-16-3a36-3a0.png)
 
@@ -51,7 +51,7 @@ ht-degree: 0%
 
    ![](assets/image2016-5-6-16-3a41-3a52.png)
 
-1. 강조할 글꼴 스타일 선택: **굵게**, _기울임꼴_, 또는 밑줄.
+1. 강조할 글꼴 스타일을 선택하십시오. **굵게**, _기울임꼴_ 또는 밑줄.
 
    ![](assets/image2016-5-6-16-3a43-3a47.png)
 
@@ -71,9 +71,9 @@ ht-degree: 0%
    >
    >버튼에는 항상 탭 작업이 있으므로 탭 작업 확인란이 자동으로 선택되고 기본 메시지가 &quot;메시지 닫기&quot;입니다.
 
-거의 다 됐어 마지막 단계는 [인앱 메시지 배경 구성 및 닫기 버튼](/help/marketo/product-docs/mobile-marketing/in-app-messages/creating-in-app-messages/set-up-the-in-app-message-background.md).
+거의 다 됐어 마지막 단계는 [인앱 메시지 배경을 구성하고 ](/help/marketo/product-docs/mobile-marketing/in-app-messages/creating-in-app-messages/set-up-the-in-app-message-background.md) 단추를 해제하는 것입니다.
 
 >[!MORELIKETHIS]
 >
 >* [인앱 메시지 이해](/help/marketo/product-docs/mobile-marketing/in-app-messages/understanding-in-app-messages.md)
->* [인앱 메시지의 레이아웃 선택](/help/marketo/product-docs/mobile-marketing/in-app-messages/creating-in-app-messages/choose-a-layout-for-your-in-app-message.md)
+>* [인앱 메시지의 레이아웃을 선택하십시오](/help/marketo/product-docs/mobile-marketing/in-app-messages/creating-in-app-messages/choose-a-layout-for-your-in-app-message.md)

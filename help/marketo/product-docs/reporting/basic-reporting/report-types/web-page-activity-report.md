@@ -6,7 +6,7 @@ exl-id: 35bd37bd-e7b9-4418-b2c9-af5989f44b9f
 feature: Reporting
 source-git-commit: 9b2d2ffd93f2c8b209e4ea25bbe7ef41c9f0e5fc
 workflow-type: tm+mt
-source-wordcount: '323'
+source-wordcount: '332'
 ht-degree: 0%
 
 ---
@@ -21,10 +21,10 @@ ht-degree: 0%
 >
 >* [웹 사이트에 Munchkin 추적 코드 추가](/help/marketo/product-docs/administration/additional-integrations/add-munchkin-tracking-code-to-your-website.md){target="_blank"}
 
-1. [보고서 만들기](/help/marketo/product-docs/reporting/basic-reporting/creating-reports/create-a-report-in-a-program.md) 및 선택 **웹 페이지 활동 보고서** [보고서 유형](/help/marketo/product-docs/reporting/basic-reporting/report-types/report-type-overview.md){target="_blank"}
-1. 다음을 선택합니다. [알려진 사용자 또는 익명의 사용자 표시](/help/marketo/product-docs/reporting/basic-reporting/report-activity/display-people-or-anonymous-visitors-in-web-reports.md){target="_blank"} 을 참조하십시오.
+1. [보고서 만들기](/help/marketo/product-docs/reporting/basic-reporting/creating-reports/create-a-report-in-a-program.md) 및 **웹 페이지 활동 보고서 선택** [보고서 유형](/help/marketo/product-docs/reporting/basic-reporting/report-types/report-type-overview.md){target="_blank"}
+1. 보고서에 [알려진 사용자 또는 익명의 사용자 표시](/help/marketo/product-docs/reporting/basic-reporting/report-activity/display-people-or-anonymous-visitors-in-web-reports.md){target="_blank"}를 선택합니다.
 
-1. [보고서의 시간대 설정](/help/marketo/product-docs/reporting/basic-reporting/editing-reports/change-a-report-time-frame.md){target="_blank"} 을(를) 클릭하고 **보고서** 탭.
+1. [보고서의 시간대를 설정](/help/marketo/product-docs/reporting/basic-reporting/editing-reports/change-a-report-time-frame.md){target="_blank"}하고 **보고서** 탭을 클릭합니다.
 
 1. 잡았다! 보고서를 검토하여 누가 사이트를 방문하는지 확인하십시오.
 
@@ -36,10 +36,10 @@ ht-degree: 0%
 
    >[!TIP]
    >
-   >사이트를 가장 많이 방문하는 사용자를 확인하려면 [보고서 정렬](/help/marketo/product-docs/reporting/basic-reporting/editing-reports/sort-report-on-columns.md){target="_blank"} 다음에 있음 _페이지 보기 수_ 열을 선택하고 내림차순 정렬을 선택합니다.
+   >사이트를 가장 많이 방문하는 사용자를 확인하려면 _페이지 보기 수_ 열에서 [보고서를 정렬](/help/marketo/product-docs/reporting/basic-reporting/editing-reports/sort-report-on-columns.md){target="_blank"}하고 내림차순 정렬을 선택하십시오.
 
-   [Marketo, 익명 추가](/help/marketo/product-docs/reporting/basic-reporting/report-activity/tracking-anonymous-activity-and-people.md){target="_blank"} 웹 사이트 방문자가 데이터베이스에 있고 이 보고서에 표시되도록 선택할 수 있습니다. 익명임에도 불구하고 풍부한 정보를 제공합니다.\
-   [선택할 수 있는 열](/help/marketo/product-docs/reporting/basic-reporting/editing-reports/select-report-columns.md){target="_blank"} 웹 페이지 활동 보고서에는 다음이 포함됩니다.
+   [Marketo은 익명의 ](/help/marketo/product-docs/reporting/basic-reporting/report-activity/tracking-anonymous-activity-and-people.md){target="_blank"} 웹 사이트 방문자를 데이터베이스에 추가하므로 이 보고서에 표시하도록 선택할 수 있습니다. 익명임에도 불구하고 풍부한 정보를 제공합니다.\
+   웹 페이지 활동 보고서에 대해 선택할 수 있는 [열](/help/marketo/product-docs/reporting/basic-reporting/editing-reports/select-report-columns.md){target="_blank"}에는 다음이 포함됩니다.
 
 <table> 
  <thead> 
@@ -51,7 +51,7 @@ ht-degree: 0%
  <tbody> 
   <tr> 
    <td>개인</td> 
-   <td>방문자 이름, 제목 및 회사입니다.<br><strong>클릭</strong> 개인 세부 정보 및 활동 내역을 조회합니다.</td> 
+   <td>방문자 이름, 제목 및 회사입니다.개인 세부 정보 및 활동 기록을 보려면 <br><strong>클릭</strong>하세요.</td> 
   </tr> 
   <tr> 
    <td>첫 번째/마지막 방문(시간대)</td> 
@@ -59,7 +59,7 @@ ht-degree: 0%
   </tr> 
   <tr> 
    <td>페이지 보기 수</td> 
-   <td>이 방문자가 로드한 페이지 수입니다.<br><strong><a href="/help/marketo/product-docs/reporting/basic-reporting/report-types/web-page-activity-report/web-pages-viewed-web-page-activity-report.md" target="_blank">클릭</a></strong> 을 눌러 방문한 페이지를 확인합니다.</td> 
+   <td>이 방문자가 로드한 페이지 수입니다.방문한 페이지를 보려면 <br><strong><a href="/help/marketo/product-docs/reporting/basic-reporting/report-types/web-page-activity-report/web-pages-viewed-web-page-activity-report.md" target="_blank">클릭</a></strong>하세요.</td> 
   </tr> 
   <tr> 
    <td>HTTP 참조</td> 
@@ -71,7 +71,7 @@ ht-degree: 0%
   </tr> 
   <tr> 
    <td>회사 또는 ISP 유추</td> 
-   <td>방문자의 IP 주소에서 추정한 회사. <strong>굵게 표시된 이름</strong> 이 회사가 ISP가 아닌 회사임을 나타냅니다. </td> 
+   <td>방문자의 IP 주소에서 추정한 회사. <strong>굵게</strong> 이름은 ISP가 아닌 회사임을 나타냅니다. </td> 
   </tr> 
   <tr> 
    <td>국가, 시/도/지역 및 도시 유추</td> 
@@ -82,7 +82,7 @@ ht-degree: 0%
 
 >[!TIP]
 >
->영업 담당자를 흥분시키세요! [보고서 필터링](/help/marketo/product-docs/reporting/basic-reporting/editing-reports/filter-people-in-a-report-with-a-smart-list.md){target="_blank"} for their territory and [subscribe them to it](/help/marketo/product-docs/reporting/basic-reporting/report-subscriptions/subscribe-to-a-basic-report.md){target="_blank"}!
+>영업 담당자를 흥분시키세요! [해당 지역에 대한 보고서를 필터링](/help/marketo/product-docs/reporting/basic-reporting/editing-reports/filter-people-in-a-report-with-a-smart-list.md){target="_blank"}하고 [구독하세요](/help/marketo/product-docs/reporting/basic-reporting/report-subscriptions/subscribe-to-a-basic-report.md){target="_blank"}!
 
 >[!MORELIKETHIS]
 >

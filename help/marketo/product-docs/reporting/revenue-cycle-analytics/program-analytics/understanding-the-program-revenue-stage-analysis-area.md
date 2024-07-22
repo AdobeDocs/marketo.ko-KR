@@ -15,7 +15,7 @@ ht-degree: 2%
 
 이 분석 영역에서는 개별 프로그램의 효과성을 분석하거나 채널별 요약 결과를 볼 수 있다. 수익 주기 모델 내에서 특정 성공 경로 단계에 도달한 생성된 새 이름 수에 대한 통찰력을 제공합니다.
 
-**이 분석 영역을 사용하여 답변할 수 있는 예제 비즈니스 질문은 다음과 같습니다.**:
+**이 분석 영역을 사용하여 답변할 수 있는 비즈니스 질문 예는 다음과 같습니다**.
 
 주어진 프로그램에서 내 모델의 특정 단계에 도달한 새 이름은 몇 개입니까?
 
@@ -39,12 +39,12 @@ Dimension 및 측정값은 기능별로 분류되며 시스템에서 노란색 �
 >
 >보고서에 있는 동안 특정 차원이나 측정값에 대한 자세한 내용을 보려면 마우스를 위에 놓으십시오.
 
-**모델 속성**
+**모델 특성**
 
 <table> 
  <tbody> 
   <tr> 
-   <td colspan="1" rowspan="1"><strong>치수</strong></td> 
+   <td colspan="1" rowspan="1"><strong>차원</strong></td> 
    <td colspan="1" rowspan="1"><p><strong>설명</strong></p></td> 
   </tr> 
   <tr> 
@@ -74,12 +74,12 @@ Dimension 및 측정값은 기능별로 분류되며 시스템에서 노란색 �
  </tbody> 
 </table>
 
-**프로그램 속성**
+**프로그램 특성**
 
 <table> 
  <tbody> 
   <tr> 
-   <td colspan="1" rowspan="1"><p><strong>치수</strong></p></td> 
+   <td colspan="1" rowspan="1"><p><strong>차원</strong></p></td> 
    <td colspan="1" rowspan="1"><p><strong>설명</strong></p></td> 
   </tr> 
   <tr> 
@@ -98,7 +98,7 @@ Dimension 및 측정값은 기능별로 분류되며 시스템에서 노란색 �
 <table> 
  <tbody> 
   <tr> 
-   <td colspan="1" rowspan="1"><p><strong>치수</strong></p></td> 
+   <td colspan="1" rowspan="1"><p><strong>차원</strong></p></td> 
    <td colspan="1" rowspan="1"><p><strong>설명</strong></p></td> 
   </tr> 
   <tr> 
@@ -116,7 +116,7 @@ Dimension 및 측정값은 기능별로 분류되며 시스템에서 노란색 �
  </tbody> 
 </table>
 
-**스테이지 멤버십**
+**단계 멤버십**
 
 <table> 
  <tbody> 
@@ -153,4 +153,4 @@ Dimension 및 측정값은 기능별로 분류되며 시스템에서 노란색 �
 
 >[!MORELIKETHIS]
 >
->[수익 탐색기 보고서 만들기](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-explorer/create-a-revenue-explorer-report.md)
+>[매출 탐색기 보고서 만들기](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-explorer/create-a-revenue-explorer-report.md)

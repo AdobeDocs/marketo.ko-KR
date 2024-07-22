@@ -6,7 +6,7 @@ feature: Veeva CRM
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '263'
-ht-degree: 33%
+ht-degree: 34%
 
 ---
 
@@ -163,7 +163,7 @@ ht-degree: 33%
     </tr>
     <tr>
       <td>계정 이름</td>
-      <td>회사명</td>
+      <td>회사 이름</td>
     </tr>
     <tr>
       <td>직원</td>
@@ -179,7 +179,7 @@ ht-degree: 33%
     </tr>
     <tr>
       <td>계정 사이트</td>
-      <td>사이트</td>
+      <td>위치</td>
     </tr>
     <tr>
       <td>계정 유형</td>

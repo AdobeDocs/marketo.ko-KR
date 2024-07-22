@@ -17,7 +17,7 @@ ht-degree: 0%
 
 ## Campaign 컨트롤 패널 {#control-panel}
 
-네 상자는 집중을 유지해 줍니다. **대상자** 은 &quot;누구&quot;를 정의합니다. **이메일** 는 &quot;what&quot;를 제공합니다. **예약** 는 &quot;when&quot;, 및 **승인** 준비됩니다.
+네 상자는 집중을 유지해 줍니다. **대상**&#x200B;은(는) &quot;사용자&quot;를 정의하고, **전자 메일**&#x200B;은(는) &quot;대상&quot;을 제공하고, **일정**&#x200B;은(는) &quot;시기&quot;를 정의하고, **승인**&#x200B;을(를) 통해 시작할 준비가 되었습니다.
 
 ![](assets/emailprogram.png)
 
@@ -38,7 +38,7 @@ A/B 테스트를 통해 가장 적합한 이메일을 확인할 수 있습니다
 
 >[!CAUTION]
 >
->정확한 보고를 위해 _재사용_ Smart Campaign에서 참조하거나 시작한 이메일 프로그램에서 새 이메일 프로그램으로 에셋을 이동하여 이메일 프로그램의 이메일. 이렇게 하면 해당 이메일에 첨부된 모든 보고 대시보드의 모든 데이터가 집계됩니다. 이메일을 다시 사용해야 하는 경우 [복제](/help/marketo/product-docs/core-marketo-concepts/programs/working-with-programs/clone-an-asset-in-a-program.md){target="_blank"} 대신 에서는 가 이메일을 복사하지만 새 이메일 ID로 새 이메일을 만듭니다.
+>정확한 보고를 위해 Smart Campaign에서 참조하거나 시작한 전자 메일 프로그램에서 새 전자 메일 프로그램으로 자산을 이동하여 전자 메일 프로그램에서 전자 메일을 _다시 사용_&#x200B;하지 마십시오. 이렇게 하면 해당 이메일에 첨부된 모든 보고 대시보드의 모든 데이터가 집계됩니다. 이메일을 다시 사용해야 하는 경우 [복제](/help/marketo/product-docs/core-marketo-concepts/programs/working-with-programs/clone-an-asset-in-a-program.md){target="_blank"}하십시오. 복사한 이메일은 새 이메일 ID로 새로 만듭니다.
 
 수고의 결실을 즐겨라. 대시보드는 이메일 프로그램과 A/B 테스트 성능을 한눈에 보여줍니다.
 
@@ -68,7 +68,7 @@ A/B 테스트를 통해 가장 적합한 이메일을 확인할 수 있습니다
 
 >[!NOTE]
 >
->이메일 프로그램은에서 중첩될 수 없습니다. [참여 프로그램](/help/marketo/getting-started/quick-wins/drip-drip-nurture.md). 또한 다시 전송할 수 없으며 한 번에 하나의 테스트만 실행할 수 있습니다.
+>전자 메일 프로그램은 [참여 프로그램](/help/marketo/getting-started/quick-wins/drip-drip-nurture.md)에 중첩될 수 없습니다. 또한 다시 전송할 수 없으며 한 번에 하나의 테스트만 실행할 수 있습니다.
 
 ## 예약 설정 {#schedule-settings}
 
@@ -76,8 +76,8 @@ A/B 테스트를 통해 가장 적합한 이메일을 확인할 수 있습니다
 
 >[!MORELIKETHIS]
 >
->* [이메일 프로그램 만들기](/help/marketo/product-docs/email-marketing/email-programs/creating-an-email-program/create-an-email-program.md)
+>* [전자 메일 프로그램 만들기](/help/marketo/product-docs/email-marketing/email-programs/creating-an-email-program/create-an-email-program.md)
 >
->* [스마트 목록으로 대상자 정의](/help/marketo/product-docs/email-marketing/email-programs/managing-people-in-email-programs/define-an-audience-with-a-smart-list.md)
->* [이메일 프로그램용 이메일 만들기](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/create-an-email-for-an-email-program.md)
->* [이메일 프로그램 예약](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/schedule-your-email-program.md)
+>* [스마트 목록으로 대상 정의](/help/marketo/product-docs/email-marketing/email-programs/managing-people-in-email-programs/define-an-audience-with-a-smart-list.md)
+>* [전자 메일 프로그램을 위한 전자 메일 만들기](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/create-an-email-for-an-email-program.md)
+>* [전자 메일 프로그램 예약](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/schedule-your-email-program.md)

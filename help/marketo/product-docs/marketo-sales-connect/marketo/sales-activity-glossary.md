@@ -5,8 +5,8 @@ exl-id: c7805642-07b6-4697-9efe-5c673ae9ca53
 feature: Marketo Sales Connect
 source-git-commit: 02b2e39580c5eac63de4b4b7fdaf2a835fdd4ba5
 workflow-type: tm+mt
-source-wordcount: '533'
-ht-degree: 2%
+source-wordcount: '536'
+ht-degree: 5%
 
 ---
 
@@ -300,7 +300,7 @@ Sales Connect에서 판매자: 판매 케이던스에 잠재 고객을 추가하
   </tr> 
   <tr> 
    <td><strong>소스</strong></td> 
-   <td>활동의 소스. 2021년 10월 릴리스 이전의 Sales Connect 활동에 대해 "Tout"으로 설정됩니다. 2021년 10월 릴리스 이후 Sales Connect 활동을 위한 "Sales App"이 될 예정입니다.</td>
+   <td>활동의 Source. 2021년 10월 릴리스 이전의 Sales Connect 활동에 대해 "Tout"으로 설정됩니다. 2021년 10월 릴리스 이후 Sales Connect 활동을 위한 "Sales App"이 될 예정입니다.</td>
   </tr> 
   <tr> 
    <td><strong>템플릿 ID</strong></td> 

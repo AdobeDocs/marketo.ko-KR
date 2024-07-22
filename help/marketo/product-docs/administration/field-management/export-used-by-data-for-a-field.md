@@ -19,11 +19,11 @@ ht-degree: 0%
 >
 >**관리자 권한 필요**
 
-1. 로 이동 **[!UICONTROL 관리자]** 영역입니다.
+1. **[!UICONTROL 관리자]** 영역으로 이동합니다.
 
    ![](assets/export-used-by-data-for-a-field-1.png)
 
-1. 클릭 **[!UICONTROL 필드 관리]**.
+1. **[!UICONTROL 필드 관리]**&#x200B;를 클릭합니다.
 
    ![](assets/export-used-by-data-for-a-field-2.png)
 
@@ -31,11 +31,11 @@ ht-degree: 0%
 
    ![](assets/export-used-by-data-for-a-field-3.png)
 
-1. 다음을 클릭합니다. **[!UICONTROL 필드 작업]** 드롭다운 및 선택 **[!UICONTROL 내보내기 사용]**.
+1. **[!UICONTROL 필드 작업]** 드롭다운을 클릭하고 **[!UICONTROL 사용한 항목 내보내기]**&#x200B;를 선택합니다.
 
    ![](assets/export-used-by-data-for-a-field-4.png)
 
-1. An [!DNL Excel] 파일을 내보냅니다. 컨텐츠를 보려면 엽니다.
+1. [!DNL Excel] 파일을 내보냅니다. 컨텐츠를 보려면 엽니다.
 
    ![](assets/export-used-by-data-for-a-field-5.png)
 

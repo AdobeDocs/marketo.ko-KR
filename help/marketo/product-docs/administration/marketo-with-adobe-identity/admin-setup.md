@@ -5,7 +5,7 @@ exl-id: e753f61a-b2ad-4b2e-94e7-d7a391f030d8
 feature: Marketo with Adobe Identity
 source-git-commit: 02b2e39580c5eac63de4b4b7fdaf2a835fdd4ba5
 workflow-type: tm+mt
-source-wordcount: '218'
+source-wordcount: '214'
 ht-degree: 0%
 
 ---
@@ -16,11 +16,11 @@ Adobe 조직에서 Marketo Engage 할 Adobe 시스템 관리자로 추가되면 
 
 ## 초기 설정 {#initial-setup}
 
-1. 신규 또는 기존 조직에서 Marketo Engage을 위한 지정된 시스템 관리자로 추가되면 환영 이메일을 받게 됩니다. 해당 이메일에서 **[!UICONTROL 시작]**.
+1. 신규 또는 기존 조직에서 Marketo Engage을 위한 지정된 시스템 관리자로 추가되면 환영 이메일을 받게 됩니다. 해당 이메일에서 **[!UICONTROL 시작하기]**&#x200B;를 클릭합니다.
 
    ![](assets/admin-setup-1.png)
 
-1. 이전에 Adobe ID으로 애플리케이션에 액세스한 경우 Adobe Admin Console으로 바로 이동합니다. 그렇지 않은 경우, [Adobe ID 설정](https://helpx.adobe.com/manage-account/using/create-update-adobe-id.html){target="_blank"}.
+1. 이전에 Adobe ID으로 애플리케이션에 액세스한 경우 Adobe Admin Console으로 바로 이동합니다. 그렇지 않으면 [Adobe ID을 설정](https://helpx.adobe.com/manage-account/using/create-update-adobe-id.html){target="_blank"}합니다.
 
    ![](assets/admin-setup-2.png)
 
@@ -28,7 +28,7 @@ Adobe 조직에서 Marketo Engage 할 Adobe 시스템 관리자로 추가되면 
 
 시스템 관리자가 Admin Console에 액세스하면 제품 프로필을 만들 수 있습니다. 사용자/관리자가 Marketo Engage에 액세스할 수 있는 방법입니다.
 
-1. 다음에서 **[!UICONTROL 개요]** 페이지, 아래 **[!UICONTROL 제품 및 서비스]**, 클릭 **Marketo Engage**.
+1. **[!UICONTROL 개요]** 페이지의 **[!UICONTROL 제품 및 서비스]**&#x200B;에서 **Marketo Engage**&#x200B;을(를) 클릭합니다.
 
    ![](assets/admin-setup-3.png)
 
@@ -40,11 +40,11 @@ Adobe 조직에서 Marketo Engage 할 Adobe 시스템 관리자로 추가되면 
    >
    >구독이 여러 개 있는 경우 각 구독에 대해 다음 단계를 수행해야 합니다.
 
-1. 다음을 클릭합니다. **[!UICONTROL 새 프로필]** 단추를 클릭합니다.
+1. **[!UICONTROL 새 프로필]** 단추를 클릭합니다.
 
    ![](assets/admin-setup-5.png)
 
-1. 제품 프로필에 이름(표시 이름 및 설명은 선택 사항)을 지정하고 **[!UICONTROL 저장]**.
+1. 제품 프로필에 이름을 지정하고(표시 이름 및 설명은 선택 사항) **[!UICONTROL 저장]**&#x200B;을 클릭하세요.
 
    ![](assets/admin-setup-6.png)
 

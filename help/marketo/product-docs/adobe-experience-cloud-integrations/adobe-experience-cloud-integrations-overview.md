@@ -5,7 +5,7 @@ exl-id: ae75fb01-4b46-412f-b153-6f37c8de9b65
 feature: Integrations
 source-git-commit: 02b2e39580c5eac63de4b4b7fdaf2a835fdd4ba5
 workflow-type: tm+mt
-source-wordcount: '169'
+source-wordcount: '168'
 ht-degree: 0%
 
 ---
@@ -16,13 +16,13 @@ Adobe은 Adobe Experience Cloud 제품 간 기본 대상 동기화부터 시작�
 
 >[!NOTE]
 >
->Audience Manager 및 를 포함하는 통합 [!DNL Adobe Real-Time CDP Marketo Connecter]는 Marketo Engage에서 IMS 조직의 매핑이 필요할 수 있습니다. [Adobe 조직 매핑을 설정하는 방법 알아보기](/help/marketo/product-docs/adobe-experience-cloud-integrations/set-up-adobe-organization-mapping.md){target="_blank"}.
+>Audience Manager 및 [!DNL Adobe Real-Time CDP Marketo Connecter]을(를) 포함하는 통합에는 Marketo Engage의 IMS 조직 매핑이 필요할 수 있습니다. [Adobe 조직 매핑을 설정하는 방법을 알아봅니다](/help/marketo/product-docs/adobe-experience-cloud-integrations/set-up-adobe-organization-mapping.md){target="_blank"}.
 
 ## Adobe Experience Cloud 통합 {#adobe-experience-cloud-integrations}
 
 **Adobe Audience Manager과 Marketo 통합**
 
-* [Adobe Experience Cloud에서 대상자 동기화](/help/marketo/product-docs/adobe-experience-cloud-integrations/sync-an-audience-from-adobe-experience-cloud.md){target="_blank"}
+* [Adobe Experience Cloud에서 대상 동기화](/help/marketo/product-docs/adobe-experience-cloud-integrations/sync-an-audience-from-adobe-experience-cloud.md){target="_blank"}
 
 * [Adobe Experience Cloud에 목록 보내기](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/static-lists/send-a-list-to-adobe-experience-cloud.md){target="_blank"}
 
@@ -30,6 +30,6 @@ Marketo Engage에서 여러 AEC 응용 프로그램으로 알려진 사람들의
 
 **Adobe Experience Manager과 Marketo 통합**
 
-* [Adobe Experience Manager으로 에셋 가져오기](/help/marketo/product-docs/adobe-experience-cloud-integrations/importing-assets-with-adobe-experience-manager.md){target="_blank"}
+* [Adobe Experience Manager으로 Assets 가져오기](/help/marketo/product-docs/adobe-experience-cloud-integrations/importing-assets-with-adobe-experience-manager.md){target="_blank"}
 
 * [Adobe Analytics과 통합](/help/marketo/product-docs/web-personalization/reporting-for-web-personalization/web-analytics-integrations/integrate-with-adobe-analytics.md){target="_blank"}

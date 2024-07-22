@@ -20,15 +20,15 @@ Marketo 구독 취소 검사는 Marketo에 대한 팀의 연결을 사용하여 
 
 ## 켜기 {#turning-it-on}
 
-1. 톱니바퀴 아이콘을 클릭하고 **설정**.
+1. 톱니바퀴 아이콘을 클릭하고 **설정**&#x200B;을 선택합니다.
 
    ![](assets/marketo-unsubscribe-check-1.png)
 
-1. Admin Settings에서 **구독 취소**.
+1. 관리자 설정에서 **구독 취소**&#x200B;를 클릭합니다.
 
    ![](assets/marketo-unsubscribe-check-2.png)
 
-1. 다음을 클릭합니다. **통합** 탭. Marketo 구독 취소 확인 섹션에서 슬라이더를 클릭하여 확인을 활성화합니다.
+1. **통합** 탭을 클릭합니다. Marketo 구독 취소 확인 섹션에서 슬라이더를 클릭하여 확인을 활성화합니다.
 
    ![](assets/marketo-unsubscribe-check-3.png)
 

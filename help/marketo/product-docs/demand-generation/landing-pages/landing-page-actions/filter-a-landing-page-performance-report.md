@@ -13,9 +13,9 @@ ht-degree: 0%
 
 # 랜딩 페이지 성능 보고서 필터링 {#filter-a-landing-page-performance-report}
 
-포커스에 맞추기 [랜딩 페이지 성능 보고서](/help/marketo/product-docs/demand-generation/landing-pages/understanding-landing-pages/landing-page-performance-report.md) 프로그램의 랜딩 페이지(로컬 에셋), Design Studio의 랜딩 페이지(전역 에셋) 또는 보관된 랜딩 페이지
+[랜딩 페이지 성과 보고서](/help/marketo/product-docs/demand-generation/landing-pages/understanding-landing-pages/landing-page-performance-report.md)를 프로그램의 랜딩 페이지(로컬 자산), Design Studio의 랜딩 페이지(전역 자산) 또는 보관된 랜딩 페이지에 포커스를 둡니다.
 
-1. 다음으로 이동 **분석** (또는 **마케팅 활동**).
+1. **분석**(또는 **마케팅 활동**)으로 이동합니다.
 
    ![](assets/analyticstile.png)
 
@@ -23,12 +23,12 @@ ht-degree: 0%
 
    ![](assets/image2014-9-18-15-3a46-3a6.png)
 
-1. 다음을 클릭합니다. **설정** 탭에서 필터로 드래그하십시오.
+1. **설정** 탭을 클릭하고 필터를 드래그합니다.
 
    ![](assets/image2014-9-18-15-3a46-3a16.png)
 
-   * **디자인 스튜디오 랜딩 페이지:** Design Studio에서 관리되는 전역 에셋입니다.
-   * **마케팅 활동 랜딩 페이지:** 마케팅 활동 탭의 프로그램에 있는 로컬 에셋입니다.
+   * **Design Studio 랜딩 페이지:** Design Studio에서 관리되는 전역 자산
+   * **마케팅 활동 랜딩 페이지:** 마케팅 활동 탭의 프로그램에 있는 로컬 자산입니다.
    * **보관된 랜딩 페이지:** 비활성, 폐기된 랜딩 페이지.
 
 1. 보고서에 포함할 폴더 및 특정 랜딩 페이지를 선택합니다.
@@ -39,6 +39,6 @@ ht-degree: 0%
    >
    >폴더를 선택하면 보고서가 실행될 때 폴더에 포함된 모든 내용이 보고서에 포함됩니다.
 
-1. 완료되었습니다! 다음을 클릭합니다. **보고서** 탭으로 이동하여 필터링된 보고서를 확인합니다.
+1. 완료되었습니다! 필터링된 보고서를 보려면 **보고서** 탭을 클릭하십시오.
 
    ![](assets/image2014-9-18-15-3a47-3a21.png)

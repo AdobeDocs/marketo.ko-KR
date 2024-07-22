@@ -13,11 +13,11 @@ ht-degree: 0%
 
 # API 전용 사용자 만들기 {#create-an-api-only-user}
 
-를 통해 Marketo과 통합하려는 경우 [나머지 API](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/rest/rest-api){target="_blank"}, API 전용 사용자를 만들어야 합니다. 방법은 다음과 같습니다.
+[REST API](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/rest/rest-api){target="_blank"}를 통해 Marketo과 통합하려면 API 전용 사용자를 만들어야 합니다. 방법은 다음과 같습니다.
 
 >[!IMPORTANT]
 >
->Adobe ID에 온보딩된 구독에서 API 전용 사용자를 생성하는 경우 단계가 다르고 [은(는) 여기에서 찾을 수 있음](/help/marketo/product-docs/administration/marketo-with-adobe-identity/add-api-only-user-for-adobe-ims-enabled-subscriptions.md){target="_blank"}.
+>Adobe ID에 온보딩된 구독에서 API 전용 사용자를 만드는 경우 단계가 달라지며 [여기에서 찾을 수 있습니다](/help/marketo/product-docs/administration/marketo-with-adobe-identity/add-api-only-user-for-adobe-ims-enabled-subscriptions.md){target="_blank"}.
 
 >[!PREREQUISITES]
 >
@@ -27,19 +27,19 @@ ht-degree: 0%
 >
 >**관리자 권한 필요**
 
-1. 로 이동 **[!UICONTROL 관리자]** 영역입니다.
+1. **[!UICONTROL 관리자]** 영역으로 이동합니다.
 
    ![](assets/create-an-api-only-user-1.png)
 
-1. 클릭 **[!UICONTROL 사용자 및 역할]**.
+1. **[!UICONTROL 사용자 및 역할]**&#x200B;을 클릭합니다.
 
    ![](assets/create-an-api-only-user-2.png)
 
-1. 클릭 **[!UICONTROL 새 사용자 초대]**.
+1. **[!UICONTROL 새 사용자 초대]**&#x200B;를 클릭합니다.
 
    ![](assets/create-an-api-only-user-3.png)
 
-1. API 전용 사용자에 대한 이메일, 이름 및 성을 입력합니다. 클릭 **[!UICONTROL 다음]**.
+1. API 전용 사용자에 대한 이메일, 이름 및 성을 입력합니다. **[!UICONTROL 다음]**&#x200B;을 클릭합니다.
 
    ![](assets/create-an-api-only-user-4.png)
 
@@ -47,11 +47,11 @@ ht-degree: 0%
    >
    >선택적 사유 또는 액세스 만료 날짜를 추가합니다. 액세스 만료일은 단기 사원에게 편리합니다.
 
-1. 다음 항목 선택 **[!UICONTROL API만]** 역할 및 확인 **[!UICONTROL API만]** 확인란. 클릭 **[!UICONTROL 다음]**.
+1. **[!UICONTROL API 전용]** 역할을 선택하고 **[!UICONTROL API 전용]** 확인란을 선택합니다. **[!UICONTROL 다음]**&#x200B;을 클릭합니다.
 
    ![](assets/create-an-api-only-user-5.png)
 
-1. 클릭 **[!UICONTROL 보내기]**.
+1. **[!UICONTROL 보내기]**&#x200B;를 클릭합니다.
 
    ![](assets/create-an-api-only-user-6.png)
 
@@ -63,4 +63,4 @@ ht-degree: 0%
 
 >[!MORELIKETHIS]
 >
->[REST API와 함께 사용할 사용자 지정 서비스 만들기](/help/marketo/product-docs/administration/additional-integrations/create-a-custom-service-for-use-with-rest-api.md){target="_blank"}
+>[REST API에 사용할 사용자 지정 서비스 만들기](/help/marketo/product-docs/administration/additional-integrations/create-a-custom-service-for-use-with-rest-api.md){target="_blank"}

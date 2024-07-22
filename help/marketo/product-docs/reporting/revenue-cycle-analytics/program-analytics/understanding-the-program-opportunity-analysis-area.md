@@ -6,7 +6,7 @@ exl-id: 6105df93-b3de-4929-85e3-fd328372bd24
 feature: Reporting, Revenue Cycle Analytics
 source-git-commit: d20a9bb584f69282eefae3704ce4be2179b29d0b
 workflow-type: tm+mt
-source-wordcount: '896'
+source-wordcount: '907'
 ht-degree: 0%
 
 ---
@@ -17,7 +17,7 @@ ht-degree: 0%
 
 프로그램 기회 분석 영역에서는 개별 프로그램의 효과를 분석하거나 프로그램 채널별로 요약 결과를 확인할 수 있습니다.
 
-**이 분석 영역을 사용하여 답변할 수 있는 예제 비즈니스 질문은 다음과 같습니다.**:
+**이 분석 영역을 사용하여 답변할 수 있는 비즈니스 질문 예는 다음과 같습니다**.
 
 주어진 프로그램에 몇 개의 Opportunity 가 연계되었으며 그 중 몇 개의 Opportunity 를 획득했습니까?
 
@@ -74,7 +74,7 @@ ht-degree: 0%
    <td>영업 기회 창출에 영향을 준 것으로 인해 프로그램이 받은 크레딧 비중. 관련된 여러 리드가 있는 경우 분수일 수 있습니다.</td> 
   </tr> 
   <tr> 
-   <td>성공한 영업 기회</td> 
+   <td>기회 획득함</td> 
    <td>프로그램이 Won 기회에 영향을 미쳐 받은 크레딧 비중. 관련된 여러 리드가 있는 경우 분수일 수 있습니다.</td> 
   </tr> 
   <tr> 
@@ -100,7 +100,7 @@ ht-degree: 0%
  </tbody> 
 </table>
 
-_&#42;(FT) = 잠재 고객 확보 조치에 사용되는 첫 번째 접점 속성, (MT) = 잠재 고객 성공 조치에 사용되는 다중 접점 속성_
+_&#42;(FT) = 잠재 고객 확보 측정에 사용되는 첫 번째 접점 속성, (MT) = 잠재 고객 성공 측정에 사용되는 다중 접점 속성_
 
 다음은 가망 고객을 생성했지만 동일한 계정에서 하나의 기회로 이어지는 두 개의 프로그램이 있을 때 기회 단위를 계산하는 방법을 설명하는 시나리오입니다.
 
@@ -164,7 +164,7 @@ Marketo은 프로그램 간 영업 기회를 두 번 계산하지 않고 적절�
 <table> 
  <tbody> 
   <tr> 
-   <th>범주</th> 
+   <th>카테고리</th> 
    <th>표시 레이블</th> 
   </tr> 
   <tr> 
@@ -173,7 +173,7 @@ Marketo은 프로그램 간 영업 기회를 두 번 계산하지 않고 적절�
   </tr> 
   <tr> 
    <td>영업 기회 일정</td> 
-   <td>영업 기회 종료 연도/분기/월<br>생성된 영업 기회 연도/분기/월</td> 
+   <td>영업 기회 종료일 연도/분기/월<br>영업 기회가 생성된 연도/분기/월</td> 
   </tr> 
   <tr> 
    <td>프로그램 속성</td> 
@@ -186,8 +186,8 @@ Marketo은 프로그램 간 영업 기회를 두 번 계산하지 않고 적절�
  </tbody> 
 </table>
 
-*&#42;프로그램에 모든 유형의 속성 크레딧을 제공한 모든 Opportunity Opportunity 는 하나 이상의 Lead 와 하나 이상의 Program에 의해 영향을 받을 수 있습니다.*
+*&#42;모든 유형의 기여도 크레딧을 프로그램에 제공한 모든 기회입니다. 기회는 하나 이상의 리드와 하나 이상의 프로그램에 의해 영향을 받을 수 있습니다.*
 
 >[!MORELIKETHIS]
 >
->[수익 탐색기 보고서 만들기](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-explorer/create-a-revenue-explorer-report.md)
+>[매출 탐색기 보고서 만들기](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-explorer/create-a-revenue-explorer-report.md)

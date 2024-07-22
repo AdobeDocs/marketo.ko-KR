@@ -1,8 +1,8 @@
 ---
 description: 설정 탭 - Marketo 문서 - 제품 설명서
 title: 설정 탭
-exl-id: 44bb3227-4d77-47db-88ef-aafc2ddf3c74
-source-git-commit: d41324dbde32ee731b3ce9c3416888e8088a2daa
+exl-id: 622ad162-a2b1-4a37-93d8-c1dd8c6e10c8
+source-git-commit: c16081143588ebc0793f5b6e2630b58348e27124
 workflow-type: tm+mt
 source-wordcount: '303'
 ht-degree: 1%
@@ -15,11 +15,11 @@ ht-degree: 1%
 
 여기에는 다음 세 가지 섹션이 포함됩니다.
 
-* **자격 규칙**: 각 사용자가 스마트 캠페인 플로우를 통해 실행할 수 있는 횟수를 결정합니다.
+* **자격 규칙**: 각 사용자가 스마트 캠페인 흐름을 통해 실행할 수 있는 횟수를 결정합니다.
 
 * **개별 실행**: 단일 실행을 즉시 또는 나중에 예약하는 데 사용할 수 있습니다.
 
-* **반복**: 일별, 주별 또는 월별 재발을 예약하는 데 사용됩니다.
+* **반복**: 일별, 주별 또는 월별 반복을 예약하는 데 사용됩니다.
 
   ![](assets/settings-tab-1.png)
 

@@ -13,28 +13,28 @@ ht-degree: 0%
 
 # 사용자 성과 보고서 {#people-performance-report}
 
-인력 성과 보고서를 사용하여 시간 경과에 따른 데이터베이스 증가를 측정합니다. 몇 명을 추가했고 언제 추가했는지 알 수 있습니다. 사람에 대해 자세히 알아보고 프로그램을 평가하세요. 결과를 개인 또는 회사 특성별로 그룹화하거나 [세분화](/help/marketo/product-docs/personalization/segmentation-and-snippets/segmentation/create-a-segmentation.md).
+인력 성과 보고서를 사용하여 시간 경과에 따른 데이터베이스 증가를 측정합니다. 몇 명을 추가했고 언제 추가했는지 알 수 있습니다. 사람에 대해 자세히 알아보고 프로그램을 평가하세요. 모든 사용자 또는 회사 특성이나 [세그먼테이션](/help/marketo/product-docs/personalization/segmentation-and-snippets/segmentation/create-a-segmentation.md)을 기준으로 결과를 그룹화합니다.
 
-1. [보고서 만들기](/help/marketo/product-docs/reporting/basic-reporting/creating-reports/create-a-report-in-a-program.md) 및 선택 **사용자 성능** [보고서 유형](/help/marketo/product-docs/reporting/basic-reporting/report-types/report-type-overview.md).
+1. [보고서를 만들고](/help/marketo/product-docs/reporting/basic-reporting/creating-reports/create-a-report-in-a-program.md) **사람 성과** [보고서 유형](/help/marketo/product-docs/reporting/basic-reporting/report-types/report-type-overview.md)을(를) 선택합니다.
 
-1. [보고서의 시간대 설정](/help/marketo/product-docs/reporting/basic-reporting/editing-reports/change-a-report-time-frame.md) 을(를) 클릭하고 **보고서** 탭.
+1. [보고서의 시간대를 설정](/help/marketo/product-docs/reporting/basic-reporting/editing-reports/change-a-report-time-frame.md)하고 **보고서** 탭을 클릭합니다.
 
 1. 잘됐네! 이제 사람 성과 보고서를 살펴볼 준비가 되었습니다. 아래 목록에서 더 많은 정보를 얻는 방법에 대해 알아보십시오.
 
    >[!NOTE]
    >
-   >기본적으로 사람 성과 보고서는 다음 기준으로 그룹화됩니다 *생성 시간* 월.
+   >기본적으로 사람 성과 보고서는 *만든 시간*&#x200B;개월별로 그룹화됩니다.
 
    ![](assets/one.png)
 
 ## Power of People 성과 보고서 {#the-power-of-people-performance-reports}
 
-사람 성과 보고서는 매우 강력합니다. 추가 그룹화, 필터링 및 구성을 통해 데이터베이스의 작업자와 프로그램의 효율성에 대해 자세히 알아볼 수 있습니다.
+사람 성과 보고서는 매우 강력합니다. 추가 그룹화, 필터링 및 구성을 통해 데이터베이스의 작업자와 프로그램의 효과에 대해 많은 것을 배울 수 있습니다.
 
 다음을 수행할 수 있습니다.
 
-* [리드 또는 회사 속성으로 리드 그룹화](/help/marketo/product-docs/reporting/basic-reporting/report-activity/group-person-reports-by-attribute.md).
-* [세그먼트별 잠재 고객 그룹화](/help/marketo/product-docs/personalization/segmentation-and-snippets/segmentation/group-person-reports-by-segment.md).
+* [잠재 고객 또는 회사 특성별 잠재 고객 그룹](/help/marketo/product-docs/reporting/basic-reporting/report-activity/group-person-reports-by-attribute.md).
+* [세그먼트별로 잠재 고객 그룹화](/help/marketo/product-docs/personalization/segmentation-and-snippets/segmentation/group-person-reports-by-segment.md).
 * [스마트 목록을 사용자 지정 보고서 열로 사용합니다.](/help/marketo/product-docs/reporting/basic-reporting/editing-reports/add-custom-columns-to-a-person-report.md)
 * [영업 기회 지표를 보고서 열로 추가합니다.](/help/marketo/product-docs/reporting/basic-reporting/editing-reports/add-opportunity-columns-to-a-lead-report.md)
 * [드릴다운하여 특정 행의 리드에 대해 자세히 알아봅니다.](/help/marketo/product-docs/reporting/basic-reporting/report-activity/drill-down-in-a-people-performance-report.md)
@@ -44,4 +44,4 @@ ht-degree: 0%
 
   >[!TIP]
   >
-  >보고서는 다음과 같이 쉽게 작성할 수 있습니다. [만들기](/help/marketo/product-docs/reporting/basic-reporting/creating-reports/create-a-report-in-a-program.md), 구성 및 [삭제](/help/marketo/product-docs/reporting/basic-reporting/report-activity/delete-a-report.md). 계속해서 조작할 수 있는 다양한 방법으로 재생하여 주요 데이터에 집중하는 최상의 방법을 알아보십시오.
+  >보고서는 [만들기](/help/marketo/product-docs/reporting/basic-reporting/creating-reports/create-a-report-in-a-program.md), 구성 및 [삭제](/help/marketo/product-docs/reporting/basic-reporting/report-activity/delete-a-report.md)하기 쉽습니다. 계속해서 조작할 수 있는 다양한 방법으로 재생하여 주요 데이터에 집중하는 최상의 방법을 알아보십시오.

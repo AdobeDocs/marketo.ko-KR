@@ -24,7 +24,7 @@ ht-degree: 0%
 
 >[!IMPORTANT]
 >
->**재정의합니다.** 다음 [라이브 채팅 가용성](/help/marketo/product-docs/demand-generation/dynamic-chat/setup-and-configuration/agent-settings.md#live-chat-availability){target="_blank"} 에이전트 설정에서 을(를) 설정했습니다. 상태를 다시 전환하거나 사용 가능한 다음 시간 블록으로 전환할 때까지 유지됩니다.
+>**에이전트 설정에서 설정한 [실시간 채팅 가용성](/help/marketo/product-docs/demand-generation/dynamic-chat/setup-and-configuration/agent-settings.md#live-chat-availability){target="_blank"}을 재정의합니다**. 상태를 다시 전환하거나 사용 가능한 다음 시간 블록으로 전환할 때까지 유지됩니다.
 
 >[!NOTE]
 >
@@ -32,7 +32,7 @@ ht-degree: 0%
 
 ## 라이브 채팅 알림 {#live-chat-notifications}
 
-에서 알림에 대해 자세히 알아보기 [라이브 채팅 개요](/help/marketo/product-docs/demand-generation/dynamic-chat/live-chat/live-chat-overview.md#live-chat-notifications){target="_blank"}.
+[실시간 채팅 개요](/help/marketo/product-docs/demand-generation/dynamic-chat/live-chat/live-chat-overview.md#live-chat-notifications){target="_blank"}에서 알림에 대해 자세히 알아보세요.
 
 ## 대화 {#conversations}
 
@@ -52,7 +52,7 @@ ht-degree: 0%
 
 ## 세션 종료 {#end-a-session}
 
-에이전트는 다음을 클릭하여 세션을 수동으로 종료할 수 있습니다. **세션 종료** 방문자 정보 옆에 있는 단추입니다.
+에이전트는 방문자 정보 옆에 있는 **세션 종료** 단추를 클릭하여 세션을 수동으로 종료할 수 있습니다.
 
 ![](assets/agent-inbox-6.png)
 
@@ -62,13 +62,13 @@ ht-degree: 0%
 >
 >이 기능은 Dynamic Chat Prime 구독을 통해 사용할 수 있는 생성 AI의 일부입니다. 자세한 내용은 Adobe 계정 팀(계정 관리자)에 문의하십시오.
 
-생성 AI에서 제공하는 단축키 [응답 라이브러리](/help/marketo/product-docs/demand-generation/dynamic-chat/generative-ai/response-library.md)는 방문자와 채팅할 때 언제든지 도움을 받을 수 있는 좋은 방법입니다. 슬래시(`/`)를 클릭하여 텍스트 상자를 선택합니다 `ask` 또는 `search`.
+생성 AI [응답 라이브러리](/help/marketo/product-docs/demand-generation/dynamic-chat/generative-ai/response-library.md)에서 제공하는 바로 가기는 방문자와 채팅할 때 즉시 도움을 받을 수 있는 좋은 방법입니다. 텍스트 상자에 슬래시(`/`)를 입력하고 `ask` 또는 `search`을(를) 선택하면 됩니다.
 
 ![](assets/agent-inbox-7.png)
 
-**묻기** 은(는) 질문에 대한 응답에 대한 도움말입니다.
+**질문**&#x200B;은(는) 질문에 대한 응답에 대한 도움말입니다.
 
-1. 입력 또는 선택 `/ask` 텍스트 상자에 입력합니다. 질문을 입력하고 키보드에서 Enter 키를 누릅니다.
+1. 텍스트 상자에 `/ask`을(를) 입력하거나 선택합니다. 질문을 입력하고 키보드에서 Enter 키를 누릅니다.
 
    ![](assets/agent-inbox-8.png)
 
@@ -76,9 +76,9 @@ ht-degree: 0%
 
    ![](assets/agent-inbox-9.png)
 
-**검색** 특정 텍스트와 관련된 페이지를 찾는 데 도움이 됩니다.
+**검색**&#x200B;은(는) 특정 텍스트와 관련된 페이지를 찾는 데 도움이 됩니다.
 
-1. 입력 또는 선택 `/search` 텍스트 상자에 입력합니다.
+1. 텍스트 상자에 `/search`을(를) 입력하거나 선택합니다.
 
    ![](assets/agent-inbox-10.png)
 
@@ -108,7 +108,7 @@ ht-degree: 0%
 
    ![](assets/agent-inbox-14.png)
 
-1. 원하는 에이전트 달력을 선택하고 **보내기**.
+1. 원하는 에이전트 일정을 선택하고 **보내기**&#x200B;를 클릭합니다.
 
    ![](assets/agent-inbox-15.png)
 

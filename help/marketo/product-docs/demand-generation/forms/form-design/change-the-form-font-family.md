@@ -6,7 +6,7 @@ exl-id: eb5e861b-6e0b-4291-9944-828ea00f1869
 feature: Forms
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
-source-wordcount: '143'
+source-wordcount: '141'
 ht-degree: 0%
 
 ---
@@ -19,31 +19,31 @@ Google 글꼴은 훌륭하며 양식 편집기에 바로 빌드되었습니다. 
 >
 >이 설정은 양식 레이블, 입력 텍스트 및 모든 서식 있는 텍스트에 영향을 줍니다.
 
-1. 다음으로 이동 **마케팅 활동**.
+1. **마케팅 활동**(으)로 이동합니다.
 
    ![](assets/login-marketing-activities.png)
 
-1. 양식을 선택하고 **양식 편집**.
+1. 양식을 선택하고 **양식 편집**&#x200B;을 클릭합니다.
 
    ![](assets/image2014-9-15-15-3a47-3a27.png)
 
-1. 아래 **양식 설정**, 선택 **설정**.
+1. **양식 설정**&#x200B;에서 **설정**&#x200B;을 선택합니다.
 
    ![](assets/image2014-9-15-15-3a47-3a56.png)
 
-1. 다음 항목 선택 **글꼴 모음** 원하는 대로
+1. 원하는 **글꼴 모음**&#x200B;을(를) 선택하십시오.
 
    >[!TIP]
    >
-   >한 다발 [Google 글꼴](https://www.google.com/fonts) 사용할 수 있습니다.
+   >[Google 글꼴](https://www.google.com/fonts)을(를) 사용할 수 있습니다.
 
    ![](assets/image2014-9-15-16-3a0-3a8.png)
 
-1. 클릭 **완료**.
+1. **마침**&#x200B;을 클릭합니다.
 
    ![](assets/image2014-9-15-16-3a0-3a15.png)
 
-1. 클릭 **승인 및 닫기**.
+1. **승인 및 닫기**&#x200B;를 클릭합니다.
 
    >[!NOTE]
    >

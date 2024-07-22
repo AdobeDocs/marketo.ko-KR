@@ -2,11 +2,11 @@
 description: 권한 - Marketo 문서 - 제품 설명서
 title: 권한
 feature: Dynamic Chat
-exl-id: e05308fe-b8b7-40a3-8099-cec937e1961c
-source-git-commit: cf082705f68c459e5b46cf7c968df75241102f60
+exl-id: 06798ac4-636b-476e-bbb1-498062844406
+source-git-commit: c16081143588ebc0793f5b6e2630b58348e27124
 workflow-type: tm+mt
 source-wordcount: '724'
-ht-degree: 8%
+ht-degree: 4%
 
 ---
 
@@ -16,15 +16,15 @@ Dynamic Chat에서 편집할 수 있는 사전 정의된 권한이 있는 5개�
 
 ## 기존 권한 편집 {#edit-existing-permissions}
 
-1. 다음에서 [Adobe Admin Console](https://adminconsole.adobe.com/){target="_blank"}, 클릭 **Dynamic Chat**.
+1. [Adobe Admin Console](https://adminconsole.adobe.com/){target="_blank"}에서 **Dynamic Chat**&#x200B;을 클릭합니다.
 
    ![](assets/permissions-1.png)
 
-1. 다음에서 **제품 프로필** 탭에서 편집할 프로필을 선택합니다. 이 예제에서는 **라이브 에이전트**.
+1. **제품 프로필** 탭에서 편집할 프로필을 선택합니다. 이 예제에서는 **Live 에이전트**&#x200B;을(를) 선택합니다.
 
    ![](assets/permissions-2.png)
 
-1. 다음을 클릭합니다. **권한** 탭.
+1. **권한** 탭을 클릭합니다.
 
    ![](assets/permissions-3.png)
 
@@ -32,7 +32,7 @@ Dynamic Chat에서 편집할 수 있는 사전 정의된 권한이 있는 5개�
 
    ![](assets/permissions-4.png)
 
-1. 사용 가능한 권한 항목은 왼쪽에 나열됩니다. 권한을 하나씩 또는 모두 한 번에 추가하도록 선택할 수 있습니다. 이 예에는 사용 가능한 항목이 하나만 있으므로 해당 항목을 추가합니다. 다음을 클릭합니다. **+** 서명.
+1. 사용 가능한 권한 항목은 왼쪽에 나열됩니다. 권한을 하나씩 또는 모두 한 번에 추가하도록 선택할 수 있습니다. 이 예에는 사용 가능한 항목이 하나만 있으므로 해당 항목을 추가합니다. **+** 기호를 클릭합니다.
 
    ![](assets/permissions-5.png)
 
@@ -50,15 +50,15 @@ Dynamic Chat에서 편집할 수 있는 사전 정의된 권한이 있는 5개�
 
 ## 프로필 만들기 {#create-a-profile}
 
-1. 다음에서 [Adobe Admin Console](https://adminconsole.adobe.com/){target="_blank"}, 클릭 **Dynamic Chat**.
+1. [Adobe Admin Console](https://adminconsole.adobe.com/){target="_blank"}에서 **Dynamic Chat**&#x200B;을 클릭합니다.
 
    ![](assets/permissions-8.png)
 
-1. 다음에서 **제품 프로필** 탭을 클릭하고 **새 프로필**.
+1. **제품 프로필** 탭에서 **새 프로필**&#x200B;을 클릭합니다.
 
    ![](assets/permissions-9.png)
 
-1. **이름** 제품 프로필. 선택적으로, 사용자에게 표시 이름 및/또는 설명을 지정하고, 사용자가 추가/제거될 때 알림이 표시되도록 선택할 수 있습니다. 클릭 **저장** 완료 시.
+1. 제품 프로필 **이름**. 선택적으로, 사용자에게 표시 이름 및/또는 설명을 지정하고, 사용자가 추가/제거될 때 알림이 표시되도록 선택할 수 있습니다. 완료되면 **저장**&#x200B;을 클릭합니다.
 
    ![](assets/permissions-10.png)
 
@@ -66,7 +66,7 @@ Dynamic Chat에서 편집할 수 있는 사전 정의된 권한이 있는 5개�
 
    ![](assets/permissions-11.png)
 
-1. 이제 다음에서 3-6단계를 수행합니다. [위의 섹션](#edit-existing-permissions) 원하는 영역마다.
+1. 이제 원하는 각 영역에 대해 위의 [섹션](#edit-existing-permissions)에서 3~6단계를 수행합니다.
 
 ## 권한 목록 {#list-of-permissions}
 
@@ -84,10 +84,10 @@ Dynamic Chat에서 편집할 수 있는 사전 정의된 권한이 있는 5개�
     <td>대화 관리</td>
     <td><li>대화 상자 보기</li>
     <li>대화 상자 관리(만들기, 삭제)</li>
-    <li>게시 대화 상자</li>
+    <li>Publish 대화 상자</li>
     <li>대화 흐름 보기</li>
     <li>대화 흐름 관리(만들기, 삭제)</li>
-    <li>대화 흐름 게시</li></td>
+    <li>Publish 대화 흐름</li></td>
   </tr>
   <tr>
     <td>라이브 채팅</td>
@@ -116,14 +116,14 @@ Dynamic Chat에서 편집할 수 있는 사전 정의된 권한이 있는 5개�
     <td><li>라운드 로빈 보기</li>
     <li>사용자 정의 규칙 보기</li>
     <li>사용자 정의 규칙 관리(추가, 편집, 삭제)</li>
-    <li>계정 목록 보기 <b>*</b></li>
+    <li>계정 목록 <b>*</b> 보기</li>
     <li>계정 관리(추가, 편집, 삭제) <b>*</b></li>
     <li>챗봇 설정 관리</li>
     <li>대화 흐름 설정 관리</li>
     <li>개인 정보 및 보안 관리</li>
     <li>통합 관리</li>
     <li>에이전트 관리</li>
-    <li>에이전트 팀 보기 <b>*</b></li>
+    <li>에이전트 팀 <b>*</b> 보기</li>
     <li>에이전트 팀 관리(추가, 편집, 삭제) <b>*</b></li></td>
   </tr>
 </tbody>
@@ -150,18 +150,18 @@ Dynamic Chat에서 편집할 수 있는 사전 정의된 권한이 있는 5개�
     <td><i>대화 관리</i>
     <li>대화 상자 보기</li>
     <li>대화 상자 관리(만들기, 삭제)</li>
-    <li>게시 대화 상자</li>
+    <li>Publish 대화 상자</li>
     <li>대화 흐름 보기</li>
     <li>대화 흐름 관리(만들기, 삭제)</li>
-    <li>대화 흐름 게시</li>
+    <li>Publish 대화 흐름</li>
     <br>
-    <i>라이브 채팅</i>
+    <i>실시간 채팅</i>
     <li>해당 사항 없음</li>
     <br>
     <i>모임</i>
     <li>해당 사항 없음</li>
     <br>
-    <i>Analytics</i>
+    <i>분석</i>
     <li>글로벌 성과 보고서 보기</li>
     <li>라이브 채팅 보고서 보기</li>
     <li>모임 보고서 보기</li>
@@ -172,8 +172,8 @@ Dynamic Chat에서 편집할 수 있는 사전 정의된 권한이 있는 5개�
     <i>관리자 설정</i>
     <li>라운드 로빈 보기</li>
     <li>사용자 정의 규칙 보기</li>
-    <li>계정 목록 보기 <b>*</b></li>
-    <li>에이전트 팀 보기 <b>*</b></li>
+    <li>계정 목록 <b>*</b> 보기</li>
+    <li>에이전트 팀 <b>*</b> 보기</li>
     </td>
   </tr>
   <tr>
@@ -182,13 +182,13 @@ Dynamic Chat에서 편집할 수 있는 사전 정의된 권한이 있는 5개�
     <li>대화 상자 보기</li>
     <li>대화 흐름 보기</li>
     <br>
-    <i>라이브 채팅</i>
+    <i>실시간 채팅</i>
     <li>내 대화 보기</li>
     <br>
     <i>모임</i>
     <li>해당 사항 없음</li>
     <br>
-    <i>Analytics</i>
+    <i>분석</i>
     <li>글로벌 성과 보고서 보기</li>
     <li>라이브 채팅 보고서 보기</li>
     <li>모임 보고서 보기</li>
@@ -201,8 +201,8 @@ Dynamic Chat에서 편집할 수 있는 사전 정의된 권한이 있는 5개�
     <i>관리자 설정</i>
     <li>라운드 로빈 보기</li>
     <li>사용자 정의 규칙 보기</li>
-    <li>계정 목록 보기 <b>*</b></li>
-    <li>에이전트 팀 보기 <b>*</b></li>
+    <li>계정 목록 <b>*</b> 보기</li>
+    <li>에이전트 팀 <b>*</b> 보기</li>
     </td>
   </tr>
   <tr>
@@ -211,13 +211,13 @@ Dynamic Chat에서 편집할 수 있는 사전 정의된 권한이 있는 5개�
     <li>대화 상자 보기</li>
     <li>대화 흐름 보기</li>
     <br>
-    <i>라이브 채팅</i>
+    <i>실시간 채팅</i>
     <li>해당 사항 없음</li>
     <br>
     <i>모임</i>
     <li>해당 사항 없음</li>
     <br>
-    <i>Analytics</i>
+    <i>분석</i>
     <li>글로벌 성과 보고서 보기</li>
     <li>라이브 채팅 보고서 보기</li>
     <li>모임 보고서 보기</li>
@@ -229,8 +229,8 @@ Dynamic Chat에서 편집할 수 있는 사전 정의된 권한이 있는 5개�
     <i>관리자 설정</i>
     <li>라운드 로빈 보기</li>
     <li>사용자 정의 규칙 보기</li>
-    <li>계정 목록 보기 <b>*</b></li>
-    <li>에이전트 팀 보기 <b>*</b></li>
+    <li>계정 목록 <b>*</b> 보기</li>
+    <li>에이전트 팀 <b>*</b> 보기</li>
     </td>
   </tr>
   <tr>
@@ -238,18 +238,18 @@ Dynamic Chat에서 편집할 수 있는 사전 정의된 권한이 있는 5개�
     <td><i>대화 관리</i>
     <li>대화 상자 보기</li>
     <li>대화 상자 관리(만들기, 삭제)</li>
-    <li>게시 대화 상자</li>
+    <li>Publish 대화 상자</li>
     <li>대화 흐름 보기</li>
     <li>대화 흐름 관리(만들기, 삭제)</li>
-    <li>대화 흐름 게시</li>
+    <li>Publish 대화 흐름</li>
     <br>
-    <i>라이브 채팅</i>
+    <i>실시간 채팅</i>
     <li>해당 사항 없음</li>
     <br>
     <i>모임</i>
     <li>해당 사항 없음</li>
     <br>
-    <i>Analytics</i>
+    <i>분석</i>
     <li>글로벌 성과 보고서 보기</li>
     <li>라이브 채팅 보고서 보기</li>
     <li>모임 보고서 보기</li>
@@ -262,13 +262,13 @@ Dynamic Chat에서 편집할 수 있는 사전 정의된 권한이 있는 5개�
     <li>라운드 로빈 보기</li>
     <li>사용자 정의 규칙 보기</li>
     <li>사용자 정의 규칙 관리(추가, 편집, 삭제)</li>
-    <li>계정 목록 보기 <b>*</b></li>
+    <li>계정 목록 <b>*</b> 보기</li>
     <li>계정 관리(추가, 편집, 삭제) <b>*</b></li>
     <li>챗봇 설정 관리</li>
     <li>대화 흐름 설정 관리</li>
     <li>개인 정보 및 보안 관리</li>
     <li>통합 관리</li>
-    <li>에이전트 팀 보기 <b>*</b></li>
+    <li>에이전트 팀 <b>*</b> 보기</li>
     </td>
   </tr>
   <tr>
@@ -277,14 +277,14 @@ Dynamic Chat에서 편집할 수 있는 사전 정의된 권한이 있는 5개�
     <li>대화 상자 보기</li>
     <li>대화 흐름 보기</li>
     <br>
-    <i>라이브 채팅</i>
+    <i>실시간 채팅</i>
     <li>내 대화 보기</li>
     <li>모든 대화 보기</li>
     <br>
     <i>모임</i>
     <li>모든 모임 관리</li>
     <br>
-    <i>Analytics</i>
+    <i>분석</i>
     <li>글로벌 성과 보고서 보기</li>
     <li>라이브 채팅 보고서 보기</li>
     <li>모임 보고서 보기</li>
@@ -299,10 +299,10 @@ Dynamic Chat에서 편집할 수 있는 사전 정의된 권한이 있는 5개�
     <li>라운드 로빈 보기</li>
     <li>사용자 정의 규칙 보기</li>
     <li>사용자 정의 규칙 관리(추가, 편집, 삭제)</li>
-    <li>계정 목록 보기 <b>*</b></li>
+    <li>계정 목록 <b>*</b> 보기</li>
     <li>계정 관리(추가, 편집, 삭제) <b>*</b></li>
     <li>에이전트 관리</li>
-    <li>에이전트 팀 보기 <b>*</b></li>
+    <li>에이전트 팀 <b>*</b> 보기</li>
     <li>에이전트 팀 관리 <b>*</b></li>
     </td>
   </tr>

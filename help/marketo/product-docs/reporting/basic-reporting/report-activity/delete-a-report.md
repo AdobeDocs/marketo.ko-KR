@@ -13,9 +13,9 @@ ht-degree: 0%
 
 # 보고서 삭제 {#delete-a-report}
 
-일단 시작하면 [보고서 만들기](/help/marketo/product-docs/reporting/basic-reporting/creating-reports/create-a-report-in-a-program.md), 많은 항목을 빠르게 얻을 수 있습니다. 더 이상 필요하지 않은 보고서를 삭제해야 합니다.
+[보고서 만들기](/help/marketo/product-docs/reporting/basic-reporting/creating-reports/create-a-report-in-a-program.md)를 시작하면 많은 보고서를 신속하게 만들 수 있습니다. 더 이상 필요하지 않은 보고서를 삭제해야 합니다.
 
-1. 트리에서 필요하지 않은 보고서를 마우스 오른쪽 버튼으로 클릭하고 다음을 선택합니다. **보고서 삭제**.
+1. 트리에서 필요하지 않은 보고서를 마우스 오른쪽 단추로 클릭하고 **보고서 삭제**&#x200B;를 선택합니다.
 
    ![](assets/image2014-9-16-14-3a26-3a48.png)
 

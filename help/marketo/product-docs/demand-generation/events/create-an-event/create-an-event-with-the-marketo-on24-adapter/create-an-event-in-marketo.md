@@ -19,9 +19,9 @@ Marketo 이벤트는 프로그램을 통해 진행 상황을 추적합니다. ON
 
 ![](assets/image2015-12-16-13-33-56.png)
 
-Marketo 이벤트를 만들 때 다음을 선택합니다 **웨비나** 를 채널 유형으로 사용하십시오. 관리에서 이 채널을 편집하고 새 채널을 만들 수 있습니다. 새 채널을 만드는 경우 다음 유형이어야 합니다. **웨비나를 사용하는 이벤트** 을 참조하십시오. 다음을 참조하십시오 [프로그램 채널 만들기](/help/marketo/product-docs/administration/tags/create-a-program-channel.md){target="_blank"} 추가 정보.
+Marketo 이벤트를 만들 때 채널 유형으로 **웨비나**&#x200B;를 선택합니다. 관리에서 이 채널을 편집하고 새 채널을 만들 수 있습니다. 새 채널을 만드는 경우 통합이 작동하려면 **Event with Webinar** 유형이어야 합니다. 자세한 내용은 [프로그램 채널 만들기](/help/marketo/product-docs/administration/tags/create-a-program-channel.md){target="_blank"}를 참조하십시오.
 
-다음 단계는 [이벤트 설정 구성 및 웨비나와 Marketo 동기화](/help/marketo/product-docs/demand-generation/events/create-an-event/create-an-event-with-the-marketo-on24-adapter/configure-event-settings-and-sync-marketo-with-your-webinar.md){target="_blank"}.
+다음 단계는 [이벤트 설정을 구성하고 웨비나와 Marketo을 동기화](/help/marketo/product-docs/demand-generation/events/create-an-event/create-an-event-with-the-marketo-on24-adapter/configure-event-settings-and-sync-marketo-with-your-webinar.md){target="_blank"}하는 것입니다.
 
 >[!MORELIKETHIS]
 >

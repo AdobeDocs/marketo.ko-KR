@@ -47,11 +47,11 @@ Sales Insight Actions에서 그룹을 관리하는 방법을 알아봅니다.
 
 ## 그룹 만들기 {#create-a-group}
 
-1. 인물 페이지에서 **+** 그룹 옆에 있습니다.
+1. 사람 페이지에서 그룹 옆의 **+**&#x200B;을(를) 클릭합니다.
 
    ![](assets/manage-groups-1.png)
 
-1. 그룹 이름을 지정하고 **만들기**.
+1. 그룹 이름을 지정하고 **만들기**&#x200B;를 클릭하세요.
 
    ![](assets/manage-groups-2.png)
 
@@ -63,15 +63,15 @@ Sales Insight Actions에서 그룹을 관리하는 방법을 알아봅니다.
 
    ![](assets/manage-groups-3.png)
 
-1. 클릭 **그룹 작업** 및 선택 **연락처 만들기 및 그룹에 추가**.
+1. **그룹 작업**&#x200B;을 클릭하고 **연락처 만들기 및 그룹에 추가**&#x200B;를 선택합니다.
 
    ![](assets/manage-groups-4.png)
 
    >[!NOTE]
    >
-   >이렇게 하면 한 번에 한 명의 연락처가 추가됩니다. 여러 연락처를 동시에 추가하려면 다음 작업을 수행하십시오 [다음 단계](/help/marketo/product-docs/marketo-sales-insight/actions/people/managing-contacts/import-contacts-via-csv.md).
+   >이렇게 하면 한 번에 한 명의 연락처가 추가됩니다. 여러 연락처를 동시에 추가하려면 [다음 단계](/help/marketo/product-docs/marketo-sales-insight/actions/people/managing-contacts/import-contacts-via-csv.md)를 따르십시오.
 
-1. 연락처 정보를 입력하고 클릭 **만들기** (또는 **새로 만들기 및 추가** 추가).
+1. 대화 상대 정보를 입력하고 **만들기**(또는 **새로 만들기 및 추가**&#x200B;를 클릭하여 다른 대화 상대를 추가하세요.)
 
    ![](assets/manage-groups-5.png)
 
@@ -87,15 +87,15 @@ Sales Insight Actions에서 그룹을 관리하는 방법을 알아봅니다.
 
    ![](assets/manage-groups-6.png)
 
-1. 점(세 개의 세로 점)을 클릭하고 을 선택합니다 **공유**.
+1. 점(세 개의 세로 점)을 클릭하고 **공유**&#x200B;를 선택합니다.
 
    ![](assets/manage-groups-7.png)
 
-1. 드롭다운을 클릭하고 그룹을 공유할 팀을 선택한 다음 를 클릭합니다 **공유**.
+1. 드롭다운을 클릭하고 그룹을 공유할 팀을 선택한 다음 **공유**&#x200B;를 클릭합니다.
 
    ![](assets/manage-groups-8.png)
 
-   여전히 그룹을 소유하고 있지만, 이제 아래에 표시됩니다. _팀 그룹_.
+   아직 그룹의 소유자이지만 이제 _팀 그룹_ 아래에 표시됩니다.
 
 ## 그룹 공유 해제 {#unshare-a-group}
 
@@ -103,11 +103,11 @@ Sales Insight Actions에서 그룹을 관리하는 방법을 알아봅니다.
 
    ![](assets/manage-groups-9.png)
 
-1. 점(세 개의 세로 점)을 클릭하고 을 선택합니다 **공유**.
+1. 점(세 개의 세로 점)을 클릭하고 **공유**&#x200B;를 선택합니다.
 
    ![](assets/manage-groups-10.png)
 
-1. 다음을 클릭합니다. **X** 그룹을 공유한 팀 옆에 있는 를 클릭한 다음 모달에서 를 클릭합니다.
+1. 그룹을 공유한 팀 옆의 **X**&#x200B;을(를) 클릭한 다음 모달에서 을(를) 클릭합니다.
 
    ![](assets/manage-groups-11.png)
 
@@ -119,11 +119,11 @@ Sales Insight Actions에서 그룹을 관리하는 방법을 알아봅니다.
 
    ![](assets/manage-groups-12.png)
 
-1. 점(세 개의 세로 점)을 클릭하고 을 선택합니다 **편집**.
+1. 점(세 개의 세로 점)을 클릭하고 **편집**&#x200B;을 선택합니다.
 
    ![](assets/manage-groups-13.png)
 
-1. 새 이름을 입력하고 **저장**.
+1. 새 이름을 입력하고 **저장**&#x200B;을 클릭합니다.
 
    ![](assets/manage-groups-14.png)
 
@@ -133,10 +133,10 @@ Sales Insight Actions에서 그룹을 관리하는 방법을 알아봅니다.
 
    ![](assets/manage-groups-15.png)
 
-1. 점(세 개의 세로 점)을 클릭하고 을 선택합니다 **삭제**.
+1. 점(세 개의 세로 점)을 클릭하고 **삭제**&#x200B;를 선택합니다.
 
    ![](assets/manage-groups-16.png)
 
-1. 클릭 **삭제** 확인할 수 있습니다.
+1. 확인하려면 **삭제**&#x200B;를 클릭하세요.
 
    ![](assets/manage-groups-17.png)

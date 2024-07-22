@@ -2,10 +2,10 @@
 description: OP-데이터 관리 - Marketo 문서 - 제품 설명서
 title: OP-데이터 관리
 feature: Programs
-exl-id: 21cd86b2-e924-4326-bbf7-32a03a3eb224
-source-git-commit: 38274b4859ae38c018ee73d4f1715fdf6a78e815
+exl-id: ac4a522b-37a7-4080-83d6-fbc2203a568b
+source-git-commit: c16081143588ebc0793f5b6e2630b58348e27124
 workflow-type: tm+mt
-source-wordcount: '323'
+source-wordcount: '319'
 ht-degree: 2%
 
 ---
@@ -14,7 +14,7 @@ ht-degree: 2%
 
 다음은 Marketo Engage 데이터베이스 내의 레코드에 대한 데이터 일관성을 관리하는 데 도움이 되는 기본 프로그램을 사용하는 간단한 운영 데이터 관리 모범 사례 워크플로의 예입니다.
 
-추가적인 전략 지원 또는 프로그램 맞춤화에 대한 도움말을 보려면 Adobe 계정 팀에 문의하거나 [Adobe Professional Services](https://business.adobe.com/customers/consulting-services/main.html){target="_blank"} 페이지를 가리키도록 업데이트하는 중입니다.
+추가 전략 지원 또는 프로그램 사용자 지정에 도움이 필요하면 Adobe 계정 팀에 문의하거나 [Adobe Professional Services](https://business.adobe.com/customers/consulting-services/main.html){target="_blank"} 페이지를 방문하십시오.
 
 ## 채널 요약 {#channel-summary}
 
@@ -30,12 +30,12 @@ ht-degree: 2%
    <td>운영</td> 
    <td>구성원</td>
    <td>운영</td>
-   <td>기본값</td>
+   <td>기본</td>
   </tr>
  </tbody> 
 </table>
 
-## 프로그램에 다음 자산이 포함되어 있습니다. {#program-contains-the-following-assets}
+## 프로그램에는 다음 Assets이 포함되어 있습니다 {#program-contains-the-following-assets}
 
 <table style="table-layout:auto"> 
  <tbody> 
@@ -77,7 +77,7 @@ ht-degree: 2%
   <tr> 
    <td>스마트 캠페인</td> 
    <td> </td>
-   <td>온라인 광고</td>
+   <td>온라인 Advertising</td>
   </tr>
   <tr> 
    <td>스마트 캠페인</td> 
@@ -112,7 +112,7 @@ ht-degree: 2%
   <tr> 
    <td>스마트 캠페인</td> 
    <td> </td>
-   <td>온라인 광고의 새로운 사람</td>
+   <td>Online Advertising의 새 사용자</td>
   </tr>
   <tr> 
    <td>스마트 캠페인</td> 
@@ -137,17 +137,17 @@ ht-degree: 2%
   <tr> 
    <td>폴더</td> 
    <td> </td>
-   <td>개인 소스 야간 일괄 처리(높은 트래픽 인스턴스의 경우)</td>
+   <td>개인 Source 야간 일괄 처리(높은 트래픽 인스턴스의 경우)</td>
   </tr>
   <tr> 
    <td>폴더</td> 
    <td> </td>
-   <td>개인 소스가 트리거됨(낮은 트래픽 인스턴스의 경우)</td>
+   <td>개인 Source 트리거됨(낮은 트래픽 인스턴스의 경우)</td>
   </tr>
   <tr> 
    <td>폴더</td> 
    <td> </td>
-   <td>개인 소스 캡처</td>
+   <td>사용자 Source 캡처</td>
   </tr>
   <tr> 
    <td>폴더</td> 
@@ -172,19 +172,19 @@ ht-degree: 2%
 ## 충돌 규칙 {#conflict-rules}
 
 * **프로그램 태그**
-   * 이 구독에서 태그 만들기 - _추천_
+   * 이 구독에서 태그 만들기 - _권장_
    * 무시
 
-* **동일한 이름의 랜딩 페이지 템플릿**
-   * 원본 템플릿 복사 - _추천_
+* **같은 이름의 랜딩 페이지 템플릿**
+   * 원본 템플릿 복사 - _권장_
    * 대상 템플릿 사용
 
 * **이름이 같은 이미지**
-   * 두 파일 모두 보관 - _추천_
+   * 두 파일 모두 보관 - _권장_
    * 이 구독의 항목 바꾸기
 
-* **이름이 같은 이메일 템플릿**
-   * 두 템플릿 모두 유지 - _추천_
+* **같은 이름의 전자 메일 서식 파일**
+   * 두 템플릿 모두 보관 - _권장_
    * 기존 템플릿 바꾸기
 
 ## 우수 사례 {#best-practices}

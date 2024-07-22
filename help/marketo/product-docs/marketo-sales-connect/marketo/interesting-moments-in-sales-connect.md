@@ -17,13 +17,13 @@ ht-degree: 0%
 
 >[!AVAILABILITY]
 >
->사용할 수 있는 작업입니다. [Marketo Sales Insight](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/features/tabs-in-the-msi-panel/interesting-moments/using-interesting-moments.md) 및 Marketo Sales Connect 고객만 해당.
+>[Marketo Sales Insight](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/features/tabs-in-the-msi-panel/interesting-moments/using-interesting-moments.md) 및 Marketo Sales Connect 고객만 사용할 수 있습니다.
 
 >[!PREREQUISITES]
 >
->* 다음 항목이 있어야 합니다. [salesforce CRM에 연결](/help/marketo/product-docs/marketo-sales-connect/crm/salesforce-integration/connect-your-sales-connect-account-to-salesforce.md){target="_blank"}
+>* Salesforce CRM에 [연결되어 있어야 합니다](/help/marketo/product-docs/marketo-sales-connect/crm/salesforce-integration/connect-your-sales-connect-account-to-salesforce.md){target="_blank"}
 >* Salesforce의 리드 또는 연락처 소유자여야 합니다.
->* 다음에 대한 액세스 권한이 있어야 합니다. [Marketo Engage 연결에 대한 액세스 권한 부여](/help/marketo/product-docs/marketo-sales-connect/marketo/granting-access-to-users.md){target="_blank"}
+>* [Marketo Engage 연결에 대한 액세스 권한 부여](/help/marketo/product-docs/marketo-sales-connect/marketo/granting-access-to-users.md){target="_blank"}에 대한 액세스 권한이 있어야 합니다.
 
 ## 흥미로운 순간이 뭐예요? {#what-is-an-interesting-moment}
 
@@ -35,19 +35,19 @@ ht-degree: 0%
 
 ## 어떻게 하면 재미있는 순간을 만들 수 있습니까? {#how-do-i-create-an-interesting-moment}
 
-1. 선택 [스마트 캠페인](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/understanding-smart-campaigns.md), 바람직하게, 트리거되면 영업팀이 관심을 갖게 됩니다.
+1. [스마트 캠페인](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/understanding-smart-campaigns.md)을 선택하세요. 가능하면 영업 팀에서 관심을 보이는 캠페인을 선택하십시오.
 
    ![](assets/image2015-1-8-18-3a8-3a54.png)
 
-1. 위로 끌기 **즐거운 순간** 흐름 단계.
+1. **관심 있는 순간** 흐름 단계 위로 끌어서 놓습니다.
 
    ![](assets/image2015-1-8-18-3a15-3a20.png)
 
-1. 선택 **유형** (이메일, 마일스톤 또는 웹).
+1. **유형**(전자 메일, 마일스톤 또는 웹)을 선택하세요.
 
    ![](assets/image2015-1-8-18-3a17-3a16.png)
 
-1. 에서 영업 팀에 메시지 작성 **설명** 이 작업이 중요한 이유를 설명하는 필드입니다.
+1. 이 작업이 중요한 이유를 설명하는 메시지를 **설명** 필드에 영업팀에 보냅니다.
 
    ![](assets/image2015-1-8-18-3a18-3a23.png)
 
@@ -57,7 +57,7 @@ ht-degree: 0%
 
 ## Marketo에서 흥미로운 순간은 어떤 모습일까요?  {#what-does-an-interesting-moment-look-like-in-marketo}
 
-재미있는 순간은 [잠재 고객의 활동 로그](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/managing-people-in-smart-lists/using-the-person-detail-page.md).
+즐거운 시간이 [리드의 활동 로그](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/managing-people-in-smart-lists/using-the-person-detail-page.md)에 표시됩니다.
 
 ![](assets/image2015-1-14-18-3a45-3a58.png)
 

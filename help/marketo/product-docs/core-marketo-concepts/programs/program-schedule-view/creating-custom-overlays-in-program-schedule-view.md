@@ -15,11 +15,11 @@ ht-degree: 0%
 
 사용자 정의 오버레이를 만들어 요구 사항과 관련된 항목을 볼 수 있습니다.
 
-1. 다음을 클릭합니다. **[!UICONTROL 주제]** 드롭다운.
+1. **[!UICONTROL 주제]** 드롭다운을 클릭합니다.
 
    ![](assets/image2014-9-24-10-3a20-3a11.png)
 
-1. 선택 **[!UICONTROL 오버레이]**.
+1. **[!UICONTROL 오버레이]**&#x200B;를 선택하십시오.
 
    ![](assets/image2014-9-24-10-3a20-3a17.png)
 
@@ -27,7 +27,7 @@ ht-degree: 0%
 
    ![](assets/image2014-9-24-10-3a20-3a26.png)
 
-1. 다음을 기준으로 필터링할 수도 있습니다. [프로그램 태그](/help/marketo/product-docs/core-marketo-concepts/programs/working-with-programs/use-tags-in-a-program.md){target="_blank"}.
+1. [프로그램 태그](/help/marketo/product-docs/core-marketo-concepts/programs/working-with-programs/use-tags-in-a-program.md){target="_blank"}별로 필터링할 수도 있습니다.
 
    ![](assets/image2014-9-24-10-3a20-3a32.png)
 

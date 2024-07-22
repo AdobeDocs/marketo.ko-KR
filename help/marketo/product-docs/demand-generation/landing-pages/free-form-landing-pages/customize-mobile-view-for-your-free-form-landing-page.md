@@ -23,17 +23,17 @@ ht-degree: 0%
 
    ![](assets/selectlandingapge.jpg)
 
-1. 클릭 **초안 편집**.
+1. **초안 편집**&#x200B;을 클릭합니다.
 
    ![](assets/image2015-1-22-18-3a33-3a12.png)
 
-1. 다음을 클릭합니다. **모바일** 탭.
+1. **모바일** 탭을 클릭합니다.
 
    ![](assets/image2015-1-22-18-3a31-3a40.png)
 
 ## 모바일과 데스크탑 보기 비교 {#mobile-vs-desktop-view}
 
-페이지 요소 아래에 ![](assets/image2015-1-22-18-3a39-3a53.png) (데스크탑) 아이콘 및 ![](assets/image2015-1-22-18-3a40-3a31.png) (모바일) 아이콘. 이렇게 하면 다른 요소를 동적으로 표시하거나 숨길 수 있습니다.
+페이지 요소 아래에 ![](assets/image2015-1-22-18-3a39-3a53.png)(데스크톱) 아이콘과 ![](assets/image2015-1-22-18-3a40-3a31.png)(모바일) 아이콘이 표시됩니다. 이렇게 하면 다른 요소를 동적으로 표시하거나 숨길 수 있습니다.
 
 ![](assets/image2015-5-21-15-3a9-3a34.png)
 
@@ -83,15 +83,15 @@ ht-degree: 0%
 
 >[!TIP]
 >
->모바일 보기는 또한 페이지 요소의 다른 배열을 가질 수 있습니다. 자유 형식 랜딩 페이지에서 항목을 이동하거나 아래 나열된 개체의 순서를 변경합니다. **페이지 요소** 드래그 앤 드롭을 사용합니다.
+>모바일 보기는 또한 페이지 요소의 다른 배열을 가질 수 있습니다. 자유 형식 랜딩 페이지에서 항목을 이동하거나 드래그 앤 드롭으로 **페이지 요소**&#x200B;에 나열된 개체의 순서를 변경할 수 있습니다.
 
 ## 모바일 보기 미리 보기 {#preview-mobile-view}
 
-1. 클릭 **초안 미리 보기**.
+1. **초안 미리 보기**&#x200B;를 클릭합니다.
 
    ![](assets/image2015-5-21-15-3a36-3a35.png)
 
-1. 멋진 거 보고 싶어? 선택 **나란히**.
+1. 멋진 거 보고 싶어? **나란히**&#x200B;을(를) 선택합니다.
 
    ![](assets/image2015-1-22-20-3a2-3a15.png)
 
@@ -99,7 +99,7 @@ ht-degree: 0%
 
    ![](assets/image2015-1-22-20-3a3-3a22.png)
 
-1. 마음에 들면 다음을 클릭하십시오. **승인 및 닫기**.
+1. 마음에 드신다면 **승인 후 닫기**&#x200B;를 클릭하세요.
 
    ![](assets/image2015-1-22-20-3a5-3a36.png)
 
@@ -111,4 +111,4 @@ ht-degree: 0%
 
 >[!MORELIKETHIS]
 >
->[기존 자유 형식 랜딩 페이지 템플릿 모바일 호환으로 만들기](/help/marketo/product-docs/demand-generation/landing-pages/landing-page-templates/make-an-existing-free-form-landing-page-template-mobile-compatible.md)
+>[기존 자유 형식 랜딩 페이지 템플릿을 모바일과 호환되도록 만들기](/help/marketo/product-docs/demand-generation/landing-pages/landing-page-templates/make-an-existing-free-form-landing-page-template-mobile-compatible.md)

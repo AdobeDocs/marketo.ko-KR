@@ -28,13 +28,13 @@ Dynamic Chat은 스마트 목록에서 사용할 수 있는 몇 가지 필터 �
   </tr>
   <tr>
     <td style="width:25%"><b>대화 흐름/대화 참여</b></td>
-    <td>대화나 대화 흐름(다중 선택 옵션 클릭, 정보 제출, 회의 예약, 문서 열기 등)에서 웹 방문자가 처음으로 프롬프트를 클릭할 때 참여가 발생합니다. 방문자가 대화 상자 또는 대화 흐름을 열지만 프롬프트를 클릭하지 않으면 계약은 다음과 같습니다. <b>아님</b> 기록되었습니다. 
+    <td>대화나 대화 흐름(다중 선택 옵션 클릭, 정보 제출, 회의 예약, 문서 열기 등)에서 웹 방문자가 처음으로 프롬프트를 클릭할 때 참여가 발생합니다. 방문자가 대화 상자 또는 대화 흐름을 열었지만 프롬프트를 클릭하지 않으면 참여가 <b>기록되지 않음</b>. 
     <br>방문자당, 세션당 하나의 참여 이벤트.</td>
   </tr>
    <tr>
     <td style="width:25%"><b>에이전트와 참여</b></td>
     <td>방문자가 라이브 채팅 에이전트에 성공적으로 연결되었을 때 발생합니다.
-    <br>방문자당, 세션당 한 명이 에이전트 이벤트에 참여했습니다.</td>
+    <br>한 명이 방문자당, 세션당 에이전트 이벤트에 참여했습니다.</td>
   </tr>
   <tr>
     <td style="width:25%"><b>문서와 상호 작용</b></td>
@@ -43,12 +43,12 @@ Dynamic Chat은 스마트 목록에서 사용할 수 있는 몇 가지 필터 �
   </tr>
   <tr>
     <td style="width:25%"><b>목표에 도달함</b></td>
-    <td>방문자가 목표에 도달하면 발생합니다. <br>방문자당, 세션당 여러 개의 목표 도달 이벤트가 있을 수 있습니다.</td>
+    <td>방문자가 목표에 도달하면 발생합니다. <br>방문자당 세션당 여러 개의 목표 도달 이벤트가 있을 수 있습니다.</td>
   </tr>
   <tr>
     <td style="width:25%"><b>예약된 회의</b></td>
     <td>방문자가 Dynamic Chat 에이전트와의 회의를 예약할 때 발생합니다.
-    <br>방문자당, 세션당 여러 회의 예약 이벤트가 있을 수 있습니다.</td>
+    <br>방문자당, 세션당 여러 개의 모임 예약 이벤트가 있을 수 있습니다.</td>
   </tr>
 </tbody>
 </table>
@@ -56,5 +56,5 @@ Dynamic Chat은 스마트 목록에서 사용할 수 있는 몇 가지 필터 �
 ## 참고할 사항 {#things-to-note}
 
 * 조건은 Dynamic Chat 흐름 단계에서 지원됩니다
-* Dynamic Chat 활동을에 동기화할 수 있습니다. [Marketo Sales Insight](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/features/dynamic-chat-integration.md){target="_blank"}
+* Dynamic Chat 활동을 [Marketo 판매 인사이트](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/features/dynamic-chat-integration.md){target="_blank"}에 동기화할 수 있습니다.
 * 개인 레코드의 활동 로그에서 개별 Dynamic Chat 활동을 볼 수 있습니다

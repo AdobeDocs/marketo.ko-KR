@@ -21,15 +21,15 @@ Marketo 구독 취소 검사는 Marketo에 대한 팀의 연결을 사용하여 
 
 ## 켜기 {#turning-it-on}
 
-1. 웹 애플리케이션에서 톱니바퀴 아이콘을 클릭하고 **설정**.
+1. 웹 응용 프로그램에서 톱니바퀴 아이콘을 클릭하고 **설정**&#x200B;을 선택합니다.
 
    ![](assets/one-2.png)
 
-1. Admin Settings에서 **구독 취소**.
+1. 관리자 설정에서 **구독 취소**&#x200B;를 클릭합니다.
 
    ![](assets/two-3.png)
 
-1. 클릭 **통합**.
+1. **통합**&#x200B;을 클릭합니다.
 
    ![](assets/three-3.png)
 
@@ -45,4 +45,4 @@ Marketo 구독 취소 확인...
 * Marketo 연결을 설정해야 합니다.
 * 전역 설정임
 * 웹 애플리케이션, 이메일 클라이언트 및 Salesforce에서 전송된 이메일 차단
-* 실패한 이메일을 기록하거나 사용자가 을 제외한 모든 워크플로우(이메일 플러그인 보내기, 개별 보내기, 판매 캠페인 보내기, 다중 선택 및 보내기)에 대해 보내려고 할 때 보내지 못하게 합니다. [전자 메일 그룹화](/help/marketo/product-docs/marketo-sales-connect/email/using-the-compose-window/composing-bulk-emails-with-select-and-send.md)이메일이 자동 전송되지 않도록 하는
+* 실패한 이메일을 기록하거나 사용자가 [그룹 이메일](/help/marketo/product-docs/marketo-sales-connect/email/using-the-compose-window/composing-bulk-emails-with-select-and-send.md)을(를) 제외한 모든 워크플로우(이메일 플러그인 보내기, 개별 보내기, 판매 캠페인 보내기, 다중 선택 및 보내기)에 대해 보내려고 하면 사용자가 보내지 못하게 합니다. 이렇게 하면 이메일이 자동으로 전송되지 않습니다.

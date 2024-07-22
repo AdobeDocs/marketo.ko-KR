@@ -6,7 +6,7 @@ exl-id: 6cfe0100-5b5c-4f0e-99af-2f54bbd5623c
 feature: Marketo Sales Connect
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
-source-wordcount: '167'
+source-wordcount: '161'
 ht-degree: 0%
 
 ---
@@ -21,10 +21,10 @@ ht-degree: 0%
 
 - 이는 명확할 수 있지만 브라우저를 종료하고 완전히 새로운 창을 열어 보십시오.
 
-- 로 이동 [웹 애플리케이션](https://toutapp.com/login) 로그인되어 있는지 확인하십시오.
+- [웹 응용 프로그램](https://toutapp.com/login)(으)로 이동하여 로그인했는지 확인하세요.
 
 - 쿠키가 활성화되어 있는지 확인하십시오. Chrome을 사용 중인 경우 설정 > 고급 설정 표시 > 콘텐츠 설정 > 선택 취소 &quot;서드파티 쿠키 및 사이트 데이터 차단&quot;으로 이동합니다.
 
 - Sales Connect 브라우저 확장 연결을 끊고 다시 연결해 보십시오.
 
-위의 팁이 도움이 되지 않았다면 다음을 수행하십시오 [서비스 케이스 제출](https://nation.marketo.com/community/support_solutions) 을 참조하십시오.
+위의 팁이 도움이 되지 않는 경우 지원에 [사례를 제출](https://nation.marketo.com/community/support_solutions)하십시오.

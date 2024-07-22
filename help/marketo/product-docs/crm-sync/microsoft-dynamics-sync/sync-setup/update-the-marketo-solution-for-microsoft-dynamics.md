@@ -6,7 +6,7 @@ exl-id: 76bd722a-f2bf-46df-84e2-827fbbee4ab2
 feature: Microsoft Dynamics
 source-git-commit: 4045f262889d06304111288d30da893529396e81
 workflow-type: tm+mt
-source-wordcount: '177'
+source-wordcount: '180'
 ht-degree: 0%
 
 ---
@@ -21,17 +21,17 @@ ht-degree: 0%
 
 >[!CAUTION]
 >
->반드시 최신 Marketo 솔루션을 다운로드해야 합니다 _다음 이전_ 모든 업데이트를 수행합니다.
+>업데이트를 수행하려면 최신 Marketo 솔루션 _이전_&#x200B;을 다운로드해야 합니다.
 
-1. 로 이동 **[!UICONTROL 관리자]** 영역입니다.
+1. **[!UICONTROL 관리자]** 영역으로 이동합니다.
 
    ![](assets/admin.png)
 
-1. 클릭 **[!DNL Microsoft Dynamics]**.
+1. **[!DNL Microsoft Dynamics]**&#x200B;을(를) 클릭합니다.
 
    ![](assets/image2015-3-16-10-3a51-3a25.png)
 
-1. 선택 **[!UICONTROL Marketo 솔루션 다운로드]**.
+1. **[!UICONTROL Marketo 솔루션 다운로드]**&#x200B;를 선택합니다.
 
    ![](assets/image2015-3-16-10-3a52-3a1.png)
 
@@ -43,12 +43,12 @@ ht-degree: 0%
 
 ## 업데이트 수행 {#performing-the-update}
 
-1. 기존 버전의 Dynamics CRM을 통해 최신 버전의 솔루션을 가져옵니다(예: Dynamics CRM에 버전 1.4가 있고 최신 버전이 1.5인 경우 다음을 가져옵니다.) _초과_ 버전 1.4).
+1. 기존 버전의 Dynamics CRM을 통해 최신 버전의 솔루션을 가져옵니다(예: Dynamics CRM에 버전 1.4가 있고 최신 버전이 1.5인 경우 _over_ 버전 1.4를 가져옵니다).
 
-1. 다음 팝업이 표시됩니다. 선택 **[!UICONTROL 업데이트]** 및 **[!UICONTROL 사용자 지정 유지]**&#x200B;을 클릭한 다음 을 클릭합니다 **[!UICONTROL 가져오기]**.
+1. 다음 팝업이 표시됩니다. **[!UICONTROL 업데이트]** 및 **[!UICONTROL 사용자 지정 유지 관리]**&#x200B;를 선택한 다음 **[!UICONTROL 가져오기]**&#x200B;를 클릭합니다.
 
    ![](assets/update-the-marketo-solution-for-microsoft-dynamics-5.png)
 
 >[!CAUTION]
 >
->업데이트 대신 업그레이드를 선택하면 Dynamics 환경에서 데이터가 손상될 수 있습니다. _업데이트를 선택하십시오._ 가져오기 옵션 아래에 있습니다.
+>업데이트 대신 업그레이드를 선택하면 Dynamics 환경에서 데이터가 손상될 수 있습니다. 가져오기 옵션에서 _업데이트_&#x200B;를 선택하십시오.

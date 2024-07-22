@@ -16,15 +16,15 @@ Sales Insight Actions에 대한 데이터 통합 필드 동기화를 사용하�
 
 이렇게 하면 Sales Insight Actions 웹 앱에 최신 직원 데이터를 제공하고 시스템에서 Marketo의 해당 직원 레코드와 Salesforce의 잠재 고객/연락처/계정/기회 레코드에 대한 고유 ID를 수집할 수 있으므로 데이터를 로깅하기 위해 레코드를 올바르게 참조할 수 있습니다.
 
-이 동기화는 Marketo Engage의 관리 섹션에 있는 Sales Insight Actions Config 탭에서 활성화할 수 있습니다. 자세한 내용은 다음을 확인하십시오. [데이터 동기화 시작](/help/marketo/product-docs/marketo-sales-insight/actions/getting-started/sales-insight-actions-admin-setup-guide.md#initiate-data-sync).
+이 동기화는 Marketo Engage의 관리 섹션에 있는 Sales Insight Actions Config 탭에서 활성화할 수 있습니다. 자세한 내용은 [데이터 동기화 시작](/help/marketo/product-docs/marketo-sales-insight/actions/getting-started/sales-insight-actions-admin-setup-guide.md#initiate-data-sync)을 확인하세요.
 
 ![](assets/actions-data-sync-faq-1.png)
 
 위의 다이어그램은 사용자의 활동과 작업 데이터가 시스템 간에 동기화될 수 있는 방법을 보여 줍니다. 몇 가지 주의해야 할 사항:
 
 * 사용자 레코드는 Marketo Engage의 Sales Insight Actions에 동기화되므로, Marketo Engage을 Sales Insight Actions 사용자 데이터의 소스로 사용할 수 있습니다
-* Marketo Engage 및 판매 통찰력 작업 모두 [메커니즘 사용](/help/marketo/product-docs/marketo-sales-insight/actions/email/unsubscribes/syncing-unsubscribes-with-salesforce.md) 구독 취소 상태를 수집하여 Salesforce에 동기화하기 위한
-* 구독 취소 상태는 판매 작업에서 Marketo Engage으로 동기화되지 않지만, 판매자가 다음으로 이메일을 보내도록 허용하기 전에 사용자의 Marketo 구독 취소 상태를 확인하도록 Sales Insight 작업을 구성할 수 있습니다. [Marketo 구독 취소 확인](/help/marketo/product-docs/marketo-sales-insight/actions/email/unsubscribes/marketo-unsubscribe-check.md).
+* Marketo Engage 및 Sales Insight Actions [에는 모두 구독 취소 상태를 수집하여 Salesforce로 동기화하는 메커니즘이 있습니다](/help/marketo/product-docs/marketo-sales-insight/actions/email/unsubscribes/syncing-unsubscribes-with-salesforce.md)
+* 구독 취소 상태가 영업 작업에서 Marketo Engage으로 동기화되지 않지만, 판매자가 [Marketo 구독 취소 확인](/help/marketo/product-docs/marketo-sales-insight/actions/email/unsubscribes/marketo-unsubscribe-check.md)을 사용하여 이메일을 보내도록 하기 전에 직원의 Marketo 구독 취소 상태를 확인하도록 Sales Insight Actions를 구성할 수 있습니다.
 
 다음은 데이터 통합 동기화 작동 방식과 관련된 몇 가지 FAQ입니다.
 
@@ -72,7 +72,7 @@ Sales Insight Actions에 동기화되는 Marketo Engage 필드를 구성할 수 
 
 ## Sales Insight Actions에 자체 데이터베이스가 있는 이유는 무엇입니까? {#why-does-actions-have-its-own-database}
 
-Sales Insight Actions 에는 전담 직원 및 활동 데이터베이스가 있는 자체 웹 애플리케이션이 있어 영업 팀을 위해 구축 및 설계된 최적화된 작업 영역을 제공할 수 있습니다. 이를 통해 영업 관리자와 판매자는 마케팅 운영 전문가에게 최적화된 기본 Marketo Engage 작업 영역에 액세스 권한이나 권한을 부여하지 않고도 참여 전략을 구축하고 관리할 수 있는 공간을 확보할 수 있습니다.
+Sales Insight Actions 에는 전담 직원 및 활동 데이터베이스가 있는 자체 웹 애플리케이션이 있어 영업 팀을 위해 구축 및 설계된 최적화된 작업 영역을 제공할 수 있습니다. 이를 통해 판매 관리자와 판매자는 참여 전략을 구축하고 관리할 수 있는 공간을 확보할 수 있습니다   마케팅 운영 전문가에게 최적화된 기본 Marketo Engage 작업 영역에 액세스 또는 권한을 부여하지 않습니다.
 
 ## 중복은 어떻게 처리됩니까? {#how-are-duplicates-handled}
 
@@ -113,13 +113,13 @@ Sales Insight Actions 을 사용하면 관리자가 Salesforce에 기록할 영�
 
 ![](assets/actions-data-sync-faq-6.png)
 
-위의 다이어그램은 Salesforce에 기록된 정보를 보여 줍니다. 이메일 및 호출과 같은 활동은 다음에서 Salesforce에 기록됩니다. [단방향 동기화](/help/marketo/product-docs/marketo-sales-insight/actions/crm/salesforce-integration/salesforce-sync-settings.md). [구독 취소](/help/marketo/product-docs/marketo-sales-insight/actions/email/unsubscribes/syncing-unsubscribes-with-salesforce.md) 및 [미리 알림 작업](/help/marketo/product-docs/marketo-sales-insight/actions/tasks/reminder-task-sync-with-salesforce.md) 양방향 동기화를 통해 최신 상태로 유지됩니다. 이러한 각 데이터 동기화는 Sales Insight Actions 웹 앱 인터페이스에서 구성할 수 있습니다.
+위의 다이어그램은 Salesforce에 기록된 정보를 보여 줍니다. 전자 메일 및 호출과 같은 활동은 [단방향 동기화](/help/marketo/product-docs/marketo-sales-insight/actions/crm/salesforce-integration/salesforce-sync-settings.md)에서 Salesforce에 기록됩니다. [구독 취소](/help/marketo/product-docs/marketo-sales-insight/actions/email/unsubscribes/syncing-unsubscribes-with-salesforce.md) 및 [미리 알림 작업](/help/marketo/product-docs/marketo-sales-insight/actions/tasks/reminder-task-sync-with-salesforce.md)이 양방향 동기화로 최신 상태로 유지됩니다. 이러한 각 데이터 동기화는 Sales Insight Actions 웹 앱 인터페이스에서 구성할 수 있습니다.
 
 >[!MORELIKETHIS]
 >
->* [Salesforce와 구독 취소 동기화](/help/marketo/product-docs/marketo-sales-insight/actions/email/unsubscribes/syncing-unsubscribes-with-salesforce.md)
+>* [Salesforce와 구독 취소 동기화 중](/help/marketo/product-docs/marketo-sales-insight/actions/email/unsubscribes/syncing-unsubscribes-with-salesforce.md)
 >* [Marketo 구독 취소 확인](/help/marketo/product-docs/marketo-sales-insight/actions/email/unsubscribes/marketo-unsubscribe-check.md)
 >* [Salesforce 동기화 설정](/help/marketo/product-docs/marketo-sales-insight/actions/crm/salesforce-integration/salesforce-sync-settings.md)
->* [Salesforce와의 미리 알림 작업 동기화](/help/marketo/product-docs/marketo-sales-insight/actions/tasks/reminder-task-sync-with-salesforce.md)
+>* [Salesforce와 작업 동기화 알림](/help/marketo/product-docs/marketo-sales-insight/actions/tasks/reminder-task-sync-with-salesforce.md)
 >* [데이터 동기화 시작](/help/marketo/product-docs/marketo-sales-insight/actions/getting-started/sales-insight-actions-admin-setup-guide.md#initiate-data-sync)
 

@@ -21,19 +21,19 @@ ht-degree: 0%
 
 >[!TIP]
 >
->**동일한 최상위 도메인 - 좋습니다! 쿠키가 공유됨**.<br/> **이동**.mycompany.com > **정보**.mycompany.com
+>**같은 최상위 도메인 - 좋습니다! 쿠키가 공유됩니다**.<br/> **이동**.mycompany.com > **정보**.mycompany.com
 >
->**다른 최상위 수준 도메인 - 잘못됨! 쿠키는 _아님_ 공유됨**.<br/> 가.**mycompany**.com > go.**mynewcompany**.com
+>**다른 최상위 수준 도메인 - 잘못됨! 쿠키가 _공유되지 않음_**.<br/>개 이동.**mycompany**.com > 이동.**mynewcompany**.com
 
 >[!NOTE]
 >
 >**관리자 권한 필요**
 
-1. 로 이동 **관리자** 영역입니다.
+1. **관리자** 영역으로 이동합니다.
 
    ![](assets/add-additional-landing-page-cnames-1.png)
 
-1. 클릭 **내 계정**.
+1. **내 계정**&#x200B;을 클릭합니다.
 
    ![](assets/add-additional-landing-page-cnames-2.png)
 
@@ -43,25 +43,25 @@ ht-degree: 0%
 
 ## IT에 요청 보내기 {#send-request-to-it}
 
-1. IT 부서에 다음 CNAME을 설정하도록 요청하십시오. (단어 바꾸기) [CNAME] 원하는 CNAME으로 [Munchkin ID] (이전 단계의 텍스트 포함).
+1. IT 부서에 다음 CNAME을 설정하도록 요청하세요. ([CNAME]이라는 단어를 선택한 CNAME으로 바꾸고 [Munchkin ID]을(를) 이전 단계의 텍스트로 바꿉니다.)
 
    [CNAME].YourCompany.com > [Munchkin ID].mktoweb.com
 
 ## 새 CNAME 추가 {#add-a-new-cname}
 
-1. IT 부서에서 CNAME을 생성했으면 **관리자** 영역입니다.
+1. IT 부서에서 CNAME을 생성했으면 **관리자** 영역으로 이동하십시오.
 
    ![](assets/add-additional-landing-page-cnames-4.png)
 
-1. 클릭 **랜딩 페이지**.
+1. **랜딩 페이지**&#x200B;를 클릭합니다.
 
    ![](assets/add-additional-landing-page-cnames-5.png)
 
-1. 클릭 **신규** 그런 다음 선택 **새 도메인 별칭**.
+1. **새로 만들기**&#x200B;를 클릭한 다음 **새 도메인 별칭**&#x200B;을 선택합니다.
 
    ![](assets/add-additional-landing-page-cnames-6.png)
 
-1. 다음을 입력하십시오. **도메인 별칭.** 다음 **기본 페이지** 방문자가 URL을 입력하지 않으면 표시됩니다. 이 경우 이동해야 하는 위치를 입력합니다.
+1. **도메인 별칭을 입력하십시오.** 방문자가 URL을 입력하지 않으면 **기본 페이지**&#x200B;가 표시됩니다. 이 경우 이동해야 하는 위치를 입력합니다.
 
    >[!NOTE]
    >
@@ -69,7 +69,7 @@ ht-degree: 0%
 
    ![](assets/add-additional-landing-page-cnames-7.png)
 
-1. 다음을 입력하십시오. **기본 페이지** 및 클릭 **만들기**.
+1. **기본 페이지**&#x200B;를 입력하고 **만들기**&#x200B;를 클릭합니다.
 
    ![](assets/add-additional-landing-page-cnames-8.png)
 

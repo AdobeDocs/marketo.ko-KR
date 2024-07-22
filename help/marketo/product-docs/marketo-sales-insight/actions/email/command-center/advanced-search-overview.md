@@ -6,7 +6,7 @@ feature: Sales Insight Actions
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '418'
-ht-degree: 2%
+ht-degree: 1%
 
 ---
 
@@ -16,11 +16,11 @@ ht-degree: 2%
 
 ## 고급 검색에 액세스하는 방법 {#how-to-access-advanced-search}
 
-1. 웹 응용 프로그램에서 **관리 센터**.
+1. 웹 응용 프로그램에서 **명령 센터**&#x200B;를 클릭합니다.
 
    ![](assets/advanced-search-overview-1.png)
 
-1. 클릭 **이메일**.
+1. **전자 메일**&#x200B;을 클릭하세요.
 
    ![](assets/advanced-search-overview-2.png)
 
@@ -65,7 +65,7 @@ ht-degree: 2%
  </tr>
 </table>
 
-**날짜**
+**When**
 
 만든 날짜, 배달된 날짜, 실패한 날짜 또는 예약된 날짜별로 선택합니다. 사용 가능한 옵션은 선택한 이메일 상태(보냄, 배달되지 않음, 보류 중)에 따라 변경됩니다.
 
@@ -83,7 +83,7 @@ ht-degree: 2%
 
 ![](assets/advanced-search-overview-9.png)
 
-_**상태: 전송됨**_
+_**상태: 보냄**_
 
 ![](assets/advanced-search-overview-10.png)
 
@@ -114,7 +114,7 @@ _**상태: 보류 중**_
  </tr>
 </table>
 
-_**상태: 게재되지 않음**_
+_**상태: 배달되지 않음**_
 
 ![](assets/advanced-search-overview-12.png)
 
@@ -143,11 +143,11 @@ _**상태: 게재되지 않음**_
 
 다음은 저장된 검색을 만드는 방법입니다.
 
-1. 모든 필터가 설치되면 **다른 이름으로 필터 저장**.
+1. 모든 필터가 설치되면 **다른 이름으로 필터 저장**&#x200B;을 클릭합니다.
 
    ![](assets/advanced-search-overview-13.png)
 
-1. 검색 이름을 지정하고 **저장**.
+1. 검색 이름을 지정하고 **저장**&#x200B;을 클릭합니다.
 
    ![](assets/advanced-search-overview-14.png)
 

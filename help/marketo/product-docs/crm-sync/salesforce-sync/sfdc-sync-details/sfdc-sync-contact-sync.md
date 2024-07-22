@@ -6,7 +6,7 @@ exl-id: 537bbc95-9233-4454-892e-81f962cf729d
 feature: Salesforce Integration
 source-git-commit: 0087a5e88b8bd9601875f68a2e7cadeebdb5d682
 workflow-type: tm+mt
-source-wordcount: '236'
+source-wordcount: '237'
 ht-degree: 0%
 
 ---
@@ -25,7 +25,7 @@ Marketo Engage이 전체 데이터베이스를 Salesforce와 동기화하는 것
 
 ## Marketo에서 개인을 연락처로 전환할 수 있습니까? {#can-i-convert-a-person-into-a-contact-in-marketo}
 
-예, 다음을 사용합니다. **[사용자 전환](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/convert-person.md){target="_blank"}** 흐름 작업.
+예, **[사용자 전환](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/convert-person.md){target="_blank"}** 흐름 동작을 사용하세요.
 
 >[!CAUTION]
 >
@@ -33,7 +33,7 @@ Marketo Engage이 전체 데이터베이스를 Salesforce와 동기화하는 것
 
 ## 연락처를 수동으로 동기화할 수 있습니까? {#can-i-manually-force-a-sync-of-a-contact}
 
-예, 다음을 사용합니다. **[사용자를 SFDC에 동기화](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/salesforce-flow-actions/sync-person-to-sfdc.md){target="_blank"}** 플로우 액션과 실시간 동기화가 수행됩니다.
+예. **[SFDC에 사용자 동기화](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/salesforce-flow-actions/sync-person-to-sfdc.md){target="_blank"}** 흐름 동작을 사용하면 실시간으로 동기화됩니다.
 
 ## 모든 단일 표준 필드가 Marketo에 동기화됩니까? {#does-every-single-standard-field-sync-to-marketo}
 

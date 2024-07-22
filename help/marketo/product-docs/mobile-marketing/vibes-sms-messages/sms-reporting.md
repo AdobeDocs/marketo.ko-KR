@@ -2,7 +2,8 @@
 description: SMS 보고 - Marketo 문서 - 제품 설명서
 title: SMS 보고
 feature: Mobile Marketing
-source-git-commit: efaf34e8113fc6364655ff01aa788aa62bdd31af
+exl-id: c4429cb0-01e1-4176-ae14-b8ce38fa1baa
+source-git-commit: dae00c6877e638ae60305122f3f3e17b3c922e10
 workflow-type: tm+mt
 source-wordcount: '134'
 ht-degree: 0%
@@ -15,7 +16,7 @@ SMS 메시지 대시보드는 메시지에 대한 유용한 분석을 제공합�
 
 ## 대시보드 액세스 {#access-the-dashboard}
 
-1. 보고를 보려면 원하는 SMS 메시지를 선택합니다. 다음을 클릭합니다. **보기** 드롭다운 및 선택 **대시보드**.
+1. 보고를 보려면 원하는 SMS 메시지를 선택합니다. **보기** 드롭다운을 클릭하고 **대시보드**&#x200B;를 선택합니다.
 
    ![](assets/sms-reporting-1.png)
 

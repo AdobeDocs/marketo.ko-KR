@@ -15,15 +15,15 @@ ht-degree: 0%
 
 >[!PREREQUISITES]
 >
->[코드 조각에 콘텐츠 추가](/help/marketo/product-docs/personalization/segmentation-and-snippets/snippets/add-content-to-a-snippet.md)
+>[조각에 콘텐츠 추가](/help/marketo/product-docs/personalization/segmentation-and-snippets/snippets/add-content-to-a-snippet.md)
 
 사용하기 전에 코드 조각을 승인해야 합니다.
 
-1. 로 이동 **Design Studio**.
+1. **디자인 스튜디오**(으)로 이동합니다.
 
    ![](assets/image2014-9-16-8-3a55-3a15.png)
 
-1. 을(를) 클릭합니다 **코드 조각**. 아래 **코드 조각 작업**, 클릭 **승인**.
+1. **코드 조각**&#x200B;을 클릭합니다. **코드 조각 작업**&#x200B;에서 **승인**&#x200B;을 클릭합니다.
 
    ![](assets/image2014-9-16-8-3a55-3a24.png)
 
@@ -31,4 +31,4 @@ ht-degree: 0%
 
 >[!MORELIKETHIS]
 >
->[초안이 아닌 코드 조각 승인](/help/marketo/product-docs/personalization/segmentation-and-snippets/snippets/approve-a-snippet-with-no-draft.md)
+>[초안이 없는 코드 조각 승인](/help/marketo/product-docs/personalization/segmentation-and-snippets/snippets/approve-a-snippet-with-no-draft.md)

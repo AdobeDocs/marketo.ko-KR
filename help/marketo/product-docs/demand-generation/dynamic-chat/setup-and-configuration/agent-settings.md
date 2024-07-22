@@ -2,10 +2,10 @@
 description: 에이전트 설정 - Marketo 문서 - 제품 설명서
 title: 에이전트 설정
 feature: Dynamic Chat
-exl-id: 792a87bb-3ff9-46fb-ac68-146d5ffa9dc5
-source-git-commit: 9834f6be3e2a89595d91d1fe51c11b8bb59b714d
+exl-id: a782ef9b-6a89-448a-8bd9-f127ceea3bf5
+source-git-commit: c16081143588ebc0793f5b6e2630b58348e27124
 workflow-type: tm+mt
-source-wordcount: '496'
+source-wordcount: '498'
 ht-degree: 2%
 
 ---
@@ -16,7 +16,7 @@ ht-degree: 2%
 
 >[!PREREQUISITES]
 >
->에이전트에 적절한 권한이 부여되었는지 확인합니다. [권한](/help/marketo/product-docs/demand-generation/dynamic-chat/setup-and-configuration/permissions.md){target="_blank"}.
+>에이전트에 적절한 [권한](/help/marketo/product-docs/demand-generation/dynamic-chat/setup-and-configuration/permissions.md){target="_blank"}이 부여되었는지 확인하십시오.
 
 ![](assets/agent-settings-1.png)
 
@@ -78,7 +78,7 @@ Google으로 구성하면 Dynamic Chat에 대한 다음 권한이 부여됩니�
 
 >[!TIP]
 >
->같은 날 여러 개의 시간 블록을 선택할 수 있습니다(예: 8a-12p의 금요일) _및_ 1p-5p)를 클릭합니다. **+** 오른쪽에 사인하세요.
+>오른쪽의 **+** 기호를 클릭하여 같은 날(예: 8a-12p _및_ 1p-5p의 금요일) 여러 개의 시간 블록을 선택할 수 있습니다.
 
 ## 라이브 채팅 사용 가능 여부 {#live-chat-availability}
 
@@ -86,12 +86,12 @@ Google으로 구성하면 Dynamic Chat에 대한 다음 권한이 부여됩니�
 
 ![](assets/agent-settings-5.png)
 
-앱에 로그인하면 수신 채팅에 대한 인앱 알림을 받게 됩니다. 로그인하지 않은 경우 브라우저 알림을 받게 됩니다(다음을 보유한 경우). [설정](/help/marketo/product-docs/demand-generation/dynamic-chat/live-chat/agent-inbox.md#live-chat-notifications){target="_blank"}).
+앱에 로그인하면 수신 채팅에 대한 인앱 알림을 받게 됩니다. 로그인하지 않은 경우 브라우저 알림을 받게 됩니다([설정](/help/marketo/product-docs/demand-generation/dynamic-chat/live-chat/agent-inbox.md#live-chat-notifications){target="_blank"}한 경우).
 
 >[!IMPORTANT]
 >
->다음 [가용성 전환](/help/marketo/product-docs/demand-generation/dynamic-chat/live-chat/agent-inbox.md#availability-toggle){target="_blank"} 에이전트 받은 편지함에서 **재정의** 라이브 채팅 가용성 탭에 입력하는 내용. 따라서 1p-5p부터 사용할 수 있도록 예약되어 있지만 3p에 잠깐 쉬어야 하는 경우에는 에이전트 설정을 변경할 필요가 없습니다. 가용성 전환 상태는 수동으로 변경하거나 가용성의 다음 블록에 도달할 때까지 유지됩니다.
+>에이전트 받은 편지함 **의 [가용성 전환](/help/marketo/product-docs/demand-generation/dynamic-chat/live-chat/agent-inbox.md#availability-toggle){target="_blank"}이(가) 실시간 채팅 가용성 탭에 입력한 내용을 재정의합니다**. 따라서 1p-5p부터 사용할 수 있도록 예약되어 있지만 3p에 잠깐 쉬어야 하는 경우에는 에이전트 설정을 변경할 필요가 없습니다. 가용성 전환 상태는 수동으로 변경하거나 가용성의 다음 블록에 도달할 때까지 유지됩니다.
 
 >[!TIP]
 >
->같은 날 여러 개의 시간 블록을 선택할 수 있습니다(예: 8a-12p의 금요일) _및_ 1p-5p)를 클릭합니다. **+** 오른쪽에 사인하세요.
+>오른쪽의 **+** 기호를 클릭하여 같은 날(예: 8a-12p _및_ 1p-5p의 금요일) 여러 개의 시간 블록을 선택할 수 있습니다.

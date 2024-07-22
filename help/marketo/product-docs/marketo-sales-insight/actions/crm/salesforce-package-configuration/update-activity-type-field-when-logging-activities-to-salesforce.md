@@ -1,11 +1,11 @@
 ---
 description: Salesforce - Marketo 문서 - 제품 설명서에 활동을 기록할 때 활동 유형 필드 업데이트
 title: Salesforce에 활동을 기록할 때 활동 유형 필드 업데이트
-exl-id: f65d7d97-ec65-4210-9381-02be788498f9
-source-git-commit: 02354356949aef7aa8836d4753ec538b7819a65a
+exl-id: 800323cb-2b99-42f1-ae30-0f87a9a1b4be
+source-git-commit: c16081143588ebc0793f5b6e2630b58348e27124
 workflow-type: tm+mt
-source-wordcount: '0'
-ht-degree: 0%
+source-wordcount: '420'
+ht-degree: 1%
 
 ---
 
@@ -32,32 +32,32 @@ ht-degree: 0%
 
 ### Salesforce 번개에서 {#salesforce-lightning}
 
-1. 다음으로 이동 [Salesforce.com](https://salesforce.com){target="_blank"}.
-1. 오른쪽 위 모서리에 있는 톱니바퀴 아이콘을 클릭하고 을 선택합니다. **설정** > **오브젝트 관리자**.
+1. [Salesforce.com](https://salesforce.com){target="_blank"}(으)로 이동합니다.
+1. 오른쪽 상단 모서리의 톱니바퀴 아이콘을 클릭하고 **설정** > **개체 관리자**&#x200B;를 선택합니다.
 1. &#39;빠른 찾기&#39; 상자에 &quot;task&quot;를 입력합니다.
-1. 왼쪽 패널에서 **필드 및 관계**.
-1. 필드 레이블 클릭 **유형**.
-1. 작업 유형 선택 목록 값에서 **신규**.
+1. 왼쪽 패널에서 **필드 및 관계**&#x200B;를 클릭합니다.
+1. 필드 레이블 **Type**&#x200B;을(를) 클릭합니다.
+1. 작업 유형 선택 목록 값에서 **새로 만들기**&#x200B;를 클릭합니다.
 1. 누락된 작업 유형 선택 목록 값의 이름을 입력합니다(&quot;Email, &quot;Call&quot;, &quot;Reply&quot;).
-1. 클릭 **저장**.
+1. **저장**&#x200B;을 클릭합니다.
 
 ### Salesforce Classic에서 {#salesforce-classic}
 
-1. 다음으로 이동 [Salesforce.com](https://salesforce.com){target="_blank"}.
-1. 클릭 **설정** > **빌드** > **사용자 지정** > **활동** > **작업 필드**.
-1. 클릭 **유형**.
-1. 작업 유형 선택 목록 값에서 **신규**.
+1. [Salesforce.com](https://salesforce.com){target="_blank"}(으)로 이동합니다.
+1. **설정** > **빌드** > **사용자 지정** > **활동** > **작업 필드**&#x200B;를 클릭합니다.
+1. **유형**&#x200B;을 클릭합니다.
+1. 작업 유형 선택 목록 값에서 **새로 만들기**&#x200B;를 클릭합니다.
 1. 누락된 작업 유형 선택 목록 값의 이름을 입력합니다(&quot;Email, &quot;Call&quot;, &quot;Reply&quot;).
-1. 클릭 **저장**.
+1. **저장**&#x200B;을 클릭합니다.
 
-이제 이 기능이 제대로 작동했으므로 유형 필드가 기록된 이메일, 호출 및 답글에 대한 해당 값을 채우는 것을 볼 수 있습니다. 이 값은 _아님_ Sales Insight Actions 미리 알림 작업에 채워집니다.
+이제 이 기능이 제대로 작동했으므로 유형 필드가 기록된 이메일, 호출 및 답글에 대한 해당 값을 채우는 것을 볼 수 있습니다. 이 값은 Sales Insight Actions 미리 알림 작업에 _not_&#x200B;됩니다.
 
 >[!NOTE]
 >
->&#39;답글&#39;이 값으로 표시되지 않으면 다음을 클릭하여 추가합니다. **신규**. &#39;Reply&#39;는 Salesforce의 표준 값이 아닙니다.
+>&#39;회신&#39;이 값으로 표시되지 않으면 **새로 만들기**&#x200B;를 클릭하여 추가하십시오. &#39;Reply&#39;는 Salesforce의 표준 값이 아닙니다.
 
 >[!MORELIKETHIS]
 >
->* [Salesforce에 판매 활동 속성 로깅](/help/marketo/product-docs/marketo-sales-insight/actions/crm/salesforce-package-configuration/logging-sales-activity-attributes-to-salesforce.md){target="_blank"}
+>* [Salesforce에 판매 활동 특성 로깅](/help/marketo/product-docs/marketo-sales-insight/actions/crm/salesforce-package-configuration/logging-sales-activity-attributes-to-salesforce.md){target="_blank"}
 >* [Salesforce 활동 세부 정보 사용자 지정 구성](/help/marketo/product-docs/marketo-sales-insight/actions/crm/salesforce-integration/configure-salesforce-activity-detail-customization.md){target="_blank"}
 >* [영업 활동을 Salesforce에 동기화](/help/marketo/product-docs/marketo-sales-insight/actions/crm/salesforce-integration/sync-sales-activities-to-salesforce.md){target="_blank"}

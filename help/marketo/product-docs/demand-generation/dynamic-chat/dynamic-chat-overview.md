@@ -16,11 +16,11 @@ Dynamic Chat을 사용하면 사용하기 쉬운 인터페이스를 활용하여
 
 >[!TIP]
 >
->방문 [이 페이지](https://experienceleague.adobe.com/docs/marketo-learn/tutorials/dynamic-chat/dynamic-chat-overview.html){target="_blank"} Dynamic Chat 자습서 비디오를 보십시오.
+>Dynamic Chat 자습서 비디오를 보려면 [이 페이지](https://experienceleague.adobe.com/docs/marketo-learn/tutorials/dynamic-chat/dynamic-chat-overview.html){target="_blank"}를 방문하세요.
 
 ## 통합 {#integrations}
 
-Dynamic Chat의 주요 구성 요소는 Marketo 구독과 기본적으로 상호 작용하는 기능입니다. 이 통합의 전체 기능을 활용하려면 먼저 데이터 동기화를 시작해야 합니다. Marketo 데이터베이스의 크기에 따라 초기 데이터의 경우 최대 24시간이 걸릴 수 있습니다. [1회 동기화](/help/marketo/product-docs/demand-generation/dynamic-chat/integrations/adobe-marketo-engage.md){target="_blank"} 완료를 위해.
+Dynamic Chat의 주요 구성 요소는 Marketo 구독과 기본적으로 상호 작용하는 기능입니다. 이 통합의 전체 기능을 활용하려면 먼저 데이터 동기화를 시작해야 합니다. Marketo 데이터베이스의 크기에 따라 초기 [1회 동기화](/help/marketo/product-docs/demand-generation/dynamic-chat/integrations/adobe-marketo-engage.md){target="_blank"}를 완료하는 데 최대 24시간이 걸릴 수 있습니다.
 
 다음 항목이 동기화됩니다.
 
@@ -50,15 +50,15 @@ Dynamic Chat의 주요 구성 요소는 Marketo 구독과 기본적으로 상호
 
 ## 라이브 채팅 {#live-chat}
 
-다음을 통해 자격을 갖춘 웹 방문자에게 영업 담당자와 연결할 수 있는 기회를 제공하십시오. [라이브 채팅](/help/marketo/product-docs/demand-generation/dynamic-chat/live-chat/live-chat-overview.md){target="_blank"}.
+자격 있는 웹 방문자에게 [실시간 채팅](/help/marketo/product-docs/demand-generation/dynamic-chat/live-chat/live-chat-overview.md){target="_blank"}을 통해 영업 담당자에게 연결할 수 있는 권한을 제공하십시오.
 
-## 대화 플로우 {#conversational-flow}
+## 대화 흐름 {#conversational-flow}
 
-[대화 디자인](/help/marketo/product-docs/demand-generation/dynamic-chat/automated-chat/conversational-flow-overview.md){target="_blank"} 지정한 작업(예: 양식 작성, 링크 클릭 등)에 따라 방문자가 트리거할 수 있습니다.
+[지정한 동작(예: 양식 작성, 링크 클릭 등)을 기반으로 방문자가 트리거할 수 있는 대화를 디자인합니다](/help/marketo/product-docs/demand-generation/dynamic-chat/automated-chat/conversational-flow-overview.md){target="_blank"}.
 
 ## 생성형 AI {#generative-ai}
 
-[생성 AI](/help/marketo/product-docs/demand-generation/dynamic-chat/generative-ai/overview.md){target="_blank"} Adobe Dynamic Chat에서 는 의도 신호, 사용자 환경 설정 및 과거 동작을 실시간으로 처리하여 채팅 방문자를 위한 관련성 있고 개인화된 메시지를 생성합니다.
+Adobe Dynamic Chat의 [생성 AI](/help/marketo/product-docs/demand-generation/dynamic-chat/generative-ai/overview.md){target="_blank"}은(는) 인텐트 신호, 사용자 환경 설정 및 과거 동작을 실시간으로 처리하여 채팅 방문자를 위한 관련성 있고 개인화된 메시지를 생성합니다.
 
 ## 언어 변경 {#changing-the-language}
 
@@ -66,9 +66,9 @@ Dynamic Chat 언어를 변경하려면 아래 단계를 따르십시오.
 
 >[!IMPORTANT]
 >
->프로필 수준에서 언어를 변경하면 의 언어가 변경됩니다. _모두_ Experience Cloud 응용 프로그램입니다. Dynamic Chat이 아닙니다.
+>Dynamic Chat 수준에서 언어를 변경하면 프로필뿐만 아니라 _모든_ Experience Cloud 응용 프로그램의 언어가 변경됩니다.
 
-1. Experience Cloud 계정에서 설정 아이콘을 클릭하고 **환경 설정**.
+1. Experience Cloud 계정에서 설정 아이콘을 클릭하고 **환경 설정**&#x200B;을 선택합니다.
 
    ![](assets/dynamic-chat-overview-1.png)
 
@@ -76,7 +76,7 @@ Dynamic Chat 언어를 변경하려면 아래 단계를 따르십시오.
 
    ![](assets/dynamic-chat-overview-2.png)
 
-1. 새 언어(두 번째 언어는 선택 사항)를 선택하고 **저장**.
+1. 새 언어를 선택하고(두 번째 언어는 선택 사항) **저장**&#x200B;을 클릭하세요.
 
    ![](assets/dynamic-chat-overview-3.png)
 
@@ -88,7 +88,7 @@ Dynamic Chat 언어를 변경하려면 아래 단계를 따르십시오.
 
 ## Dynamic Chat 데이터 보존 제한 {#dynamic-chat-data-retention-limits}
 
-다음은 Dynamic Chat 내의 제한/매개 변수 중 일부에 불과합니다. 전체 목록이 필요하면 Marketo Engage 를 참조하십시오. [제품 설명 페이지](https://helpx.adobe.com/legal/product-descriptions/adobe-marketo-engage---product-description.html){target="_blank"}.
+다음은 Dynamic Chat 내의 제한/매개 변수 중 일부에 불과합니다. 전체 목록이 필요하면 Marketo Engage [제품 설명 페이지](https://helpx.adobe.com/legal/product-descriptions/adobe-marketo-engage---product-description.html){target="_blank"}를 참조하세요.
 
 <table>
   <th>데이터 유형</th>
@@ -117,4 +117,4 @@ Dynamic Chat 언어를 변경하려면 아래 단계를 따르십시오.
 
 ## FAQ {#faq}
 
-다음을 참조하십시오. [DYNAMIC CHAT FAQ](/help/marketo/product-docs/demand-generation/dynamic-chat/faq.md){target="_blank"}.
+[Dynamic Chat FAQ](/help/marketo/product-docs/demand-generation/dynamic-chat/faq.md){target="_blank"}를 참조하세요.

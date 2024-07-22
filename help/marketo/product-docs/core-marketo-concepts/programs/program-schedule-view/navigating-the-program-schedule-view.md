@@ -6,7 +6,7 @@ exl-id: 31623f95-f956-44f6-9b6e-5595fb6e62d5
 feature: Programs
 source-git-commit: b21f955bf98063e11f8ed3fdc6f164134ee4f5aa
 workflow-type: tm+mt
-source-wordcount: '183'
+source-wordcount: '184'
 ht-degree: 0%
 
 ---
@@ -17,11 +17,11 @@ ht-degree: 0%
 
 ## 일정 보기 찾기 {#find-the-schedule-view}
 
-1. 다음으로 이동 **[!UICONTROL 마케팅 활동]**.
+1. **[!UICONTROL 마케팅 활동]**(으)로 이동합니다.
 
    ![](assets/login-marketing-activities.png)
 
-1. 프로그램을 선택합니다. 다음을 클릭합니다. **[!UICONTROL 보기]** 드롭다운. 선택 **[!UICONTROL 예약]**.
+1. 프로그램을 선택합니다. **[!UICONTROL 보기]** 드롭다운을 클릭합니다. **[!UICONTROL 일정]**&#x200B;을 선택하세요.
 
    ![](assets/image2014-9-17-11-3a38-3a3.png)
 
@@ -51,7 +51,7 @@ ht-degree: 0%
 
 ## 모드 간 변경 {#changing-between-modes}
 
-1. 클릭 중 **[!UICONTROL 3주]** 또는 **[!UICONTROL 월]** 화면에 표시되는 날짜를 변경합니다.
+1. **[!UICONTROL 3주]** 또는 **[!UICONTROL 월]**&#x200B;을 클릭하면 화면에 표시되는 날짜가 변경됩니다.
 
    ![](assets/image2014-9-17-11-3a40-3a19.png)
 
@@ -65,4 +65,4 @@ ht-degree: 0%
 
 >[!MORELIKETHIS]
 >
->[프로그램 스케줄 뷰에서 입력 생성](/help/marketo/product-docs/core-marketo-concepts/programs/program-schedule-view/creating-an-entry-in-the-program-schedule-view.md){target="_blank"}
+>[프로그램 일정 보기에서 항목 만들기](/help/marketo/product-docs/core-marketo-concepts/programs/program-schedule-view/creating-an-entry-in-the-program-schedule-view.md){target="_blank"}

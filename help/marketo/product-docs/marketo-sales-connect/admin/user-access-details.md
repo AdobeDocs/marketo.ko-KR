@@ -17,11 +17,11 @@ ht-degree: 0%
 
 ## 관리자 사용자 권한 {#admin-user-permissions}
 
-관리자는 다음 작업을 수행할 수 있습니다. [모든 템플릿 보기](/help/marketo/product-docs/marketo-sales-connect/templates/view-template-list-as-another-user.md).
+관리자는 [모든 템플릿을 볼 수 있습니다](/help/marketo/product-docs/marketo-sales-connect/templates/view-template-list-as-another-user.md).
 
 ![](assets/templates.jpg)
 
-관리자는 다음 작업을 수행할 수 있습니다. [모든 캠페인 보기](/help/marketo/product-docs/marketo-sales-connect/campaigns/view-campaigns-list-as-another-user.md).
+관리자는 [모든 캠페인을 볼 수 있습니다](/help/marketo/product-docs/marketo-sales-connect/campaigns/view-campaigns-list-as-another-user.md).
 
 ![](assets/campaigns.jpg)
 

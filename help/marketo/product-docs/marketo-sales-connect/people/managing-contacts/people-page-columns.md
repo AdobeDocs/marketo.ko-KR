@@ -7,7 +7,7 @@ feature: Marketo Sales Connect
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '273'
-ht-degree: 8%
+ht-degree: 7%
 
 ---
 
@@ -21,7 +21,7 @@ ht-degree: 8%
 
    ![](assets/one-5.png)
 
-1. 스크롤하여 원하는 열을 선택합니다. **모두 선택** 모든 열을 원하는 경우). 완료되면 목록에서 를 클릭합니다.
+1. 스크롤하여 원하는 열을 선택합니다. 모든 열을 원하는 경우 **모두 선택**&#x200B;을 클릭할 수도 있습니다. 완료되면 목록에서 를 클릭합니다.
 
    ![](assets/two-4.png)
 
@@ -42,7 +42,7 @@ ht-degree: 8%
    <td>이름</td> 
   </tr> 
   <tr> 
-   <td>성 (기본값)</td> 
+   <td>성(기본값)</td> 
    <td>성</td> 
   </tr> 
   <tr> 
@@ -66,7 +66,7 @@ ht-degree: 8%
    <td>해당 사용자가 현재 진행 중인 판매 캠페인</td> 
   </tr> 
   <tr> 
-   <td># 캠페인</td> 
+   <td>캠페인 수</td> 
    <td>개인이 참여한 총 판매 캠페인 수</td> 
   </tr> 
   <tr> 
@@ -102,7 +102,7 @@ ht-degree: 8%
    <td>해당 사용자에 의한 총 보기 수</td> 
   </tr> 
   <tr> 
-   <td># 클릭 수</td> 
+   <td>클릭수</td> 
    <td>이 사용자의 총 클릭 수</td> 
   </tr> 
   <tr> 
@@ -119,7 +119,7 @@ ht-degree: 8%
   </tr> 
   <tr> 
    <td>소스</td> 
-   <td>개인을 만든 소스</td> 
+   <td>사용자를 만든 위치의 Source</td> 
   </tr> 
   <tr> 
    <td>그룹(기본값)</td> 

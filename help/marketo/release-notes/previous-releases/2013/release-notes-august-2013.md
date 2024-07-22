@@ -6,7 +6,7 @@ exl-id: c7af3af8-c51e-49dd-8ebf-803cb4350024
 feature: Release Information
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
-source-wordcount: '205'
+source-wordcount: '209'
 ht-degree: 0%
 
 ---
@@ -15,9 +15,9 @@ ht-degree: 0%
 
 다음 기능은 2013년 8월 릴리스에 포함되어 있습니다.
 
-**텍스트 전용 이메일**
+**텍스트 전용 전자 메일**
 
-이제 다음을 보낼 수 있습니다. [텍스트 버전만](/help/marketo/product-docs/email-marketing/general/creating-an-email/create-a-text-only-email.md) 이메일. 이 옵션을 사용할 때는 링크가 데코레이트되지 않는다는 점을 유의하십시오.
+이제 [텍스트 버전만](/help/marketo/product-docs/email-marketing/general/creating-an-email/create-a-text-only-email.md) 전자 메일을 보낼 수 있습니다. 이 옵션을 사용할 때는 링크가 데코레이트되지 않는다는 점을 유의하십시오.
 
 ![](assets/image2014-9-22-16-3a34-3a15.png)
 
@@ -25,13 +25,13 @@ ht-degree: 0%
 
 ### 소진된 콘텐츠 무시 {#ignore-exhausted-content}
 
-참여 프로그램 구성 [탈진 무시](/help/marketo/product-docs/email-marketing/drip-nurturing/using-engagement-programs/disable-and-enable-exhausted-content-notifications.md)알림의 제거를 포함합니다.
+알림 제거를 포함하여 참여 프로그램을 [소진을 무시](/help/marketo/product-docs/email-marketing/drip-nurturing/using-engagement-programs/disable-and-enable-exhausted-content-notifications.md)하도록 구성하십시오.
 
 ![](assets/image2014-9-22-16-3a34-3a37.png)
 
 ## 참여 스트림 테스트 {#engagement-stream-testing}
 
-사용 [새로운 테스트 기능](/help/marketo/product-docs/email-marketing/drip-nurturing/engagement-program-streams/test-an-engagement-stream.md) 를 클릭하여 캐스트를 시뮬레이션하고 라이브 스트림에 새로 추가된 콘텐츠를 테스트합니다.
+[새 테스트 기능](/help/marketo/product-docs/email-marketing/drip-nurturing/engagement-program-streams/test-an-engagement-stream.md)을 사용하여 캐스트를 시뮬레이션하고 새로 추가된 콘텐츠를 실시간 스트림으로 테스트하세요.
 
 ![](assets/image2014-9-22-16-3a34-3a56.png)
 
@@ -43,13 +43,13 @@ ht-degree: 0%
 
 ## &quot;웹 페이지로 이메일 보기&quot; 및 &quot;구독 취소&quot; 시스템 토큰 {#view-email-as-web-page-and-unsubscribe-system-tokens}
 
-활용 [새 토큰](/help/marketo/product-docs/email-marketing/general/using-tokens/system-tokens-glossary.md) 이메일 배치를 보다 세밀하게 제어할 수 있습니다.
+이 [새 토큰](/help/marketo/product-docs/email-marketing/general/using-tokens/system-tokens-glossary.md)을 활용하여 전자 메일 배치를 보다 세밀하게 제어할 수 있습니다.
 
 ![](assets/image2014-9-22-16-3a35-3a38.png)
 
 ## 캠페인 자동 정리 트리거 {#automatic-trigger-campaign-cleanup}
 
-Marketo은 이제 주기적으로 사용자에게 알리고 [자동으로 트리거 캠페인 비활성화](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/using-smart-campaigns/automatic-trigger-campaign-cleanup.md) 그것은 지난 6개월 동안 실행되지 않았습니다.
+이제 Marketo에서 주기적으로 알림을 보내고 지난 6개월 동안 실행되지 않은 [자동으로 트리거 캠페인을 비활성화](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/using-smart-campaigns/automatic-trigger-campaign-cleanup.md)합니다.
 
 ![](assets/image2014-9-22-16-3a36-3a2.png)
 

@@ -13,21 +13,21 @@ ht-degree: 0%
 
 # 기본 보낸 사람 이메일 및 보낸 사람 레이블 변경 {#change-the-default-from-email-and-from-label}
 
-각 관리자는 의 기본값을 변경할 수 있습니다. **[!UICONTROL 보낸 사람 이메일]** 및 **[!UICONTROL 출처 레이블]** 따라서 새 이메일을 만들 때 해당 기본값이 사용됩니다.
+각 관리자는 **[!UICONTROL 전자 메일에서]** 및 **[!UICONTROL 레이블에서]**&#x200B;의 기본값을 변경하여 새 전자 메일을 만들 때 해당 기본값을 사용하도록 할 수 있습니다.
 
 >[!NOTE]
 >
 >**관리자 권한 필요**
 
-1. 로 이동 **[!UICONTROL 관리자]** 섹션.
+1. **[!UICONTROL 관리자]** 섹션으로 이동합니다.
 
    ![](assets/change-the-default-from-email-and-from-label-1.png)
 
-1. 클릭 **[!UICONTROL 이메일]**.
+1. **[!UICONTROL 전자 메일]**&#x200B;을 클릭하세요.
 
    ![](assets/change-the-default-from-email-and-from-label-2.png)
 
-1. 원하는 기본값 입력 **[!UICONTROL 보낸 사람 이메일]** 및 **[!UICONTROL 출처 레이블]** 그런 다음 을 클릭합니다. **[!UICONTROL 변경 내용 저장]**.
+1. **[!UICONTROL 전자 메일]** 및 **[!UICONTROL 레이블에서]**&#x200B;에 대해 원하는 기본값을 입력한 다음 **[!UICONTROL 변경 내용 저장]**&#x200B;을 클릭합니다.
 
    ![](assets/change-the-default-from-email-and-from-label-3.png)
 

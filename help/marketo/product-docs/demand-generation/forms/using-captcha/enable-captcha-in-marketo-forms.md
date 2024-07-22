@@ -18,23 +18,23 @@ ht-degree: 0%
 
    ![](assets/enable-captcha-in-marketo-forms-1.png)
 
-1. 클릭 **초안 편집** 양식이 이미 승인된 경우 초안 만들기 를 클릭합니다.
+1. **초안 편집**&#x200B;을 클릭합니다(양식이 이미 승인된 경우 초안 만들기 클릭).
 
    ![](assets/enable-captcha-in-marketo-forms-2.png)
 
-1. 클릭 **양식 설정**, 그런 다음 **설정**.
+1. **양식 설정**&#x200B;을 클릭한 다음 **설정**&#x200B;을 클릭합니다.
 
    ![](assets/enable-captcha-in-marketo-forms-3.png)
 
-1. CAPTCHA 드롭다운을 열고 을 선택합니다. **활성화됨**.
+1. CAPTCHA 드롭다운을 열고 **사용**&#x200B;을 선택합니다.
 
    ![](assets/enable-captcha-in-marketo-forms-4.png)
 
-1. 클릭 **완료**.
+1. **마침**&#x200B;을 클릭합니다.
 
    ![](assets/enable-captcha-in-marketo-forms-5.png)
 
-1. 클릭 **승인 및 닫기**.
+1. **승인 및 닫기**&#x200B;를 클릭합니다.
 
    ![](assets/enable-captcha-in-marketo-forms-6.png)
 

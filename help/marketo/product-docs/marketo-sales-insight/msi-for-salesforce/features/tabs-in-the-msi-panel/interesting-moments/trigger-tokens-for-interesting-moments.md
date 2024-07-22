@@ -15,18 +15,18 @@ ht-degree: 0%
 
 >[!PREREQUISITES]
 >
->사용 방법 알아보기 [관심 모멘트 흐름 단계](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/interesting-moment.md).
+>[관심 있는 순간 흐름 단계](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/interesting-moment.md)를 사용하는 방법을 알아봅니다.
 
 ## 사용 가능한 토큰 {#available-tokens}
 
-체크아웃 [토큰 개요](/help/marketo/product-docs/demand-generation/landing-pages/personalizing-landing-pages/tokens-overview.md) 재미있는 순간에 넣을 수 있는 모든 토큰을 보기 위해.
+흥미로운 순간에 넣을 수 있는 모든 토큰을 보려면 [토큰 개요](/help/marketo/product-docs/demand-generation/landing-pages/personalizing-landing-pages/tokens-overview.md)를 확인하십시오.
 
 ## 트리거 토큰 {#trigger-tokens}
 
 스마트 캠페인에 사용된 트리거를 기반으로 추가 트리거 토큰을 사용할 수 있습니다.
 
-* `{{trigger.Trigger Name}}` 그것은 항상 실제 방아쇠 그 자체입니다. 예: 이메일의 링크를 클릭합니다.
-* `{{trigger.Name}}` 은 캠페인을 트리거한 에셋의 이름입니다. 예를 들어 웹 페이지에서 링크를 클릭하면 URL 자체이며, Salesforce 트리거에 대한 제목입니다.
+* `{{trigger.Trigger Name}}`은(는) 항상 실제 트리거 자체입니다. 예: 이메일의 링크를 클릭합니다.
+* `{{trigger.Name}}`은(는) 캠페인을 트리거한 자산의 이름입니다. 예를 들어 웹 페이지에서 링크를 클릭하면 URL 자체이며, Salesforce 트리거에 대한 제목입니다.
 * 아래 나열된 제한 사항에 따라 추가 트리거를 사용할 수 있습니다.
 
 ### 이메일 트리거 {#email-triggers}
@@ -1055,9 +1055,9 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->수표가 없으면 ![(틱)](assets/check.png) 그러면 재미있는 순간에 빈 문자열(nothing)이 반환됩니다.
+>확인 ![(틱)](assets/check.png)이(가) 없으면 즐거운 순간에 빈 문자열(nothing)이 반환됩니다.
 
-&#42;트리거 **방문 웹 페이지** 에는 몇 가지 추가 토큰이 있습니다.
+&#42;트리거 **웹 페이지 방문**&#x200B;에 몇 가지 추가 토큰이 있습니다.
 
 * `{{trigger.Referrer}}`
 * `{{trigger.Search Engine}}`

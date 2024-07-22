@@ -5,8 +5,8 @@ exl-id: a9a59e76-a7a4-4391-8169-922bd6acfb6d
 feature: Veeva CRM
 source-git-commit: 0087a5e88b8bd9601875f68a2e7cadeebdb5d682
 workflow-type: tm+mt
-source-wordcount: '533'
-ht-degree: 7%
+source-wordcount: '527'
+ht-degree: 6%
 
 ---
 
@@ -18,7 +18,7 @@ ht-degree: 7%
 
 Marketo Engage은 일련의 필드를 사용하여 특정 종류의 마케팅 관련 정보를 캡처합니다. 이 데이터를 Veeva CRM에 포함하려면 아래 지침을 따르십시오.
 
-`1.` 연락처 개체의 Veeva CRM에서 사용자 지정 필드를 만듭니다. 점수
+`1.` 연락처 개체의 Veeva CRM에 사용자 지정 필드를 만듭니다. 점수
 
 `2.` 원하는 경우 추가 필드를 만들 수 있습니다(아래 표 참조).
 
@@ -30,11 +30,11 @@ Marketo Engage은 일련의 필드를 사용하여 특정 종류의 마케팅 �
 
 점수 필드에 대해 다음 단계를 수행하여 추가합니다.
 
-1. Veeva CRM에 로그인하고 **[!UICONTROL 설정]**.
+1. Veeva CRM에 로그인하고 **[!UICONTROL 설정]**&#x200B;을 클릭합니다.
 
    ![](assets/step-1-of-3-add-marketo-fields-1.png)
 
-1. 클릭 **[!UICONTROL 오브젝트 및 필드]** 및 선택 **[!UICONTROL 오브젝트 관리자]**.
+1. **[!UICONTROL 개체 및 필드]**&#x200B;를 클릭하고 **[!UICONTROL 개체 관리자]**&#x200B;를 선택합니다.
 
    ![](assets/step-1-of-3-add-marketo-fields-2.png)
 
@@ -42,11 +42,11 @@ Marketo Engage은 일련의 필드를 사용하여 특정 종류의 마케팅 �
 
    ![](assets/step-1-of-3-add-marketo-fields-3.png)
 
-1. 다음을 클릭합니다. **[!UICONTROL 연락처]** 개체.
+1. **[!UICONTROL 연락처]** 개체를 클릭합니다.
 
-1. 선택 **[!UICONTROL 필드 및 관계]**.
+1. **[!UICONTROL 필드 및 관계]**&#x200B;를 선택하십시오.
 
-1. 클릭 **[!UICONTROL 신규]**.
+1. **[!UICONTROL 새로 만들기]**&#x200B;를 클릭합니다.
 
    ![](assets/step-1-of-3-add-marketo-fields-4.png)
 
@@ -58,7 +58,7 @@ Marketo Engage은 일련의 필드를 사용하여 특정 종류의 마케팅 �
 
    ![](assets/step-1-of-3-add-marketo-fields-6.png)
 
-1. 다음을 입력합니다. **[!UICONTROL 필드 레이블]**, **[!UICONTROL Length]**, 및 **[!UICONTROL 필드 이름]** (아래 표에 표시된 대로) 필드를 선택합니다.
+1. 아래 표와 같이 필드에 대한 **[!UICONTROL 필드 레이블]**, **[!UICONTROL 길이]** 및 **[!UICONTROL 필드 이름]**&#x200B;을 입력하십시오.
 
 <table>
  <tbody>
@@ -92,7 +92,7 @@ Marketo Engage은 일련의 필드를 사용하여 특정 종류의 마케팅 �
 
    ![](assets/step-1-of-3-add-marketo-fields-8.png)
 
-1. 액세스 설정을 지정하고 **[!UICONTROL 다음]**.
+1. 액세스 설정을 지정하고 **[!UICONTROL 다음]**&#x200B;을(를) 클릭합니다.
 
 1. 모든 역할을 표시 및 읽기 전용으로 설정합니다.
 
@@ -105,9 +105,9 @@ Marketo Engage은 일련의 필드를 사용하여 특정 종류의 마케팅 �
 
 1. 필드를 표시할 페이지 레이아웃을 선택합니다.
 
-1. 클릭 **[!UICONTROL 저장 및 새로 만들기]** 로 돌아가서 다른 두 개의 사용자 정의 필드를 각각 만듭니다.
+1. **[!UICONTROL 저장 및 새로 만들기]**&#x200B;를 클릭하여 돌아가서 다른 두 개의 사용자 지정 필드를 각각 만드십시오.
 
-1. 클릭 **[!UICONTROL 저장]** 세 가지를 다 끝내면
+1. 세 가지를 모두 완료하면 **[!UICONTROL 저장]**&#x200B;을 클릭합니다.
 
    ![](assets/step-1-of-3-add-marketo-fields-10.png)
 

@@ -13,21 +13,21 @@ ht-degree: 1%
 
 # 양식 테마의 CSS 편집 {#edit-the-css-of-a-form-theme}
 
-몇 개 사전 빌드되어 있습니다. [선택할 수 있는 테마](/help/marketo/product-docs/demand-generation/forms/creating-a-form/select-a-form-theme.md). 그러나 CSS 편집이 마음에 들면 원하는 대로 변경할 수 있습니다. 방법은 다음과 같습니다.
+](/help/marketo/product-docs/demand-generation/forms/creating-a-form/select-a-form-theme.md)에서 선택할 수 있는 미리 만들어진 [테마가 몇 개 있습니다. 그러나 CSS 편집이 마음에 들면 원하는 대로 변경할 수 있습니다. 방법은 다음과 같습니다.
 
 >[!NOTE]
 >
 >이 작업을 시도하려는 경우 Marketo 지원이 사용자 지정 코딩을 지원하도록 설정되지 않았으므로 CSS를 알고 있어야 합니다. 또한 변경 사항은 현재 편집 중인 양식에만 적용됩니다.
 
-1. 다음으로 이동 **마케팅 활동**.
+1. **마케팅 활동**(으)로 이동합니다.
 
    ![](assets/login-marketing-activities-5.png)
 
-1. 양식을 선택하고 **양식 편집**.
+1. 양식을 선택하고 **양식 편집**&#x200B;을 클릭합니다.
 
    ![](assets/image2014-9-15-14-3a37-3a7.png)
 
-1. 다음으로 이동 **양식 설정**.
+1. **양식 설정**(으)로 이동합니다.
 
    ![](assets/image2014-9-15-14-3a37-3a42.png)
 
@@ -35,7 +35,7 @@ ht-degree: 1%
 
    ![](assets/image2014-9-15-14-3a37-3a54.png)
 
-1. 톱니바퀴 아이콘 아래에서 **테마 CSS 보기**.
+1. 톱니바퀴 아이콘 아래에서 **테마 CSS 보기**&#x200B;를 클릭합니다.
 
    ![](assets/image2014-9-15-14-3a38-3a18.png)
 
@@ -47,7 +47,7 @@ ht-degree: 1%
 
    ![](assets/image2014-9-15-14-3a38-3a46.png)
 
-1. 톱니바퀴 아이콘 아래에서 **사용자 지정 CSS 편집**.
+1. 톱니바퀴 아이콘 아래에서 **사용자 지정 CSS 편집**&#x200B;을 클릭합니다.
 
    ![](assets/image2014-9-15-14-3a39-3a5.png)
 
@@ -55,11 +55,11 @@ ht-degree: 1%
 
    ![](assets/image2014-9-15-14-3a39-3a21.png)
 
-1. 완료되면 다음을 클릭합니다. **저장**.
+1. 완료되면 **저장**&#x200B;을 클릭하세요.
 
    ![](assets/image2014-9-15-14-3a39-3a30.png)
 
-1. 사용자 지정된 양식을 보려면 **초안 미리 보기**.
+1. 사용자 지정된 양식을 보려면 **초안 미리 보기**&#x200B;를 클릭하십시오.
 
    ![](assets/image2014-9-15-14-3a39-3a50.png)
 

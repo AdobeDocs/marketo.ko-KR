@@ -13,7 +13,7 @@ ht-degree: 5%
 
 # 소셜 프로필 데이터 관리 {#manage-social-profile-data}
 
-누군가 Marketo과 상호 작용할 때 [소셜 앱](/help/marketo/product-docs/demand-generation/social/configuring-social-actions/customize-social-app-button.md)또는 을 사용하여 소셜 네트워크에 Marketo 양식을 미리 채웁니다. [소셜 양식 채우기](/help/marketo/product-docs/demand-generation/forms/form-actions/enable-social-form-fill-on-a-form.md), Marketo은 소셜 프로필에서 사용할 수 있는 모든 데이터를 캡처합니다. 다음에서 이 정보를 볼 수 있습니다. [개인 세부 정보 페이지](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/managing-people-in-smart-lists/using-the-person-detail-page.md)또는 의 열로 추가합니다. [스마트 목록의 사용자 지정 보기](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/using-smart-lists/create-and-change-views-for-lists-and-smart-list.md).
+누군가 Marketo [소셜 앱](/help/marketo/product-docs/demand-generation/social/configuring-social-actions/customize-social-app-button.md)과 상호 작용하거나 소셜 네트워크에 [소셜 양식 채우기](/help/marketo/product-docs/demand-generation/forms/form-actions/enable-social-form-fill-on-a-form.md)(으)로 Marketo 양식을 미리 채우도록 권한을 부여하면 Marketo에서 소셜 프로필에서 사용할 수 있는 모든 데이터를 캡처합니다. [개인 세부 정보 페이지](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/managing-people-in-smart-lists/using-the-person-detail-page.md)에서 이 정보를 보거나 [스마트 목록의 사용자 지정 보기](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/using-smart-lists/create-and-change-views-for-lists-and-smart-list.md)에서 열로 추가할 수 있습니다.
 
 소셜 양식 채우기 및 소셜 앱은 약간 다른 필드 세트를 캡처합니다. 아래 각 섹션에 대한 섹션을 참조하십시오.
 
@@ -56,7 +56,7 @@ ht-degree: 5%
 
 >[!CAUTION]
 >
->소셜 양식에 의해 캡처된 데이터는 다음을 수행하지 않는 한 일치하는 필드를 덮어씁니다. [양식 수준에서 해당 필드에 대한 업데이트 차단](/help/marketo/product-docs/administration/field-management/block-updates-to-a-field.md).
+>[양식 수준에서 해당 필드에 대한 업데이트를 차단](/help/marketo/product-docs/administration/field-management/block-updates-to-a-field.md)하지 않는 한 소셜 양식 채우기에 의해 캡처된 데이터는 일치하는 필드를 덮어씁니다.
 
 ## 출처 Twitter: {#from-twitter-1}
 
@@ -75,8 +75,8 @@ ht-degree: 5%
 
 >[!NOTE]
 >
->소셜 양식 채우기가 이메일 주소를 캡처합니다. _전용_ 양식에 입력하는 경우. 이메일 주소가 필요한 경우 [양식의 필수 필드로 만들기](/help/marketo/product-docs/demand-generation/forms/creating-a-form/make-a-form-field-required.md).
+>소셜 양식 채우기는 사용자가 양식에 입력한 경우 이메일 주소 _만_&#x200B;을(를) 캡처합니다. 전자 메일 주소가 필요한 경우 [양식의 필수 필드로 설정](/help/marketo/product-docs/demand-generation/forms/creating-a-form/make-a-form-field-required.md)해야 합니다.
 
 >[!MORELIKETHIS]
 >
->양식에서 이 정보를 캡처하려면 다음을 활성화합니다 [소셜 양식 채우기](/help/marketo/product-docs/demand-generation/forms/form-actions/enable-social-form-fill-on-a-form.md).
+>양식에서 이 정보를 캡처하려면 [소셜 양식 채우기](/help/marketo/product-docs/demand-generation/forms/form-actions/enable-social-form-fill-on-a-form.md)를 사용하도록 설정하십시오.

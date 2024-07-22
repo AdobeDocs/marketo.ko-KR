@@ -83,7 +83,7 @@ RSS 피드로 리드 피드 업데이트를 받을 수도 있습니다.  RSS 피
 
 >[!NOTE]
 >
->회사의 Marketo 관리자는 다음 작업을 수행해야 합니다. [RSS 피드 활성화](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/features/msi-configuration-tab/enable-rss-for-sales-insight.md) 이 작업을 수행하기 위해
+>이를 수행하려면 회사의 Marketo 관리자가 [RSS 피드를 활성화](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/features/msi-configuration-tab/enable-rss-for-sales-insight.md)해야 합니다.
 
 RSS 업데이트를 가져오려면 RSS 링크와 RSS 피드 리더의 두 가지가 필요합니다. 리드 피드에서 RSS 아이콘을 클릭하여 RSS 링크를 가져올 수 있습니다.
 

@@ -15,15 +15,15 @@ ht-degree: 0%
 
 Salesforce에는 가망 고객 및 연락처에 성과 회사 이름이 필요합니다(최소). 미완료 레코드는 Salesforce에 동기화되지 않습니다. 부분 레코드를 동기화하려면 Salesforce에서 사용할 Marketo의 기본값을 설정해야 합니다.
 
-1. 다음으로 이동 **[!UICONTROL 관리자]** 및 클릭 **[!DNL Salesforce]**.
+1. **[!UICONTROL 관리자]**(으)로 이동하여 **[!DNL Salesforce]**&#x200B;을(를) 클릭합니다.
 
    ![](assets/image2014-12-9-13-3a41-3a58.png)
 
-1. 클릭 **[!UICONTROL 동기화 옵션 편집]**.
+1. **[!UICONTROL 동기화 옵션 편집]**&#x200B;을 클릭합니다.
 
    ![](assets/image2014-12-9-13-3a42-3a6.png)
 
-1. 입력 **[!UICONTROL 기본 사용자의 성]** 및 a **[!UICONTROL 기본 개인 회사]**&#x200B;을 클릭한 다음 을 클릭합니다 **[!UICONTROL 저장]**.
+1. **[!UICONTROL 기본 사용자 성]** 및 **[!UICONTROL 기본 사용자 회사]**&#x200B;를 입력한 다음 **[!UICONTROL 저장]**&#x200B;을 클릭합니다.
 
    ![](assets/sync-options-hands.png)
 

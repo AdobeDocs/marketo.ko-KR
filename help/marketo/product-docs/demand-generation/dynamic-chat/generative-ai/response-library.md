@@ -16,23 +16,23 @@ ht-degree: 0%
 
 ## 수동으로 질문 추가 {#manually-add-a-question}
 
-1. 생성 AI에서 **[!UICONTROL 지원 응답]**.
+1. 생성 AI에서 **[!UICONTROL 지원 응답]**&#x200B;을 클릭합니다.
 
    ![](assets/response-library-1.png)
 
-1. 다음을 클릭합니다. **[!UICONTROL 응답 라이브러리]** 탭.
+1. **[!UICONTROL 응답 라이브러리]** 탭을 클릭합니다.
 
    ![](assets/response-library-2.png)
 
-1. 클릭 **[!UICONTROL 질문 추가]**.
+1. **[!UICONTROL 질문 추가]**&#x200B;를 클릭합니다.
 
    ![](assets/response-library-3.png)
 
-1. 질문 및 응답을 입력합니다. 주제를 할당하고 사용자가 방문자와 공유할 수 있는 선택적 URL을 추가합니다. 클릭 **[!UICONTROL 저장]** 완료 시.
+1. 질문 및 응답을 입력합니다. 주제를 할당하고 사용자가 방문자와 공유할 수 있는 선택적 URL을 추가합니다. 완료되면 **[!UICONTROL 저장]**&#x200B;을 클릭합니다.
 
    ![](assets/response-library-4.png)
 
-1. 새로 고침을 클릭하면 새 질문이 맨 위에 &quot; 상태로 표시됩니다.[!UICONTROL 처리 중].&quot;
+1. 새로 고침을 클릭하면 새 질문이 맨 위에 &quot;[!UICONTROL 처리]&quot; 상태로 나타납니다.
 
    ![](assets/response-library-5.png)
 
@@ -44,13 +44,13 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->생성된 모든 질문 및 답변에는 &quot;[!UICONTROL 검토 필요]기본적으로 &quot; 상태입니다. 만 해당 &quot;[!UICONTROL 승인됨]&quot;채팅 방문자가 질문과 응답을 사용할 수 있습니다.
+>생성된 모든 질문 및 응답에는 기본적으로 &quot;[!UICONTROL 검토 필요]&quot; 상태가 할당됩니다. 채팅 방문자는 &quot;[!UICONTROL approved]&quot; 질문과 응답만 사용할 수 있습니다.
 
-1. 다음에서 **[!UICONTROL 응답 라이브러리]**&#x200B;을 클릭하고 원하는 질문을 클릭합니다.
+1. **[!UICONTROL 응답 라이브러리]**&#x200B;에서 원하는 질문을 클릭합니다.
 
    ![](assets/response-library-7.png)
 
-1. 편집하고 클릭 **[!UICONTROL 저장]**.
+1. 편집하고 **[!UICONTROL 저장]**&#x200B;을 클릭합니다.
 
    ![](assets/response-library-8.png)
 
@@ -85,11 +85,11 @@ ht-degree: 0%
 </tbody>
 </table>
 
-1. 파일에서 편집을 완료한 후 **[!UICONTROL 응답 라이브러리]** tab 키를 누른 다음 클릭 **[!UICONTROL 응답 업로드]**.
+1. 파일에서 편집을 마친 후 **[!UICONTROL 응답 라이브러리]** 탭으로 돌아가서 **[!UICONTROL 응답 업로드]**&#x200B;를 클릭합니다.
 
    ![](assets/response-library-9.png)
 
-1. 해당 작업 이름을 입력합니다. 파일을 드래그 앤 드롭하거나 장치에서 찾아 선택합니다. 클릭 **[!UICONTROL 저장]** 완료 시.
+1. 해당 작업 이름을 입력합니다. 파일을 드래그 앤 드롭하거나 장치에서 찾아 선택합니다. 완료되면 **[!UICONTROL 저장]**&#x200B;을 클릭합니다.
 
    ![](assets/response-library-10.png)
 

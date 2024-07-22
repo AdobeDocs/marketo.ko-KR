@@ -17,7 +17,7 @@ linkedIn 리드 세대 Forms을 사용하여 LinkedIn에서 광고 캠페인을 
 
 >[!IMPORTANT]
 >
->LinkedIn은 Marketo Engage LinkedIn 통합에 사용되는 마케팅 API를 업그레이드하고 있습니다. 이러한 변경 사항을 적용하려면 의 모든 LinkedIn LaunchPoint 서비스에 대한 재인증이 필요합니다. **관리자** > **시작 지점** 서비스 중단을 방지하기 위해 2024년 6월 7일부터 12월 15일 사이에 메뉴에서 사용할 수 있습니다. 자세한 내용은 다음을 참조하십시오. [마이그레이션 FAQ](https://nation.marketo.com/t5/employee-blogs/linkedin-re-authentication-required/ba-p/347794){target="_blank"}.
+>LinkedIn은 Marketo Engage LinkedIn 통합에 사용되는 마케팅 API를 업그레이드하고 있습니다. 이러한 변경 사항을 적용하려면 2024년 6월 7일부터 12월 15일 사이에 **관리자** > **LaunchPoint** 메뉴에서 모든 LinkedIn LaunchPoint 서비스를 다시 인증해야 합니다. 자세한 내용은 [마이그레이션 FAQ](https://nation.marketo.com/t5/employee-blogs/linkedin-re-authentication-required/ba-p/347794){target="_blank"}를 참조하십시오.
 
 >[!NOTE]
 >
@@ -27,19 +27,19 @@ linkedIn 리드 세대 Forms을 사용하여 LinkedIn에서 광고 캠페인을 
 >
 >linkedIn 리드가 회사 API를 사용하여 만든 회사 레코드와 연결된 Marketo의 기존 개인 레코드와 일치하고 Marketo 구독이 CRM에 연결되어 있지 않으면 Marketo Engage이 되지 않습니다.
 
-1. Marketo으로 이동 **관리자**.
+1. Marketo **관리자**(으)로 이동합니다.
 
    ![](assets/image2016-11-29-10-3a50-3a29.png)
 
-1. 다음으로 이동 **시작 지점**, 클릭 **신규** 및 선택 **새 서비스**.
+1. **LaunchPoint**(으)로 이동하고 **새로 만들기**&#x200B;를 클릭한 다음 **새 서비스**&#x200B;를 선택하십시오.
 
    ![](assets/image2016-11-29-10-3a51-3a11.png)
 
-1. 입력 **표시 이름** 서비스에 대해 **LinkedIn 리드 젠** 드롭다운에서 서비스를 참조하고 **다음**.
+1. 서비스에 대한 **표시 이름**&#x200B;을(를) 입력하고 드롭다운에서 **LinkedIn 리드 세대** 서비스를 선택한 후 **다음**&#x200B;을(를) 클릭합니다.
 
    ![](assets/linkedin-lead-gen.png)
 
-1. Marketo은 동일한 브라우저에서 다음 위치에 새 탭을 엽니다. [linkedin.com](https://www.linkedin.com). 통합에 사용할 계정을 사용하여 LinkedIn에 로그인합니다.
+1. Marketo은 동일한 브라우저에서 [linkedin.com](https://www.linkedin.com)에 대한 새 탭을 엽니다. 통합에 사용할 계정을 사용하여 LinkedIn에 로그인합니다.
 
    >[!NOTE]
    >
@@ -47,23 +47,23 @@ linkedIn 리드 세대 Forms을 사용하여 LinkedIn에서 광고 캠페인을 
 
    ![](assets/linkedin-login.png)
 
-1. linkedIn에 로그인한 후 Marketo으로 돌아가서 를 클릭합니다. **승인**.
+1. linkedIn에 로그인한 후 Marketo으로 돌아가서 **승인**&#x200B;을 클릭합니다.
 
    ![](assets/linkedin-lead-gen-authorize.png)
 
-1. 메시지가 표시되면 **허용** Marketo 앱을 LinkedIn에 설치하는 것을 수락합니다.
+1. 메시지가 표시되면 **허용**&#x200B;을 클릭하여 LinkedIn에 Marketo 앱 설치를 수락합니다.
 
    ![](assets/linkedin-marketo-allow.png)
 
-1. 이제 권한이 부여되었음을 알 수 있습니다. 클릭 **다음**.
+1. 이제 권한이 부여되었음을 알 수 있습니다. **다음**&#x200B;을 클릭합니다.
 
    ![](assets/image2017-9-28-7-3a55-3a14.png)
 
    >[!CAUTION]
    >
-   >이 서비스는 승인 후 1년 후에 자동으로 만료됩니다. 다시 액세스하려면 다음을 클릭하십시오. **재인증**. 브라우저 설정에 따라 LinkedIn 암호를 다시 입력해야 할 수 있습니다.
+   >이 서비스는 승인 후 1년 후에 자동으로 만료됩니다. 다시 액세스하려면 **다시 승인**&#x200B;을 클릭하세요. 브라우저 설정에 따라 LinkedIn 암호를 다시 입력해야 할 수 있습니다.
 
-1. linkedIn Lead Gen 리드를에서 Marketo으로 가져올 계정을 선택하고 을 클릭합니다. **다음**.
+1. linkedIn Lead Gen을 Marketo으로 가져올 계정을 선택하고 **다음**&#x200B;을 클릭합니다.
 
    >[!TIP]
    >
@@ -71,17 +71,17 @@ linkedIn 리드 세대 Forms을 사용하여 LinkedIn에서 광고 캠페인을 
 
    ![](assets/linkedin-pages-to-capture.png)
 
-1. 기본 LinkedIn에서 Marketo으로 필드 매핑을 허용하려면 **만들기**. 기본 필드 매핑을 변경하거나, 필드 매핑을 제거하거나, 새 필드 매핑을 추가하려면 아래 모달을 통해 필드별로 수행할 수 있습니다.
+1. 기본 LinkedIn-Marketo 필드 매핑을 허용하려면 **만들기**&#x200B;를 클릭하면 됩니다. 기본 필드 매핑을 변경하거나, 필드 매핑을 제거하거나, 새 필드 매핑을 추가하려면 아래 모달을 통해 필드별로 수행할 수 있습니다.
 
    >[!CAUTION]
    >
-   >Marketo은 두 LinkedIn 필드를 단일 Marketo 필드에 매핑하는 것을 지원합니다. **그러나 다음과 같은 경우에만** 두 LinkedIn 필드의 양식이 동일하지 않습니다. 동일한 LinkedIn 양식의 두 필드를 단일 Marketo 필드에 매핑하면 사람들이 Marketo 데이터베이스를 입력하지 못할 수 있습니다.
+   >Marketo에서는 두 LinkedIn 필드를 단일 Marketo 필드 **에 매핑할 수 있지만 두 LinkedIn 필드가 동일한 양식에 있지 않은 경우에만**&#x200B;할 수 있습니다. 동일한 LinkedIn 양식의 두 필드를 단일 Marketo 필드에 매핑하면 사람들이 Marketo 데이터베이스를 입력하지 못할 수 있습니다.
 
    ![](assets/linkedin-lead-gen-mapping.png)
 
    >[!NOTE]
    >
-   >이미 다음에 저장된 LinkedIn 필드만 해당 [양식 템플릿](https://www.linkedin.com/help/lms/answer/79634) linkedIn Campaign Manager에서 Marketo 필드에 매핑할 수 있는 LinkedIn 필드로 표시됩니다.
+   >linkedIn Campaign Manager의 [양식 서식 파일](https://www.linkedin.com/help/lms/answer/79634)에 이미 저장된 LinkedIn 필드만 Marketo 필드에 매핑할 수 있는 LinkedIn 필드로 표시됩니다.
 
    ![](assets/linkedin-installed-services.png)
 
@@ -93,4 +93,4 @@ linkedIn 리드 세대 Forms을 사용하여 LinkedIn에서 광고 캠페인을 
 
 >[!MORELIKETHIS]
 >
->[Smart Campaign에서 LinkedIn 리드 세대 양식 필터 및 트리거 사용](/help/marketo/product-docs/demand-generation/social/social-functions/use-linkedin-lead-gen-form-filters-and-triggers-in-a-smart-campaign.md)
+>[스마트 캠페인에서 LinkedIn 리드 세대 양식 필터 및 트리거 사용](/help/marketo/product-docs/demand-generation/social/social-functions/use-linkedin-lead-gen-form-filters-and-triggers-in-a-smart-campaign.md)

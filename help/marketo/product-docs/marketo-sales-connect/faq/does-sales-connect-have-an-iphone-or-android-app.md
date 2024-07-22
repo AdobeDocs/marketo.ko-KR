@@ -13,4 +13,4 @@ ht-degree: 0%
 
 # Sales Connect에 iPhone 또는 Android 앱이 있습니까? {#does-sales-connect-have-an-iphone-or-android-app}
 
-현재 Sales Connect에는 iPhone 또는 Android 앱이 없습니다. 그것은 우리가 미래에 추가하기를 바라고 있는 어떤 것입니다.
+현재 Sales Connect에 iPhone 또는 Android 앱이 없습니다. 그것은 우리가 미래에 추가하기를 바라고 있는 어떤 것입니다.

@@ -12,7 +12,7 @@ ht-degree: 0%
 
 # Sales Insight 작업은 이메일 중복 제거를 어떻게 처리합니까? {#how-does-sales-insight-actions-handle-email-de-duping}
 
-다음 작업을 수행하는 경우 [csv 업로드](/help/marketo/product-docs/marketo-sales-insight/actions/people/managing-contacts/import-contacts-via-csv.md) file 을 Sales Insight Actions에 가져오기가 수행되기 전에 CSV에 있는 모든 유사 연락처를 병합합니다.
+[CSV를 Sales Insight 작업에 업로드](/help/marketo/product-docs/marketo-sales-insight/actions/people/managing-contacts/import-contacts-via-csv.md) 하는 경우 가져오기가 수행되기 전에 CSV에 다음과 같은 모든 연락처를 병합합니다.
 
 저희는 비슷한 이메일 주소를 기반으로 합니다. 따라서 동일한 이메일 주소가 두 개 있는 경우 이를 하나의 연락처로 병합합니다.
 

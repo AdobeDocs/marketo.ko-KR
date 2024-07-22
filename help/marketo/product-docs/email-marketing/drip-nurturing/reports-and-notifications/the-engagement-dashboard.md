@@ -6,7 +6,7 @@ exl-id: ba72cadf-416c-4faa-9f0c-aa75fec3c3cf
 feature: Engagement Programs, Reporting
 source-git-commit: d20a9bb584f69282eefae3704ce4be2179b29d0b
 workflow-type: tm+mt
-source-wordcount: '275'
+source-wordcount: '278'
 ht-degree: 0%
 
 ---
@@ -17,17 +17,17 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->참여 점수에는 마지막 세 캐스트의 데이터가 포함됩니다. 새로운 것은 각 출연진으로부터 72시간 후에 계산된다. 에 대해 자세히 알아보기 [참여 점수](/help/marketo/product-docs/email-marketing/drip-nurturing/reports-and-notifications/understanding-the-engagement-score.md).
+>참여 점수에는 마지막 세 캐스트의 데이터가 포함됩니다. 새로운 것은 각 출연진으로부터 72시간 후에 계산된다. [참여 점수](/help/marketo/product-docs/email-marketing/drip-nurturing/reports-and-notifications/understanding-the-engagement-score.md)에 대해 자세히 알아보세요.
 
 ## 참여 대시보드 보기 {#view-the-engagement-dashboard}
 
-참여 프로그램을 선택하고 **보기** > **대시보드**.
+참여 프로그램을 선택하고 **보기** > **대시보드**&#x200B;를 클릭합니다.
 
 ![](assets/image2014-9-15-16-3a42-3a41.png)
 
 >[!TIP]
 >
->다음을 확인하십시오. [참여 스트림 성과 보고서](/help/marketo/product-docs/email-marketing/drip-nurturing/reports-and-notifications/engagement-stream-performance-report.md) 를 참조하십시오.
+>자세한 통계는 [참여 스트림 성능 보고서](/help/marketo/product-docs/email-marketing/drip-nurturing/reports-and-notifications/engagement-stream-performance-report.md)를 확인하십시오.
 
 ## 탈진 위젯 이해 {#understand-the-exhaustion-widget}
 
@@ -37,7 +37,7 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->설정 탭으로 이동하여 콘텐츠 알림이 모두 사용되었는지 확인해야 합니다. **날짜** 위의 그래프를 참조하십시오. 꺼져 있으면 그래프가 다르게 표시됩니다.
+>위의 그래프를 보려면 [설정] 탭으로 이동하여 소진된 콘텐츠 알림이 **켜짐**&#x200B;인지 확인해야 합니다. 꺼져 있으면 그래프가 다르게 표시됩니다.
 
 >[!CAUTION]
 >
@@ -67,8 +67,8 @@ ht-degree: 0%
 
 ![](assets/image2014-9-15-16-3a46-3a58.png)
 
-_최신_ 및 _가장 오래된_ 은(는) 마지막 승인 시간을 기반으로 합니다.
+_가장 최근_ 및 _가장 오래됨_&#x200B;은(는) 마지막 승인 시간을 기반으로 합니다.
 
 >[!NOTE]
 >
->다음에서 자세히 알아보기 [참여 프로그램 만들기](/help/marketo/product-docs/email-marketing/drip-nurturing/creating-an-engagement-program/create-an-engagement-program.md) 깊이 잠수해.
+>자세한 내용은 [참여 프로그램 만들기](/help/marketo/product-docs/email-marketing/drip-nurturing/creating-an-engagement-program/create-an-engagement-program.md)를 참조하세요.

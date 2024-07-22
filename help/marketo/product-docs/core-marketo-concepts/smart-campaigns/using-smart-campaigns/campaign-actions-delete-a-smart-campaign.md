@@ -19,19 +19,19 @@ ht-degree: 0%
 >
 >삭제하기 전에 반드시 확인하십시오. 스마트 캠페인을 삭제하면 복원할 수 없습니다.
 
-1. 로 이동 **[!UICONTROL 마케팅 활동]** 영역입니다.
+1. **[!UICONTROL 마케팅 활동]** 영역으로 이동합니다.
 
    ![](assets/campaign-actions-delete-a-smart-campaign-1.png)
 
-1. 비활성 스마트 캠페인으로 이동합니다. 다음에서 **[!UICONTROL 캠페인 작업]** 드롭다운, 선택 **[!UICONTROL 삭제]**.
+1. 비활성 스마트 캠페인으로 이동합니다. **[!UICONTROL Campaign 작업]** 드롭다운에서 **[!UICONTROL 삭제]**&#x200B;를 선택합니다.
 
    ![](assets/campaign-actions-delete-a-smart-campaign-2.png)
 
    >[!TIP]
    >
-   >활성 스마트 캠페인을 모두 삭제하지 않고 처리를 취소하려면 다음 방법을 배웁니다. [스마트 캠페인 중단](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/using-smart-campaigns/abort-a-smart-campaign.md).
+   >활성 스마트 캠페인을 모두 삭제하지 않고 처리를 취소하려면 [스마트 캠페인을 중단](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/using-smart-campaigns/abort-a-smart-campaign.md)하는 방법을 알아보세요.
 
-1. 클릭 **[!UICONTROL 삭제]** 확인할 수 있습니다.
+1. 확인하려면 **[!UICONTROL 삭제]**&#x200B;를 클릭하세요.
 
    ![](assets/campaign-actions-delete-a-smart-campaign-3.png)
 

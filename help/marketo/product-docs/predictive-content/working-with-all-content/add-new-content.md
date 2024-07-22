@@ -15,7 +15,7 @@ ht-degree: 0%
 
 모든 컨텐츠 페이지에 컨텐츠를 수동으로 추가할 수 있습니다.
 
-1. 다음을 클릭합니다. **콘텐츠 추가** 드롭다운 및 선택 **콘텐츠 추가**.
+1. **콘텐츠 추가** 드롭다운을 클릭하고 **콘텐츠 추가**&#x200B;를 선택합니다.
 
    ![](assets/image2017-10-3-8-3a54-3a9.png)
 
@@ -27,12 +27,12 @@ ht-degree: 0%
 
    ![](assets/add-new-content-categories-updated-hands.png)
 
-1. 클릭 **추가**.
+1. **추가**&#x200B;를 클릭합니다.
 
    ![](assets/all-content-add-hand.png)
 
-1. 이제 새 제목이 **모든 컨텐츠** 페이지를 가리키도록 업데이트하는 중입니다. 아직 예측 콘텐츠에 대해 승인되지 않았습니다.
+1. 이제 새 제목이 **모든 콘텐츠** 페이지에 나타납니다. 아직 예측 콘텐츠에 대해 승인되지 않았습니다.
 
    ![](assets/image2017-10-3-8-3a55-3a21.png)
 
-1. 에 추가하는 방법은 다음과 같습니다 [예측 콘텐츠](/help/marketo/product-docs/predictive-content/working-with-all-content/approve-a-title-for-predictive-content.md).
+1. [예측 콘텐츠](/help/marketo/product-docs/predictive-content/working-with-all-content/approve-a-title-for-predictive-content.md)에 추가하는 방법은 다음과 같습니다.

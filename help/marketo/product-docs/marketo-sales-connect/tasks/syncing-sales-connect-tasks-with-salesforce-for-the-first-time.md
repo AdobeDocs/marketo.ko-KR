@@ -13,7 +13,7 @@ ht-degree: 0%
 
 # 처음으로 Salesforce와 Sales Connect 작업 동기화 {#syncing-sales-connect-tasks-with-salesforce-for-the-first-time}
 
-Sales Connect와 Salesforce 작업 간의 동기화를 처음 켜면 Salesforce 작업을 가져옵니다. 그럴 겁니다 **아님** sales Connect에서 현재 작업을 Salesforce로 푸시합니다. 복잡성과 중복을 줄이기 위해 Sales Connect에서 Salesforce로 동기화되는 작업은 만들어진 작업뿐입니다 *이후* sales Connect를 SFDC와 동기화합니다.
+Sales Connect와 Salesforce 작업 간의 동기화를 처음 켜면 Salesforce 작업을 가져옵니다. Salesforce에 연결된 Sales Connect에서 현재 작업을 **밀어내지**&#x200B;합니다. 복잡함과 중복을 줄이기 위해 Sales Connect에서 Salesforce로 동기화되는 작업은 Sales Connect를 SFDC와 동기화하는 *후*&#x200B;에 만들어진 작업뿐입니다.
 
 Sales Connect 및 SFDC 작업을 동기화할 때 발생하는 상황은 다음과 같습니다.
 
@@ -27,4 +27,4 @@ Sales Connect 및 SFDC 작업을 동기화할 때 발생하는 상황은 다음�
 
 초기 동기화 후 Sales Connect에서 생성, 편집, 완료 또는 삭제하는 모든 작업은 Salesforce의 작업 목록과 동기화됩니다. 그리고 Salesforce에서 생성, 편집, 완료 또는 삭제된 모든 항목은 Sales Connect에서 작업 목록을 업데이트합니다.
 
-이 동기화를 켜려면 [설정 페이지](https://toutapp.com/login) 웹 애플리케이션에서 사용할 수 있습니다.
+이 동기화를 켜려면 웹 응용 프로그램의 [설정 페이지](https://toutapp.com/login)에서 동기화 상자를 선택하면 됩니다.

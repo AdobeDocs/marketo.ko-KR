@@ -13,24 +13,24 @@ ht-degree: 0%
 
 # 투표 설정 사용자 지정 {#customize-poll-settings}
 
-다음을 수행하는 경우 [투표 만들기](/help/marketo/product-docs/demand-generation/social/creating-a-poll/create-a-poll.md), 소셜 프로필당 허용되는 투표 수를 제한할 수 있습니다.
+[설문을 만들기](/help/marketo/product-docs/demand-generation/social/creating-a-poll/create-a-poll.md)할 때 소셜 프로필당 허용되는 투표 수를 제한할 수 있습니다.
 
-1. 다음으로 이동 **마케팅 활동**.
+1. **마케팅 활동**(으)로 이동합니다.
 
    ![](assets/login-marketing-activities.png)
 
-1. 설문을 선택하고 **초안 편집**.
+1. 투표를 선택하고 **초안 편집**&#x200B;을 클릭합니다.
 
    ![](assets/image2014-9-19-10-3a56-3a37.png)
 
-1. 투표 편집기에서 **앱 설정** > **고급 옵션**.
+1. 투표 편집기에서 **앱 설정** > **고급 옵션**(으)로 이동합니다.
 
    ![](assets/image2014-9-19-10-3a56-3a44.png)
 
-1. 옵션을 선택하여 다음을 적용합니다. **투표 한도** 허용되는 최대 투표 수를 입력합니다.
+1. **투표 제한**&#x200B;을 적용하고 허용되는 최대 투표 수를 입력하려면 옵션을 선택하십시오.
 
    ![](assets/image2014-9-19-10-3a56-3a54.png)
 
 >[!TIP]
 >
->다음을 클릭할 수 있습니다. **완료** > **승인 및 닫기** 끝 [투표 게시](/help/marketo/product-docs/demand-generation/social/creating-a-poll/publish-a-poll.md)또는 계속 사용자 지정할 수 있습니다. 예를 들어 다음을 시도해 보십시오. [사후 공유 프롬프트 구성](/help/marketo/product-docs/demand-generation/social/configuring-social-actions/configure-after-share-prompts.md).
+>**완료** > **승인 및 닫기**&#x200B;를 클릭하여 [투표 게시](/help/marketo/product-docs/demand-generation/social/creating-a-poll/publish-a-poll.md)하거나 계속 사용자 지정할 수 있습니다. 예를 들어 [공유 후 프롬프트를 구성](/help/marketo/product-docs/demand-generation/social/configuring-social-actions/configure-after-share-prompts.md)해 보십시오.

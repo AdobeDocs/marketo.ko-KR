@@ -17,11 +17,11 @@ ht-degree: 0%
 
 ## 변환 스크립트 검색 {#retrieve-the-conversion-script}
 
-1. 추천 오퍼 편집기 내에서 **오퍼 세부 정보** 다음을 선택합니다. **고객 JavaScript 이벤트** 이행 목표 드롭다운에서
+1. 추천 오퍼 편집기에서 **오퍼 세부 정보**&#x200B;를 클릭한 다음, 이행 목표 드롭다운에서 **고객 JavaScript 이벤트**&#x200B;를 선택합니다.
 
    ![](assets/image2015-4-20-17-3a22-3a15.png)
 
-1. 회색 상자에 있는 상단 스크립트를 복사하고 `<body>` 태그 사이에 코드를 삽입하지 마십시오. 맨 아래 스크립트는 `<header>` 태그 사이에 코드를 삽입하지 마십시오.
+1. 회색 상자에 있는 위쪽 스크립트를 복사하여 `<body>` 태그 내에 있는 웹 페이지에 배치합니다. 아래 스크립트는 `<header>` 태그 내에 배치됩니다.
 
    ![](assets/image2015-4-20-17-3a29-3a7.png)
 
@@ -31,11 +31,11 @@ ht-degree: 0%
 
 ## 로더 스크립트 검색 {#retrieve-the-loader-script}
 
-1. 트리에서 참조 오퍼를 선택한 다음 를 클릭합니다. **추천 오퍼 작업** 및 **포함 코드**.
+1. 트리에서 참조 오퍼를 선택한 다음 **참조 오퍼 작업** 및 **포함 코드**&#x200B;를 클릭합니다.
 
    ![](assets/image2015-4-20-17-3a34-3a46.png)
 
-1. 마우스 오른쪽 단추 클릭 **헤더 코드** 웹 페이지 헤더에 삽입합니다. 그런 다음 동일한 작업을 수행합니다 **본문 코드**.
+1. **머리글 코드**&#x200B;를 마우스 오른쪽 단추로 클릭하고 웹 페이지 머리글에 삽입합니다. 그런 다음 **본문 코드**&#x200B;에 대해서도 동일한 작업을 수행합니다.
 
    ![](assets/image2015-4-20-20-3a49-3a19.png)
 
@@ -47,7 +47,7 @@ ht-degree: 0%
 
 ## 변환 스크립트 연결 {#connecting-the-conversion-script}
 
-여기에서는 목표 완료를 트리거할 페이지 요소의 특정 HTML ID를 사용하는 JavaScript 함수를 작성합니다. For example:
+여기에서는 목표 완료를 트리거할 페이지 요소의 특정 HTML ID를 사용하는 JavaScript 함수를 작성할 수 있습니다. For example:
 
 `<pre><em><!-- Referral offer conversion script --></em> <script> cf_scripts.afterload(function (){ jQuery("#myButtonId").click(function (){ CF.insight.conversion(); }); }); </script></pre>` `<pre>`
 
@@ -57,6 +57,6 @@ ht-degree: 0%
 
 >[!MORELIKETHIS]
 >
->* [추천 오퍼에 대한 목표 지정](/help/marketo/product-docs/demand-generation/social/referral-offers/specify-goal-for-referral-offer.md)
->* [참조 오퍼 만들기](/help/marketo/product-docs/demand-generation/social/referral-offers/create-a-referral-offer.md)
+>* [참조 오퍼에 대한 목표 지정](/help/marketo/product-docs/demand-generation/social/referral-offers/specify-goal-for-referral-offer.md)
+>* [조회 오퍼 만들기](/help/marketo/product-docs/demand-generation/social/referral-offers/create-a-referral-offer.md)
 >* [웹 사이트에 Social 배포](/help/marketo/product-docs/demand-generation/social/social-functions/deploy-social-on-your-website.md)

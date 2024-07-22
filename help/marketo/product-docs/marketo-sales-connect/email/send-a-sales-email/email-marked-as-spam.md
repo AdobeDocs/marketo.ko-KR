@@ -6,7 +6,7 @@ exl-id: 2cd1ec96-441d-4de7-8709-543d04e20a91
 feature: Marketo Sales Connect
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
-source-wordcount: '227'
+source-wordcount: '219'
 ht-degree: 0%
 
 ---
@@ -18,9 +18,9 @@ ht-degree: 0%
 **설정 확인**
 
 * 사용자 정의 도메인 추적: 모든 추적 링크를 그대로 표시할 수 있습니다.&quot;yourdomain&quot;을 사용하십시오. 일부 이메일 보안에서는 이메일이 &quot;사용자 도메인&quot;에서 발송되지만 링크가 go.toutapp으로 리디렉션되고 있음을 알 수 있습니다. 사용자 정의 도메인 링크 추적을 구현하면 이메일이 올바르게 표시되고 수신자의 받은 편지함에 도달할 확률이 높아집니다.
-* 이메일 게재 채널: 기본적으로 이메일은 ToutApp 서버를 통해 전송됩니다. 자신의 Gmail 또는 사용자 지정 SMTP를 설정함으로써 이메일이 수신자의 받은 편지함에 도착할 수 있는 최상의 기회를 제공할 수 있습니다. [여기를 클릭하십시오.](https://nation.marketo.com/docs/DOC-5080) 을(를) 참조하십시오.
+* 이메일 게재 채널: 기본적으로 이메일은 ToutApp 서버를 통해 전송됩니다. 자신의 Gmail 또는 사용자 지정 SMTP를 설정함으로써 이메일이 수신자의 받은 편지함에 도착할 수 있는 최상의 기회를 제공할 수 있습니다. 필요에 맞는 배달 채널을 선택하는 방법에 대한 자세한 내용을 보려면 [여기를 클릭하세요](https://nation.marketo.com/docs/DOC-5080).
 
-**이메일 동작 확인**
+**메일 동작 확인**
 
 * 전자 메일을 짧고 비공식적으로 유지하고 템플릿을 이전에 작성한 전자 메일로 붙여 넣습니다.
 
@@ -28,4 +28,4 @@ ht-degree: 0%
 
 * 실제 주소가 있는 이메일 서명이 완전히 완료되었는지 확인하십시오.
 
-* 다음을 준수하고 있는지 확인하십시오. [CAN-SPAM 법](https://www.ftc.gov/tips-advice/business-center/guidance/can-spam-act-compliance-guide-business).
+* [CAN-SPAM 법률](https://www.ftc.gov/tips-advice/business-center/guidance/can-spam-act-compliance-guide-business)을 준수하고 있는지 확인하십시오.

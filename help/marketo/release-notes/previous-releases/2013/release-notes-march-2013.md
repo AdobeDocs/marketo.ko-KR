@@ -6,7 +6,7 @@ exl-id: 4036380a-c4a1-44be-8bf3-87253181e5c8
 feature: Release Information
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
-source-wordcount: '225'
+source-wordcount: '230'
 ht-degree: 0%
 
 ---
@@ -17,7 +17,7 @@ ht-degree: 0%
 
 ## Marketo 캘린더 파일 {#marketo-calendar-files}
 
-달력 파일을 다음으로 만들기 **내 토큰** 이벤트 확인 및 미리 알림 이메일에 사용할 수 있습니다. 이 통합 달력 파일(예: .ics 파일)은 내 토큰 및 `{{member.webinar URL}}` 토큰.
+일정 파일을 **내 토큰**(으)로 만들어 이벤트 확인 및 미리 알림 전자 메일에 사용합니다. 이 통합 일정 파일(예: .ics 파일)은 내 토큰 및 `{{member.webinar URL}}` 토큰을 포함한 모든 토큰을 렌더링합니다.
 
 ![](assets/image2014-9-22-15-3a35-3a24.png)
 

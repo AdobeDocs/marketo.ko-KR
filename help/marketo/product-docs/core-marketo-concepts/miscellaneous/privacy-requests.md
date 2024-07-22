@@ -4,8 +4,8 @@ title: 개인 정보 보호 요청
 exl-id: ae61eabc-ad8f-4c7b-8097-838e89c1a3ec
 source-git-commit: 0abb315be0f9cb5f42fa41d72b446de8c2f62c1e
 workflow-type: tm+mt
-source-wordcount: '354'
-ht-degree: 2%
+source-wordcount: '336'
+ht-degree: 0%
 
 ---
 
@@ -19,16 +19,16 @@ ht-degree: 2%
 >
 >* Identity Management 시스템 Adobe에 온보딩된 Marketo Engage 사용자
 >
->**-또는-**
+>**또는-**
 >
 >* 이미 Adobe Identity Management 시스템에 있는 다른 Experience Cloud 제품을 사용하는 Marketo Engage 사용자(예: RT-CDP, B2B 및 B2P 에디션, Audience Manager)입니다.
 
 다음 두 가지 방법으로 Marketo Engage에서 소비자 데이터에 액세스하고 삭제하기 위한 개별 요청을 제출할 수 있습니다.
 
-* 다음을 통해 [PRIVACY SERVICE UI](https://privacyui.cloud.adobe.io/). 설명서 참조 [여기](https://experienceleague.adobe.com/docs/experience-platform/privacy/ui/user-guide.html?lang=ko-KR){target="_blank"}.
-* Privacy Service API를 통해 설명서 참조 [여기](https://developer.adobe.com/experience-platform-apis/references/privacy-service/){target="_blank"} and API information [here](https://developer.adobe.com/experience-platform-apis/){target="_blank"}.
+* [Privacy Service UI](https://privacyui.cloud.adobe.io/)를 통해. 설명서를 [여기](https://experienceleague.adobe.com/docs/experience-platform/privacy/ui/user-guide.html?lang=ko-KR){target="_blank"}에서 확인하세요.
+* Privacy Service API를 통해 설명서 [여기](https://developer.adobe.com/experience-platform-apis/references/privacy-service/){target="_blank"} 및 API 정보 [여기](https://developer.adobe.com/experience-platform-apis/){target="_blank"}를 참조하세요.
 
-다음 [Privacy Service](https://experienceleague.adobe.com/docs/experience-platform/privacy/home.html){target="_blank"} 는 데이터 액세스 요청과 데이터 삭제, 이렇게 두 가지 유형의 요청을 지원합니다.
+[Privacy Service](https://experienceleague.adobe.com/docs/experience-platform/privacy/home.html){target="_blank"}은(는) 데이터 액세스 요청과 데이터 삭제, 이렇게 두 가지 유형의 요청을 지원합니다.
 
 액세스 및 삭제 요청을 만드는 방법을 살펴보겠습니다.
 
@@ -41,7 +41,7 @@ Marketo Engage을 위해 데이터 액세스 및 삭제를 요청하려면 다�
    a. IMS 조직 ID<br/>
 b. 조치를 취하고자 하는 사람의 이메일 주소
 
-   IMS 조직 ID는 @AdobeOrg이 추가된 24자 영숫자 문자열입니다. 마케팅 팀이나 내부 Adobe 시스템 관리자가 조직의 IMS 조직 ID를 모르는 경우에는 다음 위치에서 Adobe 고객 지원 센터에 문의하십시오. `gdprsupport@adobe.com`. Privacy API에 요청을 제출하려면 IMS 조직 ID가 필요합니다.
+   IMS 조직 ID는 @AdobeOrg이 추가된 24자 영숫자 문자열입니다. 마케팅 팀이나 내부 Adobe 시스템 관리자가 조직의 IMS 조직 ID를 모르는 경우에는 Adobe 고객 지원 센터(`gdprsupport@adobe.com`)에 문의하십시오. Privacy API에 요청을 제출하려면 IMS 조직 ID가 필요합니다.
 
 1. Privacy Service에서 Marketo Engage에 액세스 및 삭제 요청을 제출하고 기존 요청의 상태를 확인할 수 있습니다.
 
@@ -49,24 +49,24 @@ b. 조치를 취하고자 하는 사람의 이메일 주소
 
 &quot;companyContexts&quot;:
 
-* &quot;네임스페이스&quot;: **imsOrgID**
-* &quot;값&quot;: `<Your IMS Org ID Value>`
+* &quot;namespace&quot;: **imsOrgID**
+* &quot;value&quot;: `<Your IMS Org ID Value>`
 
 &quot;users&quot;:
 
-* &quot;action&quot;: 다음 중 하나 **액세스** 또는 **삭제**
+* &quot;action&quot;: **access** 또는 **delete**
 * &quot;userIDs&quot;:
-   * &quot;네임스페이스&quot;: **이메일**
-   * &quot;type&quot;: **표준**
-   * &quot;값&quot;: `<Data Subject's Email Address>`
+   * &quot;namespace&quot;: **전자 메일**
+   * &quot;type&quot;: **standard**
+   * &quot;value&quot;: `<Data Subject's Email Address>`
 
 &quot;include&quot;:
 
-* **marketo** (요청에 적용되는 Adobe 제품)
+* **marketo**(요청에 적용되는 Adobe 제품)
 
 &quot;regulation&quot;:
 
-* **gdpr**, **ccpa**, **pdpa**, **lgpd_bra**, 또는 **nzpa_nzl**  (요청에 적용되는 개인정보 보호 규정)
+* **gdpr**, **ccpa**, **pdpa**, **lgpd_bra** 또는 **nzpa_nzl**(요청에 적용되는 개인 정보 보호 규정)
 
 ## 예 1: GDPR 삭제 요청 {#gdpr-delete-request}
 

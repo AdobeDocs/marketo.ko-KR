@@ -6,7 +6,7 @@ exl-id: b8a43086-a4d8-432d-89ac-14c75c6f0609
 feature: Release Information
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
-source-wordcount: '991'
+source-wordcount: '999'
 ht-degree: 0%
 
 ---
@@ -45,12 +45,12 @@ ht-degree: 0%
 
 [Google Chrome용 Marketo Insights](/help/marketo/product-docs/marketo-sales-insight/msi-chrome-plugin/using-marketo-insights-for-google-chrome.md)
 
-Google Mail Sales Insight 확장에 대한 업데이트 릴리스를 발표하게 되어 기쁘게 생각합니다! 다음에서 보기  [Chrome 스토어](https://chrome.google.com/webstore/detail/marketo-insights-for-goog/jjkfbhajlmoeegbjgjipliamplidmbjb).
+Google Mail Sales Insight 확장에 대한 업데이트 릴리스를 발표하게 되어 기쁘게 생각합니다! [Chrome 스토어](https://chrome.google.com/webstore/detail/marketo-insights-for-goog/jjkfbhajlmoeegbjgjipliamplidmbjb)에서 봅니다.
 
 이 업데이트에는 다음과 같은 많은 새로운 기능이 포함되어 있습니다.
 
 * 영업 사원은 참여하기 전에 Google Mail에서 직책, twitter 프로필, 회사 정보, 사진 등을 포함하여 잠재 고객에 대한 관련 정보를 직접 볼 수 있습니다.
-* 영업 사원은 열거나 클릭한 이메일, 온라인 또는 직접 참가 이벤트, 방문한 웹 페이지, 다운로드한 eBook 등과 같은 채널 전반에서 잠재 고객이 관심을 보이는 콘텐츠를 실시간으로 확인할 수 있습니다.
+* 영업 사원은 개설되거나 클릭한 이메일, 온라인 또는 직접 참여한 이벤트, 방문한 웹 페이지, 다운로드한 eBook 등과 같은 채널 전반에서 잠재 고객이 관심을 보이는 콘텐츠를 실시간으로 확인할 수 있습니다.
 * Google Mail을 통해 전송된 이메일은 Marketo에 기록되며 실시간으로 추적됩니다. 이를 통해 영업 사원은 잠재 고객이 이메일을 언제 확인하는지 파악하여 적절한 시기에 후속 조치를 수행할 수 있습니다. 또한 Marketo Sales Insight for Google Mail을 사용하면 영업 사원이 마케팅에서 만든 템플릿을 활용하여 멋진 초대, 오퍼 및 기타 유형의 컨텐츠를 손쉽게 보낼 수 있습니다.
 
 ![](assets/image2015-10-2-14-3a47-3a53.png)
@@ -61,11 +61,11 @@ Google Mail Sales Insight 확장에 대한 업데이트 릴리스를 발표하�
 * [샘플 보내기](/help/marketo/product-docs/mobile-marketing/push-notifications/send-a-push-notification-sample.md)
 * [미리보기](/help/marketo/product-docs/mobile-marketing/push-notifications/preview-a-push-notification.md)
 
-을(를) 통해 푸시 알림을 손쉽게 개인화할 수 있습니다. [토큰](/help/marketo/product-docs/mobile-marketing/push-notifications/configure-mobile-push-notification.md).
+[토큰](/help/marketo/product-docs/mobile-marketing/push-notifications/configure-mobile-push-notification.md)을 사용하여 푸시 알림을 손쉽게 개인화할 수 있습니다.
 
 ![](assets/image2015-10-1-13-3a44-3a58.png)
 
-다음을 수행할 수도 있습니다. [미리보기](/help/marketo/product-docs/mobile-marketing/push-notifications/preview-a-push-notification.md) 또는 를 보냅니다. [샘플](/help/marketo/product-docs/mobile-marketing/push-notifications/send-a-push-notification-sample.md) 고객에게 배포하기 전에 알림을 푸시합니다.
+고객에게 푸시 알림을 배포하기 전에 [미리 보기](/help/marketo/product-docs/mobile-marketing/push-notifications/preview-a-push-notification.md)하거나 [샘플](/help/marketo/product-docs/mobile-marketing/push-notifications/send-a-push-notification-sample.md) 푸시 알림을 보낼 수도 있습니다.
 
 ![](assets/image2015-10-1-13-3a45-3a25.png)
 
@@ -94,10 +94,10 @@ RTP 컨텐츠 분석에서는 일반 웹 방문과 RTP의 컨텐츠 권장 사�
 * RTP의 예측 콘텐츠 엔진에서 콘텐츠를 활성화하여 올바른 방문자에게 최상의 콘텐츠를 자동으로 추천함으로써 콘텐츠 소비를 늘립니다
 * 각 콘텐츠 에셋을 드릴다운하여 보다 심층적인 지표, 그래프 및 성능을 확인합니다
 
-RTP의 에셋 페이지는 이제 Content Analytics와 Content Recommendations으로 분할됩니다.
+RTP의 Assets 페이지는 이제 Content Analytics와 Content Recommendations으로 분할됩니다.
 
-* **콘텐츠 분석:** 검색되고 정의된 모든 웹 콘텐츠의 보기와 직접 리드를 표시하여 최상의 콘텐츠 분석을 지원합니다.
-* **컨텐츠 Recommendations**: RTP의 권장 콘텐츠 및 관련 리드 속성에서 노출 횟수 및 클릭 수를 보여 줍니다. 또한 이 페이지에서 의 콘텐츠 권장 사항을 편집하고 활성화할 수 있습니다. [막대](/help/marketo/product-docs/predictive-content/enabling-predictive-content/enable-the-content-recommendation-bar.md) 및 [리치 미디어](/help/marketo/product-docs/predictive-content/enabling-predictive-content/enable-predictive-content-for-web-rich-media.md) 권장 사항.
+* **콘텐츠 분석:** 검색 및 정의된 모든 웹 콘텐츠의 보기 및 직접 잠재 고객을 표시하여 최상의 콘텐츠 분석을 지원합니다.
+* **컨텐츠 Recommendations**: RTP의 권장 컨텐츠 및 관련 리드 속성의 노출 횟수 및 클릭 수를 표시합니다. [표시줄](/help/marketo/product-docs/predictive-content/enabling-predictive-content/enable-the-content-recommendation-bar.md) 및 [리치 미디어](/help/marketo/product-docs/predictive-content/enabling-predictive-content/enable-predictive-content-for-web-rich-media.md) 권장 사항에 대해 이 페이지에서 콘텐츠 권장 사항을 편집하고 활성화할 수도 있습니다.
 
 * 이 두 페이지의 모든 직접 잠재 고객 데이터는 해당 연도의 시작 (2015년 1월 1일) 이후로 소급하여 업데이트되었습니다.
 
@@ -125,7 +125,7 @@ RTP 캠페인을 복제하면 보다 개인화된 웹 캠페인을 더 빠르고
 
 `<!--[if gte mso 9]> <![endif]-->`
 
-* 빈 테이블 셀을 패딩하지 않음 `&nbsp;`
+* 빈 테이블 셀을 `&nbsp;`(으)로 패딩하지 않음
 
 * HTML 소스 편집기에 추가된 최대화/최소화 단추
 * 이제 기존 테이블 속성이 식별되어 테이블 속성 대화 상자에 표시됩니다

@@ -21,11 +21,11 @@ ht-degree: 0%
 
 사용자 지정 객체를 편집하거나 삭제하려면 사용자 지정 객체 작업 메뉴를 사용합니다.
 
-1. 로 이동 **[!UICONTROL 관리자]** 영역입니다.
+1. **[!UICONTROL 관리자]** 영역으로 이동합니다.
 
    ![](assets/edit-and-delete-a-marketo-custom-object-1.png)
 
-1. 클릭 **[!UICONTROL Marketo 사용자 지정 개체]**.
+1. **[!UICONTROL Marketo 사용자 지정 개체]**&#x200B;를 클릭합니다.
 
    ![](assets/edit-and-delete-a-marketo-custom-object-2.png)
 
@@ -33,29 +33,29 @@ ht-degree: 0%
 
    ![](assets/edit-and-delete-a-marketo-custom-object-3.png)
 
-1. 다음을 클릭합니다. **[!UICONTROL 사용자 지정 개체 작업]** tab 키를 누른 다음 클릭 **[!UICONTROL 개체 편집]**.
+1. **[!UICONTROL 사용자 지정 개체 작업]** 탭을 클릭하고 **[!UICONTROL 개체 편집]**&#x200B;을 클릭합니다.
 
    ![](assets/edit-and-delete-a-marketo-custom-object-4.png)
 
-1. 원하는 대로 변경합니다. 리드 세부 정보 페이지에 객체를 표시하려면 슬라이더를 위로 드래그합니다. 클릭 **[!UICONTROL 저장]**.
+1. 원하는 대로 변경합니다. 리드 세부 정보 페이지에 객체를 표시하려면 슬라이더를 위로 드래그합니다. **[!UICONTROL 저장]**&#x200B;을 클릭합니다.
 
    ![](assets/edit-and-delete-a-marketo-custom-object-5.png)
 
-1. 다음을 승인하십시오. [편집된 개체](/help/marketo/product-docs/administration/marketo-custom-objects/approve-a-custom-object.md).
+1. [편집된 개체](/help/marketo/product-docs/administration/marketo-custom-objects/approve-a-custom-object.md)를 승인하십시오.
 
 ## 사용자 지정 개체 삭제 {#delete-a-custom-object}
 
-사용자 지정 개체를 삭제하는 것은 쉽지만 주의해야 합니다. 사용자 지정 오브젝트는 다른 오브젝트 또는 스마트 리스트에 연결될 수 있습니다. 따라서 Marketo은 다음을 클릭하기 전에 경고 메시지를 표시합니다. **[!UICONTROL 삭제]**.
+사용자 지정 개체를 삭제하는 것은 쉽지만 주의해야 합니다. 사용자 지정 오브젝트는 다른 오브젝트 또는 스마트 리스트에 연결될 수 있습니다. 따라서 Marketo은 **[!UICONTROL 삭제]**&#x200B;를 클릭하기 전에 경고를 표시합니다.
 
 >[!CAUTION]
 >
 >사용자 지정 개체를 삭제한 후에는 복원할 수 없습니다.
 
-1. 로 이동 **[!UICONTROL 관리자]** 영역입니다.
+1. **[!UICONTROL 관리자]** 영역으로 이동합니다.
 
    ![](assets/edit-and-delete-a-marketo-custom-object-6.png)
 
-1. 클릭 **[!UICONTROL Marketo 사용자 지정 개체]**.
+1. **[!UICONTROL Marketo 사용자 지정 개체]**&#x200B;를 클릭합니다.
 
    ![](assets/edit-and-delete-a-marketo-custom-object-7.png)
 
@@ -63,19 +63,19 @@ ht-degree: 0%
 
    ![](assets/edit-and-delete-a-marketo-custom-object-8.png)
 
-1. 클릭 **[!UICONTROL 사용자 지정 개체 작업]** 및 선택 **[!UICONTROL 개체 삭제]**.
+1. **[!UICONTROL 사용자 지정 개체 작업]**&#x200B;을 클릭하고 **[!UICONTROL 개체 삭제]**&#x200B;를 선택합니다.
 
    ![](assets/edit-and-delete-a-marketo-custom-object-9.png)
 
    >[!TIP]
    >
-   >개체를 마우스 오른쪽 단추로 클릭하고 를 선택할 수도 있습니다 **[!UICONTROL 개체 삭제]**.
+   >개체를 마우스 오른쪽 단추로 클릭하고 **[!UICONTROL 개체 삭제]**&#x200B;를 선택할 수도 있습니다.
 
-1. 사용자 지정 개체가 아직 승인되지 않은 초안 양식인 경우 이 경고가 표시됩니다. 확실하다면 다음을 클릭하십시오. **[!UICONTROL 삭제]**.
+1. 사용자 지정 개체가 아직 승인되지 않은 초안 양식인 경우 이 경고가 표시됩니다. 확실하다면 **[!UICONTROL 삭제]**&#x200B;를 클릭하세요.
 
    ![](assets/edit-and-delete-a-marketo-custom-object-10.png)
 
-1. 사용자 지정 개체가 이미 승인된 경우에는 삭제하면 더 큰 위험이 있습니다. 그래서, 당신은 이 더 강한 경고를 받게 될 것입니다. 입력 **[!UICONTROL 알겠습니다]**&#x200B;을(를) 선택합니다. **[!UICONTROL 실행 취소할 수 없음]** 확인란을 선택하고 **[!UICONTROL 삭제]**.
+1. 사용자 지정 개체가 이미 승인된 경우에는 삭제하면 더 큰 위험이 있습니다. 그래서, 당신은 이 더 강한 경고를 받게 될 것입니다. **[!UICONTROL 이해할 수 있음]**&#x200B;을 입력하고 **[!UICONTROL 실행 취소할 수 없음]** 확인란을 선택한 다음 **[!UICONTROL 삭제]**&#x200B;를 클릭합니다.
 
    ![](assets/edit-and-delete-a-marketo-custom-object-11.png)
 

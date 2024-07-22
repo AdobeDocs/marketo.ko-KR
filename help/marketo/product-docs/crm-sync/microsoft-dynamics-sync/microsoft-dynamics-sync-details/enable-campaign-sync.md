@@ -22,19 +22,19 @@ ht-degree: 0%
 >
 >**관리자 권한 필요**
 
-1. 내 Marketo에서 **[!UICONTROL 관리자]**.
+1. 내 Marketo에서 **[!UICONTROL 관리자]**&#x200B;를 클릭합니다.
 
    ![](assets/enable-campaign-sync-1.png)
 
-1. 클릭 **[!UICONTROL Microsoft Dynamics]**.
+1. **[!UICONTROL Microsoft Dynamics]**&#x200B;을(를) 클릭합니다.
 
    ![](assets/enable-campaign-sync-2.png)
 
-1. 동기화 옵션에서 **[!UICONTROL 편집]**.
+1. 동기화 옵션에서 **[!UICONTROL 편집]**&#x200B;을 클릭합니다.
 
    ![](assets/enable-campaign-sync-3.png)
 
-1. 다음 항목 선택 **[!UICONTROL Microsoft Dynamics Campaign 동기화 활성화]** 확인란 및 클릭 **[!UICONTROL 저장]**.
+1. **[!UICONTROL Microsoft Dynamics Campaign 동기화 사용]** 확인란을 선택하고 **[!UICONTROL 저장]**&#x200B;을(를) 클릭합니다.
 
    ![](assets/enable-campaign-sync-4.png)
 

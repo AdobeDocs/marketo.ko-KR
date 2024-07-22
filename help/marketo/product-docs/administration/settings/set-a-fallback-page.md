@@ -19,19 +19,19 @@ ht-degree: 0%
 >
 >**관리자 권한 필요**
 
-1. 로 이동 **[!UICONTROL 관리자]** 영역입니다.
+1. **[!UICONTROL 관리자]** 영역으로 이동합니다.
 
    ![](assets/set-a-fallback-page-1.png)
 
-1. 클릭 **[!UICONTROL 랜딩 페이지]**.
+1. **[!UICONTROL 랜딩 페이지]**&#x200B;를 클릭합니다.
 
    ![](assets/set-a-fallback-page-2.png)
 
-1. 아래 **[!UICONTROL 랜딩 페이지]** 탭을 클릭하고 **[!UICONTROL 편집]**.
+1. **[!UICONTROL 랜딩 페이지]** 탭에서 **[!UICONTROL 편집]**&#x200B;을 클릭합니다.
 
    ![](assets/set-a-fallback-page-3.png)
 
-1. 입력 **[!UICONTROL 대체 페이지]** 대화 상자에서 을(를) 클릭하고 **[!UICONTROL 저장]**.
+1. 대화 상자에 **[!UICONTROL 대체 페이지]**&#x200B;를 입력하고 **[!UICONTROL 저장]**&#x200B;을 클릭합니다.
 
    ![](assets/set-a-fallback-page-4.png)
 

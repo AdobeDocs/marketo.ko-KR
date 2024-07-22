@@ -25,14 +25,14 @@ Campaign Sync의 일부로 사용자는 Dynamics 캠페인의 멤버십에서 �
 
 >[!NOTE]
 >
->**[!UICONTROL Microsoft 캠페인에서 제거]** 은 Marketo에서 흐름 작업을 사용하여 추가된 사람만 제거합니다.
+>**[!UICONTROL Microsoft 캠페인에서 제거]**&#x200B;하면 Marketo에서 흐름 작업을 사용하여 추가된 사람만 제거됩니다.
 
 두 가지 트리거도 있습니다.
 
 * [!UICONTROL Microsoft 캠페인에 추가됨]
 * [!UICONTROL Microsoft 캠페인에서 제거됨]
 
-트리거는 Marketo 흐름 작업 의 작업을 기반으로 실행됩니다.[!UICONTROL Microsoft 캠페인에 추가]&quot; 및 &quot;[!UICONTROL Microsoft 캠페인에서 제거됨].&quot;
+트리거는 Marketo 흐름 작업 &quot;[!UICONTROL Microsoft 캠페인에 추가]&quot; 및 &quot;[!UICONTROL Microsoft 캠페인에서 제거됨]&quot;의 작업을 기반으로 실행됩니다.
 
 >[!NOTE]
 >
@@ -40,5 +40,5 @@ Campaign Sync의 일부로 사용자는 Dynamics 캠페인의 멤버십에서 �
 
 >[!MORELIKETHIS]
 >
->* [Campaign 동기화 활성화](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/microsoft-dynamics-sync-details/enable-campaign-sync.md){target="_blank"}
->* [Dynamics Campaign에서 사람 추가 또는 제거](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/microsoft-dynamics-flow-actions/add-or-remove-people-from-your-dynamics-campaign.md){target="_blank"}
+>* [Campaign 동기화 사용](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/microsoft-dynamics-sync-details/enable-campaign-sync.md){target="_blank"}
+>* [Dynamics Campaign에서 직원 추가 또는 제거](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/microsoft-dynamics-flow-actions/add-or-remove-people-from-your-dynamics-campaign.md){target="_blank"}

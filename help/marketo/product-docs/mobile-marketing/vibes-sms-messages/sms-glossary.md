@@ -2,7 +2,8 @@
 description: SMS 용어집 - Marketo 문서 - 제품 설명서
 title: SMS 용어집
 feature: Mobile Marketing
-source-git-commit: efaf34e8113fc6364655ff01aa788aa62bdd31af
+exl-id: 0c23ca9f-f994-42ae-bd72-7d37289b7a94
+source-git-commit: dae00c6877e638ae60305122f3f3e17b3c922e10
 workflow-type: tm+mt
 source-wordcount: '734'
 ht-degree: 0%
@@ -57,7 +58,7 @@ ht-degree: 0%
   </tr>
   <tr>
     <td>이벤트</td>
-    <td>이벤트는 Vibes 플랫폼에 제출할 수 있고, 메시지 전송을 포함하여 API가 트리거하는 작업을 트리거하는 데 사용할 수 있는 정의된 발생 횟수입니다. 각 이벤트에는 event_type을 포함하여 해당 이벤트와 관련된 데이터가 포함됩니다. 이 데이터는 해당 이벤트가 해당되는 API 트리거 메시지 캠페인을 결정하는 데 사용됩니다. Marketo Engage 시 Webhook을 통해 이벤트 API를 트리거할 수 있습니다. 자세히 알아보기 <a href="https://developer-platform.vibes.com/reference/event-api">이벤트 API 참조</a>.</td>
+    <td>이벤트는 Vibes 플랫폼에 제출할 수 있고, 메시지 전송을 포함하여 API가 트리거하는 작업을 트리거하는 데 사용할 수 있는 정의된 발생 횟수입니다. 각 이벤트에는 event_type을 포함하여 해당 이벤트와 관련된 데이터가 포함됩니다. 이 데이터는 해당 이벤트가 해당되는 API 트리거 메시지 캠페인을 결정하는 데 사용됩니다. Marketo Engage 시 Webhook을 통해 이벤트 API를 트리거할 수 있습니다. <a href="https://developer-platform.vibes.com/reference/event-api">이벤트 API 참조</a>를 통해 자세히 알아보세요.</td>
   </tr>
   <tr>
     <td>키워드</td>
@@ -81,7 +82,7 @@ ht-degree: 0%
   </tr>
   <tr>
     <td>개인 레코드</td>
-    <td>개인 기록은 특정 휴대폰 번호에 대한 데이터 수집입니다. 또한 각 개인 레코드에는 식별을 위해 고유한 person_key가 할당됩니다. Marketo ID는 external_person_id 필드를 사용하여 Vibes에 연결됩니다. 의 개인 레코드에 대해 자세히 알아보기 <a href="https://developer-platform.vibes.com/reference/person-api">개인 API 설명서 보기</a>.</td>
+    <td>개인 기록은 특정 휴대폰 번호에 대한 데이터 수집입니다. 또한 각 개인 레코드에는 식별을 위해 고유한 person_key가 할당됩니다. Marketo ID는 external_person_id 필드를 사용하여 Vibes에 연결됩니다. <a href="https://developer-platform.vibes.com/reference/person-api">개인 API 설명서 보기</a>에서 개인 레코드에 대해 자세히 알아보세요.</td>
   </tr>
   <tr>
     <td>짧은 코드</td>
@@ -101,7 +102,7 @@ ht-degree: 0%
   </tr>
   <tr>
     <td>Vibes 플랫폼</td>
-    <td>캠페인을 관리하기 위해 로그인하는 웹 사이트입니다. 다음으로 이동 <a href="https://nexus.us.vibes.com/">https://nexus.us.vibes.com/</a> 를 클릭하여 Vibes 플랫폼에 액세스합니다.</td>
+    <td>캠페인을 관리하기 위해 로그인하는 웹 사이트입니다. <a href="https://nexus.us.vibes.com/">https://nexus.us.vibes.com/</a>(으)로 이동하여 Vibes 플랫폼에 액세스합니다.</td>
   </tr>
 </tbody>
 </table>

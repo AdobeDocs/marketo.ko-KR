@@ -5,7 +5,7 @@ exl-id: eb854ec8-fabb-477d-977b-9dc7e7d9f24f
 feature: Marketo with Adobe Identity
 source-git-commit: 9e51ece12742152040dbbcb6a1584fba28e863ff
 workflow-type: tm+mt
-source-wordcount: '116'
+source-wordcount: '111'
 ht-degree: 0%
 
 ---
@@ -24,7 +24,8 @@ ht-degree: 0%
 
 ## 사용자 관리 {#user-management}
 
-사용자 추가 및 제거 제품 관리자(또는 시스템 관리자)가 작성합니다.
+사용자 추가 및 제거 제품 관리자(또는 시스템)에 의해 완료됨
+관리자).
 
 [사용자 추가](/help/marketo/product-docs/administration/marketo-with-adobe-identity/add-or-remove-a-user.md#add-a-user){target="_blank"}
 
@@ -34,7 +35,7 @@ ht-degree: 0%
 
 Marketo Engage API 전용 사용자는 Marketo Engage에서 만들고 관리해야 합니다.
 
-[Adobe IMS 활성화 구독에 대한 API 전용 사용자 추가](/help/marketo/product-docs/administration/marketo-with-adobe-identity/add-api-only-user-for-adobe-ims-enabled-subscriptions.md){target="_blank"}
+[Adobe IMS 사용 구독에 대한 API 전용 사용자 추가](/help/marketo/product-docs/administration/marketo-with-adobe-identity/add-api-only-user-for-adobe-ims-enabled-subscriptions.md){target="_blank"}
 
 ## CSV를 통해 사용자 추가 {#add-users-via-csv}
 

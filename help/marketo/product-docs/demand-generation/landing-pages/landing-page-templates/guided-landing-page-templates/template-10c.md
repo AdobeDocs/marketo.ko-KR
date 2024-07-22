@@ -6,14 +6,14 @@ exl-id: e7146ecc-b3c0-4262-bcc4-521bd61acffa
 feature: Landing Pages, Guided Landing Page Templates
 source-git-commit: d20a9bb584f69282eefae3704ce4be2179b29d0b
 workflow-type: tm+mt
-source-wordcount: '63'
+source-wordcount: '51'
 ht-degree: 0%
 
 ---
 
 # 템플릿 10C {#template-10c}
 
-마우스 오른쪽 버튼 클릭 [템플릿 10C 다운로드](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-10c.html)
+마우스 오른쪽 단추를 클릭하여 [템플릿 10C 다운로드](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-10c.html)
 
 ![](assets/image2015-7-27-10-3a57-3a9.png)
 
@@ -26,6 +26,6 @@ ht-degree: 0%
 * 3개의 본문 섹션(선택 사항)
 * 바닥글(선택 사항)
 
-**이 템플릿을 다운로드하려면 아래를 마우스 오른쪽 단추로 클릭하십시오.**
+**이 서식 파일을 다운로드하려면 아래를 마우스 오른쪽 단추로 클릭하세요.**
 
 [템플릿 10C.html](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-10c.html)

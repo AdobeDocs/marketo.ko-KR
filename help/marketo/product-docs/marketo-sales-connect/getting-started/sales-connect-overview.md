@@ -21,13 +21,13 @@ Marketo Sales Connect는 다양한 기능을 갖춘 다각적인 판매 지원 �
 
 ## 라이브 피드 {#the-live-feed}
 
-Sales Rep 가 볼 수 있음 [실시간 참여](/help/marketo/product-docs/marketo-sales-connect/email/the-live-feed/live-feed-overview.md) 를 참조하십시오.
+영업 담당자는 [실시간 참여](/help/marketo/product-docs/marketo-sales-connect/email/the-live-feed/live-feed-overview.md)를 통해 마케팅 및 판매 콘텐츠를 모두 볼 수 있습니다.
 
 ![](assets/engagement.jpg)
 
 ## 개인 세부 사항 보기 {#person-detail-view}
 
-액세스 [자세한 사용자 통계](/help/marketo/product-docs/marketo-sales-connect/people/person-detail-view.md).
+[자세한 사용자 통계](/help/marketo/product-docs/marketo-sales-connect/people/person-detail-view.md)에 액세스합니다.
 
 ![](assets/2018-05-11-at-3.28-pm.jpg)
 
@@ -61,7 +61,7 @@ Sales Rep 가 볼 수 있음 [실시간 참여](/help/marketo/product-docs/marke
   </tr> 
   <tr> 
    <td colspan="1"><p>판매 전화 수신</p></td> 
-   <td colspan="1"><p>Lead 가 다음을 사용하여 영업 사원으로부터 호출을 받았습니다. <a href="/help/marketo/product-docs/marketo-sales-connect/phone/sales-phone-overview.md" rel="nofollow">판매 전화</a>.</p></td> 
+   <td colspan="1"><p>잠재 고객이 <a href="/help/marketo/product-docs/marketo-sales-connect/phone/sales-phone-overview.md" rel="nofollow">판매 전화</a>를 사용하여 영업 사원으로부터 전화를 받았습니다.</p></td> 
   </tr> 
   <tr> 
    <td colspan="1"><p>판매 캠페인에 추가</p></td> 
@@ -80,7 +80,7 @@ Sales Rep 가 볼 수 있음 [실시간 참여](/help/marketo/product-docs/marke
 
 ## 마케팅 캠페인 공유 {#share-marketing-campaigns}
 
-판매 사용자에게 액세스 권한을 제공하는 간단한 스마트 캠페인을 만듭니다. [Marketo 캠페인 데이터](/help/marketo/product-docs/marketo-sales-connect/marketo/make-a-campaign-visible-to-sales-connect-users.md).
+판매 사용자에게 [Marketo 캠페인 데이터](/help/marketo/product-docs/marketo-sales-connect/marketo/make-a-campaign-visible-to-sales-connect-users.md)에 대한 액세스 권한을 제공하는 간단한 스마트 캠페인을 만드십시오.
 
 ![](assets/campaign-is-requested.jpg)
 

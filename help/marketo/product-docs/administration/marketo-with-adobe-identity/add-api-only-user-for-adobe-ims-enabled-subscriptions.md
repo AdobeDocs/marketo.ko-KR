@@ -14,17 +14,17 @@ ht-degree: 0%
 
 Marketo Engage 마케팅 사용자와 관리자는 Adobe Admin Console에서 관리되지만, Marketo Engage API 전용 사용자는 Marketo Engage에서 만들고 관리해야 합니다.
 
-아래 단계에서는 Marketo Engage에서 API 전용 사용자를 추가하는 방법을 설명합니다. 그렇게 하기 전에 다음을 수행해야 합니다. [api 전용 역할을 설정했습니다.](/help/marketo/product-docs/administration/users-and-roles/create-an-api-only-user-role.md).
+아래 단계에서는 Marketo Engage에서 API 전용 사용자를 추가하는 방법을 설명합니다. [API 전용 역할을 설정](/help/marketo/product-docs/administration/users-and-roles/create-an-api-only-user-role.md)해야 합니다.
 
-1. Marketo에서 **[!UICONTROL 관리자]** 및 선택 **[!UICONTROL 사용자 및 역할]**.
+1. Marketo에서 **[!UICONTROL 관리자]**&#x200B;를 클릭하고 **[!UICONTROL 사용자 및 역할]**&#x200B;을 선택합니다.
 
    ![](assets/add-api-only-user-for-adobe-ims-1.png)
 
-1. 클릭 **[!UICONTROL API 전용 사용자 만들기]**.
+1. **[!UICONTROL API 전용 사용자 만들기]**&#x200B;를 클릭합니다.
 
    ![](assets/add-api-only-user-for-adobe-ims-2.png)
 
-1. 다음을 입력하십시오. [!UICONTROL 이메일], [!UICONTROL 이름], 및 [!UICONTROL 성] API 전용 사용자용 다음 항목 선택 [!UICONTROL API만] 사용자에게 할당할 역할입니다. 클릭 **[!UICONTROL API 전용 사용자 만들기]** 완료 시.
+1. API 전용 사용자에 대해 [!UICONTROL 전자 메일], [!UICONTROL 이름] 및 [!UICONTROL 성]을(를) 입력하십시오. 사용자에게 할당할 [!UICONTROL API만] 역할을 선택하십시오. 완료되면 **[!UICONTROL API 전용 사용자 만들기]**&#x200B;를 클릭합니다.
 
    ![](assets/add-api-only-user-for-adobe-ims-3.png)
 

@@ -21,21 +21,21 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->을 사용하여 먼저 이해 [작업 공간 및 개인 분할 영역 이해](/help/marketo/product-docs/administration/workspaces-and-person-partitions/understanding-workspaces-and-person-partitions.md).
+>먼저 [작업 공간 및 개인 파티션 이해](/help/marketo/product-docs/administration/workspaces-and-person-partitions/understanding-workspaces-and-person-partitions.md)를 참조하십시오.
 
-1. 로 이동 **[!UICONTROL 관리자]** 영역입니다.
+1. **[!UICONTROL 관리자]** 영역으로 이동합니다.
 
    ![](assets/create-a-person-partition-1.png)
 
-1. 클릭 **[!UICONTROL 작업 공간 및 파티션]**.
+1. **[!UICONTROL 작업 공간 및 파티션]**&#x200B;을 클릭합니다.
 
    ![](assets/create-a-person-partition-2.png)
 
-1. 로 이동 **[!UICONTROL 개인 파티션]** tab 키를 누른 다음 클릭 **[!UICONTROL 새 사용자 파티션]**.
+1. **[!UICONTROL 개인 파티션]** 탭으로 이동하여 **[!UICONTROL 새 개인 파티션]**&#x200B;을 클릭합니다.
 
    ![](assets/create-a-person-partition-3.png)
 
-1. 파티션 이름을 지정하고 **[!UICONTROL 작업 공간]** 표시되는 위치를 클릭하고 **[!UICONTROL 만들기]**.
+1. 파티션 이름을 지정하고 표시할 **[!UICONTROL 작업 공간]**&#x200B;을 선택한 다음 **[!UICONTROL 만들기]**&#x200B;를 클릭합니다.
 
    ![](assets/create-a-person-partition-4.png)
 

@@ -18,11 +18,11 @@ SOAP API 또는 Munchkin API를 사용하는 경우 사용자 지정 개체 메�
 >
 >일부 Marketo Engage 사용자가 이 기능을 구입한 것은 아닙니다. 자세한 내용은 Adobe 계정 팀(계정 관리자)에 문의하십시오.
 
-1. 로 이동 **[!UICONTROL 관리자]** 영역입니다.
+1. **[!UICONTROL 관리자]** 영역으로 이동합니다.
 
    ![](assets/custom-object-metadata-export-1.png)
 
-1. 클릭 **[!UICONTROL Marketo 사용자 지정 개체]**.
+1. **[!UICONTROL Marketo 사용자 지정 개체]**&#x200B;를 클릭합니다.
 
    ![](assets/custom-object-metadata-export-2.png)
 
@@ -30,7 +30,7 @@ SOAP API 또는 Munchkin API를 사용하는 경우 사용자 지정 개체 메�
 
    ![](assets/custom-object-metadata-export-3.png)
 
-1. 다음을 클릭합니다. **[!UICONTROL 사용자 지정 개체 작업]** 드롭다운 및 선택 **[!UICONTROL 개체 내보내기]**.
+1. **[!UICONTROL 사용자 지정 개체 작업]** 드롭다운을 클릭하고 **[!UICONTROL 개체 내보내기]**&#x200B;를 선택합니다.
 
    ![](assets/custom-object-metadata-export-4.png)
 

@@ -16,15 +16,15 @@ Marketo은 다양한 요구 사항에 맞는 다양한 보고 모듈을 제공�
 
 ## 기본 보고 {#basic-reporting}
 
-다음을 설정할 수 있습니다. [기본 보고서](/help/marketo/product-docs/reporting/basic-reporting/report-types/report-type-overview.md){target="_blank"} 프로그램 내 또는 Analytics 영역. 기본 보고서는 시간대를 유연하게 필터링, 정렬 및 조정할 수 있는 다양한 유형의 기본 보고서로 구성됩니다.
+프로그램 내 또는 Analytics 영역에서 [기본 보고서](/help/marketo/product-docs/reporting/basic-reporting/report-types/report-type-overview.md){target="_blank"}를 설정할 수 있습니다. 기본 보고서는 시간대를 유연하게 필터링, 정렬 및 조정할 수 있는 다양한 유형의 기본 보고서로 구성됩니다.
 
 ## 이메일 인사이트 {#email-insights}
 
-Analytics 및 Sends를 사용하여 가져오기 [강력한 통찰력](/help/marketo/product-docs/reporting/email-insights/email-insights-overview.md){target="_blank"} 이전 데이터의 이메일에 대해.
+분석 및 전송 기능을 사용하여 이전 데이터에서 이메일에 대한 [강력한 인사이트](/help/marketo/product-docs/reporting/email-insights/email-insights-overview.md){target="_blank"}를 얻을 수 있습니다.
 
 ## 성능 인사이트 {#performance-insights}
 
-[성능 인사이트](/help/marketo/product-docs/reporting/performance-insights/performance-insights-overview.md){target="_blank"} 참여, 파이프라인 및 수익 창출에 대한 채널 성능 및 프로그램 성능을 다룹니다.
+[성능 인사이트](/help/marketo/product-docs/reporting/performance-insights/performance-insights-overview.md){target="_blank"}는 참여, 파이프라인 및 수익 창출에 대한 채널 성능 및 프로그램 성능을 다룹니다.
 
 ## 고급 BI Analytics 보고 {#advanced-bi-analytics-reporting}
 

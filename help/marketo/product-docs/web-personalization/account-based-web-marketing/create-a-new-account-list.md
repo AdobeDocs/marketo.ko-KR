@@ -6,7 +6,7 @@ exl-id: 644c5b3b-852a-4dd9-8e55-b434505504ea
 feature: Web Personalization
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
-source-wordcount: '404'
+source-wordcount: '405'
 ht-degree: 0%
 
 ---
@@ -17,19 +17,19 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->이 문서는 기존 Web ABM 고객에게만 적용됩니다. 2016년 9월 이후에 Web ABM을 인수한 경우 의 단계를 따르십시오. [이 문서](https://docs.marketo.com/display/DOCS/Account+Lists#AccountLists-CreateaNewAccountList) 대신,
+>이 문서는 기존 Web ABM 고객에게만 적용됩니다. 2016년 9월 이후에 Web ABM을 획득한 경우 대신 [이 문서](https://docs.marketo.com/display/DOCS/Account+Lists#AccountLists-CreateaNewAccountList)의 단계를 따르세요.
 
 ## 새 계정 목록 만들기 {#create-a-new-account-list-1}
 
-1. 다음으로 이동 **계정 목록**.
+1. **계정 목록**(으)로 이동합니다.
 
    ![](assets/dropdown-account-lists-hand.jpg)
 
-1. 선택 **새로 만들기**.
+1. **새로 만들기**&#x200B;를 선택합니다.
 
    ![](assets/create-new-account-list-hand.jpg)
 
-1. 선택 **찾아보기** csv 파일을 업로드합니다(csv 파일이 기준을 충족하는지 확인). 추가 **이름** 및 **설명**. 클릭 **저장**.
+1. **찾아보기**&#x200B;를 선택하고 CSV 파일을 업로드하십시오(csv 파일이 조건을 충족하는지 확인하십시오). **이름** 및 **설명**&#x200B;을(를) 추가합니다. **저장**&#x200B;을 클릭합니다.
 
    ![](assets/create-account-list-hands.jpg)
 
@@ -64,11 +64,11 @@ ht-degree: 0%
 
 ## 계정 목록 편집 {#edit-an-account-list}
 
-다음에서 **계정 목록** 페이지를 클릭하고 **편집** 아이콘으로 표시됩니다.
+**계정 목록** 페이지에서 목록의 **편집** 아이콘을 클릭합니다.
 
 ![](assets/create-new-account-list-edit.jpg)
 
-선택 **찾아보기** 새 CSV 파일을 업로드하십시오. 이 파일은 원본 파일을 대체합니다. 클릭 **저장**. 새로 업로드한 파일은 Marketo 지원에서 승인할 때까지 보류 중인 상태가 되며, 보류 중인 상태에서는 원래 파일이 활성 상태로 유지됩니다.
+**찾아보기**&#x200B;를 선택하고 새 CSV 파일을 업로드하십시오. 이 파일은 원본 파일을 대체합니다. **저장**&#x200B;을 클릭합니다. 새로 업로드한 파일은 Marketo 지원에서 승인할 때까지 보류 중인 상태가 되며, 보류 중인 상태에서는 원래 파일이 활성 상태로 유지됩니다.
 
 ![](assets/set-account-list-edit-hands.jpg)
 
@@ -76,11 +76,11 @@ CSV 파일이 기존 파일을 대체합니다. 새 파일의 처리가 완료�
 
 ## 명명된 계정 목록 삭제 {#delete-a-named-account-list}
 
-1. 다음에서 **계정 목록** 페이지에서 삭제하려는 목록의 삭제 아이콘을 클릭합니다.
+1. **계정 목록** 페이지에서 삭제하려는 목록의 삭제 아이콘을 클릭합니다.
 
    ![](assets/create-new-account-list-delete.jpg)
 
-1. 목록을 삭제할 것인지 확인하는 메시지가 나타납니다. 클릭 **확인**.
+1. 목록을 삭제할 것인지 확인하는 메시지가 나타납니다. **확인**&#x200B;을 클릭합니다.
 
    ![](assets/delete-notification-hand.jpg)
 

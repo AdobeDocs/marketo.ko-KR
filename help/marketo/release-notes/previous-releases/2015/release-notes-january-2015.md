@@ -17,11 +17,11 @@ ht-degree: 0%
 
 ## Marketing Automation 업데이트 {#marketing-automation-updates}
 
-**모바일 친화적 랜딩 페이지**
+**모바일 랜딩 페이지**
 
-이제 다음을 수행할 수 있습니다. [랜딩 페이지에 대한 모바일 보기 작성](/help/marketo/product-docs/demand-generation/landing-pages/free-form-landing-pages/add-a-mobile-view-for-your-free-form-landing-page.md) 랜딩 페이지 편집기 내에서. 장치에 관계없이 메시지를 효과적으로 전달하고, 콘텐츠를 맞춤화하여 이동 중에도 쉽게 사용할 수 있도록 하여 참여도를 높이십시오. 이 기능은 릴리스 후 일주일 동안 점진적으로 롤아웃됩니다.
+이제 랜딩 페이지 편집기 내에서 [랜딩 페이지의 모바일 보기를 빌드](/help/marketo/product-docs/demand-generation/landing-pages/free-form-landing-pages/add-a-mobile-view-for-your-free-form-landing-page.md)할 수 있습니다. 장치에 관계없이 메시지를 효과적으로 전달하고, 콘텐츠를 맞춤화하여 이동 중에도 쉽게 사용할 수 있도록 하여 참여도를 높이십시오. 이 기능은 릴리스 후 일주일 동안 점진적으로 롤아웃됩니다.
 
-[-랜딩 페이지 안내 비디오-](https://youtu.be/aPQHlG2X6c0)
+[ 랜딩 페이지 워크스루 비디오-](https://youtu.be/aPQHlG2X6c0)
 
 **새 Rest API 호출**
 
@@ -31,17 +31,17 @@ ht-degree: 0%
 * 프로그램 ID로 리드 가져오기
 * 삭제된 리드 가져오기
 
-또한 더 빠른 API 호출을 위해 리드 변경을 비동기식으로 작성하는 새로운 리드 동기화 옵션이 있습니다. 전체 세부 정보는 릴리스 이후에서 사용할 수 있습니다. [https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/home](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/home)
+또한 더 빠른 API 호출을 위해 리드 변경을 비동기식으로 작성하는 새로운 리드 동기화 옵션이 있습니다. 전체 세부 정보는 [https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/home](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/home)에 릴리스된 후에 사용할 수 있습니다.
 
-**이메일 스크립팅 사용자 지정 개체 지원**
+**전자 메일 스크립팅 사용자 지정 개체 지원**
 
 이제 이메일 스크립트 내에서 계정 개체와 연관된 사용자 정의 개체에 액세스할 수 있습니다!
 
-## 실시간 개인화 {#real-time-personalization}
+## Real-Time Personalization {#real-time-personalization}
 
-**Google 및 Facebook에 대한 개인화된 리마케팅**
+**Google 및 Facebook을 위한 개인화된 리마케팅**
 
-리마케팅은 웹 사이트를 방문한 사람에게 광고를 표시합니다. 이제에서 리마케팅 캠페인을 개인화할 수 있습니다. [Google](/help/marketo/product-docs/web-personalization/website-retargeting/personalized-remarketing-in-google.md) 및 [Facebook](/help/marketo/product-docs/web-personalization/website-retargeting/personalized-remarketing-in-facebook.md) 실시간 개인화의 데이터를 사용합니다. 다른 업계의 대상, 명명된 계정 목록, 회사 규모 또는 알려진 잠재 고객의 데이터를 리마케팅합니다.
+리마케팅은 웹 사이트를 방문한 사람에게 광고를 표시합니다. 이제 Real-Time Personalization의 데이터를 사용하여 [Google](/help/marketo/product-docs/web-personalization/website-retargeting/personalized-remarketing-in-google.md) 및 [Facebook](/help/marketo/product-docs/web-personalization/website-retargeting/personalized-remarketing-in-facebook.md)에서 리마케팅 캠페인을 개인화할 수 있습니다. 다른 업계의 대상, 명명된 계정 목록, 회사 규모 또는 알려진 잠재 고객의 데이터를 리마케팅합니다.
 
 [명명된 계정 목록 모듈](/help/marketo/product-docs/web-personalization/account-based-web-marketing/create-a-new-account-list.md)
 
@@ -62,6 +62,6 @@ Named Accounts 모듈의 개선 사항은 사용자의 일치율과 유효성 �
 1. CDN이 없는 비동기 태그
 1. CDN 없이 동기식 태그
 
-최상의 성능을 위해서는 웹 페이지의 헤더 맨 위에 태그를 배치하는 것이 좋습니다 `<head>`. 모든 태그는 [RTP API](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/javascriptapi/rich-media-recommendation). RTP 태그를 배포하는 방법에 대한 자세한 내용은 를 참조하십시오. [여기](/help/marketo/product-docs/web-personalization/rtp-tag-implementation/deploy-the-rtp-javascript.md).
+최상의 성능을 위해 태그를 웹 페이지의 헤더 맨 위에 `<head>` 뒤에 배치하는 것이 좋습니다. 모든 태그는 [RTP API](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/javascriptapi/rich-media-recommendation) 사용을 허용합니다. RTP 태그를 배포하는 방법에 대한 자세한 내용은 [여기](/help/marketo/product-docs/web-personalization/rtp-tag-implementation/deploy-the-rtp-javascript.md)를 참조하십시오.
 
 ![](assets/image2015-1-15-13-3a30-3a45.png)

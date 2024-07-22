@@ -6,7 +6,7 @@ exl-id: a8219a4d-d240-432d-a7ef-bcfa0b4a82fa
 feature: Reporting, Revenue Cycle Analytics
 source-git-commit: d20a9bb584f69282eefae3704ce4be2179b29d0b
 workflow-type: tm+mt
-source-wordcount: '356'
+source-wordcount: '360'
 ht-degree: 0%
 
 ---
@@ -17,7 +17,7 @@ ht-degree: 0%
 
 >[!AVAILABILITY]
 >
->Select Edition 또는 을 사용하는 사용자가 사용할 수 있습니다. [수익 주기 분석](https://www.marketo.com/global-enterprise/marketo-revenue-cycle-analytics/) 추가 기능. 자세한 내용은 영업 담당자에게 문의하십시오.
+>이 기능은 Select Edition 또는 [수익 주기 분석](https://www.marketo.com/global-enterprise/marketo-revenue-cycle-analytics/) 추가 기능이 있는 사용자가 사용할 수 있습니다. 자세한 내용은 영업 담당자에게 문의하십시오.
 
 ## 이메일 클릭 활동 히트 그리드 {#email-click-activity-heat-grid}
 

@@ -6,7 +6,7 @@ exl-id: 30866dc0-cdac-4e73-8dbf-d4b509012269
 feature: Deliverability
 source-git-commit: 4bae0126d6b36720e170bea7b6b973508c855633
 workflow-type: tm+mt
-source-wordcount: '217'
+source-wordcount: '221'
 ht-degree: 1%
 
 ---
@@ -15,11 +15,11 @@ ht-degree: 1%
 
 실제로 Marketo에는 몇 가지 유형의 기본 제공 구독 취소가 있습니다. 모두 이름과 마찬가지로 사용자 개체의 필드로 표시됩니다.
 
-이러한 모든 필드는 Marketo 구독에 내장되어 있습니다. 모두 부울(확인란) 유형입니다. Forms 또는 [데이터 값 변경](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/change-data-value.md) 흐름 단계.
+이러한 모든 필드는 Marketo 구독에 내장되어 있습니다. 모두 부울(확인란) 유형입니다. Forms 또는 [데이터 값 변경](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/change-data-value.md) 흐름 단계에서 사용할 수 있습니다.
 
 ## 주소 삭제 {#unsubscribed}
 
-표준 구독 취소 페이지에서 사용됩니다. 사용자가 이 상자를 선택하거나 이메일에서 구독 취소 링크를 클릭하는 경우, 더 이상 마케팅 이메일을 받지 않습니다. 그러나 그들은 받을 것이다 [운영 이메일](/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/make-an-email-operational.md).
+표준 구독 취소 페이지에서 사용됩니다. 사용자가 이 상자를 선택하거나 이메일에서 구독 취소 링크를 클릭하는 경우, 더 이상 마케팅 이메일을 받지 않습니다. 그러나 [운영 전자 메일](/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/make-an-email-operational.md)을 받게 됩니다.
 
 ## 마케팅 중단 {#marketing-suspended}
 
@@ -35,6 +35,6 @@ ht-degree: 1%
 
 ## 차단 목록에 추가된 {#blocklisted}
 
-[경쟁사와 같은 사용자에게 사용](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/managing-people-in-smart-lists/add-person-to-blocklist.md). 받고 싶은 모든 사람 **아니요** 이메일—운영, 마케팅 등 아무것도 얻지 못해!
+[경쟁사와 같은 사용자에게 사용](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/managing-people-in-smart-lists/add-person-to-blocklist.md). **아니요**&#x200B;개의 전자 메일을 받고 싶은 모든 사람(운영, 마케팅 등) 아무것도 얻지 못해!
 
 ![](assets/image2015-5-18-12-3a6-3a40.png)

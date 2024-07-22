@@ -21,13 +21,13 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->인코딩은 전송 시 혼동을 방지하기 위해 문자를 HTML 코드 버전으로 변환합니다(예: &quot;&amp;&quot;가 (으)로 변경됨). `&amp;`). 자세한 내용은 웹 개발자에게 문의하십시오.
+>인코딩은 전송 시 혼동을 방지하기 위해 문자를 HTML 코드 버전으로 변환합니다(예: &quot;&amp;&quot;가 `&amp;`(으)로 변경됨). 자세한 내용은 웹 개발자에게 문의하십시오.
 
-1. 로 이동 **[!UICONTROL 관리자]** 영역입니다.
+1. **[!UICONTROL 관리자]** 영역으로 이동합니다.
 
    ![](assets/html-encode-tokens-in-emails-1.png)
 
-1. 클릭 **[!UICONTROL 필드 관리]**.
+1. **[!UICONTROL 필드 관리]**&#x200B;를 클릭합니다.
 
    ![](assets/html-encode-tokens-in-emails-2.png)
 
@@ -35,7 +35,7 @@ ht-degree: 0%
 
    ![](assets/html-encode-tokens-in-emails-3.png)
 
-1. 다음 확인: **[!UICONTROL 이메일의 HTML 인코딩 토큰]** 활성화하려면 상자를 선택하고 비활성화하려면 선택을 취소합니다.
+1. 활성화하려면 **[!UICONTROL 전자 메일의 인코딩 토큰 HTML]** 상자를 선택하고 비활성화하려면 선택을 취소하십시오.
 
    ![](assets/html-encode-tokens-in-emails-4.png)
 

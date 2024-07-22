@@ -65,6 +65,6 @@ ht-degree: 3%
  </tbody>
 </table>
 
-**선택적 단계**: 필터링을 활용하려면 원하는 옵션을 선택하면 됩니다.
+**선택적 단계**: 필터링을 사용하려면 원하는 옵션을 선택하면 됩니다.
 
 ![](assets/using-the-global-search-7.png)

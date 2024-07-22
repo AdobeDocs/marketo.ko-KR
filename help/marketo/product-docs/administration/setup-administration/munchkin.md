@@ -13,6 +13,6 @@ ht-degree: 0%
 
 # [!DNL Munchkin] {#munchkin}
 
-[!DNL Munchkin] 는 웹 사이트에 두는 JavaScript 코드 조각입니다. 방문, 클릭 수 및 양식 채우기를 추적합니다. 또한 모든 종류의 멋진 것들을 할 수 있는 풍부한 API도 있습니다.
+[!DNL Munchkin]은(는) 웹 사이트에 입력한 JavaScript 코드 조각입니다. 방문, 클릭 수 및 양식 채우기를 추적합니다. 또한 모든 종류의 멋진 것들을 할 수 있는 풍부한 API도 있습니다.
 
-다음을 확인하십시오. [의 개발자 페이지 [!DNL Munchkin]](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/javascriptapi/lead-tracking){target="_blank"} 자세히 알아보십시오.
+자세히 알아보려면  [!DNL Munchkin]](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/javascriptapi/lead-tracking){target="_blank"}에서 [개발자 페이지를 확인하십시오.

@@ -6,7 +6,7 @@ exl-id: a1178f76-6760-4a4a-9510-f129ee6a9032
 feature: Email Editor
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
-source-wordcount: '259'
+source-wordcount: '260'
 ht-degree: 0%
 
 ---
@@ -21,27 +21,27 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->이메일의 다이내믹 콘텐츠 내에서 변수를 사용하는 것은 트리거 캠페인을 사용할 때만 지원됩니다. 다음과 같습니다. **아님** 일괄 캠페인을 사용할 때 지원됩니다.
+>이메일의 다이내믹 콘텐츠 내에서 변수를 사용하는 것은 트리거 캠페인을 사용할 때만 지원됩니다. 일괄 캠페인을 사용할 때 **지원되지 않음**&#x200B;입니다.
 
 ## 세분화 추가 {#add-segmentation}
 
-1. 다음으로 이동 **마케팅 활동**.
+1. **마케팅 활동**(으)로 이동합니다.
 
    ![](assets/login-marketing-activities.png)
 
-1. 이메일을 선택하고 **초안 편집**.
+1. 이메일을 선택하고 **초안 편집**&#x200B;을 클릭합니다.
 
    ![](assets/1.2.png)
 
-1. 이 예제에서는 제목 줄을 동적으로 만듭니다. 제목 필드를 클릭한 다음, **동적으로 만들기** 단추를 클릭합니다.
+1. 이 예제에서는 제목 줄을 동적으로 만듭니다. 제목 필드를 클릭한 다음 **동적으로 만들기** 단추를 클릭합니다.
 
    ![](assets/1.3.png)
 
    >[!NOTE]
    >
-   >이메일 내의 요소를 동적으로 만들 수도 있습니다. 이렇게 하려면 영역을 선택하고 톱니바퀴 아이콘을 클릭한 다음 를 선택합니다 **동적으로 만들기** (또는 [코드 조각으로 바꾸기](/help/marketo/product-docs/personalization/segmentation-and-snippets/snippets/create-a-snippet.md), 수행하는 작업에 따라 다름)입니다.
+   >이메일 내의 요소를 동적으로 만들 수도 있습니다. 이렇게 하려면 영역을 선택하고 톱니바퀴 아이콘을 클릭한 다음 **동적으로 만들기**(또는 수행 중인 작업에 따라 [조각으로 바꾸기](/help/marketo/product-docs/personalization/segmentation-and-snippets/snippets/create-a-snippet.md))를 선택합니다.
 
-1. 세분화 이름을 입력하고 선택한 다음 를 클릭합니다. **저장**.
+1. 세분화 이름을 입력하고 선택한 다음 **저장**&#x200B;을 클릭합니다.
 
    ![](assets/1.4.png)
 
@@ -75,5 +75,5 @@ ht-degree: 0%
 
 >[!MORELIKETHIS]
 >
->* [다이내믹 콘텐츠를 사용하여 이메일 미리 보기](/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/preview-an-email-with-dynamic-content.md)
+>* [다이내믹 콘텐츠로 이메일 미리 보기](/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/preview-an-email-with-dynamic-content.md)
 >* [랜딩 페이지에서 동적 콘텐츠 사용](/help/marketo/product-docs/demand-generation/landing-pages/free-form-landing-pages/use-dynamic-content-in-a-free-form-landing-page.md)

@@ -1,17 +1,17 @@
 ---
 unique-page-id: 10096583
 description: "차세대 [!DNL Munchkin] 추적 FAQ - Marketo 문서 - 제품 설명서"
-title: "차세대 [!DNL Munchkin] 추적 FAQ"
+title: "다음 세대 [!DNL Munchkin] 추적 FAQ"
 exl-id: 283189ac-c817-479a-b896-91233980608c
 feature: Administration, Munchkin Tracking Code
 source-git-commit: d20a9bb584f69282eefae3704ce4be2179b29d0b
 workflow-type: tm+mt
-source-wordcount: '716'
+source-wordcount: '698'
 ht-degree: 0%
 
 ---
 
-# 차세대 [!DNL Munchkin] 추적 FAQ {#next-generation-munchkin-tracking-faq}
+# 다음 세대 [!DNL Munchkin] 추적 FAQ {#next-generation-munchkin-tracking-faq}
 
 곧 차세대 웹 추적 기술의 단계적 롤아웃을 시작할 예정임을 발표하게 되어 매우 기쁘게 생각합니다.
 
@@ -19,35 +19,35 @@ ht-degree: 0%
 
 * 1분기 릴리스(이미 완료)에서 &quot;익명&quot; 스마트 목록 필터를 제거하고 있습니다.
 * 수집할 수 있는 웹 이벤트(웹 페이지 방문, 웹 페이지에서 링크 클릭)의 수를 늘리고 있습니다
-* 사용자 [!DNL Munchkin] 코드는 변경되지 않으므로 웹 사이트에 업데이트가 필요하지 않습니다
+* [!DNL Munchkin] 코드는 변경되지 않으므로 웹 사이트에 업데이트가 필요하지 않습니다.
 
-## 내 Marketo 구독이 언제 시작됩니까 [!DNL Munchkin] V2? {#when-will-my-marketo-subscription-be-on-munchkin-v}
+## 내 Marketo 구독은 언제 [!DNL Munchkin] V2에 표시됩니까? {#when-will-my-marketo-subscription-be-on-munchkin-v}
 
 아직 정확한 날짜가 없지만 업데이트를 보려면 여기에서 다시 확인하십시오.
 
-## 내 을(를) 변경해야 합니까? [!DNL Munchkin] 내 웹 사이트에서 추적? {#will-i-need-to-make-any-changes-to-my-munchkin-tracking-on-my-website}
+## 웹 사이트에서 내 [!DNL Munchkin] 추적을 변경해야 합니까? {#will-i-need-to-make-any-changes-to-my-munchkin-tracking-on-my-website}
 
-아니요. 다음 [!DNL Munchkin] 추적 코드는 그대로 유지됩니다. 웹 사이트를 변경할 필요가 없습니다.
+아니. [!DNL Munchkin] 추적 코드는 그대로 유지됩니다. 웹 사이트를 변경할 필요가 없습니다.
 
 >[!NOTE]
 >
->이 변경 사항은 웹 개인화(실시간 개인화)에 영향을 주지 않습니다. 익명의 웹 방문자와 알려진 웹 방문자를 계속 식별하고 이러한 방문자에게 실시간으로 콘텐츠를 개인화합니다.
+>이 변경 사항은 웹 Personalization(실시간 Personalization)에 영향을 주지 않습니다. 익명의 웹 방문자와 알려진 웹 방문자를 계속 식별하고 이러한 방문자에게 실시간으로 콘텐츠를 개인화합니다.
 
 ## Marketo이 스마트 목록에서 &quot;익명임&quot; 필터를 제거한 이유는 무엇입니까? {#why-did-marketo-remove-the-is-anonymous-filter-from-smart-lists}
 
 익명의 사용자가 스마트 캠페인과 상호 작용하는 방식을 변경했습니다. 이전에, 그들은 알려진 사람들과 마찬가지로 똑똑한 캠페인을 통과했다. &quot;익명성&quot; 필터는 알려진 사람만 또는 익명의 사람만 캠페인을 통과하도록 지정하는 데 사용되었습니다.
 
-포함 [!DNL Munchkin] V2. 모든 익명 활동을 계속 추적하지만 더 이상 익명 사용자에게 필터를 적용할 수 없습니다. 전환 시점(해당 사용자가 Marketo에 알려짐)에 해당 사용자가 익명일 때 발생한 모든 활동이 개인 활동 로그에 추가되며, 이때 해당 활동은 자격이 있는 캠페인을 통해 흐릅니다.
+[!DNL Munchkin] V2에서는 모든 익명 활동을 계속 추적하지만 더 이상 익명 사용자에게 필터를 적용할 수 없습니다. 전환 시점(해당 사용자가 Marketo에 알려짐)에 해당 사용자가 익명일 때 발생한 모든 활동이 개인 활동 로그에 추가되며, 이때 해당 활동은 자격이 있는 캠페인을 통해 흐릅니다.
 
 스마트 목록(예: 스마트 캠페인 또는 보고서)에서 이 필터를 이미 사용 중인 경우 스마트 목록에서 자동으로 제거되지 않습니다. 자세한 내용은 아래를 참조하십시오.
 
 >[!NOTE]
 >
->**트리거**: 방문 횟수 웹 페이지, 웹 페이지가 가격 책정 페이지임\
->**플로우**: 변경 점수 +10 및 즐거운 순간
->**웹**: 열람한 가격 페이지
+>**트리거**: 방문 웹 페이지, 웹 페이지가 가격 페이지임\
+>**흐름**: 변경 점수 +10 및 즐거운 순간
+>**웹**: 가격 페이지를 조회함
 >
->포함 [!DNL Munchkin] V2, 익명의 사용자가 가격책정 페이지를 방문하는 경우 캠페인을 즉시 입력하지 않습니다. 익명의 인물이 알려질 때, 우리는 그녀에 대해 이 캠페인을 실행할 것입니다. She will:
+>[!DNL Munchkin] V2를 사용하면 익명의 사용자가 가격 책정 페이지를 방문하는 경우 캠페인을 바로 시작하지 않습니다. 익명의 인물이 알려질 때, 우리는 그녀에 대해 이 캠페인을 실행할 것입니다. She will:
 >
 >* 10점 받기
 >
@@ -78,16 +78,16 @@ ht-degree: 0%
 
 [익명 잠재 고객 업그레이드 - Marketo UI 내 변경 사항](https://nation.marketo.com/docs/DOC-2938){target="_blank"}
 
-[익명의 잠재 고객 업그레이드 - 고객 조치 필요](https://nation.marketo.com/docs/DOC-2939){target="_blank"}
+[익명 잠재 고객 업그레이드 - 고객 조치 필요](https://nation.marketo.com/docs/DOC-2939){target="_blank"}
 
 [익명 잠재 고객 업그레이드 - Analytics 보고서](https://nation.marketo.com/docs/DOC-2940){target="_blank"}
 
 [익명 잠재 고객 업그레이드 - 릴리스 일정](https://nation.marketo.com/docs/DOC-2961){target="_blank"}
 
-[익명의 잠재 고객 업그레이드 - 내부](https://nation.marketo.com/docs/DOC-2962){target="_blank"}
+[익명 잠재 고객 업그레이드 - 내부](https://nation.marketo.com/docs/DOC-2962){target="_blank"}
 
-[알려진 잠재 고객으로 익명 잠재 고객 프로모션 - [!DNL Munchkin] V2 비헤이비어](https://nation.marketo.com/docs/DOC-2963){target="_blank"}
+[알려진 잠재 고객으로 익명 잠재 고객 승격 - [!DNL Munchkin] V2 동작](https://nation.marketo.com/docs/DOC-2963){target="_blank"}
 
 ## 질문이 더 있습니다! 어떻게 해야 답을 얻을 수 있습니까? {#i-have-more-questions-how-do-i-get-them-answered}
 
-다음에 문의하십시오. [커뮤니티](https://nation.marketo.com/){target="_blank"}. You can also contact [Marketo Support](https://nation.marketo.com/t5/Support/ct-p/Support){target="_blank"}. 그들은 기꺼이 당신의 질문에 대답할 것입니다.
+[커뮤니티](https://nation.marketo.com/){target="_blank"}에 문의하세요. [Marketo 지원](https://nation.marketo.com/t5/Support/ct-p/Support){target="_blank"}에 문의할 수도 있습니다. 그들은 기꺼이 당신의 질문에 대답할 것입니다.

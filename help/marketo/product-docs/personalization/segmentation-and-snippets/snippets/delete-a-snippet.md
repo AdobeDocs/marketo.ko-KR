@@ -7,7 +7,7 @@ feature: Snippets
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '78'
-ht-degree: 1%
+ht-degree: 0%
 
 ---
 
@@ -19,15 +19,15 @@ ht-degree: 1%
 
 더 이상 필요하지 않은 코드 조각을 삭제합니다.
 
-1. 로 이동 **Design Studio**.
+1. **디자인 스튜디오**(으)로 이동합니다.
 
    ![](assets/image2014-9-16-10-3a43-3a47.png)
 
-1. 코드 조각으로 이동한 다음 **코드 조각 작업** 클릭 **삭제**.
+1. 코드 조각으로 이동한 다음 **코드 조각 작업**&#x200B;에서 **삭제**&#x200B;를 클릭합니다.
 
    ![](assets/image2014-9-16-10-3a43-3a57.png)
 
-1. 클릭 **삭제** 확인 또는 **취소**.
+1. **삭제**&#x200B;를 클릭하여 확인하거나 **취소**&#x200B;하세요.
 
    ![](assets/image2014-9-16-10-3a44-3a8.png)
 

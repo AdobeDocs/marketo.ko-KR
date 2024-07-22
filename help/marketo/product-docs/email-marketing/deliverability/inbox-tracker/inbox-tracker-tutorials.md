@@ -46,9 +46,9 @@ Bird는 이 강력한 도구를 최대한 활용하는 데 도움이 되는 몇 
 
 * [Campaign 추적기 개요](https://veed.io/view/8c92bdc5-4131-498c-a450-a518f2e91b17){target="_blank"}
 
-* [Campaign 추적기(캠페인 검토)](https://veed.io/view/9c8e18a4-5d9e-495c-ad92-83309f40314a){target="_blank"}
+* [캠페인 추적기(캠페인 검토)](https://veed.io/view/9c8e18a4-5d9e-495c-ad92-83309f40314a){target="_blank"}
 
-* [분석 추적기](https://veed.io/view/b458f788-07e1-4553-b743-2d469a356ba2){target="_blank"}
+* [Analytics 추적기](https://veed.io/view/b458f788-07e1-4553-b743-2d469a356ba2){target="_blank"}
 
 * [프로필 모니터](https://veed.io/view/6ca38d3f-df46-4707-a6cb-dde0fbad470b){target="_blank"}
 
@@ -58,7 +58,7 @@ Bird는 이 강력한 도구를 최대한 활용하는 데 도움이 되는 몇 
 
 * [대시보드](https://veed.io/view/287b425f-2ec8-470b-b993-a654b92b759d){target="_blank"}
 
-* [도메인 세부 사항](https://veed.io/view/cb8a4f53-8008-483b-841a-b0878b8bf17b){target="_blank"}
+* [도메인 세부 정보](https://veed.io/view/cb8a4f53-8008-483b-841a-b0878b8bf17b){target="_blank"}
 
 * [정책 관리자](https://veed.io/view/1036967c-0f77-4fd6-8c40-71553bceef3d){target="_blank"}
 

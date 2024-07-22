@@ -6,7 +6,7 @@ exl-id: d6421da9-de89-40ac-8af9-512b5303ace5
 feature: Marketo Sales Connect
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
-source-wordcount: '146'
+source-wordcount: '147'
 ht-degree: 0%
 
 ---
@@ -15,21 +15,21 @@ ht-degree: 0%
 
 >[!PREREQUISITES]
 >
->샌드박스에 대한 연결을 설정할 때 Sales Connect 계정을 Salesforce에 이미 연결할 수 없습니다. 그렇다면, [연결을 끊어야 합니다.](/help/marketo/product-docs/marketo-sales-connect/crm/salesforce-integration/disconnect-salesforce-from-your-sales-connect-account.md) 이 문서의 절차를 수행하기 전에
+>샌드박스에 대한 연결을 설정할 때 Sales Connect 계정을 Salesforce에 이미 연결할 수 없습니다. 이 경우 이 문서의 단계를 따르려면 먼저 [연결을 끊어야 합니다](/help/marketo/product-docs/marketo-sales-connect/crm/salesforce-integration/disconnect-salesforce-from-your-sales-connect-account.md).
 
-1. Sales Connect에서 오른쪽 상단의 톱니바퀴 아이콘을 클릭하고 **설정**.
+1. Sales Connect에서 오른쪽 상단의 톱니바퀴 아이콘을 클릭하고 **설정**&#x200B;을 선택합니다.
 
    ![](assets/one-2.png)
 
-1. 통합에서 **CRM**.
+1. 통합에서 **CRM**&#x200B;을 클릭합니다.
 
    ![](assets/two-2.png)
 
-1. Salesforce 카드에서 **추가 정보**.
+1. Salesforce 카드에서 **추가 정보**&#x200B;를 클릭합니다.
 
    ![](assets/three-2.png)
 
-1. 페이지 하단에서 **샌드박스에 연결**.
+1. 페이지 하단에서 **샌드박스에 연결**&#x200B;을 클릭합니다.
 
    ![](assets/four-2.png)
 
@@ -43,4 +43,4 @@ ht-degree: 0%
 
 >[!MORELIKETHIS]
 >
->[Salesforce 샌드박스에 맞춤화를 설치하는 방법](/help/marketo/product-docs/marketo-sales-connect/crm/salesforce-customization/how-to-install-customizations-in-your-salesforce-sandbox.md)
+>[Salesforce 샌드박스에 사용자 지정 항목을 설치하는 방법](/help/marketo/product-docs/marketo-sales-connect/crm/salesforce-customization/how-to-install-customizations-in-your-salesforce-sandbox.md)

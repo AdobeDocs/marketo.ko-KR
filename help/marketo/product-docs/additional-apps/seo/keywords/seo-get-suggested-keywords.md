@@ -17,23 +17,23 @@ Marketo SEO는 추적해야 하는 키워드를 제안할 수 있습니다. 키�
 
 ## 키워드를 사용하여 키워드 제안 가져오기 {#get-keyword-suggestions-using-a-keyword}
 
-1. 로 이동 **[!UICONTROL 키워드]** 섹션.
+1. **[!UICONTROL 키워드]** 섹션으로 이동합니다.
 
    ![](assets/image2014-9-18-10-3a51-3a41.png)
 
-1. 클릭 **[!UICONTROL 제안 사항 가져오기]**.
+1. **[!UICONTROL 제안 가져오기]**&#x200B;를 클릭합니다.
 
    ![](assets/image2014-9-18-10-3a52-3a42.png)
 
-1. 입력 **[!UICONTROL 키워드]**. 클릭 **[!UICONTROL 키워드 제안]**.
+1. **[!UICONTROL 키워드]**&#x200B;을(를) 입력하십시오. **[!UICONTROL 키워드 제안]**&#x200B;을 클릭합니다.
 
    ![](assets/image2014-9-18-10-3a53-3a14.png)
 
    >[!TIP]
    >
-   >할 수 있다는 걸 알고 있었습니까?  [새 목록 또는 기존 목록에 키워드 추가](/help/marketo/product-docs/additional-apps/seo/understanding-seo/seo-managing-lists.md) 바로 여기요?
+   >[새 목록 또는 기존 목록에 키워드를 추가](/help/marketo/product-docs/additional-apps/seo/understanding-seo/seo-managing-lists.md)할 수 있다는 사실을 알고 계십니까?
 
-1. 추천 키워드를 선택합니다. 클릭 **[!UICONTROL 선택 항목 추가]**.
+1. 추천 키워드를 선택합니다. **[!UICONTROL 선택한 항목 추가]**&#x200B;를 클릭합니다.
 
    ![](assets/image2014-9-18-10-3a54-3a12.png)
 
@@ -45,27 +45,27 @@ Marketo SEO는 추적해야 하는 키워드를 제안할 수 있습니다. 키�
 
 ## URL에서 키워드 제안 가져오기  {#get-keyword-suggestions-from-a-url}
 
-1. 로 이동 **[!UICONTROL 키워드]** 섹션.
+1. **[!UICONTROL 키워드]** 섹션으로 이동합니다.
 
    ![](assets/image2014-9-18-10-3a54-3a26.png)
 
-1. 클릭 **[!UICONTROL 제안 사항 가져오기]**.
+1. **[!UICONTROL 제안 가져오기]**&#x200B;를 클릭합니다.
 
    ![](assets/image2014-9-18-11-3a4-3a43.png)
 
-1. 설정 **[!UICONTROL 제안 방법]** 끝 **[!UICONTROL URL]**.
+1. **[!UICONTROL 제안 방법]**&#x200B;을(를) **[!UICONTROL URL]**(으)로 설정합니다.
 
    ![](assets/image2014-9-18-11-3a4-3a52.png)
 
-1. 입력 **[!UICONTROL URL]** 및 클릭 **[!UICONTROL 키워드 제안]**.
+1. **[!UICONTROL URL]**&#x200B;을(를) 입력하고 **[!UICONTROL 키워드 제안]**&#x200B;을 클릭합니다.
 
    ![](assets/image2014-9-18-11-3a5-3a7.png)
 
    >[!TIP]
    >
-   >할 수 있다는 걸 알고 있었습니까? [새 목록 또는 기존 목록에 키워드 추가](/help/marketo/product-docs/additional-apps/seo/understanding-seo/seo-managing-lists.md) 바로 여기요?
+   >[새 목록 또는 기존 목록에 키워드를 추가](/help/marketo/product-docs/additional-apps/seo/understanding-seo/seo-managing-lists.md)할 수 있다는 사실을 알고 계십니까?
 
-1. 추천 키워드를 선택합니다. 클릭 **[!UICONTROL 선택 항목 추가]**.
+1. 추천 키워드를 선택합니다. **[!UICONTROL 선택한 항목 추가]**&#x200B;를 클릭합니다.
 
    ![](assets/image2014-9-18-11-3a8-3a3.png)
 

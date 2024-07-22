@@ -18,11 +18,11 @@ ht-degree: 0%
 >
 >공유 연락처에 대해서만 작업을 할당할 수 있습니다.
 
-1. 웹 응용 프로그램에서 **관리 센터**.
+1. 웹 응용 프로그램에서 **명령 센터**&#x200B;를 클릭합니다.
 
    ![](assets/assigning-tasks-to-team-members-1.png)
 
-1. 클릭 **작업 추가**.
+1. **작업 추가**&#x200B;를 클릭합니다.
 
    ![](assets/assigning-tasks-to-team-members-2.png)
 
@@ -50,6 +50,6 @@ ht-degree: 0%
 
    ![](assets/assigning-tasks-to-team-members-8.png)
 
-1. 팀원과 관련된 중요한 세부 정보를 추가하고(선택 사항) 을 클릭합니다. **만들기**.
+1. 팀원과 관련된 중요한 세부 정보를 추가하고(선택 사항) **만들기**&#x200B;를 클릭합니다.
 
    ![](assets/assigning-tasks-to-team-members-9.png)

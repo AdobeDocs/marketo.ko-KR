@@ -7,7 +7,7 @@ feature: Forms
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '74'
-ht-degree: 0%
+ht-degree: 2%
 
 ---
 
@@ -15,11 +15,11 @@ ht-degree: 0%
 
 Marketo 양식에서 필드를 쉽게 재정렬할 수 있습니다. 방법은 다음과 같습니다.
 
-1. 다음으로 이동 **마케팅 활동**.
+1. **마케팅 활동**(으)로 이동합니다.
 
    ![](assets/login-marketing-activities.png)
 
-1. 양식을 선택하고 **양식 편집**.
+1. 양식을 선택하고 **양식 편집**&#x200B;을 클릭합니다.
 
    ![](assets/editform.png)
 
@@ -31,4 +31,4 @@ Marketo 양식에서 필드를 쉽게 재정렬할 수 있습니다. 방법은 �
 >
 >서로 옆에 있는 필드를 끌어서 놓을 수도 있습니다. 이렇게 하면 열을 만들 수 있습니다!
 
-잘했어! 넌 이 일에 푹 빠졌어.
+좋습니다! 넌 이 일에 푹 빠졌어.

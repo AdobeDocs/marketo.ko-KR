@@ -17,11 +17,11 @@ ht-degree: 0%
 
 ## 선택 목록 값 추가 {#adding-picklist-values}
 
-1. Salesforce에서 선택 목록 필드 유형에 추가 값을 추가하면 [알림](/help/marketo/product-docs/core-marketo-concepts/miscellaneous/understanding-notifications.md){target="_blank"} 영향을 줄 양식을 식별합니다.
+1. Salesforce에서 선택 목록 필드 유형에 추가 값을 추가하면 영향을 줄 양식을 식별하는 [알림](/help/marketo/product-docs/core-marketo-concepts/miscellaneous/understanding-notifications.md){target="_blank"}을 받게 됩니다.
 
    ![](assets/image2015-1-21-14-3a4-3a7.png)
 
-1. 양식 편집기로 이동하여 [추가 값 추가](/help/marketo/product-docs/demand-generation/forms/form-actions/add-a-country-picklist-to-your-form.md){target="_blank"} 제안 사항 목록으로 이동합니다.
+1. 양식 편집기로 이동하여 제안 목록에 [추가 값을 추가](/help/marketo/product-docs/demand-generation/forms/form-actions/add-a-country-picklist-to-your-form.md){target="_blank"}합니다.
 
 ## 선택 목록 값 제거 {#remove-picklist-values}
 

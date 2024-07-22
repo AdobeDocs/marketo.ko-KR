@@ -14,11 +14,11 @@ ht-degree: 0%
 
 사용자 지정 활동 메타데이터 스키마를 내보내려면 아래 단계를 따르십시오.
 
-1. 내 Marketo에서 **[!UICONTROL 관리자]**.
+1. 내 Marketo에서 **[!UICONTROL 관리자]**&#x200B;를 클릭합니다.
 
    ![](assets/custom-activity-metadata-export-1.png)
 
-1. 클릭 **[!UICONTROL Marketo 사용자 지정 활동]**.
+1. **[!UICONTROL Marketo 사용자 지정 활동]**&#x200B;을 클릭합니다.
 
    ![](assets/custom-activity-metadata-export-2.png)
 
@@ -26,7 +26,7 @@ ht-degree: 0%
 
    ![](assets/custom-activity-metadata-export-3.png)
 
-1. 다음을 클릭합니다. **[!UICONTROL 사용자 지정 활동 작업]** 드롭다운 및 선택 **[!UICONTROL 내보내기 활동]**.
+1. **[!UICONTROL 사용자 지정 활동 작업]** 드롭다운을 클릭하고 **[!UICONTROL 활동 내보내기]**&#x200B;를 선택합니다.
 
    ![](assets/custom-activity-metadata-export-4.png)
 

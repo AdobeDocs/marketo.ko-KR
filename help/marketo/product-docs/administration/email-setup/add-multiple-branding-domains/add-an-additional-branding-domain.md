@@ -17,27 +17,27 @@ ht-degree: 0%
 
 >[!PREREQUISITES]
 >
->다음을 수행해야 합니다. [범용 추적 링크 바꾸기](/help/marketo/product-docs/administration/email-setup/add-multiple-branding-domains/edit-your-default-branding-domain.md) 추가 브랜드 도메인을 추가하기 전에 브랜드 도메인을 사용합니다.
+>브랜드 도메인을 추가하기 전에 일반 추적 링크를 [브랜드 도메인으로 바꾸기](/help/marketo/product-docs/administration/email-setup/add-multiple-branding-domains/edit-your-default-branding-domain.md)해야 합니다.
 
-1. 로 이동 **[!UICONTROL 관리자]** 영역입니다.
+1. **[!UICONTROL 관리자]** 영역으로 이동합니다.
 
    ![](assets/add-an-additional-branding-domain-1.png)
 
-1. 클릭 **[!UICONTROL 이메일]**.
+1. **[!UICONTROL 전자 메일]**&#x200B;을 클릭하세요.
 
    ![](assets/add-an-additional-branding-domain-2.png)
 
-1. 클릭 **[!UICONTROL 추가]** 추가 브랜딩 도메인을 추가합니다.
+1. 추가 브랜딩 도메인을 추가하려면 **[!UICONTROL 추가]**&#x200B;를 클릭하십시오.
 
    ![](assets/add-an-additional-branding-domain-3.png)
 
-1. 새 브랜딩 도메인의 이름을 입력하고 **[!UICONTROL 저장]**.
+1. 새 브랜딩 도메인의 이름을 입력하고 **[!UICONTROL 저장]**&#x200B;을 클릭합니다.
 
    ![](assets/add-an-additional-branding-domain-4.png)
 
 >[!NOTE]
 >
->이 도메인을 주 도메인으로 설정할 수 있으며 기존의 모든 전송되지 않은 이메일이 &quot;기본값&quot;으로 설정되고 새로 생성된 모든 이메일은 기본적으로 주 도메인으로 설정됩니다. 다음을 수행할 수 있습니다. [이메일 기준으로 이 항목 덮어쓰기](/help/marketo/product-docs/administration/email-setup/add-multiple-branding-domains/overwrite-primary-domain-for-emails.md).
+>이 도메인을 주 도메인으로 설정할 수 있으며 기존의 모든 전송되지 않은 이메일이 &quot;기본값&quot;으로 설정되고 새로 생성된 모든 이메일은 기본적으로 주 도메인으로 설정됩니다. [이메일을 기준으로 덮어쓸 수 있습니다](/help/marketo/product-docs/administration/email-setup/add-multiple-branding-domains/overwrite-primary-domain-for-emails.md).
 
 >[!MORELIKETHIS]
 >

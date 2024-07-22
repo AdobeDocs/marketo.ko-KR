@@ -7,7 +7,7 @@ feature: SEO
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '152'
-ht-degree: 0%
+ht-degree: 1%
 
 ---
 
@@ -17,15 +17,15 @@ ht-degree: 0%
 
 ## 페이지 문제 섹션에 노트 추가 {#adding-notes-in-page-issues-section}
 
-1. 로 이동 **[!UICONTROL 페이지]** 섹션.
+1. **[!UICONTROL 페이지]** 섹션으로 이동합니다.
 
    ![](assets/image2014-9-18-13-3a11-3a43.png)
 
-1. 페이지 탭에서 **[!UICONTROL 문제]**.
+1. 페이지 탭에서 **[!UICONTROL 문제]**&#x200B;를 클릭합니다.
 
    ![](assets/image2014-9-18-13-3a12-3a0.png)
 
-1. 메모를 추가하려는 문제 위로 마우스를 가져갑니다. 클릭 **[!UICONTROL 스티커 메모 추가]**.
+1. 메모를 추가하려는 문제 위로 마우스를 가져갑니다. **[!UICONTROL 스티커 메모 추가]**&#x200B;를 클릭합니다.
 
    ![](assets/image2014-9-18-13-3a12-3a6.png)
 
@@ -35,11 +35,11 @@ ht-degree: 0%
 
 >[!TIP]
 >
->작은 을 클릭하여 메모를 삭제할 수 있습니다 **x** 왼쪽 상단에 있습니다.
+>왼쪽 상단에 있는 작은 **x**&#x200B;을(를) 클릭하여 메모를 삭제할 수 있습니다.
 
 ## 페이지 세부 사항 드릴다운에서 메모 추가 {#add-notes-in-page-detail-drill-down}
 
-1. 로 이동 **[!UICONTROL 페이지]** 섹션.
+1. **[!UICONTROL 페이지]** 섹션으로 이동합니다.
 
    ![](assets/image2014-9-18-13-3a12-3a59.png)
 
@@ -47,11 +47,11 @@ ht-degree: 0%
 
    ![](assets/image2014-9-18-13-3a13-3a42.png)
 
-1. 메모를 추가하려는 페이지 문제를 마우스로 가리킨 다음 **[!UICONTROL 메모 추가]**.
+1. 메모를 추가할 페이지 문제를 마우스로 가리킨 다음 **[!UICONTROL 메모 추가]**&#x200B;를 클릭합니다.
 
    ![](assets/image2014-9-18-13-3a13-3a46.png)
 
-1. 메모를 입력합니다. 클릭 **[!UICONTROL 저장]**.
+1. 메모를 입력합니다. **[!UICONTROL 저장]**&#x200B;을 클릭합니다.
 
    ![](assets/image2014-9-18-13-3a14-3a5.png)
 

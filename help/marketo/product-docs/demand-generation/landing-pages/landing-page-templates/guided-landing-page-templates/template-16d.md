@@ -6,14 +6,14 @@ exl-id: 02e2cf8d-b993-44f7-8da3-469dfa39881e
 feature: Landing Pages, Guided Landing Page Templates
 source-git-commit: d20a9bb584f69282eefae3704ce4be2179b29d0b
 workflow-type: tm+mt
-source-wordcount: '62'
+source-wordcount: '50'
 ht-degree: 0%
 
 ---
 
 # 템플릿 16D {#template-16d}
 
-마우스 오른쪽 버튼 클릭 [템플릿 16D 다운로드](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-16d.html)
+마우스 오른쪽 단추를 클릭하여 [템플릿 16D 다운로드](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-16d.html)
 
 ![](assets/image2015-8-14-13-3a12-3a25.png)
 
@@ -27,6 +27,6 @@ ht-degree: 0%
 * 6개의 본문 섹션(선택 사항)
 * 바닥글(선택 사항)
 
-**이 템플릿을 다운로드하려면 아래를 마우스 오른쪽 단추로 클릭하십시오.**
+**이 서식 파일을 다운로드하려면 아래를 마우스 오른쪽 단추로 클릭하세요.**
 
 [템플릿 16D.html](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-16d.html)

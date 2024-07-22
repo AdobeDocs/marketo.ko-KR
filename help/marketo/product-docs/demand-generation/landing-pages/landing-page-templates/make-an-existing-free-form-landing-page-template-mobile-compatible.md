@@ -17,27 +17,27 @@ ht-degree: 0%
 
 ## 템플릿 편집기에서 업그레이드 {#upgrade-from-the-template-editor}
 
-1. 로 이동 **Design Studio**.
+1. **디자인 스튜디오**(으)로 이동합니다.
 
    ![](assets/designstudio-1.png)
 
-1. 선택 **템플릿**.
+1. **템플릿**&#x200B;을(를) 선택하십시오.
 
    ![](assets/image2015-1-22-20-3a20-3a2.png)
 
-1. 템플릿 선택 위치 **모바일 호환 가능** 은(는) **아니요**.
+1. **모바일 호환**&#x200B;이 **아니요**&#x200B;인 템플릿을 선택하십시오.
 
    ![](assets/image2015-1-22-20-3a22-3a24.png)
 
-1. 클릭 **초안 편집**.
+1. **초안 편집**&#x200B;을 클릭합니다.
 
    ![](assets/image2015-1-22-20-3a25-3a36.png)
 
-1. 클릭 **모바일 호환으로 만들기**.
+1. **모바일 호환하기**&#x200B;를 클릭합니다.
 
    ![](assets/image2015-1-22-20-3a30-3a33.png)
 
-1. 클릭 **업그레이드**.
+1. **업그레이드**&#x200B;를 클릭합니다.
 
    ![](assets/image2015-1-22-20-3a32-3a45.png)
 
@@ -69,11 +69,11 @@ ht-degree: 0%
 
 랜딩 페이지를 편집하고 모바일 탭을 클릭하면 템플릿이 업그레이드되지 않은 것을 발견하는 경우가 있습니다. 겁내지 마! 바로 업그레이드 가능합니다.
 
-1. 다음을 클릭합니다. **모바일** 탭.
+1. **모바일** 탭을 클릭합니다.
 
    ![](assets/image2015-1-22-20-3a48-3a19.png)
 
-1. 확인란을 클릭하고 을 클릭합니다. **활성화**.
+1. 확인란을 클릭하고 **활성화**&#x200B;를 클릭합니다.
 
    ![](assets/image2015-1-22-20-3a49-3a34.png)
 
@@ -81,4 +81,4 @@ ht-degree: 0%
    >
    >템플릿의 모바일 버전을 활성화하면 이 템플릿을 사용하는 모든 랜딩 페이지의 초안이 만들어집니다.
 
-멋지다! 이제 다음을 수행할 수 있습니다. [모바일 보기 사용자 지정](/help/marketo/product-docs/demand-generation/landing-pages/free-form-landing-pages/customize-mobile-view-for-your-free-form-landing-page.md) 이 템플릿을 사용하는 모든 랜딩 페이지
+멋지다! 이제 이 템플릿을 사용하는 모든 랜딩 페이지의 [모바일 보기를 사용자 지정](/help/marketo/product-docs/demand-generation/landing-pages/free-form-landing-pages/customize-mobile-view-for-your-free-form-landing-page.md)할 수 있습니다.

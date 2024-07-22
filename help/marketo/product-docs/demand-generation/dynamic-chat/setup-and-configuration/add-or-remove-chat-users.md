@@ -20,11 +20,11 @@ ht-degree: 1%
 
 ## 채팅 사용자 추가 {#add-a-chat-user}
 
-1. 에 로그인합니다 [Adobe Admin Console](https://adminconsole.adobe.com/){target="_blank"}.
+1. [Adobe Admin Console](https://adminconsole.adobe.com/){target="_blank"}에 로그인합니다.
 
    ![](assets/add-or-remove-chat-users-1.png)
 
-1. 클릭 **[!UICONTROL Dynamic Chat]**.
+1. **[!UICONTROL Dynamic Chat]**&#x200B;을 클릭합니다.
 
    ![](assets/add-or-remove-chat-users-2.png)
 
@@ -32,11 +32,11 @@ ht-degree: 1%
    >
    >Marketo 구독이 두 개 이상인 경우 다음 단계 전에 원하는 구독을 선택하십시오.
 
-1. 다음을 클릭합니다. **[!UICONTROL 사용자]** 탭.
+1. **[!UICONTROL 사용자]** 탭을 클릭합니다.
 
    ![](assets/add-or-remove-chat-users-3.png)
 
-1. 다음을 클릭합니다. **[!UICONTROL 사용자 추가]** 단추를 클릭합니다.
+1. **[!UICONTROL 사용자 추가]** 단추를 클릭합니다.
 
    ![](assets/add-or-remove-chat-users-4.png)
 
@@ -44,7 +44,7 @@ ht-degree: 1%
 
    ![](assets/add-or-remove-chat-users-5.png)
 
-1. 다음을 클릭합니다. **+** 아이콘을 클릭하고 원하는 제품 프로필을 선택합니다.
+1. **+** 아이콘을 클릭하고 원하는 제품 프로필을 선택합니다.
 
    ![](assets/add-or-remove-chat-users-6.png)
 
@@ -60,29 +60,29 @@ ht-degree: 1%
 
 새로 추가된 채팅 사용자의 Marketo 역할에 아직 Dynamic Chat 권한이 없는 경우 추가하는 방법은 다음과 같습니다.
 
-1. Marketo에서 **[!UICONTROL 관리자]** 및 선택 **[!UICONTROL 사용자 및 역할]**.
+1. Marketo에서 **[!UICONTROL 관리자]**&#x200B;를 클릭하고 **[!UICONTROL 사용자 및 역할]**&#x200B;을 선택합니다.
 
    ![](assets/add-or-remove-chat-users-8.png)
 
-1. 다음을 클릭합니다. **[!UICONTROL 역할]** 탭.
+1. **[!UICONTROL 역할]** 탭을 클릭합니다.
 
    ![](assets/add-or-remove-chat-users-9.png)
 
-1. 목록에서 수정할 역할을 선택하고 **[!UICONTROL 역할 편집]**.
+1. 목록에서 수정할 역할을 선택하고 **[!UICONTROL 역할 편집]**&#x200B;을 클릭합니다.
 
    ![](assets/add-or-remove-chat-users-10.png)
 
-1. 선택 **[!UICONTROL 액세스 Dynamic Chat]** 및 클릭 **[!UICONTROL 저장]**.
+1. **[!UICONTROL Dynamic Chat 액세스]**&#x200B;를 선택하고 **[!UICONTROL 저장]**&#x200B;을 클릭합니다.
 
    ![](assets/add-or-remove-chat-users-11.png)
 
 ## 채팅 사용자 제거 {#remove-a-chat-user}
 
-1. 에 로그인합니다 [Adobe Admin Console](https://adminconsole.adobe.com/){target="_blank"}.
+1. [Adobe Admin Console](https://adminconsole.adobe.com/){target="_blank"}에 로그인합니다.
 
    ![](assets/add-or-remove-chat-users-12.png)
 
-1. 클릭 **[!UICONTROL Dynamic Chat]**.
+1. **[!UICONTROL Dynamic Chat]**&#x200B;을 클릭합니다.
 
    ![](assets/add-or-remove-chat-users-13.png)
 
@@ -90,7 +90,7 @@ ht-degree: 1%
    >
    >Marketo 구독이 두 개 이상인 경우 다음 단계 전에 원하는 구독을 선택하십시오.
 
-1. 다음을 클릭합니다. **[!UICONTROL 사용자]** 탭.
+1. **[!UICONTROL 사용자]** 탭을 클릭합니다.
 
    ![](assets/add-or-remove-chat-users-14.png)
 
@@ -98,11 +98,11 @@ ht-degree: 1%
 
    ![](assets/add-or-remove-chat-users-15.png)
 
-1. 다음을 클릭합니다. **[!UICONTROL 사용자 제거]** 단추를 클릭합니다.
+1. **[!UICONTROL 사용자 제거]** 단추를 클릭합니다.
 
    ![](assets/add-or-remove-chat-users-16.png)
 
-1. 클릭 **[!UICONTROL 사용자 제거]** 확인할 수 있습니다.
+1. 확인하려면 **[!UICONTROL 사용자 제거]**&#x200B;를 클릭하세요.
 
    ![](assets/add-or-remove-chat-users-17.png)
 

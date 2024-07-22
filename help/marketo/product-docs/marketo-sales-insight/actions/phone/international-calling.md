@@ -5,8 +5,8 @@ exl-id: a6ef6f28-865b-42e7-94e5-32874eb9ecb4
 feature: Sales Insight Actions
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
-source-wordcount: '339'
-ht-degree: 10%
+source-wordcount: '395'
+ht-degree: 5%
 
 ---
 
@@ -60,15 +60,15 @@ Sales Dialer를 사용하면 국제적으로 쉽게 의사 소통할 수 있습�
   </tr> 
   <tr> 
    <td>그리스 </td> 
-   <td>30, 3021</td> 
+   <td>30,3021</td> 
   </tr> 
   <tr> 
    <td>헝가리</td> 
-   <td>36, 361</td> 
+   <td>36,361</td> 
   </tr> 
   <tr> 
    <td colspan="1">아일랜드 </td> 
-   <td colspan="1">353, 3531</td> 
+   <td colspan="1">353,3531</td> 
   </tr> 
   <tr> 
    <td>이스라엘</td> 
@@ -80,7 +80,7 @@ Sales Dialer를 사용하면 국제적으로 쉽게 의사 소통할 수 있습�
   </tr> 
   <tr> 
    <td colspan="1">카자흐스탄 </td> 
-   <td colspan="1">76, 77</td> 
+   <td colspan="1">76,77</td> 
   </tr> 
   <tr> 
    <td colspan="1">한국</td> 
@@ -92,7 +92,7 @@ Sales Dialer를 사용하면 국제적으로 쉽게 의사 소통할 수 있습�
   </tr> 
   <tr> 
    <td colspan="1">멕시코</td> 
-   <td colspan="1">52, 5233, 5255, 5281</td> 
+   <td colspan="1">52,5233,5255,5281</td> 
   </tr> 
   <tr> 
    <td>모나코</td> 
@@ -112,7 +112,7 @@ Sales Dialer를 사용하면 국제적으로 쉽게 의사 소통할 수 있습�
   </tr> 
   <tr> 
    <td colspan="1">폴란드 </td> 
-   <td colspan="1">48, 4832</td> 
+   <td colspan="1">48,4832</td> 
   </tr> 
   <tr> 
    <td colspan="1">포르투갈 </td> 
@@ -120,7 +120,7 @@ Sales Dialer를 사용하면 국제적으로 쉽게 의사 소통할 수 있습�
   </tr> 
   <tr> 
    <td colspan="1">싱가포르 </td> 
-   <td colspan="1">65, 658, 659</td> 
+   <td colspan="1">65,658,659</td> 
   </tr> 
   <tr> 
    <td colspan="1">스페인 </td> 
@@ -132,7 +132,7 @@ Sales Dialer를 사용하면 국제적으로 쉽게 의사 소통할 수 있습�
   </tr> 
   <tr> 
    <td colspan="1">영국</td> 
-   <td colspan="1">44, 44203, 44207, 44208</td> 
+   <td colspan="1">44,44203,44207,44208</td> 
   </tr> 
   <tr> 
    <td>미국</td> 
@@ -143,7 +143,7 @@ Sales Dialer를 사용하면 국제적으로 쉽게 의사 소통할 수 있습�
 
 ## 국제 전화 FAQ {#international-calling-faq}
 
-**Sales Insight Actions에서 모든 국가에 대한 국제 전화 상담을 지원하지 않는 이유는 무엇입니까?**
+**Sales Insight Actions에서 모든 국가에 대한 국제 전화 걸기를 지원하지 않는 이유는 무엇입니까?**
 
 오늘은 추가 비용 없이 Sales Dialer로 국제 전화를 할 수 있습니다. 고객이 자신의 잠재 고객 및 고객과 쉽게 소통할 수 있도록 지원하고자 표준 요금 국제 전화 지원을 출시했습니다. 당사는 유럽, 아시아 및 기타 주요 목적지의 지역에 대해 미국 및 캐나다 이외의 34개국에 대한 취재를 제공합니다. 고객의 피드백을 바탕으로 지속적으로 확장해 나갈 것입니다.
 
@@ -151,10 +151,10 @@ Sales Dialer를 사용하면 국제적으로 쉽게 의사 소통할 수 있습�
 
 다음은 현재 및 와의 통화를 지원하지 않는 국가 목록입니다. 전화를 건 국가가 지원되면, 우리가 지원하는 다른 국가에도 전화를 걸 수 있습니다.
 
-**영업 전화 걸기로 호출할 수 없는 특정 유형의 번호가 있습니까?**
+**판매 전화 걸기로 호출할 수 없는 특정 유형의 숫자가 있습니까?**
 
 예. 우리는 프리미엄 요금 서비스 전화 번호 (예: 미국의 경우 900 번호, 영국의 경우 +449 번호)에 대한 호출을 지원하지 않습니다. 일반적으로 우리는 소수의 다른 프리미엄 노선뿐만 아니라 공유된 비용 전화번호로의 전화도 지원하지 않습니다.
 
-**국제전화를 걸 때 현지를 이용할 수 있나요?**
+**국제전화를 걸 때 현지의 위치를 사용할 수 있습니까?**
 
-아니요. [로컬 유무](/help/marketo/product-docs/marketo-sales-insight/actions/phone/local-presence.md) 는 미국 번호에만 사용할 수 있습니다.
+아니. [로컬 현재 상태](/help/marketo/product-docs/marketo-sales-insight/actions/phone/local-presence.md)는 미국 번호에만 사용할 수 있습니다.

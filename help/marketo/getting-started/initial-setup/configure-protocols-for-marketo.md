@@ -6,7 +6,7 @@ exl-id: cf2fd4ac-9229-4e52-bb68-5732b44920ef
 feature: Getting Started
 source-git-commit: 0330fd1b7bcc6d5fc21e5e591b65e8d6d5d3efee
 workflow-type: tm+mt
-source-wordcount: '2136'
+source-wordcount: '2149'
 ht-degree: 0%
 
 ---
@@ -29,18 +29,18 @@ ht-degree: 0%
 
 마케팅 팀에서 새 CNAME 레코드에 대한 요청을 두 개 보냈어야 합니다. 첫 번째는 랜딩 페이지 URL에 대한 것이므로 랜딩 페이지는 Marketo Engage(실제 호스트)가 아닌 도메인을 반영하는 URL에 표시됩니다. 두 번째는 Marketo Engage에서 보내는 이메일에 포함된 추적 링크에 대한 것입니다.
 
-`1` **랜딩 페이지용 CNAME 추가**
+`1` **랜딩 페이지의 CNAME 추가**
 
-DNS 레코드로 보낸 랜딩 페이지 CNAME을 추가합니다. `[YourLandingPageCNAME]` 는 Marketo Engage 랜딩 페이지에 할당된 고유한 계정 문자열을 가리킵니다. 도메인 등록자의 사이트에 로그인하고 랜딩 페이지 CNAME 및 계정 문자열을 입력합니다. 일반적으로 다음과 같은 세 가지 필드가 포함됩니다.
+`[YourLandingPageCNAME]`이(가) Marketo Engage 랜딩 페이지에 할당된 고유한 계정 문자열을 가리키도록 DNS 레코드에 보낸 랜딩 페이지 CNAME을 추가합니다. 도메인 등록자의 사이트에 로그인하고 랜딩 페이지 CNAME 및 계정 문자열을 입력합니다. 일반적으로 다음과 같은 세 가지 필드가 포함됩니다.
 
-* 별칭: Enter `[YourLandingPageCNAME]` (마케팅에서 제공)
+* 별칭: `[YourLandingPageCNAME]` 입력(마케팅에서 제공)
 * 유형: CNAME
-* 지정: 입력 `[MunchkinID].mktoweb.com` (마케팅에서 제공)
+* 가리킨 항목: `[MunchkinID].mktoweb.com` 입력(마케팅에서 제공)
 
-`2` **이메일 추적 링크에 대한 CNAME 추가**
+`2` **전자 메일 추적 링크에 CNAME 추가**
 
-CNAME 마케팅이 귀하에게 보낸 이메일을 추가하여 `[YourEmailCNAME]` 포인트 대상 [MktoTrackingLink]: Marketo Engage이 할당한 기본 추적 링크로서, 다음과 같은 형식입니다.\
-`[YourEmailCNAME].[YourDomain].com` CNAME `[MktoTrackingLink]`
+`[YourEmailCNAME]`이(가) Marketo Engage이 할당한 기본 추적 링크인 [MktoTrackingLink]을(를) 다음 형식으로 가리키도록 보낸 전자 메일 CNAME 마케팅을 추가합니다.\
+CNAME `[MktoTrackingLink]`의 `[YourEmailCNAME].[YourDomain].com`
 
 For example:
 
@@ -48,13 +48,13 @@ For example:
 
 >[!NOTE]
 >
->`[MktoTrackingLink]` 은(는) 기본 브랜딩 도메인이어야 합니다.
+>`[MktoTrackingLink]`은(는) 기본 브랜딩 도메인이어야 합니다.
 
 `3` **마케팅 팀에 알림**
 
 이 프로세스를 완료하면 마케팅 팀에 알립니다.
 
-`4` **연락처 [Adobe 지원](https://nation.marketo.com/t5/support/ct-p/Support){target="_blank"} 을 클릭하여 SSL 인증서 프로비저닝 프로세스를 시작합니다.**
+`4` **SSL 인증서 프로비저닝 프로세스를 시작하려면 [Adobe 지원 센터](https://nation.marketo.com/t5/support/ct-p/Support){target="_blank"}에 문의하십시오.**
 
 이 프로세스를 완료하는 데 영업일 기준으로 최대 3일이 소요될 수 있습니다.
 
@@ -82,11 +82,11 @@ For example:
 
 199.15.212.0/22
 
-일부 스팸 방지 시스템은 할당에 IP 주소 대신 이메일 반환 경로 필드를 사용합니다. 이러한 경우, 가장 좋은 접근 방법은 &#39;허용 목록 &#39; 입니다.&#42;Marketo Engage은 여러 사서함 하위 도메인을 사용하므로 .mktomail.com&#39; From 주소를 기반으로 하는 기타 스팸 방지 시스템 허용 목록에 추가하다. 이러한 경우 마케팅 그룹이 사람/리드와 통신하는 데 사용하는 모든 전송(&#39;보낸 사람&#39;) 도메인을 포함해야 합니다.
+일부 스팸 방지 시스템은 할당에 IP 주소 대신 이메일 반환 경로 필드를 사용합니다. 이 경우 Marketo Engage은 여러 사서함 하위 도메인을 사용하므로 가장 좋은 방법은 &#39;&#42;.ktomail.com&#39; 허용 목록입니다. From 주소를 기반으로 하는 기타 스팸 방지 시스템 허용 목록에 추가하다. 이러한 경우 마케팅 그룹이 사람/리드와 통신하는 데 사용하는 모든 전송(&#39;보낸 사람&#39;) 도메인을 포함해야 합니다.
 
 >[!NOTE]
 >
->Postini는 고유한 기술을 사용하며 허용 목록에 추가 IP 범위가 필요합니다. 다음을 참조하십시오 [Postini와의 허용 목록에 추가](https://nation.marketo.com/docs/DOC-1066).
+>Postini는 고유한 기술을 사용하며 허용 목록에 추가 IP 범위가 필요합니다. [Postini로 허용 목록에 추가](https://nation.marketo.com/docs/DOC-1066)을 참조하세요.
 
 ## 3단계: SPF 및 DKIM 설정 {#step-set-up-spf-and-dkim}
 
@@ -94,21 +94,21 @@ For example:
 
 1. SPF를 설정하려면 DNS 항목에 다음 줄을 추가하십시오.
 
-   `[CompanyDomain]` TXT v=spf1 mx ip4:`[CorpIP]`\
+   `[CompanyDomain]` IN TXT v=spf1 mx ip4:`[CorpIP]`\
    include: mktomail.com ~all
 
    DNS 항목에 기존 SPF 레코드가 이미 있는 경우 다음을 추가하기만 하면 됩니다.\
    포함: mktomail.com
 
-   CompanyDomain을 웹 사이트의 주 도메인으로 바꾸기(예: &quot;`(company.com/)`&quot;) 및 회사 이메일 서버의 IP 주소가 있는 CorpIP(예: &quot;255.255.255.255&quot;). Marketo Engage을 통해 여러 도메인에서 이메일을 보내려면 IT 직원이 각 도메인에 대해 한 줄에 이 줄을 추가하도록 해야 합니다.
+   CompanyDomain을 웹 사이트의 주 도메인(예: &quot;`(company.com/)`&quot;)으로 바꾸고 CorpIP를 회사 전자 메일 서버의 IP 주소(예: &quot;255.255.255.255&quot;). Marketo Engage을 통해 여러 도메인에서 이메일을 보내려면 IT 직원이 각 도메인에 대해 한 줄에 이 줄을 추가하도록 해야 합니다.
 
 1. DKIM의 경우 설정하려는 각 도메인에 대해 DNS 리소스 레코드를 만듭니다. 다음은 서명할 각 도메인의 호스트 레코드 및 TXT 값입니다.
 
-   `[DKIMDomain1]`: 호스트 레코드: `[HostRecord1]` 그리고 TXT 값은 `[TXTValue1]`.
+   `[DKIMDomain1]`: 호스트 레코드는 `[HostRecord1]`이고 TXT 값은 `[TXTValue1]`입니다.
 
-   `[DKIMDomain2]`: 호스트 레코드: `[HostRecord2]` 그리고 TXT 값은 `[TXTValue2]`.
+   `[DKIMDomain2]`: 호스트 레코드는 `[HostRecord2]`이고 TXT 값은 `[TXTValue2]`입니다.
 
-   다음 단계를 수행하여 설정한 각 DKIMDomain의 HostRecord 및 TXTValue를 복사합니다. [여기에 있는 지침](/help/marketo/product-docs/email-marketing/deliverability/set-up-a-custom-dkim-signature.md){target="_blank"}. IT 직원이 이 단계를 완료한 후 관리 > 이메일 > DKIM에서 각 도메인을 확인하는 것을 잊지 마십시오.
+   [여기](/help/marketo/product-docs/email-marketing/deliverability/set-up-a-custom-dkim-signature.md){target="_blank"}의 지침을 따라 설정한 각 DKIMDomain의 HostRecord 및 TXTValue를 복사합니다. IT 직원이 이 단계를 완료한 후 관리 > 이메일 > DKIM에서 각 도메인을 확인하는 것을 잊지 마십시오.
 
 ## 4단계: DMARC 설정 {#set-up-dmarc}
 
@@ -159,7 +159,7 @@ DMARC는 SPF/DKIM에 실패한 이메일에 대한 보고서를 받는 기능을
 
 * 최소 레코드: `v=DMARC1; p=none`
 
-* 보고서를 수신할 이메일 주소로 직접 리디렉션하는 레코드: `v=DMARC1; p=none;  rua=mailto:emaill@domain.com;     ruf=mailto:email@domain.com`
+* 보고서를 받을 전자 메일 주소로 리디렉션하는 레코드: `v=DMARC1; p=none;  rua=mailto:emaill@domain.com;     ruf=mailto:email@domain.com`
 
 ### DMARC 태그 및 작업 {#dmarc-tags-and-what-they-do}
 
@@ -195,9 +195,9 @@ DMARC 레코드에는 DMARC 태그라는 여러 구성 요소가 있습니다. �
     <td>선택 사항</td>
     <td>도메인 소유자가 보고 옵션을 지정할 수 있도록 허용합니다.</td>
     <td>0: 모든 것이 실패하면 보고서 생성 
-    <br>1: 실패할 경우 보고서 생성 
-    <br>d: DKIM이 실패할 경우 보고서 생성 
-    <br>s: SPF 실패 시 보고서 생성</td>
+    <br>1: 실패한 경우 보고서 생성 
+    <br>d: DKIM이 실패하면 보고서 생성 
+    <br>s: SPF가 실패할 경우 보고서 생성</td>
     <td>1(DMARC 보고서에 권장)</td>
   </tr>
   <tr>
@@ -245,7 +245,7 @@ DMARC 레코드에는 DMARC 태그라는 여러 구성 요소가 있습니다. �
 </tbody>
 </table>
 
-DMARC 및 모든 옵션에 대한 자세한 내용은 다음을 참조하십시오. [https://dmarc.org/](https://dmarc.org/){target="_blank"}.
+DMARC 및 모든 옵션에 대한 자세한 내용은 [https://dmarc.org/](https://dmarc.org/){target="_blank"}을(를) 참조하십시오.
 
 ### DMARC 및 Marketo Engage {#dmarc-and-marketo-engage}
 
@@ -257,7 +257,7 @@ DMARC에는 DKIM 정렬과 SPF 정렬의 두 가지 정렬 유형이 있습니�
 
 * DKIM 정렬 DMARC - DKIM 정렬 DMARC를 설정하려면 다음을 수행해야 합니다.
 
-   * 메시지의 보낸 사람: 도메인에 대한 DKIM을 설정합니다. 지침 사용 [이 문서에서](/help/marketo/product-docs/email-marketing/deliverability/set-up-a-custom-dkim-signature.md){target="_blank"}.
+   * 메시지의 보낸 사람: 도메인에 대한 DKIM을 설정합니다. 이 문서](/help/marketo/product-docs/email-marketing/deliverability/set-up-a-custom-dkim-signature.md){target="_blank"}의 지침 [을(를) 사용합니다.
    * 이전에 구성한 FROM:/DKIM 도메인에 대한 DMARC 구성
 
 * DMARC 정렬 SPF - 브랜드 반환 경로를 통해 DMARC 정렬 SPF를 설정하려면 다음을 수행해야 합니다.
@@ -268,9 +268,9 @@ DMARC에는 DKIM 정렬과 SPF 정렬의 두 가지 정렬 유형이 있습니�
 
    * 브랜드 재방문 경로 도메인에 대한 DMARC 구성
 
-* 전용 IP를 통해 Marketo Engage에서 메일을 보내고 브랜드 반환 경로를 아직 구현하지 않았거나 반환 경로가 있는지 확실하지 않은 경우 [Adobe 지원](https://nation.marketo.com/t5/support/ct-p/Support){target="_blank"}.
+* 전용 IP를 통해 Marketo Engage에서 메일을 보내고 브랜드 반환 경로를 아직 구현하지 않았거나 아직 구현했는지 확실하지 않은 경우 [Adobe 지원](https://nation.marketo.com/t5/support/ct-p/Support){target="_blank"}을 사용하여 티켓을 여십시오.
 
-* IP 공유 풀을 통해 Marketo Engage에서 메일을 전송하는 경우 다음 방법으로 신뢰할 수 있는 IP에 대한 자격이 있는지 확인할 수 있습니다. [여기에 적용](http://na-sjg.marketo.com/lp/marketoprivacydemo/Trusted-IP-Sending-Range-Program.html){target="_blank"}. 신뢰할 수 있는 Marketo Engage IP에서 전송하는 사람에게 브랜드 반환 경로가 무료로 제공됩니다. 이 프로그램에 대해 승인된 경우 Adobe 지원 팀에 연락하여 브랜드 반환 경로를 설정하십시오.
+* 공유 IP 풀을 통해 Marketo Engage에서 메일을 보내는 경우 [여기](http://na-sjg.marketo.com/lp/marketoprivacydemo/Trusted-IP-Sending-Range-Program.html)에 적용{target="_blank"}하여 신뢰할 수 있는 IP에 대한 자격이 있는지 확인할 수 있습니다. 신뢰할 수 있는 Marketo Engage IP에서 전송하는 사람에게 브랜드 반환 경로가 무료로 제공됩니다. 이 프로그램에 대해 승인된 경우 Adobe 지원 팀에 연락하여 브랜드 반환 경로를 설정하십시오.
 
    * 신뢰할 수 있는 IP: 전용 IP에 대한 자격이 없는 매월 75K 미만을 보내는 하위 볼륨 사용자를 위해 예약된 IP 공유 풀입니다. 이러한 사용자는 모범 사례 요구 사항도 충족해야 합니다.
 
@@ -286,13 +286,13 @@ MX 레코드를 사용하면 회신 및 자동 응답자를 처리하기 위해 
 
 아웃바운드 연결은 귀하를 대신하여 인터넷의 서버에 대한 Marketo Engage에 의해 수행됩니다. 함께 일하는 일부 파트너/공급업체 또는 자체 IT 조직은 허용 목록을 사용하여 서버에 대한 액세스를 제한할 수 있습니다. 그렇다면 Marketo Engage 아웃바운드 IP 주소 블록을 제공해야 해당 허용 목록에 추가할 수 있습니다.
 
-**웹훅**
+**웹후크**
 
-Marketo Engage [웹훅](/help/marketo/product-docs/administration/additional-integrations/create-a-webhook.md){target="_blank"} are an outbound integration mechanism. When a [Call Webhook](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/call-webhook.md){target="_blank"} 흐름 작업은 스마트 캠페인의 일부로 실행되고 외부 웹 서비스에 HTTP 요청이 수행됩니다. 웹 서비스 게시자가 외부 웹 서비스가 있는 네트워크의 방화벽에서 허용 목록에 추가하다를 사용하는 경우, 게시자는 아래 나열된 IP 주소 블록을 해당 허용 목록에 추가하다에 추가해야 합니다.
+[Webhooks](/help/marketo/product-docs/administration/additional-integrations/create-a-webhook.md){target="_blank"} Marketo Engage은 아웃바운드 통합 메커니즘입니다. 스마트 캠페인의 일부로 [Call Webhook](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/call-webhook.md){target="_blank"} 흐름 작업이 실행되면 외부 웹 서비스에 HTTP 요청이 이루어집니다. 웹 서비스 게시자가 외부 웹 서비스가 있는 네트워크의 방화벽에서 허용 목록에 추가하다를 사용하는 경우, 게시자는 아래 나열된 IP 주소 블록을 해당 허용 목록에 추가하다에 추가해야 합니다.
 
 **CRM 동기화**
 
-Marketo Engage [Salesforce CRM 동기화](/help/marketo/product-docs/crm-sync/salesforce-sync/sfdc-sync-details/add-an-existing-salesforce-field-to-the-marketo-sync.md){target="_blank"} and [Microsoft Dynamics Sync](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/understanding-the-microsoft-dynamics-sync.md){target="_blank"} 는 CRM 공급업체에서 게시한 API에 대한 아웃바운드 HTTP 요청을 수행하는 통합 메커니즘입니다. IT 조직이 아래 IP 주소 블록이 CRM 공급업체 API에 액세스하는 것을 차단하지 않도록 해야 합니다.
+Marketo Engage [Salesforce CRM 동기화](/help/marketo/product-docs/crm-sync/salesforce-sync/sfdc-sync-details/add-an-existing-salesforce-field-to-the-marketo-sync.md){target="_blank"} 및 [Microsoft Dynamics 동기화](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/understanding-the-microsoft-dynamics-sync.md){target="_blank"}은(는) CRM 공급업체에서 게시한 API에 대한 아웃바운드 HTTP 요청을 수행하는 통합 메커니즘입니다. IT 조직이 아래 IP 주소 블록이 CRM 공급업체 API에 액세스하는 것을 차단하지 않도록 해야 합니다.
 
 **Marketo Engage 아웃바운드 IP 주소 블록**
 

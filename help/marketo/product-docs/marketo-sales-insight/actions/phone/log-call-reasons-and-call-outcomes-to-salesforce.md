@@ -5,7 +5,7 @@ exl-id: cfe71388-282b-45e5-a817-45a951f613bc
 feature: Sales Insight Actions
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
-source-wordcount: '464'
+source-wordcount: '461'
 ht-degree: 0%
 
 ---
@@ -23,7 +23,7 @@ ht-degree: 0%
 
 ### Salesforce Classic에서 사용자 지정 활동 필드 만들기  {#create-custom-activity-field-in-salesforce-classic}
 
-1. Salesforce에서 **설정**.
+1. Salesforce에서 **설정**&#x200B;을 클릭합니다.
 
    ![](assets/log-call-reasons-and-call-outcomes-to-salesforce-1.png)
 
@@ -31,15 +31,15 @@ ht-degree: 0%
 
    ![](assets/log-call-reasons-and-call-outcomes-to-salesforce-2.png)
 
-1. 클릭 **활동 사용자 정의 필드**.
+1. **활동 사용자 지정 필드**&#x200B;를 클릭합니다.
 
    ![](assets/log-call-reasons-and-call-outcomes-to-salesforce-3.png)
 
-1. 클릭 **신규**.
+1. **새로 만들기**&#x200B;를 클릭합니다.
 
    ![](assets/log-call-reasons-and-call-outcomes-to-salesforce-4.png)
 
-1. 데이터 유형 &quot;텍스트&quot;를 선택하고 **다음**.
+1. 데이터 형식 &quot;텍스트&quot;를 선택하고 **다음**&#x200B;을(를) 클릭합니다.
 
    ![](assets/log-call-reasons-and-call-outcomes-to-salesforce-5.png)
 
@@ -47,11 +47,11 @@ ht-degree: 0%
 
    ![](assets/log-call-reasons-and-call-outcomes-to-salesforce-6.png)
 
-1. 나머지 설정은 선택 사항입니다. 구성을 완료한 후 **다음**.
+1. 나머지 설정은 선택 사항입니다. 구성을 완료했으면 **다음**&#x200B;을 클릭합니다.
 
    ![](assets/log-call-reasons-and-call-outcomes-to-salesforce-7.png)
 
-1. 이 필드에 대해 원하는 필드 수준 보안 설정을 선택하고 **다음** (아래 이미지는 예제일 뿐입니다.)
+1. 이 필드에 대해 원하는 필드 수준 보안 설정을 선택하고 **다음**&#x200B;을 클릭합니다(아래 이미지는 예제일 뿐).
 
    ![](assets/log-call-reasons-and-call-outcomes-to-salesforce-8.png)
 
@@ -59,7 +59,7 @@ ht-degree: 0%
    >
    >사용자 정의 필드가 사용자가 사용하는 프로필에 표시되고, 원하는 다른 항목도 표시되는지 확인하십시오.
 
-1. 필드를 추가할 페이지 레이아웃을 선택하고 **저장** (선택 사항으로, **저장 및 새로 만들기** 호출 사유 필드에 대한 프로세스를 반복합니다.
+1. 필드를 추가할 페이지 레이아웃을 선택하고 **저장**&#x200B;을(를) 클릭합니다(선택적으로 **저장 및 새로 만들기**&#x200B;를 클릭하고 호출 사유 필드에 대한 프로세스를 반복할 수 있음).
 
    ![](assets/log-call-reasons-and-call-outcomes-to-salesforce-9.png)
 
@@ -69,7 +69,7 @@ ht-degree: 0%
 >
 >위의 9단계에서 원하는 페이지 레이아웃을 선택하지 않은 경우 다음 단계만 수행하면 됩니다.
 
-1. Salesforce에서 **설정**.
+1. Salesforce에서 **설정**&#x200B;을 클릭합니다.
 
    ![](assets/log-call-reasons-and-call-outcomes-to-salesforce-10.png)
 
@@ -77,11 +77,11 @@ ht-degree: 0%
 
    ![](assets/log-call-reasons-and-call-outcomes-to-salesforce-11.png)
 
-1. 클릭 **작업 페이지 레이아웃**.
+1. **작업 페이지 레이아웃**&#x200B;을 클릭합니다.
 
    ![](assets/log-call-reasons-and-call-outcomes-to-salesforce-12.png)
 
-1. 클릭 **편집** 작업 페이지 레이아웃 옆에 이 필드를 추가할 수 있습니다.
+1. 이 필드를 추가할 작업 페이지 레이아웃 옆에 있는 **편집**&#x200B;을 클릭합니다.
 
    ![](assets/log-call-reasons-and-call-outcomes-to-salesforce-13.png)
 
@@ -89,7 +89,7 @@ ht-degree: 0%
 
    ![](assets/log-call-reasons-and-call-outcomes-to-salesforce-14.png)
 
-1. 클릭 **저장**.
+1. **저장**&#x200B;을 클릭합니다.
 
    ![](assets/log-call-reasons-and-call-outcomes-to-salesforce-15.png)
 
@@ -97,11 +97,11 @@ ht-degree: 0%
 
 ### Salesforce Lightning에서 사용자 지정 활동 필드 만들기 {#create-custom-activity-field-in-salesforce-lightning}
 
-1. Salesforce에서 오른쪽 상단의 톱니바퀴 아이콘을 클릭하고 을 선택합니다 **설정**.
+1. Salesforce에서 오른쪽 상단의 톱니바퀴 아이콘을 클릭하고 **설정**&#x200B;을 선택합니다.
 
    ![](assets/log-call-reasons-and-call-outcomes-to-salesforce-16.png)
 
-1. 클릭 **오브젝트 관리자**.
+1. **개체 관리자**&#x200B;를 클릭합니다.
 
    ![](assets/log-call-reasons-and-call-outcomes-to-salesforce-17.png)
 
@@ -109,25 +109,25 @@ ht-degree: 0%
 
    ![](assets/log-call-reasons-and-call-outcomes-to-salesforce-18.png)
 
-1. 다음을 클릭합니다. **활동** 레이블.
+1. **활동** 레이블을 클릭합니다.
 
    ![](assets/log-call-reasons-and-call-outcomes-to-salesforce-19.png)
 
-1. 클릭 **필드 및 관계**.
+1. **필드 및 관계**&#x200B;를 클릭합니다.
 
    ![](assets/log-call-reasons-and-call-outcomes-to-salesforce-20.png)
 
-1. 클릭 **신규**.
+1. **새로 만들기**&#x200B;를 클릭합니다.
 
    ![](assets/log-call-reasons-and-call-outcomes-to-salesforce-21.png)
 
 ### Salesforce Lightning의 작업 페이지 레이아웃에 사용자 지정 활동 필드 추가 {#add-custom-activity-field-to-task-page-layout-in-salesforce-lightning}
 
-1. Salesforce에서 오른쪽 상단의 톱니바퀴 아이콘을 클릭하고 을 선택합니다 **설정**.
+1. Salesforce에서 오른쪽 상단의 톱니바퀴 아이콘을 클릭하고 **설정**&#x200B;을 선택합니다.
 
    ![](assets/log-call-reasons-and-call-outcomes-to-salesforce-22.png)
 
-1. 클릭 **오브젝트 관리자**.
+1. **개체 관리자**&#x200B;를 클릭합니다.
 
    ![](assets/log-call-reasons-and-call-outcomes-to-salesforce-23.png)
 
@@ -135,11 +135,11 @@ ht-degree: 0%
 
    ![](assets/log-call-reasons-and-call-outcomes-to-salesforce-24.png)
 
-1. 다음을 클릭합니다. **작업** 레이블.
+1. **작업** 레이블을 클릭합니다.
 
    ![](assets/log-call-reasons-and-call-outcomes-to-salesforce-25.png)
 
-1. 클릭 **페이지 레이아웃**.
+1. **페이지 레이아웃**&#x200B;을 클릭합니다.
 
    ![](assets/log-call-reasons-and-call-outcomes-to-salesforce-26.png)
 
@@ -151,11 +151,11 @@ ht-degree: 0%
 
    ![](assets/log-call-reasons-and-call-outcomes-to-salesforce-28.png)
 
-1. 클릭 **저장**.
+1. **저장**&#x200B;을 클릭합니다.
 
    ![](assets/log-call-reasons-and-call-outcomes-to-salesforce-29.png)
 
 >[!MORELIKETHIS]
 >
->* [호출 결과](/help/marketo/product-docs/marketo-sales-insight/actions/phone/call-outcomes.md)
+>* [통화 결과](/help/marketo/product-docs/marketo-sales-insight/actions/phone/call-outcomes.md)
 >* [통화 이유](/help/marketo/product-docs/marketo-sales-insight/actions/phone/call-reasons.md)

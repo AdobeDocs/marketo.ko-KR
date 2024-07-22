@@ -15,19 +15,19 @@ ht-degree: 0%
 
 양식의 언어를 변경하는 방법에 대해 알아봅니다.
 
-1. 다음으로 이동 **마케팅 활동**.
+1. **마케팅 활동**(으)로 이동합니다.
 
    ![](assets/change-the-language-of-a-form-1.png)
 
-1. 양식을 선택하고 **양식 편집**.
+1. 양식을 선택하고 **양식 편집**&#x200B;을 클릭합니다.
 
    ![](assets/change-the-language-of-a-form-2.png)
 
-1. 클릭 **양식 설정** 및 선택 **설정**.
+1. **양식 설정**&#x200B;을 클릭하고 **설정**&#x200B;을 선택합니다.
 
    ![](assets/change-the-language-of-a-form-3.png)
 
-1. 원하는 을 선택합니다 **양식 언어**.
+1. 원하는 **양식 언어**&#x200B;를 선택합니다.
 
    ![](assets/change-the-language-of-a-form-4.png)
 
@@ -35,11 +35,11 @@ ht-degree: 0%
 
    ![](assets/change-the-language-of-a-form-5.png)
 
-1. 클릭 **완료**.
+1. **마침**&#x200B;을 클릭합니다.
 
    ![](assets/change-the-language-of-a-form-6.png)
 
-1. 클릭 **승인 및 닫기** 변경 사항을 적용하고 저장합니다.
+1. 변경 내용을 적용하고 저장하려면 **승인 및 닫기**&#x200B;를 클릭하십시오.
 
    ![](assets/change-the-language-of-a-form-7.png)
 
@@ -49,7 +49,7 @@ ht-degree: 0%
 
    >[!TIP]
    >
-   >다음을 잊지 마십시오. [랜딩 페이지 승인](/help/marketo/product-docs/demand-generation/landing-pages/understanding-landing-pages/approve-unapprove-or-delete-a-landing-page.md) 양식으로 작성된 초안이 변경됩니다.
+   >양식을 변경하여 만든 [랜딩 페이지를 승인](/help/marketo/product-docs/demand-generation/landing-pages/understanding-landing-pages/approve-unapprove-or-delete-a-landing-page.md) 초안을 잊지 마십시오.
 
 이제 선택한 언어가 양식에 반영됩니다.
 

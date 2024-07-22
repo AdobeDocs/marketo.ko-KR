@@ -6,16 +6,16 @@ exl-id: 093f713b-e9f1-48d6-b4d8-7c5ef349a2ae
 feature: SEO
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
-source-wordcount: '79'
+source-wordcount: '80'
 ht-degree: 0%
 
 ---
 
 # SEO - 키워드 트렌드 차트 {#seo-keyword-trends-chart}
 
-키워드를 모니터링하는 것이 중요합니다. [SERP 순위](/help/marketo/product-docs/additional-apps/seo/understanding-seo/understanding-search-engine-optimization.md) 은 시간 경과에 따라 트렌드입니다. 진행 상황을 모니터링하려면 이 멋진 차트를 확인하십시오.
+시간 경과에 따라 키워드 [SERP 순위](/help/marketo/product-docs/additional-apps/seo/understanding-seo/understanding-search-engine-optimization.md)의 추세를 모니터링하는 것이 중요합니다. 진행 상황을 모니터링하려면 이 멋진 차트를 확인하십시오.
 
-1. 로 이동 **[!UICONTROL 키워드]** 섹션.
+1. **[!UICONTROL 키워드]** 섹션으로 이동합니다.
 
    ![](assets/image2014-9-18-12-3a5-3a7.png)
 
@@ -23,7 +23,7 @@ ht-degree: 0%
 
    ![](assets/image2014-9-18-12-3a5-3a11.png)
 
-   다음을 표시합니다. [SERP 등급](/help/marketo/product-docs/additional-apps/seo/understanding-seo/understanding-search-engine-optimization.md) 지난 30일 동안:
+   지난 30일 동안의 [SERP 순위](/help/marketo/product-docs/additional-apps/seo/understanding-seo/understanding-search-engine-optimization.md)를 표시합니다.
 
    ![](assets/image2014-9-18-12-3a5-3a14.png)
 

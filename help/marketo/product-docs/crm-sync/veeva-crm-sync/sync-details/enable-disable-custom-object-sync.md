@@ -20,15 +20,15 @@ Veeva CRM 인스턴스에서 만든 사용자 지정 개체도 Marketo Engage의
 >
 >**관리자 권한 필요**
 
-1. Marketo에서 **[!UICONTROL 관리자]**, 그런 다음 **[!UICONTROL Veeva 개체 동기화]**.
+1. Marketo에서 **[!UICONTROL 관리자]**&#x200B;를 클릭한 다음 **[!UICONTROL Veeva 개체 동기화]**&#x200B;를 클릭합니다.
 
    ![](assets/enable-disable-custom-object-sync-1.png)
 
-1. 첫 번째 사용자 지정 개체인 경우 스키마 동기화를 클릭합니다. 그렇지 않은 경우 **[!UICONTROL 스키마 새로 고침]** 최신 버전을 확인합니다.
+1. 첫 번째 사용자 지정 개체인 경우 스키마 동기화를 클릭합니다. 그렇지 않은 경우 **[!UICONTROL 스키마 새로 고침]**&#x200B;을 클릭하여 최신 항목이 있는지 확인하십시오.
 
    ![](assets/enable-disable-custom-object-sync-2.png)
 
-1. 전역 동기화가 실행 중인 경우 다음을 클릭하여 비활성화합니다. **[!UICONTROL 전역 동기화 비활성화]**.
+1. 전역 동기화가 실행 중인 경우 **[!UICONTROL 전역 동기화 사용 안 함]**&#x200B;을 클릭하여 사용하지 않도록 설정하십시오.
 
    ![](assets/enable-disable-custom-object-sync-3.png)
 
@@ -36,7 +36,7 @@ Veeva CRM 인스턴스에서 만든 사용자 지정 개체도 Marketo Engage의
    >
    >Veeva 사용자 지정 개체 스키마의 동기화는 몇 분 정도 걸릴 수 있습니다.
 
-1. 클릭 **[!UICONTROL 스키마 새로 고침]**.
+1. **[!UICONTROL 스키마 새로 고침]**&#x200B;을 클릭합니다.
 
    ![](assets/enable-disable-custom-object-sync-4.png)
 
@@ -48,11 +48,11 @@ Veeva CRM 인스턴스에서 만든 사용자 지정 개체도 Marketo Engage의
 >
 >Marketo은 사용자 지정 개체가 Veeva CRM의 연락처 또는 계정 개체와 직접 관련이 있는 경우에만 동기화할 수 있습니다.
 
-1. 클릭 **[!UICONTROL 동기화 활성화]** 다시.
+1. **[!UICONTROL 동기화 활성화]**&#x200B;를 다시 클릭합니다.
 
    ![](assets/enable-disable-custom-object-sync-6.png)
 
-1. Veeva 탭으로 돌아가서 를 클릭합니다. **[!UICONTROL 동기화 활성화]**.
+1. Veeva 탭으로 돌아가서 **[!UICONTROL 동기화 사용]**&#x200B;을 클릭하세요.
 
    ![](assets/enable-disable-custom-object-sync-7.png)
 
@@ -62,7 +62,7 @@ Veeva CRM 인스턴스에서 만든 사용자 지정 개체도 Marketo Engage의
 >
 >트리거가 있는 스마트 캠페인에서는 사용자 지정 개체를 사용할 수 없습니다.
 
-1. 스마트 목록에서 &quot;Has Opportunity&quot; 필터 위로 끌어서 다음으로 설정합니다. **[!UICONTROL True]**.
+1. 스마트 목록에서 &quot;기회 있음&quot; 필터 위로 끌어서 **[!UICONTROL True]**(으)로 설정합니다.
 
    ![](assets/enable-disable-custom-object-sync-8.png)
 
@@ -74,4 +74,4 @@ Veeva CRM 인스턴스에서 만든 사용자 지정 개체도 Marketo Engage의
 
 >[!MORELIKETHIS]
 >
->[사용자 지정 개체 필드를 스마트 목록/트리거 제한으로 추가/제거](/help/marketo/product-docs/crm-sync/veeva-crm-sync/sync-details/add-remove-custom-object-field-as-smart-list-trigger-constraints.md){target="_blank"}
+>[사용자 지정 개체 필드를 스마트 목록/트리거 제약 조건으로 추가/제거](/help/marketo/product-docs/crm-sync/veeva-crm-sync/sync-details/add-remove-custom-object-field-as-smart-list-trigger-constraints.md){target="_blank"}

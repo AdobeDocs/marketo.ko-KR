@@ -19,23 +19,23 @@ ht-degree: 0%
 >
 >**관리자 권한 필요**
 
-1. 다음으로 이동 **[!UICONTROL 관리자]**.
+1. **[!UICONTROL 관리자]**(으)로 이동합니다.
 
    ![](assets/admin.png)
 
-1. 클릭 **[!UICONTROL 시작 지점]**.
+1. **[!UICONTROL LaunchPoint]**&#x200B;을 클릭합니다.
 
    ![](assets/image2014-12-5-14-3a35-3a27.png)
 
-1. 선택 **[!UICONTROL 신규]** 그러면 **[!UICONTROL 새 서비스]**.
+1. **[!UICONTROL 새로 만들기]**&#x200B;를 선택한 다음 **[!UICONTROL 새 서비스]**&#x200B;를 선택하십시오.
 
    ![](assets/image2014-12-5-14-3a37-3a33.png)
 
-1. 입력 **[!UICONTROL 표시 이름]** 및 선택 **[!UICONTROL Google Customer Match]** 다음에서 **[!UICONTROL 서비스]** 드롭다운. 클릭 **[!UICONTROL 만들기]**.
+1. **[!UICONTROL 표시 이름]**&#x200B;을(를) 입력하고 **[!UICONTROL 서비스]** 드롭다운에서 **[!UICONTROL Google 고객 일치]**&#x200B;을(를) 선택하십시오. **[!UICONTROL 만들기]**&#x200B;를 클릭합니다.
 
    ![](assets/chooseservice.png)
 
-1. Google AdWords 계정에 연결하려면 **[!UICONTROL 승인]**.
+1. Google AdWords 계정에 연결하려면 **[!UICONTROL 승인]**&#x200B;을 클릭하십시오.
 
    ![](assets/authorizeaccount-1.png)
 
@@ -43,15 +43,15 @@ ht-degree: 0%
 
    >[!CAUTION]
    >
-   >Marketo이 여러 AdWords 계정에 대상자를 전송하려면 다음 단계에서 권한을 부여한 Google 사용자에게 액세스 권한이 있어야 합니다 _모두_ 이 계정 중.
+   >Marketo에서 여러 AdWords 계정에 대상자를 보내려면 다음 단계에서 권한을 부여한 Google 사용자가 이러한 계정의 _모두_&#x200B;에 액세스할 수 있어야 합니다.
 
    ![](assets/chooseaccount.png)
 
-1. 요청된 권한을 검토한 다음 **[!UICONTROL 허용]**.
+1. 요청된 권한을 검토한 다음 **[!UICONTROL 허용]**&#x200B;을 클릭합니다.
 
    ![](assets/reviewpermissions.png)
 
-1. 이제 Google AdWords 계정이 Marketo에 연결되었습니다. 클릭 **[!UICONTROL 만들기]**.
+1. 이제 Google AdWords 계정이 Marketo에 연결되었습니다. **[!UICONTROL 만들기]**&#x200B;를 클릭합니다.
 
    ![](assets/authorizesuccess.png)
 

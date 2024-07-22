@@ -19,39 +19,39 @@ ht-degree: 0%
 >
 >[프로그램 분석기 만들기](/help/marketo/product-docs/reporting/revenue-cycle-analytics/program-analytics/create-a-program-analyzer.md)
 
-1. 클릭 **분석** 위치: **내 Marketo**.
+1. **내 Marketo**&#x200B;에서 **분석**&#x200B;을 클릭합니다.
 
    ![](assets/image2014-9-17-18-3a36-3a13.png)
 
-1. 다음 항목 선택 **프로그램 분석기**.
+1. **프로그램 분석기**&#x200B;를 선택하십시오.
 
    ![](assets/image2014-9-17-18-3a36-3a40.png)
 
-1. 보기 변경 **채널별**.
+1. 보기를 **채널별**(으)로 변경합니다.
 
    ![](assets/image2014-9-17-18-3a36-3a59.png)
 
-1. 사용 **X 축** 드롭다운을 사용하여 가로 축에 대한 지표를 선택합니다. 다음으로 시작 **프로그램 비용**.
+1. **X축** 드롭다운을 사용하여 가로 축에 대한 지표를 선택합니다. **프로그램 비용**(으)로 시작하겠습니다.
 
    ![](assets/image2014-9-17-18-3a37-3a7.png)
 
-1. Y축 드롭다운을 사용하여 세로 축에 대한 지표를 선택합니다. 자, 같이 가자 **(FT) 파이프라인 생성됨**.
+1. Y축 드롭다운을 사용하여 세로 축에 대한 지표를 선택합니다. **(FT) 파이프라인 생성됨** 상태로 이동합니다.
 
    ![](assets/image2014-9-17-18-3a37-3a50.png)
 
    >[!NOTE]
    >
-   >프로그램 분석기에서 선택할 수 있는 많은 지표는 FT(첫 번째 터치) 및 MT(다중 터치) 계산을 통해 사용할 수 있습니다. 다음을 이해하는 것이 중요합니다. [FT와 MT 속성 간의 차이](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-tools/attribution/understanding-attribution.md).
+   >프로그램 분석기에서 선택할 수 있는 많은 지표는 FT(첫 번째 터치) 및 MT(다중 터치) 계산을 통해 사용할 수 있습니다. FT와 MT 속성의 [차이점](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-tools/attribution/understanding-attribution.md)을 이해하는 것이 중요합니다.
 
-1. 사용 **Y축** 드롭다운 선택 **(MT) 파이프라인 생성됨**.
+1. **Y축** 드롭다운을 사용하여 **(MT) 파이프라인을 생성**&#x200B;하세요.
 
    ![](assets/image2014-9-17-18-3a39-3a5.png)
 
-   이 멀티 터치 속성 보기에서 웨비나 채널은 생성된 파이프라인에 더 많은 영향을 주고 트레이드쇼 및 온라인 광고 채널보다 비용이 적게 듭니다.
+   이 멀티 터치 속성 보기에서 웨비나 채널은 생성된 파이프라인에 더 많은 영향을 주고 트레이드쇼 및 온라인 Advertising 채널보다 비용이 적게 듭니다.
 
    이제 차원을 두 개 더 추가하겠습니다!
 
-1. 사용 **거품 크기** 드롭다운을 사용하여 다음과 같이 추가 측정을 선택합니다. **새 이름**.
+1. **버블 크기** 드롭다운을 사용하여 **새 이름**&#x200B;과 같은 추가 측정값을 선택하십시오.
 
    ![](assets/image2014-9-17-18-3a39-3a36.png)
 
@@ -59,9 +59,9 @@ ht-degree: 0%
 
    ![](assets/image2014-9-17-18-3a39-3a55.png)
 
-   로 측정하면 웨비나 채널이 축소됩니다. **새 이름**. 많은 회원을 보유하고 있지만, Tradeshow 채널보다 새로운 잠재 고객을 생성하는 데 더 효과적이지 못하다는 결론을 내릴 수 있습니다.
+   **새 이름**&#x200B;으로 측정한 결과 웨비나 채널이 축소되었습니다. 많은 회원을 보유하고 있지만, Tradeshow 채널보다 새로운 잠재 고객을 생성하는 데 더 효과적이지 못하다는 결론을 내릴 수 있습니다.
 
-1. 마지막으로 색상 드롭다운을 사용하여 네 번째 차원을 추가합니다. 선택하겠습니다. **(FT) 수익(원)**.
+1. 마지막으로 색상 드롭다운을 사용하여 네 번째 차원을 추가합니다. **(FT) 매출원**&#x200B;을(를) 선택하겠습니다.
 
    ![](assets/image2014-9-17-18-3a41-3a7.png)
 
@@ -71,7 +71,7 @@ ht-degree: 0%
 
    색상으로 부터 가장 녹색 버블인 Tradeshow 채널이 첫 번째 터치 속성으로 측정했을 때 가장 큰 수익 승수에 영향을 미쳤음을 알 수 있습니다.
 
-1. 이제 색상 지표를 로 변경하면 **(MT) 수익 원**, 이제 가장 친환경적인 온라인 광고 채널이 웨비나와 트레이드쇼 채널보다 시간에 따라 더 많은 매출에 영향을 미쳤음을 알 수 있습니다.
+1. 이제 색상 지표를 **(MT) 매출원**(으)로 변경하면 현재 가장 녹색인 온라인 Advertising 채널이 웨비나 및 트레이드쇼 채널보다 시간에 따라 더 많은 매출에 영향을 미쳤습니다.
 
    ![](assets/image2014-9-17-18-3a41-3a40.png)
 
@@ -83,5 +83,5 @@ ht-degree: 0%
 
 >[!MORELIKETHIS]
 >
->* [프로그램 분석기를 사용하여 프로그램 및 채널 세부 정보 살펴보기](/help/marketo/product-docs/reporting/revenue-cycle-analytics/program-analytics/explore-program-and-channel-details-with-the-program-analyzer.md)
+>* [프로그램 분석기를 사용하여 프로그램 및 채널 세부 정보 탐색](/help/marketo/product-docs/reporting/revenue-cycle-analytics/program-analytics/explore-program-and-channel-details-with-the-program-analyzer.md)
 >* [프로그램 분석기와 프로그램 효율성 비교](/help/marketo/product-docs/reporting/revenue-cycle-analytics/program-analytics/compare-program-effectiveness-with-the-program-analyzer.md)

@@ -15,7 +15,7 @@ ht-degree: 0%
 
 기존 스마트 캠페인의 이름을 변경할 수 있습니다. 방법은 다음과 같습니다.
 
-1. 다음으로 이동 **[!UICONTROL 마케팅 활동]**.
+1. **[!UICONTROL 마케팅 활동]**(으)로 이동합니다.
 
    ![](assets/rename-a-smart-campaign-1.png)
 
@@ -27,7 +27,7 @@ ht-degree: 0%
    >
    >프로그램 내의 스마트 캠페인 이름은 항상 &#39;ProgramName.CampaignName&#39; 형식으로 변환됩니다.
 
-1. 새 스마트 캠페인 이름을 입력하고 **[!UICONTROL 저장]**.
+1. 새 스마트 캠페인 이름을 입력하고 **[!UICONTROL 저장]**&#x200B;을 클릭합니다.
 
    ![](assets/rename-a-smart-campaign-3.png)
 

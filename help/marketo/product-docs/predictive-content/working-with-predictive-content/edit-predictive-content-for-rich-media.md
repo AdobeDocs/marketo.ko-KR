@@ -7,7 +7,7 @@ feature: Predictive Content
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '181'
-ht-degree: 0%
+ht-degree: 1%
 
 ---
 
@@ -17,13 +17,13 @@ ht-degree: 0%
 
 >[!PREREQUISITES]
 >
->컨텐츠는 다음과 같아야 합니다. [예측 콘텐츠 승인](/help/marketo/product-docs/predictive-content/working-with-all-content/approve-a-title-for-predictive-content.md) 모든 컨텐츠 페이지에서 참조할 수 있습니다.
+>모든 콘텐츠 페이지에서 콘텐츠는 예측 콘텐츠에 대해 [승인](/help/marketo/product-docs/predictive-content/working-with-all-content/approve-a-title-for-predictive-content.md)되어야 합니다.
 
-1. 다음에서 **예측 콘텐츠** 페이지에서 제목을 클릭하여 편집기를 엽니다.
+1. **예측 콘텐츠** 페이지에서 제목을 클릭하여 편집기를 엽니다.
 
    ![](assets/image2017-10-3-9-3a40-3a38.png)
 
-1. 클릭 **리치 미디어**.
+1. **리치 미디어**&#x200B;를 클릭합니다.
 
    ![](assets/image2017-10-3-9-3a41-3a33.png)
 
@@ -31,11 +31,11 @@ ht-degree: 0%
 
    ![](assets/image2017-10-3-9-3a42-3a20.png)
 
-1. 에 입력 **설명**.
+1. **설명**&#x200B;을 입력하세요.
 
    ![](assets/image2017-10-3-9-3a43-3a43.png)
 
-1. 다음을 클릭합니다. **카테고리** 선택/추가할 상자 [이미 설정한 범주](/help/marketo/product-docs/predictive-content/getting-started/set-up-categories.md) (선택 사항).
+1. **범주** 상자를 클릭하여 이미 설정한 [범주를 선택/추가](/help/marketo/product-docs/predictive-content/getting-started/set-up-categories.md)(선택 사항)합니다.
 
    ![](assets/image2017-10-3-9-3a55-3a57.png)
 
@@ -51,6 +51,6 @@ ht-degree: 0%
 
    ![](assets/six-1.png)
 
-1. 클릭 **저장**.
+1. **저장**&#x200B;을 클릭합니다.
 
    ![](assets/save.png)

@@ -6,7 +6,7 @@ exl-id: 2bd9497e-ca5f-4fd6-8fd2-241419e97cba
 feature: Target Account Management
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
-source-wordcount: '422'
+source-wordcount: '424'
 ht-degree: 0%
 
 ---
@@ -19,13 +19,13 @@ ht-degree: 0%
 
 ## 대시보드 {#dashboard}
 
-대시보드는 명명된 계정 내의 모든 사람으로부터 계정 수준에서 주요 인사이트를 집계하므로 각 사람에게 진행 상황을 평가하러 가지 않아도 됩니다. 을 사용하여 이메일 활동에 대해 자세히 살펴볼 수 있습니다. [이메일 인사이트](/help/marketo/product-docs/reporting/email-insights/filtering-in-email-insights.md#account-based-marketing).
+대시보드는 명명된 계정 내의 모든 사람으로부터 계정 수준에서 주요 인사이트를 집계하므로 각 사람에게 진행 상황을 평가하러 가지 않아도 됩니다. [이메일 인사이트](/help/marketo/product-docs/reporting/email-insights/filtering-in-email-insights.md#account-based-marketing)를 사용하여 이메일 활동에 대해 자세히 살펴볼 수 있습니다.
 
 >[!NOTE]
 >
 >차트는 지난 90일의 통찰력을 보여 줍니다.
 
-**시간 경과에 따른 계정 참여** 다음을 클릭합니다. **보기** 오른쪽 드롭다운을 클릭하여 보기를 변경할 수 있습니다. 계정 점수 외에 총 매출액별로 볼 수 있습니다.
+**시간 경과에 따른 계정 참여** 오른쪽의 **보기** 드롭다운을 클릭하여 표시되는 내용을 변경합니다. 계정 점수 외에 총 매출액별로 볼 수 있습니다.
 
 ![](assets/two-new.png)
 
@@ -50,7 +50,7 @@ ht-degree: 0%
  </tbody> 
 </table>
 
-**즐거운 순간**
+**관심 있는 순간**
 
 Marketo Sales Insight 사용자가 사용할 수 있으며, 계정 수준에서 롤업된 흥미로운 순간을 참조하십시오.
 
@@ -58,13 +58,13 @@ Marketo Sales Insight 사용자가 사용할 수 있으며, 계정 수준에서 
 
 **상위 사용자**
 
-이러한 사람들은 명명 계정(과 동일)의 사람들이 보여 주는 최신성 또는 긴급성을 기반으로 하는 우선 순위를 기반으로 계산됩니다 [최상의 선택](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/features/stars-and-flames/priority-urgency-relative-score-and-best-bets.md) Sales Insight) 또는 사용자가 정의한 Scores에 포함됩니다. **우선 순위** 는 Marketo Sales Insight 사용자만 사용할 수 있습니다.
+이러한 인원은 명명 계정(Sales Insight의 [최고 베팅](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/features/stars-and-flames/priority-urgency-relative-score-and-best-bets.md)과 동일) 사용자가 표시한 최신성 또는 긴급성을 기반으로 한 우선 순위 또는 사용자가 정의한 점수를 기반으로 계산됩니다. **우선 순위**&#x200B;는 Marketo Sales Insight 사용자만 사용할 수 있습니다.
 
 ![](assets/top-ten.png)
 
 **하위 항목 포함**
 
-클릭 **하위 항목 포함** 선택한 명명 계정의 하위 계정을 확인 및 선택하고 해당 집계 분석을 봅니다.
+**하위 항목 포함**&#x200B;을 클릭하여 선택한 명명된 계정의 하위 계정을 확인 및 선택하고 해당 집계 분석을 봅니다.
 
 ![](assets/abm.png)
 
@@ -92,7 +92,7 @@ Marketo Sales Insight 사용자가 사용할 수 있으며, 계정 수준에서 
 
 >[!NOTE]
 >
->나열된 직원을 추가하려면 해당 직원을 선택하고 을(를) 클릭합니다. **직원 추가**.
+>나열된 직원을 추가하려면 해당 직원을 선택하고 **직원 추가**&#x200B;를 클릭하세요.
 
 ## 사용한 사람 {#used-by}
 
@@ -108,10 +108,10 @@ Marketo Sales Insight 사용자가 사용할 수 있으며, 계정 수준에서 
 
 >[!NOTE]
 >
->다음을 클릭합니다. **계정 팀 작업** 드롭다운을 사용하여 계정 구성원을 추가/제거하거나 계정 소유자를 할당할 수 있습니다.
+>계정 구성원을 추가/제거하거나 계정 소유자를 할당하려면 **계정 팀 작업** 드롭다운을 클릭하십시오.
 
 ## ICP 지표 {#icp-indicators}
 
-내보낼 때 선택한 ICP 지표 보기 [모델 조정](/help/marketo/product-docs/target-account-management/account-profiling/account-profiling-ranking-and-tuning.md#model-tuning).
+[모델을 조정](/help/marketo/product-docs/target-account-management/account-profiling/account-profiling-ranking-and-tuning.md#model-tuning)할 때 내보내도록 선택한 ICP 지표를 봅니다.
 
 ![](assets/eight.png)

@@ -14,9 +14,9 @@ ht-degree: 5%
 
 문서 카드를 사용하면 대화 상자에 PDF 문서를 포함하고 방문자의 문서 참여 활동을 추적할 수 있습니다. 설정 방법은 다음과 같습니다.
 
-1. 다음으로 이동 [Adobe PDF 포함 API](https://udp.adobe.io/document-services/apis/pdf-embed/){target="_blank"}.
+1. [Adobe PDF 포함 API](https://udp.adobe.io/document-services/apis/pdf-embed/){target="_blank"}(으)로 이동합니다.
 
-1. 클릭 **[!UICONTROL 자격 증명 가져오기]**.
+1. **[!UICONTROL 자격 증명 가져오기]**&#x200B;를 클릭합니다.
 
    ![](assets/adobe-pdf-embed-api-1.png)
 
@@ -24,7 +24,7 @@ ht-degree: 5%
 
    ![](assets/adobe-pdf-embed-api-2.png)
 
-1. 자격 증명을 입력하고 조건에 동의한 다음 을(를) 클릭합니다. **[!UICONTROL 자격 증명 만들기]**.
+1. 자격 증명을 입력하고 조건을 수락한 다음 **[!UICONTROL 자격 증명 만들기]**&#x200B;를 클릭합니다.
 
    ![](assets/adobe-pdf-embed-api-3.png)
 
@@ -32,16 +32,16 @@ ht-degree: 5%
    >
    >챗봇을 호스팅할 도메인을 사용해야 합니다(예: mycompany.com에서 챗봇을 호스팅하는 경우 4단계에 입력해야 함).
 
-1. 클릭 **[!UICONTROL 복사]** 클라이언트 ID를 복사합니다.
+1. 클라이언트 ID를 복사하려면 **[!UICONTROL 복사]**&#x200B;를 클릭하십시오.
 
    ![](assets/adobe-pdf-embed-api-4.png)
 
-1. 다시 Dynamic Chat으로 돌아가서 **[!UICONTROL 통합]**. Adobe PDF Embed API 카드에서 **[!UICONTROL 활성화]**.
+1. 다시 Dynamic Chat으로 돌아가 **[!UICONTROL 통합]**&#x200B;을 클릭하세요. Adobe PDF Embed API 카드에서 **[!UICONTROL 활성화]**&#x200B;를 클릭합니다.
 
    ![](assets/adobe-pdf-embed-api-5.png)
 
-1. 붙여넣기 [!UICONTROL 클라이언트 ID] 및 클릭 **[!UICONTROL 저장]**.
+1. [!UICONTROL 클라이언트 ID]를 붙여넣고 **[!UICONTROL 저장]**&#x200B;을 클릭하세요.
 
    ![](assets/adobe-pdf-embed-api-6.png)
 
-이제 대화 상자에서 문서 카드를 사용할 수 있습니다. [스트림 디자이너](/help/marketo/product-docs/demand-generation/dynamic-chat/automated-chat/stream-designer.md){target="_blank"}!
+이제 대화 상자의 [Designer 스트리밍](/help/marketo/product-docs/demand-generation/dynamic-chat/automated-chat/stream-designer.md){target="_blank"}에서 문서 카드를 사용할 수 있습니다!

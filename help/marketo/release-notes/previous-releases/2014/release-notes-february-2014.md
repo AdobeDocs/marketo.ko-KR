@@ -6,7 +6,7 @@ exl-id: 5fcac75d-4e09-4f4d-9fd0-7c89f890d63e
 feature: Release Information
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
-source-wordcount: '358'
+source-wordcount: '365'
 ht-degree: 0%
 
 ---
@@ -17,35 +17,35 @@ ht-degree: 0%
 
 ## 참여 점수를 우승 기준으로 사용 {#engagement-score-as-winning-criteria}
 
-[참여 점수 사용](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/email-test-a-b-test/define-the-a-b-test-winner-criteria.md) a/B 분할 테스트 또는 챔피언/챌린저 테스트에서 채택 변형을 결정합니다. 적절한 참여 점수를 부여하려면 테스트를 최소 24시간 실행해야 합니다.
+[참여 점수를 사용](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/email-test-a-b-test/define-the-a-b-test-winner-criteria.md)하여 A/B 분할 테스트 또는 챔피언/챌린저 테스트에서 채택 변형을 결정하십시오. 적절한 참여 점수를 부여하려면 테스트를 최소 24시간 실행해야 합니다.
 
 ![](assets/image2014-9-22-10-3a46-3a49.png)
 
 ## 이메일 프로그램 결과 탭 {#email-program-results-tab}
 
-[결과 보기](/help/marketo/product-docs/email-marketing/email-programs/email-program-data/view-email-program-results.md) 및 전자 메일 프로그램에 대해 기록된 활동.
+전자 메일 프로그램에 대해 기록된 [결과를 봅니다](/help/marketo/product-docs/email-marketing/email-programs/email-program-data/view-email-program-results.md).
 
 ![](assets/image2014-9-22-10-3a47-3a19.png)
 
 ## 메일링이 차단된 사람/잠재 고객 {#people-leads-blocked-from-mailing}
 
-[메일링이 차단된 사람/잠재 고객을 클릭합니다.](/help/marketo/product-docs/email-marketing/email-programs/managing-people-in-email-programs/define-an-audience-with-a-smart-list.md) 구독 취소되거나, 블랙리스트에 등록되거나, 유효하지 않거나 비어 있는 이메일 주소가 있거나, 마케팅 중단 등으로 인해 이메일을 받지 못하는 사용자를 확인하기 위한 번호입니다.
+[메일링이 차단된 사람/잠재 고객](/help/marketo/product-docs/email-marketing/email-programs/managing-people-in-email-programs/define-an-audience-with-a-smart-list.md) 번호를 클릭하여 구독 취소되거나, 블랙리스트에 등록되거나, 이메일 주소가 잘못되었거나 비어 있거나, 마케팅이 일시 중단되어 이메일을 받지 못할 사용자를 확인하십시오.
 
 ![](assets/image2014-9-22-10-3a47-3a42.png)
 
 ## 이메일 프로그램 데이터 내보내기 {#export-email-program-data}
 
-[Excel로 이메일 지표 내보내기](/help/marketo/product-docs/email-marketing/email-programs/email-program-data/export-email-program-dashboard-to-excel.md), AB 테스트 변형 데이터 포함.
+AB 테스트 변형 데이터를 포함하여 [Excel로 전자 메일 지표를 내보냅니다](/help/marketo/product-docs/email-marketing/email-programs/email-program-data/export-email-program-dashboard-to-excel.md).
 
-## [!UICONTROL 참여 점수] 위치: [!UICONTROL 참여 스트림 성능] 보고서 {#engagement-score-in-engagement-stream-performance-report}
+## [!UICONTROL 참여 스트림 성능] 보고서의 [!UICONTROL 참여 점수] {#engagement-score-in-engagement-stream-performance-report}
 
-참여 점수를 다음에 추가했습니다. [[!UICONTROL 참여 스트림 성능] 보고서](/help/marketo/product-docs/email-marketing/drip-nurturing/reports-and-notifications/engagement-stream-performance-report.md) 참여 프로그램의 콘텐츠가 얼마나 효과적인지 확인하는 데 도움이 됩니다.
+참여 프로그램의 콘텐츠가 얼마나 효과적인지 확인하는 데 도움이 되도록 [[!UICONTROL 참여 스트림 성과] 보고서](/help/marketo/product-docs/email-marketing/drip-nurturing/reports-and-notifications/engagement-stream-performance-report.md)에 참여 점수를 추가했습니다.
 
 ![](assets/image2014-9-22-10-3a50-3a36.png)
 
 ## 이메일 분석의 프로그램 세부 정보 {#program-details-in-email-analysis}
 
-[이제 프로그램 이름, 채널 및 태그로 이메일 지표를 그룹화할 수 있습니다](/help/marketo/product-docs/reporting/revenue-cycle-analytics/email-analysis/build-an-email-analysis-report-that-shows-program-information.md). 이메일이 프로그램의 로컬 자산인 경우 프로그램 이름이 이메일 이름 필드에 추가됩니다. 새 프로그램 이름 필드에는 이메일을 보낸 스마트 캠페인의 프로그램 이름이 표시됩니다. 이메일이 다른 프로그램의 로컬 자산인 경우 이메일 이름 필드에 있는 프로그램과 다를 수 있습니다.
+[이제 전자 메일 지표를 프로그램 이름, 채널 및 태그로 그룹화할 수 있습니다](/help/marketo/product-docs/reporting/revenue-cycle-analytics/email-analysis/build-an-email-analysis-report-that-shows-program-information.md). 이메일이 프로그램의 로컬 자산인 경우 프로그램 이름이 이메일 이름 필드에 추가됩니다. 새 프로그램 이름 필드에는 이메일을 보낸 스마트 캠페인의 프로그램 이름이 표시됩니다. 이메일이 다른 프로그램의 로컬 자산인 경우 이메일 이름 필드에 있는 프로그램과 다를 수 있습니다.
 
 ![](assets/image2014-9-22-10-3a50-3a57.png)
 
@@ -61,6 +61,6 @@ ht-degree: 0%
 
 ## Forms 2.0 개선 사항 {#forms-enhancements}
 
-이 릴리스에서는 Forms 2.0에 몇 가지 &quot;삶의 질&quot; 업데이트를 제공했습니다. 포함된 양식에 대한 점진적 프로파일링을 활성화할 뿐만 아니라, 편집기에서 고급 기능을 보다 쉽게 사용할 수 있도록 워크플로 및 UX 변경 사항이 적용되었습니다. [가시성 규칙 포함](/help/marketo/product-docs/demand-generation/forms/form-fields/dynamically-toggle-visibility-of-a-form-field.md), 고급 감사 페이지 및 숨겨진 필드.
+이 릴리스에서는 Forms 2.0에 몇 가지 &quot;삶의 질&quot; 업데이트를 제공했습니다. 포함된 양식에 점진적 프로파일링을 사용할 수 있을 뿐만 아니라, [가시성 규칙 포함](/help/marketo/product-docs/demand-generation/forms/form-fields/dynamically-toggle-visibility-of-a-form-field.md), 고급 감사 페이지 및 숨겨진 필드를 포함하는 편집기에서 고급 기능을 더 쉽게 사용할 수 있도록 워크플로 및 UX 변경 사항이 적용되었습니다.
 
 ![](assets/image2014-9-22-10-3a51-3a54.png)

@@ -16,16 +16,16 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->Marketo 지원에서는 Adobe IMS 마이그레이션과 관련된 업데이트를 제공할 수 없습니다. Adobe 계정 팀은 앞으로 몇 달 안에 예상 타임라인을 확인할 것입니다. 자세한 내용은 다음을 참조하십시오. [이 문서](/help/marketo/product-docs/administration/marketo-with-adobe-identity/subscription-and-user-migration/understanding-marketo-subscription-and-user-migration-to-the-adobe-admin-console.md){target="_blank"}및 [자주 묻는 질문](/help/marketo/product-docs/administration/marketo-with-adobe-identity/faq.md){target="_blank"}.
+>Marketo 지원에서는 Adobe IMS 마이그레이션과 관련된 업데이트를 제공할 수 없습니다. Adobe 계정 팀은 앞으로 몇 달 안에 예상 타임라인을 확인할 것입니다. 자세한 내용은 [이 문서](/help/marketo/product-docs/administration/marketo-with-adobe-identity/subscription-and-user-migration/understanding-marketo-subscription-and-user-migration-to-the-adobe-admin-console.md){target="_blank"} 및 [자주 묻는 질문](/help/marketo/product-docs/administration/marketo-with-adobe-identity/faq.md){target="_blank"}을 참조하세요.
 
 Adobe ID에 온보딩된 구독의 경우 사용자 관리에 Adobe Admin Console이 사용됩니다. 단일 사인온과 같은 ID 관련 개념도 Admin Console에서 관리됩니다.
 
-* 에 대한 추가 정보 찾기 [Adobe Admin Console](https://helpx.adobe.com/enterprise/using/admin-console.html){target="_blank"}.
-* 에 대한 추가 정보 찾기 [Marketo 구독과 관련된 Adobe 조직 설정](https://helpx.adobe.com/enterprise/using/set-up-identity.html){target="_blank"}.
+* [Adobe Admin Console](https://helpx.adobe.com/enterprise/using/admin-console.html){target="_blank"}에 대한 자세한 정보를 찾으십시오.
+* [Marketo 구독과 관련된 Adobe 조직 설정](https://helpx.adobe.com/enterprise/using/set-up-identity.html){target="_blank"}에 대한 자세한 내용을 확인하세요.
 
 >[!NOTE]
 >
->SSO를 Adobe 조직에서 구현하지 않고 구독이 Adobe ID에 온보딩되었으므로 단일 사인온을 구현하려면 다음에 대한 티켓을 제출하십시오. [Marketo 지원](https://nation.marketo.com/){target="_blank"} 그리고 항목을 &quot;Admin Console 시 Marketo, SSO 구현&quot;으로 지정합니다.
+>Adobe 조직에서 SSO를 구현하지 않고 단일 사인온을 구현하고 구독이 Adobe ID로 온보딩되었다면 [Marketo 지원](https://nation.marketo.com/){target="_blank"}에 티켓을 제출하고 &quot;Marketo on Admin Console, SSO 구현&quot;이라는 주제를 지정하십시오.
 
 ## 프로필 수준 {#profile-levels}
 
@@ -47,7 +47,7 @@ Adobe Identity Management 시스템에 온보딩된 Adobe Marketo Engage 구독�
  </tr>
  <tr>
   <td><strong>Marketo Engage 관리자</strong></td>
-  <td>관리자 권한을 가진 Marketo Engage에 대한 액세스 권한을 부여 받은 사람입니다. Adobe Admin Console이 아닌 Marketo Engage에서 부여된 역할( 는에서 "관리자"로만 표시됨) <b>사용자 편집</b> 모달).</td>
+  <td>관리자 권한을 가진 Marketo Engage에 대한 액세스 권한을 부여 받은 사람입니다. Adobe Admin Console이 아닌 Marketo Engage에서 부여된 역할(<b>사용자 편집</b> 모달에서 "관리자"로만 표시됨).</td>
  </tr>
  <tr>
   <td><strong>Marketo Engage 사용자</strong></td>
@@ -57,7 +57,7 @@ Adobe Identity Management 시스템에 온보딩된 Adobe Marketo Engage 구독�
 
 ## FAQ {#faq}
 
-자주 묻는 질문 [은(는) 여기에서 찾을 수 있음](/help/marketo/product-docs/administration/marketo-with-adobe-identity/faq.md){target="_blank"}.
+FAQ [은(는) 여기에서 찾을 수 있습니다](/help/marketo/product-docs/administration/marketo-with-adobe-identity/faq.md){target="_blank"}.
 
 >[!MORELIKETHIS]
 >

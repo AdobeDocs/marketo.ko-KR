@@ -17,7 +17,7 @@ ht-degree: 5%
 
 >[!IMPORTANT]
 >
->이 문서는 다음을 수행하는 사람만을 위한 것입니다. _아님_ 사용 [Adobe ID가 있는 Marketo](/help/marketo/product-docs/administration/marketo-with-adobe-identity/adobe-identity-management-overview.md). 이 옵션을 선택하면 아래에 설명된 설정에 액세스할 수 있습니다. [Adobe 계정 프로필](https://account.adobe.com/profile).
+>이 문서는 Adobe ID가 있는 [Marketo](/help/marketo/product-docs/administration/marketo-with-adobe-identity/adobe-identity-management-overview.md)을(를) _사용 안 함_&#x200B;하는 사용자를 위한 것입니다. 그렇게 하면 [Adobe 계정 프로필](https://account.adobe.com/profile)에서 아래에 설명된 설정에 액세스할 수 있습니다.
 
 ## 지원되는 언어 {#supported-languages}
 
@@ -30,19 +30,19 @@ ht-degree: 5%
 
 ## 사용자 언어, 로케일 및 시간대 변경 {#change-user-language-locale-and-time-zone}
 
-1. 로 이동 **[!UICONTROL 관리자]** 영역입니다.
+1. **[!UICONTROL 관리자]** 영역으로 이동합니다.
 
    ![](assets/select-your-language-locale-and-time-zone-1.png)
 
-1. 선택 **[!UICONTROL 내 계정]**.
+1. **[!UICONTROL 내 계정]**&#x200B;을 선택하세요.
 
    ![](assets/select-your-language-locale-and-time-zone-2.png)
 
-1. 내 계정에서 **[!UICONTROL 위치 설정 편집]**.
+1. 내 계정에서 **[!UICONTROL 위치 설정 편집]**&#x200B;을 클릭합니다.
 
    ![](assets/select-your-language-locale-and-time-zone-3.png)
 
-1. 변경 **[!UICONTROL 언어]**.
+1. **[!UICONTROL 언어]**&#x200B;를 변경합니다.
 
    ![](assets/select-your-language-locale-and-time-zone-4.png)
 
@@ -50,11 +50,11 @@ ht-degree: 5%
    >
    >로그인 페이지 상단에 있는 언어 드롭다운을 클릭하여 언어만 변경할 수도 있습니다.
 
-1. 변경 **[!UICONTROL 로케일]**.
+1. **[!UICONTROL 로케일]**&#x200B;을 변경합니다.
 
    ![](assets/select-your-language-locale-and-time-zone-5.png)
 
-1. 변경 **[!UICONTROL 시간대]**.
+1. **[!UICONTROL 표준 시간대]**&#x200B;를 변경합니다.
 
    ![](assets/select-your-language-locale-and-time-zone-6.png)
 

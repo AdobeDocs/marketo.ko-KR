@@ -6,7 +6,7 @@ exl-id: 4ad7d7b8-ee1e-4605-b4e0-e72a7e573c05
 feature: Getting Started
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
-source-wordcount: '396'
+source-wordcount: '404'
 ht-degree: 0%
 
 ---
@@ -23,23 +23,23 @@ ht-degree: 0%
 
 ## 1단계: 경고 이메일 만들기 {#step-create-an-alert-email}
 
-1. 로 이동 **[!UICONTROL 마케팅 활동]** 영역입니다.
+1. **[!UICONTROL 마케팅 활동]** 영역으로 이동합니다.
 
    ![](assets/alert-the-sales-rep-1.png)
 
-1. 선택 **내 프로그램** 에서 생성한 항목 [양식이 있는 랜딩 페이지](/help/marketo/getting-started/quick-wins/landing-page-with-a-form.md){target="_blank"} 빠른 성공, 그 다음 아래 **[!UICONTROL 신규]** 클릭 **[!UICONTROL 새 로컬 자산]**.
+1. [랜딩 페이지에서 양식](/help/marketo/getting-started/quick-wins/landing-page-with-a-form.md){target="_blank"} 빠른 승리로 만든 **내 프로그램**&#x200B;을 선택한 다음 **[!UICONTROL 새로 만들기]**&#x200B;에서 **[!UICONTROL 새 로컬 자산]**&#x200B;을 클릭합니다.
 
    ![](assets/alert-the-sales-rep-2.png)
 
-1. 클릭 **[!UICONTROL 이메일]**.
+1. **[!UICONTROL 전자 메일]**&#x200B;을 클릭하세요.
 
    ![](assets/alert-the-sales-rep-3.png)
 
-1. **이름** 이메일 &quot;내 이메일 경고&quot;에서 템플릿을 선택하고 **[!UICONTROL 만들기]**.
+1. 전자 메일 &quot;내 전자 메일 경고&quot;를 **이름**&#x200B;하고 서식 파일을 선택한 다음 **[!UICONTROL 만들기]**&#x200B;를 클릭합니다.
 
    ![](assets/alert-the-sales-rep-4.png)
 
-1. 다음을 입력합니다. **보낸 사람 이름**, **보낸 사람 이메일**, **[!UICONTROL 회신 대상]**, 및 **[!UICONTROL 제목]** 영업 팀이 확인해야 할 사항입니다.
+1. 영업팀에서 보려는 **이름에서**, **전자 메일에서**, **[!UICONTROL 회신]** 및 **[!UICONTROL 제목]**&#x200B;을 입력하십시오.
 
    ![](assets/alert-the-sales-rep-5.png)
 
@@ -51,37 +51,37 @@ ht-degree: 0%
 
    ![](assets/alert-the-sales-rep-7.png)
 
-1. 개인 연락처 정보를 삽입할 위치에 커서를 놓고 **토큰 삽입** 아이콘.
+1. 대화 상대 정보를 삽입할 위치에 커서를 놓고 **토큰 삽입** 아이콘을 클릭합니다.
 
    ![](assets/alert-the-sales-rep-8.png)
 
-1. 다음 항목을 찾아 선택합니다. `{{SP_Send_Alert_Info}}` **[!UICONTROL 토큰]** 및 클릭 **[!UICONTROL 삽입]**.
+1. `{{SP_Send_Alert_Info}}` **[!UICONTROL 토큰]**&#x200B;을(를) 찾아 선택한 다음 **[!UICONTROL 삽입]**&#x200B;을(를) 클릭합니다.
 
    ![](assets/alert-the-sales-rep-9.png)
 
    >[!NOTE]
    >
-   >{{SP_Send_Alert_Info}} 는 경고 이메일에 대한 특수 토큰입니다. 다음을 참조하십시오 [경고 정보 보내기 토큰 사용](/help/marketo/product-docs/email-marketing/general/using-tokens/use-the-send-alert-info-token.md){target="_blank"}{target="_blank"} 자세히 알아보십시오.
+   >{{SP_Send_Alert_Info}}은(는) 경고 전자 메일에 대한 특수 토큰입니다. 자세한 내용은 [경고 정보 보내기 토큰 사용](/help/marketo/product-docs/email-marketing/general/using-tokens/use-the-send-alert-info-token.md){target="_blank"}{target="_blank"}을 참조하세요.
 
-1. 클릭 **[!UICONTROL 저장]**.
+1. **[!UICONTROL 저장]**&#x200B;을 클릭합니다.
 
    ![](assets/alert-the-sales-rep-10.png)
 
-1. 다음을 클릭합니다. **[!UICONTROL 이메일 작업]** 드롭다운 및 선택 **[!UICONTROL 승인 및 닫기]**.
+1. **[!UICONTROL 전자 메일 동작]** 드롭다운을 클릭하고 **[!UICONTROL 승인 및 닫기]**&#x200B;를 선택합니다.
 
    ![](assets/alert-the-sales-rep-11.png)
 
 ## 2단계: 경고 트리거 캠페인 만들기 {#step-create-an-alert-trigger-campaign}
 
-1. 선택 **내 프로그램** 이전에 만든 다음 아래에 **[!UICONTROL 신규]** 클릭 **[!UICONTROL 새 스마트 캠페인]**.
+1. 이전에 만든 **내 프로그램**&#x200B;을 선택한 다음 **[!UICONTROL 새로 만들기]**&#x200B;에서 **[!UICONTROL 새 스마트 캠페인]**&#x200B;을 클릭합니다.
 
    ![](assets/alert-the-sales-rep-12.png)
 
-1. **이름** 캠페인 &quot;내 경고 캠페인&quot; 및 클릭 **[!UICONTROL 만들기]**.
+1. **이름** 캠페인 &quot;내 경고 캠페인&quot;을 선택하고 **[!UICONTROL 만들기]**&#x200B;를 클릭합니다.
 
    ![](assets/alert-the-sales-rep-13.png)
 
-1. 아래 **[!UICONTROL 스마트 목록]** 탭을 클릭하고 **[!UICONTROL 양식 작성]** 캔버스를 트리거합니다.
+1. **[!UICONTROL 스마트 목록]** 탭에서 **[!UICONTROL 양식 채우기]** 트리거를 찾아 캔버스로 드래그합니다.
 
    ![](assets/alert-the-sales-rep-14.png)
 
@@ -89,33 +89,33 @@ ht-degree: 0%
 
    ![](assets/alert-the-sales-rep-15.png)
 
-1. 아래 **[!UICONTROL 플로우]** 탭을 클릭하고 **[!UICONTROL 경고 보내기]** 캔버스에 대한 플로우 작업.
+1. **[!UICONTROL 흐름]** 탭에서 **[!UICONTROL 경고 보내기]** 흐름 작업을 찾아 캔버스로 드래그합니다.
 
    ![](assets/alert-the-sales-rep-16.png)
 
-1. 선택 **[!UICONTROL 내 경고 이메일]** 이전에 만든 후 나가기 **[!UICONTROL 전송 대상]** 다음으로: **[!UICONTROL 영업 담당자]**.
+1. 이전에 만든 **[!UICONTROL 내 알림 이메일]**&#x200B;을(를) 선택하고 **[!UICONTROL 전송 대상]**&#x200B;을(를) **[!UICONTROL 영업 담당자]**(으)로 둡니다.
 
    ![](assets/alert-the-sales-rep-17.png)
 
-1. 에 이메일 주소를 입력합니다. **[!UICONTROL 다른 전자 메일로]** 필드.
+1. **[!UICONTROL 다른 전자 메일로]** 필드에 전자 메일 주소를 입력합니다.
 
    ![](assets/alert-the-sales-rep-18.png)
 
-1. 로 이동 **[!UICONTROL 예약]** 탭을 클릭하고 **[!UICONTROL 활성화]** 단추를 클릭합니다.
+1. **[!UICONTROL 일정]** 탭으로 이동하여 **[!UICONTROL 활성화]** 단추를 클릭합니다.
 
    ![](assets/alert-the-sales-rep-19.png)
 
    >[!TIP]
    >
-   >설정 **[!UICONTROL 자격 규칙]** 끝 **[!UICONTROL 항상]** (Smart Campaign을 편집하여) 동일한 사람이 경고를 여러 번 트리거할 수 있도록 합니다.
+   >같은 사람이 경고를 여러 번 트리거할 수 있도록 **[!UICONTROL 자격 규칙]**&#x200B;을(를) **[!UICONTROL 항상]**(스마트 캠페인 편집)으로 설정하십시오.
 
-1. 클릭 **[!UICONTROL 활성화]** 확인 화면에서 다음을 수행합니다.
+1. 확인 화면에서 **[!UICONTROL 활성화]**&#x200B;를 클릭합니다.
 
    ![](assets/alert-the-sales-rep-20.png)
 
 ## 3단계: 테스트해 보십시오. {#step-test-it-out}
 
-1. 랜딩 페이지를 선택하고 **[!UICONTROL 승인된 페이지 보기]**.
+1. 랜딩 페이지를 선택하고 **[!UICONTROL 승인된 페이지 보기]**&#x200B;를 클릭합니다.
 
    ![](assets/alert-the-sales-21.png)
 
@@ -123,7 +123,7 @@ ht-degree: 0%
    >
    >랜딩 페이지를 승인하는 것을 잊지 마십시오. 승인될 때까지 활성화되지 않습니다.
 
-1. 양식을 작성하고 을 클릭합니다. **[!UICONTROL 제출]**.
+1. 양식을 작성하고 **[!UICONTROL 제출]**&#x200B;을 클릭합니다.
 
    ![](assets/alert-the-sales-22.png)
 
@@ -131,7 +131,7 @@ ht-degree: 0%
 
    >[!NOTE]
    >
-   >다음을 클릭합니다. **[!UICONTROL 개인 정보]** 연락처 정보를 보려면 Marketo에서 탭을 탭하십시오.
+   >연락처 정보를 보려면 Marketo에서 **[!UICONTROL 개인 정보]** 탭을 클릭하십시오.
 
 ## 임무 완료! {#mission-complete}
 

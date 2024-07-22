@@ -7,7 +7,7 @@ feature: Mobile Marketing
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '145'
-ht-degree: 0%
+ht-degree: 1%
 
 ---
 
@@ -21,7 +21,7 @@ ID를 활성화하려면 코드를 획득하여 IT 부서에 제공해야 보안
 >
 >이 기능을 활성화하려면 지원팀에 연락하여 &quot;Vespa 보안 모드&quot;를 요청하십시오.
 
-1. Marketo에서 **관리자** 및 클릭 **모바일 앱 및 장치**.
+1. Marketo에서 **관리자**&#x200B;를 선택하고 **모바일 앱 및 장치**&#x200B;를 클릭합니다.
 
    ![](assets/image2015-12-1-14-3a36-3a30.png)
 
@@ -29,11 +29,11 @@ ID를 활성화하려면 코드를 획득하여 IT 부서에 제공해야 보안
 
    ![](assets/image2015-12-2-10-3a18-3a6.png)
 
-1. 아래로 스크롤하여 Access Security 섹션에서 **편집**.
+1. 아래로 스크롤하여 액세스 보안 섹션에서 **편집**&#x200B;을 클릭합니다.
 
    ![](assets/image2015-12-1-14-3a41-3a37.png)
 
-1. 다음 확인: **보안 활성화** 확인란. 클릭 **저장**.
+1. **보안 사용** 확인란을 선택하십시오. **저장**&#x200B;을 클릭합니다.
 
    ![](assets/image2015-12-1-14-3a54-3a0.png)
 

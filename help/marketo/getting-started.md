@@ -25,7 +25,7 @@ Marketo Engage이 뭐냐고 물으세요? 좋은 질문입니다!
 
 IT 팀의 작은 도움을 받아 즉시 작업을 완료할 수 있습니다.
 
-[설정 시작](/help/marketo/getting-started/initial-setup/setup-steps.md){target="_blank"}
+[설치 시작](/help/marketo/getting-started/initial-setup/setup-steps.md){target="_blank"}
 
 ## 빠른 성공 얻기 {#get-some-quick-wins}
 
@@ -46,7 +46,7 @@ IT 팀의 작은 도움을 받아 즉시 작업을 완료할 수 있습니다.
       <a href="getting-started/quick-wins/send-an-email.md">
        <img alt="가져오기" src="getting-started/assets/getting-started.png" />
        </a>
-    <div><a href="getting-started/quick-wins/send-an-email.md">2. 이메일 보내기</a>
+    <div><a href="getting-started/quick-wins/send-an-email.md">2. 전자 메일 보내기</a>
     </div>
     <br>
   </td>
@@ -55,7 +55,7 @@ IT 팀의 작은 도움을 받아 즉시 작업을 완료할 수 있습니다.
       <img alt="이메일" src="getting-started/assets/getting-started-3.png" />
     </a>
     <div>
-    <a href="getting-started/quick-wins/landing-page-with-a-form.md">3. 양식이 있는 랜딩 페이지</a>
+    <a href="getting-started/quick-wins/landing-page-with-a-form.md">3. </a> 양식이 있는 랜딩 페이지
     </div>
     <br>
   </td>
@@ -64,7 +64,7 @@ IT 팀의 작은 도움을 받아 즉시 작업을 완료할 수 있습니다.
       <img alt="연결" src="getting-started/assets/getting-started-4.png"/>
     </a>
     <div>
-    <a href="getting-started/quick-wins/simple-scoring.md">4. 단순 채점</a>
+    <a href="getting-started/quick-wins/simple-scoring.md">4. 단순 점수</a>
     </div>
     <br>
   </td>
@@ -72,7 +72,7 @@ IT 팀의 작은 도움을 받아 즉시 작업을 완료할 수 있습니다.
       <a href="getting-started/quick-wins/email-auto-response.md">
        <img alt="가져오기" src="getting-started/assets/getting-started-5.png" />
        </a>
-    <div><a href="getting-started/quick-wins/email-auto-response.md">5. 이메일 자동 응답</a>
+    <div><a href="getting-started/quick-wins/email-auto-response.md">5. 전자 메일 자동 응답</a>
     </div>
     <br>
   </td>
@@ -92,7 +92,7 @@ IT 팀의 작은 도움을 받아 즉시 작업을 완료할 수 있습니다.
       <img alt="연결" src="getting-started/assets/getting-started-7.png"/>
     </a>
     <div>
-    <a href="getting-started/quick-wins/drip-drip-nurture.md">7. 점적 점적 육성</a>
+    <a href="getting-started/quick-wins/drip-drip-nurture.md">7. 드립 점적 육성</a>
     </div>
     <br>
   </td>
@@ -100,7 +100,7 @@ IT 팀의 작은 도움을 받아 즉시 작업을 완료할 수 있습니다.
       <a href="getting-started/quick-wins/personalize-an-email.md">
        <img alt="가져오기" src="getting-started/assets/getting-started-8.png" />
        </a>
-    <div><a href="getting-started/quick-wins/personalize-an-email.md">8. 이메일 개인화</a>
+    <div><a href="getting-started/quick-wins/personalize-an-email.md">8. 전자 메일 개인화</a>
     </div>
     <br>
   </td>
@@ -109,7 +109,7 @@ IT 팀의 작은 도움을 받아 즉시 작업을 완료할 수 있습니다.
       <img alt="이메일" src="getting-started/assets/getting-started-9.png" />
     </a>
     <div>
-    <a href="getting-started/quick-wins/alert-the-sales-rep.md">9. 영업 담당자에게 알림</a>
+    <a href="getting-started/quick-wins/alert-the-sales-rep.md">9. 영업 담당자 </a>에게 알림
     </div>
     <br>
   </td>
@@ -127,4 +127,4 @@ IT 팀의 작은 도움을 받아 즉시 작업을 완료할 수 있습니다.
 
 ## 4단계 축하합니다! 넌 국가를 위해 준비됐지  {#congrats-youre-ready-for-the-nation}
 
-다음을 확인하십시오. [마케팅 국가](https://nation.marketo.com){target="_blank"}!
+[마케팅 국가](https://nation.marketo.com){target="_blank"}를 확인하세요!

@@ -19,10 +19,10 @@ ht-degree: 0%
 
    ![](assets/image2015-3-26-12-3a26-3a41.png)
 
-1. 마우스 오른쪽 단추를 클릭하고 선택 **[!UICONTROL 삭제]**.
+1. 마우스 오른쪽 단추를 클릭하고 **[!UICONTROL 삭제]**&#x200B;를 선택합니다.
 
    ![](assets/image2015-3-26-12-3a26-3a51.png)
 
-1. 클릭 **[!UICONTROL 삭제]** 확인할 수 있습니다.
+1. 확인하려면 **[!UICONTROL 삭제]**&#x200B;를 클릭하세요.
 
    ![](assets/image2015-3-20-16-3a21-3a10.png)

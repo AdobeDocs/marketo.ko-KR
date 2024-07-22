@@ -17,11 +17,11 @@ ht-degree: 0%
 
 >[!CAUTION]
 >
->정확한 보고를 위해 _재사용_ Smart Campaign에서 참조하거나 시작한 이메일 프로그램에서 새 이메일 프로그램으로 에셋을 이동하여 이메일 프로그램의 이메일. 이렇게 하면 해당 이메일에 첨부된 모든 보고 대시보드의 모든 데이터가 집계됩니다. 이메일을 다시 사용해야 하는 경우 [복제](/help/marketo/product-docs/core-marketo-concepts/programs/working-with-programs/clone-an-asset-in-a-program.md){target="_blank"} 대신 에서는 가 이메일을 복사하지만 새 이메일 ID로 새 이메일을 만듭니다.
+>정확한 보고를 위해 Smart Campaign에서 참조하거나 시작한 전자 메일 프로그램에서 새 전자 메일 프로그램으로 자산을 이동하여 전자 메일 프로그램에서 전자 메일을 _다시 사용_&#x200B;하지 마십시오. 이렇게 하면 해당 이메일에 첨부된 모든 보고 대시보드의 모든 데이터가 집계됩니다. 이메일을 다시 사용해야 하는 경우 [복제](/help/marketo/product-docs/core-marketo-concepts/programs/working-with-programs/clone-an-asset-in-a-program.md){target="_blank"}하십시오. 복사한 이메일은 새 이메일 ID로 새로 만듭니다.
 
 ## 이메일 프로그램 선택 {#select-your-email-program}
 
-1. 다음으로 이동 **마케팅 활동**.
+1. **마케팅 활동**(으)로 이동합니다.
 
    ![](assets/login-marketing-activities.png)
 
@@ -41,7 +41,7 @@ ht-degree: 0%
 
 ## 전자 메일 프로그램 보기 {#email-program-view}
 
-또는 A/B 테스트를 추가하지 않은 경우 *또는* 테스트가 끝나면 다음 항목이 표시됩니다.
+또는 A/B 테스트 *또는*&#x200B;을(를) 추가하지 않고 테스트가 종료된 경우 다음이 표시됩니다.
 
 ![](assets/image2014-9-12-14-3a3-3a3.png)
 
@@ -51,5 +51,5 @@ ht-degree: 0%
 
 >[!MORELIKETHIS]
 >
->* [이메일 프로그램 대시보드 사용 - A/B 테스트 보기](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/email-test-a-b-test/use-the-email-program-dashboard-a-b-test-view.md)
->* [이메일 프로그램 대시보드 사용](/help/marketo/product-docs/email-marketing/email-programs/email-program-data/use-the-email-program-dashboard.md)
+>* [전자 메일 프로그램 대시보드 사용 - A/B 테스트 보기](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/email-test-a-b-test/use-the-email-program-dashboard-a-b-test-view.md)
+>* [전자 메일 프로그램 대시보드 사용](/help/marketo/product-docs/email-marketing/email-programs/email-program-data/use-the-email-program-dashboard.md)

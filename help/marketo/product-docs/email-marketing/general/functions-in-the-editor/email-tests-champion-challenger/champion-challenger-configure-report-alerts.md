@@ -6,7 +6,7 @@ exl-id: 09e17279-c9f5-4a12-ab07-9fce8a0e77ee
 feature: Email Editor
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
-source-wordcount: '139'
+source-wordcount: '140'
 ht-degree: 0%
 
 ---
@@ -31,11 +31,11 @@ Marketo에서 이메일 테스트 진행 방식에 대한 보고서를 보내드
 
    ![](assets/image2014-9-15-13-3a13-3a7.png)
 
-1. 클릭 **다음**.
+1. **다음**&#x200B;을 클릭합니다.
 
    ![](assets/image2014-9-15-13-3a18-3a30.png)
 
-1. 모든 정보가 올바른지 확인하고 **닫기**.
+1. 모든 정보가 올바른지 확인하고 **닫기**&#x200B;를 클릭합니다.
 
    ![](assets/image2014-9-15-13-3a18-3a41.png)
 
@@ -43,4 +43,4 @@ Marketo에서 이메일 테스트 진행 방식에 대한 보고서를 보내드
 
    >[!MORELIKETHIS]
    >
-   >[챔피언/챌린저: 이메일 테스트 승인](/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/email-tests-champion-challenger/champion-challenger-approve-your-email-test.md)
+   >[챔피언/도전자: 이메일 테스트 승인](/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/email-tests-champion-challenger/champion-challenger-approve-your-email-test.md)

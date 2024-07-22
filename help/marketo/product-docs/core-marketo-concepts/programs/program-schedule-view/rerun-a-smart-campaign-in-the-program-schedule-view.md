@@ -15,7 +15,7 @@ ht-degree: 0%
 
 프로그램 일정 보기에서 직접 기존 Smart Campaign의 새 실행을 쉽게 만들 수 있습니다.
 
-1. 다음으로 이동 **[!UICONTROL 마케팅 활동]**.
+1. **[!UICONTROL 마케팅 활동]**(으)로 이동합니다.
 
    ![](assets/login-marketing-activities-3.png)
 
@@ -33,6 +33,6 @@ ht-degree: 0%
 
    >[!TIP]
    >
-   >다음 작업을 수행할 수도 있습니다. [프로그램 포커스](/help/marketo/product-docs/core-marketo-concepts/marketing-calendar/understanding-the-calendar/understand-enable-program-focus.md).
+   >[프로그램 포커스](/help/marketo/product-docs/core-marketo-concepts/marketing-calendar/understanding-the-calendar/understand-enable-program-focus.md)에서도 수행할 수 있습니다.
 
 붐! 이와 마찬가지로 해당 Smart Campaign에 대한 다른 실행을 예약했습니다. Smart Campaign에 이메일 보내기 단계가 포함되어 있는 경우 해당 단계도 표시됩니다.

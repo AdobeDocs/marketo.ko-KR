@@ -6,7 +6,7 @@ exl-id: e0995ebc-47fb-4f10-b767-4fe9f572b2d2
 feature: Integrations
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
-source-wordcount: '222'
+source-wordcount: '238'
 ht-degree: 0%
 
 ---
@@ -36,12 +36,12 @@ Facebook 리드 광고 캠페인은 리드를 생성하고 마케팅 캠페인�
 >
 >오프라인 전환이 없다면 광고주는 광고 3에 더 많은 돈을 투자할 것입니다. 오프라인 전환 데이터를 사용하면 광고주가 광고 1에 투자할 가능성이 높아집니다.
 
-다음을 수행할 수 있습니다. [facebook 오프라인 전환 설정](/help/marketo/product-docs/demand-generation/facebook/set-up-facebook-offline-conversions.md) facebook으로 오프라인 광고 성능을 보냅니다.
+[Facebook 오프라인 전환을 설정](/help/marketo/product-docs/demand-generation/facebook/set-up-facebook-offline-conversions.md)하여 Facebook에 오프라인 광고 성능을 보낼 수 있습니다.
 
-1. 다음을 확인하십시오. [Facebook LaunchPoint 통합](/help/marketo/product-docs/demand-generation/ad-network-integrations/add-facebook-custom-audiences-as-a-launchpoint-service.md) 은(는) 최신 버전입니다.
+1. [Facebook LaunchPoint 통합](/help/marketo/product-docs/demand-generation/ad-network-integrations/add-facebook-custom-audiences-as-a-launchpoint-service.md)이 최신 상태인지 확인하세요.
 1. 수익 주기 모델의 단계를 Facebook의 오프라인 전환 단계에 매핑합니다.
 1. facebook 잠재 고객이 Facebook 잠재 고객 광고에서 생성되고 매핑된 단계에 도달하면 Marketo은 안전하고 자동화된 API를 통해 오프라인 전환 데이터를 하루에 여러 번 Facebook으로 다시 보냅니다. 데이터가 Facebook 광고 관리자 보고서에 나타납니다.
 
 >[!MORELIKETHIS]
 >
->[facebook 오프라인 전환 설정](/help/marketo/product-docs/demand-generation/facebook/set-up-facebook-offline-conversions.md)
+>[Facebook 오프라인 전환 설정](/help/marketo/product-docs/demand-generation/facebook/set-up-facebook-offline-conversions.md)

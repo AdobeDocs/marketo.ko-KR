@@ -13,7 +13,7 @@ ht-degree: 0%
 
 # Salesforce1의 최상의 선택 {#best-bets-in-salesforce}
 
-사용자 [최상의 선택](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/features/stars-and-flames/priority-urgency-relative-score-and-best-bets.md) 가장 긴급도가 높고 상대 점수가 높은 리드 및 연락처입니다. 소유한 리드만 해당 목록에 표시되며, 리드 점수가 변경되면 목록이 업데이트됩니다.
+[최고 베팅](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/features/stars-and-flames/priority-urgency-relative-score-and-best-bets.md)은(는) 가장 긴급도가 높고 상대 점수가 높은 리드 및 연락처입니다. 소유한 리드만 해당 목록에 표시되며, 리드 점수가 변경되면 목록이 업데이트됩니다.
 
 1. Salesforce 앱의 Marketo 영역으로 이동합니다.
 
@@ -23,5 +23,5 @@ ht-degree: 0%
 
 >[!MORELIKETHIS]
 >
->* [Salesforce1의 흥미로운 순간](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/msi-for-mobile/interesting-moments-in-salesforce1.md)
->* [Salesforce1에서 Marketo 이메일, 캠페인 및 관심 목록 작업 보내기](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/msi-for-mobile/send-marketo-email-and-campaign-and-watchlist-actions-in-salesforce1.md)
+>* [Salesforce의 흥미로운 순간1](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/msi-for-mobile/interesting-moments-in-salesforce1.md)
+>* [Salesforce1에서 Marketo 전자 메일 및 Campaign 및 Watchlist 작업 보내기](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/msi-for-mobile/send-marketo-email-and-campaign-and-watchlist-actions-in-salesforce1.md)

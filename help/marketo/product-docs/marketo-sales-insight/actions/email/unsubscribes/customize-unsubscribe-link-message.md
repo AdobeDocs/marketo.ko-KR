@@ -18,11 +18,11 @@ ht-degree: 0%
 >
 >이 정보는 데이터베이스에 다시 캡처되지 않으므로 Marketo Sales에서 서드파티 구독 취소 링크를 사용할 수 없습니다.
 
-1. 톱니바퀴 아이콘을 클릭하고 **설정**.
+1. 톱니바퀴 아이콘을 클릭하고 **설정**&#x200B;을 선택합니다.
 
    ![](assets/customize-unsubscribe-link-message-1.png)
 
-1. Admin Settings에서 **구독 취소**.
+1. 관리자 설정에서 **구독 취소**&#x200B;를 클릭합니다.
 
    ![](assets/customize-unsubscribe-link-message-2.png)
 
@@ -38,10 +38,10 @@ ht-degree: 0%
    >
    >어떤 URL을 입력하든 상관없습니다. 이메일을 첫 번째(또는 전용) 하이퍼링크를 보내면 자동으로 기본 구독 취소 페이지로 연결됩니다.
 
-1. URL을 입력하고 링크를 현재 창에서 열지 또는 새 창에서 열지를 결정한 다음 **저장**.
+1. URL을 입력하고 링크를 현재 창이나 새 창에서 열지를 결정한 다음 **저장**&#x200B;을 클릭합니다.
 
    ![](assets/customize-unsubscribe-link-message-5.png)
 
-1. 클릭 **저장** 맨 아래에 변경 내용을 저장합니다.
+1. 변경 사항을 저장하려면 맨 아래에 있는 **저장**&#x200B;을 클릭하세요.
 
    ![](assets/customize-unsubscribe-link-message-6.png)

@@ -34,16 +34,16 @@ Analytics 페이지는 10분마다 업데이트됩니다.
 
 ## 내 탭 {#me-tab}
 
-다음 [내 탭](/help/marketo/product-docs/marketo-sales-insight/actions/analytics/understanding-the-me-tab.md){target="_blank"} 은(는) 이메일, 템플릿 및 링크의 참여를 확인할 수 있는 훌륭한 공간입니다. Sales Insight Actions 의 관리자인 경우 팀의 모든 사용자별로 필터링하여 상태를 확인할 수 있습니다.
+[내 탭](/help/marketo/product-docs/marketo-sales-insight/actions/analytics/understanding-the-me-tab.md){target="_blank"}은(는) 전자 메일, 템플릿 및 링크의 참여를 확인할 수 있는 좋은 위치입니다. Sales Insight Actions 의 관리자인 경우 팀의 모든 사용자별로 필터링하여 상태를 확인할 수 있습니다.
 
 ## 팀 탭 {#team-tab}
 
-다음에서 [팀 탭](/help/marketo/product-docs/marketo-sales-insight/actions/analytics/understanding-the-team-tab.md){target="_blank"}, 전체 팀에 대한 통계 및 등급을 참조하십시오. 만든 하위 팀을 기준으로 필터링할 수도 있습니다.
+[팀 탭](/help/marketo/product-docs/marketo-sales-insight/actions/analytics/understanding-the-team-tab.md){target="_blank"}에서 전체 팀에 대한 통계 및 등급을 참조하십시오. 만든 하위 팀을 기준으로 필터링할 수도 있습니다.
 
 ## 컨텐츠 탭 {#content-tab}
 
-다음 [컨텐츠 탭](/help/marketo/product-docs/marketo-sales-insight/actions/analytics/understanding-the-content-tab.md){target="_blank"} 템플릿, 컨텐츠 및 링크에 대한 통계를 포함합니다. 모든 사람 또는 관리자가 만든 팀별로 필터링할 수 있습니다.
+[콘텐츠 탭](/help/marketo/product-docs/marketo-sales-insight/actions/analytics/understanding-the-content-tab.md){target="_blank"}에는 템플릿, 콘텐츠 및 링크에 대한 통계가 있습니다. 모든 사람 또는 관리자가 만든 팀별로 필터링할 수 있습니다.
 
-제목 열 아래에 파란색 텍스트가 표시되면 템플릿이 공유되는 것입니다. 파란색 텍스트를 클릭하여 해당 템플릿으로 가져올 수 있습니다. 다음을 클릭하여 사용량 보기 **템플릿 분석**.
+제목 열 아래에 파란색 텍스트가 표시되면 템플릿이 공유되는 것입니다. 파란색 텍스트를 클릭하여 해당 템플릿으로 가져올 수 있습니다. **템플릿 분석**&#x200B;을 클릭하여 사용량을 확인합니다.
 
 &quot;콘텐츠 클릭 수&quot;는 수신자가 이메일의 링크를 클릭할 때 계산됩니다.

@@ -5,8 +5,8 @@ exl-id: 9c48b830-cce6-48bd-88c4-4d02e3ada2b1
 feature: Marketo with Adobe Identity
 source-git-commit: 02b2e39580c5eac63de4b4b7fdaf2a835fdd4ba5
 workflow-type: tm+mt
-source-wordcount: '293'
-ht-degree: 0%
+source-wordcount: '286'
+ht-degree: 2%
 
 ---
 
@@ -14,7 +14,7 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->**시스템** 관리자는 Adobe 조직 수준에서만 생성됩니다. 두 개 이상이 필요한 경우 다음으로 문의하십시오. [Marketo 지원](https://nation.marketo.com/t5/support/ct-p/Support).
+>**시스템** 관리자는 Adobe 조직 수준에서만 만들어집니다. 두 개 이상이 필요한 경우 [Marketo 지원](https://nation.marketo.com/t5/support/ct-p/Support)에 문의하십시오.
 
 ## 제품 관리자 추가 {#add-a-product-admin}
 
@@ -22,11 +22,11 @@ ht-degree: 0%
 >
 >Marketo Engage에 액세스하려면 제품 프로필에 관리자를 추가해야 합니다.
 
-1. 에 로그인합니다 [Adobe Admin Console](https://adminconsole.adobe.com/){target="_blank"}.
+1. [Adobe Admin Console](https://adminconsole.adobe.com/){target="_blank"}에 로그인합니다.
 
    ![](assets/add-or-remove-a-product-admin-1.png)
 
-1. 클릭 **Marketo Engage**.
+1. **Marketo Engage**&#x200B;을 클릭합니다.
 
    ![](assets/add-or-remove-a-product-admin-2.png)
 
@@ -34,15 +34,15 @@ ht-degree: 0%
 
    ![](assets/add-or-remove-a-product-admin-3.png)
 
-1. 다음을 클릭합니다. **[!UICONTROL 관리자]** 탭.
+1. **[!UICONTROL 관리자]** 탭을 클릭합니다.
 
    ![](assets/add-or-remove-a-product-admin-4.png)
 
-1. 다음을 클릭합니다. **[!UICONTROL 관리자 추가]** 단추를 클릭합니다.
+1. **[!UICONTROL 관리자 추가]** 단추를 클릭합니다.
 
    ![](assets/add-or-remove-a-product-admin-5.png)
 
-1. 추가하려는 관리자의 이메일 주소 또는 사용자 이름을 입력합니다. 이름과 성은 선택 사항입니다. 클릭 **[!UICONTROL 저장]**.
+1. 추가하려는 관리자의 이메일 주소 또는 사용자 이름을 입력합니다. 이름과 성은 선택 사항입니다. **[!UICONTROL 저장]**&#x200B;을 클릭합니다.
 
    ![](assets/add-or-remove-a-product-admin-6.png)
 
@@ -50,15 +50,15 @@ ht-degree: 0%
 
    ![](assets/add-or-remove-a-product-admin-7.png)
 
-1. Products에서 세 점 메뉴를 클릭하고 **[!UICONTROL 편집]**.
+1. Products에서 세 점 메뉴를 클릭하고 **[!UICONTROL 편집]**&#x200B;을 선택합니다.
 
    ![](assets/add-or-remove-a-product-admin-8.png)
 
-1. 다음을 클릭합니다. **+** 서명. 원하는 Marketo Engage 구독 옆에 있는 V자형 화살표를 클릭하고(둘 이상 있는 경우) 원하는 제품 프로필을 선택합니다.
+1. **+** 기호를 클릭합니다. 원하는 Marketo Engage 구독 옆에 있는 V자형 화살표를 클릭하고(둘 이상 있는 경우) 원하는 제품 프로필을 선택합니다.
 
    ![](assets/add-or-remove-a-product-admin-9.png)
 
-1. 클릭 **[!UICONTROL 저장]**.
+1. **[!UICONTROL 저장]**&#x200B;을 클릭합니다.
 
    ![](assets/add-or-remove-a-product-admin-10.png)
 
@@ -70,11 +70,11 @@ ht-degree: 0%
 
 ## 관리자 제거 {#remove-a-user}
 
-1. 에 로그인합니다 [Adobe Admin Console](https://adminconsole.adobe.com/){target="_blank"}.
+1. [Adobe Admin Console](https://adminconsole.adobe.com/){target="_blank"}에 로그인합니다.
 
    ![](assets/add-or-remove-a-product-admin-11.png)
 
-1. 클릭 **Marketo Engage**.
+1. **Marketo Engage**&#x200B;을 클릭합니다.
 
    ![](assets/add-or-remove-a-product-admin-12.png)
 
@@ -82,7 +82,7 @@ ht-degree: 0%
 
    ![](assets/add-or-remove-a-product-admin-13.png)
 
-1. 다음을 클릭합니다. **[!UICONTROL 관리자]** 탭.
+1. **[!UICONTROL 관리자]** 탭을 클릭합니다.
 
    ![](assets/add-or-remove-a-product-admin-14.png)
 
@@ -90,7 +90,7 @@ ht-degree: 0%
 
    ![](assets/add-or-remove-a-product-admin-15.png)
 
-1. 클릭 **[!UICONTROL 관리자 제거]** 확인할 수 있습니다.
+1. 확인하려면 **[!UICONTROL 관리자 제거]**&#x200B;를 클릭하세요.
 
    ![](assets/add-or-remove-a-product-admin-16.png)
 

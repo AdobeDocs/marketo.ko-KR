@@ -6,7 +6,7 @@ exl-id: a32f8694-faf2-4183-a485-82fd859b77d2
 feature: Marketo Sales Insights
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
-source-wordcount: '1503'
+source-wordcount: '1525'
 ht-degree: 0%
 
 ---
@@ -17,13 +17,13 @@ Sales Insights 대시보드에서 사용할 수 있는 기능에 대해 자세�
 
 >[!PREREQUISITES]
 >
->최신 MSI SFDC 패키지 및 [구성](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/configuration/configuration-for-existing-customers.md).
+>최신 MSI SFDC 패키지 및 [구성](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/configuration/configuration-for-existing-customers.md)이 있어야 합니다.
 
 ![](assets/insights-dashboard-feature-overview-1.png)
 
 ## 연락처 레이아웃 {#contact-layout}
 
-**참여 속도 그리드**
+**참여 속도 눈금**
 
 * 이 스마트 그리드에는 지난 90일 동안의 관심 있는 순간, 이메일 및 웹 활동이 포함됩니다
 * &quot;계정 표시&quot; 활동을 선택할 수 있습니다. 이렇게 하면 연락처 보기에 모든 계정 수준의 관심 있는 순간, 이메일 및 웹 활동이 계층화됩니다.
@@ -64,7 +64,7 @@ Sales Insights 대시보드에서 사용할 수 있는 기능에 대해 자세�
 
 ## 잠재 고객 레이아웃 {#lead-layout}
 
-**참여 속도 그리드**
+**참여 속도 눈금**
 
 * 이 스마트 그리드에는 지난 90일 동안의 관심 있는 순간, 이메일 및 웹 활동이 포함됩니다
 * 특정 주를 강조 표시하여 해당 주 내에 활동을 볼 수 있습니다.
@@ -80,7 +80,7 @@ Sales Insights 대시보드에서 사용할 수 있는 기능에 대해 자세�
 * 주별 요약 표시줄에는 해당 주의 흥미로운 순간, 이메일 및 웹 활동이 표시됩니다. 각 아이콘은 클릭 가능하며 특정 활동을 표시하는 필터로 사용할 수 있습니다
 * 기본 보기: 현재 보기의 활동 목록입니다
 
-**예정된 이메일 캠페인 및 이벤트:**
+**예정된 전자 메일 캠페인 및 이벤트:**
 
 이메일 캠페인 탭:
 
@@ -105,7 +105,7 @@ Sales Insights 대시보드에서 사용할 수 있는 기능에 대해 자세�
 
 ## 계정 레이아웃 {#account-layout}
 
-**참여 속도 그리드**
+**참여 속도 눈금**
 
 * 이 스마트 그리드에는 계정의 모든 연락처에 대한 지난 90일 동안의 관심 있는 순간, 이메일 및 웹 활동이 포함됩니다
 * 특정 주를 강조 표시하여 해당 주 내에 활동을 볼 수 있습니다.
@@ -141,7 +141,7 @@ Sales Insights 대시보드에서 사용할 수 있는 기능에 대해 자세�
 
 ## 영업 기회 레이아웃 {#opportunity-layout}
 
-**참여 속도 그리드**
+**참여 속도 눈금**
 
 * 이 스마트 그리드에는 Opportunity 의 모든 연락처에 대한 지난 90일 동안의 Interest Moment, Email 및 Web Activity 가 포함됩니다.
 * 특정 주를 강조 표시하여 해당 주 내에 활동을 볼 수 있습니다.

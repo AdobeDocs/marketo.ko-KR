@@ -16,19 +16,19 @@ Campaign Inspector를 사용하여 한 곳에서 모든 스마트 캠페인을 �
 
 ## Campaign Inspector 활성화 {#enable-campaign-inspector}
 
-1. 로 이동 **[!UICONTROL 관리자]** 영역입니다.
+1. **[!UICONTROL 관리자]** 영역으로 이동합니다.
 
    ![](assets/campaign-inspector-1.png)
 
-1. 클릭 **[!UICONTROL 보물상자]**.
+1. **[!UICONTROL 보물 상자]**&#x200B;를 클릭합니다.
 
    ![](assets/campaign-inspector-2.png)
 
-1. 클릭 **[!UICONTROL 편집]** campaign Inspector 옆에 있습니다.
+1. Campaign Inspector 옆에 있는 **[!UICONTROL 편집]**&#x200B;을 클릭합니다.
 
    ![](assets/campaign-inspector-3.png)
 
-1. 다음 항목 선택 **[!UICONTROL 활성화됨]** 확인란 및 클릭 **[!UICONTROL 저장]**.
+1. **[!UICONTROL 사용]** 확인란을 선택하고 **[!UICONTROL 저장]**&#x200B;을 클릭합니다.
 
    ![](assets/campaign-inspector-4.png)
 
@@ -42,7 +42,7 @@ Campaign Inspector를 사용하여 한 곳에서 모든 스마트 캠페인을 �
 
 ![](assets/campaign-inspector-5.png)
 
-다음을 클릭합니다. **[!UICONTROL 활성 캠페인]** 드롭다운을 클릭하여 다른 유형의 캠페인으로 필터링합니다.
+**[!UICONTROL 활성 캠페인]** 드롭다운을 클릭하여 다양한 캠페인 유형별로 필터링합니다.
 
 ![](assets/campaign-inspector-6.png)
 

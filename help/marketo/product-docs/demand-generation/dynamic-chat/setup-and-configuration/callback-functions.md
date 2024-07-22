@@ -80,7 +80,7 @@ window.addEventListener('adobedx.conversations.ready', () => {
 }); 
 ```
 
-다음 `event` 매개 변수는 대화와 관련된 메타데이터가 있는 개체입니다. 에 액세스하여 이 메타데이터에 액세스할 수 있습니다. `event.data`.
+`event` 매개 변수는 대화와 관련된 메타데이터가 있는 개체입니다. `event.data`에 액세스하여 이 메타데이터에 액세스할 수 있습니다.
 
 다음은 액세스할 수 있는 몇 가지 주요 메타데이터 값입니다.
 
@@ -145,7 +145,7 @@ window.addEventListener('adobedx.conversations.ready', () => {
 }); 
 ```
 
-다음 `event` 매개 변수는 대화와 관련된 메타데이터가 있는 개체입니다. 에 액세스하여 이 메타데이터에 액세스할 수 있습니다. `event.data`.
+`event` 매개 변수는 대화와 관련된 메타데이터가 있는 개체입니다. `event.data`에 액세스하여 이 메타데이터에 액세스할 수 있습니다.
 
 다음은 액세스할 수 있는 몇 가지 주요 메타데이터 값입니다.
 
@@ -199,7 +199,7 @@ window.addEventListener('adobedx.conversations.ready', () => {
 }); 
 ```
 
-다음 `event` 매개 변수는 대화와 관련된 메타데이터가 있는 개체입니다. 에 액세스하여 이 메타데이터에 액세스할 수 있습니다. `event.data`.
+`event` 매개 변수는 대화와 관련된 메타데이터가 있는 개체입니다. `event.data`에 액세스하여 이 메타데이터에 액세스할 수 있습니다.
 
 다음은 액세스할 수 있는 몇 가지 주요 메타데이터 값입니다.
 
@@ -304,7 +304,7 @@ window.addEventListener('adobedx.conversations.ready', () => {
 }); 
 ```
 
-다음 `event` 매개 변수는 대화와 관련된 메타데이터가 있는 개체입니다. 에 액세스하여 이 메타데이터에 액세스할 수 있습니다. `event.data`.
+`event` 매개 변수는 대화와 관련된 메타데이터가 있는 개체입니다. `event.data`에 액세스하여 이 메타데이터에 액세스할 수 있습니다.
 
 다음은 액세스할 수 있는 몇 가지 주요 메타데이터 값입니다.
 

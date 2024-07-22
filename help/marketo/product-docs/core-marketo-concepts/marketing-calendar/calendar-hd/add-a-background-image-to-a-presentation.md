@@ -6,7 +6,7 @@ exl-id: 3ca33701-0f94-448a-8ecc-45d0b2bfb38e
 feature: Marketing Calendar
 source-git-commit: 02b2e39580c5eac63de4b4b7fdaf2a835fdd4ba5
 workflow-type: tm+mt
-source-wordcount: '93'
+source-wordcount: '97'
 ht-degree: 0%
 
 ---
@@ -19,7 +19,7 @@ ht-degree: 0%
 >
 >[프레젠테이션 만들기](/help/marketo/product-docs/core-marketo-concepts/marketing-calendar/calendar-hd/create-a-presentation.md)
 
-1. 프레젠테이션을 마우스 오른쪽 단추로 클릭하고 **[!UICONTROL 설정 보기]**.
+1. 프레젠테이션을 마우스 오른쪽 단추로 클릭하고 **[!UICONTROL 설정 보기]**&#x200B;를 선택합니다.
 
    >[!NOTE]
    >
@@ -27,7 +27,7 @@ ht-degree: 0%
 
    ![](assets/image2015-3-24-14-3a36-3a52.png)
 
-1. 드래그 앤 드롭 **[!UICONTROL 배경 이미지]** 오른쪽 트리에서 캔버스로
+1. 오른쪽 트리에서 캔버스로 **[!UICONTROL 배경 이미지]**&#x200B;를 끌어서 놓습니다.
 
    ![](assets/image2015-3-24-14-3a39-3a40.png)
 
@@ -35,11 +35,11 @@ ht-degree: 0%
 
    >[!TIP]
    >
-   >가장 깔끔한 모양에는 다음과 같은 이미지를 사용하십시오. **1920 x 1080** 또는 **1280 x 720**.
+   >가장 깔끔한 룩의 경우 **1920 x 1080** 또는 **1280 x 720** 이미지를 사용하십시오.
 
    ![](assets/image2015-3-24-14-3a47-3a57.png)
 
-1. 클릭 **[!UICONTROL 미리 보기]** 확인할 수 있습니다.
+1. 확인하려면 **[!UICONTROL 미리 보기]**&#x200B;를 클릭하세요.
 
    ![](assets/image2015-3-24-14-3a51-3a1.png)
 

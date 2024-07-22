@@ -33,11 +33,11 @@ Marketo이 랜딩 페이지를 호스팅하지만 URL을 완전히 사용자 지
 
 ## Munchkin ID 찾기 {#find-your-munchkin-id}
 
-1. 로 이동 **관리자** 영역입니다.
+1. **관리자** 영역으로 이동합니다.
 
    ![](assets/customize-your-landing-page-urls-with-a-cname-1.png)
 
-1. 클릭 **내 계정**.
+1. **내 계정**&#x200B;을 클릭합니다.
 
    ![](assets/customize-your-landing-page-urls-with-a-cname-2.png)
 
@@ -51,25 +51,25 @@ Marketo이 랜딩 페이지를 호스팅하지만 URL을 완전히 사용자 지
 
 ## IT에 요청 보내기 {#send-request-to-it}
 
-IT 직원에게 다음 CNAME을 설정하도록 요청하십시오. (단어 바꾸기) [CNAME] 및 [Munchkin ID] 이전 단계의 텍스트를 사용하는 경우입니다.)
+IT 직원에게 다음 CNAME을 설정하도록 요청하십시오. ([CNAME] 및 [Munchkin ID] 단어를 이전 단계의 텍스트로 바꾸십시오.)
 
 [CNAME].YourCompany.com > [Munchkin ID].mktoweb.com
 
 ## CNAME 설정 완료 {#complete-cname-setup}
 
-1. IT에서 CNAME을 생성했으면 **관리자** 영역입니다.
+1. IT에서 CNAME을 만들었으면 **관리자** 영역으로 이동하십시오.
 
    ![](assets/customize-your-landing-page-urls-with-a-cname-4.png)
 
-1. 클릭 **랜딩 페이지**.
+1. **랜딩 페이지**&#x200B;를 클릭합니다.
 
    ![](assets/customize-your-landing-page-urls-with-a-cname-5.png)
 
-1. 아래 **설정** 섹션, 클릭 **편집**.
+1. **설정** 섹션에서 **편집**&#x200B;을 클릭합니다.
 
    ![](assets/customize-your-landing-page-urls-with-a-cname-6.png)
 
-1. 에 CNAME 입력 **랜딩 페이지의 도메인 이름**, 다음을 입력합니다. **대체 페이지**, 다음을 입력합니다. **홈페이지** 및 클릭 **저장**.
+1. **랜딩 페이지의 도메인 이름**&#x200B;에 CNAME을 입력하고, **대체 페이지**&#x200B;를 입력하고, **홈 페이지**&#x200B;를 입력하고, **저장**&#x200B;을(를) 클릭합니다.
 
    ![](assets/customize-your-landing-page-urls-with-a-cname-7.png)
 

@@ -5,7 +5,7 @@ exl-id: b93ddf2e-0f7b-41e0-ba88-7363f5e34970
 feature: Marketo Sales Insights
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
-source-wordcount: '375'
+source-wordcount: '374'
 ht-degree: 0%
 
 ---
@@ -16,17 +16,17 @@ ht-degree: 0%
 
 >[!PREREQUISITES]
 >
->[Sales Insight Salesforce 패키지 업데이트](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/upgrading/upgrading-your-msi-package.md){target="_blank"} 이 기능을 사용하려면 버전 1.8000 이상으로 업그레이드하십시오.
+>이 기능을 사용하려면 [Sales Insight Salesforce 패키지를 버전 1.8000 이상으로 업데이트](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/upgrading/upgrading-your-msi-package.md){target="_blank"}하십시오.
 
 >[!IMPORTANT]
 >
->이전에 모든 프로필에 대한 Sales Insight 액세스 권한을 부여했거나 모든 사용자에 대한 Sales Insight를 구현한 경우에는 [프로필 수준 액세스 제거](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/configuration/remove-sales-insight-access.md){target="_blank"} 이 사용 권한 집합을 사용합니다.
+>이전에 모든 프로필에 대한 Sales Insight 액세스 권한을 부여했거나 모든 사용자에 대한 Sales Insight를 구현한 경우, 이 권한 집합을 사용하려면 [프로필 수준 액세스 권한을 제거](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/configuration/remove-sales-insight-access.md){target="_blank"}해야 합니다.
 
 ## 개요 {#overview}
 
 &quot;Marketo 앱&quot; 권한은 Sales Insight Salesforce 패키지의 일부입니다. 여기에는 아래에 언급된 객체, apex 클래스 및 visualforce 페이지에 대한 액세스가 포함됩니다. 모든 Sales Insight 기능에 액세스하는 데 필요합니다.
 
-**오브젝트 설정**
+**개체 설정**
 
 <table> 
  <tbody> 
@@ -85,23 +85,23 @@ ht-degree: 0%
 
 1. Salesforce 계정에 로그인합니다.
 
-1. 클릭 **설정**.
+1. **설치**&#x200B;를 클릭합니다.
 
    ![](assets/add-sales-insight-permission-set-1.png)
 
-1. Administrator에서 를 클릭하여 를 엽니다. **사용자 관리**, 그런 다음 **사용자**.
+1. 관리자 아래에서 을(를) 클릭하여 **사용자 관리**&#x200B;를 실행한 다음 **사용자**&#x200B;를 실행합니다.
 
    ![](assets/add-sales-insight-permission-set-2.png)
 
-1. 모든 사용자에서 액세스 권한을 부여할 사용자를 선택한 다음 를 클릭합니다 **권한 집합 할당**.
+1. 모든 사용자에서 액세스 권한을 부여할 사용자를 선택한 다음 **권한 집합 할당**&#x200B;을 클릭합니다.
 
    ![](assets/add-sales-insight-permission-set-3.png)
 
-1. 클릭 **할당 편집**.
+1. **할당 편집**&#x200B;을 클릭합니다.
 
    ![](assets/add-sales-insight-permission-set-4.png)
 
-1. 선택 **Marketo 앱 액세스** 사용 가능한 권한 집합에서 **추가**. 클릭 **저장**.
+1. 사용 가능한 권한 집합에서 **Marketo 앱 액세스**&#x200B;를 선택한 다음 **추가**&#x200B;를 선택합니다. **저장**&#x200B;을 클릭합니다.
 
    ![](assets/add-sales-insight-permission-set-5.png)
 

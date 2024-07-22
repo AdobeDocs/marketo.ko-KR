@@ -17,21 +17,21 @@ ht-degree: 0%
 
 ## 세그먼테이션 초안 만들기 {#create-a-segmentation-draft}
 
-1. 로 이동 **데이터베이스**.
+1. **데이터베이스**(으)로 이동합니다.
 
    ![](assets/db.png)
 
-1. 세분화에서 **세분화 작업** 그런 다음 **초안 만들기**.
+1. 세분화에서 **세분화 작업**&#x200B;을 클릭한 다음 **초안 만들기**&#x200B;를 클릭합니다.
 
    ![](assets/two.png)
 
-1. 다음 **상태** 초안이 있는 승인됨으로 변경합니다. A **초안** 세그먼테이션에 폴더가 만들어집니다.
+1. **상태**&#x200B;이(가) 초안으로 승인됨으로 변경되었습니다. 세분화에 **초안** 폴더가 만들어졌습니다.
 
    ![](assets/three.png)
 
 ## 세그먼트 추가, 편집 또는 삭제 {#add-edit-or-delete-segments}
 
-1. 세분화에서 을(를) 클릭합니다. **세분화 작업** 그런 다음 **세그먼트 편집**.
+1. 세분화에서 **세분화 작업**&#x200B;을 클릭한 다음 **세그먼트 편집**&#x200B;을 클릭합니다.
 
    ![](assets/four.png)
 
@@ -39,7 +39,7 @@ ht-degree: 0%
    >
    >초안의 세그먼트만 편집할 수 있고 승인된 세그먼테이션은 편집할 수 없습니다.
 
-1. **세그먼트 추가**, **편집** 기존(이름 변경 또는 순서 변경) 또는 **삭제** 모든 세그먼트.
+1. **세그먼트 추가**, **편집** 기존 세그먼트(이름 변경 또는 순서 변경) 또는 **모든 세그먼트 삭제**
 
    ![](assets/image2014-9-16-9-3a6-3a9.png)
 
@@ -49,11 +49,11 @@ ht-degree: 0%
 
    >[!CAUTION]
    >
-   >삭제는 이메일, 랜딩 페이지 및 스니펫의 연결된 모든 동적 컨텐츠에 영향을 줍니다. **실행 취소 없음**. 다음 확인: **사용한 사람** 탭을 클릭하여 해당 세그먼트를 사용하는 항목을 확인합니다.
+   >삭제는 이메일, 랜딩 페이지 및 스니펫의 연결된 모든 동적 컨텐츠에 영향을 줍니다. **실행 취소가 없습니다**. **사용한 사람** 탭을 확인하여 해당 세그먼트를 사용하는 항목을 확인하십시오.
 
 ## 세그먼트 규칙 편집 {#edit-segment-rules}
 
-1. 초안에서 **세그먼트**&#x200B;로 이동합니다. **스마트 목록**. 다음과 유사한 규칙 적용 [세그먼트 규칙 정의](/help/marketo/product-docs/personalization/segmentation-and-snippets/segmentation/define-segment-rules.md).
+1. 초안 **세그먼트**&#x200B;에서 **스마트 목록**(으)로 이동합니다. [세그먼트 규칙 정의](/help/marketo/product-docs/personalization/segmentation-and-snippets/segmentation/define-segment-rules.md)와 유사한 규칙을 적용합니다.
 
    ![](assets/image2014-9-16-9-3a6-3a20.png)
 
@@ -69,4 +69,4 @@ ht-degree: 0%
 
 >[!MORELIKETHIS]
 >
->[세분화 삭제](/help/marketo/product-docs/personalization/segmentation-and-snippets/segmentation/delete-a-segmentation.md)
+>[세그먼테이션 삭제](/help/marketo/product-docs/personalization/segmentation-and-snippets/segmentation/delete-a-segmentation.md)

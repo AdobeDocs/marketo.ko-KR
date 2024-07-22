@@ -6,7 +6,7 @@ exl-id: ab0f2700-99e5-4ceb-b9df-80016f30fc85
 feature: Forms
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
-source-wordcount: '128'
+source-wordcount: '122'
 ht-degree: 0%
 
 ---
@@ -17,25 +17,25 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->Marketo이 수행하는 작업 알아보기 [양식을 안전하게 유지](https://nation.marketo.com/t5/Product-Documents/Forms-Service-Enhancements/ta-p/303670#M1038).
+>Marketo이 [양식을 안전하게 유지](https://nation.marketo.com/t5/Product-Documents/Forms-Service-Enhancements/ta-p/303670#M1038)하기 위해 수행하는 작업에 대해 알아봅니다.
 
-1. 다음으로 이동 **마케팅 활동**.
+1. **마케팅 활동**(으)로 이동합니다.
 
    ![](assets/login-marketing-activities.png)
 
-1. 다음 항목 찾기 및 선택 **프로그램**.
+1. **프로그램**&#x200B;을 찾아 선택합니다.
 
    ![](assets/programseelct.png)
 
-1. 아래 **신규**, 클릭 **신규** **로컬** **자산**.
+1. **새로 만들기**&#x200B;에서 **새로 만들기** **로컬** **자산**&#x200B;을 클릭합니다.
 
    ![](assets/newlocalasset.png)
 
-1. 선택 **양식**.
+1. **양식**&#x200B;을 선택하세요.
 
    ![](assets/image2014-9-15-17-3a1-3a20.png)
 
-1. 양식 입력 **이름** 및 클릭 **만들기**.
+1. **이름** 양식을 입력하고 **만들기**&#x200B;를 클릭합니다.
 
    ![](assets/newformwithhands.png)
 

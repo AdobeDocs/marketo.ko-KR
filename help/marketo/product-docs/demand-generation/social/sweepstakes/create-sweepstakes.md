@@ -5,7 +5,7 @@ title: 경품 추첨 만들기
 exl-id: c16c03df-86d0-40ee-ad95-3c2653fa2a07
 source-git-commit: 2671f81f62658447e4b2a3dc2e02a4e0927443e8
 workflow-type: tm+mt
-source-wordcount: '299'
+source-wordcount: '300'
 ht-degree: 0%
 
 ---
@@ -18,11 +18,11 @@ ht-degree: 0%
 >
 >일부 Marketo Engage 사용자가 이 기능을 구입한 것은 아닙니다. 자세한 내용은 Adobe 계정 팀(계정 관리자)에 문의하십시오.
 
-1. 프로그램 내에서 다음을 선택합니다. **신규** > **새 로컬 자산**.
+1. 프로그램 내에서 **새로 만들기** > **새 로컬 자산**&#x200B;을 선택합니다.
 
    ![](assets/image2014-9-25-17-3a29-3a20.png)
 
-1. 로컬 자산 갤러리에서 **경품 추첨**.
+1. 로컬 자산 갤러리에서 **경품 추첨**&#x200B;을 클릭합니다.
 
    ![](assets/image2014-9-25-17-3a29-3a31.png)
 
@@ -32,11 +32,11 @@ ht-degree: 0%
 
    >[!TIP]
    >
-   >시간을 절약하려면 다음을 사용할 수 있습니다. **다음에서 복제** 기존 경품 추첨에서 모든 설정을 복사하는 옵션.
+   >시간을 절약하기 위해 **다음에서 복제** 옵션을 사용하여 기존 경품 추첨에서 모든 설정을 복사할 수 있습니다.
 
    경품 추첨 편집기가 새 창에서 열립니다. 기본 설정은 모두 정상이지만 몇 가지 세부 사항을 구성해야 합니다. 다음 단계에서는 방법을 보여 드리겠습니다.
 
-1. 클릭 **경품 추첨 세부 정보**.
+1. **경품 추첨 정보**&#x200B;를 클릭합니다.
 
    ![](assets/image2014-9-25-17-3a32-3a37.png)
 
@@ -48,7 +48,7 @@ ht-degree: 0%
    >
    >일별 및 주별 드로잉의 경우 시작 및 종료 시간이 각각 오전 12시와 오후 11시 59분으로 고정되어 있습니다. 1회 드로잉의 경우 시작 및 종료 시간을 직접 선택할 수 있습니다.
 
-1. 클릭 **고급 옵션**.
+1. **고급 옵션**&#x200B;을 클릭합니다.
 
    ![](assets/image2014-9-25-17-3a33-3a19.png)
 
@@ -60,19 +60,19 @@ ht-degree: 0%
 
    >[!NOTE]
    >
-   >이 화면에서 개인정보 처리방침 링크를 추가할 수도 있습니다. 다음을 참조하십시오 [소셜 앱에 개인정보 처리방침 추가](/help/marketo/product-docs/demand-generation/social/social-functions/add-your-privacy-policy-to-a-social-app.md).
+   >이 화면에서 개인정보 처리방침 링크를 추가할 수도 있습니다. [소셜 앱에 개인정보 처리방침 추가](/help/marketo/product-docs/demand-generation/social/social-functions/add-your-privacy-policy-to-a-social-app.md)를 참조하십시오.
 
-1. 클릭 **완료**.
+1. **마침**&#x200B;을 클릭합니다.
 
    ![](assets/image2014-9-25-17-3a34-3a2.png)
 
-1. 클릭 **승인 및 닫기**.
+1. **승인 및 닫기**&#x200B;를 클릭합니다.
 
    ![](assets/image2014-9-25-17-3a34-3a15.png)
 
    >[!TIP]
    >
-   >경품행사 기본값을 변경하려면 **뒤로**. 나중에 승인하지 않고 작업을 저장하려면 을 클릭합니다. **닫기**.
+   >경품행사 기본값을 변경하려면 **뒤로**&#x200B;를 클릭하십시오. 나중에 승인하지 않고 작업을 저장하려면 **닫기**&#x200B;를 클릭하세요.
 
 경품 추첨에 문제가 있는 경우, 경품 추첨이 승인되기 전에 이를 언급하라는 메시지가 표시됩니다.
 
@@ -80,4 +80,4 @@ ht-degree: 0%
 
 >[!MORELIKETHIS]
 >
->다음 단계는 [경품 게재](/help/marketo/product-docs/demand-generation/social/sweepstakes/publish-a-sweepstakes.md)그러나 경품 추첨의 모양과 설정을 변경할 수 있습니다. 다음으로 시작 [경품 스타일 맞춤화](/help/marketo/product-docs/demand-generation/social/sweepstakes/customize-sweepstakes-styles.md).
+>다음 단계는 [경품 게재](/help/marketo/product-docs/demand-generation/social/sweepstakes/publish-a-sweepstakes.md)이지만, 경품 모양과 설정을 변경할 수 있습니다. [경품 스타일 사용자 지정](/help/marketo/product-docs/demand-generation/social/sweepstakes/customize-sweepstakes-styles.md)부터 시작합니다.

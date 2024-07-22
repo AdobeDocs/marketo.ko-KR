@@ -14,7 +14,7 @@ ht-degree: 0%
 
 Adobe Dynamic Chat 릴리스는 기능 배포에 대한 보다 확장 가능한 접근 방식을 고려하는 연속 제공 모델에서 작동합니다. 한 달에 릴리스가 여러 개인 경우가 있으므로 정기적으로 최신 정보를 확인하십시오.
 
-Marketo Engage을 위한 표준 릴리스 노트 페이지 [은(는) 여기에서 찾을 수 있음](/help/marketo/release-notes/current.md){target="_blank"}.
+[ Marketo Engage에 대한 표준 릴리스 노트는 ](/help/marketo/release-notes/current.md){target="_blank"}에 있습니다.
 
 ## 2024년 6월 릴리스 {#june-release}
 
@@ -42,25 +42,25 @@ Marketo Engage을 위한 표준 릴리스 노트 페이지 [은(는) 여기에�
 
 ### 사전 승인된 응답 라이브러리 {#pre-approved-response-library}
 
-[마케팅 승인 라이브러리 만들기](/help/marketo/product-docs/demand-generation/dynamic-chat/generative-ai/response-library.md){target="_blank"} AI 생성 질문 및 답변으로 생성형 AI 채팅을 단 몇 분 안에 설정할 수 있습니다.
+AI 생성 질문 및 답변의 [마케팅 승인 라이브러리를 만듭니다](/help/marketo/product-docs/demand-generation/dynamic-chat/generative-ai/response-library.md){target="_blank"}. 이를 통해 몇 분 안에 AI 생성 채팅을 설정할 수 있습니다.
 
 ![](assets/dynamic-chat-may-2024-release-1.png)
 
 ### 답변되지 않은 질문 {#unanswered-questions}
 
-[대답되지 않은 질문 저장소 사용](/help/marketo/product-docs/demand-generation/dynamic-chat/generative-ai/unanswered-questions.md){target="_blank"} 응답 라이브러리를 최신 정보로 유지 관리하는 새로운 사전 승인된 응답을 생성하기 위해 이전 대화에서
+[이전 대화에서 답변되지 않은 질문의 저장소를 사용](/help/marketo/product-docs/demand-generation/dynamic-chat/generative-ai/unanswered-questions.md){target="_blank"}하여 최신 정보로 응답 라이브러리를 유지 관리하는 새로운 사전 승인된 응답을 생성합니다.
 
 ![](assets/dynamic-chat-may-2024-release-2.png)
 
 ### 대화 요약 {#conversation-summaries}
 
-[영업 담당자에게 요약된 대화 제공](/help/marketo/product-docs/demand-generation/dynamic-chat/live-chat/agent-inbox.md#conversation-summary){target="_blank"} 회의 전 주요 토론 주제에 대한 통찰력을 포함하여 준비 시간을 줄이고 최신 정보로 판매 대리점을 더 잘 무장시킵니다.
+[영업 담당자에게 요약된 대화 제공](/help/marketo/product-docs/demand-generation/dynamic-chat/live-chat/agent-inbox.md#conversation-summary){target="_blank"} 준비 시간을 줄이고 최신 정보로 영업 담당자에게 더 나은 지원을 제공하기 위한 회의 전 주요 토론 주제에 대한 인사이트를 포함합니다.
 
 ![](assets/dynamic-chat-may-2024-release-3.png)
 
 ### GenAI 영업 단축키 {#genai-sales-shortcuts}
 
-[더 빠른 방법으로 라이브 채팅 에이전트 제공](/help/marketo/product-docs/demand-generation/dynamic-chat/live-chat/agent-inbox.md#shortcuts){target="_blank"} ai 생성 응답에 액세스하려면 기존 생성 응답을 편집하고 대화 중에 구매자에게 전송할 추가 콘텐츠를 검색하십시오.
+[실시간 채팅 에이전트에 더 빠른 방법을 제공](/help/marketo/product-docs/demand-generation/dynamic-chat/live-chat/agent-inbox.md#shortcuts){target="_blank"}하여 AI가 생성한 응답에 액세스하고, 기존 생성된 응답을 편집하고, 대화 중에 구매자에게 전송할 추가 콘텐츠를 검색합니다.
 
 ![](assets/dynamic-chat-may-2024-release-4.png)
 
@@ -80,13 +80,13 @@ Marketo Engage을 위한 표준 릴리스 노트 페이지 [은(는) 여기에�
 
 ### 이제 모든 사용자가 대화 흐름을 사용할 수 있습니다. {#conversational-flows-available-to-all-users}
 
-이제 Conversational Forms을 사용한 양식 제출 직후 자격 있는 잠재 고객이 영업 팀과 미팅을 예약하거나 채팅을 예약할 수 있도록 하여 양식 및 랜딩 페이지를 보다 대화형으로 만들 수 있습니다.&#42; 모든 Dynamic Chat 사용자용.
+이제 모든 Dynamic Chat 사용자가 &#42;에서 Conversational Forms을 사용하여 양식을 제출한 후 바로 자격을 갖춘 잠재 고객이 영업 팀과 회의 또는 채팅을 예약할 수 있도록 하여 양식 및 랜딩 페이지를 보다 대화형으로 만들고 영업 단계를 단축할 수 있습니다.
 
-_&#42;이전에는 100개의 라이프타임 참여와 함께 체험판 기능으로 사용할 수 있었습니다. 이제 대화 흐름 참여는 Select 패키지에서 사용자에 대해 250개의 참여 대화를 월별 한도로 계산합니다._
+_&#42;이전에 100번의 라이프타임 참여를 통해 체험판 기능으로 사용할 수 있습니다. 이제 대화 흐름 참여는 Select 패키지에서 사용자의 참여 대화 250개로 월별 한도에 포함됩니다._
 
 ### 콜백 함수 {#callback-functions}
 
-[콜백 함수](/help/marketo/product-docs/demand-generation/dynamic-chat/setup-and-configuration/callback-functions.md){target="_blank"} 방문자가 Dynamic Chat 대화를 나눌 때 Adobe Analytics 또는 Google Analytics과 같은 외부 시스템에서 Dynamic Chat 분석 이벤트를 수집할 수 있습니다. 이벤트를 수신할 API에 콜백을 등록하여 Dynamic Chat 분석 이벤트를 활성화합니다. 이를 통해 웹 트래픽과 같은 다른 주요 데이터와 연관되므로 Dynamic Chat 참여를 보다 전체적으로 파악할 수 있습니다.
+[콜백 함수](/help/marketo/product-docs/demand-generation/dynamic-chat/setup-and-configuration/callback-functions.md){target="_blank"}를 사용하면 방문자가 Dynamic Chat 대화를 나눌 때 Adobe Analytics 또는 Google Analytics과 같은 외부 시스템에서 Dynamic Chat 분석 이벤트를 수집할 수 있습니다. 이벤트를 수신할 API에 콜백을 등록하여 Dynamic Chat 분석 이벤트를 활성화합니다. 이를 통해 웹 트래픽과 같은 다른 주요 데이터와 연관되므로 Dynamic Chat 참여를 보다 전체적으로 파악할 수 있습니다.
 
 ### 조건부 분기에 라이브 에이전트 가용성 조건 추가됨 {#live-agent-availability-conditional-branching}
 

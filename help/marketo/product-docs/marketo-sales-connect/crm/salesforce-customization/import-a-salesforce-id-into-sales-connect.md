@@ -15,8 +15,8 @@ ht-degree: 0%
 
 Sales Connect는 연락처 또는 잠재 고객 ID(Salesforce ID라고도 함)를 사용하여 정보를 Salesforce에 제대로 기록합니다. 몇 가지 방법으로 Salesforce ID를 Sales Connect의 연락처에 첨부할 수 있습니다.
 
-[Sales Connect에 푸시](/help/marketo/product-docs/marketo-sales-connect/crm/salesforce-customization/push-to-sales-connect.md): Sales Connect로 푸시를 사용하면 잠재 고객/연락처의 Salesforce ID를 비롯한 모든 주요 연락처 정보가 있는 Sales Connect의 연락처가 만들어집니다.
+[Sales Connect로 푸시](/help/marketo/product-docs/marketo-sales-connect/crm/salesforce-customization/push-to-sales-connect.md): Sales Connect로 푸시를 사용하면 잠재 고객/연락처의 Salesforce ID를 포함하여 모든 주요 연락처 정보가 있는 Sales Connect의 연락처가 만들어집니다.
 
-[Marketo 판매 이메일을 보내고, Campaign에 추가하고, SFDC의 호출 버튼을 클릭합니다.](/help/marketo/product-docs/marketo-sales-connect/crm/salesforce-customization/how-to-install-sales-connect-buttons-in-salesforce.md): Salesforce에서 이 세 가지 버튼 중 하나를 사용하면 담당자를 Salesforce ID가 있는 Sales Connect로 푸시합니다.
+[Marketo 판매 전자 메일을 보내고, Campaign에 추가하고, SFDC에서 단추를 클릭하여 호출하십시오](/help/marketo/product-docs/marketo-sales-connect/crm/salesforce-customization/how-to-install-sales-connect-buttons-in-salesforce.md): Salesforce에서 이 세 가지 단추 중 하나를 사용하면 Salesforce ID를 사용하여 Sales Connect에 해당 연락처를 푸시합니다.
 
 [CSV 가져오기](/help/marketo/product-docs/marketo-sales-connect/people/managing-contacts/import-contacts-via-csv.md): Salesforce에서 리드/연락처 목록을 내보내고 Salesforce ID가 있는 열을 포함하는 경우 가져올 때 Sales Connect에 필드를 매핑할 수 있습니다.

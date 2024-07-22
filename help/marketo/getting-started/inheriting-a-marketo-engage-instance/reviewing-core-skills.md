@@ -17,7 +17,7 @@ ht-degree: 0%
 
 핵심 기술을 습득할 시간이 제한되어 있는 경우 다음 사항을 권장합니다.
 
-![이메일 프로그램 만들기](assets/reviewing-core-skills-1.png) [**이메일 프로그램 만들기**](/help/marketo/product-docs/email-marketing/email-programs/creating-an-email-program/create-an-email-program.md){target="_blank"}
+![전자 메일 프로그램 만들기](assets/reviewing-core-skills-1.png) [**전자 메일 프로그램 만들기**](/help/marketo/product-docs/email-marketing/email-programs/creating-an-email-program/create-an-email-program.md){target="_blank"}
 
 <p>
 
@@ -25,7 +25,7 @@ ht-degree: 0%
 
 <p>
 
-![이메일의 텍스트 편집](assets/reviewing-core-skills-3.png) [**이메일의 텍스트 편집**](/help/marketo/product-docs/email-marketing/general/email-editor-2/edit-elements-in-an-email.md){target="_blank"}
+![전자 메일의 텍스트 편집](assets/reviewing-core-skills-3.png) [**전자 메일의 텍스트 편집**](/help/marketo/product-docs/email-marketing/general/email-editor-2/edit-elements-in-an-email.md){target="_blank"}
 
 <p>
 

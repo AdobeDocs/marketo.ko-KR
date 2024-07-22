@@ -6,7 +6,7 @@ exl-id: 391aae00-e4f5-4fb1-8728-f5224276dfc2
 feature: Marketo Sales Insights
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
-source-wordcount: '452'
+source-wordcount: '454'
 ht-degree: 0%
 
 ---
@@ -43,7 +43,7 @@ Marketo Sales Insight는 우선 순위를 기준으로 최고 가망 고객과 �
 
 >[!NOTE]
 >
->최상의 선택 사항이 귀하가 보유한 최상의 리드 및 연락처와 일치하지 않는 경우 Marketo에 액세스할 수 있는 회사의 담당자에게 업데이트에 대해 문의하십시오. [채점 규칙](/help/marketo/getting-started/quick-wins/simple-scoring.md).
+>최고의 베팅이 귀하가 보유한 최상의 리드 및 연락처와 일치하지 않는 경우 Marketo에 액세스할 수 있는 회사의 담당자에게 [채점 규칙](/help/marketo/getting-started/quick-wins/simple-scoring.md) 업데이트에 대해 문의하십시오.
 
 ### 긴급도 및 상대 점수 계산 방법
 

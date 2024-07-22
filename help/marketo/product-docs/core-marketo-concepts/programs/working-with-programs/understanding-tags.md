@@ -7,7 +7,7 @@ feature: Programs
 source-git-commit: 9e51ece12742152040dbbcb6a1584fba28e863ff
 workflow-type: tm+mt
 source-wordcount: '168'
-ht-degree: 2%
+ht-degree: 0%
 
 ---
 
@@ -23,7 +23,7 @@ ht-degree: 2%
 
 >[!TIP]
 >
->다음을 만들려면 Marketo 관리자에게 문의하십시오. [사용자 지정 태그](/help/marketo/product-docs/administration/tags/create-custom-tags.md){target="_blank"}.
+>[사용자 지정 태그](/help/marketo/product-docs/administration/tags/create-custom-tags.md){target="_blank"}를 만들려면 Marketo 관리자에게 문의하십시오.
 
 >[!NOTE]
 >
@@ -47,7 +47,7 @@ ht-degree: 2%
 
 ## 채널 {#channel}
 
-채널은 다음 방법에 대해 보고하는 데 사용됩니다. [구성원](/help/marketo/product-docs/core-marketo-concepts/programs/creating-programs/understanding-program-membership.md){target="_blank"} 프로그램을 통해 이동했습니다. 각 채널에는 진행 상태 세트와 동일한 성공으로 설정된 하나의 상태가 있습니다.
+채널은 [구성원](/help/marketo/product-docs/core-marketo-concepts/programs/creating-programs/understanding-program-membership.md){target="_blank"}이 프로그램을 통해 어떻게 이동했는지 보고하는 데 사용됩니다. 각 채널에는 진행 상태 세트와 동일한 성공으로 설정된 하나의 상태가 있습니다.
 
 >[!NOTE]
 >

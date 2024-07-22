@@ -15,15 +15,15 @@ ht-degree: 0%
 
 >[!PREREQUISITES]
 >
->[코드 조각에 콘텐츠 추가](/help/marketo/product-docs/personalization/segmentation-and-snippets/snippets/add-content-to-a-snippet.md)
+>[조각에 콘텐츠 추가](/help/marketo/product-docs/personalization/segmentation-and-snippets/snippets/add-content-to-a-snippet.md)
 
 스니펫은 세그먼테이션 규칙에 따라 변경되는 동적 콘텐츠 블록입니다.
 
-1. 로 이동 **Design Studio**.
+1. **디자인 스튜디오**(으)로 이동합니다.
 
    ![](assets/designstudio-3.png)
 
-1. 코드 조각을 클릭한 다음 **코드 조각 미리 보기**.
+1. 코드 조각을 클릭한 다음 **코드 조각 미리 보기**&#x200B;를 클릭합니다.
 
    ![](assets/image2014-9-16-9-3a48-3a32.png)
 

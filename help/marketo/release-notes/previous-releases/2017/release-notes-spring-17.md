@@ -15,13 +15,13 @@ ht-degree: 0%
 
 2017년 봄 릴리스에는 다음과 같은 기능이 포함되어 있습니다. Marketo 버전에서 사용 가능한 기능이 있는지 확인하십시오.
 
-각 기능에 대한 자세한 문서를 보려면 제목 링크를 클릭하십시오. **참고**: 주제에 여러 하위 제목이 있는 경우 링크가 배치됩니다.
+각 기능에 대한 자세한 문서를 보려면 제목 링크를 클릭하십시오. **참고**: 항목에 여러 개의 하위 제목이 있으면 해당 링크가 배치됩니다.
 
-## [LinkedIn 리드 젠 Forms](/help/marketo/product-docs/demand-generation/social/social-functions/set-up-linkedin-lead-gen-forms.md) {#linkedin-lead-gen-forms}
+## [LinkedIn 리드 세대 Forms](/help/marketo/product-docs/demand-generation/social/social-functions/set-up-linkedin-lead-gen-forms.md) {#linkedin-lead-gen-forms}
 
-[LinkedIn 리드 젠 Forms](https://business.linkedin.com/marketing-solutions/native-advertising/lead-gen-ads) 는 비즈니스에서 LinkedIn에서 리드 생성 캠페인을 실행하는 더 직접적인 방법입니다. 사람들은 제품이나 서비스에 관심을 표현하기 위해 양식을 작성할 수 있으며, 이를 통해 기업은 개인의 세부 정보를 캡처하고 이를 Marketo에 동기화하여 자동화된 후속 프로세스 및 잠재 고객 라우팅 활동이 발생할 수 있습니다.
+[LinkedIn 리드 세대 Forms](https://business.linkedin.com/marketing-solutions/native-advertising/lead-gen-ads)은(는) 비즈니스에서 LinkedIn에서 리드 생성 캠페인을 더 직접적으로 실행할 수 있는 방법입니다. 사람들은 제품이나 서비스에 관심을 표현하기 위해 양식을 작성할 수 있으며, 이를 통해 기업은 개인의 세부 정보를 캡처하고 이를 Marketo에 동기화하여 자동화된 후속 프로세스 및 잠재 고객 라우팅 활동이 발생할 수 있습니다.
 
-linkedIn Lead Gen Forms과 Marketo 통합은 Lead Gen 양식에서 Lead 가 제공하는 정보를 자동으로 캡처합니다. 그런 다음 새로운 기능을 사용하여 후속 작업 및 알림을 자동화할 수 있습니다. **linkedIn Lead Gen 양식 작성** 트리거 및 필터링.
+linkedIn Lead Gen Forms과 Marketo 통합은 Lead Gen 양식에서 Lead 가 제공하는 정보를 자동으로 캡처합니다. 그런 다음 새로운 **LinkedIn 리드 세대 양식 작성** 트리거 및 필터를 사용하여 후속 작업 및 알림을 자동화할 수 있습니다.
 
 ![](assets/release-notes-image.png)
 
@@ -35,7 +35,7 @@ Sales Insight에서 오래된 템플릿을 정리하던 시대는 지났습니�
 
 ![](assets/four-281-29.png)
 
-## [사용자 및 활동에 대한 API 벌크 추출](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/rest/bulk-extract/bulk-extract) {#bulk-extract-apis-for-people-and-activities}
+## [사람 및 활동에 대한 API 일괄 추출](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/rest/bulk-extract/bulk-extract) {#bulk-extract-apis-for-people-and-activities}
 
 대량의 개인 및 활동 데이터를 Marketo에서 외부 시스템으로 쉽게 전송할 수 있습니다.
 
@@ -45,7 +45,7 @@ Sales Insight에서 오래된 템플릿을 정리하던 시대는 지났습니�
 
 이제 Marketo ABM을 사용하여 명명된 계정에 최대 10개의 사용자 지정 필드를 만들 수 있습니다. 이러한 사용자 지정 필드를 CRM 계정 개체의 필드에 매핑할 수 있으며 Marketo ABM에서 데이터를 동기화하여 ABM 명명된 계정을 확장하고 마케팅을 촉진할 수 있습니다.
 
-**[ABM 명명 계정의 백분위수 점수](https://docs.marketo.com/display/docs/assets/abmpercentiles.png)**
+**[ABM 명명된 계정에 대한 백분위수 점수](https://docs.marketo.com/display/docs/assets/abmpercentiles.png)**
 
 명명 계정 점수는 크게 다를 수 있습니다. 이제 Marketo ABM에서 각 점수에 대해 백분위수를 자동으로 계산하므로 각 명명 계정이 다른 명명 계정 중 어디에 속하는지 한 눈에 볼 수 있습니다.
 
@@ -53,7 +53,7 @@ Sales Insight에서 오래된 템플릿을 정리하던 시대는 지났습니�
 
 명명된 계정 목록에 대한 향상된 API 지원과 함께 풍부하고 강력한 ABM 파트너 통합을 활용하십시오.
 
-## 웹 개인화 개선 사항 {#web-personalization-enhancements}
+## 웹 Personalization 개선 사항 {#web-personalization-enhancements}
 
 ![](assets/dialogoptions.png)
 
@@ -65,7 +65,7 @@ Sales Insight에서 오래된 템플릿을 정리하던 시대는 지났습니�
 * 픽셀 도달
 * 페이지 접힌 부분 아래로 스크롤
 
-**[종료 의도 시 웹 캠페인](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/set-how-your-web-campaign-displays.md)**
+**[종료 시 웹 캠페인](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/set-how-your-web-campaign-displays.md)**
 
 방문자가 페이지를 닫기 전에 방문자의 관심을 사로잡습니다. 마우스 제스처로 방문자가 페이지를 떠난다는 것을 나타낼 때만 개인 맞춤화된 웹 캠페인을 표시하도록 설정하십시오.
 
@@ -89,7 +89,7 @@ Sales Insight에서 오래된 템플릿을 정리하던 시대는 지났습니�
 
 **[로컬라이제이션](/help/marketo/product-docs/administration/settings/select-your-language-locale-and-time-zone.md)**
 
-Web Personalization는 이제 모든 Marketo 지원 언어(영어, 일본어, 독일어, 스페인어, 프랑스어 및 포르투갈어)로 제공됩니다.
+Web Personalization은 이제 모든 Marketo 지원 언어(영어, 일본어, 독일어, 스페인어, 프랑스어 및 포르투갈어)로 제공됩니다.
 
 ## 예측 개선 사항 {#predictive-enhancements}
 
@@ -97,6 +97,6 @@ Web Personalization는 이제 모든 Marketo 지원 언어(영어, 일본어, �
 
 예측 콘텐츠는 이제 Marketo에서 지원하는 모든 언어(영어, 일본어, 독일어, 스페인어, 프랑스어 및 포르투갈어)로 제공됩니다.
 
-## [이전 리치 텍스트 편집기 및 양식 편집기 1.0 사용 중단](https://nation.marketo.com/docs/DOC-4315) {#legacy-rich-text-editor-and-form-editor-deprecation}
+## [기존 서식 있는 텍스트 편집기 및 양식 편집기 1.0 사용 중단](https://nation.marketo.com/docs/DOC-4315) {#legacy-rich-text-editor-and-form-editor-deprecation}
 
 2017년 8월 1일부터 기존 리치 텍스트 편집기 및 양식 편집기 1.0을 사용 중인 고객이 자동으로 새 경험으로 전환됩니다.

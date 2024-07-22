@@ -5,7 +5,7 @@ exl-id: a8df5b77-e594-4e06-8194-1758a3582cda
 feature: Veeva CRM
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
-source-wordcount: '503'
+source-wordcount: '478'
 ht-degree: 2%
 
 ---
@@ -18,7 +18,7 @@ Veeva CRM의 호출 및 호출 키 메시지 개체는 기본적으로 Marketo E
 >
 >Marketo은 호출일로부터 최대 6개월까지 호출 데이터를 유지합니다.
 
-**호출 및 호출 키 메시지와 관련된 트리거/필터는 무엇입니까?**
+**통화 및 통화 키 메시지와 관련된 트리거/필터는 무엇입니까?**
 
 트리거:
 
@@ -122,7 +122,7 @@ Veeva CRM의 호출 및 호출 키 메시지 개체는 기본적으로 Marketo E
     </tr>
     <tr>
       <td>호출 키 메시지</td>
-      <td>범주</td>
+      <td>카테고리</td>
       <td>메시지의 메시지 범주를 기록합니다. 주로 보고에 사용됩니다.</td>
       <td>Category_vod__c</td>
       <td>선택 목록</td>

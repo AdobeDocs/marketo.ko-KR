@@ -6,7 +6,7 @@ exl-id: 7928dfff-4d3f-42b4-94ad-0147a2fc3433
 feature: Audit Trail
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
-source-wordcount: '141'
+source-wordcount: '142'
 ht-degree: 0%
 
 ---
@@ -15,11 +15,11 @@ ht-degree: 0%
 
 시간대, 에셋 유형, 사용자, 수행한 작업 등을 기준으로 필터링합니다.
 
-1. 클릭 **[!UICONTROL 관리자]**.
+1. **[!UICONTROL 관리자]**&#x200B;를 클릭합니다.
 
    ![](assets/filtering-in-audit-trail-1.png)
 
-1. 아래 **[!UICONTROL 보안]**, 선택 **[!UICONTROL 감사 추적]**.
+1. **[!UICONTROL 보안]**&#x200B;에서 **[!UICONTROL 감사 추적]**&#x200B;을 선택합니다.
 
    ![](assets/filtering-in-audit-trail-2.png)
 
@@ -29,21 +29,21 @@ ht-degree: 0%
 
    >[!NOTE]
    >
-   >많은 가능한 검색 매개변수 조합이 있습니다. 이 예제에서는 다음 항목을 찾습니다. _지난 7일 동안의 모든 이메일 - 모든 사람이 편집함_.
+   >많은 가능한 검색 매개변수 조합이 있습니다. 이 예제에서는 _이전 7일 동안의 모든 전자 메일(모든 사람이 편집한 메일)을 찾습니다_.
 
-1. 다음을 클릭합니다. **[!UICONTROL 기간]** 드롭다운 및 선택 **[!UICONTROL 지난 7일]**.
+1. **[!UICONTROL 기간]** 드롭다운을 클릭하고 **[!UICONTROL 최근 7일]**&#x200B;을 선택합니다.
 
    ![](assets/filtering-in-audit-trail-4.png)
 
-1. 다음을 클릭합니다. **[!UICONTROL 에셋 유형]** 드롭다운 및 선택 **[!UICONTROL 이메일]**.
+1. **[!UICONTROL 자산 유형]** 드롭다운을 클릭하고 **[!UICONTROL 전자 메일]**&#x200B;을 선택합니다.
 
    ![](assets/filtering-in-audit-trail-5.png)
 
-1. 다음을 클릭합니다. **A액션** 드롭다운 및 선택 **[!UICONTROL 편집]**.
+1. **A작업** 드롭다운을 클릭하고 **[!UICONTROL 편집]**&#x200B;을 선택합니다.
 
    ![](assets/filtering-in-audit-trail-6.png)
 
-1. 클릭 **[!UICONTROL 적용]**.
+1. **[!UICONTROL 적용]**&#x200B;을 클릭합니다.
 
    ![](assets/filtering-in-audit-trail-7.png)
 
@@ -55,8 +55,8 @@ ht-degree: 0%
 
    >[!NOTE]
    >
-   >작업 영역이 활성화되어 있으면 모든 작업 영역에 대한 감사 데이터가 표시됩니다. 작업 영역 필터를 적용하면 Marketo은 감사 추적을 사용할 때마다 이전 작업 영역 값을 기억합니다. 에셋 수준의 작업 공간 권한이 적용됩니다.
+   >작업 영역이 활성화되어 있으면 모든 작업 영역에 대한 감사 데이터가 표시됩니다. 작업 영역 필터를 적용하면 Marketo은 감사 추적을 사용할 때마다 이전 작업 영역 값을 기억합니다. 에셋 수준의 Workspace 권한이 강제 적용됩니다.
 
    >[!MORELIKETHIS]
    >
-   >[감사 추적의 변경 세부 정보](/help/marketo/product-docs/administration/audit-trail/change-details-in-audit-trail.md)
+   >[감사 추적에서 세부 정보 변경](/help/marketo/product-docs/administration/audit-trail/change-details-in-audit-trail.md)

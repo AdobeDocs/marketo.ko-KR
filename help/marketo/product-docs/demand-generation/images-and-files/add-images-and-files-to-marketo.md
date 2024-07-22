@@ -15,15 +15,15 @@ ht-degree: 0%
 
 Marketo Engage 인스턴스에 새 이미지 또는 파일을 추가하는 방법을 알아봅니다.
 
-1. 로 이동 **Design Studio**.
+1. **디자인 스튜디오**(으)로 이동합니다.
 
    ![](assets/add-images-and-files-to-marketo-1.png)
 
-1. 선택 **[!UICONTROL 이미지 및 파일]**
+1. **[!UICONTROL 이미지 및 파일 선택]**
 
    ![](assets/add-images-and-files-to-marketo-2.png)
 
-1. 다음을 클릭합니다. **[!UICONTROL 이미지 및 파일 작업]** 드롭다운 및 선택 **[!UICONTROL 이미지 또는 파일 업로드]**.
+1. **[!UICONTROL 이미지 및 파일 작업]** 드롭다운을 클릭하고 **[!UICONTROL 이미지 또는 파일 업로드]**&#x200B;를 선택합니다.
 
    ![](assets/add-images-and-files-to-marketo-3.png)
 
@@ -35,7 +35,7 @@ Marketo Engage 인스턴스에 새 이미지 또는 파일을 추가하는 방�
    >
    >파일당 최대 크기는 100MB입니다.
 
-1. 자산을 선택한 후 을(를) 클릭합니다. **업로드**.
+1. 자산을 선택한 후 **업로드**&#x200B;를 클릭합니다.
 
    ![](assets/add-images-and-files-to-marketo-5.png)
 

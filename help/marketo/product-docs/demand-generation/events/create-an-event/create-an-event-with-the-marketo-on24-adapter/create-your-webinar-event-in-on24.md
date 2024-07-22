@@ -27,7 +27,7 @@ ON24 웨비나를 만들 때 Marketo에서 사용하는 특정 설정과 ON24에
 * 라이브 이벤트 시작 - 시작 날짜 및 시간입니다. 이 화면은 Marketo에서 볼 수 있습니다.
 * 라이브 종료 시간 - 종료 날짜 및 시간입니다. 이 화면은 Marketo에서 볼 수 있습니다.
 
-다음 단계는 [Marketo에서 이벤트 만들기](/help/marketo/product-docs/demand-generation/events/create-an-event/create-an-event-with-the-marketo-on24-adapter/create-an-event-in-marketo.md){target="_blank"}.
+다음 단계는 [Marketo에서 이벤트를 만들기](/help/marketo/product-docs/demand-generation/events/create-an-event/create-an-event-with-the-marketo-on24-adapter/create-an-event-in-marketo.md){target="_blank"}입니다.
 
 >[!MORELIKETHIS]
 >

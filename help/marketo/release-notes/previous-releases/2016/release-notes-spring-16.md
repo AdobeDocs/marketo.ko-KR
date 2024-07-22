@@ -25,17 +25,17 @@ ht-degree: 0%
 
 ![](assets/two.png)
 
-## [이메일 템플릿 선택기](/help/marketo/product-docs/email-marketing/general/email-editor-2/email-template-picker-overview.md) {#email-template-picker}
+## [전자 메일 템플릿 선택기](/help/marketo/product-docs/email-marketing/general/email-editor-2/email-template-picker-overview.md) {#email-template-picker}
 
 새로운 시작 템플릿을 사용하여 멋진 이메일을 만드십시오! 또한 라이브 썸네일에서 템플릿을 빠르게 찾을 수 있습니다.
 
 >[!NOTE]
 >
->이메일 편집기 2.0(템플릿 선택기 사용)은 6월 3일부터 점진적으로 롤아웃됩니다. 우리는 6월 30일까지 롤아웃을 완료할 것입니다. 이메일 인사이트와 달리 액세스 권한이 있으면 알림이 전송되지 않습니다. 다음을 수행하는지 확인하려면 의 단계를 따르십시오. [이 문서](/help/marketo/product-docs/email-marketing/general/email-editor-2/transitioning-to-email-editor-2-0.md).
+>이메일 편집기 2.0(템플릿 선택기 사용)은 6월 3일부터 점진적으로 롤아웃됩니다. 우리는 6월 30일까지 롤아웃을 완료할 것입니다. 이메일 인사이트와 달리 액세스 권한이 있으면 알림이 전송되지 않습니다. 사용 여부를 확인하려면 [이 문서](/help/marketo/product-docs/email-marketing/general/email-editor-2/transitioning-to-email-editor-2-0.md)의 단계를 따르세요.
 
 ![](assets/5-29-home-starter-templates.png)
 
-## [이메일 편집—다시 상상하기](/help/marketo/product-docs/email-marketing/general/email-editor-2/email-editor-v2-0-overview.md) {#email-editing-re-imagined}
+## [전자 메일 편집—다시 시도](/help/marketo/product-docs/email-marketing/general/email-editor-2/email-editor-v2-0-overview.md) {#email-editing-re-imagined}
 
 맞습니다. 완전히 새로운 이메일 편집기입니다! 간단한 드래그 앤 드롭 기능을 사용하여 컨텐츠를 추가하고 순서를 변경할 수 있습니다. 이미지, 비디오, 변수 및 모듈을 포함한 새로운 요소는 편집 환경을 향상시킵니다. 업데이트된 코드 편집기, 미리보기 및 프리헤더 지원도 확인하십시오.
 
@@ -59,15 +59,15 @@ Marketo 내에서 바로 앱에 대한 멋진 인앱 메시지를 만들 수 있
 
 ## [API 액세스용 IP 허용 목록에 추가](/help/marketo/product-docs/administration/additional-integrations/create-an-allowlist-for-ip-based-api-access.md) {#ip-allowlisting-for-api-access}
 
-이제 Marketo 사용자 로그인에 대한 IP 허용 목록에 추가 기능과 유사하게, Marketo 관리자는 Marketo SOAP 및 REST API에 액세스할 수 있는 IP 주소 허용 목록을 설정할 수 있으므로 권한이 없는 IP 주소에서의 액세스를 차단할 수 있습니다. 이렇게 하면 Marketo 인스턴스에 보안 레이어가 추가되고 API 액세스가 조직 네트워크 내에서만 발생할 수 있습니다. 설정 방법에 대한 자세한 내용은 [Marketo 설명서 사이트](/help/marketo/product-docs/administration/additional-integrations/create-an-allowlist-for-ip-based-api-access.md).
+이제 Marketo 사용자 로그인에 대한 IP 허용 목록에 추가 기능과 유사하게, Marketo 관리자는 Marketo SOAP 및 REST API에 액세스할 수 있는 IP 주소 허용 목록을 설정하여 권한이 없는 IP 주소에서의 액세스를 차단할 수 있습니다. 이렇게 하면 Marketo 인스턴스에 보안 레이어가 추가되고 API 액세스가 조직 네트워크 내에서만 발생할 수 있습니다. 이 설정 방법에 대한 자세한 내용은 [Marketo 설명서 사이트](/help/marketo/product-docs/administration/additional-integrations/create-an-allowlist-for-ip-based-api-access.md)에서 확인할 수 있습니다.
 
 ## [새로운 고속 Microsoft Dynamics 동기화 커넥터](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/microsoft-dynamics-sync-details/sync-status.md) {#new-high-speed-microsoft-dynamics-sync-connector}
 
 새로운 고속 Dynamics 커넥터는 초기 동기화에는 최대 20배, 증분 동기화에는 최대 5배 더 빠른 속도를 제공합니다. 모든 신규 고객은 릴리스 날짜에 이 커넥터에 온보딩되며, 여름 릴리스 기간 동안 기존 고객에게 점진적으로 배포될 예정입니다.
 
-**새 필드의 데이터 새로 고침**: 이제 언제든지 새 동기화 필드를 활성화할 수 있으며 해당 필드에 대한 모든 데이터 값이 Dynamics CRM에서 Marketo으로 새로 고쳐집니다. 초기 설정 중에 모든 필드를 선택해야 하는 것에 대해 걱정할 필요가 없습니다. 기존 동기화 필드를 비활성화했다가 나중에 다시 활성화하면 해당 필드의 모든 데이터 값이 Dynamics CRM에서 Marketo으로 새로 고쳐집니다.
+**새 필드의 데이터를 새로 고치십시오**: 이제 언제든지 새 동기화 필드를 사용할 수 있으며 해당 필드의 모든 데이터 값이 Dynamics CRM에서 Marketo으로 새로 고쳐집니다. 초기 설정 중에 모든 필드를 선택해야 하는 것에 대해 걱정할 필요가 없습니다. 기존 동기화 필드를 비활성화했다가 나중에 다시 활성화하면 해당 필드의 모든 데이터 값이 Dynamics CRM에서 Marketo으로 새로 고쳐집니다.
 
-**잠재 고객을 연락처로 동기화**: Microsoft으로 리드 동기화 흐름 작업에는 리드 또는 연락처로서 동기화할 수 있는 새로운 옵션이 있습니다.
+**잠재 고객을 연락처로 동기화**: Microsoft에 잠재 고객 동기화 흐름 작업에 잠재 고객 또는 연락처로 동기화할 수 있는 새로운 옵션이 있습니다.
 
 ![](assets/image2016-5-19-8-3a59-3a9.png)
 
@@ -77,7 +77,7 @@ Marketo 내에서 바로 앱에 대한 멋진 인앱 메시지를 만들 수 있
 
 **Microsoft Dynamics 2016**: 커넥터가 Dynamics 2016 Online 및 On-Premise 버전에 대해 완전히 인증되었습니다.
 
-**플러그인 업데이트가 이제 문서화되었습니다.** 다음을 참조하십시오. [플러그인 업데이트 문서](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/marketo-plugin-releases-for-microsoft-dynamics.md).
+**플러그 인 업데이트가 이제 문서화되었습니다.** [플러그 인 업데이트 문서 문서 문서](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/marketo-plugin-releases-for-microsoft-dynamics.md)를 참조하세요.
 
 ## [친숙한 인스턴스 이름](/help/marketo/product-docs/administration/settings/edit-subscription-settings.md) {#friendly-instance-name}
 
@@ -85,7 +85,7 @@ Marketo 내에서 바로 앱에 대한 멋진 인앱 메시지를 만들 수 있
 
 ![](assets/image2016-5-16-15-3a57-3a14.png)
 
-## [구독에 대한 제한된 시간 액세스](/help/marketo/product-docs/administration/users-and-roles/managing-marketo-users.md) {#limited-time-access-for-subscriptions}
+## [구독에 대한 액세스 제한 시간](/help/marketo/product-docs/administration/users-and-roles/managing-marketo-users.md) {#limited-time-access-for-subscriptions}
 
 이제 사용자는 무기한 Marketo 구독에 초대됩니다. 이 기능을 사용하면 관리자가 2주 또는 1개월과 같은 제한된 기간 동안 사용자를 구독에 초대할 수 있습니다.
 
@@ -99,4 +99,4 @@ Marketo 내에서 바로 앱에 대한 멋진 인앱 메시지를 만들 수 있
 
 ## 사용자 지정 활동 {#custom-activities}
 
-이제 Marketo 관리자는 Marketo 사용자 정의 활동 정의 모델러를 통해 사용자 정의 활동 유형을 정의하고 관리할 수 있습니다. 관리자는 이제 Marketo 사용자 지정 개체 모델러와 유사하게(과 함께) 정확한 비즈니스 요구 사항에 맞게 데이터 모델을 확장할 수 있습니다. 이 기능을 사용하는 방법에 대한 자세한 내용은 [Marketo 설명서 사이트](/help/marketo/product-docs/administration/marketo-custom-activities/understanding-custom-activities.md).
+이제 Marketo 관리자는 Marketo 사용자 정의 활동 정의 모델러를 통해 사용자 정의 활동 유형을 정의하고 관리할 수 있습니다. 이제 관리자는 Marketo 사용자 지정 개체 Modeler과 유사하게(과 함께) 정확한 비즈니스 요구 사항에 맞게 데이터 모델을 확장할 수 있습니다. 이 기능을 사용하는 방법에 대한 자세한 내용은 [Marketo 설명서 사이트](/help/marketo/product-docs/administration/marketo-custom-activities/understanding-custom-activities.md)에서 확인할 수 있습니다.

@@ -12,15 +12,15 @@ ht-degree: 0%
 
 # Salesforce에 Marketo 탭 추가 {#add-marketo-tab-to-salesforce}
 
-1. Salesforce에서 **+** 및 클릭 **내 탭 맞춤화**.
+1. Salesforce에서 **+**&#x200B;을(를) 클릭하고 **내 탭 맞춤화**&#x200B;을(를) 클릭합니다.
 
    ![](assets/add-marketo-tab-to-salesforce-1.png)
 
-1. 왼쪽 목록에서 Marketo 를 선택합니다. 그런 다음 **추가** 을(를) 추가하여 **선택한 탭**.
+1. 왼쪽 목록에서 Marketo 를 선택합니다. **추가**&#x200B;를 클릭하여 **선택한 탭**&#x200B;에 추가합니다.
 
    >[!TIP]
    >
-   >사용 **위로** 및 **아래로** 화살표를 클릭하여 탭 순서를 변경합니다.
+   >**위쪽** 및 **아래쪽** 화살표를 사용하여 탭 순서를 변경합니다.
 
    ![](assets/add-marketo-tab-to-salesforce-2.png)
 

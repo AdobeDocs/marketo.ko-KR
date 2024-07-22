@@ -6,7 +6,7 @@ exl-id: f6590a13-2eba-44b3-b832-fd352b67ab5e
 feature: Reporting
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
-source-wordcount: '165'
+source-wordcount: '167'
 ht-degree: 0%
 
 ---
@@ -15,7 +15,7 @@ ht-degree: 0%
 
 트렌드는 일정 기간 동안의 채널 성능을 보여 줍니다.
 
-다음을 클릭합니다. **트렌드** 탭으로 이동하여 이 보기에 액세스합니다.
+이 보기에 액세스하려면 **트렌드** 탭을 클릭하십시오.
 
 ![](assets/1.png)
 
@@ -23,7 +23,7 @@ ht-degree: 0%
 
 ![](assets/2-1.png)
 
-성능을 확인할 지표를 선택합니다. 이 예에서는 다음을 통해 얻은 영업 기회를 살펴봅니다. [첫 번째 터치](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-tools/attribution/understanding-attribution.md).
+성능을 확인할 지표를 선택합니다. 이 예제에서는 [첫 번째 터치](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-tools/attribution/understanding-attribution.md)를 통해 얻은 영업 기회를 살펴봅니다.
 
 ![](assets/3-2.png)
 

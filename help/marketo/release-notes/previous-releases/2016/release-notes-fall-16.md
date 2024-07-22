@@ -35,7 +35,7 @@ facebook Offline Conversion 통합을 통해 광고 팀이 광고 지출을 보�
 
 ![](assets/facebook.png)
 
-## [유니버설 ID](/help/marketo/product-docs/administration/settings/using-a-universal-id-for-subscription-login.md) {#universal-id}
+## [범용 ID](/help/marketo/product-docs/administration/settings/using-a-universal-id-for-subscription-login.md) {#universal-id}
 
 범용 ID를 사용하면 단일 로그인으로 여러 Marketo 구독에 액세스하고 구독 간을 빠르게 전환할 수 있습니다. 모든 구독에 단일 커뮤니티 프로필을 사용할 수 있습니다.
 
@@ -51,9 +51,9 @@ facebook Offline Conversion 통합을 통해 광고 팀이 광고 지출을 보�
 
 ![](assets/account-team-11-15-16.png)
 
-**나머지 API**
+**REST API**
 
-또한 이 릴리스에서는 Marketo REST API를 사용하여 ABM에서 명명된 계정 속성 및 계정 점수를 관리할 수 있습니다. API 작업에 대한 자세한 내용은 [Marketo 개발자 웹 사이트](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/rest/lead-database/named-accounts).
+또한 이 릴리스에서는 Marketo REST API를 사용하여 ABM에서 명명된 계정 속성 및 계정 점수를 관리할 수 있습니다. API 작업에 대한 자세한 내용은 [Marketo 개발자 웹 사이트](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/rest/lead-database/named-accounts)를 참조하십시오.
 
 ## [감사 추적 개선 사항](/help/marketo/product-docs/administration/audit-trail/change-details-in-audit-trail.md) {#audit-trail-enhancements}
 
@@ -61,13 +61,13 @@ facebook Offline Conversion 통합을 통해 광고 팀이 광고 지출을 보�
 
 ## [새 권한](/help/marketo/product-docs/administration/users-and-roles/descriptions-of-role-permissions.md) {#new-permissions}
 
-**이메일 작동 방식**
+**전자 메일을 작동 상태로 만들기**
 
 데이터베이스의 구독을 취소한 사용자에게 트랜잭션 이메일을 보내는 사용자를 걱정해야 했던 시대는 지났습니다. 이제 이메일을 작동시킬 수 있는 사용자를 지정하거나 작동 중인 이메일을 편집할 수 있습니다.
 
 **캠페인 제한 편집**
 
-설정 이유 [캠페인 제한 사항](/help/marketo/product-docs/administration/email-setup/enable-person-restrictions-for-smart-campaigns.md) 강제할 수 없다면? 단일 캠페인으로 타깃팅할 수 있는 데이터베이스 사용자 수를 제한하도록 캠페인 제한 설정 을 설정하면 이제 캠페인을 예약할 때 이러한 설정을 재정의할 수 있는 사용자를 제한할 수 있습니다.
+강제 적용할 수 없는 경우 [캠페인 제한](/help/marketo/product-docs/administration/email-setup/enable-person-restrictions-for-smart-campaigns.md)을 설정하는 이유는 무엇입니까? 단일 캠페인으로 타깃팅할 수 있는 데이터베이스 사용자 수를 제한하도록 캠페인 제한 설정 을 설정하면 이제 캠페인을 예약할 때 이러한 설정을 재정의할 수 있는 사용자를 제한할 수 있습니다.
 
 ## [모바일 푸시 알림용 사운드](/help/marketo/product-docs/mobile-marketing/push-notifications/configure-mobile-push-notification.md) {#sound-for-mobile-push-notifications}
 
@@ -80,18 +80,18 @@ facebook Offline Conversion 통합을 통해 광고 팀이 광고 지출을 보�
 
 ![](assets/sound-for-push-notifications.png)
 
-## [Salesforce 암호화와 호환되는 Sales Insight](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/installation/install-marketo-sales-insight-package-in-salesforce-appexchange.md) {#sales-insight-compatible-with-salesforce-encryption}
+## [Salesforce 암호화와 호환되는 영업 인사이트](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/installation/install-marketo-sales-insight-package-in-salesforce-appexchange.md) {#sales-insight-compatible-with-salesforce-encryption}
 
-Market Sales Insight 는 이제 Salesforce Shield Encryption 과 호환됩니다. 모든 Sales Insight 고객은 최신 관리 패키지(버전 1.4359.2)로 업그레이드해야 합니다. [appexchange에서 사용 가능](https://appexchange.salesforce.com/listingDetail?listingId=a0N30000001SVZmEAO).
+Market Sales Insight 는 이제 Salesforce Shield Encryption 과 호환됩니다. 모든 Sales Insight 고객은 이 최신 관리 패키지(버전 1.4359.2)로 업그레이드해야 합니다. 이 패키지는 [Appexchange에서 사용](https://appexchange.salesforce.com/listingDetail?listingId=a0N30000001SVZmEAO)할 수 있습니다.
 
 ## [명명된 계정 API](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/rest/lead-database/named-accounts) {#named-accounts-apis}
 
 이번 릴리스를 통해 Marketo ABM 사용자는 명명된 계정 API를 통해 명명된 계정을 관리할 수 있습니다. 사용자는 명명된 계정을 만들고, 업데이트하고, 삭제할 수 있으며 ABM 명명된 계정 점수를 읽고 업데이트할 수 있습니다.
 
-## [이메일 편집기 v2.0 API 지원](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/email-scripting) {#email-editor-v-api-support}
+## [전자 메일 편집기 v2.0 API 지원](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/email-scripting) {#email-editor-v-api-support}
 
 Marketo REST API를 사용하여 v2.0 형식의 전자 메일에 대한 변수 및 모듈을 관리합니다.
 
-## [Marketo Salesforce 동기화 변경 사항](https://nation.marketo.com/docs/DOC-3840) {#changes-to-marketo-salesforce-sync}
+## [Marketo Salesforce 동기화에 대한 변경 사항](https://nation.marketo.com/docs/DOC-3840) {#changes-to-marketo-salesforce-sync}
 
 Marketo의 Salesforce 통합은 Marketo 필드를 Salesforce와 동기화하는 방식을 개선하기 위해 진화하고 있습니다. 이제 필요하거나 필요하지 않은 대규모 필드 그룹을 동기화하는 대신 포함할 필드를 선택하고 선택할 수 있습니다. 자세한 내용은 여기에서 설명서를 확인하십시오. [https://nation.marketo.com/docs/DOC-3840](https://nation.marketo.com/docs/DOC-3840).

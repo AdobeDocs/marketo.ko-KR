@@ -6,7 +6,7 @@ exl-id: fc314ab8-4d29-44f5-bc45-71e6727ecc06
 feature: Mobile Marketing
 source-git-commit: 0abb315be0f9cb5f42fa41d72b446de8c2f62c1e
 workflow-type: tm+mt
-source-wordcount: '285'
+source-wordcount: '277'
 ht-degree: 0%
 
 ---
@@ -41,7 +41,7 @@ Analytics 카드를 탭하여 표시:
 
 ## 획득한 리드 {#acquired-leads}
 
-다음 **획득한 리드** 카드에는 새 잠재 고객 수에 대한 월별 트렌드 보고서가 표시됩니다.
+**획득한 리드** 카드는 새 리드의 수에 대한 월별 트렌드 보고서를 보여 줍니다.
 
 >[!NOTE]
 >
@@ -51,13 +51,13 @@ Analytics 카드를 탭하여 표시:
 
 ## 새 잠재 고객 {#new-leads}
 
-다음 **[!UICONTROL 새 잠재 고객]** 카드에는 지난 6개월 동안 인스턴스에 있는 총 새 잠재 고객 수에 대한 월별 트렌드 보고서가 표시됩니다.
+**[!UICONTROL 새 잠재 고객]** 카드는 지난 6개월 동안 인스턴스에 있는 총 새 잠재 고객 수에 대한 월별 트렌드 보고서를 보여 줍니다.
 
 ![](assets/image2015-6-30-14-3a33-3a23.png)
 
 ## 구독 취소 {#unsubscribes}
 
-다음 **[!UICONTROL 구독 취소]** 카드는 지난 6개월 동안의 구독 취소율에 대한 월별 트렌드 보고서를 보여 줍니다.
+**[!UICONTROL 구독 취소]** 카드는 지난 6개월 동안의 구독 취소율에 대한 월별 트렌드 보고서를 보여 줍니다.
 
 ![](assets/image2015-6-30-14-3a29-3a3.png)
 
@@ -65,4 +65,4 @@ Analytics 카드를 탭하여 표시:
 >
 >* [Marketo 모멘트 이해](/help/marketo/product-docs/core-marketo-concepts/mobile-apps/marketo-moments/understanding-moments/understanding-marketo-moments.md)
 >* [이벤트 카드 이해](/help/marketo/product-docs/core-marketo-concepts/mobile-apps/marketo-moments/understanding-moments/understanding-event-cards.md)
->* [이메일 프로그램 카드 이해](/help/marketo/product-docs/core-marketo-concepts/mobile-apps/marketo-moments/understanding-moments/understanding-email-program-cards.md)
+>* [전자 메일 프로그램 카드 이해](/help/marketo/product-docs/core-marketo-concepts/mobile-apps/marketo-moments/understanding-moments/understanding-email-program-cards.md)

@@ -5,7 +5,7 @@ exl-id: d7441f28-a432-4443-8eb8-ca6a685524ae
 feature: Sales Insight Actions
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
-source-wordcount: '488'
+source-wordcount: '489'
 ht-degree: 1%
 
 ---
@@ -29,7 +29,7 @@ Command Center는 다음 단계를 이해하는 데 도움이 되는 통합된 �
   <th>설명</th>
  </tr>
  <tr>
-  <th rowspan="2">전송됨</th>
+  <th rowspan="2">보냄</th>
   <td>게재됨</td>
   <td>수신자에게 전달된 이메일.</td>
  </tr>
@@ -45,7 +45,7 @@ Command Center는 다음 단계를 이해하는 데 도움이 되는 통합된 �
  <tr>
   <td>초안</td>
   <td>초안으로 저장된 이메일.<br/>
-  <strong>참고</strong>: 단일 이메일만 초안으로 저장할 수 있습니다. 대량 이메일(이메일 및 그룹 이메일 선택 및 보내기)은 초안으로 저장되지 않습니다.</td>
+  <strong>참고</strong>: 하나의 전자 메일만 초안으로 저장할 수 있습니다. 대량 이메일(이메일 및 그룹 이메일 선택 및 보내기)은 초안으로 저장되지 않습니다.</td>
  </tr>
  <tr>
   <td>진행 중</td>
@@ -60,12 +60,12 @@ Command Center는 다음 단계를 이해하는 데 도움이 되는 통합된 �
  <tr>
   <td>반송됨</td>
   <td>수신자 이메일 서버에서 거부된 이메일.<br/>
-  <strong>참고</strong>: 기존 ToutApp 사용자이며 배달 채널로 MSC 서버에 액세스할 수 있는 경우에만 감지됩니다.</td>
+  <strong>참고</strong>: 기존 ToutApp 사용자이고 배달 채널로 MSC 서버에 액세스할 수 있는 경우에만 검색됩니다.</td>
  </tr>
  <tr>
   <td>스팸</td>
   <td>수신자가 수동으로 스팸으로 표시한 이메일입니다.<br/>
-  <strong>참고</strong>: 기존 ToutApp 사용자이며 배달 채널로 MSC 서버에 액세스할 수 있는 경우에만 감지됩니다.</td>
+  <strong>참고</strong>: 기존 ToutApp 사용자이고 배달 채널로 MSC 서버에 액세스할 수 있는 경우에만 검색됩니다.</td>
  </tr>
 </table>
 
@@ -85,6 +85,6 @@ Command Center는 다음 단계를 이해하는 데 도움이 되는 통합된 �
 
 >[!MORELIKETHIS]
 >
->* Tasks
+>* 작업
 >* 고급 검색 개요
 >* Select 및 Send를 사용하여 일괄 이메일 작성

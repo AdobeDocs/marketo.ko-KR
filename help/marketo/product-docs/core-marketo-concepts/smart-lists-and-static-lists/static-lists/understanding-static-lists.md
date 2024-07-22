@@ -6,7 +6,7 @@ exl-id: c37c1496-cf19-4e44-aaec-77b10669b9bf
 feature: Static Lists
 source-git-commit: 208ba59e3a5cb8e613e887b4c89e51cec4b3f897
 workflow-type: tm+mt
-source-wordcount: '212'
+source-wordcount: '215'
 ht-degree: 0%
 
 ---
@@ -23,16 +23,16 @@ ht-degree: 0%
 
 | 유형 | 논리 |
 |---|---|
-| 스마트 목록 | 기준 **정의된 규칙** |
-| 정적 목록 | 기준 **각 사용자 추가/제거** |
+| 스마트 목록 | **정의된 규칙**&#x200B;을(를) 기반으로 함 |
+| 정적 목록 | **각 사용자 추가/제거**&#x200B;를 기반으로 함 |
 
 >[!CAUTION]
 >
->가장 일반적인 실수 중 하나는 &quot;그 사람을 삭제&quot;하는 것만으로 목록에서 그 사람을 제거할 수 있다고 생각하는 것입니다. **이것은 틀렸다**. 사용자를 삭제하면 다음에서 삭제됩니다. **전체 데이터베이스**&#x200B;목록뿐만 아니라
+>가장 일반적인 실수 중 하나는 &quot;그 사람을 삭제&quot;하는 것만으로 목록에서 그 사람을 제거할 수 있다고 생각하는 것입니다. **잘못됨**. 사용자를 삭제하면 목록뿐만 아니라 **전체 데이터베이스**&#x200B;에서 삭제됩니다.
 
 ## 목록에서 사람을 추가/제거하는 방법 {#ways-to-add-remove-people-from-a-list}
 
-1. 스마트 캠페인 흐름 단계([목록에 추가](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/add-to-list.md){target="_blank"}, [Remove from List](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/remove-from-list.md){target="_blank"})
+1. 스마트 캠페인 흐름 단계([목록에 추가](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/add-to-list.md){target="_blank"}, [목록에서 제거](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/remove-from-list.md){target="_blank"})
 
 1. [단일 작업 흐름 단계](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/using-smart-lists/run-a-single-flow-step-from-a-smart-list.md){target="_blank"}
 1. 사람을 트리의 목록으로 드래그

@@ -7,7 +7,7 @@ feature: Events
 source-git-commit: 2671f81f62658447e4b2a3dc2e02a4e0927443e8
 workflow-type: tm+mt
 source-wordcount: '98'
-ht-degree: 2%
+ht-degree: 1%
 
 ---
 
@@ -30,7 +30,7 @@ ht-degree: 2%
 >* 박람회
 >* 모임
 
-이벤트는 다음에 자동으로 연결할 수 있습니다 [웨비나 공급자](/help/marketo/product-docs/demand-generation/events/understanding-events/event-partners.md) 및 와 동기화 [iPad 체크인 앱](/help/marketo/product-docs/core-marketo-concepts/mobile-apps/event-check-in/check-people-into-your-event-from-your-tablet.md).
+이벤트는 [웨비나 공급자](/help/marketo/product-docs/demand-generation/events/understanding-events/event-partners.md)에 자동으로 연결하고 [iPad 체크인 앱](/help/marketo/product-docs/core-marketo-concepts/mobile-apps/event-check-in/check-people-into-your-event-from-your-tablet.md)과 동기화할 수 있습니다.
 
 >[!MORELIKETHIS]
 >

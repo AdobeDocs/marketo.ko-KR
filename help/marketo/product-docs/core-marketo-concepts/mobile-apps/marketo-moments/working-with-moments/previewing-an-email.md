@@ -6,8 +6,8 @@ exl-id: 10bcedbd-553f-4ba1-b1bd-1aad2890dbd4
 feature: Mobile Marketing
 source-git-commit: 0abb315be0f9cb5f42fa41d72b446de8c2f62c1e
 workflow-type: tm+mt
-source-wordcount: '134'
-ht-degree: 1%
+source-wordcount: '126'
+ht-degree: 0%
 
 ---
 
@@ -23,7 +23,7 @@ ht-degree: 1%
 
    ![](assets/image2015-9-25-11-3a30-3a52.png)
 
-1. 누르기 **[!UICONTROL 이메일 미리 보기]**.
+1. **[!UICONTROL 전자 메일 미리 보기]**&#x200B;를 탭합니다.
 
    ![](assets/image2015-7-14-16-3a42-3a21.png)
 

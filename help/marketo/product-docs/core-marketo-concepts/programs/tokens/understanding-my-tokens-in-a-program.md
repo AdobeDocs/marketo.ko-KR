@@ -15,11 +15,11 @@ ht-degree: 0%
 
 토큰은 이메일, 랜딩 페이지 및 스마트 캠페인에 사용하여 생활을 편리하게 할 수 있는 변수입니다.
 
-내 토큰 외에도 프로그램의 기본 제공 토큰을 사용할 수 있습니다. 다음을 확인하십시오. [토큰 개요](/help/marketo/product-docs/demand-generation/landing-pages/personalizing-landing-pages/tokens-overview.md){target="_blank"}.
+내 토큰 외에도 프로그램의 기본 제공 토큰을 사용할 수 있습니다. [토큰 개요](/help/marketo/product-docs/demand-generation/landing-pages/personalizing-landing-pages/tokens-overview.md){target="_blank"}를 확인하십시오.
 
 ## 내 토큰  {#my-tokens}
 
-내 토큰은 누구나 만들 수 있는 사용자 지정 변수입니다. 다음과 같습니다 [생성됨](/help/marketo/product-docs/core-marketo-concepts/programs/tokens/managing-my-tokens.md){target="_blank"} campaign 폴더 또는 프로그램에서
+내 토큰은 누구나 만들 수 있는 사용자 지정 변수입니다. 캠페인 폴더 또는 프로그램에서 [created](/help/marketo/product-docs/core-marketo-concepts/programs/tokens/managing-my-tokens.md){target="_blank"}입니다.
 
 내 토큰은 다음과 같이 표시됩니다. `{{my.Name Of Token}}`
 
@@ -38,7 +38,7 @@ ht-degree: 0%
  <tbody> 
   <tr> 
    <td>캘린더 파일 <img alt="—" src="assets/image2014-9-25-16-3a44-3a19.png" data-linked-resource-id="3083230" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="1147114"></td> 
-   <td>이 토큰을 사용하여 <a href="/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/create-a-calendar-event-ics-file.md">달력 이벤트 파일(.i) 추가</a><a href="/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/create-a-calendar-event-ics-file.md">cs)</a> 이메일 및 랜딩 페이지로 이동합니다.</td> 
+   <td>이 토큰을 사용하여 <a href="/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/create-a-calendar-event-ics-file.md">일정 이벤트 파일(.i</a><a href="/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/create-a-calendar-event-ics-file.md">cs)</a>을 전자 메일 및 랜딩 페이지에 추가하십시오.</td> 
   </tr> 
   <tr> 
    <td><p>날짜 <img alt="--" src="assets/image2014-9-25-16-3a44-3a47.png" data-linked-resource-id="3083231" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="1147114"></p></td> 
@@ -46,10 +46,10 @@ ht-degree: 0%
   </tr> 
   <tr> 
    <td>이메일 스크립트 <img alt="--" src="assets/image2014-9-25-16-3a45-3a4.png" data-linked-resource-id="3083232" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="1147114"></td> 
-   <td>이 토큰을 사용하여 이메일에서 Velocity 스크립트를 실행하십시오. 자세히 알아보기 <a href="https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/email-scripting" title="링크 따라가기" rel="nofollow">여기</a>. </td> 
+   <td>이 토큰을 사용하여 이메일에서 Velocity 스크립트를 실행하십시오. <a href="https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/email-scripting" title="링크 따라가기" rel="nofollow">여기</a>에서 자세히 알아보세요. </td> 
   </tr> 
   <tr> 
-   <td>숫자<span> <img alt="--" src="assets/image2014-9-25-16-3a45-3a25.png" data-linked-resource-id="3083233" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="1147114"></span></td> 
+   <td>번호<span> <img alt="--" src="assets/image2014-9-25-16-3a45-3a25.png" data-linked-resource-id="3083233" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="1147114"></span></td> 
    <td>모든 정수. 심지어 부정적일 수도 있습니다.</td> 
   </tr> 
   <tr> 
@@ -58,7 +58,7 @@ ht-degree: 0%
   </tr> 
   <tr> 
    <td>스코어 <img alt="--" src="assets/image2014-9-25-16-3a46-3a39.png" data-linked-resource-id="3083235" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="1147114"></td> 
-   <td>에서 이 토큰 사용 <a href="/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/use-tokens-in-flow-steps.md">스코어 흐름 단계 변경</a>. </td> 
+   <td><a href="/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/use-tokens-in-flow-steps.md">점수 흐름 변경 단계</a>에서 이 토큰을 사용하십시오. </td> 
   </tr> 
   <tr> 
    <td colspan="1">SFDC 캠페인 <img alt="--" src="assets/sfdc-campaign-icon.jpg" data-linked-resource-id="11379761" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="1147114" title="--"></td> 
@@ -73,14 +73,14 @@ ht-degree: 0%
 
 >[!CAUTION]
 >
->Microsoft Dynamics 또는 Salesforce에서 Sales Insight에서 이메일을 보낼 때 내 토큰이 확인되지 않고 표준 토큰만 채워집니다(Lead, Company 등). 토큰의 기본값 _의지_ 그러나 일하세요.
+>Microsoft Dynamics 또는 Salesforce에서 Sales Insight에서 이메일을 보낼 때 내 토큰이 확인되지 않고 표준 토큰만 채워집니다(Lead, Company 등). 그러나 토큰 _will_&#x200B;의 기본값은 작동합니다.
 
 ## 토큰 중첩 {#nesting-tokens}
 
 새 토큰을 만들 때 트리의 다른 오브젝트에서 참조할 수 있습니다. 간편한 관리를 위해 토큰이 생성된 위치에 대한 이름 지정 구조가 있습니다.
 
-* **로컬 토큰:** 토큰이 해당 프로그램 또는 폴더에 바로 생성되었습니다.
-* **상속된 토큰:** 토큰은 더 높은 수준의 프로그램이나 폴더 어딘가에 있는 트리에 생성되었습니다.
+* **로컬 토큰:** 토큰이 해당 프로그램 또는 폴더에 바로 만들어졌습니다.
+* **상속된 토큰:** 더 높은 수준의 프로그램이나 폴더의 트리 위에 토큰을 만들었습니다.
 * **재정의된 토큰:** 토큰이 상속된 다음 누군가 이 프로그램 또는 폴더에서 예외를 만들었습니다.
 
 전역 변수를 만든 다음 트리의 하위 수준에서 재정의할 수 있습니다.

@@ -734,7 +734,7 @@ ht-degree: 0%
       + Facebook {#facebook}
          + [facebook에서 사용자 지정 대상에 리드 추가](product-docs/demand-generation/facebook/add-leads-to-a-custom-audience-in-facebook.md)
          + [facebook에서 사용자 지정 대상 만들기](product-docs/demand-generation/facebook/create-a-custom-audience-in-facebook.md)
-         + [facebook 리치 Post 설정 편집](product-docs/demand-generation/facebook/edit-facebook-rich-post-settings.md)
+         + [facebook 리치 게시물 설정 편집](product-docs/demand-generation/facebook/edit-facebook-rich-post-settings.md)
          + [Facebook으로 Publish 랜딩 페이지](product-docs/demand-generation/facebook/publish-landing-pages-to-facebook.md)
          + [facebook 리드 광고 설정](product-docs/demand-generation/facebook/set-up-facebook-lead-ads.md)
          + [Marketo에 사용자 정의 필드 매핑](product-docs/demand-generation/facebook/set-up-facebook-lead-ads/map-custom-fields-to-marketo.md)

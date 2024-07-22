@@ -13,21 +13,21 @@ ht-degree: 0%
 
 # 양식 레이블 위치 변경 {#change-form-label-position}
 
-날짜 [양식 만들기](/help/marketo/product-docs/demand-generation/forms/creating-a-form/create-a-form.md)를 사용하면 양식 필드 레이블의 위치를 매우 쉽게 변경할 수 있습니다. 방법은 다음과 같습니다.
+[양식을 만들](/help/marketo/product-docs/demand-generation/forms/creating-a-form/create-a-form.md)때 양식 필드 레이블의 위치를 매우 쉽게 변경할 수 있습니다. 방법은 다음과 같습니다.
 
-1. 다음으로 이동 **마케팅 활동**.
+1. **마케팅 활동**(으)로 이동합니다.
 
    ![](assets/login-marketing-activities-2.png)
 
-1. 양식을 선택하고 **양식 편집**.
+1. 양식을 선택하고 **양식 편집**&#x200B;을 클릭합니다.
 
    ![](assets/image2014-9-15-16-3a16-3a9.png)
 
-1. 선택 **설정**.
+1. **설정**&#x200B;을 선택하세요.
 
    ![](assets/image2014-9-15-16-3a16-3a26.png)
 
-1. 다음 항목 선택 **레이블 위치** 원하는 대로
+1. 원하는 **레이블 위치**&#x200B;를 선택하십시오.
 
    ![](assets/image2014-9-15-16-3a16-3a39.png)
 
@@ -36,11 +36,11 @@ ht-degree: 0%
    * 왼쪽(기본값)
    * 위
 
-1. 클릭 **완료**.
+1. **마침**&#x200B;을 클릭합니다.
 
    ![](assets/image2014-9-15-16-3a16-3a49.png)
 
-1. 클릭 **승인 및 닫기**.
+1. **승인 및 닫기**&#x200B;를 클릭합니다.
 
    >[!NOTE]
    >

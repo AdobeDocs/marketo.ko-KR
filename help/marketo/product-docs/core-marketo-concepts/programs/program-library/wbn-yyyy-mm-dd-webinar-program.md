@@ -2,10 +2,10 @@
 description: WBN-YYYY-MM-DD-Webinar 프로그램 - Marketo 문서 - 제품 설명서
 title: WBN-YYYY-MM-DD-웨비나 프로그램
 feature: Programs
-exl-id: af2febb3-1773-4507-a694-c6c0f3d65a22
-source-git-commit: 38274b4859ae38c018ee73d4f1715fdf6a78e815
+exl-id: 0506606e-d09a-42d2-949f-a65371a29c00
+source-git-commit: c16081143588ebc0793f5b6e2630b58348e27124
 workflow-type: tm+mt
-source-wordcount: '574'
+source-wordcount: '591'
 ht-degree: 5%
 
 ---
@@ -14,7 +14,7 @@ ht-degree: 5%
 
 등록 관리, 3개의 초대 이메일, 참석 알림 이메일 및 Marketo Engage 이벤트 프로그램을 활용한 후속 이메일이 포함된 웨비나 프로그램의 예입니다.
 
-추가적인 전략 지원 또는 프로그램 맞춤화에 대한 도움말을 보려면 Adobe 계정 팀에 문의하거나 [Adobe Professional Services](https://business.adobe.com/customers/consulting-services/main.html){target="_blank"} 페이지를 가리키도록 업데이트하는 중입니다.
+추가 전략 지원 또는 프로그램 사용자 지정에 도움이 필요하면 Adobe 계정 팀에 문의하거나 [Adobe Professional Services](https://business.adobe.com/customers/consulting-services/main.html){target="_blank"} 페이지를 방문하십시오.
 
 ## 채널 요약 {#channel-summary}
 
@@ -27,21 +27,21 @@ ht-degree: 5%
    <th>프로그램 유형</th>
   </tr> 
   <tr> 
-   <td>Event</td> 
+   <td>이벤트</td> 
    <td>01 - 초대됨 
    <br/>02 - 대기자 명단 등록됨
-   <br/>03 - 등록됨
+   <br/>03 - 등록
    <br/>04 - 표시 안 함
    <br/>05 - 참석함 - 성공
-   <br/>06 - Attend On-Demand - 성공</td>
+   <br/>06 - 온디맨드 참석 - 성공</td>
    <td>포함</td>
-   <td>Event
+   <td>이벤트
    <p>(통합: 웨비나를 사용하는 이벤트)</td>
   </tr>
  </tbody> 
 </table>
 
-## 프로그램에 다음 자산이 포함되어 있습니다. {#program-contains-the-following-assets}
+## 프로그램에는 다음 Assets이 포함되어 있습니다 {#program-contains-the-following-assets}
 
 <table style="table-layout:auto"> 
  <tbody> 
@@ -159,8 +159,8 @@ ht-degree: 5%
   <tr> 
    <td>폴더</td> 
    <td> </td>
-   <td>Assets - 모든 크리에이티브 에셋을 저장합니다. 
-<br/>(이메일, 랜딩 페이지 및 Forms의 하위 폴더)</td>
+   <td>Assets - 모든 크리에이티브 에셋 보유 
+<br/>(전자 메일, 랜딩 페이지 및 Forms의 하위 폴더)</td>
   </tr>
   <tr> 
    <td>폴더</td> 
@@ -221,7 +221,7 @@ ht-degree: 5%
    <td><code>{{my.Event-Description}}</code></td>
    <td>세부 사항을 보려면 두 번 클릭  
 <br/><code><--My Event Description Here--></code> 
-<br/>내 토큰 탭 아래의 프로그램 수준에서 이 이벤트 설명을 편집합니다. 
+<br/>내 토큰 탭의 프로그램 수준에서 이 이벤트 설명을 편집합니다. 
 <br/>배울 내용: 
 <li>글머리 기호</li>
 <li>글머리 기호 2</li>
@@ -293,20 +293,20 @@ ht-degree: 5%
 ## 충돌 규칙 {#conflict-rules}
 
 * **프로그램 태그**
-   * 이 구독에서 태그 만들기 - _추천_
+   * 이 구독에서 태그 만들기 - _권장_
    * 무시
 
-* **동일한 이름의 랜딩 페이지 템플릿**
+* **같은 이름의 랜딩 페이지 템플릿**
    * 원본 템플릿 복사
-   * 대상 템플릿 사용 - _추천_
+   * 대상 템플릿 사용 - _권장_
 
 * **이름이 같은 이미지**
    * 두 파일 모두 보관
-   * 이 구독의 항목 바꾸기 - _추천_
+   * 이 구독의 항목 바꾸기 - _권장_
 
-* **이름이 같은 이메일 템플릿**
+* **같은 이름의 전자 메일 서식 파일**
    * 두 템플릿 모두 유지
-   * 기존 템플릿 바꾸기 - _추천_
+   * 기존 템플릿 바꾸기 - _권장_
 
 ## 우수 사례 {#best-practices}
 
@@ -325,7 +325,7 @@ ht-degree: 5%
 
 >[!TIP]
 >
->성공 추적을 위해 &quot;05 - 참석함(프로그램 성공)&quot; 캠페인을 활성화하는 것을 잊지 마십시오! 수행 _다음 이전_ 이메일이 전송되었습니다.
+>성공 추적을 위해 &quot;05 - 참석함(프로그램 성공)&quot; 캠페인을 활성화하는 것을 잊지 마십시오! 이메일을 보내기 전에 _다음 작업을 수행합니다_.
 
 >[!IMPORTANT]
 >

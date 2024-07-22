@@ -19,14 +19,14 @@ ht-degree: 0%
 
    ![](assets/deactivate-a-trigger-smart-campaign-schedule-tab-1.png)
 
-1. Schedule 탭에서 **[!UICONTROL 비활성화]**.
+1. 예약 탭에서 **[!UICONTROL 비활성화]**&#x200B;를 클릭합니다.
 
    ![](assets/deactivate-a-trigger-smart-campaign-schedule-tab-2.png)
 
-1. 을(를) 클릭하여 확인 **[!UICONTROL 비활성화]**.
+1. **[!UICONTROL 비활성화]**&#x200B;를 클릭하여 확인합니다.
 
    ![](assets/deactivate-a-trigger-smart-campaign-schedule-tab-3.png)
 
 >[!NOTE]
 >
->중지됩니다. _신규_ 사람은 흐름에 들어가지 않지만, 대기 단계나 다른 흐름 단계에 있는 사람은 완료될 때까지 흐름을 통해 계속 이동합니다.
+>_새_&#x200B;명의 사용자가 흐름을 시작하지 못하지만 대기 단계나 다른 흐름 단계에 있는 사용자는 완료될 때까지 흐름을 계속 이동합니다.

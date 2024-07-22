@@ -40,7 +40,7 @@ ht-degree: 3%
    <td>명명된 계정 이름</td> 
   </tr> 
   <tr> 
-   <td><strong>인물</strong></td> 
+   <td><strong>사용자</strong></td> 
    <td>명명 계정에 귀속된 사람 수</td> 
   </tr> 
   <tr> 
@@ -61,7 +61,7 @@ ht-degree: 3%
   </tr> 
   <tr> 
    <td><strong>SIC 코드</strong></td> 
-   <td><span><strong>S</strong>표준 <strong>I</strong>산업 <strong>C</strong>분류 - 산업 분류용 4자리 코드<br></span></td> 
+   <td><span><strong>S</strong>표준 <strong>I</strong>산업 <strong>C</strong>분류 - 산업 분류를 위한 4자리 코드<br></span></td> 
   </tr> 
   <tr> 
    <td><strong>매출</strong></td> 

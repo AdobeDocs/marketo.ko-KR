@@ -7,7 +7,7 @@ exl-id: 6c119652-8243-4fd2-ad29-1d87ffebf757
 feature: Sales Insight Actions
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
-source-wordcount: '72'
+source-wordcount: '63'
 ht-degree: 0%
 
 ---
@@ -16,7 +16,7 @@ ht-degree: 0%
 
 예. Sales Insight Actions 은 Salesforce Lightning 과 호환됩니다.
 
-다음을 수행하세요. [여기를 클릭하십시오](https://s3.amazonaws.com/tout-user-store/salesforce/assets/SF+Guide+for+Lightning.pdf) 설치 및 성공 가이드에 대한 정보를 참조하십시오.
+설치 및 성공 가이드를 보려면 [여기를 클릭](https://s3.amazonaws.com/tout-user-store/salesforce/assets/SF+Guide+for+Lightning.pdf)하십시오.
 
 >[!NOTE]
 >

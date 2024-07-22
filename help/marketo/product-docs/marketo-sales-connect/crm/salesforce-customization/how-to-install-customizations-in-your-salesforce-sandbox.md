@@ -19,17 +19,17 @@ ht-degree: 0%
 
 >[!PREREQUISITES]
 >
->[Salesforce 샌드박스에 연결](/help/marketo/product-docs/marketo-sales-connect/crm/salesforce-customization/how-to-connect-sales-connect-to-your-salesforce-sandbox.md)
+>[Salesforce 샌드박스에 판매 연결](/help/marketo/product-docs/marketo-sales-connect/crm/salesforce-customization/how-to-connect-sales-connect-to-your-salesforce-sandbox.md)
 
-1. Sales Connect에서 오른쪽 상단의 톱니바퀴 아이콘을 클릭하고 **설정**.
+1. Sales Connect에서 오른쪽 상단의 톱니바퀴 아이콘을 클릭하고 **설정**&#x200B;을 선택합니다.
 
    ![](assets/one-3.png)
 
-1. 관리자 설정에서 을 클릭합니다. **세일즈포스**
+1. 관리자 설정에서 **Salesforce.**&#x200B;를 클릭합니다.
 
    ![](assets/two-3.png)
 
-1. 클릭 **사용자 지정 설치**.
+1. **사용자 지정 설치**&#x200B;를 클릭합니다.
 
    ![](assets/three-3.png)
 

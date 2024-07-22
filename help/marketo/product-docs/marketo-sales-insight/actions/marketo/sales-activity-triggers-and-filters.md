@@ -20,7 +20,7 @@ ht-degree: 0%
 
    ![](assets/sales-activity-triggers-and-filters-1.png)
 
-1. 다음에서 **스마트 목록** 탭에서 &quot;Sales Apps&quot;를 검색합니다.
+1. **스마트 목록** 탭에서 &quot;영업 앱&quot;을 검색합니다.
 
    ![](assets/sales-activity-triggers-and-filters-2.png)
 
@@ -34,4 +34,4 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->활동, 제한 및 정의의 전체 목록은 다음을 참조하십시오. [Sales Insight Actions 활동 용어집](/help/marketo/product-docs/marketo-sales-insight/actions/marketo/sales-insight-actions-activity-glossary.md).
+>활동, 제한 및 정의의 전체 목록을 보려면 [Sales Insight Actions 활동 용어집](/help/marketo/product-docs/marketo-sales-insight/actions/marketo/sales-insight-actions-activity-glossary.md)을 확인하십시오.

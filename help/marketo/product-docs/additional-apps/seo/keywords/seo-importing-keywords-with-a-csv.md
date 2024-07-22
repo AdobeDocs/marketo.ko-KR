@@ -13,13 +13,13 @@ ht-degree: 0%
 
 # SEO - CSV로 키워드 가져오기 {#seo-importing-keywords-with-a-csv}
 
-1. 다음을 수행할 수 있습니다. [키워드 추가](/help/marketo/product-docs/additional-apps/seo/keywords/seo-add-keywords.md) 수동으로, [키워드 제안 가져오기](/help/marketo/product-docs/additional-apps/seo/keywords/seo-get-suggested-keywords.md) CSV 파일에서 키워드를 가져올 수도 있습니다. 가져오기 방법은 다음과 같습니다.
+1. 수동으로 [키워드를 추가](/help/marketo/product-docs/additional-apps/seo/keywords/seo-add-keywords.md)하고, [키워드 제안을 받고](/help/marketo/product-docs/additional-apps/seo/keywords/seo-get-suggested-keywords.md)하며, CSV 파일에서 키워드를 가져올 수도 있습니다. 가져오기 방법은 다음과 같습니다.
 
-1. 로 이동 **[!UICONTROL 키워드]** 섹션.
+1. **[!UICONTROL 키워드]** 섹션으로 이동합니다.
 
    ![](assets/image2014-9-18-11-3a44-3a25.png)
 
-1. 클릭 **[!UICONTROL 가져오기]**.
+1. **[!UICONTROL 가져오기]**&#x200B;를 클릭합니다.
 
    ![](assets/image2014-9-18-11-3a44-3a36.png)
 
@@ -27,7 +27,7 @@ ht-degree: 0%
 
    ![](assets/image2014-9-18-11-3a44-3a42.png)
 
-1. 클릭 **[!UICONTROL 파일 선택]**.
+1. **[!UICONTROL 파일 선택]**&#x200B;을 클릭합니다.
 
    ![](assets/image2014-9-18-11-3a44-3a46.png)
 
@@ -35,7 +35,7 @@ ht-degree: 0%
    >
    >가져오기 제한은 구독에 따라 다릅니다. 자세한 내용은 영업 담당자에게 문의하십시오.
 
-1. 클릭 **[!UICONTROL 가져오기]**.
+1. **[!UICONTROL 가져오기]**&#x200B;를 클릭합니다.
 
    ![](assets/image2014-9-18-11-3a45-3a25.png)
 

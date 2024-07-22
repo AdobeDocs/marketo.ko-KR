@@ -15,19 +15,19 @@ ht-degree: 0%
 
 다음과 같은 간단한 단계를 통해 Marketo 암호를 변경합니다.
 
-1. 로 이동 **[!UICONTROL 관리자]** 영역입니다.
+1. **[!UICONTROL 관리자]** 영역으로 이동합니다.
 
    ![](assets/change-your-marketo-password-1.png)
 
-1. 클릭 **[!UICONTROL 내 계정]**.
+1. **[!UICONTROL 내 계정]**&#x200B;을 클릭합니다.
 
    ![](assets/change-your-marketo-password-2.png)
 
-1. 클릭 **[!UICONTROL 암호 변경]**.
+1. **[!UICONTROL 암호 변경]**&#x200B;을 클릭합니다.
 
    ![](assets/change-your-marketo-password-3.png)
 
-1. 이전 암호와 새 암호를 입력한 다음 **[!UICONTROL 저장]**.
+1. 이전 암호와 새 암호를 입력한 다음 **[!UICONTROL 저장]**&#x200B;을 클릭합니다.
 
    ![](assets/change-your-marketo-password-4.png)
 

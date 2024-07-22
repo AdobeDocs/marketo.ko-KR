@@ -14,7 +14,7 @@ ht-degree: 21%
 
 # 아이콘 용어집 {#new-icon-glossary}
 
-다음은 새 Adobe Marketo Engage 인터페이스의 아이콘입니다. Marketo Classic 아이콘을 참조해야 하는 경우 다음과 같을 수 있습니다. [여기에서 찾음](/help/marketo/getting-started/things-to-know/classic-icon-glossary.md).
+다음은 새 Adobe Marketo Engage 인터페이스의 아이콘입니다. Marketo Classic 아이콘을 참조해야 하는 경우 [여기에서 찾을 수 있음](/help/marketo/getting-started/things-to-know/classic-icon-glossary.md).
 
 ## 일반 아이콘 {#general-icons}
 

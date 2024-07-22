@@ -17,7 +17,7 @@ ht-degree: 0%
 
 ![](assets/one.png)
 
-사용 [필터링](/help/marketo/product-docs/reporting/email-insights/filtering-in-email-insights.md) 표시할 이메일을 지정합니다.
+표시할 이메일을 지정하려면 [필터링](/help/marketo/product-docs/reporting/email-insights/filtering-in-email-insights.md)을 사용하십시오.
 
 ![](assets/filtering.png)
 
@@ -25,11 +25,11 @@ ht-degree: 0%
 
 ![](assets/two-1.png)
 
-**유형** 사용된 에셋의 종류를 나타냅니다.
-**수신자** 숫자는 얼마나 많은 사람들이 이메일을 보냈는지입니다.
-**게재 지표** 배달되었거나, 보류 중이거나, 반송된 이메일 수에 대한 빠른 보기를 제공합니다.\
-**참여 지표** 에서는 이메일을 열고, 클릭하고, 구독 취소한 수신자 수를 빠르게 볼 수 있습니다.
-**점수** 은(는) 이메일입니다. [참여 점수](/help/marketo/product-docs/email-marketing/drip-nurturing/reports-and-notifications/understanding-the-engagement-score.md).
+**Type**은(는) 사용된 에셋의 종류를 나타냅니다.
+**받는 사람** 번호는 전자 메일을 보낸 사람 수입니다.
+**게재 지표**&#x200B;에서는 배달되었거나, 보류 중이거나, 반송된 이메일 수를 빠르게 볼 수 있습니다.\
+**참여 지표**에서는 전자 메일을 열고, 클릭하고, 구독 취소한 받는 사람 수를 빠르게 볼 수 있습니다.
+**점수**&#x200B;는 전자 메일의 [참여 점수](/help/marketo/product-docs/email-marketing/drip-nurturing/reports-and-notifications/understanding-the-engagement-score.md)입니다.
 
 기본적으로 이메일은 가장 최근별로 정렬되지만 사용 가능한 지표를 기준으로 정렬할 수 있습니다.
 
@@ -47,4 +47,4 @@ Analytics에서 이메일 통계를 보려면 점수 옆에 마우스를 놓고 
 
 >[!MORELIKETHIS]
 >
->[이메일 통찰력 분석 개요](/help/marketo/product-docs/reporting/email-insights/email-insights-analytics-overview.md)
+>[이메일 인사이트 분석 개요](/help/marketo/product-docs/reporting/email-insights/email-insights-analytics-overview.md)

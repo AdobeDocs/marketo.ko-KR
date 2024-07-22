@@ -6,7 +6,7 @@ exl-id: 0a70def5-d98e-4efd-ac3a-36c52c1cbc45
 feature: Marketing Calendar
 source-git-commit: afdf59729f16d27a548fa60a8156c941be54a8a7
 workflow-type: tm+mt
-source-wordcount: '172'
+source-wordcount: '173'
 ht-degree: 0%
 
 ---
@@ -17,13 +17,13 @@ ht-degree: 0%
 
 >[!PREREQUISITES]
 >
->다음 항목이 있는지 확인하십시오 [마케팅 캘린더 라이선스](/help/marketo/product-docs/core-marketo-concepts/marketing-calendar/understanding-the-calendar/issue-revoke-a-marketing-calendar-license.md){target="_blank"} - 그렇지 않으면 마케팅 달력 타일이 내 Marketo에 표시되지 않습니다.
+>[마케팅 일정 라이선스](/help/marketo/product-docs/core-marketo-concepts/marketing-calendar/understanding-the-calendar/issue-revoke-a-marketing-calendar-license.md){target="_blank"}가 있는지 확인하세요. 그렇지 않으면 마케팅 일정 타일이 내 Marketo에 표시되지 않습니다.
 
 >[!NOTE]
 >
 >마케팅 캘린더에서는 반복 스마트 캠페인이 지원되지 않습니다.
 
-1. 로 이동 **마케팅 캘린더**.
+1. **마케팅 일정**(으)로 이동합니다.
 
    ![](assets/2017-05-10-15-30-47.png)
 
@@ -33,7 +33,7 @@ ht-degree: 0%
 
 ## 모드 간 변경 {#change-between-modes}
 
-1. 다음을 클릭합니다. **[!UICONTROL 3주]** 또는 **[!UICONTROL 월]** 모드 간에 전환할 탭입니다.
+1. 모드 간에 전환하려면 **[!UICONTROL 3주]** 또는 **[!UICONTROL 월]** 탭을 클릭하십시오.
 
    ![](assets/image2014-9-15-16-3a46-3a16.png)
 
@@ -41,11 +41,11 @@ ht-degree: 0%
 
 주제 보기에는 모든 항목이 목록으로 표시됩니다.
 
-1. 다음을 클릭합니다. **[!UICONTROL 필터]** 드롭다운.
+1. **[!UICONTROL 필터]** 드롭다운을 클릭합니다.
 
    ![](assets/image2014-9-26-10-3a29-3a6.png)
 
-1. 다음 항목 선택 **[!UICONTROL 주제]** 보기.
+1. **[!UICONTROL 주제]** 보기를 선택하십시오.
 
    ![](assets/image2014-9-26-10-3a29-3a36.png)
 
@@ -71,4 +71,4 @@ ht-degree: 0%
 
 >[!MORELIKETHIS]
 >
->[마케팅 달력 필터링](/help/marketo/product-docs/core-marketo-concepts/marketing-calendar/working-with-the-calendar/filtering-the-marketing-calendar.md){target="_blank"}
+>[마케팅 일정 필터링](/help/marketo/product-docs/core-marketo-concepts/marketing-calendar/working-with-the-calendar/filtering-the-marketing-calendar.md){target="_blank"}

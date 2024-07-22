@@ -6,7 +6,7 @@ exl-id: 754e3abf-d5e7-447f-a032-6ed66723f837
 feature: Release Information
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
-source-wordcount: '322'
+source-wordcount: '326'
 ht-degree: 0%
 
 ---
@@ -23,7 +23,7 @@ ht-degree: 0%
 >
 >이 기능은 4월 28일 화요일에 릴리스됩니다.
 
-새로운 [Analytics 홈페이지](/help/marketo/product-docs/reporting/basic-reporting/creating-reports/navigating-the-analytics-home-page.md) 사용 가능한 보고서 유형에서 임시 보고서를 실행할 수 있도록 빠른 액세스를 활성화합니다.
+새 [Analytics 홈 페이지](/help/marketo/product-docs/reporting/basic-reporting/creating-reports/navigating-the-analytics-home-page.md)를 사용하면 사용 가능한 보고서 유형에서 임시 보고서를 실행할 수 있습니다.
 
 ![](assets/image2015-4-20-11-3a18-3a8.png)
 
@@ -41,7 +41,7 @@ Marketo Mobile Engagement를 사용하면 매력적인 모바일 경험을 쉽�
 
 [LinkedIn Lead Accelerator 통합](/help/marketo/product-docs/demand-generation/social/social-functions/use-a-marketo-list-or-smart-list-as-a-linkedin-audience-segment.md)
 
-리드 육성 전략을 유료 디스플레이 및 소셜 광고로 확장하십시오. 다음 [광고 네트워크 통합](/help/marketo/product-docs/demand-generation/ad-network-integrations/add-linkedin-matched-audiences-as-a-launchpoint-service.md) linkedIn Lead Accelerator를 사용하면 모든 스마트 또는 정적 목록의 구성원을 기반으로 LinkedIn 내에서 대상 세그먼트를 안전하게 만들 수 있습니다. 그런 다음 LinkedIn 대상 세그먼트 내의 구성원을 관련 광고 시퀀스로 육성할 수 있습니다.
+리드 육성 전략을 유료 디스플레이 및 소셜 광고로 확장하십시오. linkedIn Lead Accelerator와 [광고 네트워크 통합](/help/marketo/product-docs/demand-generation/ad-network-integrations/add-linkedin-matched-audiences-as-a-launchpoint-service.md)을 사용하면 모든 스마트 또는 정적 목록의 구성원을 기반으로 LinkedIn 내에서 대상 세그먼트를 안전하게 만들 수 있습니다. 그런 다음 LinkedIn 대상 세그먼트 내의 구성원을 관련 광고 시퀀스로 육성할 수 있습니다.
 
 ![](assets/image2015-4-20-11-3a3-3a27.png)
 

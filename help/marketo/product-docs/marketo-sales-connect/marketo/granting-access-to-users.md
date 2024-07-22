@@ -14,13 +14,13 @@ ht-degree: 0%
 
 이 문서의 단계에 따라 Sales Connect 사용자에게 Marketo 연결에 대한 액세스 권한을 부여합니다. 이렇게 하면 라이브 피드의 흥미로운 순간 및 마케팅 캠페인에 대한 액세스와 같은 기능이 잠금 해제됩니다.
 
-Sales Connect에 사용자를 초대해야 합니다. [여기](/help/marketo/product-docs/marketo-sales-connect/admin/invite-users.md)를 활성화한 후 Sales Connect의 Marketo > 팀 액세스 페이지(Marketo 연결에 대한 액세스 권한이 부여됨)에 표시하십시오.
+Marketo 연결에 대한 액세스 권한이 부여된 Marketo > 팀 액세스 페이지(Sales Connect의)에 표시되기 전에 Sales Connect [여기](/help/marketo/product-docs/marketo-sales-connect/admin/invite-users.md)에 사용자를 초대해야 합니다.
 
 >[!CAUTION]
 >
 >이 단계를 수행하기 전에 Sales Connect와 Marketo에 연결한 후 10분 정도 기다리십시오.
 
-1. 사용자를 한 명 이상 선택한 다음 **연결**.
+1. 사용자를 한 명 이상 선택한 다음 **연결**&#x200B;을 클릭합니다.
 
    >[!NOTE]
    >
@@ -32,7 +32,7 @@ Sales Connect에 사용자를 초대해야 합니다. [여기](/help/marketo/pro
 
    ![](assets/granting-access-to-users-2.jpg)
 
-1. 작업 영역 드롭다운을 클릭하고 원하는 작업 영역을 선택한 다음 를 클릭합니다. **연결**.
+1. Workspace 드롭다운을 클릭하고 원하는 작업 영역을 선택한 다음 **연결**&#x200B;을 클릭합니다.
 
    ![](assets/granting-access-to-users-3.png)
 

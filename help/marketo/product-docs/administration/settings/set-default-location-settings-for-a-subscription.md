@@ -6,7 +6,7 @@ exl-id: 9181e22b-be60-4dc0-bc75-f4583ee5dbea
 feature: Administration
 source-git-commit: 02b2e39580c5eac63de4b4b7fdaf2a835fdd4ba5
 workflow-type: tm+mt
-source-wordcount: '249'
+source-wordcount: '248'
 ht-degree: 0%
 
 ---
@@ -21,43 +21,43 @@ ht-degree: 0%
 
 ## 구독에 대한 기본 위치 설정 지정 {#set-default-location-settings-for-a-subscription-1}
 
-관리자가 기본 위치 설정을 변경하면 새로 만든 사용자가 이러한 설정을 상속합니다. 사용자는 항상 [언어, 로케일 및 시간대 환경 설정 변경](/help/marketo/product-docs/administration/settings/select-your-language-locale-and-time-zone.md) 개인 계정에서.
+관리자가 기본 위치 설정을 변경하면 새로 만든 사용자가 이러한 설정을 상속합니다. 사용자는 항상 개별 계정에서 언어, 로케일 및 시간대 환경 설정을 [변경](/help/marketo/product-docs/administration/settings/select-your-language-locale-and-time-zone.md)할 수 있습니다.
 
-1. 로 이동 **[!UICONTROL 관리자]** 영역입니다.
+1. **[!UICONTROL 관리자]** 영역으로 이동합니다.
 
    ![](assets/set-default-location-settings-for-a-subscription-1.png)
 
-1. 클릭 **[!UICONTROL 위치]**.
+1. **[!UICONTROL 위치]**&#x200B;를 클릭합니다.
 
    ![](assets/set-default-location-settings-for-a-subscription-2.png)
 
-1. 클릭 **[!UICONTROL 편집]**.
+1. **[!UICONTROL 편집]**&#x200B;을 클릭합니다.
 
    ![](assets/set-default-location-settings-for-a-subscription-3.png)
 
    이 구독은 영어로 만들어졌습니다. 런던에 있었으며 기본 로케일과 시간대를 변경하려고 했다고 가정해 보겠습니다. 로케일에 따라 숫자, 날짜 및 시간 서식이 결정됩니다.
 
-1. 다음 항목 선택 **[!UICONTROL 로케일]** 및 다음으로 변경 **[!UICONTROL 영어(영국)]**.
+1. **[!UICONTROL 로케일]**&#x200B;을(를) 선택하고 **[!UICONTROL 영어(영국)]**(으)로 변경합니다.
 
    ![](assets/set-default-location-settings-for-a-subscription-4.png)
 
-1. 마지막으로 적절한 항목을 선택합니다. **[!UICONTROL 시간대]**.
+1. 마지막으로 적절한 **[!UICONTROL 시간대]**&#x200B;를 선택하세요.
 
    ![](assets/set-default-location-settings-for-a-subscription-5.png)
 
    >[!NOTE]
    >
-   >Marketo Sales Insight for [Salesforce.com](https://salesforce.com/) 는 프랑스어, 독일어, 일본어, 포르투갈어 및 스페인어를 지원합니다.
+   >[Salesforce.com](https://salesforce.com/)용 Marketo Sales Insight는 프랑스어, 독일어, 일본어, 포르투갈어 및 스페인어를 지원합니다.
 
 ## 가입에 대한 기본 통화 설정 지정 {#set-the-default-currency-settings-for-a-subscription}
 
 사용자의 기본 로케일을 변경하는 경우 통화 형식 설정도 변경할 수 있습니다.
 
-1. 클릭 **[!UICONTROL 편집]** 위치: [!UICONTROL 구독 통화 설정].
+1. [!UICONTROL 구독 통화 설정]에서 **[!UICONTROL 편집]**&#x200B;을 클릭합니다.
 
    ![](assets/set-default-location-settings-for-a-subscription-6.png)
 
-1. 원하는 통화 형식을 선택하고 **[!UICONTROL 저장]**.
+1. 선택한 통화 형식을 선택하고 **[!UICONTROL 저장]**&#x200B;을 클릭합니다.
 
    ![](assets/set-default-location-settings-for-a-subscription-7.png)
 

@@ -13,7 +13,7 @@ ht-degree: 0%
 
 # 프로그램 일정 보기에서 일괄 처리 스마트 캠페인 만들기 {#creating-a-batch-smart-campaign-in-the-program-schedule-view}
 
-새 스마트 캠페인을 만들고 [기존 작업 다시 실행](/help/marketo/product-docs/core-marketo-concepts/programs/program-schedule-view/rerun-a-smart-campaign-in-the-program-schedule-view.md){target="_blank"} 프로그램 예약 보기에서 프로그램 내부.
+프로그램 일정 보기에서 프로그램 내에서 새 스마트 캠페인을 만들고 [기존 캠페인을 다시 실행](/help/marketo/product-docs/core-marketo-concepts/programs/program-schedule-view/rerun-a-smart-campaign-in-the-program-schedule-view.md){target="_blank"}할 수 있습니다.
 
 >[!NOTE]
 >
@@ -23,11 +23,11 @@ ht-degree: 0%
 
    ![](assets/image2014-9-23-15-3a28-3a20.png)
 
-1. 항목의 이름을 선택하면 새 스마트 캠페인이 됩니다. 누르기 **[!UICONTROL Enter/Return]** 키를 눌러 이름을 확인합니다.
+1. 항목의 이름을 선택하면 새 스마트 캠페인이 됩니다. **[!UICONTROL Enter/Return]** 키를 눌러 이름을 확인합니다.
 
    ![](assets/image2014-9-23-15-3a28-3a28.png)
 
-1. 다음을 클릭합니다. **[!UICONTROL 유형]** 드롭다운 및 선택 **[!UICONTROL 스마트 캠페인]**.
+1. **[!UICONTROL 유형]** 드롭다운을 클릭하고 **[!UICONTROL 스마트 캠페인]**&#x200B;을 선택합니다.
 
    ![](assets/typechoose.png)
 
@@ -37,7 +37,7 @@ ht-degree: 0%
 
    ![](assets/four.png)
 
-1. 다음 항목 선택 [스마트 캠페인](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/creating-a-smart-campaign/create-a-new-smart-campaign.md){target="_blank"} 규칙.
+1. [스마트 캠페인](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/creating-a-smart-campaign/create-a-new-smart-campaign.md){target="_blank"} 규칙을 선택하세요.
 
    ![](assets/changeprogramstatus-hands.png)
 

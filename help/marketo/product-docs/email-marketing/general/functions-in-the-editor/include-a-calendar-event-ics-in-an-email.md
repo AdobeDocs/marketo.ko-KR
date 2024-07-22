@@ -7,7 +7,7 @@ feature: Email Editor
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '92'
-ht-degree: 0%
+ht-degree: 2%
 
 ---
 
@@ -17,17 +17,17 @@ ht-degree: 0%
 
 >[!PREREQUISITES]
 >
->[달력 이벤트(.ics) 파일 만들기](/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/create-a-calendar-event-ics-file.md)
+>[일정 이벤트(.ics) 파일 만들기](/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/create-a-calendar-event-ics-file.md)
 
 1. 프로그램 이메일을 편집하는 동안 토큰을 보낼 위치를 클릭한 다음, 토큰 삽입 버튼을 클릭합니다.
 
 ![](assets/one-6.png)
 
-1. 달력 파일 토큰을 선택하고 **삽입**.
+1. 일정 파일 토큰을 선택하고 **삽입**&#x200B;을 클릭합니다.
 
    ![](assets/image2014-9-11-16-3a53-3a30.png)
 
-1. 클릭 **저장**.
+1. **저장**&#x200B;을 클릭합니다.
 
    ![](assets/three-5.png)
 

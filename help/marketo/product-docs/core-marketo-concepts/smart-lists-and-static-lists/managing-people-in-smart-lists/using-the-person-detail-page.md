@@ -19,10 +19,10 @@ ht-degree: 22%
 
 특정 사람들을 여는 방법에는 여러 가지가 있습니다. 몇 가지 예는 다음과 같습니다.
 
-* 다음에서 **데이터베이스**, 빠른 찾기에서 검색할 수 있습니다
-* 임의 **스마트 목록** 또는 목록
-* **구성원** 프로그램의 탭
-* **캠페인 멤버 보기** 스마트 캠페인에서
+* **데이터베이스**&#x200B;에서 빠른 찾기에서 검색할 수 있습니다.
+* 모든 **스마트 목록** 또는 목록
+* 프로그램의 **구성원** 탭
+* 스마트 캠페인에서 **캠페인 구성원 보기**
 * 일부 **보고서**
   <br> 
 
@@ -60,7 +60,7 @@ ht-degree: 22%
 
 >[!NOTE]
 >
->Opportunity 정보도 볼 수 있습니다 [api를 통해 삽입됨](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/rest/lead-database/opportunities) CRM과 동기화되지 않은 인스턴스의 경우
+>CRM과 동기화되지 않은 인스턴스에 대한 영업 기회 정보 [API를 통해 삽입됨](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/rest/lead-database/opportunities)도 볼 수 있습니다.
 
 ## 필드 편집 {#editing-a-field}
 
@@ -80,7 +80,7 @@ ht-degree: 22%
 | 산업 | 추론된 시 | 추론된 회사 | 추론된 국가 | 대도시 지역 유추 |
 | 전화번호 지역코드 유추 | 추론된 우편번호 | 유추된 주 지역 | 익명 | 고객 |
 | 파트너 | 직위 | 성 | 등급 | 스코어 |
-| 개인 소스 | 상태 | 주요 전화 | Marketo Social Facebook 표시 이름 | Marketo Social Facebook Id |
+| 개인 Source | 상태 | 주요 전화 | Marketo Social Facebook 표시 이름 | Marketo Social Facebook Id |
 | Marketo Social Facebook 사진 URL | Marketo Social Facebook 프로필 URL | Marketo Social Facebook Reach | Marketo Social Facebook 참조 등록 | Marketo Social Facebook 참조 방문 |
 | Marketo 소셜 젠더 | Marketo Social 마지막 참조 등록 | Marketo Social 마지막 참조 방문 | Marketo Social LinkedIn 표시 이름 | Marketo Social LinkedIn Id |
 | Marketo Social LinkedIn 사진 URL | Marketo Social LinkedIn 프로필 URL | Marketo Social LinkedIn Reach | Marketo Social LinkedIn 참조 등록 | Marketo Social LinkedIn 참조 방문 |
@@ -93,15 +93,15 @@ ht-degree: 22%
 
 >[!NOTE]
 >
->일부 필드는 다음과 같습니다 _아님_ 편집 가능:
+>일부 필드를 _편집할 수 없음_:
 >
 >* 활동 로그
 >* 회사 정보
 >* SFDC 연락처 기회
->* 만든 날짜 및 원본 소스 유형과 같은 특정 Marketo 관련 필드.
+>* 만든 날짜 및 원래 Marketo 유형과 같은 특정 Source 관련 필드.
 >
->자세히 알아보기 [시스템 관리 필드](/help/marketo/product-docs/administration/field-management/understanding-system-managed-fields.md){target="_blank"}.
+>[시스템 관리 필드](/help/marketo/product-docs/administration/field-management/understanding-system-managed-fields.md){target="_blank"}에 대해 자세히 알아보세요.
 
 >[!MORELIKETHIS]
 >
->[개인 세부 정보 페이지에 대한 사용자 정의 탭 만들기](/help/marketo/product-docs/administration/settings/creating-a-custom-tab-for-the-person-detail-page.md){target="_blank"}
+>[개인 세부 정보 페이지에 대한 사용자 지정 탭 만들기](/help/marketo/product-docs/administration/settings/creating-a-custom-tab-for-the-person-detail-page.md){target="_blank"}

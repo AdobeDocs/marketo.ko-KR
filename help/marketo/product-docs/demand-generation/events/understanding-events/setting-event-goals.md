@@ -24,21 +24,21 @@ ht-degree: 0%
 
    ![](assets/setting-event-goals-1.png)
 
-1. 다음을 선택합니다. [!UICONTROL 캠페인 폴더], 이벤트 제공 [!UICONTROL 이름]를 선택하고 [!UICONTROL 프로그램 유형] 및 [!UICONTROL 채널]. 클릭 **[!UICONTROL 만들기]** 완료 시.
+1. [!UICONTROL 캠페인 폴더]를 선택하고, 이벤트에 [!UICONTROL 이름]을 지정하고, [!UICONTROL 프로그램 유형] 및 [!UICONTROL 채널]을 선택하세요. 완료되면 **[!UICONTROL 만들기]**&#x200B;를 클릭합니다.
 
    ![](assets/setting-event-goals-2.png)
 
-1. 이벤트에서 **[!UICONTROL 보고서]** 탭.
+1. 이벤트에서 **[!UICONTROL 보고서]** 탭을 클릭합니다.
 
    ![](assets/setting-event-goals-3.png)
 
-1. 에 대한 목표 입력 [!UICONTROL 등록됨] 다음을 클릭: **[!UICONTROL 목표 설정]**. 에 숫자를 입력하고 enter 키를 누릅니다.
+1. **[!UICONTROL 목표 설정]**&#x200B;을 클릭하여 [!UICONTROL 등록됨]의 목표를 입력하십시오. 에 숫자를 입력하고 enter 키를 누릅니다.
 
    ![](assets/setting-event-goals-4.png)
 
    ![](assets/setting-event-goals-5.png)
 
-1. 에 대해 동일한 단계를 반복합니다. [!UICONTROL 출석함].
+1. [!UICONTROL 참석함]에 대해 동일한 단계를 반복합니다.
 
    ![](assets/setting-event-goals-6.png)
 
@@ -46,4 +46,4 @@ ht-degree: 0%
 >
 >이벤트가 시작된 후에는 이벤트에 대한 목표를 설정할 수 없습니다.
 
-다 됐습니다! 다음을 클릭하여 이벤트 목표 상태를 확인합니다. [!UICONTROL 보고서] 탭.
+다 됐습니다! [!UICONTROL 보고서] 탭을 클릭하여 이벤트 목표 상태를 확인합니다.

@@ -13,27 +13,27 @@ ht-degree: 1%
 
 # 스마트 목록으로 대상자 정의 {#define-an-audience-with-a-smart-list}
 
-한 번 [이메일 프로그램 만들기](/help/marketo/product-docs/email-marketing/email-programs/creating-an-email-program/create-an-email-program.md)(으)로 이메일을 보낼 사용자를 지정합니다. 다음을 통해 이 작업을 수행할 수 있습니다. [사람 목록 가져오기](/help/marketo/product-docs/email-marketing/email-programs/managing-people-in-email-programs/define-an-audience-by-importing-a-list.md) 또는 스마트 목록이 있는 경우 다음은 스마트 목록으로 이를 수행하는 방법입니다.
+[전자 메일 프로그램을 만들기](/help/marketo/product-docs/email-marketing/email-programs/creating-an-email-program/create-an-email-program.md)하면 전자 메일을 보낼 사용자를 알려 줍니다. 이 작업은 [사람 목록을 가져오거나](/help/marketo/product-docs/email-marketing/email-programs/managing-people-in-email-programs/define-an-audience-by-importing-a-list.md) 스마트 목록을 사용하여 수행할 수 있습니다. 다음은 스마트 목록으로 이를 수행하는 방법입니다.
 
 >[!PREREQUISITES]
 >
->[이메일 프로그램 만들기](/help/marketo/product-docs/email-marketing/email-programs/creating-an-email-program/create-an-email-program.md)
+>[전자 메일 프로그램 만들기](/help/marketo/product-docs/email-marketing/email-programs/creating-an-email-program/create-an-email-program.md)
 
 >[!NOTE]
 >
 >대상자 정의는 이메일 프로그램이 승인되지 않은 경우에만 작동합니다.
 
-1. 다음으로 이동 **마케팅 활동**.
+1. **마케팅 활동**(으)로 이동합니다.
 
    ![](assets/login-marketing-activities.png)
 
-1. 이메일 프로그램을 선택한 다음 **스마트 목록 편집** 다음 아래에 **대상자** 타일.
+1. 전자 메일 프로그램을 선택한 다음 **대상자** 타일 아래의 **스마트 목록 편집**&#x200B;을 클릭합니다.
 
    ![](assets/2017-05-22-09-46-37.png)
 
    >[!TIP]
    >
-   >보기가 로 설정되어 있는지 확인합니다. **Campaign 컨트롤 패널** 이 설정을 찾습니다.
+   >이 설정을 찾으려면 보기가 **Campaign 컨트롤 패널**(으)로 설정되어 있는지 확인하십시오.
 
 1. 사용할 필터를 찾아 캔버스로 드래그합니다.
 
@@ -47,7 +47,7 @@ ht-degree: 1%
 
    ![](assets/myemailprogram.jpg)
 
-   훌륭합니다! 이제 할 시간이야 [기존 이메일 선택](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/choose-an-existing-email.md) 또는 [이메일 만들기](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/create-an-email-for-an-email-program.md) 이 사람들에게 보낼 수 있습니다.
+   훌륭합니다! 이제 [기존 전자 메일을 선택](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/choose-an-existing-email.md)하거나 [전자 메일을 만들기](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/create-an-email-for-an-email-program.md)하여 이 사람들에게 보낼 차례입니다.
 
 >[!NOTE]
 >
@@ -57,15 +57,15 @@ ht-degree: 1%
 >
 >* 주소 삭제
 >* 마케팅 중단
->* 차단 목록에 추가된 덧신
+>* 차단 목록에 추가된
 >* 이메일 잘못됨
 >* 빈 이메일
 >
->메일링이 차단된 사람들의 자세한 목록을 보려면 번호를 클릭하십시오. **참고 사항:** 운영 이메일은 여전히 구독 취소 및 마케팅 중단 표시가 된 사람에게 전송됩니다.
+>메일링이 차단된 사람들의 자세한 목록을 보려면 번호를 클릭하십시오. **참고:** 운영 전자 메일은 여전히 구독 취소됨으로 표시되어 있고 마케팅이 일시 중단된 사람들에게 전송됩니다.
 >
->사용 ![—](assets/image2014-10-23-16-3a32-3a36.png) 얼마나 많은 사람들이 이메일을 받게 될지 확인할 수 있는 대상 타일의 단추입니다.
+>대상 타일의 ![—](assets/image2014-10-23-16-3a32-3a36.png) 단추를 사용하여 얼마나 많은 사람들이 전자 메일을 받게 될지 확인하십시오.
 
 >[!MORELIKETHIS]
 >
->* [기존 이메일 선택](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/choose-an-existing-email.md)
->* [이메일 프로그램용 이메일 만들기](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/create-an-email-for-an-email-program.md)
+>* [기존 전자 메일 선택](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/choose-an-existing-email.md)
+>* [전자 메일 프로그램을 위한 전자 메일 만들기](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/create-an-email-for-an-email-program.md)

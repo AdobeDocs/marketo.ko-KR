@@ -6,7 +6,7 @@ exl-id: 4ae3f755-28af-48b5-abe1-377c6952d00a
 feature: Audit Trail
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
-source-wordcount: '178'
+source-wordcount: '179'
 ht-degree: 1%
 
 ---
@@ -29,15 +29,15 @@ ht-degree: 1%
 
 사용자 로그인 기록을 보려면 다음 작업을 수행하십시오.
 
-1. 로 이동 **[!UICONTROL 관리자]** 영역입니다.
+1. **[!UICONTROL 관리자]** 영역으로 이동합니다.
 
    ![](assets/user-login-history-1.png)
 
-1. 보안에서 **[!UICONTROL 사용자 및 역할]**.
+1. 보안에서 **[!UICONTROL 사용자 및 역할]**&#x200B;을 클릭합니다.
 
    ![](assets/user-login-history-2.png)
 
-1. 다음을 클릭합니다. **[!UICONTROL 로그인 내역]** 탭. 목록에는 가장 최근 로그인이 표시됩니다.
+1. **[!UICONTROL 로그인 기록]** 탭을 클릭합니다. 목록에는 가장 최근 로그인이 표시됩니다.
 
    ![](assets/user-login-history-3.png)
 
@@ -53,15 +53,15 @@ ht-degree: 1%
 
    ![](assets/user-login-history-6.png)
 
-1. 에서 사용자 선택 **[!UICONTROL 사용자]** 드롭다운.
+1. **[!UICONTROL 사용자]** 드롭다운에서 사용자를 선택하십시오.
 
    ![](assets/user-login-history-7.png)
 
-1. 다음 확인: **[!UICONTROL 실패한 로그인만]** 검색에 실패한 로그인만 표시하는 상자.
+1. **[!UICONTROL 실패한 로그인만]** 상자를 선택하여 실패한 로그인만 검색에 표시합니다.
 
    ![](assets/user-login-history-8.png)
 
-1. 클릭 **[!UICONTROL 적용]**.
+1. **[!UICONTROL 적용]**&#x200B;을 클릭합니다.
 
    ![](assets/user-login-history-9.png)
 

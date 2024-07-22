@@ -23,10 +23,10 @@ ht-degree: 0%
 
 ![](assets/image2015-5-19-12-3a12-3a1.png)
 
-1. 잘됐네! 스마트 캠페인의 일정이 조정되었습니다. 에서 시간을 변경할 수도 있습니다. **[!UICONTROL 날짜]** 항목 세부 정보의 드롭다운.
+1. 잘됐네! 스마트 캠페인의 일정이 조정되었습니다. 시작 세부 정보의 **[!UICONTROL 날짜]** 드롭다운에서 시간을 변경할 수도 있습니다.
 
    ![](assets/image2015-5-19-12-3a15-3a38.png)
 
 >[!MORELIKETHIS]
 >
->[스케줄 뷰에서 전체 프로그램 스케줄 조정](/help/marketo/product-docs/core-marketo-concepts/programs/program-schedule-view/rescheduling-an-entire-program-from-the-schedule-view.md){target="_blank"}
+>[일정 보기에서 전체 프로그램 다시 예약](/help/marketo/product-docs/core-marketo-concepts/programs/program-schedule-view/rescheduling-an-entire-program-from-the-schedule-view.md){target="_blank"}

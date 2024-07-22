@@ -14,7 +14,7 @@ ht-degree: 2%
 
 Design Studio 섹션은 재사용 가능한 &#39;글로벌 자산&#39;이 있는 위치입니다. 조직에서 프로그램에서 사용할 전역 자산을 만들고 일관된 명명 규칙을 사용하며 쉬운 검색을 위해 하위 폴더에 구성합니다.
 
-다음을 잊지 마십시오. [확인 목록 다운로드](/help/marketo/getting-started/implementing-a-new-marketo-engage-instance/assets/adobe-marketo-engage-new-instance-admin-checklist.xlsx) 진행 상황을 추적할 수 있습니다.
+[확인 목록을 다운로드](/help/marketo/getting-started/implementing-a-new-marketo-engage-instance/assets/adobe-marketo-engage-new-instance-admin-checklist.xlsx)하고 진행 상황을 추적하는 것이 좋습니다.
 
 ## 랜딩 페이지 {#landing-pages}
 
@@ -28,8 +28,8 @@ Design Studio 섹션은 재사용 가능한 &#39;글로벌 자산&#39;이 있는
 <tbody>
   <tr>
     <td>전역 랜딩 페이지</td>
-    <td><li>만들기 <a href="https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/demand-generation/landing-pages/understanding-landing-pages/understanding-free-form-vs-guided-landing-pages#product-docs" target="_blank">글로벌 랜딩 페이지(자유 형식/가이드)</a>.</li>
-    <li><a href="https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/demand-generation/landing-pages/understanding-landing-pages/landing-page-test-groups" target="_blank">테스트 페이지 만들기</a> 대상 A/B는 우승한 랜딩 페이지 템플릿을 테스트합니다(해당하는 경우).</li></td>
+    <td><li><a href="https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/demand-generation/landing-pages/understanding-landing-pages/understanding-free-form-vs-guided-landing-pages#product-docs" target="_blank">전역 랜딩 페이지 만들기(자유 형식/안내)</a>.</li>
+    <li><a href="https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/demand-generation/landing-pages/understanding-landing-pages/landing-page-test-groups" target="_blank">테스트 페이지를 만들고</a> A/B 테스트하여 가장 성과가 좋은 랜딩 페이지 템플릿을 테스트합니다(해당하는 경우).</li></td>
   </tr>
   <tr>
     <td>템플릿</td>
@@ -37,7 +37,7 @@ Design Studio 섹션은 재사용 가능한 &#39;글로벌 자산&#39;이 있는
   </tr>
   <tr>
     <td>개인 정보 및 규정 준수</td>
-    <td><li>를 사용하여 바닥글 만들기 <a href="https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/demand-generation/landing-pages/personalizing-landing-pages/add-a-snippet-to-a-landing-page" target="_blank">코드 조각</a> 또는 <a href="https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/demand-generation/landing-pages/personalizing-landing-pages/add-text-and-tokens-to-a-landing-page#add-a-token-to-your-landing-page" target="_blank">토큰</a> 개인정보 규정 준수를 위한 랜딩 페이지</li></td>
+    <td><li>개인정보 규정 준수를 위해 랜딩 페이지에서 <a href="https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/demand-generation/landing-pages/personalizing-landing-pages/add-a-snippet-to-a-landing-page" target="_blank">코드 조각</a> 또는 <a href="https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/demand-generation/landing-pages/personalizing-landing-pages/add-text-and-tokens-to-a-landing-page#add-a-token-to-your-landing-page" target="_blank">토큰</a>을 사용하여 바닥글을 만드십시오.</li></td>
   </tr>
 </tbody>
 </table>
@@ -54,15 +54,15 @@ Design Studio 섹션은 재사용 가능한 &#39;글로벌 자산&#39;이 있는
 <tbody>
   <tr>
     <td>글로벌 Forms</td>
-    <td><li>설정 <a href="https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/demand-generation/forms/creating-a-form/create-a-form#product-docs" target="_blank">글로벌 양식</a> 구독 환경 설정, 제어된 콘텐츠 다운로드, 데모 요청, 웨비나 등록 등과 같은 사용 사례의 경우.</li></td>
+    <td><li>구독 환경 설정, 제어된 콘텐츠 다운로드, 데모 요청, 웨비나 등록 등과 같은 사용 사례에 대해 <a href="https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/demand-generation/forms/creating-a-form/create-a-form#product-docs" target="_blank">글로벌 양식</a>을 설정하십시오.</li></td>
   </tr>
   <tr>
     <td>개인 정보 및 규정 준수</td>
-    <td><li>양식 유지 <a href="https://business.adobe.com/resources/ebooks/the-gdpr-and-the-marketer.html" target="_blank">GDPR(일반 데이터 보호 규정)</a> 호환됩니다.</li></td>
+    <td><li><a href="https://business.adobe.com/resources/ebooks/the-gdpr-and-the-marketer.html" target="_blank">GDPR(일반 데이터 보호 규정)</a>을 준수하도록 양식을 유지합니다.</li></td>
   </tr>
   <tr>
     <td>데이터 표준화</td>
-    <td><li>선택 목록을 다음에 적용하는 것이 좋습니다. <a href="https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/demand-generation/forms/creating-a-form/add-a-field-to-a-form#product-docs" target="_blank">양식 필드</a> 데이터 지저분함을 방지하기 위해 열린 텍스트 필드 대신</li></td>
+    <td><li>데이터가 흐트러지지 않도록 열린 텍스트 필드 대신 <a href="https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/demand-generation/forms/creating-a-form/add-a-field-to-a-form#product-docs" target="_blank">양식 필드</a>에 선택 목록을 적용해 보십시오.</li></td>
   </tr>
 </tbody>
 </table>
@@ -83,13 +83,13 @@ Design Studio 섹션은 재사용 가능한 &#39;글로벌 자산&#39;이 있는
   </tr>
   <tr>
     <td>템플릿</td>
-    <td><li>모듈 기반 디자인 <a href="https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/email-marketing/general/email-editor-2/create-an-email-template" target="_blank">이메일 템플릿</a> 디자이너/개발자와 함께 사용하거나 고유한 HTML을 사용하십시오.</li>
+    <td><li>디자이너/개발자와 함께 모듈 기반 <a href="https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/email-marketing/general/email-editor-2/create-an-email-template" target="_blank">전자 메일 템플릿</a>을 디자인하거나 고유한 HTML을 사용하십시오.</li>
     <li>테스트된 이메일 템플릿을 만들어 A/B 테스트하고 우수성이 검증된 템플릿(해당되는 경우)을 테스트합니다.</li></td>
   </tr>
   <tr>
     <td>개인 정보 및 규정 준수</td>
-    <td><li><a href="https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/email-marketing/general/functions-in-the-editor/add-a-snippet-to-an-email" target="_blank">코드 조각 추가</a> 저작권 년도, 글로벌 위치 및 규정 준수 관련 언어와 같은 재사용 가능한 블록을 제어하기 위한 이메일 템플릿.</li>
-    <li><a href="https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/email-marketing/general/using-tokens/add-an-email-script-token-to-your-email" target="_blank">토큰 추가</a> 타겟 대상자를 기반으로 콘텐츠를 개인화합니다.</li></td>
+    <td><li>저작권 연식, 전역 위치 및 준수 관련 언어와 같은 재사용 가능한 블록을 제어하려면 전자 메일 템플릿에 <a href="https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/email-marketing/general/functions-in-the-editor/add-a-snippet-to-an-email" target="_blank">스니펫을 추가</a>하십시오.</li>
+    <li>대상 대상을 기반으로 콘텐츠를 개인화하려면 <a href="https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/email-marketing/general/using-tokens/add-an-email-script-token-to-your-email" target="_blank">토큰을 추가</a>하십시오.</li></td>
   </tr>
 </tbody>
 </table>
@@ -106,7 +106,7 @@ Design Studio 섹션은 재사용 가능한 &#39;글로벌 자산&#39;이 있는
 <tbody>
   <tr>
     <td>코드 조각</td>
-    <td><li>만들기 <a href="https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/personalization/segmentation-and-snippets/snippets/create-a-snippet#product-docs" target="_blank">코드 조각</a> 연락처 정보, 소셜 미디어 링크, 브랜드 정보, 이메일 및 랜딩 페이지의 개인정보 및 규정 준수 노트와 같이, 여러 사용 사례에 사용할 수 있는 재사용 가능한 콘텐츠 블록을 보유합니다.</li></td>
+    <td><li><a href="https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/personalization/segmentation-and-snippets/snippets/create-a-snippet#product-docs" target="_blank">코드 조각</a>을 만들어 연락처 정보, 소셜 미디어 링크, 브랜드 정보, 전자 메일과 랜딩 페이지의 개인 정보 및 준수 노트와 같은 여러 사용 사례에 사용할 수 있는 재사용 가능한 콘텐츠 블록을 만듭니다.</li></td>
   </tr>
 </tbody>
 </table>
@@ -143,7 +143,7 @@ Design Studio 섹션은 재사용 가능한 &#39;글로벌 자산&#39;이 있는
 <tbody>
   <tr>
     <td>폴더 구조 </td>
-    <td><li>각 에셋 유형에 대한 하위 폴더 만들기 및 <a href="https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/demand-generation/images-and-files/organize-your-images-and-files-using-folders" target="_blank">글로벌 에셋 구성</a> (예: 대화 흐름, 이메일 템플릿, 이메일, 양식, 이미지 및 파일, 랜딩 페이지, 랜딩 페이지 템플릿, 스니펫 등) 적절합니다.</li></td>
+    <td><li>각 에셋 유형에 대한 하위 폴더를 만들고 <a href="https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/demand-generation/images-and-files/organize-your-images-and-files-using-folders" target="_blank">전역 에셋을 구성</a>(예: 대화 흐름, 전자 메일 템플릿, 전자 메일, 양식, 이미지 및 파일, 랜딩 페이지, 랜딩 페이지 템플릿, 코드 조각 등)합니다. 적절합니다.</li></td>
   </tr>
 </tbody>
 </table>

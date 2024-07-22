@@ -6,7 +6,7 @@ exl-id: e36507d1-df04-43ac-9da0-14116db3add6
 feature: Mobile Marketing
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
-source-wordcount: '478'
+source-wordcount: '479'
 ht-degree: 0%
 
 ---
@@ -58,7 +58,7 @@ Marketo은 인앱 메시지 작성을 위한 6개의 레이아웃을 제공합�
 
 ![](assets/image2016-5-9-13-3a11-3a35.png)
 
-이제 템플릿에 대해 알았으므로 다음 중 하나를 선택해야 합니다. [인앱 메시지 이미지 만들기](/help/marketo/product-docs/mobile-marketing/in-app-messages/creating-in-app-messages/add-in-app-message-images.md).
+이제 템플릿에 대해 알았으므로 [인앱 메시지 이미지를 만들](/help/marketo/product-docs/mobile-marketing/in-app-messages/creating-in-app-messages/add-in-app-message-images.md) 때 하나를 선택해야 합니다.
 
 >[!MORELIKETHIS]
 >

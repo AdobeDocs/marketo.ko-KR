@@ -2,11 +2,11 @@
 description: OP-Scoring-Demographic - Marketo 문서 - 제품 설명서
 title: OP-점수-인구 통계
 feature: Programs
-exl-id: c0e69f35-a3b7-496d-a9b6-b3e7168b07f4
-source-git-commit: 38274b4859ae38c018ee73d4f1715fdf6a78e815
+exl-id: ed11616e-b587-4d03-b293-9cc9fa3c1699
+source-git-commit: c16081143588ebc0793f5b6e2630b58348e27124
 workflow-type: tm+mt
-source-wordcount: '313'
-ht-degree: 16%
+source-wordcount: '310'
+ht-degree: 17%
 
 ---
 
@@ -14,7 +14,7 @@ ht-degree: 16%
 
 이는 인구 통계학적 점수에 Marketo Engage 기본 프로그램을 활용하는 고급(토큰화된) 운영 프로그램의 예입니다. 프로그램의 &quot;내 토큰&quot; 탭에서 점수 값을 보고 편집합니다. &quot;인구 통계학적 점수&quot;라는 사용자 정의 점수 필드가 필요합니다.
 
-추가적인 전략 지원 또는 프로그램 맞춤화에 대한 도움말을 보려면 Adobe 계정 팀에 문의하거나 [Adobe Professional Services](https://business.adobe.com/customers/consulting-services/main.html){target="_blank"} 페이지를 가리키도록 업데이트하는 중입니다.
+추가 전략 지원 또는 프로그램 사용자 지정에 도움이 필요하면 Adobe 계정 팀에 문의하거나 [Adobe Professional Services](https://business.adobe.com/customers/consulting-services/main.html){target="_blank"} 페이지를 방문하십시오.
 
 ## 채널 요약 {#channel-summary}
 
@@ -30,7 +30,7 @@ ht-degree: 16%
    <td>운영</td> 
    <td>01 - 구성원</td>
    <td>운영</td>
-   <td>기본값</td>
+   <td>기본</td>
   </tr>
  </tbody> 
 </table>
@@ -52,7 +52,7 @@ ht-degree: 16%
  </tbody> 
 </table>
 
-## 프로그램에 다음 자산이 포함되어 있습니다. {#program-contains-the-following-assets}
+## 프로그램에는 다음 Assets이 포함되어 있습니다 {#program-contains-the-following-assets}
 
 <table style="table-layout:auto"> 
  <tbody> 
@@ -236,19 +236,19 @@ ht-degree: 16%
 ## 충돌 규칙 {#conflict-rules}
 
 * **프로그램 태그**
-   * 이 구독에서 태그 만들기 - _추천_
+   * 이 구독에서 태그 만들기 - _권장_
    * 무시
 
-* **동일한 이름의 랜딩 페이지 템플릿**
-   * 원본 템플릿 복사 - _추천_
+* **같은 이름의 랜딩 페이지 템플릿**
+   * 원본 템플릿 복사 - _권장_
    * 대상 템플릿 사용
 
 * **이름이 같은 이미지**
-   * 두 파일 모두 보관 - _추천_
+   * 두 파일 모두 보관 - _권장_
    * 이 구독의 항목 바꾸기
 
-* **이름이 같은 이메일 템플릿**
-   * 두 템플릿 모두 유지 - _추천_
+* **같은 이름의 전자 메일 서식 파일**
+   * 두 템플릿 모두 보관 - _권장_
    * 기존 템플릿 바꾸기
 
 ## 우수 사례 {#best-practices}

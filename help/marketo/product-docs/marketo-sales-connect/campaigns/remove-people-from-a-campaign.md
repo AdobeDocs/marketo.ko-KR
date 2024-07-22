@@ -21,7 +21,7 @@ ht-degree: 0%
 
 ## 캠페인에서 직접 사람 제거 {#remove-a-person-directly-from-a-campaign}
 
-1. Sales Connect에서 **캠페인** 탭.
+1. Sales Connect에서 **캠페인** 탭을 클릭합니다.
 
    ![](assets/one.png)
 
@@ -33,17 +33,17 @@ ht-degree: 0%
 
    ![](assets/three.png)
 
-1. 제거할 사람을 찾은 다음 **제거**.
+1. 제거할 사람을 찾은 다음 **제거**&#x200B;를 클릭합니다.
 
    ![](assets/four.png)
 
-1. (선택 사항 단계) 이름 옆에 있는 확인란을 클릭하고 **제거** 맨 위에 있는 단추.
+1. (선택 사항 단계) 이름 옆에 있는 확인란을 클릭하고 맨 위에 있는 **제거** 단추를 클릭하여 여러 사람을 한 번에 제거할 수도 있습니다.
 
    ![](assets/five.png)
 
 ## 인물 페이지 내의 캠페인에서 인물 제거 {#remove-a-person-from-a-campaign-within-the-people-page}
 
-1. Sales Connect에서 **사람** 탭.
+1. Sales Connect에서 **사람** 탭을 클릭합니다.
 
    ![](assets/one-a.png)
 
@@ -51,17 +51,17 @@ ht-degree: 0%
 
    ![](assets/two-a.png)
 
-1. 오른쪽에 개인 세부 사항 보기 패널이 열립니다. 다음을 클릭합니다. **기록** 탭 다음에 오는 **제거** 단추를 클릭합니다.
+1. 오른쪽에 개인 세부 사항 보기 패널이 열립니다. **내역** 탭 다음에 **제거** 단추를 클릭합니다.
 
    ![](assets/three-a.png)
 
 ## 캠페인에서 사람 그룹 제거 {#remove-a-group-of-people-from-a-campaign}
 
-1. Sales Connect에서 **사람** 탭.
+1. Sales Connect에서 **사람** 탭을 클릭합니다.
 
    ![](assets/one-b.png)
 
-1. 아래에서 그룹을 찾아 선택합니다. **내 그룹**.
+1. **내 그룹**&#x200B;에서 내 그룹을 찾아 선택합니다.
 
    ![](assets/two-b.png)
 
@@ -69,6 +69,6 @@ ht-degree: 0%
 
    ![](assets/three-b.png)
 
-1. 클릭 **작업** 및 선택 **캠페인에서 선택 항목 제거**.
+1. **작업**&#x200B;을 클릭하고 **캠페인에서 선택 항목 제거**&#x200B;를 선택합니다.
 
    ![](assets/four-b.png)

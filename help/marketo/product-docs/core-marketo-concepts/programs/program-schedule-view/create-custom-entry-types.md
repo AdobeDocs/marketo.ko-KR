@@ -6,7 +6,7 @@ exl-id: 75a0fb0d-a0d4-472d-9ac1-53e2f2831221
 feature: Programs
 source-git-commit: b21f955bf98063e11f8ed3fdc6f164134ee4f5aa
 workflow-type: tm+mt
-source-wordcount: '105'
+source-wordcount: '106'
 ht-degree: 1%
 
 ---
@@ -15,15 +15,15 @@ ht-degree: 1%
 
 프로그램 일정 보기에서 사용할 사용자 지정 항목 유형을 만들 수 있습니다. 이렇게 하면 프로그램에 영향을 주는 Marketo이 아닌 모든 의제 항목을 추적할 수 있습니다.
 
-1. 로 이동 **[!UICONTROL 관리자]** 섹션 및 클릭 **[!UICONTROL 태그]**.
+1. **[!UICONTROL 관리자]** 섹션으로 이동하여 **[!UICONTROL 태그]**&#x200B;를 클릭합니다.
 
    ![](assets/admintags.png)
 
-1. 클릭 **[!UICONTROL 달력 항목 유형]**.
+1. **[!UICONTROL 일정 항목 유형]**&#x200B;을 클릭합니다.
 
    ![](assets/image2014-9-15-15-3a41-3a33.png)
 
-1. 다음을 클릭합니다. **[!UICONTROL 신규]** 드롭다운 및 선택 **[!UICONTROL 시작 유형]**.
+1. **[!UICONTROL 새로 만들기]** 드롭다운을 클릭하고 **[!UICONTROL 항목 유형]**&#x200B;을 선택합니다.
 
    ![](assets/image2014-9-15-15-3a41-3a58.png)
 
@@ -31,7 +31,7 @@ ht-degree: 1%
 
    ![](assets/image2014-9-15-16-3a11-3a24.png)
 
-1. 선택 **[!UICONTROL 시작 색상]**.
+1. **[!UICONTROL 시작 색상]**&#x200B;을 선택하세요.
 
    ![](assets/image2014-9-15-16-3a3-3a55.png)
 

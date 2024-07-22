@@ -15,7 +15,7 @@ ht-degree: 0%
 
 필요하지 않은 양식이 있고 사용되지 않는 경우 삭제할 수 있습니다. 방법은 다음과 같습니다.
 
-1. 다음으로 이동 **마케팅 활동**.
+1. **마케팅 활동**(으)로 이동합니다.
 
    ![](assets/login-marketing-activities-3.png)
 
@@ -23,7 +23,7 @@ ht-degree: 0%
 
    ![](assets/image2014-9-15-12-3a1-3a18.png)
 
-1. 아래 **양식 작업**, 클릭 **양식 삭제**.
+1. **양식 작업**&#x200B;에서 **양식 삭제**&#x200B;를 클릭합니다.
 
    ![](assets/image2014-9-15-12-3a1-3a27.png)
 
@@ -31,7 +31,7 @@ ht-degree: 0%
    >
    >모든 랜딩 페이지에서 양식을 제거해야 합니다. 또한 양식이 공개 웹 사이트에서 사용되고 있지 않은지 확인하십시오.
 
-1. 을(를) 클릭하여 확인 **삭제**.
+1. **삭제**&#x200B;를 클릭하여 확인합니다.
 
    ![](assets/image2014-9-15-12-3a1-3a37.png)
 
@@ -41,4 +41,4 @@ ht-degree: 0%
 
 >[!CAUTION]
 >
->공개 웹 사이트에서 사용 중인 양식을 삭제하면 경고가 표시되지 않고 양식이 손상됩니다. 고려  [보관하기](/help/marketo/product-docs/email-marketing/drip-nurturing/using-stream-content/archive-and-unarchive-stream-content.md) 대신,
+>공개 웹 사이트에서 사용 중인 양식을 삭제하면 경고가 표시되지 않고 양식이 손상됩니다. 대신 [보관](/help/marketo/product-docs/email-marketing/drip-nurturing/using-stream-content/archive-and-unarchive-stream-content.md)을 고려해 보세요.

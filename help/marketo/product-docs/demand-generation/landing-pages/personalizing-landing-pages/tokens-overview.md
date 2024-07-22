@@ -87,7 +87,7 @@ ht-degree: 0%
 * `{{lead.Unsubscribed}}`
 * `{{lead.Unsubscribed Reason}}`
 * `{{lead.Updated At}}`
-* 사용자 정의 사용자 필드는 표시 이름을 사용하는 경우에도 작동합니다. 예: `{{lead.Custom Field Name}}`
+* 사용자 정의 사용자 필드는 표시 이름을 사용하는 경우에도 작동합니다(예: `{{lead.Custom Field Name}}`).
 
 ## 회사 토큰 {#company-tokens}
 
@@ -122,7 +122,7 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->다음에서 이러한 토큰에 대해 자세히 알아보십시오. [시스템 토큰 용어집](/help/marketo/product-docs/email-marketing/general/using-tokens/system-tokens-glossary.md).
+>[시스템 토큰 용어집](/help/marketo/product-docs/email-marketing/general/using-tokens/system-tokens-glossary.md)에서 이러한 토큰에 대해 자세히 알아보세요.
 
 * `{{system.date}}`
 * `{{system.time}}`
@@ -149,7 +149,7 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->에 대한 자세한 내용 찾기 [즐거운 순간을 위한 토큰](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/features/tabs-in-the-msi-panel/interesting-moments/trigger-tokens-for-interesting-moments.md) smart campaign에 사용된 트리거를 기반으로 합니다.
+>스마트 캠페인에 사용된 트리거를 기반으로 [즐거운 순간을 위한 토큰](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/features/tabs-in-the-msi-panel/interesting-moments/trigger-tokens-for-interesting-moments.md)에 대해 자세히 알아보세요.
 
 ## 프로그램 토큰 {#program-tokens}
 
@@ -159,14 +159,14 @@ ht-degree: 0%
 
 ## 내 토큰 {#my-tokens}
 
-내 토큰은 프로그램 내에서 정의되며 다음으로 시작합니다. `{{my.` 뒤에 토큰으로 만든 이름이 옵니다. 자세히 알아보기 [프로그램의 내 토큰](/help/marketo/product-docs/core-marketo-concepts/programs/tokens/understanding-my-tokens-in-a-program.md).
+내 토큰은 프로그램 내에서 정의되며 `{{my.`(으)로 시작하고 토큰에 대해 만든 이름이 옵니다. [프로그램의 내 토큰](/help/marketo/product-docs/core-marketo-concepts/programs/tokens/understanding-my-tokens-in-a-program.md)에 대해 자세히 알아보세요.
 
 ## 구성원 토큰 {#member-token}
 
-멤버 토큰은 통합 서비스 파트너의 고유 값을 삽입하는 데 사용됩니다. 멤버 토큰의 일반적인 용도는 웨비나 참석자의 고유 URL에 사용됩니다. 각 사용자에게는 를 사용하여 삽입할 수 있는 웨비나에 액세스할 수 있는 고유한 URL이 있습니다. `{{member.webinar url}}` 토큰. 다음 `{{member.webinar url}}` 토큰은 서비스 공급자가 생성한 개인의 고유 확인 URL을 자동으로 확인합니다.
+멤버 토큰은 통합 서비스 파트너의 고유 값을 삽입하는 데 사용됩니다. 멤버 토큰의 일반적인 용도는 웨비나 참석자의 고유 URL에 사용됩니다. 각 사용자에게는 `{{member.webinar url}}` 토큰을 사용하여 삽입할 수 있는 웨비나에 액세스할 수 있는 고유한 URL이 있습니다. `{{member.webinar url}}` 토큰은 서비스 공급자가 생성한 개인의 고유 확인 URL을 자동으로 확인합니다.
 
 * `{{member.webinar url}}`
 
 >[!CAUTION]
 >
->다음 `{{member.webinar url}}` 토큰은 이메일을 보내는 스마트 캠페인이 이벤트 프로그램의 하위 자산인 경우에만 채워집니다.
+>`{{member.webinar url}}` 토큰은 이메일을 보내는 스마트 캠페인이 이벤트 프로그램의 하위 자산인 경우에만 채워집니다.

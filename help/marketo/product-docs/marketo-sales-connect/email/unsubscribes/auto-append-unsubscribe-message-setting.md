@@ -18,15 +18,15 @@ ht-degree: 0%
 
 * 플러그인에서 보낸 이메일의 경우, 구독 취소는 템플릿을 사용할 때만 추가됩니다.
 
-* 를 사용하는 경우 `{{team_unsubscribe}}` 이메일 템플릿의 동적 필드 및 구독 취소 메시지 추가 설정이 활성화된 경우 팀 구독 취소 동적 필드에 구독 취소 메시지가 채워집니다 _대신_ 구독 취소 메시지를 추가합니다.
+* 이메일 템플릿에 `{{team_unsubscribe}}` 동적 필드를 사용하고 구독 취소 메시지 추가 설정이 활성화된 경우 팀 구독 취소 동적 필드가 구독 취소 메시지를 _대신_&#x200B;에 추가합니다.
 
 ## 구독 취소 추가 활성화/비활성화 {#enable-disable-unsubscribe-append}
 
-1. 톱니바퀴 아이콘을 클릭하고 **설정**.
+1. 톱니바퀴 아이콘을 클릭하고 **설정**&#x200B;을 선택합니다.
 
    ![](assets/auto-append-unsubscribe-message-setting-1.png)
 
-1. Admin Settings 아래에서 **구독 취소**.
+1. 관리자 설정에서 **구독 취소**&#x200B;를 클릭합니다.
 
    ![](assets/auto-append-unsubscribe-message-setting-2.png)
 
@@ -36,4 +36,4 @@ ht-degree: 0%
 
 >[!TIP]
 >
->구독 취소 메시지 추가 설정을 비활성화하는 경우 템플릿에 구독 취소 바닥글을 추가하여 통신에 옵트아웃 옵션이 있는지 확인하는 것이 좋습니다. 이렇게 하려면 각 템플릿에 고유한 사용자 지정 메시지를 추가하거나 다음을 사용할 수 있습니다. `{{team_unsubscribe}}` [동적 필드](/help/marketo/product-docs/marketo-sales-connect/templates/dynamic-fields/dynamic-fields-glossary.md){target="_blank"}.
+>구독 취소 메시지 추가 설정을 비활성화하는 경우 템플릿에 구독 취소 바닥글을 추가하여 통신에 옵트아웃 옵션이 있는지 확인하는 것이 좋습니다. 이렇게 하려면 각 템플릿에 사용자 지정 메시지를 추가하거나 `{{team_unsubscribe}}` [동적 필드](/help/marketo/product-docs/marketo-sales-connect/templates/dynamic-fields/dynamic-fields-glossary.md){target="_blank"}를 사용할 수 있습니다.

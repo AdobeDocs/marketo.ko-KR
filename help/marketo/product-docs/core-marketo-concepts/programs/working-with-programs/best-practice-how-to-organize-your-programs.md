@@ -6,8 +6,8 @@ exl-id: 018a3fbd-b741-4005-9695-56958063d71a
 feature: Programs
 source-git-commit: e49860ae611f2f77789bb491aeccbee46a911a2c
 workflow-type: tm+mt
-source-wordcount: '844'
-ht-degree: 1%
+source-wordcount: '847'
+ht-degree: 0%
 
 ---
 
@@ -55,15 +55,15 @@ ht-degree: 1%
 
 >[!TIP]
 >
->&quot;보관&quot; 폴더는 보고 및 선택 목록에서 항목을 제거하도록 설계된 특수한 종류의 폴더입니다. 이렇게 하면 시스템이 더 빠르게 실행됩니다. 학습 [폴더에 대한 자세한 정보](/help/marketo/product-docs/core-marketo-concepts/miscellaneous/understanding-folders.md){target="_blank"}.
+>&quot;보관&quot; 폴더는 보고 및 선택 목록에서 항목을 제거하도록 설계된 특수한 종류의 폴더입니다. 이렇게 하면 시스템이 더 빠르게 실행됩니다. [폴더에 대해 자세히 알아보기](/help/marketo/product-docs/core-marketo-concepts/miscellaneous/understanding-folders.md){target="_blank"}.
 
 보시다시피 폴더를 더 추가할 수 있습니다. 회사의 미래 세대 마케터들은 사물의 이름 지정/구성 방법에 대한 귀하의 결정에 동의한다는 점을 명심하십시오.
 
 ## 이름 지정 체계 {#naming-schemes}
 
-Marketo의 기능은 모두 공통 언어를 사용하여 통신하므로 이름 지정이 매우 중요합니다. 프로그램의 경우 고유한 이름을 지정해야 합니다. **두 개의 프로그램이 동일한 이름을 가질 수는 없습니다.**. 가장 좋은 방법은 다음 형식을 사용하는 것입니다.
+Marketo의 기능은 모두 공통 언어를 사용하여 통신하므로 이름 지정이 매우 중요합니다. 프로그램의 경우 고유한 이름을 지정해야 합니다. **이름이 같은 프로그램이 두 개 없습니다**. 가장 좋은 방법은 다음 형식을 사용하는 것입니다.
 
-[프로그램 유형 약어] [YYYY]-[MM]-[선택적 DD] [간단한 설명]
+[프로그램 형식의 약어] [YYYY]-[MM]-[선택적 DD] [간단한 설명]
 
 >[!NOTE]
 >
@@ -75,7 +75,7 @@ Marketo의 기능은 모두 공통 언어를 사용하여 통신하므로 이름
 >1. NL 2015-06 뉴스레터
 >1. WBN 2015-12-01 웨비나 주제 위치
 
-프로그램 이름은 구독에서 고유해야 합니다(다른 경우에도). [작업 공간](/help/marketo/product-docs/administration/workspaces-and-person-partitions/understanding-workspaces-and-person-partitions.md){target="_blank"}.  프로그램 내의 로컬 자산에 대한 규칙은 다음과 같습니다. **이름을 간단하게 유지**. &quot;2015 6월 웨비나 초대&quot;와 반대로 초대의 이름을 &quot;초대&quot;로 지정하십시오. 프로그램에 포함되어 있으므로 상위 프로그램은 다른 곳에서 선택할 때 자동으로 이름의 일부가 됩니다. 즉, 로컬 자산은 프로그램 내부에서만 고유해야 합니다. 당신은 각각 다른 프로그램에 &quot;초대&quot;라는 이름의 수백 개의 자산을 가질 수 있으며 그것은 당신을 망치지 않을 것입니다.
+다른 [작업 영역](/help/marketo/product-docs/administration/workspaces-and-person-partitions/understanding-workspaces-and-person-partitions.md){target="_blank"}에서도 프로그램 이름은 구독에서 고유해야 합니다.  프로그램 내 로컬 자산의 경우 **이름을 간단하게 유지**&#x200B;하는 것이 규칙입니다. &quot;2015 6월 웨비나 초대&quot;와 반대로 초대의 이름을 &quot;초대&quot;로 지정하십시오. 프로그램에 포함되어 있으므로 상위 프로그램은 다른 곳에서 선택할 때 자동으로 이름의 일부가 됩니다. 즉, 로컬 자산은 프로그램 내부에서만 고유해야 합니다. 당신은 각각 다른 프로그램에 &quot;초대&quot;라는 이름의 수백 개의 자산을 가질 수 있으며 그것은 당신을 망치지 않을 것입니다.
 
 ## 토큰 {#tokens}
 
@@ -97,7 +97,7 @@ Marketo의 기능은 모두 공통 언어를 사용하여 통신하므로 이름
 
 ## 참여 프로그램 {#engagement-programs}
 
-학습 [참여 프로그램에 대한 모든 정보](/help/marketo/product-docs/email-marketing/drip-nurturing/creating-an-engagement-program/understanding-engagement-programs.md){target="_blank"}. 참여 프로그램을 구성하는 가장 좋은 방법은 폴더를 사용하는 것입니다. 각 스트림에 대한 폴더를 만든 다음 해당 폴더에 이메일 또는 프로그램을 넣습니다. 콘텐츠가 부실해지고 이를 제거하려는 경우 각 스트림에 보관 폴더를 포함하십시오.
+[참여 프로그램에 대해 모두 알아보기](/help/marketo/product-docs/email-marketing/drip-nurturing/creating-an-engagement-program/understanding-engagement-programs.md){target="_blank"}. 참여 프로그램을 구성하는 가장 좋은 방법은 폴더를 사용하는 것입니다. 각 스트림에 대한 폴더를 만든 다음 해당 폴더에 이메일 또는 프로그램을 넣습니다. 콘텐츠가 부실해지고 이를 제거하려는 경우 각 스트림에 보관 폴더를 포함하십시오.
 
 ## 운영 프로그램 {#operational-programs}
 
@@ -121,4 +121,4 @@ Marketo에서 가장 멋진 기능 중 하나는 프로그램을 복제하는 �
 
 ## 요약 {#summary}
 
-보시다시피 Marketo에 힘이 많이 들어가 있습니다. 여기에서는 기본 사항에 대해 설명했지만, 다음의 추가 서비스를 고려합니다. [Marketo Engage 전문가](https://business.adobe.com/products/marketo/services-support.html){target="_blank"} 세밀하게 조정하고 성공을 위해 자신을 준비한다.
+보시다시피 Marketo에 힘이 많이 들어가 있습니다. 여기에서 기본 사항을 다루었지만 [Marketo Engage 전문가](https://business.adobe.com/products/marketo/services-support.html){target="_blank"}의 추가 서비스를 참고하여 세부 조정하고 성공을 위한 준비를 하십시오.

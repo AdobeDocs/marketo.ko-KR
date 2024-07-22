@@ -6,7 +6,7 @@ exl-id: 99f50eaf-28cf-4a8b-8ebd-89a4beef986a
 feature: Programs
 source-git-commit: 9e51ece12742152040dbbcb6a1584fba28e863ff
 workflow-type: tm+mt
-source-wordcount: '269'
+source-wordcount: '273'
 ht-degree: 0%
 
 ---
@@ -23,13 +23,13 @@ ht-degree: 0%
 >
 >만약 여러분이 1000달러를 들여 7월에 출시되는 eBook의 일러스트레이터를 고용한다면, eBook 프로그램은 7월에 1000달러의 기간 비용이 들 것이다.
 >
->매달 200달러씩 [!DNL Google Adwords] - [!DNL Google Adwords] 프로그램에 200달러의 기간 비용이 있을 것입니다. _매달_.
+>[!DNL Google Adwords]에 매달 200달러를 사용하는 경우 [!DNL Google Adwords] 프로그램의 기간 비용은 _매달_&#x200B;입니다.
 
 >[!NOTE]
 >
 >[프로그램 이해](/help/marketo/product-docs/core-marketo-concepts/programs/creating-programs/understanding-programs.md)
 >
->[프로그램 멤버십 이해](/help/marketo/product-docs/core-marketo-concepts/programs/creating-programs/understanding-program-membership.md)
+>[프로그램 구성원 이해](/help/marketo/product-docs/core-marketo-concepts/programs/creating-programs/understanding-program-membership.md)
 
 ## 기간 비용 계산 방법 {#how-period-costs-are-calculated}
 
@@ -39,7 +39,7 @@ ht-degree: 0%
 
    ![](assets/graph1.png)
 
-   ...다음 달 전후에 추가된 연락처 *전용* 3월을 기약하다.
+   ...전후 달에 추가된 연락처는 3월까지만 *계산됩니다*.
 
    ![](assets/graph2.png)
 
@@ -61,9 +61,9 @@ ht-degree: 0%
 
    >[!NOTE]
    >
-   >요약하면 - 정의된 기간 비용이 없는 월은 정의된 마지막 월로 &quot;이전&quot;으로 롤링됩니다. 이전 기간 비용이 없는 경우 월은 정의된 다음 기간으로 &quot;앞으로&quot; 롤링됩니다. 기간 비용이 다음에 대해 정의되지 않은 경우 _임의_ 개월 동안 프로그램에 대해 RCE로 보고할 수 없습니다.
+   >요약하면 - 정의된 기간 비용이 없는 월은 정의된 마지막 월로 &quot;이전&quot;으로 롤링됩니다. 이전 기간 비용이 없는 경우 월은 정의된 다음 기간으로 &quot;앞으로&quot; 롤링됩니다. _any_&#x200B;개월 동안 기간 비용이 정의되지 않은 경우 프로그램에 대해 RCE로 보고할 수 없습니다.
 
    >[!MORELIKETHIS]
    >
-   >* [프로그램에서 기간 원가 사용](/help/marketo/product-docs/core-marketo-concepts/programs/working-with-programs/using-period-costs-in-a-program.md)
-   >* [기간 원가별로 프로그램 보고서 필터링](/help/marketo/product-docs/core-marketo-concepts/programs/program-performance-report/filter-a-program-report-by-period-cost.md)
+   >* [프로그램에서 기간 비용 사용](/help/marketo/product-docs/core-marketo-concepts/programs/working-with-programs/using-period-costs-in-a-program.md)
+   >* [기간 비용으로 프로그램 보고서 필터링](/help/marketo/product-docs/core-marketo-concepts/programs/program-performance-report/filter-a-program-report-by-period-cost.md)

@@ -15,15 +15,15 @@ ht-degree: 0%
 
 배치 캠페인 중 하나에 대한 실행을 예약했으며 취소하려는 경우 방법은 다음과 같습니다.
 
-1. 캠페인을 선택하고 **[!UICONTROL 예약]** 탭.
+1. 캠페인을 선택하고 **[!UICONTROL 일정]** 탭으로 이동합니다.
 
    ![](assets/cancel-a-scheduled-batch-campaign-run-1.png)
 
-1. 취소할 예약된 실행을 찾아 **x** 옆에.
+1. 취소할 예약된 실행을 찾은 다음 그 옆에 있는 **x**&#x200B;을(를) 클릭합니다.
 
    ![](assets/cancel-a-scheduled-batch-campaign-run-2.png)
 
-1. 을 클릭하여 취소를 확인합니다. **[!UICONTROL 확인]**.
+1. **[!UICONTROL 확인]**&#x200B;을 클릭하여 취소를 확인합니다.
 
    ![](assets/cancel-a-scheduled-batch-campaign-run-3.png)
 

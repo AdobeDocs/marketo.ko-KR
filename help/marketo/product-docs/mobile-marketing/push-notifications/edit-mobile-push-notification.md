@@ -13,14 +13,14 @@ ht-degree: 0%
 
 # 모바일 푸시 알림 편집 {#edit-mobile-push-notification}
 
-1. 로 이동 **마케팅 활동** 영역입니다.
+1. **마케팅 활동** 영역으로 이동합니다.
 
 ![](assets/image2015-4-22-18-3a44-3a42.png)
 
-1. 모바일 앱을 선택하고 **초안 편집**.
+1. 모바일 앱을 선택하고 **초안 편집**&#x200B;을 클릭합니다.
 
    ![](assets/image2015-4-22-18-3a45-3a13.png)
 
 >[!MORELIKETHIS]
 >
->자세히 알아보기 [푸시 알림 구성](/help/marketo/product-docs/mobile-marketing/push-notifications/configure-mobile-push-notification.md) 여기.
+>여기에서 [푸시 알림 구성](/help/marketo/product-docs/mobile-marketing/push-notifications/configure-mobile-push-notification.md)에 대해 자세히 알아보세요.

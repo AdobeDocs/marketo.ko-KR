@@ -6,7 +6,7 @@ exl-id: fabd5fba-14a4-4885-93ba-9a3857e2a298
 feature: Marketo Sales Connect
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
-source-wordcount: '171'
+source-wordcount: '170'
 ht-degree: 0%
 
 ---
@@ -17,7 +17,7 @@ Sales Phone에서는 통화 녹음을 기록하고 저장할 수 있습니다. �
 
 ## 웹 애플리케이션의 개인 상세내역에서 기록 링크 복사 {#copy-recording-link-from-the-person-details-in-the-web-application}
 
-1. 다음 위치로 이동 [웹 애플리케이션](https://toutapp.com/login).
+1. [웹 응용 프로그램](https://toutapp.com/login)(으)로 이동합니다.
 
 1. 개인 세부 정보를 엽니다.
 

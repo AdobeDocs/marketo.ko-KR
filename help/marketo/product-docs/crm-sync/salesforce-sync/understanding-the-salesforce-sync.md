@@ -6,8 +6,8 @@ exl-id: 658c81ff-5fb3-4ad8-8759-da55bbf4e263
 feature: Salesforce Integration
 source-git-commit: 4045f262889d06304111288d30da893529396e81
 workflow-type: tm+mt
-source-wordcount: '220'
-ht-degree: 1%
+source-wordcount: '221'
+ht-degree: 0%
 
 ---
 
@@ -29,7 +29,7 @@ Salesforce와 Marketo 간의 동기화는 리드, 연락처 및 Salesforce 캠�
 
 ## Marketo과 Salesforce 간에 동기화되는 것은 무엇입니까? {#what-is-synced-between-marketo-and-salesforce}
 
-* [잠재 고객](/help/marketo/product-docs/crm-sync/salesforce-sync/sfdc-sync-details/sfdc-sync-lead-sync.md){target="_blank"}
+* [리드](/help/marketo/product-docs/crm-sync/salesforce-sync/sfdc-sync-details/sfdc-sync-lead-sync.md){target="_blank"}
 * [연락처](/help/marketo/product-docs/crm-sync/salesforce-sync/sfdc-sync-details/sfdc-sync-contact-sync.md){target="_blank"}
 * [계정](/help/marketo/product-docs/crm-sync/salesforce-sync/sfdc-sync-details/sfdc-sync-account-sync.md){target="_blank"}
 * [사용자](/help/marketo/product-docs/crm-sync/salesforce-sync/sfdc-sync-details/sfdc-sync-lead-account-owner-sync.md){target="_blank"}
@@ -40,6 +40,6 @@ Salesforce와 Marketo 간의 동기화는 리드, 연락처 및 Salesforce 캠�
 
 >[!NOTE]
 >
->다음 [salesforce용 Marketo에 입력하는 자격 증명](/help/marketo/product-docs/crm-sync/salesforce-sync/setup/enterprise-unlimited-edition/step-2-of-3-create-a-salesforce-user-for-marketo-enterprise-unlimited.md){target="_blank"} 는 데이터를 동기화하는 데 사용됩니다. 해당 자격 증명이 액세스할 수 있는 데이터만 포함됩니다.
+>Salesforce용 Marketo에 입력한 [자격 증명](/help/marketo/product-docs/crm-sync/salesforce-sync/setup/enterprise-unlimited-edition/step-2-of-3-create-a-salesforce-user-for-marketo-enterprise-unlimited.md){target="_blank"}을(를) 사용하여 데이터를 동기화합니다. 해당 자격 증명이 액세스할 수 있는 데이터만 포함됩니다.
 
 Marketo과 Salesforce의 협력은 세계에서 가장 강력한 제품입니다. 그것은 마술처럼 느껴진다; 변화가 이뤄지고 다른 시스템은 곧 최신이다.

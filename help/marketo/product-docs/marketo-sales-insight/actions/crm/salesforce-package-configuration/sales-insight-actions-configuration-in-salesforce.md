@@ -13,43 +13,43 @@ ht-degree: 0%
 
 >[!PREREQUISITES]
 >
->* [설치](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/installation/install-marketo-sales-insight-package-in-salesforce-appexchange.md) 또는 [업그레이드](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/upgrading/upgrading-your-msi-package.md) Salesforce 인스턴스의 Sales Insight 패키지
+>* Salesforce 인스턴스에 [설치](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/installation/install-marketo-sales-insight-package-in-salesforce-appexchange.md) 또는 [업그레이드](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/upgrading/upgrading-your-msi-package.md) Sales Insight 패키지
 >* [Salesforce Enterprise/Unlimited에서 Marketo Sales Insight 구성](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/configuration/configure-marketo-sales-insight-in-salesforce-enterprise-unlimited.md)
 
 ## Salesforce에서 새 원격 사이트 추가 {#add-new-remote-site-in-salesforce}
 
-1. Salesforce에서 **설정**.
+1. Salesforce에서 **설정**&#x200B;을 클릭합니다.
 
    ![](assets/msi-actions-configuration-in-salesforce-1.png)
 
-1. &quot;원격 사이트&quot;를 검색하고 선택 **원격 사이트 설정**.
+1. &quot;원격 사이트&quot;를 검색하고 **원격 사이트 설정**을 선택합니다.
    ![](assets/msi-actions-configuration-in-salesforce-2.png)
 
-1. 클릭 **새 원격 사이트**.
+1. **새 원격 사이트**&#x200B;를 클릭합니다.
 
    ![](assets/msi-actions-configuration-in-salesforce-3.png)
 
-1. 원격 사이트 이름을 입력합니다(&quot;MarketoSalesInsight1&quot;과 같은 이름일 수 있음). 원격 사이트 URL 입력 `https://ims-na1.adobelogin.com` 및 클릭 **저장**.
+1. 원격 사이트 이름을 입력합니다(&quot;MarketoSalesInsight1&quot;과 같은 이름일 수 있음). 원격 사이트 URL `https://ims-na1.adobelogin.com`을(를) 입력하고 **저장**&#x200B;을(를) 클릭합니다.
 
    ![](assets/msi-actions-configuration-in-salesforce-4.png)
 
-1. 클릭 **새 원격 사이트** 다시.
+1. **새 원격 사이트**&#x200B;를 다시 클릭합니다.
 
    ![](assets/msi-actions-configuration-in-salesforce-4a.png)
 
-1. 원격 사이트 이름을 입력합니다(&quot;MarketoSalesInsight2&quot;와 같은 것일 수 있음). 원격 사이트 URL 입력 `https://mkto-sales-connect.adobe.io` 및 클릭 **저장**.
+1. 원격 사이트 이름을 입력합니다(&quot;MarketoSalesInsight2&quot;와 같은 것일 수 있음). 원격 사이트 URL `https://mkto-sales-connect.adobe.io`을(를) 입력하고 **저장**&#x200B;을(를) 클릭합니다.
 
 ## CRM에서 Sales Insight 작업 활성화 {#enabling-sales-insight-actions-across-the-crm}
 
-1. Salesforce에서 **Marketo Sales Insight 구성** 탭.
+1. Salesforce에서 **Marketo Sales Insight 구성** 탭을 클릭합니다.
 
    ![](assets/msi-actions-configuration-in-salesforce-5.png)
 
    >[!NOTE]
    >
-   >상단 표시줄에 &quot;Marketo Sales Insight Config&quot;가 표시되지 않으면 **+** 서명하고 모든 탭에서 찾습니다.
+   >상단 표시줄에 &quot;Marketo Sales Insight Config&quot;가 표시되지 않으면 **+** 기호를 클릭하고 모든 탭에서 찾습니다.
 
-1. 다음 항목 선택 **MSI 작업 활성화** 확인란.
+1. **MSI 동작 사용** 확인란을 선택하십시오.
 
    ![](assets/msi-actions-configuration-in-salesforce-6.png)
 
@@ -59,9 +59,9 @@ ht-degree: 0%
 
    >[!NOTE]
    >
-   >API 비밀 키가 없는 경우 의 단계를 따라 찾을 수 있습니다. [이 문서](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/configuration/configure-marketo-sales-insight-in-salesforce-enterprise-unlimited.md).
+   >API 비밀 키가 없으면 [이 문서](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/configuration/configure-marketo-sales-insight-in-salesforce-enterprise-unlimited.md)의 단계를 따라 찾을 수 있습니다.
 
-1. 클릭 **저장** 완료 시.
+1. 완료되면 **저장**&#x200B;을 클릭합니다.
 
 이렇게 하면 기능 개요 문서에 설명된 모든 MSI 작업 기능이 자동으로 활성화됩니다.
 

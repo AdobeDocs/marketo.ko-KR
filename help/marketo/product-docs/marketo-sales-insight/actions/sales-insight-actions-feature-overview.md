@@ -5,7 +5,7 @@ exl-id: 059de248-d1a2-42cd-a7ec-f10b15d0b526
 feature: Sales Insight Actions
 source-git-commit: 02b2e39580c5eac63de4b4b7fdaf2a835fdd4ba5
 workflow-type: tm+mt
-source-wordcount: '1392'
+source-wordcount: '1388'
 ht-degree: 0%
 
 ---
@@ -16,13 +16,13 @@ Sales Insight Actions 을 사용하여 단일 워크플로우에서 마케팅 �
 
 >[!NOTE]
 >
->Marketo Sales Insight Actions 은 를 통해 Salesforce 사용자 인터페이스와 통합하는 웹 기반 애플리케이션입니다 [Marketo Sales Insight 패키지](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/installation/install-marketo-sales-insight-package-in-salesforce-appexchange.md){target="_blank"}. 이를 때로 &quot;Marketo 영업&quot; 또는 간단히 &quot;작업&quot;이라고 합니다.
+>Marketo Sales Insight Actions는 [Marketo Sales Insight 패키지](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/installation/install-marketo-sales-insight-package-in-salesforce-appexchange.md){target="_blank"}를 통해 Salesforce 사용자 인터페이스와 통합하는 웹 기반 애플리케이션입니다. 이를 때로 &quot;Marketo 영업&quot; 또는 간단히 &quot;작업&quot;이라고 합니다.
 
 >[!AVAILABILITY]
 >
->이 기능은 현재 모든 Sales Insight 사용자에게 공개되고 있습니다. 롤아웃에서 우선 순위를 매기려면 (으)로 이메일을 보내십시오. `sales-insights(at)adobe(dot)com`.
+>이 기능은 현재 모든 Sales Insight 사용자에게 공개되고 있습니다. 롤아웃 우선 순위를 지정하려면 `sales-insights(at)adobe(dot)com`(으)로 전자 메일을 보내십시오.
 
-Sales Insight Actions 의 비디오 개요는 [여기를 클릭하십시오](https://experienceleague.adobe.com/docs/marketo-learn/tutorials/sales-insight-actions/overview.html){target="_blank"}.
+Sales Insight 작업에 대한 비디오 개요를 보려면 [여기를 클릭](https://experienceleague.adobe.com/docs/marketo-learn/tutorials/sales-insight-actions/overview.html){target="_blank"}하십시오.
 
 ![](assets/sales-insight-actions-feature-overview-1.png)
 
@@ -32,7 +32,7 @@ Sales Insight Actions 의 비디오 개요는 [여기를 클릭하십시오](htt
 
 * 판매 이메일 보내기
    * 판매 이메일에는 보기, 클릭 및 회신 추적이 있습니다(게재 채널이 설정된 경우).
-   * 이메일 개인화, 사용자 지정된 서명 및 첨부 파일 포함
+   * 이메일 Personalization, 사용자 지정된 서명 및 첨부 파일 포함
    * 템플릿 공유 및 보고서
    * 팀 공유, 그룹 이메일 및 CC/BCC 기능
    * 영업 이메일 활동은 Marketo 개인 레코드에 기록됩니다.
@@ -84,7 +84,7 @@ MSI 패널 내의 탭에서 다음 데이터를 사용할 수 있습니다.
 
 * 판매 이메일 보내기 - 계정/기회와 연계된 모든 연락처에 보기, 클릭 및 회신 추적을 사용하여 개인화되거나 템플릿화된 그룹 이메일을 보낼 수 있습니다.
    * 판매 이메일에는 보기, 클릭 및 회신 추적이 있습니다(게재 채널이 설정된 경우).
-   * 이메일 개인화, 사용자 지정된 서명 및 첨부 파일 포함
+   * 이메일 Personalization, 사용자 지정된 서명 및 첨부 파일 포함
    * 템플릿 공유 및 보고서
    * 팀 공유, 그룹 이메일 및 CC/BCC 기능
    * 영업 이메일 활동은 Marketo 개인 레코드에 기록됩니다.
@@ -142,13 +142,13 @@ Best Bets 탭에서 개별 리드/연락처에 대해 다음과 같은 인라인
 
   ![](assets/sales-insight-actions-feature-overview-5.png)
 
-**이메일 탭**
+**전자 메일 탭**
 
 * 보낸 모든 영업 이메일이 여기에 기록됩니다. 활동은 Marketo 개인 레코드에도 기록됩니다
 * 열에는 제목, 열기, 클릭, 회신함(게재 채널이 설정된 판매 이메일에만 사용 가능), 발신자 및 날짜가 포함됩니다
 * 보낸 사람, 템플릿, 판매 캠페인 및 이메일 미리 보기와 같은 추가 세부 정보가 포함된 슬라이드 아웃 카드 포함
 
-**호출 탭**
+**통화 탭**
 
 * 영업 전화 걸기 기능을 사용하여 수행한 모든 호출이 여기에 기록됩니다. 활동은 Marketo 개인 레코드에도 기록됩니다
 * 열에는 이름, 결과, 메모, 호출됨, 기간 및 녹음 링크 포함

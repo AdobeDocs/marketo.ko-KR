@@ -13,7 +13,7 @@ ht-degree: 0%
 
 # 스마트 캠페인에 대한 개인 제한 활성화 {#enable-person-restrictions-for-smart-campaigns}
 
-Marketo에는 다음을 제한하는 기능이 있습니다. _최대_ Smart Campaign의 자격을 가질 수 있는 사람 수. 이렇게 하면 실수로 전체 데이터베이스에 이메일을 보내는 것을 방지할 수 있습니다.
+Smart Campaign의 자격을 가질 수 있는 _최대_ 인원을 제한하는 기능이 Marketo에 있습니다. 이렇게 하면 실수로 전체 데이터베이스에 이메일을 보내는 것을 방지할 수 있습니다.
 
 >[!NOTE]
 >
@@ -23,15 +23,15 @@ Marketo에는 다음을 제한하는 기능이 있습니다. _최대_ Smart Camp
 >
 >이는 캠페인 및 이메일 프로그램을 일괄 처리하는 경우에만 적용됩니다.
 
-1. 로 이동 **[!UICONTROL 관리자]** 영역입니다.
+1. **[!UICONTROL 관리자]** 영역으로 이동합니다.
 
    ![](assets/enable-person-restrictions-for-smart-campaigns-1.png)
 
-1. 클릭 **[!UICONTROL 스마트 캠페인]**.
+1. **[!UICONTROL 스마트 캠페인]**&#x200B;을 클릭합니다.
 
    ![](assets/enable-person-restrictions-for-smart-campaigns-2.png)
 
-1. 클릭 **[!UICONTROL 편집]**.
+1. **[!UICONTROL 편집]**&#x200B;을 클릭합니다.
 
    ![](assets/enable-person-restrictions-for-smart-campaigns-3.png)
 
@@ -39,7 +39,7 @@ Marketo에는 다음을 제한하는 기능이 있습니다. _최대_ Smart Camp
    >
    >Smart Campaign을 실행할 자격이 있는 사용자 수가 설정된 한도를 초과하면 전혀 실행되지 않습니다.
 
-1. 제한을 입력하고 **[!UICONTROL 저장]**.
+1. 한도를 입력하고 **[!UICONTROL 저장]**&#x200B;을 클릭합니다.
 
    ![](assets/enable-person-restrictions-for-smart-campaigns-4.png)
 
@@ -49,10 +49,10 @@ Marketo에는 다음을 제한하는 기능이 있습니다. _최대_ Smart Camp
 
    >[!CAUTION]
    >
-   >이 제한은 모든 스마트 캠페인에 적용되지만 캠페인 수준에서 재정의할 수 있습니다. 방법 알아보기 [smart Campaign에서 개인 제한 재정의](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/using-smart-campaigns/override-person-restrictions-in-a-smart-campaign.md).
+   >이 제한은 모든 스마트 캠페인에 적용되지만 캠페인 수준에서 재정의할 수 있습니다. 스마트 캠페인에서 [개인 제한을 재정의하는 방법](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/using-smart-campaigns/override-person-restrictions-in-a-smart-campaign.md)을 알아보세요.
 
 완료! 방금 안전스위치를 켰잖아요
 
 >[!MORELIKETHIS]
 >
->[스마트 캠페인에서 개인 제한 재정의](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/using-smart-campaigns/override-person-restrictions-in-a-smart-campaign.md)
+>[스마트 캠페인에서 사용자 제한 무시](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/using-smart-campaigns/override-person-restrictions-in-a-smart-campaign.md)

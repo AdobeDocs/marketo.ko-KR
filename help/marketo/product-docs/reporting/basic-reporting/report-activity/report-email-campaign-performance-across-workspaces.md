@@ -13,9 +13,9 @@ ht-degree: 0%
 
 # 작업 영역 간 보고서 이메일, 캠페인 성과 {#report-email-campaign-performance-across-workspaces}
 
-모든 Marketo의 데이터를 포함하려면 글로벌 보고를 켭니다 [작업 공간](/help/marketo/product-docs/administration/workspaces-and-person-partitions/create-a-new-workspace.md) (으)로 [이메일 성능](/help/marketo/product-docs/email-marketing/email-programs/email-program-data/email-performance-report.md) 및 [이메일 링크 성능](/help/marketo/product-docs/email-marketing/email-programs/email-program-data/email-link-performance-report.md) 보고서.
+[이메일 성능](/help/marketo/product-docs/email-marketing/email-programs/email-program-data/email-performance-report.md) 및 [이메일 링크 성능](/help/marketo/product-docs/email-marketing/email-programs/email-program-data/email-link-performance-report.md) 보고서에 모든 Marketo [작업 공간](/help/marketo/product-docs/administration/workspaces-and-person-partitions/create-a-new-workspace.md)의 데이터를 포함하도록 전역 보고를 켭니다.
 
-1. 다음으로 이동 **분석** (또는 **마케팅 활동**) 영역입니다.
+1. **분석**(또는 **마케팅 활동**) 영역으로 이동합니다.
 
    ![](assets/image2014-9-16-16-3a4-3a46.png)
 
@@ -23,18 +23,18 @@ ht-degree: 0%
 
    ![](assets/image2014-9-16-16-3a4-3a51.png)
 
-1. 다음을 클릭합니다. **설정** tab 키 및 두 번 클릭 **글로벌 보고**.
+1. **설정** 탭을 클릭하고 **전역 보고**&#x200B;를 두 번 클릭합니다.
 
    ![](assets/image2014-9-16-16-3a4-3a58.png)
 
-1. 선택 **활성화됨**.
+1. **사용**&#x200B;을 선택하세요.
 
    ![](assets/image2014-9-16-16-3a5-3a4.png)
 
-1. 그게 다야! 다음을 클릭합니다. **보고서** 탭으로 이동하여 모든 작업 영역의 데이터를 볼 수 있습니다.
+1. 그게 다야! 모든 작업 영역의 데이터를 보려면 **보고서** 탭을 클릭하십시오.
 
    ![](assets/image2014-9-16-16-3a5-3a8.png)
 
    >[!MORELIKETHIS]
    >
-   >[이메일 보고서에서 자산 필터링](/help/marketo/product-docs/reporting/basic-reporting/report-activity/filter-assets-in-an-email-report.md)
+   >[전자 메일 보고서에서 Assets 필터링](/help/marketo/product-docs/reporting/basic-reporting/report-activity/filter-assets-in-an-email-report.md)

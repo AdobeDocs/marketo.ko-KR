@@ -6,24 +6,24 @@ exl-id: 0306f82d-43c8-44eb-943f-f7f01279b844
 feature: Target Account Management
 source-git-commit: e5fe19bd17e3da7991b09dfa17beb05d4efd58f6
 workflow-type: tm+mt
-source-wordcount: '317'
+source-wordcount: '318'
 ht-degree: 0%
 
 ---
 
 # 계정 통찰력 플러그인 개요 {#account-insight-plug-in-overview}
 
-Account Insight는 영업 팀에 유용한 TAM 및 계정 인사이트를 제공하는 Chrome 플러그인으로, 고객이 보다 효과적으로 계정을 이용할 수 있도록 합니다.
+Account Insight는 실행 가능한 TAM 및 계정 인사이트를 영업 팀에 제공하는 Chrome 플러그인으로, 고객이 보다 효과적으로 계정을 참여시킬 수 있도록 합니다.
 
 >[!AVAILABILITY]
 >
 >* TAM과 Marketo Sales Insight를 모두 보유한 모든 고객을 위한 Account Insight가 포함됩니다. TAM만 있는 고객의 경우 계정 인사이트를 구매한 추가 기능으로 사용할 수 있습니다. 각 고객은 250개의 Account Insight 시트로 제한됩니다. 자세한 내용은 영업 담당자에게 문의하십시오. TAM이 없는 고객은 사용할 수 없습니다.
 >
->* 이 플러그인은 와 호환되지 않습니다. [Adobe ID 인증](/help/marketo/product-docs/administration/marketo-with-adobe-identity/adobe-identity-management-overview.md){target="_blank"} 이 시간에.
+>* 현재 이 플러그인은 [Adobe ID 인증](/help/marketo/product-docs/administration/marketo-with-adobe-identity/adobe-identity-management-overview.md){target="_blank"}과(와) 호환되지 않습니다.
 
 >[!CAUTION]
 >
->계정 인사이트 플러그인은 이 있는 구독에서 작동하지 않습니다. [SSO 전용](/help/marketo/product-docs/administration/additional-integrations/restrict-user-login-to-sso-only.md) (Single Sign-On)이 활성화되었습니다.
+>Account Insight 플러그인은 [SSO 전용](/help/marketo/product-docs/administration/additional-integrations/restrict-user-login-to-sso-only.md)(Single Sign-On)이 활성화된 구독에서 작동하지 않습니다.
 
 >[!CAUTION]
 >
@@ -73,7 +73,7 @@ Account Insight는 영업 팀에 유용한 TAM 및 계정 인사이트를 제공
 
 ![](assets/af1.png)
 
-다음을 클릭합니다. **필터** 드롭다운을 클릭하여 다른 활동 유형별로 필터링합니다.
+다른 활동 유형별로 필터링하려면 **필터** 드롭다운을 클릭하세요.
 
 ![](assets/af2.png)
 

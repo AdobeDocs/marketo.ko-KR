@@ -7,7 +7,7 @@ feature: Tokens
 source-git-commit: b21f955bf98063e11f8ed3fdc6f164134ee4f5aa
 workflow-type: tm+mt
 source-wordcount: '435'
-ht-degree: 1%
+ht-degree: 0%
 
 ---
 
@@ -19,7 +19,7 @@ ht-degree: 1%
 
 PMCF 토큰은 토큰 계열의 멤버 도메인에서 지원됩니다.
 
-멤버 토큰은 프로그램 멤버의 범위에 있는 필드에 사용됩니다. 현재 상태에서는 멤버 토큰을 사용하여 통합 서비스 파트너의 고유 값을 삽입할 수도 있습니다. `{{member.webinar url}}` 토큰은 서비스 공급자가 생성한 개인의 고유 확인 URL을 자동으로 확인합니다. {{member.registration code}} 서비스 공급자가 제공한 등록 코드로 확인됩니다.
+멤버 토큰은 프로그램 멤버의 범위에 있는 필드에 사용됩니다. 현재 상태에서는 멤버 토큰을 사용하여 통합 서비스 파트너의 고유 값을 삽입할 수도 있습니다. `{{member.webinar url}}` 토큰은 서비스 공급자가 생성한 개인의 고유 확인 URL을 자동으로 확인합니다. {{member.registration code}}이(가) 서비스 공급자가 제공한 등록 코드로 확인됩니다.
 
 >[!NOTE]
 >
@@ -27,13 +27,13 @@ PMCF 토큰은 토큰 계열의 멤버 도메인에서 지원됩니다.
 >* 이메일 프리헤더, 대기 단계의 날짜 토큰 또는 코드 조각에서 프로그램 멤버 사용자 정의 필드 토큰을 사용할 수 없습니다.
 >* 프로그램 멤버 상태는 멤버 토큰에서 지원되지 않습니다.
 
-## 에셋에서 프로그램 멤버 사용자 정의 필드 토큰 사용 {#using-program-member-custom-field-tokens-in-assets}
+## Assets에서 프로그램 멤버 사용자 정의 필드 토큰 사용 {#using-program-member-custom-field-tokens-in-assets}
 
 프로그램 멤버 사용자 정의 필드 토큰을 이메일, 랜딩 페이지, SMS, 푸시 알림 및 웹후크에 삽입할 수 있습니다.
 
-**이메일**
+**전자 메일**
 
-1. 원하는 이메일을 선택하고 **[!UICONTROL 초안 편집]**.
+1. 원하는 이메일을 선택하고 **[!UICONTROL 초안 편집]**&#x200B;을 클릭합니다.
 
    ![](assets/program-member-custom-field-tokens-1.png)
 
@@ -41,7 +41,7 @@ PMCF 토큰은 토큰 계열의 멤버 도메인에서 지원됩니다.
 
    ![](assets/program-member-custom-field-tokens-2.png)
 
-1. 원하는 프로그램 멤버 사용자 정의 필드 토큰을 찾아 선택하고 기본값을 입력한 다음 **[!UICONTROL 삽입]**.
+1. 원하는 프로그램 멤버 사용자 지정 필드 토큰을 찾아 선택하고 기본값을 입력한 다음 **[!UICONTROL 삽입]**&#x200B;을 클릭합니다.
 
    ![](assets/program-member-custom-field-tokens-3.png)
 
@@ -55,7 +55,7 @@ PMCF 토큰은 토큰 계열의 멤버 도메인에서 지원됩니다.
 
 **랜딩 페이지**
 
-1. 랜딩 페이지를 선택하고 **[!UICONTROL 초안 편집]**.
+1. 랜딩 페이지를 선택하고 **[!UICONTROL 초안 편집]**&#x200B;을 클릭합니다.
 
    ![](assets/program-member-custom-field-tokens-5.png)
 
@@ -75,7 +75,7 @@ PMCF 토큰은 토큰 계열의 멤버 도메인에서 지원됩니다.
 
    ![](assets/program-member-custom-field-tokens-8.png)
 
-1. 기본값을 입력하고 **[!UICONTROL 삽입]**.
+1. 기본값을 입력하고 **[!UICONTROL 삽입]**&#x200B;을 클릭합니다.
 
    ![](assets/program-member-custom-field-tokens-9.png)
 
@@ -85,11 +85,11 @@ PMCF 토큰은 토큰 계열의 멤버 도메인에서 지원됩니다.
 
 **SMS**
 
-1. 원하는 SMS를 선택하고 **[!UICONTROL 초안 편집]**.
+1. 원하는 SMS를 선택하고 **[!UICONTROL 초안 편집]**&#x200B;을 클릭합니다.
 
    ![](assets/program-member-custom-field-tokens-11.png)
 
-1. 다음을 클릭합니다. **`{{ Token`** 단추를 클릭합니다.
+1. **`{{ Token`** 단추를 클릭합니다.
 
    ![](assets/program-member-custom-field-tokens-12.png)
 
@@ -97,29 +97,29 @@ PMCF 토큰은 토큰 계열의 멤버 도메인에서 지원됩니다.
 
    ![](assets/program-member-custom-field-tokens-13.png)
 
-1. SMS 작업 드롭다운을 클릭하고 을 선택합니다. **[!UICONTROL 승인 및 닫기]**.
+1. SMS 동작 드롭다운을 클릭하고 **[!UICONTROL 승인 및 닫기]**&#x200B;를 선택합니다.
 
    ![](assets/program-member-custom-field-tokens-14.png)
 
 **푸시 알림**
 
-1. 원하는 푸시 알림을 선택하고 **[!UICONTROL 초안 편집]**.
+1. 원하는 푸시 알림을 선택하고 **[!UICONTROL 초안 편집]**&#x200B;을 클릭합니다.
 
    ![](assets/program-member-custom-field-tokens-15.png)
 
-1. 클릭 **[!UICONTROL 푸시 알림]**.
+1. **[!UICONTROL 푸시 알림]**&#x200B;을 클릭합니다.
 
    ![](assets/program-member-custom-field-tokens-16.png)
 
-1. 편집기에서 메시지를 클릭하고 `{{` 토큰 선택기를 가져오는 단추.
+1. 편집기에서 메시지를 클릭하고 `{{` 단추를 클릭하여 토큰 선택기를 가져옵니다.
 
    ![](assets/program-member-custom-field-tokens-17.png)
 
-1. 원하는 프로그램 멤버 사용자 정의 필드 토큰을 찾아 선택합니다. 기본값을 입력하고 **[!UICONTROL 삽입]**.
+1. 원하는 프로그램 멤버 사용자 정의 필드 토큰을 찾아 선택합니다. 기본값을 입력하고 **[!UICONTROL 삽입]**&#x200B;을 클릭합니다.
 
    ![](assets/program-member-custom-field-tokens-18.png)
 
-1. 클릭 **[!UICONTROL 완료]** 저장 및 종료하기(또는 **[!UICONTROL 다음]** 을 참조하십시오.
+1. 저장하고 종료하려면 **[!UICONTROL 완료]**&#x200B;를 클릭하세요(먼저 검토하려면 **[!UICONTROL 다음]**).
 
    ![](assets/program-member-custom-field-tokens-19.png)
 

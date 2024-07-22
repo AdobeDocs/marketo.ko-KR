@@ -6,7 +6,7 @@ exl-id: 141fa369-9ef9-48c7-a7ff-f5265d0e9ca5
 feature: Marketo Sales Connect
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
-source-wordcount: '569'
+source-wordcount: '570'
 ht-degree: 1%
 
 ---
@@ -36,7 +36,7 @@ Comcommend Center는 다음 단계를 파악하는 데 도움이 되는 통합�
    <td title="배경색 : 회색"><p title=""><strong><span>설명</span> </strong></p></td> 
   </tr> 
   <tr> 
-   <td title="배경색 : 파랑"><strong title="">전송됨</strong></td> 
+   <td title="배경색 : 파랑"><strong title="">보냄</strong></td> 
    <td title="배경색 : 파랑">게재됨</td> 
    <td title="배경색 : 파랑">수신자에게 전달된 이메일.</td> 
   </tr> 
@@ -53,7 +53,7 @@ Comcommend Center는 다음 단계를 파악하는 데 도움이 되는 통합�
   <tr> 
    <td title="배경색 : 회색"><br></td> 
    <td title="배경색 : 회색">초안</td> 
-   <td title="배경색 : 회색"><p>초안으로 저장된 이메일.<br><strong>참고:</strong> 단일 이메일만 초안으로 저장할 수 있습니다. 대량 이메일(이메일 및 그룹 이메일 선택 및 보내기)은 초안으로 저장되지 않습니다.</p></td> 
+   <td title="배경색 : 회색"><p>초안으로 저장된 이메일.<br><strong>참고:</strong> 하나의 전자 메일만 초안으로 저장할 수 있습니다. 대량 이메일(이메일 및 그룹 이메일 선택 및 보내기)은 초안으로 저장되지 않습니다.</p></td> 
   </tr> 
   <tr> 
    <td title="배경색 : 회색"><br></td> 
@@ -68,12 +68,12 @@ Comcommend Center는 다음 단계를 파악하는 데 도움이 되는 통합�
   <tr> 
    <td title="배경색 : 파랑"><br></td> 
    <td title="배경색 : 파랑">반송됨</td> 
-   <td title="배경색 : 파랑"><p>수신자 이메일 서버에서 거부된 이메일. <br><strong>참고:</strong> 이는 기존 ToutApp 사용자이며 배달 채널로 MSC 서버에 액세스할 수 있는 경우에만 감지됩니다.</p></td> 
+   <td title="배경색 : 파랑"><p>수신자 이메일 서버에서 거부된 이메일. <br><strong>참고:</strong> 기존 ToutApp 사용자이고 배달 채널로 MSC 서버에 액세스할 수 있는 경우에만 검색됩니다.</p></td> 
   </tr> 
   <tr> 
    <td title="배경색 : 파랑"><br></td> 
    <td title="배경색 : 파랑">스팸</td> 
-   <td title="배경색 : 파랑"><p>수신자가 수동으로 스팸으로 표시한 이메일입니다.<br><strong>참고:</strong> 이는 기존 ToutApp 사용자이며 배달 채널로 MSC 서버에 액세스할 수 있는 경우에만 감지됩니다.</p></td> 
+   <td title="배경색 : 파랑"><p>수신자가 수동으로 스팸으로 표시한 이메일입니다.<br><strong>참고:</strong> 기존 ToutApp 사용자이고 배달 채널로 MSC 서버에 액세스할 수 있는 경우에만 검색됩니다.</p></td> 
   </tr> 
  </tbody> 
 </table>
@@ -94,6 +94,6 @@ Comcommend Center는 다음 단계를 파악하는 데 도움이 되는 통합�
 
 >[!MORELIKETHIS]
 >
->* [Tasks](/help/marketo/product-docs/marketo-sales-connect/tasks/syncing-sales-connect-tasks-with-salesforce-for-the-first-time.md)
+>* [작업](/help/marketo/product-docs/marketo-sales-connect/tasks/syncing-sales-connect-tasks-with-salesforce-for-the-first-time.md)
 >* [고급 검색 개요](/help/marketo/product-docs/marketo-sales-connect/email/command-center/advanced-search-overview.md)
->* [Select 및 Send를 사용하여 일괄 이메일 작성](/help/marketo/product-docs/marketo-sales-connect/email/using-the-compose-window/composing-bulk-emails-with-select-and-send.md)
+>* [Select 및 Send를 사용하여 일괄 전자 메일 작성](/help/marketo/product-docs/marketo-sales-connect/email/using-the-compose-window/composing-bulk-emails-with-select-and-send.md)

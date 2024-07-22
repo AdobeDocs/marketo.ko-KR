@@ -21,29 +21,29 @@ SMS 활동을 활용하여 Marketo Engage 인스턴스에서 기본적으로 캠
 
 >[!AVAILABILITY]
 >
->Vibes SMS에 대한 활성 Vibes 계정과 Adobe 라이선스가 있어야 합니다. Marketo Vibes SMS 기본 통합은 미국 및 캐나다에서 사용할 수 있습니다. 다른 국가의 경우 Marketo 웹후크를 통한 연결을 [Vibes에 직접 연결](https://www.vibes.com/talk-to-sales){target="_blank"}.
+>Vibes SMS에 대한 활성 Vibes 계정과 Adobe 라이선스가 있어야 합니다. Marketo Vibes SMS 기본 통합은 미국 및 캐나다에서 사용할 수 있습니다. 다른 국가의 경우 Marketo 웹후크를 통한 연결은 [Vibes에 직접 연결](https://www.vibes.com/talk-to-sales){target="_blank"}하여 사용할 수 있습니다.
 
-1. 내 Marketo에서 **[!UICONTROL 관리자]** 영역입니다.
+1. 내 Marketo에서 **[!UICONTROL 관리자]** 영역으로 이동합니다.
 
    ![](assets/add-vibes-as-a-launchpoint-service-1.png)
 
-1. 클릭 **[!UICONTROL 시작 지점]**.
+1. **[!UICONTROL LaunchPoint]**&#x200B;을 클릭합니다.
 
    ![](assets/add-vibes-as-a-launchpoint-service-2.png)
 
-1. 클릭 **[!UICONTROL 신규]**, 그런 다음 **[!UICONTROL 새 서비스]**.
+1. **[!UICONTROL 새로 만들기]**&#x200B;를 클릭한 다음 **[!UICONTROL 새 서비스]**&#x200B;를 클릭합니다.
 
    ![](assets/add-vibes-as-a-launchpoint-service-3.png)
 
-1. 표시 이름을 입력하고 드롭다운에서 을 선택합니다. **[!UICONTROL 바이브]**.
+1. 표시 이름을 입력하고 드롭다운에서 **[!UICONTROL 보기]**&#x200B;를 선택합니다.
 
    ![](assets/add-vibes-as-a-launchpoint-service-4.png)
 
-1. 설정에서 Vibes를 입력합니다 [!UICONTROL 사용자 이름], [!UICONTROL 암호], 및 [!UICONTROL 회사 키] (모두 Vibes 계정에서 찾을 수 있습니다.) 클릭 **[!UICONTROL 만들기]**.
+1. 설정에서 Vibes [!UICONTROL 사용자 이름], [!UICONTROL 암호] 및 [!UICONTROL 회사 키]를 입력합니다(모두 Vibes 계정에서 찾을 수 있음). **[!UICONTROL 만들기]**&#x200B;를 클릭합니다.
 
    ![](assets/add-vibes-as-a-launchpoint-service-5.png)
 
-   이제 새 SMS 서비스가 [!UICONTROL 설치된 서비스] 목록을 표시합니다.
+   이제 새 SMS 서비스가 [!UICONTROL 설치된 서비스] 목록에 나타납니다.
 
    ![](assets/add-vibes-as-a-launchpoint-service-6.png)
 

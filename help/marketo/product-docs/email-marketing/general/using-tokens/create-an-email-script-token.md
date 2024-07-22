@@ -13,9 +13,9 @@ ht-degree: 0%
 
 # 이메일 스크립트 토큰 만들기 {#create-an-email-script-token}
 
-고급 개발자의 경우 다음을 사용할 수 있습니다 [속도 스크립트](https://velocity.apache.org/engine/1.7/user-guide.html) 이메일. 방법은 다음과 같습니다.
+고급 개발자의 경우 전자 메일에서 [속도 스크립트](https://velocity.apache.org/engine/1.7/user-guide.html)를 사용할 수 있습니다. 방법은 다음과 같습니다.
 
-1. 다음으로 이동 **마케팅 활동**.
+1. **마케팅 활동**(으)로 이동합니다.
 
    ![](assets/ma.png)
 
@@ -23,15 +23,15 @@ ht-degree: 0%
 
    ![](assets/image2014-9-17-22-3a21-3a24.png)
 
-1. 아래 **내 토큰** 탭, 드래그하기 **이메일 스크립트** 토큰.
+1. **내 토큰** 탭에서 **전자 메일 스크립트** 토큰을 끌어옵니다.
 
    ![](assets/image2014-9-17-22-3a21-3a29.png)
 
-1. 이메일 스크립트 토큰 이름 지정 및 **편집하려면 클릭** 콘텐츠.
+1. 전자 메일 스크립트 토큰에 이름을 지정하고 콘텐츠를 **편집하려면**&#x200B;을(를) 클릭합니다.
 
    ![](assets/image2014-9-17-22-3a21-3a46.png)
 
-1. 오른쪽의 트리를 사용하여 끌어서 넣으십시오. **개인, 영업 기회**, 또는 **사용자 지정 개체** 토큰.
+1. 오른쪽의 트리를 사용하여 **개인, 기회** 또는 **사용자 지정 개체** 토큰을 끌어옵니다.
 
    ![](assets/five-2.png)
 
@@ -49,16 +49,16 @@ ht-degree: 0%
 
 1. Velocity에서 스크립트를 작성합니다. 다음은 유용한 리소스입니다.
 
-   * [Marketo 개발자 이메일 스크립팅 설명서](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/email-scripting)
-   * [Velocity 사용 안내서](https://velocity.apache.org/engine/devel/user-guide.html)
+   * [Marketo 개발자 전자 메일 스크립팅 설명서](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/email-scripting)
+   * [속도 사용 안내서](https://velocity.apache.org/engine/devel/user-guide.html)
    * [속도 참조 안내서](https://velocity.apache.org/engine/devel/vtl-reference-guide.html)
-   * [Velocity Tools Javadoc](https://velocity.apache.org/tools/releases/2.0/javadoc/index.html)
+   * [Velocity 도구 Javadoc](https://velocity.apache.org/tools/releases/2.0/javadoc/index.html)
 
-1. 스크립트가 완료되면 다음을 클릭하십시오. **저장**.
+1. 스크립트가 완료되면 **저장**&#x200B;을 클릭하세요.
 
    ![](assets/image2014-9-17-22-3a23-3a1.png)
 
-1. 클릭 **저장** 한 번 더
+1. **저장**&#x200B;을 한 번 더 클릭합니다.
 
    ![](assets/image2014-9-17-22-3a23-3a13.png)
 
@@ -66,4 +66,4 @@ ht-degree: 0%
 
 >[!MORELIKETHIS]
 >
->[이메일에 이메일 스크립트 토큰 추가](/help/marketo/product-docs/email-marketing/general/using-tokens/add-an-email-script-token-to-your-email.md)
+>[전자 메일에 전자 메일 스크립트 토큰 추가](/help/marketo/product-docs/email-marketing/general/using-tokens/add-an-email-script-token-to-your-email.md)

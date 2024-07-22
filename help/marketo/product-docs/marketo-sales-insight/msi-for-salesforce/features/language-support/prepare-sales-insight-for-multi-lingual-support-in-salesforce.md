@@ -31,35 +31,35 @@ Marketo Sales Insight는 언어로 저장됩니다. 따라서 두 개 이상의 
 
 ## Marketo Sales Insight에 새 언어 추가 {#adding-a-new-language-for-marketo-sales-insight}
 
-1. Salesforce에 로그인합니다. 오른쪽 상단의 사용자 이름 아래에 있는 드롭다운에서 을 클릭합니다. **설정**.
+1. Salesforce에 로그인합니다. 오른쪽 상단의 사용자 이름 아래에 있는 드롭다운에서 **설정**&#x200B;을 클릭합니다.
 
    ![](assets/image2015-7-6-16-3a5-3a6.png)
 
-1. 아래 **내 개인 정보**, 클릭 **개인 정보**.
+1. **내 개인 정보**&#x200B;에서 **개인 정보**&#x200B;를 클릭합니다.
 
    ![](assets/image2015-7-6-16-3a5-3a25.png)
 
-1. 클릭 **편집**.
+1. **편집**&#x200B;을 클릭합니다.
 
    ![](assets/image2015-7-6-16-3a5-3a38.png)
 
-1. 언어를 선택하고 **저장**.
+1. 언어를 선택하고 **저장**&#x200B;을 클릭하세요.
 
    ![](assets/image2015-7-6-16-3a5-3a47.png)
 
-1. 이제 Salesforce 인터페이스가 선택한 언어로 되어 있습니다. 다음을 클릭할 수 있습니다 **+** 아이콘을 클릭하여 사용 가능한 모든 탭을 확인합니다.
+1. 이제 Salesforce 인터페이스가 선택한 언어로 되어 있습니다. **+** 아이콘을 클릭하여 사용 가능한 모든 탭을 볼 수 있습니다.
 
    ![](assets/image2015-7-6-16-3a6-3a10.png)
 
-1. 클릭 **Marketo Sales Insight 구성** (선택한 언어로).
+1. 선택한 언어로 **Marketo Sales Insight 구성**&#x200B;을 클릭합니다.
 
    ![](assets/image2015-7-6-16-3a7-3a15.png)
 
-1. Marketo으로 이동합니다. 다음 위치 찾기 [Marketo Sales Insight **API 구성** 세부 사항](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/configuration/configure-marketo-sales-insight-in-salesforce-enterprise-unlimited.md#configure-marketo-sales-insight).
+1. Marketo으로 이동합니다. [Marketo Sales Insight **API 구성** 세부 정보](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/configuration/configure-marketo-sales-insight-in-salesforce-enterprise-unlimited.md#configure-marketo-sales-insight)를 찾습니다.
 
    ![](assets/image2015-7-6-16-3a41-3a2.png)
 
-1. Marketo에서 API 세부 정보를 입력하고 **저장**.
+1. Marketo에서 API 세부 정보를 입력하고 **저장**&#x200B;을(를) 클릭합니다.
 
    ![](assets/image2015-7-6-16-3a7-3a43.png)
 
@@ -71,19 +71,19 @@ Salesforce 조직 맞춤화를 마치면 개인 구성을 영어로 되돌리는
 >
 >다음 스크린샷은 영어로 된 지침이 있는 프랑스어로 되어 있습니다.  이전 단계에서 선택한 언어의 텍스트가 있는 동일한 화면이 표시됩니다.
 
-1. 사용자 이름 아래에서 **설정**.
+1. 사용자 이름 아래에서 **설치**&#x200B;를 클릭합니다.
 
 ![](assets/image2015-7-6-16-3a5-3a6.png)
 
-1. 클릭 **개인 정보** 아래에 **내 개인 정보**.
+1. **내 개인 정보**&#x200B;에서 **개인 정보**&#x200B;를 클릭합니다.
 
    ![](assets/image2015-7-6-16-3a8-3a3.png)
 
-1. 클릭 **편집**.
+1. **편집**&#x200B;을 클릭합니다.
 
    ![](assets/image2015-7-6-16-3a8-3a19.png)
 
-1. 선택 **영어** 언어 드롭다운에서 을(를) 클릭하고 **저장**.
+1. 언어 드롭다운에서 **영어**&#x200B;를 선택하고 **저장**&#x200B;을 클릭합니다.
 
    ![](assets/image2015-7-6-16-3a8-3a31.png)
 

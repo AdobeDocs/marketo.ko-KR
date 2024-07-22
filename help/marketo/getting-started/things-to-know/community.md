@@ -4,7 +4,8 @@ title: Marketo Engage 커뮤니티
 hide: true
 hidefromtoc: true
 feature: Getting Started
-source-git-commit: 6bdac72f0b9831ba830d842cabffbd0f114325fb
+exl-id: 86a4ad2c-22c7-4543-bcb3-bca132b6afea
+source-git-commit: 7a847ece020ea0c0001241abf8e49b9eadf8edce
 workflow-type: tm+mt
 source-wordcount: '592'
 ht-degree: 0%
@@ -13,7 +14,7 @@ ht-degree: 0%
 
 # Adobe Marketo Engage 커뮤니티 {#marketo-engage-community}
 
-다음 [Adobe Marketo Engage 커뮤니티](https://nation.marketo.com/) (Marketing Nation이라고도 함)는 Marketo 직원뿐만 아니라 동료 사용자로부터도 Marketo Engage 인스턴스에 대해 자세히 알아볼 수 있는 곳입니다. 들어가기 전에 잠시 시간을 내어 [커뮤니티 지침](https://nation.marketo.com/t5/community-guidelines/ct-p/community-guidelines).
+[Adobe Marketo Engage 커뮤니티](https://nation.marketo.com/)(마케팅 국가라고도 함)는 Marketo 직원뿐만 아니라 동료 사용자로부터도 Marketo Engage 인스턴스에 대해 자세히 알아볼 수 있는 곳입니다. 시작하기 전에 [커뮤니티 지침](https://nation.marketo.com/t5/community-guidelines/ct-p/community-guidelines)에 대해 알아보세요.
 
 ## 사용자 이름 등록 {#register-your-username}
 
@@ -33,7 +34,7 @@ ht-degree: 0%
 
 ## 프로필 설정 {#set-up-your-profile}
 
-마케팅 국가에 로그인하면 기본 아바타 아이콘을 클릭하고 을 선택합니다 **[!UICONTROL 내 설정]** 환경 설정을 업데이트하려면 아바타 사진 변경, 태그 지정 제어 등을 참조하십시오.
+마케팅 국가에 로그인하면 기본 아바타 아이콘을 클릭하고 **[!UICONTROL 내 설정]**&#x200B;을 선택하여 환경 설정을 업데이트하고, 아바타 사진을 변경하고, 태깅을 제어하는 등의 작업을 수행할 수 있습니다.
 
 스크린샷
 
@@ -85,7 +86,7 @@ Marketo 사용자 그룹(MUG)은 전 세계 다양한 영역에서 발생하는 
 
 여러 커뮤니티 프로필에 기록을 병합하려면 아래 단계를 따르십시오. 덮어쓴 프로필 데이터를 검색할 수 없으므로 커뮤니티 활동이 적은 커뮤니티 프로필을 덮어쓰는 것이 좋습니다.
 
-다음으로 이메일 보내기 `ccare@marketo.com` 다른 커뮤니티 프로필의 데이터를 요청하려면 기본 프로덕션 구독과 연결된 프로필에 병합됩니다. 프로필이 병합되면 선택한 덮어쓴 프로필의 이전 활동이 손실됩니다.
+`ccare@marketo.com`에게 전자 메일을 보내 다른 커뮤니티 프로필의 데이터를 기본 프로덕션 구독과 연결된 프로필에 병합하도록 요청하세요. 프로필이 병합되면 선택한 덮어쓴 프로필의 이전 활동이 손실됩니다.
 
 요청에서 다음 세부 정보를 지정하십시오.
 

@@ -6,7 +6,7 @@ exl-id: 3c9b1f1d-961c-4bf8-8b99-37b483230506
 feature: Release Information
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
-source-wordcount: '653'
+source-wordcount: '659'
 ht-degree: 0%
 
 ---
@@ -17,27 +17,27 @@ ht-degree: 0%
 
 >[!AVAILABILITY]
 >
->현재 패키지에 따라 별표가 있는 항목( ![(별)](assets/yellow-star.png))를 사용하려면 값 추가 기능을 구입해야 할 수 있습니다. 자세한 내용은 Marketo Engage 담당자에게 문의하십시오.
+>현재 패키지에 따라 별(![(별)](assets/yellow-star.png))이 있는 항목은 값 추가 기능을 구입해야 할 수 있습니다. 자세한 내용은 Marketo Engage 담당자에게 문의하십시오.
 
-**_분기별 릴리스_** 다음 기능이에 릴리스됩니다. **2020년 7월 31일**.
+**_분기별 릴리스_** 다음 기능은 **2020년 7월 31일**&#x200B;에 릴리스됩니다.
 
 ## 관리 {#administration}
 
-* **[필드 관리의 &quot;Used By&quot; 내보내기](/help/marketo/product-docs/administration/field-management/export-used-by-data-for-a-field.md)**: 이제 관리자는 선택한 필드에 대한 모든 &quot;사용인&quot; 자산 링크를 CSV 파일로 내보낼 수 있습니다. 이 개선 사항은 관리자와 관리자가 아닌 사용자 모두 사용하지 않는 필드를 정리하는 데 도움이 될 수 있습니다. 또한 이제 새 브라우저 탭이나 창에서 에셋을 열 수 있습니다.
+* **[필드 관리에서 &quot;Used By&quot; 내보내기](/help/marketo/product-docs/administration/field-management/export-used-by-data-for-a-field.md)**: 관리자는 이제 선택한 필드에 대한 모든 &quot;Used By&quot; 자산 링크를 CSV 파일로 내보낼 수 있습니다. 이 개선 사항은 관리자와 관리자가 아닌 사용자 모두 사용하지 않는 필드를 정리하는 데 도움이 될 수 있습니다. 또한 이제 새 브라우저 탭이나 창에서 에셋을 열 수 있습니다.
 
 ## Account-Based Marketing {#account-based-marketing}
 
 ![(별)](assets/yellow-star.png)
 
-* **계정 프로파일링에 대한 UI가 업데이트되었습니다.**: 단일 화면에서 간소화된 단계를 수행하여 계정 프로파일링에서 대상 계정 목록 생성을 간소화합니다.
+* **계정 프로파일링에 대한 UI를 업데이트했습니다**: 단일 화면에서 간소화된 단계를 통해 계정 프로파일링에서 대상 계정 목록 만들기를 단순화하십시오.
 
 <br> 
 
-**_분기 전체에 출시_**
+**_분기 내내 출시_**
 
 다음 기능은 비분기 주기에 있으며 향후 몇 개월 동안 릴리스될 예정입니다.
 
-* **Forms 서비스**: 더 강력한 양식 필드 구문 유효성 검사와 랜딩 페이지 기능에 대한 새로운 보안 도메인으로 일반적인 봇 패턴을 차단하는 기능을 도입합니다. 보트 패턴을 차단하면 스팸 양식 제출을 줄이고 데이터베이스 품질을 향상시킬 수 있습니다.
+* **Forms 서비스**: 더 강력한 양식 필드 구문 유효성 검사와 랜딩 페이지 기능에 대한 새로운 보안 도메인으로 일반적인 봇 패턴을 차단하는 기능을 도입했습니다. 보트 패턴을 차단하면 스팸 양식 제출을 줄이고 데이터베이스 품질을 향상시킬 수 있습니다.
 
 >[!NOTE]
 >
@@ -49,20 +49,20 @@ ht-degree: 0%
 
 ![(별)](assets/yellow-star.png)
 
-* **[기본 Salesforce CRM이 아닌 통합을 사용하는 고객에 대해 Sales Insight 활성화](/help/marketo/product-docs/marketo-sales-insight/sales-insight-for-non-native-salesforce-integrations.md) (베타)**: 비 기본 Salesforce CRM 통합 기능을 보유한 Marketo Engage 고객은 이제 Sales Insight를 사용하여 영업 팀이 가장 참여도가 높은 리드와 기회를 이해하고, 우선 순위를 지정하고, 상호 작용하여 현명한 판매와 더 빠른 거래를 수행할 수 있도록 할 수 있습니다.
+* **[기본 Salesforce가 아닌 CRM 통합을 사용하는 고객에 대해 Sales Insight 사용](/help/marketo/product-docs/marketo-sales-insight/sales-insight-for-non-native-salesforce-integrations.md)(Beta)**: 기본 Salesforce가 아닌 CRM 통합을 사용하는 Marketo Engage 고객은 이제 Sales Insight를 사용하여 영업 팀이 가장 많이 참여하는 리드 및 기회를 이해하고, 우선 순위를 지정하고, 상호 작용하여 현명한 판매 및 더 빠른 거래를 할 수 있도록 지원할 수 있습니다.
 
 ## 영업 연결 {#sales-connect}
 
 ![(별)](assets/yellow-star.png)
 
-* **[판매 전화에 대한 양사 동의 개선:](/help/marketo/product-docs/marketo-sales-connect/phone/two-party-consent-settings.md)** 이제 관리자는 통화 기록 구성을 보다 세밀하게 제어할 수 있습니다. [통화 녹음/녹화 활성화](/help/marketo/product-docs/marketo-sales-connect/phone/enable-call-recording.md) 귀하가 양자의 동의법을 준수한다는 확신을 가지고. 통화 녹음 알림을 자동화하고 통화 전에 재생할 오디오 클립을 활성화합니다.
+* **[판매 전화에 대한 양사 동의 향상:](/help/marketo/product-docs/marketo-sales-connect/phone/two-party-consent-settings.md)** 관리자는 이제 통화 녹음 구성을 보다 세밀하게 제어할 수 있습니다. [통화 녹음/녹화를 사용](/help/marketo/product-docs/marketo-sales-connect/phone/enable-call-recording.md)할 수 있습니다. 통화 녹음 알림을 자동화하고 통화 전에 재생할 오디오 클립을 활성화합니다.
 
 <br> 
 
 ## 공지 및 중단 {#announcements-deprecations}
 
-* **자산 API &quot;_method&quot; 매개 변수 제거**: 2020년 9월 이후, 에셋 API 끝점은 더 이상 &quot;_method&quot;를 사용하여 쿼리 매개 변수를 URI 길이 제한을 무시하도록 POST 본문에 전달하지 않습니다. 이 매개 변수를 필요로 하는 요청을 수용하기 위해 자산 API의 URI 제한이 8KB에서 65KB로 늘어납니다.
-* **[Munchkin 리드 연결](https://developers.marketo.com/blog/deprecation-of-munchkin-associate-lead-method/)**: Munchkin JavaScript Client, 버전 159의 이번 릴리스를 통해 Munchkin 리드 연결 방법의 사용을 중단할 예정입니다. 호출되면 메서드가 향후 릴리스에서 제거됨을 나타내는 경고가 표시됩니다. 제거하면 메서드가 더 이상 작동하지 않으며 해당 메서드를 사용하려고 시도해도 실패합니다. 최근 이 방법을 사용한 Marketo Engage 고객은 개별적으로 사용 여부를 알 수 있습니다.
-* **Internet Explorer 지원**: 이전에 발표된 대로 Internet Explorer 11에 대한 Marketo Engage 지원은 다음 일자에 종료됩니다 **2020년 7월 31일**. Google Chrome, Mozilla Firefox, Apple Safari 및 Microsoft Edge를 계속 지원합니다.
-* **Sky 기본 경험**: 관리자 또는 사용자가 Marketo Sky을 기본 경험으로 설정할 수 있는 옵션은 기본 사용자 경험으로 업데이트할 준비를 위해 이 릴리스에서 제거됩니다. 기본 경험에 대한 업데이트에 대한 자세한 내용은 올해 말로 예정되어 있으며 7월에 제공될 예정입니다. Marketo Sky을 기본 경험으로 설정하거나 Marketo Sky에 대한 액세스 권한이 부여된 사용자는 내 Marketo 홈 페이지의 타일에서 Marketo Sky에 계속 액세스할 수 있습니다.
+* **자산 API &quot;_method&quot; 매개 변수 제거**: 2020년 9월 이후, 자산 API 끝점은 이제 &quot;_method&quot;를 사용하여 쿼리 매개 변수를 URI 길이 제한을 무시하도록 POST 본문에 전달하지 않습니다. 이 매개 변수를 필요로 하는 요청을 수용하기 위해 자산 API의 URI 제한이 8KB에서 65KB로 늘어납니다.
+* **[Munchkin Associate Lead](https://developers.marketo.com/blog/deprecation-of-munchkin-associate-lead-method/)**: Munchkin JavaScript Client, 버전 159의 이번 릴리스를 통해 Munchkin Associate Lead 메서드의 사용 중단을 시작합니다. 호출되면 메서드가 향후 릴리스에서 제거됨을 나타내는 경고가 표시됩니다. 제거하면 메서드가 더 이상 작동하지 않으며 해당 메서드를 사용하려고 시도해도 실패합니다. 최근 이 방법을 사용한 Marketo Engage 고객은 개별적으로 사용 여부를 알 수 있습니다.
+* **Internet Explorer 지원**: 이전에 발표된 대로 Internet Explorer 11에 대한 Marketo Engage 지원은 **2020년 7월 31일**&#x200B;에 종료됩니다. Google Chrome, Mozilla Firefox, Apple Safari 및 Microsoft Edge을 계속 지원할 예정입니다.
+* **Sky 기본 경험**: 관리자 또는 사용자가 Marketo Sky을 기본 경험으로 설정하는 옵션은 기본 사용자 경험으로 업데이트할 준비를 위해 이 릴리스에서 제거됩니다. 기본 경험에 대한 업데이트에 대한 자세한 내용은 올해 말로 예정되어 있으며 7월에 제공될 예정입니다. Marketo Sky을 기본 경험으로 설정하거나 Marketo Sky에 대한 액세스 권한이 부여된 사용자는 내 Marketo 홈 페이지의 타일에서 Marketo Sky에 계속 액세스할 수 있습니다.
 * **EdgeHTML(비 Chromium) Microsoft Edge 지원**: Marketo Engage은 2020년 말에 더 이상 Microsoft Edge의 EdgeHTML 버전을 지원하지 않습니다. 2021년 1월 1일부터 Microsoft Edge의 최신 Chromium 버전만 지원합니다.

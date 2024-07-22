@@ -6,7 +6,7 @@ exl-id: 3a80c10f-3113-46c2-a2e7-7ba2e3f4783f
 feature: Reporting
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
-source-wordcount: '187'
+source-wordcount: '181'
 ht-degree: 0%
 
 ---
@@ -15,7 +15,7 @@ ht-degree: 0%
 
 보고서를 실행하여 사람, 프로그램, 랜딩 페이지, 이메일 및 소셜 자산을 분석합니다.
 
-1. 다음으로 이동 **마케팅 활동**.
+1. **마케팅 활동**(으)로 이동합니다.
 
    ![](assets/login-marketing-activities.png)
 
@@ -25,23 +25,23 @@ ht-degree: 0%
 
    >[!NOTE]
    >
-   >에서 보고서를 만들 수도 있습니다. **분석** 탭.
+   >**분석** 탭에서 보고서를 만들 수도 있습니다.
 
-1. 프로그램을 마우스 오른쪽 단추로 클릭하고 **새 로컬 자산**.
+1. 프로그램을 마우스 오른쪽 단추로 클릭하고 **새 로컬 자산**&#x200B;을 선택합니다.
 
    ![](assets/programrightclick-asset.png)
 
-1. 클릭 **보고서**.
+1. **보고서**&#x200B;를 클릭합니다.
 
    ![](assets/image2014-9-15-18-3a36-3a46.png)
 
-1. 보고서 선택 **유형**.
+1. **유형** 보고서를 선택하십시오.
 
    ![](assets/choosereport.png)
 
    >[!TIP]
    >
-   >다음을 참조하십시오 [보고서 유형 개요](https://docs.marketo.com/display/DOCS/Report+Type+Overview) 각 항목에 대한 간단한 설명.
+   >각각에 대한 간략한 설명은 [보고서 유형 개요](https://docs.marketo.com/display/DOCS/Report+Type+Overview)를 참조하십시오.
 
 1. 보고서 이름을 지정합니다.
 
@@ -51,9 +51,9 @@ ht-degree: 0%
    >
    >나중에 보고서를 더 쉽게 탐색할 수 있도록 이름에 보고서 유형에 대한 참조를 포함하십시오.
 
-1. 보고서의 시간대를 설정합니다. 다음을 참조하십시오 [보고서 시간대 변경](/help/marketo/product-docs/reporting/basic-reporting/editing-reports/change-a-report-time-frame.md) 을 참조하십시오.
+1. 보고서의 시간대를 설정합니다. 자세한 내용은 [보고서 시간대 변경](/help/marketo/product-docs/reporting/basic-reporting/editing-reports/change-a-report-time-frame.md)을 참조하십시오.
 
-1. 다음을 클릭합니다. **보고서** 통계를 보려면 탭하십시오.
+1. 통계를 보려면 **보고서** 탭을 클릭하십시오.
 
    ![](assets/image2014-9-15-18-3a38-3a5.png)
 
@@ -63,8 +63,8 @@ ht-degree: 0%
 
    >[!NOTE]
    >
-   >많은 보고서를 신속하게 작성할 수 있습니다. 다음을 잊지 마십시오. [보고서 삭제](/help/marketo/product-docs/reporting/basic-reporting/report-activity/delete-a-report.md) 더 이상 필요하지 않습니다.
+   >많은 보고서를 신속하게 작성할 수 있습니다. 더 이상 필요하지 않은 보고서를 [삭제](/help/marketo/product-docs/reporting/basic-reporting/report-activity/delete-a-report.md)해야 합니다.
 
    >[!MORELIKETHIS]
    >
-   >다음을 수행할 수 있습니다. [보고서 시간대 변경](/help/marketo/product-docs/reporting/basic-reporting/editing-reports/change-a-report-time-frame.md), [기본 보고서 구독](/help/marketo/product-docs/reporting/basic-reporting/report-subscriptions/subscribe-to-a-basic-report.md), [보고서를 Excel로 내보내기](/help/marketo/product-docs/reporting/basic-reporting/report-activity/export-a-report-to-excel.md), [스마트 목록으로 보고서에서 사람 필터링](/help/marketo/product-docs/reporting/basic-reporting/editing-reports/filter-people-in-a-report-with-a-smart-list.md)등.
+   >[보고서 시간대를 변경](/help/marketo/product-docs/reporting/basic-reporting/editing-reports/change-a-report-time-frame.md), [기본 보고서 구독](/help/marketo/product-docs/reporting/basic-reporting/report-subscriptions/subscribe-to-a-basic-report.md), [Excel로 보고서 내보내기](/help/marketo/product-docs/reporting/basic-reporting/report-activity/export-a-report-to-excel.md), [스마트 목록으로 보고서에 있는 사람을 필터링](/help/marketo/product-docs/reporting/basic-reporting/editing-reports/filter-people-in-a-report-with-a-smart-list.md) 등을 수행할 수 있습니다.

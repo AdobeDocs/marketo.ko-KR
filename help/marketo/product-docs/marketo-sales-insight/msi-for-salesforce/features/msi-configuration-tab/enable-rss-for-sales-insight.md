@@ -19,19 +19,19 @@ ht-degree: 0%
 
 Marketo 사용자가 Salesforce뿐만 아니라 RSS 피드에서도 리드 피드를 보려면 Marketo 관리자가 먼저 이를 활성화해야 합니다. 쉽습니다.
 
-1. 내 Marketo에서 **관리자** 그런 다음 **Sales Insight**.
+1. 내 Marketo에서 **관리자**&#x200B;를 클릭한 다음 **판매 인사이트**&#x200B;를 클릭합니다.
 
    ![](assets/set-up-rss-1-hands.png)
 
-1. 설정에서 **편집**. RSS 피드는 다음과 같이 표시됩니다. **비활성화됨**.
+1. 설정에서 **편집**&#x200B;을 클릭합니다. RSS 피드가 **사용 안 함**(으)로 표시됩니다.
 
    ![](assets/rss-settings-tab.png)
 
-1. 설정 편집 대화 상자에서 **RSS 피드** 확인란 및 클릭 **저장**.
+1. 설정 편집 대화 상자에서 **RSS 피드** 확인란을 선택하고 **저장**&#x200B;을 클릭합니다.
 
    ![](assets/rss-edit-settings-2-hands.png)
 
-   이제 RSS 피드가 다음과 같이 표시됩니다. **활성화됨**.
+   이제 RSS 피드가 **사용**(으)로 표시됩니다.
 
    ![](assets/rss-final-box.png)
 

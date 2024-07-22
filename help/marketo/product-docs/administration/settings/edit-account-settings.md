@@ -19,18 +19,18 @@ ht-degree: 0%
 >
 >**관리자 권한 필요**
 
-1. 로 이동 **[!UICONTROL 관리자]** 영역입니다.
+1. **[!UICONTROL 관리자]** 영역으로 이동합니다.
 
    ![](assets/edit-account-settings-1.png)
 
-1. 선택 **[!UICONTROL 내 계정]**.
+1. **[!UICONTROL 내 계정]**&#x200B;을 선택하세요.
 
    ![](assets/edit-account-settings-2.png)
 
-1. 선택 **[!UICONTROL 계정 설정 편집]**.
+1. **[!UICONTROL 계정 설정 편집]**&#x200B;을 선택합니다.
 
    ![](assets/edit-account-settings-3.png)
 
-1. 편집하고 클릭 **[!UICONTROL 저장]**.
+1. 편집하고 **[!UICONTROL 저장]**&#x200B;을 클릭합니다.
 
    ![](assets/edit-account-settings-4.png)

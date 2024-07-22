@@ -15,7 +15,7 @@ ht-degree: 0%
 
 # 체크리스트 설정 {#setup-checklist}
 
-Marketo에 오신 것을 환영합니다! 다음 체크리스트를 시각적 할 일 목록으로 자유롭게 사용하여 작업을 시작할 수 있습니다. 세부 사항은 다음 위치에서 찾을 수 있습니다. [설정 단계](/help/marketo/getting-started/initial-setup/setup-steps.md){target="_blank"}.
+Marketo에 오신 것을 환영합니다! 다음 체크리스트를 시각적 할 일 목록으로 자유롭게 사용하여 작업을 시작할 수 있습니다. 자세한 내용은 [설치 단계](/help/marketo/getting-started/initial-setup/setup-steps.md){target="_blank"}에서 확인할 수 있습니다.
 
 ## Marketo에 로그인 및 추가 사용자 만들기 {#log-in-to-marketo-and-create-additional-users}
 
@@ -35,8 +35,8 @@ Marketo에 오신 것을 환영합니다! 다음 체크리스트를 시각적 �
 1. 브랜드 추적 링크에 대한 이메일 CNAME 선택
 1. IT 부서에 이메일 CNAME에 대한 DNS 레코드 설정 요청
 1. 허용 목록에 추가하다 IT에 질문하기 Marketo
-1. 에서 DKIM 및 SPF 설정 [!UICONTROL 관리자] 영역
-1. 용 MX 설정 `[FromDomain1]`
+1. [!UICONTROL 관리자] 영역에서 DKIM 및 SPF 설정
+1. `[FromDomain1]`에 대한 MX 설정
 1. 이메일 CNAME으로 완료되면 Marketo에서 이메일 CNAME을 설정합니다
 
 ## 랜딩 페이지 및 이메일 템플릿에 대한 URL 제출 {#submit-a-url-for-landing-page-and-email-templates}
@@ -53,4 +53,4 @@ Marketo에 오신 것을 환영합니다! 다음 체크리스트를 시각적 �
 
 >[!MORELIKETHIS]
 >
->[설정 단계](/help/marketo/getting-started/initial-setup/setup-steps.md){target="_blank"}
+>[설치 단계](/help/marketo/getting-started/initial-setup/setup-steps.md){target="_blank"}

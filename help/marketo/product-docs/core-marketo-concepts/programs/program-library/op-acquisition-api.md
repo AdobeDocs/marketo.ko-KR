@@ -2,11 +2,11 @@
 description: OP-Acquisition-API - Marketo 문서 - 제품 설명서
 title: OP-Acquisition-API
 feature: Programs
-exl-id: 1d6ec686-af0b-46a9-b428-1520b671ca24
-source-git-commit: 38274b4859ae38c018ee73d4f1715fdf6a78e815
+exl-id: abf7c4a0-c363-4e92-9a1f-197c3953c515
+source-git-commit: c16081143588ebc0793f5b6e2630b58348e27124
 workflow-type: tm+mt
 source-wordcount: '171'
-ht-degree: 1%
+ht-degree: 2%
 
 ---
 
@@ -28,12 +28,12 @@ ht-degree: 1%
    <td>운영</td> 
    <td>구성원</td>
    <td>운영</td>
-   <td>기본값</td>
+   <td>기본</td>
   </tr>
  </tbody> 
 </table>
 
-## 프로그램에 다음 자산이 포함되어 있습니다. {#program-contains-the-following-assets}
+## 프로그램에는 다음 Assets이 포함되어 있습니다 {#program-contains-the-following-assets}
 
 <table style="table-layout:auto"> 
  <tbody> 
@@ -65,19 +65,19 @@ ht-degree: 1%
 ## 충돌 규칙 {#conflict-rules}
 
 * **프로그램 태그**
-   * 이 구독에서 태그 만들기 - _추천_
+   * 이 구독에서 태그 만들기 - _권장_
    * 무시
 
-* **동일한 이름의 랜딩 페이지 템플릿**
-   * 원본 템플릿 복사 - _추천_
+* **같은 이름의 랜딩 페이지 템플릿**
+   * 원본 템플릿 복사 - _권장_
    * 대상 템플릿 사용
 
 * **이름이 같은 이미지**
-   * 두 파일 모두 보관 - _추천_
+   * 두 파일 모두 보관 - _권장_
    * 이 구독의 항목 바꾸기
 
-* **이름이 같은 이메일 템플릿**
-   * 두 템플릿 모두 유지 - _추천_
+* **같은 이름의 전자 메일 서식 파일**
+   * 두 템플릿 모두 보관 - _권장_
    * 기존 템플릿 바꾸기
 
 ## 우수 사례 {#best-practices}

@@ -6,14 +6,14 @@ exl-id: b3b5e14c-f914-429c-a4b9-6b535ad8e882
 feature: Salesforce Integration
 source-git-commit: 0087a5e88b8bd9601875f68a2e7cadeebdb5d682
 workflow-type: tm+mt
-source-wordcount: '140'
+source-wordcount: '134'
 ht-degree: 0%
 
 ---
 
 # SFDC 동기화: 리드 큐 {#sfdc-sync-lead-queue}
 
-Marketo Engage에 사용자를 추가할 수 있음 [Salesforce 리드 큐](https://help.salesforce.com/apex/HTViewHelpDoc?id=queues_overview.htm){target="_blank"} 리드 배포를 지원합니다. 세부사항은 다음과 같습니다.
+Marketo Engage을 사용하면 [Salesforce 리드 큐](https://help.salesforce.com/apex/HTViewHelpDoc?id=queues_overview.htm){target="_blank"}에 직원을 추가하여 리드 배포에 도움을 줄 수 있습니다. 세부사항은 다음과 같습니다.
 
 ## Marketo에서 대기열에 사람을 할당하는 방법 {#how-to-assign-a-person-to-a-queue-in-marketo}
 

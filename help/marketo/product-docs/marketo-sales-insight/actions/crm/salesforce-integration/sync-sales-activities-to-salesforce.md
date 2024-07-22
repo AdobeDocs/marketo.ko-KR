@@ -4,7 +4,7 @@ title: 영업 활동을 Salesforce에 동기화
 exl-id: fa13ced2-6184-485f-a0ef-813ccab4f0fe
 source-git-commit: 02354356949aef7aa8836d4753ec538b7819a65a
 workflow-type: tm+mt
-source-wordcount: '0'
+source-wordcount: '761'
 ht-degree: 0%
 
 ---
@@ -21,15 +21,15 @@ Salesforce 동기화 설정 작업을 구성하여 Salesforce에 이메일 및 �
 >
 >Salesforce 및 Sales Insight Actions 이 연결되어 있어야 합니다.
 
-1. Sales Insight Actions에서 톱니바퀴 아이콘을 클릭하고 **설정**.
+1. Sales Insight Actions에서 톱니바퀴 아이콘을 클릭하고 **설정**&#x200B;을 선택합니다.
 
    ![](assets/sync-sales-activities-to-salesforce-1.png)
 
-1. 관리자 설정 (또는 관리자가 아닌 경우 &quot;내 계정&quot;)에서 **Salesforce**.
+1. 관리자 설정(또는 관리자가 아닌 경우 &quot;내 계정&quot;)에서 **Salesforce**&#x200B;을 클릭합니다.
 
    ![](assets/sync-sales-activities-to-salesforce-2.png)
 
-1. 다음을 클릭합니다. **동기화 설정** 탭.
+1. **동기화 설정** 탭을 클릭합니다.
 
    ![](assets/sync-sales-activities-to-salesforce-3.png)
 
@@ -37,7 +37,7 @@ Salesforce 동기화 설정 작업을 구성하여 Salesforce에 이메일 및 �
 
    ![](assets/sync-sales-activities-to-salesforce-4.png)
 
-1. 다음을 클릭합니다. **Salesforce API** 탭. 이 카드에서 Salesforce에 정보를 기록하는 기본 설정을 지정할 수 있습니다. 클릭 **저장** 완료 시.
+1. **Salesforce API** 탭을 클릭합니다. 이 카드에서 Salesforce에 정보를 기록하는 기본 설정을 지정할 수 있습니다. 완료되면 **저장**&#x200B;을 클릭합니다.
 
    ![](assets/sync-sales-activities-to-salesforce-5.png)
 
@@ -49,21 +49,21 @@ Salesforce 동기화 설정 작업을 구성하여 Salesforce에 이메일 및 �
 >
 >Salesforce 및 Sales Insight Actions 이 연결되어 있어야 합니다.
 
-**이메일(BCC)을 통해 Salesforce에 이메일을 기록하려면**
+**BCC(전자 메일)를 통해 Salesforce에 전자 메일을 기록하려면**
 
-1. Marketo Sales에서 톱니바퀴 아이콘을 클릭하고 을 선택합니다. **설정**.
+1. Marketo Sales에서 톱니바퀴 아이콘을 클릭하고 **설정**&#x200B;을 선택합니다.
 
    ![](assets/sync-sales-activities-to-salesforce-6.png)
 
-1. 관리자 설정 (또는 관리자가 아닌 경우 &quot;내 계정&quot;)에서 **Salesforce**.
+1. 관리자 설정(또는 관리자가 아닌 경우 &quot;내 계정&quot;)에서 **Salesforce**&#x200B;을 클릭합니다.
 
    ![](assets/sync-sales-activities-to-salesforce-7.png)
 
-1. 다음을 클릭합니다. **동기화 설정** 탭.
+1. **동기화 설정** 탭을 클릭합니다.
 
    ![](assets/sync-sales-activities-to-salesforce-8.png)
 
-1. 다음을 클릭합니다. **Salesforce로 이메일 보내기(BCC)** tab 키를 누른 다음 클릭 **활성화**.
+1. **BCC(Salesforce로 전자 메일 보내기)** 탭을 클릭하고 **활성화**&#x200B;를 클릭합니다.
 
    ![](assets/sync-sales-activities-to-salesforce-9.png)
 
@@ -71,14 +71,14 @@ Salesforce 동기화 설정 작업을 구성하여 Salesforce에 이메일 및 �
 
 1. Salesforce 인스턴스에 로그인합니다.
 1. 오른쪽 상단 모서리에서 사용자 이름을 찾고 드롭다운 막대를 선택합니다.
-1. 선택 **내 설정**.
-1. 선택 **이메일**.
-1. 선택 **Salesforce에 보낸 내 이메일**.
+1. **내 설정**&#x200B;을 선택하세요.
+1. **전자 메일**&#x200B;을 선택하세요.
+1. **Salesforce로 보내는 내 전자 메일**&#x200B;을 선택합니다.
 1. 이 페이지에는 &quot;Salesforce 주소로 이메일&quot;이라는 레이블이 지정된 필드가 표시됩니다. 옆에 채워진 항목이 없으면 아래로 스크롤하여 &quot;허용 가능한 내 이메일 주소&quot;를 표시합니다.
 1. 숨은 참조를 보낼 이메일 주소를 입력합니다.
-1. 클릭 **변경 내용 저장**.
+1. **변경 내용 저장**&#x200B;을 클릭합니다.
 
-**내 설정에서 Salesforce로 보내는 내 이메일을 찾을 수 없음**
+**내 설정에서 Salesforce로 보내는 전자 메일을 찾을 수 없습니다**
 
 설정에서 Salesforce로 보내는 내 이메일이 표시되지 않으면 관리자가 활성화하지 않았을 수 있습니다. 이 문제는 팀이 Salesforce를 처음 사용하거나 팀이 Salesforce에서 제공하는 BCC 주소를 사용한 적이 없는 경우 발생할 수 있습니다.
 
@@ -86,24 +86,24 @@ Salesforce 동기화 설정 작업을 구성하여 Salesforce에 이메일 및 �
 >
 >이를 설정하려면 관리자 권한이 필요합니다.
 
-1. 클릭 **설정**.
-1. 클릭 **이메일 관리**.
-1. 클릭 **Salesforce로 이메일 보내기**.
-1. 클릭 **편집**.
+1. **설치**&#x200B;를 클릭합니다.
+1. **전자 메일 관리**&#x200B;를 클릭합니다.
+1. **Salesforce로 전자 메일 보내기**&#x200B;를 클릭합니다.
+1. **편집**&#x200B;을 클릭합니다.
 1. &quot;활성&quot; 옆에 있는 상자를 선택합니다.
-1. 클릭 **저장**.
+1. **저장**&#x200B;을 클릭합니다.
 
 ## Sales Insight 작업 작업/미리 알림을 Salesforce 작업에 동기화 {#sync-sales-insight-actions-tasks-reminders-to-salesforce-tasks}
 
-1. Sales Insight Actions에서 톱니바퀴 아이콘을 클릭하고 **설정**.
+1. Sales Insight Actions에서 톱니바퀴 아이콘을 클릭하고 **설정**&#x200B;을 선택합니다.
 
    ![](assets/sync-sales-activities-to-salesforce-10.png)
 
-1. 관리자 설정 (또는 관리자가 아닌 경우 &quot;내 계정&quot;)에서 **Salesforce**.
+1. 관리자 설정(또는 관리자가 아닌 경우 &quot;내 계정&quot;)에서 **Salesforce**&#x200B;을 클릭합니다.
 
    ![](assets/sync-sales-activities-to-salesforce-11.png)
 
-1. 다음을 클릭합니다. **동기화 설정** 탭.
+1. **동기화 설정** 탭을 클릭합니다.
 
    ![](assets/sync-sales-activities-to-salesforce-12.png)
 

@@ -17,11 +17,11 @@ ht-degree: 0%
 
 ## 프로그램 포커스 활성화 {#enable-program-focus}
 
-1. 다음을 클릭합니다. **[!UICONTROL 캘린더]** 타일.
+1. **[!UICONTROL 달력]** 타일을 클릭합니다.
 
    ![](assets/2017-05-10-15-30-47-3.png)
 
-1. 포커스를 둘 프로그램에 속하는 항목을 선택하고 **[!UICONTROL 프로그램 포커스 표시]**.
+1. 초점을 맞출 프로그램에 속한 항목을 선택하고 **[!UICONTROL 프로그램 포커스 표시]**&#x200B;를 클릭합니다.
 
    ![](assets/image2014-10-20-13-3a16-3a7.png)
 
@@ -67,4 +67,4 @@ ht-degree: 0%
 
 >[!MORELIKETHIS]
 >
->[마케팅 달력에서 바로 항목 삭제](/help/marketo/product-docs/core-marketo-concepts/marketing-calendar/working-with-the-calendar/delete-entries-directly-in-the-marketing-calendar.md){target="_blank"}
+>[마케팅 일정에서 바로 항목 삭제](/help/marketo/product-docs/core-marketo-concepts/marketing-calendar/working-with-the-calendar/delete-entries-directly-in-the-marketing-calendar.md){target="_blank"}

@@ -7,7 +7,7 @@ feature: Administration
 source-git-commit: 02b2e39580c5eac63de4b4b7fdaf2a835fdd4ba5
 workflow-type: tm+mt
 source-wordcount: '100'
-ht-degree: 0%
+ht-degree: 2%
 
 ---
 
@@ -19,22 +19,22 @@ ht-degree: 0%
 >
 >**관리자 권한 필요**
 
-1. 로 이동 **[!UICONTROL 관리자]** 섹션.
+1. **[!UICONTROL 관리자]** 섹션으로 이동합니다.
 
    ![](assets/edit-link-expiration-in-reports-and-alerts-1.png)
 
-1. 클릭 **[!UICONTROL 로그인 설정]**.
+1. **[!UICONTROL 로그인 설정]**&#x200B;을 클릭합니다.
 
    ![](assets/edit-link-expiration-in-reports-and-alerts-2.png)
 
-1. 클릭 **[!UICONTROL URL 만료 편집]**.
+1. **[!UICONTROL URL 만료 편집]**&#x200B;을 클릭합니다.
 
    ![](assets/edit-link-expiration-in-reports-and-alerts-3.png)
 
-1. 드롭다운에서 링크가 만료될 때까지 남은 일 수를 선택합니다. 클릭 **[!UICONTROL 저장]**.
+1. 드롭다운에서 링크가 만료될 때까지 남은 일 수를 선택합니다. **[!UICONTROL 저장]**&#x200B;을 클릭합니다.
 
    ![](assets/edit-link-expiration-in-reports-and-alerts-4.png)
 
 >[!IMPORTANT]
 >
->이 설정은 보고서 및 경고의 링크에만 적용됩니다. 그렇습니다 **아님** 전자 메일에 적용 [보고서 다운로드](/help/marketo/product-docs/reporting/basic-reporting/report-subscriptions/subscribe-to-a-smart-list.md#email-message) 링크 또는 마케팅 이메일.
+>이 설정은 보고서 및 경고의 링크에만 적용됩니다. 이메일 [보고서 다운로드](/help/marketo/product-docs/reporting/basic-reporting/report-subscriptions/subscribe-to-a-smart-list.md#email-message) 링크 또는 마케팅 이메일에는 **적용되지**&#x200B;않습니다.

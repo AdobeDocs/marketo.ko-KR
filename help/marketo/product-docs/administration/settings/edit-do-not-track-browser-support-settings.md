@@ -6,7 +6,7 @@ exl-id: 22248911-21e9-4e13-9132-22415aa114fc
 feature: Administration
 source-git-commit: 02b2e39580c5eac63de4b4b7fdaf2a835fdd4ba5
 workflow-type: tm+mt
-source-wordcount: '133'
+source-wordcount: '128'
 ht-degree: 0%
 
 ---
@@ -23,19 +23,19 @@ ht-degree: 0%
 >
 >&quot;추적 안 함&quot;은 기본적으로 &quot;무시&quot;로 설정되므로, 원하는 경우 별도의 조치를 취할 필요가 없습니다.
 
-1. 클릭 **[!UICONTROL 관리자]**.
+1. **[!UICONTROL 관리자]**&#x200B;를 클릭합니다.
 
    ![](assets/edit-do-not-track-browser-support-settings-1.png)
 
-1. 클릭 **[!UICONTROL 먼치킨]**.
+1. **[!UICONTROL Munchkin]**&#x200B;을(를) 클릭합니다.
 
    ![](assets/edit-do-not-track-browser-support-settings-2.png)
 
-1. 아래 **[!UICONTROL 개인 추적]**, 클릭 **[!UICONTROL 편집]**.
+1. **[!UICONTROL 개인 추적]**&#x200B;에서 **[!UICONTROL 편집]**&#x200B;을 클릭하세요.
 
    ![](assets/edit-do-not-track-browser-support-settings-3.png)
 
-1. 선택 **[!UICONTROL 지원]** 및 클릭 **[!UICONTROL 저장]**.
+1. **[!UICONTROL 지원]**&#x200B;을 선택하고 **[!UICONTROL 저장]**&#x200B;을 클릭합니다.
 
    ![](assets/edit-do-not-track-browser-support-settings-4.png)
 
@@ -49,4 +49,4 @@ ht-degree: 0%
 
    >[!TIP]
    >
-   >&quot;Do Not Track&quot; 및 작동 방식에 대한 자세한 내용은 다음을 참조하십시오. [이 페이지](https://en.wikipedia.org/wiki/Do_Not_Track).
+   >&quot;추적 안 함&quot; 및 작동 방식에 대한 자세한 내용은 [이 페이지](https://en.wikipedia.org/wiki/Do_Not_Track)를 참조하세요.

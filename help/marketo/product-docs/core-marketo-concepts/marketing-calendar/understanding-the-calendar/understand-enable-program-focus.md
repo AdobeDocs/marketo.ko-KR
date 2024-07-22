@@ -6,20 +6,20 @@ exl-id: 90de3d93-d243-451d-8df3-5e2732919615
 feature: Marketing Calendar
 source-git-commit: 02b2e39580c5eac63de4b4b7fdaf2a835fdd4ba5
 workflow-type: tm+mt
-source-wordcount: '147'
+source-wordcount: '151'
 ht-degree: 0%
 
 ---
 
 # 프로그램 포커스 이해/활성화 {#understand-enable-program-focus}
 
-마케팅 캘린더에서는 사물을 한눈에 볼 수 있지만, 몇 가지 상호 작용도 가능합니다. 다음을 수행할 수 있습니다. [만들기](/help/marketo/product-docs/core-marketo-concepts/marketing-calendar/working-with-the-calendar/create-entries-directly-in-the-marketing-calendar.md){target="_blank"}, [edit](/help/marketo/product-docs/core-marketo-concepts/marketing-calendar/working-with-the-calendar/edit-entries-directly-in-the-marketing-calendar.md){target="_blank"}, [delete](/help/marketo/product-docs/core-marketo-concepts/marketing-calendar/working-with-the-calendar/delete-entries-directly-in-the-marketing-calendar.md){target="_blank"}, and [confirm](/help/marketo/product-docs/core-marketo-concepts/marketing-calendar/working-with-the-calendar/confirm-entries-directly-in-the-marketing-calendar.md){target="_blank"} 항목. 항목과 상호 작용하려면 먼저 프로그램에 중점을 두어야 합니다.
+마케팅 캘린더에서는 사물을 한눈에 볼 수 있지만, 몇 가지 상호 작용도 가능합니다. 항목을 [만들기](/help/marketo/product-docs/core-marketo-concepts/marketing-calendar/working-with-the-calendar/create-entries-directly-in-the-marketing-calendar.md){target="_blank"}, [편집](/help/marketo/product-docs/core-marketo-concepts/marketing-calendar/working-with-the-calendar/edit-entries-directly-in-the-marketing-calendar.md){target="_blank"}, [삭제](/help/marketo/product-docs/core-marketo-concepts/marketing-calendar/working-with-the-calendar/delete-entries-directly-in-the-marketing-calendar.md){target="_blank"} 및 [확인](/help/marketo/product-docs/core-marketo-concepts/marketing-calendar/working-with-the-calendar/confirm-entries-directly-in-the-marketing-calendar.md){target="_blank"}할 수 있습니다. 항목과 상호 작용하려면 먼저 프로그램에 중점을 두어야 합니다.
 
-1. 로 이동 **마케팅 캘린더**.
+1. **마케팅 일정**(으)로 이동합니다.
 
    ![](assets/2017-05-10-15-30-47-1.png)
 
-1. 항목을 선택하고 **[!UICONTROL 프로그램 포커스 표시]**.
+1. 항목을 선택하고 **[!UICONTROL 프로그램 포커스 표시]**&#x200B;를 클릭합니다.
 
    ![](assets/image2014-10-20-13-3a24-3a3.png)
 
@@ -39,7 +39,7 @@ ht-degree: 0%
 
 >[!MORELIKETHIS]
 >
->* [마케팅 달력에서 바로 항목 만들기](/help/marketo/product-docs/core-marketo-concepts/marketing-calendar/working-with-the-calendar/create-entries-directly-in-the-marketing-calendar.md){target="_blank"}
->* [마케팅 달력에서 바로 항목 편집](/help/marketo/product-docs/core-marketo-concepts/marketing-calendar/working-with-the-calendar/edit-entries-directly-in-the-marketing-calendar.md){target="_blank"}
->* [마케팅 달력에서 바로 항목 삭제](/help/marketo/product-docs/core-marketo-concepts/marketing-calendar/working-with-the-calendar/delete-entries-directly-in-the-marketing-calendar.md){target="_blank"}
->* [마케팅 달력에서 바로 항목 확인](/help/marketo/product-docs/core-marketo-concepts/marketing-calendar/working-with-the-calendar/confirm-entries-directly-in-the-marketing-calendar.md){target="_blank"}
+>* [마케팅 일정에서 바로 항목 만들기](/help/marketo/product-docs/core-marketo-concepts/marketing-calendar/working-with-the-calendar/create-entries-directly-in-the-marketing-calendar.md){target="_blank"}
+>* [마케팅 일정에서 바로 항목 편집](/help/marketo/product-docs/core-marketo-concepts/marketing-calendar/working-with-the-calendar/edit-entries-directly-in-the-marketing-calendar.md){target="_blank"}
+>* [마케팅 일정에서 바로 항목 삭제](/help/marketo/product-docs/core-marketo-concepts/marketing-calendar/working-with-the-calendar/delete-entries-directly-in-the-marketing-calendar.md){target="_blank"}
+>* [마케팅 일정에서 바로 항목 확인](/help/marketo/product-docs/core-marketo-concepts/marketing-calendar/working-with-the-calendar/confirm-entries-directly-in-the-marketing-calendar.md){target="_blank"}

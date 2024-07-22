@@ -17,19 +17,19 @@ ht-degree: 0%
 
 ## 복제 캠페인 만들기 {#create-a-clone-campaign}
 
-1. 다음으로 이동 **웹 캠페인**.
+1. **웹 캠페인**(으)로 이동합니다.
 
    ![](assets/image2016-8-18-16-3a44-3a0.png)
 
    >[!NOTE]
    >
-   >원하는 웹 캠페인을 더 쉽게 찾을 수 있도록 하려면 [필터 기능](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/filter-web-campaigns.md).
+   >원하는 웹 캠페인을 더 쉽게 찾으려면 [필터 기능](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/filter-web-campaigns.md)을 사용하세요.
 
-1. 웹 캠페인의 경우 **복제**.
+1. 웹 캠페인의 경우 **복제**&#x200B;를 클릭합니다.
 
    ![](assets/web-campaigns-1-clone-hand.png)
 
-1. 캠페인 복제 프로세스는 기존 웹 캠페인의 모든 콘텐츠를 새로운 복제된 캠페인으로 복사합니다. 새로운 복제된 웹 캠페인의 제목은 &quot;[캠페인 이름] 복사&quot;.
+1. 캠페인 복제 프로세스는 기존 웹 캠페인의 모든 콘텐츠를 새로운 복제된 캠페인으로 복사합니다. 새 복제된 웹 캠페인에 &quot;[캠페인 이름] 복사본&quot;이 부여되었습니다.
 
    ![](assets/image2016-8-18-17-3a8-3a27.png)
 
@@ -40,5 +40,5 @@ ht-degree: 0%
 >[!MORELIKETHIS]
 >
 >* [대화 상자 캠페인 만들기](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/create-a-new-dialog-web-campaign.md)
->* [Zone Campaign에서 RTP 생성](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/create-a-new-in-zone-web-campaign.md)
+>* [영역 캠페인에 RTP 만들기](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/create-a-new-in-zone-web-campaign.md)
 >* [RTP 위젯 캠페인 만들기](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/create-a-new-widget-web-campaign.md)

@@ -15,7 +15,7 @@ ht-degree: 0%
 
 인앱 메시지 또는 푸시 알림을 만들려면 먼저 개발자에게 Android 및 iOS 플랫폼용 Mobile App SDK를 설정하고 초기화하도록 해야 합니다.
 
-* [Android용 지침](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/mobile/installation#how-to-install-marketo-sdk-on-android)
+* [Android 지침](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/mobile/installation#how-to-install-marketo-sdk-on-android)
 * [iOS 지침](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/mobile/installation#how-to-install-marketo-sdk-on-ios)
 
 ## 개발자에게 SDK 코드 보내기 {#send-sdk-code-to-a-developer-1}
@@ -26,11 +26,11 @@ ht-degree: 0%
 
 이렇게 하면 됩니다.
 
-1. 클릭 **관리자**.
+1. **관리자**&#x200B;를 클릭합니다.
 
    ![](assets/image2015-4-22-16-3a12-3a32.png)
 
-1. 선택 **모바일 앱**.
+1. **모바일 앱**&#x200B;을 선택하세요.
 
    ![](assets/image2015-4-22-16-3a14-3a29.png)
 
@@ -38,11 +38,11 @@ ht-degree: 0%
 
    ![](assets/image2015-4-22-16-3a33-3a19.png)
 
-1. 클릭 **모바일 앱 작업** 및 선택 **개발자에게 보내기**.
+1. **모바일 앱 작업**&#x200B;을 클릭하고 **개발자에게 보내기**&#x200B;를 선택합니다.
 
    ![](assets/image2015-4-22-17-3a13-3a30.png)
 
-1. 이메일 주소를 입력하고 클릭 **보내기**.
+1. 전자 메일 주소를 입력하고 **보내기**&#x200B;를 클릭하세요.
 
    ![](assets/image2015-4-22-18-3a51-3a54.png)
 

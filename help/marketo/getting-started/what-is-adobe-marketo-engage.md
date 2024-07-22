@@ -47,7 +47,7 @@ Marketo Engage은 마케팅 목표를 달성하는 데 도움이 되는 다양�
 
 ## 설정이 필요합니까? {#do-i-need-to-do-any-setup}
 
-예, 수행해야 하는 몇 가지 단계가 있습니다(또는 적극 권장). [여기에서 찾을 수 있습니다.](/help/marketo/getting-started/initial-setup/setup-steps.md){target="_blank"}.
+예, 수행해야 하는 몇 가지 단계가 있습니다(또는 적극 권장). [여기에서 찾을 수 있습니다](/help/marketo/getting-started/initial-setup/setup-steps.md){target="_blank"}.
 
 ## 설정이 완료될 때까지 기다려야 알 수 있습니까? {#do-i-have-to-wait-until-setup-is-finished-to-learn}
 
@@ -55,11 +55,11 @@ Marketo Engage은 마케팅 목표를 달성하는 데 도움이 되는 다양�
 
 ## 일주일에 보낼 수 있는 총 이메일 수와 같이 제한을 포함하는 목록이 있습니까? {#list-of-limits}
 
-있습니다. 정적 제한(및 기타 매개 변수)의 윤곽선이 표시됩니다 [이 문서에서](https://helpx.adobe.com/legal/product-descriptions/adobe-marketo-engage---product-description.html#performance-guardrails){target="_blank"}.
+있습니다. 정적 제한(및 기타 매개 변수)은 이 문서에서 [요약되어 있습니다](https://helpx.adobe.com/legal/product-descriptions/adobe-marketo-engage---product-description.html#performance-guardrails){target="_blank"}.
 
 ## Marketo은 내 데이터를 얼마나 오래 보관합니까? {#data-retention-policy}
 
-검토하십시오. [이 Marketing Nation 블로그 글](https://nation.marketo.com/t5/knowledgebase/marketo-activities-data-retention-policy-overview-amp-faq/ta-p/250750){target="_blank"} 을 참조하십시오.
+자세한 내용은 [이 Marketing Nation 블로그 게시물](https://nation.marketo.com/t5/knowledgebase/marketo-activities-data-retention-policy-overview-amp-faq/ta-p/250750){target="_blank"}을 검토하세요.
 
 <br>
 

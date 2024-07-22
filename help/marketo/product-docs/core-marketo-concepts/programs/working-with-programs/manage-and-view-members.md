@@ -17,13 +17,13 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->자세히 알아보기 [프로그램 멤버십](/help/marketo/product-docs/core-marketo-concepts/programs/creating-programs/understanding-program-membership.md){target="_blank"}.
+>[프로그램 멤버십](/help/marketo/product-docs/core-marketo-concepts/programs/creating-programs/understanding-program-membership.md){target="_blank"}에 대해 자세히 알아보세요.
 
 ## 구성원 검색 {#search-for-a-member}
 
 멤버 섹션 하단에서 검색 필드를 사용하여 이름, 이메일, 직함 또는 회사별로 프로그램 멤버를 검색합니다.
 
-1. 다음을 클릭합니다. **[!UICONTROL 구성원]** 프로그램 탭
+1. 프로그램의 **[!UICONTROL 구성원]** 탭을 클릭합니다.
 
    ![](assets/image2014-10-1-16-3a0-3a29.png)
 
@@ -49,21 +49,21 @@ ht-degree: 0%
 
 ## 그리드에 표시할 열 선택 {#choose-which-columns-are-visible-in-the-grid}
 
-1. 다음을 클릭합니다. **[!UICONTROL 보기]** 드롭다운 및 선택 **[!UICONTROL 보기 만들기]**.
+1. **[!UICONTROL 보기]** 드롭다운을 클릭하고 **[!UICONTROL 보기 만들기]**&#x200B;를 선택합니다.
 
    ![](assets/image2014-10-1-16-3a32-3a43.png)
 
-1. 사용자 정의 보기에 이름을 지정합니다. 열 제목을 선택합니다. 클릭 **[!UICONTROL 추가]** 및 **[!UICONTROL 제거]** 열을 이동하고 보기를 만들 수 있습니다.
+1. 사용자 정의 보기에 이름을 지정합니다. 열 제목을 선택합니다. 열을 이동하고 보기를 만들려면 **[!UICONTROL 추가]** 및 **[!UICONTROL 제거]**&#x200B;를 클릭하십시오.
 
    ![](assets/image2014-10-1-16-3a36-3a52.png)
 
-1. Click **[!UICONTROL Create]**.
+1. **[!UICONTROL 만들기]**&#x200B;를 클릭합니다.
 
    ![](assets/image2014-10-1-16-3a38-3a7.png)
 
 ## 멤버 그리드 필터링  {#filter-the-members-grid}
 
-1. 다음을 클릭합니다. **[!UICONTROL 필터]** 드롭다운을 클릭하고 정렬할 승급 단계를 선택합니다.
+1. **[!UICONTROL 필터]** 드롭다운을 클릭하고 정렬할 진행률 단계를 선택하십시오.
 
    ![](assets/image2014-10-1-16-3a42-3a4.png)
 
@@ -71,11 +71,11 @@ ht-degree: 0%
 
 멤버 그리드 내에서 사용자의 상태를 변경할 수 있습니다.
 
-1. 누르고 있음 **[!UICONTROL Ctrl/Cmd]** 사람을 선택합니다.
+1. **[!UICONTROL Ctrl/Cmd]**&#x200B;을 누른 채 사람을 선택하세요.
 
    ![](assets/image2014-10-1-16-3a44-3a27.png)
 
-1. 다음을 클릭합니다. **[!UICONTROL 상태 변경]** 드롭다운을 클릭하고 상태를 선택합니다.
+1. **[!UICONTROL 상태 변경]** 드롭다운을 클릭하고 상태를 선택합니다.
 
    ![](assets/image2014-10-1-16-3a47-3a45.png)
 

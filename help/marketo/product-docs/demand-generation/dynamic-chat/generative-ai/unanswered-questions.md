@@ -18,11 +18,11 @@ ht-degree: 0%
 >
 >답변되지 않은 질문 목록은 24시간마다 자정(PST)에 자동으로 새로 고쳐집니다.
 
-1. 생성 AI에서 **[!UICONTROL 지원 응답]**.
+1. 생성 AI에서 **[!UICONTROL 지원 응답]**&#x200B;을 클릭합니다.
 
    ![](assets/unanswered-questions-1.png)
 
-1. 다음을 클릭합니다. **[!UICONTROL 답변되지 않은 질문]** 탭.
+1. **[!UICONTROL 답변되지 않은 질문]** 탭을 클릭합니다.
 
    ![](assets/unanswered-questions-2.png)
 
@@ -30,7 +30,7 @@ ht-degree: 0%
 
    ![](assets/unanswered-questions-3.png)
 
-1. 응답을 입력합니다. 주제를 할당하고 사용자가 방문자와 공유할 수 있는 선택적 URL을 추가합니다. 클릭 **[!UICONTROL 저장]** 완료 시.
+1. 응답을 입력합니다. 주제를 할당하고 사용자가 방문자와 공유할 수 있는 선택적 URL을 추가합니다. 완료되면 **[!UICONTROL 저장]**&#x200B;을 클릭합니다.
 
    ![](assets/unanswered-questions-4.png)
 

@@ -6,7 +6,7 @@ exl-id: e8d1e7e9-caea-43a0-b87a-428a649e95d2
 feature: Reporting, Revenue Cycle Analytics
 source-git-commit: d20a9bb584f69282eefae3704ce4be2179b29d0b
 workflow-type: tm+mt
-source-wordcount: '563'
+source-wordcount: '564'
 ht-degree: 0%
 
 ---
@@ -17,7 +17,7 @@ ht-degree: 0%
 
 ## 정신 모델(이에 대한 생각 방법) {#mental-model-how-to-think-about-this-thing}
 
-모델러는 물이 든 일련의 양동이와 같다. 양동이의 바닥에 구멍이 뚫려 있다.
+Modeler은 물이 담긴 일련의 양동이와 같다. 양동이의 바닥에 구멍이 뚫려 있다.
 
 ![](assets/image2015-6-12-10-3a14-3a4.png)
 
@@ -37,11 +37,11 @@ ht-degree: 0%
 
 ![](assets/image2015-6-12-9-3a43-3a11.png)
 
-모두 녹색 배경에 있습니다. 이를 라고 합니다. **성공 경로**. 성공 경로에 대해 자세히 알아보기 [여기](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-cycle-models/understanding-revenue-model-success-path.md).
+모두 녹색 배경에 있습니다. 이를 **성공 경로**&#x200B;라고 합니다. 성공 경로 [여기](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-cycle-models/understanding-revenue-model-success-path.md)에 대해 자세히 알아보세요.
 
-**단계** 목표를 향한 잠재 고객 진행에 대한 이정표입니다.
+**단계**&#x200B;은(는) 목표를 향한 잠재 고객 진행에 대한 이정표입니다.
 
-**전환** 는 화살표로 표시되며 단계 간에 리드가 이동하는 방식을 제어합니다.
+**전환**&#x200B;은 화살표로 표시되며 단계 간 잠재 고객 이동 방식을 제어합니다.
 
 >[!NOTE]
 >
@@ -59,7 +59,7 @@ ht-degree: 0%
 
 ## SLA 단계 {#sla-stage}
 
-이것은 의 약어입니다. **서비스 수준 계약** 스테이지. 여기서의 목적은 시간 제한을 적용하려는 일부 단계입니다.
+**서비스 수준 계약** 단계에 대한 약어입니다. 여기서의 목적은 시간 제한을 적용하려는 일부 단계입니다.
 
 >[!NOTE]
 >
@@ -75,7 +75,7 @@ ht-degree: 0%
 >
 >**예**
 >
->게이트는 의 일부인 리드에게 사용될 수 있습니다. **명명된 계정 목록** 일반 프로세스와 분리하기 위해
+>**명명된 계정 목록**&#x200B;에 속하는 잠재 고객에 대해서는 게이트를 사용하여 일반 프로세스와 분리할 수 있습니다.
 
 ## 전환 {#transitions}
 
@@ -97,12 +97,12 @@ Lost는 추가하기에 좋은 것이지만 녹색 경로에 있지 않습니다
 >
 >* [새 수익 모델 만들기](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-cycle-models/create-a-new-revenue-model.md)
 >
->* [수익 모델 재고 단계 사용](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-cycle-models/using-revenue-model-inventory-stages.md)
+>* [수익 모델 인벤토리 단계 사용](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-cycle-models/using-revenue-model-inventory-stages.md)
 >
 >* [수익 모델 게이트 단계 사용](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-cycle-models/using-revenue-model-gate-stages.md)
 >
 >* [수익 모델 SLA 단계 사용](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-cycle-models/using-revenue-model-sla-stages.md)
 >
->* [수익 모델에 대한 보고서](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-cycle-models/report-on-your-revenue-model.md)
+>* [수익 모델 보고](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-cycle-models/report-on-your-revenue-model.md)
 >
 >* [수익 모델 승인/승인 취소](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-cycle-models/approve-unapprove-a-revenue-model.md)

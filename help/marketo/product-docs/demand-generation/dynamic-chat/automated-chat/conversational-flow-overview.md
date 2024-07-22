@@ -41,14 +41,14 @@ ht-degree: 0%
   </tr>
   <tr>
    <td>챗봇 대화는 대화 상자를 통해 제공됩니다.</td>
-   <td><a href="/help/marketo/product-docs/demand-generation/dynamic-chat/automated-chat/conversational-flow-settings-for-marketo-engage-forms.md" target="_blank">대화형 Forms</a> Marketo Engage에서 는 대화형 흐름으로 구동됩니다.</td>
+   <td>Marketo Engage의 <a href="/help/marketo/product-docs/demand-generation/dynamic-chat/automated-chat/conversational-flow-settings-for-marketo-engage-forms.md" target="_blank">대화형 Forms</a>은(는) 대화형 흐름을 통해 제공됩니다.</td>
   </tr>
  </tbody> 
 </table>
 
-## 스트림 디자이너 탭 {#stream-designer-tab}
+## 스트림 Designer 탭 {#stream-designer-tab}
 
-대화형 흐름의 스트림 디자이너는 대화 상자의 스트림 디자이너와 거의 동일합니다. [여기에서 자세히 알아보기](/help/marketo/product-docs/demand-generation/dynamic-chat/automated-chat/stream-designer.md){target="_blank"}.
+대화형 흐름에 대한 스트림 Designer은 대화 상자에 대한 스트림과 거의 동일합니다. [여기에서 자세히 알아보세요](/help/marketo/product-docs/demand-generation/dynamic-chat/automated-chat/stream-designer.md){target="_blank"}.
 
 ![](assets/conversational-flow-overview-2.png)
 
@@ -82,7 +82,7 @@ ht-degree: 0%
 
 >[!TIP]
 >
->다음을 참조하십시오 [대화 SDK](https://experienceleague.adobe.com/tools/marketo-dynamic-chatbot/conversations-sdk/){target="_blank"} 전투 중!
+>작동 중인 [대화 SDK](https://experienceleague.adobe.com/tools/marketo-dynamic-chatbot/conversations-sdk/){target="_blank"}을(를) 참조하세요!
 
 >[!MORELIKETHIS]
 >

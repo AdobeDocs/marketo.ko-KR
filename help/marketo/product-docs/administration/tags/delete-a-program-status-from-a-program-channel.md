@@ -15,19 +15,19 @@ ht-degree: 0%
 
 프로그램 상태는 프로그램 경로(채널)를 통한 체크포인트입니다. 실수로 상태를 만들거나 더 이상 필요하지 않은 경우 언제든지 삭제할 수 있습니다.
 
-1. 로 이동 **[!UICONTROL 관리자]** 영역입니다.
+1. **[!UICONTROL 관리자]** 영역으로 이동합니다.
 
    ![](assets/delete-a-program-status-from-a-program-channel-1.png)
 
-1. 클릭 **[!UICONTROL 태그]**.
+1. **[!UICONTROL 태그]**&#x200B;를 클릭합니다.
 
    ![](assets/delete-a-program-status-from-a-program-channel-2.png)
 
-1. 상태를 제거할 채널을 선택한 다음 아래에서 **[!UICONTROL 태그 작업]**, 클릭 **[!UICONTROL 편집]**.
+1. 상태를 제거할 채널을 선택한 다음 **[!UICONTROL 태그 작업]**&#x200B;에서 **[!UICONTROL 편집]**&#x200B;을 클릭합니다.
 
    ![](assets/delete-a-program-status-from-a-program-channel-3.png)
 
-1. 빨간색을 클릭합니다 **X** 상태를 제거하려면 **[!UICONTROL 저장]**.
+1. 빨간색 **X**&#x200B;을 클릭하여 상태를 제거한 다음 **[!UICONTROL 저장]**&#x200B;을 클릭합니다.
 
    ![](assets/delete-a-program-status-from-a-program-channel-4.png)
 
@@ -35,4 +35,4 @@ ht-degree: 0%
    >
    >해당 상태에 현재 할당된 사용자가 있는 경우 삭제할 수 없지만 숨길 수 있습니다.
 
-잘했어! 다음을 수행할 수도 있습니다. [전체 채널 삭제](/help/marketo/product-docs/administration/tags/delete-a-program-channel.md) 필요하면
+잘했어! 필요한 경우 [전체 채널을 삭제](/help/marketo/product-docs/administration/tags/delete-a-program-channel.md)할 수도 있습니다.

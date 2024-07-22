@@ -21,34 +21,34 @@ ht-degree: 0%
 
 ## 신뢰할 수 없는 원본에서 필드 업데이트 차단 {#blocking-field-updates-from-untrusted-sources}
 
-1. 로 이동 **[!UICONTROL 관리자]** 영역입니다.
+1. **[!UICONTROL 관리자]** 영역으로 이동합니다.
 
    ![](assets/blocking-field-updates-from-untrusted-sources-1.png)
 
-1. 클릭 **[!UICONTROL 필드 관리]**.
+1. **[!UICONTROL 필드 관리]**&#x200B;를 클릭합니다.
 
    ![](assets/blocking-field-updates-from-untrusted-sources-2.png)
 
-1. 원하는 필드를 찾아 선택한 다음 아래에 **[!UICONTROL 필드 작업]**, 클릭 **[!UICONTROL 필드 업데이트 차단]**.
+1. 원하는 필드를 찾아 선택한 다음 **[!UICONTROL 필드 작업]**&#x200B;에서 **[!UICONTROL 필드 업데이트 차단]**&#x200B;을 클릭합니다.
 
    ![](assets/blocking-field-updates-from-untrusted-sources-3.png)
 
-1. 확인 **[!UICONTROL 목록 가져오기 신뢰할 수 없음 소스]** 및 클릭 **[!UICONTROL 적용]**.
+1. **[!UICONTROL 신뢰할 수 없는 원본 목록 가져오기]**&#x200B;를 확인하고 **[!UICONTROL 적용]**&#x200B;을 클릭합니다.
 
    ![](assets/blocking-field-updates-from-untrusted-sources-4.png)
 
 >[!TIP]
 >
->또한 을 확인하여 신뢰할 수 있고 신뢰할 수 없는 모든 목록에서 필드를 안전하게 유지할 수 있습니다 **[!UICONTROL 목록 가져오기 신뢰할 수 있는 소스]**.
+>**[!UICONTROL 신뢰할 수 있는 원본 목록 가져오기]**&#x200B;를 선택하여 신뢰할 수 있고 신뢰할 수 없는 모든 목록에서 필드를 안전하게 유지할 수 있습니다.
 
 신뢰할 수 없는 목록에서 안전하게 보호할 다른 필드에 대해 위의 단계를 반복합니다.
 
 ## 신뢰할 수 없는 목록 가져오기 실행 {#running-an-untrusted-list-import}
 
-1. 목록 가져오기를 실행할 때 다음을 선택해야 합니다. **[!UICONTROL 신뢰할 수 없음]** 이전 단계에서 설정한 모든 필드를 안전하게 유지하려면
+1. 목록 가져오기를 실행할 때 이전 단계에서 설정한 모든 필드를 안전하게 하려면 **[!UICONTROL 신뢰할 수 없음]**&#x200B;을 선택하십시오.
 
    ![](assets/blocking-field-updates-from-untrusted-sources-5.png)
 
-목록 가져오기에 대한 자세한 지침은 [사람 목록 가져오기](/help/marketo/getting-started/quick-wins/import-a-list-of-people.md).
+목록 가져오기에 대한 자세한 지침은 [사람 목록 가져오기](/help/marketo/getting-started/quick-wins/import-a-list-of-people.md)를 참조하십시오.
 
 수고하셨습니다! 이제 신뢰할 수 없는 목록에서 키 필드를 안전하게 유지하는 방법을 알 수 있습니다.

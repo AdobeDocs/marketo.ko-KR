@@ -6,7 +6,7 @@ exl-id: e4fe0df7-5744-41e6-821f-942d247123fc
 feature: Getting Started
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
-source-wordcount: '158'
+source-wordcount: '166'
 ht-degree: 0%
 
 ---
@@ -24,7 +24,7 @@ ht-degree: 0%
 
 ## 업데이트해야 하는 사람 찾기 {#find-the-person-you-need-to-update}
 
-1. 다음으로 이동 **[!UICONTROL 데이터베이스]**.
+1. **[!UICONTROL 데이터베이스]**(으)로 이동합니다.
 
    ![](assets/update-person-data-1.png)
 
@@ -42,7 +42,7 @@ ht-degree: 0%
 
    >[!TIP]
    >
-   >Marketo에서 개인 데이터를 업데이트하는 방법에는 여러 가지가 있습니다. 다음을 참조하십시오 [사람 목록 가져오기](/help/marketo/getting-started/quick-wins/import-a-list-of-people.md){target="_blank"} and [Change Data Value](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/change-data-value.md){target="_blank"}.
+   >Marketo에서 개인 데이터를 업데이트하는 방법에는 여러 가지가 있습니다. [사람 목록 가져오기](/help/marketo/getting-started/quick-wins/import-a-list-of-people.md){target="_blank"} 및 [데이터 값 변경](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/change-data-value.md){target="_blank"}을 참조하세요.
 
 ## 개인 데이터 업데이트 {#update-the-person-data}
 

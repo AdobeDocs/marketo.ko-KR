@@ -17,13 +17,13 @@ ht-degree: 0%
 >
 >* [세분화 만들기](/help/marketo/product-docs/personalization/segmentation-and-snippets/segmentation/create-a-segmentation.md)
 >* [자유 형식 랜딩 페이지 만들기](/help/marketo/product-docs/demand-generation/landing-pages/free-form-landing-pages/create-a-free-form-landing-page.md)
->* [자유 양식 랜딩 페이지에 새 양식 추가](/help/marketo/product-docs/demand-generation/landing-pages/free-form-landing-pages/add-a-new-form-to-a-free-form-landing-page.md)
+>* [자유 형식 랜딩 페이지에 새 양식 추가](/help/marketo/product-docs/demand-generation/landing-pages/free-form-landing-pages/add-a-new-form-to-a-free-form-landing-page.md)
 
 랜딩 페이지에서 동적 콘텐츠를 사용하면 타깃팅된 정보를 사용자가 사용할 수 있습니다.
 
 ## 세분화 추가 {#add-segmentation}
 
-1. 다음으로 이동 **마케팅 활동**.
+1. **마케팅 활동**(으)로 이동합니다.
 
    ![](assets/login-marketing-activities.png)
 
@@ -49,17 +49,17 @@ ht-degree: 0%
 
 ## 요소를 동적으로 만들기 {#make-element-dynamic}
 
-1. 정적 요소에서 다음으로 요소 드래그 앤 드롭 **동적**.
+1. 요소를 정적에서 **동적**(으)로 끌어서 놓습니다.
 
    ![](assets/image2014-9-16-14-3a50-3a27.png)
 
-1. 요소에서 정적 또는 동적 요소를 만들 수도 있습니다 **설정**.
+1. **설정** 요소에서 정적 또는 동적 요소를 만들 수도 있습니다.
 
    ![](assets/image2015-5-21-12-3a39-3a41.png)
 
 ## 다이내믹 콘텐츠 적용 {#apply-dynamic-content}
 
-1. 세그먼트 아래의 요소를 선택한 다음 **편집**. 각 세그먼트에 대해 이 작업을 반복합니다.
+1. 세그먼트 아래의 요소를 선택한 다음 **편집**&#x200B;을 클릭합니다. 각 세그먼트에 대해 이 작업을 반복합니다.
 
    ![](assets/image2015-5-21-12-3a42-3a11.png)
 
@@ -80,4 +80,4 @@ ht-degree: 0%
 >[!MORELIKETHIS]
 >
 >* [다이내믹 콘텐츠를 사용하여 랜딩 페이지 미리 보기](/help/marketo/product-docs/demand-generation/landing-pages/landing-page-actions/preview-a-landing-page-with-dynamic-content.md)
->* [이메일에서 동적 콘텐츠 사용](/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/using-dynamic-content-in-an-email.md)
+>* [전자 메일에 동적 콘텐츠 사용](/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/using-dynamic-content-in-an-email.md)

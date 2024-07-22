@@ -19,7 +19,7 @@ ht-degree: 0%
 
 준비가 완료된 기존 양식을 승인하는 방법은 다음과 같습니다.
 
-1. 다음으로 이동 **마케팅 활동**.
+1. **마케팅 활동**(으)로 이동합니다.
 
    ![](assets/login-marketing-activities-7.png)
 
@@ -27,7 +27,7 @@ ht-degree: 0%
 
    ![](assets/image2014-9-15-17-3a49-3a40.png)
 
-1. 아래 **양식 작업**, 클릭 **승인**.
+1. **양식 작업**&#x200B;에서 **승인**&#x200B;을 클릭합니다.
 
    ![](assets/image2014-9-15-17-3a49-3a47.png)
 
@@ -35,7 +35,7 @@ ht-degree: 0%
 
    ![](assets/image2014-9-15-17-3a50-3a2.png)
 
-   승인되었으며 준비 중입니다. [랜딩 페이지에 추가됨](/help/marketo/product-docs/demand-generation/landing-pages/understanding-landing-pages/approve-unapprove-or-delete-a-landing-page.md).
+   승인되었으며 [랜딩 페이지](/help/marketo/product-docs/demand-generation/landing-pages/understanding-landing-pages/approve-unapprove-or-delete-a-landing-page.md)에 추가할 준비가 되었습니다.
 
    >[!NOTE]
    >
@@ -49,10 +49,10 @@ ht-degree: 0%
 >
 >[양식 편집](/help/marketo/product-docs/demand-generation/forms/form-actions/edit-a-form.md)
 
-1. 클릭 **완료**.
+1. **마침**&#x200B;을 클릭합니다.
 
    ![](assets/image2014-9-15-17-3a51-3a43.png)
 
-1. 클릭 **승인 및 닫기**.
+1. **승인 및 닫기**&#x200B;를 클릭합니다.
 
    ![](assets/image2014-9-15-17-3a52-3a1.png)

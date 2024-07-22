@@ -12,11 +12,11 @@ ht-degree: 0%
 
 # Sales Insight Actions 사용자 온보딩 체크리스트 {#sales-insight-actions-user-onboarding-checklist}
 
-Marketo Sales Insight 작업 시작 방법에 대한 리소스를 보려면 [온보딩 체크리스트 다운로드](/help/marketo/product-docs/marketo-sales-insight/actions/getting-started/assets/onboarding-checklist-marketo-sales-insight-actions-2023.xlsx).
+Marketo Sales Insight 작업을 시작하는 방법에 대한 리소스를 보려면 [온보딩 확인 목록을 다운로드](/help/marketo/product-docs/marketo-sales-insight/actions/getting-started/assets/onboarding-checklist-marketo-sales-insight-actions-2023.xlsx)하십시오.
 
 >[!NOTE]
 >
->Marketo Sales Insight Actions 은 를 통해 Salesforce 사용자 인터페이스와 통합하는 웹 기반 애플리케이션입니다 [Marketo Sales Insight 패키지](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/installation/install-marketo-sales-insight-package-in-salesforce-appexchange.md){target="_blank"}. 이를 때로 &quot;Marketo 영업&quot; 또는 간단히 &quot;작업&quot;이라고 합니다.
+>Marketo Sales Insight Actions는 [Marketo Sales Insight 패키지](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/installation/install-marketo-sales-insight-package-in-salesforce-appexchange.md){target="_blank"}를 통해 Salesforce 사용자 인터페이스와 통합하는 웹 기반 애플리케이션입니다. 이를 때로 &quot;Marketo 영업&quot; 또는 간단히 &quot;작업&quot;이라고 합니다.
 
 [![](assets/sales-insight-actions-user-onboarding-checklist-1.png)](/help/marketo/product-docs/marketo-sales-insight/actions/getting-started/assets/onboarding-checklist-marketo-sales-insight-actions-2023.xlsx)
 

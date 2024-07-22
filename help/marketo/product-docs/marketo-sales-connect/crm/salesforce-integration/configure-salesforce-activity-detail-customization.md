@@ -5,8 +5,8 @@ exl-id: 4b20ca29-18d6-4026-9bf9-77656ad1442d
 feature: Marketo Sales Connect
 source-git-commit: 02b2e39580c5eac63de4b4b7fdaf2a835fdd4ba5
 workflow-type: tm+mt
-source-wordcount: '707'
-ht-degree: 0%
+source-wordcount: '697'
+ht-degree: 1%
 
 ---
 
@@ -14,15 +14,15 @@ ht-degree: 0%
 
 >[!PREREQUISITES]
 >
->* Salesforce 및 Marketo Sales Connect [은(는) 다음을 연결해야 합니다.](/help/marketo/product-docs/marketo-sales-connect/crm/salesforce-integration/connect-your-sales-connect-account-to-salesforce.md)
->* API를 통한 이메일 활동 로깅 [은(는) 활성화되어야 합니다.](/help/marketo/product-docs/marketo-sales-connect/crm/salesforce-integration/salesforce-sync-settings.md)
+>* Salesforce 및 Marketo Sales Connect [이(가) 연결되어 있어야 함](/help/marketo/product-docs/marketo-sales-connect/crm/salesforce-integration/connect-your-sales-connect-account-to-salesforce.md)
+>* API를 통해 전자 메일 활동을 로깅하려면 [을(를) 사용하도록 설정해야 합니다](/help/marketo/product-docs/marketo-sales-connect/crm/salesforce-integration/salesforce-sync-settings.md)
 
 활동 세부 사항 사용자 지정을 사용하면 관리자는 Sales Connect 활동/미리 알림 작업이 Salesforce에 동기화될 때 Salesforce 작업 - 제목 필드에 기록할 정보를 구성할 수 있습니다.
 
 >[!NOTE]
 >
->* 미리 알림 작업의 Sales Connect에서 제목 필드를 업데이트하면 을(를) 사용하는 경우 해당 Salesforce 작업의 제목 필드에 반영됩니다. `{{activity_subject}}` 활동 세부 사항 사용자 지정의 동적 필드.
->* Salesforce 제목 필드에 정보를 기록할 때는 줄 바꿈이 지원되지 않습니다. 영업 작업 주체가 업데이트되면 Activity Detail Customization 편집기의 모든 줄 바꿈이 제거됩니다.
+>* 활동 세부 정보 사용자 지정에서 `{{activity_subject}}` 동적 필드를 사용하는 경우 미리 알림 작업의 Sales Connect의 제목 필드에 대한 업데이트가 해당 Salesforce 작업의 제목 필드에 반영됩니다.
+>* Salesforce 제목 필드에 정보를 기록할 때 줄 바꿈이 지원되지 않습니다. 영업 작업 주체가 업데이트되면 Activity Detail Customization 편집기의 모든 줄 바꿈이 제거됩니다.
 
 ![](assets/configure-salesforce-activity-detail-customization-1.png)
 
@@ -107,15 +107,15 @@ ht-degree: 0%
 
 활동 세부 사항을 구성할 때는 Salesforce의 작업 내역을 검토할 때 매출과 가장 관련이 있는 데이터를 고려하십시오.
 
-1. 톱니바퀴 아이콘을 클릭하고 **설정**.
+1. 톱니바퀴 아이콘을 클릭하고 **설정**&#x200B;을 선택합니다.
 
    ![](assets/configure-salesforce-activity-detail-customization-3.png)
 
-1. 클릭 **Salesforce**.
+1. **Salesforce**&#x200B;을(를) 클릭합니다.
 
    ![](assets/configure-salesforce-activity-detail-customization-4.png)
 
-1. 클릭 **동기화 설정**.
+1. **동기화 설정**&#x200B;을 클릭합니다.
 
    ![](assets/configure-salesforce-activity-detail-customization-5.png)
 
@@ -127,7 +127,7 @@ ht-degree: 0%
    >
    >필수는 아니지만, 추가된 텍스트를 꺾쇠 괄호로 묶으면 일부 사람들이 Salesforce의 제목 필드에 데이터를 입력할 때 해당 데이터를 보다 쉽게 구분할 수 있습니다. 예: `[Sales Connect] - {{Activity_type}}`
 
-1. 원하는 동적 필드를 추가하려면 **동적 필드 추가** 단추를 클릭합니다.
+1. **동적 필드 추가** 단추를 클릭하여 원하는 동적 필드를 추가합니다.
 
    ![](assets/configure-salesforce-activity-detail-customization-7.png)
 
@@ -135,7 +135,7 @@ ht-degree: 0%
 
    ![](assets/configure-salesforce-activity-detail-customization-8.png)
 
-1. 클릭 **저장**.
+1. **저장**&#x200B;을 클릭합니다.
 
    ![](assets/configure-salesforce-activity-detail-customization-9.png)
 
@@ -146,5 +146,5 @@ ht-degree: 0%
 >[!MORELIKETHIS]
 >
 >* [동기화 설정](/help/marketo/product-docs/marketo-sales-connect/crm/salesforce-integration/salesforce-sync-settings.md)
->* [Salesforce와의 미리 알림 작업 동기화](/help/marketo/product-docs/marketo-sales-connect/tasks/reminder-task-sync-with-salesforce.md)
->* [CRM용 Sales Connect 사용자 정의](/help/marketo/product-docs/marketo-sales-connect/crm/salesforce-customization/sales-connect-customizations-for-crm.md)
+>* [Salesforce와 작업 동기화 알림](/help/marketo/product-docs/marketo-sales-connect/tasks/reminder-task-sync-with-salesforce.md)
+>* [CRM용 Sales Connect 사용자 지정](/help/marketo/product-docs/marketo-sales-connect/crm/salesforce-customization/sales-connect-customizations-for-crm.md)

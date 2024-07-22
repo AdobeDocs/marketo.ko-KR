@@ -5,7 +5,7 @@ exl-id: 2288ee01-2c2e-4f33-b5c9-da3a431c1816
 feature: Integrations
 source-git-commit: 02b2e39580c5eac63de4b4b7fdaf2a835fdd4ba5
 workflow-type: tm+mt
-source-wordcount: '272'
+source-wordcount: '275'
 ht-degree: 0%
 
 ---
@@ -22,27 +22,27 @@ ht-degree: 0%
 
 ## 대상자를 동기화하는 방법 {#how-to-sync-an-audience}
 
-1. 내 Marketo에서 **[!UICONTROL 데이터베이스]** 타일.
+1. 내 Marketo에서 **[!UICONTROL 데이터베이스]** 타일을 클릭합니다.
 
    ![](assets/sync-an-audience-from-adobe-experience-cloud-1.png)
 
-1. 다음을 클릭합니다. **[!UICONTROL 신규]** 드롭다운 및 선택 **[!UICONTROL Experience Cloud 대상에서 동기화]**.
+1. **[!UICONTROL 새로 만들기]** 드롭다운을 클릭하고 **[!UICONTROL Experience Cloud 대상에서 동기화]**&#x200B;를 선택합니다.
 
    ![](assets/sync-an-audience-from-adobe-experience-cloud-2.png)
 
-1. 다음을 클릭합니다. **[!UICONTROL 대상 라이브러리 폴더]** 드롭다운을 클릭하고 원하는 원본 폴더를 선택합니다.
+1. **[!UICONTROL 대상 라이브러리 폴더]** 드롭다운을 클릭하고 원하는 원본 폴더를 선택합니다.
 
    ![](assets/sync-an-audience-from-adobe-experience-cloud-3.png)
 
-1. 선택 **[!UICONTROL 대상자 이름]**.
+1. **[!UICONTROL 대상 이름]**&#x200B;을 선택하세요.
 
    ![](assets/sync-an-audience-from-adobe-experience-cloud-4.png)
 
-1. 대상의 경우 기존 목록을 선택하거나 새 목록의 이름을 입력할 수 있습니다. 이 예제에서는 새 파일을 만드는 중입니다. 클릭 **[!UICONTROL 동기화]** 완료 시.
+1. 대상의 경우 기존 목록을 선택하거나 새 목록의 이름을 입력할 수 있습니다. 이 예제에서는 새 파일을 만드는 중입니다. 완료되면 **[!UICONTROL 동기화]**&#x200B;를 클릭합니다.
 
    ![](assets/sync-an-audience-from-adobe-experience-cloud-5.png)
 
-1. 클릭 **[!UICONTROL 확인]**.
+1. **[!UICONTROL 확인]**&#x200B;을 클릭합니다.
 
    ![](assets/sync-an-audience-from-adobe-experience-cloud-6.png)
 
@@ -52,7 +52,7 @@ ht-degree: 0%
 
 Marketo 구독에 대해 쿠키 동기화가 활성화되면 Marketo의 munchkin.js가 통합 설정 중에 지정한 Adobe IMS 조직의 Adobe ECID를 캡처하고 저장하고 이 ECID를 해당 Marketo 쿠키 식별자와 일치시키려고 합니다. 이렇게 하면 Marketo의 익명 사용자 프로필이 Adobe ECID로 보강될 수 있습니다.
 
-일반 텍스트 이메일을 사용하여 식별된 잠재 고객 프로필에 익명 사용자 프로필을 연결하는 추가 단계가 필요합니다. 정확하게 작동 방식 [다음에 설명되어 있습니다.](/help/marketo/product-docs/reporting/basic-reporting/report-activity/tracking-anonymous-activity-and-people.md){target="_blank"}.
+일반 텍스트 이메일을 사용하여 식별된 잠재 고객 프로필에 익명 사용자 프로필을 연결하는 추가 단계가 필요합니다. [이(가) 작동하는 정확한 방법은 여기에 설명되어 있습니다](/help/marketo/product-docs/reporting/basic-reporting/report-activity/tracking-anonymous-activity-and-people.md){target="_blank"}.
 
 **Marketo의 목록 크기가 Adobe의 목록 크기와 다른 이유는 무엇입니까?**
 

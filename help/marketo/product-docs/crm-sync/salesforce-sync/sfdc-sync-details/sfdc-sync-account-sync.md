@@ -6,7 +6,7 @@ exl-id: 94f7a9e5-86ea-4bb4-9d78-96a09c61321d
 feature: Salesforce Integration
 source-git-commit: 0087a5e88b8bd9601875f68a2e7cadeebdb5d682
 workflow-type: tm+mt
-source-wordcount: '226'
+source-wordcount: '228'
 ht-degree: 0%
 
 ---
@@ -25,11 +25,11 @@ Marketo의 연락처에 대한 계정 필드를 업데이트하면 Marketo의 �
 
 ## 연락처가 여러 계정에 속할 수 있습니까?  {#can-a-contact-belong-to-multiple-accounts}
 
-아니요. 계정에는 여러 연락처가 있을 수 있으며 연락처에는 하나의 계정만 있을 수 있습니다.
+아니. 계정에는 여러 연락처가 있을 수 있으며 연락처에는 하나의 계정만 있을 수 있습니다.
 
 ## Marketo에서 계정을 만들 수 있습니까? {#can-i-create-accounts-from-marketo}
 
-대부분, 아니야 그러나 를 사용하는 경우 [사용자 전환](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/convert-person.md){target="_blank"} 개인에 대한 플로우 단계를 수행하면 새 연락처, 새 계정 및 새 기회가 만들어집니다.
+대부분, 아니야 그러나 사용자에 대해 [사용자 전환](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/convert-person.md){target="_blank"} 흐름 단계를 사용하는 경우 새 연락처, 새 계정 및 새 기회가 만들어집니다.
 
 >[!CAUTION]
 >

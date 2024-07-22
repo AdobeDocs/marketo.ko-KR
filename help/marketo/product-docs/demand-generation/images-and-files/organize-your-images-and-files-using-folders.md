@@ -15,19 +15,19 @@ ht-degree: 0%
 
 폴더를 만들면 이미지와 파일을 이동하고, 원하는 이미지 세트만 확인하고, 특정 폴더에 직접 업로드할 수 있습니다.
 
-1. 로 이동 **[!UICONTROL Design Studio]**.
+1. **[!UICONTROL 디자인 스튜디오]**(으)로 이동합니다.
 
    ![](assets/organize-your-images-and-files-using-folders-1.png)
 
-1. 마우스 오른쪽 단추 클릭 **[!UICONTROL 이미지 및 파일]** 및 선택 **[!UICONTROL 새 폴더]**.
+1. **[!UICONTROL 이미지 및 파일]**&#x200B;을 마우스 오른쪽 단추로 클릭하고 **[!UICONTROL 새 폴더]**&#x200B;를 선택합니다.
 
    ![](assets/organize-your-images-and-files-using-folders-2.png)
 
-1. 폴더 이름을 지정하고 **[!UICONTROL 만들기]**.
+1. 폴더 이름을 지정하고 **[!UICONTROL 만들기]**&#x200B;를 클릭합니다.
 
    ![](assets/organize-your-images-and-files-using-folders-3.png)
 
-1. 다음으로 돌아가기: **[!UICONTROL 이미지 및 파일]** 이동할 자산을 선택합니다. 다음을 클릭합니다. **[!UICONTROL 이미지 및 파일 작업]** 드롭다운 및 선택 **[!UICONTROL 이동]**.
+1. **[!UICONTROL 이미지 및 파일]**(으)로 돌아가서 이동할 자산을 선택합니다. **[!UICONTROL 이미지 및 파일 작업]** 드롭다운을 클릭하고 **[!UICONTROL 이동]**&#x200B;을 선택합니다.
 
    ![](assets/organize-your-images-and-files-using-folders-4.png)
 
@@ -35,7 +35,7 @@ ht-degree: 0%
 
    ![](assets/organize-your-images-and-files-using-folders-5.png)
 
-1. 클릭 **M이동**.
+1. **오전이동**&#x200B;을 클릭합니다.
 
    ![](assets/organize-your-images-and-files-using-folders-6.png)
 

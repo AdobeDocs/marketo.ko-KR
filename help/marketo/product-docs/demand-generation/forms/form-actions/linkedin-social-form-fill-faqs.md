@@ -49,11 +49,11 @@ LinkedIn은 개발자 프로그램에 몇 가지 중요한 변경 사항을 적�
 
 ## linkedIn의 API 정책에 대한 자세한 내용은 어디에서 찾을 수 있습니까? {#where-can-i-find-more-information-about-linkedin-s-api-policy}
 
-이 링크를 통해 LinkedIn의 API 정책 변경 사항에 대해 자세히 알아보십시오. [https://developer.linkedin.com/blog/posts/2015/developer-program-changes](https://developer.linkedin.com/blog/posts/2015/developer-program-changes)
+linkedIn의 API 정책 변경 사항에 대해 자세히 알아보려면 이 링크를 따르십시오. [https://developer.linkedin.com/blog/posts/2015/developer-program-changes](https://developer.linkedin.com/blog/posts/2015/developer-program-changes)
 
 ## 질문이 있는 LinkedIn에 문의하려면 어떻게 해야 합니까? {#how-can-i-contact-linkedin-with-questions}
 
-이 링크를 따라 LinkedIn에 마케팅 솔루션에 대해 문의하십시오. [https://business.linkedin.com/marketing-solutions/contact-us](https://business.linkedin.com/marketing-solutions/contact-us)
+이 링크를 따라 LinkedIn에 해당 마케팅 솔루션에 대해 문의하세요. [https://business.linkedin.com/marketing-solutions/contact-us](https://business.linkedin.com/marketing-solutions/contact-us)
 
 ## Marketo이 4월 28일에 내 양식에서 이 기능을 제거한 경우 내 양식 및 영향을 받는 랜딩 페이지는 초안 모드로 전환되었습니까? {#if-marketo-removed-this-functionality-from-my-forms-on-april-were-my-forms-and-the-affected-landing-pages-put-into-draft-mode}
 

@@ -6,7 +6,7 @@ exl-id: c25c8b2b-d596-46f7-a570-b4a5cb5957a6
 feature: Landing Pages
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
-source-wordcount: '187'
+source-wordcount: '189'
 ht-degree: 2%
 
 ---
@@ -23,14 +23,14 @@ ht-degree: 2%
 
 안내 랜딩 페이지를 편집할 때 템플릿에서 편집 가능으로 표시한 요소가 표시됩니다. 요소에는 다음과 같은 아이콘이 있습니다.
 
-* ![--](assets/image2015-5-20-12-3a30-3a48.png) 이미지
+* ![—](assets/image2015-5-20-12-3a30-3a48.png) 이미지
 * ![—](assets/image2015-5-20-12-3a31-3a33.png)Marketo 양식
-* ![--](assets/image2015-5-20-12-3a41-3a21.png)텍스트
+* ![—](assets/image2015-5-20-12-3a41-3a21.png)텍스트
 * ![—](assets/image2015-5-20-12-3a42-3a47.png)비디오
 * ![—](assets/image2015-5-20-12-3a44-3a17.png)Marketo 공유 단추
 * ![—](assets/image2015-5-20-12-3a43-3a21.png)Marketo 투표
 * ![—](assets/image2015-5-20-12-3a43-3a2.png)Marketo 참조
-* ![—](assets/image2015-5-20-12-3a44-3a40.png)Marketo 스위프스테이크
+* ![—](assets/image2015-5-20-12-3a44-3a40.png)Marketo 경품 추첨
 * ![—](assets/image2015-5-20-12-3a47-3a45.png)Marketo 코드 조각
 
 ## 변수 {#variables}
@@ -60,4 +60,4 @@ ht-degree: 2%
 
 >[!MORELIKETHIS]
 >
->[가이드 랜딩 페이지 템플릿 만들기](/help/marketo/product-docs/demand-generation/landing-pages/landing-page-templates/create-a-guided-landing-page-template.md)
+>[안내 랜딩 페이지 템플릿 만들기](/help/marketo/product-docs/demand-generation/landing-pages/landing-page-templates/create-a-guided-landing-page-template.md)

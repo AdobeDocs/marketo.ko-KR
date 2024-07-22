@@ -7,7 +7,7 @@ feature: Marketo Sales Insights
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '169'
-ht-degree: 0%
+ht-degree: 1%
 
 ---
 
@@ -17,37 +17,37 @@ ht-degree: 0%
 >
 >**관리자 권한 필요**
 
-기본적으로 Marketo Sales Insight는 **잠재 고객 스코어** 별과 불꽃을 계산하는 필드. 그러나 다른 필드를 선택하려면 다음 방법을 사용하십시오.
+기본적으로 Marketo Sales Insight는 **리드 점수** 필드를 사용하여 별과 불꽃을 계산합니다. 그러나 다른 필드를 선택하려면 다음 방법을 사용하십시오.
 
 >[!TIP]
 >
->사용자 정의 점수 필드가 없는 경우 다음 방법을 참조하십시오 [만들기](/help/marketo/product-docs/administration/field-management/create-a-custom-field-in-marketo.md) 그들이요.
+>사용자 지정 점수 필드가 없는 경우 [만드는](/help/marketo/product-docs/administration/field-management/create-a-custom-field-in-marketo.md) 방법을 참조하세요.
 
 >[!NOTE]
 >
 >**정의**
 >
->* **별 개수**: 별표는 다른 잠재 고객과 비교한 총 잠재 고객 점수를 나타냅니다.
->* **플레임스**: 불길은 긴급도(잠재 고객 스코어가 최근 얼마나 변경되었는지)를 나타냅니다.
+>* **별**: 별점은 다른 잠재 고객과 비교한 총 잠재 고객 점수를 나타냅니다.
+>* **Flames**: Flames는 긴급도를 나타냅니다. 최근 잠재 고객 스코어가 얼마나 많이 변경되었는지 나타냅니다.
 >
 
-1. 아래 **관리자**, 클릭 **Sales Insight**.
+1. **관리자**&#x200B;에서 **판매 인사이트**&#x200B;를 클릭합니다.
 
    ![](assets/image2014-9-16-13-3a27-3a19.png)
 
-1. 아래 **잠재 고객 점수 설정**, 클릭 **편집**.
+1. **잠재 고객 점수 설정**&#x200B;에서 **편집**&#x200B;을 클릭하세요.
 
    ![](assets/image2014-9-16-13-3a27-3a33.png)
 
-1. 사용할 필드 선택 **별 개수**.
+1. **별**&#x200B;에 사용할 필드를 선택하십시오.
 
    ![](assets/image2014-9-16-13-3a27-3a45.png)
 
-1. 사용할 필드 선택 **플레임스**.
+1. **Flames**&#x200B;에 사용할 필드를 선택하십시오.
 
    ![](assets/image2014-9-16-13-3a28-3a1.png)
 
-1. 클릭 **저장**.
+1. **저장**&#x200B;을 클릭합니다.
 
    ![](assets/image2014-9-16-13-3a28-3a18.png)
 

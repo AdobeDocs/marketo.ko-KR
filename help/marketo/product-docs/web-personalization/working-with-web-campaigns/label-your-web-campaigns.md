@@ -17,13 +17,13 @@ ht-degree: 0%
 
 ## 웹 캠페인에 레이블 추가 {#add-a-label-to-a-web-campaign}
 
-1. 웹 개인화에 로그인하고 웹 캠페인 영역으로 이동합니다.
+1. 웹 Personalization에 로그인하고 웹 캠페인 영역으로 이동합니다.
 
    ![](assets/web-campaigns-hand.jpg)
 
    >[!NOTE]
    >
-   >원하는 캠페인을 더 쉽게 찾을 수 있도록 하려면 [필터 기능](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/filter-web-campaigns.md).
+   >원하는 캠페인을 더 쉽게 찾으려면 [필터 기능](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/filter-web-campaigns.md)을 사용하세요.
 
 1. 레이블에 태깅할 캠페인을 선택합니다.
 
@@ -51,4 +51,4 @@ ht-degree: 0%
 
 >[!MORELIKETHIS]
 >
->[세그먼트 레이블 지정](/help/marketo/product-docs/web-personalization/using-web-segments/label-your-segment.md)
+>[세그먼트에 레이블 지정](/help/marketo/product-docs/web-personalization/using-web-segments/label-your-segment.md)

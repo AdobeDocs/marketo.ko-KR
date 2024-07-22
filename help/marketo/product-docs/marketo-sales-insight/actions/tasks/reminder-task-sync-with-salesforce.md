@@ -14,7 +14,7 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->작업 동기화를 활성화하는 방법을 알아보려면 [Sales Insight 작업 작업/미리 알림을 Salesforce 작업에 동기화](/help/marketo/product-docs/marketo-sales-insight/actions/crm/salesforce-integration/sync-sales-activities-to-salesforce.md#sync-sales-insight-actions-tasks-reminders-to-salesforce-tasks).
+>작업 동기화를 사용하는 방법에 대해 알아보려면 [Sales Insight 작업/미리 알림을 Salesforce 작업에 동기화](/help/marketo/product-docs/marketo-sales-insight/actions/crm/salesforce-integration/sync-sales-activities-to-salesforce.md#sync-sales-insight-actions-tasks-reminders-to-salesforce-tasks)를 확인하십시오.
 
 작업 동기화 설정이 활성화되면 사용자는 Salesforce와 양방향으로 동기화된 알림 작업을 보게 됩니다. 즉, 사용자는 Salesforce 또는 Sales Insight Actions에서 작업을 관리할 수 있으며 시스템이 계속 유지될 것으로 확신할 수 있습니다.
 
@@ -63,7 +63,7 @@ ht-degree: 0%
 
 ## 처음으로 Sales Insight 작업 작업을 Salesforce와 동기화 {#syncing-sales-insight-actions-tasks-with-salesforce-for-the-first-time}
 
-먼저 Sales Insight 작업과 Salesforce 작업 간의 동기화를 켜면 Salesforce 작업을 가져옵니다. 그럴 겁니다 **아님** sales Insight Actions 의 현재 작업을 Salesforce에 푸시합니다. 혼란을 줄이고 중복을 줄이기 위해 Sales Insight Actions에서 Salesforce로 동기화되는 작업은 만들어진 작업뿐입니다 *이후* sales Insight Actions 을 SFDC 와 동기화합니다.
+먼저 Sales Insight 작업과 Salesforce 작업 간의 동기화를 켜면 Salesforce 작업을 가져옵니다. Sales Insight Actions에 있는 현재 작업을 Salesforce에 **푸시하지**&#x200B;않습니다. 혼란을 줄이고 중복을 줄이기 위해 Sales Insight 작업에서 Salesforce로 동기화되는 작업은 Sales Insight 작업을 SFDC와 동기화하는 *후*&#x200B;에 만든 작업뿐입니다.
 
 다음은 Sales Insight 작업 및 SFDC 작업을 동기화할 때 수행되는 작업입니다.
 
@@ -77,8 +77,8 @@ ht-degree: 0%
 
 초기 동기화 후 Sales Insight Actions에서 생성, 편집, 완료 또는 삭제하는 모든 작업은 Salesforce의 작업 목록과 동기화됩니다. 또한 Salesforce에서 생성, 편집, 완료 또는 삭제된 모든 항목은 Sales Insight Actions의 작업 목록을 업데이트합니다.
 
-이 동기화를 켜려면 [설정 페이지](https://toutapp.com/login) 웹 애플리케이션에서 사용할 수 있습니다.
+이 동기화를 켜려면 웹 응용 프로그램의 [설정 페이지](https://toutapp.com/login)에서 동기화 상자를 선택하면 됩니다.
 
 >[!NOTE]
 >
->작업의 제목 필드는 Sales Insight Actions에서 업데이트할 수 있으며, 을 사용하는 경우 해당 업데이트는 해당 동기화된 작업에 대한 Salesforce 제목 필드에서 동기화됩니다. `{{activity_subject}}` 의 동적 필드 [활동 세부 사항 사용자 지정](/help/marketo/product-docs/marketo-sales-insight/actions/crm/salesforce-integration/configure-salesforce-activity-detail-customization.md) 설정. 반대로 Salesforce의 제목 필드에 대한 모든 업데이트는 _아님_ sales Insight Actions 미리 알림 작업 제목 필드와 동기화합니다.
+>[활동 세부 정보 사용자 지정](/help/marketo/product-docs/marketo-sales-insight/actions/crm/salesforce-integration/configure-salesforce-activity-detail-customization.md) 설정에서 `{{activity_subject}}` 동적 필드를 사용하는 경우 Sales Insight Actions에서 작업의 제목 필드를 업데이트할 수 있으며 해당 업데이트는 동기화된 작업에 대한 Salesforce 제목 필드에서 동기화됩니다. 반대로 Salesforce의 제목 필드에 대한 모든 업데이트는 Sales Insight Actions 미리 알림 작업 제목 필드와 동기화되지 _않습니다_.

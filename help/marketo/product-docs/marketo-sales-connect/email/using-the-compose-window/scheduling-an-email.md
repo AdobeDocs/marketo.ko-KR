@@ -19,11 +19,11 @@ ht-degree: 0%
 >
 >기본 시간대를 업데이트하려면 설정 페이지로 이동합니다.
 
-1. 이메일 초안을 만듭니다. 이 방법에는 여러 가지가 있습니다. 이 예제에서는 선택하겠습니다. **작성** 머리글에서).
+1. 전자 메일 초안을 만듭니다. 이 방법에는 여러 가지가 있습니다. 이 예제에서는 헤더에서 **작성**&#x200B;을 선택합니다.
 
    ![](assets/one-1.png)
 
-1. 이메일 작성이 끝나면 **예약** 오른쪽 하단에
+1. 전자 메일 작성이 끝나면 오른쪽 하단의 **일정**&#x200B;을 클릭하세요
 
    ![](assets/two-1.png)
 
@@ -31,11 +31,11 @@ ht-degree: 0%
 
    ![](assets/three-1.png)
 
-1. 이메일을 보낼 시간을 입력합니다. 원하는 시간대를 선택하고 **저장**. 완료되면 스케줄러를 닫습니다.
+1. 이메일을 보낼 시간을 입력합니다. 원하는 시간대를 선택하고 **저장**&#x200B;을 클릭합니다. 완료되면 스케줄러를 닫습니다.
 
    ![](assets/four-1.png)
 
-1. 이제 예약된 날짜/시간을 선택했으므로 **보내기** 이메일을 예약합니다.
+1. 예약된 날짜/시간을 선택했으므로 **보내기**&#x200B;를 클릭하여 전자 메일을 예약하세요.
 
    ![](assets/five-1.png)
 
@@ -45,4 +45,4 @@ ht-degree: 0%
 
    >[!MORELIKETHIS]
    >
-   >[관리 센터 개요](/help/marketo/product-docs/marketo-sales-connect/email/command-center/command-center-overview.md)
+   >[명령 센터 개요](/help/marketo/product-docs/marketo-sales-connect/email/command-center/command-center-overview.md)

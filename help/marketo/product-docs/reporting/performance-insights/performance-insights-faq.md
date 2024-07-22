@@ -6,7 +6,7 @@ exl-id: cee791c3-1845-4fca-b803-c0dc1c644549
 feature: Reporting
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
-source-wordcount: '1357'
+source-wordcount: '1346'
 ht-degree: 0%
 
 ---
@@ -31,7 +31,7 @@ MPI는 Lead Management 애플리케이션에 대한 독립적인 추가 기능�
 
 ## RCA는 프로그램 성능 데이터도 표시합니다. MPI와 RCA에 표시된 데이터에 차이가 있습니까? {#rca-shows-me-program-performance-data-as-well-is-there-a-difference-between-the-data-shown-in-mpi-and-rca}
 
-아니요. MPI는 RCA와 동일한 데이터 웨어하우스의 데이터를 소싱합니다. 따라서 둘 사이에 데이터 차이가 표시되지 않습니다. RCA를 사용하면 즉석에서 보고서를 만들 수 있습니다. MPI를 통해 이해하기 쉬운 시각적 대시보드에 액세스할 수 있습니다.
+아니. MPI는 RCA와 동일한 데이터 웨어하우스의 데이터를 소싱합니다. 따라서 둘 사이에 데이터 차이가 표시되지 않습니다. RCA를 사용하면 즉석에서 보고서를 만들 수 있습니다. MPI를 통해 이해하기 쉬운 시각적 대시보드에 액세스할 수 있습니다.
 
 ## 일부 프로그램(예: 운영)이 MPI에 표시되지 않기를 바랍니다. 특정 프로그램의 가시성을 제어하려면 어떻게 해야 합니까? {#i-don-t-want-some-of-my-programs-e-g-operational-to-show-up-in-mpi-how-do-i-control-the-visibility-of-specific-programs}
 
@@ -39,7 +39,7 @@ MPI는 Lead Management 애플리케이션에 대한 독립적인 추가 기능�
 
 >[!NOTE]
 >
->분석 동작 설정에 대해 자세히 알아보기 [여기](/help/marketo/product-docs/core-marketo-concepts/programs/working-with-programs/edit-analytics-behavior-settings.md).
+>분석 동작 설정 [여기](/help/marketo/product-docs/core-marketo-concepts/programs/working-with-programs/edit-analytics-behavior-settings.md)에 대해 자세히 알아보세요.
 
 ## 신제품 출시를 위해 멀티채널 캠페인을 진행하고 있습니다. 한 곳에서 다른 모든 채널에서 이 캠페인에 대한 성과를 보려면 어떻게 해야 합니까? {#i-am-running-a-multi-channel-campaign-for-a-new-product-launch-how-can-i-view-the-performance-for-this-campaign-across-all-the-different-channels-in-one-place}
 
@@ -59,11 +59,11 @@ MPI는 모든 기회가 분석에 포함되어 있는지 여부를 계산합니�
 
 1. 포함 - 이 옵션은 기간 비용을 포함했는지 여부에 관계없이 MPI에서 프로그램을 사용할 수 있도록 합니다.
 
-1. [운영](/help/marketo/product-docs/core-marketo-concepts/programs/working-with-programs/best-practice-how-to-organize-your-programs.md#operational-programs) - 이 옵션을 사용하면 프로그램이 MPI에 표시되지 않습니다.
+1. [작동](/help/marketo/product-docs/core-marketo-concepts/programs/working-with-programs/best-practice-how-to-organize-your-programs.md#operational-programs) - 이 옵션을 사용하면 프로그램이 MPI에 표시되지 않습니다.
 
 >[!NOTE]
 >
->기간 비용 **이(가)** 참여 대시보드에서 성공 및 새 이름 보고를 위해 설정할 수 있습니다. 이 대시보드는 기간 비용 데이터를 사용하여 성공 및 새 이름을 집계합니다. 기간 비용이 설정되지 않은 경우 위의 Analytics 동작 설정에 관계없이 참여 대시보드가 올바르게 보고되지 않습니다.
+>참여 대시보드에서 성공 및 새 이름 보고를 위해 설정할 기간 비용 **has**&#x200B;입니다. 이 대시보드는 기간 비용 데이터를 사용하여 성공 및 새 이름을 집계합니다. 기간 비용이 설정되지 않은 경우 위의 Analytics 동작 설정에 관계없이 참여 대시보드가 올바르게 보고되지 않습니다.
 
 ## MPI에서 몇 가지 기회를 놓치는 이유는 무엇입니까? {#why-am-i-missing-some-opportunities-in-mpi}
 
@@ -82,7 +82,7 @@ MPI는 모든 기회가 분석에 포함되어 있는지 여부를 계산합니�
 
 ## 매출 보고를 위해 표준 Salesforce Opportunity Amount 필드 대신 사용자 지정 Salesforce Opportunity 필드를 사용하고 싶습니다. MPI에서 그렇게 할 수 있습니까? {#i-want-to-use-a-custom-salesforce-opportunity-field-for-revenue-reporting-instead-of-the-standard-salesforce-opportunity-amount-field-will-mpi-allow-me-to-do-that}
 
-예. [Marketo 지원](https://nation.marketo.com/t5/Support/ct-p/Support) 필드 유형이 통화인 경우 Marketo의 Opportunity Amount 필드를 사용자 정의 Salesforce Opportunity 필드에 다시 매핑할 수 있습니다. MPI는 Marketo Opportunity Amount 필드를 가리키므로 MPI는 다시 매핑된 사용자 정의 Salesforce 필드의 데이터를 사용할 수 있습니다.
+예. [Marketo 지원](https://nation.marketo.com/t5/Support/ct-p/Support)에서는 필드 유형이 통화인 경우 Marketo의 영업 기회 금액 필드를 사용자 지정 Salesforce 영업 기회 필드에 다시 매핑할 수 있습니다. MPI는 Marketo Opportunity Amount 필드를 가리키므로 MPI는 다시 매핑된 사용자 정의 Salesforce 필드의 데이터를 사용할 수 있습니다.
 
 >[!NOTE]
 >
@@ -100,11 +100,11 @@ MPI는 단계 맨 위에서 매출 영향까지 프로그램 성능을 측정할
 
 ## MPI에서 계정 기반 전략의 성공을 측정할 수 있습니까? {#can-i-measure-the-success-of-account-based-strategies-in-mpi}
 
-예. MPI는 [Marketo](https://docs.marketo.com/display/DOCS/Account+Based+Marketing+Overview) ABM 계정 목록을 MPI로 원활하게 가져옵니다. ABM 계정 목록 필터를 사용하여 데이터를 필터링할 원하는 ABM 목록을 선택할 수 있습니다.
+예. MPI는 [Marketo TAM](https://docs.marketo.com/display/DOCS/Account+Based+Marketing+Overview)과 통합되어 ABM 계정 목록을 MPI로 원활하게 가져옵니다. ABM 계정 목록 필터를 사용하여 데이터를 필터링할 원하는 ABM 목록을 선택할 수 있습니다.
 
 ## MPI를 구매할 때 속성을 즉시 사용할 수 있습니까? {#is-attribution-instantly-available-when-i-purchase-mpi}
 
-Marketo 속성 기능은 고객이 MPI를 구매할 때 사용할 수 있습니다. 그러나 [적절한 설정](/help/marketo/product-docs/reporting/performance-insights/setting-up-performance-insights.md) 기회 및 프로그램 데이터가 MPI로 올바르게 전달되도록 하는 데 필요합니다.
+Marketo 속성 기능은 고객이 MPI를 구매할 때 사용할 수 있습니다. 그러나 기회와 프로그램 데이터가 MPI로 올바르게 흐르도록 하려면 [적절한 설정](/help/marketo/product-docs/reporting/performance-insights/setting-up-performance-insights.md)이 필요합니다.
 
 ## 속성을 설정하려면 어떻게 해야 합니까? {#what-do-i-have-to-do-to-set-up-attribution}
 
@@ -125,7 +125,7 @@ Marketo 속성 기능은 고객이 MPI를 구매할 때 사용할 수 있습니�
 
 >[!TIP]
 >
->필요한 모든 설정 단계는에 자세히 설명되어 있습니다. [이 문서](/help/marketo/product-docs/reporting/performance-insights/setting-up-performance-insights.md).
+>필요한 모든 설정 단계는 [이 문서](/help/marketo/product-docs/reporting/performance-insights/setting-up-performance-insights.md)에 자세히 설명되어 있습니다.
 
 ## MPI와 프로그램 분석기의 차이점은 무엇입니까? {#whats-the-difference-between-mpi-and-the-program-analyzer}
 

@@ -1,7 +1,7 @@
 ---
 unique-page-id: 10097867
-description: 웹 개인화 활동에 대한 스마트 목록 정의 - Marketo 문서 - 제품 설명서
-title: 웹 개인화 활동에 대한 스마트 목록 정의
+description: 웹 Personalization 활동에 대한 스마트 목록 정의 - Marketo 문서 - 제품 설명서
+title: 웹 Personalization 활동에 대한 스마트 목록 정의
 exl-id: 9987f922-f50c-47b3-aef6-230326b094fc
 feature: Web Personalization
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
@@ -11,19 +11,19 @@ ht-degree: 0%
 
 ---
 
-# 웹 개인화 활동에 대한 스마트 목록 정의 {#define-a-smart-list-for-web-personalization-activities}
+# 웹 Personalization 활동에 대한 스마트 목록 정의 {#define-a-smart-list-for-web-personalization-activities}
 
-스마트 캠페인에서 스마트 목록을 정의할 때 필터 및 트리거에서 웹 개인화 활동을 사용할 수 있습니다. 여기서는 웹 개인화 콜 투 액션(캠페인)을 클릭한 모든 사용자를 캡처합니다.
+스마트 캠페인에서 스마트 목록을 정의할 때 필터 및 트리거에서 웹 Personalization 활동을 사용할 수 있습니다. 여기서는 웹 Personalization 클릭 유도 문안(캠페인)을 클릭한 사용자를 캡처합니다.
 
-트리거를 사용하여 이메일 또는 경고를 보내거나 웹 개인화 호출을 클릭하여 작업에 참여한 방문자를 기준으로 값 또는 점수를 변경합니다. 또한 웹 개인화 콜 투 액션을 클릭한 가망 고객을 필터링하고 볼 수 있습니다.
+트리거를 사용하여 이메일 또는 경고를 보내거나 웹 Personalization 콜 투 액션을 클릭하고 참여한 방문자를 기준으로 값 또는 점수를 변경합니다. 또한 웹 Personalization 콜 투 액션을 클릭한 리드를 필터링하고 볼 수 있습니다.
 
-1. 스마트 캠페인에서 **스마트 목록** 탭.
+1. 스마트 캠페인에서 **스마트 목록** 탭을 클릭합니다.
 
    ![](assets/image2016-2-9-10-3a49-3a18.png)
 
    >[!NOTE]
    >
-   >스마트 목록은 놀라운 일을 할 수 있습니다. 다음에서 자세히 알아보기 [스마트 목록 심층 분석](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/understanding-smart-campaigns.md).
+   >스마트 목록은 놀라운 일을 할 수 있습니다. [스마트 목록 딥 다이브](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/understanding-smart-campaigns.md)에서 자세히 알아보세요.
 
 1. 트리거를 검색한 다음 트리거를 캔버스로 드래그하여 놓습니다.
 
@@ -57,10 +57,10 @@ ht-degree: 0%
    >
    >여러 트리거를 사용하면 트리거 중 하나가 활성화되면 사람이 플로우로 이동합니다.
 
-   사람들 집합에서 동시에 캠페인을 실행하려면 다음 방법을 알아보세요. [스마트 캠페인을 위한 스마트 목록 정의 | 일괄 처리](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/creating-a-smart-campaign/define-smart-list-for-smart-campaign-batch.md).
+   사람들 집합에서 동시에 캠페인을 실행하려면 [Smart Campaign용 스마트 목록을 정의하는 방법을 알아보세요 | 일괄 처리 ](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/creating-a-smart-campaign/define-smart-list-for-smart-campaign-batch.md).
 
    >[!MORELIKETHIS]
    >
-   >* [스마트 캠페인을 위한 스마트 목록 정의 | 일괄 처리](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/creating-a-smart-campaign/define-smart-list-for-smart-campaign-batch.md)
-   >* [스마트 캠페인에 플로우 단계 추가](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/add-a-flow-step-to-a-smart-campaign.md)
-   >* [예측 콘텐츠 활동을 위한 스마트 목록 정의](/help/marketo/product-docs/predictive-content/define-a-smart-list-for-predictive-content-activities.md)
+   >* [스마트 캠페인용 스마트 목록 정의 | 일괄 처리](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/creating-a-smart-campaign/define-smart-list-for-smart-campaign-batch.md)
+   >* [스마트 캠페인에 흐름 단계 추가](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/add-a-flow-step-to-a-smart-campaign.md)
+   >* [예측 콘텐츠 활동에 대한 스마트 목록 정의](/help/marketo/product-docs/predictive-content/define-a-smart-list-for-predictive-content-activities.md)

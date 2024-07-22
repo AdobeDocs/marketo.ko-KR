@@ -19,11 +19,11 @@ ht-degree: 0%
 
 사용자 및 사용자 역할의 전체 목록을 내보내는 것은 매우 쉽습니다. 방법은 다음과 같습니다.
 
-1. 다음으로 이동 **[!UICONTROL 관리자]**.
+1. **[!UICONTROL 관리자]**(으)로 이동합니다.
 
    ![](assets/export-a-list-of-users-and-roles-1.png)
 
-1. 클릭 **[!UICONTROL 사용자 및 역할]**.
+1. **[!UICONTROL 사용자 및 역할]**&#x200B;을 클릭합니다.
 
    ![](assets/export-a-list-of-users-and-roles-2.png)
 
@@ -31,11 +31,11 @@ ht-degree: 0%
 
    >[!TIP]
    >
-   >역할을 내보내려면 **[!UICONTROL 역할]** 탭을 먼저 누른 다음 내보냅니다.
+   >역할을 내보내려면 먼저 **[!UICONTROL 역할]** 탭으로 이동한 다음 내보내십시오.
 
    ![](assets/export-a-list-of-users-and-roles-3.png)
 
-1. 다음을 클릭합니다. **[!UICONTROL 내보내기]** 아이콘.
+1. **[!UICONTROL 내보내기]** 아이콘을 클릭합니다.
 
    ![](assets/export-a-list-of-users-and-roles-4.png)
 

@@ -22,22 +22,22 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->**예 1**: 앱을 열 때 &quot;Summer Sale&quot; 프로모션이 표시됩니다.
+>**예 1**: 앱을 열 때 &quot;여름 할인&quot; 프로모션이 나타납니다.
 >
->**예제 2**: 의료 비디오를 보는 동안, 의사 방문 일정을 잡으면 $40 할인 쿠폰을 트리거합니다.
+>**예 2**: 의료 비디오를 보는 동안 의사 방문 일정을 예약하면 40달러 할인 쿠폰이 트리거됩니다.
 
 모바일 앱용 인앱 메시지를 만들고 보내려면 먼저 Marketo 관리자 및 모바일 앱 개발자가 일부 설정을 수행해야 합니다.  인앱 메시지를 생성하는 프로세스에는 세 단계가 있습니다.
 
 ## 1단계: 관리자 및 개발자가 초기 설정 수행 {#step-admin-and-developer-perform-initial-setups}
 
-Marketo 관리 및 모바일 앱 개발자는 함께 작업하여 사용자를 설정합니다. 다음을 참조하십시오 [푸시 알림 및 인앱 메시지를 만들기 전에](/help/marketo/product-docs/mobile-marketing/admin/before-you-create-push-notifications-and-in-app-messages.md) 을 참조하십시오.
+Marketo 관리 및 모바일 앱 개발자는 함께 작업하여 사용자를 설정합니다. 자세한 내용은 [푸시 알림 및 인앱 메시지를 만들기 전에](/help/marketo/product-docs/mobile-marketing/admin/before-you-create-push-notifications-and-in-app-messages.md)를 참조하십시오.
 
 ## 2단계: 인앱 메시지 만들기 {#step-create-an-in-app-message}
 
-본인 [인앱 메시지 만들기](/help/marketo/product-docs/mobile-marketing/in-app-messages/creating-in-app-messages/create-an-in-app-message.md) 온라인 편집기 사용.
+온라인 편집기를 사용하여 [인앱 메시지를 만듭니다](/help/marketo/product-docs/mobile-marketing/in-app-messages/creating-in-app-messages/create-an-in-app-message.md).
 
 ## 3단계: 전송! {#step-send}
 
-다음에 대한 프로그램을 만듭니다. [메시지 보내기](/help/marketo/product-docs/mobile-marketing/in-app-messages/sending-your-in-app-message/send-your-in-app-message.md).
+[메시지를 보내기](/help/marketo/product-docs/mobile-marketing/in-app-messages/sending-your-in-app-message/send-your-in-app-message.md)할 프로그램을 만듭니다.
 
 지금 가고 계십니다.

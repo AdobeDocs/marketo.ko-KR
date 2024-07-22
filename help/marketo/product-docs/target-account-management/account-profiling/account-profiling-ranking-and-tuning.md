@@ -21,7 +21,7 @@ ht-degree: 0%
 
 ![](assets/results.png)
 
-선택 사항이지만 자동 승격 확인란을 선택하는 것이 좋습니다. 이렇게 하면 시간이 많이 절약되기 때문입니다. 그러나 각 계정을 자세히 살펴보고 [수동으로 추가](/help/marketo/product-docs/target-account-management/target/named-accounts/discover-accounts.md#discover-crm-accounts)를 클릭하고 상자를 선택 취소하면 됩니다.
+선택 사항이지만 자동 승격 확인란을 선택하는 것이 좋습니다. 이렇게 하면 시간이 많이 절약되기 때문입니다. 그러나 각 계정을 살펴보고 [수동으로 추가](/help/marketo/product-docs/target-account-management/target/named-accounts/discover-accounts.md#discover-crm-accounts)하려면 상자를 선택하지 않은 상태로 두면 됩니다.
 
 <table> 
  <tbody> 
@@ -158,13 +158,13 @@ ICP 지표 추가 드롭다운을 클릭하여 모델에 추가 지표를 삽입
 
 ![](assets/add-icp.png)
 
-내보내기 상자를 선택하면 명명된 계정 세부 사항 페이지에서 ICP 표시기를 볼 수 있을 뿐만 아니라 선택한 ICP 표시기를 의 제약 조건으로 사용할 수 있습니다. [명명된 계정 필터](/help/marketo/product-docs/target-account-management/engage/account-filters.md).
+[내보내기] 상자를 선택하면 [명명된 계정 세부 정보] 페이지에서 ICP 지표를 볼 수 있으며 [명명된 계정 필터](/help/marketo/product-docs/target-account-management/engage/account-filters.md)에서 선택한 ICP 지표를 제약 조건으로 사용할 수 있습니다.
 
 ![](assets/export.png)
 
 >[!NOTE]
 >
->ICP 지표는에 제한 사항으로 포함됩니다. **명명된 계정의 구성원** 필터 및 트리거.
+>ICP 지표는 **명명된 계정의 구성원** 필터 및 트리거에 제약 조건으로 포함됩니다.
 
 지표 가중치는 각 지표가 모델에서 받는 중요도를 제어하는 것입니다.
 
@@ -174,6 +174,6 @@ ICP 지표 추가 드롭다운을 클릭하여 모델에 추가 지표를 삽입
 
 ![](assets/refresh-button.png)
 
-모델 조정을 마쳤으면(새로 고친 후) 모델 결과 탭으로 돌아가서 를 클릭합니다. **순위 저장 및 적용**.
+모델을 새로 고친 후 조정을 완료하면 모델 결과 탭으로 돌아가서 **순위 저장 및 적용**&#x200B;을 클릭합니다.
 
 ![](assets/ranks.png)

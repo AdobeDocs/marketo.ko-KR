@@ -6,7 +6,7 @@ exl-id: 770eefe1-05f9-409d-8e7c-b3f1e6ba8139
 feature: Static Lists
 source-git-commit: 208ba59e3a5cb8e613e887b4c89e51cec4b3f897
 workflow-type: tm+mt
-source-wordcount: '763'
+source-wordcount: '759'
 ht-degree: 1%
 
 ---
@@ -24,7 +24,7 @@ ht-degree: 1%
 ## 지원되는 대상 애플리케이션 {#supported-destination-applications}
 
 * Adobe Advertising Cloud
-* ADOBE ANALYTICS (_전용_ Adobe Audience Manager 라이선스 소유)
+* Adobe Analytics(_Adobe Audience Manager 라이선스가 있는 경우에만_)
 * Adobe Audience Manager
 * Adobe Experience Manager
 * Adobe Real-time Customer Data Platform
@@ -34,19 +34,19 @@ ht-degree: 1%
 
 정적 목록은 정적입니다. 수동으로 변경하지 않는 한 Adobe Experience Cloud의 목록은 변경되지 않습니다.
 
-1. Marketo에서 내보낼 목록을 찾습니다. 마우스 오른쪽 단추로 클릭하고 를 선택합니다. **[!UICONTROL Experience Cloud으로 보내기]**.
+1. Marketo에서 내보낼 목록을 찾습니다. 마우스 오른쪽 단추를 클릭하고 **[!UICONTROL Experience Cloud으로 보내기]**&#x200B;를 선택합니다.
 
    ![](assets/send-a-list-to-adobe-experience-cloud-1.png)
 
-1. 다음을 클릭합니다. **[!UICONTROL Audience Manager 폴더]** 드롭다운을 클릭하고 Experience Cloud에서 원하는 대상 폴더를 선택합니다.
+1. **[!UICONTROL Audience Manager 폴더]** 드롭다운을 클릭하고 Experience Cloud에서 원하는 대상 폴더를 선택합니다.
 
    ![](assets/send-a-list-to-adobe-experience-cloud-2.png)
 
-1. 새 대상을 만들지 또는 기존 대상을 덮어쓸지 여부를 선택합니다(이 예제에서는 새 대상을 만드는 것입니다). 새 대상 이름을 입력하고 **[!UICONTROL 보내기]**.
+1. 새 대상을 만들지 또는 기존 대상을 덮어쓸지 여부를 선택합니다(이 예제에서는 새 대상을 만드는 것입니다). 새 대상 이름을 입력하고 **[!UICONTROL 보내기]**&#x200B;를 클릭합니다.
 
    ![](assets/send-a-list-to-adobe-experience-cloud-3.png)
 
-1. 클릭 **[!UICONTROL 확인]**.
+1. **[!UICONTROL 확인]**&#x200B;을 클릭합니다.
 
    ![](assets/send-a-list-to-adobe-experience-cloud-4.png)
 
@@ -58,19 +58,19 @@ ht-degree: 1%
 
 목록 동기화는 Marketo에서 목록을 업데이트할 때마다 해당 변경 사항이 Adobe Experience Cloud의 해당 대상자에게 자동으로 동기화됨을 의미합니다.
 
-1. Marketo에서 내보낼 목록을 찾습니다. 마우스 오른쪽 단추로 클릭하고 를 선택합니다. **[!UICONTROL Experience Cloud으로 보내기]**.
+1. Marketo에서 내보낼 목록을 찾습니다. 마우스 오른쪽 단추를 클릭하고 **[!UICONTROL Experience Cloud으로 보내기]**&#x200B;를 선택합니다.
 
    ![](assets/send-a-list-to-adobe-experience-cloud-5.png)
 
-1. 다음을 클릭합니다. **[!UICONTROL 대상 라이브러리 폴더]** 드롭다운을 클릭하고 Experience Cloud에서 원하는 대상 폴더를 선택합니다.
+1. **[!UICONTROL 대상 라이브러리 폴더]** 드롭다운을 클릭하고 Experience Cloud에서 원하는 대상 폴더를 선택합니다.
 
    ![](assets/send-a-list-to-adobe-experience-cloud-6.png)
 
-1. 새 대상을 만들지 또는 기존 대상을 덮어쓸지 여부를 선택합니다(이 예제에서는 새 대상을 만드는 것입니다). 새 대상 이름을 입력하고 다음을 확인합니다. **[!UICONTROL 대상자 멤버십을 동기화합니다.]** 상자 및 클릭 **[!UICONTROL 보내기]**.
+1. 새 대상을 만들지 또는 기존 대상을 덮어쓸지 여부를 선택합니다(이 예제에서는 새 대상을 만드는 것입니다). 새 대상 이름을 입력하고 **[!UICONTROL 대상 멤버십을 동기화에 유지]** 상자를 선택한 다음 **[!UICONTROL 보내기]**&#x200B;를 클릭합니다.
 
    ![](assets/send-a-list-to-adobe-experience-cloud-7.png)
 
-1. 클릭 **OK**.
+1. **OK**&#x200B;을(를) 클릭합니다.
 
    ![](assets/send-a-list-to-adobe-experience-cloud-8.png)
 
@@ -78,15 +78,15 @@ ht-degree: 1%
 
 언제든지 목록 동기화를 중지할 수 있습니다.
 
-1. Marketo에서 동기화를 중지할 목록을 찾아 마우스 오른쪽 버튼으로 클릭합니다. 클릭 **[!UICONTROL 목록 동기화 중지]**.
+1. Marketo에서 동기화를 중지할 목록을 찾아 마우스 오른쪽 버튼으로 클릭합니다. **[!UICONTROL 목록 동기화 중지]**&#x200B;를 클릭합니다.
 
    ![](assets/send-a-list-to-adobe-experience-cloud-9.png)
 
-1. 동기화 중지를 원하는 대상자를 선택하고 **[!UICONTROL 중지]**.
+1. 동기화 중지를 원하는 대상자를 선택하고 **[!UICONTROL 중지]**&#x200B;를 클릭합니다.
 
    ![](assets/send-a-list-to-adobe-experience-cloud-10.png)
 
-1. 클릭 **[!UICONTROL 중지]** 확인할 수 있습니다.
+1. 확인하려면 **[!UICONTROL 중지]**&#x200B;를 클릭하세요.
 
    ![](assets/send-a-list-to-adobe-experience-cloud-11.png)
 
@@ -94,9 +94,9 @@ ht-degree: 1%
 
 **Adobe Analytics에 공유**
 
-Adobe Audience Manager과 Adobe Analytics을 모두 소유하는 고객의 경우, 이 통합을 통해 대상을 Marketo에서 Adobe Analytics 보고서 세트로 공유할 수 있지만, 이를 활성화하기 위해 Adobe Audience Manager에서 수행해야 하는 몇 가지 추가 구성 단계가 있습니다. 검토하십시오. [Adobe Audience Manager 설명서](https://experienceleague.adobe.com/docs/analytics/integration/audience-analytics/mc-audiences-aam.html){target="_blank"} 을(를) 설정하는 방법에 대한 자세한 내용을 보려면 을(를) 참조하십시오.
+Adobe Audience Manager과 Adobe Analytics을 모두 소유하는 고객의 경우, 이 통합을 통해 대상을 Marketo에서 Adobe Analytics 보고서 세트로 공유할 수 있지만, 이를 활성화하기 위해 Adobe Audience Manager에서 수행해야 하는 몇 가지 추가 구성 단계가 있습니다. 설정 방법에 대한 자세한 내용은 [Adobe Audience Manager의 설명서](https://experienceleague.adobe.com/docs/analytics/integration/audience-analytics/mc-audiences-aam.html){target="_blank"}를 검토하십시오.
 
-**Adobe Audience Manager 고객을 위한 트레이트 사용**
+**Adobe Audience Manager 고객의 트레이트 사용**
 
 Marketo에서 목록 내보내기를 시작하면 Adobe Audience Manager 인스턴스에 다음과 같은 변경 사항이 반영됩니다.
 
@@ -114,7 +114,7 @@ Marketo에서 목록 내보내기를 시작하면 Adobe Audience Manager 인스�
 
 Marketo 구독에 대해 쿠키 동기화가 활성화되면 Marketo의 munchkin.js가 통합 설정 중에 지정한 Adobe IMS 조직의 Adobe ECID를 캡처하고 저장하고 이 ECID를 해당 Marketo 쿠키 식별자와 일치시키려고 합니다. 이렇게 하면 Marketo의 익명 사용자 프로필이 Adobe ECID로 보강될 수 있습니다.
 
-일반 텍스트 이메일을 사용하여 식별된 잠재 고객 프로필에 익명 사용자 프로필을 연결하는 추가 단계가 필요합니다. 정확하게 작동 방식 [여기에 설명됨](/help/marketo/product-docs/reporting/basic-reporting/report-activity/tracking-anonymous-activity-and-people.md){target="_blank"}.
+일반 텍스트 이메일을 사용하여 식별된 잠재 고객 프로필에 익명 사용자 프로필을 연결하는 추가 단계가 필요합니다. 작동 방식은 [여기에서 설명](/help/marketo/product-docs/reporting/basic-reporting/report-activity/tracking-anonymous-activity-and-people.md){target="_blank"}됩니다.
 
 **어떤 정보가 공유됩니까?**
 

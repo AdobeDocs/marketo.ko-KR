@@ -7,23 +7,23 @@ feature: Tokens
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '171'
-ht-degree: 0%
+ht-degree: 1%
 
 ---
 
 # 이메일에 이메일 스크립트 토큰 추가 {#add-an-email-script-token-to-your-email}
 
-다음 작업을 수행한 후 [이(가) 이메일 스크립트를 만들었습니다.](/help/marketo/product-docs/email-marketing/general/using-tokens/create-an-email-script-token.md)을(를) 이메일에 추가하여 실제로 확인할 수 있습니다. 방법은 다음과 같습니다.
+[전자 메일 스크립트를 만든](/help/marketo/product-docs/email-marketing/general/using-tokens/create-an-email-script-token.md)후에는 전자 메일에 추가하여 실제로 사용할 수 있습니다. 방법은 다음과 같습니다.
 
 >[!NOTE]
 >
 >단일 이메일에 삽입된 모든 스크립트 토큰의 총 크기는 100KB를 초과할 수 없습니다.
 
-1. 로 이동 **마케팅 활동** 영역입니다.
+1. **마케팅 활동** 영역으로 이동합니다.
 
    ![](assets/one-2.png)
 
-1. 토큰을 추가할 이메일을 찾아 선택하고 **초안 편집**.
+1. 토큰을 추가할 이메일을 찾아 선택하고 **초안 편집**&#x200B;을 클릭합니다.
 
    ![](assets/two-2.png)
 
@@ -39,7 +39,7 @@ ht-degree: 0%
 
    ![](assets/four-2.png)
 
-1. 이전에 만든 이메일 스크립트 토큰을 찾아 선택하고 **삽입**.
+1. 이전에 만든 전자 메일 스크립트 토큰을 찾아 선택한 다음 **삽입**&#x200B;을 클릭합니다.
 
    ![](assets/five-1.png)
 
@@ -47,12 +47,12 @@ ht-degree: 0%
    >
    >원하는 경우 기본값을 추가합니다.
 
-1. 클릭 **저장**.
+1. **저장**&#x200B;을 클릭합니다.
 
    ![](assets/six.png)
 
 >[!NOTE]
 >
->잊지 말고 [이메일 승인](/help/marketo/product-docs/email-marketing/general/creating-an-email/approve-an-email.md).
+>[전자 메일을 승인](/help/marketo/product-docs/email-marketing/general/creating-an-email/approve-an-email.md)하는 것을 잊지 마십시오.
 
 다 됐습니다! 이 이메일이 전송되면 토큰 뒤에 있는 스크립트가 실행되고 콘텐츠가 채워집니다.

@@ -19,7 +19,7 @@ ht-degree: 0%
 >
 >활성 캠페인에 대한 스마트 목록 또는 흐름 단계를 편집하면 기능이 중단될 수 있습니다. 그렇게 하기로 선택한 경우 신중하게 진행하십시오.
 
-1. 스마트 캠페인을 선택한 다음 **[!UICONTROL 스마트 목록]**.
+1. 스마트 캠페인을 선택한 다음 **[!UICONTROL 스마트 목록]**&#x200B;을 클릭합니다.
 
    ![](assets/define-smart-list-for-smart-campaign-batch-1.png)
 
@@ -29,11 +29,11 @@ ht-degree: 0%
 
    >[!NOTE]
    >
-   >필터만 있는 스마트 캠페인은에서 실행됩니다 _일괄 처리_ 모드. 데이터베이스에서 필터를 기반으로 자격을 부여하는 사람을 찾아서 해당 필터 모두를 한 번에 통과시킵니다.
+   >필터만 있는 스마트 캠페인은 _일괄 처리_ 모드에서 실행됩니다. 데이터베이스에서 필터를 기반으로 자격을 부여하는 사람을 찾아서 해당 필터 모두를 한 번에 통과시킵니다.
 
    >[!NOTE]
    >
-   >트리거를 추가하여 실시간 이벤트를 기반으로 한 한 번에 한 명씩 스마트 캠페인을 실행하여 Smart Campaign을 실행할 수 있습니다 _트리거_ 모드.
+   >트리거를 추가하여 한 번에 한 사람씩 스마트 캠페인을 실행할 수 있습니다. 이렇게 하면 스마트 캠페인이 _트리거_ 모드로 전환됩니다.
 
 1. 드롭다운을 클릭하고 선택한 필터에 대한 필터 연산자를 선택합니다.
 
@@ -49,11 +49,11 @@ ht-degree: 0%
 
    >[!NOTE]
    >
-   >기본적으로 모든 스마트 목록 규칙을 충족하는 사람은 자격이 있습니다. 이는 캠페인 요구 사항에 맞게 수정할 수 있습니다. 체크아웃  [복잡한 논리에 대한 스마트 목록 규칙](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/using-smart-lists/using-advanced-smart-list-rule-logic.md){target="_blank"} 자세히 알아보십시오.
+   >기본적으로 모든 스마트 목록 규칙을 충족하는 사람은 자격이 있습니다. 이는 캠페인 요구 사항에 맞게 수정할 수 있습니다. 자세히 알아보려면 [복잡한 논리에 대한 스마트 목록 규칙](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/using-smart-lists/using-advanced-smart-list-rule-logic.md){target="_blank"}을 확인하십시오.
 
-   한 번에 한 사람씩 라이브 이벤트를 트리거하려면 다음 방법을 알아보세요. [스마트 캠페인을 위한 스마트 목록 정의 | 트리거](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/creating-a-smart-campaign/define-smart-list-for-smart-campaign-trigger.md){target="_blank"}.
+   한 번에 한 사람씩 라이브 이벤트를 트리거하려면 [Smart Campaign용 스마트 목록을 정의하는 방법을 알아보세요. | 트리거 ](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/creating-a-smart-campaign/define-smart-list-for-smart-campaign-trigger.md){target="_blank"}.
 
    >[!MORELIKETHIS]
    >
-   >* [스마트 캠페인을 위한 스마트 목록 정의 | 트리거](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/creating-a-smart-campaign/define-smart-list-for-smart-campaign-trigger.md){target="_blank"}
-   >* [스마트 캠페인에 플로우 단계 추가](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/add-a-flow-step-to-a-smart-campaign.md){target="_blank"}
+   >* [스마트 캠페인용 스마트 목록 정의 | 트리거](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/creating-a-smart-campaign/define-smart-list-for-smart-campaign-trigger.md){target="_blank"}
+   >* [스마트 캠페인에 흐름 단계 추가](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/add-a-flow-step-to-a-smart-campaign.md){target="_blank"}

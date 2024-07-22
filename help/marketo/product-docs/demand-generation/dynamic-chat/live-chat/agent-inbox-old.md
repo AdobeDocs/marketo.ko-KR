@@ -25,7 +25,7 @@ ht-degree: 1%
 
 >[!IMPORTANT]
 >
->**재정의합니다.** 다음 [라이브 채팅 가용성](/help/marketo/product-docs/demand-generation/dynamic-chat/setup-and-configuration/agent-settings.md#live-chat-availability){target="_blank"} 에이전트 설정에서 을(를) 설정했습니다. 상태를 다시 전환하거나 사용 가능한 다음 시간 블록으로 전환할 때까지 유지됩니다.
+>**에이전트 설정에서 설정한 [실시간 채팅 가용성](/help/marketo/product-docs/demand-generation/dynamic-chat/setup-and-configuration/agent-settings.md#live-chat-availability){target="_blank"}을 재정의합니다**. 상태를 다시 전환하거나 사용 가능한 다음 시간 블록으로 전환할 때까지 유지됩니다.
 
 >[!NOTE]
 >
@@ -33,7 +33,7 @@ ht-degree: 1%
 
 ## 라이브 채팅 알림 {#live-chat-notifications}
 
-에서 알림에 대해 자세히 알아보기 [라이브 채팅 개요](/help/marketo/product-docs/demand-generation/dynamic-chat/live-chat/live-chat-overview.md#live-chat-notifications){target="_blank"}.
+[실시간 채팅 개요](/help/marketo/product-docs/demand-generation/dynamic-chat/live-chat/live-chat-overview.md#live-chat-notifications){target="_blank"}에서 알림에 대해 자세히 알아보세요.
 
 ## 대화 {#conversations}
 
@@ -53,7 +53,7 @@ ht-degree: 1%
 
 ## 세션 종료 {#end-a-session}
 
-에이전트는 다음을 클릭하여 세션을 수동으로 종료할 수 있습니다. **세션 종료** 방문자 정보 옆에 있는 단추입니다.
+에이전트는 방문자 정보 옆에 있는 **세션 종료** 단추를 클릭하여 세션을 수동으로 종료할 수 있습니다.
 
 ![](assets/agent-inbox-6.png)
 
@@ -75,7 +75,7 @@ ht-degree: 1%
 
    ![](assets/agent-inbox-8.png)
 
-1. 원하는 에이전트 달력을 선택하고 **보내기**.
+1. 원하는 에이전트 일정을 선택하고 **보내기**&#x200B;를 클릭합니다.
 
    ![](assets/agent-inbox-9.png)
 

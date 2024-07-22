@@ -6,7 +6,7 @@ exl-id: 678684da-3e99-462f-9950-504df1c1bb1e
 feature: Marketo Sales Insights
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
-source-wordcount: '128'
+source-wordcount: '119'
 ht-degree: 0%
 
 ---
@@ -49,4 +49,4 @@ ht-degree: 0%
 >
 >플러그인을 원격으로 제거하면 사용자의 컴퓨터에서 Outlook이 강제로 닫힙니다.
 
-다음을 참조하십시오. [Microsoft의 전체 스위치 목록](https://support.microsoft.com/en-us/office/command-line-switches-for-microsoft-office-products-079164cd-4ef5-4178-b235-441737deb3a6) 다른 로깅 수준 또는 사용자 인터페이스 수준을 사용하려고 하는 경우.
+다른 로깅 수준이나 사용자 인터페이스 수준을 시도하려면 [Microsoft의 전체 스위치 목록](https://support.microsoft.com/en-us/office/command-line-switches-for-microsoft-office-products-079164cd-4ef5-4178-b235-441737deb3a6)을 참조하십시오.

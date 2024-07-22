@@ -6,7 +6,7 @@ exl-id: c1ae1fb8-d1ad-4c1b-899b-29629fcb166b
 feature: Marketo Sales Insights
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
-source-wordcount: '181'
+source-wordcount: '172'
 ht-degree: 0%
 
 ---
@@ -17,7 +17,7 @@ ht-degree: 0%
 
 >[!PREREQUISITES]
 >
->[설정](/help/marketo/product-docs/marketo-sales-insight/msi-outlook-plugin/install-the-marketo-add-in-for-outlook-with-an-enterprise-key.md) Enterprise 키.
+>Enterprise 키를 [설정](/help/marketo/product-docs/marketo-sales-insight/msi-outlook-plugin/install-the-marketo-add-in-for-outlook-with-an-enterprise-key.md)합니다.
 
 다음 명령줄을 &#39;System&#39;으로 실행하거나 /i 스위치를 사용하여 관리자 계정을 실행하여 설치합니다.
 
@@ -53,8 +53,8 @@ ht-degree: 0%
 >
 >로그 파일의 저장소 위치가 있어야 합니다. 그렇지 않으면 설치가 중단됩니다.
 
-다음을 참조하십시오. [Microsoft의 전체 스위치 목록](https://support.microsoft.com/en-us/office/command-line-switches-for-microsoft-office-products-079164cd-4ef5-4178-b235-441737deb3a6) 다른 로깅 수준 또는 사용자 인터페이스 수준을 사용하려고 하는 경우.
+다른 로깅 수준이나 사용자 인터페이스 수준을 시도하려면 [Microsoft의 전체 스위치 목록](https://support.microsoft.com/en-us/office/command-line-switches-for-microsoft-office-products-079164cd-4ef5-4178-b235-441737deb3a6)을 참조하십시오.
 
 >[!MORELIKETHIS]
 >
->[IT에서 Marketo Outlook 플러그인 제거](/help/marketo/product-docs/marketo-sales-insight/msi-outlook-plugin/marketo-outlook-plugin-uninstall-by-it.md)
+>[IT에서 Marketo Outlook 플러그 인 제거](/help/marketo/product-docs/marketo-sales-insight/msi-outlook-plugin/marketo-outlook-plugin-uninstall-by-it.md)

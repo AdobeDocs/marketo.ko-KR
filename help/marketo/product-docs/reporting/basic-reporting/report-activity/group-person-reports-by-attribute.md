@@ -15,21 +15,21 @@ ht-degree: 0%
 
 개인 보고서를 개인 또는 회사 특성별로 그룹화할 수 있습니다.
 
-1. 로 이동 **마케팅 활동** (또는 **분석**) 영역입니다.
+1. **마케팅 활동**(또는 **분석**) 영역으로 이동합니다.
 
    ![](assets/image2017-3-28-10-3a22-3a53.png)
 
-1. 탐색 트리에서 개인 보고서를 선택하고 **설정** 탭.
+1. 탐색 트리에서 개인 보고서를 선택하고 **설정** 탭을 클릭합니다.
 
    ![](assets/image2017-3-28-11-3a33-3a48.png)
 
-1. 두 번 클릭 **사람 그룹화 기준**.
+1. **사람 그룹화 기준**&#x200B;을 두 번 클릭합니다.
 
    ![](assets/image2017-3-28-11-3a34-3a5.png)
 
    >[!NOTE]
    >
-   >다음을 수행할 수도 있습니다. [개인 보고서를 세그먼트별로 그룹화](/help/marketo/product-docs/personalization/segmentation-and-snippets/segmentation/group-person-reports-by-segment.md).
+   >[개인 보고서를 세그먼트별로 그룹화](/help/marketo/product-docs/personalization/segmentation-and-snippets/segmentation/group-person-reports-by-segment.md)할 수도 있습니다.
 
    사용자 그룹화 기준 대화 상자에서 그룹화에 사용할 개인 또는 회사 속성을 선택합니다.
 
@@ -37,7 +37,7 @@ ht-degree: 0%
 
    >[!TIP]
    >
-   >다음과 같이 숫자 값이 있는 속성을 선택하는 경우 _생성 시간_ 또는 _연간 수익_&#x200B;에서 지표를 선택합니다. **판매량** 오른쪽 드롭다운
+   >_다음에서 생성됨_ 또는 _연간 매출_&#x200B;과 같이 숫자 값이 있는 특성을 선택하는 경우 오른쪽의 **단위** 드롭다운에서 지표를 선택합니다.
 
    다 됐습니다! 보고서 탭을 클릭하면 보고서가 그에 따라 그룹화됩니다.
 
@@ -45,4 +45,4 @@ ht-degree: 0%
 
    >[!MORELIKETHIS]
    >
-   >[개인 보고서에 사용자 정의 열 추가](/help/marketo/product-docs/reporting/basic-reporting/editing-reports/add-custom-columns-to-a-person-report.md)
+   >[개인 보고서에 사용자 지정 열 추가](/help/marketo/product-docs/reporting/basic-reporting/editing-reports/add-custom-columns-to-a-person-report.md)

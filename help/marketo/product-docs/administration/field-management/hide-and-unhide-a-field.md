@@ -21,15 +21,15 @@ ht-degree: 1%
 >
 >**관리자 권한 필요**
 
-1. 로 이동 **[!UICONTROL 관리자]** 영역입니다.
+1. **[!UICONTROL 관리자]** 영역으로 이동합니다.
 
    ![](assets/hide-and-unhide-a-field-1.png)
 
-1. 클릭 **[!UICONTROL 필드 관리]**.
+1. **[!UICONTROL 필드 관리]**&#x200B;를 클릭합니다.
 
    ![](assets/hide-and-unhide-a-field-2.png)
 
-1. 필드를 찾아 선택한 다음 아래에 **[!UICONTROL 필드 작업]** 클릭 **[!UICONTROL 필드 숨기기]**.
+1. 필드를 찾아 선택한 다음 **[!UICONTROL 필드 작업]**&#x200B;에서 **[!UICONTROL 필드 숨기기]**&#x200B;를 클릭합니다.
 
    ![](assets/hide-and-unhide-a-field-3.png)
 
@@ -39,7 +39,7 @@ ht-degree: 1%
    >* 표준(시스템) 필드는 숨길 수 없습니다.
    >* 영업 기회 정보 필드는 숨길 수 없습니다.
 
-1. 클릭 **[!UICONTROL 숨기기]** 확인할 수 있습니다.
+1. 확인하려면 **[!UICONTROL 숨기기]**&#x200B;를 클릭하세요.
 
    ![](assets/hide-and-unhide-a-field-4.png)
 
@@ -49,15 +49,15 @@ ht-degree: 1%
 
 ## 필드 숨기기 취소 {#unhide-a-field}
 
-1. 로 이동 **[!UICONTROL 관리자]** 영역입니다.
+1. **[!UICONTROL 관리자]** 영역으로 이동합니다.
 
    ![](assets/hide-and-unhide-a-field-6.png)
 
-1. 클릭 **[!UICONTROL 필드 관리]**.
+1. **[!UICONTROL 필드 관리]**&#x200B;를 클릭합니다.
 
    ![](assets/hide-and-unhide-a-field-7.png)
 
-1. 필드를 찾아 선택합니다. 다음에서 [!UICONTROL 필드 작업] 드롭다운, 클릭 **[!UICONTROL 필드 숨기기 취소]**.
+1. 필드를 찾아 선택합니다. [!UICONTROL 필드 작업] 드롭다운에서 **[!UICONTROL 필드 숨김 해제]**&#x200B;를 클릭합니다.
 
    ![](assets/hide-and-unhide-a-field-8.png)
 

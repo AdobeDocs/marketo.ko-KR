@@ -13,13 +13,13 @@ ht-degree: 0%
 
 # 웹 페이지 조회함, 웹 페이지 활동 보고서 {#web-pages-viewed-web-page-activity-report}
 
-다음에서: [웹 페이지 활동 보고서](/help/marketo/product-docs/reporting/basic-reporting/report-types/web-page-activity-report.md)보고서에서 사람들이 본 특정 페이지를 볼 수 있습니다.
+[웹 페이지 활동 보고서](/help/marketo/product-docs/reporting/basic-reporting/report-types/web-page-activity-report.md)에서 보고서에 있는 사람들이 본 특정 페이지를 볼 수 있습니다.
 
 >[!PREREQUISITES]
 >
->Marketo에서 웹 사이트의 활동을 캡처하려면 먼저 다음을 수행해야 합니다  [사이트에서 Munchkin 설정](/help/marketo/product-docs/administration/additional-integrations/add-munchkin-tracking-code-to-your-website.md).
+>Marketo의 웹 사이트에서 활동을 캡처하려면 먼저 [사이트에서 Munchkin을 설정](/help/marketo/product-docs/administration/additional-integrations/add-munchkin-tracking-code-to-your-website.md)해야 합니다.
 
-1. 내 [웹 페이지 활동 보고서](/help/marketo/product-docs/reporting/basic-reporting/report-types/web-page-activity-report.md), 페이지 보기 열에서 숫자를 클릭합니다.
+1. [웹 페이지 활동 보고서](/help/marketo/product-docs/reporting/basic-reporting/report-types/web-page-activity-report.md)에서 페이지 보기 열의 숫자를 클릭합니다.
 
    ![](assets/image2014-9-16-14-3a54-3a8.png)
 
@@ -29,4 +29,4 @@ ht-degree: 0%
 
    >[!MORELIKETHIS]
    >
-   >만들기  [회사 웹 활동 보고서](/help/marketo/product-docs/reporting/basic-reporting/report-types/company-web-activity-report.md) 사이트를 방문하는 회사를 확인합니다.
+   >[회사 웹 활동 보고서](/help/marketo/product-docs/reporting/basic-reporting/report-types/company-web-activity-report.md)를 만들어 사이트를 방문하는 회사를 확인하세요.

@@ -5,7 +5,7 @@ exl-id: 235a2688-59a8-4827-a929-a07f3ae06988
 feature: Forms
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
-source-wordcount: '353'
+source-wordcount: '343'
 ht-degree: 0%
 
 ---
@@ -18,11 +18,11 @@ ReCAPTCHA v3은 텍스트, 이미지 또는 버튼 문제를 사용하지 않고
 
 아래의 초기 reCAPTCHA v3 설정 섹션의 6단계는 Marketo Engage 구독의 데이터 센터와 Munchkin ID가 필요합니다. 찾는 방법은 다음과 같습니다.
 
-1. Marketo에서 **관리자**.
+1. Marketo에서 **관리자**&#x200B;를 클릭합니다.
 
    ![](assets/setting-up-recaptcha-v3-1.png)
 
-1. 클릭 **내 계정**.
+1. **내 계정**&#x200B;을 클릭합니다.
 
    ![](assets/setting-up-recaptcha-v3-2.png)
 
@@ -34,7 +34,7 @@ ReCAPTCHA v3은 텍스트, 이미지 또는 버튼 문제를 사용하지 않고
 
 다음 단계는 Marketo 외부에서 수행됩니다.
 
-1. 다음으로 이동 [https://www.google.com/recaptcha/about/](https://www.google.com/recaptcha/about/){target="_blank"} v3 Admin Console을 클릭합니다.
+1. [https://www.google.com/recaptcha/about/](https://www.google.com/recaptcha/about/){target="_blank"}(으)로 이동하여 v3 Admin Console을 클릭합니다.
 
 1. Google 계정으로 로그인/등록
 
@@ -42,9 +42,9 @@ ReCAPTCHA v3은 텍스트, 이미지 또는 버튼 문제를 사용하지 않고
 
 1. Marketo Engage에 사용할 키를 식별하는 레이블을 만듭니다.
 
-1. 유형 선택 **reCAPTCHA v3**. Marketo Engage은 현재 reCAPTCHA v2를 지원하지 않습니다.
+1. **reCAPTCHA v3** 형식을 선택하십시오. Marketo Engage은 현재 reCAPTCHA v2를 지원하지 않습니다.
 
-1. Marketo Engage 구독에서 사용하는 각 도메인을 추가합니다. 여기에 설정되지 않은 도메인은 reCAPTCHA가 활성화된 양식에서 오류를 반환합니다. &quot;datacenter&quot; 및 &quot;munchkinID&quot;를 [구독의 데이터](#retrieve-your-data-center-and-munchkin-id).
+1. Marketo Engage 구독에서 사용하는 각 도메인을 추가합니다. 여기에 설정되지 않은 도메인은 reCAPTCHA가 활성화된 양식에서 오류를 반환합니다. &#39;datacenter&#39; 및 &#39;munchkinID&#39;를 구독의 [데이터](#retrieve-your-data-center-and-munchkin-id)(으)로 바꾸십시오.
 
    * app-datacenter.marketo.com
    * munchkinID.mktoweb.com
@@ -52,13 +52,13 @@ ReCAPTCHA v3은 텍스트, 이미지 또는 버튼 문제를 사용하지 않고
 
    >[!NOTE]
    >
-   >예를 들어, 계정의 데이터 센터가 &quot;sjst&quot;인 경우 허용 목록에 추가하다 도메인은 다음과 같습니다. `app-sjst.marketo.com`. Munchkin ID가 123-ABC-789이면 허용 목록에 추가하다 도메인이 됩니다. `123-ABC-789.mktoweb.com`.
+   >예를 들어, 계정의 데이터 센터가 &quot;sjst&quot;인 경우 허용 목록에 추가하다 도메인은 `app-sjst.marketo.com`입니다. Munchkin ID가 123-ABC-789인 경우 허용 목록에 추가하다 도메인은 `123-ABC-789.mktoweb.com`입니다.
 
 1. 이 서비스에 대한 알림을 수신할 소유자 및 추가 이메일 주소를 설정하십시오.
 
 1. reCAPTCHA 서비스 약관에 동의합니다.
 
-1. 클릭 **제출**.
+1. **제출**&#x200B;을 클릭합니다.
 
    >[!NOTE]
    >
@@ -68,17 +68,17 @@ ReCAPTCHA v3은 텍스트, 이미지 또는 버튼 문제를 사용하지 않고
 
 >[!IMPORTANT]
 >
->다음 단계를 수행하고 [첫 번째 Marketo 양식에서 CAPTCHA 활성화](/help/marketo/product-docs/demand-generation/forms/using-captcha/enable-captcha-in-marketo-forms.md){target="_blank"}, reCAPTCHA 설정의 잘못된 구성으로 인해 양식이 손상될 수 있으므로 양식을 즉시 테스트해야 합니다.
+>이 단계를 따라 [첫 번째 Marketo 양식에서 CAPTCHA를 사용](/help/marketo/product-docs/demand-generation/forms/using-captcha/enable-captcha-in-marketo-forms.md){target="_blank"}한 후 reCAPTCHA 설정에서 잘못 구성하면 양식이 손상될 수 있으므로 양식을 즉시 테스트해야 합니다.
 
-1. Marketo에서 **관리자**.
+1. Marketo에서 **관리자**&#x200B;를 클릭합니다.
 
    ![](assets/setting-up-recaptcha-v3-4.png)
 
-1. 선택 **CAPTCHA** 나무에.
+1. 트리에서 **CAPTCHA**&#x200B;을(를) 선택하십시오.
 
    ![](assets/setting-up-recaptcha-v3-5.png)
 
-1. 클릭 **편집** CAPTCHA 설정에서 다음을 수행합니다.
+1. CAPTCHA 설정에서 **편집**&#x200B;을 클릭합니다.
 
    ![](assets/setting-up-recaptcha-v3-6.png)
 
@@ -86,10 +86,10 @@ ReCAPTCHA v3은 텍스트, 이미지 또는 버튼 문제를 사용하지 않고
 
    ![](assets/setting-up-recaptcha-v3-7.png)
 
-1. 암호 키 및 사이트 키를 삽입합니다. 클릭 **저장** 완료 시.
+1. 암호 키 및 사이트 키를 삽입합니다. 완료되면 **저장**&#x200B;을 클릭합니다.
 
    ![](assets/setting-up-recaptcha-v3-8.png)
 
 >[!MORELIKETHIS]
 >
->[Marketo Forms에서 CAPTCHA 활성화](/help/marketo/product-docs/demand-generation/forms/using-captcha/enable-captcha-in-marketo-forms.md)
+>[Marketo Forms에서 CAPTCHA 사용](/help/marketo/product-docs/demand-generation/forms/using-captcha/enable-captcha-in-marketo-forms.md)

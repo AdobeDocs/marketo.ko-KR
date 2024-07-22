@@ -17,21 +17,21 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->수익 주기 탐색기 보고서 구독에 대해서는 다음을 참조하십시오. [매출 탐색기 보고서 구독](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-explorer/subscribe-to-a-revenue-explorer-report.md).
+>수익 주기 탐색기 보고서 구독에 대해서는 [수익 탐색기 보고서 구독](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-explorer/subscribe-to-a-revenue-explorer-report.md)을 참조하십시오.
 
-1. 로 이동 **마케팅 활동** 영역입니다.
+1. **마케팅 활동** 영역으로 이동합니다.
 
    ![](assets/image2014-9-16-10-3a31-3a54.png)
 
-1. 탐색 트리에서 보고서를 선택하고 **구독** 탭.
+1. 탐색 트리에서 보고서를 선택하고 **구독** 탭을 클릭합니다.
 
    ![](assets/image2014-9-16-10-3a32-3a1.png)
 
    >[!NOTE]
    >
-   >에서 보고서를 구독할 수도 있습니다. **분석** 탭.
+   >**분석** 탭에서 보고서를 구독할 수도 있습니다.
 
-1. 클릭 **새 보고서 구독**.
+1. **새 보고서 구독**&#x200B;을 클릭합니다.
 
    ![](assets/image2014-9-16-10-3a32-3a24.png)
 
@@ -49,4 +49,4 @@ ht-degree: 0%
 
    >[!MORELIKETHIS]
    >
-   >방법 알아보기 [모든 보고서 구독 관리](/help/marketo/product-docs/reporting/basic-reporting/report-subscriptions/manage-report-subscriptions.md) 한 곳에.
+   >한 곳에서 [모든 보고서 구독을 관리](/help/marketo/product-docs/reporting/basic-reporting/report-subscriptions/manage-report-subscriptions.md)하는 방법을 알아보세요.

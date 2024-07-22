@@ -6,7 +6,7 @@ exl-id: 194c7421-fe6d-4d8c-bd34-d3fc89ec80f2
 feature: Getting Started
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
-source-wordcount: '212'
+source-wordcount: '216'
 ht-degree: 0%
 
 ---
@@ -17,7 +17,7 @@ ht-degree: 0%
 
 ## 1단계: Marketo에 로그인 {#step-log-in-to-marketo}
 
-1. [Marketo에 로그인](https://app.marketo.com){target="_blank"} 전자 메일로 받은 자격 증명을 사용합니다.
+1. 전자 메일로 받은 자격 증명을 사용하여 [Marketo에 로그인](https://app.marketo.com){target="_blank"}.
 
    ![](assets/get-set-up-and-add-a-person-1.png)
 
@@ -25,15 +25,15 @@ ht-degree: 0%
 
 미션에서 수행할 모든 작업을 담을 폴더를 만들어 보겠습니다.
 
-1. 로 이동 **[!UICONTROL 마케팅 활동]** 영역입니다.
+1. **[!UICONTROL 마케팅 활동]** 영역으로 이동합니다.
 
    ![](assets/get-set-up-and-add-a-person-2.png)
 
-1. 다음을 클릭합니다. **[!UICONTROL 신규]** 드롭다운 및 선택 **[!UICONTROL 새 캠페인 폴더]**.
+1. **[!UICONTROL 새로 만들기]** 드롭다운을 클릭하고 **[!UICONTROL 새 캠페인 폴더]**&#x200B;를 선택합니다.
 
    ![](assets/get-set-up-and-add-a-person-3.png)
 
-1. 폴더 이름을 &quot;Learning&quot;으로 지정하고 **[!UICONTROL 만들기]**.
+1. 폴더 이름을 &quot;Learning&quot;으로 지정하고 **[!UICONTROL 만들기]**&#x200B;를 클릭합니다.
 
    ![](assets/get-set-up-and-add-a-person-4.png)
 
@@ -45,27 +45,27 @@ ht-degree: 0%
 
 나중에 테스트 이메일을 자신에게 보낼 수 있도록 Marketo에서 자신을 사람으로 추가합니다.
 
-1. 로 이동 **[!UICONTROL 데이터베이스]** 영역입니다.
+1. **[!UICONTROL 데이터베이스]** 영역으로 이동합니다.
 
    ![](assets/get-set-up-and-add-a-person-6.png)
 
-1. 다음을 클릭합니다. **[!UICONTROL 신규]** 드롭다운 및 선택 **[!UICONTROL 새 사용자]**.
+1. **[!UICONTROL 새로 만들기]** 드롭다운을 클릭하고 **[!UICONTROL 새 사용자]**&#x200B;을 선택합니다.
 
    ![](assets/get-set-up-and-add-a-person-7.png)
 
-1. 이름과 성, 이메일 주소 및 회사 이름을 입력한 다음 **[!UICONTROL 만들기]** 자신을 한 사람으로 추가하려는 경우.
+1. 이름과 성, 전자 메일 주소 및 회사 이름을 입력한 다음 **[!UICONTROL 만들기]**&#x200B;를 클릭하여 자신을 사용자로 추가합니다.
 
    ![](assets/get-set-up-and-add-a-person-8.png)
 
    >[!CAUTION]
    >
-   >Marketo은 **아님** 이모지가 포함된 이메일 주소를 지원합니다.
+   >Marketo은 이모지가 포함된 이메일 주소를 **지원하지 않습니다**.
 
-1. 내 직원을 보려면 [!UICONTROL 시스템 스마트 목록] 왼쪽 메뉴에서 **[!UICONTROL 모든 사람]**.
+1. 상대를 보려면 왼쪽 메뉴에서 [!UICONTROL 시스템 스마트 목록]을 연 다음 **[!UICONTROL 모든 사람]**&#x200B;을 클릭하세요.
 
    ![](assets/get-set-up-and-add-a-person-9.png)
 
-1. 다음을 클릭합니다. **[!UICONTROL 사람]** 탭. 데이터베이스에 있는 자신을 확인해야 합니다.
+1. **[!UICONTROL 사람]** 탭을 클릭합니다. 데이터베이스에 있는 자신을 확인해야 합니다.
 
    ![](assets/get-set-up-and-add-a-person-10.png)
 

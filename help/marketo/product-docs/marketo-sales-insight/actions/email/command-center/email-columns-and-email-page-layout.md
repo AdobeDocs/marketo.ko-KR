@@ -12,7 +12,7 @@ ht-degree: 2%
 
 # 전자 메일 열 및 전자 메일 페이지 레이아웃 {#email-columns-and-email-page-layout}
 
-의 이메일 섹션에 표시되도록 사용 가능한 열을 구성할 수 있습니다. [관리 센터](/help/marketo/product-docs/marketo-sales-insight/actions/email/command-center/command-center-overview.md). 구성 설정은 각 이메일 하위 폴더(예: 게재, 실패, 예약됨 등)에 대해 저장됩니다.
+[명령 센터](/help/marketo/product-docs/marketo-sales-insight/actions/email/command-center/command-center-overview.md)의 전자 메일 섹션에 사용 가능한 열을 표시하도록 구성할 수 있습니다. 구성 설정은 각 이메일 하위 폴더(예: 게재, 실패, 예약됨 등)에 대해 저장됩니다.
 
 ## 전자 메일 열 {#email-columns}
 
@@ -39,7 +39,7 @@ ht-degree: 2%
    <td>Sales Connect 담당자의 기본 이메일 주소.</td> 
   </tr> 
   <tr> 
-   <td><strong>캠페인</td> 
+   <td><strong>Campaign</td> 
    <td>이메일이 캠페인의 일부로 전송된 경우 캠페인 이름이 표시됩니다. 이 필드를 클릭하면 해당 캠페인의 설정 페이지로 이동합니다.</td> 
   </tr> 
   <tr> 
@@ -117,11 +117,11 @@ ht-degree: 2%
 
 다음 단계에 따라 레이아웃을 구성할 수 있습니다.
 
-1. 웹 응용 프로그램에서 **관리 센터**.
+1. 웹 응용 프로그램에서 **명령 센터**&#x200B;를 클릭합니다.
 
    ![](assets/email-columns-and-email-page-layout-1.png)
 
-1. 다음 항목 선택 **이메일** 섹션.
+1. **전자 메일** 섹션을 선택하십시오.
 
    ![](assets/email-columns-and-email-page-layout-2.png)
 

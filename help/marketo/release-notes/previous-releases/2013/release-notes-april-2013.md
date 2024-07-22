@@ -6,7 +6,7 @@ exl-id: 5b202877-b501-4cd2-9fe2-e8663dd5792f
 feature: Release Information
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
-source-wordcount: '208'
+source-wordcount: '213'
 ht-degree: 0%
 
 ---
@@ -37,7 +37,7 @@ Gmail뿐만 아니라 Marketo Sales Insight를 사용하는 경우 Chrome 스토
 
 ## 프로그램 API {#program-apis}
 
-프로그램 멤버십 카운트, 획득, 성공, 설정, 채널, 태그, 토큰 및 비용과 같은 프로그램 데이터에 대한 읽기 전용 액세스를 포함하여 SOAP API 호출에서 프로그램을 지원합니다. 자세한 내용은 SOAP API 설명서 를 참조하십시오.
+다음과 같은 프로그램 데이터에 대한 읽기 전용 액세스를 포함하여 SOAP API 호출의 프로그램 지원: 프로그램 멤버십 카운트, 획득, 성공, 설정, 채널, 태그, 토큰 및 비용. 자세한 내용은 SOAP API 설명서 를 참조하십시오.
 
 ## ON24 개선 사항 {#on-enhancement}
 

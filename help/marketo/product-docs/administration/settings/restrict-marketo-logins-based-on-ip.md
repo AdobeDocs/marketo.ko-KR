@@ -23,27 +23,27 @@ ht-degree: 0%
 >
 >이 문서의 정보는 login.marketo.com에 직접 로그인하는 사용자를 위한 것으로 Adobe ID을 통해 인증하는 사용자에게는 적용되지 않습니다. 지금은 SSO(Single Sign-On) 로그인에 IP 제한을 적용할 수 없습니다.
 
-1. 로 이동 **[!UICONTROL 관리자]** 영역입니다.
+1. **[!UICONTROL 관리자]** 영역으로 이동합니다.
 
    ![](assets/restrict-marketo-logins-based-on-ip-1.png)
 
-1. 클릭 **[!UICONTROL 로그인 설정]**.
+1. **[!UICONTROL 로그인 설정]**&#x200B;을 클릭합니다.
 
    ![](assets/restrict-marketo-logins-based-on-ip-2.png)
 
-1. 클릭 **[!UICONTROL IP 제한 편집]**.
+1. **[!UICONTROL IP 제한 편집]**&#x200B;을 클릭합니다.
 
    ![](assets/restrict-marketo-logins-based-on-ip-3.png)
 
-1. 다음 중 하나를 선택합니다. **허용** 또는 **차단** 특정 주소에서 주소를 입력한 다음 **[!UICONTROL 저장]**.
+1. 특정 주소를 **허용**&#x200B;할지 **차단**&#x200B;할지 선택하고 주소를 입력한 다음 **[!UICONTROL 저장]**&#x200B;을 클릭합니다.
 
    >[!NOTE]
    >
    >**정의**
    >
-   >* **[!UICONTROL 허용된 IP 주소]**: 허용된 IP 주소를 추가하는 것은 필수입니다. 지정된 모든 IP 주소를 포함하며 그 외의 모든 주소는 제외됩니다.
+   >* **[!UICONTROL 허용된 IP 주소]**: 허용된 IP 주소 추가는 포함됩니다. 지정된 모든 IP 주소를 포함하며 그 외의 모든 주소는 제외됩니다.
    >* **[!UICONTROL IP 주소 차단]**: 특정 IP가 Marketo에 액세스하지 못하도록 합니다.
-   >* **[!UICONTROL IP 제한 비활성화]**: 이 옵션을 선택하면 모든 제한 규칙이 작동하지 않습니다. 테스트 목적으로 사용하십시오.
+   >* **[!UICONTROL IP 제한 사용 안 함]**: 이 옵션을 선택하면 모든 제한 규칙이 작동하지 않습니다. 테스트 목적으로 사용하십시오.
 
    >[!NOTE]
    >

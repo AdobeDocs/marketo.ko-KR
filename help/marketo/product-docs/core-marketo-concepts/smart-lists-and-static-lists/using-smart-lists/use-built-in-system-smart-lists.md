@@ -15,15 +15,15 @@ ht-degree: 1%
 
 Marketo Engage은 매우 유용한 내장 스마트 목록을 가지고 있습니다. 확인해 보자!
 
-1. 로 이동 **[!UICONTROL 데이터베이스]**.
+1. **[!UICONTROL 데이터베이스]**(으)로 이동합니다.
 
    ![](assets/db.png)
 
-1. 를 엽니다. **[!UICONTROL 시스템 스마트 목록]** 폴더를 클릭하여 컬렉션을 표시합니다.
+1. **[!UICONTROL 시스템 스마트 목록]** 폴더를 열어 컬렉션을 표시합니다.
 
    ![](assets/two.png)
 
-1. 예를 보려면 다음을 선택합니다. **[!UICONTROL 모든 사람]**&#x200B;을(를) 클릭하고 **[!UICONTROL 사람]** 탭.
+1. 예를 보려면 **[!UICONTROL 모든 직원]**&#x200B;을 선택한 다음 **[!UICONTROL 직원]** 탭을 클릭하세요.
 
    ![](assets/three.png)
 

@@ -15,11 +15,11 @@ ht-degree: 0%
 
 업로드한 이미지 또는 파일의 웹 주소(URL)를 찾고 계십니까?
 
-1. 로 이동 **[!UICONTROL Design Studio]**.
+1. **[!UICONTROL 디자인 스튜디오]**(으)로 이동합니다.
 
    ![](assets/find-the-url-of-an-uploaded-image-or-file-1.png)
 
-1. 클릭 **[!UICONTROL 이미지 및 파일]**.
+1. **[!UICONTROL 이미지 및 파일]**&#x200B;을 클릭합니다.
 
    ![](assets/find-the-url-of-an-uploaded-image-or-file-2.png)
 
@@ -27,10 +27,10 @@ ht-degree: 0%
 
    ![](assets/find-the-url-of-an-uploaded-image-or-file-3.png)
 
-1. 다음 **[!UICONTROL URL]** 세부 정보 페이지에 표시됩니다.
+1. **[!UICONTROL URL]**&#x200B;이(가) 세부 정보 페이지에 표시됩니다.
 
    ![](assets/find-the-url-of-an-uploaded-image-or-file-4.png)
 
 >[!MORELIKETHIS]
 >
->[업로드한 이미지 또는 파일 바꾸기](/help/marketo/product-docs/demand-generation/images-and-files/replace-an-uploaded-image-or-file.md){target="_blank"}
+>[업로드된 이미지 또는 파일 바꾸기](/help/marketo/product-docs/demand-generation/images-and-files/replace-an-uploaded-image-or-file.md){target="_blank"}

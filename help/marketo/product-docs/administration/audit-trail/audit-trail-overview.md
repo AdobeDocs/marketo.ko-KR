@@ -6,7 +6,7 @@ exl-id: e8aff7b7-72ca-4d4e-9159-56ff65f6345c
 feature: Audit Trail
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
-source-wordcount: '328'
+source-wordcount: '332'
 ht-degree: 0%
 
 ---
@@ -33,7 +33,7 @@ ht-degree: 0%
 
 ## 당사가 감사하는 내용 {#what-we-audit}
 
-Marketo에서 다음을 감사함: [만들기, 편집 및 삭제](/help/marketo/product-docs/administration/audit-trail/change-details-in-audit-trail.md) 다음에 대한 작업:
+Marketo은 다음에 대한 [만들기, 편집 및 삭제](/help/marketo/product-docs/administration/audit-trail/change-details-in-audit-trail.md) 작업을 감사합니다.
 
 * Studio 자산 디자인
 * 모든 Marketo 프로그램
@@ -41,12 +41,12 @@ Marketo에서 다음을 감사함: [만들기, 편집 및 삭제](/help/marketo/
 * 목록(스마트/정적)
 * 사용자(관리자)
 * 역할 및 권한(관리자)
-* 작업 공간 및 파티션(관리자)
+* Workspace 및 파티션(관리)
 * 사용자 로그인 기록
 
 >[!NOTE]
 >
->Marketo은 _아님_ 현재 웹 개인화, 예측 콘텐츠 또는 판매 통찰력 내에서 수행된 변경 사항 감사
+>현재 Marketo은 Web Personalization, Predictive Content 또는 Sales Insight 내에서 변경된 내용을 _감사하지_&#x200B;않습니다.
 
 ## 감사 추적 구성 요소 {#audit-trail-components}
 
@@ -60,13 +60,13 @@ Marketo에서 다음을 감사함: [만들기, 편집 및 삭제](/help/marketo/
 
 사용자 기반 세부 정보 모니터링
 
-**3) [사용자 로그인 내역](/help/marketo/product-docs/administration/audit-trail/user-login-history.md)**
+**3) [사용자 로그인 기록](/help/marketo/product-docs/administration/audit-trail/user-login-history.md)**
 
 구독에 로그인한 사람과 시점을 확인합니다. 실패한 로그인 시도도 포함됩니다.
 
 >[!TIP]
 >
->Audit Trail을 사용하여 감사할 수 있는 작업이 매우 많으므로 [필터링](/help/marketo/product-docs/administration/audit-trail/filtering-in-audit-trail.md)!
+>감사 추적을 사용하여 감사할 수 있는 내용이 너무 많습니다. [필터링](/help/marketo/product-docs/administration/audit-trail/filtering-in-audit-trail.md)을(를) 활용하세요!
 
 ## 데이터 내보내기 {#exporting-data}
 
@@ -78,8 +78,8 @@ Marketo에서 다음을 감사함: [만들기, 편집 및 삭제](/help/marketo/
 >
 >**정의**
 >
->**알 수 없음:** 위치 [!DNL Webhook], 사용자 이름과 이메일이 &quot;알 수 없음&quot;으로 표시될 수 있습니다. 이 문제는 CRM에서 선택 목록 값을 변경할 때 발생합니다. 이 값은 Marketo Forms 및 랜딩 페이지에 표시됩니다. CRM 측에서 이 업데이트를 수행하면 양식을 참조하는 랜딩 페이지가 자동으로 초안으로 작성됩니다. 위치 [!DNL Webhook], 랜딩 페이지가 작성되었지만 CRM측에서 사용자 정보를 캡처할 수 없어 사용자 이름과 이메일이 &quot;알 수 없음&quot;으로 표시됨을 캡처합니다.
+>**알 수 없음:** [!DNL Webhook]에서 사용자 이름과 전자 메일이 &quot;알 수 없음&quot;으로 표시될 수 있습니다. 이 문제는 CRM에서 선택 목록 값을 변경할 때 발생합니다. 이 값은 Marketo Forms 및 랜딩 페이지에 표시됩니다. CRM 측에서 이 업데이트를 수행하면 양식을 참조하는 랜딩 페이지가 자동으로 초안으로 작성됩니다. [!DNL Webhook]에서 랜딩 페이지가 작성되었지만 CRM측에서 사용자 정보를 캡처할 수 없으므로 사용자 이름과 전자 메일이 &quot;알 수 없음&quot;으로 표시됩니다.
 
 >[!MORELIKETHIS]
 >
->[감사 추적 활성화](/help/marketo/product-docs/administration/audit-trail/enable-audit-trail.md)
+>[감사 추적 사용](/help/marketo/product-docs/administration/audit-trail/enable-audit-trail.md)

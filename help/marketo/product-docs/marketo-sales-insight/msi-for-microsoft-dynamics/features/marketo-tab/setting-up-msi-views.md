@@ -5,7 +5,7 @@ exl-id: 8a45c006-73d4-4af8-ad62-b084056d1f7d
 feature: Marketo Sales Insights
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
-source-wordcount: '260'
+source-wordcount: '252'
 ht-degree: 0%
 
 ---
@@ -14,13 +14,13 @@ ht-degree: 0%
 
 Dynamics에 Sales Insight 플러그인을 설치하면 사이트 맵에 최상의 선택 및 관련 대시보드가 자동으로 추가됩니다. 어떤 이유로든 대시보드가 추가되지 않는 경우, 대시보드를 수동으로 추가하는 방법은 다음과 같습니다.
 
-1. Dynamics에서 톱니바퀴 아이콘을 클릭하고 **고급 설정** 드롭다운에서 을 클릭합니다.
+1. Dynamics에서 톱니바퀴 아이콘을 클릭하고 드롭다운에서 **고급 설정**&#x200B;을 선택합니다.
 
-1. 화면 왼쪽 상단에서 **설정**. 사용자 지정에서 **사용자 정의**.
+1. 화면 왼쪽 상단에서 **설정**&#x200B;을 클릭합니다. 사용자 지정에서 **사용자 지정**&#x200B;을 선택합니다.
 
-1. 클릭 **시스템 사용자 정의**.
+1. **시스템 사용자 지정**&#x200B;을 클릭합니다.
 
-1. 왼쪽의 트리에서 를 클릭합니다. **클라이언트 확장** 및 두 번 클릭 **사이트 맵**.
+1. 왼쪽의 트리에서 **클라이언트 확장**&#x200B;을 클릭하고 **사이트 맵**&#x200B;을 두 번 클릭합니다.
 
 1. 오른쪽 화살표를 클릭하여 다음 페이지로 이동합니다. Sales 아래에 Marketo이 표시됩니다. 그렇지 않으면 패키지를 제대로 가져왔는지 확인하십시오.
 
@@ -36,7 +36,7 @@ URL: MainviewBestbets.html</br>
 ID: marketo_bestbets</br>
 제목: Best Bets
 
-   **내 이메일**</br>
+   **내 전자 메일**</br>
 URL: mkt_/MainViewMyEmail.html</br>
 아이콘: /WebResources/mkt_/_MainView/_imgs/icons/email.svg</br>
 ID: marketo_myemail</br>
@@ -54,4 +54,4 @@ URL: mkt_/MainViewWebActivity.html</br>
 ID: marketo_anonymous_webactivity</br>
 제목: 익명 웹 활동
 
-1. 클릭 **저장** 완료 시.
+1. 완료되면 **저장**&#x200B;을 클릭합니다.

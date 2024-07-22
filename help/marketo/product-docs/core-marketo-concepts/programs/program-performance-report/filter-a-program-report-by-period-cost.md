@@ -13,9 +13,9 @@ ht-degree: 0%
 
 # 기간 원가별로 프로그램 보고서 필터링 {#filter-a-program-report-by-period-cost}
 
-포커스에 맞추기 [프로그램 성과 보고서](/help/marketo/product-docs/core-marketo-concepts/programs/program-performance-report/create-a-program-performance-report.md){target="_blank"} 특정 기간 비용 시간대에.
+[프로그램 성과 보고서](/help/marketo/product-docs/core-marketo-concepts/programs/program-performance-report/create-a-program-performance-report.md){target="_blank"}를 특정 기간 비용 일정에 집중하세요.
 
-1. 다음으로 이동 **[!UICONTROL 마케팅 활동]** (또는 **[!UICONTROL 분석]**).
+1. **[!UICONTROL 마케팅 활동]**(또는 **[!UICONTROL 분석]**)으로 이동합니다.
 
    ![](assets/login-marketing-activities-1.png)
 
@@ -23,15 +23,15 @@ ht-degree: 0%
 
    ![](assets/image2014-9-23-16-3a22-3a52.png)
 
-1. 다음을 클릭합니다. **[!UICONTROL 설정]** 탭하고 위로 드래그 **[!UICONTROL 기간 비용]**.
+1. **[!UICONTROL 설정]** 탭을 클릭하고 **[!UICONTROL 기간 비용]** 위로 끌어서 놓습니다.
 
    ![](assets/lm-86194-1.png)
 
-1. 다음을 입력합니다. **[!UICONTROL 출처:]** 및 **[!UICONTROL 종료]** 발생한 비용 날짜 및 클릭 **[!UICONTROL 적용]**.
+1. 발생한 비용에 대한 **[!UICONTROL 시작]** 및 **[!UICONTROL 종료]** 날짜를 입력하고 **[!UICONTROL 적용]**&#x200B;을 클릭합니다.
 
    ![](assets/lm-86194-2a-hands.png)
 
-1. 완료되었습니다! 다음을 클릭합니다. **[!UICONTROL 보고서]** 탭에서는 지정된 기간 비용 시간대에 속하는 프로그램만 볼 수 있습니다.
+1. 완료되었습니다! **[!UICONTROL 보고서]** 탭을 클릭하면 지정된 기간 비용 기간에 속하는 프로그램만 표시됩니다.
 
    ![](assets/lm-86194-report-tab.png)
 

@@ -17,15 +17,15 @@ ht-degree: 0%
 
 실수로 만들거나 더 이상 필요하지 않은 경우 삭제할 수 있습니다.
 
-1. 로 이동 **[!UICONTROL 관리자]** 영역입니다.
+1. **[!UICONTROL 관리자]** 영역으로 이동합니다.
 
    ![](assets/delete-a-program-channel-1.png)
 
-1. 클릭 **[!UICONTROL 태그]**.
+1. **[!UICONTROL 태그]**&#x200B;를 클릭합니다.
 
    ![](assets/delete-a-program-channel-2.png)
 
-1. 삭제할 채널을 선택합니다. 다음에서 **[!UICONTROL 태그 작업]** 드롭다운, 클릭 **[!UICONTROL 삭제]**.
+1. 삭제할 채널을 선택합니다. **[!UICONTROL 태그 작업]** 드롭다운에서 **[!UICONTROL 삭제]**&#x200B;를 클릭합니다.
 
    >[!TIP]
    >
@@ -33,4 +33,4 @@ ht-degree: 0%
 
    ![](assets/delete-a-program-channel-3.png)
 
-다음을 수행할 수도 있습니다. [채널에서 특정 상태 삭제](/help/marketo/product-docs/administration/tags/delete-a-program-status-from-a-program-channel.md).
+[채널에서 특정 상태를 삭제](/help/marketo/product-docs/administration/tags/delete-a-program-status-from-a-program-channel.md)할 수도 있습니다.

@@ -13,7 +13,7 @@ ht-degree: 0%
 
 # 고급 프로그램 보고 개요 {#advanced-program-reporting-overview}
 
-**수익 주기 탐색기** 에는 프로그램 효율성을 측정할 수 있는 몇 가지 분석 영역과 광범위한 새로운 지표가 포함되어 있습니다.
+**수익 주기 탐색기**&#x200B;에는 프로그램 효율성을 측정할 수 있는 다양한 분석 영역과 광범위한 새 지표가 포함되어 있습니다.
 
 ![](assets/rev.png)
 
@@ -27,9 +27,9 @@ ht-degree: 0%
 
 ## 프로그램 분석 영역 {#program-analysis-areas}
 
-* **[프로그램 비용 분석](understanding-the-program-cost-analysis-area.md)** - 모든 프로그램의 ROI를 확인합니다.
+* **[프로그램 비용 분석](understanding-the-program-cost-analysis-area.md)** - 모든 프로그램의 ROI를 확인하세요.
 
-* **[프로그램 멤버십 분석](understanding-the-program-membership-analysis-area.md)** - 채널, 기여도, 성공 기준 등을 기준으로 결과를 확인합니다.
+* **[프로그램 구성원 분석](understanding-the-program-membership-analysis-area.md)** - 채널, 참여, 성공 기준 등을 기준으로 결과를 확인합니다.
 
 * **[프로그램 영업 기회 분석](understanding-the-program-opportunity-analysis-area.md)** - 배포, 매출 및 ROI를 기반으로 생성된 영업 기회.
 
@@ -37,9 +37,9 @@ ht-degree: 0%
 
 ## 프로그램 분석기 {#program-analyzers}
 
-* **프로그램 분석기** - 성공 또는 비성공 프로그램을 신속하게 식별하고 리소스를 적절하게 배치합니다.
+* **프로그램 분석기** - 성공 또는 실패한 프로그램을 신속하게 식별하고 리소스에 적절하게 집중합니다.
 
-* **Opportunity Influence Analyzer** - 프로그램 및 주요 참여가 기회를 창출한 영향을 측정하여 마케팅의 기여를 입증합니다.
+* **영업 기회 영향 분석기** - 영업 기회를 창출한 프로그램 및 주요 참여의 영향을 측정하여 마케팅의 기여도를 증명합니다.
 
 ## 보고서 옵션 {#report-options}
 

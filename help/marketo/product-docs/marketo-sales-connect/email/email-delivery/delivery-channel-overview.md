@@ -6,7 +6,7 @@ exl-id: 432bad1e-4eaf-4be8-b856-be364c44816e
 feature: Marketo Sales Connect
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
-source-wordcount: '580'
+source-wordcount: '582'
 ht-degree: 0%
 
 ---
@@ -17,7 +17,7 @@ Marketo Sales Connect는 다양한 이메일 전송 옵션을 제공합니다. �
 
 ## 권장: 이메일 연결을 통한 Gmail 또는 Exchange {#recommended-gmail-or-exchange-via-email-connection}
 
-Sales Connect를 통해 설정을 간소화하고 Email Connection 서비스를 통해 전달성을 높일 수 있습니다. 이메일 연결을 통해 각 사용자는 [Gmail](/help/marketo/product-docs/marketo-sales-connect/email-plugins/gmail/email-connection-for-gmail-users.md) 또는 [Exchange](/help/marketo/product-docs/marketo-sales-connect/email-plugins/msc-for-outlook/email-connection-for-outlook-users.md) 모든 Sales Connect 이메일에 대해 선택한 전달 채널로 활용하려면 Sales Connect에 계정을 추가합니다.
+Sales Connect를 통해 설정을 간소화하고 Email Connection 서비스를 통해 전달성을 높일 수 있습니다. 전자 메일 연결을 통해 각 사용자는 Sales Connect의 [Gmail](/help/marketo/product-docs/marketo-sales-connect/email-plugins/gmail/email-connection-for-gmail-users.md) 또는 [Exchange](/help/marketo/product-docs/marketo-sales-connect/email-plugins/msc-for-outlook/email-connection-for-outlook-users.md) 계정에 연결하여 모든 Sales Connect 전자 메일에 대해 선택한 전달 채널로 사용할 수 있습니다.
 
 Gmail 또는 Exchange를 사용하면 다른 게재 채널 옵션에 비해 몇 가지 뚜렷한 이점이 있습니다.
 
@@ -25,13 +25,13 @@ Gmail 또는 Exchange를 사용하면 다른 게재 채널 옵션에 비해 몇 
 * SPF 및 DKIM과 같은 인증 방법은 이미 IT 팀에서 구성 및 관리하고 있으므로 추가 설정이 없습니다.
 * 지정된 이메일 네트워크 내에서 이메일을 보내는 것(즉, Exchange를 통해 이메일을 받는 회사에 Exchange 사용자로 이메일을 보내는 것)은 게재 가능성을 높이는 데 도움이 될 수 있습니다.
 
-이러한 게재 채널에는 Microsoft 및 Google에 의해 적용되는 자체 전송 제한이 있습니다. 이를 해결하기 위해 사용자가 이러한 제한 내에서 유지될 수 있도록 조절 메커니즘을 활용합니다. 자세히 알아보기 [전자 메일 제한](/help/marketo/product-docs/marketo-sales-connect/email/email-delivery/email-connection-throttling.md).
+이러한 게재 채널에는 Microsoft 및 Google에 의해 적용되는 자체 전송 제한이 있습니다. 이를 해결하기 위해 사용자가 이러한 제한 내에서 유지될 수 있도록 조절 메커니즘을 활용합니다. [여기](/help/marketo/product-docs/marketo-sales-connect/email/email-delivery/email-connection-throttling.md)에서 전자 메일 제한에 대해 자세히 알아보세요.
 
 >[!NOTE]
 >
 >기본적으로 O365 플러그인은 항상 Exchange 게재 채널을 사용하고 Gmail 플러그인은 항상 Gmail 게재 채널을 사용하여 플러그인에서 이메일을 게재합니다.
 
-**바운스 추적**: MSC는 발신자의 받은 편지함으로 전송된 바운스 메시지를 감지하여 Exchange Online 또는 Gmail 사용자에 대한 바운스를 감지할 수 있습니다. 이러한 바운스 알림은 사용자를 위한 템플릿 분석, 캠페인 분석 및 라이브 피드 알림으로 롤업됩니다. 바운스 추적은 Exchange On-Prem 고객에 대해 지원되지 않습니다.
+**바운스 추적**: MSC는 보낸 사람의 받은 편지함으로 전송된 바운스 메시지를 감지하여 Exchange Online 또는 Gmail 사용자에 대한 바운스를 감지할 수 있습니다. 이러한 바운스 알림은 사용자를 위한 템플릿 분석, 캠페인 분석 및 라이브 피드 알림으로 롤업됩니다. 바운스 추적은 Exchange On-Prem 고객에 대해 지원되지 않습니다.
 
 ## SMTP를 통한 사용자 지정 배달 채널 {#custom-delivery-channel-via-smtp}
 
@@ -54,6 +54,6 @@ Marketo 이메일 서버는 Sales Connect와 통합되지 않습니다. Marketo 
 >[!MORELIKETHIS]
 >
 >* [Gmail 사용자를 위한 전자 메일 연결](/help/marketo/product-docs/marketo-sales-connect/email-plugins/gmail/email-connection-for-gmail-users.md)
->* [Outlook 사용자용 전자 메일 연결](/help/marketo/product-docs/marketo-sales-connect/email-plugins/msc-for-outlook/email-connection-for-outlook-users.md)
+>* [Outlook 사용자를 위한 전자 메일 연결](/help/marketo/product-docs/marketo-sales-connect/email-plugins/msc-for-outlook/email-connection-for-outlook-users.md)
 >* [사용자 지정 게재 채널 설정](/help/marketo/product-docs/marketo-sales-connect/email/email-delivery/setting-up-a-custom-delivery-channel.md)
->* [이메일 연결 제한](/help/marketo/product-docs/marketo-sales-connect/email/email-delivery/email-connection-throttling.md)
+>* [전자 메일 연결 제한](/help/marketo/product-docs/marketo-sales-connect/email/email-delivery/email-connection-throttling.md)

@@ -6,7 +6,7 @@ exl-id: be19a63f-7f1b-4920-97da-2e412d5d3fde
 feature: Reporting
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
-source-wordcount: '187'
+source-wordcount: '180'
 ht-degree: 0%
 
 ---
@@ -59,10 +59,10 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->날짜 범위는 Analytics 페이지와 전송됨 페이지 모두에 적용됩니다. 다음 **비교** 그러나 옵션은 Analytics 페이지에만 적용할 수 있습니다.
+>날짜 범위는 Analytics 페이지와 전송됨 페이지 모두에 적용됩니다. 그러나 **비교** 옵션은 Analytics 페이지에만 적용할 수 있습니다.
 
 ## 계정 기반 마케팅 {#account-based-marketing}
 
-를 사용하는 경우 [Target 계정 관리](https://docs.marketo.com/display/DOCS/Account+Based+Marketing+Overview), 특별히 사용자를 위한 필터가 있습니다.
+[Target 계정 관리](https://docs.marketo.com/display/DOCS/Account+Based+Marketing+Overview)를 사용하는 경우 특별히 필터를 사용할 수 있습니다.
 
 ![](assets/abm.png)

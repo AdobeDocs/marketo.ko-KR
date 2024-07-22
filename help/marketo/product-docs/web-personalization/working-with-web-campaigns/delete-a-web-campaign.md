@@ -13,15 +13,15 @@ ht-degree: 0%
 
 # 웹 캠페인 삭제 {#delete-a-web-campaign}
 
-1. 다음으로 이동 **웹 캠페인**.
+1. **웹 캠페인**(으)로 이동합니다.
 
    ![](assets/web-campaigns-hand-3.jpg)
 
    >[!NOTE]
    >
-   >원하는 웹 캠페인을 더 쉽게 찾을 수 있도록 하려면 [필터 기능](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/filter-web-campaigns.md).
+   >원하는 웹 캠페인을 더 쉽게 찾으려면 [필터 기능](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/filter-web-campaigns.md)을 사용하세요.
 
-1. 웹 캠페인 페이지에서 **삭제** 을(를) 삭제하려는 캠페인에 있습니다.
+1. 웹 캠페인 페이지에서 삭제할 캠페인에 대해 **삭제**&#x200B;를 클릭합니다.
 
    ![](assets/web-campaigns-1-delete-hand-1.png)
 

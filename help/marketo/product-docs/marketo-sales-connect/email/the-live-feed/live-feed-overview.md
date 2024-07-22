@@ -6,7 +6,7 @@ exl-id: 646a3650-538d-4ea5-b29f-44ad6588e247
 feature: Marketo Sales Connect
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
-source-wordcount: '389'
+source-wordcount: '391'
 ht-degree: 0%
 
 ---
@@ -42,7 +42,7 @@ MSE 이메일에 대한 참여(보기, 클릭 수 및 답글)를 실시간으로
 
 새 작업을 만들거나 진행 중인 작업을 관리합니다.
 
-오늘, 내일, 오늘 필터링 *및* 내일 아니면 다음 7일
+오늘, 내일, 오늘 *및* 내일 또는 다음 7일로 필터링합니다.
 
 >[!NOTE]
 >
@@ -50,7 +50,7 @@ MSE 이메일에 대한 참여(보기, 클릭 수 및 답글)를 실시간으로
 
 빠른 작업 버튼을 사용하여 빠르게 호출하거나, 이메일을 보내거나, 개인의 Linkedin 프로필로 이동합니다.
 
-## Target 탭 {#target-tab}
+## 대상 탭 {#target-tab}
 
 ![](assets/target.jpg)
 

@@ -6,7 +6,7 @@ exl-id: c22eda86-da7a-4c76-9cea-1ce23ff0f3e8
 feature: Release Information
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
-source-wordcount: '667'
+source-wordcount: '670'
 ht-degree: 0%
 
 ---
@@ -41,7 +41,7 @@ ht-degree: 0%
 
 ![](assets/image2014-9-23-10-3a23-3a54.png)
 
-## 에셋에에서 사용됨 {#used-by-for-assets}
+## 에서 Assets에 사용 {#used-by-for-assets}
 
 에셋 요약 페이지에 Used by라는 새 탭을 추가했습니다.
 
@@ -65,7 +65,7 @@ ht-degree: 0%
 
 ## 대기 단계 - 잠재 고객 토큰 및 내 토큰 {#wait-step-lead-token-and-my-token}
 
-5월 릴리스에서는 대기 흐름 단계에 고급 옵션을 추가했습니다. 이러한 변경 사항으로 영업일, 날짜 및 시간을 지정할 수 있습니다. 이 릴리스에서는 대기 단계에서 토큰을 사용하는 기능을 추가했습니다. 예를 들어 `{{lead.Birthday}}` 생일 축하 이메일을 보내거나 `{{my.Event Date}}` 최종 웨비나 미리 알림을 보냅니다.
+5월 릴리스에서는 대기 흐름 단계에 고급 옵션을 추가했습니다. 이러한 변경 사항으로 영업일, 날짜 및 시간을 지정할 수 있습니다. 이 릴리스에서는 대기 단계에서 토큰을 사용하는 기능을 추가했습니다. 예를 들어 `{{lead.Birthday}}`을(를) 사용하여 생일 축하 이메일을 보내거나 `{{my.Event Date}}`을(를) 사용하여 최종 웨비나 미리 알림을 보낼 수 있습니다.
 
 ![](assets/image2014-9-23-10-3a25-3a57.png)
 

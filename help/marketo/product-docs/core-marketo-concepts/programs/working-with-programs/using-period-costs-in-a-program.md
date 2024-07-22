@@ -13,23 +13,23 @@ ht-degree: 1%
 
 # 프로그램에서 기간 원가 사용 {#using-period-costs-in-a-program}
 
-A [기간 비용](/help/marketo/product-docs/core-marketo-concepts/programs/working-with-programs/understanding-period-costs.md){target="_blank"} 은 프로그램에 지출하는 금액입니다. 1개월 이상 사용할 수 있으며 ROI 보고에 사용됩니다.
+[기간 비용](/help/marketo/product-docs/core-marketo-concepts/programs/working-with-programs/understanding-period-costs.md){target="_blank"}은 프로그램에 지출하는 금액입니다. 1개월 이상 사용할 수 있으며 ROI 보고에 사용됩니다.
 
 ## 기간 비용 추가  {#add-a-period-cost}
 
-1. 로 이동 **[!UICONTROL 설정]** 프로그램 탭
+1. 프로그램의 **[!UICONTROL 설정]** 탭으로 이동합니다.
 
    ![](assets/image2014-9-18-12-3a9-3a46.png)
 
-1. 드래그 앤 드롭 **[!UICONTROL 기간 비용]** 캔버스에 넣었습니다.
+1. **[!UICONTROL 기간 비용]**&#x200B;을 캔버스로 끌어서 놓습니다.
 
    ![](assets/image2014-9-18-12-3a9-3a57.png)
 
-1. 달력 아이콘을 클릭합니다. 월을 선택합니다. 클릭 **[!UICONTROL 확인]**.
+1. 달력 아이콘을 클릭합니다. 월을 선택합니다. **[!UICONTROL 확인]**&#x200B;을 클릭합니다.
 
    ![](assets/image2014-9-18-12-3a10-3a13.png)
 
-1. 입력 **[!UICONTROL 기간 비용]** (소수 또는 쉼표 제외) **[!UICONTROL 저장]**&#x200B;을 클릭합니다.
+1. **[!UICONTROL 기간 비용]**&#x200B;을(를) 소수 또는 쉼표 없이 입력하십시오. **[!UICONTROL 저장]**&#x200B;을 클릭합니다.
 
    >[!NOTE]
    >
@@ -49,11 +49,11 @@ A [기간 비용](/help/marketo/product-docs/core-marketo-concepts/programs/work
 
 1. 원래 예상했던 것보다 지출이 많거나 적은 경우 기간 원가를 편집할 수 있습니다.
 
-1. 로 이동 **[!UICONTROL 설정]** 프로그램 탭
+1. 프로그램의 **[!UICONTROL 설정]** 탭으로 이동합니다.
 
    ![](assets/image2014-9-18-14-3a3-3a6.png)
 
-1. 마우스 오른쪽 버튼으로 클릭 **[!UICONTROL 기간 비용]**. 선택 **[!UICONTROL 편집]**.
+1. **[!UICONTROL 기간 비용]**&#x200B;을 마우스 오른쪽 단추로 클릭합니다. **[!UICONTROL 편집]**&#x200B;을 선택합니다.
 
    ![](assets/image2014-9-18-14-3a3-3a23.png)
 
@@ -63,19 +63,19 @@ A [기간 비용](/help/marketo/product-docs/core-marketo-concepts/programs/work
 
 ## 기간 원가 삭제 {#delete-a-period-cost}
 
-1. 로 이동 **[!UICONTROL 설정]** 프로그램 탭
+1. 프로그램의 **[!UICONTROL 설정]** 탭으로 이동합니다.
 
    ![](assets/image2014-9-18-14-3a4-3a11.png)
 
-1. 마우스 오른쪽 버튼으로 클릭 **[!UICONTROL 기간 비용]**. 선택 **[!UICONTROL 삭제]**.
+1. **[!UICONTROL 기간 비용]**&#x200B;을 마우스 오른쪽 단추로 클릭합니다. **[!UICONTROL 삭제]**&#x200B;를 선택합니다.
 
    ![](assets/image2014-9-18-14-3a4-3a22.png)
 
-1. 클릭 **[!UICONTROL 삭제]** 확인할 수 있습니다.
+1. 확인하려면 **[!UICONTROL 삭제]**&#x200B;를 클릭하세요.
 
    ![](assets/image2014-9-18-14-3a4-3a35.png)
 
 >[!MORELIKETHIS]
 >
->* [기간 원가 이해](/help/marketo/product-docs/core-marketo-concepts/programs/working-with-programs/understanding-period-costs.md){target="_blank"}
->* [기간 원가별로 프로그램 보고서 필터링](/help/marketo/product-docs/core-marketo-concepts/programs/program-performance-report/filter-a-program-report-by-period-cost.md){target="_blank"}
+>* [기간 비용 이해](/help/marketo/product-docs/core-marketo-concepts/programs/working-with-programs/understanding-period-costs.md){target="_blank"}
+>* [기간 비용으로 프로그램 보고서 필터링](/help/marketo/product-docs/core-marketo-concepts/programs/program-performance-report/filter-a-program-report-by-period-cost.md){target="_blank"}

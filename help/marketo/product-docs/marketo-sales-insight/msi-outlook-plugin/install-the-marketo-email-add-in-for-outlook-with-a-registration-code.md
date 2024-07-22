@@ -6,7 +6,7 @@ exl-id: d7a877c2-f71e-44da-b323-04f6cdb44eb0
 feature: Marketo Sales Insights
 source-git-commit: 40fe81d465d04be97ae5e216250b7e06e6d3791e
 workflow-type: tm+mt
-source-wordcount: '491'
+source-wordcount: '532'
 ht-degree: 1%
 
 ---
@@ -19,11 +19,11 @@ ht-degree: 1%
 
 >[!PREREQUISITES]
 >
->다음을 수행해야 합니다. [Marketo 이메일 추가 기능 라이선스 발행](/help/marketo/product-docs/marketo-sales-insight/msi-outlook-plugin/issue-a-marketo-email-add-in-license.md).
+>[Marketo 전자 메일 추가 기능 라이선스를 발급](/help/marketo/product-docs/marketo-sales-insight/msi-outlook-plugin/issue-a-marketo-email-add-in-license.md)받아야 합니다.
 
 >[!IMPORTANT]
 >
->Windows 사용자 폴더에 영어가 아닌 문자가 포함된 PC에서는 설치가 지원되지 않습니다. 이 폴더는 Windows에서 `<System Root>\Users\` windows 사용자 이름을 기반으로 하며 Windows 사용자 이름이 영어가 아닌 경우 영어가 아닌 문자를 포함할 수 있습니다. IT 팀과 협력하여 설치 문제가 있는지 확인하십시오.
+>Windows 사용자 폴더에 영어가 아닌 문자가 포함된 PC에서는 설치가 지원되지 않습니다. 이 폴더는 Windows에서 Windows 사용자 이름을 기반으로 `<System Root>\Users\` 아래에 자동으로 생성되며 Windows 사용자 이름이 영어가 아닌 이름인 경우 영어가 아닌 문자가 포함될 수 있습니다. IT 팀과 협력하여 설치 문제가 있는지 확인하십시오.
 
 >[!NOTE]
 >
@@ -31,13 +31,13 @@ ht-degree: 1%
 
 ## 설치 관리자 다운로드 {#download-installer}
 
-1. 다음 항목 식별 [Microsoft Outlook 버전](https://support.office.com/en-us/article/what-version-of-outlook-do-i-have-b3a9568c-edb5-42b9-9825-d48d82b2257c){target="_blank"}
+1. [Microsoft Outlook 버전](https://support.office.com/en-us/article/what-version-of-outlook-do-i-have-b3a9568c-edb5-42b9-9825-d48d82b2257c){target="_blank"} 식별
 
 1. 링크를 클릭하여 사용 중인 Microsoft Outlook 버전에 적합한 설치 관리자를 다운로드합니다.
 
    >[!NOTE]
    >
-   >현재 아래 링크는 Microsoft Edge에서만 작동하거나 Chrome을 마우스 오른쪽 버튼으로 클릭하여 작동합니다. 불편을 드려 죄송합니다.
+   >현재 아래 링크는 Microsoft Edge에서만 작동하거나 Chrome을 마우스 오른쪽 단추로 클릭하여 작동합니다. 불편을 드려 죄송합니다.
 
    | Outlook 버전 | 32비트 Outlook | 64비트 Outlook |
    |---|---|---|
@@ -56,7 +56,7 @@ ht-degree: 1%
 
    >[!IMPORTANT]
    >
-   >Microsoft이 [Windows용 Outlook의 새 버전](https://techcommunity.microsoft.com/t5/outlook-blog/new-outlook-for-windows-now-available/ba-p/3932068){target="_blank"}. This new version does not support the existing MSI Outlook plugin. The MSI Outlook plugin will continue to work for Windows desktops running the classic version of Outlook. To learn more about the new Outlook for Windows for organizations, [click here](https://techcommunity.microsoft.com/t5/outlook-blog/the-new-outlook-for-windows-for-organization-admins/ba-p/3929169){target="_blank"}.
+   >Microsoft에서 [Windows용 Outlook의 새 버전](https://techcommunity.microsoft.com/t5/outlook-blog/new-outlook-for-windows-now-available/ba-p/3932068){target="_blank"}을 릴리스했습니다. 이 새 버전은 기존 MSI Outlook 플러그인을 지원하지 않습니다. MSI Outlook 플러그인은 클래식 버전의 Outlook을 실행하는 Windows 데스크톱에서 계속 작동합니다. 조직의 새 Windows용 Outlook에 대해 자세히 알아보려면 [여기를 클릭](https://techcommunity.microsoft.com/t5/outlook-blog/the-new-outlook-for-windows-for-organization-admins/ba-p/3929169){target="_blank"}하세요.
 
 ## 등록 코드 복사 {#copy-your-registration-code}
 
@@ -76,13 +76,13 @@ ht-degree: 1%
 
    >[!NOTE]
    >
-   >보안 경고를 받으면 걱정하지 마십시오! 그냥 클릭 **실행**.
+   >보안 경고를 받으면 걱정하지 마십시오! **실행**&#x200B;을 클릭하세요.
 
-1. 클릭 **다음**.
+1. **다음**&#x200B;을 클릭합니다.
 
    ![](assets/welcome-to-the-setup-wizard-hand.png)
 
-1. 채우기 **이름**, **성**, **이메일 주소**&#x200B;을(를) 복사한 다음 을(를) 붙여넣습니다. **등록 코드** 이메일에서 양식으로 전환한 다음 **다음**.
+1. **이름**, **성**, **전자 메일 주소**&#x200B;를 입력한 다음 전자 메일의 **등록 코드**&#x200B;을(를) 복사하여 양식에 붙여 넣고 **다음**&#x200B;을(를) 클릭합니다.
 
    ![](assets/enter-your-information-hands.png)
 
@@ -90,19 +90,19 @@ ht-degree: 1%
    >
    >설치에 실패한 경우 IT 부서에 문의하여 HTTPS 트래픽이 차단되지 않았는지 확인하십시오. 설치 관리자를 열려면 HTTPS 트래픽이 필요합니다.
 
-1. 클릭 **다음** 기본 위치에 를 설치합니다.
+1. 기본 위치에 설치하려면 **다음**&#x200B;을 클릭하세요.
 
    ![](assets/select-installation-folder-hand.png)
 
-1. 클릭 **다음**.
+1. **다음**&#x200B;을 클릭합니다.
 
    ![](assets/confirm-installation-hand.png)
 
    >[!NOTE]
    >
-   >알 수 없는 게시자에 대한 보안 메시지가 표시되면 **예**.
+   >알 수 없는 게시자에 대한 보안 메시지가 표시되면 **예**&#x200B;를 클릭합니다.
 
-1. 이제 설치가 완료되었습니다. 다음을 클릭하십시오. **닫기**.
+1. 이제 설치가 완료되었습니다. **닫기**&#x200B;를 클릭하십시오.
 
    ![](assets/image2014-9-23-15-3a52-3a11.png)
 
@@ -116,5 +116,5 @@ Marketo 메시지 및 Marketo으로 로그 작업 사용에 대해 자세히 알
 
 >[!MORELIKETHIS]
 >
->* [Outlook용 Marketo 이메일 추가 기능을 사용하여 이메일 전송 및 추적](/help/marketo/product-docs/marketo-sales-insight/msi-outlook-plugin/send-and-track-an-email-with-the-email-add-in-for-outlook.md){target="_blank"}
+>* [Outlook용 Marketo 전자 메일 추가 기능을 사용하여 전자 메일을 보내고 추적하기](/help/marketo/product-docs/marketo-sales-insight/msi-outlook-plugin/send-and-track-an-email-with-the-email-add-in-for-outlook.md){target="_blank"}
 >* [Marketo 템플릿을 사용하여 Outlook에서 전송 및 추적](/help/marketo/product-docs/marketo-sales-insight/msi-outlook-plugin/send-and-track-from-outlook-using-a-marketo-template.md){target="_blank"}

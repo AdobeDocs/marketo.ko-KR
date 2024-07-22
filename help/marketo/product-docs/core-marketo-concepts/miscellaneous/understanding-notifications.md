@@ -5,7 +5,7 @@ title: 알림 이해
 exl-id: c47b10ae-cca0-427d-88e3-8f5f84aa5467
 source-git-commit: 0abb315be0f9cb5f42fa41d72b446de8c2f62c1e
 workflow-type: tm+mt
-source-wordcount: '206'
+source-wordcount: '209'
 ht-degree: 0%
 
 ---
@@ -28,20 +28,20 @@ ht-degree: 0%
 
 알림을 구독하면 이메일로 알림을 받을 수 있습니다.
 
-1. 알림으로 이동한 다음 **[!UICONTROL 구독]**.
+1. 알림으로 이동한 다음 **[!UICONTROL 구독]**&#x200B;을 클릭합니다.
 
    ![](assets/understanding-notifications-3.png)
 
-1. 알림 유형을 선택하고 알림을 보낼 이메일 주소를 입력합니다(쉼표로 구분). 클릭 **[!UICONTROL 구독]** 완료 시.
+1. 알림 유형을 선택하고 알림을 보낼 이메일 주소를 입력합니다(쉼표로 구분). 완료되면 **[!UICONTROL 구독]**&#x200B;을 클릭하세요.
 
    ![](assets/understanding-notifications-4.png)
 
 >[!NOTE]
 >
->다음 **[!UICONTROL 전송 대상]** 영역은 이메일을 입력할 수 있는 유일한 항목이며 기존 구독자 목록은 표시되지 않습니다.
+>**[!UICONTROL 다음으로 보내기]** 영역은 전자 메일을 입력할 수 있는 유일한 영역이며 기존 구독자 목록은 표시되지 않습니다.
 
 경우에 따라 알림에서 쉼표로 구분된 값(CSV) 파일(예: Microsoft Dynamics 동기화 오류 파일)을 다운로드할 수 있는 &quot;전체 목록 보기&quot; 링크를 제공합니다. Marketo은 이러한 CSV 파일을 30일 동안 유지합니다. 30일 후에 파일을 다운로드하려고 하면 404 오류가 발생합니다.
 
 >[!TIP]
 >
->알림 이메일에서 구독을 취소하시겠습니까? 문제 없습니다. 다음을 클릭하면 됩니다. **[!UICONTROL 알림 구독 취소]** 이메일 하단에 있는 링크입니다.
+>알림 이메일에서 구독을 취소하시겠습니까? 문제 없습니다. 이메일 하단에 있는 **[!UICONTROL 알림 구독 취소]** 링크를 클릭하면 됩니다.

@@ -36,7 +36,7 @@ ht-degree: 0%
 
    * 예를 들어 어떤 사람이 광고를 검색하고 보고 클릭한 다음 온라인에서 양식을 작성합니다. 이후, 그는 오프라인으로 데모를 받고 CRM 기회가 됩니다. 광고주가 그를 타겟으로 삼은 곳이 바로 그곳이다
 
-* 웹 사이트 방문자 재타겟팅, 사용 [웹 개인화](/help/marketo/product-docs/web-personalization/understanding-web-personalization/web-personalization-overview.md){target="_blank"}를 클릭하여 웹 사이트로 다시 안내합니다
+* [웹 Personalization](/help/marketo/product-docs/web-personalization/understanding-web-personalization/web-personalization-overview.md){target="_blank"}를 사용하여 웹 사이트 방문자를 다시 웹 사이트로 유도하여 재타겟팅
 
    * 세그먼트 또는 수직을 통한 개인화
 
@@ -44,10 +44,10 @@ ht-degree: 0%
 
 통합을 사용하여 다음을 수행할 수 있습니다.
 
-* [Google AdWords를 LaunchPoint Service로 추가](/help/marketo/product-docs/administration/additional-integrations/add-google-adwords-as-a-launchpoint-service.md){target="_blank"}
-* [facebook에서 사용자 지정 대상에 리드 추가](/help/marketo/product-docs/demand-generation/facebook/add-leads-to-a-custom-audience-in-facebook.md){target="_blank"}
-* [facebook에서 사용자 지정 대상 만들기](/help/marketo/product-docs/demand-generation/facebook/create-a-custom-audience-in-facebook.md){target="_blank"}
-* [facebook 오프라인 전환 설정](/help/marketo/product-docs/demand-generation/facebook/set-up-facebook-offline-conversions.md){target="_blank"}
+* [Google AdWords를 LaunchPoint 서비스로 추가](/help/marketo/product-docs/administration/additional-integrations/add-google-adwords-as-a-launchpoint-service.md){target="_blank"}
+* [Facebook의 사용자 지정 대상에 리드 추가](/help/marketo/product-docs/demand-generation/facebook/add-leads-to-a-custom-audience-in-facebook.md){target="_blank"}
+* [Facebook에서 사용자 지정 대상 만들기](/help/marketo/product-docs/demand-generation/facebook/create-a-custom-audience-in-facebook.md){target="_blank"}
+* [Facebook 오프라인 전환 설정](/help/marketo/product-docs/demand-generation/facebook/set-up-facebook-offline-conversions.md){target="_blank"}
 * [Marketo 목록 또는 스마트 목록을 LinkedIn 대상 세그먼트로 사용](/help/marketo/product-docs/demand-generation/social/social-functions/use-a-marketo-list-or-smart-list-as-a-linkedin-audience-segment.md){target="_blank"}
 
 |   | 대상 데이터 | 잠재 고객 수집 | 오프라인 전환 |

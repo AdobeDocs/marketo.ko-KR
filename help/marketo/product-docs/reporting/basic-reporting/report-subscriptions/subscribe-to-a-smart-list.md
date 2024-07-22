@@ -6,7 +6,7 @@ exl-id: 4ea1664b-8178-41ae-a184-a8ebe090ef96
 feature: Reporting
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
-source-wordcount: '423'
+source-wordcount: '428'
 ht-degree: 0%
 
 ---
@@ -36,35 +36,35 @@ ht-degree: 0%
 
 ## 스마트 목록 구독 만들기 {#create-a-smart-list-subscription}
 
-1. 로 이동 **데이터베이스** 또는 **마케팅 활동**.
+1. **데이터베이스** 또는 **마케팅 활동**(으)로 이동합니다.
 
    ![](assets/db.png)
 
-1. 구독을 생성할 스마트 목록을 선택합니다. 클릭 **작업 나열** 및 선택 **새 스마트 목록 구독**.
+1. 구독을 생성할 스마트 목록을 선택합니다. **작업 나열**&#x200B;을 클릭하고 **새 스마트 목록 구독**&#x200B;을 선택합니다.
 
    ![](assets/three.png)
 
-1. 구독 제공 **이름**&#x200B;을(를) 선택한 다음 의 이메일 주소를 선택하거나 입력합니다 **수신자**.
+1. 구독에 **이름**&#x200B;을 지정한 다음 **받는 사람**&#x200B;의 전자 메일 주소를 선택하거나 입력하세요.
 
    ![](assets/image2015-9-14-13-3a18-3a38.png)
 
-1. 다음을 클릭합니다. **빈도** 주파수를 나열하고 선택합니다.
+1. **빈도** 목록을 클릭하고 빈도를 선택합니다.
 
    ![](assets/image2015-9-14-13-3a21-3a21.png)
 
-1. 설정 **게재 종료** 날짜. 다음을 선택할 수 있습니다. **사용 안 함** 또는 캘린더 날짜입니다.
+1. **게재 종료** 날짜를 설정합니다. **절대** 또는 일정 날짜를 선택할 수 있습니다.
 
    ![](assets/image2015-9-14-13-3a23-3a37.png)
 
-1. 클릭 **형식** 목록에서 을 선택합니다.
+1. **서식**&#x200B;을 클릭하고 목록에서 선택하십시오.
 
    ![](assets/image2015-9-14-13-3a25-3a25.png)
 
-1. Click **Create**.
+1. **만들기**&#x200B;를 클릭합니다.
 
    ![](assets/image2015-9-11-15-3a58-3a4.png)
 
-1. 새 스마트 목록 구독이 구독 탭의 목록 맨 위에 표시됩니다. 클릭 **보내기** 지금 전송하고 예약된 이메일 배달이 완료될 때까지 기다리지 않으려면.
+1. 새 스마트 목록 구독이 구독 탭의 목록 맨 위에 표시됩니다. 지금 보내려면 **보내기**&#x200B;를 클릭하고 예약된 전자 메일 배달까지 기다리지 않습니다.
 
    ![](assets/eight.png)
 
@@ -80,7 +80,7 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->다음과 같은 경우 [보안 구독 관리자](/help/marketo/product-docs/reporting/basic-reporting/report-subscriptions/secure-the-subscription-admin-setting.md) 설정이 로 설정되어 있습니다. **예**&#x200B;에서는 Marketo 인스턴스에 액세스할 수 있는 사람만 보고서를 다운로드할 수 있습니다.
+>[구독 관리자 보안](/help/marketo/product-docs/reporting/basic-reporting/report-subscriptions/secure-the-subscription-admin-setting.md) 설정이 **예**(으)로 설정된 경우 Marketo 인스턴스에 액세스할 수 있는 사용자만 보고서를 다운로드할 수 있습니다.
 
 ![](assets/image2015-4-17-15-3a46-3a47.png)
 
@@ -103,4 +103,4 @@ ht-degree: 0%
 >[!MORELIKETHIS]
 >
 >* [스마트 목록 구독 편집](/help/marketo/product-docs/reporting/basic-reporting/report-subscriptions/edit-a-smart-list-subscription.md)
->* [구독 관리 설정 보안](/help/marketo/product-docs/reporting/basic-reporting/report-subscriptions/secure-the-subscription-admin-setting.md)
+>* [구독 관리자 설정 보안](/help/marketo/product-docs/reporting/basic-reporting/report-subscriptions/secure-the-subscription-admin-setting.md)

@@ -19,20 +19,20 @@ Marketo 데이터베이스에서 값이 지속적으로 변경되고 업데이�
 >
 >[스마트 목록 만들기](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/creating-a-smart-list/create-a-smart-list.md){target="_blank"}
 
-1. 로 이동 **[!UICONTROL 마케팅 활동]** 영역입니다.
+1. **[!UICONTROL 마케팅 활동]** 영역으로 이동합니다.
 
    ![](assets/ma.png)
 
-1. 스마트 목록을 선택하고 **[!UICONTROL 스마트 목록]** 탭.
+1. 스마트 목록을 선택하고 **[!UICONTROL 스마트 목록]** 탭을 클릭합니다.
 
    ![](assets/two-1.png)
 
-1. 다음 찾기 **[!UICONTROL 데이터 값 변경됨]** 필터링하고 캔버스로 드래그합니다.
+1. **[!UICONTROL 변경된 데이터 값]** 필터를 찾아 캔버스로 드래그합니다.
 
    ![](assets/three-1.png)
 
-1. 설정 **[!UICONTROL 속성]** 데이터 값이 변경되었는지 확인할 필드로 이동합니다.
+1. **[!UICONTROL 특성]**&#x200B;을(를) 데이터 값 변경 내용을 검색할 필드로 설정합니다.
 
    ![](assets/four.png)
 
-이 필터는 상태가 변경된(모든 변경) 모든 사람을 찾습니다. 더 화려하게 하고 싶다면 [스마트 목록 필터에 제한 추가](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/using-smart-lists/add-a-constraint-to-a-smart-list-filter.md){target="_blank"}.
+이 필터는 상태가 변경된(모든 변경) 모든 사람을 찾습니다. 좀 더 자세히 알아보려면 [스마트 목록 필터에 제약 조건을 추가](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/using-smart-lists/add-a-constraint-to-a-smart-list-filter.md){target="_blank"}해 보세요.

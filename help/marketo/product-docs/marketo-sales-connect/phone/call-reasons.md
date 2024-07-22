@@ -5,7 +5,7 @@ exl-id: 79e87daf-3af6-4e62-bc76-a920867e2dd2
 feature: Marketo Sales Connect
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
-source-wordcount: '163'
+source-wordcount: '164'
 ht-degree: 0%
 
 ---
@@ -20,15 +20,15 @@ ht-degree: 0%
 
 ## 호출 사유 활성화 {#enable-call-reasons}
 
-1. 톱니바퀴 아이콘을 클릭하고 **설정**.
+1. 톱니바퀴 아이콘을 클릭하고 **설정**&#x200B;을 선택합니다.
 
    ![](assets/call-reasons-1.png)
 
-1. 관리자 설정에서 을 선택합니다. **전화 걸기**.
+1. [관리 설정]에서 **전화 걸기**&#x200B;를 선택합니다.
 
    ![](assets/call-reasons-2.png)
 
-1. 선택 **호출 사유 활성화**.
+1. **통화 이유 사용**&#x200B;을 선택하세요.
 
    ![](assets/call-reasons-3.png)
 
@@ -42,19 +42,19 @@ ht-degree: 0%
 >
 >최대 15개의 호출 사유를 생성할 수 있습니다.
 
-1. 톱니바퀴 아이콘을 클릭하고 **설정**.
+1. 톱니바퀴 아이콘을 클릭하고 **설정**&#x200B;을 선택합니다.
 
    ![](assets/call-reasons-5.png)
 
-1. 관리자 설정에서 을 선택합니다. **전화 걸기**.
+1. [관리 설정]에서 **전화 걸기**&#x200B;를 선택합니다.
 
    ![](assets/call-reasons-6.png)
 
-1. 클릭 **통화 이유 관리**.
+1. **통화 이유 관리**&#x200B;를 클릭합니다.
 
    ![](assets/call-reasons-7.png)
 
-1. 텍스트 필드에 원하는 호출 사유 이름을 입력하고 를 클릭합니다. **추가**.
+1. 텍스트 필드에 원하는 통화 이유 이름을 입력하고 **추가**&#x200B;를 클릭합니다.
 
    ![](assets/call-reasons-8.png)
 
@@ -66,7 +66,7 @@ ht-degree: 0%
 
    ![](assets/call-reasons-9.png)
 
-1. 전화 걸기에 통화 정보를 입력하고 **호출**.
+1. 전화 걸기에 통화 정보를 입력하고 **통화**&#x200B;를 클릭합니다.
 
    ![](assets/call-reasons-10.png)
 
@@ -84,5 +84,5 @@ ht-degree: 0%
 
 >[!MORELIKETHIS]
 >
->* [Salesforce에 호출 사유 및 호출 결과 기록](/help/marketo/product-docs/marketo-sales-connect/phone/log-call-reasons-and-call-outcomes-to-salesforce.md)
->* [호출 결과](/help/marketo/product-docs/marketo-sales-connect/phone/call-outcomes.md)
+>* [Salesforce에 통화 이유 및 통화 결과를 기록합니다](/help/marketo/product-docs/marketo-sales-connect/phone/log-call-reasons-and-call-outcomes-to-salesforce.md)
+>* [통화 결과](/help/marketo/product-docs/marketo-sales-connect/phone/call-outcomes.md)

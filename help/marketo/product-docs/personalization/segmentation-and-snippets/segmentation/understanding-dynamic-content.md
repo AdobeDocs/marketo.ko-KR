@@ -13,19 +13,19 @@ ht-degree: 0%
 
 # 다이내믹 콘텐츠 이해 {#understanding-dynamic-content}
 
-개인화에는 &quot;안녕하세요. `{{First_Name}}`&quot;. Marketo 다이내믹 콘텐츠를 사용하여 다양한 사람에게 랜딩 페이지나 이메일이 표시되는 방식을 사용자 지정할 수 있습니다.
+개인화에는 &quot;안녕하세요 `{{First_Name}}`&quot; 이상의 많은 내용이 있습니다. Marketo 다이내믹 콘텐츠를 사용하여 다양한 사람에게 랜딩 페이지나 이메일이 표시되는 방식을 사용자 지정할 수 있습니다.
 
 ![](assets/artboard-1.png)
 
 ## 세분화 {#segmentation}
 
-먼저 사람들을 하위 집단으로 나누어야 할 거야. 이 이름은 입니다. [세분화](/help/marketo/product-docs/personalization/segmentation-and-snippets/segmentation/create-a-segmentation.md).
+먼저 사람들을 하위 집단으로 나누어야 할 거야. 이를 [세그먼테이션](/help/marketo/product-docs/personalization/segmentation-and-snippets/segmentation/create-a-segmentation.md)이라고 합니다.
 
 >[!NOTE]
 >
 >**정의**
 >
->세그멘테이션은 을 기반으로 대상을 다양한 하위 그룹으로 분류합니다. [스마트 목록](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/understanding-smart-campaigns.md) 규칙. 이러한 그룹을 세그먼트라고 합니다.
+>세분화는 [스마트 목록](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/understanding-smart-campaigns.md) 규칙에 따라 대상을 다른 하위 그룹으로 분류합니다. 이러한 그룹을 세그먼트라고 합니다.
 
 예를 들어, Industry라는 세그먼테이션이 있는 경우 일부 세그먼트는 의료, 기술, 금융, 소비재 등이 될 수 있습니다.
 
@@ -39,7 +39,7 @@ ht-degree: 0%
 
 ## 코드 조각 {#snippets}
 
-[코드 조각](/help/marketo/product-docs/personalization/segmentation-and-snippets/snippets/create-a-snippet.md) 는 Marketo에서 유용한 도구입니다. 한 번 만들어 여러 위치에서 사용합니다! 코드 조각을 업데이트하면 해당 코드 조각을 사용하는 모든 에셋(랜딩 페이지 또는 이메일)이 자동으로 업데이트됩니다.
+[코드 조각](/help/marketo/product-docs/personalization/segmentation-and-snippets/snippets/create-a-snippet.md)은(는) Marketo에서 유용한 도구입니다. 한 번 만들어 여러 위치에서 사용합니다! 코드 조각을 업데이트하면 해당 코드 조각을 사용하는 모든 에셋(랜딩 페이지 또는 이메일)이 자동으로 업데이트됩니다.
 
 >[!NOTE]
 >

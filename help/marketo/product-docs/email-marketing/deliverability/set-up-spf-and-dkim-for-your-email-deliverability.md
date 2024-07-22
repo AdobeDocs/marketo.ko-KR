@@ -6,14 +6,14 @@ exl-id: a0f88e94-3348-4f48-bbd2-963e2af93dc0
 feature: Deliverability
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
-source-wordcount: '434'
+source-wordcount: '425'
 ht-degree: 0%
 
 ---
 
 # 이메일 전달성을 위한 SPF 및 DKIM 설정 {#set-up-spf-and-dkim-for-your-email-deliverability}
 
-이메일 게재 속도를 향상시키는 한 가지 빠른 방법은 를 통합하는 것입니다 **SPF** (발신자 정책 프레임워크) 및 **D김** (Domain Keys Identified Mail) 을 DNS 설정으로 복사합니다. DNS 항목 외에도 Marketo에서 귀하를 대신하여 이메일을 보내도록 승인했음을 수신자에게 알려 줍니다. 이 변경 사항이 없으면 이메일이 도메인에서 주소가 지정되었지만 Marketo 도메인이 있는 IP 주소에서 전송되었기 때문에 이메일이 스팸으로 표시될 가능성이 더 높습니다.
+전자 메일 게재 속도를 향상시키는 한 가지 빠른 방법은 **SPF**(발신자 정책 프레임워크) 및 **DKIM**(도메인 키 확인 메일)을 DNS 설정에 통합하는 것입니다. DNS 항목 외에도 Marketo에서 귀하를 대신하여 이메일을 보내도록 승인했음을 수신자에게 알려 줍니다. 이 변경 사항이 없으면 이메일이 도메인에서 주소가 지정되었지만 Marketo 도메인이 있는 IP 주소에서 전송되었기 때문에 이메일이 스팸으로 표시될 가능성이 더 높습니다.
 
 >[!CAUTION]
 >
@@ -23,7 +23,7 @@ ht-degree: 0%
 
 **도메인에 SPF 레코드가 없는 경우**
 
-네트워크 관리자에게 DNS 항목에 다음 줄을 추가하도록 요청하십시오. 바꾸기 [도메인] (예: 웹 사이트의 기본 도메인) &quot;company.com&quot;) 및 [corpIp] 회사 이메일 서버의 IP 주소(예: &quot;255.255.255.255&quot;). Marketo을 통해 여러 도메인에서 이메일을 보내는 경우 각 도메인(한 줄)에 추가해야 합니다.
+네트워크 관리자에게 DNS 항목에 다음 줄을 추가하도록 요청하십시오. [domain]을(를) 웹 사이트의 주 도메인으로 바꾸십시오(예: 회사 전자 메일 서버의 IP 주소가 &quot;company.com&quot;) 및 [corpIP]입니다(예: &quot;255.255.255.255&quot;). Marketo을 통해 여러 도메인에서 이메일을 보내는 경우 각 도메인(한 줄)에 추가해야 합니다.
 
 `[domain] IN TXT v=spf1 mx ip4:[corpIP] include:mktomail.com ~all`
 
@@ -45,12 +45,12 @@ DNS 레코드에서 공개 키를 설정하고 관리 섹션(A)에서 전송 도
 
 ![](assets/image2015-1-12-13-3a56-3a55.png)
 
-**DKIM을 설정하려면 어떻게 합니까?**
+**DKIM을 설정하는 방법**
 
-다음을 참조하십시오. [사용자 지정 DKIM 서명 설정](/help/marketo/product-docs/email-marketing/deliverability/set-up-a-custom-dkim-signature.md){target="_blank"}.
+[사용자 지정 DKIM 서명 설정](/help/marketo/product-docs/email-marketing/deliverability/set-up-a-custom-dkim-signature.md){target="_blank"}을 참조하세요.
 
 >[!MORELIKETHIS]
 >
 >* [SPF 및 작동 방식에 대해 자세히 알아보기](http://www.open-spf.org/Introduction/){target="_blank"}
->* [SPF가 제대로 설정되어 있습니까?](https://www.kitterman.com/spf/validate.html){target="_blank"}
+>* [SPF가 올바르게 설정되었습니까?](https://www.kitterman.com/spf/validate.html){target="_blank"}
 >* [올바른 구문을 사용했습니까?](http://www.open-spf.org/SPF_Record_Syntax/){target="_blank"}

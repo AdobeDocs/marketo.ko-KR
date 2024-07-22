@@ -6,8 +6,8 @@ exl-id: 079f1142-8062-448c-aa07-59ecd89a718f
 feature: Marketo Sales Insights
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
-source-wordcount: '405'
-ht-degree: 8%
+source-wordcount: '335'
+ht-degree: 10%
 
 ---
 
@@ -117,11 +117,11 @@ Outlook용 Marketo 이메일 추가 기능의 새 버전을 사용할 수 있는
  </tbody> 
 </table>
 
-&#42;Office 365 버전: Windows 클라이언트 전용(Windows 10, Enterprise 또는 Pro에서).
+&#42;Office 365 버전: Windows 클라이언트만(Windows 10, Enterprise 또는 Pro의 경우).
 
 ## 업그레이드 {#upgrade}
 
-1. 다음 항목 식별 [Microsoft Outlook 버전](https://support.microsoft.com/en-us/office/what-version-of-outlook-do-i-have-b3a9568c-edb5-42b9-9825-d48d82b2257c?ui=en-us&amp;rs=en-us&amp;ad=us).
+1. [Microsoft Outlook 버전](https://support.microsoft.com/en-us/office/what-version-of-outlook-do-i-have-b3a9568c-edb5-42b9-9825-d48d82b2257c?ui=en-us&amp;rs=en-us&amp;ad=us)을 확인하세요.
 
 1. 위 목록에서 버전을 선택합니다.
 
@@ -129,7 +129,7 @@ Outlook용 Marketo 이메일 추가 기능의 새 버전을 사용할 수 있는
 
    ![](assets/image2014-9-23-16-3a53-3a56.png)
 
-1. 클릭 **다음**.
+1. **다음**&#x200B;을 클릭합니다.
 
    ![](assets/image2014-9-23-16-3a54-3a8.png)
 
@@ -141,7 +141,7 @@ Outlook용 Marketo 이메일 추가 기능의 새 버전을 사용할 수 있는
 
    ![](assets/ent-key-close-outlook-hand.png)
 
-1. 모든 정보가 미리 채워져 있습니다. 간단히 클릭 **다음**.
+1. 모든 정보가 미리 채워져 있습니다. **다음**&#x200B;을 클릭하면 됩니다.
 
    ![](assets/image2014-9-23-16-3a54-3a40.png)
 
@@ -149,11 +149,11 @@ Outlook용 Marketo 이메일 추가 기능의 새 버전을 사용할 수 있는
    >
    >설치에 실패한 경우 IT 부서와 협력하여 HTTPS 트래픽이 차단되지 않도록 하십시오. 설치 관리자를 열려면 HTTPS 트래픽이 필요합니다.
 
-1. 클릭 **다음** 기본 위치에 를 설치합니다.
+1. 기본 위치에 설치하려면 **다음**&#x200B;을 클릭하세요.
 
    ![](assets/image2014-9-23-16-3a54-3a55.png)
 
-1. 클릭 **다음**.
+1. **다음**&#x200B;을 클릭합니다.
 
    ![](assets/image2014-9-23-16-3a55-3a20.png)
 
@@ -167,5 +167,5 @@ Outlook용 Marketo 이메일 추가 기능의 새 버전을 사용할 수 있는
 
 >[!MORELIKETHIS]
 >
->* [Outlook용 Marketo 이메일 추가 기능을 사용하여 이메일 전송 및 추적](/help/marketo/product-docs/marketo-sales-insight/msi-outlook-plugin/send-and-track-an-email-with-the-email-add-in-for-outlook.md)
+>* [Outlook용 Marketo 전자 메일 추가 기능을 사용하여 전자 메일을 보내고 추적하기](/help/marketo/product-docs/marketo-sales-insight/msi-outlook-plugin/send-and-track-an-email-with-the-email-add-in-for-outlook.md)
 >* [Marketo 템플릿을 사용하여 Outlook에서 전송 및 추적](/help/marketo/product-docs/marketo-sales-insight/msi-outlook-plugin/send-and-track-from-outlook-using-a-marketo-template.md)

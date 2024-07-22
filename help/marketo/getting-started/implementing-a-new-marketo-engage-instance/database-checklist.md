@@ -14,7 +14,7 @@ ht-degree: 2%
 
 데이터베이스 섹션에서 인스턴스에 있는 사람들의 주요 속성을 찾을 수 있습니다. 데이터베이스에서 다양한 목록 및 세그먼트를 탐색하고 사용자 레코드를 관리하는 데 필요한 단계에 대해 자세히 알아봅니다.
 
-다음을 잊지 마십시오. [확인 목록 다운로드](/help/marketo/getting-started/implementing-a-new-marketo-engage-instance/assets/adobe-marketo-engage-new-instance-admin-checklist.xlsx) 진행 상황을 추적할 수 있습니다.
+[확인 목록을 다운로드](/help/marketo/getting-started/implementing-a-new-marketo-engage-instance/assets/adobe-marketo-engage-new-instance-admin-checklist.xlsx)하고 진행 상황을 추적하는 것이 좋습니다.
 
 ## 시스템 스마트 목록 {#system-smart-lists}
 
@@ -29,26 +29,26 @@ ht-degree: 2%
   <tr>
     <td>모든 사람</td>
     <td><li>CRM과 1:1 동기화를 구현하거나 필터를 적용하여 시스템에서 시스템으로 이동하는 사람과 언제 이동하는 사용자를 제한할지 결정합니다.</li> 
-    <li>의 총 인원과 마케팅 가능한 사람 수를 검토하십시오. <a href="https://experienceleague.adobe.com/docs/marketo/using/product-docs/core-marketo-concepts/smart-lists-and-static-lists/managing-people-in-smart-lists/database-dashboard.html" target="_blank">Marketo Engage 데이터베이스</a>.</li></td>
+    <li><a href="https://experienceleague.adobe.com/docs/marketo/using/product-docs/core-marketo-concepts/smart-lists-and-static-lists/managing-people-in-smart-lists/database-dashboard.html" target="_blank">Marketo Engage 데이터베이스</a>의 총 인원과 마케팅 가능한 인원을 검토하십시오.</li></td>
   </tr>
   <tr>
     <td>차단 목록</td>
-    <td><li>차단 목록 기준을 정의합니다. 경쟁업체의 도메인을 다음에 추가하는 것이 좋습니다. <a href="https://experienceleague.adobe.com/docs/marketo/using/product-docs/core-marketo-concepts/smart-lists-and-static-lists/managing-people-in-smart-lists/add-person-to-blocklist.html" target="_blank">차단 목록</a> 이메일을 수신하지 못하도록 할 수 있습니다.</li></td>
+    <td><li>차단 목록 기준을 정의합니다. 경쟁사의 도메인이 이메일을 수신하지 못하도록 <a href="https://experienceleague.adobe.com/docs/marketo/using/product-docs/core-marketo-concepts/smart-lists-and-static-lists/managing-people-in-smart-lists/add-person-to-blocklist.html" target="_blank">차단 목록</a>에 추가하는 것이 좋습니다.</li></td>
   </tr>
   <tr>
     <td>마케팅 중단</td>
-    <td><li>정의 <a href="https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/email-marketing/deliverability/understanding-unsubscribe#marketing-suspended" target="_blank">마케팅 일시 중단됨</a> 기준.</li></td>
+    <td><li><a href="https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/email-marketing/deliverability/understanding-unsubscribe#marketing-suspended" target="_blank">마케팅 중단</a> 조건을 정의합니다.</li></td>
   </tr>
   <tr>
     <td>반송된 이메일 주소 </td>
     <td><li>반송된 이메일 주소에 대한 기준을 정의합니다.</li>
-    <li>'이메일 부적합' 카테고리의 직원을 검토하고 이메일이 다음이 필요한지 확인합니다. <a href="https://experienceleague.adobe.com/docs/marketo/using/product-docs/email-marketing/deliverability/hard-and-soft-bounces-in-email.html" target="_blank">수동으로 재설정</a>.</li></td>
+    <li>'전자 메일 잘못됨' 범주의 사용자를 검토하여 전자 메일이 <a href="https://experienceleague.adobe.com/docs/marketo/using/product-docs/email-marketing/deliverability/hard-and-soft-bounces-in-email.html" target="_blank">수동으로 재설정</a>해야 하는지 확인하십시오.</li></td>
   </tr>
   <tr>
     <td>가능한 중복 항목</td>
     <td><li>가능한 중복 항목 목록의 사용자를 검토하십시오.</li> 
-    <li>중복 관리 전략을 정의하여 다음을 원하는지 결정합니다. <a href="https://experienceleague.adobe.com/docs/marketo/using/product-docs/core-marketo-concepts/smart-lists-and-static-lists/managing-people-in-smart-lists/find-and-merge-duplicate-people.html" target="_blank">수동으로 사람 병합</a>.</li>  
-    <li>CRM 통합이 있는 경우 다음 프로세스 및 계정을 정의합니다 <a href="https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/core-marketo-concepts/smart-lists-and-static-lists/managing-people-in-smart-lists/find-and-merge-duplicate-people#effect-in-salesforce" target="_blank">crm에서 잠재 고객 병합의 효과</a>.</li></td>
+    <li>중복 관리 전략을 정의하여 <a href="https://experienceleague.adobe.com/docs/marketo/using/product-docs/core-marketo-concepts/smart-lists-and-static-lists/managing-people-in-smart-lists/find-and-merge-duplicate-people.html" target="_blank">사람들을 수동으로 병합</a>할지 여부를 결정합니다.</li>  
+    <li>CRM 통합이 있는 경우 <a href="https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/core-marketo-concepts/smart-lists-and-static-lists/managing-people-in-smart-lists/find-and-merge-duplicate-people#effect-in-salesforce" target="_blank">CRM에서 잠재 고객 병합의 효과</a>에 대한 프로세스와 계정을 정의하십시오.</li></td>
   </tr>
   <tr>
     <td>획득 프로그램 없음</td>
@@ -56,7 +56,7 @@ ht-degree: 2%
   </tr>
   <tr>
     <td>구독 취소된 사람</td>
-    <td><li>다음에 대한 기준 검토 <a href="https://experienceleague.adobe.com/docs/marketo/using/product-docs/email-marketing/deliverability/understanding-unsubscribe.html" target="_blank">구독 취소된 사람</a>.</li></td>
+    <td><li><a href="https://experienceleague.adobe.com/docs/marketo/using/product-docs/email-marketing/deliverability/understanding-unsubscribe.html" target="_blank">미구독 사용자</a>에 대한 기준을 검토하십시오.</li></td>
   </tr>
 </tbody>
 </table>
@@ -91,7 +91,7 @@ ht-degree: 2%
 <tbody>
   <tr>
     <td>세분화</td>
-    <td><li><a href="https://experienceleague.adobe.com/docs/marketo/using/product-docs/personalization/segmentation-and-snippets/segmentation/create-a-segmentation.html" target="_blank">세그먼트 만들기</a> 비즈니스 요구 사항에 따라 각 구독은 20개의 세그먼테이션과 각 세그먼테이션 내의 100개의 세그먼트로 제한됩니다.</li></td>
+    <td><li>비즈니스 요구 사항에 따라 <a href="https://experienceleague.adobe.com/docs/marketo/using/product-docs/personalization/segmentation-and-snippets/segmentation/create-a-segmentation.html" target="_blank">세그먼트를 만듭니다</a>. 각 구독은 20개의 세그먼테이션과 각 세그먼테이션 내의 100개의 세그먼트로 제한됩니다.</li></td>
   </tr>
 </tbody>
 </table>

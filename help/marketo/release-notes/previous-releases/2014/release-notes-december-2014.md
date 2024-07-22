@@ -17,7 +17,7 @@ ht-degree: 0%
 
 ## Sales Insight 보고서 {#sales-insight-reports}
 
-다음 [Sales Insight Email Performance 보고서](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/features/performance-reports/sales-insight-email-performance-report.md) 이메일 및 영업 담당자별로 이메일 지표를 볼 수 있습니다. Salesforce, Microsoft Dynamics, Outlook 플러그인 및 Gmail 플러그인을 통해 전송된 이메일을 지원합니다.
+[Sales Insight Email 성과 보고서](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/features/performance-reports/sales-insight-email-performance-report.md)를 통해 이메일 및 영업 담당자별로 이메일 지표를 볼 수 있습니다. Salesforce, Microsoft Dynamics, Outlook 플러그인 및 Gmail 플러그인을 통해 전송된 이메일을 지원합니다.
 
 ![](assets/image2014-12-5-11-3a5-3a46.png)
 
@@ -25,13 +25,13 @@ ht-degree: 0%
 
 ## Facebook 사용자 지정 대상 {#facebook-custom-audiences}
 
-Marketo 관리자가 추가되면 [관리자 > Launchpoint를 통한 facebook](/help/marketo/product-docs/demand-generation/ad-network-integrations/add-facebook-custom-audiences-as-a-launchpoint-service.md), 를 쉽게 만들거나, 업데이트하거나, [facebook 사용자 지정 대상을 Marketo 정적 또는 스마트 목록의 리드로 바꾸기](/help/marketo/product-docs/demand-generation/facebook/create-a-custom-audience-in-facebook.md). 정적 또는 스마트 목록의 리드 그리드 아래쪽에서 새 Facebook 아이콘을 찾습니다.
+Marketo 관리자가 관리자 > 시작 지점](/help/marketo/product-docs/demand-generation/ad-network-integrations/add-facebook-custom-audiences-as-a-launchpoint-service.md)을 통해 [Facebook을 추가하면 Facebook 사용자 지정 대상을 Marketo 정적 또는 스마트 목록의 리드로 쉽게 만들거나 업데이트하거나 [바꿀 수 있습니다](/help/marketo/product-docs/demand-generation/facebook/create-a-custom-audience-in-facebook.md). 정적 또는 스마트 목록의 리드 그리드 아래쪽에서 새 Facebook 아이콘을 찾습니다.
 
 ![](assets/image2014-12-5-11-3a6-3a28.png)
 
 ## 작업 영역 간 클론 작업 개선  {#improved-cloning-across-workspaces}
 
-[프로그램 복제](/help/marketo/product-docs/core-marketo-concepts/programs/working-with-programs/clone-a-program.md) 다른 작업 영역으로 이동하는 것이 더 쉬워졌습니다! 복제를 클릭하면 대상 작업 영역을 선택합니다. 더 이상 폴더로 복제한 다음 폴더를 이동하지 마십시오!
+[프로그램을 다른 작업 영역에 복제](/help/marketo/product-docs/core-marketo-concepts/programs/working-with-programs/clone-a-program.md)하는 것이 더 쉬워졌습니다! 복제를 클릭하면 대상 작업 영역을 선택합니다. 더 이상 폴더로 복제한 다음 폴더를 이동하지 마십시오!
 
 >[!NOTE]
 >
@@ -41,11 +41,11 @@ Marketo 관리자가 추가되면 [관리자 > Launchpoint를 통한 facebook](/
 
 ## 참조 스마트 목록 {#reference-smart-list}
 
-[다른 작업 영역과 공유되는 스마트 목록을 참조할 수 있습니다](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/using-smart-lists/reference-a-list-or-smart-list-across-workspaces.md) 스마트 목록 또는 플로우를 빌드할 때.
+스마트 목록 또는 흐름을 작성할 때 [다른 작업 영역과 공유되는 스마트 목록을 참조할 수 있습니다](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/using-smart-lists/reference-a-list-or-smart-list-across-workspaces.md).
 
 ## 목록 가져오기 개선 사항 {#list-import-improvements}
 
-[파일 가져오기](/help/marketo/getting-started/quick-wins/import-a-list-of-people.md) utf-16, Shift-JIS 또는 EUC-JP로 인코딩됩니다. UTF-8 인코딩 파일을 계속 지원합니다.
+UTF-16, Shift-JIS 또는 EUC-JP로 인코딩된 [파일 가져오기](/help/marketo/getting-started/quick-wins/import-a-list-of-people.md). UTF-8 인코딩 파일을 계속 지원합니다.
 
 ## 이메일 스크립팅의 링크 추적 {#link-tracking-in-email-scripting}
 
@@ -65,11 +65,11 @@ Marketo 관리자가 추가되면 [관리자 > Launchpoint를 통한 facebook](/
 
 · 잠재 고객 병합
 
-전체 세부 정보는 릴리스 이후에서 사용할 수 있습니다. [https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/home](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/home)
+전체 세부 정보는 [https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/home](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/home)에 릴리스된 후에 사용할 수 있습니다.
 
 ## Munchkin Javascript 호환성 개선 사항 {#munchkin-javascript-compatibility-enhancements}
 
-페이지에서 다른 JavaScript를 사용하는 경우 Munchkin이 계속 빠르게 로드되고 원하는 대로 작동하도록 몇 가지 사소한 개선 사항을 만들었습니다.
+페이지에 있는 다른 JavaScript에서 경우에 따라 빠르게 로드되고 원하는 대로 작동하도록 Munchkin을 몇 가지 약간 개선했습니다.
 
 롤아웃은 12월 중순부터 시작하여 향후 몇 달 동안 진행될 예정입니다.
 

@@ -1,17 +1,17 @@
 ---
 unique-page-id: 2359823
-description: facebook에 랜딩 페이지 게시 - Marketo 문서 - 제품 설명서
-title: facebook에 랜딩 페이지 게시
+description: Facebook에 대한 Publish 랜딩 페이지 - Marketo 문서 - 제품 설명서
+title: Facebook으로 Publish 랜딩 페이지
 exl-id: 42ba4136-3538-4eef-b794-3fce7e9fb8e5
 feature: Integrations
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
-source-wordcount: '301'
+source-wordcount: '302'
 ht-degree: 0%
 
 ---
 
-# facebook에 랜딩 페이지 게시 {#publish-landing-pages-to-facebook}
+# Facebook으로 Publish 랜딩 페이지 {#publish-landing-pages-to-facebook}
 
 랜딩 페이지를 Facebook에 게시하여 대상자가 이미 있는 곳에서 만나고 프로그램에 더 많은 트래픽을 생성할 수 있습니다.
 
@@ -29,7 +29,7 @@ ht-degree: 0%
 
    ![](assets/image2015-4-22-16-3a53-3a46.png)
 
-1. 선택 **facebook에 게시** (랜딩 페이지 작업).
+1. 랜딩 페이지 작업에서 **Publish to Facebook**&#x200B;을(를) 선택합니다.
 
    ![](assets/image2015-4-22-16-3a54-3a55.png)
 
@@ -49,13 +49,13 @@ ht-degree: 0%
    >
    >Marketo 랜딩 페이지를 게시하려는 Facebook 페이지에 대한 관리자 권한이 있는 계정을 사용해야 합니다.
 
-1. 다음 항목 선택 **Facebook 페이지** 랜딩 페이지를 게시하고 Marketo 랜딩 페이지를 표시할 이름을 입력합니다.
+1. 랜딩 페이지를 게시하려는 **Facebook 페이지**&#x200B;를 선택하고 Marketo 랜딩 페이지를 표시할 이름을 입력하십시오.
 
    ![](assets/image2015-4-22-18-3a31-3a39.png)
 
    >[!NOTE]
    >
-   >이전에 Facebook에 게시한 Marketo 랜딩 페이지를 바꾸려면 다음을 선택합니다 **기존 탭 바꾸기** 드롭다운 목록에서 대체할 탭을 선택합니다. Marketo이 아닌 탭은 교체되지 않습니다.
+   >이전에 Facebook에 게시한 Marketo 랜딩 페이지를 바꾸려면 **기존 탭 바꾸기**&#x200B;를 선택하고 드롭다운 목록에서 바꿀 탭을 선택합니다. Marketo이 아닌 탭은 교체되지 않습니다.
 
 1. 이제 리드가 Facebook 페이지의 랜딩 페이지를 직접 방문할 수 있습니다. 표지 이미지 아래의 탭 이름을 클릭하면 됩니다.
 

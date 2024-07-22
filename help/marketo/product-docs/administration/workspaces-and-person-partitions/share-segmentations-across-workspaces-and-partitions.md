@@ -6,7 +6,7 @@ exl-id: b50f4328-fdba-4e39-bc0d-75bade1f9cbc
 feature: Partitions, Workspaces
 source-git-commit: 02b2e39580c5eac63de4b4b7fdaf2a835fdd4ba5
 workflow-type: tm+mt
-source-wordcount: '471'
+source-wordcount: '474'
 ht-degree: 0%
 
 ---
@@ -23,25 +23,25 @@ Marketo은 프로그램이나 스마트 캠페인에 적합한 사람을 골라�
 
 >[!NOTE]
 >
->학습 [세그먼트를 만드는 방법](/help/marketo/product-docs/personalization/segmentation-and-snippets/segmentation/create-a-segmentation.md).
+>[세그먼트를 만드는 방법](/help/marketo/product-docs/personalization/segmentation-and-snippets/segmentation/create-a-segmentation.md)을 알아보세요.
 
-이 가상 사용자를 설정했으면(_및_ 작업 영역을 사용)하면 작업 영역 간에 공유할 수 있습니다. 다음은 알아 두어야 할 몇 가지 좋은 점입니다.
+이 가상 사용자를 설정하고 나면(_및_ 작업 영역을 사용) 해당 가상 사용자를 작업 영역에서 공유하게 됩니다. 다음은 알아 두어야 할 몇 가지 좋은 점입니다.
 
 ## 규칙 및 팁 {#rules-tips}
 
-* 각 Marketo 구독에는 여러 작업 공간에 걸쳐 최대 20개의 &quot;합계&quot; 세그먼테이션을 포함할 수 있습니다(**작업 영역당 20개 아님**).
+* 각 Marketo 구독에는 여러 작업 영역에 걸쳐 최대 20개의 &quot;총&quot; 세그먼테이션을 포함할 수 있습니다(**작업 영역당 20개가 아님**).
 * 액세스 권한이 있는 작업 영역에서만 세분화를 공유할 수 있습니다.
-* 다음을 만들고 활용해야 합니다. **모든 파티션에 대한 가시성이 있는 기본 작업 영역**.
+* 모든 파티션에 대한 가시성이 있는 **기본 작업 영역을 만들고 활용하십시오**.
 
 * 세그먼테이션 처리는 세그먼테이션이 만들어진 작업 공간의 사용자에게만 실행됩니다.
 
-   * 기본 작업 영역 내에서 공유할 세그먼테이션을 만듭니다.
+   * 기본 Workspace 내에서 공유할 세그먼테이션을 만듭니다.
       * 세분화 승인
       * 공유 작업 영역에 잠긴 폴더가 표시되고 세그먼테이션은 읽기 전용입니다.
       * 공유 버전은 편집할 수 없습니다. 만들어진 원래 세분화만 편집할 수 있습니다.
 
    * 공유 세그멘테이션 내에서 세그먼트(예: 의료)를 클릭하면, 표시되는 사람은 사용자가 보고 있는 작업 영역과 연결된 파티션의 사람만 됩니다.
-      * Workspace 1(WS1)에서 세그먼테이션을 만들고 WS2와 공유하는 경우 WS1이 WS2용 파티션에 액세스할 수 없으므로 세그먼테이션이 다시 계산되지 않습니다.
+      * WS1(Workspace 1)에서 세그먼테이션을 만들고 WS2와 공유하는 경우 WS1이 WS2용 파티션에 액세스할 수 없으므로 세그먼테이션이 다시 계산되지 않습니다.
       * 파티션이 제한된 작업 영역에서 세분화를 만든 다음 다른 작업 영역과 공유하는 경우 공유된 세분화를 수신한 작업 영역에는 겹치는 사람만 표시됩니다.
 
 >[!NOTE]
@@ -56,15 +56,15 @@ Marketo은 프로그램이나 스마트 캠페인에 적합한 사람을 골라�
 
 ## 세분화 공유 {#share-a-segmentation}
 
-1. 로 이동 **[!UICONTROL 데이터베이스]**.
+1. **[!UICONTROL 데이터베이스]**(으)로 이동합니다.
 
    ![](assets/share-segmentations-across-workspaces-and-partitions-3.png)
 
-1. 마우스 오른쪽 버튼 클릭 **[!UICONTROL 세그먼트화]** 및 선택 **[!UICONTROL 새 폴더]**.
+1. **[!UICONTROL 세그먼테이션]**&#x200B;을 마우스 오른쪽 단추로 클릭하고 **[!UICONTROL 새 폴더]**&#x200B;를 선택합니다.
 
    ![](assets/share-segmentations-across-workspaces-and-partitions-4.png)
 
-1. 작업 영역 간에 공유할 폴더 이름을 지정하고(예: 세그먼트 공유) **[!UICONTROL 만들기]**.
+1. 작업 영역 간에 공유할 폴더 이름을 지정하고(예: 세그먼트 공유) **[!UICONTROL 만들기]**&#x200B;를 클릭합니다.
 
    ![](assets/share-segmentations-across-workspaces-and-partitions-5.png)
 
@@ -72,11 +72,11 @@ Marketo은 프로그램이나 스마트 캠페인에 적합한 사람을 골라�
 
    ![](assets/share-segmentations-across-workspaces-and-partitions-6.png)
 
-1. 폴더를 마우스 오른쪽 단추로 클릭하고 **[!UICONTROL 폴더 공유]**.
+1. 폴더를 마우스 오른쪽 단추로 클릭하고 **[!UICONTROL 폴더 공유]**&#x200B;를 선택합니다.
 
    ![](assets/share-segmentations-across-workspaces-and-partitions-7.png)
 
-1. 폴더를 공유할 작업 영역을 선택합니다. 클릭 **[!UICONTROL 저장]**.
+1. 폴더를 공유할 작업 영역을 선택합니다. **[!UICONTROL 저장]**&#x200B;을 클릭합니다.
 
    ![](assets/share-segmentations-across-workspaces-and-partitions-8.png)
 

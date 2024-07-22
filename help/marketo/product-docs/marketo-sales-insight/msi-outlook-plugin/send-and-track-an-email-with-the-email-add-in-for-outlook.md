@@ -6,7 +6,7 @@ exl-id: 81c2ce86-1528-48ad-8848-ee5a828f9ff7
 feature: Marketo Sales Insights
 source-git-commit: 02b2e39580c5eac63de4b4b7fdaf2a835fdd4ba5
 workflow-type: tm+mt
-source-wordcount: '294'
+source-wordcount: '295'
 ht-degree: 0%
 
 ---
@@ -17,7 +17,7 @@ Outlook에서 직접 Marketo으로 이메일을 보내고 추적할 수 있습�
 
 >[!PREREQUISITES]
 >
->아직 설치하지 않은 경우 [Outlook용 Marketo 이메일 추가 기능](/help/marketo/product-docs/marketo-sales-insight/msi-outlook-plugin/install-the-marketo-email-add-in-for-outlook-with-a-registration-code.md).
+>아직 설치하지 않았다면 Outlook용 [Marketo 전자 메일 추가 기능](/help/marketo/product-docs/marketo-sales-insight/msi-outlook-plugin/install-the-marketo-email-add-in-for-outlook-with-a-registration-code.md)을 설치하십시오.
 
 >[!NOTE]
 >
@@ -31,7 +31,7 @@ Outlook에서 직접 Marketo으로 이메일을 보내고 추적할 수 있습�
    >
    >이메일에 여러 수신자를 포함하는 경우 모든 활동이 첫 번째 수신자에서 추적됩니다.
 
-1. 평소대로 이메일을 작성한 다음 을 클릭합니다 **전송 및 추적**.
+1. 일반적인 방법으로 전자 메일을 작성한 다음 **전송 및 추적**&#x200B;을 클릭합니다.
 
    ![](assets/image2014-9-23-16-3a7-3a1.png)
 
@@ -41,9 +41,9 @@ Outlook에서 직접 Marketo으로 이메일을 보내고 추적할 수 있습�
 
    >[!TIP]
    >
-   >Marketo 템플릿을 사용하려면 다음을 참조하십시오. [템플릿을 사용하여 Outlook에서 전송 및 추적](/help/marketo/product-docs/marketo-sales-insight/msi-outlook-plugin/send-and-track-from-outlook-using-a-marketo-template.md).
+   >Marketo 템플릿을 사용하려면 [템플릿을 사용하여 Outlook에서 보내기 및 추적](/help/marketo/product-docs/marketo-sales-insight/msi-outlook-plugin/send-and-track-from-outlook-using-a-marketo-template.md)을 참조하세요.
 
-1. 미리보기를 확인하고 를 클릭합니다. **보내기**.
+1. 미리 보기를 확인하고 **보내기**&#x200B;를 클릭하세요.
 
    ![](assets/image2014-9-23-16-3a7-3a13.png)
 

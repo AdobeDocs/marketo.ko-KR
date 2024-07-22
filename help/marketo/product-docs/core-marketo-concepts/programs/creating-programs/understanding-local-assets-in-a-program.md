@@ -1,7 +1,7 @@
 ---
 unique-page-id: 1147093
-description: 프로그램의 로컬 자산 이해 - Marketo 문서 - 제품 설명서
-title: 프로그램의 로컬 자산 이해
+description: 프로그램의 로컬 Assets 이해 - Marketo 문서 - 제품 설명서
+title: 프로그램의 로컬 Assets 이해
 exl-id: aa577b2b-f77c-41cc-aa47-59ce2d189530
 feature: Programs
 source-git-commit: 5e2d1979abcafd8e4a37e55b843be932125c954e
@@ -11,9 +11,9 @@ ht-degree: 0%
 
 ---
 
-# 프로그램의 로컬 자산 이해 {#understanding-local-assets-in-a-program}
+# 프로그램의 로컬 Assets 이해 {#understanding-local-assets-in-a-program}
 
-로컬 에셋은 프로그램을 구성하는 콘텐츠입니다. 에셋은 사용자 정의가 가능하며 자동화된 마케팅 이니셔티브를 구축할 수 있도록 해줍니다. 다음은 프로그램에서 만들 수 있는 대부분의 로컬 에셋에 대한 설명입니다.
+로컬 에셋은 프로그램을 구성하는 콘텐츠입니다. Assets은 사용자 정의가 가능하며 자동화된 마케팅 이니셔티브를 구축할 수 있도록 해줍니다. 다음은 프로그램에서 만들 수 있는 대부분의 로컬 에셋에 대한 설명입니다.
 
 ![](assets/one.png)
 
@@ -25,15 +25,15 @@ ht-degree: 0%
 * [목록](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/static-lists/understanding-static-lists.md){target="_blank"}
 * [스마트 목록](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/creating-a-smart-list/create-a-smart-list.md){target="_blank"}
 * [보고서](/help/marketo/product-docs/reporting/basic-reporting/report-types/report-type-overview.md){target="_blank"}
-* [이메일 프로그램](/help/marketo/product-docs/email-marketing/email-programs/creating-an-email-program/understanding-email-programs.md){target="_blank"}
-* [이메일](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/create-an-email-for-an-email-program.md){target="_blank"}
+* [전자 메일 프로그램](/help/marketo/product-docs/email-marketing/email-programs/creating-an-email-program/understanding-email-programs.md){target="_blank"}
+* [전자 메일](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/create-an-email-for-an-email-program.md){target="_blank"}
 * [푸시 알림](/help/marketo/product-docs/mobile-marketing/push-notifications/understanding-push-notifications.md){target="_blank"}
 * [랜딩 페이지](/help/marketo/product-docs/demand-generation/landing-pages/understanding-landing-pages/understanding-free-form-vs-guided-landing-pages.md){target="_blank"}
 * [Forms](/help/marketo/product-docs/demand-generation/forms/creating-a-form/create-a-form.md){target="_blank"}
 * [테스트 그룹](/help/marketo/product-docs/demand-generation/landing-pages/understanding-landing-pages/landing-page-test-groups.md){target="_blank"}
 * [소셜 단추](/help/marketo/product-docs/demand-generation/landing-pages/free-form-landing-pages/add-a-social-button-to-a-free-form-landing-page.md){target="_blank"}
-* [Youtube 비디오](/help/marketo/product-docs/demand-generation/social/social-functions/add-a-video.md){target="_blank"}
+* [Youtube 동영상](/help/marketo/product-docs/demand-generation/social/social-functions/add-a-video.md){target="_blank"}
 * [투표](/help/marketo/product-docs/demand-generation/social/creating-a-poll/create-a-poll.md){target="_blank"}
-* [참조 오퍼](/help/marketo/product-docs/demand-generation/social/referral-offers/create-a-referral-offer.md){target="_blank"}
+* [추천 오퍼](/help/marketo/product-docs/demand-generation/social/referral-offers/create-a-referral-offer.md){target="_blank"}
 * [경품 추첨](/help/marketo/product-docs/demand-generation/social/sweepstakes/create-sweepstakes.md){target="_blank"}
 * [SMS 메시지 보기](/help/marketo/product-docs/mobile-marketing/vibes-sms-messages/create-an-sms-message.md){target="_blank"}

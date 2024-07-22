@@ -15,21 +15,21 @@ ht-degree: 0%
 
 인바운드 링크를 수동으로 추가할 수 있습니다. 방법은 다음과 같습니다.
 
-1. 로 이동 **[!UICONTROL 인바운드 링크]** 섹션.
+1. **[!UICONTROL 인바운드 링크]** 섹션으로 이동합니다.
 
    ![](assets/image2014-9-18-13-3a40-3a3.png)
 
-1. 클릭 **[!UICONTROL URL 추가]**.
+1. **[!UICONTROL URL 추가]**&#x200B;를 클릭합니다.
 
    ![](assets/image2014-9-18-13-3a40-3a8.png)
 
-1. URL을 입력합니다. 클릭 **[!UICONTROL 추가]**.
+1. URL을 입력합니다. **[!UICONTROL 추가]**&#x200B;를 클릭합니다.
 
    ![](assets/image2014-9-18-13-3a40-3a32.png)
 
    >[!TIP]
    >
-   >할 수 있다는 걸 알고 있었습니까? [새 목록 또는 기존 목록에 인바운드 링크 추가](/help/marketo/product-docs/additional-apps/seo/understanding-seo/seo-managing-lists.md){target="_blank"}? 확인해 봐!
+   >[새 목록 또는 기존 목록에 인바운드 링크를 추가](/help/marketo/product-docs/additional-apps/seo/understanding-seo/seo-managing-lists.md){target="_blank"}할 수 있다는 사실을 알고 계십니까? 확인해 봐!
 
    ![](assets/image2014-9-18-13-3a41-3a14.png)
 

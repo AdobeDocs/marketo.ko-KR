@@ -6,8 +6,8 @@ exl-id: 6e559b10-5273-4dc2-b98d-49c509cbeff7
 feature: Microsoft Dynamics
 source-git-commit: 821d69736b1cbeac0c80718c58a7a3c471387545
 workflow-type: tm+mt
-source-wordcount: '274'
-ht-degree: 2%
+source-wordcount: '285'
+ht-degree: 0%
 
 ---
 
@@ -21,41 +21,41 @@ Microsoft Dynamics 온-프레미스 및 Marketo Engage을 동기화하려면 먼
 
 >[!PREREQUISITES]
 >
->다음을 수행해야 합니다. [인터넷 연결 배포](https://www.microsoft.com/en-us/download/confirmation.aspx?id=41701){target="_blank"} (IFD) with [Active Directory Federation Services](https://msdn.microsoft.com/en-us/library/bb897402.aspx){target="_blank"} 2.0, 2.1 또는 3.0(ADFS)이 구성되었습니다. **참고**: IFD 문서는 링크를 클릭하면 자동으로 다운로드됩니다.
+>ADFS(Active Directory Federation Services)가 구성된 [Active Directory Federation Services](https://msdn.microsoft.com/en-us/library/bb897402.aspx){target="_blank"} 2.0, 2.1 또는 3.0 IFD(인터넷 연결 배포)가 [있어야 합니다](https://www.microsoft.com/en-us/download/confirmation.aspx?id=41701){target="_blank"}. **참고**: 링크를 클릭하면 IFD 문서가 자동으로 다운로드됩니다.
 >
->[Marketo 리드 관리 솔루션 다운로드](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/download-the-marketo-lead-management-solution.md){target="_blank"} 시작하기 전에.
+>시작하기 전에 [Marketo 리드 관리 솔루션을 다운로드하십시오](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/download-the-marketo-lead-management-solution.md){target="_blank"}.
 
 >[!NOTE]
 >
->**Dynamics 관리자 권한 필요**.
+>**Dynamics 관리자 권한이 필요합니다**.
 >
 >이 동기화를 수행하려면 CRM 관리자 권한이 필요합니다.
 
-1. Dynamics에 로그인하고 다음을 선택합니다. **[!UICONTROL 설정]** 왼쪽 아래 메뉴에서 을 클릭합니다.
+1. Dynamics에 로그인하고 왼쪽 하단 메뉴에서 **[!UICONTROL 설정]**&#x200B;을(를) 선택합니다.
 
    ![](assets/image2015-4-2-11-3a32-3a53.png)
 
-1. 선택 **[!UICONTROL 솔루션]** 나무에.
+1. 트리에서 **[!UICONTROL 솔루션]**&#x200B;을 선택하십시오.
 
    ![](assets/image2015-4-2-11-3a35-3a28.png)
 
-1. 클릭 **[!UICONTROL 가져오기]**.
+1. **[!UICONTROL 가져오기]**&#x200B;를 클릭합니다.
 
    ![](assets/image2015-4-2-11-3a37-3a33.png)
 
-1. 클릭 **[!UICONTROL 찾아보기]**. 다음과 같은 Marketo 리드 관리 솔루션을 선택합니다. [다운로드됨](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/download-the-marketo-lead-management-solution.md){target="_blank"}. **[!UICONTROL 다음]**&#x200B;을 클릭합니다.
+1. **[!UICONTROL 찾아보기]**&#x200B;를 클릭합니다. [다운로드한](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/download-the-marketo-lead-management-solution.md){target="_blank"}Marketo 리드 관리 솔루션을 선택합니다. **[!UICONTROL 다음]**&#x200B;을 클릭합니다.
 
    ![](assets/image2015-4-2-11-3a40-3a33.png)
 
-1. 솔루션 정보를 보고 **[!UICONTROL 솔루션 패키지 세부 정보 보기]**.
+1. 솔루션 정보를 보고 **[!UICONTROL 솔루션 패키지 세부 정보 보기]**&#x200B;를 클릭합니다.
 
    ![](assets/image2015-11-18-11-3a12-3a8.png)
 
-1. 모든 세부 사항을 확인했으면 **[!UICONTROL 닫기]**.
+1. 모든 세부 정보를 모두 확인했으면 **[!UICONTROL 닫기]**&#x200B;를 클릭합니다.
 
    ![](assets/image2015-10-9-14-3a57-3a3.png)
 
-1. 솔루션 정보 페이지로 돌아가서 **[!UICONTROL 다음]**.
+1. 솔루션 정보 페이지로 돌아가서 **[!UICONTROL 다음]**&#x200B;을 클릭합니다.
 
    ![](assets/image2015-4-2-11-3a41-3a48.png)
 
@@ -79,11 +79,11 @@ Microsoft Dynamics 온-프레미스 및 Marketo Engage을 동기화하려면 먼
 
    ![](assets/image2015-4-2-11-3a44-3a44.png)
 
-1. 이제 Marketo Lead Management 가 **모든 솔루션** 페이지를 가리키도록 업데이트하는 중입니다.
+1. 이제 Marketo Lead Management가 **모든 솔루션** 페이지에 표시됩니다.
 
    ![](assets/image2015-4-2-11-3a46-3a55.png)
 
-1. Marketo Lead Management 를 선택하고 **[!UICONTROL 모든 사용자 지정 게시]**.
+1. Marketo 리드 관리를 선택하고 **[!UICONTROL 모든 사용자 지정 Publish]**&#x200B;을(를) 클릭합니다.
 
    ![](assets/image2015-4-2-11-3a48-3a21.png)
 

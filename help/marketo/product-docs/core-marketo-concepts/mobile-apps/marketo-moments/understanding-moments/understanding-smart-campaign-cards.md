@@ -6,7 +6,7 @@ exl-id: 2d7476aa-d33d-4c82-aef8-b340766b9526
 feature: Mobile Marketing
 source-git-commit: 61b5500c6acbe6448a70e28f4b0cafe3c005a02a
 workflow-type: tm+mt
-source-wordcount: '582'
+source-wordcount: '574'
 ht-degree: 0%
 
 ---
@@ -31,7 +31,7 @@ Marketo 모먼트 를 사용하여 스마트 폰 또는 iPad에서 스마트 캠
 
 1. 세부 정보 카드를 통해 스마트 목록 필터, 흐름 및 이메일 요약에 대한 정보에 액세스할 수 있습니다.
 
-1. 누르기 **스마트 목록**.
+1. **스마트 목록**&#x200B;을 누릅니다.
 
    ![](assets/image2015-9-21-13-3a31-3a49.png)
 
@@ -39,7 +39,7 @@ Marketo 모먼트 를 사용하여 스마트 폰 또는 iPad에서 스마트 캠
 
    ![](assets/image2015-9-21-13-3a35-3a29.png)
 
-1. 누르기 **플로우**.
+1. **흐름**&#x200B;을 누릅니다.
 
    ![](assets/image2015-9-21-13-3a37-3a20.png)
 
@@ -47,7 +47,7 @@ Marketo 모먼트 를 사용하여 스마트 폰 또는 iPad에서 스마트 캠
 
    ![](assets/image2015-9-22-15-3a8-3a12.png)
 
-1. 클릭 **이메일 요약**.
+1. **전자 메일 요약**&#x200B;을 클릭합니다.
 
    ![](assets/image2015-9-21-13-3a51-3a7.png)
 
@@ -71,7 +71,7 @@ Marketo 모먼트 를 사용하여 스마트 폰 또는 iPad에서 스마트 캠
 
    ![](assets/image2015-9-22-14-3a54-3a12.png)
 
-1. 누르기 [샘플 보내기](/help/marketo/product-docs/core-marketo-concepts/mobile-apps/marketo-moments/working-with-moments/sending-a-sample.md) 또는 [이메일 미리 보기](/help/marketo/product-docs/core-marketo-concepts/mobile-apps/marketo-moments/working-with-moments/previewing-an-email.md) 자세한 내용을 보려면 이 링크를 클릭하십시오.
+1. [샘플 보내기](/help/marketo/product-docs/core-marketo-concepts/mobile-apps/marketo-moments/working-with-moments/sending-a-sample.md) 또는 [전자 메일 미리 보기](/help/marketo/product-docs/core-marketo-concepts/mobile-apps/marketo-moments/working-with-moments/previewing-an-email.md)를 탭합니다(자세한 내용을 보려면 이 링크를 클릭).
 
    ![](assets/image2015-9-22-14-3a52-3a11.png)
 
@@ -83,11 +83,11 @@ Marketo 모먼트 를 사용하여 스마트 폰 또는 iPad에서 스마트 캠
 
    ![](assets/image2015-9-23-10-3a43-3a23.png)
 
-1. 누르기 **확인**.
+1. **확인**&#x200B;을 누릅니다.
 
    ![](assets/image2015-9-23-10-3a45-3a51.png)
 
-1. 누르기 **확인** 작업을 마치려면 또는 **신경 쓰지 마세요** 다른 생각이 있다면.
+1. 작업을 완료하려면 **확인**&#x200B;을 탭하거나, 다른 생각이 있는 경우 **신경 쓰지 않음**&#x200B;을 탭하세요.
 
    ![](assets/image2015-9-23-10-3a47-3a28.png)
 
@@ -103,11 +103,11 @@ Marketo 모먼트 를 사용하여 스마트 폰 또는 iPad에서 스마트 캠
 
    ![](assets/image2015-9-22-14-3a34-3a14.png)
 
-1. 누르기 **실행 취소**.
+1. **실행 취소**&#x200B;를 탭합니다.
 
    ![](assets/image2015-9-22-14-3a35-3a33.png)
 
-1. 누르기 **실행 취소**. 마지막 순간에 실행을 취소하지 않기로 결정한 경우 을 누릅니다. **신경 쓰지 마세요**&#x200B;및 스마트 캠페인이 예약대로 실행됩니다.
+1. **실행 취소**&#x200B;를 탭합니다. 마지막 순간에 실행을 취소하지 않기로 결정한 경우 **신경 쓰지 않음**&#x200B;을 탭하면 스마트 캠페인이 예정대로 실행됩니다.
 
    ![](assets/image2015-9-22-14-3a41-3a26.png)
 
@@ -119,11 +119,11 @@ Marketo 모먼트 를 사용하여 스마트 폰 또는 iPad에서 스마트 캠
 
    ![](assets/image2015-9-22-14-3a11-3a25.png)
 
-1. 누르기 **일정 조정**.
+1. **다시 예약**&#x200B;을 누릅니다.
 
    ![](assets/image2015-9-22-14-3a13-3a25.png)
 
-1. 달력에서 날짜를 선택하고 을 누릅니다. **일정 조정**.
+1. 캘린더에서 날짜를 선택하고 **다시 예약**&#x200B;을 탭하세요.
 
    ![](assets/image2015-9-22-14-3a16-3a56.png)
 
@@ -141,7 +141,7 @@ Marketo 모먼트 를 사용하여 스마트 폰 또는 iPad에서 스마트 캠
 
 >[!NOTE]
 >
->다음을 탭할 수도 있습니다. **공유** 공유할 스마트 캠페인 카드의 아이콘 및 **완료** 및 **즐겨찾기** 세부 정보 카드의 아이콘
+>스마트 Campaign 카드에서 **공유** 아이콘을 탭하여 공유하고 세부 정보 카드에서 **완료** 및 **즐겨찾기** 아이콘을 탭하여 공유할 수도 있습니다.
 
 ## 스마트 캠페인 카드를 빠르게 삭제 {#quickly-delete-a-smart-campaign-card}
 

@@ -35,7 +35,7 @@ AEM 에셋에 액세스하고, 선택하고, Marketo Engage Design Studio로 가
 
    ![](assets/two.png)
 
-1. 위치 **[!UICONTROL 도구]**, 클릭 **[!UICONTROL 작업]** 및 선택 **[!UICONTROL 웹 콘솔]**.
+1. **[!UICONTROL 도구]**&#x200B;에서 **[!UICONTROL 작업]**&#x200B;을 클릭하고 **[!UICONTROL 웹 콘솔]**&#x200B;을 선택하십시오.
 
    ![](assets/2a.png)
 
@@ -43,15 +43,15 @@ AEM 에셋에 액세스하고, 선택하고, Marketo Engage Design Studio로 가
 
    ![](assets/three.png)
 
-1. 다음을 클릭합니다. **+** 오른쪽에 사인하세요.
+1. 오른쪽의 **+** 기호를 클릭합니다.
 
    ![](assets/four.png)
 
-1. 다음에서 **[!UICONTROL 허용된 원본 (Regexp)]** 텍스트 상자, 입력 `https://.*\.marketo\.com` 및 클릭 **[!UICONTROL 저장]**.
+1. **[!UICONTROL 허용된 원본(Regexp)]** 텍스트 상자에 `https://.*\.marketo\.com`을(를) 입력하고 **[!UICONTROL 저장]**&#x200B;을 클릭합니다.
 
    ![](assets/five-psd.png)
 
-1. 페이지 상단의 헤더에서 을 클릭합니다. **[!UICONTROL 웹 콘솔]** 및 선택 **[!UICONTROL 시스템 정보]**.
+1. 페이지 상단의 헤더에서 **[!UICONTROL 웹 콘솔]**&#x200B;을 클릭하고 **[!UICONTROL 시스템 정보]**&#x200B;를 선택합니다.
 
    ![](assets/six.png)
 
@@ -59,22 +59,22 @@ AEM 에셋에 액세스하고, 선택하고, Marketo Engage Design Studio로 가
 
    ![](assets/seven.png)
 
-1. 클릭 **[!UICONTROL 확인]** 확인할 수 있습니다.
+1. 확인하려면 **[!UICONTROL 확인]**&#x200B;을 클릭하세요.
 
    ![](assets/eight.png)
 
-1. Marketo Engage에서 **[!UICONTROL 관리자]**.
+1. Marketo Engage에서 **[!UICONTROL 관리자]**&#x200B;를 클릭합니다.
 
    ![](assets/nine.png)
 
-1. 통합에서 을 선택합니다. **[!UICONTROL Adobe Experience Manager]**.
+1. 통합에서 **[!UICONTROL Adobe Experience Manager]**&#x200B;을(를) 선택합니다.
 
    ![](assets/ten.png)
 
-1. 클릭 **[!UICONTROL 편집]**.
+1. **[!UICONTROL 편집]**&#x200B;을 클릭합니다.
 
    ![](assets/eleven.png)
 
-1. AEM URL을 입력하고 **[!UICONTROL 확인]**.
+1. AEM URL을 입력하고 **[!UICONTROL 확인]**&#x200B;을 클릭합니다.
 
    ![](assets/twelve.png)

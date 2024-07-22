@@ -6,14 +6,14 @@ exl-id: 1507aa40-9bd7-42be-8c85-deae8dd45234
 feature: Release Information
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
-source-wordcount: '294'
+source-wordcount: '299'
 ht-degree: 0%
 
 ---
 
 # 릴리스 노트: 2014년 1월 {#release-notes-january}
 
-다음 기능은 2014년 1월 릴리스에 포함되어 있습니다. 다음을 확인하십시오. [Marketo 에디션](https://www.marketo.com/pricing/) 기능 가용성을 확인합니다.
+다음 기능은 2014년 1월 릴리스에 포함되어 있습니다. [Marketo 버전](https://www.marketo.com/pricing/)에서 사용 가능한 기능을 확인하십시오.
 
 ## Forms 2.0 {#forms}
 
@@ -25,7 +25,7 @@ ht-degree: 0%
 
 테마 디자인, 버튼 사용자 지정 및 유연한 레이아웃을 통해 사이트의 모양과 느낌에 바로 어울리는 현대적인 스타일의 양식을 디자인할 수 있습니다.
 
-**조건부 가시성 및 후속 페이지 논리:**
+**조건부 표시 및 후속 페이지 논리:**
 
 ![](assets/image2014-9-22-10-3a30-3a52.png)
 
@@ -33,7 +33,7 @@ ht-degree: 0%
 
 ![](assets/image2014-9-22-10-3a31-3a54.png)
 
-**자체 랜딩 페이지에 Forms을 쉽게 임베드할 수 있습니다.**
+**랜딩 페이지에 Forms을 쉽게 포함:**
 
 Marketo 랜딩 페이지에 배치된 양식에서 html 코드를 들어 올려 iFrame에 놓는 시대는 지났습니다. 포함 코드를 가져와서 양식을 렌더링할 랜딩 페이지에 배치하면 됩니다. 표준 및 Lightbox의 두 가지 모드를 사용하면 사이트에서 Marketo 양식을 더욱 유연하게 사용할 수 있습니다.
 
@@ -41,12 +41,12 @@ Marketo 랜딩 페이지에 배치된 양식에서 html 코드를 들어 올려 
 
 ## 이메일 프로그램에 대한 통신 제한 {#communication-limits-for-email-program}
 
-[이메일 프로그램에 대한 통신 제한 설정](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/enable-disable-communication-limits-in-an-email-program.md) 를 사용하십시오. 정의된 한도를 초과하는 사용자는 이메일을 받지 못합니다.
+[전자 메일 프로그램에 대한 통신 제한을 설정](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/enable-disable-communication-limits-in-an-email-program.md)하여 데이터베이스에 대해 과도한 통신을 하지 않도록 하십시오. 정의된 한도를 초과하는 사용자는 이메일을 받지 못합니다.
 
 ![](assets/image2014-9-22-10-3a38-3a31.png)
 
 ## 프로그램 멤버십 분석의 추가 필드 {#additional-fields-in-program-membership-analysis}
 
-이제 을(를) 추가하고 그룹화할 수 있습니다 [프로그램 멤버십 분석](/help/marketo/product-docs/reporting/revenue-cycle-analytics/program-analytics/build-a-program-membership-analysis-report-that-lists-leads.md) 리드 및 회사 속성별 지표. 예를 들어 산업 필드를 추가하여 프로그램 멤버 및 성공 수를 분할할 수 있습니다.
+이제 리드 및 회사 특성별로 [프로그램 구성원 분석](/help/marketo/product-docs/reporting/revenue-cycle-analytics/program-analytics/build-a-program-membership-analysis-report-that-lists-leads.md) 지표를 추가하고 그룹화할 수 있습니다. 예를 들어 산업 필드를 추가하여 프로그램 멤버 및 성공 수를 분할할 수 있습니다.
 
 ![](assets/image2014-9-22-10-3a39-3a1.png)

@@ -13,7 +13,7 @@ ht-degree: 0%
 
 # 자유 형식 및 안내식 랜딩 페이지 이해 {#understanding-free-form-vs-guided-landing-pages}
 
-선택하는 템플릿에 따라 작업할 랜딩 페이지 편집 모드가 결정됩니다. 가능한 경로는 두 가지가 있습니다. [무형식](/help/marketo/product-docs/demand-generation/landing-pages/free-form-landing-pages/create-a-free-form-landing-page.md) 및 [가이드](/help/marketo/product-docs/demand-generation/landing-pages/guided-landing-pages/create-a-guided-landing-page.md). 아래에서 중요한 차이점에 대한 간단한 요약을 확인할 수 있습니다.
+선택하는 템플릿에 따라 작업할 랜딩 페이지 편집 모드가 결정됩니다. 가능한 경로는 [자유 형식](/help/marketo/product-docs/demand-generation/landing-pages/free-form-landing-pages/create-a-free-form-landing-page.md)과(와) [안내](/help/marketo/product-docs/demand-generation/landing-pages/guided-landing-pages/create-a-guided-landing-page.md)입니다. 아래에서 중요한 차이점에 대한 간단한 요약을 확인할 수 있습니다.
 
 ## 자유 형식 페이지 {#free-form-pages}
 

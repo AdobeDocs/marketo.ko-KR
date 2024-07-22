@@ -15,15 +15,15 @@ ht-degree: 0%
 
 Microsoft Dynamics에 처음 동기화하면 Marketo용 플러그인의 최신 버전을 다운로드합니다. Marketo은 이러한 플러그인을 정기적으로 업데이트하므로 동일한 위치로 돌아가서 새 버전을 다운로드할 수 있습니다.
 
-[최신 플러그인 다운로드](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/download-the-marketo-lead-management-solution.md){target="_blank"} dynamics 릴리스에 해당합니다.
+Dynamics 릴리스에 해당하는 [최신 플러그인을 다운로드합니다](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/download-the-marketo-lead-management-solution.md){target="_blank"}.
 
 ![](assets/marketo-plugin-releases-for-microsoft-dynamics-1.png)
 
 ## Dynamics 솔루션 업데이트 {#updating-your-dynamics-solution}
 
-1. 기존 버전의 Dynamics CRM을 통해 최신 버전의 솔루션을 가져옵니다(예: Dynamics CRM에 버전 1.4가 있고 최신 버전이 1.5인 경우 다음을 가져옵니다.) _초과_ 버전 1.4).
+1. 기존 버전의 Dynamics CRM을 통해 최신 버전의 솔루션을 가져옵니다(예: Dynamics CRM에 버전 1.4가 있고 최신 버전이 1.5인 경우 _over_ 버전 1.4를 가져옵니다).
 
-1. 다음 팝업이 표시됩니다. 선택 **업데이트** 및 **사용자 지정 유지**&#x200B;을 클릭한 다음 을 클릭합니다 **가져오기**.
+1. 다음 팝업이 표시됩니다. **업데이트** 및 **사용자 지정 유지 관리**&#x200B;를 선택한 다음 **가져오기**&#x200B;를 클릭합니다.
 
 ![](assets/marketo-plugin-releases-for-microsoft-dynamics-2.png)
 

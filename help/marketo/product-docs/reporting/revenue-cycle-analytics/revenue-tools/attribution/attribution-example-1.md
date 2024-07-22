@@ -6,7 +6,7 @@ exl-id: 851cbad3-0f6d-4ea0-857f-8b15337c7540
 feature: Reporting, Revenue Cycle Analytics
 source-git-commit: d20a9bb584f69282eefae3704ce4be2179b29d0b
 workflow-type: tm+mt
-source-wordcount: '170'
+source-wordcount: '181'
 ht-degree: 0%
 
 ---
@@ -15,10 +15,10 @@ ht-degree: 0%
 
 다음 시나리오를 읽고 그리드에 있어야 하는 숫자를 결정하십시오.
 
-* 4월 11일 | Fred는 (Tradeshow)에 의해 획득되었습니다.
+* 4월 11일 | Fred는 (Tradeshow)에 의해 획득됩니다.
 * 4월 15일 | Margo 참석(웨비나) - 성공
-* 4월 22일 | Fred가 영업 기회에 연결된 (역할)
-* 4월 22일 | 영업 기회가 $3,000에 생성됨
+* 4월 22일 | Fred가 영업 기회에 연관됨(역할)
+* 4월 22일 | 영업 기회가 3,000달러에 생성됨
 
 | 프로그램 이름 | (박람회) | (웨비나) |
 |---|---|---|

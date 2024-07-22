@@ -1,7 +1,7 @@
 ---
 unique-page-id: 1147124
-description: 에셋 탭 사용 - Marketo 문서 - 제품 설명서
-title: 에셋 탭 사용
+description: Assets 탭 사용 - Marketo 문서 - 제품 설명서
+title: Assets 탭 사용
 exl-id: 7e7679bb-f83d-4b7f-adfb-2733259eeac2
 feature: Programs
 source-git-commit: 86f9e9f13b24a82deb50ec4c398035d7d7479d20
@@ -11,13 +11,13 @@ ht-degree: 0%
 
 ---
 
-# 에셋 탭 사용 {#using-the-assets-tab}
+# Assets 탭 사용 {#using-the-assets-tab}
 
 에셋 캔버스는 기본 또는 이벤트 프로그램을 시각적으로 표현한 것입니다. 로컬 자산을 추가하고 기존 자산과 상호 작용하는 데 사용할 수 있습니다.
 
-## 에셋 추가 {#adding-assets}
+## Assets 추가 {#adding-assets}
 
-다음을 클릭합니다. **[!UICONTROL 에셋]** 원하는 프로그램의 탭 아래 에셋 중 하나를 선택하여 프로그램에 추가하십시오.
+원하는 프로그램에서 **[!UICONTROL Assets]** 탭을 클릭합니다. 아래 에셋 중 하나를 선택하여 프로그램에 추가하십시오.
 
 ![](assets/programassets.png)
 
@@ -37,7 +37,7 @@ ht-degree: 0%
 >
 >자산 열을 다시 정렬하려면 드래그 앤 드롭하십시오.
 
-프로그램에 로컬이 아닌 자산은 다음과 같이 표시됩니다.
+프로그램에 로컬이 아닌 Assets은 다음과 같이 표시됩니다.
 
 ![](assets/image2014-9-18-16-3a30-3a33.png)
 

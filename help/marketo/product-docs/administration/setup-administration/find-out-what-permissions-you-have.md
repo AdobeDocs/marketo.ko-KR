@@ -15,11 +15,11 @@ ht-degree: 0%
 
 Marketo에 어떤 권한이 있는지 궁금하다면 손쉽게 확인할 수 있는 방법이 있습니다.
 
-1. 다음으로 이동 **[!UICONTROL 마케팅 활동]**.
+1. **[!UICONTROL 마케팅 활동]**(으)로 이동합니다.
 
    ![](assets/find-out-what-permissions-you-have-1.png)
 
-1. 클릭 **[!UICONTROL 전체 액세스 권한]** 사용 권한을 확인합니다.
+1. 사용 권한을 보려면 **[!UICONTROL 전체 액세스]**&#x200B;를 클릭하세요.
 
    ![](assets/find-out-what-permissions-you-have-2.png)
 

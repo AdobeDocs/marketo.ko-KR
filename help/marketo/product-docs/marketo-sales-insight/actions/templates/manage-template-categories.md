@@ -16,25 +16,25 @@ ht-degree: 0%
 
 ## 범주 만들기 {#create-a-category}
 
-1. 다음을 클릭합니다. **템플릿** 탭.
+1. **템플릿** 탭을 클릭합니다.
 
    ![](assets/manage-template-categories-1.png)
 
-1. 다음을 클릭합니다. **+** 아이콘 옆에 있음 **카테고리**.
+1. **범주** 옆에 있는 **+** 아이콘을 클릭합니다.
 
    ![](assets/manage-template-categories-2.png)
 
-1. 새 범주의 이름을 입력한 다음 **만들기**.
+1. 새 범주의 이름을 입력한 다음 **만들기**&#x200B;를 클릭합니다.
 
    ![](assets/manage-template-categories-3.png)
 
 ## 템플릿 범주 이름 바꾸기 {#rename-a-template-category}
 
-1. 다음을 클릭합니다. **템플릿** 탭.
+1. **템플릿** 탭을 클릭합니다.
 
    ![](assets/manage-template-categories-4.png)
 
-1. 이름을 바꿀 템플릿 위로 마우스를 가져간 다음 점 3개를 클릭합니다. 선택 **이름 바꾸기**.
+1. 이름을 바꿀 템플릿 위로 마우스를 가져간 다음 점 3개를 클릭합니다. **이름 바꾸기**&#x200B;를 선택합니다.
 
    ![](assets/manage-template-categories-5.png)
 
@@ -44,15 +44,15 @@ ht-degree: 0%
 
 ## 템플릿 범주 삭제 {#delete-a-template-category}
 
-1. 다음을 클릭합니다. **템플릿** 탭.
+1. **템플릿** 탭을 클릭합니다.
 
    ![](assets/manage-template-categories-7.png)
 
-1. 이름을 바꿀 템플릿 위로 마우스를 가져간 다음 점 3개를 클릭합니다. 선택 **삭제**.
+1. 이름을 바꿀 템플릿 위로 마우스를 가져간 다음 점 3개를 클릭합니다. **삭제**&#x200B;를 선택합니다.
 
    ![](assets/manage-template-categories-8.png)
 
-1. 클릭 **삭제** 확인할 수 있습니다.
+1. 확인하려면 **삭제**&#x200B;를 클릭하세요.
 
    ![](assets/manage-template-categories-9.png)
 

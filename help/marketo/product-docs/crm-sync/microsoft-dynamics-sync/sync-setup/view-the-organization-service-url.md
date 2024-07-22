@@ -15,19 +15,19 @@ ht-degree: 0%
 
 MD 인스턴스와 동기화하려면 Marketo Engage에게 조직 서비스 URL이 필요합니다. Dynamics에서 검색하는 방법은 다음과 같습니다.
 
-1. 에 로그인 [!DNL Dynamics]. 설정 아이콘을 클릭하고 다음을 선택합니다. **[!UICONTROL 고급 설정]**.
+1. [!DNL Dynamics]에 로그인합니다. 설정 아이콘을 클릭하고 **[!UICONTROL 고급 설정]**&#x200B;을 선택합니다.
 
    ![](assets/one.png)
 
-1. 클릭 **[!UICONTROL 설정]** 및 선택 **[!UICONTROL 사용자 정의]**.
+1. **[!UICONTROL 설정]**&#x200B;을 클릭하고 **[!UICONTROL 사용자 지정]**&#x200B;을 선택합니다.
 
    ![](assets/two.png)
 
-1. 클릭 **[!UICONTROL 개발자 리소스]**.
+1. **[!UICONTROL 개발자 리소스]**&#x200B;를 클릭합니다.
 
    ![](assets/three.png)
 
-1. 조직 서비스 URL은 아래에서 찾을 수 있습니다. **[!UICONTROL 서비스 엔드포인트]**.
+1. 조직 서비스 URL은 **[!UICONTROL 서비스 끝점]**&#x200B;에서 찾을 수 있습니다.
 
    ![](assets/four.png)
 

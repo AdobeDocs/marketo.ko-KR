@@ -6,7 +6,7 @@ exl-id: fdd4e286-c417-41f1-9cbe-bd78cb597310
 feature: Marketo Sales Connect
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
-source-wordcount: '232'
+source-wordcount: '230'
 ht-degree: 0%
 
 ---
@@ -23,15 +23,15 @@ Sales Connect 계정이 처음 만들어지면 공유 설정이 활성화됩니�
 
 ## 공유 설정 구성 {#configure-your-sharing-settings}
 
-1. 다음에서 [웹 애플리케이션](https://toutapp.com/login)설정 페이지로 이동합니다.
+1. [웹 응용 프로그램](https://toutapp.com/login)에서 설정 페이지로 이동합니다.
 
    ![](assets/one-2.png)
 
-1. 관리자 설정에서 을 선택합니다. **액세스 공유**.
+1. 관리자 설정에서 **액세스 공유**&#x200B;를 선택합니다.
 
    ![](assets/two-2.png)
 
-1. 다음을 확인하십시오. **공유 설정** 활성화되었습니다. 즉, 기본적으로 관리자만 템플릿 카테고리의 템플릿을 공유할 수 있습니다.
+1. **공유 설정**&#x200B;이 활성화되어 있는지 확인하십시오. 즉, 기본적으로 관리자만 템플릿 카테고리의 템플릿을 공유할 수 있습니다.
 
    ![](assets/three-2.png)
 
@@ -39,7 +39,7 @@ Sales Connect 계정이 처음 만들어지면 공유 설정이 활성화됩니�
 
    ![](assets/four-2.png)
 
-1. 클릭 **액세스할 팀 추가**.
+1. **액세스할 팀 추가**&#x200B;를 클릭합니다.
 
    ![](assets/five-2.png)
 
@@ -51,7 +51,7 @@ Sales Connect 계정이 처음 만들어지면 공유 설정이 활성화됩니�
    >
    >팀이 표시되지 않으면 팀 관리로 이동하여 사용자 팀을 만들어야 합니다.
 
-1. 클릭 **액세스할 팀 추가** 저장.
+1. 저장하려면 **액세스할 팀 추가**&#x200B;를 클릭하세요.
 
    ![](assets/seven-1.png)
 

@@ -6,7 +6,7 @@ exl-id: 5b83663e-8578-4a45-b8f8-4db8c2346372
 feature: Custom Activities
 source-git-commit: 02b2e39580c5eac63de4b4b7fdaf2a835fdd4ba5
 workflow-type: tm+mt
-source-wordcount: '111'
+source-wordcount: '112'
 ht-degree: 0%
 
 ---
@@ -19,19 +19,19 @@ ht-degree: 0%
 >
 >대부분의 구독에는 10개의 사용자 지정 활동 유형으로 할당된 제한이 있습니다.
 
-1. 로 이동 **[!UICONTROL 관리자]** 영역입니다.
+1. **[!UICONTROL 관리자]** 영역으로 이동합니다.
 
    ![](assets/create-a-custom-activity-1.png)
 
-1. 클릭 **[!UICONTROL Marketo 사용자 지정 활동]**.
+1. **[!UICONTROL Marketo 사용자 지정 활동]**&#x200B;을 클릭합니다.
 
    ![](assets/create-a-custom-activity-2.png)
 
-1. 클릭 **[!UICONTROL 새 사용자 지정 활동]**.
+1. **[!UICONTROL 새 사용자 지정 활동]**&#x200B;을 클릭합니다.
 
    ![](assets/create-a-custom-activity-3.png)
 
-1. 이름 및 선택 사항 입력 [!UICONTROL 설명]을 클릭한 다음 을 클릭합니다 **[!UICONTROL 다음]**. API 이름이 자동으로 채워지지만 사용자 지정할 수 있습니다.
+1. 이름과 선택적 [!UICONTROL 설명]을 입력한 다음 **[!UICONTROL 다음]**&#x200B;을 클릭합니다. API 이름이 자동으로 채워지지만 사용자 지정할 수 있습니다.
 
    ![](assets/create-a-custom-activity-4.png)
 
@@ -39,7 +39,7 @@ ht-degree: 0%
    >
    >API 이름을 변경하는 경우, 이름이 다른 사용자 지정 활동의 필드와 충돌하지 않는지 확인하십시오.
 
-1. 다음을 정의합니다. [!UICONTROL 필터] 및 [!UICONTROL 트리거] 및 클릭 **[!UICONTROL 다음]**.
+1. [!UICONTROL 필터] 및 [!UICONTROL 트리거]를 정의하고 **[!UICONTROL 다음]**&#x200B;을(를) 클릭합니다.
 
    ![](assets/create-a-custom-activity-5.png)
 

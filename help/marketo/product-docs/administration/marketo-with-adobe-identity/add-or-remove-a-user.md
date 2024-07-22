@@ -5,8 +5,8 @@ exl-id: b1087d41-b548-47bd-91b7-282dc902cba3
 feature: Marketo with Adobe Identity
 source-git-commit: 02b2e39580c5eac63de4b4b7fdaf2a835fdd4ba5
 workflow-type: tm+mt
-source-wordcount: '240'
-ht-degree: 0%
+source-wordcount: '230'
+ht-degree: 2%
 
 ---
 
@@ -14,11 +14,11 @@ ht-degree: 0%
 
 ## 사용자 추가 {#add-a-user}
 
-1. 에 로그인합니다 [Adobe Admin Console](https://adminconsole.adobe.com/){target="_blank"}.
+1. [Adobe Admin Console](https://adminconsole.adobe.com/){target="_blank"}에 로그인합니다.
 
    ![](assets/add-or-remove-a-user-1.png)
 
-1. 클릭 **Marketo Engage**.
+1. **Marketo Engage**&#x200B;을 클릭합니다.
 
    ![](assets/add-or-remove-a-user-2.png)
 
@@ -26,11 +26,11 @@ ht-degree: 0%
 
    ![](assets/add-or-remove-a-user-3.png)
 
-1. 다음을 클릭합니다. **[!UICONTROL 사용자]** 탭.
+1. **[!UICONTROL 사용자]** 탭을 클릭합니다.
 
    ![](assets/add-or-remove-a-user-4.png)
 
-1. 다음을 클릭합니다. **[!UICONTROL 사용자 추가]** 단추를 클릭합니다.
+1. **[!UICONTROL 사용자 추가]** 단추를 클릭합니다.
 
    ![](assets/add-or-remove-a-user-5.png)
 
@@ -38,15 +38,15 @@ ht-degree: 0%
 
    ![](assets/add-or-remove-a-user-6.png)
 
-1. 다음을 클릭합니다. **+** 아이콘을 클릭하고 원하는 제품 프로필을 선택합니다.
+1. **+** 아이콘을 클릭하고 원하는 제품 프로필을 선택합니다.
 
    ![](assets/add-or-remove-a-user-7.png)
 
    >[!IMPORTANT]
    >
-   >사용자 _필수_ Marketo Engage에 액세스하기 위해 제품 프로필에 가 추가됩니다.
+   >Marketo Engage에 액세스하려면 제품 프로필에 _을(를) 추가해야_&#x200B;합니다.
 
-1. 클릭 **[!UICONTROL 저장]**.
+1. **[!UICONTROL 저장]**&#x200B;을 클릭합니다.
 
    ![](assets/add-or-remove-a-user-8.png)
 
@@ -54,15 +54,15 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->사용자가 Adobe Admin Console을 통해 Marketo Engage에 추가되면 구독의 기본 작업 영역 내에서 &quot;표준 사용자&quot; 역할이 부여됩니다. 작업 영역 내에서 사용자의 역할을 조정해야 하는 경우 Marketo Engage 시 수행됩니다. [여기에 기재된 바와 같이](/help/marketo/product-docs/administration/users-and-roles/managing-user-roles-and-permissions.md){target="_blank"}.
+>사용자가 Adobe Admin Console을 통해 Marketo Engage에 추가되면 구독의 기본 작업 영역 내에서 &quot;표준 사용자&quot; 역할이 부여됩니다. 작업 영역 내에서 사용자의 역할을 조정해야 하는 경우 [여기에 설명된 대로 Marketo Engage에서 수행됩니다](/help/marketo/product-docs/administration/users-and-roles/managing-user-roles-and-permissions.md){target="_blank"}.
 
 ## 사용자 제거 {#remove-a-user}
 
-1. 에 로그인합니다 [Adobe Admin Console](https://adminconsole.adobe.com/){target="_blank"}.
+1. [Adobe Admin Console](https://adminconsole.adobe.com/){target="_blank"}에 로그인합니다.
 
    ![](assets/add-or-remove-a-user-9.png)
 
-1. 클릭 **Marketo Engage**.
+1. **Marketo Engage**&#x200B;을 클릭합니다.
 
    ![](assets/add-or-remove-a-user-10.png)
 
@@ -70,7 +70,7 @@ ht-degree: 0%
 
    ![](assets/add-or-remove-a-user-11.png)
 
-1. 다음을 클릭합니다. **[!UICONTROL 사용자]** 탭.
+1. **[!UICONTROL 사용자]** 탭을 클릭합니다.
 
    ![](assets/add-or-remove-a-user-12.png)
 
@@ -78,7 +78,7 @@ ht-degree: 0%
 
    ![](assets/add-or-remove-a-user-13.png)
 
-1. 클릭 **[!UICONTROL 사용자 제거]** 확인할 수 있습니다.
+1. 확인하려면 **[!UICONTROL 사용자 제거]**&#x200B;를 클릭하세요.
 
    ![](assets/add-or-remove-a-user-14.png)
 
@@ -86,5 +86,5 @@ ht-degree: 0%
 
 >[!MORELIKETHIS]
 >
->* [Adobe Admin Console 사용자](https://helpx.adobe.com/enterprise/using/users.html){target="_blank"}
+>* [Adobe Admin Console 사용자](https://helpx.adobe.com/kr/enterprise/using/users.html){target="_blank"}
 >* [개별적으로 사용자 관리](https://helpx.adobe.com/enterprise/using/manage-users-individually.html){target="_blank"}

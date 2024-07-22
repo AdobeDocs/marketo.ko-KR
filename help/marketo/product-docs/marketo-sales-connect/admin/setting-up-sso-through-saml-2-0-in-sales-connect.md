@@ -6,7 +6,7 @@ exl-id: aab80626-d6d1-4194-9733-09c90c0b49a6
 feature: Marketo Sales Connect
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
-source-wordcount: '259'
+source-wordcount: '258'
 ht-degree: 0%
 
 ---
@@ -17,7 +17,7 @@ SAML 2.0 사양을 통해 SSO를 지원합니다. 그러나 현재 어떤 공급
 
 >[!NOTE]
 >
->이는 에만 해당됩니다. **Marketo Sales Connect** 사용자. Sales Connect가 없지만 자세히 알아보려면 Adobe 계정 팀(계정 관리자)에 문의하십시오.
+>**Marketo Sales Connect** 사용자만 적용할 수 있습니다. Sales Connect가 없지만 자세히 알아보려면 Adobe 계정 팀(계정 관리자)에 문의하십시오.
 
 ## 요구 사항 {#requirements}
 
@@ -29,8 +29,8 @@ SAML 2.0 사양을 통해 SSO를 지원합니다. 그러나 현재 어떤 공급
 
 팀의 SSO 인스턴스에서 가져온 metadata.xml에는 발급자 URL, 유효성 검사를 위한 끝점 및 공개 키가 포함되어야 합니다.
 
-또한 고유한 도메인이 되려면 귀사의 SSO 계정에 대한 SSO 위치가 필요합니다. 예를 들어 다음과 같은 고유한 하위 도메인이 필요합니다. `toutapp.pingidentity.com` 또는 유사합니다. 이 유형의 고유 식별자가 없으면 대시보드에서 SAML을 설정할 수 없습니다.
+또한 고유한 도메인이 되려면 귀사의 SSO 계정에 대한 SSO 위치가 필요합니다. 예를 들어 `toutapp.pingidentity.com` 또는 이와 유사한 고유한 하위 도메인이 필요합니다. 이 유형의 고유 식별자가 없으면 대시보드에서 SAML을 설정할 수 없습니다.
 
-URL을 할당할 때 하나의 로그인 및 Okta가 항상 고유 식별자를 제공하는 것은 아닙니다. Okta 또는 One Login을 사용하는 경우 대시보드 버튼에서 하나의 로그인을 설정할 수 없음을 의미합니다. 의 SSO(Single Sign On) 버튼에서 계속 설정할 수 있습니다. [웹 애플리케이션](https://toutapp.com/login).
+URL을 할당할 때 하나의 로그인 및 Okta가 항상 고유 식별자를 제공하는 것은 아닙니다. Okta 또는 One Login을 사용하는 경우 대시보드 버튼에서 하나의 로그인을 설정할 수 없음을 의미합니다. [웹 응용 프로그램](https://toutapp.com/login)의 SSO(Single Sign-On) 단추에서도 설정할 수 있습니다.
 
 해당 정보가 준비되면 엔지니어링 팀과 협력하여 귀하의 구독을 위해 이를 설정합니다.

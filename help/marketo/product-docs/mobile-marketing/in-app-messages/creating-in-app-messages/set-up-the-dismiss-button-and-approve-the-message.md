@@ -6,7 +6,7 @@ exl-id: d7d2b4ad-efcb-4eb3-a741-ae51cfab2626
 feature: Mobile Marketing
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
-source-wordcount: '346'
+source-wordcount: '347'
 ht-degree: 0%
 
 ---
@@ -49,7 +49,7 @@ ht-degree: 0%
 
 그래픽, 텍스트 및 단추에 대한 모든 선택 항목이 자동으로 저장되었습니다. 이제, 당신은 그 일을 끝낼 준비가 되었습니다.
 
-1. 인앱 메시지를 미리 보려면 **메시지 작업** 드롭다운 및 선택 **미리 보기**.
+1. 인앱 메시지를 미리 보려면 **메시지 작업** 드롭다운을 클릭하고 **미리 보기**&#x200B;를 선택합니다.
 
    ![](assets/image2016-5-9-10-3a58-3a38.png)
 
@@ -57,13 +57,13 @@ ht-degree: 0%
 
    ![](assets/image2016-5-9-11-3a2-3a13.png)
 
-1. 인앱 메시지에 만족하면 다음을 클릭하십시오. **승인 및 닫기**.
+1. 인앱 메시지에 만족하면 **승인 및 닫기**&#x200B;를 클릭하세요.
 
    ![](assets/image2016-5-9-11-3a8-3a52.png)
 
    >[!NOTE]
    >
-   >다음을 선택할 수도 있습니다. **승인 및 닫기** 메시지 작업 드롭다운(1단계 참조)에서 직접 메시지를 미리 보면 안전합니다.
+   >메시지 작업 드롭다운에서 직접 **승인 및 닫기**&#x200B;를 선택할 수도 있습니다(1단계 참조). 하지만 안전을 위해 메시지를 먼저 미리 보는 것은 어떻습니까?
 
 1. 승인하지 않고 편집기를 닫으려면 탭을 닫기만 하면 됩니다. 자동 저장되므로 나중에 반환하고 승인할 수 있습니다.
 
@@ -71,9 +71,9 @@ ht-degree: 0%
 
 다양한 옵션을 선택할 수 있지만 이제 멋진 인앱 메시지를 준비했습니다.
 
-이제 할 시간이야 [메시지 보내기](/help/marketo/product-docs/mobile-marketing/in-app-messages/sending-your-in-app-message/send-your-in-app-message.md).
+이제 [메시지를 보낼 시간](/help/marketo/product-docs/mobile-marketing/in-app-messages/sending-your-in-app-message/send-your-in-app-message.md)입니다.
 
 >[!MORELIKETHIS]
 >
 >* [인앱 메시지 이해](/help/marketo/product-docs/mobile-marketing/in-app-messages/understanding-in-app-messages.md)
->* [인앱 메시지의 레이아웃 선택](/help/marketo/product-docs/mobile-marketing/in-app-messages/creating-in-app-messages/choose-a-layout-for-your-in-app-message.md)
+>* [인앱 메시지의 레이아웃을 선택하십시오](/help/marketo/product-docs/mobile-marketing/in-app-messages/creating-in-app-messages/choose-a-layout-for-your-in-app-message.md)

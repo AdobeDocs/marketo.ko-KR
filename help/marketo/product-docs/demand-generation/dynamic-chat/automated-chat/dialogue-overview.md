@@ -16,13 +16,13 @@ ht-degree: 5%
 
 ## 대상 기준 {#audience-criteria}
 
-다음 [대상 기준](/help/marketo/product-docs/demand-generation/dynamic-chat/automated-chat/audience-criteria.md){target="_blank"} 대화 상자의 섹션은 채팅 대화가 표시될 위치와 대상을 정의하는 위치입니다
+대화 상자의 [대상 기준](/help/marketo/product-docs/demand-generation/dynamic-chat/automated-chat/audience-criteria.md){target="_blank"} 섹션에서 채팅 대화가 표시될 위치와 대상을 정의합니다
 
 ![](assets/dialogue-overview-1.png)
 
 ## 스트림 디자이너 {#stream-designer}
 
-다음 [스트림 디자이너](/help/marketo/product-docs/demand-generation/dynamic-chat/automated-chat/stream-designer.md){target="_blank"} 대화 상자의 섹션에서 웹 사이트 방문자와 나눌 대화를 디자인할 수 있습니다.
+대화 상자의 [Designer 스트리밍](/help/marketo/product-docs/demand-generation/dynamic-chat/automated-chat/stream-designer.md){target="_blank"} 섹션에서 웹 사이트 방문자와 주고 싶은 대화를 디자인할 수 있습니다.
 
 ![](assets/dialogue-overview-2.png)
 
@@ -64,10 +64,10 @@ ht-degree: 5%
 
 게시된 모든 대화 상자를 동시에 비활성화(및 다시 활성화)할 수 있습니다.
 
-1. Dynamic Chat에서 **[!UICONTROL 구성]** 탭.
+1. Dynamic Chat에서 **[!UICONTROL 구성]** 탭을 클릭합니다.
 
    ![](assets/dialogue-overview-4.png)
 
-1. 전환 **[!UICONTROL 채팅 활성화됨]** 모든 대화 상자를 비활성화하려면 끄고 다시 활성화하려면 켜십시오.
+1. 모든 대화 상자를 비활성화하려면 **[!UICONTROL 채팅 사용 가능]** 스위치를 끄고 다시 활성화하려면 켜세요.
 
    ![](assets/dialogue-overview-5.png)

@@ -18,13 +18,13 @@ ht-degree: 0%
 >[!PREREQUISITES]
 >
 >* [랜딩 페이지에서 동적 콘텐츠 사용](/help/marketo/product-docs/demand-generation/landing-pages/personalizing-landing-pages/use-dynamic-content-in-a-landing-page.md)
->* [랜딩 페이지 미리보기](/help/marketo/product-docs/demand-generation/landing-pages/landing-page-actions/preview-a-landing-page.md)
+>* [랜딩 페이지 미리 보기](/help/marketo/product-docs/demand-generation/landing-pages/landing-page-actions/preview-a-landing-page.md)
 
-1. 랜딩 페이지를 선택하고 **페이지 미리보기**.
+1. 랜딩 페이지를 선택하고 **미리 보기 페이지**&#x200B;를 클릭합니다.
 
    ![](assets/image2014-9-17-16-3a9-3a55.png)
 
-1. 드롭다운을 클릭하고 **세그먼트** 미리 보기.
+1. 드롭다운을 클릭하고 미리 볼 **세그먼트**&#x200B;를 선택합니다.
 
    ![](assets/image2014-9-25-15-3a34-3a40.png)
 

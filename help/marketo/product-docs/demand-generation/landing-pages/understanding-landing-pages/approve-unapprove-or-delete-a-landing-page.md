@@ -17,15 +17,15 @@ ht-degree: 0%
 
 ## 랜딩 페이지 승인 {#approve-a-landing-page}
 
-1. 랜딩 페이지를 선택하고 다음 위치로 이동 **랜딩 페이지 작업** 및 클릭 **승인**.
+1. 랜딩 페이지를 선택하고 **랜딩 페이지 작업**(으)로 이동한 다음 **승인**&#x200B;을 클릭합니다.
 
    >[!TIP]
    >
-   >다음을 수행할 수 있습니다. [한 번에 여러 페이지 승인](/help/marketo/product-docs/demand-generation/landing-pages/landing-page-actions/approve-multiple-landing-pages-at-once.md) 당신의 삶을 더 쉽게 만들기 위해.
+   >[한 번에 여러 페이지를 승인](/help/marketo/product-docs/demand-generation/landing-pages/landing-page-actions/approve-multiple-landing-pages-at-once.md)하여 보다 편리한 작업을 수행할 수 있습니다.
 
    ![](assets/image2014-9-16-15-3a28-3a22.png)
 
-1. 랜딩 페이지를 마우스 오른쪽 단추로 클릭하고 **승인**.
+1. 랜딩 페이지를 마우스 오른쪽 단추로 클릭하고 **승인**&#x200B;을 클릭할 수도 있습니다.
 
    ![](assets/image2014-9-16-15-3a30-3a4.png)
 
@@ -35,21 +35,21 @@ ht-degree: 0%
 
 ## 랜딩 페이지 승인 취소 {#unapprove-a-landing-page}
 
-1. 랜딩 페이지를 선택하고 다음 위치로 이동 **랜딩 페이지 작업** 및 클릭 **승인 취소**.
+1. 랜딩 페이지를 선택하고 **랜딩 페이지 작업**(으)로 이동한 다음 **승인 취소**&#x200B;를 클릭합니다.
 
    ![](assets/image2014-9-16-15-3a31-3a8.png)
 
-1. 랜딩 페이지를 마우스 오른쪽 단추로 클릭하고 **승인 취소**.
+1. 랜딩 페이지를 마우스 오른쪽 단추로 클릭하고 **승인 취소**&#x200B;를 클릭할 수도 있습니다.
 
    ![](assets/image2014-9-16-15-3a31-3a34.png)
 
 >[!NOTE]
 >
->승인되지 않은 랜딩 페이지는 더 이상 웹에 게시되지 않으며 추가 활동을 생성하지 않습니다. 승인되지 않은 랜딩 페이지 및 Facebook 탭 방문자에게 다음이 표시됩니다. [대체 페이지](/help/marketo/product-docs/administration/settings/set-a-fallback-page.md).
+>승인되지 않은 랜딩 페이지는 더 이상 웹에 게시되지 않으며 추가 활동을 생성하지 않습니다. 승인되지 않은 랜딩 페이지 및 Facebook 탭 방문자에게 [대체 페이지](/help/marketo/product-docs/administration/settings/set-a-fallback-page.md)가 표시됩니다.
 
 ## 랜딩 페이지 삭제 {#delete-a-landing-page}
 
-1. 랜딩 페이지를 선택하고 다음 위치로 이동 **랜딩 페이지 작업** 및 클릭 **삭제**.
+1. 랜딩 페이지를 선택하고 **랜딩 페이지 작업**(으)로 이동한 다음 **삭제**&#x200B;를 클릭합니다.
 
    ![](assets/image2014-9-16-15-3a49-3a59.png)
 
@@ -57,7 +57,7 @@ ht-degree: 0%
    >
    >승인된 랜딩 페이지는 삭제할 수 없습니다. 먼저 승인을 취소하십시오.
 
-1. 랜딩 페이지를 마우스 오른쪽 단추로 클릭하고 **삭제**.
+1. 랜딩 페이지를 마우스 오른쪽 단추로 클릭하고 **삭제**&#x200B;를 클릭할 수도 있습니다.
 
    ![](assets/image2014-9-16-15-3a50-3a40.png)
 
@@ -65,7 +65,7 @@ ht-degree: 0%
 
 한 번에 두 개 이상의 랜딩 페이지를 삭제하시겠습니까? 방법은 다음과 같습니다.
 
-1. Design Studio에서 **랜딩 페이지**.
+1. Design Studio에서 **랜딩 페이지**&#x200B;를 클릭합니다.
 
    ![](assets/one.png)
 
@@ -77,11 +77,11 @@ ht-degree: 0%
    >
    >ctrl+클릭 을 사용하여 순차적이 아닌 여러 랜딩 페이지를 삭제할 수도 있습니다.
 
-1. 다음을 클릭합니다. **랜딩 페이지 작업** 드롭다운 및 선택 **삭제**.
+1. **랜딩 페이지 작업** 드롭다운을 클릭하고 **삭제**&#x200B;를 선택합니다.
 
    ![](assets/three.png)
 
-1. 클릭 **삭제**.
+1. **삭제**&#x200B;를 클릭합니다.
 
    ![](assets/four.png)
 

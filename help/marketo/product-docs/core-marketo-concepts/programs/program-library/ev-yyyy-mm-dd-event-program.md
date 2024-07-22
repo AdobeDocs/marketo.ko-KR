@@ -2,10 +2,10 @@
 description: EV-YYYY-MM-DD-Event 프로그램 - Marketo 문서 - 제품 설명서
 title: EV-YYYY-MM-DD-이벤트 프로그램
 feature: Programs
-exl-id: 3688317f-228c-4fc2-accd-3e1d541525d2
-source-git-commit: 38274b4859ae38c018ee73d4f1715fdf6a78e815
+exl-id: 999a82ae-6637-40bf-96c0-62183cb0a197
+source-git-commit: c16081143588ebc0793f5b6e2630b58348e27124
 workflow-type: tm+mt
-source-wordcount: '559'
+source-wordcount: '561'
 ht-degree: 6%
 
 ---
@@ -14,7 +14,7 @@ ht-degree: 6%
 
 Marketo Engage 이벤트 프로그램을 활용하는 등록 페이지, 3개의 초대 이메일 및 후속 이메일이 있는 이벤트 프로그램의 예입니다. 로드쇼, 점심 식사, 저녁 식사 또는 무역 박람회 행사의 프레젠테이션을 포함하여 등록이 필요한 모든 이벤트에 적합합니다.
 
-추가적인 전략 지원 또는 프로그램 맞춤화에 대한 도움말을 보려면 Adobe 계정 팀에 문의하거나 [Adobe Professional Services](https://business.adobe.com/customers/consulting-services/main.html){target="_blank"} 페이지를 가리키도록 업데이트하는 중입니다.
+추가 전략 지원 또는 프로그램 사용자 지정에 도움이 필요하면 Adobe 계정 팀에 문의하거나 [Adobe Professional Services](https://business.adobe.com/customers/consulting-services/main.html){target="_blank"} 페이지를 방문하십시오.
 
 ## 채널 요약 {#channel-summary}
 
@@ -27,19 +27,19 @@ Marketo Engage 이벤트 프로그램을 활용하는 등록 페이지, 3개의 
    <th>프로그램 유형</th>
   </tr> 
   <tr> 
-   <td>Event</td> 
+   <td>이벤트</td> 
    <td>01-초대됨 
-<br/>대기자 명단에 등록됨
+대기자 명단에 등록된 <br/>02
 <br/>03-등록됨
 <br/>04-표시 안 함
 <br/>05-참석-성공</td>
    <td>포함</td>
-   <td>Event</td>
+   <td>이벤트</td>
   </tr>
  </tbody> 
 </table>
 
-## 프로그램에 다음 자산이 포함되어 있습니다. {#program-contains-the-following-assets}
+## 프로그램에는 다음 Assets이 포함되어 있습니다 {#program-contains-the-following-assets}
 
 <table style="table-layout:auto"> 
  <tbody> 
@@ -151,8 +151,8 @@ Marketo Engage 이벤트 프로그램을 활용하는 등록 페이지, 3개의 
   <tr> 
    <td>폴더</td> 
    <td> </td>
-   <td>Assets - 모든 크리에이티브 에셋을 저장합니다. 
-<br/>(이메일 및 랜딩 페이지의 하위 폴더)</td>
+   <td>Assets - 모든 크리에이티브 에셋 보유 
+<br/>(전자 메일 및 랜딩 페이지의 하위 폴더)</td>
   </tr>
   <tr> 
    <td>폴더</td> 
@@ -208,7 +208,7 @@ Marketo Engage 이벤트 프로그램을 활용하는 등록 페이지, 3개의 
    <td><code>{{my.Content-Description}}</code></td>
    <td>세부 사항을 보려면 두 번 클릭  
 <br/><code><--My Content Description Here--></code> 
-<br/>내 토큰 탭 아래의 프로그램 수준에서 이 컨텐츠 설명을 편집합니다. 
+<br/>내 토큰 탭의 프로그램 수준에서 이 콘텐츠 설명을 편집합니다. 
 <br/>배울 내용: 
 <li>글머리 기호</li>
 <li>글머리 기호 2</li>
@@ -300,20 +300,20 @@ Marketo Engage 이벤트 프로그램을 활용하는 등록 페이지, 3개의 
 ## 충돌 규칙 {#conflict-rules}
 
 * **프로그램 태그**
-   * 이 구독에서 태그 만들기 - _추천_
+   * 이 구독에서 태그 만들기 - _권장_
    * 무시
 
-* **동일한 이름의 랜딩 페이지 템플릿**
+* **같은 이름의 랜딩 페이지 템플릿**
    * 원본 템플릿 복사
-   * 대상 템플릿 사용 - _추천_
+   * 대상 템플릿 사용 - _권장_
 
 * **이름이 같은 이미지**
    * 두 파일 모두 보관
-   * 이 구독의 항목 바꾸기 - _추천_
+   * 이 구독의 항목 바꾸기 - _권장_
 
-* **이름이 같은 이메일 템플릿**
+* **같은 이름의 전자 메일 서식 파일**
    * 두 템플릿 모두 유지
-   * 기존 템플릿 바꾸기 - _추천_
+   * 기존 템플릿 바꾸기 - _권장_
 
 ## 우수 사례 {#best-practices}
 
@@ -330,7 +330,7 @@ Marketo Engage 이벤트 프로그램을 활용하는 등록 페이지, 3개의 
 
 >[!TIP]
 >
->성공 추적을 위해 &quot;06-참석(프로그램 성공)&quot; 캠페인을 활성화하는 것을 잊지 마십시오! 수행 _다음 이전_ 양식이 라이브이고 이메일이 전송됩니다.
+>성공 추적을 위해 &quot;06-참석(프로그램 성공)&quot; 캠페인을 활성화하는 것을 잊지 마십시오! 양식이 라이브되고 전자 메일이 전송되기 전에 _먼저_&#x200B;하세요.
 
 >[!IMPORTANT]
 >

@@ -6,7 +6,7 @@ exl-id: 8a7694af-4edb-4b32-b408-19d2e7bd596e
 feature: Tokens
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
-source-wordcount: '242'
+source-wordcount: '248'
 ht-degree: 0%
 
 ---
@@ -21,57 +21,57 @@ ht-degree: 0%
 
 ## system.date {#system-date}
 
-다음 `{{system.date}}` 토큰은 런타임에 다음과 같이 현재 날짜를 렌더링합니다. **2013년 8월 08일**
+`{{system.date}}` 토큰은 런타임에 현재 날짜를 렌더링합니다. 예: **2013년 8월 08일**
 
-**작동 위치:**
+**다음 위치에서 작동:**
 
 * [데이터 값 변경](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/change-data-value.md){target="_blank"} 흐름 단계
-* [즐거운 순간](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/interesting-moment.md){target="_blank"} 흐름 단계
+* [관심 있는 순간](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/interesting-moment.md){target="_blank"} 흐름 단계
 * [작업 만들기](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/salesforce-flow-actions/create-task.md){target="_blank"} 흐름 단계
 * 이메일 또는 템플릿의 본문
 
 ## system.time {#system-time}
 
-다음 `{{system.time}}` 토큰은 런타임에 다음과 같이 현재 시간을 렌더링합니다. **04:34 오후 (GMT -0700)**
+`{{system.time}}` 토큰은 런타임에 현재 시간을 렌더링합니다. 예: **04:34 PM (GMT -0700)**
 
-**작동 위치:**
+**다음 위치에서 작동:**
 
 * [데이터 값 변경](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/change-data-value.md){target="_blank"} 흐름 단계
-* [즐거운 순간](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/interesting-moment.md){target="_blank"} 흐름 단계
+* [관심 있는 순간](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/interesting-moment.md){target="_blank"} 흐름 단계
 * [작업 만들기](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/salesforce-flow-actions/create-task.md){target="_blank"} 흐름 단계
 * 이메일 또는 템플릿의 본문
 
 ## system.dateTime {#system-datetime}
 
-다음 `{{system.dateTime}}` 토큰은 다음과 같이 런타임 시 현재 날짜 및 시간을 렌더링합니다. **2013-08-08 16:36:13**
+`{{system.dateTime}}` 토큰은 다음과 같이 런타임에 현재 날짜 및 시간을 렌더링합니다. **2013-08-08 16:36:13**
 
-**작동 위치:**
+**다음 위치에서 작동:**
 
 * [데이터 값 변경](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/change-data-value.md){target="_blank"} 흐름 단계
-* [즐거운 순간](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/interesting-moment.md){target="_blank"} 흐름 단계
+* [관심 있는 순간](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/interesting-moment.md){target="_blank"} 흐름 단계
 * [작업 만들기](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/salesforce-flow-actions/create-task.md){target="_blank"} 흐름 단계
 * 이메일 또는 템플릿의 본문
 
 ## system.forwardToFriendLink {#system-forwardtofriendlink}
 
-다음 `{{system.forwardToFriendLink}}` 토큰을 사용하면 의 배치를 제어할 수 있습니다 [이메일의 &#39;친구 링크로 전달&#39;](/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/forward-to-a-friend-link-in-emails.md){target="_blank"}.
+`{{system.forwardToFriendLink}}` 토큰을 사용하면 [의 이메일](/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/forward-to-a-friend-link-in-emails.md){target="_blank"}에 있는 &#39;친구 링크로 전달&#39;의 배치를 제어할 수 있습니다.
 
-**작동 위치:**
+**다음 위치에서 작동:**
 
-* [시스템 토큰을 이메일에 링크로 추가](/help/marketo/product-docs/email-marketing/general/using-tokens/add-a-system-token-as-a-link-in-an-email.md){target="_blank"} 또는 템플릿
+* [시스템 토큰을 전자 메일에 링크로 추가](/help/marketo/product-docs/email-marketing/general/using-tokens/add-a-system-token-as-a-link-in-an-email.md){target="_blank"} 또는 템플릿
 
 ## system.unsubscribeLink {#system-unsubscribelink}
 
-다음 `{{system.unsubscribeLink}}` 토큰을 사용하면 이메일의 구독 취소 링크 배치를 제어할 수 있습니다.
+`{{system.unsubscribeLink}}` 토큰을 사용하면 전자 메일의 구독 취소 링크 배치를 제어할 수 있습니다.
 
-**작동 위치:**
+**다음 위치에서 작동:**
 
-* [시스템 토큰을 이메일에 링크로 추가](/help/marketo/product-docs/email-marketing/general/using-tokens/add-a-system-token-as-a-link-in-an-email.md){target="_blank"} 또는 템플릿
+* [시스템 토큰을 전자 메일에 링크로 추가](/help/marketo/product-docs/email-marketing/general/using-tokens/add-a-system-token-as-a-link-in-an-email.md){target="_blank"} 또는 템플릿
 
 ## system.viewAsWebpageLink {#system-viewaswebpagelink}
 
-다음 `{{system.viewAsWebpageLink}}` 토큰을 사용하면 이메일에 웹 페이지로 보기 링크의 배치를 제어할 수 있습니다.
+`{{system.viewAsWebpageLink}}` 토큰을 사용하면 전자 메일의 웹 페이지로 보기 링크 배치를 제어할 수 있습니다.
 
 **작업 대상:**
 
-* [시스템 토큰을 이메일에 링크로 추가](/help/marketo/product-docs/email-marketing/general/using-tokens/add-a-system-token-as-a-link-in-an-email.md){target="_blank"} 또는 템플릿
+* [시스템 토큰을 전자 메일에 링크로 추가](/help/marketo/product-docs/email-marketing/general/using-tokens/add-a-system-token-as-a-link-in-an-email.md){target="_blank"} 또는 템플릿

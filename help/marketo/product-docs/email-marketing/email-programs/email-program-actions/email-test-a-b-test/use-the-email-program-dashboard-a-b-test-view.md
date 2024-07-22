@@ -13,7 +13,7 @@ ht-degree: 1%
 
 # 이메일 프로그램 대시보드 사용 - A/B 테스트 보기 {#use-the-email-program-dashboard-a-b-test-view}
 
-다음 방법 확인 [이메일 프로그램 A/B 테스트](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/email-test-a-b-test/add-an-a-b-test.md) 은(는) 이 대시보드로 수행 중입니다.
+이 대시보드를 사용하여 [전자 메일 프로그램 A/B 테스트](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/email-test-a-b-test/add-an-a-b-test.md)의 수행 방법을 확인하십시오.
 
 ![](assets/image2014-9-12-16-3a14-3a28.png)
 
@@ -23,7 +23,7 @@ ht-degree: 1%
 
 ![](assets/image2014-9-12-16-3a16-3a2.png)
 
-## 클릭 수 {#clicks}
+## 클릭수 {#clicks}
 
 여기에서 각 변형의 클릭 수를 확인할 수 있습니다.
 
@@ -45,4 +45,4 @@ ht-degree: 1%
 
 >[!MORELIKETHIS]
 >
->[이메일 프로그램 대시보드 사용](/help/marketo/product-docs/email-marketing/email-programs/email-program-data/use-the-email-program-dashboard.md)
+>[전자 메일 프로그램 대시보드 사용](/help/marketo/product-docs/email-marketing/email-programs/email-program-data/use-the-email-program-dashboard.md)

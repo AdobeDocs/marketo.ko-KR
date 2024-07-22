@@ -15,21 +15,21 @@ ht-degree: 0%
 
 Marketo Sales Insight를 사용하지 않는 경우에는 Marketo Engage이 특정 이벤트에 대한 Salesforce 활동 기록 레코드를 만들 수 있습니다. 활성화 방법은 다음과 같습니다.
 
-1. 다음으로 이동 **[!UICONTROL 관리자]**.
+1. **[!UICONTROL 관리자]**(으)로 이동합니다.
 
    ![](assets/admin.png)
 
-1. 클릭 **[!DNL Salesforce]**&#x200B;을 클릭한 다음 을 클릭합니다 **[!UICONTROL 동기화 옵션 편집]**.
+1. **[!DNL Salesforce]**&#x200B;을(를) 클릭한 다음 **[!UICONTROL 동기화 옵션 편집]**&#x200B;을 클릭합니다.
 
    ![](assets/two-1.png)
 
-1. Marketo에서 Salesforce로 푸시할 활동 옆의 확인란을 선택하고 **[!UICONTROL 저장]**.
+1. Marketo에서 Salesforce로 푸시할 활동 옆의 확인란을 선택하고 **[!UICONTROL 저장]**&#x200B;을 클릭합니다.
 
    ![](assets/three-1.png)
 
    >[!NOTE]
    >
-   >활성화되면 Marketo은 3개월 분량의 활동 내역을 푸시합니다. 데이터 양에 따라, _완료하는 데 며칠이 걸릴 수 있습니다._. 초기 활동 푸시 동안 발생하는 업데이트는 초기 활동 동기화가 완료될 때까지 지연될 수 있습니다.
+   >활성화되면 Marketo은 3개월 분량의 활동 내역을 푸시합니다. 데이터의 양에 따라 _완료하는 데 며칠이 걸릴 수 있습니다_. 초기 활동 푸시 동안 발생하는 업데이트는 초기 활동 동기화가 완료될 때까지 지연될 수 있습니다.
 
 <table> 
  <colgroup> 
@@ -96,8 +96,8 @@ Marketo Sales Insight를 사용하지 않는 경우에는 Marketo Engage이 특�
 
 >[!NOTE]
 >
->&quot;영업 이메일 수신됨&quot;은 다음을 수행합니다 _아님_ 평균 게재됨. Sales Insight를 통해 전송된 이메일에는 게재됨 상태가 캡처되지 않습니다.
+>&quot;받은 판매 전자 메일&quot;은 배달된 것을 의미하지 _않습니다_. Sales Insight를 통해 전송된 이메일에는 게재됨 상태가 캡처되지 않습니다.
 
 >[!TIP]
 >
->Salesforce에 Marketo 정보를 더 많이 얻고 싶다면 다음을 확인하십시오. [Marketo Sales Insight](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/installation/install-marketo-sales-insight-package-in-salesforce-appexchange.md){target="_blank"} 제품.
+>Salesforce에 더 많은 Marketo 정보를 가져오려면 [Marketo Sales Insight](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/installation/install-marketo-sales-insight-package-in-salesforce-appexchange.md){target="_blank"} 제품을 확인하십시오.

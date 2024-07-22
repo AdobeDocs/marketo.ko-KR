@@ -6,26 +6,26 @@ exl-id: 40f4aac8-c6e5-4cf3-9573-cac2fdf9bcad
 feature: Web Personalization
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
-source-wordcount: '196'
+source-wordcount: '200'
 ht-degree: 7%
 
 ---
 
 # 개인 데이터 관리 {#manage-person-data}
 
-세분화에 사용할 개인 필드를 선택하여 웹 개인화에 대한 개인 데이터를 활용합니다.
+세분화에 사용할 개인 필드를 선택하여 웹 Personalization에 대한 개인 데이터를 활용합니다.
 
-1. 다음으로 이동 **계정 설정**.
+1. **계정 설정**(으)로 이동합니다.
 
    ![](assets/image2015-5-7-15-3a17-3a23.png)
 
-1. 다음으로 이동 **데이터베이스**.
+1. **데이터베이스**(으)로 이동합니다.
 
    ![](assets/account-settings-dropdown-database.jpg)
 
 ## 새 사용자 필드 추가 {#adding-a-new-person-field}
 
-1. 선택 **추가할 필드** 드롭다운에서 개인 데이터 필드를 목록에 추가합니다.
+1. 목록에 개인 데이터 필드를 추가하려면 드롭다운에서 **추가할 필드**&#x200B;를 선택하십시오.
 
    ![](assets/add-a-person-field-hand.jpg)
 
@@ -35,7 +35,7 @@ ht-degree: 7%
 
 ## 개인 필드 삭제 {#deleting-a-person-field}
 
-1. 삭제 아이콘( )을 클릭합니다. ![—](assets/image2015-3-24-13-3a45-3a56.png))을 클릭하여 목록에서 필드를 제거합니다. 클릭 **예** 을(를) 클릭하여 필드를 삭제합니다.
+1. 목록에서 필드를 제거하려면 삭제 아이콘(![—](assets/image2015-3-24-13-3a45-3a56.png))을 클릭하십시오. 필드 삭제를 확인하려면 **예**&#x200B;를 클릭하세요.
 
    ![](assets/web-engagement-settings-delete.jpg)
 
@@ -99,7 +99,7 @@ ht-degree: 7%
  </tbody> 
 </table>
 
-새 웹 개인화 계정에 대해 다음과 같은 리드 필드가 즉시 제공됩니다.
+새 웹 Personalization 계정에 대해 즉시 다음 리드 필드가 제공됩니다.
 
 >[!MORELIKETHIS]
 >

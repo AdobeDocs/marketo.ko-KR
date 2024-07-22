@@ -6,7 +6,7 @@ exl-id: 0b4c3769-e4a8-47b0-aa2c-a21acaf9525c
 feature: Programs
 source-git-commit: 86f9e9f13b24a82deb50ec4c398035d7d7479d20
 workflow-type: tm+mt
-source-wordcount: '119'
+source-wordcount: '126'
 ht-degree: 3%
 
 ---
@@ -15,15 +15,15 @@ ht-degree: 3%
 
 이 보고서를 사용하여 프로그램에 대한 훌륭한 통계를 확인하십시오.
 
-1. [프로그램에서 보고서 만들기](/help/marketo/product-docs/reporting/basic-reporting/creating-reports/create-a-report-in-a-program.md){target="_blank"} and select the **[!UICONTROL Program Performance]** [report type](/help/marketo/product-docs/reporting/basic-reporting/report-types/report-type-overview.md){target="_blank"}.
-1. 다음을 클릭합니다. **[!UICONTROL 보고서]** 탭.
+1. [프로그램에서 보고서를 만들고](/help/marketo/product-docs/reporting/basic-reporting/creating-reports/create-a-report-in-a-program.md){target="_blank"} **[!UICONTROL 프로그램 성과]** [보고서 유형](/help/marketo/product-docs/reporting/basic-reporting/report-types/report-type-overview.md){target="_blank"}을(를) 선택합니다.
+1. **[!UICONTROL 보고서]** 탭을 클릭합니다.
 1. 거기 있어! 보고서를 탐색하여 프로그램이 어떻게 작동하는지 확인하십시오.
 
    ![](assets/image2014-9-18-17-3a23-3a2.png)
 
 >[!TIP]
 >
->가장 낮은 프로그램을 찾으려면 *성공당 비용*, 예: [보고서 정렬](/help/marketo/product-docs/reporting/basic-reporting/editing-reports/sort-report-on-columns.md){target="_blank"} 해당 열에서 **[!UICONTROL 오름차순 정렬]**.
+>예를 들어, *성공당 비용*&#x200B;이 가장 낮은 프로그램을 찾으려면 해당 열에서 [보고서를 정렬](/help/marketo/product-docs/reporting/basic-reporting/editing-reports/sort-report-on-columns.md){target="_blank"}하고 **[!UICONTROL 오름차순 정렬]**&#x200B;을 선택하세요.
 
 프로그램 성과 보고서의 열에는 다음이 포함됩니다.
 

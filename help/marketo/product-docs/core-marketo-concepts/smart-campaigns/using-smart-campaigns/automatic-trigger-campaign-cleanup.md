@@ -6,7 +6,7 @@ exl-id: 08012b55-e241-4524-a387-9644f5a2b17e
 feature: Smart Campaigns
 source-git-commit: fec5219c599c805328d77797d2636e549e489ca5
 workflow-type: tm+mt
-source-wordcount: '247'
+source-wordcount: '250'
 ht-degree: 0%
 
 ---
@@ -23,11 +23,11 @@ Marketo에는 더 이상 활동을 가져올 수 없는 트리거된 스마트 �
 
 당연하지! 분기별로 한 번, 비활성화할 모든 캠페인을 보여 주는 알림을 1주일 전에 받게 됩니다.
 
-1. 다음을 클릭합니다. **[!UICONTROL 알림]** 아이콘.
+1. **[!UICONTROL 알림]** 아이콘을 클릭합니다.
 
    ![](assets/automatic-trigger-campaign-cleanup-1.png)
 
-1. 클릭 **[!UICONTROL 유휴 트리거 캠페인 정리 예약됨]**. 그런 다음 **[!UICONTROL 이러한 유휴 트리거 캠페인은 비활성화됩니다.]** 링크를 클릭합니다.
+1. **[!UICONTROL 캠페인 정리가 예약된 유휴 트리거]**&#x200B;를 클릭합니다. **[!UICONTROL 이러한 유휴 트리거 캠페인이 비활성화됩니다]** 링크를 클릭합니다.
 
    ![](assets/automatic-trigger-campaign-cleanup-2.png)
 
@@ -39,7 +39,7 @@ Marketo에는 더 이상 활동을 가져올 수 없는 트리거된 스마트 �
 
 6개월 이상 활성화되었지만 해당 기간 동안 0명의 사용자가 자격을 얻은 트리거 캠페인만 비활성화합니다.
 
-## 대기! 이 캠페인이 아닙니다! {#wait-not-this-campaign}
+## 잠깐! 이 캠페인이 아닙니다! {#wait-not-this-campaign}
 
 걱정하지 마십시오. Smart Campaign의 시계는 다음 방법으로 재설정할 수 있습니다.
 
@@ -52,7 +52,7 @@ Marketo에는 더 이상 활동을 가져올 수 없는 트리거된 스마트 �
 
 절대 - 원래 알림 후 1주일 후에 나열된 캠페인(최소 한 명의 자격을 부여하거나 비활성화/다시 활성화된 캠페인 제외)을 비활성화하고 확인 알림을 게시합니다.
 
-1. 다음 항목 선택 **[!UICONTROL 유휴 트리거 캠페인 정리 예약됨]** 알림입니다. 다음을 클릭합니다. **[!UICONTROL 이러한 유휴 트리거 캠페인]** 링크를 클릭합니다.
+1. **[!UICONTROL 유휴 트리거 캠페인 정리가 예약됨]** 알림을 선택하십시오. **[!UICONTROL 이러한 유휴 트리거 캠페인]** 링크를 클릭합니다.
 
    ![](assets/automatic-trigger-campaign-cleanup-4.png)
 

@@ -6,7 +6,7 @@ exl-id: d87b8b42-421b-4804-8441-8e41f2353b03
 feature: Email Editor
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
-source-wordcount: '252'
+source-wordcount: '253'
 ht-degree: 0%
 
 ---
@@ -21,9 +21,9 @@ ht-degree: 0%
 
    >[!NOTE]
    >
-   >대부분의 Marketo 스타터 템플릿에는 모듈이 포함되어 있습니다. 다음을 수행할 수도 있습니다. [자신만의 고유한 만들기](/help/marketo/product-docs/email-marketing/general/email-editor-2/email-template-syntax.md#modules).
+   >대부분의 Marketo 스타터 템플릿에는 모듈이 포함되어 있습니다. [직접 만들기](/help/marketo/product-docs/email-marketing/general/email-editor-2/email-template-syntax.md#modules)도 가능합니다.
 
-1. 이메일의 맨 오른쪽에 있는 **모듈**.
+1. 전자 메일의 맨 오른쪽에서 **모듈**&#x200B;을 클릭합니다.
 
    ![](assets/two-3.png)
 
@@ -59,7 +59,7 @@ ht-degree: 0%
 
    ![](assets/nine-2.png)
 
-1. 톱니바퀴 아이콘을 클릭하고 **위로 이동** 또는 **아래로 이동**&#x200B;을 참조하십시오.
+1. 톱니바퀴 아이콘을 클릭하고 모듈을 이동할 위치에 따라 **위로 이동** 또는 **아래로 이동**&#x200B;을 선택합니다.
 
    ![](assets/ten-2.png)
 
@@ -67,4 +67,4 @@ ht-degree: 0%
 
 >[!MORELIKETHIS]
 >
->[이메일 템플릿 구문](/help/marketo/product-docs/email-marketing/general/email-editor-2/email-template-syntax.md)
+>[전자 메일 템플릿 구문](/help/marketo/product-docs/email-marketing/general/email-editor-2/email-template-syntax.md)

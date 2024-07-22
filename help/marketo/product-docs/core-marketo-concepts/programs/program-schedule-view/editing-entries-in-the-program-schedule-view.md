@@ -21,7 +21,7 @@ ht-degree: 1%
 
    ![](assets/image2014-9-18-18-3a1-3a36.png)
 
-1. 새 이름을 입력하고 키를 누릅니다 **[!UICONTROL Enter/Return]** 키보드에서 변경 내용을 확인합니다.
+1. 새 이름을 입력하고 키보드에서 **[!UICONTROL Enter/Return]**&#x200B;을 눌러 변경 내용을 확인합니다.
 
    ![](assets/image2014-9-18-18-3a1-3a53.png)
 

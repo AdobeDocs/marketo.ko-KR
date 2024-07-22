@@ -6,7 +6,7 @@ exl-id: 2568911a-071f-42b3-a4be-e951c9fc2ac5
 feature: Release Information
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
-source-wordcount: '376'
+source-wordcount: '378'
 ht-degree: 0%
 
 ---
@@ -32,7 +32,7 @@ ht-degree: 0%
 
 ## 한 번의 클릭으로 여러 이미지와 파일을 업로드할 수 있습니다. {#upload-multiple-images-and-files-with-a-single-click}
 
-이미지와 파일을 Marketo으로 가져올 때 시간을 절약하고 효율성을 높일 수 있습니다! Firefox나 Google Chrome을 사용하는 경우 파일을 여러 개 선택하고 한 번에 모두 업로드할 수 있습니다. 업로드할 수 있는 파일 수에는 제한이 없지만 파일당 개별 크기 제한은 50MB입니다.
+이미지와 파일을 Marketo으로 가져올 때 시간을 절약하고 효율성을 높일 수 있습니다! Firefox나 Google Chrome을 사용하는 경우 파일을 여러 개 선택하여 한 번에 모두 업로드할 수 있습니다. 업로드할 수 있는 파일 수에는 제한이 없지만 파일당 개별 크기 제한은 50MB입니다.
 
 참고: 현재 이 기능은 브라우저의 제한 사항으로 인해 Internet Explorer에서 지원되지 않습니다.
 
@@ -52,7 +52,7 @@ ht-degree: 0%
 
 ## Marketo 수익 주기 분석 {#marketo-revenue-cycle-analytics}
 
-**Revenue Cycle Modeler 의 Enhanced Gate Stage**
+**수익 주기 Modeler의 향상된 게이트 단계**
 
 사용자가 전환 규칙에 대한 순서를 정의할 수 있습니다.
 

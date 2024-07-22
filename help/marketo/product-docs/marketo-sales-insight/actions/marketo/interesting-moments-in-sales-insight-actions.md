@@ -24,19 +24,19 @@ ht-degree: 0%
 
 ## 어떻게 하면 재미있는 순간을 만들 수 있습니까? {#how-do-i-create-an-interesting-moment}
 
-1. 선택 [스마트 캠페인](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/understanding-smart-campaigns.md){target="_blank"}, 바람직하게, 트리거되면 영업팀이 관심을 갖게 됩니다.
+1. [스마트 캠페인](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/understanding-smart-campaigns.md){target="_blank"}을 선택하세요. 가능하면 영업 팀에서 관심을 보이는 캠페인을 선택하십시오.
 
    ![](assets/interesting-moments-in-sales-insight-actions-1.png)
 
-1. 위로 끌기 **즐거운 순간** 흐름 단계.
+1. **관심 있는 순간** 흐름 단계 위로 끌어서 놓습니다.
 
    ![](assets/interesting-moments-in-sales-insight-actions-2.png)
 
-1. 선택 **유형** (이메일, 마일스톤 또는 웹).
+1. **유형**(전자 메일, 마일스톤 또는 웹)을 선택하세요.
 
    ![](assets/interesting-moments-in-sales-insight-actions-3.png)
 
-1. 에서 영업 팀에 메시지 작성 **설명** 이 작업이 중요한 이유를 설명하는 필드입니다.
+1. 이 작업이 중요한 이유를 설명하는 메시지를 **설명** 필드에 영업팀에 보냅니다.
 
    ![](assets/interesting-moments-in-sales-insight-actions-4.png)
 
@@ -46,7 +46,7 @@ ht-degree: 0%
 
 ## Marketo에서 흥미로운 순간은 어떤 모습일까요?  {#what-does-an-interesting-moment-look-like-in-marketo}
 
-재미있는 순간은 [잠재 고객의 활동 로그](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/managing-people-in-smart-lists/using-the-person-detail-page.md){target="_blank"}.
+즐거운 시간이 [리드의 활동 로그](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/managing-people-in-smart-lists/using-the-person-detail-page.md){target="_blank"}에 표시됩니다.
 
 ![](assets/interesting-moments-in-sales-insight-actions-5.png)
 

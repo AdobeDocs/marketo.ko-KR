@@ -17,28 +17,28 @@ Sales Connect 계정에서 Salesforce 계정 연결을 끊어야 하는 경우�
 
 ## 관리자로서 Salesforce와의 연결을 끊는 방법 {#how-to-disconnect-from-salesforce-as-an-admin}
 
-1. Sales Connect에서 오른쪽 상단의 톱니바퀴 아이콘을 클릭하고 **설정**.
+1. Sales Connect에서 오른쪽 상단의 톱니바퀴 아이콘을 클릭하고 **설정**&#x200B;을 선택합니다.
 
    ![](assets/one-1.png)
 
-1. Admin Settings에서 **Salesforce**.
+1. 관리자 설정에서 **Salesforce**&#x200B;를 클릭합니다.
 
    ![](assets/six-1.png)
 
-1. 연결 및 사용자 지정 탭에서 **연결 해제**.
+1. 연결 및 사용자 지정 탭에서 **연결 끊기**&#x200B;를 클릭합니다.
 
    ![](assets/seven-1.png)
 
 ## 관리자가 아닌 Salesforce와의 연결을 끊는 방법 {#how-to-disconnect-from-salesforce-as-a-non-admin}
 
-1. Sales Connect에서 오른쪽 상단의 톱니바퀴 아이콘을 클릭하고 **설정**.
+1. Sales Connect에서 오른쪽 상단의 톱니바퀴 아이콘을 클릭하고 **설정**&#x200B;을 선택합니다.
 
    ![](assets/one-1.png)
 
-1. 내 계정에서 **Salesforce**.
+1. 내 계정에서 **Salesforce**&#x200B;을(를) 선택합니다.
 
    ![](assets/two-1.png)
 
-1. 연결 및 사용자 지정 탭에서 **연결 해제**.
+1. 연결 및 사용자 지정 탭에서 **연결 끊기**&#x200B;를 클릭합니다.
 
    ![](assets/3333.png)

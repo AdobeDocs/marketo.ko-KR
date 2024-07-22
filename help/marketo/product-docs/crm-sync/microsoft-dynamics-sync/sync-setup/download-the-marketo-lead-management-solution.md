@@ -6,7 +6,7 @@ exl-id: 2deafcfc-19f4-4cbf-8764-402a7f69c7d2
 feature: Microsoft Dynamics
 source-git-commit: 821d69736b1cbeac0c80718c58a7a3c471387545
 workflow-type: tm+mt
-source-wordcount: '107'
+source-wordcount: '108'
 ht-degree: 0%
 
 ---
@@ -21,25 +21,25 @@ ht-degree: 0%
 
 >[!CAUTION]
 >
->반드시 최신 Marketo 솔루션을 다운로드해야 합니다 _다음 이전_ 모든 업그레이드를 수행합니다.
+>업그레이드를 수행하려면 최신 Marketo 솔루션을 _이전_&#x200B;에 다운로드해야 합니다.
 
 >[!NOTE]
 >
 >Marketo은 현재 Java 7과 호환되는 SSL 인증서만 지원합니다.
 
-1. 로 이동 **[!UICONTROL 관리자]** 영역입니다.
+1. **[!UICONTROL 관리자]** 영역으로 이동합니다.
 
    ![](assets/download-the-marketo-lead-management-solution-1.png)
 
-1. 클릭 **[!UICONTROL CRM]**.
+1. **[!UICONTROL CRM]**&#x200B;을 클릭합니다.
 
    ![](assets/download-the-marketo-lead-management-solution-2.png)
 
-1. 선택 **[!DNL Microsoft]**.
+1. **[!DNL Microsoft]**&#x200B;을(를) 선택합니다.
 
    ![](assets/download-the-marketo-lead-management-solution-3.png)
 
-1. 선택 **[!UICONTROL Marketo 솔루션 다운로드]**.
+1. **[!UICONTROL Marketo 솔루션 다운로드]**&#x200B;를 선택합니다.
 
    ![](assets/download-the-marketo-lead-management-solution-4.png)
 

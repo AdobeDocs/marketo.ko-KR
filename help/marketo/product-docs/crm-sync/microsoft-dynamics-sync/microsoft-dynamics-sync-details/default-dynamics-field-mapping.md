@@ -5,7 +5,7 @@ exl-id: 5f39bd0c-202e-4aa1-a0ac-49ac2554aa1e
 feature: Microsoft Dynamics
 source-git-commit: 2403ae0f1fdca3b8238f3f59e2a3b94129deb301
 workflow-type: tm+mt
-source-wordcount: '830'
+source-wordcount: '823'
 ht-degree: 18%
 
 ---
@@ -66,7 +66,7 @@ ht-degree: 18%
     <tr>
       <td>전화</td>
       <td>회사 전화</td>
-      <td>telephone1</td>
+      <td>전화 번호1</td>
     </tr>
     <tr>
       <td>모바일</td>
@@ -104,7 +104,7 @@ ht-degree: 18%
       <td>address1_postalcode</td>
     </tr>
     <tr>
-      <td>개인 소스</td>
+      <td>개인 Source</td>
       <td>잠재 고객 소스</td>
       <td>리드소스 코드</td>
     </tr>
@@ -166,7 +166,7 @@ ht-degree: 18%
     <tr>
       <td>Microsoft 홈 전화</td>
       <td>집전화</td>
-      <td>telephone2</td>
+      <td>전화 번호2</td>
     </tr>
     <tr>
       <td>Microsoft 기본 연락 방법</td>
@@ -306,7 +306,7 @@ ht-degree: 18%
     <tr>
       <td>전화</td>
       <td>회사 전화</td>
-      <td>telephone1</td>
+      <td>전화 번호1</td>
     </tr>
     <tr>
       <td>모바일</td>
@@ -376,7 +376,7 @@ ht-degree: 18%
     <tr>
       <td>Microsoft 홈 전화</td>
       <td>집전화</td>
-      <td>telephone2</td>
+      <td>전화 번호2</td>
     </tr>
     <tr>
       <td>Microsoft 기본 연락 방법</td>
@@ -525,7 +525,7 @@ ht-degree: 18%
     <tr>
       <td>주요 전화</td>
       <td>주요 전화</td>
-      <td>telephone1</td>
+      <td>전화 번호1</td>
     </tr>
     <tr>
       <td>비즈니스 유형</td>

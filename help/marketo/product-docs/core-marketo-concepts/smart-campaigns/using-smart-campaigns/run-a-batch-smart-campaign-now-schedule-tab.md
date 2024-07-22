@@ -15,21 +15,21 @@ ht-degree: 0%
 
 배치 캠페인 빌드가 완료되면 지금 실행하거나 나중에 실행하도록 선택할 수 있습니다. 다음은 즉시 실행하는 방법입니다.
 
-1. 배치 캠페인을 선택하고 **[!UICONTROL 예약]** 탭을 클릭하고 다음을 클릭합니다. **[!UICONTROL 한 번 실행]**.
+1. 일괄 캠페인을 선택하고 **[!UICONTROL 일정]** 탭으로 이동한 다음 **[!UICONTROL 한 번 실행]**&#x200B;을 클릭합니다.
 
    ![](assets/run-a-batch-smart-campaign-now-schedule-tab-1.png)
 
-1. 다음을 확인하십시오. **[!UICONTROL 지금 실행]** 이(가) 선택되고 클릭 **[!UICONTROL 실행]**.
+1. **[!UICONTROL 지금 실행]**&#x200B;을 선택하고 **[!UICONTROL 실행]**&#x200B;을 클릭하세요.
 
    ![](assets/run-a-batch-smart-campaign-now-schedule-tab-2.png)
 
-1. 을(를) 클릭하여 확인 **[!UICONTROL 실행]** 한 번 더
+1. **[!UICONTROL 실행]**&#x200B;을 한 번 더 클릭하여 확인합니다.
 
    ![](assets/run-a-batch-smart-campaign-now-schedule-tab-3.png)
 
-   쉬워요! 다음을 수행할 수도 있습니다. [나중을 위해 일정 실행](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/using-smart-campaigns/schedule-a-batch-smart-campaign-to-run-later.md){target="_blank"} 원하신다면
+   쉬워요! 원하는 경우 [나중에 실행 일정](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/using-smart-campaigns/schedule-a-batch-smart-campaign-to-run-later.md){target="_blank"}을 설정할 수도 있습니다.
 
    >[!NOTE]
    >
-   >* [나중에 실행되도록 일괄 처리 스마트 캠페인 예약](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/using-smart-campaigns/schedule-a-batch-smart-campaign-to-run-later.md){target="_blank"}
-   >* [반복 배치 캠페인 예약](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/using-smart-campaigns/schedule-a-recurring-batch-campaign.md){target="_blank"}
+   >* [나중에 실행할 일괄 처리 스마트 캠페인을 예약합니다](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/using-smart-campaigns/schedule-a-batch-smart-campaign-to-run-later.md){target="_blank"}
+   >* [반복 일괄 처리 캠페인 예약](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/using-smart-campaigns/schedule-a-recurring-batch-campaign.md){target="_blank"}

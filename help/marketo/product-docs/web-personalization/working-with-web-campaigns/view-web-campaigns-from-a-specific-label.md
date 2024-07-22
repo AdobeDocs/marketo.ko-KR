@@ -17,7 +17,7 @@ ht-degree: 0%
 
 ## 기존 레이블로 필터링 {#filter-by-existing-labels}
 
-1. 다음으로 이동 **웹 캠페인**.
+1. **웹 캠페인**(으)로 이동합니다.
 
    ![](assets/web-campaigns-hand-4.jpg)
 

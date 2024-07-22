@@ -1,5 +1,5 @@
 ---
-description: 스트림 디자이너 - Marketo 문서 - 제품 설명서
+description: Stream Designer - Marketo 문서 - 제품 설명서
 title: 스트림 디자이너
 hide: true
 hidefromtoc: true
@@ -13,15 +13,15 @@ ht-degree: 1%
 
 # 스트림 디자이너 {#stream-designer}
 
-다음 항목이 있습니다. _많음_ 스트림 조합이 가능합니다. 이 문서에는 마케터가 사이트 방문자에게 제품 관련 질문이 있는지 묻는 예제가 포함되어 있습니다. 그렇다면 방문자는 약속을 예약할 수 있습니다. 없는 경우, 방문자에게 향후 서신을 보낼 메일링 목록에 가입할 수 있는 옵션이 제공됩니다. 무료 PDF도 제공됩니다. 최종 목표는 약속을 예약하거나 방문자의 이메일을 수집하는 것입니다.
+가능한 _많은_ 스트림 조합이 있습니다. 이 문서에는 마케터가 사이트 방문자에게 제품 관련 질문이 있는지 묻는 예제가 포함되어 있습니다. 그렇다면 방문자는 약속을 예약할 수 있습니다. 없는 경우, 방문자에게 향후 서신을 보낼 메일링 목록에 가입할 수 있는 옵션이 제공됩니다. 무료 PDF도 제공됩니다. 최종 목표는 약속을 예약하거나 방문자의 이메일을 수집하는 것입니다.
 
 >[!PREREQUISITES]
 >
->문서 카드를 사용하려면 먼저 다음을 수행해야 합니다 [설정](/help/marketo/product-docs/demand-generation/dynamic-chat/integrations/adobe-pdf-embed-api.md){target="_blank"} Adobe 계정에서.
+>문서 카드를 사용하려면 먼저 Adobe 계정에서 [설정](/help/marketo/product-docs/demand-generation/dynamic-chat/integrations/adobe-pdf-embed-api.md){target="_blank"}해야 합니다.
 
-## 스트림 디자이너 카드 {#stream-designer-cards}
+## Designer 카드 스트리밍 {#stream-designer-cards}
 
-스트림 디자이너에는 채팅 대화를 형성하는 데 추가할 수 있는 여러 카드가 포함되어 있습니다.
+스트림 Designer에는 채팅 대화를 형성하는 데 추가할 수 있는 여러 카드가 포함되어 있습니다.
 
 <table>
  <tr>
@@ -43,7 +43,7 @@ ht-degree: 1%
  </tr>
  <tr>
   <td style="width:25%"><strong>모임 예약</strong></td>
-  <td>방문자에게 회의 일정을 잡을 수 있는 날짜 일정을 제공합니다. 라운드 로빈, 특정 에이전트를 통해 또는 사용자 지정 규칙을 사용하여 일정 가용성을 선택합니다. 클릭 <b>속성 추가</b> 에이전트의 이름 또는 이메일 주소를 캡처하고 나중에 쿼리하기 위해 채팅 방문자의 개인 레코드에 할당하려는 경우(팁: <a href="/help/marketo/product-docs/administration/field-management/create-a-custom-field-in-marketo.md" target="_blank">사용자 정의 필드</a> 표준 Marketo Engage 필드를 덮어쓰지 않도록 에이전트의 정보를 로 매핑).</td>
+  <td>방문자에게 회의 일정을 잡을 수 있는 날짜 일정을 제공합니다. 라운드 로빈, 특정 에이전트를 통해 또는 사용자 지정 규칙을 사용하여 일정 가용성을 선택합니다. 에이전트의 이름 또는 전자 메일 주소를 캡처하고 나중에 쿼리할 수 있도록 채팅 방문자의 개인 레코드에 할당하려면 <b>특성 추가</b>를 클릭합니다(팁: 에이전트의 정보를 매핑하여 표준 Marketo Engage 필드를 덮어쓰지 않도록 <a href="/help/marketo/product-docs/administration/field-management/create-a-custom-field-in-marketo.md" target="_blank">사용자 지정 필드 만들기</a>).</td>
  </tr>
  <tr>
   <td style="width:25%"><strong>목표</strong></td>
@@ -51,7 +51,7 @@ ht-degree: 1%
  </tr>
  <tr>
   <td style="width:25%"><strong>작업*</strong></td>
-  <td>양식의 숨겨진 필드와 유사하며 작업 카드로 잠재 고객 또는 회사 속성(이 있는 경우 <a href="/help/marketo/product-docs/administration/field-management/custom-field-type-glossary.md#string">문자열 데이터 형식</a>잠재 고객 레코드와 비교하여 캡처할 암시적 값이 있는 대화의 어느 시점에서든 작업 카드를 추가하고 각 속성을 값 또는 해당 값을 자동으로 채우는 기본 토큰으로 업데이트할 수 있습니다.
+  <td>양식의 숨겨진 필드와 마찬가지로 작업 카드를 사용하여 잠재 고객 또는 회사 특성(<a href="/help/marketo/product-docs/administration/field-management/custom-field-type-glossary.md#string">문자열 데이터 형식</a>이 있음)을 잠재 고객 레코드에 대해 캡처하려는 암시적 값으로 채울 수 있습니다. 대화의 어느 시점에서든 작업 카드를 추가하고 각 속성을 값 또는 해당 값을 자동으로 채우는 기본 토큰으로 업데이트할 수 있습니다.
   <p><i>* 작업 카드에는 Dynamic Chat Prime이 필요합니다. 자세한 내용은 Adobe 계정 팀(계정 관리자)에 문의하십시오.</i></td>
  </tr>
  <tr>
@@ -62,9 +62,9 @@ ht-degree: 1%
  </tr>
 </table>
 
-## 스트림 디자이너 아이콘 {#stream-designer-icons}
+## 스트림 Designer 아이콘 {#stream-designer-icons}
 
-스트림 디자이너의 오른쪽 상단에는 몇 가지 아이콘이 표시됩니다. 그들이 하는 일은 다음과 같습니다.
+스트림 Designer 오른쪽 상단에 아이콘이 표시됩니다. 그들이 하는 일은 다음과 같습니다.
 
 <table>
  <tr>
@@ -91,73 +91,73 @@ ht-degree: 1%
 
 ## 스트림 만들기 {#create-a-stream}
 
-대화 상자 또는 [대화형 Forms](/help/marketo/product-docs/demand-generation/dynamic-chat/automated-chat/conversational-flow-overview.md){target="_blank"}. 이 예제에서는 대화 상자에 대해 하나를 만들겠습니다.
+대화 상자 또는 [대화형 Forms](/help/marketo/product-docs/demand-generation/dynamic-chat/automated-chat/conversational-flow-overview.md){target="_blank"}에 대한 스트림을 만들 수 있습니다. 이 예제에서는 대화 상자에 대해 하나를 만들겠습니다.
 
-1. 다음 작업을 수행한 후 [이(가) 내 대화 상자를 만들었습니다.](/help/marketo/product-docs/demand-generation/dynamic-chat/automated-chat/create-a-dialogue.md){target="_blank"}를 클릭하고 **[!UICONTROL 스트림 디자이너]** 탭.
+1. [대화 상자를 만든](/help/marketo/product-docs/demand-generation/dynamic-chat/automated-chat/create-a-dialogue.md){target="_blank"}후 **[!UICONTROL Designer 스트리밍]** 탭을 클릭합니다.
 
    ![](assets/stream-designer-6.png)
 
-1. 을(를) 끌어다 놓습니다. [!UICONTROL 질문] 카드.
+1. [!UICONTROL 질문] 카드를 끌어서 놓습니다.
 
    ![](assets/stream-designer-7.png)
 
-1. 아래 [!UICONTROL 챗봇 응답], 원하는 방식으로 질문에 답변합니다.
+1. [!UICONTROL 챗봇 응답]에서 원하는 방식으로 질문하십시오.
 
    ![](assets/stream-designer-8.png)
 
    >[!TIP]
    >
-   >토큰을 사용하여 알려진 채팅 방문자에 대한 경험을 개인화할 수 있습니다(예: Hello `{{lead.leadFirstName:""}}`). 오른쪽에 있는 중괄호 아이콘을 클릭하고 원하는 항목을 선택하십시오. 익명 방문자에게 일반적인 것을 표시하려면 따옴표 사이에 기본값을 추가합니다(예: Hello `{{lead.leadFirstName:"there"}}`).
+   >토큰을 사용하여 알려진 채팅 방문자에 대한 환경을 개인화할 수 있습니다(예: `{{lead.leadFirstName:""}}` 님 안녕하세요). 오른쪽에 있는 중괄호 아이콘을 클릭하고 원하는 항목을 선택하십시오. 익명 방문자에게 일반적인 내용을 보려면 따옴표 사이에 기본값을 추가하십시오(예: `{{lead.leadFirstName:"there"}}` 안녕하세요.).
 
    >[!NOTE]
    >
    >Poke는 기본적으로 on으로 설정되어 있으며, 방문자가 채팅 아이콘을 클릭하여 보지 않아도 채팅 아이콘 옆에 열린 질문을 표시합니다. Poke는 대화의 첫 번째 카드에서만 사용할 수 있습니다.
 
-1. 사용자 응답을 입력하고 **[!UICONTROL 저장]**.
+1. 사용자 응답을 입력하고 **[!UICONTROL 저장]**&#x200B;을 클릭합니다.
 
    ![](assets/stream-designer-9.png)
 
    >[!NOTE]
    >
-   >**[!UICONTROL 저장된 값 편집]** 는 질문 카드에서 매핑된 속성을 위해 챗봇의 방문자에게 표시되는 것과 다른 값을 데이터베이스에 저장하려는 사용자를 위한 선택적 단계입니다(예: 방문자에게 &quot;검색 엔진 최적화&quot;가 표시되면 해당 값을 &quot;SEO&quot;로 저장).
+   >**[!UICONTROL 저장된 값 편집]**&#x200B;은(는) 질문 카드에서 매핑된 속성에 대해 챗봇의 방문자에게 표시되는 내용과 다른 값을 데이터베이스에 저장하려는 사용자를 위한 선택적 단계입니다(예: 방문자에게 &quot;검색 엔진 최적화&quot;가 표시되면 해당 값을 &quot;SEO&quot;로 저장함).
 
 1. &quot;예&quot;의 경우 약속을 예약하려고 하므로 해당 옵션 아래에 약속 스케줄러 카드로 끌어서 놓습니다.
 
    ![](assets/stream-designer-10.png)
 
-1. 오른쪽 열에서 **[!UICONTROL 저장]**.
+1. 오른쪽 열에서 **[!UICONTROL 저장]**&#x200B;을 클릭합니다.
 
    ![](assets/stream-designer-11.png)
 
-1. 목표이므로 을(를) 드래그합니다. [!UICONTROL 목표] 약속 스케줄러 아래의 카드.
+1. 목표이므로 약속 스케줄러 아래에 있는 [!UICONTROL 목표] 카드를 끌어 놓으십시오.
 
    ![](assets/stream-designer-12.png)
 
-1. 목표에 이름을 지정하고(또는 기존 목표를 선택) **[!UICONTROL 저장]**.
+1. 목표의 이름을 지정하거나 기존 목표를 선택하고 **[!UICONTROL 저장]**&#x200B;을 클릭합니다.
 
    ![](assets/stream-designer-13.png)
 
-1. &quot;아니요&quot;에 대해서는 메일링 목록에 추가될지 확인하고 싶으므로 해당 옵션 아래는 다른 옵션을 끌어서 놓습니다 [!UICONTROL 질문] 카드.
+1. &quot;아니요&quot;의 경우 메일 그룹에 가입할 것인지 확인하고 싶으므로 해당 옵션 아래에 다른 [!UICONTROL 질문] 카드로 드래그하세요.
 
    ![](assets/stream-designer-14.png)
 
-1. 응답을 입력하고 방문자에 대한 응답 선택 사항을 추가합니다. 클릭 **[!UICONTROL 저장]** 완료 시.
+1. 응답을 입력하고 방문자에 대한 응답 선택 사항을 추가합니다. 완료되면 **[!UICONTROL 저장]**&#x200B;을 클릭합니다.
 
    ![](assets/stream-designer-15.png)
 
    >[!NOTE]
    >
-   >다음을 클릭하여 응답을 추가할 수 있습니다. **[!UICONTROL 응답 추가]**.
+   >**[!UICONTROL 응답 추가]**&#x200B;를 클릭하여 응답을 더 추가할 수 있습니다.
 
 1. &quot;예&quot; 응답 아래에서 방문자의 이메일을 수집할 수 있도록 정보 캡처 카드 위로 드래그합니다.
 
    ![](assets/stream-designer-16.png)
 
-1. 다음을 클릭합니다. **[!UICONTROL 유형]** 드롭다운 및 선택 **[!UICONTROL 이메일]**.
+1. **[!UICONTROL 유형]** 드롭다운을 클릭하고 **[!UICONTROL 전자 메일]**&#x200B;을 선택합니다.
 
    ![](assets/stream-designer-17.png)
 
-1. 챗봇 메시지 및 자리 표시자를 입력합니다. 속성이 Marketo Engage의 적절한 필드에 매핑되어 있는지 확인하고 **[!UICONTROL 저장]**.
+1. 챗봇 메시지 및 자리 표시자를 입력합니다. 특성이 Marketo Engage의 적절한 필드에 매핑되어 있는지 확인하고 **[!UICONTROL 저장]**&#x200B;을 클릭합니다.
 
    ![](assets/stream-designer-18.png)
 
@@ -180,11 +180,11 @@ ht-degree: 1%
     </tr>
    </table>
 
-1. 이메일 수집이 목표이므로 을(를) 드래그합니다. [!UICONTROL 목표] 정보 캡처 아래에 있는 카드.
+1. 전자 메일 수집이 목표이므로 [!UICONTROL 목표] 카드를 정보 캡처 아래에 끌어 놓으십시오.
 
    ![](assets/stream-designer-19.png)
 
-1. 목표에 이름을 지정하고(또는 기존 목표를 선택) **[!UICONTROL 저장]**.
+1. 목표의 이름을 지정하거나 기존 목표를 선택하고 **[!UICONTROL 저장]**&#x200B;을 클릭합니다.
 
    ![](assets/stream-designer-20.png)
 
@@ -192,21 +192,21 @@ ht-degree: 1%
 
    ![](assets/stream-designer-21.png)
 
-1. 이 예제에서는 새 문서를 만듭니다. 이름을 지정하고 이미 호스팅된 PDF의 URL을 입력한 다음 을 클릭합니다. **[!UICONTROL 저장]**.
+1. 이 예제에서는 새 문서를 만듭니다. 이름을 지정하고 이미 호스팅된 PDF의 URL을 입력한 다음 **[!UICONTROL 저장]**&#x200B;을 클릭합니다.
 
    ![](assets/stream-designer-22.png)
 
-1. 다음 항목 선택 **[!UICONTROL 미리 보기]** 대화 상자를 미리 보려면 전환합니다.
+1. 대화 상자를 미리 보려면 **[!UICONTROL 미리 보기]** 전환을 선택하십시오.
 
    ![](assets/stream-designer-23.png)
 
-1. 대화 상자를 활성화할 준비가 되면 다음을 클릭하십시오. **[!UICONTROL 게시]**.
+1. 대화 상자를 활성화할 준비가 되면 **[!UICONTROL Publish]**&#x200B;을(를) 클릭합니다.
 
    ![](assets/stream-designer-24.png)
 
 >[!NOTE]
 >
->클릭 전 [!UICONTROL 게시], 다음을 했는지 확인하십시오. [대상 URL을 입력했습니다.](/help/marketo/product-docs/demand-generation/dynamic-chat/automated-chat/audience-criteria.md#target){target="_blank"}.
+>[!UICONTROL Publish]을(를) 클릭하기 전에 [대상 URL](/help/marketo/product-docs/demand-generation/dynamic-chat/automated-chat/audience-criteria.md#target){target="_blank"}을(를) 입력했는지 확인하세요.
 
 >[!MORELIKETHIS]
 >

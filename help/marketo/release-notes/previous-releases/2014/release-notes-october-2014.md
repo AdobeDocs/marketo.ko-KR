@@ -17,7 +17,7 @@ Marketo 버전에서 사용 가능한 기능이 있는지 확인하십시오. �
 
 ## 마케팅 캘린더의 프로그램 포커스 {#program-focus-in-marketing-calendar}
 
-[항목 만들기 및 편집](/help/marketo/product-docs/core-marketo-concepts/marketing-calendar/understanding-the-calendar/understand-enable-program-focus.md) 마케팅 캘린더에서 바로 가져올 수 있습니다.
+마케팅 일정에서 바로 [항목을 만들고 편집](/help/marketo/product-docs/core-marketo-concepts/marketing-calendar/understanding-the-calendar/understand-enable-program-focus.md)합니다.
 
 ![](assets/image2014-10-20-11-3a48-3a51.png)
 
@@ -30,11 +30,11 @@ API를 사용하여 잠재 고객에 대한 새 활동 또는 변경 사항을 �
 * 활동 유형 가져오기
 * 페이징 토큰 가져오기
 
-전체 세부 정보는 릴리스 이후에서 사용할 수 있습니다. [https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/rest/rest-api](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/rest/rest-api).
+전체 세부 정보는 [https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/rest/rest-api](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/rest/rest-api)에 릴리스된 후에 사용할 수 있습니다.
 
 ## MSI - Microsoft Dynamics용 Marketo 이메일 보내기 {#msi-send-marketo-email-for-microsoft-dynamics}
 
-[판매 이메일 전송 및 추적](/help/marketo/product-docs/marketo-sales-insight/msi-for-microsoft-dynamics/setting-up-and-using/send-a-marketo-sales-email-from-microsoft-dynamics.md) Microsoft Dynamics의 리드 및 연락처입니다.
+Microsoft Dynamics의 잠재 고객 및 연락처로 [판매 전자 메일을 보내고 추적합니다](/help/marketo/product-docs/marketo-sales-insight/msi-for-microsoft-dynamics/setting-up-and-using/send-a-marketo-sales-email-from-microsoft-dynamics.md).
 
 ![](assets/image2014-10-20-11-3a49-3a25.png)
 
@@ -44,7 +44,7 @@ API를 사용하여 잠재 고객에 대한 새 활동 또는 변경 사항을 �
 
 ## Microsoft Dynamics Sync에 대한 사용자 지정 엔티티 지원 {#custom-entity-support-for-microsoft-dynamics-sync}
 
-[사용자 지정 개체 데이터 사용](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/microsoft-dynamics-sync-details/enable-sync-for-a-custom-entity.md) 스마트 목록, 스마트 캠페인, 프로그램에서 필터링 및 트리거를 위한 Microsoft Dynamics에서...
+스마트 목록, 스마트 캠페인, 프로그램에서 필터링 및 트리거하려면 [Microsoft Dynamics의 사용자 지정 개체 데이터를 사용](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/microsoft-dynamics-sync-details/enable-sync-for-a-custom-entity.md)하십시오.
 
 ## Microsoft Dynamics Sync에 대한 주주 지원 {#shareholder-support-for-microsoft-dynamics-sync}
 
@@ -60,7 +60,7 @@ Dynamics에서 영업 기회 주주 데이터를 동기화합니다. 또한 &quo
 
 ## RTP - 캠페인용 새 모바일 템플릿 {#rtp-new-mobile-templates-for-campaigns}
 
-빠르고 쉽게 [모바일 캠페인 만들기](/help/marketo/product-docs/web-personalization/using-templates/using-templates-to-create-web-campaigns.md) 와 함께 사용하십시오.
+이러한 새로운 템플릿을 사용하여 빠르고 간편하게 [모바일 캠페인을 만들기](/help/marketo/product-docs/web-personalization/using-templates/using-templates-to-create-web-campaigns.md)하세요.
 
 ## RTP - 사용자 컨텍스트 API {#rtp-user-context-api}
 
@@ -70,4 +70,4 @@ Dynamics에서 영업 기회 주주 데이터를 동기화합니다. 또한 &quo
 * 다음에 관심이 있는 제품
 * 본 RTP 캠페인
 
-방문 [https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/javascriptapi/rich-media-recommendation](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/javascriptapi/rich-media-recommendation) 전체 세부 정보.
+자세한 내용을 보려면 [https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/javascriptapi/rich-media-recommendation](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/javascriptapi/rich-media-recommendation)을(를) 방문하십시오.

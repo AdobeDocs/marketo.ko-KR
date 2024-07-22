@@ -16,15 +16,15 @@ Salesforce 레이아웃에 Marketo 단추를 추가할 수 있습니다. 예를 
 
 ![](assets/add-bulk-action-buttons-to-salesforce-classic-1.png)
 
-1. 클릭 **설정**. &quot;검색 레이아웃&quot;을 검색하고 **레이아웃 검색** 아래에 **잠재 고객**.
+1. **설치**&#x200B;를 클릭합니다. &quot;레이아웃 검색&quot;을 검색하고 **리드**&#x200B;에서 **레이아웃 검색**&#x200B;을 클릭합니다.
 
    ![](assets/add-bulk-action-buttons-to-salesforce-classic-2.png)
 
-1. 클릭 **편집** 다음에서 **잠재 고객 목록 보기** 행.
+1. **잠재 고객 목록 보기** 행에서 **편집**&#x200B;을 클릭합니다.
 
    ![](assets/add-bulk-action-buttons-to-salesforce-classic-3.png)
 
-1. 추가 **Marketo 캠페인에 추가**, **Marketo 이메일 보내기**, 및 **감시 목록에 추가** 단추 **선택한 단추** 및 **저장**.
+1. **선택한 단추** 및 **저장**&#x200B;에 **Marketo 캠페인에 추가**, **Marketo 전자 메일 보내기** 및 **감시 목록에 추가** 단추를 추가합니다.
 
    ![](assets/add-bulk-action-buttons-to-salesforce-classic-4.png)
 

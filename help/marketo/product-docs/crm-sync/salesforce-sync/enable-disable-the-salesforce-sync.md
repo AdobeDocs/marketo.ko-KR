@@ -15,11 +15,11 @@ ht-degree: 0%
 
 동기화 또는 필드 설정을 크게 변경할 때는 구성하는 동안 동기화를 비활성화해야 합니다. 방법은 다음과 같습니다.
 
-1. 로 이동 **[!UICONTROL 관리자]** 섹션.
+1. **[!UICONTROL 관리자]** 섹션으로 이동합니다.
 
    ![](assets/image2014-12-10-13-3a24-3a35.png)
 
-1. 아래 **[!UICONTROL Salesforce]**, 클릭 **[!UICONTROL 동기화 비활성화]**.
+1. **[!UICONTROL Salesforce]**&#x200B;에서 **[!UICONTROL 동기화 비활성화]**&#x200B;를 클릭합니다.
 
    ![](assets/image2014-12-10-13-3a24-3a47.png)
 

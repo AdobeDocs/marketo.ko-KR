@@ -29,15 +29,15 @@ Exchange 또는 Gmail 이메일 공급자를 통해 전송하기 위해 Sales Co
 
 **전자 메일 연결 제한 설정 구성**
 
-1. 톱니바퀴 아이콘을 클릭하고 **설정**.
+1. 톱니바퀴 아이콘을 클릭하고 **설정**&#x200B;을 선택합니다.
 
    ![](assets/email-connection-throttling-1.png)
 
-1. Admin Settings에서 **일반**.
+1. 관리자 설정에서 **일반**&#x200B;을 클릭합니다.
 
    ![](assets/email-connection-throttling-2.png)
 
-1. 오른쪽의 전자 메일 연결 제한 카드에서 **이메일 제한 사용** 슬라이더.
+1. 오른쪽의 전자 메일 연결 제한 카드에서 **전자 메일 제한 사용** 슬라이더를 클릭합니다.
 
    ![](assets/email-connection-throttling-3.png)
 
@@ -65,7 +65,7 @@ Exchange 또는 Gmail 이메일 공급자를 통해 전송하기 위해 Sales Co
 * 분당 30
 * 이메일당 500명의 수신자
 
-추가 정보 [은(는) 여기에서 찾을 수 있음](https://docs.microsoft.com/en-us/office365/servicedescriptions/exchange-online-service-description/exchange-online-limits?redirectedfrom=MSDN#RecipientLimits).
+[자세한 정보는 여기에서 찾을 수 있습니다](https://docs.microsoft.com/en-us/office365/servicedescriptions/exchange-online-service-description/exchange-online-limits?redirectedfrom=MSDN#RecipientLimits).
 
 **Gmail**
 
@@ -73,7 +73,7 @@ Exchange 또는 Gmail 이메일 공급자를 통해 전송하기 위해 Sales Co
 * 초당 이메일 2개(API 제한)
 * 메시지당 수신자 2,000명(외부 수신자의 경우 최대 500명)
 
-추가 정보 [은(는) 여기에서 찾을 수 있음](https://support.google.com/a/answer/166852?hl=en).
+[자세한 정보는 여기에서 찾을 수 있습니다](https://support.google.com/a/answer/166852?hl=en).
 
 **Microsoft Exchange Server(2010, 2013)**
 
@@ -83,4 +83,4 @@ Exchange 또는 Gmail 이메일 공급자를 통해 전송하기 위해 Sales Co
 >
 >* [게재 채널 개요](/help/marketo/product-docs/marketo-sales-connect/email/email-delivery/delivery-channel-overview.md)
 >* [Gmail 사용자를 위한 전자 메일 연결](/help/marketo/product-docs/marketo-sales-connect/email-plugins/gmail/email-connection-for-gmail-users.md)
->* [Outlook 사용자용 전자 메일 연결](/help/marketo/product-docs/marketo-sales-connect/email-plugins/msc-for-outlook/email-connection-for-outlook-users.md)
+>* [Outlook 사용자를 위한 전자 메일 연결](/help/marketo/product-docs/marketo-sales-connect/email-plugins/msc-for-outlook/email-connection-for-outlook-users.md)

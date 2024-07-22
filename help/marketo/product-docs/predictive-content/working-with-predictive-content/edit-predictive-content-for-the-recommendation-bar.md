@@ -7,7 +7,7 @@ feature: Predictive Content
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '76'
-ht-degree: 0%
+ht-degree: 2%
 
 ---
 
@@ -17,13 +17,13 @@ ht-degree: 0%
 
 >[!PREREQUISITES]
 >
->컨텐츠는 다음과 같아야 합니다. [예측 콘텐츠 승인](/help/marketo/product-docs/predictive-content/working-with-all-content/approve-a-title-for-predictive-content.md) 모든 컨텐츠 페이지에서 참조할 수 있습니다.
+>모든 콘텐츠 페이지에서 콘텐츠는 예측 콘텐츠에 대해 [승인](/help/marketo/product-docs/predictive-content/working-with-all-content/approve-a-title-for-predictive-content.md)되어야 합니다.
 
-1. 다음에서 **예측 콘텐츠** 페이지에서 제목을 클릭하여 편집기를 엽니다.
+1. **예측 콘텐츠** 페이지에서 제목을 클릭하여 편집기를 엽니다.
 
    ![](assets/image2017-10-3-9-3a45-3a13.png)
 
-1. 클릭 **막대**.
+1. **막대**&#x200B;를 클릭합니다.
 
    ![](assets/image2017-10-3-9-3a45-3a48.png)
 
@@ -31,6 +31,6 @@ ht-degree: 0%
 
    ![](assets/image2017-10-3-9-3a46-3a18.png)
 
-1. 클릭 **저장**.
+1. **저장**&#x200B;을 클릭합니다.
 
    ![](assets/save.png)

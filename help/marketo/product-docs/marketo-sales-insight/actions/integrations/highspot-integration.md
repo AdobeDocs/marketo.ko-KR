@@ -20,15 +20,15 @@ Sales Insight Actions에서 Highspot 기능에 액세스하여 영업 주기 전
 >
 >Sales Insight Actions 인스턴스에 대해 Highspot 을 활성화하려면 관리자 권한이 있어야 합니다.
 
-1. 톱니바퀴 아이콘을 클릭하고 **설정**.
+1. 톱니바퀴 아이콘을 클릭하고 **설정**&#x200B;을 선택합니다.
 
    ![](assets/highspot-integration-1.png)
 
-1. 아래 **관리자 설정**, 선택 **일반**.
+1. **관리자 설정**&#x200B;에서 **일반**&#x200B;을 선택합니다.
 
    ![](assets/highspot-integration-2.png)
 
-1. 다음으로 스크롤 **통합** 카드를 작성하고 슬라이더를 클릭하여 Highspot을 활성화합니다.
+1. **통합** 카드로 스크롤한 다음 슬라이더를 클릭하여 Highspot을 사용하도록 설정합니다.
 
    ![](assets/highspot-integration-3.png)
 
@@ -40,7 +40,7 @@ Sales Insight Actions에서 Highspot 기능에 액세스하여 영업 주기 전
 
 Sales Insight Actions 작성 창, 템플릿 편집기 및 판매 캠페인 이메일 편집기에서 Highspot에 액세스하여 이메일에 컨텐츠를 추가합니다. 다음은 작성 창에서 콘텐츠에 액세스하는 방법에 대한 단계입니다.
 
-1. 이메일 초안을 만듭니다. 이 방법에는 여러 가지가 있습니다. 이 예제에서는 다음을 선택합니다 **작성** 머리글에서).
+1. 이메일 초안을 만듭니다. 이 방법에는 헤더에서 **작성**&#x200B;을 선택하는 것과 같이 여러 가지가 있습니다.
 
    ![](assets/highspot-integration-5.png)
 
@@ -48,7 +48,7 @@ Sales Insight Actions 작성 창, 템플릿 편집기 및 판매 캠페인 이�
 
    ![](assets/highspot-integration-6.png)
 
-1. 메시지를 작성하십시오. 이메일에 하이스팟 콘텐츠를 삽입할 위치를 클릭합니다. 이미지 아이콘 옆에 있는 화살표 드롭다운을 클릭하고 을 선택합니다 **상위 항목**.
+1. 메시지를 작성하십시오. 이메일에 하이스팟 콘텐츠를 삽입할 위치를 클릭합니다. 이미지 아이콘 옆에 있는 화살표 드롭다운을 클릭하고 **Highspot**&#x200B;을(를) 선택합니다.
 
    ![](assets/highspot-integration-7.png)
 

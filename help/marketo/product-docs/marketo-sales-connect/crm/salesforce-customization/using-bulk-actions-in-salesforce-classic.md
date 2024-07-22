@@ -6,7 +6,7 @@ exl-id: f676ba65-6bc9-41e5-aa70-0f10bceedab7
 feature: Marketo Sales Connect
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
-source-wordcount: '372'
+source-wordcount: '358'
 ht-degree: 0%
 
 ---
@@ -17,7 +17,7 @@ ht-degree: 0%
 
 >[!PREREQUISITES]
 >
->Sales Connect 패키지의 최신 버전으로 업데이트하고 리드/연락처 보기에 일괄 작업 버튼을 설치합니다. [지침을 보려면 여기를 클릭하십시오.](https://s3.amazonaws.com/tout-user-store/salesforce/assets/Marketo+Sales+Engage+For+Salesforce_+Installation+and+Success+Guide.pdf).
+>Sales Connect 패키지의 최신 버전으로 업데이트하고 리드/연락처 보기에 일괄 작업 버튼을 설치합니다. [지침을 보려면 여기를 클릭하세요](https://s3.amazonaws.com/tout-user-store/salesforce/assets/Marketo+Sales+Engage+For+Salesforce_+Installation+and+Success+Guide.pdf).
 
 >[!NOTE]
 >
@@ -25,11 +25,11 @@ ht-degree: 0%
 
 ## 벌크 이메일 {#bulk-email}
 
-1. Salesforce에서 **잠재 고객** 탭을 클릭한 다음 **이동** 단추를 클릭합니다.
+1. Salesforce에서 **리드** 탭을 클릭한 다음 **이동** 단추를 클릭합니다.
 
    ![](assets/one-5.png)
 
-1. 원하는 리드를 선택하고 **MSC를 사용한 이메일(클래식)** 단추를 클릭합니다.
+1. 원하는 리드를 선택하고 **MSC로 전자 메일 보내기(클래식)** 단추를 클릭합니다.
 
    ![](assets/two-5.png)
 
@@ -45,7 +45,7 @@ ht-degree: 0%
 
 ## Campaign에 추가 {#add-to-campaign}
 
-1. Salesforce에서 **잠재 고객** 탭을 클릭한 다음 **이동** 단추를 클릭합니다.
+1. Salesforce에서 **리드** 탭을 클릭한 다음 **이동** 단추를 클릭합니다.
 
    ![](assets/four-3.png)
 
@@ -53,13 +53,13 @@ ht-degree: 0%
 
    ![](assets/five-3.png)
 
-1. &quot;캠페인에 사용자 추가&quot; 팝업이 나타납니다. 클릭 **다음** 일반적인 캠페인 플로우를 통해 MSC 캠페인을 트리거합니다.
+1. &quot;캠페인에 사용자 추가&quot; 팝업이 나타납니다. **다음**&#x200B;을 클릭하고 일반적인 캠페인 흐름을 통해 MSC 캠페인을 트리거합니다.
 
    ![](assets/six.png)
 
 ## Marketo Sales Connect로 푸시 {#push-to-marketo-sales-connect}
 
-1. Salesforce에서 **잠재 고객** 탭을 클릭한 다음 **이동** 단추를 클릭합니다.
+1. Salesforce에서 **리드** 탭을 클릭한 다음 **이동** 단추를 클릭합니다.
 
    ![](assets/seven-1.png)
 
@@ -67,7 +67,7 @@ ht-degree: 0%
 
    ![](assets/eight-1.png)
 
-1. &quot;Salesforce Bridge&quot;라는 새 탭이 열립니다. 다음을 클릭합니다. **그룹 → 진행** 단추를 클릭합니다.
+1. &quot;Salesforce Bridge&quot;라는 새 탭이 열립니다. **그룹 →** 진행 단추를 클릭합니다.
 
    ![](assets/nine-1.png)
 
@@ -81,5 +81,5 @@ ht-degree: 0%
 
 >[!MORELIKETHIS]
 >
->* [그룹 이메일을 통해 이메일 보내기](/help/marketo/product-docs/marketo-sales-connect/email/using-the-compose-window/sending-emails-via-group-email.md)
->* [Select 및 Send를 사용하여 일괄 이메일 작성](/help/marketo/product-docs/marketo-sales-connect/email/using-the-compose-window/composing-bulk-emails-with-select-and-send.md#sending-emails)
+>* [그룹 전자 메일을 통해 전자 메일 보내기](/help/marketo/product-docs/marketo-sales-connect/email/using-the-compose-window/sending-emails-via-group-email.md)
+>* [Select 및 Send를 사용하여 일괄 전자 메일 작성](/help/marketo/product-docs/marketo-sales-connect/email/using-the-compose-window/composing-bulk-emails-with-select-and-send.md#sending-emails)

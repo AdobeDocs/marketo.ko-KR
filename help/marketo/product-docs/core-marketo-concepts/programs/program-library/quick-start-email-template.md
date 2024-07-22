@@ -2,10 +2,10 @@
 description: 빠른 시작 이메일 템플릿 - Marketo 문서 - 제품 설명서
 title: 빠른 시작 이메일 템플릿
 feature: Programs
-exl-id: cf4c3be9-a71f-4b75-b262-67bd788e0a67
-source-git-commit: 38274b4859ae38c018ee73d4f1715fdf6a78e815
+exl-id: 4ad2063e-11c4-4926-8438-5b38af0fbc8d
+source-git-commit: c16081143588ebc0793f5b6e2630b58348e27124
 workflow-type: tm+mt
-source-wordcount: '569'
+source-wordcount: '565'
 ht-degree: 0%
 
 ---
@@ -16,15 +16,15 @@ Marketo Engage 참조 라이브러리의 일부 시작 프로그램에는 여러
 
 Marketo Engage 이메일 편집기에는 이메일 레이아웃을 변경하고 콘텐츠를 편집하는 데 도움이 되는 기능이 포함되어 있습니다.
 
-* **모듈**: 템플릿에 코딩되는 드래그 가능한/드롭 가능한 콘텐츠 블록입니다. 다시 구성하고 복제할 수 있습니다.
+* **모듈**: 템플릿에 코딩된 드래그 가능한/드롭 가능한 콘텐츠 블록입니다. 다시 구성하고 복제할 수 있습니다.
 
-* **텍스트 요소**: 편집기를 사용하여 사본을 업데이트하거나 글꼴 스타일을 변경하거나 링크를 추가할 수 있습니다.
+* **텍스트 요소**: 편집기를 사용하여 복사본을 업데이트하거나 글꼴 스타일을 변경하거나 링크를 추가할 수 있습니다.
 
-* **이미지 요소**: 텍스트 요소와 유사하게 이미지를 교환하고, 연결하고, 크기를 조정할 수 있습니다.
+* **이미지 요소**: 텍스트 요소와 마찬가지로 이미지를 교환하고, 연결하고, 크기를 조정할 수 있습니다.
 
-* **변수**: 모듈을 선택하면 변수가 편집기의 오른쪽에 나타납니다. 이러한 속성은 이미지 또는 텍스트 요소를 통해 쉽게 편집할 수 없는 모듈의 속성을 조정하는 데 사용할 수 있습니다.
+* **변수**: 모듈을 선택하면 편집기 오른쪽에 변수가 나타납니다. 이러한 속성은 이미지 또는 텍스트 요소를 통해 쉽게 편집할 수 없는 모듈의 속성을 조정하는 데 사용할 수 있습니다.
 
-추가적인 전략 지원 또는 프로그램 맞춤화에 대한 도움말을 보려면 Adobe 계정 팀에 문의하거나 [Adobe Professional Services](https://business.adobe.com/customers/consulting-services/main.html){target="_blank"} 페이지를 가리키도록 업데이트하는 중입니다.
+추가 전략 지원 또는 프로그램 사용자 지정에 도움이 필요하면 Adobe 계정 팀에 문의하거나 [Adobe Professional Services](https://business.adobe.com/customers/consulting-services/main.html){target="_blank"} 페이지를 방문하십시오.
 
 ## 모듈 요약 {#modules-summary}
 
@@ -92,7 +92,7 @@ Marketo Engage 이메일 편집기에는 이메일 레이아웃을 변경하고 
    * CTA 텍스트 색상
    * CTA 배경색
    * CTA 테두리 색상
-   * CTA 테두리 반경(단추를 반올림하려면 - **참고**: 이 기능은 Microsoft Outlook 이메일 클라이언트에서 작동하지 않습니다.)
+   * CTA 테두리 반경(단추를 반올림하기 위해 - **참고**: 이 기능은 Microsoft Outlook 이메일 클라이언트에서 작동하지 않음)
    * CTA URL
    * CTA 텍스트
    * CTA 정렬

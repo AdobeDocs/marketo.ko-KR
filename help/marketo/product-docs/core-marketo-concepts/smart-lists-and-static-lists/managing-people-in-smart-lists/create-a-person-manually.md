@@ -19,15 +19,15 @@ ht-degree: 0%
 >
 >Marketo은 이모지가 포함된 이메일 주소를 지원하지 않습니다.
 
-1. 로 이동 **[!UICONTROL 데이터베이스]**.
+1. **[!UICONTROL 데이터베이스]**(으)로 이동합니다.
 
    ![](assets/db-1.png)
 
-1. 아래 **[!UICONTROL 신규]**, 클릭 **[!UICONTROL 새 사용자]**.
+1. **[!UICONTROL 새로 만들기]**&#x200B;에서 **[!UICONTROL 새 사용자]**&#x200B;를 클릭합니다.
 
    ![](assets/two-2.png)
 
-1. 개인 정보를 입력한 다음 **[!UICONTROL 만들기]**.
+1. 사용자 정보를 입력한 다음 **[!UICONTROL 만들기]**&#x200B;를 클릭합니다.
 
    ![](assets/three-2.png)
 

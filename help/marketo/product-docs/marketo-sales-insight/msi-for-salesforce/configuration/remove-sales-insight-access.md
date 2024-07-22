@@ -5,7 +5,7 @@ exl-id: 3cda112a-524e-469b-a222-c0192b2f5301
 feature: Marketo Sales Insights
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
-source-wordcount: '411'
+source-wordcount: '407'
 ht-degree: 0%
 
 ---
@@ -18,7 +18,7 @@ ht-degree: 0%
 
 모든 Sales Insight 기능에 액세스하려면 아래 언급된 객체, Apex 클래스 및 visualforce 페이지에 대한 권한이 필요합니다. 이 항목을 제거하면 Sales Insight에 대한 액세스 권한이 제거됩니다.
 
-**오브젝트 설정**
+**개체 설정**
 
 <table> 
  <tbody> 
@@ -77,13 +77,13 @@ ht-degree: 0%
 
 1. Salesforce 계정에 로그인합니다.
 
-1. 클릭 **설정**.
+1. **설치**&#x200B;를 클릭합니다.
 
    ![](assets/remove-sales-insight-access-1.png)
 
-1. Administrator 아래에서 **사용자 관리**, 그런 다음 **프로필**.
+1. 관리자 아래에서 **사용자 관리**&#x200B;를 클릭한 다음 **프로필**&#x200B;을 클릭합니다.
 
-1. 업데이트할 프로필을 클릭한 다음 **편집**.
+1. 업데이트할 프로필을 클릭한 다음 **편집**&#x200B;을 클릭합니다.
 
 1. 탭 설정 아래의 &quot;사용자 정의 탭 설정&quot;으로 스크롤합니다.
 
@@ -109,27 +109,27 @@ ht-degree: 0%
    * 값
    * WebActivityCache
 
-1. &quot;Enabled Apex Class Access&quot; 섹션으로 스크롤합니다. 클릭 **편집**.
+1. &quot;Enabled Apex Class Access&quot; 섹션으로 스크롤합니다. **편집**&#x200B;을 클릭합니다.
 
-1. &quot;활성화된 Apex 클래스&quot; 섹션에서 &quot;mkto_si&quot;로 시작하는 모든 클래스를 선택합니다. 최대 159개의 클래스가 추가되어야 합니다.
+1. &quot;Enabled Apex Classes&quot; 섹션에서 &quot;mkto_si&quot;로 시작하는 모든 클래스를 선택합니다. 최대 159개의 클래스가 추가되어야 합니다.
 
-1. 클릭 **제거**, 그런 다음 **저장**.
+1. **제거**&#x200B;를 클릭한 다음 **저장**&#x200B;을 클릭합니다.
 
    ![](assets/remove-sales-insight-access-4.png)
 
-1. 아래로 스크롤하여 &quot;Visualforce 페이지 액세스 활성화&quot; 섹션으로 이동합니다. 클릭 **편집**.
+1. 아래로 스크롤하여 &quot;Visualforce 페이지 액세스 활성화&quot; 섹션으로 이동합니다. **편집**&#x200B;을 클릭합니다.
 
 1. &quot;Visualforce 페이지 활성화&quot; 섹션에서 &quot;mkto_si&quot;로 시작하는 모든 페이지를 선택합니다. 최대 64페이지까지 추가할 수 있습니다.
 
-1. 클릭 **제거**, 그런 다음 **저장**.
+1. **제거**&#x200B;를 클릭한 다음 **저장**&#x200B;을 클릭합니다.
 
    ![](assets/remove-sales-insight-access-5.png)
 
-1. &quot;사용자 정의 설정 정의 액세스 활성화&quot; 섹션으로 스크롤합니다. 클릭 **편집**.
+1. &quot;사용자 정의 설정 정의 액세스 활성화&quot; 섹션으로 스크롤합니다. **편집**&#x200B;을 클릭합니다.
 
 1. &quot;Marketo Sales Insight.mkto_si.Marketo 설정&quot; 및 &quot;Marketo Sales Insight.mkto_si.User 환경 설정&quot;을 선택합니다.
 
-1. 클릭 **제거**, 그런 다음 **저장**.
+1. **제거**&#x200B;를 클릭한 다음 **저장**&#x200B;을 클릭합니다.
 
    ![](assets/remove-sales-insight-access-6.png)
 

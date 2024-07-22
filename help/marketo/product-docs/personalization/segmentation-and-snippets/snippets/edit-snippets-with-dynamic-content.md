@@ -22,25 +22,25 @@ ht-degree: 0%
 
 ## 세분화 추가 {#add-segmentation}
 
-1. 로 이동 **Design Studio**.
+1. **디자인 스튜디오**(으)로 이동합니다.
 
    ![](assets/designstudio-1.png)
 
-1. 을(를) 클릭합니다 **코드 조각** 그런 다음 **초안 편집**.
+1. **코드 조각**&#x200B;을 클릭한 다음 **초안 편집**&#x200B;을 클릭합니다.
 
    ![](assets/image2014-9-16-8-3a59-3a14.png)
 
-1. 클릭 **세그먼트별**.
+1. **세그먼트별**&#x200B;을 클릭합니다.
 
    ![](assets/image2014-9-16-8-3a59-3a27.png)
 
-1. 입력 **세분화** 및 클릭 **저장**.
+1. **세그먼테이션**&#x200B;을 입력하고 **저장**&#x200B;을 클릭합니다.
 
    ![](assets/image2014-9-16-8-3a59-3a42.png)
 
 ## 다이내믹 콘텐츠 적용 {#apply-dynamic-content}
 
-1. 을(를) 클릭합니다 **세그먼트** 컨텐츠를 편집합니다. 각 세그먼트에 대해 반복
+1. **세그먼트**&#x200B;를 클릭한 다음 콘텐츠를 편집하세요. 각 세그먼트에 대해 반복
 
    ![](assets/image2014-9-16-8-3a59-3a59.png)
 
@@ -52,5 +52,5 @@ ht-degree: 0%
 
 >[!MORELIKETHIS]
 >
->* [이메일에 코드 조각 추가](/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/add-a-snippet-to-an-email.md)
+>* [전자 메일에 코드 조각 추가](/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/add-a-snippet-to-an-email.md)
 >* [랜딩 페이지에 코드 조각 추가](/help/marketo/product-docs/demand-generation/landing-pages/personalizing-landing-pages/add-a-snippet-to-a-landing-page.md)

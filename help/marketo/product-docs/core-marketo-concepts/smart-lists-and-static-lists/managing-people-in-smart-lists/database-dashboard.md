@@ -19,7 +19,7 @@ ht-degree: 0%
 >
 >각 작업 공간에는 자체 데이터베이스 대시보드가 있습니다.
 
-액세스하려면 다음을 선택합니다. **[!UICONTROL 데이터베이스]** 내 Marketo에서
+내 Marketo에서 **[!UICONTROL 데이터베이스]**&#x200B;을(를) 선택하십시오.
 
 ![](assets/database-dashboard-1.png)
 
@@ -29,8 +29,8 @@ ht-degree: 0%
 
 >[!TIP]
 >
->귀사에 대한 보다 구체적이거나 시기 적절한 정보를 얻고자 하십니까? 시도 [사용자 성과 보고서](/help/marketo/product-docs/reporting/basic-reporting/report-types/people-performance-report.md){target="_blank"}.
+>귀사에 대한 보다 구체적이거나 시기 적절한 정보를 얻고자 하십니까? [인물 성과 보고서](/help/marketo/product-docs/reporting/basic-reporting/report-types/people-performance-report.md){target="_blank"}를 사용해 보세요.
 
-**총 인원:** 나열된 작업 영역에 대한 상시 사용자 수입니다.
+**총 인원:** 나열된 작업 영역에 대한 상시 인원 수입니다.
 
-**마케팅 가능한 사람:** 나열된 작업 영역에 대한 상시 사용자 수, _에서 다음 빼기_: 이메일 주소가 없는 사람, 이메일 반송이 어려운 사람, 차단 목록에 추가된 사용자, 구독을 취소한 사람, 현재 마케팅 중단으로 설정된 사람.
+**마케팅 가능한 사용자:** 나열된 작업 영역에 대한 전체 사용자 수, _다음 수를 뺀 수_: 전자 메일 주소가 없는 사용자, 전자 메일이 잘 반송된 사용자, 차단 목록에 추가된 사용자, 구독을 취소한 사용자, 현재 마케팅 일시 중단으로 설정된 사용자.

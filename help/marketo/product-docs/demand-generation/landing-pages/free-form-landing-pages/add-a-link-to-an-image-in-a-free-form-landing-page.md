@@ -23,15 +23,15 @@ ht-degree: 0%
 
    ![](assets/click-on-image.png)
 
-1. 확장 **등록정보 시트**.
+1. **속성 시트**&#x200B;를 확장합니다.
 
    ![](assets/image2015-5-21-15-3a42-3a27.png)
 
-1. 링크 복사 또는 입력 **linkUrl** 상자.
+1. **linkUrl** 상자에 링크를 복사하거나 입력하십시오.
 
    ![](assets/add-link.png)
 
-   축하합니다! 이제 랜딩 페이지의 이미지에 대한 링크를 정상적으로 추가했습니다. 이제 다음을 수행할 수 있습니다. [페이지 미리보기](/help/marketo/product-docs/demand-generation/landing-pages/landing-page-actions/preview-a-landing-page.md) 작동 상태로 보기 위해.
+   축하합니다! 이제 랜딩 페이지의 이미지에 대한 링크를 정상적으로 추가했습니다. 이제 [페이지 미리 보기](/help/marketo/product-docs/demand-generation/landing-pages/landing-page-actions/preview-a-landing-page.md)를 통해 작동 중인 페이지를 볼 수 있습니다.
 
 >[!TIP]
 >

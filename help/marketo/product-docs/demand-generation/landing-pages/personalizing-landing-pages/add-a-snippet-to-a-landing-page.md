@@ -19,15 +19,15 @@ ht-degree: 0%
 >
 >[코드 조각 만들기](/help/marketo/product-docs/personalization/segmentation-and-snippets/snippets/create-a-snippet.md)
 
-1. 랜딩 페이지를 선택하고 **초안 편집**.
+1. 랜딩 페이지를 선택하고 **초안 편집**&#x200B;을 클릭합니다.
 
    ![](assets/image2014-9-16-15-3a4-3a28.png)
 
-1. 랜딩 페이지 편집기에서 **코드 조각** 요소를 생성하지 않습니다.
+1. 랜딩 페이지 편집기에서 **Snippet** 요소 위로 끌어서 놓습니다.
 
    ![](assets/image2015-5-21-12-3a46-3a34.png)
 
-1. 코드 조각을 찾아 선택한 다음 **저장**.
+1. 코드 조각을 찾아 선택한 다음 **저장**&#x200B;을 클릭합니다.
 
    ![](assets/image2014-9-16-15-3a4-3a14.png)
 
@@ -37,6 +37,6 @@ ht-degree: 0%
 
    >[!NOTE]
    >
-   >가이드 랜딩 페이지에 코드 조각을 추가하려면 다음을 참조하십시오. [이 문서](/help/marketo/product-docs/demand-generation/landing-pages/landing-page-templates/create-a-guided-landing-page-template.md).
+   >안내 랜딩 페이지에 코드 조각을 추가하려면 [이 문서](/help/marketo/product-docs/demand-generation/landing-pages/landing-page-templates/create-a-guided-landing-page-template.md)를 참조하세요.
 
 잘했다! 이제 랜딩 페이지에 스니펫을 추가하는 방법을 알 수 있습니다.

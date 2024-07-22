@@ -19,11 +19,11 @@ ht-degree: 0%
 
 일반적으로 Salesforce의 새 사용자 정의 필드는 Marketo Engage에 자동으로 동기화됩니다. 그렇지 않으면 Marketo 동기화 사용자에게 필드가 표시되지 않을 수 있습니다. 이 문제를 해결하는 방법은 다음과 같습니다.
 
-1. 이름을 클릭한 다음 을 선택합니다. **[!UICONTROL 설정]**.
+1. 이름을 클릭한 다음 **[!UICONTROL 설치]**&#x200B;를 선택합니다.
 
    ![](assets/add-an-existing-salesforce-field-to-the-marketo-sync-1.png)
 
-1. 왼쪽 검색 막대에 &quot;profile&quot;을 입력하고 클릭 **[!UICONTROL 프로필]** 아래에 **[!UICONTROL 사용자 관리]**.
+1. 왼쪽 검색 창에 &quot;프로필&quot;을 입력하고 **[!UICONTROL 사용자 관리]**&#x200B;에서 **[!UICONTROL 프로필]**&#x200B;을 클릭합니다.
 
    ![](assets/add-an-existing-salesforce-field-to-the-marketo-sync-2.png)
 
@@ -31,15 +31,15 @@ ht-degree: 0%
 
    ![](assets/add-an-existing-salesforce-field-to-the-marketo-sync-3.png)
 
-1. 아래 **[!UICONTROL 필드 수준 보안]** 섹션, 클릭 **[!UICONTROL 보기]** 필드를 포함하는 개체 옆에 있습니다.
+1. **[!UICONTROL 필드 수준 보안]** 섹션에서 필드가 있는 개체 옆에 있는 **[!UICONTROL 보기]**&#x200B;를 클릭합니다.
 
    ![](assets/add-an-existing-salesforce-field-to-the-marketo-sync-4.png)
 
-1. 클릭 **[!UICONTROL 편집]**.
+1. **[!UICONTROL 편집]**&#x200B;을 클릭합니다.
 
    ![](assets/add-an-existing-salesforce-field-to-the-marketo-sync-5.png)
 
-1. 다음 확인: **[!UICONTROL 표시]** 동기화에 추가할 필드에 대한 확인란을 선택하고 **[!UICONTROL 저장]**.
+1. 동기화에 추가할 필드에 대한 **[!UICONTROL 표시]** 확인란을 선택하고 **[!UICONTROL 저장]**&#x200B;을 클릭합니다.
 
    ![](assets/add-an-existing-salesforce-field-to-the-marketo-sync-6.png)
 

@@ -6,7 +6,7 @@ exl-id: 29df5688-d6f5-4a75-9a3e-fc68f0f2b45a
 feature: Marketo Sales Connect
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
-source-wordcount: '48'
+source-wordcount: '47'
 ht-degree: 0%
 
 ---
@@ -21,4 +21,4 @@ ht-degree: 0%
 
 1. 연결할 URL(예: &quot;https://www.mywebsite.com&quot;)을 입력합니다.
 
-1. 클릭 **확인**.
+1. **확인**&#x200B;을 클릭합니다.

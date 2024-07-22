@@ -19,11 +19,11 @@ ht-degree: 0%
 >
 >[개인 데이터 관리](/help/marketo/product-docs/web-personalization/using-web-segments/manage-person-data.md)
 
-1. 다음으로 이동 **세그먼트**.
+1. **세그먼트**(으)로 이동합니다.
 
    ![](assets/new-dropdown-segments-hand-2.jpg)
 
-1. 클릭 **새로 만들기**.
+1. **새로 만들기**&#x200B;를 클릭합니다.
 
    ![](assets/image2015-8-28-13-3a19-3a59.png)
 
@@ -31,7 +31,7 @@ ht-degree: 0%
 
    ![](assets/image2015-8-28-13-3a2-3a59.png)
 
-1. 프로필 세분화에서 을(를) 드래그합니다. **데이터베이스** 캔버스로 이동하십시오.
+1. 프로필 세분화에서 **데이터베이스**&#x200B;을(를) 캔버스로 드래그합니다.
 
    ![](assets/four-1.png)
 
@@ -49,7 +49,7 @@ ht-degree: 0%
 
 ## 여러 개인 데이터 필드 선택 {#selecting-multiple-person-data-fields}
 
-1. 클릭 **+** 다른 사용자 데이터 필드를 추가합니다.
+1. 다른 사용자 데이터 필드를 추가하려면 **+**&#x200B;을(를) 클릭하십시오.
 
    ![](assets/eight.png)
 
@@ -57,7 +57,7 @@ ht-degree: 0%
 
    ![](assets/nine.png)
 
-1. 클릭 **저장** 세그먼트를 저장하거나 **Campaign 저장 및 정의** 을 클릭하여 저장하고 캠페인 페이지로 이동합니다.
+1. 세그먼트를 저장하려면 **저장**&#x200B;을 클릭하고, 저장하고 캠페인 페이지로 이동하려면 **캠페인 저장 및 정의**&#x200B;를 클릭하십시오.
 
    ![](assets/image2014-11-19-19-3a48-3a20-1.png)
 

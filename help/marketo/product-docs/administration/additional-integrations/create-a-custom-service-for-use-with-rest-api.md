@@ -27,23 +27,23 @@ ReST API를 통해 Marketo과 통합하려면 사용자 지정 서비스를 만�
 
 >[!TIP]
 >
->에 대한 자세한 내용은 개발자 설명서를 참조하십시오. [나머지 API](https://developer.adobe.com/marketo-apis/). 다음 항목도 있습니다. [SOAP API](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/soap/soap-api) 그게 당신이 필요한 거라면
+>[REST API](https://developer.adobe.com/marketo-apis/)에 대한 자세한 내용은 개발자 설명서를 확인하십시오. 필요한 경우 [SOAP API](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/soap/soap-api)도 있습니다.
 
 ## 사용자 정의 서비스 만들기 {#create-custom-service}
 
-1. 로 이동 **[!UICONTROL 관리자]** 영역입니다.
+1. **[!UICONTROL 관리자]** 영역으로 이동합니다.
 
    ![](assets/create-a-custom-service-for-use-with-rest-api-1.png)
 
-1. 클릭 **시작 지점**.
+1. **LaunchPoint**&#x200B;을 클릭합니다.
 
    ![](assets/create-a-custom-service-for-use-with-rest-api-2.png)
 
-1. 선택 **[!UICONTROL 신규]** 그런 다음 **[!UICONTROL 새 서비스]**.
+1. **[!UICONTROL 새로 만들기]**&#x200B;를 선택한 다음 **[!UICONTROL 새 서비스]**&#x200B;를 선택하십시오.
 
    ![](assets/create-a-custom-service-for-use-with-rest-api-3.png)
 
-1. 입력 **[!UICONTROL 표시 이름]** 서비스를 위해. 다음 항목 선택 **[!UICONTROL API 전용 사용자]** [이전에 생성됨](/help/marketo/product-docs/administration/users-and-roles/create-an-api-only-user.md).
+1. 서비스에 대한 **[!UICONTROL 표시 이름]**&#x200B;을(를) 입력하십시오. **[!UICONTROL API 전용 사용자]** [이전에 만든](/help/marketo/product-docs/administration/users-and-roles/create-an-api-only-user.md)을(를) 선택하십시오.
 
    ![](assets/create-a-custom-service-for-use-with-rest-api-4.png)
 
@@ -51,7 +51,7 @@ ReST API를 통해 Marketo과 통합하려면 사용자 지정 서비스를 만�
    >
    >인기 웨비나 서비스에 대한 기본 통합이 이미 있습니다.
 
-1. 클릭 **[!UICONTROL 만들기]**.
+1. **[!UICONTROL 만들기]**&#x200B;를 클릭합니다.
 
    ![](assets/create-a-custom-service-for-use-with-rest-api-5.png)
 
@@ -59,23 +59,23 @@ ReST API를 통해 Marketo과 통합하려면 사용자 지정 서비스를 만�
 
 ## API 액세스용 자격 증명 {#credentials-for-api-access}
 
-1. 로 이동 **[!UICONTROL 관리자]** 영역입니다.
+1. **[!UICONTROL 관리자]** 영역으로 이동합니다.
 
    ![](assets/create-a-custom-service-for-use-with-rest-api-6.png)
 
-1. 클릭 **[!UICONTROL 시작 지점]**.
+1. **[!UICONTROL LaunchPoint]**&#x200B;을 클릭합니다.
 
    ![](assets/create-a-custom-service-for-use-with-rest-api-7.png)
 
-1. 클릭 **[!UICONTROL 세부 사항 보기]** 사용자 정의 [!UICONTROL 시작 지점] 위에서 서비스를 만들었습니다.
+1. 위에서 만든 사용자 지정 [!UICONTROL LaunchPoint] 서비스에 대해 **[!UICONTROL 세부 정보 보기]**&#x200B;를 클릭합니다.
 
    ![](assets/create-a-custom-service-for-use-with-rest-api-8.png)
 
-1. 클릭 **[!UICONTROL 토큰 가져오기]**.
+1. **[!UICONTROL 토큰 가져오기]**&#x200B;를 클릭합니다.
 
    ![](assets/create-a-custom-service-for-use-with-rest-api-9.png)
 
-1. 다음을 제공합니다 **[!UICONTROL 클라이언트 ID]**, **[!UICONTROL 클라이언트 암호]**, **[!UICONTROL 승인된 사용자]**, 및 **[!UICONTROL 토큰]** 연결을 설정하는 담당자에게 문의하십시오.
+1. 연결 설정 담당자에게 **[!UICONTROL 클라이언트 ID]**, **[!UICONTROL 클라이언트 암호]**, **[!UICONTROL 인증된 사용자]** 및 **[!UICONTROL 토큰]**&#x200B;을 제공하십시오.
 
    ![](assets/create-a-custom-service-for-use-with-rest-api-10.png)
 

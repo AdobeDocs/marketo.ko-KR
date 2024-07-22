@@ -17,7 +17,7 @@ Marketo의 사용자 지정 개체를 사용하여 비즈니스와 관련된 지
 
 >[!NOTE]
 >
->사용자 지정 개체가 일대다 또는 다대다 기준으로 작동하도록 설정할 수 있습니다. 초기 개체는 같은 방법으로 만들지만, 개체에 필드를 추가하기 시작할 때 단계가 달라집니다. 다음을 참조하십시오  [Marketo 사용자 지정 개체 이해](/help/marketo/product-docs/administration/marketo-custom-objects/understanding-marketo-custom-objects.md) 추가 정보.
+>사용자 지정 개체가 일대다 또는 다대다 기준으로 작동하도록 설정할 수 있습니다. 초기 개체는 같은 방법으로 만들지만, 개체에 필드를 추가하기 시작할 때 단계가 달라집니다. 자세한 내용은 [Marketo 사용자 지정 개체 이해](/help/marketo/product-docs/administration/marketo-custom-objects/understanding-marketo-custom-objects.md)를 참조하십시오.
 
 >[!NOTE]
 >
@@ -27,31 +27,31 @@ Marketo의 사용자 지정 개체를 사용하여 비즈니스와 관련된 지
 
 이 예에서는 일대다 구조에서 사용할 Car 사용자 지정 개체를 보여 줍니다. 나중에 다대다 구조에서 사용할 코스 사용자 지정 개체와 중간 개체를 만듭니다.
 
-1. 로 이동 **[!UICONTROL 관리자]** 영역입니다.
+1. **[!UICONTROL 관리자]** 영역으로 이동합니다.
 
    ![](assets/create-marketo-custom-objects-1.png)
 
-1. 클릭 **[!UICONTROL Marketo 사용자 지정 개체]**.
+1. **[!UICONTROL Marketo 사용자 지정 개체]**&#x200B;를 클릭합니다.
 
    ![](assets/create-marketo-custom-objects-2.png)
 
-1. 클릭 **[!UICONTROL 새 사용자 지정 개체]**.
+1. **[!UICONTROL 새 사용자 지정 개체]**&#x200B;를 클릭합니다.
 
    ![](assets/create-marketo-custom-objects-3.png)
 
    >[!NOTE]
    >
-   >다음 [!UICONTROL Marketo 사용자 지정 개체] 탭에는 오른쪽에 모든 사용자 지정 오브젝트가 표시되고, 가장 최근 업데이트에서 레코드 및 필드 수를 포함하여 승인된 오브젝트에 대한 세부 정보가 표시됩니다.
+   >[!UICONTROL Marketo 사용자 지정 개체] 탭에는 오른쪽에 모든 사용자 지정 개체가 표시되며, 가장 최근 업데이트에서 레코드 및 필드 수를 포함하여 승인된 개체의 세부 정보가 표시됩니다.
 
-1. 입력 [!UICONTROL 표시 이름]. 다음 [!UICONTROL API 이름] 및 [!UICONTROL 복수 이름] 자동으로 채웁니다. 입력 [!UICONTROL 설명] (선택 사항).
+1. [!UICONTROL 표시 이름]을 입력하십시오. [!UICONTROL API 이름] 및 [!UICONTROL Plural 이름]이(가) 자동으로 채워집니다. [!UICONTROL 설명](선택 사항)을 입력하십시오.
 
    ![](assets/create-marketo-custom-objects-4.png)
 
    >[!NOTE]
    >
-   >이러한 필드를 만들 때는 편집할 수 있지만 저장한 후에는 [!UICONTROL 복수 이름] 필드 및 **[!UICONTROL 잠재 고객 세부 정보에 표시]** 슬라이더.
+   >이러한 필드를 만들 때는 편집할 수 있지만 저장한 후에는 [!UICONTROL 복수 이름] 필드와 **[!UICONTROL 리드 세부 정보에 표시]** 슬라이더만 편집할 수 있습니다.
 
-1. 끌기 **[!UICONTROL 잠재 고객 세부 정보에 표시]** 표시할 슬라이더 **[!UICONTROL 표시]** 데이터베이스 페이지에서 사용자 지정 개체 데이터를 보려면 **[!UICONTROL 저장]**&#x200B;을 클릭합니다.
+1. 데이터베이스 페이지에서 사용자 지정 개체 데이터를 보려면 **[!UICONTROL 리드 세부 정보에 표시]** 슬라이더를 가져와서 **[!UICONTROL 표시]**&#x200B;를 표시합니다. **[!UICONTROL 저장]**&#x200B;을 클릭합니다.
 
    ![](assets/create-marketo-custom-objects-5.png)
 
@@ -59,11 +59,11 @@ Marketo의 사용자 지정 개체를 사용하여 비즈니스와 관련된 지
 
    ![](assets/create-marketo-custom-objects-6.png)
 
-   다음 단계는에 필드를 추가하는 것입니다. [사용자 지정 개체 작성](/help/marketo/product-docs/administration/marketo-custom-objects/add-marketo-custom-object-fields.md).
+   다음 단계는 [사용자 지정 개체를 빌드](/help/marketo/product-docs/administration/marketo-custom-objects/add-marketo-custom-object-fields.md)하는 데 필드를 추가하는 것입니다.
 
    >[!NOTE]
    >
-   >Marketo 목록 가져오기 또는 [API](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/rest/rest-api).
+   >목록 가져오기 또는 [API](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/rest/rest-api)를 통해서만 Marketo 사용자 지정 개체를 채울 수 있습니다.
 
 ## 다대다 구조에 대한 사용자 지정 개체 만들기 {#create-a-custom-object-for-a-many-to-many-structure}
 
@@ -73,27 +73,27 @@ Marketo의 사용자 지정 개체를 사용하여 비즈니스와 관련된 지
 >
 >다대다 관계의 경우 사용자 지정 개체에 링크를 만들 필요가 없습니다. 대신 중간 개체에 두 개의 링크를 추가합니다(아래 참조).
 
-1. 로 이동 **[!UICONTROL 관리자]** 영역입니다.
+1. **[!UICONTROL 관리자]** 영역으로 이동합니다.
 
    ![](assets/create-marketo-custom-objects-7.png)
 
-1. 클릭 **[!UICONTROL Marketo 사용자 지정 개체]**.
+1. **[!UICONTROL Marketo 사용자 지정 개체]**&#x200B;를 클릭합니다.
 
    ![](assets/create-marketo-custom-objects-8.png)
 
-1. 클릭 **[!UICONTROL 새 사용자 지정 개체]**.
+1. **[!UICONTROL 새 사용자 지정 개체]**&#x200B;를 클릭합니다.
 
    ![](assets/create-marketo-custom-objects-9.png)
 
-1. 입력 [!UICONTROL 표시 이름]. 다음 [!UICONTROL API 이름] 및 [!UICONTROL 복수 이름] 자동으로 채웁니다. 입력 [!UICONTROL 설명] (선택 사항).
+1. [!UICONTROL 표시 이름]을 입력하십시오. [!UICONTROL API 이름] 및 [!UICONTROL Plural 이름]이(가) 자동으로 채워집니다. [!UICONTROL 설명](선택 사항)을 입력하십시오.
 
    ![](assets/create-marketo-custom-objects-10.png)
 
    >[!NOTE]
    >
-   >이러한 필드를 만들 때는 편집할 수 있지만 저장한 후에는 [!UICONTROL 복수 이름] 필드 및 **[!UICONTROL 잠재 고객 세부 정보에 표시]** 슬라이더.
+   >이러한 필드를 만들 때는 편집할 수 있지만 저장한 후에는 [!UICONTROL 복수 이름] 필드와 **[!UICONTROL 리드 세부 정보에 표시]** 슬라이더만 편집할 수 있습니다.
 
-1. 끌기 **[!UICONTROL 잠재 고객 세부 정보에 표시]** 표시할 슬라이더 **[!UICONTROL 표시]** 데이터베이스 페이지에서 사용자 지정 개체 데이터를 보려면 **[!UICONTROL 저장]**&#x200B;을 클릭합니다.
+1. 데이터베이스 페이지에서 사용자 지정 개체 데이터를 보려면 **[!UICONTROL 리드 세부 정보에 표시]** 슬라이더를 가져와서 **[!UICONTROL 표시]**&#x200B;를 표시합니다. **[!UICONTROL 저장]**&#x200B;을 클릭합니다.
 
    ![](assets/create-marketo-custom-objects-11.png)
 
@@ -103,7 +103,7 @@ Marketo의 사용자 지정 개체를 사용하여 비즈니스와 관련된 지
 
    >[!NOTE]
    >
-   >Marketo 목록 가져오기 또는 [API](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/rest/rest-api).
+   >목록 가져오기 또는 [API](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/rest/rest-api)를 통해서만 Marketo 사용자 지정 개체를 채울 수 있습니다.
 
 다음 단계는 중간 개체를 만드는 것입니다(아래 참조). 그러나 그 전에 연결할 필드를 만들어야 합니다.
 
@@ -115,33 +115,33 @@ Marketo의 사용자 지정 개체를 사용하여 비즈니스와 관련된 지
 >
 >일대다 사용자 지정 개체 구조에 대해 중간 개체를 만들 필요가 없습니다.
 
-1. 로 이동 **[!UICONTROL 관리자]** 영역입니다.
+1. **[!UICONTROL 관리자]** 영역으로 이동합니다.
 
    ![](assets/create-marketo-custom-objects-13.png)
 
-1. 클릭 **[!UICONTROL Marketo 사용자 지정 개체]**.
+1. **[!UICONTROL Marketo 사용자 지정 개체]**&#x200B;를 클릭합니다.
 
    ![](assets/create-marketo-custom-objects-14.png)
 
-1. 클릭 **[!UICONTROL 새 사용자 지정 개체]**.
+1. **[!UICONTROL 새 사용자 지정 개체]**&#x200B;를 클릭합니다.
 
    ![](assets/create-marketo-custom-objects-15.png)
 
-1. 입력 [!UICONTROL 표시 이름]. 다음 [!UICONTROL API 이름] 및 [!UICONTROL 복수 이름] 자동으로 채웁니다. 입력 [!UICONTROL 설명] (선택 사항).
+1. [!UICONTROL 표시 이름]을 입력하십시오. [!UICONTROL API 이름] 및 [!UICONTROL Plural 이름]이(가) 자동으로 채워집니다. [!UICONTROL 설명](선택 사항)을 입력하십시오.
 
    ![](assets/create-marketo-custom-objects-16.png)
 
    >[!NOTE]
    >
-   >이러한 필드를 만들 때는 편집할 수 있지만 저장한 후에는 [!UICONTROL 복수 이름] 필드 및 [!UICONTROL 잠재 고객 세부 정보에 표시] 슬라이더.
+   >이러한 필드를 만들 때는 편집할 수 있지만 저장한 후에는 [!UICONTROL 복수 이름] 필드와 [!UICONTROL 리드 세부 정보에 표시] 슬라이더만 편집할 수 있습니다.
 
-1. 끌기 **[!UICONTROL 잠재 고객 세부 정보에 표시]** 표시할 슬라이더 **표시** 데이터베이스 페이지에서 사용자 지정 개체 데이터를 보려면 **저장**&#x200B;을 클릭합니다.
+1. 데이터베이스 페이지에서 사용자 지정 개체 데이터를 보려면 **[!UICONTROL 리드 세부 정보에 표시]** 슬라이더를 가져와서 **표시**&#x200B;를 표시합니다. **저장**&#x200B;을 클릭합니다.
 
    ![](assets/create-marketo-custom-objects-17.png)
 
 1. 사용자 지정 개체 정보는 입력한 내용을 표시합니다. 초안 상태입니다.
 
-   다음 단계는 다음을 수행하는 것입니다. [링크 필드 추가](/help/marketo/product-docs/administration/marketo-custom-objects/add-marketo-custom-object-link-fields.md) 중간 개체를 사용자/회사 및 사용자 지정 개체에 연결합니다.
+   다음 단계는 중개 개체를 사용자/회사 및 사용자 지정 개체에 연결하기 위해 [링크 필드를 추가](/help/marketo/product-docs/administration/marketo-custom-objects/add-marketo-custom-object-link-fields.md)하는 것입니다.
 
 >[!MORELIKETHIS]
 >

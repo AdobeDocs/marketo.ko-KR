@@ -13,9 +13,9 @@ ht-degree: 0%
 
 # 프로그램별로 프로그램 보고서 필터링 {#filter-a-program-report-by-program}
 
-포커스에 맞추기 [프로그램 성과 보고서](/help/marketo/product-docs/core-marketo-concepts/programs/program-performance-report/create-a-program-performance-report.md){target="_blank"} 특정 프로그램에서 성능을 비교할 수 있습니다.
+[프로그램 성과 보고서](/help/marketo/product-docs/core-marketo-concepts/programs/program-performance-report/create-a-program-performance-report.md){target="_blank"}를 특정 프로그램에 집중하여 성과를 비교합니다.
 
-1. 다음으로 이동 **[!UICONTROL 마케팅 활동]** (또는 **[!UICONTROL 분석]**).
+1. **[!UICONTROL 마케팅 활동]**(또는 **[!UICONTROL 분석]**)으로 이동합니다.
 
    ![](assets/login-marketing-activities-3.png)
 
@@ -23,7 +23,7 @@ ht-degree: 0%
 
    ![](assets/image2014-9-23-16-3a4-3a4.png)
 
-1. 다음을 클릭합니다. **[!UICONTROL 설정]** 탭하고 위로 드래그 **[!UICONTROL 프로그램]**.
+1. **[!UICONTROL 설정]** 탭을 클릭하고 **[!UICONTROL 프로그램]** 위로 끌어서 놓습니다.
 
    ![](assets/prospect3.jpg)
 
@@ -35,7 +35,7 @@ ht-degree: 0%
    >
    >폴더를 선택하면 보고서가 실행될 때 폴더에 포함된 모든 내용이 보고서에 포함됩니다.
 
-1. 그게 다야! 다음을 클릭합니다. **[!UICONTROL 보고서]** 탭으로 보기 _just_ 보고서에서 선택한 프로그램.
+1. 그게 다야! 보고서에서 선택한 프로그램을 _간단히_&#x200B;보려면 **[!UICONTROL 보고서]** 탭을 클릭하십시오.
 
    ![](assets/image2014-9-23-16-3a5-3a41.png)
 

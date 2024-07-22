@@ -17,18 +17,18 @@ ht-degree: 0%
 >
 >**관리자 권한 필요**
 
-더 이상 을 사용하지 않는 경우 이전에 만든 필드를 제거할 수 있습니다. 안타깝게도 Marketo에서는 필드를 삭제할 수 없지만 _can_ 사용자 인터페이스에서 숨깁니다.
+더 이상 을 사용하지 않는 경우 이전에 만든 필드를 제거할 수 있습니다. Marketo에서 필드를 삭제할 수 없지만 _할 수_ 사용자 인터페이스에서 해당 필드를 숨길 수 있습니다.
 
-1. 로 이동 **[!UICONTROL 관리자]** 영역입니다.
+1. **[!UICONTROL 관리자]** 영역으로 이동합니다.
 
    ![](assets/delete-a-custom-field-in-marketo-1.png)
 
-1. 클릭 **[!UICONTROL 필드 관리]**.
+1. **[!UICONTROL 필드 관리]**&#x200B;를 클릭합니다.
 
    ![](assets/delete-a-custom-field-in-marketo-2.png)
 
-1. 다음을 클릭합니다. **[!UICONTROL 필드 작업]** 드롭다운 및 선택 **[!UICONTROL 필드 숨기기]**.
+1. **[!UICONTROL 필드 작업]** 드롭다운을 클릭하고 **[!UICONTROL 필드 숨기기]**&#x200B;를 선택합니다.
 
    ![](assets/delete-a-custom-field-in-marketo-3.png)
 
-   자세한 단계별 지침은 다음을 참조하십시오. [필드 숨기기 및 숨기기 취소](/help/marketo/product-docs/administration/field-management/hide-and-unhide-a-field.md).
+   자세한 단계별 지침은 [필드 숨기기 및 나타내기](/help/marketo/product-docs/administration/field-management/hide-and-unhide-a-field.md)를 참조하십시오.

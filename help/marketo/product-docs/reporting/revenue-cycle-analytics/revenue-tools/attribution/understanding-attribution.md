@@ -6,7 +6,7 @@ exl-id: bf5f3d0f-809a-4fb1-835a-d87b733bd6c6
 feature: Reporting, Revenue Cycle Analytics
 source-git-commit: d20a9bb584f69282eefae3704ce4be2179b29d0b
 workflow-type: tm+mt
-source-wordcount: '208'
+source-wordcount: '212'
 ht-degree: 0%
 
 ---
@@ -23,11 +23,11 @@ ht-degree: 0%
 
 ## 첫 번째 터치(FT) 속성 {#first-touch-ft-attribution}
 
-FT(첫 번째 터치) 기여도 분석은 **간단한 비즈니스 질문**, &quot;수익성 있는 새 이름을 얻는 데 좋은 프로그램은 무엇입니까?&quot;
+FT(첫 번째 터치) 속성은 **간단한 비즈니스 질문**&#x200B;에 &quot;수익성 있는 새 이름을 얻는 데 좋은 프로그램이 무엇입니까?&quot;에 대한 답을 제공합니다.
 
 ## 다중 터치 속성 {#multi-touch-attribution}
 
-멀티 터치 답변: **복잡한 사업 문제**, &quot;시간이 지남에 따라 영업 주기에서 사람들을 앞으로 나아가게 하는 데 가장 영향력 있는 프로그램은 무엇입니까?&quot;
+Multi-Touch는 **복잡한 비즈니스 질문**&#x200B;에 &quot;시간이 지남에 따라 영업 주기를 진행하는 데 가장 영향력 있는 프로그램이 무엇입니까?&quot;라고 답합니다.
 
 ## 속성 규칙 {#rules-of-attribution}
 

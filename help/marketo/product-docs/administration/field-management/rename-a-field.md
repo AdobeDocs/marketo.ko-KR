@@ -21,11 +21,11 @@ ht-degree: 0%
 >
 >**관리자 권한 필요**
 
-1. 로 이동 **[!UICONTROL 관리자]** 영역입니다.
+1. **[!UICONTROL 관리자]** 영역으로 이동합니다.
 
    ![](assets/rename-a-field-1.png)
 
-1. 클릭 **[!UICONTROL 필드 관리]**.
+1. **[!UICONTROL 필드 관리]**&#x200B;를 클릭합니다.
 
    ![](assets/rename-a-field-2.png)
 
@@ -35,9 +35,9 @@ ht-degree: 0%
 
    >[!TIP]
    >
-   >다음을 클릭합니다. **[!UICONTROL 사용한 사람]** 링크를 클릭하여 이 필드를 참조하는 자산을 찾습니다.
+   >**[!UICONTROL 사용한 사람]** 링크를 클릭하여 이 필드를 참조하는 자산을 찾습니다.
 
-1. 필드 이름을 바꾸고 를 클릭합니다. **[!UICONTROL 저장]**.
+1. 필드 이름을 바꾸고 **[!UICONTROL 저장]**&#x200B;을 클릭합니다.
 
    ![](assets/rename-a-field-4.png)
 

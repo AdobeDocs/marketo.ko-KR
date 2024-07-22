@@ -6,14 +6,14 @@ exl-id: e45e2277-2d15-44fb-b48d-107e80f849b7
 feature: Landing Pages, Guided Landing Page Templates
 source-git-commit: d20a9bb584f69282eefae3704ce4be2179b29d0b
 workflow-type: tm+mt
-source-wordcount: '62'
+source-wordcount: '50'
 ht-degree: 0%
 
 ---
 
 # 템플릿 14E {#template-14e}
 
-마우스 오른쪽 버튼 클릭 [템플릿 14E 다운로드](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-14e.html)
+마우스 오른쪽 단추를 클릭하여 [템플릿 14E 다운로드](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-14e.html)
 
 ![](assets/image2015-8-13-10-3a48-3a0.png)
 
@@ -27,6 +27,6 @@ ht-degree: 0%
 * 5개의 본문 섹션(선택 사항)
 * 바닥글(선택 사항)
 
-**이 템플릿을 다운로드하려면 아래를 마우스 오른쪽 단추로 클릭하십시오.**
+**이 서식 파일을 다운로드하려면 아래를 마우스 오른쪽 단추로 클릭하세요.**
 
 [템플릿 14E.html](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-14e.html)

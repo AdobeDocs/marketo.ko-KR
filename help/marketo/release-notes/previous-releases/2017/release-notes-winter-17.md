@@ -21,7 +21,7 @@ ht-degree: 0%
 >
 >한 주제에 여러 하위 머리글이 있는 경우 링크가 배치됩니다.
 
-## [facebook 사용자 지정 대상에 대한 고급 일치](/help/marketo/product-docs/demand-generation/ad-network-integrations/add-facebook-custom-audiences-as-a-launchpoint-service.md) {#advanced-matching-for-facebook-custom-audiences}
+## [Facebook 사용자 지정 대상에 대한 고급 일치](/help/marketo/product-docs/demand-generation/ad-network-integrations/add-facebook-custom-audiences-as-a-launchpoint-service.md) {#advanced-matching-for-facebook-custom-audiences}
 
 기본 일치는 이메일 주소만 사용하지만 새 고급 일치는 7개의 필드를 추가로 사용하므로 더 많은 전환을 위해 일치율이 높아집니다.
 
@@ -31,7 +31,7 @@ ht-degree: 0%
 
 이 API는 사용자 지정 개체를 Marketo으로 동기화하는 더 빠른 인터페이스를 제공합니다. CSV, TSV 또는 SSV 스프레드시트 파일을 사용자 지정 개체로 Marketo에 가져올 수 있습니다.
 
-## [웹 개인화 캠페인 내보내기](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/export-web-campaign-data.md) {#web-personalization-campaigns-export}
+## [웹 Personalization 캠페인 내보내기](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/export-web-campaign-data.md) {#web-personalization-campaigns-export}
 
 모든 웹 캠페인 세부 정보 및 분석을 CSV 형식으로 내보냅니다. 그런 다음 데이터를 편리한 레이아웃으로 볼 수 있습니다.
 
@@ -39,13 +39,13 @@ ht-degree: 0%
 
 ## 로컬라이제이션 {#localization}
 
-웹 개인화, 예측 콘텐츠 및 이메일 통찰력 앱이 이제 일본어, 독일어 및 스페인어로 제공됩니다. 본인 [언어 및 로케일 선택](/help/marketo/product-docs/administration/settings/select-your-language-locale-and-time-zone.md) 을 클릭하여 해당 언어로 콘텐츠를 볼 수 있습니다.
+웹 Personalization, 예측 콘텐츠 및 이메일 통찰력 앱이 이제 일본어, 독일어 및 스페인어로 제공됩니다. 해당 언어로 콘텐츠를 보려면 [언어 및 로케일을 선택하십시오](/help/marketo/product-docs/administration/settings/select-your-language-locale-and-time-zone.md).
 
 ![](assets/japanese-web-personalization.png)
 
 ## 계정 기반 마케팅 개선 사항 {#account-based-marketing-enhancements}
 
-**[명명 계정 가져오기](/help/marketo/product-docs/target-account-management/target/named-accounts/import-named-accounts.md)**
+**[명명된 계정 가져오기](/help/marketo/product-docs/target-account-management/target/named-accounts/import-named-accounts.md)**
 
 명명된 계정 가져오기 옵션을 사용하여 CSV 업로드를 통해 한 번에 여러 레코드를 만들거나 업데이트합니다.
 
@@ -59,13 +59,13 @@ ht-degree: 0%
 
 ## 예측 콘텐츠 개선 사항 {#predictive-content-enhancements}
 
-**[활성화된 소스로 필터링](/help/marketo/product-docs/predictive-content/working-with-predictive-content/understanding-predictive-content.md)**
+**[활성화된 Source으로 필터링](/help/marketo/product-docs/predictive-content/working-with-predictive-content/understanding-predictive-content.md)**
 
 이메일, 리치 미디어 또는 권장 사항 표시줄에 대해 활성화된 예측 콘텐츠 조각을 필터링합니다.
 
 ![](assets/predictive-content-enabled-source.png)
 
-**[소스별 Analytics 필터링](/help/marketo/product-docs/predictive-content/working-with-predictive-content/understanding-predictive-content.md)**
+**[Source별로 Analytics 필터링](/help/marketo/product-docs/predictive-content/working-with-predictive-content/understanding-predictive-content.md)**
 
 이메일, 리치 미디어 또는 권장 사항 표시줄 등 특정 소스에 대한 예측 콘텐츠 분석을 필터링합니다.
 
@@ -77,7 +77,7 @@ ht-degree: 0%
 
 ![](assets/predictive-content-editor.png)
 
-**[예측을 위한 자동 검색 콘텐츠](/help/marketo/product-docs/predictive-content/getting-started/enable-content-discovery.md)**
+**[Predictive에 대한 자동 검색 콘텐츠](/help/marketo/product-docs/predictive-content/getting-started/enable-content-discovery.md)**
 
 이제 이미지 URL 및 메타데이터가 콘텐츠 자동 검색 프로세스에서 사용됩니다.
 
@@ -89,7 +89,7 @@ ht-degree: 0%
 
 새로운 필터 옵션 &quot;Vibes 목록 멤버&quot;로 타깃팅을 개선합니다.
 
-## [이전 리치 텍스트 편집기 및 양식 편집기 1.0 사용 중단](https://nation.marketo.com/docs/DOC-4315) {#legacy-rich-text-editor-and-form-editor-deprecation}
+## [기존 서식 있는 텍스트 편집기 및 양식 편집기 1.0 사용 중단](https://nation.marketo.com/docs/DOC-4315) {#legacy-rich-text-editor-and-form-editor-deprecation}
 
 2017년 8월 1일부터 기존 리치 텍스트 편집기 및 양식 편집기 1.0을 사용 중인 고객이 자동으로 새 경험으로 전환됩니다.
 

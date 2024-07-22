@@ -6,7 +6,7 @@ exl-id: 21c529d1-55b0-4529-ac0a-4dfb9d149686
 feature: Email Editor
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
-source-wordcount: '195'
+source-wordcount: '197'
 ht-degree: 0%
 
 ---
@@ -15,10 +15,10 @@ ht-degree: 0%
 
 Marketo의 이메일 헤더는 완전히 사용자 지정할 수 있습니다. 4개의 필드로 구성됩니다.
 
-* **출처:** - 표시하려는 발신자의 이름
-* **보낸 주소** - 표시하려는 발신자의 이메일 주소
-* **회신 대상** - 개인 회신을 보낼 이메일 주소(보낸 사람 주소와 다를 수 있음)
-* **제목** - 이메일의 제목 줄
+* **보낸 사람** - 표시하려는 보낸 사람의 이름
+* **보낸 사람 주소** - 표시할 보낸 사람의 전자 메일 주소입니다.
+* **회신 주소** - 회신을 보낼 전자 메일 주소입니다(보낸 사람 주소와 다를 수 있음).
+* **제목** - 전자 메일의 제목 줄
 
 이러한 값을 편집하려면 각 필드를 클릭하고 정보를 입력합니다.
 
@@ -26,7 +26,7 @@ Marketo의 이메일 헤더는 완전히 사용자 지정할 수 있습니다. 4
 
 >[!TIP]
 >
->기본 보낸 사람 이름 및 보낸 사람 이메일을 설정하려면 다음을 참조하십시오. [기본 보낸 사람 이메일 및 보낸 사람 레이블 변경](/help/marketo/product-docs/administration/email-setup/change-the-default-from-email-and-from-label.md).
+>[보낸 사람 이름] 및 [보낸 사람 전자 메일]의 기본값을 설정하려면 [기본 보낸 사람 전자 메일 및 [레이블에서 변경]을 참조하세요](/help/marketo/product-docs/administration/email-setup/change-the-default-from-email-and-from-label.md).
 
 토큰을 사용하려면 먼저 원하는 필드 내부를 클릭한 다음 토큰 아이콘을 클릭합니다.
 
@@ -50,4 +50,4 @@ Marketo의 이메일 헤더는 완전히 사용자 지정할 수 있습니다. 4
 
 >[!MORELIKETHIS]
 >
->[이메일 편집기 v2.0 개요](/help/marketo/product-docs/email-marketing/general/email-editor-2/email-editor-v2-0-overview.md)
+>[전자 메일 편집기 v2.0 개요](/help/marketo/product-docs/email-marketing/general/email-editor-2/email-editor-v2-0-overview.md)

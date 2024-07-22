@@ -6,7 +6,7 @@ exl-id: 88533588-77f2-465e-9644-a4f95b87f99d
 feature: Salesforce Integration
 source-git-commit: 4045f262889d06304111288d30da893529396e81
 workflow-type: tm+mt
-source-wordcount: '143'
+source-wordcount: '141'
 ht-degree: 0%
 
 ---
@@ -15,7 +15,7 @@ ht-degree: 0%
 
 Salesforce별 흐름 단계가 실행되면 경우에 따라 추가 단계가 자동으로 수행됩니다. 다음은 규칙이므로 다음을 알고 있습니다.
 
-이 규칙은 해당 사용자가 현재 다음 위치에 없는 경우에 적용됩니다. [Salesforce.com](https://Salesforce.com){target="_blank"} 연락처 또는 잠재 고객으로.
+이 규칙은 사용자가 현재 [Salesforce.com](https://Salesforce.com){target="_blank"}에 연락처 또는 잠재 고객으로 있지 않을 때 적용됩니다.
 
 <table> 
  <thead> 
@@ -48,6 +48,6 @@ Salesforce별 흐름 단계가 실행되면 경우에 따라 추가 단계가 �
  </tbody> 
 </table>
 
-다음을 사용하여 스마트 목록에서 SFDC 레코드를 필터링할 수 있습니다. **[!UICONTROL SFDC 유형]** 연산자가 &quot;비어 있지 않음&quot;으로 설정된 상태로 필터링합니다. 모든 SFDC 레코드는 이 필드에 값이 있습니다.
+연산자가 &quot;is not empty&quot;로 설정된 **[!UICONTROL SFDC Type]** 필터를 사용하여 스마트 목록에서 SFDC 레코드를 필터링할 수 있습니다. 모든 SFDC 레코드는 이 필드에 값이 있습니다.
 
-이러한 자동 작업은 잠재 고객이 현재 없는 경우에만 발생합니다. [Salesforce.com](https://salesforce.com){target="_blank"}
+이러한 자동 작업은 잠재 고객이 현재 [Salesforce.com](https://salesforce.com){target="_blank"}에 없는 경우에만 발생합니다

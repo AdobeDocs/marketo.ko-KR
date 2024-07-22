@@ -16,21 +16,21 @@ ht-degree: 0%
 
 ## 사용자 초대 {#invite-users}
 
-1. 톱니바퀴 아이콘을 클릭하고 **설정**.
+1. 톱니바퀴 아이콘을 클릭하고 **설정**&#x200B;을 선택합니다.
 
    ![](assets/invite-users-and-admins-1.png)
 
-1. 관리자 설정에서 을 선택합니다. **사용자 관리**.
+1. [관리 설정]에서 **사용자 관리**&#x200B;를 선택합니다.
 
    ![](assets/invite-users-and-admins-2.png)
 
-1. 다음을 클릭합니다. **작업** 단추 및 선택 **사용자 초대**.
+1. **작업** 단추를 클릭하고 **사용자 초대**&#x200B;를 선택합니다.
 
    ![](assets/invite-users-and-admins-3.png)
 
    >[!NOTE]
    >
-   >다음을 선택할 수도 있습니다. **CSV를 통해 사용자 초대** 스프레드시트에 모두 나열되어 있는 경우.
+   >스프레드시트에 모두 나열되어 있는 경우 **CSV로 사용자 초대**&#x200B;를 선택할 수도 있습니다.
 
 1. 추가하려는 개인의 이메일 주소를 입력합니다.
 
@@ -44,11 +44,11 @@ ht-degree: 0%
    >
    >[팀에 대해 자세히 알아보기](/help/marketo/product-docs/marketo-sales-insight/actions/admin/creating-a-team.md).
 
-1. 새 사용자를 추가할 Marketo 작업 영역을 선택합니다. 작업 영역이 하나만 있는 경우 &quot;기본값&quot;이 옵션으로 표시됩니다. 클릭 **초대**.
+1. 새 사용자를 추가할 Marketo 작업 영역을 선택합니다. 작업 영역이 하나만 있는 경우 &quot;기본값&quot;이 옵션으로 표시됩니다. **초대**&#x200B;를 클릭합니다.
 
    ![](assets/invite-users-and-admins-6.png)
 
-1. 클릭 **확인**.
+1. **확인**&#x200B;을 클릭합니다.
 
    ![](assets/invite-users-and-admins-7.png)
 
@@ -60,15 +60,15 @@ ht-degree: 0%
 
 기존 사용자를 관리자로 설정하려면 다음 단계를 따르십시오.
 
-1. 톱니바퀴 아이콘을 클릭하고 **설정**.
+1. 톱니바퀴 아이콘을 클릭하고 **설정**&#x200B;을 선택합니다.
 
    ![](assets/invite-users-and-admins-8.png)
 
-1. 관리자 설정에서 을 선택합니다. **사용자 관리**.
+1. [관리 설정]에서 **사용자 관리**&#x200B;를 선택합니다.
 
    ![](assets/invite-users-and-admins-9.png)
 
-1. 관리자로 지정할 사용자를 찾아 역할 드롭다운을 클릭한 다음 을 선택합니다 **관리자**.
+1. 관리자로 지정할 사용자를 찾아 역할 드롭다운을 클릭한 다음 **관리자**&#x200B;를 선택합니다.
 
    ![](assets/invite-users-and-admins-10.png)
 

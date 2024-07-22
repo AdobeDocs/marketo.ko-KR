@@ -16,7 +16,7 @@ ht-degree: 0%
 
 보트 활동을 확인하기 위해 두 가지 메서드를 사용합니다.
 
-* 다음과 일치 [Interactive Advertising Bureau 보트 목록](https://www.iab.com/guidelines/iab-abc-international-spiders-bots-list/){target="_blank"}: IAB UA/IP(사용자 에이전트/IP 주소) 목록의 항목과 일치하는 활동은 봇으로 표시됩니다.
+* [대화형 Advertising Bureau 보트 목록](https://www.iab.com/guidelines/iab-abc-international-spiders-bots-list/){target="_blank"}과 일치: IAB UA/IP(사용자 에이전트/IP 주소) 목록에 있는 모든 항목과 일치하는 활동이 보트로 표시됩니다.
 * 근접 패턴과 일치: 두 개 이상의 활동이 동시에 발생하는 경우(초 이내) 이 활동은 봇으로 식별됩니다. 비교 시 고려되는 속성은 다음과 같습니다.
    * 잠재 고객 ID(같아야 함)
    * 이메일 자산(동일해야 함)
@@ -31,35 +31,35 @@ ht-degree: 0%
 
 ## 필터 유형 선택 {#select-filter-type}
 
-1. 클릭 **[!UICONTROL 관리자]**.
+1. **[!UICONTROL 관리자]**&#x200B;를 클릭합니다.
 
    ![](assets/filtering-email-bot-activity-1.png)
 
-1. 클릭 **[!UICONTROL 이메일]**.
+1. **[!UICONTROL 전자 메일]**&#x200B;을 클릭하세요.
 
    ![](assets/filtering-email-bot-activity-2.png)
 
-1. 다음을 클릭합니다. **[!UICONTROL 보트 활동]** 탭.
+1. **[!UICONTROL 봇 활동]** 탭을 클릭합니다.
 
    ![](assets/filtering-email-bot-activity-3.png)
 
-1. 선택할 수 있는 두 가지 슬라이더가 있습니다. 하나 또는 둘 다 활성화할 수 있습니다. 을 활성화한 경우 **[!UICONTROL IAB 목록과 일치]**, 선택 [!UICONTROL 로그 보트 활동] _또는_ [!UICONTROL 보트 활동 필터링].
+1. 선택할 수 있는 두 가지 슬라이더가 있습니다. 하나 또는 둘 다 활성화할 수 있습니다. **[!UICONTROL IAB 목록과 일치]**&#x200B;을 사용하도록 설정하는 경우 [!UICONTROL 보트 활동을 기록] _할지_ [!UICONTROL 보트 활동을 필터링]할지 여부를 선택합니다.
 
    ![](assets/filtering-email-bot-activity-4.png)
 
-1. 을 활성화한 경우 **[!UICONTROL 근접 패턴과 일치]**, 선택 [!UICONTROL 로그 보트 활동] _또는_ [!UICONTROL 보트 활동 필터링]. 에 대한 시간(초)을 설정할 수도 있습니다. **활동 간 기간** (기본값은 0, 최대값은 3)입니다.
+1. **[!UICONTROL 근접 패턴과 일치]**&#x200B;를 사용하도록 설정하는 경우 [!UICONTROL 보트 활동을 기록] _할지_ [!UICONTROL 보트 활동을 필터링]할지 여부를 선택합니다. **활동 간 기간**&#x200B;에 대한 시간(초)을 설정할 수도 있습니다(기본값은 0, 최대값은 3).
 
    ![](assets/filtering-email-bot-activity-5.png)
 
 >[!NOTE]
 >
->포함 **활동 간 기간** 0초로 설정하면 정확히 같은 시간에 발생하는 이메일 활동을 식별합니다. 지정된 시간(초) 내에 여러 개의 이메일 활동이 발생하는 경우 봇 활동으로 식별됩니다.
+>**Duration Between Activities**&#x200B;이(가) 0초로 설정되면 정확히 같은 시간에 발생하는 전자 메일 활동을 식별하게 됩니다. 지정된 시간(초) 내에 여러 개의 이메일 활동이 발생하는 경우 봇 활동으로 식별됩니다.
 
 >[!IMPORTANT]
 >
->* 다음을 선택하는 경우 [!UICONTROL 보트 활동 필터링]에서 false 활동이 삭제되면 이메일이 열리고 클릭수가 줄어드는 것을 볼 수 있습니다.
+>* [!UICONTROL 보트 활동 필터링]을 선택하면 False 활동이 삭제되어 전자 메일이 열리고 클릭이 감소할 수 있습니다.
 
-**선택적 단계**: 두 기능 중 하나를 비활성화하려면 해당 슬라이더를 선택 취소하면 됩니다. 그렇게 하면 데이터가 재설정되지 않습니다.
+**선택적 단계**: 두 기능을 비활성화하려면 각 슬라이더를 선택 취소하면 됩니다. 그렇게 하면 데이터가 재설정되지 않습니다.
 
 >[!TIP]
 >

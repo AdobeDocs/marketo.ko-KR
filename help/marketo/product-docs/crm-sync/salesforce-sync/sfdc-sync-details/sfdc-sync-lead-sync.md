@@ -6,7 +6,7 @@ exl-id: cf38e091-7344-4b95-b9e1-77eda751c4a9
 feature: Salesforce Integration
 source-git-commit: 0087a5e88b8bd9601875f68a2e7cadeebdb5d682
 workflow-type: tm+mt
-source-wordcount: '238'
+source-wordcount: '239'
 ht-degree: 0%
 
 ---
@@ -25,11 +25,11 @@ Marketo이 우승했습니다. 이런 종류의 데이터 충돌이 발생하는
 
 ## Marketo을 사용하여 Salesforce에서 잠재 고객을 만들 수 있습니까? {#can-i-create-a-lead-in-salesforce-using-marketo}
 
-예, 다음을 사용합니다. [사용자를 SFDC에 동기화](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/salesforce-flow-actions/sync-person-to-sfdc.md){target="_blank"} 흐름 작업. 잠재 고객이 없는 경우 Salesforce에 잠재 고객이 생성됩니다.
+예. [SFDC에 사용자 동기화](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/salesforce-flow-actions/sync-person-to-sfdc.md){target="_blank"} 흐름 작업을 사용하십시오. 잠재 고객이 없는 경우 Salesforce에 잠재 고객이 생성됩니다.
 
 ## Marketo에 있는 사람의 동기화를 Salesforce의 리드에 수동으로 강제할 수 있습니까? {#can-i-manually-force-a-sync-of-a-person-in-marketo-to-a-lead-in-salesforce}
 
-예, 다음을 사용합니다. [사용자를 SFDC에 동기화](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/salesforce-flow-actions/sync-person-to-sfdc.md){target="_blank"} 플로우 액션과 실시간 동기화가 수행됩니다.
+예. [SFDC에 사용자 동기화](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/salesforce-flow-actions/sync-person-to-sfdc.md){target="_blank"} 흐름 동작을 사용하면 실시간으로 동기화됩니다.
 
 ## 모든 단일 표준 필드가 Marketo에 동기화됩니까? {#does-every-single-standard-field-sync-to-marketo}
 
@@ -41,4 +41,4 @@ Marketo이 우승했습니다. 이런 종류의 데이터 충돌이 발생하는
 
 ## Marketo은 Salesforce 유효성 검사 규칙을 준수합니까? {#will-marketo-respect-the-salesforce-validation-rules}
 
-네. 데이터 형식이 잘못되었거나 필수 필드 정보가 누락된 경우 동기화가 실패합니다. 이런 경우 Marketo은 리드 활동 로그에 결과를 기록합니다.
+예. 데이터 형식이 잘못되었거나 필수 필드 정보가 누락된 경우 동기화가 실패합니다. 이런 경우 Marketo은 리드 활동 로그에 결과를 기록합니다.

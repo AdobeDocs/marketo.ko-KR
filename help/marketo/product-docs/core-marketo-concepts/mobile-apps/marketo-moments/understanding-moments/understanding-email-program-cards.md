@@ -6,7 +6,7 @@ exl-id: c9de8334-4c42-44e4-aa73-9e82f25e5f00
 feature: Mobile Marketing
 source-git-commit: 0abb315be0f9cb5f42fa41d72b446de8c2f62c1e
 workflow-type: tm+mt
-source-wordcount: '364'
+source-wordcount: '356'
 ht-degree: 0%
 
 ---
@@ -41,11 +41,11 @@ Marketo 모먼트 를 사용하여 휴대폰 또는 iPad에서 이메일 프로�
 
    ![](assets/image2015-7-16-17-3a6-3a16.png)
 
-1. 누르기 **[!UICONTROL 확인]**.
+1. **[!UICONTROL 확인]**&#x200B;을 누릅니다.
 
    ![](assets/image2015-7-16-17-3a8-3a34.png)
 
-1. 누르기 **[!UICONTROL 확인]** 작업을 마치려면 또는 **[!UICONTROL 신경 쓰지 마세요]** 다시 생각해 보셨다면
+1. 작업을 완료하려면 **[!UICONTROL 확인]**&#x200B;을 탭하거나, 다른 생각이 있는 경우 **[!UICONTROL 신경 쓰지 않음]**&#x200B;을 탭하세요.
 
    ![](assets/image2015-7-16-17-3a12-3a18.png)
 
@@ -59,7 +59,7 @@ Marketo 모먼트 를 사용하여 휴대폰 또는 iPad에서 이메일 프로�
 
    ![](assets/image2015-7-17-9-3a50-3a49.png)
 
-1. 누르기 **[!UICONTROL 전송 취소]**.
+1. **[!UICONTROL 보내기 취소]**&#x200B;를 탭합니다.
 
    ![](assets/image2015-7-17-9-3a52-3a54.png)
 
@@ -75,11 +75,11 @@ Marketo 모먼트 를 사용하여 휴대폰 또는 iPad에서 이메일 프로�
 
    ![](assets/image2015-7-17-9-3a58-3a44.png)
 
-1. 누르기 **[!UICONTROL 일정 조정]**.
+1. **[!UICONTROL 다시 예약]**&#x200B;을 누릅니다.
 
    ![](assets/image2015-7-17-10-3a0-3a32.png)
 
-1. 달력에서 날짜를 선택하고 을 누릅니다. **[!UICONTROL 일정 조정]**.
+1. 캘린더에서 날짜를 선택하고 **[!UICONTROL 다시 예약]**&#x200B;을 탭하세요.
 
    ![](assets/image2015-7-17-10-3a5-3a55.png)
 
@@ -93,11 +93,11 @@ Marketo 모먼트 를 사용하여 휴대폰 또는 iPad에서 이메일 프로�
 
    ![](assets/image2015-7-14-16-3a44-3a7.png)
 
-1. 누르기 **[!UICONTROL 샘플 보내기]**.
+1. **[!UICONTROL 샘플 보내기]**&#x200B;를 탭합니다.
 
    ![](assets/image2015-7-14-16-3a40-3a54.png)
 
-1. 이메일 주소를 입력하고 클릭 **[!UICONTROL 샘플 보내기]**.
+1. 전자 메일 주소를 입력하고 **[!UICONTROL 샘플 보내기]**&#x200B;를 클릭하세요.
 
    ![](assets/image2015-7-14-17-3a2-3a32.png)
 
@@ -105,7 +105,7 @@ Marketo 모먼트 를 사용하여 휴대폰 또는 iPad에서 이메일 프로�
 
 이메일 카드를 마우스 오른쪽 단추로 클릭하여 미리 봅니다.
 
-1. 누르기 **[!UICONTROL 이메일 미리 보기]**.
+1. **[!UICONTROL 전자 메일 미리 보기]**&#x200B;를 탭합니다.
 
    ![](assets/image2015-7-14-16-3a42-3a21.png)
 

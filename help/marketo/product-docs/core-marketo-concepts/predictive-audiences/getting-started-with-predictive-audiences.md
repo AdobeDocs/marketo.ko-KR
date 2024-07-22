@@ -5,7 +5,7 @@ exl-id: d4780837-4cab-49b8-9aa4-61e6d4c43e8b
 feature: Predictive Audiences
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
-source-wordcount: '223'
+source-wordcount: '224'
 ht-degree: 0%
 
 ---
@@ -28,10 +28,10 @@ PA에는 다음 기능이 포함되어 있습니다.
 
 AI/ML 모델의 성능은 구독의 데이터에 의존합니다. 모델을 자주 사용할수록 특정 구독 데이터와 비즈니스에 더 많은 조정이 적용됩니다.
 
-## 사용 가능
+## 가용성
 
 Predictive Audiences는 Prime 또는 Ultimate 가격 책정 번들을 활용하는 인스턴스에 대해 자동으로 포함되고 활성화됩니다. 이 기능에 액세스하는 방법에 대한 자세한 내용은 Adobe 계정 팀(계정 관리자)에 문의하십시오.
 
-1. 기능이 인스턴스에 추가되면 다음으로 이동합니다. **[!UICONTROL Predictive Audiences]** 페이지의 **[!UICONTROL 관리자]** Marketo 지역.
+1. 기능이 인스턴스에 추가되면 Marketo의 **[!UICONTROL 관리]** 영역에서 **[!UICONTROL 예측 대상]** 페이지로 이동합니다.
 
-1. 확인 **[!UICONTROL Predictive Audiences 활성화]** 를 클릭하여 피쳐를 활성화합니다. 모든 프로세스가 설정을 완료하는 데 최대 24시간이 소요될 수 있습니다.
+1. 기능을 활성화하려면 **[!UICONTROL Predictive Audiences 활성화]**&#x200B;를 선택하십시오. 모든 프로세스가 설정을 완료하는 데 최대 24시간이 소요될 수 있습니다.

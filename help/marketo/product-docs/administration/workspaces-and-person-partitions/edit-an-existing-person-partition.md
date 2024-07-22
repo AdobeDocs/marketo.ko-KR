@@ -23,19 +23,19 @@ ht-degree: 0%
 >
 >[개인 파티션 만들기](/help/marketo/product-docs/administration/workspaces-and-person-partitions/create-a-person-partition.md){target="_blank"}
 
-1. 로 이동 **[!UICONTROL 관리자]** 영역입니다.
+1. **[!UICONTROL 관리자]** 영역으로 이동합니다.
 
    ![](assets/edit-an-existing-person-partition-1.png)
 
-1. 클릭 **[!UICONTROL 작업 공간 및 파티션]**.
+1. **[!UICONTROL 작업 공간 및 파티션]**&#x200B;을 클릭합니다.
 
    ![](assets/edit-an-existing-person-partition-2.png)
 
-1. 아래 **[!UICONTROL 개인 파티션]** 탭에서 편집할 개인 파티션을 선택하고 을 클릭합니다 **[!UICONTROL 개인 파티션 편집]**.
+1. **[!UICONTROL 개인 파티션]** 탭에서 편집할 개인 파티션을 선택하고 **[!UICONTROL 개인 파티션 편집]**&#x200B;을 클릭합니다.
 
    ![](assets/edit-an-existing-person-partition-3.png)
 
-1. 개인 파티션 입력 **[!UICONTROL 이름]**, **[!UICONTROL 작업 공간]** 해당 사용자가에 속해 있으며 **[!UICONTROL 저장]**.
+1. 개인 파티션 **[!UICONTROL 이름]**, 해당 파티션이 속한 **[!UICONTROL 작업 공간]**&#x200B;을(를) 입력하고 **[!UICONTROL 저장]**&#x200B;을(를) 클릭합니다.
 
    ![](assets/edit-an-existing-person-partition-4.png)
 

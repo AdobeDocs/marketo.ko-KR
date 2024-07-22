@@ -12,19 +12,19 @@ ht-degree: 0%
 
 # 폴더 이해 {#understanding-folders}
 
-프로그램 내의 폴더를 사용하여 스마트 캠페인과 자산을 구성할 수 있습니다. 다음과다릅니다. [캠페인 폴더](/help/marketo/product-docs/core-marketo-concepts/miscellaneous/create-new-campaign-folder.md).
+프로그램 내의 폴더를 사용하여 스마트 캠페인과 자산을 구성할 수 있습니다. [캠페인 폴더](/help/marketo/product-docs/core-marketo-concepts/miscellaneous/create-new-campaign-folder.md)와(과) 다릅니다.
 
 ## 폴더 만들기 {#create-a-folder}
 
-1. 로 이동 **[!UICONTROL 마케팅 활동]** 영역입니다.
+1. **[!UICONTROL 마케팅 활동]** 영역으로 이동합니다.
 
    ![](assets/ma.png)
 
-1. 프로그램을 마우스 오른쪽 단추로 클릭하고 를 선택합니다. **[!UICONTROL 새 폴더]**.
+1. 프로그램을 마우스 오른쪽 단추로 클릭하고 **[!UICONTROL 새 폴더]**&#x200B;를 선택합니다.
 
    ![](assets/image2015-4-20-18-3a45-3a14.png)
 
-1. 새 폴더 이름을 지정하고 키를 누릅니다 **[!UICONTROL 입력]**.
+1. 새 폴더 이름을 지정하고 **[!UICONTROL Enter]**&#x200B;를 누릅니다.
 
    ![](assets/image2015-4-20-18-3a46-3a57.png)
 
@@ -34,11 +34,11 @@ ht-degree: 0%
 
 마음을 바꾸셔도 괜찮습니다.
 
-1. 폴더를 마우스 오른쪽 단추로 클릭하고 **[!UICONTROL 폴더 이름 바꾸기]**.
+1. 폴더를 마우스 오른쪽 단추로 클릭하고 **[!UICONTROL 폴더 이름 바꾸기]**&#x200B;를 선택합니다.
 
    ![](assets/image2015-4-20-18-3a49-3a10.png)
 
-1. 새 이름을 입력하고 키를 누릅니다 **[!UICONTROL 입력]**.
+1. 새 이름을 입력하고 **[!UICONTROL Enter]**&#x200B;를 누르십시오.
 
    ![](assets/image2015-4-20-18-3a52-3a30.png)
 
@@ -48,7 +48,7 @@ ht-degree: 0%
 >
 >삭제하기 전에 폴더가 비어 있는지 확인하십시오.
 
-1. 폴더를 마우스 오른쪽 단추로 클릭하고 **[!UICONTROL 폴더 삭제]**.
+1. 폴더를 마우스 오른쪽 단추로 클릭하고 **[!UICONTROL 폴더 삭제]**&#x200B;를 선택합니다.
 
    ![](assets/image2015-4-20-18-3a55-3a51.png)
 
@@ -65,7 +65,7 @@ Marketo에서는 기존 폴더를 보관 폴더로 변환할 수 있습니다. �
 * Design Studio에서 이메일 또는 랜딩 페이지를 만들 때 보관된 템플릿을 사용할 수 없습니다.
 * 보관된 페이지는 랜딩 페이지 테스트 그룹에서 사용할 수 없습니다.
 
-다음 작업을 수행하는 기능 **아님** 보관 시 변경 사항:
+보관 시 **변경되지** 않는 기능:
 
 * 글로벌 검색은 보관된 폴더에서 결과를 계속 찾음
 * 사용 중인 자산은 보관된 후에도 계속 작동합니다

@@ -15,15 +15,15 @@ ht-degree: 0%
 
 수익 주기 탐색기 보고서에서 업데이트를 수신하고 공유하려면 기존 보고서에 이메일 주소를 구독하면 됩니다.
 
-1. 다음으로 이동 **분석** 및 선택 **신규** > **새 보고서 구독**.
+1. **Analytics**(으)로 이동하여 **새로 만들기** > **새 보고서 구독**&#x200B;을(를) 선택합니다.
 
    ![](assets/image2014-9-17-12-3a40-3a46.png)
 
    >[!NOTE]
    >
-   >프로그램에서 생성한 기본 보고서를 구독하려면 다음을 참조하십시오. [기본 보고서 구독](/help/marketo/product-docs/reporting/basic-reporting/report-subscriptions/subscribe-to-a-basic-report.md).
+   >프로그램에서 만든 기본 보고서를 구독하려면 [기본 보고서 구독](/help/marketo/product-docs/reporting/basic-reporting/report-subscriptions/subscribe-to-a-basic-report.md)을 참조하세요.
 
-1. 보고서 소스의 경우 다음을 선택합니다 **매출 탐색기**.
+1. Report Source의 경우 **수익 탐색기**&#x200B;를 선택합니다.
 
    ![](assets/image2014-9-17-12-3a42-3a15.png)
 
@@ -45,4 +45,4 @@ ht-degree: 0%
 
 >[!MORELIKETHIS]
 >
->방법 알아보기 [모든 보고서 구독 관리](/help/marketo/product-docs/reporting/basic-reporting/report-subscriptions/manage-report-subscriptions.md) 한 곳에.
+>한 곳에서 [모든 보고서 구독을 관리](/help/marketo/product-docs/reporting/basic-reporting/report-subscriptions/manage-report-subscriptions.md)하는 방법을 알아보세요.

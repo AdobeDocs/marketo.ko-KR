@@ -17,28 +17,28 @@ ht-degree: 2%
 
 >[!CAUTION]
 >
->다음 필드는 다음과 같아야 합니다 **아님** 계정 프로파일링이 제대로 작동하려면 를 숨깁니다.
+>계정 프로파일링이 제대로 작동하려면 다음 필드를 **not**&#x200B;해야 합니다.
 >
 >* 웹 사이트
 >* 회사
 >* 이메일
 >* 국가
 >
->방법 알아보기 [여기에서 필드 숨기기 취소](/help/marketo/product-docs/administration/field-management/hide-and-unhide-a-field.md#unhide-a-field).
+>여기에서 [필드 숨김을 취소](/help/marketo/product-docs/administration/field-management/hide-and-unhide-a-field.md#unhide-a-field)하는 방법을 알아보세요.
 
-1. 내 Marketo에서 을 엽니다. **Target 계정 관리**.
+1. 내 Marketo에서 **Target 계정 관리**&#x200B;를 엽니다.
 
    ![](assets/setting-up-account-profiling-1.png)
 
-1. 다음을 클릭합니다. **계정 프로파일링** 탭.
+1. **계정 프로파일링** 탭을 클릭합니다.
 
    ![](assets/two-1.png)
 
-1. 기본적으로 모델(Model) 탭이 열립니다. 클릭 **시작**.
+1. 기본적으로 모델(Model) 탭이 열립니다. **시작하기**&#x200B;를 클릭합니다.
 
    ![](assets/three.png)
 
-1. 모델의 이름을 지정하고 이상적인 고객 프로필(ICP)의 기반으로 사용할 사람의 목록 유형/목록을 선택하십시오. 클릭 **모델 만들기** 완료 시.
+1. 모델의 이름을 지정하고 이상적인 고객 프로필(ICP)의 기반으로 사용할 사람의 목록 유형/목록을 선택하십시오. 완료되면 **모델 만들기**&#x200B;를 클릭합니다.
 
    ![](assets/setting-up-account-profiling-4.png)
 
@@ -46,7 +46,7 @@ ht-degree: 2%
 
    ![](assets/five.png)
 
-1. 모델의 결과를 보려면 **모델 결과 보기**.
+1. 모델의 결과를 보려면 **모델 결과 보기**&#x200B;를 클릭하십시오.
 
    ![](assets/six.png)
 
@@ -56,4 +56,4 @@ ht-degree: 2%
 
    >[!TIP]
    >
-   >모델이 만들어졌으니, [조정 방법 알아보기](/help/marketo/product-docs/target-account-management/account-profiling/account-profiling-ranking-and-tuning.md).
+   >모델이 만들어졌으므로 [조정하는 방법을 알아보세요](/help/marketo/product-docs/target-account-management/account-profiling/account-profiling-ranking-and-tuning.md).

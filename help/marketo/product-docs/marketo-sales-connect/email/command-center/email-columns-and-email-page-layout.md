@@ -40,7 +40,7 @@ ht-degree: 2%
    <td>Sales Connect 담당자의 기본 이메일 주소.</td> 
   </tr> 
   <tr> 
-   <td>캠페인</td> 
+   <td>Campaign</td> 
    <td>이메일이 캠페인의 일부로 전송된 경우 캠페인 이름이 표시됩니다. 이 필드를 클릭하면 해당 캠페인의 설정 페이지로 이동합니다.</td> 
   </tr> 
   <tr> 
@@ -122,7 +122,7 @@ ht-degree: 2%
 
    ![](assets/email-columns-and-email-grid-layout-1.png)
 
-1. 다음 항목 선택 **이메일** 섹션.
+1. **전자 메일** 섹션을 선택하십시오.
 
    ![](assets/email-columns-and-email-grid-layout-2.png)
 

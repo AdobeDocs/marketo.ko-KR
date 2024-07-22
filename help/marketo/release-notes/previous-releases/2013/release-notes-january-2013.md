@@ -6,18 +6,18 @@ exl-id: 1bdc15f4-eb86-4e29-948a-0823a583ee86
 feature: Release Information
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
-source-wordcount: '317'
+source-wordcount: '321'
 ht-degree: 0%
 
 ---
 
 # 릴리스 노트: 2013년 1월 {#release-notes-january}
 
-1월 릴리스는 을 통해 소셜 오퍼링을 확장합니다. **추천 오퍼**. 또한 Marketo 리드 관리 사용자는 시간대, 언어 및 로케일 환경 설정을 지정할 수 있습니다. 이(가) (으)로 표시된 기능에 유의하십시오. &#42; 에디션 선택에서만 사용할 수 있습니다.
+1월 릴리스는 **추천 오퍼**&#x200B;로 소셜 오퍼를 확장합니다. 또한 Marketo 리드 관리 사용자는 시간대, 언어 및 로케일 환경 설정을 지정할 수 있습니다. &#42;(으)로 표시된 기능은 Select Edition에서만 사용할 수 있습니다.
 
 ## 추천 오퍼 {#referral-offers}
 
-A **참조 오퍼** 당신의 리드가 그들의 친구를 추천할 수 있는 인센티브를 준다. 성공적인 추천을 위한 목표 및 보상을 만듭니다. 랜딩 페이지, 웹 사이트 및 Facebook에서 사용할 수 있습니다.
+**추천 제안**&#x200B;은(는) 잠재 고객에게 친구를 추천할 수 있는 인센티브를 제공합니다. 성공적인 추천을 위한 목표 및 보상을 만듭니다. 랜딩 페이지, 웹 사이트 및 Facebook에서 사용할 수 있습니다.
 
 ![](assets/image2014-9-22-15-3a20-3a13.png)
 

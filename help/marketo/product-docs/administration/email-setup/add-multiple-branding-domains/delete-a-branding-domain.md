@@ -13,15 +13,15 @@ ht-degree: 0%
 
 # 브랜딩 도메인 삭제 {#delete-a-branding-domain}
 
-1. 로 이동 **[!UICONTROL 관리자]** 영역입니다.
+1. **[!UICONTROL 관리자]** 영역으로 이동합니다.
 
    ![](assets/delete-a-branding-domain-1.png)
 
-1. 클릭 **[!UICONTROL 이메일]**.
+1. **[!UICONTROL 전자 메일]**&#x200B;을 클릭하세요.
 
    ![](assets/delete-a-branding-domain-2.png)
 
-1. 브랜딩 도메인 테이블에서 제거할 도메인을 선택하고 을 클릭합니다 **[!UICONTROL 삭제]**.
+1. 브랜딩 도메인 테이블에서 제거할 도메인을 선택하고 **[!UICONTROL 삭제]**&#x200B;를 클릭합니다.
 
    ![](assets/delete-a-branding-domain-3.png)
 

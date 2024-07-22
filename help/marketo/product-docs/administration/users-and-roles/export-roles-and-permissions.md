@@ -18,15 +18,15 @@ ht-degree: 0%
 >
 >관리자 권한 필요
 
-1. 로 이동 **[!UICONTROL 관리자]** 영역입니다.
+1. **[!UICONTROL 관리자]** 영역으로 이동합니다.
 
    ![](assets/export-roles-and-permissions-1.png)
 
-1. 선택 **[!UICONTROL 사용자 및 역할]**.
+1. **[!UICONTROL 사용자 및 역할]**&#x200B;을(를) 선택하십시오.
 
    ![](assets/export-roles-and-permissions-2.png)
 
-1. 다음을 클릭합니다. **[!UICONTROL 역할]** 탭.
+1. **[!UICONTROL 역할]** 탭을 클릭합니다.
 
    ![](assets/export-roles-and-permissions-3.png)
 

@@ -22,13 +22,13 @@ ht-degree: 0%
 >[!PREREQUISITES]
 >
 >* [프로그램 만들기](/help/marketo/product-docs/core-marketo-concepts/programs/creating-programs/create-a-program.md)
->* [이메일 만들기](/help/marketo/product-docs/email-marketing/general/creating-an-email/create-an-email.md)
+>* [전자 메일 만들기](/help/marketo/product-docs/email-marketing/general/creating-an-email/create-an-email.md)
 
 >[!CAUTION]
 >
->챔피언/챌린저 이메일은 트리거 캠페인 및 참여 프로그램 스트림에서만 작동합니다. 일괄 발송의 경우 다음 이메일 프로그램을 사용하십시오. [A/B 테스트 기능](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/email-test-a-b-test/add-an-a-b-test.md).
+>챔피언/챌린저 이메일은 트리거 캠페인 및 참여 프로그램 스트림에서만 작동합니다. 일괄 메일링의 경우 이메일 프로그램의 [A/B 테스트 기능](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/email-test-a-b-test/add-an-a-b-test.md)을(를) 사용하십시오.
 
-1. 다음으로 이동 **마케팅 활동**.
+1. **마케팅 활동**(으)로 이동합니다.
 
    ![](assets/login-marketing-activities.png)
 
@@ -38,9 +38,9 @@ ht-degree: 0%
 
    >[!NOTE]
    >
-   >일회성 메일 전송에서 자세히 알아보기 [이메일 프로그램](/help/marketo/product-docs/email-marketing/email-programs/creating-an-email-program/create-an-email-program.md).
+   >일회성 메일 전송의 경우 [메일 프로그램](/help/marketo/product-docs/email-marketing/email-programs/creating-an-email-program/create-an-email-program.md)에 대해 자세히 알아보세요.
 
-1. 아래 **이메일 작업**, 클릭 **새 테스트**.
+1. **전자 메일 동작**&#x200B;에서 **새 테스트**&#x200B;를 클릭합니다.
 
    ![](assets/chmapion2.jpg)
 
@@ -48,6 +48,6 @@ ht-degree: 0%
 
    >[!MORELIKETHIS]
    >
-   >* [챔피언/챌린저: 전체 이메일](/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/email-tests-champion-challenger/champion-challenger-whole-emails.md)
-   >* [챔피언/챌린저: 제목 줄](/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/email-tests-champion-challenger/champion-challenger-subject-line.md)
-   >* [챔피언/챌린저: 보내는 주소](/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/email-tests-champion-challenger/champion-challenger-from-address.md)
+   >* [챔피언/도전자: 전체 이메일](/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/email-tests-champion-challenger/champion-challenger-whole-emails.md)
+   >* [챔피언/도전자: 제목 줄](/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/email-tests-champion-challenger/champion-challenger-subject-line.md)
+   >* [챔피언/챌린저: 보낸 주소](/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/email-tests-champion-challenger/champion-challenger-from-address.md)

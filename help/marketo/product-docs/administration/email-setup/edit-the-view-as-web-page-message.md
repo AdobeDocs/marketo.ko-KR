@@ -13,7 +13,7 @@ ht-degree: 0%
 
 # &quot;웹 페이지로 보기&quot; 메시지 편집 {#edit-the-view-as-web-page-message}
 
-를 편집해야 하는 경우[웹 페이지로 보기](/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/add-a-view-as-web-page-link-to-an-email.md)&quot; 텍스트, 방법은 다음과 같습니다.
+&quot;[웹 페이지로 보기](/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/add-a-view-as-web-page-link-to-an-email.md)&quot; 텍스트를 편집해야 하는 경우 방법은 다음과 같습니다.
 
 >[!NOTE]
 >
@@ -21,11 +21,11 @@ ht-degree: 0%
 
 ## &quot;웹 페이지로 보기&quot; 메시지 편집 {#edit-the-view-as-web-page-message-1}
 
-1. 로 이동 **[!UICONTROL 관리자]** 영역입니다.
+1. **[!UICONTROL 관리자]** 영역으로 이동합니다.
 
    ![](assets/edit-the-view-as-web-page-message-1.png)
 
-1. 클릭 **[!UICONTROL 이메일]**.
+1. **[!UICONTROL 전자 메일]**&#x200B;을 클릭하세요.
 
    ![](assets/edit-the-view-as-web-page-message-2.png)
 
@@ -35,9 +35,9 @@ ht-degree: 0%
    >
    >`%mkt_webview_url%?mkt_tok=##MKT_TOK##`
    >
-   >두 번째 부분 `##MKT_TOK##` 은(는) [!UICONTROL 먼치킨] 쿠키를 가져왔습니다 링크를 클릭할 때 쿠키가 적절히 요리되도록 해줍니다.
+   >두 번째 부분 `##MKT_TOK##`은(는) 해당 사용자의 [!UICONTROL munchkin] 쿠키입니다. 링크를 클릭할 때 쿠키가 적절히 요리되도록 해줍니다.
 
-1. 편집 **[!UICONTROL 웹 페이지로 보기 HTML]** 및 **[!UICONTROL 웹 페이지 텍스트로 보기]** 원하는 버전 및 클릭 **[!UICONTROL 변경 내용 저장]**.
+1. HTML **[!UICONTROL 웹 페이지로 보기]** 및 **[!UICONTROL 웹 페이지로 보기]** 버전을 원하는 대로 편집한 다음 **[!UICONTROL 변경 내용 저장]**&#x200B;을 클릭하세요.
 
    ![](assets/edit-the-view-as-web-page-message-3.png)
 
@@ -52,9 +52,9 @@ ht-degree: 0%
 
 ## 기본 &quot;웹 페이지로 보기&quot; 텍스트 {#default-view-as-web-page-text}
 
-기본 시스템 &quot; (으)로 되돌리려면[!UICONTROL 웹 페이지로 보기]&quot;, 다음을 복사/붙여넣습니다.
+기본 시스템 &quot;[!UICONTROL 웹 페이지로 보기]&quot;(으)로 되돌려야 하는 경우 다음을 복사/붙여넣으십시오.
 
-**[!UICONTROL 웹 페이지로 보기 HTML]**:
+HTML **[!UICONTROL 웹 페이지로 보기]**:
 
 `<pre data-theme="Confluence"><div style="text-align: center"><font face="Verdana" size="1">To view this email as a web page, <a href="%mkt_webview_url%?mkt_tok=##MKT_TOK##">click here</a></font></div></pre>`
 

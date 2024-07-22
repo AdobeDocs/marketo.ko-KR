@@ -6,14 +6,14 @@ exl-id: 51e3d572-ab7d-44cb-b372-aacb856199d3
 feature: Landing Pages, Guided Landing Page Templates
 source-git-commit: d20a9bb584f69282eefae3704ce4be2179b29d0b
 workflow-type: tm+mt
-source-wordcount: '64'
+source-wordcount: '52'
 ht-degree: 0%
 
 ---
 
 # 템플릿 9B {#template-9b}
 
-마우스 오른쪽 버튼 클릭 [템플릿 9B 다운로드](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-9b.html)
+마우스 오른쪽 단추를 클릭하여 [템플릿 9B 다운로드](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-9b.html)
 
 ![](assets/image2015-7-28-15-3a21-3a14.png)
 
@@ -26,6 +26,6 @@ ht-degree: 0%
 * 8개의 본문 섹션(선택 사항)
 * 바닥글(선택 사항)
 
-**이 템플릿을 다운로드하려면 아래를 마우스 오른쪽 단추로 클릭하십시오.**
+**이 서식 파일을 다운로드하려면 아래를 마우스 오른쪽 단추로 클릭하세요.**
 
 [템플릿 9B.html](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-9b.html)

@@ -37,11 +37,11 @@ ht-degree: 0%
 
 ## Marketo Sales Insight에 표시되는 내 개인 계정 정보는 어디에 있습니까? {#where-is-my-person-accounts-information-displayed-in-marketo-sales-insight}
 
-개인 계정과 관련된 활동은 다음에 표시됩니다. **[!UICONTROL 계정]** 패널.
+사용자 계정과 관련된 활동이 **[!UICONTROL 계정]** 패널에 표시됩니다.
 
 >[!NOTE]
 >
->Marketo Sales Insight **[!UICONTROL Marketo 캠페인에 추가]** 및 **[!UICONTROL 이메일 보내기]** 현재 개인 계정에는 옵션을 사용할 수 없습니다.
+>Marketo Sales Insight의 **[!UICONTROL Marketo 캠페인에 추가]** 및 **[!UICONTROL 전자 메일 보내기]** 옵션은 현재 사용자 계정에 사용할 수 없습니다.
 
 ## 기회를 개인 계정에 연결하려면 어떻게 해야 합니까? {#how-do-i-associate-opportunities-to-a-person-account}
 
@@ -49,4 +49,4 @@ Marketo은 영업 기회를 연결할 사람을 결정하는 영업 기회 연�
 
 ## 개인 계정에 대해 어떤 이메일 필드를 사용해야 합니까? {#which-email-field-should-i-use-for-person-accounts}
 
-개인 계정에는 두 개의 이메일 필드가 있습니다. 사용 **이메일 주소** 양식의 필드(양식이 아님) **개인 이메일 주소**)를 클릭하여 Marketo의 중복 제거 및 기타 이메일 처리가 제대로 작동하도록 할 수 있습니다.
+개인 계정에는 두 개의 이메일 필드가 있습니다. 양식의 **전자 메일 주소** 필드(**개인 전자 메일 주소**&#x200B;이 아님)를 사용하여 Marketo의 중복 제거 및 기타 전자 메일 처리가 제대로 작동하는지 확인하십시오.

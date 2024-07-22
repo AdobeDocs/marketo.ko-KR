@@ -19,11 +19,11 @@ ht-degree: 1%
 
 Salesforce의 모든 필드가 마케팅에 유용한 것은 아닙니다. 필요한 필드만 포함하여 동기화 성능을 최적화할 수 있습니다. 다음은 Marketo Engage에서 필드를 숨길 수 있는 방법입니다.
 
-1. 이름 메뉴를 클릭하고 다음을 선택합니다. **[!UICONTROL 설정]**.
+1. 이름 메뉴를 클릭하고 **[!UICONTROL 설정]**&#x200B;을 선택합니다.
 
    ![](assets/image2015-6-30-15-3a11-3a23.png)
 
-1. 검색 창에 &quot;프로필&quot;을 입력하고 클릭 **[!UICONTROL 프로필]** 아래에 **[!UICONTROL 사용자 관리]**.
+1. 검색 창에 &quot;프로필&quot;을 입력하고 **[!UICONTROL 사용자 관리]**&#x200B;에서 **[!UICONTROL 프로필]**&#x200B;을 클릭합니다.
 
    ![](assets/image2015-6-30-15-3a12-3a46.png)
 
@@ -31,15 +31,15 @@ Salesforce의 모든 필드가 마케팅에 유용한 것은 아닙니다. 필�
 
    ![](assets/image2015-6-30-15-3a17-3a38.png)
 
-1. 아래 **[!UICONTROL 필드 수준 보안]** 섹션, 클릭 **[!UICONTROL 보기]** 다음으로 대상 필드가 포함된 개체.
+1. **[!UICONTROL 필드 수준 보안]** 섹션에서 대상 필드가 포함된 개체 옆의 **[!UICONTROL 보기]**&#x200B;를 클릭합니다.
 
    ![](assets/image2015-6-30-15-3a24-3a32.png)
 
-1. 클릭 **[!UICONTROL 편집]**.
+1. **[!UICONTROL 편집]**&#x200B;을 클릭합니다.
 
    ![](assets/image2015-6-30-15-3a25-3a42.png)
 
-1. 선택 취소 **[!UICONTROL 표시]** 숨기려는 필드 옆에 있는 확인란입니다. **[!UICONTROL 저장]**&#x200B;을 클릭합니다.
+1. 숨기려는 필드 옆의 **[!UICONTROL 표시]** 확인란의 선택을 취소합니다. **[!UICONTROL 저장]**&#x200B;을 클릭합니다.
 
    ![](assets/image2015-6-30-15-3a27-3a16.png)
 

@@ -19,7 +19,7 @@ Opportunity Influence Analyzer 를 사용하면 전체 스토리를 볼 수 있�
 
 ![](assets/image2015-6-23-14-3a43-3a35-1.png)
 
-**녹색 확인 표시**. 오른쪽에 선택된 이름 중 하나에 대한 프로그램 성공을 나타냅니다. 녹색 영역은 영업 기회의 시작과 끝을 나타냅니다.
+**녹색 확인 알림**. 오른쪽에 선택된 이름 중 하나에 대한 프로그램 성공을 나타냅니다. 녹색 영역은 영업 기회의 시작과 끝을 나타냅니다.
 
 >[!NOTE]
 >
@@ -41,5 +41,5 @@ Marketo은 CRM ID를 사용하여 계정을 고유하게 식별합니다.
 
 >[!MORELIKETHIS]
 >
->* [Opportunity Influence Analyzer 를 사용하여 마케팅 스토리 전달](/help/marketo/product-docs/reporting/revenue-cycle-analytics/opportunity-influence-analyzer/tell-the-marketing-story-with-an-opportunity-influence-analyzer.md)
->* [Opportunity Influence Analyzer 만들기](/help/marketo/product-docs/reporting/revenue-cycle-analytics/opportunity-influence-analyzer/create-an-opportunity-influence-analyzer.md)
+>* [영업 기회 영향 분석기로 마케팅 스토리 전달](/help/marketo/product-docs/reporting/revenue-cycle-analytics/opportunity-influence-analyzer/tell-the-marketing-story-with-an-opportunity-influence-analyzer.md)
+>* [영업 기회 영향 분석기 만들기](/help/marketo/product-docs/reporting/revenue-cycle-analytics/opportunity-influence-analyzer/create-an-opportunity-influence-analyzer.md)

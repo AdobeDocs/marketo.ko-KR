@@ -20,11 +20,11 @@ ht-degree: 1%
 
 ## 동기화 오류 보기 {#view-sync-errors}
 
-1. 클릭 **[!UICONTROL 관리자]**.
+1. **[!UICONTROL 관리자]**&#x200B;를 클릭합니다.
 
    ![](assets/salesforce-sync-errors-1.png)
 
-1. 통합에서 **Salesforce**, 그런 다음 **[!UICONTROL 동기화 오류]** 탭.
+1. 통합에서 **Salesforce**&#x200B;을 클릭한 다음 **[!UICONTROL 동기화 오류]** 탭을 클릭합니다.
 
    ![](assets/salesforce-sync-errors-2.png)
 
@@ -48,10 +48,10 @@ ht-degree: 1%
 
    ![](assets/salesforce-sync-errors-3.png)
 
-1. 날짜 및 시간 범위를 선택한 다음 오류 유형(작업 수준 또는 레코드 수준)별로 필터링합니다. 클릭 **[!UICONTROL 적용]** 완료 시.
+1. 날짜 및 시간 범위를 선택한 다음 오류 유형(작업 수준 또는 레코드 수준)별로 필터링합니다. 완료되면 **[!UICONTROL 적용]**&#x200B;을 클릭하세요.
 
    ![](assets/salesforce-sync-errors-4.png)
 
-**선택적 단계**: 동기화 오류를 내보내려면 **[!UICONTROL 내보내기]**. 데이터는 CSV로 내보내집니다.
+**선택적 단계**: 동기화 오류를 내보내려면 **[!UICONTROL 내보내기]**&#x200B;를 클릭하세요. 데이터는 CSV로 내보내집니다.
 
 ![](assets/salesforce-sync-errors-5.png)

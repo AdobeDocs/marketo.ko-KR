@@ -5,7 +5,7 @@ exl-id: 7aaf6926-c921-4182-a8ef-d594643a5c1c
 feature: Integrations
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
-source-wordcount: '282'
+source-wordcount: '273'
 ht-degree: 0%
 
 ---
@@ -16,9 +16,9 @@ Adobe Experience Cloud 인터페이스는 Adobe Experience Cloud 애플리케이
 
 ## 사용자 흐름 {#user-flow}
 
-Adobe Experience Cloud 제품에 아직 로그인하지 않은 경우 [!DNL Marketo Engage] 여기에서 확인할 수 있습니다. [https://experience.adobe.com/marketo-engage](https://experience.adobe.com/marketo-engage).
+Adobe Experience Cloud 제품에 아직 로그인하지 않은 경우 [https://experience.adobe.com/marketo-engage](https://experience.adobe.com/marketo-engage)에서 직접 [!DNL Marketo Engage]에 로그인하십시오.
 
-다음을 수행하는 경우 _은(는)_ 이미 Adobe Experience Cloud 제품에 로그인되어 있는 경우 메뉴 아이콘을 클릭하고 을 선택하면 됩니다. **[!DNL Marketo Engage]**.
+_are_&#x200B;이(가) 이미 Adobe Experience Cloud 제품에 로그인한 경우 메뉴 아이콘을 클릭하고 **[!DNL Marketo Engage]**&#x200B;을(를) 선택하면 됩니다.
 
 ![](assets/unified-shell-overview-1.png)
 
@@ -32,7 +32,7 @@ Adobe Experience Cloud 제품에 아직 로그인하지 않은 경우 [!DNL Mark
 
 **통합 도움말 센터**
 
-내에서 사용 가능한 다양한 도움말 리소스에 액세스 [!DNL Marketo Engage] 응용 프로그램.
+[!DNL Marketo Engage] 응용 프로그램 내에서 사용 가능한 다양한 도움말 리소스에 액세스합니다.
 
 ![](assets/unified-shell-overview-2.png)
 
@@ -56,11 +56,11 @@ Adobe 아이콘을 클릭하여 언어 또는 기타 프로필 전체 환경 설
 
 ## FAQ {#faq}
 
-**에 로그인할 수 없습니다. [!DNL Marketo Engage] Experience Cloud 인터페이스를 통해 무엇이 문제입니까?**
+**Experience Cloud 인터페이스를 통해 [!DNL Marketo Engage]에 로그인할 수 없습니다. 문제가 무엇일 수 있습니까?**
 
-Adobe Experience Cloud에 로그인할 수 있지만 &quot;페이지 로드 실패&quot; 오류가 표시되는 경우 문제가 [!DNL Marketo Engage] 옆이요. 다음으로 문의하십시오. [Marketo 지원](https://nation.marketo.com/t5/support/ct-p/Support) 도움이 필요하신가요?
+Adobe Experience Cloud에 로그인할 수 있지만 &quot;페이지 로드 실패&quot; 오류가 표시되는 경우 [!DNL Marketo Engage]측에서 문제가 발생할 수 있습니다. 도움이 필요하면 [Marketo 지원](https://nation.marketo.com/t5/support/ct-p/Support)에 문의하십시오.
 
-**사용자 내역, 글로벌 검색, Marketo 알림 및 작업 트레이는 어디로 이동합니까?**
+**사용자 기록, 글로벌 검색, Marketo 알림 및 작업 트레이는 어디로 이동했습니까?**
 
 이러한 기능은 Experience Cloud 인터페이스의 왼쪽 상단 탐색에서 새 막대로 이동되었습니다.
 

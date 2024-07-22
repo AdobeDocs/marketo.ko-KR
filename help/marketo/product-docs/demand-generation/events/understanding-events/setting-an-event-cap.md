@@ -31,22 +31,22 @@ ht-degree: 0%
 
    ![](assets/setting-an-event-cap-1.png)
 
-1. 개요에서 다음을 찾습니다. [!UICONTROL 이벤트 상한] 및 클릭 **[!UICONTROL 설정되지 않음]**.
+1. 개요에서 [!UICONTROL 이벤트 상한]을 찾아 **[!UICONTROL 설정되지 않음]**&#x200B;을 클릭합니다.
 
    ![](assets/setting-an-event-cap-2.png)
 
-1. 이벤트에 등록할 수 있는 최대 인원을 입력하고 을(를) 클릭합니다 **[!UICONTROL 다음]**.
+1. 이벤트에 등록할 수 있는 최대 인원을 입력하고 **[!UICONTROL 다음]**&#x200B;을 클릭하세요.
 
    ![](assets/setting-an-event-cap-3.png)
 
-1. 다음을 클릭합니다. [!UICONTROL 등록 페이지] 드롭다운에서 등록 페이지로 사용할 랜딩 페이지를 선택합니다.
+1. [!UICONTROL 등록 페이지] 드롭다운을 클릭하고 등록 페이지로 사용할 랜딩 페이지를 선택합니다.
 
    ![](assets/setting-an-event-cap-4.png)
 
-1. 다음을 클릭합니다. **[!UICONTROL 등록 전체 페이지]** 드롭다운에서 등록 전체 페이지로 사용할 랜딩 페이지를 선택합니다. 클릭 **[!UICONTROL 설정 및 활성화]** 완료 시.
+1. **[!UICONTROL 등록 전체 페이지]** 드롭다운을 클릭하고 등록 전체 페이지로 사용할 랜딩 페이지를 선택합니다. 완료되면 **[!UICONTROL 설정 및 사용]**&#x200B;을 클릭하세요.
 
    ![](assets/setting-an-event-cap-5.png)
 
-   준비가 완료되었습니다. 이벤트 상한 세부 사항을 편집하려면 옆에 있는 파란색 텍스트를 클릭합니다 [!UICONTROL 이벤트 상한].
+   준비가 완료되었습니다. 이벤트 상한 세부 정보를 편집하려면 [!UICONTROL 이벤트 상한] 옆에 있는 파란색 텍스트를 클릭하십시오.
 
    ![](assets/setting-an-event-cap-6.png)

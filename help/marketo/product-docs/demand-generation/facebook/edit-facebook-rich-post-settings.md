@@ -19,13 +19,13 @@ ht-degree: 0%
 >
 >일부 Marketo Engage 사용자가 이 기능을 구입한 것은 아닙니다. 자세한 내용은 Adobe 계정 팀(계정 관리자)에 문의하십시오.
 
-Marketo [소셜 앱](/help/marketo/product-docs/demand-generation/social/social-functions/add-a-social-button-on-a-landing-page.md) 잠재 고객이 Facebook, Twitter 등과 같은 소셜 네트워크의 연결과 랜딩 페이지를 공유할 수 있도록 허용합니다. Facebook OpenGraph 태그(OG 태그)를 사용하면 랜딩 페이지의 어떤 정보가 Facebook 게시물에 포함되어 있는지 지정할 수 있습니다.
+Marketo [소셜 앱](/help/marketo/product-docs/demand-generation/social/social-functions/add-a-social-button-on-a-landing-page.md)을 사용하면 리드가 Facebook, Twitter 등의 소셜 네트워크에 있는 연결과 랜딩 페이지를 공유할 수 있습니다. Facebook OpenGraph 태그(OG 태그)를 사용하면 랜딩 페이지의 어떤 정보가 Facebook 게시물에 포함되어 있는지 지정할 수 있습니다.
 
 ## 리치 게시물 옵션 선택 {#select-rich-post-options}
 
 랜딩 페이지의 공유로 생성된 Facebook 리치 게시물에서 사용할 페이지 정보 유형을 지정할 수 있습니다.
 
-1. 선택 **Facebook 메시지** 를 위한 편집기에서 **YouTube** 비디오 또는 소셜 단추.
+1. 편집기에서 **Facebook** 비디오 또는 소셜 단추에 대한 **YouTube 메시지**&#x200B;를 선택합니다.
 
    ![](assets/image2014-9-22-16-3a47-3a21.png)
 
@@ -35,7 +35,7 @@ Marketo [소셜 앱](/help/marketo/product-docs/demand-generation/social/social-
 
    ![](assets/image2014-9-22-16-3a48-3a0.png)
 
-   * 다이내믹 콘텐츠 추가: 소셜 앱에서 랜딩 페이지의 `<TITLE>`, `<CAPTION>`, 및 `<DESCRIPTION>` 태그를 추가하여 리치 게시물을 채울 수 있습니다.
+   * 다이내믹 콘텐츠 추가: 소셜 앱에서 랜딩 페이지의 `<TITLE>`, `<CAPTION>` 및 `<DESCRIPTION>` 태그를 사용하여 리치 게시물을 채울 수 있습니다.
 
    ![](assets/image2014-9-22-16-3a48-3a9.png)
 
@@ -51,13 +51,13 @@ Marketo [소셜 앱](/help/marketo/product-docs/demand-generation/social/social-
 
 랜딩 페이지에서 Facebook 공유에 포함될 페이지 요소를 제어하기 위해 제목, 캡션 및 설명에 대한 Facebook OG(Open Graph) 태그를 랜딩 페이지에 추가할 수 있습니다.
 
-1. 다음 항목이 포함된 랜딩 페이지를 엽니다. **YouTube 비디오** 또는 소셜 단추.
+1. **YouTube 비디오** 또는 소셜 단추가 포함된 랜딩 페이지를 엽니다.
 
    ![](assets/image2014-9-22-16-3a51-3a28.png)
 
-   다음 **랜딩 페이지 디자이너** 새 창에서 열립니다.
+   **랜딩 페이지 Designer**&#x200B;이 새 창에서 열립니다.
 
-1. 선택 **랜딩 페이지 작업** > **페이지 메타 태그 편집**.
+1. **랜딩 페이지 작업** > **페이지 메타 태그 편집**&#x200B;을 선택합니다.
 
    ![](assets/image2014-9-22-16-3a51-3a36.png)
 

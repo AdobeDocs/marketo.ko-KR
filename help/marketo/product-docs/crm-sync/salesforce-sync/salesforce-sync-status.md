@@ -22,11 +22,11 @@ ht-degree: 4%
 
 ## 동기화 상태 보기 {#view-sync-status}
 
-1. 클릭 **[!UICONTROL 관리자]**.
+1. **[!UICONTROL 관리자]**&#x200B;를 클릭합니다.
 
    ![](assets/salesforce-sync-status-1.png)
 
-1. 아래 [!UICONTROL 통합], 클릭 **Salesforce**, 그런 다음 **[!UICONTROL 동기화 상태]** 탭.
+1. [!UICONTROL 통합]에서 **Salesforce**&#x200B;을 클릭한 다음 **[!UICONTROL 동기화 상태]** 탭을 클릭합니다.
 
    ![](assets/salesforce-sync-status-2.png)
 
@@ -40,15 +40,15 @@ ht-degree: 4%
 
    ![](assets/salesforce-sync-status-4.png)
 
-1. 날짜 및 시간 범위를 선택한 다음 필터링할 드롭다운을 클릭합니다 [!UICONTROL 오브젝트 유형], [!UICONTROL 작업 유형], 및/또는 [!UICONTROL 상태 유형].
+1. 날짜 및 시간 범위를 선택한 다음 드롭다운을 클릭하여 [!UICONTROL 개체 유형], [!UICONTROL 작업 유형] 및/또는 [!UICONTROL 상태 유형]별로 필터링합니다.
 
    ![](assets/salesforce-sync-status-5.png)
 
-1. 클릭 **[!UICONTROL 적용]**.
+1. **[!UICONTROL 적용]**&#x200B;을 클릭합니다.
 
    ![](assets/salesforce-sync-status-6.png)
 
-**선택적 단계**: 동기화 오류를 내보내려면 **[!UICONTROL 내보내기]**. 데이터는 CSV로 내보내집니다.
+**선택적 단계**: 동기화 오류를 내보내려면 **[!UICONTROL 내보내기]**&#x200B;를 클릭하세요. 데이터는 CSV로 내보내집니다.
 
 ![](assets/salesforce-sync-status-7.png)
 
@@ -150,7 +150,7 @@ ht-degree: 4%
    <td colspan="1">이메일 템플릿</td> 
   </tr>  
   <tr> 
-   <td colspan="1">Event</td> 
+   <td colspan="1">이벤트</td> 
   </tr> 
   <tr> 
    <td colspan="1">개인(잠재 고객)</td> 
@@ -236,7 +236,7 @@ ht-degree: 4%
   </tr> 
   <tr> 
    <td colspan="1">활동 업데이트</td> 
-   <td colspan="1">Tasks</td> 
+   <td colspan="1">작업</td> 
    <td colspan="1">Salesforce에서 활동 가져오기</td> 
    <td colspan="1"></td>
   </tr>  
@@ -249,4 +249,4 @@ ht-degree: 4%
  </tbody> 
 </table>
 
-&#42;구독 수준의 브랜딩 구성에 따라 보고서의 &quot;잠재 고객&quot; 또는 &quot;개인&quot;이라는 레이블이 결정됩니다.
+&#42;구독 수준의 브랜딩 구성에 따라 보고서의 레이블 &quot;잠재 고객&quot; 또는 &quot;사용자&quot;가 결정됩니다.

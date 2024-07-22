@@ -6,7 +6,7 @@ exl-id: cab1cb1d-2bc7-4466-bab8-c9e03ab269f7
 feature: Microsoft Dynamics
 source-git-commit: 2403ae0f1fdca3b8238f3f59e2a3b94129deb301
 workflow-type: tm+mt
-source-wordcount: '162'
+source-wordcount: '164'
 ht-degree: 0%
 
 ---
@@ -17,11 +17,11 @@ ht-degree: 0%
 
 ## 동기화 상태 탭 {#sync-status-tab}
 
-1. 클릭 **[!UICONTROL 관리자]**, 그런 다음 **[!UICONTROL Microsoft Dynamics]**.
+1. **[!UICONTROL 관리자]**&#x200B;를 클릭한 다음 **[!UICONTROL Microsoft Dynamics]**&#x200B;을 클릭합니다.
 
    ![](assets/image2016-1-20-11-3a34-3a14.png)
 
-1. 다음을 클릭합니다. **[!UICONTROL 동기화 상태]** 탭.
+1. **[!UICONTROL 동기화 상태]** 탭을 클릭합니다.
 
    ![](assets/image2016-5-19-10-3a1-3a11.png)
 
@@ -35,7 +35,7 @@ ht-degree: 0%
 
    ![](assets/image2016-1-22-10-3a51-3a10.png)
 
-1. 다음을 클릭합니다. **[!UICONTROL 보기]** 드롭다운 및 선택 **[!UICONTROL 지난 시간]** 처리량 정보를 봅니다.
+1. **[!UICONTROL 보기]** 드롭다운을 클릭하고 **[!UICONTROL 지난 시간]**&#x200B;을 선택하여 처리량 정보를 봅니다.
 
    ![](assets/image2016-5-19-10-3a20-3a7.png)
 

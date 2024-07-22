@@ -16,15 +16,15 @@ ht-degree: 0%
 
 ## 질문 생성 {#generate-questions}
 
-1. 생성 AI에서 **[!UICONTROL 지원 응답]**.
+1. 생성 AI에서 **[!UICONTROL 지원 응답]**&#x200B;을 클릭합니다.
 
    ![](assets/question-generation-1.png)
 
-1. 클릭 **[!UICONTROL 질문 생성]**.
+1. **[!UICONTROL 질문 생성]**&#x200B;을 클릭합니다.
 
    ![](assets/question-generation-2.png)
 
-1. 작업에 이름을 지정하고 모든 콘텐츠를 추출할 소스 URL(최대 10개)을 입력합니다. 원하는 주제/키워드를 입력하고 키보드에서 Enter 키를 누릅니다. 완료되면 다음을 클릭합니다. **[!UICONTROL 생성]**.
+1. 작업에 이름을 지정하고 모든 콘텐츠를 추출할 소스 URL(최대 10개)을 입력합니다. 원하는 주제/키워드를 입력하고 키보드에서 Enter 키를 누릅니다. 완료되면 **[!UICONTROL 생성]**&#x200B;을 클릭하세요.
 
    ![](assets/question-generation-3.png)
 
@@ -36,7 +36,7 @@ ht-degree: 0%
    >
    >사이트/페이지는 정보를 스크랩하려면 공개(즉, 로그인 뒤에 숨기지 않음)여야 합니다.
 
-1. 콘텐츠에 따라 질문 및 응답 생성에는 최대 30분이 소요될 수 있습니다. 클릭 **[!UICONTROL 확인]**.
+1. 콘텐츠에 따라 질문 및 응답 생성에는 최대 30분이 소요될 수 있습니다. **[!UICONTROL 확인]**&#x200B;을 클릭합니다.
 
    ![](assets/question-generation-4.png)
 
@@ -50,7 +50,7 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->생성된 질문과 응답은 [응답 라이브러리](/help/marketo/product-docs/demand-generation/dynamic-chat/generative-ai/response-library.md).
+>생성된 질문과 응답은 [응답 라이브러리](/help/marketo/product-docs/demand-generation/dynamic-chat/generative-ai/response-library.md)에서도 볼 수 있습니다.
 
 1. 원하는 작업을 찾아 이름 옆에 있는 다운로드 아이콘을 클릭합니다.
 
@@ -60,15 +60,15 @@ ht-degree: 0%
 
    ![](assets/question-generation-7.png)
 
-1. Excel 파일에서, **[!DNL Task details]** 질문 및/또는 응답을 추가/편집하는 방법에 대한 지침을 포함하여 작업에 대한 다양한 세부 정보를 표시합니다.
+1. **[!DNL Task details]**&#x200B;은(는) Excel 파일에 질문 및/또는 응답을 추가/편집하는 방법에 대한 지침을 포함하여 작업에 대한 다양한 세부 정보를 표시합니다.
 
    ![](assets/question-generation-8.png)
 
    >[!NOTE]
    >
-   >질문 및/또는 응답을 일괄 추가/편집하기로 결정한 경우 [여기에서 다시 업로드하는 방법을 알아봅니다.](/help/marketo/product-docs/demand-generation/dynamic-chat/generative-ai/response-library.md).
+   >질문 및/또는 응답을 일괄 추가/편집하기로 결정한 경우 [여기에서 다시 업로드하는 방법을 알아보세요](/help/marketo/product-docs/demand-generation/dynamic-chat/generative-ai/response-library.md).
 
-1. 다음 **[!DNL Q&Rs]** 탭에는 생성된 질문 및 응답을 포함한 추가 세부 정보가 제공됩니다.
+1. **[!DNL Q&Rs]** 탭에는 생성된 질문 및 응답을 포함한 추가 세부 정보가 있습니다.
 
    ![](assets/question-generation-9.png)
 

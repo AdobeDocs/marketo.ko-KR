@@ -6,7 +6,7 @@ exl-id: fbd66829-53cb-47fd-a530-149d12baee0e
 feature: Salesforce Integration
 source-git-commit: 0087a5e88b8bd9601875f68a2e7cadeebdb5d682
 workflow-type: tm+mt
-source-wordcount: '414'
+source-wordcount: '407'
 ht-degree: 0%
 
 ---
@@ -57,7 +57,7 @@ SFDC의 조회 필드는 ID는 동기화하지만 참조된 이름은 동기화�
 
 ## SFDC 공식 필드는 어떻습니까? {#what-about-sfdc-formula-fields}
 
-공식 필드는 동기화되지만 공식의 참조에 대한 업데이트는 다음에 대한 업데이트가 있을 때까지 동기화되지 않습니다. [시스템 변경사항 스탬프](https://help.salesforce.com/apex/HTViewSolution?id=000193203&amp;language=en_US){target="_blank"}.
+수식 필드가 동기화되지만 수식에 있는 참조에 대한 업데이트는 [시스템 수정 스탬프](https://help.salesforce.com/apex/HTViewSolution?id=000193203&amp;language=en_US){target="_blank"}에 대한 업데이트가 있을 때까지 동기화되지 않습니다.
 
 ## 이전에 Marketo과 동기화되던 Salesforce에서 필드를 삭제하면 어떻게 됩니까? {#what-happens-when-i-delete-a-field-from-salesforce-that-was-previously-syncing-with-marketo}
 
