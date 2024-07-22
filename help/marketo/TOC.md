@@ -3,9 +3,9 @@ audience: end-user
 user-guide-title: Marketo 안내서
 user-guide-description: Marketo 제품 설명서
 feature-set: Marketo Engage
-source-git-commit: 7dd2e21969b71a50bfd4643ab15459150ca07c92
+source-git-commit: d802f6b5988f93f7c75558d864b527da9e0afbec
 workflow-type: tm+mt
-source-wordcount: '9339'
+source-wordcount: '9344'
 ht-degree: 0%
 
 ---
@@ -727,10 +727,13 @@ ht-degree: 0%
             + [웨비나 팀 추가](product-docs/demand-generation/events/interactive-webinars/add-a-webinar-team.md)
             + [대화형 웨비나 디자인](product-docs/demand-generation/events/interactive-webinars/designing-interactive-webinars.md)
             + [템플릿](product-docs/demand-generation/events/interactive-webinars/templates.md)
+            + [사용자 지정](product-docs/demand-generation/events/interactive-webinars/customization.md)
+            + [룸 관리](product-docs/demand-generation/events/interactive-webinars/room-management.md)
             + [대화형 웨비나 홍보](product-docs/demand-generation/events/interactive-webinars/promoting-an-interactive-webinar.md)
             + [대화형 웨비나 수정 또는 삭제](product-docs/demand-generation/events/interactive-webinars/modify-or-delete-an-interactive-webinar.md)
             + [온디맨드 웨비나](product-docs/demand-generation/events/interactive-webinars/on-demand-webinars.md)
             + [이벤트 워크플로](product-docs/demand-generation/events/interactive-webinars/event-workflows.md)
+            + [참여 대시보드](product-docs/demand-generation/events/interactive-webinars/engagement-dashboard.md)
       + Facebook {#facebook}
          + [facebook에서 사용자 지정 대상에 리드 추가](product-docs/demand-generation/facebook/add-leads-to-a-custom-audience-in-facebook.md)
          + [facebook에서 사용자 지정 대상 만들기](product-docs/demand-generation/facebook/create-a-custom-audience-in-facebook.md)
