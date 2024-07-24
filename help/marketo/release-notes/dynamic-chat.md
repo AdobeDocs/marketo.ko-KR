@@ -1,5 +1,5 @@
 ---
-description: Dynamic Chat 릴리스 노트 - Marketo 문서 - 제품 설명서
+description: Dynamic Chat 릴리스 정보 - Marketo 설명서 - 제품 설명서
 title: Dynamic Chat 릴리스 노트
 feature: Release Information, Dynamic Chat
 exl-id: 0447dc47-b9c5-42e1-8f66-73bf67c7871d

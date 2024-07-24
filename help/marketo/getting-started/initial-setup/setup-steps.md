@@ -1,13 +1,13 @@
 ---
-description: 설정 단계 - Marketo 문서 - 제품 설명서
-short-description: Adobe Marketo Engage을 시작하시겠습니까? 들어가기 전에 완료해야 하는 단계를 알아봅니다.
+description: 설정 단계 - Marketo 설명서 - 제품 설명서
+short-description: Adobe Marketo Engage를 처음 사용하십니까? 본격적으로 시작하기 전에 완료해야 하는 단계를 알아보십시오.
 title: 설정 단계
 feature: Getting Started
 exl-id: 5f37da48-b2ed-4e48-a5a2-429149745085
 source-git-commit: 384740fdfc1f6950369116bd77ee49f9e745bdf1
 workflow-type: tm+mt
 source-wordcount: '1708'
-ht-degree: 0%
+ht-degree: 1%
 
 ---
 

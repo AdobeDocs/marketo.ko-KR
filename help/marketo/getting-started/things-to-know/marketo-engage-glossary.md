@@ -1,6 +1,6 @@
 ---
-description: Marketo Engage 용어집 - Marketo 설명서 - 제품 설명서
-short-description: 속도를 빠르게 향상하는 데 도움이 되는 Marketo Engage 용어 및 해당 정의를 알아봅니다.
+description: Marketo Engage 용어 - Marketo 설명서 - 제품 설명서
+short-description: Marketo Engage 용어와 정의를 학습하면 빠르게 적응할 수 있습니다.
 title: Marketo Engage 용어집
 feature: Getting Started
 exl-id: 57b60323-fe4a-4de1-898d-282e5aefd3ed
