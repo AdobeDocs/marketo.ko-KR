@@ -3,9 +3,9 @@ description: 이메일 확인 - Marketo 문서 - 제품 설명서
 title: 전자 메일 확인
 exl-id: 976e46a7-8c85-45ed-86c1-0c5cdb2d5c3e
 feature: Users and Roles
-source-git-commit: 7b64e6e9bbd282b1e27f4c9c862df07642e9a35b
+source-git-commit: 1df21d49f7ab29338ffe48f0d06302cc0fc792a1
 workflow-type: tm+mt
-source-wordcount: '470'
+source-wordcount: '469'
 ht-degree: 0%
 
 ---
@@ -24,7 +24,7 @@ Marketo Engage은 Adobe ID로의 사용자 마이그레이션을 포함하여 �
 
 >[!IMPORTANT]
 >
->위의 예외는 _SSO 전용 구독에서_ 관리자는 새 사용자 초대를 받지만 관리자가 아닌 사용자는 받지 않습니다. 관리자가 아닌 사용자는 여전히 전자 메일 확인 프로세스를 통해 레코드를 마이그레이션해야 합니다. 사용자는 프로필 아이콘을 클릭하고 **내 계정** > **계정 설정** 및 **확인 다시 보내기**&#x200B;를 클릭하여 전자 메일 확인 링크를 보낼 수 있습니다.
+>위의 예외는 _SSO 전용 구독에서_ 관리자는 새 사용자 초대를 받지만 관리자가 아닌 사용자는 받지 않습니다. 관리자가 아닌 사용자는 여전히 전자 메일 확인 프로세스를 통해 레코드를 마이그레이션해야 합니다. 사용자는 &quot;내 프로필&quot; 아이콘을 클릭하고 **내 계정** > **계정 설정** > **확인 다시 보내기**&#x200B;로 이동하여 전자 메일 확인 링크를 보낼 수 있습니다.
 
 ![](assets/email-verification-1.png)
 
