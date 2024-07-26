@@ -5,9 +5,9 @@ hide: true
 hidefromtoc: true
 feature: Interactive Webinars
 exl-id: 7fdb922a-a67a-4027-b9c2-8d8833c8eba0
-source-git-commit: 1df21d49f7ab29338ffe48f0d06302cc0fc792a1
+source-git-commit: 9d3fab2c007922aa4f250cc16f84d23edfe81c6a
 workflow-type: tm+mt
-source-wordcount: '1742'
+source-wordcount: '1743'
 ht-degree: 0%
 
 ---
@@ -31,7 +31,7 @@ Adobe Connect에서 제공하는 대화형 웨비나는 다양한 pod를 사용�
 
    ![](assets/engagement-dashboard-1.png)
 
-1. 원하는 이벤트를 선택합니다.
+1. 원하는 완료된 이벤트를 선택합니다.
 
    ![](assets/engagement-dashboard-2.png)
 
