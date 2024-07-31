@@ -5,9 +5,9 @@ hide: true
 hidefromtoc: true
 feature: Interactive Webinars
 exl-id: 52933cb6-7bce-4c81-ba3f-68eaf211e8eb
-source-git-commit: dc792cb088202b59283bb1146b19f6b086907053
+source-git-commit: 1d2dbc5859b031995eb487f617ace9fdb2be7f0b
 workflow-type: tm+mt
-source-wordcount: '676'
+source-wordcount: '740'
 ht-degree: 0%
 
 ---
@@ -25,19 +25,43 @@ ht-degree: 0%
 * 로고
 * 가상 비디오 배경
 
+## 권한 부여 {#grant-permissions}
+
+조직의 사용자가 대화형 웨비나를 사용자 정의할 수 있으려면 먼저 Marketo Engage 관리자가 원하는 역할에 대한 액세스 권한을 추가해야 합니다.
+
+1. Marketo Engage에서 **[!UICONTROL 관리자]**&#x200B;를 클릭합니다.
+
+   ![](assets/interactive-webinars-customization-1.png)
+
+1. **[!UICONTROL 사용자 및 역할]**&#x200B;을 클릭한 다음 **[!UICONTROL 역할]** 탭을 클릭합니다.
+
+   ![](assets/interactive-webinars-customization-2.png)
+
+1. 권한을 추가할 역할을 두 번 클릭합니다.
+
+   ![](assets/interactive-webinars-customization-3.png)
+
+1. **[!UICONTROL Design Studio 액세스]**&#x200B;를 열려면 클릭하세요.
+
+   ![](assets/interactive-webinars-customization-4.png)
+
+1. **[!UICONTROL 대화형 웨비나 사용자 지정 액세스]** 확인란을 선택하십시오.
+
+   ![](assets/interactive-webinars-customization-5.png)
+
 ## 대화형 웨비나 화면 사용자 지정 {#customize-interactive-webinar-screens}
 
 1. **디자인 스튜디오**(으)로 이동합니다.
 
-   ![](assets/interactive-webinars-customization-1.png)
+   ![](assets/interactive-webinars-customization-6.png)
 
 1. **대화형 웨비나**&#x200B;를 클릭하고 **웨비나 사용자 지정**&#x200B;을 선택합니다.
 
-   ![](assets/interactive-webinars-customization-2.png)
+   ![](assets/interactive-webinars-customization-7.png)
 
 1. Room 인터페이스, Immediate 화면 또는 가상 비디오 배경을 사용자 지정할 수 있습니다.
 
-   ![](assets/interactive-webinars-customization-3.png)
+   ![](assets/interactive-webinars-customization-8.png)
 
 ### 룸 인터페이스 사용자 정의 {#customize-the-room-interface}
 
@@ -47,7 +71,7 @@ ht-degree: 0%
 
 1. 오른쪽 패널에서 다음 기본 설정을 사용자 지정합니다.
 
-   ![](assets/interactive-webinars-customization-4.png)
+   ![](assets/interactive-webinars-customization-9.png)
 
    **사용자 지정 로고**: 로고 업로드를 선택하고 장치에서 이미지를 찾아봅니다. 이미지 크기는 50 x 31픽셀을 초과할 수 없으며 .svg, .gif, .jpg 및 .png 파일 형식일 수 있습니다. 로고를 변경하거나 삭제할 수 있습니다.
 
@@ -65,7 +89,7 @@ ht-degree: 0%
 
 1. 변경 내용을 저장하려면 **[!UICONTROL 적용]**&#x200B;을 선택하십시오. 기본 설정으로 재설정하려면 **[!UICONTROL 기본값으로 재설정]**&#x200B;을 클릭합니다.
 
-   ![](assets/interactive-webinars-customization-5.png)
+   ![](assets/interactive-webinars-customization-10.png)
 
 ### 중간 화면 사용자 지정 {#customize-intermediate-screens}
 
@@ -75,7 +99,7 @@ ht-degree: 0%
 
 1. 오른쪽 패널에서 **이미지 업로드**&#x200B;를 선택하여 배경 이미지를 사용자 지정하고 로고 이미지를 찾습니다. 이미지 크기는 1920 x 1080 픽셀을 초과할 수 없으며 .svg, .gif, .jpg 및 .png 파일 형식일 수 있습니다. 원하는 경우 로고를 변경하거나 삭제할 수 있습니다.
 
-   ![](assets/interactive-webinars-customization-6.png)
+   ![](assets/interactive-webinars-customization-11.png)
 
    >[!NOTE]
    >
@@ -91,7 +115,7 @@ ht-degree: 0%
 
 1. 토글 스위치를 클릭하여 이벤트 및 룸에서 사용자 지정 배경을 허용합니다.
 
-   ![](assets/interactive-webinars-customization-7.png)
+   ![](assets/interactive-webinars-customization-12.png)
 
 1. 사용자 지정 배경을 업로드하려면 **배경 업로드**&#x200B;를 선택하십시오. 이미지 크기는 1920 x 1080 픽셀을 초과할 수 없으며 .svg, .gif, .jpg 및 .png 파일 형식일 수 있습니다.
 
@@ -109,6 +133,6 @@ Adobe Connect은 사용할 준비가 된 9개의 기본 배경을 제공합니�
 
 토글 스위치를 사용하여 이벤트 및 룸에서 이러한 기본 배경의 가용성을 제어합니다.
 
-![](assets/interactive-webinars-customization-8.png)
+![](assets/interactive-webinars-customization-13.png)
 
 **적용**&#x200B;을 선택하여 변경 내용을 저장하거나 **기본값으로 재설정**&#x200B;을 선택하여 기본 설정으로 재설정합니다.

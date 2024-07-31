@@ -1,17 +1,17 @@
 ---
 unique-page-id: 5472490
 description: 릴리스 일정 - Marketo 설명서 - 제품 설명서
-title: 릴리스 일정
+title: 출시 일정
 exl-id: 38bd10e3-7f47-46f7-b9b0-83e1ab50014c
 feature: Release Information
-source-git-commit: aa04752e471a6bc5fbb78f1e5cdfae199e3134be
+source-git-commit: 1d2dbc5859b031995eb487f617ace9fdb2be7f0b
 workflow-type: tm+mt
-source-wordcount: '127'
-ht-degree: 5%
+source-wordcount: '126'
+ht-degree: 9%
 
 ---
 
-# 릴리스 일정 {#release-schedule}
+# 출시 일정 {#release-schedule}
 
 **릴리스**: 각 릴리스의 월/년입니다. 릴리스 정보를 사용할 수 있게 되면 아래 표에 릴리스 정보가 연결됩니다.
 
@@ -50,12 +50,12 @@ _릴리스 날짜/기능은 변경될 수 있습니다_
   <tr>
    <td><a href="/help/marketo/release-notes/current.md">2024년 6월</a></td>
    <td>2024년 6월 7일</td>
-   <td>진행 중</td>
+   <td>배송됨</td>
   </tr>
   <tr> 
    <td>7월 24일</td>
    <td>2024년 7월 26일</td>
-   <td>일정에 따라</td>
+   <td>진행 중</td>
   </tr>
   <tr> 
    <td>24년 10월</td>

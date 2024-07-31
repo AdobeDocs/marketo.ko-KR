@@ -5,16 +5,20 @@ hide: true
 hidefromtoc: true
 feature: Interactive Webinars
 exl-id: f164795c-c64b-4e0e-a417-b5f7e18a26b3
-source-git-commit: 5757be46841e10ab12ea320ae380c434361a4240
+source-git-commit: 1d2dbc5859b031995eb487f617ace9fdb2be7f0b
 workflow-type: tm+mt
-source-wordcount: '771'
+source-wordcount: '786'
 ht-degree: 0%
 
 ---
 
 # 룸 관리 {#room-management}
 
-Adobe Connect에서 제공하는 인터랙티브 웨비나 룸은 매력적인 공동 작업 온라인 이벤트를 제공하도록 설계되었습니다. 이러한 웨비나는 권한이 있는 조직 구성원이 만든 웨비나 룸에 많은 양의 컨텐츠와 녹화를 저장합니다. 방을 만들 권리를 가진 구성원으로서 중앙의 장소에서 접근하고 관리할 수 있다.
+Adobe Connect에서 제공하는 인터랙티브 웨비나 룸은 매력적인 공동 작업 온라인 이벤트를 제공하도록 설계되었습니다. 이러한 웨비나는 웨비나 중에 생성되어 사용되는 컨텐츠 및 녹화본을 저장합니다. 룸을 만들 수 있는 권한을 가진 구성원으로서 중앙 위치에서 룸에 액세스하고 관리할 수 있습니다.
+
+>[!NOTE]
+>
+>웨비나에 대해 만든 룸만 액세스할 수 있으며 조직 내 다른 구성원의 룸은 액세스할 수 없습니다.
 
 ## 룸 및 녹음/녹화 관리 및 액세스 {#manage-and-access-rooms-and-recordings}
 
