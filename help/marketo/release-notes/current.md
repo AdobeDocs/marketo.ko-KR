@@ -3,10 +3,10 @@ description: 최신 릴리스 정보 - Marketo 설명서 - 제품 설명서
 title: 최신 릴리스 정보
 exl-id: a2eccad5-73ad-48f9-8091-51cee23824e1
 feature: Release Information
-source-git-commit: cb69844d8e9e25cae19bc2d4a91c28376f58eadb
+source-git-commit: d61ac2c4b7c3fbd138a75b51bb184e4bfd1eef3c
 workflow-type: tm+mt
-source-wordcount: '465'
-ht-degree: 1%
+source-wordcount: '523'
+ht-degree: 3%
 
 ---
 
@@ -76,6 +76,16 @@ Adobe Dynamic Chat [에 대한 릴리스 정보는 여기에서 찾을 수 있�
 ## 공지 {#announcements}
 
 * **새 개발자 설명서 사이트**: Marketo Engage 사용자 경험을 향상시키기 위한 지속적인 노력의 일환으로 2024년 7월에 모든 개발자 설명서를 Adobe Experience League 및 Adobe Developer 웹 사이트로 마이그레이션할 예정입니다. [자세히 알아보기](https://nation.marketo.com/t5/employee-blogs/new-developer-documentation-website/ba-p/351055){target="_blank"}
+
+* **소셜 기능 사용 중단**: 2024년 7월 31일 수요일에 Marketo Engage은 제품 내에서 다음 소셜 기능의 사용 중단을 시작합니다.
+
+   * 투표
+   * 소셜 단추
+   * 추천 시 제공 경품
+   * 동영상 공유
+   * 경품 추첨
+
+사용자는 더 이상 Marketo Engage에서 이러한 소셜 기능을 생성, 복제 또는 포함할 수 없습니다. 기존 소셜 자산은 2025년 1월 31일까지 계속 작동합니다. [자세히 알아보기](https://nation.marketo.com/t5/employee-blogs/marketo-engage-social-features-deprecation/ba-p/351977){target="_blank"}
 
 * **쿼리 매개 변수 사용 중단**: Marketo Engage REST API 호출의 쿼리 매개 변수에서 액세스 토큰을 사용한 인증 지원은 이후 릴리스(특정 날짜 TBD)에서 제거됩니다. 기존 통합은 인증 헤더 [여기에 설명됨](https://developers.marketo.com/rest-api/authentication/){target="_blank"}의 사용으로 마이그레이션해야 합니다. 새 개발에서는 Marketo Engage 인증을 위한 인증 헤더만 사용해야 합니다.
 
