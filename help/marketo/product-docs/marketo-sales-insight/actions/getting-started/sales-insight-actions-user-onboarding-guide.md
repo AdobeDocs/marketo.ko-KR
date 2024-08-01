@@ -3,10 +3,10 @@ description: Sales Insight Actions 사용 온보딩 안내서 - Marketo 문서 -
 title: Sales Insight Actions 사용 온보딩 안내서
 exl-id: ace517b6-3a06-4e2e-b545-8c95ad0cf457
 feature: Sales Insight Actions
-source-git-commit: 02b2e39580c5eac63de4b4b7fdaf2a835fdd4ba5
+source-git-commit: 1f228323c18204149630a7cb77d6ae0a88b425e3
 workflow-type: tm+mt
 source-wordcount: '327'
-ht-degree: 0%
+ht-degree: 1%
 
 ---
 
@@ -14,7 +14,7 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->Marketo Sales Insight Actions는 [Marketo Sales Insight 패키지](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/installation/install-marketo-sales-insight-package-in-salesforce-appexchange.md){target="_blank"}를 통해 Salesforce 사용자 인터페이스와 통합하는 웹 기반 애플리케이션입니다. 이를 때로 &quot;Marketo 영업&quot; 또는 간단히 &quot;작업&quot;이라고 합니다.
+>Marketo Sales Insight Actions는 [Marketo Sales Insight 패키지](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/installation/install-marketo-sales-insight-package-in-salesforce-appexchange.md){target="_blank"}를 통해 Salesforce CRM과 독점적으로 통합되는 웹 기반 애플리케이션입니다. 이를 때로 &quot;Marketo 영업&quot; 또는 간단히 &quot;작업&quot;이라고 합니다.
 
 >[!PREREQUISITES]
 >
@@ -63,7 +63,7 @@ ht-degree: 0%
 
    ![](assets/sales-insight-actions-user-onboarding-guide-9.png)
 
-1. **계속**&#x200B;을 클릭합니다.
+1. **계속을 클릭합니다**.
 
    ![](assets/sales-insight-actions-user-onboarding-guide-10.png)
 
@@ -79,7 +79,7 @@ ht-degree: 0%
 
    ![](assets/sales-insight-actions-user-onboarding-guide-12.png)
 
-1. **마침**&#x200B;을 클릭합니다.
+1. **마침을 클릭합니다**.
 
    ![](assets/sales-insight-actions-user-onboarding-guide-13.png)
 

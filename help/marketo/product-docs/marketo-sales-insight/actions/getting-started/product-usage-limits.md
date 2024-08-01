@@ -3,10 +3,10 @@ description: 제품 사용 제한 - Marketo 문서 - 제품 설명서
 title: 제품 사용 제한
 exl-id: 899dc59e-85bf-408e-9687-e0ed823dd51f
 feature: Sales Insight Actions
-source-git-commit: 02b2e39580c5eac63de4b4b7fdaf2a835fdd4ba5
+source-git-commit: 1f228323c18204149630a7cb77d6ae0a88b425e3
 workflow-type: tm+mt
 source-wordcount: '233'
-ht-degree: 12%
+ht-degree: 13%
 
 ---
 
@@ -16,7 +16,7 @@ ht-degree: 12%
 
 >[!NOTE]
 >
->Marketo Sales Insight Actions는 [Marketo Sales Insight 패키지](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/installation/install-marketo-sales-insight-package-in-salesforce-appexchange.md){target="_blank"}를 통해 Salesforce 사용자 인터페이스와 통합하는 웹 기반 애플리케이션입니다. 이를 때로 &quot;Marketo 영업&quot; 또는 간단히 &quot;작업&quot;이라고 합니다.
+>Marketo Sales Insight Actions는 [Marketo Sales Insight 패키지](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/installation/install-marketo-sales-insight-package-in-salesforce-appexchange.md){target="_blank"}를 통해 Salesforce CRM과 독점적으로 통합되는 웹 기반 애플리케이션입니다. 이를 때로 &quot;Marketo 영업&quot; 또는 간단히 &quot;작업&quot;이라고 합니다.
 
 <table>
   <th>기능</th>
@@ -104,7 +104,7 @@ ht-degree: 12%
  <tr>
   <td>사용자 시트</td>
   <td>인스턴스당</td>
-  <td>100</td>
+  <td>10</td>
  </tr>
  <tr>
   <td>팀</td>

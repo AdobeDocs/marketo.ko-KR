@@ -3,9 +3,9 @@ description: Sales Insight 작업 기능 개요 - Marketo 문서 - 제품 설명
 title: Sales Insight Actions 기능 개요
 exl-id: 059de248-d1a2-42cd-a7ec-f10b15d0b526
 feature: Sales Insight Actions
-source-git-commit: 02b2e39580c5eac63de4b4b7fdaf2a835fdd4ba5
+source-git-commit: 1f228323c18204149630a7cb77d6ae0a88b425e3
 workflow-type: tm+mt
-source-wordcount: '1388'
+source-wordcount: '1361'
 ht-degree: 0%
 
 ---
@@ -16,11 +16,7 @@ Sales Insight Actions 을 사용하여 단일 워크플로우에서 마케팅 �
 
 >[!NOTE]
 >
->Marketo Sales Insight Actions는 [Marketo Sales Insight 패키지](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/installation/install-marketo-sales-insight-package-in-salesforce-appexchange.md){target="_blank"}를 통해 Salesforce 사용자 인터페이스와 통합하는 웹 기반 애플리케이션입니다. 이를 때로 &quot;Marketo 영업&quot; 또는 간단히 &quot;작업&quot;이라고 합니다.
-
->[!AVAILABILITY]
->
->이 기능은 현재 모든 Sales Insight 사용자에게 공개되고 있습니다. 롤아웃 우선 순위를 지정하려면 `sales-insights(at)adobe(dot)com`(으)로 전자 메일을 보내십시오.
+>Marketo Sales Insight Actions는 [Marketo Sales Insight 패키지](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/installation/install-marketo-sales-insight-package-in-salesforce-appexchange.md){target="_blank"}를 통해 Salesforce CRM과 독점적으로 통합되는 웹 기반 애플리케이션입니다. 이를 때로 &quot;Marketo 영업&quot; 또는 간단히 &quot;작업&quot;이라고 합니다.
 
 Sales Insight 작업에 대한 비디오 개요를 보려면 [여기를 클릭](https://experienceleague.adobe.com/docs/marketo-learn/tutorials/sales-insight-actions/overview.html){target="_blank"}하십시오.
 
