@@ -3,9 +3,9 @@ description: 최신 릴리스 정보 - Marketo 설명서 - 제품 설명서
 title: 최신 릴리스 정보
 exl-id: a2eccad5-73ad-48f9-8091-51cee23824e1
 feature: Release Information
-source-git-commit: d61ac2c4b7c3fbd138a75b51bb184e4bfd1eef3c
+source-git-commit: 1839ccb646e775b67efa8de7d2d2bf3dbbbefa72
 workflow-type: tm+mt
-source-wordcount: '523'
+source-wordcount: '521'
 ht-degree: 3%
 
 ---
@@ -33,8 +33,8 @@ Adobe Dynamic Chat [에 대한 릴리스 정보는 여기에서 찾을 수 있�
   </tr>
      <tr> 
    <td><strong>대화형 웨비나에 대한 참여 대시보드</strong>: 웨비나 동안 전체 웨비나 성능 보기와 각 참석자에 대한 포괄적인 참여 보기를 가져와 Marketo Engage 오케스트레이션 도구를 통해 어느 것이 대상으로 이어지는지 결정할 수 있습니다.</td> 
-    <td><i>곧 출시 예정</i></td>
-   <td><i>곧 출시 예정</i></td>
+    <td>배송됨</td>
+   <td><a href="/help/marketo/product-docs/demand-generation/events/interactive-webinars/engagement-dashboard.md" target="_blank">참여 대시보드</a></td>
   </tr>
   <tr> 
    <td> </td> 
@@ -44,8 +44,8 @@ Adobe Dynamic Chat [에 대한 릴리스 정보는 여기에서 찾을 수 있�
   </tr>
      <tr> 
    <td><strong>대화형 웨비나를 위한 Room 관리</strong>: 만들어진 개별 Room에 액세스하고(필요한 경우 수정), 콘텐츠 및 녹화에 액세스합니다(필요한 경우 지우기를 통해 저장소 최적화).</td> 
-    <td><i>곧 출시 예정</i></td>
-   <td><i>곧 출시 예정</i></td>
+    <td>배송됨</td>
+   <td><a href="/help/marketo/product-docs/demand-generation/events/interactive-webinars/room-management.md" target="_blank">룸 관리</a></td>
   </tr>
   <tr> 
    <td> </td> 
@@ -55,8 +55,8 @@ Adobe Dynamic Chat [에 대한 릴리스 정보는 여기에서 찾을 수 있�
   </tr>
      <tr> 
    <td><strong>대화형 웨비나에 대한 웨비나 사용자 지정</strong>: 웨비나 전략이 브랜드 전략에 보다 쉽게 부합할 수 있도록 공용 룸 인터페이스, 중간 화면(예: 참석자 시작 화면 배경) 및 사용자 지정 비디오 배경을 사용하여 조직에서 승인한 균일한 브랜드 경험을 제공합니다.</td> 
-    <td><i>곧 출시 예정</i></td>
-   <td><i>곧 출시 예정</i></td>
+    <td>배송됨</td>
+   <td><a href="/help/marketo/product-docs/demand-generation/events/interactive-webinars/customization.md" target="_blank">대화형 웨비나 사용자 지정</a></td>
   </tr>
   <tr> 
    <td> </td> 

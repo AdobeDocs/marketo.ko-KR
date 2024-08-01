@@ -3,10 +3,10 @@ description: 릴리스 노트 - 2024년 3월 - Marketo 문서 - 제품 설명서
 title: 릴리스 노트 - 2024년 3월
 feature: Release Information
 exl-id: d8bc7f88-a77b-4b49-aed5-aceab9e639f0
-source-git-commit: 2b610cc3486b745212b0b1f36018a83214d7ecd7
+source-git-commit: 1839ccb646e775b67efa8de7d2d2bf3dbbbefa72
 workflow-type: tm+mt
-source-wordcount: '351'
-ht-degree: 0%
+source-wordcount: '350'
+ht-degree: 2%
 
 ---
 
@@ -53,8 +53,8 @@ ht-degree: 0%
     <tr> 
    <td><strong>API 활동 메타데이터</strong>: 
    이제 사용자 에이전트, 플랫폼 및 장치와 같은 메타데이터가 웹 및 이메일 활동에 포함되어 Marketo REST API를 통해 이러한 활동에 대한 일관된 통찰력을 제공하는 데 도움이 됩니다.</td> 
-   <td><i>곧 출시 예정</i></td>
-   <td><i>곧 출시 예정</i></td>
+   <td>배송됨</td>
+   <td>해당 사항 없음</td>
   </tr>
  </tbody> 
 </table>
