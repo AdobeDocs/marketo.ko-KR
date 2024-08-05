@@ -4,9 +4,9 @@ description: 추천 오퍼에 대한 진행 흐름 추적 구성 - Marketo 문�
 title: 조회 오퍼에 대한 진행 흐름 추적 구성
 exl-id: ea73176e-414e-4a90-a17d-083a6eb0a752
 feature: Social
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 97324d932b65020d041f728928d3792140bea71c
 workflow-type: tm+mt
-source-wordcount: '173'
+source-wordcount: '202'
 ht-degree: 0%
 
 ---
@@ -14,6 +14,10 @@ ht-degree: 0%
 # 조회 오퍼에 대한 진행 흐름 추적 구성 {#configure-track-progress-flow-for-a-referral-offer}
 
 [추천 오퍼를 만들](/help/marketo/product-docs/demand-generation/social/referral-offers/create-a-referral-offer.md) 때 참가자에게 보상 진행 상황을 표시하는 프롬프트를 구성할 수 있습니다.
+
+>[!IMPORTANT]
+>
+>2024년 7월 31일에 이 기능의 사용 중단 프로세스를 시작했습니다. 새 자산을 만들 수 없습니다. 기존 자산은 2025년 1월 31일까지 계속 작동합니다. [자세히 알아보기](https://nation.marketo.com/t5/employee-blogs/marketo-engage-social-features-deprecation/ba-p/351977){target="_blank"}
 
 1. **마케팅 활동**(으)로 이동합니다.
 

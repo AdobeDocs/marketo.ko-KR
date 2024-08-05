@@ -3,16 +3,20 @@ unique-page-id: 2359805
 description: 경품 당첨자 선택 - Marketo 문서 - 제품 설명서
 title: 경품 당첨자 선택
 exl-id: 4f6d0b39-86c6-468f-97ad-d65ef3f13b9c
-source-git-commit: 2671f81f62658447e4b2a3dc2e02a4e0927443e8
+source-git-commit: 97324d932b65020d041f728928d3792140bea71c
 workflow-type: tm+mt
-source-wordcount: '165'
-ht-degree: 0%
+source-wordcount: '194'
+ht-degree: 1%
 
 ---
 
 # 경품 당첨자 선택 {#select-sweepstakes-winners}
 
 [경품 추첨을 게시](/help/marketo/product-docs/demand-generation/social/sweepstakes/publish-a-sweepstakes.md)할 때 각 추첨에 대해 당첨자를 선택해야 합니다. 이 경우 [이행 전자 메일](/help/marketo/product-docs/demand-generation/social/social-functions/use-emails-in-social-promotions.md)이(가) 자동으로 전송됩니다.
+
+>[!IMPORTANT]
+>
+>2024년 7월 31일에 이 기능의 사용 중단 프로세스를 시작했습니다. 새 자산을 만들 수 없습니다. 기존 자산은 2025년 1월 31일까지 계속 작동합니다. [자세히 알아보기](https://nation.marketo.com/t5/employee-blogs/marketo-engage-social-features-deprecation/ba-p/351977){target="_blank"}
 
 >[!AVAILABILITY]
 >

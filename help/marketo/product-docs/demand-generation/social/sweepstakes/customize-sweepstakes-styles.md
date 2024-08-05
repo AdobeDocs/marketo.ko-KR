@@ -3,16 +3,20 @@ unique-page-id: 2359807
 description: 경품 스타일 사용자 지정 - Marketo 문서 - 제품 설명서
 title: 경품 스타일 사용자 정의
 exl-id: 2b1437d9-a424-4d05-b614-7502c12e6ba2
-source-git-commit: 2671f81f62658447e4b2a3dc2e02a4e0927443e8
+source-git-commit: 97324d932b65020d041f728928d3792140bea71c
 workflow-type: tm+mt
-source-wordcount: '160'
-ht-degree: 0%
+source-wordcount: '189'
+ht-degree: 1%
 
 ---
 
 # 경품 스타일 사용자 정의 {#customize-sweepstakes-styles}
 
 [경품 추첨 만들기](/help/marketo/product-docs/demand-generation/social/sweepstakes/create-sweepstakes.md)를 수행하면 랜딩 페이지의 모양을 사용자 지정할 수 있습니다.
+
+>[!IMPORTANT]
+>
+>2024년 7월 31일에 이 기능의 사용 중단 프로세스를 시작했습니다. 새 자산을 만들 수 없습니다. 기존 자산은 2025년 1월 31일까지 계속 작동합니다. [자세히 알아보기](https://nation.marketo.com/t5/employee-blogs/marketo-engage-social-features-deprecation/ba-p/351977){target="_blank"}
 
 >[!AVAILABILITY]
 >

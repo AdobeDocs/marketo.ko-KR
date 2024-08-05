@@ -4,16 +4,20 @@ description: Publish a Poll - Marketo 문서 - 제품 설명서
 title: Publish a Poll
 exl-id: 5c603b84-5cd7-4604-9301-e6f277af8dc0
 feature: Social
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 97324d932b65020d041f728928d3792140bea71c
 workflow-type: tm+mt
-source-wordcount: '128'
-ht-degree: 0%
+source-wordcount: '157'
+ht-degree: 1%
 
 ---
 
 # Publish a Poll {#publish-a-poll}
 
 [설문을 만들기](/help/marketo/product-docs/demand-generation/social/creating-a-poll/create-a-poll.md)한 후에는 Marketo 랜딩 페이지, Facebook 및 웹 사이트에 게시할 수 있습니다.
+
+>[!IMPORTANT]
+>
+>2024년 7월 31일에 이 기능의 사용 중단 프로세스를 시작했습니다. 새 자산을 만들 수 없습니다. 기존 자산은 2025년 1월 31일까지 계속 작동합니다. [자세히 알아보기](https://nation.marketo.com/t5/employee-blogs/marketo-engage-social-features-deprecation/ba-p/351977){target="_blank"}
 
 1. 랜딩 페이지로 이동하여 편집할 수 있도록 엽니다.
 
@@ -35,4 +39,4 @@ ht-degree: 0%
 
 >[!TIP]
 >
->설문 조사 테스트 및 세분화 웹 페이지에서 투표로 이동하여 테스트 정보로 등록합니다. 사용자 경험에 대해 변경하려는 모든 사항을 메모하십시오.
+>설문 조사 테스트 및 세분화 웹 페이지에서 투표로 이동하여 테스트 정보로 등록합니다. 사용자 경험에 대해 변경하려는 모든 사항을 기록합니다.

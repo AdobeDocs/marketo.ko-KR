@@ -4,16 +4,20 @@ description: 소셜 공유 요구 사항 설정 - Marketo 문서 - 제품 설명
 title: 소셜 공유 요구 사항 설정
 exl-id: 5aa8f245-f122-44eb-bec4-0a41c2509706
 feature: Social
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 97324d932b65020d041f728928d3792140bea71c
 workflow-type: tm+mt
-source-wordcount: '104'
-ht-degree: 0%
+source-wordcount: '133'
+ht-degree: 1%
 
 ---
 
 # 소셜 공유 요구 사항 설정 {#set-social-share-requirement}
 
 [추천 오퍼를 만들기](/help/marketo/product-docs/demand-generation/social/referral-offers/create-a-referral-offer.md)할 때, 가입하거나 선택 사항으로 만들기 위해 사람들이 오퍼를 공유하도록 할 수 있습니다.
+
+>[!IMPORTANT]
+>
+>2024년 7월 31일에 이 기능의 사용 중단 프로세스를 시작했습니다. 새 자산을 만들 수 없습니다. 기존 자산은 2025년 1월 31일까지 계속 작동합니다. [자세히 알아보기](https://nation.marketo.com/t5/employee-blogs/marketo-engage-social-features-deprecation/ba-p/351977){target="_blank"}
 
 1. **마케팅 활동**(으)로 이동합니다.
 

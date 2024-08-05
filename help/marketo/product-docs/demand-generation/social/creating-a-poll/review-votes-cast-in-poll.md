@@ -4,16 +4,20 @@ description: 설문 조사에서 투표된 투표 검토 - Marketo 문서 - 제�
 title: 투표의 투표 검토
 exl-id: 1877c5d2-0842-468c-826b-8027270ab292
 feature: Social
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 97324d932b65020d041f728928d3792140bea71c
 workflow-type: tm+mt
-source-wordcount: '71'
-ht-degree: 2%
+source-wordcount: '100'
+ht-degree: 4%
 
 ---
 
 # 투표의 투표 검토 {#review-votes-cast-in-poll}
 
 누가 당신의 투표에 무엇을 투표했습니까? 알아보자.
+
+>[!IMPORTANT]
+>
+>2024년 7월 31일에 이 기능의 사용 중단 프로세스를 시작했습니다. 새 자산을 만들 수 없습니다. 기존 자산은 2025년 1월 31일까지 계속 작동합니다. [자세히 알아보기](https://nation.marketo.com/t5/employee-blogs/marketo-engage-social-features-deprecation/ba-p/351977){target="_blank"}
 
 1. **마케팅 활동**&#x200B;에서 설문을 선택하고 **참가자** 탭을 클릭합니다.
 

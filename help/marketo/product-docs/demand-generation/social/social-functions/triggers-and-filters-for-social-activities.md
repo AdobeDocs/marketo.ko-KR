@@ -4,16 +4,20 @@ description: 소셜 활동 트리거 및 필터 - Marketo 문서 - 제품 설명
 title: 소셜 활동에 대한 트리거 및 필터
 exl-id: 97b28a89-21d2-4179-9257-f50efbb3c228
 feature: Social
-source-git-commit: 2671f81f62658447e4b2a3dc2e02a4e0927443e8
+source-git-commit: 97324d932b65020d041f728928d3792140bea71c
 workflow-type: tm+mt
-source-wordcount: '164'
-ht-degree: 1%
+source-wordcount: '193'
+ht-degree: 2%
 
 ---
 
 # 소셜 활동에 대한 트리거 및 필터 {#triggers-and-filters-for-social-activities}
 
 Marketo의 소셜 앱에는 고유한 특별한 트리거와 필터가 있습니다.
+
+>[!IMPORTANT]
+>
+>2024년 7월 31일에 이 기능의 사용 중단 프로세스를 시작했습니다. 새 자산을 만들 수 없습니다. 기존 자산은 2025년 1월 31일까지 계속 작동합니다. [자세히 알아보기](https://nation.marketo.com/t5/employee-blogs/marketo-engage-social-features-deprecation/ba-p/351977){target="_blank"}
 
 >[!AVAILABILITY]
 >

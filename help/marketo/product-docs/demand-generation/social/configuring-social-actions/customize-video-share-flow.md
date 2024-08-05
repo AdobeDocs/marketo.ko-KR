@@ -4,16 +4,20 @@ description: 비디오 공유 플로우 사용자 지정 - Marketo 문서 - 제�
 title: 비디오 공유 플로우 맞춤화
 exl-id: 7dd97f67-7255-483a-a30d-926faab8a3c1
 feature: Social
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 97324d932b65020d041f728928d3792140bea71c
 workflow-type: tm+mt
-source-wordcount: '79'
-ht-degree: 0%
+source-wordcount: '108'
+ht-degree: 1%
 
 ---
 
 # 비디오 공유 플로우 맞춤화 {#customize-video-share-flow}
 
 [비디오 공유를 만들](/help/marketo/product-docs/demand-generation/landing-pages/free-form-landing-pages/add-a-video-to-a-free-form-landing-page.md) 때 공유 프롬프트가 표시되는 시기와 위치를 사용자 지정할 수 있습니다.
+
+>[!IMPORTANT]
+>
+>2024년 7월 31일에 이 기능의 사용 중단 프로세스를 시작했습니다. 새 자산을 만들 수 없습니다. 기존 자산은 2025년 1월 31일까지 계속 작동합니다. [자세히 알아보기](https://nation.marketo.com/t5/employee-blogs/marketo-engage-social-features-deprecation/ba-p/351977){target="_blank"}
 
 1. **마케팅 활동**(으)로 이동합니다.
 

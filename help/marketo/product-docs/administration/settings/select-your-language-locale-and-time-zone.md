@@ -4,7 +4,7 @@ description: 언어, 로케일 및 시간대 선택 - Marketo 문서 - 제품 �
 title: 언어, 로케일 및 시간대 선택
 exl-id: d11f376f-618c-4fa8-a6b5-e11d29e8d728
 feature: Administration
-source-git-commit: ab4358ac1d3e1aa1d3733fa5191c5d59022bdf9f
+source-git-commit: 97324d932b65020d041f728928d3792140bea71c
 workflow-type: tm+mt
 source-wordcount: '156'
 ht-degree: 5%
@@ -17,7 +17,7 @@ ht-degree: 5%
 
 >[!IMPORTANT]
 >
->이 문서는 Adobe ID가 있는 [Marketo](/help/marketo/product-docs/administration/marketo-with-adobe-identity/adobe-identity-management-overview.md)을(를) _사용 안 함_&#x200B;하는 사용자를 위한 것입니다. 그렇게 하면 [Adobe 계정 프로필](https://account.adobe.com/profile)에서 아래에 설명된 설정에 액세스할 수 있습니다.
+>이 문서는 Adobe ID가 있는 [Marketo](/help/marketo/product-docs/administration/marketo-with-adobe-identity/adobe-identity-management-overview.md){target="_blank"}을(를) _사용 안 함_&#x200B;하는 사용자를 위한 것입니다. 그렇게 하면 [Adobe 계정 프로필](https://account.adobe.com/kr/profile){target="_blank"}에서 아래에 설명된 설정에 액세스할 수 있습니다.
 
 ## 지원되는 언어 {#supported-languages}
 

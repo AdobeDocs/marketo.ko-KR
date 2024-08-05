@@ -3,16 +3,20 @@ unique-page-id: 2359799
 description: Publish a 경품 - Marketo 문서 - 제품 설명서
 title: Publish 어 스위프스테이크
 exl-id: c02d213c-a965-4737-817a-ce8bd7491853
-source-git-commit: 2671f81f62658447e4b2a3dc2e02a4e0927443e8
+source-git-commit: 97324d932b65020d041f728928d3792140bea71c
 workflow-type: tm+mt
-source-wordcount: '183'
-ht-degree: 0%
+source-wordcount: '212'
+ht-degree: 1%
 
 ---
 
 # Publish 어 스위프스테이크 {#publish-a-sweepstakes}
 
 [경품 추첨 만들기](/help/marketo/product-docs/demand-generation/social/sweepstakes/create-sweepstakes.md)를 완료하면 Marketo 랜딩 페이지, 웹 사이트 및 Facebook에 게시할 수 있습니다.
+
+>[!IMPORTANT]
+>
+>2024년 7월 31일에 이 기능의 사용 중단 프로세스를 시작했습니다. 새 자산을 만들 수 없습니다. 기존 자산은 2025년 1월 31일까지 계속 작동합니다. [자세히 알아보기](https://nation.marketo.com/t5/employee-blogs/marketo-engage-social-features-deprecation/ba-p/351977){target="_blank"}
 
 >[!AVAILABILITY]
 >

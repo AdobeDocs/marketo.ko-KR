@@ -4,9 +4,9 @@ description: 웹 사이트에 Social 배포 - Marketo 문서 - 제품 설명서
 title: 웹 사이트에 Social 배포
 exl-id: bccfa461-29c1-4cf1-8e6a-2186c36bdf7e
 feature: Social
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 97324d932b65020d041f728928d3792140bea71c
 workflow-type: tm+mt
-source-wordcount: '224'
+source-wordcount: '265'
 ht-degree: 0%
 
 ---
@@ -15,9 +15,13 @@ ht-degree: 0%
 
 Marketo이 아닌 페이지에 소셜 앱을 포함합니다.
 
+>[!IMPORTANT]
+>
+>2024년 7월 31일에 이 기능의 사용 중단 프로세스를 시작했습니다. 새 자산을 만들 수 없습니다. 기존 자산은 2025년 1월 31일까지 계속 작동합니다. [자세히 알아보기](https://nation.marketo.com/t5/employee-blogs/marketo-engage-social-features-deprecation/ba-p/351977){target="_blank"}
+
 >[!AVAILABILITY]
 >
->자세한 내용은 영업 담당자에게 문의하십시오.
+>일부 Marketo Engage 사용자가 이 기능을 구입한 것은 아닙니다. 자세한 내용은 Adobe 계정 팀(계정 관리자)에 문의하십시오.
 
 자체 웹 사이트에 소셜 앱을 배포하여 대상자를 참여시키고 모든 사람을 소셜 네트워크에서 대화에 참여시킬 수 있습니다. 사람들이 소셜 네트워크에서 친구들과 프로모션 및 콘텐츠를 공유하면 사이트에 더 많은 트래픽이 생성됩니다.
 

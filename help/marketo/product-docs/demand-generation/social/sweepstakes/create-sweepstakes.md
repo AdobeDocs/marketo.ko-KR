@@ -3,16 +3,20 @@ unique-page-id: 2359795
 description: 경품 추첨 만들기 - Marketo 문서 - 제품 설명서
 title: 경품 추첨 만들기
 exl-id: c16c03df-86d0-40ee-ad95-3c2653fa2a07
-source-git-commit: 2671f81f62658447e4b2a3dc2e02a4e0927443e8
+source-git-commit: 97324d932b65020d041f728928d3792140bea71c
 workflow-type: tm+mt
-source-wordcount: '300'
-ht-degree: 0%
+source-wordcount: '329'
+ht-degree: 1%
 
 ---
 
 # 경품 추첨 만들기 {#create-sweepstakes}
 
 경품추첨은 사람들에게 친구들에게 너에 대해 이야기하는 대가로 상을 받을 기회를 준다. 랜딩 페이지, 웹 사이트 및 Facebook에 드롭할 수 있습니다.
+
+>[!IMPORTANT]
+>
+>2024년 7월 31일에 이 기능의 사용 중단 프로세스를 시작했습니다. 새 자산을 만들 수 없습니다. 기존 자산은 2025년 1월 31일까지 계속 작동합니다. [자세히 알아보기](https://nation.marketo.com/t5/employee-blogs/marketo-engage-social-features-deprecation/ba-p/351977){target="_blank"}
 
 >[!AVAILABILITY]
 >
@@ -34,7 +38,7 @@ ht-degree: 0%
    >
    >시간을 절약하기 위해 **다음에서 복제** 옵션을 사용하여 기존 경품 추첨에서 모든 설정을 복사할 수 있습니다.
 
-   경품 추첨 편집기가 새 창에서 열립니다. 기본 설정은 모두 정상이지만 몇 가지 세부 사항을 구성해야 합니다. 다음 단계에서는 방법을 보여 드리겠습니다.
+   경품 추첨 편집기가 새 창에서 열립니다. 기본 설정은 모두 정상이지만 몇 가지 세부 사항을 구성해야 합니다. 다음 단계에서 방법을 알려드리겠습니다.
 
 1. **경품 추첨 정보**&#x200B;를 클릭합니다.
 
@@ -62,7 +66,7 @@ ht-degree: 0%
    >
    >이 화면에서 개인정보 처리방침 링크를 추가할 수도 있습니다. [소셜 앱에 개인정보 처리방침 추가](/help/marketo/product-docs/demand-generation/social/social-functions/add-your-privacy-policy-to-a-social-app.md)를 참조하십시오.
 
-1. **마침**&#x200B;을 클릭합니다.
+1. **마침을 클릭합니다**.
 
    ![](assets/image2014-9-25-17-3a34-3a2.png)
 

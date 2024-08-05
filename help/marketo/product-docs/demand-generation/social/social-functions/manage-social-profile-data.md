@@ -4,9 +4,9 @@ description: 소셜 프로필 데이터 관리 - Marketo 문서 - 제품 설명�
 title: 소셜 프로필 데이터 관리
 exl-id: 9b20c6fc-5c80-4665-9c93-1bb6e53a29ae
 feature: Social
-source-git-commit: 2671f81f62658447e4b2a3dc2e02a4e0927443e8
+source-git-commit: 97324d932b65020d041f728928d3792140bea71c
 workflow-type: tm+mt
-source-wordcount: '310'
+source-wordcount: '339'
 ht-degree: 5%
 
 ---
@@ -14,6 +14,10 @@ ht-degree: 5%
 # 소셜 프로필 데이터 관리 {#manage-social-profile-data}
 
 누군가 Marketo [소셜 앱](/help/marketo/product-docs/demand-generation/social/configuring-social-actions/customize-social-app-button.md)과 상호 작용하거나 소셜 네트워크에 [소셜 양식 채우기](/help/marketo/product-docs/demand-generation/forms/form-actions/enable-social-form-fill-on-a-form.md)(으)로 Marketo 양식을 미리 채우도록 권한을 부여하면 Marketo에서 소셜 프로필에서 사용할 수 있는 모든 데이터를 캡처합니다. [개인 세부 정보 페이지](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/managing-people-in-smart-lists/using-the-person-detail-page.md)에서 이 정보를 보거나 [스마트 목록의 사용자 지정 보기](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/using-smart-lists/create-and-change-views-for-lists-and-smart-list.md)에서 열로 추가할 수 있습니다.
+
+>[!IMPORTANT]
+>
+>2024년 7월 31일에 이 기능의 사용 중단 프로세스를 시작했습니다. 새 자산을 만들 수 없습니다. 기존 자산은 2025년 1월 31일까지 계속 작동합니다. [자세히 알아보기](https://nation.marketo.com/t5/employee-blogs/marketo-engage-social-features-deprecation/ba-p/351977){target="_blank"}
 
 소셜 양식 채우기 및 소셜 앱은 약간 다른 필드 세트를 캡처합니다. 아래 각 섹션에 대한 섹션을 참조하십시오.
 

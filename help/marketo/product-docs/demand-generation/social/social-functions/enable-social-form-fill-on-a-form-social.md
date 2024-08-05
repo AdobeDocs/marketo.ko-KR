@@ -4,16 +4,20 @@ description: 양식의 소셜 양식 채우기 활성화(소셜) - Marketo 문�
 title: 양식의 소셜 양식 채우기 활성화(소셜)
 exl-id: 675d0499-b127-40fa-84ef-1c6ecfae8e2e
 feature: Social
-source-git-commit: 2671f81f62658447e4b2a3dc2e02a4e0927443e8
+source-git-commit: 97324d932b65020d041f728928d3792140bea71c
 workflow-type: tm+mt
-source-wordcount: '124'
-ht-degree: 0%
+source-wordcount: '153'
+ht-degree: 2%
 
 ---
 
 # 양식의 소셜 양식 채우기 활성화(소셜) {#enable-social-form-fill-on-a-form-social}
 
 방문자가 소셜 네트워크를 사용하여 양식을 작성할 수 있도록 허용합니다. 추가 데이터가 자동으로 제공되며 더 빠른 경험을 얻을 수 있습니다. 방법은 다음과 같습니다.
+
+>[!IMPORTANT]
+>
+>2024년 7월 31일에 이 기능의 사용 중단 프로세스를 시작했습니다. 새 자산을 만들 수 없습니다. 기존 자산은 2025년 1월 31일까지 계속 작동합니다. [자세히 알아보기](https://nation.marketo.com/t5/employee-blogs/marketo-engage-social-features-deprecation/ba-p/351977){target="_blank"}
 
 >[!AVAILABILITY]
 >
@@ -39,7 +43,7 @@ ht-degree: 0%
    >
    >사람들이 소셜 단추를 사용하는 경우 [Marketo에서 캡처할 데이터](/help/marketo/product-docs/demand-generation/social/social-functions/manage-social-profile-data.md)를 살펴보십시오.
 
-1. **마침**&#x200B;을 클릭합니다.
+1. **마침을 클릭합니다**.
 
    ![](assets/image2014-9-15-16-3a36-3a26.png)
 

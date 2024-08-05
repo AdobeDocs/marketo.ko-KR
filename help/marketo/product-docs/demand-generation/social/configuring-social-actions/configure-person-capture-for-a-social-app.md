@@ -4,9 +4,9 @@ description: 소셜 앱에 대한 개인 캡처 구성 - Marketo 문서 - 제품
 title: 소셜 앱에 대한 개인 캡처 구성
 exl-id: bad8db26-bb1b-4d04-a80f-4d5ee3200335
 feature: Social
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 97324d932b65020d041f728928d3792140bea71c
 workflow-type: tm+mt
-source-wordcount: '174'
+source-wordcount: '203'
 ht-degree: 0%
 
 ---
@@ -14,6 +14,10 @@ ht-degree: 0%
 # 소셜 앱에 대한 개인 캡처 구성 {#configure-person-capture-for-a-social-app}
 
 [추천 오퍼](/help/marketo/product-docs/demand-generation/social/referral-offers/create-a-referral-offer.md) 또는 [경품 행사](/help/marketo/product-docs/demand-generation/social/sweepstakes/create-sweepstakes.md)를 만들 때, 요청한 정보와 참여를 위해 사람들에게 필요한 정보를 구성할 수 있습니다.
+
+>[!IMPORTANT]
+>
+>2024년 7월 31일에 이 기능의 사용 중단 프로세스를 시작했습니다. 새 자산을 만들 수 없습니다. 기존 자산은 2025년 1월 31일까지 계속 작동합니다. [자세히 알아보기](https://nation.marketo.com/t5/employee-blogs/marketo-engage-social-features-deprecation/ba-p/351977){target="_blank"}
 
 >[!NOTE]
 >

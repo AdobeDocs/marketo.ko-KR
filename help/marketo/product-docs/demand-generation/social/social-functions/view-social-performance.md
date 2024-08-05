@@ -1,19 +1,23 @@
 ---
 unique-page-id: 2359763
-description: 소셜 성능 보기 - Marketo 문서 - 제품 설명서
-title: 소셜 성과 보기
+description: 보기 Social 성능 - Marketo 문서 - 제품 설명서
+title: 보기 Social 성능
 exl-id: 82f3754f-4aa8-4d07-ac02-22d138d2a021
 feature: Social
-source-git-commit: 2671f81f62658447e4b2a3dc2e02a4e0927443e8
+source-git-commit: 97324d932b65020d041f728928d3792140bea71c
 workflow-type: tm+mt
-source-wordcount: '484'
+source-wordcount: '513'
 ht-degree: 0%
 
 ---
 
-# 소셜 성과 보기 {#view-social-performance}
+# 보기 Social 성능 {#view-social-performance}
 
 소셜 앱에서 생성된 소셜 활동을 확인합니다. 소셜 대시보드를 사용하면 소셜 앱에서 생성되는 다양한 소셜 상호 작용에 대한 통찰력을 얻을 수 있으며, 소셜 앱의 성과를 추적할 수 있습니다.
+
+>[!IMPORTANT]
+>
+>2024년 7월 31일에 이 기능의 사용 중단 프로세스를 시작했습니다. 새 자산을 만들 수 없습니다. 기존 자산은 2025년 1월 31일까지 계속 작동합니다. [자세히 알아보기](https://nation.marketo.com/t5/employee-blogs/marketo-engage-social-features-deprecation/ba-p/351977){target="_blank"}
 
 >[!AVAILABILITY]
 >
@@ -37,9 +41,9 @@ ht-degree: 0%
 
    >[!NOTE]
    >
-   >**최근 24시간**&#x200B;을(를) 선택하면 지표는 매시간 해당 시간의 맨 위에서 계산됩니다. 다른 모든 간격에 대해 지표는 매일 전날 자정에 실행됩니다.
+   >지난 24시간을&#x200B;**선택하면**&#x200B;지표가 시간의 맨 위에서 시간별로 계산됩니다. 다른 모든 간격의 경우 지표는 매일 전날 자정에 실행됩니다.
 
-1. **소셜 단계**&#x200B;를 사용하여 프로모션의 소셜 진행률과 효과를 검토하세요.
+1. Social Funnel **을**&#x200B;사용하여 프로모션 진행 상황과 소셜 효과를 검토하십시오.
 
    * **캠페인 방문**: 잠재 고객이 소셜 앱이 포함된 페이지를 로드하는 횟수입니다.
    * **상호 작용**: 잠재 고객이 소셜 앱과 상호 작용한 횟수(예: [추천 오퍼 등록](/help/marketo/product-docs/demand-generation/social/referral-offers/create-a-referral-offer.md), [투표](/help/marketo/product-docs/demand-generation/social/creating-a-poll/create-a-poll.md), [비디오 공유](/help/marketo/product-docs/demand-generation/landing-pages/free-form-landing-pages/add-a-video-to-a-free-form-landing-page.md) 등)
@@ -53,12 +57,12 @@ ht-degree: 0%
 
    ![](assets/image2014-9-23-17-3a11-3a16.png)
 
-1. **대상자** 패널을 사용하여 잠재 고객이 단어를 내보내는 데 어떻게 도움이 되는지 검토하십시오.
+1. **잠재고객** 패널을 사용하여 잠재 고객이 입소문을 내는 데 어떻게 도움이 되는지 검토하세요.
 
    * **총 프로필**: 소셜 앱에서 소셜 네트워크에 로그인한 잠재 고객의 총 수입니다.
-   * **인플루언서**: 앱 공유에서 한 번 이상의 결과 클릭을 생성한 잠재 고객의 수입니다.
-   * **소셜 연결**: 모든 잠재 고객의 연결 합계입니다. 소셜 네트워크에 공유하는 잠재 고객의 경우, 소셜 앱에서 공유한 시간에 친구 수입니다. 이메일 공유의 경우 앱에서 생성하는 이메일 수신자 수입니다.
-   * **소셜 노출**: 소셜 앱이 잠재 고객 연결 피드에 표시된 총 횟수입니다.
+   * **인플루언서**: 앱 공유에서 하나 이상의 결과 클릭을 생성한 잠재 고객의 수입니다.
+   * **Social Reach**: 모든 잠재 고객 연결의 합계입니다. 소셜 네트워크에 공유하는 잠재 고객의 경우, 소셜 앱에서 공유한 시간에 친구 수입니다. 이메일 공유의 경우 앱에서 생성하는 이메일 수신자 수입니다.
+   * **소셜 노출**: 소셜 앱이 잠재 고객 연결 피드에 나타난 총 횟수입니다.
 
    ![](assets/image2014-9-23-17-3a11-3a26.png)
 
@@ -72,4 +76,4 @@ ht-degree: 0%
 
 >[!MORELIKETHIS]
 >
->또한 트리거 및 필터를 사용하여 콘텐츠를 공유하고 소셜 앱과 상호 작용하는 사용자를 확인하여 이러한 상호 작용에 대해 조치를 취할 수 있습니다. [소셜 활동에 트리거 및 필터 사용](/help/marketo/product-docs/demand-generation/social/social-functions/triggers-and-filters-for-social-activities.md)을 참조하세요.
+>또한 트리거와 필터를 사용하여 누가 컨텐츠 콘텐츠를 공유하고 소셜 앱과 상호 작용하는지 확인하여 이러한 상호 작용에 대해 조치를 취할 수 있습니다. [소셜 활동에 트리거 및 필터 사용](/help/marketo/product-docs/demand-generation/social/social-functions/triggers-and-filters-for-social-activities.md)을 참조하세요.

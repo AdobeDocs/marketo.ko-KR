@@ -4,9 +4,9 @@ description: 디지털 Advertising 캠페인 - Marketo 문서 - 제품 설명서
 title: 디지털 Advertising 캠페인에 대한 수익 속성 설정
 exl-id: 7fb16c5f-7e76-429b-8b01-b5a1dd898158
 feature: Social
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 97324d932b65020d041f728928d3792140bea71c
 workflow-type: tm+mt
-source-wordcount: '825'
+source-wordcount: '854'
 ht-degree: 0%
 
 ---
@@ -14,6 +14,10 @@ ht-degree: 0%
 # 디지털 Advertising 캠페인에 대한 수익 속성 설정 {#set-up-revenue-attribution-for-digital-advertising-campaigns}
 
 다음은 디지털 광고 채널 및 캠페인에 대한 매출 기여도 분석을 설정하는 방법입니다. 설정을 완료하면 다른 Marketo 프로그램과 동일한 방식으로 디지털 광고에 대한 첫 번째 터치 및 다중 터치 매출 기여도 분석을 수행할 수 있습니다.
+
+>[!IMPORTANT]
+>
+>2024년 7월 31일에 이 기능의 사용 중단 프로세스를 시작했습니다. 새 자산을 만들 수 없습니다. 기존 자산은 2025년 1월 31일까지 계속 작동합니다. [자세히 알아보기](https://nation.marketo.com/t5/employee-blogs/marketo-engage-social-features-deprecation/ba-p/351977){target="_blank"}
 
 Marketo에서 첫 번째 광고 프로그램을 설정한 후 다른 채널에 대해 복제하고 업데이트할 수 있습니다. 예를 들어 LinkedIn 프로그램을 Facebook 프로그램으로 복제합니다.
 

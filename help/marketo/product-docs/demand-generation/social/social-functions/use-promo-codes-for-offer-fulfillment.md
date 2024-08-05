@@ -4,16 +4,20 @@ description: 오퍼 이행에 프로모션 코드 사용 - Marketo 문서 - 제�
 title: 오퍼 이행 시 프로모션 코드 사용
 exl-id: 71cfc1c5-ecd3-435f-8c8c-1a93478fe80c
 feature: Social
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 97324d932b65020d041f728928d3792140bea71c
 workflow-type: tm+mt
-source-wordcount: '260'
-ht-degree: 0%
+source-wordcount: '289'
+ht-degree: 1%
 
 ---
 
 # 오퍼 이행 시 프로모션 코드 사용 {#use-promo-codes-for-offer-fulfillment}
 
 추천 오퍼나 경품 추첨을 생성할 때 각 승자에게 프로모션(쿠폰) 코드를 보낼 수 있습니다. 보상을 사용하려면 사이트에서 구매의 체크아웃 페이지와 같은 코드를 사용합니다.
+
+>[!IMPORTANT]
+>
+>2024년 7월 31일에 이 기능의 사용 중단 프로세스를 시작했습니다. 새 자산을 만들 수 없습니다. 기존 자산은 2025년 1월 31일까지 계속 작동합니다. [자세히 알아보기](https://nation.marketo.com/t5/employee-blogs/marketo-engage-social-features-deprecation/ba-p/351977){target="_blank"}
 
 ## 프로모션 코드 업로드 {#upload-promo-codes}
 

@@ -4,16 +4,20 @@ description: 추천 오퍼 만들기 - Marketo 문서 - 제품 설명서
 title: 참조 오퍼 만들기
 exl-id: c295943e-b9e5-4922-a3a4-800ed60cd513
 feature: Social
-source-git-commit: 2671f81f62658447e4b2a3dc2e02a4e0927443e8
+source-git-commit: 97324d932b65020d041f728928d3792140bea71c
 workflow-type: tm+mt
-source-wordcount: '270'
-ht-degree: 0%
+source-wordcount: '299'
+ht-degree: 1%
 
 ---
 
 # 참조 오퍼 만들기 {#create-a-referral-offer}
 
 소개는 사람들에게 그들의 친구를 소개할 수 있는 인센티브를 준다. 성공적인 추천을 위한 목표 및 보상을 만듭니다. 랜딩 페이지, 웹 사이트 및 Facebook에 드롭할 수 있습니다.
+
+>[!IMPORTANT]
+>
+>2024년 7월 31일에 이 기능의 사용 중단 프로세스를 시작했습니다. 새 자산을 만들 수 없습니다. 기존 자산은 2025년 1월 31일까지 계속 작동합니다. [자세히 알아보기](https://nation.marketo.com/t5/employee-blogs/marketo-engage-social-features-deprecation/ba-p/351977){target="_blank"}
 
 >[!AVAILABILITY]
 >
@@ -35,7 +39,7 @@ ht-degree: 0%
    >
    >시간을 절약하기 위해 **다음에서 복제** 옵션을 사용하여 기존 조회 오퍼의 모든 설정을 복사할 수 있습니다.
 
-   추천 오퍼 편집기가 새 창에서 열립니다. 기본 설정은 모두 정상이지만 오퍼의 규칙(약관)에 대한 링크를 추가해야 합니다. 링크가 공유 메시지 화면 하단에 나타납니다. 다음 단계에서는 방법을 보여 드리겠습니다.
+   추천 오퍼 편집기가 새 창에서 열립니다. 기본 설정은 모두 정상이지만 오퍼의 규칙(약관)에 대한 링크를 추가해야 합니다. 링크가 공유 메시지 화면 하단에 나타납니다. 다음 단계에서 방법을 보여 드리겠습니다.
 
 1. **고급 옵션**&#x200B;을 클릭합니다.
 
@@ -49,7 +53,7 @@ ht-degree: 0%
    >
    >이 화면에서 개인정보 처리방침 링크를 추가할 수도 있습니다. [소셜 앱에 개인정보 처리방침 추가](/help/marketo/product-docs/demand-generation/social/social-functions/add-your-privacy-policy-to-a-social-app.md)를 참조하십시오.
 
-1. **마침**&#x200B;을 클릭합니다.
+1. **마침을 클릭합니다**.
 
    ![](assets/image2014-9-19-11-3a4-3a4.png)
 
