@@ -3,9 +3,9 @@ description: Marketo 구독 및 Adobe Admin Console으로의 사용자 마이그
 title: Marketo 구독 및 Adobe Admin Console으로의 사용자 마이그레이션 이해
 exl-id: 91e7b56b-2563-4986-a55c-f9760ea88b05
 feature: Marketo with Adobe Identity
-source-git-commit: 04544aacaf1eeec4ee60d0c09cae87ad591a1c9c
+source-git-commit: dd2d91d61bcbf3f20bdc06977f06b1f3b0b47f01
 workflow-type: tm+mt
-source-wordcount: '1379'
+source-wordcount: '1440'
 ht-degree: 0%
 
 ---
@@ -27,6 +27,10 @@ Adobe은 Adobe Marketo Engage 구독 및 사용자를 관리하는 방법을 향
 * **제품 관리자는 Adobe Admin Console에서 사용자와 사용자의 액세스 권한을 관리합니다**. 모든 Adobe 구독에 대한 사용자를 추가하고 제거합니다. Adobe Admin Console은 사용자 기반 액세스 만료를 지원하지 않습니다. 마이그레이션 후 만료되도록 예약된 Marketo Engage 액세스 권한이 있는 사용자는 계속 마이그레이션되고 만료되지 않는 액세스 권한이 부여됩니다. 마이그레이션 후에는 원하는 만료 날짜 이전에 수동으로 제거해야 합니다.
 
 * **사용자가 Adobe ID로 로그인합니다**. Adobe은 기존 사용자를 Adobe Admin Console으로 마이그레이션합니다. 사용자는 새로운 Adobe ID(Adobe ID 또는 Adobe Federated ID(SSO))를 사용하여 Marketo 구독에 로그인합니다.
+
+* **마이그레이션 후 URL이 다르게 보입니다**. 그러나 에셋의 ID 번호는 그대로 유지됩니다. 또한 이전에 저장한 책갈피는 여전히 올바른 위치로 이동해야 합니다. IT 팀에 문의하여 모든 Marketo Engage 리소스 및 웹 소켓을 허용하도록 아래(별표 포함) 도메인을 추가하는지 확인하십시오.
+
+_*.experience.adobe.com_
 
 ## 변경되지 않는 것은 무엇입니까? {#what-is-not-changing}
 
@@ -116,6 +120,7 @@ Adobe이 마이그레이션되면 사용자는 Marketo에 로그인하는 방식
 
 >[!MORELIKETHIS]
 >
->* [Adobe ID로 마이그레이션](/help/marketo/product-docs/administration/marketo-with-adobe-identity/subscription-and-user-migration/migrating-to-adobe-identity.md){target="_blank"}
+>* [Adobe ID로 마이그레이션 개요](/help/marketo/product-docs/administration/marketo-with-adobe-identity/subscription-and-user-migration/migrating-to-adobe-identity.md){target="_blank"}
 >* [Adobe으로 로그인](/help/marketo/product-docs/administration/marketo-with-adobe-identity/user-sign-in-with-adobe-id.md){target="_blank"}
 >* [Identity Management FAQ Adobe](/help/marketo/product-docs/administration/marketo-with-adobe-identity/faq.md){target="_blank"}
+>* [Adobe Identity Management 자습서로 마이그레이션](https://experienceleague.adobe.com/en/docs/marketo-learn/tutorials/fundamentals/migrating-to-adobe-identity-management){target="_blank"}
