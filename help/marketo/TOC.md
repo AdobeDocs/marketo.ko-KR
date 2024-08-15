@@ -3,9 +3,9 @@ audience: end-user
 user-guide-title: Marketo 안내서
 user-guide-description: Marketo 제품 설명서
 feature-set: Marketo Engage
-source-git-commit: d802f6b5988f93f7c75558d864b527da9e0afbec
+source-git-commit: b8ed6ca65a651de77a06ad5aeb79a2cb2eaa0835
 workflow-type: tm+mt
-source-wordcount: '9344'
+source-wordcount: '9348'
 ht-degree: 0%
 
 ---
@@ -726,6 +726,7 @@ ht-degree: 0%
             + [대화형 웨비나 만들기](product-docs/demand-generation/events/interactive-webinars/create-an-interactive-webinar.md)
             + [웨비나 팀 추가](product-docs/demand-generation/events/interactive-webinars/add-a-webinar-team.md)
             + [대화형 웨비나 디자인](product-docs/demand-generation/events/interactive-webinars/designing-interactive-webinars.md)
+            + [대화형 웨비나 게재](product-docs/demand-generation/events/interactive-webinars/deliver-an-interactive-webinar.md)
             + [템플릿](product-docs/demand-generation/events/interactive-webinars/templates.md)
             + [사용자 지정](product-docs/demand-generation/events/interactive-webinars/customization.md)
             + [룸 관리](product-docs/demand-generation/events/interactive-webinars/room-management.md)
@@ -1008,7 +1009,7 @@ ht-degree: 0%
             + [Publish 어 스위프스테이크](product-docs/demand-generation/social/sweepstakes/publish-a-sweepstakes.md)
             + [경품 당첨자 선택](product-docs/demand-generation/social/sweepstakes/select-sweepstakes-winners.md)
    + 전자 메일 마케팅 {#email-marketing}
-      + 게재 기능 {#deliverability}
+      + 전달성 {#deliverability}
          + [지속적인 구독 취소](product-docs/email-marketing/deliverability/durable-unsubscribe.md)
          + [이메일 전달성 파워 팩: 시드 목록을 가져오는 방법](product-docs/email-marketing/deliverability/email-deliverability-power-pack-how-to-import-a-seed-list.md)
          + [이메일의 하드 및 소프트 바운스](product-docs/email-marketing/deliverability/hard-and-soft-bounces-in-email.md)
@@ -1153,7 +1154,7 @@ ht-degree: 0%
    + Marketo 알림 {#marketo-notifications}
       + [알림: Websocket 연결](product-docs/marketo-notifications/websocket-connection.md)
    + Marketo Sales Connect {#marketo-sales-connect}
-      + {#getting-started} 시작
+      + 시작하기 {#getting-started}
          + [Sales Connect 개요](product-docs/marketo-sales-connect/getting-started/sales-connect-overview.md)
          + [새 Sales Connect 인스턴스에 액세스](product-docs/marketo-sales-connect/getting-started/accessing-your-new-sales-connect-instance.md)
          + [Sales Connect 관리자를 위한 시작 안내서](product-docs/marketo-sales-connect/getting-started/getting-started-guide-for-sales-connect-admins.md)
@@ -1362,7 +1363,7 @@ ht-degree: 0%
    + Marketo Sales Insight {#marketo-sales-insight}
       + 작업 {#actions}
          + [Sales Insight Actions 기능 개요](product-docs/marketo-sales-insight/actions/sales-insight-actions-feature-overview.md)
-         + {#getting-started} 시작
+         + 시작하기 {#getting-started}
             + [Sales Insight Actions 사용 온보딩 안내서](product-docs/marketo-sales-insight/actions/getting-started/sales-insight-actions-user-onboarding-guide.md)
             + [Sales Insight Actions 사용자 온보딩 체크리스트](product-docs/marketo-sales-insight/actions/getting-started/sales-insight-actions-user-onboarding-checklist.md)
             + [Sales Insight Actions 관리 설정 안내서](product-docs/marketo-sales-insight/actions/getting-started/sales-insight-actions-admin-setup-guide.md)
@@ -1653,7 +1654,7 @@ ht-degree: 0%
          + [스마트 캠페인에서 SMS 옵션 사용](product-docs/mobile-marketing/vibes-sms-messages/using-sms-options-in-a-smart-campaign.md)
          + [SMS 보고](product-docs/mobile-marketing/vibes-sms-messages/sms-reporting.md)
          + [SMS 용어집](product-docs/mobile-marketing/vibes-sms-messages/sms-glossary.md)
-   + Personalization {#personalization}
+   + 개인화 {#personalization}
       + 세분화 및 코드 조각 {#segmentation-and-snippets}
          + 세분화 {#segmentation}
             + [세분화 승인](product-docs/personalization/segmentation-and-snippets/segmentation/approve-a-segmentation.md)
@@ -1680,7 +1681,7 @@ ht-degree: 0%
       + [예측 콘텐츠 요약](product-docs/predictive-content/the-predictive-content-summary.md)
       + [예측 콘텐츠 활동을 위한 스마트 목록 정의](product-docs/predictive-content/define-a-smart-list-for-predictive-content-activities.md)
       + [Predictive Content Analytics 개요](product-docs/predictive-content/predictive-content-analytics-overview.md)
-      + {#getting-started} 시작
+      + 시작하기 {#getting-started}
          + [알고리즘 목표 설정](product-docs/predictive-content/getting-started/algorithm-goal-settings.md)
          + [콘텐츠 패턴 만들기](product-docs/predictive-content/getting-started/create-content-patterns.md)
          + [Content-AI용 JavaScript 배포](product-docs/predictive-content/getting-started/deploy-the-javascript-for-content-ai.md)
@@ -1702,7 +1703,7 @@ ht-degree: 0%
          + [이메일에 대한 예측 콘텐츠 편집](product-docs/predictive-content/working-with-predictive-content/edit-predictive-content-for-emails.md)
          + [리치 미디어에 대한 예측 콘텐츠 편집](product-docs/predictive-content/working-with-predictive-content/edit-predictive-content-for-rich-media.md)
          + [권장 사항 막대에 대한 예측 콘텐츠 편집](product-docs/predictive-content/working-with-predictive-content/edit-predictive-content-for-the-recommendation-bar.md)
-   + {#reporting} 보고 중
+   + 보고 {#reporting}
       + [보고 개요](product-docs/reporting/reporting-overview.md)
       + 기본 보고 {#basic-reporting}
          + 보고서 {#creating-reports}을(를) 만드는 중
@@ -1856,7 +1857,7 @@ ht-degree: 0%
          + [계정 인사이트 설정](product-docs/target-account-management/setup-tam/set-up-account-insight.md)
          + [계정 통찰력 플러그인 개요](product-docs/target-account-management/setup-tam/account-insight-plug-in-overview.md)
          + [계정 인사이트에 액세스하도록 사용자 초대](product-docs/target-account-management/setup-tam/invite-users-to-access-account-insight.md)
-      + 대상 {#target}
+      + Target {#target}
          + 명명된 계정 {#named-accounts}
             + [명명된 계정 개요](product-docs/target-account-management/target/named-accounts/named-account-overview.md)
             + [명명 계정 가져오기](product-docs/target-account-management/target/named-accounts/import-named-accounts.md)
@@ -1892,7 +1893,7 @@ ht-degree: 0%
          + [TAM을 통한 계정 기반 웹 마케팅](product-docs/web-personalization/account-based-web-marketing/account-based-web-marketing-with-tam.md)
          + [새 계정 목록 만들기](product-docs/web-personalization/account-based-web-marketing/create-a-new-account-list.md)
          + [계정 목록을 사용하여 세그먼트 만들기](product-docs/web-personalization/account-based-web-marketing/create-a-segment-using-an-account-list.md)
-      + {#getting-started} 시작
+      + 시작하기 {#getting-started}
          + [계정 설정에서 하위 도메인 추가](product-docs/web-personalization/getting-started/add-subdomains-in-account-settings.md)
          + [영역 편집](product-docs/web-personalization/getting-started/edit-regions.md)
          + [로그인 및 사용자 관리](product-docs/web-personalization/getting-started/login-and-user-management.md)
@@ -1964,7 +1965,7 @@ ht-degree: 0%
          + [웹 Personalization 리치 텍스트 편집기 사용](product-docs/web-personalization/working-with-web-campaigns/using-the-web-personalization-rich-text-editor.md)
          + [특정 레이블의 웹 캠페인 보기](product-docs/web-personalization/working-with-web-campaigns/view-web-campaigns-from-a-specific-label.md)
 + 릴리스 정보 {#release-notes}
-   + [릴리스 일정](release-notes/release-schedule.md)
+   + [출시 일정](release-notes/release-schedule.md)
    + [현재 릴리스](release-notes/current.md)
    + [Dynamic Chat 릴리스](release-notes/dynamic-chat.md)
    + 이전 릴리스 {#previous-releases}
@@ -1973,14 +1974,14 @@ ht-degree: 0%
          + [릴리스 노트: 2024년 3월](release-notes/previous-releases/2024/release-notes-mar-24.md)
          + [릴리스 노트: 2024년 4월](release-notes/previous-releases/2024/release-notes-apr-24.md)
          + [릴리스 노트: 2024년 6월](release-notes/previous-releases/2024/release-notes-june-24.md)
-      + 2023년 {#2023}
+      + 2023 {#2023}
          + [릴리스 노트: 2023년 1월](release-notes/previous-releases/2023/release-notes-jan-23.md)
          + [릴리스 노트: 2023년 3월](release-notes/previous-releases/2023/release-notes-mar-23.md)
          + [릴리스 노트: 2023년 5월](release-notes/previous-releases/2023/release-notes-may-23.md)
          + [릴리스 노트: 2023년 7월](release-notes/previous-releases/2023/release-notes-july-23.md)
          + [릴리스 노트: 2023년 9월](release-notes/previous-releases/2023/release-notes-sep-23.md)
          + [릴리스 노트: 2023년 10월](release-notes/previous-releases/2023/release-notes-oct-23.md)
-      + 2022년 {#2022}
+      + 2022 {#2022}
          + [릴리스 노트: 2022년 1월](release-notes/previous-releases/2022/release-notes-jan-22.md)
          + [릴리스 노트: 2022년 3월](release-notes/previous-releases/2022/release-notes-mar-22.md)
          + [릴리스 노트: 2022년 5월](release-notes/previous-releases/2022/release-notes-may-22.md)
@@ -1992,7 +1993,7 @@ ht-degree: 0%
          + [릴리스 노트: 2021년 5월](release-notes/previous-releases/2021/release-notes-may-21.md)
          + [릴리스 노트: 2021년 8월](release-notes/previous-releases/2021/release-notes-aug-21.md)
          + [릴리스 노트: 2021년 10월](release-notes/previous-releases/2021/release-notes-oct-21.md)
-      + 2020년 {#2020}
+      + 2020 {#2020}
          + [릴리스 정보: 2020년 1월](release-notes/previous-releases/2020/release-notes-jan-20.md)
          + [릴리스 정보: 2020년 2월](release-notes/previous-releases/2020/release-notes-feb-20.md)
          + [릴리스 노트: 2020년 6월](release-notes/previous-releases/2020/release-notes-june-20.md)
