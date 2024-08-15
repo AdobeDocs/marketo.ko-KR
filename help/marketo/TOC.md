@@ -3,9 +3,9 @@ audience: end-user
 user-guide-title: Marketo 안내서
 user-guide-description: Marketo 제품 설명서
 feature-set: Marketo Engage
-source-git-commit: b8ed6ca65a651de77a06ad5aeb79a2cb2eaa0835
+source-git-commit: 62ddfc7705fc16fd5b0a5cee17731b878982de1c
 workflow-type: tm+mt
-source-wordcount: '9348'
+source-wordcount: '9353'
 ht-degree: 0%
 
 ---
@@ -721,6 +721,7 @@ ht-degree: 0%
                + [웨비나 프로그램 상태 이해](product-docs/demand-generation/events/create-an-event/create-an-event-with-the-marketo-on24-adapter/understanding-webinar-program-statuses.md)
          + 대화형 웨비나 {#interactive-webinars}
             + [대화형 웨비나 개요](product-docs/demand-generation/events/interactive-webinars/interactive-webinars-overview.md)
+            + [대화형 웨비나 시작](product-docs/demand-generation/events/interactive-webinars/get-started-with-interactive-webinars.md)
             + [대화형 웨비나에 대한 우수 사례](product-docs/demand-generation/events/interactive-webinars/best-practices-for-interactive-webinars.md)
             + [사용자 및 라이선스 관리](product-docs/demand-generation/events/interactive-webinars/user-and-license-management.md)
             + [대화형 웨비나 만들기](product-docs/demand-generation/events/interactive-webinars/create-an-interactive-webinar.md)
