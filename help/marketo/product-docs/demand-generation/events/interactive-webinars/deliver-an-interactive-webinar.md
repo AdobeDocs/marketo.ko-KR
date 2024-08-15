@@ -2,7 +2,7 @@
 description: 대화형 웨비나 제공 - Marketo 문서 - 제품 설명서
 title: 대화형 웨비나 게재
 feature: Interactive Webinars
-source-git-commit: b8ed6ca65a651de77a06ad5aeb79a2cb2eaa0835
+source-git-commit: 0cec57e40dbc5f20174e4d76e41768c4ffc7cecc
 workflow-type: tm+mt
 source-wordcount: '1052'
 ht-degree: 0%
@@ -23,15 +23,13 @@ ht-degree: 0%
 
 1. 공동 호스트 또는 발표자인 경우 웨비나에 대해 받은 이메일의 개인화된 링크를 클릭합니다.
 
-   ![](assets/deliver-an-interactive-webinar-2.png)
-
 1. 오디오/비디오 환경 설정을 선택하고 **회의실 입력**&#x200B;을 클릭하세요.
 
-   ![](assets/deliver-an-interactive-webinar-3.png)
+   ![](assets/deliver-an-interactive-webinar-2.png)
 
 1. 초기 참가자에게 표시할 레이아웃을 선택합니다.
 
-   ![](assets/deliver-an-interactive-webinar-4.png)
+   ![](assets/deliver-an-interactive-webinar-3.png)
 
    >[!NOTE]
    >
@@ -43,17 +41,17 @@ ht-degree: 0%
 
 1. 필요한 경우 세션을 기록할 수 있습니다. 회의실 메뉴에서 **세션 녹음**&#x200B;을(를) 선택하십시오. 나중에 동일한 메뉴에서 레코딩을 중지할 수 있습니다.
 
-   ![](assets/deliver-an-interactive-webinar-5.png)
+   ![](assets/deliver-an-interactive-webinar-4.png)
 
 1. 세션이 지정된 시간에 시작됩니다.
 
 1. 룸 이름을 클릭합니다. 드롭다운에서 **호스트 및 발표자 영역**&#x200B;을(를) 선택하여 프레젠테이션 팀과 백스테이지에서 대화하거나 메모를 공유합니다. 화면 오른쪽에 호스트 및 발표자 영역이 열립니다. 호스트/공동 호스트 및 발표자만 이 화면 부분을 볼 수 있습니다.
 
-   ![](assets/deliver-an-interactive-webinar-6.png)
+   ![](assets/deliver-an-interactive-webinar-5.png)
 
 1. 세션이 완료되면 빨간색 화살표 아이콘을 클릭하고 **모두 세션 종료**&#x200B;를 선택합니다.
 
-   ![](assets/deliver-an-interactive-webinar-7.png)
+   ![](assets/deliver-an-interactive-webinar-6.png)
 
    >[!CAUTION]
    >
@@ -69,11 +67,11 @@ ht-degree: 0%
 
 1. 예정된 시작 15분 이상 전에 이벤트 링크를 시작하는 참가자에게는 이벤트가 시작될 때까지 기다리라는 랜딩 페이지가 표시됩니다.
 
-   ![](assets/deliver-an-interactive-webinar-8.png)
+   ![](assets/deliver-an-interactive-webinar-7.png)
 
 1. 참가자는 오디오 환경 설정을 선택한 다음 Enter room을 클릭해야 합니다. Adobe Connect 룸에 처음 참여하는 참가자에게는 마이크 사용 권한을 위한 브라우저 팝업도 표시됩니다. Adobe Connect은 참가자가 나중에 회의실에서 마이크를 사용할 수 있도록 이 액세스 권한이 필요합니다.
 
-   ![](assets/deliver-an-interactive-webinar-9.png)
+   ![](assets/deliver-an-interactive-webinar-8.png)
 
    >[!NOTE]
    >
@@ -103,7 +101,7 @@ Broadcast Control은 대화형 웨비나 세션에 가상 녹색 공간을 추�
 
 채팅 패널 내의 토론은 기록되지 않습니다. 채팅 패널은 또한 레이아웃 내에서 채팅 pod가 점유했을 부동산을 자유롭게 합니다. 따라서 채팅 토론이 녹음 시청자에게 가치를 더하지 못할 경우, 방을 디자인할 때 채팅 포드 대신 채팅 패널을 사용하십시오.
 
-![](assets/deliver-an-interactive-webinar-10.png)
+![](assets/deliver-an-interactive-webinar-9.png)
 
 [채팅 패널](https://helpx.adobe.com/adobe-connect/using/notes-chat-q-a-polls.html#chat_panel){target="_blank"}에 대해 자세히 알아보세요.
 
@@ -115,7 +113,7 @@ Broadcast Control은 대화형 웨비나 세션에 가상 녹색 공간을 추�
 
 1. [레이아웃] 패널 아래에 있는 렌치 아이콘을 클릭합니다.
 
-   ![](assets/deliver-an-interactive-webinar-.png)
+   ![](assets/deliver-an-interactive-webinar-10.png)
 
 1. [레이아웃] 패널에서 조정할 레이아웃을 선택합니다. 필요에 따라 pod를 이동, 숨기기 또는 표시합니다. 공유 pod에서 프레젠테이션의 새 버전을 업로드하는 것처럼 pod의 콘텐츠를 업데이트할 수도 있습니다.
 
