@@ -3,9 +3,9 @@ description: Identity Management FAQ Adobe - Marketo 문서 - 제품 설명서
 title: IDENTITY MANAGEMENT FAQ ADOBE
 feature: Marketo with Adobe Identity
 exl-id: 2401def7-1696-4d77-a8a3-96c490517121
-source-git-commit: 19f60f58ae4de26536b304eb8ae9677ecc221993
+source-git-commit: 3ae2a894b4f3350fe71f78e5259bab0af31c4f54
 workflow-type: tm+mt
-source-wordcount: '1279'
+source-wordcount: '1342'
 ht-degree: 0%
 
 ---
@@ -28,13 +28,13 @@ Adobe Identity Management 시스템은 세 가지 구성 요소로 구성됩니�
 
 **마이그레이션 후에도 Marketo Engage URL은 그대로 유지됩니까?**
 
-아니. 마이그레이션 후 URL은 다르게 표시됩니다. 그러나 에셋의 ID 번호는 그대로 유지됩니다. 또한 이전에 저장한 책갈피는 여전히 올바른 위치로 이동해야 합니다.
+아니요. 마이그레이션 후 URL은 다르게 표시됩니다.
 
 **URL 변경을 준비하기 위해 수행해야 할 작업이 있습니까?**
 
-예. IT 팀에 문의하여 모든 Marketo Engage 리소스 및 웹 소켓을 허용하도록 아래(별표 포함) 도메인을 추가하는지 확인하십시오.
+예. 마이그레이션 후 Marketo Engage은 experience.adobe.com에서 Adobe Experience Cloud으로 제공됩니다. Marketo Engage 액세스가 중단되지 않도록 IT 팀과 함께 ](/help/marketo/getting-started/initial-setup/configure-protocols-for-marketo.md){target="_blank"} 문서 상단에 나열된 모든 Adobe 도메인을 허용 목록 0해야 합니다.[
 
-_*.experience.adobe.com_
+engage-xx.marketo.com 도메인 _will_&#x200B;의 Marketo Engage 자산에 대한 이전 링크와 책갈피가 계속 작동합니다. 그러나 먼저 탐색 중인 URL의 Marketo Engage 인스턴스에 로그인해야 합니다. 예를 들어 Munchkin ID 123-ABC-456이 있는 인스턴스에서 Smart Campaign에 대한 책갈피로 이동하려면 먼저 Munchkin ID 123-ABC-456으로 Marketo Engage 인스턴스에 로그인해야 합니다.
 
 **Adobe 제품 관리자와 Marketo Engage 관리자 간의 차이점은 무엇입니까?**
 
@@ -58,7 +58,7 @@ _*.experience.adobe.com_
 
 **Adobe Admin Console에서 Marketo 사용자 역할(작업 공간 내)을 관리합니까?**
 
-아니. Marketo Engage 시 사용자 역할 관리(작업 공간 내)가 완료됩니다.
+아니요. Marketo Engage 시 사용자 역할 관리(작업 공간 내)가 완료됩니다.
 
 **IMS 통합 구독의 Marketo 관리자로서 Admin Console에 액세스할 수 없습니다. 액세스 권한을 얻으려면 어떻게 해야 합니까?**
 
@@ -82,7 +82,7 @@ Adobe ID에 온보딩되는 사용자는 제품의 구독 전환기를 통해 IM
 
 **SSO에서 작동합니까?**
 
-예. Adobe IMS와 Marketo 통합은 범용 ID 사용자 및 SSO를 지원합니다. SSO는 이제 Adobe IMS에 의해 구동되며 Adobe Admin Console의 조직 수준에서 설정됩니다. [자세히 알아보기](https://helpx.adobe.com/enterprise/using/set-up-identity.html){target="_blank"}.
+예. Adobe IMS와 Marketo 통합은 범용 ID 사용자 및 SSO를 지원합니다. SSO는 이제 Adobe IMS에 의해 구동되며 Adobe Admin Console의 조직 수준에서 설정됩니다. [자세히 알아보기](https://helpx.adobe.com/kr/enterprise/using/set-up-identity.html){target="_blank"}.
 
 **이미 Adobe ID에 온보딩되었으며 이제 SSO를 구현하려고 합니다. 어떻게 해야 합니까?**
 
@@ -94,11 +94,11 @@ Adobe IMS는 현재 Marketo의 장치 인증 기능과 같은 기능을 지원�
 
 **사용자 초대 대화 상자에서 로그인 기능을 사용하여 사용자의 전자 메일에서 사용자의 로그인을 고유하게 만들 수 있습니까?**
 
-아니. 구독이 IMS를 사용할 수 있는 경우 사용자 초대 워크플로가 더 이상 활성화되지 않으므로 기능이 더 이상 유효하지 않습니다. Adobe ID를 사용하려면 사용자의 ID가 이메일에 의해 제어되어야 합니다.
+아니요. 구독이 IMS를 사용할 수 있는 경우 사용자 초대 워크플로가 더 이상 활성화되지 않으므로 기능이 더 이상 유효하지 않습니다. Adobe ID를 사용하려면 사용자의 ID가 이메일에 의해 제어되어야 합니다.
 
 **Adobe IMS의 경우 Adobe ID, Enterprise ID 또는 Federated ID을 사용할 수 있습니까?**
 
-예. 조직에서 지원할 ID 유형을 결정합니다. 추가 정보는 [ID 개요](https://helpx.adobe.com/enterprise/using/identity.html) 및 [ID 설정](https://helpx.adobe.com/enterprise/using/set-up-identity.html){target="_blank"}에서 찾을 수 있습니다.
+예. 조직에서 지원할 ID 유형을 결정합니다. 추가 정보는 [ID 개요](https://helpx.adobe.com/kr/enterprise/using/identity.html) 및 [ID 설정](https://helpx.adobe.com/kr/enterprise/using/set-up-identity.html){target="_blank"}에서 찾을 수 있습니다.
 
 **Adobe Admin Console에서 지원되는 제품 카드는 무엇입니까?**
 

@@ -3,9 +3,9 @@ description: Marketo 구독 및 Adobe Admin Console으로의 사용자 마이그
 title: Marketo 구독 및 Adobe Admin Console으로의 사용자 마이그레이션 이해
 exl-id: 91e7b56b-2563-4986-a55c-f9760ea88b05
 feature: Marketo with Adobe Identity
-source-git-commit: dd2d91d61bcbf3f20bdc06977f06b1f3b0b47f01
+source-git-commit: 3ae2a894b4f3350fe71f78e5259bab0af31c4f54
 workflow-type: tm+mt
-source-wordcount: '1440'
+source-wordcount: '1513'
 ht-degree: 0%
 
 ---
@@ -28,9 +28,9 @@ Adobe은 Adobe Marketo Engage 구독 및 사용자를 관리하는 방법을 향
 
 * **사용자가 Adobe ID로 로그인합니다**. Adobe은 기존 사용자를 Adobe Admin Console으로 마이그레이션합니다. 사용자는 새로운 Adobe ID(Adobe ID 또는 Adobe Federated ID(SSO))를 사용하여 Marketo 구독에 로그인합니다.
 
-* **마이그레이션 후 URL이 다르게 보입니다**. 그러나 에셋의 ID 번호는 그대로 유지됩니다. 또한 이전에 저장한 책갈피는 여전히 올바른 위치로 이동해야 합니다. IT 팀에 문의하여 모든 Marketo Engage 리소스 및 웹 소켓을 허용하도록 아래(별표 포함) 도메인을 추가하는지 확인하십시오.
+* **마이그레이션 후 URL이 다르게 보입니다**. 마이그레이션 후 Marketo Engage은 experience.adobe.com에서 Adobe Experience Cloud으로 제공됩니다. Marketo Engage 액세스가 중단되지 않도록 IT 팀과 함께 ](/help/marketo/getting-started/initial-setup/configure-protocols-for-marketo.md){target="_blank"} 문서 상단에 나열된 모든 Adobe 도메인을 허용 목록 0해야 합니다.[
 
-_*.experience.adobe.com_
+에셋의 ID 번호는 그대로 유지됩니다. 그리고 engage-xx.marketo.com Marketo Engage _will_&#x200B;의 자산 라이브러리에 대한 이전 링크와 책갈피가 계속 작동합니다. 그러나 먼저 탐색 중인 URL의 Marketo Engage 인스턴스에 로그인해야 합니다. 예를 들어 Munchkin ID 123-ABC-456이 있는 인스턴스에서 Smart Campaign에 대한 책갈피로 이동하려면 먼저 Munchkin ID 123-ABC-456으로 Marketo Engage 인스턴스에 로그인해야 합니다.
 
 ## 변경되지 않는 것은 무엇입니까? {#what-is-not-changing}
 
