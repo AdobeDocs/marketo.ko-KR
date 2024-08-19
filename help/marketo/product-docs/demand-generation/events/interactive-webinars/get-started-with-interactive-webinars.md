@@ -4,7 +4,7 @@ title: 대화형 웨비나 시작
 hide: true
 hidefromtoc: true
 feature: Interactive Webinars
-source-git-commit: 62ddfc7705fc16fd5b0a5cee17731b878982de1c
+source-git-commit: fefe046ca3bcb61ecdffa7a0b9c8477d050aa704
 workflow-type: tm+mt
 source-wordcount: '216'
 ht-degree: 0%
@@ -14,6 +14,8 @@ ht-degree: 0%
 # 대화형 웨비나 시작 {#get-started-with-interactive-webinars}
 
 [대화형 웨비나 개요](/help/marketo/product-docs/demand-generation/events/interactive-webinars/interactive-webinars-overview.md){target="_blank"}{target="_blank"}를 읽고 자세히 살펴볼 준비가 되었습니다. 시작하려면 아래 단계를 따르십시오.
+
+<p>
 
 **1단계**: [사용자 추가](/help/marketo/product-docs/demand-generation/events/interactive-webinars/user-and-license-management.md#add-a-user){target="_blank"} - 대화형 웨비나 액세스를 위해 사용자를 추가(및 필요한 경우 나중에 제거)하는 방법에 대해 알아봅니다.
 
@@ -26,6 +28,8 @@ ht-degree: 0%
 **5단계**: [웨비나 홍보](/help/marketo/product-docs/demand-generation/events/interactive-webinars/promoting-an-interactive-webinar.md){target="_blank"} - 예정된 이벤트를 홍보하는 방법에 대한 중요한 팁을 알아봅니다.
 
 **6단계**: [대화형 웨비나 게재](/help/marketo/product-docs/demand-generation/events/interactive-webinars/deliver-an-interactive-webinar.md){target="_blank"} — 웨비나 발표에 대해 알아야 할 모든 사항.
+
+<p>
 
 됐습니다. 웨비나가 끝나면 유용한 [참여 대시보드](/help/marketo/product-docs/demand-generation/events/interactive-webinars/engagement-dashboard.md){target="_blank"}를 사용하여 어떻게 수행했는지 확인하세요.
 
