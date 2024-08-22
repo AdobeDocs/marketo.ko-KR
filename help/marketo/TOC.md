@@ -3,7 +3,7 @@ audience: end-user
 user-guide-title: Marketo 안내서
 user-guide-description: Marketo 제품 설명서
 feature-set: Marketo Engage
-source-git-commit: 62ddfc7705fc16fd5b0a5cee17731b878982de1c
+source-git-commit: 938ec953d002a9c4bf946a13b1c66cb9718ac2a0
 workflow-type: tm+mt
 source-wordcount: '9353'
 ht-degree: 0%
@@ -1211,6 +1211,8 @@ ht-degree: 0%
             + [CRM용 Sales Connect 사용자 지정](product-docs/marketo-sales-connect/crm/salesforce-customization/sales-connect-customizations-for-crm.md)
             + [Salesforce Classic에서 일괄 작업 사용](product-docs/marketo-sales-connect/crm/salesforce-customization/using-bulk-actions-in-salesforce-classic.md)
             + [Salesforce Lightning에서 일괄 작업 사용](product-docs/marketo-sales-connect/crm/salesforce-customization/using-bulk-actions-in-salesforce-lightning.md)
+            + [Salesforce Classic에서 Marketo Sales Connect 제거](product-docs/marketo-sales-connect/crm/salesforce-customization/uninstall-marketo-sales-connect-from-salesforce-classic.md)
+            + [Salesforce Lightning에서 Marketo Sales Connect 제거](product-docs/marketo-sales-connect/crm/salesforce-customization/uninstall-marketo-sales-connect-from-salesforce-lightning.md)
          + Salesforce 통합 {#salesforce-integration}
             + [Salesforce 활동 세부 정보 사용자 지정 구성](product-docs/marketo-sales-connect/crm/salesforce-integration/configure-salesforce-activity-detail-customization.md)
             + [Sales Connect 계정을 Salesforce에 연결](product-docs/marketo-sales-connect/crm/salesforce-integration/connect-your-sales-connect-account-to-salesforce.md)
@@ -1414,8 +1416,6 @@ ht-degree: 0%
             + Salesforce 패키지 구성 {#salesforce-package-configuration}
                + [Salesforce의 Sales Insight 작업 구성](product-docs/marketo-sales-insight/actions/crm/salesforce-package-configuration/sales-insight-actions-configuration-in-salesforce.md)
                + [Salesforce에 판매 활동 속성 로깅](product-docs/marketo-sales-insight/actions/crm/salesforce-package-configuration/logging-sales-activity-attributes-to-salesforce.md)
-               + [Salesforce Classic에서 Marketo Sales Connect 제거](product-docs/marketo-sales-insight/actions/crm/salesforce-package-configuration/uninstall-marketo-sales-connect-from-salesforce-classic.md)
-               + [Salesforce Lightning에서 Marketo Sales Connect 제거](product-docs/marketo-sales-insight/actions/crm/salesforce-package-configuration/uninstall-marketo-sales-connect-from-salesforce-lightning.md)
                + [Salesforce 목록 보기에 작업 단추 추가](product-docs/marketo-sales-insight/actions/crm/salesforce-package-configuration/add-action-buttons-to-salesforce-list-view.md)
                + [Salesforce에 활동을 기록할 때 활동 유형 필드 업데이트](product-docs/marketo-sales-insight/actions/crm/salesforce-package-configuration/update-activity-type-field-when-logging-activities-to-salesforce.md)
             + Salesforce {#actions-in-salesforce}의 작업
