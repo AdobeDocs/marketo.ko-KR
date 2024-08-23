@@ -2,19 +2,17 @@
 description: Marketo Engage 지원 마이그레이션 - Marketo 문서 - 제품 설명서
 title: Marketo Engage 지원 마이그레이션
 feature: Marketo with Adobe Identity
-hide: true
-hidefromtoc: true
 exl-id: 07e4377a-73d7-4293-938c-ae87c769c128
-source-git-commit: 7e47555e61ef9c4423e83a977637d7a5f4ad9849
+source-git-commit: aa77a0124f261eea2999029806adb1d1aaf3e0da
 workflow-type: tm+mt
-source-wordcount: '467'
+source-wordcount: '468'
 ht-degree: 1%
 
 ---
 
 # Marketo Engage 지원 마이그레이션 {#marketo-engage-support-migration}
 
-Adobe Marketo Engage 지원 경험에 대한 향후 변경 사항에 대해 자세히 알아보십시오. 변경 사항은 사용자 경험을 개선하고 관리 작업을 간소화하기 위해 설계되었습니다.
+Adobe Marketo Engage 지원 프로세스에 대한 향후 변경 사항에 대해 자세히 알아보십시오. 이 업데이트는 관리 작업을 간소화하고 전반적인 환경을 개선하도록 설계되었습니다.
 
 ## Marketo Engage Admin Console {#marketo-engage-admin-console}
 
@@ -38,7 +36,7 @@ Adobe Marketo Engage 지원 경험에 대한 향후 변경 사항에 대해 자�
 
 ## 지원 마이그레이션이 완료되면 어떻게 알 수 있습니까? {#support-migration-has-been-completed}
 
-모든 구독에 대해 사용자 마이그레이션이 완료되면 지원 마이그레이션이 수행됩니다. 지원 마이그레이션의 일부로 PSA로 추가된 경우 사용자 마이그레이션이 완료된 후 특정 구독에 대한 지원에 문의하기 위해 지원 관리자로 추가되었음을 나타내는 이메일을 받게 됩니다. 이렇게 하면 모든 사례 제출에 대해 마케팅 국가에서 Adobe Experience League으로 자동 리디렉션이 트리거됩니다. 자동 리디렉션이 활성화될 때까지 마케팅 국가를 통해 지원 사례를 계속 제출하십시오.
+모든 구독에 대해 사용자 마이그레이션이 완료되면 지원 마이그레이션이 수행됩니다. 지원 마이그레이션의 일부로 PSA로 추가된 경우 사용자 마이그레이션이 완료된 후 특정 구독에 대해 Adobe 지원 팀에 문의하기 위해 지원 관리자로 추가되었음을 나타내는 이메일을 받게 됩니다. 이렇게 하면 모든 사례 제출에 대해 마케팅 국가에서 Adobe Experience League으로 자동 리디렉션이 트리거됩니다. 자동 리디렉션이 활성화될 때까지 마케팅 국가를 통해 지원 사례를 계속 제출하십시오.
 
 ## 추가 리소스 {#additional-resources}
 
