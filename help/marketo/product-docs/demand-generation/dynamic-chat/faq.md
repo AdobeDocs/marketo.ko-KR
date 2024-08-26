@@ -3,9 +3,9 @@ description: Dynamic Chat FAQ - Marketo 문서 - 제품 설명서
 title: DYNAMIC CHAT FAQ
 feature: Dynamic Chat
 exl-id: 7b31afc3-77f4-46fb-9f0e-8cb9d60f3ffb
-source-git-commit: 941fdf08b580bab80c456e3956e965c9e2fa6942
+source-git-commit: ed833219e5074ae646e07db599e7da50665c453b
 workflow-type: tm+mt
-source-wordcount: '873'
+source-wordcount: '882'
 ht-degree: 0%
 
 ---
@@ -68,7 +68,7 @@ Select 패키지를 이용하는 고객의 경우 이는 두 개의 별도 참�
 
 **대화할 때 대화록에 액세스하려면 어떻게 합니까?**
 
-Marketo Engage의 &quot;대화 상자 참여&quot; 활동을 통해 Dynamic Chat 대화 상자와 관련된 알려진 모든 리드에 대해 Dynamic Chat 기록에 액세스할 수 있습니다.
+Marketo Engage에서 &quot;대화 참여&quot; 활동을 통해 Dynamic Chat 대화 상자에 참여했으며 대화 상태가 &quot;완료됨&quot; 또는 &quot;삭제됨&quot;인 알려진 모든 잠재 고객에 대해 Dynamic Chat 기록에 액세스할 수 있습니다.
 
 **방문자가 대화에 참여하면 대화를 다시 시작하거나 이전 질문으로 돌아갈 수 있습니까?**
 
@@ -88,7 +88,7 @@ Dynamic Chat은 Marketo Engage Salesforce 통합을 통해 Salesforce와 통합�
 
 **Dynamic Chat을 사용하여 전자 메일에서 직접 모임을 예약할 수 있습니까?**
 
-네! [방법을 알아보세요](https://nation.marketo.com/t5/product-blogs/using-dynamic-chat-conversational-flows-for-meeting-booking/ba-p/340936){target="_blank"}.
+예! [방법을 알아보세요](https://nation.marketo.com/t5/product-blogs/using-dynamic-chat-conversational-flows-for-meeting-booking/ba-p/340936){target="_blank"}.
 
 **&#39;참여&#39; 또는 &#39;습득한 사용자&#39;와 같은 용어는 정확히 무엇을 의미합니까?**
 
@@ -100,4 +100,4 @@ Dynamic Chat에는 여러 용어가 사용됩니다. 그 중 많은 부분에 �
 
 **Marketo Engage 없이 Dynamic Chat을 사용할 수 있습니까?**
 
-아니. Dynamic Chat은 Marketo Engage과 별도의 애플리케이션이지만 두 애플리케이션은 불가분의 관계에 있습니다.
+아니요. Dynamic Chat은 Marketo Engage과 별도의 애플리케이션이지만 두 애플리케이션은 불가분의 관계에 있습니다.
