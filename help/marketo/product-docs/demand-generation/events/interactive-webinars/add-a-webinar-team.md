@@ -3,10 +3,10 @@ description: 웨비나 팀 추가 - Marketo 문서 - 제품 설명서
 title: 웨비나 팀 추가
 feature: Interactive Webinars
 exl-id: eff0b69a-0ffe-45b4-8170-cd57894ab926
-source-git-commit: 7de0aed6be29a304276f2b3f96dd60974b4c4eb6
+source-git-commit: 488da545043cbd59eb3d3b1d4f57684d14bd501a
 workflow-type: tm+mt
-source-wordcount: '379'
-ht-degree: 0%
+source-wordcount: '393'
+ht-degree: 1%
 
 ---
 
@@ -36,9 +36,9 @@ ht-degree: 0%
 
    >[!NOTE]
    >
-   >**내부 대화형 웨비나 사용자**&#x200B;를 선택하는 경우 **사용 가능한 호스트** 드롭다운을 클릭하고 Marketo Engage에서 대화형 웨비나 사용자로 추가된 사용자 목록에서 선택하면 됩니다.
+   >**내부 대화형 웨비나 사용자**&#x200B;를 선택하는 경우 **사용 가능한 호스트** 드롭다운을 클릭하고 Marketo Engage에서 대화형 웨비나 사용자로 추가된 사용자 목록에서 선택하면 됩니다. 기존 호스트는 이미 호스트이므로 이 드롭다운에 표시되지 않습니다.
 
-1. 원하는 공동 호스트의 이름, 성 및 이메일 주소를 입력합니다. **추가**&#x200B;를 클릭합니다.
+1. 원하는 공동 호스트의 이름, 성 및 이메일 주소를 입력합니다. **추가를 클릭합니다**.
 
    ![](assets/add-a-webinar-team-3.png)
 
@@ -52,7 +52,7 @@ ht-degree: 0%
 
    ![](assets/add-a-webinar-team-5.png)
 
-1. 원하는 발표자의 이름, 성 및 이메일 주소를 입력합니다. **추가**&#x200B;를 클릭합니다.
+1. 원하는 발표자의 이름, 성 및 이메일 주소를 입력합니다. **추가를 클릭합니다**.
 
    ![](assets/add-a-webinar-team-6.png)
 

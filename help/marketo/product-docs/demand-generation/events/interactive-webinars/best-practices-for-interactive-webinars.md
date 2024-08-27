@@ -3,9 +3,9 @@ description: 대화형 웨비나에 대한 우수 사례 - Marketo 문서 - 제�
 title: 대화형 웨비나에 대한 우수 사례
 feature: Interactive Webinars
 exl-id: fd9d7d03-8d92-45f7-9372-a2b6d2f4c635
-source-git-commit: dae00c6877e638ae60305122f3f3e17b3c922e10
+source-git-commit: 488da545043cbd59eb3d3b1d4f57684d14bd501a
 workflow-type: tm+mt
-source-wordcount: '1650'
+source-wordcount: '1691'
 ht-degree: 0%
 
 ---
@@ -19,6 +19,10 @@ ht-degree: 0%
 ## 사전 이벤트 준비 {#pre-event-preparation}
 
 ### 이벤트 만들기 {#creating-an-event}
+
+>[!TIP]
+>
+>대화형 웨비나 모바일 웹 경험은 응답하지 않으므로 모바일 장치에서 원활한 웨비나 경험을 위해 Adobe Connect 앱을 사용하는 것이 좋습니다. Adobe Connect 앱은 현재 중국의 앱스토어에서 사용할 수 없습니다.
 
 * 처음부터 새로 시작하지 않도록 샘플 대화형 웨비나(IW)를 만들어 매번 복제합니다.
 
