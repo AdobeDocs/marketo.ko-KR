@@ -3,9 +3,9 @@ description: 모임 목록 - Marketo 문서 - 제품 설명서
 title: 모임 목록
 feature: Dynamic Chat
 exl-id: d26aac7f-b22a-4bc8-b279-2a8522624106
-source-git-commit: c16081143588ebc0793f5b6e2630b58348e27124
+source-git-commit: d8c6ff5b54b9cee26456ec7539168a5ee0c8190f
 workflow-type: tm+mt
-source-wordcount: '95'
+source-wordcount: '116'
 ht-degree: 0%
 
 ---
@@ -19,3 +19,10 @@ ht-degree: 0%
 >[!NOTE]
 >
 >상담원의 캘린더에서 모임이 예약되면 상담원은 방문자의 Dynamic Chat 참여에 대한 세부 정보를 포함하여 예약에 대한 이메일 알림을 받게 됩니다.
+
+## 실패한 작업 알림 {#failed-action-notifications}
+
+모임 예약 또는 라이브 채팅과 같은 작업이 실패할 경우 이메일을 통해 사용자에게 알립니다.
+
+![](assets/meeting-list-2.png)
+

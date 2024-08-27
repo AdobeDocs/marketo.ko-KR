@@ -3,9 +3,9 @@ description: 라이브 채팅 개요 - Marketo 문서 - 제품 설명서
 title: 라이브 채팅 개요
 feature: Dynamic Chat
 exl-id: 44e8b249-b534-4cec-a612-daa184acd266
-source-git-commit: 14ccfe39059b9c900a5e5e00b082146bb500d79d
+source-git-commit: d8c6ff5b54b9cee26456ec7539168a5ee0c8190f
 workflow-type: tm+mt
-source-wordcount: '665'
+source-wordcount: '686'
 ht-degree: 0%
 
 ---
@@ -26,7 +26,7 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->라이브 에이전트 아바타는 에이전트의 Adobe 계정 프로필에서 프로필 사진을 사용합니다. 이미지를 업데이트하려면 [다음 단계](https://helpx.adobe.com/manage-account/using/edit-adobe-account-personal-profile.html){target="_blank"}를 따르십시오.
+>라이브 에이전트 아바타는 에이전트의 Adobe 계정 프로필에서 프로필 사진을 사용합니다. 이미지를 업데이트하려면 [다음 단계](https://helpx.adobe.com/kr/manage-account/using/edit-adobe-account-personal-profile.html){target="_blank"}를 따르십시오.
 
 ## 라이브 채팅 카드 사용 {#using-the-live-chat-card}
 
@@ -104,6 +104,12 @@ Mac의 [단계](https://support.apple.com/guide/mac-help/change-notifications-se
 >
 >* [Google Chrome](https://support.google.com/chrome/answer/3220216?hl=en&amp;co=GENIE.Platform%3DDesktop){target="_blank"}에서 브라우저 알림 사용
 >* [Mozilla Firefox](https://support.mozilla.org/en-US/kb/push-notifications-firefox){target="_blank"}에서 브라우저 알림 사용
+
+### 실패한 작업 알림 {#failed-action-notifications}
+
+모임 예약 또는 라이브 채팅과 같은 작업이 실패할 경우 이메일을 통해 사용자에게 알립니다.
+
+![](assets/live-chat-overview-6.png)
 
 ### 참고할 사항 {#things-to-note}
 

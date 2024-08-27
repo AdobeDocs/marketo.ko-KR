@@ -3,9 +3,9 @@ description: Stream Designer - Marketo 문서 - 제품 설명서
 title: 스트림 디자이너
 feature: Dynamic Chat
 exl-id: 310b1dff-dd93-48a6-85c2-64c58494ce48
-source-git-commit: 0015db05477cbb46a34e8abd4800d00c6522496f
+source-git-commit: d8c6ff5b54b9cee26456ec7539168a5ee0c8190f
 workflow-type: tm+mt
-source-wordcount: '1229'
+source-wordcount: '1250'
 ht-degree: 2%
 
 ---
@@ -119,7 +119,11 @@ ht-degree: 2%
 
    >[!TIP]
    >
-   >토큰을 사용하여 알려진 채팅 방문자에 대한 환경을 개인화할 수 있습니다(예: `{{lead.leadFirstName:""}}` 님 안녕하세요). 오른쪽에 있는 중괄호 아이콘을 클릭하고 원하는 항목을 선택하십시오. 익명 방문자에게 일반적인 항목을 표시하려면 따옴표 사이에 기본값을 추가하십시오(예: `{{lead.leadFirstName:"there"}}` 님, 안녕하세요).
+   >채팅 방문자에 대한 경험을 사용자 지정할 수 있습니다!
+   >
+   >* &quot;HTML 삽입&quot; 아이콘 `</>`을(를) 클릭하여 원하는 대화 모양과 느낌에 대한 HTML을 삽입하십시오.
+   >
+   >* 알려진 채팅 방문자에 대해 토큰을 사용하여 환경을 개인화합니다(예: `{{lead.leadFirstName:""}}` 님, 안녕하세요). 중괄호 아이콘 `{}`을(를) 클릭하고 선택합니다. 익명 방문자에게 일반적인 항목을 표시하려면 따옴표 사이에 기본값을 추가하십시오(예: `{{lead.leadFirstName:"there"}}` 님, 안녕하세요).
 
    >[!NOTE]
    >

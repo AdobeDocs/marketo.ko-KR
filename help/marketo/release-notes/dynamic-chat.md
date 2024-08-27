@@ -1,24 +1,86 @@
 ---
 description: Dynamic Chat 릴리스 정보 - Marketo 설명서 - 제품 설명서
-title: Dynamic Chat 릴리스 노트
+title: Dynamic Chat 릴리스 정보
 feature: Release Information, Dynamic Chat
 exl-id: 0447dc47-b9c5-42e1-8f66-73bf67c7871d
-source-git-commit: 0015db05477cbb46a34e8abd4800d00c6522496f
+source-git-commit: d8c6ff5b54b9cee26456ec7539168a5ee0c8190f
 workflow-type: tm+mt
-source-wordcount: '1472'
-ht-degree: 0%
+source-wordcount: '1869'
+ht-degree: 2%
 
 ---
 
-# Dynamic Chat 릴리스 노트 {#dynamic-chat-release}
+# Dynamic Chat 릴리스 정보 {#dynamic-chat-release}
 
 Adobe Dynamic Chat 릴리스는 기능 배포에 대한 보다 확장 가능한 접근 방식을 고려하는 연속 제공 모델에서 작동합니다. 한 달에 릴리스가 여러 개인 경우가 있으므로 정기적으로 최신 정보를 확인하십시오.
 
 [ Marketo Engage에 대한 표준 릴리스 노트는 ](/help/marketo/release-notes/current.md){target="_blank"}에 있습니다.
 
+## 2024년 8월 릴리스 {#august-release}
+
+**릴리스 날짜: 2024년 8월 23일**
+
+### 대화 메시지의 서식을 사용자 지정합니다. {#custom-format-conversation-messages}
+
+이제 스트림 디자이너가 [HTML 삽입](/help/marketo/product-docs/demand-generation/dynamic-chat/automated-chat/stream-designer.md#create-a-stream){target="_blank"}을 지원하여 대화의 모양과 느낌을 사용자 지정할 수 있습니다.
+
+![](assets/dynamic-chat-aug-2024-release-1.png)
+
+### 챗봇이 아래쪽으로 스크롤 {#chatbot-scroll-to-bottom}
+
+웹 방문자가 마지막 메시지로 바로 이동할 수 있도록 챗봇에 아이콘이 추가되었습니다. 이렇게 하면 방문자가 텍스트를 스크롤하여 대화로 빠르게 돌아갈 수 있습니다.
+
+![](assets/dynamic-chat-aug-2024-release-2.png)
+
+### 코어 펄스 알림 {#core-pulse-notifications}
+
+모임 예약 또는 실시간 채팅이 실패하면 사용자는 [전자 메일 알림](/help/marketo/product-docs/demand-generation/dynamic-chat/live-chat/live-chat-overview.md#failed-action-notifications){target="_blank"}을 받습니다.
+
+![](assets/dynamic-chat-aug-2024-release-3.png)
+
+### 여러 대화 지원 {#support-for-multiple-conversations}
+
+이제 챗봇이 여러 대화를 지원합니다. 웹 사이트 방문자는 서로 다른 페이지에서 서로 다른 대화를 동시에 주고받을 수 있습니다.
+
+![](assets/dynamic-chat-aug-2024-release-4.png)
+
+### 콘텐츠에 대한 기본 정렬 {#default-sorting-for-content}
+
+기본적으로 대화 로그, 대답되지 않은 질문 및 질문 생성 표는 생성된 날짜별로 정렬됩니다(가장 최근 날짜부터 가장 오래된 날짜까지).
+
+### 실시간 리드 해결 {#real-time-lead-resolution}
+
+익명의 잠재 고객과의 대화 중에 이메일 ID가 제공되면 해당 이메일 ID에 알려진 잠재 고객 레코드가 있는지 확인하고 해당 레코드를 개인화에 실시간으로 사용합니다. 여러 레코드를 찾으면 실시간으로 병합합니다. 이 동작은 대화 상자 및 대화 흐름 모두에 대해 구현됩니다.
+
+### Marketo Engage의 쿠키 없이 리드 동기화 {#syncing-leads-without-cookies}
+
+이전에는 Marketo Engage 동기화가 활성화되면 Dynamic Chat이 알려진 잠재 고객만 Marketo Engage의 쿠키 ID를 하나 이상 동기화했습니다. 이제 알려진 모든 잠재 고객 (쿠키 ID가 있는지 여부)이 Dynamic Chat에 동기화되며 대화 개인화에 사용할 수 있습니다.
+
+### 대화 흐름에 추가 방문자 데이터 전달 {#pass-additional-visitor-data}
+
+양식이나 로그인과 같은 다른 채널을 통해 방문자 정보를 캡처하는 경우 이제 이 정보를 Dynamic Chat에 직접 전달할 수 있습니다.
+
+![](assets/dynamic-chat-aug-2024-release-5.png)
+
+### 유추 데이터 새로 고침 {#refreshed-inferred-data}
+
+웹 사이트에서 이루어지는 대화의 대부분은 익명 방문자와 이루어집니다. 방문자 IP에 의존하는 추론된 데이터를 통해 타겟팅할 수도 있습니다. 4배 이상의 IP를 지원하는 IP 및 각각의 유추 데이터 데이터베이스를 업데이트했습니다.
+
+### 사운드가 에이전트 브라우저 알림에 추가됨 {#sound-added-to-agent-browser-notification}
+
+라이브 채팅이 에이전트에게 할당되면 브라우저 알림을 받습니다. 하지만 가끔 그들은 그들을 보지 못합니다. 알림 사운드를 추가하여 누락된 알림이 더 이상 진행되지 않도록 했습니다.
+
+![](assets/dynamic-chat-aug-2024-release-6.png)
+
+### 라이브 채팅 중 리드 프로필 업데이트 기능 {#update-lead-profile-during-live-chat}
+
+라이브 채팅 중에 에이전트는 방문자에 대한 정보를 캡처하고 각 프로필을 업데이트하려고 합니다. 이제 리드 및 회사 객체의 속성 값을 업데이트할 수 있습니다.
+
+![](assets/dynamic-chat-aug-2024-release-7.png)
+
 ## 2024년 6월 릴리스 {#june-release}
 
-**릴리스 날짜: 2024년 6월 6일**
+**릴리스 일자: 2024년 6월 6일 금요일**
 
 ### 대화형 흐름 카드 {#conversational-flow-card}
 
@@ -38,7 +100,7 @@ Adobe Dynamic Chat 릴리스는 기능 배포에 대한 보다 확장 가능한 
 
 ## 2024년 5월 릴리스 {#may-release}
 
-**릴리스 날짜: 2024년 5월 15일**
+**릴리스 일자: 2024년 5월 15일 목요일**
 
 ### 사전 승인된 응답 라이브러리 {#pre-approved-response-library}
 
@@ -76,7 +138,7 @@ AI 생성 질문 및 답변의 [마케팅 승인 라이브러리를 만듭니다
 
 ## 2024년 4월 릴리스 {#april-release}
 
-**릴리스 날짜: 2024년 4월 23일**
+**릴리스 일자: 2024년 4월 23일 수요일**
 
 ### 이제 모든 사용자가 대화 흐름을 사용할 수 있습니다. {#conversational-flows-available-to-all-users}
 
@@ -177,7 +239,7 @@ _&#42;이전에 100번의 라이프타임 참여를 통해 체험판 기능으�
 
 ## 2024년 2월 릴리스 {#february-release}
 
-**릴리스 날짜: 2024년 2월 22일**
+**릴리스 일자: 2024년 2월 22일 금요일**
 
 ### 대화 페이지 {#conversations-page}
 
@@ -195,7 +257,7 @@ _&#42;이전에 100번의 라이프타임 참여를 통해 체험판 기능으�
 
 ## 2024년 1월 릴리스 {#january-release}
 
-**릴리스 날짜: 2024년 1월 24일**
+**릴리스 일자: 2024년 1월 24일 목요일**
 
 ### 에이전트 관리의 동시 라이브 채팅 제한 설정 {#Concurrent-live-chat-limit-setting}
 
