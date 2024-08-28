@@ -4,9 +4,9 @@ description: 설정 및 사용자 추가 - Marketo 문서 - 제품 설명서
 title: 설정 및 사용자 추가
 exl-id: 194c7421-fe6d-4d8c-bd34-d3fc89ec80f2
 feature: Getting Started
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 6733bca40fbe09fd1c5b6166aef7a74759d7808e
 workflow-type: tm+mt
-source-wordcount: '216'
+source-wordcount: '226'
 ht-degree: 0%
 
 ---
@@ -15,9 +15,9 @@ ht-degree: 0%
 
 미션을 시작하기 전에 해야 할 몇 가지 사항이 있습니다.
 
-## 1단계: Marketo에 로그인 {#step-log-in-to-marketo}
+## 1단계: Marketo Engage에 로그인 {#step-log-in-to-marketo}
 
-1. 전자 메일로 받은 자격 증명을 사용하여 [Marketo에 로그인](https://app.marketo.com){target="_blank"}.
+1. 전자 메일로 받은 자격 증명을 사용하여 [Marketo Engage에 로그인](https://app.marketo.com){target="_blank"}.
 
    ![](assets/get-set-up-and-add-a-person-1.png)
 
@@ -59,7 +59,9 @@ ht-degree: 0%
 
    >[!CAUTION]
    >
-   >Marketo은 이모지가 포함된 이메일 주소를 **지원하지 않습니다**.
+   >* 이메일 주소에 ASCII 문자만 포함되어 있는지 확인하십시오.
+   >
+   >* Marketo은 이모지가 포함된 이메일 주소를 **지원하지 않습니다**.
 
 1. 상대를 보려면 왼쪽 메뉴에서 [!UICONTROL 시스템 스마트 목록]을 연 다음 **[!UICONTROL 모든 사람]**&#x200B;을 클릭하세요.
 
