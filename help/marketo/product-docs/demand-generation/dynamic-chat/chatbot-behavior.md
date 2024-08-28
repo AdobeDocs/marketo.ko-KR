@@ -3,9 +3,9 @@ description: 챗봇 비헤이비어 - Marketo 문서 - 제품 설명서
 title: 챗봇 비헤이비어
 feature: Dynamic Chat
 exl-id: e91e7981-6617-42fe-8120-a7311a99cdfb
-source-git-commit: 38274b4859ae38c018ee73d4f1715fdf6a78e815
+source-git-commit: d88406c1f9d72c57a6d4f09934cbf685499ed198
 workflow-type: tm+mt
-source-wordcount: '1623'
+source-wordcount: '1680'
 ht-degree: 0%
 
 ---
@@ -406,3 +406,7 @@ ht-degree: 0%
     </tr>
   </tbody>
 </table>
+
+## 실시간 리드 해결 {#real-time-lead-resolution}
+
+익명의 잠재 고객과의 대화 중에 이메일 ID가 제공되면 해당 이메일 ID에 알려진 잠재 고객 레코드가 있는지 확인하고 해당 레코드를 개인화에 실시간으로 사용합니다. 여러 레코드를 찾으면 실시간으로 병합합니다. 이 동작은 대화 상자 및 대화 흐름 모두에 대해 구현됩니다.

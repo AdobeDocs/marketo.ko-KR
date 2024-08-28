@@ -3,9 +3,9 @@ description: 라이브 채팅 개요 - Marketo 문서 - 제품 설명서
 title: 라이브 채팅 개요
 feature: Dynamic Chat
 exl-id: 44e8b249-b534-4cec-a612-daa184acd266
-source-git-commit: d8c6ff5b54b9cee26456ec7539168a5ee0c8190f
+source-git-commit: d88406c1f9d72c57a6d4f09934cbf685499ed198
 workflow-type: tm+mt
-source-wordcount: '686'
+source-wordcount: '697'
 ht-degree: 0%
 
 ---
@@ -94,7 +94,7 @@ Mac의 [단계](https://support.apple.com/guide/mac-help/change-notifications-se
 
 ### 실시간 채팅이 에이전트에게 라우팅되는 경우 {#when-a-live-chat-is-routed-to-an-agent}
 
-실시간 채팅이 에이전트에게 라우팅되면 화면 맨 위에 수락하라는 파란색 배너가 표시됩니다.
+라이브 채팅이 에이전트에게 라우팅되면 화면 맨 위에 수락하라는 파란색 배너와 알림을 놓치지 않도록 해 주는 알림 사운드가 표시됩니다.
 
 ![](assets/live-chat-overview-3.png)
 
