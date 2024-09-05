@@ -4,9 +4,9 @@ description: 구독 로그인에 범용 ID 사용 - Marketo 문서 - 제품 설�
 title: 구독 로그인에 범용 ID 사용
 exl-id: 75cf1323-0468-49e9-83ca-e55aa30744ac
 feature: Administration
-source-git-commit: c0f0134972138eb4fa3498028a4acf5233dbe2fe
+source-git-commit: 5a8ea3c5356cb370b4e502b23eea8a457bfc97f1
 workflow-type: tm+mt
-source-wordcount: '544'
+source-wordcount: '569'
 ht-degree: 0%
 
 ---
@@ -50,6 +50,8 @@ ht-degree: 0%
 ## 구독 간 전환 {#switching-between-subscriptions}
 
 범용 ID를 사용하면 로그인한 구독을 볼 수 있고 로그인 액세스 권한이 있는 다른 구독을 선택할 수 있습니다. 대부분의 경우 로그아웃했다가 다시 로그인하지 않고도 전환할 수 있습니다.
+
+[단일 사인온](/help/marketo/product-docs/administration/additional-integrations/add-single-sign-on-to-a-portal.md)과(와) 유니버설 ID를 모두 사용하도록 설정한 경우 구독 간에 전환하려면 &quot;단일 사인온 우회&quot; 권한을 설정해야 합니다.
 
 ![](assets/using-a-universal-id-for-subscription-login-2.png)
 
