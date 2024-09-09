@@ -3,9 +3,9 @@ audience: end-user
 user-guide-title: Marketo 안내서
 user-guide-description: Marketo 제품 설명서
 feature-set: Marketo Engage
-source-git-commit: 938ec953d002a9c4bf946a13b1c66cb9718ac2a0
+source-git-commit: 0ca5fa73fa93845c4795b94980cc1170665a1ccb
 workflow-type: tm+mt
-source-wordcount: '9353'
+source-wordcount: '9349'
 ht-degree: 0%
 
 ---
@@ -1488,7 +1488,6 @@ ht-degree: 0%
             + {#managing-contacts} 연락처 관리
                + [사람에 대한 대량 작업](product-docs/marketo-sales-insight/actions/people/managing-contacts/bulk-actions-on-people.md)
                + [연락처 만들기 및 삭제](product-docs/marketo-sales-insight/actions/people/managing-contacts/creating-and-deleting-contacts.md)
-               + [CSV로 연락처 가져오기](product-docs/marketo-sales-insight/actions/people/managing-contacts/import-contacts-via-csv.md)
                + [그룹 관리](product-docs/marketo-sales-insight/actions/people/managing-contacts/manage-groups.md)
                + [사용자 페이지 열](product-docs/marketo-sales-insight/actions/people/managing-contacts/people-page-columns.md)
          + 전화 {#phone}
