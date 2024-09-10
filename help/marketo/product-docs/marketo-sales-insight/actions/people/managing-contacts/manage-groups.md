@@ -3,9 +3,9 @@ description: 그룹 관리 - Marketo 문서 - 제품 설명서
 title: 그룹 관리
 exl-id: 9b21f552-d4ba-40ed-b4a7-0070cf3e7201
 feature: Sales Insight Actions
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 03f3824f67a2b72ad164bf5ecc0bfcf9748db3ff
 workflow-type: tm+mt
-source-wordcount: '362'
+source-wordcount: '343'
 ht-degree: 0%
 
 ---
@@ -66,10 +66,6 @@ Sales Insight Actions에서 그룹을 관리하는 방법을 알아봅니다.
 1. **그룹 작업**&#x200B;을 클릭하고 **연락처 만들기 및 그룹에 추가**&#x200B;를 선택합니다.
 
    ![](assets/manage-groups-4.png)
-
-   >[!NOTE]
-   >
-   >이렇게 하면 한 번에 한 명의 연락처가 추가됩니다. 여러 연락처를 동시에 추가하려면 [다음 단계](/help/marketo/product-docs/marketo-sales-insight/actions/people/managing-contacts/import-contacts-via-csv.md)를 따르십시오.
 
 1. 대화 상대 정보를 입력하고 **만들기**(또는 **새로 만들기 및 추가**&#x200B;를 클릭하여 다른 대화 상대를 추가하세요.)
 

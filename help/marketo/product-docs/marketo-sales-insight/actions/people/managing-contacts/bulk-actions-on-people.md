@@ -3,9 +3,9 @@ description: 인력에 대한 대량 작업 - Marketo 문서 - 제품 설명서
 title: 사람에 대한 대량 작업
 exl-id: fcd89688-6905-4714-9254-42873eca8428
 feature: Sales Insight Actions
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 03f3824f67a2b72ad164bf5ecc0bfcf9748db3ff
 workflow-type: tm+mt
-source-wordcount: '140'
+source-wordcount: '129'
 ht-degree: 2%
 
 ---
@@ -34,7 +34,7 @@ ht-degree: 2%
 >
 >소스를 사용자 지정할 수 없습니다.
 
-## 인증 {#authorization}
+## Authorization {#authorization}
 
 [GDPR](https://eugdpr.org/)을(를) 준수하는 경우 권한 부여를 사용하여 해당 연락처에 참여할 수 있는 권한을 받은 방법을 지정하십시오.
 
@@ -45,9 +45,3 @@ ht-degree: 2%
 더 이상 귀하로부터 서신을 받지 않으려는 연락처에 대해 일괄 구독 취소를 수행합니다.
 
 ![](assets/bulk-actions-on-people-5.png)
-
-## 삭제 {#delete}
-
-연락처를 일괄적으로 삭제합니다. 전체 단계는 [여기](/help/marketo/product-docs/marketo-sales-insight/actions/people/managing-contacts/creating-and-deleting-contacts.md)에 있습니다.
-
-![](assets/bulk-actions-on-people-6.png)
