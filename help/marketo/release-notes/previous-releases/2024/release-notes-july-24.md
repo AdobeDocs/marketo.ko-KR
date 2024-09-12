@@ -2,9 +2,9 @@
 description: 릴리스 노트 - 2024년 7월 - Marketo 설명서 - 제품 설명서
 title: 릴리스 정보 - 2024년 7월
 feature: Release Information
-source-git-commit: 3881c6e327dc7edc072fd3e7e3d4f6f5b78347dc
+source-git-commit: 3a722d0f4ec3e48b031c641d3b73e1e5539ebf80
 workflow-type: tm+mt
-source-wordcount: '523'
+source-wordcount: '522'
 ht-degree: 3%
 
 ---
@@ -88,4 +88,4 @@ Adobe Dynamic Chat [에 대한 릴리스 정보는 여기에서 찾을 수 있�
 
 * **쿼리 매개 변수 사용 중단**: Marketo Engage REST API 호출의 쿼리 매개 변수에서 액세스 토큰을 사용한 인증 지원은 이후 릴리스(특정 날짜 TBD)에서 제거됩니다. 기존 통합은 인증 헤더 [여기에 설명됨](https://developers.marketo.com/rest-api/authentication/){target="_blank"}의 사용으로 마이그레이션해야 합니다. 새 개발에서는 Marketo Engage 인증을 위한 인증 헤더만 사용해야 합니다.
 
-* **LinkedIn 재인증 필요**: LinkedIn에서 Marketo Engage LinkedIn 통합에 사용되는 마케팅 API를 업그레이드하고 있습니다. 이러한 변경 사항을 적용하려면 2024년 7월 26일부터 12월 15일 사이에 **관리자** > **LaunchPoint** 메뉴에서 모든 LinkedIn LaunchPoint 서비스를 다시 인증해야 합니다. 이 [잠재 고객 세대 Forms의 경우 여기](/help/marketo/product-docs/demand-generation/social/social-functions/set-up-linkedin-lead-gen-forms.md){target="_blank"}, [일치하는 대상의 경우 여기](/help/marketo/product-docs/demand-generation/ad-network-integrations/add-linkedin-matched-audiences-as-a-launchpoint-service.md){target="_blank"}에서 이를 수행하는 방법에 대한 지침을 찾을 수 있습니다. Lead Gen Form 서비스에는 &quot;LinkedIn Lead Gen&quot; 유형이 있으며 Matched Audience 서비스에는 &quot;LinkedIn Matched Audiences&quot; 유형이 있습니다. 자세한 내용은 [마이그레이션 FAQ](https://nation.marketo.com/t5/employee-blogs/linkedin-re-authentication-required/ba-p/347794){target="_blank"}를 참조하십시오.
+* **LinkedIn 재인증 필요**: LinkedIn에서 Marketo Engage LinkedIn 통합에 사용되는 마케팅 API를 업그레이드하고 있습니다. 이러한 변경 사항을 적용하려면 2024년 7월 26일부터 12월 15일 사이에 **관리자** > **LaunchPoint** 메뉴에서 모든 LinkedIn LaunchPoint 서비스를 다시 인증해야 합니다. 이 [잠재 고객 세대 Forms의 경우 여기](/help/marketo/product-docs/demand-generation/social/social-functions/set-up-linkedin-lead-gen-forms.md){target="_blank"}, [일치하는 대상의 경우 여기](/help/marketo/product-docs/demand-generation/ad-network-integrations/add-linkedin-matched-audiences-as-a-launchpoint-service.md){target="_blank"}에서 이를 수행하는 방법에 대한 지침을 찾을 수 있습니다. Lead Gen Form 서비스에는 &quot;LinkedIn Lead Gen&quot; 유형이 있으며 Matched Audience 서비스에는 &quot;LinkedIn Matched Audiences&quot; 유형이 있습니다. 자세한 내용은 [마이그레이션 FAQ](https://nation.marketo.com/t5/employee-blogs/linkedin-re-authentication-required/ba-p/347794){target="_blank"}를 참조하세요.
