@@ -4,9 +4,9 @@ description: 릴리스 일정 - Marketo 설명서 - 제품 설명서
 title: 출시 일정
 exl-id: 38bd10e3-7f47-46f7-b9b0-83e1ab50014c
 feature: Release Information
-source-git-commit: 1d2dbc5859b031995eb487f617ace9fdb2be7f0b
+source-git-commit: 9087709e0572687b80022b73a1fde0dca8dc1a7e
 workflow-type: tm+mt
-source-wordcount: '126'
+source-wordcount: '130'
 ht-degree: 9%
 
 ---
@@ -33,33 +33,33 @@ _릴리스 날짜/기능은 변경될 수 있습니다_
    <th width="250px">상태</th>
   </tr>
   <tr> 
-   <td><a href="/help/marketo/release-notes/previous-releases/2024/release-notes-jan-24.md">24.1월</a></td>
-   <td>2024년 1월 12일</td>
-   <td>배송됨</td>
-  </tr>
-  <tr> 
-   <td><a href="/help/marketo/release-notes/previous-releases/2024/release-notes-mar-24.md">24년 3월</a></td>
-   <td>2024년 3월 8일</td>
-   <td>배송됨</td>
-  </tr>
-  <tr> 
-   <td><a href="/help/marketo/release-notes/previous-releases/2024/release-notes-apr-24.md">2024년 4월</a></td>
-   <td>2024년 4월 26일</td>
-   <td>배송됨</td>
-  </tr>
-  <tr>
-   <td><a href="/help/marketo/release-notes/current.md">2024년 6월</a></td>
-   <td>2024년 6월 7일</td>
-   <td>배송됨</td>
-  </tr>
-  <tr> 
-   <td>7월 24일</td>
+   <td><a href="/help/marketo/release-notes/current.md">7월 24일</a></td>
    <td>2024년 7월 26일</td>
    <td>진행 중</td>
   </tr>
   <tr> 
    <td>24년 10월</td>
    <td>2024년 10월 4일</td>
+   <td>일정에 따라</td>
+  </tr>
+  <tr> 
+   <td>25 년 1 월</td>
+   <td>2025년 1월 17일</td>
+   <td>일정에 따라</td>
+  </tr>
+  <tr> 
+   <td>25년 3월</td>
+   <td>2025년 3월 7일</td>
+   <td>일정에 따라</td>
+  </tr>
+  <tr> 
+   <td>2025년 4월</td>
+   <td>2025년 4월 25일</td>
+   <td>일정에 따라</td>
+  </tr>
+  <tr> 
+   <td>2025년 6월</td>
+   <td>2025년 6월 6일</td>
    <td>일정에 따라</td>
   </tr>
  </tbody>

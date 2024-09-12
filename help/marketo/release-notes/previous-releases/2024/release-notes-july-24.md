@@ -2,9 +2,9 @@
 description: 릴리스 노트 - 2024년 7월 - Marketo 설명서 - 제품 설명서
 title: 릴리스 정보 - 2024년 7월
 feature: Release Information
-source-git-commit: 3a722d0f4ec3e48b031c641d3b73e1e5539ebf80
+source-git-commit: 9087709e0572687b80022b73a1fde0dca8dc1a7e
 workflow-type: tm+mt
-source-wordcount: '522'
+source-wordcount: '521'
 ht-degree: 3%
 
 ---
@@ -65,8 +65,8 @@ Adobe Dynamic Chat [에 대한 릴리스 정보는 여기에서 찾을 수 있�
   </tr>
      <tr> 
    <td><strong>Marketo REST API 변경</strong>: <a href="https://developers.marketo.com/rest-api/user-management/">사용자 관리 API</a>에 약간의 변경 사항을 도입했습니다. 이제 <a href="https://developers.marketo.com/rest-api/user-management/#browse_users">사용자 찾아보기</a> 및 <a href="https://developers.marketo.com/rest-api/user-management/#delete_user">사용자 삭제</a> 엔드포인트가 모두 <a href="/help/marketo/product-docs/target-account-management/setup-tam/target-account-management-overview.md">Target 계정 관리</a> 사용자를 지원합니다.</td> 
-   <td><i>곧 출시 예정</i></td>
-   <td><i>곧 출시 예정</i></td>
+   <td>배송됨</td>
+   <td>해당 사항 없음</td>
   </tr>
  </tbody> 
 </table>
