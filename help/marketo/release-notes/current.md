@@ -3,9 +3,9 @@ description: 최신 릴리스 정보 - Marketo 설명서 - 제품 설명서
 title: 최신 릴리스 정보
 exl-id: a2eccad5-73ad-48f9-8091-51cee23824e1
 feature: Release Information
-source-git-commit: c7fa016a93de2ca0634bf117a04843e7762588d1
+source-git-commit: 86dae90f24c948da8824ac2b8662072756fa2601
 workflow-type: tm+mt
-source-wordcount: '255'
+source-wordcount: '303'
 ht-degree: 3%
 
 ---
@@ -71,3 +71,7 @@ Adobe Dynamic Chat [에 대한 릴리스 정보는 여기에서 찾을 수 있�
  </tbody> 
 </table>
 <br/>
+
+## 공지 {#announcements}
+
+2024년 9월 17일부터 [Munchkin](/help/marketo/product-docs/administration/setup-administration/munchkin.md){target="_blank"} v.164가 **관리자** > **보물 상자**&#x200B;에서 &quot;Munchkin Beta&quot; 설정이 활성화된 Marketo Engage 인스턴스로 롤아웃됩니다. 10월 29일에 다른 모든 인스턴스로의 롤아웃을 시작할 예정입니다. 이 버전은 Munchkin 쿠키 생성을 업데이트합니다. 기능에는 변경 사항이 없습니다.
