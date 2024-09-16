@@ -3,10 +3,10 @@ description: 최신 릴리스 정보 - Marketo 설명서 - 제품 설명서
 title: 최신 릴리스 정보
 exl-id: a2eccad5-73ad-48f9-8091-51cee23824e1
 feature: Release Information
-source-git-commit: 86dae90f24c948da8824ac2b8662072756fa2601
+source-git-commit: 9d5b27d82736b2b89a12aa3d184d90f1f95945b5
 workflow-type: tm+mt
-source-wordcount: '303'
-ht-degree: 3%
+source-wordcount: '363'
+ht-degree: 2%
 
 ---
 
@@ -74,4 +74,6 @@ Adobe Dynamic Chat [에 대한 릴리스 정보는 여기에서 찾을 수 있�
 
 ## 공지 {#announcements}
 
-2024년 9월 17일부터 [Munchkin](/help/marketo/product-docs/administration/setup-administration/munchkin.md){target="_blank"} v.164가 **관리자** > **보물 상자**&#x200B;에서 &quot;Munchkin Beta&quot; 설정이 활성화된 Marketo Engage 인스턴스로 롤아웃됩니다. 10월 29일에 다른 모든 인스턴스로의 롤아웃을 시작할 예정입니다. 이 버전은 Munchkin 쿠키 생성을 업데이트합니다. 기능에는 변경 사항이 없습니다.
+* **새 Munchkin 버전**: 2024년 9월 17일부터 [Munchkin](/help/marketo/product-docs/administration/setup-administration/munchkin.md){target="_blank"} v.164가 **관리자** > **보물 상자**&#x200B;에서 &quot;Munchkin Beta&quot; 설정을 사용하도록 설정된 Marketo Engage 인스턴스로 롤아웃됩니다. 10월 29일에 다른 모든 인스턴스로의 롤아웃을 시작할 예정입니다. 이 버전은 Munchkin 쿠키 생성을 업데이트합니다. 기능에는 변경 사항이 없습니다.
+
+* **QR 코드 사용 중단**: 2024년 10월 4일에 푸시 알림 및 인앱 메시지 에셋에 사용되는 QR 코드 기능이 더 이상 사용되지 않습니다. 여기에는 새 테스트 장치에 QR 코드를 사용하는 것은 물론 QR 코드로 새 에셋을 만드는 것이 포함됩니다. 사용량이 적은 기능의 사용을 중단하면 리소스를 Marketo Engage의 전반적인 유지 관리에 다시 할당할 수 있습니다.
