@@ -3,9 +3,9 @@ audience: end-user
 user-guide-title: Marketo 안내서
 user-guide-description: Marketo 제품 설명서
 feature-set: Marketo Engage
-source-git-commit: 03f3824f67a2b72ad164bf5ecc0bfcf9748db3ff
+source-git-commit: 49b1545e61a5d11c1ca6ebf5b17d56ef038f6c65
 workflow-type: tm+mt
-source-wordcount: '9341'
+source-wordcount: '9346'
 ht-degree: 0%
 
 ---
@@ -1748,6 +1748,7 @@ ht-degree: 0%
             + [상태별 인원 보고서](product-docs/reporting/basic-reporting/report-types/people-by-status-report.md)
             + [사용자 성과 보고서](product-docs/reporting/basic-reporting/report-types/people-performance-report.md)
             + [보고서 유형 개요](product-docs/reporting/basic-reporting/report-types/report-type-overview.md)
+            + [Salesforce 동기화 가시성 지표 대시보드](product-docs/reporting/basic-reporting/report-types/salesforce-sync-observability-metrics-dashboard.md)
             + [웹 페이지 활동 보고서](product-docs/reporting/basic-reporting/report-types/web-page-activity-report.md)
             + [웹 페이지 조회함, 웹 페이지 활동 보고서](product-docs/reporting/basic-reporting/report-types/web-page-activity-report/web-pages-viewed-web-page-activity-report.md)
       + 이메일 인사이트 {#email-insights}
