@@ -3,10 +3,10 @@ description: 최신 릴리스 정보 - Marketo 설명서 - 제품 설명서
 title: 최신 릴리스 정보
 exl-id: a2eccad5-73ad-48f9-8091-51cee23824e1
 feature: Release Information
-source-git-commit: 2457f0f51c6365c29a040e908678e81517327de5
+source-git-commit: a837ec558ae5a845a841d8ea7d9eb3b8a37313e1
 workflow-type: tm+mt
-source-wordcount: '420'
-ht-degree: 2%
+source-wordcount: '513'
+ht-degree: 1%
 
 ---
 
@@ -65,6 +65,34 @@ Adobe Dynamic Chat [에 대한 릴리스 정보는 여기에서 찾을 수 있�
   </tr>
    <tr> 
    <td><strong>탐색 레일의 내 계정 단추</strong>: Identity Management System Adobe으로 마이그레이션한 사용자의 경우 왼쪽 탐색 레일에 새 "내 계정" 단추를 사용하면 표준 시간대를 구성하고 구독 세부 정보에 액세스할 수 있습니다.</td> 
+   <td><i>곧 출시 예정</i></td>
+   <td><i>곧 출시 예정</i></td>
+  </tr>
+  <tr> 
+   <td> </td> 
+   <td> </td>
+   <td> </td>
+  </tr>
+  </tr>
+   <tr> 
+   <td><strong>Salesforce 동기화 백로그 지표</strong>: 이제 동기화 처리량 및 백로그 추세를 모니터링하여 최적의 동기화 환경을 위해 CRM 업데이트를 계획 및 예약할 수 있습니다.</td> 
+   <td><i>곧 출시 예정</i></td>
+   <td><i>곧 출시 예정</i></td>
+  </tr>
+  <tr> 
+   <td> </td> 
+   <td> </td>
+   <td> </td>
+  </tr>
+  </tr>
+   <tr> 
+   <td><strong>전자 메일 성능 보고서 개선 사항</strong>: 전자 메일 보고 지표 및 활동 추적에 여러 가지 개선 사항이 적용되어 추가적인 통찰력을 제공하고 정확도를 개선했습니다.
+   <ul>
+   <li>이메일 성능 지표에서 삭제 및 병합된 사람 필터링</li>
+   <li>3일 동안 응답 활동을 기다린 후 전자 메일이 이제 <i>중단됨</i>(으)로 분류됨</li>
+   <li>캠페인 수준에서 계정 이메일 열기</li>
+   <li>추적 픽셀 위치 세분화를 통해 이메일 활동 추적 개선</li>
+   </td> 
    <td><i>곧 출시 예정</i></td>
    <td><i>곧 출시 예정</i></td>
   </tr>
