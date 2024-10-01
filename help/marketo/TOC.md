@@ -3,9 +3,9 @@ audience: end-user
 user-guide-title: Marketo 안내서
 user-guide-description: Marketo 제품 설명서
 feature-set: Marketo Engage
-source-git-commit: 49b1545e61a5d11c1ca6ebf5b17d56ef038f6c65
+source-git-commit: a9ed4a7e2247a26b376bde64bb1cfd6db2833822
 workflow-type: tm+mt
-source-wordcount: '9346'
+source-wordcount: '9345'
 ht-degree: 0%
 
 ---
@@ -627,6 +627,7 @@ ht-degree: 0%
          + [Salesforce 동기화 활성화/비활성화](product-docs/crm-sync/salesforce-sync/enable-disable-the-salesforce-sync.md)
          + [암묵적인 Salesforce 작업](product-docs/crm-sync/salesforce-sync/implied-salesforce-actions.md)
          + [OAuth 2.0을 사용하여 로그인](product-docs/crm-sync/salesforce-sync/log-in-using-oauth-2-0.md)
+         + [Salesforce 동기화 백로그 지표](product-docs/crm-sync/salesforce-sync/salesforce-sync-backlog-metrics.md)
          + [Salesforce 동기화 오류](product-docs/crm-sync/salesforce-sync/salesforce-sync-errors.md)
          + [Salesforce 동기화 상태](product-docs/crm-sync/salesforce-sync/salesforce-sync-status.md)
          + [개인 계정 사용](product-docs/crm-sync/salesforce-sync/using-person-accounts.md)
@@ -1748,7 +1749,6 @@ ht-degree: 0%
             + [상태별 인원 보고서](product-docs/reporting/basic-reporting/report-types/people-by-status-report.md)
             + [사용자 성과 보고서](product-docs/reporting/basic-reporting/report-types/people-performance-report.md)
             + [보고서 유형 개요](product-docs/reporting/basic-reporting/report-types/report-type-overview.md)
-            + [Salesforce 동기화 가시성 지표 대시보드](product-docs/reporting/basic-reporting/report-types/salesforce-sync-observability-metrics-dashboard.md)
             + [웹 페이지 활동 보고서](product-docs/reporting/basic-reporting/report-types/web-page-activity-report.md)
             + [웹 페이지 조회함, 웹 페이지 활동 보고서](product-docs/reporting/basic-reporting/report-types/web-page-activity-report/web-pages-viewed-web-page-activity-report.md)
       + 이메일 인사이트 {#email-insights}
