@@ -3,9 +3,9 @@ description: 대화형 웨비나 만들기 - Marketo 문서 - 제품 설명서
 title: 대화형 웨비나 만들기
 exl-id: 91fdede6-2e5a-4895-9893-852d0441aa2a
 feature: Interactive Webinars
-source-git-commit: 7f90ff09fbab7bc1559ce75b213cb86bd3cd25f4
+source-git-commit: 2457f0f51c6365c29a040e908678e81517327de5
 workflow-type: tm+mt
-source-wordcount: '223'
+source-wordcount: '255'
 ht-degree: 0%
 
 ---
@@ -58,7 +58,9 @@ ht-degree: 0%
 
    ![](assets/create-an-interactive-webinar-7.png)
 
-<p>
+>[!NOTE]
+>
+>이전 웨비나가 예약된 시간을 초과하여 실행될 경우 버퍼로 두 개의 연속 이벤트가 30분 간격(라이선스가 동시 웨비나를 지원하지 않는 경우)으로 배치되는 것이 좋습니다.
 
 이제 [웨비나를 디자인](/help/marketo/product-docs/demand-generation/events/interactive-webinars/designing-interactive-webinars.md){target="_blank"}할 차례입니다.
 
