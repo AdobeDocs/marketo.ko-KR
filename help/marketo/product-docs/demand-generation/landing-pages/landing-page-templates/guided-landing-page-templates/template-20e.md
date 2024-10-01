@@ -4,9 +4,9 @@ description: 템플릿 20E - Marketo 문서 - 제품 설명서
 title: 템플릿 20E
 exl-id: 37da2ba9-446b-4dee-8b15-a55b2636dd63
 feature: Landing Pages, Guided Landing Page Templates
-source-git-commit: d20a9bb584f69282eefae3704ce4be2179b29d0b
+source-git-commit: 9c550f8c4c9f985a7e188b98fdb0ae1128bb828a
 workflow-type: tm+mt
-source-wordcount: '45'
+source-wordcount: '44'
 ht-degree: 0%
 
 ---
@@ -28,4 +28,4 @@ ht-degree: 0%
 
 **이 서식 파일을 다운로드하려면 아래를 마우스 오른쪽 단추로 클릭하세요.**
 
-[템플릿 20E.html](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-20e.html)
+[템플릿 20E.html](assets/template-20E.html)
