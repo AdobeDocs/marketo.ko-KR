@@ -4,7 +4,7 @@ title: Salesforce 동기화 백로그 지표
 hide: true
 hidefromtoc: true
 feature: Reporting
-source-git-commit: a9ed4a7e2247a26b376bde64bb1cfd6db2833822
+source-git-commit: 1cc876285f8d7ac7a21a763dd65da34341341a0e
 workflow-type: tm+mt
 source-wordcount: '840'
 ht-degree: 0%
@@ -93,7 +93,7 @@ Marketo Engage 측이든 CRM 측이든, 업데이트가 이루어지면 CRM 동�
 
 필드 값 변경과 같이 대량의 업데이트가 이루어지면 많은 레코드가 변경되어 새 SysModStamp가 발생합니다. 그런 다음 Marketo Engage과 CRM 간에 많은 사용자 레코드 업데이트를 다시 동기화해야 하며 경우에 따라 일시적인 백로그가 생성됩니다.
 
-## 동기화 백로그 관리 우수 사례 {#best-practices-for-managing-sync-backlogs}
+## 동기화 백로그 관리 우수 사례 {#best-practices}
 
 **동기화 중인 필드**: 동기화 중인 필드만 동기화해야 합니다. 필드를 변경하면 동기화 백로그가 증가하고 우선 순위가 낮은 필드가 중지되거나 동기화 중인 더 중요한 필드가 느려질 수 있습니다. 동기화 중인 필드를 제거하려면 [Marketo Engage 지원](https://nation.marketo.com/t5/support/ct-p/Support){target="_blank"}에 문의하세요.
 

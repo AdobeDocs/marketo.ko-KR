@@ -3,9 +3,9 @@ audience: end-user
 user-guide-title: Marketo 안내서
 user-guide-description: Marketo 제품 설명서
 feature-set: Marketo Engage
-source-git-commit: a9ed4a7e2247a26b376bde64bb1cfd6db2833822
+source-git-commit: 1cc876285f8d7ac7a21a763dd65da34341341a0e
 workflow-type: tm+mt
-source-wordcount: '9345'
+source-wordcount: '9370'
 ht-degree: 0%
 
 ---
@@ -1099,6 +1099,11 @@ ht-degree: 0%
          + 전자 메일 편집기 {#understanding-the-email-editor} 이해
             + [이메일 이벤트 로깅 이해](product-docs/email-marketing/general/understanding-the-email-editor/understanding-email-event-logging.md)
             + [리치 텍스트 편집기 사용](product-docs/email-marketing/general/understanding-the-email-editor/using-the-rich-text-editor.md)
+         + Beta 새 전자 메일 편집기 {#beta-new-email-editor}
+            + [이메일 만들기](product-docs/email-marketing/general/beta-new-email-editor/create-an-email.md)
+            + [이메일 템플릿 만들기](product-docs/email-marketing/general/beta-new-email-editor/create-an-email-template.md)
+            + [이메일에 액세스하는 방법](product-docs/email-marketing/general/beta-new-email-editor/how-to-access-an-email.md)
+            + [전자 메일 템플릿에 액세스하는 방법](product-docs/email-marketing/general/beta-new-email-editor/how-to-access-an-email-template.md)
          + 전자 메일 {#creating-an-email} 만들기
             + [이메일 승인](product-docs/email-marketing/general/creating-an-email/approve-an-email.md)
             + [텍스트 전용 이메일 만들기](product-docs/email-marketing/general/creating-an-email/create-a-text-only-email.md)
@@ -1231,7 +1236,7 @@ ht-degree: 0%
             + [Gmail 사용자를 위한 전자 메일 연결](product-docs/marketo-sales-connect/email-plugins/gmail/email-connection-for-gmail-users.md)
             + [Gmail이 Sales Connect 서명을 가져오지 않음](product-docs/marketo-sales-connect/email-plugins/gmail/gmail-not-pulling-in-sales-connect-signature.md)
             + [템플릿을 추가하는 방법](product-docs/marketo-sales-connect/email-plugins/gmail/how-to-add-a-template.md)
-            + [ToutApp 브라우저 확장 기능 설치 방법](product-docs/marketo-sales-connect/email-plugins/gmail/how-to-install-the-toutapp-browser-extension.md)
+            + [Gmail용 Sales Connect 이메일 플러그인 설치](product-docs/marketo-sales-connect/email-plugins/gmail/install-the-sales-connect-email-plugin-for-gmail.md)
             + [Gmail에서 이메일을 보내는 방법](product-docs/marketo-sales-connect/email-plugins/gmail/how-to-send-an-email-from-gmail.md)
             + [Gmail에서 Sales Connect를 제거하는 방법](product-docs/marketo-sales-connect/email-plugins/gmail/how-to-uninstall-sales-connect-from-gmail.md)
             + [보조 Gmail 주소가 Sales Connect와 통합되지 않도록 방지](product-docs/marketo-sales-connect/email-plugins/gmail/preventing-secondary-gmail-address-from-integrating-with-sales-connect.md)
@@ -1246,7 +1251,7 @@ ht-degree: 0%
                + [Outlook에서 Sales Connect를 제거하는 방법](product-docs/marketo-sales-connect/email-plugins/msc-for-outlook/net-legacy-add-in/how-to-uninstall-sales-connect-from-outlook.md)
             + Office 365 추가 기능 {#office-365-add-in}
                + [Salesforce(Office 365)에 이메일 추가](product-docs/marketo-sales-connect/email-plugins/msc-for-outlook/office-365-add-in/add-email-to-salesforce-office-365.md)
-               + [Office365 Mac OS, Windows 및 Online용 Sales Connect 설치](product-docs/marketo-sales-connect/email-plugins/msc-for-outlook/office-365-add-in/installing-sales-connect-for-office365-mac-os-windows-and-online.md)
+               + [Outlook용 Sales Connect 이메일 플러그인 설치(온라인, Mac 및 Windows)](product-docs/marketo-sales-connect/email-plugins/msc-for-outlook/office-365-add-in/install-the-sales-connect-email-plugin-for-outlook.md)
       + 전자 메일 {#email}
          + 명령 센터 {#command-center}
             + [관리 센터 개요](product-docs/marketo-sales-connect/email/command-center/command-center-overview.md)
