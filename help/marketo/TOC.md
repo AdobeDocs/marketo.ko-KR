@@ -3,9 +3,9 @@ audience: end-user
 user-guide-title: Marketo 안내서
 user-guide-description: Marketo 제품 설명서
 feature-set: Marketo Engage
-source-git-commit: 1cc876285f8d7ac7a21a763dd65da34341341a0e
+source-git-commit: ddba357e6e0e3d451ee4b054b18eaf1ed29055b6
 workflow-type: tm+mt
-source-wordcount: '9370'
+source-wordcount: '9379'
 ht-degree: 0%
 
 ---
@@ -1737,6 +1737,7 @@ ht-degree: 0%
             + [캠페인 활동 보고서 필터링](product-docs/reporting/basic-reporting/report-activity/filter-a-campaign-activity-report.md)
             + [캠페인 이메일 보고서에서 Assets 필터링](product-docs/reporting/basic-reporting/report-activity/filter-assets-in-a-campaign-email-reports.md)
             + [이메일 보고서에서 Assets 필터링](product-docs/reporting/basic-reporting/report-activity/filter-assets-in-an-email-report.md)
+            + [전자 메일 성능 보고서에서 삭제/병합된 레코드 필터링](product-docs/reporting/basic-reporting/report-activity/filter-deleted-merged-records-email-performance-report.md)
             + [속성별 개인 보고서 그룹화](product-docs/reporting/basic-reporting/report-activity/group-person-reports-by-attribute.md)
             + [작업 영역 간 보고서 이메일, 캠페인 성과](product-docs/reporting/basic-reporting/report-activity/report-email-campaign-performance-across-workspaces.md)
             + [작업 영역에서 모델 공유](product-docs/reporting/basic-reporting/report-activity/share-a-model-across-workspaces.md)
