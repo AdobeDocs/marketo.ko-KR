@@ -4,9 +4,9 @@ title: 이메일 만들기
 hide: true
 hidefromtoc: true
 feature: Email Editor
-source-git-commit: ea06508c495484b6fd73e22876ba3dc06819a864
+source-git-commit: 26c97890c945978a37d98ca7e3f04e28ca41ea19
 workflow-type: tm+mt
-source-wordcount: '330'
+source-wordcount: '363'
 ht-degree: 3%
 
 ---
@@ -14,6 +14,10 @@ ht-degree: 3%
 # 이메일 만들기 {#create-an-email}
 
 소개 텍스트를 여기에 입력하십시오.
+
+>[!IMPORTANT]
+>
+>이 문서는 새 Marketo Engage 이메일 편집기 비공개 베타를 사용하는 사용자를 위한 것입니다. 제발 유포하지 마세요.
 
 1. [Adobe Experience Cloud](https://experiencecloud.adobe.com/)에 로그인합니다.
 
@@ -36,6 +40,8 @@ ht-degree: 3%
 1. 이메일 이름과 제목 줄을 입력합니다. **만들기**&#x200B;를 클릭합니다.
 
    ![](assets/create-an-email-4.png)
+
+다 됐습니다. 이제 이메일을 디자인할 차례입니다.
 
 ## 이메일 디자인 {#design-your-email}
 
@@ -138,3 +144,7 @@ In this mode, you can only personalize your text, add links, or include assets t
    스크린샷
 
 >[!ENDTABS]
+
+>[!MORELIKETHIS]
+>
+>[전자 메일에 액세스하는 방법](/help/marketo/product-docs/email-marketing/general/beta-new-email-editor/how-to-access-an-email.md){target="_blank"}
