@@ -4,9 +4,9 @@ title: 이메일 템플릿 만들기
 hide: true
 hidefromtoc: true
 feature: Email Editor
-source-git-commit: 26c97890c945978a37d98ca7e3f04e28ca41ea19
+source-git-commit: 6133a04124d9d4b829d092943753c7bb530dd374
 workflow-type: tm+mt
-source-wordcount: '302'
+source-wordcount: '347'
 ht-degree: 2%
 
 ---
@@ -19,11 +19,7 @@ ht-degree: 2%
 >
 >이 문서는 새 Marketo Engage 이메일 편집기 비공개 베타를 사용하는 사용자를 위한 것입니다. 제발 유포하지 마세요.
 
-1. [Adobe Experience Cloud](https://experiencecloud.adobe.com/)에 로그인합니다.
-
-   스크린샷
-
-Marketo에 GET 전까지 모든 단계를 나열하시겠습니까?
+1. [Adobe Experience Cloud](https://experiencecloud.adobe.com/){target="_blank"}을 통해 Marketo Engage에 로그인합니다.
 
 1. 내 Marketo에서 **Design Studio**&#x200B;를 선택합니다.
 
@@ -45,13 +41,9 @@ Marketo에 GET 전까지 모든 단계를 나열하시겠습니까?
 
 템플릿 디자인 페이지에서 몇 가지 옵션 중에서 선택할 수 있습니다. 처음부터 디자인하거나, 직접 HTML을 가져오거나, 기존 템플릿(샘플 중 하나 또는 이미 저장한 템플릿)을 선택합니다.
 
->[!BEGINTABS]
-
->[!TAB 처음부터 디자인]
+### 처음부터 디자인 {#design-from-scratch}
 
 간단한 드래그 앤 드롭 작업으로 구조 요소를 추가 및 이동하여 콘텐츠를 정의합니다.
-
-## 처음부터 디자인 {#design-from-scratch}
 
 1. 템플릿 디자인 페이지에서 **처음부터 디자인**&#x200B;을 선택합니다.
 
@@ -77,7 +69,7 @@ Marketo에 GET 전까지 모든 단계를 나열하시겠습니까?
 >
 >.zip 파일 구조에는 제약 조건이 없습니다. 그러나 참조는 상대적이어야 하며 .zip 폴더의 트리 구조와 일치해야 합니다.
 
-## HTML 가져오기 {#import-your-html}
+### HTML 가져오기 {#import-your-html}
 
 1. HTML 디자인 페이지에서 **템플릿 가져오기**&#x200B;를 선택합니다.
 
@@ -99,9 +91,19 @@ Once the HTML content is uploaded, your content will be in Compatibility mode.
 In this mode, you can only personalize your text, add links, or include assets to your content.
 ```
 
-테스트 계정에서: 설정/스타일/HTML 변환기
+### 템플릿 선택 {#choose-a-template}
+
+선택할 수 있는 템플릿에는 두 가지 유형이 있습니다.
+
+* 샘플 템플릿: Marketo Engage은 4개의 기본 이메일 템플릿을 제공합니다.
+
+* 저장된 템플릿: 템플릿 메뉴를 사용하여 처음부터 새로 만든 템플릿 또는 템플릿으로 저장하기 위해 만들고 선택한 이메일입니다.
+
+>[!BEGINTABS]
 
 >[!TAB 샘플 템플릿]
+
+이메일 템플릿 디자인에서 바로 시작할 수 있도록 4개의 기본 템플릿 중 하나를 선택합니다.
 
 1. 샘플 템플릿을 선택합니다.
 
