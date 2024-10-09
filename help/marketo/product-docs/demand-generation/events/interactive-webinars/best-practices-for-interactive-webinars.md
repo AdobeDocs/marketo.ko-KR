@@ -3,9 +3,9 @@ description: 대화형 웨비나에 대한 우수 사례 - Marketo 문서 - 제�
 title: 대화형 웨비나에 대한 우수 사례
 feature: Interactive Webinars
 exl-id: fd9d7d03-8d92-45f7-9372-a2b6d2f4c635
-source-git-commit: 488da545043cbd59eb3d3b1d4f57684d14bd501a
+source-git-commit: 86314f93535df1fe0568ba1f609ecf35799383fb
 workflow-type: tm+mt
-source-wordcount: '1691'
+source-wordcount: '1704'
 ht-degree: 0%
 
 ---
@@ -30,7 +30,7 @@ ht-degree: 0%
 
 * 연속 세션을 예약하지 마십시오. 웨비나를 시작하기 전에 적어도 30분의 준비 시간이 있는지 확인하십시오. 이렇게 하면 마지막 순간에 프레젠테이션 변경 사항을 업로드하고, 마이크와 카메라를 조정하며, 새로운 발표자가 인터페이스에 익숙해지도록 할 수 있습니다.
 
-* 팀원에게 역할을 할당합니다. 이들을 공동 호스트 및 발표자로 추가합니다. 진행자와 발표자는 참여자 이전에 회의실에 입장할 수 있다.
+* 팀원에게 역할을 할당합니다. 이들을 공동 호스트 및 발표자로 추가합니다. 진행자와 발표자는 참여자 이전에 회의실에 입장할 수 있다. 그러나 공동 호스트 및 발표자를 추가하려면 [대화형 웨비나를 디자인](/help/marketo/product-docs/demand-generation/events/interactive-webinars/designing-interactive-webinars.md){target="_blank"} _이전_&#x200B;하세요.
 
 ### 이벤트 홍보 {#promoting-your-event}
 

@@ -3,7 +3,7 @@ description: 최신 릴리스 정보 - Marketo 설명서 - 제품 설명서
 title: 최신 릴리스 정보
 exl-id: a2eccad5-73ad-48f9-8091-51cee23824e1
 feature: Release Information
-source-git-commit: 2ae776fb67e590c4ccad711e4dfa55e6fc558c3b
+source-git-commit: 86314f93535df1fe0568ba1f609ecf35799383fb
 workflow-type: tm+mt
 source-wordcount: '485'
 ht-degree: 2%
@@ -81,8 +81,8 @@ Adobe Dynamic Chat [에 대한 릴리스 정보는 여기에서 찾을 수 있�
    <li>캠페인 수준에서 계정 이메일 열기</li>
    <li>추적 픽셀 위치 세분화를 통해 이메일 활동 추적 개선</li>
    </td> 
-   <td><i>곧 출시 예정</i></td>
-   <td><i>곧 출시 예정</i></td>
+   <td>배송됨</td>
+   <td><a href="/help/marketo/product-docs/email-marketing/email-programs/email-program-data/email-performance-report.md" target="_blank">전자 메일 성능 보고서</a></td>
   </tr>
  </tbody> 
 </table>
