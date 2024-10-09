@@ -3,16 +3,16 @@ description: 관리자 설정 - Marketo 문서 - 제품 설명서
 title: 관리자 설정
 exl-id: e753f61a-b2ad-4b2e-94e7-d7a391f030d8
 feature: Marketo with Adobe Identity
-source-git-commit: 02b2e39580c5eac63de4b4b7fdaf2a835fdd4ba5
+source-git-commit: 8062434857f5bd9da81aa79035e89f459851c4b1
 workflow-type: tm+mt
-source-wordcount: '214'
-ht-degree: 0%
+source-wordcount: '222'
+ht-degree: 2%
 
 ---
 
 # 관리자 설정 {#admin-setup}
 
-Adobe 조직에서 Marketo Engage 할 Adobe 시스템 관리자로 추가되면 초기 설정을 완료하기 위해 수행해야 하는 몇 가지 단계가 있습니다.
+Adobe 조직에서 Marketo Engage 할 Adobe 시스템 관리자로 추가된 후 초기 설정을 완료하기 위해 수행해야 하는 몇 가지 단계가 있습니다.
 
 ## 초기 설정 {#initial-setup}
 
@@ -44,9 +44,11 @@ Adobe 조직에서 Marketo Engage 할 Adobe 시스템 관리자로 추가되면 
 
    ![](assets/admin-setup-5.png)
 
-1. 제품 프로필에 이름을 지정하고(표시 이름 및 설명은 선택 사항) **[!UICONTROL 저장]**&#x200B;을 클릭하세요.
+1. 제품 프로필에 이름을 지정하고(표시 이름 및 설명은 선택 사항) **[!UICONTROL 다음]**&#x200B;을 클릭하세요.
 
    ![](assets/admin-setup-6.png)
+
+1. 서비스를 선택할 필요가 없습니다. **[!UICONTROL 저장]**&#x200B;을 클릭합니다.
 
 >[!NOTE]
 >
