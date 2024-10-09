@@ -3,9 +3,9 @@ description: Adobe ID로 마이그레이션 - Marketo 문서 - 제품 설명서
 title: Adobe ID로 마이그레이션
 feature: Marketo with Adobe Identity
 exl-id: a7969204-0ec9-45aa-a206-eff2df8adcd0
-source-git-commit: 179fe78c35c04617df47b61d88322f82feab746a
+source-git-commit: 7a5440b3673c3ebbb181ee5e81ee202463291fe7
 workflow-type: tm+mt
-source-wordcount: '2252'
+source-wordcount: '2300'
 ht-degree: 0%
 
 ---
@@ -56,6 +56,12 @@ Marketo 셀프 서비스 사용자 마이그레이션 콘솔 도구는 두 개�
 
 * **마이그레이션 상태 탭**
 * **사용자 마이그레이션 탭**
+
+셀프서비스 마이그레이션을 완료하는 데 필요한 세 가지 주요 단계가 있습니다.
+
+1. 원하는 적격 이메일 주소 확인 사용자 모두 마이그레이션(사용자 마이그레이션 탭)
+1. 모든 부적격 사용자 및 원하지 않는 부적격 사용자 건너뛰기(사용자 마이그레이션 탭)
+1. 1단계와 2단계가 완료되면 마이그레이션 확인(마이그레이션 상태 탭)을 완료합니다
 
 ### 마이그레이션 상태 탭 {#migration-status-tab}
 

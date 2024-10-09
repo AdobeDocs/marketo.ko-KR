@@ -3,9 +3,9 @@ description: Identity Management FAQ Adobe - Marketo 문서 - 제품 설명서
 title: IDENTITY MANAGEMENT FAQ ADOBE
 feature: Marketo with Adobe Identity
 exl-id: 2401def7-1696-4d77-a8a3-96c490517121
-source-git-commit: 384484aaa9f4c765f5f1aaee436ae783b265e069
+source-git-commit: 7a5440b3673c3ebbb181ee5e81ee202463291fe7
 workflow-type: tm+mt
-source-wordcount: '1342'
+source-wordcount: '1456'
 ht-degree: 0%
 
 ---
@@ -24,7 +24,7 @@ Adobe Identity Management 시스템은 세 가지 구성 요소로 구성됩니�
 
 **기존 Marketo Engage 구독은 언제 IMS와 통합됩니까?**
 
-기존 Marketo 구독은 올해 말 Adobe Identity Management 시스템으로 마이그레이션됩니다. Marketo 지원에서는 Adobe IMS 마이그레이션과 관련된 업데이트를 제공할 수 없습니다. Adobe 계정 팀은 앞으로 몇 달 안에 예상 타임라인을 확인할 것입니다.
+기존 Marketo Engage 구독은 현재 갱신, 재계약 이벤트 및/또는 추가 사항을 포함하는 모든 판매 이벤트 시 Adobe IMS로 마이그레이션되고 있습니다. 영업 이벤트 이외 마이그레이션은 2024년 10월부터 지원됩니다.
 
 **마이그레이션 후에도 Marketo Engage URL은 그대로 유지됩니까?**
 
@@ -50,7 +50,13 @@ engage-xx.marketo.com 도메인 _will_&#x200B;의 Marketo Engage 자산에 대�
 
 **IMS와 통합되는 경우 지원을 받으려면 누구에게 연락해야 합니까?**
 
-[Marketo 지원](https://nation.marketo.com/t5/support/ct-p/Support){target="_blank"}에 문의하는 표준 절차를 따릅니다.
+* 사전 사용자 마이그레이션: [Marketing Nation Community](https://nation.marketo.com/t5/support/ct-p/Support)의 파일 지원 사례 또는 이메일 `customercare@marketo.com`.
+
+* 사후 사용자 마이그레이션: [Marketing Nation Community](https://nation.marketo.com/t5/support/ct-p/Support)의 파일 지원 사례 또는 이메일 `customercare@marketo.com`.
+
+* 사후 지원 마이그레이션 완료: 제품 지원 관리자는 Experience League 지원 포털을 통해 사례를 제출할 수 있습니다.
+
+최종 성공을 거두셨다면 Admin Console 마이그레이션 화이트 글러브 서비스에 액세스할 수 있습니다. 도움이 필요하면 Adobe 계정 팀(계정 관리자)에 문의하십시오.
 
 **Adobe ID를 사용하여 다른 Adobe 응용 프로그램에 액세스하는 경우 해당 ID를 사용하여 Marketo에 액세스할 수 있습니까?**
 
@@ -106,13 +112,13 @@ Adobe IMS는 현재 Marketo의 장치 인증 기능과 같은 기능을 지원�
 
 **Adobe ID로 마이그레이션했을 때 사용자 로그인이 전자 메일과 일치하지 않으면 어떻게 합니까?**
 
-이메일 주소와 다른 로그인을 사용하는 현재 Marketo 사용자는 Adobe ID로 마이그레이션되면 더 이상 해당 자격 증명으로 로그인하지 않습니다. Adobe ID는 항상 사용자의 이메일 주소로 인증됩니다.
+이메일 주소와 다른 로그인을 사용하는 현재 Marketo Engage 사용자는 Adobe ID로 마이그레이션되면 더 이상 해당 자격 증명으로 로그인하지 않습니다. Adobe ID는 항상 사용자의 이메일 주소로 인증됩니다. [account.adobe.com](https://account.adobe.com){target="_blank"}에서 Adobe ID 전자 메일 주소를 업데이트할 수 있습니다.
 
 **내 구독에서 IP 제한 설정을 사용하는 경우 Adobe ID 마이그레이션 후 어떻게 됩니까?**
 
 Adobe ID에 구독을 온보딩할 때 IP 제한 설정이 Adobe Admin Console으로 마이그레이션되지 않습니다. Marketo의 IP 제한 설정에는 특정 IP 주소에서의 액세스만 허용하고 특정 IP 주소의 액세스를 차단하는 것이 포함됩니다. 현재 Adobe Identity Management 시스템은 IP 제한 기능을 지원하지 않습니다.
 
-2024년 Adobe Identity Management System은 특정 IP 주소만 허용하는 기능을 출시하며 현재 이 기능을 사용하는 Marketo 사용자에 대한 전환을 지원합니다. 현재 이 기능을 사용하는 사용자는 기능이 릴리스될 때까지 사용자 마이그레이션을 수행하지 않습니다. 기능이 전달되면 마이그레이션이 예약된다는 알림이 사용자에게 표시됩니다. 사용 가능한 경우 기능에 대한 자세한 정보가 제공됩니다.
+2025년 초에 출시되는 Adobe Identity Management System은 특정 IP 주소만 허용하는 기능을 출시하며 현재 이 기능을 사용하는 Marketo 사용자에 대한 전환을 지원합니다. 현재 이 기능을 사용하는 사용자는 기능이 릴리스될 때까지 사용자 마이그레이션을 수행하지 않습니다. 기능이 전달되면 마이그레이션이 예약된다는 알림이 사용자에게 표시됩니다. 사용 가능한 경우 기능에 대한 자세한 정보가 제공됩니다.
 
 현재 IP 제한을 사용하는 사용자는 특정 주소의 액세스를 차단하며, Adobe Identity Management 시스템에서 지원하지 않으므로 Adobe ID로 마이그레이션한 후에는 이 기능을 더 이상 사용할 수 없습니다.
 
@@ -123,3 +129,9 @@ Adobe ID에 구독을 온보딩할 때 IP 제한 설정이 Adobe Admin Console�
 **구독이 두 개 이상 있지만 모든 구독에서 Single Sign-On을 사용할 수 있는 것은 아닙니다. Adobe ID 마이그레이션 후 어떻게 됩니까?**
 
 구독이 Adobe ID에 온보딩되면 Adobe 조직 수준에서 SSO(Single Sign-On)가 설정됩니다. 즉, SSO는 Adobe 조직의 모든 제품 인스턴스에 적용됩니다. SSO가 설정되면 이 SSO는 해당 Adobe 조직의 모든 Marketo 인스턴스에 적용됩니다. 이전에는 Marketo에서 인스턴스 수준에서 이 설정을 지원했습니다. Adobe Identity Management 시스템에서 지원되지 않습니다.
+
+**이제 Marketo Engage에 액세스하려면 Experience Cloud으로 이동해야 합니다. 이 흐름을 간소화할 방법이 있습니까?**
+
+예. Marketo Engage 인스턴스 시작 페이지에서 **시작** 단추를 클릭하여 해당 페이지를 앞으로 건너뛰고 난 후 시작되는 링크의 브라우저 책갈피를 만들 수 있습니다.
+
+![](assets/faq-1.png)
