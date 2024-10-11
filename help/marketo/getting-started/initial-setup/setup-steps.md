@@ -1,6 +1,6 @@
 ---
 description: 설정 단계 - Marketo 설명서 - 제품 설명서
-short-description: Adobe Marketo Engage를 처음 사용하십니까? 본격적으로 시작하기 전에 완료해야 하는 단계를 알아보십시오.
+short-description: Adobe Marketo Engage를 처음 사용하십니까? 본격적으로 시작하기 전에 완료해야 하는 단계를 알아봅니다.
 title: 설정 단계
 feature: Getting Started
 exl-id: 5f37da48-b2ed-4e48-a5a2-429149745085
@@ -140,7 +140,7 @@ IT 관리자에게,
 
 이제 마케팅 팀은 Marketo 플랫폼을 사용하여 사용자와 커뮤니케이션합니다. 우수한 이메일 전달성을 보장하려면 다음 사항을 변경해야 합니다.
 
-`1)` 랜딩 페이지의 경우 **[LandingPageCNAME]**&#x200B;에 대한 DNS 항목(CNAME)을 추가하십시오.**[Munchkin ID]**.mktoweb.com을 가리키는 **[CompanyDomain]**.com.
+`1)` 랜딩 페이지의 경우 **[LandingPageCNAME]**&#x200B;에 대한 DNS 항목(CNAME)을 추가하십시오.**[CompanyDomain]**.com, **[Munchkin ID]**.mktoweb.com을 가리킴.
 
 `2)` 전자 메일의 추적 링크에 대해 **[EmailTrackingCNAME]**&#x200B;에 대한 DNS 항목(CNAME)을 추가하십시오.**[MktoTrackingLink]**&#x200B;을(를) 가리키는 **[CompanyDomain]**.com.
 
