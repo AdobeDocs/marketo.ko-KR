@@ -4,10 +4,10 @@ title: 이메일 만들기
 hide: true
 hidefromtoc: true
 feature: Email Editor
-source-git-commit: 6133a04124d9d4b829d092943753c7bb530dd374
+source-git-commit: 2d69e52883d141e3976c6d4fc1de6038675af602
 workflow-type: tm+mt
-source-wordcount: '357'
-ht-degree: 3%
+source-wordcount: '1063'
+ht-degree: 0%
 
 ---
 
@@ -39,7 +39,7 @@ ht-degree: 3%
 
 다 됐습니다. 이제 이메일을 디자인할 차례입니다.
 
-## 이메일 디자인 {#design-your-email}
+## 콘텐츠 유형 선택 {#choose-your-content-type}
 
 1. 방금 만든 전자 메일에서 **+ 전자 메일 콘텐츠 추가**&#x200B;를 클릭합니다.
 
@@ -47,27 +47,25 @@ ht-degree: 3%
 
 1. 이메일 만들기 페이지가 로드됩니다. 다음과 같은 몇 가지 옵션 중에서 선택할 수 있습니다.
 
-* [처음부터 디자인](#design-from-scratch)
+* 전자 메일 편집기를 사용하여 [처음부터 디자인](#design-from-scratch)
 
-* [나만의 HTML 가져오기](#import-html)
+* HTML 또는 zip 파일을 통해 [자신의 HTML 가져오기](#import-html)
 
 * [기존 템플릿을 선택하십시오](#choose-a-template)(샘플 중 하나 또는 이미 저장한 템플릿)
 
 ### 처음부터 디자인 {#design-from-scratch}
 
-간단한 소개
+이메일 편집기에서 처음부터 시작할 때 아래 옵션을 사용하여 콘텐츠를 정의합니다.
 
-1. 텍스트
+1. 템플릿 홈 페이지 디자인에서 **처음부터 디자인**&#x200B;을 선택합니다.
 
-   스크린샷
+이메일에 구조 및 콘텐츠를 추가합니다.
 
-1. 텍스트
+이미지를 추가합니다.
 
-   스크린샷
+콘텐츠를 개인화합니다.
 
-1. 텍스트
-
-   스크린샷
+링크를 검토하고 업데이트합니다.
 
 ### 가져오기 HTML {#import-html}
 
@@ -89,13 +87,11 @@ ht-degree: 3%
 
    스크린샷
 
-```
-THIS INFO MISSING FROM AJO B2B DOC - ADD IN THIS DOC?
+>[!NOTE]
+>
+>HTML 콘텐츠가 업로드되면 해당 콘텐츠는 호환성 모드에 있게 됩니다. 이 모드에서는 텍스트를 개인화하거나, 링크를 추가하거나, 콘텐츠에 에셋을 포함할 수 있습니다.
 
-Once the HTML content is uploaded, your content will be in Compatibility mode.
-
-In this mode, you can only personalize your text, add links, or include assets to your content.
-```
+[전자 메일 편집기 도구](#add-structure-and-content)를 사용하여 가져온 콘텐츠를 원하는 대로 변경할 수 있습니다.
 
 ### 템플릿 선택 {#choose-a-template}
 
@@ -109,9 +105,9 @@ In this mode, you can only personalize your text, add links, or include assets t
 
 >[!TAB 샘플 템플릿]
 
-이메일 디자인에서 바로 시작할 수 있도록 4개의 기본 템플릿 중 하나를 선택합니다.
+이메일 디자인을 바로 시작할 수 있도록 기본 제공 템플릿 중 하나를 선택합니다.
 
-1. 전자 메일 만들기 페이지에서 샘플 템플릿을 선택합니다.
+1. 전자 메일 만들기 페이지에서 **샘플 템플릿**&#x200B;을(를) 선택합니다.
 
    스크린샷
 
@@ -141,6 +137,97 @@ In this mode, you can only personalize your text, add links, or include assets t
 
 >[!ENDTABS]
 
->[!MORELIKETHIS]
+## 구조 및 콘텐츠 추가 {#add-structure-and-content}
+
+1. 콘텐츠를 만들거나 수정하려면 구조에서 캔버스로 항목을 끌어다 놓습니다. 오른쪽 창에서 설정을 편집합니다.
+
+   >[!TIP]
+   >
+   >n:n 열 구성 요소를 선택하여 선택한 열 수(3개에서 10개 사이)를 정의합니다. 열 아래로 화살표를 이동하여 각 열의 너비를 정의할 수도 있습니다.
+
+   스크린샷
+
+   >[!NOTE]
+   >
+   >각 열 크기는 구조 구성 요소의 전체 너비의 10%보다 작을 수 없습니다. 빈 열만 제거할 수 있습니다.
+
+1. 콘텐츠 섹션에서 원하는 항목 위로 끌어서 하나 이상의 구조 구성 요소에 놓습니다.
+
+   스크린샷
+
+1. 설정 또는 스타일 탭을 통해 각 구성 요소를 사용자 지정할 수 있습니다. 글꼴, 텍스트 스타일, 여백 등을 변경합니다.
+
+스크린샷
+
+### Assets 추가 {#add-assets}
+
+에셋 선택기에서 Assets 라이브러리에 저장된 에셋을 직접 선택할 수 있습니다. 에셋이 포함된 폴더를 두 번 클릭합니다. 구조 구성 요소로 끌어다 놓습니다.
+
+개인화 필드를 삽입하여 프로필 속성, 대상자 멤버십, 컨텍스트 속성 등에서 콘텐츠를 사용자 지정합니다.
+
+조건 컨텐츠 활성화 를 클릭하여 다이내믹 컨텐츠를 추가하고 조건부 규칙에 따라 타겟팅된 프로필로 컨텐츠를 조정합니다.
+
+왼쪽 창에서 링크 탭을 클릭하여 추적할 콘텐츠의 모든 URL을 표시합니다. 추적 유형 또는 레이블을 수정하고 필요한 경우 태그를 추가할 수 있습니다.
+
+필요한 경우 고급 메뉴에서 코드 편집기로 전환 을 클릭하여 이메일을 추가로 개인화할 수 있습니다. 이를 통해 이메일 소스 코드를 편집하여 추적 또는 사용자 지정 HTML 태그를 추가할 수 있습니다.
+
+주의
+코드 편집기로 전환한 후에는 이 전자 메일의 비주얼 디자이너로 되돌릴 수 없습니다.
+
+콘텐츠가 준비되면 콘텐츠 시뮬레이션 버튼을 클릭하여 렌더링을 확인합니다. 데스크탑 또는 모바일 보기를 선택할 수 있습니다.
+
+준비가 되면 저장 을 클릭합니다
+
+
+
+
+
+## 경고 확인 {#check-alerts}
+
+콘텐츠를 디자인할 때 키 설정이 없을 때 인터페이스(화면 오른쪽 상단)에 경고가 표시됩니다.
+
+경고에는 두 가지 유형이 있습니다.
+
+**경고**
+
+경고는 다음과 같은 권장 사항 및 모범 사례를 참조합니다.
+
+* **옵트아웃 링크가 이메일 본문에 없습니다**: 구독 취소 링크는 필수 사항이지만 이메일 본문에 추가하는 것이 좋습니다.
+
+>[!NOTE]
 >
->[전자 메일에 액세스하는 방법](/help/marketo/product-docs/email-marketing/general/beta-new-email-editor/how-to-access-an-email.md){target="_blank"}
+>[운영 전자 메일](/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/make-an-email-operational.md)(비마케팅)에는 구독 취소 옵션을 추가할 필요가 없습니다.
+
+* **텍스트 버전의 HTML이 비어 있음**: HTML 내용을 표시할 수 없는 경우 이메일 본문의 텍스트 버전을 정의해야 합니다.
+
+* **전자 메일 본문에 빈 링크가 있습니다**: 전자 메일의 모든 링크가 올바른지 확인하십시오.
+
+* **전자 메일 크기가 100KB의 제한을 초과했습니다**: 최적의 배달을 위해 전자 메일 크기가 100KB를 초과하지 않도록 하십시오.
+
+**오류**
+
+오류는 해결할 때까지 이메일을 보내거나 테스트하지 못하도록 합니다.
+
+* **제목 줄이 없습니다**: 전자 메일 제목 줄이 필요합니다.
+
+* **메시지의 전자 메일 버전이 비어 있습니다**: 이 오류는 전자 메일 콘텐츠가 구성되지 않은 경우에 발생합니다.
+
+## 이메일 테스트
+
+메시지 콘텐츠가 정의된 경우 테스트 프로필을 사용하여 콘텐츠를 미리 보고, 증명을 보내고, 인기 있는 데스크탑, 모바일 및 웹 기반 클라이언트에서 렌더링하는 방법을 제어할 수 있습니다. 개인화된 콘텐츠를 삽입한 경우 테스트 프로필 데이터를 사용하여 메시지에 어떻게 표시되는지 확인할 수 있습니다.
+
+전자 메일 콘텐츠를 미리 보려면 **콘텐츠 시뮬레이션**&#x200B;을 클릭한 다음 테스트 프로필을 추가하여 테스트 프로필 데이터를 사용하여 메시지를 확인하세요.
+
+스크린샷
+
+## 이메일 참조 {#reference-an-email}
+
+새 편집기에서 이메일을 만든 후에는 다른 이메일과 마찬가지로 스마트 캠페인 또는 스마트 목록에서 이를 참조할 수 있습니다.
+
+* [일반적인 단계에 따라](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/creating-a-smart-list/create-a-smart-list.md)스마트 목록에서 참조합니다.
+
+* [일반적인 단계에 따라](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/creating-a-smart-campaign/create-a-new-smart-campaign.md)스마트 캠페인에서 참조합니다.
+
+>[!NOTE]
+>
+>저장된 이메일만 참조할 수 있습니다. 새 이메일 편집기에 &quot;승인됨&quot; 상태가 없습니다.

@@ -3,9 +3,9 @@ description: 최신 릴리스 정보 - Marketo 설명서 - 제품 설명서
 title: 최신 릴리스 정보
 exl-id: a2eccad5-73ad-48f9-8091-51cee23824e1
 feature: Release Information
-source-git-commit: 86314f93535df1fe0568ba1f609ecf35799383fb
+source-git-commit: 2d69e52883d141e3976c6d4fc1de6038675af602
 workflow-type: tm+mt
-source-wordcount: '485'
+source-wordcount: '483'
 ht-degree: 2%
 
 ---
@@ -54,8 +54,8 @@ Adobe Dynamic Chat [에 대한 릴리스 정보는 여기에서 찾을 수 있�
   </tr>
    <tr> 
    <td><strong>스마트 목록 "영향을 미치도록 설정" 수</strong>: 스마트 캠페인의 자격 규칙을 편집할 때 영향을 받는 사람 수를 확인합니다.</td> 
-   <td><i>곧 출시 예정</i></td>
-   <td><i>곧 출시 예정</i></td>
+   <td>배송됨</td>
+   <td>해당 사항 없음</td>
   </tr>
   <tr> 
    <td> </td> 
@@ -65,8 +65,8 @@ Adobe Dynamic Chat [에 대한 릴리스 정보는 여기에서 찾을 수 있�
   </tr>
    <tr> 
    <td><strong>탐색 레일의 내 계정 단추</strong>: Identity Management System Adobe으로 마이그레이션한 사용자의 경우 왼쪽 탐색 레일에 새 "내 계정" 단추를 사용하면 표준 시간대를 구성하고 구독 세부 정보에 액세스할 수 있습니다.</td> 
-   <td><i>곧 출시 예정</i></td>
-   <td><i>곧 출시 예정</i></td>
+   <td>배송됨</td>
+   <td>해당 사항 없음</td>
   </tr>
   <tr> 
    <td> </td> 

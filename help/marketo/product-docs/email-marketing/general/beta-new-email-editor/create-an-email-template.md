@@ -4,9 +4,9 @@ title: 이메일 템플릿 만들기
 hide: true
 hidefromtoc: true
 feature: Email Editor
-source-git-commit: 6133a04124d9d4b829d092943753c7bb530dd374
+source-git-commit: 2d69e52883d141e3976c6d4fc1de6038675af602
 workflow-type: tm+mt
-source-wordcount: '347'
+source-wordcount: '432'
 ht-degree: 2%
 
 ---
@@ -18,6 +18,10 @@ ht-degree: 2%
 >[!IMPORTANT]
 >
 >이 문서는 새 Marketo Engage 이메일 편집기 비공개 베타를 사용하는 사용자를 위한 것입니다. 제발 유포하지 마세요.
+
+>[!NOTE]
+>
+>새 이메일 편집기의 이메일 템플릿은 새 이메일 편집기에서 이메일을 만드는 데만 사용할 수 있습니다. 이전 이메일 편집기에서 참조할 수 없습니다.
 
 1. [Adobe Experience Cloud](https://experiencecloud.adobe.com/){target="_blank"}을 통해 Marketo Engage에 로그인합니다.
 
@@ -79,17 +83,19 @@ ht-degree: 2%
 
    스크린샷
 
+   >[!NOTE]
+   >
+   >HTML 콘텐츠가 업로드되면 해당 콘텐츠는 호환성 모드에 있게 됩니다. 이 모드에서는 텍스트를 개인화하거나, 링크를 추가하거나, 콘텐츠에 에셋을 포함할 수 있습니다.
+
+1. 이메일 Designer 콘텐츠 구성 요소를 활용하려면 HTML 변환기 탭에 액세스하여 변환을 클릭합니다.
+
+   스크린샷
+
    >[!CAUTION]
    >
    >`<table>` 태그를 HTML 파일의 첫 번째 레이어로 사용하면 맨 위 레이어 태그의 배경 및 너비 설정을 포함하여 스타일이 손실될 수 있습니다.
 
-```
-THIS INFO MISSING FROM AJO B2B DOC - ADD IN THIS DOC?
-
-Once the HTML content is uploaded, your content will be in Compatibility mode.
-
-In this mode, you can only personalize your text, add links, or include assets to your content.
-```
+이제 시각적 이메일 편집기를 사용하여 필요에 따라 가져온 파일을 개인화할 수 있습니다.
 
 ### 템플릿 선택 {#choose-a-template}
 
@@ -124,7 +130,3 @@ In this mode, you can only personalize your text, add links, or include assets t
    스크린샷
 
 >[!ENDTABS]
-
->[!MORELIKETHIS]
->
->[전자 메일 템플릿에 액세스하는 방법](/help/marketo/product-docs/email-marketing/general/beta-new-email-editor/how-to-access-an-email-template.md){target="_blank"}
