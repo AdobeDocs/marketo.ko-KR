@@ -4,9 +4,9 @@ title: 이메일 만들기
 hide: true
 hidefromtoc: true
 feature: Email Editor
-source-git-commit: 2d69e52883d141e3976c6d4fc1de6038675af602
+source-git-commit: ef1cb0b67deb935b67a56076ed9ed0a14f449662
 workflow-type: tm+mt
-source-wordcount: '1063'
+source-wordcount: '1064'
 ht-degree: 0%
 
 ---
@@ -222,7 +222,7 @@ ht-degree: 0%
 
 ## 이메일 참조 {#reference-an-email}
 
-새 편집기에서 이메일을 만든 후에는 다른 이메일과 마찬가지로 스마트 캠페인 또는 스마트 목록에서 이를 참조할 수 있습니다.
+새 편집기에서 이메일을 만든 후에는 다른 이메일과 마찬가지로 스마트 캠페인 및/또는 스마트 목록에서 이를 참조할 수 있습니다.
 
 * [일반적인 단계에 따라](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/creating-a-smart-list/create-a-smart-list.md)스마트 목록에서 참조합니다.
 
