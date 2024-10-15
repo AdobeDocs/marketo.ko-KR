@@ -4,7 +4,7 @@ title: 이메일 템플릿
 hide: true
 hidefromtoc: true
 feature: Email Editor
-source-git-commit: 1c29810774d3c2cdcac19381edfc7388d67b45ee
+source-git-commit: 28bc524ac651a2a9516888b11acb226725689869
 workflow-type: tm+mt
 source-wordcount: '1411'
 ht-degree: 1%
@@ -310,7 +310,7 @@ _전자 메일 서식 파일_ 목록 페이지에서 전자 메일 서식 파일
 * _전자 메일 서식 파일_ 목록 페이지 - 원하는 전자 메일 서식 파일의 추가 작업 아이콘(세 점)을 클릭하고 편집을 선택합니다.
 
 ```
-THE SECOND ONE DOESN'T WORK IN MKTO?? JUST LISTS DUPE AND DELETE
+THE SECOND ONE DOESN'T WORK IN MARKETO?? JUST LISTS DUPE AND DELETE
 ```
 
 이 작업을 수행하면 전자 메일 템플릿의 마지막으로 저장된 상태를 기반으로 _템플릿 디자인_ 페이지 또는 시각적 콘텐츠 편집기 페이지로 이동합니다. 여기에서 필요에 따라 이메일 템플릿 콘텐츠를 편집할 수 있습니다. 편집 옵션에 대한 자세한 내용은 이메일 템플릿 만들기 를 참조하십시오.
