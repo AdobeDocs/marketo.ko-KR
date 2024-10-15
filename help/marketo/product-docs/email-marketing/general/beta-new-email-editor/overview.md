@@ -4,27 +4,27 @@ title: 개요
 hide: true
 hidefromtoc: true
 feature: Email Editor
-source-git-commit: 2d69e52883d141e3976c6d4fc1de6038675af602
+source-git-commit: bdcb4e5def16e509ae083b6eebdefadbb0e8fa47
 workflow-type: tm+mt
-source-wordcount: '87'
-ht-degree: 2%
+source-wordcount: '60'
+ht-degree: 3%
 
 ---
 
 # 개요 {#overview}
 
-소개 텍스트를 여기에 입력하십시오.
+소개 텍스트입니다.
 
 >[!IMPORTANT]
 >
->이 문서는 새 Marketo Engage 이메일 편집기 비공개 베타를 사용하는 사용자를 위한 것입니다. 제발 유포하지 마세요.
+>이 문서는 새로운 Marketo Engage 이메일 편집기 Beta 멤버만을 대상으로 합니다. 제발 유포하지 마세요.
+
+```
+DO WE WANT TO ADD A DESCRIPTIVE INTRO HERE?
+```
 
 **사용 가능한 문서**
 
-* [전자 메일 만들기](/help/marketo/product-docs/email-marketing/general/beta-new-email-editor/create-an-email.md){target="_blank"}: 새 편집기에서 전자 메일을 만들고 디자인하는 방법에 대해 알아봅니다.
+* [전자 메일 작성](/help/marketo/product-docs/email-marketing/general/beta-new-email-editor/email-authoring.md){target="_blank"}: 새 편집기에서 전자 메일을 만들고 디자인하고 참조하는 방법에 대해 알아봅니다.
 
-* [전자 메일에 액세스하는 방법](/help/marketo/product-docs/email-marketing/general/beta-new-email-editor/how-to-access-an-email.md){target="_blank"}: Marketo Engage에서 새 편집기 전자 메일에 액세스하는 방법을 알아봅니다.
-
-^^^ 문서에 추가하는 것이 더 나을 수 있습니다.
-
-* [전자 메일 서식 파일 만들기](/help/marketo/product-docs/email-marketing/general/beta-new-email-editor/create-an-email-template.md){target="_blank"}: 새 편집기에서 전자 메일 서식 파일을 만들고 디자인하는 방법을 알아봅니다.
+* [전자 메일 템플릿](/help/marketo/product-docs/email-marketing/general/beta-new-email-editor/email-templates.md){target="_blank"}: 새 편집기에서 전자 메일 템플릿을 만들고 디자인하고 액세스하는 방법을 알아봅니다.

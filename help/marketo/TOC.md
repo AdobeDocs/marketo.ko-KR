@@ -3,9 +3,9 @@ audience: end-user
 user-guide-title: Marketo 안내서
 user-guide-description: Marketo 제품 설명서
 feature-set: Marketo Engage
-source-git-commit: ddba357e6e0e3d451ee4b054b18eaf1ed29055b6
+source-git-commit: bdcb4e5def16e509ae083b6eebdefadbb0e8fa47
 workflow-type: tm+mt
-source-wordcount: '9379'
+source-wordcount: '9370'
 ht-degree: 0%
 
 ---
@@ -1100,10 +1100,9 @@ ht-degree: 0%
             + [이메일 이벤트 로깅 이해](product-docs/email-marketing/general/understanding-the-email-editor/understanding-email-event-logging.md)
             + [리치 텍스트 편집기 사용](product-docs/email-marketing/general/understanding-the-email-editor/using-the-rich-text-editor.md)
          + Beta 새 전자 메일 편집기 {#beta-new-email-editor}
-            + [이메일 만들기](product-docs/email-marketing/general/beta-new-email-editor/create-an-email.md)
-            + [이메일 템플릿 만들기](product-docs/email-marketing/general/beta-new-email-editor/create-an-email-template.md)
-            + [이메일에 액세스하는 방법](product-docs/email-marketing/general/beta-new-email-editor/how-to-access-an-email.md)
-            + [전자 메일 템플릿에 액세스하는 방법](product-docs/email-marketing/general/beta-new-email-editor/how-to-access-an-email-template.md)
+            + [새 이메일 편집기 개요(베타)](product-docs/email-marketing/general/beta-new-email-editor/overview.md)
+            + [이메일 작성](product-docs/email-marketing/general/beta-new-email-editor/email-authoring.md)
+            + [이메일 템플릿](product-docs/email-marketing/general/beta-new-email-editor/email-templates.md)
          + 전자 메일 {#creating-an-email} 만들기
             + [이메일 승인](product-docs/email-marketing/general/creating-an-email/approve-an-email.md)
             + [텍스트 전용 이메일 만들기](product-docs/email-marketing/general/creating-an-email/create-a-text-only-email.md)
