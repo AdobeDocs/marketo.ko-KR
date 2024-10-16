@@ -4,9 +4,9 @@ title: 이메일 작성
 hide: true
 hidefromtoc: true
 feature: Email Editor
-source-git-commit: 482c2955bbf3ad10d244ebc5e6b6d6a37d82c217
+source-git-commit: ec88618ad96c5929f220aadfd5dac2ac81be7701
 workflow-type: tm+mt
-source-wordcount: '1212'
+source-wordcount: '1259'
 ht-degree: 1%
 
 ---
@@ -43,9 +43,9 @@ ht-degree: 1%
 
 ## 콘텐츠 유형 선택 {#choose-your-content-type}
 
-1. 방금 만든 전자 메일에서 **+ 전자 메일 콘텐츠 추가**&#x200B;를 클릭합니다.
+1. 방금 만든 전자 메일에서 **전자 메일 콘텐츠 추가**&#x200B;를 클릭합니다.
 
-   스크린샷
+   ![](assets/choose-your-content-type-1.png)
 
 1. _전자 메일 만들기_ 페이지가 로드됩니다. 다음과 같은 몇 가지 옵션 중에서 선택할 수 있습니다.
 
@@ -83,11 +83,9 @@ ht-degree: 1%
 
 1. HTML 디자인 페이지에서 **템플릿 가져오기**&#x200B;를 선택합니다.
 
-   스크린샷
+1. 원하는 HTML 또는 .zip 파일을 끌어다 놓고(또는 컴퓨터에서 파일 선택) **가져오기**&#x200B;를 클릭합니다.
 
-1. 원하는 HTML 또는 .zip 파일을 끌어서 놓고 **가져오기**&#x200B;를 클릭합니다.
-
-   스크린샷
+   ![](assets/authoring-import-your-html-1.png)
 
 >[!NOTE]
 >
@@ -107,35 +105,31 @@ ht-degree: 1%
 
 >[!TAB 샘플 템플릿]
 
-이메일 디자인을 바로 시작할 수 있도록 기본 제공 템플릿 중 하나를 선택합니다.
+이메일 템플릿 디자인에서 바로 시작할 수 있도록 기본 제공 템플릿 중 하나를 선택합니다.
 
-1. 전자 메일 만들기 페이지에서 **샘플 템플릿**&#x200B;을(를) 선택합니다.
+1. 기본적으로 샘플 템플릿 탭이 열려 있습니다.
 
-   스크린샷
+1. 사용할 템플릿을 선택합니다.
 
-1. 원하는 템플릿을 선택합니다.
+   ![](assets/authoring-sample-templates-1.png)
 
-   스크린샷
+1. **이 서식 파일 사용**&#x200B;을 클릭합니다.
 
-1. 미리보기가 나타납니다. 선택을 확인하려면 **이 서식 파일 사용**&#x200B;을 클릭하세요.
+   ![](assets/authoring-sample-templates-2.png)
 
-   스크린샷
+1. 시각적 콘텐츠 디자이너를 사용하여 원하는 대로 콘텐츠를 편집합니다.
 
 >[!TAB 저장된 템플릿]
 
-이전에 만든 템플릿 중 하나를 선택합니다.
+1. **저장된 템플릿** 탭을 클릭하고 원하는 템플릿을 선택합니다.
 
-1. 전자 메일 만들기 페이지에서 **저장된 템플릿**&#x200B;을(를) 선택합니다.
+   ![](assets/authoring-saved-templates-1.png)
 
-   스크린샷
+1. **이 서식 파일 사용**&#x200B;을 클릭합니다.
 
-1. 원하는 템플릿을 선택합니다.
+   ![](assets/authoring-saved-templates-2.png)
 
-   스크린샷
-
-1. 미리보기가 나타납니다. 선택을 확인하려면 **이 서식 파일 사용**&#x200B;을 클릭하세요.
-
-   스크린샷
+1. 시각적 콘텐츠 디자이너를 사용하여 원하는 대로 콘텐츠를 편집합니다.
 
 >[!ENDTABS]
 
@@ -213,25 +207,29 @@ ARE THEY CALLED LAYERS OR COMPONENTS
 
 ### 콘텐츠 개인화 {#personalize-content}
 
-토큰은 이전 버전에서 작동하는 것과 동일한 방식으로 새 편집기에서 작동하지만 아이콘은 다르게 보입니다.
+토큰은 이전 버전에서 작동하는 것과 동일한 방식으로 새 편집기에서 작동하지만 아이콘은 다르게 보입니다. 아래 예에서는 대체 텍스트가 있는 이름 토큰을 추가하는 방법을 간략하게 설명합니다.
 
-1. 텍스트 구성 요소를 선택하고 **개인화 추가** 아이콘을 클릭합니다.
+1. 텍스트 구성 요소를 선택합니다. 토큰을 표시할 위치에 커서를 놓고 **개인화 추가** 아이콘을 클릭합니다.
 
-   스크린샷
+   ![](assets/authoring-personalize-content-1.png)
 
 1. 원하는 [토큰 형식](/help/marketo/product-docs/demand-generation/landing-pages/personalizing-landing-pages/tokens-overview.md){target="_blank"}을 클릭합니다.
 
-   스크린샷
+   ![](assets/authoring-personalize-content-2.png)
 
-1. + 또는 ...를 클릭하여 빈 공간에 토큰을 추가합니다.
+1. 원하는 토큰을 찾고 **..** 아이콘을 클릭합니다(+ 아이콘을 클릭하면 대체 텍스트가 없는 토큰이 추가됨).
 
-   스크린샷
+   ![](assets/authoring-personalize-content-3.png)
 
    >[!NOTE]
    >
-   >&quot;대체 텍스트&quot;는 기본값에 대한 새로운 편집기 용어입니다. 예: ``{{lead.First Name:default=Friend}}``
+   >&quot;대체 텍스트&quot;는 기본값에 대한 새로운 편집기 용어입니다. 예: ``{{lead.First Name:default=Friend}}`` 선택한 필드에 사용자에 대한 값이 없는 경우 사용하는 것이 좋습니다.
 
-1. 완료되면 **저장**&#x200B;을 클릭합니다.
+1. 대체 텍스트를 설정하고 **추가**&#x200B;를 클릭합니다.
+
+   ![](assets/authoring-personalize-content-4.png)
+
+1. **저장**&#x200B;을 클릭합니다.
 
 ### URL 추적 편집 {#edit-url-tracking}
 
