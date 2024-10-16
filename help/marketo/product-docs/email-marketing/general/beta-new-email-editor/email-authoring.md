@@ -4,16 +4,16 @@ title: 이메일 작성
 hide: true
 hidefromtoc: true
 feature: Email Editor
-source-git-commit: ec88618ad96c5929f220aadfd5dac2ac81be7701
+source-git-commit: 43a0d32c2bc6a5f72a13cb6022b00c058d9c3269
 workflow-type: tm+mt
-source-wordcount: '1259'
+source-wordcount: '1271'
 ht-degree: 1%
 
 ---
 
 # 이메일 작성 {#email-authoring}
 
-소개 텍스트를 여기에 입력하십시오.
+새 Marketo Engage 이메일 Designer에서 이메일을 만들고, 개인화하고, 미리 보는 방법에 대해 알아봅니다.
 
 >[!IMPORTANT]
 >
@@ -297,7 +297,7 @@ ARE THEY CALLED LAYERS OR COMPONENTS
 
 * **메시지의 전자 메일 버전이 비어 있습니다**: 이 오류는 전자 메일 콘텐츠가 구성되지 않은 경우에 발생합니다.
 
-## 이메일 테스트
+## 이메일 테스트 {#test-your-email}
 
 메시지 콘텐츠가 정의된 경우 테스트 프로필을 사용하여 콘텐츠를 미리 보고, 증명을 보내고, 인기 있는 데스크탑, 모바일 및 웹 기반 클라이언트에서 렌더링하는 방법을 제어할 수 있습니다. 개인화된 콘텐츠를 삽입한 경우 테스트 프로필 데이터를 사용하여 메시지에 어떻게 표시되는지 확인할 수 있습니다.
 
