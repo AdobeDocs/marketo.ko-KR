@@ -4,7 +4,7 @@ description: 전송 옵션 이해 - Marketo 문서 - 제품 설명서
 title: 전송 옵션 이해
 exl-id: acdee691-478e-4ffe-90e2-54cf559fa38d
 feature: Marketo Sales Connect
-source-git-commit: ec88618ad96c5929f220aadfd5dac2ac81be7701
+source-git-commit: 832635c9e029754ce094e4137724bcc956dbcd35
 workflow-type: tm+mt
 source-wordcount: '609'
 ht-degree: 0%
@@ -63,3 +63,4 @@ Campaign의 이후 며칠/단계에서는 다음 옵션을 사용할 수 있습�
 **이 전자 메일을 이전 전자 메일로 스레드**
 
 * 이 전송 옵션은 이전 이메일의 &#39;후속 작업&#39;이 되며 이전 이메일 본문을 이 이메일 하단에 추가합니다.
+

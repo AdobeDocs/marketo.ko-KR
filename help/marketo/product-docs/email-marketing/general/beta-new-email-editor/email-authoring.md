@@ -4,9 +4,9 @@ title: 이메일 작성
 hide: true
 hidefromtoc: true
 feature: Email Editor
-source-git-commit: 43a0d32c2bc6a5f72a13cb6022b00c058d9c3269
+source-git-commit: 832635c9e029754ce094e4137724bcc956dbcd35
 workflow-type: tm+mt
-source-wordcount: '1271'
+source-wordcount: '1474'
 ht-degree: 1%
 
 ---
@@ -196,14 +196,38 @@ Access assets stored in the Assets library. IMAGES AND FILES ONLY?
 ARE THEY CALLED LAYERS OR COMPONENTS
 ```
 
-탐색 트리를 열어 특정 구조 및 해당 열/구성 요소에 액세스하여 보다 세분화된 편집을 수행할 수 있습니다.
+탐색 트리를 열어 특정 구조 및 해당 열/구성 요소에 액세스하여 보다 세분화된 편집을 수행할 수 있습니다. 액세스하려면 탐색 트리 아이콘을 클릭합니다.
 
-1. 액세스하려면 탐색 트리 아이콘을 클릭합니다.
+![](assets/authoring-layers-settings-styles-1.png)
 
-스크린샷
+아래 예에서는 열로 구성된 구조 구성 요소 내에서 패딩 및 수직 정렬을 조정하는 단계를 간략하게 설명합니다.
 
+1. 캔버스에서 구조 구성 요소의 열을 직접 선택하거나 왼쪽에 표시된 _탐색 트리_&#x200B;를 사용합니다.
 
+1. 열 도구 모음에서 _[!UICONTROL 열 선택]_ 도구를 클릭하고 편집할 열을 선택합니다.
 
+   구조 트리에서 선택할 수도 있습니다. 해당 열에 대한 편집 가능한 매개 변수는 오른쪽의 _[!UICONTROL 설정]_ 및 _[!UICONTROL 스타일]_ 탭에 표시됩니다.
+
+   ![](assets/authoring-layers-settings-styles-2.png)
+
+1. 열 속성을 편집하려면 오른쪽의 _[!UICONTROL 스타일]_ 탭을 클릭하고 필요에 따라 변경합니다.
+
+   * **[!UICONTROL Background]**&#x200B;의 경우 필요에 따라 배경색을 변경합니다.
+
+     투명 배경에 대한 확인란 선택을 취소합니다. 단색 대신 이미지를 배경으로 사용하려면 **[!UICONTROL 배경 이미지]** 설정을 사용하도록 설정하십시오.
+
+   * **[!UICONTROL 정렬]**&#x200B;에 대해 _위쪽_, _중간_ 또는 _아래쪽_ 아이콘을 선택합니다.
+   * **[!UICONTROL 패딩]**&#x200B;에 대해 모든 면에 대한 패딩을 정의합니다.
+
+     패딩을 조정하려면 **[!UICONTROL 각 면에 대해 다른 패딩]**&#x200B;을 선택하세요. 동기화를 중단하려면 _잠금_ 아이콘을 클릭하십시오.
+
+   * **[!UICONTROL 고급]** 섹션을 확장하여 열의 인라인 스타일을 정의합니다.
+
+   ![](assets/authoring-layers-settings-styles-3.png)
+
+1. 필요에 따라 이 단계를 반복하여 구성 요소의 다른 열에 대한 정렬 및 패딩을 조정합니다.
+
+1. 변경 내용을 저장합니다.
 
 ### 콘텐츠 개인화 {#personalize-content}
 

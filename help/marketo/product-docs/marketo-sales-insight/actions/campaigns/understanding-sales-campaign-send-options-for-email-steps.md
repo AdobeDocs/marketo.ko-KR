@@ -3,7 +3,7 @@ description: 이메일 단계에 대한 판매 캠페인 전송 옵션 이해 - 
 title: 이메일 단계에 대한 판매 캠페인 전송 옵션 이해
 feature: Sales Insight Actions
 exl-id: 775c6401-efb2-4940-a81c-be5d2759c7bd
-source-git-commit: ec88618ad96c5929f220aadfd5dac2ac81be7701
+source-git-commit: 832635c9e029754ce094e4137724bcc956dbcd35
 workflow-type: tm+mt
 source-wordcount: '750'
 ht-degree: 0%
@@ -77,3 +77,4 @@ Sales Campaign의 이후 며칠/단계에서는 다음과 같은 옵션을 사�
 >[판매 캠페인 만들기](/help/marketo/product-docs/marketo-sales-insight/actions/campaigns/create-a-sales-campaign.md){target="_blank"}
 >[판매 캠페인 단계 유형 및 미리 알림 작업](/help/marketo/product-docs/marketo-sales-insight/actions/campaigns/sales-campaign-step-types-and-reminder-tasks.md){target="_blank"}
 >[판매 캠페인 설정](/help/marketo/product-docs/marketo-sales-insight/actions/campaigns/sales-campaign-settings.md){target="_blank"}
+
