@@ -4,9 +4,9 @@ title: 이메일 템플릿
 hide: true
 hidefromtoc: true
 feature: Email Editor
-source-git-commit: 832635c9e029754ce094e4137724bcc956dbcd35
+source-git-commit: af8afc9342a4ca0b4032c4d7c761703adb5a6701
 workflow-type: tm+mt
-source-wordcount: '1672'
+source-wordcount: '1728'
 ht-degree: 1%
 
 ---
@@ -149,8 +149,6 @@ _템플릿 디자인_ 페이지에서 몇 가지 옵션 중에서 선택할 수 
 
 1. 설정 또는 스타일 탭을 통해 각 구성 요소를 사용자 지정할 수 있습니다. 글꼴, 텍스트 스타일, 여백 등을 변경합니다.
 
-스크린샷
-
 ### Assets 추가 {#add-assets}
 
 ```
@@ -227,25 +225,29 @@ ARE THEY CALLED LAYERS OR COMPONENTS
 
 ### 콘텐츠 개인화 {#personalize-content}
 
-토큰은 이전 버전에서 작동하는 것과 동일한 방식으로 새 편집기에서 작동하지만 아이콘은 다르게 보입니다.
+토큰은 이전 버전에서 작동하는 것과 동일한 방식으로 새 편집기에서 작동하지만 아이콘은 다르게 보입니다. 아래 예에서는 대체 텍스트가 있는 이름 토큰을 추가하는 방법을 간략하게 설명합니다.
 
-1. 텍스트 구성 요소를 선택하고 **개인화 추가** 아이콘을 클릭합니다.
+1. 텍스트 구성 요소를 선택합니다. 토큰을 표시할 위치에 커서를 놓고 **개인화 추가** 아이콘을 클릭합니다.
 
-   스크린샷
+   ![](assets/personalize-content-1.png)
 
 1. 원하는 [토큰 형식](/help/marketo/product-docs/demand-generation/landing-pages/personalizing-landing-pages/tokens-overview.md){target="_blank"}을 클릭합니다.
 
-   스크린샷
+   ![](assets/personalize-content-2.png)
 
-1. + 또는 ...를 클릭하여 빈 공간에 토큰을 추가합니다.
+1. 원하는 토큰을 찾고 **..** 아이콘을 클릭합니다(+ 아이콘을 클릭하면 대체 텍스트가 없는 토큰이 추가됨).
 
-   스크린샷
+   ![](assets/personalize-content-3.png)
 
    >[!NOTE]
    >
-   >&quot;대체 텍스트&quot;는 기본값에 대한 새로운 편집기 용어입니다. 예: ``{{lead.First Name:default=Friend}}``
+   >&quot;대체 텍스트&quot;는 기본값에 대한 새로운 편집기 용어입니다. 예: ``{{lead.First Name:default=Friend}}`` 선택한 필드에 사용자에 대한 값이 없는 경우 사용하는 것이 좋습니다.
 
-1. 완료되면 **저장**&#x200B;을 클릭합니다.
+1. 대체 텍스트를 설정하고 **추가**&#x200B;를 클릭합니다.
+
+   ![](assets/personalize-content-4.png)
+
+1. **저장**&#x200B;을 클릭합니다.
 
 ### URL 추적 편집 {#edit-url-tracking}
 
@@ -253,11 +255,13 @@ ARE THEY CALLED LAYERS OR COMPONENTS
 
 1. 링크 아이콘을 클릭하면 이메일의 모든 URL이 표시됩니다.
 
-   스크린샷
+   ![](assets/edit-url-tracking-1.png)
 
 1. 원하는 링크에 대한 추적을 편집하려면 연필 아이콘을 클릭합니다.
 
-   스크린샷
+1. **추적 유형** 드롭다운을 클릭하고 선택하십시오.
+
+   ![](assets/edit-url-tracking-2.png)
 
    ```
    LABEL?

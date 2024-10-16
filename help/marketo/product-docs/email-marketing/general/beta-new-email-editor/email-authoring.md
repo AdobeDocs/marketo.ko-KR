@@ -4,9 +4,9 @@ title: 이메일 작성
 hide: true
 hidefromtoc: true
 feature: Email Editor
-source-git-commit: 832635c9e029754ce094e4137724bcc956dbcd35
+source-git-commit: af8afc9342a4ca0b4032c4d7c761703adb5a6701
 workflow-type: tm+mt
-source-wordcount: '1474'
+source-wordcount: '1477'
 ht-degree: 1%
 
 ---
@@ -141,7 +141,7 @@ ht-degree: 1%
    >
    >n:n 열 구성 요소를 선택하여 선택한 열 수(3개에서 10개 사이)를 정의합니다. 열 아래로 화살표를 이동하여 각 열의 너비를 정의할 수도 있습니다.
 
-   스크린샷
+   ![](assets/authoring-add-structure-and-content-1.png)
 
    >[!NOTE]
    >
@@ -149,11 +149,9 @@ ht-degree: 1%
 
 1. 콘텐츠 섹션에서 원하는 항목 위로 끌어서 하나 이상의 구조 구성 요소에 놓습니다.
 
-   스크린샷
+   ![](assets/authoring-add-structure-and-content-2.png)
 
 1. 설정 또는 스타일 탭을 통해 각 구성 요소를 사용자 지정할 수 있습니다. 글꼴, 텍스트 스타일, 여백 등을 변경합니다.
-
-스크린샷
 
 ### Assets 추가 {#add-assets}
 
@@ -261,11 +259,13 @@ ARE THEY CALLED LAYERS OR COMPONENTS
 
 1. 링크 아이콘을 클릭하면 이메일의 모든 URL이 표시됩니다.
 
-   스크린샷
+   ![](assets/authoring-edit-url-tracking-1.png)
 
 1. 원하는 링크에 대한 추적을 편집하려면 연필 아이콘을 클릭합니다.
 
-   스크린샷
+1. **추적 유형** 드롭다운을 클릭하고 선택하십시오.
+
+   ![](assets/authoring-edit-url-tracking-2.png)
 
    ```
    LABEL?
@@ -327,7 +327,7 @@ ARE THEY CALLED LAYERS OR COMPONENTS
 
 전자 메일 콘텐츠를 미리 보려면 **콘텐츠 시뮬레이션**&#x200B;을 클릭한 다음 테스트 프로필을 추가하여 테스트 프로필 데이터를 사용하여 메시지를 확인하세요.
 
-스크린샷
+![](assets/test-your-email-1.png)
 
 ## 이메일 참조 {#reference-an-email}
 
