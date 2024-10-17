@@ -4,9 +4,9 @@ description: Marketo Engage - Marketo Engage 문서 - 제품 설명서에 대한
 title: Marketo Engage을 위한 프로토콜 구성
 exl-id: cf2fd4ac-9229-4e52-bb68-5732b44920ef
 feature: Getting Started
-source-git-commit: 0330fd1b7bcc6d5fc21e5e591b65e8d6d5d3efee
+source-git-commit: 06c19a48e84b192cd52ea5d0ce6104ac52a85e8e
 workflow-type: tm+mt
-source-wordcount: '2149'
+source-wordcount: '2147'
 ht-degree: 0%
 
 ---
@@ -64,8 +64,6 @@ For example:
 
 다음 IP 주소를 기업 허용 목록에 추가합니다.
 
-94.236.119.0/26
-
 103.237.104.0/22
 
 130.248.172.0/24
@@ -112,16 +110,16 @@ For example:
 
 ## 4단계: DMARC 설정 {#set-up-dmarc}
 
-DMARC(도메인 기반 메시지 인증, 보고 및 적합성)는 조직이 도메인을 무단 사용으로부터 보호하는 데 사용되는 인증 프로토콜입니다. DMARC는 SPF 및 DKIM과 같은 기존 인증 프로토콜을 확장하여 도메인에서 인증 실패가 발생할 경우 수신자 서버가 수행해야 할 작업을 알려줍니다. DMARC는 현재 선택 사항이지만 조직의 브랜드와 평판을 더 잘 보호할 수 있으므로 적극 권장합니다. Google 및 Yahoo와 같은 주요 공급업체는 2024년 2월부터 대량 발신자에 대해 DMARC를 사용할 것을 요구합니다.
+DMARC(도메인 기반 메시지 인증, 보고 및 적합성)은 조직이 도메인을 무단 사용으로부터 보호하는 데 사용되는 인증 프로토콜입니다. DMARC은 SPF 및 DKIM과 같은 기존 인증 프로토콜을 확장하여 도메인에서 인증 실패가 발생할 경우 수신자 서버가 수행해야 하는 작업을 알려줍니다. DMARC은 현재 선택 사항이지만 조직의 브랜드와 평판을 더 잘 보호할 수 있으므로 적극 권장합니다. Google 및 Yahoo와 같은 주요 공급업체는 2024년 2월부터 대량 발신자를 위해 DMARC을 사용해야 합니다.
 
-DMARC가 작동하려면 다음 DNS TXT 레코드 중 하나 이상이 있어야 합니다.
+DMARC이 작동하려면 다음 DNS TXT 레코드 중 하나 이상이 있어야 합니다.
 
 * 유효한 SPF
 * FROM: 도메인에 대한 유효한 DKIM 레코드(Marketo Engage 권장)
 
-또한 FROM: 도메인에 대한 DMARC 관련 DNS TXT 레코드가 있어야 합니다. 선택적으로, 보고서를 모니터링할 수 있도록 DMARC 보고서가 조직 내에서 어디로 이동해야 하는지를 나타내기 위해 선택한 이메일 주소를 정의할 수 있습니다.
+또한 FROM: 도메인에 대한 DMARC 특정 DNS TXT 레코드가 있어야 합니다. 선택적으로, 보고서를 모니터링할 수 있도록 선택한 이메일 주소를 조직 내에서 DMARC 보고서가 어디로 이동해야 하는지 표시하도록 정의할 수 있습니다.
 
-DMARC의 잠재적 영향을 이해하면 DMARC 정책을 p=none에서 p=quarantine, p=reject로 상향조정하여 DMARC 구현을 천천히 롤아웃하는 것이 좋습니다. 또한 DMARC 정책을 SPF 및 DKIM에 맞춰 느슨하게 조정하는 것이 좋습니다.
+DMARC의 잠재적 영향을 이해하면 DMARC 정책을 p=none에서 p=quarantine, p=reject로 승격하고 SPF 및 DKIM에 대한 정렬을 완화하도록 DMARC 정책을 설정하여 DMARC 구현을 천천히 롤아웃하는 것이 좋습니다.
 
 ### DMARC 예제 워크플로우 {#dmarc-example-workflow}
 
@@ -147,7 +145,7 @@ DMARC의 잠재적 영향을 이해하면 DMARC 정책을 p=none에서 p=quarant
 
 ### DMARC 보고 {#dmarc-reporting}
 
-DMARC는 SPF/DKIM에 실패한 이메일에 대한 보고서를 받는 기능을 제공합니다. 발신자가 DMARC 정책에서 RUA/RUF 태그를 통해 받을 수 있는 인증 프로세스의 일부로 ISP 서비스에 의해 생성된 두 개의 다른 보고서가 있습니다.
+DMARC은 SPF/DKIM에 실패한 이메일에 대한 보고서를 받는 기능을 제공합니다. ISP 서비스에 의해 생성된 두 개의 다른 보고서가 있습니다. 이 보고서는 보낸 사람이 DMARC 정책에서 RUA/RUF 태그를 통해 받을 수 있는 인증 프로세스의 일부입니다.
 
 * 집계 보고서(RUA): GDPR(일반 데이터 보호 규정)에 영향을 줄 수 있는 PII(개인 식별 정보)를 포함하지 않습니다.
 
@@ -178,21 +176,21 @@ DMARC 레코드에는 DMARC 태그라는 여러 구성 요소가 있습니다. �
 <tbody>
   <tr>
     <td>v</td>
-    <td>필수</td>
+    <td>필수 여부</td>
     <td>이 DMARC 태그는 버전을 지정합니다. 현재 버전은 하나만 있으므로 v=DMARC1이라는 고정 값이 있습니다.</td>
     <td>V=DMARC1 DMARC1</td>
-    <td>DMARC1</td>
+    <td>DMARC</td>
   </tr>
   <tr>
     <td>p</td>
-    <td>필수</td>
+    <td>필수 여부</td>
     <td>선택한 DMARC 정책을 표시하고 수신자에게 인증 검사에 실패한 메일을 보고, 격리 또는 거부하도록 안내합니다.</td>
     <td>p=none, 격리 또는 거부</td>
     <td>-</td>
   </tr>
   <tr>
     <td>fo</td>
-    <td>선택 사항</td>
+    <td>선택 사항입니다</td>
     <td>도메인 소유자가 보고 옵션을 지정할 수 있도록 허용합니다.</td>
     <td>0: 모든 것이 실패하면 보고서 생성 
     <br>1: 실패한 경우 보고서 생성 
@@ -202,10 +200,10 @@ DMARC 레코드에는 DMARC 태그라는 여러 구성 요소가 있습니다. �
   </tr>
   <tr>
     <td>pct</td>
-    <td>선택 사항</td>
+    <td>선택 사항입니다</td>
     <td>필터링 대상 메시지의 비율을 알려줍니다.</td>
     <td>pct=20</td>
-    <td>100</td>
+    <td>10</td>
   </tr>
   <tr>
     <td>rua</td>
@@ -223,21 +221,21 @@ DMARC 레코드에는 DMARC 태그라는 여러 구성 요소가 있습니다. �
   </tr>
   <tr>
     <td>sp</td>
-    <td>선택 사항</td>
+    <td>선택 사항입니다</td>
     <td>상위 도메인의 하위 도메인에 대한 DMARC 정책을 지정합니다.</td>
     <td>sp=reject</td>
     <td>-</td>
   </tr>
   <tr>
     <td>광고</td>
-    <td>선택 사항</td>
+    <td>선택 사항입니다</td>
     <td>는 엄격함(s) 또는 느슨함 ® 수 있습니다. 느슨한 정렬은 DKIM 서명에 사용된 도메인이 "보낸 사람" 주소의 하위 도메인일 수 있음을 의미합니다. 엄격한 정렬은 DKIM 서명에 사용된 도메인이 보낸 사람 주소에 사용된 도메인과 정확히 일치해야 함을 의미합니다.</td>
     <td>adkim=r </td>
     <td>r</td>
   </tr>
   <tr>
     <td>aspf</td>
-    <td>선택 사항</td>
+    <td>선택 사항입니다</td>
     <td>는 엄격함(s) 또는 느슨함 ® 수 있습니다. 느슨한 정렬은 ReturnPath 도메인이 보낸 사람 주소의 하위 도메인일 수 있음을 의미합니다. 엄격한 정렬은 Return-Path 도메인이 From 주소와 정확히 일치해야 함을 의미합니다.</td>
     <td>aspf=r</td>
     <td>r</td>
@@ -249,16 +247,16 @@ DMARC 및 모든 옵션에 대한 자세한 내용은 [https://dmarc.org/](https
 
 ### DMARC 및 Marketo Engage {#dmarc-and-marketo-engage}
 
-DMARC에는 DKIM 정렬과 SPF 정렬의 두 가지 정렬 유형이 있습니다.
+DMARC 정렬에는 DKIM 정렬과 SPF 정렬의 두 가지 유형이 있습니다.
 
 >[!NOTE]
 >
 >Marketo Engage을 위해 DKIM과 SPF에서 DMARC 정렬을 수행하는 것이 좋습니다.
 
-* DKIM 정렬 DMARC - DKIM 정렬 DMARC를 설정하려면 다음을 수행해야 합니다.
+* DKIM 정렬 DMARC - DKIM 정렬 DMARC을 설정하려면 다음을 수행해야 합니다.
 
    * 메시지의 보낸 사람: 도메인에 대한 DKIM을 설정합니다. 이 문서](/help/marketo/product-docs/email-marketing/deliverability/set-up-a-custom-dkim-signature.md){target="_blank"}의 지침 [을(를) 사용합니다.
-   * 이전에 구성한 FROM:/DKIM 도메인에 대한 DMARC 구성
+   * 이전에 구성된 FROM:/DKIM 도메인에 대해 DMARC 구성
 
 * DMARC 정렬 SPF - 브랜드 반환 경로를 통해 DMARC 정렬 SPF를 설정하려면 다음을 수행해야 합니다.
 
@@ -266,7 +264,7 @@ DMARC에는 DKIM 정렬과 SPF 정렬의 두 가지 정렬 유형이 있습니�
       * 적절한 SPF 레코드 구성
       * 메일을 보낼 데이터 센터의 기본 MX를 가리키도록 MX 레코드를 변경합니다.
 
-   * 브랜드 재방문 경로 도메인에 대한 DMARC 구성
+   * 브랜드 반환 경로 도메인에 대한 DMARC 구성
 
 * 전용 IP를 통해 Marketo Engage에서 메일을 보내고 브랜드 반환 경로를 아직 구현하지 않았거나 아직 구현했는지 확실하지 않은 경우 [Adobe 지원](https://nation.marketo.com/t5/support/ct-p/Support){target="_blank"}을 사용하여 티켓을 여십시오.
 
@@ -292,7 +290,7 @@ MX 레코드를 사용하면 회신 및 자동 응답자를 처리하기 위해 
 
 **CRM 동기화**
 
-Marketo Engage [Salesforce CRM 동기화](/help/marketo/product-docs/crm-sync/salesforce-sync/sfdc-sync-details/add-an-existing-salesforce-field-to-the-marketo-sync.md){target="_blank"} 및 [Microsoft Dynamics 동기화](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/understanding-the-microsoft-dynamics-sync.md){target="_blank"}은(는) CRM 공급업체에서 게시한 API에 대한 아웃바운드 HTTP 요청을 수행하는 통합 메커니즘입니다. IT 조직이 아래 IP 주소 블록이 CRM 공급업체 API에 액세스하는 것을 차단하지 않도록 해야 합니다.
+Marketo Engage [Salesforce CRM 동기화](/help/marketo/product-docs/crm-sync/salesforce-sync/sfdc-sync-details/add-an-existing-salesforce-field-to-the-marketo-sync.md){target="_blank"} 및 [Microsoft Dynamics 동기화](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/understanding-the-microsoft-dynamics-sync.md){target="_blank"}는 CRM 공급업체에서 게시한 API에 대한 아웃바운드 HTTP 요청을 만드는 통합 메커니즘입니다. IT 조직이 아래 IP 주소 블록이 CRM 공급업체 API에 액세스하는 것을 차단하지 않도록 해야 합니다.
 
 **Marketo Engage 아웃바운드 IP 주소 블록**
 
