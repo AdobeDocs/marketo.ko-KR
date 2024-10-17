@@ -3,9 +3,9 @@ description: 대화형 웨비나 수정 또는 삭제 - Marketo 문서 - 제품 
 title: 대화형 웨비나 수정 또는 삭제
 exl-id: 01dd801f-809b-481f-b926-2ed48bfbd5b7
 feature: Interactive Webinars
-source-git-commit: 19f60f58ae4de26536b304eb8ae9677ecc221993
+source-git-commit: d2f8a90cf780fc5db6a4f148a53968a53df835a4
 workflow-type: tm+mt
-source-wordcount: '287'
+source-wordcount: '314'
 ht-degree: 0%
 
 ---
@@ -81,6 +81,10 @@ ht-degree: 0%
    ![](assets/modify-or-delete-an-interactive-webinar-12.png)
 
 ## 대화형 웨비나 삭제 {#delete-an-interactive-webinar}
+
+>[!NOTE]
+>
+>테스트 웨비나를 만드는 경우 시작 시간 전에 삭제하여 해당 웨비나에 대한 라이센스가 사용되지 않도록 해야 합니다.
 
 1. 원하는 이벤트 프로그램을 선택합니다.
 

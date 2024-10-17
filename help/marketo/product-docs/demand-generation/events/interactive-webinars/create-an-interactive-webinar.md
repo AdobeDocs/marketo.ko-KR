@@ -3,9 +3,9 @@ description: 대화형 웨비나 만들기 - Marketo 문서 - 제품 설명서
 title: 대화형 웨비나 만들기
 exl-id: 91fdede6-2e5a-4895-9893-852d0441aa2a
 feature: Interactive Webinars
-source-git-commit: 86314f93535df1fe0568ba1f609ecf35799383fb
+source-git-commit: d2f8a90cf780fc5db6a4f148a53968a53df835a4
 workflow-type: tm+mt
-source-wordcount: '269'
+source-wordcount: '296'
 ht-degree: 0%
 
 ---
@@ -53,6 +53,8 @@ ht-degree: 0%
    >* 웨비나 제목은 재사용할 수 없습니다. 각 인스턴스는 Marketo 인스턴스에서 고유해야 합니다.
    >
    >* 원하는 경우 이후 단계에서 웨비나 제목을 변경할 수 있습니다.
+   >
+   >* 테스트 웨비나를 만드는 경우 시작 시간 전에 삭제하여 해당 웨비나에 대한 라이센스가 사용되지 않도록 해야 합니다.
 
 1. 웨비나의 날짜/시간을 예약하고 **만들기**&#x200B;를 클릭합니다.
 
