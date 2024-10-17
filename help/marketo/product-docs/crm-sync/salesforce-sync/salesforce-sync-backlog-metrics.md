@@ -2,9 +2,9 @@
 description: Salesforce 동기화 백로그 지표 - Marketo 문서 - 제품 설명서
 title: Salesforce 동기화 백로그 지표
 feature: Reporting
-source-git-commit: 7c07755a3e97370fe68d92312cdfa7b449130a11
+source-git-commit: cfd7e3f70246a0a36793f747f0f2f40bcb9619c5
 workflow-type: tm+mt
-source-wordcount: '1047'
+source-wordcount: '1048'
 ht-degree: 0%
 
 ---
@@ -89,7 +89,7 @@ Marketo Engage 측이든 CRM 측이든, 업데이트가 이루어지면 CRM 동�
 
 ## 동기화 백로그 관리 우수 사례 {#best-practices}
 
-**동기화 사용자에게 표시되는 필드**: 동기화에 표시되는 필드가 동기화되어야 하고 마케팅 노력에 가치가 있는지 확인하십시오. 마지막으로 수정된 타임스탬프를 업데이트하는 Salesforce의 레코드를 업데이트하면 동기화 백로그에 레코드가 대기열에 추가되며, 동기화하지 않는 필드의 경우 동기화 중인 더 중요한 필드가 느려질 수 있습니다. 불필요한 필드가 동기화 사용자에게 표시되지 않는 경우 해당 필드를 업데이트하면 업데이트보다 훨씬 빠른 건너뛰기가 발생합니다. Salesforce 관리자와 함께 여기에서 모범 사례를 검토하고 Marketo 동기화 사용자에게 표시되는 필드를 업데이트합니다.
+**동기화 사용자에게 표시되는 필드**: 동기화에 표시되는 필드가 동기화되어야 하고 마케팅 노력에 가치가 있는지 확인하십시오. 마지막으로 수정된 타임스탬프를 업데이트하는 Salesforce의 레코드를 업데이트하면 동기화 백로그에 레코드가 대기열에 추가되며, 동기화하지 않는 필드의 경우 동기화 중인 더 중요한 필드가 느려질 수 있습니다. 불필요한 필드가 동기화 사용자에게 표시되지 않는 경우 해당 필드를 업데이트하면 업데이트보다 훨씬 빠른 건너뛰기가 발생합니다. Salesforce 관리자와 협력하여 모범 사례 [여기](https://nation.marketo.com/t5/marketo-whisperer-blogs/best-practices-for-determining-which-fields-to-sync-with-marketo/ba-p/247449){target="_blank"}를 검토하고 Marketo 동기화 사용자에게 표시되는 필드를 업데이트합니다.
 
 **불필요한 레코드를 숨기거나 필터링합니다**: 레코드를 마케팅 가능하지 않은 경우 동기화 리소스를 낭비할 수 있습니다. 동기화 사용자가 이를 볼 수 없다면 동기화하려는 리소스를 낭비하지 않습니다. [Marketo Engage 지원](https://nation.marketo.com/t5/support/ct-p/Support#_blank){target="_blank"}에서는 추가 조건을 기준으로 레코드가 동기화되지 않도록 동기화 필터 설정을 지원할 수 있습니다. 사용자 지정 동기화 필터 [을(를) 설정하는 방법에 대한 자세한 내용은 여기를 참조하십시오](https://nation.marketo.com/t5/product-blogs/instructions-for-creating-a-custom-sync-rule/ba-p/242758){target="_blank"}. Salesforce 내의 인덱스 필드를 사용하는 것이 좋습니다(자세한 내용은 Salesforce에 문의).
 
