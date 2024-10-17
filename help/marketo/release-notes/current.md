@@ -3,9 +3,9 @@ description: 최신 릴리스 정보 - Marketo 설명서 - 제품 설명서
 title: 최신 릴리스 정보
 exl-id: a2eccad5-73ad-48f9-8091-51cee23824e1
 feature: Release Information
-source-git-commit: ef1cb0b67deb935b67a56076ed9ed0a14f449662
+source-git-commit: 9d6cdd3063d22e0b9f132eaa828695f1d2fdc634
 workflow-type: tm+mt
-source-wordcount: '487'
+source-wordcount: '515'
 ht-degree: 2%
 
 ---
@@ -83,6 +83,17 @@ Adobe Dynamic Chat [에 대한 릴리스 정보는 여기에서 찾을 수 있�
    </td> 
    <td>배송됨</td>
    <td><a href="/help/marketo/product-docs/email-marketing/email-programs/email-program-data/email-performance-report.md" target="_blank">전자 메일 성능 보고서</a></td>
+  </tr>
+  <tr> 
+   <td> </td> 
+   <td> </td>
+   <td> </td>
+  </tr>
+   <tr> 
+   <td><strong>Salesforce 동기화 백로그 지표</strong>: 최적의 동기화 환경을 위해 CRM 업데이트를 계획 및 예약하기 위해 동기화 처리량 및 백로그 트렌드를 모니터링합니다.
+   </td> 
+   <td>배송됨</td>
+   <td><a href="/help/marketo/product-docs/crm-sync/salesforce-sync/salesforce-sync-backlog-metrics.md" target="_blank">Salesforce 동기화 백로그 지표</a></td>
   </tr>
  </tbody> 
 </table>
