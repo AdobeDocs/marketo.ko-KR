@@ -4,7 +4,7 @@ title: 이메일 작성
 hide: true
 hidefromtoc: true
 feature: Email Editor
-source-git-commit: af8afc9342a4ca0b4032c4d7c761703adb5a6701
+source-git-commit: 7c07755a3e97370fe68d92312cdfa7b449130a11
 workflow-type: tm+mt
 source-wordcount: '1477'
 ht-degree: 1%
@@ -97,9 +97,9 @@ ht-degree: 1%
 
 선택할 수 있는 템플릿에는 두 가지 유형이 있습니다.
 
-* 샘플 템플릿: Marketo Engage은 4개의 기본 이메일 템플릿을 제공합니다.
+* **샘플 템플릿**: Marketo Engage은 4개의 기본 전자 메일 템플릿을 제공합니다.
 
-* 저장된 템플릿: 템플릿 메뉴를 사용하여 처음부터 새로 만든 템플릿 또는 템플릿으로 저장하기 위해 만들고 선택한 이메일입니다.
+* **저장된 서식 파일**: 서식 파일 메뉴를 사용하여 처음부터 만든 서식 파일 또는 서식 파일로 저장하기 위해 만든 전자 메일입니다.
 
 >[!BEGINTABS]
 
