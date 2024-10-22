@@ -4,9 +4,9 @@ description: 사용자 지정 엔터티에 대해 동기화 활성화 - Marketo 
 title: 사용자 지정 엔터티에 대해 동기화 활성화
 exl-id: 4b075bf3-f10b-4725-8c8e-a6ecee63d756
 feature: Microsoft Dynamics
-source-git-commit: d522950af40c5e3e702a6522101ebe9550432be5
+source-git-commit: 79ae0d56dd4bb8bf563c6546cba54b89b5841425
 workflow-type: tm+mt
-source-wordcount: '222'
+source-wordcount: '304'
 ht-degree: 0%
 
 ---
@@ -67,3 +67,9 @@ Marketo Engage에서 사용할 수 있도록 Dynamics의 사용자 지정 엔티
 1. 전역 동기화를 다시 활성화하는 것을 잊지 마십시오!
 
    ![](assets/enable-sync-for-a-custom-entity-8.png)
+
+   >[!NOTE]
+   >
+   >* Marketo은 1~2단계 수준의 표준 엔티티에 연결된 사용자 지정 엔티티만 지원합니다.
+   >
+   >* 사용자 지정 개체 트리는 주 개체 중 하나와의 직접 연결(예: 리드, 연락처 또는 계정 또는 중간 개체를 통한 간접 연결) 때문에 동일한 개체를 두 번 이상 표시할 수 있습니다. 이러한 경우 주 오브젝트와 가장 가까운 오브젝트를 선택하고 하나만 선택합니다. 동일한 개체를 여러 번 선택하면 해당 사용자 지정 개체의 동기화가 방해될 수 있습니다.

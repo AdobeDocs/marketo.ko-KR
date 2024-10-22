@@ -3,7 +3,7 @@ description: Marketo Engage 지원 마이그레이션 - Marketo 문서 - 제품 
 title: Marketo Engage 지원 마이그레이션
 feature: Marketo with Adobe Identity
 exl-id: 07e4377a-73d7-4293-938c-ae87c769c128
-source-git-commit: aa77a0124f261eea2999029806adb1d1aaf3e0da
+source-git-commit: 79ae0d56dd4bb8bf563c6546cba54b89b5841425
 workflow-type: tm+mt
 source-wordcount: '468'
 ht-degree: 1%
@@ -48,4 +48,4 @@ Adobe Marketo Engage 지원 프로세스에 대한 향후 변경 사항에 대�
 
 ## 질문이 있습니까? {#still-have-questions}
 
-구독 및/또는 지원 마이그레이션에 대한 질문이 있는 경우 `marketocares@adobe.com`(으)로 문의하세요.
+구독 및/또는 지원 마이그레이션에 대한 질문이 있는 경우 `customercare@marketo.com`(으)로 문의하세요.
