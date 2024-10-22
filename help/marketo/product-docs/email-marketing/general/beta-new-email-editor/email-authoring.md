@@ -4,7 +4,7 @@ title: 이메일 작성
 hide: true
 hidefromtoc: true
 feature: Email Editor
-source-git-commit: 7c07755a3e97370fe68d92312cdfa7b449130a11
+source-git-commit: 1f899044d0eb872d4b91fa341cb8b28e1556a045
 workflow-type: tm+mt
 source-wordcount: '1477'
 ht-degree: 1%
@@ -160,7 +160,7 @@ ADD ASSETS OR ADD IMAGES? WHAT OTHER ASSETS CAN YOU ADD?
 ```
 
 ```
-Access assets stored in the Assets library. IMAGES AND FILES ONLY?
+Access assets stored in the Assets library. IMAGES AND FILES ONLY? - For now, only from Marketo Images and Files section!!!
 ```
 
 1. 이미지에 액세스하려면 에셋 선택기 아이콘을 클릭합니다.
@@ -191,7 +191,7 @@ Access assets stored in the Assets library. IMAGES AND FILES ONLY?
 ### 레이어, 설정 및 스타일 {#layers-settings-styles}
 
 ```
-ARE THEY CALLED LAYERS OR COMPONENTS
+ARE THEY CALLED LAYERS OR COMPONENTS - NILESH WILL CHECK
 ```
 
 탐색 트리를 열어 특정 구조 및 해당 열/구성 요소에 액세스하여 보다 세분화된 편집을 수행할 수 있습니다. 액세스하려면 탐색 트리 아이콘을 클릭합니다.
@@ -268,9 +268,9 @@ ARE THEY CALLED LAYERS OR COMPONENTS
    ![](assets/authoring-edit-url-tracking-2.png)
 
    ```
-   LABEL?
+   LABEL? - just what URL shows as (ex: my site)
    
-   TAGS?
+   TAGS? - NILESH WILL CHECK ON HOW THEY WORK
    ```
 
    <table><tbody>

@@ -4,7 +4,7 @@ title: 이메일 템플릿
 hide: true
 hidefromtoc: true
 feature: Email Editor
-source-git-commit: 7c07755a3e97370fe68d92312cdfa7b449130a11
+source-git-commit: 1f899044d0eb872d4b91fa341cb8b28e1556a045
 workflow-type: tm+mt
 source-wordcount: '1728'
 ht-degree: 1%
@@ -156,7 +156,7 @@ ADD ASSETS OR ADD IMAGES? WHAT OTHER ASSETS CAN YOU ADD??
 ```
 
 ```
-Access assets stored in the Assets library. IMAGES AND FILES ONLY?
+Access assets stored in the Assets library. IMAGES AND FILES ONLY? - SEE EMAIL AUTHORING FOR ANSWERS - KG
 ```
 
 1. 이미지에 액세스하려면 에셋 선택기 아이콘을 클릭합니다.
@@ -187,7 +187,7 @@ Access assets stored in the Assets library. IMAGES AND FILES ONLY?
 ### 레이어, 설정 및 스타일 {#layers-settings-styles}
 
 ```
-ARE THEY CALLED LAYERS OR COMPONENTS
+ARE THEY CALLED LAYERS OR COMPONENTS - NILESH IS CHECKING
 ```
 
 탐색 트리를 열어 특정 구조 및 해당 열/구성 요소에 액세스하여 보다 세분화된 편집을 수행할 수 있습니다. 액세스하려면 탐색 트리 아이콘을 클릭합니다.
@@ -266,7 +266,7 @@ ARE THEY CALLED LAYERS OR COMPONENTS
    ```
    LABEL?
    
-   TAGS?
+   TAGS? - NILESH IS LOOKING INTO IT
    ```
 
    <table><tbody>
@@ -342,7 +342,7 @@ _전자 메일 서식 파일_ 목록 페이지에서 전자 메일 서식 파일
 * _전자 메일 서식 파일_ 목록 페이지 - 원하는 전자 메일 서식 파일의 추가 작업 아이콘(세 점)을 클릭하고 편집을 선택합니다.
 
 ```
-THE SECOND ONE DOESN'T WORK IN MARKETO?? JUST LISTS DUPE AND DELETE
+THE SECOND ONE DOESN'T WORK IN MARKETO?? JUST LISTS DUPE AND DELETE - CONFIRMED WITH NILESH - KG
 ```
 
 이 작업을 수행하면 전자 메일 템플릿의 마지막으로 저장된 상태를 기반으로 _템플릿 디자인_ 페이지 또는 시각적 콘텐츠 편집기 페이지로 이동합니다. 여기에서 필요에 따라 이메일 템플릿 콘텐츠를 편집할 수 있습니다. 편집 옵션에 대한 자세한 내용은 이메일 템플릿 만들기 를 참조하십시오.
