@@ -4,20 +4,20 @@ description: 사용자 지정 엔터티에 대해 동기화 활성화 - Marketo 
 title: 사용자 지정 엔터티에 대해 동기화 활성화
 exl-id: 4b075bf3-f10b-4725-8c8e-a6ecee63d756
 feature: Microsoft Dynamics
-source-git-commit: 79ae0d56dd4bb8bf563c6546cba54b89b5841425
+source-git-commit: 2a5ee44a7126d789b0fc819a26a2cf19084b34ee
 workflow-type: tm+mt
-source-wordcount: '304'
+source-wordcount: '324'
 ht-degree: 0%
 
 ---
 
 # 사용자 지정 엔터티에 대해 동기화 활성화 {#enable-sync-for-a-custom-entity}
 
-Marketo Engage에서 사용할 수 있도록 Dynamics의 사용자 지정 엔티티 데이터가 필요한 경우 여기에 해당 동기화를 활성화하는 방법이 있습니다.
+Marketo Engage에서 사용할 수 있도록 Dynamics의 사용자 지정 엔티티 데이터가 필요한 경우 여기에 해당 동기화를 활성화하는 방법이 있습니다. **관리자 권한이 필요합니다**.
 
->[!NOTE]
+>[!PREREQUISITES]
 >
->**관리자 권한 필요**
+>사용자 지정 개체를 사용하려면 Microsoft Dynamics의 [리드](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/microsoft-dynamics-sync-details/microsoft-dynamics-sync-lead-sync.md){target="_blank"}, [연락처](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/microsoft-dynamics-sync-details/microsoft-dynamics-sync-contact-sync.md){target="_blank"} 또는 [계정](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/microsoft-dynamics-sync-details/microsoft-dynamics-sync-account-sync.md){target="_blank"} 개체와 연결되어 있어야 합니다.
 
 >[!NOTE]
 >
@@ -52,7 +52,7 @@ Marketo Engage에서 사용할 수 있도록 Dynamics의 사용자 지정 엔티
 
    ![](assets/enable-sync-for-a-custom-entity-5.png)
 
-1. 스마트 목록에서 동기화하거나 [제약 조건](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/using-smart-lists/add-a-constraint-to-a-smart-list-filter.md) 및/또는 트리거(추가된 레코드의 경우 _업데이트되지 않음_)로 사용할 필드를 선택하십시오. 완료되면 **[!UICONTROL 동기화 사용]**&#x200B;을 클릭하세요.
+1. 스마트 목록에서 동기화하거나 [제약 조건](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/using-smart-lists/add-a-constraint-to-a-smart-list-filter.md){target="_blank"} 및/또는 트리거(추가된 레코드의 경우 _업데이트되지 않음_)로 사용할 필드를 선택하십시오. 완료되면 **[!UICONTROL 동기화 사용]**&#x200B;을 클릭하세요.
 
    ![](assets/enable-sync-for-a-custom-entity-6.png)
 
