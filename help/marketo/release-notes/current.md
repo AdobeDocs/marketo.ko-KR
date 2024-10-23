@@ -3,9 +3,9 @@ description: 최신 릴리스 정보 - Marketo 설명서 - 제품 설명서
 title: 최신 릴리스 정보
 exl-id: a2eccad5-73ad-48f9-8091-51cee23824e1
 feature: Release Information
-source-git-commit: 9d6cdd3063d22e0b9f132eaa828695f1d2fdc634
+source-git-commit: a65ff2cb24b264cd2d3a1c9c7e0109bcf69ac996
 workflow-type: tm+mt
-source-wordcount: '515'
+source-wordcount: '559'
 ht-degree: 2%
 
 ---
@@ -100,6 +100,9 @@ Adobe Dynamic Chat [에 대한 릴리스 정보는 여기에서 찾을 수 있�
 <br/>
 
 ## 공지 {#announcements}
+
+* **Rest API access_token 매개 변수 사용 중단**: Marketo REST API 호출을 인증하는 데 사용되는 &#39;access_token&#39; 쿼리 매개 변수는 더 이상 사용되지 않으며 2025년 6월 30일 이후에 사용할 수 없습니다. 모든 신규 및 기존 통합은 여기에 설명된 대로 [인증 헤더를 사용하여 REST API 호출을 인증해야 합니다](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/rest/authentication#using-an-access-token).
+
 
 * **QR 코드 사용 중단**: 2024년 10월 4일에 푸시 알림 및 인앱 메시지 에셋에 사용되는 QR 코드 기능이 더 이상 사용되지 않습니다. 여기에는 새 테스트 장치에 QR 코드를 사용하는 것은 물론 QR 코드로 새 에셋을 만드는 것이 포함됩니다. 사용량이 적은 기능의 사용을 중단하면 리소스를 Marketo Engage의 전반적인 유지 관리에 다시 할당할 수 있습니다.
 
