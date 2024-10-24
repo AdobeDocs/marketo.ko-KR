@@ -3,9 +3,9 @@ description: 흐름 단계 서비스 - Marketo 문서 - 제품 설명서
 title: 흐름 단계 서비스
 exl-id: 81367562-8b27-4ec5-8a9b-b02083a2e999
 feature: Smart Campaigns
-source-git-commit: 2eeb7ea7fd43ba75a3c802a91ce07c90dc8abd91
+source-git-commit: 91dde9461b1bfa38aece5491f3f8b311dd6a91fd
 workflow-type: tm+mt
-source-wordcount: '1210'
+source-wordcount: '1234'
 ht-degree: 0%
 
 ---
@@ -31,6 +31,10 @@ ht-degree: 0%
 설치 중인 서비스에 액세스하려면 Marketo에 유효한 API 자격 증명이 있어야 합니다. 이러한 자격 증명은 서비스 공급자가 제공해야 합니다. 서비스에는 세 가지 다른 인증 옵션이 있으므로 자격 증명에 대한 세 가지 프롬프트 중 하나가 표시될 수 있습니다. **API 키**(입력 필드가 하나뿐임), **기본 인증**(사용자 이름 및 암호가 필요하며 영역 필드가 필요할 수 있음), _클라이언트 자격 증명_ 권한(_클라이언트 ID_ 및 _클라이언트 암호_)을 사용하는 **OAuth2**.
 
 자격 증명을 저장할 때 Marketo은 서비스의 상태 끝점을 호출하여 해당 상태가 유효한지 확인합니다. 제공된 자격 증명이 유효하지 않은 경우 이를 나타내는 오류가 표시됩니다.
+
+>[!CAUTION]
+>
+>서비스 공급자가 만들어지고 삭제되면 앞으로 서비스 공급자, API, 트리거 또는 필터 이름을 다시 사용할 수 없습니다.
 
 ## 온보딩 안내서 (선택 사항) {#onboarding-guide}
 
