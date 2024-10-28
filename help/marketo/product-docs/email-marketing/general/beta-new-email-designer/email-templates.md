@@ -4,9 +4,9 @@ title: 이메일 템플릿
 hide: true
 hidefromtoc: true
 feature: Email Editor
-source-git-commit: 91dde9461b1bfa38aece5491f3f8b311dd6a91fd
+source-git-commit: bdc3d0531cb8c0b25fef49b6d82d0877445d768d
 workflow-type: tm+mt
-source-wordcount: '1755'
+source-wordcount: '1683'
 ht-degree: 1%
 
 ---
@@ -81,8 +81,6 @@ _템플릿 디자인_ 페이지에서 몇 가지 옵션 중에서 선택할 수 
 
 1. 이메일 Designer 콘텐츠 구성 요소를 활용하려면 **HTML 변환기** 탭을 클릭하고 **변환**&#x200B;을 클릭합니다.
 
-   스크린샷
-
    >[!CAUTION]
    >
    >`<table>` 태그를 HTML 파일의 첫 번째 레이어로 사용하면 맨 위 레이어 태그의 배경 및 너비 설정을 포함하여 스타일이 손실될 수 있습니다.
@@ -151,38 +149,23 @@ _템플릿 디자인_ 페이지에서 몇 가지 옵션 중에서 선택할 수 
 
 ### Assets 추가 {#add-assets}
 
-```
-ADD ASSETS OR ADD IMAGES? WHAT OTHER ASSETS CAN YOU ADD??
-```
+Marketo Engage 인스턴스의 [이미지 및 파일](/help/marketo/product-docs/demand-generation/images-and-files/add-images-and-files-to-marketo.md){target="_blank"} 섹션에 저장된 이미지를 추가합니다.
 
-```
-Access assets stored in the Assets library. IMAGES AND FILES ONLY? - SEE EMAIL AUTHORING FOR ANSWERS - KG
-```
+>[!NOTE]
+>
+>현재 다른 파일 형식은 추가할 수 없으며 새 디자이너에서만 이미지를 추가할 수 있습니다.
 
 1. 이미지에 액세스하려면 에셋 선택기 아이콘을 클릭합니다.
 
-   스크린샷
+   ![](assets/add-assets-1.png)
 
 1. 원하는 이미지를 구조 구성 요소로 끌어다 놓습니다.
 
-   스크린샷
+   ![](assets/add-assets-2.png)
 
    >[!NOTE]
    >
    >기존 이미지를 바꾸려면 이미지를 선택한 다음 오른쪽의 설정 탭에서 **자산 선택**&#x200B;을 클릭합니다.
-
-조건 컨텐츠 활성화 를 클릭하여 다이내믹 컨텐츠를 추가하고 조건부 규칙에 따라 타겟팅된 프로필로 컨텐츠를 조정합니다.
-
-
-
-필요한 경우 고급 메뉴에서 코드 편집기로 전환 을 클릭하여 이메일을 추가로 개인화할 수 있습니다. 이를 통해 이메일 소스 코드를 편집하여 추적 또는 사용자 지정 HTML 태그를 추가할 수 있습니다.
-
-주의
-코드 편집기로 전환한 후에는 이 전자 메일의 비주얼 디자이너로 되돌릴 수 없습니다.
-
-콘텐츠가 준비되면 콘텐츠 시뮬레이션 버튼을 클릭하여 렌더링을 확인합니다. 데스크탑 또는 모바일 보기를 선택할 수 있습니다.
-
-준비가 되면 저장 을 클릭합니다
 
 ### 레이어, 설정 및 스타일 {#layers-settings-styles}
 
@@ -295,7 +278,7 @@ Access assets stored in the Assets library. IMAGES AND FILES ONLY? - SEE EMAIL A
 
 콘텐츠 편집기의 **자세히** 옵션에서 다음 작업을 수행할 수 있습니다.
 
-스크린샷
+![](assets/more-options-1.png)
 
 * **템플릿 재설정**: 시각적 이메일 디자이너 캔버스를 빈 슬레이트로 지우고 빌드 콘텐츠를 다시 시작하려면 이 옵션을 선택하십시오.
 
@@ -307,7 +290,7 @@ Access assets stored in the Assets library. IMAGES AND FILES ONLY? - SEE EMAIL A
 
 _전자 메일 서식 파일_ 목록 페이지에서 전자 메일 서식 파일의 이름을 클릭하여 세부 정보를 확인합니다.
 
-스크린샷
+(assets/view-template-details-1.png
 
 이름 및 설명과 같은 기본 세부 정보를 편집할 수 있습니다. 변경 사항을 저장하기 위해 편집한 필드 외부를 클릭합니다.
 
@@ -323,7 +306,7 @@ _전자 메일 서식 파일_ 목록 페이지에서 전자 메일 서식 파일
 
 전자 메일 템플릿 요약에서 **사용한 사람** 탭을 클릭하여 Marketo Engage 내에서 이 전자 메일 템플릿이 사용된 위치에 대한 세부 정보를 확인합니다.
 
-스크린샷
+![](assets/email-template-used-by-references-1.png)
 
 ## 이메일 템플릿 편집 {#edit-email-templates}
 
@@ -339,7 +322,7 @@ _전자 메일 서식 파일_ 목록 페이지에서 전자 메일 서식 파일
 
 * 오른쪽의 전자 메일 템플릿 세부 정보에서 **자세히**&#x200B;를 클릭하고 **복제**&#x200B;를 선택합니다.
 
-스크린샷
+  ![](assets/duplicate-email-templates-1.png)
 
 * _전자 메일 템플릿_ 목록 페이지에서 원하는 전자 메일 템플릿의 추가 작업 아이콘(세 점)을 클릭하고 **복제**&#x200B;를 선택합니다.
 
@@ -357,7 +340,7 @@ _전자 메일 서식 파일_ 목록 페이지에서 전자 메일 서식 파일
 
 * 오른쪽의 전자 메일 템플릿 세부 정보에서 **자세히**&#x200B;를 클릭하고 **삭제**&#x200B;를 선택합니다.
 
-스크린샷
+  ![](assets/delete-email-templates-1.png)
 
 * _전자 메일 템플릿_ 목록 페이지에서 원하는 전자 메일 템플릿의 추가 작업 아이콘(세 점)을 클릭하고 **삭제**&#x200B;를 선택합니다.
 
