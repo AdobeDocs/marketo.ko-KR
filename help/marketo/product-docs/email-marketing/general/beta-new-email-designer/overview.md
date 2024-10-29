@@ -4,7 +4,7 @@ title: 개요
 hide: true
 hidefromtoc: true
 feature: Email Editor
-source-git-commit: 69539efa25b471a355b768f0d2fdabb6ae360dba
+source-git-commit: 17739fcc03bdcdee9f55cfc1f1776ac76003ea55
 workflow-type: tm+mt
 source-wordcount: '148'
 ht-degree: 1%
@@ -17,7 +17,7 @@ ht-degree: 1%
 
 >[!IMPORTANT]
 >
->이 문서는 새 Marketo Engage 이메일 Designer Beta의 멤버만을 대상으로 합니다. 제발 유포하지 마세요.
+>이 문서는 새로운 Marketo Engage 이메일 Designer 베타 회원만을 대상으로 합니다. 제발 유포하지 마세요.
 
 새로운 이메일 Designer은 개선된 이메일 및 이메일 템플릿 작성 환경을 제공하여 표준 기본 템플릿과 함께 드래그 앤 드롭 편집기를 시각적으로 제공하여 생산성과 효율성을 개선하고자 하는 Marketo Engage의 최신 혁신입니다. 공급업체에 비용을 들이지 않고도 맞춤형 이메일 템플릿을 손쉽게 제작할 수 있습니다.
 

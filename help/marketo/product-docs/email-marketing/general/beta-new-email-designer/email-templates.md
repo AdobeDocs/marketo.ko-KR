@@ -4,7 +4,7 @@ title: 이메일 템플릿
 hide: true
 hidefromtoc: true
 feature: Email Editor
-source-git-commit: 69539efa25b471a355b768f0d2fdabb6ae360dba
+source-git-commit: 17739fcc03bdcdee9f55cfc1f1776ac76003ea55
 workflow-type: tm+mt
 source-wordcount: '1683'
 ht-degree: 1%
@@ -17,7 +17,7 @@ ht-degree: 1%
 
 >[!IMPORTANT]
 >
->이 문서는 새 Marketo Engage 이메일 Designer Beta의 멤버만을 대상으로 합니다. 제발 유포하지 마세요.
+>이 문서는 새로운 Marketo Engage 이메일 Designer 베타 회원만을 대상으로 합니다. 제발 유포하지 마세요.
 
 >[!NOTE]
 >
