@@ -3,9 +3,9 @@ description: 대화형 웨비나 만들기 - Marketo 문서 - 제품 설명서
 title: 대화형 웨비나 만들기
 exl-id: 91fdede6-2e5a-4895-9893-852d0441aa2a
 feature: Interactive Webinars
-source-git-commit: d2f8a90cf780fc5db6a4f148a53968a53df835a4
+source-git-commit: de95149324a5841a21876598ae1cd06e1fbef6e6
 workflow-type: tm+mt
-source-wordcount: '296'
+source-wordcount: '298'
 ht-degree: 0%
 
 ---
@@ -22,6 +22,10 @@ ht-degree: 0%
 
    ![](assets/create-an-interactive-webinar-2.png)
 
+   >[!CAUTION]
+   >
+   >[모바일 푸시 알림](/help/marketo/product-docs/mobile-marketing/push-notifications/understanding-push-notifications.md){target="_blank"} 자산은 대화형 웨비나에서 **지원되지 않음**&#x200B;입니다.
+
 1. 프로그램 이름을 지정합니다. 프로그램 유형에서 **이벤트**&#x200B;를 선택합니다.
 
    ![](assets/create-an-interactive-webinar-3.png)
@@ -37,10 +41,6 @@ ht-degree: 0%
 1. **대화형 웨비나**&#x200B;를 선택하고 **다음**&#x200B;을 클릭하세요.
 
    ![](assets/create-an-interactive-webinar-5.png)
-
-   >[!NOTE]
-   >
-   >파트너 웨비나에 대한 정보는 여기에서 확인할 수 있습니다.
 
 1. 웨비나에 제목을 지정합니다. 최대 대상자 크기 및 지속 시간을 설정합니다.
 
