@@ -4,10 +4,10 @@ description: 리치 미디어에 대한 예측 콘텐츠 편집 - Marketo 문서
 title: 리치 미디어에 대한 예측 콘텐츠 편집
 exl-id: 6c1161dd-cefe-4b0f-8942-396d4b7db701
 feature: Predictive Content
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 8958bbd03c3c6b1c6ac4769c229ad28590191fb3
 workflow-type: tm+mt
-source-wordcount: '181'
-ht-degree: 1%
+source-wordcount: '216'
+ht-degree: 0%
 
 ---
 
@@ -30,6 +30,10 @@ ht-degree: 1%
 1. 이메일 및 리치 미디어에 대해 별도의 이미지가 있을 수 있습니다. 이미지를 추가/변경하려면 이미지 URL을 텍스트 상자에 붙여 넣습니다.
 
    ![](assets/image2017-10-3-9-3a42-3a20.png)
+
+   >[!NOTE]
+   >
+   >색상 모델 CMYK를 사용하는 JPEG 이미지는 리치 미디어에 대해 지원되지 않습니다. JPEG은 색상 프로파일을 사용하여 sRGB로 변환해야 합니다. 이미지 편집기에서 내보낼 때 이 설정을 선택해야 합니다.
 
 1. **설명**&#x200B;을 입력하세요.
 
