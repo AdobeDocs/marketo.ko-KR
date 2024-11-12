@@ -4,10 +4,11 @@ title: 캠페인 수준에서 이메일 열기 추적
 hide: true
 hidefromtoc: true
 feature: Email Setup
-source-git-commit: 342d52439a21668a3bf94e5149710b20e4ddb83f
+exl-id: 23cd6ba8-5e3f-44f1-af8d-da03f4b038f2
+source-git-commit: 6e60b39f12c75269b186573db4120e7dccb119c0
 workflow-type: tm+mt
-source-wordcount: '98'
-ht-degree: 2%
+source-wordcount: '104'
+ht-degree: 1%
 
 ---
 
@@ -42,7 +43,7 @@ ht-degree: 2%
   </tr>
   <tr>
     <td><b>비활성화됨</b></td>
-    <td>이메일 열림 추적...</td>
+    <td>이메일 열람수는 고유한 사용자 열람수만을 기준으로 계산됩니다.</td>
   </tr>
 </tbody>
 </table>
