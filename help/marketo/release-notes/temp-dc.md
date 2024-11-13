@@ -4,10 +4,10 @@ title: Dynamic Chat 릴리스 정보
 feature: Release Information, Dynamic Chat
 hide: true
 hidefromtoc: true
-source-git-commit: 342d52439a21668a3bf94e5149710b20e4ddb83f
+source-git-commit: 236c99d8939f076d93dfcd7988fc89e4c617c113
 workflow-type: tm+mt
-source-wordcount: '356'
-ht-degree: 3%
+source-wordcount: '446'
+ht-degree: 2%
 
 ---
 
@@ -33,7 +33,7 @@ ht-degree: 3%
 
 스크린샷
 
-### 대화 점수
+### 대화 점수 {#conversation-scoring}
 
 채팅 상호 작용의 품질을 기반으로 리드를 수치화하고 해당 지표를 Marketo Engage 스마트 캠페인의 트리거/필터로 사용합니다. 다음 활동에서 새 특성 _대화 점수_&#x200B;를 사용하십시오.
 
@@ -68,3 +68,21 @@ ht-degree: 3%
 따라서 쿠키 abc를 사용하는 방문자가 페이지에 도달하여 전자 메일 ID를 `abc@p.com`(으)로 제공하는 경우:
 
 표
+
+### 최적화된 대화 흐름 로드 시간 {#optimized-conversation-flow-load-time}
+
+사용자 경험을 개선하기 위해 이제 대화 흐름이 로드되는 동안 빈 공간 대신 쉬머 로더가 표시됩니다. 대화 또는 대화???
+
+**이전**
+
+GIF
+
+**이후**
+
+GIF
+
+### 글꼴 상속 옵션 {#option-to-inherit-font}
+
+사용자라면 Dynamic Chat에서 내 브랜드 글꼴을 관리하는 대신 챗봇이 로드되는 웹 페이지에서 직접 글꼴을 상속받을 수 있도록 하고 싶습니다
+
+참고: 이 옵션을 활성화하면 챗봇이 페이지의 본문 태그에 정의된 글꼴을 사용합니다
