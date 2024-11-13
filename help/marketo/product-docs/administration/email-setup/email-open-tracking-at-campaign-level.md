@@ -1,11 +1,9 @@
 ---
 description: Campaign 수준에서 이메일 열기 추적 - Marketo 문서 - 제품 설명서
 title: 캠페인 수준에서 이메일 열기 추적
-hide: true
-hidefromtoc: true
 feature: Email Setup
 exl-id: 23cd6ba8-5e3f-44f1-af8d-da03f4b038f2
-source-git-commit: 6e60b39f12c75269b186573db4120e7dccb119c0
+source-git-commit: f0f95604ba3b033fbbf0e4fcd3b502142ef16134
 workflow-type: tm+mt
 source-wordcount: '104'
 ht-degree: 1%
