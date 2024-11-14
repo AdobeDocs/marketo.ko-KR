@@ -4,7 +4,7 @@ description: 챔피언/챌린저 - 챔피언 기준 정의 - Marketo 문서 - �
 title: 챔피언/챌린저 - 챔피언 기준 정의
 exl-id: 6b2d2568-caf3-41fc-9d50-f7f561cc4865
 feature: Email Editor
-source-git-commit: cc8de935451fe5d6dc9c8dad19962391d8ed3535
+source-git-commit: ab8cb63d7a63728f86b38272a74913de99d0d0b3
 workflow-type: tm+mt
 source-wordcount: '175'
 ht-degree: 1%
@@ -29,7 +29,7 @@ ht-degree: 1%
    >
    >이 지표를 추적하고 데이터가 포함된 보고서를 이메일로 보냅니다.
 
-1. 기본 **챔피언 기준** 중 하나를 선택한 경우 [보고서 알림 구성](/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/email-tests-champion-challenger/analytics.md#configure-report-alerts)(으)로 이동하십시오.
+1. 기본 **챔피언 기준** 중 하나를 선택한 경우 [보고서 알림 구성](/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/email-tests-champion-challenger/champion-challenger-analytics.md#configure-report-alerts)(으)로 이동하십시오.
 
 ## 사용자 정의 챔피언 기준 {#custom-champion-criteria}
 
@@ -59,4 +59,4 @@ ht-degree: 1%
 
    >[!MORELIKETHIS]
    >
-   >[챔피언/챌린저: 분석](/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/email-tests-champion-challenger/analytics.md)
+   >[챔피언/챌린저: 분석](/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/email-tests-champion-challenger/champion-challenger-analytics.md)
