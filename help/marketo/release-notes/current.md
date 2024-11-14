@@ -3,9 +3,9 @@ description: 최신 릴리스 정보 - Marketo 설명서 - 제품 설명서
 title: 최신 릴리스 정보
 exl-id: a2eccad5-73ad-48f9-8091-51cee23824e1
 feature: Release Information
-source-git-commit: 236c99d8939f076d93dfcd7988fc89e4c617c113
+source-git-commit: ec128b52bb94bd9c4dd3d89f7c04b1596b66c965
 workflow-type: tm+mt
-source-wordcount: '548'
+source-wordcount: '507'
 ht-degree: 2%
 
 ---
@@ -32,19 +32,9 @@ Adobe Dynamic Chat [에 대한 릴리스 정보는 여기에서 찾을 수 있�
    <th style="width:25%">설명서</th>
   </tr>
     <tr> 
-   <td><strong>대화형 웨비나를 위한 참여 대시보드의 향상된 등록 데이터</strong>: 이제 가장 많은 출석을 기록한 회사를 확인할 수 있으며, 참여 대시보드에서 사용할 수 있는 보고서의 리드 수준에서 회사, 직함 및 산업을 업데이트할 수 있습니다.</td> 
-   <td><i>곧 출시 예정</i></td>
-   <td><i>곧 출시 예정</i></td>
-  </tr>
-   <td> </td> 
-   <td> </td>
-   <td> </td>
-  </tr>
-  </tr>
-    <tr> 
    <td><strong>대화형 웨비나에 대한 토큰화</strong>: 이제 웨비나 세부 정보를 수동으로 추가하지 않고도 토큰을 사용하여 이메일 및 랜딩 페이지에서 대화형 웨비나를 홍보할 수 있습니다.</td> 
-   <td><i>곧 출시 예정</i></td>
-   <td><i>곧 출시 예정</i></td>
+   <td>배송됨</td>
+   <td><a href="/help/marketo/product-docs/demand-generation/events/interactive-webinars/promoting-an-interactive-webinar.md#interactive-webinars-tokens" target="_blank">대화형 웨비나 홍보</a></td>
   </tr>
   <tr> 
    <td> </td> 

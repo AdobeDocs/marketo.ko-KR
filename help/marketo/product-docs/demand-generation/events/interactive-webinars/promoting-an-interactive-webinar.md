@@ -3,9 +3,9 @@ description: 대화형 웨비나 홍보 - Marketo 문서 - 제품 설명서
 title: 대화형 웨비나 홍보
 feature: Interactive Webinars
 exl-id: d26f91ce-3a95-4247-9a52-085260bb15e8
-source-git-commit: 4d7732582dccb00c90bb61d2db1d7553027e92a9
+source-git-commit: ec128b52bb94bd9c4dd3d89f7c04b1596b66c965
 workflow-type: tm+mt
-source-wordcount: '601'
+source-wordcount: '661'
 ht-degree: 0%
 
 ---
@@ -22,7 +22,7 @@ ht-degree: 0%
 >
 >공동 호스트 또는 발표자를 대화형 웨비나 이벤트 프로그램에 대상자 멤버로 추가하려면 다른 이메일 ID를 사용해야 합니다. 그렇지 않으면 &quot;이 이메일이 이미 등록되었습니다&quot; 오류가 표시됩니다.
 
-이메일에는 프로그램의 특정 세부 정보를 포함할 수 있으며 웨비나에 대한 자세한 정보(예: 컨텐츠, 발표자 정보 등)가 있는 특정 페이지로 수신자를 리디렉션하는 랜딩 페이지 URL을 포함할 수 있습니다 를 추가할 수 있습니다. 이 랜딩 페이지는 대화형 웨비나 이벤트 프로그램에서 로컬 자산으로 만들 수 있습니다.
+이메일에는 프로그램의 특정 세부 정보를 포함할 수 있으며, 웨비나에 대한 자세한 정보(예: 컨텐츠, 발표자 정보 등)를 추가할 수 있는 특정 페이지로 수신자를 리디렉션하는 랜딩 페이지 URL을 포함할 수 있습니다. 이 랜딩 페이지는 대화형 웨비나 이벤트 프로그램에서 로컬 자산으로 만들 수 있습니다.
 
 랜딩 페이지에서 양식을 활성화하고 양식 클릭을 대화형 웨비나 이벤트 프로그램에서 활성화된 등록에 연결하여 이 웨비나에 대한 등록을 요청할 수 있습니다. 그런 다음 양식 제출을 트리거로 사용하고 프로그램 상태를 &quot;초대됨&quot;에서 &quot;등록됨&quot;으로 변경하는 캠페인을 만들 수 있습니다.
 
@@ -41,3 +41,22 @@ ht-degree: 0%
 ![](assets/promoting-an-interactive-webinar-2.png)
 
 대화형 웨비나를 사용하면 웨비나 전, 중, 후에 등록을 요청할 수 있습니다. 모든 경우, 웨비나 URL을 잠재 고객과 공유하면 됩니다. 웨비나가 시작되기 전에 링크를 클릭하면 웨비나 이전 랜딩 페이지로 이동합니다. 웨비나 중에 클릭하면 진행 중인 웨비나로 이동합니다. 웨비나 다음에 해당 웨비나를 클릭하면 웨비나 녹화로 이동합니다.
+
+## 대화형 웨비나 토큰 {#interactive-webinars-tokens}
+
+웨비나 세부 정보를 수동으로 추가하지 않고도 토큰을 사용하여 이메일 및 랜딩 페이지에서 대화형 웨비나를 홍보할 수 있습니다. 웨비나 메타데이터(예: 웨비나 제목, 시작 날짜 등)에 대한 변경 사항이 자산에 자동으로 반영되므로 전반적인 효율성이 향상됩니다.
+
+![](assets/promoting-an-interactive-webinar-3.png)
+
+**토큰 목록**
+
+* program.webinarCapacity
+* program.webinarDuration
+* program.webinarEndDate
+* program.webinarEndTime
+* program.webinarGenericURL
+* program.webinarLanguage
+* program.webinarStartDate
+* program.webinarStartTime
+* program.webinarTimezone
+* program.webinarTitle
