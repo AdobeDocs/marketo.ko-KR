@@ -4,7 +4,8 @@ title: Dynamic Chat 릴리스 정보
 feature: Release Information, Dynamic Chat
 hide: true
 hidefromtoc: true
-source-git-commit: 7fbfdc6d34d2f1174e921464d64689b0c5687914
+exl-id: 12130dee-2dbf-4e71-b542-30d4732b1067
+source-git-commit: d58d6f0e2134549c024de123f468930da6ab5716
 workflow-type: tm+mt
 source-wordcount: '495'
 ht-degree: 2%
@@ -65,7 +66,7 @@ ht-degree: 2%
 
 그 이후부터 `abc@test.com`은(는) 쿠키가 없는 잠재 고객이 됩니다. 익명 잠재 ??
 
-따라서 쿠키 abc를 사용하는 방문자가 페이지에 도달하여 전자 메일 ID를 `abc@p.com`(으)로 제공하는 경우:
+따라서 쿠키 abc를 사용하는 방문자가 페이지에 도달하여 전자 메일 ID를 `abc@test.com`(으)로 제공하는 경우:
 
 표
 
