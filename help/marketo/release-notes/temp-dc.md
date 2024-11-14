@@ -5,7 +5,7 @@ feature: Release Information, Dynamic Chat
 hide: true
 hidefromtoc: true
 exl-id: 12130dee-2dbf-4e71-b542-30d4732b1067
-source-git-commit: d58d6f0e2134549c024de123f468930da6ab5716
+source-git-commit: cc8de935451fe5d6dc9c8dad19962391d8ed3535
 workflow-type: tm+mt
 source-wordcount: '495'
 ht-degree: 2%
@@ -46,7 +46,7 @@ ht-degree: 2%
 
 * 점수 값은 0, 1, 2, 3부터 시작됩니다(기본값은 null).
 
-* 대화가 완료 또는 삭제되면 활동에서 채점 값을 저장하고 편집할 수 없다는 게시물을 표시합니다????? (이 문장은 무엇을 의미합니까)
+* 대화가 완료 또는 삭제되면 활동에서 채점 값을 저장하고 편집할 수 없다는 게시물을 표시합니다   ????? (이 문장은 무엇을 의미합니까)
 
 * 점수 설정:
 
