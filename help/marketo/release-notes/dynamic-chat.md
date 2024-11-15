@@ -3,10 +3,10 @@ description: Dynamic Chat 릴리스 정보 - Marketo 설명서 - 제품 설명�
 title: Dynamic Chat 릴리스 정보
 feature: Release Information, Dynamic Chat
 exl-id: 0447dc47-b9c5-42e1-8f66-73bf67c7871d
-source-git-commit: d88406c1f9d72c57a6d4f09934cbf685499ed198
+source-git-commit: 63db7cfd9d93191d83214dc4e107ab4835ddd730
 workflow-type: tm+mt
-source-wordcount: '1869'
-ht-degree: 2%
+source-wordcount: '2427'
+ht-degree: 1%
 
 ---
 
@@ -16,9 +16,137 @@ Adobe Dynamic Chat 릴리스는 기능 배포에 대한 보다 확장 가능한 
 
 [ Marketo Engage에 대한 표준 릴리스 노트는 ](/help/marketo/release-notes/current.md){target="_blank"}에 있습니다.
 
+## 2024년 9월/10월 릴리스 {#sep-oct-release}
+
+### 향상된 라이브 채팅 분석 {#enhanced-live-chat-analytics}
+
+다음을 포함하여 Analytics 대시보드에 대한 몇 가지 개선 사항이 이루어졌습니다.
+
+* 요청된 총 라이브 채팅 수: &quot;에이전트와의 채팅&quot;을 요청한 방문자 수
+
+* 연결된 총 라이브 채팅: 연결된 방문자 수와 &quot;에이전트와의 채팅&quot;을 요청한 총 방문자 수
+
+* 누락된 총 라이브 채팅 요청 수: 무인 방문자와 &quot;에이전트와의 채팅&quot;에 대해 요청한 총 방문자 수
+
+* 평균 채팅 길이(분): 방문자와 에이전트 간의 &quot;평균 채팅 길이&quot;를 분석합니다.
+
+* 평균 에이전트 응답 시간(초): 에이전트가 라이브 채팅 Q&amp;A에 응답하는 데 걸린 &quot;평균 시간&quot;을 분석합니다.
+
+* 일별 대시보드: 라이브 채팅 요청이 정상적으로 연결됨, 라이브 채팅 요청이 누락됨, 최근 라이브 채팅 활동을 정렬 및 필터링함
+
+![](assets/dynamic-chat-sep-oct-2024-release-1.png)
+
+### 대화 점수 {#conversation-scoring}
+
+채팅 상호 작용의 품질을 기반으로 리드를 수치화하고 해당 지표를 Marketo Engage 스마트 캠페인의 트리거/필터로 사용합니다. 다음 활동에서 새 특성 _대화 점수_&#x200B;를 사용하십시오.
+
+* 대화 참여
+* 대화 흐름에 참여
+* 에이전트와 참여
+
+**참고할 사항:**
+
+* 점수 값은 0, 1, 2, 3부터 시작됩니다(기본값은 null).
+
+* 대화가 완료 또는 삭제되면 채점 값을 편집할 수 없습니다
+
+* 점수 설정:
+
+   * 에이전트 받은 편지함에서 - 라이브 채팅 중에 에이전트는 대화 활동에 저장된 대화에 대한 점수를 업데이트하거나 설정할 수 있습니다
+
+   * 스트림 디자이너 - 목표 카드에서 사용자는 대화에 대한 점수를 업데이트하거나 설정할 수 있습니다
+
+![](assets/dynamic-chat-sep-oct-2024-release-2.png)
+
+![](assets/dynamic-chat-sep-oct-2024-release-3.png)
+
+![](assets/dynamic-chat-sep-oct-2024-release-4.png)
+
+### 새로운 잠재 고객 생성 논리 {#new-lead-creation-logic}
+
+잠재 고객이 전자 메일 `abc@test.com`을(를) 사용하여 양식을 작성하고 xyz로 쿠키가 작성되면 나중에 전자 메일 `def@test.com`을(를) 사용하여 동일한 양식을 작성하고 새 사용자 레코드가 생성되지만 쿠키 xyz가 새 사용자와 연결되고 개인 `abc@test.com`에서 제거됩니다.
+
+따라서 쿠키 abc를 사용하는 방문자가 페이지에 도달하여 전자 메일 ID를 `abc@test.com`(으)로 제공하는 경우:
+
+<table><thead>
+  <tr>
+    <th>Visitor</th>
+    <th>Cookie</th>
+    <th>이메일 제공됨</th>
+    <th>예상 동작</th>
+  </tr></thead>
+<tbody>
+  <tr>
+    <td>익명</td>
+    <td>abc</td>
+    <td>데이터베이스에 없음</td>
+    <td>새 사용자 만들기</td>
+  </tr>
+  <tr>
+    <td>익명</td>
+    <td>abc</td>
+    <td>데이터베이스에 있음</td>
+    <td>사용자 병합</td>
+  </tr>
+  <tr>
+    <td>익명</td>
+    <td>xyz</td>
+    <td>데이터베이스에 있음</td>
+    <td>사용자 병합</td>
+  </tr>
+  <tr>
+    <td>알려진 사람</td>
+    <td>abc</td>
+    <td>기존 사용자와 동일</td>
+    <td>사용자 업데이트</td>
+  </tr>
+  <tr>
+    <td>알려진 사람</td>
+    <td>abc</td>
+    <td>기존 사용자와 다름</td>
+    <td>이미 알려진 사람이 존재하는 경우 쿠키를 전송하고 해당 프로필을 확인합니다. 이 이메일에 사용자가 없는 경우 새 사용자 레코드를 만들고 쿠키를 전송하십시오</td>
+  </tr>
+  <tr>
+    <td>알려진 사람</td>
+    <td>xyz</td>
+    <td>기존 사용자와 동일</td>
+    <td>동일한 사람에게 새 쿠키 추가</td>
+  </tr>
+  <tr>
+    <td>알려진 사람</td>
+    <td>xyz</td>
+    <td>기존 사용자와 다름</td>
+    <td>이 시나리오는 다음의 새 쿠키처럼 수행할 수 없습니다.   새 익명 프로필로 간주되는 기본값</td>
+  </tr>
+</tbody></table>
+
+### 최적화된 대화 흐름 로드 시간 {#optimized-conversation-flow-load-time}
+
+사용자 경험을 개선하기 위해 이제 대화형 흐름이 로드되는 동안 빈 공간 대신 쉬머 로더가 표시됩니다.
+
+**이전**
+
+![](assets/dynamic-chat-sep-oct-2024-release-5.png)
+
+**이후**
+
+![](assets/dynamic-chat-sep-oct-2024-release-6.gif)
+
+### 글꼴 상속 옵션 {#option-to-inherit-font}
+
+이제 Dynamic Chat에서 브랜드 글꼴을 관리하는 대신 챗봇이 호스팅 중인 웹 페이지에서 글꼴을 직접 상속할 수 있습니다. 이 옵션을 활성화하면 챗봇이 페이지의 `<body>` 태그에 정의된 글꼴을 사용합니다.
+
+![](assets/dynamic-chat-sep-oct-2024-release-7.png)
+
+### Demandbase와 Dynamic Chat 통합 {#demandbase-integration-with-dynamic-chat}
+
+Demandbase 사용자는 자신의 Demandbase 라이선스를 가져와 통합을 활성화할 수 있습니다. 대화 상자 타겟팅, 조건부 브랜딩 및 사용자 지정 라우팅에는 Demandbase 사용자 특성을 사용합니다.
+
+개인에 대한 이러한 속성 값의 해결은 실시간으로 수행되며 각 개인 프로필에 저장됩니다.
+
 ## 2024년 8월 릴리스 {#august-release}
 
-**릴리스 날짜: 2024년 8월 23일**
+**릴리스 일자: 2024년 8월 23일 토요일**
 
 ### 대화 메시지의 서식을 사용자 지정합니다. {#custom-format-conversation-messages}
 

@@ -3,9 +3,9 @@ description: Marketo 구독 및 Adobe Admin Console으로의 사용자 마이그
 title: Marketo 구독 및 Adobe Admin Console으로의 사용자 마이그레이션 이해
 exl-id: 91e7b56b-2563-4986-a55c-f9760ea88b05
 feature: Marketo with Adobe Identity
-source-git-commit: 3ae2a894b4f3350fe71f78e5259bab0af31c4f54
+source-git-commit: 63db7cfd9d93191d83214dc4e107ab4835ddd730
 workflow-type: tm+mt
-source-wordcount: '1513'
+source-wordcount: '1553'
 ht-degree: 0%
 
 ---
@@ -30,7 +30,7 @@ Adobe은 Adobe Marketo Engage 구독 및 사용자를 관리하는 방법을 향
 
 * **마이그레이션 후 URL이 다르게 보입니다**. 마이그레이션 후 Marketo Engage은 experience.adobe.com에서 Adobe Experience Cloud으로 제공됩니다. Marketo Engage 액세스가 중단되지 않도록 IT 팀과 함께 ](/help/marketo/getting-started/initial-setup/configure-protocols-for-marketo.md){target="_blank"} 문서 상단에 나열된 모든 Adobe 도메인을 허용 목록 0해야 합니다.[
 
-에셋의 ID 번호는 그대로 유지됩니다. 그리고 engage-xx.marketo.com Marketo Engage _will_&#x200B;의 자산 라이브러리에 대한 이전 링크와 책갈피가 계속 작동합니다. 그러나 먼저 탐색 중인 URL의 Marketo Engage 인스턴스에 로그인해야 합니다. 예를 들어 Munchkin ID 123-ABC-456이 있는 인스턴스에서 Smart Campaign에 대한 책갈피로 이동하려면 먼저 Munchkin ID 123-ABC-456으로 Marketo Engage 인스턴스에 로그인해야 합니다.
+에셋의 ID 번호는 그대로 유지됩니다. 그리고 engage-xx.marketo.com Marketo Engage _will_&#x200B;의 자산 라이브러리에 대한 이전 링크와 책갈피가 계속 작동합니다. 그러나 먼저 탐색 중인 URL의 Marketo Engage 인스턴스에 로그인해야 합니다. 예를 들어 Munchkin ID 123-ABC-456이 있는 인스턴스에서 스마트 캠페인에 대한 책갈피로 이동하려면 먼저 Munchkin ID 123-ABC-456으로 Marketo Engage 인스턴스에 로그인해야 합니다.
 
 ## 변경되지 않는 것은 무엇입니까? {#what-is-not-changing}
 
@@ -82,6 +82,8 @@ Marketo 제품 관리자는 모든 사용자가 마이그레이션할 날을 준
 
 * Marketo 관리 영역의 모든 사용자에 대해 [전자 메일 확인](/help/marketo/product-docs/administration/users-and-roles/email-verification.md){target="_blank"} 상태를 확인하십시오. 이메일 주소를 확인하지 않은 사용자에게 이메일 주소를 확인하도록 권장하고 사용자가 확인 프로세스를 완료하는 데 발생하는 모든 문제를 해결하도록 지원합니다.
 
+* 이메일 받은 편지함에서 &quot;잠긴&quot; 사용자 알림을 검색합니다. 잠긴 사용자에게 마이그레이션일 전에 Marketo Engage에 대한 액세스 권한을 다시 설정하려면 암호를 재설정하라고 알립니다.
+
 * Adobe ID로의 향후 마이그레이션에 대해 모든 사용자를 준비합니다.
 
 >[!NOTE]
@@ -90,7 +92,7 @@ Marketo 제품 관리자는 모든 사용자가 마이그레이션할 날을 준
 
 >[!IMPORTANT]
 >
->Marketo Engage 사용자가 이메일 주소를 확인하지 않는 경우, 이메일 주소는 Adobe ID으로 마이그레이션되지 않고 구독에 대한 마이그레이션이 완료된 후 Marketo 구독에 대한 액세스 권한을 잃게 됩니다. 액세스 권한을 다시 얻으려면 Marketo 제품 관리자가 새 사용자로 추가해야 합니다.
+>Marketo Engage 사용자가 이메일 주소를 확인하지 않거나 사용자 마이그레이션 시 잠겨 있는 경우, 사용자는 Adobe ID으로 마이그레이션되지 않고 구독에 대한 마이그레이션이 완료된 후 Marketo 구독에 대한 액세스 권한을 잃게 됩니다. 액세스 권한을 다시 얻으려면 Marketo 제품 관리자가 새 사용자로 추가해야 합니다.
 
 ### 마이그레이션 당일 기대 사항 {#what-to-expect-on-migration-day}
 
