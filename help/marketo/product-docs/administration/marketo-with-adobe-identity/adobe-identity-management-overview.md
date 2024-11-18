@@ -3,16 +3,16 @@ description: Adobe Identity Management 개요 - Marketo 문서 - 제품 설명�
 title: Adobe Identity Management 개요
 exl-id: 18ddeebc-bc89-411c-9d2c-23df6841cb3a
 feature: Marketo with Adobe Identity
-source-git-commit: 1defe6e8c7b4e458203169150ec77df4f615e5d2
+source-git-commit: 8d4a542687119e7e4044b26eeafcc71315609f19
 workflow-type: tm+mt
-source-wordcount: '421'
+source-wordcount: '445'
 ht-degree: 0%
 
 ---
 
 # Adobe Identity Management 개요 {#adobe-identity-management-overview}
 
-모든 새 Adobe Marketo Engage 구독(2023년 7월 31일 이상)은 Adobe Identity Management 시스템과 통합됩니다. 기존 Marketo Engage 구독은 현재 갱신, 재계약 이벤트 및/또는 추가 사항이 포함된 모든 판매 이벤트 시 Adobe Identity Management 시스템으로 마이그레이션되고 있습니다. 현재 영업 이벤트 외부 마이그레이션은 지원되지 않습니다.
+모든 새 Adobe Marketo Engage 구독(2023년 7월 31일 이상)은 Adobe Identity Management 시스템과 통합됩니다. 기존 Marketo Engage 구독은 현재 갱신, 재계약 이벤트 및/또는 추가 사항이 포함된 모든 판매 이벤트 시 Adobe Identity Management 시스템으로 마이그레이션되고 있습니다. 영업 이벤트 이외 마이그레이션은 2024년 10월부터 지원됩니다. Marketo 관리자는 구독이 판매 이벤트 외부에서 마이그레이션되는 경우 2~4주 전에 알림을 받게 됩니다.
 
 >[!NOTE]
 >
@@ -21,7 +21,7 @@ ht-degree: 0%
 Adobe ID에 온보딩된 구독의 경우 사용자 관리에 Adobe Admin Console이 사용됩니다. 단일 사인온과 같은 ID 관련 개념도 Admin Console에서 관리됩니다.
 
 * [Adobe Admin Console](https://helpx.adobe.com/enterprise/using/admin-console.html){target="_blank"}에 대한 자세한 정보를 찾으십시오.
-* [Marketo 구독과 관련된 Adobe 조직 설정](https://helpx.adobe.com/enterprise/using/set-up-identity.html){target="_blank"}에 대한 자세한 내용을 확인하세요.
+* [Marketo 구독과 관련된 Adobe 조직 설정](https://helpx.adobe.com/kr/enterprise/using/set-up-identity.html){target="_blank"}에 대한 자세한 내용을 확인하세요.
 
 >[!NOTE]
 >
