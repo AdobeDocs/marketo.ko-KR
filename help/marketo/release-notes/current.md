@@ -3,9 +3,9 @@ description: 최신 릴리스 정보 - Marketo 설명서 - 제품 설명서
 title: 최신 릴리스 정보
 exl-id: a2eccad5-73ad-48f9-8091-51cee23824e1
 feature: Release Information
-source-git-commit: ec128b52bb94bd9c4dd3d89f7c04b1596b66c965
+source-git-commit: 97806e0df45327fb695f02c02af0dde42a602737
 workflow-type: tm+mt
-source-wordcount: '507'
+source-wordcount: '546'
 ht-degree: 2%
 
 ---
@@ -89,6 +89,8 @@ Adobe Dynamic Chat [에 대한 릴리스 정보는 여기에서 찾을 수 있�
 <br/>
 
 ## 공지 {#announcements}
+
+* **대량 추출 API 업데이트**: 내보낸 파일에 사용자 지정 열 헤더 이름을 지정할 수 있는 columnHeaderNames 옵션과 관련된 대량 추출 API의 문제를 해결했습니다. 이전에는 ASCII가 아닌 문자가 포함된 열 헤더 이름이 손상될 수 있었습니다.
 
 * **Rest API access_token 매개 변수 사용 중단**: Marketo REST API 호출을 인증하는 데 사용되는 &#39;access_token&#39; 쿼리 매개 변수는 더 이상 사용되지 않으며 2025년 6월 30일 이후에 사용할 수 없습니다. 모든 신규 및 기존 통합은 여기에 설명된 대로 [인증 헤더를 사용하여 REST API 호출을 인증해야 합니다](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/rest/authentication#using-an-access-token).
 
