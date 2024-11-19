@@ -4,7 +4,7 @@ description: 목록 또는 스마트 목록 새로 고침 - Marketo 문서 - 제
 title: 목록 또는 스마트 목록 새로 고침
 exl-id: f66adc0f-910f-46d4-a33c-976b061bdce2
 feature: Smart Lists
-source-git-commit: 8a5903fa5313e34f448f833f20ab8e3624cf23e6
+source-git-commit: e0106eddf3ed6ecd2d9d90147a56258f61958665
 workflow-type: tm+mt
 source-wordcount: '133'
 ht-degree: 0%
@@ -19,11 +19,11 @@ Smart List를 실행하고 몇 분 정도 지난 경우 결과가 지금 달라�
 
 1. 스마트 목록의 **[!UICONTROL 사람]** 탭에서 데이터를 업데이트하려면 새로 고침 아이콘을 클릭합니다.
 
-   ![](assets/refreshbutton.png)
+   ![](assets/refresh-a-list-or-smart-list-1.png)
 
 1. 스마트 목록이 다시 실행되고 최신 결과 집합이 더 표시됩니다.
 
-   ![](assets/loadingrefresh.png)
+   ![](assets/refresh-a-list-or-smart-list-2.png)
 
 >[!TIP]
 >
