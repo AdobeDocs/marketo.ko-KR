@@ -3,7 +3,7 @@ description: Dynamic Chat 릴리스 정보 - Marketo 설명서 - 제품 설명�
 title: Dynamic Chat 릴리스 정보
 feature: Release Information, Dynamic Chat
 exl-id: 0447dc47-b9c5-42e1-8f66-73bf67c7871d
-source-git-commit: b6fb381527a24286fef5e438d7bf12b029810e64
+source-git-commit: c0ccf1c515dbde48a131242939c077b44ffd5c1b
 workflow-type: tm+mt
 source-wordcount: '2427'
 ht-degree: 1%
@@ -120,29 +120,29 @@ Adobe Dynamic Chat 릴리스는 기능 배포에 대한 보다 확장 가능한 
   </tr>
 </tbody></table>
 
-### 최적화된 대화 흐름 로드 시간 {#optimized-conversation-flow-load-time}
-
-사용자 경험을 개선하기 위해 이제 대화형 흐름이 로드되는 동안 빈 공간 대신 쉬머 로더가 표시됩니다.
-
-**이전**
-
-![](assets/dynamic-chat-sep-oct-2024-release-5.png)
-
-**이후**
-
-![](assets/dynamic-chat-sep-oct-2024-release-6.gif)
-
 ### 글꼴 상속 옵션 {#option-to-inherit-font}
 
 이제 Dynamic Chat에서 브랜드 글꼴을 관리하는 대신 챗봇이 호스팅 중인 웹 페이지에서 글꼴을 직접 상속할 수 있습니다. 이 옵션을 활성화하면 챗봇이 페이지의 `<body>` 태그에 정의된 글꼴을 사용합니다.
 
-![](assets/dynamic-chat-sep-oct-2024-release-7.png)
+![](assets/dynamic-chat-sep-oct-2024-release-5.png)
 
 ### Demandbase와 Dynamic Chat 통합 {#demandbase-integration-with-dynamic-chat}
 
 Demandbase 사용자는 자신의 Demandbase 라이선스를 가져와 통합을 활성화할 수 있습니다. 대화 상자 타겟팅, 조건부 브랜딩 및 사용자 지정 라우팅에는 Demandbase 사용자 특성을 사용합니다.
 
 개인에 대한 이러한 속성 값의 해결은 실시간으로 수행되며 각 개인 프로필에 저장됩니다.
+
+### 최적화된 대화 흐름 로드 시간 {#optimized-conversation-flow-load-time}
+
+사용자 경험을 개선하기 위해 이제 대화형 흐름이 로드되는 동안 빈 공간 대신 쉬머 로더가 표시됩니다.
+
+**이전**
+
+![](assets/dynamic-chat-sep-oct-2024-release-6.png)
+
+**이후**
+
+![](assets/dynamic-chat-sep-oct-2024-release-7.gif)
 
 ## 2024년 8월 릴리스 {#august-release}
 
