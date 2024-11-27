@@ -4,9 +4,9 @@ description: Marketo Engage - Marketo Engage 문서 - 제품 설명서에 대한
 title: Marketo Engage을 위한 프로토콜 구성
 exl-id: cf2fd4ac-9229-4e52-bb68-5732b44920ef
 feature: Getting Started
-source-git-commit: d2f8a90cf780fc5db6a4f148a53968a53df835a4
+source-git-commit: ed42e3662dc1f9c3b3b27d86d1df816ce26e1076
 workflow-type: tm+mt
-source-wordcount: '2145'
+source-wordcount: '2148'
 ht-degree: 0%
 
 ---
@@ -88,7 +88,7 @@ For example:
 
 ## 3단계: SPF 및 DKIM 설정 {#step-set-up-spf-and-dkim}
 
-마케팅 팀이 DNS 리소스 레코드(또한 아래 목록)에 추가할 DKIM(Domain Keys Identified Mail) 정보도 보냈어야 합니다. DKIM 및 SPF(Sender Policy Framework)를 성공적으로 구성한 다음, 업데이트된 사실을 마케팅 팀에 알립니다.
+마케팅 팀에서도 DNS 리소스 레코드(아래 목록)에 추가할 DKIM(Domain Keys Identified Mail) 정보를 보냈어야 합니다. DKIM 및 SPF(Sender Policy Framework)를 성공적으로 구성한 다음, 업데이트된 사실을 마케팅 팀에 알립니다.
 
 1. SPF를 설정하려면 DNS 항목에 다음 줄을 추가하십시오.
 
@@ -115,11 +115,11 @@ DMARC(도메인 기반 메시지 인증, 보고 및 적합성)은 조직이 도�
 DMARC이 작동하려면 다음 DNS TXT 레코드 중 하나 이상이 있어야 합니다.
 
 * 유효한 SPF
-* FROM: 도메인에 대한 유효한 DKIM 레코드(Marketo Engage 권장)
+* FROM: 도메인에 대한 유효한 DKIM 레코드(Marketo Engage에 권장)
 
 또한 FROM: 도메인에 대한 DMARC 특정 DNS TXT 레코드가 있어야 합니다. 선택적으로, 보고서를 모니터링할 수 있도록 선택한 이메일 주소를 조직 내에서 DMARC 보고서가 어디로 이동해야 하는지 표시하도록 정의할 수 있습니다.
 
-DMARC의 잠재적 영향을 이해하면 DMARC 정책을 p=none에서 p=quarantine, p=reject로 승격하고 SPF 및 DKIM에 대한 정렬을 완화하도록 DMARC 정책을 설정하여 DMARC 구현을 천천히 롤아웃하는 것이 좋습니다.
+DMARC의 잠재적 영향을 이해하면 DMARC 정책을 p=none에서 p=quarantine, p=reject로 승격하고 SPF 및 DKIM에 대한 정렬을 완화하도록 DMARC 정책을 설정하여 DMARC 구현을 천천히 배포하는 것이 좋습니다.
 
 ### DMARC 예제 워크플로우 {#dmarc-example-workflow}
 
@@ -129,7 +129,7 @@ DMARC의 잠재적 영향을 이해하면 DMARC 정책을 p=none에서 p=quarant
 
    II. 합법적인 메시지가 인증에 실패한 경우 SPF/DKIM 문제를 검토하고 수정합니다.
 
-   III. SPF 또는 DKIM이 정렬되었는지 확인하고 모든 합법적인 이메일에 대한 인증을 전달합니다.
+   III. SPF 또는 DKIM이 정렬되어 있는지 확인하고 모든 적합한 이메일에 대한 인증을 전달합니다.
 
    IV. 보고서를 검토하여 SPF/DKIM 정책을 기반으로 예상한 결과가 나오는지 확인하십시오.
 
@@ -194,7 +194,7 @@ DMARC 레코드에는 DMARC 태그라는 여러 구성 요소가 있습니다. �
     <td>도메인 소유자가 보고 옵션을 지정할 수 있도록 허용합니다.</td>
     <td>0: 모든 것이 실패하면 보고서 생성 
     <br>1: 실패한 경우 보고서 생성 
-    <br>d: DKIM이 실패하면 보고서 생성 
+    <br>d: DKIM 실패 시 보고서 생성 
     <br>s: SPF가 실패할 경우 보고서 생성</td>
     <td>1(DMARC 보고서에 권장)</td>
   </tr>
@@ -369,13 +369,20 @@ Marketo Engage [Salesforce CRM 동기화](/help/marketo/product-docs/crm-sync/sa
    <tr>
    <td>54.237.141.197</td>
   </tr>
+  <tr>
+   <td>124.47.174.193</td>
   </tr>
-   <tr>
+  <tr>
    <td>130.248.168.16</td>
-  </tr>
   </tr>
    <tr>
    <td>130.248.168.17</td>
+  </tr>
+  <tr>
+   <td>199.15.213.245</td>
+  </tr>
+  <tr>
+   <td>199.15.215.245</td>
   </tr>
  </tbody>
 </table>
