@@ -4,9 +4,9 @@ description: 사람 수동으로 만들기 - Marketo 문서 - 제품 설명서
 title: 수동으로 사용자 만들기
 exl-id: 6fbbd240-239b-461e-a046-968e0f0d150e
 feature: Smart Lists
-source-git-commit: 208ba59e3a5cb8e613e887b4c89e51cec4b3f897
+source-git-commit: d087b22e84c23fea5e38fe7bf20349dc7eec09f7
 workflow-type: tm+mt
-source-wordcount: '78'
+source-wordcount: '64'
 ht-degree: 0%
 
 ---
@@ -21,14 +21,12 @@ ht-degree: 0%
 
 1. **[!UICONTROL 데이터베이스]**(으)로 이동합니다.
 
-   ![](assets/db-1.png)
+   ![](assets/create-a-person-manually-1.png)
 
 1. **[!UICONTROL 새로 만들기]**&#x200B;에서 **[!UICONTROL 새 사용자]**&#x200B;를 클릭합니다.
 
-   ![](assets/two-2.png)
+   ![](assets/create-a-person-manually-2.png)
 
 1. 사용자 정보를 입력한 다음 **[!UICONTROL 만들기]**&#x200B;를 클릭합니다.
 
-   ![](assets/three-2.png)
-
-Marketo에서 한 사람을 빠르고 쉽게 추가할 수 있는 방법입니다.
+   ![](assets/create-a-person-manually-3.png)

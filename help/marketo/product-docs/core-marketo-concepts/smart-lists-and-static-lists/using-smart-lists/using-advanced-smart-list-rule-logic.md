@@ -4,7 +4,7 @@ description: 고급 스마트 목록 규칙 논리 사용 - Marketo 문서 - 제
 title: 고급 스마트 목록 규칙 논리 사용
 exl-id: fc41b6fd-c65e-4c44-b0ee-7bb5c77c51fb
 feature: Smart Lists
-source-git-commit: 8a5903fa5313e34f448f833f20ab8e3624cf23e6
+source-git-commit: d087b22e84c23fea5e38fe7bf20349dc7eec09f7
 workflow-type: tm+mt
 source-wordcount: '302'
 ht-degree: 0%
@@ -32,7 +32,7 @@ ht-degree: 0%
 
 1. 드롭다운에서 **[!UICONTROL 고급 필터 사용]**&#x200B;을 선택합니다.
 
-   ![](assets/one.png)
+   ![](assets/using-advanced-smart-list-rule-logic-1.png)
 
    >[!NOTE]
    >
@@ -40,11 +40,11 @@ ht-degree: 0%
 
 1. **[!UICONTROL 고급 필터]** 텍스트 상자에 모든 필터 사이의 기본값으로 &quot;and&quot;가 표시됩니다.
 
-   ![](assets/two-2.png)
+   ![](assets/using-advanced-smart-list-rule-logic-2.png)
 
 1. &quot;2와 3&quot; 주위에 괄호를 한 쌍을 입력합니다.
 
-   ![](assets/three-2.png)
+   ![](assets/using-advanced-smart-list-rule-logic-3.png)
 
    >[!CAUTION]
    >
@@ -52,19 +52,19 @@ ht-degree: 0%
 
 1. &quot;2와 3&quot; 사이의 &quot;and&quot;를 &quot;or&quot;로 변경합니다.
 
-   ![](assets/four-1.png)
+   ![](assets/using-advanced-smart-list-rule-logic-4.png)
 
 ## &quot;And&quot; 및 &quot;Or&quot;를 혼합할 때 괄호 사용 {#use-parentheses-when-mixing-and-and-or}
 
 &quot;and&quot;와 &quot;or&quot; 논리를 혼합하려면 의도를 명확하게 하기 위해 괄호가 필요합니다.
 
-![](assets/advancedfilters-parent.png)
+![](assets/using-advanced-smart-list-rule-logic-5.png)
 
 ## 필요한 경우 4개 이상의 필터에 대해 중첩된 괄호 사용 {#use-nested-parentheses-for-four-or-more-filters-if-needed}
 
 의도에 따라 4개 이상의 필터를 사용할 때 중첩된 괄호를 추가해야 할 수 있습니다.
 
-![](assets/advancedfilters-nested.png)
+![](assets/using-advanced-smart-list-rule-logic-6.png)
 
 >[!TIP]
 >
