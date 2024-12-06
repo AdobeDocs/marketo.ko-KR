@@ -3,9 +3,9 @@ description: 사용자 추가 또는 제거 - Marketo 문서 - 제품 설명서
 title: 사용자 추가 또는 제거
 exl-id: b1087d41-b548-47bd-91b7-282dc902cba3
 feature: Marketo with Adobe Identity
-source-git-commit: 02b2e39580c5eac63de4b4b7fdaf2a835fdd4ba5
+source-git-commit: 471a777041361cfebdc8b7139b618ff4dc03e8a8
 workflow-type: tm+mt
-source-wordcount: '230'
+source-wordcount: '240'
 ht-degree: 2%
 
 ---
@@ -58,6 +58,10 @@ ht-degree: 2%
 
 ## 사용자 제거 {#remove-a-user}
 
+>[!NOTE]
+>
+>사용자를 제거하려면 시스템 관리자여야 합니다.
+
 1. [Adobe Admin Console](https://adminconsole.adobe.com/){target="_blank"}에 로그인합니다.
 
    ![](assets/add-or-remove-a-user-9.png)
@@ -87,4 +91,4 @@ ht-degree: 2%
 >[!MORELIKETHIS]
 >
 >* [Adobe Admin Console 사용자](https://helpx.adobe.com/kr/enterprise/using/users.html){target="_blank"}
->* [개별적으로 사용자 관리](https://helpx.adobe.com/enterprise/using/manage-users-individually.html){target="_blank"}
+>* [개별적으로 사용자 관리](https://helpx.adobe.com/kr/enterprise/using/manage-users-individually.html){target="_blank"}
