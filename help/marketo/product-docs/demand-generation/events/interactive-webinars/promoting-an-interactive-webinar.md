@@ -3,9 +3,9 @@ description: 대화형 웨비나 홍보 - Marketo 문서 - 제품 설명서
 title: 대화형 웨비나 홍보
 feature: Interactive Webinars
 exl-id: d26f91ce-3a95-4247-9a52-085260bb15e8
-source-git-commit: e4a6123684162d9bbf2edddbd9aaf190030dc728
+source-git-commit: dbf058714f6c4e6003c5a64d1048ac8a47931a0f
 workflow-type: tm+mt
-source-wordcount: '654'
+source-wordcount: '653'
 ht-degree: 0%
 
 ---
@@ -44,7 +44,7 @@ ht-degree: 0%
 
 ## 대화형 웨비나 토큰 {#interactive-webinars-tokens}
 
-웨비나 세부 정보를 수동으로 추가하지 않고도 토큰을 사용하여 이메일 및 랜딩 페이지에서 대화형 웨비나를 홍보할 수 있습니다. 웨비나 메타데이터(예: 웨비나 제목, 시작 날짜 등)에 대한 변경 사항이 자산에 자동으로 반영되므로 전반적인 효율성이 향상됩니다.
+웨비나 세부 정보를 수동으로 추가할 필요 없이 토큰을 사용하여 이메일 및 랜딩 페이지에서 대화형 웨비나를 홍보할 수 있습니다. 웨비나 메타데이터(예: 웨비나 제목, 시작 날짜 등)에 대한 변경 사항이 자산에 자동으로 반영되므로 전반적인 효율성이 향상됩니다.
 
 ![](assets/promoting-an-interactive-webinar-3.png)
 
