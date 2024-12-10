@@ -3,10 +3,10 @@ description: 클래식 아이콘 용어집 - Marketo 문서 - 제품 설명서
 title: 클래식 아이콘 용어집
 feature: Getting Started
 exl-id: 05706dc2-9e8b-4f10-89cf-996a69bc4816
-source-git-commit: 87cf178f82103025ff0132c4a6a40166237805c9
+source-git-commit: a9f880bd32d533613020d0472c0e1bee07ab388c
 workflow-type: tm+mt
 source-wordcount: '563'
-ht-degree: 6%
+ht-degree: 7%
 
 ---
 
@@ -185,7 +185,7 @@ ht-degree: 6%
   <tr> 
    <td><img src="assets/image2015-1-8-18-3a25-3a25.png"> 
     </td> 
-   <td>먼치킨</td> 
+   <td>Munchkin</td> 
   </tr> 
   <tr> 
    <td><img src="assets/image2015-1-8-18-3a26-3a58.png"> 
@@ -220,7 +220,7 @@ ht-degree: 6%
   <tr> 
    <td><img src="assets/image2015-1-9-8-3a40-3a3.png"> 
     </td> 
-   <td>관리자</td> 
+   <td>관리</td> 
   </tr> 
   <tr> 
    <td><img src="assets/image2015-1-9-8-3a46-3a19.png"> 
@@ -351,7 +351,7 @@ ht-degree: 6%
   <tr> 
    <td><img src="assets/image2015-1-9-14-3a42-3a29.png"> 
     </td> 
-   <td>소셜</td> 
+   <td>Social</td> 
   </tr> 
   <tr> 
    <td><img src="assets/image2015-1-9-14-3a43-3a17.png"> 
@@ -617,7 +617,7 @@ ht-degree: 6%
   <tr> 
    <td><img src="assets/image2015-1-14-13-3a8-3a40.png"> 
     </td> 
-   <td>신규</td> 
+   <td>새로운 기능</td> 
   </tr> 
   <tr> 
    <td><img src="assets/image2015-1-14-13-3a8-3a47.png"> 
@@ -668,7 +668,7 @@ ht-degree: 6%
   <tr> 
    <td><img src="assets/image2015-1-9-12-3a55-3a51.png"> 
     </td> 
-   <td>보고</td> 
+   <td>보고서</td> 
   </tr> 
   <tr> 
    <td><img src="assets/image2015-1-9-12-3a56-3a29.png"> 
@@ -739,7 +739,7 @@ ht-degree: 6%
   <tr> 
    <td><img src="assets/image2015-1-5-14-3a31-3a7.png"> 
     </td> 
-   <td>Salesforce(모든 SFDC 관련 항목에도 적용)</td> 
+   <td>Salesforce(모든 SFDC 관련 항목에서도)</td> 
   </tr> 
   <tr> 
    <td><img src="assets/image2015-1-5-15-3a44-3a30.png"> 
@@ -790,7 +790,7 @@ ht-degree: 6%
   <tr> 
    <td><img src="assets/image2015-1-5-14-3a31-3a7.png"> 
     </td> 
-   <td>Salesforce(모든 SFDC 관련 항목에도 적용)</td> 
+   <td>Salesforce(모든 SFDC 관련 항목에서도)</td> 
   </tr> 
   <tr> 
    <td><img src="assets/image2015-1-5-14-3a33-3a11.png"> 
@@ -871,7 +871,7 @@ ht-degree: 6%
   <tr> 
    <td><img src="assets/image2015-1-14-13-3a9-3a33.png"> 
     </td> 
-   <td>신규</td> 
+   <td>새로운 기능</td> 
   </tr> 
   <tr> 
    <td><img src="assets/image2015-1-14-13-3a9-3a39.png"> 
@@ -885,3 +885,4 @@ ht-degree: 6%
   </tr> 
  </tbody> 
 </table>
+ 

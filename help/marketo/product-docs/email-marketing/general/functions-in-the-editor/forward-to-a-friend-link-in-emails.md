@@ -4,7 +4,7 @@ description: 이메일의 친구 링크에 전달 - Marketo 문서 - 제품 설�
 title: 이메일의 친구 링크로 전달
 exl-id: 7addac65-4207-419f-845c-d6b2d08d299c
 feature: Email Editor
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: a9f880bd32d533613020d0472c0e1bee07ab388c
 workflow-type: tm+mt
 source-wordcount: '703'
 ht-degree: 0%
@@ -29,7 +29,7 @@ ht-degree: 0%
 
 1. &#39;친구에게 전달&#39; 링크를 표시할 위치에 다음 HTML 코드를 붙여넣습니다(이 부분에 대한 도움이 필요한 경우 웹 개발자에게 문의하십시오).
 
-   `<pre data-theme="Confluence"><a href="{{system.forwardToFriendLink}}">Forward to Friend</a></pre>`
+   `<a href="{{system.forwardToFriendLink}}">Forward to Friend</a>`
 
    ![](assets/three-7.png)
 
@@ -76,7 +76,7 @@ ht-degree: 0%
    >
    >이 토큰은 &#39;친구에게 전달&#39; 상자가 있는 이메일 웹 버전의 URL입니다.
 
-1. 링크의 표시 텍스트를 작성할 내용(예: &quot;친구에게 전달&quot;)을 작성합니다.
+1. 링크 표시 텍스트를 작성할 내용(예: &quot;친구에게 전달&quot;)을 작성합니다.
 
    ![](assets/seven-1.png)
 
@@ -94,7 +94,7 @@ ht-degree: 0%
 
    >[!NOTE]
    >
-   >&#39;친구에게 전달&#39; 이메일을 수신하여 추가되는 새 사용자는 기본적으로 마케팅 이메일의 구독을 취소합니다.
+   >&#39;친구에게 전달&#39; 이메일 수신을 통해 추가되는 새 사용자는 기본적으로 마케팅 이메일 구독을 취소합니다.
 
 ## 전달 활동 보기 {#view-forwarding-activity}
 
@@ -122,9 +122,9 @@ ht-degree: 0%
 
    ![](assets/sixteen.png)
 
-1. ID별로 개인을 보려면 **개인 ID**&#x200B;를 복사하여 URL 끝에 붙여넣습니다(해당 URL의 시작 부분은 Marketo 인스턴스에 따라 다름).
+1. ID별로 개인을 보려면 **개인 ID**&#x200B;를 복사하여 URL 끝에 붙여넣습니다(URL의 시작 부분은 Marketo 인스턴스에 따라 다름).
 
-   `<pre data-theme="Confluence">...marketo.com/Database/loadPersonDetail?personId=</pre>`
+   `...marketo.com/Database/loadPersonDetail?personId=`
 
    >[!NOTE]
    >
@@ -134,14 +134,14 @@ ht-degree: 0%
 
    >[!NOTE]
    >
-   >전달을 받는 친구가 알 수 없는 사람인 경우 &#39;친구에게 전달&#39;을 해당 개인의 **Source**(으)로 표시하여 새 사람이 만들어집니다.
-   >이메일이 프로그램의 로컬 자산인 경우 프로그램은 개인의 **획득 프로그램**(으)로 표시됩니다.
+   >전달을 받는 친구가 알 수 없는 사람인 경우 &#39;친구에게 전달&#39;이 해당 사용자의 **Source**(으)로 표시된 새 사람이 만들어집니다.
+   >전자 메일이 프로그램의 로컬 자산인 경우 프로그램이 개인의 **획득 프로그램**(으)로 표시됩니다.
 
 ## 전달 활동을 사용하여 트리거 또는 필터링 {#trigger-or-filter-using-forwarding-activity}
 
-6개의 트리거/필터를 사용하여 흐름 작업을 트리거하거나 &#39;친구에게 전달&#39; 활동을 보내고 받음으로써 사람을 필터링할 수 있습니다.
+&#39;친구에게 전달&#39; 활동을 보내고 받음으로써 흐름 작업을 트리거하거나 사람을 필터링하는 데 사용할 수 있는 6개의 트리거/필터가 있습니다.
 
-스마트 캠페인의 스마트 목록에서 &quot;앞으로&quot;를 검색하면 사용 가능한 트리거와 필터를 찾을 수 있습니다.
+스마트 캠페인의 스마트 목록에서 &quot;앞으로&quot;를 검색하면 사용 가능한 트리거 및 필터를 찾을 수 있습니다.
 
 ![](assets/nineteen.png)
 

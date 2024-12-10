@@ -4,7 +4,7 @@ description: 이메일 템플릿 구문 - Marketo 문서 - 제품 설명서
 title: 이메일 템플릿 구문
 exl-id: 84d6c0a8-1108-4b7e-8b4f-ac0682c6bdbb
 feature: Email Editor
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: a9f880bd32d533613020d0472c0e1bee07ab388c
 workflow-type: tm+mt
 source-wordcount: '2449'
 ht-degree: 0%
@@ -31,7 +31,7 @@ Marketo 이메일 구문은 템플릿과 개별 이메일에서만 작동합니�
 
 * 리치 텍스트
 * 이미지
-* 코드 조각
+* 스니펫
 * 비디오
 
 ## 리치 텍스트 {#rich-text}
@@ -57,7 +57,7 @@ class=&quot;mktEditable&quot;인 HTML 요소(제공된 경우) 내의 콘텐츠�
 
 예:
 
-`<pre data-theme="Confluence"><div class="mktEditable" id="exampleText" mktoName="Main Body Text"> Optionally add default text for the editable text area. </div></pre>`
+`<div class="mktEditable" id="exampleText" mktoName="Main Body Text"> Optionally add default text for the editable text area. </div>`
 
 ### 옵션 2 - mktoText {#option-mktotext}
 
@@ -75,7 +75,7 @@ class=&quot;mktoText&quot; 가 있는 HTML 요소(제공된 경우) 내의 콘�
 
 예:
 
-`<pre data-theme="Confluence"><div class="mktoText" id="exampleText" mktoName="Main Body Text"> Optionally add default text for the editable text area. </div></pre>`
+`<div class="mktoText" id="exampleText" mktoName="Main Body Text"> Optionally add default text for the editable text area. </div>`
 
 ## 이미지 {#images}
 
@@ -106,7 +106,7 @@ class=&quot;mktoText&quot; 가 있는 HTML 요소(제공된 경우) 내의 콘�
 
 예:
 
-`<pre data-theme="Confluence"><div class="mktoImg" id="exampleImg" mktoName="Example Image" mktoImgLink="https://www.marketo.com"> <a><img style="border:10px solid red;"></a> </div></pre>`
+`<div class="mktoImg" id="exampleImg" mktoName="Example Image" mktoImgLink="https://www.marketo.com"> <a><img style="border:10px solid red;"></a> </div>`
 
 ### 옵션 2 - \&lt;img\> 사용 {#option-use-an-img}
 
@@ -124,9 +124,9 @@ class=&quot;mktoText&quot; 가 있는 HTML 요소(제공된 경우) 내의 콘�
 * **mktoLockImgStyle:** `<img>` 요소의 스타일 속성을 잠그는 데 사용됩니다(기본값은 false).
 
 예:
-`<pre data-theme="Confluence"><img class="mktoImg" id="exampleImg" mktoName="Example Image"></pre>`
+`<img class="mktoImg" id="exampleImg" mktoName="Example Image">`
 
-## 코드 조각 {#snippets}
+## 스니펫 {#snippets}
 
 영역을 코드 조각으로 정의하면 최종 사용자는 이 영역에 삽입할 승인된 [코드 조각](/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/add-a-snippet-to-an-email.md)을 선택할 수 있습니다. 이메일 편집기 내에서 리치 텍스트 요소를 스니펫으로 변환할 수 있지만, 영역을 특별히 스니펫으로 정의할 때에는 리치 텍스트로 변환할 수 없습니다. class=&quot;mktoSnippet&quot;인 `<div>`을(를) 사용하여 코드 조각 영역을 지정할 수 있습니다.
 
@@ -141,7 +141,7 @@ class=&quot;mktoText&quot; 가 있는 HTML 요소(제공된 경우) 내의 콘�
 
 예:
 
-`<pre data-theme="Confluence"><div class="mktoSnippet" id="unsubscribeFooter" mktoName="Unsubscribe Footer" mktoDefaultSnippetId="12"></div></pre>`
+`<div class="mktoSnippet" id="unsubscribeFooter" mktoName="Unsubscribe Footer" mktoDefaultSnippetId="12"></div>`
 
 ## 비디오 {#video}
 
@@ -158,7 +158,7 @@ class=&quot;mktoText&quot; 가 있는 HTML 요소(제공된 경우) 내의 콘�
 
 예:
 
-`<pre data-theme="Confluence"><div class="mktoVideo" id="productVideo" mktoName="Product Announcement Video"></div></pre>`
+`<div class="mktoVideo" id="productVideo" mktoName="Product Announcement Video"></div>`
 
 ## 변수 {#variables}
 
@@ -181,11 +181,11 @@ class=&quot;mktoText&quot; 가 있는 HTML 요소(제공된 경우) 내의 콘�
 
 선언 예:
 
-`<pre data-theme="Confluence"><meta class="mktoString" id="textHeader" mktoName="Text Header" default="Edit Me"></pre>`
+`<meta class="mktoString" id="textHeader" mktoName="Text Header" default="Edit Me">`
 
 사용 예:
 
-`<pre data-theme="Confluence">${textHeader}</pre>`
+`${textHeader}`
 
 ## 목록 {#list}
 
@@ -204,15 +204,15 @@ class=&quot;mktoText&quot; 가 있는 HTML 요소(제공된 경우) 내의 콘�
 
 선언 예:
 
-`<pre data-theme="Confluence"><meta class="mktoList" id="textFontFamily" mktoName="Main Text Font Family" values="Arial,Verdana,Times New Roman"></pre>`
+`<meta class="mktoList" id="textFontFamily" mktoName="Main Text Font Family" values="Arial,Verdana,Times New Roman">`
 
 사용 예:
 
-`<pre data-theme="Confluence">${textFontFamily}</pre>`
+`${textFontFamily}`
 
 ## 숫자 {#number}
 
-변수를 숫자로 지정하면 최종 사용자가 이메일 편집기에 숫자를 입력할 수 있습니다. class=&quot;mktoNumber&quot;인 `<meta>`을(를) 사용하여 Number 변수를 지정합니다.
+변수를 숫자로 지정하면 최종 사용자가 이메일 편집기에 숫자를 입력할 수 있습니다. 클래스=&quot;mktoNumber&quot;인 `<meta>`을(를) 사용하여 Number 변수를 지정합니다.
 
 필수 속성
 
@@ -224,21 +224,21 @@ class=&quot;mktoText&quot; 가 있는 HTML 요소(제공된 경우) 내의 콘�
 
 * **분:**&#x200B;분이 값을 수락했습니다.
 * **max:** 허용되는 최대값입니다.
-* 숫자 값에 추가할 **단위:** 단위(예: px, pt, em 등) 를 이메일 편집기와 결과 코드에 표시할 수 있습니다.
+* **단위:** 단위(예: px, pt, em 등)는 이메일 편집기와 결과 코드에 표시될 때 숫자 값에 추가됩니다.
 * **단계:** 숫자 변수가 증가/감소해야 하는 단위 수(0.1, 1, 10 등)입니다. 생략하면 기본값이 1로 설정됩니다.
 * **mktoModuleScope**: 부울. 모듈에서 사용할 때 변수가 로컬(true) 또는 글로벌(false)인지 여부를 제어합니다. 생략하면 기본값이 False로 설정됩니다.
 
 선언 예:
 
-`<pre data-theme="Confluence"><meta class="mktoNumber" id="textFontSize" mktoName="Main Text Font Size" default="12" min="8" max="18" units="px" step="1"> </pre>`
+`<meta class="mktoNumber" id="textFontSize" mktoName="Main Text Font Size" default="12" min="8" max="18" units="px" step="1"> `
 
 사용 예:
 
-`<pre data-theme="Confluence">${textFontSize}</pre>`
+`${textFontSize}`
 
 ## 색상 {#color}
 
-변수를 색상으로 지정하면 최종 사용자가 16진수 색상 값을 입력하거나 이메일 편집기 내의 색상 선택기에서 색상을 선택할 수 있습니다. 클래스=&quot;mktoColor&quot;인 `<meta>`을(를) 사용하여 Color 변수를 지정합니다.
+변수를 색상으로 지정하면 최종 사용자가 16진수 색상 값을 입력하거나 이메일 편집기 내의 색상 선택기에서 색상을 선택할 수 있습니다. class=&quot;mktoColor&quot;인 `<meta>`을(를) 사용하여 Color 변수를 지정합니다.
 
 필수 속성
 
@@ -252,15 +252,15 @@ class=&quot;mktoText&quot; 가 있는 HTML 요소(제공된 경우) 내의 콘�
 
 선언 예:
 
-`<pre data-theme="Confluence"><meta class="mktoColor" id="textColor" mktoName="Main Text Color" default="#FFFFFF"></pre>`
+`<meta class="mktoColor" id="textColor" mktoName="Main Text Color" default="#FFFFFF">`
 
 사용 예:
 
-`<pre data-theme="Confluence">${textColor}</pre>`
+`${textColor}`
 
 ## 부울 {#boolean}
 
-변수를 부울로 지정하면 최종 사용자가 이메일 편집기 내에서 옵션을 켜거나 끌 수 있습니다. 클래스=&quot;mktoBoolean&quot;인 `<meta>`을(를) 사용하여 부울 변수를 지정합니다.
+변수를 부울로 지정하면 최종 사용자가 이메일 편집기 내에서 옵션을 켜거나 끌 수 있습니다. class=&quot;mktoBoolean&quot;인 `<meta>`을(를) 사용하여 부울 변수를 지정합니다.
 
 필수 속성
 
@@ -278,15 +278,15 @@ class=&quot;mktoText&quot; 가 있는 HTML 요소(제공된 경우) 내의 콘�
 
 선언 예:
 
-`<pre data-theme="Confluence"><meta class="mktoBoolean" id="showFooter" mktoName="Show Footer BG?" default="false" false_value="transparent" true_value="black" false_value_name="NO" true_value_name="YES"></pre>`
+`<meta class="mktoBoolean" id="showFooter" mktoName="Show Footer BG?" default="false" false_value="transparent" true_value="black" false_value_name="NO" true_value_name="YES">`
 
 사용 예:
 
-`<pre data-theme="Confluence">${showFooter}</pre>`
+`${showFooter}`
 
 ## HTML 블록 {#html-block}
 
-변수를 HTML 블록으로 지정하면 최종 사용자가 이메일 편집기 내에서 축어 HTML을 입력할 수 있습니다. class=&quot;mktoHTML&quot;과 함께 `<meta>`을(를) 사용하여 HTML 블록 변수를 지정합니다.
+변수를 HTML 블록으로 지정하면 최종 사용자가 이메일 편집기 내에서 축어 HTML을 입력할 수 있습니다. 클래스=&quot;mktoHTML&quot;과 함께 `<meta>`을(를) 사용하여 HTML 블록 변수를 지정합니다.
 
 필수 속성
 
@@ -300,11 +300,11 @@ class=&quot;mktoText&quot; 가 있는 HTML 요소(제공된 경우) 내의 콘�
 
 선언 예:
 
-`<pre data-theme="Confluence"><meta class="mktoHTML" id="trackingPixel" mktoName="Add Tracking Pixel"></pre>`
+`<meta class="mktoHTML" id="trackingPixel" mktoName="Add Tracking Pixel">`
 
 사용 예:
 
-`<pre data-theme="Confluence">${trackingPixel}</pre>`
+`${trackingPixel}`
 
 ## 이미지 변수 {#image-variable}
 
@@ -322,11 +322,11 @@ class=&quot;mktoText&quot; 가 있는 HTML 요소(제공된 경우) 내의 콘�
 
 선언 예:
 
-`<pre data-theme="Confluence"><meta class="mktoImg" id="heroBackgroundImage" mktoName="Hero Background Image" default="https://www.company.com/image.jpg"></pre>`
+`<meta class="mktoImg" id="heroBackgroundImage" mktoName="Hero Background Image" default="https://www.company.com/image.jpg">`
 
 사용 예:
 
-`<pre data-theme="Confluence">${heroBackgroundImage}</pre>`
+`${heroBackgroundImage}`
 
 ## 모듈 {#modules}
 
@@ -362,7 +362,7 @@ class=&quot;mktoModule&quot;인 `<table>`을(를) 사용하여 지정됨
 
 컨테이너에는 모듈이 보관되어 있고 모듈을 배치할 수 있는 위치를 정의합니다. 최종 사용자가 모듈 순서를 다시 지정하고 이메일에 모듈을 삽입하면 컨테이너가 이동할 위치를 제어합니다.
 
-**클래스=&quot;mktoContainer&quot;**&#x200B;의 `<table>`, `<tbody>`, `<thead>`, `<tfoot>` 또는 `<td>`을(를) 사용하여 지정됨
+**클래스=&quot;mktoContainer&quot;**&#x200B;인 `<table>`, `<tbody>`, `<thead>`, `<tfoot>` 또는 `<td>`을(를) 사용하여 지정됨
 
 필수 속성
 
