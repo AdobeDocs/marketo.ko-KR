@@ -3,9 +3,9 @@ description: 대화형 웨비나 홍보 - Marketo 문서 - 제품 설명서
 title: 대화형 웨비나 홍보
 feature: Interactive Webinars
 exl-id: d26f91ce-3a95-4247-9a52-085260bb15e8
-source-git-commit: dbf058714f6c4e6003c5a64d1048ac8a47931a0f
+source-git-commit: 6747a7b85047024d295ecc2c061bb6370ccfe0b9
 workflow-type: tm+mt
-source-wordcount: '653'
+source-wordcount: '654'
 ht-degree: 0%
 
 ---
@@ -34,7 +34,7 @@ ht-degree: 0%
 
 등록 후 몇 분 안에 멤버의 웨비나 URL이 [멤버] 탭에서 채워집니다. 웨비나 URL에 대한 열을 찾을 수 없는 경우 열이 보기에 추가되었는지 확인하십시오. 등록된 각 멤버가 인증 없이 예약된 시간에 웨비나에 입력할 수 있도록 개인화된 URL입니다. 내부적으로 교환되는 토큰은 회원들의 인증을 대신한다.
 
-토큰을 사용하여 이메일 캠페인에 개별 구성원에 대한 웨비나 URL을 포함시켜 이벤트에 등록되었음을 알리고 가입 URL을 사용하여 예약된 시간에 웨비나를 입력할 수 있습니다. 동일한 이메일 캠페인에서 달력 토큰을 사용하여 웨비나 일정을 구성원의 달력에 추가할 수 있습니다.
+`{{member.webinar url}}` [token](/help/marketo/product-docs/demand-generation/landing-pages/personalizing-landing-pages/tokens-overview.md){target="_blank"}을 사용하여 전자 메일 캠페인에 개별 구성원의 웨비나 URL을 포함하여 이벤트에 등록되었음을 알리고 예약된 시간에 가입 URL을 사용하여 웨비나를 입력할 수 있습니다. 동일한 이메일 캠페인에서 달력 토큰을 사용하여 웨비나 일정을 구성원의 달력에 추가할 수 있습니다.
 
 링크는 이벤트 프로그램의 개요 탭 오른쪽에 있어 랜딩 페이지와 이메일 캠페인을 만들 수 있습니다. 이벤트와 관련된 나머지 프로모션은 Launchpoint 통합을 사용하여 파트너 웨비나와 동일하게 유지됩니다.
 
