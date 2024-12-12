@@ -3,7 +3,7 @@ description: 대화형 웨비나 홍보 - Marketo 문서 - 제품 설명서
 title: 대화형 웨비나 홍보
 feature: Interactive Webinars
 exl-id: d26f91ce-3a95-4247-9a52-085260bb15e8
-source-git-commit: 6747a7b85047024d295ecc2c061bb6370ccfe0b9
+source-git-commit: 88c1e40734a980b54f9d7f056399cf9ec2e0e100
 workflow-type: tm+mt
 source-wordcount: '654'
 ht-degree: 0%
@@ -16,7 +16,7 @@ ht-degree: 0%
 
 ![](assets/promoting-an-interactive-webinar-1.png)
 
-구성원을 추가하거나 가져온 후 대화형 웨비나 이벤트 프로그램 내에서 이메일 캠페인을 만들어 모든 프로그램 구성원에게 초대를 보내고, 이메일이 배달되면 상태를 &quot;초대됨&quot;으로 변경할 수 있습니다.
+구성원을 추가하거나 가져온 후 대화형 웨비나 이벤트 프로그램 내에서 이메일 캠페인을 만들어 모든 프로그램 구성원에게 초대장을 보내고, 이메일이 배달되면 상태를 &quot;초대됨&quot;으로 변경할 수 있습니다.
 
 >[!NOTE]
 >
