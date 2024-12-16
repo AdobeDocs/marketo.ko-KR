@@ -4,9 +4,9 @@ description: 사용자 역할 및 권한 관리 - Marketo 문서 - 제품 설명
 title: 사용자 역할 및 권한 관리
 exl-id: e0213c5f-04e0-41a9-ac7b-873e2e39ac79
 feature: Users and Roles
-source-git-commit: 02b2e39580c5eac63de4b4b7fdaf2a835fdd4ba5
+source-git-commit: c10ecc0ccad28f2e480343acefe10f5eca2ae578
 workflow-type: tm+mt
-source-wordcount: '486'
+source-wordcount: '489'
 ht-degree: 0%
 
 ---
@@ -103,7 +103,7 @@ Adobe ID가 있는 Marketo을 사용하는 경우 프로필 설명 목록 [은(�
 
    ![](assets/managing-user-roles-and-permissions-13.png)
 
-1. 필요한 경우 **[!UICONTROL 역할 이름]** 및 **[!UICONTROL 설명]**&#x200B;을 변경한 다음 관련 **[!UICONTROL 권한]**&#x200B;의 선택을 변경하십시오.
+1. 필요한 경우 **[!UICONTROL 역할 이름]** 및 **[!UICONTROL 설명]**&#x200B;을 변경하고, 관련된 **[!UICONTROL 권한]**&#x200B;의 선택을 변경하고, 완료되면 **[!UICONTROL 저장]**&#x200B;을 클릭하세요.
 
    ![](assets/managing-user-roles-and-permissions-14.png)
 

@@ -1,10 +1,10 @@
 ---
 unique-page-id: 2360364
-description: 2단계/3단계 - Marketo용 Salesforce 사용자 만들기(Enterprise/Unlimited) - Marketo 문서 - 제품 설명서
+description: 3단계 중 2단계 - Marketo용 Salesforce 사용자 만들기(Enterprise/Unlimited) - Marketo 문서 - 제품 설명서
 title: 2/3단계 - Marketo용 Salesforce 사용자 만들기(Enterprise/Unlimited)
 exl-id: 871f335c-7b1e-47e1-8320-a18fbf21a970
 feature: Salesforce Integration
-source-git-commit: 4045f262889d06304111288d30da893529396e81
+source-git-commit: c10ecc0ccad28f2e480343acefe10f5eca2ae578
 workflow-type: tm+mt
 source-wordcount: '428'
 ht-degree: 3%
@@ -15,13 +15,13 @@ ht-degree: 3%
 
 >[!NOTE]
 >
->Salesforce 관리자가 이러한 단계를 완료해야 합니다.
+>이 단계는 Salesforce 관리자가 완료해야 합니다
 
 >[!PREREQUISITES]
 >
 >[3단계 중 1단계: Salesforce(Enterprise/Unlimited)에 Marketo 필드 추가](/help/marketo/product-docs/crm-sync/salesforce-sync/setup/enterprise-unlimited-edition/step-1-of-3-add-marketo-fields-to-salesforce-enterprise-unlimited.md){target="_blank"}
 
-이 문서에서는 Salesforce 프로필에 사용자 권한을 설정하고 Marketo-Salesforce 통합 계정을 만듭니다.
+이 문서에서는 Salesforce 프로필에서 사용자 권한을 설정하고 Marketo-Salesforce 통합 계정을 만듭니다.
 
 ## 프로필 만들기 {#create-a-profile}
 
@@ -124,20 +124,20 @@ ht-degree: 3%
 <table> 
  <tbody> 
   <tr> 
-   <th colspan="1" rowspan="1"><p>오브젝트</p></th> 
-   <th colspan="1" rowspan="1"><p>필드</p></th> 
+   <th>오브젝트</th> 
+   <th>필드</th> 
   </tr> 
   <tr> 
-   <td colspan="1" rowspan="1"><p>계정</p></td> 
-   <td colspan="1" rowspan="1"><p>필드 입력</p></td> 
+   <td>계정</td> 
+   <td>필드 입력</td> 
   </tr> 
   <tr> 
-   <td colspan="1" rowspan="1"><p>이벤트</p></td> 
-   <td colspan="1" rowspan="1"><p>모든 필드</p></td> 
+   <td>이벤트</td> 
+   <td>모든 필드</td> 
   </tr> 
   <tr> 
-   <td colspan="1" rowspan="1"><p>작업</p></td> 
-   <td colspan="1" rowspan="1"><p>모든 필드</p></td> 
+   <td>작업</td> 
+   <td>모든 필드</td> 
   </tr> 
  </tbody> 
 </table>
@@ -148,7 +148,7 @@ ht-degree: 3%
 
 >[!TIP]
 >
->Marketo에서 변경한 사항과 다른 Salesforce 사용자를 구별하기 위해 전용 Salesforce 계정(예: `marketo@yourcompany.com`)을 만드십시오.
+>전용 Salesforce 계정(예: `marketo@yourcompany.com`)을 만들어 Marketo 사용자와 다른 Salesforce 사용자가 변경한 내용을 구별합니다.
 
 1. 탐색 검색 창에 &quot;사용자 관리&quot;를 입력한 다음 **[!UICONTROL 사용자]**&#x200B;를 클릭합니다. **[!UICONTROL 새 사용자]**&#x200B;를 클릭합니다.
 

@@ -4,9 +4,9 @@ description: 확대/축소를 사용하여 이벤트 만들기 - Marketo 문서 
 title: 확대/축소를 사용하여 이벤트 만들기
 exl-id: 6a2aec58-902c-4e40-ab59-9cc33ec83cea
 feature: Events
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: c10ecc0ccad28f2e480343acefe10f5eca2ae578
 workflow-type: tm+mt
-source-wordcount: '553'
+source-wordcount: '565'
 ht-degree: 0%
 
 ---
@@ -103,4 +103,4 @@ Marketo 이벤트를 만들고 Zoom 웨비나를 관련 지으면 시스템에�
 
    >[!TIP]
    >
-   >Marketo에 데이터가 표시되는 데 최대 48시간이 걸릴 수 있습니다. 그렇게 오래 기다린 후에도 아무 것도 표시되지 않으면 이벤트의 **요약** 탭에 있는 이벤트 작업 메뉴에서 **웨비나 공급자에서 새로 고침**&#x200B;을 선택하십시오.
+   >Marketo에 데이터가 표시되는 데 최대 48시간이 걸릴 수 있습니다. 그렇게 오래 기다린 후에도 아무것도 표시되지 않으면 이벤트의 **요약** 탭에 있는 이벤트 작업 메뉴에서 **웨비나 공급자에서 새로 고침**&#x200B;을 선택한 다음 화면 오른쪽 하단에 있는 새로 고침 아이콘을 클릭합니다.

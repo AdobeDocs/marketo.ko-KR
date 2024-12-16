@@ -4,9 +4,9 @@ description: Adobe Experience Cloud에 목록 보내기 - Marketo 문서 - 제�
 title: Adobe Experience Cloud에 목록 보내기
 exl-id: 770eefe1-05f9-409d-8e7c-b3f1e6ba8139
 feature: Static Lists
-source-git-commit: 208ba59e3a5cb8e613e887b4c89e51cec4b3f897
+source-git-commit: c10ecc0ccad28f2e480343acefe10f5eca2ae578
 workflow-type: tm+mt
-source-wordcount: '759'
+source-wordcount: '784'
 ht-degree: 1%
 
 ---
@@ -94,28 +94,30 @@ ht-degree: 1%
 
 **Adobe Analytics에 공유**
 
-Adobe Audience Manager과 Adobe Analytics을 모두 소유하는 고객의 경우, 이 통합을 통해 대상을 Marketo에서 Adobe Analytics 보고서 세트로 공유할 수 있지만, 이를 활성화하기 위해 Adobe Audience Manager에서 수행해야 하는 몇 가지 추가 구성 단계가 있습니다. 설정 방법에 대한 자세한 내용은 [Adobe Audience Manager의 설명서](https://experienceleague.adobe.com/docs/analytics/integration/audience-analytics/mc-audiences-aam.html){target="_blank"}를 검토하십시오.
+* Adobe Audience Manager과 Adobe Analytics을 모두 소유하는 고객의 경우, 이 통합을 통해 대상을 Marketo에서 Adobe Analytics 보고서 세트로 공유할 수 있지만, 이를 활성화하기 위해 Adobe Audience Manager에서 수행해야 하는 몇 가지 추가 구성 단계가 있습니다. 설정 방법에 대한 자세한 내용은 [Adobe Audience Manager의 설명서](https://experienceleague.adobe.com/docs/analytics/integration/audience-analytics/mc-audiences-aam.html){target="_blank"}를 검토하십시오.
+
+* 목록이 비어 있거나 ECID 값을 가진 사용자가 없는 경우 Marketo Engage 외부에서 참조하도록 목록 이름이 푸시되지 않습니다.
 
 **Adobe Audience Manager 고객의 트레이트 사용**
 
 Marketo에서 목록 내보내기를 시작하면 Adobe Audience Manager 인스턴스에 다음과 같은 변경 사항이 반영됩니다.
 
-* 내보낸 목록의 모든 리드에 대해 Marketo은 리드의 해시된 이메일을 크로스 디바이스 식별자로 사용하여 트레이트를 기록합니다. 트레이트 이름은 내보내는 동안 지정한 대상 대상 대상 이름과 일치합니다.
-* Marketo이 내보낸 목록의 리드와 일치되도록 관리한 모든 ECID에 대해 Marketo은 ECID 장치 식별자를 사용하여 트레이트를 기록합니다. 트레이트 이름은 내보내는 동안 지정한 대상 대상 대상 이름과 일치합니다.
+* 내보낸 목록에 있는 모든 사람에 대해 Marketo은 해시된 이메일을 교차 장치 식별자로 사용하여 트레이트를 기록합니다. 트레이트 이름은 내보내는 동안 지정한 대상 대상 대상 이름과 일치합니다.
+* Marketo에서 관리한 모든 ECID가 내보낸 목록의 사용자에 해당하는 경우 Marketo은 ECID 장치 식별자를 사용하여 트레이트를 기록합니다. 트레이트 이름은 내보내는 동안 지정한 대상 대상 대상 이름과 일치합니다.
 * Marketo은 ECID 트레이트를 유일한 세그멘테이션 기준으로 사용하여 Audience Manager 인스턴스에 세그먼트를 만들기도 합니다. 세그먼트 이름은 내보내는 동안 지정한 대상 대상 대상 이름과 일치합니다.
 
 ## FAQ {#faq}
 
 **Marketo의 목록 크기가 Adobe의 목록 크기와 다른 이유는 무엇입니까?**
 
-후드에서 대상 통합은 Marketo Munchkin 쿠키를 해당 Adobe ECID 쿠키와 동기화하여 작동합니다. Marketo은 Marketo이 ECID를 동기화한 리드에 대한 멤버십 데이터만 공유할 수 있습니다. 최상의 결과를 얻으려면 마케팅 목적으로 추적하려는 모든 페이지에서 Marketo의 munchkin.js 추적 스크립트를 Adobe의 visitor.js 추적 코드와 동시에 로드하는 것이 좋습니다.
+Hood에서 대상 통합은 Marketo Munchkin 쿠키를 해당 Adobe ECID 쿠키와 동기화하여 작동합니다. Marketo은 Marketo이 ECID를 동기화한 사용자에 대한 멤버십 데이터만 공유할 수 있습니다. 최상의 결과를 얻으려면 마케팅 목적으로 추적하려는 모든 페이지에서 Marketo의 munchkin.js 추적 스크립트를 Adobe의 visitor.js 추적 코드와 동시에 로드하는 것이 좋습니다.
 
 **쿠키 동기화는 어떻게 작동합니까?**
 
 Marketo 구독에 대해 쿠키 동기화가 활성화되면 Marketo의 munchkin.js가 통합 설정 중에 지정한 Adobe IMS 조직의 Adobe ECID를 캡처하고 저장하고 이 ECID를 해당 Marketo 쿠키 식별자와 일치시키려고 합니다. 이렇게 하면 Marketo의 익명 사용자 프로필이 Adobe ECID로 보강될 수 있습니다.
 
-일반 텍스트 이메일을 사용하여 식별된 잠재 고객 프로필에 익명 사용자 프로필을 연결하는 추가 단계가 필요합니다. 작동 방식은 [여기에서 설명](/help/marketo/product-docs/reporting/basic-reporting/report-activity/tracking-anonymous-activity-and-people.md){target="_blank"}됩니다.
+일반 텍스트 이메일을 사용하여 식별된 개인 프로필에 익명 사용자 프로필을 연결하는 추가 단계가 필요합니다. 작동 방식은 [여기에서 설명](/help/marketo/product-docs/reporting/basic-reporting/report-activity/tracking-anonymous-activity-and-people.md){target="_blank"}됩니다.
 
 **어떤 정보가 공유됩니까?**
 
-이 통합은 MarketoAdobe 의 목록 멤버십 정보만 공유합니다(예: 리드 X가 목록 Y의 멤버라는 지식). 이 통합을 통해 추가적인 리드 속성이 Adobe에 공유되지 않습니다.
+이 통합은 MarketoAdobe 의 목록 멤버십 정보만 공유합니다(예: 개인 X가 목록 Y의 멤버라는 지식). 이 통합을 통해 추가적인 개인 속성이 Adobe에 공유되지 않습니다.
