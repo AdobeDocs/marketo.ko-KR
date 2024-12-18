@@ -3,7 +3,7 @@ description: 최신 릴리스 정보 - Marketo 설명서 - 제품 설명서
 title: 최신 릴리스 정보
 exl-id: a2eccad5-73ad-48f9-8091-51cee23824e1
 feature: Release Information
-source-git-commit: 4e13fbba90efcecf8f22e4d8cdc5173e6f6f43a4
+source-git-commit: bf6525359d8bc206ed01220823b6c1de5734df55
 workflow-type: tm+mt
 source-wordcount: '395'
 ht-degree: 2%
@@ -41,23 +41,21 @@ Adobe Dynamic Chat [에 대한 릴리스 정보는 여기에서 찾을 수 있�
    <td> </td>
    <td> </td>
   </tr>
-  </tr>
   <tr> 
    <td><strong>대화형 웨비나에서 이벤트에서 등록자를 등록 취소</strong>: 이제 어떤 이유로든 등록자를 웨비나에 등록하지 않으려면 등록을 취소할 수 있습니다. 이 워크플로우는 Marketo 이벤트 프로그램과 Adobe Connect 모두에서 등록자를 제거합니다.</td> 
    <td><i>곧 출시 예정</i></td>
    <td><i>곧 출시 예정</i></td>
   </tr>
   <tr> 
-  <tr> 
    <td> </td> 
    <td> </td>
    <td> </td>
+  </tr>
   <tr> 
    <td><strong>보관 중인 캠페인 사용 안 함</strong>: 활성 트리거 캠페인을 사용하지 않도록 설정하고 보관된 폴더의 예약된 캠페인 일괄 실행을 취소합니다. 활성 캠페인(트리거 캠페인 활성화 및 일괄 캠페인 예약)이 포함된 폴더를 보관하기 위한 추가 권한 확인이 있으므로 이 기능은 이 릴리스에서 기본적으로 비활성화되며, Marketo Engage 구독에서 <b>관리자</b> &gt; <b>보물 상자</b>(으)로 이동하여 활성화할 수 있습니다.</td> 
    <td><i>곧 출시 예정</i></td>
    <td><i>곧 출시 예정</i></td>
   </tr>
-  <tr> 
  </tbody> 
 </table>
 <br/>
