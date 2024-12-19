@@ -3,9 +3,9 @@ description: Identity Management FAQ Adobe - Marketo 문서 - 제품 설명서
 title: IDENTITY MANAGEMENT FAQ ADOBE
 feature: Marketo with Adobe Identity
 exl-id: 2401def7-1696-4d77-a8a3-96c490517121
-source-git-commit: 525417cc289d918f6ff8038c1c293f5c4aca0f9c
+source-git-commit: ec0fcba763a50348c3424a1ba33c5fc700093c68
 workflow-type: tm+mt
-source-wordcount: '1484'
+source-wordcount: '1521'
 ht-degree: 0%
 
 ---
@@ -34,7 +34,7 @@ Adobe Identity Management 시스템은 세 가지 구성 요소로 구성됩니�
 
 예. 마이그레이션 후 Marketo Engage은 experience.adobe.com에서 Adobe Experience Cloud으로 제공됩니다. Marketo Engage 액세스가 중단되지 않도록 IT 팀과 함께 ](/help/marketo/getting-started/initial-setup/configure-protocols-for-marketo.md){target="_blank"} 문서 상단에 나열된 모든 Adobe 도메인을 허용 목록 0해야 합니다.[
 
-engage-xx.marketo.com 도메인 _will_&#x200B;의 Marketo Engage 자산에 대한 이전 링크와 책갈피가 계속 작동합니다. 그러나 먼저 탐색 중인 URL의 Marketo Engage 인스턴스에 로그인해야 합니다. 예를 들어 Munchkin ID 123-ABC-456이 있는 인스턴스에서 Smart Campaign에 대한 책갈피로 이동하려면 먼저 Munchkin ID 123-ABC-456으로 Marketo Engage 인스턴스에 로그인해야 합니다.
+engage-xx.marketo.com 도메인 _will_&#x200B;의 Marketo Engage 자산에 대한 이전 링크와 책갈피가 계속 작동합니다. 그러나 먼저 탐색 중인 URL의 Marketo Engage 인스턴스에 로그인해야 합니다. 예를 들어 Munchkin ID 123-ABC-456이 있는 인스턴스에서 스마트 캠페인에 대한 책갈피로 이동하려면 먼저 Munchkin ID 123-ABC-456으로 Marketo Engage 인스턴스에 로그인해야 합니다.
 
 **Adobe 제품 관리자와 Marketo Engage 관리자 간의 차이점은 무엇입니까?**
 
@@ -56,7 +56,7 @@ engage-xx.marketo.com 도메인 _will_&#x200B;의 Marketo Engage 자산에 대�
 
 * 사후 지원 마이그레이션 완료: 제품 지원 관리자는 Experience League 지원 포털을 통해 사례를 제출할 수 있습니다.
 
-최종 성공을 거두셨다면 Admin Console 마이그레이션 화이트 글러브 서비스에 액세스할 수 있습니다. 도움이 필요하면 Adobe 계정 팀(계정 관리자)에 문의하십시오.
+Ultimate에 성공하면 Admin Console 마이그레이션 화이트 글러브 서비스에 액세스할 수 있습니다. 도움이 필요하면 Adobe 계정 팀(계정 관리자)에 문의하십시오.
 
 **Adobe ID를 사용하여 다른 Adobe 응용 프로그램에 액세스하는 경우 해당 ID를 사용하여 Marketo에 액세스할 수 있습니까?**
 
@@ -130,9 +130,13 @@ Adobe ID에 구독을 온보딩할 때 IP 제한 설정이 Adobe Admin Console�
 
 구독이 Adobe ID에 온보딩되면 Adobe 조직 수준에서 SSO(Single Sign-On)가 설정됩니다. 즉, SSO는 Adobe 조직의 모든 제품 인스턴스에 적용됩니다. SSO가 설정되면 이 SSO는 해당 Adobe 조직의 모든 Marketo 인스턴스에 적용됩니다. 이전에는 Marketo에서 인스턴스 수준에서 이 설정을 지원했습니다. Adobe Identity Management 시스템에서 지원되지 않습니다.
 
-**Adobe ID 마이그레이션 후 Marketo Engage에 현재 사용하는 CNAME, SPF 또는 DKIM을 변경해야 합니까?**
+**Adobe ID 마이그레이션 후 Marketo Engage에 현재 사용하는 CNAME, SPF 또는 DKIM에 변경 사항이 있습니까?**
 
 아니요. 이러한 구성에는 영향을 주지 않습니다.
+
+**세션 시간 초과를 방지하려면 어떻게 해야 합니까?**
+
+[고급 설정](https://helpx.adobe.com/enterprise/using/authentication-settings.html#advanced-settings)에서 원하는 최대 세션 수명을 사용자 지정할 수 있습니다(시스템 관리자 권한 필요). 제품 마이그레이션 후, 사용자 마이그레이션 전에 이 설정을 설정하는 것이 좋습니다.
 
 **이제 Marketo Engage에 액세스하려면 Experience Cloud으로 이동해야 합니다. 이 흐름을 간소화할 방법이 있습니까?**
 
