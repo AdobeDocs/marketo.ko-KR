@@ -3,7 +3,7 @@ description: Identity Management FAQ Adobe - Marketo 문서 - 제품 설명서
 title: IDENTITY MANAGEMENT FAQ ADOBE
 feature: Marketo with Adobe Identity
 exl-id: 2401def7-1696-4d77-a8a3-96c490517121
-source-git-commit: ec0fcba763a50348c3424a1ba33c5fc700093c68
+source-git-commit: 989804463f44afbf35ab11c0f23c37b0d328e652
 workflow-type: tm+mt
 source-wordcount: '1521'
 ht-degree: 0%
@@ -136,7 +136,7 @@ Adobe ID에 구독을 온보딩할 때 IP 제한 설정이 Adobe Admin Console�
 
 **세션 시간 초과를 방지하려면 어떻게 해야 합니까?**
 
-[고급 설정](https://helpx.adobe.com/enterprise/using/authentication-settings.html#advanced-settings)에서 원하는 최대 세션 수명을 사용자 지정할 수 있습니다(시스템 관리자 권한 필요). 제품 마이그레이션 후, 사용자 마이그레이션 전에 이 설정을 설정하는 것이 좋습니다.
+[고급 설정](https://helpx.adobe.com/enterprise/using/authentication-settings.html#advanced-settings){target="_blank"}에서 원하는 최대 세션 수명을 사용자 지정할 수 있습니다(시스템 관리자 권한 필요). 제품 마이그레이션 후, 사용자 마이그레이션 전에 이 설정을 설정하는 것이 좋습니다.
 
 **이제 Marketo Engage에 액세스하려면 Experience Cloud으로 이동해야 합니다. 이 흐름을 간소화할 방법이 있습니까?**
 

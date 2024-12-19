@@ -1,10 +1,10 @@
 ---
 unique-page-id: 2360362
-description: 1단계/3단계 - Salesforce에 Marketo 필드 추가(Enterprise/Unlimited) - Marketo 문서 - 제품 설명서
+description: 3단계 중 1단계 - Salesforce에 Marketo 필드 추가(Enterprise/Unlimited) - Marketo 문서 - 제품 설명서
 title: 1단계/3단계 - Salesforce에 Marketo 필드 추가(Enterprise/Unlimited)
 exl-id: bcfba281-0d4b-42c3-b52a-ce1c3da884ba
 feature: Salesforce Integration
-source-git-commit: 4045f262889d06304111288d30da893529396e81
+source-git-commit: 989804463f44afbf35ab11c0f23c37b0d328e652
 workflow-type: tm+mt
 source-wordcount: '766'
 ht-degree: 7%
@@ -15,15 +15,15 @@ ht-degree: 7%
 
 >[!PREREQUISITES]
 >
->Marketo Engage과 Salesforce 간에 동기화하려면 Salesforce API에 대한 액세스 권한이 있어야 합니다.
+>Marketo Engage과 Salesforce 간에 동기화하려면 Salesforce API에 액세스할 수 있어야 합니다.
 
-Marketo은 일련의 필드를 사용하여 특정 종류의 마케팅 관련 정보를 캡처합니다. 이 데이터를 Salesforce에 보관하려면 아래 지침을 따르십시오.
+Marketo은 일련의 필드를 사용하여 특정 종류의 마케팅 관련 정보를 캡처합니다. Salesforce에서 이 데이터를 사용하려면 아래 지침을 따르십시오.
 
-1. Salesforce에서 잠재 고객 및 연락처 개체에 대한 세 가지 사용자 지정 필드(점수, 획득 프로그램 및 획득 날짜)를 만듭니다.
-1. Salesforce에서 전환 시 값이 이월되도록 이러한 사용자 정의 필드를 리드와 연락처 간에 매핑합니다.
+1. 잠재 고객 및 연락처 개체에 대해 Salesforce에서 스코어, 획득 프로그램 및 획득 날짜의 세 가지 사용자 정의 필드를 만듭니다.
+1. 이러한 사용자 정의 필드를 리드와 연락처 간에 매핑하여 Salesforce에서 전환 시 값이 이월되도록 합니다.
 1. 필요한 경우 다른 추가 필드를 만들 수 있습니다(아래 표 참조).
 
-이러한 모든 사용자 정의 필드는 선택 사항이며 Marketo 및 Salesforce를 동기화하는 데 필요하지 않습니다. 가장 좋은 방법은 점수, 획득 프로그램 및 획득 날짜에 대한 필드를 만드는 것입니다.
+이러한 모든 사용자 지정 필드는 선택 사항이며 Marketo 및 Salesforce을 동기화하는 데 필요하지 않습니다. 가장 좋은 방법은 점수, 획득 프로그램 및 획득 날짜에 대한 필드를 만드는 것입니다.
 
 ## Salesforce에 Marketo 필드 추가 {#add-marketo-fields-to-salesforce}
 
@@ -76,7 +76,7 @@ Marketo은 일련의 필드를 사용하여 특정 종류의 마케팅 관련 �
  </thead> 
  <tbody> 
   <tr> 
-   <td>스코어</td> 
+   <td>점수</td> 
    <td>mkto71_Lead_Score</td> 
    <td>숫자</td> 
    <td>길이 10<br>소수점 이하 자리 수 0 </td> 
@@ -98,7 +98,7 @@ Marketo은 일련의 필드를 사용하여 특정 종류의 마케팅 관련 �
 
 >[!NOTE]
 >
->Salesforce는 __c를 사용하여 API 이름을 만들 때 필드 이름에 추가합니다.
+>Salesforce은 __c를 사용하여 API 이름을 만들 때 필드 이름에 추가합니다.
 
 ![](assets/image2016-5-26-14-3a55-3a33.png)
 
@@ -238,11 +238,11 @@ Marketo은 일련의 필드를 사용하여 특정 종류의 마케팅 관련 �
 
 >[!NOTE]
 >
->새 필드를 만들 때 Marketo에서 자동으로 할당한 필드의 값을 Salesforce에서 즉시 사용할 수 없습니다. Marketo은 두 시스템 중 하나의 레코드에 대한 다음 업데이트(즉, Marketo과 Salesforce 간에 동기화되는 필드 중 하나에 대한 업데이트) 시 데이터를 Salesforce에 동기화합니다.
+>새 필드를 만들 때 Marketo에서 자동으로 할당한 필드의 값을 Salesforce에서 즉시 사용할 수 없습니다. Marketo은 두 시스템 중 하나의 레코드에 대한 다음 업데이트(즉, Marketo과 Salesforce 간에 동기화되는 필드 중 하나에 대한 업데이트)시 데이터를 Salesforce에 동기화합니다.
 
 ## 전환을 위한 사용자 정의 필드 매핑 {#map-custom-fields-for-conversions}
 
-Salesforce의 리드 개체에 있는 사용자 지정 필드는 전환이 발생할 때 데이터가 전달되도록 연락처 개체에 있는 연락처 필드에 매핑되어야 합니다.
+Salesforce의 잠재 고객 개체에 있는 사용자 지정 필드는 전환이 발생할 때 데이터가 전달되도록 연락처 개체의 연락처 필드에 매핑되어야 합니다.
 
 1. 오른쪽 상단 모서리에서 **[!UICONTROL 설정]**&#x200B;을 클릭합니다.
 
