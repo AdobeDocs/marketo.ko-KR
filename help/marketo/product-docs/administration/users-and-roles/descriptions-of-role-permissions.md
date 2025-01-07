@@ -4,9 +4,9 @@ description: 역할 권한 설명 - Marketo 문서 - 제품 설명서
 title: 역할 권한 설명
 exl-id: 00963cd9-2d53-455f-bc6f-42a573468ff9
 feature: Users and Roles
-source-git-commit: 548f3f84bf6a7d39dadbf1eb5069618c4f4d44b5
+source-git-commit: c79de5b87d75c26aeec5f8d39252dc303dabeac8
 workflow-type: tm+mt
-source-wordcount: '1429'
+source-wordcount: '1448'
 ht-degree: 0%
 
 ---
@@ -44,6 +44,7 @@ ht-degree: 0%
 * 액세스 [[!DNL Data.com]](https://data.com) - 사용자에게 Data.com 흐름 작업에 대한 액세스 권한을 제공합니다.
 * 이메일 관리자 액세스 - 사용자에게 이메일 관리자에 대한 액세스 권한을 부여하여 구독 취소 및 브랜딩 도메인과 같은 기본 설정을 변경할 수 있습니다.
 * 액세스 이벤트 파트너 - 사용자에게 관리자의 LaunchPoint에 대한 액세스 권한을 제공합니다.
+* Experience Cloud 대상 공유 액세스 - 사용자에게 Adobe Experience Cloud에서 Marketo Engage으로 대상을 동기화할 수 있는 액세스 권한을 제공합니다.
 * 액세스 필드 관리 - 사용자에게 관리자의 필드 관리에 대한 액세스 권한을 제공합니다.
 * Access 파일 업로드 - 사용자에게 이미지와 파일을 Design Studio에 업로드할 수 있습니다.
 * 랜딩 페이지 액세스 - 사용자에게 관리자의 랜딩 페이지에 대한 액세스 권한을 제공합니다.
