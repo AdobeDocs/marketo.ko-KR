@@ -2,9 +2,10 @@
 description: 대화형 웨비나 홍보 - Marketo 문서 - 제품 설명서
 title: 대화형 웨비나 홍보
 feature: Interactive Webinars
-source-git-commit: 75035e6ae7989aaf3ed6cedd7fdab42c79ab8f37
+exl-id: d26f91ce-3a95-4247-9a52-085260bb15e8
+source-git-commit: f5b66521f678b2aa618d270077292ddd9b8775c3
 workflow-type: tm+mt
-source-wordcount: '776'
+source-wordcount: '777'
 ht-degree: 0%
 
 ---
@@ -14,6 +15,8 @@ ht-degree: 0%
 대화형 웨비나를 프로모션하는 것은 Launchpoint를 통해 파트너 웨비나를 프로모션하는 것과 비슷합니다. 대화형 웨비나 이벤트 프로그램을 만들 때 캠페인을 실행하거나 프로그램에 멤버를 가져와서 멤버를 추가할 수 있습니다. 대화형 웨비나 이벤트 프로그램에 추가된 구성원을 확인하려면 **[!UICONTROL 구성원]** 탭을 클릭하십시오.
 
 ![](assets/promoting-an-interactive-webinar-1.png)
+
+## 개요 {#overview}
 
 구성원을 추가하거나 가져온 후 대화형 웨비나 이벤트 프로그램 내에서 이메일 캠페인을 만들어 모든 프로그램 구성원에게 초대장을 보내고, 이메일이 배달되면 상태를 &quot;초대됨&quot;으로 변경할 수 있습니다.
 
