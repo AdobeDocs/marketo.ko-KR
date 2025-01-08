@@ -2,16 +2,17 @@
 description: 대화형 웨비나 홍보 - Marketo 문서 - 제품 설명서
 title: 대화형 웨비나 홍보
 feature: Interactive Webinars
+exl-id: d26f91ce-3a95-4247-9a52-085260bb15e8
 source-git-commit: 75035e6ae7989aaf3ed6cedd7fdab42c79ab8f37
 workflow-type: tm+mt
-source-wordcount: '776'
+source-wordcount: '654'
 ht-degree: 0%
 
 ---
 
 # 대화형 웨비나 홍보 {#promoting-an-interactive-webinar}
 
-대화형 웨비나를 프로모션하는 것은 Launchpoint를 통해 파트너 웨비나를 프로모션하는 것과 비슷합니다. 대화형 웨비나 이벤트 프로그램을 만들 때 캠페인을 실행하거나 프로그램에 멤버를 가져와서 멤버를 추가할 수 있습니다. 대화형 웨비나 이벤트 프로그램에 추가된 구성원을 확인하려면 **[!UICONTROL 구성원]** 탭을 클릭하십시오.
+대화형 웨비나를 프로모션하는 것은 Launchpoint를 통해 파트너 웨비나를 프로모션하는 것과 비슷합니다. 대화형 웨비나 이벤트 프로그램을 만들 때 캠페인을 실행하거나 프로그램에 멤버를 가져와서 멤버를 추가할 수 있습니다. 대화형 웨비나 이벤트 프로그램에 추가된 구성원을 확인하려면 **구성원** 탭을 클릭하십시오.
 
 ![](assets/promoting-an-interactive-webinar-1.png)
 
@@ -49,50 +50,13 @@ ht-degree: 0%
 
 **토큰 목록**
 
-<table><thead>
-  <tr>
-    <th>토큰</th>
-    <th>정의</th>
-  </tr></thead>
-<tbody>
-  <tr>
-    <td>program.webinarCapacity</td>
-    <td>대화형 웨비나에 참여할 수 있는 최대 참석자 수입니다.</td>
-  </tr>
-  <tr>
-    <td>program.webinarDuration</td>
-    <td>대화형 웨비나가 예약된 기간입니다.</td>
-  </tr>
-  <tr>
-    <td>program.webinarEndDate</td>
-    <td>예약된 대화형 웨비나의 종료 날짜입니다.</td>
-  </tr>
-  <tr>
-    <td>program.webinarEndTime</td>
-    <td>대화형 웨비나의 예약된 종료 시간입니다.</td>
-  </tr>
-  <tr>
-    <td>program.webinarGenericURL</td>
-    <td>대상자 포스트 웨비나와 공유할 수 있는 일반 레코딩 URL. 이 URL은 웨비나 라이브 참석을 위한 것이 아니며 대상자의 활동을 추적하지 않습니다.</td>
-  </tr>
-  <tr>
-    <td>program.webinarLanguage</td>
-    <td>웨비나를 수행할 언어입니다.</td>
-  </tr>
-  <tr>
-    <td>program.webinarStartDate</td>
-    <td>예약된 대화형 웨비나의 시작 날짜입니다.</td>
-  </tr>
-  <tr>
-    <td>program.webinarStartTime</td>
-    <td>대화형 웨비나의 예약된 시작 시간입니다.</td>
-  </tr>
-  <tr>
-    <td>program.webinarTimezone</td>
-    <td>대화형 웨비나가 예약된 시간대입니다.</td>
-  </tr>
-  <tr>
-    <td>program.webinarTitle</td>
-    <td>웨비나 시작 Screens에서 대상자가 볼 수 있는 대화형 웨비나의 제목입니다.</td>
-  </tr>
-</tbody></table>
+* program.webinarCapacity
+* program.webinarDuration
+* program.webinarEndDate
+* program.webinarEndTime
+* program.webinarGenericURL
+* program.webinarLanguage
+* program.webinarStartDate
+* program.webinarStartTime
+* program.webinarTimezone
+* program.webinarTitle
