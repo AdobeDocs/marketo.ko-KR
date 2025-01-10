@@ -4,7 +4,7 @@ description: 모바일 푸시 알림 구성 - Marketo 문서 - 제품 설명서
 title: 모바일 푸시 알림 구성
 exl-id: 10368b13-40c9-435a-847c-68aaa5a892ea
 feature: Mobile Marketing
-source-git-commit: 2b610cc3486b745212b0b1f36018a83214d7ecd7
+source-git-commit: 736e21d45d8a62e50f449e0ee6d0fc4df5963dfb
 workflow-type: tm+mt
 source-wordcount: '466'
 ht-degree: 0%
@@ -49,13 +49,13 @@ ht-degree: 0%
    >
    >세 가지 유형의 탭 작업이 있습니다.
    >
-   >**앱 시작** - **이 앱**&#x200B;은 알림을 탭하면 앱의 홈 페이지를 엽니다. **사용자 지정**&#x200B;에서는 딥링크를 사용하여 앱의 다른 영역이나 링크가 있는 다른 앱을 엽니다(자세한 내용은 아래 [딥링크 URI](#Deeplink) 참조).
+   >**앱 시작** - **이 앱**&#x200B;은 알림을 탭하면 앱의 홈 페이지를 엽니다. **사용자 지정**&#x200B;에서는 딥링크를 사용하여 앱의 다른 영역이나 링크가 있는 다른 앱을 엽니다(자세한 내용은 아래 [딥링크 URI](#deep-link-uris) 참조).
    >
    >**랜딩 페이지** - 지정된 Marketo 랜딩 페이지로 이동합니다.
    >
    >**외부 URL** - Marketo 이외의 랜딩 페이지로 이동합니다.
 
-1. 사용자 지정 탭 작업에 대한 딥링크를 삽입하려면 사용자 지정을 클릭하고 필드에 [딥링크 URI](#Deeplink)를 입력합니다.
+1. 사용자 지정 탭 작업에 대한 딥링크를 삽입하려면 사용자 지정을 클릭하고 필드에 [딥링크 URI](#deep-link-uris)를 입력합니다.
 
    ![](assets/image2016-7-28-16-3a19-3a13.png)
 
