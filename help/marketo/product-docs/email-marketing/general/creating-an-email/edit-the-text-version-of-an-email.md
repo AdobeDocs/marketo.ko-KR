@@ -4,9 +4,9 @@ description: 이메일의 텍스트 버전 편집 - Marketo 문서 - 제품 설�
 title: 이메일의 텍스트 버전 편집
 exl-id: 6973ccdd-6ae1-4051-ab7e-ff7da40baf97
 feature: Email Editor
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: d903c7d8adf817bd3aae2ea6bebc291a3f8bffb5
 workflow-type: tm+mt
-source-wordcount: '176'
+source-wordcount: '209'
 ht-degree: 0%
 
 ---
@@ -39,4 +39,6 @@ ht-degree: 0%
 
    ![](assets/five-3.png)
 
-이제 알겠지!
+>[!CAUTION]
+>
+>다이내믹 콘텐츠가 포함된 전자 메일에서 **HTML에서 복사**&#x200B;를 선택하거나 **HTML에서 자동으로 복사**&#x200B;를 다시 선택하면 전자 메일의 HTML 및 텍스트 버전 모두에 있는 모든 세그먼트에 대해 검토됨 플래그가 _true_(으)로 설정됩니다.
