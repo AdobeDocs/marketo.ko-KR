@@ -4,9 +4,9 @@ description: 모바일 푸시 알림 구성 - Marketo 문서 - 제품 설명서
 title: 모바일 푸시 알림 구성
 exl-id: 10368b13-40c9-435a-847c-68aaa5a892ea
 feature: Mobile Marketing
-source-git-commit: 736e21d45d8a62e50f449e0ee6d0fc4df5963dfb
+source-git-commit: 7007c9f61bac2d5b860e166f285c87f565683933
 workflow-type: tm+mt
-source-wordcount: '466'
+source-wordcount: '445'
 ht-degree: 0%
 
 ---
@@ -15,31 +15,27 @@ ht-degree: 0%
 
 1. **마케팅 활동** 영역으로 이동합니다.
 
-![](assets/2fbf1ab6-2247-40c8-980d-be56b9d94890.png)
+   ![](assets/configure-mobile-push-notification-1.png)
 
 1. 푸시 자산을 선택하고 **초안 편집**&#x200B;을 클릭합니다.
 
-   ![](assets/image2016-8-23-16-3a49-3a48.png)
+   ![](assets/configure-mobile-push-notification-2.png)
 
-1. **설치**(으)로 이동합니다.
+1. **설치**&#x200B;에서 원하는 앱을 선택하십시오. Android 및 Apple 플랫폼은 기본적으로 활성화되어 있습니다.
 
-   ![](assets/image2016-8-23-16-3a51-3a56.png)
+   ![](assets/configure-mobile-push-notification-3.png)
 
-1. 원하는 앱을 선택합니다. Android 및 Apple 플랫폼은 기본적으로 활성화되어 있습니다.
-
-   ![](assets/image2016-8-23-16-3a53-3a33.png)
-
-1. 푸시 메시지가 한 플랫폼(예: iPhone의 경우)에만 적용되는 경우 해당 선택기를 비활성화로 밀어 다른 플랫폼을 제외할 수 있습니다.
-
-   ![](assets/image2016-8-23-16-3a41-3a48.png)
+   >[!NOTE]
+   >
+   >푸시 메시지가 한 플랫폼(예: iOS)에만 적용되는 경우 해당 선택기를 수동으로 **사용 안 함**(으)로 이동하여 다른 플랫폼을 제외할 수 있습니다.
 
 1. **다음**&#x200B;을 클릭합니다.
 
-   ![](assets/image2016-8-23-16-3a43-3a28.png)
+   ![](assets/configure-mobile-push-notification-4.png)
 
-1. 메시지 텍스트를 입력하거나 토큰 아이콘을 선택하여 토큰을 추가합니다. 그런 다음 **탭 동작**&#x200B;을 선택합니다.
+1. 메시지 텍스트를 입력하거나 토큰 아이콘을 선택하여 토큰을 추가하십시오. 이 편집기에서 토큰은 [과(와) 같은 형식으로 ](/help/marketo/product-docs/demand-generation/landing-pages/personalizing-landing-pages/tokens-overview.md)됩니다. 여러 토큰을 사용할 수 있습니다. **탭 동작**&#x200B;을 선택하세요.
 
-   ![](assets/image2015-9-14-16-3a7-3a43.png)
+   ![](assets/configure-mobile-push-notification-5.png)
 
    >[!NOTE]
    >
@@ -55,17 +51,9 @@ ht-degree: 0%
    >
    >**외부 URL** - Marketo 이외의 랜딩 페이지로 이동합니다.
 
-1. 사용자 지정 탭 작업에 대한 딥링크를 삽입하려면 사용자 지정을 클릭하고 필드에 [딥링크 URI](#deep-link-uris)를 입력합니다.
+1. 사용자 지정 탭 작업에 대한 딥링크를 삽입하려면 **사용자 지정**&#x200B;을(를) 선택하고 필드에 [딥링크 URI](#deep-link-uris)을(를) 입력하십시오.
 
-   ![](assets/image2016-7-28-16-3a19-3a13.png)
-
-1. 토큰을 삽입하려면 토큰을 선택하고 기본값을 입력한 다음 삽입을 클릭합니다.
-
-   >[!NOTE]
-   >
-   >텍스트 상자에 커서를 놓은 위치에 토큰이 나타납니다. 두 개 이상의 토큰을 사용할 수 있습니다.
-
-   ![](assets/image2015-8-10-14-3a48-3a52.png)
+   ![](assets/configure-mobile-push-notification-6.png)
 
    >[!NOTE]
    >
@@ -73,15 +61,15 @@ ht-degree: 0%
 
 1. iOS의 경우에만 확인란을 선택하여 메시지가 도착할 때 앱에서 사운드를 재생하도록 합니다. Android은 자동으로 사운드를 재생합니다.
 
-   ![](assets/ios-tap-and-notification-hand.png)
+   ![](assets/configure-mobile-push-notification-7.png)
 
 1. 다른 플랫폼을 미리 보고 **마침**&#x200B;을 클릭하세요.
 
-   ![](assets/image2015-9-14-16-3a12-3a34.png)
+   ![](assets/configure-mobile-push-notification-8.png)
 
 1. **승인 및 닫기**&#x200B;를 클릭합니다.
 
-   ![](assets/323dda12-0543-4558-8562-563eed5fa0e0.png)
+   ![](assets/configure-mobile-push-notification-9.png)
 
 축하합니다! 이제 푸시 알림을 전송할 준비가 되었습니다.
 
@@ -91,7 +79,7 @@ ht-degree: 0%
 
 딥링크 URI는 스키마 이름, 경로 및 식별자의 세 부분으로 구성됩니다. 아래 예에서 &quot;myappname&quot;은 체계입니다. &quot;products&quot;가 경로이고 &quot;purple-shirt&quot;가 식별자입니다. 고객이 탭하면 앱의 제품 페이지 내에 있는 보라색 셔츠 항목으로 특별히 이동합니다.
 
-![](assets/image2016-7-29-12-3a49-3a1.png)
+![](assets/configure-mobile-push-notification-10.png)
 
 즉, 앱의 딥링크 구조는 위의 예와 다를 수 있습니다. 개발자는 딥링크 URI를 정의하는 데 여러 가지 옵션을 사용할 수 있으므로 개발자에게 사용하려는 페이지의 URI(링크)를 보내도록 요청하십시오. 이렇게 하면 푸시 메시지에 입력한 URI가 올바른 위치를 가리킵니다. 개발자는 [여기에서 추가 정보를 찾을 수 있습니다](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/mobile/enabling-deep-links-in-your-app).
 
