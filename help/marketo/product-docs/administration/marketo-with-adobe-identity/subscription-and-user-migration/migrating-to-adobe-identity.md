@@ -3,7 +3,7 @@ description: Adobe ID로 마이그레이션 - Marketo 문서 - 제품 설명서
 title: Adobe ID로 마이그레이션
 feature: Marketo with Adobe Identity
 exl-id: a7969204-0ec9-45aa-a206-eff2df8adcd0
-source-git-commit: df7b29f9b7bb31b2762dd6a6d48eb237f4ccb9f0
+source-git-commit: c8b243bc90175e92aa163032b2d368bf80ff3f81
 workflow-type: tm+mt
 source-wordcount: '2317'
 ht-degree: 0%
@@ -181,7 +181,7 @@ Marketo 제품 관리자는 일괄로 마이그레이션할 사용자 또는 모
 
 예를 들어 관리자는 먼저 마이그레이션할 &quot;고급 사용자&quot; 그룹을 선택할 수 있습니다. 이러한 사용자 마이그레이션이 성공적으로 완료되면 작업 영역/비즈니스 또는 함수/역할 과 같은 변수를 기반으로 다양한 사용자 그룹을 선택하여 사용자 마이그레이션을 더 세분화할 수 있습니다. 또는 첫 번째 배치가 성공한 후 구독의 나머지 사용자를 마이그레이션하도록 결정할 수 있습니다. 목표는 사용자에게 Adobe ID를 롤아웃할 때 가장 많은 유연성을 제공하는 것입니다.
 
-모든 사용자 마이그레이션은 동시에 수행되며 60초 이내에 성공적으로 완료되어야 합니다. 특정 사용자에 대한 사용자 마이그레이션이 진행되는 동안 최대 1분 동안 액세스할 수 없는 상황이 발생할 수 있는데, 이는 사용자가 애플리케이션에 로그인하는 경우에만 해당됩니다. 사용자 마이그레이션이 완료되면 사용자는 Adobe ID로 Marketo Engage에 로그인하는 방법에 대한 이메일을 받게 됩니다. 사용자는 전자 메일의 단추 링크를 통해 초대를 수락해야 합니다. _먼저_ Adobe ID으로 로그인할 수 있습니다. Adobe ID으로 Marketo Engage에 로그인하는 방법에 대한 지침은 [여기](/help/marketo/product-docs/administration/marketo-with-adobe-identity/user-sign-in-with-adobe-id.md)에서 확인할 수 있습니다.
+모든 사용자 마이그레이션은 동시에 수행되며 60초 이내에 성공적으로 완료되어야 합니다. 특정 사용자에 대한 사용자 마이그레이션이 진행되는 동안 최대 1분 동안 액세스할 수 없는 상황이 발생할 수 있는데, 이는 사용자가 애플리케이션에 로그인하는 경우에만 해당됩니다. 사용자 마이그레이션이 완료되면 사용자는 Adobe ID로 Marketo Engage에 로그인하는 방법에 대한 이메일을 받게 됩니다. 사용자는 Adobe ID으로 로그인할 수 있는 _이전_ 전자 메일의 단추 링크를 통해 초대를 수락해야 합니다. Adobe ID [을(를) 사용하여 Marketo Engage에 로그인하는 방법에 대한 지침은 여기에서 찾을 수 있습니다](/help/marketo/product-docs/administration/marketo-with-adobe-identity/user-sign-in-with-adobe-id.md).
 
 ![](assets/migrating-to-adobe-identity-18.png)
 
