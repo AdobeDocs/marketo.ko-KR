@@ -3,9 +3,9 @@ description: Identity Management FAQ Adobe - Marketo 문서 - 제품 설명서
 title: IDENTITY MANAGEMENT FAQ ADOBE
 feature: Marketo with Adobe Identity
 exl-id: 2401def7-1696-4d77-a8a3-96c490517121
-source-git-commit: 989804463f44afbf35ab11c0f23c37b0d328e652
+source-git-commit: 573a40c7d2ee7329d82d209bfefc284497295239
 workflow-type: tm+mt
-source-wordcount: '1521'
+source-wordcount: '1595'
 ht-degree: 0%
 
 ---
@@ -35,6 +35,10 @@ Adobe Identity Management 시스템은 세 가지 구성 요소로 구성됩니�
 예. 마이그레이션 후 Marketo Engage은 experience.adobe.com에서 Adobe Experience Cloud으로 제공됩니다. Marketo Engage 액세스가 중단되지 않도록 IT 팀과 함께 ](/help/marketo/getting-started/initial-setup/configure-protocols-for-marketo.md){target="_blank"} 문서 상단에 나열된 모든 Adobe 도메인을 허용 목록 0해야 합니다.[
 
 engage-xx.marketo.com 도메인 _will_&#x200B;의 Marketo Engage 자산에 대한 이전 링크와 책갈피가 계속 작동합니다. 그러나 먼저 탐색 중인 URL의 Marketo Engage 인스턴스에 로그인해야 합니다. 예를 들어 Munchkin ID 123-ABC-456이 있는 인스턴스에서 스마트 캠페인에 대한 책갈피로 이동하려면 먼저 Munchkin ID 123-ABC-456으로 Marketo Engage 인스턴스에 로그인해야 합니다.
+
+**SSO에서 작동합니까?**
+
+예. Adobe IMS와의 통합은 범용 ID 사용자 및 SSO를 지원합니다. SSO는 이제 Adobe IMS에 의해 구동되며 Adobe Admin Console의 조직 수준에서 설정됩니다. 그러나 Marketo Engage IdP 시작 지원은 Adobe의 SP 시작 지원과 비교하여 다릅니다([자세히 알아보기](https://helpx.adobe.com/kr/enterprise/using/set-up-identity.html){target="_blank"}). Admin Console으로 마이그레이션한 후 SSO 차이점에 대한 도움이 필요한 경우 [고객 지원 Adobe](https://helpx.adobe.com/contact.html){target="_blank"}에 문의하세요.
 
 **Adobe 제품 관리자와 Marketo Engage 관리자 간의 차이점은 무엇입니까?**
 

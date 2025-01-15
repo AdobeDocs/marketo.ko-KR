@@ -4,9 +4,9 @@ description: 포털에 SSO(Single Sign-On) 추가 - Marketo 문서 - 제품 설�
 title: 포털에 SSO(Single Sign-On) 추가
 exl-id: 72f96239-7252-4cbc-bbe1-84ac7ae7f92e
 feature: Administration
-source-git-commit: c46800149cc517e3684db150e1f7b415f0a5783e
+source-git-commit: 573a40c7d2ee7329d82d209bfefc284497295239
 workflow-type: tm+mt
-source-wordcount: '564'
+source-wordcount: '606'
 ht-degree: 0%
 
 ---
@@ -25,7 +25,7 @@ SSO가 활성화되면 IdP는 사용자의 자격 증명을 확인할 수 있습
 
 >[!IMPORTANT]
 >
->Adobe ID에 온보딩된 구독에는 적용되지 않습니다. Adobe ID에 온보딩된 구독의 경우 단일 사인온이 Adobe Admin Console의 Adobe 조직 수준에서 설정됩니다. [자세히 알아보기](https://helpx.adobe.com/enterprise/using/set-up-identity.html){target="_blank"}.
+>Adobe ID에 온보딩된 구독에는 적용되지 않습니다. Adobe ID에 온보딩된 구독의 경우 단일 사인온이 Adobe Admin Console의 Adobe 조직 수준에서 설정됩니다. Adobe Admin Console은 현재 SP로 시작하는 경우에만 지원합니다. [자세히 알아보기](https://helpx.adobe.com/kr/enterprise/using/set-up-identity.html){target="_blank"}.
 
 >[!NOTE]
 >
@@ -40,7 +40,7 @@ SSO가 활성화되면 IdP는 사용자의 자격 증명을 확인할 수 있습
 
 >[!NOTE]
 >
->Marketo은 사용자가 먼저 Idp 로그인 페이지를 시작하고, 인증한 다음, 내 Marketo으로 이동하는 ID 공급자가 시작한(IdP가 시작되었음이라고도 함)만 지원합니다.
+>Marketo은 사용자가 먼저 IdP 로그인 페이지를 시작하고, 인증한 다음 내 Marketo으로 이동하는 ID 공급자가 시작한(IdP 시작이라고도 함)만 지원합니다. Marketo 구독이 Admin Console로 이동된 경우 Adobe Admin Console은 현재 서비스 공급업체에서 시작한 서비스(SP에서 시작한 서비스)만 지원합니다. SSO 환경이 변경될 수 있습니다.
 
 ## 추가 참고 사항 {#additional-notes}
 
