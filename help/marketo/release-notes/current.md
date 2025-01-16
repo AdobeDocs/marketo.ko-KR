@@ -3,9 +3,9 @@ description: 최신 릴리스 정보 - Marketo 설명서 - 제품 설명서
 title: 최신 릴리스 정보
 exl-id: a2eccad5-73ad-48f9-8091-51cee23824e1
 feature: Release Information
-source-git-commit: fa149bb386e98a5b9daa1c7b8933d66b708047c1
+source-git-commit: 7837499e74558e6e48bf7b1e681f936f63d2843f
 workflow-type: tm+mt
-source-wordcount: '471'
+source-wordcount: '523'
 ht-degree: 3%
 
 ---
@@ -32,7 +32,8 @@ Adobe Dynamic Chat [에 대한 릴리스 정보는 여기에서 찾을 수 있�
    <th style="width:25%">설명서</th>
   </tr>
     <tr> 
-   <td><strong>새 전자 메일 Designer</strong>: Marketo Engage에서 새로운 기본 전자 메일 Designer을 사용하여 현대적이고 효율적인 전자 메일을 만듭니다. 미리 디자인된 기본 이메일 템플릿 중 하나에 액세스하거나 손쉽게 직접 만들 수 있습니다. 다이내믹 콘텐츠를 사용하고 Adobe Experience Manager 클라우드 서비스에서 이미지에 액세스합니다.</td> 
+   <td><strong>새 전자 메일 Designer</strong>: Marketo Engage에서 새로운 기본 전자 메일 Designer을 사용하여 현대적이고 효율적인 전자 메일을 만듭니다. 미리 디자인된 기본 이메일 템플릿 중 하나에 액세스하거나 손쉽게 직접 만들 수 있습니다. 다이내믹 콘텐츠를 사용하고 Adobe Experience Manager 클라우드 서비스에서 이미지에 액세스합니다.
+   <p><img src="assets/note-icon.png" alt="메모 아이콘"> 참고: 새 이메일 디자이너에 액세스하려면 Marketo Engage 구독을 <a href="https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/administration/marketo-with-adobe-identity/adobe-identity-management-overview">IMS(Adobe Identity Management System)</a>(으)로 마이그레이션해야 합니다. 아직 실행되지 않았으며 신속 처리를 요청하려면 Adobe 계정 팀(계정 관리자) 또는 <a href="https://nation.marketo.com/t5/support/ct-p/Support">Marketo 지원</a>에 문의하세요.</td> 
    <td><i>곧 출시 예정</i></td>
    <td><i>곧 출시 예정</i></td>
   </tr>

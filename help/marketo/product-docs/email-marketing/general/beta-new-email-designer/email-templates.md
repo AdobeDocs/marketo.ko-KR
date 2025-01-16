@@ -4,9 +4,10 @@ title: 이메일 템플릿
 hide: true
 hidefromtoc: true
 feature: Email Editor
-source-git-commit: 17739fcc03bdcdee9f55cfc1f1776ac76003ea55
+exl-id: 9e1d81fb-28f5-47d4-b813-950462fee81d
+source-git-commit: 7837499e74558e6e48bf7b1e681f936f63d2843f
 workflow-type: tm+mt
-source-wordcount: '1683'
+source-wordcount: '1732'
 ht-degree: 1%
 
 ---
@@ -18,6 +19,10 @@ ht-degree: 1%
 >[!IMPORTANT]
 >
 >이 문서는 새로운 Marketo Engage 이메일 Designer 베타 회원만을 대상으로 합니다. 제발 유포하지 마세요.
+
+>[!PREREQUISITES]
+>
+>새 이메일 디자이너에 액세스하려면 Marketo Engage 구독을 [IMS(Adobe Identity Management System)](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/administration/marketo-with-adobe-identity/adobe-identity-management-overview)(으)로 마이그레이션해야 합니다. 아직 실행되지 않았으며 신속 처리를 요청하려면 Adobe 계정 팀(계정 관리자) 또는 [Marketo 지원](https://nation.marketo.com/t5/support/ct-p/Support)에 문의하세요.
 
 >[!NOTE]
 >
