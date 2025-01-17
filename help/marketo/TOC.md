@@ -3,9 +3,9 @@ audience: end-user
 user-guide-title: Marketo 안내서
 user-guide-description: Marketo 제품 설명서
 feature-set: Marketo Engage
-source-git-commit: 4e13fbba90efcecf8f22e4d8cdc5173e6f6f43a4
+source-git-commit: bd3c3a9252c47b868ad64f69da42a552015e6b11
 workflow-type: tm+mt
-source-wordcount: '9383'
+source-wordcount: '9388'
 ht-degree: 0%
 
 ---
@@ -802,6 +802,7 @@ ht-degree: 0%
       + 이미지 및 파일 {#images-and-files}
          + [새 이미지 추가 문서](product-docs/demand-generation/images-and-files/new-add-images-doc.md)
          + [Marketo에 이미지 및 파일 추가](product-docs/demand-generation/images-and-files/add-images-and-files-to-marketo.md)
+         + [Adobe Express으로 Assets 편집](product-docs/demand-generation/images-and-files/edit-assets-with-adobe-express.md)
          + [업로드된 이미지 또는 파일 삭제](product-docs/demand-generation/images-and-files/delete-an-uploaded-image-or-file.md)
          + [업로드된 이미지 또는 파일의 URL 찾기](product-docs/demand-generation/images-and-files/find-the-url-of-an-uploaded-image-or-file.md)
          + [웹 페이지에서 이미지 가져오기](product-docs/demand-generation/images-and-files/grab-the-images-from-a-web-page.md)
