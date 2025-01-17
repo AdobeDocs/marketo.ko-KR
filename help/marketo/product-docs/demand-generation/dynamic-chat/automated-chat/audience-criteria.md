@@ -3,9 +3,9 @@ description: 대상 기준 - Marketo 문서 - 제품 설명서
 title: 대상 기준
 feature: Dynamic Chat
 exl-id: 95c4558e-0c0c-4623-bb7d-b6ac2f455c01
-source-git-commit: f5f93a993d5b13c1fda0b31172393eff0bc65fd4
+source-git-commit: d255c1c4c15d5aca5d89687f50ee0e6f0dedfb7d
 workflow-type: tm+mt
-source-wordcount: '597'
+source-wordcount: '605'
 ht-degree: 1%
 
 ---
@@ -14,7 +14,7 @@ ht-degree: 1%
 
 대상 기준 속성을 사용하면 Marketo Engage 스마트 목록과 유사하게 대상 대상을 정의할 수 있습니다. 유추, 개인 또는 회사 속성(또는 이들의 조합)을 사용하여 알려지거나 알려지지 않은 사람을 타깃팅할 수 있습니다.
 
-## 우선 순위 {#priority}
+## 우선순위 {#priority}
 
 우선 순위는 잠재 고객이 두 개 이상의 자격이 있는 경우 받을 대화 상자를 결정합니다. 처음 [대화 상자를 만들기](/help/marketo/product-docs/demand-generation/dynamic-chat/automated-chat/create-a-dialogue.md){target="_blank"}할 때 설정됩니다. 기존 대화 상자를 열고 대상 기준 탭에서 **[!UICONTROL 대화 상자 세부 정보]**(으)로 이동하여 대화 상자의 우선 순위를 변경할 수 있습니다.
 
@@ -98,7 +98,7 @@ ht-degree: 1%
 
 >[!AVAILABILITY]
 >
->스마트 목록 구성원 또는 목록 구성원 기준에는 Dynamic Chat Prime이 필요합니다. 자세한 내용은 Adobe 계정 팀(계정 관리자)에 문의하십시오.
+>스마트 목록 구성원 또는 목록 구성원 기준을 사용하려면 Dynamic Chat Prime이 필요합니다. 자세한 내용은 Adobe 계정 팀(계정 관리자)에 문의하십시오.
 
 1. [멤버십]에서 **[!UICONTROL Smart List의 멤버]**&#x200B;을(를) 가져와서 캔버스에 놓습니다.
 
@@ -129,7 +129,9 @@ ht-degree: 1%
 
 >[!NOTE]
 >
->별표를 사용하는 것은 만능의 와일드카드 역할을 합니다. 따라서 `https://*.website.com`은(는) 하위 도메인을 포함하여 사이트의 모든 페이지에 대화 상자를 표시합니다(예: `support.website.com`). `https://website.com/folder/*`은(는) 후속 폴더의 모든 HTML 페이지에 대화 상자를 추가합니다(예: 이 경우 폴더가 &quot;sports&quot;라고 가정해 보겠습니다. website.com/sports/baseball.html, website.com/sports/football.html 등).
+>* 별표를 사용하는 것은 만능의 와일드카드 역할을 합니다. 따라서 `https://*.website.com`은(는) 하위 도메인을 포함하여 사이트의 모든 페이지에 대화 상자를 표시합니다(예: `support.website.com`). `https://website.com/folder/*`은(는) 후속 폴더의 모든 HTML 페이지에 대화 상자를 추가합니다(예: 이 경우 폴더가 &quot;sports&quot;라고 가정해 보겠습니다. website.com/sports/baseball.html, website.com/sports/football.html 등).
+>
+>* 현재 URL 매개 변수는 지원되지 않습니다.
 
 **제외**
 
