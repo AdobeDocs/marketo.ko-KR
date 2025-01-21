@@ -4,7 +4,7 @@ description: Google Universal Analytics의 사용자 정의 RTP 대시보드 - M
 title: Google Universal Analytics의 사용자 정의 RTP 대시보드
 exl-id: 712c71b6-74eb-4743-9ca8-50c912278e62
 feature: Web Personalization
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 89995b2cd6fdc2f2e4ea43906304bdf16d367de1
 workflow-type: tm+mt
 source-wordcount: '759'
 ht-degree: 0%
@@ -43,7 +43,7 @@ ht-degree: 0%
 대시보드는 3개의 열로 구성됩니다
 
 * 트래픽 소스
-* 세분화
+* 세그먼테이션
 * 그래픽 드릴다운
 
 1. **RTP B2B 대시보드**&#x200B;라는 새 대시보드를 만들고 다음 위젯을 정의합니다.
@@ -132,7 +132,7 @@ ht-degree: 0%
      <li>유형: 막대<br></li> 
      <li>다음을 보여주는 막대 차트를 만듭니다. 세션</li> 
      <li>그룹화 기준: RTP-Group</li> 
-    </ul><p><strong><img width="350" src="assets/image2015-3-23-11-3a35-3a54.png" data-linked-resource-id="7504256" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="7504238"></strong></p></th> 
+    </ul><p><img width="350" src="assets/image2015-3-23-11-3a35-3a54.png" data-linked-resource-id="7504256" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="7504238"></p></th> 
   </tr> 
   <tr> 
    <th> </th> 
@@ -142,7 +142,7 @@ ht-degree: 0%
      <li>유형: 테이블<br></li> 
      <li>다음 열을 표시합니다. <br>이벤트 레이블 | 세션 | 목표 전환율</li> 
      <li>필터: <br>표시만 | 이벤트 범주(포함) RTP-Segments</li> 
-    </ul><p><strong><img width="350" src="assets/image2015-3-23-11-3a36-3a15.png" data-linked-resource-id="7504257" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="7504238"></strong></p></th> 
+    </ul><p><img width="350" src="assets/image2015-3-23-11-3a36-3a15.png" data-linked-resource-id="7504257" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="7504238"></p></th> 
    <th> </th> 
   </tr> 
  </tbody> 
@@ -181,15 +181,15 @@ ht-degree: 0%
      <li>이름: <strong>총 CTA(참여)</strong></li> 
      <li>유형: <strong>2.1 지표 </strong></li> 
      <li>다음 지표 표시: <strong>총 이벤트</strong></li> 
-     <li>필터:<br><strong>[only show] 이벤트 범주(포함): RTP-Campaigns</strong><br><strong>[only show] 이벤트 작업(정확히 일치): 노출</strong><strong>[don't show] 이벤트 레이블(포함): #</strong></li> 
-    </ul><p><strong><img width="350" src="assets/image2015-3-23-11-3a37-3a55.png" data-linked-resource-id="7504259" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="7504238"></strong></p></td> 
+     <li>필터:<br><strong>[only show] 이벤트 범주(포함): RTP-Campaigns</strong><br><strong>[only show] 이벤트 작업(정확히 일치): 노출</strong>[don't show] 이벤트 레이블(포함): #</li> 
+    </ul><p><img width="350" src="assets/image2015-3-23-11-3a37-3a55.png" data-linked-resource-id="7504259" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="7504238"></p></td> 
    <td> 
     <ul> 
      <li>이름: <strong>총 CTA(클릭스루)</strong></li> 
      <li>유형: <strong>2.1 지표 </strong></li> 
      <li>다음 지표 표시: <strong>총 이벤트</strong></li> 
      <li>필터:<br><strong>[전용 표시] 이벤트 범주(포함): RTP-Campaigns</strong><br><strong>[전용 표시] 이벤트 작업(정확히 일치): 클릭 수</strong><strong>[표시 안 함] 이벤트 레이블(포함): #</strong></li> 
-    </ul><p><strong><img width="350" src="assets/image2015-3-23-11-3a38-3a12.png" data-linked-resource-id="7504261" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="7504238"></strong></p></td> 
+    </ul><p><img width="350" src="assets/image2015-3-23-11-3a38-3a12.png" data-linked-resource-id="7504261" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="7504238"></p></td> 
    <td> 
     <ul> 
      <li>이름: <strong>CRE - 총 클릭 수</strong></li> 
@@ -205,14 +205,14 @@ ht-degree: 0%
      <li>유형: <strong>2.1 지표 </strong></li> 
      <li>다음 지표를 표시합니다. <strong>평균 세션 기간</strong></li> 
      <li>필터:<br><strong>[only show] 이벤트 범주(정확히 일치): RTP-Campaigns</strong><br><strong>[only show] 이벤트 작업(정확히 일치): impression</strong><strong>[don't show] 이벤트 레이블(포함): #</strong></li> 
-    </ul><p><strong><img width="350" src="assets/image2015-3-23-11-3a41-3a21.png" data-linked-resource-id="7504264" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="7504238"></strong></p></td> 
+    </ul><p><img width="350" src="assets/image2015-3-23-11-3a41-3a21.png" data-linked-resource-id="7504264" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="7504238"></p></td> 
    <td colspan="1"> 
     <ul> 
      <li>이름: <strong>평균 세션 기간(클릭스루)</strong></li> 
      <li>유형: <strong>2.1 지표 </strong></li> 
      <li>다음 지표를 표시합니다. <strong>평균 세션 기간</strong></li> 
      <li>필터:<br><strong>[only show] 이벤트 범주(정확히 일치): RTP-Campaigns</strong><br><strong>[only show] 이벤트 작업(정확히 일치): 클릭</strong><strong>[don't show] 이벤트 레이블(포함): #</strong></li> 
-    </ul><p><strong><img width="350" src="assets/image2015-3-23-11-3a41-3a37.png" data-linked-resource-id="7504265" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="7504238"></strong></p></td> 
+    </ul><p><img width="350" src="assets/image2015-3-23-11-3a41-3a37.png" data-linked-resource-id="7504265" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="7504238"></p></td> 
    <td colspan="1"> 
     <ul> 
      <li>이름: <strong>CRE - 상위 권장 콘텐츠</strong></li> 
@@ -239,20 +239,20 @@ ht-degree: 0%
      <li>필터:<br><strong>[only show] 이벤트 범주(정확히 일치): RTP-Campaigns</strong></li> 
      <li><strong>[only show] 이벤트 작업(정확히 일치): 클릭 수</strong></li> 
      <li><strong>[표시하지 않음] 이벤트 레이블(포함): #</strong></li> 
-    </ul><p><strong><img width="350" src="assets/image2015-3-23-11-3a42-3a32.png" data-linked-resource-id="7504268" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="7504238"></strong></p></td> 
+    </ul><p><img width="350" src="assets/image2015-3-23-11-3a42-3a32.png" data-linked-resource-id="7504268" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="7504238"></p></td> 
    <td> </td> 
   </tr> 
   <tr> 
    <td> 
     <ul> 
-     <li>이름: <strong>CTA별 노출 횟수</strong></li> 
+     <li>이름: <strong>CTA의 노출 횟수</strong></li> 
      <li>형식: <strong>테이블</strong></li> 
      <li>다음 열을 표시합니다. <strong>이벤트 레이블 | 총 이벤트 수 | 사용자</strong></li> 
      <li>필터:<br><strong>[only show] 이벤트 범주(정확히 일치): RTP-Campaigns</strong><br><strong>[only show] 이벤트 작업(정확히 일치): impression</strong><strong>[don't show] 이벤트 레이블(포함): #</strong></li> 
     </ul><p><img width="350" src="assets/image2015-3-23-11-3a42-3a48.png" data-linked-resource-id="7504269" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="7504238"></p></td> 
    <td> 
     <ul> 
-     <li>이름: <strong>CTA의 클릭스루</strong></li> 
+     <li>이름: <strong>CTA 클릭스루</strong></li> 
      <li>형식: <strong>테이블</strong></li> 
      <li>다음 열을 표시합니다. <strong>이벤트 레이블 | 총 이벤트 수 | 사용자</strong></li> 
      <li>필터:<br><strong>[only show] 이벤트 범주(정확히 일치): RTP-Campaigns</strong><br><strong>[only show] 이벤트 작업(정확히 일치): 클릭수</strong></li> 

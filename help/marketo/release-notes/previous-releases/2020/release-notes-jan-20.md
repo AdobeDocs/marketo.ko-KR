@@ -4,7 +4,7 @@ description: 릴리스 노트 - 2020년 1월 - Marketo 문서 - 제품 설명서
 title: 릴리스 노트 - 2020년 1월
 exl-id: 7b011c1a-1161-42f8-8bd0-4ee273928b59
 feature: Release Information
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 89995b2cd6fdc2f2e4ea43906304bdf16d367de1
 workflow-type: tm+mt
 source-wordcount: '827'
 ht-degree: 0%
@@ -31,7 +31,7 @@ ht-degree: 0%
 >
 >현재 AEM Asset Selector는 Firefox에서만 완전히 지원됩니다. 이 기능은 Safari에서 지원되지 않으며, SameSite 쿠키 설정에 따라 최신 버전의 Chrome(v. 80)에서 작동하지 않을 수 있습니다.
 
-* **Microsoft Dynamics - 리드를 CRM에 실시간으로 동기화**: Marketo Engage과 Microsoft Dynamics 간의 리드 및 연락처의 실시간 동기화. 리드 또는 연락처를 만들고 &quot;사용자를 Microsoft에 동기화&quot; 흐름 작업을 통해 즉시 Microsoft Dynamics에서 볼 수 있습니다.
+* **Microsoft Dynamics - 리드를 CRM과 실시간으로 동기화**: Marketo Engage과 Microsoft Dynamics 간의 리드와 연락처의 실시간 동기화. 리드 또는 연락처를 만들고 &quot;사람과 Microsoft 동기화&quot; 흐름 작업으로 즉시 Microsoft Dynamics에서 볼 수 있습니다.
 * **LinkedIn 리드 세대 Forms 추가 필드 매핑**: LinkedIn 리드 세대 Forms의 리드 데이터를 캡처하여 판매 및 마케팅 접점 모두에 대해 더 적절한 경험을 만듭니다. 숨겨진 필드, 동의 필드 및 테스트 리드 필드를 Marketo Engage으로 가져옵니다.
 * **전자 메일 템플릿 종속성 API**: 전자 메일 템플릿에 종속된 자산 목록을 가져와서 잠재적인 변경 사항의 범위와 템플릿에 대한 주소 종속성을 더 빨리 변경하고 삭제할 수 있도록 합니다.
 * **다중 인스턴스 관리 개선 사항**: 구독의 스크롤 가능한 알파벳 드롭다운 메뉴를 사용하여 필요한 인스턴스로 빠르게 이동합니다.
@@ -40,7 +40,7 @@ ht-degree: 0%
 
 ![(별)](assets/yellow-star.png)
 
-* **[새 계정 검색(BETA)](https://docs.marketo.com/x/WQA6Ag) ![(별)](assets/yellow-star.png)**: 계정 프로파일링을 사용하여 AI 기반의 이상적인 고객 프로필 모델을 기반으로 ABM 전략에 대한 새로운 대상 계정을 검색합니다. ABM 타겟팅을 위한 Marketo Engage 리드 및 계정 데이터베이스 내에 아직 존재하지 않는 권장 새 계정과 AI 기반 적합 및 의도 데이터 지표를 보고, 선택하고, 가져옵니다. 자격을 갖춘 계정 프로파일링 고객이 즉시 사용할 수 있습니다.
+* [새 계정 검색(BETA)](https://docs.marketo.com/x/WQA6Ag) ![(별)](assets/yellow-star.png): 계정 프로파일링을 사용하여 AI 기반의 이상적인 고객 프로필 모델을 기반으로 ABM 전략에 대한 새로운 대상 계정을 검색합니다. ABM 타겟팅을 위한 Marketo Engage 리드 및 계정 데이터베이스 내에 아직 존재하지 않는 권장 새 계정과 AI 기반 적합 및 의도 데이터 지표를 보고, 선택하고, 가져옵니다. 자격을 갖춘 계정 프로파일링 고객이 즉시 사용할 수 있습니다.
 
 <br> 
 
@@ -61,8 +61,8 @@ ht-degree: 0%
 
 ## Sales Insight {#sales-insight}
 
-* **Salesforce Lightning 대량 작업**: 영업 효율성을 높이고 구매자가 캠페인에 대한 최대 200개의 연락처/리드를 추가하고 Salesforce Lightning을 사용하여 Marketo Engage 이메일을 대량으로 보낼 수 있도록 지원합니다.
-* **Salesforce1에 대한 모바일 지원**: 이제 Salesforce1 앱에서 바로 관심 있는 순간 및 웹 활동 및 전자 메일과 같은 모든 Sales Insight 기능에 대한 이동 중 모바일 액세스를 가질 수 있습니다.
+* **Salesforce Lightning 대량 작업**: 영업 효율성을 높이고 구매자가 캠페인에 대한 최대 200개의 연락처/리드를 추가하고 Salesforce Lightning으로 Marketo Engage 이메일을 대량으로 보낼 수 있는 기능을 계속 사용할 수 있도록 합니다.
+* **Salesforce에 대한 모바일 지원1**: 이제 Salesforce1 앱에서 바로 Interest Moments 및 웹 활동 및 이메일과 같은 모든 Sales Insight 기능에 대한 이동 중 모바일 액세스를 가질 수 있습니다.
 * **UI 개선 사항**: 가독성 및 Marketo Sky 경험과 일치하는 디자인을 개선하여 인터페이스를 업데이트했습니다.
 
 ## 영업 연결 {#sales-connect}
@@ -74,6 +74,6 @@ ht-degree: 0%
 >
 >* **TLS 1.0 및 1.1 사용 중단**: Adobe의 릴리스 구조와 통합하기 위한 지속적인 노력으로, TLS 1.0 및 TLS 1.1의 사용 중단을 2020년 1월 13일로 전환합니다. 자세한 내용은 [여기](https://nation.marketo.com/docs/DOC-7059-tls-10-11-deprecation-faq)를 참조하세요.
 >
->* **ITP 2.1+ Munchkin 업데이트**: Safari에 대한 쿠키 정책 변경으로 인해, Munchkin은 동일한 도메인의 세션에서 사용자를 추적하는 기능이 ITP에 의해 방문자가 사용하는 브라우저 및 브라우저 버전에 따라 1일 또는 7일로 제한됩니다. 이를 위해 HTTP 응답을 통해 Set-Cookie 헤더로 Munchkin 쿠키를 설정할 수 있도록 새 웹 서비스를 구현하고 있습니다. 이 새 서비스를 구현하는 방법에 대한 자세한 내용은 [여기](https://nation.marketo.com/docs/DOC-7351)를 참조하십시오.
+>* **ITP 2.1+ Munchkin 업데이트**: Safari에 대한 쿠키 정책 변경으로 인해, Munchkin에서 동일한 도메인의 세션 간에 사용자를 추적하는 기능은 방문자가 사용하는 브라우저 및 브라우저 버전에 따라 ITP에 의해 1일 또는 7일로 제한됩니다. 이를 위해 HTTP 응답을 통해 Munchkin 쿠키를 Set-Cookie 헤더로 설정할 수 있도록 새 웹 서비스를 구현하고 있습니다. 이 새 서비스를 구현하는 방법에 대한 자세한 내용은 [여기](https://nation.marketo.com/docs/DOC-7351)를 참조하십시오.
 
 **_제품 릴리스 웨비나_** [참여하기](https://engage.marketo.com/Jan_Feb_20_Release_Webinar_Registration.html) 3월 3일 오전 11시(PT 기준)/오후 2시(ET 기준) 제품 팀이 호스팅하는 라이브 웨비나에 대해 알아보고 이 릴리스에 포함된 기능에 대해 자세히 알아보십시오.

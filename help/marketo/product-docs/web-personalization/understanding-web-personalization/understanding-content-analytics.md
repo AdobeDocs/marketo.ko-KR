@@ -4,7 +4,7 @@ description: 콘텐츠 분석 이해 - Marketo 문서 - 제품 설명서
 title: 콘텐츠 분석 이해
 exl-id: 9266fdfe-2a12-43b0-84ad-d12eb8589ed4
 feature: Web Personalization
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 89995b2cd6fdc2f2e4ea43906304bdf16d367de1
 workflow-type: tm+mt
 source-wordcount: '374'
 ht-degree: 1%
@@ -48,11 +48,11 @@ Analytics 테이블은 다음 세부 정보를 제공합니다.
    <td colspan="1" rowspan="1">디지털 콘텐츠 자산의 이름입니다. <strong>제목</strong>을 클릭하여 새 탭에서 콘텐츠 URL을 엽니다.</td> 
   </tr> 
   <tr> 
-   <td colspan="1"><p><strong>권장 사항 </strong><strong>아이콘</strong></p><p><strong><img alt="—" width="24" src="assets/recommended-icon.png" data-linked-resource-id="10094267" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="10093159" title="--"></strong></p></td> 
+   <td colspan="1"><p><strong>권장 사항 </strong><strong>아이콘</strong></p><p><img alt="—" width="24" src="assets/recommended-icon.png" data-linked-resource-id="10094267" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="10093159" title="--"></p></td> 
    <td colspan="1"><a href="#">콘텐츠 Recommendations</a>에 대해 콘텐츠 조각을 추가했는지 여부를 나타냅니다.</td> 
   </tr> 
   <tr> 
-   <td colspan="1" rowspan="1"><p><strong>보기</strong></p></td> 
+   <td colspan="1" rowspan="1"><p><strong>보기 횟수</strong></p></td> 
    <td colspan="1" rowspan="1"><p>콘텐츠 에셋에 대한 웹 방문자의 보기 횟수입니다. 조회, 열기, 조회 또는 다운로드한 횟수입니다. 보기 열에서 수를 클릭하여 드릴다운하고 콘텐츠를 본 사용자를 확인합니다</p></td> 
   </tr> 
   <tr> 
@@ -60,7 +60,7 @@ Analytics 테이블은 다음 세부 정보를 제공합니다.
    <td colspan="1" rowspan="1">동일한 방문에서 콘텐츠를 보고 양식을 작성한 웹 방문자</td> 
   </tr> 
   <tr> 
-   <td colspan="1"><p><strong>Analytics 아이콘</strong></p><p><strong><img alt="--" width="17" src="assets/analytics-icon.png" data-linked-resource-id="10097027" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="10093159" title="--"></strong></p></td> 
+   <td colspan="1"><p><strong>Analytics 아이콘</strong></p><p><img alt="--" width="17" src="assets/analytics-icon.png" data-linked-resource-id="10097027" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="10093159" title="--"></p></td> 
    <td colspan="1">콘텐츠 조각에서 더 많은 분석 보기</td> 
   </tr> 
   <tr> 
