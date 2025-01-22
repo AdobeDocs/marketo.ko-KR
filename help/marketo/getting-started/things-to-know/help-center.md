@@ -3,10 +3,10 @@ description: 도움말 센터 - Marketo Engage 문서 - 제품 설명서
 title: 도움말 센터
 feature: Getting Started
 exl-id: 3dd7c005-a416-4808-9418-9114df76d963
-source-git-commit: f0885ae2fcc1fe51768edc34bc4e814c19b9c315
+source-git-commit: 78497d45949d40486ee87bd888477ba6a85d76ba
 workflow-type: tm+mt
-source-wordcount: '158'
-ht-degree: 4%
+source-wordcount: '312'
+ht-degree: 2%
 
 ---
 
@@ -16,11 +16,17 @@ Adobe Marketo Engage의 도움말 센터는 지원을 받을 수 있는 중앙 �
 
 ## 액세스 방법 {#how-to-access}
 
-Marketo Engage에 로그인한 후 도움말 아이콘을 클릭합니다.
+구독이 아직 IMS(Adobe Identity Management System)로 마이그레이션되었는지 여부에 따라 두 가지 다른 경험이 있습니다.
+
+### Adobe IMS 이전 마이그레이션 {#pre-adobe-ims-integration}
+
+이 단계는 아직 [Adobe IMS](/help/marketo/product-docs/administration/marketo-with-adobe-identity/adobe-identity-management-overview.md)(으)로 마이그레이션되지 _않은_&#x200B;을(를) 가진 Marketo Engage 사용자를 위한 것입니다.
+
+Marketo Engage에 [로그인](http://login.marketo.com/)하고 도움말 아이콘을 클릭합니다.
 
 ![](assets/help-center-1.png)
 
-### 안내서 {#guides}
+#### Guides {#guides}
 
 안내서는 인기 있는 기능에 대한 빠른 연습의 역할을 합니다.
 
@@ -46,9 +52,9 @@ Marketo Engage에 로그인한 후 도움말 아이콘을 클릭합니다.
    >
    >**취소**&#x200B;를 클릭하여 언제든지 가이드를 종료합니다.
 
-### 새로운 기능 {#whats-new}
+#### 새로운 기능 {#whats-new}
 
-새로운 기능 탭에는 Marketo Engage 최신 릴리스에 대한 전체 세부 정보가 포함되어 있습니다.
+새로운 기능 탭에는 Marketo Engage 최신 릴리스에 대한 세부 사항이 포함되어 있습니다.
 
 ![](assets/help-center-7.png)
 
@@ -56,8 +62,32 @@ Marketo Engage에 로그인한 후 도움말 아이콘을 클릭합니다.
 >
 >Experience League 페이지를 보려면 맨 아래에 있는 화살표 아이콘을 클릭합니다.
 
-### 리소스 {#resources}
+#### 리소스 {#resources}
 
 리소스 탭에서는 Marketo Engage 인스턴스에 대한 추가 지원을 받을 수 있는 다양한 방법에 빠르고 직접 액세스할 수 있습니다.
 
 ![](assets/help-center-8.png)
+
+### Adobe IMS 이후 마이그레이션 {#post-adobe-ims-integration}
+
+이러한 단계는 [Adobe IMS](/help/marketo/product-docs/administration/marketo-with-adobe-identity/adobe-identity-management-overview.md)(으)로 이미 마이그레이션된 Marketo Engage 사용자를 위한 것입니다.
+
+Marketo Engage에 [로그인](https://experience.adobe.com/)하고 도움말 아이콘을 클릭합니다.
+
+![](assets/help-center-9.png)
+
+도움말 센터가 나타납니다. 나열된 도움말 리소스를 클릭하여 해당 영역으로 이동합니다. 특정 용어를 검색할 수도 있습니다.
+
+![](assets/help-center-10.png)
+
+안내서(이전의 Adobe IMS 마이그레이션 전 도움말 센터) 가 이제 왼쪽 탐색 영역에 있습니다.
+
+![](assets/help-center-11.png)
+
+가이드 센터에는 안내서와 새로운 기능, 이렇게 두 개의 탭이 있습니다. 안내서는 Marketo Engage의 인기 있는 기능에 대한 빠른 연습의 역할을 합니다. 원하는 안내서를 클릭하거나 특정 안내서를 검색합니다.
+
+![](assets/help-center-12.png)
+
+새로운 기능 탭에는 Marketo Engage 최신 릴리스에 대한 세부 사항이 포함되어 있습니다.
+
+![](assets/help-center-13.png)
