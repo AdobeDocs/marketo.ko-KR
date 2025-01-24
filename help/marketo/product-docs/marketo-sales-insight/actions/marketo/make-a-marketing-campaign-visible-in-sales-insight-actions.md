@@ -3,9 +3,9 @@ description: 마케팅 캠페인을 판매 통찰력 작업 - Marketo 문서 - �
 title: 마케팅 캠페인을 판매 통찰력 작업에 표시
 exl-id: 223baca3-159e-4f0d-b26f-f4c924a39fc3
 feature: Sales Insight Actions
-source-git-commit: 696353c74fd14fe72699fb53a87cfed5e9c42d51
+source-git-commit: c6132bf5b393df38700ad9dd6f0c6414860e8bb6
 workflow-type: tm+mt
-source-wordcount: '294'
+source-wordcount: '300'
 ht-degree: 0%
 
 ---
@@ -34,7 +34,7 @@ Sales Insight Actions 를 사용하면 toutapp.com 이라는 새 영업 앱에 �
 
    >[!NOTE]
    >
-   >toutapp.com 웹 앱에서 _마케팅 캠페인에 추가_&#x200B;를 사용하는 사용자에게 마케팅 캠페인을 표시하려면(Marketo Sales Outbox 개체를 통해 CRM에 웹 앱이 포함된 경우 포함) &quot;웹 서비스 API&quot;로 설정하십시오. 사용자가 잠재 고객, 연락처, 계정 페이지의 Salesforce에 있는 MSI 패널에서 작업을 사용할 때 마케팅 캠페인이 표시되도록 하거나 잠재 고객 및 연락처 목록 보기의 대량 작업 버튼을 사용하도록 하려면 마케팅 캠페인을 &quot;Sales Insight&quot;로 업데이트하십시오
+   >toutapp.com 웹 앱에서 _마케팅 캠페인에 추가_&#x200B;를 사용하는 사용자에게 마케팅 캠페인을 표시하려면(Marketo Sales Outbox 개체를 통해 CRM에 웹 앱을 임베드한 경우도 포함) 캠페인 요청 소스를 &quot;웹 서비스 API&quot;로 설정하십시오. 사용자가 잠재 고객, 연락처, 계정 페이지의 Salesforce에 있는 MSI 패널에서 작업을 사용하거나 잠재 고객 및 연락처 목록 보기의 대량 작업 버튼을 사용할 때 마케팅 캠페인이 표시되도록 하려면 캠페인 요청 소스를 &quot;Sales Insight&quot;로 업데이트하십시오
 
 1. **흐름** 탭을 클릭합니다.
 
