@@ -3,9 +3,9 @@ audience: end-user
 user-guide-title: Marketo 안내서
 user-guide-description: Marketo 제품 설명서
 feature-set: Marketo Engage
-source-git-commit: 696353c74fd14fe72699fb53a87cfed5e9c42d51
+source-git-commit: 03d6ff3567910ac12898c9b428d14f5d60323039
 workflow-type: tm+mt
-source-wordcount: '9388'
+source-wordcount: '9391'
 ht-degree: 0%
 
 ---
@@ -740,6 +740,7 @@ ht-degree: 0%
             + [온디맨드 웨비나](product-docs/demand-generation/events/interactive-webinars/on-demand-webinars.md)
             + [이벤트 워크플로](product-docs/demand-generation/events/interactive-webinars/event-workflows.md)
             + [참여 대시보드](product-docs/demand-generation/events/interactive-webinars/engagement-dashboard.md)
+            + [IW용 MSI](product-docs/demand-generation/events/interactive-webinars/msi-for-iw.md)
       + Facebook {#facebook}
          + [facebook에서 사용자 지정 대상에 리드 추가](product-docs/demand-generation/facebook/add-leads-to-a-custom-audience-in-facebook.md)
          + [facebook에서 사용자 지정 대상 만들기](product-docs/demand-generation/facebook/create-a-custom-audience-in-facebook.md)
