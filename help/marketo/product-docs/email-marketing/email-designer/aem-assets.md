@@ -3,7 +3,7 @@ title: Experience Manager Assets 작업
 description: Adobe Marketo Engage에서 콘텐츠를 작성할 때 연결된 AEM Assets 저장소의 이미지 에셋을 사용하는 방법을 알아봅니다.
 hide: true
 hidefromtoc: true
-source-git-commit: 723caafc41da6d4aeb9101bb6f9a999b45d72dd9
+source-git-commit: 402f8da4fdb92619d561fe4acb8aead0d9701c51
 workflow-type: tm+mt
 source-wordcount: '626'
 ht-degree: 1%

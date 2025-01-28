@@ -3,7 +3,7 @@ title: 조각
 description: 시각적 콘텐츠 조각을 이메일 및 이메일 템플릿에 대한 재사용 가능한 구성 요소로 만들고 사용하는 방법에 대해 알아봅니다.
 hide: true
 hidefromtoc: true
-source-git-commit: b9c1ffef43f18aa504d23b3101cfab896800537f
+source-git-commit: 402f8da4fdb92619d561fe4acb8aead0d9701c51
 workflow-type: tm+mt
 source-wordcount: '2428'
 ht-degree: 3%
@@ -76,13 +76,13 @@ ht-degree: 3%
 
 ### 조각 목록 필터링 {#filter-the-fragments-list}
 
-검색 창을 사용하여 이름별로 조각을 찾습니다. _필터_ 아이콘(![필터 표시 또는 숨기기 아이콘](../assets/do-not-localize/icon-filter.svg) )을 클릭하여 사용 가능한 필터 옵션을 표시하고 원하는 설정을 선택합니다.
+검색 창을 사용하여 이름별로 조각을 찾습니다. _필터_ 아이콘(![필터 표시 또는 숨기기 아이콘](assets/icon-filter.svg) )을 클릭하여 사용 가능한 필터 옵션을 표시하고 원하는 설정을 선택합니다.
 
 스크린샷
 
 ### 열 표시 사용자 정의 {#customize-the-column-display}
 
-오른쪽 상단의 _표 사용자 지정_ 아이콘(![표 사용자 지정 아이콘](../assets/do-not-localize/icon-column-settings.svg))을 클릭하여 표에 표시할 열을 사용자 지정합니다.
+오른쪽 상단의 _표 사용자 지정_ 아이콘(![표 사용자 지정 아이콘](assets/icon-column-settings.svg))을 클릭하여 표에 표시할 열을 사용자 지정합니다.
 
 대화 상자에서 원하는 열을 선택하고 **[!UICONTROL 적용]**&#x200B;을 클릭합니다.
 
