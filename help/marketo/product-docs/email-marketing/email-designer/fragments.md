@@ -3,9 +3,9 @@ title: 조각
 description: 시각적 콘텐츠 조각을 이메일 및 이메일 템플릿에 대한 재사용 가능한 구성 요소로 만들고 사용하는 방법에 대해 알아봅니다.
 hide: true
 hidefromtoc: true
-source-git-commit: 402f8da4fdb92619d561fe4acb8aead0d9701c51
+source-git-commit: 32aff679ec2de3f4ff93f89ac298b1fec3cb9792
 workflow-type: tm+mt
-source-wordcount: '2428'
+source-wordcount: '2429'
 ht-degree: 3%
 
 ---
@@ -236,7 +236,7 @@ _전자 메일_ 또는 _전자 메일 템플릿_ 범주에 따라 참조가 표�
 
 1. 콘텐츠를 업데이트하려면 오른쪽 상단의 **[!UICONTROL 초안 버전 만들기]**&#x200B;를 클릭하십시오.
 
-   대화 상자에서 **[!UICONTROL 확인]**&#x200B;을 클릭하여 비주얼 디자이너에서 초안 버전을 엽니다. 필요한 경우 [이미지 소스](./assets-overview.md#choose-an-asset-source)를 변경할 수 있습니다.
+   대화 상자에서 **[!UICONTROL 확인]**&#x200B;을 클릭하여 비주얼 디자이너에서 초안 버전을 엽니다. 필요한 경우 `image source`KG을 변경할 수 있습니다. 여기에서 링크를 클릭하세요.
 
 스크린샷
 
