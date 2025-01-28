@@ -3,9 +3,9 @@ audience: end-user
 user-guide-title: Marketo 안내서
 user-guide-description: Marketo 제품 설명서
 feature-set: Marketo Engage
-source-git-commit: ace80b7c19979c48927f37adf0d09471fec3f93b
+source-git-commit: b9c1ffef43f18aa504d23b3101cfab896800537f
 workflow-type: tm+mt
-source-wordcount: '9394'
+source-wordcount: '9406'
 ht-degree: 0%
 
 ---
@@ -1061,6 +1061,12 @@ ht-degree: 0%
             + [스트림 콘텐츠 가용성 편집](product-docs/email-marketing/drip-nurturing/using-stream-content/edit-availability-of-stream-content.md)
             + [스트림 콘텐츠 우선 순위 지정](product-docs/email-marketing/drip-nurturing/using-stream-content/prioritize-stream-content.md)
             + [스트림 콘텐츠 제거](product-docs/email-marketing/drip-nurturing/using-stream-content/remove-stream-content.md)
+      + 이메일 Designer {#email-designer}
+         + [개요](product-docs/email-marketing/email-designer/overview.md)
+         + [이메일 작성](product-docs/email-marketing/email-designer/email-authoring.md)
+         + [이메일 템플릿](product-docs/email-marketing/email-designer/email-templates.md)
+         + [AEM Assets 작업](product-docs/email-marketing/email-designer/aem-assets.md)
+         + [조각](product-docs/email-marketing/email-designer/fragments.md)
       + 전자 메일 프로그램 {#email-programs}
          + 전자 메일 프로그램 {#creating-an-email-program} 만들기
             + [이메일 프로그램 만들기](product-docs/email-marketing/email-programs/creating-an-email-program/create-an-email-program.md)
