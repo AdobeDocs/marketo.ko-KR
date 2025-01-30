@@ -4,9 +4,10 @@ title: 이메일 작성
 hide: true
 hidefromtoc: true
 feature: Email Editor
-source-git-commit: 723caafc41da6d4aeb9101bb6f9a999b45d72dd9
+exl-id: 9d9b6cf3-f907-47d4-805d-4f9c73db5a32
+source-git-commit: 783a5baa5961ea899b41c8d4a329598fbeb5e58f
 workflow-type: tm+mt
-source-wordcount: '1486'
+source-wordcount: '1611'
 ht-degree: 1%
 
 ---
@@ -20,6 +21,12 @@ ht-degree: 1%
 >새 이메일 디자이너에 액세스하려면 Marketo Engage 구독을 [IMS(Adobe Identity Management System)](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/administration/marketo-with-adobe-identity/adobe-identity-management-overview)(으)로 마이그레이션해야 합니다. 아직 실행되지 않았으며 신속 처리를 요청하려면 Adobe 계정 팀(계정 관리자) 또는 [Marketo 지원](https://nation.marketo.com/t5/support/ct-p/Support)에 문의하세요.
 
 ## 이메일 만들기 {#create-an-email}
+
+이메일 Designer의 이메일은 Design Studio에서만 만들고 스마트 캠페인/목록에서 참조하거나 현재 이메일 프로그램에서 직접 만들기/사용할 수 있습니다.
+
+>[!BEGINTABS]
+
+>[!TAB 디자인 스튜디오]
 
 1. [Adobe Experience Cloud](https://experiencecloud.adobe.com/){target="_blank"}을 통해 Marketo Engage에 로그인합니다.
 
@@ -38,6 +45,28 @@ ht-degree: 1%
 1. 이메일 이름과 제목 줄을 입력합니다. **만들기**&#x200B;를 클릭합니다.
 
    ![](assets/create-an-email-4.png)
+
+>[!TAB 전자 메일 프로그램]
+
+1. [Adobe Experience Cloud](https://experiencecloud.adobe.com/){target="_blank"}을 통해 Marketo Engage에 로그인합니다.
+
+1. 이메일 프로그램을 찾아 선택(또는 생성)합니다.
+
+   ![](assets/create-an-email-5.png)
+
+1. 새 이메일을 만드는 두 가지 옵션이 있습니다. 전자 메일 프로그램 이름을 마우스 오른쪽 단추로 클릭하고 **새 로컬 자산**&#x200B;을 선택하거나 대시보드의 전자 메일 상자에서 **+새 전자 메일** 단추를 클릭합니다. 이 예제에서는 전자를 수행합니다.
+
+   ![](assets/create-an-email-6.png)
+
+1. **전자 메일(새 편집기)**&#x200B;을 선택합니다.
+
+   ![](assets/create-an-email-7.png)
+
+1. 이메일 이름과 제목 줄을 입력합니다. **만들기**&#x200B;를 클릭합니다.
+
+   ![](assets/create-an-email-8.png)
+
+>[!ENDTABS]
 
 다 됐습니다. 이제 이메일을 디자인할 차례입니다.
 
@@ -308,7 +337,7 @@ Marketo Engage 인스턴스의 [이미지 및 파일](/help/marketo/product-docs
 
 ## 이메일 참조 {#reference-an-email}
 
-새 편집기에서 이메일을 만든 후에는 다른 이메일과 마찬가지로 스마트 캠페인 및/또는 스마트 목록에서 이를 참조할 수 있습니다.
+이메일 프로그램 내에서 이메일을 만든 경우 해당 프로그램에서만 사용할 수 있습니다. Design Studio에서 이메일을 만든 경우 다른 이메일과 마찬가지로 스마트 캠페인 및/또는 스마트 목록에서 해당 이메일을 참조할 수 있습니다.
 
 * [일반적인 단계에 따라](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/creating-a-smart-list/create-a-smart-list.md)스마트 목록에서 참조합니다.
 
@@ -320,4 +349,4 @@ Marketo Engage 인스턴스의 [이미지 및 파일](/help/marketo/product-docs
 
 >[!MORELIKETHIS]
 >
->[전자 메일 템플릿](/help/marketo/product-docs/email-marketing/general/beta-new-email-designer/email-templates.md){target="_blank"}: 새 디자이너에서 전자 메일 템플릿을 만들고 디자인하고 액세스하는 방법을 알아봅니다.
+>[전자 메일 템플릿](/help/marketo/product-docs/email-marketing/email-designer/email-templates.md){target="_blank"}: 새 디자이너에서 전자 메일 템플릿을 만들고 디자인하고 액세스하는 방법을 알아봅니다.

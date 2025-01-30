@@ -3,10 +3,11 @@ title: 조각
 description: 시각적 콘텐츠 조각을 이메일 및 이메일 템플릿에 대한 재사용 가능한 구성 요소로 만들고 사용하는 방법에 대해 알아봅니다.
 hide: true
 hidefromtoc: true
-source-git-commit: 32aff679ec2de3f4ff93f89ac298b1fec3cb9792
+exl-id: abc065a0-cd2f-4f0f-a5f2-228b833b99a8
+source-git-commit: 783a5baa5961ea899b41c8d4a329598fbeb5e58f
 workflow-type: tm+mt
-source-wordcount: '2429'
-ht-degree: 3%
+source-wordcount: '2371'
+ht-degree: 1%
 
 ---
 
@@ -25,13 +26,13 @@ ht-degree: 3%
 
 ## 조각 액세스 및 관리 {#access-and-manage-fragments}
 
-시각적 조각에 액세스하려면 왼쪽 탐색으로 이동하여 **[!UICONTROL 콘텐츠 관리]** > **[!UICONTROL 조각]**&#x200B;을 클릭하십시오. 이 작업을 수행하면 테이블에 나열된 인스턴스에서 만든 모든 조각이 포함된 목록 페이지가 열립니다.
+시각적 조각에 액세스하려면 Design Studio로 이동합니다. 왼쪽의 트리에서 **[!UICONTROL 조각(새로 만들기)]**&#x200B;을 클릭합니다.
 
 스크린샷
 
-표는 _[!UICONTROL 수정됨]_ 열을 기준으로 정렬되며 가장 최근에 업데이트된 조각이 기본적으로 맨 위에 있습니다. 오름차순과 내림차순 간을 변경하려면 열 제목을 클릭합니다.
+기본적으로 테이블은 _[!UICONTROL 수정됨]_ 열을 기준으로 정렬되며 가장 최근에 업데이트된 조각이 맨 위에 있습니다. 정렬을 변경하려면 다른 열 제목을 클릭합니다. 오름차순과 내림차순 간을 전환하려면 다시 클릭합니다.
 
-### 조각 상태 및 라이프사이클
+### 조각 상태 {#fragment-status}
 
 조각 상태는 이메일 또는 이메일 템플릿에서 사용할 수 있는 가용성과 해당 조각에 적용할 수 있는 변경 사항을 결정합니다.
 
@@ -121,17 +122,7 @@ ht-degree: 3%
 
 ### 구조 및 콘텐츠 추가 {#add-structure-and-content}
 
->[!CONTEXTUALHELP]
->id="ajo-b2b_structure_components_fragment"
->title="구조 구성 요소 추가"
->abstract="구조 구성 요소는 조각 레이아웃을 정의합니다. **구조** 구성 요소를 캔버스로 드래그 앤 드롭하여 조각의 콘텐츠 디자인을 시작할 수 있습니다."
-
->[!CONTEXTUALHELP]
->id="ajo-b2b_content_components_fragment"
->title="콘텐츠 구성 요소 정보"
->abstract="콘텐츠 구성 요소는 조각 레이아웃 제작에 사용할 수 있는 빈 콘텐츠 플레이스홀더입니다."
-
-{{$include /help/_includes/content-design-components.md}}
+{{$include /help/marketo/_includes/content-design-components.md}}
 
 ### 에셋 추가
 
@@ -327,7 +318,7 @@ _[!UICONTROL 조각]_ 목록 페이지에서 편집할 초안 버전을 여는 �
 
 1. **[!UICONTROL 계정 여정]**(으)로 이동하여 기존 여정을 열거나 새 여정을 만드십시오. &lt;— 다음을 다시 확인
 
-----------여기에서 편집을 중지함---------
+---------여기에서 편집을 중지함---------
 
 1. [_[!UICONTROL 전자 메일 보내기&#x200B;]_노드](./email-authoring.md#add-an-email-action-in-an-account-journey)를 만듭니다.
 

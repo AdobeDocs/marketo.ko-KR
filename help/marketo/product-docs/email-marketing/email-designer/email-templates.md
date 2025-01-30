@@ -4,7 +4,8 @@ title: 이메일 템플릿
 hide: true
 hidefromtoc: true
 feature: Email Editor
-source-git-commit: 723caafc41da6d4aeb9101bb6f9a999b45d72dd9
+exl-id: 92af4ba4-f214-423c-ab2d-ade07b368797
+source-git-commit: 783a5baa5961ea899b41c8d4a329598fbeb5e58f
 workflow-type: tm+mt
 source-wordcount: '1714'
 ht-degree: 1%
@@ -352,4 +353,4 @@ _전자 메일 서식 파일_ 목록 페이지에서 왼쪽의 확인란을 선�
 
 >[!MORELIKETHIS]
 >
->[전자 메일 작성](/help/marketo/product-docs/email-marketing/general/beta-new-email-designer/email-authoring.md){target="_blank"}: 새 디자이너에서 전자 메일을 만들고 디자인하고 참조하는 방법에 대해 알아봅니다.
+>[전자 메일 작성](/help/marketo/product-docs/email-marketing/email-designer/email-authoring.md){target="_blank"}: 새 디자이너에서 전자 메일을 만들고 디자인하고 참조하는 방법에 대해 알아봅니다.
