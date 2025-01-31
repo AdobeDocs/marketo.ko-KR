@@ -1,11 +1,9 @@
 ---
 description: 이메일 작성 - Marketo 문서 - 제품 설명서
 title: 이메일 작성
-hide: true
-hidefromtoc: true
 feature: Email Editor
 exl-id: 9d9b6cf3-f907-47d4-805d-4f9c73db5a32
-source-git-commit: 35b5638ff62a25630a273ad320ee6d6c40191cc2
+source-git-commit: 861d4673fc173a9ce9d50f080cf0d85b6247155b
 workflow-type: tm+mt
 source-wordcount: '1739'
 ht-degree: 1%
@@ -22,7 +20,7 @@ ht-degree: 1%
 
 ## 이메일 만들기 {#create-an-email}
 
-이메일 Designer의 이메일은 Design Studio에서만 만들고 스마트 캠페인/목록에서 참조하거나 현재 이메일 프로그램에서 직접 만들기/사용할 수 있습니다.
+이메일 디자이너의 이메일은 Design Studio에서만 만들고 스마트 캠페인/목록에서 참조하거나 현재 이메일 프로그램에서 직접 만들거나 사용할 수 있습니다.
 
 >[!BEGINTABS]
 

@@ -1,13 +1,11 @@
 ---
 description: 개요 - Marketo 문서 - 제품 설명서
 title: 개요
-hide: true
-hidefromtoc: true
 feature: Email Editor
 exl-id: d31ce148-1feb-411e-bd10-453a6c7878fb
-source-git-commit: b8e8f81217b2addc4bc7dcd49be4cb852679d3b2
+source-git-commit: 861d4673fc173a9ce9d50f080cf0d85b6247155b
 workflow-type: tm+mt
-source-wordcount: '547'
+source-wordcount: '545'
 ht-degree: 0%
 
 ---
@@ -20,7 +18,7 @@ ht-degree: 0%
 >
 >새 이메일 디자이너에 액세스하려면 Marketo Engage 구독을 [IMS(Adobe Identity Management System)](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/administration/marketo-with-adobe-identity/adobe-identity-management-overview)(으)로 마이그레이션해야 합니다. 아직 실행되지 않았으며 신속 처리를 요청하려면 Adobe 계정 팀(계정 관리자) 또는 [Marketo 지원](https://nation.marketo.com/t5/support/ct-p/Support)에 문의하세요.
 
-새로운 이메일 Designer은 개선된 이메일 및 이메일 템플릿 작성 환경을 제공하여 표준 기본 템플릿과 함께 드래그 앤 드롭 편집기를 시각적으로 제공하여 생산성과 효율성을 개선하고자 하는 Marketo Engage의 최신 혁신입니다. 공급업체에 비용을 들이지 않고도 맞춤형 이메일 템플릿을 손쉽게 제작할 수 있습니다.
+새로운 이메일 디자이너는 향상된 이메일 및 이메일 템플릿 작성 환경을 제공하여 표준 기본 템플릿과 함께 드래그 앤 드롭 편집기를 시각적으로 제공하여 생산성과 효율성을 개선하고자 하는 Marketo Engage의 최신 혁신입니다. 공급업체에 비용을 들이지 않고도 맞춤형 이메일 템플릿을 손쉽게 제작할 수 있습니다.
 
 새 디자이너에서 만든 전자 메일은 전자 메일 프로그램 및 스마트 목록/캠페인에서 사용할 수 있습니다. 디자이너에 대한 강력한 새로운 개선 사항이 곧 제공될 예정입니다.
 
@@ -55,7 +53,7 @@ WYSIWYG이며 HTML 지식이 필요하지 않습니다. 쉽게 만들 수 있습
 
 **새 전자 메일 디자이너가 AMP 언어를 지원합니까?**
 
-현재 기본 버전에서는 AMP가 지원되지 않습니다.
+현재 AMP에 대한 지원이 없습니다.
 
 **특성별 다이내믹 콘텐츠는 훌륭하지만 세그먼트별 다이내믹 콘텐츠는 여전히 작동합니까?**
 
