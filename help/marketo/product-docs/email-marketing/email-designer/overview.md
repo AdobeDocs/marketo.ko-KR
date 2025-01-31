@@ -5,9 +5,9 @@ hide: true
 hidefromtoc: true
 feature: Email Editor
 exl-id: d31ce148-1feb-411e-bd10-453a6c7878fb
-source-git-commit: f6a8f9ec79240a10549adb12ca8b1b4124f683a3
+source-git-commit: b8e8f81217b2addc4bc7dcd49be4cb852679d3b2
 workflow-type: tm+mt
-source-wordcount: '543'
+source-wordcount: '547'
 ht-degree: 0%
 
 ---
@@ -28,7 +28,7 @@ ht-degree: 0%
 
 * [전자 메일 작성](/help/marketo/product-docs/email-marketing/email-designer/email-authoring.md){target="_blank"}: 새 편집기에서 전자 메일을 만들고 디자인하고 참조하는 방법에 대해 알아봅니다.
 
-* [전자 메일 템플릿](/help/marketo/product-docs/email-marketing/email-designer/email-templates.md){target="_blank"}: 새 편집기에서 전자 메일 템플릿을 만들고 디자인하고 액세스하는 방법을 알아봅니다.
+* [전자 메일 템플릿](/help/marketo/product-docs/email-marketing/email-designer/email-template-authoring.md){target="_blank"}: 새 편집기에서 전자 메일 템플릿을 만들고 디자인하고 액세스하는 방법을 알아봅니다.
 
 ## FAQ {#faq}
 
@@ -63,4 +63,4 @@ WYSIWYG이며 HTML 지식이 필요하지 않습니다. 쉽게 만들 수 있습
 
 **Marketo Engage 구독이 IMS(Adobe Admin Console)로 마이그레이션되었는지 어떻게 알 수 있습니까?**
 
-[experience.adobe.com](experience.adobe.com)을 통해 Marketo Engage에 로그인하면 구독이 마이그레이션되었습니다.
+[Adobe Experience Cloud](https://experiencecloud.adobe.com/){target="_blank"}을(를) 통해 Marketo Engage에 로그인하면 구독이 마이그레이션되었습니다.
