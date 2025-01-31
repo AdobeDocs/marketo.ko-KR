@@ -3,9 +3,9 @@ audience: end-user
 user-guide-title: Marketo 안내서
 user-guide-description: Marketo 제품 설명서
 feature-set: Marketo Engage
-source-git-commit: b9c1ffef43f18aa504d23b3101cfab896800537f
+source-git-commit: 7076f020035b5751328e34620f3992f49da82290
 workflow-type: tm+mt
-source-wordcount: '9406'
+source-wordcount: '9407'
 ht-degree: 0%
 
 ---
@@ -1064,7 +1064,7 @@ ht-degree: 0%
       + 이메일 Designer {#email-designer}
          + [개요](product-docs/email-marketing/email-designer/overview.md)
          + [이메일 작성](product-docs/email-marketing/email-designer/email-authoring.md)
-         + [이메일 템플릿](product-docs/email-marketing/email-designer/email-templates.md)
+         + [이메일 템플릿 작성](product-docs/email-marketing/email-designer/email-templates-authoring.md)
          + [AEM Assets 작업](product-docs/email-marketing/email-designer/aem-assets.md)
          + [조각](product-docs/email-marketing/email-designer/fragments.md)
       + 전자 메일 프로그램 {#email-programs}

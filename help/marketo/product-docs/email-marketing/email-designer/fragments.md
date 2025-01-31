@@ -4,9 +4,9 @@ description: 시각적 콘텐츠 조각을 이메일 및 이메일 템플릿에 
 hide: true
 hidefromtoc: true
 exl-id: abc065a0-cd2f-4f0f-a5f2-228b833b99a8
-source-git-commit: f6a8f9ec79240a10549adb12ca8b1b4124f683a3
+source-git-commit: 7076f020035b5751328e34620f3992f49da82290
 workflow-type: tm+mt
-source-wordcount: '2395'
+source-wordcount: '2396'
 ht-degree: 1%
 
 ---
@@ -28,7 +28,7 @@ ht-degree: 1%
 
 시각적 조각에 액세스하려면 Design Studio로 이동합니다. 왼쪽의 트리에서 **[!UICONTROL 조각(새로 만들기)]**&#x200B;을 클릭합니다.
 
-스크린샷
+![조각 액세스](assets/fragments-1.png){width="600" zoomable="yes"}
 
 기본적으로 테이블은 _[!UICONTROL 수정됨]_ 열을 기준으로 정렬됩니다. 테이블 정렬 기준을 변경하려면 다른 열 제목을 클릭합니다. 오름차순과 내림차순 간을 전환하려면 다시 클릭합니다.
 
