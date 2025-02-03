@@ -4,9 +4,9 @@ description: 이메일 CC - Marketo 문서 - 제품 설명서
 title: 이메일 CC
 exl-id: 00550e98-916d-4e66-91f8-7394c242a29b
 feature: Email Editor
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 94b458ee7138f90bd243d2d2a8b761dabff23a66
 workflow-type: tm+mt
-source-wordcount: '548'
+source-wordcount: '554'
 ht-degree: 0%
 
 ---
@@ -15,7 +15,7 @@ ht-degree: 0%
 
 이메일 CC를 사용하면 지정된 이메일을 Marketo을 통해 전송하여 CC 수신자를 포함할 수 있습니다.
 
-이 기능은 이메일 전송(배치 또는 트리거 캠페인)에 관계없이 모든 Marketo 이메일 에셋에서 사용할 수 있습니다. CC 수신자는 선택한 Marketo 개인에게 전송된 이메일의 정확한 사본을 받게 됩니다. 따라서 모든 참여 활동(열기, 클릭 등) 이메일의 &quot;받는 사람&quot; 줄에 있는 Marketo 사용자의 활동 로그에 기록됩니다. 하지만 게재 활동(전송, 게재, 하드 바운스 등)은 _소프트 바운스 이외의 항목_&#x200B;은(는) Marketo에서 Marketo 사용자에 대한 게재 이벤트를 CC 받는 사람과 구분할 수 없으므로 **등록되지 않습니다**. Marketo은 한 번에 최대 10만 명의 People을 CC로 처리합니다. 스마트 목록이 100k를 초과하고 모든 사람이 CC를 받아야 한다면 목록을 정리하는 것이 좋습니다.
+이 기능은 이메일 전송(배치 또는 트리거 캠페인)에 관계없이 모든 Marketo 이메일 에셋에서 사용할 수 있습니다. CC 수신자는 선택한 Marketo 개인에게 전송된 이메일의 정확한 사본을 받게 됩니다. 이에 따라 모든 참여 활동(열기, 클릭 등)은 이메일의 &quot;받는 사람&quot; 줄에 있는 Marketo 사용자의 활동 로그에 기록됩니다. 그러나 Marketo에서 Marketo 사용자에 대한 배달 이벤트를 CC 받는 사람 &#39;과 구분할 수 없으므로 게재 활동(전송, 배달, 하드 바운스 등) _&quot;소프트 바운스&quot;를 제외한_&#x200B;은(는) **등록되지 않습니다**. Marketo은 한 번에 최대 10만 명의 People을 CC로 처리합니다. 스마트 목록이 100k를 초과하고 모든 사람이 CC를 받아야 한다면 목록을 정리하는 것이 좋습니다.
 
 >[!NOTE]
 >
@@ -35,7 +35,7 @@ ht-degree: 0%
 
    ![](assets/three.png)
 
-1. 이메일 내에서 CC 주소로 사용할 수 있도록 하려면 최대 25개의 Marketo 리드 또는 회사 필드(&quot;이메일&quot; 유형)를 선택하십시오. 완료되면 **저장**&#x200B;을 클릭합니다.
+1. 최대 25개의 Marketo 리드 또는 회사 필드(&quot;이메일&quot; 유형의)를 선택하여 이메일 내에서 CC 주소로 사용할 수 있도록 합니다. 완료되면 **저장**&#x200B;을 클릭합니다.
 
    ![](assets/four.png)
 
@@ -49,7 +49,7 @@ ht-degree: 0%
 
    ![](assets/six.png)
 
-1. 참조에 사용할 필드를 최대 5개까지 선택하십시오. 이 예제에서는 Lead Owner CC 만 필요합니다. 완료되면 **저장**&#x200B;을 클릭합니다.
+1. 참조에 사용할 필드를 선택합니다. _이메일당 5개로 제한됩니다_. 이 예제에서는 Lead Owner CC 만 필요합니다. 완료되면 **저장**&#x200B;을 클릭합니다.
 
    ![](assets/seven.png)
 
