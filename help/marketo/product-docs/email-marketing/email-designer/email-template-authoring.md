@@ -2,8 +2,10 @@
 description: 이메일 템플릿 - Marketo 문서 - 제품 설명서
 title: 이메일 템플릿
 feature: Email Editor
+hide: true
+hidefromtoc: true
 exl-id: 92af4ba4-f214-423c-ab2d-ade07b368797
-source-git-commit: 4ebefa5eff49d2b703f0b4885c663945b215fa5c
+source-git-commit: aefdb7360ca4c687d05f4695afc618815b08c336
 workflow-type: tm+mt
 source-wordcount: '1843'
 ht-degree: 1%
@@ -162,7 +164,7 @@ _템플릿 디자인_ 페이지에서 몇 가지 옵션 중에서 선택할 수 
 
 전자 메일이 저장되면 조각 세부 정보 페이지의 _[!UICONTROL 사용한 사람]_ 탭에 나타납니다. 이메일 템플릿에 추가된 조각은 템플릿 내에서 편집할 수 없습니다. 소스 조각은 콘텐츠를 정의합니다.
 
-### Assets 추가 {#add-assets}
+### 에셋 추가 {#add-assets}
 
 Marketo Engage 인스턴스의 [이미지 및 파일](/help/marketo/product-docs/demand-generation/images-and-files/add-images-and-files-to-marketo.md){target="_blank"} 섹션에 저장된 이미지를 추가합니다.
 

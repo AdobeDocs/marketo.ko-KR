@@ -4,9 +4,9 @@ description: 시각적 콘텐츠 조각을 이메일 및 이메일 템플릿에 
 hide: true
 hidefromtoc: true
 exl-id: abc065a0-cd2f-4f0f-a5f2-228b833b99a8
-source-git-commit: 7076f020035b5751328e34620f3992f49da82290
+source-git-commit: aefdb7360ca4c687d05f4695afc618815b08c336
 workflow-type: tm+mt
-source-wordcount: '2396'
+source-wordcount: '2402'
 ht-degree: 1%
 
 ---
@@ -314,7 +314,7 @@ _[!UICONTROL 조각]_ 목록 페이지에서 편집할 초안 버전을 여는 �
 
 >[!TAB 전자 메일에 조각 추가]
 
-1. **[!UICONTROL 계정 여정]**(으)로 이동하여 기존 여정을 열거나 새 여정을 만드십시오. &lt;— 다음을 다시 확인
+1. **[!UICONTROL 계정 여정]**(으)로 이동하여 기존 여정을 열거나 새 여정을 만드십시오. &lt;— 이메일 또는 이메일 템플릿 내에 있는 경우에만 해당
 
 ---------여기에서 편집을 중지함---------
 
