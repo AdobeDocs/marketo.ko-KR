@@ -3,7 +3,7 @@ description: 최신 릴리스 정보 - Marketo 설명서 - 제품 설명서
 title: 최신 릴리스 정보
 exl-id: a2eccad5-73ad-48f9-8091-51cee23824e1
 feature: Release Information
-source-git-commit: 50c60e6b82215f59ec20e4872ff7a72edbb3681f
+source-git-commit: 6f2c91d31b1d2ea3f2977aa3c9b1ca40e5459a16
 workflow-type: tm+mt
 source-wordcount: '551'
 ht-degree: 3%
@@ -34,8 +34,8 @@ Adobe Dynamic Chat [에 대한 릴리스 정보는 여기에서 찾을 수 있�
     <tr> 
    <td><strong>새 전자 메일 Designer</strong>: Marketo Engage에서 새로운 기본 전자 메일 Designer을 사용하여 현대적이고 효율적인 전자 메일을 만듭니다. 미리 디자인된 기본 이메일 템플릿 중 하나에 액세스하거나 손쉽게 직접 만들 수 있습니다. 다이내믹 콘텐츠를 사용하고 Adobe Experience Manager 클라우드 서비스에서 이미지에 액세스합니다. Content Accelerator Gen-AI 기능을 사용하여 규모에 맞게 혁신적이고 성능이 뛰어난 이메일을 만들 수 있습니다.
    <p><img src="assets/note-icon.png" alt="메모 아이콘"> 참고: 새 이메일 디자이너에 액세스하려면 Marketo Engage 구독을 <a href="https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/administration/marketo-with-adobe-identity/adobe-identity-management-overview">IMS(Adobe Identity Management System)</a>(으)로 마이그레이션해야 합니다. 아직 실행되지 않았으며 신속 처리를 요청하려면 Adobe 계정 팀(계정 관리자) 또는 <a href="https://nation.marketo.com/t5/support/ct-p/Support">Marketo 지원</a>에 문의하세요. Content Accelerator Gen-AI 기능에 액세스하려면 Adobe 계정 팀에 문의하십시오.</td>
-   <td><i>곧 출시 예정</i></td>
-   <td><i>곧 출시 예정</i></td>
+   <td>배송됨</td>
+   <td><a href="/help/marketo/product-docs/email-marketing/email-designer/overview.md">이메일 Designer 개요</a></td>
   </tr>
   <tr> 
    <td> </td> 
