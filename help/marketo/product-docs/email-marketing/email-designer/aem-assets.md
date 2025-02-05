@@ -4,7 +4,7 @@ description: Adobe Marketo Engage에서 콘텐츠를 작성할 때 연결된 AEM
 hide: true
 hidefromtoc: true
 exl-id: c2172042-a35c-4179-bf81-6e96323bd4d4
-source-git-commit: 1676c9049c61a637faede4751ea49bbcfa018be5
+source-git-commit: 292626741d3b2334da104a515c3e968fb340706a
 workflow-type: tm+mt
 source-wordcount: '617'
 ht-degree: 1%
@@ -53,13 +53,13 @@ _Adobe Experience Manager Assets as a Cloud Service_&#x200B;이(가) Adobe Marke
 
 원하는 저장소를 선택합니다.
 
-![이미지 자산에 액세스할 AEM Assets 저장소를 선택하십시오](assets/work-with-experience-manager-assets-five.png)
+![이미지 자산에 액세스할 AEM Assets 저장소를 선택하십시오](assets/work-with-experience-manager-assets-5.png)
 
 이미지 에셋을 시각적 캔버스에 추가하는 방법에는 여러 가지가 있습니다.
 
 * 왼쪽 탐색에서 이미지 썸네일을 끌어서 놓습니다.
 
-![이미지 자산에 액세스할 AEM Assets 저장소를 선택하십시오](assets/work-with-experience-manager-assets-5.png){width="700" zoomable="yes"}
+![이미지 자산에 액세스할 AEM Assets 저장소를 선택하십시오](assets/work-with-experience-manager-assets-6.png){width="700" zoomable="yes"}
 
 * 캔버스에 이미지 구성 요소를 추가하고 **[!UICONTROL 찾아보기]**&#x200B;를 클릭하여 _[!UICONTROL Assets 선택]_ 대화 상자를 엽니다.
 
@@ -67,7 +67,7 @@ _Adobe Experience Manager Assets as a Cloud Service_&#x200B;이(가) Adobe Marke
 
   필요한 에셋을 찾는 데 도움이 되는 여러 가지 도구가 있습니다.
 
-![Assets 선택 대화 상자에서 도구를 사용하여 이미지 자산을 찾아 선택합니다](assets/work-with-experience-manager-assets-6.png){width="700" zoomable="yes"}
+![Assets 선택 대화 상자에서 도구를 사용하여 이미지 자산을 찾아 선택합니다](assets/work-with-experience-manager-assets-7.png){width="700" zoomable="yes"}
 
 * 오른쪽 상단에서 **[!UICONTROL 저장소]**&#x200B;를 변경합니다.
 
@@ -83,4 +83,4 @@ _Adobe Experience Manager Assets as a Cloud Service_&#x200B;이(가) Adobe Marke
 
 * 표시된 항목을 자산 이름과 일치하도록 필터링하려면 검색 필드에 텍스트를 입력합니다.
 
-![필터 및 검색 필드를 사용하여 자산을 찾습니다](assets/work-with-experience-manager-assets-7.png){width="700" zoomable="yes"}
+![필터 및 검색 필드를 사용하여 자산을 찾습니다](assets/work-with-experience-manager-assets-8.png){width="700" zoomable="yes"}

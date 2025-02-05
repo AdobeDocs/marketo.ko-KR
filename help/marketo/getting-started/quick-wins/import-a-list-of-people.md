@@ -4,9 +4,9 @@ description: 사람 목록 가져오기 - Marketo 문서 - 제품 설명서
 title: 사람 목록 가져오기
 exl-id: a85ec787-7b22-4666-84fd-d7bf23d32cd4
 feature: Getting Started
-source-git-commit: 1676c9049c61a637faede4751ea49bbcfa018be5
+source-git-commit: 292626741d3b2334da104a515c3e968fb340706a
 workflow-type: tm+mt
-source-wordcount: '565'
+source-wordcount: '581'
 ht-degree: 0%
 
 ---
@@ -45,7 +45,7 @@ ht-degree: 0%
    >
    >* Marketo은 이모지가 포함된 이메일 주소를 **지원하지 않습니다**.
    >
-   >* CSV를 통해 `NULL` 값을 가져오면 사용자의 [활동 로그](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/managing-people-in-smart-lists/locate-the-activity-log-for-a-person.md){target="_blank"}, _필드가 이미 비어 있는 경우에도_&#x200B;의 숫자 필드에 대한 &quot;데이터 값 변경&quot;이 생성될 수 있습니다. &quot;변경된 데이터 값&quot; 필터 또는 &quot;데이터 값 변경&quot; 트리거를 사용하는 [스마트 캠페인](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/understanding-smart-campaigns.md){target="_blank"}이 있는 경우 가져오기를 수행할 때 불필요하게 트리거되지 않도록 [제약 조건](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/using-smart-lists/add-a-constraint-to-a-smart-list-filter.md){target="_blank"}을 사용하십시오.
+   >* CSV를 통해 `NULL` 값을 가져오면 사용자의 [활동 로그](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/managing-people-in-smart-lists/locate-the-activity-log-for-a-person.md){target="_blank"}, _필드가 이미 비어 있는 경우에도_&#x200B;의 숫자 필드에 대한 &quot;데이터 값 변경&quot;이 생성될 수 있습니다. &quot;변경된 데이터 값&quot; 필터 또는 &quot;데이터 값 변경&quot; 트리거를 사용하는 [스마트 캠페인](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/understanding-smart-campaigns.md){target="_blank"}이 있는 경우 데이터가 실제로 변경되지 않더라도 사람들이 해당 캠페인에 대한 자격을 얻을 수 있습니다. [제약 조건](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/using-smart-lists/add-a-constraint-to-a-smart-list-filter.md){target="_blank"}을 사용하여 가져올 때 해당 캠페인에 적합한 사람이 없도록 할 수 있습니다.
 
 ## 2단계: 프로그램 만들기 {#step-create-a-program}
 
