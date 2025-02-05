@@ -4,16 +4,16 @@ description: Adobe Marketo Engage에서 콘텐츠를 작성할 때 연결된 AEM
 hide: true
 hidefromtoc: true
 exl-id: c2172042-a35c-4179-bf81-6e96323bd4d4
-source-git-commit: 292626741d3b2334da104a515c3e968fb340706a
+source-git-commit: 233c50c0539131c21e913cbd6ba5471f1a41f407
 workflow-type: tm+mt
-source-wordcount: '617'
+source-wordcount: '598'
 ht-degree: 1%
 
 ---
 
 # Experience Manager 에셋으로 작업 {#work-with-experience-manager-assets}
 
-_Adobe Experience Manager Assets as a Cloud Service_&#x200B;이(가) Adobe Marketo Engage과 통합되면 마케팅 콘텐츠에서 사용할 디지털 에셋에 쉽게 액세스할 수 있습니다. 콘텐츠를 작성할 때 왼쪽 탐색 메뉴의 _[!UICONTROL Experience Manager Assets]_ 항목에서 에셋에 액세스할 수 있습니다.
+_Adobe Experience Manager Assets as a Cloud Service_&#x200B;이(가) Adobe Marketo Engage과 통합되면 마케팅 콘텐츠에서 사용할 디지털 에셋에 쉽게 액세스할 수 있습니다.
 
 >[!PREREQUISITES]
 >
