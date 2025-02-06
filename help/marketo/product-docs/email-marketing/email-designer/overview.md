@@ -3,7 +3,7 @@ description: 개요 - Marketo 문서 - 제품 설명서
 title: 개요
 feature: Email Editor
 exl-id: d31ce148-1feb-411e-bd10-453a6c7878fb
-source-git-commit: 92404e10771920862cd147c09e2ada37484e6118
+source-git-commit: 56f40040f6a6eae9ec80393727b89b7902d22816
 workflow-type: tm+mt
 source-wordcount: '564'
 ht-degree: 0%
@@ -28,7 +28,7 @@ ht-degree: 0%
 
 * [전자 메일 템플릿 작성](/help/marketo/product-docs/email-marketing/email-designer/email-template-authoring.md){target="_blank"}: 새 편집기에서 전자 메일 템플릿을 만들고 디자인하고 액세스하는 방법에 대해 알아봅니다.
 
-* [AEM Assets 작업](product-docs/email-marketing/email-designer/aem-assets.md){target="_blank"}: Marketo Engage에서 사용할 AEM 디지털 에셋에 쉽게 액세스하는 방법에 대해 알아봅니다.
+* [AEM Assets 작업](/help/marketo/product-docs/email-marketing/email-designer/aem-assets.md){target="_blank"}: Marketo Engage에서 사용할 AEM 디지털 에셋에 쉽게 액세스하는 방법에 대해 알아봅니다.
 
 ## FAQ {#faq}
 
