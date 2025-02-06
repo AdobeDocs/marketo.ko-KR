@@ -4,9 +4,9 @@ description: 시각적 콘텐츠 조각을 이메일 및 이메일 템플릿에 
 hide: true
 hidefromtoc: true
 exl-id: abc065a0-cd2f-4f0f-a5f2-228b833b99a8
-source-git-commit: 233c50c0539131c21e913cbd6ba5471f1a41f407
+source-git-commit: 92404e10771920862cd147c09e2ada37484e6118
 workflow-type: tm+mt
-source-wordcount: '2029'
+source-wordcount: '2052'
 ht-degree: 1%
 
 ---
@@ -26,11 +26,25 @@ ht-degree: 1%
 
 ## 조각 액세스 및 관리 {#access-and-manage-fragments}
 
-시각적 조각에 액세스하려면 **Design Studio**(으)로 이동하십시오. 왼쪽의 트리에서 **[!UICONTROL 조각(새로 만들기)]**&#x200B;을 클릭합니다.
+시각적 조각에 액세스하려면 Marketo Engage의 **Design Studio**(으)로 이동하십시오. 왼쪽의 트리에서 **[!UICONTROL 조각(새로 만들기)]**&#x200B;을 클릭합니다.
 
-![조각 액세스](assets/fragments-1.png){width="600" zoomable="yes"}
+![조각 액세스](assets/access-and-manage-fragments-1.png){width="600" zoomable="yes"}
 
 기본적으로 테이블은 _[!UICONTROL 수정됨]_ 열을 기준으로 정렬됩니다. 테이블 정렬 기준을 변경하려면 다른 열 제목을 클릭합니다. 오름차순과 내림차순 간을 전환하려면 동일한 제목을 다시 클릭합니다.
+
+### 찾기 및 필터링
+
+검색 창을 사용하여 이름별로 조각을 찾습니다. _필터_ 아이콘( ![필터 아이콘](assets/icon-filter.svg) )을 클릭하여 사용 가능한 필터 옵션을 표시하고 원하는 설정을 선택합니다.
+
+![표시된 조각 필터링](assets/access-and-manage-fragments-2.png){width="700" zoomable="yes"}
+
+### 열 사용자 지정 {#customize-the-column-display}
+
+오른쪽 상단의 _표 사용자 지정_ 아이콘(![표 사용자 지정 아이콘](assets/icon-column-settings.svg))을 클릭하여 표에 표시할 열을 사용자 지정합니다.
+
+원하는 열을 선택하고 **[!UICONTROL 적용]**&#x200B;을 클릭합니다.
+
+![표 모달 사용자 지정](assets/access-and-manage-fragments-3.png){width="400" zoomable="yes"}
 
 ### 조각 상태 {#fragment-status}
 
@@ -73,36 +87,30 @@ ht-degree: 1%
   </tr>
 </tbody></table>
 
-### 조각 목록 필터링 {#filter-the-fragments-list}
-
-검색 창을 사용하여 이름별로 조각을 찾습니다. _필터_ 아이콘( ![필터 아이콘](assets/icon-filter.svg) )을 클릭하여 사용 가능한 필터 옵션을 표시하고 원하는 설정을 선택합니다.
-
-![표시된 조각 필터링](assets/fragments-list-filtered.png){width="700" zoomable="yes"}
-
-### 열 표시 사용자 정의 {#customize-the-column-display}
-
-오른쪽 상단의 _표 사용자 지정_ 아이콘(![표 사용자 지정 아이콘](assets/icon-column-settings.svg))을 클릭하여 표에 표시할 열을 사용자 지정합니다.
-
-대화 상자에서 원하는 열을 선택하고 **[!UICONTROL 적용]**&#x200B;을 클릭합니다.
-
-스크린샷
-
 ## 조각 만들기 {#create-fragments}
 
-오른쪽 상단의 **[!UICONTROL 조각 만들기]**&#x200B;를 클릭하여 새 시각적 조각을 만듭니다.
+1. 새 시각적 조각을 만들려면 조각 목록 페이지의 오른쪽 상단에 있는 **[!UICONTROL 조각 만들기]**&#x200B;를 클릭합니다.
 
-1. _[!UICONTROL 조각 만들기]_ 대화 상자에서 **[!UICONTROL 이름]** 및 선택적 **[!UICONTROL 설명]**&#x200B;을 입력하십시오.
+   ![조각 만들기 단추](assets/create-fragments-1.png){width="700" zoomable="yes"}
 
-   조각 요구 사항:
+1. 조각에 **[!UICONTROL 이름]** 및 선택적 **[!UICONTROL 설명]**&#x200B;을 지정하십시오.
 
-   * 이름 - 최대 100자, 고유해야 하며 대/소문자를 구분하지 않음
-   * 설명 - 최대 300자
-   * Alpha, 숫자 및 특수 문자도 가능합니다
+   _조각 요구 사항_
+
+   * 이름: 최대 100자, 대/소문자를 구분하지 않고 고유해야 함
+   * 설명: 최대 300자
+   * 문자: 영문자, 숫자 및 특수 문자 사용 가능
    * 예약된 문자가 **_허용되지 않음_**: `\ / : * ? " < > |`
 
-스크린샷
+   ![조각 만들기 모달](assets/create-fragments-2.png){width="400" zoomable="yes"}
 
 1. **[!UICONTROL 만들기]**&#x200B;를 클릭합니다.
+
+   ![조각 만들기 모달](assets/create-fragments-3.png){width="400" zoomable="yes"}
+
+   >[!NOTE]
+   >
+   >지금은 조각의 **Type**&#x200B;을(를) 수정할 수 없습니다.
 
    비주얼 디자이너가 빈 캔버스로 열립니다.
 

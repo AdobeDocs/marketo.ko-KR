@@ -1,12 +1,10 @@
 ---
 title: Experience Manager Assets 작업
 description: Adobe Marketo Engage에서 콘텐츠를 작성할 때 연결된 AEM Assets 저장소의 이미지 에셋을 사용하는 방법을 알아봅니다.
-hide: true
-hidefromtoc: true
 exl-id: c2172042-a35c-4179-bf81-6e96323bd4d4
-source-git-commit: 233c50c0539131c21e913cbd6ba5471f1a41f407
+source-git-commit: 92404e10771920862cd147c09e2ada37484e6118
 workflow-type: tm+mt
-source-wordcount: '598'
+source-wordcount: '607'
 ht-degree: 1%
 
 ---
@@ -17,13 +15,13 @@ _Adobe Experience Manager Assets as a Cloud Service_&#x200B;이(가) Adobe Marke
 
 >[!PREREQUISITES]
 >
->MKTO/AEM 문서에 연결합니다.
+>[Adobe Experience Manager Cloud Service을 Adobe Marketo Engage 인스턴스에 연결](/help/marketo/product-docs/email-marketing/email-designer/aem-cloud-services.md){target="_blank"}
 
 >[!NOTE]
 >
->현재 _Adobe Experience Manager Assets_&#x200B;의 이미지 자산만 Marketo Engage에서 지원됩니다. 에셋에 대한 변경은 Adobe Experience Manager Assets 중앙 저장소에서 수행해야 합니다. [자세히 알아보기](https://experienceleague.adobe.com/en/docs/experience-manager-cloud-service/content/assets/manage/manage-digital-assets)
+>현재 _Adobe Experience Manager Assets_&#x200B;의 이미지 자산만 Marketo Engage에서 지원됩니다. 에셋에 대한 변경은 Adobe Experience Manager Assets 중앙 저장소에서 수행해야 합니다. [자세히 알아보기](https://experienceleague.adobe.com/en/docs/experience-manager-cloud-service/content/assets/manage/manage-digital-assets){target="_blank"}
 
-이러한 디지털 에셋을 사용하는 경우 _Assets as a Cloud Service 이메일_&#x200B;의 최신 변경 사항이 연결된 참조를 통해 캠페인에 자동으로 전파됩니다. _Adobe Experience Manager Assetsas a Cloud Service 에서 이미지가 삭제되면_ 이메일에 손상된 참조가 표시됩니다. 현재 Marketo Engage에서 사용 중인 에셋이 수정되거나 삭제되면 이메일 작성자에게 이미지 변경 사항에 대한 알림이 표시됩니다. 에셋에 대한 모든 변경 작업은 Adobe Experience Manager Assets 중앙 저장소에서 수행해야 합니다.
+이러한 디지털 에셋을 사용하는 경우 _Assets as a Cloud Service 이메일_&#x200B;의 최신 변경 사항이 연결된 참조를 통해 캠페인에 자동으로 전파됩니다. _Adobe Experience Manager Assetsas a Cloud Service 에서 이미지가 삭제_&#x200B;된 경우 이메일에 손상된 참조가 표시됩니다. 현재 Marketo Engage에서 사용 중인 에셋이 수정되거나 삭제되면 이메일 작성자에게 이미지 변경 사항에 대한 알림이 표시됩니다. 에셋에 대한 모든 변경 작업은 Adobe Experience Manager Assets 중앙 저장소에서 수행해야 합니다.
 
 ## AEM Assets을 이미지 소스로 사용 {#use-aem-assets-as-the-image-source}
 
