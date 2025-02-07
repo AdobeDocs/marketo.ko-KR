@@ -1,18 +1,20 @@
 ---
-title: Content Accelerator 문서
-description: 방법 알아보기...
-hide: true
-hidefromtoc: true
-source-git-commit: 87dfe8e1f3f10940a9079e22a056ccb4f5ea9a95
+solution: Marketo Engage
+product: marketo engage
+title: AI Assistant Content Accelerator 사용
+description: Adobe의 생성 AI 기술을 활용하여 이메일에 유용한 텍스트나 멋진 이미지를 추가할 수 있습니다.
+feature: Email Editor
+exl-id: e07ed645-d8a3-483f-aa1f-f82bc9cb8634
+source-git-commit: a60fad2162ee963c37124fbeedab561dfd52884f
 workflow-type: tm+mt
-source-wordcount: '868'
+source-wordcount: '746'
 ht-degree: 0%
 
 ---
 
 # AI Assistant Content Accelerator 사용 {#use-the-ai-assistant-content-accelerator}
 
-AI Assistant Content Accelerator는 Marketo Engage 이메일 Designer 내의 기능으로, 생산성을 발휘하는 방식으로 현대적이고 성능이 뛰어나며 직관적인 이메일을 만들 수 있습니다. 이는 특정 성향/구매 그룹에 적합한 콘텐츠를 만드는 데 도움이 되는 이미지 생성 Firefly, 마케팅 여정 단계, 커뮤니케이션 전략, 톤 등과 함께 Adobe의 생성 AI 기술 및 프롬프트 라이브러리를 통해 수행됩니다. 특정 브랜드 자산을 활용하여 콘텐츠를 만들 수도 있습니다.
+Marketo Engage 이메일 Designer 내의 AI Assistant Content Accelerator를 사용하면 현대적이고 성능이 뛰어나며 직관적인 이메일을 만들 수 있습니다. 이는 특정 성향/구매 그룹에 적합한 콘텐츠를 만드는 데 도움이 되는 이미지 생성 Firefly, 마케팅 여정 단계, 커뮤니케이션 전략, 톤 등과 함께 Adobe의 생성 AI 기술 및 프롬프트 라이브러리를 통해 수행됩니다. 특정 브랜드 자산을 활용하여 콘텐츠를 만들 수도 있습니다.
 
 >[!PREREQUISITES]
 >
@@ -28,26 +30,24 @@ AI Assistant Content Accelerator에는 다음과 같은 세 가지 주요 사용
 
 새 이메일 Designer을 사용하여 이메일을 만들었을 때 임시 제목 줄을 입력합니다.
 
-스크린샷
+![](assets/use-the-ai-assistant-content-accelerator-1.png)
 
 전자 메일이 만들어지면 제목 줄이 오른쪽의 _세부 정보_ 열에 있습니다. Gen AI 기능을 사용하여 새 제목 줄을 만드는 데 도움이 필요하면 옆에 있는 AI 지원 단추(![필터 아이콘](assets/icon-ai-assistant.png))를 클릭합니다.
 
-스크린샷
+![](assets/use-the-ai-assistant-content-accelerator-2.png)
 
-—여기에서 편집을 중지함—
-
-이미 제목 줄을 사용했으며 생성을 위한 참조로 사용하려면 &quot;참조 콘텐츠 사용&quot; 버튼을 토글합니다.
+AI Assistant Content Accelerator에서 **참조 콘텐츠 사용** 옵션을 활성화하여 선택한 콘텐츠를 기반으로 새 콘텐츠를 개인화할 수 있습니다.
 
 제목 줄을 사용자 지정하라는 메시지를 입력합니다. 적절한 제목 줄을 만들기 위해 관련 텍스트 설정을 입력하고 참조로 사용할 브랜드 에셋을 업로드합니다.
 
-스크린샷
+![](assets/use-the-ai-assistant-content-accelerator-3.png)
 
 텍스트 설정에는 다음이 포함됩니다.
 
 <table><tbody>
   <tr>
     <td><b>구매 그룹</b></td>
-    <td>타깃팅하는 특정 구매 그룹(예: CEO, 인플루언서, 의사 결정자).</td>
+    <td>타깃팅하는 특정 구매 그룹(예: 실무자, 인플루언서, 의사 결정자).</td>
   </tr>
   <tr>
     <td><b>마케팅 여정 단계</b></td>
@@ -72,60 +72,58 @@ AI Assistant Content Accelerator에는 다음과 같은 세 가지 주요 사용
 </tbody>
 </table>
 
-채워진 텍스트 샘플 설정은 다음과 같습니다.
+**생성**&#x200B;을 클릭하면 다음 중에서 선택할 수 있는 샘플이 나타납니다.
 
-스크린샷
+![](assets/use-the-ai-assistant-content-accelerator-4.png)
 
-브랜드 에셋을 업로드하여 에셋 내의 콘텐츠를 참조 콘텐츠로 사용하여 제목 줄을 만들도록 선택할 수도 있습니다.
+브랜드 에셋을 업로드하여 에셋 내의 콘텐츠를 참조용으로 사용하여 제목 줄을 만들 수도 있습니다.
 
-스크린샷
+![](assets/use-the-ai-assistant-content-accelerator-5.png)
 
-한 개의 변형을 선택한 후에는 확인란을 통해 변형을 선택하고 선택을 클릭하여 사용할 수 있습니다. 설정 세분화 및 수정을 클릭하여 세분화를 선택할 수도 있습니다. 또한, 자신의 선호도에 따라 Gen-AI 기술이 작동하는 것을 이해하도록 엄지 손가락을 위 또는 아래로 사용하여 피드백을 제공할 수 있습니다.
+변형을 선택하려면 해당 확인란을 선택하고 **선택**&#x200B;을 클릭합니다. **세분화**&#x200B;를 클릭하여 조정할 수도 있습니다. 또한, 엄지손가락 위로 또는 엄지손가락 아래로 아이콘을 클릭하여 피드백을 제공할 수 있으므로 Gen-AI 기술이 사용자의 선호도를 학습할 수 있습니다.
 
-선택하면 제목 줄이 이메일 세부 정보에서 채워지는 것을 볼 수 있습니다
+을 선택하면 제목 줄이 이메일 세부 정보에 채워집니다.
 
-스크린샷
+![](assets/use-the-ai-assistant-content-accelerator-6.png)
 
 ## 이메일의 특정 섹션에 대한 콘텐츠 만들기 {#create-content-for-a-specific-section}
 
-이메일 템플릿에서 AI Assistant를 통해 이메일을 만든 경우에도 이메일이나 텍스트와 같은 이미지의 특정 부분을 수정할 수 있습니다.
+이메일이 만들어지면 특정 섹션, 이미지 또는 텍스트를 수정할 수 있습니다.
 
-스크린샷
+![](assets/use-the-ai-assistant-content-accelerator-7.png)
 
-생성된 이전 이메일에서, 의료 전문가의 이미지는 그다지 적절하지 않으므로, 실제 이미지가 없는 경우 AI 비서가 의료 전문가의 이미지를 표시처럼 만들도록 지시할 수 있습니다.
+이 예제에서는 의료 템플릿을 사용하고 있습니다. 기존 헬스케어 전문가 이미지가 본인의 요구를 충족하지 못할 경우 AI 비서로 하여금 헬스케어 전문가 이미지를 직접 만들도록 지도할 수 있다. 이미지 콘텐츠를 선택한 다음 AI 도우미를 클릭하면 됩니다.
 
-이러한 경우 이메일의 일부를 선택한 다음 AI 어시스턴트를 사용하여 해당 섹션에 대한 콘텐츠를 구체적으로 만들 수 있습니다. 이미지 콘텐츠를 선택한 다음 AI 도우미를 클릭합니다.
+![](assets/use-the-ai-assistant-content-accelerator-8.png)
 
-스크린샷
+프롬프트에 &quot;의료 전문가를 위한 이미지 생성&quot;과 같은 관련 세부 정보를 입력하고 원하는 사용자 정의를 추가합니다. 입력할 내용을 잘 모르는 경우 프롬프트 라이브러리(프롬프트 오른쪽)를 사용할 수도 있습니다.
 
-프롬프트에 &quot;의료 전문가를 위한 이미지 생성&quot;과 같은 관련 세부 정보를 입력하고 필요한 경우 사용자 정의를 추가합니다. 어떤 프롬프트를 입력할지 확실하지 않은 경우 프롬프트 오른쪽에 있는 프롬프트 라이브러리를 사용할 수도 있습니다.
+**생성**&#x200B;을 클릭하면 선택할 수 있도록 여러 변형이 만들어집니다.
 
-&quot;생성&quot;을 클릭하면 여러 변형이 만들어지고 이메일의 콘텐츠에 맞는 변형을 선택할 수 있습니다.
+![](assets/use-the-ai-assistant-content-accelerator-9.png)
 
-스크린샷
+이미지와 유사하게 이메일의 텍스트 부분도 수정할 수 있습니다.
 
-이미지와 유사하게 텍스트와 같은 컨텐츠의 다른 부분도 수정할 수 있습니다.
-
-스크린샷
+![](assets/use-the-ai-assistant-content-accelerator-10.png)
 
 ## 선택한 템플릿에서 전체 이메일 만들기 {#create-an-entire-email}
 
-이 옵션은 기존 템플릿을 사용하여 이메일을 만드는 경우에만 사용할 수 있습니다. 이메일 Designer에서 제공하는 표준 템플릿, 마케터가 이미 만든 저장된 템플릿 또는 가져오기 HTML을 사용하여 가져온 템플릿일 수 있습니다. 이메일에 대해 &quot;처음부터 디자인&quot;을 선택한 경우 이 옵션을 사용할 수 없습니다.
+이 옵션은 기존 템플릿을 사용하여 이메일을 만드는 경우에만 사용할 수 있습니다. 이메일 Designer에서 제공하는 표준 템플릿, 이미 만든 저장된 템플릿 또는 HTML 가져오기 옵션을 사용하여 가져온 템플릿일 수 있습니다. 전자 메일에 대해 [처음부터 디자인](/help/marketo/product-docs/email-marketing/email-designer/email-authoring.md#design-from-scratch)을 선택한 경우에는 이 옵션을 사용할 수 없습니다.
 
-템플릿 내의 구성 요소를 선택하지 않고, 특정 템플릿을 선택할 때 새 이메일 Designer 내의 AI 도우미 버튼을 클릭합니다.
+템플릿 내의 구성 요소를 선택하지 않고 템플릿을 선택한 다음 이메일 Designer에서 AI 도우미 버튼을 클릭합니다.
 
-스크린샷
+![](assets/use-the-ai-assistant-content-accelerator-11.png)
 
-관련 프롬프트를 입력하고 이메일에 필요한 텍스트 설정, 브랜드 에셋 및 이미지 설정을 선택합니다.
+관련 프롬프트를 입력하고 이메일에 사용할 텍스트 설정, 브랜드 에셋 및 이미지 설정을 선택합니다.
 
-스크린샷
+![](assets/use-the-ai-assistant-content-accelerator-12.png)
 
-Firefly을 사용하여 이미지를 생성하려면 이미지 설정을 선택하고 &quot;AI를 사용하여 이미지 생성&quot;에 대한 토글을 켭니다
+Firefly을 사용하여 이미지를 생성하려면 이미지 설정을 선택하고 **AI를 사용하여 이미지 생성**&#x200B;에 대한 토글을 선택합니다.
 
-스크린샷
+![](assets/use-the-ai-assistant-content-accelerator-13.png)
 
-이메일에 적합한 Gen-AI 이미지를 생성하려면 콘텐츠 유형, 색상 및 톤, 조명 및 컴포지션 등의 적절한 설정을 선택합니다. 생성 을 클릭하여 이메일의 변형을 생성합니다.
+원하는 _콘텐츠 형식_, _색상 및 톤_, _조명_ 및 _컴포지션_&#x200B;을 선택하여 전자 메일의 Gen-AI 이미지를 만드십시오. 완료되면 **생성**&#x200B;을 클릭하세요.
 
-스크린샷
+![](assets/use-the-ai-assistant-content-accelerator-14.png)
 
-미리 보기 를 클릭하여 미리 볼 변형 중 하나를 선택하거나 변경 내용을 캔버스에 반영하도록 변형을 적용합니다.
+**미리 보기**&#x200B;를 클릭하여 전자 메일에 변형이 어떻게 표시되는지 확인하세요. **적용**&#x200B;을 클릭하여 변형을 선택하세요.
