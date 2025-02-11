@@ -2,10 +2,10 @@
 solution: Marketo Engage
 product: marketo engage
 title: AI Assistant Content Accelerator 사용
-description: Adobe의 생성 AI 기술을 활용하여 이메일에 유용한 텍스트나 멋진 이미지를 추가할 수 있습니다.
+description: Adobe의 생성 AI 기술을 활용하여 이메일에 유용한 텍스트 및/또는 이미지를 추가할 수 있습니다.
 feature: Email Editor
 exl-id: e07ed645-d8a3-483f-aa1f-f82bc9cb8634
-source-git-commit: a60fad2162ee963c37124fbeedab561dfd52884f
+source-git-commit: b8d878ce37218e4fd2afcd52fd07162d110e1c21
 workflow-type: tm+mt
 source-wordcount: '746'
 ht-degree: 0%
@@ -46,27 +46,27 @@ AI Assistant Content Accelerator에서 **참조 콘텐츠 사용** 옵션을 활
 
 <table><tbody>
   <tr>
-    <td><b>구매 그룹</b></td>
+    <td style="width:25%"><b>구매 그룹</b></td>
     <td>타깃팅하는 특정 구매 그룹(예: 실무자, 인플루언서, 의사 결정자).</td>
   </tr>
   <tr>
-    <td><b>마케팅 여정 단계</b></td>
+    <td style="width:25%"><b>마케팅 여정 단계</b></td>
     <td>특정 마케팅 여정 단계(예: 검색, 평가, 커밋)의 수신자.</td>
   </tr>
   <tr>
-    <td><b>커뮤니케이션 전략</b></td>
+    <td style="width:25%"><b>커뮤니케이션 전략</b></td>
     <td>커뮤니케이션의 목적(예: 긴급, 소셜 증명, 정보 제공).</td>
   </tr>
   <tr>
-    <td><b>언어</b></td>
+    <td style="width:25%"><b>언어</b></td>
     <td>제목란을 생성할 언어입니다.</td>
   </tr>
   <tr>
-    <td><b>톤</b></td>
+    <td style="width:25%"><b>톤</b></td>
     <td>콘텐츠를 생성할 톤(예: 영감, 흥미, 유머).</td>
   </tr>
   <tr>
-    <td><b>이모티콘</b></td>
+    <td style="width:25%"><b>이모티콘</b></td>
     <td>생성된 콘텐츠에 이모지를 포함할 수 있습니다.</td>
   </tr>
 </tbody>

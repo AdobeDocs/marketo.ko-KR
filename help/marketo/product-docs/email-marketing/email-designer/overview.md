@@ -1,11 +1,13 @@
 ---
+solution: Marketo Engage
+product: marketo engage
 description: 개요 - Marketo 문서 - 제품 설명서
 title: 개요
 feature: Email Editor
 exl-id: d31ce148-1feb-411e-bd10-453a6c7878fb
-source-git-commit: 56f40040f6a6eae9ec80393727b89b7902d22816
+source-git-commit: 57b391e568417e34bf1b124d47be13dd22ab98a1
 workflow-type: tm+mt
-source-wordcount: '564'
+source-wordcount: '663'
 ht-degree: 0%
 
 ---
@@ -14,13 +16,31 @@ ht-degree: 0%
 
 새로운 Adobe Marketo Engage 이메일 Designer을 시작합니다.
 
->[!PREREQUISITES]
->
->새 이메일 디자이너에 액세스하려면 Marketo Engage 구독을 [IMS(Adobe Identity Management System)](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/administration/marketo-with-adobe-identity/adobe-identity-management-overview)(으)로 마이그레이션해야 합니다. 아직 실행되지 않았으며 신속 처리를 요청하려면 Adobe 계정 팀(계정 관리자) 또는 [Marketo 지원](https://nation.marketo.com/t5/support/ct-p/Support)에 문의하세요.
-
-새로운 이메일 디자이너는 향상된 이메일 및 이메일 템플릿 작성 환경을 제공하여 표준 기본 템플릿과 함께 드래그 앤 드롭 편집기를 시각적으로 제공하여 생산성과 효율성을 개선하고자 하는 Marketo Engage의 최신 혁신입니다. 공급업체에 비용을 들이지 않고도 맞춤형 이메일 템플릿을 손쉽게 제작할 수 있습니다.
+이메일 디자이너는 향상된 이메일 및 이메일 템플릿 작성 환경을 제공하여 표준 기본 템플릿과 함께 드래그 앤 드롭 편집기를 시각적으로 제공하여 생산성과 효율성을 개선하고자 하는 Marketo Engage의 최신 혁신입니다. 공급업체에 비용을 들이지 않고도 맞춤형 이메일 템플릿을 손쉽게 제작할 수 있습니다.
 
 새 디자이너에서 만든 전자 메일은 전자 메일 프로그램 및 스마트 목록/캠페인에서 사용할 수 있습니다. 디자이너에 대한 강력한 새로운 개선 사항이 곧 제공될 예정입니다.
+
+## 액세스 방법 {#how-to-access}
+
++++이메일 디자이너에 액세스하는 방법 알아보기
+
+새 이메일 디자이너에 액세스하려면 Marketo Engage 구독을 [IMS(Adobe Identity Management System)](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/administration/marketo-with-adobe-identity/adobe-identity-management-overview)(으)로 마이그레이션해야 합니다. 아직 실행되지 않았으며 신속 처리를 요청하려면 Adobe 계정 팀(계정 관리자) 또는 [Marketo 지원](https://nation.marketo.com/t5/support/ct-p/Support)에 문의하세요.
+
+### 사용자 추가 {#add-users}
+
+1. Marketo Engage에서 **[!UICONTROL 관리자]** 영역으로 이동하여 **[!UICONTROL 새 전자 메일 Designer]**&#x200B;을 선택합니다.
+
+   ![관리자의 왼쪽 탐색에서 새 전자 메일 Designer 선택](assets/overview-1.png){width="600" zoomable="yes"}
+
+1. **[!UICONTROL 사용자 추가]**&#x200B;를 클릭합니다.
+
+   ![사용자 추가 단추](assets/overview-2.png){width="600" zoomable="yes"}
+
+1. **[!UICONTROL 새 값 추가]** 드롭다운에서 원하는 사용자를 선택합니다. 완료되면 **[!UICONTROL 확인]**&#x200B;을 클릭하세요.
+
+   ![목록에서 사용자 선택](assets/overview-3.png){width="600" zoomable="yes"}
+
++++
 
 ## 사용 가능한 문서 {#available-articles}
 
@@ -28,7 +48,11 @@ ht-degree: 0%
 
 * [전자 메일 템플릿 작성](/help/marketo/product-docs/email-marketing/email-designer/email-template-authoring.md){target="_blank"}: 새 편집기에서 전자 메일 템플릿을 만들고 디자인하고 액세스하는 방법에 대해 알아봅니다.
 
-* [AEM Assets 작업](/help/marketo/product-docs/email-marketing/email-designer/aem-assets.md){target="_blank"}: Marketo Engage에서 사용할 AEM 디지털 에셋에 쉽게 액세스하는 방법에 대해 알아봅니다.
+* [AEM 에셋으로 작업](/help/marketo/product-docs/email-marketing/email-designer/aem-assets.md){target="_blank"}: Marketo Engage에서 사용할 AEM 디지털 에셋에 쉽게 액세스하는 방법에 대해 알아봅니다.
+
+* [AI Assistant Content Accelerator 사용](/help/marketo/product-docs/email-marketing/email-designer/content-accelerator.md){target="_blank"}: Adobe의 생성 AI 기술을 활용하여 이메일에 유용한 텍스트 및/또는 이미지를 추가합니다.
+
+* [전자 메일 템플릿의 콘텐츠 잠금](/help/marketo/product-docs/email-marketing/email-designer/content-locking.md){target="_blank"}: 전자 메일 템플릿의 콘텐츠를 잠그고 의도하지 않은 편집 또는 삭제를 방지하는 방법에 대해 알아봅니다.
 
 ## FAQ {#faq}
 
