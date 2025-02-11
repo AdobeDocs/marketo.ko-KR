@@ -3,7 +3,7 @@ audience: end-user
 user-guide-title: Marketo 안내서
 user-guide-description: Marketo 제품 설명서
 feature-set: Marketo Engage
-source-git-commit: dbdd1e1f50203e7122219aab55780761d9df99e3
+source-git-commit: e9a412d0786a0dbeb6f743a90bcaf735032561a6
 workflow-type: tm+mt
 source-wordcount: '9416'
 ht-degree: 1%
@@ -60,7 +60,7 @@ ht-degree: 1%
       + SEO {#seo}
          + SEO {#understanding-seo} 이해
             + [검색 엔진 최적화 이해](product-docs/additional-apps/seo/understanding-seo/understanding-search-engine-optimization.md)
-            + [SEO 대시보드 이해: SEO Recommendations](product-docs/additional-apps/seo/understanding-seo/understanding-the-seo-dashboard-seo-recommendations.md)
+            + [SEO 대시보드 이해: SEO 권장 사항](product-docs/additional-apps/seo/understanding-seo/understanding-the-seo-dashboard-seo-recommendations.md)
             + [SEO 대시보드 이해: SEO 스냅샷](product-docs/additional-apps/seo/understanding-seo/understanding-the-seo-dashboard-seo-snapshot.md)
             + [SEO - 사이트 추가/사이트 삭제](product-docs/additional-apps/seo/understanding-seo/seo-add-a-site-delete-a-site.md)
             + [SEO - 경쟁업체 추가](product-docs/additional-apps/seo/understanding-seo/seo-add-competitors.md)
@@ -160,7 +160,7 @@ ht-degree: 1%
          + [모든 Marketo API 필드 이름 목록 내보내기](product-docs/administration/field-management/export-a-list-of-all-marketo-api-field-names.md)
          + [필드에서 데이터에 의해 사용되는 내보내기](product-docs/administration/field-management/export-used-by-data-for-a-field.md)
          + [필드 숨기기 및 숨기기 취소](product-docs/administration/field-management/hide-and-unhide-a-field.md)
-         + [이메일의 HTML 인코딩 토큰](product-docs/administration/field-management/html-encode-tokens-in-emails.md)
+         + [HTML 이메일의 토큰 인코딩](product-docs/administration/field-management/html-encode-tokens-in-emails.md)
          + [필드를 중요 항목으로 표시](product-docs/administration/field-management/mark-a-field-as-sensitive.md)
          + [필드 이름 바꾸기](product-docs/administration/field-management/rename-a-field.md)
          + [시스템 관리 필드 이해](product-docs/administration/field-management/understanding-system-managed-fields.md)
@@ -170,7 +170,7 @@ ht-degree: 1%
          + [Marketo 사용자 지정 활동 필드 추가/편집/삭제](product-docs/administration/marketo-custom-activities/add-edit-delete-marketo-custom-activity-fields.md)
          + [사용자 지정 활동 만들기](product-docs/administration/marketo-custom-activities/create-a-custom-activity.md)
          + [사용자 지정 활동 편집](product-docs/administration/marketo-custom-activities/edit-a-custom-activity.md)
-         + [Publish a 사용자 지정 활동](product-docs/administration/marketo-custom-activities/publish-a-custom-activity.md)
+         + [사용자 지정 활동 게시](product-docs/administration/marketo-custom-activities/publish-a-custom-activity.md)
          + [사용자 지정 활동 메타데이터 내보내기](product-docs/administration/marketo-custom-activities/custom-activity-metadata-export.md)
       + Marketo 사용자 지정 개체 {#marketo-custom-objects}
          + [Marketo 사용자 지정 개체 이해](product-docs/administration/marketo-custom-objects/understanding-marketo-custom-objects.md)
@@ -636,7 +636,7 @@ ht-degree: 1%
          + [Veeva CRM Sync 이해](product-docs/crm-sync/veeva-crm-sync/understanding-the-veeva-crm-sync.md)
          + {#setup} 설정
             + [1/3단계: Veeva CRM에 Marketo 필드 추가](product-docs/crm-sync/veeva-crm-sync/setup/step-1-of-3-add-marketo-fields-to-veeva-crm.md)
-            + [2/3단계: Marketo Engage을 위한 Veeva CRM 사용자 만들기](product-docs/crm-sync/veeva-crm-sync/setup/step-2-of-3-create-a-veeva-crm-user-for-marketo-engage.md)
+            + [2/3단계: Marketo Engage용 Veeva CRM 사용자 만들기](product-docs/crm-sync/veeva-crm-sync/setup/step-2-of-3-create-a-veeva-crm-user-for-marketo-engage.md)
             + [3/3단계: Marketo Engage 및 Veeva CRM 연결](product-docs/crm-sync/veeva-crm-sync/setup/step-3-of-3-connect-marketo-engage-and-veeva-crm.md)
          + 동기화 세부 정보 {#sync-details}
             + [사용자 지정 개체 필드를 스마트 목록/트리거 제한으로 추가/제거](product-docs/crm-sync/veeva-crm-sync/sync-details/add-remove-custom-object-field-as-smart-list-trigger-constraints.md)
@@ -650,9 +650,9 @@ ht-degree: 1%
    + 수요 생성 {#demand-generation}
       + 광고 네트워크 통합 {#ad-network-integrations}
          + [Ad 네트워크 통합 이해](product-docs/demand-generation/ad-network-integrations/understanding-ad-network-integrations.md)
-         + [facebook 사용자 지정 대상을 LaunchPoint Service로 추가](product-docs/demand-generation/ad-network-integrations/add-facebook-custom-audiences-as-a-launchpoint-service.md)
+         + [LaunchPoint 서비스로 Facebook 사용자 지정 대상 추가](product-docs/demand-generation/ad-network-integrations/add-facebook-custom-audiences-as-a-launchpoint-service.md)
          + [LaunchPoint Service로 Google 고객 일치 추가](product-docs/demand-generation/ad-network-integrations/add-google-customer-match-as-a-launchpoint-service.md)
-         + [linkedIn 일치 대상을 LaunchPoint 서비스로 추가](product-docs/demand-generation/ad-network-integrations/add-linkedin-matched-audiences-as-a-launchpoint-service.md)
+         + [LinkedIn 일치 대상을 LaunchPoint 서비스로 추가](product-docs/demand-generation/ad-network-integrations/add-linkedin-matched-audiences-as-a-launchpoint-service.md)
          + [광고 네트워크에 목록 보내기](product-docs/demand-generation/ad-network-integrations/send-a-list-to-an-ad-network.md)
          + [Google에 목록 보내기](product-docs/demand-generation/ad-network-integrations/send-a-list-to-google.md)
       + Dynamic Chat {#dynamic-chat}
@@ -676,7 +676,7 @@ ht-degree: 1%
          + 자동화된 채팅 {#automated-chat}
             + [대화 흐름 개요](product-docs/demand-generation/dynamic-chat/automated-chat/conversational-flow-overview.md)
             + [대화 흐름 만들기](product-docs/demand-generation/dynamic-chat/automated-chat/create-a-conversational-flow.md)
-            + [Forms Marketo Engage에 대한 대화 흐름 설정](product-docs/demand-generation/dynamic-chat/automated-chat/conversational-flow-settings-for-marketo-engage-forms.md)
+            + [Marketo Engage Forms에 대한 대화 흐름 설정](product-docs/demand-generation/dynamic-chat/automated-chat/conversational-flow-settings-for-marketo-engage-forms.md)
             + [대화 상자 개요](product-docs/demand-generation/dynamic-chat/automated-chat/dialogue-overview.md)
             + [대화 상자 만들기](product-docs/demand-generation/dynamic-chat/automated-chat/create-a-dialogue.md)
             + [대상 기준](product-docs/demand-generation/dynamic-chat/automated-chat/audience-criteria.md)
@@ -742,16 +742,16 @@ ht-degree: 1%
             + [참여 대시보드](product-docs/demand-generation/events/interactive-webinars/engagement-dashboard.md)
             + [Marketo Sales Insight의 대화형 웨비나](product-docs/demand-generation/events/interactive-webinars/interactive-webinars-in-marketo-sales-insight.md)
       + Facebook {#facebook}
-         + [facebook에서 사용자 지정 대상에 리드 추가](product-docs/demand-generation/facebook/add-leads-to-a-custom-audience-in-facebook.md)
-         + [facebook에서 사용자 지정 대상 만들기](product-docs/demand-generation/facebook/create-a-custom-audience-in-facebook.md)
-         + [facebook 리치 게시물 설정 편집](product-docs/demand-generation/facebook/edit-facebook-rich-post-settings.md)
-         + [Facebook으로 Publish 랜딩 페이지](product-docs/demand-generation/facebook/publish-landing-pages-to-facebook.md)
-         + [facebook 리드 광고 설정](product-docs/demand-generation/facebook/set-up-facebook-lead-ads.md)
+         + [Facebook에서 사용자 정의 대상자에 리드 추가](product-docs/demand-generation/facebook/add-leads-to-a-custom-audience-in-facebook.md)
+         + [Facebook에서 사용자 지정 대상 만들기](product-docs/demand-generation/facebook/create-a-custom-audience-in-facebook.md)
+         + [Facebook 리치 게시물 설정 편집](product-docs/demand-generation/facebook/edit-facebook-rich-post-settings.md)
+         + [Facebook에 랜딩 페이지 게시](product-docs/demand-generation/facebook/publish-landing-pages-to-facebook.md)
+         + [Facebook 리드 광고 설정](product-docs/demand-generation/facebook/set-up-facebook-lead-ads.md)
          + [Marketo에 사용자 정의 필드 매핑](product-docs/demand-generation/facebook/set-up-facebook-lead-ads/map-custom-fields-to-marketo.md)
-         + [facebook 오프라인 전환 설정](product-docs/demand-generation/facebook/set-up-facebook-offline-conversions.md)
-         + [Marketo과의 데스크톱 통합에 대한 Facebook 리드 광고 테스트](product-docs/demand-generation/facebook/test-facebook-lead-ads-for-desktop-integration-with-marketo.md)
+         + [Facebook 오프라인 전환 설정](product-docs/demand-generation/facebook/set-up-facebook-offline-conversions.md)
+         + [Marketo과의 데스크탑 통합을 위한 Facebook 리드 광고 테스트](product-docs/demand-generation/facebook/test-facebook-lead-ads-for-desktop-integration-with-marketo.md)
          + [Marketo과의 모바일 통합을 위해 Facebook 리드 광고 테스트](product-docs/demand-generation/facebook/test-facebook-lead-ads-for-mobile-integration-with-marketo.md)
-         + [facebook 오프라인 전환 이해](product-docs/demand-generation/facebook/understanding-facebook-offline-conversions.md)
+         + [Facebook 오프라인 전환 이해](product-docs/demand-generation/facebook/understanding-facebook-offline-conversions.md)
          + [스마트 캠페인에서 리드 광고 필터 및 트리거 사용](product-docs/demand-generation/facebook/use-lead-ads-filters-and-triggers-in-a-smart-campaign.md)
       + Forms {#forms}
          + {#creating-a-form} 양식을 만드는 중
@@ -776,7 +776,7 @@ ht-degree: 1%
             + [웹 사이트에 양식 포함](product-docs/demand-generation/forms/form-actions/embed-a-form-on-your-website.md)
             + [양식의 소셜 양식 채우기 활성화](product-docs/demand-generation/forms/form-actions/enable-social-form-fill-on-a-form.md)
             + [LinkedIn 소셜 양식 채우기 FAQ](product-docs/demand-generation/forms/form-actions/linkedin-social-form-fill-faqs.md)
-            + [알려진 사용자에 대한 사용자 정의 HTML 양식 표시](product-docs/demand-generation/forms/form-actions/show-custom-html-form-for-known-people.md)
+            + [알려진 사용자에 대한 사용자 지정 HTML 양식 표시](product-docs/demand-generation/forms/form-actions/show-custom-html-form-for-known-people.md)
             + [Lightbox에서 양식 사용](product-docs/demand-generation/forms/form-actions/use-a-form-in-a-lightbox.md)
          + 양식 디자인 {#form-design}
             + [양식 레이블 위치 변경](product-docs/demand-generation/forms/form-design/change-form-label-position.md)
@@ -986,11 +986,11 @@ ht-degree: 1%
          + {#creating-a-poll} 투표 만들기
             + [투표 만들기](product-docs/demand-generation/social/creating-a-poll/create-a-poll.md)
             + [투표 설정 사용자 지정](product-docs/demand-generation/social/creating-a-poll/customize-poll-settings.md)
-            + [Publish a Poll](product-docs/demand-generation/social/creating-a-poll/publish-a-poll.md)
+            + [투표 게시](product-docs/demand-generation/social/creating-a-poll/publish-a-poll.md)
             + [투표의 투표 검토](product-docs/demand-generation/social/creating-a-poll/review-votes-cast-in-poll.md)
          + 참조 오퍼 {#referral-offers}
             + [참조 오퍼 만들기](product-docs/demand-generation/social/referral-offers/create-a-referral-offer.md)
-            + [Publish a 참조 오퍼](product-docs/demand-generation/social/referral-offers/publish-a-referral-offer.md)
+            + [참조 오퍼 게시](product-docs/demand-generation/social/referral-offers/publish-a-referral-offer.md)
             + [추천 오퍼 이행 이메일 보내기](product-docs/demand-generation/social/referral-offers/send-referral-offer-fulfillment-email.md)
             + [추천 오퍼에 대한 목표 지정](product-docs/demand-generation/social/referral-offers/specify-goal-for-referral-offer.md)
          + 소셜 함수 {#social-functions}
@@ -1003,7 +1003,7 @@ ht-degree: 1%
             + [양식의 소셜 양식 채우기 활성화(소셜)](product-docs/demand-generation/social/social-functions/enable-social-form-fill-on-a-form-social.md)
             + [소셜 프로필 데이터 관리](product-docs/demand-generation/social/social-functions/manage-social-profile-data.md)
             + [소셜 공유 요구 사항 설정](product-docs/demand-generation/social/social-functions/set-social-share-requirement.md)
-            + [linkedIn Lead Gen Forms 설정](product-docs/demand-generation/social/social-functions/set-up-linkedin-lead-gen-forms.md)
+            + [LinkedIn 리드 세대 Forms 설정](product-docs/demand-generation/social/social-functions/set-up-linkedin-lead-gen-forms.md)
             + [소셜 활동에 대한 트리거 및 필터](product-docs/demand-generation/social/social-functions/triggers-and-filters-for-social-activities.md)
             + [Marketo 목록 또는 스마트 목록을 LinkedIn 대상 세그먼트로 사용](product-docs/demand-generation/social/social-functions/use-a-marketo-list-or-smart-list-as-a-linkedin-audience-segment.md)
             + [소셜 프로모션에서 이메일 사용](product-docs/demand-generation/social/social-functions/use-emails-in-social-promotions.md)
@@ -1013,7 +1013,7 @@ ht-degree: 1%
          + 경품 추첨 {#sweepstakes}
             + [경품 추첨 만들기](product-docs/demand-generation/social/sweepstakes/create-sweepstakes.md)
             + [경품 스타일 사용자 정의](product-docs/demand-generation/social/sweepstakes/customize-sweepstakes-styles.md)
-            + [Publish 어 스위프스테이크](product-docs/demand-generation/social/sweepstakes/publish-a-sweepstakes.md)
+            + [경품 게재](product-docs/demand-generation/social/sweepstakes/publish-a-sweepstakes.md)
             + [경품 당첨자 선택](product-docs/demand-generation/social/sweepstakes/select-sweepstakes-winners.md)
    + 전자 메일 마케팅 {#email-marketing}
       + 전달성 {#deliverability}
@@ -1026,7 +1026,7 @@ ht-degree: 1%
          + [구독 취소 이해](product-docs/email-marketing/deliverability/understanding-unsubscribe.md)
          + [전용 IP 주소를 사용하여 이메일 보내기](product-docs/email-marketing/deliverability/use-your-dedicated-ip-addresses-to-send-emails.md)
          + 받은 편지함 추적기 {#inbox-tracker}
-            + [받은 편지함 추적기 Tutorials](product-docs/email-marketing/deliverability/inbox-tracker/inbox-tracker-tutorials.md)
+            + [받은 편지함 추적기 자습서](product-docs/email-marketing/deliverability/inbox-tracker/inbox-tracker-tutorials.md)
       + 점적 강화 {#drip-nurturing}
          + 참여 프로그램 {#creating-an-engagement-program}을(를) 만드는 중
             + [스트림 추가](product-docs/email-marketing/drip-nurturing/creating-an-engagement-program/add-a-stream.md)
@@ -1069,7 +1069,7 @@ ht-degree: 1%
          + [Adobe Express를 사용하여 이미지 편집](product-docs/email-marketing/email-designer/edit-images-adobe-express.md)
          + [조각](product-docs/email-marketing/email-designer/fragments.md)
          + [컨텐츠 잠금](product-docs/email-marketing/email-designer/content-locking.md)
-         + [Content Accelerator](product-docs/email-marketing/email-designer/content-accelerator.md)
+         + [AI 어시스턴트](product-docs/email-marketing/email-designer/ai-assistant.md)
       + 전자 메일 프로그램 {#email-programs}
          + 전자 메일 프로그램 {#creating-an-email-program} 만들기
             + [이메일 프로그램 만들기](product-docs/email-marketing/email-programs/creating-an-email-program/create-an-email-program.md)
@@ -1146,8 +1146,8 @@ ht-degree: 1%
             + [텍스트 이메일에 추적된 링크 추가](product-docs/email-marketing/general/functions-in-the-editor/add-tracked-links-to-a-text-email.md)
             + [달력 이벤트(.ics) 파일 만들기](product-docs/email-marketing/general/functions-in-the-editor/create-a-calendar-event-ics-file.md)
             + [이메일 링크 추적 비활성화](product-docs/email-marketing/general/functions-in-the-editor/disable-tracking-for-an-email-link.md)
-            + [이메일 HTML 다운로드](product-docs/email-marketing/general/functions-in-the-editor/download-an-emails-html.md)
-            + [이메일 HTML 편집](product-docs/email-marketing/general/functions-in-the-editor/edit-an-emails-html.md)
+            + [이메일의 HTML 다운로드](product-docs/email-marketing/general/functions-in-the-editor/download-an-emails-html.md)
+            + [이메일의 HTML 편집](product-docs/email-marketing/general/functions-in-the-editor/edit-an-emails-html.md)
             + 이메일 테스트 - 챔피언-챌린저 {#email-tests-champion-challenger}
                + [이메일 챔피언/챌린저 추가](product-docs/email-marketing/general/functions-in-the-editor/email-tests-champion-challenger/add-an-email-champion-challenger.md)
                + [챔피언/챌린저: 이메일 테스트 승인](product-docs/email-marketing/general/functions-in-the-editor/email-tests-champion-challenger/champion-challenger-approve-your-email-test.md)
@@ -1583,7 +1583,7 @@ ht-degree: 1%
                + [Sales Insight에서 작업 선택](product-docs/marketo-sales-insight/msi-for-salesforce/features/actions-in-the-msi-panel/choose-an-action-in-sales-insight.md)
                + [Marketo Sales Insight에서 구독 취소 바닥글 구성](product-docs/marketo-sales-insight/msi-for-salesforce/features/actions-in-the-msi-panel/send-marketo-email/configure-unsubscribe-footers-in-marketo-sales-insight.md)
                + [판매 템플릿 잠금](product-docs/marketo-sales-insight/msi-for-salesforce/features/actions-in-the-msi-panel/send-marketo-email/lock-sales-template.md)
-               + [Sales Insight로 이메일 보내기 Publish](product-docs/marketo-sales-insight/msi-for-salesforce/features/actions-in-the-msi-panel/send-marketo-email/publish-an-email-to-sales-insight.md)
+               + [Sales Insight에 이메일 게시](product-docs/marketo-sales-insight/msi-for-salesforce/features/actions-in-the-msi-panel/send-marketo-email/publish-an-email-to-sales-insight.md)
                + [테스트 이메일 보내기](product-docs/marketo-sales-insight/msi-for-salesforce/features/actions-in-the-msi-panel/send-marketo-email/send-a-test-email.md)
             + 언어 지원 {#language-support}
                + [Salesforce에서 다국어 지원을 위한 Sales Insight 준비](product-docs/marketo-sales-insight/msi-for-salesforce/features/language-support/prepare-sales-insight-for-multi-lingual-support-in-salesforce.md)
@@ -1772,7 +1772,7 @@ ht-degree: 1%
             + [웹 페이지 조회함, 웹 페이지 활동 보고서](product-docs/reporting/basic-reporting/report-types/web-page-activity-report/web-pages-viewed-web-page-activity-report.md)
       + 이메일 인사이트 {#email-insights}
          + [이메일 통찰력 개요](product-docs/reporting/email-insights/email-insights-overview.md)
-         + [이메일 인사이트에 대한 사용자 지정 Dimension](product-docs/reporting/email-insights/custom-dimensions-for-email-insights.md)
+         + [이메일 인사이트에 대한 사용자 지정 차원](product-docs/reporting/email-insights/custom-dimensions-for-email-insights.md)
          + [이메일 통찰력 분석 개요](product-docs/reporting/email-insights/email-insights-analytics-overview.md)
          + [이메일 인사이트 FAQ](product-docs/reporting/email-insights/email-insights-faq.md)
          + [이메일 인사이트 빠른 차트](product-docs/reporting/email-insights/email-insights-quick-charts.md)
@@ -1890,7 +1890,7 @@ ht-degree: 1%
             + [계층 만들기](product-docs/target-account-management/target/named-accounts/create-a-hierarchy.md)
          + [계정 목록](product-docs/target-account-management/target/account-lists.md)
          + [계정 스마트 목록](product-docs/target-account-management/target/account-smart-lists.md)
-         + [linkedIn에서 계정 일치 대상 만들기](product-docs/target-account-management/target/create-an-account-matched-audience-on-linkedin.md)
+         + [LinkedIn에서 계정 일치 대상 만들기](product-docs/target-account-management/target/create-an-account-matched-audience-on-linkedin.md)
       + {#engage} 참여
          + [계정 필터](product-docs/target-account-management/engage/account-filters.md)
          + [계정 트리거](product-docs/target-account-management/engage/account-triggers.md)
@@ -1936,7 +1936,7 @@ ht-degree: 1%
          + 웹 분석 통합 {#web-analytics-integrations}
             + [Google Universal Analytics의 사용자 정의 RTP 대시보드](product-docs/web-personalization/reporting-for-web-personalization/web-analytics-integrations/custom-rtp-dashboards-in-google-universal-analytics.md)
             + [Google Universal Analytics의 사용자 정의 RTP 보고서](product-docs/web-personalization/reporting-for-web-personalization/web-analytics-integrations/custom-rtp-reports-in-google-universal-analytics.md)
-            + [RTP와 Google Analytics 통합](product-docs/web-personalization/reporting-for-web-personalization/web-analytics-integrations/integrate-rtp-with-google-analytics.md)
+            + [Google Analytics과 RTP 통합](product-docs/web-personalization/reporting-for-web-personalization/web-analytics-integrations/integrate-rtp-with-google-analytics.md)
             + [RTP를 Google Universal Analytics와 통합](product-docs/web-personalization/reporting-for-web-personalization/web-analytics-integrations/integrate-rtp-with-google-universal-analytics.md)
             + [Adobe Analytics과 통합](product-docs/web-personalization/reporting-for-web-personalization/web-analytics-integrations/integrate-with-adobe-analytics.md)
       + 웹 Personalization {#understanding-web-personalization} 이해
@@ -1956,7 +1956,7 @@ ht-degree: 1%
          + [특정 레이블의 세그먼트 보기](product-docs/web-personalization/using-web-segments/view-segments-from-a-specific-label.md)
          + [웹 세그먼트](product-docs/web-personalization/using-web-segments/web-segments.md)
       + 웹 사이트 리타겟팅 {#website-retargeting}
-         + [facebook의 개인화된 리마케팅](product-docs/web-personalization/website-retargeting/personalized-remarketing-in-facebook.md)
+         + [Facebook의 개인화된 리마케팅](product-docs/web-personalization/website-retargeting/personalized-remarketing-in-facebook.md)
          + [Google의 개인화된 리마케팅](product-docs/web-personalization/website-retargeting/personalized-remarketing-in-google.md)
          + [웹 Personalization 데이터를 사용하여 재타겟팅](product-docs/web-personalization/website-retargeting/retargeting-with-web-personalization-data.md)
       + 웹 캠페인 {#working-with-web-campaigns} 작업

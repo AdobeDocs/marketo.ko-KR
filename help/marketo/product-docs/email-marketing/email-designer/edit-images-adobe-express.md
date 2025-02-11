@@ -2,20 +2,21 @@
 solution: Marketo Engage
 product: marketo engage
 title: Adobe Express를 사용하여 이미지 편집
-description: Adobe Marketo Engage 이메일 편집기에서 Adobe Express을 사용하여 이미지를 편집하는 방법에 대해 알아봅니다.
+description: Adobe Express을 사용하여 Adobe Marketo Engage 이메일 편집기에서 이미지를 편집하는 방법을 알아봅니다.
 level: Beginner, Intermediate
 hide: true
 hidefromtoc: true
-source-git-commit: 803ab5d02f1e2f66ca0fe9176a8dd248fd91b564
+exl-id: 74623a14-8eaf-4f79-952c-d10092ddc34f
+source-git-commit: e9a412d0786a0dbeb6f743a90bcaf735032561a6
 workflow-type: tm+mt
-source-wordcount: '764'
+source-wordcount: '763'
 ht-degree: 1%
 
 ---
 
 # Adobe Express를 사용하여 이미지 편집 {#edit-images-with-adobe-express}
 
-Adobe Marketo Engage은 기본적으로 Adobe Express과 통합되어 다양한 이미지 편집 도구에 액세스할 수 있습니다. 이러한 도구를 사용하여 Marketo Engage Design Studio에서 이미지를 수정할 수 있습니다. 통합은 다음과 같은 주요 이점을 제공합니다.
+Adobe Marketo Engage은 기본적으로 Adobe Express과 통합되어 있으므로 다양한 이미지 편집 도구에 액세스할 수 있습니다. 이러한 도구를 사용하여 Marketo Engage Design Studio에서 이미지를 수정할 수 있습니다. 통합은 다음과 같은 주요 이점을 제공합니다.
 
 * Marketo Engage에서 새 이미지를 편집하고 저장하여 콘텐츠 재사용을 개선했습니다.
 
@@ -47,7 +48,7 @@ Adobe Express 편집기에 액세스하는 방법에는 두 가지가 있습니�
    >
    >* 열을 기준으로 테이블을 정렬하려면 열 제목을 누릅니다. 제목 행의 화살표는 현재 정렬 열 및 순서를 나타냅니다.
 
-1. 이미지 _세부 정보_ 탭에서 **Adobe Express에서 편집**&#x200B;을 클릭합니다.
+1. _세부 정보_ 탭에서 **Adobe Express에서 편집**&#x200B;을 클릭합니다.
 
    스크린샷
 
@@ -81,11 +82,11 @@ Adobe Express 편집기에 액세스하는 방법에는 두 가지가 있습니�
 
 ## Enterprise 라이선스가 있는 사용자 {#users-with-an-enterprise-license}
 
-Adobe Express에 대한 Enterprise 라이센스가 있는 경우 Express 편집기에 액세스할 수 있습니다. 이미지의 색상, 밝기, 선명도, 대비, 크기 등과 같은 설정을 조정할 수 있습니다. AI 매직 옵션을 사용하면 배경을 제거하고, 오브젝트를 삽입 및 제거하고, 이미지의 일부를 지울 수 있습니다.
+Adobe Express에 대한 엔터프라이즈 라이센스가 있는 경우 전체 Express 편집기에 액세스할 수 있습니다. 색상, 밝기, 선명도, 대비, 크기 등과 같은 이미지 설정을 조정할 수 있습니다. AI 매직 옵션을 사용하면 배경을 제거하고, 오브젝트를 삽입 및 제거하고, 이미지의 일부를 지울 수 있습니다.
 
 >[!IMPORTANT]
 >
->모든 Adobe Express 편집 기능에 액세스하려면 구입한 라이선스가 Marketo Engage 구독과 동일한 IMS 조직 아래에 있어야 합니다. 또한 각 개별 사용자는 Adobe Express에 라이선스가 있어야 합니다. 라이선스가 없는 [사용자](#users-without-an-enterprise-license)는 Adobe Express의 빠른 작업에만 액세스할 수 있습니다.
+>모든 Adobe Express 편집 기능에 액세스하려면 구입한 라이선스는 Marketo Engage 구독과 동일한 IMS 조직 아래에 있어야 합니다. 또한 각 개별 사용자는 Adobe Express에 라이센스가 있어야 합니다. [라이선스가 없는](#users-without-an-enterprise-license) 사용자는 Adobe Express의 빠른 작업에만 액세스할 수 있습니다.
 
 Adobe Express으로 편집 을 클릭하여 이미지를 엽니다.
 
@@ -105,7 +106,7 @@ Enterprise 라이선스가 없는 사용자의 경우 여전히 몇 가지 빠�
 * 배경 제거
 * 이미지 자르기
 * PNG로 변환
-* JPEG으로 변환
+* JPEG으로 전환
 
 페이지에서 이미지 자르기 를 클릭합니다.
 
