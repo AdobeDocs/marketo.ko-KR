@@ -7,9 +7,9 @@ level: Beginner, Intermediate
 hide: true
 hidefromtoc: true
 exl-id: 74623a14-8eaf-4f79-952c-d10092ddc34f
-source-git-commit: 6756e292fc8955529ad1ece8f08fb6206717d929
+source-git-commit: 6133a39e8a30aac4f2788b754bb40c2b4f282f03
 workflow-type: tm+mt
-source-wordcount: '851'
+source-wordcount: '841'
 ht-degree: 1%
 
 ---
@@ -29,6 +29,9 @@ Adobe Marketo Engage은 기본적으로 Adobe Express과 통합되어 있으므�
 ## Adobe Express 편집기 액세스 {#access-the-adobe-express-editor}
 
 Adobe Express 편집기에 액세스하는 방법에는 두 가지가 있습니다.
+
+* 이미지 이름을 클릭합니다.
+* _이미지 및 파일 작업_ 드롭다운 메뉴
 
 >[!BEGINTABS]
 
@@ -82,7 +85,7 @@ Adobe Express 편집기에 액세스하는 방법에는 두 가지가 있습니�
 
 ### Enterprise 라이선스가 있는 사용자 {#users-with-an-enterprise-license}
 
-Adobe Express에 대한 엔터프라이즈 라이센스가 있는 경우 전체 Express 편집기에 액세스할 수 있습니다. 색상, 밝기, 선명도, 대비, 크기 등과 같은 이미지 설정을 조정할 수 있습니다. AI 매직 옵션을 사용하면 배경을 제거하고, 오브젝트를 삽입 및 제거하고, 이미지의 일부를 지울 수 있습니다.
+Adobe Express에 대한 엔터프라이즈 라이센스가 있는 경우 전체 Express 편집기에 액세스할 수 있습니다. 색상, 밝기, 선명도, 대비, 크기 등과 같은 이미지 설정을 조정할 수 있습니다. AI 매직 옵션을 사용하면 배경을 제거하고, 오브젝트를 삽입 및 제거하고, 이미지의 일부를 지울 수 있습니다. 각 설정에 대해 알아보려면 [Adobe Express 사용 안내서](https://helpx.adobe.com/express/user-guide.html){target="_blank"}를 방문하세요.
 
 >[!IMPORTANT]
 >
@@ -107,12 +110,12 @@ Enterprise 라이선스가 없는 사용자의 경우 여전히 몇 가지 빠�
 
 1. 원하는 대로 변경하고 완료되면 **적용**&#x200B;을 클릭하세요.
 
-![TEXTTEXT](assets/edit-images-with-adobe-express-5.png){width="800" zoomable="yes"}
+![사용 가능한 모든 옵션을 표시하는 이미지 창 크기 조정](assets/edit-images-with-adobe-express-5.png){width="800" zoomable="yes"}
 
 <table><tbody>
   <tr>
     <td style="width:25%"><b>종횡비</b></td>
-    <td><b>종횡비</b> 드롭다운에서 <b>표준</b>을 BLANK로 선택하거나 <b>사용자 지정</b>을 선택하여 너비/높이를 설정합니다.</td>
+    <td><b>종횡비</b> 드롭다운에서 <b>표준</b>을 선택하여 미리 계산된 일반적인 사진 크기를 선택하거나 <b>사용자 지정</b>을 선택하여 너비와 높이를 설정하십시오. 특정 소셜 미디어 플랫폼의 표준 크기(Pinterest, Snapchat 등)를 선택할 수도 있습니다.</td>
   </tr>
   <tr>
     <td style="width:25%"><b>너비 및 높이</b></td>
@@ -135,11 +138,11 @@ Enterprise 라이선스가 없는 사용자의 경우 여전히 몇 가지 빠�
 
 1. Adobe Express은 배경 없이 이미지를 표시합니다. 필요한 경우 **적용**&#x200B;을 클릭하세요.
 
-![TEXTTEXT](assets/edit-images-with-adobe-express-6.png){width="800" zoomable="yes"}
+![배경이 있는 개만의 이미지 제거](assets/edit-images-with-adobe-express-6.png){width="800" zoomable="yes"}
 
 >[!TIP]
 >
->배경을 복원하려면 이미지를 선택하고 **배경 제거**&#x200B;를 다시 선택하십시오.
+>결과가 만족스럽지 않으면 **X**&#x200B;을 클릭하여 창을 닫으면 됩니다.
 
 #### 이미지 자르기 {#crop-image}
 
@@ -147,7 +150,7 @@ Enterprise 라이선스가 없는 사용자의 경우 여전히 몇 가지 빠�
 
 1. 이미지의 모서리를 드래그하여 원하는 자르기를 만듭니다.
 
-![TEXTTEXT](assets/edit-images-with-adobe-express-7.png){width="800" zoomable="yes"}
+![사진 모서리를 드래그하여 이미지를 자르기](assets/edit-images-with-adobe-express-7.png){width="800" zoomable="yes"}
 
 1. 완료되면 **[!UICONTROL 적용]**&#x200B;을 클릭하세요.
 
@@ -157,26 +160,14 @@ PNG 파일을 JPEG 파일로 변환하거나 JPEG 파일을 PNG 파일로 변환
 
 1. **[!UICONTROL PNG/JPEG으로 변환]**&#x200B;을 클릭합니다.
 
-![TEXTTEXT](assets/edit-images-with-adobe-express-8.png){width="800" zoomable="yes"}
+![PNG/JPEG 창으로 변환](assets/edit-images-with-adobe-express-8.png){width="800" zoomable="yes"}
 
 1. **[!UICONTROL 적용]**&#x200B;을 클릭합니다.
 
-—아래의 자르기 항목—
-
-페이지에서 이미지 자르기 를 클릭합니다.
-
-Adobe Express 편집기에서 이미지를 자르고 저장을 클릭합니다.
-
-참고: 이 작업은 이미지를 덮어쓰지 않지만, 나중에 편집할 수 있도록 이미지를 제공합니다.
-
-왼쪽 패널의 다른 옵션을 사용하여 추가 업데이트를 수행하거나, 저장 을 클릭하여 기존 이미지를 덮어쓰거나, 새 에셋으로 저장 을 클릭하여 새 이미지로 저장할 수 있습니다.
-
-저장 을 클릭하여 작업을 완료합니다.
-
 ## 작업 내용 저장 {#save-your-work}
 
-모든 편집 작업이 완료되면 저장 을 클릭하여 작업을 저장합니다.
+모든 편집 작업이 완료되면 **저장**&#x200B;을 클릭하여 작업 내용을 저장합니다.
 
-스크린샷
+![저장 단추](assets/edit-images-with-adobe-express-9.png){width="800" zoomable="yes"}
 
 편집된 이미지는 원본 이미지와 동일한 폴더에 저장됩니다.
