@@ -2,7 +2,8 @@
 description: Marketo Sales Insight - Marketo 문서 - 제품 설명서의 대화형 웨비나
 title: Marketo Sales Insight의 대화형 웨비나
 feature: Interactive Webinars
-source-git-commit: ace80b7c19979c48927f37adf0d09471fec3f93b
+exl-id: 49185c9d-6b77-4360-929f-bfaf54a3f5ca
+source-git-commit: 19ccac27255d4dd9803400894bd025926b4331b2
 workflow-type: tm+mt
 source-wordcount: '223'
 ht-degree: 0%
@@ -31,8 +32,8 @@ Marketo Engage에서 사용할 수 있는 모든 활동이 동기화됩니다. �
 
 인사이트 섹션의 잠재 고객 타임라인 차트에는 지난 90일 동안 매주 동기화된 활동을 강조 표시하는 웨비나에 대한 다른 스윔레인이 포함되어 있습니다. 특정 주를 선택하면 별도의 섹션에 매일 활동이 표시됩니다. 개별 활동을 확장하여 세부 정보를 볼 수 있습니다.
 
-![](assets/msi-iw-1.png){width="800" zoomable="yes"}
+![](assets/interactive-webinars-in-marketo-sales-insight-1.png){width="800" zoomable="yes"}
 
 별도의 웨비나 탭에서 모든 활동(및 해당 날짜)도 표 형식으로 나열됩니다.
 
-![](assets/msi-iw-2.png){width="800" zoomable="yes"}
+![](assets/interactive-webinars-in-marketo-sales-insight-2.png){width="800" zoomable="yes"}
