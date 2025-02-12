@@ -7,9 +7,9 @@ level: Beginner, Intermediate
 hide: true
 hidefromtoc: true
 exl-id: 74623a14-8eaf-4f79-952c-d10092ddc34f
-source-git-commit: 844f9c9b7402974b8e0f2e54159b451818b505c6
+source-git-commit: 6756e292fc8955529ad1ece8f08fb6206717d929
 workflow-type: tm+mt
-source-wordcount: '804'
+source-wordcount: '851'
 ht-degree: 1%
 
 ---
@@ -38,9 +38,9 @@ Adobe Express 편집기에 액세스하는 방법에는 두 가지가 있습니�
 
    ![Design Studio 왼쪽 탐색 메뉴에서 이미지 및 파일 선택](assets/edit-images-with-adobe-express-1a.png){width="600" zoomable="yes"}
 
-1. 편집할 이미지를 선택하거나 새 이미지를 만듭니다.
+1. 편집할 이미지를 선택합니다.
 
-   스크린샷 2a
+   ![이미지 이름을 클릭하고](assets/edit-images-with-adobe-express-2a.png){width="600" zoomable="yes"}
 
    >[!NOTE]
    >
@@ -50,7 +50,7 @@ Adobe Express 편집기에 액세스하는 방법에는 두 가지가 있습니�
 
 1. _세부 정보_ 탭에서 **[!UICONTROL Adobe Express에서 편집]**&#x200B;을 클릭합니다.
 
-   스크린샷 3a
+   ![Adobe Express에서 편집 단추 클릭](assets/edit-images-with-adobe-express-3a.png){width="600" zoomable="yes"}
 
    >[!CAUTION]
    >
@@ -68,11 +68,9 @@ Adobe Express 편집기에 액세스하는 방법에는 두 가지가 있습니�
    >
    >* 열을 기준으로 테이블을 정렬하려면 열 제목을 누릅니다. 제목 행의 화살표는 현재 정렬 열 및 순서를 나타냅니다.
 
-1. 편집할 이미지 옆에 있는 확인란을 선택합니다.
+1. 편집할 이미지 옆에 있는 확인란을 선택합니다. **[!UICONTROL 이미지 및 파일 작업]** 드롭다운에서 **[!UICONTROL Adobe Express에서 편집]**&#x200B;을 선택합니다.
 
-   스크린샷 2b
-
-1. **[!UICONTROL 이미지 및 파일 작업]** 드롭다운에서 **[!UICONTROL Adobe Express에서 편집]**&#x200B;을 선택합니다.
+   ![이미지 이름 옆에 있는 확인란 선택 및 이미지 및 파일 작업 드롭다운 사용](assets/edit-images-with-adobe-express-2b.png){width="600" zoomable="yes"}
 
    >[!CAUTION]
    >
@@ -99,9 +97,9 @@ Enterprise 라이선스가 없는 사용자의 경우 여전히 몇 가지 빠�
 * [이미지 자르기](#crop-image)
 * [PNG/JPEG으로 변환](#convert-to-png-jpeg)
 
-기능은 이미지 페이지의 왼쪽 상단에서 액세스할 수 있습니다.
+기능은 이미지 페이지 왼쪽에서 액세스할 수 있습니다.
 
-스크린샷
+![Adobe Express 편집 옵션을 보여 주는 이미지 페이지](assets/edit-images-with-adobe-express-4.png){width="800" zoomable="yes"}
 
 #### 이미지 크기 조정 {#resize-image}
 
@@ -109,24 +107,24 @@ Enterprise 라이선스가 없는 사용자의 경우 여전히 몇 가지 빠�
 
 1. 원하는 대로 변경하고 완료되면 **적용**&#x200B;을 클릭하세요.
 
-스크린샷
+![TEXTTEXT](assets/edit-images-with-adobe-express-5.png){width="800" zoomable="yes"}
 
 <table><tbody>
   <tr>
-    <td><b>종횡비</b></td>
+    <td style="width:25%"><b>종횡비</b></td>
     <td><b>종횡비</b> 드롭다운에서 <b>표준</b>을 BLANK로 선택하거나 <b>사용자 지정</b>을 선택하여 너비/높이를 설정합니다.</td>
   </tr>
   <tr>
-    <td><b>너비 및 높이</b></td>
+    <td style="width:25%"><b>너비 및 높이</b></td>
     <td>기본적으로 종횡비는 잠겨 있으며 크기를 조정할 때 이미지 비율을 동일하게 유지합니다. 원하는 경우 고정 버튼을 선택하여 종횡비의 잠금을 해제할 수 있습니다.</td>
   </tr>
   <tr>
-    <td><b>재설정</b></td>
+    <td style="width:25%"><b>재설정</b></td>
     <td>이미지에 대한 편집 내용을 제거하고 원래 상태로 되돌리려면 <b>재설정</b>을 클릭합니다.</td>
   </tr>
   <tr>
-    <td><b>확대/축소 및 자르기</b></td>
-    <td>이미지의 특정 영역을 확대하려면 <b>확대/축소 및 자르기</b>를 클릭하십시오.</td>
+    <td style="width:25%"><b>확대/축소 및 자르기</b></td>
+    <td>이미지의 특정 영역을 확대하려면 <b>확대/축소 및 자르기</b>를 클릭하십시오. 이미지를 현재 표시된 내용으로 자른 후 <b>적용</b>을 클릭합니다.</td>
   </tr>
 </tbody>
 </table>
@@ -135,9 +133,9 @@ Enterprise 라이선스가 없는 사용자의 경우 여전히 몇 가지 빠�
 
 1. **배경 제거**&#x200B;를 클릭합니다.
 
-1. Adobe Express은 배경 없이 이미지를 표시합니다. **적용**&#x200B;을 클릭합니다.
+1. Adobe Express은 배경 없이 이미지를 표시합니다. 필요한 경우 **적용**&#x200B;을 클릭하세요.
 
-PIC
+![TEXTTEXT](assets/edit-images-with-adobe-express-6.png){width="800" zoomable="yes"}
 
 >[!TIP]
 >
@@ -145,21 +143,23 @@ PIC
 
 #### 이미지 자르기 {#crop-image}
 
-1. 이미지 자르기 를 클릭합니다.
+1. **[!UICONTROL 이미지 자르기]**&#x200B;를 클릭합니다.
 
 1. 이미지의 모서리를 드래그하여 원하는 자르기를 만듭니다.
 
-스크린샷
+![TEXTTEXT](assets/edit-images-with-adobe-express-7.png){width="800" zoomable="yes"}
 
-1. 완료되면 **적용**&#x200B;을 클릭하세요.
+1. 완료되면 **[!UICONTROL 적용]**&#x200B;을 클릭하세요.
 
 #### PNG/JPEG으로 변환 {#convert-to-png-jpeg}
 
-PNG를 JPEG으로 변환하거나 JPEG을 PNG로 변환합니다.
+PNG 파일을 JPEG 파일로 변환하거나 JPEG 파일을 PNG 파일로 변환합니다.
 
-1. **PNG/JPEG으로 변환**&#x200B;을 클릭합니다.
+1. **[!UICONTROL PNG/JPEG으로 변환]**&#x200B;을 클릭합니다.
 
-1. **적용**&#x200B;을 클릭합니다.
+![TEXTTEXT](assets/edit-images-with-adobe-express-8.png){width="800" zoomable="yes"}
+
+1. **[!UICONTROL 적용]**&#x200B;을 클릭합니다.
 
 —아래의 자르기 항목—
 
