@@ -7,7 +7,7 @@ level: Beginner, Intermediate
 hide: true
 hidefromtoc: true
 exl-id: 74623a14-8eaf-4f79-952c-d10092ddc34f
-source-git-commit: a5fafa0fb218a366b6e2c9b3adfb785791b52447
+source-git-commit: 844f9c9b7402974b8e0f2e54159b451818b505c6
 workflow-type: tm+mt
 source-wordcount: '804'
 ht-degree: 1%
@@ -161,7 +161,7 @@ PNG를 JPEG으로 변환하거나 JPEG을 PNG로 변환합니다.
 
 1. **적용**&#x200B;을 클릭합니다.
 
-아래 자르기 항목
+—아래의 자르기 항목—
 
 페이지에서 이미지 자르기 를 클릭합니다.
 
