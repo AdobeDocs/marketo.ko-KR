@@ -5,9 +5,9 @@ description: 개요 - Marketo 문서 - 제품 설명서
 title: 개요
 feature: Email Editor
 exl-id: d31ce148-1feb-411e-bd10-453a6c7878fb
-source-git-commit: e9a412d0786a0dbeb6f743a90bcaf735032561a6
+source-git-commit: e5d02f0a288cbd5c3f234c9bd5d202b60fdc629e
 workflow-type: tm+mt
-source-wordcount: '661'
+source-wordcount: '699'
 ht-degree: 0%
 
 ---
@@ -48,7 +48,11 @@ ht-degree: 0%
 
 * [전자 메일 템플릿 작성](/help/marketo/product-docs/email-marketing/email-designer/email-template-authoring.md){target="_blank"}: 새 편집기에서 전자 메일 템플릿을 만들고 디자인하고 액세스하는 방법에 대해 알아봅니다.
 
+* [조각](/help/marketo/product-docs/email-marketing/email-designer/fragments.md){target="_blank"}: 시각적 콘텐츠 조각을 만들고 이메일 및 이메일 템플릿에 재사용 가능한 구성 요소로 사용하는 방법에 대해 알아봅니다.
+
 * [AEM 에셋으로 작업](/help/marketo/product-docs/email-marketing/email-designer/aem-assets.md){target="_blank"}: Marketo Engage에서 사용할 AEM 디지털 에셋에 쉽게 액세스하는 방법에 대해 알아봅니다.
+
+* [Adobe Express으로 이미지 편집](/help/marketo/product-docs/email-marketing/email-designer/edit-images-adobe-express.md){target="_blank"}: Adobe Express을 사용하여 Adobe Marketo Engage 전자 메일 편집기에서 이미지를 편집하는 방법에 대해 알아봅니다.
 
 * [AI Assistant 사용](/help/marketo/product-docs/email-marketing/email-designer/ai-assistant.md){target="_blank"}: Adobe의 생성 AI 기술을 활용하여 이메일에 유용한 텍스트 및/또는 이미지를 추가합니다.
 
