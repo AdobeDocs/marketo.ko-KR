@@ -3,9 +3,9 @@ description: Analytics - Marketo 문서 - 제품 설명서
 title: Analytics
 feature: Dynamic Chat
 exl-id: 8130a970-4cf1-4bf6-9403-998460269843
-source-git-commit: 79b439a9bb3d3cd130eb5a7b52cea13988e7b88e
+source-git-commit: 24d5c7f1135857e387031d043a3855e1779233e6
 workflow-type: tm+mt
-source-wordcount: '218'
+source-wordcount: '242'
 ht-degree: 2%
 
 ---
@@ -54,14 +54,22 @@ ht-degree: 2%
 <thead>
 <tbody>
   <tr>
-    <td style="width:25%"><b>완료</b></td>
+    <td style="width:30%"><b>완료</b></td>
     <td>완료된 이벤트는 방문자가 대화의 마지막 프롬프트에 도달했을 때 <i>또는</i> 방문자가 대화의 모든 콘텐츠를 소진할 때 발생합니다.
     <br>방문자당 세션당 하나의 완료된 이벤트입니다.</td>
   </tr>
   <tr>
-    <td style="width:25%"><b>획득된 사용자</b></td>
+    <td style="width:30%"><b>획득된 사용자</b></td>
     <td>방문자가 이메일 주소를 제출하면 발생합니다.
     <br>방문자당, 세션당 하나의 획득입니다.</td>
+  </tr>
+  <tr>
+    <td style="width:30%"><b>참여율</b></td>
+    <td>응답한 사용자 수(사용자가 처음 입력)/트리거 수(챗봇 표시).</td>
+  </tr>
+  <tr>
+    <td style="width:30%"><b>전환율</b></td>
+    <td>사용자 획득(새 이메일 캡처됨)/사용자 참여</td>
   </tr>
 </tbody>
 </table>
