@@ -4,10 +4,10 @@ description: 이메일에 이메일 스크립트 토큰 추가 - Marketo 문서 
 title: 이메일에 이메일 스크립트 토큰 추가
 exl-id: 41ef7c21-06af-4950-a19e-017e2417044e
 feature: Tokens
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 9d6dd17ea20fb75a2931254addff570787ee2f8b
 workflow-type: tm+mt
-source-wordcount: '171'
-ht-degree: 1%
+source-wordcount: '164'
+ht-degree: 2%
 
 ---
 
@@ -43,10 +43,6 @@ ht-degree: 1%
 
    ![](assets/five-1.png)
 
-   >[!TIP]
-   >
-   >원하는 경우 기본값을 추가합니다.
-
 1. **저장**&#x200B;을 클릭합니다.
 
    ![](assets/six.png)
@@ -55,4 +51,4 @@ ht-degree: 1%
 >
 >[전자 메일을 승인](/help/marketo/product-docs/email-marketing/general/creating-an-email/approve-an-email.md)하는 것을 잊지 마십시오.
 
-다 됐습니다! 이 이메일이 전송되면 토큰 뒤에 있는 스크립트가 실행되고 콘텐츠가 채워집니다.
+됐습니다. 이 이메일이 전송되면 토큰 뒤에 있는 스크립트가 실행되고 콘텐츠가 채워집니다.
