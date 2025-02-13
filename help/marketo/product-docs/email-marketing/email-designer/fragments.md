@@ -4,10 +4,10 @@ description: 시각적 콘텐츠 조각을 이메일 및 이메일 템플릿에 
 hide: true
 hidefromtoc: true
 exl-id: abc065a0-cd2f-4f0f-a5f2-228b833b99a8
-source-git-commit: 6133a39e8a30aac4f2788b754bb40c2b4f282f03
+source-git-commit: 7ff2a4f48fb871e91e45889cce10aa0a0fd7051f
 workflow-type: tm+mt
-source-wordcount: '2052'
-ht-degree: 1%
+source-wordcount: '1909'
+ht-degree: 0%
 
 ---
 
@@ -114,37 +114,11 @@ ht-degree: 1%
 
    비주얼 디자이너가 빈 캔버스로 열립니다.
 
-1. 콘텐츠 디자인 도구를 사용하여 시각적 조각 콘텐츠를 만듭니다.
-
-   * [구조 및 콘텐츠 추가](#add-structure-and-content)
-   * [Assets 추가](#add-assets)
-   * [레이어, 설정 및 스타일 탐색](#navigate-the-layers-settings-and-styles)
-   * [콘텐츠 개인화](#personalize-content)
-   * [연결된 URL 추적 편집](#edit-linked-url-tracking)
+1. 시각적 조각 콘텐츠를 만들려면 [콘텐츠 디자인 도구](/help/marketo/product-docs/email-marketing/email-designer/email-authoring.md#add-structure-and-content){target="_blank"}를 사용하십시오.
 
 1. 언제든지 **[!UICONTROL 저장]**&#x200B;을 클릭하여 초안 조각을 저장합니다.
 
 1. 전자 메일 또는 전자 메일 템플릿에서 사용할 수 있는 조각을 만들 준비가 되면 **[!UICONTROL 게시]**&#x200B;를 클릭합니다.
-
-### 구조 및 콘텐츠 추가 {#add-structure-and-content}
-
-{{$include /help/marketo/_includes/content-design-components.md}}
-
-### 에셋 추가
-
-{{$include /help/_includes/content-design-assets.md}}
-
-### 레이어, 설정 및 스타일 탐색
-
-{{$include /help/_includes/content-design-navigation.md}}
-
-### 콘텐츠 개인화
-
-{{$include /help/_includes/content-design-personalization.md}}
-
-### 연결된 URL 추적 편집
-
-{{$include /help/_includes/content-design-links.md}}
 
 ## 조각 세부 사항 보기 {#view-fragment-details}
 
@@ -205,19 +179,11 @@ ht-degree: 1%
 
    ![초안 상태의 인터페이스에 대한 세부 정보](assets/fragment-draft-details.png){width="600" zoomable="yes"}
 
-1. 비주얼 디자이너에서 콘텐츠를 변경하려면 **[!UICONTROL 조각 편집]**&#x200B;을 클릭하세요.
+1. 비주얼 디자이너에서 콘텐츠를 변경하려면 **[!UICONTROL 조각 편집]**&#x200B;을 클릭하세요. 완료되면 **저장**&#x200B;을 클릭합니다.
 
-   필요에 따라 비주얼 디자이너 도구를 사용합니다.
+1. 조각 세부 정보로 돌아가려면 **[!UICONTROL 저장]** 또는 **[!UICONTROL 저장 및 닫기]**&#x200B;를 클릭하십시오.
 
-   * [구조 및 콘텐츠 추가](#add-structure-and-content)
-   * [Assets 추가](#add-assets)
-   * [레이어, 설정 및 스타일 탐색](#navigate-the-layers-settings-and-styles)
-   * [콘텐츠 개인화](#personalize-content)
-   * [연결된 URL 추적 편집](#edit-linked-url-tracking)
-
-   조각 세부 정보로 돌아가려면 **[!UICONTROL 저장]** 또는 **[!UICONTROL 저장 및 닫기]**&#x200B;를 클릭하십시오.
-
-1. 조각이 조건을 충족하고 전자 메일 또는 전자 메일 템플릿에서 사용할 수 있도록 하려면 **[!UICONTROL 게시]**&#x200B;를 클릭합니다.
+1. 전자 메일 또는 전자 메일 템플릿에서 조각을 사용할 수 있도록 하려면 **[!UICONTROL 게시]**&#x200B;를 클릭합니다.
 
 >[!TAB 게시됨]
 
@@ -235,19 +201,13 @@ ht-degree: 1%
 
    ![초안 버전 만들기 대화 상자](assets/fragments-create-draft-version.png){width="300"}
 
-   필요에 따라 비주얼 디자이너 도구를 사용합니다.
+1. 조각 세부 정보로 돌아가려면 **[!UICONTROL 저장]** 또는 **[!UICONTROL 저장 및 닫기]**&#x200B;를 클릭하십시오.
 
-   * [구조 및 콘텐츠 추가](#add-structure-and-content)
-   * [Assets 추가](#add-assets)
-   * [레이어, 설정 및 스타일 탐색](#navigate-the-layers-settings-and-styles)
-   * [콘텐츠 개인화](#personalize-content)
-   * [연결된 URL 추적 편집](#edit-linked-url-tracking)
+1. 전자 메일 또는 전자 메일 템플릿에서 조각을 사용할 수 있도록 하려면 **[!UICONTROL 게시]**&#x200B;를 클릭합니다.
 
-   조각 세부 정보로 돌아가려면 **[!UICONTROL 저장]** 또는 **[!UICONTROL 저장 및 닫기]**&#x200B;를 클릭하십시오.
-
-1. 초안 조각이 조건에 맞고 변경 사항을 전자 메일 또는 전자 메일 템플릿에 사용할 수 있게 하려면 **[!UICONTROL 게시]**&#x200B;를 클릭합니다.
-
-   초안 버전을 게시하면 현재 게시된 버전이 대체되며 콘텐츠는 이미 사용 중인 이메일 및 이메일 템플릿에서 업데이트됩니다.
+>[!NOTE]
+>
+>초안 버전을 게시하면 현재 게시된 버전이 대체되며 콘텐츠는 이미 사용 중인 이메일 및 이메일 템플릿에서 업데이트됩니다.
 
 >[!TAB 초안으로 게시됨]
 
@@ -259,23 +219,19 @@ _[!UICONTROL 조각]_ 목록 페이지에서 편집할 초안 버전을 여는 �
 
 * 조각 이름을 클릭하여 엽니다. 그런 다음 오른쪽 상단의 **[!UICONTROL 초안 버전 열기]**&#x200B;를 클릭합니다.
 
-  오른쪽에 조각 세부 사항이 있는 초안 버전의 시각적 콘텐츠 미리보기가 표시됩니다.
+오른쪽에 조각 세부 사항이 있는 초안 버전의 시각적 콘텐츠 미리보기가 표시됩니다.
 
 콘텐츠를 업데이트하려면:
 
-1. 오른쪽 상단의 **[!UICONTROL 조각 편집]**&#x200B;을 클릭합니다. 필요에 따라 비주얼 디자이너 도구를 사용합니다.
+1. 오른쪽 상단의 **[!UICONTROL 조각 편집]**&#x200B;을 클릭합니다. 완료되면 **저장**&#x200B;을 클릭합니다.
 
-   * [구조 및 콘텐츠 추가](#add-structure-and-content)
-   * [Assets 추가](#add-assets)
-   * [레이어, 설정 및 스타일 탐색](#navigate-the-layers-settings-and-styles)
-   * [콘텐츠 개인화](#personalize-content)
-   * [연결된 URL 추적 편집](#edit-linked-url-tracking)
+1. 조각 세부 정보로 돌아가려면 **[!UICONTROL 저장]** 또는 **[!UICONTROL 저장 및 닫기]**&#x200B;를 클릭하십시오.
 
-   조각 세부 정보로 돌아가려면 **[!UICONTROL 저장]** 또는 **[!UICONTROL 저장 및 닫기]**&#x200B;를 클릭하십시오.
+1. 전자 메일 또는 전자 메일 템플릿에서 조각을 사용할 수 있도록 하려면 **[!UICONTROL 게시]**&#x200B;를 클릭합니다.
 
-1. 초안 조각이 조건에 맞고 변경 사항을 전자 메일 또는 전자 메일 템플릿에 사용할 수 있게 하려면 **[!UICONTROL 게시]**&#x200B;를 클릭합니다.
-
-   초안 버전을 게시하면 현재 게시된 버전이 대체되며 콘텐츠는 이미 사용 중인 이메일 및 이메일 템플릿에서 업데이트됩니다.
+>[!NOTE]
+>
+>초안 버전을 게시하면 현재 게시된 버전이 대체되며 콘텐츠는 이미 사용 중인 이메일 및 이메일 템플릿에서 업데이트됩니다.
 
 >[!ENDTABS]
 
@@ -288,7 +244,7 @@ _[!UICONTROL 조각]_ 목록 페이지에서 편집할 초안 버전을 여는 �
 
 ![조각 복제](assets/fragment-details-duplicate.png){width="600" zoomable="yes"}
 
-대화 상자에서 고유한 이름과 설명(선택 사항)을 입력합니다. 작업을 완료하려면 **[!UICONTROL 복제]**&#x200B;를 클릭하십시오.
+대화 상자에서 고유한 이름과 설명(선택 사항)을 입력합니다. **[!UICONTROL 복제]**&#x200B;를 클릭합니다.
 
 ![중복된 조각의 이름과 설명을 입력하십시오](assets/fragment-duplicate-dialog.png){width="400"}
 
@@ -296,7 +252,7 @@ _[!UICONTROL 조각]_ 목록 페이지에서 편집할 초안 버전을 여는 �
 
 ## 이메일 또는 템플릿 콘텐츠에서 새 조각 저장 {#save-a-new-fragment-from-email-or-template-content}
 
-시각적 콘텐츠 편집기에서 이메일 또는 이메일 템플릿을 만들거나 편집할 때 콘텐츠를 재사용할 수 있도록 전부 또는 일부를 조각으로 저장할 수 있습니다.
+시각적 콘텐츠 편집기에서 이메일 또는 이메일 템플릿을 만들거나 편집할 때 콘텐츠의 전부 또는 일부를 조각으로 저장하여 다시 사용할 수 있습니다.
 
 1. 콘텐츠를 조각으로 저장하려면 **[!UICONTROL 자세히]**&#x200B;를 클릭하고 **[!UICONTROL 조각으로 저장]**&#x200B;을 선택하세요.
 
@@ -304,13 +260,13 @@ _[!UICONTROL 조각]_ 목록 페이지에서 편집할 초안 버전을 여는 �
 
    Shift 또는 Control 단추를 눌러 여러 구조를 선택합니다.
 
-   서로 인접한 구조만 선택할 수 있으며 인터페이스에서는 인접하지 않은 요소를 선택할 수 없습니다.
+   서로 인접한 구조만 선택할 수 있습니다.
 
 1. 콘텐츠를 선택한 상태에서 오른쪽 상단의 **[!UICONTROL 만들기]**&#x200B;를 클릭합니다.
 
 1. 대화 상자에서 조각의 이름과 선택적 설명을 입력하고 **[!UICONTROL 만들기]**&#x200B;를 클릭합니다.
 
-   그런 다음 조각이 _조각_ 목록 페이지에 표시되고 전자 메일 및 전자 메일 템플릿에서도 사용할 수 있습니다.
+그런 다음 조각이 _조각_ 목록 페이지에 표시되고 전자 메일 및 전자 메일 템플릿 내에서 사용할 수 있습니다.
 
 ## 이메일 또는 템플릿 콘텐츠에 시각적 조각 추가 {#add-visual-fragments-to-your-email-or-template-content}
 
