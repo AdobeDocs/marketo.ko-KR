@@ -1,12 +1,13 @@
 ---
+solution: Marketo Engage
+product: marketo engage
 title: 조각
-description: 시각적 콘텐츠 조각을 이메일 및 이메일 템플릿에 대한 재사용 가능한 구성 요소로 작성/사용하는 방법에 대해 알아봅니다.
-hide: true
-hidefromtoc: true
+description: 시각적 콘텐츠 조각을 이메일 및 이메일 템플릿에 대한 재사용 가능한 구성 요소로 만들고 사용하는 방법에 대해 알아봅니다.
+level: Beginner, Intermediate
 exl-id: abc065a0-cd2f-4f0f-a5f2-228b833b99a8
-source-git-commit: 45961ce486231ab2512d65ffa934369a014fe016
+source-git-commit: a8e8640a8fe69bd0ae40329a915fe89a3a90854d
 workflow-type: tm+mt
-source-wordcount: '1908'
+source-wordcount: '1909'
 ht-degree: 0%
 
 ---
@@ -54,7 +55,7 @@ ht-degree: 0%
 <tbody>
   <tr>
     <td width="25%"><b>초안</b></td>
-    <td width="70%">조각을 만들면 초안 상태가 됩니다. 이메일 또는 이메일 템플릿에 사용하기 위해 게시하기 전까지 초안으로 유지됩니다.
+    <td width="75%">조각을 만들면 초안 상태가 됩니다. 이메일 또는 이메일 템플릿에 사용하기 위해 게시하기 전까지 초안으로 유지됩니다.
     <p>사용 가능한 작업:
     <li>모든 세부 정보 편집</li>
     <li>비주얼 디자이너에서 편집</li>
@@ -74,8 +75,8 @@ ht-degree: 0%
     </td>
   </tr>
   <tr>
-    <td><b>초안과 함께 게시됨</b></td>
-    <td>게시된 조각에서 초안을 만들 때 게시된 버전은 이메일 또는 이메일 템플릿에서 사용할 수 있으며 비주얼 디자이너에서 초안 콘텐츠를 수정할 수 있습니다. 초안 버전을 게시하면 현재 게시된 버전이 대체되며 사용 중인 전자 메일 및 전자 메일 템플릿에서 <i>모두</i>의 콘텐츠가 업데이트됩니다. 
+    <td style="width:25%"><b>초안과 함께 게시됨</b></td>
+    <td style="width:75%">게시된 조각에서 초안을 만들 때 게시된 버전은 이메일 또는 이메일 템플릿에서 사용할 수 있으며 비주얼 디자이너에서 초안 콘텐츠를 수정할 수 있습니다. 초안 버전을 게시하면 현재 게시된 버전이 대체되며 사용 중인 전자 메일 및 전자 메일 템플릿에서 <i>모두</i>의 콘텐츠가 업데이트됩니다. 
     <p>사용 가능한 작업:
     <li>설명 편집</li>
     <li>이메일 또는 템플릿에 추가</li>
@@ -85,7 +86,8 @@ ht-degree: 0%
     <li>삭제(사용하지 않는 경우)</li>
     </td>
   </tr>
-</tbody></table>
+</tbody>
+</table>
 
 ## 조각 만들기 {#create-fragments}
 
