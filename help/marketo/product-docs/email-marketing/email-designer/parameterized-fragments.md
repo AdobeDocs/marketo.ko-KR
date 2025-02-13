@@ -1,6 +1,6 @@
 ---
 solution: Marketo Engage
-product: marketo engage
+product: marketo
 title: 매개 변수가 있는 조각
 description: 일부 필드를 편집할 수 있도록 만들어 조각을 사용자 지정하는 방법을 알아봅니다.
 feature: Email Editor
@@ -8,9 +8,9 @@ role: User
 level: Beginner, Intermediate
 hide: true
 hidefromtoc: true
-source-git-commit: f50fe3ff6ce2d9e98fa98cc72fd756844d55660c
+source-git-commit: 76d854176c3c462596596689b43d3567517fee63
 workflow-type: tm+mt
-source-wordcount: '648'
+source-wordcount: '637'
 ht-degree: 0%
 
 ---
@@ -23,7 +23,7 @@ ht-degree: 0%
 
 시각적 조각과 표현식 조각을 모두 사용자 지정으로 표시할 수 있습니다. 각 조각 유형을 계속 진행하는 방법에 대한 자세한 지침은 아래 섹션을 참조하십시오.
 
-스크린샷
+스크린샷 - GIF?
 
 —여기에서 편집을 중지함—
 
@@ -45,17 +45,17 @@ ht-degree: 0%
 
    아래 예에서는 &quot;여기를 클릭&quot; 버튼 URL의 편집을 허용합니다.
 
-스크린샷
+   ![](assets/fragment-param-enable.png){width="800" zoomable="yes"}
 
 1. 편집 가능한 모든 필드와 해당 기본값을 확인하려면 **개요**&#x200B;를 클릭하십시오.
 
    이 예에서 버튼 URL 필드는 구성 요소에 정의된 기본값으로 표시됩니다. 사용자는 콘텐츠에 조각을 추가한 후 이 값을 사용자 지정할 수 있습니다.
 
-스크린샷
+   ![](assets/fragment-param-preview.png){width="800" zoomable="yes"}
 
 1. 준비가 되면 변경 사항을 저장하여 조각을 업데이트합니다.
 
-1. 조각을 이메일에 추가하면 사용자는 조각에 구성된 편집 가능한 모든 필드를 사용자 지정할 수 있습니다. [시각적 조각에서 편집 가능한 필드를 사용자 지정하는 방법에 대해 알아봅니다.](../email/use-visual-fragments.md#customize-fields)
+1. 조각을 이메일에 추가하면 사용자는 조각에 구성된 편집 가능한 모든 필드를 사용자 지정할 수 있습니다.
 
 ## HTML 구성 요소 및 표현식 조각에서 편집 가능한 필드 추가 {#expression}
 
@@ -75,6 +75,6 @@ HTML 구성 요소의 경우 특정 요소만 편집 가능한 필드가 될 수
 
 예를 들어 아래 코드에서 빨간색으로 강조 표시된 각 요소는 속성이 될 수 있습니다.
 
-![](assets/fragment-html.png){width="70%"}
+![](assets/fragment-html.png){width="500" zoomable="yes"}
 
 +++

@@ -1,11 +1,11 @@
 ---
 solution: Marketo Engage
-product: marketo engage
+product: marketo
 title: 조각
 description: 시각적 콘텐츠 조각을 이메일 및 이메일 템플릿에 대한 재사용 가능한 구성 요소로 만들고 사용하는 방법에 대해 알아봅니다.
 level: Beginner, Intermediate
 exl-id: abc065a0-cd2f-4f0f-a5f2-228b833b99a8
-source-git-commit: a8e8640a8fe69bd0ae40329a915fe89a3a90854d
+source-git-commit: 76d854176c3c462596596689b43d3567517fee63
 workflow-type: tm+mt
 source-wordcount: '1909'
 ht-degree: 0%
