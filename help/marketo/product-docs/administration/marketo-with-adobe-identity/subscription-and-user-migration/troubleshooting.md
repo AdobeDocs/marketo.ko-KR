@@ -4,7 +4,8 @@ title: Adobe IMS 문제 해결 안내서
 hide: true
 hidefromtoc: true
 feature: Marketo with Adobe Identity
-source-git-commit: eccebb8352c56770dea5af9395c8bc83a08525dd
+exl-id: 921d9d45-c5c2-405c-bd3b-be8aa6d11e2f
+source-git-commit: e5c6ac7df0f8f6e7726de1ced598d390a6cf1deb
 workflow-type: tm+mt
 source-wordcount: '543'
 ht-degree: 0%
@@ -23,8 +24,6 @@ IMS 사용자 마이그레이션 프로세스 중에 마이그레이션되는 �
 * <a href="#not-in-domain">도메인에 없음</a>
 * <a href="#create-failure">만들기 실패</a>
 * <a href="#type2e-user-failure">Type2e 사용자 실패</a>
-
-
 
 <table>
 <thead>
