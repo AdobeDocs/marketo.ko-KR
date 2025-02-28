@@ -5,9 +5,9 @@ title: 조각
 description: 시각적 콘텐츠 조각을 이메일 및 이메일 템플릿에 대한 재사용 가능한 구성 요소로 만들고 사용하는 방법에 대해 알아봅니다.
 level: Beginner, Intermediate
 exl-id: abc065a0-cd2f-4f0f-a5f2-228b833b99a8
-source-git-commit: 76d854176c3c462596596689b43d3567517fee63
+source-git-commit: 2a01045abbc23bce9531c64e3494fb12a9adf1bd
 workflow-type: tm+mt
-source-wordcount: '1909'
+source-wordcount: '1911'
 ht-degree: 0%
 
 ---
@@ -299,3 +299,7 @@ _[!UICONTROL 조각]_ 목록 페이지에서 편집할 초안 버전을 여는 �
 편집기 페이지에서 조각을 선택하면 이러한 작업은 컨텍스트 도구 모음과 오른쪽의 속성 패널에서 사용할 수 있습니다.
 
 ![선택한 조각에 작업 적용](assets/fragment-actions-email-authoring.png){width="600" zoomable="yes"}
+
+>[!MORELIKETHIS]
+>
+>[사용자 지정 가능한 조각](/help/marketo/product-docs/email-marketing/email-designer/customizable-fragments.md)

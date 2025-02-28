@@ -5,7 +5,7 @@ hide: true
 hidefromtoc: true
 feature: Marketo with Adobe Identity
 exl-id: 921d9d45-c5c2-405c-bd3b-be8aa6d11e2f
-source-git-commit: a2186f054e7b7a780098157927651a084e353bd8
+source-git-commit: 2a01045abbc23bce9531c64e3494fb12a9adf1bd
 workflow-type: tm+mt
 source-wordcount: '602'
 ht-degree: 0%
@@ -32,7 +32,7 @@ _해상도_:
 
 ### Gmail 잘못된 문자 {#gmail-invalid-character}
 
-_근본 원인_: Adobe 보안 정책에 따라 `.` 및 `+` 문자는 Gmail 전자 메일 주소에 사용할 수 없습니다. 두 문자 모두 Gmail이 아닌 이메일 주소에만 사용할 수 있습니다.
+_근본 원인_: Adobe 보안 정책에 따라 `.` 및 `+` 문자는 Gmail 전자 메일 주소에 사용할 수 없습니다. 두 문자 모두 Gmail이 아닌 이메일 주소에 허용됩니다.
 
 _해상도_:
 
