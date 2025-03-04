@@ -4,9 +4,9 @@ description: 계정 살펴보기 - Marketo 문서 - 제품 설명서
 title: 계정 검색
 exl-id: 90da4ae0-0a12-48bd-8bae-a7431d2cf4f4
 feature: Target Account Management
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: dd4c8472ec3f453462bd8046daf70c89c587724a
 workflow-type: tm+mt
-source-wordcount: '581'
+source-wordcount: '558'
 ht-degree: 0%
 
 ---
@@ -27,7 +27,7 @@ CRM에서 잠재적인 대상 계정을 식별합니다.
 
 **잠재적 사용자**(CRM 계정 검색 및 Marketo 회사 검색에서): CRM 계정에 속할 수 있는 Marketo의 잠재 고객 수를 표시합니다.
 
-**사용자 지정 CRM 필드**(CRM 계정 검색 전용): 올바른 대상 계정을 선택하기 위해 영업 및 마케팅 조직을 연계하는 데 도움이 됩니다. Marketo TAM을 사용하여 [사용자 지정 CRM 필드를 매핑](/help/marketo/product-docs/target-account-management/setup-tam/create-a-custom-field-for-crm-discovery.md)하면 대상 계정을 식별하는 데 도움이 되는 매핑된 데이터가 표시됩니다.
+**사용자 지정 CRM 필드**(CRM 계정 검색 전용): 올바른 대상 계정을 선택하기 위해 영업 및 마케팅 조직을 연계하는 데 도움이 됩니다. Marketo TAM을 사용하여 [사용자 지정 CRM 필드를 매핑](/help/marketo/product-docs/target-account-management/setup-tam/create-a-custom-field-for-crm-discovery.md)하면 대상 계정을 식별하는 데 도움이 되도록 매핑된 데이터를 표시합니다.
 
 1. 명명된 계정에서 **새로 만들기** 드롭다운을 클릭하고 **CRM 계정 검색**&#x200B;을 선택합니다.
 
@@ -76,8 +76,6 @@ CRM에서 잠재적인 대상 계정을 식별합니다.
    >* 대부분의 인터넷 서비스 공급자와 공개 도메인(예: yahoo.com, gmail.com)을 회사 이름으로 필터링합니다.
    >
    >* CRM 계정을 중복 제거합니다. 하나의 레코드에서 &quot;Acme&quot;와 &quot;Acme Inc&quot;(또는 다음 접미사 중 하나)가 있는 경우(Co, Corp, Corporation, Gmbh, Inc, Incorporated, LLC, LLP, LP, Ltd, PA, PC, PLC, PLLC), TAM에서 &quot;Acme&quot;와 동일하게 병합합니다.
-   >
-   >Marketo에서 회사 이름이 아닌 CRM ID 또는 계정 소유자별로 계정을 중복 제거하려면 [Marketo 지원 센터](https://nation.marketo.com/t5/Support/ct-p/Support)에 문의하십시오.
 
 1. Named Account 열 아래의 아래쪽 화살표를 클릭하여 드롭다운을 표시합니다.
 
