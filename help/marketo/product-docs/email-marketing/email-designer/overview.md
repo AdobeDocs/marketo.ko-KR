@@ -5,9 +5,9 @@ description: 새로운 Adobe Marketo Engage 이메일 Designer을 시작합니�
 title: 개요
 feature: Email Editor
 exl-id: d31ce148-1feb-411e-bd10-453a6c7878fb
-source-git-commit: 2a01045abbc23bce9531c64e3494fb12a9adf1bd
+source-git-commit: b7e378af0d606202f022848d2a099d5170061024
 workflow-type: tm+mt
-source-wordcount: '717'
+source-wordcount: '734'
 ht-degree: 0%
 
 ---
@@ -28,15 +28,15 @@ ht-degree: 0%
 
 ### 사용자 추가 {#add-users}
 
-1. Marketo Engage에서 **[!UICONTROL 관리자]** 영역으로 이동하여 **[!UICONTROL 새 전자 메일 Designer]**&#x200B;을(를) 선택합니다.
+1. Marketo Engage에서 **[!UICONTROL Admin]** 영역으로 이동하여 **[!UICONTROL New Email Designer]**&#x200B;을(를) 선택합니다.
 
    ![관리자의 왼쪽 탐색에서 새 전자 메일 Designer 선택](assets/overview-1.png){width="600" zoomable="yes"}
 
-1. **[!UICONTROL 사용자 추가]**&#x200B;를 클릭합니다.
+1. **[!UICONTROL Add Users]**&#x200B;을(를) 클릭합니다.
 
    ![사용자 추가 단추](assets/overview-2.png){width="600" zoomable="yes"}
 
-1. **[!UICONTROL 새 값 추가]** 드롭다운에서 원하는 사용자를 선택합니다. 완료되면 **[!UICONTROL 확인]**&#x200B;을 클릭하세요.
+1. **[!UICONTROL Add New Values]** 드롭다운에서 원하는 사용자를 선택합니다. 완료되면 **[!UICONTROL OK]**&#x200B;을(를) 클릭합니다.
 
    ![목록에서 사용자 선택](assets/overview-3.png){width="600" zoomable="yes"}
 
@@ -86,6 +86,10 @@ WYSIWYG이므로 HTML 지식이 필요하지 않습니다. 쉽게 만들 수 있
 **새 전자 메일 디자이너가 AMP 언어를 지원합니까?**
 
 현재 AMP에 대한 지원이 없습니다.
+
+**새 전자 메일 디자이너에서 API를 통해 자산을 편집할 수 있습니까?**
+
+API를 통해 편집되는 Assets은 현재 새 이메일 디자이너에서 지원되지 않습니다.
 
 **특성별 다이내믹 콘텐츠는 훌륭하지만 세그먼트별 다이내믹 콘텐츠는 여전히 작동합니까?**
 
