@@ -4,9 +4,9 @@ description: Marketo 사용자 지정 개체 이해 - Marketo 문서 - 제품 �
 title: Marketo 사용자 지정 개체 이해
 exl-id: f18b1689-c7bc-4da0-8326-7b29733d527d
 feature: Custom Objects
-source-git-commit: 2671f81f62658447e4b2a3dc2e02a4e0927443e8
+source-git-commit: 7fd4d4e12b348ad4d0d69cd3f62cf441eda258b8
 workflow-type: tm+mt
-source-wordcount: '678'
+source-wordcount: '689'
 ht-degree: 0%
 
 ---
@@ -17,7 +17,7 @@ ht-degree: 0%
 
 >[!AVAILABILITY]
 >
->일부 Marketo Engage 사용자가 이 기능을 구입한 것은 아닙니다. 자세한 내용은 Adobe 계정 팀(계정 관리자)에 문의하십시오.
+>모든 Marketo Engage 사용자가 이 기능을 구입한 것은 아닙니다. 자세한 내용은 Adobe 계정 팀(계정 관리자)에 문의하십시오.
 
 사용자 지정 개체를 스마트 캠페인의 필터 및 트리거로 사용합니다. For example:
 
@@ -43,11 +43,11 @@ ht-degree: 0%
 
 ## Marketo 사용자 지정 개체 액세스 {#accessing-marketo-custom-objects}
 
-1. **[!UICONTROL 관리자]** 영역으로 이동합니다.
+1. **[!UICONTROL Admin]** 영역으로 이동합니다.
 
    ![](assets/understanding-marketo-custom-objects-1.png)
 
-1. **[!UICONTROL Marketo 사용자 지정 개체]**&#x200B;를 클릭합니다.
+1. **[!UICONTROL Marketo Custom Objects]**&#x200B;을(를) 클릭합니다.
 
    ![](assets/understanding-marketo-custom-objects-2.png)
 
@@ -69,23 +69,27 @@ ht-degree: 0%
 
 ## 개인과 연관된 사용자 정의 객체 보기 {#view-custom-objects-associated-to-a-person}
 
-사용자 지정 개체 구조를 만든 후 특정 사용자 지정 개체 데이터를 업로드하면 사용자 지정 개체의 링크 필드를 사용하여 사용자 지정 개체가 자동으로 데이터베이스의 사용자와 연결됩니다. 개인 세부 정보 페이지의 [!UICONTROL 사용자 지정 개체] 탭에서 정보를 볼 수 있습니다.
+사용자 지정 개체 구조를 만든 후 특정 사용자 지정 개체 데이터를 업로드하면 사용자 지정 개체의 링크 필드를 사용하여 사용자 지정 개체가 자동으로 데이터베이스의 사용자와 연결됩니다. 개인 세부 정보 페이지의 [!UICONTROL Custom Objects] 탭에서 정보를 볼 수 있습니다.
 
-1. **[!UICONTROL 데이터베이스]**(으)로 이동합니다.
+1. **[!UICONTROL Database]**(으)로 이동합니다.
 
    ![](assets/understanding-marketo-custom-objects-5.png)
 
-1. 데이터베이스를 열고 **[!UICONTROL 사람]** 탭을 클릭합니다. 사용자 지정 개체에 연결한 개인의 레코드를 두 번 클릭합니다.
+1. 데이터베이스를 열고 **[!UICONTROL People]** 탭을 클릭합니다. 사용자 지정 개체에 연결한 개인의 레코드를 두 번 클릭합니다.
 
    ![](assets/understanding-marketo-custom-objects-6.png)
 
-1. 사용자 세부 정보 페이지에서 **[!UICONTROL 사용자 지정 개체]** 탭을 클릭합니다. 드롭다운에서 객체를 선택합니다.
+1. 사용자 세부 정보 페이지에서 **[!UICONTROL Custom Objects]** 탭을 클릭합니다. 드롭다운에서 객체를 선택합니다.
 
    ![](assets/understanding-marketo-custom-objects-7.png)
 
 1. 이제 해당 사용자와 연결된 해당 유형의 모든 사용자 지정 개체 목록을 볼 수 있습니다.
 
    ![](assets/understanding-marketo-custom-objects-8.png)
+
+   >[!NOTE]
+   >
+   >개인 레코드에서 사용자 지정 개체 탭에는 ID별로 내림차순으로 정렬된 최대 100개의 레코드가 표시될 수 있습니다.
 
 ## 회사에서 사용자 정의 객체 사용 {#using-custom-objects-with-companies}
 
