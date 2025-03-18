@@ -4,7 +4,7 @@ title: GenAI의 특징
 feature: Interactive Webinars
 hide: true
 hidefromtoc: true
-source-git-commit: 251efc77361ce7d90b6a74ec86b184ac0060663a
+source-git-commit: 5aba776dc5e6b324eb6c6aacc398b7c7c0adc96e
 workflow-type: tm+mt
 source-wordcount: '454'
 ht-degree: 0%
@@ -39,7 +39,7 @@ ht-degree: 0%
 
 1. 생성된 챕터 및 요약을 검토합니다.
 
-2. 변경이 필요한 경우 **편집** 단추를 클릭하십시오.
+1. 변경이 필요한 경우 **편집** 단추를 클릭하십시오.
 
    수정하려면 다음을 수행합니다.
 
