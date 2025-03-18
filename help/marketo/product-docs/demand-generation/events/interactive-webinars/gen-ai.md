@@ -4,7 +4,7 @@ title: GenAI의 특징
 feature: Interactive Webinars
 hide: true
 hidefromtoc: true
-source-git-commit: 5aba776dc5e6b324eb6c6aacc398b7c7c0adc96e
+source-git-commit: 0008359ee2299cc9158151320bc8752be49e3821
 workflow-type: tm+mt
 source-wordcount: '454'
 ht-degree: 0%
@@ -31,7 +31,7 @@ ht-degree: 0%
 
 1. **생성**&#x200B;을 클릭합니다.
 
-   ![](assets/gen-ai-features-1.png){width="600" zoomable="yes"}
+   ![](assets/gen-ai-features-1.png){width="750" zoomable="yes"}
 
 1. AI가 생성한 챕터와 텍스트 요약을 표시하는 새 탭이 열립니다.
 
@@ -41,7 +41,7 @@ ht-degree: 0%
 
 1. 변경이 필요한 경우 **편집** 단추를 클릭하십시오.
 
-   수정하려면 다음을 수행합니다.
+   수정 중:
 
    * 요약 및/또는 챕터 제목에서 텍스트를 편집합니다.
 
@@ -55,14 +55,14 @@ ht-degree: 0%
 
       * 여러 챕터를 병합하려면 한 번에 두 개의 작업을 수행해야 합니다
 
-     ![](assets/gen-ai-features-2.png){width="800" zoomable="yes"}
+     ![](assets/gen-ai-features-2.png){width="600" zoomable="yes"}
 
 
    >[!NOTE]
    >
    >원하는 경우 _엄지손가락 위로_ ![엄지손가락 위로](assets/icon-thumbs-up.png) 또는 _엄지손가락 아래로_ ![엄지손가락 아래로](assets/icon-thumbs-down.png) 아이콘을 사용하여 생성된 챕터/요약의 품질을 평가할 수 있습니다. 플래그 아이콘 ![플래그 아이콘](assets/icon-flag.png)을 클릭하여 문제가 있는 콘텐츠에 플래그를 지정할 수도 있습니다.
 
-1. 화면 왼쪽 상단의 **저장** 단추를 클릭하여 변경 내용을 저장합니다.
+1. 화면 오른쪽 상단의 **저장** 단추를 클릭하여 변경 내용을 저장합니다.
 
 ## 생성된 콘텐츠 사용 {#use-generated-content}
 
