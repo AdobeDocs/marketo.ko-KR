@@ -4,9 +4,10 @@ title: GenAI의 특징
 feature: Interactive Webinars
 hide: true
 hidefromtoc: true
-source-git-commit: 0008359ee2299cc9158151320bc8752be49e3821
+exl-id: 3e0a41b0-7ff3-4676-bafc-4e7a0725a737
+source-git-commit: c00d6bbe7b7c4589446a42bbd31087bf6d4e8ddf
 workflow-type: tm+mt
-source-wordcount: '454'
+source-wordcount: '484'
 ht-degree: 0%
 
 ---
@@ -57,10 +58,11 @@ ht-degree: 0%
 
      ![](assets/gen-ai-features-2.png){width="600" zoomable="yes"}
 
-
    >[!NOTE]
    >
-   >원하는 경우 _엄지손가락 위로_ ![엄지손가락 위로](assets/icon-thumbs-up.png) 또는 _엄지손가락 아래로_ ![엄지손가락 아래로](assets/icon-thumbs-down.png) 아이콘을 사용하여 생성된 챕터/요약의 품질을 평가할 수 있습니다. 플래그 아이콘 ![플래그 아이콘](assets/icon-flag.png)을 클릭하여 문제가 있는 콘텐츠에 플래그를 지정할 수도 있습니다.
+   >* 원하는 경우 _엄지손가락 위로_ ![엄지손가락 위로](assets/icon-thumbs-up.png) 또는 _엄지손가락 아래로_ ![엄지손가락 아래로](assets/icon-thumbs-down.png) 아이콘을 사용하여 생성된 챕터/요약의 품질을 평가할 수 있습니다. 플래그 아이콘 ![플래그 아이콘](assets/icon-flag.png)을 클릭하여 문제가 있는 콘텐츠에 플래그를 지정할 수도 있습니다.
+   >
+   >* 초기 요약에 만족하지 않는 경우 **요약 재생성** 단추를 클릭하면 다른 버전이 생성됩니다.
 
 1. 화면 오른쪽 상단의 **저장** 단추를 클릭하여 변경 내용을 저장합니다.
 
@@ -88,4 +90,4 @@ ht-degree: 0%
 
 * 웨비나를 삭제하면 GenAI 콘텐츠도 삭제됩니다.
 
-* 자세한 설명 또는 데이터 삭제 요청은 Adobe 계정 팀(계정 관리자)에 문의하거나 `marketo-webinar-genai-alerts@adobe.com`(으)로 전자 메일을 보내십시오.
+* 웨비나를 삭제하지 않고 GenAI 콘텐츠를 삭제하려면 Adobe 계정 팀(계정 관리자)에 문의하거나 데이터 삭제 요청을 `marketo-webinar-genai-alerts@adobe.com`(으)로 보내십시오.
