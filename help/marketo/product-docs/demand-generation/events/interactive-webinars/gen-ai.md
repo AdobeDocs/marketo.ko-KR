@@ -5,7 +5,7 @@ feature: Interactive Webinars
 hide: true
 hidefromtoc: true
 exl-id: 3e0a41b0-7ff3-4676-bafc-4e7a0725a737
-source-git-commit: c00d6bbe7b7c4589446a42bbd31087bf6d4e8ddf
+source-git-commit: 43ecb24bd051fe49b41ef61448234b8704f8ab88
 workflow-type: tm+mt
 source-wordcount: '484'
 ht-degree: 0%
@@ -32,7 +32,7 @@ ht-degree: 0%
 
 1. **생성**&#x200B;을 클릭합니다.
 
-   ![](assets/gen-ai-features-1.png){width="750" zoomable="yes"}
+   ![](assets/gen-ai-features-1.png){width="800" zoomable="yes"}
 
 1. AI가 생성한 챕터와 텍스트 요약을 표시하는 새 탭이 열립니다.
 
@@ -56,7 +56,7 @@ ht-degree: 0%
 
       * 여러 챕터를 병합하려면 한 번에 두 개의 작업을 수행해야 합니다
 
-     ![](assets/gen-ai-features-2.png){width="600" zoomable="yes"}
+     ![](assets/gen-ai-features-2.png){width="800" zoomable="yes"}
 
    >[!NOTE]
    >
