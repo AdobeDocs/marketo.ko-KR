@@ -4,7 +4,7 @@ description: 감사 추적의 변경 세부 정보 - Marketo 문서 - 제품 설
 title: 감사 추적의 변경 세부 정보
 exl-id: 5583be62-46a6-42f9-b4b3-0df63a171b2d
 feature: Audit Trail
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 1477b889f74597396b3467371229a511e4390f91
 workflow-type: tm+mt
 source-wordcount: '1902'
 ht-degree: 10%
@@ -26,7 +26,7 @@ ht-degree: 10%
  <tbody> 
   <tr> 
    <th colspan="1">에셋/유형</th> 
-   <th colspan="1">액션</th> 
+   <th colspan="1">작업</th> 
    <th colspan="1">변경 세부 사항</th> 
   </tr> 
   <tr> 
@@ -44,7 +44,7 @@ ht-degree: 10%
   </tr> 
   <tr> 
    <td>삭제</td> 
-   <td>해당 없음</td> 
+   <td>N/A</td> 
   </tr> 
   <tr> 
    <td>채널 편집</td> 
@@ -88,7 +88,7 @@ ht-degree: 10%
   </tr> 
   <tr> 
    <td>내보내기</td> 
-   <td>해당 없음</td> 
+   <td>N/A</td> 
   </tr> 
   <tr> 
    <td rowspan="19"><strong>이메일</strong><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br></td> 
@@ -137,11 +137,11 @@ ht-degree: 10%
   </tr> 
   <tr> 
    <td>편집</td> 
-   <td>모듈 편집 <module name><attribute> to "value"</td> 
+   <td><code>"&lt;module name&gt;" &lt;attribute&gt;</code> 모듈을 "value"로 편집</td> 
   </tr> 
   <tr> 
    <td>삭제</td> 
-   <td>해당 없음</td> 
+   <td>N/A</td> 
   </tr> 
   <tr> 
    <td>이름 바꾸기</td> 
@@ -157,11 +157,11 @@ ht-degree: 10%
   </tr> 
   <tr> 
    <td>승인</td> 
-   <td>해당 없음</td> 
+   <td>N/A</td> 
   </tr> 
   <tr> 
    <td>승인 취소</td> 
-   <td>해당 없음</td> 
+   <td>N/A</td> 
   </tr> 
   <tr> 
    <td>초안</td> 
@@ -181,11 +181,11 @@ ht-degree: 10%
   </tr> 
   <tr> 
    <td>삭제</td> 
-   <td>해당 없음</td> 
+   <td>N/A</td> 
   </tr> 
   <tr> 
    <td>중단</td> 
-   <td>해당 없음</td> 
+   <td>N/A</td> 
   </tr> 
   <tr> 
    <td>채널 편집</td> 
@@ -250,7 +250,7 @@ ht-degree: 10%
   </tr> 
   <tr> 
    <td>삭제</td> 
-   <td>해당 없음</td> 
+   <td>N/A</td> 
   </tr> 
   <tr> 
    <td>이름 바꾸기</td> 
@@ -262,11 +262,11 @@ ht-degree: 10%
   </tr> 
   <tr> 
    <td>승인</td> 
-   <td>해당 없음</td> 
+   <td>N/A</td> 
   </tr> 
   <tr> 
    <td>승인 취소</td> 
-   <td>해당 없음</td> 
+   <td>N/A</td> 
   </tr> 
   <tr> 
    <td rowspan="23">참여 프로그램</td> 
@@ -283,7 +283,7 @@ ht-degree: 10%
   </tr> 
   <tr> 
    <td>삭제</td> 
-   <td>해당 없음</td> 
+   <td>N/A</td> 
   </tr> 
   <tr> 
    <td>채널 편집</td> 
@@ -359,7 +359,7 @@ ht-degree: 10%
   </tr> 
   <tr> 
    <td>내보내기</td> 
-   <td>해당 없음</td> 
+   <td>N/A</td> 
   </tr> 
   <tr> 
    <td rowspan="18">이벤트 프로그램</td> 
@@ -372,7 +372,7 @@ ht-degree: 10%
   </tr> 
   <tr> 
    <td>삭제</td> 
-   <td>해당 없음</td> 
+   <td>N/A</td> 
   </tr> 
   <tr> 
    <td>복제</td> 
@@ -432,16 +432,16 @@ ht-degree: 10%
   </tr> 
   <tr> 
    <td>내보내기</td> 
-   <td>해당 없음</td> 
+   <td>N/A</td> 
   </tr> 
   <tr> 
    <td rowspan="5">폴더</td> 
    <td>만들기</td> 
-   <td>해당 없음</td> 
+   <td>N/A</td> 
   </tr> 
   <tr> 
    <td>삭제</td> 
-   <td>해당 없음</td> 
+   <td>N/A</td> 
   </tr> 
   <tr> 
    <td>편집</td> 
@@ -462,7 +462,7 @@ ht-degree: 10%
   </tr> 
   <tr> 
    <td>삭제</td> 
-   <td>해당 없음</td> 
+   <td>N/A</td> 
   </tr> 
   <tr> 
    <td>이름 바꾸기</td> 
@@ -500,7 +500,7 @@ ht-degree: 10%
   </tr> 
   <tr> 
    <td>삭제</td> 
-   <td>해당 없음</td> 
+   <td>N/A</td> 
   </tr> 
   <tr> 
    <td>이름 바꾸기</td> 
@@ -528,7 +528,7 @@ ht-degree: 10%
   </tr> 
   <tr> 
    <td>승인</td> 
-   <td>해당 없음</td> 
+   <td>N/A</td> 
   </tr> 
   <tr> 
    <td>초안</td> 
@@ -536,7 +536,7 @@ ht-degree: 10%
   </tr> 
   <tr> 
    <td>승인 취소</td> 
-   <td>해당 없음</td> 
+   <td>N/A</td> 
   </tr> 
   <tr> 
    <td rowspan="8">랜딩 페이지 템플릿</td> 
@@ -545,7 +545,7 @@ ht-degree: 10%
   </tr> 
   <tr> 
    <td>삭제</td> 
-   <td>해당 없음</td> 
+   <td>N/A</td> 
   </tr> 
   <tr> 
    <td>이름 바꾸기</td> 
@@ -561,7 +561,7 @@ ht-degree: 10%
   </tr> 
   <tr> 
    <td>내보내기</td> 
-   <td>해당 없음</td> 
+   <td>N/A</td> 
   </tr> 
   <tr> 
    <td>승인</td> 
@@ -569,16 +569,16 @@ ht-degree: 10%
   </tr> 
   <tr> 
    <td>승인 취소</td> 
-   <td>해당 없음</td> 
+   <td>N/A</td> 
   </tr> 
   <tr> 
    <td rowspan="5">목록(정적)</td> 
    <td>만들기</td> 
-   <td>해당 없음</td> 
+   <td>N/A</td> 
   </tr> 
   <tr> 
    <td>내보내기</td> 
-   <td>해당 없음</td> 
+   <td>N/A</td> 
   </tr> 
   <tr> 
    <td>복제</td> 
@@ -586,7 +586,7 @@ ht-degree: 10%
   </tr> 
   <tr> 
    <td>삭제</td> 
-   <td>해당 없음</td> 
+   <td>N/A</td> 
   </tr> 
   <tr> 
    <td>이름 바꾸기</td> 
@@ -595,19 +595,19 @@ ht-degree: 10%
   <tr> 
    <td rowspan="12">스마트 캠페인</td> 
    <td>만들기</td> 
-   <td>해당 없음</td> 
+   <td>N/A</td> 
   </tr> 
   <tr> 
    <td>활성화</td> 
-   <td>해당 없음</td> 
+   <td>N/A</td> 
   </tr> 
   <tr> 
    <td>비활성화</td> 
-   <td>해당 없음</td> 
+   <td>N/A</td> 
   </tr> 
   <tr> 
    <td>중단</td> 
-   <td>해당 없음</td> 
+   <td>N/A</td> 
   </tr> 
   <tr> 
    <td>이동</td> 
@@ -623,7 +623,7 @@ ht-degree: 10%
   </tr> 
   <tr> 
    <td>삭제</td> 
-   <td>해당 없음</td> 
+   <td>N/A</td> 
   </tr> 
   <tr> 
    <td>복제</td> 
@@ -635,7 +635,7 @@ ht-degree: 10%
   </tr> 
   <tr> 
    <td>캠페인 일정 수정</td> 
-   <td>해당 없음</td> 
+   <td>N/A</td> 
   </tr> 
   <tr> 
    <td>플로우 단계 작업 수정</td> 
@@ -648,7 +648,7 @@ ht-degree: 10%
   </tr> 
   <tr> 
    <td>내보내기</td> 
-   <td>해당 없음</td> 
+   <td>N/A</td> 
   </tr> 
   <tr> 
    <td>이름 바꾸기</td> 
@@ -660,7 +660,7 @@ ht-degree: 10%
   </tr> 
   <tr> 
    <td>삭제</td> 
-   <td>해당 없음</td> 
+   <td>N/A</td> 
   </tr> 
   <tr> 
    <td>복제</td> 
@@ -689,7 +689,7 @@ ht-degree: 10%
   </tr> 
   <tr> 
    <td>삭제</td> 
-   <td>해당 없음</td> 
+   <td>N/A</td> 
   </tr> 
   <tr> 
    <td>이름 바꾸기</td> 
@@ -709,11 +709,11 @@ ht-degree: 10%
   </tr> 
   <tr> 
    <td>초안 없이 승인</td> 
-   <td>해당 없음</td> 
+   <td>N/A</td> 
   </tr> 
   <tr> 
    <td>승인 취소</td> 
-   <td><p>해당 없음</p></td> 
+   <td><p>N/A</p></td> 
   </tr> 
  </tbody> 
 </table>
@@ -729,7 +729,7 @@ ht-degree: 10%
  <tbody> 
   <tr> 
    <th>관리 영역</th> 
-   <th>액션</th> 
+   <th>작업</th> 
    <th>변경 세부 사항</th> 
   </tr> 
   <tr> 
