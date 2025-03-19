@@ -3,9 +3,9 @@ description: 최신 릴리스 정보 - Marketo 설명서 - 제품 설명서
 title: 최신 릴리스 정보
 exl-id: a2eccad5-73ad-48f9-8091-51cee23824e1
 feature: Release Information
-source-git-commit: 7a583a482af64290d08644945e569612f4be8ab9
+source-git-commit: f8d75117254b20672fde3bcfd4fbbd4d8a6506e1
 workflow-type: tm+mt
-source-wordcount: '438'
+source-wordcount: '446'
 ht-degree: 4%
 
 ---
@@ -32,7 +32,7 @@ Adobe Dynamic Chat [에 대한 릴리스 정보는 여기에서 찾을 수 있�
    <th style="width:25%">설명서</th>
   </tr>
     <tr> 
-   <td><strong>모든 프로그램에서 사용할 수 있는 이메일 Designer</strong>: 이제 참여, 기본 및 이벤트 프로그램에서 새로운 이메일 Designer 이메일에 액세스할 수 있습니다(대화형 웨비나 프로그램만 제외). 이전에는 이메일 프로그램에서만 사용할 수 있었습니다.</td>
+   <td><strong>모든 프로그램에서 사용할 수 있는 이메일 Designer</strong>: 이제 참여, 기본 및 이벤트 프로그램에서 새로운 이메일 Designer 이메일에 액세스할 수 있습니다(대화형 웨비나 프로그램만 제외). 이전에는 이메일 프로그램에서만 사용할 수 있었습니다. 이 업데이트를 통해 복제도 사용할 수 있게 됩니다.</td>
    <td><i>곧 출시 예정</i></td>
    <td><i>곧 출시 예정</i></td>
   </tr>
