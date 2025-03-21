@@ -5,9 +5,9 @@ hide: true
 hidefromtoc: true
 feature: Marketo with Adobe Identity
 exl-id: 921d9d45-c5c2-405c-bd3b-be8aa6d11e2f
-source-git-commit: c5b05cf7d1131c9d98d89c12a4a8bd04d215886d
+source-git-commit: 251f84b2dff6b7c0706c0f08fe8b51d8d4d897f0
 workflow-type: tm+mt
-source-wordcount: '807'
+source-wordcount: '796'
 ht-degree: 0%
 
 ---
@@ -66,11 +66,9 @@ _사용자가&#x200B;**not**인 경우 마이그레이션해야 합니다_ - Mar
 
 _사용자를 마이그레이션해야 하는 경우_(및 마이그레이션하는 조직에서 도메인 집행을 사용할 수 있는 경우) - DE(도메인 시행) 정책을 준수하려면 Marketo Engage에서 전자 메일 주소를 업데이트해야 합니다. 또는 시스템 관리자가 [도메인을 다른 DE(Domain Enforcement) 사용 안 함 디렉터리로 이동](https://helpx.adobe.com/enterprise/using/manage-domains-directories.html#move-domains-across-directories){target="_blank"}하거나 DE 정책에 없는 [새 디렉터리를 만들기](https://helpx.adobe.com/kr/enterprise/using/set-up-identity.html){target="_blank"}할 수 있습니다. Marketo Engage 관리자를 사용하여 마이그레이션 콘솔에서 이 사용자에 대한 사용자 마이그레이션을 다시 실행하십시오.
 
-_사용자를 마이그레이션해야 하는 경우_(다른 조직에서 도메인 집행을 사용할 수 있음)- 도메인이 요청된 조직의 시스템 관리자가 예외 목록에 사용자 전자 메일 주소를 추가해야 합니다. Marketo Engage 관리자를 사용하여 마이그레이션 콘솔에서 이 사용자에 대한 사용자 마이그레이션을 다시 실행하십시오.
+_사용자를 마이그레이션해야 하는 경우_(다른 조직에서 도메인 집행을 사용할 수 있음) - 도메인이 요청된 조직의 시스템 관리자가 예외 목록에 사용자의 전자 메일 주소를 추가해야 합니다. Marketo Engage 관리자를 사용하여 마이그레이션 콘솔에서 이 사용자에 대한 사용자 마이그레이션을 다시 실행하십시오.
 
 _사용자가&#x200B;**not**인 경우 마이그레이션해야 합니다_ - Marketo Engage 관리자가 마이그레이션 콘솔에서 사용자를 건너뜁니다. 마이그레이션 또는 건너뛰기로 모든 사용자를 고려할 때 &quot;마이그레이션 완료&quot; 버튼이 표시됩니다. 버튼을 클릭하여 사용자 마이그레이션 프로세스를 완료합니다.
-
-**다음 오류 메시지의 근본 원인/해결 방법은 모두 같습니다...**
 
 ### 사용자 생성 실패 {#user-creation-failed}
 
