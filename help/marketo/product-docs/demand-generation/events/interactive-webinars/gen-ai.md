@@ -5,7 +5,7 @@ feature: Interactive Webinars
 hide: true
 hidefromtoc: true
 exl-id: 3e0a41b0-7ff3-4676-bafc-4e7a0725a737
-source-git-commit: 43ecb24bd051fe49b41ef61448234b8704f8ab88
+source-git-commit: b3bc6a7ec14a513e4b294852d066f9e3d0f74ef8
 workflow-type: tm+mt
 source-wordcount: '484'
 ht-degree: 0%
@@ -82,7 +82,7 @@ ht-degree: 0%
 
 ## 유의할 사항 {#things-to-note}
 
-* 챕터를 삭제하거나 병합하는 것은 챕터 스택에만 영향을 주고 비디오 콘텐츠 자체에는 영향을 주지 않습니다. 이러한 작업은 취소할 수 없습니다.
+* 챕터를 삭제하거나 병합하는 것은 챕터 스택에만 영향을 주고 비디오 콘텐츠 자체에는 영향을 주지 않습니다. 이러한 작업은 영구적입니다.
 
 * GenAI 기능은 유연하며 Marketo Engage의 기능뿐만 아니라 다양한 웹 페이지 편집기와 함께 사용할 수 있습니다.
 
