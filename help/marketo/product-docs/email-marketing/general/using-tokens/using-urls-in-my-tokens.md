@@ -4,9 +4,9 @@ description: 내 토큰에 URL 사용 - Marketo 문서 - 제품 설명서
 title: 내 토큰에 URL 사용
 exl-id: 6830c621-4d94-4f31-a608-2f7b2aced88c
 feature: Tokens
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 165dca2573f340ede147866c3a30707bbfb6857c
 workflow-type: tm+mt
-source-wordcount: '218'
+source-wordcount: '253'
 ht-degree: 0%
 
 ---
@@ -29,7 +29,11 @@ ht-degree: 0%
 
    >[!CAUTION]
    >
-   >전자 메일에서 클릭이 추적되는지 확인하려면 토큰 값 내에 https://을 **입력하지 마십시오**.
+   >**http/https 사용 중...**
+   >
+   >* 전자 메일에서 클릭이 추적되는지 확인하려면 토큰 값을 **입력하지 말고** https:// _inside_&#x200B;를 입력하십시오. 7단계에 표시된 대로 토큰 외부에서 사용합니다.
+   >
+   >* http/https를 종료하지 않는 것이 좋습니다. 이렇게 하면 전자 메일의 [웹 버전](/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/add-a-view-as-web-page-link-to-an-email.md){target="_blank"}이(가) 잘못 렌더링될 수 있습니다.
 
 1. 프로그램에서 이메일을 선택합니다.
 
@@ -43,13 +47,13 @@ ht-degree: 0%
 
    ![](assets/six-1.png)
 
-1. 이메일의 아무 곳에나 &quot;https://&quot;(뒤에 공백을 남기지 않음)을 입력하고 토큰 삽입 아이콘을 클릭합니다.
+1. 전자 메일의 어디에나 `https://`을(를) 입력하고(뒤에 공백을 남기지 않음) [토큰 삽입] 아이콘을 클릭합니다.
 
    ![](assets/seven.png)
 
    >[!NOTE]
    >
-   >물론 사이트에서 https를 사용하는 경우 &quot;https&quot;를 입력하는 옵션도 있습니다.
+   >사이트에서 https를 사용하지 않는 경우 `http://`을(를) 입력할 수도 있습니다.
 
 1. 내 토큰을 찾아 선택한 다음 **삽입**&#x200B;을 클릭합니다.
 
