@@ -3,7 +3,7 @@ description: Sales Connect 관리자를 위한 시작 안내서 - Marketo 문서
 title: Sales Connect 관리자를 위한 시작 안내서
 exl-id: 8c866fff-3252-4564-a229-bbe4e17190fd
 feature: Marketo Sales Connect
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 9a43f9bce9664523334b55dcca3d9ea79d5f5093
 workflow-type: tm+mt
 source-wordcount: '479'
 ht-degree: 0%
@@ -12,7 +12,7 @@ ht-degree: 0%
 
 # Sales Connect 관리자를 위한 시작 안내서 {#getting-started-guide-for-sales-connect-admins}
 
-이 문서에서는 새 Sales Connect 인스턴스를 설정하는 초기 단계를 설명합니다. 이러한 단계 중 일부는 Marketo 관리자, Salesforce 관리자 및 Sales Connect 관리자로 액세스해야 합니다. 아래 안내서에 따라 인스턴스 설정을 완료합니다.
+이 문서에서는 새 Sales Connect 인스턴스를 설정하는 초기 단계를 설명합니다. 이 단계 중 일부는 Marketo 관리자, Salesforce 관리자 및 Sales Connect 관리자로 액세스해야 합니다. 아래 안내서에 따라 인스턴스 설정을 완료합니다.
 
 >[!NOTE]
 >
@@ -34,7 +34,7 @@ Marketo에서 Marketo Sales Connect 계정을 프로비저닝하고 첫 번째 �
 
 이메일, 호출 및 작업과 같은 Salesforce에 판매 활동을 기록하려면 모든 사용자가 개별적으로 Salesforce에 연결해야 합니다. 그러나 관리자로 Salesforce에 연결하면 전체 팀에 대한 활동 로깅 설정을 구성할 수 있으므로 전역 로깅 설정이 모든 Sales Connect 사용자에게 적용됩니다.
 
-관리자 또는 관리자가 아닌 사용자의 Salesforce 인스턴스에 Sales Connect 인스턴스를 연결하려면 [이 문서](/help/marketo/product-docs/marketo-sales-connect/crm/salesforce-integration/connect-your-sales-connect-account-to-salesforce.md)의 단계를 따르십시오.
+관리자 또는 관리자가 아닌 사용자의 Sales Connect 인스턴스를 Salesforce 인스턴스에 연결하려면 [이 문서](/help/marketo/product-docs/marketo-sales-connect/crm/salesforce-integration/connect-your-sales-connect-account-to-salesforce.md)의 단계를 따르십시오.
 
 ![](assets/getting-started-guide-for-sales-connect-admins-3.png)
 
@@ -46,11 +46,11 @@ Marketo에 연결하면 판매자는 향후 노력에서 마케팅 자동화 및
 * 라이브 피드에 [관심 있는 순간](/help/marketo/product-docs/marketo-sales-connect/marketo/interesting-moments-in-sales-connect.md) 푸시
 * Marketo에 판매 활동 로깅
 
-Marketo에 연결하고 판매 사용자에게 연결에 대한 액세스 권한을 부여하는 방법에 대한 자세한 내용을 보려면 여기를 클릭하십시오 .
+Marketo에 연결하고 판매 사용자에게 연결에 대한 액세스 권한을 부여하는 방법에 대해 자세히 알아보려면 [여기를 클릭](/help/marketo/product-docs/marketo-sales-connect/marketo/set-up-your-marketo-connection.md)하십시오.
 
 ## Salesforce 사용자 지정 패키지 설치 {#installing-salesforce-customization-package}
 
-영업을 성공적으로 이끌 수 있도록 하는 일부분은 기본 작업 영역에서 적절한 기능을 갖추는 것을 의미합니다. Sales Connect 사용자 정의 패키지를 통해 Salesforce에서 참여 기능 및 주요 영업 활동 속성에 액세스할 수 있습니다.
+영업을 성공적으로 이끌 수 있도록 하는 일부분은 기본 작업 영역에서 적절한 기능을 갖추는 것을 의미합니다. Sales Connect 사용자 정의 패키지를 사용하면 Salesforce에서 참여 기능 및 주요 영업 활동 속성에 액세스할 수 있습니다.
 
 Sales Connect 사용자 지정 설치에 대한 자세한 내용을 보려면 [여기를 클릭](/help/marketo/product-docs/marketo-sales-connect/crm/salesforce-customization/sales-connect-customizations-for-crm.md)하십시오.
 
