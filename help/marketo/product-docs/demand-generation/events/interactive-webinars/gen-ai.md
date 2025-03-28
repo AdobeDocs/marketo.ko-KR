@@ -5,9 +5,9 @@ feature: Interactive Webinars
 hide: true
 hidefromtoc: true
 exl-id: 3e0a41b0-7ff3-4676-bafc-4e7a0725a737
-source-git-commit: b3bc6a7ec14a513e4b294852d066f9e3d0f74ef8
+source-git-commit: 232b7a513be6ad9d4c3a524d2f78cd02df5abe6f
 workflow-type: tm+mt
-source-wordcount: '484'
+source-wordcount: '518'
 ht-degree: 0%
 
 ---
@@ -15,6 +15,10 @@ ht-degree: 0%
 # GenAI의 특징 {#gen-ai-features}
 
 기록된 웨비나에 대한 챕터 및 요약을 자동으로 생성하므로 대상자가 쉽게 액세스하고 탐색할 수 있습니다.
+
+>[!PREREQUISITES]
+>
+>이러한 기능을 사용하기 전에 먼저 Adobe GenAI 약관에 동의해야 합니다. 아직 계정이 없는 경우 Adobe 계정 팀(계정 관리자)에 연락하여 자세한 내용을 확인하십시오.
 
 * **자동 챕터 생성**: AI 기반 기술은 웨비나 콘텐츠의 챕터를 만듭니다.
 

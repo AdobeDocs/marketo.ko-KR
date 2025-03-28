@@ -4,9 +4,9 @@ description: 지속적인 구독 취소 - Marketo 문서 - 제품 설명서
 title: 지속적인 구독 취소
 exl-id: e03a5a01-7395-45b3-8351-7931ec413236
 feature: Deliverability
-source-git-commit: 35f5b33b01462b1cd00e29360daee465c7f18cf0
+source-git-commit: 232b7a513be6ad9d4c3a524d2f78cd02df5abe6f
 workflow-type: tm+mt
-source-wordcount: '296'
+source-wordcount: '279'
 ht-degree: 0%
 
 ---
@@ -46,8 +46,6 @@ SOAP API를 통해 기존 사용자를 업데이트합니다.
 ## 이메일 주소 변경 {#changing-an-email-address}
 
 개인의 이메일 주소를 구독 취소 이메일 주소로 변경하면 해당 개인의 구독이 취소됩니다. 이 변경 사항은 Marketo 또는 Salesforce에서 발생할 수 있습니다.
-
-구독 취소된 이메일 주소를 구독 중인 이메일 주소로 변경하면 해당 사람이 구독됩니다.
 
 ## 다시 구독 {#re-subscribing}
 
