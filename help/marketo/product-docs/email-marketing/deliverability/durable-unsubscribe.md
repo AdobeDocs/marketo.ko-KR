@@ -4,9 +4,9 @@ description: 지속적인 구독 취소 - Marketo 문서 - 제품 설명서
 title: 지속적인 구독 취소
 exl-id: e03a5a01-7395-45b3-8351-7931ec413236
 feature: Deliverability
-source-git-commit: 020e35ad6763240d968ef3fe8e8fff544b77b96f
+source-git-commit: 777413b4256ab5342b933fa04c34d8a8d1201c0e
 workflow-type: tm+mt
-source-wordcount: '294'
+source-wordcount: '287'
 ht-degree: 0%
 
 ---
@@ -36,8 +36,6 @@ Marketo에서 개인 레코드의 정보 탭에서 구독 취소 상자를 지�
 한 명 이상의 사용자에 대해 아래와 같이 _데이터 값 변경_ 흐름 단계를 실행하십시오.
 
 ![데이터 값 흐름 변경 단계](assets/durable-unsubscribe-3.png)
-
-SOAP API를 통해 기존 사용자를 업데이트합니다.
 
 ## 새 사용자 만들기 {#creating-a-new-person}
 
