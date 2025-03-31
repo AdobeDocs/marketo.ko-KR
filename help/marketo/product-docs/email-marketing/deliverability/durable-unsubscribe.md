@@ -4,9 +4,9 @@ description: 지속적인 구독 취소 - Marketo 문서 - 제품 설명서
 title: 지속적인 구독 취소
 exl-id: e03a5a01-7395-45b3-8351-7931ec413236
 feature: Deliverability
-source-git-commit: 232b7a513be6ad9d4c3a524d2f78cd02df5abe6f
+source-git-commit: 366de1bf0ec858da50aa19dcea1cb5b36b624394
 workflow-type: tm+mt
-source-wordcount: '279'
+source-wordcount: '294'
 ht-degree: 0%
 
 ---
@@ -27,15 +27,15 @@ Marketo은 &quot;지속적&quot;으로 만들기 위해 구독 취소 기능의 
 
 Salesforce에서 잠재 고객/연락처 레코드의 전자 메일 옵트아웃 필드를 **지웁니다**. Marketo과 동기화됩니다.
 
-![](assets/one.png)
+![Salesforce 화면](assets/durable-unsubscribe-1.png)
 
 Marketo에서 개인 레코드의 정보 탭에서 구독 취소 상자를 **지웁니다**.
 
-![](assets/two.png)
+![개인 레코드에서 구독 취소 상자를 지우는 중](assets/durable-unsubscribe-2.png)
 
 한 명 이상의 사용자에 대해 아래와 같이 **데이터 값 변경** 흐름 단계를 실행하십시오.
 
-![](assets/three.png)
+![데이터 값 흐름 변경 단계](assets/durable-unsubscribe-3.png)
 
 SOAP API를 통해 기존 사용자를 업데이트합니다.
 
