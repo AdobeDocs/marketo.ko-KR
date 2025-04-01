@@ -3,9 +3,9 @@ description: 이메일 템플릿 - Marketo 문서 - 제품 설명서
 title: 이메일 템플릿
 feature: Email Editor
 exl-id: 92af4ba4-f214-423c-ab2d-ade07b368797
-source-git-commit: 4b6d3c4f91fe117511ad3235f757ec904d9bafa2
+source-git-commit: cf4df30b575061bde18cf38e355604b970b7c51e
 workflow-type: tm+mt
-source-wordcount: '1843'
+source-wordcount: '1821'
 ht-degree: 1%
 
 ---
@@ -16,7 +16,7 @@ ht-degree: 1%
 
 >[!PREREQUISITES]
 >
->새 이메일 디자이너에 액세스하려면 Marketo Engage 구독을 [IMS(Adobe Identity Management System)](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/administration/marketo-with-adobe-identity/adobe-identity-management-overview)(으)로 마이그레이션해야 합니다. 아직 실행되지 않았으며 신속 처리를 요청하려면 Adobe 계정 팀(계정 관리자) 또는 [Marketo 지원](https://nation.marketo.com/t5/support/ct-p/Support)에 문의하세요.
+>새 이메일 디자이너에 액세스하려면 Marketo Engage 구독을 [Adobe IMS(Identity Management System)](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/administration/marketo-with-adobe-identity/adobe-identity-management-overview)&#x200B;(으)로 마이그레이션해야 합니다. 아직 실행되지 않았으며 신속 처리를 요청하려면 Adobe 계정 팀(계정 관리자) 또는 [Marketo 지원](https://nation.marketo.com/t5/support/ct-p/Support)에 문의하십시오.
 
 >[!NOTE]
 >
@@ -24,7 +24,7 @@ ht-degree: 1%
 
 ## 이메일 템플릿 만들기 {#create-an-email-template}
 
-1. [Adobe Experience Cloud](https://experiencecloud.adobe.com/){target="_blank"}을 통해 Marketo Engage에 로그인합니다.
+1. [Adobe Experience Cloud](https://experiencecloud.adobe.com/){target="_blank"}을(를) 통해 Marketo Engage에 로그인합니다.
 
 1. 내 Marketo에서 **Design Studio**&#x200B;를 선택합니다.
 
@@ -44,7 +44,7 @@ ht-degree: 1%
 
 ## 템플릿 디자인 {#design-your-template}
 
-_템플릿 디자인_ 페이지에서 몇 가지 옵션 중에서 선택할 수 있습니다. [처음부터 디자인](#design-from-scratch), [자신의 HTML을 가져오거나](#import-html), [기존 템플릿을 선택하십시오](#choose-a-template)(샘플 중 하나 또는 이미 저장한 템플릿).
+_템플릿 디자인_ 페이지에서 몇 가지 옵션 중에서 선택할 수 있습니다. [처음부터 디자인](#design-from-scratch), [자신의 HTML 가져오기](#import-html) 또는 [기존 템플릿을 선택](#choose-a-template)(샘플 중 하나 또는 이미 저장한 템플릿 중 하나).
 
 ![](assets/design-your-template-1.png)
 
@@ -68,7 +68,7 @@ _템플릿 디자인_ 페이지에서 몇 가지 옵션 중에서 선택할 수 
 >
 >.zip 파일 구조에는 제약 조건이 없습니다. 그러나 참조는 상대적이어야 하며 .zip 폴더의 트리 구조와 일치해야 합니다.
 
-1. _HTML 디자인_ 페이지에서 **템플릿 가져오기**&#x200B;를 선택합니다.
+1. _템플릿 디자인_ 페이지에서 **HTML 가져오기**&#x200B;를 선택합니다.
 
 1. 원하는 HTML 또는 .zip 파일을 끌어다 놓고(또는 컴퓨터에서 파일 선택) **가져오기**&#x200B;를 클릭합니다.
 
@@ -76,7 +76,7 @@ _템플릿 디자인_ 페이지에서 몇 가지 옵션 중에서 선택할 수 
 
    >[!NOTE]
    >
-   >HTML 콘텐츠가 업로드되면 해당 콘텐츠는 호환성 모드에 있게 됩니다. 이 모드에서는 텍스트를 개인화하거나, 링크를 추가하거나, 콘텐츠에 자산을 추가할 수만 있습니다.
+   >HTML 콘텐츠가 업로드되면 콘텐츠는 호환성 모드에 있게 됩니다. 이 모드에서는 텍스트를 개인화하거나, 링크를 추가하거나, 콘텐츠에 자산을 추가할 수만 있습니다.
 
 1. 이메일 Designer 콘텐츠 구성 요소를 활용하려면 **HTML 변환기** 탭을 클릭하고 **변환**&#x200B;을 클릭합니다.
 
@@ -90,7 +90,7 @@ _템플릿 디자인_ 페이지에서 몇 가지 옵션 중에서 선택할 수 
 
 선택할 수 있는 템플릿에는 두 가지 유형이 있습니다.
 
-* **샘플 템플릿**: Marketo Engage은 4개의 기본 전자 메일 템플릿을 제공합니다.
+* **샘플 템플릿**: Marketo Engage에서는 4개의 기본 전자 메일 템플릿을 제공합니다.
 
 * **저장된 서식 파일**: 서식 파일 메뉴를 사용하여 처음부터 만든 서식 파일 또는 서식 파일로 저장하기 위해 만든 전자 메일입니다.
 
@@ -160,7 +160,7 @@ _템플릿 디자인_ 페이지에서 몇 가지 옵션 중에서 선택할 수 
 >
 >조각이 이메일 내의 전체 수평 레이아웃을 차지하도록 하려면 1:1 열 구조를 추가한 다음 조각을 끌어서 놓습니다.
 
-전자 메일이 저장되면 조각 세부 정보 페이지의 _[!UICONTROL 사용한 사람]_ 탭에 나타납니다. 이메일 템플릿에 추가된 조각은 템플릿 내에서 편집할 수 없습니다. 소스 조각은 콘텐츠를 정의합니다.
+전자 메일이 저장되면 조각 세부 정보 페이지의 _[!UICONTROL Used By]_탭에 나타납니다. 이메일 템플릿에 추가된 조각은 템플릿 내에서 편집할 수 없습니다. 소스 조각은 콘텐츠를 정의합니다.
 
 ### 에셋 추가 {#add-assets}
 
@@ -192,24 +192,24 @@ Marketo Engage 인스턴스의 [이미지 및 파일](/help/marketo/product-docs
 
 1. 캔버스에서 구조 구성 요소의 열을 직접 선택하거나 왼쪽에 표시된 _탐색 트리_&#x200B;를 사용합니다.
 
-1. 열 도구 모음에서 _[!UICONTROL 열 선택]_ 도구를 클릭하고 편집할 열을 선택합니다.
+1. 열 도구 모음에서 _[!UICONTROL Select a column]_도구를 클릭하고 편집할 도구를 선택합니다.
 
-   구조 트리에서 선택할 수도 있습니다. 해당 열에 대한 편집 가능한 매개 변수는 오른쪽의 _[!UICONTROL 설정]_ 및 _[!UICONTROL 스타일]_ 탭에 표시됩니다.
+   구조 트리에서 선택할 수도 있습니다. 해당 열에 대해 편집 가능한 매개 변수가 오른쪽의 _[!UICONTROL Settings]_및_[!UICONTROL Styles]_ 탭에 표시됩니다.
 
    ![](assets/layers-settings-styles-2.png)
 
-1. 열 속성을 편집하려면 오른쪽의 _[!UICONTROL 스타일]_ 탭을 클릭하고 필요에 따라 변경합니다.
+1. 열 속성을 편집하려면 오른쪽의 _[!UICONTROL Styles]_탭을 클릭하고 필요에 따라 변경합니다.
 
    * **[!UICONTROL Background]**&#x200B;의 경우 필요에 따라 배경색을 변경합니다.
 
-     투명 배경에 대한 확인란 선택을 취소합니다. 단색 대신 이미지를 배경으로 사용하려면 **[!UICONTROL 배경 이미지]** 설정을 사용하도록 설정하십시오.
+     투명 배경에 대한 확인란 선택을 취소합니다. 단색 대신 이미지를 배경으로 사용하려면 **[!UICONTROL Background image]** 설정을 활성화하십시오.
 
-   * **[!UICONTROL 정렬]**&#x200B;에 대해 _위쪽_, _중간_ 또는 _아래쪽_ 아이콘을 선택합니다.
-   * **[!UICONTROL 패딩]**&#x200B;에 대해 모든 면에 대한 패딩을 정의합니다.
+   * **[!UICONTROL Alignment]**&#x200B;의 경우 _위쪽_, _중간_ 또는 _아래쪽_ 아이콘을 선택하십시오.
+   * **[!UICONTROL Padding]**&#x200B;의 경우 모든 면에 대한 패딩을 정의합니다.
 
-     패딩을 조정하려면 **[!UICONTROL 각 면에 대해 다른 패딩]**&#x200B;을 선택하세요. 동기화를 중단하려면 _잠금_ 아이콘을 클릭하십시오.
+     패딩을 조정하려면 **[!UICONTROL Different padding for each side]**&#x200B;을(를) 선택하세요. 동기화를 중단하려면 _잠금_ 아이콘을 클릭하십시오.
 
-   * **[!UICONTROL 고급]** 섹션을 확장하여 열의 인라인 스타일을 정의합니다.
+   * **[!UICONTROL Advanced]** 섹션을 확장하여 열의 인라인 스타일을 정의합니다.
 
    ![](assets/layers-settings-styles-3.png)
 
@@ -299,13 +299,13 @@ Marketo Engage 인스턴스의 [이미지 및 파일](/help/marketo/product-docs
 
 * **디자인 변경**: _템플릿 디자인_ 페이지로 돌아갑니다. 여기에서 [템플릿 디자인](#design-your-template) 섹션에 설명된 대로 모든 조치를 취할 수 있습니다.
 
-* **HTML 내보내기**: zip 파일로 패키지된 HTML 형식의 시각적 캔버스에 있는 콘텐츠를 로컬 시스템으로 다운로드합니다.
+* **HTML 내보내기**: zip 파일로 패키지된 HTML 형식의 로컬 시스템에 시각적 캔버스의 콘텐츠를 다운로드합니다.
 
 ## 템플릿 세부 정보 보기 {#view-template-details}
 
 _전자 메일 서식 파일_ 목록 페이지에서 전자 메일 서식 파일의 이름을 클릭하여 세부 정보를 확인합니다.
 
-(assets/view-template-details-1.png
+![](assets/view-template-details-1.png)
 
 이름 및 설명과 같은 기본 세부 정보를 편집할 수 있습니다. 변경 사항을 저장하기 위해 편집한 필드 외부를 클릭합니다.
 
@@ -319,7 +319,7 @@ _전자 메일 서식 파일_ 목록 페이지에서 전자 메일 서식 파일
 
 ## 참조에서 사용하는 이메일 템플릿 보기 {#email-template-used-by-references}
 
-전자 메일 템플릿 요약에서 **사용한 사람** 탭을 클릭하여 Marketo Engage 내에서 이 전자 메일 템플릿이 사용된 위치에 대한 세부 정보를 확인합니다.
+이메일 템플릿 요약에서 **사용한 사람** 탭을 클릭하여 Marketo Engage 내에서 이 이메일 템플릿이 사용된 위치에 대한 세부 정보를 확인합니다.
 
 ![](assets/email-template-used-by-references-1.png)
 
