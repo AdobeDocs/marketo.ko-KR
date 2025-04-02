@@ -5,9 +5,9 @@ feature: Interactive Webinars
 hide: true
 hidefromtoc: true
 exl-id: 3e0a41b0-7ff3-4676-bafc-4e7a0725a737
-source-git-commit: 232b7a513be6ad9d4c3a524d2f78cd02df5abe6f
+source-git-commit: 374226d3b12cdffe1d0f2e04a1cb00d2f3135d22
 workflow-type: tm+mt
-source-wordcount: '518'
+source-wordcount: '542'
 ht-degree: 0%
 
 ---
@@ -15,10 +15,6 @@ ht-degree: 0%
 # GenAI의 특징 {#gen-ai-features}
 
 기록된 웨비나에 대한 챕터 및 요약을 자동으로 생성하므로 대상자가 쉽게 액세스하고 탐색할 수 있습니다.
-
->[!PREREQUISITES]
->
->이러한 기능을 사용하기 전에 먼저 Adobe GenAI 약관에 동의해야 합니다. 아직 계정이 없는 경우 Adobe 계정 팀(계정 관리자)에 연락하여 자세한 내용을 확인하십시오.
 
 * **자동 챕터 생성**: AI 기반 기술은 웨비나 콘텐츠의 챕터를 만듭니다.
 
@@ -28,15 +24,25 @@ ht-degree: 0%
 
 * **간편한 통합**: 원하는 웹 페이지 편집기에 HTML 코드를 복사하여 랜딩 페이지에 챕터와 요약을 쉽게 추가할 수 있습니다.
 
+## GenAI 활성화 {#enable-genai}
+
+>[!PREREQUISITES]
+>
+>이러한 기능을 사용하기 전에 먼저 Adobe GenAI 약관에 동의해야 합니다. 아직 계정이 없는 경우 Adobe 계정 팀(계정 관리자)에 연락하여 자세한 내용을 확인하십시오.
+
+Adobe GenAI 약관에 동의한 후 다음 단계는 개별 사용자에 대해 활성화하는 것입니다. **[!UICONTROL Admin]** > **[!UICONTROL Interactive Webinars]**(으)로 이동하여 GenAI에 액세스해야 하는 사용자를 선택하면 됩니다.
+
+![](assets/gen-ai-features-1.png){width="600" zoomable="yes"}
+
 ## 액세스 방법 {#how-to-access}
 
 1. Marketo Engage 대화형 웨비나의 웨비나 개요 페이지로 이동합니다.
 
 1. 온디맨드 웨비나를 진행한 후 AI가 녹화를 처리할 때까지 30~60분 정도 기다립니다. 사용 가능한 경우 생성 버튼을 클릭할 수 있습니다.
 
-1. **생성**&#x200B;을 클릭합니다.
+1. **[!UICONTROL Generate]**&#x200B;을(를) 클릭합니다.
 
-   ![](assets/gen-ai-features-1.png){width="800" zoomable="yes"}
+   ![](assets/gen-ai-features-2.png){width="800" zoomable="yes"}
 
 1. AI가 생성한 챕터와 텍스트 요약을 표시하는 새 탭이 열립니다.
 
@@ -44,7 +50,7 @@ ht-degree: 0%
 
 1. 생성된 챕터 및 요약을 검토합니다.
 
-1. 변경이 필요한 경우 **편집** 단추를 클릭하십시오.
+1. 변경이 필요한 경우 **[!UICONTROL Edit]** 단추를 클릭합니다.
 
    수정 중:
 
@@ -52,23 +58,23 @@ ht-degree: 0%
 
    * 필요한 경우 타임스탬프 필드의 값을 편집하여 타임스탬프를 조정합니다.
 
-   * 원하지 않는 챕터를 선택하고 **삭제**&#x200B;를 클릭하여 삭제합니다.
+   * 원하지 않는 챕터를 선택하고 **[!UICONTROL Delete]**&#x200B;을(를) 클릭하여 삭제합니다.
 
-   * 두 개의 연속 챕터를 선택하고 **병합**&#x200B;을 클릭하여 병합합니다.
+   * 두 개의 연속 챕터를 선택하고 **[!UICONTROL Merge]**&#x200B;을(를) 클릭하여 병합합니다.
 
       * AI는 선택한 두 개의 챕터로 구성된 복합 챕터를 생성합니다
 
       * 여러 챕터를 병합하려면 한 번에 두 개의 작업을 수행해야 합니다
 
-     ![](assets/gen-ai-features-2.png){width="800" zoomable="yes"}
+     ![](assets/gen-ai-features-3.png){width="800" zoomable="yes"}
 
    >[!NOTE]
    >
    >* 원하는 경우 _엄지손가락 위로_ ![엄지손가락 위로](assets/icon-thumbs-up.png) 또는 _엄지손가락 아래로_ ![엄지손가락 아래로](assets/icon-thumbs-down.png) 아이콘을 사용하여 생성된 챕터/요약의 품질을 평가할 수 있습니다. 플래그 아이콘 ![플래그 아이콘](assets/icon-flag.png)을 클릭하여 문제가 있는 콘텐츠에 플래그를 지정할 수도 있습니다.
    >
-   >* 초기 요약에 만족하지 않는 경우 **요약 재생성** 단추를 클릭하면 다른 버전이 생성됩니다.
+   >* 초기 요약에 만족하지 않는 경우 **[!UICONTROL Regenerate summary]** 단추를 클릭하면 다른 버전이 생성됩니다.
 
-1. 화면 오른쪽 상단의 **저장** 단추를 클릭하여 변경 내용을 저장합니다.
+1. 화면 오른쪽 상단의 **[!UICONTROL Save]** 단추를 클릭하여 변경 내용을 저장합니다.
 
 ## 생성된 콘텐츠 사용 {#use-generated-content}
 
@@ -76,13 +82,13 @@ ht-degree: 0%
 
 ### 요약 {#summary}
 
-**HTML 복사** - **HTML 복사** 단추를 클릭하여 모든 텍스트를 가져오고, 표 내에서 HTML 코드 서식을 지정하여 완료합니다.
+**HTML 복사** - **[!UICONTROL Copy HTML]** 단추를 클릭하여 모든 텍스트를 가져오고, 테이블 내에서 HTML 코드 서식을 지정하여 완료합니다.
 
 **텍스트만** - 텍스트만 복사하려면 텍스트를 강조 표시하고 Ctrl/Cmd+C(또는 마우스 오른쪽 단추 클릭)를 선택하여 복사하십시오.
 
 ### 챕터 {#chapters}
 
-**HTML 복사** - **HTML 복사** 단추를 클릭하여 비디오 플레이어에서 서식이 지정된 모든 녹음/녹화 및 해당 챕터를 가져옵니다.
+**HTML 복사** - **[!UICONTROL Copy HTML]** 단추를 클릭하여 비디오 플레이어에서 서식이 지정된 모든 녹음/녹화 및 해당 챕터를 가져옵니다.
 
 ## 유의할 사항 {#things-to-note}
 
