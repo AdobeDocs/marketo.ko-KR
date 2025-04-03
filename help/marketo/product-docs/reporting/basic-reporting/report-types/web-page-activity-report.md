@@ -4,10 +4,10 @@ description: 웹 페이지 활동 보고서 - Marketo 문서 - 제품 설명서
 title: 웹 페이지 활동 보고서
 exl-id: 35bd37bd-e7b9-4418-b2c9-af5989f44b9f
 feature: Reporting
-source-git-commit: 9b2d2ffd93f2c8b209e4ea25bbe7ef41c9f0e5fc
+source-git-commit: f0ad739b85174976f2adbe30cf4d755c1da93f05
 workflow-type: tm+mt
-source-wordcount: '332'
-ht-degree: 0%
+source-wordcount: '322'
+ht-degree: 1%
 
 ---
 
@@ -28,7 +28,7 @@ ht-degree: 0%
 
 1. 잡았다! 보고서를 검토하여 누가 사이트를 방문하는지 확인하십시오.
 
-   ![](assets/image2017-3-29-9-3a21-3a36.png)
+   ![](assets/web-page-activity-report-1.png){width="800" zoomable="yes"}
 
    >[!NOTE]
    >
@@ -51,15 +51,15 @@ ht-degree: 0%
  <tbody> 
   <tr> 
    <td>개인</td> 
-   <td>방문자 이름, 제목 및 회사입니다.개인 세부 정보 및 활동 기록을 보려면 <br><strong>클릭</strong>하세요.</td> 
+   <td>방문자 이름, 제목 및 회사입니다.방문한 페이지를 보려면 <br><strong><a href="/help/marketo/product-docs/reporting/basic-reporting/report-types/web-page-activity-report/web-pages-viewed-web-page-activity-report.md" target="_blank">클릭</a></strong>하세요.</td>
   </tr> 
   <tr> 
    <td>첫 번째/마지막 방문(시간대)</td> 
    <td>이 회사의 누군가가 처음/마지막으로 방문한 날짜 및 시간입니다.</td> 
   </tr> 
   <tr> 
-   <td>페이지 보기 수</td> 
-   <td>이 방문자가 로드한 페이지 수입니다.방문한 페이지를 보려면 <br><strong><a href="/help/marketo/product-docs/reporting/basic-reporting/report-types/web-page-activity-report/web-pages-viewed-web-page-activity-report.md" target="_blank">클릭</a></strong>하세요.</td> 
+   <td>페이지 보기 횟수</td> 
+   <td>이 방문자가 로드한 페이지 수입니다.</td>
   </tr> 
   <tr> 
    <td>HTTP 참조</td> 
