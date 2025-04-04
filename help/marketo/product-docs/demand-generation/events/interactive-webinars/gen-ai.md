@@ -5,7 +5,7 @@ feature: Interactive Webinars
 hide: true
 hidefromtoc: true
 exl-id: 3e0a41b0-7ff3-4676-bafc-4e7a0725a737
-source-git-commit: 374226d3b12cdffe1d0f2e04a1cb00d2f3135d22
+source-git-commit: 9bb15816314b3803969334306a62302543a04ae1
 workflow-type: tm+mt
 source-wordcount: '542'
 ht-degree: 0%
@@ -32,7 +32,7 @@ ht-degree: 0%
 
 Adobe GenAI 약관에 동의한 후 다음 단계는 개별 사용자에 대해 활성화하는 것입니다. **[!UICONTROL Admin]** > **[!UICONTROL Interactive Webinars]**(으)로 이동하여 GenAI에 액세스해야 하는 사용자를 선택하면 됩니다.
 
-![](assets/gen-ai-features-1.png){width="600" zoomable="yes"}
+![](assets/gen-ai-features-1.png){width="800" zoomable="yes"}
 
 ## 액세스 방법 {#how-to-access}
 
