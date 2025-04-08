@@ -5,9 +5,9 @@ description: 새로운 Adobe Marketo Engage 이메일 Designer을 시작합니�
 title: 개요
 feature: Email Editor
 exl-id: d31ce148-1feb-411e-bd10-453a6c7878fb
-source-git-commit: cf4df30b575061bde18cf38e355604b970b7c51e
+source-git-commit: 0e73866a4187d7bff67ce199e8d01e55081bcbef
 workflow-type: tm+mt
-source-wordcount: '740'
+source-wordcount: '760'
 ht-degree: 0%
 
 ---
@@ -57,6 +57,8 @@ ht-degree: 0%
 * [AI Assistant 사용](/help/marketo/product-docs/email-marketing/email-designer/ai-assistant.md){target="_blank"}: Adobe의 생성 AI 기술을 활용하여 이메일에 유용한 텍스트 및/또는 이미지를 추가합니다.
 
 * [전자 메일 템플릿의 콘텐츠 잠금](/help/marketo/product-docs/email-marketing/email-designer/content-locking.md){target="_blank"}: 전자 메일 템플릿의 콘텐츠를 잠그고 의도하지 않은 편집 또는 삭제를 방지하는 방법에 대해 알아봅니다.
+
+* [기능 비교](/help/marketo/product-docs/email-marketing/email-designer/feature-comparison.md){target="_blank"}: 이전 전자 메일 편집기(전자 메일 편집기 2.0)와 새 전자 메일 Designer의 기능 가용성을 비교합니다.
 
 ## FAQ {#faq}
 

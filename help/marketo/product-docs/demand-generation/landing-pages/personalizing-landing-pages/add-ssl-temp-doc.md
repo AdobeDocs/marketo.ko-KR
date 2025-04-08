@@ -4,9 +4,9 @@ title: 랜딩 페이지에 SSL 추가
 hide: true
 hidefromtoc: true
 feature: Landing Pages
-source-git-commit: f41d0595db695fc485a209aa2f9646a76e57acdf
+source-git-commit: 0e73866a4187d7bff67ce199e8d01e55081bcbef
 workflow-type: tm+mt
-source-wordcount: '199'
+source-wordcount: '203'
 ht-degree: 0%
 
 ---
@@ -41,8 +41,8 @@ Marketo Engage에서 만든 랜딩 페이지에 브랜드 도메인의 별칭(�
 
 스크린샷
 
-참고:
-
-목록의 SSL 인증서 열에는 이 기능이 릴리스된 후 생성된 모든 도메인 별칭에 대한 SSL 인증서 상태가 표시됩니다. 지원을 통해 도메인에 대해 SSL을 활성화한 경우 해당 SSL 인증서는 계속 존재하지만 이 표에는 이 기능을 사용하여 추가된 도메인에 대한 SSL 인증서만 반영됩니다
-
-SSL이 준비 상태가 되는 데 최대 3분이 소요될 수 있으며, UI에 전파될 변경 사항에 대해 페이지를 새로 고쳐야 합니다.
+>[!NOTE]
+>
+>* 목록의 SSL 인증서 열에는 이 기능이 릴리스된 후 만들어진 모든 도메인 별칭에 대한 인증서 상태(DATE)가 표시됩니다. Marketo 지원을 통해 도메인에 대해 SSL을 활성화한 경우 인증서가 계속 존재하지만 테이블에는 표시되지 않습니다. 이 표에는 이 문서의 단계를 사용하여 추가된 도메인의 SSL 인증서만 반영됩니다.
+>
+>* SSL이 준비 상태가 되는 데 최대 3분이 걸릴 수 있습니다. 변경 사항을 표시하려면 페이지를 새로 고쳐야 합니다.
