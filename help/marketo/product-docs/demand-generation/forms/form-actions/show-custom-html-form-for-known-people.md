@@ -1,19 +1,19 @@
 ---
 unique-page-id: 2359644
-description: 알려진 사람에 대한 사용자 정의 HTML 양식 표시 - Marketo 문서 - 제품 설명서
-title: 알려진 사용자에 대한 사용자 정의 HTML 양식 표시
+description: 알려진 사용자를 위한 사용자 지정 HTML 양식 표시 - Marketo 문서 - 제품 설명서
+title: 알려진 사용자에 대한 사용자 지정 HTML 양식 표시
 exl-id: 668216ea-7c2b-4204-81a5-56547c3baf1d
 feature: Forms
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 55964499f5d49258539492f952513833af5692b5
 workflow-type: tm+mt
-source-wordcount: '246'
-ht-degree: 0%
+source-wordcount: '254'
+ht-degree: 1%
 
 ---
 
-# 알려진 사용자에 대한 사용자 정의 HTML 양식 표시 {#show-custom-html-form-for-known-people}
+# 알려진 사용자에 대한 사용자 지정 HTML 양식 표시 {#show-custom-html-form-for-known-people}
 
-방문자가 쿠키를 사용하는 경우(과거에 이메일 주소를 제공한 알려진 사람) 양식에 문제가 되는 이유는 무엇입니까? 다운로드 버튼을 주면 됩니다. 방법은 다음과 같습니다.
+과거에 방문자가 전체 이름과 이메일 주소를 제공했지만 전체 양식을 받지 못하게 하려는 경우, 일부 사용자 지정 HTML을 표시하는 방법(예: 다운로드 버튼만)을 배웁니다.
 
 1. **마케팅 활동**(으)로 이동합니다.
 
@@ -27,11 +27,11 @@ ht-degree: 0%
 
    ![](assets/image2014-9-15-12-3a24-3a36.png)
 
-1. **알려진 방문자, 표시**: **사용자 지정 HTML**(으)로 설정합니다.
+1. **알려진 방문자, 표시**:인 경우 **사용자 지정 HTML**(으)로 설정합니다.
 
    ![](assets/image2014-9-15-12-3a24-3a59.png)
 
-1. 알려진 사람들에게 표시될 **사용자 지정 HTML**&#x200B;을(를) 편집하려면 ![—](assets/image2014-9-25-14-3a1-3a26.png)을(를) 클릭하십시오.
+1. 알려진 사람들에게 표시될 **사용자 지정 HTML**&#x200B;을 편집하려면 ![—](assets/image2014-9-25-14-3a1-3a26.png)을(를) 클릭하십시오.
 
    ![](assets/image2014-9-15-12-3a25-3a38.png)
 
@@ -52,7 +52,7 @@ ht-degree: 0%
    >
    >위의 네 가지 토큰만 사용할 수 있습니다. 다른 토큰은 여기에서 사용할 수 없습니다.
 
-1. **마침**&#x200B;을 클릭합니다.
+1. **마침을 클릭합니다**.
 
    ![](assets/image2014-9-15-12-3a27-3a25.png)
 
@@ -66,7 +66,7 @@ ht-degree: 0%
 
    >[!NOTE]
    >
-   >양식을 변경하여 만든 랜딩 페이지 초안 [승인](/help/marketo/product-docs/demand-generation/landing-pages/understanding-landing-pages/approve-unapprove-or-delete-a-landing-page.md)해야 합니다.
+   >양식을 변경하여 만든 [랜딩 페이지 초안을 승인](/help/marketo/product-docs/demand-generation/landing-pages/understanding-landing-pages/approve-unapprove-or-delete-a-landing-page.md)해야 합니다.
 
    케이크 한 조각! 동일한 양식으로 돌아왔다면 어떤 결과가 표시될지 확인하십시오.
 
