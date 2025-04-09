@@ -4,16 +4,21 @@ title: 랜딩 페이지에 SSL 추가
 hide: true
 hidefromtoc: true
 feature: Landing Pages
-source-git-commit: 0e73866a4187d7bff67ce199e8d01e55081bcbef
+exl-id: 00ec2d91-3d4f-4671-af9d-9750c1642d40
+source-git-commit: 1112af01c08835876f4a2385f304a33e2ddd48ff
 workflow-type: tm+mt
-source-wordcount: '203'
+source-wordcount: '313'
 ht-degree: 0%
 
 ---
 
 # 랜딩 페이지에 SSL 추가 {#add-ssl-to-your-landing-pages}
 
-Marketo Engage에서 만든 랜딩 페이지에 브랜드 도메인의 별칭(예: `http://business.adobe.com`)을 추가하여 해당 브랜드 도메인에서 액세스할 수 있도록 하는 방법에 대해 알아봅니다.
+SSL(Secure Socket Layer) 암호화 를 사용하면 Marketo Engage 인스턴스의 모든 랜딩 페이지를 보호할 수 있습니다.
+
+웹 양식을 작성하거나 Marketo Engage에서 호스팅하는 랜딩 페이지를 방문할 때는 기본적으로 정보가 비보안 프로토콜(HTTP)을 통해 전송됩니다. 회사의 정책에 따라 HTTPS를 통해 Marketo에 제출된 정보의 보안을 설정할 수 있습니다. 예를 들어 `http://info.mydomain.com/`을(를) 방문하면 이제 `https://info.mydomain.com/`이(가) 됩니다.
+
+Marketo Engage은 기본적으로 비보안 HTTP 프로토콜에 대해 &quot;방문한 웹 페이지&quot;와 &quot;웹 페이지에서 링크 클릭&quot;을 추적합니다. 추적 링크를 자체 인증서로 보호하려면 Marketo에서 별도의 비공유 서버를 빌드하여 활성화해야 합니다. 일반적으로 연락처와 사용자 간의 상호 작용의 모든 측면을 보호하려면 랜딩 페이지와 추적 링크를 모두 보호해야 합니다.
 
 스크린샷
 
@@ -37,7 +42,7 @@ Marketo Engage에서 만든 랜딩 페이지에 브랜드 도메인의 별칭(�
 
 스크린샷
 
-## 기본 도메인에 SSL 활성화
+## 기본 도메인에 SSL 활성화 {#enable-ssl-default-domain}
 
 스크린샷
 
