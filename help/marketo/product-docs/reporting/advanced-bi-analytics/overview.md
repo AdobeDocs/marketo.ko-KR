@@ -1,13 +1,11 @@
 ---
 description: 고급 BI Analytics 개요 - Marketo 문서 - 제품 설명서
 title: 고급 BI Analytics 개요
-hide: true
-hidefromtoc: true
 feature: Reporting
 exl-id: 120663ef-abcd-4cfe-aac1-64b57ff47258
-source-git-commit: c123899d8f2ef47cee542d244a6655c6d86e181e
+source-git-commit: 93d1d33e4f4874612269e1b89151a78181193c62
 workflow-type: tm+mt
-source-wordcount: '969'
+source-wordcount: '989'
 ht-degree: 0%
 
 ---
@@ -21,6 +19,10 @@ ht-degree: 0%
 >[!PREREQUISITES]
 >
 >이 기능에 액세스하려면 고급 BI Analytics 추가 기능을 구입해야 합니다. 자세한 내용은 Adobe 계정 팀(계정 관리자)에 문의하십시오.
+
+>[!NOTE]
+>
+>베타 버전(2025년 6월 1일까지)에 이 기능에 대한 질문이 있는 경우 `adobe-marketo-advanced-bi-analytics-public-beta@adobe.com`(으)로 전자 메일을 보내십시오.
 
 ## 주요 기능 및 이점 {#key-features-and-benefits}
 
@@ -36,29 +38,29 @@ ht-degree: 0%
 
 ## 보고서 만들기 {#create-a-report}
 
-1. My Marketo에서 **고급 BI Analytics(Beta)** 타일을 클릭합니다.
+1. 내 Marketo에서 **[!UICONTROL Advanced BI Analytics (Beta)]** 타일을 클릭합니다.
 
-   스크린샷
+   ![](assets/advanced-bi-analytics-overview-1.png){width="800" zoomable="yes"}
 
-1. **보고서** 탭에서 **보고서 만들기**&#x200B;를 클릭합니다.
+1. **[!UICONTROL Reports]** 탭에서 **[!UICONTROL Create Report]**&#x200B;을(를) 클릭합니다.
 
-   스크린샷
+   ![](assets/advanced-bi-analytics-overview-2.png){width="800" zoomable="yes"}
 
 1. 원하는 측정값을 선택합니다.
 
-   스크린샷
+   ![](assets/advanced-bi-analytics-overview-3.png){width="800" zoomable="yes"}
 
 1. 원하는 차원을 선택합니다.
 
-   스크린샷
+   ![](assets/advanced-bi-analytics-overview-4.png){width="800" zoomable="yes"}
 
 1. 원하는 시각화를 선택합니다.
 
-   스크린샷
+   ![](assets/advanced-bi-analytics-overview-5.png){width="800" zoomable="yes"}
 
 1. 차원 속성을 드래그 앤 드롭하여 필터를 추가합니다.
 
-   스크린샷
+   ![](assets/advanced-bi-analytics-overview-6.png){width="800" zoomable="yes"}
 
 ## 비디오 데모 {#video}
 
@@ -184,7 +186,7 @@ _공개 베타 중:_
 
   >[!IMPORTANT]
   >
-  >사용자 정의 보고서의 복제는 집단에서 수행됩니다. 사용자 정의 보고서가 새 경험에 복제되면 두 경험 간에 일관성을 유지하기 위해 클래식 경험에서 변경한 사항은 새 경험의 해당 보고서에도 수동으로 적용해야 합니다. 위에 대한 정보 메모는 고객 보고서를 복제할 때 클래식 환경에서 사용할 수 있습니다.
+  >사용자 지정 보고서의 복제는 그룹에서 수행됩니다. 사용자 정의 보고서가 새 경험에 복제되면 두 경험 간에 일관성을 유지하기 위해 클래식 경험에서 변경한 사항은 새 경험의 해당 보고서에도 수동으로 적용해야 합니다. 위에 대한 정보 메모는 고객 보고서를 복제할 때 클래식 환경에서 사용할 수 있습니다.
 
    * 클래식 경험의 대시보드는 양도할 수 없으며 새 경험에서 레크리에이션이 필요합니다. 이 매개 변수는 새 경험에서 보고서로 다시 만들어야 하며 클래식 경험에서 개별적으로 가능한 모든 값을 수동으로 입력할 필요 없이 새 경험의 필터가 자동으로 가능한 값을 가져옵니다.
 
@@ -200,7 +202,7 @@ _공개 베타 중:_
 
 새로운 시각화 경험은 임베드된 Power BI 서비스를 통해 제공됩니다.
 
-시각화 경험에 대한 빠른 튜토리얼을 보려면 Microsoft의 [Power BI에서 시각적 개체 사용](https://learn.microsoft.com/en-us/training/modules/visuals-in-power-bi/){target="_blank"} 설명서를 참조하십시오.
+시각화 경험에 대한 빠른 튜토리얼을 보려면 Microsoft의 [Power BI에서 시각적 개체 사용](https://learn.microsoft.com/en-us/training/modules/visuals-in-power-bi/){target="_blank"} 설명서를 참조하십시오. Marketo Engage에 이러한 모든 기능이 표시되지 않을 수 있습니다.
 
 ### 주요 경험 변경 사항 {#notable-experience-changes}
 
@@ -226,5 +228,4 @@ _공개 베타 중:_
 
 >[!MORELIKETHIS]
 >
->[지표 및 차원](/help/marketo/product-docs/reporting/advanced-bi-analytics/metrics-and-dimensions.md)
-
+>[지표 및 차원](/help/marketo/product-docs/reporting/advanced-bi-analytics/metrics-and-dimensions.md){target="_blank"}
