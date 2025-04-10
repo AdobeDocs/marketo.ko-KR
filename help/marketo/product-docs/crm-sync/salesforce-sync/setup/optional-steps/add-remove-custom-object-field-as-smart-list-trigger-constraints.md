@@ -4,10 +4,10 @@ description: 사용자 지정 개체 필드를 스마트 목록/트리거 제한
 title: 사용자 지정 개체 필드를 스마트 목록/트리거 제한으로 추가/제거
 exl-id: 639e73eb-9a8c-4b10-8e97-892abf5c5db0
 feature: Salesforce Integration
-source-git-commit: 756a38ba87dd5af9ee783e9709056d444d4f415b
+source-git-commit: 6293a11b9d48a20da4cb2448c8374c469679abdb
 workflow-type: tm+mt
-source-wordcount: '192'
-ht-degree: 0%
+source-wordcount: '174'
+ht-degree: 1%
 
 ---
 
@@ -19,15 +19,15 @@ Marketo Engage은 Salesforce 사용자 지정 개체 동기화를 세밀하게 �
 >
 >**관리자 권한 필요**
 
-1. **[!UICONTROL 관리자]**&#x200B;를 클릭합니다.
+1. **[!UICONTROL Admin]** 영역에 연결했습니다.
 
-   ![](assets/image2014-12-10-13-3a9-3a47.png)
+   ![](assets/add-remove-custom-object-field-1.png)
 
-1. **[!UICONTROL 관리자]**&#x200B;를 클릭한 다음 **[!UICONTROL Salesforce 개체 동기화]**&#x200B;를 클릭합니다.
+1. **[!UICONTROL Salesforce Objects Sync]**&#x200B;을(를) 클릭합니다.
 
    ![](assets/image2015-12-11-15-3a11-3a41.png)
 
-1. **[!UICONTROL Salesforce 개체 동기화]**&#x200B;가 왼쪽 열에 나타납니다.
+1. **[!UICONTROL Salesforce Objects Sync]**&#x200B;이(가) 왼쪽 열에 나타납니다.
 
    ![](assets/image2015-12-11-15-3a15-3a15.png)
 
@@ -35,19 +35,19 @@ Marketo Engage은 Salesforce 사용자 지정 개체 동기화를 세밀하게 �
 
    ![](assets/image2014-12-10-13-3a10-3a11.png)
 
-1. **[!UICONTROL 보이는 필드 편집]**&#x200B;을 클릭합니다.
+1. **[!UICONTROL Edit Visible Fields]**&#x200B;을(를) 클릭합니다.
 
    >[!TIP]
    >
-   >**[!UICONTROL 표시되는 필드 편집]** 단추가 회색으로 표시되어 있는 경우 해당 개체는 현재 스마트 목록 또는 스마트 캠페인에서 사용 중입니다. 계속하려면 모든 연결을 제거하십시오.
+   >**[!UICONTROL Edit Visible Fields]** 단추가 회색으로 표시된 경우 해당 개체는 현재 스마트 목록 또는 스마트 캠페인에서 사용 중입니다. 계속하려면 모든 연결을 제거하십시오.
 
    ![](assets/image2014-12-10-13-3a10-3a25.png)
 
-1. 전역 동기화가 활성화된 경우 **[!UICONTROL 전역 동기화 비활성화]**&#x200B;를 클릭합니다.
+1. 전역 동기화가 활성화된 경우 **[!UICONTROL Disable Global Sync]**&#x200B;을(를) 클릭합니다.
 
    ![](assets/image2014-12-10-13-3a10-3a36.png)
 
-1. 필요한 필터/트리거 제약 조건 옆의 확인란을 선택하고 **[!UICONTROL 저장]**&#x200B;을 클릭합니다.
+1. 필요한 필터/트리거 제약 조건 옆의 확인란을 선택하고 **[!UICONTROL Save]**&#x200B;을(를) 클릭합니다.
 
    ![](assets/image2014-12-10-13-3a10-3a47.png)
 
@@ -55,7 +55,7 @@ Marketo Engage은 Salesforce 사용자 지정 개체 동기화를 세밀하게 �
    >
    >모든 필드는 기본적으로 필터에 대한 제약 조건으로 선택됩니다.
 
-1. **[!UICONTROL 필드]** 탭을 클릭하여 변경 내용을 확인합니다.
+1. **[!UICONTROL Fields]** 탭을 클릭하여 변경 내용을 확인합니다.
 
    ![](assets/image2014-12-10-13-3a10-3a56.png)
 

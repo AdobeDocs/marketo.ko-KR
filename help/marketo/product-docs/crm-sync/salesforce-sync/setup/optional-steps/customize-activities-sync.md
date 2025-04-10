@@ -4,26 +4,30 @@ description: 활동 동기화 사용자 지정 - Marketo 문서 - 제품 설명�
 title: 활동 동기화 사용자 지정
 exl-id: 938d83dc-b9b1-41d8-bf98-04548b074ec4
 feature: Salesforce Integration
-source-git-commit: 756a38ba87dd5af9ee783e9709056d444d4f415b
+source-git-commit: 6293a11b9d48a20da4cb2448c8374c469679abdb
 workflow-type: tm+mt
-source-wordcount: '272'
-ht-degree: 0%
+source-wordcount: '289'
+ht-degree: 2%
 
 ---
 
 # 활동 동기화 사용자 지정 {#customize-activities-sync}
 
-Marketo Sales Insight를 사용하지 않는 경우에는 Marketo Engage이 특정 이벤트에 대한 Salesforce 활동 기록 레코드를 만들 수 있습니다. 활성화 방법은 다음과 같습니다.
+Marketo Sales Insight을 사용하지 않는 경우 Marketo Engage에서 특정 이벤트에 대한 Salesforce 활동 기록 레코드를 만들 수 있습니다. 활성화 방법은 다음과 같습니다.
 
-1. **[!UICONTROL 관리자]**(으)로 이동합니다.
+>[!NOTE]
+>
+>Salesforce/Marketo Engage 동기화는 사용자가 Salesforce에 푸시되기 전에 발생한 활동을 Salesforce에 푸시하지 않습니다.
 
-   ![](assets/admin.png)
+1. **[!UICONTROL Admin]**(으)로 이동합니다.
 
-1. **[!DNL Salesforce]**&#x200B;을(를) 클릭한 다음 **[!UICONTROL 동기화 옵션 편집]**&#x200B;을 클릭합니다.
+   ![](assets/customize-activities-sync-1.png)
+
+1. **[!DNL Salesforce]**&#x200B;를 클릭한 다음 **[!UICONTROL Edit Sync Options]**&#x200B;을 클릭합니다.
 
    ![](assets/two-1.png)
 
-1. Marketo에서 Salesforce로 푸시할 활동 옆의 확인란을 선택하고 **[!UICONTROL 저장]**&#x200B;을 클릭합니다.
+1. Marketo에서 Salesforce으로 푸시할 활동 옆의 확인란을 선택하고 **[!UICONTROL Save]**&#x200B;을(를) 클릭합니다.
 
    ![](assets/three-1.png)
 
@@ -77,15 +81,15 @@ Marketo Sales Insight를 사용하지 않는 경우에는 Marketo Engage이 특�
   </tr> 
   <tr> 
    <td>영업 이메일 전송됨</td> 
-   <td>Marketo Sales Insight를 통해 이메일을 보냈습니다.</td> 
+   <td>Marketo Sales Insight을 통해 이메일을 보냈습니다.</td> 
   </tr> 
   <tr> 
    <td>영업 이메일 열림</td> 
-   <td>Marketo Sales Insight를 통해 전송된 이메일을 열었습니다.</td> 
+   <td>Marketo Sales Insight을 통해 전송된 이메일 열기</td> 
   </tr> 
   <tr> 
    <td>영업 이메일에서 링크 클릭</td> 
-   <td>Marketo Sales Insight를 통해 전송된 이메일에서 링크를 클릭함</td> 
+   <td>Marketo Sales Insight을 통해 전송된 이메일에서 링크를 클릭함</td> 
   </tr> 
   <tr> 
    <td>영업 이메일 수신됨</td> 
@@ -96,8 +100,8 @@ Marketo Sales Insight를 사용하지 않는 경우에는 Marketo Engage이 특�
 
 >[!NOTE]
 >
->&quot;받은 판매 전자 메일&quot;은 배달된 것을 의미하지 _않습니다_. Sales Insight를 통해 전송된 이메일에는 게재됨 상태가 캡처되지 않습니다.
+>&quot;받은 판매 전자 메일&quot;은 배달된 것을 의미하지 _않습니다_. Sales Insight을 통해 전송된 이메일에 대해 게재됨 상태가 캡처되지 않습니다.
 
 >[!TIP]
 >
->Salesforce에 더 많은 Marketo 정보를 가져오려면 [Marketo Sales Insight](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/installation/install-marketo-sales-insight-package-in-salesforce-appexchange.md){target="_blank"} 제품을 확인하십시오.
+>MarketoSalesforce 에 대한 자세한 정보를 보려면 [Marketo Sales Insight](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/installation/install-marketo-sales-insight-package-in-salesforce-appexchange.md){target="_blank"} 제품을 확인하십시오.

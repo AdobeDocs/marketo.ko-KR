@@ -4,9 +4,9 @@ description: 사용자 지정 개체 동기화 활성화/비활성화 - Marketo 
 title: 사용자 지정 개체 동기화 활성화/비활성화
 exl-id: f17d9135-b33e-48c0-9220-131fb437e9e5
 feature: Salesforce Integration
-source-git-commit: 756a38ba87dd5af9ee783e9709056d444d4f415b
+source-git-commit: 6293a11b9d48a20da4cb2448c8374c469679abdb
 workflow-type: tm+mt
-source-wordcount: '218'
+source-wordcount: '199'
 ht-degree: 0%
 
 ---
@@ -21,43 +21,43 @@ Salesforce 인스턴스에서 만든 사용자 지정 개체도 Marketo Engage�
 >
 >**관리자 권한 필요**
 
-1. **[!UICONTROL 관리자]**&#x200B;를 클릭합니다.
+1. **[!UICONTROL Admin]** 영역으로 이동합니다.
 
-   ![](assets/one.png)
+   ![](assets/enable-disable-custom-object-sync-1.png)
 
-1. 데이터베이스 관리 메뉴에서 **[!UICONTROL Salesforce 개체 동기화]**&#x200B;를 클릭합니다.
+1. 데이터베이스 관리 메뉴에서 **[!UICONTROL Salesforce Objects Sync]**&#x200B;을(를) 클릭합니다.
 
-   ![](assets/two-2.png)
+   ![](assets/enable-disable-custom-object-sync-2.png)
 
-1. 첫 번째 사용자 지정 개체인 경우 **[!UICONTROL 스키마 동기화]**&#x200B;를 클릭하세요. 그렇지 않으면 **[!UICONTROL 스키마 새로 고침]**&#x200B;을 클릭하여 최신 항목을 확인합니다.
+1. 첫 번째 사용자 지정 개체인 경우 **[!UICONTROL Sync schema]**&#x200B;을(를) 클릭합니다. 그렇지 않으면 **[!UICONTROL Refresh Schema]**&#x200B;을(를) 클릭하여 최신 버전을 보유하고 있는지 확인하십시오.
 
-   ![](assets/image2014-12-10-10-3a14-3a44.png)
+   ![](assets/enable-disable-custom-object-sync-3.png)
 
-1. 전역 동기화가 실행 중인 경우 **[!UICONTROL 전역 동기화 비활성화]**&#x200B;를 클릭하여 비활성화해야 합니다.
+1. 전역 동기화가 실행 중인 경우 **[!UICONTROL Disable Global Sync]**&#x200B;을(를) 클릭하여 사용하지 않도록 설정해야 합니다.
 
    ![](assets/image2014-12-10-10-3a14-3a54.png)
 
    >[!NOTE]
    >
-   >Salesforce 사용자 지정 개체 스키마의 동기화에 몇 분 정도 걸릴 수 있습니다.
+   >Salesforce 사용자 지정 개체 스키마의 동기화는 몇 분 정도 걸릴 수 있습니다.
 
-1. **[!UICONTROL 스키마 새로 고침]**&#x200B;을 클릭합니다.
+1. **[!UICONTROL Refresh Schema]**&#x200B;을(를) 클릭합니다.
 
    ![](assets/image2014-12-10-10-3a15-3a7.png)
 
-1. 동기화할 개체를 선택하고 **[!UICONTROL 동기화 사용]**&#x200B;을 클릭합니다.
+1. 동기화할 개체를 선택하고 **[!UICONTROL Enable Sync]**&#x200B;을(를) 클릭합니다.
 
    >[!TIP]
    >
-   >Marketo은 Salesforce의 잠재 고객, 연락처 또는 계정 개체와 직접 관계가 있는 경우에만 사용자 지정 개체를 동기화할 수 있습니다.
+   >Marketo은 사용자 지정 개체가 Salesforce의 잠재 고객, 연락처 또는 계정 개체와 직접 관련이 있는 경우에만 동기화할 수 있습니다.
 
    ![](assets/image2014-12-10-10-3a15-3a30.png)
 
-1. **[!UICONTROL 동기화 활성화]**&#x200B;를 다시 클릭합니다.
+1. **[!UICONTROL Enable Sync]**&#x200B;을(를) 다시 클릭합니다.
 
    ![](assets/image2014-12-10-10-3a15-3a40.png)
 
-1. **[!DNL Salesforce]** 탭으로 돌아가서 **[!UICONTROL 동기화 활성화]**&#x200B;를 클릭합니다.
+1. **[!DNL Salesforce]** 탭으로 돌아가서 **[!UICONTROL Enable Sync]**&#x200B;을(를) 클릭합니다.
 
    ![](assets/image2014-12-10-10-3a15-3a49.png)
 
@@ -67,7 +67,7 @@ Salesforce 인스턴스에서 만든 사용자 지정 개체도 Marketo Engage�
 >
 >트리거가 있는 스마트 캠페인에서는 사용자 지정 개체를 사용할 수 없습니다.
 
-1. 스마트 목록에서 **[!UICONTROL 기회 있음]** 필터 위로 끌어서 **[!UICONTROL 참]**(으)로 설정합니다.
+1. 스마트 목록에서 **[!UICONTROL Has Opportunity]** 필터 위로 끌어서 **[!UICONTROL true]**(으)로 설정합니다.
 
    ![](assets/image2015-8-26-9-3a39-3a28.png)
 
