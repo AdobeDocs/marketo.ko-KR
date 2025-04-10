@@ -3,7 +3,7 @@ description: 지표 및 차원 - Marketo 문서 - 제품 설명서
 title: 지표 및 차원
 feature: Reporting
 exl-id: 5f348007-ed0d-4900-ba4b-ecc9b935c6d2
-source-git-commit: 978bbe4de06a0e269b60108e5a91edc5499dc9c1
+source-git-commit: 90242f8b08b0c4773ae73134d67f571f66730878
 workflow-type: tm+mt
 source-wordcount: '1040'
 ht-degree: 5%
@@ -16,7 +16,7 @@ ht-degree: 5%
 
 >[!TIP]
 >
->테이블이 너무 축소된 것 같으면 왼쪽(![](assets/icon-left-arrow.png)) 및 오른쪽(![](assets/icon-right-arrow.png)) 화살표를 이 페이지의 위쪽으로 클릭하여 보기를 확장하고 왼쪽 및 오른쪽 사이드바를 축소할 수 있습니다.
+>표가 너무 좁게 표시되는 경우, 이 페이지 위쪽으로 왼쪽(![](assets/icon-left-arrow.png)) 및 오른쪽(![](assets/icon-right-arrow.png)) 화살표를 클릭하여 보기를 확장하고 왼쪽 및 오른쪽 사이드바를 축소할 수 있습니다.
 
 ## 차원 및 측정값 {#dimensions-and-measures}
 
