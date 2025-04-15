@@ -3,10 +3,10 @@ description: 최신 릴리스 정보 - Marketo 설명서 - 제품 설명서
 title: 최신 릴리스 정보
 exl-id: a2eccad5-73ad-48f9-8091-51cee23824e1
 feature: Release Information
-source-git-commit: 978bbe4de06a0e269b60108e5a91edc5499dc9c1
+source-git-commit: 44ea3d408cf460b41f3fa92c639ca089a195a4bc
 workflow-type: tm+mt
-source-wordcount: '536'
-ht-degree: 3%
+source-wordcount: '474'
+ht-degree: 4%
 
 ---
 
@@ -56,17 +56,7 @@ Adobe Dynamic Chat [에 대한 릴리스 정보는 여기에서 찾을 수 있�
    <td><i>곧 출시 예정</i></td>
    <td><i>곧 출시 예정</i></td>
   </tr>
-  <tr> 
-   <td> </td> 
-   <td> </td>
-   <td> </td>
-  </tr>
-  <tr> 
-   <td><strong>모든 트리거 특성에 대한 토큰</strong>: <a href="https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/marketo-sales-insight/msi-for-salesforce/features/tabs-in-the-msi-panel/interesting-moments/trigger-tokens-for-interesting-moments" target="_blank">이 문서</a>의 목록에서 사용 가능한 트리거 토큰 목록을 확장하여 캠페인 흐름 필드에 있는 모든 트리거 활동 특성의 데이터를 사용하도록 지원합니다. 활동 속성의 데이터를 즐거운 순간에 인쇄하거나, 사용자 지정 활동의 잠재 고객 최신 거래 ID를 잠재 고객 필드로 설정합니다.</td> 
-   <td><i>곧 출시 예정</i></td>
-   <td><i>곧 출시 예정</i></td>
-  </tr>
- </tbody> 
+  </tbody> 
 </table>
 <br/>
 
