@@ -7,7 +7,7 @@ feature: Email Editor
 role: User
 level: Beginner, Intermediate
 exl-id: 37b42418-1733-447f-bab0-e1d461ef8110
-source-git-commit: d8e833e5997f1b9cfeef8ecf8b88ca81151041c2
+source-git-commit: f5d0e85ab6aa4227c15685de337afa12f7d8f761
 workflow-type: tm+mt
 source-wordcount: '916'
 ht-degree: 9%
@@ -149,6 +149,12 @@ ht-degree: 9%
     <td>사용 가능</td>
   </tr>
   <tr>
+    <td>이메일 보고</td>
+    <td>Marketo Engage Analytics에서 이메일을 볼 수 있습니다.</td>
+    <td>사용 가능</td>
+    <td>사용 가능</td>
+  </tr>
+  <tr>
     <td>캠페인 및 프로그램의 이메일 사용</td>
     <td>캠페인 및 프로그램에서 새 Designer 이메일을 사용하는 기능.</td>
     <td>사용 가능</td>
@@ -277,12 +283,6 @@ ht-degree: 9%
   <tr>
     <td>실험(A/B 테스트)</td>
     <td>대상자에게 이메일을 보내기 전에 테스트하는 기능.</td>
-    <td>사용 가능</td>
-    <td>TBD</td>
-  </tr>
-  <tr>
-    <td>이메일 보고</td>
-    <td>Marketo Engage Analytics에서 이메일을 볼 수 있습니다.</td>
     <td>사용 가능</td>
     <td>TBD</td>
   </tr>
