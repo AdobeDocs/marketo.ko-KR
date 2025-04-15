@@ -3,9 +3,9 @@ description: 최신 릴리스 정보 - Marketo 설명서 - 제품 설명서
 title: 최신 릴리스 정보
 exl-id: a2eccad5-73ad-48f9-8091-51cee23824e1
 feature: Release Information
-source-git-commit: 44ea3d408cf460b41f3fa92c639ca089a195a4bc
+source-git-commit: 618aeadcdc032b005514387eb0a0e5f61990ed5d
 workflow-type: tm+mt
-source-wordcount: '474'
+source-wordcount: '473'
 ht-degree: 4%
 
 ---
@@ -53,8 +53,8 @@ Adobe Dynamic Chat [에 대한 릴리스 정보는 여기에서 찾을 수 있�
   </tr>
   <tr> 
    <td><strong>글로벌 및 Workspace 내 토큰</strong>: 생산성을 높이고 Marketo Engage 작업 영역 및 전체 인스턴스에서 brand 및 마케팅 자료를 제어할 수 있도록 작업 영역과 글로벌 수준에서 내 토큰을 구성합니다.</td> 
-   <td><i>곧 출시 예정</i></td>
-   <td><i>곧 출시 예정</i></td>
+   <td>배송됨</td>
+   <td>해당 사항 없음</td>
   </tr>
   </tbody> 
 </table>
