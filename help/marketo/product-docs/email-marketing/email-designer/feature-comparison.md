@@ -7,7 +7,7 @@ feature: Email Editor
 role: User
 level: Beginner, Intermediate
 exl-id: 37b42418-1733-447f-bab0-e1d461ef8110
-source-git-commit: f41d0595db695fc485a209aa2f9646a76e57acdf
+source-git-commit: d8e833e5997f1b9cfeef8ecf8b88ca81151041c2
 workflow-type: tm+mt
 source-wordcount: '916'
 ht-degree: 9%
@@ -30,7 +30,7 @@ ht-degree: 9%
 <tbody>
   <tr>
     <td>OOTB 스타터 이메일 템플릿</td>
-    <td>이메일 Designer에서 제공하는 기본 제공 템플릿을 사용하는 기능.</td>
+    <td>이메일 Designer에서 제공하는 <a href="/help/marketo/product-docs/email-marketing/email-designer/email-template-authoring.md#choose-a-template" target="_blank">기본 제공 템플릿</a>을(를) 사용할 수 있습니다.</td>
     <td>사용 가능</td>
     <td>사용 가능</td>
   </tr>
@@ -72,7 +72,7 @@ ht-degree: 9%
   </tr>
   <tr>
     <td>이미지/파일 업로드</td>
-    <td>로컬 시스템에서 이미지를 업로드하는 기능.</td>
+    <td>로컬 시스템에서 <a href="/help/marketo/product-docs/email-marketing/email-designer/email-authoring.md#add-assets" target="_blank">이미지를 업로드</a>하는 기능.</td>
     <td>사용 가능</td>
     <td>사용 가능</td>
   </tr>
@@ -96,7 +96,7 @@ ht-degree: 9%
   </tr>
   <tr>
     <td>AI 어시스턴트</td>
-    <td><a href="/help/marketo/product-docs/email-marketing/email-designer/ai-assistant.md">생성 AI</a> 모델을 통해 제목 줄, 콘텐츠 일부 또는 전체 이메일을 생성하는 기능.</td>
+    <td><a href="/help/marketo/product-docs/email-marketing/email-designer/ai-assistant.md" target="_blank">생성 AI</a> 모델을 통해 제목 줄, 콘텐츠 일부 또는 전체 이메일을 생성하는 기능.</td>
     <td>사용할 수 없음</td>
     <td>사용 가능</td>
   </tr>
@@ -108,7 +108,7 @@ ht-degree: 9%
   </tr>
   <tr>
     <td>컨텐츠 잠금</td>
-    <td>전자 메일을 만들 때 수정할 수 없도록 전자 메일 템플릿에서 <a href="/help/marketo/product-docs/email-marketing/email-designer/content-locking.md">콘텐츠를 잠금</a>하는 기능입니다.</td>
+    <td>전자 메일을 만들 때 수정할 수 없도록 전자 메일 템플릿에서 <a href="/help/marketo/product-docs/email-marketing/email-designer/content-locking.md" target="_blank">콘텐츠를 잠금</a>하는 기능입니다.</td>
     <td>사용할 수 없음</td>
     <td>사용 가능</td>
   </tr>
@@ -138,7 +138,7 @@ ht-degree: 9%
   </tr>
   <tr>
     <td>콘텐츠를 조각으로 저장</td>
-    <td>콘텐츠 일부를 조각으로 저장하는 기능.</td>
+    <td><a href="/help/marketo/product-docs/email-marketing/email-designer/fragments.md#save-a-new-fragment-from-email-or-template-content" target="_blank">콘텐츠 일부를 조각</a>(으)로 저장하는 기능.</td>
     <td>사용할 수 없음</td>
     <td>사용 가능</td>
   </tr>
@@ -162,7 +162,7 @@ ht-degree: 9%
   </tr>
   <tr>
     <td>Adobe Express 통합</td>
-    <td><a href="/help/marketo/product-docs/email-marketing/email-designer/edit-images-adobe-express.md">Adobe Express</a>을(를) 사용하여 이미지를 만들거나 수정하는 기능.</td>
+    <td><a href="/help/marketo/product-docs/email-marketing/email-designer/edit-images-adobe-express.md" target="_blank">Adobe Express</a>을(를) 사용하여 이미지를 만들거나 수정하는 기능.</td>
     <td>사용할 수 없음</td>
     <td>사용 가능</td>
   </tr>
@@ -176,7 +176,7 @@ ht-degree: 9%
     <td>모듈</td>
     <td>이메일 전체에서 재사용할 특정 구조 및 콘텐츠 사전 설정을 미리 만드는 기능.</td>
     <td>사용 가능</td>
-    <td><a href="/help/marketo/product-docs/email-marketing/email-designer/customizable-fragments.md">사용자 지정 가능한 조각</a>(으)로 사용 가능</td>
+    <td><a href="/help/marketo/product-docs/email-marketing/email-designer/customizable-fragments.md" target="_blank">사용자 지정 가능한 조각</a>(으)로 사용 가능</td>
   </tr>
   <tr>
     <td>AEM Assets Cloud Service 통합</td>
