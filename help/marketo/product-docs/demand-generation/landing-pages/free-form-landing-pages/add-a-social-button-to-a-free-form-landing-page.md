@@ -4,7 +4,7 @@ description: 자유 형식 랜딩 페이지에 소셜 단추 추가 - Marketo �
 title: 자유 형식 랜딩 페이지에 소셜 단추 추가
 exl-id: 36e19771-e038-4c7d-ac8b-561c5480722f
 feature: Landing Pages
-source-git-commit: 2671f81f62658447e4b2a3dc2e02a4e0927443e8
+source-git-commit: 7a8f5146126d6e8a4902be9337eef4d51e108cf0
 workflow-type: tm+mt
 source-wordcount: '249'
 ht-degree: 0%
@@ -13,11 +13,11 @@ ht-degree: 0%
 
 # 자유 형식 랜딩 페이지에 소셜 단추 추가 {#add-a-social-button-to-a-free-form-landing-page}
 
-소셜 버튼은 사람들이 친구들과 콘텐츠를 공유하도록 장려합니다. 자유 형식 랜딩 페이지, Facebook 및 웹 사이트에 드롭합니다.
+소셜 버튼은 사람들이 친구들과 콘텐츠를 공유하도록 장려합니다. 자유 형식의 랜딩 페이지, Facebook 및 웹 사이트에 드롭하십시오.
 
 >[!AVAILABILITY]
 >
->일부 Marketo Engage 사용자가 이 기능을 구입한 것은 아닙니다. 자세한 내용은 Adobe 계정 팀(계정 관리자)에 문의하십시오.
+>모든 Marketo Engage 사용자가 이 기능을 구입한 것은 아닙니다. 자세한 내용은 Adobe 계정 팀(계정 관리자)에 문의하십시오.
 
 1. 자유 형식 랜딩 페이지로 이동하여 **초안 편집**&#x200B;을 클릭합니다.
 
@@ -31,7 +31,7 @@ ht-degree: 0%
 
    ![](assets/image2014-9-17-10-3a35-3a13.png)
 
-   랜딩 페이지가 활성화되면 [소셜 대시보드](/help/marketo/product-docs/demand-generation/social/social-functions/view-social-performance.md)에서 소셜 단추(Analytics 사용)로 생성된 활동을 볼 수 있습니다.
+   랜딩 페이지가 활성화되면 소셜 대시보드의 _소셜 단추(Analytics 사용)에서 생성한 활동_&#x200B;을 확인하세요.
 
    대신 좋아요/권장 단추(Lite)를 추가하는 경우 [랜딩 페이지 성능 보고서](/help/marketo/product-docs/demand-generation/landing-pages/understanding-landing-pages/landing-page-performance-report.md)의 공유 수를 참조하십시오.
 
@@ -49,10 +49,10 @@ ht-degree: 0%
    >
    >시간을 절약하기 위해 **다음에서 복제** 옵션을 사용하여 기존 소셜 단추의 모든 설정을 복사할 수 있습니다.
 
-   [랜딩 페이지를 Facebook에 게시](/help/marketo/product-docs/demand-generation/facebook/publish-landing-pages-to-facebook.md) [웹 사이트에 소셜 단추 넣기](/help/marketo/product-docs/demand-generation/social/social-functions/deploy-social-on-your-website.md)
+   [Facebook에 랜딩 페이지 게시](/help/marketo/product-docs/demand-generation/facebook/publish-landing-pages-to-facebook.md) _웹 사이트에 소셜 단추 넣기_
 
 축하합니다! 랜딩 페이지에 소셜 단추를 추가했습니다. 랜딩 페이지를 승인해야 합니다.
 
 >[!MORELIKETHIS]
 >
->완료되었습니다. 하지만 필요한 경우 소셜 버튼의 설정을 변경할 수 있습니다. [단추 스타일 사용자 지정](/help/marketo/product-docs/demand-generation/social/configuring-social-actions/customize-social-app-button.md) 또는 [공유 메시지 편집](/help/marketo/product-docs/demand-generation/social/configuring-social-actions/configure-social-sign-up-share-flow.md)으로 시작합니다.
+>완료되었습니다. 하지만 필요한 경우 소셜 버튼의 설정을 변경할 수 있습니다. _단추 스타일 사용자 지정_ 또는 _공유 메시지 편집_&#x200B;으로 시작합니다.

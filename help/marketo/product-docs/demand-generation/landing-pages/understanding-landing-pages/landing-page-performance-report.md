@@ -4,9 +4,9 @@ description: 랜딩 페이지 성능 보고서 - Marketo 문서 - 제품 설명�
 title: 랜딩 페이지 성능 보고서
 exl-id: 6cfe072d-5087-4e52-b387-73615f86e1eb
 feature: Landing Pages
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 7a8f5146126d6e8a4902be9337eef4d51e108cf0
 workflow-type: tm+mt
-source-wordcount: '225'
+source-wordcount: '206'
 ht-degree: 0%
 
 ---
@@ -17,11 +17,11 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->스마트 목록과 랜딩 페이지 성과 보고서 간에 숫자가 일치하지 않는 경우, 스마트 목록은 사람에 대한 데이터만 필터링하지만, 랜딩 페이지 성과 보고서에는 소셜(Facebook, Google 광고 등)이 포함되기 때문일 수 있습니다 및 People 데이터 외에 익명 활동.
+>스마트 목록과 랜딩 페이지 성과 보고서 간에 숫자가 일치하지 않는 경우, 스마트 목록은 사람에 대한 데이터만 필터링하지만, 랜딩 페이지 성과 보고서에는 사람 데이터 외에 소셜(Facebook, Google 광고 등) 및 익명 활동이 포함되기 때문일 수 있습니다.
 
 1. [보고서를 만들고](/help/marketo/product-docs/reporting/basic-reporting/creating-reports/create-a-report-in-a-program.md) 랜딩 페이지 성능 [보고서 유형](/help/marketo/product-docs/reporting/basic-reporting/report-types/report-type-overview.md)을(를) 선택합니다.
 1. [보고서의 시간대를 설정](/help/marketo/product-docs/reporting/basic-reporting/editing-reports/change-a-report-time-frame.md)하고 [보고서] 탭을 클릭합니다.
-1. 다 됐습니다! 보고서를 탐색하여 랜딩 페이지의 성능을 평가합니다.
+1. 됐습니다. 보고서를 탐색하여 랜딩 페이지의 성능을 평가합니다.
 
    ![](assets/image2014-9-16-15-3a53-3a33.png)
 
@@ -36,10 +36,6 @@ ht-degree: 0%
 1. 오른쪽으로 스크롤하여 다양한 소셜 미디어 플랫폼에서 발생한 방문 수를 확인합니다.
 
    ![](assets/image2014-9-16-15-3a54-3a27.png)
-
->[!NOTE]
->
->분석 ](/help/marketo/product-docs/demand-generation/landing-pages/free-form-landing-pages/add-a-social-button-to-a-free-form-landing-page.md)이(가) 있는 [소셜 단추에 의해 생성된 활동은 여기에 포함되지 않습니다. 이러한 통계는 [소셜 대시보드](/help/marketo/product-docs/demand-generation/social/social-functions/view-social-performance.md)를 참조하십시오.
 
 >[!MORELIKETHIS]
 >

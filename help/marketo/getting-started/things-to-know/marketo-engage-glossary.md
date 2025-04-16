@@ -4,18 +4,18 @@ short-description: Marketo Engage 용어와 정의를 학습하면 빠르게 적
 title: Marketo Engage 용어집
 feature: Getting Started
 exl-id: 57b60323-fe4a-4de1-898d-282e5aefd3ed
-source-git-commit: 384740fdfc1f6950369116bd77ee49f9e745bdf1
+source-git-commit: 7a8f5146126d6e8a4902be9337eef4d51e108cf0
 workflow-type: tm+mt
-source-wordcount: '4098'
-ht-degree: 1%
+source-wordcount: '4065'
+ht-degree: 2%
 
 ---
 
 # Marketo Engage 용어집 {#marketo-engage-glossary}
 
-다음은 Marketo Engage 사용 시 발생할 수 있는 여러 용어에 대한 정의입니다. 용어 추가를 요청하려면 [전자 메일을 보내세요](mailto:GRP-Marketo-articlefeedback@adobe.com).
+다음은 Marketo Engage을 사용할 때 발생할 수 있는 여러 용어에 대한 정의입니다. 용어 추가를 요청하려면 [전자 메일을 보내세요](mailto:GRP-Marketo-articlefeedback@adobe.com).
 
-## {#a}
+## A {#a}
 
 <table> 
  <colgroup> 
@@ -25,11 +25,11 @@ ht-degree: 1%
  <tbody> 
   <tr> 
    <td colspan="1"><strong><a href="/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/email-test-a-b-test/add-an-a-b-test.md" target="_blank">A/B 테스트</a></strong></td>
-   <td colspan="1">이메일의 구성 요소(예: 제목 줄, 보낸 사람 주소 등)를 수정할 수 있습니다. 그리고 테스트 기준을 설정하여 더 나은 콘텐츠 세트를 결정합니다.</td> 
+   <td colspan="1">이메일의 구성 요소(예: 제목란, 보낸 사람 주소 등)를 수정하고 테스트 기준을 설정하여 더 나은 콘텐츠 세트를 결정할 수 있습니다.</td> 
   </tr> 
   <tr> 
    <td colspan="1"><strong>계정</strong></td> 
-   <td colspan="1">이 용어는 다른 의미를 가질 수 있습니다.<br>-Marketo 인스턴스 자체를 Marketo 계정이라고 할 수 있습니다.<br>-<strong>TAM</strong>에서 <strong>명명된 계정</strong>은(는) 사용자가 추구하려는 대상 계정이라고 결정한 계정입니다.<br>의 TAM에서 CRM 계정은 연결된 <strong>CRM</strong>(<strong><span class="dnl">Salesforce</span></strong>, <strong><span class="dnl">MS Dynamics</span></strong> 또는 <strong>API</strong>에 있는 계정)에서 매핑된 계정입니다.<br>-CRM에서 계정은 리드나 연락처가 연결된 비즈니스/회사입니다.</td> 
+   <td colspan="1">이 용어는 다른 의미를 가질 수 있습니다.<br>-Marketo 인스턴스 자체를 Marketo 계정이라고 할 수 있습니다.<br>-<strong>TAM</strong>에서 <strong>명명된 계정</strong>은(는) 사용자가 추구하려는 대상 계정이라고 결정한 계정입니다.<br>-In TAM에서 CRM 계정은 연결된 <strong>CRM</strong>(<strong><span class="dnl">Salesforce</span></strong>, <strong><span class="dnl">MS Dynamics</span></strong> 또는 <strong>API</strong>에 있는 계정)에서 매핑된 계정입니다.<br>-CRM에서 계정은 리드나 연락처가 연결된 비즈니스/회사입니다.</td> 
   </tr> 
   <tr> 
    <td><strong>계정 목록</strong></td> 
@@ -184,7 +184,7 @@ ht-degree: 1%
    <td colspan="1">(<strong><a href="#predictivecontent">예측 콘텐츠</a></strong> 참조)</td> 
   </tr> 
   <tr> 
-   <td colspan="1"><a href="/help/marketo/product-docs/web-personalization/understanding-web-personalization/understanding-content-analytics.md" rel="nofollow"><strong>콘텐츠 분석</strong></a></td> 
+   <td colspan="1"><a href="/help/marketo/product-docs/web-personalization/understanding-web-personalization/understanding-content-analytics.md" rel="nofollow"><strong>Content Analytics</strong></a></td> 
    <td colspan="1">웹 사이트에서 검색된 기존 콘텐츠와 콘텐츠 성능을 표시하는 <strong>웹 Personalization</strong> 영역입니다.</td> 
   </tr> 
   <tr> 
@@ -192,12 +192,12 @@ ht-degree: 1%
    <td colspan="1">Marketo이 <strong>참여 프로그램</strong>에서 콘텐츠에 제공하는 0~100점 점수입니다. 점수는 <strong>열림</strong>, <strong>클릭 수</strong>, <strong>구독 취소</strong>, 프로그램 성공 등을 사용하는 정교한 공식으로 결정됩니다.</td> 
   </tr> 
   <tr> 
-   <td colspan="1"><strong>쿠키</strong></td> 
+   <td colspan="1"><strong>Cookie</strong></td> 
    <td colspan="1"><span>쿠키는 경험을 개인화하는 데 도움이 되도록 웹 사이트에서 사용자의 웹 브라우저로 전송되는 작은 데이터입니다(로그인 정보, 환경 설정 등을 기억). </span></td> 
   </tr> 
   <tr> 
    <td colspan="1"><strong><a href="/help/marketo/product-docs/demand-generation/facebook/create-a-custom-audience-in-facebook.md" rel="nofollow">사용자 지정 대상</a></strong></td> 
-   <td colspan="1">facebook에서 직접 타깃팅을 위해 Marketo 데이터베이스의 특정 기존 사용자로 구성된 목록을 만듭니다.</td> 
+   <td colspan="1">Facebook에서, 직접 타겟팅을 위해 (Marketo 데이터베이스의) 특정 기존 사람으로 구성된 목록을 만듭니다.</td> 
   </tr> 
   <tr> 
    <td colspan="1"><strong><a href="/help/marketo/product-docs/administration/field-management/create-a-custom-field-in-marketo.md" rel="nofollow">사용자 정의 필드</a></strong></td> 
@@ -261,14 +261,14 @@ ht-degree: 1%
   </tr> 
   <tr> 
    <td colspan="1"><strong>문서</strong></td> 
-   <td colspan="1">약어로 설명하자면, 문서는 고객이 제품을 더 잘 이해할 수 있도록 하는 도움말 문서입니다. Marketo에는 제품 문서(현재 사용 중인 사이트), <a href="https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/home" rel="nofollow">개발자</a> 문서, <a href="https://nation.marketo.com/t5/Knowledgebase/tkb-p/support_solutions-documents" rel="nofollow">지원</a> 문서 등 여러 유형의 문서가 있습니다.</td> 
+   <td colspan="1">약어로 설명하자면, 문서는 고객이 제품을 더 잘 이해할 수 있도록 하는 도움말 문서입니다. Marketo에는 제품 문서(현재 사용 중인 사이트), <a href="https://experienceleague.adobe.com/ko/docs/ marketo-developer/marketo/home" rel="nofollow">개발자</a> 문서, <a href="https://nation.marketo.com/t5/Knowledgebase/tkb-p/support_solutions-documents" rel="nofollow">지원</a> 문서 등 여러 유형의 문서가 있습니다.</td> 
   </tr> 
   <tr> 
    <td colspan="1"><strong>도메인 기반 메시지 인증, 보고 및 적합성(DMARC)</strong></td> 
    <td colspan="1"><strong>SPF</strong> 및 <strong>DKIM</strong>의 작동 및 해석을 표준화하는 DNS 기반 전자 메일 보안 정책으로, 사서함 공급자는 도메인에서 온 메일 청구가 해당 도메인의 유효한 원본에서 발생하는지 확인할 수 있습니다. 또한 발신자는 유효성 검사에 실패한 메일을 처리하는 방법을 지정할 수 있습니다.</td> 
   </tr> 
   <tr> 
-   <td colspan="1"><strong><a href="/help/marketo/product-docs/email-marketing/deliverability/set-up-spf-and-dkim-for-your-email-deliverability.md" rel="nofollow">메일 확인 도메인 키</a>(DKIM)</strong></td> 
+   <td colspan="1"><strong><a href="/help/marketo/product-docs/email-marketing/deliverability/set-up-spf-and-dkim-for-your-email-deliverability.md" rel="nofollow">Domain Keys Identified Mail</a>(DKIM)</strong></td> 
    <td colspan="1">보낸 사람이 보낸 사람 주소의 도메인 이름을 특정 이메일 메시지와 연결할 수 있도록 보내는 도메인을 보호하는 인증 메커니즘입니다. 이렇게 하면 수신자는 도메인 소유자가 적법하게 이메일을 보냈음을 알 수 있습니다. 보낸 사람이 메시지 헤더에 디지털 서명을 사용하여 전자 메일에 서명합니다. 받는 사람은 도메인 소유자가 DNS에 게시한 공개 키를 사용하여 해당 서명의 암호를 해독하여 도메인 소유자가 메일을 합법적으로 보냈는지 확인할 수 있습니다.</td> 
   </tr> 
   <tr> 
@@ -285,12 +285,12 @@ ht-degree: 1%
   </tr> 
   <tr> 
    <td colspan="1"><strong><a href="/help/marketo/product-docs/personalization/segmentation-and-snippets/segmentation/understanding-dynamic-content.md" rel="nofollow">다이내믹 콘텐츠</a></strong></td> 
-   <td colspan="1">콘텐츠(예: 이미지, 코드 조각, 텍스트 등) 사용자가 지정한 조건에 따라 <strong>전자 메일</strong> 또는 <strong>랜딩 페이지</strong>에서 채워지므로 사용자가 독자를 위해 환경을 개인화할 수 있습니다. </td> 
+   <td colspan="1">지정한 조건에 따라 <strong>전자 메일</strong> 또는 <strong>랜딩 페이지</strong>에 채워지는 콘텐츠(예: 이미지, 코드 조각, 텍스트 등)를 통해 독자를 위한 환경을 개인화할 수 있습니다. </td> 
   </tr> 
  </tbody> 
 </table>
 
-## 전자 {#e}
+## E {#e}
 
 <table> 
  <colgroup> 
@@ -367,7 +367,7 @@ ht-degree: 1%
    <td>대상 범위를 좁힐 수 있는 <strong>스마트 목록</strong>에 사용되는 도구입니다(예: 데이터베이스에 있는 캘리포니아 거주 사용자). 필터는 <strong>일괄 처리</strong>와 <strong>캠페인 트리거</strong>에서 모두 사용할 수 있습니다.</td> 
   </tr> 
   <tr> 
-   <td><strong>플로우</strong></td> 
+   <td><strong>흐름</strong></td> 
    <td><p><strong>스마트 목록</strong>에 설정된 기준을 통해 선택한 사람들에게 어떤 일이 발생하는지 결정하는 <strong>스마트 캠페인</strong>의 영역입니다. 흐름은 하나 이상의 <strong>흐름 단계</strong>로 구성됩니다.</p></td> 
   </tr> 
   <tr> 
@@ -404,7 +404,7 @@ ht-degree: 1%
  </tbody> 
 </table>
 
-## 시간 {#h}
+## H {#h}
 
 <table> 
  <colgroup> 
@@ -419,7 +419,7 @@ ht-degree: 1%
  </tbody> 
 </table>
 
-## 내가 {#i}
+## I {#i}
 
 <table> 
  <colgroup> 
@@ -429,12 +429,12 @@ ht-degree: 1%
  <tbody> 
   <tr> 
    <td><a href="/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/features/tabs-in-the-msi-panel/interesting-moments/using-interesting-moments.md" rel="nofollow"><strong>즐거운 순간</strong></a></td> 
-   <td><p><strong>Marketo Sales Insight</strong>에서 특정 관련성이 있다고 판단되는 경우(예: 누군가 사이트의 특정 페이지를 방문하거나, 전자 메일의 특정 링크를 클릭하는 경우 등) 영업 팀이 알아야 할 사항입니다.</p></td> 
+   <td><p><strong>Marketo Sales Insight</strong>에서 영업 팀이 알고 있어야 하는 특정 관련성(예: 누군가 사이트의 특정 페이지를 방문하거나, 전자 메일의 특정 링크를 클릭하는 등)이 있다고 판단되는 경우.</p></td> 
   </tr> 
  </tbody> 
 </table>
 
-## K {#k}
+## 천 {#k}
 
 <table> 
  <colgroup> 
@@ -444,7 +444,7 @@ ht-degree: 1%
  <tbody> 
   <tr> 
    <td><a href="/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/features/tabs-in-the-msi-panel/interesting-moments/using-interesting-moments.md" rel="nofollow"><strong>알려진 사람</strong></a></td> 
-   <td><p>Marketo <strong>데이터베이스</strong>의 모든 사용자 데이터는 알려진 사용자 데이터로 간주됩니다. CRM 동기화, 양식 작성, 목록 가져오기/수동 입력, 프로그래밍 방식(rest API/파트너 통합) 등 다양한 방법으로 사용자가 데이터베이스를 입력할 수 있습니다. 웹 방문자는 처음에 Marketo의 <strong>Munchkin</strong> 웹 추적을 통해 <strong>cookied</strong>(및 익명)되었다가 식별 가능한 작업이 발생할 때(예: Marketo 이메일에서 추적된 링크를 클릭하거나, 이메일 주소로 양식을 작성하거나, Marketo 연결 리드 API를 통해 <a href="https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/javascriptapi/lead-tracking#known-and-anonymous-leads">Munchkin</a> 및 <a href="https://developer.adobe.com/marketo-apis/api/mapi/#tag/Leads/operation/associateLeadUsingPOST">Rest API</a>에서 수동으로 매핑됨) 해당 알려진 사용자 레코드로 매핑됩니다</p></td> 
+   <td><p>Marketo <strong>데이터베이스</strong>의 모든 사용자 데이터는 알려진 사용자 데이터로 간주됩니다. CRM 동기화, 양식 작성, 목록 가져오기/수동 입력, 프로그래밍 방식(rest API/파트너 통합) 등 다양한 방법으로 사용자가 데이터베이스를 입력할 수 있습니다. 웹 방문자는 처음에 Marketo의 <strong>Munchkin</strong> 웹 추적을 통해 <strong>cookied</strong>(및 익명)되었다가 식별 가능한 작업이 발생하면(예: Marketo 이메일에서 추적된 링크를 클릭하거나, 이메일 주소로 양식을 작성하거나, Marketo 연결 리드 API를 통해 <a href="https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/javascriptapi/lead-tracking#known-and-anonymous-leads">Munchkin</a> 및 <a href="https://developer.adobe.com/marketo-apis/api/mapi/#tag/Leads/operation/associateLeadUsingPOST">Rest API</a>에서 수동으로 매핑됨) 해당 알려진 사용자 레코드로 매핑됩니다</p></td> 
   </tr> 
  </tbody> 
 </table>
@@ -490,7 +490,7 @@ ht-degree: 1%
  </tbody> 
 </table>
 
-## M {#m}
+## 백만 {#m}
 
 <table> 
  <colgroup> 
@@ -535,7 +535,7 @@ ht-degree: 1%
    <td>MSD라고도 합니다. 두 CRM 중 하나인 Marketo은 와 기본 통합이 있습니다(<a href="#c"><strong>CRM</strong></a> 참조).</td> 
   </tr> 
   <tr> 
-   <td><strong><a href="https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/javascriptapi/lead-tracking" rel="nofollow">먼치킨</a></strong></td> 
+   <td><strong><a href="https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/javascriptapi/lead-tracking" rel="nofollow">Munchkin</a></strong></td> 
    <td>Marketo의 사용자 지정 JavaScript 추적 코드. 웹 사이트를 방문하는 모든 개인을 추적합니다. 여기에는 익명 방문자(IP 주소 및 기타 정보 포함)가 포함됩니다. </td> 
   </tr> 
   <tr> 
@@ -633,11 +633,7 @@ ht-degree: 1%
   <tr> 
    <td colspan="1"><a href="/help/marketo/product-docs/target-account-management/using-personas.md" rel="nofollow"><strong>담당자</strong></a></td> 
    <td colspan="1">Marketo의 <strong>Target 계정 관리</strong>에서 가상 사용자는 대상의 하위 집합이므로 보다 구체적인 타깃팅을 허용합니다.</td> 
-  </tr> 
-  <tr> 
-   <td colspan="1"><a href="/help/marketo/product-docs/demand-generation/social/creating-a-poll/create-a-poll.md" rel="nofollow"><strong>여론 조사</strong></a></td> 
-   <td colspan="1">Marketo의 여론조사는 일반 여론조사와 같습니다. 사람들이 투표할 주제를 만들어 Marketo <strong>랜딩 페이지</strong>, 웹 사이트 및/또는 소셜 미디어에서 공유하세요.</td> 
-  </tr> 
+  </tr>
   <tr> 
    <td> 
     <div> 
@@ -731,7 +727,7 @@ ht-degree: 1%
    <td>세분화 내 범주(<strong>세분화</strong> 참조).</td> 
   </tr> 
   <tr> 
-   <td colspan="1"><strong><a href="/help/marketo/product-docs/personalization/segmentation-and-snippets/segmentation/understanding-dynamic-content.md#segmentation" rel="nofollow">세분화</a></strong></td> 
+   <td colspan="1"><strong><a href="/help/marketo/product-docs/personalization/segmentation-and-snippets/segmentation/understanding-dynamic-content.md#segmentation" rel="nofollow">세그먼테이션</a></strong></td> 
    <td colspan="1">지정한 <strong>스마트 목록</strong> 규칙을 기반으로 <strong>데이터베이스</strong>에 있는 사람들을 함께 그룹화합니다. 예를 들어 산업이라는 세그먼테이션이 있을 수 있으며 이 세그먼트 내의 카테고리는 의료, 기술, 금융 등일 수 있습니다. 세그먼테이션을 사용하면 선택한 인구 통계에 따라 전체 사용자 그룹으로 마케팅할 수 있습니다.</td> 
   </tr> 
   <tr> 
@@ -878,15 +874,15 @@ ht-degree: 1%
   </tr> 
   <tr> 
    <td><strong><a href="/help/marketo/product-docs/web-personalization/website-retargeting/retargeting-with-web-personalization-data.md" rel="nofollow">웹 사이트 재타겟팅</a></strong></td> 
-   <td>Marketo 사용자가 업계, 명명 계정 및 알려진 데이터를 기반으로 관련 광고를 통해 알려진 방문자와 익명의 방문자(Facebook 및 Google을 통해)를 타깃팅하는 데 도움이 되는 추가 기능입니다.</td> 
+   <td>Marketo 사용자가 업계, 명명된 계정 및 알려진 데이터를 기반으로 관련 광고를 사용하여 알려진 방문자와 익명 방문자(Facebook 및 Google을 통해)를 타깃팅하는 데 도움이 되는 추가 기능입니다.</td> 
   </tr> 
   <tr> 
-   <td><strong>표시되는 항목(WYSIWYG)</strong></td> 
+   <td><strong>What You See Is What You Get(WYSIWYG)</strong></td> 
    <td>응용 프로그램 또는 편집기를 참조하는 일반적인 용어로 <strong>콘텐츠</strong>를 만들 때 최종 결과를 볼 수 있습니다. Marketo에는 WYSIWYG 편집기가 있습니다.</td> 
   </tr> 
   <tr> 
    <td><strong>위젯</strong></td> 
-   <td>특정 상호 작용을 허용하는 애플리케이션의 작은 그래픽 요소. 위젯은 Marketo Sky(<a href="/help/marketo/product-docs/web-personalization/working-with-web-campaigns/create-a-new-widget-web-campaign.md" rel="nofollow">위젯 웹 캠페인과 다름)에서만 사용할 수 있습니다</a></td> 
+   <td>특정 상호 작용을 허용하는 애플리케이션의 작은 그래픽 요소. 위젯은 Marketo Sky(<a href="/help/marketo/product-docs/web-personalization/working-with-web-campaigns/create-a-new-widget-web-campaign.md" rel="nofollow">Widget Web Campaign과 다름)에서만 사용할 수 있습니다</a></td> 
   </tr> 
   <tr> 
    <td><strong>와일드카드</strong></td> 
