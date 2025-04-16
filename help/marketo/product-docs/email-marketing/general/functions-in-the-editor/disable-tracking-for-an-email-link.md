@@ -4,9 +4,9 @@ description: 이메일 링크 추적 비활성화 - Marketo 문서 - 제품 설�
 title: 이메일 링크 추적 비활성화
 exl-id: 841ef605-1664-4457-bc83-50bbe5d44853
 feature: Email Editor
-source-git-commit: b3bc6a7ec14a513e4b294852d066f9e3d0f74ef8
+source-git-commit: ac2f8bf38b32344dd9414cf3611b69747e3587d4
 workflow-type: tm+mt
-source-wordcount: '266'
+source-wordcount: '288'
 ht-degree: 0%
 
 ---
@@ -45,10 +45,6 @@ ht-degree: 0%
 
    ![](assets/image2014-9-17-22-3a25-3a20.png)
 
-   >[!TIP]
+   >[!CAUTION]
    >
-   >전자 메일 **템플릿**에서 링크에 대한 클릭 추적을 비활성화하시겠습니까? 다음 형식을 사용합니다.
-   >`<a class="mktNoTrack" href="https://www.mywebsite.com">This link does not have tracking</a>`\
-   >이 구현과 관련하여 도움이 필요한 경우 웹 개발자에게 문의하십시오.
-
-좋네! 이제 링크 추적을 비활성화했습니다.
+   >전자 메일 서식 파일 또는 전자 메일의 [텍스트 버전](/help/marketo/product-docs/email-marketing/general/creating-an-email/edit-the-text-version-of-an-email.md){target="_blank"}에서 링크 클릭 추적을 비활성화하려면 다음 예제와 같이 문자열의 끝이 아닌 *시작*&#x200B;에 `mktNoTrack`을(를) 추가하십시오. `<a class="mktNoTrack" href="https://www.mywebsite.com">This link does not have tracking</a>` 그렇지 않으면 링크가 사라질 수 있습니다. 위의 코드 구현에 도움이 필요한 경우 웹 개발자에게 문의하십시오.
