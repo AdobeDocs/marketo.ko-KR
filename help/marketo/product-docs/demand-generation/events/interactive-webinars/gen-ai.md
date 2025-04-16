@@ -3,9 +3,9 @@ description: GenAI 기능 - Marketo 문서 - 제품 설명서
 title: GenAI의 특징
 feature: Interactive Webinars
 exl-id: 3e0a41b0-7ff3-4676-bafc-4e7a0725a737
-source-git-commit: a4db7dbc6d62edd3d2efdba08c402d762fdaf921
+source-git-commit: 58ccf430a1bf05e93ce9ba5bef4315c6e4ccad2d
 workflow-type: tm+mt
-source-wordcount: '542'
+source-wordcount: '614'
 ht-degree: 0%
 
 ---
@@ -87,6 +87,22 @@ Adobe GenAI 약관에 동의한 후 다음 단계는 개별 사용자에 대해 
 ### 챕터 {#chapters}
 
 **HTML 복사** - **[!UICONTROL Copy HTML]** 단추를 클릭하여 비디오 플레이어에서 서식이 지정된 모든 녹음/녹화 및 해당 챕터를 가져옵니다.
+
+## 대상을 타기팅하십시오
+
+스마트 캠페인/목록 필터 및/또는 트리거를 활용하여 각 뷰어가 시청한 항목, 횟수 등을 확인함으로써 개인화된 후속 작업을 수행할 수 있습니다.
+
+![](assets/gen-ai-features-4.png){width="800" zoomable="yes"}
+
+* **트리거**: _웹 페이지에서 링크 클릭_, _웹 페이지 방문_
+
+* **필터**: _웹 페이지에서 링크를 클릭함_, _방문한 웹 페이지_
+
+&quot;링크&quot;는 챕터 이름이고 &quot;웹 페이지&quot;는 온디맨드 웨비나를 호스팅하는 페이지입니다.
+
+>[!TIP]
+>
+>대상 대상을 세분화하려면 [제약 조건](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/using-smart-lists/add-a-constraint-to-a-smart-list-filter.md){target="_blank"}을 사용하십시오.
 
 ## 유의할 사항 {#things-to-note}
 
