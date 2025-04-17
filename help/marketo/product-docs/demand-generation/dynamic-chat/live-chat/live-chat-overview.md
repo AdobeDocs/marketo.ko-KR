@@ -3,7 +3,7 @@ description: 라이브 채팅 개요 - Marketo 문서 - 제품 설명서
 title: 라이브 채팅 개요
 feature: Dynamic Chat
 exl-id: 44e8b249-b534-4cec-a612-daa184acd266
-source-git-commit: d88406c1f9d72c57a6d4f09934cbf685499ed198
+source-git-commit: 8e26cd1920fe66b63238c8b6e51ec424d1dda1fb
 workflow-type: tm+mt
 source-wordcount: '697'
 ht-degree: 0%
@@ -16,7 +16,7 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->Dynamic Chat 선택 패키지에 있는 사용자의 경우, 라이브 채팅은 100회 참여 수명 제한이 있는 체험판 기능입니다. 이 한도에 도달하면 라이브 에이전트와의 채팅을 요청하는 방문자는 연결되지 않고 대신 글로벌 대체 메시지를 받게 됩니다. 한도를 높이려면 Adobe 계정 담당자에게 문의하여 패키지 업그레이드 옵션에 대해 논의하십시오.
+>Dynamic Chat Select 패키지에 있는 사용자의 경우 라이브 채팅은 라이프타임 제한이 100개인 체험판 기능입니다. 이 한도에 도달하면 라이브 에이전트와의 채팅을 요청하는 방문자는 연결되지 않고 대신 글로벌 대체 메시지를 받게 됩니다. 한도를 높이려면 Adobe 계정 담당자에게 문의하여 패키지 업그레이드 옵션에 대해 논의하십시오.
 
 ## 라이브 채팅 에이전트 추가 {#add-live-chat-agents}
 
@@ -26,7 +26,7 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->라이브 에이전트 아바타는 에이전트의 Adobe 계정 프로필에서 프로필 사진을 사용합니다. 이미지를 업데이트하려면 [다음 단계](https://helpx.adobe.com/kr/manage-account/using/edit-adobe-account-personal-profile.html){target="_blank"}를 따르십시오.
+>라이브 에이전트 아바타는 에이전트의 Adobe 계정 프로필에 있는 프로필 사진을 사용합니다. 이미지를 업데이트하려면 [다음 단계](https://helpx.adobe.com/kr/manage-account/using/edit-adobe-account-personal-profile.html){target="_blank"}를 따르십시오.
 
 ## 라이브 채팅 카드 사용 {#using-the-live-chat-card}
 
@@ -90,7 +90,7 @@ ht-degree: 0%
 
 Mac의 [단계](https://support.apple.com/guide/mac-help/change-notifications-settings-mh40583/mac){target="_blank"}
 
-[Windows용 단계](https://support.microsoft.com/en-us/windows/change-notification-settings-in-windows-8942c744-6198-fe56-4639-34320cf9444e){target="_blank"}
+Windows용 [단계](https://support.microsoft.com/en-us/windows/change-notification-settings-in-windows-8942c744-6198-fe56-4639-34320cf9444e){target="_blank"}
 
 ### 실시간 채팅이 에이전트에게 라우팅되는 경우 {#when-a-live-chat-is-routed-to-an-agent}
 
@@ -100,7 +100,7 @@ Mac의 [단계](https://support.apple.com/guide/mac-help/change-notifications-se
 
 >[!TIP]
 >
->또한 Dynamic Chat 알림을 설정할 수 있는 옵션도 있습니다. 이 옵션은 브라우저에 로그인하지 않은 경우 알림을 제공합니다.
+>Dynamic Chat에 로그인하지 않은 경우 알림을 보내는 브라우저 알림을 설정할 수 있는 옵션도 있습니다.
 >
 >* [Google Chrome](https://support.google.com/chrome/answer/3220216?hl=en&amp;co=GENIE.Platform%3DDesktop){target="_blank"}에서 브라우저 알림 사용
 >* [Mozilla Firefox](https://support.mozilla.org/en-US/kb/push-notifications-firefox){target="_blank"}에서 브라우저 알림 사용
@@ -113,7 +113,7 @@ Mac의 [단계](https://support.apple.com/guide/mac-help/change-notifications-se
 
 ### 참고할 사항 {#things-to-note}
 
-* 상담원은 &quot;채팅 수락&quot; 메시지가 시간 초과되기 전에 45초 동안 응답할 수 있습니다. 이후 방문자는 [대체 메시지](/help/marketo/product-docs/demand-generation/dynamic-chat/setup-and-configuration/agent-management.md#live-chat-fallback){target="_blank"}를 받게 됩니다. 라우팅 옵션이 **Team**(으)로 설정된 Dynamic Chat Prime 구독자의 경우 대체 메시지가 나타나기 전에 에이전트를 하나 더 시도합니다.
+* 상담원은 &quot;채팅 수락&quot; 메시지가 시간 초과되기 전에 100초 동안 응답할 수 있습니다. 이후 방문자는 [대체 메시지](/help/marketo/product-docs/demand-generation/dynamic-chat/setup-and-configuration/agent-management.md#live-chat-fallback){target="_blank"}를 받게 됩니다. 라우팅 옵션이 **Team**(으)로 설정된 Dynamic Chat Prime 구독자의 경우 대체 메시지가 나타나기 전에 에이전트를 하나 더 시도합니다.
 * 현재 에이전트당 라이브 채팅 수는 10개로 제한됩니다.
 
 >[!MORELIKETHIS]
