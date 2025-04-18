@@ -4,9 +4,9 @@ title: 최신 릴리스 정보
 hide: true
 hidefromtoc: true
 feature: Release Information
-source-git-commit: 44ea3d408cf460b41f3fa92c639ca089a195a4bc
+source-git-commit: 38ec4726dece1695a15104fdb7fa7592b298d4a9
 workflow-type: tm+mt
-source-wordcount: '393'
+source-wordcount: '429'
 ht-degree: 4%
 
 ---
@@ -43,17 +43,7 @@ Adobe Dynamic Chat [에 대한 릴리스 정보는 여기에서 찾을 수 있�
    <td> </td>
   </tr>
   <tr> 
-   <td><strong>제목</strong>: 텍스트입니다.</td> 
-   <td><i>곧 출시 예정</i></td>
-   <td><i>곧 출시 예정</i></td>
-  </tr>
-  <tr> 
-   <td> </td> 
-   <td> </td>
-   <td> </td>
-  </tr>
-  <tr> 
-   <td><strong>제목</strong>: 텍스트입니다.</td> 
+   <td><strong>SSL(Secure Socket Layer) 셀프 서비스</strong>: SSL 암호화를 사용하면 Marketo Engage 인스턴스의 랜딩 페이지를 안전하게 만들 수 있습니다. 이 기능을 활성화하려면 Adobe 지원 팀의 지원이 필요합니다. 이제 Marketo 사용자가 직접 활성화할 수 있으므로 귀중한 시간을 절약할 수 있습니다.</td> 
    <td><i>곧 출시 예정</i></td>
    <td><i>곧 출시 예정</i></td>
   </tr>
