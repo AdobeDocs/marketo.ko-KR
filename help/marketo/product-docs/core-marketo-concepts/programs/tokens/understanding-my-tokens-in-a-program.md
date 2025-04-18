@@ -4,10 +4,10 @@ description: 프로그램의 내 토큰 이해 - Marketo 문서 - 제품 설명�
 title: 프로그램의 내 토큰 이해
 exl-id: 01b42272-c419-4cd5-ad30-87413ceb2032
 feature: Tokens
-source-git-commit: 2b610cc3486b745212b0b1f36018a83214d7ecd7
+source-git-commit: f21d9356f00f8ea50819b591d15ca06d61256d8b
 workflow-type: tm+mt
-source-wordcount: '416'
-ht-degree: 0%
+source-wordcount: '417'
+ht-degree: 1%
 
 ---
 
@@ -19,7 +19,7 @@ ht-degree: 0%
 
 ## 내 토큰  {#my-tokens}
 
-내 토큰은 누구나 만들 수 있는 사용자 지정 변수입니다. 캠페인 폴더 또는 프로그램에서 [created](/help/marketo/product-docs/core-marketo-concepts/programs/tokens/managing-my-tokens.md){target="_blank"}입니다.
+내 토큰은 누구나 만들 수 있는 사용자 지정 변수입니다. 로컬에서 캠페인 폴더 또는 프로그램에 [생성](/help/marketo/product-docs/core-marketo-concepts/programs/tokens/managing-my-tokens.md){target="_blank"}됩니다.
 
 내 토큰은 다음과 같이 표시됩니다. `{{my.Name Of Token}}`
 
@@ -41,7 +41,7 @@ ht-degree: 0%
    <td>이 토큰을 사용하여 <a href="/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/create-a-calendar-event-ics-file.md">일정 이벤트 파일(.i</a><a href="/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/create-a-calendar-event-ics-file.md">cs)</a>을 전자 메일 및 랜딩 페이지에 추가하십시오.</td> 
   </tr> 
   <tr> 
-   <td><p>날짜 <img alt="--" src="assets/image2014-9-25-16-3a44-3a47.png" data-linked-resource-id="3083231" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="1147114"></p></td> 
+   <td><p>일자 <img alt="--" src="assets/image2014-9-25-16-3a44-3a47.png" data-linked-resource-id="3083231" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="1147114"></p></td> 
    <td>이 토큰은 날짜 값을 보유합니다. 날짜는 년-월-일(예: 2016-05-23)로 표시됩니다.</td> 
   </tr> 
   <tr> 
@@ -54,26 +54,26 @@ ht-degree: 0%
   </tr> 
   <tr> 
    <td>리치 텍스트 <img alt="--" src="assets/image2014-9-25-16-3a46-3a22.png" data-linked-resource-id="3083234" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="1147114"></td> 
-   <td>HTML. 이메일 및 랜딩 페이지에서 사용합니다.</td> 
+   <td>HTML 입니다. 이메일 및 랜딩 페이지에서 사용합니다.</td> 
   </tr> 
   <tr> 
-   <td>스코어 <img alt="--" src="assets/image2014-9-25-16-3a46-3a39.png" data-linked-resource-id="3083235" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="1147114"></td> 
+   <td>점수 <img alt="--" src="assets/image2014-9-25-16-3a46-3a39.png" data-linked-resource-id="3083235" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="1147114"></td> 
    <td><a href="/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/use-tokens-in-flow-steps.md">점수 흐름 변경 단계</a>에서 이 토큰을 사용하십시오. </td> 
   </tr> 
   <tr> 
    <td colspan="1">SFDC 캠페인 <img alt="--" src="assets/sfdc-campaign-icon.jpg" data-linked-resource-id="11379761" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="1147114" title="--"></td> 
-   <td colspan="1">이 토큰을 사용하여 Marketo 프로그램의 일부가 되는 리드를 추가되는 모든 SFDC 캠페인에 추가할 수 있습니다.</td> 
+   <td colspan="1">이 토큰을 사용하여 Marketo 프로그램의 일부가 되는 리드를 SFDC Campaign이 추가되는 요소에도 추가할 수 있습니다.</td> 
   </tr> 
   <tr> 
    <td>텍스트 <img alt="--" src="assets/image2014-9-25-16-3a46-3a54.png" data-linked-resource-id="3083236" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="1147114"></td> 
-   <td>문자만 좀 보내요. HTML이 오버킬일 때 사용하십시오. 텍스트 토큰의 크기 제한은 524,288자(UTF-8) 또는 2MB입니다.</td> 
+   <td>문자만 좀 보내요. HTML이 오버킬일 때 사용합니다. 텍스트 토큰의 크기 제한은 524,288자(UTF-8) 또는 2MB입니다.</td> 
   </tr> 
  </tbody> 
 </table>
 
 >[!CAUTION]
 >
->Microsoft Dynamics 또는 Salesforce에서 Sales Insight에서 이메일을 보낼 때 내 토큰이 확인되지 않고 표준 토큰만 채워집니다(Lead, Company 등). 그러나 토큰 _will_&#x200B;의 기본값은 작동합니다.
+>Microsoft Dynamics 또는 Salesforce의 Sales Insight에서 이메일을 전송할 때 내 토큰이 확인되지 않습니다. 표준 토큰만 채워집니다 (Lead, Company 등). 그러나 토큰 _will_&#x200B;의 기본값은 작동합니다.
 
 ## 토큰 중첩 {#nesting-tokens}
 

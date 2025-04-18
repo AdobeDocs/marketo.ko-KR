@@ -2,10 +2,11 @@
 description: 릴리스 노트 - 2025년 3월 - Marketo 문서 - 제품 설명서
 title: 릴리스 노트 - 2025년 3월
 feature: Release Information
-source-git-commit: 38ec4726dece1695a15104fdb7fa7592b298d4a9
+exl-id: a0e45d8e-6b74-4ab0-a1ba-4dae3754bc8f
+source-git-commit: 0fa36f119e26b7bc1882a2ed1f73d71e6af42c5f
 workflow-type: tm+mt
-source-wordcount: '475'
-ht-degree: 3%
+source-wordcount: '478'
+ht-degree: 2%
 
 ---
 
@@ -53,7 +54,7 @@ Adobe Dynamic Chat [에 대한 릴리스 정보는 여기에서 찾을 수 있�
   <tr> 
    <td><strong>글로벌 및 Workspace 내 토큰</strong>: 생산성을 높이고 Marketo Engage 작업 영역 및 전체 인스턴스에서 brand 및 마케팅 자료를 제어할 수 있도록 작업 영역과 글로벌 수준에서 내 토큰을 구성합니다.</td> 
    <td>배송됨</td>
-   <td>해당 사항 없음</td>
+   <td><a href="/help/marketo/product-docs/core-marketo-concepts/programs/tokens/managing-my-tokens.md#create-a-my-token">글로벌 내 토큰 만들기</a></td>
   </tr>
   </tbody> 
 </table>
