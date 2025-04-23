@@ -3,9 +3,9 @@ description: 대화형 웨비나 만들기 - Marketo 문서 - 제품 설명서
 title: 대화형 웨비나 만들기
 exl-id: 91fdede6-2e5a-4895-9893-852d0441aa2a
 feature: Interactive Webinars
-source-git-commit: de95149324a5841a21876598ae1cd06e1fbef6e6
+source-git-commit: ce79145d8186e6d17dbe579aceb90d3c209f1b31
 workflow-type: tm+mt
-source-wordcount: '298'
+source-wordcount: '306'
 ht-degree: 0%
 
 ---
@@ -42,13 +42,13 @@ ht-degree: 0%
 
    ![](assets/create-an-interactive-webinar-5.png)
 
-1. 웨비나에 제목을 지정합니다. 최대 대상자 크기 및 지속 시간을 설정합니다.
+1. 웨비나에 제목을 지정하고 지속 시간을 결정합니다.
 
    ![](assets/create-an-interactive-webinar-6.png)
 
    >[!NOTE]
    >
-   >* 웨비나 제목은 참여자가 참여하면 볼 수 있다. 제목이 웨비나 룸 이름뿐만 아니라 Marketo Engage 인스턴스에 있는 대화형 웨비나 이벤트 프로그램의 이름과 다른 것이 중요합니다.
+   >* 참가자가 참가할 때 웨비나의 제목 **is**&#x200B;이(가) 표시됩니다. 제목이 Marketo Engage 인스턴스의 대화형 웨비나 이벤트 프로그램 이름, 웨비나 룸 이름과 다른 것이 중요합니다.
    >
    >* 웨비나 제목은 재사용할 수 없습니다. 각 인스턴스는 Marketo 인스턴스에서 고유해야 합니다.
    >
@@ -56,7 +56,7 @@ ht-degree: 0%
    >
    >* 테스트 웨비나를 만드는 경우 시작 시간 전에 삭제하여 해당 웨비나에 대한 라이센스가 사용되지 않도록 해야 합니다.
 
-1. 웨비나의 날짜/시간을 예약하고 **만들기**&#x200B;를 클릭합니다.
+1. 웨비나의 날짜/시간을 예약하고, 시간대(원하는 경우)를 변경하고, 최대 대상 크기를 설정합니다. 완료되면 **만들기**&#x200B;를 클릭합니다.
 
    ![](assets/create-an-interactive-webinar-7.png)
 
