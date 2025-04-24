@@ -4,18 +4,41 @@ title: Demandbase
 feature: Dynamic Chat
 hide: true
 hidefromtoc: true
-source-git-commit: b97888aba47d98e26f9a7c6afb7d7fc60a3eb31b
+exl-id: 2623eef2-0b15-4821-a23e-12eed613d6b6
+source-git-commit: 4b8ad353dac509ab901cb6672a649f85d8a6f150
 workflow-type: tm+mt
-source-wordcount: '74'
+source-wordcount: '161'
 ht-degree: 2%
 
 ---
 
 # Demandbase {#demandbase}
 
-Demandbase 사용자는 대화 상자 타겟팅, 조건부 브랜딩 및 Dynamic Chat 지정 라우팅에 Demandbase 개인 속성을 사용할 수 있습니다.
+Demandbase 사용자는 Dynamic Chat에서 대화 상자 타겟팅, 조건부 브랜딩 및 사용자 지정 라우팅에 Demandbase 개인 속성을 사용할 수 있습니다.
 
-**통합 기능**
+## Dynamic Chat용 API 키 액세스 {#access-the-api-key-for-dynamic-chat}
+
+아래 단계는 Demandbase 계정에서 _수행해야 합니다_.
+
+1. Demandbase에서 _설정_ 아이콘을 클릭합니다.
+
+1. _통합_&#x200B;에서 **계정 커넥터**&#x200B;를 선택합니다.
+
+1. **+ 새로 만들기** 단추를 클릭합니다.
+
+1. _통합 이름_ 드롭다운에서 **Adobe Dynamic Chat**&#x200B;을 선택합니다.
+
+1. **서버측** 라디오 단추를 선택하십시오.
+
+1. **만들기**&#x200B;를 클릭합니다.
+
+1. _복사_ 아이콘을 사용하여 페이지 하단에 있는 API 토큰 문자열을 복사합니다.
+
+>[!NOTE]
+>
+>자세한 내용은 Demandbase 도움말 사이트에서 [데이터를 통합(계정 커넥터)으로 보내도록 Demandbase 설정](https://support.demandbase.com/hc/en-us/articles/360057169531-Set-Up-Demandbase-to-Send-Data-to-an-Integration-Account-Connector){target="_blank"}을 참조하십시오.
+
+## 통합 기능 {#integration-features}
 
 대화 상자 또는 대화 플로우를 만드는 동안 기본 및 사용자 지정 속성 외에 Demandbase 속성을 기준으로 대상을 타기팅합니다.
 
