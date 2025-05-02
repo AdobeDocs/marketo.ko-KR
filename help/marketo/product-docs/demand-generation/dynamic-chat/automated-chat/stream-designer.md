@@ -3,9 +3,9 @@ description: Stream Designer - Marketo 문서 - 제품 설명서
 title: 스트림 디자이너
 feature: Dynamic Chat
 exl-id: 310b1dff-dd93-48a6-85c2-64c58494ce48
-source-git-commit: d8c6ff5b54b9cee26456ec7539168a5ee0c8190f
+source-git-commit: d73ff37236abbd0d97631ad66b8eb34473650554
 workflow-type: tm+mt
-source-wordcount: '1250'
+source-wordcount: '1225'
 ht-degree: 2%
 
 ---
@@ -25,7 +25,7 @@ ht-degree: 2%
 <table>
  <tr>
   <td style="width:25%"><strong>메시지</strong></td>
-  <td>응답이 필요하지 않은 명령문을 만들고자 할 때 사용합니다(예: "안녕하세요! 모든 품목은 오늘 25% 할인 코드 SAVE25").
+  <td style="width:75%">응답이 필요하지 않은 명령문을 만들고자 할 때 사용합니다(예: "안녕하세요! 모든 품목은 오늘 25% 할인 코드 SAVE25").
 </td>
  </tr>
  <tr>
@@ -34,7 +34,7 @@ ht-degree: 2%
  </tr>
  <tr>
   <td style="width:25%"><strong>문서</strong></td>
-  <td>대화 상자에 PDF 문서를 포함하고 방문자의 문서 참여 활동(문서를 다운로드한 경우 본 페이지 수 및/또는 사용된 검색어)을 추적할 수 있습니다.</td>
+  <td>대화 상자에 PDF 문서를 임베드하고 방문자의 문서 참여 활동(문서가 다운로드된 경우 본 페이지 수 및/또는 사용된 검색어)을 추적할 수 있습니다.</td>
  </tr>
  <tr>
   <td style="width:25%"><strong>정보 캡처</strong></td>
@@ -66,7 +66,7 @@ ht-degree: 2%
  </tr>
  <tr>
   <td style="width:25%"><strong>조건부 분기</strong></td>
-  <td>다양한 조건을 기반으로 대화 상자 흐름에서 분기를 만듭니다. Marketo Engage의 리드 및 회사 속성에 따라 동일한 대화 상자에서 다른 사람에게 다른 컨텐츠를 제공합니다.</td>
+  <td>다양한 조건을 기반으로 대화 상자 흐름에서 분기를 만듭니다. Marketo Engage의 리드 및 회사 속성에 따라 동일한 대화 상자에서 다른 사람에게 다른 콘텐츠를 제공합니다.</td>
  </tr>
  <tr>
   <td style="width:25%"><strong>대화 흐름</strong></td>
@@ -105,15 +105,15 @@ ht-degree: 2%
 
 대화 상자 또는 [대화형 Forms](/help/marketo/product-docs/demand-generation/dynamic-chat/automated-chat/conversational-flow-overview.md){target="_blank"}에 대한 스트림을 만들 수 있습니다. 이 예제에서는 대화 상자에 대해 하나를 만들겠습니다.
 
-1. [대화 상자를 만든](/help/marketo/product-docs/demand-generation/dynamic-chat/automated-chat/create-a-dialogue.md){target="_blank"}후 **[!UICONTROL Designer 스트리밍]** 탭을 클릭합니다.
+1. [대화 상자를 만든](/help/marketo/product-docs/demand-generation/dynamic-chat/automated-chat/create-a-dialogue.md){target="_blank"}후 **[!UICONTROL Stream Designer]** 탭을 클릭합니다.
 
    ![](assets/stream-designer-6.png)
 
-1. [!UICONTROL 질문] 카드를 끌어서 놓습니다.
+1. _[!UICONTROL Question]_카드를 끌어서 놓습니다.
 
    ![](assets/stream-designer-7.png)
 
-1. [!UICONTROL 챗봇 응답]에서 원하는 방식으로 질문하십시오.
+1. [!UICONTROL Chatbot Response]에서 원하는 방식으로 질문하세요.
 
    ![](assets/stream-designer-8.png)
 
@@ -121,7 +121,7 @@ ht-degree: 2%
    >
    >채팅 방문자에 대한 경험을 사용자 지정할 수 있습니다!
    >
-   >* &quot;HTML 삽입&quot; 아이콘 `</>`을(를) 클릭하여 원하는 대화 모양과 느낌에 대한 HTML을 삽입하십시오.
+   >* &quot;HTML 삽입&quot; 아이콘 `</>`을(를) 클릭하여 원하는 대화의 모양과 느낌을 제공하기 위해 고유한 HTML을 삽입합니다.
    >
    >* 알려진 채팅 방문자에 대해 토큰을 사용하여 환경을 개인화합니다(예: `{{lead.leadFirstName:""}}` 님, 안녕하세요). 중괄호 아이콘 `{}`을(를) 클릭하고 선택합니다. 익명 방문자에게 일반적인 항목을 표시하려면 따옴표 사이에 기본값을 추가하십시오(예: `{{lead.leadFirstName:"there"}}` 님, 안녕하세요).
 
@@ -129,51 +129,51 @@ ht-degree: 2%
    >
    >Poke는 기본적으로 on으로 설정되어 있으며, 방문자가 채팅 아이콘을 클릭하여 보지 않아도 채팅 아이콘 옆에 열린 질문을 표시합니다. Poke는 대화의 첫 번째 카드에서만 사용할 수 있습니다.
 
-1. 사용자 응답을 입력하고 **[!UICONTROL 저장]**&#x200B;을 클릭합니다.
+1. 사용자 응답을 입력하고 **[!UICONTROL Save]**&#x200B;을(를) 클릭합니다.
 
    ![](assets/stream-designer-9.png)
 
    >[!NOTE]
    >
-   >**[!UICONTROL 저장된 값 편집]**&#x200B;은(는) 질문 카드에서 매핑된 속성에 대해 챗봇의 방문자에게 표시되는 내용과 다른 값을 데이터베이스에 저장하려는 사용자를 위한 선택적 단계입니다(예: 방문자에게 &quot;검색 엔진 최적화&quot;가 표시되면 해당 값을 &quot;SEO&quot;로 저장함).
+   >**[!UICONTROL Edit Stored Values]**&#x200B;은(는) 질문 카드에서 매핑된 속성을 위해 챗봇의 방문자에게 표시되는 내용과 다른 값을 데이터베이스에 저장하려는 사용자를 위한 선택적 단계입니다(예: 방문자에게 &quot;검색 엔진 최적화&quot;가 표시되고 해당 값을 &quot;SEO&quot;로 저장함).
 
-1. &quot;예&quot;의 경우 약속을 예약하려고 하므로 해당 옵션 아래에 약속 스케줄러 카드로 끌어서 놓습니다.
+1. &quot;예&quot;의 경우 모임을 예약하려고 하므로 해당 옵션 아래에 _모임 예약_ 카드 위로 끌어서 놓습니다.
 
    ![](assets/stream-designer-10.png)
 
-1. 오른쪽 열에서 **[!UICONTROL 저장]**&#x200B;을 클릭합니다.
+1. 오른쪽 열에서 **[!UICONTROL Save]**&#x200B;을(를) 클릭합니다.
 
    ![](assets/stream-designer-11.png)
 
-1. 목표이므로 약속 스케줄러 아래에 있는 [!UICONTROL 목표] 카드를 끌어 놓으십시오.
+1. 목표이므로 약속 스케줄러 아래에 있는 [!UICONTROL Goal] 카드를 끌어서 놓습니다.
 
    ![](assets/stream-designer-12.png)
 
-1. 목표의 이름을 지정하거나 기존 목표를 선택하고 **[!UICONTROL 저장]**&#x200B;을 클릭합니다.
+1. 목표의 이름을 지정하거나 기존 목표를 선택하고 **[!UICONTROL Save]**&#x200B;을(를) 클릭합니다.
 
    ![](assets/stream-designer-13.png)
 
-1. &quot;아니요&quot;의 경우 메일 그룹에 가입할 것인지 확인하고 싶으므로 해당 옵션 아래에 다른 [!UICONTROL 질문] 카드로 드래그하세요.
+1. &quot;아니요&quot;의 경우 메일 그룹에 가입할 것인지 확인하고 싶으므로 해당 옵션 아래에 다른 [!UICONTROL Question] 카드를 끌어 놓습니다.
 
    ![](assets/stream-designer-14.png)
 
-1. 응답을 입력하고 방문자에 대한 응답 선택 사항을 추가합니다. 완료되면 **[!UICONTROL 저장]**&#x200B;을 클릭합니다.
+1. 응답을 입력하고 방문자에 대한 응답 선택 사항을 추가합니다. 완료되면 **[!UICONTROL Save]**&#x200B;을(를) 클릭합니다.
 
    ![](assets/stream-designer-15.png)
 
    >[!NOTE]
    >
-   >**[!UICONTROL 응답 추가]**&#x200B;를 클릭하여 응답을 더 추가할 수 있습니다.
+   >**[!UICONTROL Add Response]**&#x200B;을(를) 클릭하여 응답을 더 추가할 수 있습니다.
 
 1. &quot;예&quot; 응답 아래에서 방문자의 이메일을 수집할 수 있도록 정보 캡처 카드 위로 드래그합니다.
 
    ![](assets/stream-designer-16.png)
 
-1. **[!UICONTROL 유형]** 드롭다운을 클릭하고 **[!UICONTROL 전자 메일]**&#x200B;을 선택합니다.
+1. **[!UICONTROL Type]** 드롭다운을 클릭하고 **[!UICONTROL Email]**&#x200B;을(를) 선택합니다.
 
    ![](assets/stream-designer-17.png)
 
-1. 챗봇 메시지 및 자리 표시자를 입력합니다. 특성이 Marketo Engage의 적절한 필드에 매핑되어 있는지 확인하고 **[!UICONTROL 저장]**&#x200B;을 클릭합니다.
+1. 챗봇 메시지 및 자리 표시자를 입력합니다. 특성이 Marketo Engage의 적절한 필드에 매핑되어 있는지 확인하고 **[!UICONTROL Save]**&#x200B;을(를) 클릭합니다.
 
    ![](assets/stream-designer-18.png)
 
@@ -196,11 +196,11 @@ ht-degree: 2%
     </tr>
    </table>
 
-1. 전자 메일 수집이 목표이므로 [!UICONTROL 목표] 카드를 정보 캡처 아래에 끌어 놓으십시오.
+1. 전자 메일 수집이 목표이므로 [!UICONTROL Goal] 카드를 정보 캡처 아래에 끌어 놓으십시오.
 
    ![](assets/stream-designer-19.png)
 
-1. 목표의 이름을 지정하거나 기존 목표를 선택하고 **[!UICONTROL 저장]**&#x200B;을 클릭합니다.
+1. 목표의 이름을 지정하거나 기존 목표를 선택하고 **[!UICONTROL Save]**&#x200B;을(를) 클릭합니다.
 
    ![](assets/stream-designer-20.png)
 
@@ -208,11 +208,11 @@ ht-degree: 2%
 
    ![](assets/stream-designer-21.png)
 
-1. 이 예제에서는 새 문서를 만듭니다. 이름을 지정하고 이미 호스팅된 PDF의 URL을 입력한 다음 **[!UICONTROL 저장]**&#x200B;을 클릭합니다.
+1. 이 예제에서는 새 문서를 만듭니다. 이름을 지정하고 이미 호스팅한 PDF의 URL을 입력한 다음 **[!UICONTROL Save]**&#x200B;을(를) 클릭합니다.
 
    ![](assets/stream-designer-22.png)
 
-1. 대화 상자를 미리 보려면 **[!UICONTROL 미리 보기]** 전환을 선택하십시오.
+1. 대화 상자를 미리 보려면 **[!UICONTROL Preview]** 전환을 선택하십시오.
 
    ![](assets/stream-designer-23.png)
 
@@ -222,7 +222,7 @@ ht-degree: 2%
 
 >[!NOTE]
 >
->[!UICONTROL Publish]을(를) 클릭하기 전에 [대상 URL](/help/marketo/product-docs/demand-generation/dynamic-chat/automated-chat/audience-criteria.md#target){target="_blank"}을(를) 입력했는지 확인하세요.
+>[!UICONTROL Publish]을(를) 클릭하기 전에 [대상 URL](/help/marketo/product-docs/demand-generation/dynamic-chat/automated-chat/audience-criteria.md#target){target="_blank"}을(를) 입력했는지 확인하십시오.
 
 >[!MORELIKETHIS]
 >

@@ -2,12 +2,10 @@
 description: Demandbase - Marketo 문서 - 제품 설명서
 title: Demandbase
 feature: Dynamic Chat
-hide: true
-hidefromtoc: true
 exl-id: 2623eef2-0b15-4821-a23e-12eed613d6b6
-source-git-commit: 4b8ad353dac509ab901cb6672a649f85d8a6f150
+source-git-commit: d73ff37236abbd0d97631ad66b8eb34473650554
 workflow-type: tm+mt
-source-wordcount: '161'
+source-wordcount: '179'
 ht-degree: 2%
 
 ---
@@ -33,6 +31,8 @@ Demandbase 사용자는 Dynamic Chat에서 대화 상자 타겟팅, 조건부 �
 1. **만들기**&#x200B;를 클릭합니다.
 
 1. _복사_ 아이콘을 사용하여 페이지 하단에 있는 API 토큰 문자열을 복사합니다.
+
+1. [Marketo 지원](https://nation.marketo.com/t5/support/ct-p/Support)을 사용하여 티켓을 제출하고 API 토큰 문자열을 제공하여 Demandbase 통합을 활성화하십시오.
 
 >[!NOTE]
 >
