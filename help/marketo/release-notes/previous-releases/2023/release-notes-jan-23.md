@@ -88,7 +88,7 @@ ht-degree: 3%
   </tr>
   <tr> 
    <td>배송됨</td>
-   <td><a href="https://experienceleague.adobe.com/docs/experience-platform/destinations/catalog/adobe/marketo-measure-ultimate.html">Marketo Measure Ultimate</a></td>
+   <td><a href="https://experienceleague.adobe.com/docs/experience-platform/destinations/catalog/adobe/marketo-measure-ultimate.html?lang=ko">Marketo Measure Ultimate</a></td>
   </tr>
   </tbody>
 </table>

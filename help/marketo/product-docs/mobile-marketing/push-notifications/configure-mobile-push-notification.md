@@ -81,7 +81,7 @@ ht-degree: 0%
 
 ![](assets/configure-mobile-push-notification-10.png)
 
-즉, 앱의 딥링크 구조는 위의 예와 다를 수 있습니다. 개발자는 딥링크 URI를 정의하는 데 여러 가지 옵션을 사용할 수 있으므로 개발자에게 사용하려는 페이지의 URI(링크)를 보내도록 요청하십시오. 이렇게 하면 푸시 메시지에 입력한 URI가 올바른 위치를 가리킵니다. 개발자는 [여기에서 추가 정보를 찾을 수 있습니다](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/mobile/enabling-deep-links-in-your-app).
+즉, 앱의 딥링크 구조는 위의 예와 다를 수 있습니다. 개발자는 딥링크 URI를 정의하는 데 여러 가지 옵션을 사용할 수 있으므로 개발자에게 사용하려는 페이지의 URI(링크)를 보내도록 요청하십시오. 이렇게 하면 푸시 메시지에 입력한 URI가 올바른 위치를 가리킵니다. 개발자는 [여기에서 추가 정보를 찾을 수 있습니다](https://experienceleague.adobe.com/ko/docs/marketo-developer/marketo/mobile/enabling-deep-links-in-your-app).
 
 >[!MORELIKETHIS]
 >

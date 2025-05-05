@@ -100,7 +100,7 @@ ht-degree: 0%
 
    >[!NOTE]
    >
-   >Experience Platform의 속성을 Marketo Engage에서 조직이 액세스할 수 있는 속성에 매핑할 수 있습니다. [API 요청 설명](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/rest/lead-database/lead-database#describe){target="_blank"}을(를) 사용하여 조직에서 액세스할 수 있는 특성 필드를 검색합니다.
+   >Experience Platform의 속성을 Marketo Engage에서 조직이 액세스할 수 있는 속성에 매핑할 수 있습니다. [API 요청 설명](https://experienceleague.adobe.com/ko/docs/marketo-developer/marketo/rest/lead-database/lead-database#describe){target="_blank"}을(를) 사용하여 조직에서 액세스할 수 있는 특성 필드를 검색합니다.
 
 1. **[!UICONTROL 새 매핑 추가]**&#x200B;를 다시 클릭하고 15단계를 두 번 반복하여 **[!UICONTROL lastName]**&#x200B;을 선택한 다음 **[!UICONTROL companyName]**&#x200B;을 선택하여 성 및 회사 이름을 매핑합니다.
 

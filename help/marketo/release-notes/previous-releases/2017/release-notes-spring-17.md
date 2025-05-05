@@ -35,7 +35,7 @@ Sales Insight에서 오래된 템플릿을 정리하던 시대는 지났습니�
 
 ![](assets/four-281-29.png)
 
-## [사람 및 활동에 대한 API 일괄 추출](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/rest/bulk-extract/bulk-extract) {#bulk-extract-apis-for-people-and-activities}
+## [사람 및 활동에 대한 API 일괄 추출](https://experienceleague.adobe.com/ko/docs/marketo-developer/marketo/rest/bulk-extract/bulk-extract) {#bulk-extract-apis-for-people-and-activities}
 
 대량의 개인 및 활동 데이터를 Marketo에서 외부 시스템으로 쉽게 전송할 수 있습니다.
 
@@ -49,7 +49,7 @@ Sales Insight에서 오래된 템플릿을 정리하던 시대는 지났습니�
 
 명명 계정 점수는 크게 다를 수 있습니다. 이제 Marketo ABM에서 각 점수에 대해 백분위수를 자동으로 계산하므로 각 명명 계정이 다른 명명 계정 중 어디에 속하는지 한 눈에 볼 수 있습니다.
 
-**[ABM 계정 목록 API](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/rest/lead-database/named-account-lists)**
+**[ABM 계정 목록 API](https://experienceleague.adobe.com/ko/docs/marketo-developer/marketo/rest/lead-database/named-account-lists)**
 
 명명된 계정 목록에 대한 향상된 API 지원과 함께 풍부하고 강력한 ABM 파트너 통합을 활용하십시오.
 

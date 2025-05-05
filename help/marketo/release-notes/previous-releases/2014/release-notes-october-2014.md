@@ -30,7 +30,7 @@ API를 사용하여 잠재 고객에 대한 새 활동 또는 변경 사항을 �
 * 활동 유형 가져오기
 * 페이징 토큰 가져오기
 
-전체 세부 정보는 [https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/rest/rest-api](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/rest/rest-api)에 릴리스된 후에 사용할 수 있습니다.
+전체 세부 정보는 [https://experienceleague.adobe.com/ko/docs/marketo-developer/marketo/rest/rest-api](https://experienceleague.adobe.com/ko/docs/marketo-developer/marketo/rest/rest-api)에 릴리스된 후에 사용할 수 있습니다.
 
 ## MSI - Microsoft Dynamics용 Marketo 이메일 보내기 {#msi-send-marketo-email-for-microsoft-dynamics}
 
@@ -70,4 +70,4 @@ Dynamics에서 영업 기회 주주 데이터를 동기화합니다. 또한 &quo
 * 다음에 관심이 있는 제품
 * 본 RTP 캠페인
 
-자세한 내용을 보려면 [https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/javascriptapi/rich-media-recommendation](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/javascriptapi/rich-media-recommendation)을(를) 방문하십시오.
+자세한 내용을 보려면 [https://experienceleague.adobe.com/ko/docs/marketo-developer/marketo/javascriptapi/rich-media-recommendation](https://experienceleague.adobe.com/ko/docs/marketo-developer/marketo/javascriptapi/rich-media-recommendation)을(를) 방문하십시오.

@@ -40,11 +40,11 @@ Adobe Marketo Engage 지원 프로세스에 대한 향후 변경 사항에 대�
 
 ## 추가 리소스 {#additional-resources}
 
-* [Adobe Admin Console을 사용하여 전체 조직에서 Adobe 권한을 관리하는 방법](https://helpx.adobe.com/enterprise/using/admin-roles.html){target="_blank"}을 알아보세요.
+* [Adobe Admin Console을 사용하여 전체 조직에서 Adobe 권한을 관리하는 방법](https://helpx.adobe.com/kr/enterprise/using/admin-roles.html){target="_blank"}을 알아보세요.
 
 * Adobe ID [을(를) 사용하여 Marketo Engage에 로그인하는 방법에 대한 자세한 내용은 여기](/help/marketo/product-docs/administration/marketo-with-adobe-identity/user-sign-in-with-adobe-id.md){target="_blank"}를 참조하십시오.
 
-* [Adobe Experience League](https://experienceleague.adobe.com/){target="_blank"}에 대해 자세히 알아보세요.
+* [Adobe Experience League](https://experienceleague.adobe.com/ko){target="_blank"}에 대해 자세히 알아보세요.
 
 ## 질문이 있습니까? {#still-have-questions}
 

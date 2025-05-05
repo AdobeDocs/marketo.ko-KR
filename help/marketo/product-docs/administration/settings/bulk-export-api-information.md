@@ -12,7 +12,7 @@ ht-degree: 0%
 
 # 일괄 내보내기 API 정보 {#bulk-export-api-information}
 
-지난 7일 동안 Marketo Engage 인스턴스에 의해 [대량 추출 API](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/rest/bulk-extract/bulk-extract){target="_blank"} 용량이 얼마나 사용되었는지 확인하는 방법을 알아봅니다.
+지난 7일 동안 Marketo Engage 인스턴스에 의해 [대량 추출 API](https://experienceleague.adobe.com/ko/docs/marketo-developer/marketo/rest/bulk-extract/bulk-extract){target="_blank"} 용량이 얼마나 사용되었는지 확인하는 방법을 알아봅니다.
 
 >[!NOTE]
 >

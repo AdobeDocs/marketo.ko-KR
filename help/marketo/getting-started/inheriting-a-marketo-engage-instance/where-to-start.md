@@ -66,4 +66,4 @@ Marketo Champions의 입력을 사용하여 Adobe은 몇 가지 Marketo Engage �
 
 * Marketo Engage 인스턴스를 최대한 활용하는 데 도움이 필요하면 **[Adobe Professional Services](https://business.adobe.com/products/marketo/services-support.html){target="_blank"}**&#x200B;에 문의하세요.
 
-* Marketo Engage의 다양한 측면에서 **[큐레이션된 튜토리얼 비디오](https://experienceleague.adobe.com/docs/marketo-learn/tutorials/overview.html){target="_blank"}**&#x200B;를 시청하십시오.
+* Marketo Engage의 다양한 측면에서 **[큐레이션된 튜토리얼 비디오](https://experienceleague.adobe.com/docs/marketo-learn/tutorials/overview.html?lang=ko){target="_blank"}**&#x200B;를 시청하십시오.

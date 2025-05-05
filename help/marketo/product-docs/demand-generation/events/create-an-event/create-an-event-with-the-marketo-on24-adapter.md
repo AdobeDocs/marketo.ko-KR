@@ -22,7 +22,7 @@ Marketo에서 이벤트를 만드는 데 권장되는 구성 요소 및 시퀀�
 
 >[!NOTE]
 >
->Marketo API에 대한 자세한 내용은 [Marketo API 설명서](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/rest/rest-api){target="_blank"}를 참조하십시오.
+>Marketo API에 대한 자세한 내용은 [Marketo API 설명서](https://experienceleague.adobe.com/ko/docs/marketo-developer/marketo/rest/rest-api){target="_blank"}를 참조하십시오.
 
 ## 필요 조건 {#prerequisites}
 

@@ -56,7 +56,7 @@ ht-degree: 0%
 
    >[!NOTE]
    >
-   >트리거 필드는 [전자 메일 스크립팅](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/email-scripting)을 사용하는 경우에만 적용할 수 있습니다.
+   >트리거 필드는 [전자 메일 스크립팅](https://experienceleague.adobe.com/ko/docs/marketo-developer/marketo/email-scripting)을 사용하는 경우에만 적용할 수 있습니다.
 
 ## 세그먼트를 기반으로 샘플 이메일 보내기 {#send-a-sample-email-based-on-a-segment}
 

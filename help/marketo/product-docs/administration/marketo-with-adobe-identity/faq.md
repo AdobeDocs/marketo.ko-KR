@@ -38,7 +38,7 @@ engage-xx.marketo.com 도메인 _will_&#x200B;의 Marketo Engage 자산에 대�
 
 **SSO에서 작동합니까?**
 
-예. Adobe IMS와의 통합은 범용 ID 사용자 및 SSO를 지원합니다. SSO는 이제 Adobe IMS에 의해 구동되며 Adobe Admin Console의 조직 수준에서 설정됩니다. 그러나 Marketo Engage IdP 시작 지원은 Adobe의 SP 시작 지원과 비교하여 다릅니다([자세히 알아보기](https://helpx.adobe.com/kr/enterprise/using/set-up-identity.html){target="_blank"}). Admin Console으로 마이그레이션한 후 SSO 차이에 대한 도움이 필요한 경우 [Adobe 고객 지원 센터](https://helpx.adobe.com/contact.html){target="_blank"}에 문의하십시오.
+예. Adobe IMS와의 통합은 범용 ID 사용자 및 SSO를 지원합니다. SSO는 이제 Adobe IMS에 의해 구동되며 Adobe Admin Console의 조직 수준에서 설정됩니다. 그러나 Marketo Engage IdP 시작 지원은 Adobe의 SP 시작 지원과 비교하여 다릅니다([자세히 알아보기](https://helpx.adobe.com/kr/enterprise/using/set-up-identity.html){target="_blank"}). Admin Console으로 마이그레이션한 후 SSO 차이에 대한 도움이 필요한 경우 [Adobe 고객 지원 센터](https://helpx.adobe.com/kr/contact.html){target="_blank"}에 문의하십시오.
 
 **Adobe 제품 관리자와 Marketo Engage 관리자의 차이점은 무엇입니까?**
 
@@ -73,7 +73,7 @@ Ultimate Success이 있는 경우 Admin Console 마이그레이션 화이트 글
 
 **IMS 통합 구독의 Marketo 관리자로서 Admin Console에 액세스할 수 없습니다. 액세스 권한을 얻으려면 어떻게 해야 합니까?**
 
-조직의 Adobe에 액세스할 수 있는 모든 Admin Console 시스템 또는 제품 관리자에게 액세스 권한을 부여할 수 있습니다. 조직의 콘솔 관리자 권한이 있는 사용자를 모를 경우 [Adobe 고객 지원 센터](https://helpx.adobe.com/contact.html){target="_blank"}에 문의하십시오.
+조직의 Adobe에 액세스할 수 있는 모든 Admin Console 시스템 또는 제품 관리자에게 액세스 권한을 부여할 수 있습니다. 조직의 콘솔 관리자 권한이 있는 사용자를 모를 경우 [Adobe 고객 지원 센터](https://helpx.adobe.com/kr/contact.html){target="_blank"}에 문의하십시오.
 
 **관리자가 Marketo [!DNL Sales Connect]에 사용자를 추가하는 방법은 무엇입니까?**
 
@@ -81,7 +81,7 @@ Ultimate Success이 있는 경우 Admin Console 마이그레이션 화이트 글
 
 **Adobe Admin Console에 대한 자세한 내용은 어디에서 확인할 수 있습니까?**
 
-[https://helpx.adobe.com/enterprise/admin-guide.html](https://helpx.adobe.com/kr/enterprise/admin-guide.html){target="_blank"}.
+[https://helpx.adobe.com/kr/enterprise/admin-guide.html](https://helpx.adobe.com/kr/enterprise/admin-guide.html){target="_blank"}.
 
 **내 계정에 대한 사용자 계정을 변경하기 위해 Marketo의 관리 섹션으로 계속 이동합니까?**
 
@@ -141,7 +141,7 @@ Adobe IMS는 현재 Marketo의 장치 인증 기능과 같은 기능을 지원�
 
 **세션 시간 초과를 방지하려면 어떻게 해야 합니까?**
 
-[고급 설정](https://helpx.adobe.com/enterprise/using/authentication-settings.html#advanced-settings){target="_blank"}에서 원하는 최대 세션 수명을 사용자 지정할 수 있습니다(시스템 관리자 권한 필요). 제품 마이그레이션 후, 사용자 마이그레이션 전에 이 설정을 설정하는 것이 좋습니다.
+[고급 설정](https://helpx.adobe.com/kr/enterprise/using/authentication-settings.html#advanced-settings){target="_blank"}에서 원하는 최대 세션 수명을 사용자 지정할 수 있습니다(시스템 관리자 권한 필요). 제품 마이그레이션 후, 사용자 마이그레이션 전에 이 설정을 설정하는 것이 좋습니다.
 
 **이제 Marketo Engage에 액세스하려면 Experience Cloud으로 이동해야 합니다. 이 흐름을 간소화할 방법이 있습니까?**
 

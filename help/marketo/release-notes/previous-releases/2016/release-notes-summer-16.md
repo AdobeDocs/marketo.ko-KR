@@ -104,7 +104,7 @@ Outlook용 Sales Insight Plugin을 설치하려면 영업 팀의 각 직원이 �
 
 이전에 v1.0 이메일 및 템플릿과만 호환되는 기존 에셋 API가 이제 v2.0 이메일 에셋에 대해 활성화됩니다.
 
-## [Marketo 개발자 사이트](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/home) {#marketo-developers-site}
+## [Marketo 개발자 사이트](https://experienceleague.adobe.com/ko/docs/marketo-developer/marketo/home) {#marketo-developers-site}
 
 새로운 기능과 향상된 기능을 제공합니다.
 

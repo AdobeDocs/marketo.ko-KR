@@ -57,7 +57,7 @@ ht-degree: 0%
 
 ## Marketo Sky {#marketo-sky}
 
-* [이미지 편집](https://experienceleague.adobe.com/docs/marketo/sky/design-studio/marketo-image-editor.html?lang=en#design-studio): Marketo Engage에서 나가지 않고 Adobe의 편집 기능에 액세스합니다. 이 새로운 기능을 사용하면 Design Studio에서 직접 텍스트를 향상, 자르기 및 추가하는 작업을 쉽게 수행할 수 있습니다.
+* [이미지 편집](https://experienceleague.adobe.com/docs/marketo/sky/design-studio/marketo-image-editor.html?lang=ko#design-studio): Marketo Engage에서 나가지 않고 Adobe의 편집 기능에 액세스합니다. 이 새로운 기능을 사용하면 Design Studio에서 직접 텍스트를 향상, 자르기 및 추가하는 작업을 쉽게 수행할 수 있습니다.
 
 ## Sales Insight {#sales-insight}
 

@@ -81,7 +81,7 @@ ht-degree: 0%
 
 이제 이미지 URL 및 메타데이터가 콘텐츠 자동 검색 프로세스에서 사용됩니다.
 
-## [SDK 개선 사항](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/mobile/mobile) {#sdk-enhancements}
+## [SDK 개선 사항](https://experienceleague.adobe.com/ko/docs/marketo-developer/marketo/mobile/mobile) {#sdk-enhancements}
 
 이제 개발자는 푸시 토큰을 제거할 수 있는 새로운 SDK API 호출의 추가로 푸시 알림 전달을 추가로 제어할 수 있습니다.
 

@@ -68,7 +68,7 @@ ht-degree: 1%
 * 프로그램 멤버 개체에는 최대 20개의 사용자 지정 필드가 있을 수 있습니다. 이들 필드는 모든 프로그램에서 사용할 수 있습니다.
 * 프로그램의 구성원을 제거할 때 프로그램 구성원 사용자 지정 필드에 데이터가 있으면 해당 필드에서 데이터가 스크러빙됩니다.
 * 데이터를 보려면 프로그램에서 멤버 탭을 클릭하고 해당 필드를 포함하는 사용자 지정 보기를 만듭니다.
-* [list](/help/marketo/getting-started/quick-wins/import-a-list-of-people.md){target="_blank"} 및 [API](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/home){target="_blank"}을(를) 통한 가져오기 및 내보내기가 지원됩니다. 내보내기는 정적 목록이 아니라 프로그램 멤버 목록에서만 작동합니다.
+* [list](/help/marketo/getting-started/quick-wins/import-a-list-of-people.md){target="_blank"} 및 [API](https://experienceleague.adobe.com/ko/docs/marketo-developer/marketo/home){target="_blank"}을(를) 통한 가져오기 및 내보내기가 지원됩니다. 내보내기는 정적 목록이 아니라 프로그램 멤버 목록에서만 작동합니다.
 * 두 사람을 병합하면 우승자의 프로그램 멤버 사용자 정의 필드 데이터가 사용됩니다. 하지만 승자에게 없는 것이 있으면 패자의 값이 쓰인다.
 * 프로그램 구성원 정보 필드에는 유형 변경이 허용되지 않습니다.
 * &quot;포함&quot; 스마트 목록 제약 조건은 프로그램 멤버 사용자 정의 필드에 지원되지 않습니다.

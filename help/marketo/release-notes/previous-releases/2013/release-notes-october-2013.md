@@ -21,7 +21,7 @@ ht-degree: 0%
 
 ## developers.marketo.com {#developers-marketo-com}
 
-[Developer.adobe.com](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/home)은(는) Marketo에 통합을 빌드하려는 개발자용입니다. Munchkin JavaScript API, SOAP API 코드 예, 웹후크 및 이메일 스크립팅을 비롯한 다양한 통합 옵션을 참조할 수 있습니다. Java SDK는 [GitHub](https://github.com/Marketo/SOAP-API-Java-Client)에서도 사용할 수 있습니다.
+[Developer.adobe.com](https://experienceleague.adobe.com/ko/docs/marketo-developer/marketo/home)은(는) Marketo에 통합을 빌드하려는 개발자용입니다. Munchkin JavaScript API, SOAP API 코드 예, 웹후크 및 이메일 스크립팅을 비롯한 다양한 통합 옵션을 참조할 수 있습니다. Java SDK는 [GitHub](https://github.com/Marketo/SOAP-API-Java-Client)에서도 사용할 수 있습니다.
 
 ## 업데이트된 BrightTALK 이벤트 어댑터 {#updated-brighttalk-event-adapter}
 

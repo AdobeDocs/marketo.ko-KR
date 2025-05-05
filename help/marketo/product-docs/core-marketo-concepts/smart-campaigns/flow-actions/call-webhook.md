@@ -23,7 +23,7 @@ Webhooks를 사용하면 서드파티 서비스와 상호 작용할 수 있습�
 
 >[!NOTE]
 >
->[Webhooks](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/webhooks/webhooks){target="_blank"}이(가) 귀하를 위해 할 수 있는 많은 흥미로운 작업에 대해 알아봅니다.
+>[Webhooks](https://experienceleague.adobe.com/ko/docs/marketo-developer/marketo/webhooks/webhooks){target="_blank"}이(가) 귀하를 위해 할 수 있는 많은 흥미로운 작업에 대해 알아봅니다.
 
 1. 드롭다운에서 Webhook을 선택합니다.
 

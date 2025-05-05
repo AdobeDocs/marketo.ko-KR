@@ -74,7 +74,7 @@ ht-degree: 1%
   </tr>
   <tr> 
    <td>롤아웃 시작됨</td>
-   <td><a href="https://experienceleague.adobe.com/docs/marketo/using/product-docs/demand-generation/events/interactive-webinars/interactive-webinars-overview.html">대화형 웨비나 개요</a></td>
+   <td><a href="https://experienceleague.adobe.com/docs/marketo/using/product-docs/demand-generation/events/interactive-webinars/interactive-webinars-overview.html?lang=ko">대화형 웨비나 개요</a></td>
   </tr>
   </tbody>
 </table>

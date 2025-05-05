@@ -28,7 +28,7 @@ ht-degree: 0%
 * [Privacy Service UI](https://privacyui.cloud.adobe.io/)를 통해. 설명서를 [여기](https://experienceleague.adobe.com/docs/experience-platform/privacy/ui/user-guide.html?lang=ko-KR){target="_blank"}에서 확인하세요.
 * Privacy Service API를 통해 설명서 [여기](https://developer.adobe.com/experience-platform-apis/references/privacy-service/){target="_blank"} 및 API 정보 [여기](https://developer.adobe.com/experience-platform-apis/){target="_blank"}를 참조하세요.
 
-[Privacy Service](https://experienceleague.adobe.com/docs/experience-platform/privacy/home.html){target="_blank"}은(는) 데이터 액세스 요청과 데이터 삭제, 이렇게 두 가지 유형의 요청을 지원합니다.
+[Privacy Service](https://experienceleague.adobe.com/docs/experience-platform/privacy/home.html?lang=ko){target="_blank"}은(는) 데이터 액세스 요청과 데이터 삭제, 이렇게 두 가지 유형의 요청을 지원합니다.
 
 액세스 및 삭제 요청을 만드는 방법을 살펴보겠습니다.
 

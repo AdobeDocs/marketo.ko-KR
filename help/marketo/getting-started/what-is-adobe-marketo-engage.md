@@ -55,7 +55,7 @@ Marketo Engage은 마케팅 목표를 달성하는 데 도움이 되는 다양�
 
 ## 일주일에 보낼 수 있는 총 이메일 수와 같이 제한을 포함하는 목록이 있습니까? {#list-of-limits}
 
-있습니다. 정적 제한(및 기타 매개 변수)은 이 문서에서 [요약되어 있습니다](https://helpx.adobe.com/legal/product-descriptions/adobe-marketo-engage---product-description.html#performance-guardrails){target="_blank"}.
+있습니다. 정적 제한(및 기타 매개 변수)은 이 문서에서 [요약되어 있습니다](https://helpx.adobe.com/kr/legal/product-descriptions/adobe-marketo-engage---product-description.html#performance-guardrails){target="_blank"}.
 
 ## Marketo은 내 데이터를 얼마나 오래 보관합니까? {#data-retention-policy}
 

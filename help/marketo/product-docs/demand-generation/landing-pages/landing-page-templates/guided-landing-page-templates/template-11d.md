@@ -13,7 +13,7 @@ ht-degree: 0%
 
 # 템플릿 11D {#template-11d}
 
-마우스 오른쪽 단추를 클릭하여 [템플릿 11D 다운로드](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-11d.html)
+마우스 오른쪽 단추를 클릭하여 [템플릿 11D 다운로드](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-11d.html?lang=ko)
 
 ![](assets/template-11d.png)
 
@@ -29,4 +29,4 @@ ht-degree: 0%
 
 **이 서식 파일을 다운로드하려면 아래를 마우스 오른쪽 단추로 클릭하세요.**
 
-[템플릿 11D.html](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-11d.html)
+[템플릿 11D.html](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-11d.html?lang=ko)

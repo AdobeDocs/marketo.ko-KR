@@ -60,4 +60,4 @@ Marketo에서 3회 시도 후 새 대상을 만들거나, 로그인하거나, �
 
 >[!NOTE]
 >
->오류 코드 중 일부는 [개발자 설명서](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/rest/error-codes)에 요약되어 있습니다.
+>오류 코드 중 일부는 [개발자 설명서](https://experienceleague.adobe.com/ko/docs/marketo-developer/marketo/rest/error-codes)에 요약되어 있습니다.

@@ -36,7 +36,7 @@ Audience Manager, B2B CDP Marketo 커넥터, [!DNL Dynamic Chat] 등과 같은 A
 
    ![](assets/set-up-adobe-experience-cloud-audience-sharing-3.png)
 
-1. Adobe IMS 조직 ID를 입력하고([여기](https://experienceleague.adobe.com/docs/control-panel/using/faq.html){target="_blank"}에서 찾는 방법 알아보기) **[!UICONTROL 확인]**&#x200B;을 클릭합니다.
+1. Adobe IMS 조직 ID를 입력하고([여기](https://experienceleague.adobe.com/docs/control-panel/using/faq.html?lang=ko){target="_blank"}에서 찾는 방법 알아보기) **[!UICONTROL 확인]**&#x200B;을 클릭합니다.
 
    ![](assets/set-up-adobe-experience-cloud-audience-sharing-4.png)
 

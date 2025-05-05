@@ -94,7 +94,7 @@ ht-degree: 1%
 
 **Adobe Analytics에 공유**
 
-* Adobe Audience Manager과 Adobe Analytics을 모두 소유하는 고객의 경우, 이 통합을 통해 대상을 Marketo에서 Adobe Analytics 보고서 세트로 공유할 수 있지만, 이를 활성화하기 위해 Adobe Audience Manager에서 수행해야 하는 몇 가지 추가 구성 단계가 있습니다. 설정 방법에 대한 자세한 내용은 [Adobe Audience Manager의 설명서](https://experienceleague.adobe.com/docs/analytics/integration/audience-analytics/mc-audiences-aam.html){target="_blank"}를 검토하십시오.
+* Adobe Audience Manager과 Adobe Analytics을 모두 소유하는 고객의 경우, 이 통합을 통해 대상을 Marketo에서 Adobe Analytics 보고서 세트로 공유할 수 있지만, 이를 활성화하기 위해 Adobe Audience Manager에서 수행해야 하는 몇 가지 추가 구성 단계가 있습니다. 설정 방법에 대한 자세한 내용은 [Adobe Audience Manager의 설명서](https://experienceleague.adobe.com/docs/analytics/integration/audience-analytics/mc-audiences-aam.html?lang=ko){target="_blank"}를 검토하십시오.
 
 * 목록이 비어 있거나 ECID 값을 가진 사용자가 없는 경우 Marketo Engage 외부에서 참조하도록 목록 이름이 푸시되지 않습니다.
 

@@ -105,7 +105,7 @@ Marketo을 통해 전송된 이메일에 수신자당 최대 5개의 CC 주소�
 
 Android용 SDK를 보다 유연하고 새로운 엔지니어링 기능이 포함된 보다 현대적이고 안정적이며 확장 가능한 프레임워크로 업데이트했습니다. 이제 Android 앱 개발자는 이 새로운 SDK를 사용하여 Google의 [Firebase Cloud Messaging](https://firebase.google.com/docs/cloud-messaging/)(FCM)을 직접 사용할 수 있습니다.
 
-* [개발자 지침]https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/mobile/installation#how-to-install-marketo-sdk-on-android)
+* [개발자 지침]https://experienceleague.adobe.com/ko/docs/marketo-developer/marketo/mobile/installation#how-to-install-marketo-sdk-on-android)
 
 >[!NOTE]
 >

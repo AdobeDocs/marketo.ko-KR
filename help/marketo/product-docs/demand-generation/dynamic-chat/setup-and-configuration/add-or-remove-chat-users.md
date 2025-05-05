@@ -109,4 +109,4 @@ ht-degree: 1%
 >[!MORELIKETHIS]
 >
 >* [Adobe Admin Console 사용자](https://helpx.adobe.com/kr/enterprise/using/users.html){target="_blank"}
->* [개별적으로 사용자 관리](https://helpx.adobe.com/enterprise/using/manage-users-individually.html){target="_blank"}
+>* [개별적으로 사용자 관리](https://helpx.adobe.com/kr/enterprise/using/manage-users-individually.html){target="_blank"}

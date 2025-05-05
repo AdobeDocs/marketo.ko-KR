@@ -13,7 +13,7 @@ ht-degree: 0%
 
 # 템플릿 20A {#template-20a}
 
-마우스 오른쪽 단추를 클릭하여 [템플릿 20A 다운로드](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-20a.html)
+마우스 오른쪽 단추를 클릭하여 [템플릿 20A 다운로드](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-20a.html?lang=ko)
 
 ![](assets/image2015-9-18-9-3a1-3a49.png)
 
@@ -28,4 +28,4 @@ ht-degree: 0%
 
 **이 서식 파일을 다운로드하려면 아래를 마우스 오른쪽 단추로 클릭하세요.**
 
-[템플릿 20A.html](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-20a.html)
+[템플릿 20A.html](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-20a.html?lang=ko)

@@ -37,7 +37,7 @@ Revenue Explorer에는 새로운 Sunburst 차트 유형과 함께 새로운 모�
 
 ## 새 자산 REST API {#new-asset-rest-apis}
 
-[새 자산 REST API](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/rest/assets/assets)
+[새 자산 REST API](https://experienceleague.adobe.com/ko/docs/marketo-developer/marketo/rest/assets/assets)
 
 이제 API를 통해 [전자 메일, 템플릿, 내 토큰, 파일 및 코드 조각을 만들고 편집할 수 있습니다](https://developer.adobe.com/marketo-apis/api/asset/)!
 

@@ -20,7 +20,7 @@ ht-degree: 0%
 
 Adobe ID에 온보딩된 구독의 경우 사용자 관리에 Adobe Admin Console이 사용됩니다. 단일 사인온과 같은 ID 관련 개념도 Admin Console에서 관리됩니다.
 
-* [Adobe Admin Console](https://helpx.adobe.com/enterprise/using/admin-console.html){target="_blank"}에 대한 자세한 정보를 찾으십시오.
+* [Adobe Admin Console](https://helpx.adobe.com/kr/enterprise/using/admin-console.html){target="_blank"}에 대한 자세한 정보를 찾으십시오.
 * [Marketo 구독과 관련된 Adobe 조직 설정](https://helpx.adobe.com/kr/enterprise/using/set-up-identity.html){target="_blank"}에 대한 자세한 내용을 확인하세요.
 
 >[!NOTE]

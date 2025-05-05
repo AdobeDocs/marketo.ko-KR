@@ -91,7 +91,7 @@ ht-degree: 1%
   <tr> 
    <td><strong>Marketo + Workfront 통합</strong>: 이제 Marketo과 Workfront을 보유한 사용자는 Workfront Fusion 템플릿을 사용하여 두 제품을 통합하고 새로운 자동화 워크플로를 잠금 해제하여 캠페인 실행을 간소화할 수 있습니다.</td> 
    <td>배송됨</td>
-   <td><a href="https://experienceleague.adobe.com/docs/blueprints-learn/architecture/b2b-activation/marketo-engage-and-workfront-integration-blueprint/review-and-approve-blueprint.html" target="_blank">블루프린트 검토 및 승인</a></td>
+   <td><a href="https://experienceleague.adobe.com/docs/blueprints-learn/architecture/b2b-activation/marketo-engage-and-workfront-integration-blueprint/review-and-approve-blueprint.html?lang=ko" target="_blank">블루프린트 검토 및 승인</a></td>
   </tr>
  </tbody> 
 </table>

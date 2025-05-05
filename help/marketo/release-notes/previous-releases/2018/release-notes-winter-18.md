@@ -87,7 +87,7 @@ Marketo의 최적화된 ContentAI 알고리즘을 통해 권장되는 콘텐츠�
 
 ## 통합 {#integration}
 
-**[Campaign API 활성화/비활성화](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/rest/assets/smart-campaigns)**
+**[Campaign API 활성화/비활성화](https://experienceleague.adobe.com/ko/docs/marketo-developer/marketo/rest/assets/smart-campaigns)**
 
 이 새 API를 사용하면 트리거 캠페인을 원격으로 활성화 및 비활성화할 수 있으므로 이제 완전히 자동화된 프로그램 템플릿을 만들 수 있습니다. 프로그램 템플릿을 한 번 만든 다음 복제, 마케팅 자료 업데이트 및 이제 스마트 캠페인의 활성화/일정을 자동화합니다.
 

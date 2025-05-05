@@ -13,7 +13,7 @@ ht-degree: 0%
 
 # API 전용 사용자 역할 만들기 {#create-an-api-only-user-role}
 
-[REST API](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/rest/rest-api)를 통해 Marketo과 통합하려는 경우, 가장 좋은 방법은 [사용자에게 API 전용 역할을 할당](/help/marketo/product-docs/administration/users-and-roles/create-an-api-only-user.md)한 다음 [REST API에 사용할 사용자 지정 서비스를 만들기](/help/marketo/product-docs/administration/additional-integrations/create-a-custom-service-for-use-with-rest-api.md)하는 것입니다. 다음은 API 전용 사용자 역할을 만드는 방법입니다.
+[REST API](https://experienceleague.adobe.com/ko/docs/marketo-developer/marketo/rest/rest-api)를 통해 Marketo과 통합하려는 경우, 가장 좋은 방법은 [사용자에게 API 전용 역할을 할당](/help/marketo/product-docs/administration/users-and-roles/create-an-api-only-user.md)한 다음 [REST API에 사용할 사용자 지정 서비스를 만들기](/help/marketo/product-docs/administration/additional-integrations/create-a-custom-service-for-use-with-rest-api.md)하는 것입니다. 다음은 API 전용 사용자 역할을 만드는 방법입니다.
 
 >[!NOTE]
 >

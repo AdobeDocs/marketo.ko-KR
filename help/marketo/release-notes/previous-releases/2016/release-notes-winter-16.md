@@ -49,13 +49,13 @@ Microsoft Edge을 Marketo에서 지원하는 [브라우저 목록](https://docs.
 
 ## [모바일 마케팅 개선 사항](/help/marketo/product-docs/mobile-marketing/admin/add-a-mobile-app.md) {#mobile-marketing-enhancements}
 
-**PhoneGap 지원:** 이제 모바일 앱에 PhoneGap 지원을 제공합니다. [자세히 알아보기](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/mobile/phonegap).
+**PhoneGap 지원:** 이제 모바일 앱에 PhoneGap 지원을 제공합니다. [자세히 알아보기](https://experienceleague.adobe.com/ko/docs/marketo-developer/marketo/mobile/phonegap).
 
 **샌드박스 앱 지원**:
 
 ![](assets/image2016-1-12-10-3a47-3a13.png)
 
-## [프로그램 API](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/rest/assets/programs) {#program-api}
+## [프로그램 API](https://experienceleague.adobe.com/ko/docs/marketo-developer/marketo/rest/assets/programs) {#program-api}
 
 REST API를 통해 프로그램을 만들고, 업데이트하고, 복제합니다. 프로그램 내에서 스마트 목록과 스마트 캠페인을 만들거나 업데이트하는 것은 여기에 포함되지 않습니다.
 

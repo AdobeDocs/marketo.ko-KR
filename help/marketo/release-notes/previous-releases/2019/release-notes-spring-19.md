@@ -25,7 +25,7 @@ ht-degree: 0%
 
 * **대기자 명단 등록됨:** 대기자 명단 등록에 대한 새 프로그램/이벤트 상태: [대기 중](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/program-flow-actions/change-program-status.md)을(를) 원할 경우 공석이 열릴 때까지 대기자 명단 등록 이는 Marketo Classic의 이벤트 프로그램과 연결된 채널 및 Marketo Sky의 웨비나 프로그램이 있는 이벤트와 모두 적용됩니다. 대기자 명단에 등록됨은 기본적으로 단계 값이 등록됨과 동일합니다.
 * **[사용자 지정 통신 제한](/help/marketo/product-docs/administration/email-setup/enable-communication-limits.md)**: 관리자는 이제 사용자 지정 일별 또는 주별 통신 제한을 설정할 수 있습니다.
-* **[스마트 캠페인 자산 API](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/rest/assets/smart-campaigns)**: 업데이트된 날짜 및 ID별로 스마트 캠페인 레코드 검색을 통해 Marketo 외부에서 분석을 보강합니다.
+* **[스마트 캠페인 자산 API](https://experienceleague.adobe.com/ko/docs/marketo-developer/marketo/rest/assets/smart-campaigns)**: 업데이트된 날짜 및 ID별로 스마트 캠페인 레코드 검색을 통해 Marketo 외부에서 분석을 보강합니다.
 * **전자 메일에 대한 HTTPS 추적 링크:** &quot;추적 링크에 대한 보안 도메인&quot;을 구매한 고객의 경우 브랜드 추적 링크를 전자 메일 내에 HTTPS로 표시할 수 있습니다.
 * **이메일 전달성 Powerpack 업데이트**: 특정 테스트 결과에 플래그를 지정하고 댓글을 달고, URL을 통해 관련자와 결과를 공유하고, 관련자가 콘텐츠를 편집할 때 이메일의 진행 상황을 확인할 수 있도록 변경 내용을 추적하는 기능입니다.
 
