@@ -47,7 +47,7 @@ ht-degree: 0%
 
 ## Javascript 코드 사용자 지정 및 웹 사이트에 포함  {#customize-the-javascript-code-and-embed-it-into-your-website}
 
-Marketo 개발자 사이트](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/javascriptapi/rich-media-recommendation){target="_blank"}에서 리치 미디어 권장 사항 템플릿 [에 대한 설명서를 참조하십시오. 웹 사이트에 맞게 템플릿을 사용자 지정하는 방법을 설명합니다.
+Marketo 개발자 사이트[&#128279;](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/javascriptapi/rich-media-recommendation){target="_blank"}에서 리치 미디어 권장 사항 템플릿 에 대한 설명서를 참조하십시오. 웹 사이트에 맞게 템플릿을 사용자 지정하는 방법을 설명합니다.
 
 템플릿을 표시할 위치에 JavaScript 코드를 웹 사이트에 붙여넣습니다.
 

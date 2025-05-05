@@ -50,7 +50,7 @@ ht-degree: 0%
    >
    >사용자 지정 개체가 승인되면 돌아가서 [!UICONTROL 링크] 또는 [!UICONTROL 중복 제거 필드]를 만들거나 편집하거나 삭제할 수 없습니다.
 
-1. [!UICONTROL 링크 개체]가 [!UICONTROL 리드](개인)에 대한 것인지 [!UICONTROL 회사]에 대한 것인지 선택하십시오.
+1. [!UICONTROL 링크 개체]가 [!UICONTROL 리드] (개인)에 대한 것인지 [!UICONTROL 회사]에 대한 것인지 선택하십시오.
 
    ![](assets/add-marketo-custom-object-link-fields-6.png)
 

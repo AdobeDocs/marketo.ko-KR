@@ -17,7 +17,7 @@ ht-degree: 4%
 
 >[!IMPORTANT]
 >
->Marketo Engage 구독이 Adobe ID가 ](/help/marketo/product-docs/administration/marketo-with-adobe-identity/adobe-identity-management-overview.md){target="_blank"}인 [Marketo으로 마이그레이션된 경우 이 문서의 [시간대](#change-your-time-zone)만 적용됩니다. 언어 및/또는 로케일을 변경하려면 [Adobe 계정 프로필](https://account.adobe.com/kr/profile){target="_blank"}에서 해당 설정에 액세스해야 합니다.
+>Marketo Engage 구독이 Adobe ID가 [&#128279;](/help/marketo/product-docs/administration/marketo-with-adobe-identity/adobe-identity-management-overview.md){target="_blank"}인 Marketo으로 마이그레이션된 경우 이 문서의 [시간대](#change-your-time-zone)만 적용됩니다. 언어 및/또는 로케일을 변경하려면 [Adobe 계정 프로필](https://account.adobe.com/kr/profile){target="_blank"}에서 해당 설정에 액세스해야 합니다.
 
 ## 지원되는 언어 {#supported-languages}
 

@@ -11,7 +11,7 @@ ht-degree: 0%
 
 ---
 
-# 이메일 템플릿 v1.0 {#add-editable-sections-to-email-templates-v1.0}에 편집 가능한 섹션 추가
+# 이메일 템플릿 v1.0에 편집 가능한 섹션 추가 {#add-editable-sections-to-email-templates-v1.0}
 
 전자 메일 템플릿 편집기 v1.0에서 템플릿을 만드는 경우 특수 `<div>`을(를) 삽입하면 모든 섹션을 편집할 수 있습니다.
 

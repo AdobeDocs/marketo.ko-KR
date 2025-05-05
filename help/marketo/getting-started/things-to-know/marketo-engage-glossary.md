@@ -261,7 +261,7 @@ ht-degree: 2%
   </tr> 
   <tr> 
    <td colspan="1"><strong>문서</strong></td> 
-   <td colspan="1">약어로 설명하자면, 문서는 고객이 제품을 더 잘 이해할 수 있도록 하는 도움말 문서입니다. Marketo에는 제품 문서(현재 사용 중인 사이트), <a href="https://experienceleague.adobe.com/ko/docs/ marketo-developer/marketo/home" rel="nofollow">개발자</a> 문서, <a href="https://nation.marketo.com/t5/Knowledgebase/tkb-p/support_solutions-documents" rel="nofollow">지원</a> 문서 등 여러 유형의 문서가 있습니다.</td> 
+   <td colspan="1">약어로 설명하자면, 문서는 고객이 제품을 더 잘 이해할 수 있도록 하는 도움말 문서입니다. Marketo에는 제품 문서(현재 사용 중인 사이트), <a href="https://experienceleague.adobe.com/ko/docs/marketo-developer/marketo/home" rel="nofollow">개발자</a> 문서, <a href="https://nation.marketo.com/t5/Knowledgebase/tkb-p/support_solutions-documents" rel="nofollow">지원</a> 문서 등 여러 유형의 문서가 있습니다.</td> 
   </tr> 
   <tr> 
    <td colspan="1"><strong>도메인 기반 메시지 인증, 보고 및 적합성(DMARC)</strong></td> 

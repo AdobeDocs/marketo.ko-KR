@@ -42,7 +42,7 @@ ht-degree: 0%
 
 ## 동기화 사용자 자격 증명 설정 {#set-sync-user-credentials}
 
-1. Marketo에서 **[!UICONTROL 관리자]**(으)로 이동하여 **[!UICONTROL CRM]**&#x200B;을 선택하고 **Salesforce.com과 동기화](https://Salesforce.com)**&#x200B;를 클릭합니다.[
+1. Marketo에서 **[!UICONTROL 관리자]**(으)로 이동하여 **[!UICONTROL CRM]**&#x200B;을 선택하고 **Salesforce.com과 동기화[&#128279;](https://Salesforce.com)**&#x200B;를 클릭합니다.
 
    ![](assets/image2014-12-9-9-3a52-3a58.png)
 

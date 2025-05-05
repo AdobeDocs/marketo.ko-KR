@@ -52,9 +52,9 @@ ht-degree: 0%
    >* 표시 URL은 도메인의 경로여야 합니다.
    >* https:// 또는 https://을 포함하지 않음
    >* 와일드카드에 &#42; 사용
-   * 세미콜론을 구분 기호로 사용
-   * 예: /contact_us&#42;; &#42;action=logout&#42;
-   * 이 필드는 대/소문자를 구분합니다.
+   >* 세미콜론을 구분 기호로 사용
+   >* 예: /contact_us&#42;; &#42;action=logout&#42;
+   >* 이 필드는 대/소문자를 구분합니다.
 
 ## 권장 사항 막대 고려 사항 {#recommendation-bar-considerations}
 
@@ -65,4 +65,4 @@ ht-degree: 0%
 
 >[!MORELIKETHIS]
 >
-[웹 리치 미디어에 대한 예측 콘텐츠 사용](/help/marketo/product-docs/predictive-content/enabling-predictive-content/enable-predictive-content-for-web-rich-media.md)
+>[웹 리치 미디어에 대한 예측 콘텐츠 사용](/help/marketo/product-docs/predictive-content/enabling-predictive-content/enable-predictive-content-for-web-rich-media.md)

@@ -57,8 +57,8 @@ Target URL은 캠페인 설정 페이지 아래에 있으며 웹 캠페인이 �
 >[!NOTE]
 >
 >* 대화 상자 및 위젯 웹 캠페인에서는 모든 페이지 및 와일드카드(&#42;) 옵션을 사용할 수 있습니다.
-* 고급 사용 사례에서 영역 웹 캠페인은 URL 경로 끝에 와일드카드를 사용할 수 있습니다. 예: [www.marketo.com/software/personalization/*](https://www.marketo.com/software/web-personalization/)
-* URL은 대/소문자를 구분합니다.
+>* 고급 사용 사례에서 영역 웹 캠페인은 URL 경로 끝에 와일드카드를 사용할 수 있습니다. 예: [www.marketo.com/software/personalization/*](https://www.marketo.com/software/web-personalization/)
+>* URL은 대/소문자를 구분합니다.
 
 ## In Zone 웹 캠페인에 대한 Target URL 추가 {#adding-a-target-url-for-in-zone-web-campaigns}
 
@@ -74,12 +74,12 @@ Target URL은 캠페인 설정 페이지 아래에 있으며 웹 캠페인이 �
 
    >[!NOTE]
    >
-   영역 내 Target URL은 특정 URL 또는 URL을 정의해야 합니다. 고급 사용 사례에서 영역 웹 캠페인은 URL 경로 끝에 와일드카드를 사용할 수 있습니다. 예: [www.marketo.com/software/personalization/*](https://www.marketo.com/software/web-personalization/)
+   >영역 내 Target URL은 특정 URL 또는 URL을 정의해야 합니다. 고급 사용 사례에서 영역 웹 캠페인은 URL 경로 끝에 와일드카드를 사용할 수 있습니다. 예: [www.marketo.com/software/personalization/*](https://www.marketo.com/software/web-personalization/)
 
    ![](assets/set-web-campaign-multiple-hands.jpg)
 
 >[!MORELIKETHIS]
 >
-* [대화 상자 캠페인 만들기](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/create-a-new-dialog-web-campaign.md)
-* [영역 캠페인에 RTP 만들기](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/create-a-new-in-zone-web-campaign.md)
-* [RTP 위젯 캠페인 만들기](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/create-a-new-widget-web-campaign.md)
+>* [대화 상자 캠페인 만들기](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/create-a-new-dialog-web-campaign.md)
+>* [영역 캠페인에 RTP 만들기](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/create-a-new-in-zone-web-campaign.md)
+>* [RTP 위젯 캠페인 만들기](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/create-a-new-widget-web-campaign.md)

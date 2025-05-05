@@ -25,7 +25,7 @@ Salesforce 샌드박스 인스턴스에서 작동하도록 작업 인스턴스�
 >
 >사용자가 [작업 시트를 활성화](/help/marketo/product-docs/marketo-sales-insight/actions/getting-started/sales-insight-actions-user-onboarding-checklist.md){target="_blank"}하는 방법에 대해 자세히 알아볼 수 있습니다. 사용자가 [Salesforce로 인증](/help/marketo/product-docs/marketo-sales-insight/actions/admin/auto-login-from-salesforce.md){target="_blank"}하는 방법에 대해서도 배울 수 있습니다. 또한 사용자가 전자 메일 및 암호를 인증하도록 하려는 경우 [로그인 관리 설정 문서](/help/marketo/product-docs/marketo-sales-insight/actions/admin/login-management-settings.md){target="_blank"}에서 이에 대해 자세히 알아볼 수 있습니다.
 
-## Marketo 샌드박스 {#request=an-actions-instance}에 프로비전할 작업 인스턴스를 요청하십시오.
+## Marketo 샌드박스에 프로비전할 작업 인스턴스를 요청하십시오. {#request=an-actions-instance}
 
 Sales Insight Actions 는 요청하지 않는 한 Marketo 샌드박스 인스턴스에 대해 활성화되지 않습니다. 요청을 제출하려면 Adobe 계정 팀(계정 관리자)에 문의하십시오.
 

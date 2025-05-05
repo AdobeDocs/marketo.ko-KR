@@ -31,4 +31,4 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->CRM에서 사용자 제거 _은(는)[!DNL Salesforce]_&#x200B;에서만 작동합니다. Marketo에서 사용자를 삭제하고 [!DNL Salesforce]에 유지하도록 선택하면 해당 [!DNL Salesforce] 레코드가 업데이트되면 Marketo에 다시 만들어집니다.
+>CRM에서 사용자 제거 _은(는) [!DNL Salesforce]_&#x200B;에서만 작동합니다. Marketo에서 사용자를 삭제하고 [!DNL Salesforce]에 유지하도록 선택하면 해당 [!DNL Salesforce] 레코드가 업데이트되면 Marketo에 다시 만들어집니다.

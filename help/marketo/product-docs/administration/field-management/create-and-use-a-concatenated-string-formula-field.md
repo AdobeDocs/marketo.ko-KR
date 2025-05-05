@@ -45,7 +45,7 @@ ht-degree: 0%
 
    >[!TIP]
    >
-   >흐름 단계](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/use-tokens-in-flow-steps.md)에 대한 [토큰에 대해 자세히 알아보세요.
+   >흐름 단계[&#128279;](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/use-tokens-in-flow-steps.md)에 대한 토큰에 대해 자세히 알아보세요.
 
 1. 이제 공식 필드를 이메일에 토큰으로 추가할 수 있습니다.
 

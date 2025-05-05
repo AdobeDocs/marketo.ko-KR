@@ -95,7 +95,7 @@ ht-degree: 0%
    >
    >CSV 파일의 크기 제한은 100MB입니다.
 
-1. **[!UICONTROL 컴퓨터의** tradeshow-participants.csv **스프레드시트 파일을 찾아보고**[!UICONTROL &#x200B;다음&#x200B;]**을 클릭합니다.]**
+1. **[!UICONTROL 컴퓨터의** tradeshow-participants.csv **스프레드시트 파일을 찾아보고**&#x200B;[!UICONTROL &#x200B;다음&#x200B;]&#x200B;**을 클릭합니다.]**
 
    ![](assets/import-a-list-of-people-11.png)
 

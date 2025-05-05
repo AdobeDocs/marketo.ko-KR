@@ -49,7 +49,7 @@ Marketo에서 [!DNL GoToWebinar] 등록 및 출석을 관리합니다.
 
    >[!NOTE]
    >
-   >Marketo 양식의 회사 이름과 직함을 [!DNL GoToWebinar](으)로 동기화하려면 **[!UICONTROL 추가 필드 사용]** 상자를 선택하십시오.
+   >Marketo 양식의 회사 이름과 직함을 [!DNL GoToWebinar] (으)로 동기화하려면 **[!UICONTROL 추가 필드 사용]** 상자를 선택하십시오.
 
 1. [!DNL GoToWebinar] 로그인 팝업 창에서 **[!UICONTROL GoToWebinar]** 전자 메일 및 암호를 입력하고 **[!UICONTROL 로그인]**&#x200B;을 클릭합니다.
 

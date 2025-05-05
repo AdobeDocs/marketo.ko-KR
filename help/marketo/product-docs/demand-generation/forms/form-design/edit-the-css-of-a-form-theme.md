@@ -13,7 +13,7 @@ ht-degree: 1%
 
 # 양식 테마의 CSS 편집 {#edit-the-css-of-a-form-theme}
 
-](/help/marketo/product-docs/demand-generation/forms/creating-a-form/select-a-form-theme.md)에서 선택할 수 있는 미리 만들어진 [테마가 몇 개 있습니다. 그러나 CSS 편집이 마음에 들면 원하는 대로 변경할 수 있습니다. 방법은 다음과 같습니다.
+[&#128279;](/help/marketo/product-docs/demand-generation/forms/creating-a-form/select-a-form-theme.md)에서 선택할 수 있는 미리 만들어진 테마가 몇 개 있습니다. 그러나 CSS 편집이 마음에 들면 원하는 대로 변경할 수 있습니다. 방법은 다음과 같습니다.
 
 >[!NOTE]
 >

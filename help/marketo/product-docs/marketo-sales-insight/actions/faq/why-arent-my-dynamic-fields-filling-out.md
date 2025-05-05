@@ -22,7 +22,7 @@ Sales Insight 작업에는 Basic, Custom 및 Salesforce의 세 가지 동적 필
 
 Salesforce 필드: 예: `{{sfdc_account_name}}`
 
-* Sales Insight Actions 와 제대로 연결되어 있는지 확인합니다. [설정](https://toutapp.com/login{target="_blank"} 페이지로 이동하여 CRM 옆에 있는 **관리**&#x200B;를 클릭합니다.
+* Sales Insight Actions 와 제대로 연결되어 있는지 확인합니다. [설정] (https://toutapp.com/login{target="_blank"} 페이지로 이동하여 CRM 옆에 있는 **관리**&#x200B;를 클릭합니다.
 
 **기본 및 사용자 지정 필드 문제 해결**
 

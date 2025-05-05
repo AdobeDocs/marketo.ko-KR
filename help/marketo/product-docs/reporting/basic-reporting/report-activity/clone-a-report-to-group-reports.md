@@ -13,7 +13,7 @@ ht-degree: 0%
 
 # 보고서를 그룹 보고서에 복제 {#clone-a-report-to-group-reports}
 
-**내 보고서**의 모든 보고서는 귀하에게만 표시됩니다. 다른 모든 보고서에 액세스할 수 있도록 하려면 어떻게 해야 합니까? 이를 수행하는 방법은 다음과 같습니다.
+**내 보고서**&#x200B;의 모든 보고서는 귀하에게만 표시됩니다. 다른 모든 보고서에 액세스할 수 있도록 하려면 어떻게 해야 합니까? 이를 수행하는 방법은 다음과 같습니다.
 
 1. **Analytics** 영역에서 원하는 [저장된 보고서](/help/marketo/product-docs/reporting/basic-reporting/creating-reports/save-a-report.md)를 클릭합니다.
 

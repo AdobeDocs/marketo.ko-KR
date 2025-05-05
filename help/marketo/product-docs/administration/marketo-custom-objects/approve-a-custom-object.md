@@ -35,7 +35,7 @@ ht-degree: 0%
 
    ![](assets/approve-a-custom-object-4.png)
 
-1. 상태가 [!UICONTROL 승인됨](으)로 변경됩니다.
+1. 상태가 [!UICONTROL 승인됨] (으)로 변경됩니다.
 
    ![](assets/approve-a-custom-object-5.png)
 

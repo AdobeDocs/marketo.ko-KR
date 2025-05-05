@@ -43,7 +43,7 @@ Marketo의 사용자 지정 개체를 사용하여 비즈니스와 관련된 지
    >
    >[!UICONTROL Marketo 사용자 지정 개체] 탭에는 오른쪽에 모든 사용자 지정 개체가 표시되며, 가장 최근 업데이트에서 레코드 및 필드 수를 포함하여 승인된 개체의 세부 정보가 표시됩니다.
 
-1. [!UICONTROL 표시 이름]을 입력하십시오. [!UICONTROL API 이름] 및 [!UICONTROL Plural 이름]이(가) 자동으로 채워집니다. [!UICONTROL 설명](선택 사항)을 입력하십시오.
+1. [!UICONTROL 표시 이름]을 입력하십시오. [!UICONTROL API 이름] 및 [!UICONTROL Plural 이름]이(가) 자동으로 채워집니다. [!UICONTROL 설명] (선택 사항)을 입력하십시오.
 
    ![](assets/create-marketo-custom-objects-4.png)
 
@@ -85,7 +85,7 @@ Marketo의 사용자 지정 개체를 사용하여 비즈니스와 관련된 지
 
    ![](assets/create-marketo-custom-objects-9.png)
 
-1. [!UICONTROL 표시 이름]을 입력하십시오. [!UICONTROL API 이름] 및 [!UICONTROL Plural 이름]이(가) 자동으로 채워집니다. [!UICONTROL 설명](선택 사항)을 입력하십시오.
+1. [!UICONTROL 표시 이름]을 입력하십시오. [!UICONTROL API 이름] 및 [!UICONTROL Plural 이름]이(가) 자동으로 채워집니다. [!UICONTROL 설명] (선택 사항)을 입력하십시오.
 
    ![](assets/create-marketo-custom-objects-10.png)
 
@@ -127,7 +127,7 @@ Marketo의 사용자 지정 개체를 사용하여 비즈니스와 관련된 지
 
    ![](assets/create-marketo-custom-objects-15.png)
 
-1. [!UICONTROL 표시 이름]을 입력하십시오. [!UICONTROL API 이름] 및 [!UICONTROL Plural 이름]이(가) 자동으로 채워집니다. [!UICONTROL 설명](선택 사항)을 입력하십시오.
+1. [!UICONTROL 표시 이름]을 입력하십시오. [!UICONTROL API 이름] 및 [!UICONTROL Plural 이름]이(가) 자동으로 채워집니다. [!UICONTROL 설명] (선택 사항)을 입력하십시오.
 
    ![](assets/create-marketo-custom-objects-16.png)
 

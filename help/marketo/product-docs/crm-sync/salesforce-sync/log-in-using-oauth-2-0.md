@@ -53,14 +53,14 @@ Salesforce는 OAuth 프로토콜을 사용하여 애플리케이션 사용자가
 >[!PREREQUISITES]
 >
 >* API 액세스는 Salesforce 동기화 사용자에 대해 활성화해야 합니다(Salesforce Professional Edition 사용자인 경우 기본적으로 해당 액세스를 사용할 수 없습니다. Salesforce 계정 담당자에게 문의하십시오).
-* Marketo 동기화 사용자는 Salesforce에서 만들어야 합니다.
-* 기존 고객의 경우 해당 고객의 구독에서 &quot;SFDC 동기화를 위해 OAuth 활성화&quot; 기능이 활성화됩니다.
-* 팝업 차단기가 비활성화되었습니다.
-* 연결된 앱이 생성되었으며 소비자 키와 소비자 암호를 사용할 수 있습니다.
+>* Marketo 동기화 사용자는 Salesforce에서 만들어야 합니다.
+>* 기존 고객의 경우 해당 고객의 구독에서 &quot;SFDC 동기화를 위해 OAuth 활성화&quot; 기능이 활성화됩니다.
+>* 팝업 차단기가 비활성화되었습니다.
+>* 연결된 앱이 생성되었으며 소비자 키와 소비자 암호를 사용할 수 있습니다.
 
 >[!CAUTION]
 >
-**[!UICONTROL 필드 동기화]**&#x200B;를 클릭하기 전에 동기화 사용자로부터 Marketo에 필요하지 않은 모든 필드를 숨기십시오. 필드 동기화 를 클릭하면 SFDC에서 볼 수 있는 모든 필드가 Marketo에 영구적으로 만들어지며 삭제할 수 없습니다.
+>**[!UICONTROL 필드 동기화]**&#x200B;를 클릭하기 전에 동기화 사용자로부터 Marketo에 필요하지 않은 모든 필드를 숨기십시오. 필드 동기화 를 클릭하면 SFDC에서 볼 수 있는 모든 필드가 Marketo에 영구적으로 만들어지며 삭제할 수 없습니다.
 
 1. Marketo 관리 섹션에서 **[!UICONTROL CRM]**&#x200B;을 클릭한 다음 **[!UICONTROL Salesforce와 동기화]**&#x200B;를 클릭합니다.
 
@@ -76,7 +76,7 @@ Salesforce는 OAuth 프로토콜을 사용하여 애플리케이션 사용자가
 
    >[!CAUTION]
    >
-   사용자 이름/암호/토큰 필드에 &quot;Salesforce로 로그인&quot; 단추가 표시되지 않는 경우 Marketo 구독이 기본 인증에 대해 활성화됩니다. [기본 인증을 사용하여 Marketo 설정](/help/marketo/product-docs/crm-sync/salesforce-sync/setup/enterprise-unlimited-edition/step-3-of-3-connect-marketo-and-salesforce-enterprise-unlimited.md){target="_blank"}을 참조하세요. 자격 증명 집합을 사용하여 동기화가 시작되면 Salesforce 자격 증명 또는 구독을 전환할 수 없습니다. Oauth 2.0을 사용하려면 Adobe 계정 팀(계정 관리자)에 문의하십시오.
+   >사용자 이름/암호/토큰 필드에 &quot;Salesforce로 로그인&quot; 단추가 표시되지 않는 경우 Marketo 구독이 기본 인증에 대해 활성화됩니다. [기본 인증을 사용하여 Marketo 설정](/help/marketo/product-docs/crm-sync/salesforce-sync/setup/enterprise-unlimited-edition/step-3-of-3-connect-marketo-and-salesforce-enterprise-unlimited.md){target="_blank"}을 참조하세요. 자격 증명 집합을 사용하여 동기화가 시작되면 Salesforce 자격 증명 또는 구독을 전환할 수 없습니다. Oauth 2.0을 사용하려면 Adobe 계정 팀(계정 관리자)에 문의하십시오.
 
 1. Salesforce 로그인 페이지가 표시되는 팝업이 나타납니다. &quot;Marketo 동기화 사용자&quot; 자격 증명에 키를 누른 다음 로그인합니다.
 
@@ -108,7 +108,7 @@ Marketo과 Salesforce 간의 동기화가 현재 진행 중입니다.
 
 >[!MORELIKETHIS]
 >
-* [3단계 중 1단계: Salesforce(Enterprise/Unlimited)에 Marketo 필드 추가](/help/marketo/product-docs/crm-sync/salesforce-sync/setup/enterprise-unlimited-edition/step-1-of-3-add-marketo-fields-to-salesforce-enterprise-unlimited.md){target="_blank"}
-* [3단계 중 2단계: Marketo(Enterprise/Unlimited)용 Salesforce 사용자 만들기](/help/marketo/product-docs/crm-sync/salesforce-sync/setup/enterprise-unlimited-edition/step-2-of-3-create-a-salesforce-user-for-marketo-enterprise-unlimited.md){target="_blank"}
-* [Salesforce AppExchange에 Marketo Sales Insight 패키지 설치](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/installation/install-marketo-sales-insight-package-in-salesforce-appexchange.md){target="_blank"}
-* [Salesforce Enterprise/Unlimited에서 Marketo Sales Insight 구성](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/configuration/configure-marketo-sales-insight-in-salesforce-enterprise-unlimited.md){target="_blank"}
+>* [3단계 중 1단계: Salesforce(Enterprise/Unlimited)에 Marketo 필드 추가](/help/marketo/product-docs/crm-sync/salesforce-sync/setup/enterprise-unlimited-edition/step-1-of-3-add-marketo-fields-to-salesforce-enterprise-unlimited.md){target="_blank"}
+>* [3단계 중 2단계: Marketo(Enterprise/Unlimited)용 Salesforce 사용자 만들기](/help/marketo/product-docs/crm-sync/salesforce-sync/setup/enterprise-unlimited-edition/step-2-of-3-create-a-salesforce-user-for-marketo-enterprise-unlimited.md){target="_blank"}
+>* [Salesforce AppExchange에 Marketo Sales Insight 패키지 설치](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/installation/install-marketo-sales-insight-package-in-salesforce-appexchange.md){target="_blank"}
+>* [Salesforce Enterprise/Unlimited에서 Marketo Sales Insight 구성](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/configuration/configure-marketo-sales-insight-in-salesforce-enterprise-unlimited.md){target="_blank"}

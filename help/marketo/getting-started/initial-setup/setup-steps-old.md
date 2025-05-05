@@ -227,6 +227,7 @@ Marketo 추적 링크를 찾으려면 **[!UICONTROL 관리자]** 영역으로 �
 허용 목록에 추가하다 `3)` Marketo.
 
     * 전자 메일 허용 목록에 추가하다에서 IP 주소를 사용하는 경우 아래 나열된 IP를 추가하십시오.
+
     199.15.212.0/22
     
     192.28.144.0/20
@@ -313,7 +314,7 @@ IT 담당자가 작업을 완료하면 다음 단계에 따라 랜딩 페이지 
 
 ![](assets/setup-steps-19.png)
 
-[!UICONTROL 브랜딩 도메인](으)로 스크롤합니다. 도메인을 선택하고 **[!UICONTROL 편집]**&#x200B;을 클릭합니다.
+[!UICONTROL 브랜딩 도메인] (으)로 스크롤합니다. 도메인을 선택하고 **[!UICONTROL 편집]**&#x200B;을 클릭합니다.
 
 ![](assets/setup-steps-20.png)
 
@@ -329,8 +330,8 @@ IT 담당자가 작업을 완료하면 다음 단계에 따라 랜딩 페이지 
 
 회사에서 사용하는 CRM에 따라 다음 중에서 선택하십시오.
 
-    * [Marketo과 통합] [!DNL Salesforce.com](/help/marketo/product-docs/crm-sync/salesforce-sync/understanding-the-salesforce-sync.md)
-    * [Marketo과 통합] [!DNL Microsoft Dynamics](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/understanding-the-microsoft-dynamics-sync.md)
+    * [Marketo과 통합] [[!DNL Salesforce.com]](/help/marketo/product-docs/crm-sync/salesforce-sync/understanding-the-salesforce-sync.md)
+    * [Marketo과 통합] [[!DNL Microsoft Dynamics]](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/understanding-the-microsoft-dynamics-sync.md)
 
 >[!NOTE]
 >

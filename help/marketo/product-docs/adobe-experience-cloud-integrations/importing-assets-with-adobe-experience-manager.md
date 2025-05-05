@@ -13,7 +13,7 @@ ht-degree: 0%
 
 # Adobe Experience Manager으로 Assets 가져오기 {#importing-assets-with-adobe-experience-manager}
 
-에셋 선택기를 사용하면 Marketo 고객이 AEM 에셋에 액세스하고, 선택하고, Marketo [!DNL Design Studio](으)로 가져올 수 있습니다. **관리자 권한이 필요합니다**.
+에셋 선택기를 사용하면 Marketo 고객이 AEM 에셋에 액세스하고, 선택하고, Marketo [!DNL Design Studio] (으)로 가져올 수 있습니다. **관리자 권한이 필요합니다**.
 
 >[!AVAILABILITY]
 >
@@ -65,4 +65,4 @@ ht-degree: 0%
 
 * 인스턴스의 모든 사용자가 가져온 이미지를 보거나 액세스할 수 있습니다.
 
-* 이미지는 자동으로 업데이트되지 않습니다. Marketo [!DNL Design Studio](으)로 가져온 이미지가 AEM에서 업데이트된 경우 수동으로 Marketo으로 다시 가져와야 합니다.
+* 이미지는 자동으로 업데이트되지 않습니다. Marketo [!DNL Design Studio] (으)로 가져온 이미지가 AEM에서 업데이트된 경우 수동으로 Marketo으로 다시 가져와야 합니다.

@@ -109,7 +109,7 @@ ht-degree: 2%
 
    ![](assets/stream-designer-6.png)
 
-1. _[!UICONTROL Question]_카드를 끌어서 놓습니다.
+1. _[!UICONTROL Question]_&#x200B;카드를 끌어서 놓습니다.
 
    ![](assets/stream-designer-7.png)
 

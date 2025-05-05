@@ -22,7 +22,7 @@ ht-degree: 0%
 
    ![](assets/msi-actions-configuration-in-salesforce-1.png)
 
-1. &quot;원격 사이트&quot;를 검색하고 **원격 사이트 설정**을 선택합니다.
+1. &quot;원격 사이트&quot;를 검색하고 **원격 사이트 설정**&#x200B;을 선택합니다.
    ![](assets/msi-actions-configuration-in-salesforce-2.png)
 
 1. **새 원격 사이트**&#x200B;를 클릭합니다.

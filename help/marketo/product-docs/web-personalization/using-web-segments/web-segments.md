@@ -314,13 +314,13 @@ ht-degree: 0%
 
 >[!NOTE]
 >
-캠페인과 연결된 세그먼트는 삭제할 수 없습니다. 먼저 캠페인을 삭제한 다음 세그먼트를 삭제해야 합니다.
+>캠페인과 연결된 세그먼트는 삭제할 수 없습니다. 먼저 캠페인을 삭제한 다음 세그먼트를 삭제해야 합니다.
 
 잘됐네! 세그먼트 섹션을 이해했으므로 이제 캠페인에 대해 알아보겠습니다.
 
 >[!MORELIKETHIS]
 >
-* [기본 웹 세그먼트 만들기](/help/marketo/product-docs/web-personalization/using-web-segments/create-a-basic-web-segment.md)
-* [새 대화 상자 웹 캠페인 만들기](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/create-a-new-dialog-web-campaign.md)
-* [영역 웹 캠페인에 새 항목 만들기](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/create-a-new-in-zone-web-campaign.md)
-* [새 위젯 웹 캠페인 만들기](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/create-a-new-widget-web-campaign.md)
+>* [기본 웹 세그먼트 만들기](/help/marketo/product-docs/web-personalization/using-web-segments/create-a-basic-web-segment.md)
+>* [새 대화 상자 웹 캠페인 만들기](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/create-a-new-dialog-web-campaign.md)
+>* [영역 웹 캠페인에 새 항목 만들기](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/create-a-new-in-zone-web-campaign.md)
+>* [새 위젯 웹 캠페인 만들기](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/create-a-new-widget-web-campaign.md)

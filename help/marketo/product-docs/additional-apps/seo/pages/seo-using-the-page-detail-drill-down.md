@@ -44,7 +44,7 @@ ht-degree: 0%
 | [!UICONTROL Facebook 좋아요] | [!DNL Facebook]에서 이 페이지 공유에 연결된 횟수입니다. |
 | [!UICONTROL Facebook 클릭 수] | [!DNL Facebook share]의 클릭 수입니다. |
 
-## 페이지가 ]에 최적화된 [!UICONTROL 키워드 {#keyword-s-that-page-is-optimized-for}
+## 페이지가 에 최적화된 키워드 {#keyword-s-that-page-is-optimized-for}
 
 여기에서 [페이지를 최적화하려는 키워드를 ](/help/marketo/product-docs/additional-apps/seo/keywords/seo-optimize-specific-pages-with-targeted-keywords.md)에 선택합니다.
 

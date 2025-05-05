@@ -255,7 +255,7 @@ DMARC 정렬에는 DKIM 정렬과 SPF 정렬의 두 가지 유형이 있습니�
 
 * DKIM 정렬 DMARC - DKIM 정렬 DMARC을 설정하려면 다음을 수행해야 합니다.
 
-   * 메시지의 보낸 사람: 도메인에 대한 DKIM을 설정합니다. 이 문서](/help/marketo/product-docs/email-marketing/deliverability/set-up-a-custom-dkim-signature.md){target="_blank"}의 지침 [을(를) 사용합니다.
+   * 메시지의 보낸 사람: 도메인에 대한 DKIM을 설정합니다. 이 문서[&#128279;](/help/marketo/product-docs/email-marketing/deliverability/set-up-a-custom-dkim-signature.md){target="_blank"}의 지침 을(를) 사용합니다.
    * 이전에 구성된 FROM:/DKIM 도메인에 대해 DMARC 구성
 
 * DMARC 정렬 SPF - 브랜드 반환 경로를 통해 DMARC 정렬 SPF를 설정하려면 다음을 수행해야 합니다.
@@ -268,7 +268,7 @@ DMARC 정렬에는 DKIM 정렬과 SPF 정렬의 두 가지 유형이 있습니�
 
 * 전용 IP를 통해 Marketo Engage에서 메일을 보내고 브랜드 반환 경로를 아직 구현하지 않았거나 아직 구현했는지 확실하지 않은 경우 [Adobe 지원](https://nation.marketo.com/t5/support/ct-p/Support){target="_blank"}을 사용하여 티켓을 여십시오.
 
-* 공유 IP 풀을 통해 Marketo Engage에서 메일을 보내는 경우 [여기](http://na-sjg.marketo.com/lp/marketoprivacydemo/Trusted-IP-Sending-Range-Program.html)에 적용{target="_blank"}하여 신뢰할 수 있는 IP에 대한 자격이 있는지 확인할 수 있습니다. 신뢰할 수 있는 Marketo Engage IP에서 전송하는 사람에게 브랜드 반환 경로가 무료로 제공됩니다. 이 프로그램에 대해 승인된 경우 Adobe 지원 팀에 연락하여 브랜드 반환 경로를 설정하십시오.
+* 공유 IP 풀을 통해 Marketo Engage에서 메일을 보내는 경우 [여기](http://na-sjg.marketo.com/lp/marketoprivacydemo/Trusted-IP-Sending-Range-Program.html){target="_blank"}에 적용하여 신뢰할 수 있는 IP에 대한 자격이 있는지 확인할 수 있습니다. 신뢰할 수 있는 Marketo Engage IP에서 전송하는 사람에게 브랜드 반환 경로가 무료로 제공됩니다. 이 프로그램에 대해 승인된 경우 Adobe 지원 팀에 연락하여 브랜드 반환 경로를 설정하십시오.
 
    * 신뢰할 수 있는 IP: 전용 IP에 대한 자격이 없는 매월 75K 미만을 보내는 하위 볼륨 사용자를 위해 예약된 IP 공유 풀입니다. 이러한 사용자는 모범 사례 요구 사항도 충족해야 합니다.
 

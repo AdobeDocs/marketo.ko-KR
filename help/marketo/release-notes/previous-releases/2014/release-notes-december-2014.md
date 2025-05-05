@@ -25,7 +25,7 @@ ht-degree: 0%
 
 ## Facebook 사용자 지정 대상 {#facebook-custom-audiences}
 
-Marketo 관리자가 관리자 > 시작 지점](/help/marketo/product-docs/demand-generation/ad-network-integrations/add-facebook-custom-audiences-as-a-launchpoint-service.md)을 통해 [Facebook을 추가하면 Facebook 사용자 지정 대상을 Marketo 정적 또는 스마트 목록의 리드로 쉽게 만들거나 업데이트하거나 [바꿀 수 있습니다](/help/marketo/product-docs/demand-generation/facebook/create-a-custom-audience-in-facebook.md). 정적 또는 스마트 목록의 리드 그리드 아래쪽에서 새 Facebook 아이콘을 찾습니다.
+Marketo 관리자가 관리자 > 시작 지점[&#128279;](/help/marketo/product-docs/demand-generation/ad-network-integrations/add-facebook-custom-audiences-as-a-launchpoint-service.md)을 통해 Facebook을 추가하면 Facebook 사용자 지정 대상을 Marketo 정적 또는 스마트 목록의 리드로 쉽게 만들거나 업데이트하거나 [바꿀 수 있습니다](/help/marketo/product-docs/demand-generation/facebook/create-a-custom-audience-in-facebook.md). 정적 또는 스마트 목록의 리드 그리드 아래쪽에서 새 Facebook 아이콘을 찾습니다.
 
 ![](assets/image2014-12-5-11-3a6-3a28.png)
 

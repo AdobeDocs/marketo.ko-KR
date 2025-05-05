@@ -43,7 +43,7 @@ Marketo Sales Insight는 영업 팀에 마케팅 팀이 보유한 풍부한 데�
 
    ![](assets/image2014-12-12-9-3a5-3a27.png)
 
-1. 새 창에서 **찾아보기**&#x200B;를 클릭합니다. 1](#msi)단계에서 다운로드한 [Marketo Sales Insight 솔루션을 선택합니다. **다음**&#x200B;을 클릭합니다.
+1. 새 창에서 **찾아보기**&#x200B;를 클릭합니다. 1[&#128279;](#msi)단계에서 다운로드한 Marketo Sales Insight 솔루션을 선택합니다. **다음**&#x200B;을 클릭합니다.
 
    ![](assets/image2015-5-13-15-3a38-3a49.png)
 

@@ -13,7 +13,7 @@ ht-degree: 0%
 
 # 포털에 SSO(Single Sign-On) 추가 {#add-single-sign-on-to-a-portal}
 
-사용자를 인증하는 디렉터리 서비스가 있는 경우 Marketo에 SSO(Single Sign-On)를 허용할 수 있습니다. [!DNL Security Assertion Markup Language](SAML) 버전 2.0 이상을 사용하여 이 기능을 지원합니다.
+사용자를 인증하는 디렉터리 서비스가 있는 경우 Marketo에 SSO(Single Sign-On)를 허용할 수 있습니다. [!DNL Security Assertion Markup Language] (SAML) 버전 2.0 이상을 사용하여 이 기능을 지원합니다.
 
 Marketo은 SAML SP(서비스 공급자)로 작동하며 사용자를 인증하기 위해 외부 Id 제공업체(IdP)에 의존합니다.
 

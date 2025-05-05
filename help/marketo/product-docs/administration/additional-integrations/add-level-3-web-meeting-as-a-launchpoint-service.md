@@ -1,7 +1,7 @@
 ---
 unique-page-id: 7512292
 description: " [!DNL Level 3 Web Meeting] as a [!DNL LaunchPoint] 서비스 - Marketo 문서 - 제품 설명서 추가"
-title: " [!DNL Level 3 Web Meeting] 을(를)  [!DNL LaunchPoint Service](으)로 추가"
+title: " [!DNL Level 3 Web Meeting] 을(를)  [!DNL LaunchPoint Service] (으)로 추가"
 exl-id: f419b019-33bb-446d-baf5-55393770a703
 feature: Administration, Integrations
 source-git-commit: d20a9bb584f69282eefae3704ce4be2179b29d0b
@@ -49,4 +49,4 @@ Marketo에서 [!DNL Level 3 Web Meeting] 등록 및 출석을 관리합니다.
 
 >[!MORELIKETHIS]
 >
-> [!DNL Level 3 Web Meeting]](/help/marketo/product-docs/demand-generation/events/create-an-event/create-an-event-with-level-3-web-meeting.md){target="_blank"}을(를) 사용하여 [이벤트를 만드는 방법에 대해 알아봅니다.
+> [!DNL Level 3 Web Meeting][&#128279;](/help/marketo/product-docs/demand-generation/events/create-an-event/create-an-event-with-level-3-web-meeting.md){target="_blank"}을(를) 사용하여 이벤트를 만드는 방법에 대해 알아봅니다.

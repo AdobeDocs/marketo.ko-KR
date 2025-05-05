@@ -25,6 +25,6 @@ Marketo은 현재 다음 브라우저를 지원합니다.
 
 >[!NOTE]
 >
->Adobe ID가 ](/help/marketo/product-docs/administration/marketo-with-adobe-identity/adobe-identity-management-overview.md){target="_blank"}인 [Marketo으로 마이그레이션된 사용자의 경우 엄격한 모드의 Microsoft Edge을 제외하고 모든 브라우저가 Mac과 Windows 모두에서 지원됩니다.
+>Adobe ID가 [&#128279;](/help/marketo/product-docs/administration/marketo-with-adobe-identity/adobe-identity-management-overview.md){target="_blank"}인 Marketo으로 마이그레이션된 사용자의 경우 엄격한 모드의 Microsoft Edge을 제외하고 모든 브라우저가 Mac과 Windows 모두에서 지원됩니다.
 
 최상의 사용 환경을 위해 **브라우저를 계속 업데이트**&#x200B;하세요!
