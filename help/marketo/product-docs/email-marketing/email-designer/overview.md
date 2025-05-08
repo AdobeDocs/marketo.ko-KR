@@ -5,9 +5,9 @@ description: 새로운 Adobe Marketo Engage 이메일 Designer을 시작합니�
 title: 개요
 feature: Email Editor
 exl-id: d31ce148-1feb-411e-bd10-453a6c7878fb
-source-git-commit: 0e73866a4187d7bff67ce199e8d01e55081bcbef
+source-git-commit: 8c1e165a1d1d3fc00bf34c983a8edcb974294150
 workflow-type: tm+mt
-source-wordcount: '760'
+source-wordcount: '815'
 ht-degree: 0%
 
 ---
@@ -18,11 +18,15 @@ ht-degree: 0%
 
 이메일 디자이너는 표준 기본 템플릿과 함께 드래그 앤 드롭 편집기를 시각적으로 제공하여 생산성과 효율성을 개선하는 개선된 이메일 및 이메일 템플릿 작성 경험을 제공하기 위한 Marketo Engage의 최신 혁신입니다. 공급업체에 비용을 들이지 않고도 맞춤형 이메일 템플릿을 손쉽게 제작할 수 있습니다.
 
+>[!NOTE]
+>
+>모든 주요 브라우저에서 이메일 Designer에 액세스할 수 있지만 Firefox의 전체 기능은 현재 지원되지 않습니다.
+
 ## 액세스 방법 {#how-to-access}
 
 +++이메일 디자이너에 액세스하는 방법 알아보기
 
-새 이메일 디자이너에 액세스하려면 Marketo Engage 구독을 [Adobe IMS(Identity Management System)](https://experienceleague.adobe.com/ko/docs/marketo/using/product-docs/administration/marketo-with-adobe-identity/adobe-identity-management-overview)&#x200B;(으)로 마이그레이션해야 합니다. 아직 실행되지 않았으며 신속 처리를 요청하려면 Adobe 계정 팀(계정 관리자) 또는 [Marketo 지원](https://nation.marketo.com/t5/support/ct-p/Support)에 문의하십시오.
+새 이메일 디자이너에 액세스하려면 Marketo Engage 구독을 [Adobe IMS(Identity Management System)](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/administration/marketo-with-adobe-identity/adobe-identity-management-overview)&#x200B;(으)로 마이그레이션해야 합니다. 아직 실행되지 않았으며 신속 처리를 요청하려면 Adobe 계정 팀(계정 관리자) 또는 [Marketo 지원](https://nation.marketo.com/t5/support/ct-p/Support)에 문의하십시오.
 
 ### 사용자 추가 {#add-users}
 
@@ -101,4 +105,8 @@ API를 통해 편집되는 Assets은 현재 새 이메일 디자이너에서 지
 
 **Marketo Engage 구독이 IMS(Adobe Admin Console)로 마이그레이션되었는지 어떻게 알 수 있습니까?**
 
-[Adobe Experience Cloud](https://experiencecloud.adobe.com/){target="_blank"}을(를) 통해 Marketo Engage에 로그인하면 구독이 마이그레이션되었습니다.
+[Adobe Experience Cloud](https://experiencecloud.adobe.com/){target="_blank"}을(를) 통해 Marketo Engage에 로그인하면 구독이 마이그레이션됩니다.
+
+**새 전자 메일 Designer에 사용할 수 있는 브라우저는 무엇입니까?**
+
+Google Chrome, Apple Safari 또는 Microsoft Edge을 사용하는 것이 좋습니다. Mozilla Firefox에 대한 전체 지원은 나중에 이용할 수 있습니다.
