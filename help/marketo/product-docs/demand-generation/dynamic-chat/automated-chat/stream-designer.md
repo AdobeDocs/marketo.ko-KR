@@ -3,10 +3,10 @@ description: Stream Designer - Marketo 문서 - 제품 설명서
 title: 스트림 디자이너
 feature: Dynamic Chat
 exl-id: 310b1dff-dd93-48a6-85c2-64c58494ce48
-source-git-commit: d73ff37236abbd0d97631ad66b8eb34473650554
+source-git-commit: 11006e3244fd7a145a955dd08b669a897dae826b
 workflow-type: tm+mt
-source-wordcount: '1225'
-ht-degree: 2%
+source-wordcount: '1175'
+ht-degree: 1%
 
 ---
 
@@ -109,7 +109,7 @@ ht-degree: 2%
 
    ![](assets/stream-designer-6.png)
 
-1. _[!UICONTROL Question]_&#x200B;카드를 끌어서 놓습니다.
+1. _[!UICONTROL Question]_카드를 끌어서 놓습니다.
 
    ![](assets/stream-designer-7.png)
 
@@ -141,15 +141,15 @@ ht-degree: 2%
 
    ![](assets/stream-designer-10.png)
 
-1. 오른쪽 열에서 **[!UICONTROL Save]**&#x200B;을(를) 클릭합니다.
+1. 라우팅 옵션을 선택하고 **[!UICONTROL Save]**&#x200B;을(를) 클릭합니다.
 
    ![](assets/stream-designer-11.png)
 
-1. 목표이므로 약속 스케줄러 아래에 있는 [!UICONTROL Goal] 카드를 끌어서 놓습니다.
+1. 목표이므로 _[!UICONTROL Goal]_카드를 모임 예약 아래로 끌어 놓으십시오.
 
    ![](assets/stream-designer-12.png)
 
-1. 목표의 이름을 지정하거나 기존 목표를 선택하고 **[!UICONTROL Save]**&#x200B;을(를) 클릭합니다.
+1. 목표의 이름을 지정하거나 기존 목표를 선택하고 **[!UICONTROL Save]**&#x200B;을(를) 클릭합니다. 대화 점수 지정은 선택 사항입니다.
 
    ![](assets/stream-designer-13.png)
 
@@ -165,38 +165,19 @@ ht-degree: 2%
    >
    >**[!UICONTROL Add Response]**&#x200B;을(를) 클릭하여 응답을 더 추가할 수 있습니다.
 
-1. &quot;예&quot; 응답 아래에서 방문자의 이메일을 수집할 수 있도록 정보 캡처 카드 위로 드래그합니다.
+1. &quot;예&quot; 응답 아래에서 방문자의 전자 메일을 수집할 수 있도록 _정보 캡처_ 카드 위로 끌어서 놓습니다.
 
    ![](assets/stream-designer-16.png)
 
-1. **[!UICONTROL Type]** 드롭다운을 클릭하고 **[!UICONTROL Email]**&#x200B;을(를) 선택합니다.
+1. 드롭다운을 클릭하고 **[!UICONTROL Email Address]**&#x200B;을(를) 선택합니다.
 
    ![](assets/stream-designer-17.png)
 
-1. 챗봇 메시지 및 자리 표시자를 입력합니다. 특성이 Marketo Engage의 적절한 필드에 매핑되어 있는지 확인하고 **[!UICONTROL Save]**&#x200B;을(를) 클릭합니다.
+1. 챗봇 메시지 및 자리 표시자를 입력합니다. 데이터베이스에 이 속성의 값이 이미 있는 경우 건너뛸 것인지 아니면 이 데이터를 덮어쓸 것인지 선택하십시오. 완료되면 **[!UICONTROL Save]**&#x200B;을(를) 클릭합니다.
 
    ![](assets/stream-designer-18.png)
 
-   <table>
-    <tr>
-     <td style="width:30%"><strong>유형</strong></td>
-     <td>캡처할 정보 유형(전화, 텍스트, 이메일)입니다.</td>
-    </tr>
-    <tr>
-     <td style="width:30%"><strong>챗봇 메시지</strong></td>
-     <td>방문자에게 정보를 입력하라는 메시지가 표시됩니다.</td>
-    </tr>
-    <tr>
-     <td style="width:30%"><strong>플레이스홀더</strong></td>
-     <td>방문자가 입력할 내용을 확인하는 데 도움이 되는 샘플 텍스트입니다.</td>
-    </tr>
-    <tr>
-     <td style="width:30%"><strong>속성에 대한 응답 매핑</strong></td>
-     <td>Marketo Engage 구독에서 방문자의 응답을 개인 레코드의 해당 필드에 동기화할 수 있습니다.</td>
-    </tr>
-   </table>
-
-1. 전자 메일 수집이 목표이므로 [!UICONTROL Goal] 카드를 정보 캡처 아래에 끌어 놓으십시오.
+1. 전자 메일 수집이 목표이므로 _[!UICONTROL Goal]_카드를 정보 캡처 아래에 끌어 놓으십시오.
 
    ![](assets/stream-designer-19.png)
 
@@ -212,13 +193,9 @@ ht-degree: 2%
 
    ![](assets/stream-designer-22.png)
 
-1. 대화 상자를 미리 보려면 **[!UICONTROL Preview]** 전환을 선택하십시오.
-
-   ![](assets/stream-designer-23.png)
-
 1. 대화 상자를 활성화할 준비가 되면 **[!UICONTROL Publish]**&#x200B;을(를) 클릭합니다.
 
-   ![](assets/stream-designer-24.png)
+   ![](assets/stream-designer-23.png)
 
 >[!NOTE]
 >
