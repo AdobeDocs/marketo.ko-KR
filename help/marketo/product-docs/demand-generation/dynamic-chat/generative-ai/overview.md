@@ -1,16 +1,16 @@
 ---
 description: 생성 AI 개요 - Marketo 문서 - 제품 설명서
-title: 생성 AI 개요
+title: Dynamic Chat의 생성 AI
 feature: Dynamic Chat
 exl-id: 2ec6409b-f2c8-42a4-94e0-5d2cd331a0a6
-source-git-commit: 338f7ab16b3eea1a5d9777ca5283a1b1629376e6
+source-git-commit: a027acc6da55fb9316f4e34c0445b17dba9f60f1
 workflow-type: tm+mt
-source-wordcount: '445'
+source-wordcount: '449'
 ht-degree: 2%
 
 ---
 
-# 생성 AI 개요 {#generative-ai-overview}
+# Dynamic Chat의 생성 AI {#generative-ai-overview}
 
 Adobe Dynamic Chat의 생성 AI 기반 기능을 사용하면 판매 에이전트의 생산성을 최적화하고, 웹 사이트 방문자의 의도에 대한 통찰력을 얻고, 방문자 질문에 안전한 방식으로 응답할 수 있습니다.
 
@@ -64,19 +64,19 @@ Adobe Dynamic Chat의 생성 AI 기반 기능을 사용하면 판매 에이전�
 
 ## 논의된 항목 {#discussed-topics}
 
-논의된 주제는 스마트 목록 트리거 및 필터에서 제한 사항으로 사용할 수 있으므로 Dynamic Chat 통찰력을 더욱 자세히 살펴볼 수 있습니다.
+논의된 주제는 스마트 목록 트리거 및 필터에서 제한 사항으로 사용할 수 있으므로 Dynamic Chat 통찰력을 더욱 자세히 드릴다운할 수 있습니다.
 
 ![](assets/generative-ai-overview-9.png)
 
 >[!IMPORTANT]
 >
->생성 AI를 사용할 때는 [Adobe Experience Cloud 생성 AI 사용자 지침](https://www.adobe.com/legal/licenses-terms/adobe-dx-gen-ai-user-guidelines.html)을 준수해야 생성 AI가 통합된 Adobe Experience Cloud 기능이 안전하고 책임감 있는 방식으로 사용되고 있는지 확인할 수 있습니다.
+>생성 AI를 사용할 때는 [Adobe Experience Cloud 생성 AI 사용자 지침](https://www.adobe.com/kr/legal/licenses-terms/adobe-dx-gen-ai-user-guidelines.html)을 준수해야 생성 AI가 통합된 Adobe Experience Cloud 기능이 안전하고 책임감 있는 방식으로 사용되고 있는지 확인할 수 있습니다.
 
 ## FAQ {#faq}
 
 **모든 Dynamic Chat 사용자가 생성 AI를 사용할 수 있습니까?**
 
-생성 AI는 Dynamic Chat Prime 가입자만 사용할 수 있습니다. 자세한 내용은 Adobe 계정 팀(계정 관리자)에 문의하십시오.
+생성 AI는 Dynamic Chat Prime 구독자만 사용할 수 있습니다. 자세한 내용은 Adobe 계정 팀(계정 관리자)에 문의하십시오.
 
 **생성할 수 있는 질문 및 답변의 양에 제한이 있습니까?**
 
