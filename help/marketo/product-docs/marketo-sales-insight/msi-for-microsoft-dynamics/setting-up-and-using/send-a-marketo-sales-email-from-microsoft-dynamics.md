@@ -1,10 +1,10 @@
 ---
 unique-page-id: 2953338
-description: Microsoft Dynamics - Marketo 문서 - 제품 설명서에서 Marketo 판매 이메일 보내기
+description: Microsoft Dynamics에서 Marketo 판매 이메일 보내기 - Marketo 문서 - 제품 설명서
 title: Microsoft Dynamics에서 Marketo 판매 이메일 보내기
 exl-id: 9ee53a3e-8bbe-458a-9905-a1e1503f9553
 feature: Marketo Sales Insights
-source-git-commit: 22385fc545378f8835c36564b1029bedbdbb3848
+source-git-commit: a571a312477c6c1b08241ef2cfb011ce525fba07
 workflow-type: tm+mt
 source-wordcount: '166'
 ht-degree: 0%
@@ -13,7 +13,7 @@ ht-degree: 0%
 
 # Microsoft Dynamics에서 Marketo 판매 이메일 보내기 {#send-a-marketo-sales-email-from-microsoft-dynamics}
 
-영업팀은 이메일을 전송하여 Microsoft Dynamics 내에서 직접 열기 및 클릭을 추적하도록 할 수 있습니다. 방법은 다음과 같습니다.
+영업 팀은 이메일을 전송하여 Microsoft Dynamics 내에서 직접 열기 및 클릭에 대해 추적할 수 있습니다. 방법은 다음과 같습니다.
 
 1. Dynamics에서 **판매** 영역으로 이동합니다.
 
@@ -45,9 +45,9 @@ ht-degree: 0%
 
    >[!NOTE]
    >
-   >한 번에 최대 2000개의 Marketo 이메일을 보낼 수 있습니다.
+   >한 번에 최대 300개의 Marketo 이메일을 보낼 수 있습니다.
 
-잘했어! 이제 Microsoft Dynamics 내에서 Marketo 추적 이메일을 직접 전송하는 방법을 알 수 있습니다.
+잘했어! 이제 Marketo 내에서 직접 Microsoft Dynamics 추적 이메일을 전송하는 방법을 알 수 있습니다.
 
 >[!MORELIKETHIS]
 >
