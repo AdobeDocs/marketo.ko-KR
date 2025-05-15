@@ -123,4 +123,4 @@ Adobe은 모든 관리자 및 사용자가 마이그레이션되면 전자 메�
 >* [Adobe Identity로 마이그레이션 개요](/help/marketo/product-docs/administration/marketo-with-adobe-identity/subscription-and-user-migration/migrating-to-adobe-identity.md){target="_blank"}
 >* [Adobe으로 사용자 로그인](/help/marketo/product-docs/administration/marketo-with-adobe-identity/user-sign-in-with-adobe-id.md){target="_blank"}
 >* [Adobe Identity Management FAQ](/help/marketo/product-docs/administration/marketo-with-adobe-identity/faq.md){target="_blank"}
->* [Adobe Identity Management 튜토리얼로 마이그레이션](https://experienceleague.adobe.com/en/docs/marketo-learn/tutorials/fundamentals/migrating-to-adobe-identity-management){target="_blank"}
+>* [Adobe Identity Management 튜토리얼로 마이그레이션](https://experienceleague.adobe.com/ko/docs/marketo-learn/tutorials/fundamentals/migrating-to-adobe-identity-management){target="_blank"}
