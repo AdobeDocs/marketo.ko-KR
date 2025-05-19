@@ -4,9 +4,9 @@ description: 프로그램 멤버십 이해 - Marketo 문서 - 제품 설명서
 title: 프로그램 멤버십 이해
 exl-id: 02480a93-b499-4e0f-8a1c-a22f7d3b7178
 feature: Programs
-source-git-commit: eb6d834c1f430beebf0666d7694203a268be93f2
+source-git-commit: 93d6e498ee69a1a9fdee7956ac351764cf18a87a
 workflow-type: tm+mt
-source-wordcount: '309'
+source-wordcount: '266'
 ht-degree: 0%
 
 ---
@@ -15,26 +15,22 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->이제 Marketo이 모든 구독에서 언어를 표준화하고 있으므로 구독에 대한 리드/리드 및 문서에 있는 사용자/사람을 볼 수 있습니다. 이 용어는 동일한 것을 의미하므로 문서 지침에 영향을 주지 않습니다. 다른 변경 사항도 있습니다. [자세히 알아보기](/help/marketo/product-docs/crm-sync/salesforce-sync/understanding-the-salesforce-sync.md){target="_blank"}.
-
->[!NOTE]
->
 >**정의:** 구성원은 프로그램에 있는 상태입니다.
 
 ## 사람들이 프로그램의 구성원이 되는 방법 {#how-people-become-members-of-a-program}
 
-1. 사용자가 프로그램의 랜딩 페이지[&#128279;](/help/marketo/getting-started/quick-wins/landing-page-with-a-form.md){target="_blank"}에 양식을 작성합니다.
+1. 사용자가 프로그램의 랜딩 페이지](/help/marketo/getting-started/quick-wins/landing-page-with-a-form.md){target="_blank"}에 [양식을 작성합니다.
 
-   1. 개인은 자동으로 진행 중 첫 번째 상태를 갖게 됩니다.
+   * 개인은 자동으로 진행 중 첫 번째 상태를 갖게 됩니다.
 
 1. CSV 파일에서 [구성원을 프로그램으로 가져오기](/help/marketo/product-docs/core-marketo-concepts/programs/working-with-programs/import-members-from-a-spreadsheet-into-a-program.md){target="_blank"}합니다.
 
-   1. 개인은 자동으로 진행 중 첫 번째 상태를 갖게 됩니다.
+   * 개인은 자동으로 진행 중 첫 번째 상태를 갖게 됩니다.
 
 1. [프로그램 상태 변경](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/program-flow-actions/change-program-status.md){target="_blank"} 흐름 단계를 사용합니다.
 1. 사용자가 이벤트 프로그램과 동기화된 [웨비나](/help/marketo/product-docs/demand-generation/events/understanding-events/event-partners.md){target="_blank"}에 등록하거나 참여합니다.
 1. 사용자가 [Marketo iPad 체크 인 응용 프로그램을 사용하여 만들어졌습니다](/help/marketo/product-docs/core-marketo-concepts/mobile-apps/event-check-in/check-people-into-your-event-from-your-tablet.md){target="_blank"}.
-1. 사용자가 SFDC 캠페인에 추가되어 [프로그램에 동기화됨](/help/marketo/product-docs/crm-sync/salesforce-sync/sfdc-sync-details/sfdc-sync-campaign-sync.md){target="_blank"}.
+1. 사용자가 SFDC 캠페인에 추가되었으며, 이 캠페인은 [프로그램에 동기화됨](/help/marketo/product-docs/crm-sync/salesforce-sync/sfdc-sync-details/sfdc-sync-campaign-sync.md){target="_blank"}입니다.
 
 >[!NOTE]
 >

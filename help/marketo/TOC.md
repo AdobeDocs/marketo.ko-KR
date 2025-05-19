@@ -3,9 +3,9 @@ audience: end-user
 user-guide-title: Marketo 안내서
 user-guide-description: Marketo 제품 설명서
 feature-set: Marketo Engage
-source-git-commit: 7ec3687c0c16738805394377b2080295c2f18032
+source-git-commit: 93d6e498ee69a1a9fdee7956ac351764cf18a87a
 workflow-type: tm+mt
-source-wordcount: '9261'
+source-wordcount: '9265'
 ht-degree: 1%
 
 ---
@@ -1958,6 +1958,7 @@ ht-degree: 1%
       + 2025 {#2025}
          + [릴리스 노트: 2025년 1월](release-notes/previous-releases/2025/release-notes-jan-25.md)
          + [릴리스 노트: 2025년 3월](release-notes/previous-releases/2025/release-notes-mar-25.md)
+         + [릴리스 노트: 2025년 4월](release-notes/previous-releases/2025/release-notes-apr-25.md)
       + 2024 {#2024}
          + [릴리스 노트: 2024년 1월](release-notes/previous-releases/2024/release-notes-jan-24.md)
          + [릴리스 노트: 2024년 3월](release-notes/previous-releases/2024/release-notes-mar-24.md)
