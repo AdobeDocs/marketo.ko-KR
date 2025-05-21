@@ -3,9 +3,9 @@ description: 최신 릴리스 정보 - Marketo 설명서 - 제품 설명서
 title: 최신 릴리스 정보
 exl-id: a2eccad5-73ad-48f9-8091-51cee23824e1
 feature: Release Information
-source-git-commit: 93d6e498ee69a1a9fdee7956ac351764cf18a87a
+source-git-commit: 701155a5beccf3725fe26d2bc75c541c989d4af4
 workflow-type: tm+mt
-source-wordcount: '331'
+source-wordcount: '329'
 ht-degree: 3%
 
 ---
@@ -56,6 +56,6 @@ Adobe Dynamic Chat [에 대한 릴리스 정보는 여기에서 찾을 수 있�
 
 이 기능에 액세스하려면 고급 BI Analytics 추가 기능을 구입해야 합니다. 자세한 내용은 Adobe 계정 팀(계정 관리자)에 문의하십시오.
 
-* **Rest API &#39;access_token&#39; 매개 변수 사용 중단**: Marketo REST API 호출을 인증하는 데 사용되는 `access_token` 쿼리 매개 변수는 더 이상 사용되지 않으며 2025년 6월 30일 이후에 사용할 수 없습니다. 모든 신규 및 기존 통합은 &#39;인증&#39; 헤더 [을(를) 사용하여 여기에 설명된 대로 REST API 호출을 인증해야 합니다](https://experienceleague.adobe.com/ko/docs/marketo-developer/marketo/rest/authentication){target="_blank"}.
+* **Rest API &#39;access_token&#39; 매개 변수 사용 중단**: Marketo REST API 호출을 인증하는 데 사용되는 `access_token` 쿼리 매개 변수는 더 이상 사용되지 않으며 2025년 10월 31일 이후에 사용할 수 없습니다. 모든 신규 및 기존 통합은 &#39;인증&#39; 헤더 [을(를) 사용하여 여기에 설명된 대로 REST API 호출을 인증해야 합니다](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/rest/authentication){target="_blank"}.
 
-* **SOAP API 사용 중단**: Marketo SOAP API에 대한 지원은 2025년 10월 31일에 종료됩니다. SOAP API 기능을 사용하는 서비스는 [REST API](https://experienceleague.adobe.com/ko/docs/marketo-developer/marketo/rest/rest-api){target="_blank"}(으)로 마이그레이션해야 합니다.
+* **SOAP API 사용 중단**: Marketo SOAP API에 대한 지원은 2025년 10월 31일에 종료됩니다. SOAP API 기능을 사용하는 서비스는 [REST API](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/rest/rest-api){target="_blank"}(으)로 마이그레이션해야 합니다.
