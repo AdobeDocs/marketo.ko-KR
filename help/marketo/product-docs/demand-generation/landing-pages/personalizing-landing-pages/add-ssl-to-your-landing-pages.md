@@ -4,9 +4,9 @@ description: 랜딩 페이지에 SSL 추가 - Marketo 문서 - 제품 설명서
 title: 랜딩 페이지에 SSL 추가
 exl-id: 8271d9fe-0575-430c-97c7-407e4b78cf1d
 feature: Landing Pages
-source-git-commit: 7ec3687c0c16738805394377b2080295c2f18032
+source-git-commit: fddc2f24d9a66146f567c762305ab2825c2f29ae
 workflow-type: tm+mt
-source-wordcount: '367'
+source-wordcount: '794'
 ht-degree: 0%
 
 ---
@@ -55,6 +55,58 @@ Marketo Engage은 기본적으로 비보안 HTTP 프로토콜에 대해 &quot;�
 
 >[!NOTE]
 >
->* 목록의 SSL 인증서 열에는 이 기능이 릴리스된 후 만들어진 모든 도메인 별칭에 대한 인증서 상태(DATE)가 표시됩니다. Marketo 지원을 통해 도메인에 대해 SSL을 활성화한 경우 인증서가 계속 존재하지만 테이블에는 표시되지 않습니다. 이 표에는 이 문서의 단계를 사용하여 추가된 도메인의 SSL 인증서만 반영됩니다.
+>* 목록의 SSL 인증서 열에는 이 기능이 릴리스된 후 만들어진 모든 도메인 별칭에 대한 인증서 상태가 표시됩니다(2025년 4월 25일). Marketo 지원을 통해 도메인에 대해 SSL을 활성화한 경우 인증서가 계속 존재하지만 테이블에는 표시되지 않습니다. 이 표에는 이 문서의 단계를 사용하여 추가된 도메인의 SSL 인증서만 반영됩니다.
 >
 >* SSL이 준비 상태가 되는 데 최대 3분이 걸릴 수 있습니다. 변경 사항을 표시하려면 페이지를 새로 고쳐야 합니다.
+
+## 오류 메시지 {#error-messages}
+
+아래에는 오류 메시지와 해당 정의를 찾을 수 있습니다.
+
+<table><thead>
+  <tr>
+    <th>오류</th>
+    <th>세부 사항</th>
+  </tr></thead>
+<tbody>
+  <tr>
+    <td><i>도메인을 생성하는 도중 예기치 않은 오류가 발생했습니다. 도움이 필요하면 지원 센터에 문의하십시오.</i></td>
+    <td>예기치 않은 오류가 발생했습니다. 로그와 오류 세부 정보를 수집한 다음 문제를 지원 센터로 에스컬레이션하십시오.</td>
+  </tr>
+  <tr>
+    <td><i>기본 도메인을 찾을 수 없습니다. 도움이 필요하면 지원 센터에 문의하십시오.</i></td>
+    <td>기본 도메인을 찾으려고 할 때 문제가 발생했습니다. 그들이 조사할 수 있도록 지원팀에 연락하십시오.</td>
+  </tr>
+  <tr>
+    <td><i>SSL 인증서가 이미 발급되었습니다.</i></td>
+    <td>이 사용자 정의 도메인에 대한 SSL 인증서가 이미 있습니다. 인증서가 만료되었거나 다시 발급해야 하는 경우가 아니면 추가 작업이 필요하지 않습니다.</td>
+  </tr>
+  <tr>
+    <td><i>도메인이 기본 도메인에 매핑되지 않습니다.</i></td>
+    <td>사용자 정의 도메인이 기본 도메인에 올바르게 매핑되지 않습니다. 도메인 매핑 설정을 확인하고 DNS 구성이 올바른 기본 도메인을 가리켜야 합니다.</td>
+  </tr>
+  <tr>
+    <td><i>도메인이 이미 존재합니다.</i></td>
+    <td>같은 이름의 도메인이 이미 있습니다.</td>
+  </tr>
+  <tr>
+    <td><i>더 많은 도메인을 추가하려면 먼저 일회성 IP 구성이 필요합니다. 설정을 완료하고 다른 도메인을 추가하려면 지원 센터에 문의하십시오.</i></td>
+    <td>기본 도메인 다음의 첫 번째 사용자 정의 도메인은 사용자가 1회 설정을 시작해야 합니다. 설치를 완료하고 완료되면 도메인을 추가하려면 지원 티켓을 높입니다.</td>
+  </tr>
+</tbody></table>
+
+## 참고할 사항 {#things-to-note}
+
+* **Marketo Engage에 대한 도메인에 대한 DNS 매핑**: UI에 도메인을 추가하기 전에 CNAME을 Marketo 제공 도메인에 매핑](https://experienceleague.adobe.com/en/docs/marketo/using/getting-started/initial-setup/setup-steps#customize-your-landing-page-urls-with-a-cname){target="_blank"}해야 합니다.[
+
+* **사용자 지정 SSL**: 사용자 지정 SSL이 필요한 경우 [지원 티켓](https://nation.marketo.com/t5/support/ct-p/Support){target="_blank"}을 제출하세요. SSL 생성을 위해 셀프서비스 확인란을 사용하지 마십시오.
+
+* **기존 SSL**: 도메인을 추가하는 동안 시스템은 이전에 수동으로 생성했을 수 있는 기존 SSL을 확인합니다. 이 유효성 검사가 발생하면 SSL 생성을 선택하지 않고 도메인을 생성하면 자동으로 연결됩니다. [지원 센터에 문의](https://nation.marketo.com/t5/support/ct-p/Support){target="_blank"} 추가 세부 정보/옵션을 제공합니다.
+
+* **처음 추적 도메인**: 전자 메일 추적 링크 도메인을 처음 만드는 경우 [Marketo 지원](https://nation.marketo.com/t5/support/ct-p/Support){target="_blank"}에서 수동으로 조작해야 합니다. UI에서는 동일한 도메인 아래에 후속 하위 도메인을 만들 수 있습니다.
+
+* **Marketo On-Prem만 해당**: 현재 이 기능은 On-Prem에서만 사용할 수 있습니다. Marketo Engage on Cloud Services는 [Marketo 지원](https://nation.marketo.com/t5/support/ct-p/Support){target="_blank"}에 연락하여 SSL을 설정해야 합니다.
+
+* **기존 도메인에 인증서를 추가**: 기존 도메인에 인증서를 추가하는 것은 현재 지원되지 않습니다. 기존 도메인의 경우 또는 SSL 인증서 상자를 확인하지 못한 경우의 경우 인증서를 추가하려면 [Marketo 지원](https://nation.marketo.com/t5/support/ct-p/Support){target="_blank"}에 연결해야 합니다.
+
+* **도메인 삭제**: 현재 도메인을 삭제해도 SSL 인증서가 자동으로 삭제되지 않습니다. 이 문제는 향후 릴리스에서 해결될 예정입니다.

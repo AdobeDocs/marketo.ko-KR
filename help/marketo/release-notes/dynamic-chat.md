@@ -3,10 +3,10 @@ description: Dynamic Chat 릴리스 정보 - Marketo 설명서 - 제품 설명�
 title: Dynamic Chat 릴리스 정보
 feature: Release Information, Dynamic Chat
 exl-id: 0447dc47-b9c5-42e1-8f66-73bf67c7871d
-source-git-commit: c0ccf1c515dbde48a131242939c077b44ffd5c1b
+source-git-commit: fddc2f24d9a66146f567c762305ab2825c2f29ae
 workflow-type: tm+mt
-source-wordcount: '2427'
-ht-degree: 1%
+source-wordcount: '2571'
+ht-degree: 2%
 
 ---
 
@@ -14,7 +14,25 @@ ht-degree: 1%
 
 Adobe Dynamic Chat 릴리스는 기능 배포에 대한 보다 확장 가능한 접근 방식을 고려하는 연속 제공 모델에서 작동합니다. 한 달에 릴리스가 여러 개인 경우가 있으므로 정기적으로 최신 정보를 확인하십시오.
 
-[ Marketo Engage에 대한 표준 릴리스 노트는 ](/help/marketo/release-notes/current.md){target="_blank"}에 있습니다.
+Marketo Engage [에 대한 표준 릴리스 정보 페이지는 여기](/help/marketo/release-notes/current.md){target="_blank"}에서 찾을 수 있습니다.
+
+## 2025년 4월/5월 릴리스 {#apr-may-25-release}
+
+### 메시지 알림 소리 {#message-notification-sound}
+
+이제 세션에서 챗봇이 트리거될 때마다 방문자의 사운드를 활성화하는 옵션이 제공됩니다. 선택할 수 있는 사운드가 여러 개 있습니다.
+
+### 모바일에서 메시지 포킹 활성화 {#enable-poke-messages-on-mobile}
+
+방문자가 보기 위해 클릭할 필요 없이 채팅 아이콘 옆에 열린 질문을 표시하는 &quot;Poke&quot;는 이제 모바일 디바이스를 사용하는 방문자에 대해 활성화할 수 있는 옵션입니다.
+
+### 기본 대체 업데이트 {#default-fallback-update}
+
+사용자 정의 규칙/팀을 라이브 채팅 카드로 사용하는 경우—에이전트를 사용할 수 없는 경우(또는 채팅을 연결할 수 없는 경우), 사용 가능한 에이전트(스트림에 사용된 라우팅 논리/규칙에 관계없이 해당 시간에 사용할 수 있는 모든 사용자)에 대한 라운드 로빈으로 돌아갑니다.
+
+### Demandbase 통합 {#demandbase-integration}
+
+Demandbase 사용자는 Dynamic Chat에서 대화 상자 타겟팅, 조건부 브랜딩 및 사용자 지정 라우팅에 Demandbase 개인 속성을 사용할 수 있습니다.
 
 ## 2024년 9월/10월 릴리스 {#sep-oct-release}
 
@@ -38,7 +56,7 @@ Adobe Dynamic Chat 릴리스는 기능 배포에 대한 보다 확장 가능한 
 
 ### 대화 점수 {#conversation-scoring}
 
-채팅 상호 작용의 품질을 기반으로 리드를 수치화하고 해당 지표를 Marketo Engage 스마트 캠페인의 트리거/필터로 사용합니다. 다음 활동에서 새 특성 _대화 점수_&#x200B;를 사용하십시오.
+채팅 상호 작용의 품질을 기반으로 리드를 수치화하고 해당 지표를 Marketo Engage Smart Campaign에서 트리거/필터로 사용합니다. 다음 활동에서 새 특성 _대화 점수_&#x200B;를 사용하십시오.
 
 * 대화 참여
 * 대화 흐름에 참여
@@ -126,7 +144,7 @@ Adobe Dynamic Chat 릴리스는 기능 배포에 대한 보다 확장 가능한 
 
 ![](assets/dynamic-chat-sep-oct-2024-release-5.png)
 
-### Demandbase와 Dynamic Chat 통합 {#demandbase-integration-with-dynamic-chat}
+### Dynamic Chat과 Demandbase 통합 {#demandbase-integration-with-dynamic-chat}
 
 Demandbase 사용자는 자신의 Demandbase 라이선스를 가져와 통합을 활성화할 수 있습니다. 대화 상자 타겟팅, 조건부 브랜딩 및 사용자 지정 라우팅에는 Demandbase 사용자 특성을 사용합니다.
 
@@ -182,7 +200,7 @@ Demandbase 사용자는 자신의 Demandbase 라이선스를 가져와 통합을
 
 ### Marketo Engage의 쿠키 없이 리드 동기화 {#syncing-leads-without-cookies}
 
-이전에는 Marketo Engage 동기화가 활성화되면 Dynamic Chat이 알려진 잠재 고객만 Marketo Engage의 쿠키 ID를 하나 이상 동기화했습니다. 이제 알려진 모든 잠재 고객 (쿠키 ID가 있는지 여부)이 Dynamic Chat에 동기화되며 대화 개인화에 사용할 수 있습니다.
+이전에는 Marketo Engage 동기화가 활성화되면 Dynamic Chat은 알려진 잠재 고객이 Marketo Engage의 쿠키 ID 하나 이상과 동기화되는 경우에만 있었습니다. 이제 알려진 모든 리드(쿠키 ID가 있는지 여부)가 Dynamic Chat에 동기화되며, 대화 개인화에 사용할 수 있습니다.
 
 ### 대화 흐름에 추가 방문자 데이터 전달 {#pass-additional-visitor-data}
 
@@ -260,7 +278,7 @@ AI 생성 질문 및 답변의 [마케팅 승인 라이브러리를 만듭니다
 
 ### 대화 넛지 {#conversation-nudges}
 
-대화의 결론을 이끌어 내기 위해 클릭 유도 문안(call-to-action)으로 웹 방문자를 살짝 밀어냅니다.
+call-to-action을 사용하여 웹 방문자를 대화로 전환하면 대화의 결론에 도달할 수 있습니다.
 
 <p>
 
@@ -270,17 +288,17 @@ AI 생성 질문 및 답변의 [마케팅 승인 라이브러리를 만듭니다
 
 ### 이제 모든 사용자가 대화 흐름을 사용할 수 있습니다. {#conversational-flows-available-to-all-users}
 
-이제 모든 Dynamic Chat 사용자가 &#42;에서 Conversational Forms을 사용하여 양식을 제출한 후 바로 자격을 갖춘 잠재 고객이 영업 팀과 회의 또는 채팅을 예약할 수 있도록 하여 양식 및 랜딩 페이지를 보다 대화형으로 만들고 영업 단계를 단축할 수 있습니다.
+이제 모든 Dynamic Chat 사용자가 Conversational Forms으로 양식 제출 후 바로 Sales와의 회의 또는 채팅을 예약할 수 있는 자격을 갖춘 리드를 허용하여 양식 및 랜딩 페이지를 보다 대화형으로 만들고 판매 단계를 단축할 수 있습니다. &#42;
 
 _&#42;이전에 100번의 라이프타임 참여를 통해 체험판 기능으로 사용할 수 있습니다. 이제 대화 흐름 참여는 Select 패키지에서 사용자의 참여 대화 250개로 월별 한도에 포함됩니다._
 
 ### 콜백 함수 {#callback-functions}
 
-[콜백 함수](/help/marketo/product-docs/demand-generation/dynamic-chat/setup-and-configuration/callback-functions.md){target="_blank"}를 사용하면 방문자가 Dynamic Chat 대화를 나눌 때 Adobe Analytics 또는 Google Analytics과 같은 외부 시스템에서 Dynamic Chat 분석 이벤트를 수집할 수 있습니다. 이벤트를 수신할 API에 콜백을 등록하여 Dynamic Chat 분석 이벤트를 활성화합니다. 이를 통해 웹 트래픽과 같은 다른 주요 데이터와 연관되므로 Dynamic Chat 참여를 보다 전체적으로 파악할 수 있습니다.
+[콜백 함수](/help/marketo/product-docs/demand-generation/dynamic-chat/setup-and-configuration/callback-functions.md){target="_blank"}를 사용하면 방문자가 Dynamic Chat 대화에 참여할 때 Adobe Analytics 또는 Google Analytics과 같은 외부 시스템에서 Dynamic Chat 분석 이벤트를 수집할 수 있습니다. 이벤트를 수신할 API에 콜백을 등록하여 Dynamic Chat analytics 이벤트를 활성화합니다. 이렇게 하면 웹 트래픽과 같은 다른 주요 데이터와 관련이 있으므로 Dynamic Chat 참여를 보다 전체적으로 볼 수 있습니다.
 
 ### 조건부 분기에 라이브 에이전트 가용성 조건 추가됨 {#live-agent-availability-conditional-branching}
 
-이제 기본 및 사용자 지정 Marketo Engage 필드 외에도 조건부 분기를 사용하여 에이전트 가용성에 따라 분기를 만들 수 있습니다. 이 기능은 사용 가능한 라이브 에이전트가 있을 때 방문자에게 라이브 에이전트와 대화할 수 있는 옵션만 제공하려는 경우에 유용합니다.
+이제 기본 및 사용자 지정 Marketo Engage 필드 외에도 조건부 분기를 사용하여 에이전트 가용성을 기반으로 분기를 만들 수 있습니다. 이 기능은 사용 가능한 라이브 에이전트가 있을 때 방문자에게 라이브 에이전트와 대화할 수 있는 옵션만 제공하려는 경우에 유용합니다.
 
 ![](assets/dynamic-chat-release-1.png)
 
@@ -296,7 +314,7 @@ _&#42;이전에 100번의 라이프타임 참여를 통해 체험판 기능으�
 
 ### 대화 흐름에 대한 라이브 채팅 {#live-chat-for-conversational-flows}
 
-2023년에 대화 상자에 대한 라이브 채팅 기능이 릴리스되었으며 이제 대화 흐름에 라이브 채팅 참여를 추가할 수 있습니다. 이제 Marketo Engage 양식과 함께 대화형 흐름을 사용하는 경우, 양식 제출 직후 자격을 갖춘 방문자가 라이브 에이전트와 채팅하도록 허용할 수 있습니다.
+2023년에 대화 상자에 대한 라이브 채팅 기능이 릴리스되었으며 이제 대화 흐름에 라이브 채팅 참여를 추가할 수 있습니다. Marketo Engage 양식과 함께 대화형 흐름을 사용하는 경우, 이제 양식 제출 직후 자격 있는 방문자가 라이브 에이전트와 채팅하도록 허용할 수 있습니다.
 
 ### 에이전트 받은 편지함의 최근 Marketo Engage 활동 {#recent-marketo-engage-activities-in-agent-inbox}
 
@@ -325,9 +343,9 @@ _&#42;이전에 100번의 라이프타임 참여를 통해 체험판 기능으�
 
 일부 사용자가 Dynamic Chat에서 에이전트를 추가 및 제거하는 데 문제가 있다고 표시했기 때문에 이러한 문제를 해결하기 위해 몇 가지 사항을 변경했습니다.
 
-사용자가 라이브 채팅 또는 모임 예약 권한이 있는 Admin Console에 추가되면 에이전트 관리 목록에 즉시 표시되고 대화 상자, 대화 흐름, 라우팅 규칙 및 팀에 추가할 수 있습니다.
+라이브 채팅 또는 모임 예약 권한이 있는 Admin Console에 사용자를 추가하면 해당 사용자가 즉시 에이전트 관리 목록에 표시되고 대화 상자, 대화 흐름, 라우팅 규칙 및 팀에 추가할 수 있습니다.
 
-모임 예약 또는 라이브 채팅 권한이 있는 사용자가 Admin Console에서 제거되면 Dynamic Chat에서 즉시 제거되고, 더 이상 라이브 채팅 또는 모임 라우팅에 사용할 수 없으며, 더 이상 라이선스 제한에 포함되지 않습니다.
+모임 예약 또는 라이브 채팅 권한이 있는 사용자가 Admin Console에서 제거되면 해당 사용자는 즉시 Dynamic Chat에서 제거되고, 더 이상 라이브 채팅 또는 모임 라우팅에 사용할 수 없으며 더 이상 라이선스 제한에 포함되지 않습니다.
 
 ### 향상된 대화 수준 보고서 성능 {#improved-conversation-level-report-performance}
 
@@ -361,7 +379,7 @@ _&#42;이전에 100번의 라이프타임 참여를 통해 체험판 기능으�
 
 걱정 마! 라운드 로빈 라우팅은 여전히 완벽하게 작동하며 항상 작동하는 방식으로 작동합니다. 라운드 로빈 라우팅 큐에서 종종 부정확한 에이전트 목록과 순서를 보여주는 페이지를 제거했습니다.
 
-2022년 Dynamic Chat 출시 당시에는 라이브 채팅에 대한 지원이 없었고, 모임 예약만 지원되었으며, 라운드 로빈 라우팅 페이지는 모임 예약만을 염두에 두고 설계되었습니다. 작년에 라이브 채팅이 도입되면서, 라운드 로빈 페이지는 모임 예약 및 라이브 채팅 권한이 모두 있는 에이전트 간의 라운드 로빈 라우팅의 보다 복잡한 특성을 정확하게 반영하지 않아 더 이상 사용되지 않게 되었습니다. 이를 해결하기 위해 몇 가지 다른 옵션을 살펴보았지만, 궁극적으로 혼동을 최소화하기 위해 모두 제거하는 것이 최선의 선택이라고 결정했습니다.
+2022년에 Dynamic Chat을 출시할 때는 라이브 채팅에 대한 지원이 없었고, 모임 예약만 지원되었으며, 라운드 로빈 라우팅 페이지는 모임 예약만을 염두에 두고 설계되었습니다. 작년에 라이브 채팅이 도입되면서, 라운드 로빈 페이지는 모임 예약 및 라이브 채팅 권한이 모두 있는 에이전트 간의 라운드 로빈 라우팅의 보다 복잡한 특성을 정확하게 반영하지 않아 더 이상 사용되지 않게 되었습니다. 이를 해결하기 위해 몇 가지 다른 옵션을 살펴보았지만, 궁극적으로 혼동을 최소화하기 위해 모두 제거하는 것이 최선의 선택이라고 결정했습니다.
 
 ![](assets/dynamic-chat-release-9.png)
 
@@ -377,11 +395,11 @@ _&#42;이전에 100번의 라이프타임 참여를 통해 체험판 기능으�
 
 ### 글로벌 대시보드의 날짜 범위가 90일에서 24개월로 늘어남 {#date-range-in-global-dashboard}
 
-당신이 물어보고 배달을 했어요. 이제 모든 분석 대시보드에서 최대 2년 동안의 Dynamic Chat 참여 데이터를 볼 수 있습니다.
+당신이 물어보고 배달을 했어요. 이제 모든 Dynamic Chat 대시보드에서 최대 2년 동안 Analytics 참여 데이터를 볼 수 있습니다.
 
 ### 대화 상자의 조건부 분기 {#conditional-branching-in-dialogues}
 
-조건부 분기를 사용하면 다양한 조건을 기반으로 대화 상자 흐름에서 분기를 만들 수 있습니다. 이제 Marketo Engage의 리드 및 회사 속성에 따라 동일한 대화 상자의 다른 사용자에게 다른 컨텐츠를 제공할 수 있습니다.
+조건부 분기를 사용하면 다양한 조건을 기반으로 대화 상자 흐름에서 분기를 만들 수 있습니다. 이제 Marketo Engage의 리드 및 회사 속성에 따라 동일한 대화 상자에서 다른 사람에게 다른 컨텐츠를 제공할 수 있습니다.
 
 ## 2024년 1월 릴리스 {#january-release}
 
