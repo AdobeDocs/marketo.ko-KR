@@ -3,9 +3,9 @@ audience: end-user
 user-guide-title: Marketo 안내서
 user-guide-description: Marketo 제품 설명서
 feature-set: Marketo Engage
-source-git-commit: 93d6e498ee69a1a9fdee7956ac351764cf18a87a
+source-git-commit: bc0d69105d7848e6068e552245dabbf28a69bacb
 workflow-type: tm+mt
-source-wordcount: '9265'
+source-wordcount: '9259'
 ht-degree: 1%
 
 ---
@@ -526,7 +526,6 @@ ht-degree: 1%
          + [Predictive Audiences 시작](product-docs/core-marketo-concepts/predictive-audiences/getting-started-with-predictive-audiences.md)
          + [모델 및 인사이트](product-docs/core-marketo-concepts/predictive-audiences/models-and-insights.md)
          + [예측 필터](product-docs/core-marketo-concepts/predictive-audiences/predictive-filters.md)
-         + [목표 추적 및 예상 등록 이해](product-docs/core-marketo-concepts/predictive-audiences/understanding-goal-tracking-and-projected-registrations.md)
    + CRM 동기화 {#crm-sync}
       + Microsoft Dynamics 동기화 {#microsoft-dynamics}
          + [Microsoft Dynamics 동기화 이해](product-docs/crm-sync/microsoft-dynamics-sync/understanding-the-microsoft-dynamics-sync.md)
