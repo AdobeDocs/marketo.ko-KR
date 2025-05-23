@@ -32,13 +32,13 @@ Adobe GenStudio for Performance Marketing은 자체 광고 및 이메일을 만�
 
    스크린샷
 
-1. [내보낸 템플릿을 HTMLGenStudio for Performance Marketing 에 업로드](https://experienceleague.adobe.com/en/docs/genstudio-for-performance-marketing/user-guide/content/templates/use-templates#templates-from-ajo-and-marketo){target="_blank"}합니다.
+1. [내보낸 템플릿을 HTMLGenStudio for Performance Marketing 에 업로드](https://experienceleague.adobe.com/ko/docs/genstudio-for-performance-marketing/user-guide/content/templates/use-templates#templates-from-ajo-and-marketo){target="_blank"}합니다.
 
 1. GenStudio에서 이 템플릿을 사용하여 AI 프롬프트가 있는 여러 이메일 변형을 만들고 저장합니다.
 
 >[!NOTE]
 >
->[GenStudio 전용 섹션](https://experienceleague.adobe.com/en/docs/genstudio-for-performance-marketing/user-guide/create/create-email-experience){target="_blank"}에서 전자 메일 경험을 만드는 방법을 알아봅니다.
+>[GenStudio 전용 섹션](https://experienceleague.adobe.com/ko/docs/genstudio-for-performance-marketing/user-guide/create/create-email-experience){target="_blank"}에서 전자 메일 경험을 만드는 방법을 알아봅니다.
 
 ## Marketo Engage에서 GenStudio 경험 활용 {#leverage-genstudio-experiences}
 
