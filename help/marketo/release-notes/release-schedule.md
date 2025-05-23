@@ -4,9 +4,9 @@ description: 릴리스 일정 - Marketo 설명서 - 제품 설명서
 title: 출시 일정
 exl-id: 38bd10e3-7f47-46f7-b9b0-83e1ab50014c
 feature: Release Information
-source-git-commit: 7ec3687c0c16738805394377b2080295c2f18032
+source-git-commit: f236f2cf73637ee1a0ee6062c1ecbf82f0e02130
 workflow-type: tm+mt
-source-wordcount: '144'
+source-wordcount: '143'
 ht-degree: 10%
 
 ---
@@ -43,14 +43,14 @@ _릴리스 날짜/기능은 변경될 수 있습니다_
    <td>배송됨</td>
   </tr>
   <tr> 
-   <td><a href="/help/marketo/release-notes/current.md">2025년 4월</a></td>
+   <td><a href="/help/marketo/release-notes/previous-releases/2025/release-notes-apr-25.md">2025년 4월</a></td>
    <td>2025년 4월</td>
-   <td>진행 중</td>
+   <td>배송됨</td>
   </tr>
   <tr> 
-   <td>25년 5월</td>
+   <td><a href="/help/marketo/release-notes/current.md">25년 5월</a></td>
    <td>2025년 5월 23일</td>
-   <td>일정에 따라</td>
+   <td>진행 중</td>
   </tr>
   <tr> 
    <td>2025년 6월</td>
