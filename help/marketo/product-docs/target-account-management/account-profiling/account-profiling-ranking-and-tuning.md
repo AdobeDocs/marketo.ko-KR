@@ -4,16 +4,20 @@ description: 계정 프로파일링 순위 및 조정 - Marketo 문서 - 제품 
 title: 계정 프로파일링 순위 및 조정
 exl-id: 9c5d0a03-0ebe-43cc-95ef-faab19a7f673
 feature: Target Account Management
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 2f978d814f4cf2d4d2ca9ead0c1a3e5c15430520
 workflow-type: tm+mt
-source-wordcount: '381'
-ht-degree: 0%
+source-wordcount: '401'
+ht-degree: 1%
 
 ---
 
 # 계정 프로파일링 순위 및 조정 {#account-profiling-ranking-and-tuning}
 
 계정 프로파일링은 ICP(Ideal Customer Profile)를 식별하고, ICP를 기준으로 데이터베이스의 회사 등급을 지정하며, ICP 지표 데이터를 명명 계정으로 승격된 계정에 추가합니다.
+
+>[!IMPORTANT]
+>
+>2025년 현재는 새 사용자에 대해 계정 프로파일링을 더 이상 사용할 수 없습니다. 기존 사용자에 대해 계속 작동합니다.
 
 ## 모델 결과 {#model-results}
 

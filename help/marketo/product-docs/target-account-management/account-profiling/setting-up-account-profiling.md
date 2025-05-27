@@ -4,9 +4,9 @@ description: 계정 프로파일링 설정 - Marketo 문서 - 제품 설명서
 title: 계정 프로파일링 설정
 exl-id: 6f3af2e7-f820-473b-8ed6-ff0982672e54
 feature: Target Account Management
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 2f978d814f4cf2d4d2ca9ead0c1a3e5c15430520
 workflow-type: tm+mt
-source-wordcount: '149'
+source-wordcount: '169'
 ht-degree: 2%
 
 ---
@@ -14,6 +14,10 @@ ht-degree: 2%
 # 계정 프로파일링 설정 {#setting-up-account-profiling}
 
 계정 프로파일링을 사용하려면 다음 단계를 따르십시오.
+
+>[!IMPORTANT]
+>
+>2025년 현재는 새 사용자에 대해 계정 프로파일링을 더 이상 사용할 수 없습니다. 기존 사용자에 대해 계속 작동합니다.
 
 >[!CAUTION]
 >
