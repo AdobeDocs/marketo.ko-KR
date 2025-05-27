@@ -77,4 +77,4 @@ ht-degree: 1%
 
    >[!TIP]
    >
-   >계정이 저장되면 LinkedIn](/help/marketo/product-docs/target-account-management/target/create-an-account-matched-audience-on-linkedin.md)에서 [일치하는 대상을 사용하여 대상을 타깃팅할 수 있습니다.
+   >계정이 저장되면 LinkedIn[&#128279;](/help/marketo/product-docs/target-account-management/target/create-an-account-matched-audience-on-linkedin.md)에서 일치하는 대상을 사용하여 대상을 타깃팅할 수 있습니다.
