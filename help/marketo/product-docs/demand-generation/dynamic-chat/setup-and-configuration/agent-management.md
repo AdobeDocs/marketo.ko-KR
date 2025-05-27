@@ -3,10 +3,10 @@ description: 에이전트 관리 - Marketo 문서 - 제품 설명서
 title: 에이전트 관리
 feature: Dynamic Chat
 exl-id: 151d8cf2-a5b7-43c4-8418-cc22252108b2
-source-git-commit: 5aaf7081bbe96ff49753a7e142b0f3b38a70ea10
+source-git-commit: 42e2a23c1c451c61fd62237fd1305924b51437b2
 workflow-type: tm+mt
-source-wordcount: '231'
-ht-degree: 0%
+source-wordcount: '284'
+ht-degree: 1%
 
 ---
 
@@ -20,7 +20,7 @@ ht-degree: 0%
 
 이 탭에는 Dynamic Chat 인스턴스의 모든 에이전트가 나열되며 여기에는 이름, 이메일 주소, 라이브 채팅 상태 등의 정보가 포함됩니다.
 
-![](assets/agent-management-2.png)
+![](assets/agent-management-2.png){width="800" zoomable="yes"}
 
 >[!NOTE]
 >
@@ -70,7 +70,9 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->**모임 예약 옵션 포함** 확인란을 선택하면 실시간 채팅을 사용할 수 있는 에이전트가 없을 때 채팅 방문자에게 모임을 예약할 수 있는 옵션이 제공됩니다.
+>* _모임 예약 옵션 포함_ 확인란을 선택하면 실시간 채팅을 사용할 수 있는 에이전트가 없을 때 채팅 방문자에게 모임을 예약할 수 있는 옵션이 제공됩니다.
+>
+>* **실시간 채팅 카드로서 사용자 지정 규칙/팀의 경우**: 에이전트를 확인하는 동안 해당 에이전트를 사용할 수 없거나 연결할 수 없는 경우 &quot;사용 가능한 에이전트&quot;(스트림에 배치된 라우팅 논리/규칙에 상관없이 해당 시점에 사용 가능한 모든 에이전트)를 사용하도록 시도하기 위해 라운드 로빈으로 돌아갑니다.
 
 >[!TIP]
 >
