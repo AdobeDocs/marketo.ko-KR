@@ -3,7 +3,7 @@ description: Demandbase - Marketo 문서 - 제품 설명서
 title: Demandbase
 feature: Dynamic Chat
 exl-id: 2623eef2-0b15-4821-a23e-12eed613d6b6
-source-git-commit: d73ff37236abbd0d97631ad66b8eb34473650554
+source-git-commit: 14bf3ca81a3732c2687f66ca71ac832ae3177623
 workflow-type: tm+mt
 source-wordcount: '179'
 ht-degree: 2%
@@ -19,6 +19,8 @@ Demandbase 사용자는 Dynamic Chat에서 대화 상자 타겟팅, 조건부 �
 아래 단계는 Demandbase 계정에서 _수행해야 합니다_.
 
 1. Demandbase에서 _설정_ 아이콘을 클릭합니다.
+
+   ![](assets/demandbase-1.png)
 
 1. _통합_&#x200B;에서 **계정 커넥터**&#x200B;를 선택합니다.
 
@@ -42,12 +44,12 @@ Demandbase 사용자는 Dynamic Chat에서 대화 상자 타겟팅, 조건부 �
 
 대화 상자 또는 대화 플로우를 만드는 동안 기본 및 사용자 지정 속성 외에 Demandbase 속성을 기준으로 대상을 타기팅합니다.
 
-![](assets/demandbase-1.png)
+![](assets/demandbase-2.png)
 
 조건부 분기, 대화 상자 또는 대화 흐름에서 Demandbase 특성을 조건으로 사용합니다.
 
-![](assets/demandbase-2.png)
+![](assets/demandbase-3.png)
 
 사용자 지정 라우팅 논리를 정의하는 동안 Demandbase 특성을 사용하십시오.
 
-![](assets/demandbase-3.png)
+![](assets/demandbase-4.png)
