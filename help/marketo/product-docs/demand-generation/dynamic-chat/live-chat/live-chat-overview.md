@@ -3,9 +3,9 @@ description: 라이브 채팅 개요 - Marketo 문서 - 제품 설명서
 title: 라이브 채팅 개요
 feature: Dynamic Chat
 exl-id: 44e8b249-b534-4cec-a612-daa184acd266
-source-git-commit: 8e26cd1920fe66b63238c8b6e51ec424d1dda1fb
+source-git-commit: 19f7a38a6a87bc66084e7e45f5bf49cd0d29c3cd
 workflow-type: tm+mt
-source-wordcount: '697'
+source-wordcount: '842'
 ht-degree: 0%
 
 ---
@@ -115,6 +115,10 @@ Windows용 [단계](https://support.microsoft.com/en-us/windows/change-notificat
 
 * 상담원은 &quot;채팅 수락&quot; 메시지가 시간 초과되기 전에 100초 동안 응답할 수 있습니다. 이후 방문자는 [대체 메시지](/help/marketo/product-docs/demand-generation/dynamic-chat/setup-and-configuration/agent-management.md#live-chat-fallback){target="_blank"}를 받게 됩니다. 라우팅 옵션이 **Team**(으)로 설정된 Dynamic Chat Prime 구독자의 경우 대체 메시지가 나타나기 전에 에이전트를 하나 더 시도합니다.
 * 현재 에이전트당 라이브 채팅 수는 10개로 제한됩니다.
+* Agent Inbox는 라이브 채팅 대화용입니다. 에이전트가 채팅을 허용하지 않는 경우 라이브 채팅으로 분류되지 않으므로 에이전트 받은 편지함에 표시되지 않습니다.
+* 대화 탭에는 라이브 및 자동화된 채팅을 모두 포함하는 모든 대화가 표시됩니다. 따라서 에이전트가 대화를 수락하지 않으면 대화 탭에 나열됩니다. 대화 탭은 실시간이 아니므로 최대 24시간 지연됩니다. 그러나 에이전트 받은 편지함은 실시간으로 표시됩니다.
+* 에이전트나 방문자가 10분 후에 채팅 활동이 없으면 채팅이 시간 초과됩니다.
+* 에이전트가 실시간 채팅 중에 _프로필 이미지(account.adobe.com)를 변경하면 채팅이 끝날 때까지 방문자에게 이전 이미지가 표시됩니다._ 방문자가 다음에 채팅하고 해당 에이전트를 가져올 때 새 이미지를 보게 됩니다.
 
 >[!MORELIKETHIS]
 >

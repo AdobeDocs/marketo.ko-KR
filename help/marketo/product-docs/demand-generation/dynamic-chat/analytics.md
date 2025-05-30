@@ -3,16 +3,20 @@ description: Analytics - Marketo 문서 - 제품 설명서
 title: Analytics
 feature: Dynamic Chat
 exl-id: 8130a970-4cf1-4bf6-9403-998460269843
-source-git-commit: 24d5c7f1135857e387031d043a3855e1779233e6
+source-git-commit: 19f7a38a6a87bc66084e7e45f5bf49cd0d29c3cd
 workflow-type: tm+mt
-source-wordcount: '242'
-ht-degree: 2%
+source-wordcount: '259'
+ht-degree: 3%
 
 ---
 
 # Analytics {#analytics}
 
 대화 상자 수준에서 보고를 사용할 수 있지만 아래 세 개의 대시보드를 사용하여 전반적인 참여를 확인하십시오.
+
+>[!NOTE]
+>
+>Dynamic Chat의 데이터가 Marketo Engage 인스턴스에 반영되는 데 최대 24시간이 걸릴 수 있습니다.
 
 왼쪽 탐색 메뉴에서 **Analytics** 아래의 각 대시보드에 액세스합니다.
 

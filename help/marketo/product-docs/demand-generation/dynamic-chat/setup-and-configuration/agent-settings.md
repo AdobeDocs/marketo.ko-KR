@@ -3,9 +3,9 @@ description: 에이전트 설정 - Marketo 문서 - 제품 설명서
 title: 에이전트 설정
 feature: Dynamic Chat
 exl-id: a782ef9b-6a89-448a-8bd9-f127ceea3bf5
-source-git-commit: c16081143588ebc0793f5b6e2630b58348e27124
+source-git-commit: 19f7a38a6a87bc66084e7e45f5bf49cd0d29c3cd
 workflow-type: tm+mt
-source-wordcount: '498'
+source-wordcount: '543'
 ht-degree: 2%
 
 ---
@@ -26,13 +26,13 @@ ht-degree: 2%
 
 ![](assets/agent-settings-2.png)
 
-사용자의 캘린더가 Dynamic Chat에 연결되면 해당 캘린더가 큐에 추가되고 웹 사이트 방문자가 약속을 예약할 수 있습니다.
+사용자의 캘린더가 Dynamic Chat에 연결되면 큐에 추가되고 웹 사이트 방문자가 약속을 예약할 수 있도록 캘린더가 제공됩니다.
 
 >[!NOTE]
 >
 >사용자당 하나의 달력을 연결할 수 있습니다. 여러 캘린더에서 모임을 받으려면 여러 사용자를 추가하고 각 사용자를 캘린더에 연결하도록 해야 합니다.
 
-사용자는 사용자 달력에서 약속을 예약할 때 방문자에게 전송되는 초대 본문을 사용자 지정할 수도 있습니다. 하단의 확인란을 선택하여 Google 모임 또는 Microsoft Teams 링크를 포함할 수도 있습니다(연결된 캘린더에 따라 다름).
+사용자는 사용자 달력에서 약속을 예약할 때 방문자에게 전송되는 초대 본문을 사용자 지정할 수도 있습니다. 하단의 확인란을 선택하여 Google Meet 또는 Microsoft Teams 링크를 포함할 수도 있습니다(연결된 캘린더에 따라 다름).
 
 ![](assets/agent-settings-3.png)
 
@@ -49,7 +49,7 @@ Outlook으로 구성하면 Dynamic Chat에 다음 권한이 부여됩니다.
 * 액세스 권한을 부여한 데이터에 대한 액세스 유지
 * 사서함 설정 읽기
 
-Google으로 구성하면 Dynamic Chat에 대한 다음 권한이 부여됩니다.
+Google으로 구성 은 Dynamic Chat에 다음 권한을 부여합니다.
 
 * 캘린더 만들기, 변경 또는 삭제
 * 개별 달력 이벤트 업데이트
@@ -95,3 +95,11 @@ Google으로 구성하면 Dynamic Chat에 대한 다음 권한이 부여됩니�
 >[!TIP]
 >
 >오른쪽의 **+** 기호를 클릭하여 같은 날(예: 8a-12p _및_ 1p-5p의 금요일) 여러 개의 시간 블록을 선택할 수 있습니다.
+
+## 에이전트 프로필 사진
+
+에이전트는 자신의 프로필 사진을 업로드할 수 있지만 해당 작업은 Dynamic Chat에서 수행되지 않습니다. `account.adobe.com/profile`(으)로 이동해야 합니다. 자세히 알아보기: [계정 프로필을 업데이트](https://helpx.adobe.com/kr/manage-account/using/edit-adobe-account-personal-profile.html).
+
+>[!NOTE]
+>
+>`experience.adobe.com`에 표시된 프로필 이미지는 **지원되지 않습니다**.

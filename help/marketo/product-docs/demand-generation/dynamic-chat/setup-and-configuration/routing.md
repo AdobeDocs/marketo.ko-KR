@@ -3,9 +3,9 @@ description: 라우팅 - Marketo 문서 - 제품 설명서
 title: 라우팅
 feature: Dynamic Chat
 exl-id: e20193b9-55c1-40f2-9e42-5b5dc9b88144
-source-git-commit: 42e2a23c1c451c61fd62237fd1305924b51437b2
+source-git-commit: 19f7a38a6a87bc66084e7e45f5bf49cd0d29c3cd
 workflow-type: tm+mt
-source-wordcount: '270'
+source-wordcount: '338'
 ht-degree: 0%
 
 ---
@@ -64,13 +64,47 @@ Dynamic Chat에서 예약된 회의는 두 가지 방법으로 라우팅될 수 
 
 ![](assets/routing-9.png)
 
+>[!PREREQUISITES]
+>
+>_계정 라우팅_&#x200B;이 Dynamic Chat에 표시되기 전에 Admin Console에서 사용 권한을 활성화해야 합니다. 아래의 [사용 권한 사용](#enable-permissions)을 참조하세요.
+
+### 권한 활성화 {#enable-permissions}
+
++++ 계정 라우팅 권한 활성화
+
+1. [https://adminconsole.adobe.com/](https://adminconsole.adobe.com/){target="_blank"}에 로그인합니다.
+
+1. _제품_&#x200B;에서 **Dynamic Chat**&#x200B;을(를) 선택합니다.
+
+   ![](assets/routing-10.png)
+
+1. _제품 프로필_&#x200B;에서 원하는 프로필을 선택합니다.
+
+   ![](assets/routing-11.png)
+
+1. **권한** 탭을 클릭합니다.
+
+   ![](assets/routing-12.png)
+
+1. _구성_ 옆에 있는 편집 아이콘(![편집 아이콘](assets/icon-routing-edit.png))을 클릭합니다.
+
+   ![](assets/routing-13.png)
+
+1. _계정 라우팅 보기_ 옆에 있는 **+** 기호를 클릭합니다.
+
+   ![](assets/routing-14.png){width="600" zoomable="yes"}
+
+1. 완료되면 **저장**&#x200B;을 클릭합니다.
+
++++
+
 ### 계정 추가 {#add-an-account}
 
 이 예에서는 모든 직원을 레고에서 스티븐 요원으로 직접 안내합니다.
 
 1. 계정 라우팅 탭에서 **+ 계정 추가**&#x200B;를 클릭합니다.
 
-   ![](assets/routing-10.png)
+   ![](assets/routing-15.png)
 
    >[!TIP]
    >
@@ -78,4 +112,4 @@ Dynamic Chat에서 예약된 회의는 두 가지 방법으로 라우팅될 수 
 
 1. 회사 이름, 도메인을 입력하고 원하는 에이전트를 선택합니다.
 
-   ![](assets/routing-11.png)
+   ![](assets/routing-16.png)
