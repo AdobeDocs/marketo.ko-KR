@@ -62,7 +62,7 @@ ht-degree: 0%
 
 다음 비디오를 통해 다중 페이지 드릴스루 보고서 경험의 예를 확인하십시오.
 
->[!VIDEO](https://video.tv.adobe.com/v/3451681/?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3451689/?quality=12&learn=on&captions=kor){transcript=true}
 
 ## 고급 BI Analytics의 표준 보고서 {#standard-reports}
 
