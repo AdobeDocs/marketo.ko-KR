@@ -3,9 +3,9 @@ description: 고급 BI Analytics 개요 - Marketo 문서 - 제품 설명서
 title: 고급 BI Analytics 개요
 feature: Reporting
 exl-id: 120663ef-abcd-4cfe-aac1-64b57ff47258
-source-git-commit: 93d1d33e4f4874612269e1b89151a78181193c62
+source-git-commit: acf1070ff8e29f77677d9dba0f79ba45b48b1ee8
 workflow-type: tm+mt
-source-wordcount: '989'
+source-wordcount: '988'
 ht-degree: 0%
 
 ---
@@ -19,10 +19,6 @@ ht-degree: 0%
 >[!PREREQUISITES]
 >
 >이 기능에 액세스하려면 고급 BI Analytics 추가 기능을 구입해야 합니다. 자세한 내용은 Adobe 계정 팀(계정 관리자)에 문의하십시오.
-
->[!NOTE]
->
->베타 버전(2025년 6월 1일까지)에 이 기능에 대한 질문이 있는 경우 `adobe-marketo-advanced-bi-analytics-public-beta@adobe.com`(으)로 전자 메일을 보내십시오.
 
 ## 주요 기능 및 이점 {#key-features-and-benefits}
 
@@ -38,7 +34,7 @@ ht-degree: 0%
 
 ## 보고서 만들기 {#create-a-report}
 
-1. 내 Marketo에서 **[!UICONTROL Advanced BI Analytics (Beta)]** 타일을 클릭합니다.
+1. 내 Marketo에서 **[!UICONTROL Advanced BI Analytics]** 타일을 클릭합니다.
 
    ![](assets/advanced-bi-analytics-overview-1.png){width="800" zoomable="yes"}
 
@@ -66,7 +62,7 @@ ht-degree: 0%
 
 다음 비디오를 통해 다중 페이지 드릴스루 보고서 경험의 예를 확인하십시오.
 
->[!VIDEO](https://video.tv.adobe.com/v/3451689/?quality=12&learn=on&captions=kor){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3451681/?quality=12&learn=on){transcript=true}
 
 ## 고급 BI Analytics의 표준 보고서 {#standard-reports}
 
@@ -177,11 +173,8 @@ ht-degree: 0%
 
 ## 유의할 사항 {#note}
 
-공개 베타는 2025년 6월 1일까지 실행되며, 이 때 &quot;수입 탐색기&quot;를 통한 클래식 경험은 영구적으로 더 이상 사용되지 않습니다.
+* 클래식 &quot;Revenue Explorer&quot; 경험은 2025년 6월 10일에 영구적으로 사용되지 않습니다. 그동안 두 경험에서 보고서에 액세스하고 보고서를 만들고 업데이트하며 삭제할 수 있습니다.
 
-_공개 베타 중:_
-
-* 두 경험에서 보고서에 액세스하고 보고서를 만들고 업데이트 및 삭제할 수 있습니다.
 * 사용자 지정 보고서는 아래의 [새 경험 학습](#learning-the-new-experience) 섹션에서 언급된 주목할 만한 동작 변경 사항과 함께 클래식 경험에서 새 경험으로 복제됩니다.
 
   >[!IMPORTANT]
@@ -194,9 +187,13 @@ _공개 베타 중:_
      >
      >새 경험의 대시보드는 단순히 단일 페이지에 있는 보고서 컬렉션입니다. 새 경험에서 대시보드의 기본 값은 여러 보고 영역에 걸쳐 분석 인사이트를 제공할 수 있도록 하는 것입니다.
 
-* 클래식 경험의 이메일 구독이 새 경험에 복제됩니다. 클래식 경험의 이메일 구독은 2025년 6월 1일 클래식 경험의 사용 중단 전까지 계속 작동합니다.
+* 클래식 경험의 이메일 구독이 새 경험에 복제됩니다. 클래식 경험의 이메일 구독은 2025년 6월 10일에 클래식 경험의 사용이 중단될 때까지 계속 작동합니다.
 
-* 기존 Revenue Explorer 사용자는 자동으로 새로운 고급 BI Analytics(Beta) 환경에 액세스할 수 있습니다.
+* 기존 Revenue Explorer 사용자는 자동으로 새로운 고급 BI Analytics 환경에 액세스할 수 있습니다.
+
+* 고급 BI Analytics에서 최대 700개의 보고서를 만들 수 있습니다.
+
+* 주어진 시각화에 대해 쿼리당 100만 개의 행으로 제한됩니다. 쿼리가 이를 초과하면 다음 오류가 발생합니다. `The resultset of a query to external data source has exceeded the maximum allowed size of '1000000' rows`. 이 문제를 해결하려면 날짜 범위를 줄이거나 보고서에서 필터를 조정하여 쿼리 결과의 행 수를 줄입니다.
 
 ## 새로운 경험 배우기 {#learning-the-new-experience}
 
@@ -217,8 +214,6 @@ _공개 베타 중:_
 * 이메일 구독에는 보고서의 HTML이 아닌 PDF 내보내기가 포함됩니다. 새 이메일 구독에는 보고서 정의가 포함되지 않습니다.
 
 * 보고서의 딥링크는 현재 지원되지 않습니다.
-
-* 지금은 보고서 폴더 환경을 사용할 수 없으며, 자동 검색 기능이 있는 단순 목록으로 임시로 대체되었습니다. 복제된 보고서의 이름은 폴더 경로를 전달합니다(예: `/folder1/folder2/report`).
 
 * PDF 내보내기는 클래식 경험에서 비동기적이었던 것에 비해 새 경험에서 동기적입니다.
 
