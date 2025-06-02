@@ -4,10 +4,10 @@ description: 등록 코드가 있는 Outlook용 Marketo 이메일 추가 기능 
 title: 등록 코드를 사용하여 Outlook용 Marketo 이메일 추가 기능 설치
 exl-id: d7a877c2-f71e-44da-b323-04f6cdb44eb0
 feature: Marketo Sales Insights
-source-git-commit: 40fe81d465d04be97ae5e216250b7e06e6d3791e
+source-git-commit: ac6c84a82b9bcb535d5f50897d1a068a5a746287
 workflow-type: tm+mt
-source-wordcount: '532'
-ht-degree: 1%
+source-wordcount: '551'
+ht-degree: 3%
 
 ---
 
@@ -27,36 +27,84 @@ ht-degree: 1%
 
 >[!NOTE]
 >
->Gmail 및 Outlook용 Sales Insight 이메일 플러그인에서 판매 이메일 보내기, 판매 캠페인에 추가, 작업 등 Sales Insight 작업 기능을 사용할 수 없습니다. 현재 사용자는 Sales Insight 이메일 플러그인을 사용할 때 이메일 클라이언트에서 Marketo 이메일 템플릿을 사용하거나 사용하지 않고 추적 가능한 이메일을 보낼 수 있습니다.
+>판매 이메일 보내기, 판매 캠페인에 추가, 작업 등 판매 Insight 작업 기능은 Gmail 및 Outlook용 판매 Insight 이메일 플러그인에서 사용할 수 없습니다. 현재 사용자는 Sales Insight 이메일 플러그인을 사용할 때 이메일 클라이언트에서 Marketo 이메일 템플릿을 사용하거나 사용하지 않고 추적 가능한 이메일을 보낼 수 있습니다.
 
 ## 설치 관리자 다운로드 {#download-installer}
 
-1. [Microsoft Outlook 버전](https://support.office.com/en-us/article/what-version-of-outlook-do-i-have-b3a9568c-edb5-42b9-9825-d48d82b2257c){target="_blank"} 식별
+1. [Microsoft Outlook 버전](https://support.office.com/en-us/article/what-version-of-outlook-do-i-have-b3a9568c-edb5-42b9-9825-d48d82b2257c){target="_blank"}을 확인하세요.
 
-1. 링크를 클릭하여 사용 중인 Microsoft Outlook 버전에 적합한 설치 관리자를 다운로드합니다.
+1. 아래 표에서 링크를 클릭하여 사용 중인 Microsoft Outlook 버전에 맞는 .ZIP 파일을 다운로드합니다.
+
+1. 파일의 압축을 풀고 필요한 .MSI 파일에 액세스하여 설치를 계속합니다.
 
    >[!NOTE]
    >
    >현재 아래 링크는 Microsoft Edge에서만 작동하거나 Chrome을 마우스 오른쪽 단추로 클릭하여 작동합니다. 불편을 드려 죄송합니다.
 
-   | Outlook 버전 | 32비트 Outlook | 64비트 Outlook |
-   |---|---|---|
-   | Outlook 2000 | 지원되지 않음 | 해당 없음 |
-   | Outlook 2003 | [다운로드](https://munchkin.marketo.net/MarketoAddInSetup32.msi) | 해당 없음 |
-   | Outlook 2007 | [다운로드](https://munchkin.marketo.net/MarketoAddInSetup32.msi) | 해당 없음 |
-   | Outlook 2010 | [다운로드](https://munchkin.marketo.net/MarketoAddInSetup32.msi) | [다운로드](https://munchkin.marketo.net/MarketoAddInSetup64.msi) |
-   | Outlook 2013 | [다운로드](https://munchkin.marketo.net/MarketoAddInSetup32.msi) | [다운로드](https://munchkin.marketo.net/MarketoAddInSetup64.msi) |
-   | Outlook 2016 | [다운로드](https://munchkin.marketo.net/MarketoAddInSetup32.msi) | [다운로드](https://munchkin.marketo.net/MarketoAddInSetup64.msi) |
-   | Outlook 2019 | [다운로드](https://munchkin.marketo.net/MarketoAddInSetup32.msi) | [다운로드](https://munchkin.marketo.net/MarketoAddInSetup64.msi) |
-   | Mac용 Outlook | 지원되지 않음 | 지원되지 않음 |
-   | Outlook Web App | 지원되지 않음 | 지원되지 않음 |
-   | Office 365* | [다운로드](https://munchkin.marketo.net/MarketoAddInSetup32.msi) | [다운로드](https://munchkin.marketo.net/MarketoAddInSetup64.msi) |
+<table><thead>
+  <tr>
+    <th>Outlook 버전</th>
+    <th>32비트 Outlook</th>
+    <th>64비트 Outlook</th>
+  </tr></thead>
+<tbody>
+  <tr>
+    <td>Outlook 2000</td>
+    <td>지원되지 않음</td>
+    <td>N/A</td>
+  </tr>
+  <tr>
+    <td>Outlook 2003</td>
+    <td><a href="https://munchkin.marketo.net/MarketoAddInSetup32.zip">다운로드</a></td>
+    <td>N/A</td>
+  </tr>
+  <tr>
+    <td>Outlook 2007</td>
+    <td><a href="https://munchkin.marketo.net/MarketoAddInSetup32.zip">다운로드</a></td>
+    <td>N/A</td>
+  </tr>
+  <tr>
+    <td>Outlook 2010</td>
+    <td><a href="https://munchkin.marketo.net/MarketoAddInSetup32.zip">다운로드</a></td>
+    <td><a href="https://munchkin.marketo.net/MarketoAddInSetup64.zip">다운로드</a></td>
+  </tr>
+  <tr>
+    <td>Outlook 2013</td>
+    <td><a href="https://munchkin.marketo.net/MarketoAddInSetup32.zip">다운로드</a></td>
+    <td><a href="https://munchkin.marketo.net/MarketoAddInSetup64.zip">다운로드</a></td>
+  </tr>
+  <tr>
+    <td>Outlook 2016</td>
+    <td><a href="https://munchkin.marketo.net/MarketoAddInSetup32.zip">다운로드</a></td>
+    <td><a href="https://munchkin.marketo.net/MarketoAddInSetup64.zip">다운로드</a></td>
+  </tr>
+  <tr>
+    <td>Outlook 2019</td>
+    <td><a href="https://munchkin.marketo.net/MarketoAddInSetup32.zip">다운로드</a></td>
+    <td><a href="https://munchkin.marketo.net/MarketoAddInSetup64.zip">다운로드</a></td>
+  </tr>
+  <tr>
+    <td>Mac용 Outlook</td>
+    <td>지원되지 않음</td>
+    <td>지원되지 않음</td>
+  </tr>
+  <tr>
+    <td>Outlook Web App</td>
+    <td>지원되지 않음</td>
+    <td>지원되지 않음</td>
+  </tr>
+  <tr>
+    <td>Office 365*</td>
+    <td><a href="https://munchkin.marketo.net/MarketoAddInSetup32.zip">다운로드</a></td>
+    <td><a href="https://munchkin.marketo.net/MarketoAddInSetup64.zip">다운로드</a></td>
+  </tr>
+</tbody></table>
 
-   *Office 365 버전: Windows 클라이언트 전용(Windows 10, Enterprise 또는 Pro).
+*Office 365 버전: Windows 클라이언트 전용(Windows 10, Enterprise 또는 Pro).
 
-   >[!IMPORTANT]
-   >
-   >Microsoft에서 [Windows용 Outlook의 새 버전](https://techcommunity.microsoft.com/t5/outlook-blog/new-outlook-for-windows-now-available/ba-p/3932068){target="_blank"}을 릴리스했습니다. 이 새 버전은 기존 MSI Outlook 플러그인을 지원하지 않습니다. MSI Outlook 플러그인은 클래식 버전의 Outlook을 실행하는 Windows 데스크톱에서 계속 작동합니다. 조직의 새 Windows용 Outlook에 대해 자세히 알아보려면 [여기를 클릭](https://techcommunity.microsoft.com/t5/outlook-blog/the-new-outlook-for-windows-for-organization-admins/ba-p/3929169){target="_blank"}하세요.
+>[!IMPORTANT]
+>
+>Microsoft에서 [Windows용 Outlook의 새 버전](https://techcommunity.microsoft.com/t5/outlook-blog/new-outlook-for-windows-now-available/ba-p/3932068){target="_blank"}을 릴리스했습니다. 이 새 버전은 기존 MSI Outlook 플러그인을 지원하지 않습니다. MSI Outlook 플러그인은 클래식 버전의 Outlook을 실행하는 Windows 데스크톱에서 계속 작동합니다. 새로운 Windows용 Outlook 조직에 대해 자세히 알아보려면 [여기를 클릭](https://techcommunity.microsoft.com/t5/outlook-blog/the-new-outlook-for-windows-for-organization-admins/ba-p/3929169){target="_blank"}하세요.
 
 ## 등록 코드 복사 {#copy-your-registration-code}
 
