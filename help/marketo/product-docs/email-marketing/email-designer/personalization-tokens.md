@@ -5,7 +5,7 @@ title: Personalization 토큰
 description: 새로운 Marketo Engage 이메일 Designer에서 개인화 토큰을 사용하는 방법을 알아봅니다
 level: Beginner, Intermediate
 exl-id: 4828e1a5-822f-48a9-bbb8-b1ffe8421e4f
-source-git-commit: c31f338d7f784258a120c90a9d5016366d5a1095
+source-git-commit: 5575ab0d7141d4bfc610430db625439c9f52e231
 workflow-type: tm+mt
 source-wordcount: '243'
 ht-degree: 0%
@@ -22,7 +22,7 @@ ht-degree: 0%
 
 ## 기본 사용 사례 {#primary-use-case}
 
-이 개선 사항은 주로 [Velocity 스크립팅](https://experienceleague.adobe.com/ko/docs/marketo-developer/marketo/email-scripting){target="_blank"}에서 Handlebar 스크립팅으로 전환하는 데 도움이 됩니다. 새 이메일 디자이너는 새 토큰 형식만 지원합니다. 업데이트된 형식은 공백을 제거하고 수정된 기본 텍스트 구조를 도입하여 더 유연하고 효율적인 스크립팅 환경을 보장합니다.
+이 개선 사항은 주로 [Velocity 스크립팅](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/email-scripting){target="_blank"}에서 Handlebar 스크립팅으로 전환하는 데 도움이 됩니다. 새 이메일 디자이너는 새 토큰 형식만 지원합니다. 업데이트된 형식은 공백을 제거하고 수정된 기본 텍스트 구조를 도입하여 더 유연하고 효율적인 스크립팅 환경을 보장합니다.
 
 ## 토큰 경험 {#token-experience}
 
@@ -32,13 +32,13 @@ ht-degree: 0%
 
 클래식 전자 메일 편집기에서 `lead.Anonymous IP` 또는 `member.registration code`과(와) 같이 공백이 있는 토큰을 추가할 수 있습니다. 기본 텍스트 형식은 `{{lead.City:default=fallback}}`입니다.
 
-![](assets/personalization-tokens-1.png){width="500" zoomable="yes"}
+![](assets/personalization-tokens-1.png){width="800" zoomable="yes"}
 
 ### 새 형식 {#new-format}
 
 이메일 디자이너에서 토큰에 [카멜 대/소문자](https://developer.mozilla.org/en-US/docs/Glossary/Camel_case) 또는 밑줄을 사용해야 합니다(예: `lead.anonymousIP` 또는 `member.registration_code`). 기본 텍스트 형식도 `{%=lead.city ?: "fallback" %}`(으)로 변경됩니다.
 
-![](assets/personalization-tokens-2.png){width="600" zoomable="yes"}
+![](assets/personalization-tokens-2.png){width="800" zoomable="yes"}
 
 ## 참고할 사항 {#things-to-note}
 

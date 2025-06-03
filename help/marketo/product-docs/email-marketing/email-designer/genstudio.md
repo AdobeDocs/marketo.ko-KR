@@ -3,16 +3,19 @@ title: Marketo Engage용 GenStudio 통합
 description: Marketo Engage에서 GenStudio을 사용하는 방법을 알아봅니다.
 hide: true
 hidefromtoc: true
-source-git-commit: f236f2cf73637ee1a0ee6062c1ecbf82f0e02130
+feature: Email Editor
+solution: Marketo Engage
+product: marketo
+source-git-commit: 5575ab0d7141d4bfc610430db625439c9f52e231
 workflow-type: tm+mt
-source-wordcount: '358'
+source-wordcount: '346'
 ht-degree: 0%
 
 ---
 
-# Marketo Engage용 GenStudio 통합 {#work-with-experience-manager-assets}
+# Marketo Engage용 GenStudio 통합 {#genstudio-integration-for-marketo-engage}
 
-Adobe GenStudio for Performance Marketing은 자체 광고 및 이메일을 만들어 브랜드 표준을 준수하고 엔터프라이즈 정책을 준수하는 영향력 있고 개인화된 마케팅 캠페인을 유도할 수 있는 생성 AI 우선 애플리케이션입니다. 컨텐츠 작성의 복잡성을 간소화하는 다양한 도구를 제공합니다.
+Adobe GenStudio for Performance Marketing은 고유한 광고 및 이메일을 만들어 브랜드 표준을 충족하고 엔터프라이즈 정책을 준수하는 영향력 있고 개인화된 마케팅 캠페인을 추진할 수 있는 생성 가능한 AI 우선 애플리케이션입니다. 컨텐츠 작성의 복잡성을 간소화하는 다양한 도구를 제공합니다.
 
 >[!INFO]
 >
@@ -30,41 +33,39 @@ Adobe GenStudio for Performance Marketing은 자체 광고 및 이메일을 만�
 
 1. 이메일 Designer에서 **자세히** 단추를 클릭하고 **HTML 내보내기**&#x200B;를 선택합니다.
 
-   스크린샷
+   ![HTML 내보내기](assets/genstudio-integration-1.png)
 
-1. [내보낸 템플릿을 HTMLGenStudio for Performance Marketing 에 업로드](https://experienceleague.adobe.com/ko/docs/genstudio-for-performance-marketing/user-guide/content/templates/use-templates#templates-from-ajo-and-marketo){target="_blank"}합니다.
+1. [내보낸 템플릿을 HTMLGenStudio for Performance Marketing 에 업로드](https://experienceleague.adobe.com/en/docs/genstudio-for-performance-marketing/user-guide/content/templates/use-templates#templates-from-ajo-and-marketo){target="_blank"}합니다.
 
-1. GenStudio에서 이 템플릿을 사용하여 AI 프롬프트가 있는 여러 이메일 변형을 만들고 저장합니다.
-
->[!NOTE]
->
->[GenStudio 전용 섹션](https://experienceleague.adobe.com/ko/docs/genstudio-for-performance-marketing/user-guide/create/create-email-experience){target="_blank"}에서 전자 메일 경험을 만드는 방법을 알아봅니다.
+1. GenStudio에서 이 템플릿을 사용하여 AI 프롬프트가 있는 [여러 개의 이메일 변형을 만들고](https://experienceleague.adobe.com/en/docs/genstudio-for-performance-marketing/user-guide/create/create-email-experience){target="_blank"}을(를) 저장합니다.
 
 ## Marketo Engage에서 GenStudio 경험 활용 {#leverage-genstudio-experiences}
 
 Marketo Engage으로 가져와서 만든 GenStudio 이메일 변형을 활용하려면 아래 단계를 수행합니다.
 
-1. Marketo Engage에서 이메일을 만듭니다.
+1. Marketo Engage에서 [전자 메일을 만듭니다](/help/marketo/product-docs/email-marketing/email-designer/email-authoring.md#create-an-email).
 
-1. 전자 메일 세부 정보 페이지에서 **전자 메일 본문 편집**&#x200B;을 클릭하여 전자 메일 Designer을 엽니다.
+1. 전자 메일 세부 정보 페이지에서 **전자 메일 콘텐츠 편집**&#x200B;을 클릭합니다.
 
-1. **HTML 가져오기**&#x200B;를 선택하고 **Adobe GenStudio for Performance Marketing** 단추를 클릭합니다.
+   ![전자 메일 콘텐츠 편집 단추](assets/genstudio-integration-2.png)
 
-   스크린샷
+1. **HTML 가져오기**&#x200B;를 선택합니다.
+
+   ![HTML 가져오기 단추](assets/genstudio-integration-3.png)
+
+1. **Adobe GenStudio for Performance Marketing** 단추를 클릭합니다.
+
+   ![Adobe GenStudio for Performance Marketing 단추](assets/genstudio-integration-4.png)
 
 1. GenStudio 경험을 탐색하여 콘텐츠 빌드를 시작합니다. 제품, 가상 사용자, 브랜드 또는 색상과 같은 기준으로 경험을 필터링할 수 있습니다.
 
 1. 경험을 선택하고 **사용**&#x200B;을 클릭하세요.
 
-스크린샷
+   ![원하는 경험 선택](assets/genstudio-integration-5.png){width="800" zoomable="yes"}
 
-1. GenStudio 경험을 가져올 폴더를 선택합니다.
+1. 선택한 콘텐츠가 이메일 Designer에 표시됩니다.
 
-스크린샷
-
-선택한 콘텐츠가 이메일 Designer에 표시됩니다.
-
-스크린샷
+   ![이메일 디자이너](assets/genstudio-integration-6.png){width="800" zoomable="yes"}
 
 >[!NOTE]
 >
