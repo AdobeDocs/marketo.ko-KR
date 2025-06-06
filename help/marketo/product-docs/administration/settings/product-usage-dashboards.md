@@ -5,9 +5,9 @@ hide: true
 hidefromtoc: true
 feature: Administration
 exl-id: a0fa5cd0-a61d-4383-88c0-9f2a4b2c717a
-source-git-commit: 73e5b80de146512bc2f00cc7a6891911be20d9fc
+source-git-commit: d7a7e6f7fd9c9009a058578f6027698a181226f5
 workflow-type: tm+mt
-source-wordcount: '656'
+source-wordcount: '610'
 ht-degree: 0%
 
 ---
@@ -84,7 +84,3 @@ _데이터 값 변경_&#x200B;이(가) 가장 일반적인 활동 형식입니�
 캠페인이 가장 많은 활동을 생성하는 기준 그룹입니다. 이를 통해 필요한 것보다 더 많은 활동을 만드는 특별히 &quot;시끄러운&quot; 캠페인이 있는지 확인할 수 있습니다. 폐기해야 하는 캠페인 또는 의도한 것보다 더 많은 작업을 수행하는 캠페인에 대해 빠르게 알아봅니다.
 
 ![](assets/product-usage-dashboards-6.png){width="600" zoomable="yes"}
-
-### Source(준비 중) {#by-source}
-
-활동의 소스로 그룹화(_CRM 동기화_, _캠페인 흐름 작업_, _API 업로드_, _랜딩 페이지 양식 채우기_ 등). 이렇게 하면 대부분의 활동이 마케팅 작업, CRM 동기화 또는 사람/잠재 고객 스스로 생성되는지 파악하는 데 도움이 됩니다.
