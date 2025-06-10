@@ -5,7 +5,7 @@ hide: true
 hidefromtoc: true
 feature: Administration
 exl-id: a0fa5cd0-a61d-4383-88c0-9f2a4b2c717a
-source-git-commit: d7a7e6f7fd9c9009a058578f6027698a181226f5
+source-git-commit: 8a4f0015f99e62127f8b690263fb07de6a0a6e6f
 workflow-type: tm+mt
 source-wordcount: '610'
 ht-degree: 0%
@@ -38,8 +38,6 @@ Marketo Engage 제품 사용 대시보드 는 특정 제한 또는 데이터 처
 >
 >특정 주에 대한 활동 유형 수를 보려면 원하는 주를 마우스로 가리키면 수가 표시됩니다.
 
-![](assets/product-usage-dashboards-3.png){width="800" zoomable="yes"}
-
 #### FAQ {#faq}
 
 **어떤 활동 유형을 계산합니까?**
@@ -70,17 +68,10 @@ Marketo Engage 제품 사용 대시보드 는 특정 제한 또는 데이터 처
 
 지난 7일 동안 표시된 가장 일반적인 활동 유형별로 활동을 그룹화합니다. 여기에는 _데이터 값 변경_, _목록에 추가_ 또는 _전자 메일 보내기_&#x200B;와 같은 범주가 포함될 수 있습니다. 이를 통해 Marketo Engage 계정에서 가장 자주 발생하는 활동 유형을 확인할 수 있습니다.
 
-![](assets/product-usage-dashboards-4.png){width="600" zoomable="yes"}
-
-
 ### 변경 데이터 값 속성별 {#by-change-data-value-attribute}
 
 _데이터 값 변경_&#x200B;이(가) 가장 일반적인 활동 형식입니다. 개인/잠재 고객 레코드에 대한 정보가 업데이트되는 시기를 나타냅니다. 여기에서는 가장 자주 변경되는 필드를 기준으로 그룹화하므로, 마케팅 작업에 어떤 정보가 유용한지, 플랫폼 사용을 최적화할 수 있는 기회가 있는지 등을 판단할 수 있습니다.
 
-![](assets/product-usage-dashboards-5.png){width="600" zoomable="yes"}
-
 ### 캠페인별 {#by-campaign}
 
 캠페인이 가장 많은 활동을 생성하는 기준 그룹입니다. 이를 통해 필요한 것보다 더 많은 활동을 만드는 특별히 &quot;시끄러운&quot; 캠페인이 있는지 확인할 수 있습니다. 폐기해야 하는 캠페인 또는 의도한 것보다 더 많은 작업을 수행하는 캠페인에 대해 빠르게 알아봅니다.
-
-![](assets/product-usage-dashboards-6.png){width="600" zoomable="yes"}
