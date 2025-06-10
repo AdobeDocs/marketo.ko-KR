@@ -5,9 +5,9 @@ description: 새로운 Adobe Marketo Engage 이메일 Designer을 시작합니�
 title: 개요
 feature: Email Editor
 exl-id: d31ce148-1feb-411e-bd10-453a6c7878fb
-source-git-commit: 8c1e165a1d1d3fc00bf34c983a8edcb974294150
+source-git-commit: d7cb61fabcf82bb5fe9a0411cc94abf5445de689
 workflow-type: tm+mt
-source-wordcount: '815'
+source-wordcount: '824'
 ht-degree: 0%
 
 ---
@@ -26,7 +26,7 @@ ht-degree: 0%
 
 +++이메일 디자이너에 액세스하는 방법 알아보기
 
-새 이메일 디자이너에 액세스하려면 Marketo Engage 구독을 [Adobe IMS(Identity Management System)](https://experienceleague.adobe.com/ko/docs/marketo/using/product-docs/administration/marketo-with-adobe-identity/adobe-identity-management-overview)&#x200B;(으)로 마이그레이션해야 합니다. 아직 실행되지 않았으며 신속 처리를 요청하려면 Adobe 계정 팀(계정 관리자) 또는 [Marketo 지원](https://nation.marketo.com/t5/support/ct-p/Support)에 문의하십시오.
+새 이메일 디자이너에 액세스하려면 Marketo Engage 구독을 [Adobe IMS(Identity Management System)](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/administration/marketo-with-adobe-identity/adobe-identity-management-overview)&#x200B;(으)로 마이그레이션해야 합니다. 아직 실행되지 않았으며 신속 처리를 요청하려면 Adobe 계정 팀(계정 관리자) 또는 [Marketo 지원](https://nation.marketo.com/t5/support/ct-p/Support)에 문의하십시오.
 
 ### 사용자 추가 {#add-users}
 
@@ -76,11 +76,19 @@ ht-degree: 0%
 
 **기존 전자 메일 템플릿이 새 디자이너에서 작동합니까? 그렇지 않은 경우 모든 섹션/모듈이 표시되는 내용에 일치하도록 새 디자이너를 사용하여 템플릿을 만들어야 합니까?**
 
-아니요. 클래식 편집기의 이메일 템플릿은 새 디자이너에서 참조할 수 없습니다. 새 디자이너에서 새 템플릿을 만들어야 합니다. 그러나 _can_ 템플릿 HTML을 새 디자이너로 가져온 다음 필요한 변경을 수행합니다. 또한 템플릿을 클래식 편집기에서 새 디자이너로 쉽게 마이그레이션할 수 있는 방법에 대해 작업 중입니다.
+클래식 편집기의 이메일 템플릿은 새 디자이너에서 참조할 수 없습니다. 새 디자이너에서 새 템플릿을 만들어야 합니다. 그러나 _can_ 템플릿 HTML을 새 디자이너로 가져온 다음 필요한 변경을 수행합니다. **참고**: 새 디자이너와의 클래식 편집기 템플릿 호환성이 곧 제공됩니다.
+
+**새 디자이너 자산을 다른 프로그램으로 쉽게 이동할 수 있습니까?**
+
+현재는 지원되지 않습니다. 그러나 이 기능은 곧 제공될 예정입니다.
+
+**새 전자 메일 디자이너에서 API를 통해 자산을 편집할 수 있습니까?**
+
+API를 통해 편집되는 Assets은 현재 새 이메일 디자이너에서 지원되지 않습니다.
 
 **브랜딩(글꼴, 로고, 색상)을 적용할 방법이 있습니까?**
 
-콘텐츠 섹션 잠금은 새로운 디자이너의 일부이며 잠금 스타일, 색상 등은 올해 말에 제공될 예정입니다.
+콘텐츠 섹션 잠금은 새로운 디자이너의 일부이며 잠금 스타일, 색상 등이 곧 출시될 예정입니다.
 
 **템플릿 모듈을 사용자 지정 및 확장할 수 있게 만드시겠습니까?**
 
@@ -88,16 +96,11 @@ ht-degree: 0%
 
 **새 디자이너에서 전자 메일 템플릿 만들기 프로세스는 어떻게 작동합니까? WYSIWYG입니까, 아니면 HTML 지식이 필요합니까?**
 
-WYSIWYG이므로 HTML 지식이 필요하지 않습니다. 쉽게 만들 수 있습니다.
-외부 웹 개발자의 필요성을 줄이는 디자이너의 템플릿. 하지만 여전히 CSS를 업데이트하고 HTML을 통해 개별 섹션을 편집할 수 있는 옵션이 있습니다. 또한 템플릿을 클래식 편집기에서 새 디자이너로 쉽게 마이그레이션할 수 있는 방법에 대해 작업 중입니다.
+WYSIWYG이므로 HTML 지식이 필요하지 않습니다. 디자이너에서 템플릿을 쉽게 만들 수 있으므로 외부 웹 개발자의 필요성을 줄일 수 있습니다. 하지만 여전히 CSS를 업데이트하고 HTML을 통해 개별 섹션을 편집할 수 있는 옵션이 있습니다. 또한 템플릿을 클래식 편집기에서 새 디자이너로 쉽게 마이그레이션할 수 있는 방법에 대해 작업 중입니다.
 
 **새 전자 메일 디자이너가 AMP 언어를 지원합니까?**
 
 현재 AMP에 대한 지원이 없습니다.
-
-**새 전자 메일 디자이너에서 API를 통해 자산을 편집할 수 있습니까?**
-
-API를 통해 편집되는 Assets은 현재 새 이메일 디자이너에서 지원되지 않습니다.
 
 **특성별 다이내믹 콘텐츠는 훌륭하지만 세그먼트별 다이내믹 콘텐츠는 여전히 작동합니까?**
 
