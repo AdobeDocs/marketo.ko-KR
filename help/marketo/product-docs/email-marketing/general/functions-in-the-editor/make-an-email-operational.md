@@ -4,20 +4,20 @@ description: 이메일 작동 방식 - Marketo 문서 - 제품 설명서
 title: 이메일을 작동 상태로 만들기
 exl-id: e36c6a7b-2c50-4d9f-9e6d-0828ab3af5a8
 feature: Email Editor
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 7c1bf673c2f7917c244dafdd3e8207203cd56bfb
 workflow-type: tm+mt
-source-wordcount: '125'
+source-wordcount: '162'
 ht-degree: 0%
 
 ---
 
 # 이메일을 작동 상태로 만들기 {#make-an-email-operational}
 
-운영 이메일은 구독 취소 및 마케팅 중단 상태를 무시합니다. 그들은 무슨 일이 있어도 보낸다.
+운영 이메일은 구독 취소 및 마케팅 중단 상태를 무시합니다. 또한 통신 제한을 받지 않습니다. 그들은 무슨 일이 있어도 보낸다.
 
 >[!NOTE]
 >
->운영 이메일은 통신 제한을 받지 않습니다.
+>운영 이메일은 커뮤니케이션 제한에 포함되지 않습니다. 예를 들어 누군가가 일주일에 한 번만 이메일을 받을 수 있고 이미 마케팅 이메일을 보낸 경우 필요한 경우 작동 이메일을 보낼 수 있습니다.
 
 1. 전자 메일을 찾아 선택하고 **초안 편집**&#x200B;을 클릭합니다.
 
