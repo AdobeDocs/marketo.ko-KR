@@ -3,7 +3,7 @@ description: 고급 BI Analytics 개요 - Marketo 문서 - 제품 설명서
 title: 고급 BI Analytics 개요
 feature: Reporting
 exl-id: 120663ef-abcd-4cfe-aac1-64b57ff47258
-source-git-commit: 896a4d16f6f2133b2d5311735143f4aab348dbf6
+source-git-commit: 4e9b830d350f0c8b50873b359e64be281af226fa
 workflow-type: tm+mt
 source-wordcount: '1138'
 ht-degree: 0%
@@ -60,7 +60,7 @@ ht-degree: 0%
 
 ## 보고서 내보내기 {#export-a-report}
 
-전체 보고서를 내보낼 때 내보내기 옵션은 PDF 및 PPT입니다. XLS 또는 CSV로 데이터가 필요한 경우 개별 시각화를 내보내면 됩니다([아래 참조](#export-a-visualization)).
+전체 보고서를 내보낼 때 내보내기 옵션은 PDF 및 PPT입니다. .XLS 또는 .CSV로 데이터가 필요한 경우 개별 시각화를 내보내면 됩니다([아래 참조](#export-a-visualization)).
 
 >[!BEGINTABS]
 
@@ -113,7 +113,7 @@ ht-degree: 0%
    >[!NOTE]
    >
    >* _현재 레이아웃이 있는 데이터_&#x200B;는 테이블 및 매트릭스 시각화에만 사용할 수 있습니다.
-   >* _기본 데이터_&#x200B;은(는) Marketo Engage에서 사용할 수 없습니다.
+   * _기본 데이터_&#x200B;은(는) Marketo Engage에서 사용할 수 없습니다.
 
 1. 원하는 파일 형식(.XLS, .CSV)을 선택합니다.
 
@@ -125,7 +125,7 @@ ht-degree: 0%
 
 다음 비디오를 통해 다중 페이지 드릴스루 보고서 경험의 예를 확인하십시오.
 
->[!VIDEO](https://video.tv.adobe.com/v/3451689/?quality=12&learn=on&captions=kor){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3451681/?quality=12&learn=on){transcript=true}
 
 ## 고급 BI Analytics의 표준 보고서 {#standard-reports}
 
