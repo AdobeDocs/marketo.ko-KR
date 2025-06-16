@@ -4,9 +4,9 @@ description: Outlook용 Marketo 이메일 추가 기능 업그레이드 - Market
 title: Outlook용 Marketo 이메일 추가 기능 업그레이드
 exl-id: 079f1142-8062-448c-aa07-59ecd89a718f
 feature: Marketo Sales Insights
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: df7c5bfc344d5a22632128ef70b2c5c12d2f669d
 workflow-type: tm+mt
-source-wordcount: '335'
+source-wordcount: '337'
 ht-degree: 10%
 
 ---
@@ -47,23 +47,23 @@ Outlook용 Marketo 이메일 추가 기능의 새 버전을 사용할 수 있는
   <tr> 
    <td>Outlook 2000</td> 
    <td>지원되지 않음</td> 
-   <td>해당 없음</td> 
+   <td>N/A</td> 
    <td>지원되지 않음</td> 
-   <td>해당 없음</td> 
+   <td>N/A</td> 
   </tr> 
   <tr> 
    <td>Outlook 2003</td> 
    <td><a href="https://munchkin.marketo.net/MarketoAddInSetup32.msi" rel="nofollow">다운로드</a></td> 
-   <td>해당 없음</td> 
+   <td>N/A</td> 
    <td>지원되지 않음</td> 
-   <td>해당 없음</td> 
+   <td>N/A</td> 
   </tr> 
   <tr> 
    <td>Outlook 2007</td> 
    <td><a href="https://munchkin.marketo.net/MarketoAddInSetup32.msi" rel="nofollow">다운로드</a></td> 
-   <td>해당 없음</td> 
+   <td>N/A</td> 
    <td>지원되지 않음</td> 
-   <td>해당 없음</td> 
+   <td>N/A</td> 
   </tr> 
   <tr> 
    <td>Outlook 2010</td> 
@@ -117,11 +117,11 @@ Outlook용 Marketo 이메일 추가 기능의 새 버전을 사용할 수 있는
  </tbody> 
 </table>
 
-&#42;Office 365 버전: Windows 클라이언트만(Windows 10, Enterprise 또는 Pro의 경우).
+&#42;Office 365 버전: Windows 클라이언트만(Windows 10, Windows 11, Enterprise 또는 Pro의 경우).
 
-## 업그레이드 {#upgrade}
+## Upgrade {#upgrade}
 
-1. [Microsoft Outlook 버전](https://support.microsoft.com/en-us/office/what-version-of-outlook-do-i-have-b3a9568c-edb5-42b9-9825-d48d82b2257c?ui=en-us&amp;rs=en-us&amp;ad=us)을 확인하세요.
+1. [Microsoft Outlook 버전](https://support.microsoft.com/en-us/office/what-version-of-outlook-do-i-have-b3a9568c-edb5-42b9-9825-d48d82b2257c?ui=en-us&rs=en-us&ad=us)을 확인하세요.
 
 1. 위 목록에서 버전을 선택합니다.
 

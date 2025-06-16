@@ -4,9 +4,9 @@ description: 기본 브랜딩 도메인 편집 - Marketo 문서 - 제품 설명�
 title: 기본 브랜딩 도메인 편집
 exl-id: 961d4195-2c4c-4b33-81f0-dd11ec3fb500
 feature: Email Setup
-source-git-commit: d41a43d7579775c0c866e867f778962ff61ff044
+source-git-commit: df7c5bfc344d5a22632128ef70b2c5c12d2f669d
 workflow-type: tm+mt
-source-wordcount: '112'
+source-wordcount: '107'
 ht-degree: 0%
 
 ---
@@ -17,17 +17,17 @@ ht-degree: 0%
 
 >[!PREREQUISITES]
 >
->Marketo에서 브랜딩 도메인을 추가하기 전에 [DNS에서 CNAME을 설정](/help/marketo/getting-started/initial-setup/configure-protocols-for-marketo.md)했는지 확인하십시오.
+>Marketo에서 브랜딩 도메인을 추가하기 전에 [DNS에서 CNAME을 설정](/help/marketo/getting-started/initial-setup/configure-protocols-for-marketo.md){target="_blank"}했는지 확인하십시오.
 
-1. **[!UICONTROL 관리자]** 영역으로 이동합니다.
+1. **[!UICONTROL Admin]** 영역으로 이동합니다.
 
    ![](assets/edit-your-default-branding-domain-1.png)
 
-1. **[!UICONTROL 전자 메일]**&#x200B;을 클릭하세요.
+1. **[!UICONTROL Email]**&#x200B;을(를) 클릭합니다.
 
    ![](assets/edit-your-default-branding-domain-2.png)
 
-1. [!UICONTROL 브랜딩 도메인] 테이블에서 일반 도메인을 선택하고 [편집]을 클릭하여 회사 브랜딩 도메인으로 변경합니다.
+1. [!UICONTROL Branding Domains] 테이블에서 일반 도메인을 선택하고 [편집]을 클릭하여 회사 브랜드 도메인으로 변경합니다.
 
    ![](assets/edit-your-default-branding-domain-3.png)
 
@@ -35,8 +35,8 @@ ht-degree: 0%
    >
    >일반 도메인을 처음 편집하기 전에는 도메인을 추가할 수 없습니다.
 
-1. 기본 도메인의 이름을 입력하고 **[!UICONTROL 저장]**&#x200B;을 클릭합니다.
+1. 기본 도메인의 이름을 입력하고 **[!UICONTROL Save]**&#x200B;을(를) 클릭합니다.
 
    ![](assets/edit-your-default-branding-domain-4.png)
 
-이제 필요한 [추가 브랜딩 도메인을 추가](/help/marketo/product-docs/administration/email-setup/add-multiple-branding-domains/add-an-additional-branding-domain.md)할 수 있습니다.
+이제 필요한 [추가 브랜딩 도메인을 추가](/help/marketo/product-docs/administration/email-setup/add-multiple-branding-domains/add-an-additional-branding-domain.md){target="_blank"}할 수 있습니다.
