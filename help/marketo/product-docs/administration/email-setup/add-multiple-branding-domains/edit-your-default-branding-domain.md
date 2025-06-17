@@ -4,9 +4,9 @@ description: 기본 브랜딩 도메인 편집 - Marketo 문서 - 제품 설명�
 title: 기본 브랜딩 도메인 편집
 exl-id: 961d4195-2c4c-4b33-81f0-dd11ec3fb500
 feature: Email Setup
-source-git-commit: df7c5bfc344d5a22632128ef70b2c5c12d2f669d
+source-git-commit: dafac137a6c626794f3b9b2bfaa2fc2de9f2cb75
 workflow-type: tm+mt
-source-wordcount: '107'
+source-wordcount: '124'
 ht-degree: 0%
 
 ---
@@ -40,3 +40,7 @@ ht-degree: 0%
    ![](assets/edit-your-default-branding-domain-4.png)
 
 이제 필요한 [추가 브랜딩 도메인을 추가](/help/marketo/product-docs/administration/email-setup/add-multiple-branding-domains/add-an-additional-branding-domain.md){target="_blank"}할 수 있습니다.
+
+>[!NOTE]
+>
+>기존 SSL을 업데이트하거나 제거해야 하는 경우 [Marketo 지원](https://nation.marketo.com/t5/support/ct-p/Support){target="_blank"}에 문의하십시오.

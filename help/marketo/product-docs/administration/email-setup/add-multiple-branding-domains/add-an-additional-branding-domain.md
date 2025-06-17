@@ -4,9 +4,9 @@ description: 추가 브랜딩 도메인 추가 - Marketo 문서 - 제품 설명�
 title: 추가 브랜딩 도메인 추가
 exl-id: df6e5afe-dbb0-4fbe-bf06-79d92a91b986
 feature: Email Setup
-source-git-commit: df7c5bfc344d5a22632128ef70b2c5c12d2f669d
+source-git-commit: dafac137a6c626794f3b9b2bfaa2fc2de9f2cb75
 workflow-type: tm+mt
-source-wordcount: '574'
+source-wordcount: '598'
 ht-degree: 0%
 
 ---
@@ -77,7 +77,7 @@ ht-degree: 0%
 
 ## 참고할 사항 {#things-to-note}
 
-* **Marketo Engage에 대한 도메인에 대한 DNS 매핑**: UI에 도메인을 추가하기 전에 CNAME을 Marketo 제공 도메인에 매핑[&#128279;](https://experienceleague.adobe.com/ko/docs/marketo/using/getting-started/initial-setup/setup-steps#customize-your-landing-page-urls-with-a-cname){target="_blank"}해야 합니다.
+* **Marketo Engage에 대한 도메인에 대한 DNS 매핑**: UI에 도메인을 추가하기 전에 CNAME을 Marketo 제공 도메인에 매핑](https://experienceleague.adobe.com/en/docs/marketo/using/getting-started/initial-setup/setup-steps#customize-your-landing-page-urls-with-a-cname){target="_blank"}해야 합니다.[
 
 * **사용자 지정 SSL**: 사용자 지정 SSL이 필요한 경우 [지원 티켓](https://nation.marketo.com/t5/support/ct-p/Support){target="_blank"}을 제출하세요. SSL 생성을 위해 셀프서비스 확인란을 사용하지 마십시오.
 
@@ -86,6 +86,8 @@ ht-degree: 0%
 * **처음 추적 도메인**: 전자 메일 추적 링크 도메인을 처음 만드는 경우 [Marketo 지원](https://nation.marketo.com/t5/support/ct-p/Support){target="_blank"}에서 수동으로 조작해야 합니다. UI에서는 동일한 도메인 아래에 후속 하위 도메인을 만들 수 있습니다.
 
 * **기존 도메인에 인증서를 추가**: 기존 도메인에 인증서를 추가하는 것은 현재 지원되지 않습니다. 기존 도메인의 경우 또는 SSL 인증서 상자를 확인하지 못한 경우의 경우 인증서를 추가하려면 [Marketo 지원](https://nation.marketo.com/t5/support/ct-p/Support){target="_blank"}에 연결해야 합니다.
+
+* **기존 도메인에서 인증서 편집 또는 제거**: 기존 SSL을 업데이트하거나 제거해야 하는 경우 [Marketo 지원](https://nation.marketo.com/t5/support/ct-p/Support){target="_blank"}에 문의하십시오.
 
 * **도메인 삭제**: 현재 도메인을 삭제해도 SSL 인증서가 자동으로 삭제되지 않습니다. 이 문제는 향후 릴리스에서 해결될 예정입니다.
 
