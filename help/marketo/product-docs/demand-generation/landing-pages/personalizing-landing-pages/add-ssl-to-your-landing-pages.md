@@ -4,9 +4,9 @@ description: 랜딩 페이지에 SSL 추가 - Marketo 문서 - 제품 설명서
 title: 랜딩 페이지에 SSL 추가
 exl-id: 8271d9fe-0575-430c-97c7-407e4b78cf1d
 feature: Landing Pages
-source-git-commit: df7c5bfc344d5a22632128ef70b2c5c12d2f669d
+source-git-commit: 0157bc64444151a43bf464158d508e84d75b3427
 workflow-type: tm+mt
-source-wordcount: '669'
+source-wordcount: '714'
 ht-degree: 0%
 
 ---
@@ -18,6 +18,10 @@ SSL(Secure Socket Layer) 암호화 를 사용하면 Marketo Engage 인스턴스�
 웹 양식을 작성하거나 Marketo Engage에서 호스팅하는 랜딩 페이지를 방문하면 기본적으로 정보가 비보안 프로토콜(HTTP)을 통해 전송됩니다. 회사의 정책에 따라 HTTPS를 통해 Marketo에 제출된 정보의 보안을 설정할 수 있습니다. 예를 들어 `http://info.mydomain.com/`을(를) 방문하면 이제 `https://info.mydomain.com/`이(가) 됩니다.
 
 Marketo Engage은 기본적으로 비보안 HTTP 프로토콜에 대해 &quot;방문한 웹 페이지&quot;와 &quot;웹 페이지에서 링크 클릭&quot;을 추적합니다. 추적 링크를 자체 인증서로 보호하려면 Marketo에서 별도의 비공유 서버를 빌드하여 활성화해야 합니다. 일반적으로 연락처와 사용자 간의 상호 작용의 모든 측면을 보호하려면 랜딩 페이지와 추적 링크를 모두 보호해야 합니다.
+
+>[!IMPORTANT]
+>
+>SSL을 추가하기 전에 추가할 수 있는 총 도메인 수에 대한 계약을 확인하십시오. 그렇지 않을 경우 수수료가 발생할 수 있습니다. 정보를 찾을 수 없는 경우 Adobe 계정 팀(계정 관리자)에 자세한 내용을 문의하십시오.
 
 ## SSL 인증 활성화 {#enable-ssl-certification}
 
@@ -93,7 +97,7 @@ Marketo Engage은 기본적으로 비보안 HTTP 프로토콜에 대해 &quot;�
 
 ## 참고할 사항 {#things-to-note}
 
-* **Marketo Engage에 대한 도메인에 대한 DNS 매핑**: UI에 도메인을 추가하기 전에 CNAME을 Marketo 제공 도메인에 매핑[&#128279;](https://experienceleague.adobe.com/ko/docs/marketo/using/getting-started/initial-setup/setup-steps#customize-your-landing-page-urls-with-a-cname){target="_blank"}해야 합니다.
+* **Marketo Engage에 대한 도메인에 대한 DNS 매핑**: UI에 도메인을 추가하기 전에 CNAME을 Marketo 제공 도메인에 매핑](https://experienceleague.adobe.com/en/docs/marketo/using/getting-started/initial-setup/setup-steps#customize-your-landing-page-urls-with-a-cname){target="_blank"}해야 합니다.[
 
 * **사용자 지정 SSL**: 사용자 지정 SSL이 필요한 경우 [지원 티켓](https://nation.marketo.com/t5/support/ct-p/Support){target="_blank"}을 제출하세요. SSL 생성을 위해 셀프서비스 확인란을 사용하지 마십시오.
 
