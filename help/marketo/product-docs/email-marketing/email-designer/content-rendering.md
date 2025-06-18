@@ -18,7 +18,7 @@ ht-degree: 0%
 
 Marketo Engage에서 [Litmus](https://www.litmus.com/email-testing) 계정을 활용하여 인기 있는 이메일 클라이언트에서 이메일이 어떻게 렌더링되는지 즉시 확인할 수 있습니다.
 
-## 사용 방법 {how-to-use}
+## 사용 방법 &lbrace;how-to-use&rbrace;
 
 1. 메시지의 콘텐츠 편집 화면 또는 이메일 Designer에서 콘텐츠 시뮬레이션 버튼을 클릭합니다.
 
