@@ -3,10 +3,10 @@ audience: end-user
 user-guide-title: Marketo 안내서
 user-guide-description: Marketo 제품 설명서
 feature-set: Marketo Engage
-source-git-commit: 5575ab0d7141d4bfc610430db625439c9f52e231
+source-git-commit: bfa1bc900c2adc263e634a81440b77bef2976d3b
 workflow-type: tm+mt
-source-wordcount: '9269'
-ht-degree: 1%
+source-wordcount: '9279'
+ht-degree: 2%
 
 ---
 
@@ -1029,6 +1029,7 @@ ht-degree: 1%
          + [기능 비교](product-docs/email-marketing/email-designer/feature-comparison.md)
          + [이메일 작성](product-docs/email-marketing/email-designer/email-authoring.md)
          + [이메일 템플릿 작성](product-docs/email-marketing/email-designer/email-template-authoring.md)
+         + [Litmus를 사용하여 이메일 렌더링 테스트](product-docs/email-marketing/email-designer/test-email-rendering.md)
          + [Personalization 토큰](product-docs/email-marketing/email-designer/personalization-tokens.md)
          + [AEM Assets 작업](product-docs/email-marketing/email-designer/aem-assets.md)
          + [Adobe Express를 사용하여 이미지 편집](product-docs/email-marketing/email-designer/edit-images-adobe-express.md)
@@ -1037,6 +1038,7 @@ ht-degree: 1%
          + [Marketo Engage용 GenStudio 통합](product-docs/email-marketing/email-designer/genstudio.md)
          + [컨텐츠 잠금](product-docs/email-marketing/email-designer/content-locking.md)
          + [AI 어시스턴트](product-docs/email-marketing/email-designer/ai-assistant.md)
+         + [SpamAssassin을 사용한 이메일 스팸 보고서](product-docs/email-marketing/email-designer/spam-report.md)
       + 이메일 프로그램 {#email-programs}
          + 이메일 프로그램 만들기 {#creating-an-email-program}
             + [이메일 프로그램 만들기](product-docs/email-marketing/email-programs/creating-an-email-program/create-an-email-program.md)

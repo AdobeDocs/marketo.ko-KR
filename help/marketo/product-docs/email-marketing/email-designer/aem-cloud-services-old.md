@@ -1,18 +1,20 @@
 ---
 title: Experience Manager 문서 연결
-description: AEM 자산을 활용할 수 있도록 Adobe Experience Manager Cloud Service을 Adobe Marketo Engage에 연결하는 방법을 알아봅니다.
+description: Adobe Experience Manager Assets를 활용할 수 있도록 Adobe Marketo Engage Cloud Services를 AEM에 연결하는 방법을 알아봅니다.
+level: Beginner, Intermediate
+feature: Email Designer
 hide: true
 hidefromtoc: true
-source-git-commit: 3a3c3dae689760b720c4823bc1d11bf39da998fe
+source-git-commit: bfa1bc900c2adc263e634a81440b77bef2976d3b
 workflow-type: tm+mt
 source-wordcount: '203'
 ht-degree: 0%
 
 ---
 
-# Adobe Experience Manager Cloud Service 연결 {#connect-adobe-experience-manager-cloud-services}
+# Adobe Experience Manager 클라우드 서비스 연결 {#connect-adobe-experience-manager-cloud-services}
 
-Marketo Engage 이메일 Designer에서 AEM Asset 저장소를 활용할 수 있도록 AEM Assets Cloud Service 계정을 Adobe Marketo Engage 인스턴스에 연결하는 방법을 알아봅니다.
+AEM Assets 이메일 Designer에서 AEM 에셋 저장소를 활용할 수 있도록 Adobe Marketo Engage Cloud Services 계정을 Marketo Engage 인스턴스에 연결하는 방법을 알아봅니다.
 
 >[!NOTE]
 >
@@ -22,7 +24,7 @@ Marketo Engage 이메일 Designer에서 AEM Asset 저장소를 활용할 수 있
 
 스크린샷
 
-1. _Adobe Experience Manager Cloud Service_ 옆에 있는 **편집**&#x200B;을 클릭합니다.
+1. _Adobe Experience Manager 클라우드 서비스_ 옆에 있는 **편집**&#x200B;을 클릭합니다.
 
 스크린샷
 

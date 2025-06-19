@@ -4,10 +4,11 @@ product: marketo
 title: Adobe Express를 사용하여 이미지 편집
 description: Adobe Express을 사용하여 Adobe Marketo Engage 이메일 편집기에서 이미지를 편집하는 방법을 알아봅니다.
 level: Beginner, Intermediate
+feature: Email Designer
 exl-id: 74623a14-8eaf-4f79-952c-d10092ddc34f
-source-git-commit: 76d854176c3c462596596689b43d3567517fee63
+source-git-commit: bfa1bc900c2adc263e634a81440b77bef2976d3b
 workflow-type: tm+mt
-source-wordcount: '841'
+source-wordcount: '807'
 ht-degree: 1%
 
 ---
@@ -35,7 +36,7 @@ Adobe Express 편집기에 액세스하는 방법에는 두 가지가 있습니�
 
 >[!TAB 이미지 이름을 클릭합니다]
 
-1. Marketo Engage에서 **[!UICONTROL Design Studio]**(으)로 이동하여 **[!UICONTROL 이미지 및 파일]**&#x200B;을 선택합니다.
+1. Marketo Engage에서 **[!UICONTROL Design Studio]**(으)로 이동하여 **[!UICONTROL Images and Files]**&#x200B;을(를) 선택합니다.
 
    ![Design Studio 왼쪽 탐색 메뉴에서 이미지 및 파일 선택](assets/edit-images-with-adobe-express-1a.png){width="600" zoomable="yes"}
 
@@ -45,11 +46,11 @@ Adobe Express 편집기에 액세스하는 방법에는 두 가지가 있습니�
 
    >[!NOTE]
    >
-   >* 작업 영역 및 폴더별 자산을 보려면 왼쪽 상단의 **[!UICONTROL 폴더 표시]** 아이콘을 클릭하여 구조를 엽니다.
+   >* 작업 영역 및 폴더별 자산을 보려면 왼쪽 상단의 **[!UICONTROL Show Folders]** 아이콘을 클릭하여 구조를 엽니다.
    >
    >* 열을 기준으로 테이블을 정렬하려면 열 제목을 누릅니다. 제목 행의 화살표는 현재 정렬 열 및 순서를 나타냅니다.
 
-1. _세부 정보_ 탭에서 **[!UICONTROL Adobe Express에서 편집]**&#x200B;을 클릭합니다.
+1. _세부 정보_ 탭에서 **[!UICONTROL Edit in Adobe Express]**&#x200B;을(를) 클릭합니다.
 
    ![Adobe Express에서 편집 단추 클릭](assets/edit-images-with-adobe-express-3a.png){width="600" zoomable="yes"}
 
@@ -59,17 +60,17 @@ Adobe Express 편집기에 액세스하는 방법에는 두 가지가 있습니�
 
 >[!TAB 이미지 및 파일 작업]
 
-1. Marketo Engage에서 **[!UICONTROL Design Studio]**(으)로 이동하여 **[!UICONTROL 이미지 및 파일]**&#x200B;을 선택합니다.
+1. Marketo Engage에서 **[!UICONTROL Design Studio]**(으)로 이동하여 **[!UICONTROL Images and Files]**&#x200B;을(를) 선택합니다.
 
    ![Design Studio 왼쪽 탐색 메뉴에서 이미지 및 파일 선택](assets/edit-images-with-adobe-express-1b.png){width="600" zoomable="yes"}
 
    >[!NOTE]
    >
-   >* 작업 영역 및 폴더별 자산을 보려면 왼쪽 상단의 **[!UICONTROL 폴더 표시]** 아이콘을 클릭하여 구조를 엽니다.
+   >* 작업 영역 및 폴더별 자산을 보려면 왼쪽 상단의 **[!UICONTROL Show Folders]** 아이콘을 클릭하여 구조를 엽니다.
    >
    >* 열을 기준으로 테이블을 정렬하려면 열 제목을 누릅니다. 제목 행의 화살표는 현재 정렬 열 및 순서를 나타냅니다.
 
-1. 편집할 이미지 옆에 있는 확인란을 선택합니다. **[!UICONTROL 이미지 및 파일 작업]** 드롭다운에서 **[!UICONTROL Adobe Express에서 편집]**&#x200B;을 선택합니다.
+1. 편집할 이미지 옆에 있는 확인란을 선택합니다. **[!UICONTROL Image and file actions]** 드롭다운에서 **[!UICONTROL Edit in Adobe Express]**&#x200B;을(를) 선택합니다.
 
    ![이미지 이름 옆에 있는 확인란 선택 및 이미지 및 파일 작업 드롭다운 사용](assets/edit-images-with-adobe-express-2b.png){width="600" zoomable="yes"}
 
@@ -83,7 +84,7 @@ Adobe Express 편집기에 액세스하는 방법에는 두 가지가 있습니�
 
 ### Enterprise 라이선스가 있는 사용자 {#users-with-an-enterprise-license}
 
-Adobe Express에 대한 엔터프라이즈 라이센스가 있는 경우 전체 Express 편집기에 액세스할 수 있습니다. 색상, 밝기, 선명도, 대비, 크기 등과 같은 이미지 설정을 조정할 수 있습니다. AI 매직 옵션을 사용하면 배경을 제거하고, 오브젝트를 삽입 및 제거하고, 이미지의 일부를 지울 수 있습니다. 각 설정에 대해 알아보려면 [Adobe Express 사용 안내서](https://helpx.adobe.com/kr/express/user-guide.html){target="_blank"}를 방문하세요.
+Adobe Express에 대한 엔터프라이즈 라이센스가 있는 경우 전체 Express 편집기에 액세스할 수 있습니다. 색상, 밝기, 선명도, 대비, 크기 등과 같은 이미지 설정을 조정할 수 있습니다. AI 매직 옵션을 사용하면 배경을 제거하고, 오브젝트를 삽입 및 제거하고, 이미지의 일부를 지울 수 있습니다. 각 설정에 대해 알아보려면 [Adobe Express 사용 안내서](https://helpx.adobe.com/kr/express/user-guide.html){target="_blank"}를 참조하세요.
 
 >[!IMPORTANT]
 >
@@ -144,23 +145,23 @@ Enterprise 라이선스가 없는 사용자의 경우 여전히 몇 가지 빠�
 
 #### 이미지 자르기 {#crop-image}
 
-1. **[!UICONTROL 이미지 자르기]**&#x200B;를 클릭합니다.
+1. **[!UICONTROL Crop Image]**&#x200B;을(를) 클릭합니다.
 
 1. 이미지의 모서리를 드래그하여 원하는 자르기를 만듭니다.
 
 ![사진 모서리를 드래그하여 이미지를 자르기](assets/edit-images-with-adobe-express-7.png){width="800" zoomable="yes"}
 
-1. 완료되면 **[!UICONTROL 적용]**&#x200B;을 클릭하세요.
+1. 완료되면 **[!UICONTROL Apply]**&#x200B;을(를) 클릭합니다.
 
 #### PNG/JPEG으로 변환 {#convert-to-png-jpeg}
 
 PNG 파일을 JPEG 파일로 변환하거나 JPEG 파일을 PNG 파일로 변환합니다.
 
-1. **[!UICONTROL PNG/JPEG으로 변환]**&#x200B;을 클릭합니다.
+1. **[!UICONTROL Convert to PNG/JPEG]**&#x200B;을(를) 클릭합니다.
 
 ![PNG/JPEG 창으로 변환](assets/edit-images-with-adobe-express-8.png){width="800" zoomable="yes"}
 
-1. **[!UICONTROL 적용]**&#x200B;을 클릭합니다.
+1. **[!UICONTROL Apply]**&#x200B;을(를) 클릭합니다.
 
 ## 작업 내용 저장 {#save-your-work}
 

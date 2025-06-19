@@ -3,13 +3,13 @@ solution: Marketo Engage
 product: marketo
 title: 사용자 정의 가능한 조각
 description: 일부 필드를 편집할 수 있도록 만들어 조각을 사용자 지정하는 방법을 알아봅니다.
-feature: Email Editor
-role: User
 level: Beginner, Intermediate
+feature: Email Designer
+role: User
 exl-id: 3e0232c7-13bd-49e2-b7c7-cd389b5f0704
-source-git-commit: 2a01045abbc23bce9531c64e3494fb12a9adf1bd
+source-git-commit: bfa1bc900c2adc263e634a81440b77bef2976d3b
 workflow-type: tm+mt
-source-wordcount: '627'
+source-wordcount: '622'
 ht-degree: 0%
 
 ---
@@ -34,7 +34,7 @@ ht-degree: 0%
 
 1. 조각에서 편집 가능한 필드를 구성할 구성 요소를 선택합니다.
 
-1. 오른쪽에 구성 요소 속성 창이 열립니다. **[!UICONTROL 편집 가능한 필드]** 탭을 선택한 다음 **[!UICONTROL 편집 사용]** 옵션을 전환합니다.
+1. 오른쪽에 구성 요소 속성 창이 열립니다. **[!UICONTROL Editable fields]** 탭을 선택한 다음 **[!UICONTROL Enable edition]** 옵션을 전환합니다.
 
 1. 선택한 구성 요소에 대해 편집할 수 있는 모든 필드가 창에 나열됩니다. 편집할 수 있는 필드는 선택한 구성 요소 유형에 따라 다릅니다.
 
@@ -42,7 +42,7 @@ ht-degree: 0%
 
    ![](assets/fragment-param-enable.png){width="800" zoomable="yes"}
 
-1. 편집 가능한 모든 필드와 해당 기본값을 확인하려면 **[!UICONTROL 개요]**&#x200B;를 클릭하십시오.
+1. 편집 가능한 모든 필드와 해당 기본값을 확인하려면 **[!UICONTROL Overview]**&#x200B;을(를) 클릭하십시오.
 
    이 예에서 버튼 URL 필드는 구성 요소에 정의된 기본값으로 표시됩니다. 사용자는 콘텐츠에 조각을 추가한 후 이 값을 사용자 지정할 수 있습니다.
 

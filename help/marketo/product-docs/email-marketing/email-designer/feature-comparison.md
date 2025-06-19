@@ -3,11 +3,11 @@ solution: Marketo Engage
 product: marketo
 title: 이메일 Designer 및 이메일 편집기 기능 비교
 description: 이 표를 사용하여 이전 이메일 편집기(이메일 편집기 2.0)와 새로운 이메일 Designer의 기능 가용성을 비교할 수 있습니다.
-feature: Email Editor
-role: User
 level: Beginner, Intermediate
+feature: Email Designer
+role: User
 exl-id: 37b42418-1733-447f-bab0-e1d461ef8110
-source-git-commit: f5d0e85ab6aa4227c15685de337afa12f7d8f761
+source-git-commit: bfa1bc900c2adc263e634a81440b77bef2976d3b
 workflow-type: tm+mt
 source-wordcount: '916'
 ht-degree: 9%

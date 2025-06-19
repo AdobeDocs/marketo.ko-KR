@@ -3,9 +3,10 @@ solution: Marketo Engage
 product: marketo
 title: AI Assistant 사용
 description: Adobe의 생성 AI 기술을 활용하여 이메일에 유용한 텍스트 및/또는 이미지를 추가할 수 있습니다.
-feature: Email Editor
+level: Beginner, Intermediate
+feature: Email Designer
 exl-id: e07ed645-d8a3-483f-aa1f-f82bc9cb8634
-source-git-commit: 76d854176c3c462596596689b43d3567517fee63
+source-git-commit: bfa1bc900c2adc263e634a81440b77bef2976d3b
 workflow-type: tm+mt
 source-wordcount: '734'
 ht-degree: 0%
