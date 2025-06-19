@@ -17,7 +17,7 @@ _Adobe Experience Manager Assets as a Cloud Service_ 계정을 Adobe Marketo Eng
 
 >[!NOTE]
 >
->현재 _Adobe Experience Manager Assets_&#x200B;의 이미지 자산만 Marketo Engage에서 지원됩니다. 에셋에 대한 변경은 Adobe Experience Manager Assets 중앙 저장소에서 수행해야 합니다. [자세히 알아보기](https://experienceleague.adobe.com/en/docs/experience-manager-cloud-service/content/assets/manage/manage-digital-assets){target="_blank"}
+>현재 _Adobe Experience Manager Assets_&#x200B;의 이미지 자산만 Marketo Engage에서 지원됩니다. 에셋에 대한 변경은 Adobe Experience Manager Assets 중앙 저장소에서 수행해야 합니다. [자세히 알아보기](https://experienceleague.adobe.com/ko/docs/experience-manager-cloud-service/content/assets/manage/manage-digital-assets){target="_blank"}
 
 ## AEM 클라우드 서비스에 대한 링크 {#link-to-your-aem-cloud-services}
 
@@ -81,7 +81,7 @@ _Adobe Experience Manager Assets as a Cloud Service_ 계정을 Adobe Marketo Eng
 
 >[!IMPORTANT]
 >
->관리자는 자산에 액세스해야 하는 사용자를 Assets 소비자 사용자 및/또는 Assets 사용자 제품 프로필에 추가해야 합니다. [자세히 알아보기](https://experienceleague.adobe.com/en/docs/experience-manager-cloud-service/content/security/ims-support#managing-products-and-user-access-in-admin-console)
+>관리자는 자산에 액세스해야 하는 사용자를 Assets 소비자 사용자 및/또는 Assets 사용자 제품 프로필에 추가해야 합니다. [자세히 알아보기](https://experienceleague.adobe.com/ko/docs/experience-manager-cloud-service/content/security/ims-support#managing-products-and-user-access-in-admin-console)
 
 시각적 컨텐츠 편집기에서 왼쪽 사이드바의 _Experience Manager 자산 선택기_ 아이콘을 클릭합니다. 이렇게 하면 도구 패널이 선택한 저장소에서 사용 가능한 에셋 목록으로 변경됩니다.
 
