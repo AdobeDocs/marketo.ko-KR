@@ -5,14 +5,14 @@ description: 새로운 Adobe Marketo Engage 이메일 Designer을 시작합니�
 title: 개요
 feature: Email Designer
 exl-id: d31ce148-1feb-411e-bd10-453a6c7878fb
-source-git-commit: bfa1bc900c2adc263e634a81440b77bef2976d3b
+source-git-commit: 3717cba468ed7f1a916fa0eefa2ff50708d95c34
 workflow-type: tm+mt
-source-wordcount: '824'
+source-wordcount: '861'
 ht-degree: 0%
 
 ---
 
-# 개요 {#overview}
+# 이메일 Designer 개요 {#overview}
 
 새로운 Adobe Marketo Engage 이메일 Designer을 시작합니다.
 
@@ -26,7 +26,7 @@ ht-degree: 0%
 
 +++이메일 디자이너에 액세스하는 방법 알아보기
 
-새 이메일 디자이너에 액세스하려면 Marketo Engage 구독을 [Adobe IMS(Identity Management System)](https://experienceleague.adobe.com/ko/docs/marketo/using/product-docs/administration/marketo-with-adobe-identity/adobe-identity-management-overview)&#x200B;(으)로 마이그레이션해야 합니다. 아직 실행되지 않았으며 신속 처리를 요청하려면 Adobe 계정 팀(계정 관리자) 또는 [Marketo 지원](https://nation.marketo.com/t5/support/ct-p/Support)에 문의하십시오.
+새 이메일 디자이너에 액세스하려면 Marketo Engage 구독을 [Adobe IMS(Identity Management System)](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/administration/marketo-with-adobe-identity/adobe-identity-management-overview)&#x200B;(으)로 마이그레이션해야 합니다. 아직 실행되지 않았으며 신속 처리를 요청하려면 Adobe 계정 팀(계정 관리자) 또는 [Marketo 지원](https://nation.marketo.com/t5/support/ct-p/Support)에 문의하십시오.
 
 ### 사용자 추가 {#add-users}
 
@@ -54,6 +54,8 @@ ht-degree: 0%
 
 * [사용자 지정 가능한 조각](/help/marketo/product-docs/email-marketing/email-designer/customizable-fragments.md){target="_blank"}: 일부 필드를 편집할 수 있도록 만들어 조각을 사용자 지정하는 방법에 대해 알아봅니다.
 
+* [Personalization 토큰](/help/marketo/product-docs/email-marketing/email-designer/personalization-tokens.md){target="_blank"}: 새 전자 메일 디자이너에서 개인화 토큰의 새 형식에 대해 알아봅니다.
+
 * [AEM 에셋으로 작업](/help/marketo/product-docs/email-marketing/email-designer/aem-assets.md){target="_blank"}: Marketo Engage에서 사용할 AEM 디지털 에셋에 쉽게 액세스하는 방법에 대해 알아봅니다.
 
 * [Adobe Express으로 이미지 편집](/help/marketo/product-docs/email-marketing/email-designer/edit-images-adobe-express.md){target="_blank"}: Adobe Express을 사용하여 Adobe Marketo Engage 전자 메일 편집기에서 이미지를 편집하는 방법에 대해 알아봅니다.
@@ -61,6 +63,8 @@ ht-degree: 0%
 * [AI Assistant 사용](/help/marketo/product-docs/email-marketing/email-designer/ai-assistant.md){target="_blank"}: Adobe의 생성 AI 기술을 활용하여 이메일에 유용한 텍스트 및/또는 이미지를 추가합니다.
 
 * [전자 메일 템플릿의 콘텐츠 잠금](/help/marketo/product-docs/email-marketing/email-designer/content-locking.md){target="_blank"}: 전자 메일 템플릿의 콘텐츠를 잠그고 의도하지 않은 편집 또는 삭제를 방지하는 방법에 대해 알아봅니다.
+
+* [Litmus로 이메일 렌더링 테스트](/help/marketo/product-docs/email-marketing/email-designer/test-email-rendering.md){target="_blank"}: Marketo Engage의 Litmus 계정을 활용하여 인기 있는 이메일 클라이언트에서 이메일이 렌더링되는 방식을 즉시 확인할 수 있습니다.
 
 * [기능 비교](/help/marketo/product-docs/email-marketing/email-designer/feature-comparison.md){target="_blank"}: 이전 전자 메일 편집기(전자 메일 편집기 2.0)와 새 전자 메일 Designer의 기능 가용성을 비교합니다.
 
@@ -112,4 +116,4 @@ WYSIWYG이므로 HTML 지식이 필요하지 않습니다. 디자이너에서 �
 
 **새 전자 메일 Designer에 사용할 수 있는 브라우저는 무엇입니까?**
 
-Google Chrome, Apple Safari 또는 Microsoft Edge을 사용하는 것이 좋습니다. Mozilla Firefox에 대한 전체 지원은 나중에 이용할 수 있습니다.
+Google Chrome, Apple Safari 또는 Microsoft Edge을 사용하는 것이 좋습니다. Mozilla Firefox에 대한 모든 지원은 곧 제공됩니다.

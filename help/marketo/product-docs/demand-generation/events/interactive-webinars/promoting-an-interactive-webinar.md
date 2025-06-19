@@ -3,16 +3,16 @@ description: 대화형 웨비나 홍보 - Marketo 문서 - 제품 설명서
 title: 대화형 웨비나 홍보
 feature: Interactive Webinars
 exl-id: d26f91ce-3a95-4247-9a52-085260bb15e8
-source-git-commit: f5b66521f678b2aa618d270077292ddd9b8775c3
+source-git-commit: 3717cba468ed7f1a916fa0eefa2ff50708d95c34
 workflow-type: tm+mt
-source-wordcount: '777'
+source-wordcount: '785'
 ht-degree: 0%
 
 ---
 
 # 대화형 웨비나 홍보 {#promoting-an-interactive-webinar}
 
-대화형 웨비나를 프로모션하는 것은 Launchpoint를 통해 파트너 웨비나를 프로모션하는 것과 비슷합니다. 대화형 웨비나 이벤트 프로그램을 만들 때 캠페인을 실행하거나 프로그램에 멤버를 가져와서 멤버를 추가할 수 있습니다. 대화형 웨비나 이벤트 프로그램에 추가된 구성원을 확인하려면 **[!UICONTROL 구성원]** 탭을 클릭하십시오.
+대화형 웨비나를 프로모션하는 것은 Launchpoint를 통해 파트너 웨비나를 프로모션하는 것과 비슷합니다. 대화형 웨비나 이벤트 프로그램을 만들 때 캠페인을 실행하거나 프로그램에 멤버를 가져와서 멤버를 추가할 수 있습니다. 대화형 웨비나 이벤트 프로그램에 추가된 멤버를 확인하려면 **[!UICONTROL Members]** 탭을 클릭하십시오.
 
 ![](assets/promoting-an-interactive-webinar-1.png)
 
@@ -46,9 +46,13 @@ ht-degree: 0%
 
 ## 대화형 웨비나 토큰 {#interactive-webinars-tokens}
 
-웨비나 세부 정보를 수동으로 추가할 필요 없이 토큰을 사용하여 이메일 및 랜딩 페이지에서 대화형 웨비나를 홍보할 수 있습니다. 웨비나 메타데이터(예: 웨비나 제목, 시작 날짜 등)에 대한 변경 사항이 자산에 자동으로 반영되므로 전반적인 효율성이 향상됩니다.
+웨비나 세부 정보를 수동으로 추가하지 않고도 토큰을 사용하여 이메일에서 대화형 웨비나를 홍보할 수 있습니다. 웨비나 메타데이터(예: 웨비나 제목, 시작 날짜 등)에 대한 변경 사항이 자산에 자동으로 반영되므로 전반적인 효율성이 향상됩니다.
 
 ![](assets/promoting-an-interactive-webinar-3.png)
+
+>[!NOTE]
+>
+>대화형 웨비나 토큰은 현재 랜딩 페이지에서 지원되지 않습니다.
 
 **토큰 목록**
 
