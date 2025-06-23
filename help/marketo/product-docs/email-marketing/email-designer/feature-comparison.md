@@ -7,9 +7,9 @@ level: Beginner, Intermediate
 feature: Email Designer
 role: User
 exl-id: 37b42418-1733-447f-bab0-e1d461ef8110
-source-git-commit: bfa1bc900c2adc263e634a81440b77bef2976d3b
+source-git-commit: 2dc4a0db97f8c7c3e5eee2456da9831ccd6f79cf
 workflow-type: tm+mt
-source-wordcount: '916'
+source-wordcount: '913'
 ht-degree: 9%
 
 ---
@@ -173,6 +173,12 @@ ht-degree: 9%
     <td>사용 가능</td>
   </tr>
   <tr>
+    <td>리트머스 통합</td>
+    <td><a href="/help/marketo/product-docs/email-marketing/email-designer/test-email-rendering.md" target="_blank">Litmus와 통합</a>하여 이메일이 다양한 이메일 클라이언트에서 어떻게 렌더링되는지 확인할 수 있습니다.</td>
+    <td>사용할 수 없음</td>
+    <td>사용 가능</td>
+  </tr>
+  <tr>
     <td>Personalization 편집기</td>
     <td>토큰을 사용하여 이메일의 콘텐츠를 개인화할 수 있습니다.</td>
     <td>사용 가능</td>
@@ -253,12 +259,6 @@ ht-degree: 9%
    <tr>
     <td>핸들바 스크립팅</td>
     <td>이메일에서 핸들바 스크립팅을 사용하는 기능.</td>
-    <td>사용할 수 없음</td>
-    <td>2025년 3분기 계획</td>
-  </tr>
-  <tr>
-    <td>리트머스 통합</td>
-    <td>Litmus와 통합하여 이메일이 다양한 이메일 클라이언트에서 어떻게 렌더링될지 확인할 수 있습니다.</td>
     <td>사용할 수 없음</td>
     <td>2025년 3분기 계획</td>
   </tr>
