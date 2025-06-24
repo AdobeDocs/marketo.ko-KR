@@ -64,7 +64,7 @@ ht-degree: 0%
 
 ## Marketo의 [!DNL Bizible] {#bizible-by-marketo}
 
-* [!DNL Dynamics]**에 대한**&#x200B;다중 통화 지원: [!DNL Bizible]은(는) 이제 [!DNL Microsoft Dynamics] 통화 테이블에 적용되므로 회사 통화와 로컬 통화 간에 쉽게 전환할 수 있습니다. (참고: SFDC에 대한 지원은 2019년 1분기에 릴리스되었습니다.)
+* [!DNL Dynamics]&#x200B;**에 대한**&#x200B;다중 통화 지원: [!DNL Bizible]은(는) 이제 [!DNL Microsoft Dynamics] 통화 테이블에 적용되므로 회사 통화와 로컬 통화 간에 쉽게 전환할 수 있습니다. (참고: SFDC에 대한 지원은 2019년 1분기에 릴리스되었습니다.)
 * **드리프트 통합**: 드리프트 대화가 고객의 여정에 미치는 영향을 이해합니다. [!DNL Bizible]은(는) 대화에서 전자 메일 주소를 가져와서 새 리드를 만들거나 터치포인트를 기존 리드에 연결합니다.
 * **로컬라이제이션**: [!DNL Bizible]은(는) 이제 모든 Marketo 지원 언어(영어, 일본어, 독일어, 스페인어, 프랑스어 및 포르투갈어)로 제공됩니다.
 

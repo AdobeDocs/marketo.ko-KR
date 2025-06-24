@@ -30,7 +30,7 @@ ht-degree: 0%
 
 * **[!DNL Dynamic Chat]**&#x200B;에 대한 고급 약속 라우팅 규칙: [!DNL Dynamic Chat]에서는 대상 약속 라우팅에 대한 추가 옵션을 제공합니다. Marketo Engage 속성에 따라 라우팅할 에이전트 약속을 지정하여 리드가 적절한 에이전트로 라우팅되도록 합니다.
 
-* [!DNL Dynamic Chat]**에 대한**&#x200B;고급 대화 상자 보고: 참여 및 전환 지표에 대한 새로운 데이터 시각화를 사용하여 [!DNL Dynamic Chat] 캠페인의 성과를 자세히 봅니다.
+* [!DNL Dynamic Chat]&#x200B;**에 대한**&#x200B;고급 대화 상자 보고: 참여 및 전환 지표에 대한 새로운 데이터 시각화를 사용하여 [!DNL Dynamic Chat] 캠페인의 성과를 자세히 봅니다.
 
 * **[!DNL Dynamic Chat]**&#x200B;에 대해 사용하지 않은 Marketo Engage 특성 동기화 해제: 사용되지 않는 [!DNL Dynamic Chat] 구독의 Marketo Engage 특성을 동기화하지 않으므로 데이터를 깔끔하게 정리하고 필요에 따라 다른 특성을 동기화할 수 있습니다.
 
@@ -55,7 +55,7 @@ ht-degree: 0%
 
 ![(별)](assets/yellow-star.png)
 
-* [!DNL Salesforce]**의**[!DNL Sales Insight] 사용 권한 집합: 관리자는 [!DNL Sales Insight] [!DNL Salesforce] 패키지의 일부인 Marketo 앱 사용 권한 집합을 통해 프로필 수준이 아닌 사용자 수준의 제한된 사용자 집합에 대한 [!DNL Sales Insight] 액세스 권한을 제공할 수 있습니다.
+* [!DNL Salesforce]&#x200B;**의**&#x200B;[!DNL Sales Insight] 사용 권한 집합: 관리자는 [!DNL Sales Insight] [!DNL Salesforce] 패키지의 일부인 Marketo 앱 사용 권한 집합을 통해 프로필 수준이 아닌 사용자 수준의 제한된 사용자 집합에 대한 [!DNL Sales Insight] 액세스 권한을 제공할 수 있습니다.
 
 * **내 Marketo 타일 업데이트 - [!DNL Sales Insight] 작업**: Marketo 관리자(및 사용자가 지정한 사용자)는 이제 내 Marketo 페이지에 있는 새 [!DNL Sales Insight] 작업 타일을 통해 [!DNL Sales Insight] 작업 인스턴스로 빠르게 이동할 수 있습니다.
 

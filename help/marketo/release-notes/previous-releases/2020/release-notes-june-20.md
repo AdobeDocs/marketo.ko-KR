@@ -55,7 +55,7 @@ ht-degree: 0%
 * **Marketo Engage 활동 통합(BETA)**: Marketo Engage 활동 데이터를 [!DNL Bizible]에 직접 가져와 고객 여정 및 모든 속성 모델에서 터치포인트를 만듭니다. 예를 들면 리드 점수 변경, 흥미로운 순간, 이메일 클릭 또는 사용자 지정 활동이 있습니다. Marketo Engage 통합 개선 사항.
 * **[!DNL Bizible]B2B 고객 특성 통합(BETA)**: 선택한 Bizible 데이터를 Adobe Analytics으로 직접 가져와 보다 심층적으로 분석할 수 있는 Adobe Analytics과의 Adobe Experience Cloud 통합입니다. 회사 이름, 계정 특성, CRM 기회 및 [!DNL Bizible] 속성 매출 및 단계 단계로 정의된 고가치 개인별 계정 기반 사이트 트래픽 및 콘텐츠 분석을 예로 들 수 있습니다.
 * **[!DNL Bizible]필터 및 개선 사항 검색**: 대시보드에서 채널, 하위 채널, 캠페인 및 세그먼트 필터를 사용하여 데이터를 분석합니다. 더 많은 드릴다운 속성을 통해 데이터 가시성을 강화합니다. 이것은 검색 보드의 개선 사항입니다.
-* [!DNL Microsoft Dynamics]**에 대한**&#x200B;활동 동기화: [!DNL Microsoft Dynamics] CRM 활동을 터치포인트 여정에 가져와 판매 상호 작용을 특성화하고 잠재 고객 또는 연락처와 연결된 통화, 약속 또는 작업과 같은 이벤트를 추적합니다. [!DNL Microsoft Dynamics] CRM 통합 개선 사항.
+* [!DNL Microsoft Dynamics]&#x200B;**에 대한**&#x200B;활동 동기화: [!DNL Microsoft Dynamics] CRM 활동을 터치포인트 여정에 가져와 판매 상호 작용을 특성화하고 잠재 고객 또는 연락처와 연결된 통화, 약속 또는 작업과 같은 이벤트를 추적합니다. [!DNL Microsoft Dynamics] CRM 통합 개선 사항.
 
 ## [!DNL Sales Insight] {#sales-insight}
 

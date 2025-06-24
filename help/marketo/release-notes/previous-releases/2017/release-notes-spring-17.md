@@ -68,7 +68,7 @@ ht-degree: 0%
 
 페이지를 닫기 전에 방문자의 관심을 사로잡습니다. 마우스 동작이 방문자가 페이지를 나가는 것을 나타낼 때만 표시하도록 개인화된 [!UICONTROL Web Campaigns]을(를) 설정하십시오.
 
-[!UICONTROL Web Campaigns]](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/create-a-new-dialog-web-campaign.md)**에 대한**[&#x200B;애니메이션 효과
+[!UICONTROL Web Campaigns][&#128279;](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/create-a-new-dialog-web-campaign.md)**에 대한**&#x200B;애니메이션 효과
 
 웹 페이지를 입력하거나 종료할 때 캠페인이 표시되는 방식을 사용자 지정하려면 대화 상자 웹 캠페인에 대한 애니메이션 효과를 설정하십시오. 6가지 효과 중에서 선택하고 대화 상자의 타이밍과 방향을 제어할 수 있습니다.
 

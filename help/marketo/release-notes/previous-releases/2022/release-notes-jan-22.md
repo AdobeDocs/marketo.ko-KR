@@ -32,7 +32,7 @@ ht-degree: 0%
 
 * **다중 선택 Optionset 필드 형식 동기화(일반적으로 사용 가능)**: 보다 세분화된 대상 타깃팅을 위해 스마트 목록 및 스마트 캠페인에서 활용하려면 [!DNL Microsoft Dynamics]에서 다중 선택 Optionset 필드 형식을 동기화하십시오. 예로는 관심 주제/제품, 선호하는 커뮤니케이션 모드 등이 있습니다. 이 새 동기화는 [!DNL Microsoft Dynamics] 버전 9.X(Dynamics 365 Online 포함)에서 사용할 수 있습니다.
 
-* [!DNL Microsoft Dynamics 365 Online]**에 대한**&#x200B;서버 간 인증: 보안을 강화하기 위해 이제 [!DNL Microsoft Dynamics 365 Online]에 대한 비대화형 액세스를 위해 Azure Active Directory에서 Marketo Engage 동기화 사용자의 추가 인증 모드로 S2S(서버 간)를 지원합니다. 모든 인증 및 로그인이 OAuth(클라이언트 ID 및 클라이언트 암호만)를 기반으로 하므로 다단계 인증을 사용할 수 있습니다.
+* [!DNL Microsoft Dynamics 365 Online]&#x200B;**에 대한**&#x200B;서버 간 인증: 보안을 강화하기 위해 이제 [!DNL Microsoft Dynamics 365 Online]에 대한 비대화형 액세스를 위해 Azure Active Directory에서 Marketo Engage 동기화 사용자의 추가 인증 모드로 S2S(서버 간)를 지원합니다. 모든 인증 및 로그인이 OAuth(클라이언트 ID 및 클라이언트 암호만)를 기반으로 하므로 다단계 인증을 사용할 수 있습니다.
 
 >[!NOTE]
 >
@@ -58,13 +58,13 @@ Adobe Experience Platform(AEP)도 사용하는 Marketo Engage 고객은 AEP 대�
 
 [!DNL Salesforce] CRM용 **[!DNL Sales Insight]**
 
-* [!UICONTROL Best Bets]**에 대한**&#x200B;새 형식 열: [!UICONTROL Best Bets] 페이지의 리드와 연락처를 구별하기 위해 &quot;Type&quot;이라는 레이블이 지정된 새 열을 사용하여 판매자가 더 빠른 통찰력을 얻습니다.
+* [!UICONTROL Best Bets]&#x200B;**에 대한**&#x200B;새 형식 열: [!UICONTROL Best Bets] 페이지의 리드와 연락처를 구별하기 위해 &quot;Type&quot;이라는 레이블이 지정된 새 열을 사용하여 판매자가 더 빠른 통찰력을 얻습니다.
 
 * **[!DNL Salesforce]Platform API 업데이트**: [!DNL Salesforce]에서 [!DNL Salesforce] Platform API 버전 21.0에서 30.0을 중단하는 것에 대한 응답으로 [!DNL Sales Insight] 패키지가 최신 API로 업데이트되었습니다.
 
 * **브랜딩 업데이트됨**: 모든 [!DNL Sales Insight] 페이지가 Adobe 브랜딩에 맞게 업데이트되고 있습니다.
 
-[!DNL Microsoft Dynamics]**에 대한**[!DNL Sales Insight]
+[!DNL Microsoft Dynamics]&#x200B;**에 대한**&#x200B;[!DNL Sales Insight]
 
 * **업데이트된 계정 레이아웃**: 판매자는 전자 메일 활동, 웹 활동, 관심 있는 순간, 계정 내 모든 연락처에 대한 점수 변경과 같은 상위 활동에 대한 집단 보기를 얻을 수 있습니다.
 

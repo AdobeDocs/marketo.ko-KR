@@ -63,6 +63,6 @@ ht-degree: 0%
 
 * **자산 API &quot;_method&quot; 매개 변수 제거**: 2020년 9월 이후, 자산 API 끝점은 이제 &quot;_method&quot;를 사용하여 쿼리 매개 변수를 URI 길이 제한을 무시하도록 POST 본문에 전달하지 않습니다. 이 매개 변수를 필요로 하는 요청을 수용하기 위해 자산 API의 URI 제한이 8KB에서 65KB로 늘어납니다.
 * **[[!DNL Munchkin] 리드 연결](https://developers.marketo.com/blog/deprecation-of-munchkin-associate-lead-method/)**: Munchkin JavaScript 클라이언트 버전 159의 이번 릴리스를 통해 [!DNL Munchkin] 리드 연결 방법의 사용 중단을 시작합니다. 호출되면 메서드가 향후 릴리스에서 제거됨을 나타내는 경고가 표시됩니다. 제거하면 메서드가 더 이상 작동하지 않으며 해당 메서드를 사용하려고 시도해도 실패합니다. 최근 이 방법을 사용한 Marketo Engage 고객은 사용 여부를 개별적으로 알 수 있습니다.
-* **Internet Explorer 지원**: 이전에 발표된 대로 Internet Explorer 11에 대한 Marketo Engage 지원은 **2020년 7월 31일**&#x200B;에 종료됩니다. [!DNL Google Chrome], [!DNL Mozilla Firefox], [!DNL  Apple Safari] 및 [!DNL Microsoft Edge]을(를) 계속 지원합니다.
+* **Internet Explorer 지원**: 이전에 발표된 대로 Internet Explorer 11에 대한 Marketo Engage 지원은 **2020년 7월 31일**&#x200B;에 종료됩니다. [!DNL Google Chrome], [!DNL Mozilla Firefox], [!DNL &#x200B; Apple Safari] 및 [!DNL Microsoft Edge]을(를) 계속 지원합니다.
 * **Sky 기본 경험**: 관리자 또는 사용자가 [!DNL Marketo Sky]을(를) 기본 경험으로 설정하는 옵션은 기본 사용자 경험으로 업데이트할 준비를 위해 이 릴리스에서 제거됩니다. 기본 경험에 대한 업데이트에 대한 자세한 내용은 올해 말로 예정되어 있으며 7월에 제공될 예정입니다. [!DNL Marketo Sky]을(를) 기본 경험으로 설정하거나 [!DNL Marketo Sky]에 대한 액세스 권한이 부여된 사용자는 내 Marketo 홈 페이지의 타일에서 [!DNL Marketo Sky]에 계속 액세스할 수 있습니다.
 * **EdgeHTML(비 Chromium) [!DNL Microsoft Edge] 지원**: Marketo Engage은 2020년 말에 더 이상 Microsoft Edge의 EdgeHTML 버전을 지원하지 않습니다. 2021년 1월 1일부터 Microsoft Edge의 최신 Chromium 버전만 지원합니다.
