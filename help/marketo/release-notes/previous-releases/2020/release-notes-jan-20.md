@@ -57,7 +57,7 @@ ht-degree: 0%
 
 ## [!DNL Marketo Sky] {#marketo-sky}
 
-* [이미지 편집](https://experienceleague.adobe.com/docs/marketo/sky/design-studio/marketo-image-editor.html?lang=en#design-studio): Marketo Engage에서 나가지 않고 Adobe의 편집 기능에 액세스합니다. 이 새로운 기능을 사용하면 [!UICONTROL Design Studio]에서 이미지에 텍스트를 직접 보강, 자르기 및 추가하는 등의 작업을 쉽게 수행할 수 있습니다.
+* [이미지 편집](https://experienceleague.adobe.com/docs/marketo/sky/design-studio/marketo-image-editor.html?lang=ko#design-studio): Marketo Engage에서 나가지 않고 Adobe의 편집 기능에 액세스합니다. 이 새로운 기능을 사용하면 [!UICONTROL Design Studio]에서 이미지에 텍스트를 직접 보강, 자르기 및 추가하는 등의 작업을 쉽게 수행할 수 있습니다.
 
 ## [!DNL Sales Insight] {#sales-insight}
 
