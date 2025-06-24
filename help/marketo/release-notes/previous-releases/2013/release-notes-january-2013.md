@@ -4,16 +4,16 @@ description: 릴리스 노트 - 2013년 1월 - Marketo 설명서 - 제품 설명
 title: 릴리스 노트 - 2013년 1월
 exl-id: 1bdc15f4-eb86-4e29-948a-0823a583ee86
 feature: Release Information
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: ecd225af3ecfd7cb9159faf5a9d384d47ee6312c
 workflow-type: tm+mt
-source-wordcount: '321'
+source-wordcount: '303'
 ht-degree: 0%
 
 ---
 
 # 릴리스 노트: 2013년 1월 {#release-notes-january}
 
-1월 릴리스는 **추천 오퍼**&#x200B;로 소셜 오퍼를 확장합니다. 또한 Marketo 리드 관리 사용자는 시간대, 언어 및 로케일 환경 설정을 지정할 수 있습니다. &#42;(으)로 표시된 기능은 Select Edition에서만 사용할 수 있습니다.
+1월 릴리스는 **추천 오퍼**&#x200B;로 소셜 오퍼를 확장합니다. 또한 [!DNL Marketo Lead Management] 사용자는 표준 시간대, 언어 및 로케일 기본 설정을 설정할 수 있습니다. &#42;(으)로 표시된 기능은 Select Edition에서만 사용할 수 있습니다.
 
 ## 추천 오퍼 {#referral-offers}
 
@@ -29,7 +29,7 @@ ht-degree: 0%
 
 ![](assets/image2014-9-22-15-3a21-3a2.png)
 
-## Marketo 리드 관리 언어 선택 {#select-your-marketo-lead-management-language}
+## [!DNL Marketo Lead Management] 언어 선택 {#select-your-marketo-lead-management-language}
 
 Marketo 사용자 계정의 기본 언어를 변경할 수 있습니다. 구독의 기본값이 영어이더라도 독일어나 프랑스어로 변경하여 직접 사용할 수 있습니다.
 
@@ -45,9 +45,9 @@ Marketo 사용자 계정의 기본 언어를 변경할 수 있습니다. 구독�
 
 ![](assets/image2014-9-22-15-3a22-3a2.png)
 
-## Sales Insight 언어 선택(Salesforce만 해당) {#select-your-sales-insight-language-salesforce-only}
+## [!DNL Sales Insight] 언어 선택([!DNL Salesforce]만) {#select-your-sales-insight-language-salesforce-only}
 
-Salesforce 언어 기본 설정이 프랑스어 또는 독일어로 설정된 경우 Marketo Sales Insight에서 이 기본 설정을 적용합니다. 이 기능을 사용하려면 최신 MSI 패키지를 다운로드하십시오(1월 14일 주 사용 가능).
+[!DNL Salesforce] 언어 기본 설정이 프랑스어 또는 독일어로 설정되어 있으면 Marketo [!DNL Sales Insight]에서 이 기본 설정을 적용합니다. 이 기능을 사용하려면 최신 MSI 패키지를 다운로드하십시오(1월 14일 주 사용 가능).
 
 ![](assets/image2014-9-22-15-3a22-3a31.png)
 
@@ -59,6 +59,6 @@ Salesforce 언어 기본 설정이 프랑스어 또는 독일어로 설정된 �
 
 ## 프로그램 데이터 변경 {#change-program-data}
 
-프로그램 데이터 흐름 변경 단계를 사용하면 캠페인을 통해 프로그램 멤버의 성공 상태 및 성공 날짜를 수동으로 변경할 수 있습니다. 이 흐름 단계를 사용하여 실수를 수정하거나 프로그램에 의도한 대로 참여하지 않은 구성원을 수동으로 변경할 수 있습니다.
+[!UICONTROL Change Program Data] 흐름 단계를 사용하면 캠페인을 통해 수동으로 프로그램 구성원의 [!UICONTROL Success] 상태 및 [!UICONTROL Success Date]을(를) 변경할 수 있습니다. 이 흐름 단계를 사용하여 실수를 수정하거나 프로그램에 의도한 대로 참여하지 않은 구성원을 수동으로 변경할 수 있습니다.
 
 ![](assets/image2014-9-22-15-3a23-3a23.png)

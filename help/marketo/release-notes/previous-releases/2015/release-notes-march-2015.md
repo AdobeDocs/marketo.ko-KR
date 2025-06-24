@@ -4,9 +4,9 @@ description: 릴리스 노트 - 2015년 3월 - Marketo 문서 - 제품 설명서
 title: 릴리스 노트 - 2015년 3월
 exl-id: aa3c738a-2e5c-41c3-b1d7-95869dd10b02
 feature: Release Information
-source-git-commit: 2b610cc3486b745212b0b1f36018a83214d7ecd7
+source-git-commit: ecd225af3ecfd7cb9159faf5a9d384d47ee6312c
 workflow-type: tm+mt
-source-wordcount: '301'
+source-wordcount: '287'
 ht-degree: 0%
 
 ---
@@ -21,27 +21,27 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->이 기능은 Spark 및 Standard 버전에서 사용할 수 없습니다.
+>이 기능은 Spark 및 [!DNL Standard] 버전에서 사용할 수 없습니다.
 
 ![](assets/image2015-3-23-11-3a39-3a15.png)
 
-## Google Adwords 통합 {#google-adwords-integration}
+## [!DNL Google Adwords] 통합 {#google-adwords-integration}
 
-[Google AdWords 계정을 Marketo에 연결](/help/marketo/product-docs/administration/additional-integrations/add-google-adwords-as-a-launchpoint-service.md)하여 Marketo에서 Google AdWords로 오프라인 전환 데이터를 자동으로 업로드합니다. 그런 다음 AdWords UI에서 자격을 갖춘 리드, 기회 및 신규 고객(또는 추적하려는 매출 단계)을 초래한 클릭 수를 쉽게 확인할 수 있습니다.
+[[!DNL Google AdWords] 계정을 Marketo에 연결](/help/marketo/product-docs/administration/additional-integrations/add-google-adwords-as-a-launchpoint-service.md)하여 Marketo에서 [!DNL Google AdWords]&#x200B;(으)로 오프라인 전환 데이터를 자동으로 업로드합니다. 그런 다음 [!DNL AdWords] UI에서 자격을 갖춘 리드, 기회 및 신규 고객(또는 추적하려는 매출 단계)을 일으킨 클릭 수를 쉽게 확인할 수 있습니다.
 
 ![](assets/image2015-3-23-11-3a50-3a55.png)
 
-## 매출 탐색기 재디자인 {#revenue-explorer-redesign}
+## [!UICONTROL Revenue Explorer] 다시 디자인 {#revenue-explorer-redesign}
 
-Revenue Explorer에는 새로운 Sunburst 차트 유형과 함께 새로운 모양과 느낌이 있습니다. 4월 첫 2주 동안 이 프로젝트를 진행할 예정입니다.
+[!UICONTROL Revenue Explorer]은(는) 새로운 Sunburst 차트 유형과 새로운 모양과 느낌을 가지고 있습니다. 4월 첫 2주 동안 이 프로젝트를 진행할 예정입니다.
 
 ## 새 자산 REST API {#new-asset-rest-apis}
 
-[새 자산 REST API](https://experienceleague.adobe.com/ko/docs/marketo-developer/marketo/rest/assets/assets)
+[새 자산 REST API](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/rest/assets/assets)
 
 이제 API를 통해 [전자 메일, 템플릿, 내 토큰, 파일 및 코드 조각을 만들고 편집할 수 있습니다](https://developer.adobe.com/marketo-apis/api/asset/)!
 
-## Microsoft Dynamics 2015 온-프레미스 {#microsoft-dynamics-on-premise}
+## [!DNL Microsoft Dynamics] 2015 On Premise {#microsoft-dynamics-on-premise}
 
 이제 최신 설치 관리자로 지원되며 [앱을 통해 액세스할 수 있습니다](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/update-the-marketo-solution-for-microsoft-dynamics.md).
 

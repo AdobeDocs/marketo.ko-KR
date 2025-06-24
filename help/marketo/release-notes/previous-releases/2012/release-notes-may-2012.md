@@ -4,10 +4,10 @@ description: 릴리스 노트 - 2012년 5월 - Marketo 문서 - 제품 설명서
 title: 릴리스 노트 - 2012년 5월
 exl-id: b951e986-359d-4da0-8654-4d9f1416cebb
 feature: Release Information
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: ecd225af3ecfd7cb9159faf5a9d384d47ee6312c
 workflow-type: tm+mt
-source-wordcount: '660'
-ht-degree: 0%
+source-wordcount: '638'
+ht-degree: 4%
 
 ---
 
@@ -55,7 +55,7 @@ iOS 5.1 이상 필요(iPad만 해당)
 
 ## 향상된 웨비나 확인 URL {#enhanced-webinar-confirmation-url}
 
-이제 ON24 및 Adobe Connect에서 사용할 수 있습니다! 새 `{{member.webinar URL}}` 토큰을 사용하여 등록된 각 참석자에 대한 확인 전자 메일에 고유한 링크를 포함하십시오. Adobe Connect의 향상된 기능에는 사용자의 로그인 ID 및 암호가 포함된 Adobe 계정 정보 이메일을 켜거나 끄는 기능도 포함되어 있습니다.
+이제 [!DNL ON24] 및 Adobe Connect에서 사용할 수 있습니다! 새 `{{member.webinar URL}}` 토큰을 사용하여 등록된 각 참석자에 대한 확인 전자 메일에 고유한 링크를 포함하십시오. Adobe Connect의 향상된 기능에는 사용자의 로그인 ID 및 암호가 포함된 Adobe 계정 정보 이메일을 켜거나 끄는 기능도 포함되어 있습니다.
 
 ![](assets/image2014-9-23-10-3a15-3a44.png)
 
@@ -89,39 +89,39 @@ Marketo 엔지니어가 개발한 실험 기능에 액세스하여 사용자 경
 
 그림 10. 관리자의 보물 상자 기능
 
-## Microsoft Dynamics® CRM 통합 {#microsoft-dynamics-crm-integration}
+## [!DNL Microsoft Dynamics]® CRM 통합 {#microsoft-dynamics-crm-integration}
 
-사전 설치된 새로운 통합을 사용하여 Marketo과 Microsoft Dynamics CRM Online 간에 계정, 연락처 및 리드를 동기화합니다!
+미리 빌드된 새로운 통합을 사용하여 Marketo과 [!DNL Microsoft Dynamics] CRM Online 간에 계정, 연락처 및 리드를 동기화합니다!
 
 ![](assets/image2014-9-23-10-3a17-3a6.png)
 
-그림 11. Microsoft Dynamics 구성
+그림 11. [!DNL Microsoft Dynamics] 구성
 
-## Marketo Sales Insight 향상 {#marketo-sales-insight-enhancements}
+## Marketo [!DNL Sales Insight] 개선 사항 {#marketo-sales-insight-enhancements}
 
 **바닥글 구독 취소 옵션**
 
-Sales Insight를 통해 전송된 이메일에 대한 구독 취소 바닥글이 표시되는 시기와 여부를 구성합니다.
+[!DNL Sales Insight]을(를) 통해 보낸 전자 메일에 대해 구독 취소 바닥글이 표시되는 시기와 여부를 구성합니다.
 
 ![](assets/image2014-9-23-10-3a17-3a20.png)
 
-그림 12. 관리자의 Sales Insight 설정
+그림 12. 관리자의 [!DNL Sales Insight] 설정
 
 ## 판매 이메일 템플릿 폴더 {#folders-for-sales-email-templates}
 
-이제 Marketo Sales Insight에서 공유한 이메일 템플릿을 지정된 폴더에 구성할 수 있으므로 영업 담당자가 올바른 이메일을 쉽게 찾을 수 있습니다.
+이제 Marketo [!DNL Sales Insight]과(와) 공유된 이메일 템플릿을 지정된 폴더로 구성하여 영업 담당자가 올바른 이메일을 더 쉽게 찾을 수 있습니다.
 
 ![](assets/image2014-9-23-10-3a17-3a35.png)
 
 그림 13. 이메일 폴더 선택
 
-## Sales Insight에서 Opportunity Analyzer 액세스 {#access-opportunity-analyzer-from-sales-insight}
+## [!DNL Sales Insight]에서 영업 기회 분석기에 액세스 {#access-opportunity-analyzer-from-sales-insight}
 
-Marketo Sales Insight에서 Opportunity Analyzer에 직접 액세스하여 영업 활동을 유도하는 마케팅 활동에 대한 통찰력을 영업 담당자에게 제공합니다. 참고. Revenue Cycle Analytics 라이센스가 필요합니다.
+Marketo [!DNL Sales Insight]에서 Opportunity Analyzer에 직접 액세스하여 마케팅 활동이 참여를 유도하는 insight을 영업 담당자에게 제공합니다. 참고. Revenue Cycle Analytics 라이센스가 필요합니다.
 
 ## 연락처 상태에 대한 사용자 정의 필드 {#custom-field-for-contact-status}
 
-이제 Salesforce에서 사용자 정의 필드를 매핑하여 내 베스트 베트, 내 팀의 베스트 베트 및 사용자 정의 보기에서 연락처의 상태 필드를 채울 수 있습니다.
+이제 [!DNL Salesforce]의 사용자 지정 필드를 매핑하여 내 베스트 베트, 내 팀의 베스트 베트 및 사용자 지정 보기에서 연락처의 상태 필드를 채울 수 있습니다.
 
 ![](assets/image2014-9-23-10-3a17-3a47.png)
 
@@ -129,7 +129,7 @@ Marketo Sales Insight에서 Opportunity Analyzer에 직접 액세스하여 영�
 
 익명 잠재 고객이 방문한 페이지 보기
 
-익명 웹 활동 보기에서 익명 잠재 고객이 본 페이지로 드릴다운합니다.
+[!UICONTROL Anonymous Web Activity] 보기에서 익명 잠재 고객이 본 페이지로 드릴다운합니다.
 
 ![](assets/image2014-9-23-10-3a17-3a59.png)
 

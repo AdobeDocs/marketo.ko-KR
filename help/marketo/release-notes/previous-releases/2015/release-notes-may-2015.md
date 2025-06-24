@@ -4,10 +4,10 @@ description: 릴리스 노트 - 2015년 5월 - Marketo 문서 - 제품 설명서
 title: 릴리스 노트 - 2015년 5월
 exl-id: 29f42b17-58e3-4e45-a871-79d91a47fb9f
 feature: Release Information
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: ecd225af3ecfd7cb9159faf5a9d384d47ee6312c
 workflow-type: tm+mt
-source-wordcount: '255'
-ht-degree: 0%
+source-wordcount: '253'
+ht-degree: 1%
 
 ---
 
@@ -31,7 +31,7 @@ ht-degree: 0%
 
 ## 이메일 전달성  {#email-deliverability}
 
-이제 Marketo에서 추가된 도메인에 대해 매주 자동 SPF 및 DKIM 검사를 실행합니다. 알림을 확인하여 이 문제를 해결하십시오.
+이제 Marketo에서 추가된 도메인에 대해 매주 자동 [!DNL SPF] 및 [!DNL DKIM] 검사를 실행합니다. 알림을 확인하여 이 문제를 해결하십시오.
 
 ## 이메일 템플릿 동작 변경 {#email-template-behavior-change}
 
@@ -43,8 +43,8 @@ RTP: [세그먼트 편집기 드래그 앤 드롭](/help/marketo/product-docs/we
 
 기준을 세그먼트 빌더에 끌어다 놓고 값을 정의하면 실시간 세그먼트를 만드는 데 도움이 됩니다.
 
-## RTP: Predictive Content Recommendations {#rtp-predictive-content-recommendations}
+## RTP: 예측 컨텐츠 권장 사항 {#rtp-predictive-content-recommendations}
 
-[Predictive Content Recommendations](/help/marketo/product-docs/predictive-content/enabling-predictive-content/enable-predictive-content-for-web-rich-media.md)
+[예측 콘텐츠 권장 사항](/help/marketo/product-docs/predictive-content/enabling-predictive-content/enable-predictive-content-for-web-rich-media.md)
 
 RTP의 머신 러닝 및 예측 분석 알고리즘을 사용하여 올바른 컨텐츠를 올바른 잠재 고객에게 추천합니다. 이미지 및 텍스트 설명을 통해 콘텐츠 에셋을 시각적으로 개선하고 두 개 이상의 콘텐츠 에셋을 추천합니다.

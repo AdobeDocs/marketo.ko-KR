@@ -4,9 +4,9 @@ description: 릴리스 노트 - 2015년 가을 - Marketo 문서 - 제품 설명�
 title: 릴리스 노트 - 2015년 가을
 exl-id: b8a43086-a4d8-432d-89ac-14c75c6f0609
 feature: Release Information
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: ecd225af3ecfd7cb9159faf5a9d384d47ee6312c
 workflow-type: tm+mt
-source-wordcount: '999'
+source-wordcount: '967'
 ht-degree: 0%
 
 ---
@@ -41,17 +41,17 @@ ht-degree: 0%
 
 ![](assets/image2015-10-1-13-3a55-3a21.png)
 
-## Google Chrome용 Marketo Insights {#marketo-insights-for-google-chrome}
+## [!DNL Google Chrome]에 대한 Marketo Insights {#marketo-insights-for-google-chrome}
 
-[Google Chrome용 Marketo Insights](/help/marketo/product-docs/marketo-sales-insight/msi-chrome-plugin/using-marketo-insights-for-google-chrome.md)
+[ [!DNL Google Chrome]에 대한 Marketo 인사이트](/help/marketo/product-docs/marketo-sales-insight/msi-chrome-plugin/using-marketo-insights-for-google-chrome.md)
 
-Google Mail Sales Insight 확장에 대한 업데이트 릴리스를 발표하게 되어 기쁘게 생각합니다! [Chrome 스토어](https://chrome.google.com/webstore/detail/marketo-insights-for-goog/jjkfbhajlmoeegbjgjipliamplidmbjb)에서 봅니다.
+[!DNL Google Mail] [!DNL Sales Insight] 확장에 대한 업데이트 릴리스를 발표하게 되어 기쁘게 생각합니다! [[!DNL Chrome Store]](https://chrome.google.com/webstore/detail/marketo-insights-for-goog/jjkfbhajlmoeegbjgjipliamplidmbjb)에서 봅니다.
 
 이 업데이트에는 다음과 같은 많은 새로운 기능이 포함되어 있습니다.
 
-* 영업 사원은 참여하기 전에 Google Mail에서 직책, twitter 프로필, 회사 정보, 사진 등을 포함하여 잠재 고객에 대한 관련 정보를 직접 볼 수 있습니다.
+* 영업 사원은 참여하기 전에 직책, Twitter 프로필, 회사 정보, 사진 등 [!DNL Google Mail] 내에서 잠재 고객에 대한 관련 정보를 직접 볼 수 있습니다.
 * 영업 사원은 개설되거나 클릭한 이메일, 온라인 또는 직접 참여한 이벤트, 방문한 웹 페이지, 다운로드한 eBook 등과 같은 채널 전반에서 잠재 고객이 관심을 보이는 콘텐츠를 실시간으로 확인할 수 있습니다.
-* Google Mail을 통해 전송된 이메일은 Marketo에 기록되며 실시간으로 추적됩니다. 이를 통해 영업 사원은 잠재 고객이 이메일을 언제 확인하는지 파악하여 적절한 시기에 후속 조치를 수행할 수 있습니다. 또한 Marketo Sales Insight for Google Mail을 사용하면 영업 사원이 마케팅에서 만든 템플릿을 활용하여 멋진 초대, 오퍼 및 기타 유형의 컨텐츠를 손쉽게 보낼 수 있습니다.
+* [!DNL Google Mail]을(를) 통해 전송된 전자 메일은 Marketo에 로그인하여 실시간으로 추적됩니다. 이를 통해 영업 사원은 잠재 고객이 이메일을 언제 확인하는지 파악하여 적절한 시기에 후속 조치를 수행할 수 있습니다. [!DNL Google Mail]용 Marketo [!DNL Sales Insight]을(를) 사용하면 영업 사원이 마케팅으로 만든 템플릿을 활용하여 멋진 초대, 오퍼 및 기타 유형의 콘텐츠를 쉽게 보낼 수 있습니다.
 
 ![](assets/image2015-10-2-14-3a47-3a53.png)
 
@@ -84,20 +84,20 @@ Google Mail Sales Insight 확장에 대한 업데이트 릴리스를 발표하�
 
 ![](assets/image2015-10-1-13-3a58-3a27.png)
 
-## RTP - Content Analytics 및 Recommendations {#rtp-content-analytics-and-recommendations}
+## RTP - Content Analytics 및 권장 사항 {#rtp-content-analytics-and-recommendations}
 
-[콘텐츠 분석](/help/marketo/product-docs/web-personalization/understanding-web-personalization/understanding-content-analytics.md) 및 Recommendations
+[Content Analytics](/help/marketo/product-docs/web-personalization/understanding-web-personalization/understanding-content-analytics.md) 및 권장 사항
 
-RTP 컨텐츠 분석에서는 일반 웹 방문과 RTP의 컨텐츠 권장 사항 엔진에서 생성된 방문 횟수의 웹 컨텐츠 자산 성능을 보여 줍니다.
+RTP Content Analytics은 일반 웹 방문과 RTP의 컨텐츠 권장 사항 엔진에서 생성된 방문 횟수의 웹 컨텐츠 자산 성능을 보여 줍니다.
 
 * 성과가 가장 좋은 콘텐츠와 가장 많은 리드를 가져오는 콘텐츠 확인
 * RTP의 예측 콘텐츠 엔진에서 콘텐츠를 활성화하여 올바른 방문자에게 최상의 콘텐츠를 자동으로 추천함으로써 콘텐츠 소비를 늘립니다
 * 각 콘텐츠 에셋을 드릴다운하여 보다 심층적인 지표, 그래프 및 성능을 확인합니다
 
-RTP의 Assets 페이지는 이제 Content Analytics와 Content Recommendations으로 분할됩니다.
+RTP의 Assets 페이지는 이제 Content Analytics 및 컨텐츠 권장 사항으로 분할됩니다.
 
-* **콘텐츠 분석:** 검색 및 정의된 모든 웹 콘텐츠의 보기 및 직접 잠재 고객을 표시하여 최상의 콘텐츠 분석을 지원합니다.
-* **컨텐츠 Recommendations**: RTP의 권장 컨텐츠 및 관련 리드 속성의 노출 횟수 및 클릭 수를 표시합니다. [표시줄](/help/marketo/product-docs/predictive-content/enabling-predictive-content/enable-the-content-recommendation-bar.md) 및 [리치 미디어](/help/marketo/product-docs/predictive-content/enabling-predictive-content/enable-predictive-content-for-web-rich-media.md) 권장 사항에 대해 이 페이지에서 콘텐츠 권장 사항을 편집하고 활성화할 수도 있습니다.
+* **Content Analytics:** 검색 및 정의된 모든 웹 콘텐츠의 보기 및 직접 잠재 고객을 표시하여 최상의 성과를 분석하는 데 도움을 줍니다.
+* **콘텐츠 권장 사항**: RTP의 권장 콘텐츠 및 관련 리드 속성의 노출 횟수 및 클릭 수를 표시합니다. [표시줄](/help/marketo/product-docs/predictive-content/enabling-predictive-content/enable-the-content-recommendation-bar.md) 및 [리치 미디어](/help/marketo/product-docs/predictive-content/enabling-predictive-content/enable-predictive-content-for-web-rich-media.md) 권장 사항에 대해 이 페이지에서 콘텐츠 권장 사항을 편집하고 활성화할 수도 있습니다.
 
 * 이 두 페이지의 모든 직접 잠재 고객 데이터는 해당 연도의 시작 (2015년 1월 1일) 이후로 소급하여 업데이트되었습니다.
 
@@ -141,9 +141,9 @@ RTP 캠페인을 복제하면 보다 개인화된 웹 캠페인을 더 빠르고
 <td background="someImage.png"> 
 ```
 
-## Microsoft Dynamics - 동기화 확인 {#microsoft-dynamics-validate-sync}
+## [!DNL Microsoft Dynamics] - 동기화 확인 {#microsoft-dynamics-validate-sync}
 
-[Microsoft Dynamics - 동기화 확인](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/validate-microsoft-dynamics-sync.md)
+[[!DNL Microsoft Dynamics] - 동기화 확인](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/validate-microsoft-dynamics-sync.md)
 
 이 새 관리 도구는 동기화 구성이 올바르게 설정되었는지 확인하기 위해 일련의 검사를 실행합니다.
 
@@ -151,7 +151,7 @@ RTP 캠페인을 복제하면 보다 개인화된 웹 캠페인을 더 빠르고
 
 ## CRM 사용자 지정 개체 동기화에 필드 추가 {#add-fields-to-crm-custom-object-sync}
 
-Salesforce 및 Dynamics에서 동기화된 사용자 지정 개체에 새 필드를 쉽게 추가합니다. 이제 전체 사용자 지정 개체를 비활성화하고 활성화하지 않고도 사용자 지정 개체 동기화에 새 필드를 추가할 수 있습니다.
+[!DNL Salesforce] 및 [!DNL Dynamics]에서 동기화된 사용자 지정 개체에 새 필드를 쉽게 추가하십시오. 이제 전체 사용자 지정 개체를 비활성화하고 활성화하지 않고도 사용자 지정 개체 동기화에 새 필드를 추가할 수 있습니다.
 
 ## 보안 기능 변경 사항 {#changes-to-security-features}
 
@@ -162,13 +162,13 @@ Salesforce 및 Dynamics에서 동기화된 사용자 지정 개체에 새 필드
 
 ## IE 11 지원(및 IE 9에 대한 지원 중단) {#ie-support-and-deprecating-support-for-ie}
 
-이제 공식적으로 Microsoft Internet Explorer 11 브라우저를 지원하며 Microsoft Internet Explorer 9 브라우저에 대한 지원을 제거합니다.
+이제 공식적으로 [!DNL Microsoft Internet Explorer] 11 브라우저를 지원하며 [!DNL Microsoft Internet Explorer] 9 브라우저에 대한 지원을 제거합니다.
 
 ## MSI에 대한 라이트닝 UI 지원 {#lightning-ui-support-for-msi}
 
-앱 교환의 최신 MSI 패키지는 Salesforce UI의 Lightning 및 레거시 버전과 모두 작동합니다.
+앱 교환의 최신 MSI 패키지는 [!DNL Salesforce] UI의 Lightning 및 Legacy 버전과 모두 작동합니다.
 
-## 새 Dynamics 플러그인 {#new-dynamics-plug-in}
+## 새 [!DNL Dynamics] 플러그 인 {#new-dynamics-plug-in}
 
 이 새 플러그인은 비동기 모드에서 다양한 작업을 실행하여 성능을 향상시킵니다.
 

@@ -4,9 +4,9 @@ description: 릴리스 노트 - 2012년 1월/2월 - Marketo 문서 - 제품 설�
 title: 릴리스 노트 - 2012년 1월/2월
 exl-id: 4d1ca9b6-e269-4982-9c0c-cf12363feafb
 feature: Release Information
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: ecd225af3ecfd7cb9159faf5a9d384d47ee6312c
 workflow-type: tm+mt
-source-wordcount: '441'
+source-wordcount: '432'
 ht-degree: 0%
 
 ---
@@ -31,7 +31,7 @@ _Pro 및 Enterprise 버전에서 사용 가능_
 
 ![](assets/image2014-9-23-9-3a50-3a42.png)
 
-## 코드 조각 {#snippets}
+## 스니펫 {#snippets}
 
 _Pro 및 Enterprise 버전에서 사용 가능_
 
@@ -69,10 +69,10 @@ _Pro 및 Enterprise 버전에서 사용 가능_
 
 ## 브라우저 지원 {#browser-support}
 
-* Mozilla Firefox 9.0
-* Google Chrome 16
-* Microsoft Internet Explorer 8 및 9
-* **참고**: Internet Explorer 7은 더 이상 지원되지 않습니다.
+* [!DNL Mozilla Firefox] 9.0
+* [!DNL Google Chrome] 16
+* [!DNL Microsoft Internet Explorer] 8 및 9
+* **참고**: [!DNL Internet Explorer] 7은 더 이상 지원되지 않습니다.
 
 ## 프로그램 관리 {#program-management}
 
@@ -96,6 +96,6 @@ _Pro 및 Enterprise 버전에서 사용 가능_
 
 ## 프로그램 수익 단계 분석 {#program-revenue-stage-analysis}
 
-Fast Mover를 획득한 프로그램을 파악하여 프로그램 리드 속도에 대한 통찰력 확보
+Fast Mover를 획득한 프로그램을 파악하여 insight의 프로그램 리드 속도를 높입니다.
 
 ![](assets/image2014-9-23-9-3a52-3a47.png)

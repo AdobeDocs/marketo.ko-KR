@@ -1,11 +1,11 @@
 ---
 description: 릴리스 노트 - 2022년 3월 - Marketo 문서 - 제품 설명서
-title: 릴리스 노트 - 2022년 3월
+title: 릴리스 정보 - 2022년 3월
 exl-id: 91826d56-a38e-44af-b798-17bfc016c311
 feature: Release Information
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: ecd225af3ecfd7cb9159faf5a9d384d47ee6312c
 workflow-type: tm+mt
-source-wordcount: '759'
+source-wordcount: '748'
 ht-degree: 0%
 
 ---
@@ -24,7 +24,7 @@ ht-degree: 0%
 
 ## 크로스 채널 오케스트레이션 {#cross-channel-orchestration}
 
-* **Dynamic Chat**: 사전 예방적이고 매력적인 1:1 맞춤형 대화를 통해 잠재 고객과 계정을 모두 타겟팅하여 웹 사이트의 모든 영업 기회를 극대화하십시오. [Dynamic Chat](/help/marketo/product-docs/demand-generation/dynamic-chat/dynamic-chat-overview.md){target="_blank"}을(를) 통해 Marketo Engage 사용자는 채팅을 B2B 마케팅 및 판매 사용 사례에 대한 통합 크로스 채널 경험의 핵심 부분으로 활용할 수 있습니다. 기능에는 채팅 내에서 직접 회의를 예약하는 기능, 리드 라우팅, 스타터 템플릿, 끌어다 놓기 대화 만들기 등이 포함됩니다. Dynamic Chat은 모든 Marketo Engage 패키지에 포함되어 있으며 올해 모든 Marketo Engage 사용자에게 롤아웃됩니다.
+* **[!DNL Dynamic Chat]**: 사전 예방적이고 흥미로운 1:1 맞춤형 대화를 통해 잠재 고객과 계정을 모두 타겟팅하여 웹 사이트의 모든 기회를 극대화합니다. [Dynamic Chat](/help/marketo/product-docs/demand-generation/dynamic-chat/dynamic-chat-overview.md){target="_blank"}을(를) 통해 Marketo Engage 사용자는 채팅을 B2B 마케팅 및 판매 사용 사례에 대한 통합 크로스 채널 경험의 핵심 부분으로 활용할 수 있습니다. 기능에는 채팅 내에서 직접 회의를 예약하는 기능, 리드 라우팅, 스타터 템플릿, 끌어다 놓기 대화 만들기 등이 포함됩니다. Dynamic Chat은 모든 Marketo Engage 패키지에 포함되어 있으며 올해 모든 Marketo Engage 사용자에게 배포됩니다.
 
 * **이메일 보트 활동 필터링 개선 사항**: 이전에 릴리스된 [이메일 보트 활동 필터링](/help/marketo/product-docs/administration/email-setup/filtering-email-bot-activity.md){target="_blank"} 기능의 개선 사항으로 이제 봇으로 식별된 로깅 활동을 옵트인할 수 있습니다. 그런 다음 봇이 수행하는 것으로 식별된 활동을 기반으로 작업을 필터링하고 트리거할 수 있습니다.
 
@@ -32,7 +32,7 @@ ht-degree: 0%
 
 * **차세대 경험에서 업데이트된 Screens**: 전환 스위치를 통해 액세스할 수 있는 업데이트된 디자인 및 유용성 개선 사항을 제공하는 차세대 경험에서 새로 고친 화면을 추가로 제공합니다.
 
-   * Design Studio의 양식 목록 보기(새 일괄 작업 포함)
+   * [!UICONTROL Design Studio]의 양식 목록 보기(새 대량 작업 포함)
 
 * **프로그램 가져오기 워크플로 업데이트**: 가져오기 프로그램 워크플로는 업데이트된 디자인 및 유용성 개선 사항으로 차세대 환경에서 제공됩니다. 토글 스위치가 없는 자동 변경입니다.
 
@@ -60,21 +60,21 @@ ht-degree: 0%
 
 다음 기능은 비분기 주기에 있으며 향후 몇 개월 동안 릴리스될 예정입니다.
 
-## Bizible {#bizible}
+## [!DNL Bizible] {#bizible}
 
 ![(별)](assets/yellow-star.png)
 
-* **BI 템플릿**: 이제 Bizible에서 다운로드 가능한 기본 보고 아티팩트와 Tableau 및 Power BI에 대한 샘플 보고서를 제공하여 특정 비즈니스 요구 사항에 맞는 맞춤형 보고서를 신속하게 개발할 수 있습니다.
+* **BI 템플릿**: [!DNL Bizible]은(는) 이제 다운로드 가능한 기본 보고 아티팩트와 Tableau 및 Power BI에 대한 샘플 보고서를 제공하여 특정 비즈니스 요구 사항에 맞는 맞춤형 보고서를 신속하게 개발할 수 있도록 합니다.
 
-## 영업 연결 {#sales-connect}
+## [!DNL Sales Connect] {#sales-connect}
 
 ![(별)](assets/yellow-star.png)
 
-* **GA(전자 메일 연결 제한)**: 전자 메일 연결 제한을 사용하면 Sales Connect 관리자는 Gmail 또는 Exchange를 배달 채널로 사용할 때 전자 메일의 전송 속도를 구성할 수 있으므로 전자 메일이 배달 채널 공급자에게 전달되는 속도가 적용된 제한을 초과하지 않습니다.
+* **GA(전자 메일 연결 제한)**: 전자 메일 연결 제한을 사용하면 [!DNL Sales Connect] 관리자가 Gmail 또는 [!DNL Exchange]을(를) 배달 채널로 사용할 때 전자 메일의 전송 속도를 구성할 수 있으므로 전자 메일이 배달 채널 공급자에게 전달되는 속도가 적용된 제한을 초과하지 않습니다.
 
 ## 공지 {#announcements}
 
-* **Marketo Sky 사용 중단**: 차세대 사용자 환경을 제공하기 위해 리소스를 집중하기 때문에 3월에는 Marketo Sky을 더 이상 사용할 수 없습니다. 현재 Marketo Sky 전용인 기능에 대한 액세스를 유지하기 위한 노력으로 에셋 만료 및 스마트 캠페인 우선 순위 재정의를 클래식 경험으로 가져오고 있습니다. 자세한 내용을 보려면 [여기를 클릭하세요](https://nation.marketo.com/t5/the-modern-ux/marketo-sky-deprecation-notice/ba-p/320115#M33).
+* **Marketo Sky 사용 중단**: 차세대 사용자 환경을 제공하기 위해 리소스를 집중하기 때문에 3월에는 Marketo Sky을 더 이상 사용할 수 없습니다. 현재 Marketo Sky에만 적용되는 기능에 대한 액세스를 유지하기 위한 노력으로 에셋 만료 및 스마트 캠페인 우선 순위 재정의를 클래식 경험으로 가져오고 있습니다. 자세한 내용을 보려면 [여기를 클릭하세요](https://nation.marketo.com/t5/the-modern-ux/marketo-sky-deprecation-notice/ba-p/320115#M33).
 
 **_제품 릴리스 웨비나_**
 

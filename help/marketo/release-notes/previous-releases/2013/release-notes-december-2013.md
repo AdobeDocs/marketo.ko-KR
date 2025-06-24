@@ -4,9 +4,9 @@ description: 릴리스 노트 - 2013년 12월 - Marketo 설명서 - 제품 설�
 title: 릴리스 노트 - 2013년 12월
 exl-id: 145e2706-c770-4f39-a1ef-77b7912b1b70
 feature: Release Information
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: ecd225af3ecfd7cb9159faf5a9d384d47ee6312c
 workflow-type: tm+mt
-source-wordcount: '312'
+source-wordcount: '303'
 ht-degree: 0%
 
 ---
@@ -35,14 +35,14 @@ ht-degree: 0%
 
 [챔피언/챌린저 테스트](/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/email-tests-champion-challenger/add-an-email-champion-challenger.md)는 A/B 테스트와 유사하지만 다른 점은 트리거된 이메일에 사용되며 자동으로 승자를 보내지 않는다는 것입니다. 이 테스트를 통해 챔피언이라는 기존의 방식에 도전할 수 있으며, 챌린저를 도입하여 여전히 최고인지 테스트합니다. 또한 참여 프로그램 스트림 내에서 챔피언/챌린저 이메일 테스트를 사용할 수 있습니다.
 
-## 이메일 분석의 잠재 고객 세부 정보 {#lead-details-in-email-analysis}
+## [!UICONTROL Email Analysis]의 잠재 고객 세부 정보 {#lead-details-in-email-analysis}
 
-이메일 분석에서 추가 잠재 고객 및 회사 속성을 도입했습니다. 이제 Industry 및 Lead Source과 같은 새 속성으로 그룹화된 이메일 통계를 볼 수 있습니다.
+[!UICONTROL Email Analysis]에 추가 리드 및 회사 특성을 도입했습니다. 이제 [!UICONTROL Industry] 및 [!UICONTROL Lead Source]과(와) 같은 새 특성별로 그룹화된 전자 메일 통계를 볼 수 있습니다.
 
 ![](assets/image2014-9-22-17-3a20-3a43.png)
 
 ![](assets/image2014-9-22-17-3a21-3a18.png)
 
-## 향상된 BrightTALK 이벤트 어댑터 {#enhanced-brighttalk-event-adapter}
+## 향상된 [!DNL BrightTALK] 이벤트 어댑터 {#enhanced-brighttalk-event-adapter}
 
-이제 BrightTALK 채널 및 이벤트에서 등록자를 Marketo으로 가져올 수 있습니다. 이 정보를 사용하여 다른 마케팅 캠페인에 알릴 수 있습니다!
+이제 등록자를 [!DNL BrightTALK] 채널 및 이벤트에서 Marketo으로 가져올 수 있습니다. 이 정보를 사용하여 다른 마케팅 캠페인에 알릴 수 있습니다!

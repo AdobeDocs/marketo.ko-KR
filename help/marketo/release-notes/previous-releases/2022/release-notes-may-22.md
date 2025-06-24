@@ -1,11 +1,10 @@
 ---
 description: 릴리스 노트 - 2022년 5월 - Marketo 문서 - 제품 설명서
-title: 릴리스 노트 - 2022년 5월
+title: 릴리스 정보 - 2022년 5월
 exl-id: f591ab95-5ad8-45fa-8c4e-8e42b5d1359a
-feature: Release Information
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: ecd225af3ecfd7cb9159faf5a9d384d47ee6312c
 workflow-type: tm+mt
-source-wordcount: '818'
+source-wordcount: '796'
 ht-degree: 0%
 
 ---
@@ -24,17 +23,17 @@ ht-degree: 0%
 
 ## 기본 CRM 통합 {#native-crm-integration}
 
-**[기본 Veeva CRM 통합](/help/marketo/product-docs/crm-sync/veeva-crm-sync/understanding-the-veeva-crm-sync.md){target="_blank"}(제한된 가용성)**: 기본 통합을 통해 Veeva CRM과 Marketo Engage 간의 활동을 동기화하여 의료 전문가와의 참여를 향상시키십시오. 이러한 통합을 통해 마케터는 의료 전문가를 위한 보다 개인화되고 원활한 크로스 채널 경험을 만들 수 있습니다. 참여에 관심이 있는 경우 Adobe 계정 팀(계정 관리자)에 문의하십시오.
+**[기본 Veeva CRM 통합](/help/marketo/product-docs/crm-sync/veeva-crm-sync/understanding-the-veeva-crm-sync.md){target="_blank"}(제한된 가용성)**: 기본 통합을 통해 Veeva CRM과 Marketo Engage 간의 활동을 동기화하여 의료 전문가와의 참여를 향상시키십시오. 이러한 통합을 통해 마케터는 의료 전문가를 위한 보다 개인화되고 원활한 크로스 채널 경험을 만들 수 있습니다. 참여에 관심이 있는 경우 Customer Success Manager에게 문의하십시오.
 
 ## 크로스 채널 오케스트레이션 {#cross-channel-orchestration}
 
-**Dynamic Chat에 대한 챗봇 이벤트**: 웹 방문자에 대한 보다 자세한 동작 데이터(예: 페이지 체류 시간, 사이트 체류 시간 및 페이지 스크롤 백분율)를 활용하여 채팅 대화 상자가 표시되는 시기를 정의합니다.
+[!DNL Dynamic Chat]**에 대한**&#x200B;챗봇 이벤트: 웹 방문자에 대한 자세한 동작 데이터(예: 페이지 체류 시간, 사이트 체류 시간 및 페이지 스크롤 백분율)를 활용하여 채팅 대화 상자가 표시되는 시기를 정의합니다.
 
-**Dynamic Chat에 대한 PDF 포함**: 채팅 대화 상자에 PDF을 포함시켜 참여를 늘리고 의미 있는 콘텐츠를 공유하며 참여 활동 추적을 통해 콘텐츠 성능을 측정합니다.
+[!DNL Dynamic Chat]**용** PDF 포함: PDF를 채팅 대화 상자에 포함하여 참여를 늘리고 의미 있는 콘텐츠를 공유하며 참여 활동 추적을 통해 콘텐츠 성능을 측정합니다.
 
-**Dynamic Chat에 대한 확장 언어 지원**: 이제 Dynamic Chat 사용자 인터페이스를 프랑스어, 독일어, 일본어, 포르투갈어 및 스페인어로도 사용할 수 있습니다. 이러한 언어로 채팅 대화 상자를 구성할 수도 있습니다.
+[!DNL Dynamic Chat]**에 대한**&#x200B;확장 언어 지원: 이제 프랑스어, 독일어, 일본어, 포르투갈어 및 스페인어로도 [!DNL Dynamic Chat] 사용자 인터페이스를 사용할 수 있습니다. 이러한 언어로 채팅 대화 상자를 구성할 수도 있습니다.
 
-**Dynamic Chat에 대한 URL 제외**: 타깃팅 기준에서 특정 URL을 제외하는 기능으로 웹 페이지 Dynamic Chat 중 어떤 페이지에 표시되는지 제어합니다.
+**[!DNL Dynamic Chat]**&#x200B;에 대한 URL 제외: 타깃팅 기준에서 특정 URL을 제외하는 기능으로 웹 페이지 [!DNL Dynamic Chat]의 표시 항목을 제어합니다.
 
 **[전자 메일 보트 활동 필터링 개선 사항](/help/marketo/product-docs/administration/email-setup/filtering-email-bot-activity.md){target="_blank"}**: 기존 IAB 목록 일치 식별뿐 아니라 숨겨진 링크 사용자 에이전트 또는 IP 및 근접 패턴을 기반으로 보트 동작을 식별하는 기능을 사용하여 데이터베이스의 상태를 계속 보호합니다. 각 유형에 대해 식별된 보트 활동의 수를 이해할 수 있는 보트 활동 통계를 봅니다.
 
@@ -46,7 +45,7 @@ ht-degree: 0%
 
 **차세대 환경에서 업데이트된 화면**:
 
-Design Studio 내에서 차세대 환경으로 제공되는 이메일 템플릿 세부 사항 보기를 통해 전환 스위치를 통해 액세스할 수 있는 업데이트된 디자인 및 유용성 개선 사항을 제공합니다.
+[!UICONTROL Design Studio] 내의 전자 메일 템플릿 세부 정보 보기를 차세대 환경에 제공하고 있습니다. 전환 스위치를 통해 액세스할 수 있는 업데이트된 디자인 및 유용성 개선 사항을 제공합니다.
 
 ## Experience Automated {#experience-automation}
 
@@ -64,7 +63,7 @@ Design Studio 내에서 차세대 환경으로 제공되는 이메일 템플릿 
 
 **전자 메일 확인 및 고유성**: 4월부터 전자 메일 확인 롤아웃이 시작됩니다. 이때 Marketo Engage 사용자 이메일 주소에는 확인 및 고유성이 필요합니다(API 전용 사용자에게는 적용되지 않음). 이메일 확인을 통해 구독이 활성화되면 디렉터리 서비스 인증된 사용자의 이메일이 자동으로 확인됩니다.
 
-&quot;사용자 초대 대화 상자에서 로그인&quot; 기능을 사용하거나 여러 사용자와 연결된 단일 이메일이 있는 가입에 대한 이메일 확인은 5월 릴리스와 일치합니다. 여러 사용자와 연결된 하나의 이메일이 있는 구독은 이메일 확인을 통해 활성화되며 이러한 사용자가 충돌을 해결하고 사용자당 고유한 이메일을 사용해야 합니다. &#39;사용자 초대 대화 상자에서 로그인&#39; 기능을 활성화하면 이 기능을 통해 초대된 사용자의 이메일 주소가 고유해야 합니다. 이 기능을 통해 초대된 API 전용 사용자의 경우 이메일 주소가 고유할 필요가 없습니다.
+&quot;[!UICONTROL Login in Invite User Dialog]&quot; 기능을 사용하거나 여러 사용자와 연결된 하나의 이메일을 포함하는 구독에 대한 이메일 확인은 5월 릴리스와 일치합니다. 여러 사용자와 연결된 하나의 이메일이 있는 구독은 이메일 확인을 통해 활성화되며 이러한 사용자가 충돌을 해결하고 사용자당 고유한 이메일을 사용해야 합니다. &#39;사용자 초대에서 로그인 대화 상자&#39; 기능이 활성화된 경우 이 기능을 통해 초대된 사용자의 이메일 주소는 고유해야 합니다. 이 기능을 통해 초대된 API 전용 사용자의 경우 이메일 주소가 고유할 필요가 없습니다.
 
 **보관 폴더 동작 변경**: 이 릴리스에서는 보관 폴더에 새 자산을 만드는 기능을 트리 컨텍스트 메뉴에서 더 이상 사용할 수 없습니다. 새 에셋을 만들기 위한 메뉴 옵션은 모든 에셋에 대해 숨겨집니다. [자세히 알아보기](https://nation.marketo.com/t5/product-discussions/archive-folder-change-in-may-2022-release/m-p/324369#M183235){target="_blank"}.
 

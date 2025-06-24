@@ -4,9 +4,9 @@ description: 릴리스 노트 - 2020년 7월 - Marketo 문서 - 제품 설명서
 title: 릴리스 노트 - 2020년 7월
 exl-id: 3c9b1f1d-961c-4bf8-8b99-37b483230506
 feature: Release Information
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: ecd225af3ecfd7cb9159faf5a9d384d47ee6312c
 workflow-type: tm+mt
-source-wordcount: '659'
+source-wordcount: '629'
 ht-degree: 0%
 
 ---
@@ -45,13 +45,13 @@ ht-degree: 0%
 
 * **자산 API URI 크기 제한 늘림**: &quot;_method&quot; 매개 변수를 제거하기 전에 URI(Uniform Resource Identifier) 크기 제한을 8KB에서 65KB로 늘리고 있습니다. 긴 쿼리 문자열을 수행할 때 이 크기 제한을 늘리면 데이터를 보다 쉽게 전달할 수 있습니다. &quot;_method&quot; 매개 변수의 제거는 향후 보안 업그레이드의 일부입니다.
 
-## Sales Insight {#sales-insight}
+## [!DNL Sales Insight] {#sales-insight}
 
 ![(별)](assets/yellow-star.png)
 
-* **[기본 Salesforce가 아닌 CRM 통합을 사용하는 고객에 대해 Sales Insight 사용](/help/marketo/product-docs/marketo-sales-insight/sales-insight-for-non-native-salesforce-integrations.md)(Beta)**: 기본 Salesforce가 아닌 CRM 통합을 사용하는 Marketo Engage 고객은 이제 Sales Insight를 사용하여 영업 팀이 가장 많이 참여하는 리드 및 기회를 이해하고, 우선 순위를 지정하고, 상호 작용하여 현명한 판매 및 더 빠른 거래를 할 수 있도록 지원할 수 있습니다.
+* **[[!DNL Sales Insight] 기본이 아닌 고객에 대해 활성화됨 [!DNL Salesforce] CRM 통합](/help/marketo/product-docs/marketo-sales-insight/sales-insight-for-non-native-salesforce-integrations.md)(Beta)**: 기본이 아닌 [!DNL Salesforce] CRM 통합을 사용하는 Marketo Engage 고객은 이제 [!DNL Sales Insight]을(를) 사용하여 영업 팀이 가장 많이 참여하는 리드 및 기회를 이해하고, 우선 순위를 지정하고, 상호 작용하여 스마트 판매 및 더 빠른 거래를 활성화할 수 있습니다.
 
-## 영업 연결 {#sales-connect}
+## [!DNL Sales Connect] {#sales-connect}
 
 ![(별)](assets/yellow-star.png)
 
@@ -62,7 +62,7 @@ ht-degree: 0%
 ## 공지 및 중단 {#announcements-deprecations}
 
 * **자산 API &quot;_method&quot; 매개 변수 제거**: 2020년 9월 이후, 자산 API 끝점은 이제 &quot;_method&quot;를 사용하여 쿼리 매개 변수를 URI 길이 제한을 무시하도록 POST 본문에 전달하지 않습니다. 이 매개 변수를 필요로 하는 요청을 수용하기 위해 자산 API의 URI 제한이 8KB에서 65KB로 늘어납니다.
-* **[Munchkin Associate Lead](https://developers.marketo.com/blog/deprecation-of-munchkin-associate-lead-method/)**: Munchkin JavaScript Client, 버전 159의 이번 릴리스를 통해 Munchkin Associate Lead 메서드의 사용 중단을 시작합니다. 호출되면 메서드가 향후 릴리스에서 제거됨을 나타내는 경고가 표시됩니다. 제거하면 메서드가 더 이상 작동하지 않으며 해당 메서드를 사용하려고 시도해도 실패합니다. 최근 이 방법을 사용한 Marketo Engage 고객은 개별적으로 사용 여부를 알 수 있습니다.
-* **Internet Explorer 지원**: 이전에 발표된 대로 Internet Explorer 11에 대한 Marketo Engage 지원은 **2020년 7월 31일**&#x200B;에 종료됩니다. Google Chrome, Mozilla Firefox, Apple Safari 및 Microsoft Edge을 계속 지원할 예정입니다.
-* **Sky 기본 경험**: 관리자 또는 사용자가 Marketo Sky을 기본 경험으로 설정하는 옵션은 기본 사용자 경험으로 업데이트할 준비를 위해 이 릴리스에서 제거됩니다. 기본 경험에 대한 업데이트에 대한 자세한 내용은 올해 말로 예정되어 있으며 7월에 제공될 예정입니다. Marketo Sky을 기본 경험으로 설정하거나 Marketo Sky에 대한 액세스 권한이 부여된 사용자는 내 Marketo 홈 페이지의 타일에서 Marketo Sky에 계속 액세스할 수 있습니다.
-* **EdgeHTML(비 Chromium) Microsoft Edge 지원**: Marketo Engage은 2020년 말에 더 이상 Microsoft Edge의 EdgeHTML 버전을 지원하지 않습니다. 2021년 1월 1일부터 Microsoft Edge의 최신 Chromium 버전만 지원합니다.
+* **[[!DNL Munchkin] 리드 연결](https://developers.marketo.com/blog/deprecation-of-munchkin-associate-lead-method/)**: Munchkin JavaScript 클라이언트 버전 159의 이번 릴리스를 통해 [!DNL Munchkin] 리드 연결 방법의 사용 중단을 시작합니다. 호출되면 메서드가 향후 릴리스에서 제거됨을 나타내는 경고가 표시됩니다. 제거하면 메서드가 더 이상 작동하지 않으며 해당 메서드를 사용하려고 시도해도 실패합니다. 최근 이 방법을 사용한 Marketo Engage 고객은 사용 여부를 개별적으로 알 수 있습니다.
+* **Internet Explorer 지원**: 이전에 발표된 대로 Internet Explorer 11에 대한 Marketo Engage 지원은 **2020년 7월 31일**&#x200B;에 종료됩니다. [!DNL Google Chrome], [!DNL Mozilla Firefox], [!DNL  Apple Safari] 및 [!DNL Microsoft Edge]을(를) 계속 지원합니다.
+* **Sky 기본 경험**: 관리자 또는 사용자가 [!DNL Marketo Sky]을(를) 기본 경험으로 설정하는 옵션은 기본 사용자 경험으로 업데이트할 준비를 위해 이 릴리스에서 제거됩니다. 기본 경험에 대한 업데이트에 대한 자세한 내용은 올해 말로 예정되어 있으며 7월에 제공될 예정입니다. [!DNL Marketo Sky]을(를) 기본 경험으로 설정하거나 [!DNL Marketo Sky]에 대한 액세스 권한이 부여된 사용자는 내 Marketo 홈 페이지의 타일에서 [!DNL Marketo Sky]에 계속 액세스할 수 있습니다.
+* **EdgeHTML(비 Chromium) [!DNL Microsoft Edge] 지원**: Marketo Engage은 2020년 말에 더 이상 Microsoft Edge의 EdgeHTML 버전을 지원하지 않습니다. 2021년 1월 1일부터 Microsoft Edge의 최신 Chromium 버전만 지원합니다.

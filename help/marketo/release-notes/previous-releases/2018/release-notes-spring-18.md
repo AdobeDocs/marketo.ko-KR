@@ -3,10 +3,9 @@ unique-page-id: 14745959
 description: 릴리스 노트 - 2018년 봄 - Marketo 문서 - 제품 설명서
 title: 릴리스 노트 - 2018년 봄
 exl-id: 59bab3a9-12b3-4c87-b035-a7cde63ada1e
-feature: Release Information
-source-git-commit: 2b610cc3486b745212b0b1f36018a83214d7ecd7
+source-git-commit: 2b72932606a93d061eb2f57c0ff3256b94a0c20c
 workflow-type: tm+mt
-source-wordcount: '466'
+source-wordcount: '455'
 ht-degree: 0%
 
 ---
@@ -17,37 +16,37 @@ ht-degree: 0%
 
 각 기능에 대한 자세한 문서를 보려면 제목 링크를 클릭하십시오. 참고: 이 릴리스에 포함된 일부 기능에는 관련 문서가 없습니다. 한 주제에 여러 하위 머리글이 있는 경우 링크가 배치됩니다.
 
-## Marketo Sales Engage, Launch 및 ToutApp 업데이트 {#marketo-sales-engage-launch-and-toutapp-updates}
+## Marketo [!DNL Sales Engage], Launch 및 [!DNL ToutApp] 업데이트 {#marketo-sales-engage-launch-and-toutapp-updates}
 
-* [Marketo Sales Engage](/help/marketo/product-docs/marketo-sales-connect/getting-started/sales-connect-overview.md)
-* [실행](/help/marketo/product-docs/marketo-sales-connect/getting-started/sales-connect-overview.md)
-* ToutApp 업데이트
+* [Marketo [!DNL Sales Engage]](/help/marketo/product-docs/marketo-sales-connect/getting-started/sales-connect-overview.md)
+* [Launch](/help/marketo/product-docs/marketo-sales-connect/getting-started/sales-connect-overview.md)
+* [!DNL ToutApp]개 업데이트
 
 >[!AVAILABILITY]
 >
->Sales Engage 는 추가 기능 제품입니다. 견적은 Marketo 계정 관리자 또는 계정 담당자에게 문의하십시오.
+>[!DNL Sales Engage]은(는) 추가 기능 제품입니다. 견적은 Marketo 고객 성공 관리자 또는 계정 담당자에게 문의하십시오.
 
-인텔리전스, 콘텐츠, 플레이북 및 분석으로 판매 역량을 강화하여 더 많은 리드를 판매 기회로 전환하여 파이프라인 및 수익을 증진하십시오. Sales Engage 는 고객 여정 전반에 걸쳐 참여할 수 있는 통합 플랫폼을 통해 판매 및 마케팅을 제공하고 고객 접점에 대한 공유 보기를 통해 더 나은 조정을 지원합니다.
+인텔리전스, 콘텐츠, 플레이북 및 분석으로 판매 역량을 강화하여 더 많은 리드를 판매 기회로 전환하여 파이프라인 및 수익을 증진하십시오. [!DNL Sales Engage]은(는) 고객 여정 전반에 걸쳐 참여할 수 있는 통합 플랫폼을 통해 판매 및 마케팅을 제공하고 고객 접점에 대한 공유 보기를 통해 더 나은 조정을 지원합니다.
 
-**ToutApp**
+**[!DNL ToutApp]**
 
 * **준수 카드**: 판매 연락처의 출처와 커뮤니케이션 수신에 대한 고객 동의의 세부 정보를 캡처하여 GDPR 준수를 확인합니다.
 * **암호 정책 업데이트**: 암호 생성, 재설정 및 만료에 대한 보다 엄격한 요구 사항(Soc II - Type 1 준수 요구 사항 충족)을 통해 데이터를 안전하게 유지합니다.
-* **계정 설정 경험이 간소화됨**: 계정을 설정하고 Gmail, Outlook 및 기타 시스템에 더 빨리 연결할 수 있습니다.
+* **계정 설정 경험이 간소화됨**: 계정을 설정하고 [!DNL Gmail], [!DNL Outlook] 및 다른 시스템에 더 빨리 연결할 수 있습니다.
 
 ## Marketo Sky Open Beta {#marketo-sky-open-beta}
 
-[Beta 열기 Marketo Sky](https://help.marketo.com/)
+[Marketo Sky Beta 열기](https://help.marketo.com/)
 
-Marketo Sky 오픈 Beta에 옵트인하여 다음을 포함한 100개 이상의 새로운 생산성 향상 기능을 이용할 수 있습니다.
+Marketo Sky Open Beta를 옵트인하여 다음을 포함한 100개 이상의 새로운 생산성 향상 기능에 액세스할 수 있습니다.
 
 * 업데이트된 왼쪽 탐색 메뉴, 저장된 스마트 목록 규칙 및 흐름 작업, 자산 관리를 위한 일괄 작업 및 예약된 자산 만료
 * 인앱 안내서 및 상황별 도움말
 * 에셋 레이블 및 보다 유연한 달력 보기
 
-## 성능 인사이트 {#performance-insights}
+## [!UICONTROL Performance Insights] {#performance-insights}
 
-[성능 인사이트](/help/marketo/product-docs/reporting/performance-insights/performance-insights-overview.md)
+[[!UICONTROL Performance Insights]](/help/marketo/product-docs/reporting/performance-insights/performance-insights-overview.md)
 
 **전년 대비 기간 비교**
 
@@ -63,7 +62,7 @@ Marketo Sky 오픈 Beta에 옵트인하여 다음을 포함한 100개 이상의 
 
 **공유 빠른 차트**
 
-다른 Performance Insights 사용자와 빠른 차트를 쉽게 공유할 수 있습니다.
+빠른 차트를 다른 [!UICONTROL Performance Insights] 사용자와 쉽게 공유할 수 있습니다.
 
 **유용성 개선 사항**
 
@@ -77,12 +76,16 @@ Marketo Sky 오픈 Beta에 옵트인하여 다음을 포함한 100개 이상의 
 
 ## 통합 및 API {#integration-and-apis}
 
-[정적 목록 API](https://developer.adobe.com/marketo-apis/api/mapi/#tag/Static-Lists)
+Facebook Workplace 통합
+
+시스템 알림과 관심 있는 순간을 [!DNL Facebook Workplace]&#x200B;(으)로 보냅니다.
+
+정적 목록 API
 
 Marketo UI에서 아무런 조치를 취하지 않고 정적 목록을 생성, 읽기, 업데이트 및 삭제하기 위한 새로운 양방향 API를 사용하여 Marketo과 다른 시스템 간의 목록을 보다 쉽게 관리할 수 있습니다.
 
 ## 개인 정보 보호 개선 사항 {#privacy-enhancements}
 
-[웹 추적 개인 정보](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/javascriptapi/lead-tracking)
+웹 추적 개인 정보
 
-향상된 Munchkin 추적은 웹 방문자의 IP 주소를 익명화하고 웹 추적을 영구적으로 옵트아웃할 수 있도록 하여 로컬 및 국제 개인정보 보호 규정을 준수합니다.
+향상된 [!DNL Munchkin] 추적은 웹 방문자의 IP 주소를 익명화하고 웹 추적을 영구적으로 옵트아웃할 수 있도록 하여 로컬 및 국제 개인 정보 보호 규정을 준수합니다.

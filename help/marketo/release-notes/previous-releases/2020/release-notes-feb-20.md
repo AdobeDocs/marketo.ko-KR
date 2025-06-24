@@ -4,9 +4,9 @@ description: 릴리스 노트 - 2020년 2월 - Marketo 문서 - 제품 설명서
 title: 릴리스 노트 - 2020년 2월
 exl-id: 6216b405-69c6-422b-a78c-7df0e8d271e9
 feature: Release Information
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: ecd225af3ecfd7cb9159faf5a9d384d47ee6312c
 workflow-type: tm+mt
-source-wordcount: '652'
+source-wordcount: '639'
 ht-degree: 0%
 
 ---
@@ -21,11 +21,11 @@ ht-degree: 0%
 
 **_분기별 릴리스_** 다음 기능이 **2020년 2월 21일**&#x200B;에 릴리스되었습니다.
 
-## 핵심 Marketo Engage {#core-marketo-engage}
+## 코어 Marketo Engage {#core-marketo-engage}
 
-* **Microsoft Dynamics &quot;Microsoft의 소유자 변경&quot; 흐름 작업**: Marketo Engage에서 직접 리드/연락처 소유자를 변경할 수 있는 기능을 사용하여 Microsoft Dynamics CRM 데이터를 제어할 수 있습니다. 이는 기본 CRM 통합 기능의 향상된 기능입니다.
+* **[!DNL Microsoft Dynamics]&quot;Microsoft의 소유자 변경&quot; 흐름 작업**: Marketo Engage에서 직접 리드/연락처 소유자를 변경할 수 있는 기능을 사용하여 [!DNL Microsoft Dynamics] CRM 데이터를 관리합니다. 이는 기본 CRM 통합 기능의 향상된 기능입니다.
 * **사용자 관리 API**: 외부 ID 및 조직 관리 시스템을 통해 사용자 및 역할 관리를 자동화합니다. 이는 API 호출 기능의 개선 사항입니다.
-* **사용자 지정 개체 스키마 API**: 영업 및 마케팅 도구에서 데이터 모델을 일관되게 유지하기 위해 Marketo Engage의 여러 인스턴스에서 사용자 지정 개체 스키마를 자동으로 관리하고 프로비전합니다. 이 API를 사용하면 샌드박스 또는 전문가 센터에서 사용자 정의 오브젝트를 정의하고 테스트하며 필요한 만큼 많은 인스턴스에 프로비저닝할 수 있습니다. 이는 API 호출 기능의 개선 사항입니다. 이 개선 사항에 대한 액세스 권한을 받는 방법을 알아보려면 Marketo Engage 담당자에게 문의하십시오.
+* **사용자 지정 개체 스키마 API**: Marketo Engage의 여러 인스턴스에서 사용자 지정 개체 스키마를 자동으로 관리 및 프로비저닝하여 판매 및 마케팅 도구에서 데이터 모델을 일관되게 유지합니다. 이 API를 사용하면 샌드박스 또는 전문가 센터에서 사용자 정의 오브젝트를 정의하고 테스트하며 필요한 만큼 많은 인스턴스에 프로비저닝할 수 있습니다. 이는 API 호출 기능의 개선 사항입니다. 이 개선 사항에 대한 액세스 권한을 받는 방법을 알아보려면 Marketo Engage 담당자에게 문의하십시오.
 * **랜딩 페이지 리디렉션 규칙 API**: 랜딩 페이지 리디렉션 규칙 관리를 자동화합니다. 이는 API 호출 기능의 개선 사항입니다.
 * **양식 설명자 캐싱**: 양식을 리소스로 캐싱하여 포함된 양식의 로드 시간을 줄이고 전반적인 응용 프로그램 안정성을 높이고 있습니다. 임베드된 양식에 대한 승인이 웹에 반영되기까지 최대 4분이 소요될 수 있습니다. 랜딩 페이지 및 Forms 기능의 개선 사항입니다.
 
@@ -35,24 +35,24 @@ ht-degree: 0%
 
 다음 기능은 비분기 주기에 있으며 향후 몇 개월 동안 릴리스될 예정입니다.
 
-## Bizible {#bizible}
+## [!DNL Bizible] {#bizible}
 
 ![(별)](assets/yellow-star.png)
 
 * **계정 기반 세분화**: 계정 특성을 기반으로 검색 보드에 대한 세그먼트 및 필터를 만드는 기능을 사용하여 계정 수준에서 특성을 분석합니다. 이러한 세그먼트를 사용하여 계정 기반 마케팅 성과를 드릴다운할 수 있습니다.
 * **필터 저장**: 대시보드를 빠르고 일관되게 분석하기 위해 각 사용자에 고유한 대시보드별 필터를 저장합니다.
-* **PDF으로 내보내기**: Bizible 대시보드를 PDF으로 내보내어 조직 전체에서 중요한 통찰력을 공유합니다.
+* **PDF으로 내보내기**: Bizible 대시보드를 PDF로 내보내어 조직 전체에서 중요한 통찰력을 공유합니다.
 
-## 영업 연결 {#sales-connect}
+## [!DNL Sales Connect] {#sales-connect}
 
-* **창 업데이트 작성**: Sales Connect를 통해 템플릿을 선택하고 전자 메일을 보내는 프로세스를 간소화했습니다. 웹 클라이언트 및 Salesforce의 작성 창을 사용하여 템플릿 카테고리를 저장하고, 이메일을 예약하고, 이메일을 일괄적으로 보내고, 보기 및 클릭 추적을 통해 이메일을 보낼 수 있으므로 판매자를 위한 원스톱 샵으로 활용할 수 있습니다.
-* **명령 센터 업데이트**: 판매자가 Sales Connect에서 시작된 모든 전자 메일, 호출 및 작업에 대한 통찰력을 제공하도록 Sales Connect 명령 센터를 다시 빌드하고 있습니다. 또한 명령 센터에서 이메일 참여 및 전달성과 같은 정보를 볼 수도 있습니다.
+* **창 업데이트 작성**: [!DNL Sales Connect]을(를) 통해 템플릿을 선택하고 전자 메일을 보내는 프로세스를 간소화했습니다. 웹 클라이언트와 Salesforce의 작성 창을 사용하여 판매자를 위한 원스톱 샵으로 템플릿 카테고리를 저장하고, 이메일을 예약하고, 이메일을 일괄적으로 보내고, 보기 및 클릭 추적으로 이메일을 보낼 수 있습니다.
+* **관리 센터 업데이트**: 판매자에게 [!DNL Sales Connect]에서 시작된 모든 전자 메일, 호출 및 작업에 insight을 제공하기 위해 [!DNL Sales Connect] 관리 센터를 다시 빌드하고 있습니다. 또한 명령 센터에서 이메일 참여 및 전달성과 같은 정보를 볼 수도 있습니다.
 
 <br> 
 
 ## 공지 {#announcements}
 
-* **Marketo Engage 성공 센터**: 2020년 2월에 Marketo 성공 센터를 시작합니다. Success Center는 Marketo Engage 인스턴스에서 바로 Product Docs 및 Community를 검색하고 사용 방법 가이드를 실행하고 Marketo University 및 피어 모범 사례 비디오와 같은 채택 콘텐츠에 액세스하는 등 다양한 작업을 할 수 있는 제품 내 도움말 센터입니다. **참고**: 이 기능은 ANZ에서 베타 버전으로 출시되며, 해당 분기 후반에 북미에 출시될 예정입니다.
+* **Marketo Engage Success Center**: 2020년 2월에 Marketo Success Center를 시작합니다. Success Center는 Product Docs 및 Community를 검색하고 사용 방법 가이드를 실행하고 Marketo University 및 피어 모범 사례 비디오와 같은 채택 콘텐츠에 액세스하는 등 Marketo Engage 인스턴스에서 바로 액세스할 수 있는 제품 내 도움말 센터입니다. **참고**: 이 기능은 ANZ에서 베타 버전으로 출시되며, 해당 분기 후반에 북미에 출시될 예정입니다.
 
 ## 사용 중단 {#deprecations}
 

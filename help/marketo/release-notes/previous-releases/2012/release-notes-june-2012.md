@@ -4,9 +4,9 @@ description: 릴리스 노트 - 2012년 6월 - Marketo 문서 - 제품 설명서
 title: 릴리스 노트 - 2012년 6월
 exl-id: c22eda86-da7a-4c76-9cea-1ce23ff0f3e8
 feature: Release Information
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: ecd225af3ecfd7cb9159faf5a9d384d47ee6312c
 workflow-type: tm+mt
-source-wordcount: '670'
+source-wordcount: '657'
 ht-degree: 0%
 
 ---
@@ -25,13 +25,13 @@ ht-degree: 0%
 
 ## 필드 매핑 가져오기 {#import-field-mapping}
 
-목록을 Marketo으로 가져오는 작업이 훨씬 쉬워졌습니다. 가져오기 프로세스 중에 Marketo 필드의 이름을 가져오기 파일의 열 헤더 이름에 매핑할 수 있습니다. 또한 관리에서 Marketo의 필드 이름에 매핑되는 별칭 이름을 설정하여 사용자가 항상 올바른 필드를 선택하도록 할 수 있습니다.
+목록을 Marketo으로 가져오는 작업이 훨씬 쉬워졌습니다. 가져오기 프로세스 중에 Marketo 필드의 이름을 가져오기 파일의 열 헤더 이름에 매핑할 수 있습니다. 또한 [!UICONTROL Admin]에서 Marketo의 필드 이름에 매핑되는 별칭 이름을 설정하여 사용자가 항상 올바른 필드를 선택하도록 할 수 있습니다.
 
 필드를 계속 가져오고 매핑하면 Marketo에서 쉽게 사용할 수 있도록 가져오는 동안 매핑을 기억하고 표시합니다. 또한 샘플 값 헤더를 클릭하여 필드를 채울 다른 값을 볼 수 있으므로 더욱 편리한 작업이 가능합니다. 이렇게 하면 매번 올바른 필드를 매핑할 수 있습니다.
 
 ![](assets/image2014-9-23-10-3a23-3a27.png)
 
-## 스마트 목록 및 정적 목록의 요약 페이지 {#summary-page-for-smart-lists-and-static-lists}
+## 스마트 목록 및 정적 목록의 [!UICONTROL Summary] 페이지 {#summary-page-for-smart-lists-and-static-lists}
 
 목록이 어디에 사용되고 있는지 궁금하신 적이 있습니까? 또는 누가 목록을 만들었거나 마지막으로 수정했습니까? 스마트 목록 및 정적 목록에서 사용할 수 있는 새 요약 페이지에서 다음과 같은 중요한 세부 정보를 제공합니다.
 
@@ -41,13 +41,13 @@ ht-degree: 0%
 
 ![](assets/image2014-9-23-10-3a23-3a54.png)
 
-## 에서 Assets에 사용 {#used-by-for-assets}
+## Assets용 [!UICONTROL Used By] {#used-by-for-assets}
 
-에셋 요약 페이지에 Used by라는 새 탭을 추가했습니다.
+자산 [!UICONTROL Summary] 페이지에 [!UICONTROL Used By]&#x200B;(이)라는 새 탭을 추가했습니다.
 
 ![](assets/image2014-9-23-10-3a24-3a5.png)
 
-예: 정적 목록에 사용됨
+예: 정적 목록의 경우 [!UICONTROL Used By]
 
 ## 랜딩 페이지 눈금선 {#landing-page-gridlines}
 
@@ -63,13 +63,13 @@ ht-degree: 0%
 
 ![](assets/image2014-9-23-10-3a24-3a51.png)
 
-## 대기 단계 - 잠재 고객 토큰 및 내 토큰 {#wait-step-lead-token-and-my-token}
+## [!UICONTROL Wait] 단계 - 잠재 고객 토큰 및 내 토큰 {#wait-step-lead-token-and-my-token}
 
-5월 릴리스에서는 대기 흐름 단계에 고급 옵션을 추가했습니다. 이러한 변경 사항으로 영업일, 날짜 및 시간을 지정할 수 있습니다. 이 릴리스에서는 대기 단계에서 토큰을 사용하는 기능을 추가했습니다. 예를 들어 `{{lead.Birthday}}`을(를) 사용하여 생일 축하 이메일을 보내거나 `{{my.Event Date}}`을(를) 사용하여 최종 웨비나 미리 알림을 보낼 수 있습니다.
+5월 릴리스에서는 [!UICONTROL Wait] 흐름 단계에 고급 옵션을 추가했습니다. 이러한 변경 사항으로 영업일, 날짜 및 시간을 지정할 수 있습니다. 이 릴리스에서는 대기 단계에서 토큰을 사용하는 기능을 추가했습니다. 예를 들어 `{{lead.Birthday}}`을(를) 사용하여 생일 축하 이메일을 보내거나 `{{my.Event Date}}`을(를) 사용하여 최종 웨비나 미리 알림을 보낼 수 있습니다.
 
 ![](assets/image2014-9-23-10-3a25-3a57.png)
 
-## Design Studio에서 축소판으로 보기 {#view-as-thumbnails-in-design-studio}
+## Design Studio에서 [!UICONTROL Thumbnails]&#x200B;(으)로 [!UICONTROL View] {#view-as-thumbnails-in-design-studio}
 
 이미지 목록에서 썸네일 보기로 전환합니다!
 

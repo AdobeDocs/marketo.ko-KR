@@ -3,10 +3,9 @@ unique-page-id: 13795395
 description: 릴리스 노트 - 1818년 겨울 - Marketo 문서 - 제품 설명서
 title: 릴리스 정보 - 2018년 겨울
 exl-id: f08bdc91-86d3-4ea2-a74a-1398ed525bbb
-feature: Release Information
-source-git-commit: 2b610cc3486b745212b0b1f36018a83214d7ecd7
+source-git-commit: ecd225af3ecfd7cb9159faf5a9d384d47ee6312c
 workflow-type: tm+mt
-source-wordcount: '598'
+source-wordcount: '580'
 ht-degree: 0%
 
 ---
@@ -21,9 +20,9 @@ ht-degree: 0%
 
 Marketo은 빅 데이터 아키텍처를 활용하여 트리거 캠페인 처리량을 증가시키고 웹 활동 처리를 향상시킴으로써 대상의 행동에 보다 신속하게 대응할 수 있습니다.
 
-## Marketo의 Salesforce CRM 통합 개선 사항 {#enhancements-to-marketo-s-salesforce-crm-integration}
+## Marketo [!DNL Salesforce] CRM 통합 개선 사항 {#enhancements-to-marketo-s-salesforce-crm-integration}
 
-Salesforce CRM 통합에 대한 두 가지 개선 사항이 있습니다.
+[!DNL Salesforce] CRM 통합에 대한 두 가지 개선 사항이 있습니다.
 
 * 특정 CRM 동기화 실패(자격 증명이 만료됨, API 제한에 도달함 등)에 대한 [Marketo 관리 알림](/help/marketo/product-docs/core-marketo-concepts/miscellaneous/understanding-notifications/notification-types.md)
 
@@ -35,7 +34,7 @@ Salesforce CRM 통합에 대한 두 가지 개선 사항이 있습니다.
 
 >[!AVAILABILITY]
 >
->성능 인사이트는 추가 기능 제품입니다. 견적은 Marketo 계정 관리자 또는 계정 담당자에게 문의하십시오.
+>[!UICONTROL Performance Insights]은(는) 추가 기능 제품입니다. 견적은 Marketo 고객 성공 관리자 또는 계정 담당자에게 문의하십시오.
 
 기여도 분석, 대화형 시각화 및 세부 데이터 테이블을 통해 캠페인과 채널이 비즈니스 결과에 미치는 영향을 살펴봅니다.
 
@@ -45,7 +44,7 @@ Salesforce CRM 통합에 대한 두 가지 개선 사항이 있습니다.
 
 **[ABM 계층](/help/marketo/product-docs/target-account-management/target/named-accounts/tam-hierarchies.md)**
 
-Salesforce 또는 Microsoft Dynamics를 사용하는 ABM 고객의 경우 ABM은 이제 CRM에 설정된 상위-하위 관계를 자동으로 상속(및 표시)합니다. 롤업 보고와 캠페인 실행 모두에서 이러한 관계를 사용할 수 있습니다.
+[!DNL Salesforce] 또는 [!DNL Microsoft Dynamics]을(를) 사용하는 ABM 고객의 경우 ABM은 이제 CRM에 설정된 부모-자식 관계를 자동으로 상속(및 표시)합니다. 롤업 보고와 캠페인 실행 모두에서 이러한 관계를 사용할 수 있습니다.
 
 ## 이메일 마케팅 {#email-marketing}
 
@@ -63,11 +62,11 @@ Salesforce 또는 Microsoft Dynamics를 사용하는 ABM 고객의 경우 ABM은
 
 **[Google Customer Match 통합](/help/marketo/product-docs/demand-generation/ad-network-integrations/add-google-customer-match-as-a-launchpoint-service.md)**
 
-이 통합을 통해 Google AdWords를 사용하여 타깃팅할 Marketo 대상을 Google으로 보내고 YouTube, Search 및 Gmail 전반에서 대상을 다시 타깃팅할 수 있습니다.
+이 통합을 통해 [!DNL Google AdWords]을(를) 사용하여 타깃팅할 Marketo 대상자를 Google으로 보내고 [!DNL YouTube], 검색 및 [!DNL Gmail]에서 대상자를 다시 타깃팅할 수 있습니다.
 
-**[LinkedIn 일치 대상 API 개선 사항](/help/marketo/product-docs/demand-generation/ad-network-integrations/add-linkedin-matched-audiences-as-a-launchpoint-service.md)**
+**[[!DNL LinkedIn] 일치하는 대상 API 개선 사항](/help/marketo/product-docs/demand-generation/ad-network-integrations/add-linkedin-matched-audiences-as-a-launchpoint-service.md)**
 
-이제 새로운 LinkedIn API를 사용하여 여러 LinkedIn Campaign Manager 계정에서 Marketo 데이터베이스의 사용자를 다시 타깃팅할 수 있습니다.
+이제 새로운 [!DNL LinkedIn] API를 사용하여 여러 [!DNL LinkedIn] Campaign Manager 계정에서 Marketo 데이터베이스의 사용자를 다시 타깃팅할 수 있습니다.
 
 ## 웹 Personalization {#web-personalization}
 
@@ -87,15 +86,15 @@ Marketo의 최적화된 ContentAI 알고리즘을 통해 권장되는 콘텐츠�
 
 ## 통합 {#integration}
 
-**[Campaign API 활성화/비활성화](https://experienceleague.adobe.com/ko/docs/marketo-developer/marketo/rest/assets/smart-campaigns)**
+**[Campaign API 활성화/비활성화](https://developers.marketo.com/rest-api/assets/smart-campaigns/)**
 
 이 새 API를 사용하면 트리거 캠페인을 원격으로 활성화 및 비활성화할 수 있으므로 이제 완전히 자동화된 프로그램 템플릿을 만들 수 있습니다. 프로그램 템플릿을 한 번 만든 다음 복제, 마케팅 자료 업데이트 및 이제 스마트 캠페인의 활성화/일정을 자동화합니다.
 
-## ToutApp {#toutapp}
+## [!DNL ToutApp] {#toutapp}
 
 **업데이트 구독 취소**
 
-2018년 3월 1일부터 [ToutApp.com](https://ToutApp.com)과(와) Salesforce의 &quot;Email with Tout&quot; 단추를 사용하여 보내는 모든 전자 메일의 맨 아래에 구독 취소 링크가 추가됩니다.
+2018년 3월 1일부터 [ToutApp.com](https://ToutApp.com)에서 보낸 모든 전자 메일([!DNL Salesforce]에서 &quot;[!DNL Tout]이 포함된 전자 메일&quot; 단추 사용)에 구독 취소 링크가 맨 아래에 추가됩니다.
 
 **라이브 피드 업데이트**
 
@@ -103,4 +102,4 @@ Marketo의 최적화된 ContentAI 알고리즘을 통해 권장되는 콘텐츠�
 
 **사람 세부 정보 보기 업데이트**
 
-향상된 사용자 세부 정보 보기(PDV)에서는 Tout 및 Salesforce CRM 연락처 세부 정보를 통합하여 연락처를 종합적으로 볼 수 있습니다.
+개선된 PDV(사용자 세부 정보 보기)에서는 [!DNL Tout] 및 [!DNL Salesforce] CRM 연락처 세부 정보를 통합하여 연락처를 종합적으로 볼 수 있습니다.

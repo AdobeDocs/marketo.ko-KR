@@ -4,9 +4,9 @@ description: 릴리스 노트 - 2017년 8월 ABM 개선 사항 - Marketo 문서 
 title: 릴리스 노트 - 2017년 8월 ABM 개선 사항
 exl-id: 3ba6319a-c5a3-4623-8d8e-0b246b29f17e
 feature: Release Information
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: ecd225af3ecfd7cb9159faf5a9d384d47ee6312c
 workflow-type: tm+mt
-source-wordcount: '203'
+source-wordcount: '197'
 ht-degree: 0%
 
 ---
@@ -17,9 +17,9 @@ ht-degree: 0%
 
 각 기능에 대한 자세한 문서를 보려면 제목 링크를 클릭하십시오.
 
-## 계정 인사이트 {#account-insight}
+## [!DNL Account Insight] {#account-insight}
 
-**[계정 인사이트](/help/marketo/product-docs/target-account-management/setup-tam/account-insight-plug-in-overview.md)**&#x200B;는 실행 가능한 ABM 및 계정 인사이트를 영업 팀에 제공하는 Google Chrome 플러그인으로, 영업 팀이 마케팅과 긴밀히 협력하여 계정을 효과적으로 참여하도록 합니다. 영업 팀은 보유하고 있는 각 명명 계정에 대해 생성된 데이터와 통찰력을 확인할 수 있습니다. 여기에는 계정 점수 백분위, 명명된 계정의 우선 순위 목록, 해당 계정 내의 참여 사용자 및 계정의 최근 활동에 대한 라이브 활동 스트림이 포함됩니다.
+**[[!DNL Account Insight]](/help/marketo/product-docs/target-account-management/setup-tam/account-insight-plug-in-overview.md)**&#x200B;은(는) 실행 가능한 ABM과 계정 통찰력을 판매 팀에 제공하는 [!DNL Google Chrome] 플러그인으로, 마케팅 팀과 긴밀히 협력하여 계정을 효과적으로 참여시킬 수 있습니다. 영업 팀은 보유하고 있는 각 명명 계정에 대해 생성된 데이터와 통찰력을 확인할 수 있습니다. 여기에는 계정 점수 백분위, 명명된 계정의 우선 순위 목록, 해당 계정 내의 참여 사용자 및 계정의 최근 활동에 대한 라이브 활동 스트림이 포함됩니다.
 
 ![](assets/image001.png) ![](assets/image002.png)
 

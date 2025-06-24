@@ -4,9 +4,9 @@ description: 릴리스 노트 - 17년 가을 - Marketo 문서 - 제품 설명서
 title: 릴리스 노트 - 2017년 가을
 exl-id: 329022e6-f388-4ff9-9724-62aeed76c0b9
 feature: Release Information
-source-git-commit: 2b610cc3486b745212b0b1f36018a83214d7ecd7
+source-git-commit: ecd225af3ecfd7cb9159faf5a9d384d47ee6312c
 workflow-type: tm+mt
-source-wordcount: '588'
+source-wordcount: '583'
 ht-degree: 0%
 
 ---
@@ -19,11 +19,11 @@ ht-degree: 0%
 
 ## 시스템 안정성 {#system-reliability}
 
-시퀀싱 개선, 불일치 감소, Munchkin 안정성 개선 등 핵심 Marketo 인프라에 대한 추가 개선 사항이 있습니다.
+시퀀싱 개선, 불일치 감소, [!DNL Munchkin] 안정성 개선 등 핵심 Marketo 인프라에 대한 추가 개선 사항이 있습니다.
 
 ## SFDC 동기화 성능 {#sfdc-sync-performance}
 
-Marketo 및 Salesforce에서 더 풍부하고 빠른 동기화를 활용할 수 있습니다. 계정이나 잠재 고객에 대한 대량 업데이트가 필요한 데이터 변경 사항은 병렬 대기열로 분할하여 백로그를 방지할 수 있습니다. 이제 이벤트와 작업도 최대 50% 더 빠르게 동기화됩니다.
+Marketo 및 [!DNL Salesforce]에서 풍부하고 빠른 동기화를 활용하십시오. 계정이나 잠재 고객에 대한 대량 업데이트가 필요한 데이터 변경 사항은 병렬 대기열로 분할하여 백로그를 방지할 수 있습니다. 이제 이벤트와 작업도 최대 50% 더 빠르게 동기화됩니다.
 
 ## Analytics 성능 개선 {#analytics-performance-improvements}
 
@@ -45,14 +45,14 @@ Marketo에는 검토를 위해 샘플 이메일을 보낼 때 세그먼트를 �
 
 ## [LinkedIn 리드 세대 사용자 지정 질문](/help/marketo/product-docs/demand-generation/social/social-functions/set-up-linkedin-lead-gen-forms.md) {#linkedin-lead-gen-custom-questions}
 
-linkedIn 리드 세대 양식을 사용자 정의하여 사용자 정의 리드 속성을 수집합니다. 이제 양식당 최대 3개의 사용자 정의 질문을 하고, 한 줄 텍스트 입력 또는 다중 선택 질문 중에서 선택하고, Marketo 리드 필드에 다시 매핑할 수 있습니다.
+[!UICONTROL LinkedIn Lead Gen] 양식을 사용자 지정하여 사용자 지정 리드 특성을 수집하십시오. 이제 양식당 최대 3개의 사용자 정의 질문을 하고, 한 줄 텍스트 입력 또는 다중 선택 질문 중에서 선택하고, Marketo 리드 필드에 다시 매핑할 수 있습니다.
 
 ## Slack 통합 {#slack-integration}
 
 새로운 Slack 통합의 일부로 다음 두 가지 기능이 릴리스되었습니다.
 
 * 시스템 알림: 현재 캠페인 상태 및 즉각적인 주의가 필요한 문제에 대한 경고와 같은 Marketo 인스턴스의 중요한 이벤트에 대한 Slack 알림을 받습니다.
-* 흥미로운 순간: Marketo Insight가 판매 계정의 알려진 개인에 의해 트리거된 경우 Slack을 통해 잠재 고객 소유자에게 알릴 수 있습니다. 알림에는 잠재 고객 정보와 판매 계정에 대한 세부 정보가 포함됩니다.
+* 흥미로운 순간: Marketo Insight이 판매 계정의 알려진 개인에 의해 트리거되면 Slack을 통해 잠재 고객 소유자에게 알릴 수 있습니다. 알림에는 잠재 고객 정보와 판매 계정에 대한 세부 정보가 포함됩니다.
 
 ## ABM 개선 사항 {#abm-enhancements}
 
@@ -86,10 +86,10 @@ Marketo 내의 여러 채널에서 크리에이티브 에셋 및 이미지를 �
 
 ## 통합  {#integration}
 
-**[전자 메일 미리 보기 API](https://experienceleague.adobe.com/ko/docs/marketo-developer/marketo/email-scripting)**
+**[전자 메일 미리 보기 API](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/email-scripting)**
 
 이제 Marketo 외부에서 이메일을 원격으로 미리 볼 수 있으므로 이메일 콘텐츠 현지화 프로세스를 단순화하고 오류를 줄일 수 있습니다.
 
-**[HTML API 바꾸기](https://experienceleague.adobe.com/ko/docs/marketo-developer/marketo/email-scripting)**
+**[HTML API 바꾸기](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/email-scripting)**
 
-개발자는 원격으로 이메일 에셋의 HTML 콘텐츠를 업데이트하여 단일 시스템 내에서 작업하여 에셋을 유지 관리할 수 있습니다.
+개발자는 이메일 에셋의 HTML 콘텐츠를 원격으로 업데이트할 수 있으므로 에셋을 유지 관리하기 위해 단일 시스템 내에서 작업할 수 있습니다.

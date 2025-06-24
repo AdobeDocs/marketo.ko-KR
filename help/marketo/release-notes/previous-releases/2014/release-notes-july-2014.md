@@ -4,9 +4,9 @@ description: 릴리스 노트 - 2014년 7월 - Marketo 설명서 - 제품 설명
 title: 릴리스 노트 - 2014년 7월
 exl-id: 0f0b4ad4-0ca7-4f43-bc08-5e555890d289
 feature: Release Information
-source-git-commit: 2b610cc3486b745212b0b1f36018a83214d7ecd7
+source-git-commit: ecd225af3ecfd7cb9159faf5a9d384d47ee6312c
 workflow-type: tm+mt
-source-wordcount: '425'
+source-wordcount: '410'
 ht-degree: 0%
 
 ---
@@ -17,7 +17,7 @@ ht-degree: 0%
 
 ## 마케팅 캘린더 {#marketing-calendar}
 
-프로그램 전체에서 모든 이벤트, 이메일 등을 볼 수 있습니다. [이 새 제품](/help/marketo/product-docs/core-marketo-concepts/marketing-calendar/understanding-the-calendar/navigating-the-marketing-calendar.md)은(는) Marketo 리드 관리 또는 대화 상자 사용자가 10명 이하인 고객에게 무료로 제공됩니다.
+프로그램 전체에서 모든 이벤트, 이메일 등을 볼 수 있습니다. [이 새 제품](/help/marketo/product-docs/core-marketo-concepts/marketing-calendar/understanding-the-calendar/navigating-the-marketing-calendar.md)은(는) 10명 이하의 [!DNL Marketo Lead Management] 또는 대화 상자를 사용하는 고객에게 무료로 제공됩니다.
 
 ![](assets/image2014-9-22-14-3a22-3a27.png)
 
@@ -27,11 +27,11 @@ ht-degree: 0%
 
 ![](assets/image2014-9-22-14-3a22-3a47.png)
 
-Marketo Lead Management 는 현대적이고 세련된 새로운 모양과 느낌으로 업데이트되며 업데이트된 탐색이 포함됩니다.
+[!DNL Marketo Lead Management]은(는) 현대적이고 세련된 새로운 모양과 느낌으로 업데이트되며 업데이트된 탐색이 포함됩니다.
 
 ## 날짜 연산자 {#date-operators}
 
-&quot;이전 과거&quot;, &quot;미래&quot; 및 &quot;다음 이후 미래&quot;에 대한 [고급 필터](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/creating-a-smart-list/smart-list-filter-operators-glossary.md). 예를 들어, 생년월일이 3개월 이내인 잠재 고객 또는 6개월 후 만료되는 계약을 찾습니다.
+&quot;[!UICONTROL in past before]&quot;, &quot;[!UICONTROL in future]&quot; 및 &quot;[!UICONTROL in future after]&quot;에 대한 [고급 필터](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/creating-a-smart-list/smart-list-filter-operators-glossary.md). 예를 들어, 생년월일이 3개월 이내인 잠재 고객 또는 6개월 후 만료되는 계약을 찾습니다.
 
 ![](assets/image2014-9-22-14-3a23-3a56.png)
 
@@ -45,9 +45,9 @@ Marketo Lead Management 는 현대적이고 세련된 새로운 모양과 느낌
 * 새로운 임시 일자 - 연필로 입력해 보십시오.
 * 사용자 지정 항목 유형 - 할 일, 보도 자료 등 원하는 모든 것
 
-## ReST API의 목록 작업 {#list-operations-in-the-rest-api}
+## REST API의 목록 작업 {#list-operations-in-the-rest-api}
 
-ReST의 목록 작업과 관련하여 아래에 호출을 추가했습니다. 전체 설명서는 [https://experienceleague.adobe.com/ko/docs/marketo-developer/marketo/rest/rest-api](https://experienceleague.adobe.com/ko/docs/marketo-developer/marketo/rest/rest-api)을(를) 참조하십시오.
+ReST의 목록 작업과 관련하여 아래에 호출을 추가했습니다. 전체 설명서는 [https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/rest/rest-api](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/rest/rest-api)을(를) 참조하십시오.
 
 * ID별 목록 가져오기
 * 여러 목록 가져오기
@@ -60,11 +60,11 @@ ReST의 목록 작업과 관련하여 아래에 호출을 추가했습니다. �
 
 새 리드 및 업데이트 건너뛰기 옵션은 변경되지 않습니다.
 
-## 새로운 향상된 Munchkin! {#new-improved-munchkin}
+## 새롭게 향상된 Munchkin! {#new-improved-munchkin}
 
 롤아웃은 7월 중순부터 시작하여 향후 몇 달 동안 진행될 예정입니다.
 
-* 전체 및 향후 호환성을 위해 종속성 jQuery 제거
+* 전체 및 향후 호환성을 위해 [!DNL jQuery] 종속성을 제거합니다.
 * 사이트의 다른 JavaScript과 더 호환됩니다.
 * 지난 1년 동안 많은 사이트에서 완전히 테스트되었습니다!
 
@@ -78,10 +78,10 @@ ReST의 목록 작업과 관련하여 아래에 호출을 추가했습니다. �
 
 ## RTP: JavaScript API 개선 사항 {#rtp-javascript-api-enhancements}
 
-조직, 업계, 위치 및 세그먼트 코드 일치와 같은 실시간 방문자 데이터를 가져오기 위한 새로운 RTP API 호출입니다. 또한 세그먼트 페이지의 세그먼트 이름 위로 마우스를 가져가면 세그먼트 코드를 보여주는 도구 설명이 표시됩니다. 자세한 내용은 [개발자 사이트](https://experienceleague.adobe.com/ko/docs/marketo-developer/marketo/javascriptapi/rich-media-recommendation)를 참조하십시오.
+조직, 업계, 위치 및 세그먼트 코드 일치와 같은 실시간 방문자 데이터를 가져오기 위한 새로운 RTP API 호출입니다. 또한 세그먼트 페이지의 세그먼트 이름 위로 마우스를 가져가면 세그먼트 코드를 보여주는 도구 설명이 표시됩니다. 자세한 내용은 [개발자 사이트](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/javascriptapi/rich-media-recommendation)를 참조하십시오.
 
 ![](assets/image2014-9-22-14-3a26-3a11.png)
 
-## RTP: Campaign 컨텐츠 편집기의 HTML 5 지원 {#rtp-html-support-in-campaign-content-editor}
+## RTP: Campaign 컨텐츠 편집기의 HTML5 지원 {#rtp-html-support-in-campaign-content-editor}
 
 이제 캠페인 설정 페이지의 콘텐츠 WYSIWYG 편집기에 전체 HTML5 호환성이 있습니다. 편집기 내의 &quot;HTML&quot; 아이콘을 클릭하여 HTML5 코드를 삽입합니다.

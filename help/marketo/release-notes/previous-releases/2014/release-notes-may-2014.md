@@ -4,9 +4,9 @@ description: 릴리스 노트 - 2014년 5월 - Marketo 문서 - 제품 설명서
 title: 릴리스 노트 - 2014년 5월
 exl-id: c7b5b2c1-ea3d-483b-8a65-c4d6313bfe31
 feature: Release Information
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: ecd225af3ecfd7cb9159faf5a9d384d47ee6312c
 workflow-type: tm+mt
-source-wordcount: '465'
+source-wordcount: '453'
 ht-degree: 0%
 
 ---
@@ -57,13 +57,13 @@ ht-degree: 0%
 
 미리 이메일에서 링크가 어떻게 작동하는지 확인하십시오. 이제 샘플 이메일에 잠재 고객에게 표시되는 것과 동일한 링크가 표시됩니다. 추적 링크로 변환된 링크를 미리 보기하여 메시지가 실제로 수신자에게 표시되는 방식을 보다 잘 이해할 수 있습니다.
 
-## 캠페인 중단 {#abort-campaign}
+## [!UICONTROL Abort Campaign] {#abort-campaign}
 
 당황하지 마세요! 오류가 발견되면 새로운 [캠페인 중단](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/using-smart-campaigns/abort-a-smart-campaign.md) 버튼을 사용하여 해당 트랙에서 캠페인을 즉시 중지하십시오. 캠페인이 중단되었을 때 각 흐름 단계에서 몇 개의 리드가 보류 중이었는지에 대한 개요를 설명하는 알림을 받게 됩니다.
 
-## 일본어, 포르투갈어 및 스페인어로 된 Sales Insight {#sales-insight-in-japanese-portuguese-and-spanish}
+## [!UICONTROL Sales Insight]&#x200B;(일본어, 포르투갈어 및 스페인어) {#sales-insight-in-japanese-portuguese-and-spanish}
 
-AppExchange에서 최신 버전의 Sales Insight를 다운로드하여 일본어, 포르투갈어 및 스페인어를 구사하는 영업 상담원은 기본 언어로 Sales Insight 콘텐츠를 볼 수 있습니다.
+AppExchange에서 최신 버전의 [!UICONTROL Sales Insight]을(를) 다운로드하면 일본어, 포르투갈어 및 스페인어를 사용하는 영업 상담원이 기본 언어로 [!UICONTROL Sales Insight] 콘텐츠를 볼 수 있습니다.
 
 ![](assets/image2014-9-22-12-3a2-3a12.png)
 
@@ -71,9 +71,9 @@ AppExchange에서 최신 버전의 Sales Insight를 다운로드하여 일본어
 
 각 프로그램 상태에 있는 [멤버 수](/help/marketo/product-docs/reporting/revenue-cycle-analytics/program-analytics/build-a-program-membership-analysis-report-that-lists-leads.md)와 프로그램 성공을 달성한 날짜를 포함하여 각 상태로 변경된 시기를 확인합니다.
 
-## 이메일 분석의 A/B 테스트 이메일 {#a-b-test-emails-in-email-analysis}
+## [!UICONTROL Email Analysis]의 A/B 테스트 전자 메일 {#a-b-test-emails-in-email-analysis}
 
-전자 메일 분석에서 [A/B 테스트 전자 메일 변형](/help/marketo/product-docs/reporting/revenue-cycle-analytics/email-analysis/build-an-email-analysis-report-that-shows-program-information.md)에 대해 보고합니다.
+[!UICONTROL Email Analysis]의 각 [A/B 테스트 전자 메일 변형](/help/marketo/product-docs/reporting/revenue-cycle-analytics/email-analysis/build-an-email-analysis-report-that-shows-program-information.md)에 대해 보고합니다.
 
 ## Analytics 패키징 변경 사항 {#analytics-packaging-changes}
 

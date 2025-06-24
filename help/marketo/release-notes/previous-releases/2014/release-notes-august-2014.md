@@ -4,9 +4,9 @@ description: 릴리스 노트 - 2014년 8월 - Marketo 문서 - 제품 설명서
 title: 릴리스 노트 - 2014년 8월
 exl-id: 789af65d-f42a-4500-bebc-fc4dd709379d
 feature: Release Information
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: ecd225af3ecfd7cb9159faf5a9d384d47ee6312c
 workflow-type: tm+mt
-source-wordcount: '404'
+source-wordcount: '399'
 ht-degree: 0%
 
 ---
@@ -25,7 +25,7 @@ ht-degree: 0%
 
 다음과 같은 새 사용자 권한이 추가되었습니다.
 
-| 권한 | 설명 |
+| 사용 권한 | 설명 |
 |---|---|
 | 매출 탐색기 액세스 | RCA를 구매한 경우 이제 액세스할 수 있는 사용자를 제어합니다. |
 | 목록 가져오기 | 목록을 리드 데이터베이스로 가져오지 않도록 사용자를 제한합니다. |
@@ -33,7 +33,7 @@ ht-degree: 0%
 | 트리거 캠페인 활성화 | 트리거 캠페인을 활성화할 수 있고 활성화할 수 없는 사용자를 제어합니다. |
 | 배치 캠페인 예약 | 배치 캠페인 실행을 예약할 수 있는 사용자와 예약할 수 없는 사용자를 제어합니다. |
 
-## 책임자로부터 사용자 및 역할 내보내기 {#export-users-and-roles-from-admin}
+## [!UICONTROL Admin]에서 사용자 및 역할 내보내기 {#export-users-and-roles-from-admin}
 
 이제 Marketo에서 [사용자 및 역할 목록을 내보내기](/help/marketo/product-docs/administration/users-and-roles/export-a-list-of-users-and-roles.md)할 수 있습니다. 내보내기에 포함할 &quot;마지막 로그인&quot; 타임스탬프를 포함할 수도 있습니다.
 
@@ -47,15 +47,15 @@ ht-degree: 0%
 
 ![](assets/image2014-9-16-12-3a23-3a4.png)
 
-## 자동화된 DKIM {#automated-dkim}
+## 자동화된 [!DNL DKIM] {#automated-dkim}
 
-게재 능력을 개선하기 위해 모든 발신 이메일은 DKIM(DomainKeys Identified Mail)으로 서명됩니다. 기본적으로 이메일은 Marketo의 공유 DKIM 서명을 사용합니다. 이 서명을 사용자 지정할 수 있습니다.
+게재 기능을 개선하기 위해 모든 발신 전자 메일은 [!DNL DKIM]&#x200B;(DomainKeys Identified Mail)이(가) 서명됩니다. 기본적으로 전자 메일은 Marketo의 공유 [!DNL DKIM] 서명을 사용합니다. 이 서명을 사용자 지정할 수 있습니다.
 
 ![](assets/image2014-9-16-12-3a23-3a16.png)
 
 >[!NOTE]
 >
->DKIM은 천천히 출시될 것입니다, 당신은 몇 주 동안 보지 않을 수 있습니다.
+>[!DNL DKIM]이(가) 느리게 롤아웃됩니다. 몇 주 동안 표시되지 않을 수 있습니다.
 
 ## 실시간 Personalization 업데이트 {#real-time-personalization-updates}
 
@@ -65,7 +65,7 @@ ht-degree: 0%
 
 ## 모바일 타깃팅 {#mobile-targeting}
 
-커뮤니티에 문의했고 배달을 했습니다! 이제 모바일 및 태블릿 사용자에 대한 특정 콜 투 액션을 포함, 제외 또는 설정할 수 있습니다.
+커뮤니티에 문의했고 배달을 했습니다! 이제 모바일 및 태블릿 사용자를 위한 특정 call to action을 포함, 제외 또는 설정할 수 있습니다.
 
 ![](assets/image2014-9-16-12-3a23-3a43.png)
 

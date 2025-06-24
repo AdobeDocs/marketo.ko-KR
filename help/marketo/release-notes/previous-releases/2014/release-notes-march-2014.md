@@ -4,9 +4,9 @@ description: 릴리스 노트 - 2014년 3월 - Marketo 문서 - 제품 설명서
 title: 릴리스 노트 - 2014년 3월
 exl-id: 1f87dca2-14aa-42cf-a016-f1558259fb64
 feature: Release Information
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: ecd225af3ecfd7cb9159faf5a9d384d47ee6312c
 workflow-type: tm+mt
-source-wordcount: '402'
+source-wordcount: '400'
 ht-degree: 0%
 
 ---
@@ -35,7 +35,7 @@ ht-degree: 0%
 
 ## Analytics를 위한 포괄적 및 운영 프로그램 {#inclusive-and-operational-programs-for-analytics}
 
-이제 프로그램 채널을 편집할 때 Analytics 동작 옵션을 &quot;포함&quot;으로 설정하여 수익 탐색기 및 분석기에서 [기간 비용이 없는 프로그램을 포함](/help/marketo/product-docs/reporting/revenue-cycle-analytics/program-analytics/make-a-program-without-a-period-cost-available-in-revenue-explorer-and-analyzers.md)할 수 있습니다. &quot;운영&quot;을 선택하여 운영 프로그램을 모두 보고에서 제외할 수도 있습니다.
+이제 프로그램 채널을 편집할 때 분석 동작 옵션을 &quot;포함&quot;으로 설정하여 [!UICONTROL Revenue Explorer] 및 분석기에서 [기간 비용이 없는 프로그램을 포함](/help/marketo/product-docs/reporting/revenue-cycle-analytics/program-analytics/make-a-program-without-a-period-cost-available-in-revenue-explorer-and-analyzers.md)할 수 있습니다. &quot;운영&quot;을 선택하여 운영 프로그램을 모두 보고에서 제외할 수도 있습니다.
 
 ![](assets/image2014-9-22-11-3a36-3a32.png)
 

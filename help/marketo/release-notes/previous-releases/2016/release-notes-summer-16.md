@@ -3,10 +3,9 @@ unique-page-id: 11380218
 description: 릴리스 노트 - 2016년 여름 - Marketo 문서 - 제품 설명서
 title: 릴리스 노트 - 2016년 여름
 exl-id: 3843668e-c729-42aa-b05c-55c33ee0d783
-feature: Release Information
-source-git-commit: 2b610cc3486b745212b0b1f36018a83214d7ecd7
+source-git-commit: 2b72932606a93d061eb2f57c0ff3256b94a0c20c
 workflow-type: tm+mt
-source-wordcount: '783'
+source-wordcount: '773'
 ht-degree: 0%
 
 ---
@@ -39,13 +38,13 @@ Marketo 계정 기반 마케팅은 하나의 통합 플랫폼에서 모든 핵�
 
 ![](assets/audit-trail.png)
 
-## [Marketo-Vibes SMS LaunchPoint 통합 보기](/help/marketo/product-docs/mobile-marketing/vibes-sms-messages/create-an-sms-message.md) {#marketo-vibes-sms-launchpoint-integration}
+## Marketo-Vibes SMS LaunchPoint 통합
 
 Marketo 내에서 SMS 메시지를 쉽게 만들 수 있습니다. 풍부한 Marketo 데이터를 사용하여 메시지를 개인화하고 타겟팅하고 SMS 메시지 대시보드를 사용하여 성과를 쉽게 모니터링할 수 있습니다.
 
 >[!NOTE]
 >
->이 기능을 사용하려면 기존 Vibes SMS 계정이 있어야 합니다.
+>이 기능을 사용하려면 기존 [!DNL Vibes SMS] 계정이 있어야 합니다.
 
 ![](assets/vibes-sms2.png)
 
@@ -60,7 +59,7 @@ Marketo 내에서 SMS 메시지를 쉽게 만들 수 있습니다. 풍부한 Mar
 **구문 업데이트**
 
 * 이제 이메일 2.0 템플릿에 지정된 모듈에서 &quot;mktoAddByDefault&quot;를 사용하여 기본적으로 새 이메일에 표시되어야 하는 모듈을 나타낼 수 있습니다. 많은 모듈을 사용하여 이메일 템플릿을 작성하는 경우 훨씬 편리합니다.
-* 이제 이미지 요소에서 기본 `<img>` HTML 요소의 &quot;height&quot; 및 &quot;width&quot; 속성을 최종 사용자가 잠글 것인지 편집할 것인지 여부를 지정할 수 있습니다. mktoLockImgSize=&quot;true&quot;로 설정하면 이미지가 변경된 경우에도 높이/너비가 잠깁니다. 마찬가지로 mktoLockImgStyle=&quot;true&quot;이면 &quot;style&quot; 속성이 잠깁니다.
+* 이제 이미지 요소에서 기본 `<img>` HTML 요소의 &quot;height&quot; 및 &quot;width&quot; 속성을 최종 사용자가 잠글 것인지 편집할 수 있는지 여부를 지정할 수 있습니다. mktoLockImgSize=&quot;true&quot;로 설정하면 이미지가 변경된 경우에도 높이/너비가 잠깁니다. 마찬가지로 mktoLockImgStyle=&quot;true&quot;이면 &quot;style&quot; 속성이 잠깁니다.
 
 **코드 검색**
 
@@ -86,7 +85,7 @@ Marketo 내에서 SMS 메시지를 쉽게 만들 수 있습니다. 풍부한 Mar
 
 ## [Enterprise 키](/help/marketo/product-docs/marketo-sales-insight/msi-outlook-plugin/authorize-the-marketo-outlook-plugin.md) {#enterprise-key}
 
-Outlook용 Sales Insight Plugin을 설치하려면 영업 팀의 각 직원이 필요합니다. 지루할 수 있습니다. 엔터프라이즈 키를 사용하여 원격으로 Outlook용 플러그인을 설치하는 새로운 방법을 도입했습니다. 관리자의 Marketo Sales Insight 섹션에 있는 고유 키를 IT 팀에 보내고 나머지 작업을 수행하도록 합니다.
+영업 팀의 각 사용자가 [!DNL Outlook]에 대한 [!DNL Sales Insight] 플러그인을 설치해야 하는 것은 지루할 수 있습니다. 엔터프라이즈 키를 사용하여 원격으로 [!DNL Outlook]용 플러그인을 설치하는 새로운 방법을 도입했습니다. [!UICONTROL Admin]의 Marketo [!DNL Sales Insight] 섹션에 있는 고유 키를 IT 팀에 보내고 나머지 작업을 수행하도록 합니다.
 
 ![](assets/enterprise-key.png)
 
@@ -96,20 +95,20 @@ Outlook용 Sales Insight Plugin을 설치하려면 영업 팀의 각 직원이 �
 
 ![](assets/dialog-campaign-delay.png)
 
-## [컨텐츠 분석 및 Recommendations 내보내기](/help/marketo/product-docs/web-personalization/understanding-web-personalization/understanding-content-analytics.md) {#content-analytics-and-recommendations-export}
+## [Content Analytics 및 권장 사항 내보내기](/help/marketo/product-docs/web-personalization/understanding-web-personalization/understanding-content-analytics.md) {#content-analytics-and-recommendations-export}
 
 컨텐츠 분석 및 권장 사항 데이터를 오프라인으로 봅니다.
 
-## [전자 메일 편집기 2.0에 대한 API 지원](https://developer.adobe.com/marketo-apis/api/asset/) {#api-support-for-email-editor}
+## 전자 메일 편집기 2.0에 대한 [API 지원](https://developers.marketo.com/documentation/asset-api/) {#api-support-for-email-editor}
 
 이전에 v1.0 이메일 및 템플릿과만 호환되는 기존 에셋 API가 이제 v2.0 이메일 에셋에 대해 활성화됩니다.
 
-## [Marketo 개발자 사이트](https://experienceleague.adobe.com/ko/docs/marketo-developer/marketo/home) {#marketo-developers-site}
+## [Marketo 개발자 사이트](https://developers.marketo.com/) {#marketo-developers-site}
 
 새로운 기능과 향상된 기능을 제공합니다.
 
 ## [개인 정보 설정](/help/marketo/product-docs/administration/settings/understanding-privacy-settings.md) {#privacy-settings}
 
-마케터는 개인 정보 설정을 사용하여 Munchkin 및 Web Personalization 기능을 사용하는 방문자를 추적할지 여부를 결정할 수 있습니다. 추적 수준은 브라우저의 추적 안 함 설정, 옵트아웃 쿠키 또는 비특정 IP를 사용하여 제어됩니다. 이러한 방법은 특정 영역에서 Marketo의 가치 및 기능에 영향을 줄 수 있지만 마케터가 변경하지 않으면 Marketo 기능은 그대로 유지됩니다.
+마케터는 개인 정보 설정을 사용하여 [!DNL Munchkin] 및 웹 Personalization 기능을 사용하여 방문자를 추적할지 여부를 결정할 수 있습니다. 추적 수준은 브라우저의 추적 안 함 설정, 옵트아웃 쿠키 또는 비특정 IP를 사용하여 제어됩니다. 이러한 방법은 특정 영역에서 Marketo의 가치 및 기능에 영향을 줄 수 있지만 마케터가 변경하지 않으면 Marketo 기능은 그대로 유지됩니다.
 
 이 기능은 6주 동안 점진적으로 고객에게 출시될 예정입니다. 지금 당장 필요한 경우 Marketo 지원 센터에 문의하십시오.

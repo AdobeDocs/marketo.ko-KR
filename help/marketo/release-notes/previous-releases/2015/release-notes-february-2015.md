@@ -4,9 +4,9 @@ description: 릴리스 노트 - 2015년 2월 - Marketo 문서 - 제품 설명서
 title: 릴리스 노트 - 2015년 2월
 exl-id: a7ce88dc-a4d2-4ccb-9fe5-61130334d24d
 feature: Release Information
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: ecd225af3ecfd7cb9159faf5a9d384d47ee6312c
 workflow-type: tm+mt
-source-wordcount: '329'
+source-wordcount: '325'
 ht-degree: 0%
 
 ---
@@ -21,7 +21,7 @@ ht-degree: 0%
 
 기뻐하라! 이제 트리의 드래그 앤 드롭 또는 이동 기능을 사용하여 스마트 캠페인을 프로그램 안과 밖으로 이동할 수 있습니다.
 
-**[Dynamics 2015(온라인)](https://docs.marketo.com/display/docs/microsoft+dynamics+2013+on-premises)** - 지원됨!
+**[[!DNL Dynamics] 2015(온라인)](https://docs.marketo.com/display/docs/microsoft+dynamics+2013+on-premises)** - 지원됨!
 
 **HTTPS 인증서 변경**
 
@@ -29,15 +29,15 @@ ht-degree: 0%
 
 및 은 현재 사용되는 보안 프로토콜(SHA-1 및 SSL)을 다음 도메인에 대한 더 안전한 버전(SHA-2(SHA-256)과 TLS)로 대체합니다.
 
-* marketo.net (암호화된 Munchkin 트래픽)
+* marketo.net (암호화된 [!DNL Munchkin] 트래픽)
 
-* [marketo.com](https://marketo.com)(기본 SaaS 애플리케이션)
+* [marketo.com](https://marketo.com)&#x200B;(기본 SaaS 애플리케이션)
 
 이 문제는 이 릴리스 직후 발생합니다. SHA-1 프로토콜은 레거시 시스템 및 응용 프로그램의 소유자가 SHA-2 호환성으로 시스템을 업데이트할 수 있도록 2015년 12월까지 [mktoapi.com](https://mktoapi.com) 도메인에서 임시로 지원됩니다.
 
-**보안 Munchkin**
+**보안[!DNL Munchkin]**
 
-SSL3에 대한 지원이 제거되었습니다. 이전 웹 브라우저에 대한 지원을 유지하기 위해 지금까지 SSL3을 유지했지만 2015년에는 더 이상 해당 브라우저에서 상당한 웹 트래픽이 발생하지 않습니다. 이는 보안 페이지에서 사용할 때만 Munchkin에 영향을 미치며 2월 릴리스 이후 느리게 롤아웃됩니다.
+SSL3에 대한 지원이 제거되었습니다. 이전 웹 브라우저에 대한 지원을 유지하기 위해 지금까지 SSL3을 유지했지만 2015년에는 더 이상 해당 브라우저에서 상당한 웹 트래픽이 발생하지 않습니다. 이는 보안 페이지에서 사용할 경우 [!DNL Munchkin]에만 영향을 주며 2월 릴리스 이후 느리게 롤아웃됩니다.
 
 ## 실시간 Personalization 개선 사항 {#real-time-personalization-enhancements}
 

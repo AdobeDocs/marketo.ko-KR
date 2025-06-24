@@ -4,9 +4,9 @@ description: 릴리스 노트 - 2014년 2월 - Marketo 문서 - 제품 설명서
 title: 릴리스 노트 - 2014년 2월
 exl-id: 5fcac75d-4e09-4f4d-9fd0-7c89f890d63e
 feature: Release Information
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: ecd225af3ecfd7cb9159faf5a9d384d47ee6312c
 workflow-type: tm+mt
-source-wordcount: '365'
+source-wordcount: '336'
 ht-degree: 0%
 
 ---
@@ -15,19 +15,19 @@ ht-degree: 0%
 
 다음 기능은 2014년 2월 릴리스에 포함되어 있습니다. Marketo 버전에서 사용 가능한 기능이 있는지 확인하십시오. 릴리스 후에 다시 돌아와 각 기능에 대한 자세한 기술 자료 문서에 대한 링크를 찾으십시오.
 
-## 참여 점수를 우승 기준으로 사용 {#engagement-score-as-winning-criteria}
+## 우승 기준으로 [!UICONTROL Engagement Score] {#engagement-score-as-winning-criteria}
 
 [참여 점수를 사용](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/email-test-a-b-test/define-the-a-b-test-winner-criteria.md)하여 A/B 분할 테스트 또는 챔피언/챌린저 테스트에서 채택 변형을 결정하십시오. 적절한 참여 점수를 부여하려면 테스트를 최소 24시간 실행해야 합니다.
 
 ![](assets/image2014-9-22-10-3a46-3a49.png)
 
-## 이메일 프로그램 결과 탭 {#email-program-results-tab}
+## 전자 메일 프로그램 [!UICONTROL Results] 탭 {#email-program-results-tab}
 
 전자 메일 프로그램에 대해 기록된 [결과를 봅니다](/help/marketo/product-docs/email-marketing/email-programs/email-program-data/view-email-program-results.md).
 
 ![](assets/image2014-9-22-10-3a47-3a19.png)
 
-## 메일링이 차단된 사람/잠재 고객 {#people-leads-blocked-from-mailing}
+## 메일링이 차단된 사용자/[!UICONTROL Leads]명 {#people-leads-blocked-from-mailing}
 
 [메일링이 차단된 사람/잠재 고객](/help/marketo/product-docs/email-marketing/email-programs/managing-people-in-email-programs/define-an-audience-with-a-smart-list.md) 번호를 클릭하여 구독 취소되거나, 블랙리스트에 등록되거나, 이메일 주소가 잘못되었거나 비어 있거나, 마케팅이 일시 중단되어 이메일을 받지 못할 사용자를 확인하십시오.
 
@@ -35,11 +35,11 @@ ht-degree: 0%
 
 ## 이메일 프로그램 데이터 내보내기 {#export-email-program-data}
 
-AB 테스트 변형 데이터를 포함하여 [Excel로 전자 메일 지표를 내보냅니다](/help/marketo/product-docs/email-marketing/email-programs/email-program-data/export-email-program-dashboard-to-excel.md).
+AB 테스트 변형 데이터를 포함하여 [전자 메일 지표를  [!DNL Excel]](/help/marketo/product-docs/email-marketing/email-programs/email-program-data/export-email-program-dashboard-to-excel.md)에 내보냅니다.
 
-## [!UICONTROL 참여 스트림 성능] 보고서의 [!UICONTROL 참여 점수] {#engagement-score-in-engagement-stream-performance-report}
+## [!UICONTROL Engagement Stream Performance] 보고서의 [!UICONTROL Engagement Score] {#engagement-score-in-engagement-stream-performance-report}
 
-참여 프로그램의 콘텐츠가 얼마나 효과적인지 확인하는 데 도움이 되도록 [[!UICONTROL 참여 스트림 성과] 보고서](/help/marketo/product-docs/email-marketing/drip-nurturing/reports-and-notifications/engagement-stream-performance-report.md)에 참여 점수를 추가했습니다.
+참여 프로그램의 콘텐츠가 얼마나 효과적인지 확인하는 데 도움이 되도록 [[!UICONTROL Engagement Stream Performance] 보고서](/help/marketo/product-docs/email-marketing/drip-nurturing/reports-and-notifications/engagement-stream-performance-report.md)에 참여 점수를 추가했습니다.
 
 ![](assets/image2014-9-22-10-3a50-3a36.png)
 
@@ -53,9 +53,9 @@ AB 테스트 변형 데이터를 포함하여 [Excel로 전자 메일 지표를 
 
 다음 필터 및 트리거 이름이 업데이트되었습니다.
 
-* 클릭 링크 - 웹 페이지 클릭 링크
-* 클릭한 링크를 웹 페이지에서 클릭한 링크에 연결했습니다.
-* 클릭되지 않은 링크 - 웹 페이지에서 클릭되지 않은 링크
+* [!UICONTROL Clicks Link on Web Page] 링크 클릭
+* [!UICONTROL Clicked Link on Web Page]에 연결된 링크를 클릭함
+* [!UICONTROL Not Clicked Link on Web Page]에 대한 링크를 클릭하지 않음
 
 ![](assets/image2014-9-22-10-3a51-3a31.png)
 

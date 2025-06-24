@@ -4,9 +4,9 @@ description: 개인 데이터 업데이트 - Marketo 문서 - 제품 설명서
 title: 개인 데이터 업데이트
 exl-id: e4fe0df7-5744-41e6-821f-942d247123fc
 feature: Getting Started
-source-git-commit: 6733bca40fbe09fd1c5b6166aef7a74759d7808e
+source-git-commit: ecd225af3ecfd7cb9159faf5a9d384d47ee6312c
 workflow-type: tm+mt
-source-wordcount: '183'
+source-wordcount: '180'
 ht-degree: 0%
 
 ---
@@ -24,7 +24,7 @@ ht-degree: 0%
 
 ## 업데이트해야 하는 사람 찾기 {#find-the-person-you-need-to-update}
 
-1. **[!UICONTROL 데이터베이스]**(으)로 이동합니다.
+1. [!UICONTROL Database]&#x200B;(으)로 이동합니다.
 
    ![](assets/update-person-data-1.png)
 
@@ -66,6 +66,6 @@ ht-degree: 0%
 
 <br> 
 
-[◄ 임무 8: 영업 담당자에게 알림](/help/marketo/getting-started/quick-wins/alert-the-sales-rep.md)
+[◄ 작업 8: 영업 담당자에게 알림](/help/marketo/getting-started/quick-wins/alert-the-sales-rep.md)
 
-[미션 10: 랜딩 페이지 리디렉션 ►](/help/marketo/getting-started/quick-wins/redirect-a-landing-page.md)
+[미션 10: 랜딩 페이지 ► 리디렉션](/help/marketo/getting-started/quick-wins/redirect-a-landing-page.md)

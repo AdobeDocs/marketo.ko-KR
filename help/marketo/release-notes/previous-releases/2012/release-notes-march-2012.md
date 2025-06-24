@@ -4,9 +4,9 @@ description: 릴리스 노트 - 2012년 3월 - Marketo 문서 - 제품 설명서
 title: 릴리스 노트 - 2012년 3월
 exl-id: 8dce59bf-6349-4e47-b07b-8302b5039739
 feature: Release Information
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: ecd225af3ecfd7cb9159faf5a9d384d47ee6312c
 workflow-type: tm+mt
-source-wordcount: '248'
+source-wordcount: '249'
 ht-degree: 0%
 
 ---
@@ -31,7 +31,7 @@ ht-degree: 0%
 
 ## 코드 조각 미리 보기 {#snippet-previewer}
 
-메뉴에서 &quot;코드 조각 미리 보기&quot;를 선택하면 초안을 만들지 않고 코드 조각을 볼 수 있습니다.또한 공유 코드 조각(작업 영역을 통해)에 대한 읽기 전용 액세스 권한이 있는 경우 이 작업을 사용하여 코드 조각을 볼 수 있습니다
+메뉴에서 &quot;코드 조각 미리보기&quot;를 선택하면 초안을 만들지 않고도 코드 조각을 볼 수 있습니다. 또한 작업 영역을 통해 공유 코드 조각에 대한 읽기 전용 액세스 권한이 있는 경우 이 작업으로 코드 조각을 볼 수 있습니다.
 
 ![](assets/image2014-9-23-10-3a0-3a37.png)
 

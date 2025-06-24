@@ -4,9 +4,9 @@ description: 릴리스 노트 - 2014년 12월 - Marketo 설명서 - 제품 설�
 title: 릴리스 노트 - 2014년 12월
 exl-id: b4dd365d-a2a2-416e-a226-5515203a41f8
 feature: Release Information
-source-git-commit: 2b610cc3486b745212b0b1f36018a83214d7ecd7
+source-git-commit: ecd225af3ecfd7cb9159faf5a9d384d47ee6312c
 workflow-type: tm+mt
-source-wordcount: '477'
+source-wordcount: '455'
 ht-degree: 0%
 
 ---
@@ -15,17 +15,17 @@ ht-degree: 0%
 
 다음 기능은 2014년 12월 릴리스에 포함되어 있습니다. Marketo 버전에서 사용 가능한 기능이 있는지 확인하십시오. 릴리스 후에 다시 돌아와 각 기능에 대한 자세한 문서에 대한 링크를 찾으십시오.
 
-## Sales Insight 보고서 {#sales-insight-reports}
+## [!DNL Sales Insight]개 보고서 {#sales-insight-reports}
 
-[Sales Insight Email 성과 보고서](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/features/performance-reports/sales-insight-email-performance-report.md)를 통해 이메일 및 영업 담당자별로 이메일 지표를 볼 수 있습니다. Salesforce, Microsoft Dynamics, Outlook 플러그인 및 Gmail 플러그인을 통해 전송된 이메일을 지원합니다.
+[[!DNL Sales Insight] 이메일 성과 보고서](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/features/performance-reports/sales-insight-email-performance-report.md)를 통해 이메일 및 영업 담당자별로 이메일 지표를 볼 수 있습니다. [!DNL Salesforce], [!DNL Microsoft Dynamics], [!DNL Outlook] 플러그 인 및 [!DNL Gmail] 플러그 인을 통해 전송된 전자 메일을 지원합니다.
 
 ![](assets/image2014-12-5-11-3a5-3a46.png)
 
 ![](assets/image2014-12-5-11-3a5-3a55.png)
 
-## Facebook 사용자 지정 대상 {#facebook-custom-audiences}
+## [!DNL Facebook]개의 사용자 지정 대상 {#facebook-custom-audiences}
 
-Marketo 관리자가 관리자 > 시작 지점[&#128279;](/help/marketo/product-docs/demand-generation/ad-network-integrations/add-facebook-custom-audiences-as-a-launchpoint-service.md)을 통해 Facebook을 추가하면 Facebook 사용자 지정 대상을 Marketo 정적 또는 스마트 목록의 리드로 쉽게 만들거나 업데이트하거나 [바꿀 수 있습니다](/help/marketo/product-docs/demand-generation/facebook/create-a-custom-audience-in-facebook.md). 정적 또는 스마트 목록의 리드 그리드 아래쪽에서 새 Facebook 아이콘을 찾습니다.
+Marketo 관리자가 [!UICONTROL Admin] > [!UICONTROL LaunchPoint]](/help/marketo/product-docs/demand-generation/ad-network-integrations/add-facebook-custom-audiences-as-a-launchpoint-service.md)을(를) 통해 [[!DNL Facebook] 을(를) 추가하면 [사용자 지정 대상을 쉽게 만들거나 업데이트하거나  [!DNL Facebook] Marketo 정적 또는 스마트 목록의 리드로 바꾸기](/help/marketo/product-docs/demand-generation/facebook/create-a-custom-audience-in-facebook.md)할 수 있습니다. 정적 또는 스마트 목록의 잠재 고객 그리드 하단에서 새 [!DNL Facebook] 아이콘을 찾습니다.
 
 ![](assets/image2014-12-5-11-3a6-3a28.png)
 
@@ -53,11 +53,11 @@ UTF-16, Shift-JIS 또는 EUC-JP로 인코딩된 [파일 가져오기](/help/mark
 
 ## 토큰 인코딩 설정 {#token-encoding-setting}
 
-인코딩 토큰을 자동으로 HTML 지정하는 새로운 보안 기능이 출시되었습니다. 이 기능은 2015년 3월에 기본적으로 활성화됩니다. 그때까지 필드 관리에서 이 기능을 전환하여 미리 동작을 테스트하십시오. 모든 리드 및 회사 토큰은 이메일 또는 랜딩 페이지에 삽입되면 인코딩됩니다. 옵션은 개별 필드에도 사용할 수 있습니다.
+2015년 3월에 기본적으로 활성화되는 HTML 인코딩 토큰을 자동으로 활성화하는 새로운 보안 기능을 배포했습니다. 그때까지 필드 관리에서 이 기능을 전환하여 미리 동작을 테스트하십시오. 모든 리드 및 회사 토큰은 이메일 또는 랜딩 페이지에 삽입되면 인코딩됩니다. 옵션은 개별 필드에도 사용할 수 있습니다.
 
-## 새 ReST API 호출 {#new-rest-api-calls}
+## 새 REST API 호출 {#new-rest-api-calls}
 
-리드 및 활동 ReST API에 대한 세 가지 새로운 호출:
+리드 및 활동 REST API에 대한 세 가지 새로운 호출:
 
 · 리드 파티션 가져오기
 
@@ -65,15 +65,15 @@ UTF-16, Shift-JIS 또는 EUC-JP로 인코딩된 [파일 가져오기](/help/mark
 
 · 잠재 고객 병합
 
-전체 세부 정보는 [https://experienceleague.adobe.com/ko/docs/marketo-developer/marketo/home](https://experienceleague.adobe.com/ko/docs/marketo-developer/marketo/home)에 릴리스된 후에 사용할 수 있습니다.
+전체 세부 정보는 [https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/home](https://experienceleague.adobe.com/ko/docs/marketo-developer/marketo/home)에 릴리스된 후에 사용할 수 있습니다.
 
-## Munchkin Javascript 호환성 개선 사항 {#munchkin-javascript-compatibility-enhancements}
+## [!DNL Munchkin Javascript] 호환성 개선 사항 {#munchkin-javascript-compatibility-enhancements}
 
-페이지에 있는 다른 JavaScript에서 경우에 따라 빠르게 로드되고 원하는 대로 작동하도록 Munchkin을 몇 가지 약간 개선했습니다.
+페이지의 다른 JavaScript에 있는 경우 [!DNL Munchkin]이(가) 계속 빠르게 로드되고 원하는 대로 작동하도록 몇 가지 사항을 개선했습니다.
 
 롤아웃은 12월 중순부터 시작하여 향후 몇 달 동안 진행될 예정입니다.
 
-## Revenue Explorer 업그레이드된 모양 및 느낌 {#revenue-explorer-upgraded-look-and-feel}
+## [!UICONTROL Revenue Explorer] 업그레이드된 모양과 느낌 {#revenue-explorer-upgraded-look-and-feel}
 
 ![](assets/image2014-12-5-11-3a8-3a4.png)
 
@@ -83,7 +83,7 @@ UTF-16, Shift-JIS 또는 EUC-JP로 인코딩된 [파일 가져오기](/help/mark
 
 ## RTP: 명명된 계정 목록 모듈 {#rtp-named-account-list-module}
 
-새 명명된 계정 페이지에서 주요 고수익 계정을 관리하고 모니터링합니다. 명명 계정의 새 목록을 업로드하여 이러한 조직을 식별하고 타겟팅합니다. Dell은 고객 기반 마케팅 계획을 구현하고 다양한 채널(웹 및 광고)에서 주요 고객을 타깃팅할 수 있도록 더욱 세밀한 제어와 유연성을 제공하는 프로세스를 자동화했습니다.
+새 [!UICONTROL Named Accounts] 페이지에서 주요 고수익 계정을 관리하고 모니터링합니다. 명명 계정의 새 목록을 업로드하여 이러한 조직을 식별하고 타겟팅합니다. Dell은 고객 기반 마케팅 계획을 구현하고 다양한 채널(웹 및 광고)에서 주요 고객을 타깃팅할 수 있도록 더욱 세밀한 제어와 유연성을 제공하는 프로세스를 자동화했습니다.
 
 ![](assets/image2014-12-5-11-3a8-3a56.png)
 

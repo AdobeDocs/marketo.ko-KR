@@ -1,11 +1,11 @@
 ---
 description: 릴리스 노트 - 2021년 5월 - Marketo 문서 - 제품 설명서
-title: 릴리스 노트 - 2021년 5월
+title: 릴리스 정보 - 2021년 5월
 exl-id: e3de60a2-17bd-4760-848e-6e931ad85b3c
 feature: Release Information
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: ecd225af3ecfd7cb9159faf5a9d384d47ee6312c
 workflow-type: tm+mt
-source-wordcount: '1450'
+source-wordcount: '1436'
 ht-degree: 0%
 
 ---
@@ -28,7 +28,7 @@ ht-degree: 0%
 
 ## 차세대 사용자 경험 {#next-generation-user-experience}
 
-글로벌 검색 미리 보기를 사용하면 마케터는 공유 에셋이 인스턴스에서 어디에 있는지 빠르게 확인할 수 있습니다. 마케팅 활동 또는 Design Studio에서 탐색을 개선하기 위해 브라우저 탭에 위치가 표시됩니다. 추가 트리 및 글로벌 검색 필터는 검색 기준을 구체화하는 데 도움이 됩니다. 트리 내의 드래그 앤 드롭 기능이 복원되어 폴더 및 에셋을 기본 앱 영역 내에서 빠르고 효율적으로 이동할 수 있습니다. Adobe의 접근성 표준을 충족하는 새로 업데이트된 아이콘 및 상태 배지를 통해 마케터는 트리에서 폴더와 에셋을 빠르고 쉽게 구별하고 프로그램 및 에셋의 상태를 식별할 수 있습니다.
+글로벌 검색 미리 보기를 사용하면 마케터는 공유 에셋이 인스턴스에서 어디에 있는지 빠르게 확인할 수 있습니다. 브라우저 탭에는 [!UICONTROL Marketing Activities] 또는 [!UICONTROL Design Studio]에서 탐색을 개선하기 위한 위치가 표시됩니다. 추가 트리 및 글로벌 검색 필터는 검색 기준을 구체화하는 데 도움이 됩니다. 트리 내의 드래그 앤 드롭 기능이 복원되어 폴더 및 에셋을 기본 앱 영역 내에서 빠르고 효율적으로 이동할 수 있습니다. Adobe의 접근성 표준을 충족하는 새로 업데이트된 아이콘 및 상태 배지를 통해 마케터는 트리에서 폴더와 에셋을 빠르고 쉽게 구별하고 프로그램 및 에셋의 상태를 식별할 수 있습니다.
 
 ## Experience Automated {#experience-automation}
 
@@ -36,9 +36,9 @@ ht-degree: 0%
 
 ## 크로스 채널 오케스트레이션 {#cross-channel-orchestration}
 
-* **Forms의 중요한 데이터 필드**: 데이터 필드를 중요한 것으로 정의하고 해당 필드에 대한 양식 미리 채우기를 제한하여 Protect 고객의 PII(개인 식별 정보)가 Adobe Marketo Engage 양식에 표시되지 않도록 합니다. 방문자가 랜딩 페이지에서 양식을 볼 때마다 중요로 정의된 필드에 미리 채워진 데이터가 표시되지 않습니다.
+* **Forms의 중요한 데이터 필드**: 데이터 필드를 중요한 것으로 정의하고 해당 필드에 대한 양식 미리 채우기를 제한하여 고객의 PII(개인 식별 정보)가 Adobe Marketo Engage 양식에 표시되지 않도록 보호합니다. 방문자가 랜딩 페이지에서 양식을 볼 때마다 중요로 정의된 필드에 미리 채워진 데이터가 표시되지 않습니다.
 
-* **스팸 양식 제출 차단**: 정크 데이터에서 Adobe Marketo Engage 데이터베이스를 Protect 하면 매출에 잘못된 알림을 발생시킬 수 있고, 캠페인 백로그를 트리거할 수 있으며, 원치 않는 활동을 만들 수 있습니다. 새 유효성 검사 메커니즘이 잘못된 양식 제출을 거부하고 봇 공격을 중지합니다. 데이터는 깨끗하고 마케팅 캠페인은 의도한 대로 실행되므로 부적격 잠재 고객을 판매로 보낼 위험을 최소화할 수 있습니다.
+* **스팸 양식 제출 차단**: 매출에 잘못된 알림을 초래하고, 캠페인 백로그를 트리거하고, 원치 않는 활동을 만들 수 있는 정크 데이터에서 Adobe Marketo Engage 데이터베이스를 보호합니다. 새 유효성 검사 메커니즘이 잘못된 양식 제출을 거부하고 봇 공격을 중지합니다. 데이터는 깨끗하고 마케팅 캠페인은 의도한 대로 실행되므로 부적격 잠재 고객을 판매로 보낼 위험을 최소화할 수 있습니다.
 
 * **전자 메일 프로그램 승인 경고**: 이전에 승인된 프로그램을 새로 편집한 경우 잘못된 전자 메일을 보내지 않도록 합니다.  마케터가 이미 승인된 이메일에 변경 사항을 적용하지만 최신 변경 사항을 승인하지 않은 경우 경고는 가드레일 역할을 하며, 콘텐츠가 없거나 잘못된 콘텐츠 또는 이전 콘텐츠가 있는 대규모 대상자에게 이메일을 보냅니다.
 
@@ -64,7 +64,7 @@ ht-degree: 0%
 
 * **일괄 리드 가져오기 API**: 일괄 리드 가져오기 및 가져오기 작업에 필요한 리소스를 제어합니다. 이 향상된 기능은 대량 리드 가져오기 프로세스 중에 리드와 회사 간의 연결을 만듭니다. 데이터 작업의 효율성 및 효율성을 높이고 API 호출 시 사용을 줄입니다.
 
-* **Microsoft Dynamics Online 고객을 위한 웹 API 기반 통합**: MS Dynamics 웹 API는 버전 8.0 REST 프로토콜과 함께 도입되었으며 OData(Open Data Protocol) v4를 구현합니다. OData는 풍부한 데이터에 대한 RESTful 서비스를 구축하고 소비하기 위한 OASIS(Organization for the Advancement of Structured Information Standards) 표준입니다. 이 방법을 사용하여 Microsoft Dynamics와 통합해야 하는 Adobe Marketo Engage 고객은 현재 SOAP(Simple Object Access Protocol)에서 웹 API 기반 연결로 마이그레이션되고 있습니다.
+* [!DNL Microsoft Dynamics Online] 고객을 위한 **웹 API 기반 통합**: [!DNL MS Dynamics] 웹 API는 버전 8.0 REST 프로토콜과 함께 도입되었으며 OData(Open Data Protocol) v4를 구현합니다. OData는 풍부한 데이터에 대한 RESTful 서비스를 구축하고 소비하기 위한 OASIS(Organization for the Advancement of Structured Information Standards) 표준입니다. 이 메서드를 사용하여 [!DNL Microsoft Dynamics]과(와) 통합해야 하는 Adobe Marketo Engage 고객은 현재 SOAP(Simple Object Access Protocol)에서 웹 API 기반 연결로 마이그레이션되고 있습니다.
 
 ## 마케팅 데이터 환경 {#marketing-data-environment}
 
@@ -76,13 +76,13 @@ ht-degree: 0%
 
 ![](assets/yellow-star.png)
 
-* **LinkedIn Lead Gen Forms(Beta)와 통합**: Bizible Premium Attribution Solution을 통해 LinkedIn 채널 지출 및 ROI에 대한 심도 있는 가시성을 확보하십시오. Bizible은 LinkedIn의 리드 젠인 Forms과의 최신 통합을 통해 LinkedIn 플랫폼 내에서 제출된 양식에 대한 통찰력을 얻을 수 있습니다. 이러한 양식 채우기는 CRM(고객 관계 관리) 또는 Adobe Marketo Engage 인스턴스의 리드와 일치하므로, 속성에 적합하고 다른 마케팅 참여에 대해 추적할 수 있습니다.
+* **[!DNL LinkedIn] 리드 세대 Forms(Beta)와 통합**: Bizible 프리미엄 속성 솔루션을 통해 [!DNL LinkedIn] 채널 지출과 ROI에 대한 심도 있는 가시성을 확보하십시오. [!DNL LinkedIn]의 리드 세대 Forms과의 최신 통합을 통해 Bizible은 insight을 [!DNL LinkedIn] 플랫폼 내에서 제출된 양식으로 가져옵니다. 이러한 양식 채우기는 CRM(고객 관계 관리) 또는 Adobe Marketo Engage 인스턴스의 리드와 일치하므로, 속성에 적합하고 다른 마케팅 참여에 대해 추적할 수 있습니다.
 
 ## 공지 {#announcements}
 
 * **Marketo 제품 문서 전환 플랫폼**: 5월 7일 금요일부터 Marketo 제품 문서가 Adobe Experience League에 가입되었음을 발표하게 되어 기쁘게 생각합니다. URL docs.marketo.com은 계속 사용할 수 있으며, 기존 문서에 책갈피가 지정된 경우 리디렉션됩니다. 모든 제품 문서는 새로운 플랫폼에서 사용할 수 있으며, 올해 말에 개선될 예정입니다.
 
-* **Adobe ID 시스템에서 제공하는 간소화되는 사용자 관리 및 SSO(Single Sign-On)**: 2021년 7월부터 새로운 Adobe Marketo Engage 고객이 Adobe 사용자 자격 증명을 사용하여 온보딩됩니다. 현재 고객을 통합 ID 시스템으로 마이그레이션하는 작업은 2022년 중순까지 수행되지 않으며 추가 공지가 있을 때까지 고객 조치가 필요하지 않습니다. SSO(Single Sign-On)를 사용하면 IT/보안 관리자가 다른 Experience Cloud 솔루션과 함께 여러 Adobe Marketo Engage 제품 인스턴스를 관리할 수 있을 뿐만 아니라 공통 콘솔을 통해 SSO(Shared Services Organization)를 구성할 수 있습니다. 관리자는 공통 Admin Console을 통해 사용자 그룹 및 사용자 권한을 편리하게 관리할 수 있습니다.
+* **Adobe Identity System에서 제공하는 간소화된 사용자 관리 및 SSO(Single Sign-On)**: 2021년 7월부터 새로운 Adobe Marketo Engage 고객이 Adobe 사용자 자격 증명을 사용하여 온보딩됩니다. 현재 고객을 통합 ID 시스템으로 마이그레이션하는 작업은 2022년 중순까지 수행되지 않으며 추가 공지가 있을 때까지 고객 조치가 필요하지 않습니다. SSO(Single Sign-On)를 사용하면 IT/보안 관리자가 다른 Experience Cloud 솔루션과 함께 여러 Adobe Marketo Engage 제품 인스턴스를 관리할 수 있을 뿐만 아니라 공통 콘솔을 통해 SSO(Shared Services Organization)를 구성할 수 있습니다. 관리자는 공통 Admin Console을 통해 사용자 그룹 및 사용자 권한을 편리하게 관리할 수 있습니다.
 
 **_제품 릴리스 웨비나_**
 

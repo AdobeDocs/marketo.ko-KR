@@ -3,10 +3,9 @@ unique-page-id: 11384018
 description: 릴리스 노트 - 16년 가을 - Marketo 문서 - 제품 설명서
 title: 릴리스 노트 - 16년 가을
 exl-id: da935951-162e-426c-acf2-12c55ff706b4
-feature: Release Information
-source-git-commit: 2b610cc3486b745212b0b1f36018a83214d7ecd7
+source-git-commit: 2b72932606a93d061eb2f57c0ff3256b94a0c20c
 workflow-type: tm+mt
-source-wordcount: '661'
+source-wordcount: '647'
 ht-degree: 0%
 
 ---
@@ -15,9 +14,9 @@ ht-degree: 0%
 
 다음 기능은 16년 가을 릴리스에 포함되어 있습니다. Marketo 버전에서 사용 가능한 기능이 있는지 확인하십시오. 각 기능에 대한 자세한 문서를 보려면 제목 링크를 클릭하십시오.
 
-## 이메일의 예측 콘텐츠 {#predictive-content-in-email}
+## 전자 메일의 [!UICONTROL Predictive Content] {#predictive-content-in-email}
 
-예측 콘텐츠 애플리케이션에는 웹 및 이메일 채널에서 머신 러닝 및 예측 알고리즘을 통해 콘텐츠를 추적, 관리 및 추천할 수 있는 새로운 사용자 경험이 있습니다.
+[!UICONTROL Predictive Content] 응용 프로그램에서는 웹 및 전자 메일 채널에서 머신 러닝 및 예측 알고리즘을 통해 콘텐츠를 추적, 관리 및 추천할 수 있는 새로운 사용자 환경을 제공합니다.
 
 >[!NOTE]
 >
@@ -31,7 +30,7 @@ ht-degree: 0%
 
 ## [Facebook 오프라인 전환](/help/marketo/product-docs/demand-generation/facebook/understanding-facebook-offline-conversions.md) {#facebook-offline-conversions}
 
-facebook Offline Conversion 통합을 통해 광고 팀이 광고 지출을 보다 효율적으로 최적화할 수 있도록 Marketo의 전환 데이터(리드 광고 리드용)가 자동으로 Facebook으로 다시 전송됩니다. 이 Facebook Ad Manager 보고서에서는 오프라인 전환이 강조 표시됩니다.
+[!DNL Facebook] 오프라인 전환 통합을 사용하면 광고 팀이 광고 지출을 최적화할 수 있도록 Marketo의 전환 데이터(잠재 고객 광고 잠재 고객용)가 자동으로 [!DNL Facebook]&#x200B;(으)로 다시 전송됩니다. 이 [!DNL Facebook] 광고 관리자 보고서에서 오프라인 전환이 강조 표시됩니다.
 
 ![](assets/facebook.png)
 
@@ -47,19 +46,19 @@ facebook Offline Conversion 통합을 통해 광고 팀이 광고 지출을 보�
 
 ## Marketo 계정 기반 마케팅 개선 사항 {#marketo-account-based-marketing-enhancements}
 
-이제 계정 소유자, 영업 개발 담당자, 비즈니스 개발 담당자, 계정 관리자와 같은 ABM(Account Based Marketing)에서 명명된 계정에 계정 팀을 할당할 수 있습니다. 계정 소유자별 계정 목록을 작성하고 개인화된 주별 ABM 보고서를 계정 팀에 보낼 수도 있습니다.
+이제 계정 소유자, 영업 개발 담당자, 비즈니스 개발 담당자, 고객 성공 관리자와 같은 ABM(Account Based Marketing)에서 명명된 계정에 계정 팀을 할당할 수 있습니다. 계정 소유자별 계정 목록을 작성하고 개인화된 주별 ABM 보고서를 계정 팀에 보낼 수도 있습니다.
 
 ![](assets/account-team-11-15-16.png)
 
 **REST API**
 
-또한 이 릴리스에서는 Marketo REST API를 사용하여 ABM에서 명명된 계정 속성 및 계정 점수를 관리할 수 있습니다. API 작업에 대한 자세한 내용은 [Marketo 개발자 웹 사이트](https://experienceleague.adobe.com/ko/docs/marketo-developer/marketo/rest/lead-database/named-accounts)를 참조하십시오.
+또한 이 릴리스에서는 Marketo REST API를 사용하여 ABM에서 명명된 계정 속성 및 계정 점수를 관리할 수 있습니다. API 작업에 대한 자세한 내용은 [Marketo 개발자 웹 사이트](https://developers.marketo.com/rest-api/lead-database/named-accounts)를 참조하십시오.
 
 ## [감사 추적 개선 사항](/help/marketo/product-docs/administration/audit-trail/change-details-in-audit-trail.md) {#audit-trail-enhancements}
 
 감사 추적은 Marketo 구독 내에서 수행된 변경 사항에 대한 포괄적인 기록을 제공합니다. 스마트 캠페인, 스마트 목록, 사용자 및 역할에 대한 변경 사항에 대한 중요한 변경 세부 사항을 표시할 뿐만 아니라 프로그램에 대한 추가 추적 기능을 추가했습니다.
 
-## [새 권한](/help/marketo/product-docs/administration/users-and-roles/descriptions-of-role-permissions.md) {#new-permissions}
+## 새 권한
 
 **전자 메일을 작동 상태로 만들기**
 
@@ -80,18 +79,18 @@ facebook Offline Conversion 통합을 통해 광고 팀이 광고 지출을 보�
 
 ![](assets/sound-for-push-notifications.png)
 
-## [Salesforce 암호화와 호환되는 영업 인사이트](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/installation/install-marketo-sales-insight-package-in-salesforce-appexchange.md) {#sales-insight-compatible-with-salesforce-encryption}
+## [Salesforce 암호화와 호환되는 영업 Insight](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/installation/install-marketo-sales-insight-package-in-salesforce-appexchange.md) {#sales-insight-compatible-with-salesforce-encryption}
 
-Market Sales Insight 는 이제 Salesforce Shield Encryption 과 호환됩니다. 모든 Sales Insight 고객은 이 최신 관리 패키지(버전 1.4359.2)로 업그레이드해야 합니다. 이 패키지는 [Appexchange에서 사용](https://appexchange.salesforce.com/listingDetail?listingId=a0N30000001SVZmEAO)할 수 있습니다.
+이제 [!DNL Sales Insight] 마켓이 [!DNL Salesforce] 실드 암호화와 호환됩니다. 모든 [!DNL Sales Insight] 고객은 이 최신 관리 패키지(버전 1.4359.2)로 업그레이드해야 합니다. 이 패키지는 [에서 사용할 수 있습니다 [!DNL Appexchange]](https://appexchange.salesforce.com/listingDetail?listingId=a0N30000001SVZmEAO).
 
-## [명명된 계정 API](https://experienceleague.adobe.com/ko/docs/marketo-developer/marketo/rest/lead-database/named-accounts) {#named-accounts-apis}
+## [명명된 계정 API](https://developers.marketo.com/rest-api/lead-database/named-accounts/) {#named-accounts-apis}
 
 이번 릴리스를 통해 Marketo ABM 사용자는 명명된 계정 API를 통해 명명된 계정을 관리할 수 있습니다. 사용자는 명명된 계정을 만들고, 업데이트하고, 삭제할 수 있으며 ABM 명명된 계정 점수를 읽고 업데이트할 수 있습니다.
 
-## [전자 메일 편집기 v2.0 API 지원](https://experienceleague.adobe.com/ko/docs/marketo-developer/marketo/email-scripting) {#email-editor-v-api-support}
+## [전자 메일 편집기 v2.0 API 지원](https://developers.marketo.com/rest-api/assets/emails/) {#email-editor-v-api-support}
 
 Marketo REST API를 사용하여 v2.0 형식의 전자 메일에 대한 변수 및 모듈을 관리합니다.
 
-## [Marketo Salesforce 동기화에 대한 변경 사항](https://nation.marketo.com/docs/DOC-3840) {#changes-to-marketo-salesforce-sync}
+## [Marketo Salesforce 동기화 변경 내용](https://nation.marketo.com/docs/DOC-3840) {#changes-to-marketo-salesforce-sync}
 
-Marketo의 Salesforce 통합은 Marketo 필드를 Salesforce와 동기화하는 방식을 개선하기 위해 진화하고 있습니다. 이제 필요하거나 필요하지 않은 대규모 필드 그룹을 동기화하는 대신 포함할 필드를 선택하고 선택할 수 있습니다. 자세한 내용은 여기에서 설명서를 확인하십시오. [https://nation.marketo.com/docs/DOC-3840](https://nation.marketo.com/docs/DOC-3840).
+Marketo의 [!DNL Salesforce] 통합은 Marketo 필드를 [!DNL Salesforce]과(와) 동기화하는 방식을 개선하기 위해 발전하고 있습니다. 이제 필요하거나 필요하지 않은 대규모 필드 그룹을 동기화하는 대신 포함할 필드를 선택하고 선택할 수 있습니다. 자세한 내용은 여기에서 설명서를 확인하십시오. [https://nation.marketo.com/docs/DOC-3840](https://nation.marketo.com/docs/DOC-3840).

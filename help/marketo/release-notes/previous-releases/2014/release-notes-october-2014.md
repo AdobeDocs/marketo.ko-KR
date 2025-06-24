@@ -4,9 +4,9 @@ description: 릴리스 노트 - 2014년 10월 - Marketo 설명서 - 제품 설�
 title: 릴리스 노트 - 2014년 10월
 exl-id: 698b4efd-ee14-459e-83a9-d06652099040
 feature: Release Information
-source-git-commit: 2b610cc3486b745212b0b1f36018a83214d7ecd7
+source-git-commit: ecd225af3ecfd7cb9159faf5a9d384d47ee6312c
 workflow-type: tm+mt
-source-wordcount: '271'
+source-wordcount: '256'
 ht-degree: 0%
 
 ---
@@ -21,7 +21,7 @@ Marketo 버전에서 사용 가능한 기능이 있는지 확인하십시오. �
 
 ![](assets/image2014-10-20-11-3a48-3a51.png)
 
-## 새 ReST API 호출 {#new-rest-api-calls}
+## 새 REST API 호출 {#new-rest-api-calls}
 
 API를 사용하여 잠재 고객에 대한 새 활동 또는 변경 사항을 가져올 수 있습니다.
 
@@ -30,25 +30,25 @@ API를 사용하여 잠재 고객에 대한 새 활동 또는 변경 사항을 �
 * 활동 유형 가져오기
 * 페이징 토큰 가져오기
 
-전체 세부 정보는 [https://experienceleague.adobe.com/ko/docs/marketo-developer/marketo/rest/rest-api](https://experienceleague.adobe.com/ko/docs/marketo-developer/marketo/rest/rest-api)에 릴리스된 후에 사용할 수 있습니다.
+전체 세부 정보는 [https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/rest/rest-api](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/rest/rest-api)에 릴리스된 후에 사용할 수 있습니다.
 
-## MSI - Microsoft Dynamics용 Marketo 이메일 보내기 {#msi-send-marketo-email-for-microsoft-dynamics}
+## MSI - [!DNL Microsoft Dynamics]에 대한 Marketo 이메일 보내기 {#msi-send-marketo-email-for-microsoft-dynamics}
 
-Microsoft Dynamics의 잠재 고객 및 연락처로 [판매 전자 메일을 보내고 추적합니다](/help/marketo/product-docs/marketo-sales-insight/msi-for-microsoft-dynamics/setting-up-and-using/send-a-marketo-sales-email-from-microsoft-dynamics.md).
+[!DNL Microsoft Dynamics]의 잠재 고객 및 연락처로 [판매 전자 메일을 보내고 추적](/help/marketo/product-docs/marketo-sales-insight/msi-for-microsoft-dynamics/setting-up-and-using/send-a-marketo-sales-email-from-microsoft-dynamics.md)합니다.
 
 ![](assets/image2014-10-20-11-3a49-3a25.png)
 
-## MSI - Microsoft Dynamics용 Marketo 캠페인에 추가 {#msi-add-to-marketo-campaigns-for-microsoft-dynamics}
+## MSI - [!DNL Microsoft Dynamics]에 대한 Marketo 캠페인에 추가 {#msi-add-to-marketo-campaigns-for-microsoft-dynamics}
 
-[Marketo 스마트 캠페인에 리드 및 연락처 추가](/help/marketo/product-docs/marketo-sales-insight/msi-for-microsoft-dynamics/setting-up-and-using/add-a-lead-contact-to-a-marketo-campaign-from-microsoft-dynamics.md) Microsoft Dynamics 내에서 직접 마케팅은 영업에 사용할 수 있는 Marketo 캠페인을 선택할 수 있습니다.
+[!DNL Microsoft Dynamics] 내에서 직접 [Marketo 스마트 캠페인에 리드 및 연락처 추가](/help/marketo/product-docs/marketo-sales-insight/msi-for-microsoft-dynamics/setting-up-and-using/add-a-lead-contact-to-a-marketo-campaign-from-microsoft-dynamics.md). 마케팅은 영업에 사용할 수 있는 Marketo 캠페인을 선택할 수 있습니다.
 
-## Microsoft Dynamics Sync에 대한 사용자 지정 엔티티 지원 {#custom-entity-support-for-microsoft-dynamics-sync}
+## [!DNL Microsoft Dynamics] 동기화에 대한 사용자 지정 엔터티 지원 {#custom-entity-support-for-microsoft-dynamics-sync}
 
-스마트 목록, 스마트 캠페인, 프로그램에서 필터링 및 트리거하려면 [Microsoft Dynamics의 사용자 지정 개체 데이터를 사용](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/microsoft-dynamics-sync-details/enable-sync-for-a-custom-entity.md)하십시오.
+스마트 목록, 스마트 캠페인, 프로그램에서 필터링 및 트리거하려면 [!DNL Microsoft Dynamics]의 사용자 지정 개체 데이터를 [사용합니다](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/microsoft-dynamics-sync-details/enable-sync-for-a-custom-entity.md)...
 
-## Microsoft Dynamics Sync에 대한 주주 지원 {#shareholder-support-for-microsoft-dynamics-sync}
+## [!DNL Microsoft Dynamics] 동기화에 대한 주주 지원 {#shareholder-support-for-microsoft-dynamics-sync}
 
-Dynamics에서 영업 기회 주주 데이터를 동기화합니다. 또한 &quot;기본 계정&quot; 필드를 사용하여 계정에 연결된 기회와 &quot;기본 담당자&quot; 동기화를 사용하여 연락처에 연결된 기회도 지원됩니다.
+[!DNL Dynamics]에서 영업 기회 주주 데이터를 동기화합니다. 또한 &quot;기본 계정&quot; 필드를 사용하여 계정에 연결된 기회와 &quot;기본 담당자&quot; 동기화를 사용하여 연락처에 연결된 기회도 지원됩니다.
 
 ## RTP - 대시보드 개선 사항 {#rtp-dashboard-enhancements}
 
@@ -70,4 +70,4 @@ Dynamics에서 영업 기회 주주 데이터를 동기화합니다. 또한 &quo
 * 다음에 관심이 있는 제품
 * 본 RTP 캠페인
 
-자세한 내용을 보려면 [https://experienceleague.adobe.com/ko/docs/marketo-developer/marketo/javascriptapi/rich-media-recommendation](https://experienceleague.adobe.com/ko/docs/marketo-developer/marketo/javascriptapi/rich-media-recommendation)을(를) 방문하십시오.
+자세한 내용을 보려면 [https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/javascriptapi/rich-media-recommendation](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/javascriptapi/rich-media-recommendation)을(를) 방문하십시오.

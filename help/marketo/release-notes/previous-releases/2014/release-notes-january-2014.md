@@ -4,9 +4,9 @@ description: 릴리스 노트 - 2014년 1월 - Marketo 설명서 - 제품 설명
 title: 릴리스 노트 - 2014년 1월
 exl-id: 1507aa40-9bd7-42be-8c85-deae8dd45234
 feature: Release Information
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: ecd225af3ecfd7cb9159faf5a9d384d47ee6312c
 workflow-type: tm+mt
-source-wordcount: '299'
+source-wordcount: '297'
 ht-degree: 0%
 
 ---
@@ -29,13 +29,13 @@ ht-degree: 0%
 
 ![](assets/image2014-9-22-10-3a30-3a52.png)
 
-사용자가 미국을 &quot;국가&quot;로 선택하는 경우에만 &quot;국가&quot;가 표시되게 하시겠습니까? 양식에 대한 질문에 답변하는 방법에 따라 고객에게 다양한 백서를 제공하는 것은 어떻습니까? 편집기에서 바로 양식에 조건부 논리를 빌드합니다. Javascript가 필요하지 않습니다!
+사용자가 미국을 &quot;국가&quot;로 선택하는 경우에만 &quot;국가&quot;가 표시되게 하시겠습니까? 양식에 대한 질문에 답변하는 방법에 따라 고객에게 다양한 백서를 제공하는 것은 어떻습니까? 편집기에서 바로 양식에 조건부 논리를 빌드합니다. [!DNL javascript]은(는) 필요하지 않습니다!
 
 ![](assets/image2014-9-22-10-3a31-3a54.png)
 
 **랜딩 페이지에 Forms을 쉽게 포함:**
 
-Marketo 랜딩 페이지에 배치된 양식에서 html 코드를 들어 올려 iFrame에 놓는 시대는 지났습니다. 포함 코드를 가져와서 양식을 렌더링할 랜딩 페이지에 배치하면 됩니다. 표준 및 Lightbox의 두 가지 모드를 사용하면 사이트에서 Marketo 양식을 더욱 유연하게 사용할 수 있습니다.
+Marketo 랜딩 페이지에 배치된 양식에서 html 코드를 들어 올려 [!DNL iFrame]에 놓는 시대는 지났습니다. 포함 코드를 가져와서 양식을 렌더링할 랜딩 페이지에 배치하면 됩니다. 표준 및 Lightbox의 두 가지 모드를 사용하면 사이트에서 Marketo 양식을 더욱 유연하게 사용할 수 있습니다.
 
 ![](assets/image2014-9-22-10-3a38-3a2.png)
 

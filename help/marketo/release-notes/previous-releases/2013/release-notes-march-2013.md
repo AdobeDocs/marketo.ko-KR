@@ -4,9 +4,9 @@ description: 릴리스 노트 - 2013년 3월 - Marketo 설명서 - 제품 설명
 title: 릴리스 노트 - 2013년 3월
 exl-id: 4036380a-c4a1-44be-8bf3-87253181e5c8
 feature: Release Information
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: ecd225af3ecfd7cb9159faf5a9d384d47ee6312c
 workflow-type: tm+mt
-source-wordcount: '230'
+source-wordcount: '228'
 ht-degree: 0%
 
 ---
@@ -35,7 +35,7 @@ ht-degree: 0%
 
 ![](assets/image2014-9-22-15-3a36-3a55.png)
 
-## 추가 양식 오류 메시지 언어 {#additional-form-error-message-languages}
+## 추가 양식 [!UICONTROL Error Message] 언어 {#additional-form-error-message-languages}
 
 12개 이상의 언어가 양식 오류 메시지에 추가되었습니다!
 

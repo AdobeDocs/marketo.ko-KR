@@ -4,9 +4,9 @@ description: 릴리스 노트 - 2013년 5월 - Marketo 문서 - 제품 설명서
 title: 릴리스 노트 - 2013년 5월
 exl-id: 7f1a22bc-56d8-4ebf-be15-fa1b46e37928
 feature: Release Information
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: ecd225af3ecfd7cb9159faf5a9d384d47ee6312c
 workflow-type: tm+mt
-source-wordcount: '135'
+source-wordcount: '128'
 ht-degree: 0%
 
 ---
@@ -23,7 +23,7 @@ ht-degree: 0%
 
 ## 모델 멤버십 탭 {#model-membership-tab}
 
-모든 모델 구성원의 데이터를 한 곳에 표시하여 쉽게 모니터링하고 문제를 해결할 수 있습니다. 새 구성원 탭은 승인된 수익 주기 모델을 선택할 때 사용할 수 있는 읽기 전용 보기입니다.
+모든 모델 구성원의 데이터를 한 곳에 표시하여 쉽게 모니터링하고 문제를 해결할 수 있습니다. 새 [!UICONTROL Members] 탭은 승인된 수익 주기 모델을 선택할 때 사용할 수 있는 읽기 전용 보기입니다.
 
 ![](assets/image2014-9-22-16-3a3-3a33.png)
 
@@ -35,6 +35,6 @@ ht-degree: 0%
 
 ## 이름이 변경된 흐름 작업 {#renamed-flow-actions}
 
-진행 상태 변경은 이제 프로그램 상태 변경입니다. 프로그램 데이터 변경은 이제 프로그램 변경 성공
+진행 상태 변경은 이제 [!UICONTROL Change Program Status]입니다. 이제 프로그램 데이터 변경은 [!UICONTROL Change Program Success]입니다.
 
 ![](assets/image2014-9-22-16-3a4-3a17.png)
