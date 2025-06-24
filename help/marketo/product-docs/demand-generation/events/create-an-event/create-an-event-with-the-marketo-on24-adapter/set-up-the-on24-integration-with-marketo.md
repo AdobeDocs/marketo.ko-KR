@@ -3,10 +3,10 @@ description: Marketo - Marketo 문서 - 제품 설명서와 ON24 통합 설정
 title: Marketo과 ON24 통합 설정
 exl-id: 395ffa37-b87d-4eb4-bf9f-72aa96dc819c
 feature: Events
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: e3f61755dccd9bea1378a429fc428b440fc3ecb4
 workflow-type: tm+mt
-source-wordcount: '259'
-ht-degree: 0%
+source-wordcount: '263'
+ht-degree: 1%
 
 ---
 
@@ -64,7 +64,7 @@ ht-degree: 0%
 
    ![](assets/set-up-the-on24-integration-with-marketo-10.png)
 
-1. 표시 이름을 선택합니다. **서비스** 드롭다운을 클릭하고 **사용자 지정**&#x200B;을 선택합니다. 설명을 입력합니다. API 전용 사용자 드롭다운을 클릭하고 위의 단계[&#128279;](#create-a-new-user)에서 을(를) 만든 사용자를 선택합니다. **만들기**&#x200B;를 클릭합니다.
+1. 표시 이름을 선택합니다. **서비스** 드롭다운을 클릭하고 **사용자 지정**&#x200B;을 선택합니다. 설명을 입력합니다. API 전용 사용자 드롭다운을 클릭하고 위의 단계](#create-a-new-user)에서 [을(를) 만든 사용자를 선택합니다. **만들기**&#x200B;를 클릭합니다.
 
    ![](assets/set-up-the-on24-integration-with-marketo-11.png)
 
@@ -84,4 +84,4 @@ ht-degree: 0%
 
    ![](assets/set-up-the-on24-integration-with-marketo-15.png)
 
-1. 저장된 클라이언트 ID, 클라이언트 암호 및 ID를 사용하여 ON24 계정으로 이동합니다. 나머지 단계는 여기에서 수행되며 [여기](https://on24support.force.com/Support/s/article/Connect-Marketo-ON24-Connect-Data-Integration#Step6){target="_blank"}에 요약되어 있습니다.
+1. 저장된 클라이언트 ID, 클라이언트 암호 및 ID를 사용하여 ON24 계정으로 이동합니다. 나머지 단계는 여기에서 수행되며 [ON24 설명서](https://support.on24.com/hc/en-us/articles/21420762650523-Data-Integration-Setup-Instructions-When-Using-Marketo-Registration-Option-1){target="_blank"}에서 찾을 수 있습니다.

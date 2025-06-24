@@ -1,13 +1,13 @@
 ---
 unique-page-id: 2360354
-description: "웹 사이트에  [!DNL Munchkin] 추적 코드 추가 - Marketo 문서 - 제품 설명서"
-title: "웹 사이트에  [!DNL Munchkin] 추적 코드 추가"
+description: 웹 사이트에  [!DNL Munchkin] 추적 코드 추가 - Marketo 문서 - 제품 설명서
+title: 웹 사이트에  [!DNL Munchkin] 추적 코드 추가
 exl-id: a03a7f11-8d5e-4325-b975-8fc350711da0
 feature: Administration, Munchkin Tracking Code
-source-git-commit: 2b610cc3486b745212b0b1f36018a83214d7ecd7
+source-git-commit: e3f61755dccd9bea1378a429fc428b440fc3ecb4
 workflow-type: tm+mt
-source-wordcount: '666'
-ht-degree: 0%
+source-wordcount: '634'
+ht-degree: 1%
 
 ---
 
@@ -25,7 +25,7 @@ Marketo의 사용자 지정 JavaScript 추적 코드([!DNL Munchkin])는 웹 사
 >
 >Adobe Experience Cloud 사용자는 [Adobe Launch의 Marketo 통합](https://exchange.adobe.com/apps/ec/100223/adobe-launch-core-extension){target="_blank"}을 사용하여 웹 페이지에 [!DNL Munchkin] 스크립트를 포함할 수도 있습니다. Adobe Launch를 사용하는 경우 _[!DNL Munchkin] 스크립트가 자동으로 추가됩니다_. 따라서 직접 추가할 필요는 없습니다.
 
-1. **[!UICONTROL 관리자]** 영역으로 이동합니다.
+1. **[!UICONTROL Admin]** 영역으로 이동합니다.
 
    ![](assets/add-munchkin-tracking-code-to-your-website-1.png)
 
@@ -33,13 +33,13 @@ Marketo의 사용자 지정 JavaScript 추적 코드([!DNL Munchkin])는 웹 사
 
    ![](assets/add-munchkin-tracking-code-to-your-website-2.png)
 
-1. **[!UICONTROL 추적 코드 형식]**&#x200B;에 대해 **[!UICONTROL 비동기]**&#x200B;을 선택합니다.
+1. **[!UICONTROL Tracking Code Type]**&#x200B;에 대해 **[!UICONTROL Asynchronous]**&#x200B;을(를) 선택하십시오.
 
    ![](assets/add-munchkin-tracking-code-to-your-website-3.png)
 
    >[!NOTE]
    >
-   >거의 모든 경우에 비동기 코드를 사용해야 합니다. [자세히 알아보기](#types-of-munchkin-tracking-codes).
+   >거의 모든 경우에 비동기 코드를 사용해야 합니다. [자세히 알아보기](#types-of-munchkin-tracking-codes)
 
 1. 을(를) 클릭하고 Javascript 추적 코드를 복사하여 웹 사이트에 넣습니다.
 
@@ -59,13 +59,13 @@ Marketo의 사용자 지정 JavaScript 추적 코드([!DNL Munchkin])는 웹 사
 
    >[!TIP]
    >
-   >많은 양의 트래픽(즉, 매월 수십만 건의 방문)이 표시되는 사이트의 경우 익명의 사용자를 추적하지 않도록 선택하는 것이 좋습니다. [자세히 알아보기](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/javascriptapi/lead-tracking/){target="_blank"}.
+   >많은 양의 트래픽(즉, 매월 수십만 건의 방문)이 표시되는 사이트의 경우 익명의 사용자를 추적하지 않도록 선택하는 것이 좋습니다. [자세히 알아보기](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/javascriptapi/leadtracking/lead-tracking){target="_blank"}
 
 ## 여러 작업 공간을 사용할 때 추적 코드 추가 {#add-tracking-code-when-using-multiple-workspaces}
 
 Marketo 계정에서 Workspaces를 사용하는 경우 작업 공간에 해당하는 별도의 웹 존재도 있을 수 있습니다. 이 경우 [!DNL Munchkin] 추적 Javascript를 사용하여 익명의 사용자를 올바른 작업 영역과 파티션에 할당할 수 있습니다.
 
-1. **[!UICONTROL 관리자]** 영역으로 이동합니다.
+1. **[!UICONTROL Admin]** 영역으로 이동합니다.
 
    ![](assets/add-munchkin-tracking-code-to-your-website-6.png)
 
@@ -79,9 +79,9 @@ Marketo 계정에서 Workspaces를 사용하는 경우 작업 공간에 해당�
 
    >[!NOTE]
    >
-   >특수 작업 영역 [!DNL Munchkin] 코드를 사용하지 않는 경우 계정을 설정할 때 만든 기본 파티션에 사람이 할당됩니다. 처음에는 &quot;[!UICONTROL Default]&quot;(이)라는 이름을 사용했지만, 자신의 Marketo 계정에서 이 이름을 변경했을 수 있습니다.
+   >특수 작업 영역 [!DNL Munchkin] 코드를 사용하지 않는 경우 계정을 설정할 때 만든 기본 파티션에 사람이 할당됩니다. 처음에는 &quot;[!UICONTROL Default]&quot;(이)라는 이름을 사용했지만, 자신의 Marketo 계정에서 변경했을 수 있습니다.
 
-1. **[!UICONTROL 추적 코드 형식]**&#x200B;에 대해 **[!UICONTROL 비동기]**&#x200B;을 선택합니다.
+1. **[!UICONTROL Tracking Code Type]**&#x200B;에 대해 **[!UICONTROL Asynchronous]**&#x200B;을(를) 선택하십시오.
 
    ![](assets/add-munchkin-tracking-code-to-your-website-9.png)
 
@@ -109,9 +109,9 @@ Marketo 계정에서 Workspaces를 사용하는 경우 작업 공간에 해당�
 
 선택할 수 있는 추적 코드 유형에는 세 가지가 있습니다. [!DNL Munchkin] 각각 웹 페이지 로드 시간에 영향을 줍니다.
 
-1. **[!UICONTROL 단순]**: 코드 줄이 가장 적지만 웹 페이지 로드 시간에 최적화되지 않습니다. 이 코드는 웹 페이지가 로드될 때마다 jQuery 라이브러리를 로드합니다.
-1. **[!UICONTROL 비동기]**: 웹 페이지 로드 시간을 줄입니다.
-1. **[!UICONTROL 비동기 jQuery]**: 웹 페이지 로드 시간을 줄이고 시스템 성능도 향상시킵니다. 이 코드는 사용자가 이미 jQuery를 가지고 있다고 가정하고 로드를 선택하지 않습니다.
+1. **[!UICONTROL Simple]**: 코드 줄이 가장 적지만 웹 페이지 로드 시간에 최적화되지 않습니다. 이 코드는 웹 페이지가 로드될 때마다 jQuery 라이브러리를 로드합니다.
+1. **[!UICONTROL Asynchronous]**: 웹 페이지 로드 시간을 줄입니다.
+1. **[!UICONTROL Asynchronous jQuery]**: 웹 페이지 로드 시간을 줄이고 시스템 성능도 향상시킵니다. 이 코드는 사용자가 이미 jQuery를 가지고 있다고 가정하고 로드를 선택하지 않습니다.
 
 ## [!DNL Munchkin] 코드가 작동하는지 테스트 {#test-if-your-munchkin-code-is-working}
 
@@ -123,19 +123,19 @@ Marketo 계정에서 Workspaces를 사용하는 경우 작업 공간에 해당�
 
    ![](assets/add-munchkin-tracking-code-to-your-website-12.png)
 
-1. **[!UICONTROL 웹 페이지 활동]**&#x200B;을 클릭합니다.
+1. **[!UICONTROL Web Page Activity]**&#x200B;을(를) 클릭합니다.
 
    ![](assets/add-munchkin-tracking-code-to-your-website-13.png)
 
-1. **[!UICONTROL 설정]** 탭을 클릭하고 **[!UICONTROL 활동 Source]**&#x200B;을 두 번 클릭합니다.
+1. **[!UICONTROL Setup]** 탭을 클릭하고 **[!UICONTROL Activity Source]**&#x200B;을(를) 두 번 클릭합니다.
 
    ![](assets/add-munchkin-tracking-code-to-your-website-14.png)
 
-1. [!UICONTROL Activity Source]을(를) **[!UICONTROL 익명 방문자(ISP 포함)]**(으)로 변경하고 **[!UICONTROL 적용]**&#x200B;을 클릭합니다.
+1. [!UICONTROL Activity Source]을(를) **[!UICONTROL Anonymous Visitors (including ISPs)]**(으)로 변경하고 **[!UICONTROL Apply]**&#x200B;을(를) 클릭합니다.
 
    ![](assets/add-munchkin-tracking-code-to-your-website-15.png)
 
-1. **[!UICONTROL 보고서]** 탭을 클릭합니다.
+1. **[!UICONTROL Report]** 탭을 클릭합니다.
 
    ![](assets/add-munchkin-tracking-code-to-your-website-16.png)
 

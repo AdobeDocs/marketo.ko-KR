@@ -4,16 +4,16 @@ description: 포털에 SSO(Single Sign-On) 추가 - Marketo 문서 - 제품 설�
 title: 포털에 SSO(Single Sign-On) 추가
 exl-id: 72f96239-7252-4cbc-bbe1-84ac7ae7f92e
 feature: Administration
-source-git-commit: 573a40c7d2ee7329d82d209bfefc284497295239
+source-git-commit: e3f61755dccd9bea1378a429fc428b440fc3ecb4
 workflow-type: tm+mt
-source-wordcount: '606'
+source-wordcount: '571'
 ht-degree: 0%
 
 ---
 
 # 포털에 SSO(Single Sign-On) 추가 {#add-single-sign-on-to-a-portal}
 
-사용자를 인증하는 디렉터리 서비스가 있는 경우 Marketo에 SSO(Single Sign-On)를 허용할 수 있습니다. [!DNL Security Assertion Markup Language] (SAML) 버전 2.0 이상을 사용하여 이 기능을 지원합니다.
+사용자를 인증하는 디렉터리 서비스가 있는 경우 Marketo에 SSO(Single Sign-On)를 허용할 수 있습니다. [!DNL Security Assertion Markup Language]&#x200B;(SAML) 버전 2.0 이상을 사용하여 이 기능을 지원합니다.
 
 Marketo은 SAML SP(서비스 공급자)로 작동하며 사용자를 인증하기 위해 외부 Id 제공업체(IdP)에 의존합니다.
 
@@ -29,7 +29,7 @@ SSO가 활성화되면 IdP는 사용자의 자격 증명을 확인할 수 있습
 
 >[!NOTE]
 >
->[!DNL Microsoft Azure] 사용자이십니까? [통합 자습서](https://azure.microsoft.com/en-us/documentation/articles/active-directory-saas-marketo-tutorial/){target="_blank"}를 확인하십시오. 참고로, 그들의 자습서의 5c단계에 오타가 있습니다. 릴레이 상태를 `https://<munchkinid>.mktoweb.com`, **_not_** `https://<munchkinid>.marketo.com`(으)로 설정하십시오.
+>[!DNL Microsoft Azure] 사용자이십니까? [통합 자습서](https://learn.microsoft.com/en-us/entra/identity/saas-apps/marketo-tutorial){target="_blank"}를 확인하십시오. 참고로, 그들의 자습서의 5c단계에 오타가 있습니다. 릴레이 상태를 `https://<munchkinid>.mktoweb.com`, **_not_** `https://<munchkinid>.marketo.com`(으)로 설정하십시오.
 
 ## 요청을 보내는 방법 {#how-to-send-the-request}
 
@@ -59,53 +59,53 @@ SSO가 활성화되면 IdP는 사용자의 자격 증명을 확인할 수 있습
 
 SSO는 기본적으로 비활성화되어 있습니다. 다음 단계에 따라 SAML을 활성화하고 구성합니다.
 
-1. **[!UICONTROL 관리자]** 영역으로 이동합니다.
+1. **[!UICONTROL Admin]** 영역으로 이동합니다.
 
    ![](assets/add-single-sign-on-to-a-portal-1.png)
 
-1. **[!UICONTROL Single Sign-On]**&#x200B;을 클릭합니다.
+1. **[!UICONTROL Single Sign-On]**&#x200B;을(를) 클릭합니다.
 
    ![](assets/add-single-sign-on-to-a-portal-2.png)
 
    >[!NOTE]
    >
-   >**[!UICONTROL 관리자]**&#x200B;의 **[!UICONTROL Single Sign-On]**&#x200B;이 표시되지 않으면 [Marketo 지원](https://nation.marketo.com/t5/Support/ct-p/Support){target="_blank"}에 문의하세요.
+   >**[!UICONTROL Admin]**&#x200B;에 **[!UICONTROL Single Sign-On]**&#x200B;이(가) 표시되지 않으면 [Marketo 지원](https://nation.marketo.com/t5/Support/ct-p/Support){target="_blank"}에 문의하십시오.
 
-1. **[!UICONTROL SAML 설정]** 섹션에서 **[!UICONTROL 편집]**&#x200B;을 클릭합니다.
+1. **[!UICONTROL SAML Settings]** 섹션 아래에서 **[!UICONTROL Edit]**&#x200B;을(를) 클릭합니다.
 
    ![](assets/add-single-sign-on-to-a-portal-3.png)
 
-1. **[!UICONTROL SAML Single Sign-On]**&#x200B;을(를) **[!UICONTROL 사용]**(으)로 변경합니다.
+1. **[!UICONTROL SAML Single Sign-On]**&#x200B;을(를) **[!UICONTROL Enabled]**(으)로 변경합니다.
 
    ![](assets/add-single-sign-on-to-a-portal-4.png)
 
-1. **[!UICONTROL 발급자 ID]**, **[!UICONTROL 엔티티 ID]**&#x200B;를 입력하고 **[!UICONTROL 사용자 ID 위치]**&#x200B;를 선택한 다음 **[!UICONTROL 찾아보기]**&#x200B;를 클릭합니다.
+1. **[!UICONTROL Issuer ID]**, **[!UICONTROL Entity ID]**&#x200B;을(를) 입력하고 **[!UICONTROL User ID Location]**&#x200B;을(를) 선택한 다음 **[!UICONTROL Browse]**&#x200B;을(를) 클릭합니다.
 
    ![](assets/add-single-sign-on-to-a-portal-5.png)
 
-1. **[!UICONTROL ID 공급자 인증서]** 파일을 선택하십시오.
+1. **[!UICONTROL Identity Provider Certificate]** 파일을 선택하십시오.
 
    ![](assets/add-single-sign-on-to-a-portal-6.png)
 
-1. **[!UICONTROL 저장]**&#x200B;을 클릭합니다.
+1. **[!UICONTROL Save]**&#x200B;을(를) 클릭합니다.
 
    ![](assets/add-single-sign-on-to-a-portal-7.png)
 
 ## 리디렉션 페이지 설정 업데이트 {#update-redirect-page-settings}
 
-1. **[!UICONTROL 페이지 리디렉션]** 섹션 아래에서 **[!UICONTROL 편집]**&#x200B;을 클릭합니다.
+1. **[!UICONTROL Redirect Pages]** 섹션 아래에서 **[!UICONTROL Edit]**&#x200B;을(를) 클릭합니다.
 
    ![](assets/add-single-sign-on-to-a-portal-8.png)
 
    >[!NOTE]
    >
-   >SSO와 함께 범용 ID를 사용하는 고객은 **[!UICONTROL 로그인 URL]** 필드에 ID 공급자의 로그인 URL을 입력해야 합니다.
+   >SSO와 함께 범용 ID를 사용하는 고객은 **[!UICONTROL Login URL]** 필드에 ID 공급자의 로그인 URL을 입력해야 합니다.
 
-1. **[!UICONTROL 로그아웃 URL]**&#x200B;을(를) 입력하십시오. Marketo에서 로그아웃할 때 사용자에게 표시할 URL입니다.
+1. **[!UICONTROL Logout URL]** 입력. Marketo에서 로그아웃할 때 사용자에게 표시할 URL입니다.
 
    ![](assets/add-single-sign-on-to-a-portal-9.png)
 
-1. **[!UICONTROL 오류 URL]**&#x200B;을(를) 입력하십시오. Marketo 로그인에 실패할 경우 사용자에게 표시하려는 URL입니다. **[!UICONTROL 저장]**&#x200B;을 클릭합니다.
+1. **[!UICONTROL Error URL]** 입력. Marketo 로그인에 실패할 경우 사용자에게 표시하려는 URL입니다. **[!UICONTROL Save]**&#x200B;을(를) 클릭합니다.
 
    ![](assets/add-single-sign-on-to-a-portal-10.png)
 
@@ -117,4 +117,4 @@ SSO는 기본적으로 비활성화되어 있습니다. 다음 단계에 따라 
 >
 >* [구독 로그인에 범용 ID 사용](/help/marketo/product-docs/administration/settings/using-a-universal-id-for-subscription-login.md){target="_blank"}
 >* [SSO로만 사용자 로그인 제한](/help/marketo/product-docs/administration/additional-integrations/restrict-user-login-to-sso-only.md){target="_blank"}
->* [Marketo 사용자를 유니버설 ID를 가진 두 개의 인스턴스에 초대](https://nation.marketo.com/t5/Knowledgebase/Inviting-Marketo-Users-to-Two-Instances-with-Universal-ID-UID/ta-p/251122){target="_blank"}
+>* [범용 ID를 사용하는 두 개의 인스턴스에 Marketo 사용자 초대](https://nation.marketo.com/t5/Knowledgebase/Inviting-Marketo-Users-to-Two-Instances-with-Universal-ID-UID/ta-p/251122){target="_blank"}

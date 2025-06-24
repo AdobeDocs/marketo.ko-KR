@@ -4,7 +4,7 @@ description: 하위 캠페인 만들기 및 로컬 Assets - Marketo 문서 - 제
 title: 하위 캠페인 및 로컬 Assets 만들기
 exl-id: 272105e1-43d6-455c-a533-aae65e859384
 feature: Events
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: e3f61755dccd9bea1378a429fc428b440fc3ecb4
 workflow-type: tm+mt
 source-wordcount: '665'
 ht-degree: 1%
@@ -50,7 +50,7 @@ Marketo을 사용하여 이벤트에 대한 확인 이메일을 보냅니다. �
 
 >[!TIP]
 >
->확인, 미리 알림 또는 후속 이메일을 보내도록 ON24를 구성할 수 있습니다. 자세한 내용은 [ON24 도움말 사이트](https://www.on24.com/live-webcast-elite/){target="_blank"}를 참조하십시오.
+>확인, 미리 알림 또는 후속 이메일을 보내도록 ON24를 구성할 수 있습니다. 자세한 내용은 [ON24 도움말 사이트](https://support.on24.com/hc/en-us/categories/26127314569115-Webcast-Elite){target="_blank"}를 참조하십시오.
 
 ## 등록 하위 캠페인 요구 사항 {#registration-child-campaign-requirements}
 

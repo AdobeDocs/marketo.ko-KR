@@ -4,10 +4,10 @@ description: 2단계/3단계 - Dynamics에서 Marketo 동기화 사용자 설정
 title: 2단계/3단계 - Dynamics에서 Marketo 동기화 사용자 설정(2011 온-프레미스)
 exl-id: 807c8902-24a6-48b6-a5c9-96a72764fdef
 feature: Microsoft Dynamics
-source-git-commit: 821d69736b1cbeac0c80718c58a7a3c471387545
+source-git-commit: e3f61755dccd9bea1378a429fc428b440fc3ecb4
 workflow-type: tm+mt
-source-wordcount: '365'
-ht-degree: 0%
+source-wordcount: '346'
+ht-degree: 1%
 
 ---
 
@@ -29,25 +29,25 @@ Marketo 동기화 사용자 역할만 Marketo 동기화 사용자에게 할당�
 
 >[!IMPORTANT]
 >
->동기화 사용자 [의 언어 설정은 영어로 설정해야 합니다](https://portal.dynamics365support.com/knowledgebase/article/KA-01201/en-us){target="_blank"}.
+>동기화 사용자 [의 언어 설정은 영어](https://learn.microsoft.com/en-us/power-platform/admin/enable-languages){target="_blank"}(으)로 설정해야 합니다.
 
-1. 왼쪽 아래 메뉴에서 **[!UICONTROL 설정]**&#x200B;을 선택합니다.
+1. 왼쪽 아래 메뉴에서 **[!UICONTROL Settings]**&#x200B;을(를) 선택합니다.
 
    ![](assets/image2015-4-2-14-3a2-3a40.png)
 
-1. 트리에서 **[!UICONTROL 관리]**&#x200B;를 선택합니다.
+1. 트리에서 **[!UICONTROL Administration]**&#x200B;을(를) 선택합니다.
 
    ![](assets/image2015-4-2-14-3a3-3a30.png)
 
-1. **[!UICONTROL 사용자]**&#x200B;를 선택하십시오.
+1. **[!UICONTROL Users]**&#x200B;를 선택합니다.
 
    ![](assets/image2015-4-2-14-3a4-3a37.png)
 
-1. 여기에 사용자 목록이 표시됩니다. 전용 Marketo 동기화 사용자를 선택하거나 [AFDS(Active Directory Federation Services)](https://msdn.microsoft.com/en-us/library/bb897402.aspx){target="_blank"} 관리자에게 문의하여 Marketo 전용 사용자를 새로 만드십시오. **[!UICONTROL 역할 관리]**&#x200B;를 클릭합니다.
+1. 여기에 사용자 목록이 표시됩니다. 전용 Marketo 동기화 사용자를 선택하거나 [AFDS(Active Directory Federation Services)](https://msdn.microsoft.com/en-us/library/bb897402.aspx){target="_blank"} 관리자에게 문의하여 Marketo 전용 사용자를 새로 만드십시오. **[!UICONTROL Manage Roles]**&#x200B;을(를) 클릭합니다.
 
    ![](assets/image2015-4-2-14-3a11-3a7.png)
 
-1. **[!UICONTROL Marketo 동기화 사용자]**&#x200B;를 확인하고 **[!UICONTROL 확인]**&#x200B;을 클릭합니다.
+1. **[!UICONTROL Marketo Sync User]**&#x200B;을(를) 확인하고 **[!UICONTROL OK]**&#x200B;을(를) 클릭합니다.
 
    ![](assets/image2015-4-2-14-3a15-3a0.png)
 
@@ -63,7 +63,7 @@ Marketo 동기화 사용자 역할만 Marketo 동기화 사용자에게 할당�
 
 거의 완료되었습니다! 다음 문서로 이동하기 전에 마지막으로 구성한 부분이 몇 개 있습니다.
 
-1. **[!UICONTROL 설정]**&#x200B;을 선택하세요. 그런 다음 트리에서 **[!UICONTROL Marketo 구성]**&#x200B;을 선택하십시오.
+1. **[!UICONTROL Settings]**&#x200B;을(를) 선택합니다. 그런 다음 트리에서 **[!UICONTROL Marketo Config]**&#x200B;을(를) 선택하십시오.
 
    ![](assets/image2015-4-2-14-3a20-3a51.png)
 
@@ -71,7 +71,7 @@ Marketo 동기화 사용자 역할만 Marketo 동기화 사용자에게 할당�
    >
    >Marketo 구성이 누락된 경우 페이지를 새로 고침해 보십시오. 문제가 지속되면 [Marketo 솔루션을 다시 게시](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/connecting-to-legacy-versions/step-1-of-3-install-2011.md){target="_blank"}하거나 로그아웃했다가 다시 로그인하십시오.
 
-1. **[!UICONTROL 기본값]**&#x200B;을 클릭합니다.
+1. **[!UICONTROL Default]**&#x200B;을(를) 클릭합니다.
 
    ![](assets/image2015-4-2-14-3a27-3a30.png)
 
@@ -79,15 +79,15 @@ Marketo 동기화 사용자 역할만 Marketo 동기화 사용자에게 할당�
 
    ![](assets/image2015-4-2-14-3a28-3a40.png)
 
-1. 팝업에서 동기화 사용자를 선택합니다. **[!UICONTROL 확인]**&#x200B;을 클릭합니다.
+1. 팝업에서 동기화 사용자를 선택합니다. 그런 다음 **[!UICONTROL OK]**&#x200B;를 클릭합니다.
 
    ![](assets/image2015-4-2-14-3a32-3a43.png)
 
-1. 변경 내용을 저장하려면 **[!UICONTROL 저장]**&#x200B;을 클릭하세요.
+1. 변경 내용을 저장하려면 **[!UICONTROL Save]**&#x200B;을(를) 클릭합니다.
 
    ![](assets/image2015-4-2-14-3a34-3a15.png)
 
-1. **[!UICONTROL 모든 사용자 지정 Publish]**&#x200B;을 클릭합니다.
+1. **[!UICONTROL Publish All Customizations]**&#x200B;을(를) 클릭합니다.
 
    ![](assets/publish-all-customizations1.png)
 
@@ -101,4 +101,4 @@ Marketo 동기화 사용자 역할만 Marketo 동기화 사용자에게 할당�
 
 >[!MORELIKETHIS]
 >
->[3단계/3: Microsoft Dynamics와 Marketo 연결(2011 온-프레미스)](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/connecting-to-legacy-versions/step-3-of-3-connect-2011.md){target="_blank"}
+>[3단계/3: Microsoft Dynamics과 Marketo 연결(2011 온-프레미스)](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/connecting-to-legacy-versions/step-3-of-3-connect-2011.md){target="_blank"}

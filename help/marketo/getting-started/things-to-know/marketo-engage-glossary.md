@@ -4,7 +4,7 @@ short-description: Marketo Engage 용어와 정의를 학습하면 빠르게 적
 title: Marketo Engage 용어집
 feature: Getting Started
 exl-id: 57b60323-fe4a-4de1-898d-282e5aefd3ed
-source-git-commit: 7a8f5146126d6e8a4902be9337eef4d51e108cf0
+source-git-commit: e3f61755dccd9bea1378a429fc428b440fc3ecb4
 workflow-type: tm+mt
 source-wordcount: '4065'
 ht-degree: 2%
@@ -444,7 +444,7 @@ ht-degree: 2%
  <tbody> 
   <tr> 
    <td><a href="/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/features/tabs-in-the-msi-panel/interesting-moments/using-interesting-moments.md" rel="nofollow"><strong>알려진 사람</strong></a></td> 
-   <td><p>Marketo <strong>데이터베이스</strong>의 모든 사용자 데이터는 알려진 사용자 데이터로 간주됩니다. CRM 동기화, 양식 작성, 목록 가져오기/수동 입력, 프로그래밍 방식(rest API/파트너 통합) 등 다양한 방법으로 사용자가 데이터베이스를 입력할 수 있습니다. 웹 방문자는 처음에 Marketo의 <strong>Munchkin</strong> 웹 추적을 통해 <strong>cookied</strong>(및 익명)되었다가 식별 가능한 작업이 발생하면(예: Marketo 이메일에서 추적된 링크를 클릭하거나, 이메일 주소로 양식을 작성하거나, Marketo 연결 리드 API를 통해 <a href="https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/javascriptapi/lead-tracking#known-and-anonymous-leads">Munchkin</a> 및 <a href="https://developer.adobe.com/marketo-apis/api/mapi/#tag/Leads/operation/associateLeadUsingPOST">Rest API</a>에서 수동으로 매핑됨) 해당 알려진 사용자 레코드로 매핑됩니다</p></td> 
+   <td><p>Marketo <strong>데이터베이스</strong>의 모든 사용자 데이터는 알려진 사용자 데이터로 간주됩니다. CRM 동기화, 양식 작성, 목록 가져오기/수동 입력, 프로그래밍 방식(rest API/파트너 통합) 등 다양한 방법으로 사용자가 데이터베이스를 입력할 수 있습니다. 웹 방문자는 처음에 Marketo의 <strong>Munchkin</strong> 웹 추적을 통해 <strong>cookied</strong>(및 익명)되었다가 식별 가능한 작업이 발생하면(예: Marketo 이메일에서 추적된 링크를 클릭하거나, 이메일 주소로 양식을 작성하거나, Marketo 연결 리드 API를 통해 <a href="https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/javascriptapi/leadtracking/lead-tracking#known-and-anonymous-leads">Munchkin</a> 및 <a href="https://developer.adobe.com/marketo-apis/api/mapi/#tag/Leads/operation/associateLeadUsingPOST">Rest API</a>에서 수동으로 매핑됨) 해당 알려진 사용자 레코드로 매핑됩니다</p></td> 
   </tr> 
  </tbody> 
 </table>
@@ -535,7 +535,7 @@ ht-degree: 2%
    <td>MSD라고도 합니다. 두 CRM 중 하나인 Marketo은 와 기본 통합이 있습니다(<a href="#c"><strong>CRM</strong></a> 참조).</td> 
   </tr> 
   <tr> 
-   <td><strong><a href="https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/javascriptapi/lead-tracking" rel="nofollow">Munchkin</a></strong></td> 
+   <td><strong><a href="https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/javascriptapi/leadtracking/lead-tracking" target="_blank">Munchkin</a></strong></td> 
    <td>Marketo의 사용자 지정 JavaScript 추적 코드. 웹 사이트를 방문하는 모든 개인을 추적합니다. 여기에는 익명 방문자(IP 주소 및 기타 정보 포함)가 포함됩니다. </td> 
   </tr> 
   <tr> 
@@ -727,7 +727,7 @@ ht-degree: 2%
    <td>세분화 내 범주(<strong>세분화</strong> 참조).</td> 
   </tr> 
   <tr> 
-   <td colspan="1"><strong><a href="/help/marketo/product-docs/personalization/segmentation-and-snippets/segmentation/understanding-dynamic-content.md#segmentation" rel="nofollow">세그먼테이션</a></strong></td> 
+   <td colspan="1"><strong><a href="/help/marketo/product-docs/personalization/segmentation-and-snippets/segmentation/understanding-dynamic-content.md#segmentation" rel="nofollow">세분화</a></strong></td> 
    <td colspan="1">지정한 <strong>스마트 목록</strong> 규칙을 기반으로 <strong>데이터베이스</strong>에 있는 사람들을 함께 그룹화합니다. 예를 들어 산업이라는 세그먼테이션이 있을 수 있으며 이 세그먼트 내의 카테고리는 의료, 기술, 금융 등일 수 있습니다. 세그먼테이션을 사용하면 선택한 인구 통계에 따라 전체 사용자 그룹으로 마케팅할 수 있습니다.</td> 
   </tr> 
   <tr> 

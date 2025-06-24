@@ -4,9 +4,9 @@ description: 역할 권한 설명 - Marketo 문서 - 제품 설명서
 title: 역할 권한 설명
 exl-id: 00963cd9-2d53-455f-bc6f-42a573468ff9
 feature: Users and Roles
-source-git-commit: c79de5b87d75c26aeec5f8d39252dc303dabeac8
+source-git-commit: e3f61755dccd9bea1378a429fc428b440fc3ecb4
 workflow-type: tm+mt
-source-wordcount: '1448'
+source-wordcount: '1447'
 ht-degree: 0%
 
 ---
@@ -33,7 +33,7 @@ ht-degree: 0%
 
 * Adobe Connect 액세스 - 사용자에게 Adobe Connect 화면에 대한 액세스 권한을 제공합니다.
 * Adobe Experience Manager 액세스&#42; - 사용자에게 Adobe Experience Manager 화면에 대한 액세스 권한을 제공합니다.
-* Adobe 조직 매핑 액세스&#42; - 사용자에게 Adobe 조직 매핑 화면에 대한 액세스 권한을 제공합니다.
+* Adobe 조직 매핑에 액세스&#42; - 사용자에게 Adobe 조직 매핑 화면에 대한 액세스 권한을 제공합니다.
 * 관리자 감사 추적 액세스&#42; - 사용자에게 관리자 감사 추적 화면에 대한 액세스 권한을 제공합니다.
 * 액세스 액세스 감사 추적&#42; - 사용자에게 액세스 감사 추적에 대한 액세스 권한을 부여합니다.
 * 감사 추적 액세스 - 사용자에게 자산 감사 추적 및 관리자 감사 추적에 대한 액세스 권한을 제공합니다.
@@ -41,7 +41,7 @@ ht-degree: 0%
 * 액세스 채널 - 사용자에게 다른 사용자 지정 태그가 아닌 채널 태그를 수정할 수 있는 액세스 권한만 제공합니다.
 * 액세스 통신 제한 - 관리에서 통신 제한을 활성화할 수 있는 액세스 권한을 사용자에게 부여합니다.
 * CRM 액세스 - 사용자에게 관리자의 [!DNL Salesforce] 또는 [!DNL Microsoft Dynamics] 같은 CRM에 대한 액세스 권한을 제공합니다.
-* 액세스 [[!DNL Data.com]](https://data.com) - 사용자에게 Data.com 흐름 작업에 대한 액세스 권한을 제공합니다.
+* 액세스 `Data.com` - 사용자에게 Data.com 흐름 작업에 대한 액세스 권한을 제공합니다.
 * 이메일 관리자 액세스 - 사용자에게 이메일 관리자에 대한 액세스 권한을 부여하여 구독 취소 및 브랜딩 도메인과 같은 기본 설정을 변경할 수 있습니다.
 * 액세스 이벤트 파트너 - 사용자에게 관리자의 LaunchPoint에 대한 액세스 권한을 제공합니다.
 * Experience Cloud 대상 공유 액세스 - 사용자에게 Adobe Experience Cloud에서 Marketo Engage으로 대상을 동기화할 수 있는 액세스 권한을 제공합니다.
@@ -58,7 +58,7 @@ ht-degree: 0%
 * Predictive Audiences 액세스&#42; - 사용자에게 Predictive Audiences 화면에 대한 액세스 권한을 제공합니다.
 * 수익 주기 분석 액세스 - 동기화 요약 및 속성을 설정할 수 있도록 관리에서 수익 주기 분석에 대한 액세스 권한을 사용자에게 제공합니다.
 * 액세스 역할 - 사용자에게 역할 관리 및 편집에 대한 액세스 권한을 부여하지만 사용자는 부여하지 않습니다.
-* Sales Insight 액세스 - 상태, API 구성, 개인 점수 및 기타 설정을 설정하기 위해 Admin에서 Sales Insight를 관리할 수 있는 액세스 권한을 사용자에게 제공합니다
+* Sales Insight 액세스 - 상태, API 구성, 개인 점수 및 기타 설정을 설정하기 위해 관리자에서 Sales Insight을 관리할 수 있는 액세스 권한을 사용자에게 제공합니다
 * SSO(Single Sign-On) 액세스 - SAML을 활성화하고 SAML 설정 및 리디렉션 페이지 URL을 사용하여 작업할 수 있도록 관리자에서 SSO(Single Sign-On)를 관리할 수 있는 액세스 권한을 사용자에게 제공합니다.
 * 스마트 캠페인 액세스 - 적격 인원에 대한 제한을 제한할 수 있도록 관리자의 스마트 캠페인에 대한 액세스 권한을 사용자에게 제공합니다.
 * SOAP API 액세스 - 사용자에게 Admin의 웹 서비스에서 SOAP API를 관리할 수 있는 액세스 권한을 제공합니다.
@@ -108,11 +108,11 @@ _&#42;기존 사용자가 중단되는 것을 방지하기 위해 이 권한은 
 
 _&#42;기존 사용자가 중단되는 것을 방지하기 위해 이 권한은 수동 모드로 도입되고 있으며 현재 표시되지만 액세스할 수 없습니다. 2024년 중반에 활성화될 때 구현하는 방법을 알려 드리겠습니다._
 
-## Calendar Presentations 액세스 {#access-calendar-presentations}
+## 캘린더 프레젠테이션에 액세스 {#access-calendar-presentations}
 
-사용자에게 달력 프레젠테이션에 대한 액세스 권한을 부여합니다. - 하단에 Presentations 단추를 표시할 수 있습니다.
+사용자에게 달력 프레젠테이션에 대한 액세스 권한을 부여합니다. - 하단에 프레젠테이션 단추를 표시할 수 있습니다.
 
-* 달력 편집 Presentations - 사용자가 달력에서 프레젠테이션을 편집할 수 있도록 설정
+* 달력 프레젠테이션 편집 - 달력에서 사용자가 프레젠테이션을 편집할 수 있도록 설정
 
 ## Design Studio 액세스 {#access-design-studio}
 

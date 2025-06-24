@@ -4,7 +4,7 @@ description: 익명 활동 및 사용자 추적 - Marketo 문서 - 제품 설명
 title: 익명 활동 및 사용자 추적
 exl-id: 95a39e57-4636-4bae-8ca8-00cb43cb566c
 feature: Reporting
-source-git-commit: 2b610cc3486b745212b0b1f36018a83214d7ecd7
+source-git-commit: e3f61755dccd9bea1378a429fc428b440fc3ecb4
 workflow-type: tm+mt
 source-wordcount: '221'
 ht-degree: 0%
@@ -29,7 +29,7 @@ ht-degree: 0%
 
    * Marketo 전자 메일의 [링크를 클릭합니다](/help/marketo/product-docs/email-marketing/general/using-tokens/add-tokens-to-an-email-link.md).
    * Marketo [form](/help/marketo/product-docs/demand-generation/forms/creating-a-form/create-a-form.md)을(를) 채웁니다.
-   * Marketo의 [REST API](https://experienceleague.adobe.com/ko/docs/marketo-developer/marketo/rest/lead-database/leads) 또는 [Munchkin](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/javascriptapi/lead-tracking) API(개발자용)를 사용하여 익명 활동을 알려진 레코드와 연결합니다.
+   * Marketo의 [REST API](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/rest/lead-database/leads) 또는 [Munchkin](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/javascriptapi/leadtracking/lead-tracking) API(개발자용)를 사용하여 익명 활동을 알려진 레코드와 연결합니다.
 
    사람들이 사이트를 방문하기 위해 서로 다른 디바이스와 브라우저를 사용하는 경우가 많기 때문에 데이터베이스의 한 이름이 많은 쿠키에 연결되어 있을 수 있습니다.
 
