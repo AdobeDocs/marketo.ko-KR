@@ -35,7 +35,7 @@ ht-degree: 0%
 
 ## 리드 REST API {#lead-rest-api}
 
-새로운 ReST API를 통해 프로그래밍 방식으로 리드를 만들고, 읽고, 업데이트합니다. ReST를 시작하려면 Marketo에서 [사용자 지정 서비스를 만들기](/help/marketo/product-docs/administration/additional-integrations/create-a-custom-service-for-use-with-rest-api.md)해야 합니다. 그런 다음 [개발자 사이트](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/rest/rest-api)&#x200B;(으)로 이동하여 이 API 사용에 대한 자세한 내용을 확인하십시오.
+새로운 ReST API를 통해 프로그래밍 방식으로 리드를 만들고, 읽고, 업데이트합니다. ReST를 시작하려면 Marketo에서 [사용자 지정 서비스를 만들기](/help/marketo/product-docs/administration/additional-integrations/create-a-custom-service-for-use-with-rest-api.md)해야 합니다. 그런 다음 [개발자 사이트](https://experienceleague.adobe.com/ko/docs/marketo-developer/marketo/rest/rest-api)&#x200B;(으)로 이동하여 이 API 사용에 대한 자세한 내용을 확인하십시오.
 
 ## Marketo 실시간 Personalization(RTP) 캠페인 페이지 업데이트 {#marketo-real-time-personalization-rtp-campaigns-page-update}
 
