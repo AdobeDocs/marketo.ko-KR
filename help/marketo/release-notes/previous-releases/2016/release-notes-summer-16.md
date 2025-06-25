@@ -99,7 +99,7 @@ Marketo 내에서 SMS 메시지를 쉽게 만들 수 있습니다. 풍부한 Mar
 
 컨텐츠 분석 및 권장 사항 데이터를 오프라인으로 봅니다.
 
-## 전자 메일 편집기 2.0에 대한 [API 지원](https://developers.marketo.com/documentation/asset-api/) {#api-support-for-email-editor}
+## [전자 메일 편집기 2.0에 대한 API 지원](https://developers.marketo.com/documentation/asset-api/) {#api-support-for-email-editor}
 
 이전에 v1.0 이메일 및 템플릿과만 호환되는 기존 에셋 API가 이제 v2.0 이메일 에셋에 대해 활성화됩니다.
 
