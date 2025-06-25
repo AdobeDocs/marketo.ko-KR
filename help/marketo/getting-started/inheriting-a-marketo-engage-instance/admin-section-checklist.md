@@ -3,7 +3,7 @@ description: 상속된 인스턴스 관리 검사 목록 - Marketo 문서 - 제�
 title: 상속된 인스턴스 관리 검사 목록
 feature: Getting Started
 exl-id: 088f3ce9-bf3d-4323-9cde-c39fec06c20e
-source-git-commit: 2b610cc3486b745212b0b1f36018a83214d7ecd7
+source-git-commit: b95458ffab422901ef5e674756ae5e413ec542fd
 workflow-type: tm+mt
 source-wordcount: '1858'
 ht-degree: 1%
@@ -16,13 +16,13 @@ ht-degree: 1%
 
 >[!TIP]
 >
->새로운 Marketo Engage 사용자이고 여러 용어에 익숙하지 않은 경우 [Marketo Engage 용어집](/help/marketo/getting-started/things-to-know/marketo-engage-glossary.md){target="_blank"}을 확인하세요.
+>새로운 Marketo Engage 사용자이고 많은 용어에 익숙하지 않은 경우 [Marketo Engage 용어집](/help/marketo/getting-started/things-to-know/marketo-engage-glossary.md){target="_blank"}을 확인하세요.
 
-## Identity Management Adobe {#adobe-identity-management}
+## Adobe Identity Management {#adobe-identity-management}
 
 >[!NOTE]
 >
->[IMS(Adobe Identity Management System)](/help/marketo/product-docs/administration/marketo-with-adobe-identity/adobe-identity-management-overview.md){target="_blank"}에 온보딩된 Marketo Engage 구독에만 적용됩니다. 구독이 아직 Adobe IMS에 온보딩되지 않았다면 Marketo Engage > 관리 > 사용자 및 역할에서 [기존 사용자 역할 및 권한 경험](/help/marketo/product-docs/administration/users-and-roles/managing-user-roles-and-permissions.md){target="_blank"}을 계속 진행하십시오.
+>[Adobe IMS(Identity Management System)](/help/marketo/product-docs/administration/marketo-with-adobe-identity/adobe-identity-management-overview.md){target="_blank"}에 온보딩된 Marketo Engage 구독에만 적용됩니다. 구독이 아직 Adobe IMS에 온보딩되지 않았다면 Marketo Engage > 관리 > 사용자 및 역할에서 [기존 사용자 역할 및 권한 경험](/help/marketo/product-docs/administration/users-and-roles/managing-user-roles-and-permissions.md){target="_blank"}을 계속 진행하십시오.
 
 <table> 
  <tbody> 
@@ -33,7 +33,7 @@ ht-degree: 1%
   <tr> 
    <td>구독 및 Marketo Engage 제품 관리자</td> 
    <td><li>Marketo Engage 구독이 <a href="/help/marketo/product-docs/administration/marketo-with-adobe-identity/adobe-identity-management-overview.md" target="_blank">Adobe IMS</a>(으)로 마이그레이션되었습니까? 
-<br/>     그렇다면 'Adobe Admin Console 시스템 관리자'로부터 'Adobe Admin Console 제품 관리자' 역할이 부여되었습니까? 조직의 콘솔 관리자 권한이 있는 사용자를 모를 경우 <a href="https://helpx.adobe.com/kr/contact.html" target="_blank">고객 지원 Adobe</a>에 문의하세요.</li>
+<br/>     그렇다면 'Adobe Admin Console 시스템 관리자'로부터 'Adobe Admin Console 제품 관리자' 역할이 부여되었습니까? 조직의 콘솔 관리자 권한이 있는 사용자를 모를 경우 <a href="https://helpx.adobe.com/contact.html" target="_blank">Adobe 고객 지원 센터</a>에 문의하십시오.</li>
 <li>'Marketo Engage 제품 관리자' 초대를 수락했습니까? Adobe Admin Console에서 역할이 할당되면 이메일이 전송됩니다.
 <br/>     없는 경우 받은 편지함에서 <a href="/help/marketo/product-docs/administration/marketo-with-adobe-identity/admin-setup.md#initial-setup" target="_blank">환영 이메일</a>을 찾아 초대를 수락하여 Adobe ID을 활성화하십시오.</li></td>
   </tr>
@@ -41,7 +41,7 @@ ht-degree: 1%
    <td>제품 프로필</td> 
    <td><li>모든 적절한 사용자가 Adobe Admin Console에서 Marketo Engage의 제품 프로필에 할당됩니까?
 <br/>     그렇지 않은 경우 Adobe Admin Console의 Marketo Engage 제품 프로필에서 <a href="/help/marketo/product-docs/administration/marketo-with-adobe-identity/add-or-remove-a-user.md" target="_blank">사용자를 추가 및/또는 제거</a>해야 합니다. 제품 프로필에 추가된 경우 Marketo Engage &gt; 관리자 &gt; 사용자 및 역할에서 사용자 역할을 할당할 수 없습니다.</li>
-<p><img src="assets/note-icon.png" alt="메모 아이콘"> 참고: 원치 않는 사용자가 여러 제품 프로필에 추가되면 모든 제품 프로필에서 사용자를 제거해야 합니다. 그렇지 않으면, 여전히 Marketo Engage에 액세스할 수 있습니다.</td>
+<p><img src="assets/note-icon.png" alt="메모 아이콘"> 참고: 원치 않는 사용자가 여러 제품 프로필에 추가되면 모든 제품 프로필에서 사용자를 제거해야 합니다. 그렇지 않으면 Marketo Engage에 계속 액세스할 수 있습니다.</td>
   </tr>
   <tr> 
    <td>사용자 관리 API</td> 
@@ -62,7 +62,7 @@ ht-degree: 1%
   </tr> 
   <tr> 
    <td>사용자</td> 
-   <td><img src="assets/note-icon.png" alt="메모 아이콘"> 참고: 구독이 이미 Adobe IMS에 등록되어 있는 경우 Adobe Admin Console에서 다음 사용자 관리 검토를 계속 진행하십시오. 그렇지 않으면 [관리] &gt; [사용자 및 역할] &gt; [Marketo Engage의 사용자]로 이동합니다.
+   <td><img src="assets/note-icon.png" alt="메모 아이콘"> 참고: 구독이 이미 Adobe IMS에 등록되어 있는 경우 Adobe Admin Console에서 다음 사용자 관리 검토를 계속 진행하십시오. 그렇지 않으면 Marketo Engage의 관리자 &gt; 사용자 및 역할 &gt; 사용자 로 이동합니다.
    <p>
    <li><a href="/help/marketo/product-docs/administration/users-and-roles/managing-marketo-users.md" target="_blank">사용자가 몇 명입니까</a>?</li>
 <li><a href="/help/marketo/product-docs/administration/marketo-with-adobe-identity/add-or-remove-a-user.md#remove-a-user" target="_blank">제거</a>해야 하는 사용자가 있습니까?</li>
@@ -73,13 +73,13 @@ ht-degree: 1%
   </tr>
   <tr> 
    <td>역할</td> 
-   <td><img src="assets/note-icon.png" alt="메모 아이콘"> 참고: Adobe ID와 함께 Marketo을 사용하든 사용하지 않든, 관리 &gt; 사용자 및 역할 &gt; 역할 아래의 Marketo Engage에서 역할 권한 검토를 계속 진행하십시오.
+   <td><img src="assets/note-icon.png" alt="메모 아이콘"> 참고: Adobe ID와 함께 Marketo을 사용하든 사용하지 않든 관리 &gt; 사용자 및 역할 &gt; 역할 아래에서 Marketo Engage의 역할 권한 검토를 계속 진행하십시오.
    <p><li>역할이 몇 개 있습니까?</li>  
 <li>각 역할에 있는 <a href="/help/marketo/product-docs/administration/users-and-roles/descriptions-of-role-permissions.md" target="_blank">권한/액세스</a>는 무엇입니까? 조정해야 합니까?</li>
 <li>역할당 사용자가 몇 명입니까?</li>
 <li>사용자가 <a href="/help/marketo/product-docs/administration/audit-trail/user-login-history.md" target="_blank">로그인</a>하는 빈도는 얼마나 됩니까?</li>
 <li>각 API 사용자의 <a href="/help/marketo/product-docs/administration/users-and-roles/create-an-api-only-user-role.md" target="_blank">고유한 사용자 역할</a>이 있습니까? 그렇지 않은 경우 이 기능을 구현하여 문제를 더 쉽게 해결할 수 있습니다.</li> 
-<li>사용자 역할 및 권한이 규정 준수(예: <a href="https://gdpr-info.eu/" target="_blank">GDPR</a>)를 위해 회사 데이터 개인정보 처리방침과 일치합니까? 회사 데이터 <a href="/help/marketo/product-docs/core-marketo-concepts/miscellaneous/privacy-management.md" target="_blank">개인정보 처리방침</a>을(를) 통해 사용자가 Marketo Engage 사용자 데이터를 다운로드하고 공유할 수 있습니까? 허가 업무가 필요합니까?</li></td>
+<li>사용자 역할 및 권한이 규정 준수를 위해 회사 데이터 개인정보 처리방침(예: <a href="https://gdpr-info.eu/" target="_blank">GDPR</a>)과 일치합니까? 회사 데이터 <a href="/help/marketo/product-docs/core-marketo-concepts/miscellaneous/privacy-management.md" target="_blank">개인정보 처리방침</a>을 통해 사용자가 Marketo Engage 사용자 데이터를 다운로드하고 공유할 수 있습니까? 허가 업무가 필요합니까?</li></td>
   </tr>
   <tr> 
    <td>사용자 지원</td> 
@@ -190,7 +190,7 @@ ht-degree: 1%
 <li>특정 프로그램 유형과 관련된 채널?</li>
 <li>각 채널에 대해 성공으로 간주되는 상태는 무엇입니까? 이것이 마케팅 목표와 일치합니까?</li>
 <li>운영 채널이 적절하게 사용되고 있습니까?</li>
-<li>고급 Report Builder(Revenue Cycle Explorer/RCE)의 경우 채널 분석 비헤이비어가 기간 비용을 통합하는 프로그램 관행에 맞게 설정되었습니까?</li></td>
+<li>Advanced Report Builder(Revenue Cycle Explorer/RCE)의 경우 채널 분석 비헤이비어가 기간 비용을 통합하는 프로그램 관행에 맞게 설정되었습니까?</li></td>
   </tr>
   <tr> 
    <td>마케팅 달력(해당되는 경우)</td> 
@@ -278,10 +278,10 @@ ht-degree: 1%
 <br/>     랜딩 페이지 에셋에 "http" URL이 포함되어 있는지 확인합니다.</li></td>
   </tr>
   <tr> 
-   <td>먼치킨</td> 
-   <td><li>웹 사이트에서 <a href="/help/marketo/product-docs/administration/additional-integrations/add-munchkin-tracking-code-to-your-website.md" target="_blank">Munchkin 추적 코드</a>를 사용하고 있습니까(Marketo Engage 랜딩 페이지 아님)?</li>
+   <td>Munchkin</td> 
+   <td><li><a href="/help/marketo/product-docs/administration/additional-integrations/add-munchkin-tracking-code-to-your-website.md" target="_blank">Munchkin 추적 코드</a>이(가) 웹 사이트(Marketo Engage 랜딩 페이지 아님)에 있습니까?</li>
 <li><a href="/help/marketo/product-docs/administration/settings/edit-do-not-track-browser-support-settings.md" target="_blank">추적 안 함</a> 브라우저 요청이 활성화되었습니까?</li>
-<li><a href="https://experienceleague.adobe.com/docs/marketo-developer/marketo/javascriptapi/lead-tracking.html" target="_blank">Munchkin API</a>이(가) 구성되어 있습니까? 
+<li><a href="https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/javascriptapi/leadtracking/lead-tracking" target="_blank">Munchkin API</a>가 구성되어 있습니까? 
 <p><img src="assets/tip-icon.png" alt="팁 아이콘">팁: 웹 사이트에서 munchkin 코드가 있는 위치에 대한 설명서가 없으면 <a href="/help/marketo/product-docs/reporting/basic-reporting/report-types/web-page-activity-report.md" target="_blank">웹 페이지 활동 보고서</a>를 만들어 모든 URL을 볼 수 있습니다.</li></td>
   </tr>
   <tr> 
@@ -292,28 +292,28 @@ ht-degree: 1%
 <br/>     그런 경우에는 API를 늘리거나 인스턴스를 감사하여 해당 API 호출을 줄여 보십시오.</li></td>
   </tr>
   <tr> 
-   <td>Adobe Dynamic Chat(해당되는 경우)</td> 
-<td>아래 단계를 따라 <a href="https://adminconsole.adobe.com/" target="_blank">Adobe Admin Console</a>에 액세스해야 합니다. 아직 Adobe ID을 설정하지 않은 경우 <a href="https://helpx.adobe.com/kr/manage-account/using/create-update-adobe-id.html" target="_blank">여기에서 설정하는 방법을 알아보세요</a>.
+   <td>Adobe Dynamic Chat (해당되는 경우)</td> 
+<td>아래 단계를 따라 <a href="https://adminconsole.adobe.com/" target="_blank">Adobe Admin Console</a>에 액세스해야 합니다. 아직 Adobe ID을 설정하지 않은 경우 <a href="https://helpx.adobe.com/manage-account/using/create-update-adobe-id.html" target="_blank">여기에서 설정하는 방법을 알아보세요</a>.
 <br/>
-<li><a href="/help/marketo/product-docs/demand-generation/dynamic-chat/setup-and-configuration/initial-setup.md" target="_blank">Dynamic Chat 제품 관리자</a> 초대를 수락했습니까? Marketo Engage 인스턴스에서 Dynamic Chat이 활성화되고 시스템 관리자로 지정되면 이메일이 전송됩니다.
+<li><a href="/help/marketo/product-docs/demand-generation/dynamic-chat/setup-and-configuration/initial-setup.md" target="_blank">Dynamic Chat 제품 관리자</a> 초대를 수락했습니까? Dynamic Chat이 Marketo Engage 인스턴스에서 활성화되고 사용자가 시스템 관리자로 지정되면 이메일이 전송됩니다.
 <br/>     없는 경우 받은 편지함에서 환영 이메일을 찾고 초대를 수락하여 Adobe ID을 설정합니다.</li>   
 <li>Adobe Admin Console의 Dynamic Chat 제품 프로필에 <a href="/help/marketo/product-docs/demand-generation/dynamic-chat/setup-and-configuration/add-or-remove-chat-users.md#add-a-chat-user" target="_blank">원하는 사용자</a>를 추가했습니까?
-<li>자격 있는 사용자에게 Adobe ID에 추가된 Dynamic Chat 제품 프로필이 있는지 확인하십시오. 제품 프로필에 추가된 경우 Marketo Engage &gt; 관리자 &gt; 사용자 및 역할에서 '액세스 Dynamic Chat' 역할을 할당할 수 없습니다.</li>
+<li>적격한 사용자에게 Dynamic Chat 제품 프로필이 Adobe ID에 추가되었는지 확인합니다. 제품 프로필에 추가된 경우 Marketo Engage &gt; 관리자 &gt; 사용자 및 역할에서 'Dynamic Chat 액세스' 역할을 할당할 수 없습니다.</li>
 <li>제품 프로필 탭에서 기본 프로필 권한이 조직의 필요에 맞게 조정됩니까?<br/> 
 그렇지 않은 경우 특정 프로필에 대한 권한을 편집합니다. </li>
 <li>구독이 두 개 이상인 경우 사용자가 올바른 구독에 추가되고 있습니까?</li>
 <br>
 사용자 및 역할 설정 감사를 마치면 Dynamic Chat에 로그인하여 감사를 계속합니다.  
-<li>Dynamic Chat에 <a href="/help/marketo/product-docs/demand-generation/dynamic-chat/integrations/adobe-marketo-engage.md" target="_blank">Marketo Engage 인스턴스를 연결</a>했습니까?</li>
+<li>Marketo Engage 인스턴스를 <a href="/help/marketo/product-docs/demand-generation/dynamic-chat/integrations/adobe-marketo-engage.md" target="_blank">연결했습니까</a>. Dynamic Chat에 연결했습니까?</li>
 <li>사전 정의된 권한이 있는 5개의 기본 프로필을 조직에 적용할 수 있습니까?<br/> 
      그렇지 않으면 <a href="/help/marketo/product-docs/demand-generation/dynamic-chat/setup-and-configuration/permissions.md#edit-existing-permissions" target="_blank">Dynamic Chat에서 편집할 수 있습니다</a>. 사용자 지정 사용 권한 집합을 사용하여 <a href="/help/marketo/product-docs/demand-generation/dynamic-chat/setup-and-configuration/permissions.md#create-a-profile" target="_blank">사용자 지정 프로필을 만들기</a>할 수도 있습니다.</li>
 <li>사용자에게 Dynamic Chat에 대한 액세스 권한을 제공하려면 관리 &gt; 사용자 및 역할 &gt; 역할에서 적용 가능한 Marketo Engage 역할에 대해 "Dynamic Chat 액세스"를 선택했습니까?
-<br/><img src="assets/note-icon.png" alt="메모 아이콘"> 참고: '관리자' 및 '마케팅 사용자' 역할에는 Dynamic Chat 액세스 권한이 있어야 합니다.</li>
+<br/><img src="assets/note-icon.png" alt="메모 아이콘"> 참고: '관리자' 및 '마케팅 사용자' 역할은 Dynamic Chat에 액세스할 수 있어야 합니다.</li>
 </td>
   </tr>
-  <td>Marketo Sales Insight(해당되는 경우)</td> 
+  <td>Marketo Sales Insight (해당되는 경우)</td> 
    <td><li><a href="/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/installation/install-marketo-sales-insight-package-in-salesforce-appexchange.md" target="_blank">MSI 패키지가 설치되었습니까</a>?</li>
-<li><a href="/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/upgrading/upgrading-your-msi-package.md" target="_blank">최신 버전의 Sales Insight로 업그레이드</a>했습니까?</li>
+<li><a href="/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/upgrading/upgrading-your-msi-package.md" target="_blank">최신 버전의 Sales Insight으로 업그레이드</a>했습니까?</li>
 <li>Sales Insight 구성을 완료했습니까? <br/>     Enterprise/Unlimited 사용자 <a href="/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/configuration/configure-marketo-sales-insight-in-salesforce-enterprise-unlimited.md" target="_blank">여기를 클릭</a>, Professional 사용자 <a href="/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/configuration/configure-marketo-sales-insight-in-salesforce-professional-edition.md" target="_blank">여기를 클릭</a>.</li>
 <li>구매한 시트 수에 따라 <a href="/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/configuration/add-sales-insight-permission-set.md" target="_blank">사용자에게 액세스 권한을 부여</a>받았습니까?</li>
 <li><a href="/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/features/stars-and-flames/customize-stars-and-flames.md" target="_blank">별과 불꽃</a>을(를) 사용자 지정했습니까?</li></td>
