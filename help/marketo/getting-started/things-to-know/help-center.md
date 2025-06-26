@@ -3,7 +3,7 @@ description: 도움말 센터 - Marketo Engage 문서 - 제품 설명서
 title: 도움말 센터
 feature: Getting Started
 exl-id: 3dd7c005-a416-4808-9418-9114df76d963
-source-git-commit: 78497d45949d40486ee87bd888477ba6a85d76ba
+source-git-commit: 8ff62b372b4d0f98ab88c569bdc3608eb63b70c7
 workflow-type: tm+mt
 source-wordcount: '312'
 ht-degree: 2%
@@ -16,13 +16,13 @@ Adobe Marketo Engage의 도움말 센터는 지원을 받을 수 있는 중앙 �
 
 ## 액세스 방법 {#how-to-access}
 
-구독이 아직 IMS(Adobe Identity Management System)로 마이그레이션되었는지 여부에 따라 두 가지 다른 경험이 있습니다.
+구독이 아직 Adobe Identity Management System(IMS)으로 마이그레이션되었는지 여부에 따라 두 가지 다른 경험이 있습니다.
 
 ### Adobe IMS 이전 마이그레이션 {#pre-adobe-ims-integration}
 
-이 단계는 아직 [Adobe IMS](/help/marketo/product-docs/administration/marketo-with-adobe-identity/adobe-identity-management-overview.md)(으)로 마이그레이션되지 _않은_&#x200B;을(를) 가진 Marketo Engage 사용자를 위한 것입니다.
+이 단계는 아직 [Adobe IMS](/help/marketo/product-docs/administration/marketo-with-adobe-identity/adobe-identity-management-overview.md){target="_blank"}(으)로 마이그레이션되지 _않은_&#x200B;을(를) 가진 Marketo Engage 사용자를 위한 것입니다.
 
-Marketo Engage에 [로그인](http://login.marketo.com/)하고 도움말 아이콘을 클릭합니다.
+Marketo Engage에 [로그인](https://login.marketo.com/){target="_blank"}하고 도움말 아이콘을 클릭합니다.
 
 ![](assets/help-center-1.png)
 
@@ -60,7 +60,7 @@ Marketo Engage에 [로그인](http://login.marketo.com/)하고 도움말 아이�
 
 >[!TIP]
 >
->Experience League 페이지를 보려면 맨 아래에 있는 화살표 아이콘을 클릭합니다.
+>Experience League에서 페이지를 보려면 맨 아래에 있는 화살표 아이콘을 클릭합니다.
 
 #### 리소스 {#resources}
 
@@ -70,9 +70,9 @@ Marketo Engage에 [로그인](http://login.marketo.com/)하고 도움말 아이�
 
 ### Adobe IMS 이후 마이그레이션 {#post-adobe-ims-integration}
 
-이러한 단계는 [Adobe IMS](/help/marketo/product-docs/administration/marketo-with-adobe-identity/adobe-identity-management-overview.md)(으)로 이미 마이그레이션된 Marketo Engage 사용자를 위한 것입니다.
+이러한 단계는 [Adobe IMS](/help/marketo/product-docs/administration/marketo-with-adobe-identity/adobe-identity-management-overview.md){target="_blank"}(으)로 이미 마이그레이션된 Marketo Engage 사용자를 위한 것입니다.
 
-Marketo Engage에 [로그인](https://experience.adobe.com/)하고 도움말 아이콘을 클릭합니다.
+Marketo Engage에 [로그인](https://experience.adobe.com/){target="_blank"}하고 도움말 아이콘을 클릭합니다.
 
 ![](assets/help-center-9.png)
 

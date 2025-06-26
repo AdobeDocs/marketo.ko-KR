@@ -4,10 +4,10 @@ description: 양식 글꼴 모음 변경 - Marketo 문서 - 제품 설명서
 title: 양식 글꼴 모음 변경
 exl-id: eb5e861b-6e0b-4291-9944-828ea00f1869
 feature: Forms
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 8ff62b372b4d0f98ab88c569bdc3608eb63b70c7
 workflow-type: tm+mt
 source-wordcount: '141'
-ht-degree: 0%
+ht-degree: 1%
 
 ---
 
@@ -35,11 +35,11 @@ Google 글꼴은 훌륭하며 양식 편집기에 바로 빌드되었습니다. 
 
    >[!TIP]
    >
-   >[Google 글꼴](https://www.google.com/fonts)을(를) 사용할 수 있습니다.
+   >[Google 글꼴](https://fonts.google.com/){target="_blank"}을(를) 사용할 수 있습니다.
 
    ![](assets/image2014-9-15-16-3a0-3a8.png)
 
-1. **마침**&#x200B;을 클릭합니다.
+1. **마침을 클릭합니다**.
 
    ![](assets/image2014-9-15-16-3a0-3a15.png)
 
