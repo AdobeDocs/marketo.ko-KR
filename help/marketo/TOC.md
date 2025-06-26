@@ -3,9 +3,9 @@ audience: end-user
 user-guide-title: Marketo 안내서
 user-guide-description: Marketo 제품 설명서
 feature-set: Marketo Engage
-source-git-commit: bfa1bc900c2adc263e634a81440b77bef2976d3b
+source-git-commit: ce7142e471271dfb33b265e226b67bcc3b35594b
 workflow-type: tm+mt
-source-wordcount: '9279'
+source-wordcount: '9283'
 ht-degree: 2%
 
 ---
@@ -1642,7 +1642,7 @@ ht-degree: 2%
          + [SMS 용어집](product-docs/mobile-marketing/vibes-sms-messages/sms-glossary.md)
    + 개인화 {#personalization}
       + 세그먼테이션 및 코드 조각 {#segmentation-and-snippets}
-         + 세그먼테이션 {#segmentation}
+         + 세분화 {#segmentation}
             + [세분화 승인](product-docs/personalization/segmentation-and-snippets/segmentation/approve-a-segmentation.md)
             + [세분화 만들기](product-docs/personalization/segmentation-and-snippets/segmentation/create-a-segmentation.md)
             + [세그먼트 규칙 정의](product-docs/personalization/segmentation-and-snippets/segmentation/define-segment-rules.md)
@@ -1958,6 +1958,7 @@ ht-degree: 2%
    + [출시 일정](release-notes/release-schedule.md)
    + [현재 릴리스](release-notes/current.md)
    + [Dynamic Chat 릴리스](release-notes/dynamic-chat.md)
+   + [Dynamic Chat 릴리스 임시](release-notes/dynamic-chat-temp.md)
    + 이전 릴리스 {#previous-releases}
       + 2025 {#2025}
          + [릴리스 노트: 2025년 1월](release-notes/previous-releases/2025/release-notes-jan-25.md)
