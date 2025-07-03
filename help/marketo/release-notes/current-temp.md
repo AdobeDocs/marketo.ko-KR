@@ -4,10 +4,11 @@ title: 최신 릴리스 정보
 hide: true
 hidefromtoc: true
 feature: Release Information
-source-git-commit: 67b1c61d9051043cb9fb6e4252ffd94c77ff6f22
+exl-id: 0ca5e844-c30b-4c86-a23d-d8f2c1bdddf5
+source-git-commit: 320be450e0dcf0d1bcbeeb590b1a3207b5e79955
 workflow-type: tm+mt
-source-wordcount: '450'
-ht-degree: 2%
+source-wordcount: '562'
+ht-degree: 1%
 
 ---
 
@@ -113,7 +114,7 @@ Adobe Dynamic Chat [에 대한 릴리스 정보는 여기에서 찾을 수 있�
    <td> </td>
   </tr>
   <tr> 
-   <td><strong>제목</strong>: 설명.</td> 
+   <td><strong>이메일 Designer - GenStudio 통합</strong>: 이메일 내에서 성능 마케팅을 위해 GenStudio을 통합하여 마케팅 효율성을 높이고 브랜드 일관성을 유지합니다.</td> 
    <td><i>곧 출시 예정</i></td>
    <td><i>곧 출시 예정</i></td>
   </tr>
@@ -123,7 +124,7 @@ Adobe Dynamic Chat [에 대한 릴리스 정보는 여기에서 찾을 수 있�
    <td> </td>
   </tr>
   <tr> 
-   <td><strong>제목</strong>: 설명.</td> 
+   <td><strong>REST API 오류 코드 알림 업데이트</strong>: 인앱 알림에 REST API 오류 클래스가 두 개 추가되었습니다. 606 - 최대 속도 제한 초과 및 607 - 일일 할당량에 도달했습니다.</td> 
    <td><i>곧 출시 예정</i></td>
    <td><i>곧 출시 예정</i></td>
   </tr>
@@ -133,7 +134,7 @@ Adobe Dynamic Chat [에 대한 릴리스 정보는 여기에서 찾을 수 있�
    <td> </td>
   </tr>
   <tr> 
-   <td><strong>제목</strong>: 설명.</td> 
+   <td><strong>필드 관리에서 프로그램 구성원 표준 필드 표시</strong>: 이제 <i>필드 관리</i>의 표준 및 사용자 지정 프로그램 구성원 필드가 모두 표시됩니다.</td> 
    <td><i>곧 출시 예정</i></td>
    <td><i>곧 출시 예정</i></td>
   </tr>
@@ -143,7 +144,17 @@ Adobe Dynamic Chat [에 대한 릴리스 정보는 여기에서 찾을 수 있�
    <td> </td>
   </tr>
   <tr> 
-   <td><strong>제목</strong>: 설명.</td> 
+   <td><strong>필드 관리의 REST API 이름</strong>: 이 업데이트를 통해 관리자는 목록을 내보낼 필요 없이 REST API 필드 이름을 볼 수 있습니다.</td> 
+   <td><i>곧 출시 예정</i></td>
+   <td><i>곧 출시 예정</i></td>
+  </tr>
+  <tr> 
+   <td> </td> 
+   <td> </td>
+   <td> </td>
+  </tr>
+  <tr> 
+   <td><strong>목록에서 사용하는 내 토큰</strong>: 내 토큰(한 번에 최대 50개의 자산)을 사용하는 자산 목록을 봅니다.</td> 
    <td><i>곧 출시 예정</i></td>
    <td><i>곧 출시 예정</i></td>
   </tr>
@@ -153,6 +164,6 @@ Adobe Dynamic Chat [에 대한 릴리스 정보는 여기에서 찾을 수 있�
 
 ## 공지 {#announcements}
 
-* **Rest API &#39;access_token&#39; 매개 변수 사용 중단**: Marketo REST API 호출을 인증하는 데 사용되는 `access_token` 쿼리 매개 변수는 더 이상 사용되지 않으며 2025년 10월 31일 이후에 사용할 수 없습니다. 모든 신규 및 기존 통합은 &#39;인증&#39; 헤더 [을(를) 사용하여 여기에 설명된 대로 REST API 호출을 인증해야 합니다](https://experienceleague.adobe.com/ko/docs/marketo-developer/marketo/rest/authentication){target="_blank"}.
+* **Rest API &#39;access_token&#39; 매개 변수 사용 중단**: Marketo REST API 호출을 인증하는 데 사용되는 `access_token` 쿼리 매개 변수는 더 이상 사용되지 않으며 2025년 10월 31일 이후에 사용할 수 없습니다. 모든 신규 및 기존 통합은 &#39;인증&#39; 헤더 [을(를) 사용하여 여기에 설명된 대로 REST API 호출을 인증해야 합니다](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/rest/authentication){target="_blank"}.
 
-* **SOAP API 사용 중단**: Marketo SOAP API에 대한 지원은 2025년 10월 31일에 종료됩니다. SOAP API 기능을 사용하는 서비스는 [REST API](https://experienceleague.adobe.com/ko/docs/marketo-developer/marketo/rest/rest-api){target="_blank"}(으)로 마이그레이션해야 합니다.
+* **SOAP API 사용 중단**: Marketo SOAP API에 대한 지원은 2025년 10월 31일에 종료됩니다. SOAP API 기능을 사용하는 서비스는 [REST API](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/rest/rest-api){target="_blank"}(으)로 마이그레이션해야 합니다.

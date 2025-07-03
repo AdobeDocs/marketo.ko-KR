@@ -3,16 +3,16 @@ description: 최신 릴리스 정보 - Marketo 설명서 - 제품 설명서
 title: 최신 릴리스 정보
 exl-id: a2eccad5-73ad-48f9-8091-51cee23824e1
 feature: Release Information
-source-git-commit: 6da797bc91de018e789f1e5980523a02e38eba30
+source-git-commit: 5dea84390b7d008ad0b19c5bc0e113f2a886ca72
 workflow-type: tm+mt
-source-wordcount: '517'
-ht-degree: 2%
+source-wordcount: '562'
+ht-degree: 1%
 
 ---
 
-# 릴리스 노트: 2025년 5월 {#release-notes-may-25}
+# 릴리스 노트: 2025년 7월 {#release-notes-july-25}
 
-아래에는 2025년 5월 릴리스에 포함된 모든 기능이 있습니다. Adobe Marketo Engage 버전에서 사용 가능한 기능이 있는지 확인하십시오.
+아래에는 2025년 7월 릴리스에 포함된 모든 기능이 있습니다. Adobe Marketo Engage 버전에서 사용 가능한 기능이 있는지 확인하십시오.
 
 Adobe Dynamic Chat [에 대한 릴리스 정보는 여기에서 찾을 수 있습니다](/help/marketo/release-notes/dynamic-chat.md){target="_blank"}.
 
@@ -22,7 +22,7 @@ Adobe Dynamic Chat [에 대한 릴리스 정보는 여기에서 찾을 수 있�
 
 ## 표준 릴리스 주기 기능 {#standard-release-cycle-features}
 
-다음 기능은 표준 릴리스 주기에 해당하며 **2025년 5월 23일**&#x200B;에 릴리스되기 시작합니다. 이후 몇 주에 걸쳐 나머지 기능의 단계적인 롤아웃이 시작됩니다. 릴리스 기능 및 날짜는 변경될 수 있습니다. 각 기능 옆에 있는 상태를 확인하십시오.
+다음 기능은 표준 릴리스 주기에 해당하며 **2025년 7월 11일**&#x200B;에 릴리스되기 시작합니다. 이후 몇 주에 걸쳐 나머지 기능의 단계적인 롤아웃이 시작됩니다. 릴리스 기능 및 날짜는 변경될 수 있습니다. 각 기능 옆에 있는 상태를 확인하십시오.
 
 <table style="table-layout:auto"> 
  <tbody>
@@ -32,37 +32,7 @@ Adobe Dynamic Chat [에 대한 릴리스 정보는 여기에서 찾을 수 있�
    <th style="width:25%">설명서</th>
   </tr>
   <tr> 
-   <td><strong>이메일 콘텐츠 Personalization</strong>: 이제 Marketo Engage은 다른 AEP 애플리케이션 토큰과 동일한 카멜 대/소문자 구문을 따르므로 Adobe DX 제품 간에 일관된 환경이 제공됩니다. 멤버, 프로그램 및 내 토큰과 같은 Marketo Engage 특정 토큰은 물론 모든 표준 토큰을 새 이메일 Designer에서 사용할 수 있습니다.</td> 
-   <td>배송됨</td>
-   <td><a href="/help/marketo/product-docs/email-marketing/email-designer/personalization-tokens.md">Personalization 토큰</a></td>
-  </tr>
-  <tr> 
-   <td> </td> 
-   <td> </td>
-   <td> </td>
-  </tr>
-  <tr> 
-   <td><strong>이메일 Designer Assets에 대한 역할 기반 액세스 제어</strong>: 역할 기반 액세스 제어(RBAC) 시스템의 새로운 개선 사항은 새로운 이메일 Designer에서 제공하는 에셋에 대해 보다 세분화된 권한과 개선된 사용자 관리를 제공합니다.</td> 
-   <td>배송됨</td>
-   <td><a href="https://nation.marketo.com/t5/latest-product-innovations/product-updates-granular-permissions-to-new-email-designer/ba-p/357057">새 이메일 Designer(블로그 게시물)에 대한 세분화된 권한</a></td>
-  </tr>
-  <tr> 
-   <td> </td> 
-   <td> </td>
-   <td> </td>
-  </tr>
-  <tr> 
-   <td><strong>전자 메일 Designer에서 만든 전자 메일 복제</strong>: 이제 새 전자 메일 Designer을 사용하여 만든 기존 전자 메일을 복제할 수 있습니다.</td> 
-   <td>배송됨</td>
-   <td>해당 사항 없음</td>
-  </tr>
-  <tr> 
-   <td> </td> 
-   <td> </td>
-   <td> </td>
-  </tr>
-  <tr> 
-   <td><strong>이메일 Designer의 GenStudio 통합</strong>: 이메일 내에서 성능 마케팅을 위해 GenStudio을 통합하여 마케팅 효율성을 높이고 브랜드 일관성을 유지합니다.</td> 
+   <td><strong>이메일 Designer - AI Assistant가 있는 브랜드 키트</strong>: 색상, 글꼴, 로고, 테마, 시각적 컨텐츠, 준수 지침 등과 같은 브랜드 자산을 한 곳에 모두 저장하고 관리하여 이메일 자산 전반에서 브랜드 일관성을 유지합니다.</td> 
    <td><i>곧 출시 예정</i></td>
    <td><i>곧 출시 예정</i></td>
   </tr>
@@ -72,7 +42,117 @@ Adobe Dynamic Chat [에 대한 릴리스 정보는 여기에서 찾을 수 있�
    <td> </td>
   </tr>
   <tr> 
-   <td><strong>모든 특성에 대한 트리거 토큰</strong>: Smart Campaign 필드에 있는 모든 활동 특성의 데이터를 사용할 수 있도록 지원하는 확장된 트리거 토큰 목록입니다.</td> 
+   <td><strong>이메일 Designer - 사용자 지정 CSS 지원</strong>: 이제 이메일을 디자인할 때 이메일 Designer 내에 직접 사용자 지정 CSS를 추가할 수 있습니다.</td> 
+   <td><i>곧 출시 예정</i></td>
+   <td><i>곧 출시 예정</i></td>
+  </tr>
+  <tr> 
+   <td> </td> 
+   <td> </td>
+   <td> </td>
+  </tr>
+  <tr> 
+   <td><strong>이메일 Designer - Assets 이동 및 프로그램 삭제 지원</strong>: 여러 프로그램에서 이메일 자산을 신속하게 재배치합니다. 이제 새 디자이너 이메일 에셋이 포함된 프로그램을 삭제할 수도 있습니다.</td> 
+   <td><i>곧 출시 예정</i></td>
+   <td><i>곧 출시 예정</i></td>
+  </tr>
+  <tr> 
+   <td> </td> 
+   <td> </td>
+   <td> </td>
+  </tr>
+  <tr> 
+   <td><strong>이메일 Designer - Firefox 지원</strong>: 이제 이메일 Designer이 Mozilla Firefox에서 완전히 지원됩니다. 최상의 경험을 위해 항상 브라우저를 최신 상태로 유지하십시오.</td> 
+   <td><i>곧 출시 예정</i></td>
+   <td><i>곧 출시 예정</i></td>
+  </tr>
+  <tr> 
+   <td> </td> 
+   <td> </td>
+   <td> </td>
+  </tr>
+  <tr> 
+   <td><strong>전자 메일 Designer - 속성 페이지에서 콘텐츠 시뮬레이션</strong>: 편집 화면으로 돌아가지 않고 <i>전자 메일 속성</i>에서 전자 메일 에셋에 대한 콘텐츠를 시뮬레이션합니다.</td> 
+   <td><i>곧 출시 예정</i></td>
+   <td><i>곧 출시 예정</i></td>
+  </tr>
+   <tr> 
+   <td> </td> 
+   <td> </td>
+   <td> </td>
+  </tr>
+  <tr> 
+   <td><strong>이메일 Designer - Assets의 역할 기반 액세스 제어</strong>: 5월 릴리스에서는 편집, 승인 및 삭제 권한에 대해 RBAC(역할 기반 액세스 제어)가 구현되었습니다. 이제 이 릴리스에서 읽기 권한을 사용할 수 있습니다.</td> 
+   <td><i>곧 출시 예정</i></td>
+   <td><i>곧 출시 예정</i></td>
+  </tr>
+  <tr> 
+   <td> </td> 
+   <td> </td>
+   <td> </td>
+  </tr>
+  <tr> 
+   <td><strong>전자 메일 Designer - 게시된 전자 메일에 대한 전자 메일 속성 편집</strong>: 전자 메일이 게시된 후에도 <i>전자 메일 속성</i>에서 편집합니다.</td> 
+   <td><i>곧 출시 예정</i></td>
+   <td><i>곧 출시 예정</i></td>
+  </tr>
+  <tr> 
+   <td> </td> 
+   <td> </td>
+   <td> </td>
+  </tr>
+  <tr> 
+   <td><strong>이메일 Designer - 브랜딩 도메인 및 도메인 IP 구성 선택</strong>: 이제 모든 이메일 에셋에 대해 "브랜딩 도메인" 및 "도메인 IP 구성"을 선택할 수 있습니다.</td> 
+   <td><i>곧 출시 예정</i></td>
+   <td><i>곧 출시 예정</i></td>
+  </tr>
+  <tr> 
+   <td> </td> 
+   <td> </td>
+   <td> </td>
+  </tr>
+  <tr> 
+   <td><strong>이메일 Designer - GenStudio 통합</strong>: 이메일 내에서 성능 마케팅을 위해 GenStudio을 통합하여 마케팅 효율성을 높이고 브랜드 일관성을 유지합니다.</td> 
+   <td><i>곧 출시 예정</i></td>
+   <td><i>곧 출시 예정</i></td>
+  </tr>
+  <tr> 
+   <td> </td> 
+   <td> </td>
+   <td> </td>
+  </tr>
+  <tr> 
+   <td><strong>REST API 오류 코드 알림 업데이트</strong>: 인앱 알림에 REST API 오류 클래스가 두 개 추가되었습니다. 606 - 최대 속도 제한 초과 및 607 - 일일 할당량에 도달했습니다.</td> 
+   <td><i>곧 출시 예정</i></td>
+   <td><i>곧 출시 예정</i></td>
+  </tr>
+  <tr> 
+   <td> </td> 
+   <td> </td>
+   <td> </td>
+  </tr>
+  <tr> 
+   <td><strong>필드 관리에서 프로그램 구성원 표준 필드 표시</strong>: 이제 <i>필드 관리</i>의 표준 및 사용자 지정 프로그램 구성원 필드가 모두 표시됩니다.</td> 
+   <td><i>곧 출시 예정</i></td>
+   <td><i>곧 출시 예정</i></td>
+  </tr>
+  <tr> 
+   <td> </td> 
+   <td> </td>
+   <td> </td>
+  </tr>
+  <tr> 
+   <td><strong>필드 관리의 REST API 이름</strong>: 이 업데이트를 통해 관리자는 목록을 내보낼 필요 없이 REST API 필드 이름을 볼 수 있습니다.</td> 
+   <td><i>곧 출시 예정</i></td>
+   <td><i>곧 출시 예정</i></td>
+  </tr>
+  <tr> 
+   <td> </td> 
+   <td> </td>
+   <td> </td>
+  </tr>
+  <tr> 
+   <td><strong>목록에서 사용하는 내 토큰</strong>: 내 토큰(한 번에 최대 50개의 자산)을 사용하는 자산 목록을 봅니다.</td> 
    <td><i>곧 출시 예정</i></td>
    <td><i>곧 출시 예정</i></td>
   </tr>
@@ -82,12 +162,6 @@ Adobe Dynamic Chat [에 대한 릴리스 정보는 여기에서 찾을 수 있�
 
 ## 공지 {#announcements}
 
-* **Facebook 오프라인 전환 통합 업데이트**: 2025년 5월 29일에 Graph API 버전 관리에 따른 [오프라인 전환 API](https://developers.facebook.com/docs/marketing-api/offline-conversions/){target="_blank"}의 Meta 사용 중단으로 인해 Marketo Engage의 [Facebook 오프라인 전환](https://experienceleague.adobe.com/ko/docs/marketo/using/product-docs/demand-generation/facebook/set-up-facebook-offline-conversions){target="_blank"} 통합이 새 Meta [전환 API](https://developers.facebook.com/docs/marketing-api/conversions-api){target="_blank"}(으)로 마이그레이션됩니다. 자세한 내용은 메타의 [전환 API를 통해 오프라인 이벤트 보내기](https://developers.facebook.com/docs/marketing-api/conversions-api/offline-events/){target="_blank"}(오프라인 CAPI)에 대한 안내서를 참조하십시오.
+* **Rest API &#39;access_token&#39; 매개 변수 사용 중단**: Marketo REST API 호출을 인증하는 데 사용되는 `access_token` 쿼리 매개 변수는 더 이상 사용되지 않으며 2025년 10월 31일 이후에 사용할 수 없습니다. 모든 신규 및 기존 통합은 &#39;인증&#39; 헤더 [을(를) 사용하여 여기에 설명된 대로 REST API 호출을 인증해야 합니다](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/rest/authentication){target="_blank"}.
 
-* **새로운 Analytics 기능 - 공개 Beta**: [고급 BI Analytics](/help/marketo/product-docs/reporting/advanced-bi-analytics/overview.md){target="_blank"}(이전 명칭: Revenue Explorer 및 고급 Report Builder)가 4월 중순부터 모든 현재 Revenue Cycle Explorer 사용자에게 롤아웃되기 시작했습니다. 이 새로운 도구는 Marketo Engage 데이터에 대한 유연한 보고 및 시각화 인터페이스를 제공하여 진행 상황, 성능 등에 대한 세부 정보를 제공합니다. 더욱 풍부한 상호 작용 및 시각화, 빠른 성능, 보다 원활하고 직관적인 사용자 경험을 제공합니다.
-
-이 기능에 액세스하려면 고급 BI Analytics 추가 기능을 구입해야 합니다. 자세한 내용은 Adobe 계정 팀(계정 관리자)에 문의하십시오.
-
-* **Rest API &#39;access_token&#39; 매개 변수 사용 중단**: Marketo REST API 호출을 인증하는 데 사용되는 `access_token` 쿼리 매개 변수는 더 이상 사용되지 않으며 2025년 10월 31일 이후에 사용할 수 없습니다. 모든 신규 및 기존 통합은 &#39;인증&#39; 헤더 [을(를) 사용하여 여기에 설명된 대로 REST API 호출을 인증해야 합니다](https://experienceleague.adobe.com/ko/docs/marketo-developer/marketo/rest/authentication){target="_blank"}.
-
-* **SOAP API 사용 중단**: Marketo SOAP API에 대한 지원은 2025년 10월 31일에 종료됩니다. SOAP API 기능을 사용하는 서비스는 [REST API](https://experienceleague.adobe.com/ko/docs/marketo-developer/marketo/rest/rest-api){target="_blank"}(으)로 마이그레이션해야 합니다.
+* **SOAP API 사용 중단**: Marketo SOAP API에 대한 지원은 2025년 10월 31일에 종료됩니다. SOAP API 기능을 사용하는 서비스는 [REST API](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/rest/rest-api){target="_blank"}(으)로 마이그레이션해야 합니다.
