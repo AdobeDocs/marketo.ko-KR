@@ -7,9 +7,9 @@ level: Intermediate
 feature: Email Designer
 hide: true
 hidefromtoc: true
-source-git-commit: e0e739054c6389e0a3ab638097491e6c24f5e30c
+source-git-commit: 55c0e4f011944eb30f5f48bf99ba9558185ca46d
 workflow-type: tm+mt
-source-wordcount: '631'
+source-wordcount: '634'
 ht-degree: 2%
 
 ---
@@ -22,7 +22,7 @@ ht-degree: 2%
 
 이메일 콘텐츠에 사용자 지정 CSS를 추가하려면 아래 단계를 따르십시오.
 
-1. 하나 이상의 [구성 요소](content-components.md)를 추가하여 전자 메일 Designer에 일부 콘텐츠가 정의되어 있는지 확인하십시오.
+1. 구성 요소를 하나 이상 추가하여 이메일 Designer에 정의된 컨텐츠가 있는지 확인합니다. 링크 - 보관하시겠습니까?
 
 1. 왼쪽 **[!UICONTROL Body]** 또는 오른쪽 창 상단에서 **[!UICONTROL Navigation tree]**&#x200B;을(를) 선택합니다. **[!UICONTROL CSS styles]** 섹션이 오른쪽에 표시됩니다.
 
