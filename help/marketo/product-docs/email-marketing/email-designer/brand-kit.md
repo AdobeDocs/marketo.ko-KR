@@ -7,7 +7,7 @@ level: Beginner, Intermediate
 feature: Email Designer
 hide: true
 hidefromtoc: true
-source-git-commit: 1bb3bfdef8a74c0f990c5e274391348c9c111f28
+source-git-commit: 25a218896c84a7145f05079fe8adcf3d657adcad
 workflow-type: tm+mt
 source-wordcount: '1178'
 ht-degree: 9%
@@ -107,7 +107,7 @@ ht-degree: 9%
 
 캠페인 생성 중 콘텐츠를 생성하고 정렬 점수를 계산할 때 자동으로 적용할 기본 브랜드를 지정할 수 있습니다.
 
-기본 브랜드를 설정하려면 **[!UICONTROL Brands]** 대시보드로 이동하십시오. ![](assets/do-not-localize/Smock_More_18_N.svg) 아이콘을 클릭하여 고급 메뉴를 열고 **[!UICONTROL Mark as default brand]**&#x200B;을(를) 선택합니다.
+기본 브랜드를 설정하려면 **[!UICONTROL Brands]** 대시보드로 이동하십시오. 아이콘을 클릭하여 고급 메뉴를 열고 **[!UICONTROL Mark as default brand]**&#x200B;을(를) 선택합니다.
 
 스크린샷
 
