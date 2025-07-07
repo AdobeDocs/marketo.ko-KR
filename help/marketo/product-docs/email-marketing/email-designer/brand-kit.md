@@ -7,9 +7,9 @@ level: Beginner, Intermediate
 feature: Email Designer
 hide: true
 hidefromtoc: true
-source-git-commit: e0e739054c6389e0a3ab638097491e6c24f5e30c
+source-git-commit: 1bb3bfdef8a74c0f990c5e274391348c9c111f28
 workflow-type: tm+mt
-source-wordcount: '1176'
+source-wordcount: '1178'
 ht-degree: 9%
 
 ---
@@ -246,7 +246,7 @@ ht-degree: 9%
 
 **[!UICONTROL Writing Style]**&#x200B;을(를) 개인화하려면:
 
-1. **[!UICONTROL Writing Style]** 탭에서 ![](assets/do-not-localize/Smock_Add_18_N.svg)을(를) 클릭하여 지침, 예외 또는 제외를 추가합니다.
+1. **[!UICONTROL Writing Style]** 탭에서 이 아이콘을 클릭하여 지침, 예외 또는 제외를 추가합니다.
 
 1. 지침, 예외 또는 제외를 입력하고 **[!UICONTROL Add]**&#x200B;을(를) 클릭합니다.
 
