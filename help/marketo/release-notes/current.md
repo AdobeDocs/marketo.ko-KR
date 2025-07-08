@@ -3,9 +3,9 @@ description: 최신 릴리스 정보 - Marketo 설명서 - 제품 설명서
 title: 최신 릴리스 정보
 exl-id: a2eccad5-73ad-48f9-8091-51cee23824e1
 feature: Release Information
-source-git-commit: 4d6c929bf7dc5b8c825fe7d7ab613dd8fd750aa0
+source-git-commit: c5f0e8ef41618ec0723e4c6ca534e6ed3c1ec1f9
 workflow-type: tm+mt
-source-wordcount: '667'
+source-wordcount: '666'
 ht-degree: 1%
 
 ---
@@ -152,12 +152,12 @@ Adobe Dynamic Chat [에 대한 릴리스 정보는 여기에서 찾을 수 있�
 
 ## 공지 {#announcements}
 
-* **Marketo Engage ID 수명 종료**: 2025년 8월부터 Adobe에서 Marketo Engage ID 지원(`login.marketo.com`을 통해 로그인)을 단계적으로 중단합니다. Marketo Engage에 대한 액세스가 중단되는 것을 방지하려면 2025년 9월 30일까지 [Adobe Identity](https://experienceleague.adobe.com/ko/docs/marketo/using/product-docs/administration/marketo-with-adobe-identity/adobe-identity-management-overview){target="_blank"}(으)로 전환해야 합니다.
+* **Marketo Engage ID 수명 종료**: 2025년 8월부터 Adobe에서 Marketo Engage ID 지원(`login.marketo.com`을 통해 로그인)을 단계적으로 중단합니다. Marketo Engage에 대한 액세스가 중단되는 것을 방지하려면 2025년 9월 30일까지 [Adobe Identity](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/administration/marketo-with-adobe-identity/adobe-identity-management-overview){target="_blank"}(으)로 전환해야 합니다.
 
-   * _IP 제한 사용 중단_: [IP를 기반으로 Marketo 로그인 제한](https://experienceleague.adobe.com/ko/docs/marketo/using/product-docs/administration/settings/restrict-marketo-logins-based-on-ip){target="_blank"}에 대한 지원이 2025년 7월 30일에 종료됩니다. 이 기능은 Adobe ID로 전환이 완료될 때까지 계속 작동합니다. Adobe Admin Console에서 Adobe ID를 위한 새로운 위치 기반 액세스 제어 기능은 2025년 8월 릴리스를 목표로 합니다.
+   * _IP 제한 사용 중단_: [IP를 기반으로 Marketo 로그인 제한](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/administration/settings/restrict-marketo-logins-based-on-ip){target="_blank"}에 대한 지원이 2025년 7월 30일에 종료됩니다. 이 기능은 Adobe ID로 전환이 완료될 때까지 계속 작동합니다. Adobe Admin Console에서 Adobe ID를 위한 새로운 위치 기반 액세스 제어 기능은 2025년 8월 릴리스를 목표로 합니다.
 
-   * _SSO(Single Sign-On) 사용 중단_: [Marketo ID SSO](https://experienceleague.adobe.com/ko/docs/marketo/using/product-docs/administration/additional-integrations/add-single-sign-on-to-a-portal){target="_blank"}에 대한 지원이 2025년 7월 30일에 종료됩니다. 이 기능은 Adobe ID로 전환이 완료될 때까지 계속 작동합니다. Adobe Admin Console에서 Adobe ID에 대한 SSO(Single Sign-On)를 별도로 구성해야 합니다. 설정 단계는 [ID 및 SSO(Single Sign-On) 설정](https://helpx.adobe.com/kr/enterprise/using/set-up-identity.html){target="_blank"}을 참조하십시오.
+   * _SSO(Single Sign-On) 사용 중단_: [Marketo ID SSO](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/administration/additional-integrations/add-single-sign-on-to-a-portal){target="_blank"}에 대한 지원이 2025년 7월 30일에 종료됩니다. 이 기능은 Adobe ID로 전환이 완료될 때까지 계속 작동합니다. Adobe Admin Console에서 Adobe ID에 대한 SSO(Single Sign-On)를 별도로 구성해야 합니다. 설정 단계는 [ID 및 SSO(Single Sign-On) 설정](https://helpx.adobe.com/kr/enterprise/using/set-up-identity.html){target="_blank"}을 참조하십시오.
 
-* **Rest API &#39;access_token&#39; 매개 변수 사용 중단**: Marketo REST API 호출을 인증하는 데 사용되는 `access_token` 쿼리 매개 변수는 더 이상 사용되지 않으며 2025년 10월 31일 이후에 사용할 수 없습니다. 모든 신규 및 기존 통합은 &#39;인증&#39; 헤더 [을(를) 사용하여 여기에 설명된 대로 REST API 호출을 인증해야 합니다](https://experienceleague.adobe.com/ko/docs/marketo-developer/marketo/rest/authentication){target="_blank"}.
+* **Rest API &#39;access_token&#39; 매개 변수 사용 중단**: Marketo REST API 호출을 인증하는 데 사용되는 `access_token` 쿼리 매개 변수는 더 이상 사용되지 않으며 2025년 10월 31일 이후에 사용할 수 없습니다. 모든 신규 및 기존 통합은 &#39;인증&#39; 헤더 [을(를) 사용하여 여기에 설명된 대로 REST API 호출을 인증해야 합니다](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/rest/authentication){target="_blank"}.
 
-* **SOAP API 사용 중단**: Marketo SOAP API에 대한 지원은 2025년 10월 31일에 종료됩니다. SOAP API 기능을 사용하는 서비스는 [REST API](https://experienceleague.adobe.com/ko/docs/marketo-developer/marketo/rest/rest-api){target="_blank"}(으)로 마이그레이션해야 합니다.
+* **SOAP API 사용 중단**: Marketo SOAP API에 대한 지원은 2025년 10월 31일에 종료됩니다. SOAP API 기능을 사용하는 서비스는 [REST API](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/rest/rest-api){target="_blank"}(으)로 마이그레이션해야 합니다.

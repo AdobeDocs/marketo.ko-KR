@@ -3,9 +3,9 @@ description: 고급 BI Analytics 개요 - Marketo 문서 - 제품 설명서
 title: 고급 BI Analytics 개요
 feature: Reporting
 exl-id: 120663ef-abcd-4cfe-aac1-64b57ff47258
-source-git-commit: fbb323d2518bcc8278370a0e1c5ea87143f87a36
+source-git-commit: c5f0e8ef41618ec0723e4c6ca534e6ed3c1ec1f9
 workflow-type: tm+mt
-source-wordcount: '1138'
+source-wordcount: '1222'
 ht-degree: 0%
 
 ---
@@ -125,7 +125,7 @@ ht-degree: 0%
 
 다음 비디오를 통해 다중 페이지 드릴스루 보고서 경험의 예를 확인하십시오.
 
->[!VIDEO](https://video.tv.adobe.com/v/3451689/?quality=12&learn=on&captions=kor){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3451681/?quality=12&learn=on){transcript=true}
 
 ## 고급 BI Analytics의 표준 보고서 {#standard-reports}
 
@@ -254,7 +254,17 @@ ht-degree: 0%
 
 * 기존 Revenue Explorer 사용자는 자동으로 새로운 고급 BI Analytics 환경에 액세스할 수 있습니다.
 
-* 고급 BI Analytics에서 최대 700개의 보고서를 만들 수 있습니다.
+* 고급 BI Analytics에서 **최대 700개의 보고서**&#x200B;를 만들 수 있습니다.
+
+  >[!NOTE]
+  >
+  >매출 탐색기에 700개가 넘는 보고서가 있는 경우 일부 보고서는 다른 보고서와 결합되고 보고서 내의 페이지를 통해 통합되었습니다.
+  >
+  >* 보고서에 이메일 구독이 있는 경우 구독이 결합되지 않았습니다.
+  >
+  >* _동일한 폴더_&#x200B;에 있는 나머지 보고서는 보고 영역별로 하나 이상의 보고서로 결합되었습니다. 신고지역에 대한 신고가 5개보다 많으면 1개보다 많은 취합신고로 통합하였다.
+  >
+  >* 결합된 각 보고서에는 5페이지를 넘지 않습니다.
 
 * 주어진 시각화에 대해 쿼리당 100만 개의 행으로 제한됩니다. 쿼리가 이를 초과하면 다음 오류가 발생합니다. `The resultset of a query to external data source has exceeded the maximum allowed size of '1000000' rows`. 이 문제를 해결하려면 날짜 범위를 줄이거나 보고서에서 필터를 조정하여 쿼리 결과의 행 수를 줄입니다.
 
