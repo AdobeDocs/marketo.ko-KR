@@ -147,7 +147,7 @@ ht-degree: 0%
 
 1. **[!UICONTROL Settings]** 탭에서 **[!UICONTROL Browse]**&#x200B;을(를) 클릭하여 에셋에서 이미지 파일을 선택하거나 **[!UICONTROL Import media]**&#x200B;을(를) 클릭하여 에셋을 Adobe Experience Manager Assets에 업로드합니다.
 
-   [!DNL Adobe Experience Manager Assets]에 대한 자세한 내용은 [Adobe Experience Manager Assets 설명서](https://experienceleague.adobe.com/docs/experience-manager-assets-essentials/help/introduction.html){target="_blank"}를 참조하세요.
+   [!DNL Adobe Experience Manager Assets]에 대한 자세한 내용은 [Adobe Experience Manager Assets 설명서](https://experienceleague.adobe.com/docs/experience-manager-assets-essentials/help/introduction.html?lang=ko){target="_blank"}를 참조하세요.
 
    >[!NOTE]
    >
