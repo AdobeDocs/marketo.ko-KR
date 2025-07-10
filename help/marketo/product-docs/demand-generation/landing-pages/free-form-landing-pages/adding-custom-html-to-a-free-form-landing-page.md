@@ -4,9 +4,9 @@ description: 자유 형식 랜딩 페이지에 사용자 지정 HTML 추가 - Ma
 title: 자유 양식 랜딩 페이지에 사용자 지정 HTML 추가
 exl-id: 1bcb215b-d291-42a5-be74-2c78f151384e
 feature: Landing Pages
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: ca8644c43cfbdbaf7be9f21c5e440949b796cfdb
 workflow-type: tm+mt
-source-wordcount: '151'
+source-wordcount: '152'
 ht-degree: 0%
 
 ---
@@ -17,7 +17,7 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->Marketo 지원 은 사용자 지정 HTML 문제 해결을 지원하기 위해 설정되어 있지 않습니다. HTML 지원이 필요한 경우 웹 개발자에게 문의하십시오.
+>Marketo Engage 지원 은 사용자 지정 HTML 문제 해결을 지원하기 위해 설정되어 있지 않습니다. HTML 지원이 필요한 경우 웹 개발자에게 문의하십시오.
 
 1. 랜딩 페이지를 선택하고 **초안 편집**&#x200B;을 클릭합니다.
 

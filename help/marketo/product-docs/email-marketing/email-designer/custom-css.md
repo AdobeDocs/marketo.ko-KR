@@ -7,32 +7,31 @@ level: Intermediate
 feature: Email Designer
 hide: true
 hidefromtoc: true
-source-git-commit: 55c0e4f011944eb30f5f48bf99ba9558185ca46d
+exl-id: c191b44a-47ab-41f8-aa95-9268e359e5db
+source-git-commit: ca8644c43cfbdbaf7be9f21c5e440949b796cfdb
 workflow-type: tm+mt
-source-wordcount: '634'
+source-wordcount: '587'
 ht-degree: 2%
 
 ---
 
 # 이메일 콘텐츠에 사용자 정의 CSS 추가 {#email-metadata}
 
-이메일을 디자인할 때 Marketo Engage 이메일 Designer 내에 직접 사용자 지정 CSS를 추가할 수 있습니다. 이 기능을 사용하면 고급 및 특정 스타일을 적용하여 보다 유연하게 콘텐츠를 표시하고 제어할 수 있습니다.
+고급 및 특정 스타일을 위해 Marketo Engage 이메일 Designer 내에 직접 사용자 지정 CSS를 추가합니다.
 
 ## 사용자 지정 CSS 정의 {#define-custom-css}
 
-이메일 콘텐츠에 사용자 지정 CSS를 추가하려면 아래 단계를 따르십시오.
+1. 구성 요소를 하나 이상 추가하여 이메일 Designer에 정의된 컨텐츠가 있는지 확인합니다.
 
-1. 구성 요소를 하나 이상 추가하여 이메일 Designer에 정의된 컨텐츠가 있는지 확인합니다. 링크 - 보관하시겠습니까?
-
-1. 왼쪽 **[!UICONTROL Body]** 또는 오른쪽 창 상단에서 **[!UICONTROL Navigation tree]**&#x200B;을(를) 선택합니다. **[!UICONTROL CSS styles]** 섹션이 오른쪽에 표시됩니다.
+1. 왼쪽 **[!UICONTROL Body]** 또는 오른쪽 창에서 **[!UICONTROL Navigation tree]**&#x200B;을(를) 선택합니다. **[!UICONTROL CSS styles]**&#x200B;이(가) 오른쪽에 표시됩니다.
 
    스크린샷
 
    >[!NOTE]
    >
-   >**[!UICONTROL CSS styles]** 섹션은 편집기에 콘텐츠가 이미 있는 경우에만 사용할 수 있습니다.
+   >**[!UICONTROL CSS styles]** 섹션은 편집기에 콘텐츠가 있는 경우에만 사용할 수 있습니다.
 
-1. **[!UICONTROL Add Custom CSS]** 단추를 클릭합니다.
+1. **[!UICONTROL + Add custom CSS]** 단추를 클릭합니다.
 
    >[!NOTE]
    >
@@ -44,27 +43,27 @@ ht-degree: 2%
 
    >[!NOTE]
    >
-   >잠긴 콘텐츠[가 있는 ](/help/marketo/product-docs/email-marketing/email-designer/content-locking.md)템플릿을 사용하는 경우 콘텐츠에 사용자 지정 CSS를 추가할 수 없습니다. 단추 레이블이 **[!UICONTROL View custom CSS]**(으)로 변경되고 콘텐츠에 이미 있는 사용자 지정 CSS가 읽기 전용입니다.
+   >잠긴 컨텐츠가 있는 [템플릿](/help/marketo/product-docs/email-marketing/email-designer/content-locking.md)을 사용할 때는 사용자 지정 CSS를 컨텐츠에 추가할 수 없습니다. 단추 레이블이 **[!UICONTROL View custom CSS]**(으)로 변경되고 표시된 모든 사용자 지정 CSS가 읽기 전용입니다.
 
-1. 사용자 지정 CSS를 저장하고 사용자 지정 CSS가 콘텐츠에 올바르게 적용되었는지 확인합니다. 그렇지 않은 경우 [문제 해결](#troubleshooting) 섹션을 확인하십시오.
+1. 사용자 지정 CSS를 저장하고 콘텐츠에 적용되는지 확인하십시오. 그렇지 않으면 [문제 해결](#troubleshooting) 섹션을 확인하십시오.
 
    스크린샷
 
-1. 모든 콘텐츠를 제거하면 섹션이 사라지고 이전에 정의한 사용자 지정 CSS가 더 이상 적용되지 않습니다.
+   >[!NOTE]
+   >
+   >모든 콘텐츠를 제거하면 섹션이 사라지고 이전에 정의한 사용자 지정 CSS가 더 이상 적용되지 않습니다. **[!UICONTROL CSS styles]** 섹션을 다시 표시하려면 콘텐츠를 다시 추가하십시오. 사용자 지정 CSS가 다시 적용됩니다.
 
-1. **[!UICONTROL CSS styles]** 섹션이 다시 표시되도록 편집기에 콘텐츠를 다시 추가하십시오. 사용자 지정 CSS가 다시 적용됩니다.
-
-## 유효한 CSS를 사용하는지 확인 {#use-valid-css}
+## 유효한 CSS 사용 {#using-valid-css}
 
 **[!UICONTROL Add custom CSS]** 텍스트 영역에 올바른 CSS 문자열을 입력할 수 있습니다. 적절한 포맷의 CSS가 즉시 콘텐츠에 적용됩니다.
 
 >[!CAUTION]
 >
->사용자는 사용자 지정 CSS의 보안을 책임집니다. CSS에 취약점이 도입되거나 기존 콘텐츠와 충돌하지 않는지 확인하십시오.
+>사용자 지정 CSS의 보안을 책임집니다. CSS에 취약성이 도입되거나 기존 콘텐츠와 충돌하지 않는지 확인하십시오.
 >
->의도하지 않게 컨텐츠의 레이아웃 또는 기능을 손상시킬 수 있는 CSS를 사용하지 마십시오.
+>의도하지 않게 컨텐츠의 레이아웃이나 기능을 손상시킬 수 있는 CSS를 사용하지 마십시오.
 
-+++ CSS 샘플
++++ 유효한 CSS 샘플
 
 다음은 유효한 CSS의 예입니다.
 
@@ -207,17 +206,17 @@ body {
 
 사용자 지정 CSS는 이메일 Designer의 **[!UICONTROL Settings]** 창에서 해석되거나 확인되지 않습니다. 완전히 독립적이며 **[!UICONTROL Add Custom CSS]** 옵션을 통해서만 수정할 수 있습니다.
 
-### 보호 기능 - 가져온 콘텐츠
+### 보호 기능 - 가져온 콘텐츠 {#guardrails}
 
 이메일 Designer으로 가져온 콘텐츠와 함께 사용자 지정 CSS를 사용하려면 다음을 고려하십시오.
 
-* CSS를 포함한 [외부 HTML 가져오기](/help/marketo/product-docs/email-marketing/email-designer/email-authoring.md#import-html) 콘텐츠를 변환하지 않으면 **[!UICONTROL Compatibility mode]** 섹션을 사용할 수 없는 **[!UICONTROL CSS styles]**&#x200B;에 표시됩니다.
+* CSS를 포함한 [외부 HTML 가져오기](/help/marketo/product-docs/email-marketing/email-designer/email-authoring.md#import-html) 콘텐츠를 변환하지 않으면 해당 콘텐츠는 **[!UICONTROL Compatibility mode]** 섹션을 사용할 수 없는 **[!UICONTROL CSS styles]**&#x200B;에 있습니다.
 
-* **[!UICONTROL Add custom CSS]** 옵션을 통해 적용된 CSS를 포함하여 이메일 Designer으로 만든 콘텐츠를 가져오는 경우 이전에 적용된 CSS를 동일한 옵션에서 보고 편집할 수 있습니다.
+* 이메일 Designer으로 만든 콘텐츠를 가져올 때 **[!UICONTROL Add custom CSS]** 옵션을 통해 적용된 CSS가 포함된 경우 이전에 적용된 CSS가 동일한 옵션에서 표시되고 편집할 수 있습니다.
 
 ## 문제 해결 {#troubleshooting}
 
-사용자 지정 CSS가 적용되지 않은 경우 아래 옵션을 고려하십시오.
+사용자 지정 CSS가 적용되지 않은 경우 아래의 제안을 시도해 보십시오.
 
 * CSS가 올바르고 구문 오류(예: 중괄호 누락, 잘못된 속성 이름)가 없는지 확인합니다. [방법 알아보기](#use-valid-css)
 
@@ -248,3 +247,7 @@ body {
      ```
 
 +++
+
+>[!NOTE]
+>
+>사용자 지정 CSS 문제를 해결하기 위해 Marketo Engage 지원이 설정되지 않았습니다. CSS 지원이 필요한 경우 웹 개발자에게 문의하십시오.
