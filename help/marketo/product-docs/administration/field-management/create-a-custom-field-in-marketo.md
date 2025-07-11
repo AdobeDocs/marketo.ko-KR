@@ -31,7 +31,7 @@ ht-degree: 1%
 
    ![](assets/create-a-custom-field-in-marketo-3.png)
 
-1. _[!UICONTROL Object]_선택.
+1. _[!UICONTROL Object]_&#x200B;선택.
 
    ![](assets/create-a-custom-field-in-marketo-4.png)
 
@@ -39,7 +39,7 @@ ht-degree: 1%
    >
    >_회사_ 개체를 직접 선택할 수는 없지만 [Marketo 지원](https://nation.marketo.com/t5/support/ct-p/Support){target="_blank"}에 연락하여 요청할 수 있습니다.
 
-1. 필드 _[!UICONTROL Type]_을(를) 선택합니다. 이렇게 하면 Marketo의 스마트 목록 및 양식에서 렌더링되는 방법이 변경됩니다.
+1. 필드 _[!UICONTROL Type]_&#x200B;을(를) 선택합니다. 이렇게 하면 Marketo의 스마트 목록 및 양식에서 렌더링되는 방법이 변경됩니다.
 
    >[!TIP]
    >
@@ -47,7 +47,7 @@ ht-degree: 1%
 
    ![](assets/create-a-custom-field-in-marketo-5.png)
 
-1. Marketo에 표시할 _[!UICONTROL Name]_을(를) 입력하십시오(_[!UICONTROL API Name]_&#x200B;이(가) 자동으로 생성됨). 저장한 후에는 이름을 바꿀 수 없으므로 신중하게 선택합니다. 완료되면 **[!UICONTROL Create]**&#x200B;을(를) 클릭합니다.
+1. Marketo에 표시할 _[!UICONTROL Name]_&#x200B;을(를) 입력하십시오(_[!UICONTROL API Name]_&#x200B;이(가) 자동으로 생성됨). 저장한 후에는 이름을 바꿀 수 없으므로 신중하게 선택합니다. 완료되면 **[!UICONTROL Create]**&#x200B;을(를) 클릭합니다.
 
 >[!CAUTION]
 >
