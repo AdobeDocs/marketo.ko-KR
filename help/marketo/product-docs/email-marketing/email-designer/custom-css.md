@@ -1,23 +1,23 @@
 ---
 solution: Marketo Engage
 product: marketo
-title: 제목
+title: 이메일 콘텐츠에 사용자 정의 CSS 추가
 description: Marketo Engage의 이메일 Designer 내에서 직접 이메일 콘텐츠에 사용자 지정 CSS를 추가하는 방법을 알아봅니다.
 level: Intermediate
 feature: Email Designer
 hide: true
 hidefromtoc: true
 exl-id: c191b44a-47ab-41f8-aa95-9268e359e5db
-source-git-commit: ca8644c43cfbdbaf7be9f21c5e440949b796cfdb
+source-git-commit: 37938db9eafbe7860448d438e2fa03adccd043ec
 workflow-type: tm+mt
 source-wordcount: '587'
-ht-degree: 2%
+ht-degree: 3%
 
 ---
 
-# 이메일 콘텐츠에 사용자 정의 CSS 추가 {#email-metadata}
+# 이메일 콘텐츠에 사용자 정의 CSS 추가 {#custom-css}
 
-고급 및 특정 스타일을 위해 Marketo Engage 이메일 Designer 내에 직접 사용자 지정 CSS를 추가합니다.
+고급 특정 스타일을 위해 Marketo Engage 이메일 Designer 내에 직접 사용자 지정 CSS를 추가합니다.
 
 ## 사용자 지정 CSS 정의 {#define-custom-css}
 
@@ -25,7 +25,7 @@ ht-degree: 2%
 
 1. 왼쪽 **[!UICONTROL Body]** 또는 오른쪽 창에서 **[!UICONTROL Navigation tree]**&#x200B;을(를) 선택합니다. **[!UICONTROL CSS styles]**&#x200B;이(가) 오른쪽에 표시됩니다.
 
-   스크린샷
+   ![](assets/custom-css-1.png){width="800" zoomable="yes"}
 
    >[!NOTE]
    >
@@ -37,17 +37,17 @@ ht-degree: 2%
    >
    >**[!UICONTROL Add custom CSS]** 단추는 **[!UICONTROL Body]**&#x200B;을(를) 선택한 경우에만 사용할 수 있습니다. 하지만 사용자 지정 CSS 스타일을 콘텐츠 내의 모든 구성 요소에 적용할 수 있습니다.
 
-1. 표시되는 전용 텍스트 영역에 CSS 코드를 입력합니다. 사용자 지정 CSS가 올바르고 적절한 구문을 따르는지 확인하십시오. [자세히 알아보기](#use-valid-css)
+1. 표시되는 전용 텍스트 영역에 CSS 코드를 입력합니다. 사용자 지정 CSS [이(가) 유효하고 올바른 구문](#use-valid-css)을(를) 따르는지 확인하십시오. 완료되면 **저장**&#x200B;을 클릭합니다.
 
-   스크린샷
+   ![](assets/custom-css-2.png)
 
    >[!NOTE]
    >
    >잠긴 컨텐츠가 있는 [템플릿](/help/marketo/product-docs/email-marketing/email-designer/content-locking.md)을 사용할 때는 사용자 지정 CSS를 컨텐츠에 추가할 수 없습니다. 단추 레이블이 **[!UICONTROL View custom CSS]**(으)로 변경되고 표시된 모든 사용자 지정 CSS가 읽기 전용입니다.
 
-1. 사용자 지정 CSS를 저장하고 콘텐츠에 적용되는지 확인하십시오. 그렇지 않으면 [문제 해결](#troubleshooting) 섹션을 확인하십시오.
+1. CSS가 콘텐츠에 적용되는지 확인합니다. 그렇지 않으면 [문제 해결](#troubleshooting) 섹션을 확인하십시오.
 
-   스크린샷
+   ![](assets/custom-css-3.png)
 
    >[!NOTE]
    >
