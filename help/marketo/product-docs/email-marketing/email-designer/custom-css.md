@@ -5,10 +5,8 @@ title: 이메일 콘텐츠에 사용자 정의 CSS 추가
 description: Marketo Engage의 이메일 Designer 내에서 직접 이메일 콘텐츠에 사용자 지정 CSS를 추가하는 방법을 알아봅니다.
 level: Intermediate
 feature: Email Designer
-hide: true
-hidefromtoc: true
 exl-id: c191b44a-47ab-41f8-aa95-9268e359e5db
-source-git-commit: 37938db9eafbe7860448d438e2fa03adccd043ec
+source-git-commit: de3999dd6ede77c8fc591e24a69f062954b8c870
 workflow-type: tm+mt
 source-wordcount: '587'
 ht-degree: 3%
