@@ -6,9 +6,9 @@ description: Marketo Engage 사용자는 Litmus 계정을 통합하여 다양한
 level: Beginner, Intermediate
 feature: Email Designer
 exl-id: ccef36af-362a-4ac0-9030-492e9d7f10b5
-source-git-commit: ac1a80c3f337b71109f29583fdfd318e43fd3c79
+source-git-commit: e5bb92d007db05fc6d0ee1319cb989ad60063e48
 workflow-type: tm+mt
-source-wordcount: '259'
+source-wordcount: '261'
 ht-degree: 0%
 
 ---
@@ -19,7 +19,7 @@ Marketo Engage에서 [Litmus](https://www.litmus.com/email-testing) 계정을 �
 
 >[!AVAILABILITY]
 >
->이 기능은 활성 Litmus 계정이 있는 모든 Marketo Engage 사용자가 사용할 수 있습니다.
+>이 기능은 활성 [Litmus Enterprise](https://www.litmus.com/enterprise){target="_blank"} 계정이 있는 모든 Marketo Engage 사용자가 사용할 수 있습니다.
 
 ## 사용 방법 {#how-to-use}
 
@@ -59,6 +59,6 @@ Marketo Engage에서 [Litmus](https://www.litmus.com/email-testing) 계정을 �
 
    ![](assets/test-email-rendering-with-litmus-6.png)
 
-**선택적 단계**: 전자 메일을 변경하기로 결정한 경우 **전자 메일 렌더링**&#x200B;을 클릭하여 전자 메일을 확인한 후 Litmus _전자 메일 미리 보기_ 화면의 오른쪽 상단에 있는 **다시 테스트** 단추를 클릭해야 합니다.
+**선택적 단계**: 전자 메일을 변경하기로 결정한 경우 **전자 메일 렌더링**&#x200B;을 클릭하여 전자 메일을 확인한 후 Litmus **전자 메일 미리 보기** 화면의 오른쪽 상단에 있는 _다시 테스트_ 단추를 클릭해야 합니다.
 
 ![](assets/test-email-rendering-with-litmus-7.png)
