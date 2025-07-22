@@ -4,16 +4,16 @@ description: 이메일 편집기 v2.0 개요 - Marketo 문서 - 제품 설명서
 title: 이메일 편집기 v2.0 개요
 exl-id: 082570d5-3d26-48f5-83f4-76ad9efc9c9d
 feature: Email Editor
-source-git-commit: 1c40ab5912772c2a26dccde111a468daff16c3bc
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '426'
+source-wordcount: '390'
 ht-degree: 0%
 
 ---
 
 # 이메일 편집기 v2.0 개요 {#email-editor-v2-overview}
 
-이메일 편집기 v2.0을 활성화하기로 하면 몇 가지 새로운 기능이 표시됩니다.
+[!DNL Email Editor v2.0]을(를) 활성화하면 몇 가지 새로운 기능이 표시됩니다.
 
 **전자 메일 템플릿 선택기**
 
@@ -59,7 +59,7 @@ ht-degree: 0%
 
 ![](assets/email-editor-v2-overview-8.png)
 
-미리 보기를 더 크게 하려면 전자 메일의 오른쪽 상단에서 **미리 보기**&#x200B;를 클릭하세요.
+미리 보기를 더 크게 하려면 전자 메일의 오른쪽 상단에서 **[!UICONTROL Preview]**&#x200B;을(를) 클릭합니다.
 
 ![](assets/email-editor-v2-overview-9.png)
 
@@ -67,13 +67,13 @@ ht-degree: 0%
 
 ![](assets/email-editor-v2-overview-10.png)
 
-...하지만 모바일 디바이스에서 표시되는 모습도 확인할 수 있습니다. 텍스트 버전도 미리 볼 수 있습니다! 편집을 재개하려면 오른쪽 상단의 **초안 편집**&#x200B;을 클릭하면 됩니다.
+...하지만 모바일 디바이스에서 표시되는 모습도 확인할 수 있습니다. 텍스트 버전도 미리 볼 수 있습니다! 편집을 다시 시작하려면 오른쪽 상단의 **[!UICONTROL Edit Draft]**&#x200B;을(를) 클릭하면 됩니다.
 
 ![](assets/email-editor-v2-overview-11.png)
 
-**전자 메일 동작**
+**[!UICONTROL Email Actions]**
 
-**전자 메일 동작**&#x200B;에서 몇 가지 새로운 기능을 확인할 수 있습니다. **이미지 또는 파일을 업로드** 및 **웹에서 이미지 가져오기**. 이메일 자체를 새 이메일 템플릿으로 저장할 수도 있습니다. 이름과 목적지를 지정하면 됩니다.
+**[!UICONTROL Email Actions]**&#x200B;에서 몇 가지 새로운 기능을 확인할 수 있습니다. **[!UICONTROL Upload an Image or File]** 및 **[!UICONTROL Grab Images from Web]**. 이메일 자체를 새 이메일 템플릿으로 저장할 수도 있습니다. 이름과 목적지를 지정하면 됩니다.
 
 ![](assets/email-editor-v2-overview-12.png)
 
@@ -83,21 +83,21 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->**[웹에서 이미지 가져오기](/help/marketo/product-docs/demand-generation/images-and-files/grab-the-images-from-a-web-page.md)**&#x200B;는 Design Studio에서와 동일하게 작동합니다.
+>**[[!UICONTROL Grab Images from Web]](/help/marketo/product-docs/demand-generation/images-and-files/grab-the-images-from-a-web-page.md)**&#x200B;은(는) [!UICONTROL Design Studio]에서와 동일하게 작동합니다.
 
-**전자 메일 설정**&#x200B;에서 **공개 추적을 사용하지 않도록 설정**&#x200B;합니다. 필요한 경우 공개 추적을 사용할 수 없습니다.
+**[!UICONTROL Disable Open Tracking]** **[!UICONTROL Edit Settings]**&#x200B;에서 필요한 경우 공개 추적을 비활성화할 수 있습니다.
 
 ![](assets/email-editor-v2-overview-13.png)
 
-**전자 메일 설정**
+**[!UICONTROL Edit Settings]**
 
-프리 헤더를 추가할 수 있습니다. 프리헤더는 받은 편지함에서 전자 메일을 볼 때 제목 줄 다음의 짧은 요약 텍스트입니다.
+[!UICONTROL Preheader]을(를) 추가할 수 있습니다. [!UICONTROL Preheader]은(는) 받은 편지함에서 전자 메일을 볼 때 제목 줄 뒤에 있는 짧은 요약 텍스트입니다.
 
 ![](assets/email-editor-v2-overview-14.png)
 
 >[!CAUTION]
 >
->이메일 편집기를 사용할 때 토큰이 사전 헤더에서 작동하지 않습니다. 프리 헤더에서 토큰을 사용하려면 이메일 템플릿에서 자체 HTML을 통해 사용해야 합니다.
+>전자 메일 편집기를 사용할 때 [!UICONTROL Preheader]에서 토큰이 작동하지 않습니다. [!UICONTROL Preheader]에서 토큰을 사용하려면 전자 메일 템플릿에서 자신의 HTML을 통해 토큰을 사용해야 합니다.
 
 멋진 새로운 기능이 많이 있습니다! 재밌게 놀아!
 

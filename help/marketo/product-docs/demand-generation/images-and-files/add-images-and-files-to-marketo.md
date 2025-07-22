@@ -4,9 +4,9 @@ description: Marketo에 이미지 및 파일 추가 - Marketo 문서 - 제품 �
 title: Marketo에 이미지 및 파일 추가
 exl-id: 31462189-55fd-458e-8b28-85e525dad5b5
 feature: Image Editor
-source-git-commit: 52dec416ab853c729e1b119845085ffb06193203
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '115'
+source-wordcount: '102'
 ht-degree: 0%
 
 ---
@@ -15,15 +15,15 @@ ht-degree: 0%
 
 Marketo Engage 인스턴스에 새 이미지 또는 파일을 추가하는 방법을 알아봅니다.
 
-1. **디자인 스튜디오**(으)로 이동합니다.
+1. **[!UICONTROL Design Studio]**(으)로 이동합니다.
 
    ![](assets/add-images-and-files-to-marketo-1.png)
 
-1. **[!UICONTROL 이미지 및 파일 선택]**
+1. **[!UICONTROL Images and Files]** 선택
 
    ![](assets/add-images-and-files-to-marketo-2.png)
 
-1. **[!UICONTROL 이미지 및 파일 작업]** 드롭다운을 클릭하고 **[!UICONTROL 이미지 또는 파일 업로드]**&#x200B;를 선택합니다.
+1. **[!UICONTROL Image and file actions]** 드롭다운을 클릭하고 **[!UICONTROL Upload image or file]**&#x200B;을(를) 선택합니다.
 
    ![](assets/add-images-and-files-to-marketo-3.png)
 
@@ -41,7 +41,7 @@ Marketo Engage 인스턴스에 새 이미지 또는 파일을 추가하는 방�
 
    >[!NOTE]
    >
-   >Marketo에서는 업로드에 대해 모든 파일 유형을 허용하지만 주요 이미지 유형(JPG, PNG, GIF 등)만 허용합니다. 은 이메일 편집기에서 작동합니다.
+   >Marketo에서는 모든 파일 형식을 업로드용으로 허용하지만 주요 이미지 형식(JPG, PNG, GIF 등)만 이메일 편집기에서 작동합니다.
 
    >[!MORELIKETHIS]
    >

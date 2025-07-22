@@ -4,10 +4,10 @@ description: 양식 글꼴 크기 변경 - Marketo 문서 - 제품 설명서
 title: 양식 글꼴 크기 변경
 exl-id: 20774590-9209-4c3f-a791-dcbe7bb38031
 feature: Forms
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '119'
-ht-degree: 0%
+source-wordcount: '106'
+ht-degree: 1%
 
 ---
 
@@ -19,27 +19,27 @@ Marketo을 사용하면 양식의 모양과 느낌을 손쉽게 맞춤화할 수
 >
 >이 설정은 양식 레이블, 입력 텍스트 및 제출 단추 텍스트에 영향을 줍니다.
 
-1. **마케팅 활동**(으)로 이동합니다.
+1. **[!UICONTROL Marketing Activities]**(으)로 이동합니다.
 
    ![](assets/login-marketing-activities-1.png)
 
-1. 양식을 선택하고 **양식 편집**&#x200B;을 클릭합니다.
+1. 양식을 선택하고 **[!UICONTROL Edit Form]**&#x200B;을(를) 클릭합니다.
 
    ![](assets/image2014-9-15-16-3a9-3a41.png)
 
-1. **양식 설정**&#x200B;에서 **설정**&#x200B;을 선택합니다.
+1. **[!UICONTROL Form Settings]**&#x200B;에서 **[!UICONTROL Settings]**&#x200B;을(를) 선택합니다.
 
    ![](assets/image2014-9-15-16-3a9-3a56.png)
 
-1. 원하는 **글꼴 크기**&#x200B;를 선택하십시오.
+1. 원하는 **[!UICONTROL Font Size]**&#x200B;을(를) 선택하십시오.
 
    ![](assets/image2014-9-15-16-3a10-3a8.png)
 
-1. **마침**&#x200B;을 클릭합니다.
+1. **[!UICONTROL Finish]**&#x200B;을(를) 클릭합니다.
 
    ![](assets/image2014-9-15-16-3a10-3a50.png)
 
-1. **승인 및 닫기**&#x200B;를 클릭합니다.
+1. **[!UICONTROL Approve and Close]**&#x200B;을(를) 클릭합니다.
 
    >[!NOTE]
    >

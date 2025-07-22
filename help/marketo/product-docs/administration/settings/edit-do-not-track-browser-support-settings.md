@@ -4,10 +4,10 @@ description: '"추적 안 함" 브라우저 지원 설정 편집 - Marketo 문�
 title: '"추적 안 함" 브라우저 지원 설정 편집'
 exl-id: 22248911-21e9-4e13-9132-22415aa114fc
 feature: Administration
-source-git-commit: 02b2e39580c5eac63de4b4b7fdaf2a835fdd4ba5
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '128'
-ht-degree: 0%
+source-wordcount: '120'
+ht-degree: 1%
 
 ---
 
@@ -21,9 +21,9 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->&quot;추적 안 함&quot;은 기본적으로 &quot;무시&quot;로 설정되므로, 원하는 경우 별도의 조치를 취할 필요가 없습니다.
+>&quot;추적 안 함&quot;은 기본적으로 **[!UICONTROL Ignore]**(으)로 설정되므로 원하는 경우 단계를 수행할 필요가 없습니다.
 
-1. **[!UICONTROL 관리자]**&#x200B;를 클릭합니다.
+1. **[!UICONTROL Admin]**&#x200B;을(를) 클릭합니다.
 
    ![](assets/edit-do-not-track-browser-support-settings-1.png)
 
@@ -31,11 +31,11 @@ ht-degree: 0%
 
    ![](assets/edit-do-not-track-browser-support-settings-2.png)
 
-1. **[!UICONTROL 개인 추적]**&#x200B;에서 **[!UICONTROL 편집]**&#x200B;을 클릭하세요.
+1. **[!UICONTROL Person Tracking]**&#x200B;에서 **[!UICONTROL Edit]**&#x200B;을(를) 클릭합니다.
 
    ![](assets/edit-do-not-track-browser-support-settings-3.png)
 
-1. **[!UICONTROL 지원]**&#x200B;을 선택하고 **[!UICONTROL 저장]**&#x200B;을 클릭합니다.
+1. **[!UICONTROL Support]**&#x200B;을(를) 선택하고 **[!UICONTROL Save]**&#x200B;을(를) 클릭합니다.
 
    ![](assets/edit-do-not-track-browser-support-settings-4.png)
 

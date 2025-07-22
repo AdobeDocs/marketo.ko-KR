@@ -4,26 +4,26 @@ description: 권장 템플릿 - Marketo 문서 - 제품 설명서
 title: 추천 템플릿
 exl-id: 77356b26-ac9d-47c3-8547-1ab1009f6ca6
 feature: Marketo Sales Connect
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '325'
+source-wordcount: '307'
 ht-degree: 0%
 
 ---
 
 # 추천 템플릿 {#recommended-templates}
 
-Sales Connect의 권장 템플릿을 사용하면 시간을 절약하면서 올바른 메시지를 얻을 수 있습니다. 이렇게 하면 이메일을 보낼 때 더 많은 흐름을 사용할 수 있으며, 적합한 사람에게 적합한 이메일을 찾으려고 할 때 불확실성을 줄일 수 있습니다.
+[!DNL Sales Connect]의 권장 템플릿을 사용하면 시간을 절약하는 동시에 올바른 메시지를 얻을 수 있습니다. 이렇게 하면 이메일을 보낼 때 더 많은 흐름을 사용할 수 있으며, 적합한 사람에게 적합한 이메일을 찾으려고 할 때 불확실성을 줄일 수 있습니다.
 
-1. 템플릿 탭으로 이동합니다.
+1. [!UICONTROL Templates] 탭으로 이동합니다.
 
 1. 추천할 템플릿을 선택하고 **편집**&#x200B;을 클릭합니다.
 
-1. 템플릿에 권장 템플릿 기능을 사용하려면 **다음 경우에 이 템플릿 자동 제안**&#x200B;을 확인하세요.
+1. 템플릿에 권장 템플릿 기능을 사용하려면 **[!UICONTROL Auto-Suggest this template when]**&#x200B;을(를) 확인하십시오.
 
 ## 모든 항목과 모든 항목 {#all-vs-any}
 
-이제 기준 설정을 선택할 차례입니다. 모든 기준이 충족될 때 템플릿을 추천하려면 **모두**&#x200B;를 선택합니다. 조건 중 하나가 충족될 때 템플릿을 추천하려면 **모두**&#x200B;를 선택하십시오.
+이제 기준 설정을 선택할 차례입니다. 모든 기준이 충족될 때 템플릿을 추천하려면 **[!UICONTROL All]**&#x200B;을(를) 선택합니다. 기준 중 하나가 충족될 때 템플릿을 추천하려면 **[!UICONTROL Any]**&#x200B;을(를) 선택합니다.
 
 ## 기준 설정 {#setting-criteria}
 
@@ -33,16 +33,16 @@ Sales Connect의 권장 템플릿을 사용하면 시간을 절약하면서 올�
 
 이제 상태를 선택합니다. 동적 필드에 대한 조건이 충족되면 템플릿을 사용하는 것이 좋습니다. 4가지 다른 조건 중에서 선택합니다.
 
-**같음**: 값은 정확히 일치해야 합니다(예: Marketo이 Marketo과 같음).
+**[!UICONTROL Equals]**: 값은 정확히 일치해야 합니다(예: Marketo은 Marketo과 같음).
 
-**같지 않음**: 값은 정확히 일치해야 합니다(예: 마케팅 국가가 마케팅과 같지 않음).
+**[!UICONTROL Does not Equal]**: 값은 정확히 일치해야 합니다(예: 마케팅 국가가 마케팅과 같지 않음).
 
-**포함**: 값만 포함해야 합니다(예: Marketo Rocks! Marketo 포함)
+**[!UICONTROL Contains]**: 값만 포함하면 됩니다(예: Marketo Rocks!). Marketo 포함)
 
-**포함하지 않음**: 값이 동적 필드(예: Marketo Rocks!)에 있지 않아야 합니다. 은(는) Awesome을 포함하지 않습니다.
+**[!UICONTROL Does Not Contain]**: 값이 동적 필드에 있지 않아야 합니다(예: Marketo Rocks! 은(는) Awesome을 포함하지 않습니다.
 
 ## 추천 템플릿의 모양 {#what-a-recommended-template-looks-like}
 
-기준이 설정되었으므로 템플릿을 저장합니다. 여기에서 Sales Connect는 최고의 템플릿을 제공하기 위해 매혹적인 작업을 수행합니다.
+기준이 설정되었으므로 템플릿을 저장합니다. 여기에서 [!DNL Sales Connect]은(는) 최고의 템플릿을 제공하기 위해 매혹적인 작업을 수행합니다.
 
 이제 첫 번째 템플릿을 매핑했으므로 나머지 템플릿을 매핑할 차례입니다. 가장 성공한 템플릿을 살펴보고 추천합니다. 템플릿을 팀과 공유하는 것도 잊지 마십시오. 템플릿에 대한 권장 설정도 팀 간에 공유됩니다.

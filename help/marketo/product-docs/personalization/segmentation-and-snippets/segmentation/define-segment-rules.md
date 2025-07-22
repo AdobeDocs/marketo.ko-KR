@@ -4,9 +4,9 @@ description: 세그먼트 규칙 정의 - Marketo 문서 - 제품 설명서
 title: 세그먼트 규칙 정의
 exl-id: e6631848-aa8c-4709-b182-4c88abbd365b
 feature: Segmentation
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '378'
+source-wordcount: '367'
 ht-degree: 0%
 
 ---
@@ -19,15 +19,15 @@ ht-degree: 0%
 >
 >[세분화 만들기](/help/marketo/product-docs/personalization/segmentation-and-snippets/segmentation/create-a-segmentation.md)
 
-1. **데이터베이스로 이동합니다.**
+1. **[!UICONTROL Database]**(으)로 이동합니다.
 
    ![](assets/image2017-3-28-14-3a7-3a42.png)
 
-1. 트리에서 **세그먼테이션**&#x200B;을(를) 선택한 다음 특정 **세그먼트**&#x200B;를 클릭하십시오.
+1. 트리에서 **[!UICONTROL Segmentations]**&#x200B;을(를) 선택한 다음 특정 **세그먼트**&#x200B;를 클릭합니다.
 
    ![](assets/image2017-3-28-14-3a11-3a15.png)
 
-1. **스마트 목록**&#x200B;을 클릭하고 필터를 추가합니다.
+1. **[!UICONTROL Smart List]**&#x200B;을(를) 클릭하고 필터를 추가합니다.
 
    ![](assets/image2017-3-28-14-3a18-3a19.png)
 
@@ -47,11 +47,11 @@ ht-degree: 0%
    >
    >계정 필드에 대한 활동 로깅 동작이 자격에 영향을 줄 수 있습니다. 따라서 세그먼트 규칙을 정의할 때 계정 필드를 사용하지 않는 것이 좋습니다.
 
-1. 이 세그먼트의 회원이 될 자격이 있는 사람을 보려면 **사람(초안)** 탭을 클릭하십시오.
+1. **[!UICONTROL People (Draft)]** 탭을 클릭하여 이 세그먼트의 구성원이 될 수 있는 사람을 봅니다.
 
    ![](assets/image2017-3-28-14-3a20-3a15.png)
 
-1. **세그먼테이션 작업**(으)로 이동합니다. **승인**&#x200B;을 클릭합니다.
+1. **[!UICONTROL Segmentation Actions]**(으)로 이동합니다. **[!UICONTROL Approve]**&#x200B;을(를) 클릭합니다.
 
    ![](assets/image2014-9-15-11-3a36-3a7.png)
 
@@ -73,7 +73,7 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->사람(초안) 화면은 구성원 자격이 있는 모든 사람을 표시하며 항상 최종 사용자 목록은 아닙니다. 최종 목록을 보려면 세그먼트를 승인하십시오.
+>[!UICONTROL People (Draft)] 화면은 구성원 자격이 있는 모든 사람을 표시하며 항상 최종 사용자 목록은 아닙니다. 최종 목록을 보려면 세그먼트를 승인하십시오.
 
 >[!MORELIKETHIS]
 >

@@ -4,10 +4,10 @@ description: 계정 프로파일링 설정 - Marketo 문서 - 제품 설명서
 title: 계정 프로파일링 설정
 exl-id: 6f3af2e7-f820-473b-8ed6-ff0982672e54
 feature: Target Account Management
-source-git-commit: 2f978d814f4cf2d4d2ca9ead0c1a3e5c15430520
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '169'
-ht-degree: 2%
+source-wordcount: '157'
+ht-degree: 3%
 
 ---
 
@@ -30,19 +30,19 @@ ht-degree: 2%
 >
 >여기에서 [필드 숨김을 취소](/help/marketo/product-docs/administration/field-management/hide-and-unhide-a-field.md#unhide-a-field)하는 방법을 알아보세요.
 
-1. 내 Marketo에서 **Target 계정 관리**&#x200B;를 엽니다.
+1. 내 Marketo에서 **[!UICONTROL Target Account Management]**&#x200B;을(를) 엽니다.
 
    ![](assets/setting-up-account-profiling-1.png)
 
-1. **계정 프로파일링** 탭을 클릭합니다.
+1. **[!UICONTROL Account Profiling]** 탭을 클릭합니다.
 
    ![](assets/two-1.png)
 
-1. 기본적으로 모델(Model) 탭이 열립니다. **시작하기**&#x200B;를 클릭합니다.
+1. 기본적으로 모델(Model) 탭이 열립니다. **[!UICONTROL Get Started]**&#x200B;을(를) 클릭합니다.
 
    ![](assets/three.png)
 
-1. 모델의 이름을 지정하고 이상적인 고객 프로필(ICP)의 기반으로 사용할 사람의 목록 유형/목록을 선택하십시오. 완료되면 **모델 만들기**&#x200B;를 클릭합니다.
+1. 모델의 이름을 지정하고 이상적인 고객 프로필(ICP)의 기반으로 사용할 사람의 목록 유형/목록을 선택하십시오. 완료되면 **[!UICONTROL Create Model]**&#x200B;을(를) 클릭합니다.
 
    ![](assets/setting-up-account-profiling-4.png)
 
@@ -50,7 +50,7 @@ ht-degree: 2%
 
    ![](assets/five.png)
 
-1. 모델의 결과를 보려면 **모델 결과 보기**&#x200B;를 클릭하십시오.
+1. 모델의 결과를 보려면 **[!UICONTROL See Model Result]**&#x200B;을(를) 클릭하십시오.
 
    ![](assets/six.png)
 

@@ -3,9 +3,9 @@ description: 새 Sales Connect 인스턴스에 액세스 - Marketo 문서 - 제�
 title: 새 Sales Connect 인스턴스에 액세스
 exl-id: 0add0841-8909-4cb2-9db7-08a5e79b0ed8
 feature: Marketo Sales Connect
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '119'
+source-wordcount: '114'
 ht-degree: 0%
 
 ---
@@ -18,15 +18,15 @@ ht-degree: 0%
 
 Sales Connect를 구매하면 Marketo 인스턴스에 새 통합 페이지가 나타납니다. 이 페이지에서는 첫 번째 사용자를 초대하고 Sales Connect 인스턴스를 프로비저닝할 수 있습니다.
 
-1. Marketo에서 **관리자**&#x200B;를 클릭합니다.
+1. Marketo에서 **[!UICONTROL Admin]**&#x200B;을(를) 클릭합니다.
 
    ![](assets/accessing-your-new-sales-connect-instance-1.png)
 
-1. **판매 연결**&#x200B;을 클릭합니다.
+1. **[!UICONTROL Sales Connect]**&#x200B;을(를) 클릭합니다.
 
    ![](assets/accessing-your-new-sales-connect-instance-2.png)
 
-1. 초대할 Marketo 관리자 목록에서 선택하고 **초대 보내기**&#x200B;를 클릭합니다.
+1. 초대할 Marketo 관리자 목록에서 선택하고 **[!UICONTROL Send Invite]**&#x200B;을(를) 클릭합니다.
 
    ![](assets/accessing-your-new-sales-connect-instance-3.png)
 

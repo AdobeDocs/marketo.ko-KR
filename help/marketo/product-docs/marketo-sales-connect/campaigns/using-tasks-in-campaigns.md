@@ -4,9 +4,9 @@ description: 캠페인에서 작업 사용 - Marketo 문서 - 제품 설명서
 title: 캠페인에서 작업 사용
 exl-id: 444e7e3a-d774-40cf-82d1-40e395a79baa
 feature: Marketo Sales Connect
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '193'
+source-wordcount: '192'
 ht-degree: 0%
 
 ---
@@ -25,4 +25,4 @@ Campaign의 Tasks는 이메일을 보내는 작업과 연락처를 호출하는 
 
 작업은 항상 캠페인의 각 개인과 연결됩니다. 즉, 개별 캠페인을 진행하려면 각 개인으로 이동하여 작업을 닫아야 합니다.
 
-Campaign 2.0의 Campaign 작업 탭에서, 명령 센터에서 직접 또는 라이브 피드의 작업 섹션에서 작업을 관리할 수 있습니다. 또한 Salesforce에서 작업을 관리할 수도 있습니다.
+Campaign 2.0의 Campaign 작업 탭에서, 명령 센터에서 직접 또는 라이브 피드의 작업 섹션에서 작업을 관리할 수 있습니다. 또한 [!DNL Salesforce]에서 작업을 관리할 수도 있습니다.

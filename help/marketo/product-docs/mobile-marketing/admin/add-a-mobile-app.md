@@ -4,10 +4,10 @@ description: 모바일 앱 추가 - Marketo 문서 - 제품 설명서
 title: 모바일 앱 추가
 exl-id: 79edf8cb-4d8b-440a-aa8a-6ead1a93b95a
 feature: Mobile Marketing
-source-git-commit: 2671f81f62658447e4b2a3dc2e02a4e0927443e8
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '199'
-ht-degree: 1%
+source-wordcount: '185'
+ht-degree: 2%
 
 ---
 
@@ -20,27 +20,27 @@ ht-degree: 1%
 >[!AVAILABILITY]
 >
 >
->일부 Marketo Engage 사용자가 이 기능을 구입한 것은 아닙니다. 자세한 내용은 Adobe 계정 팀(계정 관리자)에 문의하십시오.
+>모든 Marketo Engage 사용자가 이 기능을 구입한 것은 아닙니다. 자세한 내용은 Adobe 계정 팀(계정 관리자)에 문의하십시오.
 
-1. **관리자**&#x200B;를 클릭합니다.
+1. **[!UICONTROL Admin]**&#x200B;을(를) 클릭합니다.
 
    ![](assets/image2015-4-22-16-3a12-3a32.png)
 
-1. **모바일 앱 및 장치**&#x200B;를 클릭합니다.
+1. **[!UICONTROL Mobile Apps & Devices]**&#x200B;을(를) 클릭합니다.
 
    ![](assets/image2016-1-12-15-3a42-3a30.png)
 
-1. **새 모바일 앱**&#x200B;을 클릭합니다.
+1. **[!UICONTROL New Mobile App]**&#x200B;을(를) 클릭합니다.
 
    ![](assets/image2015-4-22-16-3a17-3a15.png)
 
-1. 이름을 입력합니다. **유형** 드롭다운에서 사용 중인 환경 유형(샌드박스 또는 프로덕션)을 선택합니다. **저장**&#x200B;을 클릭합니다.
+1. 이름을 입력합니다. **[!UICONTROL Type]** 드롭다운에서 사용 중인 환경 유형—[!UICONTROL Sandbox] 또는 [!UICONTROL Production]을(를) 선택합니다. **[!UICONTROL Save]**&#x200B;을(를) 클릭합니다.
 
    ![](assets/image2015-11-18-15-3a52-3a15.png)
 
    >[!NOTE]
    >
-   >프로덕션 환경에서는 프로덕션 알림 인증서를 사용하는 것이 좋습니다. 샌드박스 인증서는 문제 없이 프로덕션 환경에 설치되지만 알림이 수신되지 않습니다. 환경 또는 알림 인증서에 대한 질문이 있는 경우 Marketo 관리자 또는 모바일 앱 개발자에게 문의하십시오.
+   >[!UICONTROL Production] 환경에서 [!UICONTROL Production] 알림 인증서를 사용하는 것이 좋습니다. [!UICONTROL Sandbox] 인증서가 [!UICONTROL Production] 환경에 문제 없이 설치되지만 알림이 수신되지 않습니다. 환경 또는 알림 인증서에 대한 질문이 있는 경우 Marketo 관리자 또는 모바일 앱 개발자에게 문의하십시오.
 
    좋네! 이제 Android 및 iOS 장치에서 작동하도록 앱을 구성해 보겠습니다.
 

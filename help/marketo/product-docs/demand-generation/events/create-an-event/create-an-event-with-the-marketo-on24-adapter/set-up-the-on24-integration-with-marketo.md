@@ -3,9 +3,9 @@ description: Marketo - Marketo 문서 - 제품 설명서와 ON24 통합 설정
 title: Marketo과 ON24 통합 설정
 exl-id: 395ffa37-b87d-4eb4-bf9f-72aa96dc819c
 feature: Events
-source-git-commit: e3f61755dccd9bea1378a429fc428b440fc3ecb4
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '263'
+source-wordcount: '205'
 ht-degree: 1%
 
 ---
@@ -16,37 +16,37 @@ ht-degree: 1%
 
 ## API 전용 역할 만들기 {#create-an-api-only-role}
 
-1. 내 Marketo에서 **관리자**&#x200B;를 클릭합니다.
+1. 내 Marketo에서 **[!UICONTROL Admin]**&#x200B;을(를) 클릭합니다.
 
    ![](assets/set-up-the-on24-integration-with-marketo-1.png)
 
-1. 보안에서 **사용자 및 역할**&#x200B;을 클릭합니다.
+1. [!UICONTROL Security]에서 **[!UICONTROL Users & Roles]**&#x200B;을(를) 클릭합니다.
 
    ![](assets/set-up-the-on24-integration-with-marketo-2.png)
 
-1. **역할** 탭을 클릭한 다음 **새 역할**&#x200B;을 클릭합니다.
+1. **[!UICONTROL Roles]** 탭을 클릭한 다음 **[!UICONTROL New Role]**&#x200B;을(를) 클릭합니다.
 
    ![](assets/set-up-the-on24-integration-with-marketo-3.png)
 
-1. 역할 이름을 입력합니다. **API 액세스** 메뉴를 열고 &quot;사용자 지정 개체 읽기-쓰기&quot; 및 &quot;사용자 읽기-쓰기&quot;를 선택하십시오. **만들기**&#x200B;를 클릭합니다.
+1. [!UICONTROL Role Name] 입력. **[!UICONTROL Access API]** 메뉴를 열고 &quot;[!UICONTROL Read-Write Custom Object]&quot; 및 &quot;[!UICONTROL Read-Write Person]&quot;을(를) 선택합니다. **[!UICONTROL Create]**&#x200B;을(를) 클릭합니다.
 
    ![](assets/set-up-the-on24-integration-with-marketo-4.png)
 
 ## 새 사용자 만들기 {#create-a-new-user}
 
-1. 여전히 사용자 및 역할에서 **사용자** 탭을 클릭하고 **새 사용자 초대**&#x200B;를 클릭합니다.
+1. [!UICONTROL Users & Roles]에서 **[!UICONTROL Users]** 탭을 클릭하고 **[!UICONTROL Invite New User]**&#x200B;을(를) 클릭합니다.
 
    ![](assets/set-up-the-on24-integration-with-marketo-5.png)
 
-1. 새 사용자 정보를 입력하고 **다음**&#x200B;을(를) 클릭합니다.
+1. 새 사용자 정보를 입력하고 **[!UICONTROL Next]**&#x200B;을(를) 클릭합니다.
 
    ![](assets/set-up-the-on24-integration-with-marketo-6.png)
 
-1. 방금 만든 ON24 API 전용 역할을 선택합니다. **API만** 확인란을 선택하십시오. **다음**&#x200B;을 클릭합니다.
+1. 방금 만든 [!UICONTROL ON24 API Only Role (all workspaces)]을(를) 선택합니다. **[!UICONTROL API Only]** 확인란을 선택합니다. **[!UICONTROL Next]**&#x200B;을(를) 클릭합니다.
 
    ![](assets/set-up-the-on24-integration-with-marketo-7.png)
 
-1. **보내기**&#x200B;를 클릭합니다.
+1. **[!UICONTROL Send]**&#x200B;을(를) 클릭합니다.
 
    ![](assets/set-up-the-on24-integration-with-marketo-8.png)
 
@@ -56,31 +56,31 @@ ht-degree: 1%
 
 ## ON24 연결 설정 {#set-up-on24-connection}
 
-1. 관리자 섹션에서 **LaunchPoint**&#x200B;을(를) 클릭합니다.
+1. [!UICONTROL Admin] 섹션에서 **[!UICONTROL LaunchPoint]**&#x200B;을(를) 클릭합니다.
 
    ![](assets/set-up-the-on24-integration-with-marketo-9.png)
 
-1. **새로 만들기**&#x200B;를 클릭한 다음 **새 서비스**&#x200B;를 클릭합니다.
+1. **[!UICONTROL New]**&#x200B;을(를) 클릭한 다음 **[!UICONTROL New Service]**&#x200B;을(를) 클릭합니다.
 
    ![](assets/set-up-the-on24-integration-with-marketo-10.png)
 
-1. 표시 이름을 선택합니다. **서비스** 드롭다운을 클릭하고 **사용자 지정**&#x200B;을 선택합니다. 설명을 입력합니다. API 전용 사용자 드롭다운을 클릭하고 위의 단계[&#128279;](#create-a-new-user)에서 을(를) 만든 사용자를 선택합니다. **만들기**&#x200B;를 클릭합니다.
+1. [!UICONTROL display name] 선택. **[!UICONTROL Service]** 드롭다운을 클릭하고 **[!UICONTROL Custom]**&#x200B;을(를) 선택합니다. [!UICONTROL description] 입력. [!UICONTROL API Only User] 드롭다운을 클릭하고 위의 단계[에서 ](#create-a-new-user)을(를) 만든 사용자를 선택합니다. **[!UICONTROL Create]**&#x200B;을(를) 클릭합니다.
 
    ![](assets/set-up-the-on24-integration-with-marketo-11.png)
 
-1. 방금 만든 사용자 지정 LaunchPoint 서비스를 찾은 다음 세부 정보 보기를 클릭합니다.
+1. 방금 만든 사용자 지정 [!DNL LaunchPoint] 서비스를 찾은 다음 [!UICONTROL View Details]을(를) 클릭합니다.
 
    ![](assets/set-up-the-on24-integration-with-marketo-12.png)
 
-1. 클라이언트 ID를 강조 표시하고, 마우스 오른쪽 단추로 클릭하고, 복사한 다음 저장합니다(나중에 필요함). 클라이언트 암호에 대해 이 작업을 반복합니다.
+1. [!UICONTROL Client ID]을(를) 강조 표시하고, 마우스 오른쪽 단추로 클릭하고, 복사하고, 저장합니다(나중에 필요함). [!UICONTROL Client Secret]에 대해 반복합니다.
 
    ![](assets/set-up-the-on24-integration-with-marketo-13.png)
 
-1. 왼쪽의 트리에서 웹 서비스를 클릭합니다.
+1. 왼쪽의 트리에서 **[!UICONTROL Web Services]**&#x200B;을(를) 클릭합니다.
 
    ![](assets/set-up-the-on24-integration-with-marketo-14.png)
 
-1. &quot;REST API&quot;에서 ID의 첫 번째 부분(.com의 &#39;m&#39;까지)을 강조 표시하고, 마우스 오른쪽 단추로 클릭하고, 복사하고, 저장합니다.
+1. &quot;[!UICONTROL REST API]&quot; 아래에서 [!UICONTROL Identity]의 첫 부분을 마우스 오른쪽 단추로 클릭하고 복사한 후 저장합니다(.com의 &#39;m&#39;까지).
 
    ![](assets/set-up-the-on24-integration-with-marketo-15.png)
 

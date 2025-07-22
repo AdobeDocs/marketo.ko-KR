@@ -4,9 +4,9 @@ description: 인앱 메시지 예약 - Marketo 문서 - 제품 설명서
 title: 인앱 메시지 예약
 exl-id: 2ff785b4-a0c9-4c04-869b-86fba7b997d7
 feature: Mobile Marketing
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '86'
+source-wordcount: '81'
 ht-degree: 0%
 
 ---
@@ -15,7 +15,7 @@ ht-degree: 0%
 
 메시지를 지금 보내거나 나중에 보내도록 예약하십시오.
 
-1. 인앱 메시지를 예약하려면 **미래 날짜 설정**&#x200B;을 선택하고 드롭다운 달력에서 시작 날짜를 선택하십시오.
+1. 인앱 메시지를 예약하려면 **[!UICONTROL Set future date]**&#x200B;을(를) 선택하고 드롭다운 달력에서 시작 날짜를 선택하십시오.
 
    ![](assets/schedule-your-in-app-message-1.png)
 
@@ -27,7 +27,7 @@ ht-degree: 0%
 
    ![](assets/schedule-your-in-app-message-3.png)
 
-1. 또는 지금 프로그램을 실행하려면 **즉시 실행**&#x200B;을 선택하세요. 시작 날짜 필드가 사라집니다.
+1. 또는 지금 프로그램을 실행하려면 **[!UICONTROL Run Immediately]**&#x200B;을(를) 선택하십시오. 시작 날짜 필드가 사라집니다.
 
    ![](assets/schedule-your-in-app-message-4.png)
 

@@ -4,20 +4,20 @@ description: 기존 웹 캠페인 편집 - Marketo 문서 - 제품 설명서
 title: 기존 웹 캠페인 편집
 exl-id: 2c20f57d-2ee4-4d81-a8db-7d4de319fa78
 feature: Web Personalization
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '60'
+source-wordcount: '55'
 ht-degree: 0%
 
 ---
 
 # 기존 웹 캠페인 편집 {#edit-an-existing-web-campaign}
 
-1. **웹 캠페인**(으)로 이동합니다.
+1. **[!UICONTROL Web Campaigns]**(으)로 이동합니다.
 
    ![](assets/image2016-8-18-16-3a15-3a14.png)
 
-1. **웹 캠페인** 페이지에서 편집할 캠페인에 대해 **편집**&#x200B;을 클릭합니다.
+1. **[!UICONTROL Web Campaigns]** 페이지에서 편집할 캠페인의 **[!UICONTROL Edit]**&#x200B;을(를) 클릭합니다.
 
    ![](assets/web-campaigns-1-edit-hand.png)
 

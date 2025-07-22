@@ -4,9 +4,9 @@ description: 프로그램의 내 토큰 이해 - Marketo 문서 - 제품 설명�
 title: 프로그램의 내 토큰 이해
 exl-id: 01b42272-c419-4cd5-ad30-87413ceb2032
 feature: Tokens
-source-git-commit: f21d9356f00f8ea50819b591d15ca06d61256d8b
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '417'
+source-wordcount: '414'
 ht-degree: 1%
 
 ---
@@ -46,7 +46,7 @@ ht-degree: 1%
   </tr> 
   <tr> 
    <td>이메일 스크립트 <img alt="--" src="assets/image2014-9-25-16-3a45-3a4.png" data-linked-resource-id="3083232" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="1147114"></td> 
-   <td>이 토큰을 사용하여 이메일에서 Velocity 스크립트를 실행하십시오. <a href="https://experienceleague.adobe.com/ko/docs/marketo-developer/marketo/email-scripting" title="링크 따라가기" rel="nofollow">여기</a>에서 자세히 알아보세요. </td> 
+   <td>이 토큰을 사용하여 이메일에서 Velocity 스크립트를 실행하십시오. <a href="https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/email-scripting" title="링크 따라가기" rel="nofollow">여기</a>에서 자세히 알아보세요. </td> 
   </tr> 
   <tr> 
    <td>번호<span> <img alt="--" src="assets/image2014-9-25-16-3a45-3a25.png" data-linked-resource-id="3083233" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="1147114"></span></td> 
@@ -73,7 +73,7 @@ ht-degree: 1%
 
 >[!CAUTION]
 >
->Microsoft Dynamics 또는 Salesforce의 Sales Insight에서 이메일을 전송할 때 내 토큰이 확인되지 않습니다. 표준 토큰만 채워집니다 (Lead, Company 등). 그러나 토큰 _will_&#x200B;의 기본값은 작동합니다.
+>[!DNL Microsoft Dynamics] 또는 [!DNL Salesforce]에서 Sales Insight에서 전자 메일을 보낼 때 내 토큰이 확인되지 않습니다. 표준 토큰만 채워집니다(Lead, Company 등). 그러나 토큰 _will_&#x200B;의 기본값은 작동합니다.
 
 ## 토큰 중첩 {#nesting-tokens}
 

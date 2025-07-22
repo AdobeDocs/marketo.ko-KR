@@ -4,9 +4,9 @@ description: 연락처 만들기 및 삭제 - Marketo 문서 - 제품 설명서
 title: 연락처 만들기 및 삭제
 exl-id: 04e2887b-8515-4d48-8a94-ccff00805210
 feature: Marketo Sales Connect
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '121'
+source-wordcount: '107'
 ht-degree: 0%
 
 ---
@@ -15,11 +15,11 @@ ht-degree: 0%
 
 ## 연락처 만들기 {#creating-contacts}
 
-1. 인물 페이지에서 **그룹 작업** 단추를 클릭하고 **연락처 만들기**&#x200B;를 선택합니다.
+1. [!UICONTROL People] 페이지에서 **[!UICONTROL Group Actions]** 단추를 클릭하고 **[!UICONTROL Create Contact]**&#x200B;을(를) 선택합니다.
 
    ![](assets/one-2.png)
 
-1. 이름/성 및 이메일 주소를 원하는 기타 정보와 함께 입력합니다. 완료되면 **만들기**&#x200B;를 클릭하거나 **새로 만들기 및 추가**&#x200B;를 클릭하여 연락처를 더 추가하세요.
+1. 이름/성 및 이메일 주소를 원하는 기타 정보와 함께 입력합니다. 완료되면 **[!UICONTROL Create]**&#x200B;을(를) 클릭하거나 **[!UICONTROL Create and Add New]**&#x200B;을(를) 클릭하여 연락처를 더 추가합니다.
 
    ![](assets/two-2.png)
 
@@ -29,7 +29,7 @@ ht-degree: 0%
 
 ## 연락처 삭제 {#deleting-contacts}
 
-1. 인물 페이지에서 삭제하려는 연락처의 상자를 선택합니다.
+1. [!UICONTROL People] 페이지에서 삭제할 연락처의 상자를 선택합니다.
 
    ![](assets/three-2.png)
 
@@ -37,10 +37,10 @@ ht-degree: 0%
    >
    >여러 연락처를 삭제하려면 여러 사람을 선택하면 됩니다. 나머지 단계는 동일합니다.
 
-1. 점(세 개의 세로 점)을 클릭하고 **삭제**&#x200B;를 선택합니다.
+1. 점(세 개의 세로 점)을 클릭하고 **[!UICONTROL Delete]**&#x200B;을(를) 선택합니다.
 
    ![](assets/four-2.png)
 
-1. 확인하려면 **연락처 삭제**&#x200B;를 클릭하세요.
+1. **[!UICONTROL Delete Contact]**&#x200B;을(를) 클릭하여 확인합니다.
 
    ![](assets/five-2.png)

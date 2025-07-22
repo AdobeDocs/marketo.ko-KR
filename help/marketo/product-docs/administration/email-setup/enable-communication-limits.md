@@ -4,10 +4,10 @@ description: 통신 제한 활성화 - Marketo 문서 - 제품 설명서
 title: 통신 제한 활성화
 exl-id: c69c083c-08fe-49fc-91d4-5b1ff82a2e52
 feature: Email Setup
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '160'
-ht-degree: 1%
+source-wordcount: '141'
+ht-degree: 3%
 
 ---
 
@@ -19,35 +19,35 @@ ht-degree: 1%
 >
 >**관리자 권한 필요**
 
-1. **[!UICONTROL 관리자]** 영역으로 이동합니다.
+1. **[!UICONTROL Admin]** 영역으로 이동합니다.
 
    ![](assets/enable-communication-limits-1.png)
 
-1. **[!UICONTROL 통신 제한]**&#x200B;을 클릭합니다.
+1. **[!UICONTROL Communication Limits]**&#x200B;을(를) 클릭합니다.
 
    ![](assets/enable-communication-limits-2.png)
 
-1. **[!UICONTROL 편집]**&#x200B;을 클릭합니다.
+1. **[!UICONTROL Edit]**&#x200B;을(를) 클릭합니다.
 
    ![](assets/enable-communication-limits-3.png)
 
    >[!NOTE]
    >
-   >[!UICONTROL 일별]은(는) 구독 시간대(자정-자정)의 달력을 기준으로 합니다.
+   >[!UICONTROL Per Day]은(는) 구독 시간대(자정-자정)의 역일을 기준으로 합니다.
 
-1. **[!UICONTROL 일별]** 드롭다운을 클릭하고 원하는 제한을 선택합니다. 이 예제에서는 1을 선택합니다.
+1. **[!UICONTROL Per Day]** 드롭다운을 클릭하고 원하는 제한을 선택합니다. 이 예제에서는 1을 선택합니다.
 
    ![](assets/enable-communication-limits-4.png)
 
    >[!TIP]
    >
-   >사전 설정 옵션이 작동하지 않는 경우 **[!UICONTROL 사용자 지정]**&#x200B;을 선택할 수도 있습니다.
+   >사전 설정 옵션이 작동하지 않는 경우 **[!UICONTROL Custom]**&#x200B;을(를) 선택할 수도 있습니다.
 
-1. **[!UICONTROL 7일당]** 드롭다운을 클릭하고 원하는 제한을 선택합니다. 이 예제에서는 5를 선택합니다.
+1. **[!UICONTROL Per 7 Days]** 드롭다운을 클릭하고 원하는 제한을 선택합니다. 이 예제에서는 5를 선택합니다.
 
    ![](assets/enable-communication-limits-5.png)
 
-1. **[!UICONTROL 작동하지 않는 전자 메일 차단]**&#x200B;을 선택하세요.
+1. **[!UICONTROL Block non-operational emails]**&#x200B;를 선택합니다.
 
    ![](assets/enable-communication-limits-6.png)
 
@@ -55,7 +55,7 @@ ht-degree: 1%
    >
    >[작동 중인 전자 메일](/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/make-an-email-operational.md)에 대해 자세히 알아보세요.
 
-1. **[!UICONTROL 저장]**&#x200B;을 클릭합니다.
+1. **[!UICONTROL Save]**&#x200B;을(를) 클릭합니다.
 
    ![](assets/enable-communication-limits-7.png)
 
@@ -63,7 +63,7 @@ ht-degree: 1%
    >
    >**예**
    >
-   >위의 설정은 사용자가 매일 **1개 이상의 전자 메일을 받지 못함을 의미합니다** 또는 7일 동안 **5개 이상의 전자 메일을 받지 못합니다**.
+   >위의 설정은 사용자가 매일 **전자 메일** 또는 **5개 이상의 전자 메일을 7일 기간**&#x200B;에 수신하지 않음을 의미합니다.
 
    >[!NOTE]
    >
@@ -71,4 +71,4 @@ ht-degree: 1%
 
 >[!MORELIKETHIS]
 >
->[스마트 캠페인에 통신 제한 적용](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/using-smart-campaigns/apply-communication-limits-to-smart-campaign.md)
+>[통신 제한 적용 [!DNL Smart Campaign]](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/using-smart-campaigns/apply-communication-limits-to-smart-campaign.md)

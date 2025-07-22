@@ -1,19 +1,19 @@
 ---
 unique-page-id: 14352414
-description: 팀 탭 이해 - Marketo 문서 - 제품 설명서
-title: 팀 탭 이해
+description: '[!UICONTROL Team] 탭 이해 - Marketo 문서 - 제품 설명서'
+title: '[!UICONTROL Team] 탭 이해'
 exl-id: 07084711-b387-4688-bcf0-fd054acb8366
 feature: Marketo Sales Connect
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '139'
+source-wordcount: '135'
 ht-degree: 0%
 
 ---
 
-# 팀 탭 이해 {#understanding-the-team-tab}
+# [!UICONTROL Team] 탭 이해 {#understanding-the-team-tab}
 
-팀 탭에서 세 가지 중요한 지표를 강조 표시합니다.
+[!UICONTROL Team] 탭에서 세 가지 중요한 지표를 강조 표시합니다.
 
 ## 템플릿으로 전송된 이메일 {#emails-sent-with-template}
 

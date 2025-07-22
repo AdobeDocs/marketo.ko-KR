@@ -4,9 +4,9 @@ description: 시드 목록을 Marketo Engage 인스턴스로 가져오는 방법
 title: 이메일 게재 기능 파워 팩 - 시드 목록을 가져오는 방법
 exl-id: a4782611-2556-43bf-802b-afeb332eafcd
 feature: Deliverability
-source-git-commit: 136707304350be59918716233f5d6e2a6438be4e
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '333'
+source-wordcount: '313'
 ht-degree: 0%
 
 ---
@@ -21,25 +21,25 @@ ht-degree: 0%
 
 ## 시드 목록 가져오기 {#import-a-seed-list}
 
-1. 내 Marketo에서 **게재 기능 도구**&#x200B;를 선택합니다.
+1. 내 Marketo에서 **[!UICONTROL Deliverability Tools]**&#x200B;을(를) 선택합니다.
 
    ![](assets/email-deliverability-power-pack-1.png)
 
-1. 에베레스트 지원서가 공개될 것이다. 왼쪽 탐색에서 **진행 중**&#x200B;을 클릭하고 **받은 편지함 배치**&#x200B;를 선택합니다.
+1. [!DNL Everest] 응용 프로그램이 열립니다. 왼쪽 탐색에서 **[!UICONTROL In-Flight]**&#x200B;을(를) 클릭하고 **[!UICONTROL Inbox Placement]**&#x200B;을(를) 선택합니다.
 
    ![](assets/email-deliverability-power-pack-2.png)
 
-1. **시드 목록 관리** 탭을 클릭합니다.
+1. **[!UICONTROL Manage Seed List]** 탭을 클릭합니다.
 
    ![](assets/email-deliverability-power-pack-3.png)
 
-1. 작업 드롭다운을 클릭하고 **한 줄에 하나씩 다운로드**&#x200B;를 선택합니다.
+1. **[!UICONTROL Actions]** 드롭다운을 클릭하고 **[!UICONTROL Download: One Per Line]**&#x200B;을(를) 선택합니다.
 
    ![](assets/email-deliverability-power-pack-4.png)
 
    >[!NOTE]
    >
-   >Everest에서 목록을 최적화하도록 하려면 페이지 상단에 있는 시드 목록 최적화 도구 를 사용하십시오.
+   >[!DNL Everest]에서 목록을 최적화하도록 하려면 페이지 위쪽에 있는 시드 목록 최적화 도구 를 사용하십시오.
 
 1. 내보내기가 끝나면 브라우저의 다운로드 폴더에 목록이 .txt 파일로 나타납니다. 검색하고 정적 목록으로 Marketo 인스턴스에 [가져오기](/help/marketo/getting-started/quick-wins/import-a-list-of-people.md)합니다.
 
@@ -51,7 +51,7 @@ ht-degree: 0%
 
    >[!CAUTION]
    >
-   >이러한 받은 편지함 배치 캠페인은 한 달에 제한적으로 제공됩니다. 받는 사람 수를 보려면 에베레스트에서 계정 설정 > 구독 아래의 구독 섹션을 참조하십시오. 자세한 내용은 Marketo 영업 담당자에게 문의하십시오.
+   >이러한 받은 편지함 배치 캠페인은 한 달에 제한적으로 제공됩니다. 받는 사람 수를 보려면 [!UICONTROL Subscription]의 [!UICONTROL Account Settings] > [!UICONTROL Subscription] 아래의 [!DNL Everest] 섹션을 참조하십시오. 자세한 내용은 Marketo 영업 담당자에게 문의하십시오.
 
 ## 새 시드 목록 가져오기 {#acquiring-new-seedlists}
 

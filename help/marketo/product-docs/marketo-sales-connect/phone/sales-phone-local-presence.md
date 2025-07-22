@@ -4,16 +4,16 @@ description: 영업 전화 로컬 상태 - Marketo 문서 - 제품 설명서
 title: 영업 전화 로컬 상태
 exl-id: 8ebd971f-caf6-40ac-8067-dd0028fec9ab
 feature: Marketo Sales Connect
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '139'
+source-wordcount: '137'
 ht-degree: 0%
 
 ---
 
 # 영업 전화 로컬 상태 {#sales-phone-local-presence}
 
-다른 사람의 동일한 지역 코드에서 호출하는 것처럼 보이려면 호출하기 전에 **로컬 현재 상태** 확인란을 선택하면 됩니다.
+다른 사람의 동일한 지역 코드에서 호출하는 것처럼 보이려면 호출하기 전에 **[!UICONTROL Local Presence]** 상자를 선택하면 됩니다.
 
 ## 로컬 상태 FAQ {#local-presence-faq}
 

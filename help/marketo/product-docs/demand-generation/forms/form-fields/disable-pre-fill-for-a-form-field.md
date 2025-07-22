@@ -4,10 +4,10 @@ description: 양식 필드의 미리 채우기 비활성화 - Marketo 문서 - �
 title: 양식 필드에 대한 미리 채우기 비활성화
 exl-id: c600e0ce-1b94-4f7b-b75d-f550a2904799
 feature: Forms
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '169'
-ht-degree: 0%
+source-wordcount: '158'
+ht-degree: 1%
 
 ---
 
@@ -23,11 +23,11 @@ ht-degree: 0%
 
 ## 미리 채우기를 비활성화하는 방법 {#how-to-disable-pre-fill}
 
-1. **마케팅 활동**(으)로 이동합니다.
+1. **[!UICONTROL Marketing Activities]**(으)로 이동합니다.
 
    ![](assets/login-marketing-activities-7.png)
 
-1. 양식을 선택하고 **양식 편집**&#x200B;을 클릭합니다.
+1. 양식을 선택하고 **[!UICONTROL Edit Form]**&#x200B;을(를) 클릭합니다.
 
    ![](assets/image2014-9-15-14-3a26-3a46.png)
 
@@ -35,7 +35,7 @@ ht-degree: 0%
    >
    >사용자 페이지에 양식을 포함할 때 양식 미리 채우기가 작동하지 않습니다. Marketo 랜딩 페이지에서만 작동합니다.
 
-1. 필드 중 하나를 선택하고 **양식 미리 채우기**&#x200B;를 **사용 안 함**(으)로 설정하십시오.
+1. 필드 중 하나를 선택하고 **[!UICONTROL Form Pre-fill]**&#x200B;을(를) **[!UICONTROL Disabled]**(으)로 설정합니다.
 
    ![](assets/image2014-9-15-14-3a26-3a54.png)
 
@@ -43,11 +43,11 @@ ht-degree: 0%
    >
    >랜딩 페이지 수준 또는 관리자 수준에서 양식 미리 채우기를 비활성화할 수도 있습니다.
 
-1. **마침**&#x200B;을 클릭합니다.
+1. **[!UICONTROL Finish]**&#x200B;을(를) 클릭합니다.
 
    ![](assets/image2014-9-15-14-3a27-3a1.png)
 
-1. **승인 및 닫기**&#x200B;를 클릭합니다.
+1. **[!UICONTROL Approve and Close]**&#x200B;을(를) 클릭합니다.
 
    ![](assets/image2014-9-15-14-3a27-3a6.png)
 

@@ -4,9 +4,9 @@ description: 이메일에서 동적 콘텐츠 사용 - Marketo 문서 - 제품 �
 title: 이메일에서 동적 콘텐츠 사용
 exl-id: a1178f76-6760-4a4a-9510-f129ee6a9032
 feature: Email Editor
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '260'
+source-wordcount: '253'
 ht-degree: 0%
 
 ---
@@ -25,15 +25,15 @@ ht-degree: 0%
 
 ## 세분화 추가 {#add-segmentation}
 
-1. **마케팅 활동**(으)로 이동합니다.
+1. **[!UICONTROL Marketing Activities]**(으)로 이동합니다.
 
    ![](assets/login-marketing-activities.png)
 
-1. 이메일을 선택하고 **초안 편집**&#x200B;을 클릭합니다.
+1. 전자 메일을 선택하고 **[!UICONTROL Edit Draft]**&#x200B;을(를) 클릭합니다.
 
    ![](assets/1.2.png)
 
-1. 이 예제에서는 제목 줄을 동적으로 만듭니다. 제목 필드를 클릭한 다음 **동적으로 만들기** 단추를 클릭합니다.
+1. 이 예제에서는 제목 줄을 동적으로 만듭니다. [!UICONTROL Subject] 필드를 클릭한 다음 **동적으로 만들기** 단추를 클릭합니다.
 
    ![](assets/1.3.png)
 
@@ -41,11 +41,11 @@ ht-degree: 0%
    >
    >이메일 내의 요소를 동적으로 만들 수도 있습니다. 이렇게 하려면 영역을 선택하고 톱니바퀴 아이콘을 클릭한 다음 **동적으로 만들기**(또는 수행 중인 작업에 따라 [조각으로 바꾸기](/help/marketo/product-docs/personalization/segmentation-and-snippets/snippets/create-a-snippet.md))를 선택합니다.
 
-1. 세분화 이름을 입력하고 선택한 다음 **저장**&#x200B;을 클릭합니다.
+1. 세분화 이름을 입력하고 선택한 다음 **[!UICONTROL Save]**&#x200B;을(를) 클릭합니다.
 
    ![](assets/1.4.png)
 
-   세그먼테이션과 해당 세그먼트는 오른쪽의 동적 탭 아래에 나타납니다.
+   세그먼테이션과 해당 세그먼트는 오른쪽의 [!UICONTROL Dynamic] 탭에 나타납니다.
 
    ![](assets/1.5.png)
 

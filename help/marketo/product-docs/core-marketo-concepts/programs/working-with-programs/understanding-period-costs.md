@@ -4,9 +4,9 @@ description: 기간 비용 이해 - Marketo 문서 - 제품 설명서
 title: 기간 원가 이해
 exl-id: 99f50eaf-28cf-4a8b-8ebd-89a4beef986a
 feature: Programs
-source-git-commit: 9e51ece12742152040dbbcb6a1584fba28e863ff
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '273'
+source-wordcount: '271'
 ht-degree: 0%
 
 ---
@@ -21,7 +21,7 @@ ht-degree: 0%
 >
 >**예**
 >
->만약 여러분이 1000달러를 들여 7월에 출시되는 eBook의 일러스트레이터를 고용한다면, eBook 프로그램은 7월에 1000달러의 기간 비용이 들 것이다.
+>1,000달러를 들여 7월에 시작하는 [!DNL eBook]에 Illustrator를 고용하는 경우 [!DNL eBook] 프로그램의 7월 기간 비용은 1,000달러입니다.
 >
 >[!DNL Google Adwords]에 매달 200달러를 사용하는 경우 [!DNL Google Adwords] 프로그램의 기간 비용은 _매달_&#x200B;입니다.
 

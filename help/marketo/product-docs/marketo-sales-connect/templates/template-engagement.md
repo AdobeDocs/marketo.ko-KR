@@ -4,9 +4,9 @@ description: 템플릿 참여 - Marketo 문서 - 제품 설명서
 title: 템플릿 참여
 exl-id: 368e1dae-26bf-42a1-9525-6c0cd9e64e23
 feature: Marketo Sales Connect
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '177'
+source-wordcount: '175'
 ht-degree: 0%
 
 ---
@@ -15,9 +15,9 @@ ht-degree: 0%
 
 템플릿 참여를 보려면 아래 단계를 따르십시오.
 
-1. **분석** 페이지로 이동합니다.
+1. **[!UICONTROL Analytics]** 페이지로 이동합니다.
 
-1. **콘텐츠** 단추를 클릭하고 원하는 날짜 범위로 필터링합니다.
+1. **[!UICONTROL Content]** 단추를 클릭하고 원하는 날짜 범위를 기준으로 필터링합니다.
 
 1. 선택한 날짜 범위를 기반으로 페이지 상단에서 팀에서 사용된 총 이메일 및 템플릿 수를 볼 수 있습니다.
 

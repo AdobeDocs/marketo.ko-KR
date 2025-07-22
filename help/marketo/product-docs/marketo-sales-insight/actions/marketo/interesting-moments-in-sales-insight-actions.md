@@ -1,18 +1,18 @@
 ---
-description: Sales Insight 작업의 중요한 순간 - Marketo 문서 - 제품 설명서
-title: Sales Insight Actions 의 Interesting Moment
+description: 영업 Insight 작업의 중요한 순간 - Marketo 문서 - 제품 설명서
+title: 영업 Insight 작업의 중요한 순간
 exl-id: b2423fbb-9ce0-4ce9-bc26-93aa69aa9e12
 feature: Sales Insight Actions
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '246'
+source-wordcount: '232'
 ht-degree: 0%
 
 ---
 
-# Sales Insight Actions 의 Interesting Moment {#interesting-moments-in-sales-insight-actions}
+# [!DNL Sales Insight Actions]의 즐거운 순간 {#interesting-moments-in-sales-insight-actions}
 
-흥미로운 순간은 Marketo Sales Insight Actions 을 통해 영업 팀과 의사 소통할 수 있는 핵심 요소입니다.
+흥미로운 순간은 [!DNL Marketo Sales Insight Actions]을(를) 통해 영업팀과 통신하는 데 중요한 부분입니다.
 
 ## 흥미로운 순간이 뭐예요? {#what-is-an-interesting-moment}
 
@@ -28,7 +28,7 @@ ht-degree: 0%
 
    ![](assets/interesting-moments-in-sales-insight-actions-1.png)
 
-1. **관심 있는 순간** 흐름 단계 위로 끌어서 놓습니다.
+1. **[!UICONTROL Interesting Moments]** 흐름 단계 위로 끌어서 놓습니다.
 
    ![](assets/interesting-moments-in-sales-insight-actions-2.png)
 
@@ -36,7 +36,7 @@ ht-degree: 0%
 
    ![](assets/interesting-moments-in-sales-insight-actions-3.png)
 
-1. 이 작업이 중요한 이유를 설명하는 메시지를 **설명** 필드에 영업팀에 보냅니다.
+1. 이 작업이 중요한 이유를 설명하는 메시지를 **[!UICONTROL Description]** 필드에 영업팀에 작성하십시오.
 
    ![](assets/interesting-moments-in-sales-insight-actions-4.png)
 
@@ -50,8 +50,8 @@ ht-degree: 0%
 
 ![](assets/interesting-moments-in-sales-insight-actions-5.png)
 
-## Sales Insight Actions에서 흥미로운 순간은 어떤 모습입니까? {#what-does-an-interesting-moment-look-like-in-sales-insight-actions}
+## [!DNL Sales Insight Actions]에서 즐거운 순간은 어떤 모습입니까? {#what-does-an-interesting-moment-look-like-in-sales-insight-actions}
 
-관심 있는 순간은 사용자의 라이브 피드에 실시간으로 표시됩니다. Salesforce의 잠재 고객 소유자 ID를 활용하여 자신이 소유자인 관련 잠재 고객의 흥미로운 순간을 보여줍니다. 사용자는 잠재 고객 이름 옆에 있는 드롭다운을 클릭하여 이메일/전화/판매 캠페인을 통해 잠재 고객을 빠르게 후속 조치할 수 있습니다.
+관심 있는 순간은 사용자의 라이브 피드에 실시간으로 표시됩니다. [!DNL Salesforce]의 잠재 고객 소유자 ID를 사용하여 사용자가 보유한 관련 잠재 고객의 흥미로운 순간을 표시합니다. 사용자는 잠재 고객 이름 옆에 있는 드롭다운을 클릭하여 이메일/전화/판매 캠페인을 통해 잠재 고객을 빠르게 후속 조치할 수 있습니다.
 
 ![](assets/interesting-moments-in-sales-insight-actions-6.png)

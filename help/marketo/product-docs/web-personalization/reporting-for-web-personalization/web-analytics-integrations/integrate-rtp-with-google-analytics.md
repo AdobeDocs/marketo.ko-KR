@@ -1,17 +1,17 @@
 ---
 unique-page-id: 2949158
 description: RTP를 Google Analytics - Marketo 문서 - 제품 설명서와 통합
-title: RTP와 Google Analytics 통합
+title: Google Analytics과 RTP 통합
 exl-id: a2bc0c17-dc23-435e-9480-857e97e6fd50
 feature: Web Personalization
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '581'
+source-wordcount: '560'
 ht-degree: 0%
 
 ---
 
-# RTP와 Google Analytics 통합 {#integrate-rtp-with-google-analytics}
+# Google Analytics과 RTP 통합 {#integrate-rtp-with-google-analytics}
 
 >[!NOTE]
 >
@@ -32,7 +32,7 @@ ht-degree: 0%
 
 ## 소개 {#introduction}
 
-Marketo 실시간 Personalization(RTP)에서 Google Analytics(GA) 계정으로의 직접 데이터 흐름을 사용하여 웹 분석을 새로운 각도에서 분석합니다. 조직, 업계 및 RTP 캠페인에 따라 GA에서 웹 방문을 측정합니다. GA의 산업 또는 RTP 세그먼트 유형 및 다양한 트래픽 소스(소셜, 유료, 유기)에 따라 리드를 수행하고 생성하는 방법과 같은 지표를 보고, 캠페인의 클릭스루 비율을 분석하고, 개인화 캠페인이 웹 사이트에 미치는 영향을 측정합니다. 이 기능을 활용하여 RTP 계정의 최대 이점을 얻을 수 있습니다
+Marketo 실시간 Personalization(RTP)에서 Google Analytics(GA) 계정으로의 직접 데이터 흐름을 사용하여 새로운 각도에서 웹 분석을 분석합니다. 조직, 업계 및 RTP 캠페인에 따라 GA에서 웹 방문을 측정합니다. GA의 산업 또는 RTP 세그먼트 유형 및 다양한 트래픽 소스(소셜, 유료, 유기)에 따라 리드를 수행하고 생성하는 방법과 같은 지표를 보고, 캠페인의 클릭스루 비율을 분석하고, 개인화 캠페인이 웹 사이트에 미치는 영향을 측정합니다. 이 기능을 활용하여 RTP 계정의 최대 이점을 얻을 수 있습니다
 
 **RTP Audience Analytics**
 
@@ -62,29 +62,29 @@ RTP 캠페인을 측정하고 이를 전체 사이트 평균과 상호 연관시
 
 ![](assets/image2014-11-28-16-3a47-3a0.png)
 
-## Google Analytics을 사용하여 RTP 설정 {#setting-up-rtp-with-google-analytics}
+## Google Analytics으로 RTP 설정 {#setting-up-rtp-with-google-analytics}
 
 1. GA 계정에 읽기 및 분석 사용자로 이메일 rtp.ga2@gmail.com 을 추가합니다. 자세한 내용은 [여기](https://support.google.com/analytics/answer/2884495?hl=en)를 참조하세요.
 
-1. RTP 계정에서 **계정 설정**(으)로 이동합니다.
+1. RTP 계정에서 **[!UICONTROL Account Settings]**(으)로 이동합니다.
 
    ![](assets/image2014-11-28-16-3a54-3a40.png)
 
-1. **계정 설정**, **도메인** 및 **분석**&#x200B;에서.
+1. **[!UICONTROL Account Settings]**, **[!UICONTROL Domain]** 및 **[!UICONTROL Analytics]** 아래에 있습니다.
 
-1. **Google Analytics**&#x200B;을 클릭합니다.
+1. **Google Analytics**&#x200B;을(를) 클릭합니다.
 
-1. 관련 **사용자 지정 변수** 및 **Google Analytics**&#x200B;을 켜서 RTP에서 이 데이터를 이벤트에 추가합니다.
+1. 관련 **사용자 지정 변수** 및 **이벤트**&#x200B;를 켜서 RTP에서 이 데이터를 Google Analytics에 추가합니다.
 
 1. 사용자 지정 변수 데이터를 전송하려면 **Slot** 번호를 입력하십시오(기본값은 1,2).
 
 ![](assets/image2014-11-28-17-3a0-3a17.png)
 
-1. **저장**&#x200B;을 클릭합니다.
+1. **[!UICONTROL Save]**&#x200B;을(를) 클릭합니다.
 
 >[!NOTE]
 >
->세그먼트 데이터를 GA로 보내려면 RTP 플랫폼의 [Google Analytics 편집 페이지](/help/marketo/product-docs/web-personalization/using-web-segments/create-a-basic-web-segment.md)에서 **세그먼트 일치 시 사용자에게 이벤트 보내기** 확인란을 선택하십시오.
+>세그먼트 데이터를 GA로 보내려면 RTP 플랫폼의 [[!UICONTROL Edit Segment] 페이지](/help/marketo/product-docs/web-personalization/using-web-segments/create-a-basic-web-segment.md) 아래에서 **[!UICONTROL Send Event to Google Analytics on Segment Match]** 확인란을 선택합니다.
 
 ## RTP 데이터를 사용하여 Google Analytics 보고서 설정 {#setting-up-google-analytics-reports-with-rtp-data}
 
@@ -92,4 +92,4 @@ Google Analytics에서 대시보드, GA 세그멘테이션 및 보고를 사용�
 
 * [대시보드](https://support.google.com/analytics/answer/1068216?hl=en)는 웹 사이트 성능에 대한 개요를 제공합니다.
 * GA 세그먼트는 GA 인터페이스에서 방문자를 필터링하고 세그먼트당 트래픽을 보기 위한 것입니다. [여기](https://support.google.com/analytics/answer/3124493?hl=en)에서 세그먼트를 만드는 방법을 확인하세요.
-* 예약된 전자 메일을 보거나 설정할 [사용자 지정된 보고서](https://support.google.com/analytics/answer/1033013?hl=en)를 만드는 중입니다. 사용자 지정 > 새 사용자 지정 보고서에서 을 참조하십시오.
+* 예약된 전자 메일을 보거나 설정할 [사용자 지정된 보고서](https://support.google.com/analytics/answer/1033013?hl=en)를 만드는 중입니다. **[!UICONTROL Customization]** > **[!UICONTROL New Custom Report]**&#x200B;에서 참조하십시오.

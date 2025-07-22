@@ -4,9 +4,9 @@ description: 보고서 저장 - Marketo 문서 - 제품 설명서
 title: 보고서 저장
 exl-id: be6da793-1498-4ba1-8d65-e9c0fd5d1033
 feature: Reporting
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '81'
+source-wordcount: '71'
 ht-degree: 0%
 
 ---
@@ -15,7 +15,7 @@ ht-degree: 0%
 
 나중에 다시 보려면 기본 보고서를 저장해야 하는 경우가 있습니다. 이를 수행하는 방법은 다음과 같습니다.
 
-1. **Analytics** 영역으로 이동합니다.
+1. **[!UICONTROL Analytics]** 영역으로 이동합니다.
 
    ![](assets/image2015-4-30-11-3a50-3a5.png)
 
@@ -23,15 +23,15 @@ ht-degree: 0%
 
    ![](assets/image2015-4-20-16-3a57-3a42.png)
 
-1. **보고서 동작**&#x200B;을 클릭하고 **다른 이름으로 저장**&#x200B;을 선택합니다.
+1. **[!UICONTROL Report Actions]**&#x200B;을(를) 클릭하고 **[!UICONTROL Save As]**&#x200B;을(를) 선택합니다.
 
    ![](assets/image2015-4-20-17-3a4-3a11.png)
 
-1. **저장 위치**&#x200B;에서 **폴더**&#x200B;를 선택합니다.
+1. **[!UICONTROL Save To]** 위치를 선택하고 **[!UICONTROL Folder]**&#x200B;을(를) 선택합니다.
 
    ![](assets/image2015-4-20-17-3a33-3a25.png)
 
-1. 보고서를 **이름**&#x200B;을(를) 지정하고 **저장**&#x200B;을(를) 클릭합니다.
+1. 보고서를 **[!UICONTROL Name]**&#x200B;하고 **[!UICONTROL Save]**&#x200B;을(를) 클릭합니다.
 
    ![](assets/image2015-4-20-17-3a34-3a57.png)
 

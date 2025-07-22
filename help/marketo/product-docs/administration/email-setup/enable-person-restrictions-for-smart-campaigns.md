@@ -4,10 +4,10 @@ description: 스마트 캠페인에 대한 개인 제한 활성화 - Marketo 문
 title: 스마트 캠페인에 대한 개인 제한 활성화
 exl-id: 45bdaf3f-874c-493f-9746-440f7703713c
 feature: Email Setup
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '150'
-ht-degree: 0%
+source-wordcount: '145'
+ht-degree: 1%
 
 ---
 
@@ -23,15 +23,15 @@ Smart Campaign의 자격을 가질 수 있는 _최대_ 인원을 제한하는 �
 >
 >이는 캠페인 및 이메일 프로그램을 일괄 처리하는 경우에만 적용됩니다.
 
-1. **[!UICONTROL 관리자]** 영역으로 이동합니다.
+1. **[!UICONTROL Admin]** 영역으로 이동합니다.
 
    ![](assets/enable-person-restrictions-for-smart-campaigns-1.png)
 
-1. **[!UICONTROL 스마트 캠페인]**&#x200B;을 클릭합니다.
+1. **[!UICONTROL Smart Campaign]**&#x200B;을(를) 클릭합니다.
 
    ![](assets/enable-person-restrictions-for-smart-campaigns-2.png)
 
-1. **[!UICONTROL 편집]**&#x200B;을 클릭합니다.
+1. **[!UICONTROL Edit]**&#x200B;을(를) 클릭합니다.
 
    ![](assets/enable-person-restrictions-for-smart-campaigns-3.png)
 
@@ -39,7 +39,7 @@ Smart Campaign의 자격을 가질 수 있는 _최대_ 인원을 제한하는 �
    >
    >Smart Campaign을 실행할 자격이 있는 사용자 수가 설정된 한도를 초과하면 전혀 실행되지 않습니다.
 
-1. 한도를 입력하고 **[!UICONTROL 저장]**&#x200B;을 클릭합니다.
+1. 한도를 입력하고 **[!UICONTROL Save]**&#x200B;을(를) 클릭합니다.
 
    ![](assets/enable-person-restrictions-for-smart-campaigns-4.png)
 

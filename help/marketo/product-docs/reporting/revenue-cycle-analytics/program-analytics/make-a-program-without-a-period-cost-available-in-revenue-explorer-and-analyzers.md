@@ -4,9 +4,9 @@ description: 기간 비용이 없는 프로그램을 수익 탐색기 및 분석
 title: 수익 탐색기 및 분석기에서 기간 비용 없이 프로그램 사용 가능
 exl-id: 45a24b9f-d92f-4f48-a7d1-0be14cd128b1
 feature: Reporting, Revenue Cycle Analytics
-source-git-commit: d20a9bb584f69282eefae3704ce4be2179b29d0b
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '250'
+source-wordcount: '245'
 ht-degree: 0%
 
 ---
@@ -25,7 +25,7 @@ ht-degree: 0%
 >
 >프로그램 분석기는 프로그램 성공을 기간 원가로 버킷팅합니다. 사용 가능한 기간 비용이 없는 경우 프로그램의 분석 동작과 관계없이 프로그램 성공 이 표시되지 않습니다. Analytics 동작이 설정되면 영업 기회 지표(파이프라인 영업 기회, 매출 등)에 대한 데이터가 표시됩니다.
 
-1. 관리자 섹션에서 **태그**&#x200B;를 클릭합니다.
+1. [!UICONTROL Admin] 섹션 아래에서 **[!UICONTROL Tags]**&#x200B;을(를) 클릭합니다.
 
    ![](assets/image2014-9-17-12-3a35-3a32.png)
 
@@ -37,7 +37,7 @@ ht-degree: 0%
 
    ![](assets/image2014-9-17-12-3a36-3a7.png)
 
-1. Analytics 동작을 Inclusive로 변경하고 **저장**&#x200B;을 클릭합니다.
+1. [!UICONTROL Analytics Behavior]을(를) **포함**(으)로 변경하고 **[!UICONTROL Save]**&#x200B;을(를) 클릭합니다.
 
    ![](assets/image2014-9-17-12-3a36-3a13.png)
 

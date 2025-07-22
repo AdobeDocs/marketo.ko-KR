@@ -4,9 +4,9 @@ description: 코드 조각 삭제 - Marketo 문서 - 제품 설명서
 title: 코드 조각 삭제
 exl-id: 6984fd94-dd91-4832-83ce-3a6c3b35b034
 feature: Snippets
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '78'
+source-wordcount: '71'
 ht-degree: 0%
 
 ---
@@ -19,15 +19,15 @@ ht-degree: 0%
 
 더 이상 필요하지 않은 코드 조각을 삭제합니다.
 
-1. **디자인 스튜디오**(으)로 이동합니다.
+1. **[!UICONTROL Design Studio]**(으)로 이동합니다.
 
    ![](assets/image2014-9-16-10-3a43-3a47.png)
 
-1. 코드 조각으로 이동한 다음 **코드 조각 작업**&#x200B;에서 **삭제**&#x200B;를 클릭합니다.
+1. 코드 조각으로 이동한 다음 **[!UICONTROL Snippet Actions]**&#x200B;에서 **[!UICONTROL Delete]**&#x200B;을(를) 클릭합니다.
 
    ![](assets/image2014-9-16-10-3a43-3a57.png)
 
-1. **삭제**&#x200B;를 클릭하여 확인하거나 **취소**&#x200B;하세요.
+1. **[!UICONTROL Delete]**&#x200B;을(를) 클릭하여 확인하거나 **[!UICONTROL Cancel]**&#x200B;만 클릭합니다.
 
    ![](assets/image2014-9-16-10-3a44-3a8.png)
 

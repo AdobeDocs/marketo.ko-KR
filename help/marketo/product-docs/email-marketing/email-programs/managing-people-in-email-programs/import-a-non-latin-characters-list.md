@@ -4,9 +4,9 @@ description: 라틴어가 아닌 문자 목록 가져오기 - Marketo 문서 - �
 title: 라틴어가 아닌 문자 목록 가져오기
 exl-id: 11519e2c-ab01-4164-8ce3-0717e4c13ae6
 feature: Email Programs
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '310'
+source-wordcount: '292'
 ht-degree: 0%
 
 ---
@@ -23,11 +23,11 @@ ht-degree: 0%
 
 Marketo에서 라틴어가 아닌 모든 문자를 인식하도록 파일이 제대로 저장되지 않았기 때문입니다. 좋은 소식은, 당신이 그것을 해결하기 위해 따를 수있는 몇 가지 간단한 단계가 있다는 것입니다.
 
-1. Excel의 **파일** 메뉴에서 **다른 이름으로 저장...**&#x200B;을(를) 선택합니다.
+1. Excel의 **[!UICONTROL Save As]메뉴에서**..**[!UICONTROL File]**&#x200B;을(를) 선택합니다.
 
    ![](assets/image2015-2-10-9-3a46-3a44.png)
 
-1. **형식** 옵션으로 **UTF-16 유니코드 텍스트(.txt)**&#x200B;을(를) 선택하십시오. 이렇게 하면 Marketo이 파일을 표시할 수 있는 방식으로 인코딩됩니다.
+1. **[!UICONTROL UTF-16 Unicode Text (.txt)]**&#x200B;을(를) **[!UICONTROL Format]** 옵션으로 선택합니다. 이렇게 하면 Marketo이 파일을 표시할 수 있는 방식으로 인코딩됩니다.
 
    ![](assets/image2015-2-10-9-3a48-3a7.png)
 
@@ -39,7 +39,7 @@ Marketo에서 라틴어가 아닌 모든 문자를 인식하도록 파일이 제
 
    >[!TIP]
    >
-   >Windows를 사용하는 경우 **메모장**&#x200B;을, Mac을 사용하는 경우 **텍스트 편집**&#x200B;을 사용하여 텍스트 파일을 열 수 있습니다.
+   >Windows를 사용하는 경우 **[!DNL Notepad]**&#x200B;을(를) 사용하여 텍스트 파일을 열 수 있으며, Mac을 사용하는 경우 **[!DNL TextEdit]**&#x200B;을(를) 사용하여 텍스트 파일을 열 수 있습니다.
 
    ![](assets/image2015-2-10-9-3a51-3a41.png)
 
@@ -47,15 +47,15 @@ Marketo에서 라틴어가 아닌 모든 문자를 인식하도록 파일이 제
 
    ![](assets/image2015-2-10-9-3a55-3a53.png)
 
-1. **편집** 메뉴에서 **찾기 및 바꾸기...**&#x200B;를 선택합니다.
+1. **[!UICONTROL Find and Replace]메뉴에서**..**[!UICONTROL Edit]**&#x200B;을(를) 선택합니다.
 
    ![](assets/image2015-2-10-9-3a59-3a8.png)
 
    >[!TIP]
    >
-   >Windows 사용자에 해당하는 작업은 **편집 > 바꾸기...**&#x200B;입니다.
+   >Windows 사용자에 대한 동등한 작업은 다음과 같습니다. **[!UICONTROL Edit]> [!UICONTROL Replace]...**
 
-1. 4단계에서 복사한 탭을 첫 번째(바꿀 내용) 상자에 붙여 넣고 두 번째(바꿀 내용) 상자에 쉼표를 입력합니다. **모두**&#x200B;를 클릭합니다.
+1. 4단계에서 복사한 탭을 첫 번째(바꿀 내용) 상자에 붙여 넣고 두 번째(바꿀 내용) 상자에 쉼표를 입력합니다. **[!UICONTROL All]**&#x200B;을(를) 클릭합니다.
 
    ![](assets/image2015-2-10-10-3a8-3a53.png)
 

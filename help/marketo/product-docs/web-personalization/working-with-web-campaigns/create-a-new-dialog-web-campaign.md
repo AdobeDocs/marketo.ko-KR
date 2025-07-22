@@ -4,9 +4,9 @@ description: 새 대화 상자 만들기 웹 캠페인 - Marketo 문서 - 제품
 title: 새 대화 상자 웹 캠페인 만들기
 exl-id: 389b0d2d-f39e-4825-b419-373322b6811b
 feature: Web Personalization
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '749'
+source-wordcount: '732'
 ht-degree: 0%
 
 ---
@@ -19,15 +19,15 @@ ht-degree: 0%
 
 웹 캠페인은 특정 세그먼트와 연관된 사용자 지정 반응입니다. 반응은 웹 사이트의 대화 상자, [영역 교체](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/create-a-new-in-zone-web-campaign.md), [위젯 기능](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/create-a-new-widget-web-campaign.md) 또는 이메일 알림일 수 있습니다.
 
-1. **웹 캠페인**(으)로 이동합니다.
+1. **[!UICONTROL Web Campaigns]**(으)로 이동합니다.
 
    ![](assets/image2016-8-18-15-3a48-3a45.png)
 
-1. **새 웹 캠페인 만들기**&#x200B;를 선택합니다.
+1. **[!UICONTROL Create New Web Campaign]**&#x200B;를 선택합니다.
 
    ![](assets/image2016-11-4-10-3a58-3a32.png)
 
-1. **대화 상자** 웹 캠페인 유형을 선택하십시오. 편집기에서 크리에이티브를 디자인하고 추가합니다. 웹 캠페인이 사이트에서 어떻게 반응하는지 확인하려면 **미리 보기**&#x200B;를 클릭하세요.
+1. **[!UICONTROL Dialog]** 웹 캠페인 유형을 선택하십시오. 편집기에서 크리에이티브를 디자인하고 추가합니다. 웹 캠페인이 사이트에서 어떻게 반응하는지 확인하려면 **[!UICONTROL Preview]**&#x200B;을(를) 클릭하십시오.
 
    ![](assets/new-3.png)
 
@@ -132,7 +132,7 @@ ht-degree: 0%
 
 ## 웹 캠페인 편집 {#edit-a-web-campaign}
 
-1. **웹 캠페인** 페이지에서 웹 캠페인의 **편집**&#x200B;을 클릭합니다.
+1. **[!UICONTROL Web Campaigns]** 페이지에서 웹 캠페인의 **[!UICONTROL Edit]**&#x200B;을(를) 클릭합니다.
 
 ![](assets/image2016-11-4-11-3a6-3a19.png)
 
@@ -142,7 +142,7 @@ ht-degree: 0%
 
 ## 웹 캠페인 미리 보기 {#preview-a-web-campaign}
 
-1. **웹 캠페인** 페이지에서 보려는 웹 캠페인의 **미리 보기**&#x200B;를 클릭합니다.
+1. **[!UICONTROL Web Campaigns]** 페이지에서 보려는 웹 캠페인의 **[!UICONTROL Preview]**&#x200B;을(를) 클릭합니다.
 
 ![](assets/image2016-11-4-11-3a8-3a58.png)
 
@@ -152,7 +152,7 @@ ht-degree: 0%
 
 ## 웹 캠페인 삭제 {#delete-a-web-campaign}
 
-1. **웹 캠페인** 페이지에서 삭제하려는 웹 캠페인의 **삭제**&#x200B;를 클릭합니다.
+1. **[!UICONTROL Web Campaigns]** 페이지에서 삭제할 웹 캠페인의 **[!UICONTROL Delete]**&#x200B;을(를) 클릭합니다.
 
    ![](assets/web-campaigns-1-delete-hand.png)
 

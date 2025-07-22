@@ -1,63 +1,63 @@
 ---
 unique-page-id: 14745793
-description: CRM용 Sales Connect 사용자 지정 - Marketo 문서 - 제품 설명서
-title: CRM용 Sales Connect 사용자 지정
+description: CRM용 [!DNL Sales Connect] 사용자 지정 - Marketo 문서 - 제품 설명서
+title: CRM용 [!DNL Sales Connect] 사용자 지정
 exl-id: c7344ec2-a16b-48a1-8e39-1bbd2818db80
 feature: Marketo Sales Connect
-source-git-commit: dbf058714f6c4e6003c5a64d1048ac8a47931a0f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '690'
-ht-degree: 1%
+source-wordcount: '658'
+ht-degree: 2%
 
 ---
 
-# CRM용 Sales Connect 사용자 지정 {#sales-connect-customizations-for-crm}
+# CRM용 [!DNL Sales Connect] 사용자 지정 {#sales-connect-customizations-for-crm}
 
 아래 필드와 단추는 Salesforce CRM의 메타데이터 API에 의해 만들어집니다. 필드가 만들어지면 관리자는 해당 CRM에서 페이지 레이아웃을 구성하여 표시해야 합니다. 지침 [은(는) 여기에서 찾을 수 있습니다](/help/marketo/product-docs/marketo-sales-connect/crm/salesforce-customization/assets/mse-for-sf-classic.pdf).
 
-## Salesforce에서 사용자 지정을 설치하는 방법 {#how-to-install-customizations-in-salesforce}
+## [!DNL Salesforce]에서 사용자 지정을 설치하는 방법 {#how-to-install-customizations-in-salesforce}
 
-1. Sales Connect에서 톱니바퀴 아이콘을 클릭하고 **설정**&#x200B;을 선택합니다.
+1. [!DNL Sales Connect]에서 톱니바퀴 아이콘을 클릭하고 **[!UICONTROL Settings]**&#x200B;을(를) 선택합니다.
 
    ![](assets/one.png)
 
-1. [관리 설정]에서 **Salesforce**&#x200B;을(를) 선택합니다.
+1. [!UICONTROL Admin Settings]에서 **[!UICONTROL Salesforce]**&#x200B;을(를) 선택합니다.
 
    ![](assets/two.png)
 
-1. **Marketo Sales Connect 사용자 지정**&#x200B;을 클릭합니다.
+1. **[!UICONTROL Marketo Sales Engage Customizations]**&#x200B;을(를) 클릭합니다.
 
    ![](assets/three.png)
 
-1. **Salesforce에 연결**&#x200B;을 클릭합니다.
+1. **[!UICONTROL Connect to Salesforce]**&#x200B;을(를) 클릭합니다.
 
    ![](assets/four.png)
 
-1. Salesforce에 로그인합니다.
+1. [!DNL Salesforce]에 로그인합니다.
 
    ![](assets/five.png)
 
-## Salesforce 사용자 지정 업데이트 {#update-salesforce-customization}
+## [!DNL Salesforce] 사용자 지정 업데이트 {#update-salesforce-customization}
 
-Salesforce 사용자 지정 패키지에 대한 업데이트에는 개선 사항 및 버그 수정이 포함됩니다. 업데이트를 사용할 수 있는지 확인하거나 업데이트를 수행하려면 아래 단계를 따르십시오.
+[!DNL Salesforce] 사용자 지정 패키지에 대한 업데이트에는 개선 사항 및 버그 수정이 포함됩니다. 업데이트를 사용할 수 있는지 확인하거나 업데이트를 수행하려면 아래 단계를 따르십시오.
 
 >[!NOTE]
 >
 >**관리자 권한이 필요합니다.**
 
-1. [웹 응용 프로그램](https://www.toutapp.com)에서 톱니바퀴 아이콘을 클릭하고 **설정**&#x200B;을 선택합니다.
+1. [웹 응용 프로그램](https://www.toutapp.com)에서 톱니바퀴 아이콘을 클릭하고 **[!UICONTROL Settings]**&#x200B;을(를) 선택합니다.
 
    ![](assets/sales-connect-customizations-for-crm-6.png)
 
-1. [관리 설정]에서 **Salesforce**&#x200B;을 클릭합니다.
+1. [!UICONTROL Admin Settings]에서 **[!UICONTROL Salesforce]**&#x200B;을(를) 클릭합니다.
 
    ![](assets/sales-connect-customizations-for-crm-7.png)
 
-1. Sales Connect Customization 카드에 업데이트 가능 여부가 표시됩니다. **사용자 지정 업데이트**&#x200B;를 클릭합니다.
+1. 업데이트를 사용할 수 있는 경우 [!DNL Sales Connect] 사용자 지정 카드가 표시됩니다. **[!UICONTROL Update Customizations]**&#x200B;을(를) 클릭합니다.
 
    ![](assets/sales-connect-customizations-for-crm-8.png)
 
-1. **업그레이드**&#x200B;를 클릭합니다.
+1. **[!UICONTROL Upgrade]**&#x200B;을(를) 클릭합니다.
 
    ![](assets/sales-connect-customizations-for-crm-9.png)
 

@@ -4,10 +4,10 @@ description: 양식의 필드에 입력 마스킹 적용 - Marketo 문서 - 제�
 title: 양식의 필드에 입력 마스킹 적용
 exl-id: cb99bf10-0d0c-4161-a4e9-ec24700b1b31
 feature: Forms
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '185'
-ht-degree: 0%
+source-wordcount: '168'
+ht-degree: 1%
 
 ---
 
@@ -15,27 +15,27 @@ ht-degree: 0%
 
 입력 마스크를 사용하여 방문자의 입력을 제한할 수 있습니다. 예를 들어 방문자가 특정 형식으로만 전화번호를 입력하도록 할 수 있습니다.
 
-1. **마케팅 활동**(으)로 이동합니다.
+1. **[!UICONTROL Marketing Activities]**(으)로 이동합니다.
 
    ![](assets/login-marketing-activities-4.png)
 
-1. 양식을 선택하고 **양식 편집**&#x200B;을 클릭합니다.
+1. 양식을 선택하고 **[!UICONTROL Edit Form]**&#x200B;을(를) 클릭합니다.
 
    ![](assets/image2014-9-15-13-3a40-3a44.png)
 
-1. 필드를 선택하고 **필드 유형**&#x200B;이(가) **텍스트**(으)로 설정되어 있는지 확인하십시오.
+1. 필드를 선택하고 **[!UICONTROL Field Type]***이(가) **[!UICONTROL Text]**(으)로 설정되어 있는지 확인하십시오.
 
    >[!NOTE]
    >
-   >입력 마스킹은 **텍스트 필드 형식**&#x200B;에서만 작동합니다.
+   >입력 마스킹은 **[!UICONTROL Text Field Types]**&#x200B;에서만 작동합니다.
 
    ![](assets/image2014-9-15-13-3a40-3a53.png)
 
-1. **마스크 입력** 링크를 클릭합니다.
+1. **[!UICONTROL Mask Input]** 링크를 클릭합니다.
 
    ![](assets/image2014-9-15-13-3a41-3a3.png)
 
-1. 입력 마스크를 입력하고 **저장**&#x200B;을 클릭합니다.
+1. 입력 마스크를 입력하고 **[!UICONTROL Save]**&#x200B;을(를) 클릭합니다.
 
    ![](assets/image2014-9-15-13-3a41-3a14.png)
 
@@ -43,11 +43,11 @@ ht-degree: 0%
    >
    >마스킹 규칙에 주의하십시오. 숫자, 문자 또는 둘 다로 입력을 제한하거나 입력한 문자 수를 제한할 수도 있습니다.
 
-1. **마침**&#x200B;을 클릭합니다.
+1. **[!UICONTROL Finish]**&#x200B;을(를) 클릭합니다.
 
    ![](assets/image2014-9-15-13-3a41-3a22.png)
 
-1. **승인 및 닫기**&#x200B;를 클릭합니다.
+1. **[!UICONTROL Approve and Close]**&#x200B;을(를) 클릭합니다.
 
    ![](assets/image2014-9-15-13-3a41-3a28.png)
 

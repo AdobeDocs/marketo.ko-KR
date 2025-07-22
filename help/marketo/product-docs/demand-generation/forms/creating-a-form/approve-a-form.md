@@ -4,10 +4,10 @@ description: 양식 승인 - Marketo 문서 - 제품 설명서
 title: 양식 승인
 exl-id: 4ff280d9-dfff-4d1e-829e-74414d731d57
 feature: Forms
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '123'
-ht-degree: 0%
+source-wordcount: '114'
+ht-degree: 1%
 
 ---
 
@@ -19,7 +19,7 @@ ht-degree: 0%
 
 준비가 완료된 기존 양식을 승인하는 방법은 다음과 같습니다.
 
-1. **마케팅 활동**(으)로 이동합니다.
+1. **[!UICONTROL Marketing Activities]**(으)로 이동합니다.
 
    ![](assets/login-marketing-activities-7.png)
 
@@ -27,7 +27,7 @@ ht-degree: 0%
 
    ![](assets/image2014-9-15-17-3a49-3a40.png)
 
-1. **양식 작업**&#x200B;에서 **승인**&#x200B;을 클릭합니다.
+1. **[!UICONTROL Form Actions]**&#x200B;에서 **[!UICONTROL Approve]**&#x200B;을(를) 클릭합니다.
 
    ![](assets/image2014-9-15-17-3a49-3a47.png)
 
@@ -49,10 +49,10 @@ ht-degree: 0%
 >
 >[양식 편집](/help/marketo/product-docs/demand-generation/forms/form-actions/edit-a-form.md)
 
-1. **마침**&#x200B;을 클릭합니다.
+1. **[!UICONTROL Finish]**&#x200B;을(를) 클릭합니다.
 
    ![](assets/image2014-9-15-17-3a51-3a43.png)
 
-1. **승인 및 닫기**&#x200B;를 클릭합니다.
+1. **[!UICONTROL Approve and Close]**&#x200B;을(를) 클릭합니다.
 
    ![](assets/image2014-9-15-17-3a52-3a1.png)

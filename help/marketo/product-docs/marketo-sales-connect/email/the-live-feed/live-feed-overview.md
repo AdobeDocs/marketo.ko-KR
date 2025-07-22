@@ -4,9 +4,9 @@ description: 라이브 피드 개요 - Marketo 문서 - 제품 설명서
 title: 라이브 피드 개요
 exl-id: 646a3650-538d-4ea5-b29f-44ad6588e247
 feature: Marketo Sales Connect
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '391'
+source-wordcount: '389'
 ht-degree: 0%
 
 ---
@@ -48,7 +48,7 @@ MSE 이메일에 대한 참여(보기, 클릭 수 및 답글)를 실시간으로
 >
 >라이브 피드에서는 사용자 지정 날짜 필터를 사용할 수 없지만 웹 애플리케이션에서는 사용할 수 있습니다.
 
-빠른 작업 버튼을 사용하여 빠르게 호출하거나, 이메일을 보내거나, 개인의 Linkedin 프로필로 이동합니다.
+빠른 작업 단추를 사용하여 빠르게 전화를 걸거나 이메일을 보내거나 개인의 [!DNL Linkedin] 프로필로 이동합니다.
 
 ## 대상 탭 {#target-tab}
 
@@ -58,7 +58,7 @@ MSE 이메일에 대한 참여(보기, 클릭 수 및 답글)를 실시간으로
 
 * Marketo에서 개인 점수가 증가할 때 리드가 생성됩니다.
 * 상위 50개 리드를 표시합니다.
-* Salesforce에서 사용자에게 할당된 직원만 표시됩니다.
+* [!DNL Salesforce]에 할당된 사람만 표시됩니다.
 
 ## 아이콘 용어집 {#icon-glossary}
 

@@ -3,9 +3,9 @@ description: 판매 캠페인 단계 유형 및 미리 알림 작업 - Marketo �
 title: 판매 캠페인 단계 유형 및 미리 알림 작업
 exl-id: 41b19452-ba1a-4ca7-bf22-29314072a346
 feature: Sales Insight Actions
-source-git-commit: 02b2e39580c5eac63de4b4b7fdaf2a835fdd4ba5
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '318'
+source-wordcount: '312'
 ht-degree: 0%
 
 ---
@@ -24,9 +24,9 @@ Sales Campaign에 단계를 추가하면 네 가지 옵션이 제공됩니다.
 
 ![](assets/sales-campaign-step-types-and-reminder-tasks-2.png)
 
-| **템플릿 사용** | 기존 템플릿 중 하나 선택 |
+| **[!UICONTROL Use a Template]** | 기존 템플릿 중 하나 선택 |
 |---|---|
-| **템플릿으로 저장** | 방금 작성한 이메일을 새 템플릿으로 저장합니다. |
+| **[!UICONTROL Save as Template]** | 방금 작성한 이메일을 새 템플릿으로 저장합니다. |
 | **콘텐츠 추가** | 파일을 서버에 업로드하고 이메일에서 추적할 수 있는 URL(콘텐츠를 가리킴)을 수신합니다. |
 | **파일 첨부** | 컴퓨터에서 이메일에 파일 첨부(23MB 크기 제한) |
 
@@ -34,7 +34,7 @@ Sales Campaign에 단계를 추가하면 네 가지 옵션이 제공됩니다.
 >
 >[전송 옵션](/help/marketo/product-docs/marketo-sales-insight/actions/campaigns/understanding-sales-campaign-send-options-for-email-steps.md){target="_blank"}에 대한 세부 정보를 알아보세요.
 
-### 호출 {#call}
+### 콜 {#call}
 
 전화를 통한 연락처에 대한 후속 조치를 취하도록 미리 알림을 설정합니다. 통화 중에 통화 트랙으로 사용할 메모를 저장할 수도 있습니다.
 
@@ -42,7 +42,7 @@ Sales Campaign에 단계를 추가하면 네 가지 옵션이 제공됩니다.
 
 ### InMail {#inmail}
 
-여러 채널에서 추적하는 것은 리드와 연결하는 좋은 방법입니다. InMail 작업을 통해 LinkedIn에 연락하도록 미리 알림을 설정할 수 있습니다.
+여러 채널에서 추적하는 것은 리드와 연결하는 좋은 방법입니다. InMail 작업을 사용하면 LinkedIn을 통해 연락할 수 있는 미리 알림을 설정할 수 있습니다.
 
 ![](assets/sales-campaign-step-types-and-reminder-tasks-4.png)
 

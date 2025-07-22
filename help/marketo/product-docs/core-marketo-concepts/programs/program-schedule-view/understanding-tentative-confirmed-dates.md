@@ -4,16 +4,16 @@ description: 잠정/확정 일자 이해 - Marketo 문서 - 제품 설명서
 title: 미정/확정 일자 이해
 exl-id: af6b907f-e4d8-432f-b1da-dd7c04376ba8
 feature: Programs
-source-git-commit: b21f955bf98063e11f8ed3fdc6f164134ee4f5aa
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '210'
+source-wordcount: '206'
 ht-degree: 0%
 
 ---
 
 # 미정/확정 일자 이해 {#understanding-tentative-confirmed-dates}
 
-스마트 캠페인 및 전자 메일 프로그램에는 **[!UICONTROL 임시]** 또는 **[!UICONTROL 확인됨]**(으)로 표시할 수 있는 강력한 기능이 있습니다. 작동 방식은 다음과 같습니다.
+스마트 캠페인 및 전자 메일 프로그램에는 **[!UICONTROL Tentative]** 또는 **[!UICONTROL Confirmed]**(으)로 표시할 수 있는 강력한 기능이 있습니다. 작동 방식은 다음과 같습니다.
 
 ## 잠정적 {#tentative}
 
@@ -27,7 +27,7 @@ ht-degree: 0%
 
 ## 항목 확인 {#confirming-entries}
 
-이는 에셋을 승인하는 것과 같으며, 따라서 항목을 확인하려면 먼저 항목을 완전히 설정해야 합니다. 모든 오리들이 일렬로 서게 되면, 당신은 잠정적 탭을 오른쪽으로 밀어 항목을 확인할 수 있습니다.
+이는 에셋을 승인하는 것과 같으며, 따라서 항목을 확인하려면 먼저 항목을 완전히 설정해야 합니다. 모든 오리들이 한 줄로 정렬되면 [!UICONTROL Tentative] 탭을 오른쪽으로 밀어 항목을 확인할 수 있습니다.
 
 ![](assets/image2014-9-23-15-3a23-3a2.png)
 
@@ -47,7 +47,7 @@ ht-degree: 0%
 
 ## 완료됨  {#finished}
 
-완료된 항목이 이미 실행되었습니다. 과거에만 있을 수 있습니다(분명히). 항목이 실행되어 **[!UICONTROL 완료]**&#x200B;되면 이동하거나 미정으로 설정할 수 없습니다. (변화하는 현실과 시간 흐름의 연속성을 방해하는 것은 없다.)
+완료된 항목이 이미 실행되었습니다. 과거에만 있을 수 있습니다(분명히). 항목이 실행되어 **[!UICONTROL Finished]**&#x200B;이(가) 되면 이동하거나 미정으로 설정할 수 없습니다. (변화하는 현실과 시간 흐름의 연속성을 방해하는 것은 없다.)
 
 ![](assets/image2014-9-23-15-3a25-3a53.png)
 

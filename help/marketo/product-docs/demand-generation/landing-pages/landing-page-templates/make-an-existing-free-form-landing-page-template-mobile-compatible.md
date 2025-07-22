@@ -4,40 +4,40 @@ description: 기존 자유 형식 랜딩 페이지 템플릿 모바일 호환 - 
 title: 기존 자유 형식 랜딩 페이지 템플릿 모바일 호환으로 만들기
 exl-id: 942456a5-3f3e-4a71-aecc-4cc6bf6237b3
 feature: Landing Pages
-source-git-commit: a9f880bd32d533613020d0472c0e1bee07ab388c
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '251'
-ht-degree: 0%
+source-wordcount: '228'
+ht-degree: 1%
 
 ---
 
-# 기존 자유 형식 랜딩 페이지 템플릿 모바일 호환으로 만들기 {#make-an-existing-free-form-landing-page-template-mobile-compatible}
+# 기존의 자유 형식 랜딩 페이지 템플릿 [!UICONTROL Mobile Compatible] 만들기 {#make-an-existing-free-form-landing-page-template-mobile-compatible}
 
 템플릿 편집기 와 랜딩 페이지 편집기 의 두 위치에서 작업을 수행할 수 있습니다.
 
 ## 템플릿 편집기에서 업그레이드 {#upgrade-from-the-template-editor}
 
-1. **디자인 스튜디오**(으)로 이동합니다.
+1. **[!UICONTROL Design Studio]**(으)로 이동합니다.
 
    ![](assets/designstudio-1.png)
 
-1. **템플릿**&#x200B;을(를) 선택하십시오.
+1. **[!UICONTROL Templates]**&#x200B;를 선택합니다.
 
    ![](assets/image2015-1-22-20-3a20-3a2.png)
 
-1. **모바일 호환**&#x200B;이 **아니요**&#x200B;인 템플릿을 선택하십시오.
+1. **[!UICONTROL Mobile Compatible]**&#x200B;이(가) **[!UICONTROL No]**&#x200B;인 템플릿을 선택하십시오.
 
    ![](assets/image2015-1-22-20-3a22-3a24.png)
 
-1. **초안 편집**&#x200B;을 클릭합니다.
+1. **[!UICONTROL Edit Draft]**&#x200B;을(를) 클릭합니다.
 
    ![](assets/image2015-1-22-20-3a25-3a36.png)
 
-1. **모바일 호환하기**&#x200B;를 클릭합니다.
+1. **[!UICONTROL Make Mobile Compatible]**&#x200B;을(를) 클릭합니다.
 
    ![](assets/image2015-1-22-20-3a30-3a33.png)
 
-1. **업그레이드**&#x200B;를 클릭합니다.
+1. **[!UICONTROL Upgrade]**&#x200B;을(를) 클릭합니다.
 
    ![](assets/image2015-1-22-20-3a32-3a45.png)
 
@@ -49,7 +49,7 @@ ht-degree: 0%
 
    ![](assets/image2015-1-22-20-3a36-3a43.png)
 
-## 템플릿 모바일의 호환성은 무엇입니까? {#what-makes-a-template-mobile-compatible}
+## 템플릿을 [!UICONTROL Mobile Compatible]하는 이유 {#what-makes-a-template-mobile-compatible}
 
 좋은 질문입니다! 템플릿에는 다음 태그가 있어야 합니다.
 
@@ -63,17 +63,17 @@ ht-degree: 0%
 
 ![](assets/image2015-1-22-20-3a43-3a20.png)
 
-템플릿을 변경하는 경우 템플릿 작업 을 클릭하고 모바일 호환성 유효성 검사 를 선택합니다.
+템플릿을 변경하려면 [!UICONTROL Template Actions]을(를) 클릭하고 [!UICONTROL Validate Mobile Compatibility]을(를) 선택하십시오.
 
 ## 자유 형식 랜딩 페이지 편집기에서 템플릿 업그레이드 {#upgrading-a-template-from-the-free-form-landing-page-editor}
 
 랜딩 페이지를 편집하고 모바일 탭을 클릭하면 템플릿이 업그레이드되지 않은 것을 발견하는 경우가 있습니다. 겁내지 마! 바로 업그레이드 가능합니다.
 
-1. **모바일** 탭을 클릭합니다.
+1. **[!UICONTROL Mobile]** 탭을 클릭합니다.
 
    ![](assets/image2015-1-22-20-3a48-3a19.png)
 
-1. 확인란을 클릭하고 **활성화**&#x200B;를 클릭합니다.
+1. 확인란을 클릭하고 **[!UICONTROL Activate]**&#x200B;을(를) 클릭합니다.
 
    ![](assets/image2015-1-22-20-3a49-3a34.png)
 

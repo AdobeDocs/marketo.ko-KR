@@ -4,9 +4,9 @@ description: 푸시 알림 미리 보기 - Marketo 문서 - 제품 설명서
 title: 푸시 알림 미리 보기
 exl-id: 72c5221d-8cef-4d26-b15f-c7c3e291c919
 feature: Mobile Marketing
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '245'
+source-wordcount: '237'
 ht-degree: 0%
 
 ---
@@ -15,7 +15,7 @@ ht-degree: 0%
 
 Android 또는 iOS에 대한 푸시 알림의 모양을 쉽게 미리 볼 수 있습니다. 네 가지 방법이 있습니다.
 
-탐색 트리에서 미리 보려는 알림의 파일을 마우스 오른쪽 단추로 클릭하고 **미리 보기**&#x200B;를 클릭합니다.
+탐색 트리에서 미리 보려는 알림의 파일을 마우스 오른쪽 단추로 클릭하고 **[!UICONTROL Preview]**&#x200B;을(를) 클릭합니다.
 
 >[!NOTE]
 >
@@ -23,11 +23,11 @@ Android 또는 iOS에 대한 푸시 알림의 모양을 쉽게 미리 볼 수 �
 
 ![](assets/image2015-9-4-9-3a52-3a27.png)
 
-또는 푸시 알림 보기 페이지에서 **푸시 알림 작업**&#x200B;을 클릭한 다음 **미리 보기**&#x200B;를 클릭합니다. 또는 맨 오른쪽에 있는 **미리 보기**&#x200B;를 클릭합니다.
+또는 푸시 알림 보기 페이지에서 **[!UICONTROL Push Notifications Actions]**&#x200B;을(를) 클릭한 다음 **[!UICONTROL Preview]**&#x200B;을(를) 클릭합니다. 또는 맨 오른쪽에 있는 **[!UICONTROL Preview]**&#x200B;을(를) 클릭합니다.
 
 ![](assets/image2015-9-4-10-3a53-3a28.png)
 
-마지막으로 편집기에서 알림을 처리하는 동안 오른쪽 상단의 **초안 미리 보기** 탭을 클릭할 수 있습니다.
+마지막으로, 알림에 대한 작업을 수행하는 동안 편집기에서 오른쪽 상단의 **[!UICONTROL Preview Draft]** 탭을 클릭할 수 있습니다.
 
 ![](assets/image2015-9-14-15-3a55-3a26.png)
 

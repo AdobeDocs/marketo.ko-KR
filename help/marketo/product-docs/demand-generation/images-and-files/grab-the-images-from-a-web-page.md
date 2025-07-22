@@ -4,9 +4,9 @@ description: 웹 페이지에서 이미지 가져오기 - Marketo 문서 - 제�
 title: 웹 페이지에서 이미지 가져오기
 exl-id: 5dd406da-082e-43cf-9d5e-3da2b960927d
 feature: Image Editor
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '173'
+source-wordcount: '158'
 ht-degree: 0%
 
 ---
@@ -15,15 +15,15 @@ ht-degree: 0%
 
 웹 페이지의 이미지를 추가하려면 원하는 이미지가 있는 페이지의 웹 주소(URL)를 복사한 다음 다음과 같은 간단한 단계를 수행합니다.
 
-1. **디자인 스튜디오**(으)로 이동합니다.
+1. **[!UICONTROL Design Studio]**(으)로 이동합니다.
 
    ![](assets/designstudio-2.png)
 
-1. **새로 만들기** 및 **웹에서 이미지 가져오기**&#x200B;를 클릭합니다.
+1. **[!UICONTROL New]** 및 **[!UICONTROL Grab Images from Web]**&#x200B;을(를) 클릭합니다.
 
    ![](assets/image2014-9-16-11-3a37-3a46.png)
 
-1. **이미지 및 파일** 폴더를 선택하고 웹 주소(URL)를 URL 텍스트 상자에 붙여 넣은 다음 **다음**&#x200B;을 클릭합니다.
+1. **[!UICONTROL Images and Files]** 폴더를 선택하고 웹 주소(URL)를 URL 텍스트 상자에 붙여 넣은 다음 **[!UICONTROL Next]**&#x200B;을(를) 클릭합니다.
 
    ![](assets/image2014-9-16-11-3a37-3a55.png)
 
@@ -31,7 +31,7 @@ ht-degree: 0%
    >
    >이 기능은 이미지를 직접 가리키는 URL에서는 작동하지 않습니다. 이미지가 포함된 웹 페이지의 URL을 사용합니다.
 
-1. 추가할 이미지를 선택하고 **가져오기**&#x200B;를 클릭합니다.
+1. 추가할 이미지를 선택하고 **[!UICONTROL Import]**&#x200B;을(를) 클릭합니다.
 
    ![](assets/image2014-9-16-11-3a38-3a3.png)
 
@@ -39,7 +39,7 @@ ht-degree: 0%
 
    ![](assets/image2014-9-16-11-3a38-3a9.png)
 
-1. **이미지 및 파일**&#x200B;에서 사용 가능한 모든 이미지를 볼 수 있습니다.
+1. **[!UICONTROL Images and Files]**&#x200B;에서 사용 가능한 모든 이미지를 볼 수 있습니다.
 
    ![](assets/image2014-9-16-11-3a38-3a18.png)
 

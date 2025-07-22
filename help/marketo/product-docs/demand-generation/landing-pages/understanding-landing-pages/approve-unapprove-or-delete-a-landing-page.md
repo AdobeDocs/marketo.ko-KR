@@ -4,9 +4,9 @@ description: 랜딩 페이지 승인, 승인 취소 또는 삭제 - Marketo 문�
 title: 랜딩 페이지 승인, 승인 취소 또는 삭제
 exl-id: ecd964e2-8363-495f-aaf0-e5ba452cb280
 feature: Landing Pages
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '290'
+source-wordcount: '266'
 ht-degree: 0%
 
 ---
@@ -17,7 +17,7 @@ ht-degree: 0%
 
 ## 랜딩 페이지 승인 {#approve-a-landing-page}
 
-1. 랜딩 페이지를 선택하고 **랜딩 페이지 작업**(으)로 이동한 다음 **승인**&#x200B;을 클릭합니다.
+1. 랜딩 페이지를 선택하고 **[!UICONTROL Landing Page Actions]**(으)로 이동한 다음 **[!UICONTROL Approve]**&#x200B;을(를) 클릭합니다.
 
    >[!TIP]
    >
@@ -25,7 +25,7 @@ ht-degree: 0%
 
    ![](assets/image2014-9-16-15-3a28-3a22.png)
 
-1. 랜딩 페이지를 마우스 오른쪽 단추로 클릭하고 **승인**&#x200B;을 클릭할 수도 있습니다.
+1. 랜딩 페이지를 마우스 오른쪽 단추로 클릭하고 **[!UICONTROL Approve]**&#x200B;을(를) 클릭할 수도 있습니다.
 
    ![](assets/image2014-9-16-15-3a30-3a4.png)
 
@@ -35,11 +35,11 @@ ht-degree: 0%
 
 ## 랜딩 페이지 승인 취소 {#unapprove-a-landing-page}
 
-1. 랜딩 페이지를 선택하고 **랜딩 페이지 작업**(으)로 이동한 다음 **승인 취소**&#x200B;를 클릭합니다.
+1. 랜딩 페이지를 선택하고 **[!UICONTROL Landing Page Actions]**(으)로 이동한 다음 **[!UICONTROL Unapprove]**&#x200B;을(를) 클릭합니다.
 
    ![](assets/image2014-9-16-15-3a31-3a8.png)
 
-1. 랜딩 페이지를 마우스 오른쪽 단추로 클릭하고 **승인 취소**&#x200B;를 클릭할 수도 있습니다.
+1. 랜딩 페이지를 마우스 오른쪽 단추로 클릭하고 **[!UICONTROL Unapprove]**&#x200B;을(를) 클릭할 수도 있습니다.
 
    ![](assets/image2014-9-16-15-3a31-3a34.png)
 
@@ -49,7 +49,7 @@ ht-degree: 0%
 
 ## 랜딩 페이지 삭제 {#delete-a-landing-page}
 
-1. 랜딩 페이지를 선택하고 **랜딩 페이지 작업**(으)로 이동한 다음 **삭제**&#x200B;를 클릭합니다.
+1. 랜딩 페이지를 선택하고 **[!UICONTROL Landing Page Actions]**(으)로 이동한 다음 **[!UICONTROL Delete]**&#x200B;을(를) 클릭합니다.
 
    ![](assets/image2014-9-16-15-3a49-3a59.png)
 
@@ -57,7 +57,7 @@ ht-degree: 0%
    >
    >승인된 랜딩 페이지는 삭제할 수 없습니다. 먼저 승인을 취소하십시오.
 
-1. 랜딩 페이지를 마우스 오른쪽 단추로 클릭하고 **삭제**&#x200B;를 클릭할 수도 있습니다.
+1. 랜딩 페이지를 마우스 오른쪽 단추로 클릭하고 **[!UICONTROL Delete]**&#x200B;을(를) 클릭할 수도 있습니다.
 
    ![](assets/image2014-9-16-15-3a50-3a40.png)
 
@@ -65,7 +65,7 @@ ht-degree: 0%
 
 한 번에 두 개 이상의 랜딩 페이지를 삭제하시겠습니까? 방법은 다음과 같습니다.
 
-1. Design Studio에서 **랜딩 페이지**&#x200B;를 클릭합니다.
+1. [!UICONTROL Design Studio]에서 **[!UICONTROL Landing Pages]**&#x200B;을(를) 클릭합니다.
 
    ![](assets/one.png)
 
@@ -77,11 +77,11 @@ ht-degree: 0%
    >
    >ctrl+클릭 을 사용하여 순차적이 아닌 여러 랜딩 페이지를 삭제할 수도 있습니다.
 
-1. **랜딩 페이지 작업** 드롭다운을 클릭하고 **삭제**&#x200B;를 선택합니다.
+1. **[!UICONTROL Landing Page Actions]** 드롭다운을 클릭하고 **[!UICONTROL Delete]**&#x200B;을(를) 선택합니다.
 
    ![](assets/three.png)
 
-1. **삭제**&#x200B;를 클릭합니다.
+1. **[!UICONTROL Delete]**&#x200B;을(를) 클릭합니다.
 
    ![](assets/four.png)
 

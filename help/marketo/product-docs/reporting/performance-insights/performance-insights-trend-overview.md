@@ -4,26 +4,26 @@ description: 성능 통찰력 트렌드 개요 - Marketo 문서 - 제품 설명�
 title: Performance Insights 트렌드 개요
 exl-id: f6590a13-2eba-44b3-b832-fd352b67ab5e
 feature: Reporting
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '167'
+source-wordcount: '160'
 ht-degree: 0%
 
 ---
 
-# Performance Insights 트렌드 개요 {#performance-insights-trend-overview}
+# [!UICONTROL Performance Insights] 트렌드 개요 {#performance-insights-trend-overview}
 
-트렌드는 일정 기간 동안의 채널 성능을 보여 줍니다.
+[!UICONTROL Trend]이(가) 일정 기간 동안의 채널 성능을 표시합니다.
 
-이 보기에 액세스하려면 **트렌드** 탭을 클릭하십시오.
+이 보기에 액세스하려면 **[!UICONTROL Trend]** 탭을 클릭하십시오.
 
 ![](assets/1.png)
 
-## 트렌드 {#trend}
+## [!UICONTROL Trend] {#trend}
 
 ![](assets/2-1.png)
 
-성능을 확인할 지표를 선택합니다. 이 예제에서는 [첫 번째 터치](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-tools/attribution/understanding-attribution.md)를 통해 얻은 영업 기회를 살펴봅니다.
+성능을 확인할 지표를 선택합니다. 이 예제에서는 [[!UICONTROL First-Touch]](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-tools/attribution/understanding-attribution.md)을(를) 통해 얻은 영업 기회를 살펴봅니다.
 
 ![](assets/3-2.png)
 

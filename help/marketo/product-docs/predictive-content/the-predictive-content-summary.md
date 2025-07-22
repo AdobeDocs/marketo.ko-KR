@@ -4,9 +4,9 @@ description: 예측 콘텐츠 요약 - Marketo 문서 - 제품 설명서
 title: 예측 콘텐츠 요약
 exl-id: 74663e07-39c6-40e5-bb49-e222c3c16034
 feature: Predictive Content
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '186'
+source-wordcount: '176'
 ht-degree: 0%
 
 ---
@@ -27,19 +27,19 @@ ht-degree: 0%
 
 ![](assets/image2017-10-3-10-3a4-3a40.png)
 
-## 예측 참여 {#predictive-engagement}
+## [!UICONTROL Predictive Engagement] {#predictive-engagement}
 
 총 클릭 수와 직접 잠재 고객을 비교하여 전환율을 보고 다양한 소스의 성능을 비교할 수 있습니다.
 
 ![](assets/predictive-engagement-actual.png)
 
-## 보기별 컨텐츠 트렌드  {#content-trend-by-views}
+## [!UICONTROL Content Trend by Views]  {#content-trend-by-views}
 
 모든 컨텐츠 보기가 예측 컨텐츠와 어떻게 일치하는지 비교합니다.
 
 ![](assets/4.png)
 
-## 참여별 상위 범주 {#top-categories-by-engagement}
+## [!UICONTROL Top Categories by Engagement] {#top-categories-by-engagement}
 
 어떤 카테고리의 콘텐츠가 가장 매력적입니까? 이 그래프에서 볼 수 있습니다.
 
@@ -47,4 +47,4 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->범주 링크(위 이미지의 예: leadgen, email 등)를 클릭하는 경우 클릭한 범주가 필터에 추가된 모든 콘텐츠 페이지가 열리고 해당 범주의 콘텐츠 분석이 표시됩니다.
+>범주 링크(위 이미지의 예: 잠재 고객, 이메일 등)를 클릭하면 클릭한 범주가 필터에 추가된 모든 콘텐츠 페이지가 열리고 해당 범주의 콘텐츠 분석이 표시됩니다.

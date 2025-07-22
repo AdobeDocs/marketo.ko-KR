@@ -4,9 +4,9 @@ description: 예약된 반복 배치 캠페인 실행 취소 - Marketo 문서 - 
 title: 예약된 반복 배치 캠페인 실행 취소
 exl-id: 7a659d4e-e546-4630-a36f-38ed80dd2a6e
 feature: Smart Campaigns
-source-git-commit: fec5219c599c805328d77797d2636e549e489ca5
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '121'
+source-wordcount: '117'
 ht-degree: 0%
 
 ---
@@ -19,7 +19,7 @@ ht-degree: 0%
 
    ![](assets/cancel-a-scheduled-recurring-batch-campaign-run-1.png)
 
-1. **반복 예약**&#x200B;을 클릭합니다.
+1. **[!UICONTROL Schedule Recurrence]**&#x200B;을(를) 클릭합니다.
 
    ![](assets/cancel-a-scheduled-recurring-batch-campaign-run-2.png)
 
@@ -27,7 +27,7 @@ ht-degree: 0%
    >
    >옆에 있는 ![빨간색 x](assets/cancel-a-scheduled-recurring-batch-campaign-run-3.png)을 클릭하여 한 번의 실행을 취소할 수 있습니다. 예약된 일괄 캠페인 실행을 [취소](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/using-smart-campaigns/cancel-a-scheduled-batch-campaign-run.md){target="_blank"}하는 방법에 대해 알아봅니다.
 
-1. 일정을 **[!UICONTROL 없음]**(으)로 설정하고 **[!UICONTROL 저장]**&#x200B;을 클릭합니다.
+1. 일정을 **[!UICONTROL None]**(으)로 설정하고 **[!UICONTROL Save]**&#x200B;을(를) 클릭합니다.
 
    ![](assets/cancel-a-scheduled-recurring-batch-campaign-run-4.png)
 

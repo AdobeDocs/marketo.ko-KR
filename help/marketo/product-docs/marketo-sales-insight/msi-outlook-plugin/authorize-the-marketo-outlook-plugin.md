@@ -1,19 +1,19 @@
 ---
 unique-page-id: 11377640
-description: Marketo Outlook 플러그인 승인 - Marketo 문서 - 제품 설명서
-title: Marketo Outlook 플러그인 인증
+description: Marketo [!DNL Outlook] 플러그인 - Marketo 문서 - 제품 설명서 승인
+title: Marketo [!DNL Outlook] Plugin 승인
 exl-id: 4eeed6db-2d28-4ec9-8aa0-1c599f68b2bf
 feature: Marketo Sales Insights
-source-git-commit: 40fe81d465d04be97ae5e216250b7e06e6d3791e
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '183'
+source-wordcount: '171'
 ht-degree: 0%
 
 ---
 
-# Marketo Outlook 플러그인 인증 {#authorize-the-marketo-outlook-plugin}
+# Marketo [!DNL Outlook] 플러그 인 승인 {#authorize-the-marketo-outlook-plugin}
 
-Outlook에서 Marketo MSI 플러그인을 사용하려면 권한을 부여해야 합니다.
+[!DNL Outlook]에서 Marketo MSI 플러그인을 사용하려면 권한을 부여해야 합니다.
 
 >[!PREREQUISITES]
 >
@@ -21,21 +21,21 @@ Outlook에서 Marketo MSI 플러그인을 사용하려면 권한을 부여해야
 
 >[!IMPORTANT]
 >
->Microsoft에서 [Windows용 Outlook의 새 버전](https://techcommunity.microsoft.com/t5/outlook-blog/new-outlook-for-windows-now-available/ba-p/3932068){target="_blank"}을 릴리스했습니다. 이 새 버전은 기존 MSI Outlook 플러그인을 지원하지 않습니다. MSI Outlook 플러그인은 클래식 버전의 Outlook을 실행하는 Windows 데스크톱에서 계속 작동합니다. 조직의 새 Windows용 Outlook에 대해 자세히 알아보려면 [여기를 클릭](https://techcommunity.microsoft.com/t5/outlook-blog/the-new-outlook-for-windows-for-organization-admins/ba-p/3929169){target="_blank"}하세요.
+>Microsoft에서 [Windows용 Outlook의 새 버전](https://techcommunity.microsoft.com/t5/outlook-blog/new-outlook-for-windows-now-available/ba-p/3932068){target="_blank"}을 릴리스했습니다. 이 새 버전은 기존 MSI Outlook 플러그인을 지원하지 않습니다. MSI Outlook 플러그인은 클래식 버전의 Outlook을 실행하는 Windows 데스크톱에서 계속 작동합니다. 새로운 Windows용 Outlook 조직에 대해 자세히 알아보려면 [여기를 클릭](https://techcommunity.microsoft.com/t5/outlook-blog/the-new-outlook-for-windows-for-organization-admins/ba-p/3929169){target="_blank"}하세요.
 
 1. Marketo 메시지 단추 중 하나를 클릭합니다.
 
    ![](assets/image2016-8-24-16-3a4-3a28.png)
 
-1. Marketo 플러그인 승인 대화 상자가 나타나면 **요청 코드**&#x200B;를 클릭합니다.
+1. [!UICONTROL Authorize Marketo Plugin] 대화 상자가 나타나면 **[!UICONTROL Request Code]**&#x200B;을(를) 클릭합니다.
 
    ![](assets/image2016-8-24-16-3a6-3a51.png)
 
-1. 코드는 기본 Outlook 계정 이메일 주소로 전송됩니다.
+1. 기본 [!DNL Outlook] 계정 전자 메일 주소로 코드가 전송됩니다.
 
    ![](assets/image2016-8-24-16-3a8-3a36.png)
 
-1. 기본 Outlook 계정 전자 메일 주소가 체크 아웃되면 등록 키를 받게 됩니다. 팝업에 입력한 다음 **제출**&#x200B;을 클릭합니다.
+1. 기본 [!DNL Outlook] 계정 전자 메일 주소가 체크 아웃되면 등록 키를 받게 됩니다. 팝업에 입력한 다음 **[!UICONTROL Submit]**&#x200B;을(를) 클릭합니다.
 
    ![](assets/image2016-8-24-16-3a12-3a48.png)
 

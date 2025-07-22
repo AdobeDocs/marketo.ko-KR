@@ -4,9 +4,9 @@ description: 양식 점진적 프로파일링 구성 - Marketo 문서 - 제품 �
 title: 양식 점진적 프로파일링 구성
 exl-id: 72afe3dc-0688-45ec-ab70-4dc9accf4fc8
 feature: Forms
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '333'
+source-wordcount: '307'
 ht-degree: 0%
 
 ---
@@ -19,23 +19,23 @@ ht-degree: 0%
 >
 >이 기능이 제대로 작동하려면 표시되는 필드에 대해 양식 미리 채우기가 활성화되어 있는지, 숨겨진 필드에 대해 [비활성화됨](/help/marketo/product-docs/demand-generation/forms/form-fields/disable-pre-fill-for-a-form-field.md)이 설정되어 있는지 확인하십시오.
 
-1. **마케팅 활동**(으)로 이동합니다.
+1. **[!UICONTROL Marketing Activities]**(으)로 이동합니다.
 
    ![](assets/ma-1.png)
 
-1. 양식을 선택하고 **양식 편집**&#x200B;을 클릭합니다.
+1. 양식을 선택하고 **[!UICONTROL Edit Form]**&#x200B;을(를) 클릭합니다.
 
    ![](assets/image2014-9-15-12-3a31-3a20.png)
 
-1. **양식 설정**&#x200B;에서 **설정**&#x200B;을 클릭합니다.
+1. **[!UICONTROL Form Settings]**&#x200B;에서 **[!UICONTROL Settings]**&#x200B;을(를) 클릭합니다.
 
    ![](assets/image2014-9-15-12-3a31-3a29.png)
 
-1. **점진적 프로파일링**&#x200B;을(를) **사용**(으)로 설정합니다.
+1. **[!UICONTROL Progressive Profiling]**&#x200B;을(를) **[!UICONTROL Enabled]**(으)로 설정합니다.
 
    ![](assets/image2014-9-15-12-3a31-3a47.png)
 
-1. 이제 구성해 보겠습니다. **필드 세부 정보**(으)로 이동합니다.
+1. 이제 구성해 보겠습니다. **[!UICONTROL Field Details]**(으)로 이동합니다.
 
    ![](assets/image2014-9-15-12-3a31-3a55.png)
 
@@ -49,15 +49,15 @@ ht-degree: 0%
 
    >[!NOTE]
    >
-   >**점진적 프로파일링** 상자 외부의 필드는 입력되어 있더라도 항상 양식에 표시됩니다.
+   >**[!UICONTROL Progressive Profiling]** 상자 외부의 필드는 채워져 있더라도 항상 폼에 표시됩니다.
 
-1. **점진적 프로파일링** 상자를 선택합니다.
+1. **[!UICONTROL Progressive Profiling]** 상자를 선택합니다.
 
    ![](assets/image2014-9-15-12-3a32-3a19.png)
 
    >[!CAUTION]
    >
-   >점진적 프로파일링에서 필수 필드를 사용할 때는 주의하십시오. 다른 필드에 대한 데이터를 이전에 제출한 후, 최신 양식에서는 표시되지 않기 때문에 방문자가 새 이메일 주소(새 사용자를 만들 수 있음)를 입력하면 이러한 필드는 계속 비어 있을 수 있습니다.
+   >[!UICONTROL Progressive Profiling]에서 필수 필드를 사용할 때는 주의하십시오. 다른 필드에 대한 데이터를 이전에 제출한 후, 최신 양식에서는 표시되지 않기 때문에 방문자가 새 이메일 주소(새 사용자를 만들 수 있음)를 입력하면 이러한 필드는 계속 비어 있을 수 있습니다.
 
 1. 이제 제공된 시간에 **점진적 프로파일링** 상자에서 사람들이 볼 빈 필드 수를 선택하십시오.
 
@@ -65,7 +65,7 @@ ht-degree: 0%
 
    >[!NOTE]
    >
-   >**숫자** **of** **공백** **필드**&#x200B;를 1로 선택하면 방문자가 이 양식을 처음 볼 때 다음과 같이 표시됩니다.
+   >**[!UICONTROL Number of Blank Fields]**&#x200B;을(를) 1로 선택하면 방문자가 이 양식을 처음 볼 때 다음이 표시됩니다.
    >
    >* 이름(비어 있음)
    >* 성(비어 있음)
@@ -86,11 +86,11 @@ ht-degree: 0%
    >* 이메일 주소(미리 입력됨)
    >* 국가(비어 있음)
 
-1. **마침**&#x200B;을 클릭합니다.
+1. **[!UICONTROL Finish]**&#x200B;을(를) 클릭합니다.
 
    ![](assets/image2014-9-15-12-3a33-3a35.png)
 
-1. **승인 및 닫기**&#x200B;를 클릭합니다.
+1. **[!UICONTROL Approve and Close]**&#x200B;을(를) 클릭합니다.
 
    ![](assets/image2014-9-15-12-3a33-3a45.png)
 

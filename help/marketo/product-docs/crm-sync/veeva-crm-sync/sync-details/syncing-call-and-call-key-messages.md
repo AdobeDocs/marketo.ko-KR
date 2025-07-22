@@ -3,16 +3,16 @@ description: 통화 및 통화 키 메시지 동기화 - Marketo 문서 - 제품
 title: 통화 및 통화 키 메시지 동기화
 exl-id: a8df5b77-e594-4e06-8194-1758a3582cda
 feature: Veeva CRM
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '478'
-ht-degree: 2%
+source-wordcount: '477'
+ht-degree: 3%
 
 ---
 
 # 통화 및 통화 키 메시지 동기화 {#syncing-call-and-call-key-messages}
 
-Veeva CRM의 호출 및 호출 키 메시지 개체는 기본적으로 Marketo Engage에 동기화됩니다. Marketo은 호출 생성 날짜를 기준으로 최대 6개월 된 데이터를 동기화합니다.
+[!DNL Veeva] CRM의 호출 및 호출 키 메시지 개체는 기본적으로 Marketo Engage에 동기화됩니다. Marketo은 호출 생성 날짜를 기준으로 최대 6개월 된 데이터를 동기화합니다.
 
 >[!NOTE]
 >
@@ -65,49 +65,49 @@ Veeva CRM의 호출 및 호출 키 메시지 개체는 기본적으로 Marketo E
   </thead>
   <tbody>
     <tr>
-      <td>호출</td>
+      <td>콜</td>
       <td>회계사</td>
       <td>호출이 연결된 계정을 조회합니다.</td>
       <td>Account_vod__c</td>
       <td>조회(계정)</td>
     </tr>
     <tr>
-      <td>호출</td>
+      <td>콜</td>
       <td>호출 유형</td>
       <td>호출 유형 및 내용에 따라 시스템이 유지되는 호출 유형입니다. 이 필드는 보고 목적으로 사용됩니다. 유효한 값은 Detail Only, Detail with Sample, Group Detail, Group Detail with Sample, Sample입니다. 이러한 값은 변경하면 안 되지만 이러한 선택 목록에 대한 번역은 변경될 수 있습니다. 참석자의 호출 유형은 헤더 호출과 동일합니다. 전문가 3명이 참여하는 그룹 통화의 경우, 4개의 레코드 모두 "그룹 세부 정보"라는 통화 유형을 가집니다.</td>
       <td>Call_Type_vod__c</td>
       <td>선택 목록</td>
     </tr>
     <tr>
-     <td>호출</td>
+     <td>콜</td>
       <td>연락처</td>
       <td>호출이 연결된 연락처(있는 경우)를 조회합니다.</td>
       <td>Contact_vod__c</td>
       <td>조회(연락처)</td>
     </tr>
     <tr>
-      <td>호출</td>
-      <td>날짜</td>
+      <td>콜</td>
+      <td>일자</td>
       <td>처음 저장되거나 제출된 호출 날짜. 이 필드는 date 또는 datetime 필드가 제공되지 않은 경우 트리거를 통해 현재 날짜로 설정됩니다.</td>
       <td>Call_Date_vod__c</td>
-      <td>날짜</td>
+      <td>일자</td>
     </tr>
     <tr>
-      <td>호출</td>
+      <td>콜</td>
       <td>상위 호출입니까?</td>
       <td>호출 레코드가 상위 호출 또는 참석자 호출 레코드인지 판별하는 공식 필드. 1은 레코드가 상위 호출임을 나타냅니다. 0은 참석자 호출임을 나타냅니다.</td>
       <td>Is_Parent_Call_vod__c</td>
       <td>공식(숫자)</td>
     </tr>
     <tr>
-      <td>호출</td>
+      <td>콜</td>
       <td>상태</td>
       <td>호출 상태 - 계획됨, 저장됨 또는 제출됨. 번역 워크벤치를 사용하여 표시 값을 변경합니다. 호출 시 트리거는 이 필드를 보고 호출이 잠겨 있는지(제출되었는지) 확인합니다. 이 값은 저장 또는 제출 단추를 누를 때 사용자에 대해 설정됩니다.</td>
       <td>Status_vod__c</td>
       <td>선택 목록</td>
     </tr>
     <tr>
-      <td>호출</td>
+      <td>콜</td>
       <td>레코드 유형</td>
       <td> </td>
       <td>레코드 유형 ID</td>
@@ -115,7 +115,7 @@ Veeva CRM의 호출 및 호출 키 메시지 개체는 기본적으로 Marketo E
     </tr>
     <tr>
       <td>호출 키 메시지</td>
-      <td>호출</td>
+      <td>콜</td>
       <td>호출을 조회합니다. 각 키 메시지는 호출과 연결됩니다.</td>
       <td>Call2_vod__c</td>
       <td>기본-Detail(호출)</td>

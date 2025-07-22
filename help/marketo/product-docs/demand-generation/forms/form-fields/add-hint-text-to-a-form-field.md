@@ -4,10 +4,10 @@ description: 양식 필드에 힌트 텍스트 추가 - Marketo 문서 - 제품 
 title: 양식 필드에 힌트 텍스트 추가
 exl-id: 317ca17f-eff7-4c57-ac91-214732b4d8e5
 feature: Forms
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '120'
-ht-degree: 0%
+source-wordcount: '110'
+ht-degree: 1%
 
 ---
 
@@ -23,23 +23,23 @@ ht-degree: 0%
 >
 >양식 **지침**&#x200B;은(는) 방문자가 필드 위에 마우스 커서를 놓으면 표시되는 작은 도구 설명입니다.
 
-1. **마케팅 활동**(으)로 이동합니다.
+1. **[!UICONTROL Marketing Activities]**(으)로 이동합니다.
 
    ![](assets/login-marketing-activities-5.png)
 
-1. 양식을 선택하고 **양식 편집**&#x200B;을 클릭합니다.
+1. 양식을 선택하고 **[!UICONTROL Edit Form]**&#x200B;을(를) 클릭합니다.
 
    ![](assets/image2014-9-15-13-3a54-3a6.png)
 
-1. 필드를 선택하고 **힌트 텍스트**&#x200B;를 입력하십시오.
+1. 필드를 선택하고 **[!UICONTROL Hint Text]**&#x200B;을(를) 입력하십시오.
 
    ![](assets/image2014-9-15-13-3a53-3a58.png)
 
-1. **마침**&#x200B;을 클릭합니다.
+1. **[!UICONTROL Finish]**&#x200B;을(를) 클릭합니다.
 
    ![](assets/image2014-9-15-13-3a53-3a36.png)
 
-1. **승인 및 닫기**&#x200B;를 클릭합니다.
+1. **[!UICONTROL Approve and Close]**&#x200B;을(를) 클릭합니다.
 
    ![](assets/image2014-9-15-13-3a53-3a29.png)
 

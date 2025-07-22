@@ -4,16 +4,16 @@ description: 이메일 인사이트 전송 개요 - Marketo 문서 - 제품 설�
 title: 이메일 인사이트 전송 개요
 exl-id: 2e2535bd-fd3d-4660-be43-7755c142bcd1
 feature: Reporting
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '172'
+source-wordcount: '164'
 ht-degree: 0%
 
 ---
 
 # 이메일 인사이트 전송 개요 {#email-insights-sends-overview}
 
-전송함 페이지에서 최근 이메일 통신의 특성을 검사합니다.
+[!UICONTROL Sends] 페이지에서 최근 전자 메일 통신의 특성을 검사합니다.
 
 ![](assets/one.png)
 
@@ -25,11 +25,11 @@ ht-degree: 0%
 
 ![](assets/two-1.png)
 
-**Type**&#x200B;은(는) 사용된 에셋의 종류를 나타냅니다.
-**받는 사람** 번호는 전자 메일을 보낸 사람 수입니다.
-**게재 지표**&#x200B;에서는 배달되었거나, 보류 중이거나, 반송된 이메일 수를 빠르게 볼 수 있습니다.\
-**참여 지표**&#x200B;에서는 전자 메일을 열고, 클릭하고, 구독 취소한 받는 사람 수를 빠르게 볼 수 있습니다.
-**점수**&#x200B;는 전자 메일의 [참여 점수](/help/marketo/product-docs/email-marketing/drip-nurturing/reports-and-notifications/understanding-the-engagement-score.md)입니다.
+**[!UICONTROL Type]**은(는) 사용된 에셋의 종류를 나타냅니다.
+**[!UICONTROL Recipient]** 숫자는 메일을 보낸 사람 수입니다.
+**[!UICONTROL Delivery Metrics]**&#x200B;은(는) 배달되었거나, 보류 중이거나, 반송된 이메일 수에 대한 빠른 보기를 제공합니다.\
+**[!UICONTROL Engagement Metrics]**은(는) 전자 메일을 열고, 클릭하고, 구독 취소한 받는 사람 수에 대한 빠른 보기를 제공합니다.
+**[!UICONTROL Score]**&#x200B;은(는) 전자 메일의 [참여 점수](/help/marketo/product-docs/email-marketing/drip-nurturing/reports-and-notifications/understanding-the-engagement-score.md)입니다.
 
 기본적으로 이메일은 가장 최근별로 정렬되지만 사용 가능한 지표를 기준으로 정렬할 수 있습니다.
 

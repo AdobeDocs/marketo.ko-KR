@@ -1,17 +1,17 @@
 ---
 unique-page-id: 11382815
-description: IT별 Marketo Outlook 플러그인 설치 - Marketo 문서 - 제품 설명서
-title: IT에 의한 Marketo Outlook 플러그인 설치
+description: IT별 Marketo [!DNL Outlook] 플러그인 설치 - Marketo 문서 - 제품 설명서
+title: IT에서 제공하는 Marketo [!DNL Outlook] 플러그인 설치
 exl-id: c1ae1fb8-d1ad-4c1b-899b-29629fcb166b
 feature: Marketo Sales Insights
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '172'
-ht-degree: 0%
+source-wordcount: '168'
+ht-degree: 1%
 
 ---
 
-# IT에 의한 Marketo Outlook 플러그인 설치 {#marketo-outlook-plugin-installation-by-it}
+# IT에서 제공하는 Marketo [!DNL Outlook] 플러그 인 설치 {#marketo-outlook-plugin-installation-by-it}
 
 경우에 따라 기업 정책에 따라 IT 팀이 직원의 컴퓨터에 모든 소프트웨어를 설치해야 합니다. 이러한 경우 IT 부서는 자체 배포 소프트웨어를 사용하여 원격으로 이 작업을 수행하는 경우가 많습니다. 이 문서는 Outlook 플러그인을 원격으로 설치하기 위해 배포 프로세스 동안 입력으로 사용할 명령줄을 제공합니다.
 
@@ -57,4 +57,4 @@ ht-degree: 0%
 
 >[!MORELIKETHIS]
 >
->[IT에서 Marketo Outlook 플러그 인 제거](/help/marketo/product-docs/marketo-sales-insight/msi-outlook-plugin/marketo-outlook-plugin-uninstall-by-it.md)
+>[Marketo [!DNL Outlook] IT에서 플러그인 제거](/help/marketo/product-docs/marketo-sales-insight/msi-outlook-plugin/marketo-outlook-plugin-uninstall-by-it.md)

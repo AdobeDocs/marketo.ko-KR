@@ -3,9 +3,9 @@ description: 영업 활동 트리거 및 필터 - Marketo 문서 - 제품 설명
 title: 판매 활동 트리거 및 필터
 exl-id: 750abb73-8217-4739-8a08-1eb0f6e2976c
 feature: Marketo Sales Connect
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '118'
+source-wordcount: '114'
 ht-degree: 0%
 
 ---
@@ -20,7 +20,7 @@ ht-degree: 0%
 
    ![](assets/sales-activity-triggers-and-filters-1.png)
 
-1. **스마트 목록** 탭에서 &quot;영업 앱&quot;을 검색합니다.
+1. **[!UICONTROL Smart List]** 탭에서 &quot;[!UICONTROL Sales Apps]&quot;을(를) 검색합니다.
 
    ![](assets/sales-activity-triggers-and-filters-2.png)
 

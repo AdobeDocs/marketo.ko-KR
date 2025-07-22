@@ -4,14 +4,14 @@ description: Marketo Sales Insight - Marketo 설명서 - 제품 설명서에서 
 title: Marketo Sales Insight에서 구독 취소 바닥글 구성
 exl-id: 16c1fcba-6826-400c-ab7c-371d8653d4ad
 feature: Marketo Sales Insights
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '207'
+source-wordcount: '184'
 ht-degree: 0%
 
 ---
 
-# Marketo Sales Insight에서 구독 취소 바닥글 구성 {#configure-unsubscribe-footers-in-marketo-sales-insight}
+# [!DNL Marketo Sales Insight]에서 구독 취소 바닥글 구성 {#configure-unsubscribe-footers-in-marketo-sales-insight}
 
 영업 이메일은 자동으로 구독 취소 바닥글을 맨 아래에 표시합니다. 그러나 필요에 따라 설정을 조정할 수 있습니다.
 
@@ -23,13 +23,13 @@ ht-degree: 0%
 >
 >**정의**
 >
->**판매 이메일**&#x200B;은(는) Sales Insight에서 보낸 전자 메일입니다(Marketo Outlook 플러그인에서 보낸 전자 메일은 포함하지 않음).
+>**판매 전자 메일**&#x200B;은(는) [!DNL Sales Insight]에서 보낸 전자 메일입니다(Marketo Outlook 플러그인에서 보낸 전자 메일은 포함되지 않음).
 
-1. **관리자** 영역으로 이동합니다.
+1. **[!UICONTROL Admin]** 영역으로 이동합니다.
 
    ![](assets/one-1.png)
 
-1. **판매 인사이트**&#x200B;를 클릭한 다음 **설정 편집**&#x200B;을 클릭합니다.
+1. **[!UICONTROL Sales Insight]**&#x200B;을(를) 클릭한 다음 **[!UICONTROL Edit Settings]**&#x200B;을(를) 클릭합니다.
 
    ![](assets/two-1.png)
 
@@ -37,19 +37,19 @@ ht-degree: 0%
 
    ![](assets/three-1.png)
 
-   * **템플릿 없음** - 영업 사용자가 수동으로 작성했습니다.
-   * **표준 전자 메일** - 템플릿을 기반으로 한 전자 메일
-   * **운영 전자 메일** - 구독 취소, 마케팅 중단 및 통신 제한을 무시하는 전자 메일(어떤 것이든 보낼 수 있음)
+   * **[!UICONTROL No Template]** - 영업 사용자가 수동으로 작성했습니다.
+   * **[!UICONTROL Standard Email]** - 템플릿을 기반으로 한 전자 메일
+   * **[!UICONTROL Operational Email]** - 구독 취소, 마케팅 중단 및 통신 제한을 무시하는 전자 메일(어떤 경우든 전송).
 
    각 유형에 대해 서로 다른 비헤이비어를 설정할 수 있습니다.
 
    >[!CAUTION]
    >
-   >**구독 취소 설정 준수**: 게시된 전자 메일이 &quot;작동 중&quot;인 경우에도 구독 취소한 리드가 전자 메일을 받지 않습니다.
+   >**[!UICONTROL Respect Unsubscribe Settings]**: 게시된 전자 메일이 &quot;작동 중&quot;인 경우에도 구독 취소한 리드는 전자 메일을 받지 않습니다.
    >
-   >**구독 취소 설정 무시**: 구독 취소한 리드는 이메일을 받습니다
+   >**[!UICONTROL Ignore Unsubscribe Settings]**: 구독 취소된 리드가 이메일을 받습니다.
 
-1. 원하는 대로 변경한 다음 **저장**&#x200B;을 클릭합니다.
+1. 원하는 대로 변경한 다음 **[!UICONTROL Save]**&#x200B;을(를) 클릭합니다.
 
    >[!TIP]
    >

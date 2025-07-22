@@ -4,9 +4,9 @@ description: 다이내믹 콘텐츠를 사용하여 이메일 미리 보기 - Ma
 title: 다이내믹 콘텐츠를 사용하여 이메일 미리 보기
 exl-id: 7d27f73c-d38b-4d95-a861-b27367f1f532
 feature: Email Editor
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '115'
+source-wordcount: '109'
 ht-degree: 0%
 
 ---
@@ -15,11 +15,11 @@ ht-degree: 0%
 
 확인하려면 다이내믹 콘텐츠를 추가한 후 이메일을 미리 봅니다.
 
-1. 전자 메일을 선택하고 **전자 메일 미리 보기**&#x200B;를 클릭합니다.
+1. 전자 메일을 선택하고 **[!UICONTROL Preview Email]**&#x200B;을(를) 클릭합니다.
 
    ![](assets/one-3.png)
 
-1. 보기 기준 드롭다운을 클릭하고 미리 보려는 동적 콘텐츠 유형을 선택합니다.
+1. **[!UICONTROL View By]** 드롭다운을 클릭하고 미리 보려는 동적 콘텐츠 형식을 선택합니다.
 
    ![](assets/two-3.png)
 
@@ -33,7 +33,7 @@ ht-degree: 0%
 
 이메일 편집기에서 다이내믹 콘텐츠를 직접 미리 볼 수도 있습니다.
 
-1. **콘텐츠**&#x200B;에서 **동적** 탭을 클릭합니다.
+1. **[!UICONTROL Content]**&#x200B;에서 **[!UICONTROL Dynamic]** 탭을 클릭합니다.
 
    ![](assets/five-1.png)
 

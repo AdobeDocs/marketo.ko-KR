@@ -4,24 +4,24 @@ description: 동기화 상태 - Marketo 문서 - 제품 설명서
 title: 동기화 상태
 exl-id: cab1cb1d-2bc7-4466-bab8-c9e03ab269f7
 feature: Microsoft Dynamics
-source-git-commit: 2403ae0f1fdca3b8238f3f59e2a3b94129deb301
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '164'
+source-wordcount: '144'
 ht-degree: 0%
 
 ---
 
 # 동기화 상태 {#sync-status}
 
-동기화 상태 및 동기화 오류 탭에서 동기화 프로세스의 현재 처리량 및 백로그를 유지할 수 있습니다.
+[!UICONTROL Sync Status] 및 [!UICONTROL Sync Errors] 탭에서 동기화 프로세스의 현재 처리량 및 백로그를 유지할 수 있습니다.
 
-## 동기화 상태 탭 {#sync-status-tab}
+## [!UICONTROL Sync Status] 탭 {#sync-status-tab}
 
-1. **[!UICONTROL 관리자]**&#x200B;를 클릭한 다음 **[!UICONTROL Microsoft Dynamics]**&#x200B;을 클릭합니다.
+1. **[!UICONTROL Admin]** 및 **[!UICONTROL Microsoft Dynamics]**&#x200B;을(를) 클릭합니다.
 
    ![](assets/image2016-1-20-11-3a34-3a14.png)
 
-1. **[!UICONTROL 동기화 상태]** 탭을 클릭합니다.
+1. **[!UICONTROL Sync Status]** 탭을 클릭합니다.
 
    ![](assets/image2016-5-19-10-3a1-3a11.png)
 
@@ -35,7 +35,7 @@ ht-degree: 0%
 
    ![](assets/image2016-1-22-10-3a51-3a10.png)
 
-1. **[!UICONTROL 보기]** 드롭다운을 클릭하고 **[!UICONTROL 지난 시간]**&#x200B;을 선택하여 처리량 정보를 봅니다.
+1. **[!UICONTROL View]** 드롭다운을 클릭하고 **[!UICONTROL Last Hour]**&#x200B;을(를) 선택하여 처리량 정보를 봅니다.
 
    ![](assets/image2016-5-19-10-3a20-3a7.png)
 
@@ -45,9 +45,9 @@ ht-degree: 0%
 
    >[!NOTE]
    >
-   >최근 시간 보기를 보면 삽입 및 갱신 열에 해당 없음이 표시됩니다. 이는 예상되는 비헤이비어입니다.
+   >[!UICONTROL Last Hour] 보기를 보면 [!UICONTROL Inserts] 및 [!UICONTROL Updates] 열에 해당 없음이 표시됩니다. 이는 예상되는 비헤이비어입니다.
 
-## 동기화 오류 탭 {#sync-errors-tab}
+## [!UICONTROL Sync Errors] 탭 {#sync-errors-tab}
 
 작업, 방향, 오류 코드 및 오류 메시지와 같은 세부 정보와 동기화하지 못한 리드(및 기타 개체)를 검색, 검색 또는 내보냅니다.
 

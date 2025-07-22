@@ -3,9 +3,9 @@ description: 국제 전화 걸기 - Marketo 문서 - 제품 설명서
 title: 국제 전화
 exl-id: a6ef6f28-865b-42e7-94e5-32874eb9ecb4
 feature: Sales Insight Actions
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '395'
+source-wordcount: '392'
 ht-degree: 5%
 
 ---
@@ -143,7 +143,7 @@ Sales Dialer를 사용하면 국제적으로 쉽게 의사 소통할 수 있습�
 
 ## 국제 전화 FAQ {#international-calling-faq}
 
-**Sales Insight Actions에서 모든 국가에 대한 국제 전화 걸기를 지원하지 않는 이유는 무엇입니까?**
+**왜 [!DNL Sales Insight Actions]이(가) 모든 국가에 대한 국제 통화를 지원하지 않습니까?**
 
 오늘은 추가 비용 없이 Sales Dialer로 국제 전화를 할 수 있습니다. 고객이 자신의 잠재 고객 및 고객과 쉽게 소통할 수 있도록 지원하고자 표준 요금 국제 전화 지원을 출시했습니다. 당사는 유럽, 아시아 및 기타 주요 목적지의 지역에 대해 미국 및 캐나다 이외의 34개국에 대한 취재를 제공합니다. 고객의 피드백을 바탕으로 지속적으로 확장해 나갈 것입니다.
 
@@ -157,4 +157,4 @@ Sales Dialer를 사용하면 국제적으로 쉽게 의사 소통할 수 있습�
 
 **국제전화를 걸 때 현지의 위치를 사용할 수 있습니까?**
 
-아니. [로컬 현재 상태](/help/marketo/product-docs/marketo-sales-insight/actions/phone/local-presence.md)는 미국 번호에만 사용할 수 있습니다.
+아니요. [로컬 현재 상태](/help/marketo/product-docs/marketo-sales-insight/actions/phone/local-presence.md)는 미국 번호에만 사용할 수 있습니다.

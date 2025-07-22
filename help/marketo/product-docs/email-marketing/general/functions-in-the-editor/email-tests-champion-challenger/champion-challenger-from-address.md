@@ -4,9 +4,9 @@ description: 챔피언/챌린저 - 보낸 사람 주소 - Marketo 문서 - 제�
 title: 챔피언/챌린저 - 보낸 주소
 exl-id: 0debb7d3-358b-4054-989f-526d5c434c14
 feature: Email Editor
-source-git-commit: c17bd1a623c46786f14c21c8fad718cdfeeec3cd
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '275'
+source-wordcount: '268'
 ht-degree: 0%
 
 ---
@@ -19,13 +19,13 @@ ht-degree: 0%
 >
 >[전자 메일 챔피언/도전자 추가](/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/email-tests-champion-challenger/add-an-email-champion-challenger.md)
 
-1. 전자 메일 테스트 편집기에서 **테스트 형식** 드롭다운에서 **보낸 사람 주소**&#x200B;을(를) 선택합니다.
+1. 전자 메일 테스트 편집기의 **[!UICONTROL From Address]** 드롭다운에서 **[!UICONTROL Test Type]**&#x200B;을(를) 선택합니다.
 
    ![](assets/image2014-9-15-12-3a52-3a33.png)
 
    >[!NOTE]
    >
-   >첫 번째 보낸 사람 주소가 **챔피언**(으)로 지정됩니다. 이후 주소를 **챌린저**&#x200B;라고 합니다.
+   >첫 번째 보낸 사람 주소가 **[!UICONTROL Champion]**(으)로 지정됩니다. 이후 주소에서 **[!UICONTROL Challengers]**&#x200B;을(를) 호출합니다.
 
 1. 도전자를 위해 **시작 이름**(왼쪽)과 **시작 주소**(오른쪽)을 입력하세요.
 
@@ -47,7 +47,7 @@ ht-degree: 0%
 
    통계적 신뢰도를 얻으려면 테스트가 유효할 만큼 충분한 사람을 포함하는 백분율을 선택해야 합니다. 결론이 나지 않는 결과에 속지 마라.
 
-1. **다음**&#x200B;을 클릭합니다.
+1. **[!UICONTROL Next]**&#x200B;을(를) 클릭합니다.
 
    ![](assets/image2014-9-15-12-3a53-3a15.png)
 

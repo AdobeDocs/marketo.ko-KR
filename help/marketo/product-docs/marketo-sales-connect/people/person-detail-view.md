@@ -4,9 +4,9 @@ description: 개인 세부 사항 보기 - Marketo 문서 - 제품 설명서
 title: 개인 세부 사항 보기
 exl-id: 3f5ee34d-a21b-4862-80cc-cad921ca479e
 feature: Marketo Sales Connect
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '283'
+source-wordcount: '272'
 ht-degree: 0%
 
 ---
@@ -17,7 +17,7 @@ ht-degree: 0%
 
 ## 액세스 방법 {#how-to-access}
 
-1. 개인 세부 정보 보기에 액세스하려면 **사람** 탭을 클릭하십시오.
+1. 개인 세부 정보 보기에 액세스하려면 **[!UICONTROL People]** 탭을 클릭하십시오.
 
    ![](assets/person-detail-view-1.png)
 
@@ -45,14 +45,14 @@ ht-degree: 0%
 
 **계정 정보**
 
-* Salesforce에 사용자를 추가할 수 있음
-* Salesforce에서 계정 및 리드/연락처 정보 가져오기
+* [!DNL Salesforce]에 사용자를 추가할 수 있음
+* [!DNL Salesforce]에서 계정 및 리드/연락처 정보 가져오기
 
 **사용자 지정 필드**
 
 * 템플릿 및 캠페인에서 동적 필드로 사용할 수 있는 사용자 정의 필드를 추가하거나 제거합니다
 
-**메모**
+**참고**
 
 * 사용자 정의 메모 만들기
 
@@ -76,19 +76,19 @@ ht-degree: 0%
 
 ![](assets/person-detail-view-5.png)
 
-**판매 캠페인**
+**[!UICONTROL Sales Campaigns]**
 
 * 이 사용자가 속한 활성 또는 완료된 캠페인 보기
 
-**마케팅 캠페인**
+**[!UICONTROL Marketing Campaigns]**
 
 * 이 사람이 멤버인 마케팅 캠페인 보기
 
-**판매 전자 메일**
+**[!UICONTROL Sales Emails]**
 
 * 이 사람에게 보낸 모든 이메일 및 참여 지표 보기
 
-**영업 통화**
+**[!UICONTROL Sales Calls]**
 
 * 이 사용자에게 걸려온 모든 통화 확인
 

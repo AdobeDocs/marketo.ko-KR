@@ -4,10 +4,10 @@ description: 순간 공유 - Marketo 문서 - 제품 설명서
 title: 순간 공유
 exl-id: e149f8d8-1405-43d2-aa0b-900796328a92
 feature: Mobile Marketing
-source-git-commit: 0abb315be0f9cb5f42fa41d72b446de8c2f62c1e
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '147'
-ht-degree: 0%
+source-wordcount: '143'
+ht-degree: 1%
 
 ---
 
@@ -17,13 +17,13 @@ ht-degree: 0%
 
 >[!IMPORTANT]
 >
->2023년 10월 2일, Adobe은 모든 앱스토어에서 Marketo 모먼트 앱을 제거했습니다. 태블릿/모바일 장치에 이미 앱이 설치되어 있는 경우 당분간 앱을 계속 사용할 수 있습니다. Marketo 인증을 위해 Marketo Engage 인스턴스가 Adobe ID로 마이그레이션되면 더 이상 앱에 액세스할 수 없습니다. [자세히 알아보기](https://nation.marketo.com/t5/product-discussions/marketo-events-app-and-marketo-moments-app-end-of-life/m-p/340712/highlight/true#M193869){target="_blank"}.
+>2023년 10월 2일, Adobe은 모든 앱스토어에서 Marketo 모먼트 앱을 제거했습니다. 태블릿/모바일 장치에 이미 앱이 설치되어 있는 경우 당분간 앱을 계속 사용할 수 있습니다. Marketo 인증을 위해 Marketo Engage 인스턴스가 Adobe ID로 마이그레이션되면 더 이상 앱에 액세스할 수 없습니다. [자세히 알아보기](https://nation.marketo.com/t5/product-discussions/marketo-events-app-and-marketo-moments-app-end-of-life/m-p/340712/highlight/true#M193869){target="_blank"}
 
-1. 카드에서 **[!UICONTROL 공유]** 아이콘을 탭합니다.
+1. 카드에서 **[!UICONTROL Share]** 아이콘을 탭합니다.
 
    ![](assets/image2015-6-30-15-3a13-3a13.png)
 
-1. 카드 메뉴를 탭하고 세부 정보 화면에서 **[!UICONTROL 공유]**&#x200B;를 탭하세요.
+1. 카드 메뉴를 탭하고 세부 정보 화면에서 **[!UICONTROL Share]**&#x200B;을(를) 탭합니다.
 
    ![](assets/image2015-7-15-9-3a0-3a35.png)
 
@@ -33,10 +33,10 @@ ht-degree: 0%
 
    >[!NOTE]
    >
-   >공유는 휴대폰에 설치된 앱에 따라 다릅니다. 따라서 Facebook이 없으면 Moments에서 볼 수 없습니다.
+   >공유는 휴대폰에 설치된 앱에 따라 다릅니다. 따라서 [!DNL Facebook]이(가) 없으면 [잠시 후]에 표시되지 않습니다.
 
    ![](assets/image2015-7-14-16-3a11-3a42.png)
 
-1. 받는 사람의 주소, 제목을 입력하고 **[!UICONTROL 보내기]**&#x200B;를 탭하세요.
+1. 받는 사람의 주소, 제목을 입력하고 **[!UICONTROL Send]**&#x200B;을(를) 누릅니다.
 
    ![](assets/image2015-7-14-16-3a18-3a16.png)

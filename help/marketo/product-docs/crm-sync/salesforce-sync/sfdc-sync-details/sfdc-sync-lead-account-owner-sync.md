@@ -1,19 +1,19 @@
 ---
 unique-page-id: 2953463
-description: SFDC 동기화 - 잠재 고객/계정 소유자 동기화 - Marketo 문서 - 제품 설명서
+description: SFDC 동기화 - 리드/계정 소유자 동기화 - Marketo 문서 - 제품 설명서
 title: SFDC 동기화 - 잠재 고객/계정 소유자 동기화
 exl-id: b9effcc2-f426-4390-aef1-42f4e525b182
 feature: Salesforce Integration
-source-git-commit: 0087a5e88b8bd9601875f68a2e7cadeebdb5d682
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '214'
+source-wordcount: '212'
 ht-degree: 0%
 
 ---
 
-# SFDC 동기화: 잠재 고객/계정 소유자 동기화 {#sfdc-sync-lead-account-owner-sync}
+# SFDC 동기화: 리드/계정 소유자 동기화 {#sfdc-sync-lead-account-owner-sync}
 
-이는 Salesforce에서 &quot;사용자&quot; 테이블을 기술적으로 동기화하고 있지만 이를 리드/계정 소유자 필드라고 부릅니다.
+[!DNL Salesforce]의 &quot;사용자&quot; 테이블을 기술적으로 동기화하고 있지만 리드/계정 소유자 필드라고 합니다.
 
 ## 어떤 필드가 Marketo Engage에 동기화됩니까? {#which-fields-will-sync-to-marketo-engage}
 
@@ -48,4 +48,4 @@ Marketo에 동기화된 각 사용자에 대해 다음 소유자 필드도 동�
 * Marketo의 할당(및 재할당) 규칙
 * [소유자 변경](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/salesforce-flow-actions/change-owner.md){target="_blank"}, [사용자를 SFDC에 동기화](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/salesforce-flow-actions/sync-person-to-sfdc.md){target="_blank"} 및 [작업 만들기](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/salesforce-flow-actions/create-task.md){target="_blank"} 흐름 작업에서 사용합니다.
 
-Marketo에는 멋진 Salesforce 동기화가 있습니다. 아무도 그렇게 잘하지 않아!
+Marketo에 멋진 [!DNL Salesforce] 동기화가 있습니다. 아무도 그렇게 잘하지 않아!

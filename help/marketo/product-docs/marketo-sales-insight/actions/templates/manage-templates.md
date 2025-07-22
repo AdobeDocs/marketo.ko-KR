@@ -3,9 +3,9 @@ description: 템플릿 관리 - Marketo 문서 - 제품 설명서
 title: 템플릿 관리
 exl-id: a18e7112-91e8-462c-9d1a-3a0f43c1b1cf
 feature: Sales Insight Actions
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '525'
+source-wordcount: '498'
 ht-degree: 0%
 
 ---
@@ -14,25 +14,25 @@ ht-degree: 0%
 
 ## 템플릿 만들기 {#create-a-new-template}
 
-1. **템플릿** 탭으로 이동합니다.
+1. **[!UICONTROL Templates]** 탭으로 이동합니다.
 
    ![](assets/manage-templates-1.png)
 
-1. **템플릿 만들기**&#x200B;를 클릭합니다.
+1. **[!UICONTROL Create Template]**&#x200B;을(를) 클릭합니다.
 
    ![](assets/manage-templates-2.png)
 
-1. 전자 메일 서식 파일에 대해 **이름** 및 **범주**&#x200B;을 선택한 다음 **만들기**&#x200B;를 클릭합니다.
+1. 전자 메일 템플릿에 대해 **[!UICONTROL Name]** 및 **[!UICONTROL Category]**&#x200B;을(를) 선택한 다음 **[!UICONTROL Create]**&#x200B;을(를) 클릭합니다.
 
    ![](assets/manage-templates-3.png)
 
-1. 템플릿 편집기에서 이메일의 제목 줄을 만들고 원하는 메시지를 입력합니다. 편집 도구 사용(글꼴, 텍스트 크기 등) 를 클릭하여 모양을 사용자 지정합니다. **저장**&#x200B;을 클릭하여 변경 내용을 완료합니다.
+1. 템플릿 편집기에서 이메일의 제목 줄을 만들고 원하는 메시지를 입력합니다. 편집 도구(글꼴, 텍스트 크기 등)를 사용하여 모양을 사용자 정의합니다. **[!UICONTROL Save]**&#x200B;을(를) 클릭하여 변경 내용을 완료합니다.
 
    ![](assets/manage-templates-4.png)
 
 >[!TIP]
 >
->항상 텍스트를 템플릿에 직접 입력하거나 일반 텍스트 편집기(예: 메모장 또는 TextEdit)에서 복사합니다. 서식 있는 텍스트 편집기(예: MS Word)에서 복사하여 붙여넣으면 서식 오류가 발생할 수 있습니다.
+>항상 템플릿에 직접 텍스트를 입력하거나 일반 텍스트 편집기(예: [!DNL Notepad] 또는 [!DNL TextEdit])에서 복사하십시오. 서식 있는 텍스트 편집기(예: MS [!DNL Word])에서 복사하여 붙여 넣으면 서식 오류가 발생할 수 있습니다.
 
 ## 템플릿 세부 정보 보기 {#view-template-details}
 
@@ -42,7 +42,7 @@ ht-degree: 0%
 
 <table>
  <tr>
-  <td><strong>템플릿</strong></td>
+  <td><strong>[!UICONTROL Template]</strong></td>
   <td>검토 및 편집, 템플릿을 권장 템플릿으로 만들기 위한 기준 설정, 메모 추가</td>
  </tr>
  <tr>
@@ -50,11 +50,11 @@ ht-degree: 0%
   <td>템플릿에 대한 참여 분석을 검토합니다. 필터링된 검색을 수행합니다.</td>
  </tr>
  <tr>
-  <td><strong>이메일</strong></td>
+  <td><strong>[!UICONTROL Emails]</strong></td>
   <td>이 템플릿을 사용하여 보낸 모든 이메일 보기 필터링된 검색을 수행합니다.</td>
  </tr>
  <tr>
-  <td><strong>캠페인</strong></td>
+  <td><strong>[!UICONTROL Campaigns]</strong></td>
   <td>템플릿이 사용 중인 캠페인 확인</td>
  </tr>
 </table>
@@ -63,7 +63,7 @@ ht-degree: 0%
 
 팀 계정 중 하나를 사용하는 경우 모든 템플릿은 기본적으로 비공개입니다.
 
-1. **템플릿** 탭으로 이동합니다.
+1. **[!UICONTROL Templates]** 탭으로 이동합니다.
 
    ![](assets/manage-templates-5.png)
 
@@ -71,19 +71,19 @@ ht-degree: 0%
 
    ![](assets/manage-templates-6.png)
 
-1. **공유** 단추를 클릭합니다.
+1. **[!UICONTROL Share]** 단추를 클릭합니다.
 
    ![](assets/manage-templates-7.png)
 
    >[!NOTE]
    >
-   >사용자와 공유된 템플릿이 [템플릿] 페이지 왼쪽의 **팀 템플릿** 머리글 아래에 표시됩니다. 팀은 Premium 사용자만 사용할 수 있습니다.
+   >사용자와 공유된 템플릿이 **[!UICONTROL Team Templates]** 페이지의 왼쪽에 있는 [!UICONTROL Templates] 머리글 아래에 표시됩니다. 팀은 Premium 사용자만 사용할 수 있습니다.
 
-1. 공유 대상 드롭다운을 클릭하고 공유할 팀을 선택합니다.
+1. [!UICONTROL Share With] 드롭다운을 클릭하고 공유할 팀을 선택합니다.
 
    ![](assets/manage-templates-8.png)
 
-1. 템플릿을 현재 카테고리에 보관하거나 다른 카테고리로 이동할 수 있습니다. 이 예제에서는 현재 상태로 유지합니다. 완료되면 **공유**&#x200B;를 클릭합니다.
+1. 템플릿을 현재 카테고리에 보관하거나 다른 카테고리로 이동할 수 있습니다. 이 예제에서는 현재 상태로 유지합니다. 완료되면 **[!UICONTROL Share]**&#x200B;을(를) 클릭합니다.
 
    ![](assets/manage-templates-9.png)
 
@@ -91,7 +91,7 @@ ht-degree: 0%
 
 모든 범주의 템플릿을 즐겨찾기 목록에 추가할 수 있습니다. 이렇게 하면 가장 많이 사용하는 템플릿에 빠르게 액세스할 수 있도록 목록의 맨 위에 새 카테고리가 자동으로 생성됩니다.
 
-1. **템플릿** 탭으로 이동합니다.
+1. **[!UICONTROL Templates]** 탭으로 이동합니다.
 
    ![](assets/manage-templates-10.png)
 
@@ -105,7 +105,7 @@ ht-degree: 0%
 
 ## 템플릿 보기 사용자 지정 {#customize-template-view}
 
-**보기** 드롭다운에서 모든 템플릿, 템플릿, 즐겨찾기 템플릿, 공유 템플릿, 공유되지 않은 템플릿 또는 사용되지 않은 템플릿(지난 90일 동안 사용되지 않은 템플릿)을 표시하도록 선택할 수 있습니다.
+**[!UICONTROL View]** 드롭다운에서 모든 템플릿, 템플릿, 즐겨찾기 템플릿, 공유 템플릿, 공유되지 않은 템플릿 또는 사용되지 않은 템플릿(지난 90일 동안 사용되지 않은 템플릿)을 표시하도록 선택할 수 있습니다.
 
 ![](assets/manage-templates-13.png)
 
@@ -121,11 +121,11 @@ ht-degree: 0%
 
    ![](assets/manage-templates-14.png)
 
-1. **보관**&#x200B;을 클릭합니다.
+1. **[!UICONTROL Archive]**&#x200B;을(를) 클릭합니다.
 
    ![](assets/manage-templates-15.png)
 
-1. 확인하려면 **보관**&#x200B;을 클릭하세요.
+1. **[!UICONTROL Archive]**&#x200B;을(를) 클릭하여 확인합니다.
 
    ![](assets/manage-templates-16.png)
 
@@ -147,10 +147,10 @@ ht-degree: 0%
 
    ![](assets/manage-templates-17.png)
 
-1. **삭제**&#x200B;를 클릭합니다.
+1. **[!UICONTROL Delete]**&#x200B;을(를) 클릭합니다.
 
    ![](assets/manage-templates-18.png)
 
-1. 확인하려면 **삭제**&#x200B;를 클릭하세요.
+1. **[!UICONTROL Delete]**&#x200B;을(를) 클릭하여 확인합니다.
 
    ![](assets/manage-templates-19.png)

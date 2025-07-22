@@ -4,31 +4,31 @@ description: '"날짜/시간" A/B 테스트 - Marketo 문서 - 제품 설명서 
 title: '"날짜/시간" A/B 테스트 사용'
 exl-id: ee686d46-9427-4f8b-a16f-858c5109cabd
 feature: Email Programs, A/B Testing
-source-git-commit: d20a9bb584f69282eefae3704ce4be2179b29d0b
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '263'
+source-wordcount: '249'
 ht-degree: 0%
 
 ---
 
 # &quot;날짜/시간&quot; A/B 테스트 사용 {#use-date-time-a-b-testing}
 
-이메일을 쉽게 A/B 테스트할 수 있습니다. 한 가지 테스트는 **날짜/시간** 테스트입니다. 이메일을 보내는 데 하루 또는 요일이 가장 적합한 시간을 테스트합니다. 설정 방법은 다음과 같습니다.
+이메일을 쉽게 A/B 테스트할 수 있습니다. 하나의 테스트는 **[!UICONTROL Date/Time]** 테스트입니다. 이메일을 보내는 데 하루 또는 요일이 가장 적합한 시간을 테스트합니다. 설정 방법은 다음과 같습니다.
 
 >[!PREREQUISITES]
 >
 >[A/B 테스트 추가](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/email-test-a-b-test/add-an-a-b-test.md)
 >
 
-1. **Email** 타일 아래에서 **A/B 테스트 추가**&#x200B;를 클릭합니다.
+1. **[!UICONTROL Email]** 타일 아래에서 **[!UICONTROL Add A/B Test]**&#x200B;을 클릭합니다.
 
    ![](assets/image2014-9-12-15-3a41-3a3.png)
 
-1. 새 창이 열립니다. **테스트 형식**&#x200B;에 대해 **날짜/시간**&#x200B;을(를) 선택하십시오.
+1. 새 창이 열립니다. **[!UICONTROL Date/Time]**&#x200B;에 대해 **[!UICONTROL Test Type]**&#x200B;을(를) 선택하십시오.
 
    ![](assets/image2014-9-12-15-3a41-3a12.png)
 
-1. 제목 테스트와 같은 이전 테스트 정보가 있는 경우 **테스트 재설정**&#x200B;을 클릭하면 됩니다.
+1. 제목 테스트와 같은 이전 테스트 정보가 있는 경우 **[!UICONTROL Reset Test]**&#x200B;을(를) 안전하게 클릭할 수 있습니다.
 
    ![](assets/image2014-9-12-15-3a41-3a19.png)
 
@@ -44,7 +44,7 @@ ht-degree: 0%
 
    ![](assets/image2014-9-12-15-3a41-3a40.png)
 
-1. 슬라이더를 사용하여 A/B 테스트에서 원하는 대상 비율을 선택하고 **다음**&#x200B;을 클릭하세요.
+1. 슬라이더를 사용하여 A/B 테스트에서 원하는 대상 비율을 선택하고 **[!UICONTROL Next]**&#x200B;을(를) 클릭합니다.
 
    ![](assets/image2014-9-12-15-3a41-3a53.png)
 

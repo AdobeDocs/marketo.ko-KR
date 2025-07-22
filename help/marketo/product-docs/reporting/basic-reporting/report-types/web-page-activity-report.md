@@ -4,9 +4,9 @@ description: 웹 페이지 활동 보고서 - Marketo 문서 - 제품 설명서
 title: 웹 페이지 활동 보고서
 exl-id: 35bd37bd-e7b9-4418-b2c9-af5989f44b9f
 feature: Reporting
-source-git-commit: f0ad739b85174976f2adbe30cf4d755c1da93f05
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '322'
+source-wordcount: '319'
 ht-degree: 1%
 
 ---
@@ -32,11 +32,11 @@ ht-degree: 1%
 
    >[!NOTE]
    >
-   >웹 페이지 활동 보고서에 데이터를 반영하는 데 최대 24시간이 걸릴 수 있습니다.
+   >[!UICONTROL Web Page Activity] 보고서에 데이터를 반영하는 데 최대 24시간이 걸릴 수 있습니다.
 
    >[!TIP]
    >
-   >사이트를 가장 많이 방문하는 사용자를 확인하려면 _페이지 보기 수_ 열에서 [보고서를 정렬](/help/marketo/product-docs/reporting/basic-reporting/editing-reports/sort-report-on-columns.md){target="_blank"}하고 내림차순 정렬을 선택하십시오.
+   >사이트를 가장 많이 방문하는 사용자를 확인하려면 [페이지 보기 수](/help/marketo/product-docs/reporting/basic-reporting/editing-reports/sort-report-on-columns.md){target="_blank"} 열에서 _보고서를 정렬_&#x200B;하고 내림차순 정렬을 선택하십시오.
 
    [Marketo은 익명의 ](/help/marketo/product-docs/reporting/basic-reporting/report-activity/tracking-anonymous-activity-and-people.md){target="_blank"} 웹 사이트 방문자를 데이터베이스에 추가하므로 이 보고서에 표시하도록 선택할 수 있습니다. 익명임에도 불구하고 풍부한 정보를 제공합니다.\
    웹 페이지 활동 보고서에 대해 선택할 수 있는 [열](/help/marketo/product-docs/reporting/basic-reporting/editing-reports/select-report-columns.md){target="_blank"}에는 다음이 포함됩니다.

@@ -4,16 +4,16 @@ description: SFDC 동기화 - 사용자 지정 개체 동기화 - Marketo 문서
 title: SFDC 동기화 - 사용자 지정 개체 동기화
 exl-id: e491e0bc-04a9-4e78-97c3-a25b945d546a
 feature: Salesforce Integration
-source-git-commit: 79ae0d56dd4bb8bf563c6546cba54b89b5841425
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '302'
-ht-degree: 0%
+source-wordcount: '277'
+ht-degree: 1%
 
 ---
 
 # SFDC 동기화: 사용자 지정 개체 동기화 {#sfdc-sync-custom-object-sync}
 
-Salesforce 인스턴스에서 만든 사용자 지정 개체도 Marketo Engage의 일부일 수 있습니다. 설정 방법은 다음과 같습니다.
+[!DNL Salesforce] 인스턴스에서 만든 사용자 지정 개체도 Marketo의 일부일 수 있습니다.  설정 방법은 다음과 같습니다.
 
 >[!NOTE]
 >
@@ -21,7 +21,7 @@ Salesforce 인스턴스에서 만든 사용자 지정 개체도 Marketo Engage�
 
 >[!PREREQUISITES]
 >
->사용자 지정 개체를 사용하려면 Salesforce의 [리드](/help/marketo/product-docs/crm-sync/salesforce-sync/sfdc-sync-details/sfdc-sync-field-sync.md){target="_blank"}, [연락처](/help/marketo/product-docs/crm-sync/salesforce-sync/sfdc-sync-details/sfdc-sync-contact-sync.md){target="_blank"} 또는 [계정](/help/marketo/product-docs/crm-sync/salesforce-sync/sfdc-sync-details/sfdc-sync-account-sync.md){target="_blank"} 개체와 연결되어 있어야 합니다.
+>사용자 지정 개체를 사용하려면 [의 ](/help/marketo/product-docs/crm-sync/salesforce-sync/sfdc-sync-details/sfdc-sync-field-sync.md)리드[, ](/help/marketo/product-docs/crm-sync/salesforce-sync/sfdc-sync-details/sfdc-sync-contact-sync.md)연락처[ 또는 ](/help/marketo/product-docs/crm-sync/salesforce-sync/sfdc-sync-details/sfdc-sync-account-sync.md)계정[!DNL Salesforce] 개체와 연결되어 있어야 합니다.
 
 >[!IMPORTANT]
 >
@@ -29,21 +29,21 @@ Salesforce 인스턴스에서 만든 사용자 지정 개체도 Marketo Engage�
 
 ## 사용자 지정 개체 사용  {#enable-custom-object}
 
-1. **[!UICONTROL 관리자]** 및 **[!UICONTROL Salesforce 개체 동기화]** 링크를 클릭합니다.
+1. **[!UICONTROL Admin]** 및 **[!UICONTROL Salesforce Objects Sync]** 링크를 클릭합니다.
 
    ![](assets/image2015-11-19-10-3a28-3a5.png).
 
-1. 첫 번째 사용자 지정 개체인 경우 **[!UICONTROL 스키마 동기화]**&#x200B;를 클릭합니다.
+1. 첫 번째 사용자 지정 개체인 경우 **[!UICONTROL Sync Schema]**&#x200B;을(를) 클릭합니다.
 
    ![](assets/rtaimage-2.png)
 
-1. **[!UICONTROL 전역 동기화 사용 안 함]**&#x200B;을 클릭합니다.
+1. **[!UICONTROL Disable Global Sync]**&#x200B;을(를) 클릭합니다.
 
    ![](assets/image2015-4-22-10-3a45-3a0.png)
 
    >[!NOTE]
    >
-   >Salesforce 사용자 지정 개체 스키마의 초기 동기화는 몇 분 정도 걸릴 수 있습니다.
+   >[!DNL Salesforce] 사용자 지정 개체 스키마의 초기 동기화는 몇 분 정도 걸릴 수 있습니다.
 
    ![](assets/image2015-4-22-10-3a45-3a18.png)
 
@@ -55,11 +55,11 @@ Salesforce 인스턴스에서 만든 사용자 지정 개체도 Marketo Engage�
    >
    >사용자 지정 개체에는 고유한 이름이 있어야 합니다. Marketo은 이름이 같은 두 개의 서로 다른 사용자 지정 개체를 지원하지 않습니다.
 
-1. **[!UICONTROL 동기화 사용]**&#x200B;을 클릭합니다.
+1. **[!UICONTROL Enable Sync]**&#x200B;을(를) 클릭합니다.
 
    ![](assets/image2015-4-22-10-3a45-3a50.png)
 
-1. **[!UICONTROL 동기화 활성화]**&#x200B;를 다시 클릭합니다.
+1. **[!UICONTROL Enable Sync]**&#x200B;을(를) 다시 클릭합니다.
 
    ![](assets/image2015-4-22-10-3a46-3a10.png)
 
@@ -67,15 +67,15 @@ Salesforce 인스턴스에서 만든 사용자 지정 개체도 Marketo Engage�
    >
    >전역 동기화를 다시 활성화하는 것을 잊지 마십시오!
 
-1. **Salesforce** 탭으로 돌아갑니다.
+1. **[!UICONTROL Salesforce]** 탭으로 돌아갑니다.
 
    ![](assets/image2015-4-22-10-3a46-3a25.png)
 
-1. **[!UICONTROL 동기화 사용]**&#x200B;을 클릭합니다.
+1. **[!UICONTROL Enable Sync]**&#x200B;을(를) 클릭합니다.
 
    ![](assets/image2015-4-22-10-3a50-3a26.png)
 
-1. 모든 Salesforce 사용자 지정 개체를 보려면 **[!UICONTROL 관리자]** 및 **[!UICONTROL Salesforce 개체 동기화]** 링크(위의 1단계와 동일)를 클릭하십시오.
+1. [!DNL Salesforce] 사용자 지정 개체를 모두 보려면 **[!UICONTROL Admin]** 및 **[!UICONTROL Salesforce Objects Sync]** 링크(위의 1단계와 동일)를 클릭하십시오.
 
    ![](assets/image2016-6-23-9-3a28-3a23.png)
 

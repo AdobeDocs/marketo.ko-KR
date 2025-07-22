@@ -4,9 +4,9 @@ description: 자유 형식 랜딩 페이지에 사각형 추가 - Marketo 문서
 title: 자유 형식 랜딩 페이지에 사각형 추가
 exl-id: 9c0e614f-9a47-41be-b943-9d493f7e5000
 feature: Landing Pages
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '122'
+source-wordcount: '117'
 ht-degree: 0%
 
 ---
@@ -15,7 +15,7 @@ ht-degree: 0%
 
 랜딩 페이지의 사각형은 텍스트 영역을 강조 표시하는 데 유용합니다.
 
-1. 자유 형식의 랜딩 페이지를 선택하고 **초안 편집**&#x200B;을 클릭합니다.
+1. 자유 형식의 랜딩 페이지를 선택하고 **[!UICONTROL Edit Draft]**&#x200B;을(를) 클릭합니다.
 
    ![](assets/image2014-9-16-14-3a50-3a51.png)
 
@@ -23,11 +23,11 @@ ht-degree: 0%
    >
    >자유 형식의 랜딩 페이지 디자이너가 새 창에서 열립니다.
 
-1. **Rectangle** 요소 위로 끕니다.
+1. **[!UICONTROL Rectangle]** 요소 위로 끌어서 놓습니다.
 
    ![](assets/image2015-5-21-14-3a48-3a45.png)
 
-1. 필요한 변경 작업을 수행하려면 사각형을 선택하고 **속성 시트**&#x200B;를 사용하십시오.
+1. 사각형을 선택하고 **[!UICONTROL Property Sheet]**&#x200B;을(를) 사용하여 필요한 변경 작업을 수행합니다.
 
    >[!TIP]
    >

@@ -4,9 +4,9 @@ description: 인앱 메시지 단추 설정 - Marketo 문서 - 제품 설명서
 title: 인앱 메시지 단추 설정
 exl-id: de03da9d-241e-4d6e-8eb5-3096ddf294ce
 feature: Mobile Marketing
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '263'
+source-wordcount: '253'
 ht-degree: 0%
 
 ---
@@ -15,11 +15,11 @@ ht-degree: 0%
 
 기본 단추 디자인을 사용하거나 수정하거나 사용자 지정 단추 이미지를 업로드할 수 있습니다.
 
-1. 버튼을 클릭하여 편집할 스타일 탭을 엽니다.
+1. 편집할 [!UICONTROL Style] 탭을 열려면 단추를 클릭하십시오.
 
    ![](assets/image2016-5-6-15-3a6-3a55.png)
 
-1. 표준 단추의 색상을 변경하려면 **색상** 단추를 클릭하십시오.
+1. 표준 단추의 색을 변경하려면 **[!UICONTROL Color]** 단추를 클릭하십시오.
 
    ![](assets/image2016-5-6-15-3a10-3a38.png)
 
@@ -31,11 +31,11 @@ ht-degree: 0%
 
    ![](assets/image2016-5-6-15-3a16-3a26.png)
 
-1. 단추에 자신만의 이미지를 사용하려면 [이미지] 단추를 클릭하고 **이미지 선택**&#x200B;을 클릭하세요.
+1. 단추에 사용자 이미지를 사용하려면 **[!UICONTROL Image]** 단추를 클릭하고 **[!UICONTROL Select Image]**&#x200B;을(를) 클릭합니다.
 
    ![](assets/image2016-5-6-15-3a18-3a18.png)
 
-1. 이미지를 선택하고 **선택**&#x200B;을 클릭합니다.
+1. 이미지를 선택하고 **[!UICONTROL Select]**&#x200B;을(를) 클릭합니다.
 
    ![](assets/image2016-5-6-16-3a36-3a0.png)
 
@@ -69,11 +69,11 @@ ht-degree: 0%
 
    >[!NOTE]
    >
-   >버튼에는 항상 탭 작업이 있으므로 탭 작업 확인란이 자동으로 선택되고 기본 메시지가 &quot;메시지 닫기&quot;입니다.
+   >단추에는 항상 누르기 작업이 있으므로 [누르기 작업] 확인란이 자동으로 선택됩니다. 기본 메시지는 &quot;[!UICONTROL Dismiss Message]&quot;입니다.
 
 거의 다 됐어 마지막 단계는 [인앱 메시지 배경을 구성하고 ](/help/marketo/product-docs/mobile-marketing/in-app-messages/creating-in-app-messages/set-up-the-in-app-message-background.md) 단추를 해제하는 것입니다.
 
 >[!MORELIKETHIS]
 >
 >* [인앱 메시지 이해](/help/marketo/product-docs/mobile-marketing/in-app-messages/understanding-in-app-messages.md)
->* [인앱 메시지의 레이아웃을 선택하십시오](/help/marketo/product-docs/mobile-marketing/in-app-messages/creating-in-app-messages/choose-a-layout-for-your-in-app-message.md)
+>* [내 [!UICONTROL In-App Message]](/help/marketo/product-docs/mobile-marketing/in-app-messages/creating-in-app-messages/choose-a-layout-for-your-in-app-message.md)의 레이아웃 선택

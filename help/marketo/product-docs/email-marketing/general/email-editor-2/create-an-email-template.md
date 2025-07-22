@@ -4,9 +4,9 @@ description: 이메일 템플릿 만들기 - Marketo 문서 - 제품 설명서
 title: 이메일 템플릿 만들기
 exl-id: dfd91254-03fa-4f91-995d-ae4fe549a98d
 feature: Email Editor
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '273'
+source-wordcount: '253'
 ht-degree: 0%
 
 ---
@@ -25,19 +25,19 @@ ht-degree: 0%
 
 ## 새 이메일 템플릿 만들기 {#create-a-new-email-template}
 
-1. **디자인 스튜디오**&#x200B;를 클릭합니다.
+1. **[!UICONTROL Design Studio]**&#x200B;을(를) 클릭합니다.
 
    ![](assets/designstudio.png)
 
-1. **새로 만들기**&#x200B;를 클릭한 다음 **새 전자 메일 서식 파일**&#x200B;을 선택합니다.
+1. **[!UICONTROL New]**&#x200B;을(를) 클릭한 다음 **[!UICONTROL New Email Template]**&#x200B;을(를) 선택합니다.
 
    ![](assets/ds-two.png)
 
-1. 새 템플릿의 이름을 지정하고 **만들기**&#x200B;를 클릭합니다.
+1. 새 템플릿에 이름을 지정하고 **[!UICONTROL Create]**&#x200B;을(를) 클릭합니다.
 
    ![](assets/three-1.png)
 
-1. 새 템플릿 편집을 시작하려면 **초안 편집**&#x200B;을 클릭하세요.
+1. 새 템플릿 편집을 시작하려면 **[!UICONTROL Edit Draft]**&#x200B;을(를) 클릭합니다.
 
    ![](assets/4.png)
 
@@ -49,19 +49,19 @@ ht-degree: 0%
 
 나중에 사용하기 위해 템플릿으로 저장할 이메일을 만든 경우 다음 간단한 단계를 따르십시오.
 
-1. **마케팅 활동**&#x200B;을 클릭합니다.
+1. **[!UICONTROL Marketing Activities]**&#x200B;을(를) 클릭합니다.
 
    ![](assets/one.png)
 
-1. 이메일을 찾아 선택한 다음 **초안 편집**&#x200B;을 클릭합니다.
+1. 전자 메일을 찾아 선택한 다음 **[!UICONTROL Edit Draft]**&#x200B;을(를) 클릭합니다.
 
    ![](assets/two-1.png)
 
-1. **전자 메일 작업** 드롭다운을 클릭하고 **템플릿으로 저장**&#x200B;을 선택합니다.
+1. **[!UICONTROL Email Actions]** 드롭다운을 클릭하고 **[!UICONTROL Save as Template]**&#x200B;을(를) 선택합니다.
 
    ![](assets/four-1.png)
 
-1. **폴더** 드롭다운을 클릭하고 서식 파일을 저장할 위치를 선택한 다음 **저장**&#x200B;을 클릭합니다.
+1. **[!UICONTROL Folder]** 드롭다운을 클릭하고 서식 파일을 저장할 위치를 선택한 다음 **[!UICONTROL Save]**&#x200B;을(를) 클릭합니다.
 
    ![](assets/five-1.png)
 

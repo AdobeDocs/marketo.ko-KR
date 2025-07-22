@@ -4,10 +4,10 @@ description: 프로그램 일정 보기 - Marketo 문서 - 제품 설명서에�
 title: 프로그램 일정 보기에서 사용자 정의 오버레이 생성
 exl-id: 066e7b4d-ff2c-4968-be1e-6d95d680a59a
 feature: Programs
-source-git-commit: eb6d834c1f430beebf0666d7694203a268be93f2
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '73'
-ht-degree: 0%
+source-wordcount: '69'
+ht-degree: 1%
 
 ---
 
@@ -15,15 +15,15 @@ ht-degree: 0%
 
 사용자 정의 오버레이를 만들어 요구 사항과 관련된 항목을 볼 수 있습니다.
 
-1. **[!UICONTROL 주제]** 드롭다운을 클릭합니다.
+1. **[!UICONTROL Agenda]** 드롭다운을 클릭합니다.
 
    ![](assets/image2014-9-24-10-3a20-3a11.png)
 
-1. **[!UICONTROL 오버레이]**&#x200B;를 선택하십시오.
+1. **[!UICONTROL Overlays]**&#x200B;를 선택합니다.
 
    ![](assets/image2014-9-24-10-3a20-3a17.png)
 
-1. 오버레이에 표시할 항목 유형을 선택합니다.
+1. 오버레이에 표시할 [!UICONTROL Entry Types]을(를) 선택하십시오.
 
    ![](assets/image2014-9-24-10-3a20-3a26.png)
 

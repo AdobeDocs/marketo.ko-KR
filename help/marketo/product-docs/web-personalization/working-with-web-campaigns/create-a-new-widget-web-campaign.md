@@ -4,9 +4,9 @@ description: 새 위젯 웹 캠페인 만들기 - Marketo 문서 - 제품 설명
 title: 새 위젯 웹 캠페인 만들기
 exl-id: e00f5be7-1d33-4659-8f38-b74b53eeb09f
 feature: Web Personalization
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '628'
+source-wordcount: '610'
 ht-degree: 0%
 
 ---
@@ -17,15 +17,15 @@ ht-degree: 0%
 
 ## 위젯 웹 캠페인 만들기 {#create-a-widget-web-campaign}
 
-1. **웹 캠페인**(으)로 이동합니다.
+1. **[!UICONTROL Web Campaigns]**(으)로 이동합니다.
 
    ![](assets/image2016-8-18-15-3a57-3a46.png)
 
-1. **새 웹 캠페인 만들기**&#x200B;를 선택합니다.
+1. **[!UICONTROL Create New Web Campaign]**&#x200B;를 선택합니다.
 
    ![](assets/create-new-web-campaign-hand-1.png)
 
-1. **위젯** 캠페인 유형을 선택하십시오.
+1. **[!UICONTROL Widget]** 캠페인 유형을 선택하십시오.
 
    ![](assets/3.png)
 
@@ -33,7 +33,7 @@ ht-degree: 0%
 
    ![](assets/4.png)
 
-1. 웹 캠페인이 사이트에서 어떻게 반응하는지 확인하려면 **미리 보기**&#x200B;를 클릭하세요.
+1. 웹 캠페인이 사이트에서 어떻게 반응하는지 확인하려면 **[!UICONTROL Preview]**&#x200B;을(를) 클릭하십시오.
 
    ![](assets/preview.png)
 
@@ -95,11 +95,11 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->**A/B에서 웹 캠페인을 테스트하고 싶으십니까?** 하나 이상의 웹 캠페인을 [A/B 테스트하여 최적의 결과를 얻을 수 있습니다](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/ab-test-your-web-campaign.md). 자동 조정 기능을 사용하면 플랫폼은 성과가 더 좋은 캠페인을 자동으로 인식하고 가장 높은 전환 캠페인을 계속하며 다른 캠페인을 일시 중지합니다.
+>**A/B에서 웹 캠페인을 테스트하고 싶으십니까?** 하나 이상의 웹 캠페인을 [A/B 테스트하여 최적의 결과를 얻을 수 있습니다](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/ab-test-your-web-campaign.md). [!UICONTROL Auto Tune] 기능을 사용하면 플랫폼은 성과가 더 좋은 캠페인을 자동으로 인식하고 가장 높은 전환 캠페인을 계속 사용하며 다른 캠페인은 일시 중지합니다.
 
 ## 웹 캠페인 편집 {#edit-a-web-campaign}
 
-웹 캠페인 페이지에서 캠페인에 대한 **편집**&#x200B;을 클릭합니다.
+[!UICONTROL Web Campaigns] 페이지에서 캠페인의 **[!UICONTROL Edit]**&#x200B;을(를) 클릭합니다.
 
 ![](assets/image2016-11-4-13-3a2-3a20.png)
 
@@ -113,13 +113,13 @@ ht-degree: 0%
 
 ## 웹 캠페인 미리 보기 {#preview-a-web-campaign}
 
-웹 캠페인 페이지에서 미리 보려는 웹 캠페인의 **미리 보기**&#x200B;를 클릭합니다
+[!UICONTROL Web Campaigns] 페이지에서 미리 보려는 웹 캠페인의 **[!UICONTROL Preview]**&#x200B;을(를) 클릭합니다.
 
 ![](assets/widget-campaign-preview-hand.png)
 
 ## 웹 캠페인 삭제 {#delete-a-web-campaign}
 
-1. 웹 캠페인 페이지에서 삭제하려는 웹 캠페인의 **삭제**&#x200B;를 클릭합니다.
+1. [!UICONTROL Web Campaigns] 페이지에서 삭제할 웹 캠페인의 **[!UICONTROL Delete]**&#x200B;을(를) 클릭합니다.
 
    ![](assets/widget-campaign-delete-hand.png)
 

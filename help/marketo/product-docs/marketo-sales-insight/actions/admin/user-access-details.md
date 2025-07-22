@@ -3,9 +3,9 @@ description: 사용자 액세스 세부 사항 - Marketo 문서 - 제품 설명�
 title: 사용자 액세스 세부 정보
 exl-id: 20e19848-fc46-4f12-af8a-3fa2b88e1af4
 feature: Sales Insight Actions
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '205'
+source-wordcount: '200'
 ht-degree: 0%
 
 ---
@@ -32,7 +32,7 @@ ht-degree: 0%
 
 ![](assets/user-access-details-4.png)
 
-관리자는 다음으로 보기 드롭다운을 통해 사용자 캠페인 및 캠페인 범주를 볼 수 있습니다.
+관리자는 [!UICONTROL View As] 드롭다운을 통해 사용자 캠페인과 캠페인 범주를 볼 수 있습니다.
 
 ![](assets/user-access-details-5.png)
 
@@ -46,18 +46,18 @@ ht-degree: 0%
    * 사용자는 자신이 속한 팀만 드릴다운할 수 있습니다
    * 사용자는 자신의 분석을 볼 수 있습니다
 
-* 사용자 페이지:
+* [!UICONTROL People] 페이지:
 
    * 사용자는 모든 사람과 그룹을 공유할 수 있습니다.
    * 사용자는 자신이 속한 팀과만 그룹을 공유할 수 있습니다
    * 사용자는 작업 데이터베이스의 모든 사람을 볼 수 있습니다.
    * 사용자가 삭제되면 공유 연락처는 해당 사용자를 삭제한 기본 관리자에게 소유권을 이전합니다
 
-* 팀 관리 페이지:
+* [!UICONTROL Team] 관리 페이지:
 
    * 볼 수 없음
 
-* 템플릿 페이지:
+* [!UICONTROL Templates] 페이지:
 
    * 사용자는 모든 사람과 템플릿을 공유할 수 있습니다.
    * 사용자는 관리자가 허용하는 범주의 템플릿을 공유할 수 있습니다.

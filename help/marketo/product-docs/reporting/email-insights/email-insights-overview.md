@@ -4,18 +4,18 @@ description: 이메일 인사이트 개요 - Marketo 문서 - 제품 설명서
 title: 이메일 통찰력 개요
 exl-id: ce261c9b-3a52-4aec-a299-0eb60026483d
 feature: Reporting
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '214'
+source-wordcount: '200'
 ht-degree: 0%
 
 ---
 
 # 이메일 통찰력 개요 {#email-insights-overview}
 
-이메일 인사이트는 이메일 마케터를 위해 내역 데이터를 통해 강력한 인사이트를 제공합니다. 이 섹션은 서로 다르지만 연결된 두 개의 섹션(Analytics 및 Sends)으로 구성됩니다.
+**[!UICONTROL Email Insights]**&#x200B;은(는) 이메일 마케터에게 내역 데이터를 통해 강력한 통찰력을 제공합니다. 이 섹션은 서로 다르지만 연결된 두 개의 섹션으로 구성됩니다. [!UICONTROL Analytics] 및 [!UICONTROL Sends].
 
-이메일 인사이트에 액세스하려면 내 Marketo(또는 Analytics 홈 화면)에서 해당 타일을 클릭하면 됩니다.
+**[!UICONTROL Email Insights]**&#x200B;에 액세스하려면 내 Marketo(또는 Analytics 홈 화면)에서 해당 타일을 클릭하면 됩니다.
 
 ![](assets/icon.png)
 
@@ -23,15 +23,15 @@ ht-degree: 0%
 >
 >기본적으로 액세스 권한이 있는 모든 작업 공간에 대한 데이터가 표시됩니다. 표시하지 않으려는 작업 공간은 선택 취소할 수 있습니다. 선택 항목은 앞으로 기억됩니다.
 
-## Analytics {#analytics}
+## [!UICONTROL Analytics] {#analytics}
 
-[Analytics](/help/marketo/product-docs/reporting/email-insights/email-insights-analytics-overview.md)을(를) 사용하여 전자 메일 게재 및 참여 지표에 대한 집계 시계열 데이터를 살펴봅니다.
+[[!UICONTROL Analytics]](/help/marketo/product-docs/reporting/email-insights/email-insights-analytics-overview.md)을(를) 사용하여 전자 메일 게재 및 참여 지표에 대한 집계 시계열 데이터를 살펴봅니다.
 
 ![](assets/emailanalytics.jpg)
 
 **필터**
 
-고급 [필터](/help/marketo/product-docs/reporting/email-insights/filtering-in-email-insights.md)를 사용하여 대상, 콘텐츠 또는 플랫폼별로 결과를 분류했습니다. 동일한 필터가 Analytics와 Sends 모두에 적용됩니다.
+고급 [필터](/help/marketo/product-docs/reporting/email-insights/filtering-in-email-insights.md)를 사용하여 대상, 콘텐츠 또는 플랫폼별로 결과를 분류했습니다. 동일한 필터가 [!UICONTROL Analytics]과(와) [!UICONTROL Sends]에 모두 적용됩니다.
 
 ![](assets/filter.png)
 
@@ -41,9 +41,9 @@ ht-degree: 0%
 
 ![](assets/three.png)
 
-## 전송 횟수 {#sends}
+## [!UICONTROL Sends] {#sends}
 
-[전송](/help/marketo/product-docs/reporting/email-insights/email-insights-sends-overview.md) 페이지에서 최근 전자 메일 통신의 특성을 검사합니다.
+[[!UICONTROL Sends]](/help/marketo/product-docs/reporting/email-insights/email-insights-sends-overview.md) 페이지에서 최근 전자 메일 통신의 특성을 검사합니다.
 
 ![](assets/two.png)
 
@@ -55,9 +55,9 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->이메일 인사이트에 데이터를 반영하는 데 최대 8시간이 걸릴 수 있습니다.
+>**[!UICONTROL Email Insights]**&#x200B;에 데이터가 반영되는 데 최대 8시간이 걸릴 수 있습니다.
 
-## 사용자 지정 Dimension {#custom-dimensions}
+## 사용자 지정 차원 {#custom-dimensions}
 
 모든 표준 Marketo 차원이 포함되지만 최대 10개의 사용자 지정 차원을 추가할 수 있습니다. [사용자 지정 차원](/help/marketo/product-docs/reporting/email-insights/custom-dimensions-for-email-insights.md)은(는) 세그먼테이션 및 프로그램 태그로 구성됩니다.
 

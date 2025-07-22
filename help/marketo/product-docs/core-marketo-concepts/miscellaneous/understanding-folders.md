@@ -3,10 +3,10 @@ unique-page-id: 4720779
 description: 폴더 이해 - Marketo 문서 - 제품 설명서
 title: 폴더 이해
 exl-id: 2ea914f6-ca64-4e87-806c-93beba075ab2
-source-git-commit: 0abb315be0f9cb5f42fa41d72b446de8c2f62c1e
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '267'
-ht-degree: 0%
+source-wordcount: '252'
+ht-degree: 1%
 
 ---
 
@@ -16,15 +16,15 @@ ht-degree: 0%
 
 ## 폴더 만들기 {#create-a-folder}
 
-1. **[!UICONTROL 마케팅 활동]** 영역으로 이동합니다.
+1. **[!UICONTROL Marketing Activities]** 영역으로 이동합니다.
 
    ![](assets/ma.png)
 
-1. 프로그램을 마우스 오른쪽 단추로 클릭하고 **[!UICONTROL 새 폴더]**&#x200B;를 선택합니다.
+1. 프로그램을 마우스 오른쪽 단추로 클릭하고 **[!UICONTROL New Folder]**&#x200B;을(를) 선택합니다.
 
    ![](assets/image2015-4-20-18-3a45-3a14.png)
 
-1. 새 폴더 이름을 지정하고 **[!UICONTROL Enter]**&#x200B;를 누릅니다.
+1. 새 폴더 이름을 지정하고 **[!UICONTROL Enter]**&#x200B;을 누릅니다.
 
    ![](assets/image2015-4-20-18-3a46-3a57.png)
 
@@ -34,11 +34,11 @@ ht-degree: 0%
 
 마음을 바꾸셔도 괜찮습니다.
 
-1. 폴더를 마우스 오른쪽 단추로 클릭하고 **[!UICONTROL 폴더 이름 바꾸기]**&#x200B;를 선택합니다.
+1. 폴더를 마우스 오른쪽 단추로 클릭하고 **[!UICONTROL Rename Folder]**&#x200B;을(를) 선택합니다.
 
    ![](assets/image2015-4-20-18-3a49-3a10.png)
 
-1. 새 이름을 입력하고 **[!UICONTROL Enter]**&#x200B;를 누르십시오.
+1. 새 이름을 입력하고 **[!UICONTROL Enter]**&#x200B;을(를) 누릅니다.
 
    ![](assets/image2015-4-20-18-3a52-3a30.png)
 
@@ -48,13 +48,13 @@ ht-degree: 0%
 >
 >삭제하기 전에 폴더가 비어 있는지 확인하십시오.
 
-1. 폴더를 마우스 오른쪽 단추로 클릭하고 **[!UICONTROL 폴더 삭제]**&#x200B;를 선택합니다.
+1. 폴더를 마우스 오른쪽 단추로 클릭하고 **[!UICONTROL Delete Folder]**&#x200B;을(를) 선택합니다.
 
    ![](assets/image2015-4-20-18-3a55-3a51.png)
 
 ## 폴더 보관 {#archive-a-folder}
 
-Marketo에서는 기존 폴더를 보관 폴더로 변환할 수 있습니다. 아카이브 폴더는 마케팅 활동, 데이터베이스 및 Design Studio에 있습니다.
+Marketo에서는 기존 폴더를 보관 폴더로 변환할 수 있습니다. 보관 폴더가 [!UICONTROL Marketing Activities], [!UICONTROL Database] 및 [!UICONTROL Design Studio]에 있습니다.
 
 ![](assets/image2015-4-20-19-3a3-3a46.png)
 

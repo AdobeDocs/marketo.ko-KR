@@ -4,9 +4,9 @@ description: 이메일에 대한 예측 콘텐츠 편집 - Marketo 문서 - 제�
 title: 이메일에 대한 예측 콘텐츠 편집
 exl-id: 6f3e4e32-0318-4981-b2e9-796c3d001614
 feature: Predictive Content
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '239'
+source-wordcount: '228'
 ht-degree: 0%
 
 ---
@@ -17,13 +17,13 @@ ht-degree: 0%
 
 >[!PREREQUISITES]
 >
->모든 콘텐츠 페이지에서 콘텐츠는 예측 콘텐츠에 대해 [승인](/help/marketo/product-docs/predictive-content/working-with-all-content/approve-a-title-for-predictive-content.md)되어야 합니다.
+>[ 페이지에서 ](/help/marketo/product-docs/predictive-content/working-with-all-content/approve-a-title-for-predictive-content.md)예측 콘텐츠에 대해 승인[!UICONTROL All Content]된 콘텐츠여야 합니다.
 
-1. 예측 콘텐츠 페이지에서 제목을 클릭하여 편집기를 엽니다.
+1. [!UICONTROL Predictive Content] 페이지에서 제목을 클릭하여 편집기를 엽니다.
 
    ![](assets/image2017-10-3-9-3a30-3a25.png)
 
-1. 편집 페이지가 열립니다. 기본적으로 **전자 메일**&#x200B;이 표시됩니다.
+1. 편집 페이지가 열립니다. 기본적으로 **[!UICONTROL Email]**&#x200B;이(가) 표시됩니다.
 
    ![](assets/image2017-10-3-9-3a31-3a18.png)
 
@@ -39,7 +39,7 @@ ht-degree: 0%
    >
    >단추 레이블을 변경한 경우 변경 사항을 저장하거나 이미지를 미리 볼 때 업데이트됩니다.
 
-1. 이미지 URL을 추가하거나 편집하려면 **이미지 편집**&#x200B;을 클릭하세요.
+1. 이미지 URL을 추가하거나 편집하려면 **[!UICONTROL Edit Image]**&#x200B;을(를) 클릭합니다.
 
    ![](assets/image2017-10-3-9-3a33-3a11.png)
 
@@ -47,11 +47,11 @@ ht-degree: 0%
    >
    >최상의 품질을 보장하려면 이미지가 400x400픽셀 이하여야 합니다.
 
-1. 이미지 URL을 삽입하고 **추가**&#x200B;를 클릭합니다.
+1. 이미지 URL을 삽입하고 **[!UICONTROL Add]**&#x200B;을(를) 클릭합니다.
 
    ![](assets/five.png)
 
-1. 슬라이더를 클릭하고 드래그하여 이미지 크기를 변경합니다. 그런 다음 자르기 상자를 클릭하고 드래그하여 사용할 이미지 영역을 분리합니다. 완료되면 **미리 보기**&#x200B;를 클릭합니다.
+1. 슬라이더를 클릭하고 드래그하여 이미지 크기를 변경합니다. 그런 다음 자르기 상자를 클릭하고 드래그하여 사용할 이미지 영역을 분리합니다. 완료되면 **[!UICONTROL Preview]**&#x200B;을(를) 클릭합니다.
 
    ![](assets/six.png)
 
@@ -60,7 +60,7 @@ ht-degree: 0%
    | ![](assets/sevena.png) | ![](assets/sevenb.png) |
    |---|---|
 
-1. **범주** 필드를 클릭하고 콘텐츠에 범주를 추가할 수도 있습니다. 옵션은 이미 설정한 [범주](/help/marketo/product-docs/predictive-content/getting-started/set-up-categories.md)에서 가져온 것입니다.
+1. 필요한 경우 **[!UICONTROL Categories]** 필드를 클릭하고 콘텐츠에 범주를 추가합니다. 옵션은 이미 설정한 [범주](/help/marketo/product-docs/predictive-content/getting-started/set-up-categories.md)에서 가져온 것입니다.
 
    ![](assets/eight.png)
 
@@ -68,7 +68,7 @@ ht-degree: 0%
 
    ![](assets/nine.png)
 
-1. **저장**&#x200B;을 클릭합니다.
+1. **[!UICONTROL Save]**&#x200B;을(를) 클릭합니다.
 
    ![](assets/save.png)
 

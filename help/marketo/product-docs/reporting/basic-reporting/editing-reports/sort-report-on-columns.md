@@ -4,9 +4,9 @@ description: 열에 대한 보고서 정렬 - Marketo 문서 - 제품 설명서
 title: 열에 대한 보고서 정렬
 exl-id: a31383b5-bb18-400b-945a-abecd2b19340
 feature: Reporting
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '78'
+source-wordcount: '74'
 ht-degree: 0%
 
 ---
@@ -15,11 +15,11 @@ ht-degree: 0%
 
 열을 사용하여 보고서의 데이터를 정렬하고 가장 중요한 수치를 쉽게 찾을 수 있도록 합니다.
 
-1. **분석**(또는 **마케팅 활동**)으로 이동합니다.
+1. **[!UICONTROL Analytics]**(또는 **[!UICONTROL Marketing Activities]**)(으)로 이동합니다.
 
    ![](assets/login-marketing-activities.png)
 
-1. 탐색 트리에서 보고서를 선택하고 **보고서** 탭을 클릭합니다.
+1. 탐색 트리에서 보고서를 선택하고 **[!UICONTROL Report]** 탭을 클릭합니다.
 
    ![](assets/reports2.jpg)
 

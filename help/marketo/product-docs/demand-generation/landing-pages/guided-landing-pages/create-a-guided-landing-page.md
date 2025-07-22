@@ -4,10 +4,10 @@ description: 가이드 랜딩 페이지 만들기 - Marketo 문서 - 제품 설�
 title: 가이드 랜딩 페이지 만들기
 exl-id: 876735b7-1e71-4fd0-b5de-63e239bcfa30
 feature: Landing Pages
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '201'
-ht-degree: 0%
+source-wordcount: '172'
+ht-degree: 2%
 
 ---
 
@@ -23,9 +23,9 @@ ht-degree: 0%
 
 ## 프로그램에서 안내식 랜딩 페이지 만들기 {#create-a-guided-landing-page-in-a-program}
 
-안내식 랜딩 페이지는 프로그램 또는 Design Studio에서 전역적으로 사용할 로컬 자산으로 만들 수 있습니다.
+안내식 랜딩 페이지는 프로그램 또는 [!UICONTROL Design Studio]의 로컬 자산으로 만들어 전역적으로 사용할 수 있습니다.
 
-1. **마케팅 활동**(으)로 이동합니다.
+1. **[!UICONTROL Marketing Activities]**(으)로 이동합니다.
 
    ![](assets/one-1.png)
 
@@ -33,15 +33,15 @@ ht-degree: 0%
 
    ![](assets/image2015-5-26-9-3a24-3a2.png)
 
-1. **새로 만들기** 드롭다운을 클릭합니다. **새 로컬 자산**&#x200B;을 선택합니다.
+1. **[!UICONTROL New]** 드롭다운을 클릭합니다. **[!UICONTROL New Local Asset]**&#x200B;를 선택합니다.
 
    ![](assets/image2015-5-26-9-3a25-3a36.png)
 
-1. **랜딩 페이지**&#x200B;를 선택하세요.
+1. **[!UICONTROL Landing Page]**&#x200B;를 선택합니다.
 
    ![](assets/four.png)
 
-1. 랜딩 페이지 이름을 지정합니다. **템플릿** 드롭다운을 클릭하고 **안내식 템플릿**&#x200B;을 선택합니다.
+1. 랜딩 페이지 이름을 지정합니다. **[!UICONTROL Template]** 드롭다운을 클릭하고 **[!UICONTROL Guided Template]**&#x200B;을(를) 선택합니다.
 
    >[!NOTE]
    >
@@ -51,24 +51,24 @@ ht-degree: 0%
 
 ## Design Studio에서 랜딩 페이지 만들기 {#create-a-landing-page-in-design-studio}
 
-1. **디자인 스튜디오**(으)로 이동합니다.
+1. **[!UICONTROL Design Studio]**(으)로 이동합니다.
 
    ![](assets/six.png)
 
-1. **새로 만들기** 드롭다운을 클릭합니다. **새 랜딩 페이지**&#x200B;를 선택하십시오.
+1. **[!UICONTROL New]** 드롭다운을 클릭합니다. **[!UICONTROL New Landing Page]**&#x200B;를 선택합니다.
 
    ![](assets/seven.png)
 
-1. 랜딩 페이지 이름을 지정합니다. **템플릿** 드롭다운을 클릭하고 **안내식 템플릿**&#x200B;을 선택합니다.
+1. 랜딩 페이지 이름을 지정합니다. **[!UICONTROL Template]** 드롭다운을 클릭하고 **[!UICONTROL Guided Template]**&#x200B;을(를) 선택합니다.
 
    ![](assets/image2015-5-26-9-3a27-3a34.png)
 
-1. **만들기**&#x200B;를 클릭합니다.
+1. **[!UICONTROL Create]**&#x200B;을(를) 클릭합니다.
 
    ![](assets/image2015-5-26-9-3a28-3a8.png)
 
 >[!TIP]
 >
->URL은 프로그램 및 랜딩 페이지 이름에서 자동으로 생성됩니다. URL을 변경하려면 **페이지 URL** 필드를 편집하십시오.
+>URL은 프로그램 및 랜딩 페이지 이름에서 자동으로 생성됩니다. URL을 변경하려면 **[!UICONTROL Page URL]** 필드를 편집하십시오.
 >
->**만들기**&#x200B;를 클릭한 후 편집기를 바로 열지 않으려면 **편집기에서 열기** 확인란의 선택을 취소하십시오.
+>**[!UICONTROL Open in editor]**&#x200B;을(를) 클릭한 후 바로 편집기를 열지 않으려면 **[!UICONTROL Create]** 확인란의 선택을 취소하십시오.

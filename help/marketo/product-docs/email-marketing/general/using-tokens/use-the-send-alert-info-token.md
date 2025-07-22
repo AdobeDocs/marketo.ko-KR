@@ -4,9 +4,9 @@ description: 경고 정보 보내기 토큰 {{SP_Send_Alert_Info}} 사용 - Mark
 title: 경고 정보 보내기 토큰 사용
 exl-id: 950eb4d1-35d5-4e5c-9624-a38284bff987
 feature: Tokens
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '257'
+source-wordcount: '252'
 ht-degree: 0%
 
 ---
@@ -40,7 +40,7 @@ ht-degree: 0%
 
 ## 이메일에 SP_Send_Alert_Info 토큰 추가 {#add-the-sp-send-alert-info-token-to-an-email}
 
-1. 이메일을 선택하고 **초안 편집**&#x200B;을 클릭합니다.
+1. 전자 메일을 선택하고 **[!UICONTROL Edit Draft]**&#x200B;을(를) 클릭합니다.
 
    ![](assets/one-3.png)
 
@@ -48,15 +48,15 @@ ht-degree: 0%
 
    ![](assets/two-3.png)
 
-1. 토큰을 넣을 위치에 커서를 놓은 다음 **토큰 삽입** 단추를 클릭합니다.
+1. 토큰을 넣을 위치에 커서를 놓고 **[!UICONTROL Insert Token]** 단추를 클릭합니다.
 
    ![](assets/three-3.png)
 
-1. **`{{SP_Send_Alert_Info}}`** 토큰을 찾아 선택한 다음 **삽입**&#x200B;을 클릭합니다.
+1. **[!UICONTROL {{SP_Send_Alert_Info}}]** 토큰을 찾아 선택하고 **[!UICONTROL Insert]**&#x200B;을(를) 클릭합니다.
 
    ![](assets/image2014-9-25-15-3a19-3a11.png)
 
-1. **저장**&#x200B;을 클릭합니다.
+1. **[!UICONTROL Save]**&#x200B;을(를) 클릭합니다.
 
    ![](assets/image2014-9-25-15-3a19-3a24.png)
 

@@ -4,9 +4,9 @@ description: 챔피언/챌린저 - 이메일 테스트 승인 - Marketo 문서 -
 title: 챔피언/챌린저 - 이메일 테스트 승인
 exl-id: dfef8e21-2a94-47b8-9551-68a24605d267
 feature: Email Editor
-source-git-commit: ab8cb63d7a63728f86b38272a74913de99d0d0b3
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '139'
+source-wordcount: '133'
 ht-degree: 0%
 
 ---
@@ -19,11 +19,11 @@ ht-degree: 0%
 >
 >[보고서 경고 구성](/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/email-tests-champion-challenger/champion-challenger-analytics.md#configure-report-alerts)
 
-1. **마케팅 활동**(으)로 이동합니다.
+1. **[!UICONTROL Marketing Activities]**(으)로 이동합니다.
 
    ![](assets/login-marketing-activities-1.png)
 
-1. **전자 메일 테스트**&#x200B;를 찾아 마우스 오른쪽 단추로 클릭한 다음 **테스트 승인**&#x200B;을 클릭합니다.
+1. **[!UICONTROL Email Test]**&#x200B;을(를) 찾아 마우스 오른쪽 단추로 클릭한 다음 **[!UICONTROL Approve Test]**&#x200B;을(를) 클릭합니다.
 
    ![](assets/champion3.jpg)
 

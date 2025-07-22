@@ -4,9 +4,9 @@ description: 이메일 인사이트 빠른 차트 - Marketo 문서 - 제품 설�
 title: 이메일 인사이트 빠른 차트
 exl-id: 5c071694-af86-48bd-8159-f877c51364f2
 feature: Reporting
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '231'
+source-wordcount: '221'
 ht-degree: 0%
 
 ---
@@ -19,7 +19,7 @@ ht-degree: 0%
 
 이 예에서는 캘리포니아와 플로리다 주에서 2016년 2월 첫 3주 동안의 공개 비율을 선택합니다.
 
-1. Analytics 화면 오른쪽에 있는 날짜 필터를 클릭합니다.
+1. [!UICONTROL Analytics] 화면 오른쪽에 있는 날짜 필터를 클릭합니다.
 
    ![](assets/one-1.png)
 
@@ -27,7 +27,7 @@ ht-degree: 0%
 
    ![](assets/two-2.png)
 
-1. 날짜 범위를 선택한 경우 **적용**&#x200B;을 클릭합니다.
+1. 날짜 범위를 선택한 경우 **[!UICONTROL Apply]**&#x200B;을(를) 클릭합니다.
 
    ![](assets/three-2.png)
 
@@ -39,11 +39,11 @@ ht-degree: 0%
 
    ![](assets/5.png)
 
-1. 차트 오른쪽에서 내보내기 아이콘을 클릭하고 **빠른 차트로 저장**&#x200B;을 선택합니다.
+1. 차트 오른쪽에서 내보내기 아이콘을 클릭하고 **[!UICONTROL Save as Quick Chart]**&#x200B;을(를) 선택합니다.
 
    ![](assets/six.png)
 
-1. 빠른 차트 이름을 지정하고 **저장**&#x200B;을 클릭하세요.
+1. 빠른 차트 이름을 지정하고 **[!UICONTROL Save]**&#x200B;을(를) 클릭합니다.
 
    ![](assets/seven.png)
 
@@ -65,7 +65,7 @@ ht-degree: 0%
 
 빠른 차트 중 하나를 삭제하시겠습니까? 쉽습니다!
 
-1. **빠른 차트** 아이콘을 클릭합니다.
+1. **[!UICONTROL Quick Charts]** 아이콘을 클릭합니다.
 
    ![](assets/nine.png)
 
@@ -73,7 +73,7 @@ ht-degree: 0%
 
    ![](assets/ten.png)
 
-1. **확인**&#x200B;을 클릭합니다.
+1. **[!UICONTROL Ok]**&#x200B;을(를) 클릭합니다.
 
    ![](assets/eleven.png)
 

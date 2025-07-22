@@ -3,16 +3,16 @@ description: 팀 탭 이해 - Marketo 문서 - 제품 설명서
 title: 팀 탭 이해
 exl-id: 36189eb2-a802-4601-afca-dca3006e4608
 feature: Sales Insight Actions
-source-git-commit: 02b2e39580c5eac63de4b4b7fdaf2a835fdd4ba5
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '139'
+source-wordcount: '137'
 ht-degree: 0%
 
 ---
 
-# 팀 탭 이해 {#understanding-the-team-tab}
+# [!UICONTROL Team] 탭 이해 {#understanding-the-team-tab}
 
-팀 탭에서 세 가지 중요한 지표를 강조 표시합니다.
+[!UICONTROL Team] 탭에서 세 가지 중요한 지표를 강조 표시합니다.
 
 ## 템플릿으로 전송된 이메일 {#emails-sent-with-template}
 

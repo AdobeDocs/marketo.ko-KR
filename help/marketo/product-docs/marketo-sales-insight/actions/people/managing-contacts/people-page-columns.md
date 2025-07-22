@@ -5,10 +5,10 @@ hide: true
 hidefromtoc: true
 exl-id: 29870197-81e1-4f88-a129-b1ff6da34924
 feature: Sales Insight Actions
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '273'
-ht-degree: 7%
+source-wordcount: '234'
+ht-degree: 6%
 
 ---
 
@@ -18,11 +18,11 @@ ht-degree: 7%
 
 ## 열 선택 방법 {#how-to-select-columns}
 
-1. 인물 페이지에서 목록 설정 아이콘을 클릭합니다.
+1. [!UICONTROL People] 페이지에서 목록 설정 아이콘을 클릭합니다.
 
    ![](assets/people-page-columns-1.png)
 
-1. 스크롤하여 원하는 열을 선택합니다. 모든 열을 원하는 경우 **모두 선택**&#x200B;을 클릭할 수도 있습니다. 완료되면 목록에서 를 클릭합니다.
+1. 스크롤하여 원하는 열을 선택합니다. 모든 열을 원하는 경우 **[!UICONTROL Select All]**&#x200B;을(를) 클릭할 수도 있습니다. 완료되면 목록에서 를 클릭합니다.
 
    ![](assets/people-page-columns-2.png)
 
@@ -39,83 +39,83 @@ ht-degree: 7%
    <th>설명</th> 
   </tr> 
   <tr> 
-   <td>이름(기본값)</td> 
+   <td>[!UICONTROL First Name (default)]</td> 
    <td>이름</td> 
   </tr> 
   <tr> 
-   <td>성(기본값)</td> 
+   <td>[!UICONTROL Last Name (default)]</td> 
    <td>성</td> 
   </tr> 
   <tr> 
-   <td colspan="1">이메일(기본값)</td> 
+   <td colspan="1">[!UICONTROL Email (default)]</td> 
    <td colspan="1">이메일 주소</td> 
   </tr> 
   <tr> 
-   <td colspan="1">전화</td> 
+   <td colspan="1">[!UICONTROL Phone]</td> 
    <td colspan="1">전화번호</td> 
   </tr> 
   <tr> 
-   <td colspan="1">제목(기본값)</td> 
+   <td colspan="1">[!UICONTROL Title (default)]</td> 
    <td colspan="1">직위</td> 
   </tr> 
   <tr> 
-   <td>회사(기본값)</td> 
+   <td>[!UICONTROL Company (default)]</td> 
    <td>회사명</td> 
   </tr> 
   <tr> 
-   <td>Campaign(기본값)</td> 
+   <td>[!UICONTROL Campaign (default)]</td> 
    <td>해당 사용자가 현재 진행 중인 판매 캠페인</td> 
   </tr> 
   <tr> 
-   <td>캠페인 수</td> 
+   <td># [!UICONTROL Campaigns]</td> 
    <td>개인이 참여한 총 판매 캠페인 수</td> 
   </tr> 
   <tr> 
-   <td>호출 수</td> 
+   <td># [!UICONTROL Calls]</td> 
    <td>이 사용자에 대한 총 통화 수</td> 
   </tr> 
   <tr> 
-   <td>이메일 수</td> 
+   <td># [!UICONTROL Emails]</td> 
    <td>이 사람에게 보낸 총 이메일 수</td> 
   </tr> 
   <tr> 
-   <td>작업 기한</td> 
+   <td>[!UICONTROL Task Due Date]</td> 
    <td>작업 기한</td> 
   </tr> 
   <tr> 
-   <td># 이벤트(기본값)</td> 
+   <td># [!UICONTROL Events (default)]</td> 
    <td>사용자에 의한 총 참여 이벤트 수(보기, 클릭 수 및 답글)</td> 
   </tr> 
   <tr> 
-   <td># 활동(기본값)</td> 
+   <td># [!UICONTROL Activities (default)]</td> 
    <td>이 잠재 고객에 대해 사용자가 취한 총 활동(이메일, 호출 및 작업) 수</td> 
   </tr> 
   <tr> 
-   <td>동의</td> 
+   <td>[!UICONTROL Consent]</td> 
    <td><p>정당한 이익, 계약 이행, 법적 의무 준수, 중대한 이익 보호, 공익/공식 권한 및 기타</p></td> 
   </tr> 
   <tr> 
-   <td>작업 열기</td> 
+   <td>[!UICONTROL Open Tasks]</td> 
    <td>이 사용자에 대한 진행 중 작업 수</td> 
   </tr> 
   <tr> 
-   <td>보기 수</td> 
+   <td># [!UICONTROL Views]</td> 
    <td>해당 사용자에 의한 총 보기 수</td> 
   </tr> 
   <tr> 
-   <td>클릭수</td> 
+   <td># [!UICONTROL Clicks]</td> 
    <td>이 사용자의 총 클릭 수</td> 
   </tr> 
   <tr> 
-   <td>답변 수</td> 
+   <td># [!UICONTROL Replies]</td> 
    <td>이 사용자에 의한 총 회신 수</td> 
   </tr> 
   <tr> 
-   <td>마지막 업데이트</td> 
+   <td>[!UICONTROL Last Updated]</td> 
    <td>개인 레코드가 마지막으로 업데이트된 날짜</td> 
   </tr> 
   <tr> 
-   <td>작성자</td> 
+   <td>[!UICONTROL Creator]</td> 
    <td>개인을 생성한 사용자 이름</td> 
   </tr> 
   <tr> 
@@ -123,11 +123,11 @@ ht-degree: 7%
    <td>사용자를 만든 위치의 Source</td> 
   </tr> 
   <tr> 
-   <td>그룹(기본값)</td> 
+   <td>[!UICONTROL Groups] (기본값)</td> 
    <td>개인이 속한 그룹</td> 
   </tr> 
   <tr> 
-   <td colspan="1">주소 삭제</td> 
+   <td colspan="1">[!UICONTROL Unsubscribed]</td> 
    <td colspan="1">판매 구독 취소 상태</td> 
   </tr> 
  </tbody> 

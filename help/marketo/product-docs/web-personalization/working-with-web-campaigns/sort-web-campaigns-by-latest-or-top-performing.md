@@ -4,9 +4,9 @@ description: 최신 또는 최고 실적을 기준으로 웹 캠페인 정렬 - 
 title: 최신 성과 또는 최고 성과별로 웹 캠페인 정렬
 exl-id: af4483b5-6ac6-404e-9ea6-be0d4edffdc6
 feature: Web Personalization
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '89'
+source-wordcount: '84'
 ht-degree: 0%
 
 ---
@@ -15,7 +15,7 @@ ht-degree: 0%
 
 두 가지 방법으로 웹 캠페인을 정렬할 수 있습니다.
 
-1. **웹 캠페인**(으)로 이동합니다.
+1. **[!UICONTROL Web Campaigns]**(으)로 이동합니다.
 
    ![](assets/web-campaigns-hand-1.jpg)
 
@@ -25,9 +25,9 @@ ht-degree: 0%
    >
    >**정의**
    >
-   >**최신** - 캠페인이 만들어진 날짜를 기준으로 정렬됩니다. 최상위의 최신 캠페인.
+   >**[!UICONTROL Latest]** - 캠페인이 만들어진 날짜를 기준으로 정렬됩니다. 최상위의 최신 캠페인.
    >
-   >**최고 성과** - 클릭스루 비율에 따라 캠페인을 정렬합니다. 맨 위에 있는 가장 높은 클릭스루
+   >**[!UICONTROL Top Performing]** - 클릭스루 비율에 따라 캠페인을 정렬합니다. 맨 위에 있는 가장 높은 클릭스루
 
    ![](assets/image2016-11-4-13-3a34-3a59.png)
 

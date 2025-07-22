@@ -1,35 +1,35 @@
 ---
 unique-page-id: 4720314
-description: Sales Insight 이메일 성과 보고서 - Marketo 문서 - 제품 설명서
-title: Sales Insight Email Performance 보고서
+description: 영업 Insight 이메일 성과 보고서 - Marketo 문서 - 제품 설명서
+title: 영업 Insight 이메일 성과 보고서
 exl-id: eadce9f8-0ba2-4e0c-947c-50ff74003b8e
 feature: Marketo Sales Insights
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '156'
-ht-degree: 1%
+source-wordcount: '137'
+ht-degree: 2%
 
 ---
 
-# Sales Insight Email Performance 보고서 {#sales-insight-email-performance-report}
+# 영업 Insight 이메일 성과 보고서 {#sales-insight-email-performance-report}
 
-Salesforce, Microsoft Dynamics, Gmail 또는 Outlook 플러그인을 통해 전송된 이메일의 성능을 확인합니다.
+[!DNL Salesforce], [!DNL Microsoft Dynamics], Gmail 또는 [!DNL Outlook] 플러그인을 통해 보낸 전자 메일의 성능을 봅니다.
 
 ## 보고서 생성 {#generate-a-report}
 
-1. **분석**&#x200B;을 클릭합니다.
+1. **[!UICONTROL Analytics]**&#x200B;을(를) 클릭합니다.
 
    ![](assets/mainnav-analyticshand-small.png)
 
-1. **영업 인사이트 전자 메일 성과**&#x200B;를 클릭합니다.
+1. **[!UICONTROL Sales Insight Email Performance]**&#x200B;을(를) 클릭합니다.
 
    ![](assets/analytics-salesemailreporthand.png)
 
-1. **설정** 탭을 클릭하고 원하는 값을 선택합니다.
+1. **[!UICONTROL Setup]** 탭을 클릭하고 원하는 값을 선택합니다.
 
    ![](assets/three.png)
 
-1. **보고서** 탭을 클릭합니다.
+1. **[!UICONTROL Report]** 탭을 클릭합니다.
 
    ![](assets/image2014-12-9-12-3a5-3a35.png)
 
@@ -37,29 +37,29 @@ Salesforce, Microsoft Dynamics, Gmail 또는 Outlook 플러그인을 통해 전�
 
    >[!NOTE]
    >
-   >게재됨 상태는 Sales Insight를 통해 전송된 이메일에 대해 캡처되지 않으며 이 보고서 또는 활동 로그에 포함되지 않습니다.
+   >게재됨 상태는 판매 Insight을 통해 전송된 이메일에 대해 캡처되지 않으며, 이 보고서 또는 활동 로그에 포함되지 않습니다.
 
 >[!TIP]
 >
 >이메일 이름을 클릭하여 이메일 미리 보기에서 엽니다.
 
-## 영업 담당자별 그룹화 {#group-by-sales-rep}
+## [!UICONTROL Sales Rep]&#x200B;(으)로 그룹화 {#group-by-sales-rep}
 
 설정을 변경하여 Sales Rep 별로 그룹화된 이 보고서를 볼 수 있습니다.
 
-1. **설치**&#x200B;를 클릭합니다. **전자 메일**&#x200B;을 두 번 클릭합니다.
+1. **[!UICONTROL Setup]**&#x200B;을(를) 클릭합니다. **[!UICONTROL Email]**&#x200B;을(를) 두 번 클릭합니다.
 
    ![](assets/image2014-12-9-12-3a12-3a19.png)
 
-1. **영업 담당자**&#x200B;별로 전자 메일 그룹을 선택하십시오.
+1. **[!UICONTROL Sales Rep]**(으)로 전자 메일 그룹을 선택합니다.
 
    ![](assets/image2014-12-9-12-3a16-3a42.png)
 
-1. **저장**&#x200B;을 클릭합니다.
+1. **[!UICONTROL Save]**&#x200B;을(를) 클릭합니다.
 
    ![](assets/image2014-12-9-12-3a17-3a39.png)
 
-1. **보고서** 탭을 클릭합니다.
+1. **[!UICONTROL Report]** 탭을 클릭합니다.
 
    ![](assets/image2014-12-9-12-3a19-3a7.png)
 

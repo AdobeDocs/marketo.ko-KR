@@ -4,10 +4,10 @@ description: Opportunity Influence Analyzer 데이터 내보내기 - Marketo 문
 title: 영업 기회 영향 분석기 데이터 내보내기
 exl-id: 081c94fa-8f56-489e-85d3-ca4bf4da65fa
 feature: Reporting, Revenue Cycle Analytics
-source-git-commit: d20a9bb584f69282eefae3704ce4be2179b29d0b
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '135'
-ht-degree: 0%
+source-wordcount: '126'
+ht-degree: 1%
 
 ---
 
@@ -15,7 +15,7 @@ ht-degree: 0%
 
 수익 주기 탐색기 보고서에서 업데이트를 수신하고 공유하려면 기존 보고서에 이메일 주소를 구독하면 됩니다.
 
-1. **Analytics**(으)로 이동하여 **새로 만들기** > **새 보고서 구독**&#x200B;을(를) 선택합니다.
+1. **[!UICONTROL Analytics]**(으)로 이동하여 **[!UICONTROL New]** > **[!UICONTROL New Report Subscription]**&#x200B;을(를) 선택합니다.
 
    ![](assets/image2014-9-17-12-3a40-3a46.png)
 
@@ -23,7 +23,7 @@ ht-degree: 0%
    >
    >프로그램에서 만든 기본 보고서를 구독하려면 [기본 보고서 구독](/help/marketo/product-docs/reporting/basic-reporting/report-subscriptions/subscribe-to-a-basic-report.md)을 참조하세요.
 
-1. Report Source의 경우 **수익 탐색기**&#x200B;를 선택합니다.
+1. **[!UICONTROL Report Source]**&#x200B;에 대해 **[!UICONTROL Revenue Explorer]**&#x200B;를 선택합니다.
 
    ![](assets/image2014-9-17-12-3a42-3a15.png)
 

@@ -4,9 +4,9 @@ title: 스마트 목록 트리거 및 필터에서 SMS 메시지 보기 사용
 hide: true
 hidefromtoc: true
 feature: Mobile Marketing
-source-git-commit: fee2d692acd8d54f2e308e2d5edc9876d13d5a4d
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '411'
+source-wordcount: '393'
 ht-degree: 0%
 
 ---
@@ -15,7 +15,7 @@ ht-degree: 0%
 
 [Vibes SMS 메시지를 만들고](/help/marketo/product-docs/mobile-marketing/vibes-sms-messages/create-a-vibes-sms-message.md){target="_blank"} 나면 Smart Campaign 내의 Smart List 트리거 및 필터를 사용하여 혜택을 얻을 수 있습니다. 방법은 다음과 같습니다.
 
-1. 내 Marketo에서 **마케팅 활동**&#x200B;을 클릭합니다.
+1. 내 Marketo에서 **[!UICONTROL Marketing Activities]**&#x200B;을(를) 클릭합니다.
 
    ![](assets/use-vibes-sms-messages-in-smart-list-triggers-and-filters-1.png)
 
@@ -46,17 +46,17 @@ SMS 메시지 보내기:
 
 ![](assets/sms-message-bounces-real.jpg)
 
-**비디오 구독 목록** 트리거는 사용자가 구독할 때 흐름을 시작합니다.
+**[!UICONTROL Subscribes to Vibes List]** 트리거는 사용자가 구독할 때 흐름을 시작합니다.
 
 ![](assets/subscribes-to-vibes-list-real.jpg)
 
-**SMS 메시지의 링크를 클릭** 트리거는 사용자가 SMS 메시지의 링크를 클릭할 때 흐름을 시작합니다.
+**[!UICONTROL Clicks Link in SMS Message]** 트리거는 사용자가 SMS 메시지의 링크를 클릭하면 흐름을 시작합니다.
 
 ![](assets/clicks-link-in-sms-message.jpg)
 
 ## SMS 필터 {#sms-filters}
 
-스마트 목록에서 바이브 필터를 사용할 수도 있습니다. **Vibes 목록 구독** 필터는 *ever*&#x200B;이(가) Vibes 구독 중인 모든 사용자를 찾습니다. 삭제된 사람이 흐름에서 생략되더라도 여기에는 구독 취소자와 삭제된 사람이 모두 포함됩니다. 이 필터는 보고에 가장 적합합니다.
+스마트 목록에서 바이브 필터를 사용할 수도 있습니다. **[!UICONTROL Subscribed to Vibes List]** 필터는 *ever*&#x200B;을(를) 구독하는 모든 사용자를 찾습니다. 삭제된 사람이 흐름에서 생략되더라도 여기에는 구독 취소자와 삭제된 사람이 모두 포함됩니다. 이 필터는 보고에 가장 적합합니다.
 
 ![](assets/subscribed-to-vibes-list-filter-real.jpg)
 
@@ -66,7 +66,7 @@ SMS 메시지 보내기:
 
 >[!NOTE]
 >
->모든 SMS 필터에는 기본적으로 **활동 날짜** 제한이 포함됩니다.
+>모든 SMS 필터에는 기본적으로 **[!UICONTROL Date of Activity]** 제약 조건이 포함됩니다.
 
 스마트 목록에서 Vibes 트리거 및 필터를 설정한 후에는 [흐름을 정의](/help/marketo/product-docs/mobile-marketing/vibes-sms-messages/add-a-flow-step-for-sms.md)할 수 있습니다.
 

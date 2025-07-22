@@ -4,16 +4,16 @@ description: 리드 피드 사용 - Marketo 문서 - 제품 설명서
 title: 가망 고객 피드 사용
 exl-id: cdb10fe4-3006-4bae-b485-f7bfa95f1226
 feature: Marketo Sales Insights
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '332'
-ht-degree: 0%
+source-wordcount: '328'
+ht-degree: 1%
 
 ---
 
 # 가망 고객 피드 사용 {#using-the-lead-feed}
 
-리드 피드는 리드가 수행하는 흥미로운 이벤트의 최신 목록입니다. Marketo 탭을 클릭하면 오른쪽에서 찾을 수 있습니다. RSS 또는 Twitter 피드와 같습니다. 최신 업데이트가 목록 맨 위에 있습니다. 당신이 그들의 마음에 아직 새로움을 느낄 때 리드 위로 점프하기 위해 이것을 사용합니다.
+리드 피드는 리드가 수행하는 흥미로운 이벤트의 최신 목록입니다. Marketo 탭을 클릭하면 오른쪽에서 찾을 수 있습니다. RSS 또는 [!DNL Twitter] 피드와 같습니다. 최신 업데이트가 목록 맨 위에 있습니다. 당신이 그들의 마음에 아직 새로움을 느낄 때 리드 위로 점프하기 위해 이것을 사용합니다.
 
 >[!NOTE]
 >
@@ -25,7 +25,7 @@ ht-degree: 0%
 
 리드 피드의 각 항목은 흥미로운 순간입니다. 이 리드의 마케팅 기록에서 주목할 만한 활동 또는 이벤트입니다.
 
-Salesforce에서 볼 때 각 항목은 다음과 같습니다.
+[!DNL Salesforce]에서 볼 때 각 항목에는 다음이 포함됩니다.
 
 ![](assets/using-the-lead-feed-2.png)
 
@@ -72,7 +72,7 @@ Salesforce에서 볼 때 각 항목은 다음과 같습니다.
 
 ## RSS 업데이트를 가져오는 중 {#getting-rss-updates}
 
-RSS 피드로 리드 피드 업데이트를 받을 수도 있습니다.  RSS 피드를 사용하면 Salesforce에 연결되어 있지 않더라도 잠재 고객에 대한 업데이트를 받을 수 있습니다. 피드에는 Salesforce의 리드 피드와 동일한 정보뿐만 아니라 다음 정보도 포함됩니다(가능한 경우).
+RSS 피드로 리드 피드 업데이트를 받을 수도 있습니다.  [!DNL Salesforce]에 연결되어 있지 않더라도 RSS 피드를 사용하면 잠재 고객에 대한 업데이트를 받을 수 있습니다. 피드에 [!DNL Salesforce]의 잠재 고객 피드와 동일한 정보가 있으며 사용 가능한 경우 다음 정보가 있습니다.
 
 * 이메일 주소
 * 전화 번호

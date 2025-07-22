@@ -4,9 +4,9 @@ description: 웹 리치 미디어에 대한 예측 콘텐츠 활성화 - Marketo
 title: 웹 리치 미디어에 대한 예측 콘텐츠 활성화
 exl-id: 030f1dd7-8fe7-4c82-be5e-052f0a259e3c
 feature: Predictive Content
-source-git-commit: 2b610cc3486b745212b0b1f36018a83214d7ecd7
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '307'
+source-wordcount: '288'
 ht-degree: 0%
 
 ---
@@ -33,21 +33,21 @@ ht-degree: 0%
 
 리치 미디어에 대한 컨텐츠 제목, 설명 및 이미지를 준비했으면 개별 또는 여러 컨텐츠 조각을 활성화할 수 있습니다.
 
-1. 개별 제목을 활성화하려면 제목을 클릭하여 편집기를 엽니다. 리치 미디어를 클릭한 다음 **리치 미디어의 예측 콘텐츠에 대해 사용** 상자를 선택하고 **저장**&#x200B;을 클릭합니다.
+1. 개별 제목을 활성화하려면 제목을 클릭하여 편집기를 엽니다. **[!UICONTROL Rich Media]**&#x200B;을(를) 클릭한 다음 **[!UICONTROL Enabled for Predictive Content in Rich Media]** 상자를 선택하고 **[!UICONTROL Save]**&#x200B;을(를) 클릭합니다.
 
    ![](assets/image2017-10-3-9-3a50-3a29.png)
 
-1. 여러 콘텐츠의 경우 **예측 콘텐츠** 페이지에서 제목 옆에 있는 상자를 선택합니다.
+1. 여러 콘텐츠의 경우 **[!UICONTROL Predictive Content]** 페이지에서 제목 옆에 있는 상자를 선택합니다.
 
    ![](assets/image2017-10-3-10-3a0-3a42.png)
 
-1. **콘텐츠 작업** 드롭다운을 클릭하고 **웹 리치 미디어에 사용**&#x200B;을 선택합니다.
+1. **[!UICONTROL Content Actions]** 드롭다운을 클릭하고 **[!UICONTROL Enable for Web Rich Media]**&#x200B;을(를) 선택합니다.
 
    ![](assets/image2017-10-3-10-3a2-3a6.png)|
 
 ## Javascript 코드 사용자 지정 및 웹 사이트에 포함  {#customize-the-javascript-code-and-embed-it-into-your-website}
 
-Marketo 개발자 사이트[&#128279;](https://experienceleague.adobe.com/ko/docs/marketo-developer/marketo/javascriptapi/rich-media-recommendation){target="_blank"}에서 리치 미디어 권장 사항 템플릿 에 대한 설명서를 참조하십시오. 웹 사이트에 맞게 템플릿을 사용자 지정하는 방법을 설명합니다.
+Marketo 개발자 사이트[에서 리치 미디어 권장 사항 템플릿 ](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/javascriptapi/rich-media-recommendation){target="_blank"}에 대한 설명서를 참조하십시오. 웹 사이트에 맞게 템플릿을 사용자 지정하는 방법을 설명합니다.
 
 템플릿을 표시할 위치에 JavaScript 코드를 웹 사이트에 붙여넣습니다.
 

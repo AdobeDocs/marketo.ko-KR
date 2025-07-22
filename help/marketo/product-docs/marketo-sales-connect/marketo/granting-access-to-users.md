@@ -3,24 +3,24 @@ description: 사용자에게 액세스 권한 부여 - Marketo 문서 - 제품 �
 title: 사용자에게 액세스 권한 부여
 exl-id: d9577401-7aa2-4ce1-bc4d-c0514d01d953
 feature: Marketo Sales Connect
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '198'
+source-wordcount: '186'
 ht-degree: 0%
 
 ---
 
 # 사용자에게 액세스 권한 부여 {#granting-access-to-users}
 
-이 문서의 단계에 따라 Sales Connect 사용자에게 Marketo 연결에 대한 액세스 권한을 부여합니다. 이렇게 하면 라이브 피드의 흥미로운 순간 및 마케팅 캠페인에 대한 액세스와 같은 기능이 잠금 해제됩니다.
+이 문서의 단계에 따라 [!DNL Sales Connect] 사용자에게 Marketo 연결에 대한 액세스 권한을 부여합니다. 이렇게 하면 라이브 피드의 흥미로운 순간 및 마케팅 캠페인에 대한 액세스와 같은 기능이 잠금 해제됩니다.
 
-Marketo 연결에 대한 액세스 권한이 부여된 Marketo > 팀 액세스 페이지(Sales Connect의)에 표시되기 전에 Sales Connect [여기](/help/marketo/product-docs/marketo-sales-connect/admin/invite-users.md)에 사용자를 초대해야 합니다.
+Marketo 연결에 대한 액세스 권한이 부여된 Marketo > [!DNL Sales Connect] 페이지([의)에 표시되기 전에 ](/help/marketo/product-docs/marketo-sales-connect/admin/invite-users.md) [!UICONTROL Team Access]여기[!DNL Sales Connect]에 사용자를 초대해야 합니다.
 
 >[!CAUTION]
 >
->이 단계를 수행하기 전에 Sales Connect와 Marketo에 연결한 후 10분 정도 기다리십시오.
+>이 단계를 수행하기 전에 Marketo으로 [!DNL Sales Connect]을(를) 연결한 후 10분 정도 기다려 주십시오.
 
-1. 사용자를 한 명 이상 선택한 다음 **연결**&#x200B;을 클릭합니다.
+1. 사용자를 한 명 이상 선택한 다음 **[!UICONTROL Connect]**&#x200B;을(를) 클릭합니다.
 
    >[!NOTE]
    >
@@ -32,7 +32,7 @@ Marketo 연결에 대한 액세스 권한이 부여된 Marketo > 팀 액세스 �
 
    ![](assets/granting-access-to-users-2.jpg)
 
-1. Workspace 드롭다운을 클릭하고 원하는 작업 영역을 선택한 다음 **연결**&#x200B;을 클릭합니다.
+1. Workspace 드롭다운을 클릭하고 원하는 작업 영역을 선택한 다음 **[!UICONTROL Connect]**&#x200B;을(를) 클릭합니다.
 
    ![](assets/granting-access-to-users-3.png)
 

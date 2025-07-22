@@ -4,18 +4,18 @@ description: 새 콘텐츠 추가 - Marketo 문서 - 제품 설명서
 title: 새 콘텐츠 추가
 exl-id: b2965b07-f43b-46fc-90cc-f5b0f1adba51
 feature: Predictive Content
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '86'
-ht-degree: 0%
+source-wordcount: '77'
+ht-degree: 1%
 
 ---
 
 # 새 콘텐츠 추가 {#add-new-content}
 
-모든 컨텐츠 페이지에 컨텐츠를 수동으로 추가할 수 있습니다.
+[!UICONTROL All Content] 페이지에 콘텐츠를 수동으로 추가할 수 있습니다.
 
-1. **콘텐츠 추가** 드롭다운을 클릭하고 **콘텐츠 추가**&#x200B;를 선택합니다.
+1. **[!UICONTROL Add Content]** 드롭다운을 클릭하고 **[!UICONTROL Add Content]**&#x200B;을(를) 선택합니다.
 
    ![](assets/image2017-10-3-8-3a54-3a9.png)
 
@@ -27,11 +27,11 @@ ht-degree: 0%
 
    ![](assets/add-new-content-categories-updated-hands.png)
 
-1. **추가**&#x200B;를 클릭합니다.
+1. **[!UICONTROL Add]**&#x200B;을(를) 클릭합니다.
 
    ![](assets/all-content-add-hand.png)
 
-1. 이제 새 제목이 **모든 콘텐츠** 페이지에 나타납니다. 아직 예측 콘텐츠에 대해 승인되지 않았습니다.
+1. 이제 새 제목이 **[!UICONTROL All Content]** 페이지에 나타납니다. 아직 예측 콘텐츠에 대해 승인되지 않았습니다.
 
    ![](assets/image2017-10-3-8-3a55-3a21.png)
 

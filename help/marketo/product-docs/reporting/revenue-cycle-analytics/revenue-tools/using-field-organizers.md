@@ -4,10 +4,10 @@ description: 필드 이끌이 사용 - Marketo 문서 - 제품 설명서
 title: 필드 이끌이 사용
 exl-id: 578969f7-9380-4019-9b86-85c659a216b3
 feature: Reporting, Revenue Cycle Analytics
-source-git-commit: d20a9bb584f69282eefae3704ce4be2179b29d0b
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '164'
-ht-degree: 0%
+source-wordcount: '155'
+ht-degree: 1%
 
 ---
 
@@ -25,23 +25,23 @@ ht-degree: 0%
 
 ## 필드 이끌이를 만드는 방법 {#how-to-create-field-organizers}
 
-1. **데이터베이스**&#x200B;를 클릭합니다.
+1. **[!UICONTROL Database]**&#x200B;을(를) 클릭합니다.
 
    ![](assets/db.png)
 
-1. **새로 만들기**&#x200B;에서 **새 필드 구성 도우미**&#x200B;를 선택합니다.
+1. **[!UICONTROL New]**&#x200B;에서 **[!UICONTROL New Field Organizer]**&#x200B;을(를) 선택합니다.
 
    ![](assets/two-1.png)
 
-1. **필드**&#x200B;에서 특성을 선택합니다. 설명은 선택 사항입니다.
+1. **[!UICONTROL Field]**&#x200B;에서 특성을 선택합니다. 설명은 선택 사항입니다.
 
    ![](assets/three-1.png)
 
-1. **만들기**&#x200B;를 클릭합니다.
+1. **[!UICONTROL Create]**&#x200B;을(를) 클릭합니다.
 
    ![](assets/image2015-9-3-16-3a36-3a31.png)
 
-1. 그룹 이름을 지정하고 적절한 데이터를 입력합니다(선택한 필드의 데이터 유형에 따라 다름). **그룹 추가**&#x200B;를 클릭합니다.
+1. 그룹 이름을 지정하고 적절한 데이터를 입력합니다(선택한 필드의 데이터 유형에 따라 다름). **[!UICONTROL Add Group]**&#x200B;을(를) 클릭합니다.
 
    ![](assets/image2015-9-3-16-3a40-3a45.png)
 

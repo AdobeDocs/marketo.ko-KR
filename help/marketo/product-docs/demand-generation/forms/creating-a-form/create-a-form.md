@@ -4,9 +4,9 @@ description: 양식 만들기 - Marketo 문서 - 제품 설명서
 title: 양식 만들기
 exl-id: ab0f2700-99e5-4ceb-b9df-80016f30fc85
 feature: Forms
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '122'
+source-wordcount: '113'
 ht-degree: 0%
 
 ---
@@ -19,7 +19,7 @@ ht-degree: 0%
 >
 >Marketo이 [양식을 안전하게 유지](https://nation.marketo.com/t5/Product-Documents/Forms-Service-Enhancements/ta-p/303670#M1038)하기 위해 수행하는 작업에 대해 알아봅니다.
 
-1. **마케팅 활동**(으)로 이동합니다.
+1. **[!UICONTROL Marketing Activities]**(으)로 이동합니다.
 
    ![](assets/login-marketing-activities.png)
 
@@ -27,15 +27,15 @@ ht-degree: 0%
 
    ![](assets/programseelct.png)
 
-1. **새로 만들기**&#x200B;에서 **새로 만들기** **로컬** **자산**&#x200B;을 클릭합니다.
+1. **[!UICONTROL New]**&#x200B;에서 **[!UICONTROL New Local Asset]**&#x200B;을(를) 클릭합니다.
 
    ![](assets/newlocalasset.png)
 
-1. **양식**&#x200B;을 선택하세요.
+1. **[!UICONTROL Form]**&#x200B;를 선택합니다.
 
    ![](assets/image2014-9-15-17-3a1-3a20.png)
 
-1. **이름** 양식을 입력하고 **만들기**&#x200B;를 클릭합니다.
+1. **[!UICONTROL Name]** 양식을 입력하고 **[!UICONTROL Create]**&#x200B;을(를) 클릭합니다.
 
    ![](assets/newformwithhands.png)
 

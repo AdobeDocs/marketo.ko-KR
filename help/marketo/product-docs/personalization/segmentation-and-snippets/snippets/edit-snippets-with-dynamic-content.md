@@ -4,9 +4,9 @@ description: 다이내믹 콘텐츠를 사용하여 코드 조각 편집 - Marke
 title: 다이내믹 콘텐츠를 사용하여 코드 조각 편집
 exl-id: 44fa65b0-bc3c-4b7f-90af-0af99da73337
 feature: Snippets
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '119'
+source-wordcount: '111'
 ht-degree: 0%
 
 ---
@@ -22,19 +22,19 @@ ht-degree: 0%
 
 ## 세분화 추가 {#add-segmentation}
 
-1. **디자인 스튜디오**(으)로 이동합니다.
+1. **[!UICONTROL Design Studio]**(으)로 이동합니다.
 
    ![](assets/designstudio-1.png)
 
-1. **코드 조각**&#x200B;을 클릭한 다음 **초안 편집**&#x200B;을 클릭합니다.
+1. **코드 조각**&#x200B;을 클릭한 다음 **[!UICONTROL Edit Draft]**&#x200B;을(를) 클릭합니다.
 
    ![](assets/image2014-9-16-8-3a59-3a14.png)
 
-1. **세그먼트별**&#x200B;을 클릭합니다.
+1. **[!UICONTROL Segment By]**&#x200B;을(를) 클릭합니다.
 
    ![](assets/image2014-9-16-8-3a59-3a27.png)
 
-1. **세그먼테이션**&#x200B;을 입력하고 **저장**&#x200B;을 클릭합니다.
+1. **[!UICONTROL Segmentation]**&#x200B;을(를) 입력하고 **[!UICONTROL Save]**&#x200B;을(를) 클릭합니다.
 
    ![](assets/image2014-9-16-8-3a59-3a42.png)
 

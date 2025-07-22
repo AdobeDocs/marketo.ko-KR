@@ -4,16 +4,16 @@ description: 이메일 인사이트 분석 개요 - Marketo 문서 - 제품 설�
 title: 이메일 통찰력 분석 개요
 exl-id: 370720f7-bbe1-4143-b2be-15854e1ffe55
 feature: Reporting
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '261'
+source-wordcount: '259'
 ht-degree: 0%
 
 ---
 
 # 이메일 통찰력 분석 개요 {#email-insights-analytics-overview}
 
-Analytics에서 이메일 게재 및 참여를 위한 집계 데이터를 살펴봅니다. 왼쪽의 차트를 사용하여 데이터를 탐색하고, 오른쪽의 통찰력을 사용하여 보다 안내된 경험을 확인하십시오.
+[!UICONTROL Analytics]에서 전자 메일 게재 및 참여를 위한 집계 데이터를 살펴보십시오. 왼쪽의 차트를 사용하여 데이터를 탐색하고, 오른쪽의 통찰력을 사용하여 보다 안내된 경험을 확인하십시오.
 
 ![](assets/emailanalytics-1.jpg)
 
@@ -55,7 +55,7 @@ Analytics에서 이메일 게재 및 참여를 위한 집계 데이터를 살펴
 
 >[!NOTE]
 >
->오른쪽 위에 새로 고침 보이시죠? 이 정보가 표시되면 수동으로 클릭하여 Insights 모듈을 새로 고쳐야 합니다. 현재 값을 무효화하는 필터를 변경한 경우에만 표시됩니다.
+>오른쪽 위에 있는 [!UICONTROL Refresh]을(를) 보았습니까? 이 정보가 표시되면 수동으로 클릭하여 Insights 모듈을 새로 고쳐야 합니다. 현재 값을 무효화하는 필터를 변경한 경우에만 표시됩니다.
 
 표시되는 항목(왼쪽에서 오른쪽)을 모두, 대상, 콘텐츠 및 플랫폼으로 지정할 수도 있습니다.
 

@@ -4,9 +4,9 @@ description: 하위 캠페인 만들기 및 로컬 Assets - Marketo 문서 - 제
 title: 하위 캠페인 및 로컬 Assets 만들기
 exl-id: 272105e1-43d6-455c-a533-aae65e859384
 feature: Events
-source-git-commit: e3f61755dccd9bea1378a429fc428b440fc3ecb4
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '665'
+source-wordcount: '650'
 ht-degree: 1%
 
 ---
@@ -73,25 +73,25 @@ Marketo을 사용하여 이벤트에 대한 확인 이메일을 보냅니다. �
 
 >[!NOTE]
 >
->Marketo이 아닌 랜딩 페이지에서 Marketo 양식을 사용하는 경우 트리거는 **양식 이름으로 양식 작성**&#x200B;됩니다.
+>Marketo이 아닌 랜딩 페이지에서 Marketo 양식을 사용하는 경우 트리거는 **[!UICONTROL Fills out Form]**&#x200B;을(를) 사용하여 [!UICONTROL Form Name]이(가) 됩니다.
 
 ![](assets/image2015-12-22-15-3a20-3a51.png)
 
 **흐름**
 
-* **프로그램 상태 변경** - 웨비나 -> 등록됨으로 설정.
+* **[!UICONTROL Change Program Status]** - 웨비나 -> 등록됨으로 설정합니다.
 
 이 흐름 단계는 하위 캠페인을 설정할 때 첫 번째 흐름 단계로 필요합니다. 개인의 프로그램 상태가 등록됨으로 변경되면 Marketo에서 등록 정보를 ON24로 푸시합니다. 다른 상태는 사용자를 밀어내지 않습니다.
 
-* **전자 메일 보내기** - 확인 전자 메일 등록된 구독 취소자가 계속 받을 수 있도록 이 전자 메일을 **Operational**(으)로 설정하십시오.
+* **[!UICONTROL Send Email]** - 확인 전자 메일. 등록된 구독 취소자가 계속 받을 수 있도록 이 전자 메일을 **Operational**(으)로 설정하십시오.
 
-**전자 메일 보내기** 흐름 단계는 두 번째 단계여야 합니다. 확인 이메일에는 ON24에서 Marketo으로 다시 전송된 정보로 채워진 `{{member.webinar url}}`이(가) 포함되어 있습니다.
+**[!UICONTROL Send Email]** 흐름 단계는 두 번째 단계여야 합니다. 확인 이메일에는 ON24에서 Marketo으로 다시 전송된 정보로 채워진 `{{member.webinar url}}`이(가) 포함되어 있습니다.
 
 ![](assets/image2015-12-22-15-3a29-3a50.png)
 
 >[!NOTE]
 >
->Marketo에서 작업이 수행되는 순서 때문에 이러한 흐름 단계의 순서가 중요합니다. **프로그램 상태 변경** 단계에서 ON24로 사람을 보내 등록하면 고유한 URL이 생성됩니다. 그런 다음 `{{member.webinar URL}}` 토큰을 사용하여 이 고유한 URL이 포함된 확인 전자 메일을 보낼 수 있습니다.
+>Marketo에서 작업이 수행되는 순서 때문에 이러한 흐름 단계의 순서가 중요합니다. **[!UICONTROL Change Program Status]** 단계에서 ON24로 사람을 보내 등록하면 고유한 URL이 생성됩니다. 그런 다음 `{{member.webinar URL}}` 토큰을 사용하여 이 고유한 URL이 포함된 확인 전자 메일을 보낼 수 있습니다.
 >
 >등록 오류가 있는 사람이 반환되면 이메일 확인을 받지 못합니다.
 

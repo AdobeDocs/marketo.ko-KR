@@ -4,10 +4,10 @@ description: 자유 형식 랜딩 페이지에 이미지 추가 - Marketo 문서
 title: 자유 형식 랜딩 페이지에 이미지 추가
 exl-id: 68b302e8-a2df-4bf3-9835-e92b36acce55
 feature: Landing Pages
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '73'
-ht-degree: 2%
+source-wordcount: '69'
+ht-degree: 4%
 
 ---
 
@@ -17,11 +17,11 @@ ht-degree: 2%
 >
 >[Marketo에 이미지 및 파일 추가](/help/marketo/product-docs/demand-generation/images-and-files/add-images-and-files-to-marketo.md)
 
-1. 자유 형식 랜딩 페이지를 선택하고 **편집** **초안**&#x200B;을 클릭합니다.
+1. 자유 형식의 랜딩 페이지를 선택하고 **[!UICONTROL Edit Draft]**&#x200B;을(를) 클릭합니다.
 
    ![](assets/landingpageeditdraft.jpg)
 
-1. 편집기에서 **Image** 요소 위로 끌어서 놓습니다.
+1. 편집기에서 **[!UICONTROL Image]** 요소 위로 끕니다.
 
    ![](assets/image2015-5-21-15-3a38-3a58.png)
 
@@ -29,7 +29,7 @@ ht-degree: 2%
 
    ![](assets/image2014-9-16-14-3a35-3a59.png)
 
-1. **삽입**&#x200B;을 클릭합니다.
+1. **[!UICONTROL Insert]**&#x200B;을(를) 클릭합니다.
 
    ![](assets/image2014-9-16-15-3a3-3a48.png)
 

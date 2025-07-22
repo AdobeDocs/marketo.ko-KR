@@ -5,20 +5,20 @@ hide: true
 hidefromtoc: true
 exl-id: 3d172daa-745d-44f9-8460-40866d0247a1
 feature: Sales Insight Actions
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '288'
+source-wordcount: '283'
 ht-degree: 0%
 
 ---
 
 # 개인 세부 사항 보기 {#person-detail-view}
 
-개인 세부 정보 보기는 Marketo 판매 계정의 각 사용자에 대한 세부 프로필을 제공합니다.
+개인 세부 정보 보기는 [!DNL Marketo Sales] 계정의 각 사용자에 대한 자세한 프로필을 제공합니다.
 
 ## 액세스 방법 {#how-to-access}
 
-1. 개인 세부 정보 보기에 액세스하려면 **사람** 탭을 클릭하십시오.
+1. 개인 세부 정보 보기에 액세스하려면 **[!UICONTROL People]** 탭을 클릭하십시오.
 
    ![](assets/person-detail-view-1.png)
 
@@ -46,8 +46,8 @@ ht-degree: 0%
 
 **계정 정보**
 
-* Salesforce에 사용자를 추가할 수 있음
-* Salesforce에서 계정 및 리드/연락처 정보 가져오기
+* [!DNL Salesforce]에 사용자를 추가할 수 있음
+* [!DNL Salesforce]에서 계정 및 리드/연락처 정보 가져오기
 
 **사용자 지정 필드**
 
@@ -57,7 +57,7 @@ ht-degree: 0%
 
 * 텍스트
 
-**메모**
+**참고**
 
 * 사용자 정의 메모 만들기
 

@@ -4,9 +4,9 @@ description: 작성 창에서 템플릿 사용 - Marketo 문서 - 제품 설명�
 title: 작성 창에서 템플릿 사용
 exl-id: 585254fc-54f6-4902-a3aa-6e415195c96d
 feature: Marketo Sales Connect
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '234'
+source-wordcount: '224'
 ht-degree: 0%
 
 ---
@@ -15,11 +15,11 @@ ht-degree: 0%
 
 ## 템플릿 찾기 및 사용 {#finding-and-using-templates}
 
-1. 전자 메일 초안을 만듭니다. 이 방법에는 여러 가지가 있습니다. 이 예제에서는 헤더에서 **작성**&#x200B;을 선택합니다.
+1. 전자 메일 초안을 만듭니다. 여러 가지 방법으로 만들 수 있습니다. 이 예제에서는 헤더에서 **[!UICONTROL Compose]**&#x200B;을(를) 선택합니다.
 
    ![](assets/one-6.png)
 
-1. To 필드를 채웁니다.
+1. [!UICONTROL To] 필드를 채웁니다.
 
    ![](assets/searching-two.png)
 
@@ -43,19 +43,19 @@ ht-degree: 0%
 
 가장 많이 사용하는 템플릿에 빠르게 액세스할 수 있도록 **최대 5개의** 특정 템플릿 범주를 즐겨찾기에 추가합니다.
 
-1. 전자 메일 초안을 만듭니다. 이 방법에는 여러 가지가 있습니다. 이 예제에서는 헤더에서 **작성**&#x200B;을 선택합니다.
+1. 전자 메일 초안을 만듭니다. 여러 가지 방법으로 만들 수 있습니다. 이 예제에서는 헤더에서 **[!UICONTROL Compose]**&#x200B;을(를) 선택합니다.
 
    ![](assets/one-6.png)
 
-1. 즐겨찾기 옆에 있는 **+** 아이콘을 클릭합니다.
+1. **옆에 있는**+[!UICONTROL Favorites] 아이콘을 클릭합니다.
 
    ![](assets/pinning-two.png)
 
-1. **범주 고정** 드롭다운을 클릭하고 원하는 범주를 선택합니다.
+1. **[!UICONTROL Pin a Category]** 드롭다운을 클릭하고 원하는 범주를 선택합니다.
 
    ![](assets/pinning-three.png)
 
-1. 완료되면 **변경 내용 저장**&#x200B;을 클릭합니다(선택 사항: 3단계를 반복하여 추가).
+1. 완료되면 **[!UICONTROL Save Changes]**&#x200B;을(를) 클릭합니다(선택 사항: 3단계를 반복하여 추가).
 
    ![](assets/pinning-four.png)
 
@@ -67,6 +67,6 @@ ht-degree: 0%
 
    >[!NOTE]
    >
-   >기본적으로 **즐겨찾기**&#x200B;가 있습니다. 범주가 아닌 즐겨 찾는 이메일 템플릿을 보유하고 있습니다.
+   >기본적으로 **[!UICONTROL Favorites]**&#x200B;이(가) 있습니다. 범주가 아닌 즐겨 찾는 이메일 템플릿을 보유하고 있습니다.
 
    선택한 카테고리가 고정되었습니다.

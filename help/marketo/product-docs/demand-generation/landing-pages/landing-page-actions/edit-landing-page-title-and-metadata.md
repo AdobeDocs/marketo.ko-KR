@@ -4,10 +4,10 @@ description: 랜딩 페이지 제목 및 메타데이터 편집 - Marketo 문서
 title: 랜딩 페이지 제목 및 메타데이터 편집
 exl-id: dc31eeee-fd96-4721-b346-c3cde0383fea
 feature: Landing Pages
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '130'
-ht-degree: 1%
+source-wordcount: '116'
+ht-degree: 0%
 
 ---
 
@@ -15,7 +15,7 @@ ht-degree: 1%
 
 Marketo을 사용하면 랜딩 페이지 [SEO 목적의 메타 태그](https://www.w3schools.com/tags/tag_meta.asp)를 편집하고 HTML의 `<head>` 부분을 사용자 지정할 수 있습니다.
 
-1. 랜딩 페이지를 선택하고 **초안 편집**&#x200B;을 클릭합니다.
+1. 랜딩 페이지를 선택하고 **[!UICONTROL Edit Draft]**&#x200B;을(를) 클릭합니다.
 
    ![](assets/image2014-9-17-11-3a39-3a21.png)
 
@@ -23,11 +23,11 @@ Marketo을 사용하면 랜딩 페이지 [SEO 목적의 메타 태그](https://w
    >
    >랜딩 페이지 디자이너가 새 창에 열립니다.
 
-1. **랜딩 페이지 작업**&#x200B;에서 **페이지 메타 태그 편집**&#x200B;을 클릭합니다.
+1. **[!UICONTROL Landing Page Actions]**&#x200B;에서 **[!UICONTROL Edit Page Meta Tags]**&#x200B;을(를) 클릭합니다.
 
    ![](assets/image2014-9-17-11-3a39-3a32.png)
 
-1. 페이지의 **제목**, **키워드** 및 **설명**&#x200B;을 입력하십시오. 원하는 **로봇** 옵션을 선택하고 HTML `<head>` 섹션에 원하는 사용자 지정 콘텐츠를 입력합니다. **저장**&#x200B;을 클릭합니다.
+1. 페이지의 **[!UICONTROL Title]**, **[!UICONTROL Keywords]** 및 **[!UICONTROL Description]**&#x200B;을(를) 입력하십시오. 원하는 **[!UICONTROL Robots]** 옵션을 선택하고 HTML `<head>` 섹션에 대해 원하는 사용자 지정 콘텐츠를 입력합니다. **[!UICONTROL Save]**&#x200B;을(를) 클릭합니다.
 
    ![](assets/image2014-9-17-11-3a39-3a50.png)
 

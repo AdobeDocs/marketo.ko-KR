@@ -4,24 +4,24 @@ description: 내 보고서 및 그룹 보고서 이해 - Marketo 문서 - 제품
 title: 내 보고서 및 그룹 보고서 이해
 exl-id: 03bfee67-e39c-4664-9b36-39e3e3f29077
 feature: Reporting
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '71'
+source-wordcount: '59'
 ht-degree: 0%
 
 ---
 
 # 내 보고서 및 그룹 보고서 이해 {#understanding-my-reports-and-group-reports}
 
-[Analytics 홈](/help/marketo/product-docs/reporting/basic-reporting/creating-reports/navigating-the-analytics-home-page.md)에서 **내 보고서** 및 **그룹 보고서**&#x200B;를 만들 수 있습니다.
+**[!UICONTROL My Reports]** Analytics 홈&#x200B;**[!UICONTROL Group Reports]**&#x200B;에서 [ 및 ](/help/marketo/product-docs/reporting/basic-reporting/creating-reports/navigating-the-analytics-home-page.md)을(를) 만들 수 있습니다.
 
-**내 보고서**&#x200B;은(는) 귀하에게만 표시됩니다.
+**[!UICONTROL My Reports]**&#x200B;은(는) 귀하에게만 표시됩니다.
 
-**그룹 보고서**&#x200B;는 해당 작업 영역의 모든 사용자가 볼 수 있습니다.
+**[!UICONTROL Group Reports]**&#x200B;은(는) 해당 작업 영역의 모든 사용자가 볼 수 있습니다.
 
 >[!NOTE]
 >
->각 작업 공간에는 **내 보고서** 및 **그룹 보고서** 집합이 있습니다.
+>각 작업 영역에는 **[!UICONTROL My Reports]** 및 **[!UICONTROL Group Reports]** 집합이 있습니다.
 
 ![](assets/image2015-4-21-14-3a41-3a22.png)
 

@@ -4,10 +4,10 @@ description: 프로그램 수준에서 Analytics 동작 재정의 - Marketo 문�
 title: 프로그램 수준에서 Analytics 동작 재정의
 exl-id: 2fd86279-99ae-494d-a6f8-2572b7dcd892
 feature: Reporting, Revenue Cycle Analytics
-source-git-commit: d20a9bb584f69282eefae3704ce4be2179b29d0b
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '192'
-ht-degree: 1%
+source-wordcount: '184'
+ht-degree: 0%
 
 ---
 
@@ -15,7 +15,7 @@ ht-degree: 1%
 
 [analytics 동작을 채널](/help/marketo/product-docs/reporting/revenue-cycle-analytics/program-analytics/make-a-program-without-a-period-cost-available-in-revenue-explorer-and-analyzers.md)의 관리자 수준에서 설정할 수 있지만 프로그램 수준에서 재정의할 수도 있습니다. 방법은 다음과 같습니다.
 
-1. **마케팅 활동** 영역으로 이동합니다.
+1. **[!UICONTROL Marketing Activities]** 영역으로 이동합니다.
 
    ![](assets/image2014-9-24-11-3a40-3a46.png)
 
@@ -23,11 +23,11 @@ ht-degree: 1%
 
    ![](assets/image2014-9-24-11-3a40-3a57.png)
 
-1. **설정** 탭에서 Analytics 동작을 캔버스로 드래그합니다.
+1. **[!UICONTROL Setup]** 탭에서 [!UICONTROL Analytics Behavior]을(를) 캔버스로 드래그합니다.
 
    ![](assets/image2014-9-24-11-3a41-3a2.png)
 
-1. 원하는 Analytics 동작을 선택합니다.
+1. 원하는 [!UICONTROL Analytics Behavior]을(를) 선택하십시오.
 
    >[!NOTE]
    >
@@ -42,7 +42,7 @@ ht-degree: 1%
 
    ![](assets/image2014-9-24-11-3a42-3a0.png)
 
-1. **저장**&#x200B;을 클릭합니다.
+1. **[!UICONTROL Save]**&#x200B;을(를) 클릭합니다.
 
    ![](assets/image2014-9-24-11-3a42-3a6.png)
 

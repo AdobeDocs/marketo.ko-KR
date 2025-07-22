@@ -1,23 +1,23 @@
 ---
 unique-page-id: 2949863
-description: Webex - Marketo 문서 - 제품 설명서를 사용하여 이벤트 만들기
-title: Webex를 사용하여 이벤트 만들기
+description: ' [!DNL Webex] - Marketo 문서 - 제품 설명서를 사용하여 이벤트 만들기'
+title: ' [!DNL Webex](으)로 이벤트 만들기'
 exl-id: 25266a6b-3951-46d1-8700-b36d7086ad2c
 feature: Events
-source-git-commit: 7edce24c2199a6a2eaa119d3ef77543bbd97999c
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '626'
+source-wordcount: '628'
 ht-degree: 0%
 
 ---
 
-# Webex를 사용하여 이벤트 만들기 {#create-an-event-with-webex}
+# [!DNL Webex]&#x200B;(으)로 이벤트 만들기 {#create-an-event-with-webex}
 
 Webex에서 웨비나를 만든 후에는 이벤트를 Marketo Engage과 동기화해야 합니다.
 
 >[!PREREQUISITES]
 >
->* [LaunchPoint 서비스로 Webex 추가](/help/marketo/product-docs/administration/additional-integrations/add-webex-as-a-launchpoint-service.md)
+>* [추가 [!DNL Webex] as a [!DNL LaunchPoint] 서비스](/help/marketo/product-docs/administration/additional-integrations/add-webex-as-a-launchpoint-service.md)
 >* [새 이벤트 프로그램 만들기](/help/marketo/product-docs/demand-generation/events/understanding-events/create-a-new-event-program.md)
 >* 참여를 추적하려면 적절한 [흐름 동작](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/add-a-flow-step-to-a-smart-campaign.md)을 설정하십시오.
 
@@ -27,8 +27,8 @@ Webex에서 웨비나를 만든 후에는 이벤트를 Marketo Engage과 동기�
 
 ### 기본 정보 {#basic-information}
 
-![](assets/create-an-event-with-webex-1.png)
-
+* **[!UICONTROL Event Name]-** 이 이름은 Marketo에서 볼 수 있습니다.
+* **[!UICONTROL Unlisted Checkbox]**
 * **항목**: 사용자의 이벤트 이름이며 Marketo에서 볼 수 있습니다.
 * **날짜 및 시간**: 시작/종료 날짜, 시작/종료 시간, 기간 및 시간대는 모두 Marketo에서 볼 수 있습니다.
 * **최대 참석자 수**: 최대 참석자 수에 따라 지원되는 Webex 기능이 결정됩니다.

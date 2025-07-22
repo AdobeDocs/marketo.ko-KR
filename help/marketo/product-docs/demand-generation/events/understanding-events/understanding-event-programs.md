@@ -4,10 +4,10 @@ description: 이벤트 프로그램 이해 - Marketo 문서 - 제품 설명서
 title: 이벤트 프로그램 이해
 exl-id: 7d62accd-ab2f-46f7-998e-9145c4c11cbc
 feature: Events
-source-git-commit: 2671f81f62658447e4b2a3dc2e02a4e0927443e8
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '98'
-ht-degree: 1%
+source-wordcount: '97'
+ht-degree: 3%
 
 ---
 
@@ -15,7 +15,7 @@ ht-degree: 1%
 
 >[!AVAILABILITY]
 >
->일부 Marketo Engage 사용자가 이 기능을 구입한 것은 아닙니다. 자세한 내용은 Adobe 계정 팀(계정 관리자)에 문의하십시오.
+>모든 Marketo Engage 사용자가 이 기능을 구입한 것은 아닙니다. 자세한 내용은 Adobe 계정 팀(계정 관리자)에 문의하십시오.
 
 ## 개요 {#overview}
 
@@ -36,4 +36,4 @@ ht-degree: 1%
 >
 >* [새 이벤트 프로그램 만들기](/help/marketo/product-docs/demand-generation/events/understanding-events/create-a-new-event-program.md)
 >
->* [LaunchPoint 이벤트 파트너](/help/marketo/product-docs/demand-generation/events/understanding-events/event-partners.md)
+>* [[!DNL LaunchPoint] 이벤트 파트너](/help/marketo/product-docs/demand-generation/events/understanding-events/event-partners.md)

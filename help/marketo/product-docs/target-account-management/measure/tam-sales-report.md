@@ -4,10 +4,10 @@ description: TAM 영업 보고서 - Marketo 설명서 - 제품 설명서
 title: TAM 영업 보고서
 exl-id: db4680df-74fd-41a4-9e9c-bf405da97bf0
 feature: Target Account Management
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
 source-wordcount: '126'
-ht-degree: 0%
+ht-degree: 1%
 
 ---
 
@@ -33,28 +33,28 @@ ht-degree: 0%
 <table> 
  <tbody> 
   <tr> 
-   <td><strong>계정 스코어</strong></td> 
+   <td><strong><span class="uicontrol">계정 스코어</span></strong></td> 
    <td> 
     <div>
       계정 점수별 주별 트렌드(설정에서 선택됨), 현재 계정 점수 뒤 
     </div></td> 
   </tr> 
   <tr> 
-   <td><strong>영업 파이프라인</strong></td> 
+   <td><strong><span class="uicontrol">영업 파이프라인</span></strong></td> 
    <td> 
     <div>
       파이프라인별 주간 트렌드, 총 현재 파이프라인 및 오픈 기회 수 순 
     </div></td> 
   </tr> 
   <tr> 
-   <td><strong>페이지 보기 수</strong></td> 
+   <td><strong><span class="uicontrol">페이지 보기 횟수</span></strong></td> 
    <td> 
     <div>
       주간 페이지 보기 트렌드, 총 페이지 보기 횟수 및 고유 방문자 수 
     </div></td> 
   </tr> 
   <tr> 
-   <td><strong>즐거운 순간</strong></td> 
+   <td><strong><span class="uicontrol">즐거운 순간</span></strong></td> 
    <td> 
     <div>
       일주일 동안 발생한 총 관심 순간 수 

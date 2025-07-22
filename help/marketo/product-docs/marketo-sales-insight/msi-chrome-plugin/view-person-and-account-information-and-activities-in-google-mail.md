@@ -4,9 +4,9 @@ description: Google Mail - Marketo 문서 - 제품 설명서에서 개인 및 �
 title: Google Mail에서 개인 및 계정 정보 및 활동 보기
 exl-id: 06bfd7ce-d60a-42de-a349-0a4b4ef72db5
 feature: Marketo Sales Insights
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '297'
+source-wordcount: '291'
 ht-degree: 0%
 
 ---
@@ -23,7 +23,7 @@ ht-degree: 0%
 
 ![](assets/1.png)
 
-계정 활동 탭에는 회사 이름, 웹 사이트 URL 및 위치와 같은 관련 계정 정보가 표시됩니다. 탭에는 가장 최근 계정 활동도 표시됩니다. 계정은 개인 도메인에 의해 식별됩니다. 구독 내 Sales Insight 사용자가 목록에 대응한 경우 활동이 표시됩니다.
+계정 활동 탭에는 회사 이름, 웹 사이트 URL 및 위치와 같은 관련 계정 정보가 표시됩니다. 탭에는 가장 최근 계정 활동도 표시됩니다. 계정은 개인 도메인에 의해 식별됩니다. 구독에서 어떤 Sales Insight 사용자와도 일치한 적이 있는 경우 활동이 목록에 표시됩니다.
 
 ![](assets/2.png)
 
@@ -39,9 +39,9 @@ Marketo 아이콘을 클릭하여 창을 확장합니다.
 
 ![](assets/image2015-10-6-15-3a43-3a22.png)
 
-## Google Chrome에서 활동 보기 {#view-activities-in-google-chrome}
+## [!DNL Google Chrome]에서 활동 보기 {#view-activities-in-google-chrome}
 
-또한 Google Chrome의 전역 활동 창을 사용하여 최근에 서명한 모든 사람에 대해 발생한 가장 최근 활동의 전체 목록을 볼 수 있습니다. 읽지 않은 활동 수를 아이콘에 계속 표시하는 실시간 업데이트 피드입니다.
+[!DNL Google Chrome]의 전역 활동 창을 사용하여 최근에 서명한 모든 사용자에 대해 발생한 가장 최근 활동의 전체 목록을 볼 수도 있습니다. 읽지 않은 활동 수를 아이콘에 계속 표시하는 실시간 업데이트 피드입니다.
 
 Marketo 아이콘을 클릭하여 창을 엽니다.
 
@@ -49,4 +49,4 @@ Marketo 아이콘을 클릭하여 창을 엽니다.
 
 >[!MORELIKETHIS]
 >
->[Google Chrome용 Marketo Insights 사용](/help/marketo/product-docs/marketo-sales-insight/msi-chrome-plugin/using-marketo-insights-for-google-chrome.md)
+>[다음 사용자에 대해 Marketo Insights 사용 [!DNL Google Chrome]](/help/marketo/product-docs/marketo-sales-insight/msi-chrome-plugin/using-marketo-insights-for-google-chrome.md)

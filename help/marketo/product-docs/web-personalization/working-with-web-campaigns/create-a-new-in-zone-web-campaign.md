@@ -4,9 +4,9 @@ description: 새 In Zone Web Campaign 만들기 - Marketo 문서 - 제품 설명
 title: Zone Web Campaign에서 새로운 기능 만들기
 exl-id: 5cbe80a2-5e20-4e35-a722-b4cb479b4df7
 feature: Web Personalization
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '693'
+source-wordcount: '673'
 ht-degree: 0%
 
 ---
@@ -17,15 +17,15 @@ ht-degree: 0%
 
 ## In Zone 웹 캠페인 만들기 {#create-an-in-zone-web-campaign}
 
-1. **웹 캠페인**(으)로 이동합니다.
+1. **[!UICONTROL Web Campaigns]**(으)로 이동합니다.
 
    ![](assets/image2016-8-18-15-3a54-3a21.png)
 
-1. **새 웹 캠페인 만들기를 선택하십시오.**
+1. **[!UICONTROL Create New Web Campaign].** 선택
 
    ![](assets/create-new-web-campaign-hand.png)
 
-1. **영역** 캠페인 유형을 선택하십시오. **영역 ID를 사용자 지정하고 추가하십시오.** 캠페인을 **고정**(으)로 설정하고 편집기에 크리에이티브를 추가합니다. 미리 볼 페이지의 URL을 추가하고 **미리 보기**&#x200B;를 클릭하여 캠페인이 사이트에서 어떻게 반응하는지 확인합니다.
+1. **[!UICONTROL In Zone]** 캠페인 유형을 선택하십시오. **[!UICONTROL Zone id]을(를) 사용자 지정하고 추가하십시오.** 캠페인을 **[!UICONTROL Sticky]**(으)로 설정하고 편집기에 크리에이티브를 추가합니다. 미리 볼 페이지의 URL을 추가하고 **[!UICONTROL Preview]**&#x200B;을(를) 클릭하여 캠페인이 사이트에서 어떻게 반응하는지 확인합니다.
 
    ![](assets/new-3-1.png)
 
@@ -33,7 +33,7 @@ ht-degree: 0%
    >
    >**영역 ID란?**
    >
-   >Zone ID 는 &quot;In Zone&quot; 웹 캠페인이 온사이트에서 위치하도록 하려는 위치입니다. &quot;영역 ID&quot;를 찾으려면 웹 사이트로 이동하여 웹 캠페인으로 바꿀 영역을 선택하고 마우스 오른쪽 버튼을 클릭하면 됩니다. Chrome에서 옵션은 &quot;Inspect Element&quot;이고, 다른 브라우저에서는 옵션이 다를 수 있습니다.
+   >Zone ID는 &quot;[!UICONTROL In Zone]&quot; 웹 캠페인이 온사이트에 있는 위치입니다. &quot;[!UICONTROL Zone ID]&quot;을(를) 찾으려면 웹 사이트로 이동하여 웹 캠페인으로 바꿀 영역을 선택하고 마우스 오른쪽 단추를 클릭하면 됩니다. Chrome에서 옵션은 &quot;요소 검사&quot;이고, 다른 브라우저에서는 다를 수 있습니다.
    >
    >그런 다음 해당 요소를 검사하고 있으므로 강조 표시된 웹 사이트의 이 섹션과 연결된 &quot;id&quot;를 찾으려고 합니다. 예를 들어 Chrome을 마우스 오른쪽 단추로 클릭하면 강조 표시된 텍스트에 `<div id="featured-slider">`이(가) 표시되면 &quot;featured-slider&quot;가 &quot;영역 id&quot; 섹션에 입력해야 하는 것입니다. 일반적으로 &quot;div id&quot;가 사용되지만 h1 id, p id 등과 같은 모든 ID도 사용할 수 있습니다.
 
@@ -98,7 +98,7 @@ ht-degree: 0%
 
 ## 웹 캠페인 미리 보기 {#preview-a-web-campaign}
 
-1. 웹 캠페인 페이지에서 보려는 웹 캠페인의 **미리 보기**&#x200B;를 클릭합니다.
+1. [!UICONTROL Web Campaigns] 페이지에서 보려는 웹 캠페인의 **[!UICONTROL Preview]**&#x200B;을(를) 클릭합니다.
 
    ![](assets/in-zone-web-campaign-preview.png)
 
@@ -108,7 +108,7 @@ ht-degree: 0%
 
 ## 웹 캠페인 삭제 {#delete-a-web-campaign}
 
-1. 웹 캠페인 페이지에서 삭제할 캠페인에 대한 **삭제**&#x200B;를 클릭합니다.
+1. 웹 캠페인 페이지에서 삭제할 캠페인의 **[!UICONTROL Delete]**&#x200B;을(를) 클릭합니다.
 
    ![](assets/in-zone-web-campaign-delete.png)
 

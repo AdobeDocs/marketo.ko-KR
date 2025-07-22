@@ -4,9 +4,9 @@ description: 이메일에 코드 조각 추가 - Marketo 문서 - 제품 설명�
 title: 이메일에 코드 조각 추가
 exl-id: 609130a7-c309-4f9d-99bc-c752047ce0f4
 feature: Email Editor
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '152'
+source-wordcount: '146'
 ht-degree: 0%
 
 ---
@@ -21,17 +21,17 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->[Marketo 전자 메일 구문](/help/marketo/product-docs/email-marketing/general/email-editor-2/email-template-syntax.md)을 스니펫에 포함할 수 없습니다. 전자 메일에는 **사용할 수 없습니다**. 스니펫은 본문 콘텐츠(HTML + 텍스트)여야 합니다.
+>[Marketo 전자 메일 구문](/help/marketo/product-docs/email-marketing/general/email-editor-2/email-template-syntax.md)을 스니펫에 포함할 수 없습니다. 전자 메일에는 **사용할 수 없습니다**. 스니펫은 본문 콘텐츠여야 합니다(HTML + TEXT).
 
-1. 전자 메일을 찾아 선택하고 **초안 편집**&#x200B;을 클릭합니다.
+1. 전자 메일을 찾아 선택하고 **[!UICONTROL Edit Draft]**&#x200B;을(를) 클릭합니다.
 
    ![](assets/one-2.png)
 
-1. 코드 조각으로 변환할 편집 가능한 영역을 선택하고 톱니바퀴 아이콘을 클릭한 다음 **코드 조각으로 바꾸기**&#x200B;를 선택합니다.
+1. 코드 조각으로 변환할 편집 가능한 영역을 선택하고 톱니바퀴 아이콘을 클릭한 다음 **[!UICONTROL Replace with Snippet]**&#x200B;을(를) 선택합니다.
 
    ![](assets/two-2.png)
 
-1. 원하는 코드 조각을 선택하고 **저장**&#x200B;을 클릭합니다.
+1. 원하는 코드 조각을 선택하고 **[!UICONTROL Save]**&#x200B;을(를) 클릭합니다.
 
    ![](assets/three-1.png)
 

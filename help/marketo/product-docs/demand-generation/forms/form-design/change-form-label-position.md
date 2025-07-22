@@ -4,10 +4,10 @@ description: 양식 레이블 위치 변경 - Marketo 문서 - 제품 설명서
 title: 양식 레이블 위치 변경
 exl-id: b4291454-f6f8-4800-b806-6ea56d6f83cd
 feature: Forms
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '125'
-ht-degree: 0%
+source-wordcount: '112'
+ht-degree: 2%
 
 ---
 
@@ -15,32 +15,32 @@ ht-degree: 0%
 
 [양식을 만들](/help/marketo/product-docs/demand-generation/forms/creating-a-form/create-a-form.md)때 양식 필드 레이블의 위치를 매우 쉽게 변경할 수 있습니다. 방법은 다음과 같습니다.
 
-1. **마케팅 활동**(으)로 이동합니다.
+1. **[!UICONTROL Marketing Activities]**(으)로 이동합니다.
 
    ![](assets/login-marketing-activities-2.png)
 
-1. 양식을 선택하고 **양식 편집**&#x200B;을 클릭합니다.
+1. 양식을 선택하고 **[!UICONTROL Edit Form]**&#x200B;을(를) 클릭합니다.
 
    ![](assets/image2014-9-15-16-3a16-3a9.png)
 
-1. **설정**&#x200B;을 선택하세요.
+1. **[!UICONTROL Settings]**&#x200B;를 선택합니다.
 
    ![](assets/image2014-9-15-16-3a16-3a26.png)
 
-1. 원하는 **레이블 위치**&#x200B;를 선택하십시오.
+1. 원하는 **[!UICONTROL Label Position]**&#x200B;을(를) 선택하십시오.
 
    ![](assets/image2014-9-15-16-3a16-3a39.png)
 
    현재 다음 두 가지 옵션이 있습니다.
 
-   * 왼쪽(기본값)
-   * 위
+   * [!UICONTROL Left]&#x200B;(기본값)
+   * [!UICONTROL Above]
 
-1. **마침**&#x200B;을 클릭합니다.
+1. **[!UICONTROL Finish]**&#x200B;을(를) 클릭합니다.
 
    ![](assets/image2014-9-15-16-3a16-3a49.png)
 
-1. **승인 및 닫기**&#x200B;를 클릭합니다.
+1. **[!UICONTROL Approve and Close]**&#x200B;을(를) 클릭합니다.
 
    >[!NOTE]
    >

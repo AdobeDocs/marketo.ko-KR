@@ -4,16 +4,16 @@ description: 1단계/3단계 - Marketo 솔루션 설치(2011 온프레미스) - 
 title: 1/3단계 - Marketo 솔루션 설치(2011 온프레미스)
 exl-id: 6e559b10-5273-4dc2-b98d-49c509cbeff7
 feature: Microsoft Dynamics
-source-git-commit: e3f61755dccd9bea1378a429fc428b440fc3ecb4
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '269'
+source-wordcount: '253'
 ht-degree: 1%
 
 ---
 
 # 1단계/3단계: Marketo 솔루션 설치(2011 온프레미스) {#step-of-install-the-marketo-solution-on-premises}
 
-Microsoft Dynamics 온-프레미스와 Marketo Engage을 동기화하려면 먼저 Dynamics에 Marketo 솔루션을 설치해야 합니다.
+[!DNL Microsoft Dynamics] 온-프레미스와 Marketo을 동기화하려면 먼저 [!DNL Dynamics]에 Marketo 솔루션을 설치해야 합니다.
 
 >[!NOTE]
 >
@@ -21,17 +21,17 @@ Microsoft Dynamics 온-프레미스와 Marketo Engage을 동기화하려면 먼�
 
 >[!PREREQUISITES]
 >
->ADFS(Active Directory Federation Services)가 [Active Directory Federation Services](https://msdn.microsoft.com/en-us/library/bb897402.aspx){target="_blank"} 2.0, 2.1 또는 3.0을 구성한 IFD(인터넷 연결 배포)가 [있어야 합니다. ](https://learn.microsoft.com/en-us/dynamics365/customerengagement/on-premises/deploy/configure-an-internet-facing-deployment){target="_blank"} **참고**: 링크를 클릭하면 IFD 문서가 자동으로 다운로드됩니다.
+>ADFS(Active Directory Federation Services)가 [Active Directory Federation Services](https://learn.microsoft.com/en-us/dynamics365/customerengagement/on-premises/deploy/configure-an-internet-facing-deployment){target="_blank"} 2.0, 2.1 또는 3.0을 구성한 IFD(인터넷 연결 배포)가 [있어야 합니다. ](https://msdn.microsoft.com/en-us/library/bb897402.aspx){target="_blank"} **참고**: 링크를 클릭하면 IFD 문서가 자동으로 다운로드됩니다.
 >
 >시작하기 전에 [Marketo 리드 관리 솔루션을 다운로드하십시오](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/download-the-marketo-lead-management-solution.md){target="_blank"}.
 
 >[!NOTE]
 >
->**Dynamics 관리자 권한이 필요합니다**.
+>**[!DNL Dynamics]관리자 권한이 필요합니다.**
 >
 >이 동기화를 수행하려면 CRM 관리자 권한이 필요합니다.
 
-1. Dynamics에 로그인하고 왼쪽 아래 메뉴에서 **[!UICONTROL Settings]**&#x200B;을(를) 선택합니다.
+1. **[!DNL Dynamics]**&#x200B;에 로그인하고 왼쪽 아래 메뉴에서 **[!UICONTROL Settings]**&#x200B;을(를) 선택합니다.
 
    ![](assets/image2015-4-2-11-3a32-3a53.png)
 
@@ -43,7 +43,7 @@ Microsoft Dynamics 온-프레미스와 Marketo Engage을 동기화하려면 먼�
 
    ![](assets/image2015-4-2-11-3a37-3a33.png)
 
-1. **[!UICONTROL Browse]**&#x200B;을(를) 클릭합니다. [다운로드한](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/download-the-marketo-lead-management-solution.md){target="_blank"}Marketo 리드 관리 솔루션을 선택합니다. **[!UICONTROL Next]**&#x200B;을(를) 클릭합니다.
+1. **[!UICONTROL Browse]**&#x200B;을(를) 클릭합니다. [다운로드한](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/download-the-marketo-lead-management-solution.md)Marketo 리드 관리 솔루션을 선택합니다. **[!UICONTROL Next]**&#x200B;을(를) 클릭합니다.
 
    ![](assets/image2015-4-2-11-3a40-3a33.png)
 
@@ -79,11 +79,11 @@ Microsoft Dynamics 온-프레미스와 Marketo Engage을 동기화하려면 먼�
 
    ![](assets/image2015-4-2-11-3a44-3a44.png)
 
-1. 이제 Marketo Lead Management가 **모든 솔루션** 페이지에 표시됩니다.
+1. 이제 [!UICONTROL Marketo Lead Management]이(가) **[!UICONTROL All Solutions]** 페이지에 나타납니다.
 
    ![](assets/image2015-4-2-11-3a46-3a55.png)
 
-1. Marketo 리드 관리를 선택하고 **[!UICONTROL Publish All Customizations]**&#x200B;을(를) 클릭합니다.
+1. [!UICONTROL Marketo Lead Management]을(를) 선택하고 **[!UICONTROL Publish All Customizations]**&#x200B;을(를) 클릭합니다.
 
    ![](assets/image2015-4-2-11-3a48-3a21.png)
 
@@ -93,4 +93,4 @@ Microsoft Dynamics 온-프레미스와 Marketo Engage을 동기화하려면 먼�
 
 >[!MORELIKETHIS]
 >
->[2단계/3단계: Dynamics에서 Marketo 동기화 사용자 설정(2011 온-프레미스)](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/connecting-to-legacy-versions/step-2-of-3-set-up-2011.md){target="_blank"}
+>[2단계/3: [!DNL Dynamics] (2011 온-프레미스)에서 Marketo 동기화 사용자 설정](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/connecting-to-legacy-versions/step-2-of-3-set-up-2011.md)

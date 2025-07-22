@@ -4,9 +4,9 @@ description: 이벤트 프로그램에 멤버 추가 - Marketo 문서 - 제품 �
 title: 이벤트 프로그램에 멤버 추가
 exl-id: 05bd4807-3ab8-452d-a389-b22477cf7445
 feature: Events
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '177'
+source-wordcount: '165'
 ht-degree: 0%
 
 ---
@@ -23,7 +23,7 @@ ht-degree: 0%
 
 1. [스마트 캠페인을 만듭니다](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/creating-a-smart-campaign/create-a-new-smart-campaign.md).
 
-1. 2단계에서 만든 스마트 캠페인의 스마트 목록에서 **목록의 구성원** 필터를 찾아 추가합니다.
+1. 2단계에서 만든 스마트 캠페인의 스마트 목록에서 **[!UICONTROL Member of List]** 필터를 찾아 추가합니다.
 
    ![](assets/three.png)
 
@@ -31,7 +31,7 @@ ht-degree: 0%
 
    ![](assets/four.png)
 
-1. 흐름에서 **프로그램 상태 변경** 흐름 단계를 찾아 추가합니다.
+1. 흐름에서 **[!UICONTROL Change Program Status]** 흐름 단계를 찾아 추가합니다.
 
    ![](assets/five.png)
 
@@ -43,11 +43,11 @@ ht-degree: 0%
 
    ![](assets/seven.png)
 
-1. [예약] 탭에서 **한 번 실행**&#x200B;을 클릭합니다.
+1. [!UICONTROL Schedule] 탭에서 **[!UICONTROL Run Once]**&#x200B;을(를) 클릭합니다.
 
    ![](assets/eight.png)
 
-1. **지금 실행**&#x200B;을 선택하고 **실행**&#x200B;을 클릭합니다.
+1. **[!UICONTROL Run Now]**&#x200B;을(를) 선택하고 **[!UICONTROL Run]**&#x200B;을(를) 클릭합니다.
 
    ![](assets/nine.png)
 

@@ -4,10 +4,10 @@ description: 하이퍼링크가 연결된 텍스트 추가 - Marketo 문서 - �
 title: 하이퍼링크가 연결된 텍스트 추가
 exl-id: 29df5688-d6f5-4a75-9a3e-fc68f0f2b45a
 feature: Marketo Sales Connect
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '47'
-ht-degree: 0%
+source-wordcount: '46'
+ht-degree: 2%
 
 ---
 
@@ -21,4 +21,4 @@ ht-degree: 0%
 
 1. 연결할 URL(예: &quot;https://www.mywebsite.com&quot;)을 입력합니다.
 
-1. **확인**&#x200B;을 클릭합니다.
+1. **[!UICONTROL OK]**&#x200B;을(를) 클릭합니다.

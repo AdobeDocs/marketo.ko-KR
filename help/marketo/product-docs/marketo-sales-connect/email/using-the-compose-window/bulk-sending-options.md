@@ -4,16 +4,16 @@ description: 대량 전송 옵션 - Marketo 문서 - 제품 설명서
 title: 대량 전송 옵션
 exl-id: 37bc9d4c-da0f-4fd0-8c96-3fb4ea22fa8e
 feature: Marketo Sales Connect
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '260'
+source-wordcount: '258'
 ht-degree: 0%
 
 ---
 
 # 대량 전송 옵션 {#bulk-sending-options}
 
-이메일을 일괄적으로 전송하는 것은 잠재 고객 참여를 가속화할 수 있는 좋은 방법입니다. Sales Connect에서는 전자 메일을 대량으로 보내는 두 가지 방법을 제공합니다. **전자 메일 그룹** 및 **선택하여 보내기**. 그룹 이메일은 수백 개의 이메일을 타겟팅된 그룹에 빠르게 보낼 수 있는 좋은 방법입니다. 선택 및 보내기 를 사용하면 이메일 제한이 완화되지만 사용자에게 더 많은 사용자 지정 기회가 제공됩니다.
+이메일을 일괄적으로 전송하는 것은 잠재 고객 참여를 가속화할 수 있는 좋은 방법입니다. [!DNL Sales Connect]은(는) 전자 메일을 대량으로 보내는 두 가지 방법을 제공합니다. **전자 메일 그룹** 및 **선택하여 보내기**. 그룹 이메일은 수백 개의 이메일을 타겟팅된 그룹에 빠르게 보낼 수 있는 좋은 방법입니다. 선택 및 보내기 를 사용하면 이메일 제한이 완화되지만 사용자에게 더 많은 사용자 지정 기회가 제공됩니다.
 
 **그룹 전자 메일과 선택 및 보내기**
 
@@ -32,7 +32,7 @@ ht-degree: 0%
    <th><p><span>최대 </span><span>전자 메일</span><span>메일</span> 수 </p></th> 
    <th><p><span>시작한 </span><span>보내는 사람</span></p></th> 
    <th><p><span>일괄 </span><span>전자 메일 편집</span> </p></th> 
-   <th><p>각 전자 메일 </span><span>고유하게</span>마다 <span>편집</span><span> </p></th> 
+   <th><p>각 전자 메일 <span></span>고유하게<span>마다 </span>편집<span></span> </p></th> 
    <th><p><span>템플릿 및 </span><span>동적 필드 지원</span> </p></th> 
   </tr> 
   <tr> 

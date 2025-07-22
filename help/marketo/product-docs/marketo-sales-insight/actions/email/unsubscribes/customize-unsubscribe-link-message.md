@@ -3,9 +3,9 @@ description: 구독 취소 링크 메시지 사용자 지정 - Marketo 문서 - 
 title: 구독 취소 링크 메시지 사용자 지정
 exl-id: 62dc1f64-dd81-4f39-a9c3-5f986faaa634
 feature: Sales Insight Actions
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '195'
+source-wordcount: '187'
 ht-degree: 0%
 
 ---
@@ -16,13 +16,13 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->이 정보는 데이터베이스에 다시 캡처되지 않으므로 Marketo Sales에서 서드파티 구독 취소 링크를 사용할 수 없습니다.
+>[!DNL Marketo Sales]의 타사 구독 취소 링크는 데이터베이스에 다시 캡처되지 않으므로 사용할 수 없습니다.
 
-1. 톱니바퀴 아이콘을 클릭하고 **설정**&#x200B;을 선택합니다.
+1. 톱니바퀴 아이콘을 클릭하고 **[!UICONTROL Settings]**&#x200B;을(를) 선택합니다.
 
    ![](assets/customize-unsubscribe-link-message-1.png)
 
-1. 관리자 설정에서 **구독 취소**&#x200B;를 클릭합니다.
+1. [!UICONTROL Admin Settings]에서 **[!UICONTROL Unsubscribes]**&#x200B;을(를) 클릭합니다.
 
    ![](assets/customize-unsubscribe-link-message-2.png)
 
@@ -38,10 +38,10 @@ ht-degree: 0%
    >
    >어떤 URL을 입력하든 상관없습니다. 이메일을 첫 번째(또는 전용) 하이퍼링크를 보내면 자동으로 기본 구독 취소 페이지로 연결됩니다.
 
-1. URL을 입력하고 링크를 현재 창이나 새 창에서 열지를 결정한 다음 **저장**&#x200B;을 클릭합니다.
+1. URL을 입력하고 링크를 현재 창이나 새 창에서 열지를 결정한 다음 **[!UICONTROL Save]**&#x200B;을(를) 클릭합니다.
 
    ![](assets/customize-unsubscribe-link-message-5.png)
 
-1. 변경 사항을 저장하려면 맨 아래에 있는 **저장**&#x200B;을 클릭하세요.
+1. 변경 내용을 저장하려면 하단의 **[!UICONTROL Save]**&#x200B;을(를) 클릭합니다.
 
    ![](assets/customize-unsubscribe-link-message-6.png)

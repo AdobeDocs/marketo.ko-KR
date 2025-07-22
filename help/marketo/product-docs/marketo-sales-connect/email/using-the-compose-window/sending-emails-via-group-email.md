@@ -4,9 +4,9 @@ description: 그룹 이메일을 통한 이메일 보내기 - Marketo 문서 - �
 title: 그룹 이메일을 통해 이메일 보내기
 exl-id: dbb4415f-9817-4a09-9049-9e8f328f7ea4
 feature: Marketo Sales Connect
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '162'
+source-wordcount: '154'
 ht-degree: 0%
 
 ---
@@ -17,7 +17,7 @@ ht-degree: 0%
 
 ## 그룹 이메일 보내기 {#sending-a-group-email}
 
-1. **사람** 탭을 클릭합니다.
+1. **[!UICONTROL People]** 탭을 클릭합니다.
 
    ![](assets/one-3.png)
 
@@ -25,7 +25,7 @@ ht-degree: 0%
 
    ![](assets/two-3.png)
 
-1. [그룹 작업] 단추를 클릭하고 **전자 메일 그룹**&#x200B;을(를) 선택합니다.
+1. [!UICONTROL Group Actions] 단추를 클릭하고 **[!UICONTROL Email Group]**&#x200B;을(를) 선택합니다.
 
    ![](assets/three-3.png)
 
@@ -49,7 +49,7 @@ ht-degree: 0%
 
    ![](assets/edit-four.png)
 
-1. **동적 필드 미리 보기**&#x200B;를 클릭하고 오른쪽의 미리 보기를 확인합니다.
+1. **[!UICONTROL Preview Dynamic Fields]**&#x200B;을(를) 클릭하고 오른쪽의 미리 보기를 봅니다.
 
    ![](assets/edit-five.png)
 

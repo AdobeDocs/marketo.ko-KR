@@ -4,16 +4,16 @@ description: 자유 형식 랜딩 페이지 만들기 - Marketo 문서 - 제품 
 title: 자유 형식 랜딩 페이지 만들기
 exl-id: fc58cb1f-8567-47ce-b724-24e6e6bc9cce
 feature: Landing Pages
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '180'
-ht-degree: 0%
+source-wordcount: '152'
+ht-degree: 1%
 
 ---
 
 # 자유 형식 랜딩 페이지 만들기 {#create-a-free-form-landing-page}
 
-자유 형식의 랜딩 페이지는 프로그램 또는 Design Studio에서 전역적으로 사용할 로컬 자산으로 만들 수 있습니다.
+자유 형식의 랜딩 페이지는 프로그램 또는 [!UICONTROL Design Studio]에서 전역적으로 사용할 로컬 자산으로 만들 수 있습니다.
 
 >[!NOTE]
 >
@@ -21,7 +21,7 @@ ht-degree: 0%
 
 ## 프로그램에서 자유 형식 랜딩 페이지 만들기 {#create-a-free-form-landing-page-in-a-program}
 
-1. **마케팅 활동**(으)로 이동합니다.
+1. **[!UICONTROL Marketing Activities]**(으)로 이동합니다.
 
    ![](assets/login-marketing-activities.png)
 
@@ -29,11 +29,11 @@ ht-degree: 0%
 
    ![](assets/image2015-5-19-12-3a46-3a47.png)
 
-1. **새로 만들기**&#x200B;를 클릭합니다. **새 로컬 자산**&#x200B;을 선택합니다.
+1. **[!UICONTROL New]**&#x200B;을(를) 클릭합니다. **[!UICONTROL New Local Asset]**&#x200B;를 선택합니다.
 
    ![](assets/image2015-5-19-12-3a47-3a27.png)
 
-1. **랜딩 페이지**&#x200B;를 클릭합니다.
+1. **[!UICONTROL Landing Page]**&#x200B;을(를) 클릭합니다.
 
    ![](assets/image2014-9-16-12-3a58-3a49.png)
 
@@ -45,21 +45,21 @@ ht-degree: 0%
 
    ![](assets/image2015-5-19-12-3a51-3a13.png)
 
-1. **만들기**&#x200B;를 클릭합니다.
+1. **[!UICONTROL Create]**&#x200B;을(를) 클릭합니다.
 
    ![](assets/image2015-5-19-12-3a52-3a8.png)
 
 >[!TIP]
 >
->URL은 프로그램 및 랜딩 페이지 이름에서 자동으로 생성됩니다. URL을 변경하려면 **페이지 URL** 필드를 편집하십시오.
+>URL은 프로그램 및 랜딩 페이지 이름에서 자동으로 생성됩니다. URL을 변경하려면 **[!UICONTROL Page URL]** 필드를 편집하십시오.
 
 ## Design Studio에서 자유 형식 랜딩 페이지 만들기 {#create-a-free-form-landing-page-in-design-studio}
 
-1. **디자인 스튜디오**(으)로 이동합니다.
+1. **[!UICONTROL Design Studio]**(으)로 이동합니다.
 
    ![](assets/designstudio.png)
 
-1. **새로 만들기**&#x200B;를 클릭한 다음 **새 랜딩 페이지**&#x200B;를 클릭합니다.
+1. **[!UICONTROL New]**&#x200B;을(를) 클릭한 다음 **[!UICONTROL New Landing Page]**&#x200B;을(를) 클릭합니다.
 
    ![](assets/image2014-9-16-13-3a0-3a43.png)
 
@@ -67,10 +67,10 @@ ht-degree: 0%
 
    ![](assets/image2015-5-19-13-3a30-3a25.png)
 
-1. **만들기**&#x200B;를 클릭합니다.
+1. **[!UICONTROL Create]**&#x200B;을(를) 클릭합니다.
 
    ![](assets/image2015-5-19-13-3a33-3a43.png)
 
 >[!TIP]
 >
->**만들기**&#x200B;를 클릭한 후 바로 편집기를 열지 않으려면 &quot;새 페이지에 대한 랜딩 페이지 편집기 열기&quot;를 선택 취소합니다.
+>[!UICONTROL Open landing page editor for new page]을(를) 클릭한 후 바로 편집기를 열지 않으려면 &quot;**[!UICONTROL Create]**&quot;을(를) 선택 취소합니다.

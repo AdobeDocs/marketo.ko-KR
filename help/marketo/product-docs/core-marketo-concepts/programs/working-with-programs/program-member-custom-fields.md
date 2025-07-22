@@ -4,9 +4,9 @@ description: 프로그램 멤버 사용자 정의 필드 - Marketo 문서 - 제�
 title: 프로그램 멤버 사용자 정의 필드
 exl-id: 66b5dac6-015f-4907-8c82-78c932102463
 feature: Programs
-source-git-commit: 2b610cc3486b745212b0b1f36018a83214d7ecd7
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '416'
+source-wordcount: '403'
 ht-degree: 1%
 
 ---
@@ -17,33 +17,33 @@ ht-degree: 1%
 
 ## 프로그램 멤버 사용자 정의 필드 만들기 {#create-a-program-member-custom-field}
 
-1. Marketo에서 **[!UICONTROL 관리자]**&#x200B;를 클릭합니다.
+1. Marketo에서 **[!UICONTROL Admin]**&#x200B;을(를) 클릭합니다.
 
    ![](assets/one.png)
 
-1. **[!UICONTROL 필드 관리]**&#x200B;를 클릭합니다.
+1. **[!UICONTROL Field Management]**&#x200B;을(를) 클릭합니다.
 
    ![](assets/two.png)
 
-1. **[!UICONTROL 새 사용자 지정 필드]**&#x200B;를 클릭합니다.
+1. **[!UICONTROL New Custom Field]**&#x200B;을(를) 클릭합니다.
 
    ![](assets/three.png)
 
-1. 객체 드롭다운을 클릭하고 원하는 객체를 선택합니다.
+1. **[!UICONTROL Object]** 드롭다운을 클릭하고 원하는 개체를 선택합니다.
 
    ![](assets/four.png)
 
    >[!NOTE]
    >
-   >사용자 및 프로그램 구성원 사용자 정의 필드는 같은 이름을 공유할 수 없습니다.
+   >[!UICONTROL Person] 및 [!UICONTROL Program Member] 사용자 지정 필드는 같은 이름을 공유할 수 없습니다.
 
-1. 나머지 필드를 입력하고 **[!UICONTROL 만들기]**&#x200B;를 클릭합니다.
+1. 나머지 필드를 입력하고 **[!UICONTROL Create]**&#x200B;을(를) 클릭합니다.
 
    ![](assets/five.png)
 
    >[!NOTE]
    >
-   >프로그램 멤버 사용자 정의 필드에 지원되는 유형은 부울, 날짜, 날짜, 시간, 부동 소수점, 정수, 문자열, URL입니다. [필드 형식에 대해 자세히 알아보세요](/help/marketo/product-docs/administration/field-management/custom-field-type-glossary.md){target="_blank"}.
+   >[!UICONTROL Program Member] 사용자 지정 필드에 지원되는 유형은 부울, 날짜, 날짜, 시간, 부동 소수점, 정수, 문자열, URL입니다. [필드 형식에 대해 자세히 알아보세요](/help/marketo/product-docs/administration/field-management/custom-field-type-glossary.md){target="_blank"}.
 
 ## 오브젝트 설명 {#object-descriptions}
 

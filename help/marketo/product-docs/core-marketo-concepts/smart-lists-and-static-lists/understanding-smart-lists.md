@@ -4,9 +4,9 @@ description: 스마트 목록 이해 - Marketo 문서 - 제품 설명서
 title: 스마트 목록 이해
 exl-id: 8b7fd845-96d8-4b53-9ad0-118cf55be24a
 feature: Smart Lists
-source-git-commit: 4bf27f7eb534ec76983a898d020f0b8c336a36dc
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '210'
+source-wordcount: '209'
 ht-degree: 0%
 
 ---
@@ -40,7 +40,7 @@ ht-degree: 0%
 
 ## 스마트 목록 탭 {#smart-list-tab}
 
-사람 탭에서 특정 사람 그룹을 보기 위한 필터를 추가하고 정의합니다.
+[!UICONTROL People] 탭에서 특정 사용자 그룹을 볼 수 있도록 필터를 추가하고 정의합니다.
 
 ![](assets/understanding-smart-lists-3.png)
 

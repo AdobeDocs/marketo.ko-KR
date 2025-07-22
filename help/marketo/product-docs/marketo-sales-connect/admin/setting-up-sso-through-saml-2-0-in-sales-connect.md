@@ -1,17 +1,17 @@
 ---
 unique-page-id: 14352405
-description: Sales Connect - Marketo 문서 - 제품 설명서에서 SAML 2.0을 통해 SSO 설정
-title: Sales Connect에서 SAML 2.0을 통해 SSO 설정
+description: ' [!DNL Sales Connect] - Marketo 문서 - 제품 설명서에서 SAML 2.0을 통해 SSO 설정'
+title: ' [!DNL Sales Connect]에서 SAML 2.0을 통해 SSO 설정'
 exl-id: aab80626-d6d1-4194-9733-09c90c0b49a6
 feature: Marketo Sales Connect
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '258'
+source-wordcount: '252'
 ht-degree: 0%
 
 ---
 
-# Sales Connect에서 SAML 2.0을 통해 SSO 설정 {#setting-up-sso-through-saml-in-sales-connect}
+# [!DNL Sales Connect]에서 SAML 2.0을 통해 SSO 설정 {#setting-up-sso-through-saml-in-sales-connect}
 
 SAML 2.0 사양을 통해 SSO를 지원합니다. 그러나 현재 어떤 공급자와도 직접 통합이 되어 있지 않습니다. 이 설정을 사용하려면 SSO 공급자로부터 일부 정보를 수집해야 합니다.
 

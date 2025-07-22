@@ -4,26 +4,26 @@ description: 내 토큰에 URL 사용 - Marketo 문서 - 제품 설명서
 title: 내 토큰에 URL 사용
 exl-id: 6830c621-4d94-4f31-a608-2f7b2aced88c
 feature: Tokens
-source-git-commit: 165dca2573f340ede147866c3a30707bbfb6857c
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '253'
+source-wordcount: '238'
 ht-degree: 0%
 
 ---
 
 # 내 토큰에 URL 사용 {#using-urls-in-my-tokens}
 
-내 토큰을 사용하여 이메일에 URL을 삽입하려면 아래 단계를 따르십시오.
+[!UICONTROL My Tokens]을(를) 사용하여 전자 메일에 URL을 삽입하려면 아래 단계를 따르세요.
 
-1. 프로그램을 선택하고 **내 토큰**&#x200B;을 클릭하세요.
+1. 프로그램을 선택하고 **[!UICONTROL My Tokens]**&#x200B;을(를) 클릭합니다.
 
    ![](assets/one-4.png)
 
-1. **텍스트** 내 토큰을 선택하고 캔버스로 끌어서 놓습니다.
+1. **[!UICONTROL Text]** 내 토큰을 선택하고 캔버스로 끌어서 놓습니다.
 
    ![](assets/two-4.png)
 
-1. 토큰에 고유한 이름을 지정하고 URL(https:// 제외)을 입력한 다음 **저장**&#x200B;을 클릭합니다.
+1. 토큰에 고유한 이름을 지정하고 URL(https:// 제외)을 입력한 다음 **[!UICONTROL Save]**&#x200B;을(를) 클릭합니다.
 
    ![](assets/three-4.png)
 
@@ -39,7 +39,7 @@ ht-degree: 0%
 
    ![](assets/four-3.png)
 
-1. **초안 편집**&#x200B;을 클릭합니다.
+1. **[!UICONTROL Edit Draft]**&#x200B;을(를) 클릭합니다.
 
    ![](assets/five-3.png)
 
@@ -55,7 +55,7 @@ ht-degree: 0%
    >
    >사이트에서 https를 사용하지 않는 경우 `http://`을(를) 입력할 수도 있습니다.
 
-1. 내 토큰을 찾아 선택한 다음 **삽입**&#x200B;을 클릭합니다.
+1. 내 토큰을 찾아 선택한 다음 **[!UICONTROL Insert]**&#x200B;을(를) 클릭합니다.
 
    ![](assets/eight.png)
 
@@ -63,15 +63,15 @@ ht-degree: 0%
 
    ![](assets/nine.png)
 
-1. 링크를 표시할 텍스트를 강조 표시하고 링크 삽입/편집 아이콘을 클릭합니다.
+1. 링크를 표시할 텍스트를 강조 표시하고 [!UICONTROL Insert/Edit Link] 아이콘을 클릭합니다.
 
    ![](assets/ten.png)
 
-1. Ctrl/Cmd+V를 눌러 콘텐츠를 **URL** 상자에 붙여 넣고 **삽입**&#x200B;을 클릭합니다.
+1. Ctrl/Cmd+V를 눌러 콘텐츠를 **[!UICONTROL URL]** 상자에 붙여 넣고 **[!UICONTROL Insert]**&#x200B;을(를) 클릭합니다.
 
    ![](assets/eleven.png)
 
-1. **저장**&#x200B;을 클릭합니다.
+1. **[!UICONTROL Save]**&#x200B;을(를) 클릭합니다.
 
    ![](assets/twelve.png)
 

@@ -4,9 +4,9 @@ description: 잠재 고객을 나열하는 이메일 분석 보고서 구축 - M
 title: 잠재 고객을 나열하는 이메일 분석 보고서 작성
 exl-id: f431610c-6570-4df0-9d64-d37d21010604
 feature: Reporting, Revenue Cycle Analytics
-source-git-commit: d20a9bb584f69282eefae3704ce4be2179b29d0b
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '212'
+source-wordcount: '193'
 ht-degree: 0%
 
 ---
@@ -23,27 +23,27 @@ ht-degree: 0%
 >
 >이메일 분석 RCA를 지원하는 데이터 엔진은 동일한 이메일 및 캠페인에서 전송된 경우 사람당 12개 이상의 클릭 수를 무시합니다. 이메일 분석 보고서를 표준 Marketo Analytics 보고와 비교할 때 이 점을 고려하십시오.
 
-1. **매출 탐색기**&#x200B;를 시작합니다.
+1. **[!UICONTROL Revenue Explorer]**&#x200B;을(를) 시작합니다.
 
    ![](assets/report-that-lists-leads-1.png)
 
-1. **새로 만들기**&#x200B;를 클릭한 다음 **보고서**&#x200B;를 클릭합니다.
+1. **[!UICONTROL Create New]**&#x200B;을(를) 클릭한 다음 **[!UICONTROL Report]**&#x200B;을(를) 클릭합니다.
 
    ![](assets/report-that-lists-leads-2.png)
 
-1. 전자 메일 분석을 선택하고 **확인**&#x200B;을 클릭합니다.
+1. **[!UICONTROL Email Analysis]**&#x200B;을(를) 선택하고 **[!UICONTROL OK]**&#x200B;을(를) 클릭합니다.
 
    ![](assets/report-that-lists-leads-3.png)
 
-1. 전자 메일 이름 노란색 점을 찾아 마우스 오른쪽 단추로 클릭한 다음 **필터**&#x200B;를 선택합니다.
+1. **[!UICONTROL Email Name]**&#x200B;개의 노란색 점을 찾아 마우스 오른쪽 단추로 클릭한 다음 **[!UICONTROL Filter...]**&#x200B;을(를) 선택합니다.
 
    ![](assets/report-that-lists-leads-4.png)
 
-1. 목록에서 선택한 전자 메일을 두 번 클릭하고 **확인**&#x200B;을 클릭합니다.
+1. 목록에서 선택한 전자 메일을 두 번 클릭하고 **[!UICONTROL OK]**&#x200B;을(를) 클릭합니다.
 
    ![](assets/report-that-lists-leads-5.png)
 
-1. **전자 메일 이름** 노란색 점을 **열**(으)로 끌어옵니다.
+1. **[!UICONTROL Email Name]** 노란색 점을 **[!UICONTROL Columns]**(으)로 끕니다.
 
    ![](assets/report-that-lists-leads-6.png)
 
@@ -51,11 +51,11 @@ ht-degree: 0%
    >
    >열로 추가할 수 있는 리드/회사 속성이 많이 있습니다. 확인해 보십시오!
 
-1. **전체 이름** 노란색 점을 찾아 **행**(으)로 끌어서 놓습니다.
+1. **[!UICONTROL Full Name]**&#x200B;개의 노란색 점을 찾아 **[!UICONTROL Rows]**(으)로 끌어서 놓습니다.
 
    ![](assets/report-that-lists-leads-7.png)
 
-1. 이제 관심있는 **측정값**&#x200B;을 두 번 클릭하여 추가합니다.
+1. 이제 관심있는 **[!UICONTROL Measures]**&#x200B;을(를) 두 번 클릭하여 추가합니다.
 
    ![](assets/report-that-lists-leads-8.png)
 

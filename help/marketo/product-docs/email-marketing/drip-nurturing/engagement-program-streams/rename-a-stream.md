@@ -4,9 +4,9 @@ description: 스트림 이름 바꾸기 - Marketo 문서 - 제품 설명서
 title: 스트림 이름 바꾸기
 exl-id: 38e8af11-78a7-4c52-b0d4-301f97d50999
 feature: Engagement Programs
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '60'
+source-wordcount: '57'
 ht-degree: 0%
 
 ---
@@ -15,7 +15,7 @@ ht-degree: 0%
 
 구성을 유지하려면 스트림의 이름을 바꿀 수 있습니다. 방법은 다음과 같습니다.
 
-1. 참여 프로그램을 찾아 선택한 다음 **스트림**&#x200B;을 클릭합니다.
+1. 참여 프로그램을 찾아 선택한 다음 **[!UICONTROL Streams]**&#x200B;을(를) 클릭합니다.
 
    ![](assets/cloneasteam-1.jpg)
 
@@ -23,7 +23,7 @@ ht-degree: 0%
 
    ![](assets/image2014-9-15-17-3a4-3a10.png)
 
-1. 새 스트림 **이름**&#x200B;을(를) 입력하고 **저장**&#x200B;을 클릭합니다.
+1. 새 스트림 **[!UICONTROL Name]**&#x200B;을(를) 입력하고 **[!UICONTROL Save]**&#x200B;을(를) 클릭합니다.
 
    ![](assets/image2014-9-15-17-3a4-3a14.png)
 

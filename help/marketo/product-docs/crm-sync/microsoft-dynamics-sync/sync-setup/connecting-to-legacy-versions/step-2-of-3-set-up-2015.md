@@ -4,20 +4,20 @@ description: Microsoft Dynamics 2015용 Marketo 설치 온-프레미스 단계 2
 title: Marketo Microsoft Dynamics 2015 온-프레미스 단계 2/3
 exl-id: 39f00749-4ba3-47f1-b2e3-72cbaa7caf2e
 feature: Microsoft Dynamics
-source-git-commit: e3f61755dccd9bea1378a429fc428b440fc3ecb4
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '355'
+source-wordcount: '341'
 ht-degree: 1%
 
 ---
 
-# 2단계/3단계 Dynamics용 Marketo 설정(2015 온프레미스){#step-of-set-up-for-marketo-on-premises-2015}
+# 2단계/3단계 [!DNL Dynamics]용 Marketo 설정(2015 준비 중){#step-of-set-up-for-marketo-on-premises-2015}
 
 이전 단계를 완료해 주셔서 감사합니다. 계속 이 문제를 헤쳐나갑시다.
 
 >[!PREREQUISITES]
 >
->[Microsoft Dynamics 2015 온-프레미스 단계 1/3에 Marketo 설치](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/connecting-to-legacy-versions/step-1-of-3-install-2015.md){target="_blank"}
+>[Marketo 설치 [!DNL Microsoft Dynamics] 2015 온-프레미스 단계 1/3](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/connecting-to-legacy-versions/step-1-of-3-install-2015.md)
 
 ## 동기화 사용자 역할 할당 {#assign-sync-user-role}
 
@@ -25,7 +25,7 @@ Marketo 동기화 사용자 역할만 Marketo 동기화 사용자에게 할당�
 
 >[!NOTE]
 >
->Marketo 버전 4.0.0.14 이상에 적용됩니다. 이전 버전의 경우 모든 사용자에게 동기화 사용자 역할이 있어야 합니다. Marketo을 업그레이드하려면 [Microsoft Dynamics용 Marketo 솔루션 업그레이드](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/update-the-marketo-solution-for-microsoft-dynamics.md){target="_blank"}를 참조하십시오.
+>Marketo 버전 4.0.0.14 이상에 적용됩니다. 이전 버전의 경우 모든 사용자에게 동기화 사용자 역할이 있어야 합니다. Marketo을 업그레이드하려면 [용 Marketo 솔루션 업그레이드 [!DNL Microsoft Dynamics]](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/update-the-marketo-solution-for-microsoft-dynamics.md)를 참조하십시오.
 
 >[!IMPORTANT]
 >
@@ -47,7 +47,7 @@ Marketo 동기화 사용자 역할만 Marketo 동기화 사용자에게 할당�
 
    ![](assets/assign4.png)
 
-1. Marketo 동기화 사용자를 확인하고 **[!UICONTROL OK]**&#x200B;을(를) 클릭합니다.
+1. [!UICONTROL Marketo Sync User]을(를) 확인하고 **[!UICONTROL OK]**&#x200B;을(를) 클릭합니다.
 
    ![](assets/assign5.png)
 
@@ -97,10 +97,10 @@ Marketo 동기화 사용자 역할만 Marketo 동기화 사용자에게 할당�
 
 ## 3단계로 진행하기 전에 {#before-proceeding-to-step}
 
-* 동기화하는 레코드 수를 제한하려면 [사용자 지정 동기화 필터를 설정](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/create-a-custom-dynamics-sync-filter.md){target="_blank"}하세요.
-* [Microsoft Dynamics 동기화 확인](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/validate-microsoft-dynamics-sync.md){target="_blank"} 프로세스를 실행합니다. 초기 설정이 올바르게 수행되었는지 확인합니다.
-* Microsoft Dynamics CRM에서 Marketo 동기화 사용자에 로그인합니다.
+* 동기화하는 레코드 수를 제한하려면 [사용자 지정 동기화 필터를 설정](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/create-a-custom-dynamics-sync-filter.md)하세요.
+* [유효성 검사 [!DNL Microsoft Dynamics] 동기화](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/validate-microsoft-dynamics-sync.md) 프로세스를 실행합니다. 초기 설정이 올바르게 수행되었는지 확인합니다.
+* [!DNL Microsoft Dynamics] CRM의 Marketo 동기화 사용자에 로그인합니다.
 
 >[!MORELIKETHIS]
 >
->[Microsoft Dynamics 2015 온-프레미스 3단계/3단계](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/connecting-to-legacy-versions/step-3-of-3-connect-2015.md){target="_blank"}용 Marketo 설치
+>[Marketo 설치 [!DNL Microsoft Dynamics] 2015 온-프레미스 3단계 중 3단계](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/connecting-to-legacy-versions/step-3-of-3-connect-2015.md)

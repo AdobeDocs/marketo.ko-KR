@@ -4,9 +4,9 @@ description: 이메일 프로그램 이해 - Marketo 문서 - 제품 설명서
 title: 이메일 프로그램 이해
 exl-id: 3ec1a4f0-90fb-4a4b-94bf-ce5ee7d8bdd4
 feature: Email Programs
-source-git-commit: b2ceefb068005d916027fb71be0dc4e25849ae23
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '318'
+source-wordcount: '314'
 ht-degree: 0%
 
 ---
@@ -15,9 +15,9 @@ ht-degree: 0%
 
 한 곳에서 이메일을 보내고, A/B 테스트를 만들고, 결과를 추적하십시오.
 
-## Campaign 컨트롤 패널 {#control-panel}
+## 컨트롤 패널 {#control-panel}
 
-네 상자는 집중을 유지해 줍니다. **대상**&#x200B;은(는) &quot;사용자&quot;를 정의하고, **전자 메일**&#x200B;은(는) &quot;대상&quot;을 제공하고, **일정**&#x200B;은(는) &quot;시기&quot;를 정의하고, **승인**&#x200B;을(를) 통해 시작할 준비가 되었습니다.
+네 상자는 집중을 유지해 줍니다. **[!UICONTROL Audience]**&#x200B;은(는) &quot;사용자&quot;를 정의하고, **[!UICONTROL Email]**&#x200B;은(는) &quot;내용&quot;을 제공하며, **[!UICONTROL Schedule]**&#x200B;은(는) &quot;시기&quot;를 정의하고, **[!UICONTROL Approval]**&#x200B;은(는) 시작할 준비를 합니다.
 
 ![](assets/emailprogram.png)
 

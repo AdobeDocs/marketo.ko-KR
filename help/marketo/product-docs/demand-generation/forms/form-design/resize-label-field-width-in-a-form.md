@@ -4,9 +4,9 @@ description: 양식에서 레이블/필드 폭 크기 조정 - Marketo 문서 - 
 title: 양식에서 레이블/필드 폭 크기 조정
 exl-id: cef10279-881e-44f3-a979-873fa24d7f4b
 feature: Forms
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '97'
+source-wordcount: '93'
 ht-degree: 2%
 
 ---
@@ -31,7 +31,7 @@ ht-degree: 2%
 
    ![](assets/image2014-9-15-15-3a24-3a28.png)
 
-1. [레이블 폭] 및/또는 [필드 폭]에 대한 픽셀 값을 입력합니다.
+1. [!UICONTROL Label Width] 및/또는 [!UICONTROL Field Width]의 픽셀 값을 입력하십시오.
 
    ![](assets/image2014-9-15-15-3a24-3a36.png)
 

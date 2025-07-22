@@ -4,9 +4,9 @@ description: 코드 조각 복제 - Marketo 문서 - 제품 설명서
 title: 코드 조각 복제
 exl-id: 9f5045d8-0dbf-4bb1-ac8c-3747bd130f36
 feature: Snippets
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '69'
+source-wordcount: '63'
 ht-degree: 0%
 
 ---
@@ -15,15 +15,15 @@ ht-degree: 0%
 
 필요에 따라 수정할 수 있는 스니펫의 사본을 만들려면 스니펫을 복제하십시오.
 
-1. **디자인 스튜디오**(으)로 이동합니다.
+1. **[!UICONTROL Design Studio]**(으)로 이동합니다.
 
    ![](assets/image2014-9-16-10-3a32-3a36.png)
 
-1. 코드 조각으로 이동한 다음 **코드 조각 작업**&#x200B;에서 **복제**&#x200B;를 클릭합니다.
+1. 코드 조각으로 이동한 다음 **[!UICONTROL Snippet Actions]**&#x200B;에서 **[!UICONTROL Clone]**&#x200B;을(를) 클릭합니다.
 
    ![](assets/image2014-9-16-10-3a32-3a44.png)
 
-1. 코드 조각 세부 정보를 입력하고 **복제**&#x200B;를 클릭합니다.
+1. 코드 조각 세부 정보를 입력하고 **[!UICONTROL Clone]**&#x200B;을(를) 클릭합니다.
 
    ![](assets/image2014-9-16-10-3a32-3a53.png)
 

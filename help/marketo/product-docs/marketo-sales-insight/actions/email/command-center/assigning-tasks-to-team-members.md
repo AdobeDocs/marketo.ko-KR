@@ -3,9 +3,9 @@ description: 팀원에게 작업 할당 - Marketo 문서 - 제품 설명서
 title: 팀원에게 작업 할당
 exl-id: 8f35afb8-d1c2-4f09-8653-3309f08c991d
 feature: Sales Insight Actions
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '119'
+source-wordcount: '114'
 ht-degree: 0%
 
 ---
@@ -18,11 +18,11 @@ ht-degree: 0%
 >
 >공유 연락처에 대해서만 작업을 할당할 수 있습니다.
 
-1. 웹 응용 프로그램에서 **명령 센터**&#x200B;를 클릭합니다.
+1. 웹 응용 프로그램에서 **[!UICONTROL Command Center]**&#x200B;을(를) 클릭합니다.
 
    ![](assets/assigning-tasks-to-team-members-1.png)
 
-1. **작업 추가**&#x200B;를 클릭합니다.
+1. **[!UICONTROL Add Task]**&#x200B;을(를) 클릭합니다.
 
    ![](assets/assigning-tasks-to-team-members-2.png)
 
@@ -50,6 +50,6 @@ ht-degree: 0%
 
    ![](assets/assigning-tasks-to-team-members-8.png)
 
-1. 팀원과 관련된 중요한 세부 정보를 추가하고(선택 사항) **만들기**&#x200B;를 클릭합니다.
+1. 팀원과 관련된 중요한 세부 정보를 추가하고(선택 사항) **[!UICONTROL Create]**&#x200B;을(를) 클릭합니다.
 
    ![](assets/assigning-tasks-to-team-members-9.png)

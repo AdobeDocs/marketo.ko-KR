@@ -4,10 +4,10 @@ description: 계정에 대해 개인화된 URL 활성화 - Marketo 문서 - 제�
 title: 계정에 대해 개인화된 URL 활성화
 exl-id: 3964db0c-8f86-40aa-a3d7-da59824bdc4c
 feature: Landing Pages
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '101'
-ht-degree: 1%
+source-wordcount: '93'
+ht-degree: 4%
 
 ---
 
@@ -19,15 +19,15 @@ ht-degree: 1%
 >
 >**관리자 권한 필요**
 
-1. **관리자** 섹션으로 이동하여 **랜딩 페이지**&#x200B;를 클릭합니다.
+1. **[!UICONTROL Admin]** 섹션으로 이동한 다음 **[!UICONTROL Landing Pages]**&#x200B;을(를) 클릭합니다.
 
    ![](assets/image2014-9-18-13-3a29-3a49.png)
 
-1. **편집**&#x200B;을 클릭합니다.
+1. **[!UICONTROL Edit]**&#x200B;을(를) 클릭합니다.
 
    ![](assets/image2014-9-18-13-3a29-3a58.png)
 
-1. **개인화된 URL 사용** 상자를 선택하고 **저장**&#x200B;을 클릭합니다.
+1. **[!UICONTROL Enable Personalized URLs]** 상자를 선택하고 **[!UICONTROL Save]**&#x200B;을(를) 클릭합니다.
 
    ![](assets/image2014-9-18-13-3a30-3a6.png)
 

@@ -5,16 +5,16 @@ hide: true
 hidefromtoc: true
 exl-id: 68bc14e7-dfc9-4dce-b159-24d734ee3c6f
 feature: Veeva CRM
-source-git-commit: bebf61037f37a06b40b4d9c1df872f1cf62a1403
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '201'
-ht-degree: 0%
+source-wordcount: '177'
+ht-degree: 1%
 
 ---
 
 # 사용자 지정 개체 동기화 {#custom-object-sync}
 
-Veeva CRM 인스턴스에서 만든 사용자 지정 개체도 Marketo Engage의 일부가 될 수 있습니다. 설정 방법은 다음과 같습니다.
+[!DNL Veeva] CRM 인스턴스에서 만든 사용자 지정 개체도 Marketo Engage의 일부일 수 있습니다. 설정 방법은 다음과 같습니다.
 
 >[!NOTE]
 >
@@ -22,25 +22,25 @@ Veeva CRM 인스턴스에서 만든 사용자 지정 개체도 Marketo Engage의
 
 >[!PREREQUISITES]
 >
->사용자 지정 개체를 사용하려면 Veeva CRM의 연락처 또는 계정 개체에 연결해야 합니다.
+>사용자 지정 개체를 사용하려면 [!DNL Veeva] CRM의 연락처 또는 계정 개체에 연결해야 합니다.
 
 ## 사용자 지정 개체 사용 {#enable-custom-object}
 
-1. Marketo에서 **[!UICONTROL 관리자]**&#x200B;를 클릭한 다음 **[!UICONTROL Veeva 개체 동기화]**&#x200B;를 클릭합니다.
+1. Marketo에서 **[!UICONTROL Admin]**&#x200B;을(를) 클릭한 다음 **[!UICONTROL Veeva Objects Sync]**&#x200B;을(를) 클릭합니다.
 
    ![](assets/custom-object-sync-1.png)
 
-1. 첫 번째 사용자 지정 개체인 경우 **[!UICONTROL 스키마 동기화]**&#x200B;를 클릭합니다.
+1. 첫 번째 사용자 지정 개체인 경우 **[!UICONTROL Sync Schema]**&#x200B;을(를) 클릭합니다.
 
    ![](assets/custom-object-sync-2.png)
 
-1. **[!UICONTROL 전역 동기화 사용 안 함]**&#x200B;을 클릭합니다.
+1. **[!UICONTROL Disable Global Sync]**&#x200B;을(를) 클릭합니다.
 
    ![](assets/custom-object-sync-3.png)
 
    >[!NOTE]
    >
-   >Veeva 사용자 지정 개체 스키마의 초기 동기화는 몇 분 정도 걸릴 수 있습니다.
+   >[!DNL Veeva] 사용자 지정 개체 스키마의 초기 동기화는 몇 분 정도 걸릴 수 있습니다.
 
 1. 동기화하려는 사용자 지정 개체를 캔버스로 드래그합니다.
 
@@ -50,11 +50,11 @@ Veeva CRM 인스턴스에서 만든 사용자 지정 개체도 Marketo Engage의
    >
    >사용자 지정 개체에는 고유한 이름이 있어야 합니다. Marketo은 이름이 같은 두 개의 서로 다른 사용자 지정 개체를 지원하지 않습니다.
 
-1. **[!UICONTROL 동기화 사용]**&#x200B;을 클릭합니다.
+1. **[!UICONTROL Enable Sync]**&#x200B;을(를) 클릭합니다.
 
    ![](assets/custom-object-sync-5.png)
 
-1. **[!UICONTROL 동기화 활성화]**&#x200B;를 다시 클릭합니다.
+1. **[!UICONTROL Enable Sync]**&#x200B;을(를) 다시 클릭합니다.
 
    ![](assets/custom-object-sync-6.png)
 
@@ -62,11 +62,11 @@ Veeva CRM 인스턴스에서 만든 사용자 지정 개체도 Marketo Engage의
 
    ![](assets/custom-object-sync-7.png)
 
-1. **[!UICONTROL 동기화 사용]**&#x200B;을 클릭합니다.
+1. **[!UICONTROL Enable Sync]**&#x200B;을(를) 클릭합니다.
 
    ![](assets/custom-object-sync-8.png)
 
-1. Veeva 사용자 지정 개체를 모두 보려면 **[!UICONTROL 관리자]** 및 **[!UICONTROL Veeva 개체 동기화]**&#x200B;를 클릭하십시오.
+1. [!DNL Veeva] 사용자 지정 개체를 모두 보려면 **[!UICONTROL Admin]** 및 **[!UICONTROL Veeva Objects Sync]**&#x200B;을(를) 클릭하십시오.
 
    ![](assets/custom-object-sync-9.png)
 

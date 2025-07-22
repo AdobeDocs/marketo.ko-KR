@@ -4,9 +4,9 @@ description: 구성원 관리 및 보기 - Marketo 문서 - 제품 설명서
 title: 구성원 관리 및 보기
 exl-id: 8d6ad815-4022-4d4b-a258-2bc048ca48f9
 feature: Programs
-source-git-commit: e49860ae611f2f77789bb491aeccbee46a911a2c
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '251'
+source-wordcount: '238'
 ht-degree: 0%
 
 ---
@@ -23,7 +23,7 @@ ht-degree: 0%
 
 멤버 섹션 하단에서 검색 필드를 사용하여 이름, 이메일, 직함 또는 회사별로 프로그램 멤버를 검색합니다.
 
-1. 프로그램의 **[!UICONTROL 구성원]** 탭을 클릭합니다.
+1. 프로그램의 **[!UICONTROL Members]** 탭을 클릭합니다.
 
    ![](assets/image2014-10-1-16-3a0-3a29.png)
 
@@ -33,7 +33,7 @@ ht-degree: 0%
 
 ## 멤버 그리드 내보내기 {#export-the-members-grid}
 
-검색 필드 옆에 있는 Excel 아이콘을 클릭하여 구성원 목록을 내보낼 수 있습니다.
+검색 필드 옆에 있는 [!DNL Excel] 아이콘을 클릭하여 구성원 목록을 내보낼 수 있습니다.
 
 ![](assets/image2014-10-1-16-3a9-3a55.png)
 
@@ -49,21 +49,21 @@ ht-degree: 0%
 
 ## 그리드에 표시할 열 선택 {#choose-which-columns-are-visible-in-the-grid}
 
-1. **[!UICONTROL 보기]** 드롭다운을 클릭하고 **[!UICONTROL 보기 만들기]**&#x200B;를 선택합니다.
+1. **[!UICONTROL View]** 드롭다운을 클릭하고 **[!UICONTROL Create View]**&#x200B;을(를) 선택합니다.
 
    ![](assets/image2014-10-1-16-3a32-3a43.png)
 
-1. 사용자 정의 보기에 이름을 지정합니다. 열 제목을 선택합니다. 열을 이동하고 보기를 만들려면 **[!UICONTROL 추가]** 및 **[!UICONTROL 제거]**&#x200B;를 클릭하십시오.
+1. 사용자 정의 보기에 이름을 지정합니다. 열 제목을 선택합니다. 열을 이동하고 보기를 만들려면 **[!UICONTROL Add]** 및 **[!UICONTROL Remove]**&#x200B;을(를) 클릭합니다.
 
    ![](assets/image2014-10-1-16-3a36-3a52.png)
 
-1. **[!UICONTROL 만들기]**&#x200B;를 클릭합니다.
+1. **[!UICONTROL Create]**&#x200B;을(를) 클릭합니다.
 
    ![](assets/image2014-10-1-16-3a38-3a7.png)
 
 ## 멤버 그리드 필터링  {#filter-the-members-grid}
 
-1. **[!UICONTROL 필터]** 드롭다운을 클릭하고 정렬할 진행률 단계를 선택하십시오.
+1. **[!UICONTROL Filter]** 드롭다운을 클릭하고 정렬 기준으로 사용할 진행 단계를 선택합니다.
 
    ![](assets/image2014-10-1-16-3a42-3a4.png)
 
@@ -71,11 +71,11 @@ ht-degree: 0%
 
 멤버 그리드 내에서 사용자의 상태를 변경할 수 있습니다.
 
-1. **[!UICONTROL Ctrl/Cmd]**&#x200B;을 누른 채 사람을 선택하세요.
+1. **[!UICONTROL Ctrl/Cmd]**&#x200B;을(를) 누른 채 사람을 선택하세요.
 
    ![](assets/image2014-10-1-16-3a44-3a27.png)
 
-1. **[!UICONTROL 상태 변경]** 드롭다운을 클릭하고 상태를 선택합니다.
+1. **[!UICONTROL Change Status]** 드롭다운을 클릭하고 상태를 선택합니다.
 
    ![](assets/image2014-10-1-16-3a47-3a45.png)
 

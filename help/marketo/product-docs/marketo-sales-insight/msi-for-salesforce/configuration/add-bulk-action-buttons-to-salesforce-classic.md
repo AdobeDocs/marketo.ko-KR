@@ -1,30 +1,30 @@
 ---
 description: Salesforce Classic - Marketo 문서 - 제품 설명서에 일괄 작업 단추 추가
-title: Salesforce Classic에 대량 작업 단추 추가
+title: Salesforce Classic에 일괄 작업 단추 추가
 exl-id: ed3881ca-1ce6-469b-9b77-b8c35f28e847
 feature: Marketo Sales Insights
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '116'
+source-wordcount: '90'
 ht-degree: 0%
 
 ---
 
-# Salesforce Classic에 대량 작업 단추 추가{#add-bulk-action-buttons-to-salesforce-classic}
+# [!DNL Salesforce] Classic에 일괄 작업 단추 추가{#add-bulk-action-buttons-to-salesforce-classic}
 
-Salesforce 레이아웃에 Marketo 단추를 추가할 수 있습니다. 예를 들면 다음과 같습니다.
+[!DNL Salesforce] 레이아웃에 Marketo 단추를 추가할 수 있습니다. 예를 들면 다음과 같습니다.
 
 ![](assets/add-bulk-action-buttons-to-salesforce-classic-1.png)
 
-1. **설치**&#x200B;를 클릭합니다. &quot;레이아웃 검색&quot;을 검색하고 **리드**&#x200B;에서 **레이아웃 검색**&#x200B;을 클릭합니다.
+1. **[!UICONTROL Setup]**&#x200B;을(를) 클릭합니다. &quot;[!UICONTROL search layout]&quot;을(를) 검색하고 **[!UICONTROL Search Layouts]** 아래의 **[!UICONTROL Leads]**&#x200B;을(를) 클릭합니다.
 
    ![](assets/add-bulk-action-buttons-to-salesforce-classic-2.png)
 
-1. **잠재 고객 목록 보기** 행에서 **편집**&#x200B;을 클릭합니다.
+1. **[!UICONTROL Edit]** 행에서 **[!UICONTROL Leads List View]**&#x200B;을(를) 클릭합니다.
 
    ![](assets/add-bulk-action-buttons-to-salesforce-classic-3.png)
 
-1. **선택한 단추** 및 **저장**&#x200B;에 **Marketo 캠페인에 추가**, **Marketo 전자 메일 보내기** 및 **감시 목록에 추가** 단추를 추가합니다.
+1. **[!UICONTROL Add to Marketo Campaign]**, **[!UICONTROL Send Marketo Email]** 및 **[!UICONTROL Add to Watch List]** 단추를 **[!UICONTROL Selected Buttons]** 및 **[!UICONTROL Save]**&#x200B;에 추가합니다.
 
    ![](assets/add-bulk-action-buttons-to-salesforce-classic-4.png)
 

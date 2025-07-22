@@ -4,9 +4,9 @@ description: 양식에 필드 세트 추가 - Marketo 문서 - 제품 설명서
 title: 양식에 필드 집합 추가
 exl-id: c549781f-f61b-4963-8f9e-58d3e7346fd1
 feature: Forms
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '101'
+source-wordcount: '95'
 ht-degree: 0%
 
 ---
@@ -15,19 +15,19 @@ ht-degree: 0%
 
 필드 세트는 훌륭합니다. 그들은 여러 밭을 함께 모은다. 한 번에 전체 블록을 제어할 수도 있습니다!
 
-1. **마케팅 활동**(으)로 이동합니다.
+1. **[!UICONTROL Marketing Activities]**(으)로 이동합니다.
 
    ![](assets/login-marketing-activities-1.png)
 
-1. 양식을 선택하고 **양식 편집**&#x200B;을 클릭합니다.
+1. 양식을 선택하고 **[!UICONTROL Edit Form]**&#x200B;을(를) 클릭합니다.
 
    ![](assets/image2014-9-15-15-3a1-3a22.png)
 
-1. **+** 기호를 클릭하고 **필드 집합**&#x200B;을(를) 선택합니다.
+1. **+** 기호를 클릭하고 **[!UICONTROL Fieldset]**&#x200B;을(를) 선택합니다.
 
    ![](assets/image2014-9-15-15-3a1-3a43.png)
 
-1. **필드 집합**&#x200B;을(를) 선택하고 **레이블**&#x200B;을(를) 입력하십시오.
+1. **필드 집합**&#x200B;을(를) 선택하고 **[!UICONTROL Label]**&#x200B;을(를) 입력하십시오.
 
    ![](assets/image2014-9-15-15-3a2-3a0.png)
 

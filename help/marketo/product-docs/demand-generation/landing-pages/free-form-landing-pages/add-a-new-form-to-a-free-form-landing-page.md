@@ -4,9 +4,9 @@ description: 자유 형식 랜딩 페이지에 새 양식 추가 - Marketo 문�
 title: 자유 양식 랜딩 페이지에 새 양식 추가
 exl-id: cfdcf4b1-5391-4eff-b4dd-ebeb6670a933
 feature: Landing Pages
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '144'
+source-wordcount: '132'
 ht-degree: 0%
 
 ---
@@ -20,15 +20,15 @@ ht-degree: 0%
 >* [양식 만들기](/help/marketo/product-docs/demand-generation/forms/creating-a-form/create-a-form.md)
 >* [자유 형식 랜딩 페이지 만들기](/help/marketo/product-docs/demand-generation/landing-pages/free-form-landing-pages/create-a-free-form-landing-page.md)
 
-1. **마케팅 활동**(으)로 이동합니다.
+1. **[!UICONTROL Marketing Activities]**(으)로 이동합니다.
 
    ![](assets/login-marketing-activities-1.png)
 
-1. 랜딩 페이지를 찾아 **초안 편집**&#x200B;을 클릭합니다.
+1. 랜딩 페이지를 찾아 **[!UICONTROL Edit Draft]**&#x200B;을(를) 클릭합니다.
 
    ![](assets/image2014-9-16-14-3a44-3a15.png)
 
-1. **Form** 요소를 페이지로 끌어다 놓습니다.
+1. **[!UICONTROL Form]** 요소를 페이지로 끌어다 놓습니다.
 
    ![](assets/image2015-5-21-15-3a43-3a30.png)
 
@@ -38,9 +38,9 @@ ht-degree: 0%
 
 1. 후속 페이지를 선택할 때는 다음 세 가지 옵션이 있습니다.
 
-   * **랜딩 페이지** - Marketo 랜딩 페이지 선택
-   * **외부 URL** - 원하는 URL 선택
-   * **양식 정의** - 양식 수준에서 정의된 설정을 사용합니다.
+   * **[!UICONTROL Landing Page]** - Marketo 랜딩 페이지 선택
+   * **[!UICONTROL External URL]** - 원하는 URL 선택
+   * **[!UICONTROL Form Defined]** - 양식 수준에서 정의된 설정을 사용합니다.
 
    >[!NOTE]
    >
@@ -48,7 +48,7 @@ ht-degree: 0%
    >
    >후속 페이지는 양식을 제출한 후 표시되는 페이지입니다.
 
-1. **삽입**&#x200B;을 클릭합니다.
+1. **[!UICONTROL Insert]**&#x200B;을(를) 클릭합니다.
 
    ![](assets/image2014-9-16-14-3a44-3a38.png)
 

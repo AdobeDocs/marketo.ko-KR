@@ -3,9 +3,9 @@ description: 사용자 및 관리자 초대 - Marketo 문서 - 제품 설명서
 title: 사용자 및 관리자 초대
 exl-id: 00a6ea00-f8ba-4079-86dc-def44599b3ea
 feature: Sales Insight Actions
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '189'
+source-wordcount: '170'
 ht-degree: 0%
 
 ---
@@ -16,21 +16,21 @@ ht-degree: 0%
 
 ## 사용자 초대 {#invite-users}
 
-1. 톱니바퀴 아이콘을 클릭하고 **설정**&#x200B;을 선택합니다.
+1. 톱니바퀴 아이콘을 클릭하고 **[!UICONTROL Settings]**&#x200B;을(를) 선택합니다.
 
    ![](assets/invite-users-and-admins-1.png)
 
-1. [관리 설정]에서 **사용자 관리**&#x200B;를 선택합니다.
+1. [!UICONTROL Admin Settings]에서 **[!UICONTROL User Management]**&#x200B;을(를) 선택합니다.
 
    ![](assets/invite-users-and-admins-2.png)
 
-1. **작업** 단추를 클릭하고 **사용자 초대**&#x200B;를 선택합니다.
+1. **[!UICONTROL Actions]** 단추를 클릭하고 **[!UICONTROL Invite Users]**&#x200B;을(를) 선택합니다.
 
    ![](assets/invite-users-and-admins-3.png)
 
    >[!NOTE]
    >
-   >스프레드시트에 모두 나열되어 있는 경우 **CSV로 사용자 초대**&#x200B;를 선택할 수도 있습니다.
+   >스프레드시트에 모두 나열되어 있는 경우 **[!UICONTROL Invite Users via CSV]**&#x200B;을(를) 선택할 수도 있습니다.
 
 1. 추가하려는 개인의 이메일 주소를 입력합니다.
 
@@ -48,7 +48,7 @@ ht-degree: 0%
 
    ![](assets/invite-users-and-admins-6.png)
 
-1. **확인**&#x200B;을 클릭합니다.
+1. **[!UICONTROL OK]**&#x200B;을(를) 클릭합니다.
 
    ![](assets/invite-users-and-admins-7.png)
 
@@ -60,15 +60,15 @@ ht-degree: 0%
 
 기존 사용자를 관리자로 설정하려면 다음 단계를 따르십시오.
 
-1. 톱니바퀴 아이콘을 클릭하고 **설정**&#x200B;을 선택합니다.
+1. 톱니바퀴 아이콘을 클릭하고 **[!UICONTROL Settings]**&#x200B;을(를) 선택합니다.
 
    ![](assets/invite-users-and-admins-8.png)
 
-1. [관리 설정]에서 **사용자 관리**&#x200B;를 선택합니다.
+1. [!UICONTROL Admin Settings]에서 **[!UICONTROL User Management]**&#x200B;을(를) 선택합니다.
 
    ![](assets/invite-users-and-admins-9.png)
 
-1. 관리자로 지정할 사용자를 찾아 역할 드롭다운을 클릭한 다음 **관리자**&#x200B;를 선택합니다.
+1. 관리자로 지정할 사용자를 찾아 역할 드롭다운을 클릭한 다음 **[!UICONTROL Admin]**&#x200B;을(를) 선택합니다.
 
    ![](assets/invite-users-and-admins-10.png)
 

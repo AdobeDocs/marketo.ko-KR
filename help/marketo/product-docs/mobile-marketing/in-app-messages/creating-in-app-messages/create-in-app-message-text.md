@@ -4,9 +4,9 @@ description: 앱 내 메시지 텍스트 만들기 - Marketo 문서 - 제품 설
 title: 인앱 메시지 텍스트 만들기
 exl-id: 8fe5f004-dafb-4e03-9628-bd92fcb3fd44
 feature: Mobile Marketing
-source-git-commit: ea9bf2a002415936cdfb5bfb723ce80723003da5
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '369'
+source-wordcount: '363'
 ht-degree: 0%
 
 ---
@@ -47,7 +47,7 @@ ht-degree: 0%
    >
    >광고에 렌더링되는 텍스트 글꼴은 각 플랫폼에 대한 표준 글꼴입니다(Apple의 경우 Helvetica, Android의 경우 Roboto)
 
-1. 텍스트 탭 작업을 선택하려면 상자를 선택합니다.
+1. **[!UICONTROL Text Tap action]**&#x200B;을(를) 선택하려면 상자를 선택하세요.
 
    ![](assets/image2016-5-6-10-3a20-3a41.png)
 
@@ -57,7 +57,7 @@ ht-degree: 0%
 
    >[!NOTE]
    >
-   >탭 작업의 경우 Apple 및 Android 플랫폼에 대해 다양한 작업을 설정할 수 있습니다. 예를 들어 딥링크는 Apple 및 Android에서 다르게 처리됩니다. 메시지가 한 플랫폼 또는 다른 플랫폼으로만 이동하는 경우 다른 플랫폼은 기본 설정에 두거나 없음을 선택할 수 있습니다.
+   >탭 작업의 경우 Apple 및 Android 플랫폼에 대해 다양한 작업을 설정할 수 있습니다. 예를 들어 딥링크는 Apple 및 Android에서 다르게 처리됩니다. 메시지가 한 플랫폼 또는 다른 플랫폼으로만 이동하는 경우 다른 플랫폼을 기본 설정으로 유지하거나 [!UICONTROL None]을(를) 선택할 수 있습니다.
 
 1. 인라인 편집하려면 지원 텍스트를 클릭하십시오. 기본 텍스트를 편집하는 것과 같은 방식으로 작동하지만 기본 텍스트 크기는 더 작습니다.
 
@@ -67,13 +67,13 @@ ht-degree: 0%
 
    ![](assets/image2016-5-6-10-3a29-3a2.png)
 
-1. 드롭다운에서 [내 토큰]을 선택하고 기본값을 추가한 다음 **삽입**&#x200B;을 클릭합니다.
+1. 드롭다운에서 [내 토큰]을 선택하고 기본값을 추가한 다음 **[!UICONTROL Insert]**&#x200B;을(를) 클릭합니다.
 
    ![](assets/mytoken.png)
 
    >[!NOTE]
    >
-   >내 토큰만 옵션으로 사용할 수 있습니다. 프로그램에 내 토큰이 설정되지 않은 경우 토큰 드롭다운이 비어 있습니다.
+   >내 토큰만 옵션으로 사용할 수 있습니다. 프로그램에 설정된 내 토큰이 없으면 [!UICONTROL Token] 드롭다운이 비어 있습니다.
 
    >[!TIP]
    >

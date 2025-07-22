@@ -4,16 +4,16 @@ description: 웹 Personalization 용어집 - Marketo 문서 - 제품 설명서
 title: 웹 Personalization 용어집
 exl-id: 82f7aa62-0b5a-4d34-865c-aa77c1b0b0e7
 feature: Web Personalization
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '260'
-ht-degree: 0%
+source-wordcount: '253'
+ht-degree: 1%
 
 ---
 
-# 웹 Personalization 용어집 {#web-personalization-glossary}
+# [!DNL Web Personalization] 용어집 {#web-personalization-glossary}
 
-Marketo Web Personalization의 세계와 언어에 대한 통찰력.
+[!DNL Marketo Web Personalization]의 세계 및 언어에 대한 일부 통찰력.
 
 | 용어 | 정의 |
 |---|---|
@@ -29,7 +29,7 @@ Marketo Web Personalization의 세계와 언어에 대한 통찰력.
 
 ## 와일드카드 예 {#wildcard-examples}
 
-웹 Personalization에서 와일드카드를 사용할 수 있는 세 가지 방법은 다음과 같습니다.
+[!DNL Web Personalization]에서 와일드카드를 사용할 수 있는 세 가지 방법이 있습니다.
 
 가격 책정으로 끝나는 페이지 URL의 모든 방문자와 일치(예: `www.marketo.com/pricing`
 

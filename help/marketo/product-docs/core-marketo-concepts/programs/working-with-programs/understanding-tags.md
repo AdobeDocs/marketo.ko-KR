@@ -4,16 +4,16 @@ description: 태그 이해 - Marketo 문서 - 제품 설명서
 title: 태그 이해
 exl-id: af74aec2-096f-489f-adf8-388da3867fae
 feature: Programs
-source-git-commit: 9e51ece12742152040dbbcb6a1584fba28e863ff
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '168'
-ht-degree: 0%
+source-wordcount: '166'
+ht-degree: 2%
 
 ---
 
 # 태그 이해 {#understanding-tags}
 
-여러분은 아마 지금쯤 프로그램이 Marketo Engage에서 기본 구성단위와 같다는 것을 알고 있을 것입니다. 태그와 채널을 사용하면 보고 목적으로 데이터를 필터링할 수 있습니다.
+지금쯤이면 프로그램이 Marketo Engage의 기본 구성 요소와 같다는 것을 알 수 있을 것입니다. 태그와 채널을 사용하면 보고 목적으로 데이터를 필터링할 수 있습니다.
 
 태그는 프로그램을 설명하는 데 사용됩니다. 각각 고유한 값을 사용하여 필요한 만큼 만들 수 있습니다. 채널은 웨비나, 후원 또는 온라인 광고와 같은 프로그램의 게재 메커니즘을 식별합니다.
 
@@ -29,7 +29,7 @@ ht-degree: 0%
 >
 >**예**
 >
->* 태그 유형 = 프로그램 소유자
+>* [!UICONTROL Tag Type] = 프로그램 소유자
 
 ![](assets/image2014-9-17-15-3a12-3a46.png)
 

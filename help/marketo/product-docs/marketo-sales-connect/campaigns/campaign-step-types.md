@@ -4,10 +4,10 @@ description: Campaign 단계 유형 - Marketo 문서 - 제품 설명서
 title: 캠페인 단계 유형
 exl-id: fb6aff01-c38b-4b26-81bb-c6b1d79db992
 feature: Marketo Sales Connect
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '181'
-ht-degree: 0%
+source-wordcount: '180'
+ht-degree: 1%
 
 ---
 
@@ -33,7 +33,7 @@ ht-degree: 0%
 >
 >[전송 옵션](/help/marketo/product-docs/marketo-sales-connect/campaigns/understanding-send-options.md)에 대한 세부 정보를 알아보세요.
 
-## 호출 {#call}
+## 콜 {#call}
 
 전화를 통한 연락처에 대한 후속 조치를 취하도록 미리 알림을 설정합니다. 통화 중에 통화 트랙으로 사용할 메모를 저장할 수도 있습니다.
 
@@ -41,7 +41,7 @@ ht-degree: 0%
 
 ## InMail {#inmail}
 
-여러 채널에서 추적하는 것은 리드와 연결하는 좋은 방법입니다. InMail 작업을 통해 LinkedIn에 연락하도록 미리 알림을 설정할 수 있습니다.
+여러 채널에서 추적하는 것은 리드와 연결하는 좋은 방법입니다. InMail 작업을 사용하면 미리 알림을 설정하여 [!DNL LinkedIn]을(를) 통해 연락할 수 있습니다.
 
 ![](assets/inmail.png)
 

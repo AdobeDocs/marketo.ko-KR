@@ -4,9 +4,9 @@ description: 텍스트 이메일에 추적된 링크 추가 - Marketo 문서 - �
 title: 텍스트 이메일에 추적된 링크 추가
 exl-id: 10b4e029-de23-4054-83f7-b68fea68c838
 feature: Email Editor
-source-git-commit: b3bc6a7ec14a513e4b294852d066f9e3d0f74ef8
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '157'
+source-wordcount: '162'
 ht-degree: 0%
 
 ---
@@ -22,7 +22,9 @@ ht-degree: 0%
 
 1. 이메일을 선택하고 **초안 편집**&#x200B;을 클릭합니다.
 
-![](assets/one-9.png)
+1. 전자 메일을 선택하고 **[!UICONTROL Edit Draft]**&#x200B;을(를) 클릭합니다.
+
+   ![](assets/one-9.png)
 
 1. 링크를 추가할 편집 가능 영역을 두 번 클릭합니다.
 

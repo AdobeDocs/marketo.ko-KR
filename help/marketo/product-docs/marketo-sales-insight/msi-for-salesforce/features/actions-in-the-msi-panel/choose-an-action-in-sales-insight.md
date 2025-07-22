@@ -1,19 +1,19 @@
 ---
 unique-page-id: 10099167
 description: Sales Insight - Marketo 문서 - 제품 설명서에서 작업 선택
-title: Sales Insight에서 작업 선택
+title: 영업 Insight에서 작업 선택
 exl-id: 0e9d3bc0-ac0a-415b-9931-382c3c68cfe2
 feature: Marketo Sales Insights
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '198'
+source-wordcount: '187'
 ht-degree: 0%
 
 ---
 
-# Sales Insight에서 작업 선택 {#choose-an-action-in-sales-insight}
+# [!DNL Sales Insight]에서 동작 선택 {#choose-an-action-in-sales-insight}
 
-다음 작업은 Salesforce Classic 및 Lightning의 Sales Insight 드롭다운에서 사용할 수 있습니다.
+[!DNL Sales Insight] Classic 및 Lightning의 [!DNL Salesforce] 드롭다운에서 다음 작업을 사용할 수 있습니다.
 
 * Marketo 이메일 보내기
 * Marketo 캠페인에 추가
@@ -37,13 +37,13 @@ ht-degree: 0%
 
   ![](assets/choose-an-action-in-sales-insight-2.png)
 
-**최상의 선택 탭**
+**[!DNL Best Bets]탭**
 
-* 최상의 벌크 작업 탭: 그룹 작업 및 사용자 프로필로 제어할 수 있음
+* [!DNL Best Bets] 일괄 작업 탭: 그룹 작업이며 사용자 프로필로 제어할 수 있습니다.
 
   ![](assets/choose-an-action-in-sales-insight-3.png)
 
-* 최상의 선택 인라인 작업 탭: 단일 작업 및 사용자 프로필로 제어 가능
+* [!DNL Best Bets] 인라인 작업 탭: 단일 작업이며 사용자 프로필로 제어할 수 있습니다.
 
   ![](assets/choose-an-action-in-sales-insight-4.png)
 

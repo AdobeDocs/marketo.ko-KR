@@ -4,20 +4,20 @@ description: 웹 캠페인 복제 - Marketo 문서 - 제품 설명서
 title: 웹 캠페인 복제
 exl-id: c87440fb-694f-4a51-ad73-317f4d7f4314
 feature: Web Personalization
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '166'
+source-wordcount: '162'
 ht-degree: 0%
 
 ---
 
 # 웹 캠페인 복제 {#clone-a-web-campaign}
 
-웹 캠페인 페이지의 복제 기능을 사용하여 캠페인 설정을 복사하고 분할 테스트 최적화를 위한 콘텐츠를 변경하거나, 동일한 콘텐츠로 캠페인을 복제하고 다른 세그먼트를 향해 타깃팅할 수 있습니다. 웹 캠페인을 몇 초 만에 만들 수 있습니다!
+[!UICONTROL Web Campaigns] 페이지의 복제 기능을 사용하여 캠페인 설정을 복사하고 분할 테스트 최적화를 위한 콘텐츠를 변경하거나, 동일한 콘텐츠로 캠페인을 복제하고 다른 세그먼트로 타깃팅할 수 있습니다. 웹 캠페인을 몇 초 만에 만들 수 있습니다!
 
 ## 복제 캠페인 만들기 {#create-a-clone-campaign}
 
-1. **웹 캠페인**(으)로 이동합니다.
+1. **[!UICONTROL Web Campaigns]**(으)로 이동합니다.
 
    ![](assets/image2016-8-18-16-3a44-3a0.png)
 

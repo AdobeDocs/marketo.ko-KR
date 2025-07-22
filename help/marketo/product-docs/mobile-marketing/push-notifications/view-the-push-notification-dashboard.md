@@ -4,9 +4,9 @@ description: 푸시 알림 대시보드 보기 - Marketo 문서 - 제품 설명�
 title: 푸시 알림 대시보드 보기
 exl-id: c898d02e-9587-495e-bd86-c50343cacf8c
 feature: Mobile Marketing
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '130'
+source-wordcount: '119'
 ht-degree: 0%
 
 ---
@@ -15,7 +15,7 @@ ht-degree: 0%
 
 푸시 알림의 작동 방식을 쉽게 확인할 수 있습니다.
 
-1. **마케팅 활동** 영역으로 이동합니다.
+1. **[!UICONTROL Marketing Activities]** 영역으로 이동합니다.
 
    ![](assets/image2015-12-11-12-3a57-3a48.png)
 
@@ -23,11 +23,11 @@ ht-degree: 0%
 
    ![](assets/image2015-12-11-13-3a1-3a56.png)
 
-1. **보기: 요약**&#x200B;을 클릭하고 **대시보드**&#x200B;를 선택합니다.
+1. **[!UICONTROL View: Summary]**&#x200B;을(를) 클릭하고 **[!UICONTROL Dashboard]**&#x200B;을(를) 선택합니다.
 
    ![](assets/image2015-12-11-13-3a4-3a23.png)
 
-1. 원 그래프에서 iOS 및 Android에 대한 총 전송 및 총 탭을 볼 수 있습니다. 아래로 스크롤하여 막대 그래프에서 감소 를 탭합니다.
+1. 원 그래프에서 iOS 및 Android의 [!UICONTROL Total Sent] 및 [!UICONTROL Total Taps]을(를) 볼 수 있습니다. 아래로 스크롤하여 막대 그래프로 [!UICONTROL Tap Decay]을(를) 봅니다.
 
    ![](assets/image2015-12-15-15-3a23-3a47.png)
 

@@ -4,9 +4,9 @@ description: 수익 모델 전환 사용 - Marketo 문서 - 제품 설명서
 title: 수익 모델 전환 사용
 exl-id: c658b631-b849-438a-b412-63ffd41e4c85
 feature: Reporting, Revenue Cycle Analytics
-source-git-commit: d20a9bb584f69282eefae3704ce4be2179b29d0b
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '213'
+source-wordcount: '204'
 ht-degree: 0%
 
 ---
@@ -21,19 +21,19 @@ ht-degree: 0%
 
 ![](assets/one-2.png)
 
-1. 시작할 화살표 중 하나를 마우스 오른쪽 단추로 클릭하고(두 번 클릭) **전환 편집**&#x200B;을 선택합니다.
+1. 시작할 화살표 중 하나를 마우스 오른쪽 단추로 클릭하고(두 번 클릭할 수도 있음) **[!UICONTROL Edit Transition]**&#x200B;을(를) 선택합니다.
 
    ![](assets/two-2.png)
 
    >[!NOTE]
    >
-   >&#39;익명 ⇒ 알 수 있음&#39; 전환 규칙은 편집할 수 없습니다.
+   >&#39;[!UICONTROL Anonymous] ⇒ [!UICONTROL Known]&#39; 전환 규칙을 편집할 수 없습니다.
 
 1. 선택한 전환에 대한 새 탭이 열립니다.
 
    ![](assets/three-1.png)
 
-1. 전환은 단계 간에 리드가 이동하는 방식을 제어합니다. 오른쪽에서 선택한 트리거(또는 필터)를 드래그하여 아무 곳에나 캔버스로 놓습니다. 이 예제에서는 양식 채우기 트리거를 선택합니다.
+1. 전환은 단계 간에 리드가 이동하는 방식을 제어합니다. 오른쪽에서 선택한 트리거(또는 필터)를 드래그하여 아무 곳에나 캔버스로 놓습니다. 이 예제에서는 **[!UICONTROL Fills Out Form]** 트리거를 선택합니다.
 
    >[!TIP]
    >
@@ -45,7 +45,7 @@ ht-degree: 0%
 
    ![](assets/five-2.png)
 
-1. 모델로 돌아가려면 **Modeler**&#x200B;을 클릭하세요.
+1. 모델로 돌아가려면 **[!UICONTROL Modeler]**&#x200B;을(를) 클릭합니다.
 
    ![](assets/six.png)
 
@@ -53,7 +53,7 @@ ht-degree: 0%
 
    ![](assets/seven.png)
 
-1. 모든 전환에 대한 규칙을 구성했으면 **유효성 검사**&#x200B;를 클릭하여 확인합니다.
+1. 모든 전환에 대한 규칙을 구성했으면 **[!UICONTROL Validate]**&#x200B;을(를) 클릭하여 확인합니다.
 
    ![](assets/eight.png)
 

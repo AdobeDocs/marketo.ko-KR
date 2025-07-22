@@ -4,9 +4,9 @@ description: 참여 대시보드 - Marketo 문서 - 제품 설명서
 title: 참여 대시보드
 exl-id: ba72cadf-416c-4faa-9f0c-aa75fec3c3cf
 feature: Engagement Programs, Reporting
-source-git-commit: d20a9bb584f69282eefae3704ce4be2179b29d0b
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '278'
+source-wordcount: '272'
 ht-degree: 0%
 
 ---
@@ -21,7 +21,7 @@ ht-degree: 0%
 
 ## 참여 대시보드 보기 {#view-the-engagement-dashboard}
 
-참여 프로그램을 선택하고 **보기** > **대시보드**&#x200B;를 클릭합니다.
+참여 프로그램을 선택하고 **보기** > **[!UICONTROL Dashboard]**&#x200B;을(를) 클릭합니다.
 
 ![](assets/image2014-9-15-16-3a42-3a41.png)
 
@@ -37,7 +37,7 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->위의 그래프를 보려면 [설정] 탭으로 이동하여 소진된 콘텐츠 알림이 **켜짐**&#x200B;인지 확인해야 합니다. 꺼져 있으면 그래프가 다르게 표시됩니다.
+>[!UICONTROL Setup] 탭으로 이동하여 [!UICONTROL Exhausted Content Notifications]이(가) **[!UICONTROL On]**&#x200B;인지 확인해야 위의 그래프를 볼 수 있습니다. 꺼져 있으면 그래프가 다르게 표시됩니다.
 
 >[!CAUTION]
 >

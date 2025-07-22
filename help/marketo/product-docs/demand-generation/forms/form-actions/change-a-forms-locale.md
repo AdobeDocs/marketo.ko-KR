@@ -4,9 +4,9 @@ description: 양식의 로케일 변경 - Marketo 문서 - 제품 설명서
 title: 양식의 로케일 변경
 exl-id: 811153b7-27e6-407d-abbe-c29dc39944d7
 feature: Forms
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '125'
+source-wordcount: '113'
 ht-degree: 0%
 
 ---
@@ -15,27 +15,27 @@ ht-degree: 0%
 
 국제 양식을 처리할 때는 날짜/시간을 올바른 형식으로 표시해야 합니다. Marketo에서 자동으로 이 작업을 수행합니다. 양식의 로케일만 설정하고 나머지는 저희가 처리합니다.
 
-1. **마케팅 활동**(으)로 이동합니다.
+1. **[!UICONTROL Marketing Activities]**(으)로 이동합니다.
 
    ![](assets/login-marketing-activities-7.png)
 
-1. 양식을 선택하고 **양식 편집**&#x200B;을 클릭합니다.
+1. 양식을 선택하고 **[!UICONTROL Edit Form]**&#x200B;을(를) 클릭합니다.
 
    ![](assets/image2014-9-15-12-3a52-3a52.png)
 
-1. **양식 설정**&#x200B;에서 **설정**&#x200B;을 클릭합니다.
+1. **[!UICONTROL Form Settings]**&#x200B;에서 **[!UICONTROL Settings]**&#x200B;을(를) 클릭합니다.
 
    ![](assets/image2014-9-15-12-3a53-3a23.png)
 
-1. 선택한 **로케일**&#x200B;을(를) 선택하십시오.
+1. 선택한 **[!UICONTROL Form Locale]**&#x200B;을(를) 선택합니다.
 
    ![](assets/image2014-9-15-12-3a53-3a35.png)
 
-1. **마침**&#x200B;을 클릭합니다.
+1. **[!UICONTROL Finish]**&#x200B;을(를) 클릭합니다.
 
    ![](assets/image2014-9-15-12-3a53-3a43.png)
 
-1. 변경 내용을 적용하고 저장하려면 **승인 및 닫기**&#x200B;를 클릭하십시오.
+1. 변경 내용을 적용하고 저장하려면 **[!UICONTROL Approve and Close]**&#x200B;을(를) 클릭하십시오.
 
    >[!NOTE]
    >

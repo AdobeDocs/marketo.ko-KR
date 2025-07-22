@@ -4,24 +4,24 @@ description: TAM 메인 대시보드 - Marketo 문서 - 제품 설명서
 title: TAM 기본 대시보드
 exl-id: f550dd99-f5b1-4d75-9e11-d9791043baea
 feature: Target Account Management
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '116'
+source-wordcount: '108'
 ht-degree: 0%
 
 ---
 
 # TAM 기본 대시보드 {#tam-main-dashboard}
 
-기본 대시보드는 Target 계정 관리 작업에 대한 요약을 제공합니다. 성공을 보이고 있는 대상 계정 또는 계정 목록과 더 많은 주의가 필요한 계정을 볼 수 있습니다.
+기본 대시보드는 [!UICONTROL Target Account Management] 작업에 대한 요약을 제공합니다. 성공을 보이고 있는 대상 계정 또는 계정 목록과 더 많은 주의가 필요한 계정을 볼 수 있습니다.
 
 ![](assets/one.png)
 
-계정 목록으로 필터링하려면 보기 드롭다운을 클릭합니다.
+계정 목록을 기준으로 필터링하려면 **[!UICONTROL View]** 드롭다운을 클릭하세요.
 
 ![](assets/two.png)
 
-...선택한 다음 이 예에서는 &quot;하이 테크&quot; 계정 목록을 선택합니다.
+...선택한 다음 이 예제에서는 &quot;**[!UICONTROL High Tech]**&quot; 계정 목록을 선택하고 있습니다.
 
 ![](assets/three.png)
 
@@ -33,7 +33,7 @@ ht-degree: 0%
 
 ![](assets/five.png)
 
-계정 목록 대시보드를 보는 대신 명명된 계정으로 드릴다운하려면 **자세한 정보**&#x200B;를 클릭합니다.
+계정 목록 대시보드를 보는 대신 명명된 계정으로 드릴다운하려면 **[!UICONTROL More Details]** 이름을 클릭합니다.
 
 ![](assets/six.png)
 

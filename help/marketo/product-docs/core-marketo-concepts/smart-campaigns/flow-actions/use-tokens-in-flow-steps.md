@@ -4,10 +4,10 @@ description: 흐름 단계 - Marketo 문서 - 제품 설명서에서 토큰 사�
 title: 흐름 단계에서 토큰 사용
 exl-id: 9b4c3d57-5906-4d7c-8215-4ba2271be3f8
 feature: Smart Campaigns
-source-git-commit: 12f2399859c784095cc2c1df772c66c649106ba3
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '194'
-ht-degree: 0%
+source-wordcount: '193'
+ht-degree: 2%
 
 ---
 
@@ -22,7 +22,7 @@ ht-degree: 0%
 * 데이터 값 변경
 * 프로그램 멤버 데이터 변경
 * 즐거운 순간
-* Salesforce 캠페인 단계(추가, 제거, 상태 변경)
+* [!DNL Salesforce] 캠페인 단계(추가, 제거, 상태 변경)
 * 작업 만들기
 * 경고 보내기(트리거 캠페인에서만)
 

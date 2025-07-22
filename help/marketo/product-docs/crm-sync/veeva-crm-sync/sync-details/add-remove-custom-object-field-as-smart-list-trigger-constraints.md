@@ -3,22 +3,22 @@ description: 사용자 지정 개체 필드를 스마트 목록/트리거 제한
 title: 사용자 지정 개체 필드를 스마트 목록/트리거 제한으로 추가/제거
 exl-id: b01923be-c307-4788-afb9-0eb4eb018a6d
 feature: Veeva CRM
-source-git-commit: bebf61037f37a06b40b4d9c1df872f1cf62a1403
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '181'
+source-wordcount: '165'
 ht-degree: 0%
 
 ---
 
 # 사용자 지정 개체 필드를 스마트 목록/트리거 제한으로 추가/제거 {#add-remove-custom-object-field-as-smart-list-trigger-constraints}
 
-Marketo Engage은 Veeva 사용자 지정 개체 동기화를 특정 제어할 수 있도록 합니다. 이렇게 하면 사용자 지정 개체 필터의 제약 조건으로 사용할 수 있는 필드를 선택하고 스마트 캠페인의 트리거로 사용할 수 있습니다.
+Marketo Engage은 [!DNL Veeva] 사용자 지정 개체 동기화에 대한 특정 컨트롤을 제공합니다. 이렇게 하면 사용자 지정 개체 필터의 제약 조건으로 사용할 수 있는 필드를 선택하고 스마트 캠페인의 트리거로 사용할 수 있습니다.
 
 >[!NOTE]
 >
 >**관리자 권한 필요**
 
-1. **[!UICONTROL 관리자]**&#x200B;를 클릭한 다음 **[!UICONTROL Veeva 개체 동기화]**&#x200B;를 클릭합니다.
+1. **[!UICONTROL Admin]**&#x200B;을(를) 클릭한 다음 **[!UICONTROL Veeva Objects Sync]**&#x200B;을(를) 클릭합니다.
 
    ![](assets/add-remove-custom-object-field-as-smart-list-trigger-constraints-1.png)
 
@@ -26,19 +26,19 @@ Marketo Engage은 Veeva 사용자 지정 개체 동기화를 특정 제어할 �
 
    ![](assets/add-remove-custom-object-field-as-smart-list-trigger-constraints-2.png)
 
-1. **[!UICONTROL 보이는 필드 편집]**&#x200B;을 클릭합니다.
+1. **[!UICONTROL Edit Visible Fields]**&#x200B;을(를) 클릭합니다.
 
    ![](assets/add-remove-custom-object-field-as-smart-list-trigger-constraints-3.png)
 
    >[!TIP]
    >
-   >표시되는 필드 편집 버튼이 회색으로 표시된 경우 해당 객체는 현재 스마트 목록 또는 스마트 캠페인에서 사용 중입니다. 계속하려면 모든 연결을 제거하십시오.
+   >[!UICONTROL Edit Visible Fields] 단추가 회색으로 표시된 경우 해당 개체는 현재 스마트 목록 또는 스마트 캠페인에서 사용 중입니다. 계속하려면 모든 연결을 제거하십시오.
 
-1. 전역 동기화가 활성화된 경우 **[!UICONTROL 전역 동기화 비활성화]**&#x200B;를 클릭합니다.
+1. 전역 동기화가 활성화된 경우 **[!UICONTROL Disable Global Sync]**&#x200B;을(를) 클릭합니다.
 
    ![](assets/add-remove-custom-object-field-as-smart-list-trigger-constraints-4.png)
 
-1. 원하는 필터/트리거 제한 옆의 확인란을 선택하고 **[!UICONTROL 저장]**&#x200B;을 클릭합니다.
+1. 원하는 필터/트리거 제약 조건 옆의 확인란을 선택하고 **[!UICONTROL Save]**&#x200B;을(를) 클릭합니다.
 
    ![](assets/add-remove-custom-object-field-as-smart-list-trigger-constraints-5.png)
 
@@ -46,7 +46,7 @@ Marketo Engage은 Veeva 사용자 지정 개체 동기화를 특정 제어할 �
    >
    >모든 필드는 기본적으로 필터에 대한 제약 조건으로 선택됩니다.
 
-1. **[!UICONTROL 필드]** 탭을 클릭하여 변경 내용을 확인합니다.
+1. **[!UICONTROL Fields]** 탭을 클릭하여 변경 내용을 확인합니다.
 
    ![](assets/add-remove-custom-object-field-as-smart-list-trigger-constraints-6.png)
 

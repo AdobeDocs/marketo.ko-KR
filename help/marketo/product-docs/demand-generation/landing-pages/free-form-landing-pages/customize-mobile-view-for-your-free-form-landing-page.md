@@ -4,9 +4,9 @@ description: 자유 형식 랜딩 페이지에 대한 모바일 보기 사용자
 title: 자유 형식 랜딩 페이지에 대한 모바일 보기 사용자 지정
 exl-id: 8a5b3d81-34b1-47be-9575-d5ab61cdf9e4
 feature: Landing Pages
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '368'
+source-wordcount: '355'
 ht-degree: 0%
 
 ---
@@ -23,11 +23,11 @@ ht-degree: 0%
 
    ![](assets/selectlandingapge.jpg)
 
-1. **초안 편집**&#x200B;을 클릭합니다.
+1. **[!UICONTROL Edit Draft]**&#x200B;을(를) 클릭합니다.
 
    ![](assets/image2015-1-22-18-3a33-3a12.png)
 
-1. **모바일** 탭을 클릭합니다.
+1. **[!UICONTROL Mobile]** 탭을 클릭합니다.
 
    ![](assets/image2015-1-22-18-3a31-3a40.png)
 
@@ -83,15 +83,15 @@ ht-degree: 0%
 
 >[!TIP]
 >
->모바일 보기는 또한 페이지 요소의 다른 배열을 가질 수 있습니다. 자유 형식 랜딩 페이지에서 항목을 이동하거나 드래그 앤 드롭으로 **페이지 요소**&#x200B;에 나열된 개체의 순서를 변경할 수 있습니다.
+>모바일 보기는 또한 페이지 요소의 다른 배열을 가질 수 있습니다. 자유 형식 랜딩 페이지에서 항목을 이동하거나 드래그 앤 드롭을 사용하여 **[!UICONTROL Page Elements]**&#x200B;에 나열된 개체의 순서를 변경합니다.
 
 ## 모바일 보기 미리 보기 {#preview-mobile-view}
 
-1. **초안 미리 보기**&#x200B;를 클릭합니다.
+1. **[!UICONTROL Preview Draft]**&#x200B;을(를) 클릭합니다.
 
    ![](assets/image2015-5-21-15-3a36-3a35.png)
 
-1. 멋진 거 보고 싶어? **나란히**&#x200B;을(를) 선택합니다.
+1. 멋진 거 보고 싶어? **[!UICONTROL Side By Side]**&#x200B;를 선택합니다.
 
    ![](assets/image2015-1-22-20-3a2-3a15.png)
 
@@ -99,7 +99,7 @@ ht-degree: 0%
 
    ![](assets/image2015-1-22-20-3a3-3a22.png)
 
-1. 마음에 드신다면 **승인 후 닫기**&#x200B;를 클릭하세요.
+1. 마음에 드신다면 **[!UICONTROL Approve and Close]**&#x200B;을(를) 클릭하세요.
 
    ![](assets/image2015-1-22-20-3a5-3a36.png)
 

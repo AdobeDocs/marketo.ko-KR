@@ -1,18 +1,18 @@
 ---
-description: Sales Connect 관리자를 위한 시작 안내서 - Marketo 문서 - 제품 설명서
-title: Sales Connect 관리자를 위한 시작 안내서
+description: ' [!DNL Sales Connect] 관리자를 위한 시작 안내서 - Marketo 문서 - 제품 설명서'
+title: ' [!DNL Sales Connect] 관리자를 위한 시작 안내서'
 exl-id: 8c866fff-3252-4564-a229-bbe4e17190fd
 feature: Marketo Sales Connect
-source-git-commit: 7005be3c62987e1f8beb7301fbb28293d96aad18
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '479'
+source-wordcount: '463'
 ht-degree: 0%
 
 ---
 
-# Sales Connect 관리자를 위한 시작 안내서 {#getting-started-guide-for-sales-connect-admins}
+# [!DNL Sales Connect] 관리자를 위한 시작 안내서 {#getting-started-guide-for-sales-connect-admins}
 
-이 문서에서는 새 Sales Connect 인스턴스를 설정하는 초기 단계를 설명합니다. 이 단계 중 일부는 Marketo 관리자, Salesforce 관리자 및 Sales Connect 관리자로 액세스해야 합니다. 아래 안내서에 따라 인스턴스 설정을 완료합니다.
+이 문서는 새 [!DNL Sales Connect] 인스턴스를 설정하는 초기 단계를 안내합니다. 이 단계 중 일부는 Marketo 관리자, [!DNL Salesforce] 관리자 및 [!DNL Sales Connect] 관리자로 액세스해야 합니다. 아래 안내서에 따라 인스턴스 설정을 완료합니다.
 
 >[!NOTE]
 >
@@ -30,9 +30,9 @@ Marketo에서 Marketo Sales Connect 계정을 프로비저닝하고 첫 번째 �
 
 ![](assets/getting-started-guide-for-sales-connect-admins-2.png)
 
-## Salesforce에 연결 {#connecting-to-salesforce}
+## [!DNL Salesforce]에 연결 중 {#connecting-to-salesforce}
 
-이메일, 호출 및 작업과 같은 Salesforce에 판매 활동을 기록하려면 모든 사용자가 개별적으로 Salesforce에 연결해야 합니다. 그러나 관리자로 Salesforce에 연결하면 전체 팀에 대한 활동 로깅 설정을 구성할 수 있으므로 전역 로깅 설정이 모든 Sales Connect 사용자에게 적용됩니다.
+전자 메일, 통화 및 작업과 같은 Salesforce에 판매 활동을 기록하려면 모든 사용자가 개별적으로 [!DNL Salesforce]에 연결해야 합니다. 그러나 관리자로 Salesforce에 연결하면 전체 팀에 대한 활동 로깅 설정을 구성할 수 있으므로 전역 로깅 설정이 모든 [!DNL Sales Connect] 사용자에게 적용됩니다.
 
 관리자 또는 관리자가 아닌 사용자의 Sales Connect 인스턴스를 Salesforce 인스턴스에 연결하려면 [이 문서](/help/marketo/product-docs/marketo-sales-connect/crm/salesforce-integration/connect-your-sales-connect-account-to-salesforce.md){target="_blank"}의 단계를 따르십시오.
 
@@ -48,7 +48,7 @@ Marketo에 연결하면 판매자는 향후 노력에서 마케팅 자동화 및
 
 Marketo에 연결하고 판매 사용자에게 연결에 대한 액세스 권한을 부여하는 방법에 대해 자세히 알아보려면 [여기를 클릭](/help/marketo/product-docs/marketo-sales-connect/marketo/set-up-your-marketo-connection.md){target="_blank"}하십시오.
 
-## Salesforce 사용자 지정 패키지 설치 {#installing-salesforce-customization-package}
+## [!DNL Salesforce] 사용자 지정 패키지 설치 중 {#installing-salesforce-customization-package}
 
 영업을 성공적으로 이끌 수 있도록 하는 일부분은 기본 작업 영역에서 적절한 기능을 갖추는 것을 의미합니다. Sales Connect 사용자 정의 패키지를 사용하면 Salesforce에서 참여 기능 및 주요 영업 활동 속성에 액세스할 수 있습니다.
 

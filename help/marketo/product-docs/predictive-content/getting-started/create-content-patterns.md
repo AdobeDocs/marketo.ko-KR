@@ -4,9 +4,9 @@ description: 콘텐츠 패턴 만들기 - Marketo 문서 - 제품 설명서
 title: 콘텐츠 패턴 만들기
 exl-id: 963529fb-1b30-486c-b97d-3ff697f91258
 feature: Predictive Content
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '367'
+source-wordcount: '356'
 ht-degree: 0%
 
 ---
@@ -15,11 +15,11 @@ ht-degree: 0%
 
 컨텐츠 패턴을 설정하면 웹 방문자가 컨텐츠 패턴과 관련된 HTML 웹 페이지를 클릭할 때 컨텐츠가 자동으로 검색됩니다. HTML 페이지(블로그 게시물, 보도 자료, 뉴스 기사)를 모든 컨텐츠 페이지에 컨텐츠 조각으로 추가하는 데 사용됩니다. 자동 검색은 콘텐츠 패턴을 기반으로 하는 경우 웹 방문자가 페이지 링크를 보거나 클릭할 때 정의된 URL 패턴과 관련된 HTML 페이지를 검색하고 추적합니다. 이 콘텐츠 조각(URL, 페이지 이름 및 메타데이터(이미지 URL 및 설명을 포함)은 모든 콘텐츠 페이지에 추가되어 예측 콘텐츠를 준비합니다. PDF 및 포함된 비디오와 같은 다른 콘텐츠를 자동으로 검색하려면 [콘텐츠 검색을 활성화](/help/marketo/product-docs/predictive-content/getting-started/enable-content-discovery.md)해야 합니다.
 
-1. **콘텐츠 설정**(으)로 이동합니다.
+1. **[!UICONTROL Content Settings]**(으)로 이동합니다.
 
    ![](assets/settings-dropdown-hand-2.png)
 
-1. **URL 패턴**&#x200B;을 클릭합니다.
+1. **[!UICONTROL URL Patterns]**&#x200B;을(를) 클릭합니다.
 
    ![](assets/click-url-patterns-hand.png)
 
@@ -27,7 +27,7 @@ ht-degree: 0%
 
    ![](assets/content-settings-create-patterns-hand.png)
 
-1. 웹 페이지가 있는 도메인의 URL 확장을 추가합니다. 카테고리(예: 블로그, 기사, Data Sheet, 보도 자료)를 선택합니다.
+1. 웹 페이지가 있는 도메인의 URL 확장을 추가합니다. 범주(예: [!UICONTROL Blog], [!UICONTROL Article], [!UICONTROL Data Sheet], [!UICONTROL Press Release])를 선택하십시오.
 
    ![](assets/content-settings-create-content-patterns-dm-hands.png)
 
@@ -39,7 +39,7 @@ ht-degree: 0%
 
    ![](assets/url-patterns-add2.png)
 
-1. 추가 경로에 대한 확장 및 범주를 추가하고 **저장**&#x200B;을 클릭합니다.
+1. 추가 경로에 대한 확장 및 범주를 추가하고 **[!UICONTROL Save]**&#x200B;을(를) 클릭합니다.
 
    ![](assets/url-patterns-save.png)
 
@@ -52,7 +52,7 @@ ht-degree: 0%
 
 * URL 매개 변수는 검색되지 않습니다(이렇게 하면 콘텐츠 URL은 동일하지만 매개 변수가 다른 여러 항목을 검색하지 않음).
 
-## 예시 {#examples}
+## 예 {#examples}
 
 _domain.com_&#x200B;의 경우:
 
@@ -76,7 +76,7 @@ _domain.com_&#x200B;의 경우:
   </tr> 
   <tr> 
    <td>보도 자료</td> 
-   <td><p>정확히 일치하는 HTML 페이지는 하나만 검색됩니다.</p><p>domain.com/press-release</p></td> 
+   <td><p>정확히 일치하는 하나의 HTML 페이지만 검색됩니다.</p><p>domain.com/press-release</p></td> 
   </tr> 
   <tr> 
    <td colspan="1"> </td> 

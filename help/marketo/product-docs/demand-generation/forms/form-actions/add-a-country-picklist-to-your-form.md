@@ -4,10 +4,10 @@ description: 양식에 국가 선택 목록 추가 - Marketo 문서 - 제품 설
 title: 양식에 국가 선택 목록 추가
 exl-id: b4725352-7116-4f08-b4ad-2affe81afbf4
 feature: Forms
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '189'
-ht-degree: 1%
+source-wordcount: '171'
+ht-degree: 2%
 
 ---
 
@@ -15,11 +15,11 @@ ht-degree: 1%
 
 다음 지침에 따라 모든 국가 목록이 포함된 드롭다운으로 국가 필드를 변환합니다.
 
-1. **마케팅 활동**(으)로 이동합니다.
+1. **[!UICONTROL Marketing Activities]**(으)로 이동합니다.
 
    ![](assets/login-marketing-activities-9.png)
 
-1. 양식을 선택하고 **양식 편집**&#x200B;을 클릭합니다.
+1. 양식을 선택하고 **[!UICONTROL Edit Form]**&#x200B;을(를) 클릭합니다.
 
    ![](assets/editform-1.png)
 
@@ -27,19 +27,19 @@ ht-degree: 1%
 
    ![](assets/image2014-9-15-15-3a33-3a7.png)
 
-1. **국가**&#x200B;를 찾아 선택합니다.
+1. **[!UICONTROL Country]**&#x200B;을(를) 찾아 선택합니다.
 
    ![](assets/image2014-9-15-15-3a33-3a15.png)
 
-1. **국가** 필드를 선택한 상태에서 **필드 유형**&#x200B;을(를) **선택**(으)로 변경합니다.
+1. **[!UICONTROL Country]** 필드를 선택하여 **[!UICONTROL Field Type]**&#x200B;을(를) **[!UICONTROL Select]**(으)로 변경합니다.
 
    ![](assets/image2014-9-15-15-3a33-3a21.png)
 
-1. 사용자가 선택할 수 있는 국가 목록을 추가하려면 **값**&#x200B;을 **편집**.
+1. **[!UICONTROL Edit]** **[!UICONTROL Values]**&#x200B;을(를) 선택하여 사용자가 선택할 수 있는 국가 목록을 추가합니다.
 
    ![](assets/image2014-9-15-15-3a33-3a40.png)
 
-1. **고급** **편집기**&#x200B;를 클릭합니다.
+1. **[!UICONTROL Advanced Editor]**&#x200B;을(를) 클릭합니다.
 
    ![](assets/image2014-9-15-15-3a34-3a1.png)
 
@@ -57,15 +57,15 @@ ht-degree: 1%
    >
    >자유롭게 목록을 편집하거나 다른 목록을 사용하십시오.
 
-1. **저장**&#x200B;을 클릭합니다.
+1. **[!UICONTROL Save]**&#x200B;을(를) 클릭합니다.
 
    ![](assets/image2014-9-15-15-3a35-3a3.png)
 
-1. **마침**&#x200B;을 클릭합니다.
+1. **[!UICONTROL Finish]**&#x200B;을(를) 클릭합니다.
 
    ![](assets/image2014-9-15-15-3a35-3a20.png)
 
-1. **승인 및 닫기**&#x200B;를 클릭합니다.
+1. **[!UICONTROL Approve and Close]**&#x200B;을(를) 클릭합니다.
 
    ![](assets/image2014-9-15-15-3a35-3a36.png)
 

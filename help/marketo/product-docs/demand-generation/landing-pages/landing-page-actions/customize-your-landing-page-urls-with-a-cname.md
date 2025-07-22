@@ -4,9 +4,9 @@ description: CNAME으로 랜딩 페이지 URL 사용자 지정 - Marketo 문서 
 title: CNAME으로 랜딩 페이지 URL 사용자 지정
 exl-id: 2cd87785-61e5-46cd-b1e0-6fbc145014d4
 feature: Landing Pages
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '237'
+source-wordcount: '228'
 ht-degree: 0%
 
 ---
@@ -51,7 +51,7 @@ Marketo이 랜딩 페이지를 호스팅하지만 URL을 완전히 사용자 지
 
 ## IT에 요청 보내기 {#send-request-to-it}
 
-IT 직원에게 다음 CNAME을 설정하도록 요청하십시오. ([CNAME] 및 [Munchkin ID] 단어를 이전 단계의 텍스트로 바꾸십시오.)
+IT 직원에게 다음 CNAME을 설정하도록 요청하십시오. ([CNAME] 및 [Munchkin ID]이라는 단어를 이전 단계의 텍스트로 바꾸십시오.)
 
 [CNAME].YourCompany.com > [Munchkin ID].mktoweb.com
 
@@ -69,7 +69,7 @@ IT 직원에게 다음 CNAME을 설정하도록 요청하십시오. ([CNAME] 및
 
    ![](assets/customize-your-landing-page-urls-with-a-cname-6.png)
 
-1. **랜딩 페이지의 도메인 이름**&#x200B;에 CNAME을 입력하고, **대체 페이지**&#x200B;를 입력하고, **홈 페이지**&#x200B;를 입력하고, **저장**&#x200B;을(를) 클릭합니다.
+1. **[!UICONTROL Domain name for Landing Pages]**&#x200B;에 CNAME을 입력하고 **[!UICONTROL Fallback page]**&#x200B;을(를) 입력한 다음 **[!UICONTROL Homepage]**&#x200B;을(를) 입력하고 **[!UICONTROL Save]**&#x200B;을(를) 클릭합니다.
 
    ![](assets/customize-your-landing-page-urls-with-a-cname-7.png)
 

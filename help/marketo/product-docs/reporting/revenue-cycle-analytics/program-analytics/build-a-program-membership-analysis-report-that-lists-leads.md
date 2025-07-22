@@ -4,9 +4,9 @@ description: 잠재 고객을 나열하는 프로그램 멤버십 분석 보고�
 title: 잠재 고객을 나열하는 프로그램 멤버십 분석 보고서 작성
 exl-id: 52fa9808-a3d6-48b9-9a6a-93d262591c2b
 feature: Reporting, Revenue Cycle Analytics
-source-git-commit: 2671f81f62658447e4b2a3dc2e02a4e0927443e8
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '153'
+source-wordcount: '135'
 ht-degree: 0%
 
 ---
@@ -17,29 +17,29 @@ ht-degree: 0%
 
 >[!AVAILABILITY]
 >
->일부 Marketo Engage 사용자가 이 기능을 구입한 것은 아닙니다. 자세한 내용은 Adobe 계정 팀(계정 관리자)에 문의하십시오.
+>모든 Marketo Engage 사용자가 이 기능을 구입한 것은 아닙니다. 자세한 내용은 Adobe 계정 팀(계정 관리자)에 문의하십시오.
 
-1. 매출 탐색기를 시작합니다.
+1. **[!UICONTROL Revenue Explorer]**&#x200B;을(를) 시작합니다.
 
    ![](assets/one.png)
 
-1. **새로 만들기**&#x200B;를 클릭한 다음 **보고서**&#x200B;를 클릭합니다.
+1. **[!UICONTROL Create New]**&#x200B;을(를) 클릭한 다음 **[!UICONTROL Report]**&#x200B;을(를) 클릭합니다.
 
    ![](assets/two.png)
 
-1. **프로그램 멤버십 분석**&#x200B;을 선택하고 **확인**&#x200B;을 클릭합니다.
+1. **[!UICONTROL Program Membership Analysis]**&#x200B;을(를) 선택하고 **[!UICONTROL OK]**&#x200B;을(를) 클릭합니다.
 
    ![](assets/three.png)
 
-1. 프로그램 이름 노란색 점을 찾아 두 번 클릭합니다.
+1. **[!UICONTROL Program Name]** 노란색 점을 찾아 두 번 클릭합니다.
 
    ![](assets/four.png)
 
-1. 멤버 파란색 점을 찾아 두 번 클릭합니다.
+1. **[!UICONTROL Members]** 파란색 점을 찾아 두 번 클릭합니다.
 
    ![](assets/five.png)
 
-1. 성공(합계) 파란색 점을 찾아 두 번 클릭합니다.
+1. **[!UICONTROL Success (Total)]** 파란색 점을 찾아 두 번 클릭합니다.
 
    ![](assets/six.png)
 
@@ -47,13 +47,13 @@ ht-degree: 0%
 
 ![](assets/seven.png)
 
-_전체 이름_&#x200B;과(와) 같은 잠재 고객 특성을 빠르게 추가하여 구성원이 누구인지 확인할 수 있습니다.
+_[!UICONTROL Full Name]_과(와) 같은 잠재 고객 특성을 빠르게 추가하여 구성원이 누구인지 확인할 수 있습니다.
 
 >[!TIP]
 >
 >선택할 수 있는 리드/회사 특성이 많이 있습니다. 저들 좀 봐!
 
-1. **전체 이름** 노란색 점을 찾아 두 번 클릭합니다.
+1. **[!UICONTROL Full Name]** 노란색 점을 찾아 두 번 클릭합니다.
 
    ![](assets/eight.png)
 

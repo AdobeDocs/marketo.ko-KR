@@ -4,9 +4,9 @@ description: 세그멘테이션 순서 우선 순위 - Marketo 문서 - 제품 �
 title: 세분화 순서 우선 순위
 exl-id: c20d07c8-5e53-4f54-a7a3-2e1aa4fb0cdd
 feature: Segmentation
-source-git-commit: 0dd2aa60bd1cac141d57188d0e618702143e2671
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '126'
+source-wordcount: '122'
 ht-degree: 0%
 
 ---
@@ -18,7 +18,7 @@ ht-degree: 0%
 >[!PREREQUISITES]
 >
 >[세분화 만들기](/help/marketo/product-docs/personalization/segmentation-and-snippets/segmentation/create-a-segmentation.md)
->[세그먼트 규칙 정의](/help/marketo/product-docs/personalization/segmentation-and-snippets/segmentation/define-segment-rules.md)
+>>[세그먼트 규칙 정의](/help/marketo/product-docs/personalization/segmentation-and-snippets/segmentation/define-segment-rules.md)
 
 >[!NOTE]
 >
@@ -28,7 +28,7 @@ ht-degree: 0%
 
    ![](assets/segmentation-order-priority-1.png)
 
-1. **세그먼테이션**&#x200B;을 선택하세요. **세그먼테이션 작업**&#x200B;에서 **세그먼트 편집**&#x200B;을 클릭하세요.
+1. **세그먼테이션**&#x200B;을 선택하세요. **[!UICONTROL Segmentation Actions]**&#x200B;에서 **[!UICONTROL Edit Segments]**&#x200B;을(를) 클릭합니다.
 
    ![](assets/segmentation-order-priority-2.png)
 

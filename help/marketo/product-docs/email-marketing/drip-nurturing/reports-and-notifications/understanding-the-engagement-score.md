@@ -4,9 +4,9 @@ description: 참여 점수 이해 - Marketo 문서 - 제품 설명서
 title: 참여 점수 이해
 exl-id: 9ba7d6d1-839b-429a-a082-1d87676c394e
 feature: Engagement Programs, Reporting
-source-git-commit: d20a9bb584f69282eefae3704ce4be2179b29d0b
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '180'
+source-wordcount: '175'
 ht-degree: 0%
 
 ---
@@ -19,7 +19,7 @@ ht-degree: 0%
 
 ![](assets/highestengagementwidget.jpg)
 
-점수는 참여 행동(열기, 클릭, 프로그램 성공)과 해제 행동(구독 취소)을 고려하는 독점 알고리즘을 기반으로 합니다. 드립 및 육성 스타일 이메일에 대해 벤치마킹하여 평균 50개를 제공합니다. 콘텐츠에 참여할 수 있는 기회를 제공하기 위해 참여 점수는 각 출연진 후 72시간 후에 계산됩니다. 또한 점수는 **최근 3개의** 캐스트의 데이터만 다룹니다.
+점수는 참여 행동([!UICONTROL Open], [!UICONTROL Click], [!UICONTROL Program Success])과 해제 행동([!UICONTROL Unsubscribe])을 고려하는 독점 알고리즘을 기반으로 합니다. 드립 및 육성 스타일 이메일에 대해 벤치마킹하여 평균 50개를 제공합니다. 콘텐츠에 참여할 수 있는 기회를 제공하기 위해 참여 점수는 각 출연진 후 72시간 후에 계산됩니다. 또한 점수는 **최근 3개의** 캐스트의 데이터만 다룹니다.
 
 >[!NOTE]
 >

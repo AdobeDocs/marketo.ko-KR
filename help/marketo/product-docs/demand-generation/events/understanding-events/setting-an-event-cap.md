@@ -5,9 +5,9 @@ hide: true
 hidefromtoc: true
 exl-id: 5273f7f4-a636-4976-aee6-fc0d5c27bdfc
 feature: Events
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '197'
+source-wordcount: '182'
 ht-degree: 0%
 
 ---
@@ -31,22 +31,22 @@ ht-degree: 0%
 
    ![](assets/setting-an-event-cap-1.png)
 
-1. 개요에서 [!UICONTROL 이벤트 상한]을 찾아 **[!UICONTROL 설정되지 않음]**&#x200B;을 클릭합니다.
+1. 개요에서 [!UICONTROL Event Cap]을(를) 찾아 **[!UICONTROL Not Set]**&#x200B;을(를) 클릭합니다.
 
    ![](assets/setting-an-event-cap-2.png)
 
-1. 이벤트에 등록할 수 있는 최대 인원을 입력하고 **[!UICONTROL 다음]**&#x200B;을 클릭하세요.
+1. 이벤트에 등록할 수 있는 최대 인원을 입력하고 **[!UICONTROL Next]**&#x200B;을(를) 클릭합니다.
 
    ![](assets/setting-an-event-cap-3.png)
 
-1. [!UICONTROL 등록 페이지] 드롭다운을 클릭하고 등록 페이지로 사용할 랜딩 페이지를 선택합니다.
+1. [!UICONTROL Registration Page(s)] 드롭다운을 클릭하고 등록 페이지로 사용할 랜딩 페이지를 선택합니다.
 
    ![](assets/setting-an-event-cap-4.png)
 
-1. **[!UICONTROL 등록 전체 페이지]** 드롭다운을 클릭하고 등록 전체 페이지로 사용할 랜딩 페이지를 선택합니다. 완료되면 **[!UICONTROL 설정 및 사용]**&#x200B;을 클릭하세요.
+1. **[!UICONTROL Registration Full Page]** 드롭다운을 클릭하고 등록 전체 페이지로 사용할 랜딩 페이지를 선택합니다. 완료되면 **[!UICONTROL Set and Enable]**&#x200B;을(를) 클릭합니다.
 
    ![](assets/setting-an-event-cap-5.png)
 
-   준비가 완료되었습니다. 이벤트 상한 세부 정보를 편집하려면 [!UICONTROL 이벤트 상한] 옆에 있는 파란색 텍스트를 클릭하십시오.
+   준비가 완료되었습니다. 이벤트 상한 세부 정보를 편집하려면 [!UICONTROL Event Cap] 옆에 있는 파란색 텍스트를 클릭하십시오.
 
    ![](assets/setting-an-event-cap-6.png)

@@ -4,24 +4,24 @@ description: Microsoft Dynamics 동기화 - 영업 기회 동기화 - Marketo �
 title: Microsoft Dynamics 동기화 - 영업 기회 동기화
 exl-id: dcb72f28-c980-4183-8473-a1e5ad0c8d3c
 feature: Microsoft Dynamics
-source-git-commit: 9a130e0b2ec84b638adf37188b65b565b090fe1b
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '311'
+source-wordcount: '303'
 ht-degree: 0%
 
 ---
 
-# Microsoft Dynamics 동기화: 영업 기회 동기화 {#microsoft-dynamics-sync-opportunity-sync}
+# [!DNL Microsoft Dynamics] 동기화: 영업 기회 동기화 {#microsoft-dynamics-sync-opportunity-sync}
 
-Dynamics 동기화로의 Marketo Engage 기능은 매우 강력합니다. 다음은 영업 기회 동기화에 대한 세부 정보입니다.
+[!DNL Dynamics] 동기화로의 Marketo은 매우 강력합니다. 다음은 영업 기회 동기화에 대한 모든 세부 정보입니다.
 
 ## 두 시스템 간에 영업 기회 세부 정보가 어떻게 동기화됩니까? {#how-are-opportunity-details-kept-in-sync-between-the-two-systems}
 
-영업 기회 동기화는 Marketo에 대한 Dynamics의 한 가지 방법입니다. Dynamics에서 영업 기회를 변경하면 업데이트가 Marketo에 반영됩니다.
+영업 기회 동기화는 Marketo에 [!DNL Dynamics]하는 한 가지 방법입니다. [!DNL Dynamics]에서 영업 기회를 변경하면 업데이트가 Marketo에 반영됩니다.
 
-## Marketo을 사용하여 Dynamics에서 기회를 만들 수 있습니까? {#can-i-create-an-opportunity-in-dynamics-using-marketo}
+## Marketo을 사용하여 [!DNL Dynamics]에서 영업 기회를 만들 수 있습니까? {#can-i-create-an-opportunity-in-dynamics-using-marketo}
 
-아니요. Dynamics에서 영업 기회를 만들어야 하며 자동으로 Marketo에 동기화됩니다.
+아니요. [!DNL Dynamics]에서 영업 기회를 만들어야 하며 자동으로 Marketo에 동기화됩니다.
 
 ## 어떤 필드가 Marketo에 동기화됩니까? {#what-fields-will-sync-to-marketo}
 

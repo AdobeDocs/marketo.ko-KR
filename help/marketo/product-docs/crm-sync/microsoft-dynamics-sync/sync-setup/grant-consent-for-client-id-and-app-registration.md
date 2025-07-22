@@ -3,9 +3,9 @@ description: 클라이언트 Id 및 앱 등록에 대한 동의 - Marketo 문서
 title: 클라이언트 Id 및 앱 등록에 동의 부여
 exl-id: d0c851d7-24a1-4b17-9daa-f0ceed39d040
 feature: Microsoft Dynamics
-source-git-commit: 821d69736b1cbeac0c80718c58a7a3c471387545
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '266'
+source-wordcount: '255'
 ht-degree: 0%
 
 ---
@@ -16,7 +16,7 @@ ht-degree: 0%
 
 ## 동기화 사용자에 대해 위임된 사용자 권한 부여 {#grant-delegated-user-permissions-for-the-sync-user}
 
-1. 클린 텍스트 프로그램(Windows용 메모장, Mac용 텍스트 편집)을 사용하여 아래 텍스트를 붙여넣고 client_id, redirect_uri 및 state 값을 대체하여 인증용 URI(Uniform Resource Identifier)를 생성합니다.
+1. 클린 텍스트 프로그램(Windows용 메모장, Mac용 텍스트 편집)을 사용하여 아래 텍스트를 붙여넣고 `client_id`, `redirect_uri` 및 `state` 값을 대체하여 인증용 URI(Uniform Resource Identifier)를 만드십시오.
 
    ```
    https://login.microsoftonline.com/common/oauth2/authorize?
@@ -65,7 +65,7 @@ ht-degree: 0%
    >
    >다른 탭에서 관리자로 Azure에 이미 로그인한 경우 다른 브라우저 또는 시크릿 모드를 사용하여 동기화 사용자로 로그인해야 합니다.
 
-1. **[!UICONTROL 승인]**&#x200B;을 클릭합니다.
+1. **[!UICONTROL Accept]**&#x200B;을(를) 클릭합니다.
 
    ![](assets/grant-consent-for-client-id-app-registration-3.png)
 
@@ -75,14 +75,14 @@ ht-degree: 0%
 
 1. Azure 포털에서 애플리케이션 홈 페이지로 이동합니다.
 
-1. 관리에서 **[!UICONTROL API 권한]**&#x200B;을 클릭합니다.
+1. [!UICONTROL Manage]에서 **[!UICONTROL API Permissions]**&#x200B;을(를) 클릭합니다.
 
    ![](assets/grant-consent-for-client-id-app-registration-4.png)
 
-1. **[!UICONTROL 관리자 동의 부여]**(테넌트용) 단추를 클릭합니다.
+1. **[!UICONTROL Grant admin consent]**(테넌트용) 단추를 클릭합니다.
 
    ![](assets/grant-consent-for-client-id-app-registration-5.png)
 
-1. 확인하려면 **[!UICONTROL 예]**&#x200B;를 클릭하세요.
+1. **[!UICONTROL Yes]**&#x200B;을(를) 클릭하여 확인합니다.
 
    ![](assets/grant-consent-for-client-id-app-registration-6.png)

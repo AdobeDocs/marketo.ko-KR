@@ -4,9 +4,9 @@ description: Gmail에서 이메일을 보내는 방법 - Marketo 문서 - 제품
 title: Gmail에서 이메일을 보내는 방법
 exl-id: 8a036b37-984c-4298-917e-fa680657b79f
 feature: Marketo Sales Connect
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '135'
+source-wordcount: '133'
 ht-degree: 0%
 
 ---
@@ -25,4 +25,4 @@ ht-degree: 0%
 
 1. 이메일 템플릿을 선택하거나 새 메시지를 작성하십시오.
 
-1. 전자 메일을 보낼 준비가 되면 **전송 및 연결** 단추를 클릭합니다. 일반적인 전송 단추 대신 이 단추를 클릭하면 추적이 적용된 상태로 이메일이 전송됩니다. Sales Connect는 이메일이 열린 시간과 누군가가 링크를 클릭하는 경우를 추적합니다.
+1. 전자 메일을 보낼 준비가 되면 **[!UICONTROL Send & Connect]** 단추를 클릭합니다. 일반적인 전송 단추 대신 이 단추를 클릭하면 추적이 적용된 상태로 이메일이 전송됩니다. Sales Connect는 이메일이 열린 시간과 누군가가 링크를 클릭하는 경우를 추적합니다.

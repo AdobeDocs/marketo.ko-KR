@@ -4,9 +4,9 @@ description: 텍스트 전용 이메일 만들기 - Marketo 문서 - 제품 설�
 title: 텍스트 전용 이메일 만들기
 exl-id: ac0b43cb-4cef-4079-ad97-4ec6b92a2139
 feature: Email Editor
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '186'
+source-wordcount: '167'
 ht-degree: 0%
 
 ---
@@ -19,27 +19,27 @@ ht-degree: 0%
 >
 >열기는 전자 메일의 이미지(보이지 않는 추적 픽셀 포함)를 다운로드하는 받는 사람에 의해 추적되므로 열기는 텍스트 전용 전자 메일에 대해 추적할 수 **없음**&#x200B;입니다.
 
-1. **마케팅 활동** 영역으로 이동합니다.
+1. **[!UICONTROL Marketing Activities]** 영역으로 이동합니다.
 
    ![](assets/one-1.png)
 
-1. 프로그램을 선택하고 **새로 만들기** 드롭다운을 클릭한 다음 **새 로컬 자산**&#x200B;을 선택합니다.
+1. 프로그램을 선택하고 **[!UICONTROL New]** 드롭다운을 클릭한 다음 **[!UICONTROL New Local Asset]**&#x200B;을(를) 선택합니다.
 
    ![](assets/two-1.png)
 
-1. **전자 메일**&#x200B;을 선택하세요.
+1. **[!UICONTROL Email]**&#x200B;를 선택합니다.
 
    ![](assets/three-1.png)
 
-1. **이름**&#x200B;을(를) 입력하고 템플릿을 선택한 다음 **만들기**&#x200B;를 클릭합니다.
+1. **[!UICONTROL Name]**&#x200B;을(를) 입력하고 템플릿을 선택한 다음 **[!UICONTROL Create]**&#x200B;을(를) 클릭합니다.
 
    ![](assets/four-1.png)
 
-1. 전자 메일 편집기에서 **전자 메일 설정**&#x200B;을 클릭합니다.
+1. 전자 메일 편집기에서 **[!UICONTROL Email Settings]**&#x200B;을(를) 클릭합니다.
 
    ![](assets/five.png)
 
-1. **텍스트만**&#x200B;을(를) 확인하고 **저장**&#x200B;을 클릭합니다.
+1. **[!UICONTROL Text Only]**&#x200B;을(를) 확인하고 **[!UICONTROL Save]**&#x200B;을(를) 클릭합니다.
 
    ![](assets/six.png)
 
@@ -51,7 +51,7 @@ ht-degree: 0%
    >
    >기존 이메일을 편집하고 이 설정을 변경할 수도 있습니다. 초안을 승인하는 것을 잊지 마세요.
 
-1. **HTML에서 자동으로 복사** 확인란의 선택을 취소합니다.
+1. **[!UICONTROL Automatically copy from HTML]** 확인란의 선택을 취소합니다.
 
    ![](assets/seven.png)
 
@@ -63,7 +63,7 @@ ht-degree: 0%
 
    ![](assets/eight.png)
 
-1. 텍스트를 편집하고 **저장**&#x200B;을 클릭하세요.
+1. 텍스트를 편집하고 **[!UICONTROL Save]**&#x200B;을(를) 클릭합니다.
 
    ![](assets/nine.png)
 

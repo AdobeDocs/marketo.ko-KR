@@ -4,16 +4,16 @@ description: 웹 Personalization의 작업 공간 - Marketo 문서 - 제품 설�
 title: 웹 Personalization의 작업 공간
 exl-id: 6b80fb8d-3f6a-4503-af5b-9627e5645247
 feature: Web Personalization
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '109'
+source-wordcount: '103'
 ht-degree: 0%
 
 ---
 
-# 웹 Personalization의 작업 공간 {#workspaces-in-web-personalization}
+# [!UICONTROL Web Personalization]의 작업 영역 {#workspaces-in-web-personalization}
 
-웹 Personalization은 웹 캠페인 및 웹 세그먼트에 대한 여러 작업 공간을 지원합니다.
+[!UICONTROL Web Personalization]은(는) 웹 캠페인 및 웹 세그먼트를 위한 여러 작업 영역을 지원합니다.
 
 ## 작업 영역 전환 {#switch-workspaces}
 
@@ -23,11 +23,11 @@ ht-degree: 0%
 
 ## 세그먼트의 Workspace 변경 {#change-a-segments-workspace}
 
-1. **세그먼트** 페이지로 이동하여 세그먼트를 선택하고 편집 아이콘을 클릭합니다.
+1. **[!UICONTROL Segments]** 페이지로 이동하여 세그먼트를 선택하고 편집 아이콘을 클릭합니다.
 
    ![](assets/ss4.png)
 
-1. **Workspace** 드롭다운에서 다른 작업 영역을 선택하십시오.
+1. **[!UICONTROL Workspace]** 드롭다운에서 다른 작업 영역을 선택하십시오.
 
    ![](assets/ss6.png)
 

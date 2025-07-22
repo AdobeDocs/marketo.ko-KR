@@ -4,14 +4,14 @@ description: 매출 탐색기 보고서에서 필드 삭제 - Marketo 문서 - �
 title: 수익 탐색기 보고서에서 필드 삭제
 exl-id: 4eeedd8e-da00-4bcf-9f7a-25b3683ad0a1
 feature: Reporting, Revenue Cycle Analytics
-source-git-commit: d20a9bb584f69282eefae3704ce4be2179b29d0b
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '77'
+source-wordcount: '73'
 ht-degree: 0%
 
 ---
 
-# 수익 탐색기 보고서에서 필드 삭제 {#deleting-a-field-in-a-revenue-explorer-report}
+# [!UICONTROL Revenue Explorer] 보고서의 필드 삭제 {#deleting-a-field-in-a-revenue-explorer-report}
 
 경우에 따라 잘못된 필드를 보고서에 드래그할 수 있습니다. 제거 방법은 다음과 같습니다.
 
@@ -25,4 +25,4 @@ ht-degree: 0%
 
 >[!MORELIKETHIS]
 >
->[매출 탐색기 보고서 저장](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-explorer/saving-a-revenue-explorer-report.md)
+>[[!UICONTROL Revenue Explorer] 보고서 저장 중](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-explorer/saving-a-revenue-explorer-report.md)

@@ -4,9 +4,9 @@ description: 참여 프로그램 켜기 및 끄기 - Marketo 문서 - 제품 설
 title: 참여 프로그램 켜기 및 끄기
 exl-id: 4fe68ca1-7a54-44b0-ab3b-06f482f65304
 feature: Engagement Programs
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '94'
+source-wordcount: '87'
 ht-degree: 0%
 
 ---
@@ -15,11 +15,11 @@ ht-degree: 0%
 
 스위치를 켜면 참여 프로그램을 끌 수 있습니다. 이렇게 하면 콘텐츠가 전송되지 않습니다. 방법은 다음과 같습니다.
 
-1. **마케팅 활동**(으)로 이동합니다.
+1. **[!UICONTROL Marketing Activities]**(으)로 이동합니다.
 
    ![](assets/login-marketing-activities.png)
 
-1. 참여 프로그램을 선택하고 **설정**&#x200B;을 클릭합니다.
+1. 참여 프로그램을 선택하고 **[!UICONTROL Setup]**&#x200B;을(를) 클릭합니다.
 
    >[!NOTE]
    >
@@ -27,11 +27,11 @@ ht-degree: 0%
 
    ![](assets/image2014-9-15-17-3a14-3a56.png)
 
-1. **프로그램 상태**&#x200B;를 두 번 클릭합니다.
+1. **[!UICONTROL Program Status]**&#x200B;을(를) 두 번 클릭합니다.
 
    ![](assets/image2014-9-15-17-3a14-3a59.png)
 
-1. **해제**&#x200B;를 선택하고 **저장**&#x200B;을 클릭합니다.
+1. **[!UICONTROL Off]**&#x200B;을(를) 선택하고 **[!UICONTROL Save]**&#x200B;을(를) 클릭합니다.
 
    ![](assets/image2014-9-15-17-3a15-3a2.png)
 

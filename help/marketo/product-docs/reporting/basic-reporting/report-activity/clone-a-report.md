@@ -4,9 +4,9 @@ description: 보고서 복제 - Marketo 문서 - 제품 설명서
 title: 보고서 복제
 exl-id: ca1485a1-0c07-4261-8aa5-9d9f8d29046d
 feature: Reporting
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '77'
+source-wordcount: '69'
 ht-degree: 0%
 
 ---
@@ -15,11 +15,11 @@ ht-degree: 0%
 
 보고서의 중복을 만들어 원본을 변경하지 않고 추가로 사용자 지정합니다.
 
-1. **마케팅 활동**(또는 **분석**) 영역으로 이동합니다.
+1. **[!UICONTROL Marketing Activities]**(또는 **[!UICONTROL Analytics]**) 영역으로 이동합니다.
 
    ![](assets/image2014-9-16-14-3a23-3a46.png)
 
-1. 보고서를 선택합니다. **보고서 작업** > **보고서 복제**&#x200B;를 선택합니다.
+1. 보고서를 선택합니다. **[!UICONTROL Report Actions]** > **[!UICONTROL Clone a Report]**&#x200B;을(를) 선택합니다.
 
    ![](assets/image2014-9-16-14-3a23-3a53.png)
 

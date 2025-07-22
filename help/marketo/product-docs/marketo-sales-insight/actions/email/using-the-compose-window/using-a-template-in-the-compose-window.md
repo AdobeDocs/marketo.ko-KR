@@ -3,9 +3,9 @@ description: 작성 창에서 템플릿 사용 - Marketo 문서 - 제품 설명�
 title: 작성 창에서 템플릿 사용
 exl-id: 766cf3e6-5afa-4ccc-9093-efd06b1713cf
 feature: Sales Insight Actions
-source-git-commit: 02b2e39580c5eac63de4b4b7fdaf2a835fdd4ba5
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '292'
+source-wordcount: '283'
 ht-degree: 0%
 
 ---
@@ -14,11 +14,11 @@ ht-degree: 0%
 
 ## 템플릿 찾기 및 사용 {#finding-and-using-templates}
 
-1. 전자 메일 초안을 만듭니다. 이 방법에는 여러 가지가 있습니다. 이 예제에서는 헤더에서 **작성**&#x200B;을 선택합니다.
+1. 전자 메일 초안을 만듭니다. 여러 가지 방법으로 만들 수 있습니다. 이 예제에서는 헤더에서 **[!UICONTROL Compose]**&#x200B;을(를) 선택합니다.
 
    ![](assets/using-a-template-in-the-compose-window-1.png)
 
-1. To 필드를 채웁니다.
+1. [!UICONTROL To] 필드를 채웁니다.
 
    ![](assets/using-a-template-in-the-compose-window-2.png)
 
@@ -26,7 +26,7 @@ ht-degree: 0%
 
    ![](assets/using-a-template-in-the-compose-window-3.png)
 
-1. 검색할 범주를 선택합니다(또는 모든 범주를 검색하려면 모두 선택).
+1. 검색할 범주를 선택하십시오(또는 모든 범주를 검색하려면 [!UICONTROL All]을(를) 선택하십시오).
 
    ![](assets/using-a-template-in-the-compose-window-4.png)
 
@@ -42,15 +42,15 @@ ht-degree: 0%
 
 가장 많이 사용하는 템플릿에 빠르게 액세스할 수 있도록 **최대 5개의** 특정 템플릿 범주를 즐겨찾기에 추가합니다.
 
-1. 전자 메일 초안을 만듭니다. 이 방법에는 여러 가지가 있습니다. 이 예제에서는 헤더에서 **작성**&#x200B;을 선택합니다.
+1. 전자 메일 초안을 만듭니다. 여러 가지 방법으로 만들 수 있습니다. 이 예제에서는 헤더에서 **[!UICONTROL Compose]**&#x200B;을(를) 선택합니다.
 
    ![](assets/using-a-template-in-the-compose-window-6.png)
 
-1. 즐겨찾기 옆에 있는 **+** 아이콘을 클릭합니다.
+1. **옆에 있는**+[!UICONTROL Favorites] 아이콘을 클릭합니다.
 
    ![](assets/using-a-template-in-the-compose-window-7.png)
 
-1. **범주 고정** 드롭다운을 클릭하고 원하는 범주를 선택합니다.
+1. **[!UICONTROL Pin a Category]** 드롭다운을 클릭하고 원하는 범주를 선택합니다.
 
    ![](assets/using-a-template-in-the-compose-window-8.png)
 
@@ -70,6 +70,6 @@ ht-degree: 0%
 
    >[!NOTE]
    >
-   >기본적으로 **즐겨찾기**&#x200B;가 있습니다. 범주가 아닌 즐겨 찾는 이메일 템플릿을 보유하고 있습니다.
+   >기본적으로 **[!UICONTROL Favorites]**&#x200B;이(가) 있습니다. 범주가 아닌 즐겨 찾는 이메일 템플릿을 보유하고 있습니다.
 
    선택한 카테고리가 고정되었습니다.

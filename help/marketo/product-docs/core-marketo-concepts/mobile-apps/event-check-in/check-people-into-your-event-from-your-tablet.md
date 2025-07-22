@@ -4,9 +4,9 @@ description: 태블릿에서 이벤트 직원 확인 - Marketo 문서 - 제품 �
 title: 태블릿에서 다른 사람을 내 이벤트에 체크 인
 exl-id: b48f5f95-8e36-441f-a785-1651f42f9f60
 feature: Mobile Marketing
-source-git-commit: 0abb315be0f9cb5f42fa41d72b446de8c2f62c1e
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '834'
+source-wordcount: '818'
 ht-degree: 0%
 
 ---
@@ -17,7 +17,7 @@ ht-degree: 0%
 
 >[!IMPORTANT]
 >
->2023년 10월 2일에 Adobe은 모든 앱스토어에서 Marketo 이벤트 앱을 제거했습니다. 태블릿/모바일 장치에 이미 앱이 설치되어 있는 경우 당분간 앱을 계속 사용할 수 있습니다. Marketo 인증을 위해 Marketo Engage 인스턴스가 Adobe ID로 마이그레이션되면 더 이상 앱에 액세스할 수 없습니다. [자세히 알아보기](https://nation.marketo.com/t5/product-discussions/marketo-events-app-and-marketo-moments-app-end-of-life/m-p/340712/highlight/true#M193869){target="_blank"}.
+>2023년 10월 2일, Adobe은 모든 앱스토어에서 Marketo 이벤트 앱을 제거했습니다. 태블릿/모바일 장치에 이미 앱이 설치되어 있는 경우 당분간 앱을 계속 사용할 수 있습니다. Marketo 인증을 위해 Marketo Engage 인스턴스가 Adobe ID로 마이그레이션되면 더 이상 앱에 액세스할 수 없습니다. [자세히 알아보기](https://nation.marketo.com/t5/product-discussions/marketo-events-app-and-marketo-moments-app-end-of-life/m-p/340712/highlight/true#M193869){target="_blank"}
 
 앱은 작은 레이아웃 및 디자인 차이점을 제외하고 [!DNL iPad]과(와) [!DNL Android] 모두에서 동일하게 작동합니다.
 
@@ -29,17 +29,17 @@ ht-degree: 0%
 
 1. [!DNL iPad] 또는 [!DNL Android] 태블릿에서 앱 아이콘을 탭합니다.
 
-1. Marketo 이벤트 앱을 시작하려면 **[!UICONTROL 로그인]**&#x200B;을 탭하세요.
+1. **[!UICONTROL Login]**&#x200B;을(를) 탭하여 Marketo 이벤트 앱을 시작합니다.
 
    ![](assets/1.jpg)
 
-1. Marketo 사용자 이름과 암호를 입력하고 **[!UICONTROL 로그인]**&#x200B;을 클릭합니다.
+1. Marketo 사용자 이름과 암호를 입력하고 **[!UICONTROL Login]**&#x200B;을(를) 클릭합니다.
 
    >[!NOTE]
    >
    >앱에서 사용자를 보려면 데이터베이스에 액세스할 수 있는 역할이 있어야 합니다.
 
-1. **[!UICONTROL 이벤트]**&#x200B;를 선택하십시오.
+1. **[!UICONTROL Event]** 선택.
 
    ![](assets/2.jpg)
 
@@ -65,7 +65,7 @@ ht-degree: 0%
 
    ![](assets/image2016-4-15-14-3a50-3a19.png)
 
-1. 선택한 이름을 누르고 개인 레코드에서 **[!UICONTROL 체크인]**&#x200B;을 누릅니다.
+1. 선택한 이름을 누르고 개인 레코드에서 **[!UICONTROL Check-in]**&#x200B;을(를) 누릅니다.
 
    ![](assets/img-0068-35-hands.png)
 
@@ -81,13 +81,13 @@ ht-degree: 0%
 
 >[!TIP]
 >
->초대를 받았지만 등록하지 않은 사용자는 검색 상자 바로 아래에 있는 **[!UICONTROL 서버에서 검색]**&#x200B;을 클릭하여 이름을 검색할 수 있습니다. 이벤트에 대한 초대됨 상태가 **[!UICONTROL 참석함]**(으)로 변경됩니다.
+>초대를 받았지만 등록하지 않은 사용자는 검색 상자 바로 아래의 **[!UICONTROL Search on Server]**&#x200B;을(를) 클릭하여 이름을 검색할 수 있습니다. 이벤트에 대해 초대됨 상태가 **[!UICONTROL Attended]**(으)로 변경됩니다.
 
 ## 태블릿에서 새 사용자 만들기 {#create-a-new-person-on-the-tablet}
 
 Marketo 데이터베이스에 기존 사람이 아닌 게스트를 수동으로 추가할 수 있습니다. Marketo과 동기화할 때 자동으로 체크인되고 데이터베이스에 추가됩니다.
 
-1. **[!UICONTROL 추가]**&#x200B;를 클릭합니다.
+1. **[!UICONTROL Add]**&#x200B;을(를) 클릭합니다.
 
    **[!DNL iPad]**
 
@@ -97,7 +97,7 @@ Marketo 데이터베이스에 기존 사람이 아닌 게스트를 수동으로 
 
    ![](assets/image2016-4-15-15-3a2-3a38.png)
 
-1. 가능한 많은 기본 정보 필드를 작성하고 **[!UICONTROL 완료]**&#x200B;를 탭합니다.
+1. 가능한 많은 기본 정보 필드를 작성하고 **[!UICONTROL Done]**&#x200B;을(를) 탭합니다.
 
    ![](assets/image2016-4-15-11-3a33-3a59.png)
 
@@ -113,9 +113,9 @@ Marketo 데이터베이스에 기존 사람이 아닌 게스트를 수동으로 
 
 ## 체크인 취소 {#reverse-a-check-in}
 
-실수로 사람을 체크 인한 경우 _Marketo과 동기화하기 전에_&#x200B;하면 출석됨 상태를 되돌릴 수 있습니다.
+실수로 다른 사람을 체크 인한 경우 _Marketo과 동기화하기 전에_&#x200B;하면 [!UICONTROL Attended] 상태를 되돌릴 수 있습니다.
 
-1. 목록에서 이름을 탭하고 개인 레코드에서 **[!UICONTROL 실행 취소]**&#x200B;를 탭합니다.
+1. 목록에서 이름을 탭하고 개인 레코드에서 **[!UICONTROL Undo]**&#x200B;을(를) 탭합니다.
 
    ![](assets/image2016-4-15-11-3a38-3a31.png)
 
@@ -125,17 +125,17 @@ Marketo 데이터베이스에 기존 사람이 아닌 게스트를 수동으로 
 
 이벤트에서 바로 게스트 정보를 추가하고 수정할 수 있습니다!
 
-1. 인물 목록에서 이름을 탭하고 **[!UICONTROL 편집]**&#x200B;을 탭하세요.
+1. 사람 목록에서 이름을 탭하고 **[!UICONTROL Edit]**&#x200B;을(를) 탭합니다.
 
    ![](assets/image2016-4-15-11-3a43-3a46.png)
 
-1. 정보를 편집하고 필드에 추가한 다음 **[!UICONTROL 완료]**&#x200B;를 탭합니다.
+1. 정보를 편집하고 필드에 추가한 다음 **[!UICONTROL Done]**&#x200B;을(를) 탭합니다.
 
    ![](assets/image2016-4-15-11-3a50-3a18.png)
 
    >[!NOTE]
    >
-   >[!DNL Android]에서 **[!UICONTROL 완료]** 단추를 숨길 수 있습니다. 아래로 스크롤하여 찾습니다.
+   >[!DNL Android]에서 **[!UICONTROL Done]** 단추가 숨겨져 있을 수 있습니다. 아래로 스크롤하여 찾습니다.
 
 앱을 Marketo과 동기화하면 정보가 업데이트됩니다.
 
@@ -149,7 +149,7 @@ Marketo 이벤트 앱은 활동을 Marketo 데이터베이스에 다시 동기�
 
 1. 태블릿에서 앱을 열고 이벤트로 이동합니다.
 
-1. **[!UICONTROL 동기화]**&#x200B;를 누릅니다.
+1. **[!UICONTROL Sync]**&#x200B;을(를) 누릅니다.
 
    이벤트가 Marketo 데이터베이스의 새 체크 인으로 업데이트됩니다. [동기화] 단추의 빨간색 카운터는 다른 사용자를 체크 인할 때까지 지워집니다.
 

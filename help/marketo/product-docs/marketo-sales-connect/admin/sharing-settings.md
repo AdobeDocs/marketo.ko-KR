@@ -4,9 +4,9 @@ description: 공유 설정 - Marketo 문서 - 제품 설명서
 title: 공유 설정
 exl-id: fdd4e286-c417-41f1-9cbe-bd78cb597310
 feature: Marketo Sales Connect
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '230'
+source-wordcount: '209'
 ht-degree: 0%
 
 ---
@@ -17,21 +17,21 @@ ht-degree: 0%
 
 ![](assets/main.png)
 
-Sales Connect 계정이 처음 만들어지면 공유 설정이 활성화됩니다. 이를 통해 계정 관리자는 홍수 게이트를 열기 전에 템플릿 범주를 만들고 구성할 수 있으며 사용자는 팀 범주로 콘텐츠를 공유할 수 있습니다.
+Sales Connect 계정이 처음 만들어지면 [!UICONTROL Sharing Settings]이(가) 활성화됩니다. 이를 통해 계정 관리자는 홍수 게이트를 열기 전에 템플릿 범주를 만들고 구성할 수 있으며 사용자는 팀 범주로 콘텐츠를 공유할 수 있습니다.
 
-공유 설정이 활성화되면 팀이나 모든 사람에게 공유 권한이 제공되지 않으면 관리자만 범주로 공유할 수 있습니다. 공유 설정이 비활성화되어 있으면 제한이 없으며 모든 사용자가 모든 템플릿 카테고리에 공유할 수 있습니다.
+[!UICONTROL Sharing Settings]을(를) 사용하도록 설정하면 팀이나 모든 사용자에게 공유 권한이 제공되지 않는 한 관리자만 범주로 공유할 수 있습니다. [!UICONTROL Sharing Settings]을(를) 사용하지 않도록 설정한 상태에서는 제한 사항이 없으며 모든 사용자가 모든 템플릿 범주로 공유할 수 있습니다.
 
 ## 공유 설정 구성 {#configure-your-sharing-settings}
 
-1. [웹 응용 프로그램](https://toutapp.com/login)에서 설정 페이지로 이동합니다.
+1. [웹 응용 프로그램](https://toutapp.com/login)에서 [!UICONTROL Settings] 페이지로 이동합니다.
 
    ![](assets/one-2.png)
 
-1. 관리자 설정에서 **액세스 공유**&#x200B;를 선택합니다.
+1. [!UICONTROL Admin Settings]에서 **[!UICONTROL Sharing Access]**&#x200B;을(를) 선택합니다.
 
    ![](assets/two-2.png)
 
-1. **공유 설정**&#x200B;이 활성화되어 있는지 확인하십시오. 즉, 기본적으로 관리자만 템플릿 카테고리의 템플릿을 공유할 수 있습니다.
+1. **[!UICONTROL Sharing Settings]**&#x200B;이(가) 활성화되어 있는지 확인하십시오. 즉, 기본적으로 관리자만 템플릿 카테고리의 템플릿을 공유할 수 있습니다.
 
    ![](assets/three-2.png)
 
@@ -39,7 +39,7 @@ Sales Connect 계정이 처음 만들어지면 공유 설정이 활성화됩니�
 
    ![](assets/four-2.png)
 
-1. **액세스할 팀 추가**&#x200B;를 클릭합니다.
+1. **[!UICONTROL Add Teams for Access]**&#x200B;을(를) 클릭합니다.
 
    ![](assets/five-2.png)
 
@@ -51,7 +51,7 @@ Sales Connect 계정이 처음 만들어지면 공유 설정이 활성화됩니�
    >
    >팀이 표시되지 않으면 팀 관리로 이동하여 사용자 팀을 만들어야 합니다.
 
-1. 저장하려면 **액세스할 팀 추가**&#x200B;를 클릭하세요.
+1. 저장하려면 **[!UICONTROL Add Teams for Access]**&#x200B;을(를) 클릭합니다.
 
    ![](assets/seven-1.png)
 

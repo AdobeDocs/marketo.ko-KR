@@ -4,9 +4,9 @@ description: Facebook 리드 광고 설정 - Marketo 문서 - 제품 설명서
 title: Facebook 리드 광고 설정
 exl-id: 24cb74da-6b46-45de-ba4a-66e3d490afd7
 feature: Integrations
-source-git-commit: 5b31abc52e9bba690e908d9ee6018cecad0080e7
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '321'
+source-wordcount: '298'
 ht-degree: 0%
 
 ---
@@ -31,7 +31,7 @@ ht-degree: 0%
 
    ![](assets/set-up-facebook-lead-ads-2.png)
 
-1. 서비스에 대한 **표시 이름**&#x200B;을(를) 입력하고 드롭다운에서 **Facebook 리드 광고** 서비스를 선택한 다음 **만들기**&#x200B;를 클릭합니다.
+1. 서비스에 대한 **[!UICONTROL Display Name]**&#x200B;을(를) 입력하고 드롭다운에서 **[!UICONTROL Facebook Lead Ads]** 서비스를 선택한 다음 **[!UICONTROL Create]**&#x200B;을(를) 클릭합니다.
 
    ![](assets/set-up-facebook-lead-ads-3.png)
 
@@ -39,31 +39,31 @@ ht-degree: 0%
 
    >[!NOTE]
    >
-   >Facebook 계정은 잠재 고객 광고를 가져올 모든 Facebook 비즈니스 페이지에 액세스해야 합니다.
+   >[!DNL Facebook] 계정은 리드 광고를 가져올 모든 [!DNL Facebook] 비즈니스 페이지에 액세스해야 합니다.
 
    ![](assets/set-up-facebook-lead-ads-4.png)
 
-1. Facebook에 로그인한 후 Marketo으로 돌아가서 **승인**&#x200B;을 클릭하세요.
+1. [!DNL Facebook]에 로그인한 후 Marketo으로 돌아가서 **[!UICONTROL Authorize]**&#x200B;을(를) 클릭합니다.
 
    ![](assets/set-up-facebook-lead-ads-5.png)
 
-1. 메시지가 표시되면 **확인**&#x200B;을 클릭하여 Facebook에 Marketo 앱 설치를 수락합니다.
+1. 메시지가 표시되면 **[!UICONTROL OK]**&#x200B;을(를) 클릭하여 [!DNL Facebook]에 Marketo 앱 설치를 수락합니다.
 
    ![](assets/set-up-facebook-lead-ads-6.png)
 
-1. 이제 권한이 부여되었음을 알 수 있습니다. **다음**&#x200B;을 클릭합니다.
+1. 이제 권한이 부여되었음을 알 수 있습니다. **[!UICONTROL Next]**&#x200B;을(를) 클릭합니다.
 
    ![](assets/set-up-facebook-lead-ads-7.png)
 
-1. Marketo에서 Facebook 리드 광고를 가져올 페이지를 선택하고 **다음**&#x200B;을(를) 클릭합니다.
+1. Marketo에서 [!UICONTROL Facebook Lead Ads]을(를) 가져올 페이지를 선택하고 **[!UICONTROL Next]**&#x200B;을(를) 클릭합니다.
 
    >[!TIP]
    >
-   >예상한 페이지가 표시되지 않으면 인증에 사용된 Facebook 계정이 Facebook의 페이지에 추가되었는지 확인한 다음 다시 시도하십시오.
+   >필요한 페이지가 표시되지 않으면 인증에 사용된 [!DNL Facebook] 계정이 [!DNL Facebook]의 페이지에 추가되었는지 확인한 다음 다시 시도하십시오.
 
    ![](assets/set-up-facebook-lead-ads-8.png)
 
-1. 기본 Facebook과 Marketo 필드 매핑을 수락하려면 **만들기**&#x200B;를 클릭하면 됩니다.
+1. Marketo 필드 매핑에 기본 [!DNL Facebook]을(를) 허용하려면 **[!UICONTROL Create]**&#x200B;을(를) 클릭하면 됩니다.
 
    >[!TIP]
    >
@@ -71,11 +71,11 @@ ht-degree: 0%
 
    >[!CAUTION]
    >
-   >Marketo은 두 개의 Facebook 필드를 단일 Marketo 필드에 매핑하는 것을 지원하지 않으며, 1대 1만 지원합니다. 2를 1로 매핑하면 리드가 Marketo 시스템으로 들어가지 못할 수 있습니다.
+   >Marketo에서는 두 개의 [!DNL Facebook] 필드를 단일 Marketo 필드에 매핑할 수 없으며 1대 1만 지원합니다. 2를 1로 매핑하면 리드가 Marketo 시스템으로 들어가지 못할 수 있습니다.
 
    ![](assets/set-up-facebook-lead-ads-9.png)
 
-   잘했어! 성공적인 Facebook 리드 광고 캠페인을 실행하면 리드가 Marketo으로 유입되기 시작합니다.
+   잘했어! [!DNL Facebook]개의 리드 광고 캠페인을 성공적으로 실행하면 리드가 Marketo으로 유입되기 시작합니다.
 
    ![](assets/set-up-facebook-lead-ads-10.png)
 

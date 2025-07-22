@@ -4,9 +4,9 @@ description: 고급 프로그램 보고 개요 - Marketo 문서 - 제품 설명�
 title: 고급 프로그램 보고 개요
 exl-id: 3b77fd34-a94f-4c6a-9b96-d326b46e731c
 feature: Reporting, Revenue Cycle Analytics
-source-git-commit: d20a9bb584f69282eefae3704ce4be2179b29d0b
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '271'
+source-wordcount: '267'
 ht-degree: 0%
 
 ---
@@ -23,7 +23,7 @@ ht-degree: 0%
 
 ## 분석 영역이란? {#whats-an-analysis-area}
 
-분석 영역에는 매출 탐색기 내에서 서로 다른 데이터 세트와 지표가 각각 포함되어 있습니다. 각 영역은 보려고 선택한 보고 주체와 관련이 있습니다.
+분석 영역에는 각각 [!UICONTROL Revenue Explorer] 내에 다른 데이터 세트와 지표가 있습니다. 각 영역은 보려고 선택한 보고 주체와 관련이 있습니다.
 
 ## 프로그램 분석 영역 {#program-analysis-areas}
 
@@ -41,7 +41,7 @@ ht-degree: 0%
 
 * **영업 기회 영향 분석기** - 영업 기회를 창출한 프로그램 및 주요 참여의 영향을 측정하여 마케팅의 기여도를 증명합니다.
 
-## 보고서 옵션 {#report-options}
+## [!UICONTROL Report Options] {#report-options}
 
 각 보고서에는 경험을 사용자 지정하는 데 도움이 되는 몇 가지 옵션이 있습니다.
 
@@ -55,4 +55,4 @@ ht-degree: 0%
 >
 >수익 주기 탐색기의 데이터는 Marketo 인스턴스에서 매일 밤 업데이트됩니다. 따라서 Marketo 내의 개인 및 계정 활동 변경 사항은 다음 영업일에 수익 주기 탐색기에 반영됩니다.
 
-매출 분석에 익숙해지면 프로그램과 해당 프로그램에 미치는 영향에 대한 완전한 통찰력을 얻을 수 있습니다.
+매출 분석에 익숙해지면 프로그램에 대한 전체 insight과 그에 대한 영향을 얻을 수 있습니다.

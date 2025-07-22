@@ -1,18 +1,18 @@
 ---
-description: 기본 Veeva 필드 매핑 - Marketo 문서 - 제품 설명서
-title: 기본 Veeva 필드 매핑
+description: 기본 [!DNL Veeva] 필드 매핑 - Marketo 문서 - 제품 설명서
+title: 기본 [!DNL Veeva] 필드 매핑
 exl-id: 3bf36d50-daea-431f-9537-b3007ad75945
 feature: Veeva CRM
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '263'
-ht-degree: 34%
+source-wordcount: '253'
+ht-degree: 36%
 
 ---
 
-# 기본 Veeva 필드 매핑 {#default-veeva-field-mapping}
+# 기본 [!DNL Veeva] 필드 매핑 {#default-veeva-field-mapping}
 
-처음에 Marketo Engage 계정을 Veeva와 동기화하면 Marketo에서 내장된 Veeva와 Marketo 필드 간에 이러한 연결을 자동으로 만듭니다. Marketo은 계정 및 연락처의 사용자 정의 필드도 동기화합니다.
+Marketo Engage 계정을 [!DNL Veeva]과(와) 처음 동기화할 때 Marketo은 기본 제공 [!DNL Veeva]과(와) Marketo 필드 간에 이러한 연결을 자동으로 만듭니다. Marketo은 계정 및 연락처의 사용자 정의 필드도 동기화합니다.
 
 ## 연락처 필드 {#contact-fields}
 
@@ -70,11 +70,11 @@ ht-degree: 34%
     </tr>
     <tr>
       <td>잠재 고객 점수</td>
-      <td>스코어</td>
+      <td>점수</td>
     </tr>
     <tr>
       <td>메일링 시티</td>
-      <td>도시</td>
+      <td>구/군/시</td>
     </tr>
     <tr>
       <td>MailingCountry</td>
@@ -82,11 +82,11 @@ ht-degree: 34%
     </tr>
     <tr>
       <td>메일링 우편 번호</td>
-      <td>우편 번호</td>
+      <td>우편번호</td>
     </tr>
     <tr>
       <td>메일링 상태</td>
-      <td>주</td>
+      <td>주/도</td>
     </tr>
     <tr>
       <td>메일링 스트리트</td>
@@ -154,8 +154,8 @@ ht-degree: 34%
       <td>회사 메모</td>
     </tr>
     <tr>
-      <td>산업</td>
-      <td>산업</td>
+      <td>업종</td>
+      <td>업종</td>
     </tr>
     <tr>
       <td>삭제됨</td>
@@ -192,7 +192,7 @@ ht-degree: 34%
   </tbody>
 </table>
 
-## Marketo의 Veeva 관련 시스템 필드(읽기 전용) {#veeva-related-system-fields-in-marketo}
+## Marketo의 [!DNL Veeva] 관련 시스템 필드(읽기 전용) {#veeva-related-system-fields-in-marketo}
 
 이러한 필드는 Marketo에서 생성되지만 고객이 조정할 수 없습니다.
 
@@ -209,20 +209,20 @@ ht-degree: 34%
   </thead>
   <tbody>
     <tr>
-      <td>Veeva Id</td>
-      <td>18자 Salesforce ID</td>
+      <td>[!DNL Veeva] ID</td>
+      <td>18자 [!DNL Salesforce] ID</td>
     </tr>
     <tr>
-      <td>Veeva 유형</td>
+      <td>[!DNL Veeva] 유형</td>
       <td>연락처. 비어 있는 경우 잠재 고객은 Marketo의 사용자로만 존재합니다</td>
     </tr>
     <tr>
-      <td>Veeva 제작일</td>
+      <td>[!DNL Veeva] 만든 날짜</td>
       <td>SFDC에서 만든 날짜 (Marketo에서 만든 날짜와 다를 수 있음)</td>
     </tr>
     <tr>
-      <td>Veeva가 삭제되었습니다.</td>
-      <td>SFDC에 있었으나 삭제되었습니다. 이제 Marketo에서만 생활합니다.</td>
+      <td>[!DNL Veeva] 삭제됨</td>
+      <td>이전에 SFDC에 있었으나 삭제되었습니다. 이제 Marketo에서만 살게 되었습니다.</td>
     </tr>
   </tbody>
 </table>

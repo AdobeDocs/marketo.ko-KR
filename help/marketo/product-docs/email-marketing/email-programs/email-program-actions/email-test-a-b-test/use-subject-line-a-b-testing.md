@@ -4,22 +4,22 @@ description: '"제목란" A/B 테스트 - Marketo 문서 - 제품 설명서 사�
 title: '"제목란" A/B 테스트 사용'
 exl-id: 99c2415e-886b-44fa-ba96-5d4ec371753e
 feature: Email Programs, A/B Testing
-source-git-commit: d20a9bb584f69282eefae3704ce4be2179b29d0b
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '240'
+source-wordcount: '231'
 ht-degree: 0%
 
 ---
 
 # &quot;제목란&quot; A/B 테스트 사용 {#use-subject-line-a-b-testing}
 
-이메일을 쉽게 A/B 테스트할 수 있습니다. 가장 일반적인 테스트 중 하나는 **제목 줄** 테스트입니다.
+이메일을 쉽게 A/B 테스트할 수 있습니다. 가장 일반적인 테스트 중 하나는 **[!UICONTROL Subject Line]** 테스트입니다.
 
 >[!PREREQUISITES]
 >
 >[A/B 테스트 추가](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/email-test-a-b-test/add-an-a-b-test.md)
 
-1. 이메일 타일 아래에서 이메일을 선택한 상태로 A/B 테스트 추가 를 클릭합니다.
+1. **[!UICONTROL Email tile]** 아래에서 전자 메일을 선택한 상태에서 **[!UICONTROL Add A/B Test]**&#x200B;을(를) 클릭합니다.
 
 ![](assets/image2014-9-12-15-3a6-3a2.png)
 
@@ -35,7 +35,7 @@ ht-degree: 0%
    >
    >**+**&#x200B;을(를) 클릭하여 제목 줄을 더 추가할 수 있습니다.
 
-1. 슬라이더를 사용하여 A/B 테스트를 받을 대상자의 비율을 선택하고 **다음**&#x200B;을(를) 클릭합니다.
+1. 슬라이더를 사용하여 A/B 테스트를 받을 대상 비율을 선택하고 **[!UICONTROL Next]**&#x200B;을(를) 클릭합니다.
 
    ![](assets/image2014-9-12-15-3a10-3a4.png)
 

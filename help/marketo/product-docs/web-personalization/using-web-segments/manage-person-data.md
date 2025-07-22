@@ -4,22 +4,22 @@ description: 개인 데이터 관리 - Marketo 문서 - 제품 설명서
 title: 개인 데이터 관리
 exl-id: 40f4aac8-c6e5-4cf3-9573-cac2fdf9bcad
 feature: Web Personalization
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '200'
+source-wordcount: '192'
 ht-degree: 7%
 
 ---
 
 # 개인 데이터 관리 {#manage-person-data}
 
-세분화에 사용할 개인 필드를 선택하여 웹 Personalization에 대한 개인 데이터를 활용합니다.
+세분화에 사용할 개인 필드를 선택하여 [!DNL Web Personalization]의 개인 데이터를 활용하십시오.
 
-1. **계정 설정**(으)로 이동합니다.
+1. **[!UICONTROL Account Settings]**(으)로 이동합니다.
 
    ![](assets/image2015-5-7-15-3a17-3a23.png)
 
-1. **데이터베이스**(으)로 이동합니다.
+1. **[!UICONTROL Database]**(으)로 이동합니다.
 
    ![](assets/account-settings-dropdown-database.jpg)
 
@@ -35,7 +35,7 @@ ht-degree: 7%
 
 ## 개인 필드 삭제 {#deleting-a-person-field}
 
-1. 목록에서 필드를 제거하려면 삭제 아이콘(![—](assets/image2015-3-24-13-3a45-3a56.png))을 클릭하십시오. 필드 삭제를 확인하려면 **예**&#x200B;를 클릭하세요.
+1. 목록에서 필드를 제거하려면 삭제 아이콘(![—](assets/image2015-3-24-13-3a45-3a56.png))을 클릭하십시오. 필드를 삭제하려면 **[!UICONTROL Yes]**&#x200B;을(를) 클릭하십시오.
 
    ![](assets/web-engagement-settings-delete.jpg)
 
@@ -74,7 +74,7 @@ ht-degree: 7%
   <tr> 
    <td><p>잠재 고객 스코어</p></td> 
    <td><p>잠재 고객 스코어</p></td> 
-   <td><p>스코어</p></td> 
+   <td><p>점수</p></td> 
   </tr> 
   <tr> 
    <td><p>잠재 고객 상태</p></td> 
@@ -83,8 +83,8 @@ ht-degree: 7%
   </tr> 
   <tr> 
    <td><p>우선 순위</p></td> 
-   <td><p>우선 순위</p></td> 
-   <td><p>우선 순위</p></td> 
+   <td><p>우선순위</p></td> 
+   <td><p>우선순위</p></td> 
   </tr> 
   <tr> 
    <td><p>리드 역할</p></td> 
@@ -99,7 +99,7 @@ ht-degree: 7%
  </tbody> 
 </table>
 
-새 웹 Personalization 계정에 대해 즉시 다음 리드 필드가 제공됩니다.
+새 [!DNL Web Personalization] 계정에 대해 다음 리드 필드가 즉시 제공됩니다.
 
 >[!MORELIKETHIS]
 >

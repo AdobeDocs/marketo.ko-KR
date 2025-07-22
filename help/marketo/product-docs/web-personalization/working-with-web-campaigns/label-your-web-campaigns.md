@@ -4,9 +4,9 @@ description: 웹 캠페인에 레이블 지정 - Marketo 문서 - 제품 설명�
 title: 웹 캠페인에 레이블 지정
 exl-id: 891772c8-dc4d-46a4-b254-4baf0a74f9de
 feature: Web Personalization
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '155'
+source-wordcount: '151'
 ht-degree: 0%
 
 ---
@@ -17,7 +17,7 @@ ht-degree: 0%
 
 ## 웹 캠페인에 레이블 추가 {#add-a-label-to-a-web-campaign}
 
-1. 웹 Personalization에 로그인하고 웹 캠페인 영역으로 이동합니다.
+1. [!DNL Web Personalization]에 로그인하고 [!UICONTROL Web Campaigns] 영역으로 이동합니다.
 
    ![](assets/web-campaigns-hand.jpg)
 

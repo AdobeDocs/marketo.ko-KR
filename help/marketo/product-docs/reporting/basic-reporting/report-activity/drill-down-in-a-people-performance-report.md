@@ -4,10 +4,10 @@ description: 사람 성과 보고서에서 드릴다운 - Marketo 문서 - 제�
 title: 인력 성과 보고서에서 드릴다운
 exl-id: 87c77aae-a294-43d3-865a-5ca3beef0ff3
 feature: Reporting
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '132'
-ht-degree: 1%
+source-wordcount: '127'
+ht-degree: 3%
 
 ---
 
@@ -15,7 +15,7 @@ ht-degree: 1%
 
 인력 성과 보고서에서 드릴다운하여 추가 개인 정보를 확인합니다.
 
-1. 기존 보고서를 보려면 **보고서** 탭을 클릭하십시오.
+1. 기존 보고서를 보려면 **[!UICONTROL Report]** 탭을 클릭하십시오.
 
    ![](assets/one.png)
 
@@ -23,11 +23,11 @@ ht-degree: 1%
 
    ![](assets/two.png)
 
-1. **드릴다운**&#x200B;을 클릭합니다.
+1. **[!UICONTROL Drill-Down]**&#x200B;을(를) 클릭합니다.
 
    ![](assets/three.png)
 
-1. **드릴다운** 팝업에서 드릴다운할 특성을 선택합니다. **드릴다운**&#x200B;을 클릭합니다.
+1. **[!UICONTROL Drill-Down]** 팝업에서 드릴다운할 특성을 선택합니다. 그런 다음 **[!UICONTROL Drill-Down]**&#x200B;를 클릭합니다.
 
    ![](assets/four.png)
 
@@ -39,6 +39,6 @@ ht-degree: 1%
 
    ![](assets/five.png)
 
-1. 결과를 저장하려면(선택 사항) 왼쪽 하단의 **내보내기** 아이콘을 클릭합니다.
+1. 결과를 저장하려면(선택 사항) 왼쪽 하단의 **[!UICONTROL Export]** 아이콘을 클릭합니다.
 
    ![](assets/six.png)

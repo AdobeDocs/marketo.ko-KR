@@ -4,9 +4,9 @@ description: 시스템 토큰을 이메일에 링크로 추가 - Marketo 문서 
 title: 시스템 토큰을 이메일에 링크로 추가
 exl-id: 9156be24-18ae-44ea-96e5-a6257ff29b46
 feature: Tokens
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '212'
+source-wordcount: '205'
 ht-degree: 0%
 
 ---
@@ -27,7 +27,7 @@ ht-degree: 0%
 
 이를 이메일에 추가하는 방법은 다음과 같습니다.
 
-1. 이메일을 찾아 선택한 다음 **초안 편집**&#x200B;을 클릭합니다.
+1. 전자 메일을 찾아 선택한 다음 **[!UICONTROL Edit Draft]**&#x200B;을(를) 클릭합니다.
 
    ![](assets/one-1.png)
 
@@ -35,11 +35,11 @@ ht-degree: 0%
 
    ![](assets/two-1.png)
 
-1. 토큰이 있는 링크로 변환할 텍스트를 강조 표시하고 **링크 삽입/편집** 단추를 클릭합니다.
+1. 토큰이 있는 링크로 변환할 텍스트를 강조 표시하고 **[!UICONTROL Insert/Edit Link]** 단추를 클릭합니다.
 
    ![](assets/three-1.png)
 
-1. 링크 URL에 토큰을 입력하고 **삽입**&#x200B;을 클릭합니다.
+1. 링크 URL에 토큰을 입력하고 **[!UICONTROL Insert]**&#x200B;을(를) 클릭합니다.
 
    ![](assets/four-1.png)
 
@@ -47,7 +47,7 @@ ht-degree: 0%
    >
    >원하는 토큰 복사/붙여넣기: **`{{system.forwardToFriendLink}}`** 또는 **`{{system.unsubscribeLink}}`** 또는 **`{{system.viewAsWebpageLink}}`**
 
-1. **저장**&#x200B;을 클릭합니다.
+1. **[!UICONTROL Save]**&#x200B;을(를) 클릭합니다.
 
    ![](assets/image2014-9-17-22-3a12-3a17.png)
 

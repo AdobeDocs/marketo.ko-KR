@@ -4,9 +4,9 @@ description: 기간 비용 정의 - Marketo 문서 - 제품 설명서
 title: 기간 원가 정의
 exl-id: e6cbefca-c7a4-4600-b276-7a5d247609ed
 feature: Reporting, Revenue Cycle Analytics
-source-git-commit: d20a9bb584f69282eefae3704ce4be2179b29d0b
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '245'
+source-wordcount: '214'
 ht-degree: 0%
 
 ---
@@ -23,37 +23,37 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->프로그램 시작 시 예측된 비용을 입력합니다. 프로그램의 기간이 완료되면 기간 원가를 편집하고 실제 원가를 입력할 수 있습니다. 이렇게 하면 정확한 보고 결과를 얻을 수 있습니다.
+>프로그램 시작 시 예측된 비용을 입력합니다. 프로그램의 기간이 완료되면 [!UICONTROL Period Cost]을(를) 편집하고 실제 비용을 입력할 수 있습니다. 이렇게 하면 정확한 보고 결과를 얻을 수 있습니다.
 
-## 기간 원가 정의 {#define-a-period-cost}
+## [!UICONTROL Period Cost] 정의 {#define-a-period-cost}
 
-1. 프로그램 또는 이벤트의 **설정** 탭에 액세스합니다.
+1. 프로그램 또는 이벤트의 **[!UICONTROL Setup]** 탭에 액세스합니다.
 
    ![](assets/image2015-4-24-11-3a13-3a27.png)
 
-1. **기간 비용**&#x200B;을 캔버스로 끌어다 놓으면 **새 비용** 대화 상자가 표시됩니다.
+1. **[!UICONTROL Period Cost]**&#x200B;을(를) 캔버스로 끌어서 놓으면 **[!UICONTROL New Cost]** 대화 상자가 표시됩니다.
 
    ![](assets/image2015-4-24-16-3a31-3a15.png)
 
-1. 정의된 비용과 연결할 **프로그램 월**&#x200B;을(를) 입력하십시오.
+1. 정의된 비용과 연결할 **[!UICONTROL Program Month]**&#x200B;을(를) 입력하십시오.
 
    ![](assets/image2015-4-24-16-3a11-3a30.png)
 
-1. **기간 비용**&#x200B;을 소수 또는 쉼표 없이 정수로 입력하십시오(최대 제한: 99999999).
+1. **[!UICONTROL Period Cost]**&#x200B;을(를) 소수 또는 쉼표 없이 정수로 입력하십시오(최대 제한: 99999999).
 
    ![](assets/image2015-4-24-16-3a10-3a24.png)
 
    >[!NOTE]
    >
-   >통화(예: USD, EUR 등) 는 Marketo 관리자가 관리하는 전역 설정입니다.
+   >통화(예: USD, EUR 등)는 Marketo 관리자가 관리하는 글로벌 설정입니다.
 
-1. 설명 **참고**(선택 사항)을 입력하고 **저장**&#x200B;을 클릭합니다.
+1. 설명 **[!UICONTROL Note]**(선택 사항)을 입력하고 **[!UICONTROL Save]**&#x200B;을(를) 클릭합니다.
 
    ![](assets/image2015-4-24-16-3a21-3a16.png)
 
-## 기간 비용 편집 {#edit-a-period-cost}
+## [!UICONTROL Period Cost] 편집 {#edit-a-period-cost}
 
-1. [기간 비용]을 마우스 오른쪽 단추로 클릭하고 팝업 메뉴에서 **편집**&#x200B;을 선택하여 **비용 편집** 대화 상자를 엽니다.
+1. [!UICONTROL Period Cost]을(를) 마우스 오른쪽 단추로 클릭하고 팝업 메뉴에서 **[!UICONTROL Edit]**&#x200B;을(를) 선택하여 **[!UICONTROL Edit Cost]** 대화 상자를 엽니다.
 
    ![](assets/image2015-4-24-16-3a26-3a29.png)
 
@@ -61,12 +61,12 @@ ht-degree: 0%
 
    ![](assets/image2015-4-24-16-3a27-3a38.png)
 
-## 기간 원가 삭제 {#delete-a-period-cost}
+## [!UICONTROL Period Cost] 삭제 {#delete-a-period-cost}
 
-1. 삭제할 기간 비용을 마우스 오른쪽 단추로 클릭하고 팝업 메뉴에서 **삭제**&#x200B;를 선택하여 **비용 삭제** 프롬프트를 표시합니다.
+1. 삭제할 [!UICONTROL Period Cost]을(를) 마우스 오른쪽 단추로 클릭하고 팝업 메뉴에서 **[!UICONTROL Delete]**&#x200B;을(를) 선택하여 **[!UICONTROL Delete Cost]** 프롬프트를 표시합니다.
 
    ![](assets/image2015-4-24-16-3a33-3a32.png)
 
-1. 기간 비용을 영구적으로 삭제하려면 **삭제**&#x200B;를 클릭하고, 돌아가려면 **취소**&#x200B;를 클릭하십시오.
+1. **[!UICONTROL Delete]**&#x200B;을(를) 클릭하여 기간 비용을 영구적으로 삭제하거나 **[!UICONTROL Cancel]**&#x200B;을(를) 클릭하여 뒤로 돌아가십시오.
 
    ![](assets/image2015-4-24-16-3a34-3a38.png)

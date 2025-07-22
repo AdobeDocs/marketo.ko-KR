@@ -4,16 +4,16 @@ description: 이메일에 첨부 파일 또는 추적 가능한 콘텐츠 추가
 title: 이메일에 첨부 파일 또는 추적 가능한 콘텐츠 추가
 exl-id: 06a80676-00bd-46d3-a989-ae503f7e76a6
 feature: Marketo Sales Connect
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '292'
+source-wordcount: '279'
 ht-degree: 0%
 
 ---
 
 # 이메일에 첨부 파일 또는 추적 가능한 콘텐츠 추가 {#add-an-attachment-or-trackable-content-to-your-email}
 
-Sales Connect를 통해 이메일을 보낼 때는 파일을 첨부 파일로 추가하거나 파일을 다운로드 가능한(및 추적 가능한) 링크로 만들 수 있습니다.
+[!DNL Sales Connect]을(를) 통해 전자 메일을 보낼 때 첨부 파일로 파일을 추가하거나 파일을 다운로드 가능한(및 추적 가능한) 링크로 만들 수 있습니다.
 
 >[!NOTE]
 >
@@ -21,11 +21,11 @@ Sales Connect를 통해 이메일을 보낼 때는 파일을 첨부 파일로 �
 
 ## 첨부 파일 추가 {#add-an-attachment}
 
-1. 전자 메일 초안을 만듭니다. 이 방법에는 여러 가지가 있습니다. 이 예제에서는 헤더에서 **작성**&#x200B;을 선택합니다.
+1. 전자 메일 초안을 만듭니다. 여러 가지 방법으로 만들 수 있습니다. 이 예제에서는 헤더에서 **[!UICONTROL Compose]**&#x200B;을(를) 선택합니다.
 
    ![](assets/one-4.png)
 
-1. To 필드를 채우고 제목을 입력합니다.
+1. [!UICONTROL To] 필드를 채우고 [!UICONTROL Subject]을(를) 입력하십시오.
 
    ![](assets/attach-two.png)
 
@@ -33,7 +33,7 @@ Sales Connect를 통해 이메일을 보낼 때는 파일을 첨부 파일로 �
 
    ![](assets/attach-three.png)
 
-1. 첨부할 파일을 선택하고 **삽입**&#x200B;을 클릭합니다.
+1. 첨부할 파일을 선택하고 **[!UICONTROL Insert]**&#x200B;을(를) 클릭합니다.
 
    ![](assets/attach-four.png)
 
@@ -47,11 +47,11 @@ Sales Connect를 통해 이메일을 보낼 때는 파일을 첨부 파일로 �
 
 ## 추적 가능한 콘텐츠 추가 {#add-trackable-content}
 
-1. 이메일 초안을 만듭니다. 이 작업을 수행하는 방법에는 여러 가지가 있습니다. 이 예제에서는 작성 창을 선택합니다.
+1. 전자 메일 초안을 만듭니다. 이 방법에는 여러 가지가 있습니다. 이 예제에서는 [!UICONTROL Compose] 창을 선택합니다.
 
    ![](assets/one-4.png)
 
-1. To 필드를 채우고 제목을 입력합니다.
+1. [!UICONTROL To] 필드를 채우고 [!UICONTROL Subject]을(를) 입력하십시오.
 
    ![](assets/two-4.png)
 
@@ -59,7 +59,7 @@ Sales Connect를 통해 이메일을 보낼 때는 파일을 첨부 파일로 �
 
    ![](assets/three-4.png)
 
-1. 추가할 콘텐츠를 선택하고 **콘텐츠가 추적됨** 슬라이더를 클릭한 다음 **삽입**&#x200B;을 클릭합니다.
+1. 추가할 콘텐츠를 선택하고 **[!UICONTROL Content is tracked]** 슬라이더를 클릭한 다음 **[!UICONTROL Insert]**&#x200B;을(를) 클릭합니다.
 
    ![](assets/four-4.png)
 

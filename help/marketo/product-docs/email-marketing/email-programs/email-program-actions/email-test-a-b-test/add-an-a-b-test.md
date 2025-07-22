@@ -4,9 +4,9 @@ description: A/B 테스트 추가 - Marketo 문서 - 제품 설명서
 title: A/B 테스트 추가
 exl-id: 18397dde-496c-4809-a224-3c025c8ccc84
 feature: Email Programs, A/B Testing
-source-git-commit: d20a9bb584f69282eefae3704ce4be2179b29d0b
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '185'
+source-wordcount: '178'
 ht-degree: 0%
 
 ---
@@ -22,7 +22,7 @@ ht-degree: 0%
 
 테스트는 이메일 서비스를 최적화하여 참여를 높일 수 있는 좋은 방법입니다. 시작하는 방법은 다음과 같습니다.
 
-1. **마케팅 활동**(으)로 이동합니다.
+1. **[!UICONTROL Marketing Activities]**(으)로 이동합니다.
 
    ![](assets/login-marketing-activities.png)
 
@@ -30,7 +30,7 @@ ht-degree: 0%
 
    ![](assets/selectemailprogram.jpg)
 
-1. **Email** 타일 아래에서 **A/B 테스트 추가**&#x200B;를 클릭합니다.
+1. **[!UICONTROL Email]** 타일 아래에서 **[!UICONTROL Add A/B Test]**&#x200B;을 클릭합니다.
 
    ![](assets/image2014-9-12-14-3a39-3a29.png)
 

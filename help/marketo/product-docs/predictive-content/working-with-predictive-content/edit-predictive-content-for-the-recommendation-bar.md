@@ -4,9 +4,9 @@ description: 권장 사항 막대에 대한 예측 콘텐츠 편집 - Marketo �
 title: 권장 사항 막대에 대한 예측 콘텐츠 편집
 exl-id: 9a61e625-ec3f-4b4f-90d4-67ff7630ef48
 feature: Predictive Content
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '76'
+source-wordcount: '72'
 ht-degree: 2%
 
 ---
@@ -19,11 +19,11 @@ ht-degree: 2%
 >
 >모든 콘텐츠 페이지에서 콘텐츠는 예측 콘텐츠에 대해 [승인](/help/marketo/product-docs/predictive-content/working-with-all-content/approve-a-title-for-predictive-content.md)되어야 합니다.
 
-1. **예측 콘텐츠** 페이지에서 제목을 클릭하여 편집기를 엽니다.
+1. **[!UICONTROL Predictive Content]** 페이지에서 제목을 클릭하여 편집기를 엽니다.
 
    ![](assets/image2017-10-3-9-3a45-3a13.png)
 
-1. **막대**&#x200B;를 클릭합니다.
+1. **[!UICONTROL Bar]**&#x200B;을(를) 클릭합니다.
 
    ![](assets/image2017-10-3-9-3a45-3a48.png)
 
@@ -31,6 +31,6 @@ ht-degree: 2%
 
    ![](assets/image2017-10-3-9-3a46-3a18.png)
 
-1. **저장**&#x200B;을 클릭합니다.
+1. **[!UICONTROL Save]**&#x200B;을(를) 클릭합니다.
 
    ![](assets/save.png)

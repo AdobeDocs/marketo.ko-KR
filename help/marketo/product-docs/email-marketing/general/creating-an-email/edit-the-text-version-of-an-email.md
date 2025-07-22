@@ -4,9 +4,9 @@ description: 이메일의 텍스트 버전 편집 - Marketo 문서 - 제품 설�
 title: 이메일의 텍스트 버전 편집
 exl-id: 6973ccdd-6ae1-4051-ab7e-ff7da40baf97
 feature: Email Editor
-source-git-commit: 94b458ee7138f90bd243d2d2a8b761dabff23a66
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '233'
+source-wordcount: '228'
 ht-degree: 0%
 
 ---
@@ -19,11 +19,11 @@ ht-degree: 0%
 >
 >텍스트 전용 이메일 만들기에 대한 문서가 아닙니다. 자세한 내용은 [텍스트 전용 전자 메일 만들기](/help/marketo/product-docs/email-marketing/general/creating-an-email/create-a-text-only-email.md)를 참조하세요.
 
-1. 전자 메일 편집기에서 전자 메일 하단의 **텍스트** 탭을 클릭합니다.
+1. 전자 메일 편집기에서 전자 메일 하단의 **[!UICONTROL Text]** 탭을 클릭합니다.
 
    ![](assets/one-5.png)
 
-1. 변경하려면 **HTML에서 자동으로 복사**&#x200B;를 선택 취소합니다.
+1. 변경하려면 **[!UICONTROL Automatically copy from HTML]**&#x200B;의 선택을 취소하십시오.
 
    ![](assets/two-5.png)
 
@@ -41,4 +41,4 @@ ht-degree: 0%
 
 >[!CAUTION]
 >
->동적 내용이 포함된 전자 메일에서 **HTML에서 복사**&#x200B;를 선택하거나 **HTML에서 자동으로 복사**&#x200B;를 다시 선택하면 전자 메일의 HTML 및 텍스트 버전 모두에서 모든 세그먼트에 대해 검토됨 플래그가 _true_(검토되었음을 나타내는 녹색 확인 표시)으로 설정됩니다. 위의 작업 중 하나를 수행하는 경우 전송하기 전에 콘텐츠를 다시 확인하십시오.
+>다이내믹 콘텐츠가 포함된 전자 메일에서 **HTML에서 복사**&#x200B;를 선택하거나 **HTML에서 자동으로 복사**&#x200B;를 다시 선택하면 전자 메일의 HTML 및 텍스트 버전 모두에서 모든 세그먼트에 대해 검토됨 플래그가 _true_(검토되었음을 나타내는 녹색 확인 표시)으로 설정됩니다. 위의 작업 중 하나를 수행하는 경우 전송하기 전에 콘텐츠를 다시 확인하십시오.

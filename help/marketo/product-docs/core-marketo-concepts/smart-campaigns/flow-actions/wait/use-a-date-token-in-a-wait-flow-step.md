@@ -4,9 +4,9 @@ description: 대기 흐름 단계에서 날짜 토큰 사용 - Marketo 문서 - 
 title: 대기 흐름 단계에서 날짜 토큰 사용
 exl-id: d161922b-ce90-4e65-9282-d3bb866c1d94
 feature: Smart Campaigns
-source-git-commit: 12f2399859c784095cc2c1df772c66c649106ba3
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '213'
+source-wordcount: '205'
 ht-degree: 0%
 
 ---
@@ -19,7 +19,7 @@ ht-degree: 0%
 >
 >이는 트리거 캠페인에만 적용됩니다. 일괄 캠페인에서는 이 기능을 사용할 수 없습니다.
 
-1. 스마트 캠페인 **[!UICONTROL 흐름]** 탭에서 **[!UICONTROL 대기]** 흐름 단계 위로 끌어서 놓습니다.
+1. 스마트 캠페인 **[!UICONTROL Flow]** 탭에서 **[!UICONTROL Wait]** 흐름 단계 위로 끌어서 놓습니다.
 
    ![](assets/use-a-date-token-in-a-wait-flow-step-1.png)
 
@@ -27,11 +27,11 @@ ht-degree: 0%
 
    ![](assets/use-a-date-token-in-a-wait-flow-step-2.png)
 
-1. **[!UICONTROL 유형]** 드롭다운에서 **[!UICONTROL 날짜 토큰]**&#x200B;을 선택합니다.
+1. **[!UICONTROL Type]** 드롭다운에서 **[!UICONTROL Date Token]**&#x200B;을(를) 선택합니다.
 
    ![](assets/use-a-date-token-in-a-wait-flow-step-3.png)
 
-1. 대기 단계가 종료되는 시기를 지정하려면 날짜 토큰을 선택하십시오.
+1. [!UICONTROL Date token]을(를) 선택하여 대기 단계가 종료되는 시기를 지정하십시오.
 
    * `{{my._____}}`
    * `{{lead.______}}`
@@ -56,7 +56,7 @@ ht-degree: 0%
    >
    >정수 필드를 나타내는 `{{lead.` 또는 `{{company.` 토큰이나 숫자 유형의 `{{my.` 토큰을 사용하여 일 수를 지정할 수도 있습니다.
 
-1. **[!UICONTROL 저장]**&#x200B;을 클릭합니다.
+1. **[!UICONTROL Save]**&#x200B;을(를) 클릭합니다.
 
    ![](assets/use-a-date-token-in-a-wait-flow-step-7.png)
 

@@ -4,9 +4,9 @@ description: 캠페인 이메일 보고서에서 Assets 필터링 - Marketo 문�
 title: 캠페인 이메일 보고서에서 Assets 필터링
 exl-id: 8e5e9ddc-b456-4802-a2a1-24d53d23117f
 feature: Reporting
-source-git-commit: e396542eb13e54306b0b7620d0092716a5be182f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '159'
+source-wordcount: '154'
 ht-degree: 0%
 
 ---
@@ -27,12 +27,12 @@ ht-degree: 0%
 
    ![](assets/image2014-9-16-15-3a57-3a31.png)
 
-1. **설정** 탭을 클릭하고 필터 위로 끌어서 놓습니다.
+1. **[!UICONTROL Setup]** 탭을 클릭하고 필터 위로 끌어서 놓습니다.
 
    ![](assets/image2014-9-16-15-3a57-3a35.png)
 
-   * **캠페인**: Marketo 계정의 활성 스마트 캠페인입니다.
-   * **보관된 캠페인**: 비활성 상태이며 사용이 중단된 스마트 캠페인
+   * **[!UICONTROL Campaigns]**: Marketo 계정의 활성 스마트 캠페인
+   * **[!UICONTROL Archived Campaigns]**: 비활성 상태이며 사용이 중단된 스마트 캠페인입니다.
 
 1. 보고서에 포함할 폴더 및 특정 스마트 캠페인을 선택합니다.
 
@@ -42,7 +42,7 @@ ht-degree: 0%
    >
    >폴더를 선택하면 보고서가 실행될 때 폴더에 포함된 모든 내용이 보고서에 포함됩니다.
 
-1. 완료되었습니다! 필터링된 보고서를 보려면 **보고서** 탭을 클릭하십시오.
+1. 완료되었습니다! 필터링된 보고서를 보려면 **[!UICONTROL Report]** 탭을 클릭하십시오.
 
    ![](assets/image2014-9-16-15-3a58-3a10.png)
 

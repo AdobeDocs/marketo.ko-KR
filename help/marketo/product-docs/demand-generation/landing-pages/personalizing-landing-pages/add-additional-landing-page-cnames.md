@@ -4,9 +4,9 @@ description: 추가 랜딩 페이지 CNAME 추가 - Marketo 문서 - 제품 설�
 title: 추가 랜딩 페이지 CNAME 추가
 exl-id: eb5a7f69-552e-49a2-91db-a784f4639cd0
 feature: Landing Pages
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '234'
+source-wordcount: '221'
 ht-degree: 0%
 
 ---
@@ -43,7 +43,7 @@ ht-degree: 0%
 
 ## IT에 요청 보내기 {#send-request-to-it}
 
-1. IT 부서에 다음 CNAME을 설정하도록 요청하세요. ([CNAME]이라는 단어를 선택한 CNAME으로 바꾸고 [Munchkin ID]을(를) 이전 단계의 텍스트로 바꿉니다.)
+1. IT 부서에 다음 CNAME을 설정하도록 요청하세요. (단어 [CNAME]을(를) 선택한 CNAME으로 바꾸고 [Munchkin ID]을(를) 이전 단계의 텍스트로 바꿉니다.)
 
    [CNAME].YourCompany.com > [Munchkin ID].mktoweb.com
 
@@ -57,19 +57,19 @@ ht-degree: 0%
 
    ![](assets/add-additional-landing-page-cnames-5.png)
 
-1. **새로 만들기**&#x200B;를 클릭한 다음 **새 도메인 별칭**&#x200B;을 선택합니다.
+1. **[!UICONTROL New]**&#x200B;을(를) 클릭한 다음 **[!UICONTROL New Domain Alias]**&#x200B;을(를) 선택합니다.
 
    ![](assets/add-additional-landing-page-cnames-6.png)
 
-1. **도메인 별칭을 입력하십시오.** 방문자가 URL을 입력하지 않으면 **기본 페이지**&#x200B;가 표시됩니다. 이 경우 이동해야 하는 위치를 입력합니다.
+1. **[!UICONTROL Domain Alias]을(를) 입력하십시오.** 방문자가 URL을 입력하지 않으면 **[!UICONTROL Default Page]**&#x200B;이(가) 표시됩니다. 이 경우 이동해야 하는 위치를 입력합니다.
 
    >[!NOTE]
    >
-   >기본 페이지의 경우 랜딩 페이지나 외부 URL(예: 공개 웹 사이트)을 선택할 수 있습니다.
+   >[!UICONTROL Default Page]의 경우 랜딩 페이지나 외부 URL(예: 공개 웹 사이트)을 선택할 수 있습니다.
 
    ![](assets/add-additional-landing-page-cnames-7.png)
 
-1. **기본 페이지**&#x200B;를 입력하고 **만들기**&#x200B;를 클릭합니다.
+1. **[!UICONTROL Default Page]**&#x200B;을(를) 입력하고 **[!UICONTROL Create]**&#x200B;을(를) 클릭합니다.
 
    ![](assets/add-additional-landing-page-cnames-8.png)
 

@@ -4,9 +4,9 @@ description: 챔피언/챌린저 - 제목 줄 - Marketo 문서 - 제품 설명�
 title: 챔피언/챌린저 제목 줄
 exl-id: c1c75979-d1a9-459d-a0da-b4bb769372d5
 feature: Email Editor
-source-git-commit: c17bd1a623c46786f14c21c8fad718cdfeeec3cd
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '277'
+source-wordcount: '269'
 ht-degree: 0%
 
 ---
@@ -19,15 +19,15 @@ ht-degree: 0%
 >
 >[전자 메일 챔피언/도전자 추가](/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/email-tests-champion-challenger/add-an-email-champion-challenger.md)
 
-1. 전자 메일 테스트 편집기의 **테스트 형식** 드롭다운에서 **제목 줄**&#x200B;을 선택합니다.
+1. 전자 메일 테스트 편집기의 **[!UICONTROL Subject Line]** 드롭다운에서 **[!UICONTROL Test Type]**&#x200B;을(를) 선택합니다.
 
    ![](assets/image2014-9-15-12-3a37-3a50.png)
 
    >[!NOTE]
    >
-   >제목 테스트에서 처음 입력한 제목 줄은 **챔피언**(으)로 지정됩니다. 후속 제목을 **도전자**&#x200B;라고 합니다.
+   >제목 테스트에서 처음 입력한 제목 줄은 **[!UICONTROL Champion]**(으)로 지정됩니다. 후속 제목 줄은 **[!UICONTROL Challengers]**&#x200B;이라고 합니다.
 
-1. **도전자**&#x200B;의 제목 줄을 입력하세요.
+1. **[!UICONTROL Challengers]**&#x200B;의 제목 줄을 입력하세요.
 
    ![](assets/image2014-9-15-12-3a38-3a4.png)
 
@@ -47,7 +47,7 @@ ht-degree: 0%
 
    통계적 신뢰도를 높이려면 선택한 백분율에 충분한 인원이 포함되어 있는지 확인하여 테스트가 유효한지 확인하십시오. 결론이 나지 않는 결과에 속지 마라.
 
-1. **다음**&#x200B;을 클릭합니다.
+1. **[!UICONTROL Next]**&#x200B;을(를) 클릭합니다.
 
    ![](assets/image2014-9-15-12-3a40-3a42.png)
 

@@ -3,20 +3,20 @@ description: 명령 센터 개요 - Marketo 문서 - 제품 설명서
 title: 관리 센터 개요
 exl-id: d7441f28-a432-4443-8eb8-ca6a685524ae
 feature: Sales Insight Actions
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '489'
-ht-degree: 1%
+source-wordcount: '472'
+ht-degree: 0%
 
 ---
 
 # 관리 센터 개요 {#command-center-overview}
 
-Command Center는 다음 단계를 이해하는 데 도움이 되는 통합된 단일 뷰이며, 이때 중요한 사항은 아무것도 포함되지 않습니다.
+[!UICONTROL Command Center]은(는) 다음 단계를 이해하는 데 도움이 되는 통합된 단일 보기입니다. 문제가 발생하지 않도록 주의하십시오.
 
 ## 이메일 관리 {#manage-emails}
 
-명령 센터의 이메일 섹션에서 모든 이메일 활동을 관리할 수 있습니다. Sales Connect에서 전송된 이메일을 검토하려면 이메일 보낼 편지함으로 생각하십시오. 예약된 이메일을 관리하고, 이메일에 참여한 사용자를 확인하고, 이메일이 배달되는 데 문제가 있는지 확인하는 등의 작업을 수행합니다.
+[!UICONTROL Command Center]의 전자 메일 섹션에서 모든 전자 메일 활동을 관리할 수 있습니다. [!DNL Sales Connect]에서 보낸 전자 메일을 검토하려면 전자 메일 보낼 편지함으로 생각하십시오. 예약된 이메일을 관리하고, 이메일에 참여한 사용자를 확인하고, 이메일이 배달되는 데 문제가 있는지 확인하는 등의 작업을 수행합니다.
 
 ![](assets/command-center-overview-1.png)
 
@@ -29,41 +29,41 @@ Command Center는 다음 단계를 이해하는 데 도움이 되는 통합된 �
   <th>설명</th>
  </tr>
  <tr>
-  <th rowspan="2">보냄</th>
-  <td>게재됨</td>
+  <th rowspan="2">[!UICONTROL Sent]</th>
+  <td>[!UICONTROL Delivered]</td>
   <td>수신자에게 전달된 이메일.</td>
  </tr>
  <tr>
-  <td>보관됨</td>
+  <td>[!UICONTROL Archived]</td>
   <td>이메일에 대한 추적을 비활성화하기 위해 사용자가 보관한 이메일.</td>
  </tr>
  <tr>
-  <th rowspan="3">보류 중</th>
-  <td>예약됨</td>
+  <th rowspan="3">[!UICONTROL Pending]</th>
+  <td>[!UICONTROL Scheduled]</td>
   <td>현재 나가도록 예약된 이메일입니다. 이메일이 전송되면 전달된 폴더로 이동됩니다.</td>
  </tr>
  <tr>
-  <td>초안</td>
+  <td>[!UICONTROL Draft]</td>
   <td>초안으로 저장된 이메일.<br/>
   <strong>참고</strong>: 하나의 전자 메일만 초안으로 저장할 수 있습니다. 대량 이메일(이메일 및 그룹 이메일 선택 및 보내기)은 초안으로 저장되지 않습니다.</td>
  </tr>
  <tr>
-  <td>진행 중</td>
+  <td>[!UICONTROL In] 진행률</td>
   <td>이메일이 전송 모션에 있을 때 들어가는 중간 상태입니다. 이메일은 잠시 동안만 진행 중이어야 합니다.</td>
  </tr>
  <tr>
-  <th rowspan="3">게재되지 않음</th>
-  <td>실패</td>
+  <th rowspan="3">[!UICONTROL Undelivered]</th>
+  <td>[!UICONTROL Failed]</td>
   <td>게재에 실패한 이메일.
 </td>
  </tr>
  <tr>
-  <td>반송됨</td>
+  <td>[!UICONTROL Bounced]</td>
   <td>수신자 이메일 서버에서 거부된 이메일.<br/>
   <strong>참고</strong>: 기존 ToutApp 사용자이고 배달 채널로 MSC 서버에 액세스할 수 있는 경우에만 검색됩니다.</td>
  </tr>
  <tr>
-  <td>스팸</td>
+  <td>[!UICONTROL Spam]</td>
   <td>수신자가 수동으로 스팸으로 표시한 이메일입니다.<br/>
   <strong>참고</strong>: 기존 ToutApp 사용자이고 배달 채널로 MSC 서버에 액세스할 수 있는 경우에만 검색됩니다.</td>
  </tr>

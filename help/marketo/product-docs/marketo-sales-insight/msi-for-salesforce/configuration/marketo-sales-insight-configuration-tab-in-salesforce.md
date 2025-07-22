@@ -4,18 +4,18 @@ description: Salesforce - Marketo 문서 - 제품 설명서의 Marketo Sales Ins
 title: Salesforce의 Marketo Sales Insight 구성 탭
 exl-id: 4e2abd48-b0a5-4b71-939b-e66c7e39bb6c
 feature: Marketo Sales Insights
-source-git-commit: 4848676d423ff96c2e880819bc760b2f8dbbd094
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '621'
+source-wordcount: '615'
 ht-degree: 0%
 
 ---
 
-# Salesforce의 Marketo Sales Insight 구성 탭 {#marketo-sales-insight-configuration-tab-in-salesforce}
+# [!DNL Marketo Sales Insight]의 [!DNL Salesforce] 구성 탭 {#marketo-sales-insight-configuration-tab-in-salesforce}
 
 ## 운영 설정 {#operational-settings}
 
-SFDC에서 Sales Insight를 사용하려면 이를 설정해야 합니다.
+SFDC에서 [!DNL Sales Insight]을(를) 사용하려면 이 설정을 해야 합니다.
 
 ![](assets/marketo-sales-insight-configuration-tab-in-salesforce-1.png)
 
@@ -42,7 +42,7 @@ SFDC에서 Sales Insight를 사용하려면 이를 설정해야 합니다.
 
 **Marketo 전역 탭**
 
-* RSS 피드 활성화됨: 활성화되면 MSI 사용자는 RSS 피드에서 RSS 피드를 볼 수 있습니다(Salesforce의 리드 피드 포함). RSS 피드는 &quot;토큰 만료&quot; 기능이 비활성화된 경우에만 작동할 수 있습니다. 이 설정은 Marketo Sales Insight Admin 페이지에서 제어합니다.
+* RSS 피드 활성화됨: 활성화되면 MSI 사용자는 RSS 피드에서 (Salesforce의 리드 피드 외에도) 리드 피드를 볼 수 있습니다. RSS 피드는 &quot;토큰 만료&quot; 기능이 비활성화된 경우에만 작동할 수 있습니다. 이 설정은 Marketo Sales Insight 관리 페이지에서 제어합니다.
 * 최상의 디버그 모드
 * 기본 숨기기: 여기에서 선택하는 옵션은 &quot;숨기기&quot; 아이콘을 클릭할 때 Marketo의 최고 베트 탭에서 최고 베트가 숨겨지는 일 수입니다
 * 연락처 상태 필드: 여기에서 선택하는 옵션은 Marketo의 최상의 선택 탭에 있는 상태 헤더 열에 채워지는 값이 됩니다
@@ -59,7 +59,7 @@ SFDC에서 Sales Insight를 사용하려면 이를 설정해야 합니다.
 **작업 설정**
 
 * Marketo 이메일 보내기: 이 기능을 활성화하면 모든 Sales Insight 사용자가 Lead, Contact, Account, Opportunity 패널 및 Best Bets 탭(대량 작업 및 인라인 참여)에서 이메일을 보낼 수 있습니다.
-* Marketo Campaign에 추가: 이 옵션을 활성화하면 모든 Sales Insight 사용자가 Lead, Contact, Account, Opportunity 패널 및 Best Bets 탭(대량 작업 및 인라인 참여)에서 캠페인에 추가할 수 있는 액세스 권한을 제공합니다.
+* Marketo Campaign에 추가: 이 옵션을 활성화하면 모든 Sales Insight 사용자가 Lead, Contact, Account, Opportunity 패널 및 Best Bets 탭(일괄 작업 및 인라인 참여)에서 캠페인에 추가할 수 있는 액세스 권한을 부여합니다.
 
 ![](assets/marketo-sales-insight-configuration-tab-in-salesforce-4.png)
 
@@ -71,7 +71,7 @@ SFDC에서 Sales Insight를 사용하려면 이를 설정해야 합니다.
 
 ## Marketo Sales Insight 재설정 {#reset-marketo-sales-insight}
 
-이를 선택하면 SFDC의 모든 구성이 지워지므로 복원할 수 없습니다. 모든 항목을 다시 구성해야 합니다.
+이를 선택하면 SFDC의 모든 구성이 지워지며 복원할 수 없습니다. 모든 항목을 다시 구성해야 합니다.
 
 ![](assets/marketo-sales-insight-configuration-tab-in-salesforce-6.png)
 
@@ -81,4 +81,4 @@ SFDC에서 Sales Insight를 사용하려면 이를 설정해야 합니다.
 
 >[!MORELIKETHIS]
 >
->[프로필에 판매 통찰력 액세스 추가](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/configuration/add-sales-insight-access-to-profiles.md){target="_blank"}
+>[프로필에 판매 Insight 액세스 추가](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/configuration/add-sales-insight-access-to-profiles.md){target="_blank"}

@@ -4,25 +4,25 @@ title: 예상 비헤이비어
 hide: true
 hidefromtoc: true
 exl-id: d19130cf-186e-4aad-be32-6aad18c9d08b
-source-git-commit: fb77478cdcd2b455e9f2359e16aca50143ce492c
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '385'
+source-wordcount: '377'
 ht-degree: 0%
 
 ---
 
 # 예상 비헤이비어 {#expected-behavior}
 
-이 문서에서는 PA(예측 대상)와 연관된 예상 동작에 대한 정보를 찾을 수 있습니다.
+이 문서에서는 PA([!UICONTROL Predictive Audiences])와 관련된 예상 동작에 대한 정보를 확인할 수 있습니다.
 
 ## 데이터 및 개인 정보 보호 고려 사항
 
 * AI/ML 모델에 필요한 모든 데이터 처리는 북미에서 수행됩니다.
 * AI/ML 모델은 이름 또는 성, 성별, 이메일, 연락처 등 특정 리드 정보를 사용하지 않습니다. 모델은 firmographics 및 활동 로그에서 파생된 일반 속성만 사용합니다.
 
-**예측 대상의 경우 다음 동작을 예상할 수 있습니다**
+**[!UICONTROL Predictive Audiences]의 경우 다음 동작을 예상할 수 있습니다**
 
-* PA는 Marketo Sky 및 Marketo Classic 경험 모두에서 액세스할 수 있습니다. 특정 기능의 가용성은 다음과 같습니다.
+* PA는 [!DNL Marketo Sky] 및 [!DNL Marketo Classic] 경험 모두에서 액세스할 수 있습니다. 특정 기능의 가용성은 다음과 같습니다.
    * 예측 필터 - [!DNL Sky/Classic]
    * 예상 등록 - [!DNL Sky/Classic]
    * 잠재 고객 수준 가능성 예측 - [!DNL Sky/Classic]

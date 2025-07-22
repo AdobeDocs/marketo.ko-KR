@@ -4,10 +4,10 @@ description: Campaign 이메일 성과 보고서 - Marketo 문서 - 제품 설�
 title: 캠페인 이메일 성과 보고서
 exl-id: 524222c6-7cf6-4e6d-a1a5-20a771cd9da5
 feature: Reporting
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '219'
-ht-degree: 1%
+source-wordcount: '206'
+ht-degree: 0%
 
 ---
 
@@ -15,9 +15,9 @@ ht-degree: 1%
 
 [스마트 캠페인](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/creating-a-smart-campaign/understanding-batch-and-trigger-smart-campaigns.md)별로 그룹화된 이메일 성과 통계를 보려면 캠페인 이메일 성과 보고서를 실행하십시오.
 
-1. [보고서를 만들고](/help/marketo/product-docs/reporting/basic-reporting/creating-reports/create-a-report-in-a-program.md) **캠페인 이메일 성과** [보고서 유형](/help/marketo/product-docs/reporting/basic-reporting/report-types/report-type-overview.md)을(를) 선택합니다.
+1. [보고서를 만들고](/help/marketo/product-docs/reporting/basic-reporting/creating-reports/create-a-report-in-a-program.md) **[!UICONTROL Campaign Email Performance]** [보고서 형식](/help/marketo/product-docs/reporting/basic-reporting/report-types/report-type-overview.md)을(를) 선택하십시오.
 
-1. [보고서의 시간대를 설정](/help/marketo/product-docs/reporting/basic-reporting/editing-reports/change-a-report-time-frame.md)하고 **보고서** 탭을 클릭합니다.
+1. [보고서의 시간대를 설정](/help/marketo/product-docs/reporting/basic-reporting/editing-reports/change-a-report-time-frame.md)하고 **[!UICONTROL Report]** 탭을 클릭합니다.
 
 1. 이제 보고서를 탐색하여 캠페인의 각 이메일이 어떻게 수행되었는지 확인하십시오.
 
@@ -27,15 +27,15 @@ ht-degree: 1%
    >
    >이메일 이름을 클릭하여 이메일 미리 보기에서 엽니다.
 
-   [Campaign 이메일 성과 보고서에 대해 선택할 수 있는 ](/help/marketo/product-docs/reporting/basic-reporting/editing-reports/select-report-columns.md)열은 다음과 같습니다.
+   Campaign 이메일 성과 보고서에 대해 선택할 수 있는 [열](/help/marketo/product-docs/reporting/basic-reporting/editing-reports/select-report-columns.md)은(는) 다음과 같습니다.
 
    | 열 | 설명 |
    |---|---|
-   | 하드 바운스 | 존재하지 않는 이메일 주소와 같은 영구 조건으로 인해 이메일이 거부되었습니다. |
-   | 소프트 바운스 | 서버가 다운되었거나 전체 받은 편지함과 같은 임시 조건으로 인해 이메일이 거부되었습니다. |
-   | 보류 중 | 이메일이 아직 전달 중입니다. |
-   | 클릭한 링크 | 이메일의 링크를 클릭한 이메일 수신자 수입니다. |
-   | 주소 삭제 | 이메일의 **구독 취소** 링크를 클릭하고 양식을 작성한 이메일 수신자 수입니다. |
+   | [!UICONTROL Hard Bounced] | 존재하지 않는 이메일 주소와 같은 영구 조건으로 인해 이메일이 거부되었습니다. |
+   | [!UICONTROL Soft Bounced] | 서버가 다운되었거나 전체 받은 편지함과 같은 임시 조건으로 인해 이메일이 거부되었습니다. |
+   | [!UICONTROL Pending] | 이메일이 아직 전달 중입니다. |
+   | [!UICONTROL Clicked Link] | 이메일의 링크를 클릭한 이메일 수신자 수입니다. |
+   | [!UICONTROL Unsubscribed] | 이메일의 **[!UICONTROL Unsubscribe]** 링크를 클릭하고 양식을 작성한 이메일 수신자 수입니다. |
 
    >[!NOTE]
    >

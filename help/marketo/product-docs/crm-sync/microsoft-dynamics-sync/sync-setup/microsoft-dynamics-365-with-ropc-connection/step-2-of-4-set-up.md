@@ -3,9 +3,9 @@ description: 2단계/4단계 - 리소스 소유자 암호 제어 연결을 사�
 title: 2단계/4단계 - 리소스 소유자 암호 제어 연결을 사용하여 Marketo 솔루션 설정
 exl-id: 41c05910-d8e3-4fb7-8f68-17ee10294e57
 feature: Microsoft Dynamics
-source-git-commit: e3f61755dccd9bea1378a429fc428b440fc3ecb4
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '407'
+source-wordcount: '397'
 ht-degree: 1%
 
 ---
@@ -20,7 +20,7 @@ ht-degree: 1%
 
 ## 새 사용자 만들기 {#create-a-new-user}
 
-1. Dynamics에 로그인합니다. 설정 아이콘을 클릭하고 **[!UICONTROL Advanced Settings]**&#x200B;을(를) 선택합니다.
+1. [!DNL Dynamics]에 로그인합니다. [!UICONTROL Settings] 아이콘을 클릭하고 **[!UICONTROL Advanced Settings]**&#x200B;을(를) 선택합니다.
 
    ![](assets/one.png)
 
@@ -70,13 +70,13 @@ Marketo 동기화 사용자 역할만 Marketo 동기화 사용자에게 할당�
 
 >[!NOTE]
 >
->Marketo 버전 4.0.0.14 이상에 적용됩니다. 이전 버전의 경우 모든 사용자에게 동기화 사용자 역할이 있어야 합니다. Marketo을 업그레이드하려면 [Microsoft Dynamics용 Marketo 솔루션 업그레이드](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/update-the-marketo-solution-for-microsoft-dynamics.md){target="_blank"}를 참조하십시오.
+>Marketo 버전 4.0.0.14 이상에 적용됩니다. 이전 버전의 경우 모든 사용자에게 동기화 사용자 역할이 있어야 합니다. Marketo을 업그레이드하려면 [Marketo 솔루션 업그레이드 [!DNL Microsoft Dynamics]](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/update-the-marketo-solution-for-microsoft-dynamics.md)를 참조하십시오.
 
 >[!IMPORTANT]
 >
 >동기화 사용자 [의 언어 설정은 영어](https://learn.microsoft.com/en-us/power-platform/admin/enable-languages){target="_blank"}(으)로 설정해야 합니다.
 
-1. **[!UICONTROL Enabled Users]** 탭으로 돌아가서 사용자 목록을 새로 고칩니다.
+1. [!UICONTROL Enabled Users] 탭으로 돌아가서 사용자 목록을 새로 고칩니다.
 
    ![](assets/ten.png)
 
@@ -100,13 +100,13 @@ Marketo 동기화 사용자 역할만 Marketo 동기화 사용자에게 할당�
 
 거의 다 됐어! 이제 새로 만든 사용자에 대해 Marketo 솔루션에 알리는 일만 남았습니다.
 
-1. 고급 설정 섹션으로 돌아가서 설정 옆에 있는 ![](assets/image2015-5-13-15-3a49-3a19.png) 아이콘을 클릭하고 **[!UICONTROL Marketo Config]**&#x200B;을(를) 선택합니다.
+1. [!UICONTROL Advanced Settings] 섹션으로 돌아가서 ![](assets/image2015-5-13-15-3a49-3a19.png) 옆에 있는 [!UICONTROL Settings] 아이콘을 클릭하고 **[!UICONTROL Marketo Config]**&#x200B;을(를) 선택합니다.
 
    ![](assets/fourteen.png)
 
    >[!NOTE]
    >
-   >설정 메뉴에 **[!UICONTROL Marketo Config]**&#x200B;이(가) 없으면 페이지를 새로 고치십시오. 그래도 작동하지 않으면 [Marketo 솔루션을 다시 게시](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/microsoft-dynamics-365-with-ropc-connection/step-1-of-4-install.md){target="_blank"}하거나 로그아웃했다가 다시 로그인하세요.
+   >**[!UICONTROL Marketo Config]** 메뉴에 [!UICONTROL Settings]이(가) 없으면 페이지를 새로 고치세요. 그래도 작동하지 않으면 [Marketo 솔루션을 다시 게시](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/microsoft-dynamics-365-with-ropc-connection/step-1-of-4-install.md)하거나 로그아웃했다가 다시 로그인하세요.
 
 1. **[!UICONTROL Default]**&#x200B;을(를) 클릭합니다.
 
@@ -124,7 +124,7 @@ Marketo 동기화 사용자 역할만 Marketo 동기화 사용자에게 할당�
 
    ![](assets/seventeen.png)
 
-1. 설정 옆에 있는 ![](assets/image2015-5-13-15-3a49-3a19-1.png) 아이콘을 클릭하고 **[!UICONTROL Solutions]**&#x200B;을(를) 선택합니다.
+1. ![](assets/image2015-5-13-15-3a49-3a19-1.png) 옆에 있는 [!UICONTROL Settings] 아이콘을 클릭하고 **[!UICONTROL Solutions]**&#x200B;을(를) 선택합니다.
 
    ![](assets/eighteen.png)
 

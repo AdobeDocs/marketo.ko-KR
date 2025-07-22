@@ -1,17 +1,17 @@
 ---
 unique-page-id: 2949711
-description: 등록 코드가 있는 Outlook용 Marketo 이메일 추가 기능 설치 - Marketo 문서 - 제품 설명서
-title: 등록 코드를 사용하여 Outlook용 Marketo 이메일 추가 기능 설치
+description: 등록 코드 - Marketo 문서 - 제품 설명서와 함께  [!DNL Outlook] 용 Marketo 이메일 추가 기능 설치
+title: 등록 코드를 사용하여  [!DNL Outlook] 용 Marketo 이메일 추가 기능 설치
 exl-id: d7a877c2-f71e-44da-b323-04f6cdb44eb0
 feature: Marketo Sales Insights
-source-git-commit: ac6c84a82b9bcb535d5f50897d1a068a5a746287
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '551'
-ht-degree: 3%
+source-wordcount: '522'
+ht-degree: 4%
 
 ---
 
-# 등록 코드를 사용하여 Outlook용 Marketo 이메일 추가 기능 설치 {#install-the-marketo-email-add-in-for-outlook-with-a-registration-code}
+# 등록 코드를 사용하여 [!DNL Outlook]용 Marketo 이메일 추가 기능 설치 {#install-the-marketo-email-add-in-for-outlook-with-a-registration-code}
 
 사용자가 랩톱의 관리 설정에 액세스할 수 있는 경우 등록 코드를 직접 전송할 수 있습니다.
 
@@ -39,7 +39,7 @@ ht-degree: 3%
 
    >[!NOTE]
    >
-   >현재 아래 링크는 Microsoft Edge에서만 작동하거나 Chrome을 마우스 오른쪽 단추로 클릭하여 작동합니다. 불편을 드려 죄송합니다.
+   >현재 아래 링크는 [!DNL Microsoft Edge]에서만 작동하거나 [!DNL Chrome]을(를) 마우스 오른쪽 단추로 클릭하여 작동합니다. 불편을 드려 죄송합니다.
 
 <table><thead>
   <tr>
@@ -100,7 +100,7 @@ ht-degree: 3%
   </tr>
 </tbody></table>
 
-*Office 365 버전: Windows 클라이언트 전용(Windows 10, Enterprise 또는 Pro).
+*[!DNL Office] 365 버전: [!DNL Windows] 클라이언트만([!DNL Windows] 10, [!DNL Enterprise] 또는 [!DNL Pro]에).
 
 >[!IMPORTANT]
 >
@@ -112,7 +112,7 @@ ht-degree: 3%
 
    ![](assets/image2016-7-22-10-3a45-3a10.png)
 
-1. Microsoft Outlook을 닫습니다.
+1. [!DNL Microsoft Outlook]을(를) 닫습니다.
 
    ![](assets/ent-key-close-outlook-hand.png)
 
@@ -126,11 +126,11 @@ ht-degree: 3%
    >
    >보안 경고를 받으면 걱정하지 마십시오! **실행**&#x200B;을 클릭하세요.
 
-1. **다음**&#x200B;을 클릭합니다.
+1. **[!UICONTROL Next]**&#x200B;을(를) 클릭합니다.
 
    ![](assets/welcome-to-the-setup-wizard-hand.png)
 
-1. **이름**, **성**, **전자 메일 주소**&#x200B;를 입력한 다음 전자 메일의 **등록 코드**&#x200B;을(를) 복사하여 양식에 붙여 넣고 **다음**&#x200B;을(를) 클릭합니다.
+1. **[!UICONTROL First Name]**, **[!UICONTROL Last Name]**, **[!UICONTROL Email Address]**&#x200B;을(를) 입력한 다음 전자 메일의 **[!UICONTROL Registration code]**&#x200B;을(를) 복사하여 양식에 붙여 넣고 **[!UICONTROL Next]**&#x200B;을(를) 클릭합니다.
 
    ![](assets/enter-your-information-hands.png)
 
@@ -138,23 +138,23 @@ ht-degree: 3%
    >
    >설치에 실패한 경우 IT 부서에 문의하여 HTTPS 트래픽이 차단되지 않았는지 확인하십시오. 설치 관리자를 열려면 HTTPS 트래픽이 필요합니다.
 
-1. 기본 위치에 설치하려면 **다음**&#x200B;을 클릭하세요.
+1. 기본 위치에 설치하려면 **[!UICONTROL Next]**&#x200B;을(를) 클릭합니다.
 
    ![](assets/select-installation-folder-hand.png)
 
-1. **다음**&#x200B;을 클릭합니다.
+1. **[!UICONTROL Next]**&#x200B;을(를) 클릭합니다.
 
    ![](assets/confirm-installation-hand.png)
 
    >[!NOTE]
    >
-   >알 수 없는 게시자에 대한 보안 메시지가 표시되면 **예**&#x200B;를 클릭합니다.
+   >알 수 없는 게시자에 대한 보안 메시지가 표시되면 **[!UICONTROL Yes]**&#x200B;을(를) 클릭합니다.
 
-1. 이제 설치가 완료되었습니다. **닫기**&#x200B;를 클릭하십시오.
+1. 이제 설치가 완료되었습니다. **[!UICONTROL Close]**&#x200B;을(를) 클릭하십시오.
 
    ![](assets/image2014-9-23-15-3a52-3a11.png)
 
-1. 이제 Microsoft Outlook을 열고 Marketo 버튼을 확인합니다.
+1. 이제 [!DNL Microsoft Outlook]을(를) 열고 Marketo 단추를 확인합니다.
 
    ![](assets/image2016-8-24-15-3a47-3a38.png)
 

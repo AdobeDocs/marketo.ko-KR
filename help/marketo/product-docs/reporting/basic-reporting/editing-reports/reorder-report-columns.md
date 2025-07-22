@@ -4,10 +4,10 @@ description: 보고서 열 순서 바꾸기 - Marketo 문서 - 제품 설명서
 title: 보고서 열 순서 바꾸기
 exl-id: 4906807f-f6e3-413a-b581-75bcec02019b
 feature: Reporting
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '91'
-ht-degree: 0%
+source-wordcount: '87'
+ht-degree: 2%
 
 ---
 
@@ -15,11 +15,11 @@ ht-degree: 0%
 
 보고서에서 열의 순서를 변경할 수 있습니다.
 
-1. **마케팅 활동**(또는 **분석**) 영역으로 이동합니다.
+1. **[!UICONTROL Marketing Activities]**(또는 **[!UICONTROL Analytics]**) 영역으로 이동합니다.
 
    ![](assets/image2014-9-16-10-3a50-3a27.png)
 
-1. 탐색 트리에서 보고서를 선택하고 **보고서** 탭을 클릭합니다.
+1. 탐색 트리에서 보고서를 선택하고 **[!UICONTROL Report]** 탭을 클릭합니다.
 
    ![](assets/image2014-9-16-10-3a50-3a31.png)
 
@@ -27,7 +27,7 @@ ht-degree: 0%
 
    ![](assets/image2014-9-16-10-3a50-3a34.png)
 
-1. 다 됐습니다! 이제 열이 새 순서로 나타납니다.
+1. 됐습니다. 이제 열이 새 순서로 나타납니다.
 
    ![](assets/image2014-9-16-10-3a50-3a37.png)
 

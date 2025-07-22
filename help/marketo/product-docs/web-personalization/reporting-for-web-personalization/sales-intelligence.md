@@ -4,9 +4,9 @@ description: Sales Intelligence - Marketo 문서 - 제품 설명서
 title: Sales Intelligence
 exl-id: 118da902-8c02-413b-8959-2e970d3dd9a4
 feature: Web Personalization
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '197'
+source-wordcount: '193'
 ht-degree: 0%
 
 ---
@@ -19,11 +19,11 @@ Marketo Web Personalization 플랫폼에 로그인하거나 일일/주별 이메
 
 ## 사용자 영역 정의 {#define-the-users-region}
 
-지역, 국가 또는 주별로 Marketo Web Personalization에 표시되는 조직 및 방문자 데이터를 정의하려면 [사용자 설정](/help/marketo/product-docs/web-personalization/getting-started/user-settings.md)(으)로 이동하여 국가 또는 주를 선택합니다.
+Marketo Web Personalization에 표시되는 조직 및 방문자 데이터를 지역, 국가 또는 주별로 정의하려면 [[!UICONTROL User Settings]](/help/marketo/product-docs/web-personalization/getting-started/user-settings.md)(으)로 이동하여 국가 또는 주를 선택합니다.
 
 ## 일별 또는 주별 이메일 보고서 설정 {#set-up-daily-or-weekly-email-reports}
 
-[사용자 설정](/help/marketo/product-docs/web-personalization/getting-started/user-settings.md)에서 매일 또는 매주 전자 메일 보고서를 받고 이른 아침에 보내도록 설정할 수 있습니다. 영업 사원이 관심을 갖는 주요 보고서에는 사용자의 특정 지역에서 방문한 상위 조직 및 제출된 잠재 고객(해당 활동 포함)이 표시되는 조직 및 잠재 고객 보고서가 포함됩니다.
+[[!UICONTROL User Settings]](/help/marketo/product-docs/web-personalization/getting-started/user-settings.md)에서 매일 또는 매주 이른 아침에 발송되는 전자 메일 보고서를 받도록 설정할 수 있습니다. 영업 사원이 관심을 갖는 주요 보고서에는 사용자의 특정 지역에서 방문한 상위 조직 및 제출된 잠재 고객(해당 활동 포함)이 표시되는 조직 및 잠재 고객 보고서가 포함됩니다.
 
 >[!NOTE]
 >

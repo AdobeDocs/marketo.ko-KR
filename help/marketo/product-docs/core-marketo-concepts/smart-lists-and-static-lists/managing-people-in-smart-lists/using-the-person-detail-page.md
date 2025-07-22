@@ -4,10 +4,10 @@ description: 개인 세부 정보 페이지 사용 - Marketo 문서 - 제품 설
 title: 개인 세부 정보 페이지 사용
 exl-id: 8476ed02-6d94-4aa5-91f6-55c81a87f745
 feature: Smart Lists
-source-git-commit: 2b610cc3486b745212b0b1f36018a83214d7ecd7
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '546'
-ht-degree: 22%
+source-wordcount: '525'
+ht-degree: 23%
 
 ---
 
@@ -42,12 +42,12 @@ ht-degree: 22%
 |---|---|
 | 정보 | 사용자에 대한 연락처 정보 및 사용자 정의 필드. |
 | 회사 정보 | 개인 회사 정보 및 주소. |
-| 영업 기회 정보 | 영업 기회 정보가 Salesforce에서 동기화되었습니다. |
-| SFDC 리드 필드 | 기본 제공 Salesforce 필드. |
-| SFDC 사용자 정의 필드 | 사용자 정의 Salesforce 필드. |
+| 영업 기회 정보 | Salesforce에서 동기화된 영업 기회 정보. |
+| SFDC 리드 필드 | 내장 Salesforce 필드. |
+| SFDC 사용자 정의 필드 | 사용자 지정 Salesforce 필드. |
 | 활동 로그 | 사용자와 관련된 모든 활동. |
 
-## 페이지 구성 - Microsoft Dynamics {#page-organization-microsoft-dynamics}
+## 페이지 조직 - Microsoft Dynamics {#page-organization-microsoft-dynamics}
 
 | 탭 | 설명 |
 |---|---|
@@ -60,7 +60,7 @@ ht-degree: 22%
 
 >[!NOTE]
 >
->CRM과 동기화되지 않은 인스턴스에 대한 영업 기회 정보 [API를 통해 삽입됨](https://experienceleague.adobe.com/ko/docs/marketo-developer/marketo/rest/lead-database/opportunities)도 볼 수 있습니다.
+>CRM과 동기화되지 않은 인스턴스에 대한 영업 기회 정보 [API를 통해 삽입됨](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/rest/lead-database/opportunities)도 볼 수 있습니다.
 
 ## 필드 편집 {#editing-a-field}
 
@@ -73,22 +73,22 @@ ht-degree: 22%
 |   |  |  |  |  |
 |---|---|---|---|---|
 | 주소 | 연매출 | 익명 IP | 청구지 주소 | 청구지 시 |
-| 청구지 국가 | 청구지 우편번호 | 청구지 주 | 도시 | 회사 이름 |
+| 청구지 국가 | 청구지 우편번호 | 청구지 주 | 구/군/시 | 회사 이름 |
 | 국가 | 생성 위치 | 출생일 | 부서 | 두 낫 콜 |
 | 원인 호출 안 함 | 두 낫 콜 이유 | 이메일 주소 | 이메일 잘못됨 | 잘못된 이메일 원인 |
 | 외부 회사 ID | 외부 영업 사원 ID | 팩스 번호 | 이름 | 전체 이름 |
-| 산업 | 추론된 시 | 추론된 회사 | 추론된 국가 | 대도시 지역 유추 |
+| 업종 | 추론된 시 | 추론된 회사 | 추론된 국가 | 대도시 지역 유추 |
 | 전화번호 지역코드 유추 | 추론된 우편번호 | 유추된 주 지역 | 익명 | 고객 |
-| 파트너 | 직위 | 성 | 등급 | 스코어 |
-| 개인 Source | 상태 | 주요 전화 | Marketo Social Facebook 표시 이름 | Marketo Social Facebook Id |
-| Marketo Social Facebook 사진 URL | Marketo Social Facebook 프로필 URL | Marketo Social Facebook Reach | Marketo Social Facebook 참조 등록 | Marketo Social Facebook 참조 방문 |
-| Marketo 소셜 젠더 | Marketo Social 마지막 참조 등록 | Marketo Social 마지막 참조 방문 | Marketo Social LinkedIn 표시 이름 | Marketo Social LinkedIn Id |
-| Marketo Social LinkedIn 사진 URL | Marketo Social LinkedIn 프로필 URL | Marketo Social LinkedIn Reach | Marketo Social LinkedIn 참조 등록 | Marketo Social LinkedIn 참조 방문 |
-| Marketo Social 신디케이션 ID | Marketo Social 총 참조된 등록자 수 | Marketo Social 총 참조된 방문 수 | Marketo 소셜 Twitter 표시 이름 | Marketo 소셜 Twitter Id |
-| Marketo 소셜 Twitter 사진 URL | Marketo 소셜 Twitter 프로필 URL | Marketo 소셜 Twitter 도달 | Marketo 소셜 Twitter 참조 등록 | Marketo 소셜 Twitter 참조 방문 |
-| 중간 이름 | 휴대 전화 번호 | 직원 수 | 전화 번호 | 우편 번호 |
-| 우선 순위 | 상대 스코어 | 역할 | 인사말 | SIC 코드 |
-| 사이트 | 주 | 주소 삭제 | 주소 삭제 이유 | 업데이트 시간 |
+| 파트너 | 직위 | 성 | 등급 | 점수 |
+| 개인 Source | 상태 | 주요 전화 | Marketo Social [!DNL Facebook] 표시 이름 | Marketo Social [!DNL Facebook] Id |
+| Marketo Social [!DNL Facebook] 사진 URL | Marketo Social [!DNL Facebook] 프로필 URL | Marketo Social [!DNL Facebook] 도달 | Marketo Social [!DNL Facebook] 참조 등록 | Marketo Social [!DNL Facebook] 참조 방문 |
+| Marketo 소셜 젠더 | Marketo Social 마지막 참조 등록 | Marketo Social 마지막 참조 방문 | Marketo Social [!DNL LinkedIn] 표시 이름 | Marketo Social [!DNL LinkedIn] Id |
+| Marketo Social [!DNL LinkedIn] 사진 URL | Marketo Social [!DNL LinkedIn] 프로필 URL | Marketo Social [!DNL LinkedIn] 도달 | Marketo Social [!DNL LinkedIn] 참조 등록 | Marketo Social [!DNL LinkedIn] 참조 방문 |
+| Marketo Social 신디케이션 ID | Marketo Social 총 참조된 등록자 수 | Marketo Social 총 참조된 방문 수 | Marketo Social [!DNL Twitter] 표시 이름 | Marketo Social [!DNL Twitter] Id |
+| Marketo Social [!DNL Twitter] 사진 URL | Marketo Social [!DNL Twitter] 프로필 URL | Marketo Social [!DNL Twitter] 도달 | Marketo Social [!DNL Twitter] 참조 등록 | Marketo Social [!DNL Twitter] 참조 방문 |
+| 중간 이름 | 휴대 전화 번호 | 직원 수 | 전화 번호 | 우편번호 |
+| 우선순위 | 상대 스코어 | 역할 | 인사말 | SIC 코드 |
+| 사이트 | 주/도 | 주소 삭제 | 주소 삭제 이유 | 업데이트 시간 |
 | 긴급도 | 웹 사이트 |  |  |  |
 
 >[!NOTE]
@@ -97,7 +97,7 @@ ht-degree: 22%
 >
 >* 활동 로그
 >* 회사 정보
->* SFDC 연락처 기회
+>* SFDC 담당자를 위한 기회
 >* 만든 날짜 및 원래 Marketo 유형과 같은 특정 Source 관련 필드.
 >
 >[시스템 관리 필드](/help/marketo/product-docs/administration/field-management/understanding-system-managed-fields.md){target="_blank"}에 대해 자세히 알아보세요.

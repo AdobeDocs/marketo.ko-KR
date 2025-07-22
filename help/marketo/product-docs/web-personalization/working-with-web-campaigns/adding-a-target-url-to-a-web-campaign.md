@@ -4,10 +4,10 @@ description: 웹 캠페인에 Target URL 추가 - Marketo 문서 - 제품 설명
 title: 웹 캠페인에 Target URL 추가
 exl-id: 5fbb3f12-1474-46c3-8315-8d081422e154
 feature: Web Personalization
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '255'
-ht-degree: 0%
+source-wordcount: '221'
+ht-degree: 1%
 
 ---
 
@@ -17,15 +17,15 @@ Target URL은 캠페인 설정 페이지 아래에 있으며 웹 캠페인이 �
 
 ## 대화 상자 또는 위젯 웹 캠페인에 대한 Target URL 추가 {#adding-a-target-url-for-dialog-or-widget-web-campaigns}
 
-1. **웹 캠페인**(으)로 이동합니다.
+1. **[!UICONTROL Web Campaigns]**(으)로 이동합니다.
 
    ![](assets/web-campaigns-hand-5.jpg)
 
-1. **새 웹 캠페인 만들기**&#x200B;를 선택합니다.
+1. **[!UICONTROL Create New Web Campaign]**&#x200B;를 선택합니다.
 
    ![](assets/create-new-web-campaign-hand.jpg)
 
-1. **캠페인 이름**&#x200B;을(를) 추가합니다. **대상 세그먼트**&#x200B;를 선택하십시오. **대상 URL**&#x200B;을(를) 추가합니다.
+1. **[!UICONTROL Campaign Name]** 추가. **[!UICONTROL Target Segment]** 선택. **[!UICONTROL Target URL]**&#x200B;을(를) 추가합니다.
 
    ![](assets/set-web-campaign-hands.jpg)
 
@@ -38,11 +38,11 @@ Target URL은 캠페인 설정 페이지 아래에 있으며 웹 캠페인이 �
  </thead> 
  <tbody> 
   <tr> 
-   <td colspan="1" rowspan="1"><strong>모든 페이지</strong></td> 
+   <td colspan="1" rowspan="1"><strong>[!UICONTROL Any Page]</strong></td> 
    <td colspan="1" rowspan="1"><p>모든 페이지에 캠페인을 표시할 수 있습니다.</p></td> 
   </tr> 
   <tr> 
-   <td colspan="1" rowspan="1"><p><strong>일치 시 URL 매개 변수 포함</strong></p></td> 
+   <td colspan="1" rowspan="1"><p><strong>[!UICONTROL Include URL parameter when matching]</strong></p></td> 
    <td colspan="1" rowspan="1">일치하는 URL 매개 변수를 추가하고 이 매개 변수를 포함하는 URL에 캠페인을 표시합니다. 예: campaign=cpc</td> 
   </tr> 
  </tbody> 
@@ -50,7 +50,7 @@ Target URL은 캠페인 설정 페이지 아래에 있으며 웹 캠페인이 �
 
 ## Target URL에 여러 URL 추가 {#adding-multiple-urls-to-target-url}
 
-더하기 아이콘(![—](assets/image2015-2-18-8-3a40-3a59.png))을 클릭하면 다중 값 항목 대화 상자가 열려 여러 URL을 추가합니다. 행당 하나의 URL을 추가합니다.
+더하기 아이콘(![—](assets/image2015-2-18-8-3a40-3a59.png))을 클릭하면 [!UICONTROL Multiple Value Entry] 대화 상자가 열려 여러 URL을 추가합니다. 행당 하나의 URL을 추가합니다.
 
 ![](assets/image2015-2-23-18-3a15-3a57.png)
 
@@ -62,15 +62,15 @@ Target URL은 캠페인 설정 페이지 아래에 있으며 웹 캠페인이 �
 
 ## In Zone 웹 캠페인에 대한 Target URL 추가 {#adding-a-target-url-for-in-zone-web-campaigns}
 
-1. **웹** **캠페인**(으)로 이동
+1. **[!UICONTROL Web Campaigns]**(으)로 이동합니다.
 
    ![](assets/web-campaigns-hand-5.jpg)
 
-1. **새 웹 캠페인 만들기**&#x200B;를 선택합니다.
+1. **[!UICONTROL Create New Web Campaign]**&#x200B;를 선택합니다.
 
    ![](assets/create-new-web-campaign-hand.jpg)
 
-1. **캠페인 이름**&#x200B;을(를) 추가합니다. **대상 세그먼트**&#x200B;를 선택하십시오. **대상 URL**&#x200B;을(를) 추가합니다.
+1. **[!UICONTROL Campaign Name]** 추가. **[!UICONTROL Target Segment]** 선택. **[!UICONTROL Target URL]**&#x200B;을(를) 추가합니다.
 
    >[!NOTE]
    >

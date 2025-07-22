@@ -4,10 +4,10 @@ description: 양식에 리치 텍스트 추가 - Marketo 문서 - 제품 설명�
 title: 양식에 서식 있는 텍스트 추가
 exl-id: 6363c03d-c1f2-4464-9483-2d9aa8dafcc5
 feature: Forms
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '103'
-ht-degree: 1%
+source-wordcount: '92'
+ht-degree: 4%
 
 ---
 
@@ -15,11 +15,11 @@ ht-degree: 1%
 
 양식의 리치 텍스트 를 사용하여 필드 사이에 지침이나 기타 정보를 추가할 수 있습니다. 확인해 봐.
 
-1. **마케팅 활동**(으)로 이동합니다.
+1. **[!UICONTROL Marketing Activities]**(으)로 이동합니다.
 
    ![](assets/login-marketing-activities-2.png)
 
-1. 양식을 선택하고 **양식 편집**&#x200B;을 클릭합니다.
+1. 양식을 선택하고 **[!UICONTROL Edit Form]**&#x200B;을(를) 클릭합니다.
 
    ![](assets/image2014-9-15-16-3a46-3a7.png)
 
@@ -27,7 +27,7 @@ ht-degree: 1%
 
    ![](assets/image2014-9-15-16-3a46-3a43.png)
 
-1. **서식 있는 텍스트**&#x200B;를 선택하십시오.
+1. **[!UICONTROL Rich Text]**&#x200B;를 선택합니다.
 
    ![](assets/image2014-9-15-16-3a47-3a9.png)
 
@@ -39,15 +39,15 @@ ht-degree: 1%
    >
    >양식에 줄 구분자가 필요한 경우 가로 줄 단추를 사용합니다.
 
-1. **저장**&#x200B;을 클릭합니다.
+1. **[!UICONTROL Save]**&#x200B;을(를) 클릭합니다.
 
    ![](assets/image2014-9-15-16-3a48-3a18.png)
 
-1. **마침**&#x200B;을 클릭합니다.
+1. **[!UICONTROL Finish]**&#x200B;을(를) 클릭합니다.
 
    ![](assets/image2014-9-15-16-3a48-3a36.png)
 
-1. **승인 및 닫기**&#x200B;를 클릭합니다.
+1. **[!UICONTROL Approve and Close]**&#x200B;을(를) 클릭합니다.
 
    ![](assets/image2014-9-15-16-3a48-3a51.png)
 

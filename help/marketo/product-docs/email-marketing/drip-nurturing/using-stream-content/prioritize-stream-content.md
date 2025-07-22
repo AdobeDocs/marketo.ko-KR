@@ -4,9 +4,9 @@ description: 스트림 콘텐츠 우선 순위 지정 - Marketo 문서 - 제품 
 title: 스트림 콘텐츠 우선 순위 지정
 exl-id: 81de8a3c-c002-4ecd-afdd-217522c3db01
 feature: Engagement Programs
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '102'
+source-wordcount: '99'
 ht-degree: 0%
 
 ---
@@ -15,11 +15,11 @@ ht-degree: 0%
 
 스트림에 콘텐츠를 추가한 후에는 우선 순위를 변경할 수 있습니다. 각 캐스트에서는 컨텐츠가 항상 맨 위에서 아래로 전달되며, 동일한 사람에게 컨텐츠가 두 번 전송되지 않습니다.
 
-1. **마케팅 활동**(으)로 이동합니다.
+1. **[!UICONTROL Marketing Activities]**(으)로 이동합니다.
 
    ![](assets/ma.png)
 
-1. 참여 프로그램을 선택하고 **스트림** 탭을 클릭합니다.
+1. 참여 프로그램을 선택하고 **[!UICONTROL Streams]** 탭을 클릭합니다.
 
    ![](assets/cloneasteam-1.jpg)
 

@@ -4,20 +4,20 @@ description: 모바일 푸시 알림 구성 - Marketo 문서 - 제품 설명서
 title: 모바일 푸시 알림 구성
 exl-id: 10368b13-40c9-435a-847c-68aaa5a892ea
 feature: Mobile Marketing
-source-git-commit: 7007c9f61bac2d5b860e166f285c87f565683933
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '445'
+source-wordcount: '430'
 ht-degree: 0%
 
 ---
 
 # 모바일 푸시 알림 구성 {#configure-mobile-push-notification}
 
-1. **마케팅 활동** 영역으로 이동합니다.
+1. **[!UICONTROL Marketing Activities]** 영역으로 이동합니다.
 
    ![](assets/configure-mobile-push-notification-1.png)
 
-1. 푸시 자산을 선택하고 **초안 편집**&#x200B;을 클릭합니다.
+1. 푸시 자산을 선택하고 **[!UICONTROL Edit Draft]**&#x200B;을(를) 클릭합니다.
 
    ![](assets/configure-mobile-push-notification-2.png)
 
@@ -29,7 +29,7 @@ ht-degree: 0%
    >
    >푸시 메시지가 한 플랫폼(예: iOS)에만 적용되는 경우 해당 선택기를 수동으로 **사용 안 함**(으)로 이동하여 다른 플랫폼을 제외할 수 있습니다.
 
-1. **다음**&#x200B;을 클릭합니다.
+1. **[!UICONTROL Next]**&#x200B;을(를) 클릭합니다.
 
    ![](assets/configure-mobile-push-notification-4.png)
 
@@ -43,13 +43,13 @@ ht-degree: 0%
 
    >[!NOTE]
    >
-   >세 가지 유형의 탭 작업이 있습니다.
+   >다음 세 가지 유형의 [!UICONTROL Tap Actions]이(가) 있습니다.
    >
    >**앱 시작** - **이 앱**&#x200B;은 알림을 탭하면 앱의 홈 페이지를 엽니다. **사용자 지정**&#x200B;에서는 딥링크를 사용하여 앱의 다른 영역이나 링크가 있는 다른 앱을 엽니다(자세한 내용은 아래 [딥링크 URI](#deep-link-uris) 참조).
    >
-   >**랜딩 페이지** - 지정된 Marketo 랜딩 페이지로 이동합니다.
+   >**[!UICONTROL Landing Page]** - 지정된 Marketo 랜딩 페이지로 이동합니다.
    >
-   >**외부 URL** - Marketo 이외의 랜딩 페이지로 이동합니다.
+   >**[!UICONTROL External URL]** - Marketo 이외의 랜딩 페이지로 이동합니다.
 
 1. 사용자 지정 탭 작업에 대한 딥링크를 삽입하려면 **사용자 지정**&#x200B;을(를) 선택하고 필드에 [딥링크 URI](#deep-link-uris)을(를) 입력하십시오.
 
@@ -63,11 +63,11 @@ ht-degree: 0%
 
    ![](assets/configure-mobile-push-notification-7.png)
 
-1. 다른 플랫폼을 미리 보고 **마침**&#x200B;을 클릭하세요.
+1. 다른 플랫폼을 미리 보고 **[!UICONTROL Finish]**&#x200B;을(를) 클릭합니다.
 
    ![](assets/configure-mobile-push-notification-8.png)
 
-1. **승인 및 닫기**&#x200B;를 클릭합니다.
+1. **[!UICONTROL Approve and Close]**&#x200B;을(를) 클릭합니다.
 
    ![](assets/configure-mobile-push-notification-9.png)
 
@@ -81,7 +81,7 @@ ht-degree: 0%
 
 ![](assets/configure-mobile-push-notification-10.png)
 
-즉, 앱의 딥링크 구조는 위의 예와 다를 수 있습니다. 개발자는 딥링크 URI를 정의하는 데 여러 가지 옵션을 사용할 수 있으므로 개발자에게 사용하려는 페이지의 URI(링크)를 보내도록 요청하십시오. 이렇게 하면 푸시 메시지에 입력한 URI가 올바른 위치를 가리킵니다. 개발자는 [여기에서 추가 정보를 찾을 수 있습니다](https://experienceleague.adobe.com/ko/docs/marketo-developer/marketo/mobile/enabling-deep-links-in-your-app).
+즉, 앱의 딥링크 구조는 위의 예와 다를 수 있습니다. 개발자는 딥링크 URI를 정의하는 데 여러 가지 옵션을 사용할 수 있으므로 개발자에게 사용하려는 페이지의 URI(링크)를 보내도록 요청하십시오. 이렇게 하면 푸시 메시지에 입력한 URI가 올바른 위치를 가리킵니다. 개발자는 [여기에서 추가 정보를 찾을 수 있습니다](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/mobile/enabling-deep-links-in-your-app).
 
 >[!MORELIKETHIS]
 >

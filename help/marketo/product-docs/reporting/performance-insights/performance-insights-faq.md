@@ -4,16 +4,16 @@ description: 성능 인사이트 FAQ - Marketo 문서 - 제품 설명서
 title: 성능 통찰력 FAQ
 exl-id: cee791c3-1845-4fca-b803-c0dc1c644549
 feature: Reporting
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '1346'
+source-wordcount: '1343'
 ht-degree: 0%
 
 ---
 
-# 성능 통찰력 FAQ {#performance-insights-faq}
+# [!UICONTROL Performance Insights] FAQ {#performance-insights-faq}
 
-## 참여 탭의 &quot;성공&quot;에 대한 정의는 무엇입니까? {#what-is-the-definition-of-success-in-the-engagement-tab}
+## [!UICONTROL Engagement] 탭의 &quot;성공&quot;에 대한 정의는 무엇입니까? {#what-is-the-definition-of-success-in-the-engagement-tab}
 
 성공은 Marketo에서 의미 있는 상호 작용을 측정하는 척도입니다. 프로그램의 목적은 개인 또는 잠재 고객과의 의미 있는 상호 작용을 창출하는 것이다. 성공 은 개인이 해당 목표를 달성하는 상태에 도달하면 표시됩니다. 웨비나에 참석하거나, 이메일의 링크를 클릭하거나, 웹 양식을 작성할 수 있습니다. 성공 여부는 프로그램 채널에 따라 다릅니다.
 
@@ -31,7 +31,7 @@ MPI는 Lead Management 애플리케이션에 대한 독립적인 추가 기능�
 
 ## RCA는 프로그램 성능 데이터도 표시합니다. MPI와 RCA에 표시된 데이터에 차이가 있습니까? {#rca-shows-me-program-performance-data-as-well-is-there-a-difference-between-the-data-shown-in-mpi-and-rca}
 
-아니. MPI는 RCA와 동일한 데이터 웨어하우스의 데이터를 소싱합니다. 따라서 둘 사이에 데이터 차이가 표시되지 않습니다. RCA를 사용하면 즉석에서 보고서를 만들 수 있습니다. MPI를 통해 이해하기 쉬운 시각적 대시보드에 액세스할 수 있습니다.
+아니요. MPI는 RCA와 동일한 데이터 웨어하우스의 데이터를 소싱합니다. 따라서 둘 사이에 데이터 차이가 표시되지 않습니다. RCA를 사용하면 즉석에서 보고서를 만들 수 있습니다. MPI를 통해 이해하기 쉬운 시각적 대시보드에 액세스할 수 있습니다.
 
 ## 일부 프로그램(예: 운영)이 MPI에 표시되지 않기를 바랍니다. 특정 프로그램의 가시성을 제어하려면 어떻게 해야 합니까? {#i-don-t-want-some-of-my-programs-e-g-operational-to-show-up-in-mpi-how-do-i-control-the-visibility-of-specific-programs}
 
@@ -80,9 +80,9 @@ MPI는 모든 기회가 분석에 포함되어 있는지 여부를 계산합니�
 
 사용자 정의 필드, 영업 기회 유형 및 ABM 필터는 모두 영업 기회와 관련된 속성입니다. Engagement 대시보드를 사용하여 영업 기회와 연계되었는지 여부에 관계없이 참여 및 잠재 고객 확보 상황을 측정할 수 있습니다. 참여 대시보드는 영업 기회를 고려하지 않으므로 사용자 정의 필드, 영업 기회 유형 및 ABM 필터는 적용되지 않습니다.
 
-## 매출 보고를 위해 표준 Salesforce Opportunity Amount 필드 대신 사용자 지정 Salesforce Opportunity 필드를 사용하고 싶습니다. MPI에서 그렇게 할 수 있습니까? {#i-want-to-use-a-custom-salesforce-opportunity-field-for-revenue-reporting-instead-of-the-standard-salesforce-opportunity-amount-field-will-mpi-allow-me-to-do-that}
+## 매출 보고를 위해 표준 Salesforce Opportunity Amount 필드 대신 사용자 정의 Salesforce Opportunity 필드를 사용하려고 합니다. MPI에서 그렇게 할 수 있습니까? {#i-want-to-use-a-custom-salesforce-opportunity-field-for-revenue-reporting-instead-of-the-standard-salesforce-opportunity-amount-field-will-mpi-allow-me-to-do-that}
 
-예. [Marketo 지원](https://nation.marketo.com/t5/Support/ct-p/Support)에서는 필드 유형이 통화인 경우 Marketo의 영업 기회 금액 필드를 사용자 지정 Salesforce 영업 기회 필드에 다시 매핑할 수 있습니다. MPI는 Marketo Opportunity Amount 필드를 가리키므로 MPI는 다시 매핑된 사용자 정의 Salesforce 필드의 데이터를 사용할 수 있습니다.
+예. [Marketo 지원](https://nation.marketo.com/t5/Support/ct-p/Support)에서는 필드 유형이 통화인 경우 Marketo의 영업 기회 금액 필드를 사용자 지정 Salesforce 영업 기회 필드에 다시 매핑할 수 있습니다. MPI는 Marketo Opportunity Amount 필드를 가리키므로 MPI는 다시 매핑된 사용자 지정 Salesforce 필드의 데이터를 사용할 수 있습니다.
 
 >[!NOTE]
 >
@@ -131,7 +131,7 @@ Marketo 속성 기능은 고객이 MPI를 구매할 때 사용할 수 있습니�
 
 프로그램 분석기를 사용하면 프로그램을 네 가지 방법으로 비교할 수 있습니다. MPI를 사용하면 성공, 새로운 생성된 기회 등과 같이 선택한 지표에 대한 채널 및 프로그램 기여도를 분석할 수 있습니다. 또한 선택한 하나의 특정 지표를 기반으로 12개월 채널 트렌드를 볼 수 있습니다.
 
-## MPI와 고급 Report Builder 간의 차이점은 무엇입니까? {#whats-the-difference-between-mpi-and-the-advanced-report-builder}
+## MPI와 고급 Report Builder의 차이점은 무엇입니까? {#whats-the-difference-between-mpi-and-the-advanced-report-builder}
 
 고급 Report Builder(경우에 따라 RCE라고도 함)는 일반적으로 마케팅 작업에 의해 수행되는 셀프서비스(또는 애드혹) 보고를 위해 설계되었습니다. MPI는 마케팅 리더와 마케터가 성능 분석에 한 번의 클릭으로 액세스할 수 있도록 설계되었습니다. 최소 설정이 필요합니다.
 

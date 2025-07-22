@@ -4,9 +4,9 @@ description: Marketo 사용자 지정 개체 링크 필드 추가 - Marketo 문�
 title: Marketo 사용자 지정 개체 링크 필드 추가
 exl-id: e7537d79-9fca-4966-881a-9d7d312008e2
 feature: Custom Objects
-source-git-commit: 1dbe820e126f92ce5820e38414925605372a4b09
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '702'
+source-wordcount: '652'
 ht-degree: 0%
 
 ---
@@ -26,11 +26,11 @@ ht-degree: 0%
 
 일대다 구조에 대한 사용자 지정 개체에 링크 필드를 만드는 방법은 다음과 같습니다.
 
-1. **[!UICONTROL 관리자]** 영역으로 이동합니다.
+1. **[!UICONTROL Admin]** 영역으로 이동합니다.
 
    ![](assets/add-marketo-custom-object-link-fields-1.png)
 
-1. **[!UICONTROL Marketo 사용자 지정 개체]**&#x200B;를 클릭합니다.
+1. **[!UICONTROL Marketo Custom Objects]**&#x200B;을(를) 클릭합니다.
 
    ![](assets/add-marketo-custom-object-link-fields-2.png)
 
@@ -38,37 +38,37 @@ ht-degree: 0%
 
    ![](assets/add-marketo-custom-object-link-fields-3.png)
 
-1. **[!UICONTROL 필드]** 탭에서 **[!UICONTROL 새 필드]**&#x200B;을(를) 클릭합니다.
+1. **[!UICONTROL Fields]** 탭에서 **[!UICONTROL New Field]**&#x200B;을(를) 클릭합니다.
 
    ![](assets/add-marketo-custom-object-link-fields-4.png)
 
-1. 링크 필드 이름을 지정하고 선택적 [!UICONTROL 설명]을(를) 추가합니다. [!UICONTROL 링크] 데이터 형식을 선택하십시오.
+1. 링크 필드 이름을 지정하고 선택적 [!UICONTROL Description]을(를) 추가합니다. [!UICONTROL Link] 데이터 형식을 선택하십시오.
 
    ![](assets/add-marketo-custom-object-link-fields-5.png)
 
    >[!CAUTION]
    >
-   >사용자 지정 개체가 승인되면 돌아가서 [!UICONTROL 링크] 또는 [!UICONTROL 중복 제거 필드]를 만들거나 편집하거나 삭제할 수 없습니다.
+   >사용자 지정 개체가 승인되면 돌아가서 [!UICONTROL Link] 또는 [!UICONTROL Dedupe Field]을(를) 만들거나 편집하거나 삭제할 수 없습니다.
 
-1. [!UICONTROL 링크 개체]가 [!UICONTROL 리드] (개인)에 대한 것인지 [!UICONTROL 회사]에 대한 것인지 선택하십시오.
+1. [!UICONTROL Link Object]이(가) [!UICONTROL lead]&#x200B;(개인)에 대한 것인지 [!UICONTROL company]에 대한 것인지 선택하십시오.
 
    ![](assets/add-marketo-custom-object-link-fields-6.png)
 
    >[!NOTE]
    >
-   >[!UICONTROL 리드]를 선택하면 목록에 ID, 이메일 주소 및 사용자 지정 필드가 표시됩니다.
+   >[!UICONTROL lead]을(를) 선택하면 목록에 ID, 전자 메일 주소 및 사용자 지정 필드가 표시됩니다.
    >
-   >[!UICONTROL 회사]를 선택하면 목록에 ID와 사용자 지정 필드가 표시됩니다.
+   >[!UICONTROL company]을(를) 선택하면 목록에 ID와 사용자 지정 필드가 표시됩니다.
 
-1. 연결할 [!UICONTROL 링크 필드]를 새 필드의 상위로 선택합니다.
+1. 연결할 [!UICONTROL Link Field]을(를) 새 필드의 부모로 선택합니다.
 
    ![](assets/add-marketo-custom-object-link-fields-7.png)
 
    >[!NOTE]
    >
-   >링크 필드에서는 문자열 필드 유형만 지원됩니다.
+   >[!UICONTROL Link Field]에서는 문자열 필드 형식만 지원됩니다.
 
-1. **[!UICONTROL 저장]**&#x200B;을 클릭합니다.
+1. **[!UICONTROL Save]**&#x200B;을(를) 클릭합니다.
 
    ![](assets/add-marketo-custom-object-link-fields-8.png)
 
@@ -80,11 +80,11 @@ ht-degree: 0%
 >
 >중간 개체 및 연결하려는 사용자 지정 개체를 이미 만들었어야 합니다.
 
-1. **[!UICONTROL 관리자]** 영역으로 이동합니다.
+1. **[!UICONTROL Admin]** 영역으로 이동합니다.
 
    ![](assets/add-marketo-custom-object-link-fields-9.png)
 
-1. **[!UICONTROL Marketo 사용자 지정 개체]**&#x200B;를 클릭합니다.
+1. **[!UICONTROL Marketo Custom Objects]**&#x200B;을(를) 클릭합니다.
 
    ![](assets/add-marketo-custom-object-link-fields-10.png)
 
@@ -92,35 +92,35 @@ ht-degree: 0%
 
    ![](assets/add-marketo-custom-object-link-fields-11.png)
 
-1. **[!UICONTROL 필드]** 탭에서 **[!UICONTROL 새 필드]**&#x200B;을(를) 클릭합니다.
+1. **[!UICONTROL Fields]** 탭에서 **[!UICONTROL New Field]**&#x200B;을(를) 클릭합니다.
 
    ![](assets/add-marketo-custom-object-link-fields-12.png)
 
-1. 두 개의 링크 필드를 만들어야 합니다. 한 번에 하나씩 만듭니다. 먼저 데이터베이스 목록의 멤버에 대한 필드 이름을 지정합니다(예: leadID). 선택적 [!UICONTROL 설명]을(를) 추가합니다. [!UICONTROL 링크] [!UICONTROL 데이터 형식]을(를) 선택하십시오.
+1. 두 개의 링크 필드를 만들어야 합니다. 한 번에 하나씩 만듭니다. 먼저 데이터베이스 목록의 멤버에 대한 필드 이름을 지정합니다(예: leadID). 선택적 [!UICONTROL Description]을(를) 추가합니다. [!UICONTROL link] [!UICONTROL Data Type]을(를) 선택하십시오.
 
    ![](assets/add-marketo-custom-object-link-fields-13.png)
 
    >[!CAUTION]
    >
-   >사용자 지정 개체가 승인되면 돌아가서 [!UICONTROL 링크] 또는 [!UICONTROL 중복 제거 필드]를 만들거나 편집하거나 삭제할 수 없습니다.
+   >사용자 지정 개체가 승인되면 돌아가서 [!UICONTROL Link] 또는 [!UICONTROL Dedupe Field]을(를) 만들거나 편집하거나 삭제할 수 없습니다.
 
-1. 데이터베이스에서 [!UICONTROL 링크 개체]를 선택하십시오. 이 경우 [!UICONTROL 잠재 고객]입니다.
+1. 데이터베이스에서 [!UICONTROL Link Object]을(를) 선택합니다. 이 경우 [!UICONTROL Lead]입니다.
 
    ![](assets/add-marketo-custom-object-link-fields-14.png)
 
-1. 연결할 [!UICONTROL 링크 필드]를 선택합니다. 이 경우 [!UICONTROL Id]입니다.
+1. 연결할 [!UICONTROL Link Field]&#x200B;(이 경우 [!UICONTROL Id])을(를) 선택하십시오.
 
    ![](assets/add-marketo-custom-object-link-fields-15.png)
 
    >[!NOTE]
    >
-   >[!UICONTROL 링크 필드]에서는 문자열 필드 형식만 지원됩니다.
+   >[!UICONTROL Link Field]에서는 문자열 필드 형식만 지원됩니다.
 
-1. **[!UICONTROL 저장]**&#x200B;을 클릭합니다.
+1. **[!UICONTROL Save]**&#x200B;을(를) 클릭합니다.
 
    ![](assets/add-marketo-custom-object-link-fields-16.png)
 
-1. 사용자 지정 개체에 대한 두 번째 링크(이 예에서는 courseID)에 대해 이 프로세스를 반복합니다. [!UICONTROL 링크 개체] 이름은 과정이고 [!UICONTROL 링크 필드]은(는) 과정 ID입니다. 이미 강의 사용자 지정 객체를 생성 및 승인했으므로 이러한 선택 사항은 드롭다운 메뉴에서 사용할 수 있습니다.
+1. 사용자 지정 개체에 대한 두 번째 링크(이 예에서는 courseID)에 대해 이 프로세스를 반복합니다. [!UICONTROL Link Object] 이름은 course이고 [!UICONTROL Link Field]은(는) courseID입니다. 이미 강의 사용자 지정 객체를 생성 및 승인했으므로 이러한 선택 사항은 드롭다운 메뉴에서 사용할 수 있습니다.
 
    ![](assets/add-marketo-custom-object-link-fields-17.png)
 

@@ -4,30 +4,30 @@ description: 안내식 랜딩 페이지 템플릿 목록 - Marketo 문서 - 제�
 title: 안내식 랜딩 페이지 템플릿 목록
 exl-id: 93893c9c-dda2-4d18-b74c-e47388ed552c
 feature: Landing Pages, Guided Landing Page Templates
-source-git-commit: 58a2839804b69a783992a42b51d206d2544f356b
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '347'
+source-wordcount: '338'
 ht-degree: 0%
 
 ---
 
 # 안내식 랜딩 페이지 템플릿 목록 {#guided-landing-page-template-list}
 
-[안내 랜딩 페이지 편집기](/help/marketo/product-docs/demand-generation/landing-pages/guided-landing-pages/create-a-guided-landing-page.md)에서 사용할 예제 템플릿 컬렉션을 살펴보십시오. 각 템플릿은 전적으로 응답하며 Bootstrap 프레임워크를 기반으로 합니다.
+[안내 랜딩 페이지 편집기](/help/marketo/product-docs/demand-generation/landing-pages/guided-landing-pages/create-a-guided-landing-page.md)에서 사용할 예제 템플릿 컬렉션을 살펴보십시오. 각 템플릿은 완전히 응답하며 Bootstrap 프레임워크를 기반으로 합니다.
 
 >[!NOTE]
 >
->Marketo 지원 은 HTML 문제 해결을 지원하기 위해 설정되어 있지 않습니다. 이러한 템플릿을 수정하는 데 도움이 필요한 경우 웹 개발자에게 문의하십시오.
+>Marketo 문제 해결을 지원하기 위해 HTML 지원이 설정되지 않았습니다. 이러한 템플릿을 수정하는 데 도움이 필요한 경우 웹 개발자에게 문의하십시오.
 
 템플릿을 Marketo으로 가져오려면 다음을 수행하십시오.
 
 1. 더 큰 보기를 보려면 템플릿 이름을 클릭합니다.
 1. 선택한 템플릿을 다운로드합니다.
-1. Marketo에서 **Design Studio.**&#x200B;로 이동합니다.
-1. 왼쪽 트리에서 **랜딩 페이지**&#x200B;를 클릭한 다음 **서식 파일**&#x200B;을 선택합니다.
+1. Marketo에서 **[!UICONTROL Design Studio].**(으)로 이동
+1. 왼쪽 트리에서 **[!UICONTROL Landing Pages]**&#x200B;을(를) 클릭한 다음 **[!UICONTROL Templates].**&#x200B;을(를) 선택합니다.
 
-1. 메뉴 표시줄에서 **템플릿 가져오기**&#x200B;를 클릭합니다.
-1. 다운로드한 파일을 선택하고 템플릿 이름을 입력한 다음 **가져오기**&#x200B;를 클릭합니다(설명 이름을 선택하고 편집 모드가 **안내**&#x200B;임을 표시해야 함).
+1. 메뉴 표시줄에서 **[!UICONTROL Import Template].**&#x200B;을(를) 클릭합니다.
+1. 다운로드한 파일을 선택하고 템플릿 이름을 입력한 다음 **[!UICONTROL Import]**&#x200B;을(를) 클릭합니다(설명 이름을 선택하고 편집 모드가 **[!UICONTROL Guided]**&#x200B;임을 표시해야 함).
 
 <table>
 <tr>

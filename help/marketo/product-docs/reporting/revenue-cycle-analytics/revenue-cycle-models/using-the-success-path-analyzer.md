@@ -4,9 +4,9 @@ description: 성공 경로 분석기 사용 - Marketo 문서 - 제품 설명서
 title: 성공 경로 분석기 사용
 exl-id: f816b7ac-a158-46bd-9d00-09ef4cc8b381
 feature: Reporting, Revenue Cycle Analytics
-source-git-commit: d20a9bb584f69282eefae3704ce4be2179b29d0b
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '373'
+source-wordcount: '340'
 ht-degree: 0%
 
 ---
@@ -19,31 +19,31 @@ ht-degree: 0%
 >
 >[성공 경로 분석기 만들기](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-cycle-models/create-a-success-path-analyzer.md)
 
-1. **분석**(으)로 이동하여 **성공 경로 분석기**&#x200B;를 선택하십시오.
+1. **[!UICONTROL Analytics]**(으)로 이동하여 **성공 경로 분석기**&#x200B;를 선택하십시오.
 
    ![](assets/image2015-6-12-17-3a23-3a53.png)
 
-   오른쪽의 차트는 왼쪽의 선택한 단추에 있는 데이터를 반영합니다. 기본적으로 이것은 잔액입니다.
+   오른쪽의 차트는 왼쪽의 선택한 단추에 있는 데이터를 반영합니다. 기본적으로 **[!UICONTROL Balance]**&#x200B;입니다.
 
-1. **흐름에서**&#x200B;을(를) 클릭하여 선택한 기간 동안 단계에 들어간 인원 수를 그래프로 표시합니다.
+1. **[!UICONTROL In Flow]**&#x200B;을(를) 클릭하여 선택한 기간 동안 단계에 들어간 사람 수를 그래프로 표시합니다.
 
    ![](assets/image2015-6-12-17-3a30-3a52.png)
 
-   * 나가는 흐름 을 클릭하여 스테이지를 종료한 사람 수를 그래프로 표시합니다.
-   * 전환율(%)을 클릭하여 이 단계에서 다음 단계로의 전환율을 그래프로 표시합니다.
-   * 평균 시간 을 클릭하여 다음 단계로 이동하기 전에 사람들이 이 단계에서 보낸 시간을 확인합니다.
+   * **[!UICONTROL Out Flow]**&#x200B;을(를) 클릭하여 스테이지를 종료한 사람 수를 그래프로 표시합니다.
+   * **[!UICONTROL Conv %]**&#x200B;을(를) 클릭하여 이 단계에서 다음 단계로의 전환율을 그래프로 표시합니다.
+   * **[!UICONTROL Avg Time]**&#x200B;을(를) 클릭하여 사람들이 다음 단계로 이동하기 전에 이 단계에서 보낸 시간을 확인합니다.
 
-1. **차트 작업** > 기간 비교를 클릭하여 데이터를 동일한 길이의 다른 시간대와 비교합니다.
+1. 데이터를 동일한 길이의 다른 시간대와 비교하려면 **[!UICONTROL Chart Actions]** > **[!UICONTROL Compare Period]**&#x200B;을(를) 클릭합니다.
 
    ![](assets/image2015-6-12-17-3a39-3a15.png)
 
-1. 비교 기간의 **시작** 날짜를 선택하십시오.
+1. 비교 기간의 **[!UICONTROL From]** 날짜를 선택하십시오.
 
    ![](assets/image2015-6-12-17-3a43-3a49.png)
 
-   **받는 사람** 날짜는 원래 기간과 일치하도록 자동으로 설정됩니다.
+   **[!UICONTROL To]** 날짜는 원래 기간의 길이와 일치하도록 자동으로 설정됩니다.
 
-1. **비교**&#x200B;를 클릭합니다.
+1. **[!UICONTROL Compare]**&#x200B;을(를) 클릭합니다.
 
    ![](assets/image2015-6-12-17-3a44-3a8.png)
 
@@ -51,11 +51,11 @@ ht-degree: 0%
 
    ![](assets/image2015-6-12-17-3a46-3a16.png)
 
-1. 차트의 시간 배율을 변경하려면 **Graph by** 단추 중 하나를 클릭합니다(매일(기본값), 매주 및 매월)
+1. 차트의 시간 배율을 변경하려면 **[!UICONTROL Graph by]** 단추 중 하나를 클릭합니다(매일(기본값), 매주 및 매월).
 
    ![](assets/image2015-6-12-17-3a46-3a55.png)
 
-1. SLA(서비스 수준 계약)가 있는 단계의 경우 **차트 작업** > **SLA 기한 표시**&#x200B;를 클릭하여 지정된 기간 내에 SLA 대상을 놓친 모든 사용자를 표시합니다.
+1. SLA(서비스 수준 계약)가 있는 단계의 경우 **[!UICONTROL Chart Actions]** > **[!UICONTROL Show SLA Due]**&#x200B;을(를) 클릭하여 지정된 기간 내에 SLA 대상을 놓친 모든 사용자를 표시합니다.
 
    ![](assets/image2015-6-12-17-3a49-3a23.png)
 
@@ -63,9 +63,9 @@ ht-degree: 0%
 
    ![](assets/image2015-6-12-17-3a50-3a16.png)
 
-   주황색으로 표시된 사용자가 *이거나*&#x200B;이(가) 아닐 수 있습니다. 아직 SLA 단계입니다.
+   주황색으로 표시된 사용자가 *이거나*&#x200B;되지 않을 수 있습니다. 여전히 SLA 단계에 있습니다.
 
-1. **차트 작업** > **SLA 기한 경과 표시**&#x200B;를 클릭하여 지정된 기간이 끝날 때까지 SLA 단계에 있는 만료된 SLA 대상을 가진 모든 사람을 표시합니다.
+1. **[!UICONTROL Chart Actions]** > **[!UICONTROL Show SLA Past Due]**&#x200B;을(를) 클릭하여 지정된 기간이 끝날 때 아직 SLA 단계에 있는 만료된 SLA 대상 사용자를 모두 표시합니다.
 
    ![](assets/image2015-6-12-17-3a51-3a39.png)
 
@@ -77,7 +77,7 @@ ht-degree: 0%
 
    ![](assets/image2015-6-12-17-3a52-3a49.png)
 
-1. 차트를 인쇄하려면 **차트 작업** > **차트 인쇄**&#x200B;을 클릭하세요.
+1. 차트를 인쇄하려면 **[!UICONTROL Chart Actions]** > **[!UICONTROL Print Chart]**&#x200B;을(를) 클릭합니다.
 
    ![](assets/image2015-6-12-17-3a53-3a34.png)
 

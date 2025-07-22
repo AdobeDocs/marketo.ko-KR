@@ -4,9 +4,9 @@ description: 프로그램에서 태그 사용 - Marketo 문서 - 제품 설명�
 title: 프로그램에서 태그 사용
 exl-id: f1bae623-a710-472a-a30f-9044ce1001f5
 feature: Programs
-source-git-commit: 271b3f9a6c526e343f04d4d05d4c03f2ae32d146
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '164'
+source-wordcount: '156'
 ht-degree: 3%
 
 ---
@@ -21,7 +21,7 @@ ht-degree: 3%
 
 ## 프로그램에서 태그 사용 {#use-a-tag-in-a-program}
 
-1. 프로그램을 선택합니다. **설치**&#x200B;를 클릭합니다.
+1. 프로그램을 선택합니다. **[!UICONTROL Setup]**&#x200B;을(를) 클릭합니다.
 
    ![](assets/use-tags-in-a-program-1.png)
 
@@ -33,7 +33,7 @@ ht-degree: 3%
 
    ![](assets/use-tags-in-a-program-3.png)
 
-1. **저장**&#x200B;을 클릭합니다.
+1. **[!UICONTROL Save]**&#x200B;을(를) 클릭합니다.
 
    ![](assets/use-tags-in-a-program-4.png)
 
@@ -43,7 +43,7 @@ ht-degree: 3%
 
 ## 태그 편집 {#edit-a-tag}
 
-1. **설정** 탭으로 이동합니다. 태그를 마우스 오른쪽 단추로 클릭합니다. **편집**&#x200B;을 선택합니다.
+1. **[!UICONTROL Setup]** 탭으로 이동합니다. 태그를 마우스 오른쪽 단추로 클릭합니다. **[!UICONTROL Edit]**&#x200B;를 선택합니다.
 
    ![](assets/use-tags-in-a-program-6.png)
 
@@ -51,7 +51,7 @@ ht-degree: 3%
 
    ![](assets/use-tags-in-a-program-7.png)
 
-1. **저장**&#x200B;을 클릭합니다.
+1. **[!UICONTROL Save]**&#x200B;을(를) 클릭합니다.
 
    ![](assets/use-tags-in-a-program-8.png)
 
@@ -61,11 +61,11 @@ ht-degree: 3%
 
 ## 태그 삭제  {#delete-a-tag}
 
-1. **설정** 탭으로 이동합니다. 태그를 마우스 오른쪽 단추로 클릭하고 **삭제**&#x200B;를 선택합니다.
+1. **[!UICONTROL Setup]** 탭으로 이동합니다. 태그를 마우스 오른쪽 단추로 클릭하고 **[!UICONTROL Delete]**&#x200B;을(를) 선택합니다.
 
    ![](assets/use-tags-in-a-program-10.png)
 
-1. 확인하려면 **삭제**&#x200B;를 클릭하세요.
+1. **[!UICONTROL Delete]**&#x200B;을(를) 클릭하여 확인합니다.
 
    ![](assets/use-tags-in-a-program-11.png)
 

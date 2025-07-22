@@ -4,14 +4,14 @@ description: Sales Connect 사용자에게 표시되는 캠페인 만들기 - Ma
 title: Sales Connect 사용자에게 캠페인 표시
 exl-id: 1fde53e3-2764-4e4b-897f-635b78534133
 feature: Marketo Sales Connect
-source-git-commit: b037057cb37c830760a5d5bc24591f85ad306ae8
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '115'
-ht-degree: 0%
+source-wordcount: '96'
+ht-degree: 2%
 
 ---
 
-# Sales Connect 사용자에게 캠페인 표시 {#make-a-campaign-visible-to-sales-connect-users}
+# [!DNL Sales Connect]명의 사용자에게 캠페인 표시 {#make-a-campaign-visible-to-sales-connect-users}
 
 캠페인이 표시되는 경우에만 공유할 수 있습니다. 방법은 다음과 같습니다.
 
@@ -19,34 +19,34 @@ ht-degree: 0%
 
    ![](assets/make-a-marketing-campaign-visible-msc-1.png)
 
-1. **스마트 목록** 탭을 클릭합니다.
+1. **[!UICONTROL Smart List]** 탭을 클릭합니다.
 
    ![](assets/make-a-marketing-campaign-visible-msc-2.png)
 
-1. 캠페인 요청 트리거를 추가합니다.
+1. [!UICONTROL Campaign is Requested] 트리거를 추가합니다.
 
    ![](assets/make-a-marketing-campaign-visible-msc-3.png)
 
-1. 원본의 경우 &quot;is&quot; **웹 서비스 API**&#x200B;를 선택하십시오.
+1. 원본의 경우 &quot;[!UICONTROL is]&quot; **[!UICONTROL Web Service API]**&#x200B;을(를) 선택하십시오.
 
    ![](assets/make-a-marketing-campaign-visible-msc-4.png)
 
-1. **흐름** 탭을 클릭합니다.
+1. **[!UICONTROL Flow]** 탭을 클릭합니다.
 
    ![](assets/make-a-marketing-campaign-visible-msc-5.png)
 
-1. 즐거운 순간 흐름 액션을 추가합니다.
+1. [!UICONTROL Interesting Moment] 흐름 작업을 추가합니다.
 
    ![](assets/make-a-marketing-campaign-visible-msc-6.png)
 
-1. 형식에는 **웹**&#x200B;을(를) 선택하십시오.
+1. [!UICONTROL Type]에 대해 **[!UICONTROL Web]**&#x200B;를 선택합니다.
 
    ![](assets/make-a-marketing-campaign-visible-msc-7.png)
 
-1. 설명 상자에서 영업팀에 메시지를 작성합니다. 이 예제에서는 토큰을 사용하여 작성된 양식을 지정합니다.
+1. [!UICONTROL Description] 상자에서 영업팀에 메시지를 작성하십시오. 이 예제에서는 토큰을 사용하여 작성된 양식을 지정합니다.
 
    ![](assets/make-a-marketing-campaign-visible-msc-8.png)
 
-1. **일정** 탭을 클릭하고 캠페인을 **활성화**&#x200B;합니다.
+1. **[!UICONTROL Schedule]** 탭을 클릭하고 캠페인을 **[!UICONTROL Activate]**&#x200B;합니다.
 
    ![](assets/make-a-marketing-campaign-visible-msc-9.png)

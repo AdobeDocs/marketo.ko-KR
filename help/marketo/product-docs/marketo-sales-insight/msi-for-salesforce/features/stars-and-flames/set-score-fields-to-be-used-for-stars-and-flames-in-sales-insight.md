@@ -1,23 +1,23 @@
 ---
 unique-page-id: 2360301
-description: Sales Insight - Marketo 문서 - 제품 설명서에서 별과 불꽃에 사용할 스코어 필드 설정
-title: Sales Insight에서 Stars 및 Flames에 사용할 점수 필드를 설정합니다.
+description: Sales Insight - Marketo 문서 - 제품 설명서에서 Stars and Flames에 사용할 스코어 필드 설정
+title: Sales Insight의 Stars and Flames에 사용할 스코어 필드 설정
 exl-id: 640f6d53-71ee-4a6d-b28a-82f3825b8f8e
 feature: Marketo Sales Insights
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '169'
-ht-degree: 1%
+source-wordcount: '146'
+ht-degree: 0%
 
 ---
 
-# Sales Insight에서 Stars 및 Flames에 사용할 점수 필드를 설정합니다. {#set-score-fields-to-be-used-for-stars-and-flames-in-sales-insight}
+# [!UICONTROL Stars]의 [!UICONTROL Flames] 및 [!DNL Sales Insight]에 사용할 점수 필드 설정 {#set-score-fields-to-be-used-for-stars-and-flames-in-sales-insight}
 
 >[!NOTE]
 >
 >**관리자 권한 필요**
 
-기본적으로 Marketo Sales Insight는 **리드 점수** 필드를 사용하여 별과 불꽃을 계산합니다. 그러나 다른 필드를 선택하려면 다음 방법을 사용하십시오.
+기본적으로 [!DNL Marketo Sales Insight]은(는) **[!UICONTROL Lead Score]** 필드를 사용하여 별과 불꽃을 계산합니다. 그러나 다른 필드를 선택하려면 다음 방법을 사용하십시오.
 
 >[!TIP]
 >
@@ -27,33 +27,33 @@ ht-degree: 1%
 >
 >**정의**
 >
->* **별**: 별점은 다른 잠재 고객과 비교한 총 잠재 고객 점수를 나타냅니다.
->* **Flames**: Flames는 긴급도를 나타냅니다. 최근 잠재 고객 스코어가 얼마나 많이 변경되었는지 나타냅니다.
+>* **[!UICONTROL Stars]**: 별표는 다른 잠재 고객과 비교한 총 잠재 고객 점수를 나타냅니다.
+>* **[!UICONTROL Flames]**: 불꽃이 긴급도(잠재 고객 스코어가 최근 얼마나 변경되었는지)를 나타냅니다.
 >
 
-1. **관리자**&#x200B;에서 **판매 인사이트**&#x200B;를 클릭합니다.
+1. **[!UICONTROL Admin]**&#x200B;에서 **[!UICONTROL Sales Insight]**&#x200B;을(를) 클릭합니다.
 
    ![](assets/image2014-9-16-13-3a27-3a19.png)
 
-1. **잠재 고객 점수 설정**&#x200B;에서 **편집**&#x200B;을 클릭하세요.
+1. **[!UICONTROL Lead Scoring Settings]**&#x200B;에서 **[!UICONTROL Edit]**&#x200B;을(를) 클릭합니다.
 
    ![](assets/image2014-9-16-13-3a27-3a33.png)
 
-1. **별**&#x200B;에 사용할 필드를 선택하십시오.
+1. **[!UICONTROL Stars]**&#x200B;에 사용할 필드를 선택하십시오.
 
    ![](assets/image2014-9-16-13-3a27-3a45.png)
 
-1. **Flames**&#x200B;에 사용할 필드를 선택하십시오.
+1. **[!UICONTROL Flames]**&#x200B;에 사용할 필드를 선택하십시오.
 
    ![](assets/image2014-9-16-13-3a28-3a1.png)
 
-1. **저장**&#x200B;을 클릭합니다.
+1. **[!UICONTROL Save]**&#x200B;을(를) 클릭합니다.
 
    ![](assets/image2014-9-16-13-3a28-3a18.png)
 
    >[!NOTE]
    >
-   >Sales insight는 다시 계산하는 데 시간이 좀 걸릴 수 있습니다. 나중에 CRM을 확인하여 별과 불꽃을 볼 수 있습니다.
+   >[!DNL Sales insight]을(를) 다시 계산하는 데 시간이 좀 걸립니다. 나중에 CRM을 확인하여 별과 불꽃을 볼 수 있습니다.
 
    >[!MORELIKETHIS]
    >

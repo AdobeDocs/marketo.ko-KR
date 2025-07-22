@@ -3,9 +3,9 @@ description: Campaign 실행 - Marketo 문서 - 제품 설명서
 title: 캠페인 실행
 exl-id: d550cf08-b295-4289-9bb0-79d81cabc245
 feature: Smart Campaigns
-source-git-commit: 2b610cc3486b745212b0b1f36018a83214d7ecd7
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '706'
+source-wordcount: '692'
 ht-degree: 0%
 
 ---
@@ -32,17 +32,17 @@ Campaign 실행은 직렬로 실행할 수 있으므로 [Request Campaign](/help
 
 ## 실행 가능한 캠페인을 만드는 방법 {#how-to-create-an-executable-campaign}
 
-1. 원하는 프로그램을 마우스 오른쪽 단추로 클릭하고 **[!UICONTROL 새 스마트 캠페인]**&#x200B;을 선택합니다.
+1. 원하는 프로그램을 마우스 오른쪽 단추로 클릭하고 **[!UICONTROL New Smart Campaign]**&#x200B;을(를) 선택합니다.
 
    ![](assets/execute-campaign-1.png)
 
-1. 이름을 지정하고 **[!UICONTROL 실행 파일]** 확인란을 선택한 다음 **[!UICONTROL 만들기]**&#x200B;를 클릭합니다.
+1. 이름을 지정하고 **[!UICONTROL Executable]** 확인란을 선택한 다음 **[!UICONTROL Create]**&#x200B;을(를) 클릭합니다.
 
    ![](assets/execute-campaign-2.png)
 
 1. 다른 스마트 캠페인과 마찬가지로 스마트 목록 및 흐름을 정의합니다.
 
-기존 Smart Campaign을 복제할 수도 있습니다. 기존 실행 가능 캠페인을 복제하는 경우에도 이름을 지정한 후 **[!UICONTROL 실행 가능]** 확인란을 선택해야 합니다.
+기존 Smart Campaign을 복제할 수도 있습니다. 기존 실행 가능 캠페인을 복제하는 경우에도 이름을 지정한 후 **[!UICONTROL Executable]** 확인란을 선택해야 합니다.
 
 >[!NOTE]
 >
@@ -60,7 +60,7 @@ true로 설정하면 다음 토큰 컨텍스트가 하위 캠페인(실행 중�
 
 **API 상호 작용**
 
-API[&#128279;](https://experienceleague.adobe.com/ko/docs/marketo-developer/marketo/rest/assets/smart-campaigns#batch)에서  일정 또는 요청 캠페인을 사용할 때 두 옵션을 사용하면 [내 토큰] 값을 전달할 수 있습니다. 이 값은 호출하는 캠페인의 해당 토큰에 대해 설정된 값을 재정의합니다. 그런 다음 Campaign이 다른 캠페인을 실행하고 &quot;상위 컨텍스트 사용을 True로&quot; 설정하면 애플리케이션에 설정된 값이 아니라 API를 통해 전달된 값이 사용됩니다.
+API[에서 ](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/rest/assets/smart-campaigns#batch) 일정 또는 요청 캠페인을 사용할 때 두 옵션을 사용하면 [내 토큰] 값을 전달할 수 있습니다. 이 값은 호출하는 캠페인의 해당 토큰에 대해 설정된 값을 재정의합니다. 그런 다음 Campaign이 다른 캠페인을 실행하고 &quot;상위 컨텍스트 사용을 True로&quot; 설정하면 애플리케이션에 설정된 값이 아니라 API를 통해 전달된 값이 사용됩니다.
 
 ## 참고할 사항 {#things-to-note}
 
@@ -77,7 +77,7 @@ API[&#128279;](https://experienceleague.adobe.com/ko/docs/marketo-developer/mark
 
 ## 토큰 상속 예 {#token-inheritance-example}
 
-다음은 하나의 실행 가능한 캠페인과 두 개의 상위 캠페인의 토큰 상속의 시각적 예입니다. 하나는 토큰 컨텍스트가 **[!UICONTROL True]**(으)로 설정되어 있고 다른 하나는 **[!UICONTROL False]**(으)로 설정되어 있습니다.
+다음은 하나의 실행 가능한 캠페인과 두 개의 상위 캠페인에 있는 토큰 상속의 시각적 예입니다. 하나는 토큰 컨텍스트가 **[!UICONTROL True]**(으)로 설정되어 있고 다른 하나는 **[!UICONTROL False]**(으)로 설정되어 있습니다.
 
 토큰화된 변경 점수가 있는 하위 캠페인.
 
@@ -89,7 +89,7 @@ API[&#128279;](https://experienceleague.adobe.com/ko/docs/marketo-developer/mark
 
 ### 예제 1 - True {#example-one-true}
 
-첫 번째 상위 캠페인의 캠페인 실행 흐름 단계에서 &quot;상위 캠페인 토큰 컨텍스트 사용&quot;이 **True**(으)로 설정됩니다.
+첫 번째 상위 캠페인의 캠페인 흐름 실행 단계에서 &quot;[!UICONTROL Use Parent Campaign Token Context]&quot;이(가) **[!UICONTROL True]**(으)로 설정됩니다.
 
 ![](assets/execute-campaign-5.png)
 

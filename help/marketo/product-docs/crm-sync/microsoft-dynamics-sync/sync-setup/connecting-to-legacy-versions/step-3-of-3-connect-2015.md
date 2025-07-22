@@ -4,25 +4,25 @@ description: Microsoft Dynamics용 Marketo 2015 온-프레미스 3단계/3단계
 title: Microsoft Dynamics 2015용 Marketo 온-프레미스 단계 3/3
 exl-id: 054bf725-7a80-4114-8360-2d86e2e33dd7
 feature: Microsoft Dynamics
-source-git-commit: 2d3264ab75d2327f9226373aad383e7a51508589
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '380'
+source-wordcount: '359'
 ht-degree: 1%
 
 ---
 
-# 3단계/3단계: Marketo Dynamics 연결(2015 온프레미스) {#step-of-connect-marketo-dynamics-on-premises-2015}
+# 3단계/3단계: Marketo [!DNL Dynamics] 연결(2015 On-Prem) {#step-of-connect-marketo-dynamics-on-premises-2015}
 
 >[!PREREQUISITES]
 >
->* [Microsoft Dynamics 2015 온-프레미스 단계 1/3에 Marketo 설치](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/connecting-to-legacy-versions/step-1-of-3-install-2015.md){target="_blank"}
->* [Microsoft Dynamics 2015 온-프레미스 단계 2/3에 Marketo 설치](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/connecting-to-legacy-versions/step-2-of-3-set-up-2015.md){target="_blank"}
+>* [Marketo 설치 [!DNL Microsoft Dynamics] 2015 온-프레미스 단계 1/3](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/connecting-to-legacy-versions/step-1-of-3-install-2015.md)
+>* [Marketo 설치 [!DNL Microsoft Dynamics] 2015 온-프레미스 단계 2/3](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/connecting-to-legacy-versions/step-2-of-3-set-up-2015.md)
 
 >[!NOTE]
 >
 >**관리자 권한 필요**
 
-## Dynamics 동기화 사용자 정보 입력 {#enter-dynamics-sync-user-information}
+## [!DNL Dynamics] 동기화 사용자 정보 입력 {#enter-dynamics-sync-user-information}
 
 1. Marketo에 로그인하고 **[!UICONTROL Admin]**&#x200B;을(를) 클릭합니다.
 
@@ -36,7 +36,7 @@ ht-degree: 1%
 
    ![](assets/image2015-3-16-9-50-6.png)
 
-1. **[!UICONTROL Enter Credentials]**&#x200B;에서 **[!UICONTROL Edit]**&#x200B;을(를) 클릭합니다.
+1. **[!UICONTROL Edit]**&#x200B;에서 **[!UICONTROL Step 1: Enter Credentials]**&#x200B;을(를) 클릭합니다.
 
    ![](assets/image2015-3-16-9-48-43.png)
 
@@ -44,7 +44,7 @@ ht-degree: 1%
    >
    >제출 후 후속 스키마 변경 사항을 되돌릴 수 없으므로 자격 증명이 올바른지 확인하십시오. 잘못된 자격 증명을 저장하면 새 Marketo 구독을 얻어야 합니다.
 
-1. **[!UICONTROL Username]**, **[!UICONTROL Password]**, Microsoft Dynamics **[!UICONTROL URL]** 및 **클라이언트 Id/암호**&#x200B;를 입력하십시오. 완료되면 **[!UICONTROL Save]**&#x200B;을(를) 클릭합니다.
+1. **[!UICONTROL Username]**, **[!UICONTROL Password]**, [!DNL Microsoft Dynamics] **URL** 및 **[!UICONTROL Client Id]/[!UICONTROL Client Secret]**&#x200B;을(를) 입력하십시오. 완료되면 **[!UICONTROL Save]**&#x200B;을(를) 클릭합니다.
 
    ![](assets/step-3-of-3-5.png)
 
@@ -60,7 +60,7 @@ ht-degree: 1%
 
 ## 동기화할 필드 선택 {#select-fields-to-sync}
 
-1. **[!UICONTROL Select Fields to Sync]**&#x200B;에서 **[!UICONTROL Edit]**&#x200B;을(를) 클릭합니다.
+1. **[!UICONTROL Edit]**&#x200B;에서 **[!UICONTROL Step 2: Select Fields to Sync]**&#x200B;을(를) 클릭합니다.
 
    ![](assets/image2015-3-16-9-51-28.png)
 
@@ -70,17 +70,17 @@ ht-degree: 1%
 
 >[!NOTE]
 >
->Marketo은 동기화할 필드에 대한 참조를 저장합니다. Dynamics에서 필드를 삭제하는 경우 [동기화가 비활성화됨](/help/marketo/product-docs/crm-sync/salesforce-sync/enable-disable-the-salesforce-sync.md){target="_blank"}을(를) 사용하여 삭제하는 것이 좋습니다. 그런 다음 [동기화할 필드 선택](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/microsoft-dynamics-sync-details/microsoft-dynamics-sync-field-sync/editing-fields-to-sync-before-deleting-them-in-dynamics.md){target="_blank"}을 편집하고 저장하여 Marketo의 스키마를 새로 고치십시오.
+>Marketo은 동기화할 필드에 대한 참조를 저장합니다. [!DNL Dynamics]에서 필드를 삭제하는 경우 [동기화가 비활성화됨](/help/marketo/product-docs/crm-sync/salesforce-sync/enable-disable-the-salesforce-sync.md)을(를) 사용하여 삭제하는 것이 좋습니다. 그런 다음 [[!UICONTROL Select Fields to Sync]](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/microsoft-dynamics-sync-details/microsoft-dynamics-sync-field-sync/editing-fields-to-sync-before-deleting-them-in-dynamics.md)을(를) 편집하고 저장하여 Marketo에서 스키마를 새로 고치십시오.
 
 ## 사용자 정의 필터의 동기화 필드 {#sync-fields-for-a-custom-filter}
 
 사용자 지정 필터를 만든 경우 로 이동하여 Marketo과 동기화할 새 필드를 선택하십시오.
 
-1. 관리자로 이동하여 **[!UICONTROL Microsoft Dynamics]**&#x200B;을(를) 선택하십시오.
+1. [!UICONTROL Admin]&#x200B;(으)로 이동하여 **[!UICONTROL Microsoft Dynamics]**&#x200B;을(를) 선택합니다.
 
    ![](assets/image2015-10-9-9-3a50-3a9.png)
 
-1. 필드 동기화 세부 정보에서 **[!UICONTROL Edit]**&#x200B;을(를) 클릭합니다.
+1. **[!UICONTROL Edit]**&#x200B;에서 [!UICONTROL Field Sync Details]을(를) 클릭합니다.
 
    ![](assets/image2015-10-9-9-3a52-3a23.png)
 
@@ -90,13 +90,13 @@ ht-degree: 1%
 
 ## 동기화 활성화 {#enable-sync}
 
-1. **[!UICONTROL Enable Sync]**&#x200B;에서 **[!UICONTROL Edit]**&#x200B;을(를) 클릭합니다.
+1. **[!UICONTROL Edit]**&#x200B;에서 **[!UICONTROL Step 3: Enable Sync]**&#x200B;을(를) 클릭합니다.
 
    ![](assets/image2015-3-16-9-52-2.png)
 
    >[!CAUTION]
    >
-   >Marketo은 Microsoft Dynamics 동기화나 수동으로 사람을 입력할 때 자동으로 중복 제거되지 않습니다.
+   >Marketo은 [!DNL Microsoft Dynamics] 동기화에 대해 자동으로 중복 제거되지 않습니다. 또는 수동으로 사람을 입력해도 중복 제거되지 않습니다.
 
 1. 팝업의 모든 내용을 읽고 전자 메일을 입력한 다음 **[!UICONTROL Start Sync]**&#x200B;을(를) 클릭합니다.
 

@@ -4,9 +4,9 @@ description: 이메일 프로그램 예약 - Marketo 문서 - 제품 설명서
 title: 이메일 프로그램 예약
 exl-id: c125166f-3e0d-49a5-ad83-7abac51da713
 feature: Email Programs
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '136'
+source-wordcount: '128'
 ht-degree: 0%
 
 ---
@@ -22,7 +22,7 @@ ht-degree: 0%
 
 전자 메일 프로그램을 만들고 대상을 정의하고 전자 메일을 선택하면 *when* 프로그램에서 전자 메일을 보내도록 할 수 있습니다. 방법은 다음과 같습니다.
 
-1. **마케팅 활동**(으)로 이동합니다.
+1. **[!UICONTROL Marketing Activities]**(으)로 이동합니다.
 
    ![](assets/login-marketing-activities-1.png)
 
@@ -30,7 +30,7 @@ ht-degree: 0%
 
    ![](assets/selectemailprogram-1.jpg)
 
-1. **일정** 타일에서 날짜를 설정합니다.
+1. **[!UICONTROL Schedule]** 타일에서 날짜를 설정합니다.
 
    ![](assets/image2017-12-5-14-3a4-3a28.png)
 
@@ -38,7 +38,7 @@ ht-degree: 0%
 
    ![](assets/image2017-12-5-14-3a3-3a58.png)
 
-1. [받는 사람 시간대](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/scheduling-with-recipient-time-zone/schedule-email-programs-with-recipient-time-zone.md) 및/또는 [시작](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/head-start-for-email-programs.md) 기능을 사용하도록 선택할 수도 있습니다.
+1. [[!UICONTROL Recipient Time Zone]](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/scheduling-with-recipient-time-zone/schedule-email-programs-with-recipient-time-zone.md) 및/또는 [[!UICONTROL Head Start]](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/head-start-for-email-programs.md) 기능을 사용하도록 선택할 수도 있습니다.
 
    ![](assets/image2017-12-5-14-3a3-3a12.png)
 

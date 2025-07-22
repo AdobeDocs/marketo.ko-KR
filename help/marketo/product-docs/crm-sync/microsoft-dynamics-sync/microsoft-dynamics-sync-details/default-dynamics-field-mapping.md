@@ -3,16 +3,16 @@ description: 기본 Dynamics 필드 매핑 - Marketo 문서 - 제품 설명서
 title: 기본 동적 필드 매핑
 exl-id: 5f39bd0c-202e-4aa1-a0ac-49ac2554aa1e
 feature: Microsoft Dynamics
-source-git-commit: 2403ae0f1fdca3b8238f3f59e2a3b94129deb301
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '823'
-ht-degree: 18%
+source-wordcount: '332'
+ht-degree: 2%
 
 ---
 
 # 기본 동적 필드 매핑 {#default-dynamics-field-mapping}
 
-처음에 Marketo Engage 계정을 Microsoft과 동기화하면 Marketo에서 기본 제공 Dynamics와 Marketo 필드 간에 이러한 연결을 자동으로 수행합니다.  Marketo은 리드, 계정, 기회 및 연락처에서 사용자 정의 필드도 동기화합니다.
+Marketo Engage 계정을 Microsoft과 처음 동기화할 때 Marketo은 내장된 Dynamics와 Marketo 필드 간에 이러한 연결을 자동으로 만듭니다.  Marketo은 리드, 계정, 기회 및 연락처에서 사용자 정의 필드도 동기화합니다.
 
 ## 리드 필드 {#lead-fields}
 
@@ -29,203 +29,203 @@ ht-degree: 18%
       <th>MS Dynamics API 이름</th>
     </tr>
     <tr>
-      <td>Microsoft 생성 날짜</td>
-      <td>만든 일자</td>
+      <td>[!UICONTROL Microsoft Created Date]</td>
+      <td>[!UICONTROL Created On]</td>
       <td>createdon</td>
     </tr>
     <tr>
-      <td>인사말</td>
-      <td>인사말</td>
+      <td>[!UICONTROL Salutation]</td>
+      <td>[!UICONTROL Salutation]</td>
       <td>인사말</td>
     </tr>
     <tr>
-      <td>첫 번째</td>
-      <td>이름</td>
+      <td>[!UICONTROL First]</td>
+      <td>[!UICONTROL First Name]</td>
       <td>이름</td>
     </tr>
     <tr>
-      <td>가운데</td>
-      <td>중간 이름</td>
+      <td>[!UICONTROL Middle]</td>
+      <td>[!UICONTROL Middle Name]</td>
       <td>middlename</td>
     </tr>
     <tr>
-      <td>마지막</td>
-      <td>성</td>
+      <td>[!UICONTROL Last]</td>
+      <td>[!UICONTROL Last Name]</td>
       <td>성</td>
     </tr>
     <tr>
-      <td>이메일</td>
-      <td>이메일</td>
+      <td>[!UICONTROL Email]</td>
+      <td>[!UICONTROL Email]</td>
       <td>emailaddress1</td>
     </tr>
     <tr>
-      <td>직위</td>
-      <td>직위</td>
+      <td>[!UICONTROL Job Title]</td>
+      <td>[!UICONTROL Job title]</td>
       <td>직함</td>
     </tr>
     <tr>
-      <td>전화</td>
-      <td>회사 전화</td>
+      <td>[!UICONTROL Phone]</td>
+      <td>[!UICONTROL Business Phone]</td>
       <td>전화 번호1</td>
     </tr>
     <tr>
-      <td>모바일</td>
-      <td>휴대폰</td>
+      <td>[!UICONTROL Mobile]</td>
+      <td>[!UICONTROL Mobile Phone]</td>
       <td>mobilephone</td>
     </tr>
     <tr>
-      <td>팩스</td>
-      <td>팩스</td>
+      <td>[!UICONTROL Fax]</td>
+      <td>[!UICONTROL Fax]</td>
       <td>팩스</td>
     </tr>
     <tr>
-      <td>주소</td>
-      <td>도로 1</td>
+      <td>[!UICONTROL Address]</td>
+      <td>[!UICONTROL Street 1]</td>
       <td>address1_line1</td>
     </tr>
     <tr>
-      <td>도시</td>
-      <td>도시</td>
+      <td>[!UICONTROL City]</td>
+      <td>[!UICONTROL City]</td>
       <td>address1_city</td>
     </tr>
     <tr>
-      <td>주</td>
-      <td>시/도</td>
+      <td>[!UICONTROL State]</td>
+      <td>[!UICONTROL State/Province]</td>
       <td>address1_stateorprovince</td>
     </tr>
     <tr>
-      <td>국가</td>
-      <td>국가/지역</td>
+      <td>[!UICONTROL Country]</td>
+      <td>[!UICONTROL Country/Region]</td>
       <td>address1_country</td>
     </tr>
     <tr>
-      <td>우편 번호</td>
-      <td>Zip/우편 번호</td>
+      <td>[!UICONTROL Postal Code]</td>
+      <td>[!UICONTROL Zip/Postal Code]</td>
       <td>address1_postalcode</td>
     </tr>
     <tr>
-      <td>개인 Source</td>
-      <td>잠재 고객 소스</td>
+      <td>[!UICONTROL Person Source]</td>
+      <td>[!UICONTROL Lead Source]</td>
       <td>리드소스 코드</td>
     </tr>
     <tr>
-      <td>개인 상태</td>
-      <td>상태</td>
+      <td>[!UICONTROL Person Status]</td>
+      <td>[!UICONTROL Status]</td>
       <td>statecode</td>
     </tr>
     <tr>
-      <td>상태 사유</td>
-      <td>상태 사유</td>
+      <td>[!UICONTROL Status Reason]</td>
+      <td>[!UICONTROL Status Reason]</td>
       <td>statuscode</td>
     </tr>
     <tr>
-      <td>개인 메모</td>
-      <td>설명</td>
+      <td>[!UICONTROL Person Notes]</td>
+      <td>[!UICONTROL Description]</td>
       <td>설명</td>
     </tr>
     <tr>
-      <td>두 낫 콜</td>
-      <td>전화 통화 허용 안 함</td>
+      <td>[!UICONTROL Do Not Call]</td>
+      <td>[!UICONTROL Do Not Allow Phone Calls]</td>
       <td>donotphone</td>
     </tr>
     <tr>
-      <td>주소 삭제</td>
-      <td>이메일 대량 수신 안 함</td>
+      <td>[!UICONTROL Unsubscribed]</td>
+      <td>[!UICONTROL Do not bulk email]</td>
       <td>donotbulkemail</td>
     </tr>
     <tr>
-      <td>개인 등급</td>
-      <td>등급</td>
+      <td>[!UICONTROL Person Rating]</td>
+      <td>[!UICONTROL Rating]</td>
       <td>잠재 고객 코드</td>
     </tr>
     <tr>
-      <td>Microsoft 주소 2</td>
-      <td>도로 2</td>
+      <td>[!UICONTROL Microsoft Address 2]</td>
+      <td>[!UICONTROL Street 2]</td>
       <td>address1_line2</td>
     </tr>
     <tr>
-      <td>Microsoft 주소 3</td>
-      <td>도로 3</td>
+      <td>[!UICONTROL Microsoft Address 3]</td>
+      <td>[!UICONTROL Street 3]</td>
       <td>address1_line3</td>
     </tr>
     <tr>
-      <td>Microsoft에게 이메일을 보내지 않음</td>
-      <td>이메일 허용 안 함</td>
+      <td>[!UICONTROL Microsoft Do Not Email]</td>
+      <td>[!UICONTROL Do Not Allow Emails]</td>
       <td>donotemail</td>
     </tr>
     <tr>
-      <td>Microsoft 팩스 사용 안 함</td>
-      <td>팩스 허용 안 함</td>
+      <td>[!UICONTROL Microsoft Do Not Fax]</td>
+      <td>[!UICONTROL Do Not Allow Faxes]</td>
       <td>donot팩스</td>
     </tr>
     <tr>
-      <td>Microsoft에서 마케팅 자료를 보내지 않음</td>
-      <td>마케팅 자료</td>
+      <td>[!UICONTROL Microsoft Do Not Send Marketing Material]</td>
+      <td>[!UICONTROL Marketing Material]</td>
       <td>donotsendmm</td>
     </tr>
     <tr>
-      <td>Microsoft 홈 전화</td>
-      <td>집전화</td>
+      <td>[!UICONTROL Microsoft Home Phone]</td>
+      <td>[!UICONTROL Home Phone]</td>
       <td>전화 번호2</td>
     </tr>
     <tr>
-      <td>Microsoft 기본 연락 방법</td>
-      <td>기본 연락 방법</td>
+      <td>[!UICONTROL Microsoft Preferred Method Of Contact]</td>
+      <td>[!UICONTROL Preferred Method of Contact]</td>
       <td>preferredcontactmethodcode</td>
     </tr>
     <tr>
-      <td>Microsoft 주제</td>
-      <td>주제</td>
+      <td>[!UICONTROL Microsoft Topic]</td>
+      <td>[!UICONTROL Topic]</td>
       <td>제목</td>
     </tr>
     <tr>
-      <td>마지막 관심 순간 날짜</td>
-      <td>마지막 관심 순간 날짜</td>
+      <td>[!UICONTROL Last interesting moment date]</td>
+      <td>[!UICONTROL Last interesting moment date]</td>
       <td>mkt_lastinterestingmomentdate</td>
     </tr>
     <tr>
-      <td>마지막 관심 순간 설명</td>
-      <td>마지막 관심 순간 설명</td>
+      <td>[!UICONTROL Last Interesting moment desc]</td>
+      <td>[!UICONTROL Last Interesting moment desc]</td>
       <td>mkt_lastinterestingmomentdesc</td>
     </tr>
     <tr>
-      <td>마지막 관심 순간 소스</td>
-      <td>마지막 관심 순간 소스</td>
+      <td>[!UICONTROL Last Interesting moment source]</td>
+      <td>[!UICONTROL Last Interesting moment source]</td>
       <td>mkt_leadinterrestingmomentsource</td>
     </tr>
     <tr>
-      <td>마지막 관심 순간 유형</td>
-      <td>마지막 관심 순간 유형</td>
+      <td>[!UICONTROL Last interesting moment type]</td>
+      <td>[!UICONTROL Last interesting moment type]</td>
       <td>mkt_lastinterestingmomenttype</td>
     </tr>
     <tr>
-      <td>회사</td>
-      <td>회사 이름</td>
+      <td>[!UICONTROL Company]</td>
+      <td>[!UICONTROL Company Name]</td>
       <td>companyname</td>
     </tr>
     <tr>
-      <td>상대 스코어</td>
-      <td>상대 스코어</td>
+      <td>[!UICONTROL Relative Score]</td>
+      <td>[!UICONTROL Relative Score]</td>
       <td>mkt_relativescore</td>
     </tr>
     <tr>
-      <td>우선 순위</td>
-      <td>우선 순위</td>
+      <td>[!UICONTROL Priority]</td>
+      <td>[!UICONTROL Priority]</td>
       <td>mkt_priority</td>
     </tr>
     <tr>
-      <td>상대 긴급도</td>
-      <td>긴급도</td>
+      <td>[!UICONTROL Relative Urgency]</td>
+      <td>[!UICONTROL Urgency]</td>
       <td>mkt_urgency</td>
     </tr>
     <tr>
-      <td>제목</td>
-      <td>주제</td>
+      <td>[!UICONTROL Subject]</td>
+      <td>[!UICONTROL Topic]</td>
       <td>제목</td>
     </tr>
     <tr>
-      <td>연간 수익</td>
-      <td>연간 수익</td>
+      <td>[!UICONTROL Annual Revenue]</td>
+      <td>[!UICONTROL Annual Revenue]</td>
       <td>매출</td>
     </tr>
   </tbody>
@@ -244,11 +244,11 @@ ht-degree: 18%
       <th>MS Dynamics API 이름</th>
     </tr>
     <tr>
-      <td>소유자</td>
+      <td>[!UICONTROL Owner] </td>
       <td>소유자 ID</td>
     </tr>
     <tr>
-      <td>만든 날짜</td>
+      <td>[!UICONTROL Created On]</td>
       <td>createdon</td>
     </tr>
   </tbody>
@@ -269,179 +269,179 @@ ht-degree: 18%
       <th>MS Dynamics API 이름</th>
     </tr>
     <tr>
-      <td>Microsoft 생성 날짜</td>
-      <td>만든 일자</td>
+      <td>[!UICONTROL Microsoft Created Date]</td>
+      <td>[!UICONTROL Created On]</td>
       <td>createdon</td>
     </tr>
     <tr>
-      <td>인사말</td>
-      <td>인사말</td>
+      <td>[!UICONTROL Salutation]</td>
+      <td>[!UICONTROL Salutation]</td>
       <td>인사말</td>
     </tr>
     <tr>
-      <td>첫 번째</td>
-      <td>이름</td>
+      <td>[!UICONTROL First]</td>
+      <td>[!UICONTROL First Name]</td>
       <td>이름</td>
     </tr>
     <tr>
-      <td>가운데</td>
-      <td>중간 이름</td>
+      <td>[!UICONTROL Middle]</td>
+      <td>[!UICONTROL Middle Name]</td>
       <td>middlename</td>
     </tr>
     <tr>
-      <td>마지막</td>
-      <td>성</td>
+      <td>[!UICONTROL Last]</td>
+      <td>[!UICONTROL Last Name]</td>
       <td>성</td>
     </tr>
     <tr>
-      <td>이메일</td>
-      <td>이메일</td>
+      <td>[!UICONTROL Email]</td>
+      <td>[!UICONTROL Email]</td>
       <td>emailaddress1</td>
     </tr>
     <tr>
-      <td>직위</td>
-      <td>직위</td>
+      <td>[!UICONTROL Job Title]</td>
+      <td>[!UICONTROL Job Title]</td>
       <td>직함</td>
     </tr>
     <tr>
-      <td>전화</td>
-      <td>회사 전화</td>
+      <td>[!UICONTROL Phone]</td>
+      <td>[!UICONTROL Business Phone]</td>
       <td>전화 번호1</td>
     </tr>
     <tr>
-      <td>모바일</td>
-      <td>휴대폰</td>
+      <td>[!UICONTROL Mobile]</td>
+      <td>[!UICONTROL Mobile Phone]</td>
       <td>mobilephone</td>
     </tr>
     <tr>
-      <td>주소</td>
-      <td>주소 1: 상세 주소 1</td>
+      <td>[!UICONTROL Address]</td>
+      <td>[!UICONTROL Address 1: Street 1]</td>
       <td>address1_line1</td>
     </tr>
     <tr>
-      <td>도시</td>
-      <td>주소 1: 시</td>
+      <td>[!UICONTROL City]</td>
+      <td>[!UICONTROL Address 1: City]</td>
       <td>address1_city</td>
     </tr>
     <tr>
-      <td>주</td>
-      <td>주소 1: 시/도</td>
+      <td>[!UICONTROL State]</td>
+      <td>[!UICONTROL Address 1: State/Province]</td>
       <td>address1_stateorprovince</td>
     </tr>
     <tr>
-      <td>국가</td>
-      <td>주소 1: 국가/지역</td>
+      <td>[!UICONTROL Country]</td>
+      <td>[!UICONTROL Address 1: Country/Region]</td>
       <td>address1_country</td>
     </tr>
     <tr>
-      <td>우편 번호</td>
-      <td>주소 1: 우편 번호</td>
+      <td>[!UICONTROL Postal Code]</td>
+      <td>[!UICONTROL Address 1: Zip/Postal Code]</td>
       <td>address1_postalcode</td>
     </tr>
     <tr>
-      <td>개인 상태</td>
-      <td>상태</td>
+      <td>[!UICONTROL Person Status]</td>
+      <td>[!UICONTROL Status]</td>
       <td>statecode</td>
     </tr>
     <tr>
-      <td>상태 사유</td>
-      <td>상태 사유</td>
+      <td>[!UICONTROL Status Reason]</td>
+      <td>[!UICONTROL Status Reason]</td>
       <td>statuscode</td>
     </tr>
     <tr>
-      <td>두 낫 콜</td>
-      <td>전화 통화 허용 안 함</td>
+      <td>[!UICONTROL Do Not Call]</td>
+      <td>[!UICONTROL Do Not Allow Phone Calls]</td>
       <td>donotphone</td>
     </tr>
     <tr>
-      <td>주소 삭제</td>
-      <td>이메일 대량 수신 안 함</td>
+      <td>[!UICONTROL Unsubscribed]</td>
+      <td>[!UICONTROL Do not bulk email]</td>
       <td>donotbulkemail</td>
     </tr>
     <tr>
-      <td>Microsoft 주소 2</td>
-      <td>주소 1: 상세 주소 2</td>
+      <td>[!UICONTROL Microsoft Address 2]</td>
+      <td>[!UICONTROL Address 1: Street 2]</td>
       <td>address1_line2</td>
     </tr>
     <tr>
-      <td>Microsoft 주소 3</td>
-      <td>주소 1: 도로 3</td>
+      <td>[!UICONTROL Microsoft Address 3]</td>
+      <td>[!UICONTROL Address 1: Street 3]</td>
       <td>address1_line3</td>
     </tr>
     <tr>
-      <td>Microsoft에게 이메일을 보내지 않음</td>
-      <td>이메일 허용 안 함</td>
+      <td>[!UICONTROL Microsoft Do Not Email]</td>
+      <td>[!UICONTROL Do Not Allow Emails]</td>
       <td>donotemail</td>
     </tr>
     <tr>
-      <td>Microsoft 홈 전화</td>
-      <td>집전화</td>
+      <td>[!UICONTROL Microsoft Home Phone]</td>
+      <td>[!UICONTROL Home Phone]</td>
       <td>전화 번호2</td>
     </tr>
     <tr>
-      <td>Microsoft 기본 연락 방법</td>
-      <td>선호하는 연락 방법</td>
+      <td>[!UICONTROL Microsoft Preferred Method Of Contact]</td>
+      <td>[!UICONTROL Preferred Method Of Contact]</td>
       <td>preferredcontactmethodcode</td>
     </tr>
     <tr>
-      <td>마지막 관심 순간 날짜</td>
-      <td>마지막 관심 순간 날짜</td>
+      <td>[!UICONTROL Last interesting moment date]</td>
+      <td>[!UICONTROL Last interesting moment date]</td>
       <td>mkt_lastinterestingmomentdate</td>
     </tr>
     <tr>
-      <td>마지막 관심 순간 유형</td>
-      <td>마지막 관심 순간 유형</td>
+      <td>[!UICONTROL Last interesting moment type]</td>
+      <td>[!UICONTROL Last interesting moment type]</td>
       <td>mkt_lastinterestingmomenttype</td>
     </tr>
     <tr>
-      <td>마지막 관심 순간 소스</td>
-      <td>마지막 관심 순간 소스</td>
+      <td>[!UICONTROL Last Interesting moment source]</td>
+      <td>[!UICONTROL Last Interesting moment source]</td>
       <td>mkt_leadinterrestingmomentsource</td>
     </tr>
     <tr>
-      <td>마지막 관심 순간 설명</td>
-      <td>마지막 관심 순간 설명</td>
+      <td>[!UICONTROL Last Interesting moment desc]</td>
+      <td>[!UICONTROL Last Interesting moment desc]</td>
       <td>mkt_lastinterestingmomentdesc</td>
     </tr>
     <tr>
-      <td>Microsoft에서 마케팅 자료를 보내지 않음</td>
-      <td>마케팅 자료</td>
+      <td>[!UICONTROL Microsoft Do Not Send Marketing Material]</td>
+      <td>[!UICONTROL Marketing Material]</td>
       <td>donotsendmm</td>
     </tr>
     <tr>
-      <td>Microsoft 팩스 사용 안 함</td>
-      <td>Microsoft 팩스 사용 안 함</td>
+      <td>[!UICONTROL Microsoft Do Not Fax]</td>
+      <td>[!UICONTROL Microsoft Do Not Fax]</td>
       <td>donot팩스</td>
     </tr>
     <tr>
-      <td>우선 순위</td>
-      <td>우선 순위</td>
+      <td>[!UICONTROL Priority]</td>
+      <td>[!UICONTROL Priority]</td>
       <td>mkt_priority</td>
     </tr>
     <tr>
-      <td>상대 긴급도</td>
-      <td>긴급도</td>
+      <td>[!UICONTROL Relative Urgency]</td>
+      <td>[!UICONTROL Urgency]</td>
       <td>mkt_urgency</td>
     </tr>
     <tr>
-      <td>상대 스코어</td>
-      <td>상대 스코어</td>
+      <td>[!UICONTROL Relative Score]</td>
+      <td>[!UICONTROL Relative Score]</td>
       <td>mkt_relativescore</td>
     </tr>
     <tr>
-      <td>개인 메모</td>
-      <td>설명</td>
-      <td>설명</td>
+      <td>[!UICONTROL Person Notes]</td>
+      <td>[!UICONTROL Description]</td>
+      <td>설명 </td>
     </tr>
     <tr>
-      <td>개인 스코어</td>
-      <td>잠재 고객 점수</td>
+      <td>[!UICONTROL Person Score]</td>
+      <td>[!UICONTROL Lead Score]</td>
       <td>mkt_leadscore</td>
     </tr>
     <tr>
-      <td>개인 메모</td>
-      <td>설명</td>
-      <td>설명</td>
+      <td>[!UICONTROL Person Notes]</td>
+      <td>[!UICONTROL Description]</td>
+      <td>설명 </td>
     </tr>
   </tbody>
 </table>
@@ -459,16 +459,16 @@ ht-degree: 18%
       <th>MS Dynamics API 이름</th>
     </tr>
     <tr>
-      <td>소유자</td>
+      <td>[!UICONTROL Owner] </td>
       <td>소유자 ID</td>
     </tr>
     <tr>
-      <td>만든 날짜</td>
+      <td>[!UICONTROL Created On]</td>
       <td>createdon</td>
     </tr>
     <tr>
+      <td>[!UICONTROL Company Name]</td>
       <td>parentcustomerid</td>
-      <td>회사 이름</td>
     </tr>
   </tbody>
 </table>
@@ -488,103 +488,103 @@ ht-degree: 18%
       <th>MS Dynamics API 이름</th>
     </tr>
     <tr>
-      <td>계정 (a)</td>
-      <td>계정</td>
+      <td>[!UICONTROL Account (a)]</td>
+      <td>[!UICONTROL Account]</td>
       <td>accountid</td>
     </tr>
     <tr>
-      <td>청구지 주소</td>
-      <td>주소 1: 상세 주소 1</td>
+      <td>[!UICONTROL Billing Address]</td>
+      <td>[!UICONTROL Address 1: Street 1]</td>
       <td>address1_line1</td>
     </tr>
     <tr>
-      <td>청구지 시</td>
-      <td>주소 1: 시</td>
+      <td>[!UICONTROL Billing City]</td>
+      <td>[!UICONTROL Address 1: City]</td>
       <td>address1_city</td>
     </tr>
     <tr>
-      <td>청구지 국가</td>
-      <td>주소 1: 국가/지역</td>
+      <td>[!UICONTROL Billing Country]</td>
+      <td>[!UICONTROL Address 1: Country/Region]</td>
       <td>address1_country</td>
     </tr>
     <tr>
-      <td>청구지 우편번호</td>
-      <td>주소 1: 우편 번호</td>
+      <td>[!UICONTROL Billing Postal Code]</td>
+      <td>[!UICONTROL Address 1: Zip/Postal Code]</td>
       <td>address1_postalcode</td>
     </tr>
     <tr>
-      <td>Microsoft 청구 주소 2</td>
-      <td>주소 1: 상세 주소 2</td>
+      <td>[!UICONTROL Microsoft Billing Address 2]</td>
+      <td>[!UICONTROL Address 1: Street 2]</td>
       <td>address1_line2</td>
     </tr>
     <tr>
-      <td>Microsoft 청구 주소 3</td>
-      <td>주소 1: 도로 3</td>
+      <td>[!UICONTROL Microsoft Billing Address 3]</td>
+      <td>[!UICONTROL Address 1: Street 3]</td>
       <td>address1_line3</td>
     </tr>
     <tr>
-      <td>주요 전화</td>
-      <td>주요 전화</td>
+      <td>[!UICONTROL Main Phone]</td>
+      <td>[!UICONTROL Main Phone]</td>
       <td>전화 번호1</td>
     </tr>
     <tr>
-      <td>비즈니스 유형</td>
-      <td>비즈니스 유형</td>
+      <td>[!UICONTROL Business Type]</td>
+      <td>[!UICONTROL Business Type]</td>
       <td>businesstypecode</td>
     </tr>
     <tr>
-      <td>Microsoft 계정 번호</td>
-      <td>계정 번호</td>
+      <td>[!UICONTROL Microsoft Account Number]</td>
+      <td>[!UICONTROL Account Number]</td>
       <td>accountnumber</td>
     </tr>
     <tr>
-      <td>Microsoft 회사 상태</td>
-      <td>상태</td>
+      <td>[!UICONTROL Microsoft Company Status]</td>
+      <td>[!UICONTROL Status]</td>
       <td>statecode</td>
     </tr>
     <tr>
-      <td>연간 수익</td>
-      <td>연간 수익</td>
+      <td>[!UICONTROL Annual Revenue]</td>
+      <td>[!UICONTROL Annual Revenue]</td>
       <td>매출</td>
     </tr>
     <tr>
-      <td>회사 메모</td>
-      <td>설명</td>
+      <td>[!UICONTROL Company Notes]</td>
+      <td>[!UICONTROL Description]</td>
       <td>설명</td>
     </tr>
     <tr>
-      <td>산업</td>
-      <td>산업</td>
+      <td>[!UICONTROL Industry]</td>
+      <td>[!UICONTROL Industry]</td>
       <td>산업 코드</td>
     </tr>
     <tr>
-      <td>SIC 코드</td>
-      <td>SIC 코드</td>
+      <td>[!UICONTROL SIC Code]</td>
+      <td>[!UICONTROL SIC Code]</td>
       <td>sic</td>
     </tr>
     <tr>
-      <td>웹 사이트</td>
-      <td>웹 사이트</td>
+      <td>[!UICONTROL Website]</td>
+      <td>[!UICONTROL Website]</td>
       <td>웹 사이트</td>
     </tr>
     <tr>
-      <td>직원 수</td>
-      <td>직원 수</td>
+      <td>[!UICONTROL Num Employees]</td>
+      <td>[!UICONTROL Number of Employees]</td>
       <td>직원 수</td>
     </tr>
     <tr>
-      <td>SIC 코드</td>
-      <td>SIC 코드</td>
+      <td>[!UICONTROL SIC Code]</td>
+      <td>[!UICONTROL SIC Code]</td>
       <td>sic</td>
     </tr>
     <tr>
-      <td>회사</td>
-      <td>계정 이름</td>
+      <td>[!UICONTROL Company]</td>
+      <td>[!UICONTROL Account Name]</td>
       <td>이름</td>
     </tr>
     <tr>
-      <td>직원 수</td>
-      <td>직원 수</td>
+      <td>[!UICONTROL Num Employees]</td>
+      <td>[!UICONTROL Number of Employees]</td>
       <td>직원 수</td>
     </tr>
   </tbody>
@@ -603,11 +603,11 @@ ht-degree: 18%
       <th>MS Dynamics API 이름</th>
     </tr>
     <tr>
-      <td>소유자</td>
+      <td>[!UICONTROL Owner] </td>
       <td>소유자 ID</td>
     </tr>
     <tr>
-      <td>만든 날짜</td>
+      <td>[!UICONTROL Created On]</td>
       <td>createdon</td>
     </tr>
   </tbody>
@@ -628,33 +628,33 @@ ht-degree: 18%
       <th>MS Dynamics API 이름</th>
     </tr>
     <tr>
-      <td>근접확률</td>
-      <td>가능성</td>
+      <td>[!UICONTROL Close Probability]</td>
+      <td>[!UICONTROL Probabliity]</td>
       <td>근접확률</td>
     </tr>
     <tr>
-      <td>단계</td>
-      <td>상태</td>
+      <td>[!UICONTROL Stage]</td>
+      <td>[!UICONTROL Status]</td>
       <td>statecode</td>
     </tr>
     <tr>
-      <td>실제 종료 일자</td>
-      <td>실제 종료 일자</td>
+      <td>[!UICONTROL Actual Close Date]</td>
+      <td>[!UICONTROL Actual Close Date]</td>
       <td>actualclosedate</td>
     </tr>
     <tr>
-      <td>이름</td>
-      <td>주제</td>
+      <td>[!UICONTROL Name]</td>
+      <td>[!UICONTROL Topic]</td>
       <td>이름</td>
     </tr>
     <tr>
-      <td>예상 값</td>
-      <td>예상. 매출</td>
+      <td>[!UICONTROL Estimated Value]</td>
+      <td>[!UICONTROL Est. Revenue]</td>
       <td>estimatedValue</td>
     </tr>
     <tr>
-      <td>설명</td>
-      <td>설명</td>
+      <td>[!UICONTROL Description]</td>
+      <td>[!UICONTROL Description]</td>
       <td>설명</td>
     </tr>
   </tbody>
@@ -673,15 +673,15 @@ ht-degree: 18%
       <th>MS Dynamics API 이름</th>
     </tr>
     <tr>
-      <td>소유자</td>
+      <td>[!UICONTROL Owner] </td>
       <td>소유자 ID</td>
     </tr>
     <tr>
-      <td>기회</td>
+      <td>[!UICONTROL Opportunity]</td>
       <td>opportunityId</td>
     </tr>
     <tr>
-      <td>잠재 고객</td>
+      <td>[!UICONTROL Potential Customer]</td>
       <td>customerId</td>
     </tr>
   </tbody>
@@ -702,15 +702,15 @@ ht-degree: 18%
       <th>설명</th>
     </tr>
     <tr>
-      <td>Microsoft 유형</td>
+      <td>[!UICONTROL Microsoft Type]</td>
       <td>리드 또는 연락처. 비어 있는 경우 잠재 고객은 Marketo의 사용자로만 존재합니다</td>
     </tr>
     <tr>
-      <td>Microsoft 생성 날짜</td>
-      <td>MS Dynamics에서 만든 날짜(Marketo에서 만든 날짜와 다를 수 있음)</td>
+      <td>[!UICONTROL Microsoft Created Date]</td>
+      <td>[!DNL MS Dynamics]에 만든 날짜(Marketo에서 만든 날짜와 다를 수 있음)</td>
     </tr>
     <tr>
-      <td>Microsoft이 삭제되었습니다.</td>
+      <td>[!UICONTROL Microsoft is Deleted]</td>
       <td>이전에 Microsoft에 있었으나 삭제되었습니다. 이제 Marketo에서만 살게 되었습니다.</td>
     </tr>
   </tbody>

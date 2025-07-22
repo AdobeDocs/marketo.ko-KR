@@ -4,10 +4,10 @@ description: 사용자 지정 개체 필드를 스마트 목록/트리거 제한
 title: 사용자 지정 개체 필드를 스마트 목록/트리거 제한으로 추가/제거
 exl-id: 639e73eb-9a8c-4b10-8e97-892abf5c5db0
 feature: Salesforce Integration
-source-git-commit: 6293a11b9d48a20da4cb2448c8374c469679abdb
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '174'
-ht-degree: 1%
+source-wordcount: '173'
+ht-degree: 0%
 
 ---
 
@@ -19,11 +19,11 @@ Marketo Engage은 Salesforce 사용자 지정 개체 동기화를 세밀하게 �
 >
 >**관리자 권한 필요**
 
-1. **[!UICONTROL Admin]** 영역에 연결했습니다.
+1. **[!UICONTROL Admin].** 클릭
 
    ![](assets/add-remove-custom-object-field-1.png)
 
-1. **[!UICONTROL Salesforce Objects Sync]**&#x200B;을(를) 클릭합니다.
+1. **[!UICONTROL Admin]**&#x200B;을(를) 클릭한 다음 **[!UICONTROL Salesforce Objects Sync].**&#x200B;을(를) 클릭합니다.
 
    ![](assets/image2015-12-11-15-3a11-3a41.png)
 

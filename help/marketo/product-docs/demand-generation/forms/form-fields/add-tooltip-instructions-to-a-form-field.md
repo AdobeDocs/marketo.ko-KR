@@ -4,10 +4,10 @@ description: 양식 필드에 툴팁 지침 추가 - Marketo 문서 - 제품 설
 title: 양식 필드에 툴팁 지침 추가
 exl-id: 455d19de-2e2b-447d-a210-7d77fdda6dc9
 feature: Forms
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '123'
-ht-degree: 0%
+source-wordcount: '114'
+ht-degree: 1%
 
 ---
 
@@ -23,23 +23,23 @@ ht-degree: 0%
 >
 >양식 **지침**&#x200B;은(는) 방문자가 필드 위로 마우스를 가져가면 나타나는 작은 도구 설명입니다.
 
-1. **마케팅 활동**(으)로 이동합니다.
+1. **[!UICONTROL Marketing Activities]**(으)로 이동합니다.
 
    ![](assets/login-marketing-activities-6.png)
 
-1. **양식**&#x200B;을 선택하고 **양식 편집**&#x200B;을 클릭합니다.
+1. **양식**&#x200B;을(를) 선택하고 **[!UICONTROL Edit Form]**&#x200B;을(를) 클릭합니다.
 
    ![](assets/image2014-9-15-14-3a15-3a42.png)
 
-1. 필드를 선택하고 **지침**&#x200B;을(를) 입력하십시오.
+1. 필드를 선택하고 **[!UICONTROL Instructions]**&#x200B;을(를) 입력하십시오.
 
    ![](assets/image2014-9-15-14-3a15-3a49.png)
 
-1. **마침**&#x200B;을 클릭합니다.
+1. **[!UICONTROL Finish]**&#x200B;을(를) 클릭합니다.
 
    ![](assets/image2014-9-15-14-3a15-3a57.png)
 
-1. **승인 및 닫기**&#x200B;를 클릭합니다.
+1. **[!UICONTROL Approve and Close]**&#x200B;을(를) 클릭합니다.
 
    ![](assets/image2014-9-15-14-3a16-3a3.png)
 

@@ -4,9 +4,9 @@ description: 특정 세그먼트를 사용하는 웹 캠페인 찾기 - Marketo 
 title: 특정 세그먼트를 사용하는 웹 캠페인 찾기
 exl-id: 3d180fdf-dfd3-4e56-b50d-faad9b0dc93a
 feature: Web Personalization
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '89'
+source-wordcount: '86'
 ht-degree: 0%
 
 ---
@@ -15,11 +15,11 @@ ht-degree: 0%
 
 특정 세그먼트를 사용하는 웹 캠페인을 찾고 계십니까?
 
-1. **세그먼트**(으)로 이동합니다.
+1. **[!UICONTROL Segments]**(으)로 이동합니다.
 
    ![](assets/new-dropdown-segments-hand-1.jpg)
 
-1. **세그먼트**&#x200B;를 검색합니다. **세그먼트 이름**&#x200B;을(를) 선택하십시오. 오른쪽 패널에서 **연결된 캠페인**&#x200B;을 클릭하여 이 특정 세그먼트와 연결된 캠페인을 확인합니다.
+1. **세그먼트**&#x200B;를 검색합니다. **세그먼트 이름**&#x200B;을(를) 선택하십시오. 오른쪽 패널에서 **[!UICONTROL Associated Campaigns]**&#x200B;을(를) 클릭하여 이 특정 세그먼트와 연결된 캠페인을 봅니다.
 
    ![](assets/image2014-11-26-14-21-59.png)
 

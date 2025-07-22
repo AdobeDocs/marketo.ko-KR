@@ -4,9 +4,9 @@ description: 세그먼테이션 만들기 - Marketo 문서 - 제품 설명서
 title: 세분화 만들기
 exl-id: a7907f1d-bc78-4b63-9875-044e96609755
 feature: Segmentation
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '222'
+source-wordcount: '214'
 ht-degree: 0%
 
 ---
@@ -15,11 +15,11 @@ ht-degree: 0%
 
 세그먼테이션을 사용하면 보고 및 다이내믹 콘텐츠를 위해 사용자를 개별 프로필로 그룹화할 수 있습니다. 만드는 방법은 다음과 같습니다.
 
-1. **데이터베이스**(으)로 이동합니다.
+1. **[!UICONTROL Database]**(으)로 이동합니다.
 
    ![](assets/image2017-3-28-13-3a44-3a54.png)
 
-1. **새로 만들기**&#x200B;를 클릭한 다음 **새 세분화**&#x200B;를 클릭합니다.
+1. **[!UICONTROL New]**&#x200B;을(를) 클릭한 다음 **[!UICONTROL New Segmentation]**&#x200B;을(를) 클릭합니다.
 
    ![](assets/image2017-3-28-13-3a56-3a57.png)
 
@@ -27,7 +27,7 @@ ht-degree: 0%
    >
    >최대 20개의 세그먼트를 만들 수 있습니다.
 
-1. **이름**&#x200B;을 입력하고 **세그먼트 추가**&#x200B;를 클릭하여 이름을 지정하십시오.
+1. **[!UICONTROL Name]**&#x200B;을(를) 입력하고 **[!UICONTROL Add Segment]**&#x200B;을(를) 클릭하여 이름을 지정하십시오.
 
    ![](assets/image2014-9-15-10-3a1-3a1.png)
 
@@ -45,7 +45,7 @@ ht-degree: 0%
    >
    >승인 중에 오류 메시지가 표시되고 세분화의 복잡성을 줄이는 데 도움이 필요한 경우 [Marketo 지원](https://nation.marketo.com/t5/Support/ct-p/Support)에 문의하십시오.
 
-1. 세그먼트를 드래그 앤 드롭하여 순서를 변경합니다. 완료되면 **만들기**&#x200B;를 클릭하세요.
+1. 세그먼트를 드래그 앤 드롭하여 순서를 변경합니다. 완료되면 **[!UICONTROL Create]**&#x200B;을(를) 클릭합니다.
 
    ![](assets/image2014-9-15-10-3a1-3a30.png)
 

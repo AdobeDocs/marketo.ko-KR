@@ -3,20 +3,20 @@ description: Dynamic Chat 개요 - Marketo 문서 - 제품 설명서
 title: Dynamic Chat 개요
 feature: Dynamic Chat
 exl-id: 73ab651e-bb11-459d-aa6a-39d9e208d512
-source-git-commit: be1ca409642fd5d81d341fbadaff38c268fe198f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '595'
-ht-degree: 2%
+source-wordcount: '587'
+ht-degree: 3%
 
 ---
 
-# Dynamic Chat 개요 {#dynamic-chat-overview}
+# [!DNL Dynamic Chat] 개요 {#dynamic-chat-overview}
 
-Dynamic Chat을 사용하면 사용하기 쉬운 인터페이스를 활용하여 웹 사이트를 방문하는 사용자와 계정을 모두 타겟팅할 수 있습니다. 이름, 연락처 정보 및 자유 텍스트와 같은 관련 콘텐츠를 수집합니다. 사이트 방문자는 라이브 에이전트와 채팅하고 영업팀과 회의를 예약할 수도 있습니다. Dynamic Chat 활동 및 참여 데이터를 사용하여 Marketo 프로그램에 멤버를 추가하고 크로스 채널 활동을 트리거할 수 있습니다.
+Dynamic Chat을 사용하면 사용하기 쉬운 인터페이스를 활용하여 웹 사이트를 방문하는 사용자와 계정을 모두 타겟팅할 수 있습니다. 이름, 연락처 정보 및 자유 텍스트와 같은 관련 콘텐츠를 수집합니다. 사이트 방문자는 라이브 에이전트와 채팅하고 영업팀과 회의를 예약할 수도 있습니다. Dynamic Chat 활동 및 참여 데이터를 사용하여 Marketo 프로그램에 구성원을 추가하고 크로스 채널 활동을 트리거할 수 있습니다.
 
 >[!TIP]
 >
->Dynamic Chat 자습서 비디오를 보려면 [이 페이지](https://experienceleague.adobe.com/docs/marketo-learn/tutorials/dynamic-chat/dynamic-chat-overview.html?lang=ko){target="_blank"}를 방문하세요.
+>Dynamic Chat 자습서 비디오를 보려면 [이 페이지](https://experienceleague.adobe.com/docs/marketo-learn/tutorials/dynamic-chat/dynamic-chat-overview.html){target="_blank"}를 방문하십시오.
 
 ## 통합 {#integrations}
 
@@ -66,9 +66,9 @@ Dynamic Chat 언어를 변경하려면 아래 단계를 따르십시오.
 
 >[!IMPORTANT]
 >
->Dynamic Chat 수준에서 언어를 변경하면 프로필뿐만 아니라 _모든_ Experience Cloud 응용 프로그램의 언어가 변경됩니다.
+>프로필 수준에서 언어를 변경하면 _뿐만 아니라_&#x200B;모든[!DNL Dynamic Chat] Experience Cloud 응용 프로그램의 언어가 변경됩니다.
 
-1. Experience Cloud 계정에서 설정 아이콘을 클릭하고 **환경 설정**&#x200B;을 선택합니다.
+1. Experience Cloud 계정에서 설정 아이콘을 클릭하고 **[!UICONTROL Preferences]**&#x200B;을(를) 선택합니다.
 
    ![](assets/dynamic-chat-overview-1.png)
 
@@ -76,19 +76,19 @@ Dynamic Chat 언어를 변경하려면 아래 단계를 따르십시오.
 
    ![](assets/dynamic-chat-overview-2.png)
 
-1. 새 언어를 선택하고(두 번째 언어는 선택 사항) **저장**&#x200B;을 클릭하세요.
+1. 새 언어를 선택하고(두 번째 언어는 선택 사항) **[!UICONTROL Save]**&#x200B;을(를) 클릭합니다.
 
    ![](assets/dynamic-chat-overview-3.png)
 
    >[!NOTE]
    >
-   >Dynamic Chat 선택할 수 있는 언어는 수십 개이지만 영어, 프랑스어, 독일어, 일본어, 스페인어, 이탈리아어, 포르투갈어(브라질), 한국어, 중국어 간체 및 중국어 번체만 지원합니다.
+   >선택할 수 있는 언어가 수십 개 있지만 [!DNL Dynamic Chat]은(는) 영어, 프랑스어, 독일어, 일본어, 스페인어, 이탈리아어, 포르투갈어(브라질), 한국어, 중국어 간체 및 중국어 번체만 지원합니다.
 
 언어를 업데이트할 때 개인적으로 채운 단어(예: 스트림 응답)를 제외한 앱 자체의 모든 내용이 변경됩니다.
 
 ## Dynamic Chat 데이터 보존 제한 {#dynamic-chat-data-retention-limits}
 
-다음은 Dynamic Chat 내의 제한/매개 변수 중 일부에 불과합니다. 전체 목록이 필요하면 Marketo Engage [제품 설명 페이지](https://helpx.adobe.com/kr/legal/product-descriptions/adobe-marketo-engage---product-description.html){target="_blank"}를 참조하세요.
+다음은 Dynamic Chat 내의 제한/매개 변수 중 일부에 불과합니다. 전체 목록에 대해서는 Marketo Engage [제품 설명 페이지](https://helpx.adobe.com/legal/product-descriptions/adobe-marketo-engage---product-description.html){target="_blank"}를 참조하십시오.
 
 <table>
   <th>데이터 유형</th>

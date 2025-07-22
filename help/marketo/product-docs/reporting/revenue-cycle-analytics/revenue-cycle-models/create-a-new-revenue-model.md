@@ -4,28 +4,28 @@ description: 새 수익 모델 만들기 - Marketo 문서 - 제품 설명서
 title: 새 수익 모델 만들기
 exl-id: 1c2e7d2b-35f6-4bd8-9a31-6bb857a63bbc
 feature: Reporting, Revenue Cycle Analytics
-source-git-commit: d20a9bb584f69282eefae3704ce4be2179b29d0b
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '118'
+source-wordcount: '102'
 ht-degree: 0%
 
 ---
 
 # 새 수익 모델 만들기 {#create-a-new-revenue-model}
 
-1. 새 수익 주기 모델을 만들려면 내 Marketo 홈 화면에서 **Analytics** 단추를 클릭하십시오.
+1. 새 수익 주기 모델을 만들려면 **[!UICONTROL Analytics]** 홈 화면에서 [!UICONTROL My Marketo] 단추를 클릭하십시오.
 
    ![](assets/image2015-4-27-11-3a54-3a41.png)
 
-1. **Analytics** 탭에서 **새로 만들기**&#x200B;를 클릭하고 **새 수익 주기 모델**&#x200B;을(를) 선택합니다.
+1. **[!UICONTROL Analytics]** 탭에서 **[!UICONTROL New]**&#x200B;을(를) 클릭하고 **[!UICONTROL New Revenue Cycle Model]**&#x200B;을(를) 선택합니다.
 
    ![](assets/image2015-4-27-11-3a55-3a51.png)
 
-1. **새 수익 주기 모델** 모달 창이 나타납니다. 이름을 입력하고 **만들기**&#x200B;를 클릭합니다.
+1. **[!UICONTROL New Revenue Cycle Model]** 모달 창이 나타납니다. 이름을 입력하고 **[!UICONTROL Create]**&#x200B;을(를) 클릭합니다.
 
    ![](assets/image2015-4-27-11-3a57-3a59.png)
 
-1. 모델의 홈 보기에서 **초안 편집**&#x200B;을 클릭합니다.
+1. 모델의 홈 보기에서 **[!UICONTROL Edit Draft]**&#x200B;을(를) 클릭합니다.
 
    ![](assets/image2015-4-27-12-3a10-3a49.png)
 

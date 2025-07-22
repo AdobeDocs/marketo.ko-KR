@@ -4,9 +4,9 @@ description: 자유 형식 랜딩 페이지 이미지에 링크 추가 - Marketo
 title: 자유 형식 랜딩 페이지 이미지에 링크 추가
 exl-id: 74560863-b135-4e0e-b84d-9462aacbb902
 feature: Landing Pages
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '84'
+source-wordcount: '80'
 ht-degree: 0%
 
 ---
@@ -21,11 +21,11 @@ ht-degree: 0%
 >
 >이는 자유 형식 랜딩 페이지에만 적용됩니다.
 
-1. 랜딩 페이지에 추가한 이미지를 선택하고 **속성 시트를 확장합니다.**
+1. 랜딩 페이지에 추가한 이미지를 선택하고 **[!UICONTROL Property Sheet]을(를) 확장합니다.**
 
    ![](assets/image2014-9-18-15-3a29-3a0.png)
 
-1. **링크 URL에 mailto 링크를 입력하십시오.**
+1. **[!UICONTROL linkUrl].**&#x200B;에 mailto 링크를 입력하십시오.
 
    ![](assets/image2014-9-18-15-3a29-3a21.png)
 

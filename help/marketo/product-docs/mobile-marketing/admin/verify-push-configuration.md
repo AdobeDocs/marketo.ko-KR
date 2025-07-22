@@ -4,10 +4,10 @@ description: 푸시 구성 확인 - Marketo 문서 - 제품 설명서
 title: 푸시 구성 확인
 exl-id: 5a391087-9d4a-4b06-bc0d-25cd8237e4df
 feature: Mobile Marketing
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '78'
-ht-degree: 0%
+source-wordcount: '68'
+ht-degree: 1%
 
 ---
 
@@ -19,11 +19,11 @@ ht-degree: 0%
 
 푸시 구성을 확인하여 모든 것이 정상적으로 동기화되도록 합니다.
 
-1. **관리자**&#x200B;를 클릭합니다.
+1. **[!UICONTROL Admin]**&#x200B;을(를) 클릭합니다.
 
    ![](assets/image2015-4-22-16-3a12-3a32.png)
 
-1. **모바일 앱**&#x200B;을 선택하세요.
+1. **[!UICONTROL Mobile Apps]**&#x200B;를 선택합니다.
 
    ![](assets/image2015-4-22-16-3a14-3a29.png)
 
@@ -31,11 +31,11 @@ ht-degree: 0%
 
    ![](assets/image2015-4-22-16-3a33-3a19.png)
 
-1. **모바일 앱 작업**&#x200B;을 클릭하고 **푸시 구성 확인**&#x200B;을 선택합니다.
+1. **[!UICONTROL Mobile App Actions]**&#x200B;을(를) 클릭하고 **[!UICONTROL Verify Push Configuration]**&#x200B;을(를) 선택합니다.
 
    ![](assets/image2015-4-22-17-3a25-3a8.png)
 
-1. 읽을 플랫폼을 확인하고 **닫기**&#x200B;를 클릭합니다.
+1. 읽을 플랫폼을 확인하고 **[!UICONTROL Close]**&#x200B;을(를) 클릭합니다.
 
    ![](assets/image2015-4-22-18-3a52-3a38.png)
 

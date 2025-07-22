@@ -4,9 +4,9 @@ description: 이메일 헤더 편집 - Marketo 문서 - 제품 설명서
 title: 이메일 헤더 편집
 exl-id: 21c529d1-55b0-4529-ac0a-4dfb9d149686
 feature: Email Editor
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '197'
+source-wordcount: '187'
 ht-degree: 0%
 
 ---
@@ -15,10 +15,10 @@ ht-degree: 0%
 
 Marketo의 이메일 헤더는 완전히 사용자 지정할 수 있습니다. 4개의 필드로 구성됩니다.
 
-* **보낸 사람** - 표시하려는 보낸 사람의 이름
-* **보낸 사람 주소** - 표시할 보낸 사람의 전자 메일 주소입니다.
-* **회신 주소** - 회신을 보낼 전자 메일 주소입니다(보낸 사람 주소와 다를 수 있음).
-* **제목** - 전자 메일의 제목 줄
+* **[!UICONTROL From]** - 표시하려는 보낸 사람의 이름
+* **[!UICONTROL From Address]** - 표시하려는 보낸 사람의 전자 메일 주소
+* **[!UICONTROL Reply-to]** - 개인 회신을 보낼 전자 메일 주소([!UICONTROL From Address]과(와) 다를 수 있음)
+* **[!UICONTROL Subject]** - 전자 메일의 제목 줄
 
 이러한 값을 편집하려면 각 필드를 클릭하고 정보를 입력합니다.
 
@@ -36,11 +36,11 @@ Marketo의 이메일 헤더는 완전히 사용자 지정할 수 있습니다. 4
 
 ![](assets/three-2.png)
 
-보낸 사람 주소 필드의 맨 오른쪽 키 아이콘을 사용하면 사용자 지정 DKIM 서명을 사용하고 있는지 여부를 알 수 있습니다.
+[!UICONTROL From Address] 필드의 맨 오른쪽에 있는 키 아이콘을 사용하면 사용자 지정 DKIM 서명을 사용하고 있는지 알 수 있습니다.
 
 ![](assets/four-2.png)
 
-제목 필드에서 맨 오른쪽에 있는 카운터는 제목 줄을 권장 50자 제한 미만으로 유지하는 데 도움이 됩니다.
+[!UICONTROL Subject] 필드의 맨 오른쪽에 있는 카운터는 제목 줄을 권장 50자 제한 미만으로 유지하는 데 도움이 됩니다.
 
 ![](assets/five-1.png)
 

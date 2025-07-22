@@ -4,16 +4,16 @@ description: API 전용 사용자 만들기 - Marketo 문서 - 제품 설명서
 title: API 전용 사용자 만들기
 exl-id: 23c92255-07a8-41c2-b7b8-8e495d135671
 feature: Users and Roles
-source-git-commit: 2b610cc3486b745212b0b1f36018a83214d7ecd7
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '188'
-ht-degree: 0%
+source-wordcount: '172'
+ht-degree: 2%
 
 ---
 
 # API 전용 사용자 만들기 {#create-an-api-only-user}
 
-[REST API](https://experienceleague.adobe.com/ko/docs/marketo-developer/marketo/rest/rest-api){target="_blank"}를 통해 Marketo과 통합하려면 API 전용 사용자를 만들어야 합니다. 방법은 다음과 같습니다.
+[REST API](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/rest/rest-api){target="_blank"}를 통해 Marketo과 통합하려면 API 전용 사용자를 만들어야 합니다. 방법은 다음과 같습니다.
 
 >[!IMPORTANT]
 >
@@ -27,31 +27,31 @@ ht-degree: 0%
 >
 >**관리자 권한 필요**
 
-1. **[!UICONTROL 관리자]** 영역으로 이동합니다.
+1. **[!UICONTROL Admin]** 영역으로 이동합니다.
 
    ![](assets/create-an-api-only-user-1.png)
 
-1. **[!UICONTROL 사용자 및 역할]**&#x200B;을 클릭합니다.
+1. **[!UICONTROL Users & Roles]**&#x200B;을(를) 클릭합니다.
 
    ![](assets/create-an-api-only-user-2.png)
 
-1. **[!UICONTROL 새 사용자 초대]**&#x200B;를 클릭합니다.
+1. **[!UICONTROL Invite New User]**&#x200B;을(를) 클릭합니다.
 
    ![](assets/create-an-api-only-user-3.png)
 
-1. API 전용 사용자에 대한 이메일, 이름 및 성을 입력합니다. **[!UICONTROL 다음]**&#x200B;을 클릭합니다.
+1. API 전용 사용자에 대한 이메일, 이름 및 성을 입력합니다. **[!UICONTROL Next]**&#x200B;을(를) 클릭합니다.
 
    ![](assets/create-an-api-only-user-4.png)
 
    >[!TIP]
    >
-   >선택적 사유 또는 액세스 만료 날짜를 추가합니다. 액세스 만료일은 단기 사원에게 편리합니다.
+   >선택적 [!UICONTROL Reason] 또는 [!UICONTROL Access Expiration] 날짜를 추가합니다. 액세스 만료일은 단기 사원에게 편리합니다.
 
-1. **[!UICONTROL API 전용]** 역할을 선택하고 **[!UICONTROL API 전용]** 확인란을 선택합니다. **[!UICONTROL 다음]**&#x200B;을 클릭합니다.
+1. **[!UICONTROL API Only]** 역할을 선택하고 **[!UICONTROL API Only]** 확인란을 선택합니다. **[!UICONTROL Next]**&#x200B;을(를) 클릭합니다.
 
    ![](assets/create-an-api-only-user-5.png)
 
-1. **[!UICONTROL 보내기]**&#x200B;를 클릭합니다.
+1. **[!UICONTROL Send]**&#x200B;을(를) 클릭합니다.
 
    ![](assets/create-an-api-only-user-6.png)
 

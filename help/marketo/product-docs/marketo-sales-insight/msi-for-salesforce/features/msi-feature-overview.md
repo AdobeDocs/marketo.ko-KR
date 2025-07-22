@@ -4,16 +4,16 @@ description: MSI 기능 개요 - Marketo 문서 - 제품 설명서
 title: MSI 기능 개요
 exl-id: e6cd988c-afba-44e3-b240-68258236f344
 feature: Marketo Sales Insights
-source-git-commit: bda95da160c5a27a0a460d26c102e6166c1ddea0
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '965'
+source-wordcount: '931'
 ht-degree: 0%
 
 ---
 
 # MSI 기능 개요 {#msi-feature-overview}
 
-MSI에는 Salesforce Lightning 및 Classic에서 사용할 수 있는 다음 기능이 있습니다.
+MSI에는 [!DNL Salesforce] Lightning 및 Classic에서 사용할 수 있는 다음 기능이 있습니다.
 
 >[!NOTE]
 >
@@ -29,7 +29,7 @@ MSI Visualforce 패널에는 다음 기능이 포함되어 있습니다.
    * 즐거운 순간
    * 웹 활동
    * 이메일
-   * 스코어
+   * 점수
 
 * 액션
 
@@ -43,9 +43,9 @@ MSI Visualforce 패널에는 다음 기능이 포함되어 있습니다.
 
 Visualforce 페이지:
 
-* 리드 - hyper &quot;전체 목록으로 이동&quot;을 클릭하는 옵션이 포함되어 있습니다. MSI 패널이 전체 페이지 레이아웃으로 표시되는 Salesforce의 새 탭으로 전송됩니다.
+* 리드 - hyper &quot;전체 목록으로 이동&quot;을 클릭하는 옵션이 포함되어 있습니다. Salesforce의 새 탭으로 전송되며, 여기에서 MSI 패널이 전체 페이지 레이아웃으로 표시됩니다.
 * 가망 고객 전체 목록 - &quot;전체 목록으로 이동&quot; 옵션이 포함되지 않음
-* 잠재 고객 모바일 - Salesforce 모바일 애플리케이션에 표시
+* Lead Mobile - Salesforce 모바일 애플리케이션에 표시
 * 잠재 고객 연락처 Bridge - MSI 연락처 ID 필드에 추가한 연락처의 MSI 패널을 표시합니다.
 
 필드:
@@ -68,7 +68,7 @@ Visualforce 페이지:
 
 Visualforce 페이지:
 
-* 연락처 - hyper &quot;전체 목록으로 이동&quot;을 클릭하는 옵션이 포함되어 있습니다. MSI 패널이 전체 페이지 레이아웃으로 표시되는 Salesforce의 새 탭으로 전송됩니다.
+* 연락처 - hyper &quot;전체 목록으로 이동&quot;을 클릭하는 옵션이 포함되어 있습니다. Salesforce의 새 탭으로 전송되며, 여기에서 MSI 패널이 전체 페이지 레이아웃으로 표시됩니다.
 * 연락처 전체 목록 - &quot;전체 목록으로 이동&quot; 옵션은 포함되지 않음
 * Contact Mobile - Salesforce 모바일 애플리케이션에 표시
 * Marketo Campaign ContactPage에 추가 - Marketo Campaign에 추가 기능은 이 패널에서 사용할 수 있습니다
@@ -87,19 +87,19 @@ Visualforce 페이지:
 * 긴급도 값
 * Marketo에서 보기 - 이 필드를 클릭하면 Marketo에서 편집 불가능한 잠재 고객 보기가 열립니다. 포함: 리드 정보, 회사 정보, SFDC 리드 정보, SFDC 사용자 정의 필드, 활동 로그
 * Mkto 리드 점수
-* Sales Insight - 연락처 전체 목록 페이지를 엽니다.
+* [!DNL Sales Insight] - 연락처 전체 목록 페이지를 엽니다.
 
 ## 계정 레이아웃 {#account-layout}
 
 Visualforce 페이지:
 
-* 계정 - hyper &quot;전체 목록으로 이동&quot;을 클릭하는 옵션이 포함되어 있습니다. MSI 패널이 전체 페이지 레이아웃으로 표시되는 Salesforce의 새 탭으로 전송됩니다.
+* 계정 - hyper &quot;전체 목록으로 이동&quot;을 클릭하는 옵션이 포함되어 있습니다. Salesforce의 새 탭으로 전송되며, 여기에서 MSI 패널이 전체 페이지 레이아웃으로 표시됩니다.
 * 계정 전체 목록 - &quot;전체 목록으로 이동&quot; 옵션이 포함되지 않음
 * Account Mobile - Salesforce 모바일 애플리케이션에 표시
 
 필드:
 
-* Sales Insight - 연락처 전체 목록 페이지를 엽니다.
+* [!DNL Sales Insight] - 연락처 전체 목록 페이지를 엽니다.
 
 작업:
 
@@ -121,7 +121,7 @@ Visualforce 페이지:
 
 필드:
 
-* Sales Insight - 연락처 전체 목록 페이지를 엽니다.
+* [!DNL Sales Insight] - 연락처 전체 목록 페이지를 엽니다.
 * Marketo Opportunity Analysis - Marketo에서 Opportunity Influence Analyzer 열기
 
 작업:
@@ -136,13 +136,13 @@ Visualforce 페이지:
 
 ## 가망 고객 및 연락처 목록 보기(대량 작업) {#lead-and-contact-list-view-bulk-actions}
 
-Salesforce Lightning: 가망 고객 및 연락처 목록 보기에서 감시 목록에 추가, Marketo 캠페인에 추가 및 Marketo 이메일 대량 작업 보내기 단추를 추가합니다.
+[!DNL Salesforce Lightning]: 잠재 고객 및 연락처 목록 보기에서 감시 목록에 추가, Marketo Campaign에 추가 및 Marketo 이메일 대량 전송 작업 단추.
 
-Salesforce Classic: 가망 고객 및 연락처 목록 보기에서 감시 목록에 추가, Marketo 캠페인에 추가 및 Marketo 이메일 대량 작업 보내기 버튼을 클릭합니다.
+[!DNL Salesforce Classic]: 잠재 고객 및 연락처 목록 보기에서 감시 목록에 추가, Marketo Campaign에 추가 및 Marketo 이메일 대량 작업 보내기 단추를 클릭합니다.
 
 ## Marketo 탭 {#marketo-tab}
 
-* 최상의 선택
+* [!DNL Best Bets]
 
    * 보기를 만들고 편집하는 기능이 포함되어 있습니다. Marketo 구성 페이지에서 &quot;기본 숨기기&quot; 옵션의 구성에 따라 최상의 선택을 숨기는 기능
    * 열 - 이름, 계정, 마지막 관심 순간, 상태 헤더, 참여(별 및 화염), 숨기기
@@ -176,30 +176,30 @@ Salesforce Classic: 가망 고객 및 연락처 목록 보기에서 감시 목�
    * 이 유형의 이벤트에 대한 이메일 알림을 수신하는 구독 옵션
    * 이 사람에게 표시할 우선 순위가 높은 아이콘이 최상의 선택입니다.
 
-## Marketo Sales Insight 구성 탭 {#marketo-sales-insight-configuration-tab}
+## [!DNL Marketo Sales Insight] 구성 탭 {#marketo-sales-insight-configuration-tab}
 
 * 운영 설정: SFDC에서 MSI를 설정하는 데 필요한 Soap 및 Rest API 자격 증명을 포함
 * MSI 구성: Marketo 탭 및 MSI visualforce 패널의 구성이 포함됩니다.
-* Marketo Sales Insight 재설정: 모든 구성을 지우는 기능이 포함됩니다.
+* [!DNL Marketo Sales Insight] 재설정: 모든 구성을 지우는 기능이 포함됩니다.
 
 >[!MORELIKETHIS]
 >
->Salesforce의 [Marketo Sales Insight 구성 탭](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/configuration/marketo-sales-insight-configuration-tab-in-salesforce.md)
+>[[!DNL Marketo Sales Insight] 의  [!DNL Salesforce]](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/configuration/marketo-sales-insight-configuration-tab-in-salesforce.md)구성 탭
 
-## Sales Insight 성과 보고서 {#sales-insight-performance-reports}
+## 성능 보고서 [!DNL Sales Insight]개 {#sales-insight-performance-reports}
 
-Salesforce, Microsoft Dynamics, Gmail 또는 Outlook 플러그인을 통해 전송된 전자 메일의 성능 보기
+[!DNL Salesforce], [!DNL Microsoft Dynamics], Gmail 또는 [!DNL Outlook] 플러그인을 통해 보낸 전자 메일의 성능 보기
 
 ## 모바일용 MSI {#msi-for-mobile}
 
-MSI 기능은 Salesforce 모바일 애플리케이션에서 지원됩니다
+[!DNL Salesforce] 모바일 응용 프로그램에서 MSI 기능이 지원됩니다.
 
 ## 언어 지원 {#language-support}
 
-Marketo Sales Insight는 언어로 저장됩니다. 따라서 두 개 이상의 언어에 대해 작동하려면 각 언어에 대해 자격 증명을 별도로 입력해야 합니다.
+[!DNL Marketo Sales Insight]은(는) 언어로 저장됩니다. 따라서 두 개 이상의 언어에 대해 작동하려면 각 언어에 대해 자격 증명을 별도로 입력해야 합니다.
 
 >[!NOTE]
 >
 >* Watchlist에 추가하려면 연락처/잠재 고객이 Default 파티션에 있어야 합니다.
 >
->* MSI Salesforce 패키지는 종속 필드가 있는 사용자 지정 보기를 지원하지 않습니다.
+>* MSI [!DNL Salesforce] 패키지는 종속 필드가 있는 사용자 지정 보기를 지원하지 않습니다.

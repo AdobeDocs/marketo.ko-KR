@@ -4,10 +4,10 @@ description: 제출 단추 스타일 및 색상 변경 - Marketo 문서 - 제품
 title: 전송 단추 스타일 및 색상 변경
 exl-id: a94143d4-0cd5-4c27-b8b1-73d803763e9d
 feature: Forms
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '148'
-ht-degree: 0%
+source-wordcount: '137'
+ht-degree: 2%
 
 ---
 
@@ -15,15 +15,15 @@ ht-degree: 0%
 
 표준 제출 단추가 무디거나 좀 더 화려한 것이 필요한 경우에는 사용할 수 있는 단추 스타일을 다양하게 선택하십시오.
 
-1. **마케팅 활동**(으)로 이동합니다.
+1. **[!UICONTROL Marketing Activities]**(으)로 이동합니다.
 
    ![](assets/login-marketing-activities-3.png)
 
-1. 양식을 선택하고 **양식 편집**&#x200B;을 클릭합니다.
+1. 양식을 선택하고 **[!UICONTROL Edit Form]**&#x200B;을(를) 클릭합니다.
 
    ![](assets/image2014-9-15-16-3a54-3a36.png)
 
-1. **제출** 단추를 선택하고 단추 스타일 옆에 있는 **편집**&#x200B;을 클릭합니다.
+1. **[!UICONTROL Submit]** 단추를 선택하고 단추 스타일 옆에 있는 **[!UICONTROL Edit]**&#x200B;을(를) 클릭합니다.
 
    ![](assets/image2014-9-15-16-3a54-3a56.png)
 
@@ -43,15 +43,15 @@ ht-degree: 0%
    >
    >색상 코드를 수동으로 입력할 수도 있습니다.
 
-1. **선택**&#x200B;을 클릭합니다.
+1. **[!UICONTROL Select]**&#x200B;을(를) 클릭합니다.
 
    ![](assets/image2014-9-15-16-3a56-3a37.png)
 
-1. **마침**&#x200B;을 클릭합니다.
+1. **[!UICONTROL Finish]**&#x200B;을(를) 클릭합니다.
 
    ![](assets/image2014-9-15-16-3a56-3a52.png)
 
-1. **승인 및 닫기**&#x200B;를 클릭합니다.
+1. **[!UICONTROL Approve and Close]**&#x200B;을(를) 클릭합니다.
 
    ![](assets/image2014-9-15-16-3a57-3a10.png)
 

@@ -4,9 +4,9 @@ description: 프로그램에서 보고서 만들기 - Marketo 문서 - 제품 �
 title: 프로그램에서 보고서 만들기
 exl-id: 3a80c10f-3113-46c2-a2e7-7ba2e3f4783f
 feature: Reporting
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '181'
+source-wordcount: '172'
 ht-degree: 0%
 
 ---
@@ -15,7 +15,7 @@ ht-degree: 0%
 
 보고서를 실행하여 사람, 프로그램, 랜딩 페이지, 이메일 및 소셜 자산을 분석합니다.
 
-1. **마케팅 활동**(으)로 이동합니다.
+1. **[!UICONTROL Marketing Activities]**(으)로 이동합니다.
 
    ![](assets/login-marketing-activities.png)
 
@@ -25,17 +25,17 @@ ht-degree: 0%
 
    >[!NOTE]
    >
-   >**분석** 탭에서 보고서를 만들 수도 있습니다.
+   >**[!UICONTROL Analytics]** 탭에서 보고서를 만들 수도 있습니다.
 
-1. 프로그램을 마우스 오른쪽 단추로 클릭하고 **새 로컬 자산**&#x200B;을 선택합니다.
+1. 프로그램을 마우스 오른쪽 단추로 클릭하고 **[!UICONTROL New Local Asset]**&#x200B;을(를) 선택합니다.
 
    ![](assets/programrightclick-asset.png)
 
-1. **보고서**&#x200B;를 클릭합니다.
+1. **[!UICONTROL Report]**&#x200B;을(를) 클릭합니다.
 
    ![](assets/image2014-9-15-18-3a36-3a46.png)
 
-1. **유형** 보고서를 선택하십시오.
+1. **[!UICONTROL Type]** 보고서를 선택하십시오.
 
    ![](assets/choosereport.png)
 
@@ -53,7 +53,7 @@ ht-degree: 0%
 
 1. 보고서의 시간대를 설정합니다. 자세한 내용은 [보고서 시간대 변경](/help/marketo/product-docs/reporting/basic-reporting/editing-reports/change-a-report-time-frame.md)을 참조하십시오.
 
-1. 통계를 보려면 **보고서** 탭을 클릭하십시오.
+1. 통계를 보려면 **[!UICONTROL Report]** 탭을 클릭하십시오.
 
    ![](assets/image2014-9-15-18-3a38-3a5.png)
 

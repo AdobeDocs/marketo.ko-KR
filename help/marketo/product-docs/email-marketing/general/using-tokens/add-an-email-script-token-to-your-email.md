@@ -4,9 +4,9 @@ description: 이메일에 이메일 스크립트 토큰 추가 - Marketo 문서 
 title: 이메일에 이메일 스크립트 토큰 추가
 exl-id: 41ef7c21-06af-4950-a19e-017e2417044e
 feature: Tokens
-source-git-commit: 9d6dd17ea20fb75a2931254addff570787ee2f8b
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '164'
+source-wordcount: '159'
 ht-degree: 2%
 
 ---
@@ -19,11 +19,11 @@ ht-degree: 2%
 >
 >단일 이메일에 삽입된 모든 스크립트 토큰의 총 크기는 100KB를 초과할 수 없습니다.
 
-1. **마케팅 활동** 영역으로 이동합니다.
+1. **[!UICONTROL Marketing Activities]** 영역으로 이동합니다.
 
    ![](assets/one-2.png)
 
-1. 토큰을 추가할 이메일을 찾아 선택하고 **초안 편집**&#x200B;을 클릭합니다.
+1. 토큰을 추가할 전자 메일을 찾아 선택하고 **[!UICONTROL Edit Draft]**&#x200B;을(를) 클릭합니다.
 
    ![](assets/two-2.png)
 
@@ -39,7 +39,7 @@ ht-degree: 2%
 
    ![](assets/four-2.png)
 
-1. 이전에 만든 전자 메일 스크립트 토큰을 찾아 선택한 다음 **삽입**&#x200B;을 클릭합니다.
+1. 이전에 만든 전자 메일 스크립트 토큰을 찾아 선택하고 **[!UICONTROL Insert]**&#x200B;을(를) 클릭합니다.
 
    ![](assets/five-1.png)
 

@@ -4,9 +4,9 @@ description: 기본 웹 세그먼트 만들기 - Marketo 문서 - 제품 설명�
 title: 기본 웹 세그먼트 만들기
 exl-id: 99bc3788-e04c-46a3-86e5-76d398f8a6e6
 feature: Web Personalization
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '163'
+source-wordcount: '151'
 ht-degree: 0%
 
 ---
@@ -15,11 +15,11 @@ ht-degree: 0%
 
 미국 및 금융 서비스 업계의 모든 웹 방문자를 타겟팅하는 기본 세그먼트를 만들어 보겠습니다.
 
-1. **세그먼트**(으)로 이동합니다.
+1. **[!UICONTROL Segments]**(으)로 이동합니다.
 
    ![](assets/image2016-8-18-15-3a37-3a32.png)
 
-1. **새로 만들기**&#x200B;를 클릭합니다.
+1. **[!UICONTROL Create New]**&#x200B;을(를) 클릭합니다.
 
    ![](assets/image2014-11-19-19-3a33-3a47.png)
 
@@ -27,7 +27,7 @@ ht-degree: 0%
 
    ![](assets/segment-name.png)
 
-1. 오른쪽 메뉴에서 **Location**&#x200B;을(를) 드래그하여 세그먼트 편집기에 놓습니다.
+1. 오른쪽 메뉴에서 **[!UICONTROL Location]**&#x200B;을(를) 세그먼트 편집기로 끌어다 놓습니다.
 
    ![](assets/location-drag-hand.jpg)
 
@@ -39,17 +39,17 @@ ht-degree: 0%
    >
    >도시의 수는 세그먼트당 300개로 제한됩니다.
 
-1. 오른쪽 메뉴에서 **업종**&#x200B;을(를) 세그먼트 편집기로 끌어다 놓습니다.
+1. 오른쪽 메뉴에서 **[!UICONTROL Industries]**&#x200B;을(를) 세그먼트 편집기로 끌어다 놓습니다.
 
    ![](assets/industries-hand.jpg)
 
-1. 드롭다운에서 추가할 업종 을 선택합니다. **금융 서비스 업계**&#x200B;를 선택하십시오.
+1. 드롭다운에서 추가할 [!UICONTROL Industries]을(를) 선택합니다. **[!UICONTROL Financial Services]업종**&#x200B;을(를) 선택하십시오.
 
    ![](assets/segment-industries.png)
 
    이제 미국 및 금융 산업에서 웹 사이트를 방문하는 모든 잠재 고객을 위한 기본 세그먼트를 설정했습니다.
 
-1. 세그먼트를 저장하려면 **저장**&#x200B;을 클릭하고 캠페인 페이지로 이동하려면 **캠페인 저장 및 정의**&#x200B;를 클릭하십시오.
+1. 세그먼트를 저장하려면 **[!UICONTROL Save]**&#x200B;을(를) 클릭하고 캠페인 페이지로 이동하려면 **[!UICONTROL Save & Define Campaign]**&#x200B;을(를) 클릭하십시오.
 
    ![](assets/image2014-11-19-19-3a48-3a20.png)
 

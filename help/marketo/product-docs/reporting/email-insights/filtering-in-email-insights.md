@@ -4,18 +4,18 @@ description: 이메일 인사이트에서 필터링 - Marketo 문서 - 제품 �
 title: 이메일 인사이트에서 필터링
 exl-id: be19a63f-7f1b-4920-97da-2e412d5d3fde
 feature: Reporting
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '180'
+source-wordcount: '168'
 ht-degree: 0%
 
 ---
 
-# 이메일 인사이트에서 필터링 {#filtering-in-email-insights}
+# [!UICONTROL Email Insights]에서 필터링 {#filtering-in-email-insights}
 
-이메일 인사이트에는 데이터를 필터링하는 다양한 방법이 있습니다.
+[!UICONTROL Email Insights]에서 데이터를 필터링하는 방법은 여러 가지가 있습니다.
 
-## 이메일 인사이트 {#email-insights}
+## [!UICONTROL Email Insights] {#email-insights}
 
 필터 추가를 시작하려면 +를 클릭합니다. 원하는 만큼 추가합니다.
 
@@ -59,10 +59,10 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->날짜 범위는 Analytics 페이지와 전송됨 페이지 모두에 적용됩니다. 그러나 **비교** 옵션은 Analytics 페이지에만 적용할 수 있습니다.
+>날짜 범위는 [!UICONTROL Analytics] 페이지와 [!UICONTROL Sends] 페이지 모두에 적용됩니다. 그러나 **비교** 옵션은 [!UICONTROL Analytics] 페이지에만 적용할 수 있습니다.
 
 ## 계정 기반 마케팅 {#account-based-marketing}
 
-[Target 계정 관리](https://docs.marketo.com/display/DOCS/Account+Based+Marketing+Overview)를 사용하는 경우 특별히 필터를 사용할 수 있습니다.
+[[!UICONTROL Target Account Management]](https://docs.marketo.com/display/DOCS/Account+Based+Marketing+Overview)을(를) 사용하는 경우 특별히 사용자를 위한 필터가 있습니다.
 
 ![](assets/abm.png)

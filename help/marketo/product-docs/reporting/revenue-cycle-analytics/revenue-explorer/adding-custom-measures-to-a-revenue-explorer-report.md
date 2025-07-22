@@ -4,9 +4,9 @@ description: 매출 탐색기 보고서에 사용자 정의 측정값 추가 - M
 title: 매출 탐색기 보고서에 사용자 정의 측정값 추가
 exl-id: 1f9230eb-4ea4-48d7-a269-76f9e589d3cd
 feature: Reporting, Revenue Cycle Analytics
-source-git-commit: d20a9bb584f69282eefae3704ce4be2179b29d0b
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '204'
+source-wordcount: '198'
 ht-degree: 0%
 
 ---
@@ -23,7 +23,7 @@ ht-degree: 0%
 
 1. 보고서에 필요한 필드를 가져옵니다. 자세한 내용은 [매출 탐색기 보고서에 필드 추가](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-explorer/adding-fields-to-a-revenue-explorer-report.md)를 참조하십시오.
 
-1. 기존 지표(파란색 셀)를 마우스 오른쪽 단추로 클릭하고 **사용자 정의 측정값**&#x200B;을 클릭한 다음 **계산된 측정값**&#x200B;을 선택합니다.
+1. 기존 지표(파란색 셀)를 마우스 오른쪽 단추로 클릭하고 **[!UICONTROL User Defined Measure]**&#x200B;을(를) 클릭한 다음 **[!UICONTROL Calculated Measure]**&#x200B;을(를) 선택합니다.
 
    ![](assets/image2016-1-26-11-3a7-3a49.png)
 
@@ -39,7 +39,7 @@ ht-degree: 0%
    >
    >수학 기호를 직접 입력하거나 선택 상자를 사용할 수 있습니다.
 
-1. 완료되면 **확인**&#x200B;을 클릭하세요.
+1. 완료되면 **[!UICONTROL OK]**&#x200B;을(를) 클릭합니다.
 
    ![](assets/image2016-1-26-11-3a37-3a27.png)
 

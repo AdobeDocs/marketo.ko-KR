@@ -4,9 +4,9 @@ description: 양식 삭제 - Marketo 문서 - 제품 설명서
 title: 양식 삭제
 exl-id: 137e75b3-febd-44e8-b7f8-12221a1252fa
 feature: Forms
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '136'
+source-wordcount: '129'
 ht-degree: 0%
 
 ---
@@ -15,7 +15,7 @@ ht-degree: 0%
 
 필요하지 않은 양식이 있고 사용되지 않는 경우 삭제할 수 있습니다. 방법은 다음과 같습니다.
 
-1. **마케팅 활동**(으)로 이동합니다.
+1. **[!UICONTROL Marketing Activities]**(으)로 이동합니다.
 
    ![](assets/login-marketing-activities-3.png)
 
@@ -23,7 +23,7 @@ ht-degree: 0%
 
    ![](assets/image2014-9-15-12-3a1-3a18.png)
 
-1. **양식 작업**&#x200B;에서 **양식 삭제**&#x200B;를 클릭합니다.
+1. **[!UICONTROL Form Actions]**&#x200B;에서 **[!UICONTROL Delete Form]**&#x200B;을(를) 클릭합니다.
 
    ![](assets/image2014-9-15-12-3a1-3a27.png)
 
@@ -31,7 +31,7 @@ ht-degree: 0%
    >
    >모든 랜딩 페이지에서 양식을 제거해야 합니다. 또한 양식이 공개 웹 사이트에서 사용되고 있지 않은지 확인하십시오.
 
-1. **삭제**&#x200B;를 클릭하여 확인합니다.
+1. **[!UICONTROL Delete]**&#x200B;을(를) 클릭하여 확인합니다.
 
    ![](assets/image2014-9-15-12-3a1-3a37.png)
 

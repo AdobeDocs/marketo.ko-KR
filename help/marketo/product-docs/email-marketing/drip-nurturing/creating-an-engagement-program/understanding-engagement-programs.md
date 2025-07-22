@@ -4,10 +4,10 @@ description: 참여 프로그램 이해 - Marketo 문서 - 제품 설명서
 title: 참여 프로그램 이해
 exl-id: dd573749-5ae6-4794-a340-b5139c316cce
 feature: Engagement Programs
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '284'
-ht-degree: 0%
+source-wordcount: '278'
+ht-degree: 1%
 
 ---
 
@@ -74,7 +74,7 @@ ht-degree: 0%
 
 ## 개인 케이던스 {#person-cadence}
 
-**개인 케이던스**&#x200B;은(는) 참여 프로그램에서 콘텐츠를 받는 기능을 정의하는 상태입니다. **참여 프로그램 케이던스 변경** 흐름 단계를 사용하여 일시 중지됨 또는 정상으로 변경할 수 있습니다.
+**개인 케이던스**&#x200B;은(는) 참여 프로그램에서 콘텐츠를 받는 기능을 정의하는 상태입니다. **[!UICONTROL Change Engagement Program Cadence]** 흐름 단계를 사용하여 [!UICONTROL Paused] 또는 [!UICONTROL Normal]&#x200B;(으)로 변경할 수 있습니다.
 
 ![](assets/image2014-9-15-15-3a25-3a55.png)
 

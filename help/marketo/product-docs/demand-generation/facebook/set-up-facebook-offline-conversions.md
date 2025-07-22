@@ -1,19 +1,19 @@
 ---
 unique-page-id: 11383953
-description: facebook 오프라인 전환 설정 - Marketo 문서 - 제품 설명서
-title: facebook 오프라인 전환 설정
+description: Facebook 오프라인 전환 설정 - Marketo 문서 - 제품 설명서
+title: Facebook 오프라인 전환 설정
 exl-id: e1974943-8fc8-41f6-be7e-1b594de13db6
 feature: Integrations
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '310'
+source-wordcount: '281'
 ht-degree: 1%
 
 ---
 
-# facebook 오프라인 전환 설정 {#set-up-facebook-offline-conversions}
+# [!DNL Facebook] 오프라인 전환 설정 {#set-up-facebook-offline-conversions}
 
-리드 광고를 통해 만든 사람에 대한 오프라인 전환 데이터를 Facebook으로 다시 보내면 광고 팀이 그 어느 때보다 광고 비용을 최적화할 수 있습니다. 설정 방법은 다음과 같습니다.
+잠재 고객 광고를 통해 만든 사람에 대한 오프라인 전환 데이터를 [!DNL Facebook]&#x200B;(으)로 다시 보내면 광고 팀이 광고 비용을 그 어느 때보다 최적화할 수 있습니다. 설정 방법은 다음과 같습니다.
 
 >[!PREREQUISITES]
 >
@@ -22,51 +22,51 @@ ht-degree: 1%
 
 ## 관리자 구성 {#admin-configuration}
 
-1. Marketo **관리자**(으)로 이동합니다.
+1. Marketo **[!UICONTROL Admin]**(으)로 이동합니다.
 
    ![](assets/image2016-11-29-13-3a8-3a45.png)
 
-1. **LaunchPoint**(으)로 이동하여 이전에 만든 Facebook 리드 광고 서비스를 두 번 클릭합니다.
+1. **[!UICONTROL LaunchPoint]**(으)로 이동하여 이전에 만든 Facebook 리드 광고 서비스를 두 번 클릭합니다.
 
    >[!NOTE]
    >
-   >아직 수행하지 않았다면 [Facebook 리드 광고를 설정](/help/marketo/product-docs/demand-generation/facebook/set-up-facebook-lead-ads.md)한 다음 여기로 돌아오십시오.
+   >아직 수행하지 않았다면 [[!UICONTROL Facebook Lead Ads]](/help/marketo/product-docs/demand-generation/facebook/set-up-facebook-lead-ads.md)을(를) 설정한 다음 여기로 돌아오십시오.
 
    ![](assets/image2016-11-29-13-3a10-3a43.png)
 
-1. 오프라인 전환을 포함하도록 **표시 이름**&#x200B;을(를) 편집하세요. **다음**&#x200B;을 클릭합니다.
+1. 원하는 경우 오프라인 전환을 포함하도록 **[!UICONTROL Display Name]**&#x200B;을(를) 편집하세요. **[!UICONTROL Next]**&#x200B;을(를) 클릭합니다.
 
    ![](assets/image2016-11-29-13-3a12-3a19.png)
 
-1. **오프라인 전환 사용**&#x200B;을 선택하고 **다음**&#x200B;을 클릭합니다.
+1. **[!UICONTROL Enable Offline Conversions]**&#x200B;을(를) 확인하고 **[!UICONTROL Next]**&#x200B;을(를) 클릭합니다.
 
    ![](assets/image2016-11-29-13-3a13-3a32.png)
 
-1. **다음**&#x200B;을 클릭합니다.
+1. **[!UICONTROL Next]**&#x200B;을(를) 클릭합니다.
 
    ![](assets/image2016-11-29-13-3a14-3a17.png)
 
-1. **저장**&#x200B;을 클릭합니다.
+1. **[!UICONTROL Save]**&#x200B;을(를) 클릭합니다.
 
    ![](assets/image2016-11-29-13-3a14-3a52.png)
 
-   잘됐네! facebook 오프라인 전환 활성화가 절반으로 완료되었습니다. 수익 주기 Modeler으로 이동하여 단계를 매핑하겠습니다.
+   잘됐네! [!DNL Facebook]개의 오프라인 전환을 사용하는 작업이 절반으로 완료되었습니다. 수익 주기 Modeler으로 이동하여 단계를 매핑하겠습니다.
 
    ![](assets/image2016-11-29-13-3a16-3a55.png)
 
 ## 수익 주기 Modeler 구성 {#revenue-cycle-modeler-configuration}
 
-1. **분석**(으)로 이동합니다.
+1. **[!UICONTROL Analytics]**(으)로 이동합니다.
 
    ![](assets/image2016-11-29-13-3a29-3a23.png)
 
-1. 모델을 선택하고 **초안 편집**&#x200B;을 클릭합니다.
+1. 모델을 선택하고 **[!UICONTROL Edit Draft]**&#x200B;을(를) 클릭합니다.
 
    ![](assets/image2016-11-29-13-3a31-3a6.png)
 
    >[!NOTE]
    >
-   >현재 다음과 같이 수익 주기 단계를 매핑할 수 있는 10개의 Facebook 이벤트가 있습니다.
+   >현재 수익 주기 단계를 다음에 매핑할 수 있는 이벤트는 10개 [!DNL Facebook]개입니다.
    >
    >* 결제 정보 추가
    >* 장바구니에 추가
@@ -79,7 +79,7 @@ ht-degree: 1%
    >* 검색 결과
    >* 컨텐츠 보기
 
-1. 매핑할 단계를 선택한 다음 **Facebook 전환** 드롭다운에서 매핑할 Facebook 이벤트를 선택합니다. 이 단계를 반복하여 RCM의 모든 단계를 Facebook의 오프라인 변환 단계에 매핑합니다.
+1. 매핑할 단계를 선택한 다음 **[!UICONTROL Facebook Conversion]** 드롭다운에서 매핑할 [!DNL Facebook] 이벤트를 선택합니다. 이 단계를 반복하여 RCM의 모든 단계를 [!DNL Facebook]의 오프라인 전환 단계에 매핑합니다.
 
    ![](assets/1-1.png)
 
@@ -91,16 +91,16 @@ ht-degree: 1%
 
    ![](assets/image2016-11-29-15-3a6-3a30.png)
 
-   이제 잠재 고객 광고 잠재 고객이 매핑된 단계에 도달하면 보고를 위해 Facebook으로 전환이 전송됩니다.
+   이제 잠재 고객 광고 잠재 고객이 매핑된 단계에 도달하면 보고를 위해 [!DNL Facebook]&#x200B;(으)로 전환됩니다.
 
    >[!CAUTION]
    >
-   >facebook 계정을 확인하고 모든 [광고가 Marketo 오프라인 전환 이벤트 집합에 연결](https://www.facebook.com/business/url/?href=%2Fbusiness%2Fhelp%2Fwww%2F1776828022605281&amp;cmsid&amp;creative=link&amp;creative_detail=advertiser-help-center&amp;create_type&amp;destination_cms_id&amp;orig_http_referrer)되어 있는지 확인하십시오. 그렇지 않으면 광고 속성이 작동하지 않을 수 있습니다.
+   >[!DNL Facebook] 계정을 확인하고 모든 [광고가 Marketo 오프라인 전환 이벤트 집합에 연결](https://www.facebook.com/business/url/?href=%2Fbusiness%2Fhelp%2Fwww%2F1776828022605281&cmsid&creative=link&creative_detail=advertiser-help-center&create_type&destination_cms_id&orig_http_referrer)되어 있는지 확인하십시오. 그렇지 않으면 광고 속성이 작동하지 않을 수 있습니다.
 
    >[!NOTE]
    >
-   >오프라인 전환 데이터는 Marketo에서 Facebook으로 매일 여러 번 전송됩니다.
+   >오프라인 전환 데이터는 Marketo에서 [!DNL Facebook]&#x200B;(으)로 매일 여러 번 전송됩니다.
 
 >[!MORELIKETHIS]
 >
->[Facebook 오프라인 전환 이해](/help/marketo/product-docs/demand-generation/facebook/understanding-facebook-offline-conversions.md)
+>[오프라인 전환 이해 [!DNL Facebook] 오프라인 전환](/help/marketo/product-docs/demand-generation/facebook/understanding-facebook-offline-conversions.md)

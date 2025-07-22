@@ -4,9 +4,9 @@ description: 스트림에 컨텐츠 추가 - Marketo 문서 - 제품 설명서
 title: 스트림에 콘텐츠 추가
 exl-id: b2db9f49-2baa-4d42-9755-480390a91041
 feature: Engagement Programs
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '173'
+source-wordcount: '160'
 ht-degree: 1%
 
 ---
@@ -15,11 +15,11 @@ ht-degree: 1%
 
 참여 프로그램을 만든 후에는 스트림에 콘텐츠를 추가해야 합니다. 스트림에 전자 메일 또는 프로그램을 추가할 수 있습니다.
 
-1. **마케팅 활동**(으)로 이동합니다.
+1. **[!UICONTROL Marketing Activities]**(으)로 이동합니다.
 
    ![](assets/add-content-to-a-stream-1.png)
 
-1. 참여 프로그램을 선택하고 **스트림** 탭으로 이동합니다.
+1. 참여 프로그램을 선택하고 **[!UICONTROL Streams]** 탭으로 이동합니다.
 
    ![](assets/add-content-to-a-stream-2.png)
 
@@ -27,11 +27,11 @@ ht-degree: 1%
 
 **콘텐츠 추가 단추**
 
-1. **콘텐츠 추가** 단추를 클릭합니다.
+1. **[!UICONTROL Add Content]** 단추를 클릭합니다.
 
    ![](assets/add-content-to-a-stream-3.png)
 
-1. **전자 메일** _또는_ **프로그램**&#x200B;을 선택한 다음 추가할 전자 메일 또는 프로그램/스마트 캠페인을 선택하십시오.
+1. **[!UICONTROL Email]** _또는_ **[!UICONTROL Program]**&#x200B;을(를) 선택한 다음 추가할 전자 메일 또는 프로그램/스마트 캠페인을 선택하십시오.
 
    ![](assets/add-content-to-a-stream-4.png)
 
@@ -41,13 +41,13 @@ ht-degree: 1%
 
 **+ 아이콘**
 
-1. **+** 아이콘을 클릭하고 **전자 메일** _또는_ **프로그램**&#x200B;을 선택한 다음 추가할 전자 메일 또는 프로그램/스마트 캠페인을 선택하십시오.
+1. **+** 아이콘을 클릭하고 **[!UICONTROL Email]** _또는_ **[!UICONTROL Program]**&#x200B;을(를) 선택한 다음 추가할 전자 메일 또는 프로그램/스마트 캠페인을 선택하십시오.
 
    ![](assets/add-content-to-a-stream-5.png)
 
    >[!NOTE]
    >
-   >스마트 캠페인이 제대로 작동하려면 **참여 프로그램의 구성원** 필터가 있어야 합니다.
+   >스마트 캠페인이 제대로 작동하려면 **[!UICONTROL Member of Engagement Program]** 필터가 있어야 합니다.
 
 좋습니다! 이제 프로그램 스트림에 콘텐츠를 추가하는 방법을 알 수 있습니다. 양육에 필요한 만큼 더하세요. 자세한 내용은 아래 관련 문서를 참조하십시오.
 

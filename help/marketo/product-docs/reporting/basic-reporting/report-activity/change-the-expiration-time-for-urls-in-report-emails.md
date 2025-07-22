@@ -4,9 +4,9 @@ description: 보고서 이메일의 URL 만료 시간 변경 - Marketo 문서 - 
 title: 보고서 이메일의 URL 만료 시간 변경
 exl-id: fcce8cb7-816d-46de-b3de-37908bea5097
 feature: Reporting
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '106'
+source-wordcount: '99'
 ht-degree: 1%
 
 ---
@@ -19,15 +19,15 @@ ht-degree: 1%
 
 보고서 구독 이메일의 링크는 3일 후에 만료됩니다. 이러한 링크의 만료 시간을 변경하려면 다음 단계를 따르십시오.
 
-1. **관리자**&#x200B;에서 **로그인 설정**&#x200B;을 클릭합니다.
+1. **[!UICONTROL Admin]**&#x200B;에서 **[!UICONTROL Login Settings]**&#x200B;을(를) 클릭합니다.
 
    ![](assets/image2014-9-16-14-3a44-3a57.png)
 
-1. **URL 만료 편집** 단추를 클릭합니다.
+1. **[!UICONTROL Edit URL Expiration]** 단추를 클릭합니다.
 
    ![](assets/image2014-9-16-14-3a45-3a1.png)
 
-1. 드롭다운 메뉴에서 링크가 만료될 때까지 남은 일 수를 선택합니다. **저장**&#x200B;을 클릭합니다.
+1. 드롭다운 메뉴에서 링크가 만료될 때까지 남은 일 수를 선택합니다. **[!UICONTROL Save]**&#x200B;을(를) 클릭합니다.
 
    ![](assets/image2014-9-16-14-3a45-3a5.png)
 

@@ -4,9 +4,9 @@ description: 알려진 사용자 데이터를 사용하여 세그먼트 만들�
 title: 알려진 사용자 데이터를 사용하여 세그먼트 만들기
 exl-id: 429d8678-2e62-4b1e-bda1-675ff3a1aae2
 feature: Web Personalization
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '184'
+source-wordcount: '173'
 ht-degree: 0%
 
 ---
@@ -19,11 +19,11 @@ ht-degree: 0%
 >
 >[개인 데이터 관리](/help/marketo/product-docs/web-personalization/using-web-segments/manage-person-data.md)
 
-1. **세그먼트**(으)로 이동합니다.
+1. **[!UICONTROL Segments]**(으)로 이동합니다.
 
    ![](assets/new-dropdown-segments-hand-2.jpg)
 
-1. **새로 만들기**&#x200B;를 클릭합니다.
+1. **[!UICONTROL Create New]**&#x200B;을(를) 클릭합니다.
 
    ![](assets/image2015-8-28-13-3a19-3a59.png)
 
@@ -31,7 +31,7 @@ ht-degree: 0%
 
    ![](assets/image2015-8-28-13-3a2-3a59.png)
 
-1. 프로필 세분화에서 **데이터베이스**&#x200B;을(를) 캔버스로 드래그합니다.
+1. 프로필 세분화에서 **[!UICONTROL Database]**&#x200B;을(를) 캔버스로 드래그합니다.
 
    ![](assets/four-1.png)
 
@@ -53,11 +53,11 @@ ht-degree: 0%
 
    ![](assets/eight.png)
 
-1. AND/OR 연산자를 선택합니다. 추가할 필드를 선택합니다. 개인 데이터 필드를 선택합니다. 개인 데이터 값을 입력합니다.
+1. [!UICONTROL AND]/[!UICONTROL OR] 연산자를 선택하십시오. 추가할 필드를 선택합니다. 개인 데이터 필드를 선택합니다. 개인 데이터 값을 입력합니다.
 
    ![](assets/nine.png)
 
-1. 세그먼트를 저장하려면 **저장**&#x200B;을 클릭하고, 저장하고 캠페인 페이지로 이동하려면 **캠페인 저장 및 정의**&#x200B;를 클릭하십시오.
+1. 세그먼트를 저장하려면 **[!UICONTROL Save]**&#x200B;을 클릭하고, 저장하고 **[!UICONTROL Save & Define Campaign]** 페이지로 이동하려면 [!UICONTROL Campaigns]을 클릭합니다.
 
    ![](assets/image2014-11-19-19-3a48-3a20-1.png)
 

@@ -4,9 +4,9 @@ description: 토큰 개요 - Marketo 문서 - 제품 설명서
 title: 토큰 개요
 exl-id: d60816ce-33fb-4e18-8acd-71d4e90f47de
 feature: Landing Pages
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '300'
+source-wordcount: '296'
 ht-degree: 0%
 
 ---
@@ -27,7 +27,7 @@ ht-degree: 0%
 
 >[!CAUTION]
 >
->Marketo의 이메일 편집기를 사용할 때 토큰이 사전 헤더에서 작동하지 않습니다. 프리 헤더에서 토큰을 사용하려면 이메일 템플릿에서 자체 HTML을 통해 사용해야 합니다.
+>Marketo의 이메일 편집기를 사용할 때 토큰이 사전 헤더에서 작동하지 않습니다. 프리 헤더에서 토큰을 사용하려면 이메일 템플릿에서 자체 HTML을 통해야 합니다.
 
 >[!NOTE]
 >
@@ -157,9 +157,9 @@ ht-degree: 0%
 * `{{program.Description}}`
 * `{{program.id}}`
 
-## 내 토큰 {#my-tokens}
+## [!UICONTROL My Tokens] {#my-tokens}
 
-내 토큰은 프로그램 내에서 정의되며 `{{my.`(으)로 시작하고 토큰에 대해 만든 이름이 옵니다. [프로그램의 내 토큰](/help/marketo/product-docs/core-marketo-concepts/programs/tokens/understanding-my-tokens-in-a-program.md)에 대해 자세히 알아보세요.
+[!UICONTROL My Tokens]은(는) 프로그램 내에 정의되어 있으며 `{{my.`(으)로 시작하고 토큰에 대해 만든 이름이 옵니다. [프로그램의 내 토큰](/help/marketo/product-docs/core-marketo-concepts/programs/tokens/understanding-my-tokens-in-a-program.md)에 대해 자세히 알아보세요.
 
 ## 구성원 토큰 {#member-token}
 

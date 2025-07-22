@@ -4,9 +4,9 @@ description: 수익 주기 모델 - Marketo 문서 - 제품 설명서에서 모�
 title: 수익 주기 모델에서 모든 리드 찾기
 exl-id: 428dbfa1-2f19-41ce-bfc6-e63edfdaba17
 feature: Reporting, Revenue Cycle Analytics
-source-git-commit: d20a9bb584f69282eefae3704ce4be2179b29d0b
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '182'
+source-wordcount: '171'
 ht-degree: 0%
 
 ---
@@ -19,29 +19,29 @@ ht-degree: 0%
 >
 >[스마트 목록 만들기](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/creating-a-smart-list/create-a-smart-list.md)
 
-1. 스마트 목록을 선택한 상태에서 **스마트 목록** 탭을 클릭합니다.
+1. 스마트 목록을 선택한 상태에서 **[!UICONTROL Smart List]** 탭을 클릭합니다.
 
    ![](assets/image2015-4-29-14-3a6-3a36.png)
 
-1. **수익 모델의 구성원** 필터를 찾아 캔버스로 드래그합니다.
+1. **[!UICONTROL Member of Revenue Model]** 필터를 찾아 캔버스로 드래그합니다.
 
    ![](assets/image2015-4-29-14-3a12-3a33.png)
 
-1. **모델**&#x200B;을(를) 선택하십시오.
+1. **[!UICONTROL Model]** 선택.
 
    ![](assets/image2015-5-13-18-3a2-3a23.png)
 
    그러면 단계에 관계없이 해당 모델의 모든 잠재 고객이 됩니다. 보통 특정 단계를 원할 것입니다. 대신 다음 필터를 사용하십시오.
 
-1. **수익 단계** 필터를 찾아 캔버스로 드래그합니다.
+1. **[!UICONTROL Revenue Stage]** 필터를 찾아 캔버스로 드래그합니다.
 
    ![](assets/image2015-5-13-17-3a27-3a0.png)
 
-1. **단계**&#x200B;를 선택하십시오.
+1. **[!UICONTROL Stage]** 선택.
 
    ![](assets/image2015-5-13-17-3a31-3a9.png)
 
-1. 결과를 보려면 **리드** 탭으로 이동하십시오.
+1. 결과를 보려면 **[!UICONTROL Leads]** 탭으로 이동하십시오.
 
    ![](assets/2.png)
 

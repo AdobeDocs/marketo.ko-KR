@@ -4,9 +4,9 @@ description: 스마트 목록 구독 - Marketo 문서 - 제품 설명서
 title: 스마트 목록 구독
 exl-id: 4ea1664b-8178-41ae-a184-a8ebe090ef96
 feature: Reporting
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '428'
+source-wordcount: '400'
 ht-degree: 0%
 
 ---
@@ -17,12 +17,12 @@ ht-degree: 0%
 
 두 개의 별도 위치에서 스마트 목록 구독을 만들 수 있습니다.
 
-* 마케팅 활동
-* 데이터베이스
+* [!UICONTROL Marketing Activities]
+* [!UICONTROL Database]
 
 구독은 구독이 실행되는 시점에 전체 사용자 목록을 사용합니다.
 
-구독은 마케팅 활동 또는 데이터베이스에서 스마트 목록이 있는 곳에 있습니다.
+구독은 [!UICONTROL Marketing Activities] 또는 [!UICONTROL Database]에서 스마트 목록이 있는 위치에 있습니다.
 
 동일한 스마트 목록에서 여러 구독을 만들 수 있습니다.
 
@@ -36,39 +36,39 @@ ht-degree: 0%
 
 ## 스마트 목록 구독 만들기 {#create-a-smart-list-subscription}
 
-1. **데이터베이스** 또는 **마케팅 활동**(으)로 이동합니다.
+1. **[!UICONTROL Database]** 또는 **[!UICONTROL Marketing Activities]**(으)로 이동합니다.
 
    ![](assets/db.png)
 
-1. 구독을 생성할 스마트 목록을 선택합니다. **작업 나열**&#x200B;을 클릭하고 **새 스마트 목록 구독**&#x200B;을 선택합니다.
+1. 구독을 생성할 스마트 목록을 선택합니다. **[!UICONTROL List Actions]**&#x200B;을(를) 클릭하고 **[!UICONTROL New Smart List Subscription]**&#x200B;을(를) 선택합니다.
 
    ![](assets/three.png)
 
-1. 구독에 **이름**&#x200B;을 지정한 다음 **받는 사람**&#x200B;의 전자 메일 주소를 선택하거나 입력하세요.
+1. 구독에 **[!UICONTROL Name]**&#x200B;을(를) 지정한 다음 **[!UICONTROL Recipients]**&#x200B;의 전자 메일 주소를 선택하거나 입력하세요.
 
    ![](assets/image2015-9-14-13-3a18-3a38.png)
 
-1. **빈도** 목록을 클릭하고 빈도를 선택합니다.
+1. **[!UICONTROL Frequency]** 목록을 클릭하고 빈도를 선택하십시오.
 
    ![](assets/image2015-9-14-13-3a21-3a21.png)
 
-1. **게재 종료** 날짜를 설정합니다. **절대** 또는 일정 날짜를 선택할 수 있습니다.
+1. **[!UICONTROL End Delivery]** 날짜를 설정합니다. **[!UICONTROL Never]** 또는 일정 날짜를 선택할 수 있습니다.
 
    ![](assets/image2015-9-14-13-3a23-3a37.png)
 
-1. **서식**&#x200B;을 클릭하고 목록에서 선택하십시오.
+1. **[!UICONTROL Format]**&#x200B;을(를) 클릭하고 목록에서 선택하십시오.
 
    ![](assets/image2015-9-14-13-3a25-3a25.png)
 
-1. **만들기**&#x200B;를 클릭합니다.
+1. **[!UICONTROL Create]**&#x200B;을(를) 클릭합니다.
 
    ![](assets/image2015-9-11-15-3a58-3a4.png)
 
-1. 새 스마트 목록 구독이 구독 탭의 목록 맨 위에 표시됩니다. 지금 보내려면 **보내기**&#x200B;를 클릭하고 예약된 전자 메일 배달까지 기다리지 않습니다.
+1. 새 스마트 목록 구독이 구독 탭의 목록 맨 위에 표시됩니다. 지금 전송하려면 **[!UICONTROL Send]**&#x200B;을(를) 클릭하고 예약된 전자 메일 배달까지 기다리지 않습니다.
 
    ![](assets/eight.png)
 
-1. 스마트 목록 구독을 구독하는 사람이 없는 경우 활성 확인란의 선택을 취소하여 스마트 목록 구독을 비활성화하는 것이 좋습니다.
+1. 구독하는 스마트 목록 구독이 없는 경우 스마트 목록 구독을 비활성화하려면 **[!UICONTROL Active]** 확인란의 선택을 취소하는 것이 좋습니다.
 
    ![](assets/nine.png)
 
@@ -80,7 +80,7 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->[구독 관리자 보안](/help/marketo/product-docs/reporting/basic-reporting/report-subscriptions/secure-the-subscription-admin-setting.md) 설정이 **예**(으)로 설정된 경우 Marketo 인스턴스에 액세스할 수 있는 사용자만 보고서를 다운로드할 수 있습니다.
+>[구독 관리자 보안](/help/marketo/product-docs/reporting/basic-reporting/report-subscriptions/secure-the-subscription-admin-setting.md) 설정이 **[!UICONTROL Yes]**(으)로 설정된 경우 Marketo 인스턴스에 액세스할 수 있는 사용자만 보고서를 다운로드할 수 있습니다.
 
 ![](assets/image2015-4-17-15-3a46-3a47.png)
 
@@ -96,7 +96,7 @@ ht-degree: 0%
 
 ## 구독 삭제 {#delete-a-subscription}
 
-가입을 삭제하려면 가입 탭에서 가입을 선택하고 가입 삭제를 누릅니다.
+구독을 삭제하려면 구독 탭에서 선택하고 **[!UICONTROL Delete Subscription]**&#x200B;을(를) 클릭합니다.
 
 ![](assets/twelve.png)
 

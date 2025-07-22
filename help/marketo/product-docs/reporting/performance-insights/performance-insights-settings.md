@@ -4,14 +4,14 @@ description: 성능 인사이트 설정 - Marketo 문서 - 제품 설명서
 title: 성능 통찰력 설정
 exl-id: 894df9de-d416-44f7-8253-ebf3c2a36c90
 feature: Reporting
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '373'
+source-wordcount: '363'
 ht-degree: 0%
 
 ---
 
-# 성능 통찰력 설정 {#performance-insights-settings}
+# [!UICONTROL Performance Insights] 설정 {#performance-insights-settings}
 
 MPI의 다양한 설정 옵션에 대해 알아봅니다.
 
@@ -23,7 +23,7 @@ MPI의 다양한 설정 옵션에 대해 알아봅니다.
 
 ## 프로그램 성공 보기 기준 {#view-program-success-by}
 
-**참여 대시보드 - 기여도 및 트렌드**
+**[!UICONTROL Engagement]대시보드 - 기여도 및 트렌드**
 
 <table> 
  <tbody> 
@@ -40,7 +40,7 @@ MPI의 다양한 설정 옵션에 대해 알아봅니다.
 
 ## 이전 기간 구성 {#previous-period-configuration}
 
-**참여, 파이프라인, 매출 대시보드 - 기여만**
+**[!UICONTROL Engagement], [!UICONTROL Pipeline], [!UICONTROL Revenue] 대시보드 - 기여도만**
 
 <table> 
  <tbody> 
@@ -57,7 +57,7 @@ MPI의 다양한 설정 옵션에 대해 알아봅니다.
 
 ## 마케팅에 영향을 받는 기회 {#marketing-influenced-opportunities}
 
-**파이프라인 대시보드 - 기여도 및 트렌드**
+**[!UICONTROL Pipeline]대시보드 - 기여도 및 트렌드**
 
 <table> 
  <tbody> 
@@ -72,7 +72,7 @@ MPI의 다양한 설정 옵션에 대해 알아봅니다.
  </tbody> 
 </table>
 
-**매출 대시보드 - 기여도 및 트렌드**
+**[!UICONTROL Revenue]대시보드 - 기여도 및 트렌드**
 
 <table> 
  <tbody> 
@@ -89,7 +89,7 @@ MPI의 다양한 설정 옵션에 대해 알아봅니다.
 
 ## 비용 계산 {#cost-calculation}
 
-**파이프라인 및 수익 대시보드 - 기여도 및 트렌드**
+**[!UICONTROL Pipeline]및 [!UICONTROL Revenue] 대시보드 - 기여도 및 트렌드**
 
 <table> 
  <tbody> 

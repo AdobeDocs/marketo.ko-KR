@@ -1,27 +1,27 @@
 ---
 unique-page-id: 11381917
-description: Target 계정 관리 - Marketo 문서 - 제품 설명서
-title: 타겟 계정 관리
+description: '[!UICONTROL Target Account Management] - Marketo 문서 - 제품 설명서'
+title: '[!UICONTROL Target Account Management]'
 exl-id: ff0c37ac-7206-4346-bfb8-15c734b2a272
 feature: Target Account Management
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '242'
+source-wordcount: '218'
 ht-degree: 0%
 
 ---
 
-# 타겟 계정 관리 {#target-account-management-overview}
+# [!UICONTROL Target Account Management] {#target-account-management-overview}
 
-마케터, Target 계정 관리를 충족하십시오. 타겟 계정 관리에서 마케터를 만나보십시오.
+마케터, [!UICONTROL Target Account Management]을(를) 만나 보세요. [!UICONTROL Target Account Management], 마케터를 만나보세요.
 
 ![](assets/photo-collage.png)
 
-Marketo Target 계정 관리란 무엇입니까?
+Marketo [!UICONTROL Target Account Management]이란?
 
-Marketo Target Account Management 는 영업 팀과 마케팅 팀이 협력하여 매우 조정된 방식으로 주요 계정을 타겟팅하고 참여하도록 하므로, 계정 중심 전략, 실행 및 성공 간의 격차가 모두 단일 플랫폼 내에서 해결됩니다.
+Marketo [!UICONTROL Target Account Management]은(는) 영업 팀과 마케팅 팀을 한데 모아 매우 조정된 방식으로 주요 계정을 타겟팅하고 참여하도록 하여 계정 중심 전략, 실행 및 성공 간의 차이를 단일 플랫폼 내에서 해결합니다.
 
-Marketo Target 계정 관리를 사용하는 이유
+Marketo [!UICONTROL Target Account Management]을(를) 사용하는 이유
 
 Marketo은 TAM과 리드 관리를 하나의 솔루션으로 통합하여 마케터가 하나의 동작으로 계정과 리드 모두에 대해 개인화된 캠페인을 쉽게 실행할 수 있도록 합니다. 또한 주요 의사 결정권자 및 거래 영향력자에게 연락하여 혜택을 얻을 수 있습니다.
 

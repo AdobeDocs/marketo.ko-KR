@@ -4,28 +4,28 @@ description: Performance Insights 대시보드 - Marketo 문서 - 제품 설명�
 title: Performance Insights 대시보드
 exl-id: 324880d0-e3ff-4bd5-8e1b-102c4ea66c8f
 feature: Reporting
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '504'
+source-wordcount: '493'
 ht-degree: 0%
 
 ---
 
-# Performance Insights 대시보드 {#performance-insights-dashboards}
+# [!UICONTROL Performance Insights] 대시보드 {#performance-insights-dashboards}
 
 MPI에서 사용 가능한 대시보드에 대해 자세히 알아보십시오.
 
 ![](assets/1-4.png)
 
-## 참여 {#engagement}
+## [!UICONTROL Engagement] {#engagement}
 
-참여 대시보드는 육성 및 새 이름 획득 프로그램의 효과를 측정하는 데 도움이 됩니다.
+[!UICONTROL Engagement] 대시보드를 사용하면 육성 및 새 이름 획득 프로그램의 효과를 측정할 수 있습니다.
 
 ![](assets/two-3.png)
 
 대상 참여 측정
 
-**성공** 지표를 선택하여 육성 프로그램에서 대상자 참여를 측정합니다. 성공은 Marketo에서 의미 있는 상호 작용을 측정하는 척도입니다.
+**[!UICONTROL Successes]** 지표를 선택하여 육성 프로그램에서 대상자 참여를 측정합니다. 성공은 Marketo에서 의미 있는 상호 작용을 측정하는 척도입니다.
 
 ![](assets/3-4.png)
 
@@ -37,7 +37,7 @@ MPI에서 사용 가능한 대시보드에 대해 자세히 알아보십시오.
 
 새 이름 획득 측정
 
-**새 이름** 지표를 선택하여 새 이름 획득 프로그램의 효과를 측정합니다.
+새 이름 획득 프로그램의 효과를 측정하려면 **[!UICONTROL New Names]** 지표를 선택하십시오.
 
 ![](assets/4-3.png)
 
@@ -45,63 +45,63 @@ MPI에서 사용 가능한 대시보드에 대해 자세히 알아보십시오.
 >
 >이 대시보드를 통해 최상의 결과를 얻으려면 모든 프로그램이 획득 프로그램 및 잠재 고객의 획득 날짜를 설정하도록 설정되어야 합니다.
 
-## 파이프라인 {#pipeline}
+## [!UICONTROL Pipeline] {#pipeline}
 
-파이프라인 대시보드는 첫 번째 터치 및 다중 터치 지표별로 채널 성능을 보여줍니다.
+[!UICONTROL Pipeline] 대시보드는 첫 번째 접점 및 다중 접점 지표별로 채널 성능을 보여줍니다.
 
 ![](assets/five-1.png)
 
 <table> 
  <tbody> 
   <tr> 
-   <td><p><strong>새로운 영업 기회</strong></p></td> 
+   <td><p><strong><span class="uicontrol">새로운 영업 기회</span></strong></p></td> 
    <td><p>신규 기회 창출에 영향을 미쳐 프로그램이 받은 크레딧 비중. 관련된 여러 리드가 있는 경우 분수일 수 있습니다.</p></td> 
   </tr> 
   <tr> 
-   <td><p><strong>파이프라인 생성됨</strong></p></td> 
+   <td><p><strong><span class="uicontrol">파이프라인 생성됨</span></strong></p></td> 
    <td><p>기회 창출에 영향을 준 것으로 프로그램이 받은 크레딧(금전적 가치) 비중. 관련된 리드가 여러 개 있는 경우 전체의 일부일 수 있습니다.</p></td> 
   </tr> 
   <tr> 
-   <td><p><strong>파이프라인 열기</strong></p></td> 
+   <td><p><strong><span class="uicontrol">파이프라인 열기</span></strong></p></td> 
    <td><p>아직 열려 있는 기회의 생성에 영향을 미쳐 프로그램이 받은 크레딧(통화 가치) 부분. 관련된 리드가 여러 개 있는 경우 전체의 일부일 수 있습니다.</p></td> 
   </tr> 
   <tr> 
-   <td><p><strong>예상 수익</strong></p></td> 
+   <td><p><strong><span class="uicontrol">예상 수익</span></strong></p></td> 
    <td><p>기회 창출에 영향을 준 것으로 프로그램이 받은 크레딧(금전적 가치) 비중. 예상 매출은 영업 기회 확률에 영업 기회 값을 곱한 것입니다. 관련된 여러 리드가 있는 경우 분수일 수 있습니다.</p></td> 
   </tr> 
   <tr> 
-   <td><p><strong>생성된 영업 기회당 비용</strong></p></td> 
+   <td><p><strong><span class="uicontrol">생성된 영업 기회당 비용</span></strong></p></td> 
    <td><p>새로운 기회에 영향을 미친 프로그램 비용의 부분을 생성된 새로운 기회의 총 수로 나눈 값입니다.</p></td> 
   </tr> 
   <tr> 
-   <td><p><strong>파이프라인 생성 대 비용 비율</strong></p></td> 
+   <td><p><strong><span class="uicontrol">파이프라인 생성 대 비용 비율</span></strong></p></td> 
    <td><p>새로운 기회 창출에 영향을 미쳐 프로그램이 받은 크레딧 부분을 기회 창출에 영향을 미친 프로그램 비용 부분으로 나눈 것입니다.</p></td> 
   </tr> 
  </tbody> 
 </table>
 
-## 매출 {#revenue}
+## [!UICONTROL Revenue] {#revenue}
 
-매출 대시보드는 첫 번째 터치 및 다중 터치 지표별로 채널 성능을 보여줍니다.
+[!UICONTROL Revenue] 대시보드는 첫 번째 접점 및 다중 접점 지표별로 채널 성능을 보여줍니다.
 
 ![](assets/six-1.png)
 
 <table> 
  <tbody> 
   <tr> 
-   <td><p><strong>기회 획득함</strong></p></td> 
+   <td><p><strong><span class="uicontrol">기회 획득함</span></strong></p></td> 
    <td><p>프로그램에서 Won 기회에 영향을 미쳐 받은 크레딧 비중.</p></td> 
   </tr> 
   <tr> 
-   <td><p><strong>성공한 수익</strong></p></td> 
+   <td><p><strong><span class="uicontrol">성공한 수익</span></strong></p></td> 
    <td><p>원화 기회에 영향을 미쳐 받은 크레딧(금전적 가치) 비율.</p></td> 
   </tr> 
   <tr> 
-   <td><p><strong>성공한 영업 기회당 비용</strong></p></td> 
+   <td><p><strong><span class="uicontrol">성공한 영업 기회당 비용</span></strong></p></td> 
    <td><p>새로운 기회에 영향을 미친 프로그램 비용의 부분을 생성된 새로운 기회의 총 수로 나눈 값입니다.</p></td> 
   </tr> 
   <tr> 
-   <td><p><strong>원가 대비 수익 금액 비율</strong></p></td> 
+   <td><p><strong><span class="uicontrol">원가 대비 수익 금액 비율</span></strong></p></td> 
    <td><p>원화 기회에 영향을 미쳐 받은 크레딧(금전적 가치) 부분을 신규 기회에 영향을 준 프로그램 비용 부분으로 나눈 것이다.</p></td> 
   </tr> 
  </tbody> 

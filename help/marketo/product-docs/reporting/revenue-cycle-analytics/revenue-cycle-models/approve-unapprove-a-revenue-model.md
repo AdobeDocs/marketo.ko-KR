@@ -4,10 +4,10 @@ description: 수익 모델 승인/승인 취소 - Marketo 문서 - 제품 설명
 title: 수익 모델 승인/승인 취소
 exl-id: 2b0818c7-8a4e-4f92-bb95-1f6f77be1a90
 feature: Reporting, Revenue Cycle Analytics
-source-git-commit: d20a9bb584f69282eefae3704ce4be2179b29d0b
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '155'
-ht-degree: 0%
+source-wordcount: '142'
+ht-degree: 1%
 
 ---
 
@@ -21,7 +21,7 @@ ht-degree: 0%
 
 ## 승인 {#approve}
 
-1. **Analytics** 영역으로 이동합니다.
+1. **[!UICONTROL Analytics]** 영역으로 이동합니다.
 
    ![](assets/image2017-3-28-8-3a9-3a16.png)
 
@@ -29,11 +29,11 @@ ht-degree: 0%
 
    ![](assets/image2015-4-28-13-3a25-3a17.png)
 
-1. **모델 작업** 메뉴에서 **모델 승인**&#x200B;을 선택합니다.
+1. **[!UICONTROL Model Actions]** 메뉴에서 **[!UICONTROL Approve Model]**&#x200B;을(를) 선택합니다.
 
    ![](assets/image2015-4-28-14-3a6-3a3.png)
 
-1. 선택을 확인하는 대화 상자가 나타납니다. **승인**&#x200B;을 클릭합니다.
+1. 선택을 확인하는 대화 상자가 나타납니다. **[!UICONTROL Approve]**&#x200B;을(를) 클릭합니다.
 
    ![](assets/image2015-4-28-14-3a6-3a49.png)
 
@@ -45,7 +45,7 @@ ht-degree: 0%
 >
 >모델 승인을 취소하면 모든 직원이 모델에서 제거되고 모델의 기록이 삭제됩니다.
 
-1. **Analytics** 영역으로 이동합니다.
+1. **[!UICONTROL Analytics]** 영역으로 이동합니다.
 
    ![](assets/image2017-3-28-8-3a9-3a30.png)
 
@@ -53,11 +53,11 @@ ht-degree: 0%
 
    ![](assets/image2015-4-28-13-3a25-3a17.png)
 
-1. **모델 작업** 메뉴를 클릭하고 **모델 승인 취소**&#x200B;를 선택합니다.
+1. **[!UICONTROL Model Actions]** 메뉴를 클릭하고 **[!UICONTROL Unapprove Model]**&#x200B;을(를) 선택합니다.
 
    ![](assets/image2015-4-28-13-3a28-3a0.png)
 
-1. 표시되는 대화 상자에서 **모델 승인 취소**&#x200B;를 클릭합니다.
+1. 표시되는 [!UICONTROL Unapprove Model] 대화 상자에서 **[!UICONTROL Unapprove]**&#x200B;을(를) 클릭합니다.
 
    ![](assets/image2017-3-28-8-3a21-3a9.png)
 

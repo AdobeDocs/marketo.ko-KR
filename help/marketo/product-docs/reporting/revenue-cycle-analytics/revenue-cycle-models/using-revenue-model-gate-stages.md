@@ -4,9 +4,9 @@ description: 수익 모델 게이트 단계 사용 - Marketo 문서 - 제품 설
 title: 수익 모델 게이트 단계 사용
 exl-id: a69a4efd-76de-4bfa-81f2-6e74048f30f7
 feature: Reporting, Revenue Cycle Analytics
-source-git-commit: d20a9bb584f69282eefae3704ce4be2179b29d0b
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '272'
+source-wordcount: '246'
 ht-degree: 0%
 
 ---
@@ -21,7 +21,7 @@ ht-degree: 0%
 
 ## 게이트 스테이지 추가 {#add-a-gate-stage}
 
-1. **Analytics** 영역으로 이동합니다.
+1. **[!UICONTROL Analytics]** 영역으로 이동합니다.
 
    ![](assets/image2015-4-27-23-3a27-3a43.png)
 
@@ -29,19 +29,19 @@ ht-degree: 0%
 
    ![](assets/image2015-4-27-15-3a6-3a30.png)
 
-1. **초안 편집**&#x200B;을 클릭합니다.
+1. **[!UICONTROL Edit Draft]**&#x200B;을(를) 클릭합니다.
 
    ![](assets/image2015-4-27-12-3a10-3a49.png)
 
-1. **게이트** 단추를 클릭한 다음 캔버스의 아무 곳이나 끌어서 놓습니다.
+1. **[!UICONTROL Gate]** 단추를 클릭한 다음 캔버스의 아무 곳이나 끌어서 놓습니다.
 
    ![](assets/image2015-4-27-16-3a54-3a19.png)
 
-1. **이름**&#x200B;을(를) 편집하고 **유형**&#x200B;을(를) 선택하십시오.
+1. **[!UICONTROL Name]**&#x200B;을(를) 편집하고 **[!UICONTROL Type]**&#x200B;을(를) 선택하십시오.
 
    >[!NOTE]
    >
-   >지금 [계정별 추적 시작](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-cycle-models/start-tracking-by-account-in-the-revenue-modeler.md)을(를) 선택하여 모델을 진행할 때 계정의 성능에 대한 통찰력을 얻으십시오.
+   >지금 [[!UICONTROL Start Tracking by Account]](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-cycle-models/start-tracking-by-account-in-the-revenue-modeler.md)을(를) 선택하면 insight이 모델을 진행할 때 계정의 성능을 향상시킵니다.
 
    ![](assets/image2015-4-28-12-3a1-3a7.png)
 
@@ -51,31 +51,31 @@ ht-degree: 0%
 
 ## 게이트 스테이지 편집 {#edit-a-gate-stage}
 
-[이름], [설명]을 편집하고 [게이트] 스테이지의 유형을 조정합니다. [계정별 추적 시작](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-cycle-models/start-tracking-by-account-in-the-revenue-modeler.md)을 선택할 수도 있습니다.
+[!UICONTROL Name], [!UICONTROL Description]을(를) 편집하고 게이트 단계의 [!UICONTROL Type]을(를) 조정합니다. [[!UICONTROL Start Tracking by Account]](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-cycle-models/start-tracking-by-account-in-the-revenue-modeler.md)을(를) 선택할 수도 있습니다.
 
-1. **게이트** 단계 아이콘을 클릭합니다.
+1. **[!UICONTROL Gate]** 단계 아이콘을 클릭합니다.
 
    ![](assets/image2015-4-27-17-3a11-3a41.png)
 
-1. 콘텐츠를 편집하려면 **이름** 및 **설명** 필드 내에서 클릭하세요.
+1. **[!UICONTROL Name]** 및 **[!UICONTROL Description]** 필드 내에서 클릭하여 해당 콘텐츠를 편집합니다.
 
    ![](assets/image2015-4-28-12-3a17-3a22.png)
 
-1. 편집할 **Type** 드롭다운을 선택합니다.
+1. 편집할 **[!UICONTROL Type]** 드롭다운을 선택하십시오.
 
    ![](assets/image2015-4-27-17-3a14-3a7.png)
 
 ## 게이트 스테이지 삭제 {#delete-a-gate-stage}
 
-1. 게이트 단계 아이콘을 마우스 오른쪽 단추로 클릭하고 **삭제**&#x200B;를 선택하여 게이트 단계를 삭제할 수 있습니다.
+1. [게이트 단계] 아이콘을 마우스 오른쪽 단추로 클릭하고 **[!UICONTROL Delete]**&#x200B;을(를) 선택하여 [게이트 단계]를 삭제할 수 있습니다.
 
    ![](assets/image2015-4-28-12-3a30-3a19.png)
 
-1. 게이트 단계를 클릭한 다음 **단계 작업** 드롭다운에서 **삭제**&#x200B;를 선택하여 삭제할 수도 있습니다.
+1. 게이트 단계를 클릭한 다음 **[!UICONTROL Stage Actions]** 드롭다운에서 **[!UICONTROL Delete]**&#x200B;을(를) 선택하여 삭제할 수도 있습니다.
 
    ![](assets/image2015-4-28-12-3a56-3a28.png)
 
-1. 두 삭제 방법 모두 선택을 확인하라는 메시지가 표시됩니다. **삭제**&#x200B;를 클릭합니다.
+1. 두 삭제 방법 모두 선택을 확인하라는 메시지가 표시됩니다. **[!UICONTROL Delete]**&#x200B;을(를) 클릭합니다.
 
    ![](assets/image2015-4-28-12-3a52-3a22.png)
 

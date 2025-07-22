@@ -4,10 +4,10 @@ description: 참여 스트림 성과 보고서 - Marketo 문서 - 제품 설명�
 title: 참여 스트림 성과 보고서
 exl-id: e838fcd8-0fe3-4e96-b453-30b15b911ede
 feature: Engagement Programs, Reporting
-source-git-commit: d20a9bb584f69282eefae3704ce4be2179b29d0b
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '160'
-ht-degree: 1%
+source-wordcount: '144'
+ht-degree: 2%
 
 ---
 
@@ -17,11 +17,11 @@ ht-degree: 1%
 
 ## 보고서 만들기 {#create-the-report}
 
-1. 참여 프로그램을 찾아 선택한 다음 **새로 만들기**&#x200B;에서 **새 로컬 자산**&#x200B;을 클릭합니다.
+1. 참여 프로그램을 찾아 선택한 다음 **[!UICONTROL New]**&#x200B;에서 **[!UICONTROL New Local Asset]**&#x200B;을(를) 클릭합니다.
 
    ![](assets/localassetnutring.jpg)
 
-1. **보고서**&#x200B;를 선택하십시오.
+1. **[!UICONTROL Report]**&#x200B;를 선택합니다.
 
    ![](assets/image2014-9-15-18-3a23-3a59.png)
 
@@ -29,10 +29,10 @@ ht-degree: 1%
    >
    >프로그램 아래에서 보고서를 만들면 프로그램 콘텐츠로 자동 제한됩니다.
 
-   참여 스트림 성과 를 보고서 유형으로 선택합니다.
+   **[!UICONTROL Engagement Stream Performance]**&#x200B;을(를) 보고서 **[!UICONTROL Type]**(으)로 선택합니다.
    ![](assets/engagementreportchoose.png)
 
-1. 보고서 이름을 지정하고 **만들기**&#x200B;를 클릭합니다.
+1. 보고서 이름을 지정하고 **[!UICONTROL Create]**&#x200B;을(를) 클릭합니다.
 
    ![](assets/image2014-9-15-18-3a24-3a23.png)
 
@@ -44,17 +44,17 @@ ht-degree: 1%
 
    ![](assets/engagementperformancereport.jpg)
 
-1. **설정** 탭에서 **참여 프로그램 전자 메일** 필터를 두 번 클릭합니다.
+1. **[!UICONTROL Setup]** 탭에서 **[!UICONTROL Engagement Program Emails]** 필터를 두 번 클릭합니다.
 
    ![](assets/image2014-9-15-18-3a25-3a4.png)
 
-1. 보고할 이메일을 선택하고 **적용**&#x200B;을 클릭합니다.
+1. 보고할 전자 메일을 선택하고 **[!UICONTROL Apply]**&#x200B;을(를) 클릭합니다.
 
    ![](assets/engagementfilter.jpg)
 
 ## 보고서 실행 {#run-report}
 
-1. 보고서를 실행하려면 **보고서** 탭을 클릭하면 됩니다.
+1. 보고서를 실행하려면 **[!UICONTROL Report]** 탭을 클릭하면 됩니다.
 
    ![](assets/image2014-9-15-18-3a25-3a15.png)
 

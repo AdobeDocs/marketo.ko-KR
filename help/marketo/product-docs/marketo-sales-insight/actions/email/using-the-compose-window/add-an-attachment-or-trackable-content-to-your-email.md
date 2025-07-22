@@ -3,16 +3,16 @@ description: 이메일에 첨부 파일 또는 추적 가능한 콘텐츠 추가
 title: 이메일에 첨부 파일 또는 추적 가능한 콘텐츠 추가
 exl-id: 932ab7f8-3d58-4bc2-a82d-3718f082c369
 feature: Sales Insight Actions
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '417'
+source-wordcount: '400'
 ht-degree: 0%
 
 ---
 
 # 이메일에 첨부 파일 또는 추적 가능한 콘텐츠 추가 {#add-an-attachment-or-trackable-content-to-your-email}
 
-Marketo Sales를 통해 이메일을 보낼 때 파일을 첨부 파일로 추가하거나 파일을 다운로드 가능한(및 추적 가능한) 링크로 만들 수 있습니다.
+[!DNL Marketo Sales]을(를) 통해 전자 메일을 보낼 때 첨부 파일로 파일을 추가하거나 파일을 다운로드 가능한(및 추적 가능한) 링크로 만들 수 있습니다.
 
 >[!NOTE]
 >
@@ -20,11 +20,11 @@ Marketo Sales를 통해 이메일을 보낼 때 파일을 첨부 파일로 추�
 
 ## 첨부 파일 추가 {#add-an-attachment}
 
-1. 전자 메일 초안을 만듭니다. 이 방법에는 여러 가지가 있습니다. 이 예제에서는 헤더에서 **작성**&#x200B;을 선택합니다.
+1. 전자 메일 초안을 만듭니다. 여러 가지 방법으로 만들 수 있습니다. 이 예제에서는 헤더에서 **[!UICONTROL Compose]**&#x200B;을(를) 선택합니다.
 
    ![](assets/add-an-attachment-or-trackable-content-1.png)
 
-1. To 필드를 채우고 제목을 입력합니다.
+1. [!UICONTROL To] 필드를 채우고 [!UICONTROL Subject]을(를) 입력하십시오.
 
    ![](assets/add-an-attachment-or-trackable-content-2.png)
 
@@ -32,13 +32,13 @@ Marketo Sales를 통해 이메일을 보낼 때 파일을 첨부 파일로 추�
 
    ![](assets/add-an-attachment-or-trackable-content-3.png)
 
-1. 첨부할 파일을 선택하고 **삽입**&#x200B;을 클릭합니다.
+1. 첨부할 파일을 선택하고 **[!UICONTROL Insert]**&#x200B;을(를) 클릭합니다.
 
    ![](assets/add-an-attachment-or-trackable-content-4.png)
 
    >[!NOTE]
    >
-   >파일을 업로드하려면 창의 오른쪽 상단에 있는 **콘텐츠 업로드** 단추를 클릭하십시오.
+   >파일을 업로드해야 하는 경우 창의 오른쪽 상단에 있는 **[!UICONTROL Upload Content]** 단추를 클릭합니다.
 
    첨부 파일이 이메일 하단에 나타납니다.
 
@@ -46,11 +46,11 @@ Marketo Sales를 통해 이메일을 보낼 때 파일을 첨부 파일로 추�
 
 ## 추적 가능한 콘텐츠 추가 {#add-trackable-content}
 
-1. 이메일 초안을 만듭니다. 이 작업을 수행하는 방법에는 여러 가지가 있습니다. 이 예제에서는 작성 창을 선택합니다.
+1. 전자 메일 초안을 만듭니다. 이 방법에는 여러 가지가 있습니다. 이 예제에서는 **[!UICONTROL Compose]** 창을 선택합니다.
 
    ![](assets/add-an-attachment-or-trackable-content-6.png)
 
-1. To 필드를 채우고 제목을 입력합니다.
+1. [!UICONTROL To] 필드를 채우고 [!UICONTROL Subject]을(를) 입력하십시오.
 
    ![](assets/add-an-attachment-or-trackable-content-7.png)
 
@@ -58,13 +58,13 @@ Marketo Sales를 통해 이메일을 보낼 때 파일을 첨부 파일로 추�
 
    ![](assets/add-an-attachment-or-trackable-content-8.png)
 
-1. 추가할 콘텐츠를 선택하고 **콘텐츠가 추적됨** 슬라이더를 클릭한 다음 **삽입**&#x200B;을 클릭합니다.
+1. 추가할 콘텐츠를 선택하고 **[!UICONTROL Content is tracked]** 슬라이더를 클릭한 다음 **[!UICONTROL Insert]**&#x200B;을(를) 클릭합니다.
 
    ![](assets/add-an-attachment-or-trackable-content-9.png)
 
    >[!NOTE]
    >
-   >파일을 업로드하려면 창의 오른쪽 상단에 있는 **콘텐츠 업로드** 단추를 클릭하십시오.
+   >파일을 업로드해야 하는 경우 창의 오른쪽 상단에 있는 **[!UICONTROL Upload Content]** 단추를 클릭합니다.
 
    콘텐츠가 이메일에 링크로 표시됩니다. 수신자는 링크를 클릭하여 콘텐츠를 다운로드할 수 있습니다.
 

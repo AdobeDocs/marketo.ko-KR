@@ -4,9 +4,9 @@ description: 일정 보기 - Marketo 문서 - 제품 설명서에서 전체 프�
 title: 스케줄 뷰에서 전체 프로그램 스케줄 조정
 exl-id: 3debeff2-67ce-4b59-be5b-ce8cc198f4a0
 feature: Programs
-source-git-commit: b21f955bf98063e11f8ed3fdc6f164134ee4f5aa
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '125'
+source-wordcount: '118'
 ht-degree: 0%
 
 ---
@@ -19,19 +19,19 @@ ht-degree: 0%
 
    ![](assets/image2014-9-23-15-3a15-3a18.png)
 
-1. 이벤트 작업 드롭다운을 선택합니다. **[!UICONTROL 항목 다시 예약]**&#x200B;을 선택하세요.
+1. 이벤트 작업 드롭다운을 선택합니다. **[!UICONTROL Reschedule Entries]**&#x200B;을(를) 선택하십시오.
 
    ![](assets/image2014-9-23-15-3a15-3a53.png)
 
-1. 앵커 항목을 선택합니다. 이 이동에 따라 다른 모든 항목이 함께 이동합니다.
+1. [!UICONTROL Anchor Entry] 선택. 이 이동에 따라 다른 모든 항목이 함께 이동합니다.
 
    ![](assets/image2014-9-23-15-3a18-3a23.png)
 
-1. 새 시작 날짜를 선택합니다.
+1. [!UICONTROL New Start] 날짜를 선택하세요.
 
    ![](assets/image2014-9-23-15-3a18-3a37.png)
 
-1. **[!UICONTROL 다시 예약]**&#x200B;을 클릭하세요.
+1. **[!UICONTROL Reschedule]**&#x200B;을(를) 클릭합니다.
 
    ![](assets/image2014-9-23-15-3a18-3a54.png)
 

@@ -3,9 +3,9 @@ description: 공유 설정 - Marketo 문서 - 제품 설명서
 title: 공유 설정
 exl-id: 151d64da-7a36-4da2-8041-ebcdcd016a50
 feature: Sales Insight Actions
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '232'
+source-wordcount: '217'
 ht-degree: 0%
 
 ---
@@ -20,15 +20,15 @@ Sales Insight Actions 계정이 처음 만들어지면 공유 설정이 활성�
 
 ## 공유 설정 구성 {#configure-your-sharing-settings}
 
-1. [웹 응용 프로그램](https://toutapp.com/login)에서 톱니바퀴 아이콘을 클릭하고 **설정**&#x200B;을 선택합니다.
+1. [웹 응용 프로그램](https://toutapp.com/login)에서 톱니바퀴 아이콘을 클릭하고 **[!UICONTROL Settings]**&#x200B;을(를) 선택합니다.
 
    ![](assets/sharing-settings-1.png)
 
-1. 관리자 설정에서 **액세스 공유**&#x200B;를 선택합니다.
+1. [!UICONTROL Admin Settings]에서 **[!UICONTROL Sharing Access]**&#x200B;을(를) 선택합니다.
 
    ![](assets/sharing-settings-2.png)
 
-1. **공유 설정**&#x200B;이 활성화되어 있는지 확인하십시오. 즉, 기본적으로 관리자만 템플릿 카테고리의 템플릿을 공유할 수 있습니다.
+1. **[!UICONTROL Sharing Settings]**&#x200B;이(가) 활성화되어 있는지 확인하십시오. 즉, 기본적으로 관리자만 템플릿 카테고리의 템플릿을 공유할 수 있습니다.
 
    ![](assets/sharing-settings-3.png)
 
@@ -36,7 +36,7 @@ Sales Insight Actions 계정이 처음 만들어지면 공유 설정이 활성�
 
    ![](assets/sharing-settings-4.png)
 
-1. **액세스할 팀 추가**&#x200B;를 클릭합니다.
+1. **[!UICONTROL Add Teams for Access]**&#x200B;을(를) 클릭합니다.
 
    ![](assets/sharing-settings-5.png)
 
@@ -48,7 +48,7 @@ Sales Insight Actions 계정이 처음 만들어지면 공유 설정이 활성�
    >
    >팀이 표시되지 않으면 팀 관리로 이동하여 사용자 팀을 만들어야 합니다.
 
-1. 저장하려면 **액세스할 팀 추가**&#x200B;를 클릭하세요.
+1. 저장하려면 **[!UICONTROL Add Teams for Access]**&#x200B;을(를) 클릭합니다.
 
    ![](assets/sharing-settings-7.png)
 

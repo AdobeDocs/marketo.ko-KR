@@ -4,9 +4,9 @@ description: 콘텐츠를 많이 사용한 사용자 - Marketo 문서 - 제품 �
 title: 콘텐츠가 소진된 사람
 exl-id: d32dfbc0-cac9-4df9-a8f6-45ebdd4a9f79
 feature: Engagement Programs
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '184'
+source-wordcount: '167'
 ht-degree: 0%
 
 ---
@@ -17,7 +17,7 @@ ht-degree: 0%
 
 ## 참여 프로그램 구성원 필터 {#member-of-engagement-program-filter}
 
-1. 새 스마트 목록을 만든 다음 **참여 프로그램의 구성원** 필터를 찾아 끌어옵니다.
+1. 새 스마트 목록을 만든 다음 **[!UICONTROL Member of Engagement Program]** 필터를 찾아 끕니다.
 
    ![](assets/image2014-9-15-18-20-0.png)
 
@@ -25,11 +25,11 @@ ht-degree: 0%
 
    ![](assets/image2014-9-15-18-3a20-3a11.png)
 
-1. **제약 조건 추가**&#x200B;에서 **사용된 콘텐츠**&#x200B;를 선택합니다.
+1. **[!UICONTROL Add Constraint]**&#x200B;에서 **[!UICONTROL Exhausted Content]**&#x200B;을(를) 선택합니다.
 
    ![](assets/image2014-9-15-18-3a20-3a17.png)
 
-1. **소모된 콘텐츠**&#x200B;을(를) **true**(으)로 설정합니다.
+1. **[!UICONTROL Exhausted Content]**&#x200B;을(를) **[!UICONTROL true]**(으)로 설정합니다.
 
    ![](assets/image2014-9-15-18-3a20-3a21.png)
 
@@ -37,15 +37,15 @@ ht-degree: 0%
 
 ## 구성원 탭 {#members-tab}
 
-1. **마케팅 활동**(으)로 이동합니다.
+1. **[!UICONTROL Marketing Activities]**(으)로 이동합니다.
 
    ![](assets/ma.png)
 
-1. 참여 프로그램을 선택하고 **구성원** 탭으로 이동합니다.
+1. 참여 프로그램을 선택하고 **[!UICONTROL Members]** 탭으로 이동합니다.
 
    ![](assets/memberstab.jpg)
 
-1. **사용된 콘텐츠**&#x200B;라는 열을 확인합니다.
+1. **[!UICONTROL Exhausted Content]**(이)라는 열을 확인합니다.
 
    ![](assets/image2014-9-15-18-3a21-3a7.png)
 
@@ -53,7 +53,7 @@ ht-degree: 0%
 
 ## 스트림 {#stream}
 
-1. 스트림 자체의 [스트림] 탭에서 콘텐츠가 모두 소진된 총 사용자도 볼 수 있습니다.
+1. 스트림 자체의 [!UICONTROL Streams] 탭에서 콘텐츠를 모두 소진한 총 사용자도 볼 수 있습니다.
 
    ![](assets/image2014-9-15-18-3a21-3a38.png)
 

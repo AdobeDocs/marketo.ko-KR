@@ -3,9 +3,9 @@ description: 전환 스위치 - Marketo 문서 - 제품 설명서
 title: 전환 스위치
 exl-id: bb519314-bddf-4184-8585-22ed1fe85f9a
 feature: Modern UX
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '275'
+source-wordcount: '266'
 ht-degree: 0%
 
 ---
@@ -22,11 +22,11 @@ ht-degree: 0%
 
 개별 역할 또는 모든 역할에 대해 전환 스위치를 활성화합니다. 방법은 다음과 같습니다.
 
-1. Marketo Engage에서 **관리자**&#x200B;를 클릭합니다.
+1. Marketo Engage에서 **[!UICONTROL Admin]**&#x200B;을(를) 클릭합니다.
 
    ![](assets/toggle-switch-1.png)
 
-1. **새 경험**&#x200B;을 클릭합니다.
+1. **[!UICONTROL New Experience]**&#x200B;을(를) 클릭합니다.
 
    ![](assets/toggle-switch-2.png)
 
@@ -36,7 +36,7 @@ ht-degree: 0%
 
 ## 기능에 대해 활성화 {#enable-for-features}
 
-개별 기능 또는 사용 가능한 모든 기능(현재 및 향후)에 대해 Marketo Engage Modern UX를 수동으로 활성화하는 옵션이 있습니다.
+개별 기능 또는 사용 가능한 모든 기능(현재 및 향후 제공)에 대해 Marketo Engage Modern UX를 수동으로 활성화하는 옵션이 있습니다.
 
 현재 전환 스위치가 있는 영역(이 예제에서는 이메일 목록 보기에 있음)에서 페이지의 오른쪽 하단에 있는 전환을 클릭하면 됩니다.
 
@@ -50,7 +50,7 @@ _모든_ 기능에 대해 활성화하려면 전환 스위치 옆에 있는 톱�
 
 ![](assets/toggle-switch-6.png)
 
-**사용 가능한 모든 기능에 사용**&#x200B;을 선택하고 **확인**&#x200B;을 클릭합니다.
+**[!UICONTROL Enable for all available features]**&#x200B;을(를) 선택하고 **[!UICONTROL OK]**&#x200B;을(를) 클릭합니다.
 
 ![](assets/toggle-switch-7.png)
 

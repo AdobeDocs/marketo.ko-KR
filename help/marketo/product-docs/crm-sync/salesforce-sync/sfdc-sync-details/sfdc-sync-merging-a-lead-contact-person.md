@@ -4,9 +4,9 @@ description: SFDC 동기화 - 잠재 고객/연락처/사용자 병합 - Marketo
 title: SFDC 동기화 - 잠재 고객/연락처/사용자 병합
 exl-id: 0e755c80-27cd-4ba3-b540-d7918264c5f6
 feature: Salesforce Integration
-source-git-commit: 0087a5e88b8bd9601875f68a2e7cadeebdb5d682
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '195'
+source-wordcount: '192'
 ht-degree: 0%
 
 ---
@@ -15,8 +15,8 @@ ht-degree: 0%
 
 가끔은 규칙만 나열하는 것이 가장 좋습니다. 이제 시작하겠습니다.
 
-* **Salesforce**&#x200B;에서 두 개의 리드를 병합하면 일반 동기화가 Marketo Engage에게 알려주고 리드는 Marketo의 인력으로 자동으로 병합됩니다.
-* **Marketo**&#x200B;에서 두 사람을 병합하는 것은 실제로 Salesforce의 잠재 고객으로 병합하는 것과 동일한 프로세스를 호출합니다. 여전히 자동으로 작동합니다.
+* **[!DNL Salesforce]**&#x200B;에서 두 개의 리드를 병합하면 일반 동기화가 Marketo에 알려주고 리드는 Marketo의 사용자로 자동으로 병합됩니다.
+* **Marketo**&#x200B;에서 두 사람을 병합하면 실제로 [!DNL Salesforce]의 리드로 병합하는 것과 동일한 프로세스가 호출됩니다. 여전히 자동으로 작동합니다.
 * **잠재 고객(개인)을 연락처에 병합**&#x200B;하는 동일한 방식으로 작동합니다. 결국 양쪽에 단일 접점이 생깁니다.
 * 병합하면 기본 점수가 합산됩니다.
 

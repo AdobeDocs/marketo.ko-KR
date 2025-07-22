@@ -4,10 +4,10 @@ description: 모바일 스마트 캠페인용 트리거 및 필터 - Marketo 문
 title: 모바일 스마트 캠페인용 트리거 및 필터
 exl-id: 76fc7a74-b27d-4898-a8ca-85c9c2828a28
 feature: Smart Campaigns
-source-git-commit: 2b610cc3486b745212b0b1f36018a83214d7ecd7
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '820'
-ht-degree: 0%
+source-wordcount: '814'
+ht-degree: 1%
 
 ---
 
@@ -39,7 +39,7 @@ ht-degree: 0%
 
 푸시 알림이 전송됨 을 제외한 모든 트리거 및 필터에는 다음 두 가지 표준 제약 조건이 포함됩니다.
 
-* 장치 유형 - iPod, iPhone, iPhone 6 Plus, iPad mini, iPad, Android 스마트폰, Android 태블릿, 알 수 없음(사전 설정된 목록)
+* 장치 유형 - [!DNL iPod], iPhone, [!DNL iPhone 6 Plus], [!DNL iPad mini], iPad, Android 스마트폰, Android 태블릿, 알 수 없음(사전 설정된 목록)
 
 * Platform - iPhone 또는 Android
 
@@ -103,7 +103,7 @@ ht-degree: 0%
 
 모바일 앱 활동 있음/있음
 
-이렇게 하면 사용자 지정 모바일 활동을 추적할 수 있는 강력한 방법을 제공합니다. 개발자와 협력하여 Android에 대해 [추적](https://experienceleague.adobe.com/ko/docs/marketo-developer/marketo/mobile/installation#how-to-install-marketo-sdk-on-android){target="_blank"} 및 iOS에 대해 [추적](https://experienceleague.adobe.com/ko/docs/marketo-developer/marketo/mobile/installation#install-marketo-sdk-on-ios){target="_blank"}을 설정해야 합니다.
+이렇게 하면 사용자 지정 모바일 활동을 추적할 수 있는 강력한 방법을 제공합니다. 개발자와 협력하여 Android에 대해 [추적](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/mobile/installation#how-to-install-marketo-sdk-on-android){target="_blank"}과(와) iOS에 대해 [추적](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/mobile/installation#install-marketo-sdk-on-ios){target="_blank"}을 설정해야 합니다.
 
 * 모바일 앱 활동 있음 - 트리거
 
@@ -146,7 +146,7 @@ Marketo에서 필터가 표시되는 모양은 다음과 같습니다.
 >
 >동일한 작업 유형에서 여러 작업을 수행할 수 있습니다. 실제로 일반적인 쇼핑 경험에는 쇼핑 아래의 여러 열이 포함될 수 있습니다! 같이 신으실 양말 어떠세요?
 >
->| 작업 유형 | 쇼핑 | 쇼핑 |
+>| 액션 유형 | 쇼핑 | 쇼핑 |
 >|---|---|---|
 >| 액션 | 셔츠 구매 | 바지 구매 |
 >| 작업 세부 정보 | 색상 | 색상 |

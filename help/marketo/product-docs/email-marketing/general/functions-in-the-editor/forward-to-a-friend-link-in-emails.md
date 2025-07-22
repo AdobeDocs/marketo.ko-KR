@@ -4,9 +4,9 @@ description: 이메일의 친구 링크에 전달 - Marketo 문서 - 제품 설�
 title: 이메일의 친구 링크로 전달
 exl-id: 7addac65-4207-419f-845c-d6b2d08d299c
 feature: Email Editor
-source-git-commit: a9f880bd32d533613020d0472c0e1bee07ab388c
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '703'
+source-wordcount: '681'
 ht-degree: 0%
 
 ---
@@ -19,15 +19,15 @@ ht-degree: 0%
 
 ## 이메일 템플릿에 링크 추가 {#add-the-link-to-an-email-template}
 
-1. **디자인 스튜디오**(으)로 이동합니다.
+1. **[!UICONTROL Design Studio]**(으)로 이동합니다.
 
    ![](assets/one-8.png)
 
-1. 링크를 추가할 이메일 템플릿을 찾아 선택합니다. **초안 편집**&#x200B;을 클릭합니다.
+1. 링크를 추가할 이메일 템플릿을 찾아 선택합니다. **[!UICONTROL Edit Draft]**&#x200B;을(를) 클릭합니다.
 
    ![](assets/two-7.png)
 
-1. &#39;친구에게 전달&#39; 링크를 표시할 위치에 다음 HTML 코드를 붙여넣습니다(이 부분에 대한 도움이 필요한 경우 웹 개발자에게 문의하십시오).
+1. &#39;친구에게 전달&#39; 링크를 표시할 다음 HTML 코드를 붙여넣습니다(이 부분에 대한 도움이 필요한 경우 웹 개발자에게 문의하십시오).
 
    `<a href="{{system.forwardToFriendLink}}">Forward to Friend</a>`
 
@@ -36,15 +36,15 @@ ht-degree: 0%
    >[!TIP]
    >
    >
-   >링크에 스타일을 추가하여 더 보기 좋게 만들 수 있습니다. For example:
+   >링크에 스타일을 추가하여 더 보기 좋게 만들 수 있습니다. 예:
    >
    >`<a href="{{system.forwardToFriendLink}}" style="font-family:arial, sans-serif; padding:10px; position:absolute; right:0px;">Forward to Friend</a>`
 
    >[!CAUTION]
    >
-   >이메일 템플릿에서 **position:relative** 스타일을 사용하지 않는 것이 좋습니다. &#39;친구에게 전달&#39; 상자의 위치 및 표시에 문제가 발생할 수 있습니다.
+   >이메일 템플릿에서 스타일 **position:relative**&#x200B;을(를) 사용하지 않는 것이 좋습니다. &#39;친구에게 전달&#39; 상자의 위치 및 표시에 문제가 발생할 수 있습니다.
 
-1. **초안 미리 보기**&#x200B;를 클릭하여 서식 파일이 원하는 대로 보이는지 확인하십시오.
+1. **[!UICONTROL Preview Draft]**&#x200B;을(를) 클릭하여 서식 파일이 원하는 대로 보이는지 확인하십시오.
 
    ![](assets/four-5.png)
 
@@ -84,7 +84,7 @@ ht-degree: 0%
 
    ![](assets/eight-1.png)
 
-1. Ctrl/Cmd+V를 사용하여 **`{{system.forwardToFriendLink}}`** 토큰을 **URL** 상자에 붙여 넣은 다음 **삽입**&#x200B;을 클릭합니다.
+1. Ctrl/Cmd+V를 사용하여 **`{{system.forwardToFriendLink}}`** 토큰을 **URL** 상자에 붙여 넣은 다음 **[!UICONTROL Insert]**&#x200B;을(를) 클릭합니다.
 
    ![](assets/nine.png)
 
@@ -100,7 +100,7 @@ ht-degree: 0%
 
 사용자의 활동 로그에서 이메일을 보낸 사람과 받은 사람을 볼 수 있습니다.
 
-1. **`Database`**(으)로 이동합니다.
+1. **[!UICONTROL Database]**(으)로 이동합니다.
 
    ![](assets/db.png)
 
@@ -108,7 +108,7 @@ ht-degree: 0%
 
    ![](assets/fourteen.png)
 
-1. **활동 로그** 탭으로 이동합니다. 자세한 내용을 보려면 **친구에게 전자 메일 보내기** 또는 **친구에게 전자 메일 보내기**&#x200B;를 두 번 클릭하세요.
+1. **[!UICONTROL Activity Log]** 탭으로 이동합니다. 자세한 내용을 보려면 **[!UICONTROL Received Forward to Friend Email]** 또는 **[!UICONTROL Sent Forward to Friend Email]**&#x200B;을(를) 두 번 클릭하십시오.
 
    ![](assets/fifteen.png)
 
@@ -128,7 +128,7 @@ ht-degree: 0%
 
    >[!NOTE]
    >
-   >**개인 ID**&#x200B;을(를) 클릭할 수 있게 만들고 향후 패치의 사용자에게 직접 연결합니다.
+   >**[!UICONTROL Person ID]**&#x200B;을(를) 클릭할 수 있게 만들고 향후 패치의 사용자에게 직접 연결합니다.
 
    ![](assets/seventeen.png)
 

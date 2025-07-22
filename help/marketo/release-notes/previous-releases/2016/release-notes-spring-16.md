@@ -4,9 +4,9 @@ description: 릴리스 노트 - 2016년 봄 - Marketo 문서 - 제품 설명서
 title: 릴리스 노트 - 2016년 봄
 exl-id: 0ca26acf-2ac2-418e-bc4e-9820f483fa71
 feature: Release Information
-source-git-commit: c20ea4d17f6bf2d6f14a8fe71527dd9fa0c446a2
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '797'
+source-wordcount: '786'
 ht-degree: 0%
 
 ---
@@ -59,15 +59,15 @@ Marketo 내에서 바로 앱에 대한 멋진 인앱 메시지를 만들 수 있
 
 ## [API 액세스용 IP 허용 목록에 추가](/help/marketo/product-docs/administration/additional-integrations/create-an-allowlist-for-ip-based-api-access.md) {#ip-allowlisting-for-api-access}
 
-이제 Marketo 사용자 로그인에 대한 IP 허용 목록에 추가 기능과 유사하게, Marketo 관리자는 Marketo SOAP 및 REST API에 액세스할 수 있는 IP 주소 허용 목록을 설정하여 권한이 없는 IP 주소에서의 액세스를 차단할 수 있습니다. 이렇게 하면 Marketo 인스턴스에 보안 레이어가 추가되고 API 액세스가 조직 네트워크 내에서만 발생할 수 있습니다. 이 설정 방법에 대한 자세한 내용은 [Marketo 설명서 사이트](/help/marketo/product-docs/administration/additional-integrations/create-an-allowlist-for-ip-based-api-access.md)에서 확인할 수 있습니다.
+이제 Marketo 사용자 로그인에 대한 IP 허용 목록에 추가 기능과 유사하게, Marketo 관리자는 Marketo SOAP 및 REST API에 액세스할 수 있는 IP 주소 허용 목록을 설정하여 비인증 IP 주소에서의 액세스를 차단할 수 있습니다. 이렇게 하면 Marketo 인스턴스에 보안 레이어가 추가되고 API 액세스가 조직 네트워크 내에서만 발생할 수 있습니다. 이 설정 방법에 대한 자세한 내용은 [Marketo 설명서 사이트](/help/marketo/product-docs/administration/additional-integrations/create-an-allowlist-for-ip-based-api-access.md)에서 확인할 수 있습니다.
 
 ## [새로운 고속 Microsoft Dynamics 동기화 커넥터](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/microsoft-dynamics-sync-details/sync-status.md) {#new-high-speed-microsoft-dynamics-sync-connector}
 
 새로운 고속 Dynamics 커넥터는 초기 동기화에는 최대 20배, 증분 동기화에는 최대 5배 더 빠른 속도를 제공합니다. 모든 신규 고객은 릴리스 날짜에 이 커넥터에 온보딩되며, 여름 릴리스 기간 동안 기존 고객에게 점진적으로 배포될 예정입니다.
 
-**새 필드의 데이터를 새로 고치십시오**: 이제 언제든지 새 동기화 필드를 사용할 수 있으며 해당 필드의 모든 데이터 값이 Dynamics CRM에서 Marketo으로 새로 고쳐집니다. 초기 설정 중에 모든 필드를 선택해야 하는 것에 대해 걱정할 필요가 없습니다. 기존 동기화 필드를 비활성화했다가 나중에 다시 활성화하면 해당 필드의 모든 데이터 값이 Dynamics CRM에서 Marketo으로 새로 고쳐집니다.
+**새 필드의 데이터 새로 고침**: 이제 언제든지 새 동기화 필드를 사용할 수 있으며 해당 필드의 모든 데이터 값이 [!DNL Dynamics] CRM에서 Marketo으로 새로 고쳐집니다. 초기 설정 중에 모든 필드를 선택해야 하는 것에 대해 걱정할 필요가 없습니다. 기존 동기화 필드를 비활성화했다가 나중에 다시 활성화하면 해당 필드의 모든 데이터 값이 [!DNL Dynamics] CRM에서 Marketo으로 새로 고쳐집니다.
 
-**잠재 고객을 연락처로 동기화**: Microsoft에 잠재 고객 동기화 흐름 작업에 잠재 고객 또는 연락처로 동기화할 수 있는 새로운 옵션이 있습니다.
+**잠재 고객을 연락처로 동기화**: [!UICONTROL Sync Lead to Microsoft] 흐름 작업에는 잠재 고객 또는 연락처와 동기화할 수 있는 새로운 옵션이 있습니다.
 
 ![](assets/image2016-5-19-8-3a59-3a9.png)
 
@@ -75,7 +75,7 @@ Marketo 내에서 바로 앱에 대한 멋진 인앱 메시지를 만들 수 있
 
 ![](assets/sync-errors.png)
 
-**Microsoft Dynamics 2016**: 커넥터가 Dynamics 2016 Online 및 On-Premise 버전에 대해 완전히 인증되었습니다.
+**[!DNL Microsoft Dynamics]2016**: 커넥터가 [!DNL Dynamics] 2016 [!DNL Online] 및 [!DNL On-premise] 버전에 대해 완전히 인증되었습니다.
 
 **플러그 인 업데이트가 이제 문서화되었습니다.** [플러그 인 업데이트 문서 문서 문서](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/marketo-plugin-releases-for-microsoft-dynamics.md)를 참조하세요.
 

@@ -4,10 +4,10 @@ description: 샘플 보내기 - Marketo 문서 - 제품 설명서
 title: 샘플 보내기
 exl-id: 9b4cdb6b-9969-4427-9ae3-f6d08430f10f
 feature: Mobile Marketing
-source-git-commit: 0abb315be0f9cb5f42fa41d72b446de8c2f62c1e
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '131'
-ht-degree: 0%
+source-wordcount: '125'
+ht-degree: 1%
 
 ---
 
@@ -17,7 +17,7 @@ ht-degree: 0%
 
 >[!IMPORTANT]
 >
->2023년 10월 2일, Adobe은 모든 앱스토어에서 Marketo 모먼트 앱을 제거했습니다. 태블릿/모바일 장치에 이미 앱이 설치되어 있는 경우 당분간 앱을 계속 사용할 수 있습니다. Marketo 인증을 위해 Marketo Engage 인스턴스가 Adobe ID로 마이그레이션되면 더 이상 앱에 액세스할 수 없습니다. [자세히 알아보기](https://nation.marketo.com/t5/product-discussions/marketo-events-app-and-marketo-moments-app-end-of-life/m-p/340712/highlight/true#M193869){target="_blank"}.
+>2023년 10월 2일, Adobe은 모든 앱스토어에서 Marketo 모먼트 앱을 제거했습니다. 태블릿/모바일 장치에 이미 앱이 설치되어 있는 경우 당분간 앱을 계속 사용할 수 있습니다. Marketo 인증을 위해 Marketo Engage 인스턴스가 Adobe ID로 마이그레이션되면 더 이상 앱에 액세스할 수 없습니다. [자세히 알아보기](https://nation.marketo.com/t5/product-discussions/marketo-events-app-and-marketo-moments-app-end-of-life/m-p/340712/highlight/true#M193869){target="_blank"}
 
 ## 더 레귤러 웨이 {#the-regular-way}
 
@@ -25,16 +25,16 @@ ht-degree: 0%
 
    ![](assets/image2015-7-14-16-3a44-3a7.png)
 
-1. **[!UICONTROL 샘플 보내기]**&#x200B;를 탭합니다.
+1. **[!UICONTROL Send Sample]**&#x200B;을(를) 누릅니다.
 
    ![](assets/image2015-7-14-16-3a40-3a54.png)
 
-1. 전자 메일 주소를 입력하고 **[!UICONTROL 샘플 보내기]**&#x200B;를 클릭하세요.
+1. 전자 메일 주소를 입력하고 **[!UICONTROL Send Sample]**&#x200B;을(를) 클릭합니다.
 
    ![](assets/image2015-7-14-17-3a2-3a32.png)
 
 ## 더 퀵웨이 {#the-quick-way}
 
-1. 이메일 미리 보기 화면에서 종이 비행기 아이콘을 탭하여 미리 보기에서 직접 샘플을 전송합니다.
+1. 미리 보기에서 직접 샘플을 보내려면 [!UICONTROL Email Preview] 화면에서 종이 비행기 아이콘을 탭합니다.
 
    ![](assets/image2015-9-25-10-3a28-3a47.png)

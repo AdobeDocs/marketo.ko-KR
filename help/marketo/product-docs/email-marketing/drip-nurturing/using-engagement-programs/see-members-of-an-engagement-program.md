@@ -4,9 +4,9 @@ description: 참여 프로그램의 멤버 - Marketo 문서 - 제품 설명서 �
 title: 참여 프로그램의 멤버 참조
 exl-id: c30b3333-3ea8-44e7-a911-a0b6584da7cb
 feature: Engagement Programs
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '61'
+source-wordcount: '59'
 ht-degree: 0%
 
 ---
@@ -15,7 +15,7 @@ ht-degree: 0%
 
 참여 프로그램의 구성원을 빠르게 볼 수 있습니다. 방법은 다음과 같습니다.
 
-1. 참여 프로그램에서 마우스 오른쪽 단추를 클릭하고 **구성원 보기**&#x200B;를 선택합니다.
+1. 참여 프로그램에서 마우스 오른쪽 단추를 클릭하고 **[!UICONTROL View Members]**&#x200B;을(를) 선택합니다.
 
    ![](assets/membersofengagement.jpg)
 

@@ -4,9 +4,9 @@ description: 다이내믹 콘텐츠를 사용하여 랜딩 페이지 미리보�
 title: 다이내믹 콘텐츠를 사용하여 랜딩 페이지 미리 보기
 exl-id: 638db767-bb20-4eef-8edd-8a7be4178d28
 feature: Landing Pages
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '88'
+source-wordcount: '86'
 ht-degree: 0%
 
 ---
@@ -20,7 +20,7 @@ ht-degree: 0%
 >* [랜딩 페이지에서 동적 콘텐츠 사용](/help/marketo/product-docs/demand-generation/landing-pages/personalizing-landing-pages/use-dynamic-content-in-a-landing-page.md)
 >* [랜딩 페이지 미리 보기](/help/marketo/product-docs/demand-generation/landing-pages/landing-page-actions/preview-a-landing-page.md)
 
-1. 랜딩 페이지를 선택하고 **미리 보기 페이지**&#x200B;를 클릭합니다.
+1. 랜딩 페이지를 선택하고 **[!UICONTROL Preview Page]**&#x200B;을(를) 클릭합니다.
 
    ![](assets/image2014-9-17-16-3a9-3a55.png)
 

@@ -4,9 +4,9 @@ description: Select 및 Send를 사용하여 벌크 이메일 작성 - Marketo �
 title: Select 및 Send를 사용하여 일괄 이메일 작성
 exl-id: 99a53f7a-bf3c-40df-961c-1927476acd10
 feature: Marketo Sales Connect
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '404'
+source-wordcount: '391'
 ht-degree: 0%
 
 ---
@@ -17,7 +17,7 @@ ht-degree: 0%
 
 ## 이메일 보내기 {#sending-emails}
 
-1. 사람 페이지로 이동합니다.
+1. **[!UICONTROL People]** 페이지로 이동합니다.
 
    ![](assets/one-2.png)
 
@@ -29,7 +29,7 @@ ht-degree: 0%
    >
    >선택 및 보내기 사용 시 최대 200명을 선택할 수 있습니다.
 
-1. **선택한 전자 메일** 단추를 클릭합니다.
+1. **[!UICONTROL Email Selected]** 단추를 클릭합니다.
 
    ![](assets/three-2.png)
 
@@ -39,7 +39,7 @@ ht-degree: 0%
 
    >[!NOTE]
    >
-   >템플릿을 선택했는데 보내기 전에 모든 동적 필드가 올바르게 채워지고 있는지 확인하려면 **동적 필드 미리 보기**&#x200B;를 클릭하세요. 벌크 사이드바의 모든 수신자가 모든 이메일을 미리 볼 수 있도록 선택되어 있는지 확인합니다. 전자 메일 하나를 선택하고 **동적 필드 미리 보기**&#x200B;를 클릭하면 해당 전자 메일만 미리 볼 수 있습니다.
+   >템플릿을 선택했으며 보내기 전에 모든 동적 필드가 올바르게 채워졌는지 확인하려면 **[!UICONTROL Preview Dynamic Fields]**&#x200B;을(를) 클릭합니다. 벌크 사이드바의 모든 수신자가 모든 이메일을 미리 볼 수 있도록 선택되어 있는지 확인합니다. 전자 메일 하나를 선택하고 **[!UICONTROL Preview Dynamic Fields]**&#x200B;을(를) 클릭하면 해당 전자 메일만 미리 볼 수 있습니다.
 
 ## 이메일 편집 {#editing-emails}
 
@@ -59,7 +59,7 @@ ht-degree: 0%
    >
    >특정 이메일 수신자를 클릭하여 해당 이메일에 전파된 변경 사항을 볼 수 있습니다.
 
-1. 전자 메일 업데이트를 일괄 처리하여 모든 받는 사람에게 보내려면 **보내기**(또는 [일정](/help/marketo/product-docs/marketo-sales-connect/email/using-the-compose-window/scheduling-an-email.md))를 클릭하세요.
+1. **[!UICONTROL Send]**(또는 [[!UICONTROL Schedule]](/help/marketo/product-docs/marketo-sales-connect/email/using-the-compose-window/scheduling-an-email.md))을(를) 클릭하여 대량 전자 메일 업데이트를 통해 모든 받는 사람에게 보냅니다.
 
    ![](assets/bulk-four.png)
 
@@ -89,7 +89,7 @@ ht-degree: 0%
    >
    >다른 수신자를 클릭하여 이전에 선택한 수신자에 대한 변경 사항이 표시되지 않는지 확인할 수 있습니다.
 
-1. 전자 메일 업데이트를 일괄 처리하여 모든 받는 사람에게 보내려면 **보내기**(또는 [일정](/help/marketo/product-docs/marketo-sales-connect/email/using-the-compose-window/scheduling-an-email.md))를 클릭하세요.
+1. **[!UICONTROL Send]**(또는 [[!UICONTROL Schedule]](/help/marketo/product-docs/marketo-sales-connect/email/using-the-compose-window/scheduling-an-email.md))을(를) 클릭하여 대량 전자 메일 업데이트를 통해 모든 받는 사람에게 보냅니다.
 
    ![](assets/each-four.png)
 

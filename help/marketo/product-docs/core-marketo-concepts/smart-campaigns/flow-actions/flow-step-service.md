@@ -3,16 +3,16 @@ description: 흐름 단계 서비스 - Marketo 문서 - 제품 설명서
 title: 흐름 단계 서비스
 exl-id: 81367562-8b27-4ec5-8a9b-b02083a2e999
 feature: Smart Campaigns
-source-git-commit: e511d2fda60eabd406bee5ee7441652a546fb35e
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '1234'
+source-wordcount: '1224'
 ht-degree: 0%
 
 ---
 
 # 흐름 단계 서비스 {#flow-step-service}
 
-셀프서비스 흐름 단계는 웹 서비스를 작성, 게시 및 Adobe Marketo Engage 스마트 캠페인에 통합하기 위한 프레임워크 및 기능 세트입니다. 이 안내서는 이미 생성되어 게시된 서비스를 설치하고 사용하려는 Marketo Engage 최종 사용자를 위한 것입니다. 자체 서비스 작성 및 게시에 대한 자세한 내용은 서비스 공급자 인터페이스에 대한 [GitHub 저장소](https://github.com/adobe/Marketo-SSFS-Service-Provider-Interface){target="_blank"}를 참조하십시오. 개념 증명 조회 테이블 구현을 [여기](https://github.com/adobe/mkto-flow-lookup){target="_blank"}에서 찾을 수 있습니다.
+셀프서비스 흐름 단계는 웹 서비스를 작성, 게시 및 Adobe Marketo Engage 스마트 캠페인에 통합하기 위한 프레임워크 및 기능 세트입니다. 이 안내서는 이미 생성되어 게시된 서비스를 설치하고 사용하려는 Marketo Engage 최종 사용자를 위한 것입니다. 고유한 서비스 작성 및 게시에 대한 자세한 내용은 서비스 공급자 인터페이스에 대한 [[!DNL GitHub] 저장소](https://github.com/adobe/Marketo-SSFS-Service-Provider-Interface){target="_blank"}를 참조하십시오. 개념 증명 조회 테이블 구현을 [여기](https://github.com/adobe/mkto-flow-lookup){target="_blank"}에서 찾을 수 있습니다.
 
 ## 온보딩 및 서비스 관리 {#onboarding-and-managing-services}
 
@@ -20,15 +20,15 @@ ht-degree: 0%
 
 ## 설치 URL {#installation-url}
 
-설치를 시작하려면 먼저 서비스를 정의하는 OpenAPI 문서의 URL을 가져와야 합니다. 서비스 공급자가 이 정보를 제공할 수 있어야 하며 일반적으로 `/openapi.json`(으)로 끝나는 URL이 있습니다. 전체 URL은 `https://www.example.com/OpenAPI.json`과(와) 비슷합니다. 이 URL이 있으면 관리 섹션의 서비스 공급자 메뉴로 이동합니다.
+설치를 시작하려면 먼저 서비스를 정의하는 OpenAPI 문서의 URL을 가져와야 합니다. 서비스 공급자가 이 정보를 제공할 수 있어야 하며 일반적으로 `/openapi.json`(으)로 끝나는 URL이 있습니다. 전체 URL은 `https://www.example.com/OpenAPI.json`과(와) 비슷합니다. 이 URL이 있으면 [!UICONTROL Service Providers] 섹션의 [!UICONTROL Admin] 메뉴로 이동하십시오.
 
-서비스 자격 증명 입력 섹션으로 이동하려면 **[!UICONTROL 다음]**&#x200B;을 클릭하십시오.
+서비스 자격 증명 입력 섹션으로 이동하려면 **[!UICONTROL Next]**&#x200B;을(를) 클릭하십시오.
 
 ![](assets/flow-step-service-1.png)
 
 ## 서비스 자격 증명 입력 {#enter-service-credentials}
 
-설치 중인 서비스에 액세스하려면 Marketo에 유효한 API 자격 증명이 있어야 합니다. 이러한 자격 증명은 서비스 공급자가 제공해야 합니다. 서비스에는 세 가지 다른 인증 옵션이 있으므로 자격 증명에 대한 세 가지 프롬프트 중 하나가 표시될 수 있습니다. **API 키**(입력 필드가 하나뿐임), **기본 인증**(사용자 이름 및 암호가 필요하며 영역 필드가 필요할 수 있음), _클라이언트 자격 증명_ 권한(_클라이언트 ID_ 및 _클라이언트 암호_)을 사용하는 **OAuth2**.
+설치 중인 서비스에 액세스하려면 Marketo에 유효한 API 자격 증명이 있어야 합니다. 이러한 자격 증명은 서비스 공급자가 제공해야 합니다. 서비스에는 세 가지 다른 인증 옵션이 있으므로 자격 증명에 대한 세 가지 프롬프트 중 하나가 표시될 수 있습니다. **API 키**(입력 필드가 하나뿐임), **기본 인증**(사용자 이름 및 암호가 필요하며 영역 필드가 필요할 수 있음), **클라이언트 자격 증명** 권한(_클라이언트 ID_ 및 _클라이언트 암호_)을 사용하는 _OAuth2_.
 
 자격 증명을 저장할 때 Marketo은 서비스의 상태 끝점을 호출하여 해당 상태가 유효한지 확인합니다. 제공된 자격 증명이 유효하지 않은 경우 이를 나타내는 오류가 표시됩니다.
 
@@ -90,7 +90,7 @@ ht-degree: 0%
 
 ## 선택 목록을 새로 고치는 중 {#refreshing-picklists}
 
-Marketo은 매일 밤 서비스에 대한 선택 항목을 새로 고치지만, 캠페인 생성과 같은 새로운 선택 항목을 사용할 필요가 있는 경우가 있습니다. 새로 고침 버튼을 사용하거나 관리 > 서비스 공급자 메뉴로 이동하여 서비스를 선택한 후 선택 목록 새로 고침을 클릭하여 흐름 단계의 모든 인스턴스에서 이러한 선택 사항을 쉽게 새로 고칠 수 있습니다.
+Marketo은 매일 밤 서비스에 대한 선택 항목을 새로 고치지만, 캠페인 생성과 같은 새로운 선택 항목을 사용할 필요가 있는 경우가 있습니다. 새로 고침 단추를 사용하거나 [!UICONTROL Admin] > [!UICONTROL Service Providers] 메뉴로 이동하여 서비스를 선택한 후 [!UICONTROL Refresh Picklist]을(를) 클릭하여 흐름 단계의 모든 인스턴스에서 이 항목을 쉽게 새로 고칠 수 있습니다.
 
 ## 수신 필드 확인 {#checking-incoming-fields}
 

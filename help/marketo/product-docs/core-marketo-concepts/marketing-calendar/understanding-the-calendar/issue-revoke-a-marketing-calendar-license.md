@@ -4,10 +4,10 @@ description: 마케팅 달력 라이선스 문제/취소 - Marketo 문서 - 제�
 title: 마케팅 캘린더 라이선스 문제/취소
 exl-id: b43cf0e4-3e3e-4034-8ecf-bda34557cfef
 feature: Marketing Calendar
-source-git-commit: 02b2e39580c5eac63de4b4b7fdaf2a835fdd4ba5
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '102'
-ht-degree: 0%
+source-wordcount: '93'
+ht-degree: 1%
 
 ---
 
@@ -19,15 +19,15 @@ ht-degree: 0%
 
 [마케팅 일정](/help/marketo/product-docs/core-marketo-concepts/marketing-calendar/understanding-the-calendar/navigating-the-marketing-calendar.md){target="_blank"} 시트를 사용하려면 액세스 권한이 필요한 사용자에게 라이선스를 발급해야 합니다. 방법은 다음과 같습니다.
 
-1. **[!UICONTROL 관리자]** 섹션으로 이동합니다.
+1. **[!UICONTROL Admin]** 섹션으로 이동합니다.
 
    ![](assets/adminhand.png)
 
-1. **[!UICONTROL 사용자 및 역할]**&#x200B;을 클릭합니다.
+1. **[!UICONTROL Users & Roles]**&#x200B;을(를) 클릭합니다.
 
    ![](assets/2.png)
 
-1. 사용자를 선택하고 **[!UICONTROL 라이선스 발급]**&#x200B;을(를) 클릭합니다.
+1. 사용자를 선택하고 **[!UICONTROL Issue License]**&#x200B;을(를) 클릭합니다.
 
    >[!TIP]
    >
@@ -35,7 +35,7 @@ ht-degree: 0%
 
    ![](assets/3.png)
 
-1. **[!UICONTROL 라이선스 사용]**&#x200B;을 선택하고 **[!UICONTROL 저장]**&#x200B;을 클릭합니다.
+1. **[!UICONTROL Enable License]**&#x200B;을(를) 확인하고 **[!UICONTROL Save]**&#x200B;을(를) 클릭합니다.
 
    >[!NOTE]
    >
@@ -43,6 +43,6 @@ ht-degree: 0%
 
    ![](assets/4.png)
 
-   잘했어! &#39;달력?&#39; 아래에 녹색 확인 표시가 표시됩니다.
+   잘했어! &#39;[!UICONTROL Calendar]&#39; 아래의 녹색 확인 표시를 확인합니다.
 
    ![](assets/5.png)

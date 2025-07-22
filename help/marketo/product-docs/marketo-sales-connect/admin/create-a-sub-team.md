@@ -4,10 +4,10 @@ description: 하위 팀 만들기 - Marketo 문서 - 제품 설명서
 title: 하위 팀 만들기
 exl-id: 47baa5ac-4598-4277-b656-e99cd6a3e17f
 feature: Marketo Sales Connect
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '102'
-ht-degree: 0%
+source-wordcount: '84'
+ht-degree: 1%
 
 ---
 
@@ -15,19 +15,19 @@ ht-degree: 0%
 
 ## 하위 팀 만들기 {#create-a-sub-team-1}
 
-1. 톱니바퀴 아이콘을 클릭하고 **설정**&#x200B;을 선택합니다.
+1. 톱니바퀴 아이콘을 클릭하고 **[!UICONTROL Settings]**&#x200B;을(를) 선택합니다.
 
    ![](assets/one-1.png)
 
-1. 관리자 설정에서 **팀 관리**&#x200B;를 선택합니다.
+1. [!UICONTROL Admin Settings]에서 **[!UICONTROL Team Management]**&#x200B;을(를) 선택합니다.
 
    ![](assets/two-1.png)
 
-1. 모든 팀 옆의 **+**&#x200B;을(를) 클릭합니다.
+1. [!UICONTROL All Teams] 옆에 있는 **+**&#x200B;을(를) 클릭합니다.
 
    ![](assets/three-1.png)
 
-1. 팀 이름(및 설명(선택 사항)을 입력하고 **만들기**&#x200B;를 클릭합니다.
+1. 팀 이름(및 설명(선택 사항)을 입력하고 **[!UICONTROL Create]**&#x200B;을(를) 클릭합니다.
 
    ![](assets/four-1.png)
 
@@ -37,7 +37,7 @@ ht-degree: 0%
 
 ## 하위 팀에 사람 추가 {#add-people-to-your-sub-team}
 
-1. 아직 팀 관리에서 **모든 사용자** 그룹을 선택하십시오.
+1. [!UICONTROL Team Management]에서 **[!UICONTROL Everyone]** 그룹을 선택하십시오.
 
    ![](assets/five-1.png)
 
@@ -45,7 +45,7 @@ ht-degree: 0%
 
    ![](assets/six.png)
 
-1. **팀에 선택 항목 추가**&#x200B;를 클릭합니다.
+1. **[!UICONTROL Add Selected to Teams]**&#x200B;을(를) 클릭합니다.
 
    ![](assets/seven.png)
 
@@ -53,6 +53,6 @@ ht-degree: 0%
 
    ![](assets/eight.png)
 
-1. 완료되면 **팀에 추가**&#x200B;를 클릭하세요.
+1. 완료되면 **[!UICONTROL Add To Teams]**&#x200B;을(를) 클릭합니다.
 
    ![](assets/nine.png)

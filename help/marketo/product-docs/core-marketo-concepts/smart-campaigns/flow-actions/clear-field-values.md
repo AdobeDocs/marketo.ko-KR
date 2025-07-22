@@ -4,9 +4,9 @@ description: 필드 값 지우기 - Marketo 문서 - 제품 설명서
 title: 필드 값 지우기
 exl-id: cddc7697-4e8f-4a62-865c-efd451abea0c
 feature: Smart Campaigns
-source-git-commit: 12f2399859c784095cc2c1df772c66c649106ba3
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '95'
+source-wordcount: '92'
 ht-degree: 0%
 
 ---
@@ -15,7 +15,7 @@ ht-degree: 0%
 
 [데이터 값 변경](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/change-data-value.md)은(는) 훌륭하지만 값을 _제거_&#x200B;하는 방법은 무엇입니까? 좋은 질문입니다!
 
-1. 흐름 단계에서 지우려는 필드를 선택하고 **NULL**(모두 대문자)을(를) **새 값**(으)로 입력합니다.
+1. 흐름 단계에서 지우려는 필드를 선택하고 **[!UICONTROL NULL]**(모두 대문자)을(를) **[!UICONTROL New Value]**(으)로 입력합니다.
 
    ![](assets/clear-field-values-1.png)
 

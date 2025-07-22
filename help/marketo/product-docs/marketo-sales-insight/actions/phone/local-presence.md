@@ -3,9 +3,9 @@ description: 로컬 상태 - Marketo 문서 - 제품 설명서
 title: 로컬 유무
 exl-id: 719fd3e8-1586-4aa1-940f-931dd3b99bd4
 feature: Sales Insight Actions
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '144'
+source-wordcount: '141'
 ht-degree: 0%
 
 ---
@@ -20,7 +20,7 @@ ht-degree: 0%
 
    ![](assets/local-presence-1.png)
 
-1. **로컬 현재 상태 사용** 확인란을 선택하십시오.
+1. **[!UICONTROL Use Local Presence]** 확인란을 선택합니다.
 
    ![](assets/local-presence-2.png)
 

@@ -4,16 +4,16 @@ description: Sales Connect가 Salesforce Lightning과 호환됩니까? - Marketo
 title: Sales Connect가 Salesforce Lightning과 호환됩니까?
 exl-id: e1543b92-8175-41d2-b56a-ec60253a87d8
 feature: Marketo Sales Connect
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '58'
+source-wordcount: '52'
 ht-degree: 0%
 
 ---
 
-# Sales Connect가 Salesforce Lightning과 호환됩니까? {#is-sales-connect-compatible-with-salesforce-lightning}
+# [!DNL Sales Connect]이(가) [!DNL Salesforce] Lightning과 호환됩니까? {#is-sales-connect-compatible-with-salesforce-lightning}
 
-예. Sales Connect는 Salesforce Lightning과 호환됩니다.
+예. [!DNL Sales Connect]은(는) [!DNL Salesforce] Lightning과 호환됩니다.
 
 설치 및 성공 가이드를 보려면 [여기를 클릭](https://s3.amazonaws.com/tout-user-store/salesforce/assets/SF+Guide+for+Lightning.pdf)하십시오.
 

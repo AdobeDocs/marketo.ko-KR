@@ -4,9 +4,9 @@ description: 가상 사용자 사용 - Marketo 문서 - 제품 설명서
 title: 가상 사용자 사용
 exl-id: 8c8940ab-d336-494c-b6a0-dad09ed1c888
 feature: Target Account Management
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '190'
+source-wordcount: '176'
 ht-degree: 0%
 
 ---
@@ -17,15 +17,15 @@ ht-degree: 0%
 
 ## 사용자 추가 {#add-a-persona}
 
-1. 내 Marketo에서 **관리자**&#x200B;를 클릭합니다.
+1. 내 Marketo에서 **[!UICONTROL Admin]**&#x200B;을(를) 클릭합니다.
 
    ![](assets/one.png)
 
-1. 트리에서 **계정 관리 대상**&#x200B;을 선택하십시오.
+1. 트리에서 **[!UICONTROL Target Account Management]**&#x200B;을(를) 선택합니다.
 
    ![](assets/using-personas-2.png)
 
-1. **편집**&#x200B;을 클릭합니다.
+1. **[!UICONTROL Edit]**&#x200B;을(를) 클릭합니다.
 
    ![](assets/three.png)
 
@@ -33,11 +33,11 @@ ht-degree: 0%
    >
    >직함 담당자는 기본적으로 포함됩니다. 수정하거나 삭제할 수 없습니다.
 
-1. 가상 사용자를 추가하려면 **+추가**&#x200B;를 클릭하세요.
+1. 가상 사용자를 추가하려면 **[!UICONTROL +Add]**&#x200B;을(를) 클릭하세요.
 
    ![](assets/four.png)
 
-1. 담당자의 이름을 지정하고 드롭다운에서 해당 필드를 선택합니다. 최대 2개의 가상 사용자를 추가할 수 있습니다. 완료되면 **저장**&#x200B;을 클릭합니다.
+1. 담당자의 이름을 지정하고 드롭다운에서 해당 필드를 선택합니다. 최대 2개의 가상 사용자를 추가할 수 있습니다. 완료되면 **[!UICONTROL Save]**&#x200B;을(를) 클릭합니다.
 
    ![](assets/five.png)
 
@@ -47,13 +47,13 @@ ht-degree: 0%
 
 ## 성향 보기 {#view-your-personas}
 
-특정 명명된 계정을 방문하여 가상 사용자를 봅니다.
+특정 [!UICONTROL Named Account]을(를) 방문하여 가상 사용자를 봅니다.
 
-1. 원하는 명명된 계정을 선택합니다.
+1. 원하는 [!UICONTROL Named Account]을(를) 선택합니다.
 
    ![](assets/one-a.png)
 
-1. **가상 사용자** 탭을 클릭합니다.
+1. **[!UICONTROL Personas]** 탭을 클릭합니다.
 
    ![](assets/two-a.png)
 
@@ -63,7 +63,7 @@ ht-degree: 0%
 
    >[!NOTE]
    >
-   >타이틀 페르소나의 X는 와일드카드 역할을 한다. 예를 들어 &#39;CXO&#39;에는 CEO, CFO 등이 포함됩니다.
+   >[!UICONTROL Title Persona]의 X는 와일드카드 문자 역할을 합니다. 예를 들어 &#39;CXO&#39;에는 CEO, CFO 등이 포함됩니다.
 
 ## 성향 필터 {#persona-filters}
 

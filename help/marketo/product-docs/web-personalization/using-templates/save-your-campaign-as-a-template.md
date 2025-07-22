@@ -4,10 +4,10 @@ description: 캠페인을 템플릿으로 저장 - Marketo 문서 - 제품 설�
 title: 캠페인을 템플릿으로 저장
 exl-id: b14663a0-8a15-4d3d-bf1f-93a25ea606ef
 feature: Web Personalization
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '97'
-ht-degree: 0%
+source-wordcount: '89'
+ht-degree: 2%
 
 ---
 
@@ -15,7 +15,7 @@ ht-degree: 0%
 
 완벽한 웹 캠페인을 만드는 데 시간을 보낸 적이 있습니까? 이제 템플릿으로 저장하여 나중에 쉽게 다시 사용할 수 있습니다.
 
-1. **웹 캠페인**(으)로 이동합니다.
+1. **[!UICONTROL Web Campaigns]**(으)로 이동합니다.
 
    ![](assets/web-campaigns-hand-1.jpg)
 
@@ -27,10 +27,10 @@ ht-degree: 0%
 
    ![](assets/my-campaign-edit.jpg)
 
-1. 템플릿으로 사용 을 선택하고 **저장**&#x200B;을 클릭합니다.
+1. **[!UICONTROL Use as template]**&#x200B;을(를) 확인하고 **[!UICONTROL Save]**&#x200B;을(를) 클릭합니다.
 
    ![](assets/image2015-2-25-19-3a56-3a58.png)   ![](assets/image2015-2-25-19-3a56-3a37.png)
 
-1. 다 됐습니다! 다음에 캠페인을 만들고 템플릿을 선택할 때 캠페인 설정 페이지에서 내 템플릿 을 선택하여 저장한 템플릿을 확인합니다.
+1. 됐습니다. 다음에 캠페인을 만들고 템플릿을 선택하면 캠페인 설정 페이지에서 [!UICONTROL My Templates]을(를) 선택하여 저장한 템플릿을 확인합니다.
 
    ![](assets/image2014-9-17-20-3a55-3a31.png)

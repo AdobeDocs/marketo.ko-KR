@@ -3,9 +3,9 @@ description: 서드파티 동의 설정 - Marketo 문서 - 제품 설명서
 title: 타사 동의 설정
 exl-id: 47634441-c396-4f0c-a9ea-d4f6872b6bf5
 feature: Sales Insight Actions
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '152'
+source-wordcount: '136'
 ht-degree: 0%
 
 ---
@@ -18,19 +18,19 @@ ht-degree: 0%
 >
 >아래 단계를 따르려면 먼저 [통화 기록을 활성화](/help/marketo/product-docs/marketo-sales-insight/actions/phone/enable-call-recording.md)해야 합니다.
 
-1. 설정 아이콘을 클릭하고 **설정**&#x200B;을 선택합니다.
+1. 설정 아이콘을 클릭하고 **[!UICONTROL Settings]**&#x200B;을(를) 선택합니다.
 
    ![](assets/two-party-consent-settings-1.png)
 
-1. 관리자 설정에서 **일반**&#x200B;을 클릭합니다.
+1. [!UICONTROL Admin Settings]에서 **[!UICONTROL General]**&#x200B;을(를) 클릭합니다.
 
    ![](assets/two-party-consent-settings-2.png)
 
-1. 통화 녹음 카드에서 **녹음 알림 관리**&#x200B;를 클릭합니다.
+1. [!UICONTROL Call Recording] 카드에서 **[!UICONTROL Manage recording notice]**&#x200B;을(를) 클릭합니다.
 
    ![](assets/two-party-consent-settings-3.png)
 
-1. **녹음/녹화 가져오기**&#x200B;를 클릭합니다.
+1. **[!UICONTROL Import Recording]**&#x200B;을(를) 클릭합니다.
 
    ![](assets/two-party-consent-settings-4.png)
 
@@ -42,7 +42,7 @@ ht-degree: 0%
 
    ![](assets/two-party-consent-settings-5.png)
 
-1. 업로드가 완료되면 파일 관리자에서 dota(세 점)를 선택하고 **동의 알림으로 선택**&#x200B;을 클릭합니다. 완료되면 **확인**&#x200B;을 클릭하세요.
+1. 업로드가 완료되면 파일 관리자에서 점(세 개)을 선택하고 **[!UICONTROL Select as Consent Notice]**&#x200B;을(를) 클릭합니다. 완료되면 **[!UICONTROL OK]**&#x200B;을(를) 클릭합니다.
 
    ![](assets/two-party-consent-settings-6.png)
 

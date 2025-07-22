@@ -4,9 +4,9 @@ description: 해제 버튼 설정 및 메시지 승인 - Marketo 문서 - 제품
 title: 닫기 단추 설정 및 메시지 승인
 exl-id: d7d2b4ad-efcb-4eb3-a741-ae51cfab2626
 feature: Mobile Marketing
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '347'
+source-wordcount: '338'
 ht-degree: 0%
 
 ---
@@ -49,7 +49,7 @@ ht-degree: 0%
 
 그래픽, 텍스트 및 단추에 대한 모든 선택 항목이 자동으로 저장되었습니다. 이제, 당신은 그 일을 끝낼 준비가 되었습니다.
 
-1. 인앱 메시지를 미리 보려면 **메시지 작업** 드롭다운을 클릭하고 **미리 보기**&#x200B;를 선택합니다.
+1. 인앱 메시지를 미리 보려면 **[!UICONTROL Message Actions]** 드롭다운을 클릭하고 **[!UICONTROL Preview]**&#x200B;을(를) 선택합니다.
 
    ![](assets/image2016-5-9-10-3a58-3a38.png)
 
@@ -57,13 +57,13 @@ ht-degree: 0%
 
    ![](assets/image2016-5-9-11-3a2-3a13.png)
 
-1. 인앱 메시지에 만족하면 **승인 및 닫기**&#x200B;를 클릭하세요.
+1. 인앱 메시지에 만족하면 **[!UICONTROL Approve & Close]**&#x200B;을(를) 클릭합니다.
 
    ![](assets/image2016-5-9-11-3a8-3a52.png)
 
    >[!NOTE]
    >
-   >메시지 작업 드롭다운에서 직접 **승인 및 닫기**&#x200B;를 선택할 수도 있습니다(1단계 참조). 하지만 안전을 위해 메시지를 먼저 미리 보는 것은 어떻습니까?
+   >**[!UICONTROL Approve & Close]** 드롭다운에서 직접 [!UICONTROL Message Actions]을(를) 선택할 수도 있습니다(1단계 참조). 하지만 안전을 위해 메시지를 먼저 미리 보는 것은 어떻습니까?
 
 1. 승인하지 않고 편집기를 닫으려면 탭을 닫기만 하면 됩니다. 자동 저장되므로 나중에 반환하고 승인할 수 있습니다.
 

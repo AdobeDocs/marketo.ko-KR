@@ -4,9 +4,9 @@ description: ON24 이벤트 통합 테스트 - Marketo 문서 - 제품 설명서
 title: ON24 이벤트 통합 테스트
 exl-id: 8326b81e-abf7-4615-9a0b-b0a579be8bb8
 feature: Events
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '191'
+source-wordcount: '183'
 ht-degree: 0%
 
 ---
@@ -31,7 +31,7 @@ ht-degree: 0%
 다음은 이벤트 발생 후 데이터가 업데이트되는 방법입니다.
 
 * Marketo은 매일 밤 ON24에서 참석자 데이터를 검색합니다.
-* Marketo과 ON24 간에 참석자 데이터가 동기화되면 Marketo은 멤버십 상태를 참석함, 온디맨드 참석함 또는 표시 없음으로 업데이트합니다. 이벤트의 **요약** 탭에서 이벤트 상태가 **이벤트 완료**(으)로 업데이트됩니다.
+* Marketo과 ON24 간에 참석자 데이터가 동기화되면 Marketo에서 구성원 상태를 [!UICONTROL Attended], [!UICONTROL Attended On-demand] 또는 [!UICONTROL No Show]&#x200B;(으)로 업데이트합니다. 이벤트의 **[!UICONTROL Summary]** 탭에서 이벤트 상태가 **[!UICONTROL Event Complete]**(으)로 업데이트됩니다.
 
 >[!MORELIKETHIS]
 >

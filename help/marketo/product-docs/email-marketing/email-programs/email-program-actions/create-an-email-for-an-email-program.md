@@ -4,9 +4,9 @@ description: 이메일 프로그램 - Marketo 문서 - 제품 설명서에 대�
 title: 이메일 프로그램용 이메일 만들기
 exl-id: 6513da2c-edbd-463a-8c0b-9f9016620f14
 feature: Email Programs
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '159'
+source-wordcount: '152'
 ht-degree: 0%
 
 ---
@@ -20,15 +20,15 @@ ht-degree: 0%
 
 이메일 프로그램을 만들고 대상자를 정의하면 전송하는 이메일을 결정할 수 있습니다. [기존 전자 메일을 선택](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/choose-an-existing-email.md)하거나 처음부터 만들 수 있습니다. 새 이메일을 만드는 방법은 다음과 같습니다.
 
-1. **마케팅 활동**(으)로 이동합니다.
+1. **[!UICONTROL Marketing Activities]**(으)로 이동합니다.
 
    ![](assets/one.png)
 
-1. 이메일 프로그램을 선택합니다. **전자 메일** 타일 아래에서 **새 전자 메일**&#x200B;을 클릭합니다.
+1. 이메일 프로그램을 선택합니다. **[!UICONTROL Email]** 타일 아래에서 **[!UICONTROL New Email]**&#x200B;을 클릭합니다.
 
    ![](assets/newemaildashboard.png)
 
-1. **이름**&#x200B;을(를) 입력하고 원하는 템플릿을 선택한 다음 **만들기**&#x200B;를 클릭합니다.
+1. **[!UICONTROL Name]**&#x200B;을(를) 입력하고 원하는 템플릿을 선택한 다음 **[!UICONTROL Create]**&#x200B;을(를) 클릭합니다.
 
    ![](assets/three.png)
 

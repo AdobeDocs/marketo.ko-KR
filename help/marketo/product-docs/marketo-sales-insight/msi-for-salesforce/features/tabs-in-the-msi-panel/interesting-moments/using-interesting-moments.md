@@ -4,20 +4,20 @@ description: 즐거운 순간 사용 - Marketo 문서 - 제품 설명서
 title: 즐거운 순간 사용
 exl-id: ccf7664b-08e1-490a-a3f9-5fa3bd8fb05f
 feature: Marketo Sales Insights
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '450'
+source-wordcount: '416'
 ht-degree: 0%
 
 ---
 
 # 즐거운 순간 사용 {#using-interesting-moments}
 
-흥미로운 순간은 Marketo Sales Insight 앱을 통해 영업 팀과 소통할 수 있는 핵심입니다.
+흥미로운 순간은 [!DNL Marketo Sales Insight] 앱을 통해 영업 팀과 통신하는 데 중요한 부분입니다.
 
 >[!AVAILABILITY]
 >
->Marketo Sales Insight 및 [Marketo Sales Connect](/help/marketo/product-docs/marketo-sales-connect/marketo/interesting-moments-in-sales-connect.md) 고객만 사용할 수 있습니다.
+>[!DNL Marketo Sales Insight] 및 [[!DNL Marketo Sales Connect]](/help/marketo/product-docs/marketo-sales-connect/marketo/interesting-moments-in-sales-connect.md) 고객만 사용할 수 있습니다.
 
 ## 흥미로운 순간이 뭐예요? {#what-is-an-interesting-moment}
 
@@ -33,15 +33,15 @@ ht-degree: 0%
 
    ![](assets/using-interesting-moments-1.png)
 
-1. **관심 있는 순간** 흐름 단계 위로 끌어서 놓습니다.
+1. **[!UICONTROL Interesting Moments]** 흐름 단계 위로 끌어서 놓습니다.
 
    ![](assets/using-interesting-moments-2.png)
 
-1. **유형**(전자 메일, 마일스톤 또는 웹)을 선택하세요.
+1. **type**([!UICONTROL Email], [!UICONTROL Milestone] 또는 [!UICONTROL Web])을(를) 선택하십시오.
 
    ![](assets/using-interesting-moments-3.png)
 
-1. 이 작업이 중요한 이유를 설명하는 메시지를 **설명** 필드에 영업팀에 보냅니다.
+1. 이 작업이 중요한 이유를 설명하는 메시지를 **[!UICONTROL Description]** 필드에 영업팀에 작성하십시오.
 
    ![](assets/using-interesting-moments-4.png)
 
@@ -63,29 +63,29 @@ ht-degree: 0%
 
 ![](assets/using-interesting-moments-5.png)
 
-## Salesforce에서 흥미로운 순간은 어떻게 보입니까?  {#what-does-an-interesting-moment-look-like-in-salesforce}
+## [!DNL Salesforce]에서 즐거운 순간은 어떤 모습입니까?  {#what-does-an-interesting-moment-look-like-in-salesforce}
 
-[Marketo Sales Insight 앱을 설치](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/configuration/configure-marketo-sales-insight-in-salesforce-enterprise-unlimited.md)하면 리드, 연락처, 계정 또는 영업 기회 페이지에 흥미로운 상황이 표시됩니다. Lead Feed, Best Bets 및 Watch List 의 Sales Insight 대시보드에도 표시됩니다.
+[앱 [!DNL Marketo Sales Insight] 을 설치](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/configuration/configure-marketo-sales-insight-in-salesforce-enterprise-unlimited.md)하면 리드, 연락처, 계정 또는 영업 기회 페이지에 즐거운 시간이 표시됩니다. [!DNL Sales Insight] 대시보드의 잠재 고객 피드, [!DNL Best Bets] 및 감시 목록에도 표시됩니다.
 
 ![](assets/using-interesting-moments-6.png)
 
-## Salesforce1에서 흥미로운 순간은 어떻게 보입니까? {#what-does-an-interesting-moment-look-like-in-salesforce-1}
+## [!DNL Salesforce1]에서 즐거운 순간은 어떤 모습입니까? {#what-does-an-interesting-moment-look-like-in-salesforce-1}
 
-Salesforce1용 Marketo Sales Insight를 설치하거나 업데이트하면 리드의 관련 링크 아래에 흥미로운 상황이 표시됩니다.
+[!DNL Marketo Sales Insight]에 대해 [!DNL Salesforce1]을(를) 설치 또는 업데이트하면 리드의 관련 링크 아래에 흥미로운 상황이 표시됩니다.
 
 ![](assets/using-interesting-moments-7.png)
 
 ## 즐거운 순간 구독 {#subscribe-to-interesting-moments}
 
-관심 순간 탭 또는 리드 피드에서 가입 버튼을 클릭하여 관심 순간을 가입할 수 있습니다. 아래 단계는 두 단계에 대해 동일합니다.
+관심 순간 탭 또는 리드 피드에서 [!UICONTROL Subscribe] 버튼을 클릭하여 관심 순간을 구독할 수 있습니다. 아래 단계는 두 단계에 대해 동일합니다.
 
 1. 가입 아이콘을 클릭합니다. 그런 다음 이메일 구독 탭으로 이동합니다.
 
-1. 이름, 계정, 유형 또는 설명을 기반으로 수신할 이메일 경고 유형을 선택할 수 있습니다.
+1. [!UICONTROL Name], [!UICONTROL Account], [!UICONTROL Type] 또는 [!UICONTROL Description]을(를) 기반으로 수신할 전자 메일 경고 유형을 선택할 수 있습니다.
 
 1. 알림을 보낼 이메일 주소를 선택합니다(본인/팀원).
 
-1. **가입**&#x200B;을 클릭합니다.
+1. **[!UICONTROL Subscribe]**&#x200B;을(를) 클릭합니다.
 
 >[!NOTE]
 >

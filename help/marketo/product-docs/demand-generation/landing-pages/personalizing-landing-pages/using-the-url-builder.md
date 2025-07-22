@@ -4,9 +4,9 @@ description: URL 빌더 사용 - Marketo 문서 - 제품 설명서
 title: URL 빌더 사용
 exl-id: f8c1e459-f50f-4f74-bf8a-1f1b64fcf46c
 feature: Landing Pages
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '125'
+source-wordcount: '116'
 ht-degree: 0%
 
 ---
@@ -19,11 +19,11 @@ URL 빌더는 Marketo 숨겨진 양식 필드를 채울 수 있는 URL을 구성
 >
 >양식에 숨겨진 필드를 만들고 [양식 필드를 숨김으로 설정](/help/marketo/product-docs/demand-generation/forms/form-fields/set-a-form-field-as-hidden.md)에서 설정을 편집하는 방법에 대해 알아봅니다.
 
-1. 랜딩 페이지를 선택하고 **랜딩 페이지 작업**&#x200B;을 클릭한 다음 **URL 도구**&#x200B;를 마우스로 가리킨 다음 **URL 빌더**&#x200B;를 클릭합니다.
+1. 랜딩 페이지를 선택하고 **[!UICONTROL Landing Page Actions]**&#x200B;을(를) 클릭한 다음 **[!UICONTROL URL Tools]**&#x200B;을(를) 마우스로 가리킨 다음 **[!UICONTROL URL Builder]**&#x200B;을(를) 클릭합니다.
 
    ![](assets/image2014-9-18-13-3a5-3a19.png)
 
-1. 사용할 필드를 선택하고 값을 입력한 다음 **URL 업데이트**&#x200B;를 클릭합니다.
+1. 사용할 필드를 선택하고 값을 입력한 다음 **[!UICONTROL Update URL]**&#x200B;을(를) 클릭합니다.
 
    ![](assets/image2014-9-18-13-3a5-3a28.png)
 

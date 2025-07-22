@@ -1,18 +1,17 @@
 ---
-description: Dynamic Chat 활동 - Marketo 문서 - 제품 설명서
-title: Dynamic Chat 활동
-feature: Dynamic Chat
+description: '[!DNL Dynamic Chat]개 활동 - Marketo 문서 - 제품 설명서'
+title: '[!DNL Dynamic Chat]개 활동'
 exl-id: ef3bb1a3-6758-4798-92eb-fef28a5ff9c7
-source-git-commit: 79b439a9bb3d3cd130eb5a7b52cea13988e7b88e
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '254'
+source-wordcount: '237'
 ht-degree: 0%
 
 ---
 
-# Dynamic Chat 활동 {#dynamic-chat-activities}
+# [!DNL Dynamic Chat]개 활동 {#dynamic-chat-activities}
 
-Dynamic Chat은 스마트 목록에서 사용할 수 있는 몇 가지 필터 및 트리거를 제공합니다.
+[!DNL Dynamic Chat]은(는) 스마트 목록에서 사용할 수 있는 몇 가지 필터 및 트리거를 제공합니다.
 
 ![](assets/dynamic-chat-activities-1.png)
 
@@ -55,6 +54,6 @@ Dynamic Chat은 스마트 목록에서 사용할 수 있는 몇 가지 필터 �
 
 ## 참고할 사항 {#things-to-note}
 
-* 조건은 Dynamic Chat 흐름 단계에서 지원됩니다
-* Dynamic Chat 활동을 [Marketo 판매 인사이트](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/features/dynamic-chat-integration.md){target="_blank"}에 동기화할 수 있습니다.
-* 개인 레코드의 활동 로그에서 개별 Dynamic Chat 활동을 볼 수 있습니다
+* 조건은 [!DNL Dynamic Chat] 흐름 단계에서 지원됩니다.
+* [!DNL Dynamic Chat] 활동을 [[!DNL Marketo Sales Insight]](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/features/dynamic-chat-integration.md){target="_blank"}에 동기화할 수 있습니다.
+* 개인 레코드의 활동 로그에서 개별 [!DNL Dynamic Chat] 활동을 볼 수 있습니다.

@@ -4,16 +4,16 @@ description: 모바일 푸시 알림 삭제 - Marketo 문서 - 제품 설명서
 title: 모바일 푸시 알림 삭제
 exl-id: 1f9d523e-b7aa-4880-8249-48cce92751aa
 feature: Mobile Marketing
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '67'
+source-wordcount: '60'
 ht-degree: 0%
 
 ---
 
 # 모바일 푸시 알림 삭제 {#delete-mobile-push-notification}
 
-1. **마케팅 활동** 영역으로 이동합니다.
+1. **[!UICONTROL Marketing Activities]** 영역으로 이동합니다.
 
 ![](assets/image2015-4-22-18-3a42-3a36.png)
 
@@ -21,11 +21,11 @@ ht-degree: 0%
 
    ![](assets/image2015-4-22-18-3a43-3a21.png)
 
-1. **푸시 알림 작업**&#x200B;에서 **삭제**&#x200B;를 클릭합니다.
+1. **[!UICONTROL Push Notification Actions]**&#x200B;에서 **[!UICONTROL Delete]**&#x200B;을(를) 클릭합니다.
 
    ![](assets/image2015-4-22-18-3a43-3a38.png)
 
-1. **삭제**&#x200B;를 클릭하여 확인합니다.
+1. **[!UICONTROL Delete]**&#x200B;을(를) 클릭하여 확인합니다.
 
    ![](assets/image2015-4-22-18-3a43-3a51.png)
 

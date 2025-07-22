@@ -3,9 +3,9 @@ description: 동적 필드 - Marketo 문서 - 제품 설명서
 title: 동적 필드
 exl-id: d9e52eae-d5bb-462f-8b7b-c28a560f6ea4
 feature: Sales Insight Actions
-source-git-commit: cffe7a8734f79f887f3aad017a16fad4f04cda74
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '555'
+source-wordcount: '527'
 ht-degree: 0%
 
 ---
@@ -16,19 +16,19 @@ ht-degree: 0%
 
 >[!TIP]
 >
->first_name 및 company 필드는 Sales Insight Actions 및 Salesforce를 모두 표시하는 유일한 필드입니다. 즉, 연락처가 [웹 응용 프로그램](https://toutapp.com/login)에 없는 경우 Salesforce에서 일치하는 전자 메일 주소가 있는 연락처/잠재 고객 레코드를 찾을 수 있는지 확인합니다. 그런 다음 해당 레코드의 정보를 사용하여 필드를 채웁니다.
+>[!DNL Sales Insight Actions]과(와) [!DNL Salesforce]을(를) 모두 볼 수 있는 필드는 &quot;first_name&quot; 및 &quot;company&quot; 필드뿐입니다. 즉, 연락처가 [웹 응용 프로그램](https://toutapp.com/login)에 없는 경우 [!DNL Salesforce]에서 일치하는 전자 메일 주소가 있는 연락처/잠재 고객 레코드를 찾을 수 있는지 확인합니다. 그런 다음 해당 레코드의 정보를 사용하여 필드를 채웁니다.
 
 ## 템플릿에 동적 필드 삽입 {#insert-a-dynamic-field-into-a-template}
 
-1. **템플릿 및 캠페인**&#x200B;에서 편집할 템플릿을 찾은 다음 **템플릿 편집**&#x200B;을 클릭합니다.
+1. **[!UICONTROL Templates & Campaigns]**&#x200B;에서 편집할 템플릿을 찾은 다음 **[!UICONTROL Edit Template]**&#x200B;을(를) 클릭합니다.
 
-1. **동적 필드 삽입**&#x200B;을 클릭합니다.
+1. **[!UICONTROL Insert Dynamic Field]**&#x200B;을(를) 클릭합니다.
 
    >[!NOTE]
    >
-   >Sales Insight Actions에 있는 담당자에게 이메일을 보낼 때 기본 동적 필드를 사용할 수 있습니다. 이것들은 접촉에서 바로 당겨질 것이다.
+   >[!DNL Sales Insight Actions]에 있는 연락처로 전자 메일을 보낼 때 기본 동적 필드를 사용할 수 있습니다. 이것들은 접촉에서 바로 당겨질 것이다.
 
-Salesforce에 있는 연락처에 이메일을 보내는 경우 Salesforce 동적 필드를 활용할 수 있습니다. 이러한 모든 항목은 &quot;sfdc&quot;로 시작합니다. Salesforce에 연결되어 있는 한 이러한 필드는 템플릿에 정보를 채우려면 Salesforce의 리드/연락처에 직접 호출됩니다.
+[!DNL Salesforce]에 있는 대화 상대에게 전자 메일을 보내는 경우 [!DNL Salesforce] 동적 필드를 사용할 수 있습니다. 이러한 모든 항목은 &quot;sfdc&quot;로 시작합니다. [!DNL Salesforce]에 연결되어 있는 동안에는 해당 필드가 [!DNL Salesforce]의 잠재 고객/연락처로 직접 호출되어 템플릿의 정보를 채웁니다.
 
 ## 제목 줄에 동적 필드 삽입 {#insert-dynamic-fields-in-a-subject-line}
 
@@ -48,7 +48,7 @@ Salesforce에 있는 연락처에 이메일을 보내는 경우 Salesforce 동�
 
 ## 동적 필드 용어집 {#dynamic-fields-glossary}
 
-Sales Insight Actions에서 템플릿을 만들 때는 항상 **동적 필드 삽입** 단추를 사용하여 동적 필드를 통합하는 것이 좋습니다.
+[!DNL Sales Insight Actions]에서 템플릿을 만들 때는 항상 **[!UICONTROL Insert Dynamic Field]** 단추를 사용하여 동적 필드를 통합하는 것이 좋습니다.
 
 이 도구를 사용하여 `auto-personalize your email`을(를) `pulling information from the People page`까지 시간을 절약할 수 있습니다.
 
@@ -60,16 +60,16 @@ Sales Insight Actions에서 템플릿을 만들 때는 항상 **동적 필드 �
 | `{{team_unsubscribe}}` | 더 이상 이메일을 수신하지 않으려면 여기를 클릭하십시오. |
 | `{{friendly_unsubscribe}}` | 모든 이메일에 지쳤나요? 여기 좀 알려주세요 |
 | `{{my_name}}` | 키스 플린 |
-| `{{my_signature}}` | 수석 기술 작가 Keith Flynn - Adobe |
+| `{{my_signature}}` | 선임 기술 작가 Keith Flynn - Adobe |
 | `{{personal_email}}` | keith@pickyouremail.com |
 | `{{title}}` | 수석 기술 저자 |
-| `{{work_website}}` | https://www.adobe.com |
+| `{{work_website}}` | https://www.adobe.com/kr/ |
 
 **참고할 사항**:
 
 * 연락처 정보가 잘못 입력되었거나 사람 페이지에서 누락된 경우 해당 정보가 템플릿으로 올바르게 이동되지 않습니다.
 * `{{company}}`과(와) `{{company_friendly}}`의 차이점은 `{{company_friendly}}`이(가) 연락처의 회사 이름에서 Inc., LLC 등과 같은 형식 제목을 제거한다는 것입니다.
-* `{{company_friendly}}`을(를) 사용하는 경우 연락처 세부 정보에서 쉼표로 Inc. 또는 Co.를 구분해야 합니다. 이는 Sales Insight Actions 이 값을 가져올 때 제거할 항목을 아는 방법입니다.
+* `{{company_friendly}}`을(를) 사용하는 경우 연락처 세부 정보에서 쉼표로 Inc. 또는 Co.를 구분해야 합니다. 값을 가져올 때 [!DNL Sales Insight Actions]이(가) 제거할 항목을 아는 방법입니다.
 * `{{my_name}}` 또는 `{{my_title}}`과(와) 같은 미리 정의된 특성을 사용하여 전자 메일 템플릿을 개인화할 수 있습니다. 이러한 필드를 사용하면 전자 메일 템플릿에서 자신을 빠르게 참조할 수 있습니다.
 * 시스템에서는 보낸 각 이메일에 사용자 서명을 자동으로 추가합니다. 사용자가 `{{my_signature}}` 동적 필드가 있는 템플릿을 사용하는 경우 시스템에서 `{{my_signature}}` 동적 필드가 있는 서명을 채웁니다. 중복을 방지하기 위해서만 추가됩니다. 전역 추가 구독 취소 설정이 사용되는 경우 시스템은 `{{team_unsubscribe}}`을(를) 같은 방식으로 처리합니다.
 

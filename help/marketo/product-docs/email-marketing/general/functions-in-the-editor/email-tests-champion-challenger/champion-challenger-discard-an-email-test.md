@@ -4,9 +4,9 @@ description: 챔피언/챌린저 - 이메일 테스트 취소 - Marketo 문서 -
 title: 챔피언/챌린저 - 이메일 테스트 취소
 exl-id: 2a7571dc-4d97-4b6c-92c9-d4fd0b8b4153
 feature: Email Editor
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '89'
+source-wordcount: '84'
 ht-degree: 0%
 
 ---
@@ -19,15 +19,15 @@ ht-degree: 0%
 >
 >[챔피언/도전자: 이메일 테스트 승인](/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/email-tests-champion-challenger/champion-challenger-approve-your-email-test.md)
 
-1. **마케팅 활동**(으)로 이동합니다.
+1. **[!UICONTROL Marketing Activities]**(으)로 이동합니다.
 
    ![](assets/login-marketing-activities-3.png)
 
-1. 전자 메일 테스트를 찾아 마우스 오른쪽 단추로 클릭한 다음 **테스트 취소**&#x200B;를 클릭합니다.
+1. 전자 메일 테스트를 찾아 마우스 오른쪽 단추로 클릭한 다음 **[!UICONTROL Discard Test]**&#x200B;을(를) 클릭합니다.
 
    ![](assets/champion5.jpg)
 
-1. 확인하려면 **삭제**&#x200B;를 클릭하세요.
+1. **[!UICONTROL Delete]**&#x200B;을(를) 클릭하여 확인합니다.
 
    ![](assets/image2014-9-15-14-3a17-3a11.png)
 

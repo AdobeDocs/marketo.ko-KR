@@ -4,26 +4,26 @@ description: 랜딩 페이지 - Marketo 문서 - 제품 설명서에 달력 이�
 title: 랜딩 페이지에 달력 이벤트 ICS 파일 포함
 exl-id: 3975f5ba-f514-4708-b51e-bc20d1eed6b4
 feature: Landing Pages
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '118'
-ht-degree: 1%
+source-wordcount: '112'
+ht-degree: 0%
 
 ---
 
 # 랜딩 페이지에 달력 이벤트 ICS 파일 포함 {#include-a-calendar-event-ics-file-in-a-landing-page}
 
-**캘린더 파일** 토큰을 사용하면 캘린더 이벤트(.ics) 링크를 Marketo 랜딩 페이지에 추가할 수 있습니다.
+**[!UICONTROL Calendar File]** 토큰을 사용하면 달력 이벤트(.ics) 링크를 Marketo 랜딩 페이지에 추가할 수 있습니다.
 
 >[!PREREQUISITES]
 >
 >* [일정 이벤트(.ics) 파일 만들기](/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/create-a-calendar-event-ics-file.md)
 
-1. 랜딩 페이지 편집기에서 **{..}**&#x200B;을(를) 클릭하여 토큰을 삽입합니다.
+1. 랜딩 페이지 편집기에서 **{...}**&#x200B;을(를) 클릭하여 토큰을 삽입합니다.
 
    ![](assets/image2015-7-8-17-3a51-3a29.png)
 
-1. **캘린더 파일** 토큰을 선택하고 **삽입**&#x200B;을 클릭합니다.
+1. **[!UICONTROL Calendar File]** 토큰을 선택하고 **[!UICONTROL Insert]**&#x200B;을(를) 클릭합니다.
 
    >[!CAUTION]
    >
@@ -33,7 +33,7 @@ ht-degree: 1%
 
    ![](assets/image2015-1-6-16-3a31-3a28.png)
 
-1. **저장**&#x200B;을 클릭합니다.
+1. **[!UICONTROL Save]**&#x200B;을(를) 클릭합니다.
 
    다음과 같은 랜딩 페이지가 표시됩니다.
 

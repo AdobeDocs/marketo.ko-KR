@@ -4,20 +4,20 @@ description: 익명 활동 및 사용자 이해 - Marketo 문서 - 제품 설명
 title: 익명 활동 및 사용자 이해
 exl-id: 1676e8f3-9138-42ed-8bb4-40e195391fc4
 feature: Smart Lists
-source-git-commit: 208ba59e3a5cb8e613e887b4c89e51cec4b3f897
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '264'
+source-wordcount: '263'
 ht-degree: 0%
 
 ---
 
 # 익명 활동 및 사용자 이해 {#understanding-anonymous-activity-and-people}
 
-누군가가 Marketo 랜딩 페이지(또는 [Munchkin 추적 코드](/help/marketo/product-docs/administration/additional-integrations/add-munchkin-tracking-code-to-your-website.md){target="_blank"}가 있는 웹 사이트의 페이지)를 처음 방문하면, Marketo은 *익명 활동*&#x200B;을 만들고 브라우저 쿠키를 사용하여 추적합니다. 식별되면 개인이 되고 브라우저 쿠키와 연관된 기록이 병합됩니다.
+누군가가 Marketo 랜딩 페이지(또는 [Munchkin 추적 코드](/help/marketo/product-docs/administration/additional-integrations/add-munchkin-tracking-code-to-your-website.md){target="_blank"}가 있는 웹 사이트의 페이지)를 처음 방문하면 Marketo은 *익명 활동*&#x200B;을 만들고 브라우저 쿠키를 사용하여 추적합니다. 식별되면 개인이 되고 브라우저 쿠키와 연관된 기록이 병합됩니다.
 
 >[!IMPORTANT]
 >
->Known **에서 Beta 기능** Munchkin V2 익명 재생 활동을 활성화하면 익명 잠재 고객이 알려진 레코드에 성공적으로 병합된 후 익명 잠재 고객 프로모션으로 트리거된 캠페인이 항상 재생됩니다. 따라서 재생된 캠페인에서 데이터 값 변경 단계에 의해 변경된 사용자 지정 필드는 알려진 레코드에서 유지됩니다.
+>Known **[!DNL Munchkin]에서 Beta 기능** V2 익명 재생 활동을 활성화하면 익명 잠재 고객이 알려진 레코드에 성공적으로 병합된 후 익명 잠재 고객 프로모션에 의해 트리거된 캠페인이 항상 재생됩니다. 따라서 재생된 캠페인에서 데이터 값 변경 단계에 의해 변경된 사용자 지정 필드는 알려진 레코드에서 유지됩니다.
 
 **익명** 활동은 다음 경우에 만들어집니다.
 

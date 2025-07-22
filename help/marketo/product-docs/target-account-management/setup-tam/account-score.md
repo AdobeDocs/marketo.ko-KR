@@ -4,16 +4,16 @@ description: 계정 점수 - Marketo 문서 - 제품 설명서
 title: 계정 스코어
 exl-id: 68fb5f41-f715-4a4d-b4da-9db4dc38d67d
 feature: Target Account Management
-source-git-commit: e49860ae611f2f77789bb491aeccbee46a911a2c
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '355'
+source-wordcount: '334'
 ht-degree: 0%
 
 ---
 
-# 계정 스코어 {#account-score}
+# [!UICONTROL Account Score] {#account-score}
 
-계정 점수는 Target 계정 관리의 중요한 부분입니다. 계정의 참여 수준을 결정하는 데 도움이 됩니다.
+계정 점수는 [!UICONTROL Target Account Management]의 중요한 부분입니다. 계정의 참여 수준을 결정하는 데 도움이 됩니다.
 
 ## 계정 점수부여란 무엇입니까? {#what-is-account-scoring}
 
@@ -57,30 +57,30 @@ B2B 구매 프로세스가 복잡한 환경에서는 한 개인이 구매 결정
 
 잠재 고객 점수를 구성한 후 아래 단계를 따라 진행하십시오.
 
-1. **관리자**&#x200B;를 클릭합니다.
+1. **[!UICONTROL Admin]**&#x200B;을(를) 클릭합니다.
 
    ![](assets/account-score-1.png)
 
-1. **계정 관리 대상**&#x200B;을 클릭합니다.
+1. **[!UICONTROL Target Account Management]**&#x200B;을(를) 클릭합니다.
 
    ![](assets/account-score-2.png)
 
-1. 채점 필드에서 **편집**&#x200B;을 클릭합니다.
+1. [!UICONTROL Scoring Fields]에서 **[!UICONTROL Edit]**&#x200B;을(를) 클릭합니다.
 
    ![](assets/account-score-3.png)
 
    >[!NOTE]
    >
-   >최대 **5개** 필드를 선택하여 계정 점수를 계산할 수 있습니다.
+   >최대 **5개** 필드를 선택하여 [!UICONTROL Account Score]을(를) 계산할 수 있습니다.
 
-1. 계정 점수 이름을 입력하고 **개인 점수 선택** 드롭다운을 클릭한 다음 해당 점수를 선택합니다.
+1. [!UICONTROL Account Score] 이름을 입력하고 **[!UICONTROL Select Person Score]** 드롭다운을 클릭한 다음 해당 점수를 선택하십시오.
 
    ![](assets/account-score-4.png)
 
-1. 점수를 더 추가하려면 **+추가**&#x200B;를 클릭하십시오.
+1. 점수를 더 추가하려면 **[!UICONTROL +Add]**&#x200B;을(를) 클릭하십시오.
 
    ![](assets/account-score-5.png)
 
-1. 원하는 점수를 모두 추가합니다. 완료되면 **저장**&#x200B;을 클릭합니다.
+1. 원하는 점수를 모두 추가합니다. 완료되면 **[!UICONTROL Save]**&#x200B;을(를) 클릭합니다.
 
    ![](assets/account-score-6.png)

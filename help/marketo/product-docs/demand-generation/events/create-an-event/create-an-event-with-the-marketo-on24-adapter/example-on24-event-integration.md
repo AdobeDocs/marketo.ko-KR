@@ -4,9 +4,9 @@ description: ON24 이벤트 통합 예 - Marketo 문서 - 제품 설명서
 title: ON24 이벤트 통합 예
 exl-id: 9d34d1bf-1ff8-4b26-906e-4a6bb9d5f3f6
 feature: Events
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '385'
+source-wordcount: '361'
 ht-degree: 0%
 
 ---
@@ -17,27 +17,27 @@ ht-degree: 0%
 
 ## 마케팅 활동에서 새 이벤트 만들기 {#create-a-new-event-in-marketing-activities}
 
-1. **새로 만들기** > **새 프로그램**&#x200B;을 선택합니다.
+1. **[!UICONTROL New]** > **[!UICONTROL New Program]**&#x200B;을(를) 선택합니다.
 
    ![](assets/image2015-12-22-15-3a35-3a15.png)
 
-1. 이벤트가 활성화될 **캠페인 폴더**&#x200B;를 선택하십시오.
+1. 이벤트가 활성화될 **[!UICONTROL Campaign Folder]**&#x200B;을(를) 선택하십시오.
 
    ![](assets/image2015-12-22-15-3a39-3a51.png)
 
-1. 이벤트의 **이름**&#x200B;을(를) 입력하십시오.
+1. 이벤트에 대한 **[!UICONTROL Name]**&#x200B;을(를) 입력하십시오.
 
    ![](assets/image2015-12-22-15-3a43-3a4.png)
 
-1. **이벤트**&#x200B;을(를) **프로그램 형식**(으)로 선택합니다.
+1. **[!UICONTROL Event]**&#x200B;을(를) **[!UICONTROL Program Type]**(으)로 선택합니다.
 
    ![](assets/image2015-12-22-15-3a44-3a41.png)
 
-1. 이벤트의 **채널**(으)로 **웨비나**&#x200B;을(를) 선택하십시오.
+1. **[!UICONTROL Webinar]**&#x200B;을(를) 이벤트의 **[!UICONTROL Channel]**(으)로 선택합니다.
 
    ![](assets/image2015-12-22-15-3a46-3a34.png)
 
-1. **만들기**&#x200B;를 클릭합니다.
+1. **[!UICONTROL Create]**&#x200B;을(를) 클릭합니다.
 
    ![](assets/image2015-12-22-15-3a48-3a20.png)
 
@@ -55,11 +55,11 @@ ht-degree: 0%
 
 * **스마트 목록**
 
-   * **양식 작성**&#x200B;을 기반으로 캠페인을 트리거합니다. 특히 양식이 여러 랜딩 페이지에서 사용되는 경우 **제한 추가**&#x200B;를 사용하여 양식이 있는 랜딩 페이지를 포함해야 합니다.
+   * **[!UICONTROL Fills Out Form]**&#x200B;을(를) 기반으로 캠페인을 트리거합니다. **[!UICONTROL Add Constraint]**&#x200B;을(를) 사용하여 양식이 있는 랜딩 페이지를 포함해야 합니다. 특히 양식이 여러 랜딩 페이지에서 사용되는 경우 더 그렇습니다.
 
 >[!CAUTION]
 >
->이벤트에 대한 사용자를 등록하려면 Marketo 양식을 사용하고, 등록 데이터를 Marketo에 푸시하려면 적절한 API 통합이 포함된 Marketo이 아닌 양식을 사용해야 합니다. 이는 Event Partner 통합의 성공에 매우 중요한 요소입니다. **참고**: Marketo이 아닌 랜딩 페이지에서 Marketo 양식을 사용하는 경우 트리거는 **양식 이름으로 양식 작성**&#x200B;됩니다.
+>이벤트에 대한 사용자를 등록하려면 Marketo 양식을 사용하고, 등록 데이터를 Marketo에 푸시하려면 적절한 API 통합이 포함된 Marketo이 아닌 양식을 사용해야 합니다. 이는 [!UICONTROL Event Partner] 통합의 성공에 매우 중요합니다. **참고**: Marketo이 아닌 랜딩 페이지에서 Marketo 양식을 사용하는 경우 트리거는 **[!UICONTROL Fills Out Form]**&#x200B;을(를) 사용하는 [!UICONTROL Form Name]이(가) 됩니다.
 
 ![](assets/image2015-12-22-15-3a50-3a22.png)
 

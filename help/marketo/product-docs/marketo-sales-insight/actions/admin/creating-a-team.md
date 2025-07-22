@@ -3,9 +3,9 @@ description: 팀 만들기 - Marketo 문서 - 제품 설명서
 title: 팀 만들기
 exl-id: 7cca53a8-67e7-467a-988a-bb99872a328e
 feature: Sales Insight Actions
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '123'
+source-wordcount: '108'
 ht-degree: 0%
 
 ---
@@ -16,19 +16,19 @@ ht-degree: 0%
 
 ## 팀 만들기 {#create-a-team}
 
-1. [웹 응용 프로그램](https://toutapp.com/login)에서 톱니바퀴 아이콘을 클릭하고 **설정**&#x200B;을 선택합니다.
+1. [웹 응용 프로그램](https://toutapp.com/login)에서 톱니바퀴 아이콘을 클릭하고 **[!UICONTROL Settings]**&#x200B;을(를) 선택합니다.
 
    ![](assets/creating-a-team-1.png)
 
-1. 관리자 설정에서 **팀 관리**&#x200B;를 선택합니다.
+1. [!UICONTROL Admin Settings]에서 **[!UICONTROL Team Management]**&#x200B;을(를) 선택합니다.
 
    ![](assets/creating-a-team-2.png)
 
-1. Teams 옆에 있는 **+** 아이콘을 클릭합니다.
+1. [!UICONTROL Teams] 옆에 있는 **+** 아이콘을 클릭합니다.
 
    ![](assets/creating-a-team-3.png)
 
-1. 팀 이름을 입력하고 **만들기**&#x200B;를 클릭하세요.
+1. 팀 이름을 입력하고 **[!UICONTROL Create]**&#x200B;을(를) 클릭합니다.
 
    ![](assets/creating-a-team-4.png)
 
@@ -38,7 +38,7 @@ ht-degree: 0%
 
 ## 팀에 사람 추가 {#add-people-to-a-team}
 
-1. 아직 팀 관리에서 **모든 구성원**&#x200B;을 선택합니다.
+1. [!UICONTROL Team Management]에서 **[!UICONTROL All Members]**&#x200B;을(를) 선택합니다.
 
    ![](assets/creating-a-team-5.png)
 
@@ -46,7 +46,7 @@ ht-degree: 0%
 
    ![](assets/creating-a-team-6.png)
 
-1. **팀에 추가**&#x200B;를 클릭합니다.
+1. **[!UICONTROL Add to Teams]**&#x200B;을(를) 클릭합니다.
 
    ![](assets/creating-a-team-7.png)
 
@@ -54,6 +54,6 @@ ht-degree: 0%
 
    ![](assets/creating-a-team-8.png)
 
-1. 완료되면 **추가**&#x200B;를 클릭하세요.
+1. 완료되면 **[!UICONTROL Add]**&#x200B;을(를) 클릭합니다.
 
    ![](assets/creating-a-team-9.png)

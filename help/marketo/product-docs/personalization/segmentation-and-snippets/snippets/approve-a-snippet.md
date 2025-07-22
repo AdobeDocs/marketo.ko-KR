@@ -4,10 +4,10 @@ description: 코드 조각 승인 - Marketo 문서 - 제품 설명서
 title: 코드 조각 승인
 exl-id: 9dd123dc-6a8c-483e-ba2b-e7dde2c97f5f
 feature: Snippets
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '55'
-ht-degree: 0%
+source-wordcount: '50'
+ht-degree: 4%
 
 ---
 
@@ -19,15 +19,15 @@ ht-degree: 0%
 
 사용하기 전에 코드 조각을 승인해야 합니다.
 
-1. **디자인 스튜디오**(으)로 이동합니다.
+1. **[!UICONTROL Design Studio]**(으)로 이동합니다.
 
    ![](assets/image2014-9-16-8-3a55-3a15.png)
 
-1. **코드 조각**&#x200B;을 클릭합니다. **코드 조각 작업**&#x200B;에서 **승인**&#x200B;을 클릭합니다.
+1. **코드 조각**&#x200B;을 클릭합니다. **[!UICONTROL Snippet Actions]**&#x200B;에서 **[!UICONTROL Approve]**&#x200B;을(를) 클릭합니다.
 
    ![](assets/image2014-9-16-8-3a55-3a24.png)
 
-다 됐습니다! 코드 조각의 상태가 초안에서 승인됨으로 변경됩니다.
+됐습니다. 코드 조각의 상태가 초안에서 승인됨으로 변경됩니다.
 
 >[!MORELIKETHIS]
 >

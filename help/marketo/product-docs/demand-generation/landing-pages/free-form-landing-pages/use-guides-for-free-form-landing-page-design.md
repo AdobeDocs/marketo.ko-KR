@@ -4,9 +4,9 @@ description: 자유 형식 랜딩 페이지 디자인에 대한 안내서 사용
 title: 자유 형식 랜딩 페이지 디자인에 대한 안내서 사용
 exl-id: 44c6a984-ae05-464c-905a-9e1b53f73f37
 feature: Landing Pages
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '112'
+source-wordcount: '102'
 ht-degree: 0%
 
 ---
@@ -17,13 +17,13 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->안내서는 **자유 형식** 랜딩 페이지 편집기에서만 사용할 수 있습니다.
+>안내서는 **[!UICONTROL Free-form]** 랜딩 페이지 편집기에서만 사용할 수 있습니다.
 
-1. **랜딩 페이지**&#x200B;를 선택하고 **초안 편집**&#x200B;을 클릭합니다.
+1. **[!UICONTROL Landing Page]**&#x200B;을(를) 선택하고 **[!UICONTROL Edit Draft]**&#x200B;을(를) 클릭합니다.
 
    ![](assets/image2015-5-20-14-3a10-3a9.png)
 
-1. **랜딩 페이지 작업**&#x200B;을 클릭하고 **안내 표시**&#x200B;를 선택합니다.
+1. **[!UICONTROL Landing Page Actions]**&#x200B;을(를) 클릭하고 **[!UICONTROL Show Guides]**&#x200B;을(를) 선택합니다.
 
    ![](assets/image2015-5-20-14-3a12-3a15.png)
 

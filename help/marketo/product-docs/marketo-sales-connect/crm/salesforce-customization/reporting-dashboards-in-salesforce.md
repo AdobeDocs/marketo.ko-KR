@@ -4,9 +4,9 @@ description: Salesforce의 보고 대시보드 - Marketo 문서 - 제품 설명�
 title: Salesforce의 보고 대시보드
 exl-id: f27ba3e1-210b-46df-81b5-e794826d36c7
 feature: Marketo Sales Connect
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '201'
+source-wordcount: '182'
 ht-degree: 0%
 
 ---
@@ -17,15 +17,15 @@ ht-degree: 0%
 
 ## 보고서 열기 및 클릭 {#open-and-click-report}
 
-1. **작업 및 이벤트** 레코드 종류를 선택하십시오.
+1. **[!UICONTROL Tasks and Events]** 레코드 종류를 선택하십시오.
 1. 원하는 기간 및 계층 구조를 기반으로 보고서 매개 변수를 정의합니다.
-1. 필터를 추가하여 Salesforce에 기록된 내부 이메일을 제거합니다(예: 회사/계정이 Marketo과 같지 않음).
-1. **요약** 보고서 형식을 선택하십시오.
+1. [!DNL Salesforce]에 기록된 내부 전자 메일을 제거하는 필터를 추가합니다(예: 회사/계정이 Marketo과 같지 않음).
+1. **[!UICONTROL Summary]** 보고서 형식을 선택하십시오.
 1. 제목, 할당됨 및 Marketo Sales Clicked/Marketo Sales Viewed 필드를 보고서에 추가합니다.
-1. 필드 창에서 **수식 추가**&#x200B;를 두 번 클릭합니다.
-1. 수식에 이름을 추가하고 형식에서 **백분율**&#x200B;을 선택한 다음 **그룹화 1**&#x200B;을 선택하십시오.
-1. 요약 필드에서 **Marketo Sales Clicked/Marketo Sales Viewed,**, **합계**&#x200B;를 선택합니다.
-1. 수식에 나누기 기호를 추가한 다음 요약 필드에서 **레코드 수**&#x200B;을(를) 선택합니다. _다른 이름으로 저장_.
+1. 필드 창에서 **[!UICONTROL Add Formula]**&#x200B;을(를) 두 번 클릭합니다.
+1. 수식에 이름을 추가하고 형식에서 **[!UICONTROL Percent]**&#x200B;을(를) 선택한 다음 **[!UICONTROL Grouping 1]**&#x200B;을(를) 선택하십시오.
+1. 요약 필드에서 **[!UICONTROL Marketo Sales Clicked/Marketo Sales Viewed]**&#x200B;을(를) 선택한 다음 **[!UICONTROL Sum]**&#x200B;을(를) 선택합니다.
+1. 수식에 나누기 기호를 추가한 다음 요약 필드에서 **[!UICONTROL Record Count]**&#x200B;을(를) 선택합니다. _다른 이름으로 저장_.
 
 ## 템플릿 성능 보고서 {#template-performance-report}
 

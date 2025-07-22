@@ -4,9 +4,9 @@ description: 이메일 프로그램 만들기 - Marketo 문서 - 제품 설명�
 title: 이메일 프로그램 만들기
 exl-id: b2efaddb-cc7a-4ae3-8c1c-b70d189dd290
 feature: Email Programs
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '129'
+source-wordcount: '117'
 ht-degree: 0%
 
 ---
@@ -15,21 +15,21 @@ ht-degree: 0%
 
 전자 메일 프로그램을 사용하여 여러 사람에게 전자 메일을 빠르고 쉽게 보낼 수 있습니다.
 
-1. **마케팅 활동**(으)로 이동합니다.
+1. **[!UICONTROL Marketing Activities]**(으)로 이동합니다.
 
    ![](assets/one.png)
 
-1. 프로그램을 만들 폴더를 선택하고 **새로 만들기** 드롭다운을 클릭한 다음 **새 프로그램**&#x200B;을 선택합니다.
+1. 프로그램을 만들 폴더를 선택하고 **[!UICONTROL New]** 드롭다운을 클릭한 다음 **[!UICONTROL New Program]**&#x200B;을(를) 선택합니다.
 
    ![](assets/two.png)
 
-1. 이름을 입력하고 프로그램 유형으로 **전자 메일**&#x200B;을(를) 선택한 다음 **만들기**&#x200B;를 클릭합니다.
+1. 이름을 입력하고 **[!UICONTROL Email]**&#x200B;을(를) [!UICONTROL Program Type]&#x200B;(으)로 선택한 다음 **[!UICONTROL Create]**&#x200B;을(를) 클릭합니다.
 
    ![](assets/three.png)
 
    >[!NOTE]
    >
-   >**전자 메일**&#x200B;을(를) 프로그램 유형으로 선택하면 채널이 자동으로 **전자 메일 보내기**(으)로 설정됩니다. 원하신다면 변경하실 수 있습니다
+   >**[!UICONTROL Email]**&#x200B;을(를) 프로그램 유형으로 선택하면 채널이 자동으로 **[!UICONTROL Email Send]**(으)로 설정됩니다. 원하신다면 변경하실 수 있습니다
 
    ![](assets/four.png)
 

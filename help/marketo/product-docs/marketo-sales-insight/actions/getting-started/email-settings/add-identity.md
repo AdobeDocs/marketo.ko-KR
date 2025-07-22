@@ -3,10 +3,10 @@ description: ID 추가 - Marketo 문서 - 제품 설명서
 title: ID 추가
 exl-id: a85937c3-aa15-4900-a42b-950ab2ae1776
 feature: Sales Insight Actions
-source-git-commit: 02b2e39580c5eac63de4b4b7fdaf2a835fdd4ba5
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '182'
-ht-degree: 0%
+source-wordcount: '174'
+ht-degree: 1%
 
 ---
 
@@ -22,19 +22,19 @@ ht-degree: 0%
 
    ![](assets/add-identity-1.png)
 
-1. **전자 메일 설정**&#x200B;을 클릭합니다.
+1. **[!UICONTROL Email Settings]**&#x200B;을(를) 클릭합니다.
 
    ![](assets/add-identity-2.png)
 
-1. **ID 추가**&#x200B;를 클릭합니다.
+1. **[!UICONTROL Add Identity]**&#x200B;을(를) 클릭합니다.
 
    ![](assets/add-identity-3.png)
 
-1. 정보(전자 메일 및 이름은 필수 필드임)를 입력하고 **만들기**&#x200B;를 클릭합니다.
+1. 정보(전자 메일 및 이름은 필수 필드임)를 입력하고 **[!UICONTROL Create]**&#x200B;을(를) 클릭합니다.
 
    ![](assets/add-identity-4.png)
 
-1. 그러면 &quot;이메일 주소를 확인해 주십시오&quot; 이메일을 받게 됩니다. 확인하려면 **전자 메일 주소 확인**&#x200B;을 클릭하세요.
+1. 그러면 &quot;이메일 주소를 확인해 주십시오&quot; 이메일을 받게 됩니다. 확인하려면 **[!UICONTROL Verify Email Address]**&#x200B;을(를) 클릭합니다.
 
    ![](assets/add-identity-5.png)
 

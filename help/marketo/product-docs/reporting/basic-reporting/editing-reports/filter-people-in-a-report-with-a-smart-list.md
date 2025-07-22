@@ -4,9 +4,9 @@ description: 스마트 목록으로 보고서 사람 필터링 - Marketo 문서 
 title: 스마트 목록으로 보고서 사람 필터링
 exl-id: f3cc38d1-35fd-424a-a024-949852edd6a7
 feature: Reporting
-source-git-commit: c7069488ccb0444179cd995bec523ac4dd92da73
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '132'
+source-wordcount: '127'
 ht-degree: 0%
 
 ---
@@ -27,11 +27,11 @@ ht-degree: 0%
 * [회사 웹 활동](/help/marketo/product-docs/reporting/basic-reporting/report-types/company-web-activity-report.md)
 * [웹 페이지 활동](/help/marketo/product-docs/reporting/basic-reporting/report-types/web-page-activity-report.md)
 
-1. **마케팅 활동** 영역으로 이동합니다.
+1. **[!UICONTROL Marketing Activities]** 영역으로 이동합니다.
 
    ![](assets/image2017-3-27-11-3a31-3a2.png)
 
-1. 탐색 트리에서 보고서를 선택하고 **스마트 목록** 탭을 클릭합니다.
+1. 탐색 트리에서 보고서를 선택하고 **[!UICONTROL Smart List]** 탭을 클릭합니다.
 
    ![](assets/image2017-3-27-14-3a12-3a53.png)
 
@@ -43,7 +43,7 @@ ht-degree: 0%
 
    ![](assets/image2014-9-16-12-3a35-3a50.png)
 
-1. 필터링된 보고서를 보려면 **보고서** 탭을 클릭하십시오.
+1. 필터링된 보고서를 보려면 **[!UICONTROL Report]** 탭을 클릭하십시오.
 
    ![](assets/image2017-3-27-14-3a14-3a16.png)
 

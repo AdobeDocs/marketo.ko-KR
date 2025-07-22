@@ -1,23 +1,23 @@
 ---
 unique-page-id: 7516241
 description: SFDC 동기화 - 리드 큐 - Marketo 문서 - 제품 설명서
-title: SFDC 동기화 - 잠재 고객 큐
+title: SFDC 동기화 - 리드 큐
 exl-id: b3b5e14c-f914-429c-a4b9-6b535ad8e882
 feature: Salesforce Integration
-source-git-commit: 0087a5e88b8bd9601875f68a2e7cadeebdb5d682
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '134'
+source-wordcount: '130'
 ht-degree: 0%
 
 ---
 
 # SFDC 동기화: 리드 큐 {#sfdc-sync-lead-queue}
 
-Marketo Engage을 사용하면 [Salesforce 리드 큐](https://help.salesforce.com/apex/HTViewHelpDoc?id=queues_overview.htm){target="_blank"}에 직원을 추가하여 리드 배포에 도움을 줄 수 있습니다. 세부사항은 다음과 같습니다.
+Marketo을 사용하면 [[!DNL Salesforce] 리드 큐](https://help.salesforce.com/apex/HTViewHelpDoc?id=queues_overview.htm)에 사람을 추가하여 리드 배포에 도움을 줄 수 있습니다. 세부사항은 다음과 같습니다.
 
 ## Marketo에서 대기열에 사람을 할당하는 방법 {#how-to-assign-a-person-to-a-queue-in-marketo}
 
-다음 플로우 작업 중 하나를 사용하여 Salesforce 리드 대기열에 개인을 할당할 수 있습니다.
+다음 흐름 작업 중 하나를 사용하여 [!DNL Salesforce] 리드 큐에 사용자를 할당할 수 있습니다.
 
 * [사용자를 SFDC에 동기화](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/salesforce-flow-actions/sync-person-to-sfdc.md){target="_blank"}
 * [소유자 변경](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/salesforce-flow-actions/change-owner.md){target="_blank"}
@@ -28,7 +28,7 @@ Marketo Engage을 사용하면 [Salesforce 리드 큐](https://help.salesforce.c
 
 ## 대상이 대기열에 속해 있는 경우 잠재 고객 소유자 정보는 어떻게 저장됩니까? {#how-is-lead-owner-information-stored-if-the-person-belongs-to-a-queue}
 
-Salesforce의 대기열에서 잠재 고객을 소유한 경우 잠재 고객이 소유자에게 할당될 때까지 이러한 판매 소유자 필드는 비어 있는 상태로 유지됩니다.
+[!DNL Salesforce]의 대기열에서 잠재 고객을 소유한 경우 잠재 고객이 소유자에게 할당될 때까지 이러한 판매 소유자 필드는 비어 있는 상태로 유지됩니다.
 
 * 영업 담당자 이름
 * 영업 담당자 성

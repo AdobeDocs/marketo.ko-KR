@@ -1,19 +1,19 @@
 ---
 unique-page-id: 7516390
-description: Salesforce AppExchange - Marketo 문서 - 제품 설명서에 Marketo Sales Insight 패키지 설치
+description: Salesforce AppExchange - Marketo 설명서 - 제품 설명서에 Marketo Sales Insight 패키지 설치
 title: Salesforce AppExchange에 Marketo Sales Insight 패키지 설치
 exl-id: d0c54d6a-e9d5-4ddb-8679-873b61375a82
 feature: Marketo Sales Insights
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '286'
+source-wordcount: '211'
 ht-degree: 0%
 
 ---
 
-# Salesforce AppExchange에 Marketo Sales Insight 패키지 설치 {#install-marketo-sales-insight-package-in-salesforce-appexchange}
+# [!DNL Marketo Sales Insight] AppExchange에 [!DNL Salesforce] 패키지 설치 {#install-marketo-sales-insight-package-in-salesforce-appexchange}
 
-Sales Insight에서 제공하는 모든 이점을 활용하려면 Salesforce 구독에 Marketo Sales Insight 앱을 설치해야 합니다. 방법은 다음과 같습니다.
+[!DNL Marketo Sales Insight]에서 제공하는 혜택을 모두 이용하려면 먼저 [!DNL Salesforce] 구독에 [!DNL Sales Insight] 앱을 설치해야 합니다. 방법은 다음과 같습니다.
 
 >[!NOTE]
 >
@@ -21,27 +21,27 @@ Sales Insight에서 제공하는 모든 이점을 활용하려면 Salesforce 구
 
 >[!NOTE]
 >
->Marketo Sales Insight는 Salesforce Platform(Shield) 암호화와 호환됩니다.
+>[!DNL Marketo Sales Insight]은(는) [!DNL Salesforce] 플랫폼(Shield) 암호화와 호환됩니다.
 
-1. Marketo Sales Insight의 [AppExchange 페이지로 이동](https://appexchange.salesforce.com/listingDetail?listingId=a0N30000001SVZmEAO)한 다음 **지금 가져오기**&#x200B;를 클릭합니다.
+1. [ [!DNL Marketo Sales Insight]의 ](https://appexchange.salesforce.com/listingDetail?listingId=a0N30000001SVZmEAO)AppExchange 페이지로 이동한 다음 **[!UICONTROL Get it Now]**&#x200B;을(를) 클릭합니다.
 
    ![](assets/install-marketo-sales-insight-package-in-salesforce-appexchange-1.png)
 
-1. **AppExchange에 로그인** 단추를 클릭하고 Salesforce 자격 증명으로 로그인합니다.
+1. **[!UICONTROL Log in to the AppExchange]** 단추를 클릭하고 [!DNL Salesforce] 자격 증명으로 로그인합니다.
 
-1. 연결된 Salesforce 계정 로그인을 입력하고 **프로덕션에 설치**&#x200B;를 클릭합니다.
+1. 연결된 [!DNL Salesforce] 계정 로그인을 입력하고 **[!UICONTROL Install in Production]**&#x200B;을(를) 클릭합니다.
 
    ![](assets/install-marketo-sales-insight-package-in-salesforce-appexchange-2.png)
 
    >[!TIP]
    >
-   >먼저 샌드박스에서 테스트하려면 **샌드박스에 설치**&#x200B;를 선택하십시오.
+   >먼저 샌드박스에서 테스트하려면 **[!UICONTROL Install in Sandbox]**&#x200B;을(를) 선택하세요.
 
-1. 약관을 읽고 동의한 다음 **확인 및 설치**&#x200B;를 클릭합니다.
+1. 약관을 읽고 동의한 다음 **[!UICONTROL Confirm and Install]**&#x200B;을(를) 클릭합니다.
 
    ![](assets/install-marketo-sales-insight-package-in-salesforce-appexchange-3.png)
 
-1. &quot;관리자만 설치&quot;(및 나중에 특정 프로필에 대한 MSI 액세스 권한 제공), &quot;모든 사용자용 설치&quot; 또는 &quot;특정 프로필용 설치&quot;를 선택할 수 있습니다.
+1. &quot;[!UICONTROL Install for Admins Only]&quot;(및 나중에 특정 프로필에 대한 MSI 액세스 제공), &quot;[!UICONTROL Install for All Users]&quot; 또는 &quot;[!UICONTROL Install for Specific Profiles]&quot;을(를) 선택할 수 있습니다.
 
    ![](assets/install-marketo-sales-insight-package-in-salesforce-appexchange-4.png)
 
@@ -49,34 +49,34 @@ Sales Insight에서 제공하는 모든 이점을 활용하려면 Salesforce 구
 
    ![](assets/install-marketo-sales-insight-package-in-salesforce-appexchange-5.png)
 
-1. 설치된 패키지에 **Marketo Sales Insight**&#x200B;이(가) 있는지 확인하십시오.
+1. **[!UICONTROL Marketo Sales Insight]**&#x200B;이(가) 설치된 패키지에 있는지 확인하십시오.
 
    ![](assets/install-marketo-sales-insight-package-in-salesforce-appexchange-6.png)
 
-1. 이름 옆에 있는 **설치**&#x200B;를 클릭합니다.
+1. 이름 옆에 있는 **[!UICONTROL Setup]**&#x200B;을(를) 클릭합니다.
 
    ![](assets/install-marketo-sales-insight-package-in-salesforce-appexchange-7.png)
 
-1. &quot;개체&quot;를 검색한 다음 **만들기**&#x200B;에서 **개체**&#x200B;를 클릭합니다.
+1. &quot;[!UICONTROL objects]&quot;을(를) 검색한 다음 **[!UICONTROL Objects]** 아래의 **[!UICONTROL Create]**&#x200B;을(를) 클릭합니다.
 
    ![](assets/install-marketo-sales-insight-package-in-salesforce-appexchange-8.png)
 
-1. 모든 Marketo Sales Insight 항목에 대해 **배포됨**&#x200B;이 선택되어 있는지 다시 확인하십시오.
+1. **[!UICONTROL Deployed]**&#x200B;이(가) 모든 [!DNL Marketo Sales Insight]개 항목에 대해 확인되었는지 다시 확인하십시오.
 
    ![](assets/install-marketo-sales-insight-package-in-salesforce-appexchange-9.png)
 
-1. 개체가 배포되지 않은 경우 항목 옆에 있는 **편집**&#x200B;을 클릭합니다.
+1. 개체가 배포되지 않은 경우 항목 옆에 있는 **[!UICONTROL Edit]**&#x200B;을(를) 클릭합니다.
 
    ![](assets/install-marketo-sales-insight-package-in-salesforce-appexchange-10.png)
 
-1. **배포 상태** 섹션에서 **배포됨**&#x200B;을(를) 선택하고 **저장**&#x200B;을 클릭합니다.
+1. **[!UICONTROL Deployment Status]** 섹션에서 **[!UICONTROL Deployed]**&#x200B;을(를) 선택하고 **[!UICONTROL Save]**&#x200B;을(를) 클릭합니다.
 
    ![](assets/install-marketo-sales-insight-package-in-salesforce-appexchange-11.png)
 
-좋습니다! 이제 Marketo Sales Insight를 설치하고 배포했습니다. 판매팀을 위해 구성하고 판매량이 급증하는 것을 확인하십시오.
+좋습니다! 이제 [!DNL Marketo Sales Insight]을(를) 설치 및 배포했습니다. 판매팀을 위해 구성하고 판매량이 급증하는 것을 확인하십시오.
 
 >[!MORELIKETHIS]
 >
->* [Salesforce Professional Edition에서 Marketo Sales Insight 구성](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/configuration/configure-marketo-sales-insight-in-salesforce-professional-edition.md)
->* [Salesforce Enterprise/Unlimited에서 Marketo Sales Insight 구성](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/configuration/configure-marketo-sales-insight-in-salesforce-enterprise-unlimited.md)
->* [프로필에 판매 통찰력 액세스 추가](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/configuration/add-sales-insight-access-to-profiles.md){target="_blank"}
+>* [구성 [!DNL Marketo Sales Insight] in [!DNL Salesforce] 전문 에디션](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/configuration/configure-marketo-sales-insight-in-salesforce-professional-edition.md)
+>* [구성 [!DNL Marketo Sales Insight] in [!DNL Salesforce] Enterprise/Unlimited](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/configuration/configure-marketo-sales-insight-in-salesforce-enterprise-unlimited.md)
+>* [프로필에 판매 Insight 액세스 추가](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/configuration/add-sales-insight-access-to-profiles.md){target="_blank"}

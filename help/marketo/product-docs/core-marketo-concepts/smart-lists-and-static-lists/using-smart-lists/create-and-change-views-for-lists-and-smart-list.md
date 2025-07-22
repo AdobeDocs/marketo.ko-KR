@@ -4,9 +4,9 @@ description: 목록 및 스마트 목록에 대한 보기 만들기 및 변경 -
 title: 목록 및 스마트 목록 보기 만들기 및 변경
 exl-id: a1661990-ae10-4f8e-9eed-ada6564136d9
 feature: Smart Lists
-source-git-commit: ac7d6b222ca561c88e0bf10aba7736c1b2eee3f7
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '224'
+source-wordcount: '211'
 ht-degree: 0%
 
 ---
@@ -17,7 +17,7 @@ ht-degree: 0%
 
 ## 보기 만들기 {#create-a-view}
 
-1. 목록 또는 스마트 목록으로 이동하여 **[!UICONTROL 사람]** 탭을 클릭하고 **[!UICONTROL 보기]** 드롭다운 아래의 **[!UICONTROL 보기 만들기]**&#x200B;를 클릭합니다.
+1. 목록 또는 스마트 목록으로 이동하여 **[!UICONTROL People]** 탭을 클릭하고 **[!UICONTROL Create View]** 드롭다운 아래의 **[!UICONTROL View]**&#x200B;을(를) 클릭합니다.
 
    ![](assets/create-and-change-views-for-lists-and-smart-list-1.png)
 
@@ -25,17 +25,17 @@ ht-degree: 0%
 
    ![](assets/create-and-change-views-for-lists-and-smart-list-2.png)
 
-1. 원하는 열을 추가/제거한 다음 **[!UICONTROL 만들기]**&#x200B;를 클릭합니다.
+1. 원하는 열을 추가/제거한 다음 **[!UICONTROL Create]**&#x200B;을(를) 클릭합니다.
 
    ![](assets/create-and-change-views-for-lists-and-smart-list-3.png)
 
 >[!TIP]
 >
->빠르게 검색하려면 **찾기** 상자를 사용하십시오.
+>빠르게 검색하려면 **[!UICONTROL Find]** 상자를 사용하십시오.
 
 ## 보기 전환 {#switch-views}
 
-1. **[!UICONTROL 보기]** 드롭다운을 클릭한 다음 원하는 보기를 선택합니다. 필요에 따라 보기 사이를 전환합니다.
+1. **[!UICONTROL View]** 드롭다운을 클릭한 다음 원하는 보기를 선택합니다. 필요에 따라 보기 사이를 전환합니다.
 
    ![](assets/create-and-change-views-for-lists-and-smart-list-4.png)
 
@@ -45,25 +45,25 @@ ht-degree: 0%
 
 ## 보기 편집 {#edit-a-view}
 
-1. 편집할 보기를 **[!UICONTROL 보기]** 드롭다운에서 선택해야 합니다.
+1. 편집할 보기를 **[!UICONTROL View]** 드롭다운에서 선택해야 합니다.
 
    ![](assets/create-and-change-views-for-lists-and-smart-list-5.png)
 
-1. **[!UICONTROL 편집]** 옵션을 클릭합니다.
+1. **[!UICONTROL Edit]** 옵션을 클릭합니다.
 
    ![](assets/create-and-change-views-for-lists-and-smart-list-6.png)
 
-1. 원하는 대로 변경하고 **[!UICONTROL 저장]**&#x200B;을 클릭합니다.
+1. 원하는 대로 변경하고 **[!UICONTROL Save]**&#x200B;을(를) 클릭합니다.
 
    ![](assets/create-and-change-views-for-lists-and-smart-list-7.png)
 
 ## 보기 삭제 {#delete-a-view}
 
-1. **[!UICONTROL 보기]** 드롭다운에서 삭제할 보기에 대한 **[!UICONTROL 편집]** 옵션을 선택합니다.
+1. **[!UICONTROL Edit]** 드롭다운에서 삭제할 보기에 대한 **[!UICONTROL View]** 옵션을 선택합니다.
 
    ![](assets/create-and-change-views-for-lists-and-smart-list-8.png)
 
-1. **[!UICONTROL 삭제]**&#x200B;를 클릭합니다.
+1. **[!UICONTROL Delete]**&#x200B;을(를) 클릭합니다.
 
    ![](assets/create-and-change-views-for-lists-and-smart-list-9.png)
 

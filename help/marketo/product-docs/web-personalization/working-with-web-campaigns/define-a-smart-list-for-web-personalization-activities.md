@@ -4,20 +4,20 @@ description: 웹 Personalization 활동에 대한 스마트 목록 정의 - Mark
 title: 웹 Personalization 활동에 대한 스마트 목록 정의
 exl-id: 9987f922-f50c-47b3-aef6-230326b094fc
 feature: Web Personalization
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '299'
+source-wordcount: '287'
 ht-degree: 0%
 
 ---
 
-# 웹 Personalization 활동에 대한 스마트 목록 정의 {#define-a-smart-list-for-web-personalization-activities}
+# [!DNL Web Personalization]개 활동에 대한 스마트 목록 정의 {#define-a-smart-list-for-web-personalization-activities}
 
-스마트 캠페인에서 스마트 목록을 정의할 때 필터 및 트리거에서 웹 Personalization 활동을 사용할 수 있습니다. 여기서는 웹 Personalization 클릭 유도 문안(캠페인)을 클릭한 사용자를 캡처합니다.
+스마트 캠페인에서 스마트 목록을 정의하는 경우 필터 및 트리거에서 [!DNL Web Personalization] 활동을 사용할 수 있습니다. 여기에서 [!DNL Web Personalization] call to action(캠페인)를 클릭한 모든 사용자를 캡처하려고 합니다.
 
-트리거를 사용하여 이메일 또는 경고를 보내거나 웹 Personalization 콜 투 액션을 클릭하고 참여한 방문자를 기준으로 값 또는 점수를 변경합니다. 또한 웹 Personalization 콜 투 액션을 클릭한 리드를 필터링하고 볼 수 있습니다.
+트리거를 사용하여 전자 메일 또는 경고를 보내거나 [!DNL Web Personalization] call to action을 클릭하고 참여한 방문자를 기준으로 값 또는 점수를 변경합니다. [!DNL Web Personalization] call to action을 클릭한 리드를 필터링하고 볼 수도 있습니다.
 
-1. 스마트 캠페인에서 **스마트 목록** 탭을 클릭합니다.
+1. 스마트 캠페인에서 **[!UICONTROL Smart List]** 탭을 클릭합니다.
 
    ![](assets/image2016-2-9-10-3a49-3a18.png)
 

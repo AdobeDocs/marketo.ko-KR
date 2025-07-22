@@ -4,10 +4,10 @@ description: ID 추가 - Marketo 문서 - 제품 설명서
 title: ID 추가
 exl-id: 6656b852-1c72-4a0a-b641-7ef1925f22a7
 feature: Marketo Sales Connect
-source-git-commit: 02b2e39580c5eac63de4b4b7fdaf2a835fdd4ba5
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '169'
-ht-degree: 0%
+source-wordcount: '164'
+ht-degree: 1%
 
 ---
 
@@ -21,11 +21,11 @@ ht-degree: 0%
 
 1. 설정 아이콘을 클릭합니다.
 
-1. **전자 메일 설정**&#x200B;을 클릭합니다.
+1. **[!UICONTROL Email Settings]**&#x200B;을(를) 클릭합니다.
 
-1. **ID 추가**&#x200B;를 클릭합니다.
+1. **[!UICONTROL Add Identity]**&#x200B;을(를) 클릭합니다.
 
-1. 정보(전자 메일 및 이름은 필수 필드)를 입력하고 완료되면 **만들기**&#x200B;를 클릭하세요.
+1. 정보(전자 메일 및 이름은 필수 필드임)를 입력하고 완료되면 **[!UICONTROL Create]**&#x200B;을(를) 클릭하십시오.
 
 1. 받은 확인 이메일의 링크를 클릭합니다.
 

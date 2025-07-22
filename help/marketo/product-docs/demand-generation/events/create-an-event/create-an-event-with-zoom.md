@@ -1,27 +1,27 @@
 ---
 unique-page-id: 17728023
-description: 확대/축소를 사용하여 이벤트 만들기 - Marketo 문서 - 제품 설명서
-title: 확대/축소를 사용하여 이벤트 만들기
+description: ' [!DNL Zoom] - Marketo 문서 - 제품 설명서를 사용하여 이벤트 만들기'
+title: ' [!DNL Zoom](으)로 이벤트 만들기'
 exl-id: 6a2aec58-902c-4e40-ab59-9cc33ec83cea
 feature: Events
-source-git-commit: c10ecc0ccad28f2e480343acefe10f5eca2ae578
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '565'
+source-wordcount: '531'
 ht-degree: 0%
 
 ---
 
-# 확대/축소를 사용하여 이벤트 만들기 {#create-an-event-with-zoom}
+# [!DNL Zoom]&#x200B;(으)로 이벤트 만들기 {#create-an-event-with-zoom}
 
 >[!PREREQUISITES]
 >
->* [LaunchPoint 서비스로 확대/축소 추가](/help/marketo/product-docs/administration/additional-integrations/add-zoom-as-a-launchpoint-service.md)
+>* [추가 [!DNL Zoom] as a [!DNL LaunchPoint] 서비스](/help/marketo/product-docs/administration/additional-integrations/add-zoom-as-a-launchpoint-service.md)
 >* [새 이벤트 프로그램 만들기](/help/marketo/product-docs/demand-generation/events/understanding-events/create-a-new-event-program.md)
 >* 참여를 추적하려면 적절한 [흐름 동작](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/add-a-flow-step-to-a-smart-campaign.md)을 설정하십시오.
 
-먼저 확대/축소에서 웨비나를 만듭니다. 확대/축소 만들기의 특정 설정은 Marketo에서 사용되며 일부는 확대/축소에서만 사용됩니다.
+먼저 [!DNL Zoom]에서 웨비나를 만듭니다. [!DNL Zoom] 만들기의 특정 설정은 Marketo에서 사용되며, 일부는 [!DNL Zoom]에서만 사용됩니다.
 
-Marketo 이벤트를 만들고 Zoom 웨비나를 관련 지으면 시스템에서 등록 및 출석 정보를 공유할 수 있습니다. 웨비나를 만드는 데 도움이 필요하면 [확대/축소 웨비나 시작](https://support.zoom.us/hc/en-us/articles/200917029-Getting-Started-With-Webinar)을 참조하세요.
+Marketo 이벤트를 만들고 [!DNL Zoom] 웨비나를 이 이벤트와 연결하면 시스템에서 등록 및 참석 정보를 공유할 수 있습니다. 웨비나를 만드는 데 도움이 필요하면 [시작 [!DNL Zoom] 웨비나](https://support.zoom.us/hc/en-us/articles/200917029-Getting-Started-With-Webinar)를 참조하십시오.
 
 웨비나에 대한 다음 정보를 입력하면 어댑터를 통해 Marketo으로 가져옵니다. 이 정보를 변경하는 경우 Marketo에서 변경 사항을 보려면 이벤트 작업 아래의 &quot;웨비나 공급자에서 새로 고침&quot; 링크를 클릭해야 합니다.
 
@@ -43,21 +43,21 @@ Marketo 이벤트를 만들고 Zoom 웨비나를 관련 지으면 시스템에�
 
 * **되풀이 웨비나**- 선택하지 않은 상태로 유지합니다.
 
-* **등록** - 등록이 필요하도록 하려면 이 확인란을 선택하십시오. Marketo 양식/랜딩 페이지를 사용하여 확대/축소로 푸시할 등록 정보를 캡처합니다.
+* **등록** - 등록이 필요하도록 하려면 이 확인란을 선택하십시오. Marketo 양식/랜딩 페이지를 사용하여 [!DNL Zoom]에 푸시될 등록 정보를 캡처합니다.
 
 >[!NOTE]
 >
->Marketo은 현재 반복 웨비나를 지원하지 않습니다. 각 Marketo 이벤트와 확대/축소 웨비나 간에 단일 세션을 설정해야 합니다.
+>Marketo은 현재 반복 웨비나를 지원하지 않습니다. 각 Marketo 이벤트와 [!DNL Zoom] 웨비나 사이에 단일 세션을 설정해야 합니다.
 
 ![](assets/overview2.png)
 
 >[!TIP]
 >
->통합에 영향을 주지 않고 확대/축소에서 구성할 추가 필드가 있습니다. 이러한 필드에 대한 자세한 내용은 [확대/축소 웨비나 도움말 센터](https://support.zoom.us/hc/en-us/sections/200324965-Video-Webinar)를 참조하십시오.
+>통합에 영향을 주지 않는 [!DNL Zoom]에서 구성할 추가 필드가 있습니다. 이러한 필드에 대한 자세한 내용은 [[!DNL Zoom] 웨비나 도움말 센터](https://support.zoom.us/hc/en-us/sections/200324965-Video-Webinar)를 참조하십시오.
 
 이제 Marketo으로 뛰어들어 보겠습니다!
 
-1. 이벤트를 선택합니다. **이벤트 작업**&#x200B;을 클릭하고 **이벤트 설정**&#x200B;을 선택하세요.
+1. 이벤트를 선택합니다. **[!UICONTROL Event Actions]**&#x200B;을(를) 클릭하고 **[!UICONTROL Event Settings]**&#x200B;을(를) 선택합니다.
 
    ![](assets/image2015-5-14-14-3a53-3a10-1.png)
 
@@ -65,11 +65,11 @@ Marketo 이벤트를 만들고 Zoom 웨비나를 관련 지으면 시스템에�
    >
    >선택한 이벤트의 채널 형식은 **웨비나**&#x200B;여야 합니다.
 
-1. **이벤트** **파트너** 목록에서 **확대/축소**&#x200B;을(를) 선택하십시오.
+1. **[!UICONTROL Zoom]** 목록에서 **[!UICONTROL Event Partner]** 선택.
 
    ![](assets/eventsettings1.png)
 
-1. 이벤트를 연결할 확대/축소 계정을 선택합니다.
+1. 이벤트를 연결할 [!DNL Zoom] 계정을 선택하십시오.
 
    ![](assets/selectaccount.png)
 
@@ -77,11 +77,11 @@ Marketo 이벤트를 만들고 Zoom 웨비나를 관련 지으면 시스템에�
 
    ![](assets/selectevent.png)
 
-1. **저장**&#x200B;을 클릭합니다.
+1. **[!UICONTROL Save]**&#x200B;을(를) 클릭합니다.
 
    ![](assets/eventsettingssave.png)
 
-   훌륭합니다! 이제 이벤트가 Zoom에 의해 동기화되고 예약됩니다.
+   훌륭합니다! 이제 이벤트가 [!DNL Zoom]에 의해 동기화되고 예약됩니다.
 
    >[!NOTE]
    >
@@ -93,7 +93,7 @@ Marketo 이벤트를 만들고 Zoom 웨비나를 관련 지으면 시스템에�
    >
    >등록 및 구독 취소 가능성이 있는 사람이 여전히 확인 정보를 받도록 하려면 확인 이메일을 **작동**(으)로 설정하십시오.
 
-   새 상태가 &quot;등록됨&quot;으로 설정되면 웨비나에 등록한 사용자는 **프로그램 상태 변경** 흐름 단계를 통해 웨비나 공급자에게 푸시됩니다. 다른 상태는 사용자를 밀어내지 않습니다. 또한 **프로그램 상태 변경** 흐름 단계 #1 및 **전자 메일 보내기** 흐름 단계를 #2.
+   **[!UICONTROL Change Program Status]**&#x200B;이(가) &quot;등록됨&quot;으로 설정되면 웨비나에 등록한 사용자는 [!UICONTROL New Status] 흐름 단계를 통해 웨비나 공급자에게 푸시됩니다. 다른 상태는 사용자를 밀어내지 않습니다. 또한 **[!UICONTROL Change Program Status]** 흐름 단계를 #1, **[!UICONTROL Send Email]** 흐름 단계를 #2 합니다.
 
    ![](assets/goto-webinar-1.png)
 

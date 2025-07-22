@@ -4,9 +4,9 @@ description: 웹 사이트에  [!DNL Munchkin] 추적 코드 추가 - Marketo �
 title: 웹 사이트에  [!DNL Munchkin] 추적 코드 추가
 exl-id: a03a7f11-8d5e-4325-b975-8fc350711da0
 feature: Administration, Munchkin Tracking Code
-source-git-commit: e3f61755dccd9bea1378a429fc428b440fc3ecb4
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '634'
+source-wordcount: '633'
 ht-degree: 1%
 
 ---
@@ -33,7 +33,7 @@ Marketo의 사용자 지정 JavaScript 추적 코드([!DNL Munchkin])는 웹 사
 
    ![](assets/add-munchkin-tracking-code-to-your-website-2.png)
 
-1. **[!UICONTROL Tracking Code Type]**&#x200B;에 대해 **[!UICONTROL Asynchronous]**&#x200B;을(를) 선택하십시오.
+1. **[!UICONTROL Asynchronous]**&#x200B;에 대해 **[!UICONTROL Tracking Code Type]**&#x200B;을(를) 선택하십시오.
 
    ![](assets/add-munchkin-tracking-code-to-your-website-3.png)
 
@@ -59,7 +59,7 @@ Marketo의 사용자 지정 JavaScript 추적 코드([!DNL Munchkin])는 웹 사
 
    >[!TIP]
    >
-   >많은 양의 트래픽(즉, 매월 수십만 건의 방문)이 표시되는 사이트의 경우 익명의 사용자를 추적하지 않도록 선택하는 것이 좋습니다. [자세히 알아보기](https://experienceleague.adobe.com/ko/docs/marketo-developer/marketo/javascriptapi/leadtracking/lead-tracking){target="_blank"}
+   >많은 양의 트래픽(즉, 매월 수십만 건의 방문)이 표시되는 사이트의 경우 익명의 사용자를 추적하지 않도록 선택하는 것이 좋습니다. [자세히 알아보기](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/javascriptapi/leadtracking/lead-tracking){target="_blank"}
 
 ## 여러 작업 공간을 사용할 때 추적 코드 추가 {#add-tracking-code-when-using-multiple-workspaces}
 
@@ -81,7 +81,7 @@ Marketo 계정에서 Workspaces를 사용하는 경우 작업 공간에 해당�
    >
    >특수 작업 영역 [!DNL Munchkin] 코드를 사용하지 않는 경우 계정을 설정할 때 만든 기본 파티션에 사람이 할당됩니다. 처음에는 &quot;[!UICONTROL Default]&quot;(이)라는 이름을 사용했지만, 자신의 Marketo 계정에서 변경했을 수 있습니다.
 
-1. **[!UICONTROL Tracking Code Type]**&#x200B;에 대해 **[!UICONTROL Asynchronous]**&#x200B;을(를) 선택하십시오.
+1. **[!UICONTROL Asynchronous]**&#x200B;에 대해 **[!UICONTROL Tracking Code Type]**&#x200B;을(를) 선택하십시오.
 
    ![](assets/add-munchkin-tracking-code-to-your-website-9.png)
 
@@ -141,4 +141,4 @@ Marketo 계정에서 Workspaces를 사용하는 경우 작업 공간에 해당�
 
    >[!NOTE]
    >
-   >데이터가 표시되지 않으면 몇 분 정도 기다린 다음 맨 아래에 있는 새로 고침 아이콘을 클릭합니다.
+   >데이터가 표시되지 않으면 몇 분 정도 기다린 후 맨 아래에 있는 [!UICONTROL refresh] 아이콘을 클릭합니다.

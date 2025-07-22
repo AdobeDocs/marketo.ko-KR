@@ -3,16 +3,16 @@ description: 이메일 연결 제한 - Marketo 문서 - 제품 설명서
 title: 이메일 연결 제한
 exl-id: 02450a1e-5b30-4057-b204-19fab1a7d6c9
 feature: Sales Insight Actions
-source-git-commit: 19f60f58ae4de26536b304eb8ae9677ecc221993
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '419'
+source-wordcount: '396'
 ht-degree: 0%
 
 ---
 
 # 이메일 연결 제한 {#email-connection-throttling}
 
-Exchange 또는 Gmail 이메일 공급자를 통해 전송하기 위해 Sales Connect 계정을 통합하면 간소화된 설정이 제공되며 1:1 판매 커뮤니케이션을 위한 이메일 전달성을 최적화합니다. 그러나 시스템의 상태와 계정의 안전을 유지하기 위해 Gmail 및 Exchange는 이메일 전송 제한을 적용합니다. 이러한 한계는 제공자의 재량에 따라 증감될 여지가 있다.
+[!DNL Sales Connect] 계정을 통합하여 [!DNL Exchange] 또는 Gmail 전자 메일 공급자를 통해 보낼 수 있으므로 설정이 간소화되며 1:1 판매 커뮤니케이션에 대한 전자 메일 배달 가능성을 최적화합니다. 그러나 시스템의 상태와 계정의 안전을 유지하기 위해 Gmail 및 [!DNL Exchange]에서 전자 메일 전송 제한을 적용합니다. 이러한 한계는 제공자의 재량에 따라 증감될 여지가 있다.
 
 ## 이메일 연결 제한(Beta) {#email-connection-throttling-beta}
 
@@ -22,22 +22,22 @@ Exchange 또는 Gmail 이메일 공급자를 통해 전송하기 위해 Sales Co
 
 **메모/하이라이트**
 
-* 사용자가 Gmail 또는 Exchange에 연결하면 자동으로 활성화됨
+* 사용자가 Gmail 또는 [!DNL Exchange]에 연결하면 자동으로 활성화됨
 * 필요에 맞게 추천에서 설정을 늘리거나 줄이려면 사용자 지정할 수 있습니다
-* Gmail 또는 Exchange를 통해 전송된 이메일만 제한하며 사용자 지정 게재 채널에는 제한하지 않습니다.
+* Gmail 또는 [!DNL Exchange]을(를) 통해 보낸 전자 메일만 제한합니다. 사용자 지정 게재 채널에는 제한하지 않습니다.
 * 이메일 연결 조절은 각 사용자가 이메일 공급자와 자체 연결을 가지고 있으므로 각 개별 사용자의 이메일을 별도로 큐에 추가합니다
 
 **전자 메일 연결 제한 설정 구성**
 
-1. 톱니바퀴 아이콘을 클릭하고 **설정**&#x200B;을 선택합니다.
+1. 톱니바퀴 아이콘을 클릭하고 **[!UICONTROL Settings]**&#x200B;을(를) 선택합니다.
 
    ![](assets/email-connection-throttling-1.png)
 
-1. 관리자 설정에서 **일반**&#x200B;을 클릭합니다.
+1. [!UICONTROL Admin Settings]에서 **[!UICONTROL General]**&#x200B;을(를) 클릭합니다.
 
    ![](assets/email-connection-throttling-2.png)
 
-1. 오른쪽의 전자 메일 연결 제한 카드에서 **전자 메일 제한 사용** 슬라이더를 클릭합니다.
+1. 오른쪽의 전자 메일 연결 제한 카드에서 **[!UICONTROL Enable Email Throttling]** 슬라이더를 클릭합니다.
 
    ![](assets/email-connection-throttling-3.png)
 
@@ -49,15 +49,15 @@ Exchange 또는 Gmail 이메일 공급자를 통해 전송하기 위해 Sales Co
 
    ![](assets/email-connection-throttling-5.png)
 
-1. **저장**&#x200B;을 클릭합니다.
+1. **[!UICONTROL Save]**&#x200B;을(를) 클릭합니다.
 
    ![](assets/email-connection-throttling-6.png)
 
-변경 사항이 저장되면 모든 사용자는 연결된 Gmail 또는 Exchange 계정에 이메일을 일괄적으로 보내 배달할 수 있습니다.
+변경 내용이 저장되면 모든 사용자는 연결된 Gmail 또는 [!DNL Exchange] 계정으로 전자 메일을 일괄적으로 전송하여 배달할 수 있습니다.
 
 ## 이메일 공급자 제한 {#email-provider-limits}
 
-**Outlook 365**
+**[!DNL Outlook 365]**
 
 비즈니스/엔터프라이즈
 
@@ -75,7 +75,7 @@ Exchange 또는 Gmail 이메일 공급자를 통해 전송하기 위해 Sales Co
 
 [자세한 정보는 여기에서 찾을 수 있습니다](https://support.google.com/a/answer/166852?hl=en).
 
-**Microsoft Exchange Server(2010, 2013)**
+**[!DNL Microsoft Exchange Server (2010, 2013)]**
 
 서버가 조직에 의해 호스팅되므로 조직의 IT 부서에서 한도를 설정합니다. 추가 정보는 해당되는 경우 네트워크 또는 시스템 관리자에게 문의하십시오.
 

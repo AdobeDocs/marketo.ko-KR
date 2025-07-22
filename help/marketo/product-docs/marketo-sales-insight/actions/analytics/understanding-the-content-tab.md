@@ -3,16 +3,16 @@ description: 콘텐츠 탭 이해 - Marketo 문서 - 제품 설명서
 title: 콘텐츠 탭 이해
 exl-id: 67d13ce6-8a21-4dce-b865-3e7115ac4c4b
 feature: Sales Insight Actions
-source-git-commit: 02b2e39580c5eac63de4b4b7fdaf2a835fdd4ba5
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '184'
+source-wordcount: '182'
 ht-degree: 0%
 
 ---
 
-# 콘텐츠 탭 이해 {#understanding-the-content-tab}
+# [!UICONTROL Content] 탭 이해 {#understanding-the-content-tab}
 
-콘텐츠 탭은 템플릿을 사용할 때 팀의 이메일 참여에 대한 모든 정보를 제공합니다. 중요하다고 생각되는 3개의 지표를 자동으로 버블링합니다.
+[!UICONTROL Content] 탭은 템플릿을 사용할 때 팀의 이메일 참여에 대한 모든 정보를 제공합니다. 중요하다고 생각되는 3개의 지표를 자동으로 버블링합니다.
 
 ## 비밀 무기 {#secret-weapon}
 

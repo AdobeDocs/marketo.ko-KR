@@ -4,22 +4,22 @@ description: 성능 통찰력 빠른 차트 - Marketo 문서 - 제품 설명서
 title: 성능 통찰력 빠른 차트
 exl-id: 3989ae49-7c52-4966-ba75-e58d001d0241
 feature: Reporting
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '185'
+source-wordcount: '164'
 ht-degree: 0%
 
 ---
 
-# 성능 통찰력 빠른 차트 {#performance-insights-quick-charts}
+# [!UICONTROL Performance Insights] [!UICONTROL Quick Charts] {#performance-insights-quick-charts}
 
-빠른 차트 는 사용자 정의하고 저장하는 축소판으로서 가장 많이 사용하는 차트를 빠르게 볼 수 있습니다.
+[!UICONTROL Quick Charts]은(는) 사용자 지정하고 저장하는 썸네일로, 가장 많이 사용하는 차트를 빠르게 볼 수 있습니다.
 
 ## 새 빠른 차트 만들기 {#create-a-new-quick-chart}
 
-빠른 차트는 사용자가 지정하는 데이터에서 가져옵니다. 이 예제에서는 **새 영업 기회(첫 번째 터치), 영업 기회 유형 = 새 비즈니스, 올해 초부터 현재까지**&#x200B;를 선택합니다.
+[!UICONTROL Quick Charts]은(는) 지정한 데이터에서 파생됩니다. 이 예제에서는 **새 영업 기회(첫 번째 터치), 영업 기회 유형 = 새 비즈니스, 올해 초부터 현재까지**&#x200B;를 선택합니다.
 
-1. 날짜 필터를 클릭하고 **현재 연도(YTD)**&#x200B;를 선택합니다.
+1. 날짜 필터를 클릭하고 **[!UICONTROL Current Year (YTD)]**&#x200B;을(를) 선택합니다.
 
    ![](assets/1-2.png)
 
@@ -31,11 +31,11 @@ ht-degree: 0%
 
    ![](assets/3-3.png)
 
-1. 내보내기 아이콘을 클릭하고 **빠른 차트로 저장**&#x200B;을 선택합니다.
+1. 내보내기 아이콘을 클릭하고 **[!UICONTROL Save as Quick Chart]**&#x200B;을(를) 선택합니다.
 
    ![](assets/4-2.png)
 
-1. 빠른 차트 이름을 지정하고 **저장**&#x200B;을 클릭하세요.
+1. 빠른 차트 이름을 지정하고 **[!UICONTROL Save]**&#x200B;을(를) 클릭합니다.
 
    ![](assets/5-3.png)
 
@@ -49,7 +49,7 @@ ht-degree: 0%
 
 ## 기존 빠른 차트 보기 {#view-existing-quick-charts}
 
-1. 기존 빠른 차트를 보려면 **빠른 차트** 아이콘을 클릭하면 됩니다.
+1. 기존 빠른 차트를 보려면 **[!UICONTROL Quick Charts]** 아이콘을 클릭하면 됩니다.
 
    ![](assets/7-1.png)
 
@@ -57,7 +57,7 @@ ht-degree: 0%
 
 빠른 차트를 삭제해야 하는 경우 다음 간단한 단계를 수행합니다.
 
-1. **빠른 차트** 아이콘을 클릭합니다.
+1. **[!UICONTROL Quick Charts]** 아이콘을 클릭합니다.
 
    ![](assets/8-1.png)
 
@@ -65,6 +65,6 @@ ht-degree: 0%
 
    ![](assets/9-2.png)
 
-1. **삭제**&#x200B;를 클릭합니다.
+1. **[!UICONTROL Delete]**&#x200B;을(를) 클릭합니다.
 
    ![](assets/10-1.png)

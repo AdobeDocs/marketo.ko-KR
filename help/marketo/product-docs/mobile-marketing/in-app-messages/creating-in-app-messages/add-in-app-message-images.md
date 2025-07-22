@@ -4,9 +4,9 @@ description: 인앱 메시지 이미지 추가 - Marketo 문서 - 제품 설명�
 title: 인앱 메시지 이미지 추가
 exl-id: b4617338-04bc-4235-bff1-7ec89a9b2c6a
 feature: Mobile Marketing
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '344'
+source-wordcount: '334'
 ht-degree: 0%
 
 ---
@@ -15,7 +15,7 @@ ht-degree: 0%
 
 인앱 메시지 이미지를 선택하고 맞춤화할 수 있습니다.
 
-1. 인앱 메시지를 선택하고 **초안 편집**&#x200B;을 클릭합니다.
+1. 인앱 메시지를 선택하고 **[!UICONTROL Edit Draft]**&#x200B;을(를) 클릭합니다.
 
    ![](assets/image2016-5-4-10-3a20-3a14.png)
 
@@ -27,15 +27,15 @@ ht-degree: 0%
 
    ![](assets/image2016-5-4-10-3a21-3a33.png)
 
-1. **스타일** 탭을 클릭하고 템플릿의 이미지 영역을 클릭합니다.
+1. **[!UICONTROL Style]** 탭을 클릭하고 템플릿의 이미지 영역을 클릭합니다.
 
    ![](assets/image2016-5-3-16-3a53-3a23.png)
 
-1. **이미지 선택**&#x200B;을 클릭합니다.
+1. **[!UICONTROL Select Image]**&#x200B;을(를) 클릭합니다.
 
    ![](assets/image2016-5-6-8-3a53-3a55.png)
 
-1. Design Studio에서 이미지를 선택하고 **선택**&#x200B;을 클릭합니다.
+1. Design Studio에서 이미지를 선택하고 **[!UICONTROL Select]**&#x200B;을(를) 클릭합니다.
 
    ![](assets/image2016-5-6-8-3a58-3a40.png)
 
@@ -47,11 +47,11 @@ ht-degree: 0%
 
    ![](assets/image2016-5-6-9-3a0-3a16.png)
 
-1. **제거**&#x200B;를 클릭합니다. 이제 다른 것을 고르세요.
+1. **[!UICONTROL Remove]**&#x200B;을(를) 클릭합니다. 이제 다른 것을 고르세요.
 
    ![](assets/image2016-5-6-9-3a1-3a3.png)
 
-1. 원하는 이미지를 적절히 배치한 상태에서 이미지 속성에서 높이, 너비 또는 둘 다로 이미지에 맞는 버튼을 선택합니다.
+1. 원하는 이미지를 적절히 배치한 상태에서 [!UICONTROL Image Properties]에서 높이, 너비 또는 둘 다로 이미지를 맞출 단추를 선택합니다.
 
    ![](assets/image2016-5-6-9-3a4-3a47.png)
 
@@ -85,7 +85,7 @@ ht-degree: 0%
 
    >[!NOTE]
    >
-   >이미지, 단추 또는 배경에 대한 탭 동작의 경우 Apple 및 Android 플랫폼에 대해 서로 다른 동작을 설정할 수 있습니다. 예를 들어 딥링크는 Apple 및 Android에서 다르게 처리됩니다. 메시지가 한 플랫폼 또는 다른 플랫폼으로만 이동하는 경우 다른 플랫폼은 기본 설정으로 유지하거나 **없음**&#x200B;을 선택하세요.
+   >이미지, 단추 또는 배경에 대한 탭 동작의 경우 Apple 및 Android 플랫폼에 대해 서로 다른 동작을 설정할 수 있습니다. 예를 들어 딥링크는 Apple 및 Android에서 다르게 처리됩니다. 메시지가 한 플랫폼 또는 다른 플랫폼으로만 이동하는 경우 다른 플랫폼은 기본 설정으로 유지하거나 **[!UICONTROL None]**&#x200B;을(를) 선택하십시오.
 
 훌륭합니다! 이제 [인앱 메시지에 대한 텍스트를 만들](/help/marketo/product-docs/mobile-marketing/in-app-messages/creating-in-app-messages/create-in-app-message-text.md)차례입니다.
 

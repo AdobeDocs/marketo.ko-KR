@@ -1,41 +1,41 @@
 ---
 unique-page-id: 37355602
-description: Microsoft Dynamics Online에서 Marketo Sales Insight 설치 및 구성 - Marketo 문서 - 제품 설명서
+description: Microsoft Dynamics Online에서 Marketo Sales Insight 설치 및 구성 - Marketo 설명서 - 제품 설명서
 title: Microsoft Dynamics Online에서 Marketo Sales Insight 설치 및 구성
 exl-id: 3b58b109-96f9-427e-be5c-a8db270ffe69
 feature: Marketo Sales Insights
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '497'
-ht-degree: 0%
+source-wordcount: '405'
+ht-degree: 2%
 
 ---
 
-# Microsoft Dynamics Online에서 Marketo Sales Insight 설치 및 구성 {#install-and-configure-marketo-sales-insight-in-microsoft-dynamics-online}
+# [!DNL Marketo Sales Insight]에서 [!DNL Microsoft Dynamics Online] 설치 및 구성 {#install-and-configure-marketo-sales-insight-in-microsoft-dynamics-online}
 
-Marketo Sales Insight는 영업 팀에 마케팅 팀이 보유한 풍부한 데이터를 &quot;창&quot;으로 볼 수 있는 환상적인 도구입니다. Microsoft Dynamics Online에서 설치하고 구성하는 방법은 다음과 같습니다.
+[!DNL Marketo Sales Insight]은(는) 영업 팀에 마케팅 팀이 보유한 풍부한 데이터를 &quot;창&quot;으로 제공할 수 있는 환상적인 도구입니다. [!DNL Microsoft Dynamics Online]에서 설치하고 구성하는 방법은 다음과 같습니다.
 
 >[!PREREQUISITES]
 >
 >Marketo-Microsoft 통합을 완료합니다.
 >
->사용 중인 Microsoft Dynamics CRM 버전에 대해 [올바른 솔루션을 다운로드합니다](/help/marketo/product-docs/marketo-sales-insight/msi-for-microsoft-dynamics/installing/download-the-marketo-sales-insight-solution-for-microsoft-dynamics.md).
+>[ 버전에 대해 ](/help/marketo/product-docs/marketo-sales-insight/msi-for-microsoft-dynamics/installing/download-the-marketo-sales-insight-solution-for-microsoft-dynamics.md)올바른 솔루션을 다운로드하십시오[!DNL Microsoft Dynamics CRM].
 
 ## 솔루션 가져오기 {#import-solution}
 
 >[!NOTE]
 >
->통합 인터페이스를 사용하는 경우 아래 1단계 전에 오른쪽 상단의 설정 아이콘을 클릭하고 **고급 설정**&#x200B;을 선택합니다.
+>통합 인터페이스를 사용하는 경우 아래 1단계 전에 오른쪽 상단의 설정 아이콘을 클릭하고 **[!UICONTROL Advanced Settings]**&#x200B;을(를) 선택합니다.
 
-1. Microsoft Dynamics CRM에서 **설정**&#x200B;을 클릭합니다.
+1. Microsoft Dynamics CRM에서 **[!UICONTROL Settings]**&#x200B;을(를) 클릭합니다.
 
    ![](assets/image2014-12-12-9-3a4-3a56-1.png)
 
-1. 설정에서 **사용자 지정**&#x200B;을 클릭합니다.
+1. 설정에서 **[!UICONTROL Customizations]**&#x200B;을(를) 클릭합니다.
 
    ![](assets/image2015-4-29-14-3a22-3a1-1.png)
 
-1. **솔루션**&#x200B;을 클릭합니다.
+1. **[!UICONTROL Solutions]**&#x200B;을(를) 클릭합니다.
 
    ![](assets/image2014-12-12-9-3a5-3a17-1.png)
 
@@ -43,29 +43,29 @@ Marketo Sales Insight는 영업 팀에 마케팅 팀이 보유한 풍부한 데�
    >
    >계속 진행하기 전에 Marketo 솔루션을 이미 설치 및 구성했어야 합니다.
 
-1. **가져오기**&#x200B;를 클릭합니다.
+1. **[!UICONTROL Import]**&#x200B;을(를) 클릭합니다.
 
    ![](assets/image2014-12-12-9-3a5-3a27-1.png)
 
-1. 새 창에서 **찾아보기**&#x200B;를 클릭합니다.
+1. 새 창에서 **[!UICONTROL Browse]**&#x200B;을(를) 클릭합니다.
 
    ![](assets/image2014-12-12-9-3a5-3a36-1.png)
 
 1. 컴퓨터에서 방금 다운로드한 솔루션을 찾아 설치합니다.
 
-1. **다음**&#x200B;을 클릭합니다.
+1. **[!UICONTROL Next]**&#x200B;을(를) 클릭합니다.
 
    ![](assets/seven.png)
 
-1. 솔루션이 업로드됩니다. 원한다면 패키지 콘텐츠를 볼 수 있습니다. **다음**&#x200B;을 클릭합니다.
+1. 솔루션이 업로드됩니다. 원한다면 패키지 콘텐츠를 볼 수 있습니다. **[!UICONTROL Next]**&#x200B;을(를) 클릭합니다.
 
    ![](assets/image2014-12-12-9-3a6-3a10-1.png)
 
-1. 상자를 선택한 상태로 두고 **가져오기**&#x200B;를 클릭합니다.
+1. 상자를 선택한 상태로 두고 **[!UICONTROL Import]**&#x200B;을(를) 클릭합니다.
 
    ![](assets/image2014-12-12-9-3a6-3a19-1.png)
 
-1. 언제든지 로그 파일을 다운로드한 다음 **닫기**&#x200B;를 클릭합니다.
+1. 언제든지 로그 파일을 다운로드한 다음 **[!UICONTROL Close]**&#x200B;을(를) 클릭합니다.
 
    ![](assets/image2014-12-12-9-3a6-3a29-1.png)
 
@@ -73,29 +73,29 @@ Marketo Sales Insight는 영업 팀에 마케팅 팀이 보유한 풍부한 데�
 
    ![](assets/eleven.png)
 
-1. **Publish 사용자 지정**&#x200B;을 클릭합니다.
+1. **[!UICONTROL Publish Customization]**&#x200B;을(를) 클릭합니다.
 
    >[!NOTE]
    >
-   >글로벌 MS Dynamics 동기화를 활성화해야 합니다.
+   >전역 [!DNL MS Dynamics] 동기화를 사용하도록 설정해야 합니다.
 
-## Marketo 및 Sales Insight 연결 {#connect-marketo-and-sales-insight}
+## Marketo 및 [!DNL Sales Insight] 연결 {#connect-marketo-and-sales-insight}
 
-Marketo 인스턴스를 Dynamics의 Sales Insight에 연결하겠습니다. 방법은 다음과 같습니다.
+Marketo 인스턴스를 [!DNL Sales Insight]의 [!DNL Dynamics]에 연결합니다. 방법은 다음과 같습니다.
 
 >[!NOTE]
 >
 >**관리자 권한 필요**
 
-1. Marketo에 로그인하고 **관리자** 섹션으로 이동합니다.
+1. Marketo에 로그인하고 **[!UICONTROL Admin]** 섹션으로 이동합니다.
 
    ![](assets/image2014-12-12-9-3a6-3a50-1.png)
 
-1. Sales Insight 섹션에서 **API 구성 편집**&#x200B;을 클릭합니다.
+1. [!UICONTROL Sales Insight] 섹션 아래에서 **[!UICONTROL Edit API Configuration]**&#x200B;을(를) 클릭합니다.
 
    ![](assets/image2014-12-12-9-3a7-3a0-1.png)
 
-1. 이후 단계에서 사용할 **Marketo 호스트**, **API URL** 및 **API 사용자 ID**&#x200B;를 복사하십시오. 원하는 API 비밀 키를 입력하고 **저장**&#x200B;을 클릭합니다.
+1. 이후 단계에서 사용할 **[!UICONTROL Marketo Host]**, **[!UICONTROL API URL]** 및 **[!UICONTROL API User Id]**&#x200B;을(를) 복사합니다. 원하는 API 비밀 키를 입력하고 **[!UICONTROL Save]**&#x200B;을(를) 클릭합니다.
 
    >[!CAUTION]
    >
@@ -105,77 +105,77 @@ Marketo 인스턴스를 Dynamics의 Sales Insight에 연결하겠습니다. 방�
 
    >[!NOTE]
    >
-   >Sales Insight가 작동하려면 _리드 및 연락처_&#x200B;를 위해 다음 필드를 Marketo과 동기화해야 합니다.
+   >_이(가) 작동하려면_&#x200B;리드 및 연락처[!DNL Sales Insight]에 대해 다음 필드를 Marketo과 동기화해야 합니다.
    >
-   >* 우선 순위
+   >* 우선순위
    >* 긴급도
    >* 상대 스코어
    >
    >이러한 필드 중 하나가 누락된 경우 누락된 필드 이름과 함께 Marketo에 오류 메시지가 표시됩니다. 이 문제를 해결하려면 [이 절차](/help/marketo/product-docs/marketo-sales-insight/msi-for-microsoft-dynamics/setting-up-and-using/required-fields-for-syncing-marketo-with-dynamics.md)를 수행하십시오.
 
-1. Microsoft Dynamics로 돌아가 **설정**(으)로 이동합니다.
+1. [!DNL Microsoft Dynamics]&#x200B;(으)로 돌아가서 **[!UICONTROL Settings]**(으)로 이동합니다.
 
    ![](assets/image2014-12-12-9-3a7-3a25-1.png)
 
-1. **설정**&#x200B;에서 **Marketo API 구성**&#x200B;을 클릭합니다.
+1. **[!UICONTROL Settings]**&#x200B;에서 **[!UICONTROL Marketo API Config]**&#x200B;을(를) 클릭합니다.
 
    ![](assets/image2014-12-12-9-3a7-3a34-1.png)
 
-1. **새로 만들기**&#x200B;를 클릭합니다.
+1. **[!UICONTROL New]**&#x200B;을(를) 클릭합니다.
 
    ![](assets/image2014-12-12-9-3a8-3a8-1.png)
 
-1. 이전에 Marketo에서 가져온 정보를 입력하고 **저장**&#x200B;을 클릭합니다.
+1. 이전에 Marketo에서 가져온 정보를 입력하고 **[!UICONTROL Save]**&#x200B;을(를) 클릭합니다.
 
    ![](assets/image2014-12-12-9-3a8-3a17-1.png)
 
 ## 동기화 활성화 {#enable-sync}
 
-1. Marketo에서 **관리자**&#x200B;를 클릭합니다.
+1. Marketo에서 **[!UICONTROL Admin]**&#x200B;을(를) 클릭합니다.
 
    ![](assets/enable-one.png)
 
-1. 통합에서 **Microsoft Dynamics**&#x200B;을(를) 선택합니다.
+1. 통합에서 **[!UICONTROL Microsoft Dynamics]**&#x200B;을(를) 선택합니다.
 
    ![](assets/enable-two.png)
 
-1. **동기화 사용**&#x200B;을 클릭합니다.
+1. **[!UICONTROL Enable Sync]**&#x200B;을(를) 클릭합니다.
 
    ![](assets/enable-three.png)
 
-1. 필드 동기화 세부 정보 옆에 있는 **편집**&#x200B;을 클릭합니다.
+1. **[!UICONTROL Edit]** 옆에 있는 [!UICONTROL Field Sync Details]을(를) 클릭합니다.
 
    ![](assets/enable-four.png)
 
-1. 이전에 사용하지 않도록 설정된 MSI 필드(긴급도, 상대 점수 및 우선 순위)를 _자동으로_&#x200B;선택합니다. 데이터 동기화를 시작하려면 **저장**&#x200B;을 클릭하세요.
+1. 이전에 비활성화된 MSI 필드(_,_ 및 [!UICONTROL Urgency])를 [!UICONTROL Relative Score]자동으로[!UICONTROL Priority]선택합니다. 데이터 동기화를 시작하려면 **[!UICONTROL Save]**&#x200B;을(를) 클릭하면 됩니다.
 
    ![](assets/enable-five.png)
 
 ## 사용자 액세스 설정 {#set-user-access}
 
-마지막으로, Marketo Sales Insight를 사용하려면 특정 사용자에게 액세스 권한을 부여해야 합니다.
+마지막으로 [!DNL Marketo Sales Insight]을(를) 사용하려면 특정 사용자에게 액세스 권한을 부여해야 합니다.
 
-1. **설정**(으)로 이동합니다.
+1. **[!UICONTROL Settings]**(으)로 이동합니다.
 
    ![](assets/image2014-12-12-9-3a8-3a34-1.png)
 
-1. **보안**(으)로 이동합니다.
+1. **[!UICONTROL Security]**(으)로 이동합니다.
 
    ![](assets/image2015-4-29-14-3a56-3a33-1.png)
 
-1. **사용자**&#x200B;를 클릭합니다.
+1. **[!UICONTROL Users]**&#x200B;을(를) 클릭합니다.
 
    ![](assets/image2015-4-29-14-3a57-3a46-1.png)
 
-1. Sales Insight에 대한 액세스 권한을 부여할 사용자를 선택하고 **역할 관리**&#x200B;를 클릭합니다.
+1. [!DNL Sales Insight]에게 액세스 권한을 부여할 사용자를 선택하고 **[!UICONTROL Manage Roles]**&#x200B;을(를) 클릭합니다.
 
    ![](assets/image2015-4-29-14-3a59-3a31-1.png)
 
-1. Marketo Sales Insight 역할을 선택하고 **확인**&#x200B;을 클릭합니다.
+1. [!DNL Marketo Sales Insight] 역할을 선택하고 **[!UICONTROL OK]**&#x200B;을(를) 클릭합니다.
 
    ![](assets/image2014-12-12-9-3a9-3a22-1.png)
 
-   그리고 넌 다 끝내야 해! 마지막으로 테스트하려면 Marketo Sales Insight에 액세스할 수 있는 사용자로 Dynamics에 로그인하여 잠재 고객 또는 연락처를 확인합니다.
+   그리고 넌 다 끝내야 해! 마지막으로 테스트하려면 [!DNL Dynamics]에 액세스할 수 있는 사용자로 [!DNL Marketo Sales Insight]에 로그인한 다음 잠재 고객 또는 연락처를 확인하십시오.
 
    ![](assets/image2015-4-29-15-3a2-3a27-1.png)
 

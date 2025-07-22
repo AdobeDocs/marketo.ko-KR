@@ -6,9 +6,9 @@ exl-id: d8cd9a54-53fd-4edd-8262-c63ec45a89a9
 hide: true
 hidefromtoc: true
 feature: Smart Campaigns
-source-git-commit: 7a8f5146126d6e8a4902be9337eef4d51e108cf0
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '134'
+source-wordcount: '130'
 ht-degree: 1%
 
 ---
@@ -22,7 +22,7 @@ _추천 오퍼_ 또는 _경품 행사_&#x200B;를 실행할 때 다음과 같은
 * **스마트 목록 트리거**
 * 사용자 지정 JavaScript 이벤트
 
-**스마트 목록 트리거** 옵션을 사용하여 목표를 지정하도록 선택한 경우 **레퍼러에 크레딧 제공** 흐름 단계를 사용해야 합니다.
+**스마트 목록 트리거** 옵션을 사용하여 목표를 지정하도록 선택한 경우 **[!UICONTROL Give Credit to Referrer]** 흐름 단계를 사용해야 합니다.
 
 ![](assets/give-credit-to-referrer-1.png)
 

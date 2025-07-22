@@ -4,9 +4,9 @@ description: 구독 취소 링크 메시지 사용자 지정 - Marketo 문서 - 
 title: 구독 취소 링크 메시지 사용자 지정
 exl-id: 565754ce-644c-4ba7-bb67-cd0b4dc0f7e1
 feature: Marketo Sales Connect
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '205'
+source-wordcount: '184'
 ht-degree: 0%
 
 ---
@@ -17,15 +17,15 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->이 정보는 데이터베이스에 다시 캡처되지 않으므로 Sales Connect에서 서드파티 구독 취소 링크를 사용할 수 없습니다.
+>[!DNL Sales Connect]의 타사 구독 취소 링크는 데이터베이스에 다시 캡처되지 않으므로 사용할 수 없습니다.
 
 ## 직접 메시징 맞춤화 {#customize-messaging-for-yourself}
 
-1. [웹 응용 프로그램](https://toutapp.com/login)에 로그인하고 오른쪽 상단의 톱니바퀴 아이콘을 클릭한 다음 **설정**&#x200B;을 선택합니다.
+1. [웹 응용 프로그램](https://toutapp.com/login)에 로그인하고 오른쪽 상단의 톱니바퀴 아이콘을 클릭한 다음 **[!UICONTROL Settings]**&#x200B;을(를) 선택합니다.
 
    ![](assets/one.png)
 
-1. 내 계정에서 **구독 취소**&#x200B;를 선택합니다.
+1. [!UICONTROL My Account]에서 **[!UICONTROL Unsubscribes]**&#x200B;을(를) 선택합니다.
 
    ![](assets/two-1.png)
 
@@ -41,24 +41,24 @@ ht-degree: 0%
    >
    >하이퍼링크되는 URL은 중요하지 않습니다. 이메일이 전송되면 하이퍼링크가 구독 취소 링크로 변환됩니다.
 
-1. **확인**&#x200B;을 클릭합니다.
+1. **[!UICONTROL OK]**&#x200B;을(를) 클릭합니다.
 
    ![](assets/five.png)
 
 ## 팀에 대한 구독 취소 메시징 설정 {#set-unsubscribe-messaging-for-your-team}
 
-1. [웹 응용 프로그램](https://toutapp.com/login)에 로그인하고 오른쪽 상단의 톱니바퀴 아이콘을 클릭한 다음 **설정**&#x200B;을 선택합니다.
+1. [웹 응용 프로그램](https://toutapp.com/login)에 로그인하고 오른쪽 상단의 톱니바퀴 아이콘을 클릭한 다음 **[!UICONTROL Settings]**&#x200B;을(를) 선택합니다.
 
    ![](assets/six.png)
 
-1. 관리자 설정에서 **구독 취소**&#x200B;를 선택합니다.
+1. [!UICONTROL Admin Settings]에서 **[!UICONTROL Unsubscribes]**&#x200B;을(를) 선택합니다.
 
    ![](assets/eight.png)
 
-1. 메시지를 사용자 지정하고 완료되면 **저장**&#x200B;을 클릭하세요.
+1. 메시지를 사용자 지정하고 완료되면 **[!UICONTROL Save]**&#x200B;을(를) 클릭합니다.
 
    ![](assets/seven.png)
 
-1. 메시지를 모든 사용자에게 적용하려면 **내 팀에 대한 기본 메시지를 설정하고 있습니다**&#x200B;을(를) 선택하십시오.
+1. 메시지를 모든 사용자에게 적용하려면 **[!UICONTROL I am setting the default messaging for my team]**&#x200B;을(를) 선택하십시오.
 
    ![](assets/eleven.png)

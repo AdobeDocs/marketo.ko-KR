@@ -4,103 +4,103 @@ description: 기본 Salesforce 필드 매핑 - Marketo 문서 - 제품 설명서
 title: 기본 Salesforce 필드 매핑
 exl-id: d6639733-f85d-4f4c-ac41-5d2a68a9c6b2
 feature: Salesforce Integration
-source-git-commit: 0087a5e88b8bd9601875f68a2e7cadeebdb5d682
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '363'
-ht-degree: 44%
+source-wordcount: '138'
+ht-degree: 2%
 
 ---
 
-# 기본 Salesforce 필드 매핑 {#default-salesforce-field-mapping}
+# 기본 [!DNL Salesforce] 필드 매핑 {#default-salesforce-field-mapping}
 
-처음에 Marketo Engage 계정을 Salesforce와 동기화하면 Marketo에서 기본 제공 Salesforce와 Marketo 필드 간에 이러한 연결을 자동으로 만듭니다. Marketo은 리드, 계정, 기회 및 연락처에서 사용자 정의 필드도 동기화합니다.
+Marketo Engage 계정을 Salesforce과 처음 동기화할 때 Marketo은 내장된 Salesforce과 Marketo 필드 간에 이러한 연결을 자동으로 만듭니다. Marketo은 리드, 계정, 기회 및 연락처에서 사용자 정의 필드도 동기화합니다.
 
 ## 리드 필드 {#lead-fields}
 
 | SFDC 필드 | Marketo 필드 |
 |---|---|
-| 연간 수익 | 연간 수익 |
-| 도시 | 도시 |
-| 회사 | 회사 이름 |
-| 전환된 날짜 | SFDC 변환일 |
-| 국가 | 국가 |
-| 만든 날짜 | SFDC 생성일 |
-| 설명 | 개인 메모 |
-| 이메일 | 이메일 주소 |
-| 팩스 | 팩스 번호 |
-| 이름 | 이름 |
-| 이메일 옵트아웃 | 주소 삭제 |
-| 산업 | 산업 |
-| 전환됨 | SFDC 변환됨 |
-| 삭제됨 | SFDC 삭제됨 |
-| 성 | 성 |
-| 잠재 고객 소스 | 소스 |
-| 잠재 고객 점수 | 스코어 |
-| 휴대폰 | 휴대폰 번호 |
-| 직원 | 직원 수 |
-| 전화 | 전화번호 |
-| Zip/우편 번호 | 우편 번호 |
-| 등급 | 등급 |
-| 인사말 | 인사말 |
-| 시/도 | 주 |
-| 상태 | 상태 |
-| 상세 주소 | 주소 |
-| 제목 | 직위 |
-| 웹 사이트 | 웹 사이트 |
+| [!UICONTROL Annual Revenue] | [!UICONTROL Annual Revenue] |
+| [!UICONTROL City] | [!UICONTROL City] |
+| [!UICONTROL Company] | [!UICONTROL Company Name] |
+| [!UICONTROL Converted Date] | [!UICONTROL SFDC Converted Date] |
+| [!UICONTROL Country] | [!UICONTROL Country] |
+| [!UICONTROL Created Date] | [!UICONTROL SFDC Created Date] |
+| [!UICONTROL Description] | [!UICONTROL Person Notes] |
+| [!UICONTROL Email] | [!UICONTROL Email Address] |
+| [!UICONTROL Fax] | [!UICONTROL Fax Number] |
+| [!UICONTROL First Name] | [!UICONTROL First Name] |
+| [!UICONTROL Email Opt Out] | [!UICONTROL Unsubscribed] |
+| [!UICONTROL Industry] | [!UICONTROL Industry] |
+| [!UICONTROL Converted] | [!UICONTROL SFDC Is Converted] |
+| [!UICONTROL Deleted] | [!UICONTROL SFDC Is Deleted] |
+| [!UICONTROL Last Name] | [!UICONTROL Last Name] |
+| [!UICONTROL Lead Source] | [!UICONTROL Source] |
+| [!UICONTROL Lead Score] | [!UICONTROL Score] |
+| [!UICONTROL Mobile Phone] | [!UICONTROL Mobile Phone Number] |
+| [!UICONTROL Employees] | [!UICONTROL Num Employees] |
+| [!UICONTROL Phone] | [!UICONTROL Phone Number] |
+| [!UICONTROL Zip/Postal Code] | [!UICONTROL Postal Code] |
+| [!UICONTROL Rating] | [!UICONTROL Rating] |
+| [!UICONTROL Salutation] | [!UICONTROL Salutation] |
+| [!UICONTROL State/Province] | [!UICONTROL State] |
+| [!UICONTROL Status] | [!UICONTROL Status] |
+| [!UICONTROL Street] | [!UICONTROL Address] |
+| [!UICONTROL Title] | [!UICONTROL Job Title] |
+| [!UICONTROL Website] | [!UICONTROL Website] |
 
 ## 연락처 필드 {#contact-fields}
 
 | SFDC 필드 | Marketo 필드 |
 |---|---|
-| 생일 | 생년월일 |
-| 만든 날짜 | SFDC 생성일 |
-| 연락처 설명 | 개인 메모 |
-| 이메일 | 이메일 주소 |
-| 회사 팩스 | 팩스 번호 |
-| 이름 | 이름 |
-| 이메일 옵트아웃 | 주소 삭제 |
-| 삭제됨 | SFDC 삭제됨 |
-| 성 | 성 |
-| 잠재 고객 소스 | 소스 |
-| 잠재 고객 점수 | 스코어 |
-| 메일링 시티 | 도시 |
-| MailingCountry | 국가 |
-| 메일링 우편 번호 | 우편 번호 |
-| 메일링 상태 | 주 |
-| 메일링 스트리트 | 주소 |
-| 휴대폰 | 휴대폰 번호 |
-| 회사 전화 | 전화번호 |
-| 인사말 | 인사말 |
-| 제목 | 직위 |
+| [!UICONTROL Birthdate] | [!UICONTROL Date of Birth] |
+| [!UICONTROL Created Date] | [!UICONTROL SFDC Created Date] |
+| [!UICONTROL Contact Description] | [!UICONTROL Person Notes] |
+| [!UICONTROL Email] | [!UICONTROL Email Address] |
+| [!UICONTROL Business Fax] | [!UICONTROL Fax Number] |
+| [!UICONTROL First Name] | [!UICONTROL First Name] |
+| [!UICONTROL Email Opt Out] | [!UICONTROL Unsubscribed] |
+| [!UICONTROL Deleted] | [!UICONTROL SFDC Is Deleted] |
+| [!UICONTROL Last Name] | [!UICONTROL Last Name] |
+| [!UICONTROL Lead Source] | [!UICONTROL Source] |
+| [!UICONTROL Lead Score] | [!UICONTROL Score] |
+| [!UICONTROL MailingCity] | [!UICONTROL City] |
+| [!UICONTROL MailingCountry] | [!UICONTROL Country] |
+| [!UICONTROL MailingPostalCode] | [!UICONTROL Postal Code] |
+| [!UICONTROL MailingState] | [!UICONTROL State] |
+| [!UICONTROL MailingStreet] | [!UICONTROL Address] |
+| [!UICONTROL Mobile Phone] | [!UICONTROL Mobile Phone Number] |
+| [!UICONTROL Business Phone] | [!UICONTROL Phone Number] |
+| [!UICONTROL Salutation] | [!UICONTROL Salutation] |
+| [!UICONTROL Title] | [!UICONTROL Job Title] |
 
 ## 계정 필드 {#account-fields}
 
-| SFDC 필드 | Marketo 필드 |
+| [!UICONTROL SFDC field] | [!UICONTROL Marketo field] |
 |---|---|
-| 연간 수익 | 연간 수익 |
-| 청구지 시 | 청구지 시 |
-| 청구지 국가 | 청구지 국가 |
-| 청구 Zip/우편 번호 | 청구지 우편번호 |
-| 청구 시/도 | 청구지 주 |
-| 청구지 | 청구지 주소 |
-| 계정 설명 | 회사 메모 |
-| 산업 | 산업 |
-| 삭제됨 | SFDC 삭제됨 |
-| 계정 이름 | 회사 이름 |
-| 직원 | 직원 수 |
-| 계정 전화 | 주요 전화 |
-| SIC 코드 | SIC 코드 |
-| 계정 사이트 | 위치 |
-| 계정 유형 | SFDC 유형 |
-| 웹 사이트 | 웹 사이트 |
+| [!UICONTROL Annual Revenue] | [!UICONTROL Annual Revenue] |
+| [!UICONTROL Billing City] | [!UICONTROL Billing City] |
+| [!UICONTROL Billing Country] | [!UICONTROL Billing Country] |
+| [!UICONTROL Billing Zip/Postal Code] | [!UICONTROL Billing Postal Code] |
+| [!UICONTROL Billing State/Province] | [!UICONTROL Billing State] |
+| [!UICONTROL Billing Street] | [!UICONTROL Billing Address] |
+| [!UICONTROL Account Description] | [!UICONTROL Company Notes] |
+| [!UICONTROL Industry] | [!UICONTROL Industry] |
+| [!UICONTROL Deleted] | [!UICONTROL SFDC Is Deleted] |
+| [!UICONTROL Account Name] | [!UICONTROL Company Name] |
+| [!UICONTROL Employees] | [!UICONTROL Num Employees] |
+| [!UICONTROL Account Phone] | [!UICONTROL Main Phone] |
+| [!UICONTROL SIC Code] | [!UICONTROL SIC Code] |
+| [!UICONTROL Account Site] | [!UICONTROL Site] |
+| [!UICONTROL Account Type] | [!UICONTROL SFDC Type] |
+| [!UICONTROL Website] | [!UICONTROL Website] |
 
-## Marketo의 Salesforce 관련 시스템 필드(읽기 전용) {#salesforce-related-system-fields-in-marketo-read-only}
+## Marketo의 [!DNL Salesforce] 관련 시스템 필드(읽기 전용) {#salesforce-related-system-fields-in-marketo-read-only}
 
 이러한 필드는 Marketo에서 생성되지만 고객이 조정할 수 없습니다.
 
 | 필드 | 설명 |
 |---|---|
-| SFDC Id | 18자 Salesforce ID |
+| SFDC Id | 18자 [!DNL Salesforce] ID |
 | SFDC 유형 | 리드 또는 연락처. 비어 있는 경우 잠재 고객은 Marketo의 사용자로만 존재합니다 |
 | SFDC 생성일 | SFDC에서 만든 날짜 (Marketo에서 만든 날짜와 다를 수 있음) |
-| SFDC가 삭제됨 | SFDC에 있었으나 삭제되었습니다. 이제 Marketo에서만 생활합니다. |
+| SFDC이 삭제되었습니다. | 이전에 SFDC에 있었으나 삭제되었습니다. 이제 Marketo에서만 살게 되었습니다. |

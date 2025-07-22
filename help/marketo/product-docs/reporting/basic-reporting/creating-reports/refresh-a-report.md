@@ -4,9 +4,9 @@ description: 보고서 새로 고침 - Marketo 문서 - 제품 설명서
 title: 보고서 새로 고침
 exl-id: 022e338c-4e50-4d12-a5cb-d864aa60b131
 feature: Reporting
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '109'
+source-wordcount: '105'
 ht-degree: 0%
 
 ---
@@ -23,7 +23,7 @@ Marketo은 보고서를 본 후 다음 보기 시 빠르게 로드되도록 데�
 
    ![](assets/two.png)
 
-1. **보고서 작업** 메뉴를 클릭하고 **보고서 새로 고침**&#x200B;을 선택하여 보고서를 새로 고칠 수도 있습니다.
+1. **[!UICONTROL Report Actions]** 메뉴를 클릭하고 **[!UICONTROL Refresh Report]**&#x200B;을(를) 선택하여 보고서를 새로 고칠 수도 있습니다.
 
    ![](assets/three.png)
 

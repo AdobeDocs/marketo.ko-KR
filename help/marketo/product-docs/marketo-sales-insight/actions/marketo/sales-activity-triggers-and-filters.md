@@ -3,9 +3,9 @@ description: 영업 활동 트리거 및 필터 - Marketo 문서 - 제품 설명
 title: 판매 활동 트리거 및 필터
 exl-id: d180c1fa-d2bb-443d-ba78-59c26083acf5
 feature: Sales Insight Actions
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '120'
+source-wordcount: '113'
 ht-degree: 0%
 
 ---
@@ -20,7 +20,7 @@ ht-degree: 0%
 
    ![](assets/sales-activity-triggers-and-filters-1.png)
 
-1. **스마트 목록** 탭에서 &quot;영업 앱&quot;을 검색합니다.
+1. **[!UICONTROL Smart List]** 탭에서 &quot;[!UICONTROL Sales Apps]&quot;을(를) 검색합니다.
 
    ![](assets/sales-activity-triggers-and-filters-2.png)
 
@@ -34,4 +34,4 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->활동, 제한 및 정의의 전체 목록을 보려면 [Sales Insight Actions 활동 용어집](/help/marketo/product-docs/marketo-sales-insight/actions/marketo/sales-insight-actions-activity-glossary.md)을 확인하십시오.
+>활동, 제약 조건 및 정의의 전체 목록은 [[!DNL Sales Insight Actions] 활동 용어집](/help/marketo/product-docs/marketo-sales-insight/actions/marketo/sales-insight-actions-activity-glossary.md)을 참조하세요.

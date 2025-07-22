@@ -4,9 +4,9 @@ description: 이메일 프로그램 승인/승인 취소 - Marketo 문서 - 제�
 title: 이메일 프로그램 승인/승인 취소
 exl-id: 0bfb1306-7a98-4629-9264-63cfd5d6a690
 feature: Email Programs
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '188'
+source-wordcount: '178'
 ht-degree: 0%
 
 ---
@@ -26,7 +26,7 @@ ht-degree: 0%
 
 이제 프로그램을 진행할 준비가 되었으므로 마지막 단계는 이를 승인하는 것입니다. 방법은 다음과 같습니다.
 
-1. **마케팅 활동**(으)로 이동합니다.
+1. **[!UICONTROL Marketing Activities]**(으)로 이동합니다.
 
    ![](assets/login-marketing-activities-2.png)
 
@@ -37,7 +37,7 @@ ht-degree: 0%
    >
    >이메일 프로그램을 승인하지 않으면 이메일이 발송되지 않습니다.
 
-1. **승인** 타일에서 계속 진행하여 **프로그램 승인**&#x200B;을 클릭하세요.
+1. **[!UICONTROL Approval]** 타일에서 **[!UICONTROL Approve Program]**&#x200B;을(를) 클릭합니다.
 
    ![](assets/image2014-9-12-13-3a43-3a36.png)
 
@@ -53,7 +53,7 @@ ht-degree: 0%
 
 마음이 바뀌고 외출하지 않기로 결정한 경우 이메일 프로그램의 승인을 취소할 수 있습니다.
 
-1. **마케팅 활동**(으)로 이동합니다.
+1. **[!UICONTROL Marketing Activities]**(으)로 이동합니다.
 
    ![](assets/login-marketing-activities-2.png)
 
@@ -61,7 +61,7 @@ ht-degree: 0%
 
    ![](assets/selectemailprogram-2.jpg)
 
-1. **승인** 타일에서 **프로그램 비승인**&#x200B;을 클릭하면 됩니다.
+1. **[!UICONTROL Approval]** 타일 아래에서 **[!UICONTROL Unapprove Program]**&#x200B;을 클릭하면 됩니다.
 
    ![](assets/image2014-9-12-13-3a44-3a28.png)
 

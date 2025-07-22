@@ -4,10 +4,10 @@ description: 스마트 목록 구독 편집 - Marketo 문서 - 제품 설명서
 title: 스마트 목록 구독 편집
 exl-id: f745c887-c8f8-44bc-a0fe-da0669155ef9
 feature: Reporting
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '199'
-ht-degree: 3%
+source-wordcount: '182'
+ht-degree: 1%
 
 ---
 
@@ -15,13 +15,13 @@ ht-degree: 3%
 
 마케팅 활동 또는 데이터베이스에 표시되는 구독 탭에서 이러한 열을 직접 편집할 수 있습니다.
 
-* 수신자
-* 빈도
-* 열
-* 게재 종료
-* 형식
+* [!UICONTROL Recipients]
+* [!UICONTROL Frequency]
+* [!UICONTROL Columns]
+* [!UICONTROL End Delivery]
+* [!UICONTROL Format]
 
-1. **데이터베이스**&#x200B;을(를) 선택합니다. 이 예제에서는 이 데이터베이스를 사용하고 있지만 마케팅 활동은 정확히 동일하게 작동합니다.
+1. **[!UICONTROL Database]**&#x200B;을(를) 선택하십시오. 이 예제에서는 마케팅 활동이 동일하게 작동하지만,
 
    ![](assets/db-1.png)
 
@@ -29,15 +29,15 @@ ht-degree: 3%
 
    ![](assets/two.png)
 
-1. 수신자 열을 클릭하면 더 많은 이메일 주소를 입력할 수 있습니다(쉼표로 구분).
+1. **[!UICONTROL Recipients]** 열을 클릭하면 더 많은 전자 메일 주소를 입력할 수 있습니다(쉼표로 구분).
 
    ![](assets/image2015-9-14-13-3a44-3a14.png)
 
-1. 설정을 선택하거나 변경하려면 **빈도** 열을 클릭하십시오.
+1. 설정을 선택하거나 변경하려면 **[!UICONTROL Frequency]** 열을 클릭하십시오.
 
    ![](assets/image2015-9-14-10-3a30-3a37.png)
 
-1. **열** 열을 열고 선택기를 사용하여 보고서에서 열을 추가하거나 제거합니다. 보고서 열에는 사용 가능한 모든 열이 포함되어 있으며 Marketo 열에는 보고서에 표시하기 위해 선택한 열만 표시됩니다. **저장**&#x200B;을 클릭합니다.
+1. **[!UICONTROL Columns]** 열을 열고 선택기를 사용하여 보고서에서 열을 추가하거나 제거합니다. 보고서 열에는 사용 가능한 모든 열이 포함되어 있으며 Marketo 열에는 보고서에 표시하기 위해 선택한 열만 표시됩니다. **[!UICONTROL Save]**&#x200B;을(를) 클릭합니다.
 
    ![](assets/image2015-9-14-10-3a59-3a6.png)
 
@@ -45,10 +45,10 @@ ht-degree: 3%
    >
    >Marketo 열 아래의 열은 구독 보고서 탭에 사용되는 열이 아닌 보고서 열입니다.
 
-1. 종료 날짜를 편집하려면 **종료 날짜** 열을 클릭하십시오. **절대 안 함** 또는 **날짜**&#x200B;를 선택하세요. 날짜의 경우 해당 날짜를 입력하거나 달력에서 선택합니다. **승인**&#x200B;을 클릭합니다.
+1. 종료 날짜를 편집하려면 **[!UICONTROL End Date]** 열을 클릭하십시오. **[!UICONTROL Never]** 또는 **[!UICONTROL Date]**&#x200B;을(를) 선택하십시오. 날짜의 경우 해당 날짜를 입력하거나 달력에서 선택합니다. **[!UICONTROL Approve]**&#x200B;을(를) 클릭합니다.
 
    ![](assets/image2015-9-14-11-3a6-3a38.png)
 
-1. 퍼즐의 마지막 조각은 형식이다. **서식** 열을 클릭하고 원하는 열을 선택합니다. CSV가 기본값입니다.
+1. 퍼즐의 마지막 조각은 형식이다. **[!UICONTROL Format]** 열을 클릭하고 원하는 열을 선택합니다. CSV가 기본값입니다.
 
    ![](assets/image2015-9-14-11-3a11-3a41.png)

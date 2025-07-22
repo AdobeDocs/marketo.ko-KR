@@ -4,10 +4,10 @@ description: Field Organizer - Marketo 문서 - 제품 설명서를 사용하여
 title: Field Organizer를 사용하여 사용자 정의 필드 그룹 만들기
 exl-id: 0425a446-2c92-4a2a-85c4-e05c22118035
 feature: Reporting, Revenue Cycle Analytics
-source-git-commit: d20a9bb584f69282eefae3704ce4be2179b29d0b
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '1000'
-ht-degree: 2%
+source-wordcount: '951'
+ht-degree: 3%
 
 ---
 
@@ -25,10 +25,10 @@ ht-degree: 2%
 | URL | 문자열 |
 | 참조 | 지원되지 않음 |
 | 통화 | 정수 |
-| 날짜/시간 | 날짜 |
+| 날짜/시간 | 일자 |
 | 부울 | 지원되지 않음 |
 | 전화 | 문자열 |
-| 날짜 | 날짜 |
+| 일자 | 일자 |
 | 부동 | 정수 |
 | 계산됨 | 지원되지 않음 |
 
@@ -36,19 +36,19 @@ ht-degree: 2%
 
 ## 사용자 정의 필드 그룹 만들기 - 문자열 편집기 {#create-custom-field-group-string-editor}
 
-1. **리드 데이터베이스**&#x200B;를 클릭합니다.
+1. **[!UICONTROL Lead Database]**&#x200B;을(를) 클릭합니다.
 
    ![](assets/one.png)
 
-1. **새로 만들기**&#x200B;를 클릭하고 **새 필드 구성**&#x200B;을 선택합니다.
+1. **[!UICONTROL New]**&#x200B;을(를) 클릭하고 **[!UICONTROL New Field Organizer]**&#x200B;을(를) 선택합니다.
 
    ![](assets/two.png)
 
-1. **필드**&#x200B;를 클릭하고 문자열 편집기에 매핑되는 데이터 형식의 표준 또는 사용자 지정 필드를 선택합니다(이전 섹션의 표 참조). 여기서는 국가가 사용됩니다.
+1. **[!UICONTROL Field]**&#x200B;을(를) 클릭하고 문자열 편집기에 매핑되는 데이터 형식의 표준 또는 사용자 지정 필드를 선택합니다(이전 섹션의 표 참조). [!UICONTROL Country]이(가) 여기에 사용되었습니다.
 
    ![](assets/three.png)
 
-1. **만들기**&#x200B;를 클릭합니다.
+1. **[!UICONTROL Create]**&#x200B;을(를) 클릭합니다.
 
    ![](assets/four.png)
 
@@ -60,7 +60,7 @@ ht-degree: 2%
 
    ![](assets/five.png)
 
-1. 기본적으로 모든 데이터 값은 &quot;기타&quot; 하위 그룹에 배치됩니다. 데이터 값을 분류하려면 **그룹 추가**&#x200B;를 클릭하여 하위 그룹을 만들고 이름을 지정하십시오.
+1. 기본적으로 모든 데이터 값은 &quot;[!UICONTROL Other]&quot; 하위 그룹에 배치됩니다. 데이터 값을 분류하려면 **[!UICONTROL Add Group]**&#x200B;을(를) 클릭하여 하위 그룹을 만들고 이름을 지정하십시오.
 
    >[!NOTE]
    >
@@ -72,7 +72,7 @@ ht-degree: 2%
 
    >[!NOTE]
    >
-   >하위 그룹을 삭제하려면 하위 그룹 이름 옆에 있는 빨간색 X를 클릭하면 됩니다. 그룹에 데이터 값이 있으면 데이터 값이 기본 그룹인 기타로 이동합니다.
+   >하위 그룹을 삭제하려면 하위 그룹 이름 옆에 있는 빨간색 X를 클릭하면 됩니다. 그룹에 데이터 값이 있으면 데이터 값이 기본 그룹인 [!UICONTROL Other]&#x200B;(으)로 이동됩니다.
 
 1. 캔버스에서 데이터 값을 강조 표시하고 데이터 값을 적절한 하위 그룹으로 끌어다 놓습니다.
 
@@ -92,19 +92,19 @@ ht-degree: 2%
 
 ## 사용자 정의 필드 그룹 만들기 - 정수 편집기 {#create-custom-field-group-integer-editor}
 
-1. **리드 데이터베이스**&#x200B;를 클릭합니다.
+1. **[!UICONTROL Lead Database]**&#x200B;을(를) 클릭합니다.
 
    ![](assets/one.png)
 
-1. **새로 만들기**&#x200B;를 클릭하고 **새 필드 구성**&#x200B;을 선택합니다.
+1. **[!UICONTROL New]**&#x200B;을(를) 클릭하고 **[!UICONTROL New Field Organizer]**&#x200B;을(를) 선택합니다.
 
    ![](assets/two.png)
 
-1. **필드**&#x200B;를 클릭하고 문자열 편집기에 매핑되는 데이터 형식의 표준 또는 사용자 지정 필드를 선택합니다(이전 섹션의 표 참조). 연간 매출은 여기에서 사용됩니다.
+1. **[!UICONTROL Field]**&#x200B;을(를) 클릭하고 문자열 편집기에 매핑되는 데이터 형식의 표준 또는 사용자 지정 필드를 선택합니다(이전 섹션의 표 참조). [!UICONTROL Annual Revenue]이(가) 여기에 사용되었습니다.
 
    ![](assets/nine.png)
 
-1. **만들기**&#x200B;를 클릭합니다.
+1. **[!UICONTROL Create]**&#x200B;을(를) 클릭합니다.
 
    ![](assets/9.5.png)
 
@@ -112,13 +112,13 @@ ht-degree: 2%
 
    ![](assets/9.6.png)
 
-1. 정수 편집기 위의 기본 사용자 지정 그룹 이름을 클릭하여 이름을 사용자 지정합니다. 예를 들어 &quot;Annual Revenue Group&quot;의 이름을 &quot;Annual Revenue by Size&quot;로 바꿀 수 있습니다. **저장**&#x200B;을 클릭합니다.
+1. 정수 편집기 위의 기본 사용자 지정 그룹 이름을 클릭하여 이름을 사용자 지정합니다. 예를 들어 &quot;Annual Revenue Group&quot;의 이름을 &quot;Annual Revenue by Size&quot;로 바꿀 수 있습니다. **[!UICONTROL Save]**&#x200B;을(를) 클릭합니다.
 
    ![](assets/eleven.png)
 
    정수 편집기를 사용하면 여러 하위 그룹을 만들어 크기별로 각 하위 그룹을 정의할 수 있습니다. 이 예에서는 Small, Medium 및 Enterprise 비즈니스에 대해 세 개의 그룹이 생성됩니다.
 
-1. 첫 번째 그룹을 추가하려면 **그룹 이름** 필드에 이름을 입력하고(예: Small) **그룹 범위** 필드에 최대값을 입력합니다(예: 200000). **그룹 추가**&#x200B;를 클릭합니다.
+1. 첫 번째 그룹을 추가하려면 **[!UICONTROL Group Name]** 필드에 이름을 입력하고(예: Small) **[!UICONTROL Group Range]** 필드에 최대값을 입력합니다(예: 200000). **[!UICONTROL Add Group]**&#x200B;을(를) 클릭합니다.
 
    ![](assets/twelve.png)
 
@@ -146,19 +146,19 @@ ht-degree: 2%
 
 ## 사용자 정의 필드 그룹 만들기 - 날짜 편집기 {#create-custom-field-group-date-editor}
 
-1. **리드 데이터베이스**&#x200B;를 클릭합니다.
+1. **[!UICONTROL Lead Database]**&#x200B;을(를) 클릭합니다.
 
    ![](assets/one.png)
 
-1. **새로 만들기**&#x200B;를 클릭하고 **새 필드 구성**&#x200B;을 선택합니다.
+1. **[!UICONTROL New]**&#x200B;을(를) 클릭하고 **[!UICONTROL New Field Organizer]**&#x200B;을(를) 선택합니다.
 
    ![](assets/two.png)
 
-1. **필드**&#x200B;를 클릭하고 문자열 편집기에 매핑되는 데이터 형식의 표준 또는 사용자 지정 필드를 선택합니다(이전 섹션의 표 참조). 획득 날짜는 여기에서 사용됩니다.
+1. **[!UICONTROL Field]**&#x200B;을(를) 클릭하고 문자열 편집기에 매핑되는 데이터 형식의 표준 또는 사용자 지정 필드를 선택합니다(이전 섹션의 표 참조). [!UICONTROL Acquisition Date]이(가) 여기에 사용되었습니다.
 
    ![](assets/fourteen.png)
 
-1. **만들기**&#x200B;를 클릭합니다.
+1. **[!UICONTROL Create]**&#x200B;을(를) 클릭합니다.
 
    ![](assets/14.5.png)
 
@@ -166,19 +166,19 @@ ht-degree: 2%
 
    ![](assets/14.6.png)
 
-1. 날짜 편집기 위의 기본 사용자 지정 그룹 이름을 클릭하여 이름을 사용자 지정합니다. 예를 들어 &quot;획득 날짜 그룹&quot;의 이름을 &quot;획득 날짜 카테고리&quot;로 변경할 수 있습니다. **저장**&#x200B;을 클릭합니다.
+1. 날짜 편집기 위의 기본 사용자 지정 그룹 이름을 클릭하여 이름을 사용자 지정합니다. 예를 들어 &quot;획득 날짜 그룹&quot;의 이름을 &quot;획득 날짜 카테고리&quot;로 변경할 수 있습니다. **[!UICONTROL Save]**&#x200B;을(를) 클릭합니다.
 
    ![](assets/fifteen.png)
 
    날짜 편집기를 사용하면 여러 하위 그룹을 만들고 날짜별로 각 하위 그룹을 정의할 수 있습니다. 이 예에서는 Q1-15 리드, Q2-15 리드 및 Q3-15 리드의 세 가지 그룹이 만들어집니다.
 
-1. 첫 번째 그룹을 추가하려면 **그룹 이름** 필드에 이름을 입력하고(예: Q1-15 리드) 날짜 필드에 리드를 획득한 날짜를 나타내는 날짜를 입력합니다(예: Q1-15의 마지막 날 2015/3/31). **그룹 추가**&#x200B;를 클릭합니다.
+1. 첫 번째 그룹을 추가하려면 **[!UICONTROL Group Name]** 필드에 이름을 입력하고(예: Q1-15 리드) 날짜 필드에 리드를 획득한 날짜 또는 그 이전 날짜를 입력합니다(예: Q1-15의 마지막 날 2015/3/31). **[!UICONTROL Add Group]**&#x200B;을(를) 클릭합니다.
 
    ![](assets/sixteen.png)
 
    >[!NOTE]
    >
-   >최대 10개의 하위 그룹을 추가하여 데이터 값을 분류할 수 있습니다. 각 그룹 범위 항목은 이전 항목을 기반으로 합니다. 마지막으로 만든 사용자 정의 하위 그룹의 마지막 그룹 범위 항목을 비워 두면 종료 날짜 값이 설정되지 않습니다.
+   >최대 10개의 하위 그룹을 추가하여 데이터 값을 분류할 수 있습니다. 각 [!UICONTROL Group Range] 항목은 이전 항목을 기반으로 합니다. 마지막으로 만든 사용자 지정 하위 그룹의 마지막 [!UICONTROL Group Range] 항목을 비워 두면 종료 날짜 값이 설정되지 않습니다.
 
    아래 예제는 2015년 1분기~3분기 리드에 대한 항목을 보여 줍니다.
 

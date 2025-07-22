@@ -4,9 +4,9 @@ description: 이메일 CC - Marketo 문서 - 제품 설명서
 title: 이메일 CC
 exl-id: 00550e98-916d-4e66-91f8-7394c242a29b
 feature: Email Editor
-source-git-commit: 94b458ee7138f90bd243d2d2a8b761dabff23a66
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '554'
+source-wordcount: '544'
 ht-degree: 0%
 
 ---
@@ -23,15 +23,15 @@ ht-degree: 0%
 
 ## 이메일 CC 설정 {#set-up-email-cc}
 
-1. 내 Marketo에서 **관리자**&#x200B;를 클릭합니다.
+1. 내 Marketo에서 **[!UICONTROL Admin]**&#x200B;을(를) 클릭합니다.
 
    ![](assets/one.png)
 
-1. 트리에서 **전자 메일**&#x200B;을 선택합니다.
+1. 트리에서 **[!UICONTROL Email]**&#x200B;을(를) 선택합니다.
 
    ![](assets/two.png)
 
-1. **전자 메일 CC 설정 편집**&#x200B;을 클릭합니다.
+1. **[!UICONTROL Edit Email CC Settings]**&#x200B;을(를) 클릭합니다.
 
    ![](assets/three.png)
 
@@ -41,11 +41,11 @@ ht-degree: 0%
 
 ## 이메일 CC 사용 {#using-email-cc}
 
-1. 이메일을 선택하고 **초안 편집**&#x200B;을 클릭합니다.
+1. 전자 메일을 선택하고 **[!UICONTROL Edit Draft]**&#x200B;을(를) 클릭합니다.
 
    ![](assets/five.png)
 
-1. **전자 메일 설정**&#x200B;을 클릭합니다.
+1. **[!UICONTROL Email Settings]**&#x200B;을(를) 클릭합니다.
 
    ![](assets/six.png)
 

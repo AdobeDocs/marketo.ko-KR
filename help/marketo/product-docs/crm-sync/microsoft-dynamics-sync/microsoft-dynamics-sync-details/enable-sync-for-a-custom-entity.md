@@ -4,16 +4,16 @@ description: 사용자 지정 엔터티에 대해 동기화 활성화 - Marketo 
 title: 사용자 지정 엔터티에 대해 동기화 활성화
 exl-id: 4b075bf3-f10b-4725-8c8e-a6ecee63d756
 feature: Microsoft Dynamics
-source-git-commit: 2a5ee44a7126d789b0fc819a26a2cf19084b34ee
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '324'
+source-wordcount: '298'
 ht-degree: 0%
 
 ---
 
 # 사용자 지정 엔터티에 대해 동기화 활성화 {#enable-sync-for-a-custom-entity}
 
-Marketo Engage에서 사용할 수 있도록 Dynamics의 사용자 지정 엔티티 데이터가 필요한 경우 여기에 해당 동기화를 활성화하는 방법이 있습니다. **관리자 권한이 필요합니다**.
+Marketo에서 사용할 수 있도록 [!DNL Dynamics]의 사용자 지정 엔터티 데이터가 필요한 경우 이에 대한 동기화를 사용하도록 설정하는 방법은 다음과 같습니다.
 
 >[!PREREQUISITES]
 >
@@ -28,11 +28,11 @@ Marketo Engage에서 사용할 수 있도록 Dynamics의 사용자 지정 엔티
 >
 >Marketo 동기화 사용자는 나열하고 동기화를 수행하려면 사용자 지정 개체에 대한 읽기 액세스 권한이 필요합니다.
 
-1. **[!UICONTROL 관리자]** 섹션으로 이동합니다.
+1. **[!UICONTROL Admin]** 섹션으로 이동합니다.
 
    ![](assets/enable-sync-for-a-custom-entity-1.png)
 
-1. **[!UICONTROL Microsoft Dynamics]**&#x200B;을(를) 선택하고 **[!UICONTROL 동기화 비활성화]**&#x200B;를 클릭합니다.
+1. **[!UICONTROL Microsoft Dynamics]**&#x200B;을(를) 선택하고 **[!UICONTROL Disable Sync]**&#x200B;을(를) 클릭합니다.
 
    ![](assets/enable-sync-for-a-custom-entity-2.png)
 
@@ -40,25 +40,25 @@ Marketo Engage에서 사용할 수 있도록 Dynamics의 사용자 지정 엔티
    >
    >사용자 지정 엔터티를 활성화하거나 비활성화하려면 전역 동기화를 일시적으로 비활성화해야 합니다.
 
-1. 데이터베이스 관리에서 **[!UICONTROL Dynamics Entities 동기화]**&#x200B;를 클릭합니다.
+1. [!UICONTROL Database Management]에서 **[!UICONTROL Dynamics Entities Sync]** 링크를 클릭합니다.
 
    ![](assets/enable-sync-for-a-custom-entity-3.png)
 
-1. **[!UICONTROL 스키마 동기화]**&#x200B;를 클릭합니다.
+1. **[!UICONTROL Sync schema]** 링크를 클릭합니다.
 
    ![](assets/enable-sync-for-a-custom-entity-4.png)
 
-1. 동기화할 엔터티를 선택하고 **[!UICONTROL 동기화 사용]**&#x200B;을 클릭합니다.
+1. 동기화할 엔터티를 선택하고 **[!UICONTROL Enable Sync]**&#x200B;을(를) 클릭합니다.
 
    ![](assets/enable-sync-for-a-custom-entity-5.png)
 
-1. 스마트 목록에서 동기화하거나 [제약 조건](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/using-smart-lists/add-a-constraint-to-a-smart-list-filter.md){target="_blank"} 및/또는 트리거(추가된 레코드의 경우 _업데이트되지 않음_)로 사용할 필드를 선택하십시오. 완료되면 **[!UICONTROL 동기화 사용]**&#x200B;을 클릭하세요.
+1. 동기화하거나 스마트 목록의 [제약 조건](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/using-smart-lists/add-a-constraint-to-a-smart-list-filter.md) 및/또는 트리거로 사용할 필드를 선택하십시오. 완료되면 **[!UICONTROL Enable Sync]**&#x200B;을(를) 클릭합니다.
 
    ![](assets/enable-sync-for-a-custom-entity-6.png)
 
    >[!NOTE]
    >
-   >동기화 프로세스 중에 탐색 트리에서 &quot;[!UICONTROL Dynamic Entities Sync]&quot; 항목이 사라지는 것을 볼 수 있습니다. 이는 예상되는 동작이며 동기화가 완료된 후 다시 나타납니다.
+   >동기화 프로세스 중에 &quot;[!UICONTROL Dynamic Entities Sync]&quot; 항목이 탐색 트리에서 사라지는 것을 볼 수 있습니다. 이는 예상되는 동작이며 동기화가 완료된 후 다시 나타납니다.
 
 1. 이제 엔티티에 녹색 확인 표시가 있습니다.
 

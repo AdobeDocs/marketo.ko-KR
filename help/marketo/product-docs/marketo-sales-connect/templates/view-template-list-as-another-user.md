@@ -4,10 +4,10 @@ description: 템플릿 목록을 다른 사용자로 보기 - Marketo 문서 - �
 title: 다른 사용자로 템플릿 목록 보기
 exl-id: 5640168d-fe87-4cb1-8262-349f8798a3da
 feature: Marketo Sales Connect
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '77'
-ht-degree: 0%
+source-wordcount: '72'
+ht-degree: 1%
 
 ---
 
@@ -19,11 +19,11 @@ ht-degree: 0%
 >
 >**관리자 권한 필요**
 
-1. **템플릿**&#x200B;을 클릭합니다.
+1. **[!UICONTROL Templates]**&#x200B;을(를) 클릭합니다.
 
    ![](assets/one.png)
 
-1. **다른 이름으로 보기** 드롭다운을 클릭하고 원하는 사용자를 선택합니다.
+1. **[!UICONTROL View As]** 드롭다운을 클릭하고 원하는 사용자를 선택합니다.
 
    ![](assets/two.png)
 
@@ -33,4 +33,4 @@ ht-degree: 0%
 
    >[!NOTE]
    >
-   >다음으로 보기 와 함께 필터 또는 검색 기능을 사용하여 사용자와 가장 관련이 있는 항목을 볼 수도 있습니다.
+   >필터 또는 검색 기능을 [!UICONTROL View As]과(와) 함께 사용하여 본인과 가장 관련이 있는 항목을 볼 수도 있습니다.

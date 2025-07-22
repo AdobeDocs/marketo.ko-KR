@@ -4,9 +4,9 @@ description: 이메일 템플릿 선택기 개요 - Marketo 문서 - 제품 설�
 title: 이메일 템플릿 선택기 개요
 exl-id: 6bfedd73-8b77-469d-9055-f925e2c2a7f1
 feature: Email Editor
-source-git-commit: 1c40ab5912772c2a26dccde111a468daff16c3bc
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '276'
+source-wordcount: '258'
 ht-degree: 0%
 
 ---
@@ -17,27 +17,27 @@ ht-degree: 0%
 
 ![](assets/email-template-picker-overview-1.png)
 
-**이름**&#x200B;은(는) 템플릿 자체가 아니라 템플릿을 기반으로 만든 전자 메일의 이름이 됩니다. **설명**&#x200B;은(는) 전자 메일에도 적용되며 선택 사항입니다.
+**[!UICONTROL Name]**&#x200B;은(는) 템플릿 자체가 아니라 템플릿을 기반으로 만든 전자 메일의 이름이 됩니다. **[!UICONTROL Description]**&#x200B;은(는) 전자 메일에도 적용되며 선택 사항입니다.
 
 ![](assets/two-2.png)
 
-전자 메일이 중요한 경우 통신 제한을 피하려면 상자를 선택하여 [작동 상태로 설정](/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/make-an-email-operational.md)합니다. **편집기에서 열기**&#x200B;가 기본적으로 선택됩니다. 즉 새 전자 메일 편집을 바로 시작할 수 있습니다. **만들기**&#x200B;는(는) 만들기!
+전자 메일이 중요한 경우 통신 제한을 피하려면 상자를 선택하여 [작동 상태로 설정](/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/make-an-email-operational.md)합니다. 기본적으로 **[!UICONTROL Open in editor]**&#x200B;이(가) 선택되어 있으므로 바로 새 전자 메일 편집을 시작할 수 있습니다. **[!UICONTROL Create]**&#x200B;은(는) 만들기!
 
 ![](assets/three-2.png)
 
-**시작 템플릿**&#x200B;에는 즉시 사용 가능한 응답형 전자 메일 템플릿 컬렉션이 포함되어 있습니다. 그대로 사용하거나 원하는 대로 사용자 지정할 수 있습니다.
+**[!UICONTROL Starter Templates]**&#x200B;에 즉시 사용 가능한 응답형 전자 메일 서식 파일 컬렉션이 포함되어 있습니다. 그대로 사용하거나 원하는 대로 사용자 지정할 수 있습니다.
 
 ![](assets/email-template-picker-overview-4.png)
 
-**내 템플릿**&#x200B;은(는) 사용자가 만든 모든 템플릿으로 구성됩니다. 폴더도 있을 수 있습니다.
+**[!UICONTROL My Templates]**&#x200B;은(는) 사용자가 만든 모든 템플릿으로 구성됩니다. 폴더도 있을 수 있습니다.
 
 ![](assets/five-2.png)
 
-Design Studio 트리의 전자 메일 > 템플릿 아래에 표시되는 모든 폴더는 **내 템플릿**&#x200B;에서 사용할 수 있습니다.
+**[!UICONTROL Emails]** 트리의 **[!UICONTROL Templates]** > [!UICONTROL Design Studio] 아래에 표시되는 모든 폴더는 **[!UICONTROL My Templates]**&#x200B;에서 사용할 수 있습니다.
 
 ![](assets/six-1.png)
 
-템플릿을 미리 보려면 해당 썸네일 위로 마우스를 가져간 후 **미리 보기**&#x200B;를 클릭합니다. 두 번 클릭하기만 하면 됩니다.
+템플릿을 미리 보려면 해당 썸네일 위로 마우스를 가져간 후 **[!UICONTROL Preview]**&#x200B;을(를) 클릭합니다. 두 번 클릭하기만 하면 됩니다.
 
 ![](assets/seven-1.png)
 
@@ -49,7 +49,7 @@ Design Studio 트리의 전자 메일 > 템플릿 아래에 표시되는 모든 
 
 ![](assets/nine-1.png)
 
-이 서식 파일이 마음에 들면 오른쪽 하단의 **선택**&#x200B;을 클릭하여 선택하십시오. 계속 찾아볼래요? 오른쪽 상단의 **X**&#x200B;을(를) 클릭합니다. 왼쪽 및 오른쪽 화살표를 사용하여 템플릿을 스크롤합니다.
+이 서식 파일이 마음에 들면 오른쪽 하단의 **[!UICONTROL Select]**&#x200B;을(를) 클릭하여 선택하십시오. 계속 찾아볼래요? 오른쪽 상단의 **X**&#x200B;을(를) 클릭합니다. 왼쪽 및 오른쪽 화살표를 사용하여 템플릿을 스크롤합니다.
 
 ![](assets/ten-1.png)
 

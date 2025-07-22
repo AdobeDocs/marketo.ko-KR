@@ -4,18 +4,18 @@ description: 매출 탐색기 보고서 구독 - Marketo 문서 - 제품 설명�
 title: 매출 탐색기 보고서 구독
 exl-id: 448a4d56-8fd6-4e5b-b78e-d854b93c4aa4
 feature: Reporting, Revenue Cycle Analytics
-source-git-commit: d20a9bb584f69282eefae3704ce4be2179b29d0b
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '138'
-ht-degree: 0%
+source-wordcount: '127'
+ht-degree: 1%
 
 ---
 
-# 매출 탐색기 보고서 구독 {#subscribe-to-a-revenue-explorer-report}
+# [!UICONTROL Revenue Explorer] 보고서 구독 {#subscribe-to-a-revenue-explorer-report}
 
 수익 주기 탐색기 보고서에서 업데이트를 수신하고 공유하려면 기존 보고서에 이메일 주소를 구독하면 됩니다.
 
-1. **Analytics**(으)로 이동하여 **새로 만들기** > **새 보고서 구독**&#x200B;을(를) 선택합니다.
+1. **[!UICONTROL Analytics]**(으)로 이동하여 **[!UICONTROL New]** > **[!UICONTROL New Report Subscription]**&#x200B;을(를) 선택합니다.
 
    ![](assets/image2014-9-17-12-3a46-3a20.png)
 
@@ -23,7 +23,7 @@ ht-degree: 0%
    >
    >프로그램에서 만든 기본 보고서를 구독하려면 [기본 보고서 구독](/help/marketo/product-docs/reporting/basic-reporting/report-subscriptions/subscribe-to-a-basic-report.md)을 참조하세요.
 
-1. **Source 보고**&#x200B;에 대해 **수익 탐색기**&#x200B;를 선택합니다.
+1. **[!UICONTROL Report Source]**&#x200B;에 대해 **[!UICONTROL Revenue Explorer]**&#x200B;를 선택합니다.
 
    ![](assets/image2014-9-17-12-3a47-3a11.png)
 

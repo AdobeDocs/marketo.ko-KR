@@ -3,9 +3,9 @@ description: HTML 사용 - Marketo 문서 - 제품 설명서
 title: HTML 사용
 exl-id: f0b40896-0c3e-401f-bc76-90bf8c4c6d76
 feature: Sales Insight Actions
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '99'
+source-wordcount: '97'
 ht-degree: 0%
 
 ---
@@ -18,7 +18,7 @@ ht-degree: 0%
 
    ![](assets/using-html-1.png)
 
-1. 템플릿 편집기 카드에서 **편집**&#x200B;을 클릭합니다.
+1. 템플릿 편집기 카드에서 **[!UICONTROL Edit]**&#x200B;을(를) 클릭합니다.
 
    ![](assets/using-html-2.png)
 
@@ -26,7 +26,7 @@ ht-degree: 0%
 
    ![](assets/using-html-3.png)
 
-1. 소스 코드를 붙여넣고 **저장**&#x200B;을 클릭합니다.
+1. 소스 코드를 붙여넣고 **[!UICONTROL Save]**&#x200B;을(를) 클릭합니다.
 
    ![](assets/using-html-4.png)
 

@@ -4,9 +4,9 @@ description: 웹 캠페인 데이터 내보내기 - Marketo 문서 - 제품 설�
 title: 웹 캠페인 데이터 내보내기
 exl-id: 04c33b2a-a314-486d-b72d-5618d7c0ed0d
 feature: Web Personalization
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '54'
+source-wordcount: '52'
 ht-degree: 0%
 
 ---
@@ -15,7 +15,7 @@ ht-degree: 0%
 
 다음 간단한 단계에 따라 웹 캠페인 데이터를 내보냅니다.
 
-1. **웹 캠페인**(으)로 이동합니다.
+1. **[!UICONTROL Web Campaigns]**(으)로 이동합니다.
 
    ![](assets/one-2.png)
 

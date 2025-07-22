@@ -4,10 +4,10 @@ description: 계정 팀 설정 - Marketo 문서 - 제품 설명서
 title: 계정 팀 설정
 exl-id: a4aee37f-5e39-4296-b720-b1c73c98df9e
 feature: Target Account Management
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '181'
-ht-degree: 0%
+source-wordcount: '169'
+ht-degree: 1%
 
 ---
 
@@ -15,31 +15,31 @@ ht-degree: 0%
 
 계정 팀은 명명 계정에 대해 함께 작업하는 관련자 그룹입니다. 다음 단계에 따라 추가해야 하는 CRM 계정 역할을 선택하십시오.
 
-1. **관리자**&#x200B;를 클릭합니다.
+1. **[!UICONTROL Admin]**&#x200B;을(를) 클릭합니다.
 
    ![](assets/one-3.png)
 
-1. **계정 관리 대상**&#x200B;을 클릭합니다.
+1. **[!UICONTROL Target Account Management]**&#x200B;을(를) 클릭합니다.
 
    ![](assets/account-team-setup-2.png)
 
-1. 계정 팀원 아래에서 **편집**&#x200B;을 클릭합니다.
+1. 계정 팀원 아래에서 **[!UICONTROL Edit]**&#x200B;을(를) 클릭합니다.
 
    ![](assets/3.png)
 
    >[!NOTE]
    >
-   >계정 역할의 경우 이름을 지정하고 CRM의 원하는 사용자 조회 필드에 일치시킵니다.
+   >[!UICONTROL Account Role]의 경우 이름을 지정하고 CRM의 원하는 사용자 조회 필드에 연결합니다.
 
-1. 계정 역할 이름을 입력하고 **CRM** 필드를 선택합니다. 최대 10개까지 추가할 수 있습니다.
+1. [!UICONTROL Account Role] 이름을 입력하고 **CRM** 필드를 선택합니다. 최대 10개까지 추가할 수 있습니다.
 
    ![](assets/four-2.png)
 
    >[!NOTE]
    >
-   >계정 소유자를 선택할 수 없습니다. CRM의 계정 수준에서 기본적으로 선택됩니다.
+   >[!UICONTROL Account Owner]을(를) 선택할 수 없습니다. CRM의 계정 수준에서 기본적으로 선택됩니다.
 
-1. 완료되면 **저장**&#x200B;을 클릭합니다.
+1. 완료되면 **[!UICONTROL Save]**&#x200B;을(를) 클릭합니다.
 
    ![](assets/five-2.png)
 
