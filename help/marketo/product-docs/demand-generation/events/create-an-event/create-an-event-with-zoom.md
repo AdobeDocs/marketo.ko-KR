@@ -1,7 +1,7 @@
 ---
 unique-page-id: 17728023
 description: ' [!DNL Zoom] - Marketo 문서 - 제품 설명서를 사용하여 이벤트 만들기'
-title: ' [!DNL Zoom](으)로 이벤트 만들기'
+title: ' [!DNL Zoom] (으)로 이벤트 만들기'
 exl-id: 6a2aec58-902c-4e40-ab59-9cc33ec83cea
 feature: Events
 source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327

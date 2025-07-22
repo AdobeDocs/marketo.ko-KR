@@ -47,7 +47,7 @@ ht-degree: 0%
 
 ![](assets/seven.png)
 
-_[!UICONTROL Full Name]_과(와) 같은 잠재 고객 특성을 빠르게 추가하여 구성원이 누구인지 확인할 수 있습니다.
+_[!UICONTROL Full Name]_&#x200B;과(와) 같은 잠재 고객 특성을 빠르게 추가하여 구성원이 누구인지 확인할 수 있습니다.
 
 >[!TIP]
 >

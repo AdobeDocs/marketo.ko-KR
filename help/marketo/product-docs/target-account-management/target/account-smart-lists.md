@@ -51,7 +51,7 @@ ht-degree: 0%
 
    ![](assets/account-smart-lists-6.png)
 
-1. 원하는 계정 필터를 선택합니다. 이 예제에서는 _[!UICONTROL Industry]을(를)[!UICONTROL Healthcare]_&#x200B;합니다.
+1. 원하는 계정 필터를 선택합니다. 이 예제에서는 _[!UICONTROL Industry]을(를) [!UICONTROL Healthcare]_&#x200B;합니다.
 
    ![](assets/account-smart-lists-7.png)
 
@@ -93,7 +93,7 @@ ht-degree: 0%
 
 **[!UICONTROL Send to Ad Network]**: [!DNL LinkedIn]에 일치하는 새 대상자로 목록을 보냅니다.
 
-[!UICONTROL Account Smart List] 필터를 사용하여 표준 스마트 캠페인/목록에서 _[!UICONTROL People Member of Account Smart List]_을(를) 참조할 수도 있습니다.
+[!UICONTROL Account Smart List] 필터를 사용하여 표준 스마트 캠페인/목록에서 _[!UICONTROL People Member of Account Smart List]_&#x200B;을(를) 참조할 수도 있습니다.
 
 ![](assets/account-smart-lists-12.png)
 

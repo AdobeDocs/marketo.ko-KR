@@ -1,7 +1,7 @@
 ---
 unique-page-id: 1147070
 description: ' [!DNL Excel] (으)로 스마트 캠페인 결과 내보내기 - Marketo 문서 - 제품 설명서'
-title: ' [!DNL Excel](으)로 스마트 캠페인 결과 내보내기'
+title: ' [!DNL Excel] (으)로 스마트 캠페인 결과 내보내기'
 exl-id: 32aa55d7-dd10-40b9-b3f8-c767e513f103
 feature: Smart Campaigns
 source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327

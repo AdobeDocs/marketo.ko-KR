@@ -39,7 +39,7 @@ ht-degree: 0%
    >
    >찾고 있는 테스트 사용자가 없는 경우 **[!UICONTROL Create Person]** 옵션을 사용하여 즉시 만듭니다.
 
-   **[!UICONTROL Initial Stream]**&#x200B;을(를) 클릭하고 테스트할 스트림을 선택한 다음 **[!UICONTROL Run Cast]**을(를) 클릭합니다.
+   **[!UICONTROL Initial Stream]**&#x200B;을(를) 클릭하고 테스트할 스트림을 선택한 다음 **[!UICONTROL Run Cast]**&#x200B;을(를) 클릭합니다.
    ![](assets/five-rubiks.png)
 
 1. 사용자가 이전에 설정한 [전환 규칙](/help/marketo/product-docs/email-marketing/drip-nurturing/engagement-program-streams/transition-people-between-engagement-streams.md)을 거친 후 새로 고침 아이콘을 클릭합니다.

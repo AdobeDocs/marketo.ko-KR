@@ -15,7 +15,7 @@ ht-degree: 0%
 
 >[!PREREQUISITES]
 >
->샌드박스에 연결할 때 [!DNL  Sales Connect] 계정이 [!DNL Salesforce]에 이미 연결되어 있을 수 없습니다. 이 경우 이 문서의 단계를 따르려면 먼저 [연결을 끊어야 합니다](/help/marketo/product-docs/marketo-sales-connect/crm/salesforce-integration/disconnect-salesforce-from-your-sales-connect-account.md).
+>샌드박스에 연결할 때 [!DNL &#x200B; Sales Connect] 계정이 [!DNL Salesforce]에 이미 연결되어 있을 수 없습니다. 이 경우 이 문서의 단계를 따르려면 먼저 [연결을 끊어야 합니다](/help/marketo/product-docs/marketo-sales-connect/crm/salesforce-integration/disconnect-salesforce-from-your-sales-connect-account.md).
 
 1. [!DNL Sales Connect]에서 오른쪽 상단의 톱니바퀴 아이콘을 클릭하고 **[!UICONTROL Settings]**&#x200B;을(를) 선택합니다.
 

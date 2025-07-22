@@ -83,13 +83,13 @@ ht-degree: 2%
 
 ![](assets/advanced-search-overview-9.png)
 
-_**상태: 보냄**_
+_&#x200B;**상태: 보냄**&#x200B;_
 
 ![](assets/advanced-search-overview-10.png)
 
 보낸 이메일 활동별 필터. [!UICONTROL views]/[!UICONTROL no views], [!UICONTROL clicks]/[!UICONTROL no clicks] 및/또는 [!UICONTROL replies]/[!UICONTROL no replies]를 선택할 수 있습니다.
 
-_**상태: 보류 중**_
+_&#x200B;**상태: 보류 중**&#x200B;_
 
 ![](assets/advanced-search-overview-11.png)
 
@@ -114,7 +114,7 @@ _**상태: 보류 중**_
  </tr>
 </table>
 
-_**상태: 배달되지 않음**_
+_&#x200B;**상태: 배달되지 않음**&#x200B;_
 
 ![](assets/advanced-search-overview-12.png)
 

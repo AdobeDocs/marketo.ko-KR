@@ -33,7 +33,7 @@ ht-degree: 2%
 
    >[!TIP]
    >
-   >사이트를 가장 많이 방문하는 회사를 찾으려면 [ 열에서 ](/help/marketo/product-docs/reporting/basic-reporting/editing-reports/sort-report-on-columns.md)보고서를 정렬&#x200B;_[!UICONTROL Page Views]_하고&#x200B;**[!UICONTROL Sort Descending]**을 선택하세요.
+   >사이트를 가장 많이 방문하는 회사를 찾으려면 [ 열에서 ](/help/marketo/product-docs/reporting/basic-reporting/editing-reports/sort-report-on-columns.md)보고서를 정렬&#x200B;_[!UICONTROL Page Views]_&#x200B;하고&#x200B;**[!UICONTROL Sort Descending]**&#x200B;을 선택하세요.
 
    회사 웹 활동 보고서에 대해 선택할 수 있는 [열](/help/marketo/product-docs/reporting/basic-reporting/editing-reports/select-report-columns.md)에는 다음이 포함됩니다.
 

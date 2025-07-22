@@ -13,13 +13,13 @@ ht-degree: 0%
 
 # 상태별 인원 보고서 {#people-by-status-report}
 
-매월 각 _[!UICONTROL Person Status]_값에 표시되는 사람 수를 확인하여 이 프로세스를 얼마나 잘 진행하고 있는지 확인하십시오.
+매월 각 _[!UICONTROL Person Status]_&#x200B;값에 표시되는 사람 수를 확인하여 이 프로세스를 얼마나 잘 진행하고 있는지 확인하십시오.
 
 1. [보고서를 만들고](/help/marketo/product-docs/reporting/basic-reporting/creating-reports/create-a-report-in-a-program.md) **[!UICONTROL People by Status]** [보고서 형식](/help/marketo/product-docs/reporting/basic-reporting/report-types/report-type-overview.md)을(를) 선택하십시오.
 
 1. [보고서의 시간대를 설정](/help/marketo/product-docs/reporting/basic-reporting/editing-reports/change-a-report-time-frame.md)하고 **[!UICONTROL Report]** 탭을 클릭합니다.
 
-1. 잘됐네! 이제 각 _[!UICONTROL Person Status]_에 몇 명이 있는지 매달 볼 수 있습니다.
+1. 잘됐네! 이제 각 _[!UICONTROL Person Status]_&#x200B;에 몇 명이 있는지 매달 볼 수 있습니다.
 
    ![](assets/image2017-3-27-11-3a17-3a4.png)
 

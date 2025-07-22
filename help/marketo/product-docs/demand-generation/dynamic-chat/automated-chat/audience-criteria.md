@@ -46,7 +46,7 @@ Marketo Engage 스마트 목록과 유사한 대상 기준 속성을 사용하�
 
    ![](assets/audience-criteria-7.png)
 
-1. _[!UICONTROL Is]_이(가) 기본적으로 설정되어 있습니다. 값 선택 필드에 CA를 입력합니다(드롭다운을 클릭하고 목록에서 선택할 수도 있음).
+1. _[!UICONTROL Is]_&#x200B;이(가) 기본적으로 설정되어 있습니다. 값 선택 필드에 CA를 입력합니다(드롭다운을 클릭하고 목록에서 선택할 수도 있음).
 
    ![](assets/audience-criteria-8.png)
 
@@ -88,7 +88,7 @@ Marketo Engage 스마트 목록과 유사한 대상 기준 속성을 사용하�
    >
    >누군가가 웹 사이트를 방문하면 [Munchkin](/help/marketo/product-docs/administration/additional-integrations/add-munchkin-tracking-code-to-your-website.md){target="_blank"}에서 쿠키를 만들어 시스템에 넣습니다. 우리는 특별한 데이터베이스에서 그들의 IP를 찾고 모든 종류의 좋은 정보를 추론한다.
 
-1. _[!UICONTROL Is]_이(가) 기본적으로 설정되어 있습니다. 값 선택 필드에 NY를 입력합니다(드롭다운을 클릭하고 목록에서 선택할 수도 있음).
+1. _[!UICONTROL Is]_&#x200B;이(가) 기본적으로 설정되어 있습니다. 값 선택 필드에 NY를 입력합니다(드롭다운을 클릭하고 목록에서 선택할 수도 있음).
 
    ![](assets/audience-criteria-15.png)
 

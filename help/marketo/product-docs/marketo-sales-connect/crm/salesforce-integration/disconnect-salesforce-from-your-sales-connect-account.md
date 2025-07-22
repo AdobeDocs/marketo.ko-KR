@@ -13,7 +13,7 @@ ht-degree: 0%
 
 # Sales Connect 계정에서 Salesforce 연결 끊기 {#disconnect-salesforce-from-your-sales-connect-account}
 
-[!DNL  Salesforce] 계정에서 [!DNL Sales Connect] 계정의 연결을 끊어야 하는 경우가 있습니다. 방법은 다음과 같습니다.
+[!DNL &#x200B; Salesforce] 계정에서 [!DNL Sales Connect] 계정의 연결을 끊어야 하는 경우가 있습니다. 방법은 다음과 같습니다.
 
 ## 관리자로서 Salesforce에서 연결을 끊는 방법 {#how-to-disconnect-from-salesforce-as-an-admin}
 
@@ -21,7 +21,7 @@ ht-degree: 0%
 
    ![](assets/one-1.png)
 
-1. [!UICONTROL  Admin Settings]에서 **[!UICONTROL Salesforce]**&#x200B;을(를) 클릭합니다.
+1. [!UICONTROL &#x200B; Admin Settings]에서 **[!UICONTROL Salesforce]**&#x200B;을(를) 클릭합니다.
 
    ![](assets/six-1.png)
 
@@ -31,7 +31,7 @@ ht-degree: 0%
 
 ## 관리자가 아닌 Salesforce에서 연결을 끊는 방법 {#how-to-disconnect-from-salesforce-as-a-non-admin}
 
-1. [!DNL  Sales Connect]에서 오른쪽 상단의 톱니바퀴 아이콘을 클릭하고 **[!UICONTROL Settings]**&#x200B;을(를) 선택합니다.
+1. [!DNL &#x200B; Sales Connect]에서 오른쪽 상단의 톱니바퀴 아이콘을 클릭하고 **[!UICONTROL Settings]**&#x200B;을(를) 선택합니다.
 
    ![](assets/one-1.png)
 

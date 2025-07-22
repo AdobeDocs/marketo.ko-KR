@@ -1,7 +1,7 @@
 ---
 unique-page-id: 7512328
 description: ' [!DNL Level 3 Web Meeting] - Marketo 문서 - 제품 설명서를 사용하여 이벤트 만들기'
-title: ' [!DNL Level 3 Web Meeting](으)로 이벤트 만들기'
+title: ' [!DNL Level 3 Web Meeting] (으)로 이벤트 만들기'
 exl-id: 17ade784-a2f4-4e92-a875-3bf2f80c13ab
 feature: Events
 source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327

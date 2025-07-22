@@ -1,7 +1,7 @@
 ---
 unique-page-id: 2949874
 description: ' [!DNL GotoWebinar] - Marketo 문서 - 제품 설명서를 사용하여 이벤트 만들기'
-title: ' [!DNL GotoWebinar](으)로 이벤트 만들기'
+title: ' [!DNL GotoWebinar] (으)로 이벤트 만들기'
 exl-id: c0f0a202-e416-4523-b7d6-dbcfafc536cd
 feature: Events
 source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
