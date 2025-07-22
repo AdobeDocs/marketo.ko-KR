@@ -60,7 +60,7 @@ ht-degree: 23%
 
 >[!NOTE]
 >
->CRM과 동기화되지 않은 인스턴스에 대한 영업 기회 정보 [API를 통해 삽입됨](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/rest/lead-database/opportunities)도 볼 수 있습니다.
+>CRM과 동기화되지 않은 인스턴스에 대한 영업 기회 정보 [API를 통해 삽입됨](https://experienceleague.adobe.com/ko/docs/marketo-developer/marketo/rest/lead-database/opportunities)도 볼 수 있습니다.
 
 ## 필드 편집 {#editing-a-field}
 

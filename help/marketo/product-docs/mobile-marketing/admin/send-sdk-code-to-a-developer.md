@@ -15,8 +15,8 @@ ht-degree: 1%
 
 인앱 메시지 또는 푸시 알림을 만들려면 먼저 개발자에게 Android 및 iOS 플랫폼용 모바일 앱 SDK을 설정하고 초기화하도록 해야 합니다.
 
-* [Android 지침](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/mobile/installation#how-to-install-marketo-sdk-on-android)
-* [iOS 지침](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/mobile/installation#how-to-install-marketo-sdk-on-ios)
+* [Android 지침](https://experienceleague.adobe.com/ko/docs/marketo-developer/marketo/mobile/installation#how-to-install-marketo-sdk-on-android)
+* [iOS 지침](https://experienceleague.adobe.com/ko/docs/marketo-developer/marketo/mobile/installation#how-to-install-marketo-sdk-on-ios)
 
 ## 개발자에게 SDK 코드 보내기 {#send-sdk-code-to-a-developer-1}
 

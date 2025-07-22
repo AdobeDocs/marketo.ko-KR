@@ -103,7 +103,7 @@ ht-degree: 1%
 
 모바일 앱 활동 있음/있음
 
-이렇게 하면 사용자 지정 모바일 활동을 추적할 수 있는 강력한 방법을 제공합니다. 개발자와 협력하여 Android에 대해 [추적](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/mobile/installation#how-to-install-marketo-sdk-on-android){target="_blank"}과(와) iOS에 대해 [추적](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/mobile/installation#install-marketo-sdk-on-ios){target="_blank"}을 설정해야 합니다.
+이렇게 하면 사용자 지정 모바일 활동을 추적할 수 있는 강력한 방법을 제공합니다. 개발자와 협력하여 Android에 대해 [추적](https://experienceleague.adobe.com/ko/docs/marketo-developer/marketo/mobile/installation#how-to-install-marketo-sdk-on-android){target="_blank"}과(와) iOS에 대해 [추적](https://experienceleague.adobe.com/ko/docs/marketo-developer/marketo/mobile/installation#install-marketo-sdk-on-ios){target="_blank"}을 설정해야 합니다.
 
 * 모바일 앱 활동 있음 - 트리거
 

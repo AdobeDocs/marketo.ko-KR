@@ -63,7 +63,7 @@ Marketo의 사용자 지정 개체를 사용하여 비즈니스와 관련된 지
 
    >[!NOTE]
    >
-   >목록 가져오기 또는 [API](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/rest/rest-api)를 통해서만 Marketo 사용자 지정 개체를 채울 수 있습니다.
+   >목록 가져오기 또는 [API](https://experienceleague.adobe.com/ko/docs/marketo-developer/marketo/rest/rest-api)를 통해서만 Marketo 사용자 지정 개체를 채울 수 있습니다.
 
 ## 다대다 구조에 대한 사용자 지정 개체 만들기 {#create-a-custom-object-for-a-many-to-many-structure}
 
@@ -103,7 +103,7 @@ Marketo의 사용자 지정 개체를 사용하여 비즈니스와 관련된 지
 
    >[!NOTE]
    >
-   >목록 가져오기 또는 [API](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/rest/rest-api)를 통해서만 Marketo 사용자 지정 개체를 채울 수 있습니다.
+   >목록 가져오기 또는 [API](https://experienceleague.adobe.com/ko/docs/marketo-developer/marketo/rest/rest-api)를 통해서만 Marketo 사용자 지정 개체를 채울 수 있습니다.
 
 다음 단계는 중간 개체를 만드는 것입니다(아래 참조). 그러나 그 전에 연결할 필드를 만들어야 합니다.
 

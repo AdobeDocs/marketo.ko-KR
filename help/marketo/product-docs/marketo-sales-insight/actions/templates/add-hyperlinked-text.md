@@ -26,7 +26,7 @@ ht-degree: 0%
 
    ![](assets/add-hyperlinked-text-3.png)
 
-1. 연결할 URL(예: `https://experienceleague.adobe.com/docs/marketo/using/home.html`)을 입력하십시오. URL을 같은 창에서 열지 또는 새 창에서 열지를 선택하고 **[!UICONTROL Save]**&#x200B;을(를) 클릭합니다.
+1. 연결할 URL(예: `https://experienceleague.adobe.com/docs/marketo/using/home.html?lang=ko`)을 입력하십시오. URL을 같은 창에서 열지 또는 새 창에서 열지를 선택하고 **[!UICONTROL Save]**&#x200B;을(를) 클릭합니다.
 
    ![](assets/add-hyperlinked-text-4.png)
 

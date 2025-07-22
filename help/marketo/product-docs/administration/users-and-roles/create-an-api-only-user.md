@@ -13,7 +13,7 @@ ht-degree: 2%
 
 # API 전용 사용자 만들기 {#create-an-api-only-user}
 
-[REST API](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/rest/rest-api){target="_blank"}를 통해 Marketo과 통합하려면 API 전용 사용자를 만들어야 합니다. 방법은 다음과 같습니다.
+[REST API](https://experienceleague.adobe.com/ko/docs/marketo-developer/marketo/rest/rest-api){target="_blank"}를 통해 Marketo과 통합하려면 API 전용 사용자를 만들어야 합니다. 방법은 다음과 같습니다.
 
 >[!IMPORTANT]
 >
