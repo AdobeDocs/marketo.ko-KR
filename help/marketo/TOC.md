@@ -3,9 +3,9 @@ audience: end-user
 user-guide-title: Marketo 안내서
 user-guide-description: Marketo 제품 설명서
 feature-set: Marketo Engage
-source-git-commit: e0e739054c6389e0a3ab638097491e6c24f5e30c
+source-git-commit: bf686092e8d574c9b8fd3e9e98d0e6d567354788
 workflow-type: tm+mt
-source-wordcount: '9296'
+source-wordcount: '9294'
 ht-degree: 2%
 
 ---
@@ -1029,8 +1029,8 @@ ht-degree: 2%
          + [기능 비교](product-docs/email-marketing/email-designer/feature-comparison.md)
          + [이메일 작성](product-docs/email-marketing/email-designer/email-authoring.md)
          + [이메일 템플릿 작성](product-docs/email-marketing/email-designer/email-template-authoring.md)
-         + [사용자 지정 CSS 문서](product-docs/email-marketing/email-designer/custom-css.md)
-         + [브랜드 키트 문서](product-docs/email-marketing/email-designer/brand-kit.md)
+         + [사용자 지정 CSS](product-docs/email-marketing/email-designer/custom-css.md)
+         + [브랜드 키트](product-docs/email-marketing/email-designer/brand-kit.md)
          + [Litmus를 사용하여 이메일 렌더링 테스트](product-docs/email-marketing/email-designer/test-email-rendering.md)
          + [Personalization 토큰](product-docs/email-marketing/email-designer/personalization-tokens.md)
          + [AEM Assets 작업](product-docs/email-marketing/email-designer/aem-assets.md)
@@ -1355,11 +1355,11 @@ ht-degree: 2%
             + [동적 필드에서 자기 자신을 참조합니다.](product-docs/marketo-sales-connect/templates/dynamic-fields/reference-yourself-in-a-dynamic-field.md)
    + Marketo Sales Insight {#marketo-sales-insight}
       + 액션 {#actions}
-         + [Sales Insight Actions 기능 개요](product-docs/marketo-sales-insight/actions/sales-insight-actions-feature-overview.md)
+         + [Sales Insight 작업 기능 개요](product-docs/marketo-sales-insight/actions/sales-insight-actions-feature-overview.md)
          + 시작하기 {#getting-started}
             + [Sales Insight Actions 사용 온보딩 안내서](product-docs/marketo-sales-insight/actions/getting-started/sales-insight-actions-user-onboarding-guide.md)
             + [Sales Insight Actions 사용자 온보딩 체크리스트](product-docs/marketo-sales-insight/actions/getting-started/sales-insight-actions-user-onboarding-checklist.md)
-            + [Sales Insight Actions 관리 설정 안내서](product-docs/marketo-sales-insight/actions/getting-started/sales-insight-actions-admin-setup-guide.md)
+            + [Sales Insight Actions Admin Setup 안내서](product-docs/marketo-sales-insight/actions/getting-started/sales-insight-actions-admin-setup-guide.md)
             + [Marketo 영업 암호 변경](product-docs/marketo-sales-insight/actions/getting-started/change-your-marketo-sales-password.md)
             + [제품 사용 제한](product-docs/marketo-sales-insight/actions/getting-started/product-usage-limits.md)
             + 이메일 설정 {#email-settings}
@@ -1397,14 +1397,14 @@ ht-degree: 2%
                + [문서](product-docs/marketo-sales-insight/actions/crm/salesforce-customization/doc.md)
             + Salesforce 통합 {#salesforce-integration}
                + [Salesforce 활동 세부 사항 사용자 지정 구성](product-docs/marketo-sales-insight/actions/crm/salesforce-integration/configure-salesforce-activity-detail-customization.md)
-               + [Sales Insight Actions 계정을 Salesforce에 연결](product-docs/marketo-sales-insight/actions/crm/salesforce-integration/connect-your-sales-insight-actions-account-to-salesforce.md)
-               + [Sales Insight 작업에서 Salesforce 연결 해제](product-docs/marketo-sales-insight/actions/crm/salesforce-integration/disconnect-salesforce-from-sales-insight-actions.md)
+               + [판매 Insight 작업 계정을 Salesforce에 연결](product-docs/marketo-sales-insight/actions/crm/salesforce-integration/connect-your-sales-insight-actions-account-to-salesforce.md)
+               + [영업 Insight 작업에서 Salesforce 연결 해제](product-docs/marketo-sales-insight/actions/crm/salesforce-integration/disconnect-salesforce-from-sales-insight-actions.md)
                + [회신 로깅](product-docs/marketo-sales-insight/actions/crm/salesforce-integration/reply-logging.md)
                + [Salesforce 진단](product-docs/marketo-sales-insight/actions/crm/salesforce-integration/salesforce-diagnostics.md)
-               + [Sales Insight Actions 샌드박스 설정](product-docs/marketo-sales-insight/actions/crm/salesforce-integration/set-up-a-sales-insight-actions-sandbox.md)
+               + [Sales Insight Actions Sandbox 설정](product-docs/marketo-sales-insight/actions/crm/salesforce-integration/set-up-a-sales-insight-actions-sandbox.md)
                + [영업 활동을 Salesforce에 동기화](product-docs/marketo-sales-insight/actions/crm/salesforce-integration/sync-sales-activities-to-salesforce.md)
             + Salesforce 패키지 구성 {#salesforce-package-configuration}
-               + [Salesforce의 Sales Insight Actions 구성](product-docs/marketo-sales-insight/actions/crm/salesforce-package-configuration/sales-insight-actions-configuration-in-salesforce.md)
+               + [Salesforce의 영업 Insight 작업 구성](product-docs/marketo-sales-insight/actions/crm/salesforce-package-configuration/sales-insight-actions-configuration-in-salesforce.md)
                + [Salesforce에 판매 활동 속성 로깅](product-docs/marketo-sales-insight/actions/crm/salesforce-package-configuration/logging-sales-activity-attributes-to-salesforce.md)
                + [Salesforce 목록 보기에 작업 단추 추가](product-docs/marketo-sales-insight/actions/crm/salesforce-package-configuration/add-action-buttons-to-salesforce-list-view.md)
                + [Salesforce에 활동을 기록할 때 활동 유형 필드 업데이트](product-docs/marketo-sales-insight/actions/crm/salesforce-package-configuration/update-activity-type-field-when-logging-activities-to-salesforce.md)
@@ -1445,16 +1445,16 @@ ht-degree: 2%
             + [CC/BCC로 여러 수신자를 추적할 수 있습니까?](product-docs/marketo-sales-insight/actions/faq/can-i-track-multiple-recipients-with-cc-bcc.md)
             + [컨텐츠 및 파일 첨부 파일 FAQ](product-docs/marketo-sales-insight/actions/faq/content-and-file-attachment-faq.md)
             + [이메일의 참조 및 BCC 섹션에 나열된 수신자의 보기, 클릭 수 및 답글이 추적됩니까?](product-docs/marketo-sales-insight/actions/faq/do-views-clicks-and-replies-from-cc-and-bcc-get-tracked.md)
-            + [Sales Insight Action에 iPhone 또는 Android 앱이 있습니까?](product-docs/marketo-sales-insight/actions/faq/does-sales-insight-actions-have-an-iphone-or-android-app.md)
-            + [내 서버에서 Sales Insight 작업을 어떻게 허용 목록 할 수 있습니까?](product-docs/marketo-sales-insight/actions/faq/how-can-i-allowlist-sales-insight-actions-on-my-server.md)
+            + [Sales Insight 작업에는 iPhone 또는 Android 앱이 있습니까?](product-docs/marketo-sales-insight/actions/faq/does-sales-insight-actions-have-an-iphone-or-android-app.md)
+            + [내 서버에서 판매 Insight 작업을 어떻게 허용 목록 할 수 있습니까?](product-docs/marketo-sales-insight/actions/faq/how-can-i-allowlist-sales-insight-actions-on-my-server.md)
             + [Salesforce에 연결할 때 &quot;요청을 인증할 수 없습니다&quot;를 해결하려면 어떻게 합니까?](product-docs/marketo-sales-insight/actions/faq/how-do-i-fix-we-were-unable-to-authenticate-your-request-when-connecting-to-salesforce.md)
             + [자아 보기를 방지하려면 어떻게 해야 합니까?](product-docs/marketo-sales-insight/actions/faq/how-do-i-prevent-self-views.md)
             + [위치 추적은 어떻게 작동합니까?](product-docs/marketo-sales-insight/actions/faq/how-does-location-tracking-work.md)
             + [제 계좌가 잠겨버렸어요. 어떻게 해야 합니까?](product-docs/marketo-sales-insight/actions/faq/i-got-locked-out-of-my-account-what-do-i-do.md)
-            + [Sales Insight 작업은 Salesforce Lightning 과 호환됩니까?](product-docs/marketo-sales-insight/actions/faq/is-sales-insight-actions-compatible-with-salesforce-lightning.md)
-            + [Sales Insight Actions 는 어떤 브라우저를 지원합니까?](product-docs/marketo-sales-insight/actions/faq/which-browsers-does-sales-insight-actions-support.md)
-            + [Sales Insight Actions 서비스 약관은 무엇입니까?](product-docs/marketo-sales-insight/actions/faq/what-are-the-sales-insight-actions-terms-of-service.md)
-            + [내 연락처 중 Sales Insight 작업에 푸시되는 대상이 없는 이유는 무엇입니까?](product-docs/marketo-sales-insight/actions/faq/why-arent-any-of-my-contacts-getting-pushed-to-sales-insight-actions.md)
+            + [영업 Insight 액션이 Salesforce Lightning과 호환됩니까?](product-docs/marketo-sales-insight/actions/faq/is-sales-insight-actions-compatible-with-salesforce-lightning.md)
+            + [Sales Insight 작업은 어떤 브라우저를 지원합니까?](product-docs/marketo-sales-insight/actions/faq/which-browsers-does-sales-insight-actions-support.md)
+            + [판매 Insight 작업 서비스 약관은 무엇입니까?](product-docs/marketo-sales-insight/actions/faq/what-are-the-sales-insight-actions-terms-of-service.md)
+            + [내 연락처 중 영업 Insight 작업에 푸시되는 사람이 없는 이유는 무엇입니까?](product-docs/marketo-sales-insight/actions/faq/why-arent-any-of-my-contacts-getting-pushed-to-sales-insight-actions.md)
             + [동적 필드를 채우지 않는 이유는 무엇입니까?](product-docs/marketo-sales-insight/actions/faq/why-arent-my-dynamic-fields-filling-out.md)
             + [영업 활동 및 활동 필드가 Salesforce과 동기화되지 않는 이유는 무엇입니까?](product-docs/marketo-sales-insight/actions/faq/why-arent-my-sales-activities-and-activity-fields-syncing-to-salesforce.md)
             + [연락처를 삭제할 수 없는 이유](product-docs/marketo-sales-insight/actions/faq/why-cant-i-delete-a-contact.md)
@@ -1466,14 +1466,14 @@ ht-degree: 2%
             + [Highspot 통합](product-docs/marketo-sales-insight/actions/integrations/highspot-integration.md)
          + Marketo {#marketo}
             + [사용자에게 Marketo 액세스 권한 부여](product-docs/marketo-sales-insight/actions/marketo/grant-marketo-access-to-users.md)
-            + [Sales Insight Actions 의 Interesting Moment](product-docs/marketo-sales-insight/actions/marketo/interesting-moments-in-sales-insight-actions.md)
+            + [영업 Insight 작업의 중요한 순간](product-docs/marketo-sales-insight/actions/marketo/interesting-moments-in-sales-insight-actions.md)
             + [Sales Connect 사용자에게 캠페인 표시](product-docs/marketo-sales-insight/actions/marketo/make-a-marketing-campaign-visible-in-sales-insight-actions.md)
             + [판매 활동 트리거 및 필터](product-docs/marketo-sales-insight/actions/marketo/sales-activity-triggers-and-filters.md)
-            + [Sales Insight Actions 활동 용어집](product-docs/marketo-sales-insight/actions/marketo/sales-insight-actions-activity-glossary.md)
+            + [판매 Insight 작업 활동 용어집](product-docs/marketo-sales-insight/actions/marketo/sales-insight-actions-activity-glossary.md)
             + [Marketo 연결 설정](product-docs/marketo-sales-insight/actions/marketo/set-up-your-marketo-connection.md)
          + 사람 {#people}
             + [개인 세부 사항 보기](product-docs/marketo-sales-insight/actions/people/person-detail-view.md)
-            + [Sales Insight 작업 및 GDPR 규정 준수](product-docs/marketo-sales-insight/actions/people/sales-insight-actions-and-gdpr-compliance.md)
+            + [영업 Insight 작업 및 GDPR 준수](product-docs/marketo-sales-insight/actions/people/sales-insight-actions-and-gdpr-compliance.md)
             + 연락처 관리 {#managing-contacts}
                + [사람에 대한 대량 작업](product-docs/marketo-sales-insight/actions/people/managing-contacts/bulk-actions-on-people.md)
                + [그룹 관리](product-docs/marketo-sales-insight/actions/people/managing-contacts/manage-groups.md)
@@ -1514,7 +1514,7 @@ ht-degree: 2%
                + [이메일 활동](product-docs/marketo-sales-insight/msi-for-microsoft-dynamics/features/marketo-tab/email-activities.md)
                + [웹 활동](product-docs/marketo-sales-insight/msi-for-microsoft-dynamics/features/marketo-tab/web-activities.md)
          + 설치 중 {#installing}
-            + [Microsoft Dynamics용 Marketo Sales Insight Solution 다운로드](product-docs/marketo-sales-insight/msi-for-microsoft-dynamics/installing/download-the-marketo-sales-insight-solution-for-microsoft-dynamics.md)
+            + [Microsoft Dynamics용 Marketo Sales Insight 솔루션 다운로드](product-docs/marketo-sales-insight/msi-for-microsoft-dynamics/installing/download-the-marketo-sales-insight-solution-for-microsoft-dynamics.md)
             + [Microsoft Dynamics 2011에서 Marketo Sales Insight 설치 및 구성](product-docs/marketo-sales-insight/msi-for-microsoft-dynamics/installing/install-and-configure-marketo-sales-insight-in-microsoft-dynamics-2011.md)
             + [Microsoft Dynamics 2013에서 Marketo Sales Insight 설치 및 구성](product-docs/marketo-sales-insight/msi-for-microsoft-dynamics/installing/install-and-configure-marketo-sales-insight-in-microsoft-dynamics-2013.md)
             + [Microsoft Dynamics 2015에서 Marketo Sales Insight 설치 및 구성](product-docs/marketo-sales-insight/msi-for-microsoft-dynamics/installing/install-and-configure-marketo-sales-insight-in-microsoft-dynamics-2015.md)
@@ -1539,9 +1539,9 @@ ht-degree: 2%
             + [기존 고객을 위한 구성](product-docs/marketo-sales-insight/msi-for-salesforce/configuration/configuration-for-existing-customers.md)
             + [Salesforce의 Marketo Sales Insight 구성 탭](product-docs/marketo-sales-insight/msi-for-salesforce/configuration/marketo-sales-insight-configuration-tab-in-salesforce.md)
             + [Salesforce에 Marketo 탭 추가](product-docs/marketo-sales-insight/msi-for-salesforce/configuration/add-marketo-tab-to-salesforce.md)
-            + [Marketo 관리자를 위한 Sales Insight 페이지](product-docs/marketo-sales-insight/msi-for-salesforce/configuration/sales-insight-page-for-marketo-admins.md)
-            + [Sales Insight 권한 집합 추가](product-docs/marketo-sales-insight/msi-for-salesforce/configuration/add-sales-insight-permission-set.md)
-            + [Sales Insight 액세스 제거](product-docs/marketo-sales-insight/msi-for-salesforce/configuration/remove-sales-insight-access.md)
+            + [Marketo 관리자를 위한 Insight 판매 페이지](product-docs/marketo-sales-insight/msi-for-salesforce/configuration/sales-insight-page-for-marketo-admins.md)
+            + [판매 Insight 권한 집합 추가](product-docs/marketo-sales-insight/msi-for-salesforce/configuration/add-sales-insight-permission-set.md)
+            + [판매 Insight 액세스 제거](product-docs/marketo-sales-insight/msi-for-salesforce/configuration/remove-sales-insight-access.md)
             + [프로필에 Sales Insight 액세스 추가](product-docs/marketo-sales-insight/msi-for-salesforce/configuration/add-sales-insight-access-to-profiles.md)
             + [Salesforce Classic에 일괄 작업 단추 추가](product-docs/marketo-sales-insight/msi-for-salesforce/configuration/add-bulk-action-buttons-to-salesforce-classic.md)
             + [Salesforce Lightning의 일괄 작업](product-docs/marketo-sales-insight/msi-for-salesforce/configuration/bulk-actions-in-salesforce-lightning.md)
@@ -1549,9 +1549,9 @@ ht-degree: 2%
             + [MSI 기능 개요](product-docs/marketo-sales-insight/msi-for-salesforce/features/msi-feature-overview.md)
             + [Insights 대시보드 기능 개요](product-docs/marketo-sales-insight/msi-for-salesforce/features/insights-dashboard-feature-overview.md)
             + [Dynamic Chat 통합](product-docs/marketo-sales-insight/msi-for-salesforce/features/dynamic-chat-integration.md)
-            + [Marketo Sales Insight의 여러 레코드에 이메일 보내기](product-docs/marketo-sales-insight/msi-for-salesforce/features/send-an-email-to-multiple-records-in-marketo-sales-insight.md)
+            + [Marketo Sales Insight의 여러 레코드로 이메일 보내기](product-docs/marketo-sales-insight/msi-for-salesforce/features/send-an-email-to-multiple-records-in-marketo-sales-insight.md)
             + MSI 패널의 작업 {#actions-in-the-msi-panel}
-               + [Sales Insight에서 작업 선택](product-docs/marketo-sales-insight/msi-for-salesforce/features/actions-in-the-msi-panel/choose-an-action-in-sales-insight.md)
+               + [영업 Insight에서 작업 선택](product-docs/marketo-sales-insight/msi-for-salesforce/features/actions-in-the-msi-panel/choose-an-action-in-sales-insight.md)
                + [Marketo Sales Insight에서 구독 취소 바닥글 구성](product-docs/marketo-sales-insight/msi-for-salesforce/features/actions-in-the-msi-panel/send-marketo-email/configure-unsubscribe-footers-in-marketo-sales-insight.md)
                + [판매 템플릿 잠금](product-docs/marketo-sales-insight/msi-for-salesforce/features/actions-in-the-msi-panel/send-marketo-email/lock-sales-template.md)
                + [Sales Insight에 이메일 게시](product-docs/marketo-sales-insight/msi-for-salesforce/features/actions-in-the-msi-panel/send-marketo-email/publish-an-email-to-sales-insight.md)
@@ -1562,13 +1562,13 @@ ht-degree: 2%
                + [최상의 선택](product-docs/marketo-sales-insight/msi-for-salesforce/features/marketo-tab/best-bets.md)
                + [가망 고객 피드 사용](product-docs/marketo-sales-insight/msi-for-salesforce/features/marketo-tab/using-the-lead-feed.md)
             + MSI 구성 탭 {#msi-configuration-tab}
-               + [Sales Insight에 RSS 사용](product-docs/marketo-sales-insight/msi-for-salesforce/features/msi-configuration-tab/enable-rss-for-sales-insight.md)
+               + [판매 Insight용 RSS 활성화](product-docs/marketo-sales-insight/msi-for-salesforce/features/msi-configuration-tab/enable-rss-for-sales-insight.md)
             + 성능 보고서 {#performance-reports}
-               + [Sales Insight Email Performance 보고서](product-docs/marketo-sales-insight/msi-for-salesforce/features/performance-reports/sales-insight-email-performance-report.md)
+               + [영업 Insight 이메일 성과 보고서](product-docs/marketo-sales-insight/msi-for-salesforce/features/performance-reports/sales-insight-email-performance-report.md)
             + 별과 불꽃 {#stars-and-flames}
                + [별과 불꽃 사용자 지정](product-docs/marketo-sales-insight/msi-for-salesforce/features/stars-and-flames/customize-stars-and-flames.md)
                + [우선 순위, 긴급도, 상대 점수 및 최고 베팅](product-docs/marketo-sales-insight/msi-for-salesforce/features/stars-and-flames/priority-urgency-relative-score-and-best-bets.md)
-               + [Sales Insight에서 Stars 및 Flames에 사용할 점수 필드를 설정합니다.](product-docs/marketo-sales-insight/msi-for-salesforce/features/stars-and-flames/set-score-fields-to-be-used-for-stars-and-flames-in-sales-insight.md)
+               + [Sales Insight의 Stars and Flames에 사용할 스코어 필드 설정](product-docs/marketo-sales-insight/msi-for-salesforce/features/stars-and-flames/set-score-fields-to-be-used-for-stars-and-flames-in-sales-insight.md)
             + MSI 패널의 탭 {#tabs-in-the-msi-panel}
                + [이메일 탭](product-docs/marketo-sales-insight/msi-for-salesforce/features/tabs-in-the-msi-panel/email-tab.md)
                + 즐거운 순간 {#interesting-moments}
@@ -1594,8 +1594,8 @@ ht-degree: 2%
          + [Marketo 템플릿을 사용하여 Outlook에서 전송 및 추적](product-docs/marketo-sales-insight/msi-outlook-plugin/send-and-track-from-outlook-using-a-marketo-template.md)
          + [Marketo Sales Insight 플러그인 관리자 지정](product-docs/marketo-sales-insight/msi-outlook-plugin/specify-marketo-sales-insight-plugin-admins.md)
          + [Outlook용 Marketo 이메일 추가 기능 업그레이드](product-docs/marketo-sales-insight/msi-outlook-plugin/upgrade-your-marketo-email-add-in-for-outlook.md)
-      + [Sales Insight for Non-Native MS Dynamics 통합](product-docs/marketo-sales-insight/sales-insight-for-non-native-ms-dynamics-integrations.md)
-      + [비기본 Salesforce 통합을 위한 Sales Insight](product-docs/marketo-sales-insight/sales-insight-for-non-native-salesforce-integrations.md)
+      + [기본이 아닌 MS Dynamics 통합을 위한 Sales Insight](product-docs/marketo-sales-insight/sales-insight-for-non-native-ms-dynamics-integrations.md)
+      + [기본이 아닌 Salesforce 통합을 위한 Sales Insight](product-docs/marketo-sales-insight/sales-insight-for-non-native-salesforce-integrations.md)
    + Marketo Sky {#marketo-sky}
       + [예상 비헤이비어](product-docs/marketo-sky/expected-behavior.md)
    + 모바일 마케팅 {#mobile-marketing}
@@ -1846,9 +1846,9 @@ ht-degree: 2%
          + [계정 스코어](product-docs/target-account-management/setup-tam/account-score.md)
          + [계정 팀 설정](product-docs/target-account-management/setup-tam/account-team-setup.md)
          + [CRM 검색을 위한 사용자 지정 필드 만들기](product-docs/target-account-management/setup-tam/create-a-custom-field-for-crm-discovery.md)
-         + [계정 인사이트 설정](product-docs/target-account-management/setup-tam/set-up-account-insight.md)
-         + [계정 통찰력 플러그인 개요](product-docs/target-account-management/setup-tam/account-insight-plug-in-overview.md)
-         + [계정 인사이트에 액세스하도록 사용자 초대](product-docs/target-account-management/setup-tam/invite-users-to-access-account-insight.md)
+         + [계정 Insight 설정](product-docs/target-account-management/setup-tam/set-up-account-insight.md)
+         + [계정 Insight 플러그인 개요](product-docs/target-account-management/setup-tam/account-insight-plug-in-overview.md)
+         + [계정 Insight에 액세스하도록 사용자 초대](product-docs/target-account-management/setup-tam/invite-users-to-access-account-insight.md)
       + Target {#target}
          + 명명된 계정 {#named-accounts}
             + [명명된 계정 개요](product-docs/target-account-management/target/named-accounts/named-account-overview.md)
@@ -1914,7 +1914,7 @@ ht-degree: 2%
             + [RTP를 Google Universal Analytics와 통합](product-docs/web-personalization/reporting-for-web-personalization/web-analytics-integrations/integrate-rtp-with-google-universal-analytics.md)
             + [Adobe Analytics과 통합](product-docs/web-personalization/reporting-for-web-personalization/web-analytics-integrations/integrate-with-adobe-analytics.md)
       + 웹 Personalization 이해 {#understanding-web-personalization}
-         + [콘텐츠 분석 이해](product-docs/web-personalization/understanding-web-personalization/understanding-content-analytics.md)
+         + [Content Analytics 이해](product-docs/web-personalization/understanding-web-personalization/understanding-content-analytics.md)
          + [웹 Personalization 용어집](product-docs/web-personalization/understanding-web-personalization/web-personalization-glossary.md)
          + [웹 Personalization 개요](product-docs/web-personalization/understanding-web-personalization/web-personalization-overview.md)
       + 템플릿 사용 {#using-templates}
