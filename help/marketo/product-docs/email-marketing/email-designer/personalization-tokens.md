@@ -25,7 +25,7 @@ ht-degree: 0%
 
 ## 기본 사용 사례 {#primary-use-case}
 
-이 개선 사항은 주로 [Velocity 스크립팅](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/email-scripting){target="_blank"}에서 Handlebar 스크립팅으로 전환하는 데 도움이 됩니다. 새 이메일 디자이너는 새 토큰 형식만 지원합니다. 업데이트된 형식은 공백을 제거하고 수정된 기본 텍스트 구조를 도입하여 더 유연하고 효율적인 스크립팅 환경을 보장합니다.
+이 개선 사항은 주로 [Velocity 스크립팅](https://experienceleague.adobe.com/ko/docs/marketo-developer/marketo/email-scripting){target="_blank"}에서 Handlebar 스크립팅으로 전환하는 데 도움이 됩니다. 새 이메일 디자이너는 새 토큰 형식만 지원합니다. 업데이트된 형식은 공백을 제거하고 수정된 기본 텍스트 구조를 도입하여 더 유연하고 효율적인 스크립팅 환경을 보장합니다.
 
 ## 토큰 경험 {#token-experience}
 
