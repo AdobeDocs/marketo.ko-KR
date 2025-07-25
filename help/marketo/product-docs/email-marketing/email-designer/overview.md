@@ -5,9 +5,9 @@ description: 새로운 Adobe Marketo Engage 이메일 Designer을 시작합니�
 title: 개요
 feature: Email Designer
 exl-id: d31ce148-1feb-411e-bd10-453a6c7878fb
-source-git-commit: 3717cba468ed7f1a916fa0eefa2ff50708d95c34
+source-git-commit: fd34d8ff9e57a2c04ece1201a7b0ebaf1b2bd9c7
 workflow-type: tm+mt
-source-wordcount: '861'
+source-wordcount: '846'
 ht-degree: 0%
 
 ---
@@ -26,7 +26,7 @@ ht-degree: 0%
 
 +++이메일 디자이너에 액세스하는 방법 알아보기
 
-새 이메일 디자이너에 액세스하려면 Marketo Engage 구독을 [Adobe IMS(Identity Management System)](https://experienceleague.adobe.com/ko/docs/marketo/using/product-docs/administration/marketo-with-adobe-identity/adobe-identity-management-overview)&#x200B;(으)로 마이그레이션해야 합니다. 아직 실행되지 않았으며 신속 처리를 요청하려면 Adobe 계정 팀(계정 관리자) 또는 [Marketo 지원](https://nation.marketo.com/t5/support/ct-p/Support)에 문의하십시오.
+새 이메일 디자이너에 액세스하려면 Marketo Engage 구독을 [Adobe IMS(Identity Management System)](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/administration/marketo-with-adobe-identity/adobe-identity-management-overview)&#x200B;(으)로 마이그레이션해야 합니다. 아직 실행되지 않았으며 신속 처리를 요청하려면 Adobe 계정 팀(계정 관리자) 또는 [Marketo 지원](https://nation.marketo.com/t5/support/ct-p/Support)에 문의하십시오.
 
 ### 사용자 추가 {#add-users}
 
@@ -53,8 +53,6 @@ ht-degree: 0%
 * [조각](/help/marketo/product-docs/email-marketing/email-designer/fragments.md){target="_blank"}: 시각적 콘텐츠 조각을 만들고 이메일 및 이메일 템플릿에 재사용 가능한 구성 요소로 사용하는 방법에 대해 알아봅니다.
 
 * [사용자 지정 가능한 조각](/help/marketo/product-docs/email-marketing/email-designer/customizable-fragments.md){target="_blank"}: 일부 필드를 편집할 수 있도록 만들어 조각을 사용자 지정하는 방법에 대해 알아봅니다.
-
-* [Personalization 토큰](/help/marketo/product-docs/email-marketing/email-designer/personalization-tokens.md){target="_blank"}: 새 전자 메일 디자이너에서 개인화 토큰의 새 형식에 대해 알아봅니다.
 
 * [AEM 에셋으로 작업](/help/marketo/product-docs/email-marketing/email-designer/aem-assets.md){target="_blank"}: Marketo Engage에서 사용할 AEM 디지털 에셋에 쉽게 액세스하는 방법에 대해 알아봅니다.
 
