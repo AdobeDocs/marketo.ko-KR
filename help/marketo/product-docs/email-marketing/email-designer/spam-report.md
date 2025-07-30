@@ -6,9 +6,9 @@ description: SpamAssassin을 사용하여 이메일 콘텐츠를 테스트하고
 level: Beginner, Intermediate
 feature: Email Designer
 exl-id: 6954850e-2b1a-4bf5-b918-1c54d6926b7e
-source-git-commit: 71c4f64bc7b39241a5d899ffcbd4d2cdf59c64d9
+source-git-commit: aba42b7480c6e042c462c423615ad35a5f66212f
 workflow-type: tm+mt
-source-wordcount: '225'
+source-wordcount: '228'
 ht-degree: 5%
 
 ---
@@ -41,7 +41,7 @@ SpamAssassin은 콘텐츠를 분석하고 다양한 기준에 따라 점수를 �
 
    >[!IMPORTANT]
    >
-   >전체 점수가 5점보다 높으면 게재 시 이메일이 차단되거나 스팸으로 표시될 수 있습니다.
+   >전체 점수가 5점보다 높으면 수신자가 이메일을 차단하거나 게재 시 스팸으로 표시할 수 있습니다.
 
 1. 점수가 너무 높다고 판단되는 경우 보고서의 검색 결과를 기반으로 이메일 Designer에서 콘텐츠를 편집한 다음 **스팸 보고서**&#x200B;를 다시 실행하십시오.
 
@@ -53,4 +53,4 @@ SpamAssassin은 콘텐츠를 분석하고 다양한 기준에 따라 점수를 �
 
 >[!NOTE]
 >
->스팸 점수는 SpamAssassin을 통해 파생되며, 규칙은 Adobe이 소유하지 않습니다. 이러한 규칙에 대한 자세한 내용은 [SpamAssassin 설명서](https://spamassassin.apache.org/#_blank){target="_blank"}에서 확인할 수 있습니다. [오류 전체 목록이 ](https://spamassassin.apache.org/old/tests_3_0_x.html){target="_blank"}에 표시됩니다.
+>스팸 점수는 SpamAssassin을 통해 파생되며 **규칙은 Adobe이 소유하지 않습니다**. 이러한 규칙에 대한 자세한 내용은 [SpamAssassin 설명서](https://spamassassin.apache.org/#_blank){target="_blank"}에서 확인할 수 있습니다. [오류 전체 목록이 ](https://spamassassin.apache.org/old/tests_3_0_x.html){target="_blank"}에 표시됩니다.
