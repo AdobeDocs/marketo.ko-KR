@@ -3,9 +3,9 @@ description: 릴리스 노트 - 2025년 5월 - Marketo 문서 - 제품 설명서
 title: 릴리스 정보 - 2025년 5월
 feature: Release Information
 exl-id: 99cd1d54-0a80-40fa-9d0c-1cb437be90f0
-source-git-commit: 0297260b69c8573445c1f727a94f308138ee2895
+source-git-commit: 4a575c96100921c69c09996c649db979ac22cd4d
 workflow-type: tm+mt
-source-wordcount: '436'
+source-wordcount: '435'
 ht-degree: 2%
 
 ---
@@ -53,8 +53,8 @@ Adobe Dynamic Chat [에 대한 릴리스 정보는 여기에서 찾을 수 있�
   </tr>
   <tr> 
    <td><strong>모든 특성에 대한 트리거 토큰</strong>: Smart Campaign 필드에 있는 모든 활동 특성의 데이터를 사용할 수 있도록 지원하는 확장된 트리거 토큰 목록입니다.</td> 
-   <td><i>곧 출시 예정</i></td>
-   <td><i>곧 출시 예정</i></td>
+   <td>배송됨</td>
+   <td>해당 사항 없음</td>
   </tr>
  </tbody> 
 </table>
@@ -62,12 +62,12 @@ Adobe Dynamic Chat [에 대한 릴리스 정보는 여기에서 찾을 수 있�
 
 ## 공지 {#announcements}
 
-* **Facebook 오프라인 전환 통합 업데이트**: 2025년 5월 29일에 Graph API 버전 관리에 따른 [오프라인 전환 API](https://experienceleague.adobe.com/ko/docs/marketo/using/product-docs/demand-generation/facebook/set-up-facebook-offline-conversions){target="_blank"}의 Meta 사용 중단으로 인해 Marketo Engage의 [Facebook 오프라인 전환](https://developers.facebook.com/docs/marketing-api/conversions-api){target="_blank"} 통합이 새 Meta [전환 API](https://developers.facebook.com/docs/marketing-api/offline-conversions/){target="_blank"}(으)로 마이그레이션됩니다. 자세한 내용은 메타의 [전환 API를 통해 오프라인 이벤트 보내기](https://developers.facebook.com/docs/marketing-api/conversions-api/offline-events/){target="_blank"}(오프라인 CAPI)에 대한 안내서를 참조하십시오.
+* **Facebook 오프라인 전환 통합 업데이트**: 2025년 5월 29일에 Graph API 버전 관리에 따른 [오프라인 전환 API](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/demand-generation/facebook/set-up-facebook-offline-conversions){target="_blank"}의 Meta 사용 중단으로 인해 Marketo Engage의 [Facebook 오프라인 전환](https://developers.facebook.com/docs/marketing-api/conversions-api){target="_blank"} 통합이 새 Meta [전환 API](https://developers.facebook.com/docs/marketing-api/offline-conversions/){target="_blank"}(으)로 마이그레이션됩니다. 자세한 내용은 메타의 [전환 API를 통해 오프라인 이벤트 보내기](https://developers.facebook.com/docs/marketing-api/conversions-api/offline-events/){target="_blank"}(오프라인 CAPI)에 대한 안내서를 참조하십시오.
 
 * **새로운 Analytics 기능 - 공개 Beta**: [고급 BI Analytics](/help/marketo/product-docs/reporting/advanced-bi-analytics/overview.md){target="_blank"}(이전 명칭: Revenue Explorer 및 고급 Report Builder)가 4월 중순부터 모든 현재 Revenue Cycle Explorer 사용자에게 롤아웃되기 시작했습니다. 이 새로운 도구는 Marketo Engage 데이터에 대한 유연한 보고 및 시각화 인터페이스를 제공하여 진행 상황, 성능 등에 대한 세부 정보를 제공합니다. 더욱 풍부한 상호 작용 및 시각화, 빠른 성능, 보다 원활하고 직관적인 사용자 경험을 제공합니다.
 
 이 기능에 액세스하려면 고급 BI Analytics 추가 기능을 구입해야 합니다. 자세한 내용은 Adobe 계정 팀(계정 관리자)에 문의하십시오.
 
-* **Rest API &#39;access_token&#39; 매개 변수 사용 중단**: Marketo REST API 호출을 인증하는 데 사용되는 `access_token` 쿼리 매개 변수는 더 이상 사용되지 않으며 2025년 10월 31일 이후에 사용할 수 없습니다. 모든 신규 및 기존 통합은 &#39;인증&#39; 헤더 [을(를) 사용하여 여기에 설명된 대로 REST API 호출을 인증해야 합니다](https://experienceleague.adobe.com/ko/docs/marketo-developer/marketo/rest/authentication){target="_blank"}.
+* **Rest API &#39;access_token&#39; 매개 변수 사용 중단**: Marketo REST API 호출을 인증하는 데 사용되는 `access_token` 쿼리 매개 변수는 더 이상 사용되지 않으며 2025년 10월 31일 이후에 사용할 수 없습니다. 모든 신규 및 기존 통합은 &#39;인증&#39; 헤더 [을(를) 사용하여 여기에 설명된 대로 REST API 호출을 인증해야 합니다](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/rest/authentication){target="_blank"}.
 
-* **SOAP API 사용 중단**: Marketo SOAP API에 대한 지원은 2025년 10월 31일에 종료됩니다. SOAP API 기능을 사용하는 서비스는 [REST API](https://experienceleague.adobe.com/ko/docs/marketo-developer/marketo/rest/rest-api){target="_blank"}(으)로 마이그레이션해야 합니다.
+* **SOAP API 사용 중단**: Marketo SOAP API에 대한 지원은 2025년 10월 31일에 종료됩니다. SOAP API 기능을 사용하는 서비스는 [REST API](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/rest/rest-api){target="_blank"}(으)로 마이그레이션해야 합니다.
