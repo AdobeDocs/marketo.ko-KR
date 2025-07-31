@@ -4,9 +4,9 @@ description: 프로그램의 내 토큰 이해 - Marketo 문서 - 제품 설명�
 title: 프로그램의 내 토큰 이해
 exl-id: 01b42272-c419-4cd5-ad30-87413ceb2032
 feature: Tokens
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 0200af9b8ce180e15c6a45c5438b8f6f1c4af588
 workflow-type: tm+mt
-source-wordcount: '414'
+source-wordcount: '422'
 ht-degree: 1%
 
 ---
@@ -41,12 +41,12 @@ ht-degree: 1%
    <td>이 토큰을 사용하여 <a href="/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/create-a-calendar-event-ics-file.md">일정 이벤트 파일(.i</a><a href="/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/create-a-calendar-event-ics-file.md">cs)</a>을 전자 메일 및 랜딩 페이지에 추가하십시오.</td> 
   </tr> 
   <tr> 
-   <td><p>일자 <img alt="--" src="assets/image2014-9-25-16-3a44-3a47.png" data-linked-resource-id="3083231" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="1147114"></p></td> 
+   <td><p>Date <img alt="--" src="assets/image2014-9-25-16-3a44-3a47.png" data-linked-resource-id="3083231" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="1147114"></p></td> 
    <td>이 토큰은 날짜 값을 보유합니다. 날짜는 년-월-일(예: 2016-05-23)로 표시됩니다.</td> 
   </tr> 
   <tr> 
    <td>이메일 스크립트 <img alt="--" src="assets/image2014-9-25-16-3a45-3a4.png" data-linked-resource-id="3083232" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="1147114"></td> 
-   <td>이 토큰을 사용하여 이메일에서 Velocity 스크립트를 실행하십시오. <a href="https://experienceleague.adobe.com/ko/docs/marketo-developer/marketo/email-scripting" title="링크 따라가기" rel="nofollow">여기</a>에서 자세히 알아보세요. </td> 
+   <td>이 토큰을 사용하여 이메일에서 Velocity 스크립트를 실행하십시오. <a href="https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/email-scripting" title="링크 따라가기" rel="nofollow">여기</a>에서 자세히 알아보세요. </td> 
   </tr> 
   <tr> 
    <td>번호<span> <img alt="--" src="assets/image2014-9-25-16-3a45-3a25.png" data-linked-resource-id="3083233" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="1147114"></span></td> 
@@ -86,6 +86,10 @@ ht-degree: 1%
 전역 변수를 만든 다음 트리의 하위 수준에서 재정의할 수 있습니다.
 
 프로그램 및 폴더를 이동하면 토큰에도 영향을 줍니다. 이동 중에 참조가 손상되지 않았는지 항상 확인하십시오.
+
+>[!IMPORTANT]
+>
+>중첩된 토큰은 [일괄 캠페인](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/creating-a-smart-campaign/understanding-batch-and-trigger-smart-campaigns.md#batch-campaign){target="_blank"}에서 지원되지 않습니다.
 
 >[!NOTE]
 >
