@@ -3,9 +3,9 @@ description: 응답 라이브러리 - Marketo 문서 - 제품 설명서
 title: 응답 라이브러리
 feature: Dynamic Chat
 exl-id: 774346fa-f633-48e8-a489-999404b6070b
-source-git-commit: 3788898496c50ebc3a5a8bf6adbd79a270024be7
+source-git-commit: 8114c0bc094be0555e47165b31626baceaba9ef9
 workflow-type: tm+mt
-source-wordcount: '365'
+source-wordcount: '346'
 ht-degree: 0%
 
 ---
@@ -16,23 +16,23 @@ ht-degree: 0%
 
 ## 수동으로 질문 추가 {#manually-add-a-question}
 
-1. 생성 AI에서 **[!UICONTROL 지원 응답]**&#x200B;을 클릭합니다.
+1. 생성 AI에서 **[!UICONTROL Assisted responses]**&#x200B;을(를) 클릭합니다.
 
    ![](assets/response-library-1.png)
 
-1. **[!UICONTROL 응답 라이브러리]** 탭을 클릭합니다.
+1. **[!UICONTROL Response library]** 탭을 클릭합니다.
 
    ![](assets/response-library-2.png)
 
-1. **[!UICONTROL 질문 추가]**&#x200B;를 클릭합니다.
+1. **[!UICONTROL Add question]**&#x200B;을(를) 클릭합니다.
 
    ![](assets/response-library-3.png)
 
-1. 질문 및 응답을 입력합니다. 주제를 할당하고 사용자가 방문자와 공유할 수 있는 선택적 URL을 추가합니다. 완료되면 **[!UICONTROL 저장]**&#x200B;을 클릭합니다.
+1. 질문 및 응답을 입력합니다. 주제를 할당하고 사용자가 방문자와 공유할 수 있는 선택적 URL을 추가합니다. 완료되면 **[!UICONTROL Save]**&#x200B;을(를) 클릭합니다.
 
    ![](assets/response-library-4.png)
 
-1. 새로 고침을 클릭하면 새 질문이 맨 위에 &quot;[!UICONTROL 처리]&quot; 상태로 나타납니다.
+1. 새로 고침을 클릭하면 새 질문이 맨 위에 &quot;[!UICONTROL Processing]&quot; 상태로 나타납니다.
 
    ![](assets/response-library-5.png)
 
@@ -44,19 +44,19 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->생성된 모든 질문 및 응답에는 기본적으로 &quot;[!UICONTROL 검토 필요]&quot; 상태가 할당됩니다. 채팅 방문자는 &quot;[!UICONTROL approved]&quot; 질문과 응답만 사용할 수 있습니다.
+>생성된 모든 질문 및 응답에는 기본적으로 &quot;[!UICONTROL need review]&quot; 상태가 할당됩니다. 채팅 방문자는 &quot;[!UICONTROL approved]&quot;개의 질문과 응답만 사용할 수 있습니다.
 
-1. **[!UICONTROL 응답 라이브러리]**&#x200B;에서 원하는 질문을 클릭합니다.
+1. **[!UICONTROL Response library]**&#x200B;에서 원하는 질문을 클릭합니다.
 
    ![](assets/response-library-7.png)
 
-1. 편집하고 **[!UICONTROL 저장]**&#x200B;을 클릭합니다.
+1. 편집하고 **[!UICONTROL Save]**&#x200B;을(를) 클릭합니다.
 
    ![](assets/response-library-8.png)
 
 ## 질문/응답 일괄 편집 및 업로드 {#bulk-edit-and-upload-questions-responses}
 
-다운로드한 Excel 파일에서 일괄 편집하는 방법에 대한 지침은 다음과 같습니다. 파일의 작업 세부 사항 탭에서도 볼 수 있습니다.
+[다운로드한 Excel 파일](/help/marketo/product-docs/demand-generation/dynamic-chat/generative-ai/question-generation.md#download-questions-and-responses){target="_blank"}에서 일괄 편집하는 방법에 대한 지침은 다음과 같습니다. 파일의 작업 세부 사항 탭에서도 볼 수 있습니다.
 
 <table>
 <thead>
@@ -85,11 +85,11 @@ ht-degree: 0%
 </tbody>
 </table>
 
-1. 파일에서 편집을 마친 후 **[!UICONTROL 응답 라이브러리]** 탭으로 돌아가서 **[!UICONTROL 응답 업로드]**&#x200B;를 클릭합니다.
+1. 파일에서 편집을 마친 후 **[!UICONTROL Response library]** 탭으로 돌아가 **[!UICONTROL Upload responses]**&#x200B;을(를) 클릭합니다.
 
    ![](assets/response-library-9.png)
 
-1. 해당 작업 이름을 입력합니다. 파일을 드래그 앤 드롭하거나 장치에서 찾아 선택합니다. 완료되면 **[!UICONTROL 저장]**&#x200B;을 클릭합니다.
+1. 해당 작업 이름을 입력합니다. 파일을 드래그 앤 드롭하거나 장치에서 찾아 선택합니다. 완료되면 **[!UICONTROL Save]**&#x200B;을(를) 클릭합니다.
 
    ![](assets/response-library-10.png)
 
