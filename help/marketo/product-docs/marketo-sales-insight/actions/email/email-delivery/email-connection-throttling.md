@@ -3,9 +3,9 @@ description: 이메일 연결 제한 - Marketo 문서 - 제품 설명서
 title: 이메일 연결 제한
 exl-id: 02450a1e-5b30-4057-b204-19fab1a7d6c9
 feature: Sales Insight Actions
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: b4e5d17aa882a89b01f77f875312b0d71aa754f3
 workflow-type: tm+mt
-source-wordcount: '396'
+source-wordcount: '394'
 ht-degree: 0%
 
 ---
@@ -14,20 +14,20 @@ ht-degree: 0%
 
 [!DNL Sales Connect] 계정을 통합하여 [!DNL Exchange] 또는 Gmail 전자 메일 공급자를 통해 보낼 수 있으므로 설정이 간소화되며 1:1 판매 커뮤니케이션에 대한 전자 메일 배달 가능성을 최적화합니다. 그러나 시스템의 상태와 계정의 안전을 유지하기 위해 Gmail 및 [!DNL Exchange]에서 전자 메일 전송 제한을 적용합니다. 이러한 한계는 제공자의 재량에 따라 증감될 여지가 있다.
 
-## 이메일 연결 제한(Beta) {#email-connection-throttling-beta}
+## 개요 {#overview}
 
 이메일 연결 제한을 사용하면 Sales Connect 관리자는 Gmail 또는 Exchange를 게재 채널로 사용할 때 이메일 전송 속도를 구성할 수 있으므로 전송 채널 공급자에게 이메일이 전달되는 속도가 강제 제한을 초과하지 않습니다.
 
 제한을 지속적으로 초과하면 게재 채널 공급자의 의심스러운 동작으로 보여져 이메일이 실패하고 계정이 비활성화되는 경우가 있습니다.
 
-**메모/하이라이트**
+## 참고할 사항 {#things-to-note}
 
-* 사용자가 Gmail 또는 [!DNL Exchange]에 연결하면 자동으로 활성화됨
+* 사용자가 Gmail 또는 [!DNL Exchange]에 연결할 때 자동으로 활성화됨
 * 필요에 맞게 추천에서 설정을 늘리거나 줄이려면 사용자 지정할 수 있습니다
 * Gmail 또는 [!DNL Exchange]을(를) 통해 보낸 전자 메일만 제한합니다. 사용자 지정 게재 채널에는 제한하지 않습니다.
 * 이메일 연결 조절은 각 사용자가 이메일 공급자와 자체 연결을 가지고 있으므로 각 개별 사용자의 이메일을 별도로 큐에 추가합니다
 
-**전자 메일 연결 제한 설정 구성**
+## 전자 메일 연결 제한 설정 구성 {#configuring}
 
 1. 톱니바퀴 아이콘을 클릭하고 **[!UICONTROL Settings]**&#x200B;을(를) 선택합니다.
 
@@ -57,7 +57,7 @@ ht-degree: 0%
 
 ## 이메일 공급자 제한 {#email-provider-limits}
 
-**[!DNL Outlook 365]**
+### [!DNL Outlook 365] {#outlook}
 
 비즈니스/엔터프라이즈
 
@@ -67,7 +67,7 @@ ht-degree: 0%
 
 [자세한 정보는 여기에서 찾을 수 있습니다](https://docs.microsoft.com/en-us/office365/servicedescriptions/exchange-online-service-description/exchange-online-limits?redirectedfrom=MSDN#RecipientLimits).
 
-**Gmail**
+### Gmail {#gmail}
 
 * 일일 2000개(평가판 및 플래그가 지정된 계정의 경우 500개)
 * 초당 이메일 2개(API 제한)
@@ -75,7 +75,7 @@ ht-degree: 0%
 
 [자세한 정보는 여기에서 찾을 수 있습니다](https://support.google.com/a/answer/166852?hl=en).
 
-**[!DNL Microsoft Exchange Server (2010, 2013)]**
+### [!DNL Microsoft Exchange Server (2010, 2013)] {#microsoft-exchange}
 
 서버가 조직에 의해 호스팅되므로 조직의 IT 부서에서 한도를 설정합니다. 추가 정보는 해당되는 경우 네트워크 또는 시스템 관리자에게 문의하십시오.
 
