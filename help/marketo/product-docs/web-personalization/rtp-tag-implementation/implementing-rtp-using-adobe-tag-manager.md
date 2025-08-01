@@ -29,7 +29,7 @@ RTP 태그를 구현하려면 아래 설치 지침을 따르십시오.
 
 1. [!DNL Dynamic Tag Manager] 계정([https://dtm.adobe.com/sign_in](https://dtm.adobe.com/sign_in))에 로그인합니다.
 
-1. **[!UICONTROL Dashboard](으)로 이동합니다.** 관련 웹 속성을 클릭합니다.
+1. **[!UICONTROL Dashboard] (으)로 이동합니다.** 관련 웹 속성을 클릭합니다.
 
    ![](assets/image2014-12-3-17-3a58-3a17.png)
 

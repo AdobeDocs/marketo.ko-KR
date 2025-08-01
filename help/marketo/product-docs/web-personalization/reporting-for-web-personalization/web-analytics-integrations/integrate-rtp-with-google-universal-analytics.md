@@ -42,7 +42,8 @@ RTP의 데이터가 있는 [!DNL Google Universal Analytics]을(를) 사용하�
    1. **[!UICONTROL Admin]**(으)로 이동
    1. **[!UICONTROL Account].** 선택
    1. **[!UICONTROL Property].** 선택
-   1. **[!UICONTROL Custom Definitions]** 및 **[!UICONTROL Custom Dimensions]**을(를) 선택합니다.
+   1. **[!UICONTROL Custom Definitions]** 및 **[!UICONTROL Custom Dimensions]**&#x200B;을(를) 선택합니다.
+
       ![](assets/image2014-11-29-11-3a2-3a32.png)
 
 1. 새 사용자 지정 차원을 추가합니다. **[!UICONTROL +New Custom Dimension]**&#x200B;를 클릭합니다.

@@ -45,7 +45,7 @@ ht-degree: 1%
    >
    >API 비밀 키는 조직의 암호와 같으며 안전해야 합니다.
 
-1. 자격 증명을 채우려면 **[!UICONTROL View]** 패널에서 _[!UICONTROL Rest API Configuration]_을(를) 클릭합니다.
+1. 자격 증명을 채우려면 **[!UICONTROL View]** 패널에서 _[!UICONTROL Rest API Configuration]_&#x200B;을(를) 클릭합니다.
 
    ![](assets/configure-marketo-sales-insight-in-salesforce-professional-edition-4-1.png)
 

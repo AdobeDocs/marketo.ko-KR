@@ -21,7 +21,7 @@ ht-degree: 0%
 
 ## 샘플 이메일 보내기 {#send-a-sample-email-1}
 
-1. 이메일을 찾아 선택합니다. **[!UICONTROL Email Actions]** 드롭다운을 클릭하고 **[!UICONTROL Send Sample]**을(를) 선택합니다.
+1. 이메일을 찾아 선택합니다. **[!UICONTROL Email Actions]** 드롭다운을 클릭하고 **[!UICONTROL Send Sample]**&#x200B;을(를) 선택합니다.
    ![](assets/one-281-29.jpg)
 
    >[!NOTE]

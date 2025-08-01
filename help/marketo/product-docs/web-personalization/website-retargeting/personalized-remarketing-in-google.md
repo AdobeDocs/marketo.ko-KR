@@ -34,7 +34,7 @@ ht-degree: 2%
 
    ![](assets/image2015-1-15-17-3a32-3a4.png)
 
-1. 대상 빌더에서 **[!UICONTROL Sequences]**, **[!UICONTROL Find the RTP Data]**, [!UICONTROL Custom Dimensions] 아래의 [!UICONTROL [!]UICONTROL Custom Variables] 및 [!UICONTROL Events]을(를) 클릭합니다.
+1. 대상 빌더에서 **[!UICONTROL Sequences]**, **[!UICONTROL Find the RTP Data]**, [!UICONTROL Custom Dimensions] 아래의 [!UICONTROL UICONTROL [ !] Custom Variables] 및 [!UICONTROL Events]을(를) 클릭합니다.
 
 >[!TIP]
 >

@@ -1,7 +1,7 @@
 ---
 unique-page-id: 2949863
 description: ' [!DNL Webex] - Marketo 문서 - 제품 설명서를 사용하여 이벤트 만들기'
-title: ' [!DNL Webex](으)로 이벤트 만들기'
+title: ' [!DNL Webex] (으)로 이벤트 만들기'
 exl-id: 25266a6b-3951-46d1-8700-b36d7086ad2c
 feature: Events
 source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
