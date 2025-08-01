@@ -4,7 +4,7 @@ description: Performance Insights 대시보드 - Marketo 문서 - 제품 설명�
 title: Performance Insights 대시보드
 exl-id: 324880d0-e3ff-4bd5-8e1b-102c4ea66c8f
 feature: Reporting
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
 workflow-type: tm+mt
 source-wordcount: '493'
 ht-degree: 0%
@@ -51,33 +51,33 @@ MPI에서 사용 가능한 대시보드에 대해 자세히 알아보십시오.
 
 ![](assets/five-1.png)
 
-<table> 
- <tbody> 
-  <tr> 
-   <td><p><strong><span class="uicontrol">새로운 영업 기회</span></strong></p></td> 
-   <td><p>신규 기회 창출에 영향을 미쳐 프로그램이 받은 크레딧 비중. 관련된 여러 리드가 있는 경우 분수일 수 있습니다.</p></td> 
-  </tr> 
-  <tr> 
-   <td><p><strong><span class="uicontrol">파이프라인 생성됨</span></strong></p></td> 
-   <td><p>기회 창출에 영향을 준 것으로 프로그램이 받은 크레딧(금전적 가치) 비중. 관련된 리드가 여러 개 있는 경우 전체의 일부일 수 있습니다.</p></td> 
-  </tr> 
-  <tr> 
-   <td><p><strong><span class="uicontrol">파이프라인 열기</span></strong></p></td> 
-   <td><p>아직 열려 있는 기회의 생성에 영향을 미쳐 프로그램이 받은 크레딧(통화 가치) 부분. 관련된 리드가 여러 개 있는 경우 전체의 일부일 수 있습니다.</p></td> 
-  </tr> 
-  <tr> 
-   <td><p><strong><span class="uicontrol">예상 수익</span></strong></p></td> 
-   <td><p>기회 창출에 영향을 준 것으로 프로그램이 받은 크레딧(금전적 가치) 비중. 예상 매출은 영업 기회 확률에 영업 기회 값을 곱한 것입니다. 관련된 여러 리드가 있는 경우 분수일 수 있습니다.</p></td> 
-  </tr> 
-  <tr> 
-   <td><p><strong><span class="uicontrol">생성된 영업 기회당 비용</span></strong></p></td> 
-   <td><p>새로운 기회에 영향을 미친 프로그램 비용의 부분을 생성된 새로운 기회의 총 수로 나눈 값입니다.</p></td> 
-  </tr> 
-  <tr> 
-   <td><p><strong><span class="uicontrol">파이프라인 생성 대 비용 비율</span></strong></p></td> 
-   <td><p>새로운 기회 창출에 영향을 미쳐 프로그램이 받은 크레딧 부분을 기회 창출에 영향을 미친 프로그램 비용 부분으로 나눈 것입니다.</p></td> 
-  </tr> 
- </tbody> 
+<table>
+ <tbody>
+  <tr>
+   <td><p><strong><span class="uicontrol">새로운 영업 기회</span></strong></p></td>
+   <td><p>신규 기회 창출에 영향을 미쳐 프로그램이 받은 크레딧 비중. 관련된 여러 리드가 있는 경우 분수일 수 있습니다.</p></td>
+  </tr>
+  <tr>
+   <td><p><strong><span class="uicontrol">파이프라인 생성됨</span></strong></p></td>
+   <td><p>기회 창출에 영향을 준 것으로 프로그램이 받은 크레딧(금전적 가치) 비중. 관련된 리드가 여러 개 있는 경우 전체의 일부일 수 있습니다.</p></td>
+  </tr>
+  <tr>
+   <td><p><strong><span class="uicontrol">파이프라인 열기</span></strong></p></td>
+   <td><p>아직 열려 있는 기회의 생성에 영향을 미쳐 프로그램이 받은 크레딧(통화 가치) 부분. 관련된 리드가 여러 개 있는 경우 전체의 일부일 수 있습니다.</p></td>
+  </tr>
+  <tr>
+   <td><p><strong><span class="uicontrol">예상 수익</span></strong></p></td>
+   <td><p>기회 창출에 영향을 준 것으로 프로그램이 받은 크레딧(금전적 가치) 비중. 예상 매출은 영업 기회 확률에 영업 기회 값을 곱한 것입니다. 관련된 여러 리드가 있는 경우 분수일 수 있습니다.</p></td>
+  </tr>
+  <tr>
+   <td><p><strong><span class="uicontrol">생성된 영업 기회당 비용</span></strong></p></td>
+   <td><p>새로운 기회에 영향을 미친 프로그램 비용의 부분을 생성된 새로운 기회의 총 수로 나눈 값입니다.</p></td>
+  </tr>
+  <tr>
+   <td><p><strong><span class="uicontrol">파이프라인 생성 대 비용 비율</span></strong></p></td>
+   <td><p>새로운 기회 창출에 영향을 미쳐 프로그램이 받은 크레딧 부분을 기회 창출에 영향을 미친 프로그램 비용 부분으로 나눈 것입니다.</p></td>
+  </tr>
+ </tbody>
 </table>
 
 ## [!UICONTROL Revenue] {#revenue}
@@ -86,23 +86,23 @@ MPI에서 사용 가능한 대시보드에 대해 자세히 알아보십시오.
 
 ![](assets/six-1.png)
 
-<table> 
- <tbody> 
-  <tr> 
-   <td><p><strong><span class="uicontrol">기회 획득함</span></strong></p></td> 
-   <td><p>프로그램에서 Won 기회에 영향을 미쳐 받은 크레딧 비중.</p></td> 
-  </tr> 
-  <tr> 
-   <td><p><strong><span class="uicontrol">성공한 수익</span></strong></p></td> 
-   <td><p>원화 기회에 영향을 미쳐 받은 크레딧(금전적 가치) 비율.</p></td> 
-  </tr> 
-  <tr> 
-   <td><p><strong><span class="uicontrol">성공한 영업 기회당 비용</span></strong></p></td> 
-   <td><p>새로운 기회에 영향을 미친 프로그램 비용의 부분을 생성된 새로운 기회의 총 수로 나눈 값입니다.</p></td> 
-  </tr> 
-  <tr> 
-   <td><p><strong><span class="uicontrol">원가 대비 수익 금액 비율</span></strong></p></td> 
-   <td><p>원화 기회에 영향을 미쳐 받은 크레딧(금전적 가치) 부분을 신규 기회에 영향을 준 프로그램 비용 부분으로 나눈 것이다.</p></td> 
-  </tr> 
- </tbody> 
+<table>
+ <tbody>
+  <tr>
+   <td><p><strong><span class="uicontrol">기회 획득함</span></strong></p></td>
+   <td><p>프로그램에서 Won 기회에 영향을 미쳐 받은 크레딧 비중.</p></td>
+  </tr>
+  <tr>
+   <td><p><strong><span class="uicontrol">성공한 수익</span></strong></p></td>
+   <td><p>원화 기회에 영향을 미쳐 받은 크레딧(금전적 가치) 비율.</p></td>
+  </tr>
+  <tr>
+   <td><p><strong><span class="uicontrol">성공한 영업 기회당 비용</span></strong></p></td>
+   <td><p>새로운 기회에 영향을 미친 프로그램 비용의 부분을 생성된 새로운 기회의 총 수로 나눈 값입니다.</p></td>
+  </tr>
+  <tr>
+   <td><p><strong><span class="uicontrol">원가 대비 수익 금액 비율</span></strong></p></td>
+   <td><p>원화 기회에 영향을 미쳐 받은 크레딧(금전적 가치) 부분을 신규 기회에 영향을 준 프로그램 비용 부분으로 나눈 것이다.</p></td>
+  </tr>
+ </tbody>
 </table>

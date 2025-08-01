@@ -4,7 +4,7 @@ description: 라이브 피드 개요 - Marketo 문서 - 제품 설명서
 title: 라이브 피드 개요
 exl-id: 646a3650-538d-4ea5-b29f-44ad6588e247
 feature: Marketo Sales Connect
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
 workflow-type: tm+mt
 source-wordcount: '389'
 ht-degree: 0%
@@ -62,41 +62,41 @@ MSE 이메일에 대한 참여(보기, 클릭 수 및 답글)를 실시간으로
 
 ## 아이콘 용어집 {#icon-glossary}
 
-<table> 
- <colgroup> 
-  <col> 
-  <col> 
- </colgroup> 
- <tbody> 
-  <tr> 
-   <td> 
-    <div> 
-     <p><img alt="—" height="22" src="assets/viewed-icon.png" data-linked-resource-id="45417223" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="13796471" title="--"></p> 
-    </div></td> 
-   <td><p>누군가 내 이메일을 열람함</p></td> 
-  </tr> 
-  <tr> 
-   <td> 
-    <div> 
-     <p><img alt="--" src="assets/clicked-icon.png" data-linked-resource-id="45417224" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="13796471" title="--"></p> 
-    </div></td> 
-   <td><p>누군가 내 이메일의 링크를 클릭했습니다.</p></td> 
-  </tr> 
-  <tr> 
-   <td> 
-    <div> 
-     <p><img alt="--" width="23" src="assets/replied-icon.png" data-linked-resource-id="45417226" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="13796471" title="--"></p> 
-    </div></td> 
-   <td><p>누군가가 귀하의 이메일에 회신했습니다.</p></td> 
-  </tr> 
-  <tr> 
-   <td colspan="1"> 
-    <div> 
-     <p><img alt="--" width="20" src="assets/im-icon.png" data-linked-resource-id="45417225" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="13796471" title="--"></p> 
-    </div></td> 
-   <td colspan="1">이메일, 웹 및 이정표를 포함하여 관심 있는 순간 아래에 나열된 모든 알림</td> 
-  </tr> 
- </tbody> 
+<table>
+ <colgroup>
+  <col>
+  <col>
+ </colgroup>
+ <tbody>
+  <tr>
+   <td>
+    <div>
+     <p><img alt="—" height="22" src="assets/viewed-icon.png" data-linked-resource-id="45417223" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="13796471" title="--"></p>
+    </div></td>
+   <td><p>누군가 내 이메일을 열람함</p></td>
+  </tr>
+  <tr>
+   <td>
+    <div>
+     <p><img alt="--" src="assets/clicked-icon.png" data-linked-resource-id="45417224" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="13796471" title="--"></p>
+    </div></td>
+   <td><p>누군가 내 이메일의 링크를 클릭했습니다.</p></td>
+  </tr>
+  <tr>
+   <td>
+    <div>
+     <p><img alt="--" width="23" src="assets/replied-icon.png" data-linked-resource-id="45417226" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="13796471" title="--"></p>
+    </div></td>
+   <td><p>누군가가 귀하의 이메일에 회신했습니다.</p></td>
+  </tr>
+  <tr>
+   <td colspan="1">
+    <div>
+     <p><img alt="--" width="20" src="assets/im-icon.png" data-linked-resource-id="45417225" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="13796471" title="--"></p>
+    </div></td>
+   <td colspan="1">이메일, 웹 및 이정표를 포함하여 관심 있는 순간 아래에 나열된 모든 알림</td>
+  </tr>
+ </tbody>
 </table>
 
 >[!NOTE]

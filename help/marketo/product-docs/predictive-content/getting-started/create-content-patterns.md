@@ -4,7 +4,7 @@ description: 콘텐츠 패턴 만들기 - Marketo 문서 - 제품 설명서
 title: 콘텐츠 패턴 만들기
 exl-id: 963529fb-1b30-486c-b97d-3ff697f91258
 feature: Predictive Content
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
 workflow-type: tm+mt
 source-wordcount: '356'
 ht-degree: 0%
@@ -56,31 +56,31 @@ ht-degree: 0%
 
 _domain.com_&#x200B;의 경우:
 
-<table> 
- <tbody> 
-  <tr> 
-   <th>URL 패턴</th> 
-   <th>결과</th> 
-  </tr> 
-  <tr> 
-   <td>blog/*</td> 
-   <td><p>domain.com/blog/ 패턴과 일치하는 모든 콘텐츠를 검색합니다.</p><p>domain.com/blog/5-top-tricks</p><p>domain.com/blog/2017/new-year-solutions</p><p>domain.com/Blog/3-best-recipes</p></td> 
-  </tr> 
-  <tr> 
-   <td>article/2017/*</td> 
-   <td><p>domain.com/article/2017/ 패턴과 일치하는 모든 콘텐츠를 검색합니다.</p><p>domain.com/article/2017/5-top-tricks</p></td> 
-  </tr> 
-  <tr> 
-   <td><img alt="—" width="80" src="assets/image2017-3-24-10-3a38-3a46.png" data-linked-resource-id="12976559" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="11385579" title="--"></td> 
-   <td><p>"데이터시트:"라는 단어가 포함된 URL을 검색합니다.</p><p>domain.com/datasheets/5-top-tricks</p><p>domain.com/blog/5-top-datasheets</p></td> 
-  </tr> 
-  <tr> 
-   <td>보도 자료</td> 
-   <td><p>정확히 일치하는 하나의 HTML 페이지만 검색됩니다.</p><p>domain.com/press-release</p></td> 
-  </tr> 
-  <tr> 
-   <td colspan="1"> </td> 
-   <td colspan="1"><p>URL 표현식이 비어 있는 경우 URL 패턴은 홈 페이지만 검색합니다.</p><p>domain.com</p></td> 
-  </tr> 
- </tbody> 
+<table>
+ <tbody>
+  <tr>
+   <th>URL 패턴</th>
+   <th>결과</th>
+  </tr>
+  <tr>
+   <td>blog/*</td>
+   <td><p>domain.com/blog/ 패턴과 일치하는 모든 콘텐츠를 검색합니다.</p><p>domain.com/blog/5-top-tricks</p><p>domain.com/blog/2017/new-year-solutions</p><p>domain.com/Blog/3-best-recipes</p></td>
+  </tr>
+  <tr>
+   <td>article/2017/*</td>
+   <td><p>domain.com/article/2017/ 패턴과 일치하는 모든 콘텐츠를 검색합니다.</p><p>domain.com/article/2017/5-top-tricks</p></td>
+  </tr>
+  <tr>
+   <td><img alt="—" width="80" src="assets/image2017-3-24-10-3a38-3a46.png" data-linked-resource-id="12976559" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="11385579" title="--"></td>
+   <td><p>"데이터시트:"라는 단어가 포함된 URL을 검색합니다.</p><p>domain.com/datasheets/5-top-tricks</p><p>domain.com/blog/5-top-datasheets</p></td>
+  </tr>
+  <tr>
+   <td>보도 자료</td>
+   <td><p>정확히 일치하는 하나의 HTML 페이지만 검색됩니다.</p><p>domain.com/press-release</p></td>
+  </tr>
+  <tr>
+   <td colspan="1"> </td>
+   <td colspan="1"><p>URL 표현식이 비어 있는 경우 URL 패턴은 홈 페이지만 검색합니다.</p><p>domain.com</p></td>
+  </tr>
+ </tbody>
 </table>

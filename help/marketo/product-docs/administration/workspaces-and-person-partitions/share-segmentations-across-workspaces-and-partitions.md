@@ -4,9 +4,9 @@ description: 작업 공간 및 파티션 간 세그먼트 공유 - Marketo 문�
 title: 작업 공간 및 분할 영역 간 세그먼트 공유
 exl-id: b50f4328-fdba-4e39-bc0d-75bade1f9cbc
 feature: Partitions, Workspaces
-source-git-commit: 02b2e39580c5eac63de4b4b7fdaf2a835fdd4ba5
+source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
 workflow-type: tm+mt
-source-wordcount: '474'
+source-wordcount: '466'
 ht-degree: 0%
 
 ---
@@ -56,15 +56,15 @@ Marketo은 프로그램이나 스마트 캠페인에 적합한 사람을 골라�
 
 ## 세분화 공유 {#share-a-segmentation}
 
-1. **[!UICONTROL 데이터베이스]**(으)로 이동합니다.
+1. **[!UICONTROL Database]**(으)로 이동합니다.
 
    ![](assets/share-segmentations-across-workspaces-and-partitions-3.png)
 
-1. **[!UICONTROL 세그먼테이션]**&#x200B;을 마우스 오른쪽 단추로 클릭하고 **[!UICONTROL 새 폴더]**&#x200B;를 선택합니다.
+1. **[!UICONTROL Segmentations]**&#x200B;을(를) 마우스 오른쪽 단추로 클릭하고 **[!UICONTROL New Folder]**&#x200B;을(를) 선택합니다.
 
    ![](assets/share-segmentations-across-workspaces-and-partitions-4.png)
 
-1. 작업 영역 간에 공유할 폴더 이름을 지정하고(예: 세그먼트 공유) **[!UICONTROL 만들기]**&#x200B;를 클릭합니다.
+1. 작업 영역 간에 공유할 폴더 이름을 지정하고(예: 세그먼트 공유) **[!UICONTROL Create]**&#x200B;을(를) 클릭합니다.
 
    ![](assets/share-segmentations-across-workspaces-and-partitions-5.png)
 
@@ -72,11 +72,11 @@ Marketo은 프로그램이나 스마트 캠페인에 적합한 사람을 골라�
 
    ![](assets/share-segmentations-across-workspaces-and-partitions-6.png)
 
-1. 폴더를 마우스 오른쪽 단추로 클릭하고 **[!UICONTROL 폴더 공유]**&#x200B;를 선택합니다.
+1. 폴더를 마우스 오른쪽 단추로 클릭하고 **[!UICONTROL Share Folder]**&#x200B;을(를) 선택합니다.
 
    ![](assets/share-segmentations-across-workspaces-and-partitions-7.png)
 
-1. 폴더를 공유할 작업 영역을 선택합니다. **[!UICONTROL 저장]**&#x200B;을 클릭합니다.
+1. 폴더를 공유할 작업 영역을 선택합니다. **[!UICONTROL Save]**&#x200B;을(를) 클릭합니다.
 
    ![](assets/share-segmentations-across-workspaces-and-partitions-8.png)
 

@@ -4,7 +4,7 @@ description: 성공 경로 분석기 사용 - Marketo 문서 - 제품 설명서
 title: 성공 경로 분석기 사용
 exl-id: f816b7ac-a158-46bd-9d00-09ef4cc8b381
 feature: Reporting, Revenue Cycle Analytics
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
 workflow-type: tm+mt
 source-wordcount: '340'
 ht-degree: 0%

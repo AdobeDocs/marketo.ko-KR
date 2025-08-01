@@ -3,7 +3,7 @@ description: 상속한 기존 Marketo Engage 인스턴스를 최적화하고 확
 title: 시작 위치
 feature: Getting Started
 exl-id: 819bddc4-0a92-4ff0-86c6-a93fc61dffac
-source-git-commit: 2c74c71c9311312f7e0991ed5598ccb09a9b1f15
+source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
 workflow-type: tm+mt
 source-wordcount: '450'
 ht-degree: 0%
@@ -18,11 +18,11 @@ ht-degree: 0%
 
 마케팅 국가 커뮤니티에 올바르게 설정되어 있는지 확인하십시오.
 
-* [**프로필 설정**](https://nation.marketo.com/){target="_blank"}.
+* [**프로필을 설정**](https://nation.marketo.com/){target="_blank"}.
 
 * [**마케팅 커뮤니티 지침**](https://nation.marketo.com/t5/community-guidelines/ct-p/community-guidelines){target="_blank"}을 읽어 보십시오.
 
-* [**지원 사례를 제출**](https://nation.marketo.com/t5/Knowledgebase/Submitting-a-Support-Case-to-Marketo-Support/ta-p/252201){target="_blank"}(및 [**공인 지원 담당자로 설정**](https://nation.marketo.com/t5/Knowledgebase/Managing-Authorized-Support-Contacts/ta-p/254341){target="_blank"})하는 방법에 대해 알아봅니다.
+* [**지원 사례를 제출**](https://nation.marketo.com/t5/Knowledgebase/Submitting-a-Support-Case-to-Marketo-Support/ta-p/252201){target="_blank"}하는 방법(및 [**공인 지원 담당자로 설정**](https://nation.marketo.com/t5/Knowledgebase/Managing-Authorized-Support-Contacts/ta-p/254341){target="_blank"})을 알아보세요.
 
 ## 마케팅 국가 프로필 병합 {#merge-your-marketing-nation-profile}
 
@@ -30,7 +30,7 @@ ht-degree: 0%
 
 1. 현재 Marketo Engage 구독에 액세스할 수 있는 이메일 주소로 사용자 이름/커뮤니티 프로필을 만듭니다.
 
-1. [새 회사 정보로 프로필을 만든 후](https://nation.marketo.com/){target="_blank"} `ccare@marketo.com`에 이전 커뮤니티 프로필의 데이터를 새 프로필과 병합하도록 요청하세요.
+1. [새 회사 정보로 프로필을 만든 후](https://nation.marketo.com/){target="_blank"} `ccare@marketo.com`에 이전 커뮤니티 프로필의 데이터를 새 프로필과 병합하도록 요청을 제출합니다.
 
 1. 요청에서 다음 세부 정보를 지정하십시오.
 
@@ -42,7 +42,7 @@ ht-degree: 0%
 
 ## 상속된 Marketo Engage 인스턴스 Jumpstart  {#jumpstart-your-inherited-marketo-engage-instance}
 
-Marketo Champions의 입력을 사용하여 Adobe은 몇 가지 Marketo Engage 상속 인스턴스 감사 체크리스트를 결합하여 첫 번째 실행을 도와줍니다. 권장 도움말 설명서에 대한 링크를 포함하여 다양한 Marketo Engage 영역을 탐색하고 감사를 수행하는 데 필요한 다양한 작업을 수행하는 방법에 대해 알아봅니다.
+Adobe은 Marketo Champions의 입력을 통해 여러 Marketo Engage 상속 인스턴스 감사 체크리스트를 결합하여 첫 발을 내딛는 데 도움이 됩니다. 권장 도움말 설명서에 대한 링크를 포함하여 Marketo Engage의 다양한 영역을 탐색하고 감사를 수행하는 데 필요한 다양한 작업을 수행하는 방법에 대해 알아봅니다.
 
 스프레드시트 양식에서 [확인 목록을 다운로드](/help/marketo/getting-started/inheriting-a-marketo-engage-instance/assets/adobe-marketo-engage-inherited-instance-admin-checklist.xlsx)할 수도 있습니다.
 
@@ -60,10 +60,10 @@ Marketo Champions의 입력을 사용하여 Adobe은 몇 가지 Marketo Engage �
 
 도움이 더 필요하십니까? 아래 링크를 통해 당사 또는 동료 Marketo Engage 사용자와 연결합니다.
 
-* 제대로 작동하지 않는 문제에 대한 기술 지원이 필요하면 **[고객 지원 Marketo Engage](https://nation.marketo.com/t5/Support/ct-p/Support){target="_blank"}**&#x200B;에 문의하십시오.
+* 제대로 작동하지 않는 문제에 대한 기술 지원이 필요하면 **[Marketo Engage 고객 지원 센터](https://nation.marketo.com/t5/Support/ct-p/Support){target="_blank"}**&#x200B;에 문의하십시오.
 
-* **[Adobe Marketo Engage 커뮤니티](https://nation.marketo.com/){target="_blank"}**&#x200B;에서 동료 Marketo Engage 사용자와 연결하여 학습합니다.
+* **[Adobe Marketo Engage 커뮤니티](https://nation.marketo.com/){target="_blank"}**&#x200B;에서 동료 Marketo Engage 사용자와 연결하고 학습합니다.
 
 * Marketo Engage 인스턴스를 최대한 활용하는 데 도움이 필요하면 **[Adobe Professional Services](https://business.adobe.com/products/marketo/services-support.html){target="_blank"}**&#x200B;에 문의하세요.
 
-* Marketo Engage의 다양한 측면에서 **[큐레이션된 튜토리얼 비디오](https://experienceleague.adobe.com/docs/marketo-learn/tutorials/overview.html?lang=ko){target="_blank"}**&#x200B;를 시청하십시오.
+* Marketo Engage의 다양한 측면에서 **[큐레이션된 튜토리얼 비디오](https://experienceleague.adobe.com/docs/marketo-learn/tutorials/overview.html){target="_blank"}**&#x200B;를 시청하십시오.

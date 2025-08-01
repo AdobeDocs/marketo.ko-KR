@@ -5,7 +5,7 @@ level: Beginner, Intermediate
 feature: Email Designer
 hide: true
 hidefromtoc: true
-source-git-commit: bfa1bc900c2adc263e634a81440b77bef2976d3b
+source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
 workflow-type: tm+mt
 source-wordcount: '203'
 ht-degree: 0%
@@ -24,7 +24,7 @@ AEM Assets 이메일 Designer에서 AEM 에셋 저장소를 활용할 수 있도
 
 스크린샷
 
-1. _Adobe Experience Manager 클라우드 서비스_ 옆에 있는 **편집**&#x200B;을 클릭합니다.
+1. **Adobe Experience Manager 클라우드 서비스** 옆에 있는 _편집_&#x200B;을 클릭합니다.
 
 스크린샷
 

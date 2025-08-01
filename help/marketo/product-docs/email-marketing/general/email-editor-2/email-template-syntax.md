@@ -4,10 +4,10 @@ description: 이메일 템플릿 구문 - Marketo 문서 - 제품 설명서
 title: 이메일 템플릿 구문
 exl-id: 84d6c0a8-1108-4b7e-8b4f-ac0682c6bdbb
 feature: Email Editor
-source-git-commit: a9f880bd32d533613020d0472c0e1bee07ab388c
+source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
 workflow-type: tm+mt
 source-wordcount: '2449'
-ht-degree: 0%
+ht-degree: 2%
 
 ---
 
@@ -79,7 +79,7 @@ class=&quot;mktoText&quot; 가 있는 HTML 요소(제공된 경우) 내의 콘�
 
 ## 이미지 {#images}
 
-편집 가능한 이미지 요소를 정의하는 두 가지 옵션이 있습니다. `<img>`을(를) 삽입할 컨테이너를 지정하는 `<div>` 또는 `<img>` 태그를 사용할 수 있습니다. 최종 사용자가 이미지 URL(DOM이 아님)을 반환하는 이미지를 단순히 선택하려는 경우 아래 섹션의 &quot;이미지 변수&quot;를 참조하십시오. 다음 두 옵션은 HTML `<img>` 요소를 삽입합니다.
+편집 가능한 이미지 요소를 정의하는 두 가지 옵션이 있습니다. `<div>`을(를) 삽입할 컨테이너를 지정하는 `<img>` 또는 `<img>` 태그를 사용할 수 있습니다. 최종 사용자가 이미지 URL(DOM이 아님)을 반환하는 이미지를 단순히 선택하려는 경우 아래 섹션의 &quot;이미지 변수&quot;를 참조하십시오. 다음 두 옵션은 HTML `<img>` 요소를 삽입합니다.
 
 ### 옵션 1 - `<div>` 사용 {#option-use-a-div}
 
@@ -93,7 +93,7 @@ class=&quot;mktoText&quot; 가 있는 HTML 요소(제공된 경우) 내의 콘�
 
 * **mktoImgClass:** 문자열. 여기에 있는 값이 div 내에 있는 `<img>` 요소의 클래스 특성에 추가됩니다.
 * **mktoImgSrc:** 이 div 내에 배치된 이미지의 기본값으로 사용됩니다. 생략된 경우 자리 표시자가 사용됩니다.
-* **mktoImgLink:** 이 대상 URL을 사용하는 `<a>` 태그로 `<img>`을(를) 둘러싸야 함을 나타냅니다. 사용자는 이메일 편집기에서 이를 변경할 수 있습니다.
+* **mktoImgLink:** 이 대상 URL을 사용하는 `<img>` 태그로 `<a>`을(를) 둘러싸야 함을 나타냅니다. 사용자는 이메일 편집기에서 이를 변경할 수 있습니다.
 * **mktoImgLinkTarget:** mktoImgLink 특성의 `<a>` 태그가 이 대상을 사용해야 함을 나타냅니다. mktoImgLink도 사용되지 않으면 효과가 없습니다.
 * **mktoImgWidth:**&#x200B;이(가) 둘러싸인 `<img>`의 너비로 사용됩니다.
 * **mktoImgHeight:**&#x200B;은(는) 둘러싸인 `<img>`의 높이로 사용됩니다.
@@ -162,7 +162,7 @@ class=&quot;mktoText&quot; 가 있는 HTML 요소(제공된 경우) 내의 콘�
 
 ## 변수 {#variables}
 
-변수는 토큰과 같습니다. 먼저 `<meta>` 태그를 사용하여 전자 메일 템플릿의 `<head>` 섹션 내에 태그를 정의한 다음 템플릿 전체에서 원하는 만큼 사용합니다. 템플릿에 정의되어 있으므로 최종 사용자는 규칙에 따라 값을 수정할 수 있습니다. 범위에서 변수를 로컬 또는 글로벌로 정의할 수 있습니다. &quot;모듈&quot;(아래 참조) 내에서 변수를 사용하고 최종 사용자가 해당 모듈을 복제하는 경우 로컬 변수에는 독립 값이 적용되고, 글로벌 변수는 두 모듈 모두에 적용됩니다.
+변수는 토큰과 같습니다. 먼저 `<head>` 태그를 사용하여 전자 메일 템플릿의 `<meta>` 섹션 내에 태그를 정의한 다음 템플릿 전체에서 원하는 만큼 사용합니다. 템플릿에 정의되어 있으므로 최종 사용자는 규칙에 따라 값을 수정할 수 있습니다. 범위에서 변수를 로컬 또는 글로벌로 정의할 수 있습니다. &quot;모듈&quot;(아래 참조) 내에서 변수를 사용하고 최종 사용자가 해당 모듈을 복제하는 경우 로컬 변수에는 독립 값이 적용되고, 글로벌 변수는 두 모듈 모두에 적용됩니다.
 
 ## 문자열 {#string}
 
@@ -175,7 +175,7 @@ class=&quot;mktoText&quot; 가 있는 HTML 요소(제공된 경우) 내의 콘�
 
 선택적 속성
 
-* **allowHTML:** 부울입니다. 변수 값이 HTML 이스케이프되는지 여부를 제어합니다. 생략하면 기본값이 False로 설정됩니다.
+* **allowHTML:** 부울입니다. 변수의 값이 HTML 이스케이프되는지 여부를 제어합니다. 생략하면 기본값이 False로 설정됩니다.
 * **기본값**: 문자열의 기본값 생략하면 비어 있습니다.
 * **mktoModuleScope**: 부울. 모듈에서 사용할 때 변수가 로컬(true) 또는 글로벌(false)인지 여부를 제어합니다. 생략하면 기본값이 False로 설정됩니다.
 
@@ -284,9 +284,9 @@ class=&quot;mktoText&quot; 가 있는 HTML 요소(제공된 경우) 내의 콘�
 
 `${showFooter}`
 
-## HTML 블록 {#html-block}
+## HTML 차단 {#html-block}
 
-변수를 HTML 블록으로 지정하면 최종 사용자가 이메일 편집기 내에서 축어 HTML을 입력할 수 있습니다. 클래스=&quot;mktoHTML&quot;과 함께 `<meta>`을(를) 사용하여 HTML 블록 변수를 지정합니다.
+변수를 HTML 블록으로 지정하면 최종 사용자가 이메일 편집기 내에서 버바텀 HTML을 입력할 수 있습니다. 클래스=&quot;mktoHTML&quot;과 함께 `<meta>`을(를) 사용하여 HTML 블록 변수를 지정합니다.
 
 필수 속성
 
@@ -340,7 +340,7 @@ class=&quot;mktoText&quot; 가 있는 HTML 요소(제공된 경우) 내의 콘�
 
 class=&quot;mktoModule&quot;인 `<tr>`을(를) 사용하여 지정됨
 
-`<td>`:**형식의 컨테이너에 대한**
+**:`<td>` 형식의 컨테이너에 대한**
 
 class=&quot;mktoModule&quot;인 `<table>`을(를) 사용하여 지정됨
 
@@ -362,7 +362,7 @@ class=&quot;mktoModule&quot;인 `<table>`을(를) 사용하여 지정됨
 
 컨테이너에는 모듈이 보관되어 있고 모듈을 배치할 수 있는 위치를 정의합니다. 최종 사용자가 모듈 순서를 다시 지정하고 이메일에 모듈을 삽입하면 컨테이너가 이동할 위치를 제어합니다.
 
-**클래스=&quot;mktoContainer&quot;**&#x200B;인 `<table>`, `<tbody>`, `<thead>`, `<tfoot>` 또는 `<td>`을(를) 사용하여 지정됨
+**클래스=&quot;mktoContainer&quot;`<table>`인 `<tbody>`, `<thead>`, `<tfoot>`, `<td>` 또는**&#x200B;을(를) 사용하여 지정됨
 
 필수 속성
 

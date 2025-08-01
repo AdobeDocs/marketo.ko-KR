@@ -4,7 +4,7 @@ description: 새 위젯 웹 캠페인 만들기 - Marketo 문서 - 제품 설명
 title: 새 위젯 웹 캠페인 만들기
 exl-id: e00f5be7-1d33-4659-8f38-b74b53eeb09f
 feature: Web Personalization
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
 workflow-type: tm+mt
 source-wordcount: '610'
 ht-degree: 0%
@@ -37,60 +37,60 @@ ht-degree: 0%
 
    ![](assets/preview.png)
 
-<table> 
- <thead> 
-  <tr> 
-   <th colspan="1" rowspan="1">이름</th> 
-   <th colspan="1" rowspan="1">설명</th> 
-  </tr> 
- </thead> 
- <tbody> 
-  <tr> 
-   <td colspan="1"><strong>템플릿</strong></td> 
-   <td colspan="1">사전 제작된 여러 템플릿 중 하나를 선택합니다.</td> 
-  </tr> 
-  <tr> 
-   <td colspan="1"><strong>표시 위치</strong></td> 
-   <td colspan="1">웹 캠페인이 표시되는 시기와 방법을 <a href="/help/marketo/product-docs/web-personalization/working-with-web-campaigns/set-how-your-web-campaign-displays.md" rel="nofollow">사용자 지정</a>할 수 있습니다.</td> 
-  </tr> 
-  <tr> 
-   <td colspan="1"><strong>애니메이션 인/아웃</strong></td> 
-   <td colspan="1">대화 상자 시작 및/또는 종료에 설정합니다. 효과(놓기, 블라인드, 슬라이드, 페이드, 효과 없음), 지속 시간(초) 및 방향(위쪽, 아래쪽, 왼쪽, 오른쪽)을 선택합니다.</td> 
-  </tr> 
-  <tr> 
-   <td colspan="1"><strong>위치</strong></td> 
-   <td colspan="1">페이지에서 위젯의 위치에 대한 네 가지 옵션(오른쪽, 왼쪽, 위쪽, 아래쪽) 중 하나를 선택합니다. 위치 %는 브라우저 페이지에서 위젯이 표시될 위치에 대한 위치 지정의 백분율입니다(예: "50% Bottom" 은 위젯이 페이지 하단 중앙에 표시되고 "10% Left"는 위젯이 페이지 왼쪽 상단 근처에 표시되는 등).<br></td> 
-  </tr> 
-  <tr> 
-   <td colspan="1" rowspan="1"><strong>위젯 색상</strong></td> 
-   <td colspan="1" rowspan="1"><p>색상 차트에서 위젯 색상을 선택하거나 RGB 색상 코드로 입력합니다. 맨 아래에 있는 막대를 두 방향으로 이동하여 위젯 배경의 투명도 수준을 선택할 수도 있습니다.</p></td> 
-  </tr> 
-  <tr> 
-   <td colspan="1" rowspan="1"><p><strong>위젯 단추</strong><br></p></td> 
-   <td colspan="1" rowspan="1">위젯 단추 자체를 사용자 정의합니다.<br>화살표: 오른쪽 드롭다운 메뉴에서 여러 아이콘을 선택할 수 있습니다. 왼쪽 드롭다운에 따라 색상이 결정됩니다.<br>사용자 지정: 호스팅된 이미지의 URL을 삽입합니다. 허용되는 파일 형식 - .JPEG, .GIF(애니메이션 포함), .PNG, .APNG, .SVG, .BMP.<br>텍스트: 위젯은 텍스트일 수 있으며 색상, 크기 및 글꼴을 사용자 지정합니다.</td> 
-  </tr> 
-  <tr> 
-   <td colspan="1"><strong>고정</strong></td> 
-   <td colspan="1">이 옵션을 선택하면 방문자 세션 전체에서 모든 웹 페이지에 위젯이 표시됩니다.</td> 
-  </tr> 
-  <tr> 
-   <td colspan="1"><strong>Campaign 표시에서 위젯 최소화</strong></td> 
-   <td colspan="1">위젯을 삽입하지만 최소화하도록 유지하여 사용자가 위젯을 최대화하기 위해 클릭해야 합니다.</td> 
-  </tr> 
-  <tr> 
-   <td colspan="1"><strong>기본값 복원 </strong></td> 
-   <td colspan="1">위젯 색상을 기본 투명 회색 옵션으로 설정하여 위젯의 원래 기본 설정을 복원합니다.</td> 
-  </tr> 
-  <tr> 
-   <td colspan="1"><strong>사이트에서 미리 보기 </strong></td> 
-   <td colspan="1">캠페인을 시작하기 전에 미리 봅니다.<br> 
-    <ul> 
-     <li>URL - 캠페인이 실행되는 예제 URL을 입력하여 캠페인이 라이브로 표시되는 예제를 확인합니다.</li> 
-     <li>미리 보기 - <strong>미리 보기 </strong>를 클릭하여 예제 URL의 새 창을 열어 캠페인의 반응을 확인합니다(최상의 웹 캠페인 미리 보기 환경을 위해 <a href="https://chrome.google.com/extensions/detail/ldiddonjplchallbngbccbfdfeldohkj?hl=en" rel="nofollow">Chrome 확장</a> 추가). </li> 
-     <li>공유 - 공유 버튼을 사용하여 프록시 캠페인을 볼 수 있는 링크가 있는 전자 메일을 동료에게 보냅니다.</li> 
-    </ul></td> 
-  </tr> 
- </tbody> 
+<table>
+ <thead>
+  <tr>
+   <th colspan="1" rowspan="1">이름</th>
+   <th colspan="1" rowspan="1">설명</th>
+  </tr>
+ </thead>
+ <tbody>
+  <tr>
+   <td colspan="1"><strong>템플릿</strong></td>
+   <td colspan="1">사전 제작된 여러 템플릿 중 하나를 선택합니다.</td>
+  </tr>
+  <tr>
+   <td colspan="1"><strong>표시 위치</strong></td>
+   <td colspan="1">웹 캠페인이 표시되는 시기와 방법을 <a href="/help/marketo/product-docs/web-personalization/working-with-web-campaigns/set-how-your-web-campaign-displays.md" rel="nofollow">사용자 지정</a>할 수 있습니다.</td>
+  </tr>
+  <tr>
+   <td colspan="1"><strong>애니메이션 인/아웃</strong></td>
+   <td colspan="1">대화 상자 시작 및/또는 종료에 설정합니다. 효과(놓기, 블라인드, 슬라이드, 페이드, 효과 없음), 지속 시간(초) 및 방향(위쪽, 아래쪽, 왼쪽, 오른쪽)을 선택합니다.</td>
+  </tr>
+  <tr>
+   <td colspan="1"><strong>위치</strong></td>
+   <td colspan="1">페이지에서 위젯의 위치에 대한 네 가지 옵션(오른쪽, 왼쪽, 위쪽, 아래쪽) 중 하나를 선택합니다. 위치 %는 브라우저 페이지에서 위젯이 표시될 위치에 대한 위치 지정의 백분율입니다(예: "50% Bottom" 은 위젯이 페이지 하단 중앙에 표시되고 "10% Left"는 위젯이 페이지 왼쪽 상단 근처에 표시되는 등).<br></td>
+  </tr>
+  <tr>
+   <td colspan="1" rowspan="1"><strong>위젯 색상</strong></td>
+   <td colspan="1" rowspan="1"><p>색상 차트에서 위젯 색상을 선택하거나 RGB 색상 코드로 입력합니다. 맨 아래에 있는 막대를 두 방향으로 이동하여 위젯 배경의 투명도 수준을 선택할 수도 있습니다.</p></td>
+  </tr>
+  <tr>
+   <td colspan="1" rowspan="1"><p><strong>위젯 단추</strong><br></p></td>
+   <td colspan="1" rowspan="1">위젯 단추 자체를 사용자 정의합니다.<br>화살표: 오른쪽 드롭다운 메뉴에서 여러 아이콘을 선택할 수 있습니다. 왼쪽 드롭다운에 따라 색상이 결정됩니다.<br>사용자 지정: 호스팅된 이미지의 URL을 삽입합니다. 허용되는 파일 형식 - .JPEG, .GIF(애니메이션 포함), .PNG, .APNG, .SVG, .BMP.<br>텍스트: 위젯은 텍스트일 수 있으며 색상, 크기 및 글꼴을 사용자 지정합니다.</td>
+  </tr>
+  <tr>
+   <td colspan="1"><strong>고정</strong></td>
+   <td colspan="1">이 옵션을 선택하면 방문자 세션 전체에서 모든 웹 페이지에 위젯이 표시됩니다.</td>
+  </tr>
+  <tr>
+   <td colspan="1"><strong>Campaign 표시에서 위젯 최소화</strong></td>
+   <td colspan="1">위젯을 삽입하지만 최소화하도록 유지하여 사용자가 위젯을 최대화하기 위해 클릭해야 합니다.</td>
+  </tr>
+  <tr>
+   <td colspan="1"><strong>기본값 복원 </strong></td>
+   <td colspan="1">위젯 색상을 기본 투명 회색 옵션으로 설정하여 위젯의 원래 기본 설정을 복원합니다.</td>
+  </tr>
+  <tr>
+   <td colspan="1"><strong>사이트에서 미리 보기 </strong></td>
+   <td colspan="1">캠페인을 시작하기 전에 미리 봅니다.<br>
+    <ul>
+     <li>URL - 캠페인이 실행되는 예제 URL을 입력하여 캠페인이 라이브로 표시되는 예제를 확인합니다.</li>
+     <li>미리 보기 - <strong>미리 보기 </strong>를 클릭하여 예제 URL의 새 창을 열어 캠페인의 반응을 확인합니다(최상의 웹 캠페인 미리 보기 환경을 위해 <a href="https://chrome.google.com/extensions/detail/ldiddonjplchallbngbccbfdfeldohkj?hl=en" rel="nofollow">Chrome 확장</a> 추가). </li>
+     <li>공유 - 공유 버튼을 사용하여 프록시 캠페인을 볼 수 있는 링크가 있는 전자 메일을 동료에게 보냅니다.</li>
+    </ul></td>
+  </tr>
+ </tbody>
 </table>
 
 >[!NOTE]

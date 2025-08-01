@@ -3,7 +3,7 @@ description: 그룹 관리 - Marketo 문서 - 제품 설명서
 title: 그룹 관리
 exl-id: 9b21f552-d4ba-40ed-b4a7-0070cf3e7201
 feature: Sales Insight Actions
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
 workflow-type: tm+mt
 source-wordcount: '310'
 ht-degree: 0%
@@ -16,33 +16,33 @@ ht-degree: 0%
 
 ## 그룹 유형 {#group-types}
 
-<table> 
- <colgroup> 
-  <col> 
-  <col> 
- </colgroup> 
- <tbody> 
-  <tr> 
-   <th>그룹</th> 
-   <th>설명</th> 
-  </tr> 
-  <tr> 
-   <td>[!UICONTROL All People]</td> 
-   <td>사용자에게 표시되는 모든 사용자의 모든 연락처.</td> 
-  </tr> 
-  <tr> 
-   <td>[!UICONTROL Dynamic Groups]</td> 
-   <td>내 연락처: 사용자가 소유한 모든 연락처.<br>구독 취소: 서신 수신을 옵트아웃한 연락처.</td> 
-  </tr> 
-  <tr> 
-   <td>[!UICONTROL My Groups]</td> 
-   <td>만든 그룹입니다. 연락처 또는 사용자와 공유된 연락처를 포함할 수 있습니다.</td> 
-  </tr> 
-  <tr> 
-   <td>[!UICONTROL Team Groups]</td> 
-   <td>귀하가 공유한 및/또는 그룹입니다. 팀원이 소유한 연락처 또는 팀원과 공유한 연락처를 포함할 수 있습니다.</td> 
-  </tr> 
- </tbody> 
+<table>
+ <colgroup>
+  <col>
+  <col>
+ </colgroup>
+ <tbody>
+  <tr>
+   <th>그룹</th>
+   <th>설명</th>
+  </tr>
+  <tr>
+   <td>[!UICONTROL All People]</td>
+   <td>사용자에게 표시되는 모든 사용자의 모든 연락처.</td>
+  </tr>
+  <tr>
+   <td>[!UICONTROL Dynamic Groups]</td>
+   <td>내 연락처: 사용자가 소유한 모든 연락처.<br>구독 취소: 서신 수신을 옵트아웃한 연락처.</td>
+  </tr>
+  <tr>
+   <td>[!UICONTROL My Groups]</td>
+   <td>만든 그룹입니다. 연락처 또는 사용자와 공유된 연락처를 포함할 수 있습니다.</td>
+  </tr>
+  <tr>
+   <td>[!UICONTROL Team Groups]</td>
+   <td>귀하가 공유한 및/또는 그룹입니다. 팀원이 소유한 연락처 또는 팀원과 공유한 연락처를 포함할 수 있습니다.</td>
+  </tr>
+ </tbody>
 </table>
 
 ## 그룹 만들기 {#create-a-group}

@@ -4,7 +4,7 @@ description: Adobe Analytics - Marketo 문서 - 제품 설명서와 통합
 title: Adobe Analytics과 통합
 exl-id: 6ea35811-6f3d-4dc8-91aa-877d613f8e93
 feature: Web Personalization
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
 workflow-type: tm+mt
 source-wordcount: '984'
 ht-degree: 0%
@@ -64,8 +64,8 @@ Adobe Analytics의 사용자 지정 링크에서 RTP 캠페인 노출 횟수 및
 
 1. AA 계정의 **[!UICONTROL Admin Tools]**(으)로 이동합니다.
 1. 통합에 사용할 **[!UICONTROL Report Suite]**&#x200B;을(를) 선택하십시오.
-1. **[!UICONTROL Edit Settings]**&#x200B;에서 **[!UICONTROL Conversion]**(으)로 이동하여 **[[!UICONTROL Conversion Variables]](https://microsite.omniture.com/t2/help/en_US/reference/#Edit_conversion_variables)**&#x200B;을(를) 선택합니다.\
-   [전환 변수](https://microsite.omniture.com/t2/help/en_US/reference/#Conversion_Variables_eVar) 번호를 선택하십시오(권장).
+1. **[!UICONTROL Edit Settings]**&#x200B;에서 **[!UICONTROL Conversion]**(으)로 이동하여 **[[!UICONTROL Conversion Variables]](https://microsite.omniture.com/t2/help/en_US/reference/#Edit_conversion_variables)**을(를) 선택합니다.
+[전환 변수](https://microsite.omniture.com/t2/help/en_US/reference/#Conversion_Variables_eVar) 번호를 선택하십시오(권장).
 
    1. 업계 사용자 정의 전환용 Evar # 20
    1. 조직 사용자 정의 전환에 대한 Evar # 21
@@ -220,7 +220,7 @@ reportlet이 대시보드에 표시됩니다.
 
    ![](assets/sitecatalyst1-1.png)
 
-1. 캠페인 노출 횟수를 나타내는 세그먼트 및 캠페인 이름을 보려면 노출 횟수를 검색합니다.\
+1. 캠페인 노출 횟수를 나타내는 세그먼트 및 캠페인 이름을 보려면 노출 횟수를 검색합니다.
    ![](assets/sitecatalyst1.png)
 
 1. 캠페인 클릭 수를 나타내는 세그먼트 및 캠페인 이름을 보기 위해 전환을 검색합니다.

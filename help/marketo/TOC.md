@@ -3,7 +3,7 @@ audience: end-user
 user-guide-title: Marketo 안내서
 user-guide-description: Marketo 제품 설명서
 feature-set: Marketo Engage
-source-git-commit: bf686092e8d574c9b8fd3e9e98d0e6d567354788
+source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
 workflow-type: tm+mt
 source-wordcount: '9294'
 ht-degree: 2%
@@ -977,7 +977,7 @@ ht-degree: 2%
          + 소셜 기능 {#social-functions}
             + [LinkedIn 리드 세대 Forms 설정](product-docs/demand-generation/social/social-functions/set-up-linkedin-lead-gen-forms.md)
             + [Marketo 목록 또는 스마트 목록을 LinkedIn 대상 세그먼트로 사용](product-docs/demand-generation/social/social-functions/use-a-marketo-list-or-smart-list-as-a-linkedin-audience-segment.md)
-            + [스마트 캠페인에서 LinkedIn 리드 세대 양식 필터 및 트리거 사용](product-docs/demand-generation/social/social-functions/use-linkedin-lead-gen-form-filters-and-triggers-in-a-smart-campaign.md)
+            + [Smart Campaign에서 LinkedIn 리드 세대 양식 필터 및 트리거 사용](product-docs/demand-generation/social/social-functions/use-linkedin-lead-gen-form-filters-and-triggers-in-a-smart-campaign.md)
    + 이메일 마케팅 {#email-marketing}
       + 전달성 {#deliverability}
          + [지속적인 구독 취소](product-docs/email-marketing/deliverability/durable-unsubscribe.md)
@@ -1029,7 +1029,7 @@ ht-degree: 2%
          + [기능 비교](product-docs/email-marketing/email-designer/feature-comparison.md)
          + [이메일 작성](product-docs/email-marketing/email-designer/email-authoring.md)
          + [이메일 템플릿 작성](product-docs/email-marketing/email-designer/email-template-authoring.md)
-         + [사용자 지정 CSS](product-docs/email-marketing/email-designer/custom-css.md)
+         + [사용자 정의 CSS](product-docs/email-marketing/email-designer/custom-css.md)
          + [브랜드 키트](product-docs/email-marketing/email-designer/brand-kit.md)
          + [Litmus를 사용하여 이메일 렌더링 테스트](product-docs/email-marketing/email-designer/test-email-rendering.md)
          + [Personalization 토큰](product-docs/email-marketing/email-designer/personalization-tokens.md)
@@ -1489,7 +1489,7 @@ ht-degree: 2%
          + 판매 이메일 보내기 {#send-a-sales-email}
             + [이메일 추적 개요](product-docs/marketo-sales-insight/actions/send-a-sales-email/email-tracking-overview.md)
          + 작업 {#tasks}
-            + [Salesforce과 미리 알림 작업 동기화](product-docs/marketo-sales-insight/actions/tasks/reminder-task-sync-with-salesforce.md)
+            + [Salesforce과 작업 동기화 알림](product-docs/marketo-sales-insight/actions/tasks/reminder-task-sync-with-salesforce.md)
          + 템플릿 {#templates}
             + [하이퍼링크가 연결된 텍스트 추가](product-docs/marketo-sales-insight/actions/templates/add-hyperlinked-text.md)
             + [동적 필드](product-docs/marketo-sales-insight/actions/templates/dynamic-fields.md)

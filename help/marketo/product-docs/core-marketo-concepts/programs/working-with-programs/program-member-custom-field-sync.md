@@ -3,7 +3,7 @@ description: 프로그램 구성원 사용자 정의 필드 동기화 - Marketo 
 title: 프로그램 구성원 사용자 정의 필드 동기화
 exl-id: 7facfc79-a411-4ad9-b847-2002763af5bb
 feature: Programs
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
 workflow-type: tm+mt
 source-wordcount: '331'
 ht-degree: 6%
@@ -138,8 +138,8 @@ ht-degree: 6%
       <td>URL</td>
     </tr>
     <tr>
-      <td>일자</td>
-      <td>일자</td>
+      <td>Date</td>
+      <td>Date</td>
     </tr>
     <tr>
       <td>날짜/시간</td>

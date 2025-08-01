@@ -4,7 +4,7 @@ description: 포함된 Salesforce 작업 - Marketo 문서 - 제품 설명서
 title: 암시된 Salesforce 작업
 exl-id: 88533588-77f2-465e-9644-a4f95b87f99d
 feature: Salesforce Integration
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
 workflow-type: tm+mt
 source-wordcount: '136'
 ht-degree: 0%
@@ -17,35 +17,35 @@ ht-degree: 0%
 
 이 규칙은 사용자가 현재 [Salesforce.com](https://Salesforce.com){target="_blank"}에 연락처 또는 잠재 고객으로 있지 않을 때 적용됩니다.
 
-<table> 
- <thead> 
-  <tr> 
-   <th>Marketo 흐름 단계</th> 
-   <th>자동 작업</th> 
-  </tr> 
- </thead> 
- <tbody> 
-  <tr> 
-   <td>SFDC 캠페인에 추가</td> 
-   <td>SFDC에 사용자 동기화</td> 
-  </tr> 
-  <tr> 
-   <td>SFDC Campaign에서 상태 변경</td> 
-   <td>사용자를 SFDC에 동기화<br>SFDC 캠페인에 추가</td> 
-  </tr> 
-  <tr> 
-   <td>소유자 변경</td> 
-   <td><p>SFDC에 사용자 동기화</p></td> 
-  </tr> 
-  <tr> 
-   <td>사용자 전환</td> 
-   <td><p>SFDC에 사용자 동기화</p></td> 
-  </tr> 
-  <tr> 
-   <td>작업 만들기</td> 
-   <td>SFDC에 사용자 동기화</td> 
-  </tr> 
- </tbody> 
+<table>
+ <thead>
+  <tr>
+   <th>Marketo 흐름 단계</th>
+   <th>자동 작업</th>
+  </tr>
+ </thead>
+ <tbody>
+  <tr>
+   <td>SFDC 캠페인에 추가</td>
+   <td>SFDC에 사용자 동기화</td>
+  </tr>
+  <tr>
+   <td>SFDC Campaign에서 상태 변경</td>
+   <td>사용자를 SFDC에 동기화<br>SFDC 캠페인에 추가</td>
+  </tr>
+  <tr>
+   <td>소유자 변경</td>
+   <td><p>SFDC에 사용자 동기화</p></td>
+  </tr>
+  <tr>
+   <td>사용자 전환</td>
+   <td><p>SFDC에 사용자 동기화</p></td>
+  </tr>
+  <tr>
+   <td>작업 만들기</td>
+   <td>SFDC에 사용자 동기화</td>
+  </tr>
+ </tbody>
 </table>
 
 연산자가 &quot;**[!UICONTROL SFDC Type]**&quot;(으)로 설정된 [!UICONTROL is not empty] 필터를 사용하여 스마트 목록에서 SFDC 레코드를 필터링할 수 있습니다. 모든 SFDC 레코드는 이 필드에 값이 있습니다.

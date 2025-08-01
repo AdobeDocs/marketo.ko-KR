@@ -4,7 +4,7 @@ description: 표준 스마트 목록 규칙 논리 사용 - Marketo 문서 - 제
 title: 표준 스마트 목록 규칙 논리 사용
 exl-id: 9befaa81-e50c-47d3-9edf-220cfadd00f6
 feature: Smart Campaigns
-source-git-commit: 47bc93665a7efa0d64cd4d5f34b868895d407527
+source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
 workflow-type: tm+mt
 source-wordcount: '129'
 ht-degree: 0%
@@ -30,11 +30,11 @@ ht-degree: 0%
 ```box
 IF person fills out Great Form
 OR
-IF person visits Keith's Landing Page 
-AND 
-Industry is Energy 
-AND 
-Country is US 
+IF person visits Keith's Landing Page
+AND
+Industry is Energy
+AND
+Country is US
 THEN follow the campaign's flow step(s)
 ```
 

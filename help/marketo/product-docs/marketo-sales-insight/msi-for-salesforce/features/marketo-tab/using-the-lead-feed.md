@@ -4,7 +4,7 @@ description: 리드 피드 사용 - Marketo 문서 - 제품 설명서
 title: 가망 고객 피드 사용
 exl-id: cdb10fe4-3006-4bae-b485-f7bfa95f1226
 feature: Marketo Sales Insights
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
 workflow-type: tm+mt
 source-wordcount: '328'
 ht-degree: 1%
@@ -29,45 +29,45 @@ ht-degree: 1%
 
 ![](assets/using-the-lead-feed-2.png)
 
-<table> 
- <colgroup> 
-  <col> 
-  <col> 
- </colgroup> 
- <tbody> 
-  <tr> 
-   <td><p>항목</p></td> 
-   <td><p>설명</p></td> 
-  </tr> 
-  <tr> 
-   <td><p>A. 리드/연락처</p></td> 
-   <td><p>이 흥미로운 순간을 경험한 사람</p></td> 
-  </tr> 
-  <tr> 
-   <td><p>B. 이벤트 유형</p></td> 
-   <td><p>현재 범주(웹, 이메일 또는 마일스톤)</p></td> 
-  </tr> 
-  <tr> 
-   <td><p>C. 계정 이름</p></td> 
-   <td><p>회사명</p></td> 
-  </tr> 
-  <tr> 
-   <td><p>D. 시간</p></td> 
-   <td><p>이 흥미로운 순간이 발생한 시기</p></td> 
-  </tr> 
-  <tr> 
-   <td><p>E. 이벤트 설명</p></td> 
-   <td><p>이 흥미로운 순간에 대한 이유</p></td> 
-  </tr> 
-  <tr> 
-   <td><p>F. 구독</p></td> 
-   <td><p>이와 같은 이벤트에 대한 이메일 알림 수신</p></td> 
-  </tr> 
-  <tr> 
-   <td><p>. 별</p></td> 
-   <td><p>이 사람이 최상의 선택(높은 우선 순위)입니다.</p></td> 
-  </tr> 
- </tbody> 
+<table>
+ <colgroup>
+  <col>
+  <col>
+ </colgroup>
+ <tbody>
+  <tr>
+   <td><p>항목</p></td>
+   <td><p>설명</p></td>
+  </tr>
+  <tr>
+   <td><p>A. 리드/연락처</p></td>
+   <td><p>이 흥미로운 순간을 경험한 사람</p></td>
+  </tr>
+  <tr>
+   <td><p>B. 이벤트 유형</p></td>
+   <td><p>현재 범주(웹, 이메일 또는 마일스톤)</p></td>
+  </tr>
+  <tr>
+   <td><p>C. 계정 이름</p></td>
+   <td><p>회사명</p></td>
+  </tr>
+  <tr>
+   <td><p>D. 시간</p></td>
+   <td><p>이 흥미로운 순간이 발생한 시기</p></td>
+  </tr>
+  <tr>
+   <td><p>E. 이벤트 설명</p></td>
+   <td><p>이 흥미로운 순간에 대한 이유</p></td>
+  </tr>
+  <tr>
+   <td><p>F. 구독</p></td>
+   <td><p>이와 같은 이벤트에 대한 이메일 알림 수신</p></td>
+  </tr>
+  <tr>
+   <td><p>. 별</p></td>
+   <td><p>이 사람이 최상의 선택(높은 우선 순위)입니다.</p></td>
+  </tr>
+ </tbody>
 </table>
 
 ## RSS 업데이트를 가져오는 중 {#getting-rss-updates}

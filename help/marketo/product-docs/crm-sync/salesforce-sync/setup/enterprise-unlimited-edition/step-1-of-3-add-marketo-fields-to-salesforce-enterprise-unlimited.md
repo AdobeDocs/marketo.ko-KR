@@ -4,7 +4,7 @@ description: 3단계 중 1단계 - Salesforce에 Marketo 필드 추가(Enterpris
 title: 1단계/3단계 - Salesforce에 Marketo 필드 추가(Enterprise/Unlimited)
 exl-id: bcfba281-0d4b-42c3-b52a-ce1c3da884ba
 feature: Salesforce Integration
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
 workflow-type: tm+mt
 source-wordcount: '719'
 ht-degree: 8%
@@ -53,47 +53,47 @@ Marketo은 일련의 필드를 사용하여 특정 종류의 마케팅 관련 �
 
 1. 아래 표에 표시된 대로 필드에 대한 [!UICONTROL Field Label], [!UICONTROL Length] 및 [!UICONTROL Field Name]을(를) 입력합니다.
 
-<table> 
- <thead> 
-  <tr> 
-   <th> 
+<table>
+ <thead>
+  <tr>
+   <th>
     <div>
-      필드 레이블 
-    </div></th> 
-   <th> 
+      필드 레이블
+    </div></th>
+   <th>
     <div>
-      필드 이름 
-    </div></th> 
-   <th> 
+      필드 이름
+    </div></th>
+   <th>
     <div>
-      데이터 유형 
-    </div></th> 
-   <th> 
+      데이터 유형
+    </div></th>
+   <th>
     <div>
-      필드 속성 
-    </div></th> 
-  </tr> 
- </thead> 
- <tbody> 
-  <tr> 
-   <td>점수</td> 
-   <td>mkto71_Lead_Score</td> 
-   <td>숫자</td> 
-   <td>길이 10<br>소수점 이하 자리 수 0 </td> 
-  </tr> 
-  <tr> 
-   <td>획득 날짜</td> 
-   <td>mkto71_Acquisition_Date</td> 
-   <td>날짜/시간</td> 
-   <td> </td> 
-  </tr> 
-  <tr> 
-   <td>고객 확보 프로그램</td> 
-   <td>mkto71_Acquisition_Program</td> 
-   <td>텍스트</td> 
-   <td>길이 255</td> 
-  </tr> 
- </tbody> 
+      필드 속성
+    </div></th>
+  </tr>
+ </thead>
+ <tbody>
+  <tr>
+   <td>점수</td>
+   <td>mkto71_Lead_Score</td>
+   <td>숫자</td>
+   <td>길이 10<br>소수점 이하 자리 수 0 </td>
+  </tr>
+  <tr>
+   <td>획득 날짜</td>
+   <td>mkto71_Acquisition_Date</td>
+   <td>날짜/시간</td>
+   <td> </td>
+  </tr>
+  <tr>
+   <td>고객 확보 프로그램</td>
+   <td>mkto71_Acquisition_Program</td>
+   <td>텍스트</td>
+   <td>길이 255</td>
+  </tr>
+ </tbody>
 </table>
 
 >[!NOTE]
@@ -133,107 +133,107 @@ Marketo은 일련의 필드를 사용하여 특정 종류의 마케팅 관련 �
 1. 가망 고객 객체에 대해 수행한 것처럼 연락처 객체의 점수, 획득 일자 및 획득 프로그램 필드에 대해 단계 3부터 10까지를 수행합니다.
 1. 필요한 경우 이 테이블의 추가 사용자 정의 필드에 대해 위의 절차를 사용합니다.
 
-<table> 
- <thead> 
-  <tr> 
-   <th> 
+<table>
+ <thead>
+  <tr>
+   <th>
     <div>
-      필드 레이블 
-    </div></th> 
-   <th> 
+      필드 레이블
+    </div></th>
+   <th>
     <div>
-      필드 이름 
-    </div></th> 
-   <th> 
+      필드 이름
+    </div></th>
+   <th>
     <div>
-      데이터 유형 
-    </div></th> 
-   <th> 
+      데이터 유형
+    </div></th>
+   <th>
     <div>
-      필드 속성 
-    </div></th> 
-  </tr> 
- </thead> 
- <tbody> 
-  <tr> 
-   <td>고객 확보 프로그램 Id</td> 
-   <td>mkto71_Acquisition_Program_Id</td> 
-   <td>숫자</td> 
-   <td>길이 18<br>소수점 이하 자리 수 0 </td> 
-  </tr> 
-  <tr> 
-   <td>원래 레퍼러</td> 
-   <td>mkto71_Original_Referrer</td> 
-   <td>텍스트</td> 
-   <td>길이 255</td> 
-  </tr> 
-  <tr> 
-   <td>원본 검색 엔진</td> 
-   <td>mkto71_Original_Search_Engine</td> 
-   <td>텍스트</td> 
-   <td>길이 255</td> 
-  </tr> 
-  <tr> 
-   <td>원본 검색 구문</td> 
-   <td>mkto71_Original_Search_Phrase</td> 
-   <td>텍스트</td> 
-   <td>길이 255</td> 
-  </tr> 
-  <tr> 
-   <td>원본 소스 정보</td> 
-   <td>mkto71_Original_Source_Info</td> 
-   <td>텍스트</td> 
-   <td>길이 255</td> 
-  </tr> 
-  <tr> 
-   <td>원본 소스 유형</td> 
-   <td>mkto71_Original_Source_Type</td> 
-   <td>텍스트</td> 
-   <td>길이 255</td> 
-  </tr> 
-  <tr> 
-   <td>추론된 시</td> 
-   <td>mkto71_Inferred_City</td> 
-   <td>텍스트</td> 
-   <td>길이 255</td> 
-  </tr> 
-  <tr> 
-   <td>추론된 회사</td> 
-   <td>mkto71_Inferred_Company</td> 
-   <td>텍스트</td> 
-   <td>길이 255</td> 
-  </tr> 
-  <tr> 
-   <td>추론된 국가</td> 
-   <td>mkto71_Inferred_Country</td> 
-   <td>텍스트</td> 
-   <td>길이 255</td> 
-  </tr> 
-  <tr> 
-   <td>대도시 지역 유추</td> 
-   <td>mkto71_Inferred_Metropolitan_Area</td> 
-   <td>텍스트</td> 
-   <td>길이 255</td> 
-  </tr> 
-  <tr> 
-   <td>전화번호 지역코드 유추</td> 
-   <td>mkto71_Inferred_Phone_Area_Code</td> 
-   <td>텍스트</td> 
-   <td>길이 255</td> 
-  </tr> 
-  <tr> 
-   <td>추론된 우편번호</td> 
-   <td>mkto71_Inferred_Postal_Code</td> 
-   <td>텍스트</td> 
-   <td>길이 255</td> 
-  </tr> 
-  <tr> 
-   <td>유추된 주 지역</td> 
-   <td>mkto71_Inferred_State_Region</td> 
-   <td>텍스트</td> 
-   <td>길이 255</td> 
-  </tr> 
- </tbody> 
+      필드 속성
+    </div></th>
+  </tr>
+ </thead>
+ <tbody>
+  <tr>
+   <td>고객 확보 프로그램 Id</td>
+   <td>mkto71_Acquisition_Program_Id</td>
+   <td>숫자</td>
+   <td>길이 18<br>소수점 이하 자리 수 0 </td>
+  </tr>
+  <tr>
+   <td>원래 레퍼러</td>
+   <td>mkto71_Original_Referrer</td>
+   <td>텍스트</td>
+   <td>길이 255</td>
+  </tr>
+  <tr>
+   <td>원본 검색 엔진</td>
+   <td>mkto71_Original_Search_Engine</td>
+   <td>텍스트</td>
+   <td>길이 255</td>
+  </tr>
+  <tr>
+   <td>원본 검색 구문</td>
+   <td>mkto71_Original_Search_Phrase</td>
+   <td>텍스트</td>
+   <td>길이 255</td>
+  </tr>
+  <tr>
+   <td>원본 소스 정보</td>
+   <td>mkto71_Original_Source_Info</td>
+   <td>텍스트</td>
+   <td>길이 255</td>
+  </tr>
+  <tr>
+   <td>원본 소스 유형</td>
+   <td>mkto71_Original_Source_Type</td>
+   <td>텍스트</td>
+   <td>길이 255</td>
+  </tr>
+  <tr>
+   <td>추론된 시</td>
+   <td>mkto71_Inferred_City</td>
+   <td>텍스트</td>
+   <td>길이 255</td>
+  </tr>
+  <tr>
+   <td>추론된 회사</td>
+   <td>mkto71_Inferred_Company</td>
+   <td>텍스트</td>
+   <td>길이 255</td>
+  </tr>
+  <tr>
+   <td>추론된 국가</td>
+   <td>mkto71_Inferred_Country</td>
+   <td>텍스트</td>
+   <td>길이 255</td>
+  </tr>
+  <tr>
+   <td>대도시 지역 유추</td>
+   <td>mkto71_Inferred_Metropolitan_Area</td>
+   <td>텍스트</td>
+   <td>길이 255</td>
+  </tr>
+  <tr>
+   <td>전화번호 지역코드 유추</td>
+   <td>mkto71_Inferred_Phone_Area_Code</td>
+   <td>텍스트</td>
+   <td>길이 255</td>
+  </tr>
+  <tr>
+   <td>추론된 우편번호</td>
+   <td>mkto71_Inferred_Postal_Code</td>
+   <td>텍스트</td>
+   <td>길이 255</td>
+  </tr>
+  <tr>
+   <td>유추된 주 지역</td>
+   <td>mkto71_Inferred_State_Region</td>
+   <td>텍스트</td>
+   <td>길이 255</td>
+  </tr>
+ </tbody>
 </table>
 
 >[!NOTE]

@@ -3,7 +3,7 @@ description: Salesforce - Marketo 문서 - 제품 설명서와 미리 알림 작
 title: Salesforce과 작업 동기화 알림
 exl-id: 11aa6ab5-5489-4c20-a64d-2fd6fe29506f
 feature: Sales Insight Actions
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
 workflow-type: tm+mt
 source-wordcount: '487'
 ht-degree: 0%

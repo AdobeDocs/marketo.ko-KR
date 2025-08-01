@@ -3,7 +3,7 @@ description: 구독 취소 개요 - Marketo 문서 - 제품 설명서
 title: 구독 취소 개요
 exl-id: 7598efa9-9686-4dd0-840b-f8b6de4ab2be
 feature: Sales Insight Actions
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
 workflow-type: tm+mt
 source-wordcount: '328'
 ht-degree: 0%
@@ -52,25 +52,25 @@ ht-degree: 0%
 
 ![](assets/unsubscribe-overview-5.png)
 
-<table> 
- <colgroup> 
-  <col> 
-  <col> 
- </colgroup> 
- <tbody> 
-  <tr> 
-   <td><strong>[!UICONTROL Date]</strong></td> 
-   <td><p>구독 취소/다시 구독이 발생한 날짜를 표시합니다.</p></td> 
-  </tr> 
-  <tr> 
-   <td><strong>[!UICONTROL Details]</strong></td> 
-   <td><p>다시 구독: [!DNL Sales Connect] 관리자가 연락처 레코드에서 구독 취소를 수동으로 제거했습니다. 또한 연락처의 구독을 취소한 이유와 관련된 몇 가지 세부 정보가 표시될 수 있습니다.</p><p>구독 취소: 연락처의 구독을 취소했습니다.</p></td> 
-  </tr> 
-  <tr> 
-   <td><strong>[!UICONTROL Source]</strong></td> 
-   <td><p>[!DNL Salesforce] 동기화: [!DNL Salesforce]의 동기화에서 구독 취소가 캡처되었습니다.</p><p>수동: 사용자가 구독 취소 버튼을 클릭하여 옵트아웃했습니다.</p><p>클릭한 링크: 이메일 수신자가 구독 취소 링크를 클릭했습니다.</p><p>"관리자 이름": 작업을 통해 연락처를 다시 구독하면 관리자의 이름이 표시됩니다. 이를 통해 사용자는 구독 취소를 제거한 사용자를 알 수 있습니다.</p></td> 
-  </tr> 
- </tbody> 
+<table>
+ <colgroup>
+  <col>
+  <col>
+ </colgroup>
+ <tbody>
+  <tr>
+   <td><strong>[!UICONTROL Date]</strong></td>
+   <td><p>구독 취소/다시 구독이 발생한 날짜를 표시합니다.</p></td>
+  </tr>
+  <tr>
+   <td><strong>[!UICONTROL Details]</strong></td>
+   <td><p>다시 구독: [!DNL Sales Connect] 관리자가 연락처 레코드에서 구독 취소를 수동으로 제거했습니다. 또한 연락처의 구독을 취소한 이유와 관련된 몇 가지 세부 정보가 표시될 수 있습니다.</p><p>구독 취소: 연락처의 구독을 취소했습니다.</p></td>
+  </tr>
+  <tr>
+   <td><strong>[!UICONTROL Source]</strong></td>
+   <td><p>[!DNL Salesforce] 동기화: [!DNL Salesforce]의 동기화에서 구독 취소가 캡처되었습니다.</p><p>수동: 사용자가 구독 취소 버튼을 클릭하여 옵트아웃했습니다.</p><p>클릭한 링크: 이메일 수신자가 구독 취소 링크를 클릭했습니다.</p><p>"관리자 이름": 작업을 통해 연락처를 다시 구독하면 관리자의 이름이 표시됩니다. 이를 통해 사용자는 구독 취소를 제거한 사용자를 알 수 있습니다.</p></td>
+  </tr>
+ </tbody>
 </table>
 
 >[!MORELIKETHIS]

@@ -4,7 +4,7 @@ description: 웹 Personalization 데이터를 사용하여 재타겟팅 - Market
 title: 웹 Personalization 데이터를 사용하여 재타겟팅
 exl-id: b5af1f84-2061-4d0d-9d1f-2fff9191f028
 feature: Web Personalization
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
 workflow-type: tm+mt
 source-wordcount: '381'
 ht-degree: 1%
@@ -26,30 +26,30 @@ ht-degree: 1%
 
 [!DNL Web Personalization]은(는) 대상자를 만들고 리마케팅 광고 캠페인을 실행하기 위해 리마케팅 플랫폼으로 다음 데이터를 보냅니다.
 
-<table> 
- <tbody> 
-  <tr> 
-   <th colspan="1">[!DNL Web Personalization] 데이터</th> 
-  </tr> 
-  <tr> 
-   <th><p>업종</p></th> 
-  </tr> 
-  <tr> 
-   <th><p>그룹(엔터프라이즈, SMB)</p></th> 
-  </tr> 
-  <tr> 
-   <th><p>카테고리(Fortune 500/1000, 글로벌 2000)</p></th> 
-  </tr> 
-  <tr> 
-   <th><p>ABM 목록(명명된 계정 목록)</p></th> 
-  </tr> 
-  <tr> 
-   <th><p>세그먼트화된 대상자(세그먼트 기반)</p></th> 
-  </tr> 
-  <tr> 
-   <th><p>클릭한 웹 캠페인</p></th> 
-  </tr> 
- </tbody> 
+<table>
+ <tbody>
+  <tr>
+   <th colspan="1">[!DNL Web Personalization] 데이터</th>
+  </tr>
+  <tr>
+   <th><p>업종</p></th>
+  </tr>
+  <tr>
+   <th><p>그룹(엔터프라이즈, SMB)</p></th>
+  </tr>
+  <tr>
+   <th><p>카테고리(Fortune 500/1000, 글로벌 2000)</p></th>
+  </tr>
+  <tr>
+   <th><p>ABM 목록(명명된 계정 목록)</p></th>
+  </tr>
+  <tr>
+   <th><p>세그먼트화된 대상자(세그먼트 기반)</p></th>
+  </tr>
+  <tr>
+   <th><p>클릭한 웹 캠페인</p></th>
+  </tr>
+ </tbody>
 </table>
 
 ## 리마케팅 구성 {#remarketing-configuration}

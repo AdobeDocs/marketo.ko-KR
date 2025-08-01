@@ -4,7 +4,7 @@ description: Marketo 용어 업데이트 - Marketo 설명서 - 제품 설명서
 hide: true
 hidefromtoc: true
 title: Marketo 용어 업데이트
-source-git-commit: 14583b7fa148aa2b03c8cf6316b9a106c11717b7
+source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
 workflow-type: tm+mt
 source-wordcount: '328'
 ht-degree: 1%
@@ -23,52 +23,52 @@ Marketo 설명서에 다른 용어가 표시될 수 있지만, 이러한 변경 
 
 가장 큰 변화는 리드/리드가 사람/사람으로 이름이 바뀌는 것입니다.
 
-<table> 
- <colgroup> 
-  <col> 
-  <col> 
- </colgroup> 
- <tbody> 
-  <tr> 
-   <td><strong>이전</strong></td> 
-   <td><strong>신규</strong></td> 
-  </tr> 
-  <tr> 
-   <td> 
-    <div> 
-     <img width="295" src="assets/leads.png" data-linked-resource-id="11387678" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="11387674"> 
-    </div></td> 
-   <td> 
-    <div> 
-     <img width="295" src="assets/people.png" data-linked-resource-id="11387679" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="11387674"> 
-    </div></td> 
-  </tr> 
- </tbody> 
+<table>
+ <colgroup>
+  <col>
+  <col>
+ </colgroup>
+ <tbody>
+  <tr>
+   <td><strong>이전</strong></td>
+   <td><strong>새로운 기능</strong></td>
+  </tr>
+  <tr>
+   <td>
+    <div>
+     <img width="295" src="assets/leads.png" data-linked-resource-id="11387678" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="11387674">
+    </div></td>
+   <td>
+    <div>
+     <img width="295" src="assets/people.png" data-linked-resource-id="11387679" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="11387674">
+    </div></td>
+  </tr>
+ </tbody>
 </table>
 
 &quot;리드&quot;라는 단어가 단순히 제거되는 경우도 있습니다.
 
-<table> 
- <colgroup> 
-  <col> 
-  <col> 
- </colgroup> 
- <tbody> 
-  <tr> 
-   <td><strong>이전</strong></td> 
-   <td><strong>신규</strong></td> 
-  </tr> 
-  <tr> 
-   <td> 
-    <div> 
-     <img src="assets/lead-database.png" data-linked-resource-id="11387676" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="11387674"> 
-    </div></td> 
-   <td> 
-    <div> 
-     <p><img src="assets/database.png" data-linked-resource-id="11387677" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="11387674"></p> 
-    </div></td> 
-  </tr> 
- </tbody> 
+<table>
+ <colgroup>
+  <col>
+  <col>
+ </colgroup>
+ <tbody>
+  <tr>
+   <td><strong>이전</strong></td>
+   <td><strong>새로운 기능</strong></td>
+  </tr>
+  <tr>
+   <td>
+    <div>
+     <img src="assets/lead-database.png" data-linked-resource-id="11387676" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="11387674">
+    </div></td>
+   <td>
+    <div>
+     <p><img src="assets/database.png" data-linked-resource-id="11387677" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="11387674"></p>
+    </div></td>
+  </tr>
+ </tbody>
 </table>
 
 리드와 개인 **이(가) 같습니다**.
@@ -85,27 +85,27 @@ Marketo 설명서에 다른 용어가 표시될 수 있지만, 이러한 변경 
 
 Lead 라는 용어가 포함된 필드가 Person으로 대체되거나 Lead 라는 단어가 삭제되었습니다. 그러나 주목할 만한 예외 중 하나는 &quot;잠재 고객 소유자&quot; 필드입니다. 이제 &quot;판매 소유자&quot;라고 합니다.
 
-<table> 
- <colgroup> 
-  <col> 
-  <col> 
- </colgroup> 
- <tbody> 
-  <tr> 
-   <td><strong>이전</strong></td> 
-   <td><strong>신규</strong></td> 
-  </tr> 
-  <tr> 
-   <td> 
-    <div> 
-     <img src="assets/lead-owner.png" data-linked-resource-id="11387757" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="11387674"> 
-    </div></td> 
-   <td> 
-    <div> 
-     <img src="assets/sales-owner.png" data-linked-resource-id="11387758" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="11387674"> 
-    </div></td> 
-  </tr> 
- </tbody> 
+<table>
+ <colgroup>
+  <col>
+  <col>
+ </colgroup>
+ <tbody>
+  <tr>
+   <td><strong>이전</strong></td>
+   <td><strong>새로운 기능</strong></td>
+  </tr>
+  <tr>
+   <td>
+    <div>
+     <img src="assets/lead-owner.png" data-linked-resource-id="11387757" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="11387674">
+    </div></td>
+   <td>
+    <div>
+     <img src="assets/sales-owner.png" data-linked-resource-id="11387758" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="11387674">
+    </div></td>
+  </tr>
+ </tbody>
 </table>
 
 >[!NOTE]
@@ -114,27 +114,27 @@ Lead 라는 용어가 포함된 필드가 Person으로 대체되거나 Lead 라�
 
 ## 실시간 Personalization(RTP)가 이제 웹 Personalization입니다 {#real-time-personalization-rtp-is-now-web-personalization}
 
-<table> 
- <colgroup> 
-  <col> 
-  <col> 
- </colgroup> 
- <tbody> 
-  <tr> 
-   <td><strong>이전</strong></td> 
-   <td><strong>신규</strong></td> 
-  </tr> 
-  <tr> 
-   <td> 
-    <div> 
-     <img src="assets/rtp.png" data-linked-resource-id="11387692" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="11387674"> 
-    </div></td> 
-   <td> 
-    <div> 
-     <img src="assets/web.png" data-linked-resource-id="11387693" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="11387674"> 
-    </div></td> 
-  </tr> 
- </tbody> 
+<table>
+ <colgroup>
+  <col>
+  <col>
+ </colgroup>
+ <tbody>
+  <tr>
+   <td><strong>이전</strong></td>
+   <td><strong>새로운 기능</strong></td>
+  </tr>
+  <tr>
+   <td>
+    <div>
+     <img src="assets/rtp.png" data-linked-resource-id="11387692" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="11387674">
+    </div></td>
+   <td>
+    <div>
+     <img src="assets/web.png" data-linked-resource-id="11387693" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="11387674">
+    </div></td>
+  </tr>
+ </tbody>
 </table>
 
 이제 이름 변경 외에도 네 개의 별도 앱으로 구성됩니다.

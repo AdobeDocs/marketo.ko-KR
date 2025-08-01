@@ -4,7 +4,7 @@ description: 명령 센터 개요 - Marketo 문서 - 제품 설명서
 title: 관리 센터 개요
 exl-id: 141fa369-9ef9-48c7-a7ff-f5265d0e9ca5
 feature: Marketo Sales Connect
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
 workflow-type: tm+mt
 source-wordcount: '556'
 ht-degree: 0%
@@ -23,59 +23,59 @@ Comcommend Center는 다음 단계를 파악하는 데 도움이 되는 통합�
 
 이메일 섹션은 모든 이메일을 한눈에 볼 수 있도록 해 주며, 이메일이 상태에 따라 자동으로 저장되는 폴더 역할을 하는 기본 탭과 하위 탭을 사용하여 조직을 단순화합니다.
 
-<table> 
- <colgroup> 
-  <col> 
-  <col> 
-  <col> 
- </colgroup> 
- <tbody> 
-  <tr> 
-   <td title="배경색 : 회색"><p title=""><strong><span>기본</span> </strong></p></td> 
-   <td title="배경색 : 회색"><p title=""><strong><span>보조</span> </strong></p></td> 
-   <td title="배경색 : 회색"><p title=""><strong><span>설명</span> </strong></p></td> 
-  </tr> 
-  <tr> 
-   <td title="배경색 : 파랑"><strong title="">전송됨</strong></td> 
-   <td title="배경색 : 파랑">[!UICONTROL Delivered]</td> 
-   <td title="배경색 : 파랑">수신자에게 전달된 이메일.</td> 
-  </tr> 
-  <tr> 
-   <td title="배경색 : 파랑"><br></td> 
-   <td title="배경색 : 파랑">[!UICONTROL Archived]</td> 
-   <td title="배경색 : 파랑">이메일에 대한 추적을 비활성화하기 위해 사용자가 보관한 이메일.</td> 
-  </tr> 
-  <tr> 
-   <td title="배경색 : 회색"><strong title="">보류 중</strong></td> 
-   <td title="배경색 : 회색">[!UICONTROL Scheduled]</td> 
-   <td title="배경색 : 회색">현재 나가도록 예약된 이메일입니다. 이메일이 전송되면 전달된 폴더로 이동됩니다.</td> 
-  </tr> 
-  <tr> 
-   <td title="배경색 : 회색"><br></td> 
-   <td title="배경색 : 회색">[!UICONTROL Draft]</td> 
-   <td title="배경색 : 회색"><p>초안으로 저장된 이메일.<br><strong>참고:</strong> 하나의 전자 메일만 초안으로 저장할 수 있습니다. 대량 이메일(이메일 및 그룹 이메일 선택 및 보내기)은 초안으로 저장되지 않습니다.</p></td> 
-  </tr> 
-  <tr> 
-   <td title="배경색 : 회색"><br></td> 
-   <td title="배경색 : 회색">[!UICONTROL In Progress]</td> 
-   <td title="배경색 : 회색">이메일이 전송 모션에 있을 때 들어가는 중간 상태입니다. 이메일은 잠시 동안만 진행 중이어야 합니다.</td> 
-  </tr> 
-  <tr> 
-   <td title="배경색 : 파랑"><strong title="">게재되지 않음</strong></td> 
-   <td title="배경색 : 파랑">[!UICONTROL Failed]</td> 
-   <td title="배경색 : 파랑">게재에 실패한 이메일.</td> 
-  </tr> 
-  <tr> 
-   <td title="배경색 : 파랑"><br></td> 
-   <td title="배경색 : 파랑">[!UICONTROL Bounced]</td> 
-   <td title="배경색 : 파랑"><p>수신자 이메일 서버에서 거부된 이메일. <br><strong>참고:</strong> 기존 ToutApp 사용자이고 배달 채널로 MSC 서버에 액세스할 수 있는 경우에만 검색됩니다.</p></td> 
-  </tr> 
-  <tr> 
-   <td title="배경색 : 파랑"><br></td> 
-   <td title="배경색 : 파랑">[!UICONTROL Spam]</td> 
-   <td title="배경색 : 파랑"><p>수신자가 수동으로 스팸으로 표시한 이메일입니다.<br><strong>참고:</strong> 기존 ToutApp 사용자이고 배달 채널로 MSC 서버에 액세스할 수 있는 경우에만 검색됩니다.</p></td> 
-  </tr> 
- </tbody> 
+<table>
+ <colgroup>
+  <col>
+  <col>
+  <col>
+ </colgroup>
+ <tbody>
+  <tr>
+   <td title="배경색 : 회색"><p title=""><strong><span>기본</span> </strong></p></td>
+   <td title="배경색 : 회색"><p title=""><strong><span>보조</span> </strong></p></td>
+   <td title="배경색 : 회색"><p title=""><strong><span>설명</span> </strong></p></td>
+  </tr>
+  <tr>
+   <td title="배경색 : 파랑"><strong title="">전송됨</strong></td>
+   <td title="배경색 : 파랑">[!UICONTROL Delivered]</td>
+   <td title="배경색 : 파랑">수신자에게 전달된 이메일.</td>
+  </tr>
+  <tr>
+   <td title="배경색 : 파랑"><br></td>
+   <td title="배경색 : 파랑">[!UICONTROL Archived]</td>
+   <td title="배경색 : 파랑">이메일에 대한 추적을 비활성화하기 위해 사용자가 보관한 이메일.</td>
+  </tr>
+  <tr>
+   <td title="배경색 : 회색"><strong title="">보류 중</strong></td>
+   <td title="배경색 : 회색">[!UICONTROL Scheduled]</td>
+   <td title="배경색 : 회색">현재 나가도록 예약된 이메일입니다. 이메일이 전송되면 전달된 폴더로 이동됩니다.</td>
+  </tr>
+  <tr>
+   <td title="배경색 : 회색"><br></td>
+   <td title="배경색 : 회색">[!UICONTROL Draft]</td>
+   <td title="배경색 : 회색"><p>초안으로 저장된 이메일.<br><strong>참고:</strong> 하나의 전자 메일만 초안으로 저장할 수 있습니다. 대량 이메일(이메일 및 그룹 이메일 선택 및 보내기)은 초안으로 저장되지 않습니다.</p></td>
+  </tr>
+  <tr>
+   <td title="배경색 : 회색"><br></td>
+   <td title="배경색 : 회색">[!UICONTROL In Progress]</td>
+   <td title="배경색 : 회색">이메일이 전송 모션에 있을 때 들어가는 중간 상태입니다. 이메일은 잠시 동안만 진행 중이어야 합니다.</td>
+  </tr>
+  <tr>
+   <td title="배경색 : 파랑"><strong title="">게재되지 않음</strong></td>
+   <td title="배경색 : 파랑">[!UICONTROL Failed]</td>
+   <td title="배경색 : 파랑">게재에 실패한 이메일.</td>
+  </tr>
+  <tr>
+   <td title="배경색 : 파랑"><br></td>
+   <td title="배경색 : 파랑">[!UICONTROL Bounced]</td>
+   <td title="배경색 : 파랑"><p>수신자 이메일 서버에서 거부된 이메일. <br><strong>참고:</strong> 기존 ToutApp 사용자이고 배달 채널로 MSC 서버에 액세스할 수 있는 경우에만 검색됩니다.</p></td>
+  </tr>
+  <tr>
+   <td title="배경색 : 파랑"><br></td>
+   <td title="배경색 : 파랑">[!UICONTROL Spam]</td>
+   <td title="배경색 : 파랑"><p>수신자가 수동으로 스팸으로 표시한 이메일입니다.<br><strong>참고:</strong> 기존 ToutApp 사용자이고 배달 채널로 MSC 서버에 액세스할 수 있는 경우에만 검색됩니다.</p></td>
+  </tr>
+ </tbody>
 </table>
 
 ## 작업 관리 {#manage-tasks}

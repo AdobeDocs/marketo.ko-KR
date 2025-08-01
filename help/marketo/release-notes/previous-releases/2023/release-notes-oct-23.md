@@ -1,12 +1,12 @@
 ---
 description: 릴리스 노트 - 2023년 9월 - Marketo 설명서 - 제품 설명서
-title: 릴리스 노트 - 2023년 9월
+title: 릴리스 정보 - 2023년 9월
 feature: Release Information
 exl-id: c1197141-3822-404d-b9d4-3e37fc5330b6
-source-git-commit: dae00c6877e638ae60305122f3f3e17b3c922e10
+source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
 workflow-type: tm+mt
 source-wordcount: '337'
-ht-degree: 1%
+ht-degree: 2%
 
 ---
 
@@ -22,47 +22,47 @@ ht-degree: 1%
 
 다음 기능은 표준 릴리스 주기에 해당하며 **2023년 10월 6일**&#x200B;에 릴리스되기 시작합니다. 이후 몇 주에 걸쳐 나머지 기능이 단계적으로 롤아웃됩니다. 릴리스 기능 및 날짜는 변경될 수 있습니다. 각 기능 옆에 있는 상태를 확인하십시오.
 
-<table style="table-layout:auto"> 
- <tbody> 
-  <tr> 
-   <th style="width:65%">기능</th> 
+<table style="table-layout:auto">
+ <tbody>
+  <tr>
+   <th style="width:65%">기능</th>
    <th style="width:10%">상태</th>
    <th style="width:25%">설명서</th>
-  </tr> 
-  <tr> 
-   <td><strong>최신 UX의 보고서 구성에 대한 새 디자인</strong>: 보고서 자산을 설정할 때 구성 메뉴에 <a href="https://nation.marketo.com/t5/product-blogs/analytic-modal-updates/ba-p/340321" target="_blank">새 자산 트리</a>가 생기고 생성 및 수정 날짜를 필터링할 수 있습니다.</td> 
+  </tr>
+  <tr>
+   <td><strong>최신 UX의 보고서 구성에 대한 새 디자인</strong>: 보고서 자산을 설정할 때 구성 메뉴에 <a href="https://nation.marketo.com/t5/product-blogs/analytic-modal-updates/ba-p/340321" target="_blank">새 자산 트리</a>가 생기고 생성 및 수정 날짜를 필터링할 수 있습니다.</td>
    <td>배송됨</td>
    <td>해당 사항 없음</td>
   </tr>
-   <tr> 
-   <td> </td> 
+   <tr>
+   <td> </td>
    <td> </td>
    <td> </td>
   </tr>
   </tr>
-   <tr> 
-   <td><strong>수식 흐름 단계 계산 서비스</strong>: 수식 계산은 Marketo Engage 스마트 캠페인에 사용할 수 있도록 Adobe의 IO 런타임 플랫폼에 구축된 흐름 단계 서비스입니다. IO 런타임이 있는 사용자는 서비스를 배포하고 Marketo Engage 구독에 설치하여 Marketo Engage 스마트 캠페인에서 Excel과 유사한 공식을 계산할 수 있습니다.</td> 
+   <tr>
+   <td><strong>수식 흐름 단계 서비스 계산</strong>: 수식 계산은 Adobe 스마트 캠페인에 사용할 수 있도록 Marketo Engage의 IO 런타임 플랫폼에 구축된 흐름 단계 서비스입니다. IO 런타임이 있는 사용자는 서비스를 배포하고 Marketo Engage 구독에 설치하여 Marketo Engage 스마트 캠페인에서 Excel과 유사한 공식을 계산할 수 있습니다.</td>
    <td>배송됨</td>
    <td><a href="https://nation.marketo.com/t5/product-documents/compute-formula-user-guide/ta-p/340633" target="_blank">계산 공식 사용 안내서</a></td>
   </tr>
-  <tr> 
-   <td> </td> 
+  <tr>
+   <td> </td>
    <td> </td>
    <td> </td>
   </tr>
   </tr>
-   <tr> 
-   <td><strong>대화형 웨비나에서 녹화 다운로드 및 공동 호스트 할당</strong>: 이제 원래 호스트를 사용할 수 없는 경우 웨비나에 대한 외부 공동 호스트를 추가할 수 있습니다. 이제 웨비나 녹화를 다운로드할 수도 있습니다.</td> 
+   <tr>
+   <td><strong>대화형 웨비나에서 녹화 다운로드 및 공동 호스트 할당</strong>: 이제 원래 호스트를 사용할 수 없는 경우 웨비나에 대한 외부 공동 호스트를 추가할 수 있습니다. 이제 웨비나 녹화를 다운로드할 수도 있습니다.</td>
    <td>배송됨</td>
    <td><li><a href="/help/marketo/product-docs/demand-generation/events/interactive-webinars/event-workflows.md#webinar-recording" target="_blank">레코딩 다운로드</a></li>
    <li><a href="/help/marketo/product-docs/demand-generation/events/interactive-webinars/create-an-interactive-webinar.md" target="_blank">대화형 웨비나 만들기</a></li></td>
   </tr>
- </tbody> 
+ </tbody>
 </table>
 <br/>
 
 ## 공지 {#announcements}
 
-* **Marketo Engage Forms jQuery 1.x**: 2024년 1월 릴리스에서는 Marketo Engage Forms에 대한 jQuery를 jQuery 3.x로 업데이트합니다. 이는 이전 버전의 jQuery에 의존하는 사용자 정의 양식 구현에 영향을 줄 수 있습니다. [자세히 알아보기](https://nation.marketo.com/t5/product-blogs/marketo-engage-forms-amp-forms2-js-jquery-update/ba-p/341705#M2597){target="_blank"}.
+* **Marketo Engage Forms jQuery 1.x**: 2024년 1월 릴리스에서는 Marketo Engage Forms용 jQuery를 jQuery 3.x로 업데이트합니다. 이는 이전 버전의 jQuery에 의존하는 사용자 정의 양식 구현에 영향을 줄 수 있습니다. [자세히 알아보기](https://nation.marketo.com/t5/product-blogs/marketo-engage-forms-amp-forms2-js-jquery-update/ba-p/341705#M2597){target="_blank"}.
 
-* **Marketo 이벤트 및 Marketo 모멘트 사용 중단**: Adobe은 2023년 10월 2일부터 모든 앱스토어에서 [Marketo 이벤트 및 Marketo 모멘트 제거](https://nation.marketo.com/t5/product-discussions/marketo-events-app-and-marketo-moments-app-end-of-life/m-p/340712/highlight/true#M193869){target="_blank"}입니다. 기존 사용자 - Marketo Engage 인스턴스를 Adobe ID로 마이그레이션할 때까지 이러한 앱을 계속 사용할 수 있습니다. 이러한 앱은 Adobe ID 로그인을 지원하지 않습니다.
+* **Marketo 이벤트 및 Marketo 모멘트 사용 중단**: Adobe은 2023년 10월 2일부터 모든 앱스토어에서 [Marketo 이벤트 및 Marketo 모멘트 제거](https://nation.marketo.com/t5/product-discussions/marketo-events-app-and-marketo-moments-app-end-of-life/m-p/340712/highlight/true#M193869){target="_blank"}합니다. 기존 사용자 - Marketo Engage 인스턴스를 Adobe ID로 마이그레이션할 때까지 이러한 앱을 계속 사용할 수 있습니다. 이러한 앱은 Adobe ID 로그인을 지원하지 않습니다.

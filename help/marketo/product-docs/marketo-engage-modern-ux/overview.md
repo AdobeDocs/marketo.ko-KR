@@ -3,7 +3,7 @@ description: Marketo Engage 최신 UX 개요 - Marketo 문서 - 제품 설명서
 title: Marketo Engage 최신 UX 개요
 exl-id: 50ab55b2-f40d-4dbd-ac3b-aa52e37ff426
 feature: Modern UX
-source-git-commit: ee6944a02a4535f9d763453fa16c95623eed6378
+source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
 workflow-type: tm+mt
 source-wordcount: '441'
 ht-degree: 1%
@@ -12,7 +12,7 @@ ht-degree: 1%
 
 # Marketo Engage 최신 UX 개요 {#overview}
 
-Marketo Engage 플랫폼에서 새로운 룩과 느낌과 함께 향상된 유용성을 제공하는 업데이트된 인터페이스인 Adobe Marketo Engage Modern UX(사용자 경험)를 시작합니다.
+Marketo Engage 플랫폼 전반에서 새로운 룩과 느낌과 함께 향상된 유용성을 제공하는 업데이트된 인터페이스인 Adobe Marketo Engage Modern UX(사용자 경험)를 시작합니다.
 
 >[!PREREQUISITES]
 >
@@ -34,7 +34,7 @@ Modern UX에는 마케팅 경험을 크게 개선하기 위해 설계된 많은 
 
 **전역 탐색**
 
-슈퍼볼은 잘 가 이제 모든 기본 Marketo Engage 섹션에 빠르게 액세스할 수 있습니다.
+슈퍼볼은 잘 가 이제 모든 주요 Marketo Engage 섹션에 빠르게 액세스할 수 있습니다.
 
 ![](assets/overview-5.png)
 
@@ -54,112 +54,112 @@ Modern UX에는 마케팅 경험을 크게 개선하기 위해 설계된 많은 
 
 **Marketo Classic과 새 Marketo 비교**
 
-<table> 
+<table>
  <tbody>
   <tr>
-   <th>기능</th> 
-   <th>Classic</th> 
-   <th>차세대</th> 
+   <th>기능</th>
+   <th>Classic</th>
+   <th>차세대</th>
   </tr>
   <tr>
-   <td>여러 필터를 동시에 적용</td> 
-   <td></td> 
-   <td><strong>X</strong></td>  
+   <td>여러 필터를 동시에 적용</td>
+   <td></td>
+   <td><strong>X</strong></td>
   </tr>
   <tr>
-   <td>초안 및 승인 트리 노드가 결합됨</td> 
-   <td></td> 
-   <td><strong>X</strong></td> 
+   <td>초안 및 승인 트리 노드가 결합됨</td>
+   <td></td>
+   <td><strong>X</strong></td>
   </tr>
   <tr>
-   <td>프로그램 폴더에 로컬 자산 만들기</td> 
-   <td></td> 
-   <td><strong>X</strong></td> 
+   <td>프로그램 폴더에 로컬 자산 만들기</td>
+   <td></td>
+   <td><strong>X</strong></td>
   </tr>
   <tr>
-   <td>두 번 클릭하여 트리 노드 확장/축소</td> 
-   <td><strong>X</strong></td> 
-   <td><strong>X</strong></td>  
+   <td>두 번 클릭하여 트리 노드 확장/축소</td>
+   <td><strong>X</strong></td>
+   <td><strong>X</strong></td>
   </tr>
   <tr>
-   <td>트리에서 참여 스트림으로 드래그 앤 드롭</td> 
-   <td><strong>X</strong></td> 
-   <td></td> 
+   <td>트리에서 참여 스트림으로 드래그 앤 드롭</td>
+   <td><strong>X</strong></td>
+   <td></td>
   </tr>
   <tr>
-   <td>트리 안으로 드래그 앤 드롭</td> 
-   <td><strong>X</strong></td> 
-   <td><strong>X</strong></td> 
+   <td>트리 안으로 드래그 앤 드롭</td>
+   <td><strong>X</strong></td>
+   <td><strong>X</strong></td>
   </tr>
   <tr>
-   <td>자산 유형 및 상태별로 필터링</td> 
-   <td><i>부분</i></td> 
-   <td><strong>X</strong></td>  
+   <td>자산 유형 및 상태별로 필터링</td>
+   <td><i>부분</i></td>
+   <td><strong>X</strong></td>
   </tr>
   <tr>
-   <td>배경을 강조 표시하여 포커스 상태에 계층 표시</td> 
-   <td></td> 
-   <td><strong>X</strong></td> 
+   <td>배경을 강조 표시하여 포커스 상태에 계층 표시</td>
+   <td></td>
+   <td><strong>X</strong></td>
   </tr>
   <tr>
-   <td>검색 중 키워드 강조 표시</td> 
-   <td></td> 
-   <td><strong>X</strong></td> 
+   <td>검색 중 키워드 강조 표시</td>
+   <td></td>
+   <td><strong>X</strong></td>
   </tr>
   <tr>
-   <td>가로 스크롤</td> 
-   <td><strong>X</strong></td> 
-   <td><strong>X</strong></td>  
+   <td>가로 스크롤</td>
+   <td><strong>X</strong></td>
+   <td><strong>X</strong></td>
   </tr>
   <tr>
-   <td>트리 노드의 마우스로 가리키기 상태</td> 
-   <td><strong>X</strong></td> 
-   <td><strong>X</strong></td> 
+   <td>트리 노드의 마우스로 가리키기 상태</td>
+   <td><strong>X</strong></td>
+   <td><strong>X</strong></td>
   </tr>
   <tr>
-   <td>전체 트리 빠른 축소</td> 
-   <td></td> 
-   <td><strong>X</strong></td> 
+   <td>전체 트리 빠른 축소</td>
+   <td></td>
+   <td><strong>X</strong></td>
   </tr>
   <tr>
-   <td>루트 노드로 빠르게 축소</td> 
-   <td></td> 
-   <td><strong>X</strong></td>  
+   <td>루트 노드로 빠르게 축소</td>
+   <td></td>
+   <td><strong>X</strong></td>
   </tr>
   <tr>
-   <td>실시간 업데이트</td> 
-   <td></td> 
-   <td><strong>X</strong></td> 
+   <td>실시간 업데이트</td>
+   <td></td>
+   <td><strong>X</strong></td>
   </tr>
   <tr>
-   <td>크기 조정 가능한 트리</td> 
-   <td><strong>X</strong></td> 
-   <td><strong>X</strong></td> 
+   <td>크기 조정 가능한 트리</td>
+   <td><strong>X</strong></td>
+   <td><strong>X</strong></td>
   </tr>
   <tr>
-   <td>보관된 폴더에서 검색</td> 
-   <td></td> 
-   <td><strong>X</strong></td>  
+   <td>보관된 폴더에서 검색</td>
+   <td></td>
+   <td><strong>X</strong></td>
   </tr>
   <tr>
-   <td>트리 검색에서 글로벌 검색을 입력할 때 검색 문자열이 저장됨</td> 
-   <td></td> 
-   <td><strong>X</strong></td> 
+   <td>트리 검색에서 글로벌 검색을 입력할 때 검색 문자열이 저장됨</td>
+   <td></td>
+   <td><strong>X</strong></td>
   </tr>
   <tr>
-   <td>단일 트리에 모든 작업 영역 표시</td> 
-   <td><strong>X</strong></td> 
-   <td><strong>X</strong></td> 
+   <td>단일 트리에 모든 작업 영역 표시</td>
+   <td><strong>X</strong></td>
+   <td><strong>X</strong></td>
   </tr>
   <tr>
-   <td>상태 배지 및 도구 설명</td> 
-   <td></td> 
-   <td><strong>X</strong></td>  
+   <td>상태 배지 및 도구 설명</td>
+   <td></td>
+   <td><strong>X</strong></td>
   </tr>
   <tr>
-   <td>'Word가 다음으로 시작' 검색 논리</td> 
-   <td></td> 
-   <td><strong>X</strong></td> 
+   <td>'Word가 다음으로 시작' 검색 논리</td>
+   <td></td>
+   <td><strong>X</strong></td>
   </tr>
  </tbody>
 </table>
@@ -170,24 +170,24 @@ Modern UX에는 마케팅 경험을 크게 개선하기 위해 설계된 많은 
 
 ![](assets/overview-7.png)
 
-<table> 
+<table>
  <tbody>
   <tr>
-   <td>1</td> 
-   <td>더 이상 수퍼볼 드롭다운이 없음</td> 
+   <td>1</td>
+   <td>더 이상 수퍼볼 드롭다운이 없음</td>
   </tr>
   <tr>
-   <td>2</td> 
-   <td>이전 슈퍼볼 항목이 모두 나열됨</td> 
+   <td>2</td>
+   <td>이전 슈퍼볼 항목이 모두 나열됨</td>
   </tr>
   <tr>
   <tr>
-   <td>3</td> 
-   <td>구독이 여러 개인 경우 하위 이름을 클릭하여 다른 이름으로 쉽게 전환합니다</td> 
+   <td>3</td>
+   <td>구독이 여러 개인 경우 하위 이름을 클릭하여 다른 이름으로 쉽게 전환합니다</td>
   </tr>
   <tr>
-   <td>4</td> 
-   <td>글로벌 검색 - 이제 여기에서 전체 인스턴스를 검색할 수 있습니다.</td> 
+   <td>4</td>
+   <td>글로벌 검색 - 이제 여기에서 전체 인스턴스를 검색할 수 있습니다.</td>
   </tr>
  </tbody>
 </table>

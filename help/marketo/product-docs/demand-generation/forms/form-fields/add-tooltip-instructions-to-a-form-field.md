@@ -4,7 +4,7 @@ description: 양식 필드에 툴팁 지침 추가 - Marketo 문서 - 제품 설
 title: 양식 필드에 툴팁 지침 추가
 exl-id: 455d19de-2e2b-447d-a210-7d77fdda6dc9
 feature: Forms
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
 workflow-type: tm+mt
 source-wordcount: '114'
 ht-degree: 1%

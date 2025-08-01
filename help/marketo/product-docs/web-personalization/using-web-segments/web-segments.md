@@ -4,7 +4,7 @@ description: 웹 세그먼트 - Marketo 문서 - 제품 설명서
 title: 웹 세그먼트
 exl-id: ec62c1ae-579a-4753-9b2d-18c7c2fa1ff5
 feature: Web Personalization
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
 workflow-type: tm+mt
 source-wordcount: '1980'
 ht-degree: 0%
@@ -23,35 +23,35 @@ ht-degree: 0%
 
 **그래프:** 세그먼트 페이지에는 세그먼트의 방문자 수(y축)와 세그먼트 이름(x축)에 따라 선택한 세그먼트의 막대 차트 그래프가 표시됩니다.
 
-<table> 
- <thead> 
-  <tr> 
-   <th colspan="1" rowspan="1">이름</th> 
-   <th colspan="1" rowspan="1">설명</th> 
-  </tr> 
- </thead> 
- <tbody> 
-  <tr> 
-   <td colspan="1" rowspan="1"><strong>이름</strong></td> 
-   <td colspan="1" rowspan="1">세그먼트 제목</td> 
-  </tr> 
-  <tr> 
-   <td colspan="1" rowspan="1"><p><strong>일치</strong></p></td> 
-   <td colspan="1" rowspan="1">세그먼트의 사용자 지정 정의된 기준을 충족하는 방문자의 수입니다</td> 
-  </tr> 
-  <tr> 
-   <td colspan="1" rowspan="1"><strong>캠페인 설정</strong></td> 
-   <td colspan="1" rowspan="1">선택한 검색어와 연결된 Campaign CTA을 설정할 수 있습니다.</td> 
-  </tr> 
-  <tr> 
-   <td colspan="1"><strong>방문자</strong></td> 
-   <td colspan="1">선택한 검색어와 연관된 방문자 테이블의 미리보기</td> 
-  </tr> 
-  <tr> 
-   <td colspan="1" rowspan="1"><strong>클릭스트림</strong></td> 
-   <td colspan="1" rowspan="1">방문자가 사이트에서 보낸 활동 및 URL 경로와 각 페이지를 방문한 시간을 표로 표시합니다 </td> 
-  </tr> 
- </tbody> 
+<table>
+ <thead>
+  <tr>
+   <th colspan="1" rowspan="1">이름</th>
+   <th colspan="1" rowspan="1">설명</th>
+  </tr>
+ </thead>
+ <tbody>
+  <tr>
+   <td colspan="1" rowspan="1"><strong>이름</strong></td>
+   <td colspan="1" rowspan="1">세그먼트 제목</td>
+  </tr>
+  <tr>
+   <td colspan="1" rowspan="1"><p><strong>일치</strong></p></td>
+   <td colspan="1" rowspan="1">세그먼트의 사용자 지정 정의된 기준을 충족하는 방문자의 수입니다</td>
+  </tr>
+  <tr>
+   <td colspan="1" rowspan="1"><strong>캠페인 설정</strong></td>
+   <td colspan="1" rowspan="1">선택한 검색어와 연결된 Campaign CTA을 설정할 수 있습니다.</td>
+  </tr>
+  <tr>
+   <td colspan="1"><strong>방문자</strong></td>
+   <td colspan="1">선택한 검색어와 연관된 방문자 테이블의 미리보기</td>
+  </tr>
+  <tr>
+   <td colspan="1" rowspan="1"><strong>클릭스트림</strong></td>
+   <td colspan="1" rowspan="1">방문자가 사이트에서 보낸 활동 및 URL 경로와 각 페이지를 방문한 시간을 표로 표시합니다 </td>
+  </tr>
+ </tbody>
 </table>
 
 [세그먼트 레이블을 만들고 보는 방법](/help/marketo/product-docs/web-personalization/using-web-segments/label-your-segment.md) 보기
@@ -187,7 +187,7 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->명명된 계정 목록 이름 옆에 있는 대괄호 안의 숫자는 웹 Personalization [API 읽기](https://experienceleague.adobe.com/ko/docs/marketo-developer/marketo/javascriptapi/web-personalization)에 대한 목록에 대한 인덱스 참조로 사용됩니다.
+>명명된 계정 목록 이름 옆에 있는 대괄호 안의 숫자는 웹 Personalization [API 읽기](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/javascriptapi/web-personalization)에 대한 목록에 대한 인덱스 참조로 사용됩니다.
 
 **ISP 제외**
 
@@ -286,7 +286,7 @@ ht-degree: 0%
 
 **사용자 컨텍스트 API**
 
-웹 Personalization API 호출 [자세한 내용은 여기를 참조하십시오.](https://experienceleague.adobe.com/ko/docs/marketo-developer/marketo/javascriptapi/web-personalization)
+웹 Personalization API 호출 [자세한 내용은 여기를 참조하십시오.](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/javascriptapi/web-personalization)
 
 >[!TIP]
 >

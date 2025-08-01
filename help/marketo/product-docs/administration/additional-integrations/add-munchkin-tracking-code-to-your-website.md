@@ -4,7 +4,7 @@ description: 웹 사이트에  [!DNL Munchkin] 추적 코드 추가 - Marketo �
 title: 웹 사이트에  [!DNL Munchkin] 추적 코드 추가
 exl-id: a03a7f11-8d5e-4325-b975-8fc350711da0
 feature: Administration, Munchkin Tracking Code
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
 workflow-type: tm+mt
 source-wordcount: '633'
 ht-degree: 1%
@@ -59,7 +59,7 @@ Marketo의 사용자 지정 JavaScript 추적 코드([!DNL Munchkin])는 웹 사
 
    >[!TIP]
    >
-   >많은 양의 트래픽(즉, 매월 수십만 건의 방문)이 표시되는 사이트의 경우 익명의 사용자를 추적하지 않도록 선택하는 것이 좋습니다. [자세히 알아보기](https://experienceleague.adobe.com/ko/docs/marketo-developer/marketo/javascriptapi/leadtracking/lead-tracking){target="_blank"}
+   >많은 양의 트래픽(즉, 매월 수십만 건의 방문)이 표시되는 사이트의 경우 익명의 사용자를 추적하지 않도록 선택하는 것이 좋습니다. [자세히 알아보기](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/javascriptapi/leadtracking/lead-tracking){target="_blank"}
 
 ## 여러 작업 공간을 사용할 때 추적 코드 추가 {#add-tracking-code-when-using-multiple-workspaces}
 

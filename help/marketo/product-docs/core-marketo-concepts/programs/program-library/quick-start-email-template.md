@@ -3,7 +3,7 @@ description: 빠른 시작 이메일 템플릿 - Marketo 문서 - 제품 설명�
 title: 빠른 시작 이메일 템플릿
 feature: Programs
 exl-id: 4ad2063e-11c4-4926-8438-5b38af0fbc8d
-source-git-commit: c16081143588ebc0793f5b6e2630b58348e27124
+source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
 workflow-type: tm+mt
 source-wordcount: '565'
 ht-degree: 0%
@@ -92,7 +92,7 @@ Marketo Engage 이메일 편집기에는 이메일 레이아웃을 변경하고 
    * CTA 텍스트 색상
    * CTA 배경색
    * CTA 테두리 색상
-   * CTA 테두리 반경(단추를 반올림하기 위해 - **참고**: 이 기능은 Microsoft Outlook 이메일 클라이언트에서 작동하지 않음)
+   * CTA 테두리 반경(단추를 반올림하기 위해 - **참고**: 이 기능은 Microsoft Outlook 전자 메일 클라이언트에서 작동하지 않음)
    * CTA URL
    * CTA 텍스트
    * CTA 정렬

@@ -3,7 +3,7 @@ description: 영업 Insight 작업 활동 용어집 - Marketo 문서 - 제품 �
 title: 판매 Insight 작업 활동 용어집
 exl-id: fd0f632c-6f0d-49f9-a805-0730595c81fd
 feature: Sales Insight Actions
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
 workflow-type: tm+mt
 source-wordcount: '307'
 ht-degree: 5%
@@ -216,96 +216,96 @@ ht-degree: 5%
 
 ## 설명 {#descriptions}
 
-<table> 
+<table>
  <tr>
   <th>속성</th>
   <th>설명</th>
  </tr>
- <tbody> 
- <tr> 
-   <td><strong>[!UICONTROL Details]</strong></td> 
-   <td>바운스 오류 메시지 세부 사항.</td> 
-  </tr> 
-  <tr> 
-   <td><strong>[!UICONTROL Email]</strong></td> 
-   <td>반송된 이메일 주소.</td> 
-  </tr> 
-  <tr> 
-   <td><strong>[!UICONTROL Link]</strong></td> 
-   <td>클릭한 URL.</td> 
-  </tr> 
-  <tr> 
-   <td><strong>[!UICONTROL Marketo Sales Person ID]</strong></td> 
-   <td>[!DNL Sales Insight Actions]의 개인 레코드에 대한 고유 ID.</td> 
-  </tr> 
-  <tr> 
-   <td><strong>[!UICONTROL Received By]</strong></td> 
-   <td>이메일을 보낸 사람의 이메일 주소.</td> 
+ <tbody>
+ <tr>
+   <td><strong>[!UICONTROL Details]</strong></td>
+   <td>바운스 오류 메시지 세부 사항.</td>
   </tr>
-  <tr> 
-   <td><strong>[!UICONTROL Sales Call Answered By]</strong></td> 
-   <td>통화에 응답한 사람의 이름입니다.</td> 
+  <tr>
+   <td><strong>[!UICONTROL Email]</strong></td>
+   <td>반송된 이메일 주소.</td>
   </tr>
-  <tr> 
-   <td><strong>[!UICONTROL Sales Call Duration]</strong></td> 
-   <td>호출 길이(초)입니다.</td> 
+  <tr>
+   <td><strong>[!UICONTROL Link]</strong></td>
+   <td>클릭한 URL.</td>
   </tr>
-  <tr> 
-   <td><strong>[!UICONTROL Sales Call Made By]</strong></td> 
-   <td>전화를 건 영업 직원의 이메일 주소.</td> 
+  <tr>
+   <td><strong>[!UICONTROL Marketo Sales Person ID]</strong></td>
+   <td>[!DNL Sales Insight Actions]의 개인 레코드에 대한 고유 ID.</td>
   </tr>
-  <tr> 
-   <td><strong>[!UICONTROL Sales Call Recording URL]</strong></td> 
-   <td>통화 녹화의 URL.</td> 
+  <tr>
+   <td><strong>[!UICONTROL Received By]</strong></td>
+   <td>이메일을 보낸 사람의 이메일 주소.</td>
   </tr>
-  <tr> 
-   <td><strong>[!UICONTROL Sales Call Status]</strong></td> 
-   <td>완료, 응답 없음, 취소됨, 실패가 포함된 호출의 최종 호출 상태를 저장합니다.</td> 
+  <tr>
+   <td><strong>[!UICONTROL Sales Call Answered By]</strong></td>
+   <td>통화에 응답한 사람의 이름입니다.</td>
   </tr>
-  <tr> 
-   <td><strong>[!UICONTROL Sales Call Subject]</strong></td> 
-   <td>전화 걸기에서 판매 사용자가 선택한 통화 결과입니다.</td> 
+  <tr>
+   <td><strong>[!UICONTROL Sales Call Duration]</strong></td>
+   <td>호출 길이(초)입니다.</td>
   </tr>
-  <tr> 
-   <td><strong>[!UICONTROL Sales Campaign ID]</strong></td> 
-   <td>[!DNL Sales Insight Actions]의 영업 캠페인 자산에 대한 고유 ID.</td> 
+  <tr>
+   <td><strong>[!UICONTROL Sales Call Made By]</strong></td>
+   <td>전화를 건 영업 직원의 이메일 주소.</td>
   </tr>
-  <tr> 
-   <td><strong>[!UICONTROL Sales Campaign Name]</strong></td> 
-   <td>판매 캠페인의 이름입니다.</td> 
+  <tr>
+   <td><strong>[!UICONTROL Sales Call Recording URL]</strong></td>
+   <td>통화 녹화의 URL.</td>
   </tr>
-  <tr> 
-   <td><strong>[!UICONTROL Sales Campaign URL]</strong></td> 
-   <td>[!DNL Sales Insight Actions] 판매 캠페인용 URL.</td> 
+  <tr>
+   <td><strong>[!UICONTROL Sales Call Status]</strong></td>
+   <td>완료, 응답 없음, 취소됨, 실패가 포함된 호출의 최종 호출 상태를 저장합니다.</td>
   </tr>
-  <tr> 
-   <td><strong>[!UICONTROL Sales Email Subject]</strong></td> 
-   <td>고유 ID가 뒤에 오는 이메일의 제목 줄(예: 내 제목 줄(SIA-12345678)</td> 
+  <tr>
+   <td><strong>[!UICONTROL Sales Call Subject]</strong></td>
+   <td>전화 걸기에서 판매 사용자가 선택한 통화 결과입니다.</td>
   </tr>
-  <tr> 
-   <td><strong>[!UICONTROL Sales Phone Number Called]</strong></td> 
-   <td>영업부에서 호출한 전화번호.</td> 
+  <tr>
+   <td><strong>[!UICONTROL Sales Campaign ID]</strong></td>
+   <td>[!DNL Sales Insight Actions]의 영업 캠페인 자산에 대한 고유 ID.</td>
   </tr>
-  <tr> 
-   <td><strong>[!UICONTROL Sales Template Name]</strong></td> 
-   <td>[!DNL Sales Insight Actions]의 전자 메일 템플릿 이름.</td> 
+  <tr>
+   <td><strong>[!UICONTROL Sales Campaign Name]</strong></td>
+   <td>판매 캠페인의 이름입니다.</td>
   </tr>
-  <tr> 
-   <td><strong>[!UICONTROL Sales Template URL]</strong></td> 
-   <td>[!DNL Sales Insight Actions] 이메일 템플릿 URL.</td> 
+  <tr>
+   <td><strong>[!UICONTROL Sales Campaign URL]</strong></td>
+   <td>[!DNL Sales Insight Actions] 판매 캠페인용 URL.</td>
   </tr>
-  <tr> 
+  <tr>
+   <td><strong>[!UICONTROL Sales Email Subject]</strong></td>
+   <td>고유 ID가 뒤에 오는 이메일의 제목 줄(예: 내 제목 줄(SIA-12345678)</td>
+  </tr>
+  <tr>
+   <td><strong>[!UICONTROL Sales Phone Number Called]</strong></td>
+   <td>영업부에서 호출한 전화번호.</td>
+  </tr>
+  <tr>
+   <td><strong>[!UICONTROL Sales Template Name]</strong></td>
+   <td>[!DNL Sales Insight Actions]의 전자 메일 템플릿 이름.</td>
+  </tr>
+  <tr>
+   <td><strong>[!UICONTROL Sales Template URL]</strong></td>
+   <td>[!DNL Sales Insight Actions] 이메일 템플릿 URL.</td>
+  </tr>
+  <tr>
    <td><strong>[!UICONTROL Sent By]</strong></td>
-   <td>이메일을 보낸 사람의 이메일 주소.</td> 
-  </tr> 
-  <tr> 
-   <td><strong>소스</strong></td> 
+   <td>이메일을 보낸 사람의 이메일 주소.</td>
+  </tr>
+  <tr>
+   <td><strong>소스</strong></td>
    <td>활동의 Source. 2021년 10월 릴리스 이전에 [!DNL Sales Insight Actions] 활동에 대해 "Tout"으로 설정됩니다. 2021년 10월 릴리스 이후 [!DNL Sales Insight Actions] 활동에 대한 "Sales App"이 됩니다.</td>
-  </tr> 
-  <tr> 
-   <td><strong>[!UICONTROL Template ID]</strong></td> 
+  </tr>
+  <tr>
+   <td><strong>[!UICONTROL Template ID]</strong></td>
    <td>소스가 Tout이면 템플릿 ID는 [!DNL Marketo Sales Insight Actions] 템플릿 ID가 됩니다. 여러 템플릿에 존재할 수 있는 제목 줄 대신 특정 템플릿을 타깃팅할 수 있습니다.
-</td> 
-  </tr> 
- </tbody> 
+</td>
+  </tr>
+ </tbody>
 </table>

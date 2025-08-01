@@ -3,7 +3,7 @@ description: 전환 스위치 - Marketo 문서 - 제품 설명서
 title: 전환 스위치
 exl-id: bb519314-bddf-4184-8585-22ed1fe85f9a
 feature: Modern UX
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
 workflow-type: tm+mt
 source-wordcount: '266'
 ht-degree: 0%
@@ -72,6 +72,3 @@ _모든_ 기능에 대해 활성화하려면 전환 스위치 옆에 있는 톱�
 * 랜딩 페이지 템플릿 목록
 * 코드 조각 세부 사항 보기
 * 코드 조각 목록 보기
-
-
-

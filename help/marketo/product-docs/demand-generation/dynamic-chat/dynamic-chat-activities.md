@@ -2,7 +2,7 @@
 description: '[!DNL Dynamic Chat]개 활동 - Marketo 문서 - 제품 설명서'
 title: '[!DNL Dynamic Chat]개 활동'
 exl-id: ef3bb1a3-6758-4798-92eb-fef28a5ff9c7
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
 workflow-type: tm+mt
 source-wordcount: '237'
 ht-degree: 0%
@@ -27,7 +27,7 @@ ht-degree: 0%
   </tr>
   <tr>
     <td style="width:25%"><b>대화 흐름/대화 참여</b></td>
-    <td>대화나 대화 흐름(다중 선택 옵션 클릭, 정보 제출, 회의 예약, 문서 열기 등)에서 웹 방문자가 처음으로 프롬프트를 클릭할 때 참여가 발생합니다. 방문자가 대화 상자 또는 대화 흐름을 열었지만 프롬프트를 클릭하지 않으면 참여가 <b>기록되지 않음</b>. 
+    <td>대화나 대화 흐름(다중 선택 옵션 클릭, 정보 제출, 회의 예약, 문서 열기 등)에서 웹 방문자가 처음으로 프롬프트를 클릭할 때 참여가 발생합니다. 방문자가 대화 상자 또는 대화 흐름을 열었지만 프롬프트를 클릭하지 않으면 참여가 <b>기록되지 않음</b>.
     <br>방문자당, 세션당 하나의 참여 이벤트.</td>
   </tr>
    <tr>

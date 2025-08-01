@@ -3,7 +3,7 @@ description: 클라이언트 Id 및 앱 등록에 대한 동의 - Marketo 문서
 title: 클라이언트 Id 및 앱 등록에 동의 부여
 exl-id: d0c851d7-24a1-4b17-9daa-f0ceed39d040
 feature: Microsoft Dynamics
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
 workflow-type: tm+mt
 source-wordcount: '255'
 ht-degree: 0%
@@ -30,25 +30,25 @@ ht-degree: 0%
    state value can be any ID (e.g.,12345)
    ```
 
-   <table> 
-    <colgroup> 
-     <col> 
-     <col> 
-    </colgroup> 
-    <tbody> 
-     <tr> 
-      <td><strong>client_id 값</strong></td> 
-      <td>는 앱 등록 프로세스에서 생성된 client_id여야 합니다.</td> 
-     </tr> 
-     <tr> 
-      <td><strong>redirect_uri 값</strong></td> 
-      <td>은(는) 앱 등록 &gt; 리디렉션 URI 시 입력한 값과 동일해야 합니다.</td> 
-     </tr> 
-     <tr> 
-      <td><strong>상태 값</strong></td> 
-      <td>은 모든 ID일 수 있습니다(예: 12345).</td> 
-     </tr> 
-    </tbody> 
+   <table>
+    <colgroup>
+     <col>
+     <col>
+    </colgroup>
+    <tbody>
+     <tr>
+      <td><strong>client_id 값</strong></td>
+      <td>는 앱 등록 프로세스에서 생성된 client_id여야 합니다.</td>
+     </tr>
+     <tr>
+      <td><strong>redirect_uri 값</strong></td>
+      <td>은(는) 앱 등록 &gt; 리디렉션 URI 시 입력한 값과 동일해야 합니다.</td>
+     </tr>
+     <tr>
+      <td><strong>상태 값</strong></td>
+      <td>은 모든 ID일 수 있습니다(예: 12345).</td>
+     </tr>
+    </tbody>
    </table>
 
    최종 URL은 다음과 같아야 합니다. `https://login.microsoftonline.com/common/oauth2/authorize?client_id=xxxxxx-xxxx-xxxx-xxxx-xxxxxxxx&response_type=code&redirect_uri=https://www.marketo.com&response_mode=query&state=12345`

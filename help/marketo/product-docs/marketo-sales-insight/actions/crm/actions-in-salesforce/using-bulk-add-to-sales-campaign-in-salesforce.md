@@ -1,17 +1,17 @@
 ---
-description: Salesforce에서 Sales Campaign에 일괄 추가 사용 - Marketo 문서 - 제품 설명서
-title: Salesforce에서 Sales Campaign에 일괄 추가 사용
+description: Salesforce - Marketo 문서 - 제품 설명서에서 Sales Campaign에 일괄 추가 사용
+title: Salesforce에서 판매 캠페인에 일괄 추가 사용
 exl-id: e518fe82-e37d-4edd-8a31-19268f6fd4b1
-source-git-commit: c16081143588ebc0793f5b6e2630b58348e27124
+source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
 workflow-type: tm+mt
 source-wordcount: '580'
 ht-degree: 0%
 
 ---
 
-# Salesforce에서 Sales Campaign에 일괄 추가 사용 {#using-bulk-add-to-sales-campaign-in-salesforce}
+# Salesforce에서 판매 캠페인에 일괄 추가 사용 {#using-bulk-add-to-sales-campaign-in-salesforce}
 
-Salesforce에서 Sales Campaign에 대량 을 추가하여 판매 작업을 사용하여 아웃바운드 커뮤니케이션을 확장하는 방법을 알아봅니다.
+Salesforce에서 판매 캠페인에 일괄 추가하여 판매 작업을 사용하여 아웃바운드 커뮤니케이션을 확장하는 방법을 알아봅니다.
 
 >[!NOTE]
 >
@@ -19,7 +19,7 @@ Salesforce에서 Sales Campaign에 대량 을 추가하여 판매 작업을 사�
 
 >[!PREREQUISITES]
 >
->Salesforce 인스턴스에 [최신 Sales Insight 패키지](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/upgrading/upgrading-your-msi-package.md){target="_blank"}를 설치하고 Salesforce의 연락처 및 리드 목록 보기에 [작업 단추](/help/marketo/product-docs/marketo-sales-insight/actions/crm/salesforce-package-configuration/add-action-buttons-to-salesforce-list-view.md){target="_blank"}를 구성했는지 확인하세요.
+>Salesforce 인스턴스에 [최신 Sales Insight 패키지](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/upgrading/upgrading-your-msi-package.md){target="_blank"}를 설치하고 Salesforce의 연락처 및 잠재 고객 목록 보기에 [작업 단추](/help/marketo/product-docs/marketo-sales-insight/actions/crm/salesforce-package-configuration/add-action-buttons-to-salesforce-list-view.md){target="_blank"}를 구성했는지 확인하십시오.
 
 ## Salesforce Lightning의 판매 캠페인에 일괄 추가 {#bulk-add-to-sales-campaign-in-salesforce-lightning}
 

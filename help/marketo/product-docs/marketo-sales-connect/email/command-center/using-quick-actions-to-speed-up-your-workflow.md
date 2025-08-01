@@ -4,7 +4,7 @@ description: 빠른 작업을 사용하여 워크플로우 속도 높이기 - Ma
 title: 빠른 작업을 사용하여 워크플로우 속도 높이기
 exl-id: 8cfc2fb4-d7b1-4a12-bf4e-37613345e65b
 feature: Marketo Sales Connect
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
 workflow-type: tm+mt
 source-wordcount: '315'
 ht-degree: 1%
@@ -28,59 +28,59 @@ ht-degree: 1%
 
 **보관됨**
 
-<table> 
- <colgroup> 
-  <col> 
-  <col> 
- </colgroup> 
- <tbody> 
-  <tr> 
-   <td>[!UICONTROL Unarchive]</td> 
-   <td>이메일을 게재된 폴더로 다시 이동하고 보기/클릭 추적을 다시 활성화합니다.</td> 
-  </tr> 
-  <tr> 
-   <td>[!UICONTROL Delete]</td> 
-   <td><p>이메일을 삭제합니다.<br><strong>참고:</strong> 캠페인의 일부로 전송된 전자 메일은 삭제할 수 없습니다.</p></td> 
-  </tr> 
- </tbody> 
+<table>
+ <colgroup>
+  <col>
+  <col>
+ </colgroup>
+ <tbody>
+  <tr>
+   <td>[!UICONTROL Unarchive]</td>
+   <td>이메일을 게재된 폴더로 다시 이동하고 보기/클릭 추적을 다시 활성화합니다.</td>
+  </tr>
+  <tr>
+   <td>[!UICONTROL Delete]</td>
+   <td><p>이메일을 삭제합니다.<br><strong>참고:</strong> 캠페인의 일부로 전송된 전자 메일은 삭제할 수 없습니다.</p></td>
+  </tr>
+ </tbody>
 </table>
 
 **초안 및 예약됨**
 
-<table> 
- <colgroup> 
-  <col> 
-  <col> 
- </colgroup> 
- <tbody> 
-  <tr> 
-   <td>[!UICONTROL Edit]</td> 
-   <td>편집할 작성 창에서 이메일을 엽니다.</td> 
-  </tr> 
-  <tr> 
-   <td>[!UICONTROL Delete]</td> 
-   <td><p>이메일을 삭제합니다.<br><strong>참고:</strong> 캠페인의 일부로 전송된 전자 메일은 삭제할 수 없습니다.</p></td> 
-  </tr> 
- </tbody> 
+<table>
+ <colgroup>
+  <col>
+  <col>
+ </colgroup>
+ <tbody>
+  <tr>
+   <td>[!UICONTROL Edit]</td>
+   <td>편집할 작성 창에서 이메일을 엽니다.</td>
+  </tr>
+  <tr>
+   <td>[!UICONTROL Delete]</td>
+   <td><p>이메일을 삭제합니다.<br><strong>참고:</strong> 캠페인의 일부로 전송된 전자 메일은 삭제할 수 없습니다.</p></td>
+  </tr>
+ </tbody>
 </table>
 
 **실패, 반송 및 스팸**
 
-<table> 
- <colgroup> 
-  <col> 
-  <col> 
- </colgroup> 
- <tbody> 
-  <tr> 
-   <td>[!UICONTROL Retry Send]</td> 
-   <td>은(는) 즉시 이메일 재전송을 시도합니다.</td> 
-  </tr> 
-  <tr> 
-   <td>[!UICONTROL Delete]</td> 
-   <td><p>이메일을 삭제합니다.<br><strong>참고:</strong> 캠페인의 일부로 전송된 전자 메일은 삭제할 수 없습니다.</p></td> 
-  </tr> 
- </tbody> 
+<table>
+ <colgroup>
+  <col>
+  <col>
+ </colgroup>
+ <tbody>
+  <tr>
+   <td>[!UICONTROL Retry Send]</td>
+   <td>은(는) 즉시 이메일 재전송을 시도합니다.</td>
+  </tr>
+  <tr>
+   <td>[!UICONTROL Delete]</td>
+   <td><p>이메일을 삭제합니다.<br><strong>참고:</strong> 캠페인의 일부로 전송된 전자 메일은 삭제할 수 없습니다.</p></td>
+  </tr>
+ </tbody>
 </table>
 
 **후속 작업**

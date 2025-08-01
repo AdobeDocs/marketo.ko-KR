@@ -4,7 +4,7 @@ description: ' [!DNL Outlook] 용 Marketo 이메일 추가 기능 업그레이�
 title: ' [!DNL Outlook]용 Marketo 이메일 추가 기능 업그레이드'
 exl-id: 079f1142-8062-448c-aa07-59ecd89a718f
 feature: Marketo Sales Insights
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
 workflow-type: tm+mt
 source-wordcount: '317'
 ht-degree: 11%
@@ -23,98 +23,98 @@ ht-degree: 11%
 
 사용 중인 Microsoft [!DNL Outlook] 버전에 적합한 설치 관리자를 다운로드하십시오.
 
-<table> 
- <colgroup> 
-  <col> 
-  <col> 
-  <col> 
-  <col> 
-  <col> 
- </colgroup> 
- <tbody> 
-  <tr> 
-   <th><br></th> 
-   <th colspan="2">단일 사용자 초대 설치</th> 
-   <th colspan="2">엔터프라이즈 키 설치</th> 
-  </tr> 
-  <tr> 
-   <td><strong><span class="dnl">Outlook</span> 버전</strong></td> 
-   <td><strong>비트</strong></td> 
-   <td><strong>비트</strong></td> 
-   <td><strong>비트</strong></td> 
-   <td><strong>비트</strong></td> 
-  </tr> 
-  <tr> 
-   <td><span class="dnl">Outlook</span> 2000</td> 
-   <td>지원되지 않음</td> 
-   <td>N/A</td> 
-   <td>지원되지 않음</td> 
-   <td>N/A</td> 
-  </tr> 
-  <tr> 
-   <td><span class="dnl">Outlook 2003</span></td> 
-   <td><a href="https://munchkin.marketo.net/MarketoAddInSetup32.msi" rel="nofollow">다운로드</a></td> 
-   <td>N/A</td> 
-   <td>지원되지 않음</td> 
-   <td>N/A</td> 
-  </tr> 
-  <tr> 
-   <td><span class="dnl">Outlook</span> 2007</td> 
-   <td><a href="https://munchkin.marketo.net/MarketoAddInSetup32.msi" rel="nofollow">다운로드</a></td> 
-   <td>N/A</td> 
-   <td>지원되지 않음</td> 
-   <td>N/A</td> 
-  </tr> 
-  <tr> 
-   <td><span class="dnl">Outlook</span> 2010</td> 
-   <td><a href="https://munchkin.marketo.net/MarketoAddInSetup32.msi" rel="nofollow">다운로드</a></td> 
-   <td><a href="https://munchkin.marketo.net/MarketoAddInSetup64.msi" rel="nofollow">다운로드</a></td> 
-   <td><a href="https://munchkin.marketo.net/MarketoAddInSetup32.msi" rel="nofollow">다운로드</a></td> 
-   <td><a href="https://munchkin.marketo.net/MarketoAddInSetup64.msi" rel="nofollow">다운로드</a></td> 
-  </tr> 
-  <tr> 
-   <td><span class="dnl">Outlook</span> 2013</td> 
-   <td><a href="https://munchkin.marketo.net/MarketoAddInSetup32.msi" rel="nofollow">다운로드</a></td> 
-   <td><a href="https://munchkin.marketo.net/MarketoAddInSetup64.msi" rel="nofollow">다운로드</a></td> 
-   <td><a href="https://munchkin.marketo.net/MarketoAddInSetup32.msi" rel="nofollow">다운로드</a></td> 
-   <td><a href="https://munchkin.marketo.net/MarketoAddInSetup64.msi" rel="nofollow">다운로드</a></td> 
-  </tr> 
-  <tr> 
-   <td><span class="dnl">Outlook</span> 2016</td> 
-   <td><a href="https://munchkin.marketo.net/MarketoAddInSetup32.msi" rel="nofollow">다운로드</a></td> 
-   <td><a href="https://munchkin.marketo.net/MarketoAddInSetup64.msi" rel="nofollow">다운로드</a></td> 
-   <td><a href="https://munchkin.marketo.net/MarketoAddInSetup32.msi" rel="nofollow">다운로드</a></td> 
-   <td><a href="https://munchkin.marketo.net/MarketoAddInSetup64.msi" rel="nofollow">다운로드</a></td> 
-  </tr> 
-  <tr> 
-   <td colspan="1">2019년 <span class="dnl">Outlook</span></td> 
-   <td colspan="1"><a href="https://munchkin.marketo.net/MarketoAddInSetup32.msi" rel="nofollow">다운로드</a></td> 
-   <td colspan="1"><a href="https://munchkin.marketo.net/MarketoAddInSetup64.msi" rel="nofollow">다운로드</a></td> 
-   <td colspan="1"><a href="https://munchkin.marketo.net/MarketoAddInSetup32.msi" rel="nofollow">다운로드</a></td> 
-   <td colspan="1"><a href="https://munchkin.marketo.net/MarketoAddInSetup64.msi" rel="nofollow">다운로드</a></td> 
-  </tr> 
-  <tr> 
-   <td>Mac용 <span class="dnl">Outlook</span></td> 
-   <td>지원되지 않음</td> 
-   <td>지원되지 않음</td> 
-   <td>지원되지 않음</td> 
-   <td>지원되지 않음</td> 
-  </tr> 
-  <tr> 
-   <td colspan="1"><span class="dnl">Outlook</span> 웹 앱</td> 
-   <td colspan="1">지원되지 않음</td> 
-   <td colspan="1">지원되지 않음</td> 
-   <td colspan="1">지원되지 않음</td> 
-   <td colspan="1">지원되지 않음</td> 
-  </tr> 
-  <tr> 
-   <td colspan="1"><span class="dnl">사무실</span> 365*</td> 
-   <td colspan="1"><a href="https://munchkin.marketo.net/MarketoAddInSetup32.msi" rel="nofollow">다운로드</a></td> 
-   <td colspan="1"><a href="https://munchkin.marketo.net/MarketoAddInSetup64.msi" rel="nofollow">다운로드</a></td> 
-   <td colspan="1"><a href="https://munchkin.marketo.net/MarketoAddInSetup32.msi" rel="nofollow">다운로드</a></td> 
-   <td colspan="1"><a href="https://munchkin.marketo.net/MarketoAddInSetup64.msi" rel="nofollow">다운로드</a></td> 
-  </tr> 
- </tbody> 
+<table>
+ <colgroup>
+  <col>
+  <col>
+  <col>
+  <col>
+  <col>
+ </colgroup>
+ <tbody>
+  <tr>
+   <th><br></th>
+   <th colspan="2">단일 사용자 초대 설치</th>
+   <th colspan="2">엔터프라이즈 키 설치</th>
+  </tr>
+  <tr>
+   <td><strong><span class="dnl">Outlook</span> 버전</strong></td>
+   <td><strong>비트</strong></td>
+   <td><strong>비트</strong></td>
+   <td><strong>비트</strong></td>
+   <td><strong>비트</strong></td>
+  </tr>
+  <tr>
+   <td><span class="dnl">Outlook</span> 2000</td>
+   <td>지원되지 않음</td>
+   <td>N/A</td>
+   <td>지원되지 않음</td>
+   <td>N/A</td>
+  </tr>
+  <tr>
+   <td><span class="dnl">Outlook 2003</span></td>
+   <td><a href="https://munchkin.marketo.net/MarketoAddInSetup32.msi" rel="nofollow">다운로드</a></td>
+   <td>N/A</td>
+   <td>지원되지 않음</td>
+   <td>N/A</td>
+  </tr>
+  <tr>
+   <td><span class="dnl">Outlook</span> 2007</td>
+   <td><a href="https://munchkin.marketo.net/MarketoAddInSetup32.msi" rel="nofollow">다운로드</a></td>
+   <td>N/A</td>
+   <td>지원되지 않음</td>
+   <td>N/A</td>
+  </tr>
+  <tr>
+   <td><span class="dnl">Outlook</span> 2010</td>
+   <td><a href="https://munchkin.marketo.net/MarketoAddInSetup32.msi" rel="nofollow">다운로드</a></td>
+   <td><a href="https://munchkin.marketo.net/MarketoAddInSetup64.msi" rel="nofollow">다운로드</a></td>
+   <td><a href="https://munchkin.marketo.net/MarketoAddInSetup32.msi" rel="nofollow">다운로드</a></td>
+   <td><a href="https://munchkin.marketo.net/MarketoAddInSetup64.msi" rel="nofollow">다운로드</a></td>
+  </tr>
+  <tr>
+   <td><span class="dnl">Outlook</span> 2013</td>
+   <td><a href="https://munchkin.marketo.net/MarketoAddInSetup32.msi" rel="nofollow">다운로드</a></td>
+   <td><a href="https://munchkin.marketo.net/MarketoAddInSetup64.msi" rel="nofollow">다운로드</a></td>
+   <td><a href="https://munchkin.marketo.net/MarketoAddInSetup32.msi" rel="nofollow">다운로드</a></td>
+   <td><a href="https://munchkin.marketo.net/MarketoAddInSetup64.msi" rel="nofollow">다운로드</a></td>
+  </tr>
+  <tr>
+   <td><span class="dnl">Outlook</span> 2016</td>
+   <td><a href="https://munchkin.marketo.net/MarketoAddInSetup32.msi" rel="nofollow">다운로드</a></td>
+   <td><a href="https://munchkin.marketo.net/MarketoAddInSetup64.msi" rel="nofollow">다운로드</a></td>
+   <td><a href="https://munchkin.marketo.net/MarketoAddInSetup32.msi" rel="nofollow">다운로드</a></td>
+   <td><a href="https://munchkin.marketo.net/MarketoAddInSetup64.msi" rel="nofollow">다운로드</a></td>
+  </tr>
+  <tr>
+   <td colspan="1">2019년 <span class="dnl">Outlook</span></td>
+   <td colspan="1"><a href="https://munchkin.marketo.net/MarketoAddInSetup32.msi" rel="nofollow">다운로드</a></td>
+   <td colspan="1"><a href="https://munchkin.marketo.net/MarketoAddInSetup64.msi" rel="nofollow">다운로드</a></td>
+   <td colspan="1"><a href="https://munchkin.marketo.net/MarketoAddInSetup32.msi" rel="nofollow">다운로드</a></td>
+   <td colspan="1"><a href="https://munchkin.marketo.net/MarketoAddInSetup64.msi" rel="nofollow">다운로드</a></td>
+  </tr>
+  <tr>
+   <td>Mac용 <span class="dnl">Outlook</span></td>
+   <td>지원되지 않음</td>
+   <td>지원되지 않음</td>
+   <td>지원되지 않음</td>
+   <td>지원되지 않음</td>
+  </tr>
+  <tr>
+   <td colspan="1"><span class="dnl">Outlook</span> 웹 앱</td>
+   <td colspan="1">지원되지 않음</td>
+   <td colspan="1">지원되지 않음</td>
+   <td colspan="1">지원되지 않음</td>
+   <td colspan="1">지원되지 않음</td>
+  </tr>
+  <tr>
+   <td colspan="1"><span class="dnl">사무실</span> 365*</td>
+   <td colspan="1"><a href="https://munchkin.marketo.net/MarketoAddInSetup32.msi" rel="nofollow">다운로드</a></td>
+   <td colspan="1"><a href="https://munchkin.marketo.net/MarketoAddInSetup64.msi" rel="nofollow">다운로드</a></td>
+   <td colspan="1"><a href="https://munchkin.marketo.net/MarketoAddInSetup32.msi" rel="nofollow">다운로드</a></td>
+   <td colspan="1"><a href="https://munchkin.marketo.net/MarketoAddInSetup64.msi" rel="nofollow">다운로드</a></td>
+  </tr>
+ </tbody>
 </table>
 
 &#42;Office 365 버전: Windows 클라이언트만(Windows 10, Windows 11, Enterprise 또는 Pro의 경우).

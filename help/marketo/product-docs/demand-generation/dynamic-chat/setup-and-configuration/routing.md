@@ -3,7 +3,7 @@ description: 라우팅 - Marketo 문서 - 제품 설명서
 title: 라우팅
 feature: Dynamic Chat
 exl-id: e20193b9-55c1-40f2-9e42-5b5dc9b88144
-source-git-commit: 19f7a38a6a87bc66084e7e45f5bf49cd0d29c3cd
+source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
 workflow-type: tm+mt
 source-wordcount: '338'
 ht-degree: 0%
@@ -86,11 +86,11 @@ Dynamic Chat에서 예약된 회의는 두 가지 방법으로 라우팅될 수 
 
    ![](assets/routing-12.png)
 
-1. _구성_ 옆에 있는 편집 아이콘(![편집 아이콘](assets/icon-routing-edit.png))을 클릭합니다.
+1. ![구성](assets/icon-routing-edit.png) 옆에 있는 편집 아이콘(_편집 아이콘_)을 클릭합니다.
 
    ![](assets/routing-13.png)
 
-1. _계정 라우팅 보기_ 옆에 있는 **+** 기호를 클릭합니다.
+1. **계정 라우팅 보기** 옆에 있는 _+_ 기호를 클릭합니다.
 
    ![](assets/routing-14.png){width="600" zoomable="yes"}
 

@@ -3,9 +3,9 @@ description: 이메일 보트 활동 필터링 - Marketo 문서 - 제품 설명�
 title: 이메일 보트 활동 필터링
 exl-id: 70c97159-72bf-46e5-b29b-247615d0fa80
 feature: Email Setup
-source-git-commit: f3d0b2be794ca4bb6c38c942cef1fa72fe091d7c
+source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
 workflow-type: tm+mt
-source-wordcount: '534'
+source-wordcount: '456'
 ht-degree: 0%
 
 ---
@@ -31,23 +31,23 @@ ht-degree: 0%
 
 ## 필터 유형 선택 {#select-filter-type}
 
-1. **[!UICONTROL 관리자]**&#x200B;를 클릭합니다.
+1. **[!UICONTROL Admin]**&#x200B;을(를) 클릭합니다.
 
    ![](assets/filtering-email-bot-activity-1.png)
 
-1. **[!UICONTROL 전자 메일]**&#x200B;을 클릭하세요.
+1. **[!UICONTROL Email]**&#x200B;을(를) 클릭합니다.
 
    ![](assets/filtering-email-bot-activity-2.png)
 
-1. **[!UICONTROL 봇 활동]** 탭을 클릭합니다.
+1. **[!UICONTROL Bot Activity]** 탭을 클릭합니다.
 
    ![](assets/filtering-email-bot-activity-3.png)
 
-1. 선택할 수 있는 두 가지 슬라이더가 있습니다. 하나 또는 둘 다 활성화할 수 있습니다. **[!UICONTROL IAB 목록과 일치]**&#x200B;을 사용하도록 설정하는 경우 [!UICONTROL 보트 활동을 기록] _할지_ [!UICONTROL 보트 활동을 필터링]할지 여부를 선택합니다.
+1. 선택할 수 있는 두 가지 슬라이더가 있습니다. 하나 또는 둘 다 활성화할 수 있습니다. **[!UICONTROL Match with IAB List]**&#x200B;을(를) 사용하도록 설정하는 경우 [!UICONTROL log bot activity] _을(를) 사용할지_ [!UICONTROL filter bot activity]을(를) 사용할지 선택하십시오.
 
    ![](assets/filtering-email-bot-activity-4.png)
 
-1. **[!UICONTROL 근접 패턴과 일치]**&#x200B;를 사용하도록 설정하는 경우 [!UICONTROL 보트 활동을 기록] _할지_ [!UICONTROL 보트 활동을 필터링]할지 여부를 선택합니다. **활동 간 기간**&#x200B;에 대한 시간(초)을 설정할 수도 있습니다(기본값은 0, 최대값은 3).
+1. **[!UICONTROL Match with Proximity Pattern]**&#x200B;을(를) 사용하도록 설정하는 경우 [!UICONTROL log bot activity] _을(를) 사용할지_ [!UICONTROL filter bot activity]을(를) 사용할지 선택하십시오. **활동 간 기간**&#x200B;에 대한 시간(초)을 설정할 수도 있습니다(기본값은 0, 최대값은 3).
 
    ![](assets/filtering-email-bot-activity-5.png)
 
@@ -57,7 +57,7 @@ ht-degree: 0%
 
 >[!IMPORTANT]
 >
->* [!UICONTROL 보트 활동 필터링]을 선택하면 False 활동이 삭제되어 전자 메일이 열리고 클릭이 감소할 수 있습니다.
+>* [!UICONTROL Filter Bot Activity]을(를) 선택하면 잘못된 활동이 삭제되면서 전자 메일이 열리고 클릭이 줄어들 수 있습니다.
 
 **선택적 단계**: 두 기능을 비활성화하려면 각 슬라이더를 선택 취소하면 됩니다. 그렇게 하면 데이터가 재설정되지 않습니다.
 

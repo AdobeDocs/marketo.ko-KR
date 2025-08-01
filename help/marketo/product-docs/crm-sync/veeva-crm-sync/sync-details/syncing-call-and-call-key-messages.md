@@ -3,7 +3,7 @@ description: 통화 및 통화 키 메시지 동기화 - Marketo 문서 - 제품
 title: 통화 및 통화 키 메시지 동기화
 exl-id: a8df5b77-e594-4e06-8194-1758a3582cda
 feature: Veeva CRM
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
 workflow-type: tm+mt
 source-wordcount: '477'
 ht-degree: 3%
@@ -87,10 +87,10 @@ ht-degree: 3%
     </tr>
     <tr>
       <td>콜</td>
-      <td>일자</td>
+      <td>Date</td>
       <td>처음 저장되거나 제출된 호출 날짜. 이 필드는 date 또는 datetime 필드가 제공되지 않은 경우 트리거를 통해 현재 날짜로 설정됩니다.</td>
       <td>Call_Date_vod__c</td>
-      <td>일자</td>
+      <td>Date</td>
     </tr>
     <tr>
       <td>콜</td>

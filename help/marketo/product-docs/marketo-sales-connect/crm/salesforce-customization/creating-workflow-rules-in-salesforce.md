@@ -4,7 +4,7 @@ description: Salesforce - Marketo 문서 - 제품 설명서에서 워크플로�
 title: Salesforce에서 워크플로 규칙 만들기
 exl-id: 0cfce178-453b-4949-96aa-c327278a267d
 feature: Marketo Sales Connect
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
 workflow-type: tm+mt
 source-wordcount: '393'
 ht-degree: 1%
@@ -25,29 +25,29 @@ Marketo Sales Insight(MSI) 및 Marketo Sales Connect(MSC)를 동시에 사용하
 
 아래는 워크플로우 규칙의 권장 이름과 각 규칙에 대한 설명입니다. 이는 [!UICONTROL Contact] 및 [!UICONTROL Lead] 개체에 적용됩니다.
 
-<table> 
- <colgroup> 
-  <col> 
-  <col> 
- </colgroup> 
- <tbody> 
-  <tr> 
-   <td>관심 순간 설명 필드 업데이트</td> 
-   <td><p>복사 위치: 마지막 Marketo 참여 설명<br>복사 위치: 마지막 관심 순간 설명</p></td> 
-  </tr> 
-  <tr> 
-   <td>관심 순간 유형 필드 업데이트</td> 
-   <td><p>복사 위치: 마지막 Marketo 참여 유형<br>복사 위치: 마지막 관심 순간 유형</p></td> 
-  </tr> 
-  <tr> 
-   <td>즐거운 순간 Source 필드 업데이트</td> 
-   <td><p>복사 위치: 마지막 Marketo 참여 Source<br>복사 위치: 마지막 관심 있는 순간 Source</p></td> 
-  </tr> 
-  <tr> 
-   <td>관심 순간 날짜 필드 업데이트</td> 
-   <td><p>복사 위치: 마지막 Marketo 참여 날짜<br>복사 위치: 마지막 관심 순간 날짜</p></td> 
-  </tr> 
- </tbody> 
+<table>
+ <colgroup>
+  <col>
+  <col>
+ </colgroup>
+ <tbody>
+  <tr>
+   <td>관심 순간 설명 필드 업데이트</td>
+   <td><p>복사 위치: 마지막 Marketo 참여 설명<br>복사 위치: 마지막 관심 순간 설명</p></td>
+  </tr>
+  <tr>
+   <td>관심 순간 유형 필드 업데이트</td>
+   <td><p>복사 위치: 마지막 Marketo 참여 유형<br>복사 위치: 마지막 관심 순간 유형</p></td>
+  </tr>
+  <tr>
+   <td>즐거운 순간 Source 필드 업데이트</td>
+   <td><p>복사 위치: 마지막 Marketo 참여 Source<br>복사 위치: 마지막 관심 있는 순간 Source</p></td>
+  </tr>
+  <tr>
+   <td>관심 순간 날짜 필드 업데이트</td>
+   <td><p>복사 위치: 마지막 Marketo 참여 날짜<br>복사 위치: 마지막 관심 순간 날짜</p></td>
+  </tr>
+ </tbody>
 </table>
 
 ## 지침 {#instructions}

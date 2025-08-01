@@ -3,10 +3,10 @@ description: Google에 목록 보내기 - Marketo 문서 - 제품 설명서
 title: Google에 목록 보내기
 feature: Integrations
 exl-id: d28d828c-3d83-44ca-85de-1207c55ec911
-source-git-commit: be1ca409642fd5d81d341fbadaff38c268fe198f
+source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
 workflow-type: tm+mt
 source-wordcount: '208'
-ht-degree: 0%
+ht-degree: 1%
 
 ---
 
@@ -40,7 +40,7 @@ Google Customer Match를 사용하는 고객의 경우 아래 단계에 따라 M
    >
    >* 하단의 확인란을 선택하면 광고 및 광고 개인화를 위해 Google 광고에 전송된 사용자 데이터에 대한 동의 상태가 승인됨으로 전송됩니다. 선택하지 않으면 동의 상태가 지정되지 않음으로 전송됩니다. EEA(유럽 경제 지역)의 사용자에 대한 데이터를 업로드하려는 사용자를 위해 Google은 [FAQ](https://support.google.com/google-ads/answer/14310715){target="_blank"} 목록과 [EU 사용자 동의 정책](https://www.google.com/about/company/user-consent-policy/){target="_blank"}을 요약한 추가 세부 정보를 준비했습니다.
 
-1. **업데이트**&#x200B;를 클릭합니다.
+1. **업데이트를 클릭합니다**.
 
    ![](assets/send-a-list-to-google-6.png)
 

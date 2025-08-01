@@ -4,7 +4,7 @@ description: 3단계 중 2단계 - Marketo용 Salesforce 사용자 만들기(Ent
 title: 2/3단계 - Marketo용 Salesforce 사용자 만들기(Enterprise/Unlimited)
 exl-id: 871f335c-7b1e-47e1-8320-a18fbf21a970
 feature: Salesforce Integration
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
 workflow-type: tm+mt
 source-wordcount: '352'
 ht-degree: 2%
@@ -121,25 +121,25 @@ ht-degree: 2%
 
 1. 필요하지 않은 모든 필드 비활성화가 끝나면 다음 개체 필드에 대해 **[!UICONTROL Read Access and Edit Access]**&#x200B;을(를) 확인해야 합니다. 완료되면 **[!UICONTROL Save]**&#x200B;을(를) 클릭합니다.
 
-<table> 
- <tbody> 
-  <tr> 
-   <th>오브젝트</th> 
-   <th>필드</th> 
-  </tr> 
-  <tr> 
-   <td>계정</td> 
-   <td>필드 입력</td> 
-  </tr> 
-  <tr> 
-   <td>이벤트</td> 
-   <td>모든 필드</td> 
-  </tr> 
-  <tr> 
-   <td>작업</td> 
-   <td>모든 필드</td> 
-  </tr> 
- </tbody> 
+<table>
+ <tbody>
+  <tr>
+   <th>오브젝트</th>
+   <th>필드</th>
+  </tr>
+  <tr>
+   <td>계정</td>
+   <td>필드 입력</td>
+  </tr>
+  <tr>
+   <td>이벤트</td>
+   <td>모든 필드</td>
+  </tr>
+  <tr>
+   <td>작업</td>
+   <td>모든 필드</td>
+  </tr>
+ </tbody>
 </table>
 
 ![](assets/sfdc-check-the-boxes.png)

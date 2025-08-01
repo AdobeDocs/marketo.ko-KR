@@ -3,7 +3,7 @@ description: Adobe Identity Management 개요 - Marketo 문서 - 제품 설명�
 title: Adobe Identity Management 개요
 exl-id: 18ddeebc-bc89-411c-9d2c-23df6841cb3a
 feature: Marketo with Adobe Identity
-source-git-commit: 8d4a542687119e7e4044b26eeafcc71315609f19
+source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
 workflow-type: tm+mt
 source-wordcount: '445'
 ht-degree: 0%
@@ -16,16 +16,16 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->Marketo 지원에서는 Adobe IMS 마이그레이션과 관련된 업데이트를 제공할 수 없습니다. Adobe 계정 팀은 앞으로 몇 달 안에 예상 타임라인을 확인할 것입니다. 자세한 내용은 [이 문서](/help/marketo/product-docs/administration/marketo-with-adobe-identity/subscription-and-user-migration/understanding-marketo-subscription-and-user-migration-to-the-adobe-admin-console.md){target="_blank"} 및 [자주 묻는 질문](/help/marketo/product-docs/administration/marketo-with-adobe-identity/faq.md){target="_blank"}을 참조하세요.
+>Marketo 지원에서는 Adobe IMS 마이그레이션과 관련된 업데이트를 제공할 수 없습니다. Adobe 계정 팀은 앞으로 몇 달 이내에 예상 타임라인에 대해 연락할 것입니다. 자세한 내용은 [이 문서](/help/marketo/product-docs/administration/marketo-with-adobe-identity/subscription-and-user-migration/understanding-marketo-subscription-and-user-migration-to-the-adobe-admin-console.md){target="_blank"} 및 [자주 묻는 질문](/help/marketo/product-docs/administration/marketo-with-adobe-identity/faq.md){target="_blank"}을 참조하세요.
 
-Adobe ID에 온보딩된 구독의 경우 사용자 관리에 Adobe Admin Console이 사용됩니다. 단일 사인온과 같은 ID 관련 개념도 Admin Console에서 관리됩니다.
+Adobe ID에 온보딩된 구독의 경우 사용자 관리에 Adobe Admin Console이 사용됩니다. 단일 사인온과 같은 ID 관련 개념은 Admin Console에서도 관리됩니다.
 
 * [Adobe Admin Console](https://helpx.adobe.com/kr/enterprise/using/admin-console.html){target="_blank"}에 대한 자세한 정보를 찾으십시오.
-* [Marketo 구독과 관련된 Adobe 조직 설정](https://helpx.adobe.com/kr/enterprise/using/set-up-identity.html){target="_blank"}에 대한 자세한 내용을 확인하세요.
+* [Marketo 구독과 관련된 Adobe 조직 설정](https://helpx.adobe.com/kr/enterprise/using/set-up-identity.html){target="_blank"}에 대해 자세히 알아보세요.
 
 >[!NOTE]
 >
->Adobe 조직에서 SSO를 구현하지 않고 단일 사인온을 구현하고 구독이 Adobe ID로 온보딩되었다면 [Marketo 지원](https://nation.marketo.com/){target="_blank"}에 티켓을 제출하고 &quot;Marketo on Admin Console, SSO 구현&quot;이라는 주제를 지정하십시오.
+>SSO를 구현하지 않고 Adobe 조직에서 SSO를 구현하지 않고 구독이 Adobe ID로 온보딩되었다면 [Marketo 지원](https://nation.marketo.com/){target="_blank"}에 티켓을 제출하고 &quot;SSO를 구현하는 Admin Console의 Marketo&quot;로 주제를 지정하십시오.
 
 ## 프로필 수준 {#profile-levels}
 

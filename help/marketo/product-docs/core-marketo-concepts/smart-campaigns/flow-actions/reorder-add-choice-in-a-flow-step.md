@@ -4,9 +4,9 @@ description: 흐름 단계에서 추가 선택 항목 순서 바꾸기 - Marketo
 title: 흐름 단계에서 선택 항목 추가 순서 바꾸기
 exl-id: e76af93a-24df-48ba-b5f2-ea6e697e2f3a
 feature: Smart Campaigns
-source-git-commit: 12f2399859c784095cc2c1df772c66c649106ba3
+source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
 workflow-type: tm+mt
-source-wordcount: '177'
+source-wordcount: '165'
 ht-degree: 0%
 
 ---
@@ -19,19 +19,19 @@ ht-degree: 0%
 
    ![](assets/reorder-add-choice-in-a-flow-step-1.png)
 
-1. 이 예제에서는 Choice 3을 Choice 2 위로 이동합니다. **[!UICONTROL 선택 항목 3]**&#x200B;을 클릭한 다음 **[!UICONTROL 위로 이동]**&#x200B;을 클릭합니다.
+1. 이 예제에서는 Choice 3을 Choice 2 위로 이동합니다. **[!UICONTROL Choice 3]**&#x200B;을(를) 클릭한 다음 **[!UICONTROL Move Up]**&#x200B;을(를) 클릭합니다.
 
    ![](assets/reorder-add-choice-in-a-flow-step-2.png)
 
    >[!NOTE]
    >
-   >순서를 변경할 때 **[!UICONTROL 위로 이동]**, **[!UICONTROL 아래로 이동]** 또는 **[!UICONTROL 위로 이동]**&#x200B;할 수 있습니다.
+   >순서를 변경할 때 **[!UICONTROL Move Up]**, **[!UICONTROL Move Down]** 또는 **[!UICONTROL Move To]**&#x200B;할 수 있습니다.
 
    잘했어! 이제 선택 항목을 한 단계씩 위/아래로 이동하는 방법을 알 수 있습니다.
 
    ![](assets/reorder-add-choice-in-a-flow-step-3.png)
 
-**선택적 단계**: 선택 항목이 많으며 한 수준을 위 또는 아래로 여러 수준으로 이동해야 하는 경우 이 대체 방법을 사용하여 시간을 절약할 수 있습니다. 이동할 선택 항목을 클릭한 다음 **[!UICONTROL 이동]**&#x200B;에서 선택 항목을 이동할 위치로 슬라이더를 끕니다.
+**선택적 단계**: 선택 항목이 많으며 한 수준을 위 또는 아래로 여러 수준으로 이동해야 하는 경우 이 대체 방법을 사용하여 시간을 절약할 수 있습니다. 이동할 선택 항목을 클릭한 다음 **[!UICONTROL Move To]**&#x200B;에서 선택 항목을 이동할 위치로 슬라이더를 끕니다.
 
 ![](assets/reorder-add-choice-in-a-flow-step-4.png)
 

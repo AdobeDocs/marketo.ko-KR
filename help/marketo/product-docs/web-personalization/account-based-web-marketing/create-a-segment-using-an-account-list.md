@@ -4,7 +4,7 @@ description: 계정 목록을 사용하여 세그먼트 만들기 - Marketo 문�
 title: 계정 목록을 사용하여 세그먼트 만들기
 exl-id: 73179ed9-2f9b-46df-abfa-6e8ebb645cc5
 feature: Web Personalization
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
 workflow-type: tm+mt
 source-wordcount: '148'
 ht-degree: 1%

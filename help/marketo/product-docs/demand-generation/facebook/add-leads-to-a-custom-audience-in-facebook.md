@@ -4,7 +4,7 @@ description: Facebook - Marketo 문서 - 제품 설명서에서 사용자 정의
 title: Facebook에서 사용자 정의 대상자에 리드 추가
 exl-id: cb8a81bf-2645-4500-8c54-03b8da09f245
 feature: Integrations
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
 workflow-type: tm+mt
 source-wordcount: '144'
 ht-degree: 0%
@@ -39,7 +39,7 @@ ht-degree: 0%
 
    >[!NOTE]
    >
-   >**[!UICONTROL Add leads to audience]**: 사용자 지정 하위 형식의 대상만 [!DNL Facebook]개 사용할 수 있습니다.\
+   >**[!UICONTROL Add leads to audience]**: 사용자 지정 하위 형식의 대상만 [!DNL Facebook]개 사용할 수 있습니다.
    >**[!UICONTROL Remove leads from audience]**: [!DNL Facebook] 대상에서 정적 또는 스마트 목록의 리드를 제거합니다.
 
 1. 완료되면 상태가 업데이트됩니다.

@@ -3,9 +3,9 @@ description: 릴리스 노트 - 2022년 3월 - Marketo 문서 - 제품 설명서
 title: 릴리스 정보 - 2022년 3월
 exl-id: 91826d56-a38e-44af-b798-17bfc016c311
 feature: Release Information
-source-git-commit: ecd225af3ecfd7cb9159faf5a9d384d47ee6312c
+source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
 workflow-type: tm+mt
-source-wordcount: '748'
+source-wordcount: '747'
 ht-degree: 0%
 
 ---
@@ -24,7 +24,7 @@ ht-degree: 0%
 
 ## 크로스 채널 오케스트레이션 {#cross-channel-orchestration}
 
-* **[!DNL Dynamic Chat]**: 사전 예방적이고 흥미로운 1:1 맞춤형 대화를 통해 잠재 고객과 계정을 모두 타겟팅하여 웹 사이트의 모든 기회를 극대화합니다. [Dynamic Chat](/help/marketo/product-docs/demand-generation/dynamic-chat/dynamic-chat-overview.md){target="_blank"}을(를) 통해 Marketo Engage 사용자는 채팅을 B2B 마케팅 및 판매 사용 사례에 대한 통합 크로스 채널 경험의 핵심 부분으로 활용할 수 있습니다. 기능에는 채팅 내에서 직접 회의를 예약하는 기능, 리드 라우팅, 스타터 템플릿, 끌어다 놓기 대화 만들기 등이 포함됩니다. Dynamic Chat은 모든 Marketo Engage 패키지에 포함되어 있으며 올해 모든 Marketo Engage 사용자에게 배포됩니다.
+* **[!DNL Dynamic Chat]**: 사전 예방적이고 흥미로운 1:1 맞춤형 대화를 통해 잠재 고객과 계정을 모두 타겟팅하여 웹 사이트의 모든 기회를 극대화할 수 있습니다. [Dynamic Chat](/help/marketo/product-docs/demand-generation/dynamic-chat/dynamic-chat-overview.md){target="_blank"}을(를) 통해 Marketo Engage 사용자는 채팅을 B2B 마케팅 및 판매 사용 사례에 대한 통합 크로스 채널 경험의 핵심 부분으로 활용할 수 있습니다. 기능에는 채팅 내에서 직접 회의를 예약하는 기능, 리드 라우팅, 스타터 템플릿, 끌어다 놓기 대화 만들기 등이 포함됩니다. Dynamic Chat은 모든 Marketo Engage 패키지에 포함되어 있으며 올해 모든 Marketo Engage 사용자에게 배포됩니다.
 
 * **이메일 보트 활동 필터링 개선 사항**: 이전에 릴리스된 [이메일 보트 활동 필터링](/help/marketo/product-docs/administration/email-setup/filtering-email-bot-activity.md){target="_blank"} 기능의 개선 사항으로 이제 봇으로 식별된 로깅 활동을 옵트인할 수 있습니다. 그런 다음 봇이 수행하는 것으로 식별된 활동을 기반으로 작업을 필터링하고 트리거할 수 있습니다.
 

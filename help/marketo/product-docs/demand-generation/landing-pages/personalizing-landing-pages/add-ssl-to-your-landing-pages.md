@@ -4,7 +4,7 @@ description: 랜딩 페이지에 SSL 추가 - Marketo 문서 - 제품 설명서
 title: 랜딩 페이지에 SSL 추가
 exl-id: 8271d9fe-0575-430c-97c7-407e4b78cf1d
 feature: Landing Pages
-source-git-commit: 0157bc64444151a43bf464158d508e84d75b3427
+source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
 workflow-type: tm+mt
 source-wordcount: '714'
 ht-degree: 0%
@@ -45,7 +45,7 @@ Marketo Engage은 기본적으로 비보안 HTTP 프로토콜에 대해 &quot;�
 
 기본 도메인에 대해 SSL을 활성화하려면 아래 단계를 따르십시오.
 
-1. **관리자** 섹션에서 **랜딩 페이지**&#x200B;를 선택하세요. _설정_ 옆에 있는 주황색 **편집** 단추를 클릭합니다.
+1. **관리자** 섹션에서 **랜딩 페이지**&#x200B;를 선택하세요. **설정** 옆에 있는 주황색 _편집_ 단추를 클릭합니다.
 
    ![](assets/add-ssl-to-your-landing-pages-4.png){width="800" zoomable="yes"}
 
@@ -97,7 +97,7 @@ Marketo Engage은 기본적으로 비보안 HTTP 프로토콜에 대해 &quot;�
 
 ## 참고할 사항 {#things-to-note}
 
-* **Marketo Engage에 대한 도메인에 대한 DNS 매핑**: UI에 도메인을 추가하기 전에 CNAME을 Marketo 제공 도메인에 매핑[&#128279;](https://experienceleague.adobe.com/ko/docs/marketo/using/getting-started/initial-setup/setup-steps#customize-your-landing-page-urls-with-a-cname){target="_blank"}해야 합니다.
+* **Marketo Engage에 대한 도메인에 대한 DNS 매핑**: UI에 도메인을 추가하기 전에 CNAME을 Marketo 제공 도메인에 매핑[해야 합니다.](https://experienceleague.adobe.com/en/docs/marketo/using/getting-started/initial-setup/setup-steps#customize-your-landing-page-urls-with-a-cname){target="_blank"}
 
 * **사용자 지정 SSL**: 사용자 지정 SSL이 필요한 경우 [지원 티켓](https://nation.marketo.com/t5/support/ct-p/Support){target="_blank"}을 제출하세요. SSL 생성을 위해 셀프서비스 확인란을 사용하지 마십시오.
 

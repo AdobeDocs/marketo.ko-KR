@@ -4,7 +4,7 @@ description: 대량 전송 옵션 - Marketo 문서 - 제품 설명서
 title: 대량 전송 옵션
 exl-id: 37bc9d4c-da0f-4fd0-8c96-3fb4ea22fa8e
 feature: Marketo Sales Connect
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
 workflow-type: tm+mt
 source-wordcount: '258'
 ht-degree: 0%
@@ -17,41 +17,41 @@ ht-degree: 0%
 
 **그룹 전자 메일과 선택 및 보내기**
 
-<table> 
- <colgroup> 
-  <col> 
-  <col> 
-  <col> 
-  <col> 
-  <col> 
-  <col> 
- </colgroup> 
- <tbody> 
-  <tr> 
-   <th><p><span>보내기</span><span> 유형</span> </p></th> 
-   <th><p><span>최대 </span><span>전자 메일</span><span>메일</span> 수 </p></th> 
-   <th><p><span>시작한 </span><span>보내는 사람</span></p></th> 
-   <th><p><span>일괄 </span><span>전자 메일 편집</span> </p></th> 
-   <th><p>각 전자 메일 <span></span>고유하게<span>마다 </span>편집<span></span> </p></th> 
-   <th><p><span>템플릿 및 </span><span>동적 필드 지원</span> </p></th> 
-  </tr> 
-  <tr> 
-   <td><p><span>그룹 전자 메일</span> </p></td> 
-   <td><p><span>1,000</span> </p></td> 
-   <td><p><span>그룹을 선택하고 </span><span>"그룹 작업" 단추</span><span>를 클릭</span><span>하거나 그룹 이름을 To 필드에 입력하십시오. </span> </p></td> 
-   <td><p><span>예</span> </p></td> 
-   <td><p><span>아니요</span> </p></td> 
-   <td><p><span>예</span> </p></td> 
-  </tr> 
-  <tr> 
-   <td><p><span></span><span>및 </span><span>보내기</span> 선택 </p></td> 
-   <td><p><span>200</span> </p></td> 
-   <td><p><span>그리드에서 사람을 선택하고 작업 표시줄의 "전자 메일 선택" 단추를 클릭하세요</span><span>, o</span><span>대량 전자 메일 </span><span>사이드바</span><span>.</span></p></td> 
-   <td><p><span>예</span> </p></td> 
-   <td><p><span>예</span> </p></td> 
-   <td><p><span>예</span> </p></td> 
-  </tr> 
- </tbody> 
+<table>
+ <colgroup>
+  <col>
+  <col>
+  <col>
+  <col>
+  <col>
+  <col>
+ </colgroup>
+ <tbody>
+  <tr>
+   <th><p><span>보내기</span><span> 유형</span> </p></th>
+   <th><p><span>최대 </span><span>전자 메일</span><span>메일</span> 수 </p></th>
+   <th><p><span>시작한 </span><span>보내는 사람</span></p></th>
+   <th><p><span>일괄 </span><span>전자 메일 편집</span> </p></th>
+   <th><p>각 전자 메일 <span></span>고유하게<span>마다 </span>편집<span></span> </p></th>
+   <th><p><span>템플릿 및 </span><span>동적 필드 지원</span> </p></th>
+  </tr>
+  <tr>
+   <td><p><span>그룹 전자 메일</span> </p></td>
+   <td><p><span>1,000</span> </p></td>
+   <td><p><span>그룹을 선택하고 </span><span>"그룹 작업" 단추</span><span>를 클릭</span><span>하거나 그룹 이름을 To 필드에 입력하십시오. </span> </p></td>
+   <td><p><span>예</span> </p></td>
+   <td><p><span>아니요</span> </p></td>
+   <td><p><span>예</span> </p></td>
+  </tr>
+  <tr>
+   <td><p><span></span><span>및 </span><span>보내기</span> 선택 </p></td>
+   <td><p><span>200</span> </p></td>
+   <td><p><span>그리드에서 사람을 선택하고 작업 표시줄의 "전자 메일 선택" 단추를 클릭하세요</span><span>, o</span><span>대량 전자 메일 </span><span>사이드바</span><span>.</span></p></td>
+   <td><p><span>예</span> </p></td>
+   <td><p><span>예</span> </p></td>
+   <td><p><span>예</span> </p></td>
+  </tr>
+ </tbody>
 </table>
 
 **그룹 전자 메일 사용**

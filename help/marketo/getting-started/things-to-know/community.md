@@ -5,20 +5,20 @@ hide: true
 hidefromtoc: true
 feature: Getting Started
 exl-id: 86a4ad2c-22c7-4543-bcb3-bca132b6afea
-source-git-commit: 7a847ece020ea0c0001241abf8e49b9eadf8edce
+source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
 workflow-type: tm+mt
-source-wordcount: '592'
+source-wordcount: '590'
 ht-degree: 0%
 
 ---
 
 # Adobe Marketo Engage 커뮤니티 {#marketo-engage-community}
 
-[Adobe Marketo Engage 커뮤니티](https://nation.marketo.com/)(마케팅 국가라고도 함)는 Marketo 직원뿐만 아니라 동료 사용자로부터도 Marketo Engage 인스턴스에 대해 자세히 알아볼 수 있는 곳입니다. 시작하기 전에 [커뮤니티 지침](https://nation.marketo.com/t5/community-guidelines/ct-p/community-guidelines)에 대해 알아보세요.
+[Adobe Marketo Engage 커뮤니티](https://nation.marketo.com/)&#x200B;(마케팅 국가라고도 함)는 Marketo 직원뿐만 아니라 동료 사용자로부터도 Marketo Engage 인스턴스에 대해 자세히 알아볼 수 있는 곳입니다. 시작하기 전에 [커뮤니티 지침](https://nation.marketo.com/t5/community-guidelines/ct-p/community-guidelines)에 대해 알아보세요.
 
 ## 사용자 이름 등록 {#register-your-username}
 
-1. Marketo Engage 인스턴스에 로그인합니다.
+1. Marketo Engage 인스턴스에 로그인.
 
 1. 내 Marketo에서 커뮤니티 타일을 클릭합니다.
 
@@ -34,7 +34,7 @@ ht-degree: 0%
 
 ## 프로필 설정 {#set-up-your-profile}
 
-마케팅 국가에 로그인하면 기본 아바타 아이콘을 클릭하고 **[!UICONTROL 내 설정]**&#x200B;을 선택하여 환경 설정을 업데이트하고, 아바타 사진을 변경하고, 태깅을 제어하는 등의 작업을 수행할 수 있습니다.
+마케팅 국가에 로그인하면 기본 아바타 아이콘을 클릭하고 **[!UICONTROL My settings]**&#x200B;을(를) 선택하여 환경 설정을 업데이트하고, 아바타 사진을 변경하고, 태깅을 제어하는 등의 작업을 수행할 수 있습니다.
 
 스크린샷
 

@@ -5,9 +5,9 @@ hide: true
 hidefromtoc: true
 feature: Image Editor
 exl-id: 2080327c-fef0-48d8-b5c6-21741ae4f357
-source-git-commit: 5cf6231b8da65d81d89b52cb2ef2cbe7422a4842
+source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
 workflow-type: tm+mt
-source-wordcount: '291'
+source-wordcount: '246'
 ht-degree: 2%
 
 ---
@@ -22,11 +22,11 @@ ht-degree: 2%
 
    ![](assets/add-images-and-files-to-marketo-1.png)
 
-1. **[!UICONTROL 이미지 및 파일 선택]**
+1. **[!UICONTROL Images and Files]** 선택
 
    ![](assets/add-images-and-files-to-marketo-2.png)
 
-1. **[!UICONTROL 이미지 및 파일 작업]** 드롭다운을 클릭하고 **[!UICONTROL 이미지 또는 파일 업로드]**&#x200B;를 선택합니다.
+1. **[!UICONTROL Image and file actions]** 드롭다운을 클릭하고 **[!UICONTROL Upload image or file]**&#x200B;을(를) 선택합니다.
 
    ![](assets/add-images-and-files-to-marketo-3.png)
 
@@ -46,13 +46,13 @@ ht-degree: 2%
 
 텍스트
 
-1. 위의 [&#128279;](#upload-image-or-file)에서 1단계 및 2단계 을(를) 따릅니다.
+1. 위의 [에서 1단계 및 2단계 ](#upload-image-or-file)을(를) 따릅니다.
 
-1. **[!UICONTROL 이미지 및 파일 작업]** 드롭다운을 클릭하고 **[!UICONTROL 이미지 또는 파일 가져오기]**&#x200B;를 선택합니다.
+1. **[!UICONTROL Image and file actions]** 드롭다운을 클릭하고 **[!UICONTROL Import image or file]**&#x200B;을(를) 선택합니다.
 
    ![](assets/add-images-and-files-to-marketo-6.png)
 
-1. **[!UICONTROL 웹]** 옵션을 선택하고 **[!UICONTROL 다음]**&#x200B;을(를) 클릭합니다.
+1. **[!UICONTROL Web]** 옵션을 선택하고 **[!UICONTROL Next]**&#x200B;을(를) 클릭합니다.
 
    ![](assets/add-images-and-files-to-marketo-7.png)
 
@@ -68,13 +68,13 @@ PICC
 
 텍스트
 
-1. 위의 [&#128279;](#upload-image-or-file)에서 1단계 및 2단계 을(를) 따릅니다.
+1. 위의 [에서 1단계 및 2단계 ](#upload-image-or-file)을(를) 따릅니다.
 
-1. **[!UICONTROL 이미지 및 파일 작업]** 드롭다운을 클릭하고 **[!UICONTROL 이미지 또는 파일 가져오기]**&#x200B;를 선택합니다.
+1. **[!UICONTROL Image and file actions]** 드롭다운을 클릭하고 **[!UICONTROL Import image or file]**&#x200B;을(를) 선택합니다.
 
    ![](assets/add-images-and-files-to-marketo-10.png)
 
-1. **[!UICONTROL 상자]** 옵션을 선택하고 **[!UICONTROL 다음]**&#x200B;을(를) 클릭합니다.
+1. **[!UICONTROL Box]** 옵션을 선택하고 **[!UICONTROL Next]**&#x200B;을(를) 클릭합니다.
 
    ![](assets/add-images-and-files-to-marketo-11.png)
 
@@ -82,11 +82,11 @@ PICC
    >
    >이전에 그렇게 하지 않았다면 액세스 권한을 부여하기 위해 Box 계정에 로그인하라는 메시지가 표시됩니다.
 
-1. 원하는 상자 폴더를 선택하고 **[!UICONTROL 다음]**&#x200B;을 클릭합니다.
+1. 원하는 Box 폴더를 선택하고 **[!UICONTROL Next]**&#x200B;을(를) 클릭합니다.
 
    ![](assets/add-images-and-files-to-marketo-12.png)
 
-1. 원하는 이미지를 선택하고 **[!UICONTROL 다음]**&#x200B;을 클릭합니다.
+1. 원하는 이미지를 선택하고 **[!UICONTROL Next]**&#x200B;을(를) 클릭합니다.
 
    ![](assets/add-images-and-files-to-marketo-13.png)
 
@@ -98,13 +98,13 @@ PICC
 
 텍스트
 
-1. 위의 [&#128279;](#upload-image-or-file)에서 1단계 및 2단계 을(를) 따릅니다.
+1. 위의 [에서 1단계 및 2단계 ](#upload-image-or-file)을(를) 따릅니다.
 
-1. **[!UICONTROL 이미지 및 파일 작업]** 드롭다운을 클릭하고 **[!UICONTROL 이미지 또는 파일 가져오기]**&#x200B;를 선택합니다.
+1. **[!UICONTROL Image and file actions]** 드롭다운을 클릭하고 **[!UICONTROL Import image or file]**&#x200B;을(를) 선택합니다.
 
    ![](assets/add-images-and-files-to-marketo-15.png)
 
-1. **[!UICONTROL Adobe Experience Manager]** 옵션을 선택하고 **[!UICONTROL 다음]**&#x200B;을(를) 클릭합니다.
+1. **[!UICONTROL Adobe Experience Manager]** 옵션을 선택하고 **[!UICONTROL Next]**&#x200B;을(를) 클릭합니다.
 
    ![](assets/add-images-and-files-to-marketo-16.png)
 

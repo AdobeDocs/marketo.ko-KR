@@ -4,7 +4,7 @@ description: 웹 캠페인 표시 방법 설정 - Marketo 문서 - 제품 설명
 title: 웹 캠페인이 표시되는 방식 설정
 exl-id: fa0f2421-9536-4a3a-a28b-4f5b1b58ed56
 feature: Web Personalization
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
 workflow-type: tm+mt
 source-wordcount: '192'
 ht-degree: 0%
@@ -43,21 +43,21 @@ ht-degree: 0%
 
    ![](assets/s2.png)
 
-<table> 
- <tbody> 
-  <tr> 
-   <td><strong>[!UICONTROL Below fold]</strong></td> 
-   <td>방문자가 접힌 부분 아래로 스크롤할 때 캠페인을 표시합니다. 방문자가 접힌 부분 위로 스크롤하면 캠페인이 사라집니다.</td> 
-  </tr> 
-  <tr> 
-   <td><strong>[!UICONTROL Percent]</strong></td> 
-   <td>방문자가 페이지의 사전 결정된 비율로 스크롤할 때 캠페인을 표시합니다.</td> 
-  </tr> 
-  <tr> 
-   <td><strong>[!UICONTROL Pixel]</strong></td> 
-   <td><p>방문자가 페이지의 사전 지정된 상단 픽셀로 스크롤할 때 캠페인을 표시합니다.</p></td> 
-  </tr> 
- </tbody> 
+<table>
+ <tbody>
+  <tr>
+   <td><strong>[!UICONTROL Below fold]</strong></td>
+   <td>방문자가 접힌 부분 아래로 스크롤할 때 캠페인을 표시합니다. 방문자가 접힌 부분 위로 스크롤하면 캠페인이 사라집니다.</td>
+  </tr>
+  <tr>
+   <td><strong>[!UICONTROL Percent]</strong></td>
+   <td>방문자가 페이지의 사전 결정된 비율로 스크롤할 때 캠페인을 표시합니다.</td>
+  </tr>
+  <tr>
+   <td><strong>[!UICONTROL Pixel]</strong></td>
+   <td><p>방문자가 페이지의 사전 지정된 상단 픽셀로 스크롤할 때 캠페인을 표시합니다.</p></td>
+  </tr>
+ </tbody>
 </table>
 
 ## 종료 의도 {#exit-intent}

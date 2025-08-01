@@ -2,16 +2,16 @@
 description: Salesforce Lightning에서 Marketo Sales Connect 제거 - Marketo 설명서 - 제품 설명서
 title: Salesforce Lightning에서 Marketo Sales Connect 제거
 exl-id: 4af89222-22b1-4c08-8081-3dab89d1985b
-source-git-commit: 067525fec8a761f111433dca61278bed0b58cc2c
+source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
 workflow-type: tm+mt
 source-wordcount: '1192'
-ht-degree: 6%
+ht-degree: 8%
 
 ---
 
 # Salesforce Lightning에서 Marketo Sales Connect 제거 {#uninstall-marketo-sales-connect-from-salesforce-lightning}
 
-다음은 Sales Insight 작업 사용을 시작한 후 Salesforce 계정에서 Marketo Sales Connect 패키지를 제거하는 방법입니다.
+Sales Insight 작업 사용을 시작한 후 Salesforce 계정에서 Marketo Sales Connect 패키지를 제거하는 방법은 다음과 같습니다.
 
 ## 페이지 레이아웃에서 Sales Connect 필드 제거 {#remove-sales-connect-fields-from-page-layout}
 
@@ -175,7 +175,7 @@ ht-degree: 6%
 
 ## Sales Connect 패키지 삭제 {#delete-sales-connect-package}
 
-Salesforce 계정에서 개체를 모두 제거했으면 아래 단계를 따르십시오.
+Salesforce 계정에서 모든 개체를 제거했으면 아래 단계를 따르십시오.
 
 1. Salesforce Lightning에서 톱니바퀴 아이콘을 클릭하고 **설정**&#x200B;을 선택합니다.
 
@@ -297,9 +297,9 @@ Salesforce 계정에서 개체를 모두 제거했으면 아래 단계를 따르
   <td>MSC - 마지막 마케팅 참여 날짜</td>
   <td>마케팅 참여 타임스탬프</td>
   <td>
-  <p>계정 
-  <p>연락처 
-  <p>리드 
+  <p>계정
+  <p>연락처
+  <p>리드
   <p>기회</td>
   <td>데이터 및 시간</td>
  </tr>
@@ -307,9 +307,9 @@ Salesforce 계정에서 개체를 모두 제거했으면 아래 단계를 따르
   <td>MSC - 마지막 마케팅 참여 설명</td>
   <td>약정에 대한 설명</td>
   <td>
-  <p>계정 
-  <p>연락처 
-  <p>리드 
+  <p>계정
+  <p>연락처
+  <p>리드
   <p>기회</td>
   <td>텍스트</td>
  </tr>
@@ -317,9 +317,9 @@ Salesforce 계정에서 개체를 모두 제거했으면 아래 단계를 따르
   <td>MSC - 마지막 마케팅 참여 Source</td>
   <td>Source of Marketing 참여</td>
   <td>
-  <p>계정 
-  <p>연락처 
-  <p>리드 
+  <p>계정
+  <p>연락처
+  <p>리드
   <p>기회</td>
   <td>텍스트</td>
  </tr>
@@ -327,9 +327,9 @@ Salesforce 계정에서 개체를 모두 제거했으면 아래 단계를 따르
   <td>MSC - 마지막 마케팅 참여 유형</td>
   <td>참여 유형(예: 웹 활동)</td>
   <td>
-  <p>계정 
-  <p>연락처 
-  <p>리드 
+  <p>계정
+  <p>연락처
+  <p>리드
   <p>기회</td>
   <td>텍스트</td>
  </tr>
@@ -337,9 +337,9 @@ Salesforce 계정에서 개체를 모두 제거했으면 아래 단계를 따르
   <td>MSC - 영업별 마지막 활동</td>
   <td>영업 팀에서 마지막으로 수행한 활동</td>
   <td>
-  <p>계정 
-  <p>연락처 
-  <p>리드 
+  <p>계정
+  <p>연락처
+  <p>리드
   <p>기회</td>
   <td>데이터 및 시간</td>
  </tr>
@@ -347,9 +347,9 @@ Salesforce 계정에서 개체를 모두 제거했으면 아래 단계를 따르
   <td>MSC - 마지막으로 회신함</td>
   <td>판매 이메일에 대한 마지막 이메일 회신</td>
   <td>
-  <p>계정 
-  <p>연락처 
-  <p>리드 
+  <p>계정
+  <p>연락처
+  <p>리드
   <p>기회</td>
   <td>데이터 및 시간</td>
  </tr>
@@ -357,9 +357,9 @@ Salesforce 계정에서 개체를 모두 제거했으면 아래 단계를 따르
   <td>MSC - 현재 판매 캠페인</td>
   <td>연락처/잠재 고객이 속한 MSC 캠페인의 로그 이름</td>
   <td>
-  <p>계정 
-  <p>연락처 
-  <p>리드 
+  <p>계정
+  <p>연락처
+  <p>리드
   <p>기회</td>
   <td>텍스트</td>
  </tr>
@@ -377,9 +377,9 @@ Salesforce 계정에서 개체를 모두 제거했으면 아래 단계를 따르
   <td>MSC - 옵트아웃</td>
   <td>옵트아웃 필드</td>
   <td>
-  <p>계정 
-  <p>연락처 
-  <p>리드 
+  <p>계정
+  <p>연락처
+  <p>리드
   <p>기회</td>
   <td>확인란</td>
  </tr>
@@ -395,9 +395,9 @@ Salesforce 계정에서 개체를 모두 제거했으면 아래 단계를 따르
   <td>MSC 이메일 보내기</td>
   <td>Salesforce에서 판매 이메일 보내기</td>
   <td>
-  <p>계정 
-  <p>연락처 
-  <p>리드 
+  <p>계정
+  <p>연락처
+  <p>리드
   <p>기회</td>
  </tr>
  <tr>

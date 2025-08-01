@@ -4,7 +4,7 @@ description: 성능 인사이트에서 필터링 - Marketo 문서 - 제품 설�
 title: 성능 인사이트에서 필터링
 exl-id: c86260b7-fd5c-4d40-a8da-c9e3f09be14d
 feature: Reporting
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
 workflow-type: tm+mt
 source-wordcount: '307'
 ht-degree: 0%
@@ -45,37 +45,37 @@ ht-degree: 0%
 
 ## 사용 가능한 필터 {#available-filters}
 
-<table> 
- <tbody> 
-  <tr> 
-   <td colspan="1"><strong><span class="uicontrol">ABM 계정 목록</span></strong></td> 
-   <td colspan="1">Marketo ABM을 사용하는 경우 모든 계정 목록이 MPI에 동기화되고 'ABM 계정 목록' 필터를 통해 표시됩니다. 계정 목록을 선택하여 해당 계정에 대한 결과를 필터링할 수 있습니다.<a href="https://docs.marketo.com/display/public/DOCS/Account-Based+Web+Marketing+with+ABM" rel="nofollow">ABM 계정 목록에 대해 자세히 알아보세요.</a></td> 
-  </tr> 
-  <tr> 
-   <td colspan="1"><strong><span class="uicontrol">ABM 명명된 계정</span></strong></td> 
-   <td colspan="1">Marketo ABM을 사용하는 경우 명명된 모든 계정이 MPI에 동기화되고 'ABM 명명된 계정' 필터를 통해 표시됩니다. 명명된 계정을 선택하여 해당 계정으로 결과를 필터링할 수 있습니다.<a href="https://docs.marketo.com/x/eaCt" rel="nofollow">ABM 명명된 계정에 대해 자세히 알아보세요.</a></td> 
-  </tr> 
-  <tr> 
-   <td colspan="1"><strong><span class="uicontrol">사용자 지정 속성</span></strong></td> 
-   <td colspan="1"><p>이는 사용자에 의해 결정됩니다. 영업 기회 분석에 대해 <a href="/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-tools/enabling-custom-field-sync-for-revenue-cycle-analytics.md" rel="nofollow">활성화</a>한 모든 필드를 성능 인사이트에서 필터링할 수 있습니다.</p></td> 
-  </tr> 
-  <tr> 
-   <td colspan="1"><p><strong><span class="uicontrol">투자 기간</span></strong></p></td> 
-   <td colspan="1"><p>프로그램 비용 시간대.</p></td> 
-  </tr> 
-  <tr> 
-   <td colspan="1"><p><strong><span class="uicontrol">기회</span></strong></p></td> 
-   <td colspan="1"><p>Salesforce(CRM) 설정의 Opportunity 개체에 설정된 Opportunity 유형입니다.</p></td> 
-  </tr> 
-  <tr> 
-   <td><p><strong><span class="uicontrol">프로그램 태그</span></strong></p></td> 
-   <td><p>태그는 프로그램을 설명하는 데 사용됩니다. 각각 고유한 값을 사용하여 필요한 만큼 만들 수 있습니다. <a href="/help/marketo/product-docs/administration/tags/create-a-new-program-tag-and-tag-values.md" rel="nofollow">여기에서 프로그램 태그를 사용하여 작업하는 방법을 알아보세요.</a></p></td> 
-  </tr> 
-  <tr> 
-   <td><strong><span class="uicontrol">작업 영역</span></strong></td> 
-   <td><p>작업 영역은 프로그램, 랜딩 페이지, 이메일 등과 같은 마케팅 에셋을 보유하는 Marketo의 별도 영역입니다. <a href="/help/marketo/product-docs/administration/workspaces-and-person-partitions/understanding-workspaces-and-person-partitions.md" rel="nofollow">여기에서 작업 영역에 대해 자세히 알아보세요.</a></p></td> 
-  </tr> 
- </tbody> 
+<table>
+ <tbody>
+  <tr>
+   <td colspan="1"><strong><span class="uicontrol">ABM 계정 목록</span></strong></td>
+   <td colspan="1">Marketo ABM을 사용하는 경우 모든 계정 목록이 MPI에 동기화되고 'ABM 계정 목록' 필터를 통해 표시됩니다. 계정 목록을 선택하여 해당 계정에 대한 결과를 필터링할 수 있습니다.<a href="https://docs.marketo.com/display/public/DOCS/Account-Based+Web+Marketing+with+ABM" rel="nofollow">ABM 계정 목록에 대해 자세히 알아보세요.</a></td>
+  </tr>
+  <tr>
+   <td colspan="1"><strong><span class="uicontrol">ABM 명명된 계정</span></strong></td>
+   <td colspan="1">Marketo ABM을 사용하는 경우 명명된 모든 계정이 MPI에 동기화되고 'ABM 명명된 계정' 필터를 통해 표시됩니다. 명명된 계정을 선택하여 해당 계정으로 결과를 필터링할 수 있습니다.<a href="https://docs.marketo.com/x/eaCt" rel="nofollow">ABM 명명된 계정에 대해 자세히 알아보세요.</a></td>
+  </tr>
+  <tr>
+   <td colspan="1"><strong><span class="uicontrol">사용자 지정 속성</span></strong></td>
+   <td colspan="1"><p>이는 사용자에 의해 결정됩니다. 영업 기회 분석에 대해 <a href="/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-tools/enabling-custom-field-sync-for-revenue-cycle-analytics.md" rel="nofollow">활성화</a>한 모든 필드를 성능 인사이트에서 필터링할 수 있습니다.</p></td>
+  </tr>
+  <tr>
+   <td colspan="1"><p><strong><span class="uicontrol">투자 기간</span></strong></p></td>
+   <td colspan="1"><p>프로그램 비용 시간대.</p></td>
+  </tr>
+  <tr>
+   <td colspan="1"><p><strong><span class="uicontrol">기회</span></strong></p></td>
+   <td colspan="1"><p>Salesforce(CRM) 설정의 Opportunity 개체에 설정된 Opportunity 유형입니다.</p></td>
+  </tr>
+  <tr>
+   <td><p><strong><span class="uicontrol">프로그램 태그</span></strong></p></td>
+   <td><p>태그는 프로그램을 설명하는 데 사용됩니다. 각각 고유한 값을 사용하여 필요한 만큼 만들 수 있습니다. <a href="/help/marketo/product-docs/administration/tags/create-a-new-program-tag-and-tag-values.md" rel="nofollow">여기에서 프로그램 태그를 사용하여 작업하는 방법을 알아보세요.</a></p></td>
+  </tr>
+  <tr>
+   <td><strong><span class="uicontrol">작업 영역</span></strong></td>
+   <td><p>작업 영역은 프로그램, 랜딩 페이지, 이메일 등과 같은 마케팅 에셋을 보유하는 Marketo의 별도 영역입니다. <a href="/help/marketo/product-docs/administration/workspaces-and-person-partitions/understanding-workspaces-and-person-partitions.md" rel="nofollow">여기에서 작업 영역에 대해 자세히 알아보세요.</a></p></td>
+  </tr>
+ </tbody>
 </table>
 
 >[!NOTE]

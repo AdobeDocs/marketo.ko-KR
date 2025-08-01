@@ -3,7 +3,7 @@ description: Salesforce Lightning 사용자 지정 패키지 제거 - Marketo �
 title: Salesforce Lightning 사용자 지정 패키지 제거
 exl-id: 4af89222-22b1-4c08-8081-3dab89d1985b
 feature: Sales Insight Actions
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
 workflow-type: tm+mt
 source-wordcount: '993'
 ht-degree: 11%
@@ -298,9 +298,9 @@ Opportunity 보기에는 &quot;MSE Email 보내기&quot; 버튼 및 다음 필�
   <td>MSC - 마지막 마케팅 참여 날짜</td>
   <td>마케팅 참여 타임스탬프</td>
   <td>
-  <p>계정 
-  <p>연락처 
-  <p>리드 
+  <p>계정
+  <p>연락처
+  <p>리드
   <p>기회</td>
   <td>데이터 및 시간</td>
  </tr>
@@ -308,9 +308,9 @@ Opportunity 보기에는 &quot;MSE Email 보내기&quot; 버튼 및 다음 필�
   <td>MSC - 마지막 마케팅 참여 설명</td>
   <td>약정에 대한 설명</td>
   <td>
-  <p>계정 
-  <p>연락처 
-  <p>리드 
+  <p>계정
+  <p>연락처
+  <p>리드
   <p>기회</td>
   <td>텍스트</td>
  </tr>
@@ -318,9 +318,9 @@ Opportunity 보기에는 &quot;MSE Email 보내기&quot; 버튼 및 다음 필�
   <td>MSC - 마지막 마케팅 참여 Source</td>
   <td>Source of Marketing 참여</td>
   <td>
-  <p>계정 
-  <p>연락처 
-  <p>리드 
+  <p>계정
+  <p>연락처
+  <p>리드
   <p>기회</td>
   <td>텍스트</td>
  </tr>
@@ -328,9 +328,9 @@ Opportunity 보기에는 &quot;MSE Email 보내기&quot; 버튼 및 다음 필�
   <td>MSC - 마지막 마케팅 참여 유형</td>
   <td>참여 유형(예: 웹 활동)</td>
   <td>
-  <p>계정 
-  <p>연락처 
-  <p>리드 
+  <p>계정
+  <p>연락처
+  <p>리드
   <p>기회</td>
   <td>텍스트</td>
  </tr>
@@ -338,9 +338,9 @@ Opportunity 보기에는 &quot;MSE Email 보내기&quot; 버튼 및 다음 필�
   <td>MSC - 영업별 마지막 활동</td>
   <td>영업 팀에서 마지막으로 수행한 활동</td>
   <td>
-  <p>계정 
-  <p>연락처 
-  <p>리드 
+  <p>계정
+  <p>연락처
+  <p>리드
   <p>기회</td>
   <td>데이터 및 시간</td>
  </tr>
@@ -348,9 +348,9 @@ Opportunity 보기에는 &quot;MSE Email 보내기&quot; 버튼 및 다음 필�
   <td>MSC - 마지막으로 회신함</td>
   <td>판매 이메일에 대한 마지막 이메일 회신</td>
   <td>
-  <p>계정 
-  <p>연락처 
-  <p>리드 
+  <p>계정
+  <p>연락처
+  <p>리드
   <p>기회</td>
   <td>데이터 및 시간</td>
  </tr>
@@ -358,9 +358,9 @@ Opportunity 보기에는 &quot;MSE Email 보내기&quot; 버튼 및 다음 필�
   <td>MSC - 현재 판매 캠페인</td>
   <td>연락처/잠재 고객이 속한 MSC 캠페인의 로그 이름</td>
   <td>
-  <p>계정 
-  <p>연락처 
-  <p>리드 
+  <p>계정
+  <p>연락처
+  <p>리드
   <p>기회</td>
   <td>텍스트</td>
  </tr>
@@ -378,9 +378,9 @@ Opportunity 보기에는 &quot;MSE Email 보내기&quot; 버튼 및 다음 필�
   <td>MSC - 옵트아웃</td>
   <td>옵트아웃 필드</td>
   <td>
-  <p>계정 
-  <p>연락처 
-  <p>리드 
+  <p>계정
+  <p>연락처
+  <p>리드
   <p>기회</td>
   <td>확인란</td>
  </tr>
@@ -396,9 +396,9 @@ Opportunity 보기에는 &quot;MSE Email 보내기&quot; 버튼 및 다음 필�
   <td>[!UICONTROL Send MSC Email]</td>
   <td>다음에서 판매 이메일 보내기 [!DNL Salesforce]</td>
   <td>
-  <p>계정 
-  <p>연락처 
-  <p>리드 
+  <p>계정
+  <p>연락처
+  <p>리드
   <p>기회</td>
  </tr>
  <tr>

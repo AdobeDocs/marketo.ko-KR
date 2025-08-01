@@ -3,7 +3,7 @@ description: 에이전트 받은 편지함 - Marketo 문서 - 제품 설명서
 title: 에이전트 받은 편지함
 feature: Dynamic Chat
 exl-id: 65f13879-36d2-4a23-a029-271f5aea1229
-source-git-commit: 3788898496c50ebc3a5a8bf6adbd79a270024be7
+source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
 workflow-type: tm+mt
 source-wordcount: '550'
 ht-degree: 0%
@@ -24,7 +24,7 @@ ht-degree: 0%
 
 >[!IMPORTANT]
 >
->**에이전트 설정에서 설정한 [실시간 채팅 가용성](/help/marketo/product-docs/demand-generation/dynamic-chat/setup-and-configuration/agent-settings.md#live-chat-availability){target="_blank"}을 재정의합니다**. 상태를 다시 전환하거나 사용 가능한 다음 시간 블록으로 전환할 때까지 유지됩니다.
+>**에이전트 설정에서 설정한**&#x200B;실시간 채팅 가용성[을 재정의합니다](/help/marketo/product-docs/demand-generation/dynamic-chat/setup-and-configuration/agent-settings.md#live-chat-availability){target="_blank"}. 상태를 다시 전환하거나 사용 가능한 다음 시간 블록으로 전환할 때까지 유지됩니다.
 
 >[!NOTE]
 >

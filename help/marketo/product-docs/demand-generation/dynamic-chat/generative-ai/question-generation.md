@@ -3,10 +3,10 @@ description: 질문 생성 - Marketo 문서 - 제품 설명서
 title: 질문 생성
 feature: Dynamic Chat
 exl-id: 05e0fd4c-b8e0-47de-8ca8-d4ba07d6a06a
-source-git-commit: a711da0fe04e967bfc525be4f3df59d978021592
+source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
 workflow-type: tm+mt
-source-wordcount: '298'
-ht-degree: 0%
+source-wordcount: '292'
+ht-degree: 2%
 
 ---
 
@@ -16,27 +16,27 @@ ht-degree: 0%
 
 ## 질문 생성 {#generate-questions}
 
-1. 생성 AI에서 **[!UICONTROL 지원 응답]**&#x200B;을 클릭합니다.
+1. 생성 AI에서 **[!UICONTROL Assisted responses]**&#x200B;을(를) 클릭합니다.
 
    ![](assets/question-generation-1.png)
 
-1. **[!UICONTROL 질문 생성]**&#x200B;을 클릭합니다.
+1. **[!UICONTROL Generate questions]**&#x200B;을(를) 클릭합니다.
 
    ![](assets/question-generation-2.png)
 
-1. 작업에 이름을 지정하고 모든 콘텐츠를 추출할 소스 URL(최대 10개)을 입력합니다. 원하는 주제/키워드를 입력하고 키보드에서 Enter 키를 누릅니다. 완료되면 **[!UICONTROL 생성]**&#x200B;을 클릭하세요.
+1. 작업에 이름을 지정하고 모든 콘텐츠를 추출할 소스 URL(최대 10개)을 입력합니다. 원하는 주제/키워드를 입력하고 키보드에서 Enter 키를 누릅니다. 완료되면 **[!UICONTROL Generate]**&#x200B;을(를) 클릭합니다.
 
    ![](assets/question-generation-3.png)
 
    >[!IMPORTANT]
    >
-   >Marketo Engage허용 목록에 추가하다 가 제공된 URL에서 컨텐츠를 스크랩할 수 있도록 하려면 먼저 몇 개의 IP 주소를 스크랩해야 합니다. [자세한 내용은 아래를 참조하십시오](#ip-addresses-to-allowlist).
+   >Marketo Engage이 제공된 URL에서 콘텐츠를 스크랩할 수 있도록 하려면 먼저 몇 개의 IP 주소를 허용 목록 해야 합니다. [자세한 내용은 아래를 참조하십시오](#ip-addresses-to-allowlist).
 
    >[!NOTE]
    >
    >사이트/페이지는 정보를 스크랩하려면 공개(즉, 로그인 뒤에 숨기지 않음)여야 합니다.
 
-1. 콘텐츠에 따라 질문 및 응답 생성에는 최대 30분이 소요될 수 있습니다. **[!UICONTROL 확인]**&#x200B;을 클릭합니다.
+1. 콘텐츠에 따라 질문 및 응답 생성에는 최대 30분이 소요될 수 있습니다. **[!UICONTROL OK]**&#x200B;을(를) 클릭합니다.
 
    ![](assets/question-generation-4.png)
 
@@ -79,7 +79,7 @@ ht-degree: 0%
 <table width="450">
 <thead>
   <tr>
-    <th>북아메리카</th>
+    <th>북미</th>
     <th>유럽</th>
     <th>APAC</th>
   </tr>

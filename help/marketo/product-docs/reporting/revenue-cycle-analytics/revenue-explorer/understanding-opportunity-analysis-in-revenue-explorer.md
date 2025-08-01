@@ -4,7 +4,7 @@ description: 매출 탐색기 - Marketo 문서 - 제품 설명서에서 영업 �
 title: 매출 탐색기의 영업 기회 분석 이해
 exl-id: 2ef45d3e-7640-4c47-86ae-d7ae45ed1dd4
 feature: Reporting, Revenue Cycle Analytics
-source-git-commit: d20a9bb584f69282eefae3704ce4be2179b29d0b
+source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
 workflow-type: tm+mt
 source-wordcount: '899'
 ht-degree: 5%
@@ -55,7 +55,7 @@ ht-degree: 5%
 
    ![](assets/image2015-7-21-10-3a35-3a45.png)
 
-## 영업 기회 분석 Dimension 및 측정값 {#opportunity-analysis-dimensions-and-measures}
+## 영업 기회 분석 차원 및 측정값 {#opportunity-analysis-dimensions-and-measures}
 
 Opportunity Analysis 를 사용하면 모든 Lead, Company 및 Opportunity 관련 차원과 Opportunity 관련 측정값에 액세스할 수 있습니다. 이러한 영업 기회 분석 차원 및 측정치를 사용하여 보고서의 특정 질문에 답변할 수 있습니다.
 
@@ -64,14 +64,14 @@ Opportunity Analysis 를 사용하면 모든 Lead, Company 및 Opportunity 관�
    | 차원 | 설명 |
    |---|---|
    | 연간 수익 | 회사의 연간 수익 |
-   | 도시 | 회사가 있는 도시입니다. |
+   | 구/군/시 | 회사가 있는 도시입니다. |
    | 국가 | 회사가 있는 군 |
-   | 산업 | 회사가 속한 산업 |
+   | 업종 | 회사가 속한 산업 |
    | 회사 이름 | 회사 이름 |
    | 직원 수 | 회사의 직원 수 |
-   | 우편 번호 | 회사 우편 번호 |
+   | 우편번호 | 회사 우편 번호 |
    | SIC 코드 | 회사의 SIC 코드 |
-   | 주 | 회사가 위치한 주 |
+   | 주/도 | 회사가 위치한 주 |
 
 1. 잠재 고객 속성
 

@@ -2,7 +2,7 @@
 description: Salesforce에 판매 활동 속성 로깅 - Marketo 문서 - 제품 설명서
 title: Salesforce에 판매 활동 속성 로깅
 exl-id: fdefe53b-eb99-48ce-a04e-3666be33fea4
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
 workflow-type: tm+mt
 source-wordcount: '225'
 ht-degree: 12%

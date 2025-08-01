@@ -4,7 +4,7 @@ description: '[!UICONTROL Named Accounts] 가져오기 - Marketo 문서 - 제품
 title: '[!UICONTROL Named Accounts] 가져오기'
 exl-id: 3f40e567-9256-4efd-beea-4e818770759f
 feature: Target Account Management
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
 workflow-type: tm+mt
 source-wordcount: '440'
 ht-degree: 0%
@@ -65,40 +65,40 @@ CSV에 잠재적 대상 계정이 이미 가득 찼습니까? TAM으로 바로 �
 
 [!UICONTROL by Account Name]을(를) 중복 제거하는 시나리오:
 
-<table> 
- <tbody> 
-  <tr> 
-   <td><strong>기존 <span class="uicontrol">명명된 계정</span> 이름으로 레코드를 가져오는 중</strong></td> 
-   <td><p>기존 레코드를 업데이트합니다.</p></td> 
-  </tr> 
-  <tr> 
-   <td><strong>새 <span class="uicontrol">명명된 계정</span> 이름으로 레코드를 가져오는 중</strong></td> 
-   <td>새 레코드를 만듭니다.</td> 
-  </tr> 
- </tbody> 
+<table>
+ <tbody>
+  <tr>
+   <td><strong>기존 <span class="uicontrol">명명된 계정</span> 이름으로 레코드를 가져오는 중</strong></td>
+   <td><p>기존 레코드를 업데이트합니다.</p></td>
+  </tr>
+  <tr>
+   <td><strong>새 <span class="uicontrol">명명된 계정</span> 이름으로 레코드를 가져오는 중</strong></td>
+   <td>새 레코드를 만듭니다.</td>
+  </tr>
+ </tbody>
 </table>
 
 [!UICONTROL by Domain Name]을(를) 중복 제거하는 시나리오:
 
-<table> 
- <tbody> 
-  <tr> 
-   <td><strong>새 계정 이름 및 새 도메인 이름으로 레코드 가져오기</strong></td> 
-   <td>제공된 정보로 새 <span class="uicontrol">명명된 계정</span>을(를) 만듭니다.</td> 
-  </tr> 
-  <tr> 
-   <td><strong>기존 계정 이름 및 기존 도메인 이름으로 레코드 가져오기</strong></td> 
-   <td>기존 <span class="uicontrol">명명된 계정</span>을(를) 업데이트합니다.</td> 
-  </tr> 
-   <tr> 
-   <td><strong>새 계정 이름 및 기존 도메인 이름으로 레코드 가져오기</strong></td> 
-   <td>도메인 이름과 일치하는 기존 <span class="uicontrol">명명된 계정</span>에 새 계정 이름을 추가하고 다른 정보(예: 업종, 주 등)를 업데이트합니다.</td> 
-  </tr> 
-  <tr> 
-   <td><strong>기존 <span class="uicontrol">명명된 계정</span> 이름 및 새 도메인 이름으로 레코드를 가져오는 중</strong></td> 
-   <td>계정 이름과 일치하는 기존 <span class="uicontrol">명명된 계정</span>에 새 도메인 이름을 추가하고 다른 정보(예: 업종, 주 등)를 업데이트합니다.</td> 
-  </tr> 
- </tbody> 
+<table>
+ <tbody>
+  <tr>
+   <td><strong>새 계정 이름 및 새 도메인 이름으로 레코드 가져오기</strong></td>
+   <td>제공된 정보로 새 <span class="uicontrol">명명된 계정</span>을(를) 만듭니다.</td>
+  </tr>
+  <tr>
+   <td><strong>기존 계정 이름 및 기존 도메인 이름으로 레코드 가져오기</strong></td>
+   <td>기존 <span class="uicontrol">명명된 계정</span>을(를) 업데이트합니다.</td>
+  </tr>
+   <tr>
+   <td><strong>새 계정 이름 및 기존 도메인 이름으로 레코드 가져오기</strong></td>
+   <td>도메인 이름과 일치하는 기존 <span class="uicontrol">명명된 계정</span>에 새 계정 이름을 추가하고 다른 정보(예: 업종, 주 등)를 업데이트합니다.</td>
+  </tr>
+  <tr>
+   <td><strong>기존 <span class="uicontrol">명명된 계정</span> 이름 및 새 도메인 이름으로 레코드를 가져오는 중</strong></td>
+   <td>계정 이름과 일치하는 기존 <span class="uicontrol">명명된 계정</span>에 새 도메인 이름을 추가하고 다른 정보(예: 업종, 주 등)를 업데이트합니다.</td>
+  </tr>
+ </tbody>
 </table>
 
 >[!NOTE]

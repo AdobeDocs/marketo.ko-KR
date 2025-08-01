@@ -4,7 +4,7 @@ description: 포털에 SSO(Single Sign-On) 추가 - Marketo 문서 - 제품 설�
 title: 포털에 SSO(Single Sign-On) 추가
 exl-id: 72f96239-7252-4cbc-bbe1-84ac7ae7f92e
 feature: Administration
-source-git-commit: e3f61755dccd9bea1378a429fc428b440fc3ecb4
+source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
 workflow-type: tm+mt
 source-wordcount: '571'
 ht-degree: 0%
@@ -69,7 +69,7 @@ SSO는 기본적으로 비활성화되어 있습니다. 다음 단계에 따라 
 
    >[!NOTE]
    >
-   >**[!UICONTROL Admin]**&#x200B;에 **[!UICONTROL Single Sign-On]**&#x200B;이(가) 표시되지 않으면 [Marketo 지원](https://nation.marketo.com/t5/Support/ct-p/Support){target="_blank"}에 문의하십시오.
+   >**[!UICONTROL Single Sign-On]**&#x200B;에 **[!UICONTROL Admin]**&#x200B;이(가) 표시되지 않으면 [Marketo 지원](https://nation.marketo.com/t5/Support/ct-p/Support){target="_blank"}에 문의하십시오.
 
 1. **[!UICONTROL SAML Settings]** 섹션 아래에서 **[!UICONTROL Edit]**&#x200B;을(를) 클릭합니다.
 

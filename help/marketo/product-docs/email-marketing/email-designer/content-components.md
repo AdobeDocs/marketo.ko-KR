@@ -7,7 +7,7 @@ level: Beginner, Intermediate
 feature: Email Designer
 hide: true
 hidefromtoc: true
-source-git-commit: ca8644c43cfbdbaf7be9f21c5e440949b796cfdb
+source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
 workflow-type: tm+mt
 source-wordcount: '1154'
 ht-degree: 0%
@@ -147,7 +147,7 @@ ht-degree: 0%
 
 1. **[!UICONTROL Settings]** 탭에서 **[!UICONTROL Browse]**&#x200B;을(를) 클릭하여 에셋에서 이미지 파일을 선택하거나 **[!UICONTROL Import media]**&#x200B;을(를) 클릭하여 에셋을 Adobe Experience Manager Assets에 업로드합니다.
 
-   [!DNL Adobe Experience Manager Assets]에 대한 자세한 내용은 [Adobe Experience Manager Assets 설명서](https://experienceleague.adobe.com/docs/experience-manager-assets-essentials/help/introduction.html?lang=ko){target="_blank"}를 참조하세요.
+   [!DNL Adobe Experience Manager Assets]에 대한 자세한 내용은 [Adobe Experience Manager Assets 설명서](https://experienceleague.adobe.com/docs/experience-manager-assets-essentials/help/introduction.html){target="_blank"}를 참조하세요.
 
    >[!NOTE]
    >
@@ -209,4 +209,3 @@ ht-degree: 0%
 >[!IMPORTANT]
 >
 >여정의 메시지에 사용 중인 오퍼 의사 결정이 변경되는 경우 여정 게시를 취소하고 다시 게시해야 합니다.  이렇게 하면 변경 사항이 여정 메시지에 통합되고 메시지가 최신 업데이트와 일관되게 표시됩니다.
-

@@ -4,7 +4,7 @@ description: 활동 동기화 사용자 지정 - Marketo 문서 - 제품 설명�
 title: 활동 동기화 사용자 지정
 exl-id: 938d83dc-b9b1-41d8-bf98-04548b074ec4
 feature: Salesforce Integration
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
 workflow-type: tm+mt
 source-wordcount: '253'
 ht-degree: 1%
@@ -35,67 +35,67 @@ Marketo Sales Insight을 사용하지 않는 경우 Marketo Engage에서 특정 
    >
    >활성화되면 Marketo은 3개월 분량의 활동 내역을 푸시합니다. 데이터의 양에 따라 _완료하는 데 며칠이 걸릴 수 있습니다_. 초기 활동 푸시 동안 발생하는 업데이트는 초기 활동 동기화가 완료될 때까지 지연될 수 있습니다.
 
-<table> 
- <colgroup> 
-  <col> 
-  <col> 
- </colgroup> 
- <thead> 
-  <tr> 
-   <th>활동 유형</th> 
-   <th>설명</th> 
-  </tr> 
- </thead> 
- <tbody> 
-  <tr> 
-   <td>[!UICONTROL Filled out form]</td> 
-   <td>모든 Marketo 양식을 작성했습니다.</td> 
-  </tr> 
-  <tr> 
-   <td>[!UICONTROL Added to list]</td> 
-   <td><p>흐름 단계: 정적 목록에 추가되었습니다.</p></td> 
-  </tr> 
-  <tr> 
-   <td>[!UICONTROL Email sent]</td> 
-   <td>흐름 단계: 이메일이 전송됨</td> 
-  </tr> 
-  <tr> 
-   <td>[!UICONTROL Email delivered]</td> 
-   <td>이메일 수신(반송 안 함)</td> 
-  </tr> 
-  <tr> 
-   <td>[!UICONTROL Email opened]</td> 
-   <td>이메일을 열었습니다(이미지를 차단하지 않음).</td> 
-  </tr> 
-  <tr> 
-   <td>[!UICONTROL Clicked link in email]</td> 
-   <td>Marketo에서 보낸 이메일의 링크를 클릭함</td> 
-  </tr> 
-  <tr> 
-   <td>[!UICONTROL Removed from list]</td> 
-   <td>흐름 단계: 정적 목록에서 제거됨</td> 
-  </tr> 
-  <tr> 
-   <td>[!UICONTROL Remove from flow]</td> 
-   <td>흐름 단계: 흐름에서 제거</td> 
-  </tr> 
-  <tr> 
-   <td>[!UICONTROL Sales email sent]</td> 
-   <td>Marketo Sales Insight을 통해 이메일을 보냈습니다.</td> 
-  </tr> 
-  <tr> 
-   <td>[!UICONTROL Sales email opened]</td> 
-   <td>Marketo Sales Insight을 통해 전송된 이메일 열기</td> 
-  </tr> 
-  <tr> 
-   <td>[!UICONTROL Click link in sales email]</td> 
-   <td>Marketo Sales Insight을 통해 전송된 이메일에서 링크를 클릭함</td> 
-  </tr> 
-  <tr> 
-   <td>[!UICONTROL Sales email received]</td> 
-   <td>MSI Outlook 플러그인의 영업 담당자가 이메일을 수신하여 기록했습니다.</td> 
-  </tr> 
- </tbody> 
+<table>
+ <colgroup>
+  <col>
+  <col>
+ </colgroup>
+ <thead>
+  <tr>
+   <th>활동 유형</th>
+   <th>설명</th>
+  </tr>
+ </thead>
+ <tbody>
+  <tr>
+   <td>[!UICONTROL Filled out form]</td>
+   <td>모든 Marketo 양식을 작성했습니다.</td>
+  </tr>
+  <tr>
+   <td>[!UICONTROL Added to list]</td>
+   <td><p>흐름 단계: 정적 목록에 추가되었습니다.</p></td>
+  </tr>
+  <tr>
+   <td>[!UICONTROL Email sent]</td>
+   <td>흐름 단계: 이메일이 전송됨</td>
+  </tr>
+  <tr>
+   <td>[!UICONTROL Email delivered]</td>
+   <td>이메일 수신(반송 안 함)</td>
+  </tr>
+  <tr>
+   <td>[!UICONTROL Email opened]</td>
+   <td>이메일을 열었습니다(이미지를 차단하지 않음).</td>
+  </tr>
+  <tr>
+   <td>[!UICONTROL Clicked link in email]</td>
+   <td>Marketo에서 보낸 이메일의 링크를 클릭함</td>
+  </tr>
+  <tr>
+   <td>[!UICONTROL Removed from list]</td>
+   <td>흐름 단계: 정적 목록에서 제거됨</td>
+  </tr>
+  <tr>
+   <td>[!UICONTROL Remove from flow]</td>
+   <td>흐름 단계: 흐름에서 제거</td>
+  </tr>
+  <tr>
+   <td>[!UICONTROL Sales email sent]</td>
+   <td>Marketo Sales Insight을 통해 이메일을 보냈습니다.</td>
+  </tr>
+  <tr>
+   <td>[!UICONTROL Sales email opened]</td>
+   <td>Marketo Sales Insight을 통해 전송된 이메일 열기</td>
+  </tr>
+  <tr>
+   <td>[!UICONTROL Click link in sales email]</td>
+   <td>Marketo Sales Insight을 통해 전송된 이메일에서 링크를 클릭함</td>
+  </tr>
+  <tr>
+   <td>[!UICONTROL Sales email received]</td>
+   <td>MSI Outlook 플러그인의 영업 담당자가 이메일을 수신하여 기록했습니다.</td>
+  </tr>
+ </tbody>
 </table>
 
 >[!NOTE]

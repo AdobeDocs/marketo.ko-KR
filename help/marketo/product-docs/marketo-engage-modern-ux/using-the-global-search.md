@@ -3,7 +3,7 @@ description: 글로벌 검색 사용 - Marketo 문서 - 제품 설명서
 title: 글로벌 검색 사용
 exl-id: eb50013b-9595-4fe1-bd5e-b2d5ca185de4
 feature: Modern UX
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
 workflow-type: tm+mt
 source-wordcount: '148'
 ht-degree: 3%
@@ -40,27 +40,27 @@ ht-degree: 3%
 
 ![](assets/using-the-global-search-6.png)
 
-<table> 
+<table>
  <tbody>
   <tr>
-   <td>1</td> 
-   <td>항목/대상 이름</td> 
+   <td>1</td>
+   <td>항목/대상 이름</td>
   </tr>
   <tr>
-   <td>2</td> 
-   <td>해당 항목/대상에 대한 경로(탐색 표시)</td> 
+   <td>2</td>
+   <td>해당 항목/대상에 대한 경로(탐색 표시)</td>
   </tr>
   <tr>
-   <td>3</td> 
-   <td>항목/대상을 마지막으로 수정한 날짜 및 시간입니다.</td> 
+   <td>3</td>
+   <td>항목/대상을 마지막으로 수정한 날짜 및 시간입니다.</td>
   </tr>
   <tr>
-   <td>4</td> 
-   <td>항목/대상이 생성된 날짜 및 시간</td> 
+   <td>4</td>
+   <td>항목/대상이 생성된 날짜 및 시간</td>
   </tr>
   <tr>
-   <td>5</td> 
-   <td>집중 필터를 구현하여 검색 결과 좁히기</td> 
+   <td>5</td>
+   <td>집중 필터를 구현하여 검색 결과 좁히기</td>
   </tr>
  </tbody>
 </table>

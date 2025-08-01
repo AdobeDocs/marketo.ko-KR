@@ -3,7 +3,7 @@ description: 보고 개요 - Marketo 문서 - 제품 설명서
 title: 보고 개요
 exl-id: 62b4b9fc-a4fe-4298-947b-1ff453321464
 feature: Reporting
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
 workflow-type: tm+mt
 source-wordcount: '387'
 ht-degree: 0%
@@ -28,7 +28,7 @@ Marketo은 다양한 요구 사항에 맞는 다양한 보고 모듈을 제공�
 
 ## 고급 BI Analytics 보고 {#advanced-bi-analytics-reporting}
 
-_(이전 이름: 수익 주기 탐색기/고급 Report Builder)_
+_(이전 이름: Revenue Cycle Explorer/Advanced Report Builder)_
 
 >[!AVAILABILITY]
 >

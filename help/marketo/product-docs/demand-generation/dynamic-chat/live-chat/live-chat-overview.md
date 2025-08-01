@@ -3,7 +3,7 @@ description: 라이브 채팅 개요 - Marketo 문서 - 제품 설명서
 title: 라이브 채팅 개요
 feature: Dynamic Chat
 exl-id: 44e8b249-b534-4cec-a612-daa184acd266
-source-git-commit: 19f7a38a6a87bc66084e7e45f5bf49cd0d29c3cd
+source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
 workflow-type: tm+mt
 source-wordcount: '842'
 ht-degree: 0%
@@ -49,25 +49,25 @@ ht-degree: 0%
 
 ![](assets/live-chat-overview-2.png)
 
-<table> 
- <tbody> 
-  <tr> 
+<table>
+ <tbody>
+  <tr>
    <td><b>라운드 로빈</b></td>
    <td>채팅은 에이전트에 순차적으로 할당됩니다.</td>
-  </tr> 
-  <tr> 
+  </tr>
+  <tr>
    <td><b>에이전트</b></td>
    <td>채팅을 받을 특정 에이전트를 선택합니다.</td>
   </tr>
-    <tr> 
+    <tr>
    <td><b>사용자 지정 규칙</b></td>
    <td>방문자를 라우팅할 위치를 고려할 때 모든 사용자 지정 규칙이 순환됩니다. 방문자가 사용자 지정 규칙에 적합하지 않으면 <a href="/help/marketo/product-docs/demand-generation/dynamic-chat/setup-and-configuration/agent-management.md#live-chat-fallback" target="_blank">라이브 채팅 대체 메시지</a>를 받습니다.</td>
-  </tr> 
-  <tr> 
+  </tr>
+  <tr>
    <td><b>팀</b></td>
    <td>채팅을 받을 특정 팀을 선택하십시오. 이 옵션을 선택하면 해당 팀 내에 라운드 로빈이 할당됩니다.</td>
   </tr>
- </tbody> 
+ </tbody>
 </table>
 
 ## 라이브 채팅 알림 {#live-chat-notifications}
@@ -102,7 +102,7 @@ Windows용 [단계](https://support.microsoft.com/en-us/windows/change-notificat
 >
 >Dynamic Chat에 로그인하지 않은 경우 알림을 보내는 브라우저 알림을 설정할 수 있는 옵션도 있습니다.
 >
->* [Google Chrome](https://support.google.com/chrome/answer/3220216?hl=en&amp;co=GENIE.Platform%3DDesktop){target="_blank"}에서 브라우저 알림 사용
+>* [Google Chrome](https://support.google.com/chrome/answer/3220216?hl=en&co=GENIE.Platform%3DDesktop){target="_blank"}에서 브라우저 알림 사용
 >* [Mozilla Firefox](https://support.mozilla.org/en-US/kb/push-notifications-firefox){target="_blank"}에서 브라우저 알림 사용
 
 ### 실패한 작업 알림 {#failed-action-notifications}

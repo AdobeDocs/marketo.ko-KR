@@ -4,9 +4,9 @@ description: Smart Campaign에 통신 제한 적용 - Marketo 문서 - 제품 �
 title: Smart Campaign에 통신 제한 적용
 exl-id: b33885ba-6811-47ab-9db9-099d35ca49df
 feature: Smart Campaigns
-source-git-commit: fec5219c599c805328d77797d2636e549e489ca5
+source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
 workflow-type: tm+mt
-source-wordcount: '132'
+source-wordcount: '125'
 ht-degree: 0%
 
 ---
@@ -17,17 +17,17 @@ ht-degree: 0%
 >
 >[통신 제한 사용](/help/marketo/product-docs/administration/email-setup/enable-communication-limits.md){target="_blank"}
 
-누군가에게 하루에 여러 번, 또는 일주일에 너무 많은 이메일을 보내는 것은 좋은 생각이 아니야, 그렇지? 다행히도, Marketo Engage은 도움을 줄 수 있는 의사소통의 한계가 있습니다.
+누군가에게 하루에 여러 번, 또는 일주일에 너무 많은 이메일을 보내는 것은 좋은 생각이 아니야, 그렇지? 다행히도, Marketo Engage은 도울 수 있는 통신 한계가 있습니다.
 
 >[!NOTE]
 >
 >설정된 통신 제한을 초과하는 사용자가 있을 경우 Marketo은 비운영 이메일(운영 이메일은 항상 전송)을 차단합니다.
 
-1. 스마트 캠페인에서 **[!UICONTROL 일정]** 탭을 클릭한 다음 **[!UICONTROL 설정 편집]**&#x200B;을 클릭합니다.
+1. 스마트 캠페인에서 **[!UICONTROL Schedule]** 탭을 클릭한 다음 **[!UICONTROL Edit Settings]**&#x200B;을(를) 클릭합니다.
 
    ![](assets/apply-communication-limits-to-smart-campaign-1.png)
 
-1. **[!UICONTROL 작동하지 않는 전자 메일 차단]** 확인란을 선택한 다음 **[!UICONTROL 저장]**&#x200B;을 클릭합니다.
+1. **[!UICONTROL Block non-operational emails]** 확인란을 선택한 다음 **[!UICONTROL Save]**&#x200B;을(를) 클릭합니다.
 
    ![](assets/apply-communication-limits-to-smart-campaign-2.png)
 

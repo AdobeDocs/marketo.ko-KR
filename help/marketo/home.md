@@ -2,7 +2,7 @@
 title: Marketo 제품 문서
 description: 이 Marketo 제품 문서를 사용하여 마케팅을 한 단계 업그레이드하는 방법에 대해 알아보십시오. Marketo 자습서를 시작하고 다른 인기 있는 문서를 읽어 보십시오.
 exl-id: 4b97fe25-ce4d-446c-8b23-2566769f35ee
-source-git-commit: 3717cba468ed7f1a916fa0eefa2ff50708d95c34
+source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
 workflow-type: tm+mt
 source-wordcount: '152'
 ht-degree: 8%

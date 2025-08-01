@@ -3,16 +3,16 @@ description: 잠재 고객 관리 - Marketo 문서 - 제품 설명서
 title: OP-리드 관리
 feature: Programs
 exl-id: bde644fe-d40b-4c9c-925d-a0f522e6de01
-source-git-commit: c16081143588ebc0793f5b6e2630b58348e27124
+source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
 workflow-type: tm+mt
 source-wordcount: '265'
-ht-degree: 2%
+ht-degree: 4%
 
 ---
 
 # OP-리드 관리 {#op-lead-management}
 
-다음은 CRM에 대한 Marketo Engage 데이터베이스 내의 레코드를 관리하는 데 도움이 되도록 Marketo Engage 기본 프로그램을 활용하는 리드 관리 모범 사례 워크플로의 예입니다.
+다음은 Marketo Engage 기본 프로그램을 활용하여 CRM에 대한 Marketo Engage 데이터베이스 내의 레코드를 관리하는 데 도움이 되는 리드 관리 모범 사례 워크플로의 예입니다.
 
 >[!NOTE]
 >
@@ -22,58 +22,58 @@ ht-degree: 2%
 
 ## 채널 요약 {#channel-summary}
 
-<table style="table-layout:auto"> 
- <tbody> 
-  <tr> 
-   <th>채널</th> 
+<table style="table-layout:auto">
+ <tbody>
+  <tr>
+   <th>채널</th>
    <th>멤버십 상태</th>
    <th>Analytics 동작</th>
    <th>프로그램 유형</th>
-  </tr> 
-  <tr> 
-   <td>운영</td> 
+  </tr>
+  <tr>
+   <td>운영</td>
    <td>구성원</td>
    <td>운영</td>
    <td>기본</td>
   </tr>
- </tbody> 
+ </tbody>
 </table>
 
 ## 프로그램에는 다음 Assets이 포함되어 있습니다 {#program-contains-the-following-assets}
 
-<table style="table-layout:auto"> 
- <tbody> 
-  <tr> 
-   <th>유형</th> 
+<table style="table-layout:auto">
+ <tbody>
+  <tr>
+   <th>유형</th>
    <th>템플릿 이름</th>
    <th>에셋 이름</th>
-  </tr> 
-  <tr> 
-   <td>스마트 캠페인</td> 
+  </tr>
+  <tr>
+   <td>스마트 캠페인</td>
    <td> </td>
    <td>01 - 새 사용자를 CRM에 동기화</td>
   </tr>
-  <tr> 
-   <td>스마트 캠페인</td> 
+  <tr>
+   <td>스마트 캠페인</td>
    <td> </td>
    <td>02 - 적격 마케팅</td>
   </tr>
-  <tr> 
-   <td>이메일</td> 
+  <tr>
+   <td>이메일</td>
    <td><a href="/help/marketo/product-docs/core-marketo-concepts/programs/program-library/quick-start-email-template.md" target="_blank">빠른 시작 이메일 템플릿</a></td>
    <td>01 - 이메일 - 경고 - MQL</td>
   </tr>
-  <tr> 
-   <td>폴더</td> 
+  <tr>
+   <td>폴더</td>
    <td> </td>
    <td>캠페인</td>
   </tr>
-  <tr> 
-   <td>폴더</td> 
+  <tr>
+   <td>폴더</td>
    <td> </td>
    <td>이메일 경고</td>
   </tr>
- </tbody> 
+ </tbody>
 </table>
 
 ![](assets/op-lead-management-1.png)

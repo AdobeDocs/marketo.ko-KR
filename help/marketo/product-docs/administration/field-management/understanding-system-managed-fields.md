@@ -4,7 +4,7 @@ description: 시스템 관리 필드 이해 - Marketo 문서 - 제품 설명서
 title: 시스템 관리 필드 이해
 exl-id: 4a58d41f-c2f5-4bcc-93ef-10a31e5475fd
 feature: Field Management
-source-git-commit: fc25a088005ee1d552f6e61e2fa7b953e2fde862
+source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
 workflow-type: tm+mt
 source-wordcount: '523'
 ht-degree: 8%
@@ -97,7 +97,7 @@ ht-degree: 8%
 <tbody>
   <tr>
     <td>Salesforce.com</td>
-    <td>Salesforce 동기화에서 개인을 발견했습니다.</td>
+    <td>Salesforce 동기화에서 사용자가 발견되었습니다.</td>
   </tr>
   <tr>
     <td>웹 페이지 방문 횟수</td>
@@ -121,19 +121,19 @@ ht-degree: 8%
   </tr>
   <tr>
     <td>영업 이메일</td>
-    <td>Sales Insight Email Add-In을 통해 Email을 받게 됨</td>
+    <td>영업 Insight 이메일 추가 기능을 통해 개인에게 이메일을 보냈습니다.</td>
   </tr>
   <tr>
     <td>개인</td>
-    <td>개인이 Salesforce에서 사용자로 동기화됨</td>
+    <td>사용자가 Salesforce에서 사용자로 동기화됨</td>
   </tr>
   <tr>
     <td>연락처</td>
     <td>사용자가 Webhook에서 연락처로 동기화되었습니다.</td>
   </tr>
   <tr>
-    <td>Munchkin API</td>
-    <td>Marketo Engage Munchkin API에 의해 개인이 검색됨</td>
+    <td>MUNCHKIN API</td>
+    <td>Marketo Engage Munchkin API에 의해 사람 검색됨</td>
   </tr>
   <tr>
     <td>소셜 앱</td>
@@ -173,18 +173,18 @@ ht-degree: 8%
   </tr>
   <tr>
     <td>영업 이메일</td>
-    <td>Sales Insight Email Add-In을 통해 Email을 받게 됨</td>
+    <td>영업 Insight 이메일 추가 기능을 통해 개인에게 이메일을 보냈습니다.</td>
   </tr>
   <tr>
     <td>웹 서비스 API</td>
-    <td>개인이 SOAP/REST API를 통해 생성됨</td>
+    <td>사용자는 SOAP/REST API를 통해 생성되었습니다.</td>
   </tr>
   <tr>
     <td>새 사용자</td>
     <td>사용자가 데이터베이스에 수동으로 입력되었습니다.</td>
   </tr>
   <tr>
-    <td>Munchkin API</td>
+    <td>MUNCHKIN API</td>
     <td>Marketo의 Munchkin API를 통해 사람이 됨</td>
   </tr>
   <tr>

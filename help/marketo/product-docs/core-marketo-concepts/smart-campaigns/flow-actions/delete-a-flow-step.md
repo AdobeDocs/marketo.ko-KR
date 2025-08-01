@@ -4,9 +4,9 @@ description: 흐름 단계 삭제 - Marketo 문서 - 제품 설명서
 title: 흐름 단계 삭제
 exl-id: 039a1e80-48cc-47f9-9e1a-459f89bf0730
 feature: Smart Campaigns
-source-git-commit: 12f2399859c784095cc2c1df772c66c649106ba3
+source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
 workflow-type: tm+mt
-source-wordcount: '369'
+source-wordcount: '367'
 ht-degree: 0%
 
 ---
@@ -19,11 +19,11 @@ ht-degree: 0%
 
 먼저 기본 사항을 다루겠습니다. 다음은 Smart Campaign에서 원하지 않는 흐름 단계를 제거하는 방법입니다.
 
-1. 스마트 캠페인 **[!UICONTROL 흐름]**&#x200B;에서 **X** 아이콘을 클릭하여 흐름 단계를 삭제합니다.
+1. 스마트 캠페인 **[!UICONTROL Flow]**&#x200B;에서 **X** 아이콘을 클릭하여 흐름 단계를 삭제합니다.
 
    ![](assets/delete-a-flow-step-1.png)
 
-1. **[!UICONTROL 삭제]**&#x200B;를 클릭합니다.
+1. **[!UICONTROL Delete]**&#x200B;을(를) 클릭합니다.
 
    ![](assets/delete-a-flow-step-2.png)
 
@@ -42,8 +42,8 @@ ht-degree: 0%
    1. **이미 대기 단계 없이 실행되었습니다**. 실행 후 캠페인이 휴면 상태이므로 영향을 받는 사람이 없습니다.
    1. **현재 실행 중입니다**. 변경으로 인해 삭제 시기 및 세부 사항에 따라 예기치 않은 동작이 발생할 수 있습니다. 실행 중인 일괄 처리 캠페인은 편집하지 않는 것이 좋습니다. 응급 상황의 경우 [실행 중인 Smart Campaign을 중단](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/using-smart-campaigns/abort-a-smart-campaign.md){target="_blank"}하는 방법을 알아보세요.
 
-   1. **이미 대기 단계로 실행되었습니다.** 이 항목에 대한 몇 가지 세부 정보.\
-      대기 단계에 들어가면 해당 기간 및 돌아갈 NUMBER STEP을 메모합니다. 아래 예를 참조하십시오.
+   1. **이미 대기 단계로 실행되었습니다.** 이 항목에 대한 몇 가지 세부 정보.
+대기 단계에 들어가면 해당 기간 및 돌아갈 NUMBER STEP을 메모합니다. 아래 예를 참조하십시오.
 
    **스마트 캠페인 트리거**
 

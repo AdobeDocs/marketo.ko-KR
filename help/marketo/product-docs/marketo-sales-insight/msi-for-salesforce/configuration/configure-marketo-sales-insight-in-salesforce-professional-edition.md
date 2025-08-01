@@ -4,7 +4,7 @@ description: Salesforce Professional Edition에서 Marketo Sales Insight을 구�
 title: Salesforce Professional Edition에서 Marketo Sales Insight 구성
 exl-id: fae63560-0bb3-46a9-94a3-cc27c1aa363e
 feature: Marketo Sales Insights
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
 workflow-type: tm+mt
 source-wordcount: '672'
 ht-degree: 1%
@@ -45,7 +45,7 @@ ht-degree: 1%
    >
    >API 비밀 키는 조직의 암호와 같으며 안전해야 합니다.
 
-1. 자격 증명을 채우려면 **[!UICONTROL View]** 패널에서 _[!UICONTROL Rest API Configuration]_&#x200B;을(를) 클릭합니다.
+1. 자격 증명을 채우려면 **[!UICONTROL View]** 패널에서 _[!UICONTROL Rest API Configuration]_을(를) 클릭합니다.
 
    ![](assets/configure-marketo-sales-insight-in-salesforce-professional-edition-4-1.png)
 

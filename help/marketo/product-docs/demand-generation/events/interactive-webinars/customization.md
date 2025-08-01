@@ -3,9 +3,9 @@ description: 대화형 웨비나 사용자 지정 - Marketo 문서 - 제품 설�
 title: 대화형 웨비나 사용자 지정
 feature: Interactive Webinars
 exl-id: 52933cb6-7bce-4c81-ba3f-68eaf211e8eb
-source-git-commit: 1839ccb646e775b67efa8de7d2d2bf3dbbbefa72
+source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
 workflow-type: tm+mt
-source-wordcount: '740'
+source-wordcount: '715'
 ht-degree: 0%
 
 ---
@@ -25,13 +25,13 @@ ht-degree: 0%
 
 ## 권한 부여 {#grant-permissions}
 
-조직의 사용자가 대화형 웨비나를 사용자 정의할 수 있으려면 먼저 Marketo Engage 관리자가 원하는 역할에 대한 액세스 권한을 추가해야 합니다.
+조직의 사용자가 대화형 웨비나를 사용자 정의할 수 있으려면 먼저 Marketo Engage 관리자가 원하는 역할에 액세스 권한을 추가해야 합니다.
 
-1. Marketo Engage에서 **[!UICONTROL 관리자]**&#x200B;를 클릭합니다.
+1. Marketo Engage에서 **[!UICONTROL Admin]**&#x200B;을(를) 클릭합니다.
 
    ![](assets/interactive-webinars-customization-1.png)
 
-1. **[!UICONTROL 사용자 및 역할]**&#x200B;을 클릭한 다음 **[!UICONTROL 역할]** 탭을 클릭합니다.
+1. **[!UICONTROL Users & Roles]**&#x200B;을(를) 클릭한 다음 **[!UICONTROL Roles]** 탭을 클릭합니다.
 
    ![](assets/interactive-webinars-customization-2.png)
 
@@ -39,11 +39,11 @@ ht-degree: 0%
 
    ![](assets/interactive-webinars-customization-3.png)
 
-1. **[!UICONTROL Design Studio 액세스]**&#x200B;를 열려면 클릭하세요.
+1. **[!UICONTROL Access Design Studio]**&#x200B;을(를) 열려면 클릭하세요.
 
    ![](assets/interactive-webinars-customization-4.png)
 
-1. **[!UICONTROL 대화형 웨비나 사용자 지정 액세스]** 확인란을 선택하십시오.
+1. **[!UICONTROL Access Interactive Webinars Customization]** 확인란을 선택합니다.
 
    ![](assets/interactive-webinars-customization-5.png)
 
@@ -81,11 +81,11 @@ ht-degree: 0%
 
    HEX 옵션을 사용하여 HEX 색상 코드를 입력할 수도 있습니다.
 
-   회의실 테마를 변경하려면 **[!UICONTROL 템플릿 보기]**&#x200B;를 선택하세요.
+   회의실 테마를 변경하려면 **[!UICONTROL View templates]**&#x200B;을(를) 선택하세요.
 
    변경 후 미리보기에서 로고와 색상을 확인할 수 있습니다.
 
-1. 변경 내용을 저장하려면 **[!UICONTROL 적용]**&#x200B;을 선택하십시오. 기본 설정으로 재설정하려면 **[!UICONTROL 기본값으로 재설정]**&#x200B;을 클릭합니다.
+1. 변경 내용을 저장하려면 **[!UICONTROL Apply]**&#x200B;을(를) 선택하십시오. 기본 설정으로 재설정하려면 **[!UICONTROL Reset to default]**&#x200B;을(를) 클릭합니다.
 
    ![](assets/interactive-webinars-customization-10.png)
 
@@ -103,7 +103,7 @@ ht-degree: 0%
    >
    >업로드된 이미지는 시작, 종료 및 대기 화면에 적용됩니다.
 
-1. 변경 내용을 저장하려면 **[!UICONTROL 적용]**&#x200B;을 선택하십시오. 기본 설정으로 재설정하려면 **[!UICONTROL 기본값으로 재설정]**&#x200B;을 클릭합니다.
+1. 변경 내용을 저장하려면 **[!UICONTROL Apply]**&#x200B;을(를) 선택하십시오. 기본 설정으로 재설정하려면 **[!UICONTROL Reset to default]**&#x200B;을(를) 클릭합니다.
 
 ### 가상 비디오 배경 사용자 지정 {#Customize-virtual-video-backgrounds}
 
@@ -123,7 +123,7 @@ ht-degree: 0%
 
 [미리 보기] 화면의 슬라이더를 사용하여 확대하거나 축소하여 사용자가 카메라에 가깝거나 먼 경우 가상 배경이 어떻게 보이는지 테스트할 수 있습니다. 백그라운드에 텍스트가 있는 경우 계속 표시되도록 하는 데 도움이 됩니다.
 
-1. 변경 내용을 저장하려면 **[!UICONTROL 적용]**&#x200B;을 선택하십시오. 기본 설정으로 재설정하려면 **[!UICONTROL 기본값으로 재설정]**&#x200B;을 클릭합니다.
+1. 변경 내용을 저장하려면 **[!UICONTROL Apply]**&#x200B;을(를) 선택하십시오. 기본 설정으로 재설정하려면 **[!UICONTROL Reset to default]**&#x200B;을(를) 클릭합니다.
 
 **Adobe Connect 배경**
 

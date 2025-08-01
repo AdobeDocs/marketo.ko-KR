@@ -3,10 +3,10 @@ description: WR-YYYY-MM-Web 요청 프로그램 - Marketo 문서 - 제품 설명
 title: WR-YYYY-MM-Web 요청 프로그램
 feature: Programs
 exl-id: 4acaa2d0-3329-4027-acbd-ae2e0ec6f7c5
-source-git-commit: c16081143588ebc0793f5b6e2630b58348e27124
+source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
 workflow-type: tm+mt
 source-wordcount: '400'
-ht-degree: 3%
+ht-degree: 6%
 
 ---
 
@@ -18,123 +18,123 @@ Marketo Engage 기본 프로그램을 활용하는 연락처 요청, 견적 요�
 
 ## 채널 요약 {#channel-summary}
 
-<table style="table-layout:auto"> 
- <tbody> 
-  <tr> 
-   <th>채널</th> 
+<table style="table-layout:auto">
+ <tbody>
+  <tr>
+   <th>채널</th>
    <th>멤버십 상태</th>
    <th>Analytics 동작</th>
    <th>프로그램 유형</th>
-  </tr> 
-  <tr> 
-   <td>웹 요청</td> 
+  </tr>
+  <tr>
+   <td>웹 요청</td>
    <td>01 - 참여 - 성공</td>
    <td>포함</td>
    <td>기본</td>
   </tr>
- </tbody> 
+ </tbody>
 </table>
 
 ## 프로그램에는 다음 Assets이 포함되어 있습니다 {#program-contains-the-following-assets}
 
-<table style="table-layout:auto"> 
- <tbody> 
-  <tr> 
-   <th>유형</th> 
+<table style="table-layout:auto">
+ <tbody>
+  <tr>
+   <th>유형</th>
    <th>템플릿 이름</th>
    <th>에셋 이름</th>
   </tr>
-  <tr> 
-   <td>양식</td> 
+  <tr>
+   <td>양식</td>
    <td> </td>
    <td>FM-WebRequestForm</td>
   </tr>
-  <tr> 
-   <td>이메일</td> 
+  <tr>
+   <td>이메일</td>
    <td><a href="/help/marketo/product-docs/core-marketo-concepts/programs/program-library/quick-start-email-template.md" target="_blank">빠른 시작 이메일 템플릿</a></td>
    <td>경고-웹 요청</td>
   </tr>
-  <tr> 
-   <td>랜딩 페이지</td> 
+  <tr>
+   <td>랜딩 페이지</td>
    <td><a href="/help/marketo/product-docs/core-marketo-concepts/programs/program-library/quick-start-landing-page-template.md" target="_blank">빠른 시작 LP 템플릿</a></td>
    <td>01 - LP - 요청</td>
   </tr>
-  <tr> 
-   <td>랜딩 페이지</td> 
+  <tr>
+   <td>랜딩 페이지</td>
    <td><a href="/help/marketo/product-docs/core-marketo-concepts/programs/program-library/quick-start-landing-page-template.md" target="_blank">빠른 시작 LP 템플릿</a></td>
    <td>02 - LP - 감사합니다.</td>
   </tr>
-  <tr> 
-   <td>로컬 보고서</td> 
+  <tr>
+   <td>로컬 보고서</td>
    <td> </td>
    <td>랜딩 페이지 성능</td>
   </tr>
-   <tr> 
-   <td>스마트 캠페인</td> 
+   <tr>
+   <td>스마트 캠페인</td>
    <td> </td>
    <td>웹 요청의 새 사용자</td>
   </tr>
-   <tr> 
-   <td>스마트 캠페인</td> 
+   <tr>
+   <td>스마트 캠페인</td>
    <td> </td>
    <td>웨비나의 새 사용자</td>
   </tr>
-  <tr> 
-   <td>폴더</td> 
+  <tr>
+   <td>폴더</td>
    <td> </td>
-   <td>Assets - 모든 크리에이티브 에셋 보유 
+   <td>Assets - 모든 크리에이티브 에셋 보유
 <br/>(경고 및 랜딩 페이지의 하위 폴더)</td>
   </tr>
-  <tr> 
-   <td>폴더</td> 
+  <tr>
+   <td>폴더</td>
    <td> </td>
    <td>캠페인 - 모든 스마트 캠페인 저장</td>
   </tr>
-  <tr> 
-   <td>폴더</td> 
+  <tr>
+   <td>폴더</td>
    <td> </td>
    <td>보고서</td>
   </tr>
- </tbody> 
+ </tbody>
 </table>
 
 ![](assets/wr-yyyy-mm-web-request-program-1.png)
 
 ## 내 토큰이 포함됨 {#my-tokens-included}
 
-<table style="table-layout:auto"> 
- <tbody> 
-  <tr> 
-   <th>토큰 유형</th> 
+<table style="table-layout:auto">
+ <tbody>
+  <tr>
+   <th>토큰 유형</th>
    <th>토큰 이름</th>
    <th>값</th>
   </tr>
-  <tr> 
-   <td>텍스트</td> 
+  <tr>
+   <td>텍스트</td>
    <td><code>{{my.Request-Type}}</code></td>
    <td>연락처</td>
   </tr>
-  <tr> 
-   <td>텍스트</td> 
+  <tr>
+   <td>텍스트</td>
    <td><code>{{my.ALERT-FromAddress}}</code></td>
    <td>PlaceholderFrom.email@mydomain.com</td>
   </tr>
-  <tr> 
-   <td>텍스트</td> 
+  <tr>
+   <td>텍스트</td>
    <td><code>{{my.ALERT-FromName}}</code></td>
    <td><code><--My From Name Here--></code></td>
   </tr>
-  <tr> 
-   <td>텍스트</td> 
+  <tr>
+   <td>텍스트</td>
    <td><code>{{my.ALERT-ReplyToAddress}}</code></td>
    <td>reply-to.email@mydomain.com</td>
   </tr>
-  <tr> 
-   <td>텍스트</td> 
+  <tr>
+   <td>텍스트</td>
    <td><code>{{my.PageURL-ThankYou}}</code></td>
    <td>My.ThankYouPageURL?http://</td>
   </tr>
- </tbody> 
+ </tbody>
 </table>
 
 ## 충돌 규칙 {#conflict-rules}

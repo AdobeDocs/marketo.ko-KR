@@ -3,7 +3,7 @@ description: 릴리스 노트 - 2021년 5월 - Marketo 문서 - 제품 설명서
 title: 릴리스 정보 - 2021년 5월
 exl-id: e3de60a2-17bd-4760-848e-6e931ad85b3c
 feature: Release Information
-source-git-commit: ecd225af3ecfd7cb9159faf5a9d384d47ee6312c
+source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
 workflow-type: tm+mt
 source-wordcount: '1436'
 ht-degree: 0%
@@ -64,7 +64,7 @@ ht-degree: 0%
 
 * **일괄 리드 가져오기 API**: 일괄 리드 가져오기 및 가져오기 작업에 필요한 리소스를 제어합니다. 이 향상된 기능은 대량 리드 가져오기 프로세스 중에 리드와 회사 간의 연결을 만듭니다. 데이터 작업의 효율성 및 효율성을 높이고 API 호출 시 사용을 줄입니다.
 
-* [!DNL Microsoft Dynamics Online] 고객을 위한 **웹 API 기반 통합**: [!DNL MS Dynamics] 웹 API는 버전 8.0 REST 프로토콜과 함께 도입되었으며 OData(Open Data Protocol) v4를 구현합니다. OData는 풍부한 데이터에 대한 RESTful 서비스를 구축하고 소비하기 위한 OASIS(Organization for the Advancement of Structured Information Standards) 표준입니다. 이 메서드를 사용하여 [!DNL Microsoft Dynamics]과(와) 통합해야 하는 Adobe Marketo Engage 고객은 현재 SOAP(Simple Object Access Protocol)에서 웹 API 기반 연결로 마이그레이션되고 있습니다.
+* **고객을 위한 [!DNL Microsoft Dynamics Online]웹 API 기반 통합**: [!DNL MS Dynamics] 웹 API는 버전 8.0 REST 프로토콜과 함께 도입되었으며 OData(Open Data Protocol) v4를 구현합니다. OData는 풍부한 데이터에 대한 RESTful 서비스를 구축하고 소비하기 위한 OASIS(Organization for the Advancement of Structured Information Standards) 표준입니다. 이 메서드를 사용하여 [!DNL Microsoft Dynamics]과(와) 통합해야 하는 Adobe Marketo Engage 고객은 현재 SOAP(Simple Object Access Protocol)에서 웹 API 기반 연결로 마이그레이션되고 있습니다.
 
 ## 마케팅 데이터 환경 {#marketing-data-environment}
 

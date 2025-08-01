@@ -4,7 +4,7 @@ description: 릴리스 노트 - 2012년 6월 - Marketo 문서 - 제품 설명서
 title: 릴리스 노트 - 2012년 6월
 exl-id: c22eda86-da7a-4c76-9cea-1ce23ff0f3e8
 feature: Release Information
-source-git-commit: ecd225af3ecfd7cb9159faf5a9d384d47ee6312c
+source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
 workflow-type: tm+mt
 source-wordcount: '657'
 ht-degree: 0%
@@ -69,7 +69,7 @@ ht-degree: 0%
 
 ![](assets/image2014-9-23-10-3a25-3a57.png)
 
-## Design Studio에서 [!UICONTROL Thumbnails]&#x200B;(으)로 [!UICONTROL View] {#view-as-thumbnails-in-design-studio}
+## Design Studio에서 [!UICONTROL View]&#x200B;(으)로 [!UICONTROL Thumbnails] {#view-as-thumbnails-in-design-studio}
 
 이미지 목록에서 썸네일 보기로 전환합니다!
 

@@ -4,7 +4,7 @@ description: 모델 성능 분석에 대한 사용자 정의 필드 그룹 활�
 title: 모델 성능 분석에 대한 사용자 정의 필드 그룹 활성화(잠재 고객)
 exl-id: 417fd74f-d8f5-477b-b633-0fdfdd68b22b
 feature: Reporting, Revenue Cycle Analytics
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
 workflow-type: tm+mt
 source-wordcount: '325'
 ht-degree: 0%
@@ -17,27 +17,27 @@ ht-degree: 0%
 >
 >Marketo의 Field Organizer를 통해 보고할 표준 또는 사용자 지정 필드를 그룹으로 분류합니다. 자세한 내용은 [필드 구성 관리자를 통해 사용자 지정 필드 그룹 만들기](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-tools/field-organizers/create-custom-field-groups-using-the-field-organizer.md)를 참조하십시오.
 
-<table> 
- <tbody> 
-  <tr> 
-   <td colspan="3" rowspan="1"><p align="center"><strong>사용자 정의 필드 그룹을 활성화하면 수익 주기 탐색기의 여러 분석 영역에 어떤 영향을 줍니까?</strong></p></td> 
-  </tr> 
-  <tr> 
-   <td colspan="1" rowspan="1"><p><strong>그러면...</strong></p></td> 
-   <td colspan="1" rowspan="1"><p><strong><span class="uicontrol">모델 성능 분석(잠재 고객)</span> 영역에 미치는 영향</strong></p></td> 
-   <td colspan="1" rowspan="1"><p><strong>잠재 고객 분석, 캠페인 분석 및 영업 기회 분석 영역에 미치는 영향</strong></p></td> 
-  </tr> 
-  <tr> 
-   <td colspan="1" rowspan="1"><p><strong>표준 리드 또는 회사 필드와 연결된 사용자 정의 필드 그룹을 활성화하면 어떻게 됩니까?</strong></p></td> 
-   <td colspan="1" rowspan="1"><p>사용자 지정 필드 그룹이 <span class="uicontrol">모델 성능 분석(잠재 고객)</span> 영역에서 보고할 수 있도록 설정되었습니다.</p></td> 
-   <td colspan="1" rowspan="1"><p>영향 없음</p></td> 
-  </tr> 
-  <tr> 
-   <td colspan="1" rowspan="1"><p><strong>사용자 정의 개인 또는 회사 필드와 연결된 사용자 정의 필드 그룹을 활성화하면 어떻게 됩니까?</strong></p></td> 
-   <td colspan="1" rowspan="1"><p>사용자 지정 필드 그룹이 <span class="uicontrol">모델 성능 분석(잠재 고객)</span> 영역에서 보고할 수 있도록 설정되었습니다.</p></td> 
-   <td colspan="1" rowspan="1"><p>사용자 정의 필드 자체는 잠재 고객 분석, 캠페인 분석 및 기회 분석 영역에서 보고할 수 있습니다.</p><p><strong>참고:</strong> 사용자 지정 필드 그룹은 이러한 분석 영역에서 지원되지 않으므로 그룹 연결이 수익 주기 탐색기에 표시되지 않습니다.<em>사용자 지정 필드만</em>.</p></td> 
-  </tr> 
- </tbody> 
+<table>
+ <tbody>
+  <tr>
+   <td colspan="3" rowspan="1"><p align="center"><strong>사용자 정의 필드 그룹을 활성화하면 수익 주기 탐색기의 여러 분석 영역에 어떤 영향을 줍니까?</strong></p></td>
+  </tr>
+  <tr>
+   <td colspan="1" rowspan="1"><p><strong>그러면...</strong></p></td>
+   <td colspan="1" rowspan="1"><p><strong><span class="uicontrol">모델 성능 분석(잠재 고객)</span> 영역에 미치는 영향</strong></p></td>
+   <td colspan="1" rowspan="1"><p><strong>잠재 고객 분석, 캠페인 분석 및 영업 기회 분석 영역에 미치는 영향</strong></p></td>
+  </tr>
+  <tr>
+   <td colspan="1" rowspan="1"><p><strong>표준 리드 또는 회사 필드와 연결된 사용자 정의 필드 그룹을 활성화하면 어떻게 됩니까?</strong></p></td>
+   <td colspan="1" rowspan="1"><p>사용자 지정 필드 그룹이 <span class="uicontrol">모델 성능 분석(잠재 고객)</span> 영역에서 보고할 수 있도록 설정되었습니다.</p></td>
+   <td colspan="1" rowspan="1"><p>영향 없음</p></td>
+  </tr>
+  <tr>
+   <td colspan="1" rowspan="1"><p><strong>사용자 정의 개인 또는 회사 필드와 연결된 사용자 정의 필드 그룹을 활성화하면 어떻게 됩니까?</strong></p></td>
+   <td colspan="1" rowspan="1"><p>사용자 지정 필드 그룹이 <span class="uicontrol">모델 성능 분석(잠재 고객)</span> 영역에서 보고할 수 있도록 설정되었습니다.</p></td>
+   <td colspan="1" rowspan="1"><p>사용자 정의 필드 자체는 잠재 고객 분석, 캠페인 분석 및 기회 분석 영역에서 보고할 수 있습니다.</p><p><strong>참고:</strong> 사용자 지정 필드 그룹은 이러한 분석 영역에서 지원되지 않으므로 그룹 연결이 수익 주기 탐색기에 표시되지 않습니다.<em>사용자 지정 필드만</em>.</p></td>
+  </tr>
+ </tbody>
 </table>
 
 [!UICONTROL Model Performance Analysis (Leads)] 영역에서 보고할 사용자 지정 필드 그룹을 활성화하려면 다음 단계를 따르십시오.

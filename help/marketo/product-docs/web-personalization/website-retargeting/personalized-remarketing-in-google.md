@@ -4,7 +4,7 @@ description: Google의 개인화된 리마케팅 - Marketo 문서 - 제품 설�
 title: Google의 개인화된 리마케팅
 exl-id: cc733f43-161d-41e4-afdf-8b5217700810
 feature: Web Personalization
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
 workflow-type: tm+mt
 source-wordcount: '225'
 ht-degree: 2%
@@ -34,7 +34,7 @@ ht-degree: 2%
 
    ![](assets/image2015-1-15-17-3a32-3a4.png)
 
-1. 대상 빌더에서 **[!UICONTROL Sequences]**, **[!UICONTROL Find the RTP Data]**, [!UICONTROL Custom Dimensions] 아래의 [!UICONTROL UICONTROL [ !] Custom Variables] 및 [!UICONTROL Events]을(를) 클릭합니다.
+1. 대상 빌더에서 **[!UICONTROL Sequences]**, **[!UICONTROL Find the RTP Data]**, [!UICONTROL Custom Dimensions] 아래의 [!UICONTROL [!]UICONTROL Custom Variables] 및 [!UICONTROL Events]을(를) 클릭합니다.
 
 >[!TIP]
 >

@@ -3,10 +3,10 @@ description: OP-데이터 관리 - Marketo 문서 - 제품 설명서
 title: OP-데이터 관리
 feature: Programs
 exl-id: ac4a522b-37a7-4080-83d6-fbc2203a568b
-source-git-commit: c16081143588ebc0793f5b6e2630b58348e27124
+source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
 workflow-type: tm+mt
 source-wordcount: '319'
-ht-degree: 2%
+ht-degree: 14%
 
 ---
 
@@ -18,153 +18,153 @@ ht-degree: 2%
 
 ## 채널 요약 {#channel-summary}
 
-<table style="table-layout:auto"> 
- <tbody> 
-  <tr> 
-   <th>채널</th> 
+<table style="table-layout:auto">
+ <tbody>
+  <tr>
+   <th>채널</th>
    <th>멤버십 상태</th>
    <th>Analytics 동작</th>
    <th>프로그램 유형</th>
-  </tr> 
-  <tr> 
-   <td>운영</td> 
+  </tr>
+  <tr>
+   <td>운영</td>
    <td>구성원</td>
    <td>운영</td>
    <td>기본</td>
   </tr>
- </tbody> 
+ </tbody>
 </table>
 
 ## 프로그램에는 다음 Assets이 포함되어 있습니다 {#program-contains-the-following-assets}
 
-<table style="table-layout:auto"> 
- <tbody> 
-  <tr> 
-   <th>유형</th> 
+<table style="table-layout:auto">
+ <tbody>
+  <tr>
+   <th>유형</th>
    <th>템플릿 이름</th>
    <th>에셋 이름</th>
   </tr>
-  <tr> 
-   <td>스마트 캠페인</td> 
+  <tr>
+   <td>스마트 캠페인</td>
    <td> </td>
    <td>국가 정상화 - 미국</td>
   </tr>
-  <tr> 
-   <td>스마트 캠페인</td> 
+  <tr>
+   <td>스마트 캠페인</td>
    <td> </td>
    <td>Normalize 국가 - 영국</td>
   </tr>
-  <tr> 
-   <td>스마트 캠페인</td> 
+  <tr>
+   <td>스마트 캠페인</td>
    <td> </td>
    <td>차단 목록에 추가된을 True로 설정</td>
   </tr>
-  <tr> 
-   <td>스마트 캠페인</td> 
+  <tr>
+   <td>스마트 캠페인</td>
    <td> </td>
    <td>파트너임을 True로 설정</td>
   </tr>
-  <tr> 
-   <td>스마트 캠페인</td> 
+  <tr>
+   <td>스마트 캠페인</td>
    <td> </td>
    <td>목록 가져오기</td>
   </tr>
-  <tr> 
-   <td>스마트 캠페인</td> 
+  <tr>
+   <td>스마트 캠페인</td>
    <td> </td>
    <td>라이브 이벤트</td>
   </tr>
-  <tr> 
-   <td>스마트 캠페인</td> 
+  <tr>
+   <td>스마트 캠페인</td>
    <td> </td>
    <td>온라인 Advertising</td>
   </tr>
-  <tr> 
-   <td>스마트 캠페인</td> 
+  <tr>
+   <td>스마트 캠페인</td>
    <td> </td>
    <td>무역 박람회</td>
   </tr>
-  <tr> 
-   <td>스마트 캠페인</td> 
+  <tr>
+   <td>스마트 캠페인</td>
    <td> </td>
    <td>웹 컨텐츠</td>
   </tr>
-  <tr> 
-   <td>스마트 캠페인</td> 
+  <tr>
+   <td>스마트 캠페인</td>
    <td> </td>
    <td>웹 요청</td>
   </tr>
-  <tr> 
-   <td>스마트 캠페인</td> 
+  <tr>
+   <td>스마트 캠페인</td>
    <td> </td>
    <td>웨비나</td>
   </tr>
-  <tr> 
-   <td>스마트 캠페인</td> 
+  <tr>
+   <td>스마트 캠페인</td>
    <td> </td>
    <td>목록 가져오기에서 새 사용자</td>
   </tr>
-  <tr> 
-   <td>스마트 캠페인</td> 
+  <tr>
+   <td>스마트 캠페인</td>
    <td> </td>
    <td>라이브 이벤트에서 새 사용자</td>
   </tr>
-  <tr> 
-   <td>스마트 캠페인</td> 
+  <tr>
+   <td>스마트 캠페인</td>
    <td> </td>
    <td>Online Advertising의 새 사용자</td>
   </tr>
-  <tr> 
-   <td>스마트 캠페인</td> 
+  <tr>
+   <td>스마트 캠페인</td>
    <td> </td>
    <td>무역 박람회의 새로운 사람</td>
   </tr>
-   <tr> 
-   <td>스마트 캠페인</td> 
+   <tr>
+   <td>스마트 캠페인</td>
    <td> </td>
    <td>웹 콘텐츠의 새 사용자</td>
   </tr>
-   <tr> 
-   <td>스마트 캠페인</td> 
+   <tr>
+   <td>스마트 캠페인</td>
    <td> </td>
    <td>웹 요청의 새 사용자</td>
   </tr>
-   <tr> 
-   <td>스마트 캠페인</td> 
+   <tr>
+   <td>스마트 캠페인</td>
    <td> </td>
    <td>웨비나의 새 사용자</td>
   </tr>
-  <tr> 
-   <td>폴더</td> 
+  <tr>
+   <td>폴더</td>
    <td> </td>
    <td>개인 Source 야간 일괄 처리(높은 트래픽 인스턴스의 경우)</td>
   </tr>
-  <tr> 
-   <td>폴더</td> 
+  <tr>
+   <td>폴더</td>
    <td> </td>
    <td>개인 Source 트리거됨(낮은 트래픽 인스턴스의 경우)</td>
   </tr>
-  <tr> 
-   <td>폴더</td> 
+  <tr>
+   <td>폴더</td>
    <td> </td>
    <td>사용자 Source 캡처</td>
   </tr>
-  <tr> 
-   <td>폴더</td> 
+  <tr>
+   <td>폴더</td>
    <td> </td>
    <td>표준화</td>
   </tr>
-  <tr> 
-   <td>폴더</td> 
+  <tr>
+   <td>폴더</td>
    <td> </td>
    <td>기록 관리</td>
   </tr>
-  <tr> 
-   <td>폴더</td> 
+  <tr>
+   <td>폴더</td>
    <td> </td>
    <td>차단 목록</td>
   </tr>
- </tbody> 
+ </tbody>
 </table>
 
 ![](assets/op-data-management-1.png)

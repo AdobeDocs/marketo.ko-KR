@@ -4,7 +4,7 @@ description: 보고서 시간대 변경 - Marketo 문서 - 제품 설명서
 title: 보고서 시간대 변경
 exl-id: 096e78c5-1a63-4a53-bed0-7cf2e40c4aee
 feature: Reporting
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
 workflow-type: tm+mt
 source-wordcount: '141'
 ht-degree: 0%
@@ -43,7 +43,7 @@ ht-degree: 0%
    >
    >특정 날짜를 설정하려면 드롭다운 메뉴에서 **[!UICONTROL Custom]**&#x200B;을(를) 선택하고 **[!UICONTROL From]** 및 **[!UICONTROL To]** 일정 필드에 날짜를 입력하십시오.
 
-   선택한 시간대에 대한 보고서를 보려면 **[!UICONTROL Report]** 탭을 클릭하십시오.\
+   선택한 시간대에 대한 보고서를 보려면 **[!UICONTROL Report]** 탭을 클릭하십시오.
    ![](assets/image2017-3-27-9-3a59-3a1.png)
 
    >[!MORELIKETHIS]

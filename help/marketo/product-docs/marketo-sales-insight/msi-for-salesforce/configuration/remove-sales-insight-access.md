@@ -3,7 +3,7 @@ description: Sales Insight 액세스 제거 - Marketo 문서 - 제품 설명서
 title: 판매 Insight 액세스 제거
 exl-id: 3cda112a-524e-469b-a222-c0192b2f5301
 feature: Marketo Sales Insights
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
 workflow-type: tm+mt
 source-wordcount: '329'
 ht-degree: 3%
@@ -20,53 +20,53 @@ ht-degree: 3%
 
 **개체 설정**
 
-<table> 
- <tbody> 
- <tr> 
-   <td>BestBetsCache</td> 
-   <td>읽기, 만들기, 편집, 삭제, 모두 보기, 모두 수정</td> 
-  </tr> 
-  <tr> 
-   <td>[!DNL Best Bets] 자세히 보기</td> 
-   <td>읽기, 만들기, 편집, 삭제, 모두 보기, 모두 수정</td> 
-  </tr> 
-  <tr> 
-   <td>[!DNL Best Bets] 보기 횟수</td> 
-   <td>읽기, 만들기, 편집, 삭제, 모두 보기, 모두 수정</td> 
-  </tr> 
-  <tr> 
-   <td>EmailActivityCache</td> 
-   <td>읽기, 만들기, 편집, 삭제, 모두 보기, 모두 수정</td> 
-  </tr> 
-  <tr> 
-   <td>GetMethodArgus</td> 
-   <td>읽기, 만들기, 편집, 삭제, 모두 보기, 모두 수정</td> 
-  </tr> 
-  <tr> 
-   <td>그룹화된 웹 활동 캐시</td> 
-   <td>읽기, 만들기, 편집, 삭제, 모두 보기, 모두 수정</td> 
-  </tr> 
-  <tr> 
-   <td>InterestingMomentsCache</td> 
-   <td>읽기, 만들기, 편집, 삭제, 모두 보기, 모두 수정</td> 
-  </tr> 
-  <tr> 
-   <td>[!DNL Marketo Sales Insight] 구성</td> 
-   <td>읽기, 만들기, 편집, 삭제, 모두 보기, 모두 수정</td> 
-  </tr> 
-  <tr> 
-   <td>ScoringCache</td> 
-   <td>읽기, 만들기, 편집, 삭제, 모두 보기, 모두 수정</td> 
-  </tr> 
-  <tr> 
-   <td>값</td> 
-   <td>읽기, 만들기, 편집, 삭제, 모두 보기, 모두 수정</td> 
-  </tr> 
-  <tr> 
-   <td>WebActivityCache</td> 
-   <td>읽기, 만들기, 편집, 삭제, 모두 보기, 모두 수정</td> 
-  </tr> 
- </tbody> 
+<table>
+ <tbody>
+ <tr>
+   <td>BestBetsCache</td>
+   <td>읽기, 만들기, 편집, 삭제, 모두 보기, 모두 수정</td>
+  </tr>
+  <tr>
+   <td>[!DNL Best Bets] 자세히 보기</td>
+   <td>읽기, 만들기, 편집, 삭제, 모두 보기, 모두 수정</td>
+  </tr>
+  <tr>
+   <td>[!DNL Best Bets] 보기 횟수</td>
+   <td>읽기, 만들기, 편집, 삭제, 모두 보기, 모두 수정</td>
+  </tr>
+  <tr>
+   <td>EmailActivityCache</td>
+   <td>읽기, 만들기, 편집, 삭제, 모두 보기, 모두 수정</td>
+  </tr>
+  <tr>
+   <td>GetMethodArgus</td>
+   <td>읽기, 만들기, 편집, 삭제, 모두 보기, 모두 수정</td>
+  </tr>
+  <tr>
+   <td>그룹화된 웹 활동 캐시</td>
+   <td>읽기, 만들기, 편집, 삭제, 모두 보기, 모두 수정</td>
+  </tr>
+  <tr>
+   <td>InterestingMomentsCache</td>
+   <td>읽기, 만들기, 편집, 삭제, 모두 보기, 모두 수정</td>
+  </tr>
+  <tr>
+   <td>[!DNL Marketo Sales Insight] 구성</td>
+   <td>읽기, 만들기, 편집, 삭제, 모두 보기, 모두 수정</td>
+  </tr>
+  <tr>
+   <td>ScoringCache</td>
+   <td>읽기, 만들기, 편집, 삭제, 모두 보기, 모두 수정</td>
+  </tr>
+  <tr>
+   <td>값</td>
+   <td>읽기, 만들기, 편집, 삭제, 모두 보기, 모두 수정</td>
+  </tr>
+  <tr>
+   <td>WebActivityCache</td>
+   <td>읽기, 만들기, 편집, 삭제, 모두 보기, 모두 수정</td>
+  </tr>
+ </tbody>
 </table>
 
 * Apex 클래스 액세스: &quot;mkto_si&quot;로 시작하는 159개의 Apex 클래스

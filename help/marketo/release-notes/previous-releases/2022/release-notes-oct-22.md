@@ -1,12 +1,12 @@
 ---
 description: 릴리스 노트 - 2022년 10월 - Marketo 설명서 - 제품 설명서
-title: 릴리스 노트 - 2022년 10월
+title: 릴리스 정보 - 2022년 10월
 exl-id: 1494b8b9-049c-4969-ab95-a4be41d886b0
 feature: Release Information
-source-git-commit: 2b610cc3486b745212b0b1f36018a83214d7ecd7
+source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
 workflow-type: tm+mt
 source-wordcount: '603'
-ht-degree: 2%
+ht-degree: 6%
 
 ---
 
@@ -26,30 +26,30 @@ ht-degree: 2%
 
 </br>
 
-* **프로그램 구성원 사용자 지정 필드 동기화**: 프로그램 구성원에 대해 캡처된 확장 가능한 필드를 양방향으로 동기화하는 기능(예: 음식, 세션, 트랙 등과 같은 이벤트 등록 중 참석자 환경 설정) (Salesforce의 캠페인 멤버 필드 사용)
+* **프로그램 구성원 사용자 지정 필드 동기화**: 프로그램 구성원에 대해 캡처된 확장 가능한 필드를 Salesforce의 캠페인 구성원 필드와 양방향 동기화(예: 음식, 세션, 트랙 등과 같은 이벤트 등록 시 참석자 환경 설정)하는 기능.
 
-<table> 
-  <tr> 
+<table>
+  <tr>
    <td><b>상태</b></td>
-   <td><b>설명서 업데이트 정보</b></td>
+   <td><b>설명서 업데이트</b></td>
   </tr>
-  <tr> 
+  <tr>
    <td>배송됨</td>
    <td><a href="/help/marketo/product-docs/core-marketo-concepts/programs/working-with-programs/program-member-custom-field-sync.md">프로그램 구성원 사용자 정의 필드 동기화</a></td>
   </tr>
   </tbody>
 </table>
 
-* **Adobe Privacy Service 통합**: Privacy Service과 함께 사용하여 Experience Cloud 제품 전반에 걸친 데이터 개인 정보 보호 규정 준수를 자동화합니다. 현재 이 서비스는 Adobe Identity Management 시스템에 온보딩된 Marketo Engage 고객만 사용할 수 있습니다.
+* **Adobe Privacy Service 통합**: Privacy Service과 함께 사용하여 Experience Cloud 제품 전반에 걸친 데이터 개인 정보 보호 규정 준수를 자동화합니다. 현재 이 서비스는 Adobe Identity Management 시스템에 온보딩한 Marketo Engage 고객만 사용할 수 있습니다.
 
-<table> 
-  <tr> 
+<table>
+  <tr>
    <td><b>상태</b></td>
-   <td><b>설명서 업데이트 정보</b></td>
+   <td><b>설명서 업데이트</b></td>
   </tr>
-  <tr> 
+  <tr>
    <td>배송됨</td>
-   <td><a href="/help/marketo/product-docs/administration/marketo-with-adobe-identity/adobe-identity-management-overview.md">Identity Management Adobe</a></td>
+   <td><a href="/help/marketo/product-docs/administration/marketo-with-adobe-identity/adobe-identity-management-overview.md">Adobe Identity Management</a></td>
   </tr>
   </tbody>
 </table>
@@ -63,12 +63,12 @@ ht-degree: 2%
    * 랜딩 페이지 템플릿 세부 정보
    * 이메일 템플릿 목록
 
-<table> 
-  <tr> 
+<table>
+  <tr>
    <td><b>상태</b></td>
-   <td><b>설명서 업데이트 정보</b></td>
+   <td><b>설명서 업데이트</b></td>
   </tr>
-  <tr> 
+  <tr>
    <td>배송됨</td>
    <td><a href="/help/marketo/product-docs/marketo-engage-modern-ux/toggle-switch.md">전환 스위치</a></td>
   </tr>
@@ -77,12 +77,12 @@ ht-degree: 2%
 
 * **전자 메일 템플릿 세부 정보의 향상된 사용 기능**: 새 경험에서 자산 상태, 마지막 수정자 및 마지막 수정자를 포함하여 전자 메일 템플릿을 사용하는 자산과 관련된 추가 정보를 볼 수 있습니다. 에셋에서 사용하는 목록을 검색, 정렬 및 필터링할 수도 있습니다.
 
-<table> 
-  <tr> 
+<table>
+  <tr>
    <td><b>상태</b></td>
-   <td><b>설명서 업데이트 정보</b></td>
+   <td><b>설명서 업데이트</b></td>
   </tr>
-  <tr> 
+  <tr>
    <td>배송됨</td>
    <td>해당 사항 없음</td>
   </tr>
@@ -91,12 +91,12 @@ ht-degree: 2%
 
 * **보고서 에셋 필터 모달**: 구성 메뉴에 새 에셋 트리와 생성 및 수정 날짜 필터를 표시하는 보고서 구성 모달의 새로운 디자인입니다.
 
-<table> 
-  <tr> 
+<table>
+  <tr>
    <td><b>상태</b></td>
-   <td><b>설명서 업데이트 정보</b></td>
+   <td><b>설명서 업데이트</b></td>
   </tr>
-  <tr> 
+  <tr>
    <td>배송됨</td>
    <td>해당 사항 없음</td>
   </tr>
@@ -109,12 +109,12 @@ ht-degree: 2%
 
 * **일괄 리드 가져오기: 영업 사원 연결**: 일괄 리드 가져오기 프로세스 동안 영업 사원과 리드를 연결할 수 있도록 리드 REST API와 동등하므로 복잡성과 필요한 API 호출 수가 줄어듭니다.
 
-<table> 
-  <tr> 
+<table>
+  <tr>
    <td><b>상태</b></td>
-   <td><b>설명서 업데이트 정보</b></td>
+   <td><b>설명서 업데이트</b></td>
   </tr>
-  <tr> 
+  <tr>
    <td>배송됨</td>
    <td><a href="https://developer.adobe.com/marketo-apis/api/mapi/#tag/Bulk-Import-Leads">벌크 리드 가져오기</a></td>
   </tr>
@@ -127,14 +127,14 @@ ht-degree: 2%
 
 ![(별)](assets/yellow-star.png)
 
-* **Dynamic Chat과 판매 인사이트 통합**: 이제 인사이트 대시보드에 주간 요약 및 세부 카드와 함께 스마트 그리드의 Dynamic Chat 활동이 포함됩니다.
+* **Dynamic Chat과 Insight 통합**: 이제 Insights Dashboard에 주별 요약 및 세부 사항 카드와 함께 스마트 그리드의 Dynamic Chat 활동이 포함됩니다.
 
-<table> 
-  <tr> 
+<table>
+  <tr>
    <td><b>상태</b></td>
-   <td><b>설명서 업데이트 정보</b></td>
+   <td><b>설명서 업데이트</b></td>
   </tr>
-  <tr> 
+  <tr>
    <td>배송됨</td>
    <td><a href="/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/features/dynamic-chat-integration.md">Dynamic Chat 통합</a></td>
   </tr>
@@ -145,42 +145,42 @@ ht-degree: 2%
 
 다음 기능은 애자일 형식을 따르며, 표준 릴리스 날짜 이전 또는 이후의 다양한 날짜에 릴리스됩니다. 각 기능의 상태를 아래에서 확인하십시오.
 
-* **Dynamic Chat을 위한 자동 정렬 대화 상자 스트림**: 자동 정렬을 통해 단추를 눌러 캔버스의 모든 내용을 깔끔하고 읽기 쉬운 형식으로 구성하여 복잡한 대화 상자 캔버스를 개선합니다.
+* **Dynamic Chat용 자동 정렬 대화 상자 스트림**: [자동 정렬]을 통해 단추를 눌러 캔버스의 모든 내용을 깔끔하고 읽기 쉬운 형식으로 구성하여 복잡한 대화 상자 캔버스를 개선합니다.
 
-<table> 
-  <tr> 
+<table>
+  <tr>
    <td><b>상태</b></td>
-   <td><b>설명서 업데이트 정보</b></td>
+   <td><b>설명서 업데이트</b></td>
   </tr>
-  <tr> 
+  <tr>
    <td>배송됨</td>
    <td><a href="/help/marketo/product-docs/demand-generation/dynamic-chat/automated-chat/stream-designer.md#stream-designer-icons">스트림 Designer 아이콘</a></td>
   </tr>
   </tbody>
 </table>
 
-* **Dynamic Chat을 위한 모임 링크**: 방문자에게 보내는 모든 일정 초대에 Google 및 Outlook을 위한 팀 또는 모임 링크를 자동으로 포함하는 옵션입니다.
+* **Dynamic Chat의 모임 링크**: 방문자에게 보내는 모든 일정 초대에 Google 및 Outlook의 팀 또는 모임 링크를 자동으로 포함하는 옵션입니다.
 
-<table> 
-  <tr> 
+<table>
+  <tr>
    <td><b>상태</b></td>
-   <td><b>설명서 업데이트 정보</b></td>
+   <td><b>설명서 업데이트</b></td>
   </tr>
-  <tr> 
+  <tr>
    <td>배송됨</td>
    <td><a href="/help/marketo/product-docs/demand-generation/dynamic-chat/setup-and-configuration/agent-settings.md">캘린더</a></td>
   </tr>
   </tbody>
 </table>
 
-* **Dynamic Chat에 대한 추가 데이터 형식 지원**: 3개의 새로운 데이터 형식(부울, 정수, 부동 소수점)을 사용하면 점수를 기반으로 타깃팅하거나 방문자에게 예/아니요 질문을 하는 등의 작업에 대해 Dynamic Chat의 기존 Marketo Engage 필드를 더 많이 활용할 수 있습니다.
+* **Dynamic Chat에 대한 추가 데이터 형식 지원**: 3개의 새로운 데이터 형식(부울, 정수, 부동 소수점)을 사용하면 점수를 기반으로 타깃팅하거나 방문자에게 예/아니요 질문을 하는 것과 같은 작업에 대해 Dynamic Chat의 더 많은 기존 Marketo Engage 필드를 활용할 수 있습니다.
 
-<table> 
-  <tr> 
+<table>
+  <tr>
    <td><b>상태</b></td>
-   <td><b>설명서 업데이트 정보</b></td>
+   <td><b>설명서 업데이트</b></td>
   </tr>
-  <tr> 
+  <tr>
    <td>배송됨</td>
    <td>해당 사항 없음</td>
   </tr>

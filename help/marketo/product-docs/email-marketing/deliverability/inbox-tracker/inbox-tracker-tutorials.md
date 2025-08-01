@@ -1,22 +1,22 @@
 ---
 description: 받은 편지함 추적기를 사용하여 게재 기능 문제를 테스트, 모니터링 및 이해합니다.
-title: 받은 편지함 추적기 Tutorials
+title: 받은 편지함 추적기 자습서
 feature: Deliverability
 exl-id: 23e2875d-e0ee-45a7-a79a-caa0b7310e55
-source-git-commit: d65903d64d068a6f919df78258654414f3b76426
+source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
 workflow-type: tm+mt
 source-wordcount: '173'
 ht-degree: 0%
 
 ---
 
-# 받은 편지함 추적기 Tutorials {#inbox-tracker-tutorials}
+# 받은 편지함 추적기 자습서 {#inbox-tracker-tutorials}
 
 Bird(이전의 MessageBird) 받은 편지함 추적기 플랫폼에서 제공하는 이메일 게재 기능 도구를 사용하여 게재 기능 문제를 테스트, 모니터링 및 이해합니다. Inbox Tracker는 프로그램의 인텔리전스와 이메일 렌더링/받은 편지함 테스트의 선견지명을 결합하여 이메일 성능을 극대화하는 단일 애플리케이션입니다.
 
 >[!AVAILABILITY]
 >
->일부 Marketo Engage 사용자가 이 기능을 구입한 것은 아닙니다. 자세한 내용은 Adobe 계정 팀(계정 관리자)에 문의하십시오.
+>모든 Marketo Engage 사용자가 이 기능을 구입한 것은 아닙니다. 자세한 내용은 Adobe 계정 팀(계정 관리자)에 문의하십시오.
 
 Bird는 이 강력한 도구를 최대한 활용하는 데 도움이 되는 몇 가지 교육 비디오를 만들었습니다.
 

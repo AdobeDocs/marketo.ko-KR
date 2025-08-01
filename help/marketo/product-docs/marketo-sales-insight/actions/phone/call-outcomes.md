@@ -3,7 +3,7 @@ description: 호출 결과 - Marketo 문서 - 제품 설명서
 title: 호출 결과
 exl-id: 0166c6fa-70d3-45ea-9138-f2d2c4c28b41
 feature: Sales Insight Actions
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
 workflow-type: tm+mt
 source-wordcount: '180'
 ht-degree: 0%
@@ -88,5 +88,5 @@ ht-degree: 0%
 
 >[!MORELIKETHIS]
 >
->* [Salesforce에 통화 이유 및 통화 결과를 기록합니다](/help/marketo/product-docs/marketo-sales-insight/actions/phone/log-call-reasons-and-call-outcomes-to-salesforce.md)
+>* [통화 이유 및 통화 결과를 Salesforce에 기록](/help/marketo/product-docs/marketo-sales-insight/actions/phone/log-call-reasons-and-call-outcomes-to-salesforce.md)
 >* [통화 이유](/help/marketo/product-docs/marketo-sales-insight/actions/phone/call-reasons.md)

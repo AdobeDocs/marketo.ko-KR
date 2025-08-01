@@ -4,7 +4,7 @@ description: 지정된 계정 인사이트 - Marketo 문서 - 제품 설명서
 title: 명명된 계정 인사이트
 exl-id: 2bd9497e-ca5f-4fd6-8fd2-241419e97cba
 feature: Target Account Management
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
 workflow-type: tm+mt
 source-wordcount: '385'
 ht-degree: 0%
@@ -33,21 +33,21 @@ ht-degree: 0%
 
 ![](assets/three-new.png)
 
-<table> 
- <tbody> 
-  <tr> 
-   <td><strong><span class="uicontrol">계정 스코어</span></strong></td> 
-   <td><p><span class="uicontrol">관리자</span>에서 만든 모든 계정 점수를 기반으로 주별 참여를 확인하십시오. 이러한 계정 점수를 나란히 비교할 수 있습니다. 주별 참여를 결정하기 위해 해당 주의 모든 요일에서 최대 참여를 선택합니다.</p></td> 
-  </tr> 
-  <tr> 
-   <td><strong><span class="uicontrol">파이프라인</span></strong></td> 
-   <td>시간이 지남에 따라 파이프라인을 봅니다. 주별로 시간에 따른 파이프라인을 결정하기 위해 마지막 날에 파이프라인을 사용합니다.</td> 
-  </tr> 
-  <tr> 
-   <td><strong><span class="uicontrol">수익</span></strong></td> 
-   <td>시간 경과에 따른 매출을 확인하십시오. 주별로 시간에 따른 매출을 결정하기 위해 해당 주에 발생한 모든 매출의 합계를 구합니다.</td> 
-  </tr> 
- </tbody> 
+<table>
+ <tbody>
+  <tr>
+   <td><strong><span class="uicontrol">계정 스코어</span></strong></td>
+   <td><p><span class="uicontrol">관리자</span>에서 만든 모든 계정 점수를 기반으로 주별 참여를 확인하십시오. 이러한 계정 점수를 나란히 비교할 수 있습니다. 주별 참여를 결정하기 위해 해당 주의 모든 요일에서 최대 참여를 선택합니다.</p></td>
+  </tr>
+  <tr>
+   <td><strong><span class="uicontrol">파이프라인</span></strong></td>
+   <td>시간이 지남에 따라 파이프라인을 봅니다. 주별로 시간에 따른 파이프라인을 결정하기 위해 마지막 날에 파이프라인을 사용합니다.</td>
+  </tr>
+  <tr>
+   <td><strong><span class="uicontrol">수익</span></strong></td>
+   <td>시간 경과에 따른 매출을 확인하십시오. 주별로 시간에 따른 매출을 결정하기 위해 해당 주에 발생한 모든 매출의 합계를 구합니다.</td>
+  </tr>
+ </tbody>
 </table>
 
 **[!UICONTROL Interesting Moments]**

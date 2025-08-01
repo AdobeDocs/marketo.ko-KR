@@ -2,7 +2,8 @@
 description: Salesforce 동기화 백로그 지표 - Marketo 문서 - 제품 설명서
 title: Salesforce 동기화 백로그 지표
 feature: Reporting
-source-git-commit: cfd7e3f70246a0a36793f747f0f2f40bcb9619c5
+exl-id: 6b58eb50-ff0d-4774-a232-3ae929948e2a
+source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
 workflow-type: tm+mt
 source-wordcount: '1048'
 ht-degree: 0%
@@ -27,7 +28,7 @@ ht-degree: 0%
 
 백로그 트렌드는 지난 5일 동안 기록된 백로그의 변경 사항을 반영합니다. 백로그는 5일 동안 4시간 간격 분산으로 표시됩니다. 따라서 그래프는 하루에 6번, 5일을 30번 간격으로 보여줍니다.
 
-백로그는 x축에서 특정 4시간 간격으로 관찰됩니다. 이 값은 동기화 중인 모든 개체에 사용됩니다. Salesforce의 총 백로그와 동기화 대기 중인 Marketo Engage 수입니다.
+백로그는 x축에서 특정 4시간 간격으로 관찰됩니다. 이 값은 동기화 중인 모든 개체에 사용됩니다. Salesforce 및 Marketo Engage의 총 백로그(동기화 대기 중)입니다.
 
 ![](assets/salesforce-sync-backlog-metrics-3.png)
 
@@ -83,24 +84,24 @@ ht-degree: 0%
 
 ## 동기화 백로그의 원인 {#what-causes-sync-backlogs}
 
-Marketo Engage 측이든 CRM 측이든, 업데이트가 이루어지면 CRM 동기화 주기에 대한 일반 Marketo Engage을 통해 다른 쪽 끝에 있는 정보를 업데이트하도록 레코드가 다시 동기화됩니다. Salesforce의 레코드를 업데이트할 때마다 &#39;SysModStamp&#39;라는 시스템 수정 타임스탬프가 생성됩니다. 이는 동기화 변경을 큐에 추가합니다.
+업데이트가 Marketo Engage 측에서 수행되든 CRM 측에서 수행되든 간에, 정규 Marketo Engage에서 CRM으로의 동기화 주기를 통해 다른 쪽 끝에 있는 정보를 업데이트하기 위해 레코드가 다시 동기화되도록 트리거됩니다. Salesforce의 레코드를 업데이트할 때마다 &#39;SysModStamp&#39;라는 시스템 수정 타임스탬프가 생성됩니다. 이는 동기화 변경을 큐에 추가합니다.
 
-필드 값 변경과 같이 대량의 업데이트가 이루어지면 많은 레코드가 변경되어 새 SysModStamp가 발생합니다. 그런 다음 Marketo Engage과 CRM 간에 많은 사용자 레코드 업데이트를 다시 동기화해야 하며 경우에 따라 일시적인 백로그가 생성됩니다.
+필드 값 변경과 같이 대량의 업데이트가 이루어지면 많은 레코드가 변경되어 새 SysModStamp가 발생합니다. 그런 다음 Marketo Engage과 CRM 간에 많은 개인 레코드 업데이트를 다시 동기화해야 하며 때로는 일시적인 백로그를 만듭니다.
 
 ## 동기화 백로그 관리 우수 사례 {#best-practices}
 
 **동기화 사용자에게 표시되는 필드**: 동기화에 표시되는 필드가 동기화되어야 하고 마케팅 노력에 가치가 있는지 확인하십시오. 마지막으로 수정된 타임스탬프를 업데이트하는 Salesforce의 레코드를 업데이트하면 동기화 백로그에 레코드가 대기열에 추가되며, 동기화하지 않는 필드의 경우 동기화 중인 더 중요한 필드가 느려질 수 있습니다. 불필요한 필드가 동기화 사용자에게 표시되지 않는 경우 해당 필드를 업데이트하면 업데이트보다 훨씬 빠른 건너뛰기가 발생합니다. Salesforce 관리자와 협력하여 모범 사례 [여기](https://nation.marketo.com/t5/marketo-whisperer-blogs/best-practices-for-determining-which-fields-to-sync-with-marketo/ba-p/247449){target="_blank"}를 검토하고 Marketo 동기화 사용자에게 표시되는 필드를 업데이트합니다.
 
-**불필요한 레코드를 숨기거나 필터링합니다**: 레코드를 마케팅 가능하지 않은 경우 동기화 리소스를 낭비할 수 있습니다. 동기화 사용자가 이를 볼 수 없다면 동기화하려는 리소스를 낭비하지 않습니다. [Marketo Engage 지원](https://nation.marketo.com/t5/support/ct-p/Support#_blank){target="_blank"}에서는 추가 조건을 기준으로 레코드가 동기화되지 않도록 동기화 필터 설정을 지원할 수 있습니다. 사용자 지정 동기화 필터 [을(를) 설정하는 방법에 대한 자세한 내용은 여기를 참조하십시오](https://nation.marketo.com/t5/product-blogs/instructions-for-creating-a-custom-sync-rule/ba-p/242758){target="_blank"}. Salesforce 내의 인덱스 필드를 사용하는 것이 좋습니다(자세한 내용은 Salesforce에 문의).
+**불필요한 레코드를 숨기거나 필터링합니다**: 레코드를 마케팅 가능하지 않은 경우 동기화 리소스를 낭비할 수 있습니다. 동기화 사용자가 이를 볼 수 없다면 동기화하려는 리소스를 낭비하지 않습니다. [Marketo Engage 지원](https://nation.marketo.com/t5/support/ct-p/Support#_blank){target="_blank"}에서는 추가 조건에 따라 레코드가 동기화되지 않도록 동기화 필터를 설정할 수 있습니다. 사용자 지정 동기화 필터 [을(를) 설정하는 방법에 대한 자세한 내용은 여기에서 ](https://nation.marketo.com/t5/product-blogs/instructions-for-creating-a-custom-sync-rule/ba-p/242758){target="_blank"}을(를) 참조하십시오. Salesforce 내의 인덱스 필드를 사용하는 것이 좋습니다(자세한 내용은 Salesforce에 문의).
 
 **중요하지 않은 시간에 일괄 업데이트를 예약합니다**: 데이터 동기화 패턴을 검토하여 중요하지 않은 기간을 식별하십시오. 가능한 경우 이러한 중요하지 않은 기간에 대량 업데이트를 예약할 수 있는지 검토합니다.
 
 **자주 업데이트되는 필드**: 일부 필드는 자주 업데이트됩니다. 예를 들어 통화 변경에 해당하는 통화 필드는 다음과 같습니다. 이러한 필드를 동기화해야 하는지 또는 필드를 다르게 디자인해야 하는지 검토합니다. 자주 업데이트되며 필요하지 않은 다른 필드가 있는 경우 동기화 사용자로부터 해당 필드를 숨깁니다. 필드를 업데이트할 수 있는 SFDC 관리 통합에 대해 논의하십시오.
 
-**사용자 지정 개체**: 더 이상 동기화할 필요가 없는 개체를 동기화하고 사용하지 않도록 설정하는 [사용자 지정 개체](https://experienceleague.adobe.com/ko/docs/marketo/using/product-docs/crm-sync/salesforce-sync/sfdc-sync-details/sfdc-sync-custom-object-sync){target="_blank"}를 주기적으로 검토하십시오.
+**사용자 지정 개체**: [사용자 지정 개체](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/crm-sync/salesforce-sync/sfdc-sync-details/sfdc-sync-custom-object-sync){target="_blank"}를 정기적으로 검토하여 더 이상 동기화할 필요가 없는 개체를 동기화하고 사용하지 않도록 설정하십시오.
 
-**활동**: [동기화에서 제거할 수 있는 동기화를 사용하도록 설정한 활동이 있는지 검토](https://experienceleague.adobe.com/ko/docs/marketo/using/product-docs/crm-sync/salesforce-sync/setup/optional-steps/customize-activities-sync){target="_blank"}합니다.  이러한 활동은 리드당 하루에 한 번만 동기화됩니다.
+**활동**: [동기화에서 제거할 수 있는 동기화를 사용하도록 설정한 활동이 있는지 검토](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/crm-sync/salesforce-sync/setup/optional-steps/customize-activities-sync){target="_blank"}합니다.  이러한 활동은 리드당 하루에 한 번만 동기화됩니다.
 
 **동기화 오류 검토**: 예외 처리로 인해 동기화 속도가 느려질 수 있습니다. 사용자 알림을 검토하고 오류를 해결하면 동기화 상태를 개선할 수 있습니다.
 
-**지원에 문의**: 위의 모든 모범 사례를 따르고 있지만 여전히 많은 백로그가 발생하는 경우 [Marketo Engage 지원](https://nation.marketo.com/t5/support/ct-p/Support#_blank){target="_blank"}에 문의하십시오.
+**지원에 문의**: 위의 모든 모범 사례를 따르고 있지만 여전히 많은 백로그가 발생하는 경우 [Marketo Engage 지원 센터](https://nation.marketo.com/t5/support/ct-p/Support#_blank){target="_blank"}에 문의하십시오.

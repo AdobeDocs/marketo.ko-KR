@@ -4,7 +4,7 @@ description: 리치 텍스트 편집기 사용 - Marketo 문서 - 제품 설명�
 title: 리치 텍스트 편집기 사용
 exl-id: 9b2d6d41-f947-4859-aad9-a10c15eb013a
 feature: Email Editor
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
 workflow-type: tm+mt
 source-wordcount: '659'
 ht-degree: 1%
@@ -41,19 +41,19 @@ ht-degree: 1%
 
    이메일 템플릿에 `<div class=“mktEditable”></div>`이(가) 있는 경우 섹션을 열고 편집기에 &quot;Text Goes Here&quot;를 입력하면 다음과 같은 HTML Source 동작이 표시됩니다.
 
-<table> 
- <tbody> 
-  <tr> 
-   <th>&lt;p&gt;</th> 
-   <th>&lt;div&gt;</th> 
-   <th>None</th> 
-  </tr> 
-  <tr> 
-   <td><p>&lt;div class="mktEditable"&gt;<br>&lt;p&gt;텍스트 입력&lt;/p&gt;<br>&lt;/div&gt;</p></td> 
-   <td><p>&lt;div class="mktEditable"&gt;<br>&lt;div&gt;텍스트 이동&lt;/div&gt;<br>&lt;/div&gt;</p></td> 
-   <td><p>&lt;div class="mktEditable"&gt;<br>텍스트 위치<br>&lt;/div&gt;</p></td> 
-  </tr> 
- </tbody> 
+<table>
+ <tbody>
+  <tr>
+   <th>&lt;p&gt;</th>
+   <th>&lt;div&gt;</th>
+   <th>None</th>
+  </tr>
+  <tr>
+   <td><p>&lt;div class="mktEditable"&gt;<br>&lt;p&gt;텍스트 입력&lt;/p&gt;<br>&lt;/div&gt;</p></td>
+   <td><p>&lt;div class="mktEditable"&gt;<br>&lt;div&gt;텍스트 이동&lt;/div&gt;<br>&lt;/div&gt;</p></td>
+   <td><p>&lt;div class="mktEditable"&gt;<br>텍스트 위치<br>&lt;/div&gt;</p></td>
+  </tr>
+ </tbody>
 </table>
 
 >[!TIP]

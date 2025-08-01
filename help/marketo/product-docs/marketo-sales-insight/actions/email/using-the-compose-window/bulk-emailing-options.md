@@ -3,7 +3,7 @@ description: 벌크 이메일 옵션 - Marketo 문서 - 제품 설명서
 title: 벌크 이메일 옵션
 exl-id: 08cc60d5-0db1-4dfa-9441-4c5e5a021d73
 feature: Sales Insight Actions
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
 workflow-type: tm+mt
 source-wordcount: '252'
 ht-degree: 3%
@@ -16,41 +16,41 @@ ht-degree: 3%
 
 **그룹 전자 메일과 선택 및 보내기**
 
-<table> 
- <colgroup> 
-  <col> 
-  <col> 
-  <col> 
-  <col> 
-  <col> 
-  <col> 
- </colgroup> 
- <tbody> 
-  <tr> 
-   <th>전송 유형</th> 
-   <th>최대 이메일 수</th> 
-   <th>전송 시작자</th> 
-   <th>이메일 벌크 편집</th> 
-   <th>각 이메일을 고유하게 편집</th> 
-   <th>템플릿 및 동적 필드 지원</th> 
-  </tr> 
-  <tr> 
-   <td>그룹 전자 메일</td> 
-   <td>1,000</td> 
-   <td>그룹을 선택하고 "[!UICONTROL Group Actions]" 단추를 클릭하거나 그룹 이름을 [받는 사람] 필드에 입력하십시오.</td> 
-   <td>예</td> 
-   <td>아니요</td> 
-   <td>예</td> 
-  </tr> 
-  <tr> 
-   <td>선택 및 보내기</td> 
-   <td>200</td> 
-   <td>그리드에서 사람을 선택하고 작업 표시줄에서 "[!UICONTROL Email Selected]" 버튼을 클릭하거나 수신자를 벌크 이메일 사이드바에 입력합니다.</td> 
-   <td>예</td> 
-   <td>예</td> 
-   <td>예</td> 
-  </tr> 
- </tbody> 
+<table>
+ <colgroup>
+  <col>
+  <col>
+  <col>
+  <col>
+  <col>
+  <col>
+ </colgroup>
+ <tbody>
+  <tr>
+   <th>전송 유형</th>
+   <th>최대 이메일 수</th>
+   <th>전송 시작자</th>
+   <th>이메일 벌크 편집</th>
+   <th>각 이메일을 고유하게 편집</th>
+   <th>템플릿 및 동적 필드 지원</th>
+  </tr>
+  <tr>
+   <td>그룹 전자 메일</td>
+   <td>1,000</td>
+   <td>그룹을 선택하고 "[!UICONTROL Group Actions]" 단추를 클릭하거나 그룹 이름을 [받는 사람] 필드에 입력하십시오.</td>
+   <td>예</td>
+   <td>아니요</td>
+   <td>예</td>
+  </tr>
+  <tr>
+   <td>선택 및 보내기</td>
+   <td>200</td>
+   <td>그리드에서 사람을 선택하고 작업 표시줄에서 "[!UICONTROL Email Selected]" 버튼을 클릭하거나 수신자를 벌크 이메일 사이드바에 입력합니다.</td>
+   <td>예</td>
+   <td>예</td>
+   <td>예</td>
+  </tr>
+ </tbody>
 </table>
 
 **그룹 전자 메일 사용**

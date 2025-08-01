@@ -4,9 +4,9 @@ description: 할당 규칙을 사용하여 개인 파티션 할당 - Marketo 문
 title: 할당 규칙으로 개인 분할 영역 할당
 exl-id: 6b54dcb7-8da9-466b-b153-099ebcb96424
 feature: Partitions
-source-git-commit: 02b2e39580c5eac63de4b4b7fdaf2a835fdd4ba5
+source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
 workflow-type: tm+mt
-source-wordcount: '169'
+source-wordcount: '159'
 ht-degree: 1%
 
 ---
@@ -27,19 +27,19 @@ ht-degree: 1%
 >
 >CRM과 SOAP API를 통해 Marketo에서 생성된 사람에게만 할당 규칙이 적용됩니다.
 
-1. **[!UICONTROL 관리자]** 영역으로 이동합니다.
+1. **[!UICONTROL Admin]** 영역으로 이동합니다.
 
    ![](assets/assigning-person-partitions-with-assignment-rules-1.png)
 
-1. **[!UICONTROL 작업 공간 및 파티션]**&#x200B;을 클릭합니다.
+1. **[!UICONTROL Workspaces & Partitions]**&#x200B;을(를) 클릭합니다.
 
    ![](assets/assigning-person-partitions-with-assignment-rules-2.png)
 
-1. **[!UICONTROL 개인 파티션]** 탭에서 **[!UICONTROL 할당 규칙]**&#x200B;을 클릭합니다.
+1. **[!UICONTROL Person Partitions]** 탭에서 **[!UICONTROL Assignment Rules]**&#x200B;을(를) 클릭합니다.
 
    ![](assets/assigning-person-partitions-with-assignment-rules-3.png)
 
-1. **[!UICONTROL 선택 항목 추가]**&#x200B;를 클릭하여 사용자를 개인 파티션으로 라우팅하는 조건을 추가합니다.
+1. **[!UICONTROL Add Choice]**&#x200B;을(를) 클릭하여 사용자를 개인 파티션으로 라우팅하는 조건을 추가합니다.
 
    ![](assets/assigning-person-partitions-with-assignment-rules-4.png)
 
@@ -59,7 +59,7 @@ ht-degree: 1%
    >
    >원하는 만큼 선택할 수 있습니다.
 
-1. **[!UICONTROL 저장]**&#x200B;을 클릭합니다.
+1. **[!UICONTROL Save]**&#x200B;을(를) 클릭합니다.
 
    ![](assets/assigning-person-partitions-with-assignment-rules-8.png)
 

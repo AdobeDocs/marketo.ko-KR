@@ -3,7 +3,7 @@ unique-page-id: 17727823
 description: 릴리스 노트 - 19년 겨울 - Marketo 문서 - 제품 설명서
 title: 릴리스 노트 - 2019년 겨울
 exl-id: 0cb3b3a1-472e-41d4-84f4-47f06e65017c
-source-git-commit: ecd225af3ecfd7cb9159faf5a9d384d47ee6312c
+source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
 workflow-type: tm+mt
 source-wordcount: '1050'
 ht-degree: 0%
@@ -22,7 +22,7 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->Microsoft에서 모든 온라인 고객을 최신 버전의 [!DNL Microsoft Dynamics]&#x200B;(으)로 업그레이드하도록 추진하고 있습니다. Marketo 인스턴스를 [!DNL Dynamics Online]과(와) 통합하는 경우 통합이 계속 작동하도록 하려면 **2019년 1월 31일** 전에 [최신 버전의 Marketo 솔루션으로 업그레이드](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/update-the-marketo-solution-for-microsoft-dynamics.md)해야 합니다.
+>Microsoft에서 모든 온라인 고객을 최신 버전의 [!DNL Microsoft Dynamics]&#x200B;(으)로 업그레이드하도록 추진하고 있습니다. Marketo 인스턴스를 [!DNL Dynamics Online]과(와) 통합하는 경우 통합이 계속 작동하도록 하려면 [2019년 1월 31일](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/update-the-marketo-solution-for-microsoft-dynamics.md) 전에 **최신 버전의 Marketo 솔루션으로 업그레이드**&#x200B;해야 합니다.
 
 >[!NOTE]
 >
@@ -56,7 +56,7 @@ Marketo을 통해 전송된 이메일에 수신자당 최대 5개의 CC 주소�
    * _팀 관리_&#x200B;에서는 관리자가 구독 및 팀을 편집할 수 있도록 하여 원활한 계정 설정 프로세스를 지원합니다.
    * _Salesforce 관리 설정_&#x200B;을 통해 팀은 이전보다 더 빠르고 쉽게 SFDC 동기화를 설정할 수 있습니다.
 
-* [!DNL Windows]&#x200B;**용** OWA 플러그 인: 단일 추가 기능을 사용하면 Outlook에서 Live Feed를 사용할 수 있는 기능을 제공하는 Sales Engage에서 모든 [!DNL Windows Office365] 클라이언트가 지원됩니다. 새 플러그인은 Microsoft 스토어에서 사용할 수 있습니다.
+* **용[!DNL Windows]** OWA 플러그 인: 단일 추가 기능을 사용하면 Outlook에서 Live Feed를 사용할 수 있는 기능을 제공하는 Sales Engage에서 모든 [!DNL Windows Office365] 클라이언트가 지원됩니다. 새 플러그인은 Microsoft 스토어에서 사용할 수 있습니다.
 * **활동 푸셔**: 실시간 마케팅 인사이트를 활용하려면 Sales Engage를 핵심 Marketo 플랫폼과 동기화하십시오.
 
 ## [!DNL Marketo Sky] {#marketo-sky}

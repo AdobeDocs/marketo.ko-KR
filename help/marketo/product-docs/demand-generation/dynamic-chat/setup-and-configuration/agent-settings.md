@@ -3,7 +3,7 @@ description: 에이전트 설정 - Marketo 문서 - 제품 설명서
 title: 에이전트 설정
 feature: Dynamic Chat
 exl-id: a782ef9b-6a89-448a-8bd9-f127ceea3bf5
-source-git-commit: 8cc63658ddd0e5b6343dc690d4009d4466250998
+source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
 workflow-type: tm+mt
 source-wordcount: '605'
 ht-degree: 1%
@@ -63,17 +63,17 @@ Google으로 구성 은 Dynamic Chat에 다음 권한을 부여합니다.
 
 ![](assets/agent-settings-4.png)
 
-<table> 
- <tbody> 
-  <tr> 
+<table>
+ <tbody>
+  <tr>
    <td><b>회의 기간</b></td>
    <td>방문자가 사용 가능한 모임 슬롯에서 볼 수 있는 시간을 결정합니다.</td>
-  </tr> 
-  <tr> 
+  </tr>
+  <tr>
    <td><b>회의 간 여유 시간</b></td>
    <td>회의 후 버퍼로 설정한 시간입니다. 30분 동안 설정하면 캘린더에서 예약된 회의가 끝난 후 30분이 지날 때까지 아무도 귀하와의 회의를 예약할 수 없습니다.</td>
   </tr>
- </tbody> 
+ </tbody>
 </table>
 
 >[!TIP]

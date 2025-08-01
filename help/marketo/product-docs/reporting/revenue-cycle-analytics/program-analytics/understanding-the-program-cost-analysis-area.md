@@ -4,10 +4,10 @@ description: 프로그램 비용 분석 영역 이해 - Marketo 문서 - 제품 
 title: 프로그램 비용 분석 영역 이해
 exl-id: b59e07a2-c804-46a2-b0ca-127191fd2188
 feature: Reporting, Revenue Cycle Analytics
-source-git-commit: d20a9bb584f69282eefae3704ce4be2179b29d0b
+source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
 workflow-type: tm+mt
 source-wordcount: '327'
-ht-degree: 5%
+ht-degree: 7%
 
 ---
 
@@ -33,7 +33,7 @@ ht-degree: 5%
 
 ![](assets/image2015-5-6-14-3a36-3a34.png)
 
-## 프로그램 비용 분석 Dimension 및 측정값 {#program-cost-analysis-dimensions-and-measures}
+## 프로그램 비용 분석 차원 및 측정값 {#program-cost-analysis-dimensions-and-measures}
 
 >[!NOTE]
 >
@@ -51,25 +51,25 @@ ht-degree: 5%
 
 ## 멤버십 {#membership}
 
-<table> 
- <tbody> 
-  <tr> 
-   <th>측정</th> 
-   <th>설명</th> 
-  </tr> 
-  <tr> 
-   <td>% 새 이름</td> 
-   <td>프로그램에서 인수한 잠재 고객의 비율</td> 
-  </tr> 
-  <tr> 
-   <td>구성원</td> 
-   <td>프로그램의 총 잠재 고객</td> 
-  </tr> 
-  <tr> 
-   <td>새 이름</td> 
-   <td>프로그램에서 획득한 총 새 이름</td> 
-  </tr> 
- </tbody> 
+<table>
+ <tbody>
+  <tr>
+   <th>측정</th>
+   <th>설명</th>
+  </tr>
+  <tr>
+   <td>% 새 이름</td>
+   <td>프로그램에서 인수한 잠재 고객의 비율</td>
+  </tr>
+  <tr>
+   <td>멤버</td>
+   <td>프로그램의 총 잠재 고객</td>
+  </tr>
+  <tr>
+   <td>새 이름</td>
+   <td>프로그램에서 획득한 총 새 이름</td>
+  </tr>
+ </tbody>
 </table>
 
 ## 프로그램 속성 {#program-attributes}
@@ -83,15 +83,15 @@ ht-degree: 5%
 
 | 차원 | 설명 |
 |---|---|
-| 년 | 프로그램 비용 일정 |
+| 연도 | 프로그램 비용 일정 |
 | 분기 | 프로그램 비용 시간대 |
-| 월 | 프로그램 비용 일정 |
+| Month | 프로그램 비용 일정 |
 
 ## 프로그램 태그 {#program-tags}
 
 | 측정 | 설명 |
 |---|---|
-| 산업 | 프로그램 태그 |
+| 업종 | 프로그램 태그 |
 | 제품 라인 | 프로그램 태그 |
 | 프로그램 소유자 | 프로그램 태그 |
 | 지역 | 프로그램 태그 |

@@ -4,7 +4,7 @@ description: 개인 데이터 관리 - Marketo 문서 - 제품 설명서
 title: 개인 데이터 관리
 exl-id: 40f4aac8-c6e5-4cf3-9573-cac2fdf9bcad
 feature: Web Personalization
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
 workflow-type: tm+mt
 source-wordcount: '192'
 ht-degree: 7%
@@ -49,54 +49,54 @@ ht-degree: 7%
    >* 문자열 유형의 최대 길이는 255자입니다.
    >* 숨겨진 필드는 자동으로 제거됩니다.
 
-<table> 
- <tbody> 
-  <tr> 
-   <th><p>REST API 이름</p></th> 
-   <th><p>SOAP API 이름</p></th> 
-   <th><p>알기 쉬운 이름</p></th> 
-  </tr> 
-  <tr> 
-   <td><p>부서</p></td> 
-   <td><p>부서</p></td> 
-   <td><p>부서</p></td> 
-  </tr> 
-  <tr> 
-   <td><p>제목</p></td> 
-   <td><p>제목</p></td> 
-   <td><p>직위</p></td> 
-  </tr> 
-  <tr> 
-   <td><p>등급</p></td> 
-   <td><p>등급</p></td> 
-   <td><p>등급</p></td> 
-  </tr> 
-  <tr> 
-   <td><p>잠재 고객 스코어</p></td> 
-   <td><p>잠재 고객 스코어</p></td> 
-   <td><p>점수</p></td> 
-  </tr> 
-  <tr> 
-   <td><p>잠재 고객 상태</p></td> 
-   <td><p>잠재 고객 상태</p></td> 
-   <td><p>상태</p></td> 
-  </tr> 
-  <tr> 
-   <td><p>우선 순위</p></td> 
-   <td><p>우선순위</p></td> 
-   <td><p>우선순위</p></td> 
-  </tr> 
-  <tr> 
-   <td><p>리드 역할</p></td> 
-   <td><p>잠재 고객 역할</p></td> 
-   <td><p>역할</p></td> 
-  </tr> 
-  <tr> 
-   <td><p>구독 취소됨</p></td> 
-   <td><p>주소 삭제</p></td> 
-   <td><p>주소 삭제</p></td> 
-  </tr> 
- </tbody> 
+<table>
+ <tbody>
+  <tr>
+   <th><p>REST API 이름</p></th>
+   <th><p>SOAP API 이름</p></th>
+   <th><p>알기 쉬운 이름</p></th>
+  </tr>
+  <tr>
+   <td><p>부서</p></td>
+   <td><p>부서</p></td>
+   <td><p>부서</p></td>
+  </tr>
+  <tr>
+   <td><p>제목</p></td>
+   <td><p>제목</p></td>
+   <td><p>직위</p></td>
+  </tr>
+  <tr>
+   <td><p>등급</p></td>
+   <td><p>등급</p></td>
+   <td><p>등급</p></td>
+  </tr>
+  <tr>
+   <td><p>잠재 고객 스코어</p></td>
+   <td><p>잠재 고객 스코어</p></td>
+   <td><p>점수</p></td>
+  </tr>
+  <tr>
+   <td><p>잠재 고객 상태</p></td>
+   <td><p>잠재 고객 상태</p></td>
+   <td><p>상태</p></td>
+  </tr>
+  <tr>
+   <td><p>우선 순위</p></td>
+   <td><p>우선순위</p></td>
+   <td><p>우선순위</p></td>
+  </tr>
+  <tr>
+   <td><p>리드 역할</p></td>
+   <td><p>잠재 고객 역할</p></td>
+   <td><p>역할</p></td>
+  </tr>
+  <tr>
+   <td><p>구독 취소됨</p></td>
+   <td><p>주소 삭제</p></td>
+   <td><p>주소 삭제</p></td>
+  </tr>
+ </tbody>
 </table>
 
 새 [!DNL Web Personalization] 계정에 대해 다음 리드 필드가 즉시 제공됩니다.

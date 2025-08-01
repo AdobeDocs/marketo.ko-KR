@@ -4,16 +4,16 @@ description: 필드 숨기기 및 숨기기 취소 - Marketo 문서 - 제품 설
 title: 필드 숨기기 및 숨기기 취소
 exl-id: 14395c31-d0f4-4aec-8592-a60a764a7263
 feature: Field Management
-source-git-commit: 37e6f60d2f26ce2c7a8c7564f33c6121a6a507a1
+source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
 workflow-type: tm+mt
-source-wordcount: '177'
-ht-degree: 1%
+source-wordcount: '162'
+ht-degree: 2%
 
 ---
 
 # 필드 숨기기 및 숨기기 취소 {#hide-and-unhide-a-field}
 
-더 이상 Marketo Engage의 필드를 사용할 수 없는 경우 애플리케이션에 더 이상 표시되지 않도록 UI에서 숨길 수 있습니다.
+Marketo Engage에서 더 이상 필드를 사용할 수 없는 경우 애플리케이션에 더 이상 표시되지 않도록 UI에서 숨길 수 있습니다.
 
 ## 필드 숨기기 {#hide-a-field}
 
@@ -21,15 +21,15 @@ ht-degree: 1%
 >
 >**관리자 권한 필요**
 
-1. **[!UICONTROL 관리자]** 영역으로 이동합니다.
+1. **[!UICONTROL Admin]** 영역으로 이동합니다.
 
    ![](assets/hide-and-unhide-a-field-1.png)
 
-1. **[!UICONTROL 필드 관리]**&#x200B;를 클릭합니다.
+1. **[!UICONTROL Field Management]**&#x200B;을(를) 클릭합니다.
 
    ![](assets/hide-and-unhide-a-field-2.png)
 
-1. 필드를 찾아 선택한 다음 **[!UICONTROL 필드 작업]**&#x200B;에서 **[!UICONTROL 필드 숨기기]**&#x200B;를 클릭합니다.
+1. 필드를 찾아 선택한 다음 **[!UICONTROL Field Actions]**&#x200B;에서 **[!UICONTROL Hide Field]**&#x200B;을(를) 클릭합니다.
 
    ![](assets/hide-and-unhide-a-field-3.png)
 
@@ -39,7 +39,7 @@ ht-degree: 1%
    >* 표준(시스템) 필드는 숨길 수 없습니다.
    >* 영업 기회 정보 필드는 숨길 수 없습니다.
 
-1. 확인하려면 **[!UICONTROL 숨기기]**&#x200B;를 클릭하세요.
+1. **[!UICONTROL Hide]**&#x200B;을(를) 클릭하여 확인합니다.
 
    ![](assets/hide-and-unhide-a-field-4.png)
 
@@ -49,17 +49,16 @@ ht-degree: 1%
 
 ## 필드 숨기기 취소 {#unhide-a-field}
 
-1. **[!UICONTROL 관리자]** 영역으로 이동합니다.
+1. **[!UICONTROL Admin]** 영역으로 이동합니다.
 
    ![](assets/hide-and-unhide-a-field-6.png)
 
-1. **[!UICONTROL 필드 관리]**&#x200B;를 클릭합니다.
+1. **[!UICONTROL Field Management]**&#x200B;을(를) 클릭합니다.
 
    ![](assets/hide-and-unhide-a-field-7.png)
 
-1. 필드를 찾아 선택합니다. [!UICONTROL 필드 작업] 드롭다운에서 **[!UICONTROL 필드 숨김 해제]**&#x200B;를 클릭합니다.
+1. 필드를 찾아 선택합니다. [!UICONTROL Field Actions] 드롭다운에서 **[!UICONTROL Unhide Field]**&#x200B;을(를) 클릭합니다.
 
    ![](assets/hide-and-unhide-a-field-8.png)
 
    훌륭합니다! 이제 필드 숨김을 풀고 다시 표시하는 방법을 알 수 있습니다.
-

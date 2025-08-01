@@ -4,9 +4,9 @@ description: SEO - 키워드 추가 - Marketo 문서 - 제품 설명서
 title: SEO - 키워드 추가
 exl-id: 95e7907a-62f7-40c7-85a9-97728fbe40eb
 feature: SEO
-source-git-commit: d9ea30742b6ef3b6299284a1f446a69f15105379
+source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
 workflow-type: tm+mt
-source-wordcount: '93'
+source-wordcount: '91'
 ht-degree: 0%
 
 ---
@@ -19,11 +19,11 @@ ht-degree: 0%
 >
 >키워드가 많으면 [CSV 파일로 가져올 수 있습니다](/help/marketo/product-docs/additional-apps/seo/keywords/seo-importing-keywords-with-a-csv.md).
 
-1. **[!UICONTROL 키워드]** 섹션으로 이동합니다.
+1. **[!UICONTROL Keywords]** 섹션으로 이동합니다.
 
    ![](assets/image2014-9-18-11-3a28-3a39.png)
 
-1. 타깃팅할 키워드를 입력하고 **[!UICONTROL 저장]**&#x200B;을 클릭합니다.
+1. 타깃팅할 키워드를 입력하고 **[!UICONTROL Save]**&#x200B;을(를) 클릭합니다.
 
    ![](assets/image2014-9-18-11-3a28-3a51.png)
 

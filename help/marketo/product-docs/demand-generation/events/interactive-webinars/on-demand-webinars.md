@@ -3,7 +3,7 @@ description: 온디맨드 웨비나 - Marketo 문서 - 제품 설명서
 title: 온디맨드 웨비나
 feature: Interactive Webinars
 exl-id: 65bfc1d2-6382-4cfa-9560-69cbb0c37c42
-source-git-commit: 7de0aed6be29a304276f2b3f96dd60974b4c4eb6
+source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
 workflow-type: tm+mt
 source-wordcount: '449'
 ht-degree: 0%
@@ -16,7 +16,7 @@ ht-degree: 0%
 
 이벤트 전에 등록자와 공유된 웨비나 가입 URL을 사용하여 온디맨드 녹화를 볼 수 있습니다. 라이브 이벤트에 참석하지 않은 등록자(예: 프로그램 상태가 &quot;No-Show&quot;인 잠재 고객)가 웨비나 가입 URL을 클릭하면 해당 잠재 고객의 프로그램 상태가 &quot;No-Show&quot;에서 &quot;Attend On-Demand&quot;로 변경됩니다. 이벤트를 라이브로 시청하고 &quot;참석함&quot; 상태인 잠재 고객의 프로그램 상태는 가입 URL을 방문하여 온디맨드 녹화를 시청하기로 결정한 경우 영향을 받지 않습니다.
 
-대화형 웨비나를 지원하는 기술인 Adobe Connect은 방문 및 녹화를 시청하는 리드와 관련된 시청 기간을 추적하고 정보를 매일 Marketo Engage에 보고합니다. 온디맨드 웨비나에 대한 추적은 이벤트 후 30일 후에 중지됩니다. 기간은 수정할 수 없습니다.
+대화형 웨비나를 구동하는 기술인 Adobe Connect은 방문과 녹화를 시청하는 리드와 관련된 시청 기간을 추적하고 정보를 매일 Marketo Engage에 보고합니다. 온디맨드 웨비나에 대한 추적은 이벤트 후 30일 후에 중지됩니다. 기간은 수정할 수 없습니다.
 
 Marketo Engage은 다음 위젯의 도움을 받아 대시보드 탭의 온디맨드 웨비나에 대한 시계 통계를 제공합니다.
 

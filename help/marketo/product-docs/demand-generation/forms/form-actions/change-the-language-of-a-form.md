@@ -4,7 +4,7 @@ description: 양식의 언어 변경 - Marketo 문서 - 제품 설명서
 title: 양식의 언어 변경
 exl-id: 7f8e8dc4-b0e7-4bd4-a81b-9e0c3ce29300
 feature: Forms
-source-git-commit: 210c18f522a8358d02eb19018755daf2af2bd280
+source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
 workflow-type: tm+mt
 source-wordcount: '137'
 ht-degree: 1%
@@ -58,4 +58,3 @@ ht-degree: 1%
 이제 선택한 언어가 양식에 반영됩니다.
 
 ![](assets/change-the-language-of-a-form-8.png)
-

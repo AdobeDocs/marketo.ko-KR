@@ -4,7 +4,7 @@ description: RTP를 Google Universal Analytics - Marketo 문서 - 제품 설명�
 title: RTP를 Google Universal Analytics와 통합
 exl-id: e8fc8730-c91d-44ad-8843-aa5b38f1ebd1
 feature: Web Personalization
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
 workflow-type: tm+mt
 source-wordcount: '368'
 ht-degree: 2%
@@ -42,8 +42,7 @@ RTP의 데이터가 있는 [!DNL Google Universal Analytics]을(를) 사용하�
    1. **[!UICONTROL Admin]**(으)로 이동
    1. **[!UICONTROL Account].** 선택
    1. **[!UICONTROL Property].** 선택
-   1. **[!UICONTROL Custom Definitions]** 및 **[!UICONTROL Custom Dimensions]**&#x200B;을(를) 선택합니다.
-
+   1. **[!UICONTROL Custom Definitions]** 및 **[!UICONTROL Custom Dimensions]**을(를) 선택합니다.
       ![](assets/image2014-11-29-11-3a2-3a32.png)
 
 1. 새 사용자 지정 차원을 추가합니다. **[!UICONTROL +New Custom Dimension]**&#x200B;를 클릭합니다.
@@ -52,34 +51,34 @@ RTP의 데이터가 있는 [!DNL Google Universal Analytics]을(를) 사용하�
 
 1. **[!UICONTROL Custom Dimensions]:** 추가
 
-<table> 
- <tbody> 
-  <tr> 
-   <td><p><strong>사용자 지정 Dimension 이름</strong></p></td> 
-   <td><p><strong>범위</strong></p></td> 
-   <td><p><strong>활성</strong></p></td> 
-  </tr> 
-  <tr> 
-   <td><p><strong>RTP-조직</strong></p></td> 
-   <td><p>Session</p></td> 
-   <td><p align="center">✓</p></td> 
-  </tr> 
-  <tr> 
-   <td><p><strong>RTP-업계</strong></p></td> 
-   <td><p>Session</p></td> 
-   <td><p align="center">✓</p></td> 
-  </tr> 
-  <tr> 
-   <td><p><strong>RTP 범주</strong></p></td> 
-   <td><p>Session</p></td> 
-   <td><p align="center">✓</p></td> 
-  </tr> 
-  <tr> 
-   <td><p><strong>RTP 그룹</strong></p></td> 
-   <td><p>Session</p></td> 
-   <td><p align="center">✓</p></td> 
-  </tr> 
- </tbody> 
+<table>
+ <tbody>
+  <tr>
+   <td><p><strong>사용자 지정 Dimension 이름</strong></p></td>
+   <td><p><strong>범위</strong></p></td>
+   <td><p><strong>활성</strong></p></td>
+  </tr>
+  <tr>
+   <td><p><strong>RTP-조직</strong></p></td>
+   <td><p>Session</p></td>
+   <td><p align="center">✓</p></td>
+  </tr>
+  <tr>
+   <td><p><strong>RTP-업계</strong></p></td>
+   <td><p>Session</p></td>
+   <td><p align="center">✓</p></td>
+  </tr>
+  <tr>
+   <td><p><strong>RTP 범주</strong></p></td>
+   <td><p>Session</p></td>
+   <td><p align="center">✓</p></td>
+  </tr>
+  <tr>
+   <td><p><strong>RTP 그룹</strong></p></td>
+   <td><p>Session</p></td>
+   <td><p align="center">✓</p></td>
+  </tr>
+ </tbody>
 </table>
 
 >[!NOTE]

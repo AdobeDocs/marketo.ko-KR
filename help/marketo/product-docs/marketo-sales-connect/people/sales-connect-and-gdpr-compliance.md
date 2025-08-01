@@ -4,7 +4,7 @@ description: Sales Connect 및 GDPR 규정 준수 - Marketo 문서 - 제품 설�
 title: Sales Connect 및 GDPR 준수
 exl-id: f5822085-0372-42f9-b6d6-9f6ce58559ea
 feature: Marketo Sales Connect
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
 workflow-type: tm+mt
 source-wordcount: '1299'
 ht-degree: 0%
@@ -124,44 +124,44 @@ GDPR에는 마케터가 과거, 현재 및 향후 사례를 검토해야 하는 
 
 개인 세부 정보 보기에서 연락처 정보를 내보낼 수 있습니다. 내보내면 다음 열이 있는 .CSV 파일이 다운로드됩니다.
 
-<table> 
- <colgroup> 
-  <col> 
-  <col> 
-  <col> 
- </colgroup> 
- <tbody> 
-  <tr> 
-   <td>[!UICONTROL First Name]</td> 
-   <td>[!UICONTROL Website]</td> 
-   <td>[!DNL Facebook]</td> 
-  </tr> 
-  <tr> 
-   <td>[!UICONTROL Last Name]</td> 
-   <td>[!UICONTROL Other]</td> 
-   <td>[!DNL Twitter]</td> 
-  </tr> 
-  <tr> 
-   <td>[!UICONTROL Company]</td> 
-   <td>[!UICONTROL Updated At]</td> 
-   <td>[!DNL LinkedIn]</td> 
-  </tr> 
-  <tr> 
-   <td>[!UICONTROL Title]</td> 
-   <td>[!UICONTROL Created At]</td> 
-   <td>[!UICONTROL Exported At]</td> 
-  </tr> 
-  <tr> 
-   <td>[!UICONTROL Email ID]</td> 
-   <td>[!UICONTROL Salesforce ID]</td> 
-   <td><br></td> 
-  </tr> 
-  <tr> 
-   <td>[!UICONTROL Phone Number]</td> 
-   <td>[!UICONTROL Person ID]</td> 
-   <td><br></td> 
-  </tr> 
- </tbody> 
+<table>
+ <colgroup>
+  <col>
+  <col>
+  <col>
+ </colgroup>
+ <tbody>
+  <tr>
+   <td>[!UICONTROL First Name]</td>
+   <td>[!UICONTROL Website]</td>
+   <td>[!DNL Facebook]</td>
+  </tr>
+  <tr>
+   <td>[!UICONTROL Last Name]</td>
+   <td>[!UICONTROL Other]</td>
+   <td>[!DNL Twitter]</td>
+  </tr>
+  <tr>
+   <td>[!UICONTROL Company]</td>
+   <td>[!UICONTROL Updated At]</td>
+   <td>[!DNL LinkedIn]</td>
+  </tr>
+  <tr>
+   <td>[!UICONTROL Title]</td>
+   <td>[!UICONTROL Created At]</td>
+   <td>[!UICONTROL Exported At]</td>
+  </tr>
+  <tr>
+   <td>[!UICONTROL Email ID]</td>
+   <td>[!UICONTROL Salesforce ID]</td>
+   <td><br></td>
+  </tr>
+  <tr>
+   <td>[!UICONTROL Phone Number]</td>
+   <td>[!UICONTROL Person ID]</td>
+   <td><br></td>
+  </tr>
+ </tbody>
 </table>
 
 >[!NOTE]
@@ -180,9 +180,9 @@ GDPR에는 마케터가 과거, 현재 및 향후 사례를 검토해야 하는 
 
 GDPR의 일반적으로 잘못 이해된 영역 중 하나는 조직의 데이터베이스에서 구독을 취소하는 연락처와 관련되어 있습니다. 구독을 취소하려는 사용자의 데이터 보호에 대한 새로운 규칙을 준수하기 위해 [!DNL Marketo Sales Connect]에 다음 기능이 포함되었습니다.
 
-**구독 취소 링크:** 구독 취소 링크는 [!DNL Sales Connect] 웹 응용 프로그램에서 보낸 모든 전자 메일에 자동으로 추가되어 연락처에 액세스 가능한 옵트아웃 방법을 제공합니다.\
-**동기화 구독 취소:** 사용자는 CRM([!DNL Salesforce])에서 구독 취소를 동기화하여 옵트아웃이 최신 상태인지 확인할 수 있습니다.\
-**구독 취소 기록:** 사용자는 개인 세부 정보 보기에서 이전 옵트아웃 및 옵트인을 볼 수 있습니다.\
+**구독 취소 링크:** 구독 취소 링크는 [!DNL Sales Connect] 웹 응용 프로그램에서 보낸 모든 전자 메일에 자동으로 추가되어 연락처에 액세스 가능한 옵트아웃 방법을 제공합니다.
+**동기화 구독 취소:** 사용자는 CRM([!DNL Salesforce])에서 구독 취소를 동기화하여 옵트아웃이 최신 상태인지 확인할 수 있습니다.
+**구독 취소 기록:** 사용자는 개인 세부 정보 보기에서 이전 옵트아웃 및 옵트인을 볼 수 있습니다.
 **구독 취소 제거:**&#x200B;에서 구독 취소한 연락처를 다시 선택하려면 사용자에게 관리자 권한이 있어야 하며 연락처에 연락하는 데 새 동의했음을 보여 주어야 합니다.
 
 ## 향후 업데이트 {#future-updates}

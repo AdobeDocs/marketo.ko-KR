@@ -3,7 +3,7 @@ description: 새 Marketo Engage 인스턴스를 구현할 때의 모범 사례�
 title: 시작 위치
 feature: Getting Started
 exl-id: 91b751ab-88c5-4575-96f8-166f62f007e2
-source-git-commit: abd80b3370f7fd107a6ae55edfeb17c3eeb358ec
+source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
 workflow-type: tm+mt
 source-wordcount: '281'
 ht-degree: 0%
@@ -14,7 +14,7 @@ ht-degree: 0%
 
 새 Adobe Marketo Engage 인스턴스 시작! 강력한 마케팅 자동화 기능을 통해 마케팅 작업 및 워크플로를 능률화, 자동화 및 측정할 준비를 하십시오.
 
-이 &quot;새 Marketo Engage 인스턴스 구현&quot; 안내서에서 인스턴스를 원활하게 구현하여 장기 위생 및 운영 효율성을 보장하는 모범 사례에 대해 알아봅니다. 각 체크리스트는 구성 진행 상황을 추적하는 중요한 단계를 제공합니다. [다운로드 가능한 확인 목록](/help/marketo/getting-started/implementing-a-new-marketo-engage-instance/assets/adobe-marketo-engage-new-instance-admin-checklist.xlsx){target="_blank"}을 사용하여 향후 인스턴스 감사 및 사용자 온보딩을 위해 작업을 문서화합니다.
+이 &quot;새 Marketo Engage 인스턴스 구현&quot; 안내서에서 인스턴스를 원활하게 구현하여 장기 위생 및 운영 효율성을 보장하기 위한 모범 사례에 대해 알아봅니다. 각 체크리스트는 구성 진행 상황을 추적하는 중요한 단계를 제공합니다. [다운로드 가능한 확인 목록](/help/marketo/getting-started/implementing-a-new-marketo-engage-instance/assets/adobe-marketo-engage-new-instance-admin-checklist.xlsx){target="_blank"}을 사용하여 향후 인스턴스 감사 및 사용자 온보딩을 위해 작업을 문서화합니다.
 
 ## 초기 설정 {#initial-setup}
 

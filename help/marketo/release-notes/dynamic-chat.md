@@ -3,7 +3,7 @@ description: Dynamic Chat 릴리스 정보 - Marketo 설명서 - 제품 설명�
 title: Dynamic Chat 릴리스 정보
 feature: Release Information, Dynamic Chat
 exl-id: 0447dc47-b9c5-42e1-8f66-73bf67c7871d
-source-git-commit: 5dbc3add8acaae02f25c1f9b9ae39ecfc1aaf259
+source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
 workflow-type: tm+mt
 source-wordcount: '3408'
 ht-degree: 1%
@@ -104,7 +104,7 @@ Marketo Engage [에 대한 표준 릴리스 정보 페이지는 여기](/help/ma
 
 <p>
 
-_&#x200B;**계정 라우팅**&#x200B;_
+_**계정 라우팅**_
 
 <table><thead>
   <tr>
@@ -130,7 +130,7 @@ _&#x200B;**계정 라우팅**&#x200B;_
   </tr>
 </tbody></table>
 
-_&#x200B;**사용자 지정 라우팅**&#x200B;_
+_**사용자 지정 라우팅**_
 
 <table><thead>
   <tr>
@@ -156,7 +156,7 @@ _&#x200B;**사용자 지정 라우팅**&#x200B;_
   </tr>
 </tbody></table>
 
-_&#x200B;**팀 라우팅**&#x200B;_
+_**팀 라우팅**_
 
 <table><thead>
   <tr>
@@ -182,7 +182,7 @@ _&#x200B;**팀 라우팅**&#x200B;_
   </tr>
 </tbody></table>
 
-_&#x200B;**라운드 로빈 라우팅**&#x200B;_
+_**라운드 로빈 라우팅**_
 
 <table><thead>
   <tr>

@@ -4,7 +4,7 @@ description: Marketo 랜딩 페이지에서 RTP 구현 - Marketo 문서 - 제품
 title: Marketo 랜딩 페이지에서 RTP 구현
 exl-id: fd19c3ad-d3f6-44a3-9f7a-d518e2d3f02a
 feature: Web Personalization
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
 workflow-type: tm+mt
 source-wordcount: '169'
 ht-degree: 0%
@@ -15,7 +15,7 @@ ht-degree: 0%
 
 [!UICONTROL RTP tag]을(를) 구현하려면 아래 설치 지침을 따르십시오.
 
-1. **[!UICONTROL Design Studio] (으)로 이동합니다.** 편집할 항목을 엽니다. **[!UICONTROL Template Actions]**&#x200B;을(를) 선택하고 **[!UICONTROL Edit Draft]**&#x200B;을(를) 선택합니다.
+1. **[!UICONTROL Design Studio](으)로 이동합니다.** 편집할 항목을 엽니다. **[!UICONTROL Template Actions]**&#x200B;을(를) 선택하고 **[!UICONTROL Edit Draft]**&#x200B;을(를) 선택합니다.
 
    ![](assets/image2015-4-26-18-3a27-3a4.png)
 
@@ -49,4 +49,4 @@ ht-degree: 0%
 
 1. 랜딩 페이지 및 하위 도메인을 포함한 모든 페이지에 표시되는지 확인합니다.
 
-   웹 사이트의 페이지를 마우스 오른쪽 버튼으로 클릭하여 이 작업을 수행할 수 있습니다. **[!UICONTROL View Page Source] (으)로 이동합니다.** **[!UICONTROL RTP]**&#x200B;을(를) 검색하여 태그를 찾습니다.
+   웹 사이트의 페이지를 마우스 오른쪽 버튼으로 클릭하여 이 작업을 수행할 수 있습니다. **[!UICONTROL View Page Source](으)로 이동합니다.** **[!UICONTROL RTP]**&#x200B;을(를) 검색하여 태그를 찾습니다.

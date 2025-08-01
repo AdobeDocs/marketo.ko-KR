@@ -4,7 +4,7 @@ description: Facebook의 개인화된 리마케팅 - Marketo 문서 - 제품 설
 title: Facebook의 개인화된 리마케팅
 exl-id: 47636afa-49df-40ba-8948-4f2850467c2f
 feature: Web Personalization
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
 workflow-type: tm+mt
 source-wordcount: '254'
 ht-degree: 6%
@@ -18,7 +18,7 @@ ht-degree: 6%
 >[!PREREQUISITES]
 >
 >* [웹 Personalization 데이터를 사용하여 다시 타깃팅](/help/marketo/product-docs/web-personalization/website-retargeting/retargeting-with-web-personalization-data.md) 설정을 완료합니다.
->* 사용자 지정 대상[ 및 리마케팅에 대한 ](https://developers.facebook.com/docs/ads-for-websites/website-custom-audiences/getting-started#install-the-pixel) [&#128279;](https://developers.facebook.com/docs/ads-for-websites/website-custom-audiences/getting-started#install-the-pixel)Facebook 설명서를 검토하십시오.
+>* 사용자 지정 대상[ 및 리마케팅에 대한 ](https://developers.facebook.com/docs/ads-for-websites/website-custom-audiences/getting-started#install-the-pixel)[ ](https://developers.facebook.com/docs/ads-for-websites/website-custom-audiences/getting-started#install-the-pixel)Facebook 설명서를 검토하십시오.
 
 ## [!DNL Facebook]에서 대상을 만드는 중 {#creating-an-audience-in-facebook}
 
@@ -58,47 +58,47 @@ ht-degree: 6%
 
 ## [!DNL Facebook]의 RTP 데이터 포인트 {#rtp-data-points-in-facebook}
 
-<table> 
- <tbody> 
-  <tr> 
-   <th>이벤트 이름</th> 
-   <th> </th> 
-  </tr> 
-  <tr> 
-   <td>RTP 리마케팅</td> 
-   <td> 
-    <div> 
-     <table> 
-      <tbody> 
-       <tr> 
-        <th>매개변수</th> 
-        <th>값</th> 
-       </tr> 
-       <tr> 
-        <td>ABM 목록</td> 
-        <td>(계정 기반 목록 이름)</td> 
-       </tr> 
-       <tr> 
-        <td colspan="1">카테고리</td> 
-        <td colspan="1"><p>Fortune 500</p><p>Fortune 1000</p><p>글로벌 2000</p></td> 
-       </tr> 
-       <tr> 
-        <td colspan="1">그룹</td> 
-        <td colspan="1"><p>엔터프라이즈</p><p>중소기업</p></td> 
-       </tr> 
-       <tr> 
-        <td>업종</td> 
-        <td><p>방어</p><p>교육</p><p>금융 서비스</p><p>정부</p><p>의료, 제약, 생명 공학</p><p>소프트웨어 및 인터넷</p><p>등(RTP 업계 옵션에 따라)</p></td> 
-       </tr> 
-       <tr> 
-        <td colspan="1">세분화된 대상자</td> 
-        <td colspan="1">(RTP에서 생성된 세그먼트화된 대상자의 이름)</td> 
-       </tr> 
-      </tbody> 
-     </table> 
-    </div></td> 
-  </tr> 
- </tbody> 
+<table>
+ <tbody>
+  <tr>
+   <th>이벤트 이름</th>
+   <th> </th>
+  </tr>
+  <tr>
+   <td>RTP 리마케팅</td>
+   <td>
+    <div>
+     <table>
+      <tbody>
+       <tr>
+        <th>매개변수</th>
+        <th>값</th>
+       </tr>
+       <tr>
+        <td>ABM 목록</td>
+        <td>(계정 기반 목록 이름)</td>
+       </tr>
+       <tr>
+        <td colspan="1">카테고리</td>
+        <td colspan="1"><p>Fortune 500</p><p>Fortune 1000</p><p>글로벌 2000</p></td>
+       </tr>
+       <tr>
+        <td colspan="1">그룹</td>
+        <td colspan="1"><p>엔터프라이즈</p><p>중소기업</p></td>
+       </tr>
+       <tr>
+        <td>업종</td>
+        <td><p>방어</p><p>교육</p><p>금융 서비스</p><p>정부</p><p>의료, 제약, 생명 공학</p><p>소프트웨어 및 인터넷</p><p>등(RTP 업계 옵션에 따라)</p></td>
+       </tr>
+       <tr>
+        <td colspan="1">세분화된 대상자</td>
+        <td colspan="1">(RTP에서 생성된 세그먼트화된 대상자의 이름)</td>
+       </tr>
+      </tbody>
+     </table>
+    </div></td>
+  </tr>
+ </tbody>
 </table>
 
 ## 광고로 대상자 타겟팅 {#target-your-audience-with-an-ad}

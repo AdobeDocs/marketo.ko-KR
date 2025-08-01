@@ -3,9 +3,9 @@ description: SMS 메시지 만들기 - Marketo 문서 - 제품 설명서
 title: SMS 메시지 만들기
 feature: Mobile Marketing
 exl-id: 94749ea4-2fe3-4d90-9b31-35700ddd1670
-source-git-commit: dae00c6877e638ae60305122f3f3e17b3c922e10
+source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
 workflow-type: tm+mt
-source-wordcount: '481'
+source-wordcount: '476'
 ht-degree: 0%
 
 ---
@@ -22,11 +22,11 @@ SMS 메시지를 만드는 방법은 다음과 같습니다.
 >
 >[LaunchPoint 서비스로 비디오 추가](/help/marketo/product-docs/mobile-marketing/admin/add-vibes-as-a-launchpoint-service.md){target="_blank"}
 
-1. **[!UICONTROL 마케팅 활동]**(으)로 이동합니다.
+1. **[!UICONTROL Marketing Activities]**(으)로 이동합니다.
 
    ![](assets/create-an-sms-message-1.png)
 
-1. 원하는 프로그램을 마우스 오른쪽 단추로 클릭하고 **[!UICONTROL 새 로컬 자산]**&#x200B;을 선택합니다.
+1. 원하는 프로그램을 마우스 오른쪽 단추로 클릭하고 **[!UICONTROL New Local Asset]**&#x200B;을(를) 선택합니다.
 
    ![](assets/create-an-sms-message-2.png)
 
@@ -72,7 +72,7 @@ SMS 메시지를 만드는 방법은 다음과 같습니다.
 
    >[!NOTE]
    >
-   >기본적으로 두 개의 추적 링크가 선택되어 있습니다. mkt_tok 포함만 선택을 취소해도 링크가 계속 추적될 수 있지만, 리디렉션 후 대상 URL에는 mkt_tok 쿼리 문자열 매개 변수가 포함되지 않습니다. 이 매개 변수는 Marketo 랜딩 페이지 및 Munchkin에서 개인 활동(예: 개인이 옵트아웃한 경우)을 적절히 추적하는 데 사용됩니다.
+   >기본적으로 두 개의 추적 링크가 선택되어 있습니다. mkt_tok 포함만 선택을 취소해도 링크가 계속 추적될 수 있지만, 리디렉션 후 대상 URL에는 mkt_tok 쿼리 문자열 매개 변수가 포함되지 않습니다. 이 매개 변수는 개인 활동(예: 개인이 옵트아웃하는 경우)을 적절히 추적하기 위해 Marketo 랜딩 페이지 및 Munchkin에서 사용됩니다.
 
 1. 외부 URL을 대신 사용하려면 **외부 URL**&#x200B;을 선택하고 URL을 입력/붙여 넣은 다음 **삽입**&#x200B;을 클릭하세요.
 

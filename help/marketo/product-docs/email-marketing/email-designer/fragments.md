@@ -6,9 +6,9 @@ description: 시각적 콘텐츠 조각을 이메일 및 이메일 템플릿에 
 level: Beginner, Intermediate
 feature: Email Designer
 exl-id: abc065a0-cd2f-4f0f-a5f2-228b833b99a8
-source-git-commit: bfa1bc900c2adc263e634a81440b77bef2976d3b
+source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
 workflow-type: tm+mt
-source-wordcount: '1850'
+source-wordcount: '1851'
 ht-degree: 1%
 
 ---
@@ -36,7 +36,7 @@ ht-degree: 1%
 
 ![조각 액세스](assets/access-and-manage-fragments-1.png){width="600" zoomable="yes"}
 
-기본적으로 테이블은 _[!UICONTROL Modified]_&#x200B;열을 기준으로 정렬됩니다. 테이블 정렬 기준을 변경하려면 다른 열 제목을 클릭합니다. 오름차순과 내림차순 간을 전환하려면 동일한 제목을 다시 클릭합니다.
+기본적으로 테이블은 _[!UICONTROL Modified]_열을 기준으로 정렬됩니다. 테이블 정렬 기준을 변경하려면 다른 열 제목을 클릭합니다. 오름차순과 내림차순 간을 전환하려면 동일한 제목을 다시 클릭합니다.
 
 ### 찾기 및 필터링
 
@@ -81,7 +81,7 @@ ht-degree: 1%
   </tr>
   <tr>
     <td style="width:25%"><b>초안과 함께 게시됨</b></td>
-    <td style="width:75%">게시된 조각에서 초안을 만들 때 게시된 버전은 이메일 또는 이메일 템플릿에서 사용할 수 있으며 비주얼 디자이너에서 초안 콘텐츠를 수정할 수 있습니다. 초안 버전을 게시하면 현재 게시된 버전이 대체되며 사용 중인 전자 메일 및 전자 메일 템플릿에서 <i>모두</i>의 콘텐츠가 업데이트됩니다. 
+    <td style="width:75%">게시된 조각에서 초안을 만들 때 게시된 버전은 이메일 또는 이메일 템플릿에서 사용할 수 있으며 비주얼 디자이너에서 초안 콘텐츠를 수정할 수 있습니다. 초안 버전을 게시하면 현재 게시된 버전이 대체되며 사용 중인 전자 메일 및 전자 메일 템플릿에서 <i>모두</i>의 콘텐츠가 업데이트됩니다.
     <p>사용 가능한 작업:
     <li>설명 편집</li>
     <li>이메일 또는 템플릿에 추가</li>
@@ -160,7 +160,7 @@ ht-degree: 1%
 다음 방법 중 하나를 사용하여 조각을 삭제할 수 있습니다.
 
 * 오른쪽의 조각 세부 정보에서 **[!UICONTROL Delete]**&#x200B;을(를) 클릭합니다.
-* _[!UICONTROL Fragments]_&#x200B;목록 페이지에서 조각 옆에 있는 줄임표를 클릭하고&#x200B;**[!UICONTROL Delete]**&#x200B;을(를) 선택합니다.
+* _[!UICONTROL Fragments]_목록 페이지에서 조각 옆에 있는 줄임표를 클릭하고&#x200B;**[!UICONTROL Delete]**을(를) 선택합니다.
 
 이 작업을 수행하면 확인 대화 상자가 열립니다. **[!UICONTROL Cancel]**&#x200B;을(를) 클릭하여 프로세스를 중단하거나 **[!UICONTROL Delete]**&#x200B;을(를) 클릭하여 삭제를 확인할 수 있습니다.
 
@@ -178,7 +178,7 @@ ht-degree: 1%
 
 >[!TAB 초안]
 
-1. _[!UICONTROL Fragments]_&#x200B;목록 페이지에서 조각 이름을 클릭하여 엽니다.
+1. _[!UICONTROL Fragments]_목록 페이지에서 조각 이름을 클릭하여 엽니다.
 
    오른쪽에 조각 세부 사항이 있는 시각적 콘텐츠의 미리보기가 표시됩니다.
 
@@ -194,7 +194,7 @@ ht-degree: 1%
 
 >[!TAB 게시됨]
 
-1. _[!UICONTROL Fragments]_&#x200B;목록 페이지에서 조각 이름을 클릭하여 엽니다.
+1. _[!UICONTROL Fragments]_목록 페이지에서 조각 이름을 클릭하여 엽니다.
 
    오른쪽에 조각 세부 사항이 있는 시각적 콘텐츠의 미리보기가 표시됩니다.
 
@@ -218,7 +218,7 @@ ht-degree: 1%
 
 >[!TAB 초안으로 게시됨]
 
-_[!UICONTROL Fragments]_&#x200B;목록 페이지에서 편집할 초안 버전을 여는 방법에는 두 가지가 있습니다.
+_[!UICONTROL Fragments]_목록 페이지에서 편집할 초안 버전을 여는 방법에는 두 가지가 있습니다.
 
 * 조각 이름 옆의 _자세히_ 아이콘(**...**)을 클릭하고 **[!UICONTROL Open draft version]**&#x200B;을(를) 선택합니다.
 
@@ -246,7 +246,7 @@ _[!UICONTROL Fragments]_&#x200B;목록 페이지에서 편집할 초안 버전�
 
 다음 방법 중 하나를 사용하여 조각을 복제할 수 있습니다.
 
-* _[!UICONTROL Fragments]_&#x200B;목록 페이지에서 조각 이름 옆의_&#x200B;자세히&#x200B;_아이콘(**...**)을 클릭하고&#x200B;**[!UICONTROL Duplicate]**&#x200B;을(를) 선택합니다.
+* _[!UICONTROL Fragments]_목록 페이지에서 조각 이름 옆의_&#x200B;자세히&#x200B;_아이콘(**...**)을 클릭하고&#x200B;**[!UICONTROL Duplicate]**을(를) 선택합니다.
 * 조각 세부 정보 페이지의 오른쪽 상단에서 **[!UICONTROL ... More]**&#x200B;을(를) 클릭하고 **[!UICONTROL Duplicate]**&#x200B;을(를) 선택합니다.
 
 ![조각 복제](assets/fragment-details-duplicate.png){width="600" zoomable="yes"}
@@ -287,9 +287,9 @@ _[!UICONTROL Fragments]_&#x200B;목록 페이지에서 편집할 초안 버전�
 
 >[!TIP]
 >
->조각이 전자 메일 내의 전체 가로 레이아웃을 차지하도록 하려면 [!UICONTROL 1:1 column] 구조를 추가한 다음 조각을 끌어서 놓습니다.
+>조각이 전자 메일 내의 전체 가로 레이아웃을 차지하도록 하려면 [!UICONTROL 1:1 열] 구조를 추가한 다음 조각을 끌어서 놓습니다.
 
-전자 메일/전자 메일 템플릿이 저장되면 _[!UICONTROL Used By]_&#x200B;탭을 선택하면 조각 세부 정보 페이지에 표시됩니다. 추가된 조각은 이메일 또는 템플릿 내에서 편집할 수 없습니다. 게시된 소스 조각은 콘텐츠를 정의합니다.
+전자 메일/전자 메일 템플릿이 저장되면 _[!UICONTROL Used By]_탭을 선택하면 조각 세부 정보 페이지에 표시됩니다. 추가된 조각은 이메일 또는 템플릿 내에서 편집할 수 없습니다. 게시된 소스 조각은 콘텐츠를 정의합니다.
 
 ## 이메일 및 템플릿 작성 중 조각 작업 {#fragment-actions-during-email-and-template-authoring}
 

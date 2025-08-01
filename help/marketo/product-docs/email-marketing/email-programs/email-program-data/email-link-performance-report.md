@@ -4,7 +4,7 @@ description: 이메일 링크 성과 보고서 - Marketo 문서 - 제품 설명�
 title: 이메일 링크 성과 보고서
 exl-id: 216af37d-561f-42ad-9f2c-3d9ee5dfd9d7
 feature: Email Programs
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
 workflow-type: tm+mt
 source-wordcount: '217'
 ht-degree: 1%
@@ -41,35 +41,35 @@ ht-degree: 1%
 
 전자 메일 링크 성능 보고서에 사용할 수 있는 [열](/help/marketo/product-docs/reporting/basic-reporting/editing-reports/select-report-columns.md)은(는) 다음과 같습니다.
 
-<table> 
- <thead> 
-  <tr> 
-   <th colspan="1" rowspan="1">[!UICONTROL Column]</th> 
-   <th colspan="1" rowspan="1">설명</th> 
-  </tr> 
- </thead> 
- <tbody> 
-  <tr> 
-   <td colspan="1" rowspan="1">[!UICONTROL Link]</td> 
-   <td colspan="1" rowspan="1">이메일 이름별로 그룹화됩니다.<br>더하기(+)를 클릭하면 해당 전자 메일에 포함된 모든 링크를 볼 수 있습니다.</td> 
-  </tr> 
-  <tr> 
-   <td colspan="1" rowspan="1">[!UICONTROL Clicks]</td> 
-   <td colspan="1" rowspan="1">링크를 클릭한 횟수입니다.</td> 
-  </tr> 
-  <tr> 
-   <td colspan="1" rowspan="1">% [!UICONTROL Clicks]</td> 
-   <td colspan="1" rowspan="1">해당 이메일의 모든 링크에 대한 총 클릭 수 중, 이 링크에 대한 백분율입니다.</td> 
-  </tr> 
-  <tr> 
-   <td colspan="1" rowspan="1">[!UICONTROL People]</td> 
-   <td colspan="1" rowspan="1">링크를 클릭한 고유한 사람 수입니다.</td> 
-  </tr> 
-  <tr> 
-   <td colspan="1" rowspan="1">% [!UICONTROL People]</td> 
-   <td colspan="1" rowspan="1">해당 이메일에서 링크를 클릭한 총 고유 사용자 중 이 링크에 대한 비율.</td> 
-  </tr> 
- </tbody> 
+<table>
+ <thead>
+  <tr>
+   <th colspan="1" rowspan="1">[!UICONTROL Column]</th>
+   <th colspan="1" rowspan="1">설명</th>
+  </tr>
+ </thead>
+ <tbody>
+  <tr>
+   <td colspan="1" rowspan="1">[!UICONTROL Link]</td>
+   <td colspan="1" rowspan="1">이메일 이름별로 그룹화됩니다.<br>더하기(+)를 클릭하면 해당 전자 메일에 포함된 모든 링크를 볼 수 있습니다.</td>
+  </tr>
+  <tr>
+   <td colspan="1" rowspan="1">[!UICONTROL Clicks]</td>
+   <td colspan="1" rowspan="1">링크를 클릭한 횟수입니다.</td>
+  </tr>
+  <tr>
+   <td colspan="1" rowspan="1">% [!UICONTROL Clicks]</td>
+   <td colspan="1" rowspan="1">해당 이메일의 모든 링크에 대한 총 클릭 수 중, 이 링크에 대한 백분율입니다.</td>
+  </tr>
+  <tr>
+   <td colspan="1" rowspan="1">[!UICONTROL People]</td>
+   <td colspan="1" rowspan="1">링크를 클릭한 고유한 사람 수입니다.</td>
+  </tr>
+  <tr>
+   <td colspan="1" rowspan="1">% [!UICONTROL People]</td>
+   <td colspan="1" rowspan="1">해당 이메일에서 링크를 클릭한 총 고유 사용자 중 이 링크에 대한 비율.</td>
+  </tr>
+ </tbody>
 </table>
 
 >[!NOTE]

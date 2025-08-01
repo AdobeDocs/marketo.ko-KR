@@ -3,7 +3,7 @@ description: Marketo 구독 및 Adobe Admin Console으로의 사용자 마이그
 title: Marketo 구독 및 Adobe Admin Console으로의 사용자 마이그레이션 이해
 exl-id: 91e7b56b-2563-4986-a55c-f9760ea88b05
 feature: Marketo with Adobe Identity
-source-git-commit: 8b44c3b2ccabeb796a3a8f7775848a5063279076
+source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
 workflow-type: tm+mt
 source-wordcount: '1571'
 ht-degree: 0%
@@ -123,4 +123,4 @@ Adobe은 모든 관리자 및 사용자가 마이그레이션되면 전자 메�
 >* [Adobe Identity로 마이그레이션 개요](/help/marketo/product-docs/administration/marketo-with-adobe-identity/subscription-and-user-migration/migrating-to-adobe-identity.md){target="_blank"}
 >* [Adobe으로 사용자 로그인](/help/marketo/product-docs/administration/marketo-with-adobe-identity/user-sign-in-with-adobe-id.md){target="_blank"}
 >* [Adobe Identity Management FAQ](/help/marketo/product-docs/administration/marketo-with-adobe-identity/faq.md){target="_blank"}
->* [Adobe Identity Management 튜토리얼로 마이그레이션](https://experienceleague.adobe.com/ko/docs/marketo-learn/tutorials/fundamentals/migrating-to-adobe-identity-management){target="_blank"}
+>* [Adobe Identity Management 튜토리얼로 마이그레이션](https://experienceleague.adobe.com/en/docs/marketo-learn/tutorials/fundamentals/migrating-to-adobe-identity-management){target="_blank"}

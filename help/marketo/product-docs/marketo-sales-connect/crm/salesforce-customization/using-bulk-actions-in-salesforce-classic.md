@@ -4,7 +4,7 @@ description: ' [!DNL Salesforce] Classic - Marketo 문서 - 제품 설명서에�
 title: ' [!DNL Salesforce] Classic에서 일괄 작업 사용'
 exl-id: f676ba65-6bc9-41e5-aa70-0f10bceedab7
 feature: Marketo Sales Connect
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
 workflow-type: tm+mt
 source-wordcount: '311'
 ht-degree: 0%
@@ -35,11 +35,11 @@ ht-degree: 0%
 
 1. MSC 이메일이 표시됩니다. 여기에는 다음 기능이 포함됩니다.
 
-   a. &quot;[!UICONTROL To]&quot; 필드에 &quot;[!UICONTROL All Recipients]&quot;이(가) 표시됨 - 이는 리드 목록 보기에서 선택한 리드 목록에 해당합니다.\
-   b. 이 목록은 왼쪽 패널 &quot;[!UICONTROL Bulk Compose]&quot;에 표시되며 여기에서 수신자를 추가/제거할 수 있습니다.\
-   c. 템플릿을 선택하거나 직접 이메일을 만들 수 있습니다\
-   d. 이메일에 채워질 동적 필드를 미리 볼 수 있습니다\
-   e. 이메일을 즉시 보내거나 나중에 보내도록 예약할 수 있습니다
+   a. &quot;[!UICONTROL To]&quot; 필드에 &quot;[!UICONTROL All Recipients]&quot;이(가) 표시됨 - 이는 리드 목록 보기에서 선택한 리드 목록에 해당합니다.
+b. 이 목록은 왼쪽 패널 &quot;[!UICONTROL Bulk Compose]&quot;에 표시되며 여기에서 수신자를 추가/제거할 수 있습니다.
+c. 템플릿을 선택하거나 직접 이메일을 만들 수 있습니다
+d. 이메일에 채워질 동적 필드를 미리 볼 수 있습니다
+e. 이메일을 즉시 보내거나 나중에 보내도록 예약할 수 있습니다
 
    ![](assets/three-4.png)
 

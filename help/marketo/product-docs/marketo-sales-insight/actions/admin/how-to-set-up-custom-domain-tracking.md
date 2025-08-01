@@ -3,7 +3,7 @@ description: 사용자 정의 도메인 추적을 설정하는 방법 - Marketo 
 title: 사용자 정의 도메인 추적 설정 방법
 exl-id: 6dea7f3d-d44d-4f67-af44-a8963c95c378
 feature: Sales Insight Actions
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
 workflow-type: tm+mt
 source-wordcount: '187'
 ht-degree: 0%

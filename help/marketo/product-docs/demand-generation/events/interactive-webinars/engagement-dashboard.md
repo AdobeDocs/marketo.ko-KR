@@ -3,9 +3,9 @@ description: 참여 대시보드 - Marketo 문서 - 제품 설명서
 title: 참여 대시보드
 feature: Interactive Webinars
 exl-id: 7fdb922a-a67a-4027-b9c2-8d8833c8eba0
-source-git-commit: 1839ccb646e775b67efa8de7d2d2bf3dbbbefa72
+source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
 workflow-type: tm+mt
-source-wordcount: '1743'
+source-wordcount: '1700'
 ht-degree: 0%
 
 ---
@@ -25,7 +25,7 @@ Adobe Connect에서 제공하는 대화형 웨비나는 다양한 pod를 사용�
 
 ## 대시보드 보기 {#view-the-dashboard}
 
-1. **[!UICONTROL 마케팅 활동]**(으)로 이동합니다.
+1. **[!UICONTROL Marketing Activities]**(으)로 이동합니다.
 
    ![](assets/engagement-dashboard-1.png)
 
@@ -33,7 +33,7 @@ Adobe Connect에서 제공하는 대화형 웨비나는 다양한 pod를 사용�
 
    ![](assets/engagement-dashboard-2.png)
 
-1. 개요에서 **[!UICONTROL 참여 대시보드 보기]**&#x200B;를 클릭합니다.
+1. 개요에서 **[!UICONTROL View Engagement Dashboard]**&#x200B;을(를) 클릭합니다.
 
    ![](assets/engagement-dashboard-3.png)
 
@@ -103,7 +103,7 @@ Adobe Connect에서 제공하는 대화형 웨비나는 다양한 pod를 사용�
 
 이벤트의 라이브 세션 성능에 대한 개요를 제공합니다. 이 개요에는 주요 지표, 시간 경과에 따른 참여 및 참가자 상호 작용이 포함되어 있습니다. 이는 주최자가 이벤트의 성공을 평가하고 개선 영역을 식별하는 데 도움이 됩니다.
 
-왼쪽 패널에서 **[!UICONTROL 참여]**&#x200B;를 선택하여 라이브 세션의 성능을 확인합니다. **[!UICONTROL 참여 요약(PDF)을 클릭합니다]** 실시간 세션의 성능 요약을 다운로드합니다. 개요에서는 여러 섹션의 데이터를 제공합니다.
+왼쪽 패널에서 **[!UICONTROL Engagement]**&#x200B;을(를) 선택하여 라이브 세션의 성능을 확인합니다. **[!UICONTROL Click Engagement summary (PDF)]**: 실시간 세션의 성능 요약을 다운로드합니다. 개요에서는 여러 섹션의 데이터를 제공합니다.
 
 ![](assets/engagement-dashboard-5.png)
 
@@ -150,7 +150,7 @@ Adobe Connect에서 제공하는 대화형 웨비나는 다양한 pod를 사용�
 * 해당 시점의 평균 참여 점수.
 * 해당 시간에 참여한 참석자 수.
 * 해당 시점의 참여 레이아웃.
-* 참여도가 높거나 낮은 기록에서 인스턴트 메시지를 보려면 **[!UICONTROL 기록에서 인스턴트 보기]**&#x200B;를 선택하십시오.
+* 참여도가 높거나 낮은 녹음/녹화의 인스턴스를 보려면 **[!UICONTROL View instant in recording]**&#x200B;을(를) 선택하십시오.
 * 세션의 시간 경과에 따른 평균 참여 점수(%)
 * 세션 중 시간에 따른 출석
 * 서로 다른 웨비나 레이아웃의 참여도는 이벤트 동안 룸 내에서 서로 다른 레이아웃을 사용할 때 표시됩니다. 이는 다양한 레이아웃에서 참여의 상승과 하락을 상호 연관시키는 데 도움이 됩니다.
@@ -161,28 +161,28 @@ Adobe Connect에서 제공하는 대화형 웨비나는 다양한 pod를 사용�
 
 ![](assets/engagement-dashboard-8.png)
 
-설문 조사, QnA 지표 및 세션 중 참석자의 반응에 대한 응답을 보려면 **[!UICONTROL 상호 작용으로 이동]**&#x200B;을 선택하십시오. 아래 섹션에서 참석자가 인터랙션의 pod에서 어떻게 참여하는지를 확인하고 인터랙션 보고서를 다운로드합니다.
+설문 조사의 응답, QnA 지표 및 세션 중 참석자의 반응을 보려면 **[!UICONTROL Go to interactions]**&#x200B;을(를) 선택하십시오. 아래 섹션에서 참석자가 인터랙션의 pod에서 어떻게 참여하는지를 확인하고 인터랙션 보고서를 다운로드합니다.
 
 ### 상호 작용 {#interactions}
 
 참석자가 상호 작용에서 세션에 어떻게 상호 작용하고 참여하는지 확인합니다. 설문 조사에 대한 응답, Q&amp;A 지표, 참석자의 반응, 각 pod에서 링크 및 파일을 삭제했습니다. 호스트는 더 나은 분석을 위해 이러한 포드의 상호 작용 보고서를 다운로드할 수도 있습니다. 이러한 상호 작용을 분석함으로써 트렌드를 식별하고 전략을 조정하여 보다 상호 작용적이고 매력적인 환경을 조성할 수 있습니다.
 
-왼쪽 패널에서 **[!UICONTROL 상호 작용]**&#x200B;을 선택하여 참석자가 pod에서 참여하는 방식을 확인합니다.
+왼쪽 패널에서 **[!UICONTROL Interactions]**&#x200B;을(를) 선택하여 참석자가 pod에서 참여하는 방식을 확인합니다.
 
 ![](assets/engagement-dashboard-9.png)
 
-설문 조사에 추가된 질문과 응답을 보려면 메뉴 표시줄에서 **[!UICONTROL 설문 조사]** 탭을 선택하십시오. 이 탭에는 다음 정보가 표시됩니다.
+설문 조사에 추가된 질문과 응답을 보려면 메뉴 모음에서 **[!UICONTROL Polls]** 탭을 선택하십시오. 이 탭에는 다음 정보가 표시됩니다.
 
-* 투표 Pod의 상호 작용에 대한 보고서를 다운로드하려면 **[!UICONTROL 투표 보고서(CSV)]**&#x200B;을(를) 선택하십시오.
+* 투표 Pod의 상호 작용에 대한 보고서를 다운로드하려면 **[!UICONTROL Poll report (CSV)]**&#x200B;을(를) 선택하십시오.
 * 설문 조사 질문과 그 유형.
 * 응답 수 및 투표 Pod가 열려 있고 참여 중인 기간.
 * 대화 창에서 보려면 **모든 `<number>`개의 응답 보기**&#x200B;를 선택하십시오.
 
-다른 Pod의 참여를 보고 해당 보고서를 다운로드하려면 메뉴 모음에서 **[!UICONTROL 다른 상호 작용]** 탭을 선택하십시오.
+다른 Pod의 참여를 보고 해당 보고서를 다운로드하려면 메뉴 모음에서 **[!UICONTROL Other interactions]** 탭을 선택하십시오.
 
 ![](assets/engagement-dashboard-10.png)
 
-드롭다운에서 **[!UICONTROL 상호 작용 보고서 다운로드]**&#x200B;를 선택하여 다양한 pod 보고서를 다운로드합니다. 더 나은 추적을 위해 여기에서 QnA 보고서, 링크 및 파일 보고서 및 반응 보고서를 다운로드하십시오.
+드롭다운에서 **[!UICONTROL Download interaction reports]**&#x200B;을(를) 선택하여 다양한 pod 보고서를 다운로드합니다. 더 나은 추적을 위해 여기에서 QnA 보고서, 링크 및 파일 보고서 및 반응 보고서를 다운로드하십시오.
 
 포드 간의 참여 정보는 서로 다른 섹션에서 확인할 수 있습니다.
 
@@ -239,13 +239,13 @@ Q&amp;A pod의 다음 속성을 확인합니다.
 
 ### 온디맨드 활동 {#on-demand-activity}
 
-녹음/녹화 요약을 보려면 왼쪽 패널에서 **[!UICONTROL 온디맨드 활동]**&#x200B;을 선택하십시오. 온디맨드 활동에 대한 보고서를 다운로드할 수도 있습니다.
+녹음/녹화 요약을 보려면 왼쪽 패널에서 **[!UICONTROL On-demand activity]**&#x200B;을(를) 선택하십시오. 온디맨드 활동에 대한 보고서를 다운로드할 수도 있습니다.
 
 ![](assets/engagement-dashboard-15.png)
 
 온디맨드 활동에서 다음 지표를 확인합니다.
 
-* **[!UICONTROL 주문형 보고서(CSV)]**&#x200B;를 클릭하여 주문형 지표를 다운로드합니다.
+* **[!UICONTROL On-demand report (CSV)]**&#x200B;을(를) 클릭하여 온디맨드 지표를 다운로드합니다.
 * 대시보드를 마지막으로 새로 고칠 때까지의 고유 뷰어 수입니다.
 * 녹화를 열람했지만 웨비나에 참석하지 못한 뷰어 수.
 * 웨비나에 참석하고 녹화를 본 뷰어 수. 그들은 최고의 유망주가 될 것 같다.
@@ -254,7 +254,7 @@ Q&amp;A pod의 다음 속성을 확인합니다.
 
 ### 참가자 활동 {#participant-activity}
 
-왼쪽 패널에서 **[!UICONTROL 참가자 활동]**&#x200B;을 선택하여 각 참석자의 참여 수준에 대한 통합 정보를 봅니다. 참여자 참여 수준의 수준에서 이 참여를 분류하는 방법을 봅니다. 더 나은 추적을 위해 보고서를 다운로드하려면 **[!UICONTROL 사용자 활동 보고서(CSV)]**&#x200B;를 클릭하십시오.
+왼쪽 패널에서 **[!UICONTROL Participant activity]**&#x200B;을(를) 선택하여 각 참석자의 참여 수준에 대한 통합 정보를 봅니다. 참여자 참여 수준의 수준에서 이 참여를 분류하는 방법을 봅니다. 더 나은 추적을 위해 보고서를 다운로드하려면 **[!UICONTROL User activity report (CSV)]**&#x200B;을(를) 클릭하십시오.
 
 ![](assets/engagement-dashboard-16.png)
 
@@ -271,9 +271,9 @@ Q&amp;A pod의 다음 속성을 확인합니다.
 
 중앙 집중식 허브에서 호스트로 다양한 활동 및 포드에 대한 보고서를 다운로드합니다.
 
-1. 왼쪽 패널에서 **[!UICONTROL 보고서 다운로드]**&#x200B;를 선택합니다.
+1. 왼쪽 패널에서 **[!UICONTROL Download reports]**&#x200B;을(를) 선택합니다.
 
-1. 모든 활동 및 pod에 대한 보고서를 한 번에 다운로드하려면 **[!UICONTROL 모두 다운로드(.zip)]**&#x200B;를 선택하십시오.
+1. 모든 활동 및 pod에 대한 보고서를 한 번에 다운로드하려면 **[!UICONTROL Download all (.zip)]**&#x200B;을(를) 선택하십시오.
 
    ![](assets/engagement-dashboard-17.png)
 

@@ -4,7 +4,7 @@ description: 영업 전화 국제 전화 - Marketo 문서 - 제품 설명서
 title: 판매 전화 국제 전화
 exl-id: 5a5956fe-67f3-41dd-bbbe-b0cea1ded6f0
 feature: Marketo Sales Connect
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
 workflow-type: tm+mt
 source-wordcount: '399'
 ht-degree: 5%
@@ -21,125 +21,125 @@ Sales Phone을 사용하면 쉽게 국제적으로 통신할 수 있습니다. �
 
 ## 지원되는 국가 {#supported-countries}
 
-<table> 
- <tbody> 
-  <tr> 
-   <th>국가</th> 
-   <th>지원되는 국가 코드</th> 
-  </tr> 
-  <tr> 
-   <td colspan="1">아르헨티나</td> 
-   <td colspan="1">54221, 54223, 54261, 54291, 54341, 54342, 54351</td> 
-  </tr> 
-  <tr> 
-   <td colspan="1">오스트리아</td> 
-   <td colspan="1">43, 431, 4312288, 43438, 4350, 4357, 4359, 436555, 43677, 4369988, 4369989, 43720, 43780, 439</td> 
-  </tr> 
-  <tr> 
-   <td colspan="1">바하마</td> 
-   <td colspan="1">1242</td> 
-  </tr> 
-  <tr> 
-   <td><p>브라질</p></td> 
-   <td>5511, 5521, 5527, 5531, 5541, 5551, 5561, 5562, 5581, 5585</td> 
-  </tr> 
-  <tr> 
-   <td>키프로스 </td> 
-   <td>357</td> 
-  </tr> 
-  <tr> 
-   <td colspan="1">덴마크 </td> 
-   <td colspan="1">45</td> 
-  </tr> 
-  <tr> 
-   <td colspan="1">프랑스</td> 
-   <td colspan="1">33</td> 
-  </tr> 
-  <tr> 
-   <td>독일</td> 
-   <td>49</td> 
-  </tr> 
-  <tr> 
-   <td>그리스 </td> 
-   <td>30,3021</td> 
-  </tr> 
-  <tr> 
-   <td>헝가리</td> 
-   <td>36,361</td> 
-  </tr> 
-  <tr> 
-   <td colspan="1">아일랜드 </td> 
-   <td colspan="1">353,3531</td> 
-  </tr> 
-  <tr> 
-   <td>이스라엘</td> 
-   <td>972</td> 
-  </tr> 
-  <tr> 
-   <td colspan="1">이탈리아</td> 
-   <td colspan="1">39</td> 
-  </tr> 
-  <tr> 
-   <td colspan="1">카자흐스탄 </td> 
-   <td colspan="1">76,77</td> 
-  </tr> 
-  <tr> 
-   <td colspan="1">한국</td> 
-   <td colspan="1">82</td> 
-  </tr> 
-  <tr> 
-   <td colspan="1">라트비아 </td> 
-   <td colspan="1">371</td> 
-  </tr> 
-  <tr> 
-   <td colspan="1">멕시코</td> 
-   <td colspan="1">52,5233,5255,5281</td> 
-  </tr> 
-  <tr> 
-   <td>모나코</td> 
-   <td>377</td> 
-  </tr> 
-  <tr> 
-   <td>네덜란드 </td> 
-   <td>31</td> 
-  </tr> 
-  <tr> 
-   <td colspan="1">노르웨이 </td> 
-   <td colspan="1">47</td> 
-  </tr> 
-  <tr> 
-   <td colspan="1">페루 </td> 
-   <td colspan="1">5112, 5113, 5114, 5115, 5116, 5117</td> 
-  </tr> 
-  <tr> 
-   <td colspan="1">폴란드 </td> 
-   <td colspan="1">48,4832</td> 
-  </tr> 
-  <tr> 
-   <td colspan="1">포르투갈 </td> 
-   <td colspan="1">351</td> 
-  </tr> 
-  <tr> 
-   <td colspan="1">싱가포르 </td> 
-   <td colspan="1">65,658,659</td> 
-  </tr> 
-  <tr> 
-   <td colspan="1">스페인 </td> 
-   <td colspan="1">34</td> 
-  </tr> 
-  <tr> 
-   <td colspan="1">스웨덴 </td> 
-   <td colspan="1">46</td> 
-  </tr> 
-  <tr> 
-   <td colspan="1">영국</td> 
-   <td colspan="1">44,44203,44207,44208</td> 
-  </tr> 
-  <tr> 
-   <td>미국</td> 
-   <td>1, 1800,1808, 1844, 1855, 1866, 1867, 1877, 1888</td> 
-  </tr> 
- </tbody> 
+<table>
+ <tbody>
+  <tr>
+   <th>국가</th>
+   <th>지원되는 국가 코드</th>
+  </tr>
+  <tr>
+   <td colspan="1">아르헨티나</td>
+   <td colspan="1">54221, 54223, 54261, 54291, 54341, 54342, 54351</td>
+  </tr>
+  <tr>
+   <td colspan="1">오스트리아</td>
+   <td colspan="1">43, 431, 4312288, 43438, 4350, 4357, 4359, 436555, 43677, 4369988, 4369989, 43720, 43780, 439</td>
+  </tr>
+  <tr>
+   <td colspan="1">바하마</td>
+   <td colspan="1">1242</td>
+  </tr>
+  <tr>
+   <td><p>브라질</p></td>
+   <td>5511, 5521, 5527, 5531, 5541, 5551, 5561, 5562, 5581, 5585</td>
+  </tr>
+  <tr>
+   <td>키프로스 </td>
+   <td>357</td>
+  </tr>
+  <tr>
+   <td colspan="1">덴마크 </td>
+   <td colspan="1">45</td>
+  </tr>
+  <tr>
+   <td colspan="1">프랑스</td>
+   <td colspan="1">33</td>
+  </tr>
+  <tr>
+   <td>독일</td>
+   <td>49</td>
+  </tr>
+  <tr>
+   <td>그리스 </td>
+   <td>30,3021</td>
+  </tr>
+  <tr>
+   <td>헝가리</td>
+   <td>36,361</td>
+  </tr>
+  <tr>
+   <td colspan="1">아일랜드 </td>
+   <td colspan="1">353,3531</td>
+  </tr>
+  <tr>
+   <td>이스라엘</td>
+   <td>972</td>
+  </tr>
+  <tr>
+   <td colspan="1">이탈리아</td>
+   <td colspan="1">39</td>
+  </tr>
+  <tr>
+   <td colspan="1">카자흐스탄 </td>
+   <td colspan="1">76,77</td>
+  </tr>
+  <tr>
+   <td colspan="1">한국</td>
+   <td colspan="1">82</td>
+  </tr>
+  <tr>
+   <td colspan="1">라트비아 </td>
+   <td colspan="1">371</td>
+  </tr>
+  <tr>
+   <td colspan="1">멕시코</td>
+   <td colspan="1">52,5233,5255,5281</td>
+  </tr>
+  <tr>
+   <td>모나코</td>
+   <td>377</td>
+  </tr>
+  <tr>
+   <td>네덜란드 </td>
+   <td>31</td>
+  </tr>
+  <tr>
+   <td colspan="1">노르웨이 </td>
+   <td colspan="1">47</td>
+  </tr>
+  <tr>
+   <td colspan="1">페루 </td>
+   <td colspan="1">5112, 5113, 5114, 5115, 5116, 5117</td>
+  </tr>
+  <tr>
+   <td colspan="1">폴란드 </td>
+   <td colspan="1">48,4832</td>
+  </tr>
+  <tr>
+   <td colspan="1">포르투갈 </td>
+   <td colspan="1">351</td>
+  </tr>
+  <tr>
+   <td colspan="1">싱가포르 </td>
+   <td colspan="1">65,658,659</td>
+  </tr>
+  <tr>
+   <td colspan="1">스페인 </td>
+   <td colspan="1">34</td>
+  </tr>
+  <tr>
+   <td colspan="1">스웨덴 </td>
+   <td colspan="1">46</td>
+  </tr>
+  <tr>
+   <td colspan="1">영국</td>
+   <td colspan="1">44,44203,44207,44208</td>
+  </tr>
+  <tr>
+   <td>미국</td>
+   <td>1, 1800,1808, 1844, 1855, 1866, 1867, 1877, 1888</td>
+  </tr>
+ </tbody>
 </table>
 
 ## 국제 전화 FAQ
@@ -160,4 +160,4 @@ Sales Phone을 사용하면 쉽게 국제적으로 통신할 수 있습니다. �
 
 **국제전화를 걸 때 현지의 위치를 사용할 수 있습니까?**
 
-아니. 미국 번호에만 현존할 수 있습니다.
+아니요. 미국 번호에만 현존할 수 있습니다.

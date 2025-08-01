@@ -3,7 +3,7 @@ description: 이메일 탭 - Marketo 문서 - 제품 설명서
 title: 이메일 탭
 exl-id: 2fbc966a-6409-4eca-8730-83843b03d19c
 feature: Marketo Sales Insights
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
 workflow-type: tm+mt
 source-wordcount: '154'
 ht-degree: 1%
@@ -15,7 +15,7 @@ ht-degree: 1%
 이메일 탭에는 연락처 또는 잠재 고객에게 전송된 모든 이메일 목록이 표시됩니다. 여기에는 다음 열이 포함됩니다.
 
 * 제목
-* 일자
+* Date
 * 열림
 * 클릭됨
 
@@ -23,7 +23,7 @@ ht-degree: 1%
 
 &quot;[!UICONTROL Check Delivery Status]&quot; 단추를 클릭하여 전자 메일의 게재 상태를 표시하는 새 탭을 열 수 있습니다.
 
-<table> 
+<table>
  <tbody>
   <tr>
    <td><strong>Marketo에서 보낸 이메일</strong></td>

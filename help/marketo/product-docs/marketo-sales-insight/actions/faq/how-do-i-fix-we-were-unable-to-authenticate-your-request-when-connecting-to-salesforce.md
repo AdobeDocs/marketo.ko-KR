@@ -3,7 +3,7 @@ description: Salesforce - Marketo 문서 - 제품 설명서에 연결할 때 "�
 title: Salesforce에 연결할 때 "요청을 인증할 수 없습니다"를 해결하려면 어떻게 합니까
 exl-id: ef876f0f-bd76-4ba5-bf48-885ee048ceae
 feature: Sales Insight Actions
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
 workflow-type: tm+mt
 source-wordcount: '349'
 ht-degree: 0%

@@ -4,7 +4,7 @@ description: 웹 Personalization 개요 - Marketo 문서 - 제품 설명서
 title: 웹 Personalization 개요
 exl-id: 31445a69-9a3a-4350-a3eb-1af718e823b4
 feature: Web Personalization
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
 workflow-type: tm+mt
 source-wordcount: '775'
 ht-degree: 1%
@@ -66,13 +66,13 @@ ht-degree: 1%
 
 조직 페이지의 오른쪽 패널에는 다음과 같은 기능과 통찰력이 있습니다.
 
-<table> 
- <tbody> 
-  <tr> 
-   <td><p><strong>스프레드시트 아이콘</strong>: 패널의 오른쪽 상단에 있는 아이콘은 오프라인으로 사용할 수 있도록 조직 테이블을 CSV 형식으로 다운로드합니다</p><p><strong>[!UICONTROL Set Email Alert]</strong>: 선택한 조직이 웹 사이트를 방문할 때마다 로그인한 사용자에게 이메일을 보냅니다.</p><p><strong>[!UICONTROL Leads]</strong>: 선택한 조직의 리드 테이블을 엽니다.</p><p><strong>[!UICONTROL Share]</strong>: 웹 페이지를 방문한 조직의 세부 정보를 이메일로 보내고 공유하는 팝업 창을 엽니다</p><p><strong>위치 아이콘</strong>: 선택한 조직의 국가 및 도시를 표시합니다.</p><p><strong>링크</strong>: Jigsaw, Whois, Linkedin, Google, Twitter는 선택한 조직에 추가 insight을 제공하는 각 웹 페이지의 추가 정보가 있는 새 창을 엽니다.</p><p><strong>[!UICONTROL Search]</strong>: 방문자가 검색 엔진을 통해 도착한 경우 사용되는 키워드를 표시합니다</p><p><strong>[!UICONTROL Referrers]</strong>: 사이트에 트래픽을 참조한 페이지의 URL 링크를 표시합니다</p><p><strong>[!UICONTROL Visitors]</strong>: 방문 횟수, 선택한 조직에서 본 페이지 수 및 이메일 주소(제출 양식을 완료한 경우)와 마지막 방문의 시간 및 날짜를 표시합니다</p><p><strong>[!UICONTROL Clickstream]</strong>: 사이트의 사용자 활동 및 URL 경로에 대한 표와 각 페이지를 방문한 시간을 표시합니다</p></td> 
-   <td><img src="assets/image2014-11-10-19-3a22-3a47.png" data-linked-resource-id="5046291" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="3571900"></td> 
-  </tr> 
- </tbody> 
+<table>
+ <tbody>
+  <tr>
+   <td><p><strong>스프레드시트 아이콘</strong>: 패널의 오른쪽 상단에 있는 아이콘은 오프라인으로 사용할 수 있도록 조직 테이블을 CSV 형식으로 다운로드합니다</p><p><strong>[!UICONTROL Set Email Alert]</strong>: 선택한 조직이 웹 사이트를 방문할 때마다 로그인한 사용자에게 이메일을 보냅니다.</p><p><strong>[!UICONTROL Leads]</strong>: 선택한 조직의 리드 테이블을 엽니다.</p><p><strong>[!UICONTROL Share]</strong>: 웹 페이지를 방문한 조직의 세부 정보를 이메일로 보내고 공유하는 팝업 창을 엽니다</p><p><strong>위치 아이콘</strong>: 선택한 조직의 국가 및 도시를 표시합니다.</p><p><strong>링크</strong>: Jigsaw, Whois, Linkedin, Google, Twitter는 선택한 조직에 추가 insight을 제공하는 각 웹 페이지의 추가 정보가 있는 새 창을 엽니다.</p><p><strong>[!UICONTROL Search]</strong>: 방문자가 검색 엔진을 통해 도착한 경우 사용되는 키워드를 표시합니다</p><p><strong>[!UICONTROL Referrers]</strong>: 사이트에 트래픽을 참조한 페이지의 URL 링크를 표시합니다</p><p><strong>[!UICONTROL Visitors]</strong>: 방문 횟수, 선택한 조직에서 본 페이지 수 및 이메일 주소(제출 양식을 완료한 경우)와 마지막 방문의 시간 및 날짜를 표시합니다</p><p><strong>[!UICONTROL Clickstream]</strong>: 사이트의 사용자 활동 및 URL 경로에 대한 표와 각 페이지를 방문한 시간을 표시합니다</p></td>
+   <td><img src="assets/image2014-11-10-19-3a22-3a47.png" data-linked-resource-id="5046291" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="3571900"></td>
+  </tr>
+ </tbody>
 </table>
 
 **조직 공유**
@@ -93,35 +93,35 @@ ht-degree: 1%
 
 [!UICONTROL Visitors] 페이지의 오른쪽 패널에서는 다음과 같은 통찰력을 제공합니다.
 
-<table> 
- <thead> 
-  <tr> 
-   <th colspan="1" rowspan="1">이름</th> 
-   <th colspan="1" rowspan="1">설명</th> 
-  </tr> 
- </thead> 
- <tbody> 
-  <tr> 
-   <td colspan="1" rowspan="1"><strong>스프레드시트 아이콘</strong></td> 
-   <td colspan="1" rowspan="1">패널의 오른쪽 상단에 있는 아이콘은 방문자 테이블을 오프라인 사용을 위해 CSV 형식으로 다운로드합니다</td> 
-  </tr> 
-  <tr> 
-   <td colspan="1" rowspan="1"><p><strong>조직 이름</strong></p></td> 
-   <td colspan="1" rowspan="1"> </td> 
-  </tr> 
-  <tr> 
-   <td colspan="1" rowspan="1"><strong>캠페인 설정</strong></td> 
-   <td colspan="1" rowspan="1">선택한 방문자와 연결된 Campaign CTA을 설정할 수 있습니다.</td> 
-  </tr> 
-  <tr> 
-   <td colspan="1"><strong>위치</strong></td> 
-   <td colspan="1">방문자의 국가, 주 및 도시를 표시합니다.</td> 
-  </tr> 
-  <tr> 
-   <td colspan="1" rowspan="1"><strong>클릭스트림</strong></td> 
-   <td colspan="1" rowspan="1">방문자가 사이트에서 보낸 활동 및 URL 경로와 각 페이지를 방문한 시간을 표로 표시합니다</td> 
-  </tr> 
- </tbody> 
+<table>
+ <thead>
+  <tr>
+   <th colspan="1" rowspan="1">이름</th>
+   <th colspan="1" rowspan="1">설명</th>
+  </tr>
+ </thead>
+ <tbody>
+  <tr>
+   <td colspan="1" rowspan="1"><strong>스프레드시트 아이콘</strong></td>
+   <td colspan="1" rowspan="1">패널의 오른쪽 상단에 있는 아이콘은 방문자 테이블을 오프라인 사용을 위해 CSV 형식으로 다운로드합니다</td>
+  </tr>
+  <tr>
+   <td colspan="1" rowspan="1"><p><strong>조직 이름</strong></p></td>
+   <td colspan="1" rowspan="1"> </td>
+  </tr>
+  <tr>
+   <td colspan="1" rowspan="1"><strong>캠페인 설정</strong></td>
+   <td colspan="1" rowspan="1">선택한 방문자와 연결된 Campaign CTA을 설정할 수 있습니다.</td>
+  </tr>
+  <tr>
+   <td colspan="1"><strong>위치</strong></td>
+   <td colspan="1">방문자의 국가, 주 및 도시를 표시합니다.</td>
+  </tr>
+  <tr>
+   <td colspan="1" rowspan="1"><strong>클릭스트림</strong></td>
+   <td colspan="1" rowspan="1">방문자가 사이트에서 보낸 활동 및 URL 경로와 각 페이지를 방문한 시간을 표로 표시합니다</td>
+  </tr>
+ </tbody>
 </table>
 
 ## 실시간 {#real-time}
@@ -134,37 +134,37 @@ ht-degree: 1%
 
 실시간 페이지는 온사이트 방문자 세부 정보의 6개 정보 표로 분할됩니다.
 
-<table> 
- <thead> 
-  <tr> 
-   <th colspan="1" rowspan="1">이름</th> 
-   <th colspan="1" rowspan="1">설명</th> 
-  </tr> 
- </thead> 
- <tbody> 
-  <tr> 
-   <td colspan="1" rowspan="1"><strong>[!UICONTROL Visitors]</strong></td> 
-   <td colspan="1" rowspan="1"> 현재 웹 사이트에 있는 방문자의 수를 나타냅니다.</td> 
-  </tr> 
-  <tr> 
-   <td colspan="1" rowspan="1"><p><strong>[!UICONTROL Clicks per minute]</strong></p></td> 
-   <td colspan="1" rowspan="1"> 분당 사이트 클릭 수를 보여 주는 라이브 선 그래프</td> 
-  </tr> 
-  <tr> 
-   <td colspan="1" rowspan="1"><strong>[!UICONTROL Top Organizations]</strong></td> 
-   <td colspan="1" rowspan="1">조직 테이블의 짧은 버전</td> 
-  </tr> 
-  <tr> 
-   <td colspan="1"><strong>[!UICONTROL Real-Time Segment]</strong></td> 
-   <td colspan="1">지정된 세그먼트와 일치하는 현재 온사이트 방문자의 수</td> 
-  </tr> 
-  <tr> 
-   <td colspan="1"><strong>[!UICONTROL Currently Browsing]</strong></td> 
-   <td colspan="1">현장 방문자가 현재 보고 있는 페이지의 URL</td> 
-  </tr> 
-  <tr> 
-   <td colspan="1" rowspan="1"><strong>[!UICONTROL Top Referrals]</strong></td> 
-   <td colspan="1" rowspan="1">방문자를 사이트로 유도한 참조 URL</td> 
-  </tr> 
- </tbody> 
+<table>
+ <thead>
+  <tr>
+   <th colspan="1" rowspan="1">이름</th>
+   <th colspan="1" rowspan="1">설명</th>
+  </tr>
+ </thead>
+ <tbody>
+  <tr>
+   <td colspan="1" rowspan="1"><strong>[!UICONTROL Visitors]</strong></td>
+   <td colspan="1" rowspan="1"> 현재 웹 사이트에 있는 방문자의 수를 나타냅니다.</td>
+  </tr>
+  <tr>
+   <td colspan="1" rowspan="1"><p><strong>[!UICONTROL Clicks per minute]</strong></p></td>
+   <td colspan="1" rowspan="1"> 분당 사이트 클릭 수를 보여 주는 라이브 선 그래프</td>
+  </tr>
+  <tr>
+   <td colspan="1" rowspan="1"><strong>[!UICONTROL Top Organizations]</strong></td>
+   <td colspan="1" rowspan="1">조직 테이블의 짧은 버전</td>
+  </tr>
+  <tr>
+   <td colspan="1"><strong>[!UICONTROL Real-Time Segment]</strong></td>
+   <td colspan="1">지정된 세그먼트와 일치하는 현재 온사이트 방문자의 수</td>
+  </tr>
+  <tr>
+   <td colspan="1"><strong>[!UICONTROL Currently Browsing]</strong></td>
+   <td colspan="1">현장 방문자가 현재 보고 있는 페이지의 URL</td>
+  </tr>
+  <tr>
+   <td colspan="1" rowspan="1"><strong>[!UICONTROL Top Referrals]</strong></td>
+   <td colspan="1" rowspan="1">방문자를 사이트로 유도한 참조 URL</td>
+  </tr>
+ </tbody>
 </table>

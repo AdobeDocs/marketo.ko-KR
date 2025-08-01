@@ -4,7 +4,7 @@ title: 대화형 흐름 랜딩 페이지 사용
 hide: true
 hidefromtoc: true
 feature: Dynamic Chat
-source-git-commit: 5ef17e8c3988706a4d95332312ffb035f35bb269
+source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
 workflow-type: tm+mt
 source-wordcount: '226'
 ht-degree: 0%
@@ -13,11 +13,11 @@ ht-degree: 0%
 
 # 대화형 흐름 랜딩 페이지 사용{#use-a-conversational-flow-landing-page}
 
-Dynamic Chat 대화 흐름이 Marketo Engage 랜딩 페이지에 직접 포함되면 방문자가 양식을 작성하거나 챗봇과 상호 작용할 필요 없이 Dynamic Chat을 통해 회의를 예약할 수 있습니다.
+Dynamic Chat 대화 플로우를 Marketo Engage 랜딩 페이지에 직접 포함하면 방문자가 양식을 작성하거나 챗봇과 상호 작용할 필요 없이 Dynamic Chat을 통해 회의를 예약할 수 있습니다.
 
 >[!PREREQUISITES]
 >
->**모임 예약** 카드만 포함된 간단한 [대화 흐름](/help/marketo/product-docs/demand-generation/dynamic-chat/automated-chat/create-a-conversational-flow.md)을 만듭니다.
+>[모임 예약](/help/marketo/product-docs/demand-generation/dynamic-chat/automated-chat/create-a-conversational-flow.md) 카드만 포함된 간단한 **대화 흐름**&#x200B;을 만듭니다.
 
 ## 안내식 랜딩 페이지 {#guided-landing-pages}
 
@@ -47,4 +47,3 @@ Dynamic Chat 대화 흐름이 Marketo Engage 랜딩 페이지에 직접 포함�
 가이드 lp, 템플릿에 대한 새 div id, 전환 흐름 선택
 
 자유 형식 lp, 아이콘 가져오기 - 주의 사항: 참고 사항 추가 - 편집기에 cf를 적용하면 미리 보기가 표시되지 않습니다(자리 표시자도 없음) - &quot;미리 보기가 표시되지 않습니다&quot; - 사이드바에서 cf가 페이지에 있는 것을 볼 수 있습니다. - 안내식 lp가 이를 요소로 나열합니다. - 설명할 때 &quot;이 때&quot;를 사용하십시오. - 기능은 22일의 주 중 라이브가 됩니다.
-

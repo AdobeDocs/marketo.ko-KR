@@ -4,7 +4,7 @@ description: A/B 테스트 승자 기준 정의 - Marketo 문서 - 제품 설명
 title: A/B 테스트 승자 기준 정의
 exl-id: be8a0887-70f4-4667-93a6-d982a16cdfdb
 feature: Email Programs, A/B Testing
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
 workflow-type: tm+mt
 source-wordcount: '406'
 ht-degree: 0%
@@ -40,7 +40,7 @@ ht-degree: 0%
    </tr>
    <tr>
    <td><b>[!UICONTROL Engagement Score]</b></td>
-   <td><a href="https://experienceleague.adobe.com/docs/marketo/using/product-docs/email-marketing/drip-nurturing/reports-and-notifications/understanding-the-engagement-score.html?lang=ko" target="_blank">참여 점수</a>를 통해 콘텐츠의 효과를 확인할 수 있습니다.</td>
+   <td><a href="https://experienceleague.adobe.com/docs/marketo/using/product-docs/email-marketing/drip-nurturing/reports-and-notifications/understanding-the-engagement-score.html" target="_blank">참여 점수</a>를 통해 콘텐츠의 효과를 확인할 수 있습니다.</td>
    </tr>
    </table>
 

@@ -4,7 +4,7 @@ description: 웹 Personalization 리치 텍스트 편집기 사용 - Marketo 문
 title: 웹 Personalization 리치 텍스트 편집기 사용
 exl-id: a07d8f2b-0ec6-4799-a430-0a5f7cf5f583
 feature: Web Personalization
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
 workflow-type: tm+mt
 source-wordcount: '172'
 ht-degree: 0%
@@ -19,34 +19,34 @@ ht-degree: 0%
 
 리치 텍스트 편집기의 중요한 아이콘은 다음과 같습니다.
 
-<table> 
- <tbody> 
-  <tr> 
-   <td colspan="1"><img alt="—" src="assets/three.png" data-linked-resource-id="11386613" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="4719179" title="--"></td> 
-   <td colspan="1"><strong>HTML Source 편집</strong></td> 
-   <td colspan="1">HTML 소스 코드를 볼 수 있습니다.</td> 
-  </tr> 
-  <tr> 
-   <td colspan="1"><img alt="--" src="assets/two.png" data-linked-resource-id="11386612" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="4719179" title="--"></td> 
-   <td colspan="1"><p><strong>이미지 삽입/편집</strong><br></p></td> 
-   <td colspan="1">편집기에 표시할 그래픽 이미지의 이미지 URL을 삽입합니다.</td> 
-  </tr> 
-  <tr> 
-   <td colspan="1"><img alt="--" src="assets/ds.png" data-linked-resource-id="12983884" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="4719179" title="--"></td> 
-   <td colspan="1"><strong>Design Studio에서 이미지 삽입</strong></td> 
-   <td colspan="1"><em></em>이미지 삽입/편집<strong> 아이콘을 클릭한 후</strong> 이 아이콘을 사용하여 Marketo Design Studio에서 이미지를 선택하십시오</td> 
-  </tr> 
-  <tr> 
-   <td colspan="1"><img alt="--" src="assets/four.png" data-linked-resource-id="11386614" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="4719179" title="--"></td> 
-   <td colspan="1"><p><strong>링크 삽입/편집</strong><br></p></td> 
-   <td colspan="1">텍스트 또는 이미지에 하이퍼링크를 추가하는 데 사용</td> 
-  </tr> 
-  <tr> 
-   <td colspan="1"><img alt="--" src="assets/tokens.png" data-linked-resource-id="12983883" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="4719179" title="--"></td> 
-   <td colspan="1"><strong>토큰 삽입/편집</strong></td> 
-   <td colspan="1">회사 또는 개인 토큰을 사용하여 웹 캠페인 개인화</td> 
-  </tr> 
- </tbody> 
+<table>
+ <tbody>
+  <tr>
+   <td colspan="1"><img alt="—" src="assets/three.png" data-linked-resource-id="11386613" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="4719179" title="--"></td>
+   <td colspan="1"><strong>HTML Source 편집</strong></td>
+   <td colspan="1">HTML 소스 코드를 볼 수 있습니다.</td>
+  </tr>
+  <tr>
+   <td colspan="1"><img alt="--" src="assets/two.png" data-linked-resource-id="11386612" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="4719179" title="--"></td>
+   <td colspan="1"><p><strong>이미지 삽입/편집</strong><br></p></td>
+   <td colspan="1">편집기에 표시할 그래픽 이미지의 이미지 URL을 삽입합니다.</td>
+  </tr>
+  <tr>
+   <td colspan="1"><img alt="--" src="assets/ds.png" data-linked-resource-id="12983884" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="4719179" title="--"></td>
+   <td colspan="1"><strong>Design Studio에서 이미지 삽입</strong></td>
+   <td colspan="1"><em></em>이미지 삽입/편집<strong> 아이콘을 클릭한 후</strong> 이 아이콘을 사용하여 Marketo Design Studio에서 이미지를 선택하십시오</td>
+  </tr>
+  <tr>
+   <td colspan="1"><img alt="--" src="assets/four.png" data-linked-resource-id="11386614" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="4719179" title="--"></td>
+   <td colspan="1"><p><strong>링크 삽입/편집</strong><br></p></td>
+   <td colspan="1">텍스트 또는 이미지에 하이퍼링크를 추가하는 데 사용</td>
+  </tr>
+  <tr>
+   <td colspan="1"><img alt="--" src="assets/tokens.png" data-linked-resource-id="12983883" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="4719179" title="--"></td>
+   <td colspan="1"><strong>토큰 삽입/편집</strong></td>
+   <td colspan="1">회사 또는 개인 토큰을 사용하여 웹 캠페인 개인화</td>
+  </tr>
+ </tbody>
 </table>
 
 >[!NOTE]

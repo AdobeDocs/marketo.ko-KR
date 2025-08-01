@@ -4,7 +4,7 @@ description: 사용자 지정 DKIM 서명 설정 - Marketo 문서 - 제품 설�
 title: 사용자 지정 DKIM 서명 설정
 exl-id: a7c6429e-14ee-439e-9f47-1b25b98d41e7
 feature: Deliverability
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
 workflow-type: tm+mt
 source-wordcount: '419'
 ht-degree: 0%
@@ -41,12 +41,12 @@ ht-degree: 0%
 
    ![](assets/set-up-a-custom-dkim-signature-4.png)
 
-   <table> 
+   <table>
    <tr>
    <td width="20%"><b>선택기</b></td>
    <td>DKIM 레코드의 공개 키 부분을 찾는 데 사용되는 고유한 문자열/식별자입니다. 임의의 문자열이거나, 고유한 식별자일 수 있으며, 이를 통해 해당 DKIM 키/레코드의 목적을 구분하여 식별할 수 있습니다.</td>
    </tr>
-   <tr> 
+   <tr>
    <td width="20%"><b>키 크기</b></td>
    <td>DKIM 서명을 암호화할 보안 수준입니다.</td>
    </tr>

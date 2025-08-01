@@ -4,7 +4,7 @@ description: Opportunity Influence Analyzer 이해 - Marketo 문서 - 제품 설
 title: Opportunity Influence Analyzer 이해
 exl-id: 87f85fed-1fb5-4906-bfdb-a9fda7ddd295
 feature: Reporting, Revenue Cycle Analytics
-source-git-commit: d20a9bb584f69282eefae3704ce4be2179b29d0b
+source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
 workflow-type: tm+mt
 source-wordcount: '255'
 ht-degree: 0%
@@ -15,7 +15,7 @@ ht-degree: 0%
 
 각각의 기회는 하나의 이야기입니다. 어디서 단서를 만났니? 마케팅/판매 프로세스 동안 어떤 마케팅 기회가 영향을 미쳤습니까?
 
-Opportunity Influence Analyzer 를 사용하면 전체 스토리를 볼 수 있습니다. Sales Insight 에서도 사용할 수 있습니다.
+Opportunity Influence Analyzer 를 사용하면 전체 스토리를 볼 수 있습니다. Sales Insight 에서도 제공됩니다.
 
 ![](assets/image2015-6-23-14-3a43-3a35-1.png)
 

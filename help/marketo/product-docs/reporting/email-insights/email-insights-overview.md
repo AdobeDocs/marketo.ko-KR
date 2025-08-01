@@ -4,7 +4,7 @@ description: 이메일 인사이트 개요 - Marketo 문서 - 제품 설명서
 title: 이메일 통찰력 개요
 exl-id: ce261c9b-3a52-4aec-a299-0eb60026483d
 feature: Reporting
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
 workflow-type: tm+mt
 source-wordcount: '200'
 ht-degree: 0%

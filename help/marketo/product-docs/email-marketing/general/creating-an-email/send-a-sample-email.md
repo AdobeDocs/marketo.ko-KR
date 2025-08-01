@@ -4,7 +4,7 @@ description: 샘플 이메일 보내기 - Marketo 문서 - 제품 설명서
 title: 샘플 이메일 보내기
 exl-id: b8f845e8-5c5e-463d-9d60-9c8103cec5ac
 feature: Email Editor
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
 workflow-type: tm+mt
 source-wordcount: '297'
 ht-degree: 0%
@@ -21,7 +21,7 @@ ht-degree: 0%
 
 ## 샘플 이메일 보내기 {#send-a-sample-email-1}
 
-1. 이메일을 찾아 선택합니다. **[!UICONTROL Email Actions]** 드롭다운을 클릭하고 **[!UICONTROL Send Sample]**&#x200B;을(를) 선택합니다.\
+1. 이메일을 찾아 선택합니다. **[!UICONTROL Email Actions]** 드롭다운을 클릭하고 **[!UICONTROL Send Sample]**을(를) 선택합니다.
    ![](assets/one-281-29.jpg)
 
    >[!NOTE]
@@ -56,7 +56,7 @@ ht-degree: 0%
 
    >[!NOTE]
    >
-   >트리거 필드는 [전자 메일 스크립팅](https://experienceleague.adobe.com/ko/docs/marketo-developer/marketo/email-scripting)을 사용하는 경우에만 적용할 수 있습니다.
+   >트리거 필드는 [전자 메일 스크립팅](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/email-scripting)을 사용하는 경우에만 적용할 수 있습니다.
 
 ## 세그먼트를 기반으로 샘플 이메일 보내기 {#send-a-sample-email-based-on-a-segment}
 

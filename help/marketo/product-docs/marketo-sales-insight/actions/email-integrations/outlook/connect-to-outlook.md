@@ -2,7 +2,7 @@
 description: Outlook에 연결 - Marketo 문서 - 제품 설명서
 title: Outlook에 연결
 exl-id: 760db2d2-2e5d-4988-891a-9c57250264ac
-source-git-commit: c16081143588ebc0793f5b6e2630b58348e27124
+source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
 workflow-type: tm+mt
 source-wordcount: '485'
 ht-degree: 0%
@@ -11,7 +11,7 @@ ht-degree: 0%
 
 # Outlook에 연결 {#connect-to-outlook}
 
-Sales Insight Actions 계정을 Outlook과 연결하는 방법을 알아봅니다.
+판매 Insight 작업 계정을 Outlook과 연결하는 방법을 알아봅니다.
 
 >[!NOTE]
 >
@@ -45,15 +45,15 @@ Outlook에 연결하면 회신 추적을 받고, Outlook 게재 채널에 액세
 
    ![](assets/connect-to-outlook-6.png)
 
-   <table> 
+   <table>
     <tbody>
      <tr>
-      <td><strong>Outlook Online</strong></td> 
-      <td>Exchange Online이라고도 합니다.</td> 
+      <td><strong>Outlook Online</strong></td>
+      <td>Exchange Online이라고도 합니다.</td>
      </tr>
      <tr>
-      <td><strong>Exchange 온-프레미스</strong></td> 
-      <td>Exchange 2013 및 2016 포함</td> 
+      <td><strong>Exchange 온-프레미스</strong></td>
+      <td>Exchange 2013 및 2016 포함</td>
      </tr>
     </tbody>
    </table>
@@ -108,15 +108,15 @@ Exchange On-Premise에 연결하면 회신 추적 수신, Outlook 게재 채널 
 
    ![](assets/connect-to-outlook-15.png)
 
-   <table> 
+   <table>
     <tbody>
      <tr>
-      <td><strong>Outlook Online</strong></td> 
-      <td>Exchange Online이라고도 합니다.</td> 
+      <td><strong>Outlook Online</strong></td>
+      <td>Exchange Online이라고도 합니다.</td>
      </tr>
      <tr>
-      <td><strong>Exchange 온-프레미스</strong></td> 
-      <td>Exchange 2013 및 2016 포함</td> 
+      <td><strong>Exchange 온-프레미스</strong></td>
+      <td>Exchange 2013 및 2016 포함</td>
      </tr>
     </tbody>
    </table>
@@ -146,7 +146,7 @@ IT 팀과 협력하여 Marketo Sales가 Outlook Online 계정(Microsoft 365)에 
 IT 팀의 환경 설정 및 현재 구성에 따라 액세스 권한 부여 방법에 대해 IT 팀에 문의하는 것이 좋습니다. 다음은 대화를 안내하는 데 도움이 될 수 있는 몇 가지 문서입니다.
 
 * 전역 동의: [Microsoft 365 관리자를 위한 통합 앱 및 Azure AD](https://learn.microsoft.com/en-us/microsoft-365/enterprise/integrated-apps-and-azure-ads?view=o365-worldwide){target="_blank"}
-* 사용자 동의: [사용자가 응용 프로그램에 동의하는 방법 구성](https://learn.microsoft.com/en-us/azure/active-directory/manage-apps/configure-user-consent?tabs=azure-portal&amp;pivots=portal){target="_blank"}
-* 관리자 동의: [관리자 동의 워크플로 구성](https://learn.microsoft.com/en-us/microsoft-365/admin/misc/user-consent?source=recommendations&amp;view=o365-worldwide){target="_blank"}
-* 사용자 동의 설정 또는 해제: [Microsoft 365에서 앱에 대한 사용자 동의 관리](https://learn.microsoft.com/en-us/microsoft-365/admin/misc/user-consent?source=recommendations&amp;view=o365-worldwide){target="_blank"}
+* 사용자 동의: [사용자가 응용 프로그램에 동의하는 방법 구성](https://learn.microsoft.com/en-us/azure/active-directory/manage-apps/configure-user-consent?tabs=azure-portal&pivots=portal){target="_blank"}
+* 관리자 동의: [관리자 동의 워크플로 구성](https://learn.microsoft.com/en-us/microsoft-365/admin/misc/user-consent?source=recommendations&view=o365-worldwide){target="_blank"}
+* 사용자 동의 설정 또는 해제: [Microsoft 365에서 앱에 대한 사용자 동의 관리](https://learn.microsoft.com/en-us/microsoft-365/admin/misc/user-consent?source=recommendations&view=o365-worldwide){target="_blank"}
 * Microsoft Defender로 관리: [OAuth 앱 관리](https://learn.microsoft.com/en-us/defender-cloud-apps/manage-app-permissions){target="_blank"}

@@ -3,7 +3,7 @@ unique-page-id: 11380218
 description: 릴리스 노트 - 2016년 여름 - Marketo 문서 - 제품 설명서
 title: 릴리스 노트 - 2016년 여름
 exl-id: 3843668e-c729-42aa-b05c-55c33ee0d783
-source-git-commit: 2b72932606a93d061eb2f57c0ff3256b94a0c20c
+source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
 workflow-type: tm+mt
 source-wordcount: '773'
 ht-degree: 0%
@@ -85,7 +85,7 @@ Marketo 내에서 SMS 메시지를 쉽게 만들 수 있습니다. 풍부한 Mar
 
 ## [Enterprise 키](/help/marketo/product-docs/marketo-sales-insight/msi-outlook-plugin/authorize-the-marketo-outlook-plugin.md) {#enterprise-key}
 
-영업 팀의 각 사용자가 [!DNL Outlook]에 대한 [!DNL Sales Insight] 플러그인을 설치해야 하는 것은 지루할 수 있습니다. 엔터프라이즈 키를 사용하여 원격으로 [!DNL Outlook]용 플러그인을 설치하는 새로운 방법을 도입했습니다. [!UICONTROL Admin]의 Marketo [!DNL Sales Insight] 섹션에 있는 고유 키를 IT 팀에 보내고 나머지 작업을 수행하도록 합니다.
+영업 팀의 각 사용자가 [!DNL Sales Insight]에 대한 [!DNL Outlook] 플러그인을 설치해야 하는 것은 지루할 수 있습니다. 엔터프라이즈 키를 사용하여 원격으로 [!DNL Outlook]용 플러그인을 설치하는 새로운 방법을 도입했습니다. [!DNL Sales Insight]의 Marketo [!UICONTROL Admin] 섹션에 있는 고유 키를 IT 팀에 보내고 나머지 작업을 수행하도록 합니다.
 
 ![](assets/enterprise-key.png)
 
@@ -99,7 +99,7 @@ Marketo 내에서 SMS 메시지를 쉽게 만들 수 있습니다. 풍부한 Mar
 
 컨텐츠 분석 및 권장 사항 데이터를 오프라인으로 봅니다.
 
-## [전자 메일 편집기 2.0에 대한 API 지원](https://developers.marketo.com/documentation/asset-api/) {#api-support-for-email-editor}
+## 전자 메일 편집기 2.0에 대한 [API 지원](https://developers.marketo.com/documentation/asset-api/) {#api-support-for-email-editor}
 
 이전에 v1.0 이메일 및 템플릿과만 호환되는 기존 에셋 API가 이제 v2.0 이메일 에셋에 대해 활성화됩니다.
 

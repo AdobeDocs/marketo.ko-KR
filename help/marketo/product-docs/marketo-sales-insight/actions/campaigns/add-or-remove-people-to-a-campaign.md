@@ -3,7 +3,7 @@ unique-page-id: 14352613
 description: Campaign에 직원 추가 - Marketo 문서 - 제품 설명서
 title: 캠페인에 사람 추가
 exl-id: ef88ee07-6d33-40aa-9b0b-ccef12829345
-source-git-commit: 19b67c830ce85c1d02a5a3b1145d101ddf82423b
+source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
 workflow-type: tm+mt
 source-wordcount: '445'
 ht-degree: 0%

@@ -3,7 +3,7 @@ description: 콜백 함수 - Marketo 문서 - 제품 설명서
 title: 콜백 함수
 feature: Dynamic Chat
 exl-id: 5ae7f6cb-5c57-4257-8a1a-992c9602cfaa
-source-git-commit: f355022fb7e6f733bb7485229e395b0fe1a9818f
+source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
 workflow-type: tm+mt
 source-wordcount: '616'
 ht-degree: 3%
@@ -19,9 +19,9 @@ Dynamic Chat 위젯 콜백 함수를 사용하여 대화 이벤트를 서드파�
 이 이벤트는 Dynamic Chat 위젯을 사용할 준비가 되었음을 나타내며 Dynamic Chat과 관련된 모든 스크립트가 웹 페이지에 로드될 때 실행됩니다.
 
 ```javascript
-window.addEventListener('adobedx.conversations.ready', () => { 
-    // code here will execute when chatbot scripts are loaded in a webpage 
-}); 
+window.addEventListener('adobedx.conversations.ready', () => {
+    // code here will execute when chatbot scripts are loaded in a webpage
+});
 ```
 
 ## 대화 이벤트 {#conversation-events}
@@ -33,12 +33,12 @@ window.addEventListener('adobedx.conversations.ready', () => {
 웹 사이트 방문자를 대상으로 하는 대화(예: 대화)가 해결되고 챗봇이 표시됩니다.
 
 ```javascript
-window.addEventListener('adobedx.conversations.ready', () => { 
-    const {addListener, Enum} = window.AdobeDX; 
-    addListener(Enum.Events.CONVERSATION_TRIGGERED, (event) => { 
- // code here will execute when the chatbot is loaded for a visitor 
-    }); 
-});  
+window.addEventListener('adobedx.conversations.ready', () => {
+    const {addListener, Enum} = window.AdobeDX;
+    addListener(Enum.Events.CONVERSATION_TRIGGERED, (event) => {
+ // code here will execute when the chatbot is loaded for a visitor
+    });
+});
 ```
 
 ### 대화 참여 {#conversation-engaged}
@@ -46,12 +46,12 @@ window.addEventListener('adobedx.conversations.ready', () => {
 방문자가 챗봇과 참여(예: 첫 번째 응답 제공)했습니다.
 
 ```javascript
-window.addEventListener('adobedx.conversations.ready', () => { 
-    const {addListener, Enum} = window.AdobeDX; 
-    addListener(Enum.Events.CONVERSATION_ENGAGED, (event) => { 
- // code here will execute when a visitor engages with the chatbot 
-     }); 
-}); 
+window.addEventListener('adobedx.conversations.ready', () => {
+    const {addListener, Enum} = window.AdobeDX;
+    addListener(Enum.Events.CONVERSATION_ENGAGED, (event) => {
+ // code here will execute when a visitor engages with the chatbot
+     });
+});
 ```
 
 ### 대화 완료됨 {#conversation-completed}
@@ -59,12 +59,12 @@ window.addEventListener('adobedx.conversations.ready', () => {
 방문자가 대화의 끝에 도달했습니다.
 
 ```javascript
-window.addEventListener('adobedx.conversations.ready', () => { 
-    const {addListener, Enum} = window.AdobeDX; 
-    addListener(Enum.Events.CONVERSATION_COMPLETED, (event) => { 
- // code here will execute when a conversation is completed 
-     }); 
-}); 
+window.addEventListener('adobedx.conversations.ready', () => {
+    const {addListener, Enum} = window.AdobeDX;
+    addListener(Enum.Events.CONVERSATION_COMPLETED, (event) => {
+ // code here will execute when a conversation is completed
+     });
+});
 ```
 
 ### 대화 종료됨
@@ -72,12 +72,12 @@ window.addEventListener('adobedx.conversations.ready', () => {
 방문자가 종료되기 전에 대화를 닫았습니다.
 
 ```javascript
-window.addEventListener('adobedx.conversations.ready', () => { 
-    const {addListener, Enum} = window.AdobeDX; 
-    addListener(Enum.Events.CONVERSATION_CLOSED, (event) => { 
- // code here will execute when a conversation is closed 
-    }); 
-}); 
+window.addEventListener('adobedx.conversations.ready', () => {
+    const {addListener, Enum} = window.AdobeDX;
+    addListener(Enum.Events.CONVERSATION_CLOSED, (event) => {
+ // code here will execute when a conversation is closed
+    });
+});
 ```
 
 `event` 매개 변수는 대화와 관련된 메타데이터가 있는 개체입니다. `event.data`에 액세스하여 이 메타데이터에 액세스할 수 있습니다.
@@ -124,12 +124,12 @@ window.addEventListener('adobedx.conversations.ready', () => {
 이 이벤트는 대화 중에 방문자가 전화 번호를 제공할 때 트리거됩니다.
 
 ```javascript
-window.addEventListener('adobedx.conversations.ready', () => { 
-    const {addListener, Enum} = window.AdobeDX; 
-    addListener(Enum.Events.CONVERSATION_INPUT_PHONE, (event) => { 
- // code here will execute when a visitor provides their phone number 
-    }); 
-});  
+window.addEventListener('adobedx.conversations.ready', () => {
+    const {addListener, Enum} = window.AdobeDX;
+    addListener(Enum.Events.CONVERSATION_INPUT_PHONE, (event) => {
+ // code here will execute when a visitor provides their phone number
+    });
+});
 ```
 
 ### 이메일 ID {#email-id}
@@ -137,12 +137,12 @@ window.addEventListener('adobedx.conversations.ready', () => {
 이 이벤트는 대화 중에 방문자가 이메일 주소를 제공할 때 트리거됩니다.
 
 ```javascript
-window.addEventListener('adobedx.conversations.ready', () => { 
-    const {addListener, Enum} = window.AdobeDX; 
-    addListener(Enum.Events.CONVERSATION_INPUT_EMAIL, (event) => { 
- // code here will execute when a visitor provides their email address 
-    }); 
-}); 
+window.addEventListener('adobedx.conversations.ready', () => {
+    const {addListener, Enum} = window.AdobeDX;
+    addListener(Enum.Events.CONVERSATION_INPUT_EMAIL, (event) => {
+ // code here will execute when a visitor provides their email address
+    });
+});
 ```
 
 `event` 매개 변수는 대화와 관련된 메타데이터가 있는 개체입니다. `event.data`에 액세스하여 이 메타데이터에 액세스할 수 있습니다.
@@ -191,12 +191,12 @@ window.addEventListener('adobedx.conversations.ready', () => {
 이 이벤트는 방문자가 에이전트의 캘린더에서 모임을 예약할 때 트리거됩니다.
 
 ```javascript
-window.addEventListener('adobedx.conversations.ready', () => { 
-    const {addListener, Enum} = window.AdobeDX; 
-    addListener(Enum.Events.CONVERSATION_MEETING_BOOKED, (event) => { 
- // code here will execute when a meeting is booked 
-    }); 
-}); 
+window.addEventListener('adobedx.conversations.ready', () => {
+    const {addListener, Enum} = window.AdobeDX;
+    addListener(Enum.Events.CONVERSATION_MEETING_BOOKED, (event) => {
+ // code here will execute when a meeting is booked
+    });
+});
 ```
 
 `event` 매개 변수는 대화와 관련된 메타데이터가 있는 개체입니다. `event.data`에 액세스하여 이 메타데이터에 액세스할 수 있습니다.
@@ -257,12 +257,12 @@ window.addEventListener('adobedx.conversations.ready', () => {
 이 이벤트는 방문자가 라이브 에이전트와 채팅하도록 옵션을 선택하고 사용 가능한 에이전트를 해결하는 경우 트리거됩니다.
 
 ```javascript
-window.addEventListener('adobedx.conversations.ready', () => { 
-    const {addListener, Enum} = window.AdobeDX; 
-    addListener(Enum.Events.CONVERSATION_LIVE_CHAT_REQUESTED, (event) => { 
- // code here will execute when a visitor requests a live chat 
-    }); 
-}); 
+window.addEventListener('adobedx.conversations.ready', () => {
+    const {addListener, Enum} = window.AdobeDX;
+    addListener(Enum.Events.CONVERSATION_LIVE_CHAT_REQUESTED, (event) => {
+ // code here will execute when a visitor requests a live chat
+    });
+});
 ```
 
 ### 라이브 채팅 시작됨 {#live-chat-initiated}
@@ -270,12 +270,12 @@ window.addEventListener('adobedx.conversations.ready', () => {
 이 이벤트는 방문자가 라이브 에이전트와 채팅하도록 옵션을 선택하고 에이전트가 채팅을 수락하면 트리거됩니다.
 
 ```javascript
-window.addEventListener('adobedx.conversations.ready', () => { 
-    const {addListener, Enum} = window.AdobeDX; 
-    addListener(Enum.Events.CONVERSATION_LIVE_CHAT_INITIATED, (event) => { 
- // code here will execute after a live agent accepts the chat 
-    }); 
-}); 
+window.addEventListener('adobedx.conversations.ready', () => {
+    const {addListener, Enum} = window.AdobeDX;
+    addListener(Enum.Events.CONVERSATION_LIVE_CHAT_INITIATED, (event) => {
+ // code here will execute after a live agent accepts the chat
+    });
+});
 ```
 
 ### 라이브 채팅 종료됨 {#live-chat-ended}
@@ -283,12 +283,12 @@ window.addEventListener('adobedx.conversations.ready', () => {
 이 이벤트는 방문자와 라이브 에이전트 간의 대화가 종료될 때 트리거됩니다.
 
 ```javascript
-window.addEventListener('adobedx.conversations.ready', () => { 
-    const {addListener, Enum} = window.AdobeDX; 
-    addListener(Enum.Events.CONVERSATION_LIVE_CHAT_ENDED, (event) => { 
- // code here will execute when a live chat is ended 
-    }); 
-}); 
+window.addEventListener('adobedx.conversations.ready', () => {
+    const {addListener, Enum} = window.AdobeDX;
+    addListener(Enum.Events.CONVERSATION_LIVE_CHAT_ENDED, (event) => {
+ // code here will execute when a live chat is ended
+    });
+});
 ```
 
 ### 라이브 채팅 시간 초과 {#live-chat-timeout}
@@ -296,12 +296,12 @@ window.addEventListener('adobedx.conversations.ready', () => {
 이 이벤트는 방문자의 응답이 중지되었거나 방문자가 중단되어 라이브 채팅 대화 시간이 초과되면 트리거됩니다.
 
 ```javascript
-window.addEventListener('adobedx.conversations.ready', () => { 
-    const {addListener, Enum} = window.AdobeDX; 
-    addListener(Enum.Events.CONVERSATION_LIVE_CHAT_REQUEST_TIMEOUT, (event) => { 
- // code here will execute when a visitor abandons a live chat 
-    }); 
-}); 
+window.addEventListener('adobedx.conversations.ready', () => {
+    const {addListener, Enum} = window.AdobeDX;
+    addListener(Enum.Events.CONVERSATION_LIVE_CHAT_REQUEST_TIMEOUT, (event) => {
+ // code here will execute when a visitor abandons a live chat
+    });
+});
 ```
 
 `event` 매개 변수는 대화와 관련된 메타데이터가 있는 개체입니다. `event.data`에 액세스하여 이 메타데이터에 액세스할 수 있습니다.
@@ -350,15 +350,15 @@ window.addEventListener('adobedx.conversations.ready', () => {
 이러한 이벤트를 Adobe Analytics 또는 Google Analytics과 같은 분석 플랫폼으로 보내려면 이러한 Dynamic Chat 이벤트 내에 해당 추적 호출을 추가해야 합니다. 아래 예와 같은 모습일 것입니다.
 
 ```javascript
-window.addEventListener('adobedx.conversations.ready', () => { 
-    const {addListener, Enum} = window.AdobeDX; 
-    addListener(Enum.Events.CONVERSATION_TRIGGERED, (event) => { 
- // Enter Adobe Analytics or Google Analytics function here 
-    ga('send', 'event', { 
-      eventCategory: Dynamic Chat Conversations', 
-      eventAction: 'Conversation Triggered', 
-      eventLabel: event.data.payload.id, 
-    }); 
-    }); 
-}); 
+window.addEventListener('adobedx.conversations.ready', () => {
+    const {addListener, Enum} = window.AdobeDX;
+    addListener(Enum.Events.CONVERSATION_TRIGGERED, (event) => {
+ // Enter Adobe Analytics or Google Analytics function here
+    ga('send', 'event', {
+      eventCategory: Dynamic Chat Conversations',
+      eventAction: 'Conversation Triggered',
+      eventLabel: event.data.payload.id,
+    });
+    });
+});
 ```

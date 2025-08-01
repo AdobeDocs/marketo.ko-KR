@@ -4,10 +4,10 @@ description: 가이드 랜딩 페이지 템플릿 만들기 - Marketo 문서 - �
 title: 가이드 랜딩 페이지 템플릿 만들기
 exl-id: 7d097162-d862-4d09-9440-aba1628450c2
 feature: Landing Pages
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
 workflow-type: tm+mt
-source-wordcount: '1265'
-ht-degree: 0%
+source-wordcount: '1263'
+ht-degree: 1%
 
 ---
 
@@ -32,12 +32,12 @@ ht-degree: 0%
 
 영역을 리치 텍스트로 정의하면 사용자가 Marketo의 리치 텍스트 편집기를 사용하여 [콘텐츠를 편집할 수 있습니다](/help/marketo/product-docs/email-marketing/general/understanding-the-email-editor/using-the-rich-text-editor.md).
 
-필수 속성:\
-**클래스**: &quot;mktoText&quot;\
-**id**: ID 문자열입니다. 문자, 숫자, 대시 &quot;-&quot; 및 밑줄 &quot;_&quot;만 포함합니다. 공백은 허용되지 않습니다. 고유해야 합니다.\
+필수 속성:
+**클래스**: &quot;mktoText&quot;
+**id**: ID 문자열입니다. 문자, 숫자, 대시 &quot;-&quot; 및 밑줄 &quot;_&quot;만 포함합니다. 공백은 허용되지 않습니다. 고유해야 합니다.
 **mktoName** : 문자열입니다. 랜딩 페이지 편집기에 표시되는 표시 이름입니다. 가장 좋은 방법은 수사적 이름을 사용하는 것입니다.
 
-선택 사항:\
+선택 사항:
 mktoText 클래스(제공된 경우)가 있는 요소의 콘텐츠가 편집 가능 영역의 기본값으로 사용됩니다.
 
 예:
@@ -52,11 +52,11 @@ mktoText 클래스(제공된 경우)가 있는 요소의 콘텐츠가 편집 가
 
 필수 속성:
 
-클래스: &quot;mktoImg&quot;\
-id: ID 문자열. 문자, 숫자, 대시 &quot;-&quot; 및 밑줄 &quot;_&quot;만 포함합니다. 공백은 허용되지 않습니다. 고유해야 합니다.\
+클래스: &quot;mktoImg&quot;
+id: ID 문자열. 문자, 숫자, 대시 &quot;-&quot; 및 밑줄 &quot;_&quot;만 포함합니다. 공백은 허용되지 않습니다. 고유해야 합니다.
 mktoName : 문자열 랜딩 페이지 편집기에 표시되는 표시 이름입니다. 가장 좋은 방법은 수사적 이름을 사용하는 것입니다.
 
-선택 사항:\
+선택 사항:
 mktoImgClass: 문자열 여기에 있는 값이 div 내에 있는 `<img>` 요소의 클래스 특성에 추가됩니다.
 
 예:
@@ -65,12 +65,12 @@ mktoImgClass: 문자열 여기에 있는 값이 div 내에 있는 `<img>` 요소
 
 ## 옵션 2 - `<img>` 사용 {#option-use-a-img}
 
-필수 속성:\
-클래스: &quot;mktoImg&quot;\
-id: ID 문자열. 문자, 숫자, 대시 &quot;-&quot; 및 밑줄 &quot;_&quot;만 포함합니다. 공백은 허용되지 않습니다. 고유해야 합니다.\
+필수 속성:
+클래스: &quot;mktoImg&quot;
+id: ID 문자열. 문자, 숫자, 대시 &quot;-&quot; 및 밑줄 &quot;_&quot;만 포함합니다. 공백은 허용되지 않습니다. 고유해야 합니다.
 mktoName : 문자열 랜딩 페이지 편집기에 표시되는 표시 이름입니다. 가장 좋은 방법은 수사적 이름을 사용하는 것입니다.
 
-선택 사항:\
+선택 사항:
 src: 문자열 URL 이 값은 이미지의 기본값으로 사용됩니다.
 
 예:
@@ -79,22 +79,22 @@ src: 문자열 URL 이 값은 이미지의 기본값으로 사용됩니다.
 
 >[!NOTE]
 >
->`<img>` 버전을 사용하는 경우 렌더링된 HTML에 `<img>` 태그 주위에 생성된 div 래퍼가 포함됩니다. 클래스로 설정됩니다 .&quot;mktoImg.mktoGen&quot;으로 설정되며, display:inline-block이 됩니다.
+>`<img>` 버전을 사용하는 경우 렌더링된 HTML에 `<img>` 태그 주위에 생성된 div 래퍼가 포함됩니다. 클래스로 설정됩니다 .&quot;mktoImg.mktoGen&quot; 및 :inline-block 표시가 됩니다.
 
 ## 양식 {#form}
 
-예:필수 속성:\
-**클래스**: &quot;mktoForm&quot;\
-**id**: ID 문자열입니다. 문자, 숫자, 대시 &quot;-&quot; 및 밑줄 &quot;_&quot;만 포함합니다. 공백은 허용되지 않습니다. 고유해야 합니다.\
+예제:Required 특성:
+**클래스**: &quot;mktoForm&quot;
+**id**: ID 문자열입니다. 문자, 숫자, 대시 &quot;-&quot; 및 밑줄 &quot;_&quot;만 포함합니다. 공백은 허용되지 않습니다. 고유해야 합니다.
 **mktoName** : 문자열입니다. 랜딩 페이지 편집기에 표시되는 표시 이름입니다. 가장 좋은 방법은 수사적 이름을 사용하는 것입니다.
 
 `<div class="mktoForm" id="exampleForm" mktoName="Example Form"></div>`
 
 ## 코드 조각 {#snippet}
 
-필수 속성:\
-**class**: &quot;mktoSnippet&quot;\
-**id**: ID 문자열입니다. 문자, 숫자, 대시 &quot;-&quot; 및 밑줄 &quot;_&quot;만 포함합니다. 공백은 허용되지 않습니다. 고유해야 합니다.\
+필수 속성:
+**class**: &quot;mktoSnippet&quot;
+**id**: ID 문자열입니다. 문자, 숫자, 대시 &quot;-&quot; 및 밑줄 &quot;_&quot;만 포함합니다. 공백은 허용되지 않습니다. 고유해야 합니다.
 **mktoName** : 문자열입니다. 랜딩 페이지 편집기에 표시되는 표시 이름입니다. 가장 좋은 방법은 수사적 이름을 사용하는 것입니다.
 
 예:
@@ -103,9 +103,9 @@ src: 문자열 URL 이 값은 이미지의 기본값으로 사용됩니다.
 
 ## 공유 단추 {#share-button}
 
-필수 속성:\
-**클래스**: &quot;mktoShareButton&quot;\
-**id**: ID 문자열입니다. 문자, 숫자, 대시 &quot;-&quot; 및 밑줄 &quot;_&quot;만 포함합니다. 공백은 허용되지 않습니다. 고유해야 합니다.\
+필수 속성:
+**클래스**: &quot;mktoShareButton&quot;
+**id**: ID 문자열입니다. 문자, 숫자, 대시 &quot;-&quot; 및 밑줄 &quot;_&quot;만 포함합니다. 공백은 허용되지 않습니다. 고유해야 합니다.
 **mktoName** : 문자열입니다. 랜딩 페이지 편집기에 표시되는 표시 이름입니다. 가장 좋은 방법은 수사적 이름을 사용하는 것입니다.
 
 예:
@@ -129,9 +129,9 @@ src: 문자열 URL 이 값은 이미지의 기본값으로 사용됩니다.
 
 ## 여론 조사 {#poll}
 
-필수 속성:\
-**클래스**: &quot;mktoPoll&quot;\
-**id**: ID 문자열입니다. 문자, 숫자, 대시 &quot;-&quot; 및 밑줄 &quot;_&quot;만 포함합니다. 공백은 허용되지 않습니다. 고유해야 합니다.\
+필수 속성:
+**클래스**: &quot;mktoPoll&quot;
+**id**: ID 문자열입니다. 문자, 숫자, 대시 &quot;-&quot; 및 밑줄 &quot;_&quot;만 포함합니다. 공백은 허용되지 않습니다. 고유해야 합니다.
 **mktoName** : 문자열입니다. 랜딩 페이지 편집기에 표시되는 표시 이름입니다. 가장 좋은 방법은 수사적 이름을 사용하는 것입니다.
 
 예:
@@ -140,9 +140,9 @@ src: 문자열 URL 이 값은 이미지의 기본값으로 사용됩니다.
 
 ## 레퍼러 {#referral}
 
-필수 속성:\
-**클래스**: &quot;mktoReferral&quot;\
-**id**: ID 문자열입니다. 문자, 숫자, 대시 &quot;-&quot; 및 밑줄 &quot;_&quot;만 포함합니다. 공백은 허용되지 않습니다. 고유해야 합니다.\
+필수 속성:
+**클래스**: &quot;mktoReferral&quot;
+**id**: ID 문자열입니다. 문자, 숫자, 대시 &quot;-&quot; 및 밑줄 &quot;_&quot;만 포함합니다. 공백은 허용되지 않습니다. 고유해야 합니다.
 **mktoName** : 문자열입니다. 랜딩 페이지 편집기에 표시되는 표시 이름입니다. 가장 좋은 방법은 수사적 이름을 사용하는 것입니다.
 
 예:
@@ -151,9 +151,9 @@ src: 문자열 URL 이 값은 이미지의 기본값으로 사용됩니다.
 
 ## 경품 추첨 {#sweepstakes}
 
-필수 속성:\
-**클래스**: &quot;mktoSweepstakes&quot;\
-**id**: ID 문자열입니다. 문자, 숫자, 대시 &quot;-&quot; 및 밑줄 &quot;_&quot;만 포함합니다. 공백은 허용되지 않습니다. 고유해야 합니다.\
+필수 속성:
+**클래스**: &quot;mktoSweepstakes&quot;
+**id**: ID 문자열입니다. 문자, 숫자, 대시 &quot;-&quot; 및 밑줄 &quot;_&quot;만 포함합니다. 공백은 허용되지 않습니다. 고유해야 합니다.
 **mktoName** : 문자열입니다. 랜딩 페이지 편집기에 표시되는 표시 이름입니다. 가장 좋은 방법은 수사적 이름을 사용하는 것입니다.
 
 예:
@@ -174,14 +174,14 @@ src: 문자열 URL 이 값은 이미지의 기본값으로 사용됩니다.
 
 ## 문자열 {#string}
 
-필수 속성:\
-**class** : &quot;mktoString&quot;,\
-**id**: ID 문자열입니다. 문자, 숫자, 대시 &quot;-&quot; 및 밑줄 &quot;_&quot;만 포함합니다. 공백은 허용되지 않습니다. 고유해야 합니다.\
+필수 속성:
+**class** : &quot;mktoString&quot;,
+**id**: ID 문자열입니다. 문자, 숫자, 대시 &quot;-&quot; 및 밑줄 &quot;_&quot;만 포함합니다. 공백은 허용되지 않습니다. 고유해야 합니다.
 **mktoName** : 문자열입니다. 랜딩 페이지 편집기에 표시되는 표시 이름입니다. 가장 좋은 방법은 수사적 이름을 사용하는 것입니다.
 
-선택 사항:\
-**default**: 특성의 문자열 값입니다. 아무 것도 제공되지 않으면 비어 있습니다.\
-**allowHtml**: &quot;true&quot; 또는 &quot;false&quot;입니다. 값이 HTML 이스케이프되지 않고 인쇄되는지 여부를 제어합니다. 설정하지 않으면 기본값이 &quot;false&quot;입니다.
+선택 사항:
+**default**: 특성의 문자열 값입니다. 아무 것도 제공되지 않으면 비어 있습니다.
+**allowHtml**: &quot;true&quot; 또는 &quot;false&quot;입니다. HTML 이스케이프 처리되지 않고 값이 인쇄되는지 여부를 제어합니다. 설정하지 않으면 기본값이 &quot;false&quot;입니다.
 
 기본 예:
 
@@ -193,12 +193,12 @@ src: 문자열 URL 이 값은 이미지의 기본값으로 사용됩니다.
 
 ## 색상 {#color}
 
-필수 속성:\
-**클래스**: &quot;mktoColor&quot;,\
-**id**: ID 문자열입니다. 문자, 숫자, 대시 &quot;-&quot; 및 밑줄 &quot;_&quot;만 포함합니다. 공백은 허용되지 않습니다. 고유해야 합니다.\
+필수 속성:
+**클래스**: &quot;mktoColor&quot;,
+**id**: ID 문자열입니다. 문자, 숫자, 대시 &quot;-&quot; 및 밑줄 &quot;_&quot;만 포함합니다. 공백은 허용되지 않습니다. 고유해야 합니다.
 **mktoName** : 문자열입니다. 랜딩 페이지 편집기에 표시되는 표시 이름입니다. 가장 좋은 방법은 수사적 이름을 사용하는 것입니다.
 
-선택 사항:\
+선택 사항:
 **기본값**: 7자리 16진수 문자 색상 코드입니다. 예: &quot;#336699&quot;
 
 기본 예:
@@ -211,16 +211,16 @@ src: 문자열 URL 이 값은 이미지의 기본값으로 사용됩니다.
 
 ## 부울 {#boolean}
 
-필수 속성:\
-**class** : &quot;mktoBoolean&quot;,\
-**id**: ID 문자열입니다. 문자, 숫자, 대시 &quot;-&quot; 및 밑줄 &quot;_&quot;만 포함합니다. 공백은 허용되지 않습니다. 고유해야 합니다.\
+필수 속성:
+**class** : &quot;mktoBoolean&quot;,
+**id**: ID 문자열입니다. 문자, 숫자, 대시 &quot;-&quot; 및 밑줄 &quot;_&quot;만 포함합니다. 공백은 허용되지 않습니다. 고유해야 합니다.
 **mktoName** : 문자열입니다. 랜딩 페이지 편집기에 표시되는 표시 이름입니다. 가장 좋은 방법은 수사적 이름을 사용하는 것입니다.
 
-선택 사항:\
-**기본**: 부울 문자열입니다. true 또는 false는 값이 ON 또는 OFF 위치에서 시작하는지 여부를 제어합니다. 제공되지 않으면 &quot;false&quot;입니다.\
-**false_value**: 문자열입니다. 변수가 꺼짐 위치에 있을 때 변수에 삽입할 값입니다. 제공되지 않으면 &quot;false&quot;입니다.\
-**true_value**: 문자열입니다. 변수가 ON 위치에 있을 때 변수에 삽입할 값입니다. 제공되지 않으면 &quot;true&quot;입니다.\
-**false_value_name**: 문자열입니다. 값이 꺼짐 위치에 있을 때 랜딩 페이지 편집기에 표시할 표시 이름입니다. 제공되지 않으면 &quot;꺼짐&quot;입니다.\
+선택 사항:
+**기본**: 부울 문자열입니다. true 또는 false는 값이 ON 또는 OFF 위치에서 시작하는지 여부를 제어합니다. 제공되지 않으면 &quot;false&quot;입니다.
+**false_value**: 문자열입니다. 변수가 꺼짐 위치에 있을 때 변수에 삽입할 값입니다. 제공되지 않으면 &quot;false&quot;입니다.
+**true_value**: 문자열입니다. 변수가 ON 위치에 있을 때 변수에 삽입할 값입니다. 제공되지 않으면 &quot;true&quot;입니다.
+**false_value_name**: 문자열입니다. 값이 꺼짐 위치에 있을 때 랜딩 페이지 편집기에 표시할 표시 이름입니다. 제공되지 않으면 &quot;꺼짐&quot;입니다.
 **true_value_name**: 문자열. 값이 ON 위치에 있을 때 랜딩 페이지 편집기에 표시할 표시 이름입니다. 제공되지 않을 경우 &quot;켜기&quot;.
 
 기본 예:

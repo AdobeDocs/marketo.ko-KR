@@ -4,7 +4,7 @@ description: Google Universal Analytics의 사용자 정의 RTP 보고서 - Mark
 title: Google Universal Analytics의 사용자 정의 RTP 보고서
 exl-id: c8b1e653-03b8-48bc-b80d-3e6cdf3485c3
 feature: Web Personalization
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
 workflow-type: tm+mt
 source-wordcount: '362'
 ht-degree: 3%
@@ -64,41 +64,41 @@ ht-degree: 3%
 
 1. **Dimension 드릴다운** 섹션에서 각 탭의 관련 차원을 아래와 같이 설정합니다.
 
-<table> 
- <thead> 
-  <tr> 
-   <th> 
+<table>
+ <thead>
+  <tr>
+   <th>
     <div>
-      탭 이름 
-    </div></th> 
-   <th> 
+      탭 이름
+    </div></th>
+   <th>
     <div>
       Dimension 드릴다운
-    </div></th> 
-  </tr> 
- </thead> 
- <tbody> 
-  <tr> 
-   <td>업종</td> 
-   <td><img src="assets/1.png" data-linked-resource-id="7514675" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="7504218"></td> 
-  </tr> 
-  <tr> 
-   <td>그룹</td> 
-   <td><img src="assets/2.png" data-linked-resource-id="7514674" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="7504218"></td> 
-  </tr> 
-  <tr> 
-   <td>카테고리</td> 
-   <td><img src="assets/3.png" data-linked-resource-id="7514673" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="7504218"></td> 
-  </tr> 
-  <tr> 
-   <td>ABM</td> 
-   <td><img src="assets/5.png" data-linked-resource-id="7514677" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="7504218"></td> 
-  </tr> 
-  <tr> 
-   <td>조직</td> 
-   <td><img src="assets/5.png" data-linked-resource-id="7514677" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="7504218"></td> 
-  </tr> 
- </tbody> 
+    </div></th>
+  </tr>
+ </thead>
+ <tbody>
+  <tr>
+   <td>업종</td>
+   <td><img src="assets/1.png" data-linked-resource-id="7514675" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="7504218"></td>
+  </tr>
+  <tr>
+   <td>그룹</td>
+   <td><img src="assets/2.png" data-linked-resource-id="7514674" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="7504218"></td>
+  </tr>
+  <tr>
+   <td>카테고리</td>
+   <td><img src="assets/3.png" data-linked-resource-id="7514673" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="7504218"></td>
+  </tr>
+  <tr>
+   <td>ABM</td>
+   <td><img src="assets/5.png" data-linked-resource-id="7514677" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="7504218"></td>
+  </tr>
+  <tr>
+   <td>조직</td>
+   <td><img src="assets/5.png" data-linked-resource-id="7514677" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="7504218"></td>
+  </tr>
+ </tbody>
 </table>
 
 1. 필터를 설정하지 말고 이 보고서를 **[!UICONTROL All Web Site Data]**&#x200B;에서 사용할 수 있도록 설정하십시오(또는 특정 Analytics 계정과 관련된 경우 변경하지 마십시오).
@@ -137,86 +137,86 @@ ht-degree: 3%
 
 1. **Dimension 드릴다운** 섹션에서 각 탭의 관련 차원을 아래와 같이 설정합니다.
 
-<table> 
- <thead> 
-  <tr> 
-   <th> 
+<table>
+ <thead>
+  <tr>
+   <th>
     <div>
-      탭 이름 
-    </div></th> 
-   <th> 
+      탭 이름
+    </div></th>
+   <th>
     <div>
-      Dimension 드릴다운 
-    </div></th> 
-  </tr> 
- </thead> 
- <tbody> 
-  <tr> 
-   <td>모든 참여</td> 
-   <td><img src="assets/a.png" data-linked-resource-id="7514683" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="7504218"></td> 
-  </tr> 
-  <tr> 
-   <td>ABM에 의한 참여</td> 
-   <td><img width="277" src="assets/4.png" data-linked-resource-id="7514678" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="7504218"></td> 
-  </tr> 
-  <tr> 
-   <td>범주별 참여</td> 
-   <td><img src="assets/a.png" data-linked-resource-id="7514683" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="7504218"></td> 
-  </tr> 
-  <tr> 
-   <td>그룹별 참여</td> 
-   <td><img src="assets/c.png" data-linked-resource-id="7514681" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="7504218"></td> 
-  </tr> 
-  <tr> 
-   <td>업종별 참여</td> 
-   <td><img src="assets/b.png" data-linked-resource-id="7514682" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="7504218"></td> 
-  </tr> 
- </tbody> 
+      Dimension 드릴다운
+    </div></th>
+  </tr>
+ </thead>
+ <tbody>
+  <tr>
+   <td>모든 참여</td>
+   <td><img src="assets/a.png" data-linked-resource-id="7514683" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="7504218"></td>
+  </tr>
+  <tr>
+   <td>ABM에 의한 참여</td>
+   <td><img width="277" src="assets/4.png" data-linked-resource-id="7514678" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="7504218"></td>
+  </tr>
+  <tr>
+   <td>범주별 참여</td>
+   <td><img src="assets/a.png" data-linked-resource-id="7514683" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="7504218"></td>
+  </tr>
+  <tr>
+   <td>그룹별 참여</td>
+   <td><img src="assets/c.png" data-linked-resource-id="7514681" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="7504218"></td>
+  </tr>
+  <tr>
+   <td>업종별 참여</td>
+   <td><img src="assets/b.png" data-linked-resource-id="7514682" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="7504218"></td>
+  </tr>
+ </tbody>
 </table>
 
 1. 다음 필터를 설정합니다.
 
-<table> 
- <thead> 
-  <tr> 
-   <th> 
+<table>
+ <thead>
+  <tr>
+   <th>
     <div>
-      Inc/Exc 
-    </div></th> 
-   <th> 
+      Inc/Exc
+    </div></th>
+   <th>
     <div>
-      필드 
-    </div></th> 
-   <th> 
+      필드
+    </div></th>
+   <th>
     <div>
-      일치 유형 
-    </div></th> 
-   <th> 
+      일치 유형
+    </div></th>
+   <th>
     <div>
-      값 
-    </div></th> 
-   <th colspan="1"> 
+      값
+    </div></th>
+   <th colspan="1">
     <div>
-      댓글 
-    </div></th> 
-  </tr> 
- </thead> 
- <tbody> 
-  <tr> 
-   <td><p>포함</p></td> 
-   <td><p><span class="uicontrol">이벤트 범주</span></p></td> 
-   <td>Regex</td> 
-   <td>RTP-Campaigns|RTP-Recommendations|RTP-Segments</td> 
-   <td colspan="1">RTP와 관련이 없는 다른 모든 사용자 지정 이벤트를 필터링합니다.</td> 
-  </tr> 
-  <tr> 
-   <td>제외</td> 
-   <td><span class="uicontrol">이벤트 레이블</span></td> 
-   <td>Regex</td> 
-   <td>#</td> 
-   <td colspan="1">캠페인 이름에서 #을 사용하여 보고서 캠페인에서 필터링할 수 있습니다.</td> 
-  </tr> 
- </tbody> 
+      댓글
+    </div></th>
+  </tr>
+ </thead>
+ <tbody>
+  <tr>
+   <td><p>포함</p></td>
+   <td><p><span class="uicontrol">이벤트 범주</span></p></td>
+   <td>Regex</td>
+   <td>RTP-Campaigns|RTP-Recommendations|RTP-Segments</td>
+   <td colspan="1">RTP와 관련이 없는 다른 모든 사용자 지정 이벤트를 필터링합니다.</td>
+  </tr>
+  <tr>
+   <td>제외</td>
+   <td><span class="uicontrol">이벤트 레이블</span></td>
+   <td>Regex</td>
+   <td>#</td>
+   <td colspan="1">캠페인 이름에서 #을 사용하여 보고서 캠페인에서 필터링할 수 있습니다.</td>
+  </tr>
+ </tbody>
 </table>
 
 1. 이 보고서를 **[!UICONTROL All Web Site Data]**&#x200B;에서 사용할 수 있도록 설정합니다(필요한 경우 변경).

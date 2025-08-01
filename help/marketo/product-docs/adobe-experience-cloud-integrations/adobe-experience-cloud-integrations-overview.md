@@ -3,7 +3,7 @@ description: Adobe Experience Cloud 통합 개요 - Marketo 문서 - 제품 설�
 title: Adobe Experience Cloud 통합 개요
 exl-id: ae75fb01-4b46-412f-b153-6f37c8de9b65
 feature: Integrations
-source-git-commit: 02b2e39580c5eac63de4b4b7fdaf2a835fdd4ba5
+source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
 workflow-type: tm+mt
 source-wordcount: '168'
 ht-degree: 0%
@@ -26,7 +26,7 @@ Adobe은 Adobe Experience Cloud 제품 간 기본 대상 동기화부터 시작�
 
 * [Adobe Experience Cloud에 목록 보내기](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/static-lists/send-a-list-to-adobe-experience-cloud.md){target="_blank"}
 
-Marketo Engage에서 여러 AEC 응용 프로그램으로 알려진 사람들의 정적 목록을 동기화할 수 있으므로 기존 프로그램을 개선하고 새로운 사용 사례를 잠금 해제하고 멀티채널 캠페인을 조정할 수 있습니다. 이 통합에는 Adobe Analytics, Adobe Target, Adobe Experience Manager, Adobe Audience Manager 및 Adobe Advertising Cloud이 포함됩니다.
+Marketo Engage에서 여러 AEC 응용 프로그램으로 알려진 사람들의 정적 목록을 동기화할 수 있으므로 기존 프로그램을 개선하고 새로운 사용 사례를 잠금 해제하고 멀티채널 캠페인을 조정할 수 있습니다. 이 통합에는 Adobe Analytics, Adobe Target, Adobe Experience Manager, Adobe Audience Manager 및 Adobe Advertising Cloud가 포함됩니다.
 
 **Adobe Experience Manager과 Marketo 통합**
 

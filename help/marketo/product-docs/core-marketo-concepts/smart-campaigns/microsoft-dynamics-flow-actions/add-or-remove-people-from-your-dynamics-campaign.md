@@ -3,7 +3,7 @@ description: ' [!DNL Dynamics] Campaign - Marketo 문서 - 제품 설명서에�
 title: ' [!DNL Dynamics] Campaign에서 사람 추가 또는 제거'
 exl-id: 4fea2f7c-0655-4816-8640-76878f760b6e
 feature: Smart Campaigns, Microsoft Dynamics
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
 workflow-type: tm+mt
 source-wordcount: '312'
 ht-degree: 0%

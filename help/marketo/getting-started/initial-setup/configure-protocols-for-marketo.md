@@ -4,7 +4,7 @@ description: Marketo Engage에 대한 프로토콜 구성 - Marketo Engage 문�
 title: Marketo Engage에 대한 프로토콜 구성
 exl-id: cf2fd4ac-9229-4e52-bb68-5732b44920ef
 feature: Getting Started
-source-git-commit: 8ff62b372b4d0f98ab88c569bdc3608eb63b70c7
+source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
 workflow-type: tm+mt
 source-wordcount: '2131'
 ht-degree: 8%
@@ -39,7 +39,7 @@ ht-degree: 8%
 
 `2` **전자 메일 추적 링크에 CNAME 추가**
 
-`[YourEmailCNAME]`이(가) Marketo Engage이 할당한 기본 추적 링크인 [MktoTrackingLink]을(를) 다음 형식으로 가리키도록 CNAME 마케팅이 보낸 전자 메일을 추가합니다.\
+`[YourEmailCNAME]`이(가) Marketo Engage이 할당한 기본 추적 링크인 [MktoTrackingLink]을(를) 다음 형식으로 가리키도록 CNAME 마케팅이 보낸 전자 메일을 추가합니다.
 CNAME `[YourEmailCNAME].[YourDomain].com`의 `[MktoTrackingLink]`
 
 예:
@@ -92,11 +92,11 @@ CNAME `[YourEmailCNAME].[YourDomain].com`의 `[MktoTrackingLink]`
 
 1. SPF를 설정하려면 DNS 항목에 다음 줄을 추가하십시오.
 
-   `[CompanyDomain]` IN TXT v=spf1 mx ip4:`[CorpIP]`\
-   include: mktomail.com ~all
+   `[CompanyDomain]` IN TXT v=spf1 mx ip4:`[CorpIP]`
+include: mktomail.com ~all
 
-   DNS 항목에 기존 SPF 레코드가 이미 있는 경우 다음을 추가하기만 하면 됩니다.\
-   포함: mktomail.com
+   DNS 항목에 기존 SPF 레코드가 이미 있는 경우 다음을 추가하기만 하면 됩니다.
+포함: mktomail.com
 
    CompanyDomain을 웹 사이트의 주 도메인(예: &quot;`(company.com/)`&quot;)으로 바꾸고 CorpIP를 회사 전자 메일 서버의 IP 주소(예: &quot;255.255.255.255&quot;). Marketo Engage을 통해 여러 도메인에서 이메일을 전송하려면 IT 직원에게 각 도메인에 대해 한 줄에 이 줄을 추가하도록 해야 합니다.
 
@@ -192,9 +192,9 @@ DMARC 레코드에는 DMARC 태그라는 여러 구성 요소가 있습니다. �
     <td>fo</td>
     <td>선택 사항입니다</td>
     <td>도메인 소유자가 보고 옵션을 지정할 수 있습니다.</td>
-    <td>0: 모든 것이 실패하면 보고서 생성 
-    <br>1: 실패한 경우 보고서 생성 
-    <br>d: DKIM 실패 시 보고서 생성 
+    <td>0: 모든 것이 실패하면 보고서 생성
+    <br>1: 실패한 경우 보고서 생성
+    <br>d: DKIM 실패 시 보고서 생성
     <br>s: SPF가 실패할 경우 보고서 생성</td>
     <td>1(DMARC 보고서에 권장)</td>
   </tr>
@@ -255,7 +255,7 @@ DMARC 정렬에는 DKIM 정렬과 SPF 정렬의 두 가지 유형이 있습니�
 
 * DKIM 정렬 DMARC - DKIM 정렬 DMARC을 설정하려면 다음을 수행해야 합니다.
 
-   * 메시지의 보낸 사람: 도메인에 대한 DKIM을 설정합니다. 이 문서[&#128279;](/help/marketo/product-docs/email-marketing/deliverability/set-up-a-custom-dkim-signature.md){target="_blank"}의 지침 을(를) 사용합니다.
+   * 메시지의 보낸 사람: 도메인에 대한 DKIM을 설정합니다. 이 문서[의 지침 ](/help/marketo/product-docs/email-marketing/deliverability/set-up-a-custom-dkim-signature.md){target="_blank"}을(를) 사용합니다.
    * 이전에 구성된 FROM:/DKIM 도메인에 대해 DMARC 구성
 
 * DMARC 정렬 SPF - 브랜드 반환 경로를 통해 DMARC 정렬 SPF를 설정하려면 다음을 수행해야 합니다.

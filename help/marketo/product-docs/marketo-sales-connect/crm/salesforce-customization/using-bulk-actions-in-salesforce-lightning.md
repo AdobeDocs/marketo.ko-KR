@@ -4,7 +4,7 @@ description: Salesforce Lightning에서 일괄 작업 사용 - Marketo 문서 - 
 title: Salesforce Lightning에서 일괄 작업 사용
 exl-id: 72022507-6568-4cc2-b3b5-c1703a1493ad
 feature: Marketo Sales Connect
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
 workflow-type: tm+mt
 source-wordcount: '365'
 ht-degree: 0%
@@ -39,10 +39,10 @@ ht-degree: 0%
 
 1. MSC 이메일이 표시됩니다. 여기에는 다음 기능이 포함됩니다.
 
-   a. &quot;[!UICONTROL To]&quot; 필드에 &quot;모든 입고&quot;가 표시됨 - 이는 리드 목록 보기에서 선택한 리드 목록에 해당합니다\
-   b. 이 목록은 &quot;일괄 작성&quot;이라는 왼쪽 패널에 표시되며 여기에서 수신자를 추가/제거할 수 있습니다.\
-   c. 템플릿을 선택하거나 직접 이메일을 만들 수 있습니다\
-   d. 이메일을 즉시 보내거나 나중에 보내도록 예약할 수 있습니다
+   a. &quot;[!UICONTROL To]&quot; 필드에 &quot;모든 입고&quot;가 표시됨 - 이는 리드 목록 보기에서 선택한 리드 목록에 해당합니다
+b. 이 목록은 &quot;일괄 작성&quot;이라는 왼쪽 패널에 표시되며 여기에서 수신자를 추가/제거할 수 있습니다.
+c. 템플릿을 선택하거나 직접 이메일을 만들 수 있습니다
+d. 이메일을 즉시 보내거나 나중에 보내도록 예약할 수 있습니다
 
    ![](assets/three-5.png)
 

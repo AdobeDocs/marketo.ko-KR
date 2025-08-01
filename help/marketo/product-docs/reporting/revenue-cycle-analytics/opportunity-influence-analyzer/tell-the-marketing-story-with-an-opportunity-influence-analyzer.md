@@ -4,7 +4,7 @@ description: 영업 기회 영향 분석기로 마케팅 스토리 전달 - Mark
 title: Opportunity Influence Analyzer 를 사용하여 마케팅 스토리 전달
 exl-id: 07a8fd25-b80e-4015-931f-f490bb5e48e5
 feature: Reporting, Revenue Cycle Analytics
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
 workflow-type: tm+mt
 source-wordcount: '323'
 ht-degree: 0%

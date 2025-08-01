@@ -1,15 +1,15 @@
 ---
 unique-page-id: 2949469
-description: 설정 단계 - Marketo 문서 - 제품 설명서
+description: 설정 단계 - Marketo 설명서 - 제품 설명서
 title: 설정 단계
 hide: true
 hidefromtoc: true
 exl-id: ef6b7311-55ca-4384-a24c-714eae89a57d
 feature: Getting Started
-source-git-commit: d41a43d7579775c0c866e867f778962ff61ff044
+source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
 workflow-type: tm+mt
-source-wordcount: '2104'
-ht-degree: 0%
+source-wordcount: '2052'
+ht-degree: 1%
 
 ---
 
@@ -48,11 +48,11 @@ Marketo 사용에 앞서 몇 가지 단계를 완료해야 합니다.
 
 축하합니다! 현재 Marketo에 있으며 탐색을 시작할 수 있습니다. 마케팅 팀의 동료를 초대하여 함께 참여하도록 할 수 있습니다. 새 사용자를 추가하여 이 작업을 수행할 수 있습니다.
 
-**[!UICONTROL 관리자]** 영역으로 이동합니다.
+**[!UICONTROL Admin]** 영역으로 이동합니다.
 
 >[!TIP]
 >
->**[!UICONTROL 내 계정]**&#x200B;을 클릭하여 계정 및 위치 설정을 변경하고 새 구독 이름을 설정할 수 있습니다.
+>**[!UICONTROL My Account]**&#x200B;을(를) 클릭하여 계정 및 위치 설정을 변경하고 새 구독 이름을 설정할 수 있습니다.
 
 ![](assets/setup-steps-2.png)
 
@@ -60,15 +60,15 @@ Marketo 사용에 앞서 몇 가지 단계를 완료해야 합니다.
 >
 >**관리자 권한 필요**
 
-**[!UICONTROL 사용자 및 역할]**&#x200B;을 클릭합니다.
+**[!UICONTROL Users & Roles]**&#x200B;을(를) 클릭합니다.
 
 ![](assets/setup-steps-3.png)
 
-**[!UICONTROL 새 사용자 초대]**&#x200B;를 클릭합니다.
+**[!UICONTROL Invite New User]**&#x200B;을(를) 클릭합니다.
 
 ![](assets/setup-steps-4.png)
 
-동료의 이메일 주소, 이름, 성을 입력합니다. _액세스 만료 날짜 설정은 선택 사항입니다_. **[!UICONTROL 다음]**&#x200B;을 클릭합니다.
+동료의 이메일 주소, 이름, 성을 입력합니다. _액세스 만료 날짜 설정은 선택 사항입니다_. **[!UICONTROL Next]**&#x200B;을(를) 클릭합니다.
 
 ![](assets/setup-steps-5.png)
 
@@ -80,7 +80,7 @@ Marketo 사용에 앞서 몇 가지 단계를 완료해야 합니다.
 >
 >만료 날짜가 되면 사용자가 만료 알림을 받고 계정이 잠깁니다.
 
-역할을 선택하고 **[!UICONTROL 다음]**&#x200B;을(를) 클릭합니다. 표준 사용자는 관리자를 제외한 모든 영역에 액세스할 수 있습니다.
+역할을 선택하고 **[!UICONTROL Next]**&#x200B;을(를) 클릭합니다. 표준 사용자는 관리자를 제외한 모든 영역에 액세스할 수 있습니다.
 
 ![](assets/setup-steps-6.png)
 
@@ -92,7 +92,7 @@ Marketo 사용에 앞서 몇 가지 단계를 완료해야 합니다.
 
 ![](assets/setup-steps-7.png)
 
-이제 새 사용자가 **[!UICONTROL 사용자]** 탭에 나열되므로 암호 및 로그인을 만드는 링크가 포함된 이메일을 받게 됩니다. 다음 단계!
+이제 새 사용자가 **[!UICONTROL Users]** 탭에 나열되므로 암호 및 로그인을 만드는 링크가 포함된 이메일을 받게 됩니다. 다음 단계!
 
 ![](assets/setup-steps-8.png)
 
@@ -140,7 +140,7 @@ Marketo 지원에서 귀하를 회사의 Marketo 고객 지원 관리자임을 �
 
 ![](assets/setup-steps-10.png)
 
-랜딩 페이지 설정에서 [!UICONTROL 계정 문자열]을(를) 복사합니다.
+랜딩 페이지 설정에서 [!UICONTROL Account String]을(를) 복사합니다.
 
 ![](assets/setup-steps-11.png)
 
@@ -158,7 +158,7 @@ Marketo 지원에서 귀하를 회사의 Marketo 고객 지원 관리자임을 �
 
 * **추적 링크 브랜딩**. Marketo의 이메일에 포함된 링크에서 자체 도메인(Marketo 대신)을 사용하도록 CNAME을 선택할 수 있습니다. 이렇게 하면 도메인 브랜딩이 강화되고 수신자와의 신뢰와 전달성이 높아집니다.
 * **회사 전자 메일에 Marketo허용 목록에 추가하다 를 추가합니다.** 실제 사용자에게 전자 메일을 보내기 전에 테스트 계정으로 테스트 전자 메일을 보내는 것이 일반적인 모범 사례입니다. Marketo 허용 목록에 추가를 사용하면 이러한 테스트 이메일이 차단되거나 스팸으로 플래그가 지정되는 것을 방지할 수 있습니다.
-* **SPF 및 DKIM을 설정합니다.** 이러한 기술은 수신자에게 Marketo 이메일이 스팸이 아님을 보장합니다. 수신자의 스팸 필터가 Marketo 이메일을 거부하지 않도록 하려면 다음 단계에 따라 [이메일 전달성을 위한 SPF 및 DKIM을 설정](/help/marketo/product-docs/email-marketing/deliverability/set-up-spf-and-dkim-for-your-email-deliverability.md)하십시오.
+* **SPF와 DKIM을 설정합니다.** 이러한 기술은 수신자에게 Marketo 이메일이 스팸이 아님을 보장합니다. 수신자의 스팸 필터가 Marketo 이메일을 거부하지 않도록 하려면 다음 단계에 따라 [이메일 전달성을 위해 SPF 및 DKIM을 설정](/help/marketo/product-docs/email-marketing/deliverability/set-up-spf-and-dkim-for-your-email-deliverability.md)하십시오.
 * **도메인의 MX 레코드를 설정합니다.** MX 레코드를 사용하면 답글 및 자동 응답자를 처리하기 위해 전자 메일을 보내는 도메인으로 메일을 받을 수 있습니다. 회사 도메인에서 보내는 경우 이미 이 구성이 되어 있을 수 있습니다. 그렇지 않은 경우 일반적으로 회사 도메인의 MX 레코드에 매핑하도록 설정할 수 있습니다.
 * **보낸 사람 주소에 대한 권장 설정입니다.** 모든 이메일 캠페인의 보낸 사람 주소에 유효하고 기존 및 작업 중인 이메일 도메인을 사용해야 합니다. 회사 도메인에서 전송하는 것보다 회사 도메인의 하위 도메인을 구성하는 것이 유용할 수 있습니다. 이렇게 하면 회사 메일 스트림의 문제가 Marketo 메일 스트림에 영향을 주지 않고 그 반대의 경우도 마찬가지입니다. 또한 `something@nonexistentdomain.com`에서 메일을 보내면 전자 메일이 필터링되거나 차단됩니다. 보낸 사람의 보낸 사람 주소에 사용되는 모든 도메인에는 유효하고 작동하는 postmaster@ 및 abuse@ 계정이 있어야 합니다.
 
@@ -176,17 +176,17 @@ Google 앱을 사용하여 회사 전자 메일을 호스팅하는 경우 도메
 >
 >이메일 및 랜딩 페이지 CNAME은 달라야 합니다. 또한 &#39;track&#39; 또는 &#39;link&#39;와 같은 CNAME은 사용하지 마십시오. 종종 스팸으로 플래그가 지정됩니다
 
-Marketo 추적 링크를 찾으려면 **[!UICONTROL 관리자]** 영역으로 이동하십시오.
+Marketo 추적 링크를 찾으려면 **[!UICONTROL Admin]** 영역으로 이동하십시오.
 
 ![](assets/setup-steps-12.png)
 
-**[!UICONTROL 전자 메일]**&#x200B;을 클릭하세요.
+**[!UICONTROL Email]**&#x200B;을(를) 클릭합니다.
 
 ![](assets/setup-steps-13.png)
 
-전자 메일 설정에서 [!UICONTROL 추적 링크]를 복사합니다.
+전자 메일 설정에서 [!UICONTROL Tracking Link]을(를) 복사합니다.
 
-[!UICONTROL 추적 링크]의 형식은 `mkto-[a-z][4 digits].com`입니다.
+[!UICONTROL Tracking Link]은(는) `mkto-[a-z][4 digits].com` 형식입니다.
 
 ![](assets/setup-steps-14.png)
 
@@ -220,14 +220,13 @@ Marketo 추적 링크를 찾으려면 **[!UICONTROL 관리자]** 영역으로 �
 
 이제 마케팅 팀은 Marketo 플랫폼을 사용하여 사용자와 커뮤니케이션합니다. 우수한 이메일 전달성을 보장하려면 다음 사항을 변경해야 합니다.
 
-`1)` 랜딩 페이지의 경우 **[LandingPageCNAME]**&#x200B;에 대한 DNS 항목(CNAME)을 추가하십시오.**[Munchkin ID]**.mktoweb.com을 가리키는 **[CompanyDomain]**.com.
+`1)` 랜딩 페이지의 경우 **[LandingPageCNAME]**&#x200B;에 대한 DNS 항목(CNAME)을 추가하십시오.**[CompanyDomain]**.com, **[Munchkin ID]**.mktoweb.com을 가리킴.
 
 `2)` 전자 메일의 추적 링크에 대해 **[EmailTrackingCNAME]**&#x200B;에 대한 DNS 항목(CNAME)을 추가하십시오.**[MktoTrackingLink]**&#x200B;을(를) 가리키는 **[CompanyDomain]**.com.
 
 허용 목록에 추가하다 `3)` Marketo.
 
-    * 전자 메일 허용 목록에 추가하다에서 IP 주소를 사용하는 경우 아래 나열된 IP를 추가하십시오.
-
+    * 전자 메일 허용 목록에 IP 주소를 사용하는 경우 아래 나열된 IP를 추가하십시오.
     199.15.212.0/22
     
     192.28.144.0/20
@@ -264,7 +263,7 @@ DNS 항목에 기존 SPF 레코드가 이미 있는 경우 다음을 추가하�
 
 include:mktomail.com
 
-`[`도메인에서 **바꾸기**&#x200B;를 도메인에서 보낸 전자 메일로 바꾸고(예: company.com) **CorpIP**&#x200B;를 회사 전자 메일 서버의 IP 주소로 바꿉니다(예: 255.255.255).  Marketo을 통해 여러 도메인에서 전자 메일을 전송하려면 IT 직원이 각 도메인에 대해 한 줄에 이 줄을 추가하도록 해야 합니다.`]`
+`[`도메인에서 **바꾸기**&#x200B;를 도메인에서 보낸 전자 메일로 바꾸고(예: company.com) **CorpIP**&#x200B;을(를) 회사 전자 메일 서버의 IP 주소로 바꿉니다(예: 255.255.255.255).  Marketo을 통해 여러 도메인에서 전자 메일을 전송하려면 IT 직원이 각 도메인에 대해 한 줄에 이 줄을 추가하도록 해야 합니다.`]`
 
 `b.` DKIM의 경우 설정하려는 각 도메인에 대해 DNS 리소스 레코드를 만드십시오. 다음은 서명할 각 도메인의 호스트 레코드 및 TXT 값입니다.
 
@@ -272,13 +271,13 @@ include:mktomail.com
 
 **`[DKIMDomain2]`**: 호스트 레코드는 **`[HostRecord2]`**&#x200B;이고 TXT 값은 **`[TXTValue2]`**&#x200B;입니다.
 
-`[`여기에 있는 [지침](/help/marketo/product-docs/email-marketing/deliverability/set-up-a-custom-dkim-signature.md)에 따라 설정한 각 **DKIMDomain**&#x200B;에 대해 **HostRecord** 및 **TXTValue**&#x200B;를 복사합니다. IT 직원이 이 단계를 완료한 후 **관리자 > 전자 메일 > DKIM**&#x200B;에서 각 도메인을 확인하는 것을 잊지 마십시오.`]`
+`[`여기에 있는 **지침**&#x200B;에 따라 설정한 각 **DKIMDomain**&#x200B;에 대해 **HostRecord** 및 [TXTValue](/help/marketo/product-docs/email-marketing/deliverability/set-up-a-custom-dkim-signature.md)를 복사합니다. IT 직원이 이 단계를 완료한 후 **관리자 > 전자 메일 > DKIM**&#x200B;에서 각 도메인을 확인하는 것을 잊지 마십시오.`]`
 
 `5)` FROM 도메인 **[FromDomain1]**, **[FromDomain2]** 등에 대해 올바른 MX 레코드가 있는지 확인해야 합니다. 확인해줄 수 있나요? 그렇지 않은 경우 회사 도메인 MX 레코드에 매핑되도록 를 구성하십시오. 이렇게 하면 Marketo 우편물에 대한 회신/자동 응답자를 처리할 수 있습니다.
 
 Marketo으로 설정 프로세스를 완료할 수 있도록 이 단계를 완료하면 알려주십시오.
 
-감사합니다! 네가 최고야!
+감사합니다. 네가 최고야!
 
 사랑,
 
@@ -292,35 +291,35 @@ IT로 이메일을 전송합니다. IT에서 이러한 작업을 완료하는 �
 
 IT 담당자가 작업을 완료하면 다음 단계에 따라 랜딩 페이지 및 이메일 CNAME를 추가하고 DKIM 서명을 활성화합니다.
 
-**[!UICONTROL 관리자]** 영역으로 이동하여 랜딩 페이지 CNAME을 추가하십시오.
+**[!UICONTROL Admin]** 영역으로 이동하여 랜딩 페이지 CNAME 추가
 
 ![](assets/setup-steps-15.png)
 
-랜딩 페이지를 선택하고 [!UICONTROL 설정] 영역에서 **[!UICONTROL 편집]**&#x200B;을(를) 클릭합니다.
+랜딩 페이지를 선택하고 **[!UICONTROL Edit]** 영역에서 [!UICONTROL Settings]을(를) 클릭합니다.
 
 ![](assets/setup-steps-16.png)
 
-**[!UICONTROL 랜딩 페이지의 도메인 이름]** 필드에 새 도메인 이름을 입력합니다. 형식은 다음과 같아야 합니다.
+**[!UICONTROL Domain Name for Landing Pages]** 필드에 새 도메인 이름을 입력합니다. 형식은 다음과 같아야 합니다.
 
 `[LandingPageCNAME].[CompanyDomain].com`
 
 ![](assets/setup-steps-17.png)
 
-랜딩 페이지를 사용할 수 없는 경우 **[!UICONTROL 대체]** 페이지 필드에 사람들이 이동할 URL을 입력합니다. 대체 페이지가 없는 경우 회사 홈 페이지를 사용할 수 있습니다. **[!UICONTROL 홈 페이지]** 필드에 회사 웹 사이트를 입력합니다.
+랜딩 페이지를 사용할 수 없는 경우 **[!UICONTROL Fallback]** 페이지 필드에 사람들이 이동할 URL을 입력합니다. 대체 페이지가 없는 경우 회사 홈 페이지를 사용할 수 있습니다. **[!UICONTROL Homepage]** 필드에 회사 웹 사이트를 입력합니다.
 
 ![](assets/setup-steps-18.png)
 
-[!UICONTROL 관리자] 영역에서 **[!UICONTROL 전자 메일]**&#x200B;을(를) 선택하여 전자 메일 CNAME을 추가하세요.
+[!UICONTROL Admin] 영역에서 **[!UICONTROL Email]**&#x200B;을(를) 선택하여 전자 메일 CNAME을 추가합니다.
 
 ![](assets/setup-steps-19.png)
 
-[!UICONTROL 브랜딩 도메인] (으)로 스크롤합니다. 도메인을 선택하고 **[!UICONTROL 편집]**&#x200B;을 클릭합니다.
+[!UICONTROL Branding Domains]&#x200B;(으)로 스크롤합니다. 도메인을 선택하고 **[!UICONTROL Edit]**&#x200B;을(를) 클릭합니다.
 
 ![](assets/setup-steps-20.png)
 
 도메인 필드에 이메일 추적 도메인을 입력합니다. 형식은 다음과 같아야 합니다.
 
-`[EmailTrackingCNAME].[CompanyDomain].com`. **[!UICONTROL 저장]**&#x200B;을 클릭합니다.
+`[EmailTrackingCNAME].[CompanyDomain].com` 질문에 답합니다. **[!UICONTROL Save]**&#x200B;을(를) 클릭합니다.
 
 ![](assets/setup-steps-21.png)
 
@@ -330,8 +329,8 @@ IT 담당자가 작업을 완료하면 다음 단계에 따라 랜딩 페이지 
 
 회사에서 사용하는 CRM에 따라 다음 중에서 선택하십시오.
 
-    * [Marketo과 통합] [[!DNL Salesforce.com]](/help/marketo/product-docs/crm-sync/salesforce-sync/understanding-the-salesforce-sync.md)
-    * [Marketo과 통합] [[!DNL Microsoft Dynamics]](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/understanding-the-microsoft-dynamics-sync.md)
+    * [Marketo과 통합] [!DNL Salesforce.com](/help/marketo/product-docs/crm-sync/salesforce-sync/understanding-the-salesforce-sync.md)
+    * [Marketo과 통합] [!DNL Microsoft Dynamics](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/understanding-the-microsoft-dynamics-sync.md)
 
 >[!NOTE]
 >
@@ -347,10 +346,10 @@ Marketo에는 웹 페이지에서 개인 활동을 추적하는 데 사용할 �
 
 >[!NOTE]
 >
->추적 코드를 추가하는 데 필요한 HTML 관련 경험입니다.
+>추적 코드를 추가하려면 HTML 경험이 필요합니다.
 
 ## 성능 기대치 {#performance-expectations}
 
-Marketo의 성능 측면에서 기대할 수 있는 사항은 무엇입니까? 마케팅 캠페인의 크기와 복잡성에 따라 달라질 수 있습니다. 그러나 [Marketo Engage 제품 설명](https://helpx.adobe.com/kr/legal/product-descriptions/adobe-marketo-engage---product-description.html){target="_blank"}에 있는 여러 테이블의 &quot;표준&quot; 열에 요약된 내용과 동등한 성능 수준을 기대할 수 있습니다. &quot;성능&quot; 및 &quot;성능 플러스&quot; 열은 [더 높은 성능 수준](https://nation.marketo.com/t5/product-documents/marketo-engage-performance-tiers/ta-p/328835){target="_blank"}을 제공하는 성능 계층 패키지를 나타냅니다.
+Marketo의 성능 측면에서 기대할 수 있는 사항은 무엇입니까? 마케팅 캠페인의 크기와 복잡성에 따라 달라질 수 있습니다. 그러나 [Marketo Engage 제품 설명](https://helpx.adobe.com/legal/product-descriptions/adobe-marketo-engage---product-description.html){target="_blank"}에 있는 여러 표의 &quot;표준&quot; 열에 요약된 내용과 동등한 성능 수준을 기대할 수 있습니다. &quot;성능&quot; 및 &quot;성능 플러스&quot; 열은 [더 높은 성능 수준](https://nation.marketo.com/t5/product-documents/marketo-engage-performance-tiers/ta-p/328835){target="_blank"}을 제공하는 성능 계층 패키지를 나타냅니다.
 
 모든 설정 단계가 끝났습니다. 이제 Marketo에 다이빙해서 사용하는 일만 남았습니다!

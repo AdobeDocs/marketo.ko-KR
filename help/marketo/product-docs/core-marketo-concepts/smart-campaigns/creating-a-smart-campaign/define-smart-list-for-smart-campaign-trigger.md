@@ -4,9 +4,9 @@ description: 스마트 캠페인을 위한 스마트 목록 정의 | 트리거 -
 title: 스마트 캠페인을 위한 스마트 목록 정의 | 트리거
 exl-id: 14d9b15e-864a-47ef-8f39-3d65e6036a82
 feature: Smart Campaigns
-source-git-commit: c3aa1a29b084cb1c1add9d22cdbfc23bdcf7512b
+source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
 workflow-type: tm+mt
-source-wordcount: '253'
+source-wordcount: '251'
 ht-degree: 0%
 
 ---
@@ -19,7 +19,7 @@ ht-degree: 0%
 >
 >활성 캠페인에 대한 스마트 목록 또는 흐름 단계를 편집하면 기능이 중단될 수 있습니다. 그렇게 하기로 선택한 경우 신중하게 진행하십시오.
 
-1. 스마트 캠페인에서 **[!UICONTROL 스마트 목록]** 탭을 클릭합니다.
+1. 스마트 캠페인에서 **[!UICONTROL Smart List]** 탭을 클릭합니다.
 
    ![](assets/define-smart-list-for-smart-campaign-trigger-1.png)
 
