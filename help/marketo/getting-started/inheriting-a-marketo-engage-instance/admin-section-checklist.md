@@ -33,7 +33,7 @@ ht-degree: 1%
   <tr>
    <td>구독 및 Marketo Engage 제품 관리자</td>
    <td><li>Marketo Engage 구독이 <a href="/help/marketo/product-docs/administration/marketo-with-adobe-identity/adobe-identity-management-overview.md" target="_blank">Adobe IMS</a>(으)로 마이그레이션되었습니까?
-<br/>     그렇다면 'Adobe Admin Console 시스템 관리자'로부터 'Adobe Admin Console 제품 관리자' 역할이 부여되었습니까? 조직의 콘솔 관리자 권한이 있는 사용자를 모를 경우 <a href="https://helpx.adobe.com/contact.html" target="_blank">Adobe 고객 지원 센터</a>에 문의하십시오.</li>
+<br/>     그렇다면 'Adobe Admin Console 시스템 관리자'로부터 'Adobe Admin Console 제품 관리자' 역할이 부여되었습니까? 조직의 콘솔 관리자 권한이 있는 사용자를 모를 경우 <a href="https://helpx.adobe.com/kr/contact.html" target="_blank">Adobe 고객 지원 센터</a>에 문의하십시오.</li>
 <li>'Marketo Engage 제품 관리자' 초대를 수락했습니까? Adobe Admin Console에서 역할이 할당되면 이메일이 전송됩니다.
 <br/>     없는 경우 받은 편지함에서 <a href="/help/marketo/product-docs/administration/marketo-with-adobe-identity/admin-setup.md#initial-setup" target="_blank">환영 이메일</a>을 찾아 초대를 수락하여 Adobe ID을 활성화하십시오.</li></td>
   </tr>
@@ -281,7 +281,7 @@ ht-degree: 1%
    <td>Munchkin</td>
    <td><li><a href="/help/marketo/product-docs/administration/additional-integrations/add-munchkin-tracking-code-to-your-website.md" target="_blank">Munchkin 추적 코드</a>이(가) 웹 사이트(Marketo Engage 랜딩 페이지 아님)에 있습니까?</li>
 <li><a href="/help/marketo/product-docs/administration/settings/edit-do-not-track-browser-support-settings.md" target="_blank">추적 안 함</a> 브라우저 요청이 활성화되었습니까?</li>
-<li><a href="https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/javascriptapi/leadtracking/lead-tracking" target="_blank">Munchkin API</a>가 구성되어 있습니까?
+<li><a href="https://experienceleague.adobe.com/ko/docs/marketo-developer/marketo/javascriptapi/leadtracking/lead-tracking" target="_blank">Munchkin API</a>가 구성되어 있습니까?
 <p><img src="assets/tip-icon.png" alt="팁 아이콘">팁: 웹 사이트에서 munchkin 코드가 있는 위치에 대한 설명서가 없으면 <a href="/help/marketo/product-docs/reporting/basic-reporting/report-types/web-page-activity-report.md" target="_blank">웹 페이지 활동 보고서</a>를 만들어 모든 URL을 볼 수 있습니다.</li></td>
   </tr>
   <tr>
@@ -293,7 +293,7 @@ ht-degree: 1%
   </tr>
   <tr>
    <td>Adobe Dynamic Chat (해당되는 경우)</td>
-<td>아래 단계를 따라 <a href="https://adminconsole.adobe.com/" target="_blank">Adobe Admin Console</a>에 액세스해야 합니다. 아직 Adobe ID을 설정하지 않은 경우 <a href="https://helpx.adobe.com/manage-account/using/create-update-adobe-id.html" target="_blank">여기에서 설정하는 방법을 알아보세요</a>.
+<td>아래 단계를 따라 <a href="https://adminconsole.adobe.com/" target="_blank">Adobe Admin Console</a>에 액세스해야 합니다. 아직 Adobe ID을 설정하지 않은 경우 <a href="https://helpx.adobe.com/kr/manage-account/using/create-update-adobe-id.html" target="_blank">여기에서 설정하는 방법을 알아보세요</a>.
 <br/>
 <li><a href="/help/marketo/product-docs/demand-generation/dynamic-chat/setup-and-configuration/initial-setup.md" target="_blank">Dynamic Chat 제품 관리자</a> 초대를 수락했습니까? Dynamic Chat이 Marketo Engage 인스턴스에서 활성화되고 사용자가 시스템 관리자로 지정되면 이메일이 전송됩니다.
 <br/>     없는 경우 받은 편지함에서 환영 이메일을 찾고 초대를 수락하여 Adobe ID을 설정합니다.</li>

@@ -22,7 +22,7 @@ ht-degree: 1%
 
 >[!PREREQUISITES]
 >
->새 이메일 디자이너에 액세스하려면 Marketo Engage 구독을 [Adobe IMS(Identity Management System)](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/administration/marketo-with-adobe-identity/adobe-identity-management-overview)&#x200B;(으)로 마이그레이션해야 합니다. 아직 실행되지 않았으며 신속 처리를 요청하려면 Adobe 계정 팀(계정 관리자) 또는 [Marketo 지원](https://nation.marketo.com/t5/support/ct-p/Support)에 문의하십시오.
+>새 이메일 디자이너에 액세스하려면 Marketo Engage 구독을 [Adobe IMS(Identity Management System)](https://experienceleague.adobe.com/ko/docs/marketo/using/product-docs/administration/marketo-with-adobe-identity/adobe-identity-management-overview)&#x200B;(으)로 마이그레이션해야 합니다. 아직 실행되지 않았으며 신속 처리를 요청하려면 Adobe 계정 팀(계정 관리자) 또는 [Marketo 지원](https://nation.marketo.com/t5/support/ct-p/Support)에 문의하십시오.
 
 새로운 이메일 Designer은 표준 기본 템플릿과 함께 드래그 앤 드롭 편집기를 시각적으로 제공하여 생산성 및 효율성을 개선하는 개선된 이메일 및 이메일 템플릿 생성 경험을 제공하기 위한 Marketo Engage의 최신 혁신입니다. 공급업체에 비용을 들이지 않고도 맞춤형 이메일 템플릿을 손쉽게 제작할 수 있습니다.
 

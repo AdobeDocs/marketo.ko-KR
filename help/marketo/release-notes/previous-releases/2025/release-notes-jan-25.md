@@ -33,7 +33,7 @@ Adobe Dynamic Chat [에 대한 릴리스 정보는 여기에서 찾을 수 있�
   </tr>
     <tr>
    <td><strong>새 전자 메일 Designer</strong>: Marketo Engage의 새로운 기본 전자 메일 Designer을 사용하여 현대적이고 효율적인 전자 메일을 만듭니다. 미리 디자인된 기본 이메일 템플릿 중 하나에 액세스하거나 손쉽게 직접 만들 수 있습니다. 다이내믹 콘텐츠를 사용하고 Adobe Experience Manager 클라우드 서비스에서 이미지에 액세스합니다. Content Accelerator Gen-AI 기능을 사용하여 규모에 맞게 혁신적이고 성능이 뛰어난 이메일을 만들 수 있습니다.
-   <p><img src="assets/note-icon.png" alt="메모 아이콘"> 참고: 새 이메일 디자이너에 액세스하려면 Marketo Engage 구독을 <a href="https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/administration/marketo-with-adobe-identity/adobe-identity-management-overview">Adobe IMS(Identity Management System)</a>(으)로 마이그레이션해야 합니다. 아직 실행되지 않았으며 신속 처리를 요청하려면 Adobe 계정 팀(계정 관리자) 또는 <a href="https://nation.marketo.com/t5/support/ct-p/Support">Marketo 지원</a>에 문의하십시오. Content Accelerator Gen-AI 기능에 액세스하려면 Adobe 계정 팀에 문의하십시오.</td>
+   <p><img src="assets/note-icon.png" alt="메모 아이콘"> 참고: 새 이메일 디자이너에 액세스하려면 Marketo Engage 구독을 <a href="https://experienceleague.adobe.com/ko/docs/marketo/using/product-docs/administration/marketo-with-adobe-identity/adobe-identity-management-overview">Adobe IMS(Identity Management System)</a>(으)로 마이그레이션해야 합니다. 아직 실행되지 않았으며 신속 처리를 요청하려면 Adobe 계정 팀(계정 관리자) 또는 <a href="https://nation.marketo.com/t5/support/ct-p/Support">Marketo 지원</a>에 문의하십시오. Content Accelerator Gen-AI 기능에 액세스하려면 Adobe 계정 팀에 문의하십시오.</td>
    <td>배송됨</td>
    <td><a href="/help/marketo/product-docs/email-marketing/email-designer/overview.md">이메일 Designer 개요</a></td>
   </tr>
@@ -73,8 +73,8 @@ Adobe Dynamic Chat [에 대한 릴리스 정보는 여기에서 찾을 수 있�
 
 그 이후로는 사용자가 Marketo Engage에서 이러한 소셜 기능을 생성, 복제 또는 포함할 수 없습니다. 기존 소셜 자산은 2025년 1월 31일까지 계속 작동합니다. 2025년 2월 1일, 소셜 자산은 기능이 중단됩니다. 랜딩 페이지에 임베드된 소셜 기능은 제거해야 합니다. [자세히 알아보기](https://nation.marketo.com/t5/employee-blogs/marketo-engage-social-features-deprecation/ba-p/351977){target="_blank"}
 
-* **프로그램 구성원 API 업데이트 가져오기**: 프로그램 구성원의 식별자를 검색하는 기능을 지원하도록 [프로그램 구성원 가져오기](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/rest/lead-database/program-members#query){target="_blank"} API를 개선했습니다. 이 작업은 API 요청의 필드 매개 변수에 지정된 필드 목록에 ID를 추가하여 수행합니다.
+* **프로그램 구성원 API 업데이트 가져오기**: 프로그램 구성원의 식별자를 검색하는 기능을 지원하도록 [프로그램 구성원 가져오기](https://experienceleague.adobe.com/ko/docs/marketo-developer/marketo/rest/lead-database/program-members#query){target="_blank"} API를 개선했습니다. 이 작업은 API 요청의 필드 매개 변수에 지정된 필드 목록에 ID를 추가하여 수행합니다.
 
-* **Rest API &#39;access_token&#39; 매개 변수 사용 중단**: Marketo REST API 호출을 인증하는 데 사용되는 `access_token` 쿼리 매개 변수는 더 이상 사용되지 않으며 2025년 10월 31일 이후에 사용할 수 없습니다. 모든 신규 및 기존 통합은 &#39;인증&#39; 헤더 [을(를) 사용하여 여기에 설명된 대로 REST API 호출을 인증해야 합니다](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/rest/authentication){target="_blank"}.
+* **Rest API &#39;access_token&#39; 매개 변수 사용 중단**: Marketo REST API 호출을 인증하는 데 사용되는 `access_token` 쿼리 매개 변수는 더 이상 사용되지 않으며 2025년 10월 31일 이후에 사용할 수 없습니다. 모든 신규 및 기존 통합은 &#39;인증&#39; 헤더 [을(를) 사용하여 여기에 설명된 대로 REST API 호출을 인증해야 합니다](https://experienceleague.adobe.com/ko/docs/marketo-developer/marketo/rest/authentication){target="_blank"}.
 
-* **SOAP API 사용 중단**: Marketo SOAP API에 대한 지원은 2025년 10월 31일에 종료됩니다. SOAP API 기능을 사용하는 서비스는 [REST API](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/rest/rest-api){target="_blank"}(으)로 마이그레이션해야 합니다.
+* **SOAP API 사용 중단**: Marketo SOAP API에 대한 지원은 2025년 10월 31일에 종료됩니다. SOAP API 기능을 사용하는 서비스는 [REST API](https://experienceleague.adobe.com/ko/docs/marketo-developer/marketo/rest/rest-api){target="_blank"}(으)로 마이그레이션해야 합니다.

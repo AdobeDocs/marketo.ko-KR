@@ -24,7 +24,7 @@ Dynamic Chat JavaScript 코드 조각은 Marketo 랜딩 페이지뿐만 아니�
 
 **보고에 사용할 데이터가 얼마나 오래 저장됩니까?**
 
-90일. 제한/매개 변수의 전체 목록을 보려면 Marketo Engage [제품 설명 페이지](https://helpx.adobe.com/legal/product-descriptions/adobe-marketo-engage---product-description.html){target="_blank"}를 방문하세요.
+90일. 제한/매개 변수의 전체 목록을 보려면 Marketo Engage [제품 설명 페이지](https://helpx.adobe.com/kr/legal/product-descriptions/adobe-marketo-engage---product-description.html){target="_blank"}를 방문하세요.
 
 **Dynamic Chat에서 영어 이외의 언어를 지원합니까?**
 
