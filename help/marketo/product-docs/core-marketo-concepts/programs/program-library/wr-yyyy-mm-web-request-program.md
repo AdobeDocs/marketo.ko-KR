@@ -3,7 +3,7 @@ description: WR-YYYY-MM-Web 요청 프로그램 - Marketo 문서 - 제품 설명
 title: WR-YYYY-MM-Web 요청 프로그램
 feature: Programs
 exl-id: 4acaa2d0-3329-4027-acbd-ae2e0ec6f7c5
-source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
+source-git-commit: 21bcdc10fe1f3517612efe0f8e2adaf2f4411a70
 workflow-type: tm+mt
 source-wordcount: '400'
 ht-degree: 6%

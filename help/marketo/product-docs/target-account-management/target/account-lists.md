@@ -4,7 +4,7 @@ description: '[!UICONTROL Account Lists] - Marketo 문서 - 제품 설명서'
 title: '[!UICONTROL Account Lists]'
 exl-id: 31bb4341-d012-4239-8f40-10a07cd4c51c
 feature: Target Account Management
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 21bcdc10fe1f3517612efe0f8e2adaf2f4411a70
 workflow-type: tm+mt
 source-wordcount: '306'
 ht-degree: 0%
@@ -61,7 +61,7 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->이 단계는 계정 목록에만 적용됩니다. _동적_ 계정 목록은 연결된 CRM 계정 보기의 이름을 사용합니다.
+>이 단계는 계정 목록에만 적용됩니다. *동적* 계정 목록은 연결된 CRM 계정 보기의 이름을 사용합니다.
 
 1. 이름을 바꿀 계정을 선택하고 **[!UICONTROL Account List Actions]** 드롭다운을 클릭한 다음 **[!UICONTROL Rename Account List]**&#x200B;을(를) 선택합니다.
 

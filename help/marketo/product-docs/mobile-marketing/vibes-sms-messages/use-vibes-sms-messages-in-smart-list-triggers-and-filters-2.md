@@ -4,7 +4,7 @@ title: 스마트 목록 트리거 및 필터에서 SMS 메시지 보기 사용
 hide: true
 hidefromtoc: true
 feature: Mobile Marketing
-source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
+source-git-commit: 21bcdc10fe1f3517612efe0f8e2adaf2f4411a70
 workflow-type: tm+mt
 source-wordcount: '393'
 ht-degree: 0%
@@ -60,7 +60,7 @@ SMS 메시지 보내기:
 
 ![](assets/subscribed-to-vibes-list-filter-real.jpg)
 
-반대로 **Vibes 목록 구성원** 필터는 현재 Vibes를 구독한 _모든 사용자_&#x200B;를 찾아 스마트 캠페인이나 목록에서 사용하기에 가장 적합합니다.
+반대로 **Vibes 목록 구성원** 필터는 현재 Vibes를 구독한 *모든 사용자*&#x200B;를 찾아 스마트 캠페인이나 목록에서 사용하기에 가장 적합합니다.
 
 ![](assets/image001.png)
 

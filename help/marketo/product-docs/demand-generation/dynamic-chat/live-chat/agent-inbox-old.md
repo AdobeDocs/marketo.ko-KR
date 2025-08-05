@@ -4,7 +4,7 @@ title: 에이전트 받은 편지함
 hide: true
 hidefromtoc: true
 feature: Dynamic Chat
-source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
+source-git-commit: 21bcdc10fe1f3517612efe0f8e2adaf2f4411a70
 workflow-type: tm+mt
 source-wordcount: '301'
 ht-degree: 1%
@@ -82,4 +82,3 @@ ht-degree: 1%
 1. 채팅 방문자는 모임을 예약할 수 있습니다.
 
    ![](assets/agent-inbox-10.png)
-

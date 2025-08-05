@@ -4,7 +4,7 @@ description: 웹 세그먼트 - Marketo 문서 - 제품 설명서
 title: 웹 세그먼트
 exl-id: ec62c1ae-579a-4753-9b2d-18c7c2fa1ff5
 feature: Web Personalization
-source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
+source-git-commit: 21bcdc10fe1f3517612efe0f8e2adaf2f4411a70
 workflow-type: tm+mt
 source-wordcount: '1980'
 ht-degree: 0%
@@ -177,7 +177,7 @@ ht-degree: 0%
 * **이 회사(특정 이름)의 사용자임**
 
    * &#39;추가할 회사 선택&#39; 드롭다운에서 타깃팅할 회사를 선택합니다.
-   * 타깃팅하려는 정확한 조직 이름을 입력할 수 있습니다. *이름을 수동으로 입력하는 대신 이름이 지정된 계정 목록을 사용하는 것이 좋습니다(_항상_)(아래 참조).
+   * 타깃팅하려는 정확한 조직 이름을 입력할 수 있습니다. *이름을 수동으로 입력하는 대신 이름이 지정된 계정 목록을 사용하는 것이 좋습니다(*항상*)(아래 참조).
 
 **명명된 계정 목록**
 
@@ -187,7 +187,7 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->명명된 계정 목록 이름 옆에 있는 대괄호 안의 숫자는 웹 Personalization [API 읽기](https://experienceleague.adobe.com/ko/docs/marketo-developer/marketo/javascriptapi/web-personalization)에 대한 목록에 대한 인덱스 참조로 사용됩니다.
+>명명된 계정 목록 이름 옆에 있는 대괄호 안의 숫자는 웹 Personalization [API 읽기](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/javascriptapi/web-personalization)에 대한 목록에 대한 인덱스 참조로 사용됩니다.
 
 **ISP 제외**
 
@@ -286,7 +286,7 @@ ht-degree: 0%
 
 **사용자 컨텍스트 API**
 
-웹 Personalization API 호출 [자세한 내용은 여기를 참조하십시오.](https://experienceleague.adobe.com/ko/docs/marketo-developer/marketo/javascriptapi/web-personalization)
+웹 Personalization API 호출 [자세한 내용은 여기를 참조하십시오.](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/javascriptapi/web-personalization)
 
 >[!TIP]
 >

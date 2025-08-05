@@ -4,7 +4,7 @@ description: 모바일 스마트 캠페인용 트리거 및 필터 - Marketo 문
 title: 모바일 스마트 캠페인용 트리거 및 필터
 exl-id: 76fc7a74-b27d-4898-a8ca-85c9c2828a28
 feature: Smart Campaigns
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 21bcdc10fe1f3517612efe0f8e2adaf2f4411a70
 workflow-type: tm+mt
 source-wordcount: '814'
 ht-degree: 1%
@@ -103,7 +103,7 @@ ht-degree: 1%
 
 모바일 앱 활동 있음/있음
 
-이렇게 하면 사용자 지정 모바일 활동을 추적할 수 있는 강력한 방법을 제공합니다. 개발자와 협력하여 Android에 대해 [추적](https://experienceleague.adobe.com/ko/docs/marketo-developer/marketo/mobile/installation#how-to-install-marketo-sdk-on-android){target="_blank"}과(와) iOS에 대해 [추적](https://experienceleague.adobe.com/ko/docs/marketo-developer/marketo/mobile/installation#install-marketo-sdk-on-ios){target="_blank"}을 설정해야 합니다.
+이렇게 하면 사용자 지정 모바일 활동을 추적할 수 있는 강력한 방법을 제공합니다. 개발자와 협력하여 Android에 대해 [추적](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/mobile/installation#how-to-install-marketo-sdk-on-android){target="_blank"}과(와) iOS에 대해 [추적](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/mobile/installation#install-marketo-sdk-on-ios){target="_blank"}을 설정해야 합니다.
 
 * 모바일 앱 활동 있음 - 트리거
 
@@ -129,7 +129,7 @@ ht-degree: 1%
 >
 >**예**
 >
->*쇼핑*&#x200B;의 작업 유형에는 다음을 정의하는 다른 제약 조건과 함께 매우 구체적인 작업이 있습니다.
+>_쇼핑_&#x200B;의 작업 유형에는 다음을 정의하는 다른 제약 조건과 함께 매우 구체적인 작업이 있습니다.
 >
 >* 셔츠 구매
 >   * 빨간색이었어요

@@ -4,7 +4,7 @@ description: 릴리스 노트 - 2019년 6월 - Marketo 문서 - 제품 설명서
 title: 릴리스 노트 - 2019년 6월
 exl-id: 292710f4-0072-4355-93c1-115c9b0ef723
 feature: Release Information
-source-git-commit: ecd225af3ecfd7cb9159faf5a9d384d47ee6312c
+source-git-commit: 21bcdc10fe1f3517612efe0f8e2adaf2f4411a70
 workflow-type: tm+mt
 source-wordcount: '616'
 ht-degree: 0%
@@ -55,8 +55,8 @@ ht-degree: 0%
 
 ## Marketo [!DNL Sales Connect] {#marketo-sales-connect}
 
-* [!DNL Salesforce] 사용자 지정의 **일괄 작업**: [!DNL Salesforce] 사용자 지정을 사용하여 이메일을 보내고 연락처를 캠페인에 일괄 추가하여 생산성을 극대화합니다.
-* **설정 - 관리자 및 관리자가 아닌 사용자를 위한 [!DNL Salesforce] 페이지**: [!DNL Sales Connect]에 연결된 [!DNL Salesforce] 인스턴스 및 [!DNL Salesforce] 업데이트에 대한 내 전자 메일을 명확하게 확인하여 [!DNL Sales Connect] 인스턴스를 관리합니다. 관리자, 관리자가 아닌 사용자 및 Team Wide Sync에 대한 향상된 동기화 설정이 몇 달 후에 릴리스됩니다.
+* **사용자 지정의 [!DNL Salesforce]일괄 작업**: [!DNL Salesforce] 사용자 지정을 사용하여 이메일을 보내고 연락처를 캠페인에 일괄 추가하여 생산성을 극대화합니다.
+* **설정 - 관리자 및 관리자가 아닌 사용자를 위한 [!DNL Salesforce] 페이지**: [!DNL Sales Connect]에 연결된 [!DNL Salesforce] 인스턴스 및 [!DNL Sales Connect] 업데이트에 대한 내 전자 메일을 명확하게 확인하여 [!DNL Salesforce] 인스턴스를 관리합니다. 관리자, 관리자가 아닌 사용자 및 Team Wide Sync에 대한 향상된 동기화 설정이 몇 달 후에 릴리스됩니다.
 * **설정 - 통합 페이지**: 개방형 에코시스템을 최대한 활용할 수 있도록 모든 통합을 위한 원스톱 샵입니다.
 * **설정 - 프로필 페이지**: 계정 세부 정보를 보고 업데이트하며, 암호를 변경하고, 이 새 프로필 페이지에서 인스턴스의 구현 상태를 확인합니다.
 
@@ -64,8 +64,8 @@ ht-degree: 0%
 
 ## Marketo의 [!DNL Bizible] {#bizible-by-marketo}
 
-* [!DNL Dynamics]&#x200B;**에 대한**&#x200B;다중 통화 지원: [!DNL Bizible]은(는) 이제 [!DNL Microsoft Dynamics] 통화 테이블에 적용되므로 회사 통화와 로컬 통화 간에 쉽게 전환할 수 있습니다. (참고: SFDC에 대한 지원은 2019년 1분기에 릴리스되었습니다.)
+* **에 대한[!DNL Dynamics]**&#x200B;다중 통화 지원: [!DNL Bizible]은(는) 이제 [!DNL Microsoft Dynamics] 통화 테이블에 적용되므로 회사 통화와 로컬 통화 간에 쉽게 전환할 수 있습니다. (참고: SFDC에 대한 지원은 2019년 1분기에 릴리스되었습니다.)
 * **드리프트 통합**: 드리프트 대화가 고객의 여정에 미치는 영향을 이해합니다. [!DNL Bizible]은(는) 대화에서 전자 메일 주소를 가져와서 새 리드를 만들거나 터치포인트를 기존 리드에 연결합니다.
 * **로컬라이제이션**: [!DNL Bizible]은(는) 이제 모든 Marketo 지원 언어(영어, 일본어, 독일어, 스페인어, 프랑스어 및 포르투갈어)로 제공됩니다.
 
-***제품 릴리스 웨비나*** 2019년 6월 릴리스 혁신 웨비나 녹화를 시청하십시오 [여기](https://engage.marketo.com/Marketo-June-Product-Release-2019-On-Demand.html).
+_**제품 릴리스 웨비나**_ 2019년 6월 릴리스 혁신 웨비나 녹화를 시청하십시오 [여기](https://engage.marketo.com/Marketo-June-Product-Release-2019-On-Demand.html).

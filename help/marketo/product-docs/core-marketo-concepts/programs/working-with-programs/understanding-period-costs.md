@@ -4,7 +4,7 @@ description: 기간 비용 이해 - Marketo 문서 - 제품 설명서
 title: 기간 원가 이해
 exl-id: 99f50eaf-28cf-4a8b-8ebd-89a4beef986a
 feature: Programs
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 21bcdc10fe1f3517612efe0f8e2adaf2f4411a70
 workflow-type: tm+mt
 source-wordcount: '271'
 ht-degree: 0%
@@ -39,7 +39,7 @@ ht-degree: 0%
 
    ![](assets/graph1.png)
 
-   ...전후 달에 추가된 연락처는 3월까지만 *계산됩니다*.
+   ...전후 달에 추가된 연락처는 3월까지만 _계산됩니다_.
 
    ![](assets/graph2.png)
 

@@ -4,9 +4,9 @@ description: 3단계 중 2단계 - Marketo용 Salesforce 사용자 만들기(Ent
 title: 2/3단계 - Marketo용 Salesforce 사용자 만들기(Enterprise/Unlimited)
 exl-id: 871f335c-7b1e-47e1-8320-a18fbf21a970
 feature: Salesforce Integration
-source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
+source-git-commit: 21bcdc10fe1f3517612efe0f8e2adaf2f4411a70
 workflow-type: tm+mt
-source-wordcount: '352'
+source-wordcount: '351'
 ht-degree: 2%
 
 ---
@@ -148,7 +148,7 @@ ht-degree: 2%
 
 >[!TIP]
 >
->Marketo의 변경 사항과 다른 [!DNL Salesforce] 사용자를 구별하기 위해 전용 [!DNL Salesforce] 계정(예: marketo@yourcompany.com)을 만듭니다.
+>Marketo의 변경 사항과 다른 [!DNL Salesforce] 사용자를 구별하기 위해 전용 <marketo@yourcompany.com> 계정(예: [!DNL Salesforce])을 만듭니다.
 
 1. 탐색 검색 창에 &quot;사용자 관리&quot;를 입력한 다음 **[!UICONTROL Users]**&#x200B;을(를) 클릭합니다. **[!UICONTROL New User]**&#x200B;을(를) 클릭합니다.
 

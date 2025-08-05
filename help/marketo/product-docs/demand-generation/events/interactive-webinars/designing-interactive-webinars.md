@@ -3,7 +3,7 @@ description: 대화형 웨비나 디자인 - Marketo 문서 - 제품 설명서
 title: 대화형 웨비나 디자인
 exl-id: e340910a-ddcb-46e8-82a9-faedf0ab2d74
 feature: Interactive Webinars
-source-git-commit: 75d0be47bdf5b547444b74defc3e2740a86d6c11
+source-git-commit: 21bcdc10fe1f3517612efe0f8e2adaf2f4411a70
 workflow-type: tm+mt
 source-wordcount: '496'
 ht-degree: 0%

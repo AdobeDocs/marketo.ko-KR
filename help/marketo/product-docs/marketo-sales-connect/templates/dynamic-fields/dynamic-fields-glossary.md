@@ -4,10 +4,10 @@ description: 동적 필드 용어집 - Marketo 문서 - 제품 설명서
 title: 동적 필드 용어집
 exl-id: 28351ba9-53da-4408-9526-918200d9bd29
 feature: Marketo Sales Connect
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 21bcdc10fe1f3517612efe0f8e2adaf2f4411a70
 workflow-type: tm+mt
-source-wordcount: '242'
-ht-degree: 1%
+source-wordcount: '240'
+ht-degree: 0%
 
 ---
 
@@ -26,9 +26,9 @@ ht-degree: 1%
 | `{{friendly_unsubscribe}}` | 모든 이메일에 지쳤나요? 여기 좀 알려주세요 |
 | `{{my_name}}` | 키스 플린 |
 | `{{my_signature}}` | 선임 기술 작가 Keith Flynn - Adobe |
-| `{{personal_email}}` | keith@pickyouremail.com |
+| `{{personal_email}}` | <keith@pickyouremail.com> |
 | `{{title}}` | 수석 기술 저자 |
-| `{{work_website}}` | https://www.adobe.com/kr/ |
+| `{{work_website}}` | <https://www.adobe.com> |
 
 **참고할 사항**:
 

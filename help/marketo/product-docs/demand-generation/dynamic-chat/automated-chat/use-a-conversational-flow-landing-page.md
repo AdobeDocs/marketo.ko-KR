@@ -4,7 +4,7 @@ title: 대화형 흐름 랜딩 페이지 사용
 hide: true
 hidefromtoc: true
 feature: Dynamic Chat
-source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
+source-git-commit: 21bcdc10fe1f3517612efe0f8e2adaf2f4411a70
 workflow-type: tm+mt
 source-wordcount: '226'
 ht-degree: 0%
@@ -40,7 +40,6 @@ Dynamic Chat 대화 플로우를 Marketo Engage 랜딩 페이지에 직접 포�
 ## 자유 형식 랜딩 페이지 {#free-form-landing-pages}
 
 텍스트
-
 
 스티브 미팅 노트
 

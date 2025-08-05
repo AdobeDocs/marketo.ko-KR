@@ -4,9 +4,9 @@ description: RTP를 Google Analytics - Marketo 문서 - 제품 설명서와 통�
 title: Google Analytics과 RTP 통합
 exl-id: a2bc0c17-dc23-435e-9480-857e97e6fd50
 feature: Web Personalization
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 21bcdc10fe1f3517612efe0f8e2adaf2f4411a70
 workflow-type: tm+mt
-source-wordcount: '560'
+source-wordcount: '559'
 ht-degree: 0%
 
 ---
@@ -64,7 +64,7 @@ RTP 캠페인을 측정하고 이를 전체 사이트 평균과 상호 연관시
 
 ## Google Analytics으로 RTP 설정 {#setting-up-rtp-with-google-analytics}
 
-1. GA 계정에 읽기 및 분석 사용자로 이메일 rtp.ga2@gmail.com 을 추가합니다. 자세한 내용은 [여기](https://support.google.com/analytics/answer/2884495?hl=en)를 참조하세요.
+1. GA 계정에 <rtp.ga2@gmail.com> 전자 메일을 읽기 및 분석 사용자로 추가합니다. 자세한 내용은 [여기](https://support.google.com/analytics/answer/2884495?hl=en)를 참조하세요.
 
 1. RTP 계정에서 **[!UICONTROL Account Settings]**(으)로 이동합니다.
 

@@ -4,9 +4,9 @@ description: 릴리스 노트 - 2015년 7월 - Marketo 설명서 - 제품 설명
 title: 릴리스 노트 - 2015년 7월
 exl-id: d7658718-27fd-4699-8fac-c30a59802dfd
 feature: Release Information
-source-git-commit: ecd225af3ecfd7cb9159faf5a9d384d47ee6312c
+source-git-commit: 21bcdc10fe1f3517612efe0f8e2adaf2f4411a70
 workflow-type: tm+mt
-source-wordcount: '274'
+source-wordcount: '273'
 ht-degree: 0%
 
 ---
@@ -15,7 +15,7 @@ ht-degree: 0%
 
 ## [!DNL Marketo Moments] {#marketo-moments}
 
-점심에 나가는데 이메일 일정을 조정해야 하나요? App Store 또는 [!DNL Google Play]에서 사용할 수 있는 [!DNL Marketo Moments] 앱을 사용하면 iPhone, iPad 또는 Android 휴대폰에서 이메일 및 이벤트 캠페인의 실시간 실행뿐만 아니라 향후 출시될 내용을 확인할 수 있습니다.
+점심에 나가는데 이메일 일정을 조정해야 하나요? App Store 또는 [!DNL Marketo Moments]에서 사용할 수 있는 [!DNL Google Play] 앱을 사용하면 iPhone, iPad 또는 Android 휴대폰에서 이메일 및 이벤트 캠페인의 실시간 실행뿐만 아니라 향후 출시될 내용을 확인할 수 있습니다.
 
 ![](assets/image2015-7-10-9-3a42-3a29.png)
 
@@ -50,7 +50,7 @@ ht-degree: 0%
 
 **REST API를 통한 회사 개체 액세스**: 이제 REST API는 Marketo 회사(계정) 개체에 대한 액세스를 제공합니다. 즉, 업데이트된 [!DNL Lead] API를 사용하여 Marketo에서 만든 회사 개체를 읽고, 업데이트하고, 삭제하고, 해당 회사와 리드를 연결할 수 있습니다.
 
-회사 API에 대한 참조 안내서에서 [자세히]https://developer.adobe.com/marketo-apis/api/mapi/#tag/Companies)를 알아보세요.
+회사 API에 대한 참조 안내서에서 [자세히]<https://developer.adobe.com/marketo-apis/api/mapi/#tag/Companies>)를 알아보세요.
 
 ## 이메일 전달성 액세스 {#access-email-deliverability}
 

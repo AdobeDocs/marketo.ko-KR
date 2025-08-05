@@ -4,9 +4,9 @@ description: 사용자 정의 필드 유형 용어집 - Marketo 문서 - 제품 
 title: 사용자 정의 필드 유형 용어집
 exl-id: 495d4deb-28f1-4044-98d3-27c20756fe73
 feature: Field Management
-source-git-commit: 02b2e39580c5eac63de4b4b7fdaf2a835fdd4ba5
+source-git-commit: 21bcdc10fe1f3517612efe0f8e2adaf2f4411a70
 workflow-type: tm+mt
-source-wordcount: '595'
+source-wordcount: '594'
 ht-degree: 2%
 
 ---
@@ -43,7 +43,7 @@ Marketo에서 사용자 정의 필드를 만들 때 선택할 수 있는 유형 
 
 **연산자**: is, is not, between, greater than, less than, least, is empty, is not empty
 
-## 날짜 {#date}
+## Date {#date}
 
 **예제 이름:** 갱신 날짜 - 고객 갱신 날짜를 저장합니다.
 
@@ -63,7 +63,7 @@ Marketo에서 사용자 정의 필드를 만들 때 선택할 수 있는 유형 
 
 **예제 이름:** 대체 전자 메일 - 사용자의 대체 전자 메일 주소를 유지합니다(기본 전자 메일 주소 필드와 같이 이 필드에 실제로 전자 메일을 보낼 수 없으며, 특수 필드임).
 
-**예제 값:** name@company.com
+**예제 값:** <name@company.com>
 
 **연산자**: is, not, start with, not starts with, contains, not contains, is empty, is not empty
 
@@ -89,7 +89,7 @@ Marketo에서 사용자 정의 필드를 만들 때 선택할 수 있는 유형 
 
 **연산자**: is, is not, between, greater than, less than, least, is empty, is not empty
 
-## 백분율 {#percent}
+## 비율 {#percent}
 
 **예제 이름:** 구매 가능성 - 백분율 값 저장(CRM측에서 계산됨)
 
@@ -105,7 +105,7 @@ Marketo에서 사용자 정의 필드를 만들 때 선택할 수 있는 유형 
 
 **연산자**: is, not, start with, not starts with, contains, not contains, is empty, is not empty
 
-## 스코어 {#score}
+## 점수 {#score}
 
 **예제 이름:** 행동 점수/인구 통계 점수 - 여러 점수 필드를 만들어 다른 특성을 추적합니다.
 
@@ -133,6 +133,6 @@ Marketo에서 사용자 정의 필드를 만들 때 선택할 수 있는 유형 
 
 **예제 이름:** 블로그 - 개인 블로그 url을 저장하는 필드를 만듭니다.
 
-**예제 값:** www.myblog.com
+**예제 값:** &lt;www.myblog.com>
 
 **연산자**: is, not, start with, not starts with, contains, not contains, is empty, is not empty

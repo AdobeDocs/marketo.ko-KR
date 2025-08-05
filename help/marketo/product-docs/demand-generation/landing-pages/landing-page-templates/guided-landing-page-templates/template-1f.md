@@ -4,7 +4,7 @@ description: 템플릿 1F - Marketo 문서 - 제품 설명서
 title: 템플릿 1F
 exl-id: eaad3b04-abf7-469a-aedf-e2c4fee1419f
 feature: Landing Pages, Guided Landing Page Templates
-source-git-commit: d20a9bb584f69282eefae3704ce4be2179b29d0b
+source-git-commit: 21bcdc10fe1f3517612efe0f8e2adaf2f4411a70
 workflow-type: tm+mt
 source-wordcount: '47'
 ht-degree: 0%
@@ -13,7 +13,7 @@ ht-degree: 0%
 
 # 템플릿 1F {#template-1f}
 
-마우스 오른쪽 단추를 클릭하여 [템플릿 다운로드 1F](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-1f.html?lang=ko)
+마우스 오른쪽 단추를 클릭하여 [템플릿 다운로드 1F](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-1f.html)
 
 ![](assets/image2015-5-29-9-3a9-3a19.png)
 
@@ -28,4 +28,4 @@ ht-degree: 0%
 
 **이 서식 파일을 다운로드하려면 아래를 마우스 오른쪽 단추로 클릭하세요.**
 
-[템플릿 1F.html](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-1f.html?lang=ko)
+[템플릿 1F.html](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-1f.html)

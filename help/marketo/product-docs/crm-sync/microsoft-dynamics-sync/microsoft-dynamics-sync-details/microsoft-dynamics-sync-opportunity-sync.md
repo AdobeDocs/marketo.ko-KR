@@ -4,7 +4,7 @@ description: Microsoft Dynamics 동기화 - 영업 기회 동기화 - Marketo �
 title: Microsoft Dynamics 동기화 - 영업 기회 동기화
 exl-id: dcb72f28-c980-4183-8473-a1e5ad0c8d3c
 feature: Microsoft Dynamics
-source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
+source-git-commit: 21bcdc10fe1f3517612efe0f8e2adaf2f4411a70
 workflow-type: tm+mt
 source-wordcount: '303'
 ht-degree: 0%
@@ -36,6 +36,5 @@ ht-degree: 0%
    * 연락처 값이 설정되어 있고 계정을 비워 두면 Marketo은 `opportunitycontactrole`을(를) 만들고 기회에 대한 계정을 연락처 계정으로 설정합니다. 연락처에 계정이 없으면 이 필드는 비어 있습니다.
    * 계정 값을 설정하고 연락처를 비워 두면 Marketo은 기회에 대한 계정만 이 계정에 설정합니다.
    * 두 값이 모두 설정되면 Dynamics에서는 계정을 고객 ID의 값으로 선택하므로 동작은 위와 같습니다.
-
 
 * 이해 당사자를 통해: Dynamics는 연결을 사용하여 기회 생성 페이지에서 이해 당사자를 통해 연락하는 기회를 연결합니다. 이를 위해 모든 새 관련자에 대해 `opportunitycontactrole` 레코드를 만듭니다.

@@ -4,7 +4,7 @@ title: 임시 문서
 hide: true
 hidefromtoc: true
 feature: Email Editor
-source-git-commit: a65ff2cb24b264cd2d3a1c9c7e0109bcf69ac996
+source-git-commit: 21bcdc10fe1f3517612efe0f8e2adaf2f4411a70
 workflow-type: tm+mt
 source-wordcount: '186'
 ht-degree: 0%
@@ -36,8 +36,6 @@ Marketo Engage 인스턴스의 [이미지 및 파일](/help/marketo/product-docs
    >기존 이미지를 바꾸려면 이미지를 선택한 다음 오른쪽의 설정 탭에서 **자산 선택**&#x200B;을 클릭합니다.
 
 조건 컨텐츠 활성화 를 클릭하여 다이내믹 컨텐츠를 추가하고 조건부 규칙에 따라 타겟팅된 프로필로 컨텐츠를 조정합니다.
-
-
 
 필요한 경우 고급 메뉴에서 코드 편집기로 전환 을 클릭하여 이메일을 추가로 개인화할 수 있습니다. 이를 통해 이메일 소스 코드를 편집하여 추적 또는 사용자 지정 HTML 태그를 추가할 수 있습니다.
 

@@ -4,7 +4,7 @@ description: 릴리스 노트 - 18년 가을 - Marketo 문서 - 제품 설명서
 title: 릴리스 노트 - 2018년 가을
 exl-id: a3cc4cc5-38a6-4648-91f2-092daa9b0113
 feature: Release Information
-source-git-commit: ecd225af3ecfd7cb9159faf5a9d384d47ee6312c
+source-git-commit: 21bcdc10fe1f3517612efe0f8e2adaf2f4411a70
 workflow-type: tm+mt
 source-wordcount: '814'
 ht-degree: 0%
@@ -30,7 +30,7 @@ ht-degree: 0%
 * **확장된 지원:[!DNL Microsoft Office]**
 
    * [!DNL Outlook]을(를) 게재 채널로 사용: 이제 마케터는 전자 메일 참여에 [!DNL Outlook]을(를) 활용하여 게재 가능성 및 응답 추적을 개선할 수 있습니다.
-   * [!DNL Office] 365 전자 메일 지원 개선 사항: Marketo [!DNL Sales Engage]은(는) Mac의 경우 [!DNL Outlook]에서 직접 사용할 수 있고, [!DNL Windows]의 경우 [!DNL Outlook]에서 사용할 수 있으며, [!DNL Office] 365 전자 메일 클라이언트의 경우 [!DNL Outlook] 웹 응용 프로그램에서 사용할 수 있으므로 모든 [!DNL Office] 사용자가 Marketo [!DNL Sales Engage]을(를) 쉽게 사용할 수 있습니다.
+   * [!DNL Office] 365 전자 메일 지원 개선 사항: Marketo [!DNL Sales Engage]은(는) Mac의 경우 [!DNL Outlook]에서 직접 사용할 수 있고, [!DNL Outlook]의 경우 [!DNL Windows]에서 사용할 수 있으며, [!DNL Outlook] 365 전자 메일 클라이언트의 경우 [!DNL Office] 웹 응용 프로그램에서 사용할 수 있으므로 모든 [!DNL Sales Engage] 사용자가 Marketo [!DNL Office]을(를) 쉽게 사용할 수 있습니다.
 
 * **향상된 관리자 및 사용자 로그인 경험**
 
@@ -100,7 +100,7 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->Q3 릴리스의 일부로 [!DNL GoToWebinar]의 [!DNL OAuth] 버전을 1.0에서 2.0으로 업그레이드합니다. 이 변경 사항은 2019년 1월에 [!DNL OAuth] 1.0에 대한 지원을 중단하는 대신 [!DNL GoToWebinar]에 미리 적용됩니다. [!DNL GoToWebinar] 고객인 경우 통합이 계속 작동하도록 하려면 2019년 1월 이전에 [!DNL LaunchPoint]&#x200B;([!UICONTROL Admin] 영역)을 통해 다시 인증해야 합니다.
+>Q3 릴리스의 일부로 [!DNL OAuth]의 [!DNL GoToWebinar] 버전을 1.0에서 2.0으로 업그레이드합니다. 이 변경 사항은 2019년 1월에 [!DNL GoToWebinar] 1.0에 대한 지원을 중단하는 대신 [!DNL OAuth]에 미리 적용됩니다. [!DNL GoToWebinar] 고객인 경우 통합이 계속 작동하도록 하려면 2019년 1월 이전에 [!DNL LaunchPoint]&#x200B;([!UICONTROL Admin] 영역)을 통해 다시 인증해야 합니다.
 
 >[!NOTE]
 >

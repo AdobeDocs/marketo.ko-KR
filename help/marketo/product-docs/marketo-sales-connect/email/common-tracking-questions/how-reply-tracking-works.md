@@ -4,9 +4,9 @@ description: 답변 추적 작동 방식 - Marketo 문서 - 제품 설명서
 title: 회신 추적 작동 방식
 exl-id: 8d087014-99b7-47ba-9f08-95b13bc16438
 feature: Marketo Sales Connect
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 21bcdc10fe1f3517612efe0f8e2adaf2f4411a70
 workflow-type: tm+mt
-source-wordcount: '167'
+source-wordcount: '163'
 ht-degree: 0%
 
 ---
@@ -21,4 +21,4 @@ ht-degree: 0%
 
 [!DNL Sales Connect]이(가) 전자 메일에 대한 잠재 고객의 회신을 추적할 수 없는 경우 회신 검색을 기반으로 캠페인을 중지하거나 [!DNL Salesforce]에 회신을 기록할 수 없습니다.  회신할 수 있는 이메일 주소는 무엇입니까?
 
-즉, flynn@flynnsarcade.com으로 이메일을 보내고 kevinf@flynnsarcade.com으로 답장을 보내면 답장을 추적할 수 있습니다. 또한 flynn@flynnsarcade.com 및 CC alan@encom.com으로 이메일을 보내고 Alan이 회신을 보내면 회신도 감지하여 캠페인을 종료합니다.
+즉, <flynn@flynnsarcade.com>에게 메일을 보내고 <kevinf@flynnsarcade.com>(으)로 답장을 보내면 답장을 추적할 수 있습니다. 또한 <flynn@flynnsarcade.com> 및 CC <alan@encom.com>에게 이메일을 보내고 Alan이 회신을 보내면 회신도 감지하여 캠페인을 종료합니다.

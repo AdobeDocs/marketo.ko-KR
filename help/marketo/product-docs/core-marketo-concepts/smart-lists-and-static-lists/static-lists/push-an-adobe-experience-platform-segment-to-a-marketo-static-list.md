@@ -3,7 +3,7 @@ description: Adobe Experience Platform 세그먼트를 Marketo 정적 목록에 
 title: Adobe Experience Platform 세그먼트를 Marketo 정적 목록에 푸시
 exl-id: 8df11bf4-06f4-4927-8dfb-954414fce6dc
 feature: Static Lists
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 21bcdc10fe1f3517612efe0f8e2adaf2f4411a70
 workflow-type: tm+mt
 source-wordcount: '601'
 ht-degree: 0%
@@ -44,7 +44,6 @@ ht-degree: 0%
 1. **[!UICONTROL Configure New Destination]**&#x200B;을(를) 클릭합니다.
 
    ![](assets/push-an-adobe-experience-platform-segment-6.png)
-
 
 1. [계정 유형]에서 [기존 계정] 또는 [새 계정] 라디오 단추를 선택합니다. 이 예제에서는 **[!UICONTROL Existing Account]**&#x200B;을(를) 선택합니다. 계정 선택 아이콘을 클릭합니다.
 
@@ -100,7 +99,7 @@ ht-degree: 0%
 
    >[!NOTE]
    >
-   >Experience Platform의 속성을 조직이 Marketo Engage에서 액세스할 수 있는 모든 속성에 매핑할 수 있습니다. [API 요청 설명](https://experienceleague.adobe.com/ko/docs/marketo-developer/marketo/rest/lead-database/lead-database#describe){target="_blank"}을(를) 사용하여 조직에서 액세스할 수 있는 특성 필드를 검색합니다.
+   >Experience Platform의 속성을 조직이 Marketo Engage에서 액세스할 수 있는 모든 속성에 매핑할 수 있습니다. [API 요청 설명](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/rest/lead-database/lead-database#describe){target="_blank"}을(를) 사용하여 조직에서 액세스할 수 있는 특성 필드를 검색합니다.
 
 1. **[!UICONTROL Add New Mapping]**&#x200B;을(를) 다시 클릭하고 15단계를 두 번 반복하여 **[!UICONTROL lastName]**&#x200B;을(를) 선택한 다음 **[!UICONTROL companyName]**&#x200B;을(를) 선택하여 성 및 회사 이름을 매핑합니다.
 

@@ -4,7 +4,7 @@ description: 템플릿 3C - Marketo 문서 - 제품 설명서
 title: 템플릿 3C
 exl-id: 0bf7cb43-607e-4c9b-a860-511837925a1e
 feature: Landing Pages, Guided Landing Page Templates
-source-git-commit: d20a9bb584f69282eefae3704ce4be2179b29d0b
+source-git-commit: 21bcdc10fe1f3517612efe0f8e2adaf2f4411a70
 workflow-type: tm+mt
 source-wordcount: '53'
 ht-degree: 0%
@@ -13,7 +13,7 @@ ht-degree: 0%
 
 # 템플릿 3C {#template-3c}
 
-마우스 오른쪽 단추를 클릭하여 [템플릿 3C 다운로드](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-3c.html?lang=ko)
+마우스 오른쪽 단추를 클릭하여 [템플릿 3C 다운로드](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-3c.html)
 
 ![](assets/image2015-6-15-11-3a20-3a37.png)
 
@@ -29,4 +29,4 @@ ht-degree: 0%
 
 **이 서식 파일을 다운로드하려면 아래를 마우스 오른쪽 단추로 클릭하세요.**
 
-[템플릿 3C.html](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-3c.html?lang=ko)
+[템플릿 3C.html](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-3c.html)

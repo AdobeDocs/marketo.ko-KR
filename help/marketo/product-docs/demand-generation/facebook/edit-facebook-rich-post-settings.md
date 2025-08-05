@@ -6,9 +6,9 @@ exl-id: f72bfb03-9bc7-46c4-bfb8-b377b2d23fc9
 hide: true
 hidefromtoc: true
 feature: Integrations
-source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
+source-git-commit: 21bcdc10fe1f3517612efe0f8e2adaf2f4411a70
 workflow-type: tm+mt
-source-wordcount: '290'
+source-wordcount: '291'
 ht-degree: 0%
 
 ---
@@ -27,7 +27,7 @@ Marketo _소셜 앱_&#x200B;을 사용하면 리드가 Facebook, Twitter 등의 
 
 랜딩 페이지의 공유로 생성된 [!DNL Facebook]개의 리치 게시물에 사용할 페이지 정보 유형을 지정할 수 있습니다.
 
-1. 편집기에서 ***[!UICONTROL Facebook Message]** 비디오 또는 소셜 단추에 대한 *[!DNL YouTube*]*&#x200B;을(를) 선택합니다.
+1. 편집기에서 **[!UICONTROL Facebook Message]**&#x200B;을(를) 선택하여 __[!DNL YouTube_]_비디오 또는 소셜 단추를 사용합니다.
 
    ![](assets/image2014-9-22-16-3a47-3a21.png)
 

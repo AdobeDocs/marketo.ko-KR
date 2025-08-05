@@ -3,7 +3,7 @@ unique-page-id: 17727823
 description: 릴리스 노트 - 19년 겨울 - Marketo 문서 - 제품 설명서
 title: 릴리스 노트 - 2019년 겨울
 exl-id: 0cb3b3a1-472e-41d4-84f4-47f06e65017c
-source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
+source-git-commit: 21bcdc10fe1f3517612efe0f8e2adaf2f4411a70
 workflow-type: tm+mt
 source-wordcount: '1050'
 ht-degree: 0%
@@ -53,8 +53,8 @@ Marketo을 통해 전송된 이메일에 수신자당 최대 5개의 CC 주소�
 * **이메일 서비스**: [!DNL Microsoft Outlook]에 연결하여(Office365 또는 [이메일 연결] 탭을 통해 온프레미스) 게재 기능 및 개선된 회신 추적, 예약된 이메일 기능, 대량 이메일 기능을 활용하세요.
 * **새 관리자 설정**: Sales Engage 인스턴스를 최적화하기 위해 두 개의 관리 페이지가 추가되었습니다.
 
-   * _팀 관리_&#x200B;에서는 관리자가 구독 및 팀을 편집할 수 있도록 하여 원활한 계정 설정 프로세스를 지원합니다.
-   * _Salesforce 관리 설정_&#x200B;을 통해 팀은 이전보다 더 빠르고 쉽게 SFDC 동기화를 설정할 수 있습니다.
+   * *팀 관리*&#x200B;에서는 관리자가 구독 및 팀을 편집할 수 있도록 하여 원활한 계정 설정 프로세스를 지원합니다.
+   * *Salesforce 관리 설정*&#x200B;을 통해 팀은 이전보다 더 빠르고 쉽게 SFDC 동기화를 설정할 수 있습니다.
 
 * **용[!DNL Windows]** OWA 플러그 인: 단일 추가 기능을 사용하면 Outlook에서 Live Feed를 사용할 수 있는 기능을 제공하는 Sales Engage에서 모든 [!DNL Windows Office365] 클라이언트가 지원됩니다. 새 플러그인은 Microsoft 스토어에서 사용할 수 있습니다.
 * **활동 푸셔**: 실시간 마케팅 인사이트를 활용하려면 Sales Engage를 핵심 Marketo 플랫폼과 동기화하십시오.

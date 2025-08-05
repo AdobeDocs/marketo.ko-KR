@@ -4,7 +4,7 @@ description: 이메일 프로그램 대시보드 보기 - Marketo 문서 - 제�
 title: 이메일 프로그램 대시보드 보기
 exl-id: dd05d7f6-8979-4ef1-a7d2-adaf086dd903
 feature: Email Programs
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 21bcdc10fe1f3517612efe0f8e2adaf2f4411a70
 workflow-type: tm+mt
 source-wordcount: '223'
 ht-degree: 0%
@@ -41,7 +41,7 @@ ht-degree: 0%
 
 ## 전자 메일 프로그램 보기 {#email-program-view}
 
-또는 A/B 테스트 *또는*&#x200B;을(를) 추가하지 않고 테스트가 종료된 경우 다음이 표시됩니다.
+또는 A/B 테스트 _또는_&#x200B;을(를) 추가하지 않고 테스트가 종료된 경우 다음이 표시됩니다.
 
 ![](assets/image2014-9-12-14-3a3-3a3.png)
 

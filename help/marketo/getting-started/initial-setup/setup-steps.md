@@ -4,9 +4,9 @@ short-description: Adobe Marketo Engage를 처음 사용하십니까? 본격적�
 title: 설정 단계
 feature: Getting Started
 exl-id: 5f37da48-b2ed-4e48-a5a2-429149745085
-source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
+source-git-commit: 21bcdc10fe1f3517612efe0f8e2adaf2f4411a70
 workflow-type: tm+mt
-source-wordcount: '1664'
+source-wordcount: '1663'
 ht-degree: 2%
 
 ---
@@ -44,7 +44,7 @@ ht-degree: 2%
 * **도메인의 MX 레코드를 설정합니다.** MX 레코드를 사용하면 답글 및 자동 응답자를 처리하기 위해 전자 메일을 보내는 도메인으로 메일을 받을 수 있습니다. 회사 도메인에서 보내는 경우 이미 이 구성이 되어 있을 수 있습니다. 그렇지 않은 경우 일반적으로 회사 도메인의 MX 레코드에 매핑하도록 설정할 수 있습니다.
 * **보낸 사람 주소에 대한 권장 설정입니다.** 모든 이메일 캠페인의 보낸 사람 주소에 유효하고 기존 및 작업 중인 이메일 도메인을 사용해야 합니다. 회사 도메인에서 전송하는 것보다 회사 도메인의 하위 도메인을 구성하는 것이 유용할 수 있습니다. 이렇게 하면 회사 메일 스트림의 문제가 Marketo 메일 스트림에 영향을 주지 않고 그 반대의 경우도 마찬가지입니다. 또한 `something@nonexistentdomain.com`에서 메일을 보내면 전자 메일이 필터링되거나 차단됩니다. 보낸 사람의 보낸 사람 주소에 사용되는 모든 도메인에는 유효하고 작동하는 postmaster@ 및 abuse@ 계정이 있어야 합니다.
 
-Google 앱을 사용하여 회사 전자 메일을 호스팅하는 경우 도메인 아래에 abuse@ 또는 postmaster@ 전자 메일을 만들 수 없습니다. 이 문제를 해결하려면 &quot;abuse&quot; 및 &quot;postmaster&quot;라는 그룹을 만들어야 합니다. 이러한 그룹의 구성원인 사용자는 해당 주소(예: postmaster@domain.com)로 전송된 이메일을 받게 됩니다. 그룹 만들기에 대한 자세한 지침은 [여기](https://support.google.com/a/answer/33343#adminconsole){target="_blank"}에서 확인할 수 있습니다.
+Google 앱을 사용하여 회사 전자 메일을 호스팅하는 경우 도메인 아래에 abuse@ 또는 postmaster@ 전자 메일을 만들 수 없습니다. 이 문제를 해결하려면 &quot;abuse&quot; 및 &quot;postmaster&quot;라는 그룹을 만들어야 합니다. 이 그룹의 구성원인 사용자는 해당 주소(예: <postmaster@domain.com>)로 전송된 전자 메일을 받게 됩니다. 그룹 만들기에 대한 자세한 지침은 [여기](https://support.google.com/a/answer/33343#adminconsole){target="_blank"}에서 확인할 수 있습니다.
 
 전자 메일 추적 링크의 CNAME을 선택하십시오(3단계에서 선택한 랜딩 페이지 CNAME에서 _다름_ 중 하나를 선택하십시오). 몇 가지 예:
 
@@ -147,7 +147,6 @@ IT 관리자에게,
 허용 목록에 추가하다 `3)` Marketo.
 
     * 전자 메일 허용 목록에 IP 주소를 사용하는 경우 아래 나열된 IP를 추가하십시오.
-
     199.15.212.0/22
     
     192.28.144.0/20
@@ -271,7 +270,7 @@ Marketo Engage에는 웹 페이지에서 개인 활동을 추적하는 데 사�
 
 ## 성능 기대치 {#performance-expectations}
 
-Marketo의 성능 측면에서 기대할 수 있는 사항은 무엇입니까? 마케팅 캠페인의 크기와 복잡성에 따라 달라질 수 있습니다. 그러나 [Marketo Engage 제품 설명](https://helpx.adobe.com/kr/legal/product-descriptions/adobe-marketo-engage---product-description.html){target="_blank"}에 있는 여러 표의 &quot;표준&quot; 열에 요약된 내용과 동등한 성능 수준을 기대할 수 있습니다. &quot;성능&quot; 및 &quot;성능 플러스&quot; 열은 [더 높은 성능 수준](https://nation.marketo.com/t5/product-documents/marketo-engage-performance-tiers/ta-p/328835){target="_blank"}을 제공하는 성능 계층 패키지를 나타냅니다.
+Marketo의 성능 측면에서 기대할 수 있는 사항은 무엇입니까? 마케팅 캠페인의 크기와 복잡성에 따라 달라질 수 있습니다. 그러나 [Marketo Engage 제품 설명](https://helpx.adobe.com/legal/product-descriptions/adobe-marketo-engage---product-description.html){target="_blank"}에 있는 여러 표의 &quot;표준&quot; 열에 요약된 내용과 동등한 성능 수준을 기대할 수 있습니다. &quot;성능&quot; 및 &quot;성능 플러스&quot; 열은 [더 높은 성능 수준](https://nation.marketo.com/t5/product-documents/marketo-engage-performance-tiers/ta-p/328835){target="_blank"}을 제공하는 성능 계층 패키지를 나타냅니다.
 
 >[!MORELIKETHIS]
 >

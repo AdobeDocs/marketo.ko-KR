@@ -4,9 +4,9 @@ title: 대화형 웨비나의 참여 도구
 hide: true
 hidefromtoc: true
 feature: Interactive Webinars
-source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
+source-git-commit: 21bcdc10fe1f3517612efe0f8e2adaf2f4411a70
 workflow-type: tm+mt
-source-wordcount: '1271'
+source-wordcount: '1270'
 ht-degree: 0%
 
 ---
@@ -99,7 +99,7 @@ Engagement Dashboard 는 호스트 및 발표자가 세션 중에 참가자 관�
 
 ### 사용자 지정 Pod {#custom-pods}
 
-사용자 지정 포드는 Adobe Connect에서 제공하는 기능을 확장합니다. 무료로 이용할 수 있는 인기 있는 맞춤형 팟으로는 카운트다운 타이머, 시계, 하우스 키퍼, 타이틀러, 워드 클라우드 등이 있다. 사용자 지정 Pod는 https://apps.adobeconnect.com/에서 .pod 또는 .zip 파일로 다운로드할 수 있습니다.
+사용자 지정 포드는 Adobe Connect에서 제공하는 기능을 확장합니다. 무료로 이용할 수 있는 인기 있는 맞춤형 팟으로는 카운트다운 타이머, 시계, 하우스 키퍼, 타이틀러, 워드 클라우드 등이 있다. 사용자 지정 Pod는 <https://apps.adobeconnect.com/>에서 .pod 또는 .zip 파일로 다운로드할 수 있습니다.
 
 사용자 지정 pod를 사용하려면:
 

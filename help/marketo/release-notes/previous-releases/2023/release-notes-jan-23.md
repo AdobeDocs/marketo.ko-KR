@@ -3,7 +3,7 @@ description: 릴리스 노트 - 2023년 1월 - Marketo 설명서 - 제품 설명
 title: 릴리스 정보 - 2023년 1월
 exl-id: 584f74e5-ed0a-4f2f-9a1e-93cb8804dec8
 feature: Release Information
-source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
+source-git-commit: 21bcdc10fe1f3517612efe0f8e2adaf2f4411a70
 workflow-type: tm+mt
 source-wordcount: '626'
 ht-degree: 8%
@@ -41,6 +41,7 @@ ht-degree: 8%
    <td><a href="/help/marketo/product-docs/marketo-engage-modern-ux/toggle-switch.md">전환 스위치</a></td>
   </tr>
   </tbody>
+
 </table>
 
 * **이메일 템플릿 세부 정보 및 코드 조각 세부 정보를 위해 구성 요소에서 사용하는 기능이 향상되었습니다**: 새로운 UI 사용 탭은 마지막으로 수정한 시기 및 사용 주체 등 에셋에서 사용하는 각 항목에 대한 추가 정보를 제공합니다. 검색, 정렬 및 필터링 기능을 통해 분석을 쉽게 수행할 수 있습니다. 이 새로운 UI 구성 요소는 이메일 템플릿 및 코드 조각 에셋부터 통합됩니다.
@@ -88,7 +89,7 @@ ht-degree: 8%
   </tr>
   <tr>
    <td>배송됨</td>
-   <td><a href="https://experienceleague.adobe.com/docs/experience-platform/destinations/catalog/adobe/marketo-measure-ultimate.html?lang=ko">Marketo Measure Ultimate</a></td>
+   <td><a href="https://experienceleague.adobe.com/docs/experience-platform/destinations/catalog/adobe/marketo-measure-ultimate.html">Marketo Measure Ultimate</a></td>
   </tr>
   </tbody>
 </table>

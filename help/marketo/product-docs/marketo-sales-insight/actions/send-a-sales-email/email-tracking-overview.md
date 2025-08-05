@@ -3,9 +3,9 @@ description: 이메일 추적 개요 - Marketo 문서 - 제품 설명서
 title: 이메일 추적 개요
 exl-id: 89437d22-d739-45ea-8a2e-046a7de80379
 feature: Sales Insight Actions
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 21bcdc10fe1f3517612efe0f8e2adaf2f4411a70
 workflow-type: tm+mt
-source-wordcount: '486'
+source-wordcount: '482'
 ht-degree: 0%
 
 ---
@@ -22,7 +22,7 @@ ht-degree: 0%
 
 [!DNL Sales Connect]이(가) 잠재 고객의 전자 메일에 대한 회신을 추적할 수 없는 경우 회신 검색을 기반으로 캠페인을 중지하거나 Salesforce에 회신을 기록할 수 없습니다. 회신할 수 있는 이메일 주소는 무엇입니까?
 
-즉, flynn@flynnsarcade.com으로 이메일을 보내고 kevinf@flynnsarcade.com으로 답장을 보내면 답장을 추적할 수 있습니다. 또한 flynn@flynnsarcade.com 및 CC alan@encom.com으로 이메일을 보내고 Alan이 회신을 보내면 회신도 감지하여 캠페인을 종료합니다.
+즉, <flynn@flynnsarcade.com>에게 이메일을 보내고 <kevinf@flynnsarcade.com>(으)로 답장을 보내면 답장을 추적할 수 있습니다. 또한 <flynn@flynnsarcade.com> 및 CC <alan@encom.com>에게 이메일을 보내고 Alan이 회신을 보내면 회신도 감지하여 캠페인을 종료합니다.
 
 ## 이메일 첨부 파일을 추적하는 방법 {#how-to-track-your-email-attachments}
 

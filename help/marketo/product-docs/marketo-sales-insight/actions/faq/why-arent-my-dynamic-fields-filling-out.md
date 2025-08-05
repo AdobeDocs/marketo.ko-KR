@@ -3,9 +3,9 @@ description: 동적 필드를 채우지 않는 이유는 무엇입니까? - Mark
 title: 동적 필드를 채우지 않는 이유는 무엇입니까?
 exl-id: 4e1d133f-8314-4e64-b50b-f3e824c3bef4
 feature: Sales Insight Actions
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 21bcdc10fe1f3517612efe0f8e2adaf2f4411a70
 workflow-type: tm+mt
-source-wordcount: '295'
+source-wordcount: '294'
 ht-degree: 0%
 
 ---
@@ -22,7 +22,7 @@ Sales Insight 작업에는 기본, 사용자 지정 및 Salesforce의 세 가지
 
 [!DNL Salesforce] 필드: 예: `{{sfdc_account_name}}`
 
-* 이 앱이 Sales Insight Actions와 제대로 연결되어 있는지 확인합니다. [설정]&#x200B;(https://toutapp.com/login{target="_blank"} 페이지로 이동하여 CRM 옆에 있는 **관리**&#x200B;를 클릭합니다.
+* 이 앱이 Sales Insight Actions와 제대로 연결되어 있는지 확인합니다. [설정]&#x200B;(<https://toutapp.com/login{target="_blank"}> 페이지로 이동하고 CRM 옆에 있는 **관리**&#x200B;를 클릭합니다.
 
 **기본 및 사용자 지정 필드 문제 해결**
 

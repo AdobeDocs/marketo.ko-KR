@@ -3,7 +3,7 @@ description: 스마트 캠페인에서 SMS 옵션 사용 - Marketo 문서 - 제�
 title: 스마트 캠페인에서 SMS 옵션 사용
 feature: Mobile Marketing
 exl-id: 199b7cae-86d2-42fe-8934-10aa780f4454
-source-git-commit: dae00c6877e638ae60305122f3f3e17b3c922e10
+source-git-commit: 21bcdc10fe1f3517612efe0f8e2adaf2f4411a70
 workflow-type: tm+mt
 source-wordcount: '406'
 ht-degree: 0%
@@ -50,7 +50,7 @@ ht-degree: 0%
 
 **Vibes 목록 구독** 필터는 *ever*&#x200B;이(가) Vibes 구독 중인 모든 사용자를 찾습니다. 삭제된 사람이 흐름에서 생략되더라도 여기에는 구독 취소자와 삭제된 사람이 모두 포함됩니다. 이 필터는 보고에 가장 적합합니다.
 
-반대로 **Vibes 목록 구성원** 필터는 현재 Vibes를 구독한 _모든 사용자_&#x200B;를 찾아 스마트 캠페인이나 목록에서 사용하기에 가장 적합합니다.
+반대로 **Vibes 목록 구성원** 필터는 현재 Vibes를 구독한 *모든 사용자*&#x200B;를 찾아 스마트 캠페인이나 목록에서 사용하기에 가장 적합합니다.
 
 >[!NOTE]
 >
@@ -66,7 +66,7 @@ ht-degree: 0%
 <tbody>
   <tr>
     <td style="width:20%"><b>SMS 메시지 보내기</b></td>
-    <td>이 흐름 작업은 Marketo Smart List에서 사용자 옵트인 Vibes 구독 목록을 구독하는 사람에게 메시지를 보냅니다. 가입 프로세스가 시작되지 않습니다. <a href="/help/marketo/product-docs/mobile-marketing/vibes-sms-messages/send-an-sms-message.md">자세히 알아보기</a>.</td>
+    <td>이 흐름 작업은 Marketo Smart List에서 사용자 옵트인 Vibes 구독 목록을 구독하는 사람에게 메시지를 보냅니다. 가입 프로세스가 시작되지 않습니다. <a href="/help/marketo/product-docs/mobile-marketing/vibes-sms-messages/send-an-sms-message.md">자세히 알아보기</a></td>
   </tr>
 
 <tr>

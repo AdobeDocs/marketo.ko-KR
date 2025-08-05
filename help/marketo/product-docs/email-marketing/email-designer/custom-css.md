@@ -6,7 +6,7 @@ description: Marketo Engage의 이메일 Designer 내에서 직접 이메일 콘
 level: Intermediate
 feature: Email Designer
 exl-id: c191b44a-47ab-41f8-aa95-9268e359e5db
-source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
+source-git-commit: 21bcdc10fe1f3517612efe0f8e2adaf2f4411a70
 workflow-type: tm+mt
 source-wordcount: '587'
 ht-degree: 3%
@@ -132,7 +132,6 @@ ht-degree: 3%
 
 +++
 
-
 +++ 잘못된 CSS 샘플
 
 잘못된 CSS를 입력하면 CSS를 저장할 수 없음을 나타내는 오류 메시지가 표시됩니다. 다음은 잘못된 CSS의 예입니다.
@@ -200,7 +199,6 @@ body {
 ```
 
 +++
-
 
 사용자 지정 CSS는 이메일 Designer의 **[!UICONTROL Settings]** 창에서 해석되거나 확인되지 않습니다. 완전히 독립적이며 **[!UICONTROL Add Custom CSS]** 옵션을 통해서만 수정할 수 있습니다.
 

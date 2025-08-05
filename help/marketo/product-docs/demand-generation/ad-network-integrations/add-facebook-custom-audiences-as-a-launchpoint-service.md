@@ -4,7 +4,7 @@ description: ' [!DNL Facebook] 사용자 지정 대상 as a [!DNL LaunchPoint] �
 title: ' [!DNL Facebook] 서비스로  [!DNL LaunchPoint] 사용자 지정 대상 추가'
 exl-id: 5c5b5c80-fd0f-482a-8163-6eef3dbcb236
 feature: Integrations
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 21bcdc10fe1f3517612efe0f8e2adaf2f4411a70
 workflow-type: tm+mt
 source-wordcount: '277'
 ht-degree: 1%
@@ -45,7 +45,7 @@ ht-degree: 1%
 
    >[!NOTE]
    >
-   >_사용자 지정 대상 통합이 작동하려면_ Business Manager 계정을 사용해야[!DNL Facebook]합니다. Business Manager 계정을 설정하는 방법은 [[!DNL Facebook] 도움말](https://www.facebook.com/business/help/1710077379203657)을 참조하세요.
+   >*사용자 지정 대상 통합이 작동하려면* Business Manager 계정을 사용해야[!DNL Facebook]합니다. Business Manager 계정을 설정하는 방법은 [[!DNL Facebook] 도움말](https://www.facebook.com/business/help/1710077379203657)을 참조하세요.
 
 1. 메시지가 표시되면 **[!UICONTROL OK]**&#x200B;을(를) 클릭하여 [!DNL Facebook]에 Marketo 앱 설치를 수락합니다.
 
@@ -69,4 +69,4 @@ ht-degree: 1%
 >
 >* [사용자 지정 대상 만들기 [!DNL Facebook]](/help/marketo/product-docs/demand-generation/facebook/create-a-custom-audience-in-facebook.md)
 >
->* [리드 광고 설정 [!DNL Facebook] 2&rbrace;](/help/marketo/product-docs/demand-generation/facebook/set-up-facebook-lead-ads.md)
+>* [리드 광고 설정 [!DNL Facebook] 2}](/help/marketo/product-docs/demand-generation/facebook/set-up-facebook-lead-ads.md)

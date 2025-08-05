@@ -3,7 +3,7 @@ description: 새 Marketo Engage 인스턴스를 구현할 때의 모범 사례�
 title: 시작 위치
 feature: Getting Started
 exl-id: 91b751ab-88c5-4575-96f8-166f62f007e2
-source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
+source-git-commit: 21bcdc10fe1f3517612efe0f8e2adaf2f4411a70
 workflow-type: tm+mt
 source-wordcount: '281'
 ht-degree: 0%
@@ -51,4 +51,3 @@ Marketo Engage 인스턴스 [새 구현 관리자 확인 목록](/help/marketo/g
 1. **Adobe ID 계속**&#x200B;을 클릭하고 로그인 페이지에서 기본 구독을 선택합니다.
 1. 로그인하면 커뮤니티 프로필을 작성합니다.
 1. 정보를 제출하면 커뮤니티 홈페이지에 게시되어 언제든지 이동할 수 있습니다.
-
