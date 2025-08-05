@@ -13,7 +13,7 @@ ht-degree: 0%
 
 # 템플릿 1D {#template-1d}
 
-마우스 오른쪽 단추를 클릭하여 [템플릿 1D 다운로드](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-1d.html)
+마우스 오른쪽 단추를 클릭하여 [템플릿 1D 다운로드](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-1d.html?lang=ko)
 
 ![](assets/image2015-5-28-13-3a36-3a44.png)
 
@@ -28,4 +28,4 @@ ht-degree: 0%
 
 **이 서식 파일을 다운로드하려면 아래를 마우스 오른쪽 단추로 클릭하세요.**
 
-[Template1 1D.html](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-1d.html)
+[Template1 1D.html](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-1d.html?lang=ko)

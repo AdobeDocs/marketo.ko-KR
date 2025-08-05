@@ -13,7 +13,7 @@ ht-degree: 0%
 
 # 템플릿 4B {#template-4b}
 
-마우스 오른쪽 단추를 클릭하여 [템플릿 4B 다운로드](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-4b.html)
+마우스 오른쪽 단추를 클릭하여 [템플릿 4B 다운로드](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-4b.html?lang=ko)
 
 ![](assets/image2015-7-24-10-3a22-3a15.png)
 
@@ -29,4 +29,4 @@ ht-degree: 0%
 
 **이 서식 파일을 다운로드하려면 아래를 마우스 오른쪽 단추로 클릭하세요.**
 
-[템플릿 4B.html](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-4b.html)
+[템플릿 4B.html](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-4b.html?lang=ko)

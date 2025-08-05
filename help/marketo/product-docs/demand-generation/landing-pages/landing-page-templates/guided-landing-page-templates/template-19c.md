@@ -13,7 +13,7 @@ ht-degree: 0%
 
 # 템플릿 19C {#template-19c}
 
-마우스 오른쪽 단추를 클릭하여 [템플릿 19C 다운로드](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-19c.html)
+마우스 오른쪽 단추를 클릭하여 [템플릿 19C 다운로드](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-19c.html?lang=ko)
 
 ![](assets/image2015-9-16-16-3a52-3a26.png)
 
@@ -28,4 +28,4 @@ ht-degree: 0%
 
 **이 서식 파일을 다운로드하려면 아래를 마우스 오른쪽 단추로 클릭하세요.**
 
-[템플릿 19C.html](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-19c.html)
+[템플릿 19C.html](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-19c.html?lang=ko)

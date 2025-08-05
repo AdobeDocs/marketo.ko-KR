@@ -271,7 +271,7 @@ Marketo Engage에는 웹 페이지에서 개인 활동을 추적하는 데 사�
 
 ## 성능 기대치 {#performance-expectations}
 
-Marketo의 성능 측면에서 기대할 수 있는 사항은 무엇입니까? 마케팅 캠페인의 크기와 복잡성에 따라 달라질 수 있습니다. 그러나 [Marketo Engage 제품 설명](https://helpx.adobe.com/legal/product-descriptions/adobe-marketo-engage---product-description.html){target="_blank"}에 있는 여러 표의 &quot;표준&quot; 열에 요약된 내용과 동등한 성능 수준을 기대할 수 있습니다. &quot;성능&quot; 및 &quot;성능 플러스&quot; 열은 [더 높은 성능 수준](https://nation.marketo.com/t5/product-documents/marketo-engage-performance-tiers/ta-p/328835){target="_blank"}을 제공하는 성능 계층 패키지를 나타냅니다.
+Marketo의 성능 측면에서 기대할 수 있는 사항은 무엇입니까? 마케팅 캠페인의 크기와 복잡성에 따라 달라질 수 있습니다. 그러나 [Marketo Engage 제품 설명](https://helpx.adobe.com/kr/legal/product-descriptions/adobe-marketo-engage---product-description.html){target="_blank"}에 있는 여러 표의 &quot;표준&quot; 열에 요약된 내용과 동등한 성능 수준을 기대할 수 있습니다. &quot;성능&quot; 및 &quot;성능 플러스&quot; 열은 [더 높은 성능 수준](https://nation.marketo.com/t5/product-documents/marketo-engage-performance-tiers/ta-p/328835){target="_blank"}을 제공하는 성능 계층 패키지를 나타냅니다.
 
 >[!MORELIKETHIS]
 >

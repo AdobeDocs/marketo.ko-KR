@@ -13,7 +13,7 @@ ht-degree: 0%
 
 # 템플릿 3B {#template-3b}
 
-마우스 오른쪽 단추를 클릭하여 [템플릿 3B 다운로드](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-3b.html)
+마우스 오른쪽 단추를 클릭하여 [템플릿 3B 다운로드](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-3b.html?lang=ko)
 
 ![](assets/image2015-6-15-11-3a11-3a30.png)
 
@@ -29,4 +29,4 @@ ht-degree: 0%
 
 **이 서식 파일을 다운로드하려면 아래를 마우스 오른쪽 단추로 클릭하세요.**
 
-[템플릿 3B.html](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-3b.html)
+[템플릿 3B.html](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-3b.html?lang=ko)

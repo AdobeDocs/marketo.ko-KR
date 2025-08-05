@@ -13,7 +13,7 @@ ht-degree: 0%
 
 # 템플릿 16D {#template-16d}
 
-마우스 오른쪽 단추를 클릭하여 [템플릿 16D 다운로드](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-16d.html)
+마우스 오른쪽 단추를 클릭하여 [템플릿 16D 다운로드](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-16d.html?lang=ko)
 
 ![](assets/image2015-8-14-13-3a12-3a25.png)
 
@@ -29,4 +29,4 @@ ht-degree: 0%
 
 **이 서식 파일을 다운로드하려면 아래를 마우스 오른쪽 단추로 클릭하세요.**
 
-[템플릿 16D.html](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-16d.html)
+[템플릿 16D.html](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-16d.html?lang=ko)

@@ -13,7 +13,7 @@ ht-degree: 0%
 
 # 템플릿 20D {#template-20d}
 
-마우스 오른쪽 단추를 클릭하여 [템플릿 20D 다운로드](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-20d.html)
+마우스 오른쪽 단추를 클릭하여 [템플릿 20D 다운로드](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-20d.html?lang=ko)
 
 ![](assets/template-20d.png)
 
@@ -28,4 +28,4 @@ ht-degree: 0%
 
 **이 서식 파일을 다운로드하려면 아래를 마우스 오른쪽 단추로 클릭하세요.**
 
-[템플릿 20D.html](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-20d.html)
+[템플릿 20D.html](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-20d.html?lang=ko)
