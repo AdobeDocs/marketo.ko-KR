@@ -3,7 +3,7 @@ audience: end-user
 user-guide-title: Marketo 안내서
 user-guide-description: Marketo 제품 설명서
 feature-set: Marketo Engage
-source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
+source-git-commit: 75d0be47bdf5b547444b74defc3e2740a86d6c11
 workflow-type: tm+mt
 source-wordcount: '9294'
 ht-degree: 2%
@@ -729,8 +729,8 @@ ht-degree: 2%
             + [대화형 웨비나에 대한 우수 사례](product-docs/demand-generation/events/interactive-webinars/best-practices-for-interactive-webinars.md)
             + [사용자 및 라이선스 관리](product-docs/demand-generation/events/interactive-webinars/user-and-license-management.md)
             + [대화형 웨비나 만들기](product-docs/demand-generation/events/interactive-webinars/create-an-interactive-webinar.md)
-            + [웨비나 팀 추가](product-docs/demand-generation/events/interactive-webinars/add-a-webinar-team.md)
             + [대화형 웨비나 디자인](product-docs/demand-generation/events/interactive-webinars/designing-interactive-webinars.md)
+            + [웨비나 팀 추가](product-docs/demand-generation/events/interactive-webinars/add-a-webinar-team.md)
             + [대화형 웨비나 테스트](product-docs/demand-generation/events/interactive-webinars/testing-an-interactive-webinar.md)
             + [대화형 웨비나 게재](product-docs/demand-generation/events/interactive-webinars/deliver-an-interactive-webinar.md)
             + [템플릿](product-docs/demand-generation/events/interactive-webinars/templates.md)

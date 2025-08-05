@@ -3,9 +3,9 @@ description: 대화형 웨비나 디자인 - Marketo 문서 - 제품 설명서
 title: 대화형 웨비나 디자인
 exl-id: e340910a-ddcb-46e8-82a9-faedf0ab2d74
 feature: Interactive Webinars
-source-git-commit: 86314f93535df1fe0568ba1f609ecf35799383fb
+source-git-commit: 75d0be47bdf5b547444b74defc3e2740a86d6c11
 workflow-type: tm+mt
-source-wordcount: '488'
+source-wordcount: '496'
 ht-degree: 0%
 
 ---
@@ -75,3 +75,7 @@ ht-degree: 0%
 **레이아웃**: 웨비나의 성공을 보장하는 데 필요한 여러 구성 요소를 특정 템플릿에 배치하는 다양한 방법을 나타냅니다. 단일 템플릿에는 사용자가 선택할 수 있는 여러 개의 레이아웃이 있을 수 있습니다. 웨비나의 필수 구성 요소는 템플릿 간에 동일하게 유지됩니다. 선택한 방식은 귀하 또는 웨비나를 제공하는 발표자의 스타일/요구 사항에 가장 적합합니다.
 
 **Pod**: 웨비나 중에 특정 활동을 수행하는 템플릿 내의 구성 요소입니다. 예를 들어, 투표 Pod에서 이행할 수 있는 한 활동에서 참가자의 응답을 캡처하기 위해 투표를 설정하고 전달합니다. 마찬가지로, 참여자와 대화를 나누며 메시지를 전달하거나 일상적으로 상호 작용하는 것도 채팅 팟을 통해 전달되는 활동일 수 있다. 공유, 메모, 비디오, 채팅, 참석자 목록, 파일, 웹 링크, 설문 조사, Q &amp; A와 같은 기타 여러 Pod를 사용할 수 있습니다.
+
+>[!MORELIKETHIS]
+>
+>[발표자 및/또는 공동 호스트를 추가하는 방법 알아보기](/help/marketo/product-docs/demand-generation/events/interactive-webinars/add-a-webinar-team.md){target="_blank"}
