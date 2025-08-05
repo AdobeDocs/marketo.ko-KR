@@ -3,9 +3,9 @@ description: 웨비나 팀 추가 - Marketo 문서 - 제품 설명서
 title: 웨비나 팀 추가
 feature: Interactive Webinars
 exl-id: eff0b69a-0ffe-45b4-8170-cd57894ab926
-source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
+source-git-commit: cd4b32fe1a1a72da7115eb2b1acada9be1b70fe8
 workflow-type: tm+mt
-source-wordcount: '411'
+source-wordcount: '425'
 ht-degree: 0%
 
 ---
@@ -13,10 +13,6 @@ ht-degree: 0%
 # 웨비나 팀 추가 {#add-a-webinar-team}
 
 대화형 웨비나의 웨비나 팀은 Adobe Connect에서 웨비나를 성공적으로 전달하는 데 기여하는 모든 역할로 구성됩니다. 여기에는 발표자와 공동 호스트가 모두 포함됩니다.
-
->[!IMPORTANT]
->
->발표자 또는 공동 호스트를 추가하여 [웨비나를 디자인](/help/marketo/product-docs/demand-generation/events/interactive-webinars/designing-interactive-webinars.md){target="_blank"} _이전_&#x200B;하는 것이 좋습니다.
 
 >[!NOTE]
 >
@@ -52,6 +48,10 @@ ht-degree: 0%
 
    ![](assets/add-a-webinar-team-4.png)
 
+>[!NOTE]
+>
+> ![공동 호스트 URL 복사 아이콘](assets/icon-copy-join-url.png) 아이콘은 공동 호스트 가입 URL을 복사하고 ![공동 호스트 초대 이메일 보내기](assets/icon-send-invitation-email.png) 아이콘은 공동 호스트 초대 이메일을 보냅니다.
+
 ## 발표자 추가 {#add-a-presenter}
 
 1. 대화형 웨비나의 개요 페이지에서 **발표자 추가**&#x200B;를 클릭합니다.
@@ -70,9 +70,9 @@ ht-degree: 0%
 
    ![](assets/add-a-webinar-team-7.png)
 
->[!TIP]
+>[!NOTE]
 >
->웨비나 팀을 추가한 후 각 사용자 옆에 있는 복사 아이콘을 클릭하여 가입 URL을 복사(그런 다음 공유)할 수 있습니다.
+> ![발표자 URL 복사 아이콘](assets/icon-copy-join-url.png) 아이콘은 발표자 가입 URL을 복사하고 ![발표자에게 초대 이메일을 보내기](assets/icon-send-invitation-email.png) 아이콘은 발표자에게 초대 이메일을 보냅니다.
 
 >[!MORELIKETHIS]
 >
