@@ -4,9 +4,9 @@ description: 양식 만들기 - Marketo 문서 - 제품 설명서
 title: 양식 만들기
 exl-id: ab0f2700-99e5-4ceb-b9df-80016f30fc85
 feature: Forms
-source-git-commit: f796f40952bcacf15a2141dfec4c76c2fa3f0796
+source-git-commit: f27b520544583b9511428b0bc3a41cc1527cc332
 workflow-type: tm+mt
-source-wordcount: '96'
+source-wordcount: '98'
 ht-degree: 1%
 
 ---
@@ -21,23 +21,19 @@ ht-degree: 1%
 
 1. **[!UICONTROL Marketing Activities]**(으)로 이동합니다.
 
-   ![](assets/login-marketing-activities.png)
+   ![](assets/create-a-form-1.png)
 
-1. **프로그램**&#x200B;을 찾아 선택합니다.
+1. 원하는 프로그램을 찾습니다. 마우스 오른쪽 단추를 클릭하고 **[!UICONTROL New Local Asset]**&#x200B;을(를) 선택합니다.
 
-   ![](assets/programseelct.png)
-
-1. **[!UICONTROL New]**&#x200B;에서 **[!UICONTROL New Local Asset]**&#x200B;을(를) 클릭합니다.
-
-   ![](assets/newlocalasset.png)
+   ![](assets/create-a-form-2.png)
 
 1. **[!UICONTROL Form]**&#x200B;를 선택합니다.
 
-   ![](assets/image2014-9-15-17-3a1-3a20.png)
+   ![](assets/create-a-form-3.png)
 
 1. **[!UICONTROL Name]** 양식을 입력하고 **[!UICONTROL Create]**&#x200B;을(를) 클릭합니다.
 
-   ![](assets/newformwithhands.png)
+   ![](assets/create-a-form-4.png)
 
 >[!TIP]
 >
