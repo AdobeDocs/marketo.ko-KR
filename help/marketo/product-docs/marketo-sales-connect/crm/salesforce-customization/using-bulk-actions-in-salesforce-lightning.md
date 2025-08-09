@@ -4,9 +4,9 @@ description: Salesforce Lightning에서 일괄 작업 사용 - Marketo 문서 - 
 title: Salesforce Lightning에서 일괄 작업 사용
 exl-id: 72022507-6568-4cc2-b3b5-c1703a1493ad
 feature: Marketo Sales Connect
-source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
+source-git-commit: fad80e8dccbad19b76570ee49fd8e7def0103fb1
 workflow-type: tm+mt
-source-wordcount: '365'
+source-wordcount: '375'
 ht-degree: 0%
 
 ---
@@ -17,7 +17,10 @@ ht-degree: 0%
 
 >[!PREREQUISITES]
 >
->[!DNL Sales Connect] 패키지의 최신 버전으로 업데이트하고 리드/연락처 보기에 일괄 작업 단추를 설치하십시오. [지침을 보려면 여기를 클릭하세요](https://s3.amazonaws.com/tout-user-store/salesforce/assets/SF+Guide+for+Lightning.pdf).
+>[!DNL Sales Connect] 패키지의 최신 버전으로 업데이트하고 리드/연락처 보기에 일괄 작업 단추를 설치하십시오.
+>* [영어로 된 지침](assets/SF+Guide+for+Lightning-EN)
+>* [일본어, 한국어, 중국어로 된 지침](assets/SF+Guide+for+Lightning-JA-KO-ZH)
+>* [스페인어, 프랑스어, 독일어, 이탈리아어, 스웨덴어 지침](assets/SF+Guide+for+Lightning-ES-FR-DE-IT-SV)
 
 >[!NOTE]
 >
@@ -39,7 +42,7 @@ ht-degree: 0%
 
 1. MSC 이메일이 표시됩니다. 여기에는 다음 기능이 포함됩니다.
 
-   a. &quot;[!UICONTROL To]&quot; 필드에 &quot;모든 입고&quot;가 표시됨 - 이는 리드 목록 보기에서 선택한 리드 목록에 해당합니다
+   a. &quot;[!UICONTROL To]&quot; 필드에 &quot;모든 수금&quot;이 표시됩니다. 이 목록은 [가망 고객 목록 보기]에서 선택한 가망 고객 목록에 해당합니다
 b. 이 목록은 &quot;일괄 작성&quot;이라는 왼쪽 패널에 표시되며 여기에서 수신자를 추가/제거할 수 있습니다.
 c. 템플릿을 선택하거나 직접 이메일을 만들 수 있습니다
 d. 이메일을 즉시 보내거나 나중에 보내도록 예약할 수 있습니다
