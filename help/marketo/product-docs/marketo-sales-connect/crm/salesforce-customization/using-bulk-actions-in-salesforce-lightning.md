@@ -4,9 +4,9 @@ description: Salesforce Lightning에서 일괄 작업 사용 - Marketo 문서 - 
 title: Salesforce Lightning에서 일괄 작업 사용
 exl-id: 72022507-6568-4cc2-b3b5-c1703a1493ad
 feature: Marketo Sales Connect
-source-git-commit: fad80e8dccbad19b76570ee49fd8e7def0103fb1
+source-git-commit: 8364c0ebe19bce0d837a96283bea31d593ef4171
 workflow-type: tm+mt
-source-wordcount: '375'
+source-wordcount: '366'
 ht-degree: 0%
 
 ---
@@ -18,9 +18,8 @@ ht-degree: 0%
 >[!PREREQUISITES]
 >
 >[!DNL Sales Connect] 패키지의 최신 버전으로 업데이트하고 리드/연락처 보기에 일괄 작업 단추를 설치하십시오.
->* [영어로 된 지침] (assets/SF+Guide+for+Lightning-EN)
->* [일본어, 한국어, 중국어로 된 지침] (assets/SF+Guide+for+Lightning-JA-KO-ZH)
->* [스페인어, 프랑스어, 독일어, 이탈리아어, 스웨덴어 지침] (assets/SF+Guide+for+Lightning-ES-FR-DE-IT-SV)
+>* [영어로 된 지침](assets/SF+Guide+for+Lightning-EN)
+>* [일본어 지침](assets/SF+Guide+for+Lightning-JA)
 
 >[!NOTE]
 >
