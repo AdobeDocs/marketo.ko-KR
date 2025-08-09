@@ -18,8 +18,8 @@ ht-degree: 0%
 >[!PREREQUISITES]
 >
 >[!DNL Sales Connect] 패키지의 최신 버전으로 업데이트하고 리드/연락처 보기에 일괄 작업 단추를 설치하십시오.
->* [영어로 된 지침](assets/SF+Guide+for+Lightning-EN)
->* [일본어 지침](assets/SF+Guide+for+Lightning-JA)
+>* [영어로 된 지침] (assets/SF+Guide+for+Lightning-EN)
+>* [일본어 지침] (assets/SF+Guide+for+Lightning-JA)
 
 >[!NOTE]
 >
