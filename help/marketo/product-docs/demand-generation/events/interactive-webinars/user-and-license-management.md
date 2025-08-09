@@ -3,9 +3,9 @@ description: 사용자 및 라이선스 관리 - Marketo 문서 - 제품 설명�
 title: 사용자 및 라이선스 관리
 exl-id: 1fee628b-e9f3-46ab-b993-f2d09fe5e183
 feature: Interactive Webinars
-source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
+source-git-commit: fe167b4a70a23f129d56ed20ac6c1ed1130049ef
 workflow-type: tm+mt
-source-wordcount: '703'
+source-wordcount: '717'
 ht-degree: 0%
 
 ---
@@ -89,7 +89,7 @@ ht-degree: 0%
   </tr>
   <tr>
    <td width="20%"><b>사용된 이벤트</b></td>
-   <td width="80%">완료된 총 이벤트 수입니다.</td>
+   <td width="80%">모든 완료된 이벤트와 현재 예약된 이벤트입니다. <a href="#things-to-note">자세히 알아보기</a></td>
   </tr>
   <tr>
    <td width="20%"><b>스토리지 용량</b></td>
@@ -98,13 +98,13 @@ ht-degree: 0%
   </tbody>
 </table>
 
-**참고할 사항**
+### 참고할 사항 {#things-to-note}
+
+* 이벤트가 생성될 때마다 해당 라이선스에서 &quot;소비됨&quot;으로 계산됩니다(Shared Room 라이선스가 아닌 경우). 동일한 용량의 &quot;공유 이벤트 라이선스&quot;와 &quot;공유 룸 라이선스&quot;가 모두 있는 경우 &quot;공유 이벤트 라이선스&quot;가 기본 설정됩니다. 이벤트가 전달되지 않았으며 예약된 시간 전에 이벤트 프로그램이 삭제되면 이벤트 수가 보충됩니다. 이벤트가 전달되지 않고 예약된 시간 전에 이벤트 프로그램이 삭제되지 않으면 이벤트가 보충되지 않습니다.
 
 * &quot;추가 저장소 라이선스&quot; 유형은 저장소를 제공하므로 모든 필드 _외_ 저장소 용량의 값은 &quot;-&quot;로 표시됩니다.
 
 * &quot;Shared Room License&quot; 유형은 무제한 이벤트를 포함하며 &quot;Additional Storage License&quot;는 스토리지를 제공하므로 이러한 라이센스의 총 이벤트 필드는 간단히 &quot;-&quot;로 표시됩니다.
-
-* 이벤트가 생성될 때마다 해당 라이선스에서 &quot;소비됨&quot;으로 계산됩니다(Shared Room 라이선스가 아닌 경우). 동일한 용량의 &quot;공유 이벤트 라이선스&quot;와 &quot;공유 룸 라이선스&quot;가 모두 있는 경우 &quot;공유 이벤트 라이선스&quot;에 대한 기본 설정이 제공됩니다. 이벤트가 게재되지 않았고 예약된 시간 전에 이벤트 프로그램 이 삭제되면 소비된 이벤트에서 이벤트를 빼서 이벤트 수를 보충합니다.
 
 * 라이선스가 소진되면 해당 타일은 관리 섹션의 대화형 웨비나 화면에 유지되며 &quot;총 이벤트 수&quot; 및 &quot;사용된 이벤트 수&quot;는 동일한 값을 갖습니다. 라이선스가 만료될 때만 화면에서 제거됩니다.
 
