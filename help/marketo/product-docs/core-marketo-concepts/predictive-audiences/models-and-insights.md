@@ -3,10 +3,10 @@ description: 모델 및 인사이트 - Marketo 문서 - 제품 설명서
 title: 모델 및 인사이트
 exl-id: 7a01d6f0-000a-4b9a-8abb-9e7f9c4b1679
 feature: Predictive Audiences
-source-git-commit: 86f9e9f13b24a82deb50ec4c398035d7d7479d20
+source-git-commit: 785f7ce976e96deaef37e197f6ba772b477aa81c
 workflow-type: tm+mt
-source-wordcount: '189'
-ht-degree: 0%
+source-wordcount: '211'
+ht-degree: 2%
 
 ---
 
@@ -20,7 +20,7 @@ ht-degree: 0%
 
 다음은 모델 상태를 평가하는 방법입니다.
 
-Marketo Engage의 **[!UICONTROL 관리]** 영역에서 **[!UICONTROL 예측 대상]** 아래의 **[!UICONTROL 모델 및 데이터 상태]** 섹션으로 이동합니다. 여기에서 모든 모델과 상태를 볼 수 있습니다.
+Marketo Engage의 **[!UICONTROL Models and Data Health]** 영역에서 **[!UICONTROL Predictive Audiences]** 아래의 **[!UICONTROL Admin]** 섹션으로 이동합니다. 여기에서 모든 모델과 상태를 볼 수 있습니다.
 
 ![이미지 하나](assets/models-and-insights-1.png)
 
@@ -29,3 +29,5 @@ Marketo Engage의 **[!UICONTROL 관리]** 영역에서 **[!UICONTROL 예측 대�
 * **성능**: 데이터 완전성 및 데이터 품질에 따라 모델 상태를 분류합니다(아래 참조).
 * **데이터 완전성**: 현재/완료된 데이터 특성의 비율입니다.
 * **데이터 품질**: 사용 가능한 좋은 데이터가 포함된 특성의 비율입니다.
+
+* **마지막 교육**: 현재 모델과 2주마다 교육되는 새 모델 간의 평가에서 가장 좋은 모델의 날짜입니다.
