@@ -1,21 +1,21 @@
 ---
-title: Marketo 제품 문서
-description: 이 Marketo 제품 문서를 사용하여 마케팅을 한 단계 업그레이드하는 방법에 대해 알아보십시오. Marketo 자습서를 시작하고 다른 인기 있는 문서를 읽어 보십시오.
+title: Marketo 제품 설명서
+description: Marketo 제품 설명서를 통해 마케팅을 한 차원 끌어올리는 방법에 대해 알아봅니다. Marketo 튜토리얼을 통해 시작하고 다른 인기 있는 문서를 읽어보십시오.
 exl-id: 4b97fe25-ce4d-446c-8b23-2566769f35ee
 source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '152'
-ht-degree: 8%
+ht-degree: 100%
 
 ---
 
-# Marketo Engage 제품 문서
+# Marketo Engage 제품 설명서
 
 ![](assets/marketo-docs-banner.jpg)
 
-최신 수요 마케팅 전략은 최상의 고객 경험을 제공하기 위해 엔드 투 엔드 참여가 필요합니다. Adobe Experience Cloud의 일부인 Marketo Engage을 사용하여 다양한 문서, 안내서 및 튜토리얼을 통해 이를 수행하는 방법을 알아봅니다.
+최신 수요 마케팅 전략은 최고의 고객 경험을 제공하기 위해 엔드투엔드 참여가 필요합니다. Adobe Experience Cloud의 일부인 Marketo Engage로 이를 달성하는 방법에 대해 다양한 문서, 안내서, 튜토리얼을 통해 알아봅니다.
 
-이제 막 시작하여 Marketo Engage 튜토리얼을 시작하거나, 구독에서 더 많은 것을 얻고자 하는 숙련된 사용자인 경우 등, Marketo Engage 제품 설명서에서 필요한 모든 답변을 찾을 수 있습니다.
+Marketo Engage 튜토리얼을 처음 시작하는 사용자이든, 구독을 최대한 활용하려는 숙련된 사용자이든, Marketo Engage 제품 설명서에서 필요한 모든 답변을 찾을 수 있습니다.
 
 ## 시작하기
 
@@ -34,7 +34,7 @@ ht-degree: 8%
 
 * [Adobe Dynamic Chat 개요](/help/marketo/product-docs/demand-generation/dynamic-chat/dynamic-chat-overview.md)
 
-* [이메일 Designer 개요](/help/marketo/product-docs/email-marketing/email-designer/overview.md)
+* [이메일 디자이너 개요](/help/marketo/product-docs/email-marketing/email-designer/overview.md)
 
 ## 릴리스 정보
 

@@ -1,27 +1,27 @@
 ---
 unique-page-id: 11387674
-description: Marketo 용어 업데이트 - Marketo 설명서 - 제품 설명서
+description: Marketo 용어 업데이트 - Marketo 문서 - 제품 설명서
 hide: true
 hidefromtoc: true
 title: Marketo 용어 업데이트
 source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '328'
-ht-degree: 1%
+ht-degree: 100%
 
 ---
 
 # Marketo 용어 업데이트 {#updates-to-marketo-terminology}
 
-우리는 우리의 플랫폼을 일부 변경하고 있으며, 이는 어떤 것들의 명칭에 영향을 미칠 것입니다. 2016년 3월 현재 새 Marketo 인스턴스가 있거나 2016년 7월 이후 회사가 갱신되는 경우 이제 새로운 용어가 표시될 수 있습니다.
+플랫폼에 일부 변경 사항이 있으며, 이로 인해 일부 기능의 명칭이 변경될 예정입니다. 2016년 3월에 새로운 Marketo 인스턴스를 사용했거나 2016년 7월 이후에 회사를 갱신한 경우, 지금 새로운 용어가 표시될 수 있습니다.
 
-Marketo 설명서에 다른 용어가 표시될 수 있지만, 이러한 변경 사항을 반영하여 모든 문서가 곧 업데이트될 예정이므로 유의하십시오. 모든 지침은 동일합니다.
+Marketo 설명서에서 여러 용어가 보일 수 있지만 모든 문서가 곧 이러한 변경 사항을 반영하도록 업데이트될 예정이니 안심하십시오. 모든 지침은 동일합니다.
 
-그럼 뭐가 바뀌었죠?
+변경 사항
 
-## Lead 는 Person 임 {#lead-is-now-person}
+## 리드는 이제 개인입니다. {#lead-is-now-person}
 
-가장 큰 변화는 리드/리드가 사람/사람으로 이름이 바뀌는 것입니다.
+가장 큰 변화는 리드가 개인/사용자로 이름이 바뀐 것입니다.
 
 <table>
  <colgroup>
@@ -30,8 +30,8 @@ Marketo 설명서에 다른 용어가 표시될 수 있지만, 이러한 변경 
  </colgroup>
  <tbody>
   <tr>
-   <td><strong>이전</strong></td>
-   <td><strong>새로운 기능</strong></td>
+   <td><strong>이전 용어</strong></td>
+   <td><strong>신규 용어</strong></td>
   </tr>
   <tr>
    <td>
@@ -46,7 +46,7 @@ Marketo 설명서에 다른 용어가 표시될 수 있지만, 이러한 변경 
  </tbody>
 </table>
 
-&quot;리드&quot;라는 단어가 단순히 제거되는 경우도 있습니다.
+어떤 경우에는 &#39;리드&#39;라는 단어가 단순히 제거되기도 합니다.
 
 <table>
  <colgroup>
@@ -55,8 +55,8 @@ Marketo 설명서에 다른 용어가 표시될 수 있지만, 이러한 변경 
  </colgroup>
  <tbody>
   <tr>
-   <td><strong>이전</strong></td>
-   <td><strong>새로운 기능</strong></td>
+   <td><strong>이전 용어</strong></td>
+   <td><strong>신규 용어</strong></td>
   </tr>
   <tr>
    <td>
@@ -71,19 +71,19 @@ Marketo 설명서에 다른 용어가 표시될 수 있지만, 이러한 변경 
  </tbody>
 </table>
 
-리드와 개인 **이(가) 같습니다**.
+리드와 개인은 **같은 용어**&#x200B;입니다.
 
 ## 토큰 {#tokens}
 
-리드가 **인 토큰이 변경되지 않습니다**. 혼동을 드려 죄송합니다. 그러나 새로운 용어에 맞게 모든 토큰을 변경하면 현재 사용 중인 많은 토큰이 손상될 수 있습니다. 따라서 &quot;`{{lead.First Name}}`&quot;과(와) 같은 토큰이 계속 표시됩니다. 사용자별 토큰이 없습니다.
+&#39;리드&#39;라는 단어가 포함된 토큰은 **변경되지 않습니다**. 혼란을 드려 죄송합니다. 모든 토큰을 새로운 용어와 일치시키면 현재 사용 중인 수많은 토큰이 작동하지 않게 됩니다. 따라서 “`{{lead.First Name}}`”과 같은 토큰이 계속 표시됩니다. 개인별 토큰은 없습니다.
 
 >[!NOTE]
 >
->&quot;개인 메모&quot;라는 토큰이 *is*&#x200B;있지만 해당 토큰은 항상 있습니다. 이 변수는 일반적으로 CRM의 설명 필드에 사용됩니다(있는 경우).
+>“개인 메모”라는 토큰은 *있지만*, 이 토큰은 항상 있었습니다. 이 토큰은 보통 CRM의 설명 필드에 사용됩니다.
 
 ## 필드 관리 {#field-management}
 
-Lead 라는 용어가 포함된 필드가 Person으로 대체되거나 Lead 라는 단어가 삭제되었습니다. 그러나 주목할 만한 예외 중 하나는 &quot;잠재 고객 소유자&quot; 필드입니다. 이제 &quot;판매 소유자&quot;라고 합니다.
+&#39;리드&#39;라는 용어가 포함된 필드는 &#39;개인&#39;으로 대체되거나 &#39;리드&#39;라는 단어가 삭제되었습니다. 그러나 한 가지 주목할 만한 예외는 “리드 소유자” 필드입니다. 이제는 “영업 담당자”라고 합니다.
 
 <table>
  <colgroup>
@@ -92,8 +92,8 @@ Lead 라는 용어가 포함된 필드가 Person으로 대체되거나 Lead 라�
  </colgroup>
  <tbody>
   <tr>
-   <td><strong>이전</strong></td>
-   <td><strong>새로운 기능</strong></td>
+   <td><strong>이전 용어</strong></td>
+   <td><strong>신규 용어</strong></td>
   </tr>
   <tr>
    <td>
@@ -110,9 +110,9 @@ Lead 라는 용어가 포함된 필드가 Person으로 대체되거나 Lead 라�
 
 >[!NOTE]
 >
->영향을 받는 필드 이름의 전체 목록을 보려면 이 [지원 문서](https://nation.marketo.com/docs/DOC-4218#jive_content_id_Field_Names_and_Tokens){target="_blank"}를 참조하십시오.
+>영향을 받는 필드 이름의 전체 목록을 보려면 이 [지원 문서](https://nation.marketo.com/docs/DOC-4218#jive_content_id_Field_Names_and_Tokens){target="_blank"}를 방문하십시오.
 
-## 실시간 Personalization(RTP)가 이제 웹 Personalization입니다 {#real-time-personalization-rtp-is-now-web-personalization}
+## 실시간 개인 설정(RTP)이 이제 웹 개인화입니다. {#real-time-personalization-rtp-is-now-web-personalization}
 
 <table>
  <colgroup>
@@ -121,8 +121,8 @@ Lead 라는 용어가 포함된 필드가 Person으로 대체되거나 Lead 라�
  </colgroup>
  <tbody>
   <tr>
-   <td><strong>이전</strong></td>
-   <td><strong>새로운 기능</strong></td>
+   <td><strong>이전 용어</strong></td>
+   <td><strong>신규 용어</strong></td>
   </tr>
   <tr>
    <td>
@@ -137,16 +137,16 @@ Lead 라는 용어가 포함된 필드가 Person으로 대체되거나 Lead 라�
  </tbody>
 </table>
 
-이제 이름 변경 외에도 네 개의 별도 앱으로 구성됩니다.
+이름 변경 외에도 이제 네 가지 별도의 앱으로 구성됩니다.
 
-| **[웹 Personalization](https://docs.marketo.com/display/DOCS/Web+Personalization+-+RTP){target="_blank"}** | 홈 화면에 자체 타일이 있음 |
+| **[웹 개인화](https://docs.marketo.com/display/DOCS/Web+Personalization+-+RTP){target="_blank"}** | 홈 화면에 자체 타일이 있습니다. |
 |---|---|
-| **[계정 기반 웹 마케팅](https://docs.marketo.com/display/DOCS/Account-Based+Web+Marketing){target="_blank"}** | 웹 Personalization 타일을 통해 액세스 가능 |
-| **[개인화된 리타겟팅](https://docs.marketo.com/display/DOCS/Website+Retargeting){target="_blank"}** | 웹 Personalization 타일을 통해 액세스 가능 |
-| **[예측 콘텐츠](https://docs.marketo.com/display/DOCS/Predictive+Content){target="_blank"}** | 홈 화면에 자체 타일이 있음 |
+| **[계정 기반 웹 마케팅](https://docs.marketo.com/display/DOCS/Account-Based+Web+Marketing){target="_blank"}** | 웹 개인화 타일을 통해 액세스할 수 있습니다. |
+| **[개인화된 리타기팅](https://docs.marketo.com/display/DOCS/Website+Retargeting){target="_blank"}** | 웹 개인화 타일을 통해 액세스할 수 있습니다. |
+| **[예측 콘텐츠](https://docs.marketo.com/display/DOCS/Predictive+Content){target="_blank"}** | 홈 화면에 자체 타일이 있습니다. |
 
 >[!NOTE]
 >
->홈 화면에 표시되는 타일은 구입한 모듈을 반영합니다.
+>홈 화면에 표시되는 타일은 구매한 모듈을 반영합니다.
 
-이 업데이트 동안 기다려 주셔서 감사합니다.
+이번 업데이트에 대한 양해에 감사드립니다.
