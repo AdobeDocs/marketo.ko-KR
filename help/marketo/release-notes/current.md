@@ -86,7 +86,7 @@ Adobe Dynamic Chat에 대한 릴리스 정보는 [여기에서 확인](/help/mar
 
    * _IP 제한 사용 중단_: [IP를 기반으로 Marketo 로그인 제한](https://experienceleague.adobe.com/ko/docs/marketo/using/product-docs/administration/settings/restrict-marketo-logins-based-on-ip){target="_blank"}에 대한 지원이 2025년 7월 30일에 종료되었습니다. 이 기능은 Adobe Identity로의 전환이 완료될 때까지 계속 작동합니다. Adobe Admin Console에서 Adobe ID에 대한 새로운 위치 기반 액세스 제어 기능이 곧 제공될 예정입니다.
 
-   * _SSO(Single Sign-On) 사용 중단_: [Marketo Identity SSO](https://experienceleague.adobe.com/ko/docs/marketo/using/product-docs/administration/additional-integrations/add-single-sign-on-to-a-portal){target="_blank"}에 대한 지원이 2025년 7월 30일에 종료되었습니다. 이 기능은 Adobe Identity로의 전환이 완료될 때까지 계속 작동합니다. Adobe Admin Console의 Adobe Identity에 대한 Single Sign-On은 별도로 구성해야 합니다. 설정 단계는 [ID 및 Single Sign-On 설정](https://helpx.adobe.com/enterprise/using/set-up-identity.html){target="_blank"}을 참조합니다.
+   * _SSO(Single Sign-On) 사용 중단_: [Marketo Identity SSO](https://experienceleague.adobe.com/ko/docs/marketo/using/product-docs/administration/additional-integrations/add-single-sign-on-to-a-portal){target="_blank"}에 대한 지원이 2025년 7월 30일에 종료되었습니다. 이 기능은 Adobe Identity로의 전환이 완료될 때까지 계속 작동합니다. Adobe Admin Console의 Adobe Identity에 대한 Single Sign-On은 별도로 구성해야 합니다. 설정 단계는 [ID 및 Single Sign-On 설정](https://helpx.adobe.com/kr/enterprise/using/set-up-identity.html){target="_blank"}을 참조합니다.
 
 * **친구에게 보내기&#x200B;_기능 사용 중단_: 2025년 9월 29일에 Marketo Engage 2.0 전자 메일(기존 전자 메일 편집기)의**&#x200B;친구에게 보내기&#x200B;_기능이 모든 구독에서 완전히 사용되지 않습니다._ 이는 토큰을 사용하여 이미 전송되었거나 전송될 이메일의 &#39;친구에게 전달&#39; 토큰 및 &#39;친구에게 전달&#39; 링크에 영향을 줍니다. [자세히 알아보기](https://nation.marketo.com/t5/product-blogs/deprecation-of-forward-to-a-friend/ba-p/358045#M2889){target="_blank"}
 
