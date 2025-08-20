@@ -2,9 +2,10 @@
 description: 릴리스 노트 - 2025년 7월 - Marketo 설명서 - 제품 설명서
 title: 릴리스 노트 - 2025년 7월
 feature: Release Information
-source-git-commit: 8101d9c73571948847d00dfc21f21c39bcd1d975
+exl-id: 86776722-c640-4e55-9551-38ff34de566b
+source-git-commit: ab880e2499ed34eb15fd656b5b4eae0635a6e012
 workflow-type: tm+mt
-source-wordcount: '716'
+source-wordcount: '691'
 ht-degree: 98%
 
 ---
@@ -104,16 +105,6 @@ Adobe Dynamic Chat에 대한 릴리스 정보는 [여기에서 확인](/help/mar
    <td><strong>이메일 디자이너 - 브랜딩 도메인 및 도메인 IP 구성 선택</strong>: 이제 모든 이메일 자산에 대해 “브랜딩 도메인” 및 “도메인 IP 구성”을 선택할 수 있습니다.</td>
    <td>출시됨</td>
    <td>해당 사항 없음</td>
-  </tr>
-  <tr>
-   <td> </td>
-   <td> </td>
-   <td> </td>
-  </tr>
-  <tr>
-   <td><strong>이메일 디자이너 - GenStudio 통합</strong>: 이메일 내에서 GenStudio를 통합하여 마케팅 효율성을 높이고 브랜드 일관성을 유지합니다.</td>
-   <td><i>곧 제공 예정</i></td>
-   <td><i>곧 제공 예정</i></td>
   </tr>
   <tr>
    <td> </td>
