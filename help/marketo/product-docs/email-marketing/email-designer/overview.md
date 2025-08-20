@@ -5,14 +5,14 @@ description: 새로운 Adobe Marketo Engage 이메일 Designer을 시작합니�
 title: 개요
 feature: Email Designer
 exl-id: d31ce148-1feb-411e-bd10-453a6c7878fb
-source-git-commit: 71c4f64bc7b39241a5d899ffcbd4d2cdf59c64d9
+source-git-commit: a9be6eb2285d592bef2e350396d6e6858e53266c
 workflow-type: tm+mt
-source-wordcount: '860'
-ht-degree: 0%
+source-wordcount: '859'
+ht-degree: 1%
 
 ---
 
-# 이메일 Designer 개요 {#overview}
+# 이메일 디자이너 개요 {#overview}
 
 새로운 Adobe Marketo Engage 이메일 Designer을 시작합니다.
 
@@ -34,7 +34,7 @@ ht-degree: 0%
 
    ![관리자의 왼쪽 탐색에서 새 전자 메일 Designer 선택](assets/overview-1.png){width="600" zoomable="yes"}
 
-1. **[!UICONTROL Add Users]**&#x200B;을(를) 클릭합니다.
+1. **[!UICONTROL Add Users]**&#x200B;를 클릭합니다.
 
    ![사용자 추가 단추](assets/overview-2.png){width="600" zoomable="yes"}
 

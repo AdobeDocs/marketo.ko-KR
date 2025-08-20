@@ -1,27 +1,27 @@
 ---
 solution: Marketo Engage
 product: marketo
-title: AI Assistant 사용
+title: AI 어시스턴트 사용
 description: Adobe의 생성 AI 기술을 활용하여 이메일에 유용한 텍스트 및/또는 이미지를 추가할 수 있습니다.
 level: Beginner, Intermediate
 feature: Email Designer
 exl-id: e07ed645-d8a3-483f-aa1f-f82bc9cb8634
-source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
+source-git-commit: a9be6eb2285d592bef2e350396d6e6858e53266c
 workflow-type: tm+mt
-source-wordcount: '734'
-ht-degree: 0%
+source-wordcount: '726'
+ht-degree: 1%
 
 ---
 
-# AI Assistant 사용 {#use-the-ai-assistant}
+# AI 어시스턴트 사용 {#use-ai-assistant}
 
-Marketo Engage 이메일 Designer의 AI 어시스턴트는 현대적이고 성능이 뛰어나며 직관적인 이메일을 만들 수 있도록 도와줍니다. 이는 특정 사용자/구매 그룹, 마케팅 여정 단계, 커뮤니케이션 전략, 톤 등에 적합한 콘텐츠를 만드는 데 도움이 되는 이미지 생성을 위해 Firefly과 함께 Adobe의 생성 AI 기술 및 프롬프트 라이브러리를 통해 수행됩니다. 특정 브랜드 자산을 활용하여 콘텐츠를 만들 수도 있습니다.
+Marketo Engage 이메일 Designer의 AI 어시스턴트는 현대적이고 성능이 뛰어나며 직관적인 이메일을 만들 수 있도록 지원합니다. 이는 특정 사용자/구매 그룹, 마케팅 여정 단계, 커뮤니케이션 전략, 톤 등에 적합한 콘텐츠를 만드는 데 도움이 되는 이미지 생성을 위해 Firefly과 함께 Adobe의 생성 AI 기술 및 프롬프트 라이브러리를 통해 수행됩니다. 특정 브랜드 자산을 활용하여 콘텐츠를 만들 수도 있습니다.
 
 >[!PREREQUISITES]
 >
 >AI Assistant는 기본적으로 활성화되어 있지 않습니다. 먼저 이메일 Designer에서 Gen-AI 기능을 사용하기 위한 핵심 Gen-AI 약관 및 보충 약관에 동의해야 합니다. 자세한 내용은 Adobe 계정 팀(계정 관리자)에 문의하십시오.
 
-AI Assistant에는 세 가지 주요 사용 사례가 있습니다.
+AI Assistant의 주요 사용 사례는 다음과 같이 세 가지가 있습니다.
 
 * 전자 메일에 대해 [제목 줄 만들기](#create-a-subject-line)
 * 전자 메일의 [특정 섹션에 대한 콘텐츠 만들기](#create-content-for-a-specific-section)
@@ -37,7 +37,7 @@ AI Assistant에는 세 가지 주요 사용 사례가 있습니다.
 
 ![](assets/use-the-ai-assistant-2.png)
 
-AI 도우미가 선택한 콘텐츠를 기반으로 새 콘텐츠를 개인화하려면 **참조 콘텐츠 사용** 옵션을 활성화하십시오.
+AI Assistant가 선택한 콘텐츠를 기반으로 새 콘텐츠를 개인화하려면 **참조 콘텐츠 사용** 옵션을 활성화하십시오.
 
 제목 줄을 사용자 지정하라는 메시지를 입력합니다. 적절한 제목 줄을 만들기 위해 관련 텍스트 설정을 입력하고 참조로 사용할 브랜드 에셋을 업로드합니다.
 
@@ -93,7 +93,7 @@ AI 도우미가 선택한 콘텐츠를 기반으로 새 콘텐츠를 개인화�
 
 ![](assets/use-the-ai-assistant-7.png)
 
-이 예제에서는 의료 템플릿을 사용하고 있습니다. 기존 헬스케어 전문가 이미지가 본인의 요구를 충족하지 못할 경우 AI 비서로 하여금 헬스케어 전문가 이미지를 직접 만들도록 지도할 수 있다. 이미지 콘텐츠를 선택한 다음 AI 도우미를 클릭하면 됩니다.
+이 예제에서는 의료 템플릿을 사용하고 있습니다. 기존 헬스케어 전문가 이미지가 본인의 요구를 충족하지 못할 경우 AI 비서로 하여금 헬스케어 전문가라는 이미지를 직접 만들도록 지시할 수 있다. 이미지 콘텐츠를 선택한 다음 AI 어시스턴트를 클릭하면 됩니다.
 
 ![](assets/use-the-ai-assistant-8.png)
 
