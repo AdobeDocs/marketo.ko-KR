@@ -4,9 +4,9 @@ user-guide-title: Marketo 안내서
 user-guide-description: Marketo 제품 설명서
 feature-set: Marketo Engage
 source-git-commit: 8101d9c73571948847d00dfc21f21c39bcd1d975
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '9300'
-ht-degree: 99%
+ht-degree: 100%
 
 ---
 
@@ -194,7 +194,7 @@ ht-degree: 99%
          + [FAQ](product-docs/administration/marketo-with-adobe-identity/faq.md)
          + [Adobe ID로 사용자 로그인](product-docs/administration/marketo-with-adobe-identity/user-sign-in-with-adobe-id.md)
          + 구독 및 사용자 마이그레이션 {#subscription-and-user-migration}
-            + [Adobe ID로 마이그레이션](product-docs/administration/marketo-with-adobe-identity/subscription-and-user-migration/migrating-to-adobe-identity.md)
+            + [Adobe Identity로 마이그레이션](product-docs/administration/marketo-with-adobe-identity/subscription-and-user-migration/migrating-to-adobe-identity.md)
             + [Marketo 구독 및 Adobe Admin Console로의 사용자 마이그레이션 이해](product-docs/administration/marketo-with-adobe-identity/subscription-and-user-migration/understanding-marketo-subscription-and-user-migration-to-the-adobe-admin-console.md)
             + [Marketo Engage 지원 마이그레이션](product-docs/administration/marketo-with-adobe-identity/subscription-and-user-migration/support-migration.md)
             + [문제 해결 안내서](product-docs/administration/marketo-with-adobe-identity/subscription-and-user-migration/troubleshooting.md)
@@ -1358,7 +1358,7 @@ ht-degree: 99%
       + 액션 {#actions}
          + [Sales Insight Actions 기능 개요](product-docs/marketo-sales-insight/actions/sales-insight-actions-feature-overview.md)
          + 시작하기 {#getting-started}
-            + [Sales Insight Actions 사용자 온보딩 가이드](product-docs/marketo-sales-insight/actions/getting-started/sales-insight-actions-user-onboarding-guide.md)
+            + [Sales Insight Actions 사용자 온보딩 안내서](product-docs/marketo-sales-insight/actions/getting-started/sales-insight-actions-user-onboarding-guide.md)
             + [Sales Insight Actions 사용자 온보딩 체크리스트](product-docs/marketo-sales-insight/actions/getting-started/sales-insight-actions-user-onboarding-checklist.md)
             + [Sales Insight Actions 관리자 설정 안내서](product-docs/marketo-sales-insight/actions/getting-started/sales-insight-actions-admin-setup-guide.md)
             + [Marketo Sales 암호 변경](product-docs/marketo-sales-insight/actions/getting-started/change-your-marketo-sales-password.md)
@@ -1969,7 +1969,7 @@ ht-degree: 99%
          + [릴리스 정보: 2025년 3월](release-notes/previous-releases/2025/release-notes-mar-25.md)
          + [릴리스 정보: 2025년 4월](release-notes/previous-releases/2025/release-notes-apr-25.md)
          + [릴리스 정보: 2025년 5월](release-notes/previous-releases/2025/release-notes-may-25.md)
-         + [릴리스 노트: 2025년 7월](release-notes/previous-releases/2025/release-notes-july-25.md)
+         + [릴리스 정보: 2025년 7월](release-notes/previous-releases/2025/release-notes-july-25.md)
       + 2024 {#2024}
          + [릴리스 정보: 2024년 1월](release-notes/previous-releases/2024/release-notes-jan-24.md)
          + [릴리스 정보: 2024년 3월](release-notes/previous-releases/2024/release-notes-mar-24.md)
