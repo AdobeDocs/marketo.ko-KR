@@ -4,10 +4,10 @@ description: 양식에서 필드 레이블 편집 - Marketo 문서 - 제품 설�
 title: 양식에서 필드 레이블 편집
 exl-id: e9820766-5424-4fb8-bf26-2d38eb5e64cb
 feature: Forms
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: e691c4cf62b0bc7843763512f0c2e56c656ad3e2
 workflow-type: tm+mt
-source-wordcount: '136'
-ht-degree: 1%
+source-wordcount: '111'
+ht-degree: 14%
 
 ---
 
@@ -17,30 +17,32 @@ ht-degree: 1%
 
 1. **[!UICONTROL Marketing Activities]**(으)로 이동합니다.
 
-   ![](assets/login-marketing-activities-3.png)
+   ![](assets/edit-a-field-label-in-a-form-1.png)
 
-1. 양식을 선택하고 **[!UICONTROL Edit Form]**&#x200B;을(를) 클릭합니다.
+1. 양식을 선택하고 **[!UICONTROL Create draft]**&#x200B;을(를) 클릭합니다.
 
-   ![](assets/image2014-9-15-17-3a26-3a27.png)
+   ![](assets/edit-a-field-label-in-a-form-2.png)
+
+   >[!NOTE]
+   >
+   >양식이 아직 승인되지 않은 경우 **초안 편집**&#x200B;을 클릭하세요.
 
 1. 필드를 선택한 다음 **[!UICONTROL Label]**&#x200B;을(를) 편집합니다. 양식 설정의 필드에 입력한 레이블이 반영됩니다.
 
-   ![](assets/image2014-9-15-17-3a26-3a42.png)
+   ![](assets/edit-a-field-label-in-a-form-3.png)
 
    >[!TIP]
    >
-   >자세히 알아보려면 ![연필](assets/image2014-9-15-17-3a27-3a7.png)을 클릭하세요. 이렇게 하면 리치 텍스트 편집기가 열리고 이미지, 링크 등이 포함된 타운으로 이동할 수 있습니다!
+   >리치 텍스트 편집기에 액세스하려면 ![연필](assets/icon-pencil.png) 아이콘을 클릭하십시오.
 
-1. **[!UICONTROL Finish]**&#x200B;을(를) 클릭합니다.
+1. **[!UICONTROL Finish]**&#x200B;를 클릭합니다.
 
-   ![](assets/image2014-9-15-17-3a27-3a26.png)
+   ![](assets/edit-a-field-label-in-a-form-4.png)
 
-1. **[!UICONTROL Approve and Close]**&#x200B;을(를) 클릭합니다.
+1. **[!UICONTROL Approve and Close]**&#x200B;를 클릭합니다.
 
-   ![](assets/image2014-9-15-17-3a27-3a44.png)
+   ![](assets/edit-a-field-label-in-a-form-5.png)
 
 >[!NOTE]
 >
->양식을 변경하여 만든 [랜딩 페이지 초안 승인](/help/marketo/product-docs/demand-generation/landing-pages/understanding-landing-pages/approve-unapprove-or-delete-a-landing-page.md)을 잊지 마십시오.
-
-여기 있습니다! 여러분은 조금씩 양식 디자이너 챔피언이 되고 있습니다.
+>양식을 변경하여 만든 [랜딩 페이지 초안 승인](/help/marketo/product-docs/demand-generation/landing-pages/understanding-landing-pages/approve-unapprove-or-delete-a-landing-page.md){target="_blank"}을 잊지 마십시오.
