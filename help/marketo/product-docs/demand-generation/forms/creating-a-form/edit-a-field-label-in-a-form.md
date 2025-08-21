@@ -4,9 +4,9 @@ description: 양식에서 필드 레이블 편집 - Marketo 문서 - 제품 설�
 title: 양식에서 필드 레이블 편집
 exl-id: e9820766-5424-4fb8-bf26-2d38eb5e64cb
 feature: Forms
-source-git-commit: e691c4cf62b0bc7843763512f0c2e56c656ad3e2
+source-git-commit: 2c753680f5c0087bf47d53e44106a4f20fdcefc9
 workflow-type: tm+mt
-source-wordcount: '111'
+source-wordcount: '110'
 ht-degree: 14%
 
 ---
@@ -25,7 +25,7 @@ ht-degree: 14%
 
    >[!NOTE]
    >
-   >양식이 아직 승인되지 않은 경우 **초안 편집**&#x200B;을 클릭하세요.
+   >양식이 승인되지 않은 경우 **초안 편집**&#x200B;을 클릭하세요.
 
 1. 필드를 선택한 다음 **[!UICONTROL Label]**&#x200B;을(를) 편집합니다. 양식 설정의 필드에 입력한 레이블이 반영됩니다.
 
