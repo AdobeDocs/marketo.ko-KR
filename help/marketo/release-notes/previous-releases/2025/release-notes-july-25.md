@@ -3,9 +3,9 @@ description: 릴리스 노트 - 2025년 7월 - Marketo 설명서 - 제품 설명
 title: 릴리스 노트 - 2025년 7월
 feature: Release Information
 exl-id: 86776722-c640-4e55-9551-38ff34de566b
-source-git-commit: ab880e2499ed34eb15fd656b5b4eae0635a6e012
+source-git-commit: bd1179a632c0363d62e262cb153b8f83dc0bfbf5
 workflow-type: tm+mt
-source-wordcount: '691'
+source-wordcount: '714'
 ht-degree: 98%
 
 ---
@@ -32,6 +32,16 @@ Adobe Dynamic Chat에 대한 릴리스 정보는 [여기에서 확인](/help/mar
    <th style="width:25%">설명서</th>
   </tr>
   <tr>
+   <td><strong>이메일 디자이너 - GenStudio 통합</strong>: 이메일 내에서 GenStudio를 통합하여 마케팅 효율성을 높이고 브랜드 일관성을 유지합니다.</td>
+   <td>출시됨</td>
+   <td><a href="/help/marketo/product-docs/email-marketing/email-designer/genstudio.md">Marketo Engage용 GenStudio 통합</a></td>
+  </tr>
+  <tr>
+   <td> </td>
+   <td> </td>
+   <td> </td>
+  </tr>
+  <tr>
    <td><strong>이메일 디자이너 - 사용자 정의 CSS</strong>: 이메일을 디자인할 때 이제 이메일 디자이너 내에서 직접 사용자 정의 CSS를 추가할 수 있습니다.</td>
    <td>출시됨</td>
    <td><a href="/help/marketo/product-docs/email-marketing/email-designer/custom-css.md">이메일 콘텐츠에 사용자 정의 CSS 추가</a></td>
@@ -44,7 +54,7 @@ Adobe Dynamic Chat에 대한 릴리스 정보는 [여기에서 확인](/help/mar
   <tr>
    <td><strong>이메일 디자이너 - SpamAssassin으로 스팸 감지</strong>: Marketo Engage에서 SpamAssassin을 사용하여 이메일 콘텐츠를 테스트하고 ISP/메일함 제공업체에서 스팸으로 표시할 가능성을 확인할 수 있습니다.</td>
    <td>출시됨</td>
-   <td><a href="/help/marketo/product-docs/email-marketing/email-designer/spam-report.md">이메일 콘텐츠에 사용자 정의 CSS 추가</a></td>
+   <td><a href="/help/marketo/product-docs/email-marketing/email-designer/spam-report.md">이메일 스팸 신고</a></td>
   </tr>
   <tr>
    <td> </td>

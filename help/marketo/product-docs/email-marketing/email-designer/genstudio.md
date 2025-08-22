@@ -1,23 +1,28 @@
 ---
 title: Marketo Engage용 GenStudio 통합
 description: Marketo Engage에서 GenStudio을 사용하는 방법을 알아봅니다.
-hide: true
-hidefromtoc: true
 solution: Marketo Engage
 product: marketo
 level: Beginner, Intermediate
 feature: Email Designer
 exl-id: bb15b18e-9a17-4dee-87f4-12f216dd3545
-source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
+source-git-commit: bd1179a632c0363d62e262cb153b8f83dc0bfbf5
 workflow-type: tm+mt
-source-wordcount: '346'
-ht-degree: 0%
+source-wordcount: '395'
+ht-degree: 3%
 
 ---
 
 # Marketo Engage용 GenStudio 통합 {#genstudio-integration-for-marketo-engage}
 
 Adobe GenStudio for Performance Marketing은 고유한 광고 및 이메일을 만들어 브랜드 표준을 충족하고 엔터프라이즈 정책을 준수하는 영향력 있고 개인화된 마케팅 캠페인을 추진할 수 있는 생성 가능한 AI 우선 애플리케이션입니다. 컨텐츠 작성의 복잡성을 간소화하는 다양한 도구를 제공합니다.
+
+>[!AVAILABILITY]
+>
+>이 기능을 활용하려면 다음 작업을 수행하십시오.
+>
+>* IMS 조직은 Marketo Engage과 동일한 IMS 조직에서 GenStudio for Performance Marketing으로 프로비저닝되어야 합니다(자세한 내용은 계정 관리자에게 문의)
+>* GenStudio for Performance Marketing(시스템 관리자, 편집자 또는 공동 작업자 제품 프로필)에 대한 사용자 권한이 있어야 합니다.
 
 >[!INFO]
 >
@@ -37,9 +42,9 @@ Adobe GenStudio for Performance Marketing은 고유한 광고 및 이메일을 �
 
    ![HTML 내보내기](assets/genstudio-integration-1.png)
 
-1. [내보낸 템플릿을 HTMLGenStudio for Performance Marketing 에 업로드](https://experienceleague.adobe.com/ko/docs/genstudio-for-performance-marketing/user-guide/content/templates/use-templates#templates-from-ajo-and-marketo){target="_blank"}합니다.
+1. [내보낸 템플릿을 HTMLGenStudio for Performance Marketing 에 업로드](https://experienceleague.adobe.com/en/docs/genstudio-for-performance-marketing/user-guide/content/templates/use-templates#templates-from-ajo-and-marketo){target="_blank"}합니다.
 
-1. GenStudio에서 이 템플릿을 사용하여 AI 프롬프트가 있는 [여러 개의 이메일 변형을 만들고](https://experienceleague.adobe.com/ko/docs/genstudio-for-performance-marketing/user-guide/create/create-email-experience){target="_blank"}을(를) 저장합니다.
+1. GenStudio에서 이 템플릿을 사용하여 AI 프롬프트가 있는 [여러 개의 이메일 변형을 만들고](https://experienceleague.adobe.com/en/docs/genstudio-for-performance-marketing/user-guide/create/create-email-experience){target="_blank"}을(를) 저장합니다.
 
 ## Marketo Engage에서 GenStudio 경험 활용 {#leverage-genstudio-experiences}
 
