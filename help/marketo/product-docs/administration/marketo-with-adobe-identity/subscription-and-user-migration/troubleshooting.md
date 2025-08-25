@@ -3,9 +3,9 @@ description: Adobe IMS 사용자 마이그레이션 문제 해결 안내서 - Ma
 title: Adobe IMS 사용자 마이그레이션 문제 해결 안내서
 feature: Marketo with Adobe Identity
 exl-id: 921d9d45-c5c2-405c-bd3b-be8aa6d11e2f
-source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
+source-git-commit: 5d6269ca9b229311ed4260d5340aad6cd1ea0067
 workflow-type: tm+mt
-source-wordcount: '877'
+source-wordcount: '1017'
 ht-degree: 0%
 
 ---
@@ -34,7 +34,7 @@ IMS 사용자 마이그레이션 프로세스 중에 Adobe 사용자는 마이�
 
 _사용자를 마이그레이션해야 하는 경우_ - Adobe 보안 정책을 준수하고 다시 확인하려면 Marketo Engage에서 전자 메일 주소를 업데이트해야 합니다. Marketo 관리자를 사용하여 마이그레이션 콘솔에서 이 사용자에 대한 사용자 마이그레이션을 다시 실행하십시오.
 
-_사용자가&#x200B;**not**&#x200B;인 경우 마이그레이션해야 합니다_ - Marketo Engage 관리자가 마이그레이션 콘솔에서 사용자를 건너뜁니다. 마이그레이션 또는 건너뛰기로 모든 사용자를 고려할 때 &quot;마이그레이션 완료&quot; 버튼이 표시됩니다. 버튼을 클릭하여 사용자 마이그레이션 프로세스를 완료합니다.
+_사용자가&#x200B;**not**인 경우 마이그레이션해야 합니다_ - Marketo Engage 관리자가 마이그레이션 콘솔에서 사용자를 건너뜁니다. 마이그레이션 또는 건너뛰기로 모든 사용자를 고려할 때 &quot;마이그레이션 완료&quot; 버튼이 표시됩니다. 버튼을 클릭하여 사용자 마이그레이션 프로세스를 완료합니다.
 
 ### 사용자가 디렉터리에 없음 {#user-not-in-directory}
 
@@ -44,7 +44,7 @@ _사용자가&#x200B;**not**&#x200B;인 경우 마이그레이션해야 합니�
 
 _사용자를 마이그레이션해야 하는 경우_ - 시스템 관리자가 적절한 사용 권한을 가진 Active Directory에 사용자를 추가해야 합니다. Marketo Engage 관리자를 사용하여 마이그레이션 콘솔에서 이 사용자에 대한 사용자 마이그레이션을 다시 실행하십시오.
 
-_사용자가&#x200B;**not**&#x200B;인 경우 마이그레이션해야 합니다_ - Marketo Engage 관리자가 마이그레이션 콘솔에서 사용자를 건너뜁니다. 마이그레이션 또는 건너뛰기로 모든 사용자를 고려할 때 &quot;마이그레이션 완료&quot; 버튼이 표시됩니다. 버튼을 클릭하여 사용자 마이그레이션 프로세스를 완료합니다.
+_사용자가&#x200B;**not**인 경우 마이그레이션해야 합니다_ - Marketo Engage 관리자가 마이그레이션 콘솔에서 사용자를 건너뜁니다. 마이그레이션 또는 건너뛰기로 모든 사용자를 고려할 때 &quot;마이그레이션 완료&quot; 버튼이 표시됩니다. 버튼을 클릭하여 사용자 마이그레이션 프로세스를 완료합니다.
 
 ### 비활성 사용자 {#inactive-user}
 
@@ -54,7 +54,7 @@ _사용자가&#x200B;**not**&#x200B;인 경우 마이그레이션해야 합니�
 
 _사용자를 마이그레이션해야 하는 경우_ - 시스템 관리자가 사용자의 상태와 적절한 사용 권한을 복원해야 합니다. Marketo Engage 관리자를 사용하여 마이그레이션 콘솔에서 이 사용자에 대한 사용자 마이그레이션을 다시 실행하십시오.
 
-_사용자가&#x200B;**not**&#x200B;인 경우 마이그레이션해야 합니다_ - Marketo Engage 관리자가 마이그레이션 콘솔에서 사용자를 건너뜁니다. 마이그레이션 또는 건너뛰기로 모든 사용자를 고려할 때 &quot;마이그레이션 완료&quot; 버튼이 표시됩니다. 버튼을 클릭하여 사용자 마이그레이션 프로세스를 완료합니다.
+_사용자가&#x200B;**not**인 경우 마이그레이션해야 합니다_ - Marketo Engage 관리자가 마이그레이션 콘솔에서 사용자를 건너뜁니다. 마이그레이션 또는 건너뛰기로 모든 사용자를 고려할 때 &quot;마이그레이션 완료&quot; 버튼이 표시됩니다. 버튼을 클릭하여 사용자 마이그레이션 프로세스를 완료합니다.
 
 ### 잘못된 도메인 {#invalid-domain}
 
@@ -62,11 +62,11 @@ _사용자가&#x200B;**not**&#x200B;인 경우 마이그레이션해야 합니�
 
 **해상도**:
 
-_사용자를 마이그레이션해야 하는 경우_(및 마이그레이션하는 조직에서 도메인 집행을 사용할 수 있는 경우) - DE(도메인 시행) 정책을 준수하려면 Marketo Engage에서 전자 메일 주소를 업데이트해야 합니다. 또는 시스템 관리자가 [도메인을 다른 DE(Domain Enforcement) 사용 안 함 디렉터리로 이동](https://helpx.adobe.com/kr/enterprise/using/manage-domains-directories.html#move-domains-across-directories){target="_blank"}하거나 DE 정책에 없는 [새 디렉터리를 만들기](https://helpx.adobe.com/kr/enterprise/using/set-up-identity.html){target="_blank"}할 수 있습니다. Marketo Engage 관리자를 사용하여 마이그레이션 콘솔에서 이 사용자에 대한 사용자 마이그레이션을 다시 실행하십시오.
+_사용자를 마이그레이션해야 하는 경우_(및 마이그레이션하는 조직에서 도메인 집행을 사용할 수 있는 경우) - DE(도메인 시행) 정책을 준수하려면 Marketo Engage에서 전자 메일 주소를 업데이트해야 합니다. 또는 시스템 관리자가 [도메인을 다른 DE(Domain Enforcement) 사용 안 함 디렉터리로 이동](https://helpx.adobe.com/enterprise/using/manage-domains-directories.html#move-domains-across-directories){target="_blank"}하거나 DE 정책에 없는 [새 디렉터리를 만들기](https://helpx.adobe.com/kr/enterprise/using/set-up-identity.html){target="_blank"}할 수 있습니다. Marketo Engage 관리자를 사용하여 마이그레이션 콘솔에서 이 사용자에 대한 사용자 마이그레이션을 다시 실행하십시오.
 
 _사용자를 마이그레이션해야 하는 경우_(다른 조직에서 도메인 집행을 사용할 수 있음) - 도메인이 요청된 조직의 시스템 관리자가 예외 목록에 사용자의 전자 메일 주소를 추가해야 합니다. Marketo Engage 관리자를 사용하여 마이그레이션 콘솔에서 이 사용자에 대한 사용자 마이그레이션을 다시 실행하십시오.
 
-_사용자가&#x200B;**not**&#x200B;인 경우 마이그레이션해야 합니다_ - Marketo Engage 관리자가 마이그레이션 콘솔에서 사용자를 건너뜁니다. 마이그레이션 또는 건너뛰기로 모든 사용자를 고려할 때 &quot;마이그레이션 완료&quot; 버튼이 표시됩니다. 버튼을 클릭하여 사용자 마이그레이션 프로세스를 완료합니다.
+_사용자가&#x200B;**not**인 경우 마이그레이션해야 합니다_ - Marketo Engage 관리자가 마이그레이션 콘솔에서 사용자를 건너뜁니다. 마이그레이션 또는 건너뛰기로 모든 사용자를 고려할 때 &quot;마이그레이션 완료&quot; 버튼이 표시됩니다. 버튼을 클릭하여 사용자 마이그레이션 프로세스를 완료합니다.
 
 ### Type2E 실패 {#type2e-failure}
 
@@ -78,15 +78,42 @@ _사용자가&#x200B;**not**&#x200B;인 경우 마이그레이션해야 합니�
 1. 이 사용자에 대해 페더레이션 사용자 계정이 생성되도록 사용자 마이그레이션을 다시 실행하십시오.
 1. 이전에 액세스한 제품에 사용자를 다시 추가합니다.
 
+### Pendo 마이그레이션 실패 {#pendo-migration-failed}
+
+**근본 원인**: 사용자의 페더레이션 계정이 비활성/비활성화되었거나 AD(Active Directory)에서 누락되었습니다.
+
+**해상도**:
+
+_사용자를 마이그레이션해야 하는 경우_
+
+1. 시스템 관리자는 사용자의 계정 상태 및 권한을 복원해야 합니다.
+
+1. AD 동기화가 있는 SSO 조직의 경우:
+
+   * ID 공급자(IdP)를 통해 사용자를 만듭니다.
+   * 사용자 데이터를 AD와 동기화합니다.
+
+1. SSO/AD 동기화가 없는 조직의 경우:
+
+   * 상태를 복원하려면 관리 계정을 다시 만드십시오.
+   * 조직 관리자는 역할 및 권한을 재할당해야 합니다.
+
+1. Marketo Engage 관리자는 마이그레이션 콘솔에서 마이그레이션을 다시 실행합니다.
+
+1. 콘솔에 액세스할 수 없는 경우 [Marketo 지원](https://nation.marketo.com/t5/support/ct-p/Support)에 문의하여 마이그레이션을 다시 실행하십시오.
+
+_사용자가&#x200B;**없는 경우**마이그레이션해야 함_
+
+* Marketo Engage 관리자는 마이그레이션 콘솔에서 사용자를 건너뜁니다.
+* 모든 사용자가 마이그레이션되거나 건너뛴 후 **[!UICONTROL Migration Complete]**&#x200B;을(를) 클릭하여 완료하십시오.
+* 오류가 지속되면 관련 세부 정보가 포함된 지원 사례를 [Marketo 지원](https://nation.marketo.com/t5/support/ct-p/Support)에 제출하십시오.
+
+
 ### 사용자 생성 실패 {#user-creation-failed}
 
 [아래 참조](#failed)
 
 ### Marketo 권한 부여 실패 {#marketo-entitlement-failed}
-
-[아래 참조](#failed)
-
-### Pendo 마이그레이션 실패 {#pendo-migration-failed}
 
 [아래 참조](#failed)
 
