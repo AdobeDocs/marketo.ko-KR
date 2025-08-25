@@ -22,8 +22,8 @@ ht-degree: 12%
 >[!NOTE]
 >
 >이 기능은 Marketo Engage IP 기반 로그인 제한 사항( Admin Console의 IP 액세스 목록*으로 대체됨)과 독립적으로 작동하며 [Adobe IMS 마이그레이션](/help/marketo/product-docs/administration/marketo-with-adobe-identity/adobe-identity-management-overview.md) 후에도 계속 작동합니다.
->> 
->>&#42;IP 액세스 목록의 일반 가용성은 2025년 4분기에 예정되어 있습니다.
+>&#x200B;> 
+>&#x200B;>&#42;IP 액세스 목록의 일반 가용성은 2025년 4분기에 예정되어 있습니다.
 
 1. **[!UICONTROL Admin]** 영역으로 이동합니다.
 
