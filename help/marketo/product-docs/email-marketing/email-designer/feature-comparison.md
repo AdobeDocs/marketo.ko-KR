@@ -7,10 +7,10 @@ level: Beginner, Intermediate
 feature: Email Designer
 role: User
 exl-id: 37b42418-1733-447f-bab0-e1d461ef8110
-source-git-commit: 21bcdc10fe1f3517612efe0f8e2adaf2f4411a70
+source-git-commit: 0954e315b215de49edbb96c08dd9ff27be64e423
 workflow-type: tm+mt
-source-wordcount: '913'
-ht-degree: 9%
+source-wordcount: '892'
+ht-degree: 10%
 
 ---
 
@@ -107,7 +107,7 @@ ht-degree: 9%
     <td>사용 가능</td>
   </tr>
   <tr>
-    <td>컨텐츠 잠금</td>
+    <td>콘텐츠 잠금</td>
     <td>전자 메일을 만들 때 수정할 수 없도록 전자 메일 템플릿에서 <a href="/help/marketo/product-docs/email-marketing/email-designer/content-locking.md" target="_blank">콘텐츠를 잠금</a>하는 기능입니다.</td>
     <td>사용할 수 없음</td>
     <td>사용 가능</td>
@@ -177,6 +177,17 @@ ht-degree: 9%
     <td><a href="/help/marketo/product-docs/email-marketing/email-designer/test-email-rendering.md" target="_blank">Litmus와 통합</a>하여 이메일이 다양한 이메일 클라이언트에서 어떻게 렌더링되는지 확인할 수 있습니다.</td>
     <td>사용할 수 없음</td>
     <td>사용 가능</td>
+    <tr>
+    <td>GenStudio과 통합</td>
+    <td><a href="/help/marketo/product-docs/email-marketing/email-designer/genstudio.md">GenStudio과 통합</a>할 수 있습니다.</td>
+    <td>사용할 수 없음</td>
+    <td>사용 가능</td>
+  </tr>
+  <tr>
+    <td>Spam Assassin 통합</td>
+    <td>게재 전에 <a href="/help/marketo/product-docs/email-marketing/email-designer/spam-report.md">스팸으로 표시된 전자 메일의 가능성을 감지</a>하는 기능.</td>
+    <td>사용할 수 없음</td>
+    <td>사용 가능</td>
   </tr>
   <tr>
     <td>Personalization 편집기</td>
@@ -227,12 +238,6 @@ ht-degree: 9%
     <td>준비 중</td>
   </tr>
   <tr>
-    <td>Gen Studio와의 통합</td>
-    <td>Gen Studio와 통합할 수 있습니다.</td>
-    <td>사용할 수 없음</td>
-    <td>준비 중</td>
-  </tr>
-  <tr>
     <td>이메일 에셋이 있는 프로그램의 이동, 삭제 및 가져오기 지원</td>
     <td>이메일 에셋과 함께 이메일 프로그램을 이동, 삭제 및 가져올 수 있습니다.</td>
     <td>사용 가능</td>
@@ -254,23 +259,11 @@ ht-degree: 9%
     <td>Velocity 스크립팅</td>
     <td>이메일에서 Velocity 스크립팅을 사용하는 기능.</td>
     <td>사용 가능</td>
-    <td>필요 없음</td>
-  </tr>
-   <tr>
-    <td>핸들바 스크립팅</td>
-    <td>이메일에서 핸들바 스크립팅을 사용하는 기능.</td>
-    <td>사용할 수 없음</td>
-    <td>2025년 3분기 계획</td>
+    <td>준비 중</td>
   </tr>
   <tr>
     <td>브랜드 키트</td>
     <td>브랜드 지침을 반영하여 이메일을 개선할 수 있습니다.</td>
-    <td>사용할 수 없음</td>
-    <td>2025년 3분기 계획</td>
-  </tr>
-  <tr>
-    <td>Spam Assassin 통합</td>
-    <td>게재 전 이메일이 스팸으로 표시될 가능성을 감지하는 기능.</td>
     <td>사용할 수 없음</td>
     <td>2025년 3분기 계획</td>
   </tr>
