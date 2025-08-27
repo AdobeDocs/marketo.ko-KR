@@ -1,17 +1,19 @@
 ---
 unique-page-id: 2359718
 description: 자유 형식 랜딩 페이지에 소셜 단추 추가 - Marketo 문서 - 제품 설명서
-title: 자유 형식 랜딩 페이지에 소셜 단추 추가
+title: 자유 형식 랜딩 페이지에 소셜 버튼 추가
 exl-id: 36e19771-e038-4c7d-ac8b-561c5480722f
+hide: true
+hidefromtoc: true
 feature: Landing Pages
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 9b779bc767b1bda058a9040035e8ca21ccd53e8d
 workflow-type: tm+mt
 source-wordcount: '225'
-ht-degree: 0%
+ht-degree: 8%
 
 ---
 
-# 자유 형식 랜딩 페이지에 소셜 단추 추가 {#add-a-social-button-to-a-free-form-landing-page}
+# 자유 형식 랜딩 페이지에 소셜 버튼 추가 {#add-a-social-button-to-a-free-form-landing-page}
 
 소셜 버튼은 사람들이 친구들과 콘텐츠를 공유하도록 장려합니다. 자유 형식의 랜딩 페이지, Facebook 및 웹 사이트에 드롭하십시오.
 
