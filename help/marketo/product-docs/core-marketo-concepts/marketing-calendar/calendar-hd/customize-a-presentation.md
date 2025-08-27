@@ -1,24 +1,24 @@
 ---
 unique-page-id: 7503973
 description: 프레젠테이션 사용자 지정 - Marketo 문서 - 제품 설명서
-title: 프레젠테이션 사용자 지정
+title: 프레젠테이션 사용자 정의
 exl-id: c871afb9-9762-498d-b168-cfce4ef05736
 feature: Marketing Calendar
-source-git-commit: 2671f81f62658447e4b2a3dc2e02a4e0927443e8
+source-git-commit: 0c0dd3355f979577ec194f9e8f935615515905c0
 workflow-type: tm+mt
-source-wordcount: '294'
-ht-degree: 0%
+source-wordcount: '284'
+ht-degree: 2%
 
 ---
 
-# 프레젠테이션 사용자 지정 {#customize-a-presentation}
+# 프레젠테이션 사용자 정의 {#customize-a-presentation}
 
 팀에 가장 중요한 목표와 활동을 반영하도록 달력 프레젠테이션을 설정하십시오.
 
 >[!AVAILABILITY]
 >
 >
->일부 Marketo Engage 사용자가 이 기능을 구입한 것은 아닙니다. 자세한 내용은 Adobe 계정 팀(계정 관리자)에 문의하십시오.
+>모든 Marketo Engage 사용자가 이 기능을 구입한 것은 아닙니다. 자세한 내용은 Adobe 계정 팀(계정 관리자)에 문의하십시오.
 
 >[!PREREQUISITES]
 >
@@ -28,7 +28,7 @@ ht-degree: 0%
 
 ## 뷰 선택 {#choosing-the-views}
 
-Presentations은 사용자가 선택한 다른 [필터 정의](/help/marketo/product-docs/core-marketo-concepts/marketing-calendar/working-with-the-calendar/filtering-the-marketing-calendar.md){target="_blank"}를 순환합니다. 원하는 만큼 보기를 가져오고 빈도를 사용자 지정합니다.
+프레젠테이션은 사용자가 선택한 다른 [필터 정의](/help/marketo/product-docs/core-marketo-concepts/marketing-calendar/working-with-the-calendar/filtering-the-marketing-calendar.md){target="_blank"}를 순환합니다. 원하는 만큼 보기를 가져오고 빈도를 사용자 지정합니다.
 
 1. 오른쪽 트리에서 프레젠테이션에서 회전할 다른 보기를 드래그합니다.
 
@@ -36,7 +36,7 @@ Presentations은 사용자가 선택한 다른 [필터 정의](/help/marketo/pro
 
 ## 목표 추가 {#add-a-goal}
 
-Presentations은 팀 목표를 표시할 때 가장 멋진 팀입니다. 다른 [사용자 지정 목표](/help/marketo/product-docs/core-marketo-concepts/marketing-calendar/calendar-hd/create-a-custom-goal.md){target="_blank"} 또는 [스마트 목록 목표](/help/marketo/product-docs/core-marketo-concepts/marketing-calendar/calendar-hd/create-a-smart-list-goal.md){target="_blank"} 위로 드래그하기만 하면 됩니다. 최대 10개까지 사용할 수 있습니다.
+프레젠테이션은 팀 목표를 표시할 때 가장 멋집니다. 다른 [사용자 지정 목표](/help/marketo/product-docs/core-marketo-concepts/marketing-calendar/calendar-hd/create-a-custom-goal.md){target="_blank"} 또는 [스마트 목록 목표](/help/marketo/product-docs/core-marketo-concepts/marketing-calendar/calendar-hd/create-a-smart-list-goal.md){target="_blank"} 위로 드래그하기만 하면 됩니다. 최대 10개까지 사용할 수 있습니다.
 
 1. 오른쪽 트리에서 프레젠테이션에 표시할 다른 목표를 드래그합니다.
 
@@ -44,17 +44,17 @@ Presentations은 팀 목표를 표시할 때 가장 멋진 팀입니다. 다른 
 
 ## 회전 빈도 설정 {#set-the-frequency-of-rotation}
 
-프레젠테이션에서 원하는 보기를 가져왔으면 다른 보기 간에 회전하는 빈도를 설정합니다.
+프레젠테이션에서 원하는 보기를 가져온 후에는 서로 다른 보기 사이에서 회전하는 빈도를 설정하십시오.
 
-1. **[!UICONTROL 5분]**&#x200B;을 클릭합니다(기본 케이던스).
+1. **[!UICONTROL 5 minutes]**&#x200B;을(를) 클릭합니다(기본 케이던스).
 
    ![](assets/image2015-3-18-13-3a17-3a29.png)
 
-1. 분을 사용하여 시간을 입력합니다. **[!UICONTROL 저장]**&#x200B;을 클릭합니다.
+1. 분을 사용하여 시간을 입력합니다. **[!UICONTROL Save]**&#x200B;를 클릭합니다.
 
    >[!NOTE]
    >
-   >**[!UICONTROL 회전 사용 안 함]**&#x200B;을(를) 선택하여 하나의 정적 보기를 표시합니다.
+   >**[!UICONTROL Disable Rotation]**&#x200B;을(를) 확인하여 하나의 정적 보기를 표시합니다.
 
    ![](assets/image2015-3-18-13-3a22-3a18.png)
 
@@ -62,7 +62,7 @@ Presentations은 팀 목표를 표시할 때 가장 멋진 팀입니다. 다른 
 
 달력 표시를 3주 또는 월별 보기로 변경할 수 있습니다.
 
-1. **[!UICONTROL 일정 표시]** 드롭다운을 선택하고 **[!UICONTROL 3주]** 또는 **[!UICONTROL 월]** 중에서 선택하십시오.
+1. **[!UICONTROL Calendar Display]** 드롭다운을 선택하고 **[!UICONTROL 3 weeks]** 또는 하나의 **[!UICONTROL Month]** 중에서 선택합니다.
 
    ![](assets/image2015-3-18-13-3a27-3a37.png)
 
@@ -76,7 +76,7 @@ Presentations은 팀 목표를 표시할 때 가장 멋진 팀입니다. 다른 
 
 프레젠테이션을 구성하고 나면 미리 보고 시작할 준비가 되었습니다.
 
-1. **[!UICONTROL 미리 보기]**&#x200B;를 선택합니다.
+1. **[!UICONTROL Preview]**&#x200B;를 선택합니다.
 
    ![](assets/image2015-3-18-13-3a37-3a55.png)
 

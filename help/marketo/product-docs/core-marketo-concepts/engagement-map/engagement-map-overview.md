@@ -2,10 +2,10 @@
 description: Engagement Map 개요 - Marketo 문서 - 제품 설명서
 title: 참여 맵 개요
 exl-id: 01cb283d-06c2-4a99-86a9-39dea9550c08
-source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
+source-git-commit: 0c0dd3355f979577ec194f9e8f935615515905c0
 workflow-type: tm+mt
-source-wordcount: '750'
-ht-degree: 0%
+source-wordcount: '742'
+ht-degree: 1%
 
 ---
 
@@ -25,15 +25,15 @@ ht-degree: 0%
 
 ![](assets/engagement-map-overview-2.png)
 
-참여 맵에 두 개의 탭이 표시됩니다. [참여 맵](/help/marketo/product-docs/core-marketo-concepts/engagement-map/engagement-map-tab.md){target="_blank"} 및 [설정](/help/marketo/product-docs/core-marketo-concepts/engagement-map/settings-tab.md){target="_blank"}.
+참여 맵에는 [참여 맵](/help/marketo/product-docs/core-marketo-concepts/engagement-map/engagement-map-tab.md){target="_blank"} 및 [설정](/help/marketo/product-docs/core-marketo-concepts/engagement-map/settings-tab.md){target="_blank"}의 두 가지 탭이 있습니다.
 
 ![](assets/engagement-map-overview-3.png)
 
 ## 카드 설명 {#card-descriptions}
 
-**트리거**: 트리거가 포함된 캠페인에서는 맵에 &quot;트리거 개요&quot; 카드가 있습니다. 이 아이콘을 클릭하면 각 트리거에 대한 카드와 추가 정보가 있는 슬라이드 아웃 패널이 표시됩니다.
+**트리거**: 트리거가 포함된 캠페인에서 맵에 &quot;트리거 개요&quot; 카드가 있습니다. 이 아이콘을 클릭하면 각 트리거에 대한 카드와 추가 정보가 있는 슬라이드 아웃 패널이 표시됩니다.
 
-**필터**: 필터가 포함된 캠페인에서는 맵에 필터 개요 카드가 포함됩니다. 클릭하면 각 필터에 대한 추가 정보가 있는 슬라이드 아웃 패널이 표시됩니다.
+**필터**: 필터가 포함된 캠페인에서 맵에 필터 개요 카드가 포함되어 있습니다. 이 패널을 클릭하면 각 필터에 대한 추가 정보가 있는 슬라이드 아웃 패널이 표시됩니다.
 
 **흐름 단계**: 각 캠페인에는 각 흐름 단계에 대한 카드가 포함됩니다. 클릭하면 추가 정보가 있는 슬라이드 아웃 패널이 표시됩니다.
 

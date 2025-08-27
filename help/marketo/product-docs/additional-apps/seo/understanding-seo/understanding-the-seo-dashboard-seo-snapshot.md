@@ -4,10 +4,10 @@ description: SEO 대시보드 이해 -SEO 스냅샷 - Marketo 문서 - 제품 �
 title: SEO 대시보드 이해 - SEO 스냅샷
 exl-id: 59ff940f-368c-4e71-9e1f-a6f959811841
 feature: SEO
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 0c0dd3355f979577ec194f9e8f935615515905c0
 workflow-type: tm+mt
-source-wordcount: '239'
-ht-degree: 0%
+source-wordcount: '237'
+ht-degree: 3%
 
 ---
 
@@ -61,7 +61,7 @@ SEO 작업 개선을 위해 집중해야 할 사항을 알아보려면 이 대�
 
 ![](assets/image2014-9-17-21-3a37-3a1.png)
 
-이제 이 대시보드의 [!UICONTROL Recommendations] 섹션을 확인해 보겠습니다.
+이 대시보드의 [!UICONTROL Recommendations] 섹션을 확인하십시오.
 
 >[!MORELIKETHIS]
 >

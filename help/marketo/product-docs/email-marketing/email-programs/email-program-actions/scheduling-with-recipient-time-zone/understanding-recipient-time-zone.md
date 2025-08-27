@@ -4,10 +4,10 @@ description: 수신자 시간대 이해 - Marketo 문서 - 제품 설명서
 title: 수신자 시간대 이해
 exl-id: 8895241e-94c9-43a2-9158-11c1994df09b
 feature: Email Programs
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 0c0dd3355f979577ec194f9e8f935615515905c0
 workflow-type: tm+mt
-source-wordcount: '383'
-ht-degree: 1%
+source-wordcount: '381'
+ht-degree: 3%
 
 ---
 
@@ -30,7 +30,7 @@ ht-degree: 1%
 
 ## 참여 프로그램 {#engagement-programs}
 
-[참여 프로그램 스트림을 예약](/help/marketo/product-docs/email-marketing/drip-nurturing/engagement-program-streams/set-stream-cadence/schedule-engagement-programs-with-recipient-time-zone.md)하고 [!UICONTROL Recipient Time Zone]이(가) 활성화되면 프로그램 캐스트가 자정(UTC +14:00)에 시작됩니다. 전 세계 모든 시간대에 캐스팅할 자격이 되므로 첫 번째 캐스팅을 25시간 이상 미래(24시간 + 캠페인을 시작하는 데 걸리는 시간)로 예약해야 합니다. 현재 UTC +14:00로 처리를 시작하면 이 캐스트에 대한 자격이 있는 모든 사용자에 대해 예약된 날짜와 시간에 이메일을 전송할 수 있습니다.
+[참여 프로그램 스트림을 예약](/help/marketo/product-docs/email-marketing/drip-nurturing/engagement-program-streams/set-stream-cadence/schedule-engagement-programs-with-recipient-time-zone.md)하고 [!UICONTROL Recipient Time Zone]이(가) 활성화되면 프로그램 캐스트가 자정(UTC +14:00)에 시작됩니다. 전 세계 모든 시간대에 캐스팅할 자격이 되므로 첫 번째 캐스팅을 25시간 이상 미래(24시간 + 캠페인을 시작하는 데 걸리는 시간)로 예약해야 합니다. 현재 UTC +14:00로 처리를 시작하면 이 캐스트에 대한 자격이 있는 모든 사용자에 대해 예약된 날짜와 시간에 이메일이 전송됩니다.
 
 ## 시간대 계산 중 {#calculating-time-zone}
 

@@ -1,17 +1,17 @@
 ---
 unique-page-id: 12982903
 description: 수신자 시간대로 이메일 프로그램 예약 - Marketo 문서 - 제품 설명서
-title: 수신자 시간대로 이메일 프로그램 예약
+title: 수신자 시간대에 맞춰 이메일 프로그램 예약
 exl-id: d0c3f3c1-9f21-4081-818d-7c5cb1766915
 feature: Email Programs
-source-git-commit: 21bcdc10fe1f3517612efe0f8e2adaf2f4411a70
+source-git-commit: 0c0dd3355f979577ec194f9e8f935615515905c0
 workflow-type: tm+mt
-source-wordcount: '794'
-ht-degree: 0%
+source-wordcount: '792'
+ht-degree: 1%
 
 ---
 
-# 수신자 시간대로 이메일 프로그램 예약 {#schedule-email-programs-with-recipient-time-zone}
+# 수신자 시간대에 맞춰 이메일 프로그램 예약 {#schedule-email-programs-with-recipient-time-zone}
 
 수신자 시간대가 활성화된 동안 이메일 프로그램을 예약할 때 두 가지 가능한 시나리오가 있습니다.
 
@@ -34,7 +34,7 @@ ht-degree: 0%
 >
 >**정의**
 >
->* **[!UICONTROL Deliver the following day in recipient’s time zone]**: 전자 메일이 화요일 9:00am에 나가도록 예약되어 있는 경우 예약된 시간이 이미 지난 시간대에 거주하는 자격이 있는 사람은 *수요일* 9:00am에 전자 메일을 받게 됩니다.
+>* **[!UICONTROL Deliver the following day in the recipient's time zone]**: 전자 메일이 화요일 9:00am에 나가도록 예약되어 있는 경우 예약된 시간이 이미 지난 시간대에 거주하는 자격이 있는 사람은 *수요일* 9:00am에 전자 메일을 받게 됩니다.
 >
 >* **[!UICONTROL Deliver using the program's default set time]**: 전자 메일이 화요일 9:00am에 나가도록 예약되어 있는 경우 예약된 시간이 이미 지난 시간대에 거주하는 자격이 있는 사람이 *구독 시간대 설정에 따라*&#x200B;전자 메일을 받게 됩니다. 따라서 [구독 시간대 설정](/help/marketo/product-docs/administration/settings/select-your-language-locale-and-time-zone.md)이 PDT America/Los Angeles로 설정된 경우 이러한 수신자는 화요일 9:00am PDT에 이메일을 계속 수신하게 됩니다(자체 시간대에 있는 모든 시간).
 
@@ -51,9 +51,9 @@ ht-degree: 0%
 
 ![](assets/image2017-12-6-10-3a52-3a41.png)
 
-9:00am이(가) 이미 뉴욕과 이탈리아에서 통과했으므로 이 두 시간대의 적격 사용자는 **시간대 설정**&#x200B;을(를) 기반으로 이메일을 수신하게 됩니다.
+9:00am이(가) 이미 뉴욕과 이탈리아에서 통과했으므로 이 두 시간대의 적격 사용자는 **시간대 설정**&#x200B;을(를) 기반으로 이메일을 받습니다.
 
-* **[!UICONTROL Deliver the following day in recipient’s time zone]:** 수요일 9:00am(각 시간대: **또는**)
+* **[!UICONTROL Deliver the following day in the recipient's time zone]:** 수요일 9:00am(각 시간대: **또는**)
 
 * **[!UICONTROL Deliver using the program's default set time]**: 화요일 9:00am PDT(뉴욕 - 12:00pm EDT 및 이탈리아 - 6:00pm CET).
 
@@ -79,15 +79,15 @@ ht-degree: 0%
 
 <br> 
 
-즉, 수신자 시간대로 예약된 이메일 프로그램은 모든 시간대를 수용하기 위해 가장 이른 시간대(즉, 첫 번째 자정에 도달하는 시간대)의 예약된 시간에 실행을 시작해야 합니다. 이메일 프로그램을 예약하면...
+즉, 수신자 시간대로 예약된 이메일 프로그램은 모든 시간대를 수용할 수 있도록 가장 이른 시간대(즉, 첫 번째 자정이 되는 시간대)의 예약된 시간에 실행해야 합니다. 이메일 프로그램을 예약하면...
 
-* **배달 시간이 *25시간 이내*인 경우**&#x200B;에 프로그램이 15분 이내에 시작됩니다. 예약된 시간을 이미 경과한 수신자는 선택한 시간대 설정을 기반으로 이메일을 수신하게 됩니다.
+* **배달 시간이 *25시간 이내*인 경우**&#x200B;에 프로그램이 15분 이내에 시작됩니다. 이미 예약된 시간을 경과한 수신자는 사용자가 선택한 표준 시간대 설정을 기반으로 이메일을 수신하게 됩니다.
 * **배달 시간이 *앞으로 25시간 이상*인 경우** 가장 빠른 표준 시간대(UTC +14:00)의 예약된 시간에 프로그램이 실행됩니다.
 * **시작 시점**&#x200B;에서 가장 빠른 표준 시간대(UTC +14:00)의 예약된 시간보다 12시간 전에 프로그램이 처리를 시작합니다.
 
 >[!CAUTION]
 >
->이메일 전송을 시작한 시간과 실제로 이메일을 배달한 시간 사이에 구독을 취소하는 사람은 이메일을 계속 수신합니다. 구독 취소를 처리하는 데 영업일 기준 1~2일이 소요될 수 있음을 반영하도록 구독 취소 알림을 조정하는 것이 좋습니다.
+>이메일 전송을 시작한 시간과 실제로 이메일을 배달한 시간 사이에 구독을 취소하는 사람은 이메일을 계속 수신합니다. 구독 취소를 처리하는 데 영업일 기준 1~2일이 소요될 수 있음을 설명하기 위해 구독 취소 알림을 조정하는 것이 좋습니다.
 
 >[!MORELIKETHIS]
 >

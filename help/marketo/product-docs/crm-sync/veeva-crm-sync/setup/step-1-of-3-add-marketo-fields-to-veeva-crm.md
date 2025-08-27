@@ -3,7 +3,7 @@ description: 1단계/3단계 -  [!DNL Veeva] CRM에 Marketo 필드 추가 - Mark
 title: 1단계/3단계 -  [!DNL Veeva] CRM에 Marketo 필드 추가
 exl-id: a9a59e76-a7a4-4391-8169-922bd6acfb6d
 feature: Veeva CRM
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 0c0dd3355f979577ec194f9e8f935615515905c0
 workflow-type: tm+mt
 source-wordcount: '485'
 ht-degree: 8%
@@ -18,9 +18,8 @@ ht-degree: 8%
 
 Marketo Engage은 일련의 필드를 사용하여 특정 종류의 마케팅 관련 정보를 캡처합니다. 이 데이터를 [!DNL Veeva] CRM에 포함하려면 아래 지침을 따르십시오.
 
-`1.` 연락처 개체의 [!DNL Veeva] CRM에 사용자 지정 필드를 만듭니다. 점수
-
-`2.` 원하는 경우 추가 필드를 만들 수 있습니다(아래 표 참조).
+1. 연락처 개체의 [!DNL Veeva] CRM에 사용자 지정 필드를 만듭니다. 점수
+1. 원하는 경우 추가 필드를 만들 수 있습니다(아래 표 참조).
 
 이러한 사용자 지정 필드는 모두 선택 사항이며 Marketo Engage 및 [!DNL Veeva] CRM을 동기화하는 데 필요하지 않습니다.
 
@@ -46,7 +45,7 @@ Marketo Engage은 일련의 필드를 사용하여 특정 종류의 마케팅 �
 
 1. **[!UICONTROL Fields and Relationships]**&#x200B;를 선택합니다.
 
-1. **[!UICONTROL New]**&#x200B;을(를) 클릭합니다.
+1. **[!UICONTROL New]**&#x200B;를 클릭합니다.
 
    ![](assets/step-1-of-3-add-marketo-fields-4.png)
 
@@ -54,7 +53,7 @@ Marketo Engage은 일련의 필드를 사용하여 특정 종류의 마케팅 �
 
    ![](assets/step-1-of-3-add-marketo-fields-5.png)
 
-1. **[!UICONTROL Next]**&#x200B;을(를) 클릭합니다.
+1. **[!UICONTROL Next]**&#x200B;를 클릭합니다.
 
    ![](assets/step-1-of-3-add-marketo-fields-6.png)
 
@@ -88,7 +87,7 @@ Marketo Engage은 일련의 필드를 사용하여 특정 종류의 마케팅 �
 >
 >텍스트 및 숫자 필드는 길이가 필요하지만 날짜/시간 필드는 길이가 필요하지 않습니다. 설명은 선택 사항입니다.
 
-1. **[!UICONTROL Next]**&#x200B;을(를) 클릭합니다.
+1. **[!UICONTROL Next]**&#x200B;를 클릭합니다.
 
    ![](assets/step-1-of-3-add-marketo-fields-8.png)
 

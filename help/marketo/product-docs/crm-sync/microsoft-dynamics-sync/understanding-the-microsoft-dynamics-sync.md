@@ -4,20 +4,16 @@ description: ' [!DNL Microsoft Dynamics] 동기화 이해 - Marketo 문서 - 제
 title: Microsoft Dynamics 동기화 이해
 exl-id: bc87f744-7f1c-421b-8507-1a6e23d27fa2
 feature: Microsoft Dynamics
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 0c0dd3355f979577ec194f9e8f935615515905c0
 workflow-type: tm+mt
-source-wordcount: '223'
-ht-degree: 1%
+source-wordcount: '209'
+ht-degree: 3%
 
 ---
 
 # [!DNL Microsoft Dynamics] 동기화 이해 {#understanding-the-microsoft-dynamics-sync}
 
 Marketo과 [!DNL Microsoft Dynamics]이(가) 함께 제공됩니다. Dell은 고객의 판매 및 마케팅 데이터를 동기화합니다.
-
->[!NOTE]
->
->Marketo은 현재 Java 7과 호환되는 SSL 인증서만 지원합니다.
 
 >[!CAUTION]
 >

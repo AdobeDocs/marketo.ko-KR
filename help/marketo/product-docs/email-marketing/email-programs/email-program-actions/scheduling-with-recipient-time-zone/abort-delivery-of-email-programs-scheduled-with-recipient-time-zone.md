@@ -1,17 +1,17 @@
 ---
 unique-page-id: 13795727
 description: 수신자 시간대로 예약된 이메일 프로그램 배달 중단 - Marketo 문서 - 제품 설명서
-title: 수신자 시간대로 예약된 이메일 프로그램 배달 중단
+title: 수신자 시간대에 맞춰 예약된 이메일 프로그램 게재 중단
 exl-id: e69afa4a-32fb-4791-a9b6-683d64d610d6
 feature: Email Programs
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 0c0dd3355f979577ec194f9e8f935615515905c0
 workflow-type: tm+mt
-source-wordcount: '213'
-ht-degree: 0%
+source-wordcount: '214'
+ht-degree: 9%
 
 ---
 
-# 수신자 시간대로 예약된 이메일 프로그램 배달 중단 {#abort-delivery-of-email-programs-scheduled-with-recipient-time-zone}
+# 수신자 시간대에 맞춰 예약된 이메일 프로그램 게재 중단 {#abort-delivery-of-email-programs-scheduled-with-recipient-time-zone}
 
 긴급한 경우에는 수신자 시간대가 활성화된 상태로 이미 실행이 시작된 이메일 프로그램의 전달을 중단할 수 있습니다.
 
@@ -33,7 +33,7 @@ ht-degree: 0%
    >
    >취소된 전자 메일은 원래 해당 시간대에 배달되도록 예약된 시간대까지 **소프트 바운스로**&#x200B;표시되지 않습니다&#x200B;*.* 해당 시점까지 계속 &quot;이메일 보내기&quot;로 표시됩니다.
 
-1. 그리드에서 이메일을 클릭하여 활동 세부 정보를 볼 수 있습니다. 취소된 전송인 경우 세부 정보 팝업은 다음과 같이 표시됩니다.
+1. 그리드에서 이메일을 클릭하여 활동 세부 정보를 볼 수 있습니다. 취소된 전송인 경우 세부 정보 팝업은 다음과 같습니다.
 
    ![](assets/image2018-2-23-11-3a30-3a46.png)
 

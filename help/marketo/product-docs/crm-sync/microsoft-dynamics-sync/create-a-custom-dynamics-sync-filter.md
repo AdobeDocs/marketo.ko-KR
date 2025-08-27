@@ -4,22 +4,22 @@ description: 사용자 지정 [!DNL Dynamics] 동기화 필터 만들기 - Marke
 title: 사용자 지정 [!DNL Dynamics] 동기화 필터 만들기
 exl-id: 6b0d878a-9c55-4e73-9923-11140e83bb37
 feature: Microsoft Dynamics
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 0c0dd3355f979577ec194f9e8f935615515905c0
 workflow-type: tm+mt
-source-wordcount: '772'
+source-wordcount: '746'
 ht-degree: 1%
 
 ---
 
 # 사용자 지정 [!DNL Dynamics] 동기화 필터 만들기 {#create-a-custom-dynamics-sync-filter}
 
-Dynamics CRM의 모든 항목을 Marketo Engage에 동기화하지 않으시겠습니까? 걱정 마! Marketo을 사용하면 동기화 필터를 설정하고 레코드의 일부만 동기화할 수 있습니다.
+Marketo을 사용하면 동기화 필터를 설정하고 레코드의 일부만 동기화할 수 있습니다.
 
 ## 개요 {#overview}
 
 [!DNL Dynamics] 동기화 필터를 설정하려면:
 
-1. Dynamics CRM에서 개체(잠재 고객, 연락처, 계정, 기회 및 기타 사용자 지정 엔터티)에 대해 new_synctomkto라는 사용자 지정 두 가지 옵션(부울) 필드를 만듭니다.
+1. Dynamics CRM에서 개체(잠재 고객, 연락처, 계정, 영업 기회 및 기타 사용자 지정 엔터티)에 대해 이름이 `new_synctomkto`인 사용자 지정 두 가지 옵션(부울) 필드를 만듭니다.
 1. 이 필드에 예/아니요 값을 지정합니다.
 
 데이터베이스나 Marketo이 아닌 Dynamics CRM에서 이러한 변경 작업을 수행해야 합니다.
@@ -51,7 +51,7 @@ Marketo은 자동 백그라운드 동기화 중에 이 필드를 찾고 이 논�
 
    ![](assets/image2015-8-10-21-3a40-3a9.png)
 
-1. **[!UICONTROL Customize the System]**&#x200B;을(를) 클릭합니다.
+1. **[!UICONTROL Customize the System]**&#x200B;를 클릭합니다.
 
    ![](assets/image2015-8-10-21-3a42-3a15.png)
 
@@ -89,7 +89,7 @@ Marketo은 자동 백그라운드 동기화 중에 이 필드를 찾고 이 논�
 
    ![](assets/image2015-10-9-9-3a52-3a23.png)
 
-1. 필드로 스크롤하여 확인합니다. 실제 이름은 new_synctomkto여야 하지만 표시 이름은 무엇이든 될 수 있습니다. **[!UICONTROL Save]**&#x200B;을(를) 클릭합니다.
+1. 필드로 스크롤하여 확인합니다. 실제 이름은 new_synctomkto여야 하지만 표시 이름은 무엇이든 될 수 있습니다. **[!UICONTROL Save]**&#x200B;를 클릭합니다.
 
    ![](assets/image2015-10-9-9-3a56-3a23.png)
 
@@ -109,7 +109,7 @@ Marketo은 자동 백그라운드 동기화 중에 이 필드를 찾고 이 논�
 
    ![](assets/image2015-8-11-8-3a42-3a10.png)
 
-1. **[!UICONTROL New]**&#x200B;을(를) 클릭합니다.
+1. **[!UICONTROL New]**&#x200B;를 클릭합니다.
 
    ![](assets/image2015-8-11-8-3a43-3a46.png)
 
@@ -117,7 +117,7 @@ Marketo은 자동 백그라운드 동기화 중에 이 필드를 찾고 이 논�
 
    ![](assets/image2015-8-11-8-3a45-3a46.png)
 
-1. 조직의 기본 설정에 따라 **SyncToMkto** 필드에 true 또는 false 값을 할당하는 규칙을 만듭니다. **[!UICONTROL Save and Close]**&#x200B;을(를) 클릭합니다.
+1. 조직의 기본 설정에 따라 **SyncToMkto** 필드에 true 또는 false 값을 할당하는 규칙을 만듭니다. **[!UICONTROL Save and Close]**&#x200B;를 클릭합니다.
 
    ![](assets/setsynctomkto-fix.png)
 
@@ -140,10 +140,6 @@ Marketo은 자동 백그라운드 동기화 중에 이 필드를 찾고 이 논�
 * 동기화 작업 시작
 
   **SyncToMkto** 값이 **아니요**&#x200B;에서 **예**(으)로 변경되면 [!DNL Dynamics]에서 이 레코드의 동기화를 시작하도록 Marketo에 즉시 알립니다. 레코드가 이미 있으면 Marketo에서 업데이트합니다. 그렇지 않으면 Marketo이 레코드를 만듭니다.
-
-  >[!TIP]
-  >
-  >이 경우 `Create [StartSync]` 작업이 Marketo 로그에 추가됩니다.
 
 * 동기화 작업 중지
 
