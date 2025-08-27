@@ -7,9 +7,9 @@ level: Beginner, Intermediate
 feature: Email Designer
 role: User
 exl-id: 37b42418-1733-447f-bab0-e1d461ef8110
-source-git-commit: 0954e315b215de49edbb96c08dd9ff27be64e423
+source-git-commit: 8ebb9c0b60da364a9112d4c807b9c31b8f1b501f
 workflow-type: tm+mt
-source-wordcount: '892'
+source-wordcount: '907'
 ht-degree: 10%
 
 ---
@@ -259,11 +259,11 @@ ht-degree: 10%
     <td>Velocity 스크립팅</td>
     <td>이메일에서 Velocity 스크립팅을 사용하는 기능.</td>
     <td>사용 가능</td>
-    <td>준비 중</td>
+    <td>필요 없음</td>
   </tr>
   <tr>
-    <td>브랜드 키트</td>
-    <td>브랜드 지침을 반영하여 이메일을 개선할 수 있습니다.</td>
+    <td>핸들바 스크립팅</td>
+    <td>이메일에서 Velocity 스크립팅을 사용하는 기능.</td>
     <td>사용할 수 없음</td>
     <td>2025년 3분기 계획</td>
   </tr>
@@ -272,6 +272,12 @@ ht-degree: 10%
     <td>Marketo Engage 내에 이메일에 대한 승인 워크플로우를 도입하는 기능입니다.</td>
     <td>사용할 수 없음</td>
     <td>2025년 4분기 계획</td>
+  </tr>
+  <tr>
+    <td>브랜드 키트</td>
+    <td>브랜드 지침을 반영하여 이메일을 개선할 수 있습니다.</td>
+    <td>사용할 수 없음</td>
+    <td>2026년 1분기 계획</td>
   </tr>
   <tr>
     <td>실험(A/B 테스트)</td>
