@@ -3,10 +3,10 @@ description: 그룹 관리 - Marketo 문서 - 제품 설명서
 title: 그룹 관리
 exl-id: 9b21f552-d4ba-40ed-b4a7-0070cf3e7201
 feature: Sales Insight Actions
-source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
+source-git-commit: 28956176a51e0c632c58c9d92822122df507f0f1
 workflow-type: tm+mt
-source-wordcount: '310'
-ht-degree: 0%
+source-wordcount: '362'
+ht-degree: 2%
 
 ---
 
@@ -57,11 +57,11 @@ ht-degree: 0%
 
    다 됐습니다!
 
-## 그룹에 연락처 추가 {#add-contacts-to-a-group}
+## 에 연락처 추가 {#add-contacts-to-a-}
 
 1. [!UICONTROL People] 페이지에서 사람을 추가할 그룹을 찾아 선택합니다.
 
-   ![](assets/manage-groups-3.png)
+
 
 1. **[!UICONTROL Group Actions]**&#x200B;을(를) 클릭하고 **[!UICONTROL Create Contact and add to Group]**&#x200B;을(를) 선택합니다.
 
@@ -77,19 +77,42 @@ ht-degree: 0%
    >
    >추가된 새 연락처를 보려면 새로 고침을 눌러야 할 수 있습니다.
 
+## 그룹에 연락처 추가 {#add-contacts-to-a-group}
+
+1. _그룹_&#x200B;에서 **모든 사용자**&#x200B;을(를) 선택합니다.
+
+   ![](assets/manage-groups-3.png)
+
+1. 추가할 사용자를 검색합니다.
+
+   ![](assets/manage-groups-4.png)
+
+1. 이름 옆에 있는 확인란을 클릭하여 선택합니다.
+
+   ![](assets/manage-groups-5.png)
+
+1. 추가 작업 아이콘(![](assets/icon-more-actions.png))을 클릭하고 **그룹에 사람 추가**&#x200B;를 선택합니다.
+
+   ![](assets/manage-groups-6.png)
+
+1. 추가할 그룹을 선택하고 **추가**&#x200B;를 클릭합니다.
+
+   ![](assets/manage-groups-7.png)
+
+
 ## 그룹 공유 {#share-a-group}
 
 1. [!UICONTROL People] 페이지에서 공유할 그룹을 찾아 선택합니다.
 
-   ![](assets/manage-groups-6.png)
+   ![](assets/manage-groups-8.png)
 
 1. 점(세 개의 세로 점)을 클릭하고 **[!UICONTROL Share]**&#x200B;을(를) 선택합니다.
 
-   ![](assets/manage-groups-7.png)
+   ![](assets/manage-groups-9.png)
 
 1. 드롭다운을 클릭하고 그룹을 공유할 팀을 선택한 다음 **[!UICONTROL Share]**&#x200B;을(를) 클릭합니다.
 
-   ![](assets/manage-groups-8.png)
+   ![](assets/manage-groups-10.png)
 
    아직 그룹의 소유자이지만 이제 _팀 그룹_ 아래에 표시됩니다.
 
@@ -97,15 +120,15 @@ ht-degree: 0%
 
 1. [!UICONTROL People] 페이지에서 공유를 해제할 그룹을 찾아 선택합니다.
 
-   ![](assets/manage-groups-9.png)
+   ![](assets/manage-groups-11.png)
 
 1. 점(세 개의 세로 점)을 클릭하고 **[!UICONTROL Share]**&#x200B;을(를) 선택합니다.
 
-   ![](assets/manage-groups-10.png)
+   ![](assets/manage-groups-12.png)
 
 1. 그룹을 공유한 팀 옆의 **X**&#x200B;을(를) 클릭한 다음 모달에서 을(를) 클릭합니다.
 
-   ![](assets/manage-groups-11.png)
+   ![](assets/manage-groups-13.png)
 
    이제 그룹이 공유되지 않습니다.
 
@@ -113,26 +136,26 @@ ht-degree: 0%
 
 1. [!UICONTROL People] 페이지에서 이름을 바꿀 그룹을 찾아 선택합니다.
 
-   ![](assets/manage-groups-12.png)
+   ![](assets/manage-groups-14.png)
 
 1. 점(세 개의 세로 점)을 클릭하고 **[!UICONTROL Edit]**&#x200B;을(를) 선택합니다.
 
-   ![](assets/manage-groups-13.png)
+   ![](assets/manage-groups-15.png)
 
 1. 새 이름을 입력하고 **[!UICONTROL Save]**&#x200B;을(를) 클릭합니다.
 
-   ![](assets/manage-groups-14.png)
+   ![](assets/manage-groups-16.png)
 
 ## 그룹 삭제 {#delete-a-group}
 
 1. 사람 페이지에서 삭제할 그룹을 찾아 선택합니다.
 
-   ![](assets/manage-groups-15.png)
+   ![](assets/manage-groups-17.png)
 
 1. 점(세 개의 세로 점)을 클릭하고 **[!UICONTROL Delete]**&#x200B;을(를) 선택합니다.
 
-   ![](assets/manage-groups-16.png)
+   ![](assets/manage-groups-18.png)
 
 1. **[!UICONTROL Delete]**&#x200B;을(를) 클릭하여 확인합니다.
 
-   ![](assets/manage-groups-17.png)
+   ![](assets/manage-groups-19.png)
