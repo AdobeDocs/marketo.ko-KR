@@ -3,9 +3,9 @@ description: 그룹 관리 - Marketo 문서 - 제품 설명서
 title: 그룹 관리
 exl-id: 9b21f552-d4ba-40ed-b4a7-0070cf3e7201
 feature: Sales Insight Actions
-source-git-commit: 28956176a51e0c632c58c9d92822122df507f0f1
+source-git-commit: a88e7978a74d6aaaaad882a83cdfa3e80a4c50cb
 workflow-type: tm+mt
-source-wordcount: '362'
+source-wordcount: '310'
 ht-degree: 2%
 
 ---
@@ -57,26 +57,6 @@ ht-degree: 2%
 
    다 됐습니다!
 
-## 에 연락처 추가 {#add-contacts-to-a-}
-
-1. [!UICONTROL People] 페이지에서 사람을 추가할 그룹을 찾아 선택합니다.
-
-
-
-1. **[!UICONTROL Group Actions]**&#x200B;을(를) 클릭하고 **[!UICONTROL Create Contact and add to Group]**&#x200B;을(를) 선택합니다.
-
-   ![](assets/manage-groups-4.png)
-
-1. 대화 상대 정보를 입력하고 **만들기**(또는 **새로 만들기 및 추가**&#x200B;를 클릭하여 다른 대화 상대를 추가하세요.)
-
-   ![](assets/manage-groups-5.png)
-
-   넌 끝났어!
-
-   >[!NOTE]
-   >
-   >추가된 새 연락처를 보려면 새로 고침을 눌러야 할 수 있습니다.
-
 ## 그룹에 연락처 추가 {#add-contacts-to-a-group}
 
 1. _그룹_&#x200B;에서 **모든 사용자**&#x200B;을(를) 선택합니다.
@@ -98,7 +78,6 @@ ht-degree: 2%
 1. 추가할 그룹을 선택하고 **추가**&#x200B;를 클릭합니다.
 
    ![](assets/manage-groups-7.png)
-
 
 ## 그룹 공유 {#share-a-group}
 
