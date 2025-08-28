@@ -1,27 +1,29 @@
 ---
 solution: Marketo Engage
 product: marketo
-title: Litmus를 사용하여 이메일 렌더링 테스트
+title: Litmus로 이메일 렌더링 테스트
 description: Marketo Engage 사용자는 Litmus 계정을 통합하여 다양한 이메일 클라이언트에서 콘텐츠 렌더링을 테스트할 수 있습니다.
 level: Beginner, Intermediate
 feature: Email Designer
 exl-id: ccef36af-362a-4ac0-9030-492e9d7f10b5
-source-git-commit: 919406f948456bc265a73841c87a6d74605f045e
+source-git-commit: 3a71e0f0da0f6201ccda73a0c8bd5b94864308c0
 workflow-type: tm+mt
-source-wordcount: '265'
-ht-degree: 0%
+source-wordcount: '370'
+ht-degree: 2%
 
 ---
 
-# Litmus를 사용하여 이메일 렌더링 테스트 {#test-email-rendering-with-litmus}
+# Litmus로 이메일 렌더링 테스트 {#test-email-rendering-with-litmus}
 
 Marketo Engage에서 [Litmus](https://www.litmus.com/email-testing) 계정을 활용하여 인기 있는 이메일 클라이언트에서 이메일이 어떻게 렌더링되는지 즉시 확인할 수 있습니다.
 
 >[!AVAILABILITY]
 >
->이 기능은 [Enterprise 플랜](https://www.litmus.com/pricing/enterprise){target="_blank"} 계정에 활성 Litmus 계정이 있는 모든 Marketo Engage 사용자가 사용할 수 있습니다.
+>이 기능은 활성 Litmus 계정이 있는 모든 Marketo Engage 사용자가 사용할 수 있습니다.
 
-## 사용 방법 {#how-to-use}
+## Litmus Enterprise 사용자 {#litmus-enterprise}
+
+다음 단계는 [Litmus Enterprise 플랜](https://www.litmus.com/pricing/enterprise){target="_blank"}의 사용자를 위한 것입니다.
 
 1. _전자 메일 콘텐츠 편집_ 화면에서 **콘텐츠 시뮬레이션** 단추를 클릭합니다.
 
@@ -62,3 +64,27 @@ Marketo Engage에서 [Litmus](https://www.litmus.com/email-testing) 계정을 �
 **선택적 단계**: 전자 메일을 변경하기로 결정한 경우 **전자 메일 렌더링**&#x200B;을 클릭하여 전자 메일을 확인한 후 Litmus **전자 메일 미리 보기** 화면의 오른쪽 상단에 있는 _다시 테스트_ 단추를 클릭해야 합니다.
 
 ![](assets/test-email-rendering-with-litmus-7.png)
+
+## Litmus 핵심 사용자 {#litmus-core}
+
+다음 단계는 [Litmus 핵심 플랜](https://www.litmus.com/pricing/){target="_blank"}의 사용자를 위한 것입니다.
+
+1. Litmus 계정에서 **테스트** 화면에서 _테스트 주소 복사_ 단추를 클릭하여 테스트 전자 메일 주소를 검색합니다.
+
+   ![](assets/test-email-rendering-with-litmus-8.png){width="800" zoomable="yes"}
+
+1. Marketo Engage에서 원하는 전자 메일의 _전자 메일 콘텐츠 편집_ 화면으로 이동하고 **콘텐츠 시뮬레이션** 단추를 클릭합니다.
+
+   ![](assets/test-email-rendering-with-litmus-9.png){width="600" zoomable="yes"}
+
+1. 테스트 수신자를 선택하고 **증명 보내기** 단추를 클릭합니다.
+
+   ![](assets/test-email-rendering-with-litmus-10.png){width="800" zoomable="yes"}
+
+1. 1단계에서 복사한 Litmus 이메일 주소를 입력하고 **증명 보내기**&#x200B;를 다시 클릭합니다.
+
+   ![](assets/test-email-rendering-with-litmus-11.png)
+
+1. Litmus 계정(Litmus에서 복사한 이메일 주소에 해당하는 폴더)의 이메일을 검토합니다.
+
+   ![](assets/test-email-rendering-with-litmus-12.png){width="800" zoomable="yes"}
