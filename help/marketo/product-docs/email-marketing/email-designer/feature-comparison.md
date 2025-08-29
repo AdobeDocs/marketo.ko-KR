@@ -7,9 +7,9 @@ level: Beginner, Intermediate
 feature: Email Designer
 role: User
 exl-id: 37b42418-1733-447f-bab0-e1d461ef8110
-source-git-commit: 8ebb9c0b60da364a9112d4c807b9c31b8f1b501f
+source-git-commit: 95bfc3434b1bee5b0050d628cd5f2af219597bad
 workflow-type: tm+mt
-source-wordcount: '907'
+source-wordcount: '892'
 ht-degree: 10%
 
 ---
@@ -259,13 +259,7 @@ ht-degree: 10%
     <td>Velocity 스크립팅</td>
     <td>이메일에서 Velocity 스크립팅을 사용하는 기능.</td>
     <td>사용 가능</td>
-    <td>필요 없음</td>
-  </tr>
-  <tr>
-    <td>핸들바 스크립팅</td>
-    <td>이메일에서 Velocity 스크립팅을 사용하는 기능.</td>
-    <td>사용할 수 없음</td>
-    <td>2025년 3분기 계획</td>
+    <td>곧 제공 예정</td>
   </tr>
   <tr>
     <td>콘텐츠 승인 워크플로</td>
