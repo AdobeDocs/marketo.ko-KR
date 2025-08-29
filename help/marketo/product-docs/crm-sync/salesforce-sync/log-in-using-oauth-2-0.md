@@ -3,10 +3,10 @@ description: OAuth 2.0을 사용하여 로그인 - Marketo 문서 - 제품 설�
 title: OAuth 2.0을 사용하여 로그인
 exl-id: 0a70505d-d2b8-4dc9-ad11-decc86588f7f
 feature: Salesforce Integration
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 3e007c6ddc150227310f2d38a7f77ad86ca15ffa
 workflow-type: tm+mt
-source-wordcount: '494'
-ht-degree: 1%
+source-wordcount: '491'
+ht-degree: 3%
 
 ---
 
@@ -32,11 +32,11 @@ Salesforce은 OAuth 프로토콜을 사용하여 애플리케이션 사용자가
 
    ![](assets/setting-up-oauth-2-3.png)
 
-1. **[!UICONTROL Save]**&#x200B;을(를) 클릭합니다.
+1. **[!UICONTROL Save]**&#x200B;를 클릭합니다.
 
    ![](assets/setting-up-oauth-2-4.png)
 
-1. **[!UICONTROL Continue]**&#x200B;을(를) 클릭합니다.
+1. **[!UICONTROL Continue]**&#x200B;를 클릭합니다.
 
    ![](assets/setting-up-oauth-2-5.png)
 
@@ -76,7 +76,7 @@ Salesforce은 OAuth 프로토콜을 사용하여 애플리케이션 사용자가
 
    >[!CAUTION]
    >
-   >사용자 이름/암호/토큰 필드에 &quot;Salesforce으로 로그인&quot; 단추가 표시되지 않는 경우 Marketo 구독이 기본 인증을 사용할 수 있습니다. [기본 인증을 사용하여 Marketo 설정](/help/marketo/product-docs/crm-sync/salesforce-sync/setup/enterprise-unlimited-edition/step-3-of-3-connect-marketo-and-salesforce-enterprise-unlimited.md){target="_blank"}을 참조하세요. 자격 증명 집합을 사용하여 동기화가 시작되면 Salesforce 자격 증명 또는 구독을 전환할 수 없습니다. Oauth 2.0을 사용하려면 Adobe 계정 팀(계정 관리자)에 문의하십시오.
+   >사용자 이름/암호/토큰 필드에 &quot;Salesforce으로 로그인&quot; 단추가 표시되지 않는 경우 Marketo 구독이 기본 인증을 사용할 수 있습니다. [기본 인증을 사용하여 Marketo 설정](/help/marketo/product-docs/crm-sync/salesforce-sync/setup/enterprise-unlimited-edition/step-3-of-3-connect-marketo-and-salesforce-enterprise-unlimited.md){target="_blank"}을 참조하세요. 자격 증명 집합을 사용하여 동기화가 시작되면 Salesforce 자격 증명 또는 구독을 전환할 수 없습니다. Salesforce 인증에 Oauth 2.0을 설정하려면 [Marketo 지원 센터](https://nation.marketo.com/t5/support/ct-p/Support)에 문의하십시오.
 
 1. Salesforce 로그인 페이지가 표시되는 팝업이 나타납니다. &quot;Marketo 동기화 사용자&quot; 자격 증명에 키를 누른 다음 로그인합니다.
 
@@ -86,11 +86,11 @@ Salesforce은 OAuth 프로토콜을 사용하여 애플리케이션 사용자가
 
    ![](assets/setting-up-oauth-2-11.png)
 
-1. 확인이 성공하면 액세스 페이지에 액세스 요청이 표시됩니다. **[!UICONTROL Allow]**&#x200B;을(를) 클릭합니다.
+1. 확인이 성공하면 액세스 페이지에 액세스 요청이 표시됩니다. **[!UICONTROL Allow]**&#x200B;를 클릭합니다.
 
    ![](assets/setting-up-oauth-2-12.png)
 
-1. 몇 분 후에 Marketo에 팝업이 나타납니다. **[!UICONTROL Confirm Credentials]**&#x200B;을(를) 클릭합니다.
+1. 몇 분 후에 Marketo에 팝업이 나타납니다. **[!UICONTROL Confirm Credentials]**&#x200B;를 클릭합니다.
 
    ![](assets/setting-up-oauth-2-13.png)
 
@@ -98,7 +98,7 @@ Salesforce은 OAuth 프로토콜을 사용하여 애플리케이션 사용자가
 
    ![](assets/setting-up-oauth-2-14.png)
 
-1. **[!UICONTROL Start Sync]**&#x200B;을(를) 클릭합니다.
+1. **[!UICONTROL Start Sync]**&#x200B;를 클릭합니다.
 
    ![](assets/setting-up-oauth-2-15.png)
 
