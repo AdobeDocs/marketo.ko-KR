@@ -4,10 +4,10 @@ description: 랜딩 페이지에 SSL 추가 - Marketo 문서 - 제품 설명서
 title: 랜딩 페이지에 SSL 추가
 exl-id: 8271d9fe-0575-430c-97c7-407e4b78cf1d
 feature: Landing Pages
-source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
+source-git-commit: df3a495cc8859c0473b82c5e1bdb36d133e8f48d
 workflow-type: tm+mt
-source-wordcount: '714'
-ht-degree: 0%
+source-wordcount: '778'
+ht-degree: 2%
 
 ---
 
@@ -73,31 +73,35 @@ Marketo Engage은 기본적으로 비보안 HTTP 프로토콜에 대해 &quot;�
     <th>세부 사항</th>
   </tr></thead>
 <tbody>
-  <tr>
-    <td><i>도메인을 생성하는 도중 예기치 않은 오류가 발생했습니다. 도움이 필요하면 지원 센터에 문의하십시오.</i></td>
-    <td>예기치 않은 오류가 발생했습니다. 로그와 오류 세부 정보를 수집하고 문제를 <a href="https://nation.marketo.com/t5/support/ct-p/Support" target="_blank">Marketo 지원</a>(으)로 에스컬레이션하십시오.</td>
-  </tr>
-  <tr>
-    <td><i>기본 도메인을 찾을 수 없습니다. 도움이 필요하면 지원 센터에 문의하십시오.</i></td>
-    <td>기본 도메인을 찾으려고 할 때 문제가 발생했습니다. 그들이 조사할 수 있도록 지원팀에 연락하십시오.</td>
-  </tr>
-  <tr>
-    <td><i>SSL 인증서가 이미 발급되었습니다.</i></td>
-    <td>이 사용자 정의 도메인에 대한 SSL 인증서가 이미 있습니다. 인증서가 만료되었거나 다시 발급해야 하는 경우가 아니면 추가 작업이 필요하지 않습니다.</td>
+<tr>
+    <td><i>도메인이 이미 존재합니다.</i></td>
+    <td>같은 이름의 도메인이 이미 있습니다.</td>
   </tr>
   <tr>
     <td><i>도메인이 기본 도메인에 매핑되지 않습니다.</i></td>
     <td>사용자 정의 도메인이 기본 도메인에 올바르게 매핑되지 않습니다. 도메인 매핑 설정을 확인하고 DNS 구성이 올바른 기본 도메인을 가리켜야 합니다.</td>
   </tr>
   <tr>
-    <td><i>도메인이 이미 존재합니다.</i></td>
-    <td>같은 이름의 도메인이 이미 있습니다.</td>
+    <td><i>지원되지 않는 CAA 레코드로 인해 SSL 인증서를 발급할 수 없습니다. IT에 CAA 레코드 업데이트를 요청하십시오.</i></td>
+    <td>CAA 레코드가 최신 상태가 아닙니다. Marketo Engage 관리 SSL 인증서를 사용하는 사용자의 경우 CAA 레코드를 공급업체에서 권장하는 인증서로 업데이트해야 합니다. CAA 기록을 업데이트하려면 IT 부서에 문의하십시오. 자세한 내용은 <a href="https://nation.marketo.com/t5/product-blogs/changes-to-marketo-engage-secured-domains-platform/ba-p/329305#M2246">이 페이지</a>를 참조하세요.</td>
+  </tr>
+  <tr>
+    <td><i>SSL 인증서가 이미 발급되었습니다.</i></td>
+    <td>이 사용자 정의 도메인에 대한 SSL 인증서가 이미 있습니다. 인증서가 만료되었거나 다시 발급해야 하는 경우가 아니면 추가 작업이 필요하지 않습니다.</td>
+  </tr>
+  <tr>
+    <td><i>기본 도메인을 찾을 수 없습니다. 도움이 필요하면 지원 센터에 문의하십시오.</i></td>
+    <td>기본 도메인을 찾으려고 할 때 문제가 발생했습니다. 그들이 조사할 수 있도록 지원팀에 연락하십시오.</td>
+  </tr>
+  <tr>
+    <td><i>도메인을 생성하는 도중 예기치 않은 오류가 발생했습니다. 도움이 필요하면 지원 센터에 문의하십시오.</i></td>
+    <td>예기치 않은 오류가 발생했습니다. 로그와 오류 세부 정보를 수집하고 문제를 <a href="https://nation.marketo.com/t5/support/ct-p/Support" target="_blank">Marketo 지원</a>(으)로 에스컬레이션하십시오.</td>
   </tr>
 </tbody></table>
 
 ## 참고할 사항 {#things-to-note}
 
-* **Marketo Engage에 대한 도메인에 대한 DNS 매핑**: UI에 도메인을 추가하기 전에 CNAME을 Marketo 제공 도메인에 매핑[해야 합니다.](https://experienceleague.adobe.com/ko/docs/marketo/using/getting-started/initial-setup/setup-steps#customize-your-landing-page-urls-with-a-cname){target="_blank"}
+* **Marketo Engage에 대한 도메인에 대한 DNS 매핑**: UI에 도메인을 추가하기 전에 CNAME을 Marketo 제공 도메인에 매핑[해야 합니다.](https://experienceleague.adobe.com/en/docs/marketo/using/getting-started/initial-setup/setup-steps#customize-your-landing-page-urls-with-a-cname){target="_blank"}
 
 * **사용자 지정 SSL**: 사용자 지정 SSL이 필요한 경우 [지원 티켓](https://nation.marketo.com/t5/support/ct-p/Support){target="_blank"}을 제출하세요. SSL 생성을 위해 셀프서비스 확인란을 사용하지 마십시오.
 
