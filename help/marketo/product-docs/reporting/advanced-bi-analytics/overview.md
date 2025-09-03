@@ -1,16 +1,16 @@
 ---
 description: 고급 BI Analytics 개요 - Marketo 문서 - 제품 설명서
-title: 고급 BI Analytics 개요
+title: 고급 BI 분석 개요
 feature: Reporting
 exl-id: 120663ef-abcd-4cfe-aac1-64b57ff47258
-source-git-commit: 21bcdc10fe1f3517612efe0f8e2adaf2f4411a70
+source-git-commit: 7c9a3a39dd78923a5243cea7de4fc9925b6f0a4d
 workflow-type: tm+mt
-source-wordcount: '1222'
-ht-degree: 0%
+source-wordcount: '1038'
+ht-degree: 1%
 
 ---
 
-# 고급 BI Analytics 개요 {#advanced-bi-analytics-overview}
+# 고급 BI 분석 개요 {#advanced-bi-analytics-overview}
 
 고급 BI Analytics(이전 이름: Revenue Explorer 및 고급 Report Builder)는 Marketo Engage 데이터에 대한 유연한 보고 및 시각화 인터페이스를 제공하여 진행 상황, 성능 등에 대한 세부 정보를 제공합니다. 더욱 풍부한 상호 작용 및 시각화, 빠른 성능, 보다 원활하고 직관적인 사용자 경험을 제공합니다.
 
@@ -125,7 +125,7 @@ ht-degree: 0%
 
 다음 비디오를 통해 다중 페이지 드릴스루 보고서 경험의 예를 확인하십시오.
 
->[!VIDEO](https://video.tv.adobe.com/v/3451689/?quality=12&learn=on&captions=kor){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3451681/?quality=12&learn=on){transcript=true}
 
 ## 고급 BI Analytics의 표준 보고서 {#standard-reports}
 
@@ -236,23 +236,13 @@ ht-degree: 0%
 
 ## 유의할 사항 {#note}
 
-* 클래식 &quot;Revenue Explorer&quot; 경험은 2025년 6월 10일에 영구적으로 사용되지 않습니다. 그동안 두 경험에서 보고서에 액세스하고 보고서를 만들고 업데이트하며 삭제할 수 있습니다.
+* 사용자 지정 보고서는 아래의 [새 경험 학습](#learning-the-new-experience) 섹션에 언급된 주목할 만한 동작 변경 사항과 함께 클래식 경험에서 새 경험으로 복제되었습니다.
 
-* 사용자 지정 보고서는 아래의 [새 경험 학습](#learning-the-new-experience) 섹션에서 언급된 주목할 만한 동작 변경 사항과 함께 클래식 경험에서 새 경험으로 복제됩니다.
+* 클래식 경험의 대시보드는 새 경험에서 전송할 수 없으며 필요한 레크리에이션입니다. 새 경험의 보고서로 다시 만들 수 있으며 새 경험의 필터는 자동으로 가능한 값을 가져옵니다.
 
-  >[!IMPORTANT]
+  >[!NOTE]
   >
-  >사용자 지정 보고서의 복제는 그룹에서 수행됩니다. 사용자 정의 보고서가 새 경험에 복제되면 두 경험 간에 일관성을 유지하기 위해 클래식 경험에서 변경한 사항은 새 경험의 해당 보고서에도 수동으로 적용해야 합니다. 위에 대한 정보 메모는 고객 보고서를 복제할 때 클래식 환경에서 사용할 수 있습니다.
-
-   * 클래식 경험의 대시보드는 양도할 수 없으며 새 경험에서 레크리에이션이 필요합니다. 이 매개 변수는 새 경험에서 보고서로 다시 만들어야 하며 클래식 경험에서 개별적으로 가능한 모든 값을 수동으로 입력할 필요 없이 새 경험의 필터가 자동으로 가능한 값을 가져옵니다.
-
-     >[!NOTE]
-     >
-     >새 경험의 대시보드는 단순히 단일 페이지에 있는 보고서 컬렉션입니다. 새 경험에서 대시보드의 기본 값은 여러 보고 영역에 걸쳐 분석 인사이트를 제공할 수 있도록 하는 것입니다.
-
-* 클래식 경험의 이메일 구독이 새 경험에 복제됩니다. 클래식 경험의 이메일 구독은 2025년 6월 10일에 클래식 경험의 사용이 중단될 때까지 계속 작동합니다.
-
-* 기존 Revenue Explorer 사용자는 자동으로 새로운 고급 BI Analytics 환경에 액세스할 수 있습니다.
+  >새 경험의 대시보드는 단순히 단일 페이지에 있는 보고서 컬렉션입니다. 새 경험에서 대시보드의 기본 값은 여러 보고 영역에 걸쳐 분석 인사이트를 제공할 수 있도록 하는 것입니다.
 
 * 고급 BI Analytics에서 **최대 700개의 보고서**&#x200B;를 만들 수 있습니다.
 
@@ -282,13 +272,9 @@ ht-degree: 0%
 
 * 이제 문자열 유형 필터는 대/소문자를 구분합니다.
 
-* 클래식 경험의 런타임 공식 필드는 더 이상 지원되지 않습니다.
-
 * 이메일 구독에는 보고서의 HTML이 아닌 PDF 내보내기가 포함됩니다. 새 이메일 구독에는 보고서 정의가 포함되지 않습니다.
 
 * 보고서의 딥링크는 현재 지원되지 않습니다.
-
-* PDF 내보내기는 클래식 경험에서 비동기적이었던 것에 비해 새 경험에서 동기적입니다.
 
 >[!NOTE]
 >
