@@ -5,7 +5,7 @@ title: 릴리스 일정
 exl-id: 38bd10e3-7f47-46f7-b9b0-83e1ab50014c
 feature: Release Information
 source-git-commit: 015ece7d2ad38f6e0c957298bce432316e8d9efa
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '136'
 ht-degree: 100%
 
@@ -19,7 +19,7 @@ ht-degree: 100%
 
 **상태**:
 
-* 일정에 따라 - 지정된 날짜에 기능 및 개선 사항을 릴리스할 계획입니다.
+* 일정대로 진행 중 - 지정된 날짜에 기능 및 개선 사항을 릴리스할 계획입니다.
 * 진행 중 - 릴리스 기능을 출시하는 중입니다.
 * 출시됨 - 릴리스가 완료되었습니다.
 
@@ -65,12 +65,12 @@ _릴리스 일자/기능은 변경될 수 있습니다._
   <tr>
    <td>2025년 9월</td>
    <td>2025년 9월 19일</td>
-   <td>일정에 따라</td>
+   <td>일정대로 진행 중</td>
   </tr>
   <tr>
    <td>2025년 10월</td>
    <td>2025년 10월 17일</td>
-   <td>일정에 따라</td>
+   <td>일정대로 진행 중</td>
   </tr>
  </tbody>
 </table>

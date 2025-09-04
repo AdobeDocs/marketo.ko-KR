@@ -4,15 +4,15 @@ title: 최신 릴리스 정보
 exl-id: a2eccad5-73ad-48f9-8091-51cee23824e1
 feature: Release Information
 source-git-commit: 015ece7d2ad38f6e0c957298bce432316e8d9efa
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '596'
-ht-degree: 96%
+ht-degree: 100%
 
 ---
 
 # 릴리스 정보: 2025년 8월 {#release-notes-aug-25}
 
-아래에서 2025년 8월 릴리스에 포함된 모든 기능을 확인할 수 있습니다. 기능 가용성은 Adobe Marketo Engage 에디션을 확인합니다.
+아래에서 2025년 8월 릴리스에 포함된 모든 기능을 확인할 수 있습니다. 기능 가용성에 대해 Adobe Marketo Engage 에디션을 확인하십시오.
 
 Adobe Dynamic Chat에 대한 릴리스 정보는 [여기에서 확인](/help/marketo/release-notes/dynamic-chat.md){target="_blank"}할 수 있습니다.
 
@@ -82,9 +82,9 @@ Adobe Dynamic Chat에 대한 릴리스 정보는 [여기에서 확인](/help/mar
    <td> </td>
   </tr>
   <tr>
-   <td><strong>Smart Campaign 제한 편집 권한</strong>: 이제 관리자는 권한이 부여된 사용자만 Smart Campaign 제한을 수정할 수 있는 기능을 제한할 수 있습니다.</td>
-   <td><i>곧 제공 예정</i></td>
-   <td><i>곧 제공 예정</i></td>
+   <td><strong>스마트 캠페인 한도 편집 권한</strong>: 이제 관리자는 스마트 캠페인 한도를 수정하는 기능을 권한이 있는 사용자에게만 제한할 수 있습니다.</td>
+   <td><i>곧 출시 예정</i></td>
+   <td><i>곧 출시 예정</i></td>
   </tr>
   </tbody>
 </table>

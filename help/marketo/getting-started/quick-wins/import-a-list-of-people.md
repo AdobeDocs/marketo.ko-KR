@@ -5,9 +5,9 @@ title: 사용자 목록 가져오기
 exl-id: a85ec787-7b22-4666-84fd-d7bf23d32cd4
 feature: Getting Started
 source-git-commit: 0c0dd3355f979577ec194f9e8f935615515905c0
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '541'
-ht-degree: 92%
+ht-degree: 100%
 
 ---
 
@@ -19,7 +19,7 @@ ht-degree: 92%
 >
 >[설정 및 사용자 추가](/help/marketo/getting-started/quick-wins/get-set-up-and-add-a-person.md){target="_blank"}
 
-이 자습서에서는 스프레드시트 파일에서 Marketo으로 사람들을 가져오는 방법을 배웁니다.
+이 튜토리얼에서는 스프레드시트 파일에서 Marketo로 사용자를 가져오는 방법에 대해 알아봅니다.
 
 ## 1단계: 스프레드시트 다운로드 및 편집 {#step-download-and-edit-a-spreadsheet}
 
@@ -113,7 +113,7 @@ ht-degree: 92%
 
    >[!TIP]
    >
-   >열 헤더는 항상 필드를 정확히 일치(대/소문자 구분)해야 최상의 자동 매핑 결과를 얻을 수 있습니다. 사용자 정의 필드를 사용 중이고 드롭다운에 표시되지 않으면 뒤로 돌아가서 [해당 필드를 만들어](/help/marketo/product-docs/administration/field-management/create-a-custom-field-in-marketo.md){target="_blank"} 옵션으로 만들 수 있도록 합니다.
+   >최상의 자동 매핑 결과를 얻으려면 열 헤더가 항상 필드와 정확히 일치해야(대소문자 구분) 합니다. 사용자 정의 필드를 사용 중이고 드롭다운에 표시되지 않으면 뒤로 돌아가서 [해당 필드를 만들어](/help/marketo/product-docs/administration/field-management/create-a-custom-field-in-marketo.md){target="_blank"} 옵션으로 만들 수 있도록 합니다.
 
    >[!NOTE]
    >
@@ -127,7 +127,7 @@ ht-degree: 92%
 
    ![](assets/import-a-list-of-people-14.png)
 
-1. **내 무역 박람회 프로그램**&#x200B;으로 돌아가서 **[!UICONTROL Members]** 탭을 클릭합니다. 방금 가져온 모든 사람을 볼 수 있습니다.
+1. **내 무역 박람회 프로그램**&#x200B;으로 돌아가서 **[!UICONTROL Members]** 탭을 클릭합니다. 방금 가져온 모든 사용자가 표시됩니다.
 
    ![](assets/import-a-list-of-people-15.png)
 
