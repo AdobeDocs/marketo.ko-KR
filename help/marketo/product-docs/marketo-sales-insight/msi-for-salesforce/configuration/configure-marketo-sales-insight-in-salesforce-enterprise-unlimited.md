@@ -41,7 +41,7 @@ ht-degree: 2%
    >
    >API 비밀 키는 조직의 암호와 같으며 안전해야 합니다.
 
-1. 자격 증명을 채우려면 **[!UICONTROL View]** 패널에서 _[!UICONTROL Rest API Configuration]_을(를) 클릭합니다.
+1. 자격 증명을 채우려면 **[!UICONTROL View]** 패널에서 _[!UICONTROL Rest API Configuration]_&#x200B;을(를) 클릭합니다.
 
    ![](assets/configure-marketo-sales-insight-in-salesforce-professional-edition-4.png)
 
@@ -81,7 +81,7 @@ ht-degree: 2%
 
    ![](assets/configure-marketo-sales-insight-in-salesforce-professional-edition-8.png)
 
-1. 원격 사이트 이름을 입력하십시오(`MarketoSoapAPI`과(와) 비슷할 수 있습니다). Marketo Engage의 _[!UICONTROL Soap API Configuration]_패널에서 Marketo 호스트 URL인 원격 사이트 URL을 입력합니다.**[!UICONTROL Save]**을(를) 클릭합니다. 이제 Soap API에 대한 원격 사이트 설정을 만들었습니다.
+1. 원격 사이트 이름을 입력하십시오(`MarketoSoapAPI`과(와) 비슷할 수 있습니다). Marketo Engage의 _[!UICONTROL Soap API Configuration]_&#x200B;패널에서 Marketo 호스트 URL인 원격 사이트 URL을 입력합니다.**[!UICONTROL Save]**&#x200B;을(를) 클릭합니다. 이제 Soap API에 대한 원격 사이트 설정을 만들었습니다.
 
    ![](assets/configure-marketo-sales-insight-in-salesforce-professional-edition-9.png)
 
@@ -89,7 +89,7 @@ ht-degree: 2%
 
    ![](assets/configure-marketo-sales-insight-in-salesforce-professional-edition-10.png)
 
-1. 원격 사이트 이름을 입력하십시오(`MarketoAPI`과(와) 비슷할 수 있습니다). Marketo Engage의 _[!UICONTROL Rest API Configuration]_패널에서 가져온 API URL인 원격 사이트 URL을 입력합니다.**[!UICONTROL Save]**을(를) 클릭합니다. 이제 Rest API에 대한 원격 사이트 설정을 만들었습니다.
+1. 원격 사이트 이름을 입력하십시오(`MarketoAPI`과(와) 비슷할 수 있습니다). Marketo Engage의 _[!UICONTROL Rest API Configuration]_&#x200B;패널에서 가져온 API URL인 원격 사이트 URL을 입력합니다.**[!UICONTROL Save]**&#x200B;을(를) 클릭합니다. 이제 Rest API에 대한 원격 사이트 설정을 만들었습니다.
 
    >[!NOTE]
    >
@@ -105,7 +105,7 @@ Salesforce 보안 향상으로 인해 AppExchange 패키지는 더 이상 표준
 
 1. Salesforce 사용자가 사용 중인 프로필 옆의 **[!UICONTROL Edit]**&#x200B;을(를) 클릭합니다.
 
-1. _[!UICONTROL Standard Object Permission]_섹션에서&#x200B;**[!UICONTROL Read]**, [!UICONTROL Lead], [!UICONTROL Contact] 및 [!UICONTROL Account] 개체에 대해 [!UICONTROL Opportunity] 액세스를 사용하도록 설정합니다.
+1. _[!UICONTROL Standard Object Permission]_&#x200B;섹션에서&#x200B;**[!UICONTROL Read]**, [!UICONTROL Lead], [!UICONTROL Contact] 및 [!UICONTROL Account] 개체에 대해 [!UICONTROL Opportunity] 액세스를 사용하도록 설정합니다.
 
 1. **[!UICONTROL Save]**&#x200B;를 클릭합니다.
 
@@ -119,7 +119,7 @@ Salesforce 보안 향상으로 인해 AppExchange 패키지는 더 이상 표준
 
    ![](assets/image2015-5-28-14-3a58-3a39.png)
 
-1. 왼쪽의 **[!UICONTROL Visualforce Pages]**&#x200B;을(를) 클릭합니다. **[!UICONTROL Section]**&#x200B;을(를) _[!UICONTROL Custom Links]_섹션 아래의 레이아웃으로 끕니다.
+1. 왼쪽의 **[!UICONTROL Visualforce Pages]**&#x200B;을(를) 클릭합니다. **[!UICONTROL Section]**&#x200B;을(를) _[!UICONTROL Custom Links]_&#x200B;섹션 아래의 레이아웃으로 끕니다.
 
    ![](assets/image2014-9-24-17-3a32-3a53.png)
 
