@@ -5,16 +5,16 @@ hide: true
 hidefromtoc: true
 feature: Release Information
 exl-id: 0ca5e844-c30b-4c86-a23d-d8f2c1bdddf5
-source-git-commit: dd8604c1eeca1c56441d537b40e08571e96198a7
+source-git-commit: 95dda7d6e09f0e64fbce8e5bd39613f10ebde382
 workflow-type: tm+mt
-source-wordcount: '420'
-ht-degree: 93%
+source-wordcount: '494'
+ht-degree: 75%
 
 ---
 
 # 릴리스 노트: 2025년 9월 {#release-notes-sep-25}
 
-아래에는 2025년 9월 릴리스에 포함된 모든 기능이 있습니다. 기능 가용성은 Adobe Marketo Engage 에디션을 확인합니다.
+아래에는 2025년 9월 릴리스에 포함된 모든 기능이 있습니다. 기능 가용성에 대해 Adobe Marketo Engage 에디션을 확인하십시오.
 
 Adobe Dynamic Chat에 대한 릴리스 정보는 [여기에서 확인](/help/marketo/release-notes/dynamic-chat.md){target="_blank"}할 수 있습니다.
 
@@ -34,65 +34,17 @@ Adobe Dynamic Chat에 대한 릴리스 정보는 [여기에서 확인](/help/mar
    <th style="width:25%">설명서</th>
   </tr>
   <tr>
-   <td><strong>제목</strong>: 설명.</td>
-   <td><i>곧 제공 예정</i></td>
-   <td><i>곧 제공 예정</i></td>
-  </tr>
-  <tr>
-   <td> </td>
-   <td> </td>
-   <td> </td>
-  </tr>
-  <tr>
-   <td><strong>제목</strong>: 설명.</td>
-   <td><i>곧 제공 예정</i></td>
-   <td><i>곧 제공 예정</i></td>
-  </tr>
-  <tr>
-   <td> </td>
-   <td> </td>
-   <td> </td>
-  </tr>
-  <tr>
-   <td><strong>제목</strong>: 설명.</td>
-   <td><i>곧 제공 예정</i></td>
-   <td><i>곧 제공 예정</i></td>
-  </tr>
-  <tr>
-   <td> </td>
-   <td> </td>
-   <td> </td>
-  </tr>
-  <tr>
-   <td><strong>제목</strong>: 설명.</td>
-   <td><i>곧 제공 예정</i></td>
-   <td><i>곧 제공 예정</i></td>
-  </tr>
-  <tr>
-   <td> </td>
-   <td> </td>
-   <td> </td>
-  </tr>
-  <tr>
-   <td><strong>제목</strong>: 설명.</td>
-   <td><i>곧 제공 예정</i></td>
-   <td><i>곧 제공 예정</i></td>
-  </tr>
-  <tr>
-   <td> </td>
-   <td> </td>
-   <td> </td>
-  </tr>
-  <tr>
-   <td><strong>제목</strong>: 설명.</td>
-   <td><i>곧 제공 예정</i></td>
-   <td><i>곧 제공 예정</i></td>
+   <td><strong>온디맨드 웨비나 활동 유지</strong>: 대화형 웨비나 사용자는 이제 온디맨드 웨비나 대시보드 데이터를 30일 이상 사용할 수 있습니다(이전에는 웨비나 날로부터 최대 30일까지였습니다).</td>
+   <td><i>곧 출시 예정</i></td>
+   <td><i>곧 출시 예정</i></td>
   </tr>
   </tbody>
 </table>
 <br/>
 
 ## 공지 {#announcements}
+
+* **새 전자 메일 Designer에서 Velocity 스크립팅으로 다시 전환**: Adobe Marketo Engage은 지난 6월에 새 전자 메일 Designer에 대해 _조건부 콘텐츠_&#x200B;라는 기능을 발표했습니다. 이 기능은 동적 컨텐츠에 보다 많은 유연성을 제공하기 위해 Velocity 스크립팅 대신 Handlebar 스크립팅을 기반으로 합니다. 그러나 일부 토큰이 잘못 해결되는 것을 발견했을 때 일시적으로 비활성화하기로 결정했습니다. [자세히 알아보기](https://nation.marketo.com/t5/product-blogs/update-on-email-scripting-in-the-new-email-designer/ba-p/358179){target="_blank"}
 
 * **Marketo Engage Identity 지원 중단**: 2025년 8월에 Adobe는 Marketo Engage Identity(`login.marketo.com`을 통한 로그인)에 대한 지원을 단계적으로 중단하기 시작했습니다. Marketo Engage에 대한 액세스가 중단되는 것을 방지하려면 늦어도 2025년 9월 30일까지 [Adobe Identity](https://experienceleague.adobe.com/ko/docs/marketo/using/product-docs/administration/marketo-with-adobe-identity/adobe-identity-management-overview){target="_blank"}로 전환해야 합니다.
 

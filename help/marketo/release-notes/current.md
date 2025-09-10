@@ -3,16 +3,16 @@ description: 최신 릴리스 정보 - Marketo 설명서 - 제품 설명서
 title: 최신 릴리스 정보
 exl-id: a2eccad5-73ad-48f9-8091-51cee23824e1
 feature: Release Information
-source-git-commit: 015ece7d2ad38f6e0c957298bce432316e8d9efa
-workflow-type: ht
-source-wordcount: '596'
-ht-degree: 100%
+source-git-commit: 95dda7d6e09f0e64fbce8e5bd39613f10ebde382
+workflow-type: tm+mt
+source-wordcount: '494'
+ht-degree: 75%
 
 ---
 
-# 릴리스 정보: 2025년 8월 {#release-notes-aug-25}
+# 릴리스 노트: 2025년 9월 {#release-notes-sep-25}
 
-아래에서 2025년 8월 릴리스에 포함된 모든 기능을 확인할 수 있습니다. 기능 가용성에 대해 Adobe Marketo Engage 에디션을 확인하십시오.
+아래에는 2025년 9월 릴리스에 포함된 모든 기능이 있습니다. 기능 가용성에 대해 Adobe Marketo Engage 에디션을 확인하십시오.
 
 Adobe Dynamic Chat에 대한 릴리스 정보는 [여기에서 확인](/help/marketo/release-notes/dynamic-chat.md){target="_blank"}할 수 있습니다.
 
@@ -22,7 +22,7 @@ Adobe Dynamic Chat에 대한 릴리스 정보는 [여기에서 확인](/help/mar
 
 ## 표준 릴리스 주기 기능 {#standard-release-cycle-features}
 
-다음 기능은 표준 릴리스 주기에 포함되며, **2025년 8월 22일**&#x200B;부터 출시되기 시작하고 나머지 기능은 이후 몇 주에 걸쳐 단계적으로 출시될 예정입니다. 릴리스 기능 및 날짜는 변경될 수 있습니다. 각 기능 옆에서 상태를 확인합니다.
+다음 기능은 표준 릴리스 주기에 포함되며, **2025년 9월 19일 토요일**&#x200B;부터 출시되기 시작하고 나머지 기능은 이후 몇 주에 걸쳐 단계적으로 출시될 예정입니다. 릴리스 기능 및 날짜는 변경될 수 있습니다. 각 기능 옆에서 상태를 확인합니다.
 
 <table style="table-layout:auto">
  <tbody>
@@ -32,57 +32,7 @@ Adobe Dynamic Chat에 대한 릴리스 정보는 [여기에서 확인](/help/mar
    <th style="width:25%">설명서</th>
   </tr>
   <tr>
-   <td><strong>이메일 디자이너 - 보고</strong>: 이메일 성과 및 이메일 링크 성과 보고서에 이제 새로운 이메일 디자이너를 사용하여 생성된 이메일의 데이터가 표시됩니다.</td>
-   <td>출시됨</td>
-   <td>해당 사항 없음</td>
-  </tr>
-  <tr>
-   <td> </td>
-   <td> </td>
-   <td> </td>
-  </tr>
-  <tr>
-   <td><strong>이메일 디자이너 - 자동 완성 제거</strong>: 토큰 개인화 편집기의 자동 완성 옵션이 잘못된 오브젝트를 가리키고 있어 제거되었습니다. 현재로선 다시 시행할 계획이 없습니다.</td>
-   <td>출시됨</td>
-   <td>해당 사항 없음</td>
-  </tr>
-  <tr>
-   <td> </td>
-   <td> </td>
-   <td> </td>
-  </tr>
-  <tr>
-   <td><strong>이메일 디자이너 - 이메일 미리보기 최적화</strong>: 일부 사용자는 이메일/이메일 템플릿/조각 세부 정보 페이지에서 이메일을 미리 보려고 할 때 로딩 시간이 느려졌습니다. 이 경험은 최대 60% 더 빠른 로드 시간을 제공하도록 최적화되었습니다.</td>
-   <td>출시됨</td>
-   <td>해당 사항 없음</td>
-  </tr>
-  <tr>
-   <td> </td>
-   <td> </td>
-   <td> </td>
-  </tr>
-  <tr>
-   <td><strong>이메일 디자이너 - 템플릿 수정</strong>: 일부 기본 템플릿에 렌더링 문제가 있었습니다(예: 특정 브라우저/다크 모드에서 올바르게 렌더링되지 않음, 이미지 정렬 오류, CTA 버튼 배치 오류 등). 이 모든 문제는 이번 릴리스에서 수정되었습니다.</td>
-   <td>출시됨</td>
-   <td>해당 사항 없음</td>
-  </tr>
-  <tr>
-   <td> </td>
-   <td> </td>
-   <td> </td>
-  </tr>
-  <tr>
-   <td><strong>이메일 디자이너 - 콘텐츠 잠금 수정</strong>: 이전에는 콘텐츠 잠금 기능이 있는 이메일 템플릿을 만들고, 그 템플릿을 사용해 이메일을 만든 경우, 이메일을 재설정하거나 “디자인 변경”을 선택하더라도 콘텐츠 잠금이 지속되었습니다. 이 문제는 이번 릴리스에서 수정되었습니다.</td>
-   <td>출시됨</td>
-   <td>해당 사항 없음</td>
-  </tr>
-  <tr>
-   <td> </td>
-   <td> </td>
-   <td> </td>
-  </tr>
-  <tr>
-   <td><strong>스마트 캠페인 한도 편집 권한</strong>: 이제 관리자는 스마트 캠페인 한도를 수정하는 기능을 권한이 있는 사용자에게만 제한할 수 있습니다.</td>
+   <td><strong>온디맨드 웨비나 활동 유지</strong>: 대화형 웨비나 사용자는 이제 온디맨드 웨비나 대시보드 데이터를 30일 이상 사용할 수 있습니다(이전에는 웨비나 날로부터 최대 30일까지였습니다).</td>
    <td><i>곧 출시 예정</i></td>
    <td><i>곧 출시 예정</i></td>
   </tr>
@@ -91,6 +41,8 @@ Adobe Dynamic Chat에 대한 릴리스 정보는 [여기에서 확인](/help/mar
 <br/>
 
 ## 공지 {#announcements}
+
+* **새 전자 메일 Designer에서 Velocity 스크립팅으로 다시 전환**: Adobe Marketo Engage은 지난 6월에 새 전자 메일 Designer에 대해 _조건부 콘텐츠_&#x200B;라는 기능을 발표했습니다. 이 기능은 동적 컨텐츠에 보다 많은 유연성을 제공하기 위해 Velocity 스크립팅 대신 Handlebar 스크립팅을 기반으로 합니다. 그러나 일부 토큰이 잘못 해결되는 것을 발견했을 때 일시적으로 비활성화하기로 결정했습니다. [자세히 알아보기](https://nation.marketo.com/t5/product-blogs/update-on-email-scripting-in-the-new-email-designer/ba-p/358179){target="_blank"}
 
 * **Marketo Engage Identity 지원 중단**: 2025년 8월에 Adobe는 Marketo Engage Identity(`login.marketo.com`을 통한 로그인)에 대한 지원을 단계적으로 중단하기 시작했습니다. Marketo Engage에 대한 액세스가 중단되는 것을 방지하려면 늦어도 2025년 9월 30일까지 [Adobe Identity](https://experienceleague.adobe.com/ko/docs/marketo/using/product-docs/administration/marketo-with-adobe-identity/adobe-identity-management-overview){target="_blank"}로 전환해야 합니다.
 
