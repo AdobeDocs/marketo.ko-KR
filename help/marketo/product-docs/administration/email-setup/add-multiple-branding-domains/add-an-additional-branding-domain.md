@@ -45,9 +45,9 @@ ht-degree: 3%
 
 기존 도메인에 대해 SSL을 활성화하려면 다음 단계를 따르십시오.
 
-1. _[!UICONTROL Admin]_영역에서&#x200B;**[!UICONTROL Email]**을(를) 선택합니다.
+1. _[!UICONTROL Admin]_&#x200B;영역에서&#x200B;**[!UICONTROL Email]**&#x200B;을(를) 선택합니다.
 
-1. _[!UICONTROL Domain]_탭에서 도메인 행을 선택하고&#x200B;**[!UICONTROL Add SSL]**을(를) 클릭합니다.
+1. _[!UICONTROL Domain]_&#x200B;탭에서 도메인 행을 선택하고&#x200B;**[!UICONTROL Add SSL]**&#x200B;을(를) 클릭합니다.
 
    ![관리자 - 전자 메일 - 도메인 - SSL 추가](./assets/admin-email-branding-domain-add-ssl.png){width="600"}
 
