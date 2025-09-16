@@ -4,15 +4,15 @@ title: 최신 릴리스 정보
 exl-id: a2eccad5-73ad-48f9-8091-51cee23824e1
 feature: Release Information
 source-git-commit: 95dda7d6e09f0e64fbce8e5bd39613f10ebde382
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '494'
-ht-degree: 75%
+ht-degree: 100%
 
 ---
 
-# 릴리스 노트: 2025년 9월 {#release-notes-sep-25}
+# 릴리스 정보: 2025년 9월 {#release-notes-sep-25}
 
-아래에는 2025년 9월 릴리스에 포함된 모든 기능이 있습니다. 기능 가용성에 대해 Adobe Marketo Engage 에디션을 확인하십시오.
+아래에서 2025년 9월 릴리스에 포함된 모든 기능을 확인할 수 있습니다. 기능 가용성에 대해 Adobe Marketo Engage 에디션을 확인하십시오.
 
 Adobe Dynamic Chat에 대한 릴리스 정보는 [여기에서 확인](/help/marketo/release-notes/dynamic-chat.md){target="_blank"}할 수 있습니다.
 
@@ -32,7 +32,7 @@ Adobe Dynamic Chat에 대한 릴리스 정보는 [여기에서 확인](/help/mar
    <th style="width:25%">설명서</th>
   </tr>
   <tr>
-   <td><strong>온디맨드 웨비나 활동 유지</strong>: 대화형 웨비나 사용자는 이제 온디맨드 웨비나 대시보드 데이터를 30일 이상 사용할 수 있습니다(이전에는 웨비나 날로부터 최대 30일까지였습니다).</td>
+   <td><strong>온디맨드 웨비나 활동 유지</strong>: 대화형 웨비나 사용자는 이제 온디맨드 웨비나 대시보드 데이터를 30일 넘게 사용할 수 있습니다(기존에는 웨비나 날짜로부터 최대 30일까지만 가능).</td>
    <td><i>곧 출시 예정</i></td>
    <td><i>곧 출시 예정</i></td>
   </tr>
@@ -42,7 +42,7 @@ Adobe Dynamic Chat에 대한 릴리스 정보는 [여기에서 확인](/help/mar
 
 ## 공지 {#announcements}
 
-* **새 전자 메일 Designer에서 Velocity 스크립팅으로 다시 전환**: Adobe Marketo Engage은 지난 6월에 새 전자 메일 Designer에 대해 _조건부 콘텐츠_&#x200B;라는 기능을 발표했습니다. 이 기능은 동적 컨텐츠에 보다 많은 유연성을 제공하기 위해 Velocity 스크립팅 대신 Handlebar 스크립팅을 기반으로 합니다. 그러나 일부 토큰이 잘못 해결되는 것을 발견했을 때 일시적으로 비활성화하기로 결정했습니다. [자세히 알아보기](https://nation.marketo.com/t5/product-blogs/update-on-email-scripting-in-the-new-email-designer/ba-p/358179){target="_blank"}
+* **새로운 이메일 디자이너에서 Velocity Scripting으로 다시 전환**: Adobe Marketo Engage는 지난 6월 새로운 이메일 디자이너를 위한 _조건부 콘텐츠_ 기능을 출시했습니다. 이 기능은 Velocity Scripting에서 대신 Handlebar Scripting을 사용해 다이내믹 콘텐츠에 더 큰 유연성을 제공하기 위한 것입니다. 하지만 이로 인해 일부 토큰이 잘못 해석되는 현상이 발견되었으며 이 기능을 일시적으로 비활성화하기로 결정했습니다. [자세히 알아보기](https://nation.marketo.com/t5/product-blogs/update-on-email-scripting-in-the-new-email-designer/ba-p/358179){target="_blank"}
 
 * **Marketo Engage Identity 지원 중단**: 2025년 8월에 Adobe는 Marketo Engage Identity(`login.marketo.com`을 통한 로그인)에 대한 지원을 단계적으로 중단하기 시작했습니다. Marketo Engage에 대한 액세스가 중단되는 것을 방지하려면 늦어도 2025년 9월 30일까지 [Adobe Identity](https://experienceleague.adobe.com/ko/docs/marketo/using/product-docs/administration/marketo-with-adobe-identity/adobe-identity-management-overview){target="_blank"}로 전환해야 합니다.
 
