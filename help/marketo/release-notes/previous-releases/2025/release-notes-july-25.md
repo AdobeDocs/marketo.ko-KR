@@ -3,7 +3,7 @@ description: 릴리스 노트 - 2025년 7월 - Marketo 설명서 - 제품 설명
 title: 릴리스 노트 - 2025년 7월
 feature: Release Information
 exl-id: 86776722-c640-4e55-9551-38ff34de566b
-source-git-commit: bd1179a632c0363d62e262cb153b8f83dc0bfbf5
+source-git-commit: 29c1b59c9d2598626f546554a8bdc1b26b9e1590
 workflow-type: tm+mt
 source-wordcount: '714'
 ht-degree: 98%

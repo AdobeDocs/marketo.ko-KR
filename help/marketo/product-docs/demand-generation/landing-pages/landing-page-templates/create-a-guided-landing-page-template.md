@@ -4,10 +4,10 @@ description: 가이드 랜딩 페이지 템플릿 만들기 - Marketo 문서 - �
 title: 가이드 랜딩 페이지 템플릿 만들기
 exl-id: 7d097162-d862-4d09-9440-aba1628450c2
 feature: Landing Pages
-source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
+source-git-commit: 29c1b59c9d2598626f546554a8bdc1b26b9e1590
 workflow-type: tm+mt
-source-wordcount: '1263'
-ht-degree: 1%
+source-wordcount: '1122'
+ht-degree: 2%
 
 ---
 
@@ -79,7 +79,7 @@ src: 문자열 URL 이 값은 이미지의 기본값으로 사용됩니다.
 
 >[!NOTE]
 >
->`<img>` 버전을 사용하는 경우 렌더링된 HTML에 `<img>` 태그 주위에 생성된 div 래퍼가 포함됩니다. 클래스로 설정됩니다 .&quot;mktoImg.mktoGen&quot; 및 :inline-block 표시가 됩니다.
+>`<img>` 버전을 사용하는 경우 렌더링된 HTML에 `<img>` 태그 주위에 생성된 div 래퍼가 포함됩니다. 클래스로 설정됩니다.&quot;mktoImg.mktoGen&quot;이고 :inline-block에 표시됩니다.
 
 ## 양식 {#form}
 
@@ -90,7 +90,7 @@ src: 문자열 URL 이 값은 이미지의 기본값으로 사용됩니다.
 
 `<div class="mktoForm" id="exampleForm" mktoName="Example Form"></div>`
 
-## 코드 조각 {#snippet}
+## 스니펫 {#snippet}
 
 필수 속성:
 **class**: &quot;mktoSnippet&quot;
@@ -126,39 +126,6 @@ src: 문자열 URL 이 값은 이미지의 기본값으로 사용됩니다.
 예:
 
 `<div class="mktoVideo" id="exampleVideo" mktoName="Example Video"></div>`
-
-## 여론 조사 {#poll}
-
-필수 속성:
-**클래스**: &quot;mktoPoll&quot;
-**id**: ID 문자열입니다. 문자, 숫자, 대시 &quot;-&quot; 및 밑줄 &quot;_&quot;만 포함합니다. 공백은 허용되지 않습니다. 고유해야 합니다.
-**mktoName** : 문자열입니다. 랜딩 페이지 편집기에 표시되는 표시 이름입니다. 가장 좋은 방법은 수사적 이름을 사용하는 것입니다.
-
-예:
-
-`<div class="mktoPoll" id="examplePoll" mktoName="Example Poll"></div>`
-
-## 레퍼러 {#referral}
-
-필수 속성:
-**클래스**: &quot;mktoReferral&quot;
-**id**: ID 문자열입니다. 문자, 숫자, 대시 &quot;-&quot; 및 밑줄 &quot;_&quot;만 포함합니다. 공백은 허용되지 않습니다. 고유해야 합니다.
-**mktoName** : 문자열입니다. 랜딩 페이지 편집기에 표시되는 표시 이름입니다. 가장 좋은 방법은 수사적 이름을 사용하는 것입니다.
-
-예:
-
-`<div class="mktoReferral" id="exampleReferral" mktoName="Example Referral"></div>`
-
-## 경품 추첨 {#sweepstakes}
-
-필수 속성:
-**클래스**: &quot;mktoSweepstakes&quot;
-**id**: ID 문자열입니다. 문자, 숫자, 대시 &quot;-&quot; 및 밑줄 &quot;_&quot;만 포함합니다. 공백은 허용되지 않습니다. 고유해야 합니다.
-**mktoName** : 문자열입니다. 랜딩 페이지 편집기에 표시되는 표시 이름입니다. 가장 좋은 방법은 수사적 이름을 사용하는 것입니다.
-
-예:
-
-`<div class="mktoSweepstakes" id="exampleSweepstakes" mktoName="Example Sweepstakes"></div>`
 
 ## 편집 가능한 변수 {#editable-variables}
 
