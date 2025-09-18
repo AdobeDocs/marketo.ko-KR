@@ -3,10 +3,10 @@ description: 최신 릴리스 정보 - Marketo 설명서 - 제품 설명서
 title: 최신 릴리스 정보
 exl-id: a2eccad5-73ad-48f9-8091-51cee23824e1
 feature: Release Information
-source-git-commit: 95dda7d6e09f0e64fbce8e5bd39613f10ebde382
-workflow-type: ht
-source-wordcount: '494'
-ht-degree: 100%
+source-git-commit: 9189d45829a23a3b9eb75fc4125db92c3508773d
+workflow-type: tm+mt
+source-wordcount: '653'
+ht-degree: 78%
 
 ---
 
@@ -33,6 +33,46 @@ Adobe Dynamic Chat에 대한 릴리스 정보는 [여기에서 확인](/help/mar
   </tr>
   <tr>
    <td><strong>온디맨드 웨비나 활동 유지</strong>: 대화형 웨비나 사용자는 이제 온디맨드 웨비나 대시보드 데이터를 30일 넘게 사용할 수 있습니다(기존에는 웨비나 날짜로부터 최대 30일까지만 가능).</td>
+   <td><i>곧 출시 예정</i></td>
+   <td><i>곧 제공 예정</i></td>
+  </tr>
+  <tr>
+   <td> </td>
+   <td> </td>
+   <td> </td>
+  </tr>
+  <tr>
+   <td><strong>이메일 Designer - 콘텐츠 Collaboration 워크플로</strong>: 이제 이메일 에셋 내에서 동료 Marketo 사용자에 대해 댓글을 달고 공동 작업을 수행할 수 있습니다. 팀 구성원(적절한 에셋 권한이 있는 Marketo 사용자)에 태그를 지정하면 이메일 또는 Pulse 알림을 받게 됩니다.</td>
+   <td><i>곧 출시 예정</i></td>
+   <td><i>곧 제공 예정</i></td>
+  </tr>
+  <tr>
+   <td> </td>
+   <td> </td>
+   <td> </td>
+  </tr>
+  <tr>
+   <td><strong>Designer - AI 관리자 권한 보내기</strong>: Marketo 관리자는 특정 사용자에게 GenAI 기능에 대한 액세스 권한을 제공할 수 있습니다.</td>
+   <td><i>곧 출시 예정</i></td>
+   <td><i>곧 제공 예정</i></td>
+  </tr>
+  <tr>
+   <td> </td>
+   <td> </td>
+   <td> </td>
+  </tr>
+  <tr>
+   <td><strong>어두운 모드</strong>: 이제 지원 전자 메일 클라이언트 및 앱에서 텍스트, 단추 및 기타 UI 요소에 대해 어두운 배경과 밝은 색상의 전자 메일을 표시할 수 있는 [어두운 모드]를 사용할 수 있습니다.</td>
+   <td><i>곧 출시 예정</i></td>
+   <td><i>곧 제공 예정</i></td>
+  </tr>
+  <tr>
+   <td> </td>
+   <td> </td>
+   <td> </td>
+  </tr>
+  <tr>
+   <td><strong>이메일 Designer - 리디렉션 수정 사항</strong>: 일부 사용자에게 새 Designer을 사용하여 만든 이메일의 URL에 리디렉션 문제가 발생했습니다(예: URL을 직접 붙여넣거나 이메일 에셋을 책갈피로 표시하는 것은 항상 작동하지 않음). 이 문제는 해결되었습니다. 또한 <b>전자 메일 템플릿</b> &gt; <b>세부 정보</b> &gt; <b>사용자</b>에서 전자 메일 자산으로 연결되는 링크가 해당 전자 메일 자산으로 리디렉션됩니다.</td>
    <td><i>곧 출시 예정</i></td>
    <td><i>곧 출시 예정</i></td>
   </tr>
