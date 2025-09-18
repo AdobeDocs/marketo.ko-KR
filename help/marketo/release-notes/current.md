@@ -3,10 +3,10 @@ description: 최신 릴리스 정보 - Marketo 설명서 - 제품 설명서
 title: 최신 릴리스 정보
 exl-id: a2eccad5-73ad-48f9-8091-51cee23824e1
 feature: Release Information
-source-git-commit: 29c1b59c9d2598626f546554a8bdc1b26b9e1590
+source-git-commit: 6d09e0f684844d7d2ced6205d7becde90ffcd7c7
 workflow-type: tm+mt
-source-wordcount: '653'
-ht-degree: 78%
+source-wordcount: '655'
+ht-degree: 77%
 
 ---
 
@@ -62,7 +62,7 @@ Adobe Dynamic Chat에 대한 릴리스 정보는 [여기에서 확인](/help/mar
    <td> </td>
   </tr>
   <tr>
-   <td><strong>어두운 모드</strong>: 이제 지원 전자 메일 클라이언트 및 앱에서 텍스트, 단추 및 기타 UI 요소에 대해 어두운 배경과 밝은 색상의 전자 메일을 표시할 수 있는 [어두운 모드]를 사용할 수 있습니다.</td>
+   <td><strong>이메일 Designer - 다크 모드</strong>: 이제 지원되는 이메일 클라이언트와 앱에서 텍스트, 단추 및 기타 UI 요소에 대해 더 어두운 배경과 더 밝은 색상의 이메일을 표시할 수 있는 다크 모드를 사용할 수 있습니다.</td>
    <td><i>곧 출시 예정</i></td>
    <td><i>곧 제공 예정</i></td>
   </tr>
