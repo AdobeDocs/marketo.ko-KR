@@ -4,8 +4,8 @@ description: Adobe Marketo Engage란 무엇입니까? - Marketo 설명서 - 제�
 title: Adobe Marketo Engage란 무엇입니까?
 exl-id: 7b76e910-6c01-4fdb-8ab8-f6b1abe13136
 feature: Getting Started
-source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
-workflow-type: ht
+source-git-commit: 94f8ed13720ead55696572be211889d36789a0bd
+workflow-type: tm+mt
 source-wordcount: '286'
 ht-degree: 100%
 
