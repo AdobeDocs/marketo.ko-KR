@@ -1,12 +1,12 @@
 ---
 description: 영업 Insight 작업의 중요한 순간 - Marketo 문서 - 제품 설명서
-title: 영업 Insight 작업의 중요한 순간
+title: Sales Insight Actions의 즐거운 순간
 exl-id: b2423fbb-9ce0-4ce9-bc26-93aa69aa9e12
 feature: Sales Insight Actions
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '232'
-ht-degree: 0%
+ht-degree: 2%
 
 ---
 

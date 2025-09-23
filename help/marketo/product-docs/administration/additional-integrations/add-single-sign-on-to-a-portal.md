@@ -1,17 +1,17 @@
 ---
 unique-page-id: 2360356
 description: 포털에 SSO(Single Sign-On) 추가 - Marketo 문서 - 제품 설명서
-title: 포털에 SSO(Single Sign-On) 추가
+title: 포털에 Single Sign-On 추가
 exl-id: 72f96239-7252-4cbc-bbe1-84ac7ae7f92e
 feature: Administration
-source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '571'
-ht-degree: 0%
+ht-degree: 3%
 
 ---
 
-# 포털에 SSO(Single Sign-On) 추가 {#add-single-sign-on-to-a-portal}
+# 포털에 Single Sign-On 추가 {#add-single-sign-on-to-a-portal}
 
 사용자를 인증하는 디렉터리 서비스가 있는 경우 Marketo에 SSO(Single Sign-On)를 허용할 수 있습니다. [!DNL Security Assertion Markup Language]&#x200B;(SAML) 버전 2.0 이상을 사용하여 이 기능을 지원합니다.
 
@@ -63,7 +63,7 @@ SSO는 기본적으로 비활성화되어 있습니다. 다음 단계에 따라 
 
    ![](assets/add-single-sign-on-to-a-portal-1.png)
 
-1. **[!UICONTROL Single Sign-On]**&#x200B;을(를) 클릭합니다.
+1. **[!UICONTROL Single Sign-On]**&#x200B;를 클릭합니다.
 
    ![](assets/add-single-sign-on-to-a-portal-2.png)
 
@@ -87,7 +87,7 @@ SSO는 기본적으로 비활성화되어 있습니다. 다음 단계에 따라 
 
    ![](assets/add-single-sign-on-to-a-portal-6.png)
 
-1. **[!UICONTROL Save]**&#x200B;을(를) 클릭합니다.
+1. **[!UICONTROL Save]**&#x200B;를 클릭합니다.
 
    ![](assets/add-single-sign-on-to-a-portal-7.png)
 
@@ -105,7 +105,7 @@ SSO는 기본적으로 비활성화되어 있습니다. 다음 단계에 따라 
 
    ![](assets/add-single-sign-on-to-a-portal-9.png)
 
-1. **[!UICONTROL Error URL]** 입력. Marketo 로그인에 실패할 경우 사용자에게 표시하려는 URL입니다. **[!UICONTROL Save]**&#x200B;을(를) 클릭합니다.
+1. **[!UICONTROL Error URL]** 입력. Marketo 로그인에 실패할 경우 사용자에게 표시하려는 URL입니다. **[!UICONTROL Save]**&#x200B;를 클릭합니다.
 
    ![](assets/add-single-sign-on-to-a-portal-10.png)
 

@@ -1,17 +1,17 @@
 ---
 unique-page-id: 42762519
 description: 기존 고객에 대한 구성 - Marketo 문서 - 제품 설명서
-title: 기존 고객을 위한 구성
+title: 기존 고객에 대한 구성
 exl-id: e365f6b5-a3ec-492e-9348-2d3226e6c7eb
 feature: Marketo Sales Insights
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '147'
-ht-degree: 2%
+ht-degree: 10%
 
 ---
 
-# 기존 고객을 위한 구성 {#configuration-for-existing-customers}
+# 기존 고객에 대한 구성 {#configuration-for-existing-customers}
 
 새 Insights 대시보드를 사용하려면 다음 구성을 설정하십시오.
 
@@ -27,7 +27,7 @@ ht-degree: 2%
 
    ![](assets/configuration-for-existing-customers-1.png)
 
-1. **[!UICONTROL Sales Insight]**&#x200B;을(를) 클릭합니다.
+1. **[!UICONTROL Sales Insight]**&#x200B;를 클릭합니다.
 
    ![](assets/configuration-for-existing-customers-2.png)
 
@@ -35,7 +35,7 @@ ht-degree: 2%
 
    ![](assets/configuration-for-existing-customers-3.png)
 
-1. 확인 팝업이 표시됩니다. **[!UICONTROL OK]**&#x200B;을(를) 클릭합니다.
+1. 확인 팝업이 표시됩니다. **[!UICONTROL OK]**&#x200B;를 클릭합니다.
 
 ## [!DNL Sales Insight]에서 [!DNL Salesforce] 구성 {#configure-sales-insight-in-salesforce}
 
@@ -47,7 +47,7 @@ ht-degree: 2%
 
    ![](assets/configuration-for-existing-customers-5.png)
 
-1. **[!UICONTROL New Remote Site]**&#x200B;을(를) 클릭합니다.
+1. **[!UICONTROL New Remote Site]**&#x200B;를 클릭합니다.
 
    ![](assets/configuration-for-existing-customers-6.png)
 
@@ -55,7 +55,7 @@ ht-degree: 2%
 
    ![](assets/configuration-for-existing-customers-7.png)
 
-1. **[!UICONTROL Save]**&#x200B;을(를) 클릭합니다.
+1. **[!UICONTROL Save]**&#x200B;를 클릭합니다.
 
    ![](assets/configuration-for-existing-customers-8.png)
 

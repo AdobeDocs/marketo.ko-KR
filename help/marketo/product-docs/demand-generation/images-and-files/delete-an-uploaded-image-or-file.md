@@ -4,10 +4,10 @@ description: 업로드된 이미지 또는 파일 삭제 - Marketo 문서 - 제�
 title: 업로드된 이미지 또는 파일 삭제
 exl-id: 291ea4f3-a317-4696-b26e-0d69bf4581e3
 feature: Image Editor
-source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '96'
-ht-degree: 0%
+ht-degree: 17%
 
 ---
 
@@ -27,7 +27,7 @@ ht-degree: 0%
 
    ![](assets/delete-an-uploaded-image-or-file-2.png)
 
-1. 원하는 이미지/파일을 찾아 선택합니다. **[!UICONTROL Image and file actions]** 드롭다운을 클릭하고 **[!UICONTROL Delete]**&#x200B;을(를) 선택합니다.
+1. 원하는 이미지/파일을 찾아 선택합니다. **[!UICONTROL Image and file actions]** 드롭다운을 클릭하고 **[!UICONTROL Delete]**&#x200B;를 선택합니다.
 
    ![](assets/delete-an-uploaded-image-or-file-3.png)
 

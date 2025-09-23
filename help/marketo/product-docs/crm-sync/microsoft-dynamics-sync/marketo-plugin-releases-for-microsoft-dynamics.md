@@ -4,7 +4,7 @@ description: ' [!DNL Microsoft Dynamics] 용 Marketo 플러그인 릴리스 - Ma
 title: ' [!DNL Microsoft Dynamics]용 Marketo 플러그인 릴리스'
 exl-id: c9c25e11-bcf7-49bf-920a-4182af27d278
 feature: Microsoft Dynamics
-source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '457'
 ht-degree: 0%
@@ -37,7 +37,7 @@ ht-degree: 0%
  <tbody>
   <tr>
    <th style="width:15%">버전</th>
-   <th style="width:20%">릴리스 날짜</th>
+   <th style="width:20%">릴리스 일자</th>
    <th style="width:65%">참고</th>
   </tr>
   <tr>

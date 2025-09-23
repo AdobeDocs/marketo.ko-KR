@@ -1,29 +1,29 @@
 ---
 unique-page-id: 1147294
 description: 마케팅 달력 필터링 - Marketo 문서 - 제품 설명서
-title: 마케팅 달력 필터링
+title: 마케팅 캘린더 필터링
 exl-id: 94cbe35b-2b87-4c8f-86c6-11a0d12b2a12
 feature: Marketing Calendar
-source-git-commit: 02b2e39580c5eac63de4b4b7fdaf2a835fdd4ba5
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
-source-wordcount: '112'
-ht-degree: 0%
+source-wordcount: '103'
+ht-degree: 7%
 
 ---
 
-# 마케팅 달력 필터링 {#filtering-the-marketing-calendar}
+# 마케팅 캘린더 필터링 {#filtering-the-marketing-calendar}
 
 항목 유형, 프로그램 태그 또는 작업 공간을 사용하여 달력에 표시된 정보를 필터링합니다.
 
-1. **[!UICONTROL 달력]** 타일을 클릭합니다.
+1. **[!UICONTROL Calendar]** 타일을 클릭합니다.
 
 ![](assets/2017-05-10-15-30-47.png)
 
-1. **[!UICONTROL 항목 유형]** 드롭다운을 클릭합니다.
+1. **[!UICONTROL Entry Type]** 드롭다운을 클릭합니다.
 
    >[!NOTE]
    >
-   >기본 시작 유형은 **[!UICONTROL 전자 메일]** **[!UICONTROL 프로그램]** 및 **[!UICONTROL 전자 메일을 사용하는 스마트 캠페인]**&#x200B;입니다.
+   >기본 항목 형식은 **[!UICONTROL Email]** **[!UICONTROL Programs]** 및 **[!UICONTROL Smart Campaigns with Email]**&#x200B;입니다.
 
    ![](assets/image2014-9-24-10-3a46-3a54.png)
 

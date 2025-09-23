@@ -4,7 +4,7 @@ description: 양식 필드 필수 - Marketo 문서 - 제품 설명서
 title: 양식 필드 필수 항목으로 만들기
 exl-id: f07c4dd8-457a-442b-9ef8-89b51647829b
 feature: Forms
-source-git-commit: 2c753680f5c0087bf47d53e44106a4f20fdcefc9
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '97'
 ht-degree: 14%

@@ -3,10 +3,10 @@ description: 잠재 고객 관리 - Marketo 문서 - 제품 설명서
 title: OP-리드 관리
 feature: Programs
 exl-id: bde644fe-d40b-4c9c-925d-a0f522e6de01
-source-git-commit: 21bcdc10fe1f3517612efe0f8e2adaf2f4411a70
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '265'
-ht-degree: 4%
+ht-degree: 7%
 
 ---
 

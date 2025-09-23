@@ -1,13 +1,13 @@
 ---
 unique-page-id: 12615798
 description: 계정 목록에 기존의 명명된 계정 추가 - Marketo 문서 - 제품 설명서
-title: 계정 목록에 기존의 명명된 계정 추가
+title: 계정 목록에 기존 지정 계정 추가
 exl-id: 5c6c535c-05da-4d7e-b764-cdbbcc7ec415
 feature: Target Account Management
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '80'
-ht-degree: 0%
+ht-degree: 17%
 
 ---
 
@@ -23,7 +23,7 @@ ht-degree: 0%
 
    ![](assets/four-1.png)
 
-1. **[!UICONTROL Named Account Actions]** 드롭다운을 클릭하고 **[!UICONTROL Add to Account List]**&#x200B;을(를) 선택합니다.
+1. **[!UICONTROL Named Account Actions]** 드롭다운을 클릭하고 **[!UICONTROL Add to Account List]**&#x200B;를 선택합니다.
 
    ![](assets/five-1.png)
 

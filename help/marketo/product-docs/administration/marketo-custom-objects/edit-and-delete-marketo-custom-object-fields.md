@@ -1,17 +1,17 @@
 ---
 unique-page-id: 10095453
 description: Marketo 사용자 지정 개체 필드 편집 및 삭제 - Marketo 문서 - 제품 설명서
-title: Marketo 사용자 지정 개체 필드 편집 및 삭제
+title: Marketo 사용자 정의 오브젝트 필드 편집 및 삭제
 exl-id: 42fb7a24-0669-440b-a15e-3b8f0f4c5105
 feature: Custom Objects
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '118'
-ht-degree: 0%
+ht-degree: 12%
 
 ---
 
-# Marketo 사용자 지정 개체 필드 편집 및 삭제 {#edit-and-delete-marketo-custom-object-fields}
+# Marketo 사용자 정의 오브젝트 필드 편집 및 삭제 {#edit-and-delete-marketo-custom-object-fields}
 
 ## 필드 편집 {#edit-a-field}
 
@@ -45,7 +45,7 @@ ht-degree: 0%
 
    ![](assets/edit-and-delete-marketo-custom-object-fields-5.png)
 
-1. 트리거를 가져오기 전에 필드를 삭제하시겠습니까? **[!UICONTROL Delete]**&#x200B;을(를) 클릭합니다.
+1. 트리거를 가져오기 전에 필드를 삭제하시겠습니까? **[!UICONTROL Delete]**&#x200B;를 클릭합니다.
 
    ![](assets/edit-and-delete-marketo-custom-object-fields-6.png)
 

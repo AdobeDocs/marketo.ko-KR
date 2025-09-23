@@ -1,12 +1,12 @@
 ---
 description: Dynamics - Marketo 문서 - 제품 설명서에서 삭제하기 전에 동기화할 필드 편집
-title: Dynamics에서 삭제하기 전에 동기화할 필드 편집
+title: Dynamics에서 필드 삭제 전 동기화할 필드 편집
 exl-id: 6fa9f6c0-c69d-478f-b333-13a5c910f577
 feature: Microsoft Dynamics
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '181'
-ht-degree: 0%
+ht-degree: 5%
 
 ---
 
@@ -22,7 +22,7 @@ ht-degree: 0%
 
    ![](assets/sync-before-deleting-them-in-dynamics-2.png)
 
-1. **[!UICONTROL Disable Sync]**&#x200B;을(를) 클릭합니다.
+1. **[!UICONTROL Disable Sync]**&#x200B;를 클릭합니다.
 
    ![](assets/sync-before-deleting-them-in-dynamics-3.png)
 

@@ -1,17 +1,17 @@
 ---
 unique-page-id: 10095554
 description: 웹 캠페인에 양식 포함 - Marketo 문서 - 제품 설명서
-title: 웹 캠페인에 양식 포함
+title: 웹 캠페인에 양식 임베드
 exl-id: 41e60ae6-9a40-444f-8a55-47fc6ef6c5fb
 feature: Web Personalization
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '313'
-ht-degree: 1%
+ht-degree: 8%
 
 ---
 
-# 웹 캠페인에 양식 포함 {#embed-a-form-into-a-web-campaign}
+# 웹 캠페인에 양식 임베드 {#embed-a-form-into-a-web-campaign}
 
 Marketo 양식을 웹 캠페인(대화 상자, 영역 또는 위젯)에 임베드하는 방법을 확인하십시오.
 
@@ -27,7 +27,7 @@ Marketo 양식을 웹 캠페인(대화 상자, 영역 또는 위젯)에 임베�
 
    ![](assets/web-campaigns-hand-7.jpg)
 
-1. **[!UICONTROL Create New Campaign]**&#x200B;을(를) 클릭합니다.
+1. **[!UICONTROL Create New Campaign]**&#x200B;를 클릭합니다.
 
    ![](assets/create-new-web-campaign-hand-1.jpg)
 
@@ -35,7 +35,7 @@ Marketo 양식을 웹 캠페인(대화 상자, 영역 또는 위젯)에 임베�
 
    ![](assets/five-1.png)
 
-1. 양식 포함 코드를 [!UICONTROL HTML Source Editor]에 붙여 넣습니다. **[!UICONTROL Update]**&#x200B;을(를) 클릭합니다.
+1. 양식 포함 코드를 [!UICONTROL HTML Source Editor]에 붙여 넣습니다. **[!UICONTROL Update]**&#x200B;를 클릭합니다.
 
    ![](assets/six-1.png)
 
@@ -59,7 +59,7 @@ Marketo 양식을 웹 캠페인(대화 상자, 영역 또는 위젯)에 임베�
 
 Set Campaign에서 대화 상자 또는 위젯 색상을 변경하려면:
 
-1. 리치 텍스트 편집기에서 대화 상자 캠페인 유형과 대화 상자 스타일, 머리글 색상 및 배경색을 선택하여 양식의 배경색을 사용자 지정합니다. **[!UICONTROL Save]**&#x200B;을(를) 클릭합니다.
+1. 리치 텍스트 편집기에서 대화 상자 캠페인 유형과 대화 상자 스타일, 머리글 색상 및 배경색을 선택하여 양식의 배경색을 사용자 지정합니다. **[!UICONTROL Save]**&#x200B;를 클릭합니다.
 
    ![](assets/image2015-12-29-18-3a28-3a31.png)
 
@@ -73,7 +73,7 @@ Set Campaign에서 대화 상자 또는 위젯 색상을 변경하려면:
 
    ![](assets/image2015-12-29-17-3a56-3a13.png)
 
-1. 배경 스타일 코드가 있는 양식 포함 코드를 [!UICONTROL HTML Source Editor]에 붙여 넣습니다. **[!UICONTROL Update]**&#x200B;을(를) 클릭합니다.
+1. 배경 스타일 코드가 있는 양식 포함 코드를 [!UICONTROL HTML Source Editor]에 붙여 넣습니다. **[!UICONTROL Update]**&#x200B;를 클릭합니다.
 
    ![](assets/image2015-12-29-18-3a1-3a15.png)
 
@@ -85,4 +85,4 @@ Set Campaign에서 대화 상자 또는 위젯 색상을 변경하려면:
 >
 >* [양식 테마의 CSS 편집](/help/marketo/product-docs/demand-generation/forms/form-design/edit-the-css-of-a-form-theme.md)
 >* [후속 랜딩 페이지 없이 감사 메시지 표시](https://developers.marketo.com/blog/show-thank-you-message-without-a-follow-up-landing-page/)
->* [Forms 2.0](https://experienceleague.adobe.com/ko/docs/marketo-developer/marketo/javascriptapi/forms-api-reference)
+>* [Forms 2.0](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/javascriptapi/forms-api-reference)

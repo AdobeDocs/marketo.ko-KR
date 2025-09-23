@@ -4,10 +4,10 @@ description: 새 계정 검색 - Marketo 문서 - 제품 설명서
 title: 새 계정 검색
 exl-id: 0d07cd0d-abf6-4daf-b818-21b91919bd9d
 feature: Target Account Management
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '284'
-ht-degree: 0%
+ht-degree: 2%
 
 ---
 
@@ -63,7 +63,7 @@ ht-degree: 0%
    >
    >기존 계정 목록에 저장하려면 해당 옵션을 선택하고 드롭다운을 클릭한 다음 원하는 계정 목록을 선택하고 **[!UICONTROL Next]**&#x200B;을(를) 클릭합니다.
 
-1. **[!UICONTROL Save]**&#x200B;을(를) 클릭합니다.
+1. **[!UICONTROL Save]**&#x200B;를 클릭합니다.
 
    ![](assets/seven-1.png)
 
@@ -71,7 +71,7 @@ ht-degree: 0%
    >
    >한 번에 최대 5,000개의 계정만 저장할 수 있습니다. 검색 결과가 10,000개인 경우 첫 번째(상위) 5,000개를 저장한 다음 필터를 재설정하고 다음 5,000개를 저장해야 합니다. **총** 계정 제한은 백만 개입니다.
 
-1. **[!UICONTROL OK]**&#x200B;을(를) 클릭합니다.
+1. **[!UICONTROL OK]**&#x200B;를 클릭합니다.
 
    ![](assets/eight.png)
 

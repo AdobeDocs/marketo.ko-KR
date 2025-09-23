@@ -1,17 +1,17 @@
 ---
 unique-page-id: 14352469
 description: Salesforce ID를 Sales Connect - Marketo 문서 - 제품 설명서로 가져오기
-title: Salesforce ID를 Sales Connect에 가져오기
+title: Sales Connect에 Salesforce ID 가져오기
 exl-id: 9025a815-0740-461e-b4c9-3cbb3c98570f
 feature: Marketo Sales Connect
-source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '141'
-ht-degree: 0%
+ht-degree: 9%
 
 ---
 
-# Salesforce ID를 Sales Connect에 가져오기 {#import-a-salesforce-id-into-sales-connect}
+# Sales Connect에 Salesforce ID 가져오기 {#import-a-salesforce-id-into-sales-connect}
 
 [!DNL Sales Connect]은(는) 연락처 또는 잠재 고객 ID([!DNL Salesforce] ID라고도 함)를 사용하여 정보를 [!DNL Salesforce]에 올바르게 기록합니다. 몇 가지 방법으로 [!DNL Salesforce]의 연락처에 [!DNL Sales Connect] ID를 첨부할 수 있습니다.
 

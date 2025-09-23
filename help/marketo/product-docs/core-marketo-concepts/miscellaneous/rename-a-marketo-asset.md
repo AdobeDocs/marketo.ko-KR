@@ -1,16 +1,16 @@
 ---
 unique-page-id: 2952484
 description: Marketo 에셋 이름 바꾸기 - Marketo 문서 - 제품 설명서
-title: Marketo 에셋 이름 바꾸기
+title: Marketo 자산 이름 바꾸기
 exl-id: 2c8a64fc-663d-4953-b66c-4055e07f1404
-source-git-commit: 0abb315be0f9cb5f42fa41d72b446de8c2f62c1e
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
-source-wordcount: '80'
-ht-degree: 2%
+source-wordcount: '79'
+ht-degree: 11%
 
 ---
 
-# Marketo 에셋 이름 바꾸기 {#rename-a-marketo-asset}
+# Marketo 자산 이름 바꾸기 {#rename-a-marketo-asset}
 
 폴더, 프로그램 및 로컬 에셋의 이름은 모두 쉽게 변경할 수 있습니다.
 
@@ -18,7 +18,7 @@ ht-degree: 2%
 
    ![](assets/image2015-4-10-17-19-48.png)
 
-1. 텍스트 필드에 새 이름을 입력합니다. **[!UICONTROL 저장]**&#x200B;을 클릭합니다.
+1. 텍스트 필드에 새 이름을 입력합니다. **[!UICONTROL Save]**&#x200B;를 클릭합니다.
 
    ![](assets/image2015-4-10-17-3a19-3a33.png)
 

@@ -1,17 +1,17 @@
 ---
 unique-page-id: 2360327
 description: 할당 규칙을 사용하여 개인 파티션 할당 - Marketo 문서 - 제품 설명서
-title: 할당 규칙으로 개인 분할 영역 할당
+title: 할당 규칙을 사용하여 개인 파티션 할당
 exl-id: 6b54dcb7-8da9-466b-b153-099ebcb96424
 feature: Partitions
-source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '159'
-ht-degree: 1%
+ht-degree: 11%
 
 ---
 
-# 할당 규칙으로 개인 분할 영역 할당 {#assigning-person-partitions-with-assignment-rules}
+# 할당 규칙을 사용하여 개인 파티션 할당 {#assigning-person-partitions-with-assignment-rules}
 
 >[!NOTE]
 >
@@ -31,7 +31,7 @@ ht-degree: 1%
 
    ![](assets/assigning-person-partitions-with-assignment-rules-1.png)
 
-1. **[!UICONTROL Workspaces & Partitions]**&#x200B;을(를) 클릭합니다.
+1. **[!UICONTROL Workspaces & Partitions]**&#x200B;를 클릭합니다.
 
    ![](assets/assigning-person-partitions-with-assignment-rules-2.png)
 
@@ -59,7 +59,7 @@ ht-degree: 1%
    >
    >원하는 만큼 선택할 수 있습니다.
 
-1. **[!UICONTROL Save]**&#x200B;을(를) 클릭합니다.
+1. **[!UICONTROL Save]**&#x200B;를 클릭합니다.
 
    ![](assets/assigning-person-partitions-with-assignment-rules-8.png)
 

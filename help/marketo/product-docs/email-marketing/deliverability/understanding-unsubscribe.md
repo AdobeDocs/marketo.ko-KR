@@ -4,10 +4,10 @@ description: 구독 취소 이해 - Marketo 문서 - 제품 설명서
 title: 구독 취소 이해
 exl-id: 30866dc0-cdac-4e73-8dbf-d4b509012269
 feature: Deliverability
-source-git-commit: 4bae0126d6b36720e170bea7b6b973508c855633
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '221'
-ht-degree: 1%
+ht-degree: 4%
 
 ---
 
@@ -17,7 +17,7 @@ ht-degree: 1%
 
 이러한 모든 필드는 Marketo 구독에 내장되어 있습니다. 모두 부울(확인란) 유형입니다. Forms 또는 [데이터 값 변경](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/change-data-value.md) 흐름 단계에서 사용할 수 있습니다.
 
-## 주소 삭제 {#unsubscribed}
+## 구독 취소 {#unsubscribed}
 
 표준 구독 취소 페이지에서 사용됩니다. 사용자가 이 상자를 선택하거나 이메일에서 구독 취소 링크를 클릭하는 경우, 더 이상 마케팅 이메일을 받지 않습니다. 그러나 [운영 전자 메일](/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/make-an-email-operational.md)을 받게 됩니다.
 
@@ -25,7 +25,7 @@ ht-degree: 1%
 
 이 필드는 사용자가 사람들을 일시적으로 구독 취소하도록 설정합니다. 수동으로 변경되거나 변경 데이터 값 흐름 단계가 활용되는 경우에만 이 상태를 달성할 수 있습니다.
 
-## 이메일 일시 중단됨 {#email-suspended}
+## 이메일 중단됨 {#email-suspended}
 
 이 상태는 하드 바운스가 발생한 후 24시간 동안 사람이 메일을 보내지 못하게 합니다. 24시간 후에는 다시 우편 발송이 가능합니다.
 
@@ -33,7 +33,7 @@ ht-degree: 1%
 >
 >일시 중단된 이메일은 24시간 기간이 끝난 후에도 계속 확인되므로 역사적으로 이와 같이 표시된 사용자를 참조할 수 있습니다. 해당 사용자가 우편 발송이 가능한지 확인하려면 이메일 일시 중단 시점 후 24시간을 계산하면 됩니다.
 
-## 차단 목록에 추가된 {#blocklisted}
+## 차단 목록에 추가됨 {#blocklisted}
 
 [경쟁사와 같은 사용자에게 사용](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/managing-people-in-smart-lists/add-person-to-blocklist.md). **아니요**&#x200B;개의 전자 메일을 받고 싶은 모든 사람(운영, 마케팅 등) 아무것도 얻지 못해!
 

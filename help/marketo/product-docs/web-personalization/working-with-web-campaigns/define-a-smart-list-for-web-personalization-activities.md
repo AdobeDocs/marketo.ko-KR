@@ -1,13 +1,13 @@
 ---
 unique-page-id: 10097867
 description: 웹 Personalization 활동에 대한 스마트 목록 정의 - Marketo 문서 - 제품 설명서
-title: 웹 Personalization 활동에 대한 스마트 목록 정의
+title: 웹 개인화 활동에 대한 스마트 목록 정의
 exl-id: 9987f922-f50c-47b3-aef6-230326b094fc
 feature: Web Personalization
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '287'
-ht-degree: 0%
+ht-degree: 2%
 
 ---
 

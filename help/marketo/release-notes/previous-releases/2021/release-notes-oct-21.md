@@ -3,16 +3,16 @@ description: 릴리스 노트 - 2021년 10월 - Marketo 설명서 - 제품 설�
 title: 릴리스 정보 - 2021년 10월
 exl-id: 6b363c9b-7abe-4576-a362-0ad5cf515c02
 feature: Release Information
-source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '1084'
-ht-degree: 0%
+ht-degree: 2%
 
 ---
 
 # 릴리스 노트: 2021년 10월 {#release-notes-oct-21}
 
-다음 기능은 2021년 10월 릴리스에 포함되어 있습니다. Adobe Marketo Engage 버전에서 사용 가능한 기능이 있는지 확인하십시오.
+다음 기능은 2021년 10월 릴리스에 포함되어 있습니다. 기능 가용성에 대해 Adobe Marketo Engage 에디션을 확인하십시오.
 
 >[!AVAILABILITY]
 >

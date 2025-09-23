@@ -1,17 +1,17 @@
 ---
 unique-page-id: 2359516
 description: 코드 조각 승인 취소 - Marketo 문서 - 제품 설명서
-title: 코드 조각 승인 취소
+title: 스니펫 승인 취소
 exl-id: e3797788-704c-461f-a7b0-dac39eeaa1a7
 feature: Snippets
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '73'
-ht-degree: 2%
+ht-degree: 10%
 
 ---
 
-# 코드 조각 승인 취소 {#unapprove-a-snippet}
+# 스니펫 승인 취소 {#unapprove-a-snippet}
 
 승인되지 않은 코드 조각은 이메일 또는 랜딩 페이지에서 사용할 수 없습니다.
 

@@ -1,19 +1,19 @@
 ---
 unique-page-id: 2359616
 description: 양식의 소셜 양식 채우기 활성화 - Marketo 문서 - 제품 설명서
-title: 양식의 소셜 양식 채우기 활성화
+title: 양식에서 소셜 양식 채우기 활성화
 exl-id: 0ca4941c-dbad-477b-b9c1-387876615c33
 hide: true
 hidefromtoc: true
 feature: Forms
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '110'
-ht-degree: 1%
+ht-degree: 14%
 
 ---
 
-# 양식의 소셜 양식 채우기 활성화 {#enable-social-form-fill-on-a-form}
+# 양식에서 소셜 양식 채우기 활성화 {#enable-social-form-fill-on-a-form}
 
 방문자가 소셜 네트워크를 사용하여 양식을 작성할 수 있도록 허용합니다. 추가 데이터가 자동으로 제공되며 더 빠른 경험을 얻을 수 있습니다.
 
@@ -41,11 +41,11 @@ ht-degree: 1%
    >
    >사람들이 소셜 단추를 사용하는 경우 _Marketo에서 캡처할 데이터_&#x200B;를 살펴보십시오.
 
-1. **[!UICONTROL Finish]**&#x200B;을(를) 클릭합니다.
+1. **[!UICONTROL Finish]**&#x200B;를 클릭합니다.
 
    ![](assets/image2014-9-15-16-3a36-3a26.png)
 
-1. **[!UICONTROL Approve and Close]**&#x200B;을(를) 클릭합니다.
+1. **[!UICONTROL Approve and Close]**&#x200B;를 클릭합니다.
 
    ![](assets/image2014-9-15-16-3a36-3a33.png)
 

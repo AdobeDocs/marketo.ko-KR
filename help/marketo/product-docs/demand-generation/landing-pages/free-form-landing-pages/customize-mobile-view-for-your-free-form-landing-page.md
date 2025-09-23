@@ -1,17 +1,17 @@
 ---
 unique-page-id: 5472283
 description: 자유 형식 랜딩 페이지에 대한 모바일 보기 사용자 지정 - Marketo 문서 - 제품 설명서
-title: 자유 형식 랜딩 페이지에 대한 모바일 보기 사용자 지정
+title: 자유 형식 랜딩 페이지의 모바일 보기 사용자 정의
 exl-id: 8a5b3d81-34b1-47be-9575-d5ab61cdf9e4
 feature: Landing Pages
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '355'
-ht-degree: 0%
+ht-degree: 5%
 
 ---
 
-# 자유 형식 랜딩 페이지에 대한 모바일 보기 사용자 지정 {#customize-mobile-view-for-your-free-form-landing-page}
+# 자유 형식 랜딩 페이지의 모바일 보기 사용자 정의 {#customize-mobile-view-for-your-free-form-landing-page}
 
 >[!PREREQUISITES]
 >
@@ -23,7 +23,7 @@ ht-degree: 0%
 
    ![](assets/selectlandingapge.jpg)
 
-1. **[!UICONTROL Edit Draft]**&#x200B;을(를) 클릭합니다.
+1. **[!UICONTROL Edit Draft]**&#x200B;를 클릭합니다.
 
    ![](assets/image2015-1-22-18-3a33-3a12.png)
 
@@ -87,7 +87,7 @@ ht-degree: 0%
 
 ## 모바일 보기 미리 보기 {#preview-mobile-view}
 
-1. **[!UICONTROL Preview Draft]**&#x200B;을(를) 클릭합니다.
+1. **[!UICONTROL Preview Draft]**&#x200B;를 클릭합니다.
 
    ![](assets/image2015-5-21-15-3a36-3a35.png)
 

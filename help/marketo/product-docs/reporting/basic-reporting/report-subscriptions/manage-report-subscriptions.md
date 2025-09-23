@@ -4,10 +4,10 @@ description: 보고서 구독 관리 - Marketo 문서 - 제품 설명서
 title: 보고서 구독 관리
 exl-id: 0d303b1c-3cc9-42f6-a76a-db6a022c471a
 feature: Reporting
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '204'
-ht-degree: 1%
+ht-degree: 6%
 
 ---
 

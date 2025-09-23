@@ -4,10 +4,10 @@ description: 랜딩 페이지에 텍스트 및 토큰 추가 - Marketo 문서 - 
 title: 랜딩 페이지에 텍스트 및 토큰 추가
 exl-id: df6f17dc-50a0-4ee0-9a6e-96b0ebde46c7
 feature: Landing Pages
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '182'
-ht-degree: 0%
+ht-degree: 9%
 
 ---
 
@@ -69,7 +69,7 @@ ht-degree: 0%
 
    ![](assets/image2014-9-16-14-3a31-3a29.png)
 
-1. **[!UICONTROL Save]**&#x200B;을(를) 클릭합니다.
+1. **[!UICONTROL Save]**&#x200B;를 클릭합니다.
 
    ![](assets/image2015-7-8-17-3a25-3a22.png)
 

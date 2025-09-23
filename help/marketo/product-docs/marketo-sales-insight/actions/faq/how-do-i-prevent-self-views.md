@@ -3,14 +3,14 @@ description: 자가 보기를 방지하는 방법 - Marketo 문서 - 제품 설�
 title: 자아 보기를 방지하려면 어떻게 합니까
 exl-id: 52de102f-6c6c-4663-9725-aae2f620d5bb
 feature: Sales Insight Actions
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '273'
-ht-degree: 0%
+ht-degree: 2%
 
 ---
 
-# 자아 보기를 방지하려면 어떻게 해야 합니까? {#how-do-i-prevent-self-views}
+# 자체 보기를 방지하려면 어떻게 해야 합니까? {#how-do-i-prevent-self-views}
 
 보기 추적에서 긍정 오류(false positive)를 얻으면 보고가 일치하지 않을 수 있습니다. 이 문제는 [!DNL Marketo Sales]의 사용자가 실수로 이메일 클라이언트에서 추적 픽셀을 호출할 때 발생합니다(자체 보기라고 함). 아래는 자기 관점을 크게 줄이고 심지어 없애는 데 대한 몇 가지 팁입니다.
 
@@ -30,7 +30,7 @@ ht-degree: 0%
 
    ![](assets/how-do-i-prevent-self-views-1.png)
 
-1. **[!UICONTROL Options]**&#x200B;을(를) 클릭합니다.
+1. **[!UICONTROL Options]**&#x200B;를 클릭합니다.
 
    ![](assets/how-do-i-prevent-self-views-2.png)
 

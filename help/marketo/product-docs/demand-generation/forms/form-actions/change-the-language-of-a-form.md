@@ -1,17 +1,17 @@
 ---
 unique-page-id: 2359654
 description: 양식의 언어 변경 - Marketo 문서 - 제품 설명서
-title: 양식의 언어 변경
+title: 양식 언어 변경
 exl-id: 7f8e8dc4-b0e7-4bd4-a81b-9e0c3ce29300
 feature: Forms
-source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '137'
-ht-degree: 1%
+ht-degree: 10%
 
 ---
 
-# 양식의 언어 변경 {#change-the-language-of-a-form}
+# 양식 언어 변경 {#change-the-language-of-a-form}
 
 양식의 언어를 변경하는 방법에 대해 알아봅니다.
 

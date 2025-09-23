@@ -5,28 +5,28 @@ hide: true
 hidefromtoc: true
 feature: Email Editor
 exl-id: bfa8d9c2-93d7-494c-ac5e-f743894c58e7
-source-git-commit: 7837499e74558e6e48bf7b1e681f936f63d2843f
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
-source-wordcount: '1504'
+source-wordcount: '1486'
 ht-degree: 1%
 
 ---
 
 # 이메일 작성 {#email-authoring}
 
-새 Marketo Engage 이메일 Designer에서 이메일을 만들고, 개인화하고, 미리 보는 방법에 대해 알아봅니다.
+새로운 Marketo Engage 이메일 Designer에서 이메일을 만들고, 개인화하고, 미리 보는 방법에 대해 알아봅니다.
 
 >[!IMPORTANT]
 >
->이 문서는 새로운 Marketo Engage 이메일 Designer 베타 회원만을 대상으로 합니다. 제발 유포하지 마세요.
+>이 문서는 새로운 Marketo Engage 이메일 Designer Beta 멤버만을 대상으로 합니다. 제발 유포하지 마세요.
 
 >[!PREREQUISITES]
 >
->새 이메일 디자이너에 액세스하려면 Marketo Engage 구독을 [IMS(Adobe Identity Management System)](https://experienceleague.adobe.com/ko/docs/marketo/using/product-docs/administration/marketo-with-adobe-identity/adobe-identity-management-overview)(으)로 마이그레이션해야 합니다. 아직 실행되지 않았으며 신속 처리를 요청하려면 Adobe 계정 팀(계정 관리자) 또는 [Marketo 지원](https://nation.marketo.com/t5/support/ct-p/Support)에 문의하세요.
+>새 이메일 디자이너에 액세스하려면 Marketo Engage 구독을 [Adobe IMS(Identity Management System)](https://experienceleague.adobe.com/ko/docs/marketo/using/product-docs/administration/marketo-with-adobe-identity/adobe-identity-management-overview)&#x200B;(으)로 마이그레이션해야 합니다. 아직 실행되지 않았으며 신속 처리를 요청하려면 Adobe 계정 팀(계정 관리자) 또는 [Marketo 지원](https://nation.marketo.com/t5/support/ct-p/Support)에 문의하십시오.
 
 ## 이메일 만들기 {#create-an-email}
 
-1. [Adobe Experience Cloud](https://experiencecloud.adobe.com/){target="_blank"}을 통해 Marketo Engage에 로그인합니다.
+1. [Adobe Experience Cloud](https://experiencecloud.adobe.com/){target="_blank"}를 통해 Marketo Engage에 로그인합니다.
 
 1. 내 Marketo에서 **Design Studio**&#x200B;를 선택합니다.
 
@@ -74,7 +74,7 @@ ht-degree: 1%
 
 1. 링크 검토 및 [추적 편집](#edit-url-tracking).
 
-### 가져오기 HTML {#import-html}
+### HTML 가져오기 {#import-html}
 
 기존 HTML 콘텐츠를 가져와서 이메일을 디자인할 수 있습니다. 콘텐츠는 다음과 같을 수 있습니다.
 
@@ -86,7 +86,7 @@ ht-degree: 1%
 >
 >.zip 파일 구조에는 제약 조건이 없습니다. 그러나 참조는 상대적이어야 하며 .zip 폴더의 트리 구조와 일치해야 합니다.
 
-1. HTML 디자인 페이지에서 **템플릿 가져오기**&#x200B;를 선택합니다.
+1. 템플릿 디자인 페이지에서 **HTML 가져오기**&#x200B;를 선택합니다.
 
 1. 원하는 HTML 또는 .zip 파일을 끌어다 놓고(또는 컴퓨터에서 파일 선택) **가져오기**&#x200B;를 클릭합니다.
 
@@ -94,7 +94,7 @@ ht-degree: 1%
 
 >[!NOTE]
 >
->HTML 콘텐츠가 업로드되면 해당 콘텐츠는 호환성 모드에 있게 됩니다. 이 모드에서는 텍스트를 개인화하거나, 링크를 추가하거나, 콘텐츠에 자산을 추가할 수만 있습니다.
+>HTML 콘텐츠가 업로드되면 콘텐츠는 호환성 모드에 있게 됩니다. 이 모드에서는 텍스트를 개인화하거나, 링크를 추가하거나, 콘텐츠에 자산을 추가할 수만 있습니다.
 
 [시각적 전자 메일 편집기 도구](#add-structure-and-content)를 사용하여 가져온 콘텐츠를 원하는 대로 변경할 수 있습니다.
 
@@ -102,7 +102,7 @@ ht-degree: 1%
 
 선택할 수 있는 템플릿에는 두 가지 유형이 있습니다.
 
-* **샘플 템플릿**: Marketo Engage은 4개의 기본 전자 메일 템플릿을 제공합니다.
+* **샘플 템플릿**: Marketo Engage에서는 4개의 기본 전자 메일 템플릿을 제공합니다.
 
 * **저장된 서식 파일**: 서식 파일 메뉴를 사용하여 처음부터 만든 서식 파일 또는 서식 파일로 저장하기 위해 만든 전자 메일입니다.
 
@@ -188,24 +188,24 @@ Marketo Engage 인스턴스의 [이미지 및 파일](/help/marketo/product-docs
 
 1. 캔버스에서 구조 구성 요소의 열을 직접 선택하거나 왼쪽에 표시된 _탐색 트리_&#x200B;를 사용합니다.
 
-1. 열 도구 모음에서 _[!UICONTROL 열 선택]_ 도구를 클릭하고 편집할 열을 선택합니다.
+1. 열 도구 모음에서 _[!UICONTROL Select a column]_도구를 클릭하고 편집할 도구를 선택합니다.
 
-   구조 트리에서 선택할 수도 있습니다. 해당 열에 대한 편집 가능한 매개 변수는 오른쪽의 _[!UICONTROL 설정]_ 및 _[!UICONTROL 스타일]_ 탭에 표시됩니다.
+   구조 트리에서 선택할 수도 있습니다. 해당 열에 대해 편집 가능한 매개 변수가 오른쪽의 _[!UICONTROL Settings]_및_[!UICONTROL Styles]_ 탭에 표시됩니다.
 
    ![](assets/authoring-layers-settings-styles-2.png)
 
-1. 열 속성을 편집하려면 오른쪽의 _[!UICONTROL 스타일]_ 탭을 클릭하고 필요에 따라 변경합니다.
+1. 열 속성을 편집하려면 오른쪽의 _[!UICONTROL Styles]_탭을 클릭하고 필요에 따라 변경합니다.
 
    * **[!UICONTROL Background]**&#x200B;의 경우 필요에 따라 배경색을 변경합니다.
 
-     투명 배경에 대한 확인란 선택을 취소합니다. 단색 대신 이미지를 배경으로 사용하려면 **[!UICONTROL 배경 이미지]** 설정을 사용하도록 설정하십시오.
+     투명 배경에 대한 확인란 선택을 취소합니다. 단색 대신 이미지를 배경으로 사용하려면 **[!UICONTROL Background image]** 설정을 활성화하십시오.
 
-   * **[!UICONTROL 정렬]**&#x200B;에 대해 _위쪽_, _중간_ 또는 _아래쪽_ 아이콘을 선택합니다.
-   * **[!UICONTROL 패딩]**&#x200B;에 대해 모든 면에 대한 패딩을 정의합니다.
+   * **[!UICONTROL Alignment]**&#x200B;의 경우 _위쪽_, _중간_ 또는 _아래쪽_ 아이콘을 선택하십시오.
+   * **[!UICONTROL Padding]**&#x200B;의 경우 모든 면에 대한 패딩을 정의합니다.
 
-     패딩을 조정하려면 **[!UICONTROL 각 면에 대해 다른 패딩]**&#x200B;을 선택하세요. 동기화를 중단하려면 _잠금_ 아이콘을 클릭하십시오.
+     패딩을 조정하려면 **[!UICONTROL Different padding for each side]**&#x200B;을(를) 선택하세요. 동기화를 중단하려면 _잠금_ 아이콘을 클릭하십시오.
 
-   * **[!UICONTROL 고급]** 섹션을 확장하여 열의 인라인 스타일을 정의합니다.
+   * **[!UICONTROL Advanced]** 섹션을 확장하여 열의 인라인 스타일을 정의합니다.
 
    ![](assets/authoring-layers-settings-styles-3.png)
 
@@ -289,7 +289,7 @@ Marketo Engage 인스턴스의 [이미지 및 파일](/help/marketo/product-docs
 >
 >[운영 전자 메일](/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/make-an-email-operational.md)(비마케팅)에는 구독 취소 옵션을 추가할 필요가 없습니다.
 
-* **텍스트 버전의 HTML이 비어 있음**: HTML 내용을 표시할 수 없는 경우 이메일 본문의 텍스트 버전을 정의해야 합니다.
+* **HTML의 텍스트 버전이 비어 있습니다**: HTML 콘텐츠를 표시할 수 없는 경우 이메일 본문의 텍스트 버전을 정의해야 합니다.
 
 * **전자 메일 본문에 빈 링크가 있습니다**: 전자 메일의 모든 링크가 올바른지 확인하십시오.
 

@@ -1,17 +1,17 @@
 ---
 unique-page-id: 1900581
 description: 이메일의 친구 링크에 전달 - Marketo 문서 - 제품 설명서
-title: 이메일의 친구 링크로 전달
+title: 이메일의 '친구에게 전달' 링크
 exl-id: 7addac65-4207-419f-845c-d6b2d08d299c
 feature: Email Editor
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '681'
-ht-degree: 0%
+ht-degree: 2%
 
 ---
 
-# 이메일의 친구 링크로 전달 {#forward-to-a-friend-link-in-emails}
+# 이메일의 &#39;친구에게 전달&#39; 링크 {#forward-to-a-friend-link-in-emails}
 
 이메일에 &#39;친구에게 전달&#39; 링크를 추가하면 이 링크를 통해 전달된 이메일을 받은 사람을 추적할 수 있으며, 데이터베이스에 아직 없는 경우 자동으로 새 사람으로 추가됩니다.
 
@@ -23,7 +23,7 @@ ht-degree: 0%
 
    ![](assets/one-8.png)
 
-1. 링크를 추가할 이메일 템플릿을 찾아 선택합니다. **[!UICONTROL Edit Draft]**&#x200B;을(를) 클릭합니다.
+1. 링크를 추가할 이메일 템플릿을 찾아 선택합니다. **[!UICONTROL Edit Draft]**&#x200B;를 클릭합니다.
 
    ![](assets/two-7.png)
 

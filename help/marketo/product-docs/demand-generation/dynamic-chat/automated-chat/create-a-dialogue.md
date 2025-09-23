@@ -3,10 +3,10 @@ description: 대화 상자 만들기 - Marketo 문서 - 제품 설명서
 title: 대화 상자 만들기
 feature: Dynamic Chat
 exl-id: 7de6ba05-39d5-41b9-921b-50bf5b2c5581
-source-git-commit: f5f93a993d5b13c1fda0b31172393eff0bc65fd4
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
-source-wordcount: '79'
-ht-degree: 0%
+source-wordcount: '75'
+ht-degree: 9%
 
 ---
 
@@ -14,15 +14,15 @@ ht-degree: 0%
 
 새 대화 상자를 만드는 방법은 다음과 같습니다.
 
-1. **[!UICONTROL 대화 상자]**&#x200B;를 클릭합니다.
+1. **[!UICONTROL Dialogues]**&#x200B;를 클릭합니다.
 
    ![](assets/create-a-dialogue-1.png)
 
-1. **[!UICONTROL 새로 만들기]** 단추를 클릭합니다.
+1. **[!UICONTROL Create New]** 단추를 클릭합니다.
 
    ![](assets/create-a-dialogue-2.png)
 
-1. 빈 대화 상자 또는 미리 채워진 템플릿 중 하나를 선택합니다. 이름을 입력하고(설명은 선택 사항) 우선 순위 수준을 변경하고(선택 사항) **[!UICONTROL 만들기]**&#x200B;를 클릭합니다.
+1. 빈 대화 상자 또는 미리 채워진 템플릿 중 하나를 선택합니다. 이름을 입력하고(설명은 선택 사항) 우선 순위 수준을 변경한(선택 사항) **[!UICONTROL Create]**&#x200B;을(를) 클릭합니다.
 
    ![](assets/create-a-dialogue-3.png)
 

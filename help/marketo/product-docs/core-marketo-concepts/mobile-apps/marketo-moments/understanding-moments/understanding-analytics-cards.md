@@ -1,17 +1,17 @@
 ---
 unique-page-id: 8781988
 description: Analytics 카드 이해 - Marketo 문서 - 제품 설명서
-title: Analytics 카드 이해
+title: 분석 카드 이해
 exl-id: fc314ab8-4d29-44f5-bc45-71e6727ecc06
 feature: Mobile Marketing
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '260'
-ht-degree: 0%
+ht-degree: 3%
 
 ---
 
-# Analytics 카드 이해 {#understanding-analytics-cards}
+# 분석 카드 이해 {#understanding-analytics-cards}
 
 Marketo 모먼트는 매월 초에 [!UICONTROL Acquired Leads], [!UICONTROL New Leads], [!UICONTROL Unsubscribes] 세 개의 서로 다른 보고서 카드를 제공합니다. 각 보고서는 6개월 동안의 월별 실적 및 추세를 보여 줍니다.
 

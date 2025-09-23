@@ -3,10 +3,10 @@ description: 질문 생성 - Marketo 문서 - 제품 설명서
 title: 질문 생성
 feature: Dynamic Chat
 exl-id: 05e0fd4c-b8e0-47de-8ca8-d4ba07d6a06a
-source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '292'
-ht-degree: 2%
+ht-degree: 3%
 
 ---
 
@@ -20,7 +20,7 @@ ht-degree: 2%
 
    ![](assets/question-generation-1.png)
 
-1. **[!UICONTROL Generate questions]**&#x200B;을(를) 클릭합니다.
+1. **[!UICONTROL Generate questions]**&#x200B;를 클릭합니다.
 
    ![](assets/question-generation-2.png)
 
@@ -36,7 +36,7 @@ ht-degree: 2%
    >
    >사이트/페이지는 정보를 스크랩하려면 공개(즉, 로그인 뒤에 숨기지 않음)여야 합니다.
 
-1. 콘텐츠에 따라 질문 및 응답 생성에는 최대 30분이 소요될 수 있습니다. **[!UICONTROL OK]**&#x200B;을(를) 클릭합니다.
+1. 콘텐츠에 따라 질문 및 응답 생성에는 최대 30분이 소요될 수 있습니다. **[!UICONTROL OK]**&#x200B;를 클릭합니다.
 
    ![](assets/question-generation-4.png)
 

@@ -1,17 +1,17 @@
 ---
 unique-page-id: 1900573
 description: 시스템 토큰을 이메일에 링크로 추가 - Marketo 문서 - 제품 설명서
-title: 시스템 토큰을 이메일에 링크로 추가
+title: 이메일의 링크로 시스템 토큰 추가
 exl-id: 9156be24-18ae-44ea-96e5-a6257ff29b46
 feature: Tokens
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '205'
-ht-degree: 0%
+ht-degree: 10%
 
 ---
 
-# 시스템 토큰을 이메일에 링크로 추가 {#add-a-system-token-as-a-link-in-an-email}
+# 이메일의 링크로 시스템 토큰 추가 {#add-a-system-token-as-a-link-in-an-email}
 
 이러한 시스템 토큰을 사용하여 이메일에서 특수 링크의 위치를 사용자 정의할 수 있습니다.
 
@@ -47,7 +47,7 @@ ht-degree: 0%
    >
    >원하는 토큰 복사/붙여넣기: **`{{system.forwardToFriendLink}}`** 또는 **`{{system.unsubscribeLink}}`** 또는 **`{{system.viewAsWebpageLink}}`**
 
-1. **[!UICONTROL Save]**&#x200B;을(를) 클릭합니다.
+1. **[!UICONTROL Save]**&#x200B;를 클릭합니다.
 
    ![](assets/image2014-9-17-22-3a12-3a17.png)
 

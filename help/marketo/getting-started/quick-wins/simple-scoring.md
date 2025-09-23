@@ -1,17 +1,17 @@
 ---
 unique-page-id: 2359414
 description: 단순 점수 - Marketo 문서 - 제품 설명서
-title: 단순 채점
+title: 간단한 채점
 exl-id: 6129d46a-e6d2-4819-9b6c-ccbf37060712
 feature: Getting Started
-source-git-commit: ecd225af3ecfd7cb9159faf5a9d384d47ee6312c
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '350'
-ht-degree: 0%
+ht-degree: 15%
 
 ---
 
-# 단순 채점 {#simple-scoring}
+# 간단한 채점 {#simple-scoring}
 
 >[!PREREQUISITES]
 >
@@ -82,7 +82,7 @@ ht-degree: 0%
 
    ![](assets/simple-scoring-12.png)
 
-1. 확인 화면에서 **[!UICONTROL Activate]**&#x200B;을(를) 클릭합니다.
+1. 확인 화면에서 **[!UICONTROL Activate]**&#x200B;를 클릭합니다.
 
    ![](assets/simple-scoring-13.png)
 
@@ -100,7 +100,7 @@ ht-degree: 0%
 
    ![](assets/simple-scoring-15.png)
 
-1. 이름, 성, 전자 메일 주소로 양식을 작성한 다음 **[!UICONTROL Submit]**&#x200B;을(를) 클릭합니다.
+1. 양식에 이름, 성, 이메일 주소를 입력한 다음 **[!UICONTROL Submit]**&#x200B;을 클릭합니다.
 
    ![](assets/simple-scoring-16.png)
 
@@ -126,7 +126,7 @@ ht-degree: 0%
 
 ![](assets/simple-scoring-20.png)
 
-## 임무 완료! {#mission-complete}
+## 미션 완료 {#mission-complete}
 
 <br> 
 

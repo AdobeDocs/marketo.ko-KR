@@ -3,10 +3,10 @@ description: 동적 필드 - Marketo 문서 - 제품 설명서
 title: 동적 필드
 exl-id: d9e52eae-d5bb-462f-8b7b-c28a560f6ea4
 feature: Sales Insight Actions
-source-git-commit: 21bcdc10fe1f3517612efe0f8e2adaf2f4411a70
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '525'
-ht-degree: 0%
+ht-degree: 2%
 
 ---
 
@@ -22,7 +22,7 @@ ht-degree: 0%
 
 1. **[!UICONTROL Templates & Campaigns]**&#x200B;에서 편집할 템플릿을 찾은 다음 **[!UICONTROL Edit Template]**&#x200B;을(를) 클릭합니다.
 
-1. **[!UICONTROL Insert Dynamic Field]**&#x200B;을(를) 클릭합니다.
+1. **[!UICONTROL Insert Dynamic Field]**&#x200B;를 클릭합니다.
 
    >[!NOTE]
    >

@@ -4,10 +4,10 @@ description: 다른 CRM에 이메일을 기록하는 방법 - Marketo 문서 - �
 title: 다른 CRM에 이메일을 기록하는 방법
 exl-id: 29b34be0-685f-4c80-920d-d33ff7d02f5d
 feature: Marketo Sales Connect
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '153'
-ht-degree: 0%
+ht-degree: 9%
 
 ---
 
@@ -27,7 +27,7 @@ CRM에서 BCC 주소를 제공하는 경우 &quot;기타&quot; CRM 섹션을 사
 
 ## 다른 CRM에 연결하는 방법 {#how-to-connect-to-other-crms}
 
-1. **[!UICONTROL Settings]**&#x200B;을(를) 클릭합니다.
+1. **[!UICONTROL Settings]**&#x200B;를 클릭합니다.
 1. **CRM**&#x200B;을 클릭합니다.
 1. 다른 CRM에서 **[!UICONTROL Connect]**&#x200B;을(를) 클릭합니다.
 1. **[!UICONTROL Configure]**&#x200B;을(를) 클릭한 다음 BCC 주소를 BCC로 전자 메일 아래에 붙여 넣으십시오.

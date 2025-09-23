@@ -3,10 +3,10 @@ unique-page-id: 13795395
 description: 릴리스 노트 - 1818년 겨울 - Marketo 문서 - 제품 설명서
 title: 릴리스 정보 - 2018년 겨울
 exl-id: f08bdc91-86d3-4ea2-a74a-1398ed525bbb
-source-git-commit: ecd225af3ecfd7cb9159faf5a9d384d47ee6312c
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '580'
-ht-degree: 0%
+ht-degree: 2%
 
 ---
 
@@ -68,7 +68,7 @@ Marketo은 빅 데이터 아키텍처를 활용하여 트리거 캠페인 처리
 
 이제 새로운 [!DNL LinkedIn] API를 사용하여 여러 [!DNL LinkedIn] Campaign Manager 계정에서 Marketo 데이터베이스의 사용자를 다시 타깃팅할 수 있습니다.
 
-## 웹 Personalization {#web-personalization}
+## 웹 개인화 {#web-personalization}
 
 **Web Personalization용 일본어 데이터 Source**
 
@@ -94,7 +94,7 @@ Marketo의 최적화된 ContentAI 알고리즘을 통해 권장되는 콘텐츠�
 
 **업데이트 구독 취소**
 
-2018년 3월 1일부터 [ToutApp.com](https://ToutApp.com)에서 보낸 모든 전자 메일([!DNL Salesforce]에서 &quot;[!DNL Tout]이 포함된 전자 메일&quot; 단추 사용)에 구독 취소 링크가 맨 아래에 추가됩니다.
+2018년 3월 1일부터 [ToutApp.com](https://ToutApp.com)에서 보낸 모든 전자 메일([!DNL Tout]에서 &quot;[!DNL Salesforce]이 포함된 전자 메일&quot; 단추 사용)에 구독 취소 링크가 맨 아래에 추가됩니다.
 
 **라이브 피드 업데이트**
 

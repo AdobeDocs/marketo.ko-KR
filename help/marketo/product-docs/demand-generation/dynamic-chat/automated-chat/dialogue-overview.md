@@ -1,20 +1,20 @@
 ---
 description: 대화 상자 개요 - Marketo 문서 - 제품 설명서
-title: 대화 상자 개요
+title: 대화 개요
 feature: Dynamic Chat
 exl-id: c5e5650f-5f34-4c04-b287-62556bc35593
-source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '251'
-ht-degree: 5%
+ht-degree: 7%
 
 ---
 
-# 대화 상자 개요 {#dialogue-overview}
+# 대화 개요 {#dialogue-overview}
 
 대화는 개별 채팅 대화입니다. 각 대화 상자에서 특정 채팅 대화가 표시되는 위치와 대상, 대화 내용이 표시될 내용을 결정합니다. 각 대화 상자에는 효과를 모니터링할 수 있는 자체 보고서 페이지도 있습니다.
 
-## 대상 기준 {#audience-criteria}
+## 대상자 기준 {#audience-criteria}
 
 대화 상자의 [대상 기준](/help/marketo/product-docs/demand-generation/dynamic-chat/automated-chat/audience-criteria.md){target="_blank"} 섹션에서 채팅 대화가 표시될 위치와 대상을 정의합니다
 

@@ -1,13 +1,13 @@
 ---
 unique-page-id: 12979008
 description: 성능 통찰력 기여도 개요 - Marketo 문서 - 제품 설명서
-title: 성능 통찰력 기여도 개요
+title: 성과 인사이트 기여 개요
 exl-id: 52d97100-b811-4f43-9833-b18ae098a0f3
 feature: Reporting
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '347'
-ht-degree: 0%
+ht-degree: 1%
 
 ---
 
@@ -17,7 +17,7 @@ Marketo [!UICONTROL Performance Insights]에서 기여도 보기는 기본적으
 
 ![](assets/one-1.png)
 
-성능을 확인할 지표를 선택합니다. 이 예제에서는 **[!UICONTROL Multi-Touch]** 대시보드에서 _[!UICONTROL Revenue]_&#x200B;을(를) 통해 얻은 영업 기회를 살펴봅니다.
+성능을 확인할 지표를 선택합니다. 이 예제에서는 **[!UICONTROL Multi-Touch]** 대시보드에서 _[!UICONTROL Revenue]_을(를) 통해 얻은 영업 기회를 살펴봅니다.
 
 ![](assets/2.png)
 

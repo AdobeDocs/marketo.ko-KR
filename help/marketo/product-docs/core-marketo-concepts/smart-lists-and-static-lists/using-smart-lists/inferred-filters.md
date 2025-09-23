@@ -1,17 +1,17 @@
 ---
 unique-page-id: 2953188
 description: 필터 유추 - Marketo 문서 - 제품 설명서
-title: 필터 유추
+title: 추론된 필터
 exl-id: 6db4ff4d-7fab-4722-94b1-1bf92ba4651d
 feature: Smart Lists
-source-git-commit: ac7d6b222ca561c88e0bf10aba7736c1b2eee3f7
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '209'
-ht-degree: 0%
+ht-degree: 1%
 
 ---
 
-# 필터 유추 {#inferred-filters}
+# 추론된 필터 {#inferred-filters}
 
 누군가가 웹 사이트를 방문하면 [Munchkin](/help/marketo/product-docs/administration/additional-integrations/add-munchkin-tracking-code-to-your-website.md){target="_blank"}에서 쿠키를 만들어 시스템에 넣습니다. 우리는 특별한 데이터베이스에서 그들의 IP를 찾고 모든 종류의 정보를 추론한다.
 
@@ -19,7 +19,7 @@ ht-degree: 0%
 >
 >유추된 필드 값이 최신 상태를 유지하도록 IP 주소 조회에 사용되는 데이터베이스를 주기적으로 업데이트합니다. 데이터베이스 업데이트로 인해 스마트 목록 필터 정의에 추가해야 할 수 있는 유추된 새 필드 값이 도입될 수 있습니다.
 >
->[Marketo Engage 제품 릴리스](/help/marketo/release-notes/release-schedule.md){target="_blank"} 중에 데이터베이스가 업데이트될 수 있습니다. 업데이트가 발생하면 [Marketo Engage 릴리스 정보](/help/marketo/release-notes/current.md){target="_blank"}에 유추된 필드 값의 변경 사항에 대한 설명이 포함됩니다.
+>데이터베이스 업데이트는 [Marketo Engage 제품 릴리스](/help/marketo/release-notes/release-schedule.md){target="_blank"} 중에 발생할 수 있습니다. 업데이트가 발생하면 [Marketo Engage 릴리스 정보](/help/marketo/release-notes/current.md){target="_blank"}에 유추된 필드 값의 변경 사항에 대한 설명이 포함됩니다.
 
 ![](assets/inferred-filters-1.png)
 

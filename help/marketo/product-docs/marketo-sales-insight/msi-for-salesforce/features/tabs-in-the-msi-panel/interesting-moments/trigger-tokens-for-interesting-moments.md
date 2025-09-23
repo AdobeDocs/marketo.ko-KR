@@ -1,17 +1,17 @@
 ---
 unique-page-id: 1146999
 description: 즐거운 순간을 위한 트리거 토큰 - Marketo 문서 - 제품 설명서
-title: 즐거운 순간을 위한 트리거 토큰
+title: 즐거운 순간에 대한 트리거 토큰
 exl-id: 666a6eed-c432-4088-b4f1-54c996eca64c
 feature: Marketo Sales Insights
-source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '546'
-ht-degree: 38%
+ht-degree: 40%
 
 ---
 
-# 즐거운 순간을 위한 트리거 토큰 {#trigger-tokens-for-interesting-moments}
+# 즐거운 순간에 대한 트리거 토큰 {#trigger-tokens-for-interesting-moments}
 
 >[!PREREQUISITES]
 >

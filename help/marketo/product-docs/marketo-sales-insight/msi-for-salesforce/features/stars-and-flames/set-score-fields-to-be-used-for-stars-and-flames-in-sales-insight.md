@@ -1,13 +1,13 @@
 ---
 unique-page-id: 2360301
 description: Sales Insight - Marketo 문서 - 제품 설명서에서 Stars and Flames에 사용할 스코어 필드 설정
-title: Sales Insight의 Stars and Flames에 사용할 스코어 필드 설정
+title: Sales Insight에서 Stars 및 Flames에 사용할 점수 필드 설정
 exl-id: 640f6d53-71ee-4a6d-b28a-82f3825b8f8e
 feature: Marketo Sales Insights
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '146'
-ht-degree: 0%
+ht-degree: 9%
 
 ---
 
@@ -47,7 +47,7 @@ ht-degree: 0%
 
    ![](assets/image2014-9-16-13-3a28-3a1.png)
 
-1. **[!UICONTROL Save]**&#x200B;을(를) 클릭합니다.
+1. **[!UICONTROL Save]**&#x200B;를 클릭합니다.
 
    ![](assets/image2014-9-16-13-3a28-3a18.png)
 

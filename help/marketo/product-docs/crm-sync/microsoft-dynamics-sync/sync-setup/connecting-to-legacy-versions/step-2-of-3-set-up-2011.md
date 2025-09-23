@@ -4,7 +4,7 @@ description: 2단계/3단계 - [!DNL Dynamics] (2011 온-프레미스)에서 Mar
 title: 2단계/3단계 - [!DNL Dynamics] (2011 온-프레미스)에서 Marketo 동기화 사용자 설정
 exl-id: 807c8902-24a6-48b6-a5c9-96a72764fdef
 feature: Microsoft Dynamics
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '345'
 ht-degree: 1%
@@ -43,7 +43,7 @@ Marketo 동기화 사용자 역할만 Marketo 동기화 사용자에게 할당�
 
    ![](assets/image2015-4-2-14-3a4-3a37.png)
 
-1. 여기에 사용자 목록이 표시됩니다. 전용 Marketo 동기화 사용자를 선택하거나 [AFDS(Active Directory Federation Services)](https://msdn.microsoft.com/en-us/library/bb897402.aspx) 관리자에게 문의하여 Marketo 전용 사용자를 새로 만드십시오. **[!UICONTROL Manage Roles]**&#x200B;을(를) 클릭합니다.
+1. 여기에 사용자 목록이 표시됩니다. 전용 Marketo 동기화 사용자를 선택하거나 [AFDS(Active Directory Federation Services)](https://msdn.microsoft.com/en-us/library/bb897402.aspx) 관리자에게 문의하여 Marketo 전용 사용자를 새로 만드십시오. **[!UICONTROL Manage Roles]**&#x200B;를 클릭합니다.
 
    ![](assets/image2015-4-2-14-3a11-3a7.png)
 
@@ -71,7 +71,7 @@ Marketo 동기화 사용자 역할만 Marketo 동기화 사용자에게 할당�
    >
    >[!UICONTROL Marketo Config]이(가) 없으면 페이지를 새로 고침해 보십시오. 문제가 지속되면 [Marketo 솔루션을 다시 게시](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/connecting-to-legacy-versions/step-1-of-3-install-2011.md)하거나 로그아웃했다가 다시 로그인하십시오.
 
-1. **[!UICONTROL Default]**&#x200B;을(를) 클릭합니다.
+1. **[!UICONTROL Default]**&#x200B;를 클릭합니다.
 
    ![](assets/image2015-4-2-14-3a27-3a30.png)
 
@@ -87,7 +87,7 @@ Marketo 동기화 사용자 역할만 Marketo 동기화 사용자에게 할당�
 
    ![](assets/image2015-4-2-14-3a34-3a15.png)
 
-1. **[!UICONTROL Publish All Customizations]**&#x200B;을(를) 클릭합니다.
+1. **[!UICONTROL Publish All Customizations]**&#x200B;를 클릭합니다.
 
    ![](assets/publish-all-customizations1.png)
 

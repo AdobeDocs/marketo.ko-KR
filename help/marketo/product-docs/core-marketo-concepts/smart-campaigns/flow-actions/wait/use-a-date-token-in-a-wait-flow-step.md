@@ -1,17 +1,17 @@
 ---
 unique-page-id: 1146997
 description: 대기 흐름 단계에서 날짜 토큰 사용 - Marketo 문서 - 제품 설명서
-title: 대기 흐름 단계에서 날짜 토큰 사용
+title: 대기 플로우 단계에서 날짜 토큰 사용
 exl-id: d161922b-ce90-4e65-9282-d3bb866c1d94
 feature: Smart Campaigns
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '205'
-ht-degree: 0%
+ht-degree: 9%
 
 ---
 
-# 대기 흐름 단계에서 날짜 토큰 사용 {#use-a-date-token-in-a-wait-flow-step}
+# 대기 플로우 단계에서 날짜 토큰 사용 {#use-a-date-token-in-a-wait-flow-step}
 
 대기 흐름 단계를 사용하여 날짜 토큰을 사용하는 특정 날짜까지 Smart Campaign을 통해 개인의 여정을 일시 중지할 수 있습니다. 종료 날짜를 며칠 단위로 수정할 수도 있습니다.
 
@@ -56,7 +56,7 @@ ht-degree: 0%
    >
    >정수 필드를 나타내는 `{{lead.` 또는 `{{company.` 토큰이나 숫자 유형의 `{{my.` 토큰을 사용하여 일 수를 지정할 수도 있습니다.
 
-1. **[!UICONTROL Save]**&#x200B;을(를) 클릭합니다.
+1. **[!UICONTROL Save]**&#x200B;를 클릭합니다.
 
    ![](assets/use-a-date-token-in-a-wait-flow-step-7.png)
 

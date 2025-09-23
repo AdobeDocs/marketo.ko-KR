@@ -1,21 +1,21 @@
 ---
 unique-page-id: 12978647
 description: CRM 검색을 위한 사용자 지정 필드 만들기 - Marketo 문서 - 제품 설명서
-title: CRM 검색을 위한 사용자 지정 필드 만들기
+title: CRM 검색용 사용자 정의 필드 만들기
 exl-id: 16e03f6f-e3c2-443c-803e-bf35a346693a
 feature: Target Account Management
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '115'
-ht-degree: 0%
+ht-degree: 21%
 
 ---
 
-# CRM 검색을 위한 사용자 지정 필드 만들기 {#create-a-custom-field-for-crm-discovery}
+# CRM 검색용 사용자 정의 필드 만들기 {#create-a-custom-field-for-crm-discovery}
 
 계정에 사용자 지정 필드를 추가하고, CRM에 매핑하고, Marketo에서 CRM 계정 검색에 사용하십시오.
 
-1. **[!UICONTROL Admin]**&#x200B;을(를) 클릭합니다.
+1. **[!UICONTROL Admin]**&#x200B;를 클릭합니다.
 
    ![](assets/admin.png)
 
@@ -23,7 +23,7 @@ ht-degree: 0%
 
    ![](assets/two-4.png)
 
-1. **[!UICONTROL Object]** 드롭다운을 클릭하고 **[!UICONTROL Named Account]**&#x200B;을(를) 선택합니다.
+1. **[!UICONTROL Object]** 드롭다운을 클릭하고 **[!UICONTROL Named Account]**&#x200B;를 선택합니다.
 
    ![](assets/three-3.png)
 
@@ -35,7 +35,7 @@ ht-degree: 0%
 
    ![](assets/five-3.png)
 
-1. 필드가 만들어지면 오른쪽에 있는 트리에서 필드를 선택합니다. **[!UICONTROL Field Actions]** 드롭다운을 클릭하고 **[!UICONTROL Map to CRM Field]**&#x200B;을(를) 선택합니다.
+1. 필드가 만들어지면 오른쪽에 있는 트리에서 필드를 선택합니다. **[!UICONTROL Field Actions]** 드롭다운을 클릭하고 **[!UICONTROL Map to CRM Field]**&#x200B;를 선택합니다.
 
    ![](assets/six-2.png)
 

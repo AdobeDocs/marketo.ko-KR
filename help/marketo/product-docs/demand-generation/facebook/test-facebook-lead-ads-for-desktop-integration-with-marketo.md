@@ -1,13 +1,13 @@
 ---
 unique-page-id: 11370892
 description: Marketo과 데스크톱을 통합할 수 있는 Facebook 리드 광고 테스트 - Marketo 설명서 - 제품 설명서
-title: Marketo과의 데스크탑 통합을 위한 Facebook 리드 광고 테스트
+title: Marketo와 데스크탑 통합을 위한 Facebook 리드 광고 테스트
 exl-id: 2025b6e9-ecd7-4677-9f76-bc7813884e93
 feature: Integrations
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '201'
-ht-degree: 0%
+ht-degree: 4%
 
 ---
 
@@ -33,7 +33,7 @@ ht-degree: 0%
    >
    >이것은 추가 정보 Call to action을 사용하는 예입니다. 리드 광고 단위 Call to action이 다를 수 있습니다.
 
-1. 데스크톱에서 양식을 작성하여 테스트 리드 광고 단위를 제출합니다. **[!UICONTROL Submit]**&#x200B;을(를) 클릭합니다.
+1. 데스크톱에서 양식을 작성하여 테스트 리드 광고 단위를 제출합니다. **[!UICONTROL Submit]**&#x200B;를 클릭합니다.
 
    ![](assets/image2016-5-13-14-3a47-3a43.png)
 

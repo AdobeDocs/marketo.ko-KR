@@ -1,16 +1,16 @@
 ---
 description: Google에 목록 보내기 - Marketo 문서 - 제품 설명서
-title: Google에 목록 보내기
+title: Google로 목록 보내기
 feature: Integrations
 exl-id: d28d828c-3d83-44ca-85de-1207c55ec911
-source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '208'
-ht-degree: 1%
+ht-degree: 6%
 
 ---
 
-# Google에 목록 보내기 {#send-a-list-to-google}
+# Google로 목록 보내기 {#send-a-list-to-google}
 
 Google Customer Match를 사용하는 고객의 경우 아래 단계에 따라 Marketo Engage 정적 목록을 Google 계정에 전송하십시오.
 

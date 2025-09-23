@@ -3,7 +3,7 @@ description: Dynamic Chat 개요 - Marketo 문서 - 제품 설명서
 title: Dynamic Chat 개요
 feature: Dynamic Chat
 exl-id: 73ab651e-bb11-459d-aa6a-39d9e208d512
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '587'
 ht-degree: 3%
@@ -16,7 +16,7 @@ Dynamic Chat을 사용하면 사용하기 쉬운 인터페이스를 활용하여
 
 >[!TIP]
 >
->Dynamic Chat 자습서 비디오를 보려면 [이 페이지](https://experienceleague.adobe.com/docs/marketo-learn/tutorials/dynamic-chat/dynamic-chat-overview.html?lang=ko){target="_blank"}를 방문하십시오.
+>Dynamic Chat 자습서 비디오를 보려면 [이 페이지](https://experienceleague.adobe.com/docs/marketo-learn/tutorials/dynamic-chat/dynamic-chat-overview.html){target="_blank"}를 방문하십시오.
 
 ## 통합 {#integrations}
 
@@ -88,7 +88,7 @@ Dynamic Chat 언어를 변경하려면 아래 단계를 따르십시오.
 
 ## Dynamic Chat 데이터 보존 제한 {#dynamic-chat-data-retention-limits}
 
-다음은 Dynamic Chat 내의 제한/매개 변수 중 일부에 불과합니다. 전체 목록에 대해서는 Marketo Engage [제품 설명 페이지](https://helpx.adobe.com/kr/legal/product-descriptions/adobe-marketo-engage---product-description.html){target="_blank"}를 참조하십시오.
+다음은 Dynamic Chat 내의 제한/매개 변수 중 일부에 불과합니다. 전체 목록에 대해서는 Marketo Engage [제품 설명 페이지](https://helpx.adobe.com/legal/product-descriptions/adobe-marketo-engage---product-description.html){target="_blank"}를 참조하십시오.
 
 <table>
   <th>데이터 유형</th>

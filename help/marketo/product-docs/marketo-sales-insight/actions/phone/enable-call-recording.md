@@ -1,16 +1,16 @@
 ---
 description: 통화 기록 활성화 - Marketo 문서 - 제품 설명서
-title: 통화 기록 활성화
+title: 통화 녹음 활성화
 exl-id: 85a271f7-5cd9-4660-80b3-60742b743979
 feature: Sales Insight Actions
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '83'
-ht-degree: 0%
+ht-degree: 7%
 
 ---
 
-# 통화 기록 활성화 {#enable-call-recording}
+# 통화 녹음 활성화 {#enable-call-recording}
 
 관리자는 [!DNL Sales Insight Actions] 통화에 대한 통화 기록을 활성화할 수 있습니다. 팀의 통화를 기록하는 것은 Best Call Practice에 따라 영업 담당자를 지도하는 좋은 방법이 될 수 있습니다.
 

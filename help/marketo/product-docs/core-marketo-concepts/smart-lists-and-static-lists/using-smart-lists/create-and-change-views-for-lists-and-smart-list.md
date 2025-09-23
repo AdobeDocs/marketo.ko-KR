@@ -1,17 +1,17 @@
 ---
 unique-page-id: 557337
 description: 목록 및 스마트 목록에 대한 보기 만들기 및 변경 - Marketo 문서 - 제품 설명서
-title: 목록 및 스마트 목록 보기 만들기 및 변경
+title: 목록 및 스마트 목록에 대한 보기 만들기 및 변경
 exl-id: a1661990-ae10-4f8e-9eed-ada6564136d9
 feature: Smart Lists
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '211'
-ht-degree: 0%
+ht-degree: 9%
 
 ---
 
-# 목록 및 스마트 목록 보기 만들기 및 변경 {#create-and-change-views-for-lists-and-smart-list}
+# 목록 및 스마트 목록에 대한 보기 만들기 및 변경 {#create-and-change-views-for-lists-and-smart-list}
 
 스마트 목록에는 기본 열 세트가 표시됩니다. 그 열들을 마음껏 편집할 수 있다는 것을 알고 있었습니까? 방법은 다음과 같습니다.
 
@@ -63,7 +63,7 @@ ht-degree: 0%
 
    ![](assets/create-and-change-views-for-lists-and-smart-list-8.png)
 
-1. **[!UICONTROL Delete]**&#x200B;을(를) 클릭합니다.
+1. **[!UICONTROL Delete]**&#x200B;를 클릭합니다.
 
    ![](assets/create-and-change-views-for-lists-and-smart-list-9.png)
 

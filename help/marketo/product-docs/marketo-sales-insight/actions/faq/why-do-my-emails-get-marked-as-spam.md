@@ -1,15 +1,15 @@
 ---
-description: 왜 내 이메일이 스팸으로 표시됩니까? - Marketo 문서 - 제품 설명서
-title: 왜 내 이메일이 스팸으로 표시됩니까?
+description: 왜 내 이메일이 스팸으로 표시됩니까? - Marketo 설명서 - 제품 설명서
+title: 내 이메일이 스팸으로 표시되는 이유는 무엇입니까?
 exl-id: f42cd9ba-5c05-491b-a471-a8dcc49fe27d
-source-git-commit: c16081143588ebc0793f5b6e2630b58348e27124
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '181'
-ht-degree: 0%
+ht-degree: 11%
 
 ---
 
-# 왜 내 이메일이 스팸으로 표시됩니까? {#why-do-my-emails-get-marked-as-spam}
+# 내 이메일이 스팸으로 표시되는 이유는 무엇입니까? {#why-do-my-emails-get-marked-as-spam}
 
 회사로서는 전달률이 높게 유지되도록 열심히 노력하고 있습니다. 여전히, 보낸 이메일이 스팸 폴더로 라우팅되도록 트리거할 수 있는 특정 사용자 비헤이비어 및 설정이 있습니다.
 

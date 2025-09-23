@@ -1,12 +1,12 @@
 ---
-description: 삭제한 연락처 또는 그룹을 복구할 수 있습니까? - Marketo 문서 - 제품 설명서
+description: 삭제한 연락처 또는 그룹을 복구할 수 있습니까? - Marketo 설명서 - 제품 설명서
 title: 삭제한 연락처 또는 그룹을 복구할 수 있습니까?
 exl-id: ef783d23-3b43-4e6c-9581-1e7d3958ae54
 feature: Sales Insight Actions
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '80'
-ht-degree: 0%
+ht-degree: 27%
 
 ---
 

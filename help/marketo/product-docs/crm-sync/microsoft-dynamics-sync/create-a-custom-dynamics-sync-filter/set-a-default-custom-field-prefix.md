@@ -4,10 +4,10 @@ description: 기본 사용자 정의 필드 접두사 설정 - Marketo 문서 - 
 title: 기본 사용자 정의 필드 접두사 설정
 exl-id: 5608864b-356d-451b-b079-4ea11c3296e5
 feature: Microsoft Dynamics
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '88'
-ht-degree: 3%
+ht-degree: 17%
 
 ---
 
@@ -19,7 +19,7 @@ Marketo 소유 필드를 올바르게 동기화하려면 사용자 지정 필드
 
    ![](assets/image2015-10-9-11-3a18-3a8.png)
 
-1. **[!UICONTROL Publishers]**&#x200B;을(를) 클릭합니다.
+1. **[!UICONTROL Publishers]**&#x200B;를 클릭합니다.
 
    ![](assets/image2015-10-9-11-3a19-3a39.png)
 
@@ -27,7 +27,7 @@ Marketo 소유 필드를 올바르게 동기화하려면 사용자 지정 필드
 
    ![](assets/image2015-10-9-11-3a2-3a45.png)
 
-1. 접두사를 **new**(으)로 변경합니다. **[!UICONTROL Save and Close]**&#x200B;을(를) 클릭합니다.
+1. 접두사를 **new**(으)로 변경합니다. **[!UICONTROL Save and Close]**&#x200B;를 클릭합니다.
 
    ![](assets/image2015-10-9-11-3a9-3a17.png)
 
@@ -35,7 +35,7 @@ Marketo 소유 필드를 올바르게 동기화하려면 사용자 지정 필드
 
    ![](assets/image2015-10-9-11-3a12-3a43.png)
 
-1. **[!UICONTROL Publish All Customizations]**&#x200B;을(를) 클릭합니다.
+1. **[!UICONTROL Publish All Customizations]**&#x200B;를 클릭합니다.
 
    ![](assets/image2015-10-9-11-3a14-3a42.png)
 

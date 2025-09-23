@@ -3,16 +3,16 @@ description: 빠른 안내서 - Marketo 문서 - 제품 설명서
 title: 빠른 안내서
 exl-id: eb854ec8-fabb-477d-977b-9dc7e7d9f24f
 feature: Marketo with Adobe Identity
-source-git-commit: 9e51ece12742152040dbbcb6a1584fba28e863ff
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '111'
-ht-degree: 0%
+ht-degree: 4%
 
 ---
 
 # 빠른 안내서 {#quick-guide}
 
-아래 나열된 문서는 Adobe Identity Management을 통한 Marketo Engage을 설정하고 학습하는 데 도움이 됩니다.
+아래 나열된 문서는 Adobe Identity Management을 사용하여 Marketo Engage을 설정하고 학습하는 데 도움이 됩니다.
 
 ## 시스템 관리자 설정 {#system-admin-setup}
 
@@ -39,7 +39,7 @@ Marketo Engage API 전용 사용자는 Marketo Engage에서 만들고 관리해�
 
 ## CSV를 통해 사용자 추가 {#add-users-via-csv}
 
-[CSV 가져오기](https://helpx.adobe.com/kr/enterprise/using/bulk-upload-users.html#add-users){target="_blank"}
+[CSV 가져오기](https://helpx.adobe.com/enterprise/using/bulk-upload-users.html#add-users){target="_blank"}
 
 ## 사용자 로그인 {#user-sign-in}
 

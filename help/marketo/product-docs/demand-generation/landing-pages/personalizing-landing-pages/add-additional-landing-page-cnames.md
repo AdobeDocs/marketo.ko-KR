@@ -4,10 +4,10 @@ description: 추가 랜딩 페이지 CNAME 추가 - Marketo 문서 - 제품 설�
 title: 추가 랜딩 페이지 CNAME 추가
 exl-id: eb5a7f69-552e-49a2-91db-a784f4639cd0
 feature: Landing Pages
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '221'
-ht-degree: 0%
+ht-degree: 4%
 
 ---
 

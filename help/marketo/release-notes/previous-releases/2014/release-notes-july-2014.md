@@ -4,14 +4,14 @@ description: 릴리스 노트 - 2014년 7월 - Marketo 설명서 - 제품 설명
 title: 릴리스 노트 - 2014년 7월
 exl-id: 0f0b4ad4-0ca7-4f43-bc08-5e555890d289
 feature: Release Information
-source-git-commit: ecd225af3ecfd7cb9159faf5a9d384d47ee6312c
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '410'
-ht-degree: 0%
+ht-degree: 2%
 
 ---
 
-# 릴리스 노트: 2014년 7월 {#release-notes-july}
+# 릴리스 정보: 2014년 7월 {#release-notes-july}
 
 다음 기능은 2014년 7월 릴리스에 포함되어 있습니다. Marketo 버전에서 사용 가능한 기능이 있는지 확인하십시오. 자세한 기능 설명서에 대한 링크를 보려면 릴리스 이후 다시 돌아오십시오.
 
@@ -31,7 +31,7 @@ ht-degree: 0%
 
 ## 날짜 연산자 {#date-operators}
 
-&quot;[!UICONTROL in past before]&quot;, &quot;[!UICONTROL in future]&quot; 및 &quot;[!UICONTROL in future after]&quot;에 대한 [고급 필터](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/creating-a-smart-list/smart-list-filter-operators-glossary.md). 예를 들어, 생년월일이 3개월 이내인 잠재 고객 또는 6개월 후 만료되는 계약을 찾습니다.
+&quot;[&quot;, &quot;](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/creating-a-smart-list/smart-list-filter-operators-glossary.md)&quot; 및 &quot;[!UICONTROL in past before]&quot;에 대한 [!UICONTROL in future]고급 필터[!UICONTROL in future after]. 예를 들어, 생년월일이 3개월 이내인 잠재 고객 또는 6개월 후 만료되는 계약을 찾습니다.
 
 ![](assets/image2014-9-22-14-3a23-3a56.png)
 
@@ -47,7 +47,7 @@ ht-degree: 0%
 
 ## REST API의 목록 작업 {#list-operations-in-the-rest-api}
 
-ReST의 목록 작업과 관련하여 아래에 호출을 추가했습니다. 전체 설명서는 [https://experienceleague.adobe.com/ko/docs/marketo-developer/marketo/rest/rest-api](https://experienceleague.adobe.com/ko/docs/marketo-developer/marketo/rest/rest-api)을(를) 참조하십시오.
+ReST의 목록 작업과 관련하여 아래에 호출을 추가했습니다. 전체 설명서는 [https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/rest/rest-api](https://experienceleague.adobe.com/ko/docs/marketo-developer/marketo/rest/rest-api)을(를) 참조하십시오.
 
 * ID별 목록 가져오기
 * 여러 목록 가져오기
@@ -78,7 +78,7 @@ ReST의 목록 작업과 관련하여 아래에 호출을 추가했습니다. �
 
 ## RTP: JavaScript API 개선 사항 {#rtp-javascript-api-enhancements}
 
-조직, 업계, 위치 및 세그먼트 코드 일치와 같은 실시간 방문자 데이터를 가져오기 위한 새로운 RTP API 호출입니다. 또한 세그먼트 페이지의 세그먼트 이름 위로 마우스를 가져가면 세그먼트 코드를 보여주는 도구 설명이 표시됩니다. 자세한 내용은 [개발자 사이트](https://experienceleague.adobe.com/ko/docs/marketo-developer/marketo/javascriptapi/rich-media-recommendation)를 참조하십시오.
+조직, 업계, 위치 및 세그먼트 코드 일치와 같은 실시간 방문자 데이터를 가져오기 위한 새로운 RTP API 호출입니다. 또한 세그먼트 페이지의 세그먼트 이름 위로 마우스를 가져가면 세그먼트 코드를 보여주는 도구 설명이 표시됩니다. 자세한 내용은 [개발자 사이트](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/javascriptapi/rich-media-recommendation)를 참조하십시오.
 
 ![](assets/image2014-9-22-14-3a26-3a11.png)
 

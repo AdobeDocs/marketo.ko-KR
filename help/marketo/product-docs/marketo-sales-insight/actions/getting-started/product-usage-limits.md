@@ -1,22 +1,22 @@
 ---
 description: 제품 사용 제한 - Marketo 문서 - 제품 설명서
-title: 제품 사용 제한
+title: 제품 사용 제한 사항
 exl-id: 899dc59e-85bf-408e-9687-e0ed823dd51f
 feature: Sales Insight Actions
-source-git-commit: 1f228323c18204149630a7cb77d6ae0a88b425e3
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '233'
-ht-degree: 13%
+ht-degree: 18%
 
 ---
 
-# 제품 사용 제한 {#product-usage-limits}
+# 제품 사용 제한 사항 {#product-usage-limits}
 
-아래에서는 Sales Insight Actions에서 사용할 수 있는 확장된 Sales Engagement 기능을 사용할 수 있는 한계를 확인할 수 있습니다.
+아래에서 Sales Insight Actions에서 사용할 수 있는 확장된 Sales Engagement 기능을 사용하는 데 필요한 제한을 확인할 수 있습니다.
 
 >[!NOTE]
 >
->Marketo Sales Insight Actions는 [Marketo Sales Insight 패키지](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/installation/install-marketo-sales-insight-package-in-salesforce-appexchange.md){target="_blank"}를 통해 Salesforce CRM과 독점적으로 통합되는 웹 기반 애플리케이션입니다. 이를 때로 &quot;Marketo 영업&quot; 또는 간단히 &quot;작업&quot;이라고 합니다.
+>Marketo Sales Insight Actions는 [Marketo Sales Insight 패키지](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/installation/install-marketo-sales-insight-package-in-salesforce-appexchange.md){target="_blank"}를 통해 Salesforce CRM과만 통합되는 웹 기반 애플리케이션입니다. 이를 때로 &quot;Marketo 영업&quot; 또는 간단히 &quot;작업&quot;이라고 합니다.
 
 <table>
   <th>기능</th>
@@ -104,7 +104,7 @@ ht-degree: 13%
  <tr>
   <td>사용자 시트</td>
   <td>인스턴스당</td>
-  <td>10</td>
+  <td>100</td>
  </tr>
  <tr>
   <td>팀</td>
@@ -112,7 +112,7 @@ ht-degree: 13%
   <td>20</td>
  </tr>
  <tr>
-  <td>호출 결과</td>
+  <td>통화 결과</td>
   <td>인스턴스당</td>
   <td>15</td>
  </tr>

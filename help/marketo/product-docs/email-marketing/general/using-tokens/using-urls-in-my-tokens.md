@@ -1,17 +1,17 @@
 ---
 unique-page-id: 11382535
 description: 내 토큰에 URL 사용 - Marketo 문서 - 제품 설명서
-title: 내 토큰에 URL 사용
+title: 내 토큰에서 URL 사용
 exl-id: 6830c621-4d94-4f31-a608-2f7b2aced88c
 feature: Tokens
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '238'
-ht-degree: 0%
+ht-degree: 5%
 
 ---
 
-# 내 토큰에 URL 사용 {#using-urls-in-my-tokens}
+# 내 토큰에서 URL 사용 {#using-urls-in-my-tokens}
 
 [!UICONTROL My Tokens]을(를) 사용하여 전자 메일에 URL을 삽입하려면 아래 단계를 따르세요.
 
@@ -39,7 +39,7 @@ ht-degree: 0%
 
    ![](assets/four-3.png)
 
-1. **[!UICONTROL Edit Draft]**&#x200B;을(를) 클릭합니다.
+1. **[!UICONTROL Edit Draft]**&#x200B;를 클릭합니다.
 
    ![](assets/five-3.png)
 
@@ -71,7 +71,7 @@ ht-degree: 0%
 
    ![](assets/eleven.png)
 
-1. **[!UICONTROL Save]**&#x200B;을(를) 클릭합니다.
+1. **[!UICONTROL Save]**&#x200B;를 클릭합니다.
 
    ![](assets/twelve.png)
 

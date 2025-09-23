@@ -3,24 +3,24 @@ description: 릴리스 노트 - 2022년 10월 - Marketo 설명서 - 제품 설�
 title: 릴리스 정보 - 2022년 10월
 exl-id: 1494b8b9-049c-4969-ab95-a4be41d886b0
 feature: Release Information
-source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '603'
-ht-degree: 6%
+ht-degree: 22%
 
 ---
 
 # 릴리스 노트: 2022년 10월 {#release-notes-oct-22}
 
-아래에는 2022년 10월 릴리스에 포함된 모든 기능이 있습니다. Adobe Marketo Engage 버전에서 사용 가능한 기능이 있는지 확인하십시오.
+아래에는 2022년 10월 릴리스에 포함된 모든 기능이 있습니다. 기능 가용성에 대해 Adobe Marketo Engage 에디션을 확인하십시오.
 
 >[!AVAILABILITY]
 >
->별(![별](assets/yellow-star.png))로 표시되는 기능은 유료 추가 기능입니다. 자세한 내용은 Marketo Engage 담당자에게 문의하십시오.
+>별표(![별표](assets/yellow-star.png))로 표시된 기능은 유료 추가 기능입니다. 자세한 내용은 Marketo Engage 담당자에게 문의하십시오.
 
 ## 표준 릴리스 주기 기능 {#standard-release-cycle-features}
 
-다음 기능은 표준 릴리스 주기에 해당하며 **2022년 10월 14일**&#x200B;에 릴리스되기 시작합니다. 이후 몇 주 동안 나머지 기능은 단계적으로 롤아웃됩니다. 릴리스 기능 및 날짜는 변경될 수 있습니다. 각 기능의 상태를 아래에서 확인하십시오.
+다음 기능은 표준 릴리스 주기에 포함되며, **2022년 10월 14일 토요일**&#x200B;부터 출시되기 시작하고 나머지 기능은 이후 몇 주에 걸쳐 단계적으로 출시될 예정입니다. 릴리스 기능 및 날짜는 변경될 수 있습니다. 각 기능의 상태를 아래에서 확인하십시오.
 
 ### 마케팅 데이터 환경 {#marketing-data-environment}
 
@@ -34,8 +34,8 @@ ht-degree: 6%
    <td><b>설명서 업데이트</b></td>
   </tr>
   <tr>
-   <td>배송됨</td>
-   <td><a href="/help/marketo/product-docs/core-marketo-concepts/programs/working-with-programs/program-member-custom-field-sync.md">프로그램 구성원 사용자 정의 필드 동기화</a></td>
+   <td>출시됨</td>
+   <td><a href="/help/marketo/product-docs/core-marketo-concepts/programs/working-with-programs/program-member-custom-field-sync.md">프로그램 멤버 사용자 정의 필드 동기화</a></td>
   </tr>
   </tbody>
 </table>
@@ -48,7 +48,7 @@ ht-degree: 6%
    <td><b>설명서 업데이트</b></td>
   </tr>
   <tr>
-   <td>배송됨</td>
+   <td>출시됨</td>
    <td><a href="/help/marketo/product-docs/administration/marketo-with-adobe-identity/adobe-identity-management-overview.md">Adobe Identity Management</a></td>
   </tr>
   </tbody>
@@ -69,8 +69,8 @@ ht-degree: 6%
    <td><b>설명서 업데이트</b></td>
   </tr>
   <tr>
-   <td>배송됨</td>
-   <td><a href="/help/marketo/product-docs/marketo-engage-modern-ux/toggle-switch.md">전환 스위치</a></td>
+   <td>출시됨</td>
+   <td><a href="/help/marketo/product-docs/marketo-engage-modern-ux/toggle-switch.md">토글 스위치</a></td>
   </tr>
   </tbody>
 </table>
@@ -83,7 +83,7 @@ ht-degree: 6%
    <td><b>설명서 업데이트</b></td>
   </tr>
   <tr>
-   <td>배송됨</td>
+   <td>출시됨</td>
    <td>해당 사항 없음</td>
   </tr>
   </tbody>
@@ -97,7 +97,7 @@ ht-degree: 6%
    <td><b>설명서 업데이트</b></td>
   </tr>
   <tr>
-   <td>배송됨</td>
+   <td>출시됨</td>
    <td>해당 사항 없음</td>
   </tr>
   </tbody>
@@ -115,7 +115,7 @@ ht-degree: 6%
    <td><b>설명서 업데이트</b></td>
   </tr>
   <tr>
-   <td>배송됨</td>
+   <td>출시됨</td>
    <td><a href="https://developer.adobe.com/marketo-apis/api/mapi/#tag/Bulk-Import-Leads">벌크 리드 가져오기</a></td>
   </tr>
   </tbody>
@@ -135,7 +135,7 @@ ht-degree: 6%
    <td><b>설명서 업데이트</b></td>
   </tr>
   <tr>
-   <td>배송됨</td>
+   <td>출시됨</td>
    <td><a href="/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/features/dynamic-chat-integration.md">Dynamic Chat 통합</a></td>
   </tr>
   </tbody>
@@ -153,7 +153,7 @@ ht-degree: 6%
    <td><b>설명서 업데이트</b></td>
   </tr>
   <tr>
-   <td>배송됨</td>
+   <td>출시됨</td>
    <td><a href="/help/marketo/product-docs/demand-generation/dynamic-chat/automated-chat/stream-designer.md#stream-designer-icons">스트림 Designer 아이콘</a></td>
   </tr>
   </tbody>
@@ -167,7 +167,7 @@ ht-degree: 6%
    <td><b>설명서 업데이트</b></td>
   </tr>
   <tr>
-   <td>배송됨</td>
+   <td>출시됨</td>
    <td><a href="/help/marketo/product-docs/demand-generation/dynamic-chat/setup-and-configuration/agent-settings.md">캘린더</a></td>
   </tr>
   </tbody>
@@ -181,7 +181,7 @@ ht-degree: 6%
    <td><b>설명서 업데이트</b></td>
   </tr>
   <tr>
-   <td>배송됨</td>
+   <td>출시됨</td>
    <td>해당 사항 없음</td>
   </tr>
   </tbody>

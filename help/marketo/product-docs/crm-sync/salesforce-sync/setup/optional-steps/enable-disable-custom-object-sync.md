@@ -1,21 +1,21 @@
 ---
 unique-page-id: 4719297
 description: 사용자 지정 개체 동기화 활성화/비활성화 - Marketo 문서 - 제품 설명서
-title: 사용자 지정 개체 동기화 활성화/비활성화
+title: 사용자 정의 오브젝트 동기화 활성화/비활성화
 exl-id: f17d9135-b33e-48c0-9220-131fb437e9e5
 feature: Salesforce Integration
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '197'
-ht-degree: 0%
+ht-degree: 10%
 
 ---
 
-# 사용자 지정 개체 동기화 활성화/비활성화 {#enable-disable-custom-object-sync}
+# 사용자 정의 오브젝트 동기화 활성화/비활성화 {#enable-disable-custom-object-sync}
 
 Salesforce 인스턴스에서 만든 사용자 지정 개체도 Marketo Engage의 일부일 수 있습니다. 설정 방법은 다음과 같습니다.
 
-## 사용자 지정 개체 동기화 활성화/비활성화 {#enable-disable-custom-object-sync-1}
+## 사용자 정의 오브젝트 동기화 활성화/비활성화 {#enable-disable-custom-object-sync-1}
 
 >[!NOTE]
 >
@@ -41,7 +41,7 @@ Salesforce 인스턴스에서 만든 사용자 지정 개체도 Marketo Engage�
    >
    >[!DNL Salesforce] 사용자 지정 개체 스키마의 동기화에 몇 분 정도 걸릴 수 있습니다.
 
-1. **[!UICONTROL Refresh Schema]**&#x200B;을(를) 클릭합니다.
+1. **[!UICONTROL Refresh Schema]**&#x200B;를 클릭합니다.
 
    ![](assets/image2014-12-10-10-3a15-3a7.png)
 

@@ -3,9 +3,9 @@ description: 릴리스 노트 - 2021년 1월 - Marketo 문서 - 제품 설명서
 title: 릴리스 노트 - 2021년 1월
 exl-id: 24a5f955-ef4b-4adf-9478-2653db6f9d79
 feature: Release Information
-source-git-commit: ecd225af3ecfd7cb9159faf5a9d384d47ee6312c
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
-source-wordcount: '1234'
+source-wordcount: '1235'
 ht-degree: 0%
 
 ---
@@ -69,7 +69,7 @@ ht-degree: 0%
 
 ![(별)](assets/yellow-star.png)
 
-* **전자 메일 연결 제한(BETA)**: [!DNL Sales Connect]에 대한 전자 메일 연결 제한을 사용하여 전자 메일 배달 능력을 개선하고 1:1 판매 커뮤니케이션을 확장하세요. 새로운 조절 기술은 [!DNL Exchange] 및 Gmail 사용자를 위한 원활한 경험을 만들기 위해 전자 메일 전송 타이밍을 자동으로 관리합니다. 서드파티 벌크 이메일 전송 애플리케이션의 사용을 줄이거나 제거합니다.
+* **전자 메일 연결 제한(BETA)**: :1에 대한 전자 메일 연결 제한을 사용하여 전자 메일 배달 능력을 개선하고 1[!DNL Sales Connect] 판매 커뮤니케이션을 확장하세요. 새로운 조절 기술은 [!DNL Exchange] 및 Gmail 사용자를 위한 원활한 경험을 만들기 위해 전자 메일 전송 타이밍을 자동으로 관리합니다. 서드파티 벌크 이메일 전송 애플리케이션의 사용을 줄이거나 제거합니다.
 * **전자 메일 연결 바운스 추적**: 새로운 전자 메일 바운스 보고서를 사용하여 insight의 잠재 고객 품질과 전자 메일 템플릿 성능을 향상시킵니다. [!DNL Exchange] 및 Gmail 사용자는 라이브 피드, 전자 메일 폴더, 템플릿 분석 및 Campaign Analytics로 롤업되는 바운스 알림을 받도록 선택할 수 있습니다.
 * **프로필 페이지 구성**: 새 프로필 페이지에서 사용자 환경 설정을 쉽게 관리할 수 있습니다. 한 곳에서 암호 변경, 지리적 위치 및 언어 설정 편집, 통합 상태 검토 등의 작업을 수행할 수 있습니다.
 * **템플릿 관리**: 관련 템플릿에 빠르게 액세스하고 검색 시간을 단축할 수 있도록 새로운 드래그 앤 드롭 기능을 사용하여 판매 전자 메일 템플릿을 카테고리로 구성합니다.
@@ -77,10 +77,10 @@ ht-degree: 0%
 
 **_공지 및 사용 중단_**
 
-* 모든 사용자는 2021년 1월 15일 이전 **Sales Insight의 최신 버전으로 업그레이드해야 합니다**. 업그레이드를 완료하지 않은 경우 애플리케이션에 로그인하면 업그레이드를 완료하라는 메시지가 표시됩니다. 이 안내서 [&#128279;](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/upgrading/upgrading-your-msi-package.md)의 지침 을(를) 따릅니다. 업데이트된 버전에는 식별된 보안 취약점에 대한 패치가 포함되어 있습니다. 해당 패치는 원래 2016년 4월 6일에 출시되었습니다. 참고: **버전 1.4363 이상**&#x200B;은(는) 업그레이드를 수행할 필요가 없습니다.
+* 모든 사용자는 2021년 1월 15일 이전 **Sales Insight의 최신 버전으로 업그레이드해야 합니다**. 업그레이드를 완료하지 않은 경우 애플리케이션에 로그인하면 업그레이드를 완료하라는 메시지가 표시됩니다. 이 안내서 [의 지침 ](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/upgrading/upgrading-your-msi-package.md)을(를) 따릅니다. 업데이트된 버전에는 식별된 보안 취약점에 대한 패치가 포함되어 있습니다. 해당 패치는 원래 2016년 4월 6일에 출시되었습니다. 참고: **버전 1.4363 이상**&#x200B;은(는) 업그레이드를 수행할 필요가 없습니다.
 * 양식 1.0 서비스 사용 중단이 **2021년 5월** 릴리스에 적용됩니다. Forms 1.0 서비스는 완전히 중단되어 사용 중인 나머지 Forms 1.0 자산의 기능이 손실됩니다. 또한 leadCapture/save 및 leadCapture/save2 종단점에 대한 프로그래밍 방식 양식 POST와 같이 지원되지 않는 메서드를 통해 제출된 양식이 거부됩니다. 자세한 내용 및 수정 사항은 [Marketing Nation의 게시물](https://nation.marketo.com/t5/Product-Documents/Upcoming-Changes-to-the-Marketo-Engage-Form-Platform/ta-p/306631)을 참조하세요.
 * 2021년에 Marketo Engage은 랜딩 페이지, 양식, 이미지 및 파일 에셋의 URL 구조를 변경할 예정입니다. 기존 Marketo Engage 구독의 경우 2021년 4월 1일부터 점진적 롤아웃이 시작됩니다. 롤아웃 타임라인에 대한 자세한 내용은 2021년 3월에 공개될 예정입니다. 영향을 받는 각 에셋 유형의 변경 방법에 대한 자세한 내용은 [Marketing Nation의 게시물](https://nation.marketo.com/t5/Product-Documents/Upcoming-Changes-to-Design-Studio-URLs/ta-p/306632)을 참조하세요.
 
 **_제품 릴리스 웨비나_**
 
-이러한 기능 및 개선 사항에 대해 자세히 알아보시겠습니까? 1월 21일 오후 1시(PT)/오후 4시(ET 기준)에 참여하려면 [지금 등록](https://engage.marketo.com/January_21_Release_Webinar_Registration.html)하여 제품 팀과 함께 라이브 웨비나를 통해 이러한 혁신적인 기능을 자세히 알아보십시오.
+이러한 기능 및 개선 사항에 대해 자세히 알아보시겠습니까? [지금 등록](https://engage.marketo.com/January_21_Release_Webinar_Registration.html)하여 1월 21일 오후 1시(PT 기준)/오후 4:00(ET 기준))에 참여하여 제품 팀과 함께 라이브 웨비나를 통해 이러한 혁신적인 기능을 자세히 알아보십시오.:00

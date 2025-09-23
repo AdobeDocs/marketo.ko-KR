@@ -1,18 +1,18 @@
 ---
-description: Marketo Sales Insight - Marketo 문서 - 제품 설명서의 대화형 웨비나
+description: Marketo Sales Insight의 대화형 웨비나 - Marketo 문서 - 제품 설명서
 title: Marketo Sales Insight의 대화형 웨비나
 feature: Interactive Webinars
 exl-id: 49185c9d-6b77-4360-929f-bfaf54a3f5ca
-source-git-commit: 19ccac27255d4dd9803400894bd025926b4331b2
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '223'
-ht-degree: 0%
+ht-degree: 5%
 
 ---
 
 # Marketo Sales Insight의 대화형 웨비나 {#interactive-webinars-in-marketo-sales-insight}
 
-Marketo Sales Insight의 대화형 웨비나를 사용하면 웨비나의 활동을 Salesforce의 Marketo Sales Insight(MSI) 플러그인에서 사용할 수 있습니다.
+Marketo Sales Insight의 대화형 웨비나는 Salesforce의 Marketo Sales Insight(MSI) 플러그인에서 웨비나의 활동을 사용할 수 있도록 합니다.
 
 >[!PREREQUISITES]
 >

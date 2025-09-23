@@ -4,10 +4,10 @@ description: 기본 Salesforce 필드 매핑 - Marketo 문서 - 제품 설명서
 title: 기본 Salesforce 필드 매핑
 exl-id: d6639733-f85d-4f4c-ac41-5d2a68a9c6b2
 feature: Salesforce Integration
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '138'
-ht-degree: 2%
+ht-degree: 5%
 
 ---
 

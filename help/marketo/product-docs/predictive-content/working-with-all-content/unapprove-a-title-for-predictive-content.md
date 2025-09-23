@@ -1,13 +1,13 @@
 ---
 unique-page-id: 11384663
 description: 예측 콘텐츠에 대한 제목 승인 취소 - Marketo 문서 - 제품 설명서
-title: 예측 콘텐츠에 대한 제목 승인 취소
+title: 예측 콘텐츠 제목 승인 취소
 exl-id: 63540339-fbed-436b-8cb3-abf2e181e010
 feature: Predictive Content
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '109'
-ht-degree: 0%
+ht-degree: 10%
 
 ---
 
@@ -21,7 +21,7 @@ ht-degree: 0%
 
    ![](assets/image2017-10-3-9-3a18-3a38.png)
 
-1. **[!UICONTROL Content Actions]** 드롭다운을 클릭하고 **[!UICONTROL Unapprove for Predictive Content]**&#x200B;을(를) 선택합니다.
+1. **[!UICONTROL Content Actions]** 드롭다운을 클릭하고 **[!UICONTROL Unapprove for Predictive Content]**&#x200B;를 선택합니다.
 
    ![](assets/image2017-10-3-9-3a19-3a20.png)
 

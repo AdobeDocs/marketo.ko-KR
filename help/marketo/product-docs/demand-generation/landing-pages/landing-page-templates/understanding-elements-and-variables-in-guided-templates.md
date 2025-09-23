@@ -1,17 +1,17 @@
 ---
 unique-page-id: 7515069
 description: 안내식 템플릿의 요소 및 변수 이해 - Marketo 문서 - 제품 설명서
-title: 안내식 템플릿의 요소 및 변수 이해
+title: 가이드 템플릿의 요소 및 변수 이해
 exl-id: c25c8b2b-d596-46f7-a570-b4a5cb5957a6
 feature: Landing Pages
-source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '189'
-ht-degree: 2%
+ht-degree: 10%
 
 ---
 
-# 안내식 템플릿의 요소 및 변수 이해 {#understanding-elements-and-variables-in-guided-templates}
+# 가이드 템플릿의 요소 및 변수 이해 {#understanding-elements-and-variables-in-guided-templates}
 
 안내식 랜딩 페이지 템플릿에는 요소와 변수의 두 가지 편집 가능한 섹션 유형이 있습니다.
 

@@ -4,16 +4,16 @@ description: 이메일 보내기 - Marketo 문서 - 제품 설명서
 title: 이메일 보내기
 exl-id: dc8e25c7-7578-4916-bca9-2d4bdffd3c6a
 feature: Smart Campaigns
-source-git-commit: 12f2399859c784095cc2c1df772c66c649106ba3
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
-source-wordcount: '91'
-ht-degree: 0%
+source-wordcount: '89'
+ht-degree: 4%
 
 ---
 
 # 이메일 보내기 {#send-email}
 
-&quot;[!UICONTROL 전자 메일 보내기]&quot; 흐름 단계는 캠페인의 일부나 사람들에게 전자 메일을 보내는 단일 흐름 단계로 사용할 수 있습니다.
+&quot;[!UICONTROL Send Email]&quot; 흐름 단계는 캠페인의 일부나 사람들에게 전자 메일을 보내는 단일 흐름 단계로 사용할 수 있습니다.
 
 ![](assets/send-email-1.png)
 

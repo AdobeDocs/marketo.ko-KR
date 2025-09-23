@@ -1,17 +1,17 @@
 ---
 unique-page-id: 2360321
 description: Workspace 이름 변경 - Marketo 문서 - 제품 설명서
-title: Workspace 이름 변경
+title: 작업 영역 이름 변경
 exl-id: 1d714803-b1c3-49e9-874b-2555dd13a9d1
 feature: Workspaces
-source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '73'
-ht-degree: 1%
+ht-degree: 23%
 
 ---
 
-# Workspace 이름 변경 {#change-the-name-of-a-workspace}
+# 작업 영역 이름 변경 {#change-the-name-of-a-workspace}
 
 >[!NOTE]
 >
@@ -31,7 +31,7 @@ ht-degree: 1%
 
    ![](assets/change-the-name-of-a-workspace-1.png)
 
-1. **[!UICONTROL Workspaces & Partitions]**&#x200B;을(를) 클릭합니다.
+1. **[!UICONTROL Workspaces & Partitions]**&#x200B;를 클릭합니다.
 
    ![](assets/change-the-name-of-a-workspace-2.png)
 

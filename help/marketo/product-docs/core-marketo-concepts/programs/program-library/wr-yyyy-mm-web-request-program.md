@@ -1,16 +1,16 @@
 ---
 description: WR-YYYY-MM-Web 요청 프로그램 - Marketo 문서 - 제품 설명서
-title: WR-YYYY-MM-Web 요청 프로그램
+title: WR-YYYY-MM-웹 요청 프로그램
 feature: Programs
 exl-id: 4acaa2d0-3329-4027-acbd-ae2e0ec6f7c5
-source-git-commit: 21bcdc10fe1f3517612efe0f8e2adaf2f4411a70
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '400'
-ht-degree: 6%
+ht-degree: 8%
 
 ---
 
-# WR-YYYY-MM-Web 요청 프로그램 {#wr-yyyy-mm-web-request-program}
+# WR-YYYY-MM-웹 요청 프로그램 {#wr-yyyy-mm-web-request-program}
 
 Marketo Engage 기본 프로그램을 활용하는 연락처 요청, 견적 요청, 데모 요청 또는 체험판 요청 양식에 적합한 예제 프로그램입니다. Marketo 랜딩 페이지와 함께 사용하거나 Marketo이 아닌 랜딩 페이지에 임베드된 양식으로 사용할 수 있습니다. 경고 이메일은 양식 제출 시 지정된 개인에게 전송됩니다.
 

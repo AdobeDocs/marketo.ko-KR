@@ -1,13 +1,13 @@
 ---
 unique-page-id: 2360341
 description: 사용자 정의 필드를 수익 탐색기 - Marketo 문서 - 제품 설명서에 동기화
-title: 사용자 정의 필드를 수입 탐색기에 동기화
+title: 사용자 정의 필드를 Revenue Explorer에 동기화
 exl-id: 6b7671ec-af43-4bca-89de-e2ac4a5cee1e
 feature: Reporting, Revenue Cycle Analytics
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '109'
-ht-degree: 0%
+ht-degree: 7%
 
 ---
 

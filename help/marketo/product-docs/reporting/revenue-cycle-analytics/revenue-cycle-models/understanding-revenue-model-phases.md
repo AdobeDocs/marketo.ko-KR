@@ -4,10 +4,10 @@ description: 수익 모델 단계 이해 - Marketo 문서 - 제품 설명서
 title: 수익 모델 단계 이해
 exl-id: 036559ff-b576-4490-ab76-54092e909178
 feature: Reporting, Revenue Cycle Analytics
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '59'
-ht-degree: 1%
+ht-degree: 15%
 
 ---
 
@@ -19,7 +19,7 @@ ht-degree: 1%
 
 ## 모델의 단계 정의 {#define-the-phases-of-the-model}
 
-1. **[!UICONTROL Phases]**&#x200B;을(를) 클릭합니다.
+1. **[!UICONTROL Phases]**&#x200B;를 클릭합니다.
 
    ![](assets/image2015-6-12-16-3a2-3a28.png)
 

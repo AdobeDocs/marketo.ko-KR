@@ -1,17 +1,17 @@
 ---
 unique-page-id: 10096409
 description: 중복 컨텐츠 전송 방지 - Marketo 문서 - 제품 설명서
-title: 중복 컨텐츠 전송 방지
+title: 중복 콘텐츠 전송 방지
 exl-id: fd7118e8-6e34-4973-8aa5-effb774447fd
 feature: Engagement Programs
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '201'
-ht-degree: 3%
+ht-degree: 7%
 
 ---
 
-# 중복 컨텐츠 전송 방지 {#avoid-sending-duplicate-content}
+# 중복 콘텐츠 전송 방지 {#avoid-sending-duplicate-content}
 
 같은 이메일을 두 번 받은 적이 있습니까? 짜증나지 않아?
 

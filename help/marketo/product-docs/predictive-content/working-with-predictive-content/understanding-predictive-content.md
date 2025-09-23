@@ -4,10 +4,10 @@ description: 예측 콘텐츠 이해 - Marketo 문서 - 제품 설명서
 title: 예측 콘텐츠 이해
 exl-id: 3a8dd077-dc21-4d17-bc85-bb32e009dd94
 feature: Predictive Content
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '271'
-ht-degree: 0%
+ht-degree: 2%
 
 ---
 
@@ -48,7 +48,7 @@ ht-degree: 0%
 
 ## 날짜별 Analytics 표시 {#display-analytics-by-date}
 
-1. 오른쪽에 있는 시작 날짜와 종료 날짜를 선택합니다(표시된 대로). **[!UICONTROL Apply]**&#x200B;을(를) 클릭합니다.
+1. 오른쪽에 있는 시작 날짜와 종료 날짜를 선택합니다(표시된 대로). **[!UICONTROL Apply]**&#x200B;를 클릭합니다.
 
    ![](assets/predictive-content-filter-by-date-hands.png)
 

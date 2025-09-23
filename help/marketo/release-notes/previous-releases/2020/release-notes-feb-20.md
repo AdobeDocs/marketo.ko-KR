@@ -4,10 +4,10 @@ description: 릴리스 노트 - 2020년 2월 - Marketo 문서 - 제품 설명서
 title: 릴리스 노트 - 2020년 2월
 exl-id: 6216b405-69c6-422b-a78c-7df0e8d271e9
 feature: Release Information
-source-git-commit: ecd225af3ecfd7cb9159faf5a9d384d47ee6312c
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
-source-wordcount: '639'
-ht-degree: 0%
+source-wordcount: '637'
+ht-degree: 2%
 
 ---
 
@@ -59,4 +59,4 @@ ht-degree: 0%
 * **자산 API &quot;_method&quot; 매개 변수**: 2020년 9월 이후, 자산 API 끝점은 이제 &quot;_method&quot;를 사용하여 쿼리 매개 변수를 URI 길이 제한을 무시하도록 POST 본문에 전달하지 않습니다. 이 매개 변수를 필요로 하는 요청을 수용하기 위해 자산 API의 URI 제한이 6KiB에서 65KiB로 증가하여 긴 요청 URI가 제출될 수 있습니다.
 * **Internet Explorer 지원 중단**: 2020년 7월 31일 7월 릴리스부터 Marketo Engage 사용자 인터페이스는 더 이상 Internet Explorer에서 지원되지 않습니다.
 
-**_제품 릴리스 웨비나_** [참여하기](https://engage.marketo.com/Jan_Feb_20_Release_Webinar_Registration.html) 3월 3일 오전 11시(PT 기준)/오후 2시(ET 기준) 제품 팀이 호스팅하는 라이브 웨비나에 대해 알아보고 이 릴리스에 포함된 기능에 대해 자세히 알아보십시오.
+**_제품 릴리스 웨비나_** [참여하기](https://engage.marketo.com/Jan_Feb_20_Release_Webinar_Registration.html) 3월 3일 오전 11시:00AM분(PT/2:00PM)에 제품 팀이 호스팅하는 라이브 웨비나에 대해 ET에 참여하여 이 릴리스에 포함된 기능에 대해 자세히 알아보십시오.

@@ -1,17 +1,17 @@
 ---
 unique-page-id: 1147023
 description: Webhook 호출 - Marketo 문서 - 제품 설명서
-title: Webhook 호출
+title: 웹후크 호출
 exl-id: b2f69502-e459-4277-9725-7bbb3578384f
 feature: Smart Campaigns
-source-git-commit: 12f2399859c784095cc2c1df772c66c649106ba3
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '74'
-ht-degree: 0%
+ht-degree: 5%
 
 ---
 
-# Webhook 호출 {#call-webhook}
+# 웹후크 호출 {#call-webhook}
 
 >[!PREREQUISITES]
 >
@@ -23,7 +23,7 @@ Webhooks를 사용하면 서드파티 서비스와 상호 작용할 수 있습�
 
 >[!NOTE]
 >
->[Webhooks](https://experienceleague.adobe.com/ko/docs/marketo-developer/marketo/webhooks/webhooks){target="_blank"}이(가) 귀하를 위해 할 수 있는 많은 흥미로운 작업에 대해 알아봅니다.
+>[Webhooks](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/webhooks/webhooks){target="_blank"}이(가) 제공하는 다양한 매혹적인 작업에 대해 알아봅니다.
 
 1. 드롭다운에서 Webhook을 선택합니다.
 

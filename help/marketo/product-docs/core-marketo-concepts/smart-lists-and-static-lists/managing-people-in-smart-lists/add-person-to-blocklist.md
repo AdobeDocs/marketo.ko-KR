@@ -1,17 +1,17 @@
 ---
 unique-page-id: 9438139
 description: 개인 차단 목록에 추가하다 추가 - Marketo 문서 - 제품 설명서
-title: 차단 목록에 추가하다 Person 추가
+title: 차단 목록에 사용자 추가
 exl-id: e4543bf9-11e9-42df-a31e-e2cebe24ad4a
 feature: Smart Lists
-source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '150'
-ht-degree: 1%
+ht-degree: 10%
 
 ---
 
-# 차단 목록에 추가하다 Person 추가 {#add-person-to-blocklist}
+# 차단 목록에 사용자 추가 {#add-person-to-blocklist}
 
 차단 목록에 사람들을 추가하면 그들은 당신의 서신을 받지 못하게 됩니다.
 
@@ -45,7 +45,7 @@ ht-degree: 1%
 
    ![](assets/add-person-to-blocklist-6.png)
 
-1. 새 스마트 캠페인에 이름을 지정합니다. **[!UICONTROL Create]**&#x200B;을(를) 클릭합니다.
+1. 새 스마트 캠페인에 이름을 지정합니다. **[!UICONTROL Create]**&#x200B;를 클릭합니다.
 
    ![](assets/add-person-to-blocklist-7.png)
 
@@ -69,7 +69,7 @@ ht-degree: 1%
 
    ![](assets/add-person-to-blocklist-12.png)
 
-1. **[!UICONTROL Run Now]**&#x200B;을(를) 선택하고 **[!UICONTROL Run]**&#x200B;을(를) 클릭합니다.
+1. **[!UICONTROL Run Now]**&#x200B;으로 선택하고 **[!UICONTROL Run]**&#x200B;를 클릭합니다.
 
    ![](assets/add-person-to-blocklist-13.png)
 

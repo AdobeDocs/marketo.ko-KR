@@ -1,17 +1,17 @@
 ---
 unique-page-id: 1147062
 description: Smart Campaign에서 차단된 사용자 보기 - Marketo 문서 - 제품 설명서
-title: Smart Campaign에서 차단된 사용자 보기
+title: 스마트 캠페인에서 차단된 사용자 보기
 exl-id: 7adf00fe-4893-42ea-8077-b7a1bed1866f
 feature: Smart Campaigns
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '118'
-ht-degree: 0%
+ht-degree: 11%
 
 ---
 
-# Smart Campaign에서 차단된 사용자 보기 {#view-blocked-people-in-a-smart-campaign}
+# 스마트 캠페인에서 차단된 사용자 보기 {#view-blocked-people-in-a-smart-campaign}
 
 Marketo Engage 데이터베이스에서 차단된 사람은 차단 목록에 추가된, 구독 취소, 마케팅 중단 등으로 표시되거나 이메일이 잘못되었거나 비어 있습니다.
 

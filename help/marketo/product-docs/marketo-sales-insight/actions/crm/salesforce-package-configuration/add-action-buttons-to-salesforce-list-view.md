@@ -1,15 +1,15 @@
 ---
 description: Salesforce 목록 보기 - Marketo 문서 - 제품 설명서에 작업 단추 추가
-title: Salesforce 목록 보기에 작업 단추 추가
+title: Salesforce 목록 보기에 작업 버튼 추가
 exl-id: 6265437c-341d-485c-8c84-b9cb5c7298fc
-source-git-commit: c16081143588ebc0793f5b6e2630b58348e27124
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '290'
-ht-degree: 1%
+ht-degree: 6%
 
 ---
 
-# Salesforce 목록 보기에 작업 단추 추가 {#add-action-buttons-to-salesforce-list-view}
+# Salesforce 목록 보기에 작업 버튼 추가 {#add-action-buttons-to-salesforce-list-view}
 
 >[!NOTE]
 >
@@ -36,7 +36,7 @@ ht-degree: 1%
 1. **저장**&#x200B;을 클릭합니다.
 1. 리드 또는 연락처에 대해서만 이 작업을 수행한 경우 이 단계를 반복하여 다른 객체에 대해 이 작업을 완료합니다.
 
-## Salesforce Classic에서 {#salesforce-classic}
+## Salesforce 클래식 {#salesforce-classic}
 
 1. [Salesforce.com](https://salesforce.com){target="_blank"}(으)로 이동합니다.
 1. **설치**&#x200B;를 클릭합니다.
@@ -49,5 +49,5 @@ ht-degree: 1%
 >[!MORELIKETHIS]
 >
 >* [Salesforce에서 판매 전자 메일 일괄 보내기 사용](/help/marketo/product-docs/marketo-sales-insight/actions/crm/actions-in-salesforce/using-bulk-send-sales-email-in-salesforce.md){target="_blank"}
->* [Salesforce에서 Sales Campaign에 일괄 추가 사용](/help/marketo/product-docs/marketo-sales-insight/actions/crm/actions-in-salesforce/using-bulk-add-to-sales-campaign-in-salesforce.md){target="_blank"}
+>* [Salesforce에서 판매 캠페인에 일괄 추가 사용](/help/marketo/product-docs/marketo-sales-insight/actions/crm/actions-in-salesforce/using-bulk-add-to-sales-campaign-in-salesforce.md){target="_blank"}
 >* [Salesforce AppExchange에 Marketo Sales Insight 패키지 설치](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/installation/install-marketo-sales-insight-package-in-salesforce-appexchange.md){target="_blank"}

@@ -2,26 +2,26 @@
 description: 릴리스 노트 - 2023년 5월 - Marketo 문서 - 제품 설명서
 title: 릴리스 정보 - 2023년 5월
 exl-id: beefd8ad-b0d2-4a6f-9f2e-74f03fc3abe7
-source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '345'
-ht-degree: 4%
+ht-degree: 26%
 
 ---
 
 # 릴리스 노트: 2023년 5월 {#release-notes-may-23}
 
-아래에는 2023년 5월 릴리스에 포함된 모든 기능이 있습니다. Adobe Marketo Engage 버전에서 사용 가능한 기능이 있는지 확인하십시오.
+아래에는 2023년 5월 릴리스에 포함된 모든 기능이 있습니다. 기능 가용성에 대해 Adobe Marketo Engage 에디션을 확인하십시오.
 
 >[!AVAILABILITY]
 >
->별(![별](assets/yellow-star.png))로 표시되는 기능은 유료 추가 기능입니다. 자세한 내용은 Marketo Engage 담당자에게 문의하십시오.
+>별표(![별표](assets/yellow-star.png))로 표시된 기능은 유료 추가 기능입니다. 자세한 내용은 Marketo Engage 담당자에게 문의하십시오.
 
 ## 표준 릴리스 주기 기능 {#standard-release-cycle-features}
 
-다음 기능은 표준 릴리스 주기에 해당하며 **2023년 5월 12일**&#x200B;에 릴리스되기 시작합니다. 이후 몇 주에 걸쳐 나머지 기능의 단계적인 롤아웃이 시작됩니다. 릴리스 기능 및 날짜는 변경될 수 있습니다. 각 기능의 상태를 아래에서 확인하십시오.
+다음 기능은 표준 릴리스 주기에 포함되며, **2023년 5월 12일 토요일**&#x200B;부터 출시되기 시작하고 나머지 기능은 이후 몇 주에 걸쳐 단계적으로 출시될 예정입니다. 릴리스 기능 및 날짜는 변경될 수 있습니다. 각 기능의 상태를 아래에서 확인하십시오.
 
-### Marketo Engage 모던 UX {#modern-ux}
+### Marketo Engage 최신 UX {#modern-ux}
 
 </br>
 
@@ -33,7 +33,7 @@ ht-degree: 4%
    <td><b>설명서 업데이트</b></td>
   </tr>
   <tr>
-   <td>배송됨</td>
+   <td>출시됨</td>
    <td><a href="/help/marketo/product-docs/adobe-experience-cloud-integrations/experience-cloud-interface-overview.md">Experience Cloud 인터페이스 개요</a></td>
   </tr>
   </tbody>
@@ -47,7 +47,7 @@ ht-degree: 4%
    <td><b>설명서 업데이트</b></td>
   </tr>
   <tr>
-   <td>배송됨</td>
+   <td>출시됨</td>
    <td><a href="/help/marketo/getting-started/things-to-know/help-center.md">도움말 센터</a></td>
   </tr>
   </tbody>
@@ -74,7 +74,7 @@ ht-degree: 4%
   </tr>
   <tr>
    <td>롤아웃 시작됨</td>
-   <td><a href="https://experienceleague.adobe.com/docs/marketo/using/product-docs/demand-generation/events/interactive-webinars/interactive-webinars-overview.html?lang=ko">대화형 웨비나 개요</a></td>
+   <td><a href="https://experienceleague.adobe.com/docs/marketo/using/product-docs/demand-generation/events/interactive-webinars/interactive-webinars-overview.html">대화형 웨비나 개요</a></td>
   </tr>
   </tbody>
 </table>

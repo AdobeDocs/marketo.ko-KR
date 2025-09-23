@@ -1,16 +1,16 @@
 ---
 description: 이메일 보트 활동 필터링 - Marketo 문서 - 제품 설명서
-title: 이메일 보트 활동 필터링
+title: 이메일 봇 활동 필터링
 exl-id: 70c97159-72bf-46e5-b29b-247615d0fa80
 feature: Email Setup
-source-git-commit: 21bcdc10fe1f3517612efe0f8e2adaf2f4411a70
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '456'
-ht-degree: 0%
+ht-degree: 2%
 
 ---
 
-# 이메일 보트 활동 필터링 {#filtering-email-bot-activity}
+# 이메일 봇 활동 필터링 {#filtering-email-bot-activity}
 
 경우에 따라 이메일 봇 활동이 이메일 열기 및 클릭 데이터를 잘못 부풀릴 수 있습니다. 이 문제를 해결하려면 아래 단계를 따르십시오.
 
@@ -31,11 +31,11 @@ ht-degree: 0%
 
 ## 필터 유형 선택 {#select-filter-type}
 
-1. **[!UICONTROL Admin]**&#x200B;을(를) 클릭합니다.
+1. **[!UICONTROL Admin]**&#x200B;를 클릭합니다.
 
    ![](assets/filtering-email-bot-activity-1.png)
 
-1. **[!UICONTROL Email]**&#x200B;을(를) 클릭합니다.
+1. **[!UICONTROL Email]**&#x200B;를 클릭합니다.
 
    ![](assets/filtering-email-bot-activity-2.png)
 

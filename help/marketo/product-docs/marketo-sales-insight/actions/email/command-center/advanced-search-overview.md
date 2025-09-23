@@ -3,10 +3,10 @@ description: 고급 검색 개요 - Marketo 문서 - 제품 설명서
 title: 고급 검색 개요
 exl-id: a7cf5078-1d24-4fc0-a82d-02f46f93893d
 feature: Sales Insight Actions
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '380'
-ht-degree: 2%
+ht-degree: 4%
 
 ---
 
@@ -20,7 +20,7 @@ ht-degree: 2%
 
    ![](assets/advanced-search-overview-1.png)
 
-1. **[!UICONTROL Emails]**&#x200B;을(를) 클릭합니다.
+1. **[!UICONTROL Emails]**&#x200B;를 클릭합니다.
 
    ![](assets/advanced-search-overview-2.png)
 
@@ -28,7 +28,7 @@ ht-degree: 2%
 
    ![](assets/advanced-search-overview-3.png)
 
-1. [!UICONTROL Advanced Search]을(를) 클릭합니다.
+1. [!UICONTROL Advanced Search]를 클릭합니다.
 
    ![](assets/advanced-search-overview-4.png)
 
@@ -83,13 +83,13 @@ ht-degree: 2%
 
 ![](assets/advanced-search-overview-9.png)
 
-_&#x200B;**상태: 보냄**&#x200B;_
+_**상태: 보냄**_
 
 ![](assets/advanced-search-overview-10.png)
 
 보낸 이메일 활동별 필터. [!UICONTROL views]/[!UICONTROL no views], [!UICONTROL clicks]/[!UICONTROL no clicks] 및/또는 [!UICONTROL replies]/[!UICONTROL no replies]를 선택할 수 있습니다.
 
-_&#x200B;**상태: 보류 중**&#x200B;_
+_**상태: 보류 중**_
 
 ![](assets/advanced-search-overview-11.png)
 
@@ -114,7 +114,7 @@ _&#x200B;**상태: 보류 중**&#x200B;_
  </tr>
 </table>
 
-_&#x200B;**상태: 배달되지 않음**&#x200B;_
+_**상태: 배달되지 않음**_
 
 ![](assets/advanced-search-overview-12.png)
 

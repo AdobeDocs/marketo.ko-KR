@@ -4,10 +4,10 @@ description: Marketo 사용자 정의 필드의 유형 변경 - Marketo 문서 -
 title: Marketo 사용자 정의 필드 유형 변경
 exl-id: b9b3dfc5-cb5f-4233-9fe6-f8fdf111d48c
 feature: Field Management
-source-git-commit: 02b2e39580c5eac63de4b4b7fdaf2a835fdd4ba5
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
-source-wordcount: '102'
-ht-degree: 0%
+source-wordcount: '94'
+ht-degree: 22%
 
 ---
 
@@ -15,11 +15,11 @@ ht-degree: 0%
 
 다음은 사용자 정의 필드의 필드 유형을 변경하는 방법입니다.
 
-1. **[!UICONTROL 관리자]** 영역으로 이동합니다.
+1. **[!UICONTROL Admin]** 영역으로 이동합니다.
 
    ![](assets/change-the-type-of-a-marketo-custom-field-1.png)
 
-1. **[!UICONTROL 필드 관리]**&#x200B;를 클릭합니다.
+1. **[!UICONTROL Field Management]**&#x200B;를 클릭합니다.
 
    ![](assets/change-the-type-of-a-marketo-custom-field-2.png)
 
@@ -27,7 +27,7 @@ ht-degree: 0%
 
    ![](assets/change-the-type-of-a-marketo-custom-field-3.png)
 
-1. **[!UICONTROL 필드 작업]** 드롭다운에서 **[!UICONTROL 유형 변경]**&#x200B;을 클릭합니다.
+1. **[!UICONTROL Field Actions]** 드롭다운에서 **[!UICONTROL Change Type]**&#x200B;을(를) 클릭합니다.
 
    ![](assets/change-the-type-of-a-marketo-custom-field-4.png)
 
@@ -39,7 +39,7 @@ ht-degree: 0%
 
    ![](assets/change-the-type-of-a-marketo-custom-field-5.png)
 
-1. 경고를 읽은 다음 **[!UICONTROL 변경]**&#x200B;을 클릭하여 확인합니다.
+1. 경고를 읽은 다음 **[!UICONTROL Change]**&#x200B;을(를) 클릭하여 확인합니다.
 
    ![](assets/change-the-type-of-a-marketo-custom-field-6.png)
 

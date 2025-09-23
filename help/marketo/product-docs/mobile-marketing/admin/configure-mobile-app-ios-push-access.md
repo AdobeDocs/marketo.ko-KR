@@ -4,16 +4,16 @@ description: 모바일 앱 iOS 푸시 액세스 구성 - Marketo 문서 - 제품
 title: 모바일 앱 iOS 푸시 액세스 구성
 exl-id: d8c54232-3df2-4e25-ab25-3e72aaf49252
 feature: Mobile Marketing
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '129'
-ht-degree: 1%
+ht-degree: 10%
 
 ---
 
 # 모바일 앱 iOS 푸시 액세스 구성 {#configure-mobile-app-ios-push-access}
 
-1. **[!UICONTROL Admin]**&#x200B;을(를) 클릭합니다.
+1. **[!UICONTROL Admin]**&#x200B;를 클릭합니다.
 
    ![](assets/image2015-4-22-16-3a12-3a32.png)
 

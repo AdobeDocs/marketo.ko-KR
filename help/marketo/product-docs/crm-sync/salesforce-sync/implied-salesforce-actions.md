@@ -1,17 +1,17 @@
 ---
 unique-page-id: 4719304
 description: 포함된 Salesforce 작업 - Marketo 문서 - 제품 설명서
-title: 암시된 Salesforce 작업
+title: 암시적 Salesforce 작업
 exl-id: 88533588-77f2-465e-9644-a4f95b87f99d
 feature: Salesforce Integration
-source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '136'
-ht-degree: 0%
+ht-degree: 27%
 
 ---
 
-# 암시된 Salesforce 작업 {#implied-salesforce-actions}
+# 암시적 Salesforce 작업 {#implied-salesforce-actions}
 
 [!DNL Salesforce]별 흐름 단계가 실행되면 경우에 따라 추가 단계가 자동으로 수행됩니다. 다음은 규칙이므로 다음을 알고 있습니다.
 
@@ -30,7 +30,7 @@ ht-degree: 0%
    <td>SFDC에 사용자 동기화</td>
   </tr>
   <tr>
-   <td>SFDC Campaign에서 상태 변경</td>
+   <td>SFDC 캠페인 상태 변경</td>
    <td>사용자를 SFDC에 동기화<br>SFDC 캠페인에 추가</td>
   </tr>
   <tr>

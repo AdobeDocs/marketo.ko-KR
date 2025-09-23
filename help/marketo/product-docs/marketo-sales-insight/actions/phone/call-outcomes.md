@@ -1,16 +1,16 @@
 ---
 description: 호출 결과 - Marketo 문서 - 제품 설명서
-title: 호출 결과
+title: 통화 결과
 exl-id: 0166c6fa-70d3-45ea-9138-f2d2c4c28b41
 feature: Sales Insight Actions
-source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '180'
-ht-degree: 0%
+ht-degree: 2%
 
 ---
 
-# 호출 결과 {#call-outcomes}
+# 통화 결과 {#call-outcomes}
 
 영업 팀이 고객 참여 노력의 영향을 이해할 수 있도록 전화 문의 시 통화 결과를 선택할 수 있도록 합니다.
 

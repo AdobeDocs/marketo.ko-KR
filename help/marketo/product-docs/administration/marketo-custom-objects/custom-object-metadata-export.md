@@ -1,16 +1,16 @@
 ---
 description: 사용자 지정 개체 메타데이터 내보내기 - Marketo 문서 - 제품 설명서
-title: 사용자 지정 개체 메타데이터 내보내기
+title: 사용자 정의 오브젝트 메타데이터 내보내기
 exl-id: 4c23f07e-3491-43c5-8ea8-2e54c9a4b9af
 feature: Custom Objects
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '100'
-ht-degree: 1%
+ht-degree: 18%
 
 ---
 
-# 사용자 지정 개체 메타데이터 내보내기 {#custom-object-metadata-export}
+# 사용자 정의 오브젝트 메타데이터 내보내기 {#custom-object-metadata-export}
 
 SOAP API 또는 [!DNL Munchkin] API를 사용하는 경우 사용자 지정 개체 메타데이터 스키마를 내보낼 수 있습니다. 여기 그것을 얻는 방법이 있습니다.
 
@@ -22,7 +22,7 @@ SOAP API 또는 [!DNL Munchkin] API를 사용하는 경우 사용자 지정 개�
 
    ![](assets/custom-object-metadata-export-1.png)
 
-1. **[!UICONTROL Marketo Custom Objects]**&#x200B;을(를) 클릭합니다.
+1. **[!UICONTROL Marketo Custom Objects]**&#x200B;를 클릭합니다.
 
    ![](assets/custom-object-metadata-export-2.png)
 
@@ -30,7 +30,7 @@ SOAP API 또는 [!DNL Munchkin] API를 사용하는 경우 사용자 지정 개�
 
    ![](assets/custom-object-metadata-export-3.png)
 
-1. **[!UICONTROL Custom Object Actions]** 드롭다운을 클릭하고 **[!UICONTROL Export Object]**&#x200B;을(를) 선택합니다.
+1. **[!UICONTROL Custom Object Actions]** 드롭다운을 클릭하고 **[!UICONTROL Export Object]**&#x200B;를 선택합니다.
 
    ![](assets/custom-object-metadata-export-4.png)
 

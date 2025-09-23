@@ -4,10 +4,10 @@ description: 단계 이름 변경 - Marketo 문서 - 제품 설명서
 title: 단계 이름 변경
 exl-id: 03e2a648-8524-4d10-ba6c-f422d9da5a40
 feature: Reporting, Revenue Cycle Analytics
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '69'
-ht-degree: 2%
+ht-degree: 26%
 
 ---
 
@@ -19,7 +19,7 @@ ht-degree: 2%
 
    ![](assets/image2015-4-27-23-3a18-3a34.png)
 
-1. 갱신할 수익 주기 모델러를 선택합니다. **[!UICONTROL Edit Draft]**&#x200B;을(를) 클릭합니다.
+1. 갱신할 수익 주기 모델러를 선택합니다. **[!UICONTROL Edit Draft]**&#x200B;를 클릭합니다.
 
    ![](assets/image2015-4-27-17-3a36-3a33.png)
 
@@ -27,7 +27,7 @@ ht-degree: 2%
 
    ![](assets/image2015-4-27-17-3a40-3a46.png)
 
-1. **[!UICONTROL Close]**&#x200B;을(를) 클릭합니다.
+1. **[!UICONTROL Close]**&#x200B;를 클릭합니다.
 
    ![](assets/image2015-4-27-17-3a41-3a51.png)
 

@@ -1,17 +1,17 @@
 ---
 unique-page-id: 14352489
 description: 활동 기록 - Marketo 문서 - 제품 설명서에 로그인하지 않음
-title: 활동 기록에 로그인하지 않음
+title: 활동 기록에 기록되지 않음
 exl-id: 4870cd09-86d4-4dff-919c-0584bbc844d2
 feature: Marketo Sales Connect
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '84'
-ht-degree: 0%
+ht-degree: 11%
 
 ---
 
-# 활동 기록에 로그인하지 않음 {#didnt-log-to-activity-history}
+# 활동 기록에 기록되지 않음 {#didnt-log-to-activity-history}
 
 [!DNL Salesforce]에 대한 통화 기록이 표시되지 않는 이유는 [!DNL Salesforce]에서 잠재 고객/연락처를 찾을 수 없기 때문일 수 있습니다.
 

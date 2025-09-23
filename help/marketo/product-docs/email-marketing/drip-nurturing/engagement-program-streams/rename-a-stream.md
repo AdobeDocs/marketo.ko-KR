@@ -1,17 +1,17 @@
 ---
 unique-page-id: 2359832
 description: 스트림 이름 바꾸기 - Marketo 문서 - 제품 설명서
-title: 스트림 이름 바꾸기
+title: 스트림 이름 변경
 exl-id: 38e8af11-78a7-4c52-b0d4-301f97d50999
 feature: Engagement Programs
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '57'
-ht-degree: 0%
+ht-degree: 10%
 
 ---
 
-# 스트림 이름 바꾸기 {#rename-a-stream}
+# 스트림 이름 변경 {#rename-a-stream}
 
 구성을 유지하려면 스트림의 이름을 바꿀 수 있습니다. 방법은 다음과 같습니다.
 

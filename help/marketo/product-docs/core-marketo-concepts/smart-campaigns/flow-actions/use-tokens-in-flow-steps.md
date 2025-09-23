@@ -1,17 +1,17 @@
 ---
 unique-page-id: 1146995
 description: 흐름 단계 - Marketo 문서 - 제품 설명서에서 토큰 사용
-title: 흐름 단계에서 토큰 사용
+title: 플로우 단계에서 토큰 사용
 exl-id: 9b4c3d57-5906-4d7c-8215-4ba2271be3f8
 feature: Smart Campaigns
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '193'
-ht-degree: 2%
+ht-degree: 10%
 
 ---
 
-# 흐름 단계에서 토큰 사용 {#use-tokens-in-flow-steps}
+# 플로우 단계에서 토큰 사용 {#use-tokens-in-flow-steps}
 
 >[!PREREQUISITES]
 >

@@ -3,26 +3,26 @@ description: 릴리스 노트 - 2024년 4월 - Marketo 설명서 - 제품 설명
 title: 릴리스 정보 - 2024년 4월
 feature: Release Information
 exl-id: d87474f8-fc47-407b-bc97-e343b56c1f8f
-source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '447'
-ht-degree: 3%
+ht-degree: 26%
 
 ---
 
 # 릴리스 노트: 2024년 4월 {#release-notes-apr-24}
 
-아래에는 2024년 4월 릴리스에 포함된 모든 기능이 있습니다. Adobe Marketo Engage 버전에서 사용 가능한 기능이 있는지 확인하십시오.
+아래에는 2024년 4월 릴리스에 포함된 모든 기능이 있습니다. 기능 가용성에 대해 Adobe Marketo Engage 에디션을 확인하십시오.
 
-Adobe Dynamic Chat [에 대한 릴리스 정보는 여기에서 찾을 수 있습니다](/help/marketo/release-notes/dynamic-chat.md){target="_blank"}.
+Adobe Dynamic Chat에 대한 릴리스 정보는 [여기에서 확인](/help/marketo/release-notes/dynamic-chat.md){target="_blank"}할 수 있습니다.
 
 >[!AVAILABILITY]
 >
->별(![별](assets/yellow-star.png))로 표시되는 기능은 유료 추가 기능입니다. 자세한 내용은 Marketo Engage 담당자에게 문의하십시오.
+>별표(![별표](assets/yellow-star.png))로 표시된 기능은 유료 추가 기능입니다. 자세한 내용은 Marketo Engage 담당자에게 문의하십시오.
 
 ## 표준 릴리스 주기 기능 {#standard-release-cycle-features}
 
-다음 기능은 표준 릴리스 주기에 해당하며 **2024년 4월 26일**&#x200B;에 릴리스되기 시작합니다. 이후 몇 주 동안 나머지 기능은 단계적으로 롤아웃됩니다. 릴리스 기능 및 날짜는 변경될 수 있습니다. 각 기능 옆에 있는 상태를 확인하십시오.
+다음 기능은 표준 릴리스 주기에 포함되며, **2024년 4월 26일 토요일**&#x200B;부터 출시되기 시작하고 나머지 기능은 이후 몇 주에 걸쳐 단계적으로 출시될 예정입니다. 릴리스 기능 및 날짜는 변경될 수 있습니다. 각 기능 옆에서 상태를 확인합니다.
 
 <table style="table-layout:auto">
  <tbody>
@@ -33,7 +33,7 @@ Adobe Dynamic Chat [에 대한 릴리스 정보는 여기에서 찾을 수 있�
   </tr>
      <tr>
    <td><strong>대화형 웨비나 개선 사항</strong>: 이제 이벤트 게재 후 호스트 및 발표자에게 웨비나 제목을 추가하고, 회의실 이름을 바꾸고, 참여 데이터를 수동으로 동기화할 수 있는 기능을 제공할 수 있습니다.</td>
-   <td>배송됨</td>
+   <td>출시됨</td>
    <td><li><a href="/help/marketo/product-docs/demand-generation/events/interactive-webinars/create-an-interactive-webinar.md">대화형 웨비나 만들기</a></li>
    <li><a href="/help/marketo/product-docs/demand-generation/events/interactive-webinars/event-workflows.md#manual-sync">수동 동기화</a></li></td>
   </tr>
@@ -46,7 +46,7 @@ Adobe Dynamic Chat [에 대한 릴리스 정보는 여기에서 찾을 수 있�
    <td><strong>감사 추적 개선 사항</strong>:
    이제 필드 관리에서 변경한 사항, 사용자 및 역할에 대한 변경 사항, 목록 및 스마트 목록에서 내보낸 사람 수에 대한 새로운 유형의 작업을 감사 추적에서 캡처할 수 있습니다.</td>
    <td><i>곧 출시 예정</i></td>
-   <td><i>곧 출시 예정</i></td>
+   <td><i>곧 제공 예정</i></td>
   </tr>
   <tr>
    <td> </td>
@@ -66,7 +66,7 @@ Adobe Dynamic Chat [에 대한 릴리스 정보는 여기에서 찾을 수 있�
    <li>목록 만들기</li>
    <li>캠페인 활동 내보내기</li>
    </td>
-   <td>배송됨</td>
+   <td>출시됨</td>
    <td><a href="/help/marketo/product-docs/administration/users-and-roles/descriptions-of-role-permissions.md">역할 권한 설명</a></td>
   </tr>
  </tbody>

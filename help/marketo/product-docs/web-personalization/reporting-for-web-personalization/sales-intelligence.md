@@ -1,17 +1,17 @@
 ---
 unique-page-id: 10096420
 description: Sales Intelligence - Marketo 문서 - 제품 설명서
-title: Sales Intelligence
+title: 세일즈 인텔리전스
 exl-id: 118da902-8c02-413b-8959-2e970d3dd9a4
 feature: Web Personalization
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '193'
-ht-degree: 0%
+ht-degree: 2%
 
 ---
 
-# Sales Intelligence {#sales-intelligence}
+# 세일즈 인텔리전스 {#sales-intelligence}
 
 Marketo Web Personalization은 웹 사이트를 방문하는 익명 및 알려진 웹 방문자 및 조직에 대한 중요한 정보를 제공합니다. 영업 경영진은 이를 사용하여 특정 지역에 따라 주요 조직 및 계정에 대한 경고를 추적, 모니터링 및 수신할 수 있습니다.
 

@@ -1,16 +1,16 @@
 ---
 description: 로컬 상태 - Marketo 문서 - 제품 설명서
-title: 로컬 유무
+title: 현지 전화
 exl-id: 719fd3e8-1586-4aa1-940f-931dd3b99bd4
 feature: Sales Insight Actions
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '141'
-ht-degree: 0%
+ht-degree: 3%
 
 ---
 
-# 로컬 유무 {#local-presence}
+# 현지 전화 {#local-presence}
 
 로컬 상태 는 수신자의 동일한 지역 코드에서 호출하는 것처럼 보이는 옵션을 제공합니다.
 

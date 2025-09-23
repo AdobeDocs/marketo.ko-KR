@@ -1,17 +1,17 @@
 ---
 unique-page-id: 1900597
 description: 목록을 가져와서 대상자 정의 - Marketo 문서 - 제품 설명서
-title: 목록을 가져와서 대상자 정의
+title: 목록 가져오기를 통해 대상자 정의
 exl-id: 9a63f4a5-1d76-4671-9622-19eb368d196f
 feature: Email Programs
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '363'
-ht-degree: 0%
+ht-degree: 15%
 
 ---
 
-# 목록을 가져와서 대상자 정의 {#define-an-audience-by-importing-a-list}
+# 목록 가져오기를 통해 대상자 정의 {#define-an-audience-by-importing-a-list}
 
 >[!PREREQUISITES]
 >
@@ -23,7 +23,7 @@ ht-degree: 0%
 >
 >대상자 정의는 이메일 프로그램이 승인되지 않은 경우에만 작동합니다.
 >
->가져오는 모든 날짜/시간 필드는 중앙 시간으로 처리됩니다. 다른 시간대에 날짜/시간 필드가 있는 경우 Excel 공식을 사용하여 중부 표준시(아메리카/시카고)로 변환할 수 있습니다.
+>가져오는 모든 날짜/시간 필드는 중부 표준시로 처리됩니다. 다른 시간대의 날짜/시간 필드가 있는 경우 Excel 수식을 사용하여 중부 표준시(아메리카/시카고)로 변환할 수 있습니다.
 
 1. **[!UICONTROL Marketing Activities]**(으)로 이동합니다.
 
@@ -63,10 +63,10 @@ ht-degree: 0%
 >
 >차단된 번호를 아시나요? 이 숫자는 적격 직원의 하위 집합이며, 다음과 같은 이유로 이 이메일을 보낼 수 없는 직원을 나타냅니다.
 >
->* 주소 삭제
+>* 구독 취소
 >* 마케팅 중단
->* 차단 목록에 추가된
->* 이메일 잘못됨
+>* 차단 목록에 추가됨
+>* 잘못된 이메일
 >* 빈 이메일
 >
 >메일링이 차단된 사람들의 자세한 목록을 보려면 번호를 클릭하십시오.

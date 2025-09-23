@@ -1,12 +1,12 @@
 ---
 description: Salesforce - Marketo 문서 - 제품 설명서와 구독 취소 동기화
-title: Salesforce과 구독 취소 동기화
+title: Salesforce와 구독 취소 동기화
 exl-id: b5b0f625-e38c-4a03-81e7-010082001636
 feature: Sales Insight Actions
-source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '458'
-ht-degree: 1%
+ht-degree: 2%
 
 ---
 
@@ -91,7 +91,7 @@ Salesforce의 옵트아웃 필드로 구독 취소를 동기화하려면 Salesfo
 
    ![](assets/syncing-unsubscribes-with-salesforce-11.png)
 
-1. **[!UICONTROL Save]**&#x200B;을(를) 클릭합니다.
+1. **[!UICONTROL Save]**&#x200B;를 클릭합니다.
 
    ![](assets/syncing-unsubscribes-with-salesforce-12.png)
 

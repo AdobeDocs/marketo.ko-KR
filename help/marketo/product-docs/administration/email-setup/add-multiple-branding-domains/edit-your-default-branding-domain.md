@@ -4,10 +4,10 @@ description: 기본 브랜딩 도메인 편집 - Marketo 문서 - 제품 설명�
 title: 기본 브랜딩 도메인 편집
 exl-id: 961d4195-2c4c-4b33-81f0-dd11ec3fb500
 feature: Email Setup
-source-git-commit: dafac137a6c626794f3b9b2bfaa2fc2de9f2cb75
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '124'
-ht-degree: 0%
+ht-degree: 12%
 
 ---
 
@@ -23,7 +23,7 @@ ht-degree: 0%
 
    ![](assets/edit-your-default-branding-domain-1.png)
 
-1. **[!UICONTROL Email]**&#x200B;을(를) 클릭합니다.
+1. **[!UICONTROL Email]**&#x200B;를 클릭합니다.
 
    ![](assets/edit-your-default-branding-domain-2.png)
 

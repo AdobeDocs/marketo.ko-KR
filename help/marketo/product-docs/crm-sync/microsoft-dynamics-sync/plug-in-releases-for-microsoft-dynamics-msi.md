@@ -4,7 +4,7 @@ description: ' [!DNL Microsoft Dynamics] MSI용 플러그인 릴리스 - Marketo
 title: ' [!DNL Microsoft Dynamics] MSI용 플러그인 릴리스'
 exl-id: 830f7dc3-07fd-429b-b0fd-290ffdda88e6
 feature: Microsoft Dynamics
-source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '394'
 ht-degree: 1%
@@ -31,7 +31,7 @@ Marketo의 기본 CRM 동기화 솔루션을 [!DNL Dynamics]에 사용하는 경
 >
 >예: [!DNL Dynamics] CRM의 버전이 2.0.0.20이고 최신 버전이 2.0.0.21인 경우 _over_ 버전 2.0.0.20을(를) 가져옵니다.
 
-1. **[!UICONTROL Next]**&#x200B;을(를) 클릭합니다.
+1. **[!UICONTROL Next]**&#x200B;를 클릭합니다.
 
    ![](assets/plug-in-releases-for-microsoft-dynamics-msi-2.png)
 
@@ -39,7 +39,7 @@ Marketo의 기본 CRM 동기화 솔루션을 [!DNL Dynamics]에 사용하는 경
 
    ![](assets/plug-in-releases-for-microsoft-dynamics-msi-3.png)
 
-1. **[!UICONTROL Next]**&#x200B;을(를) 클릭합니다.
+1. **[!UICONTROL Next]**&#x200B;를 클릭합니다.
 
    ![](assets/plug-in-releases-for-microsoft-dynamics-msi-4.png)
 
@@ -54,7 +54,7 @@ Marketo의 기본 CRM 동기화 솔루션을 [!DNL Dynamics]에 사용하는 경
 <table>
  <tbody>
   <tr>
-   <th>릴리스 날짜</th>
+   <th>릴리스 일자</th>
    <th>버전</th>
    <th>참고</th>
   </tr>

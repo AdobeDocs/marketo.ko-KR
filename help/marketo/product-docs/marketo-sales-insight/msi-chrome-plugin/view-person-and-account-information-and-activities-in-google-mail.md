@@ -1,17 +1,17 @@
 ---
 unique-page-id: 10095358
 description: Google Mail - Marketo 문서 - 제품 설명서에서 개인 및 계정 정보 및 활동 보기
-title: Google Mail에서 개인 및 계정 정보 및 활동 보기
+title: Google Mail에서 사용자 및 계정 정보 및 활동 보기
 exl-id: 06bfd7ce-d60a-42de-a349-0a4b4ef72db5
 feature: Marketo Sales Insights
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '291'
-ht-degree: 0%
+ht-degree: 6%
 
 ---
 
-# Google Mail에서 개인 및 계정 정보 및 활동 보기 {#view-person-and-account-information-and-activities-in-google-mail}
+# Google Mail에서 사용자 및 계정 정보 및 활동 보기 {#view-person-and-account-information-and-activities-in-google-mail}
 
 ## Google Mail에서 활동 보기 {#view-activities-in-google-mail}
 

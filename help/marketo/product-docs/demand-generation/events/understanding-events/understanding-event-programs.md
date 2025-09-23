@@ -4,10 +4,10 @@ description: 이벤트 프로그램 이해 - Marketo 문서 - 제품 설명서
 title: 이벤트 프로그램 이해
 exl-id: 7d62accd-ab2f-46f7-998e-9145c4c11cbc
 feature: Events
-source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '97'
-ht-degree: 3%
+ht-degree: 9%
 
 ---
 

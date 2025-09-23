@@ -1,17 +1,17 @@
 ---
 unique-page-id: 14352434
 description: 영업 전화 국제 전화 - Marketo 문서 - 제품 설명서
-title: 판매 전화 국제 전화
+title: 세일즈 전화 국제 통화
 exl-id: 5a5956fe-67f3-41dd-bbbe-b0cea1ded6f0
 feature: Marketo Sales Connect
-source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '399'
-ht-degree: 5%
+ht-degree: 7%
 
 ---
 
-# 판매 전화 국제 전화 {#sales-phone-international-calling}
+# 세일즈 전화 국제 통화 {#sales-phone-international-calling}
 
 Sales Phone을 사용하면 쉽게 국제적으로 통신할 수 있습니다. 미국 내에서 전화를 거는 고객의 경우 국제 국가로의 아웃바운드 통화에 판매 전화를 사용할 수 있습니다. 미국 이외의 고객에게는 국제 국가의 전화를 지원합니다.
 

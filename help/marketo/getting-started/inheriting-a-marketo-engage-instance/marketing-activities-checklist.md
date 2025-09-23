@@ -3,14 +3,14 @@ description: 상속된 인스턴스 마케팅 활동 체크리스트 - Marketo �
 title: 상속된 인스턴스 마케팅 활동 검사 목록
 feature: Getting Started
 exl-id: 653e8081-25cd-411c-a6b4-bba269e0dac3
-source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '809'
-ht-degree: 1%
+ht-degree: 2%
 
 ---
 
-# 상속된 인스턴스: 마케팅 활동 검사 목록 {#inherited-instance-marketing-activities-checklist}
+# 상속된 인스턴스: 마케팅 활동 체크리스트 {#inherited-instance-marketing-activities-checklist}
 
 마케팅 활동 섹션을 적절하게 구성하여 다른 사람이 Marketo Engage 인스턴스 내에서 다양한 프로그램을 찾고 관리할 수 있도록 하고, 사람들이 마케팅에서 영업으로 전달되도록 처리되도록 합니다. [확인 목록을 다운로드](/help/marketo/getting-started/inheriting-a-marketo-engage-instance/assets/adobe-marketo-engage-inherited-instance-admin-checklist.xlsx)하고 진행 상황을 추적하는 것이 좋습니다.
 
@@ -121,7 +121,7 @@ ht-degree: 1%
    <th style="width:70%">리뷰 포커스</th>
   </tr>
   <tr>
-   <td>개인 채점</td>
+   <td>사용자 점수</td>
    <td><li>중앙 집중식 <a href="/help/marketo/getting-started/quick-wins/simple-scoring.md" target="_blank">개인 채점</a> 프로그램이 있습니까?</li>
 <li>점수를 매기면 점수가 증가하고 감소합니까?</li></td>
   </tr>
@@ -157,7 +157,7 @@ ht-degree: 1%
   </tr>
   <tr>
    <td>구독/환경 설정 센터</td>
-   <td><li><a href="https://experienceleague.adobe.com/docs/marketo-learn/tutorials/lead-and-data-management/subscription-center-watch.html?lang=ko" target="_blank">구독/환경 설정 센터</a>를 설정했습니까? 제대로 작동하고 있습니까?</li></td>
+   <td><li><a href="https://experienceleague.adobe.com/docs/marketo-learn/tutorials/lead-and-data-management/subscription-center-watch.html" target="_blank">구독/환경 설정 센터</a>를 설정했습니까? 제대로 작동하고 있습니까?</li></td>
   </tr>
   <tr>
    <td>즐거운 순간(해당되는 경우)</td>

@@ -1,17 +1,17 @@
 ---
 unique-page-id: 10092730
 description: 푸시 알림 미리 보기 - Marketo 문서 - 제품 설명서
-title: 푸시 알림 미리 보기
+title: 푸시 알림 미리보기
 exl-id: 72c5221d-8cef-4d26-b15f-c7c3e291c919
 feature: Mobile Marketing
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '237'
-ht-degree: 0%
+ht-degree: 3%
 
 ---
 
-# 푸시 알림 미리 보기 {#preview-a-push-notification}
+# 푸시 알림 미리보기 {#preview-a-push-notification}
 
 Android 또는 iOS에 대한 푸시 알림의 모양을 쉽게 미리 볼 수 있습니다. 네 가지 방법이 있습니다.
 

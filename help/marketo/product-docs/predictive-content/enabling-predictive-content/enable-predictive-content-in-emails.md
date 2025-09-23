@@ -4,10 +4,10 @@ description: 이메일에서 예측 콘텐츠 활성화 - Marketo 문서 - 제�
 title: 이메일에서 예측 콘텐츠 활성화
 exl-id: 7eaefee1-23e8-47ee-afff-adcf49096aa7
 feature: Predictive Content
-source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '375'
-ht-degree: 0%
+ht-degree: 3%
 
 ---
 
@@ -33,7 +33,7 @@ ht-degree: 0%
 
 ## 이메일 2.0 편집기를 사용하여 예측 콘텐츠 추가 {#adding-predictive-content-using-the-email-editor}
 
-1. **[!UICONTROL Marketing Activities]**&#x200B;을(를) 클릭합니다.
+1. **[!UICONTROL Marketing Activities]**&#x200B;를 클릭합니다.
 
    ![](assets/one.png)
 

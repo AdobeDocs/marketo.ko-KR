@@ -4,10 +4,10 @@ description: 이메일에 달력 이벤트(.ics) 포함 - Marketo 문서 - 제�
 title: 이메일에 캘린더 이벤트(.ics) 포함
 exl-id: 077181ec-73e7-4b58-a473-46b0764d6b32
 feature: Email Editor
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '90'
-ht-degree: 1%
+ht-degree: 18%
 
 ---
 
@@ -27,7 +27,7 @@ ht-degree: 1%
 
    ![](assets/image2014-9-11-16-3a53-3a30.png)
 
-1. **[!UICONTROL Save]**&#x200B;을(를) 클릭합니다.
+1. **[!UICONTROL Save]**&#x200B;를 클릭합니다.
 
    ![](assets/three-5.png)
 

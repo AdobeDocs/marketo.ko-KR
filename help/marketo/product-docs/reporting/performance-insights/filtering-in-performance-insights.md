@@ -1,13 +1,13 @@
 ---
 unique-page-id: 12979012
 description: 성능 인사이트에서 필터링 - Marketo 문서 - 제품 설명서
-title: 성능 인사이트에서 필터링
+title: 성과 인사이트 필터링
 exl-id: c86260b7-fd5c-4d40-a8da-c9e3f09be14d
 feature: Reporting
-source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '307'
-ht-degree: 0%
+ht-degree: 1%
 
 ---
 

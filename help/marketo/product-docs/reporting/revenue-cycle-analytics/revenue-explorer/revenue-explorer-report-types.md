@@ -1,17 +1,17 @@
 ---
 unique-page-id: 7504922
 description: 매출 탐색기 보고서 유형 - Marketo 문서 - 제품 설명서
-title: 수익 탐색기 보고서 유형
+title: Revenue Explorer 보고서 유형
 exl-id: 7c472d6c-9c8f-4387-97a0-690fe7cfd96a
 feature: Reporting, Revenue Cycle Analytics
-source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '146'
-ht-degree: 1%
+ht-degree: 8%
 
 ---
 
-# 수익 탐색기 보고서 유형 {#revenue-explorer-report-types}
+# Revenue Explorer 보고서 유형 {#revenue-explorer-report-types}
 
 다음은 Revenue Cycle Analytics를 활용하는 경우 발생하는 보고서 유형입니다.
 

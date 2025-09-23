@@ -4,10 +4,10 @@ description: 작업 만들기 - Marketo 문서 - 제품 설명서
 title: 작업 만들기
 exl-id: c484d913-1fd8-4716-8caa-0bf318218ca1
 feature: Smart Campaigns, Salesforce Integration
-source-git-commit: 934bb5f197f801e48cf8e7554335eb2d07289037
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
-source-wordcount: '113'
-ht-degree: 0%
+source-wordcount: '109'
+ht-degree: 3%
 
 ---
 
@@ -19,7 +19,7 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->Marketo 동기화 사용자가 작업을 만들 때 **[!UICONTROL 기한]**&#x200B;은(는) Salesforce에서 작업을 만드는 데 필요한 필드입니다. Marketo은 값이 없는 경우 기본적으로 5일을 입력합니다.
+>Marketo 동기화 사용자가 작업을 만들 때 **[!UICONTROL Due In]**&#x200B;은(는) Salesforce에서 작업을 만드는 데 필요한 필드입니다. Marketo은 값이 없는 경우 기본적으로 5일을 입력합니다.
 
 기본적으로 흐름 단계는 다음과 같이 표시됩니다.
 
@@ -31,4 +31,4 @@ ht-degree: 0%
 
 >[!TIP]
 >
->**[!UICONTROL 제목]** 및 **[!UICONTROL 설명]**&#x200B;에서 `{{lead.tokens}}`, `{{company.tokens}}`, `{{campaign.tokens}}` 및 `{{system.tokens}}`을(를) 사용할 수 있습니다. 자세한 내용은 [흐름 단계의 토큰](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/use-tokens-in-flow-steps.md){target="_blank"}을 참조하세요.
+>`{{lead.tokens}}` 및 `{{company.tokens}}`에서 `{{campaign.tokens}}`, `{{system.tokens}}`, **[!UICONTROL Subject]** 및 **[!UICONTROL Description]**&#x200B;을(를) 사용할 수 있습니다. 자세한 내용은 [흐름 단계의 토큰](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/use-tokens-in-flow-steps.md){target="_blank"}을 참조하세요.

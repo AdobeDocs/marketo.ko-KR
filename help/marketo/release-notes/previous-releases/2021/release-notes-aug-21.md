@@ -2,7 +2,7 @@
 description: 릴리스 노트 - 2021년 8월 - Marketo 문서 - 제품 설명서
 title: 릴리스 정보 - 2021년 8월
 exl-id: 4aec4e0b-520e-4786-a110-8e68f1bf9950
-source-git-commit: 21bcdc10fe1f3517612efe0f8e2adaf2f4411a70
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '903'
 ht-degree: 0%
@@ -75,7 +75,7 @@ ht-degree: 0%
 
 * **[!DNL Bizible]Adobe Privacy Service과의 통합**(2021년 9월 사용 가능): [!DNL Bizible]의 Adobe Privacy Service 통합은 Adobe Experience Cloud 애플리케이션 전반에서 중요한 데이터 개인 정보 보호 규정(예: GDPR) 준수를 중앙 집중화합니다. 이제 이 서비스를 활용하고 모든 개인 정보 요청을 중앙에서 관리하여 [!DNL Bizible] 및 다른 Adobe 제품에 포함된 변경 요청이 여러 애플리케이션에 반영되도록 할 수 있습니다.
 
-* **[!DNL Bizible] (Adobe 통합 쉘)**: [!DNL Bizible]의 Adobe 통합 쉘 채택 기능은 [!DNL Bizible] 응용 프로그램 헤더 표시줄에 나타날 새로운 기능을 사용자에게 제공하며 리소스 및 응용 프로그램 전환을 지원하는 더 나은 액세스 권한을 포함합니다. Adobe 통합 셸을 사용하면 [!DNL Bizible]과(와) 다른 Adobe Experience Cloud 응용 프로그램 간에 일관된 환경을 만들 수 있습니다.
+* **[!DNL Bizible](Adobe 통합 쉘)**: [!DNL Bizible]의 Adobe 통합 쉘 채택 기능은 [!DNL Bizible] 응용 프로그램 헤더 표시줄에 나타날 새로운 기능을 사용자에게 제공하며 리소스 및 응용 프로그램 전환을 지원하는 더 나은 액세스 권한을 포함합니다. Adobe 통합 셸을 사용하면 [!DNL Bizible]과(와) 다른 Adobe Experience Cloud 응용 프로그램 간에 일관된 환경을 만들 수 있습니다.
 
 * **[!DNL Bizible]도메인 소유권 및 자체 관리**: [!DNL Bizible] 사용자는 Adobe Admin Console을 활용하여 [!DNL Bizible]에서 추적할 도메인을 관리할 수 있습니다. 따라서 이전의 수동 프로세스에 셀프 서비스를 제공하고 Adobe Experience Cloud 애플리케이션 전반에서 도메인 소유권 및 추적을 관리하는 방법에 대한 일관된 경험을 제공합니다.
 

@@ -4,10 +4,10 @@ description: 플로우에서 제거 - Marketo 문서 - 제품 설명서
 title: 플로우에서 제거
 exl-id: 98b3664a-dd40-4859-a74d-0a9e84113225
 feature: Smart Campaigns
-source-git-commit: 12f2399859c784095cc2c1df772c66c649106ba3
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
-source-wordcount: '142'
-ht-degree: 0%
+source-wordcount: '141'
+ht-degree: 4%
 
 ---
 
@@ -27,7 +27,7 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->특정 스마트 캠페인을 선택하거나 **[!UICONTROL Campaign]** 드롭다운에서 &quot;이 캠페인&quot;을 선택하여 현재 실제로 있는 캠페인을 선택할 수 있습니다.
+>특정 스마트 캠페인을 선택하거나 **[!UICONTROL Campaign]** 드롭다운에서 &quot;이 캠페인&quot;을 선택하여 실제로 현재 진행 중인 캠페인을 선택할 수 있습니다.
 
 >[!NOTE]
 >

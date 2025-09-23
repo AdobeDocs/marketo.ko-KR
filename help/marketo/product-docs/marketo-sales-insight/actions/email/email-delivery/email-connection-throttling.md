@@ -3,10 +3,10 @@ description: 이메일 연결 제한 - Marketo 문서 - 제품 설명서
 title: 이메일 연결 제한
 exl-id: 02450a1e-5b30-4057-b204-19fab1a7d6c9
 feature: Sales Insight Actions
-source-git-commit: b4e5d17aa882a89b01f77f875312b0d71aa754f3
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '394'
-ht-degree: 0%
+ht-degree: 2%
 
 ---
 
@@ -49,7 +49,7 @@ ht-degree: 0%
 
    ![](assets/email-connection-throttling-5.png)
 
-1. **[!UICONTROL Save]**&#x200B;을(를) 클릭합니다.
+1. **[!UICONTROL Save]**&#x200B;를 클릭합니다.
 
    ![](assets/email-connection-throttling-6.png)
 

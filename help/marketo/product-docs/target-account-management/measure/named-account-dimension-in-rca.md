@@ -1,23 +1,23 @@
 ---
 unique-page-id: 11380789
 description: RCA의 지정 계정 Dimension - Marketo 문서 - 제품 설명서
-title: RCA의 명명된 계정 Dimension
+title: RCA의 지정 계정 차원
 exl-id: 0c5d9fb9-94e3-4ad0-b024-26542c2d2fd3
 feature: Target Account Management
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '149'
-ht-degree: 0%
+ht-degree: 8%
 
 ---
 
-# RCA의 명명된 계정 Dimension {#named-account-dimension-in-rca}
+# RCA의 지정 계정 차원 {#named-account-dimension-in-rca}
 
 수익 주기 분석에서 TAM별 지정 계정 차원을 사용하여 수익 기반 보고서를 작성합니다.
 
 >[!NOTE]
 >
->**Dimension** - 측정값을 다르게 볼 수 있는 특성(노란색 점으로 표시됨)입니다.
+>**차원** - 측정값을 다르게 볼 수 있는 특성(노란색 점으로 표시됨)입니다.
 
 ![](assets/one-2.png)
 

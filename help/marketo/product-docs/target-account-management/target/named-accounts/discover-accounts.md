@@ -4,10 +4,10 @@ description: 계정 살펴보기 - Marketo 문서 - 제품 설명서
 title: 계정 검색
 exl-id: 90da4ae0-0a12-48bd-8bae-a7431d2cf4f4
 feature: Target Account Management
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '491'
-ht-degree: 0%
+ht-degree: 1%
 
 ---
 
@@ -37,7 +37,7 @@ CRM에서 잠재적인 대상 계정을 식별합니다.
 
    ![](assets/disc-crm-two.png)
 
-1. 미리보기 화면에서 선택 양을 확인합니다. **[!UICONTROL Create]**&#x200B;을(를) 클릭합니다.
+1. 미리보기 화면에서 선택 양을 확인합니다. **[!UICONTROL Create]**&#x200B;를 클릭합니다.
 
    ![](assets/disc-three.png)
 
@@ -97,7 +97,7 @@ CRM에서 잠재적인 대상 계정을 식별합니다.
 
    ![](assets/disc-comp-six.png)
 
-1. **[!UICONTROL Create]**&#x200B;을(를) 클릭합니다.
+1. **[!UICONTROL Create]**&#x200B;를 클릭합니다.
 
    ![](assets/disc-comp-seven.png)
 

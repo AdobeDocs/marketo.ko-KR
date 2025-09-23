@@ -1,17 +1,17 @@
 ---
 unique-page-id: 11381156
 description: 계정 일치 - Marketo 문서 - 제품 설명서로 연결하십시오.
-title: 리드-계정 일치
+title: 계정 일치로 이어짐
 exl-id: 676ae500-7691-492d-abec-0cac708216b7
 feature: Target Account Management
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '451'
-ht-degree: 0%
+ht-degree: 2%
 
 ---
 
-# 리드-계정 일치 {#lead-to-account-matching}
+# 계정 일치로 이어짐 {#lead-to-account-matching}
 
 Marketo 리드-계정 일치를 사용하여 오른쪽 리드를 올바른 명명된 계정에 대응합니다.
 

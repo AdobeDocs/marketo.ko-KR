@@ -1,17 +1,17 @@
 ---
 unique-page-id: 2359930
 description: 스트림 콘텐츠 보관 및 보관 해제 - Marketo 문서 - 제품 설명서
-title: 스트림 콘텐츠 보관 및 보관 해제
+title: 스트림 콘텐츠 보관 및 보관 취소
 exl-id: 45a7fec2-a98d-4a3f-8033-543cc88c499f
 feature: Engagement Programs
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '145'
-ht-degree: 1%
+ht-degree: 8%
 
 ---
 
-# 스트림 콘텐츠 보관 및 보관 해제 {#archive-and-unarchive-stream-content}
+# 스트림 콘텐츠 보관 및 보관 취소 {#archive-and-unarchive-stream-content}
 
 스트림의 콘텐츠를 더 이상 사용하지 않으려면 [제거하거나](/help/marketo/product-docs/email-marketing/drip-nurturing/using-stream-content/remove-stream-content.md)보관할 수 있습니다. 다음은 콘텐츠를 보관하는 방법입니다.
 

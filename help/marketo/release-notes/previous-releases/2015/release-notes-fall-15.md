@@ -4,10 +4,10 @@ description: 릴리스 노트 - 2015년 가을 - Marketo 문서 - 제품 설명�
 title: 릴리스 노트 - 2015년 가을
 exl-id: b8a43086-a4d8-432d-89ac-14c75c6f0609
 feature: Release Information
-source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '966'
-ht-degree: 0%
+ht-degree: 1%
 
 ---
 
@@ -29,9 +29,9 @@ ht-degree: 0%
 
 ![](assets/image2015-10-1-17-3a11-3a50.png)
 
-## Marketo 사용자 지정 개체 {#marketo-custom-objects}
+## Marketo 사용자 정의 오브젝트 {#marketo-custom-objects}
 
-[Marketo 사용자 지정 개체](/help/marketo/product-docs/administration/marketo-custom-objects/understanding-marketo-custom-objects.md)
+[Marketo 사용자 정의 오브젝트](/help/marketo/product-docs/administration/marketo-custom-objects/understanding-marketo-custom-objects.md)
 
 관리 UI에서 사용자 지정 개체를 쉽게 만들 수 있습니다. 현재 Marketo에서 1:N 사용자 지정 개체를 만들고 이를 리드 또는 회사에 연결하는 기능을 지원합니다.
 

@@ -3,7 +3,7 @@ unique-page-id: 17728380
 description: 릴리스 노트 - 2019년 봄 - Marketo 문서 - 제품 설명서
 title: 릴리스 노트 - 2019년 봄
 exl-id: eb7a9ac4-5c3d-4d98-9b06-e3f11147bc6d
-source-git-commit: ecd225af3ecfd7cb9159faf5a9d384d47ee6312c
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '454'
 ht-degree: 0%
@@ -47,7 +47,7 @@ Account-Based Marketing
 
 ## Marketo Sales Engage {#marketo-sales-engage}
 
-* **향상된 감사**: 다른 사용자가 만든 [기존 캠페인을 종료](/help/marketo/product-docs/marketo-sales-connect/campaigns/view-campaigns-list-as-another-user.md)할 수 있는 기능이 추가된 인스턴스에서 모든 사람, 전자 메일 및 [콘텐츠](/help/marketo/product-docs/marketo-sales-connect/templates/view-template-list-as-another-user.md)에 대한 새로운 가시성
+* **향상된 감사**: 다른 사용자가 만든 [기존 캠페인을 종료](/help/marketo/product-docs/marketo-sales-connect/templates/view-template-list-as-another-user.md)할 수 있는 기능이 추가된 인스턴스에서 모든 사람, 전자 메일 및 [콘텐츠](/help/marketo/product-docs/marketo-sales-connect/campaigns/view-campaigns-list-as-another-user.md)에 대한 새로운 가시성
 * **[관리 구독 취소](/help/marketo/product-docs/marketo-sales-connect/email/unsubscribes/marketo-unsubscribe-check.md)**: [전자 메일 도메인 차단](/help/marketo/product-docs/marketo-sales-connect/admin/blocked-domains.md) 기능에 따라 게재 능력을 최대화하고 규정을 준수합니다. Marketo은 이메일을 보내기 전에 가입 해지용 리드 데이터베이스를 상호 참조합니다.
 
 ## Marketo의 [!DNL Bizible] {#bizible-by-marketo}

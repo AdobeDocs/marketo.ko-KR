@@ -4,7 +4,7 @@ description: 3단계/3단계 - Marketo(2011 온-프레미스)와  [!DNL Microsof
 title: 3단계/3단계 - Marketo(2011 온-프레미스)와  [!DNL Microsoft Dynamics] 연결
 exl-id: e6a5d49d-025a-4899-9e92-7a4c32086c67
 feature: Microsoft Dynamics
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '344'
 ht-degree: 0%
@@ -34,7 +34,7 @@ ht-degree: 0%
 
    ![](assets/image2014-12-11-11-3a53-3a59.png)
 
-1. **[!UICONTROL Microsoft]**&#x200B;을(를) 클릭합니다.
+1. **[!UICONTROL Microsoft]**&#x200B;를 클릭합니다.
 
    ![](assets/image2014-12-11-11-3a54-3a10.png)
 
@@ -83,7 +83,7 @@ ht-degree: 0%
 
    ![](assets/image2015-10-9-9-3a52-3a23.png)
 
-1. 필드로 스크롤하여 확인합니다. 실제 이름은 new_synctomkto여야 하지만 표시 이름은 무엇이든 될 수 있습니다. **[!UICONTROL Save]**&#x200B;을(를) 클릭합니다.
+1. 필드로 스크롤하여 확인합니다. 실제 이름은 new_synctomkto여야 하지만 표시 이름은 무엇이든 될 수 있습니다. **[!UICONTROL Save]**&#x200B;를 클릭합니다.
 
    ![](assets/image2016-8-25-14-3a14-3a57.png)
 

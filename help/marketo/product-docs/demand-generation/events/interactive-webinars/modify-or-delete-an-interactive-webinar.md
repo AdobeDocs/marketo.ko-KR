@@ -3,10 +3,10 @@ description: 대화형 웨비나 수정 또는 삭제 - Marketo 문서 - 제품 
 title: 대화형 웨비나 수정 또는 삭제
 exl-id: 01dd801f-809b-481f-b926-2ed48bfbd5b7
 feature: Interactive Webinars
-source-git-commit: d2f8a90cf780fc5db6a4f148a53968a53df835a4
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '314'
-ht-degree: 0%
+ht-degree: 4%
 
 ---
 
@@ -74,7 +74,7 @@ ht-degree: 0%
 
    >[!NOTE]
    >
-   >현재 복제된 대화형 웨비나는 대화형 웨비나로만 저장할 수 있습니다. 복제된 웨비나를 파트너 웨비나(예: Zoom, ON24 등)로 저장 곧 출시될 예정입니다.
+   >현재 복제된 대화형 웨비나는 대화형 웨비나로만 저장할 수 있습니다. 복제된 웨비나를 파트너 웨비나(예: Zoom, ON24 등)로 저장할 수 있습니다.
 
 1. 복제된 웨비나에 대한 설정을 선택하고 **복제**&#x200B;를 클릭합니다.
 

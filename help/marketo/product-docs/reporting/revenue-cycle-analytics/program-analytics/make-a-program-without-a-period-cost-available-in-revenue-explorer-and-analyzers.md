@@ -1,17 +1,17 @@
 ---
 unique-page-id: 2360389
 description: 기간 비용이 없는 프로그램을 수익 탐색기 및 분석기 - Marketo 문서 - 제품 설명서에서 사용할 수 있습니다.
-title: 수익 탐색기 및 분석기에서 기간 비용 없이 프로그램 사용 가능
+title: Revenue Explorer 및 Analyzers에서 기간 비용이 없는 프로그램 만들기
 exl-id: 45a24b9f-d92f-4f48-a7d1-0be14cd128b1
 feature: Reporting, Revenue Cycle Analytics
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '245'
-ht-degree: 0%
+ht-degree: 10%
 
 ---
 
-# 수익 탐색기 및 분석기에서 기간 비용 없이 프로그램 사용 가능 {#make-a-program-without-a-period-cost-available-in-revenue-explorer-and-analyzers}
+# Revenue Explorer 및 Analyzers에서 기간 비용이 없는 프로그램 만들기 {#make-a-program-without-a-period-cost-available-in-revenue-explorer-and-analyzers}
 
 프로그램 기간 원가를 사용하면 프로그램에 대해 &quot;얼마나 많은 금액&quot;과 &quot;언제&quot;를 정의할 수 있습니다. 수입 주기 탐색기 및 [분석기](/help/marketo/product-docs/reporting/revenue-cycle-analytics/opportunity-influence-analyzer/tell-the-marketing-story-with-an-opportunity-influence-analyzer.md)에 표시됩니다.
 

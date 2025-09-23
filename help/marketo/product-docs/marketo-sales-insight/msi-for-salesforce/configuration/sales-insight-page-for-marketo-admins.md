@@ -1,13 +1,13 @@
 ---
 unique-page-id: 42762409
 description: Marketo 관리자를 위한 판매 Insight 페이지 - Marketo 문서 - 제품 설명서
-title: Marketo 관리자를 위한 Insight 판매 페이지
+title: Marketo 관리자용 Sales Insight 페이지
 exl-id: d98bc9d8-1a72-405f-b1d7-b71ad88c8493
 feature: Marketo Sales Insights
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '364'
-ht-degree: 0%
+ht-degree: 1%
 
 ---
 

@@ -1,17 +1,17 @@
 ---
 unique-page-id: 2949154
 description: 웹 캠페인에 레이블 지정 - Marketo 문서 - 제품 설명서
-title: 웹 캠페인에 레이블 지정
+title: 웹 캠페인 레이블 지정
 exl-id: 891772c8-dc4d-46a4-b254-4baf0a74f9de
 feature: Web Personalization
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '151'
-ht-degree: 0%
+ht-degree: 5%
 
 ---
 
-# 웹 캠페인에 레이블 지정 {#label-your-web-campaigns}
+# 웹 캠페인 레이블 지정 {#label-your-web-campaigns}
 
 캠페인이 너무 많아 스크롤하는 것이 번거로워지나요? 레이블을 사용하여 캠페인을 분류하고 빠르게 찾을 수 있도록 태그를 지정합니다.
 

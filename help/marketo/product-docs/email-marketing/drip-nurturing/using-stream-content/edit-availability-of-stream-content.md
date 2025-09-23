@@ -1,17 +1,17 @@
 ---
 unique-page-id: 2359910
 description: 스트림 콘텐츠의 가용성 편집 - Marketo 문서 - 제품 설명서
-title: 스트림 콘텐츠 가용성 편집
+title: 스트림 콘텐츠의 가용성 편집
 exl-id: 72d9848c-607c-4cdb-bcd4-a5d41d820c54
 feature: Engagement Programs
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '101'
-ht-degree: 0%
+ht-degree: 11%
 
 ---
 
-# 스트림 콘텐츠 가용성 편집 {#edit-availability-of-stream-content}
+# 스트림 콘텐츠의 가용성 편집 {#edit-availability-of-stream-content}
 
 스트림에서 콘텐츠가 활성화되도록 기간을 설정할 수 있습니다. 방법은 다음과 같습니다.
 

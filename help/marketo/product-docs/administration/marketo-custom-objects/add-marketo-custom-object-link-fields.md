@@ -1,17 +1,17 @@
 ---
 unique-page-id: 10097613
 description: Marketo 사용자 지정 개체 링크 필드 추가 - Marketo 문서 - 제품 설명서
-title: Marketo 사용자 지정 개체 링크 필드 추가
+title: Marketo 사용자 정의 오브젝트 링크 필드 추가
 exl-id: e7537d79-9fca-4966-881a-9d7d312008e2
 feature: Custom Objects
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '652'
-ht-degree: 0%
+ht-degree: 3%
 
 ---
 
-# Marketo 사용자 지정 개체 링크 필드 추가 {#add-marketo-custom-object-link-fields}
+# Marketo 사용자 정의 오브젝트 링크 필드 추가 {#add-marketo-custom-object-link-fields}
 
 사용자 지정 개체를 만들 때 사용자 지정 개체 레코드를 올바른 부모 레코드에 연결하기 위한 링크 필드를 제공해야 합니다.
 
@@ -30,7 +30,7 @@ ht-degree: 0%
 
    ![](assets/add-marketo-custom-object-link-fields-1.png)
 
-1. **[!UICONTROL Marketo Custom Objects]**&#x200B;을(를) 클릭합니다.
+1. **[!UICONTROL Marketo Custom Objects]**&#x200B;를 클릭합니다.
 
    ![](assets/add-marketo-custom-object-link-fields-2.png)
 
@@ -68,7 +68,7 @@ ht-degree: 0%
    >
    >[!UICONTROL Link Field]에서는 문자열 필드 형식만 지원됩니다.
 
-1. **[!UICONTROL Save]**&#x200B;을(를) 클릭합니다.
+1. **[!UICONTROL Save]**&#x200B;를 클릭합니다.
 
    ![](assets/add-marketo-custom-object-link-fields-8.png)
 
@@ -84,7 +84,7 @@ ht-degree: 0%
 
    ![](assets/add-marketo-custom-object-link-fields-9.png)
 
-1. **[!UICONTROL Marketo Custom Objects]**&#x200B;을(를) 클릭합니다.
+1. **[!UICONTROL Marketo Custom Objects]**&#x200B;를 클릭합니다.
 
    ![](assets/add-marketo-custom-object-link-fields-10.png)
 
@@ -116,7 +116,7 @@ ht-degree: 0%
    >
    >[!UICONTROL Link Field]에서는 문자열 필드 형식만 지원됩니다.
 
-1. **[!UICONTROL Save]**&#x200B;을(를) 클릭합니다.
+1. **[!UICONTROL Save]**&#x200B;를 클릭합니다.
 
    ![](assets/add-marketo-custom-object-link-fields-16.png)
 

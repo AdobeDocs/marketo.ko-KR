@@ -4,10 +4,10 @@ description: 필드에 데이터 추가 - Marketo 문서 - 제품 설명서
 title: 필드에 데이터 추가
 exl-id: 62d68efd-b2df-48bd-925e-f9a95907f33c
 feature: Smart Campaigns
-source-git-commit: 7dd2e21969b71a50bfd4643ab15459150ca07c92
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
-source-wordcount: '109'
-ht-degree: 0%
+source-wordcount: '105'
+ht-degree: 13%
 
 ---
 
@@ -23,7 +23,7 @@ ht-degree: 0%
 >
 >아래 단계는 [프로그램 구성원 데이터 변경](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/program-flow-actions/change-program-member-data.md){target="_blank"}에도 적용됩니다.
 
-1. **[!UICONTROL 흐름]** 탭에서 **[!UICONTROL 데이터 값 변경]** 흐름 단계를 드래그합니다.
+1. **[!UICONTROL Flow]** 탭에서 **[!UICONTROL Change Data Value]** 흐름 단계를 드래그합니다.
 
    ![](assets/append-data-to-a-field-1.png)
 
@@ -39,4 +39,4 @@ ht-degree: 0%
 
    ![](assets/append-data-to-a-field-4.png)
 
-다 됐습니다! 크리에이티브를 얻고 여러 토큰을 추가할 수 있습니다.
+됐습니다. 크리에이티브를 얻고 여러 토큰을 추가할 수 있습니다.

@@ -1,17 +1,17 @@
 ---
 unique-page-id: 4719348
 description: 세그먼트에 레이블 지정 - Marketo 문서 - 제품 설명서
-title: 세그먼트에 레이블 지정
+title: 세그먼트 레이블 지정
 exl-id: 5278f52b-a352-4d85-904c-48f94972d4e7
 feature: Web Personalization
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '116'
-ht-degree: 0%
+ht-degree: 5%
 
 ---
 
-# 세그먼트에 레이블 지정 {#label-your-segment}
+# 세그먼트 레이블 지정 {#label-your-segment}
 
 세그먼트가 너무 많아 스크롤하는 것이 번거로워집니까? 빠르게 찾을 수 있도록 레이블을 사용하여 세그먼트에 태깅합니다.
 

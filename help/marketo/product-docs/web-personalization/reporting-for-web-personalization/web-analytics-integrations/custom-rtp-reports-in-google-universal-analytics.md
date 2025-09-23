@@ -4,10 +4,10 @@ description: Google Universal Analytics의 사용자 정의 RTP 보고서 - Mark
 title: Google Universal Analytics의 사용자 정의 RTP 보고서
 exl-id: c8b1e653-03b8-48bc-b80d-3e6cdf3485c3
 feature: Web Personalization
-source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '362'
-ht-degree: 3%
+ht-degree: 7%
 
 ---
 
@@ -28,7 +28,7 @@ ht-degree: 3%
 
 1. 상단 메뉴에서 **[!UICONTROL Customization]**&#x200B;을(를) 클릭합니다.
 
-1. **[!UICONTROL New Custom Report]**&#x200B;을(를) 클릭합니다.
+1. **[!UICONTROL New Custom Report]**&#x200B;를 클릭합니다.
 
 ![](assets/image2015-3-22-16-3a10-3a48.png)
 
@@ -103,7 +103,7 @@ ht-degree: 3%
 
 1. 필터를 설정하지 말고 이 보고서를 **[!UICONTROL All Web Site Data]**&#x200B;에서 사용할 수 있도록 설정하십시오(또는 특정 Analytics 계정과 관련된 경우 변경하지 마십시오).
 
-1. **[!UICONTROL Save]**&#x200B;을(를) 클릭합니다.
+1. **[!UICONTROL Save]**&#x200B;를 클릭합니다.
 
    ![](assets/image2015-3-22-16-3a21-3a23.png)
 
@@ -223,7 +223,7 @@ ht-degree: 3%
 
    ![](assets/image2015-3-22-16-3a29-3a5.png)
 
-1. **[!UICONTROL Save]**&#x200B;을(를) 클릭합니다.
+1. **[!UICONTROL Save]**&#x200B;를 클릭합니다.
 
 ![](assets/image2015-3-22-16-3a30-3a0.png)
 

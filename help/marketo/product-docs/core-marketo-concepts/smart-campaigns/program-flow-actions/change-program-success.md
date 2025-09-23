@@ -1,17 +1,17 @@
 ---
 unique-page-id: 1147009
 description: 프로그램 변경 성공 - Marketo 문서 - 제품 설명서
-title: 프로그램 변경 성공
+title: 프로그램 성공 변경
 exl-id: 5b45b6d0-0c3d-4677-8b9a-8bbf03b1209e
 feature: Smart Campaigns
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '129'
-ht-degree: 0%
+ht-degree: 4%
 
 ---
 
-# 프로그램 변경 성공 {#change-program-success}
+# 프로그램 성공 변경 {#change-program-success}
 
 프로그램 성공으로 잘못 표시된 사용자 그룹이 있는 경우 이 흐름 단계를 사용하여 성공을 true 또는 false로 설정할 수 있습니다.
 

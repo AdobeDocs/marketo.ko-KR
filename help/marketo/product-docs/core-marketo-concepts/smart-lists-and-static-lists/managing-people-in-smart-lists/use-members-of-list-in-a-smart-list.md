@@ -1,17 +1,17 @@
 ---
 unique-page-id: 2953173
 description: 스마트 목록의 목록 멤버 사용 - Marketo 문서 - 제품 설명서
-title: 스마트 목록에서 목록 멤버 사용
+title: 스마트 목록에서 목록의 멤버 사용
 exl-id: ebd458c1-01f4-4d19-b5b2-d19ab2bad1af
 feature: Smart Lists
-source-git-commit: 208ba59e3a5cb8e613e887b4c89e51cec4b3f897
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
-source-wordcount: '137'
-ht-degree: 0%
+source-wordcount: '132'
+ht-degree: 13%
 
 ---
 
-# 스마트 목록에서 목록 멤버 사용 {#use-members-of-list-in-a-smart-list}
+# 스마트 목록에서 목록의 멤버 사용 {#use-members-of-list-in-a-smart-list}
 
 >[!TIP]
 >
@@ -19,11 +19,11 @@ ht-degree: 0%
 
 이 필터를 사용하면 스마트 목록 규칙에서 참조하여 다른 목록에서 멤버를 가져올 수 있습니다. 방법은 다음과 같습니다.
 
-1. 스마트 목록을 선택하고 **[!UICONTROL 스마트 목록]** 탭을 클릭합니다.
+1. 스마트 목록을 선택하고 **[!UICONTROL Smart List]** 탭을 클릭합니다.
 
    ![](assets/smartlist-sltab.png)
 
-1. 오른쪽 필터 패널에서 **[!UICONTROL 목록의 구성원]** 필터를 검색하여 캔버스로 드래그합니다.
+1. 오른쪽 필터 패널에서 **[!UICONTROL Member of List]** 필터를 검색하여 캔버스로 드래그합니다.
 
    ![](assets/use-members-of-list-in-a-smart-list-2nd.png)
 

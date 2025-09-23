@@ -3,10 +3,10 @@ description: 1단계/4단계 - 리소스 소유자 암호 제어 연결이 있�
 title: 1/4단계 - 리소스 소유자 암호 제어 연결을 사용하여 Marketo 솔루션 설치
 exl-id: aab3bbb8-4e52-4c40-94d1-631af1d63f9f
 feature: Microsoft Dynamics
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '282'
-ht-degree: 2%
+ht-degree: 3%
 
 ---
 
@@ -39,11 +39,11 @@ ht-degree: 2%
 
    ![](assets/image2015-5-13-10-3a4-3a1.png)
 
-1. **[!UICONTROL Import]**&#x200B;을(를) 클릭합니다.
+1. **[!UICONTROL Import]**&#x200B;를 클릭합니다.
 
    ![](assets/image2015-3-19-8-3a34-3a8.png)
 
-1. **[!UICONTROL Choose File]**&#x200B;을(를) 클릭합니다. [다운로드한](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/download-the-marketo-lead-management-solution.md)Marketo 리드 관리 솔루션을 선택합니다. **[!UICONTROL Next]**&#x200B;을(를) 클릭합니다.
+1. **[!UICONTROL Choose File]**&#x200B;을(를) 클릭합니다. [다운로드한](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/download-the-marketo-lead-management-solution.md)Marketo 리드 관리 솔루션을 선택합니다. **[!UICONTROL Next]**&#x200B;를 클릭합니다.
 
    ![](assets/image2015-10-9-14-3a44-3a14.png)
 
@@ -59,7 +59,7 @@ ht-degree: 2%
 
    ![](assets/image2015-10-9-14-3a59-3a24.png)
 
-1. SDK 옵션 확인란이 선택되어 있는지 확인합니다. **[!UICONTROL Import]**&#x200B;을(를) 클릭합니다.
+1. SDK 옵션 확인란이 선택되어 있는지 확인합니다. **[!UICONTROL Import]**&#x200B;를 클릭합니다.
 
    ![](assets/image2015-10-9-15-3a7-3a12.png)
 
@@ -71,7 +71,7 @@ ht-degree: 2%
 
    ![](assets/image2015-3-11-11-3a34-3a9.png)
 
-1. **[!UICONTROL Close]**&#x200B;을(를) 클릭합니다.
+1. **[!UICONTROL Close]**&#x200B;를 클릭합니다.
 
    >[!NOTE]
    >
@@ -83,7 +83,7 @@ ht-degree: 2%
 
    ![](assets/image2015-3-19-8-3a40-3a38.png)
 
-1. **[!UICONTROL Marketo Lead Management]**&#x200B;을(를) 선택하고 **[!UICONTROL Publish All Customizations]**&#x200B;을(를) 클릭합니다.
+1. **[!UICONTROL Marketo Lead Management]**&#x200B;으로 선택하고 **[!UICONTROL Publish All Customizations]**&#x200B;를 클릭합니다.
 
    ![](assets/image2015-3-19-8-3a41-3a21.png)
 

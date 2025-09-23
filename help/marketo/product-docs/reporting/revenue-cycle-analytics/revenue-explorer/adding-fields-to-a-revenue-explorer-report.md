@@ -1,17 +1,17 @@
 ---
 unique-page-id: 7504383
 description: 매출 탐색기 보고서에 필드 추가 - Marketo 문서 - 제품 설명서
-title: 매출 탐색기 보고서에 필드 추가
+title: Revenue Explorer 보고서에 필드 추가
 exl-id: af4d7885-68ca-4ecf-b0fa-a5cf72bea168
 feature: Reporting, Revenue Cycle Analytics
-source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '163'
-ht-degree: 0%
+ht-degree: 9%
 
 ---
 
-# 매출 탐색기 보고서에 필드 추가 {#adding-fields-to-a-revenue-explorer-report}
+# Revenue Explorer 보고서에 필드 추가 {#adding-fields-to-a-revenue-explorer-report}
 
 차원 및 지표 필드를 캔버스로 드래그 앤 드롭하여 매출 탐색기 보고서를 사용자 지정합니다.
 

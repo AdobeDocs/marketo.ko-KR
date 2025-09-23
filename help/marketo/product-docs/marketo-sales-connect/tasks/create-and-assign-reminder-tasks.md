@@ -1,24 +1,24 @@
 ---
 description: 미리 알림 작업 만들기 및 할당 - Marketo 문서 - 제품 설명서
-title: 미리 알림 작업 만들기 및 할당
+title: 알림 작업 생성 및 할당
 exl-id: bc486795-7ce2-4336-834d-ecfd5efc348e
 feature: Marketo Sales Connect
-source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '134'
-ht-degree: 1%
+ht-degree: 8%
 
 ---
 
-# 미리 알림 작업 만들기 및 할당 {#create-and-assign-reminder-tasks}
+# 알림 작업 생성 및 할당 {#create-and-assign-reminder-tasks}
 
 미리 알림 작업은 고객 및 잠재 고객 참여를 최대한 이끌어낼 수 있는 좋은 방법입니다. 작업을 만들려면 다음 단계를 수행합니다.
 
-1. **[!UICONTROL Command Center]**&#x200B;을(를) 클릭합니다.
+1. **[!UICONTROL Command Center]**&#x200B;를 클릭합니다.
 
    ![](assets/create-and-assign-reminder-tasks-1.png)
 
-1. 기본적으로 작업이 열립니다. **[!UICONTROL Add Task]**&#x200B;을(를) 클릭합니다.
+1. 기본적으로 작업이 열립니다. **[!UICONTROL Add Task]**&#x200B;를 클릭합니다.
 
    ![](assets/create-and-assign-reminder-tasks-2.png)
 

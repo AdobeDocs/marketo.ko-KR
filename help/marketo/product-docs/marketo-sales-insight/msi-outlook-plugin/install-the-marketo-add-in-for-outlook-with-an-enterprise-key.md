@@ -4,7 +4,7 @@ description: 엔터프라이즈 키 - Marketo 문서 - 제품 설명서와 함�
 title: Enterprise 키로  [!DNL Outlook] 용 Marketo 추가 기능 설치
 exl-id: a44780d6-a360-4536-8913-31429cc32f65
 feature: Marketo Sales Insights
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '261'
 ht-degree: 0%
@@ -35,7 +35,7 @@ ht-degree: 0%
 
    ![](assets/image2016-7-25-14-3a23-3a57.png)
 
-1. **[!UICONTROL View Enterprise Key]**&#x200B;을(를) 클릭합니다.
+1. **[!UICONTROL View Enterprise Key]**&#x200B;를 클릭합니다.
 
    ![](assets/image2016-7-25-14-3a35-3a38.png)
 

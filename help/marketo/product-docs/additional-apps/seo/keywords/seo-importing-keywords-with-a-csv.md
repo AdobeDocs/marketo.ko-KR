@@ -4,10 +4,10 @@ description: SEO - CSV로 키워드 가져오기 - Marketo 문서 - 제품 설�
 title: SEO - CSV로 키워드 가져오기
 exl-id: 13957db8-3fbf-4267-a3ab-65a4978d8633
 feature: SEO
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
-source-wordcount: '116'
-ht-degree: 0%
+source-wordcount: '111'
+ht-degree: 13%
 
 ---
 
@@ -15,11 +15,11 @@ ht-degree: 0%
 
 1. 수동으로 [키워드를 추가](/help/marketo/product-docs/additional-apps/seo/keywords/seo-add-keywords.md)하고, [키워드 제안을 받고](/help/marketo/product-docs/additional-apps/seo/keywords/seo-get-suggested-keywords.md)하며, CSV 파일에서 키워드를 가져올 수도 있습니다. 가져오기 방법은 다음과 같습니다.
 
-1. **[!UICONTROL 키워드]** 섹션으로 이동합니다.
+1. **[!UICONTROL Keywords]** 섹션으로 이동합니다.
 
    ![](assets/image2014-9-18-11-3a44-3a25.png)
 
-1. **[!UICONTROL 가져오기]**&#x200B;를 클릭합니다.
+1. **[!UICONTROL Import]**&#x200B;를 클릭합니다.
 
    ![](assets/image2014-9-18-11-3a44-3a36.png)
 
@@ -27,7 +27,7 @@ ht-degree: 0%
 
    ![](assets/image2014-9-18-11-3a44-3a42.png)
 
-1. **[!UICONTROL 파일 선택]**&#x200B;을 클릭합니다.
+1. **[!UICONTROL Choose File]**&#x200B;를 클릭합니다.
 
    ![](assets/image2014-9-18-11-3a44-3a46.png)
 
@@ -35,7 +35,7 @@ ht-degree: 0%
    >
    >가져오기 제한은 구독에 따라 다릅니다. 자세한 내용은 영업 담당자에게 문의하십시오.
 
-1. **[!UICONTROL 가져오기]**&#x200B;를 클릭합니다.
+1. **[!UICONTROL Import]**&#x200B;를 클릭합니다.
 
    ![](assets/image2014-9-18-11-3a45-3a25.png)
 

@@ -1,23 +1,23 @@
 ---
 unique-page-id: 11377406
 description: 작업 공간 - Marketo 문서 - 제품 설명서에서 기본 브랜딩 도메인 편집
-title: 작업 영역에서 기본 브랜딩 도메인 편집
+title: 작업 영역을 사용하여 기본 브랜딩 도메인 편집
 exl-id: f0982793-5b74-41fb-ab6b-08d4084ac9b1
 feature: Email Setup
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '145'
-ht-degree: 1%
+ht-degree: 13%
 
 ---
 
-# 작업 영역에서 기본 브랜딩 도메인 편집 {#edit-your-default-branding-domain-with-workspaces}
+# 작업 영역을 사용하여 기본 브랜딩 도메인 편집 {#edit-your-default-branding-domain-with-workspaces}
 
 1. **[!UICONTROL Admin]** 영역으로 이동합니다.
 
    ![](assets/edit-your-default-branding-domain-with-workspaces-1.png)
 
-1. **[!UICONTROL Email]**&#x200B;을(를) 클릭합니다.
+1. **[!UICONTROL Email]**&#x200B;를 클릭합니다.
 
    ![](assets/edit-your-default-branding-domain-with-workspaces-2.png)
 
@@ -35,7 +35,7 @@ ht-degree: 1%
 
    ![](assets/edit-your-default-branding-domain-with-workspaces-4.png)
 
-1. **[!UICONTROL Save]**&#x200B;을(를) 클릭합니다.
+1. **[!UICONTROL Save]**&#x200B;를 클릭합니다.
 
    ![](assets/edit-your-default-branding-domain-with-workspaces-5.png)
 

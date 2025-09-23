@@ -1,17 +1,17 @@
 ---
 unique-page-id: 1147154
 description: 프로그램과 SFDC 캠페인 동기화 - Marketo 문서 - 제품 설명서
-title: SFDC Campaign을 프로그램과 동기화
+title: SFDC 캠페인을 프로그램과 동기화
 exl-id: b95be580-c960-4a76-9d43-c7f624f43d03
 feature: Programs
-source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '163'
-ht-degree: 1%
+ht-degree: 10%
 
 ---
 
-# SFDC Campaign을 프로그램과 동기화 {#sync-an-sfdc-campaign-with-a-program}
+# SFDC 캠페인을 프로그램과 동기화 {#sync-an-sfdc-campaign-with-a-program}
 
 Marketo Engage을 사용하면 프로그램을 [!DNL Salesforce] 캠페인과 동기화하여 두 시스템의 상태를 포함하여 동일한 사용자 목록을 유지할 수 있습니다. 그럼 시작해 보겠습니다!
 

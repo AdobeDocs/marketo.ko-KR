@@ -1,13 +1,13 @@
 ---
 unique-page-id: 4719179
 description: 웹 Personalization 리치 텍스트 편집기 사용 - Marketo 문서 - 제품 설명서
-title: 웹 Personalization 리치 텍스트 편집기 사용
+title: 웹 개인화 리치 텍스트 편집기 사용
 exl-id: a07d8f2b-0ec6-4799-a430-0a5f7cf5f583
 feature: Web Personalization
-source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '172'
-ht-degree: 0%
+ht-degree: 4%
 
 ---
 

@@ -4,14 +4,14 @@ description: 릴리스 노트 - 2014년 12월 - Marketo 설명서 - 제품 설�
 title: 릴리스 노트 - 2014년 12월
 exl-id: b4dd365d-a2a2-416e-a226-5515203a41f8
 feature: Release Information
-source-git-commit: ecd225af3ecfd7cb9159faf5a9d384d47ee6312c
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '455'
-ht-degree: 0%
+ht-degree: 1%
 
 ---
 
-# 릴리스 노트: 2014년 12월 {#release-notes-december}
+# 릴리스 정보: 2014년 12월 {#release-notes-december}
 
 다음 기능은 2014년 12월 릴리스에 포함되어 있습니다. Marketo 버전에서 사용 가능한 기능이 있는지 확인하십시오. 릴리스 후에 다시 돌아와 각 기능에 대한 자세한 문서에 대한 링크를 찾으십시오.
 
@@ -25,7 +25,7 @@ ht-degree: 0%
 
 ## [!DNL Facebook]개의 사용자 지정 대상 {#facebook-custom-audiences}
 
-Marketo 관리자가 [!UICONTROL Admin] > [!UICONTROL LaunchPoint][&#128279;](/help/marketo/product-docs/demand-generation/ad-network-integrations/add-facebook-custom-audiences-as-a-launchpoint-service.md)을(를) 통해 [!DNL Facebook] 을(를) 추가하면 [사용자 지정 대상을 쉽게 만들거나 업데이트하거나  [!DNL Facebook] Marketo 정적 또는 스마트 목록의 리드로 바꾸기](/help/marketo/product-docs/demand-generation/facebook/create-a-custom-audience-in-facebook.md)할 수 있습니다. 정적 또는 스마트 목록의 잠재 고객 그리드 하단에서 새 [!DNL Facebook] 아이콘을 찾습니다.
+Marketo 관리자가 [[!DNL Facebook]  > [!UICONTROL Admin]을(를) 통해 [!UICONTROL LaunchPoint]](/help/marketo/product-docs/demand-generation/ad-network-integrations/add-facebook-custom-audiences-as-a-launchpoint-service.md)을(를) 추가하면 [사용자 지정 대상을 쉽게 만들거나 업데이트하거나  [!DNL Facebook] Marketo 정적 또는 스마트 목록의 리드로 바꾸기](/help/marketo/product-docs/demand-generation/facebook/create-a-custom-audience-in-facebook.md)할 수 있습니다. 정적 또는 스마트 목록의 잠재 고객 그리드 하단에서 새 [!DNL Facebook] 아이콘을 찾습니다.
 
 ![](assets/image2014-12-5-11-3a6-3a28.png)
 
@@ -65,7 +65,7 @@ UTF-16, Shift-JIS 또는 EUC-JP로 인코딩된 [파일 가져오기](/help/mark
 
 · 잠재 고객 병합
 
-전체 세부 정보는 [https://experienceleague.adobe.com/ko/docs/marketo-developer/marketo/home](https://experienceleague.adobe.com/ko/docs/marketo-developer/marketo/home)에 릴리스된 후에 사용할 수 있습니다.
+전체 세부 정보는 [https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/home](https://experienceleague.adobe.com/ko/docs/marketo-developer/marketo/home)에 릴리스된 후에 사용할 수 있습니다.
 
 ## [!DNL Munchkin Javascript] 호환성 개선 사항 {#munchkin-javascript-compatibility-enhancements}
 

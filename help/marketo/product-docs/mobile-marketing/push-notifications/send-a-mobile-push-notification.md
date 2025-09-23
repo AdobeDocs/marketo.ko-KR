@@ -4,10 +4,10 @@ description: 모바일 푸시 알림 보내기 - Marketo 문서 - 제품 설명�
 title: 모바일 푸시 알림 보내기
 exl-id: b462857e-c63d-419d-9e28-aafc778e217e
 feature: Mobile Marketing
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '89'
-ht-degree: 3%
+ht-degree: 19%
 
 ---
 
@@ -32,7 +32,7 @@ ht-degree: 3%
 
    ![](assets/image2015-4-22-18-3a33-3a13.png)
 
-1. 푸시 알림을 선택합니다. **[!UICONTROL Schedule]**&#x200B;을(를) 클릭합니다.
+1. 푸시 알림을 선택합니다. **[!UICONTROL Schedule]**&#x200B;를 클릭합니다.
 
    ![](assets/image2015-4-22-18-3a33-3a38.png)
 
@@ -40,11 +40,11 @@ ht-degree: 3%
    >
    >푸시 알림은 드롭다운에 표시되기 전에 승인되어야 합니다.
 
-1. **[!UICONTROL Run Once]**&#x200B;을(를) 클릭합니다.
+1. **[!UICONTROL Run Once]**&#x200B;를 클릭합니다.
 
    ![](assets/image2015-4-23-18-3a0-3a54.png)
 
-1. 날짜 및 시간을 선택합니다. **[!UICONTROL Save]**&#x200B;을(를) 클릭합니다.
+1. 날짜 및 시간을 선택합니다. **[!UICONTROL Save]**&#x200B;를 클릭합니다.
 
    ![](assets/image2015-4-23-18-3a1-3a33.png)
 

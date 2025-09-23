@@ -3,10 +3,10 @@ description: 팀원에게 작업 할당 - Marketo 문서 - 제품 설명서
 title: 팀원에게 작업 할당
 exl-id: 8f35afb8-d1c2-4f09-8653-3309f08c991d
 feature: Sales Insight Actions
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '114'
-ht-degree: 0%
+ht-degree: 9%
 
 ---
 
@@ -22,7 +22,7 @@ ht-degree: 0%
 
    ![](assets/assigning-tasks-to-team-members-1.png)
 
-1. **[!UICONTROL Add Task]**&#x200B;을(를) 클릭합니다.
+1. **[!UICONTROL Add Task]**&#x200B;를 클릭합니다.
 
    ![](assets/assigning-tasks-to-team-members-2.png)
 

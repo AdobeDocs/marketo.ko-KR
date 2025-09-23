@@ -1,17 +1,17 @@
 ---
 unique-page-id: 1900595
 description: 스마트 목록으로 대상 정의 - Marketo 문서 - 제품 설명서
-title: 스마트 목록으로 대상자 정의
+title: 스마트 목록을 통해 대상자 정의
 exl-id: 72a1e717-271b-46b5-b097-d29658b8f6ff
 feature: Email Programs
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '256'
-ht-degree: 1%
+ht-degree: 7%
 
 ---
 
-# 스마트 목록으로 대상자 정의 {#define-an-audience-with-a-smart-list}
+# 스마트 목록을 통해 대상자 정의 {#define-an-audience-with-a-smart-list}
 
 [전자 메일 프로그램을 만들기](/help/marketo/product-docs/email-marketing/email-programs/creating-an-email-program/create-an-email-program.md)하면 전자 메일을 보낼 사용자를 알려 줍니다. 이 작업은 [사람 목록을 가져오거나](/help/marketo/product-docs/email-marketing/email-programs/managing-people-in-email-programs/define-an-audience-by-importing-a-list.md) 스마트 목록을 사용하여 수행할 수 있습니다. 다음은 스마트 목록으로 이를 수행하는 방법입니다.
 
@@ -55,10 +55,10 @@ ht-degree: 1%
 >
 >차단된 번호를 아시나요? 이 숫자는 자격이 있는 사람의 하위 집합이며, 다음과 같은 이유로 이 이메일을 보낼 수 없는 사람을 나타냅니다.
 >
->* 주소 삭제
+>* 구독 취소
 >* 마케팅 중단
->* 차단 목록에 추가된
->* 이메일 잘못됨
+>* 차단 목록에 추가됨
+>* 잘못된 이메일
 >* 빈 이메일
 >
 >메일링이 차단된 사람들의 자세한 목록을 보려면 번호를 클릭하십시오. **참고:** 운영 전자 메일은 여전히 구독 취소됨으로 표시되어 있고 마케팅이 일시 중단된 사람들에게 전송됩니다.

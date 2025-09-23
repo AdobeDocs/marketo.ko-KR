@@ -1,16 +1,16 @@
 ---
 description: 이메일 단계에 대한 판매 캠페인 전송 옵션 이해 - Marketo 문서 - 제품 설명서
-title: 이메일 단계에 대한 판매 캠페인 전송 옵션 이해
+title: 이메일 단계에 대한 세일즈 캠페인 게재 옵션 이해
 feature: Sales Insight Actions
 exl-id: 775c6401-efb2-4940-a81c-be5d2759c7bd
-source-git-commit: 21bcdc10fe1f3517612efe0f8e2adaf2f4411a70
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '740'
-ht-degree: 0%
+ht-degree: 2%
 
 ---
 
-# 이메일 단계에 대한 판매 캠페인 전송 옵션 이해 {#understanding-sales-campaign-send-options-for-email-steps}
+# 이메일 단계에 대한 세일즈 캠페인 게재 옵션 이해 {#understanding-sales-campaign-send-options-for-email-steps}
 
 영업 캠페인을 만들 때 [!DNL Sales Insight Actions]에서 전자 메일 단계를 만드는 방법에 대한 몇 가지 옵션이 있습니다. 또한 Sales Campaign에서 이메일이 어디에 포함되는지에 따라 옵션도 달라집니다.
 
@@ -75,5 +75,5 @@ Sales Campaign의 이후 며칠/단계에서는 다음과 같은 옵션을 사�
 >[!MORELIKETHIS]
 >
 >[판매 캠페인 만들기](/help/marketo/product-docs/marketo-sales-insight/actions/campaigns/create-a-sales-campaign.md){target="_blank"}
->&#x200B;>[판매 캠페인 단계 유형 및 미리 알림 작업](/help/marketo/product-docs/marketo-sales-insight/actions/campaigns/sales-campaign-step-types-and-reminder-tasks.md){target="_blank"}
->&#x200B;>[판매 캠페인 설정](/help/marketo/product-docs/marketo-sales-insight/actions/campaigns/sales-campaign-settings.md){target="_blank"}
+>>[판매 캠페인 단계 유형 및 미리 알림 작업](/help/marketo/product-docs/marketo-sales-insight/actions/campaigns/sales-campaign-step-types-and-reminder-tasks.md){target="_blank"}
+>>[판매 캠페인 설정](/help/marketo/product-docs/marketo-sales-insight/actions/campaigns/sales-campaign-settings.md){target="_blank"}

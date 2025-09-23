@@ -1,16 +1,16 @@
 ---
 description: EM-YYYY-MM-DD-Single 이메일 보내기 - Marketo 문서 - 제품 설명서
-title: EM-YYYY-MM-DD-Single 이메일 보내기
+title: EM-YYYY-MM-DD-단일 이메일 전송
 feature: Programs
 exl-id: 58782d4c-658b-42cd-9ca3-fa53c7476e48
-source-git-commit: 21bcdc10fe1f3517612efe0f8e2adaf2f4411a70
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '280'
-ht-degree: 6%
+ht-degree: 9%
 
 ---
 
-# EM-YYYY-MM-DD-Single 이메일 보내기 {#em-yyyy-mm-dd-single-email-send}
+# EM-YYYY-MM-DD-단일 이메일 전송 {#em-yyyy-mm-dd-single-email-send}
 
 이 예제는 Marketo Engage 이메일 프로그램을 활용하여 하나의 이메일을 전송합니다. 이메일에는 A/B 테스트가 포함되거나 포함되지 않을 수 있습니다.
 

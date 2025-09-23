@@ -1,16 +1,16 @@
 ---
 description: 대화형 웨비나 시작 - Marketo 문서 - 제품 설명서
-title: 대화형 웨비나 시작
+title: 대화형 웨비나 시작하기
 feature: Interactive Webinars
 exl-id: 6e1409aa-a60a-4fb2-8abd-cdc0c20a20d9
-source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '286'
-ht-degree: 0%
+ht-degree: 3%
 
 ---
 
-# 대화형 웨비나 시작 {#get-started-with-interactive-webinars}
+# 대화형 웨비나 시작하기 {#get-started-with-interactive-webinars}
 
 [대화형 웨비나 개요](/help/marketo/product-docs/demand-generation/events/interactive-webinars/interactive-webinars-overview.md){target="_blank"}{target="_blank"}를 읽고 자세히 살펴볼 준비가 되었습니다. 시작하려면 아래 단계를 따르십시오.
 

@@ -4,10 +4,10 @@ description: 이벤트 설정 구성 및 웨비나와 Marketo 동기화 - Market
 title: 이벤트 설정 구성 및 웨비나와 Marketo 동기화
 exl-id: 03b76c33-3dbe-4675-83f3-e2d82907f94e
 feature: Events
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '202'
-ht-degree: 0%
+ht-degree: 9%
 
 ---
 
@@ -29,7 +29,7 @@ ht-degree: 0%
 
    ![](assets/three.png)
 
-1. [!UICONTROL Event Id]을(를) 입력하십시오(ON24에서 가져오기). **[!UICONTROL Save]**&#x200B;을(를) 클릭합니다.
+1. [!UICONTROL Event Id]을(를) 입력하십시오(ON24에서 가져오기). **[!UICONTROL Save]**&#x200B;를 클릭합니다.
 
    ![](assets/four.png)
 
@@ -45,7 +45,7 @@ ON24 웨비나와 연결된 이벤트를 설정하면 이벤트 일정이 ON24�
 
    ![](assets/five.png)
 
-1. **[!UICONTROL Start Date]**, **[!UICONTROL End Date]** 및 **[!UICONTROL Time Zone]**&#x200B;을(를) 선택하세요. **[!UICONTROL Save]**&#x200B;을(를) 클릭합니다.
+1. **[!UICONTROL Start Date]**, **[!UICONTROL End Date]** 및 **[!UICONTROL Time Zone]**&#x200B;을(를) 선택하세요. **[!UICONTROL Save]**&#x200B;를 클릭합니다.
 
    ![](assets/six-1.png)
 

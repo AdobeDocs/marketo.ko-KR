@@ -4,10 +4,10 @@ description: 매출 모델 - Marketo 문서 - 제품 설명서에서  [!DNL Goog
 title: 수익 모델에서  [!DNL Google AdWords] 전환 설정
 exl-id: dd1259fc-d3f2-44ec-8055-f75d55263b36
 feature: Reporting, Revenue Cycle Analytics
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '409'
-ht-degree: 1%
+ht-degree: 2%
 
 ---
 
@@ -41,7 +41,7 @@ ht-degree: 1%
 
    ![](assets/image2015-2-23-18-3a3-3a12.png)
 
-1. **[!UICONTROL Edit Draft]**&#x200B;을(를) 클릭합니다.
+1. **[!UICONTROL Edit Draft]**&#x200B;를 클릭합니다.
 
    ![](assets/image2015-3-10-15-3a3-3a20.png)
 
@@ -75,7 +75,7 @@ ht-degree: 1%
 
    ![](assets/image2015-2-26-21-3a22-3a10.png)
 
-1. **[!UICONTROL Save]**&#x200B;을(를) 클릭합니다.
+1. **[!UICONTROL Save]**&#x200B;를 클릭합니다.
 
    ![](assets/image2015-2-26-16-3a56-3a2.png)
 
@@ -99,7 +99,7 @@ ht-degree: 1%
 
    ![](assets/image2015-2-26-21-3a22-3a10.png)
 
-1. **[!UICONTROL Conversion Name]** 입력. **[!UICONTROL Save]**&#x200B;을(를) 클릭합니다.
+1. **[!UICONTROL Conversion Name]** 입력. **[!UICONTROL Save]**&#x200B;를 클릭합니다.
 
    ![](assets/image2015-2-26-21-3a24-3a7.png)
 

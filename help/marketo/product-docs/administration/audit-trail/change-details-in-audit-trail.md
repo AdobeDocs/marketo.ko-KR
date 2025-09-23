@@ -1,17 +1,17 @@
 ---
 unique-page-id: 11379928
 description: 감사 추적의 변경 세부 정보 - Marketo 문서 - 제품 설명서
-title: 감사 추적의 변경 세부 정보
+title: 감사 추적에서 세부 사항 변경
 exl-id: 5583be62-46a6-42f9-b4b3-0df63a171b2d
 feature: Audit Trail
-source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '1902'
-ht-degree: 11%
+ht-degree: 12%
 
 ---
 
-# 감사 추적의 변경 세부 정보 {#change-details-in-audit-trail}
+# 감사 추적에서 세부 사항 변경 {#change-details-in-audit-trail}
 
 Audit Trail은 insight 구독에서 어떤 작업을 수행하는지 다양한 Marketo 기능을 제공합니다. 세부사항은 다음과 같습니다.
 
@@ -456,7 +456,7 @@ Audit Trail은 insight 구독에서 어떤 작업을 수행하는지 다양한 M
    <td>토큰 "token_name" 삭제됨</td>
   </tr>
   <tr>
-   <td rowspan="8">Forms</td>
+   <td rowspan="8">양식</td>
    <td>만들기</td>
    <td>곧 출시 예정 자세히 알아보기 또는 "양식 이름"에서 복제됨</td>
   </tr>
@@ -489,7 +489,7 @@ Audit Trail은 insight 구독에서 어떤 작업을 수행하는지 다양한 M
    <td>"Design studio"로 폴더 "폴더 이름"<br>또는<br>프로그램 "프로그램 이름"으로 "마케팅 활동"으로 이동됨</td>
   </tr>
   <tr>
-   <td>Forms</td>
+   <td>양식</td>
    <td>승인</td>
    <td># 자산에서 사용됨 </td>
   </tr>
@@ -671,7 +671,7 @@ Audit Trail은 insight 구독에서 어떤 작업을 수행하는지 다양한 M
    <td>필터 및 트리거의 이름과 값을 포함하여 현재 상태의 스냅숏을 표시합니다. </td>
   </tr>
   <tr>
-   <td rowspan="11">코드 조각</td>
+   <td rowspan="11">스니펫</td>
    <td>만들기</td>
    <td><p>"코드 조각 이름"에서 빈<br>or<br>복제됨</p></td>
   </tr>

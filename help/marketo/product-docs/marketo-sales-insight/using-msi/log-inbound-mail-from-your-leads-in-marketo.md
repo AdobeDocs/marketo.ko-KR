@@ -1,17 +1,17 @@
 ---
 unique-page-id: 2949285
 description: Marketo - Marketo 문서 - 제품 설명서에서 잠재 고객의 인바운드 메일 기록
-title: Marketo에서 잠재 고객의 인바운드 메일 기록
+title: Marketo에서 리드의 인바운드 메일 로깅
 exl-id: 4fab5007-f6fb-432c-ae13-02da747a82ef
 feature: Marketo Sales Insights
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '129'
-ht-degree: 0%
+ht-degree: 12%
 
 ---
 
-# Marketo에서 잠재 고객의 인바운드 메일 기록 {#log-inbound-mail-from-your-leads-in-marketo}
+# Marketo에서 리드의 인바운드 메일 로깅 {#log-inbound-mail-from-your-leads-in-marketo}
 
 Marketo 이메일 추가 기능을 사용하여 [!DNL Outlook]의 잠재 고객의 회신을 바로 기록할 수 있습니다.
 

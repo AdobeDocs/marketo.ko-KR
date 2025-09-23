@@ -4,10 +4,10 @@ description: 프로그램 보고서에 프로그램 상태 열 추가 - Marketo 
 title: 프로그램 보고서에 프로그램 상태 열 추가
 exl-id: ab8e5be7-7ea6-4b69-b701-0c81ea556107
 feature: Programs
-source-git-commit: 86f9e9f13b24a82deb50ec4c398035d7d7479d20
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
-source-wordcount: '134'
-ht-degree: 0%
+source-wordcount: '127'
+ht-degree: 13%
 
 ---
 
@@ -15,7 +15,7 @@ ht-degree: 0%
 
 [프로그램 성과 보고서](/help/marketo/product-docs/core-marketo-concepts/programs/program-performance-report/create-a-program-performance-report.md){target="_blank"}에 프로그램 상태에 대한 통계를 추가합니다.
 
-1. **[!UICONTROL 마케팅 활동]**(또는 **[!UICONTROL 분석]**)으로 이동합니다.
+1. **[!UICONTROL Marketing Activities]**(또는 **[!UICONTROL Analytics]**)(으)로 이동합니다.
 
    ![](assets/login-marketing-activities-2.png)
 
@@ -23,7 +23,7 @@ ht-degree: 0%
 
    ![](assets/emailperformance.jpg)
 
-1. **[!UICONTROL 설정]** 탭을 클릭하고 **[!UICONTROL 채널]** 태그 위로 끌어서 놓습니다.
+1. **[!UICONTROL Setup]** 탭을 클릭하고 **[!UICONTROL Channel]** 태그 위로 끌어서 놓습니다.
 
    ![](assets/image2014-9-23-16-3a26-3a38.png)
 
@@ -35,11 +35,11 @@ ht-degree: 0%
    >
    >프로그램 상태 열을 표시하려면 보고서를 _한 개의_ 채널로만 필터링해야 합니다.
 
-1. 프로그램 상태 열 표시 옵션을 선택합니다. **[!UICONTROL 적용]**&#x200B;을 클릭합니다.
+1. 프로그램 상태 열 표시 옵션을 선택합니다. **[!UICONTROL Apply]**&#x200B;를 클릭합니다.
 
    ![](assets/image2014-9-23-16-3a26-3a53.png)
 
-1. 네가 해냈어! 프로그램 상태 열이 있는 보고서를 보려면 [!UICONTROL 보고서] 탭을 클릭하십시오.
+1. 네가 해냈어! 프로그램 상태 열이 있는 보고서를 보려면 [!UICONTROL Report] 탭을 클릭하십시오.
 
    ![](assets/programreport.jpg)
 

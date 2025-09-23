@@ -3,7 +3,7 @@ description: 2단계/4단계 - 리소스 소유자 암호 제어 연결을 사�
 title: 2단계/4단계 - 리소스 소유자 암호 제어 연결을 사용하여 Marketo 솔루션 설정
 exl-id: 41c05910-d8e3-4fb7-8f68-17ee10294e57
 feature: Microsoft Dynamics
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '397'
 ht-degree: 1%
@@ -28,11 +28,11 @@ ht-degree: 1%
 
    ![](assets/two.png)
 
-1. **[!UICONTROL Users]**&#x200B;을(를) 클릭합니다.
+1. **[!UICONTROL Users]**&#x200B;를 클릭합니다.
 
    ![](assets/three.png)
 
-1. **[!UICONTROL New]**&#x200B;을(를) 클릭합니다.
+1. **[!UICONTROL New]**&#x200B;를 클릭합니다.
 
    ![](assets/four.png)
 
@@ -44,7 +44,7 @@ ht-degree: 1%
 
    ![](assets/six.png)
 
-1. 다른 새 탭이 열립니다. **[!UICONTROL Add a user]**&#x200B;을(를) 클릭합니다.
+1. 다른 새 탭이 열립니다. **[!UICONTROL Add a user]**&#x200B;를 클릭합니다.
 
    ![](assets/seven.png)
 
@@ -84,7 +84,7 @@ Marketo 동기화 사용자 역할만 Marketo 동기화 사용자에게 할당�
 
    ![](assets/eleven.png)
 
-1. **[!UICONTROL Manage Roles]**&#x200B;을(를) 클릭합니다.
+1. **[!UICONTROL Manage Roles]**&#x200B;를 클릭합니다.
 
    ![](assets/twelve.png)
 
@@ -108,7 +108,7 @@ Marketo 동기화 사용자 역할만 Marketo 동기화 사용자에게 할당�
    >
    >**[!UICONTROL Marketo Config]** 메뉴에 [!UICONTROL Settings]이(가) 없으면 페이지를 새로 고치세요. 그래도 작동하지 않으면 [Marketo 솔루션을 다시 게시](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/microsoft-dynamics-365-with-ropc-connection/step-1-of-4-install.md)하거나 로그아웃했다가 다시 로그인하세요.
 
-1. **[!UICONTROL Default]**&#x200B;을(를) 클릭합니다.
+1. **[!UICONTROL Default]**&#x200B;를 클릭합니다.
 
    ![](assets/fifteen.png)
 

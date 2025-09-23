@@ -1,16 +1,16 @@
 ---
 description: OP-Acquisition-API - Marketo 문서 - 제품 설명서
-title: OP-Acquisition-API
+title: OP-획득-API
 feature: Programs
 exl-id: abf7c4a0-c363-4e92-9a1f-197c3953c515
-source-git-commit: 21bcdc10fe1f3517612efe0f8e2adaf2f4411a70
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '171'
-ht-degree: 4%
+ht-degree: 5%
 
 ---
 
-# OP-Acquisition-API {#op-acquisition-api}
+# OP-획득-API {#op-acquisition-api}
 
 이 예제 프로그램은 Marketo Engage 기본 프로그램을 사용하여 API 소스에서 레코드 획득을 추적하기 위한 운영 프로세스를 위한 것입니다.
 

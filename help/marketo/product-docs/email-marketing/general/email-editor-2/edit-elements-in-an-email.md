@@ -1,17 +1,17 @@
 ---
 unique-page-id: 1900558
 description: 이메일에서 요소 편집 - Marketo 문서 - 제품 설명서
-title: 이메일에서 요소 편집
+title: 이메일의 요소 편집
 exl-id: 915b4a45-f92e-40ff-9a4c-65c52f19f1ec
 feature: Email Editor
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '473'
-ht-degree: 0%
+ht-degree: 2%
 
 ---
 
-# 이메일에서 요소 편집 {#edit-elements-in-an-email}
+# 이메일의 요소 편집 {#edit-elements-in-an-email}
 
 이메일에는 리치 텍스트, 이미지, 코드 조각 및 비디오의 네 가지 요소가 포함될 수 있습니다. 다음은 각 을 편집하는 방법입니다.
 

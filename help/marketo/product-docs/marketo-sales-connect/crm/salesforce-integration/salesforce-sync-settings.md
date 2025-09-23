@@ -4,10 +4,10 @@ description: Salesforce 동기화 설정 - Marketo 문서 - 제품 설명서
 title: Salesforce 동기화 설정
 exl-id: 024c60ac-569f-4051-9eee-1e8d00f7296c
 feature: Marketo Sales Connect
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '358'
-ht-degree: 2%
+ht-degree: 5%
 
 ---
 
@@ -76,7 +76,7 @@ ht-degree: 2%
 1. **[!UICONTROL My Email to Salesforce]**&#x200B;를 선택합니다.
 1. 이 페이지에는 &quot;Salesforce 주소로 이메일&quot;이라는 레이블이 지정된 필드가 표시됩니다. 옆에 채워진 항목이 없으면 아래로 스크롤하여 &quot;허용 가능한 내 이메일 주소&quot;를 표시합니다.
 1. 숨은 참조를 보낼 이메일 주소를 입력합니다.
-1. **[!UICONTROL Save Changes]**&#x200B;을(를) 클릭합니다.
+1. **[!UICONTROL Save Changes]**&#x200B;를 클릭합니다.
 
 **내 설정에서 [!DNL Salesforce]에게 보낸 내 전자 메일을 찾을 수 없습니다**
 
@@ -86,12 +86,12 @@ ht-degree: 2%
 >
 >이를 설정하려면 관리자 권한이 필요합니다.
 
-1. **[!UICONTROL Setup]**&#x200B;을(를) 클릭합니다.
-1. **[!UICONTROL Email Administration]**&#x200B;을(를) 클릭합니다.
-1. **[!UICONTROL Email to Salesforce]**&#x200B;을(를) 클릭합니다.
-1. **[!UICONTROL Edit]**&#x200B;을(를) 클릭합니다.
+1. **[!UICONTROL Setup]**&#x200B;를 클릭합니다.
+1. **[!UICONTROL Email Administration]**&#x200B;를 클릭합니다.
+1. **[!UICONTROL Email to Salesforce]**&#x200B;를 클릭합니다.
+1. **[!UICONTROL Edit]**&#x200B;를 클릭합니다.
 1. &quot;[!UICONTROL Active]&quot; 옆의 확인란을 선택합니다.
-1. **[!UICONTROL Save]**&#x200B;을(를) 클릭합니다.
+1. **[!UICONTROL Save]**&#x200B;를 클릭합니다.
 
 ## [!DNL Salesforce]개 작업에 Sales Connect 작업/미리 알림 동기화 {#sync-sales-connect-tasks-reminders-to-salesforce-tasks}
 

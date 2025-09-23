@@ -1,17 +1,17 @@
 ---
 unique-page-id: 2951884
 description: 매출 탐색기 - Marketo 문서 - 제품 설명서에서 영업 기회 분석 이해
-title: 매출 탐색기의 영업 기회 분석 이해
+title: Revenue Explorer의 기회 분석 이해
 exl-id: 2ef45d3e-7640-4c47-86ae-d7ae45ed1dd4
 feature: Reporting, Revenue Cycle Analytics
-source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '899'
-ht-degree: 5%
+ht-degree: 7%
 
 ---
 
-# 매출 탐색기의 영업 기회 분석 이해 {#understanding-opportunity-analysis-in-revenue-explorer}
+# Revenue Explorer의 기회 분석 이해 {#understanding-opportunity-analysis-in-revenue-explorer}
 
 매출 탐색기의 영업 기회 분석을 통해 영업 기회를 보다 심층적으로 검토할 수 있습니다. 리드 소스, 업계 또는 지역 등 리드/회사 속성을 기준으로 데이터를 쪼개어 분석합니다. 이름, 단계 또는 확률에 따라 영업 기회 생성 및 종료 분석 파이프라인에 대한 마케팅 기여도를 확인하십시오.
 
@@ -77,9 +77,9 @@ Opportunity Analysis 를 사용하면 모든 Lead, Company 및 Opportunity 관�
 
    | 차원 | 설명 |
    |---|---|
-   | 차단 목록에 추가된 | 리드는 차단 목록에 추가된입니다. |
+   | 차단 목록에 추가됨 | 리드는 차단 목록에 추가된입니다. |
    | 영업 기회로 전환됨 | 잠재 고객이 영업 기회로 전환됩니다. |
-   | 이메일 잘못됨 | 잠재 고객의 이메일 주소가 유효한지 여부 |
+   | 잘못된 이메일 | 잠재 고객의 이메일 주소가 유효한지 여부 |
    | 마케팅 중단 | 잠재 고객이 마케팅 이메일에 대해 일시 중단되었습니까? |
    | 이메일 주소 | 잠재 고객 이메일 주소 |
    | 직위 | 잠재 고객의 직책 |

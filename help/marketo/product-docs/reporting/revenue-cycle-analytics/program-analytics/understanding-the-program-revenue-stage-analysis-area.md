@@ -4,10 +4,10 @@ description: 프로그램 매출 단계 분석 영역 이해 - Marketo 문서 - 
 title: 프로그램 수익 단계 분석 영역 이해
 exl-id: 7310655f-a06e-4e02-a094-d942fff689c3
 feature: Reporting, Revenue Cycle Analytics
-source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '418'
-ht-degree: 3%
+ht-degree: 6%
 
 ---
 

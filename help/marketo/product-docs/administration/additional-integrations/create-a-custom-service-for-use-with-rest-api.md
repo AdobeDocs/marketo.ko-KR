@@ -1,17 +1,17 @@
 ---
 unique-page-id: 2360350
 description: ReST API와 함께 사용할 사용자 정의 서비스 만들기 - Marketo 문서 - 제품 설명서
-title: ReST API와 함께 사용할 사용자 정의 서비스 만들기
+title: ReST API에서 사용할 맞춤형 서비스 만들기
 exl-id: d94f723b-2e98-4350-a9e5-bd57aff2303b
 feature: Administration
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '182'
-ht-degree: 2%
+ht-degree: 18%
 
 ---
 
-# ReST API와 함께 사용할 사용자 정의 서비스 만들기 {#create-a-custom-service-for-use-with-rest-api}
+# ReST API에서 사용할 맞춤형 서비스 만들기 {#create-a-custom-service-for-use-with-rest-api}
 
 ReST API를 통해 Marketo과 통합하려면 사용자 지정 서비스를 만들어야 합니다. 방법은 다음과 같습니다.
 
@@ -27,7 +27,7 @@ ReST API를 통해 Marketo과 통합하려면 사용자 지정 서비스를 만�
 
 >[!TIP]
 >
->[REST API](https://developer.adobe.com/marketo-apis/)에 대한 자세한 내용은 개발자 설명서를 확인하십시오. 필요한 경우 [SOAP API](https://experienceleague.adobe.com/ko/docs/marketo-developer/marketo/soap/soap-api)도 있습니다.
+>[REST API](https://developer.adobe.com/marketo-apis/)에 대한 자세한 내용은 개발자 설명서를 확인하십시오. 필요한 경우 [SOAP API](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/soap/soap-api)도 있습니다.
 
 ## 사용자 정의 서비스 만들기 {#create-custom-service}
 
@@ -35,7 +35,7 @@ ReST API를 통해 Marketo과 통합하려면 사용자 지정 서비스를 만�
 
    ![](assets/create-a-custom-service-for-use-with-rest-api-1.png)
 
-1. **[!UICONTROL LaunchPoint]**&#x200B;을(를) 클릭합니다.
+1. **[!UICONTROL LaunchPoint]**&#x200B;를 클릭합니다.
 
    ![](assets/create-a-custom-service-for-use-with-rest-api-2.png)
 
@@ -51,7 +51,7 @@ ReST API를 통해 Marketo과 통합하려면 사용자 지정 서비스를 만�
    >
    >인기 웨비나 서비스에 대한 기본 통합이 이미 있습니다.
 
-1. **[!UICONTROL Create]**&#x200B;을(를) 클릭합니다.
+1. **[!UICONTROL Create]**&#x200B;를 클릭합니다.
 
    ![](assets/create-a-custom-service-for-use-with-rest-api-5.png)
 
@@ -63,7 +63,7 @@ ReST API를 통해 Marketo과 통합하려면 사용자 지정 서비스를 만�
 
    ![](assets/create-a-custom-service-for-use-with-rest-api-6.png)
 
-1. **[!UICONTROL LaunchPoint]**&#x200B;을(를) 클릭합니다.
+1. **[!UICONTROL LaunchPoint]**&#x200B;를 클릭합니다.
 
    ![](assets/create-a-custom-service-for-use-with-rest-api-7.png)
 
@@ -71,7 +71,7 @@ ReST API를 통해 Marketo과 통합하려면 사용자 지정 서비스를 만�
 
    ![](assets/create-a-custom-service-for-use-with-rest-api-8.png)
 
-1. **[!UICONTROL Get Token]**&#x200B;을(를) 클릭합니다.
+1. **[!UICONTROL Get Token]**&#x200B;를 클릭합니다.
 
    ![](assets/create-a-custom-service-for-use-with-rest-api-9.png)
 

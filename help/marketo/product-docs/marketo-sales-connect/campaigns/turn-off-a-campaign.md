@@ -1,17 +1,17 @@
 ---
 unique-page-id: 14352609
 description: Campaign 끄기 - Marketo 문서 - 제품 설명서
-title: 캠페인 끄기
+title: 캠페인 비활성화
 exl-id: 4b6fcb6e-7966-43aa-aa4f-43c475c79de8
 feature: Marketo Sales Connect
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '140'
-ht-degree: 0%
+ht-degree: 7%
 
 ---
 
-# 캠페인 끄기 {#turn-off-a-campaign}
+# 캠페인 비활성화 {#turn-off-a-campaign}
 
 수신자가 답글을 달 때 캠페인을 자동으로 종료해야 합니까? 방법은 다음과 같습니다.
 

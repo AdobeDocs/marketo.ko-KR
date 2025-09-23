@@ -1,17 +1,17 @@
 ---
 unique-page-id: 14352506
 description: 템플릿 범주 편집 - Marketo 문서 - 제품 설명서
-title: 템플릿 범주 편집
+title: 템플릿 카테고리 편집
 exl-id: ae7c9db2-78d3-497c-9752-77304b9ab3d8
 feature: Marketo Sales Connect
-source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '88'
-ht-degree: 0%
+ht-degree: 9%
 
 ---
 
-# 템플릿 범주 편집 {#edit-a-template-category}
+# 템플릿 카테고리 편집 {#edit-a-template-category}
 
 지금은 전체 범주를 삭제하거나 템플릿을 새 범주로 일괄 이동할 수 없습니다.
 

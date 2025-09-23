@@ -1,17 +1,17 @@
 ---
 unique-page-id: 1147251
 description: 프로그램 일정 보기 - Marketo 문서 - 제품 설명서에서 사용자 지정 오버레이 만들기
-title: 프로그램 일정 보기에서 사용자 정의 오버레이 생성
+title: 프로그램 일정 보기에서 사용자 정의 오버레이 만들기
 exl-id: 066e7b4d-ff2c-4968-be1e-6d95d680a59a
 feature: Programs
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '69'
-ht-degree: 1%
+ht-degree: 21%
 
 ---
 
-# 프로그램 일정 보기에서 사용자 정의 오버레이 생성 {#creating-custom-overlays-in-program-schedule-view}
+# 프로그램 일정 보기에서 사용자 정의 오버레이 만들기 {#creating-custom-overlays-in-program-schedule-view}
 
 사용자 정의 오버레이를 만들어 요구 사항과 관련된 항목을 볼 수 있습니다.
 

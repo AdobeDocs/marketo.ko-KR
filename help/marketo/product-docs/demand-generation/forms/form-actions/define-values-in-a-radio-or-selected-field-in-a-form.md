@@ -1,17 +1,17 @@
 ---
 unique-page-id: 2359614
 description: 양식에 라디오 또는 선택한 필드의 값 정의 - Marketo 문서 - 제품 설명서
-title: 라디오 또는 양식의 선택된 필드에서 값 정의
+title: 양식에서 라디오 또는 선택된 필드의 값 정의
 exl-id: 62e8d1db-3de7-4129-80d5-11c1fe8d9dd3
 feature: Forms
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '172'
-ht-degree: 1%
+ht-degree: 15%
 
 ---
 
-# 라디오 또는 양식의 선택된 필드에서 값 정의 {#define-values-in-a-radio-or-selected-field-in-a-form}
+# 양식에서 라디오 또는 선택된 필드의 값 정의 {#define-values-in-a-radio-or-selected-field-in-a-form}
 
 [필드 형식을 라디오 단추로 설정](/help/marketo/product-docs/administration/field-management/change-the-type-of-a-marketo-custom-field.md)하거나 형식을 선택하면 사용자가 선택할 수 있는 값을 정의할 수 있습니다. 방법은 다음과 같습니다.
 
@@ -55,11 +55,11 @@ ht-degree: 1%
    >
    >원하는 경우 값 목록을 복사하거나 붙여 넣으려면 **[!UICONTROL Advanced Editor]**&#x200B;을(를) 클릭하십시오. 실시간 절약이 될 수 있습니다.
 
-1. **[!UICONTROL Finish]**&#x200B;을(를) 클릭합니다.
+1. **[!UICONTROL Finish]**&#x200B;를 클릭합니다.
 
    ![](assets/image2014-9-15-16-3a29-3a43.png)
 
-1. **[!UICONTROL Approve and Close]**&#x200B;을(를) 클릭합니다.
+1. **[!UICONTROL Approve and Close]**&#x200B;를 클릭합니다.
 
    ![](assets/image2014-9-15-16-3a29-3a57.png)
 

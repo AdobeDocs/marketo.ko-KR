@@ -1,17 +1,17 @@
 ---
 unique-page-id: 12976776
 description: Smart Campaign - Marketo 문서 - 제품 설명서에서 LinkedIn 리드 세대 양식 필터 및 트리거 사용
-title: Smart Campaign에서 LinkedIn 리드 세대 양식 필터 및 트리거 사용
+title: 스마트 캠페인에서 LinkedIn 리드 생성 양식 필터 및 트리거 사용
 exl-id: 386c25e7-b0fb-4271-bd39-98e36306de6b
 feature: Social
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '128'
-ht-degree: 0%
+ht-degree: 18%
 
 ---
 
-# Smart Campaign에서 LinkedIn 리드 세대 양식 필터 및 트리거 사용 {#use-linkedin-lead-gen-form-filters-and-triggers-in-a-smart-campaign}
+# 스마트 캠페인에서 LinkedIn 리드 생성 양식 필터 및 트리거 사용 {#use-linkedin-lead-gen-form-filters-and-triggers-in-a-smart-campaign}
 
 LinkedIn 리드 세대 Forms을 활성화한 경우 스마트 캠페인에서 필터 및 트리거로 사용할 수 있습니다.
 

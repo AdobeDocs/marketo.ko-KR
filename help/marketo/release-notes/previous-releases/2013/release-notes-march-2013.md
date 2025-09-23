@@ -4,14 +4,14 @@ description: 릴리스 노트 - 2013년 3월 - Marketo 설명서 - 제품 설명
 title: 릴리스 노트 - 2013년 3월
 exl-id: 4036380a-c4a1-44be-8bf3-87253181e5c8
 feature: Release Information
-source-git-commit: ecd225af3ecfd7cb9159faf5a9d384d47ee6312c
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '228'
-ht-degree: 0%
+ht-degree: 1%
 
 ---
 
-# 릴리스 노트: 2013년 3월 {#release-notes-march}
+# 릴리스 정보: 2013년 3월 {#release-notes-march}
 
 3월 릴리스에는 다음 기능이 포함되어 있습니다.
 

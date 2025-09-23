@@ -4,10 +4,10 @@ description: 목록 또는 스마트 목록에서 빠른 찾기 사용 - Marketo
 title: 목록 또는 스마트 목록에서 빠른 찾기 사용
 exl-id: c8ec3d13-0432-400a-acd8-13df709bc29e
 feature: Smart Lists
-source-git-commit: 208ba59e3a5cb8e613e887b4c89e51cec4b3f897
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
-source-wordcount: '139'
-ht-degree: 0%
+source-wordcount: '134'
+ht-degree: 13%
 
 ---
 
@@ -15,17 +15,17 @@ ht-degree: 0%
 
 빠른 찾기를 사용하여 목록 또는 스마트 목록 결과에서 사람을 찾습니다.
 
-1. **[!UICONTROL 마케팅 활동]**(으)로 이동합니다.
+1. **[!UICONTROL Marketing Activities]**(으)로 이동합니다.
 
    ![](assets/login-marketing-activities.png)
 
-1. 검색할 스마트 목록을 선택한 다음 **[!UICONTROL 사람]** 탭을 클릭합니다.
+1. 검색할 스마트 목록을 선택한 다음 **[!UICONTROL People]** 탭을 클릭합니다.
 
    ![](assets/smartlistpeople.png)
 
 ## 개인 정보를 사용하여 사람 찾기 {#find-people-using-personal-info}
 
-1. 화면 맨 아래에 있는 **[!UICONTROL 빠른 찾기]** 상자에 키워드(**개인 이름**, **전자 메일 주소** 또는 **직함**)를 입력하십시오.
+1. 화면 맨 아래의 **[!UICONTROL Quick Find]** 상자에 키워드(**개인 이름**, **전자 메일 주소** 또는 **직함**)를 입력하십시오.
 
    ![](assets/searchpeople.png)
 

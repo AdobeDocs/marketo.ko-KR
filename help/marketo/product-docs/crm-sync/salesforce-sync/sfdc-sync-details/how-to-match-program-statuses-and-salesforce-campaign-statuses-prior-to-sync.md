@@ -1,13 +1,13 @@
 ---
 unique-page-id: 2360370
 description: 동기화 전 프로그램 상태와 Salesforce 캠페인 상태를 일치시키는 방법 - Marketo 문서 - 제품 설명서
-title: 동기화하기 전에 프로그램 상태와 Salesforce 캠페인 상태를 일치시키는 방법
+title: 동기화 전 프로그램 상태와 Salesforce 캠페인 상태를 일치시키는 방법
 exl-id: 623676ff-ce63-484f-8467-71127fa40fe0
 feature: Salesforce Integration
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '219'
-ht-degree: 0%
+ht-degree: 5%
 
 ---
 

@@ -3,10 +3,10 @@ description: 구성 - Marketo 문서 - 제품 설명서
 title: 구성
 feature: Dynamic Chat
 exl-id: 01ca6a38-4918-46b0-b0f6-1baffbb0bbaf
-source-git-commit: 42e2a23c1c451c61fd62237fd1305924b51437b2
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '388'
-ht-degree: 0%
+ht-degree: 2%
 
 ---
 
@@ -48,7 +48,7 @@ ht-degree: 0%
 
 **새 메시지 알림 소리**
 
-드롭다운을 클릭하여 세션에서 챗봇이 트리거될 때마다 방문자에 대한 사운드를 선택합니다. 선택할 수 있는 사운드가 여러 개 있습니다.
+드롭다운을 클릭하여 세션에서 챗봇이 트리거될 때마다 방문자에 대한 사운드를 선택합니다. 선택할 수 있는 여러 사운드가 있습니다.
 
 **모바일에서 메시지 가져오기 사용**
 

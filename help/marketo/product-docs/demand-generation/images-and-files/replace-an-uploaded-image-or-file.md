@@ -1,27 +1,27 @@
 ---
 unique-page-id: 2359876
 description: 업로드한 이미지 또는 파일 바꾸기 - Marketo 문서 - 제품 설명서
-title: 업로드한 이미지 또는 파일 바꾸기
+title: 업로드된 이미지 또는 파일 교체
 exl-id: 2bd936bc-2103-49b0-98b5-55f45674a257
 feature: Image Editor
-source-git-commit: 74266763ab61379d50560f18fa65bbb35c37feb0
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
-source-wordcount: '115'
-ht-degree: 0%
+source-wordcount: '101'
+ht-degree: 17%
 
 ---
 
-# 업로드한 이미지 또는 파일 바꾸기 {#replace-an-uploaded-image-or-file}
+# 업로드된 이미지 또는 파일 교체 {#replace-an-uploaded-image-or-file}
 
-1. **[!UICONTROL 디자인 스튜디오]**(으)로 이동합니다.
+1. **[!UICONTROL Design Studio]**(으)로 이동합니다.
 
    ![](assets/replace-an-uploaded-image-or-file-1.png)
 
-1. **[!UICONTROL 이미지 및 파일]**&#x200B;을 클릭합니다.
+1. **[!UICONTROL Images and Files]**&#x200B;를 클릭합니다.
 
    ![](assets/replace-an-uploaded-image-or-file-2.png)
 
-1. 바꿀 자산을 선택합니다. **[!UICONTROL 이미지 및 파일 작업]** 드롭다운을 클릭하고 **[!UICONTROL 이미지 또는 파일 바꾸기]**&#x200B;를 선택합니다.
+1. 바꿀 자산을 선택합니다. **[!UICONTROL Image and file actions]** 드롭다운을 클릭하고 **[!UICONTROL Replace image or file]**&#x200B;를 선택합니다.
 
    ![](assets/replace-an-uploaded-image-or-file-3.png)
 
@@ -33,7 +33,7 @@ ht-degree: 0%
    >
    >대체 파일 유형은 원본(예: .jpg)과 동일해야 합니다.
 
-1. 대체 이미지/파일을 선택한 후 **[!UICONTROL 바꾸기]**&#x200B;를 클릭합니다.
+1. 대체 이미지/파일을 선택한 후 **[!UICONTROL Replace]**&#x200B;을(를) 클릭합니다.
 
    ![](assets/replace-an-uploaded-image-or-file-5.png)
 

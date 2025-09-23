@@ -1,17 +1,17 @@
 ---
 unique-page-id: 1147243
 description: 프로그램 일정 보기 항목 유형 - Marketo 문서 - 제품 설명서
-title: 프로그램 스케줄 조회 입력 유형
+title: 프로그램 일정 보기 항목 유형
 exl-id: 0b53d6d3-b813-45c6-9101-191c777610bb
 feature: Programs
-source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '152'
-ht-degree: 3%
+ht-degree: 10%
 
 ---
 
-# 프로그램 스케줄 조회 입력 유형 {#program-schedule-view-entry-types}
+# 프로그램 일정 보기 항목 유형 {#program-schedule-view-entry-types}
 
 프로그램 예약 보기에 표시되고 사용할 수 있는 8개의 기본 제공 항목 유형이 있습니다. 관리 섹션에서 [사용자 지정 항목 유형을 만들기](/help/marketo/product-docs/core-marketo-concepts/programs/program-schedule-view/create-custom-entry-types.md)할 수도 있습니다.
 

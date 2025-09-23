@@ -1,17 +1,17 @@
 ---
 unique-page-id: 14352521
 description: 이메일의 참조 또는 BCC - Marketo 문서 - 제품 설명서
-title: 이메일의 참조 또는 숨은 참조
+title: 이메일의 CC 또는 BCC
 exl-id: c4136fec-a85a-4927-9e1f-1e82274232a9
 feature: Marketo Sales Connect
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '77'
-ht-degree: 0%
+ht-degree: 12%
 
 ---
 
-# 이메일의 참조 또는 숨은 참조 {#cc-or-bcc-in-emails}
+# 이메일의 CC 또는 BCC {#cc-or-bcc-in-emails}
 
 이메일에 평소와 같이 CC 및 BCC 개인을 지정할 수 있습니다.
 

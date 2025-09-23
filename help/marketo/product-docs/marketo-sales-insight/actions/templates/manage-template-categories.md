@@ -1,18 +1,18 @@
 ---
 description: 템플릿 범주 관리 - Marketo 문서 - 제품 설명서
-title: 템플릿 범주 관리
+title: 템플릿 카테고리 관리
 hide: true
 hidefromtoc: true
 exl-id: 6ec62e51-de9a-4165-b36b-d9260fcfcefe
 feature: Sales Insight Actions
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '113'
-ht-degree: 1%
+ht-degree: 10%
 
 ---
 
-# 템플릿 범주 관리 {#manage-template-categories}
+# 템플릿 카테고리 관리 {#manage-template-categories}
 
 ## 범주 만들기 {#create-a-category}
 
@@ -42,7 +42,7 @@ ht-degree: 1%
 
    ![](assets/manage-template-categories-6.png)
 
-## 템플릿 범주 삭제 {#delete-a-template-category}
+## 템플릿 카테고리 삭제 {#delete-a-template-category}
 
 1. **[!UICONTROL Templates]** 탭을 클릭합니다.
 

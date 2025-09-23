@@ -4,10 +4,10 @@ description: SEO - 페이지 추가 - Marketo 문서 - 제품 설명서
 title: SEO - 페이지 추가
 exl-id: dfb51308-7ee7-43b6-9e56-e820080a6b42
 feature: SEO
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
-source-wordcount: '111'
-ht-degree: 0%
+source-wordcount: '107'
+ht-degree: 7%
 
 ---
 
@@ -15,15 +15,15 @@ ht-degree: 0%
 
 페이지가 있습니다! Marketo SEO는 자동으로 사이트를 크롤링하고 추적합니다. 몇 개가 누락된 경우 다음과 같이 SEO 앱에서 가져옵니다.
 
-1. **[!UICONTROL 페이지]** 섹션으로 이동합니다.
+1. **[!UICONTROL Pages]** 섹션으로 이동합니다.
 
    ![](assets/image2014-9-18-12-3a55-3a19.png)
 
-1. **[!UICONTROL 페이지 추가]**&#x200B;를 클릭합니다.
+1. **[!UICONTROL Add Pages]**&#x200B;를 클릭합니다.
 
    ![](assets/image2014-9-18-12-3a55-3a53.png)
 
-1. 추가할 URL을 입력합니다. **[!UICONTROL 추가]**&#x200B;를 클릭합니다.
+1. 추가할 URL을 입력합니다. **[!UICONTROL Add]**&#x200B;를 클릭합니다.
 
    ![](assets/image2014-9-18-12-3a56-3a15.png)
 

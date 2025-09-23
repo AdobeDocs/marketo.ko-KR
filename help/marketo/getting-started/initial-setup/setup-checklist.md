@@ -6,9 +6,9 @@ hide: true
 hidefromtoc: true
 exl-id: 397093f8-9daf-468a-adca-acd94303ebe8
 feature: Getting Started
-source-git-commit: 14583b7fa148aa2b03c8cf6316b9a106c11717b7
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
-source-wordcount: '204'
+source-wordcount: '203'
 ht-degree: 0%
 
 ---
@@ -35,7 +35,7 @@ Marketo에 오신 것을 환영합니다! 다음 체크리스트를 시각적 �
 1. 브랜드 추적 링크에 대한 이메일 CNAME 선택
 1. IT 부서에 이메일 CNAME에 대한 DNS 레코드 설정 요청
 1. 허용 목록에 추가하다 IT에 질문하기 Marketo
-1. [!UICONTROL 관리자] 영역에서 DKIM 및 SPF 설정
+1. [!UICONTROL Admin] 영역에 DKIM 및 SPF 설정
 1. `[FromDomain1]`에 대한 MX 설정
 1. 이메일 CNAME으로 완료되면 Marketo에서 이메일 CNAME을 설정합니다
 

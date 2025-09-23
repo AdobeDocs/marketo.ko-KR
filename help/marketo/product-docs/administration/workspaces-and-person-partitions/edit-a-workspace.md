@@ -1,17 +1,17 @@
 ---
 unique-page-id: 11380986
 description: Workspace 편집 - Marketo 문서 - 제품 설명서
-title: Workspace 편집
+title: 작업 영역 편집
 exl-id: 4c268759-5234-465b-8666-dcb47a0d7ea4
 feature: Workspaces
-source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '136'
-ht-degree: 2%
+ht-degree: 10%
 
 ---
 
-# Workspace 편집 {#edit-a-workspace}
+# 작업 영역 편집 {#edit-a-workspace}
 
 경우에 따라 Workspace에서 변경해야 합니다. 쉽습니다.
 
@@ -27,7 +27,7 @@ ht-degree: 2%
 
    ![](assets/edit-a-workspace-1.png)
 
-1. **[!UICONTROL Workspaces & Partitions]**&#x200B;을(를) 클릭합니다.
+1. **[!UICONTROL Workspaces & Partitions]**&#x200B;를 클릭합니다.
 
    ![](assets/edit-a-workspace-2.png)
 
@@ -51,7 +51,7 @@ ht-degree: 2%
    >
    >**[!UICONTROL Primary Person Partition]**&#x200B;은(는) 기본값으로 작동하며 모든 사람에게 할당됩니다.
 
-   여러 브랜드 도메인을 활성화한 경우 다른 기본 브랜드 도메인으로 변경할 수 있습니다. **[!UICONTROL Save]**&#x200B;을(를) 클릭합니다.
+   여러 브랜드 도메인을 활성화한 경우 다른 기본 브랜드 도메인으로 변경할 수 있습니다. **[!UICONTROL Save]**&#x200B;를 클릭합니다.
 
    ![](assets/edit-a-workspace-5.png)
 

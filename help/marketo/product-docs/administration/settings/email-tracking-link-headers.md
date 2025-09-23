@@ -3,10 +3,10 @@ description: 이메일 추적 링크 헤더 - Marketo 문서 - 제품 설명서
 title: 이메일 추적 링크 헤더
 exl-id: 2db1f1b3-3afe-4710-a8b1-b06fbf09ec8c
 feature: Administration
-source-git-commit: 02b2e39580c5eac63de4b4b7fdaf2a835fdd4ba5
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
-source-wordcount: '103'
-ht-degree: 0%
+source-wordcount: '99'
+ht-degree: 9%
 
 ---
 
@@ -14,15 +14,15 @@ ht-degree: 0%
 
 전자 메일 추적 링크 헤더를 사용자 지정하려면 아래 단계를 따르십시오.
 
-1. Marketo에서 **[!UICONTROL 관리자]**&#x200B;를 클릭합니다.
+1. Marketo에서 **[!UICONTROL Admin]**&#x200B;을(를) 클릭합니다.
 
    ![](assets/email-tracking-link-headers-1.png)
 
-1. **[!UICONTROL 전자 메일]**&#x200B;을 클릭하세요.
+1. **[!UICONTROL Email]**&#x200B;를 클릭합니다.
 
    ![](assets/email-tracking-link-headers-2.png)
 
-1. Custom Header Options로 스크롤합니다. 원하는 설정을 선택하고 **[!UICONTROL 변경 내용 저장]**&#x200B;을 클릭합니다.
+1. Custom Header Options로 스크롤합니다. 원하는 설정을 선택하고 **[!UICONTROL Save Changes]**&#x200B;을(를) 클릭합니다.
 
    ![](assets/email-tracking-link-headers-3.png)
 

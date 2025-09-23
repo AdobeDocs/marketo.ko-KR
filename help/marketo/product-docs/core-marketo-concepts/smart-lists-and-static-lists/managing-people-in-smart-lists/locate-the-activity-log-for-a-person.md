@@ -1,33 +1,33 @@
 ---
 unique-page-id: 5472404
 description: 사용자에 대한 활동 로그 찾기 - Marketo 문서 - 제품 설명서
-title: 사용자에 대한 활동 로그 찾기
+title: 사용자의 활동 로그 찾기
 exl-id: c4018711-e68d-4684-ac3d-a5e10b138a86
 feature: Smart Lists
-source-git-commit: 208ba59e3a5cb8e613e887b4c89e51cec4b3f897
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
-source-wordcount: '129'
-ht-degree: 0%
+source-wordcount: '122'
+ht-degree: 15%
 
 ---
 
-# 사용자에 대한 활동 로그 찾기 {#locate-the-activity-log-for-a-person}
+# 사용자의 활동 로그 찾기 {#locate-the-activity-log-for-a-person}
 
-활동 로그는 진실의 궁극적인 소스입니다. 이것은 Marketo Engage에서 한 사람의 여정에 대한 완전한 이야기입니다.
+활동 로그는 진실의 궁극적인 소스입니다. Marketo Engage에서 한 개인의 여정에 대한 전체 이야기입니다.
 
-1. **[!UICONTROL 데이터베이스]**(으)로 이동합니다.
+1. **[!UICONTROL Database]**(으)로 이동합니다.
 
    ![](assets/locate-the-activity-log-for-a-person-1.png)
 
-1. **[!UICONTROL 모든 사람]**&#x200B;을 선택하세요.
+1. **[!UICONTROL All People]**&#x200B;를 선택합니다.
 
    ![](assets/locate-the-activity-log-for-a-person-2.png)
 
-1. **[!UICONTROL 사람]** 탭을 클릭합니다. 개인 **[!UICONTROL ID]** 번호를 선택하십시오.
+1. **[!UICONTROL People]** 탭을 클릭합니다. **[!UICONTROL Id]** 개인 번호를 선택하십시오.
 
    ![](assets/locate-the-activity-log-for-a-person-3.png)
 
-1. **[!UICONTROL 활동 로그]**&#x200B;를 클릭합니다.
+1. **[!UICONTROL Activity Log]**&#x200B;를 클릭합니다.
 
    ![](assets/locate-the-activity-log-for-a-person-4.png)
 

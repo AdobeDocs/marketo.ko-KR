@@ -4,14 +4,14 @@ description: 챔피언/챌린저 - 보고서 경고 구성 - Marketo 문서 - �
 title: 챔피언/챌린저 - 보고서 경고 구성
 exl-id: 09e17279-c9f5-4a12-ab07-9fce8a0e77ee
 feature: Email Editor
-source-git-commit: cc8de935451fe5d6dc9c8dad19962391d8ed3535
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '215'
-ht-degree: 0%
+ht-degree: 1%
 
 ---
 
-# 챔피언/챌린저: Analytics {#champion-challenger-analytics}
+# 챔피언/챌린저: 분석 {#champion-challenger-analytics}
 
 보고서 경고를 받거나 챔피언/챌린저 대시보드에서 유용한 분석을 검토합니다.
 

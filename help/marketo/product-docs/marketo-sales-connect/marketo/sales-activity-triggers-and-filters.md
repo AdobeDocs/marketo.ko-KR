@@ -1,16 +1,16 @@
 ---
 description: 영업 활동 트리거 및 필터 - Marketo 문서 - 제품 설명서
-title: 판매 활동 트리거 및 필터
+title: 세일즈 활동 트리거 및 필터
 exl-id: 750abb73-8217-4739-8a08-1eb0f6e2976c
 feature: Marketo Sales Connect
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '114'
-ht-degree: 0%
+ht-degree: 8%
 
 ---
 
-# 판매 활동 트리거 및 필터 {#sales-activity-triggers-and-filters}
+# 세일즈 활동 트리거 및 필터 {#sales-activity-triggers-and-filters}
 
 영업 팀과 더 잘 협력하거나 구매자 여정에서 고객과 어떻게 관계를 맺고 있는지 더 잘 파악하고자 하는 경우 Marketo의 Sales Activity Insights가 유용합니다.
 

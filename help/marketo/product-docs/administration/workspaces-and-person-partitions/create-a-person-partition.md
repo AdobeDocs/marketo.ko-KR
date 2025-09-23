@@ -4,10 +4,10 @@ description: 개인 파티션 만들기 - Marketo 문서 - 제품 설명서
 title: 개인 파티션 만들기
 exl-id: 097fd314-c3e1-4123-af47-2f7e53a658e3
 feature: Partitions
-source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '66'
-ht-degree: 1%
+ht-degree: 19%
 
 ---
 
@@ -27,7 +27,7 @@ ht-degree: 1%
 
    ![](assets/create-a-person-partition-1.png)
 
-1. **[!UICONTROL Workspaces & Partitions]**&#x200B;을(를) 클릭합니다.
+1. **[!UICONTROL Workspaces & Partitions]**&#x200B;를 클릭합니다.
 
    ![](assets/create-a-person-partition-2.png)
 

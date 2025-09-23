@@ -4,10 +4,10 @@ description: 계정 설정 - Marketo 문서 - 제품 설명서에서 하위 도�
 title: 계정 설정에서 하위 도메인 추가
 exl-id: 8235ae4b-ab07-413f-bd23-4e12232bd019
 feature: Web Personalization
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '133'
-ht-degree: 1%
+ht-degree: 5%
 
 ---
 
@@ -19,11 +19,11 @@ ht-degree: 1%
 
    ![](assets/image2014-12-1-23-3-12.png)
 
-1. 도메인 구성 페이지에 계정과 연결된 모든 기본 도메인 목록이 표시됩니다. 각 섹션에는 먼저 주 도메인(아래 강조 표시)을 나열한 다음 하위 도메인을 나열합니다. **[!UICONTROL Add Subdomain]**&#x200B;을(를) 클릭합니다.
+1. 도메인 구성 페이지에 계정과 연결된 모든 기본 도메인 목록이 표시됩니다. 각 섹션에는 먼저 주 도메인(아래 강조 표시)을 나열한 다음 하위 도메인을 나열합니다. **[!UICONTROL Add Subdomain]**&#x200B;를 클릭합니다.
 
    ![](assets/highlightprimary2.png)
 
-1. **[!UICONTROL Add]**&#x200B;을(를) 클릭합니다.
+1. **[!UICONTROL Add]**&#x200B;를 클릭합니다.
 
    ![](assets/add.png)
 

@@ -3,7 +3,7 @@ description: ' [!DNL Microsoft Dynamics] 2016/[!DNL Dynamics] 365 온-프레미�
 title: ' [!DNL Microsoft Dynamics] 2016/[!DNL Dynamics] 365 온-프레미스 단계 2/3에 대한 Marketo 설치'
 exl-id: c789b977-7ada-4f5d-8488-e1b58963f7e3
 feature: Microsoft Dynamics
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '445'
 ht-degree: 1%
@@ -28,11 +28,11 @@ ht-degree: 1%
 
    ![](assets/step-2-of-3-marketo-on-premises-2016-2.png)
 
-1. **[!UICONTROL Users]**&#x200B;을(를) 클릭합니다.
+1. **[!UICONTROL Users]**&#x200B;를 클릭합니다.
 
    ![](assets/step-2-of-3-marketo-on-premises-2016-3.png)
 
-1. **[!UICONTROL New]**&#x200B;을(를) 클릭합니다.
+1. **[!UICONTROL New]**&#x200B;를 클릭합니다.
 
    ![](assets/step-2-of-3-marketo-on-premises-2016-4.png)
 
@@ -44,7 +44,7 @@ ht-degree: 1%
 
    ![](assets/step-2-of-3-marketo-on-premises-2016-6.png)
 
-1. **[!UICONTROL Add a user]**&#x200B;을(를) 클릭합니다.
+1. **[!UICONTROL Add a user]**&#x200B;를 클릭합니다.
 
    ![](assets/step-2-of-3-marketo-on-premises-2016-7.png)
 
@@ -80,7 +80,7 @@ Marketo 동기화 사용자 역할만 Marketo 동기화 사용자에게 할당�
 
    ![](assets/assign1.png)
 
-1. **[!UICONTROL Users]**&#x200B;을(를) 클릭합니다.
+1. **[!UICONTROL Users]**&#x200B;를 클릭합니다.
 
    ![](assets/assign2.png)
 
@@ -88,7 +88,7 @@ Marketo 동기화 사용자 역할만 Marketo 동기화 사용자에게 할당�
 
    ![](assets/image2015-3-26-10-3a39-3a35.png)
 
-1. 동기화 사용자를 선택합니다. **[!UICONTROL Manage Roles]**&#x200B;을(를) 클릭합니다.
+1. 동기화 사용자를 선택합니다. **[!UICONTROL Manage Roles]**&#x200B;를 클릭합니다.
 
    ![](assets/assign4.png)
 
@@ -116,7 +116,7 @@ Marketo 동기화 사용자 역할만 Marketo 동기화 사용자에게 할당�
    >
    >Marketo 구성이 누락된 경우 페이지를 새로 고침해 보십시오. 문제가 지속되면 [Marketo 솔루션을 게시](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/microsoft-dynamics-2016-dynamics-365-on-premises/step-1-of-3-install.md){target="_blank"}하거나 로그아웃했다가 다시 로그인하십시오.
 
-1. **[!UICONTROL Default]**&#x200B;을(를) 클릭합니다.
+1. **[!UICONTROL Default]**&#x200B;를 클릭합니다.
 
    ![](assets/configure2.png)
 
@@ -128,7 +128,7 @@ Marketo 동기화 사용자 역할만 Marketo 동기화 사용자에게 할당�
 
    ![](assets/configure4.png)
 
-1. **[!UICONTROL Publish All Customizations]**&#x200B;을(를) 클릭합니다.
+1. **[!UICONTROL Publish All Customizations]**&#x200B;를 클릭합니다.
 
    ![](assets/publish-all-customizations1.png)
 

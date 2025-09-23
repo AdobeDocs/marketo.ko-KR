@@ -4,14 +4,14 @@ description: 릴리스 노트 - 2014년 6월 - Marketo 문서 - 제품 설명서
 title: 릴리스 노트 - 2014년 6월
 exl-id: 690c4e41-831b-47b4-a0c6-d29cf607b179
 feature: Release Information
-source-git-commit: b95458ffab422901ef5e674756ae5e413ec542fd
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '252'
-ht-degree: 0%
+ht-degree: 3%
 
 ---
 
-# 릴리스 노트: 2014년 6월 {#release-notes-june}
+# 릴리스 정보: 2014년 6월 {#release-notes-june}
 
 다음 기능은 2014년 6월 릴리스에 포함되어 있습니다. Marketo 버전에서 사용 가능한 기능이 있는지 확인하십시오.
 
@@ -19,7 +19,7 @@ ht-degree: 0%
 
 [!DNL Marketo Lead Management]에 대한 탐색을 포함하여 새로운 모양과 느낌이 곧 다음 릴리스에서 제공될 예정입니다.
 
-## [!DNL Outlook] 2013에 대한 [!DNL Sales Insight] 플러그 인 {#sales-insight-plugin-for-outlook}
+## [!DNL Sales Insight] 2013에 대한 [!DNL Outlook] 플러그 인 {#sales-insight-plugin-for-outlook}
 
 이렇게 하려면 새 플러그인의 다운로드가 필요합니다. [여기](/help/marketo/product-docs/marketo-sales-insight/msi-outlook-plugin/install-the-marketo-email-add-in-for-outlook-with-a-registration-code.md)에서 다운로드할 수 있습니다.
 

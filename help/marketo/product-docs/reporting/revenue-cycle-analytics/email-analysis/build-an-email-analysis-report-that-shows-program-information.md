@@ -1,17 +1,17 @@
 ---
 unique-page-id: 2360409
 description: 프로그램 정보 - Marketo 문서 - 제품 설명서를 보여주는 이메일 분석 보고서 작성
-title: 프로그램 정보를 표시하는 이메일 분석 보고서 작성
+title: 프로그램 정보를 보여 주는 이메일 분석 보고서 작성
 exl-id: 9d7fd359-c06e-4dab-a0d7-9c360bb44d0d
 feature: Reporting, Revenue Cycle Analytics
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '129'
-ht-degree: 2%
+ht-degree: 16%
 
 ---
 
-# 프로그램 정보를 표시하는 이메일 분석 보고서 작성 {#build-an-email-analysis-report-that-shows-program-information}
+# 프로그램 정보를 보여 주는 이메일 분석 보고서 작성 {#build-an-email-analysis-report-that-shows-program-information}
 
 다음 단계에 따라 프로그램 채널별로 그룹화된 이메일 정보를 표시하는 이메일 분석 보고서를 만듭니다.
 
@@ -31,7 +31,7 @@ ht-degree: 2%
 
    ![](assets/image2014-9-17-19-3a43-3a20.png)
 
-1. **[!UICONTROL Sent (Week)]** 노란색 점을 찾아 마우스 오른쪽 단추로 클릭합니다. **[!UICONTROL Filter...]**&#x200B;을(를) 클릭합니다.
+1. **[!UICONTROL Sent (Week)]** 노란색 점을 찾아 마우스 오른쪽 단추로 클릭합니다. **[!UICONTROL Filter...]**&#x200B;를 클릭합니다.
 
    >[!NOTE]
    >

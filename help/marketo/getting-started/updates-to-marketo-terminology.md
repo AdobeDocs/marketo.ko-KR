@@ -4,8 +4,8 @@ description: Marketo 용어 업데이트 - Marketo 문서 - 제품 설명서
 hide: true
 hidefromtoc: true
 title: Marketo 용어 업데이트
-source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
-workflow-type: ht
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+workflow-type: tm+mt
 source-wordcount: '328'
 ht-degree: 100%
 

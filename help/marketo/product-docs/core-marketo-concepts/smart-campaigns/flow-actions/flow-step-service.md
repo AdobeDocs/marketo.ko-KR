@@ -1,16 +1,16 @@
 ---
 description: 흐름 단계 서비스 - Marketo 문서 - 제품 설명서
-title: 흐름 단계 서비스
+title: 플로우 단계 서비스
 exl-id: 81367562-8b27-4ec5-8a9b-b02083a2e999
 feature: Smart Campaigns
-source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '1224'
 ht-degree: 0%
 
 ---
 
-# 흐름 단계 서비스 {#flow-step-service}
+# 플로우 단계 서비스 {#flow-step-service}
 
 셀프서비스 흐름 단계는 웹 서비스를 작성, 게시 및 Adobe Marketo Engage 스마트 캠페인에 통합하기 위한 프레임워크 및 기능 세트입니다. 이 안내서는 이미 생성되어 게시된 서비스를 설치하고 사용하려는 Marketo Engage 최종 사용자를 위한 것입니다. 고유한 서비스 작성 및 게시에 대한 자세한 내용은 서비스 공급자 인터페이스에 대한 [[!DNL GitHub] 저장소](https://github.com/adobe/Marketo-SSFS-Service-Provider-Interface){target="_blank"}를 참조하십시오. 개념 증명 조회 테이블 구현을 [여기](https://github.com/adobe/mkto-flow-lookup){target="_blank"}에서 찾을 수 있습니다.
 

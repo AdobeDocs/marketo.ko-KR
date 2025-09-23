@@ -3,14 +3,14 @@ description: 상속된 인스턴스 관리 검사 목록 - Marketo 문서 - 제�
 title: 상속된 인스턴스 관리 검사 목록
 feature: Getting Started
 exl-id: 088f3ce9-bf3d-4323-9cde-c39fec06c20e
-source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '1858'
-ht-degree: 1%
+ht-degree: 2%
 
 ---
 
-# 상속된 인스턴스: 관리 섹션 확인 목록 {#inherited-instance-admin-section-checklist}
+# 상속된 인스턴스: 관리 섹션 체크리스트 {#inherited-instance-admin-section-checklist}
 
 아래 체크리스트(각 문서의 하단에 연결된 후속 체크리스트)는 Adobe Professional Services에서 Marketo 챔피언의 입력을 통해 통합하여 빠르게 시작할 수 있도록 구성되었습니다. [확인 목록을 다운로드](/help/marketo/getting-started/inheriting-a-marketo-engage-instance/assets/adobe-marketo-engage-inherited-instance-admin-checklist.xlsx)하고 진행 상황을 추적할 수도 있습니다.
 
@@ -33,7 +33,7 @@ ht-degree: 1%
   <tr>
    <td>구독 및 Marketo Engage 제품 관리자</td>
    <td><li>Marketo Engage 구독이 <a href="/help/marketo/product-docs/administration/marketo-with-adobe-identity/adobe-identity-management-overview.md" target="_blank">Adobe IMS</a>(으)로 마이그레이션되었습니까?
-<br/>     그렇다면 'Adobe Admin Console 시스템 관리자'로부터 'Adobe Admin Console 제품 관리자' 역할이 부여되었습니까? 조직의 콘솔 관리자 권한이 있는 사용자를 모를 경우 <a href="https://helpx.adobe.com/kr/contact.html" target="_blank">Adobe 고객 지원 센터</a>에 문의하십시오.</li>
+<br/>     그렇다면 'Adobe Admin Console 시스템 관리자'로부터 'Adobe Admin Console 제품 관리자' 역할이 부여되었습니까? 조직의 콘솔 관리자 권한이 있는 사용자를 모를 경우 <a href="https://helpx.adobe.com/contact.html" target="_blank">Adobe 고객 지원 센터</a>에 문의하십시오.</li>
 <li>'Marketo Engage 제품 관리자' 초대를 수락했습니까? Adobe Admin Console에서 역할이 할당되면 이메일이 전송됩니다.
 <br/>     없는 경우 받은 편지함에서 <a href="/help/marketo/product-docs/administration/marketo-with-adobe-identity/admin-setup.md#initial-setup" target="_blank">환영 이메일</a>을 찾아 초대를 수락하여 Adobe ID을 활성화하십시오.</li></td>
   </tr>
@@ -293,7 +293,7 @@ ht-degree: 1%
   </tr>
   <tr>
    <td>Adobe Dynamic Chat (해당되는 경우)</td>
-<td>아래 단계를 따라 <a href="https://adminconsole.adobe.com/" target="_blank">Adobe Admin Console</a>에 액세스해야 합니다. 아직 Adobe ID을 설정하지 않은 경우 <a href="https://helpx.adobe.com/kr/manage-account/using/create-update-adobe-id.html" target="_blank">여기에서 설정하는 방법을 알아보세요</a>.
+<td>아래 단계를 따라 <a href="https://adminconsole.adobe.com/" target="_blank">Adobe Admin Console</a>에 액세스해야 합니다. 아직 Adobe ID을 설정하지 않은 경우 <a href="https://helpx.adobe.com/manage-account/using/create-update-adobe-id.html" target="_blank">여기에서 설정하는 방법을 알아보세요</a>.
 <br/>
 <li><a href="/help/marketo/product-docs/demand-generation/dynamic-chat/setup-and-configuration/initial-setup.md" target="_blank">Dynamic Chat 제품 관리자</a> 초대를 수락했습니까? Dynamic Chat이 Marketo Engage 인스턴스에서 활성화되고 사용자가 시스템 관리자로 지정되면 이메일이 전송됩니다.
 <br/>     없는 경우 받은 편지함에서 환영 이메일을 찾고 초대를 수락하여 Adobe ID을 설정합니다.</li>
@@ -351,7 +351,7 @@ ht-degree: 1%
 <li>켜거나 꺼야 하는 기능이 있습니까?</li></td>
   </tr>
   <tr>
-   <td>캠페인 검사자</td>
+   <td>캠페인 검사기</td>
    <td><li><a href="/help/marketo/product-docs/administration/settings/campaign-inspector.md" target="_blank">Campaign Inspector</a>가 켜져 있습니까?
 <br/>활성화되지 않은 경우 켜서 활성 캠페인, CRM과 동기화 또는 레코드 삭제 등을 쉽게 식별하십시오.</li></td>
   </tr>

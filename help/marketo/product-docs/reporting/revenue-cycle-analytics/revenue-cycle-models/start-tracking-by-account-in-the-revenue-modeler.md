@@ -1,17 +1,17 @@
 ---
 unique-page-id: 4718681
 description: 매출 Modeler - Marketo 문서 - 제품 설명서에서 계정별 추적 시작
-title: 매출 Modeler에서 계정별 추적 시작
+title: Revenue Modeler에서 계정별 추적 시작
 exl-id: 5ad6829c-6dad-4133-95a2-b01b066253ca
 feature: Reporting, Revenue Cycle Analytics
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '227'
-ht-degree: 0%
+ht-degree: 7%
 
 ---
 
-# 매출 Modeler에서 계정별 추적 시작 {#start-tracking-by-account-in-the-revenue-modeler}
+# Revenue Modeler에서 계정별 추적 시작 {#start-tracking-by-account-in-the-revenue-modeler}
 
 매출 단계 Modeler 및 [!UICONTROL Revenue Explorer]을(를) 사용하면 모델을 통해 진행되는 리드 및 계정의 성능에 insight을 활용할 수 있습니다.
 

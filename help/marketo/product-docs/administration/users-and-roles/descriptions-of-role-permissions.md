@@ -4,10 +4,10 @@ description: 역할 권한 설명 - Marketo 문서 - 제품 설명서
 title: 역할 권한 설명
 exl-id: 00963cd9-2d53-455f-bc6f-42a573468ff9
 feature: Users and Roles
-source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '1447'
-ht-degree: 0%
+ht-degree: 1%
 
 ---
 
@@ -177,7 +177,7 @@ _&#42;기존 사용자가 중단되는 것을 방지하기 위해 이 권한은 
    * 세분화 삭제
    * 세분화 편집
 
-* 개인 삭제
+* 사용자 삭제
 * &#42; 목록 만들기
    * 데이터베이스 및 마케팅 활동에서 목록 자산을 만들기 위한 액세스 권한
    * 데이터베이스 및 마케팅 활동에서 스마트 목록 자산을 만들기 위한 액세스 권한

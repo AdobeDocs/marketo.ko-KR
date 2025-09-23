@@ -1,13 +1,13 @@
 ---
 unique-page-id: 11375827
 description: Marketo과 Dynamics 동기화 필수 필드 - Marketo 문서 - 제품 설명서
-title: Marketo과 Dynamics 동기화 필수 필드
+title: Marketo와 Dynamics 동기화에 필요한 필드
 exl-id: c1b9d208-bdc0-4718-b3e5-e9e915b8ae0f
 feature: Marketo Sales Insights
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '150'
-ht-degree: 1%
+ht-degree: 6%
 
 ---
 
@@ -47,7 +47,7 @@ ht-degree: 1%
 
    ![](assets/image2016-6-8-13-3a36-3a36.png)
 
-1. **[!UICONTROL Save]**&#x200B;을(를) 클릭합니다.
+1. **[!UICONTROL Save]**&#x200B;를 클릭합니다.
 
    ![](assets/image2016-6-8-13-3a41-3a27.png)
 

@@ -4,10 +4,10 @@ description: 리치 텍스트 편집기 사용 - Marketo 문서 - 제품 설명�
 title: 리치 텍스트 편집기 사용
 exl-id: 9b2d6d41-f947-4859-aad9-a10c15eb013a
 feature: Email Editor
-source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '659'
-ht-degree: 1%
+ht-degree: 3%
 
 ---
 
@@ -23,15 +23,15 @@ ht-degree: 1%
 >
 >루트 블록 요소를 선택하는 옵션이 있지만 항상 최상의 사용자 경험을 위해 기본 설정을 사용하는 것이 좋습니다.
 
-1. **[!UICONTROL Admin]**&#x200B;을(를) 클릭합니다.
+1. **[!UICONTROL Admin]**&#x200B;를 클릭합니다.
 
    ![](assets/one.png)
 
-1. **[!UICONTROL Email]**&#x200B;을(를) 클릭합니다.
+1. **[!UICONTROL Email]**&#x200B;를 클릭합니다.
 
    ![](assets/two.png)
 
-1. **[!UICONTROL Edit Text Editor Settings]**&#x200B;을(를) 클릭합니다.
+1. **[!UICONTROL Edit Text Editor Settings]**&#x200B;를 클릭합니다.
 
    ![](assets/three.png)
 
@@ -115,15 +115,15 @@ ht-degree: 1%
 >
 >루트 블록 요소를 선택하는 옵션이 있지만 항상 최상의 사용자 경험을 위해 기본 설정을 사용하는 것이 좋습니다.
 
-1. **[!UICONTROL Admin]**&#x200B;을(를) 클릭합니다.
+1. **[!UICONTROL Admin]**&#x200B;를 클릭합니다.
 
    ![](assets/one.png)
 
-1. **[!UICONTROL Email]**&#x200B;을(를) 클릭합니다.
+1. **[!UICONTROL Email]**&#x200B;를 클릭합니다.
 
    ![](assets/two.png)
 
-1. **[!UICONTROL Edit Text Editor Settings]**&#x200B;을(를) 클릭합니다.
+1. **[!UICONTROL Edit Text Editor Settings]**&#x200B;를 클릭합니다.
 
    ![](assets/three.png)
 

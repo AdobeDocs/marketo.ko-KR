@@ -1,12 +1,12 @@
 ---
-description: 내 서버에서 판매 Insight 작업을 어떻게 허용 목록 할 수 있습니까? - Marketo 문서 - 제품 설명서
-title: 내 서버에서 판매 Insight 작업을 어떻게 허용 목록 할 수 있습니까?
+description: 내 서버에서 판매 Insight 작업을 어떻게 허용 목록 할 수 있습니까? - Marketo 설명서 - 제품 설명서
+title: 내 서버에서 Sales Insight Actions를 허용 목록에 추가하려면 어떻게 해야 합니까?
 exl-id: 55ec5552-d71c-4f86-a8c8-44d6d9cb2c0b
 feature: Sales Insight Actions
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '69'
-ht-degree: 0%
+ht-degree: 20%
 
 ---
 

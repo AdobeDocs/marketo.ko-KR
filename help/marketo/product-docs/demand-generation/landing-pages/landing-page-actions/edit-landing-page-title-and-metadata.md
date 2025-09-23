@@ -4,10 +4,10 @@ description: 랜딩 페이지 제목 및 메타데이터 편집 - Marketo 문서
 title: 랜딩 페이지 제목 및 메타데이터 편집
 exl-id: dc31eeee-fd96-4721-b346-c3cde0383fea
 feature: Landing Pages
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '116'
-ht-degree: 0%
+ht-degree: 11%
 
 ---
 
@@ -27,7 +27,7 @@ Marketo을 사용하면 랜딩 페이지 [SEO 목적의 메타 태그](https://w
 
    ![](assets/image2014-9-17-11-3a39-3a32.png)
 
-1. 페이지의 **[!UICONTROL Title]**, **[!UICONTROL Keywords]** 및 **[!UICONTROL Description]**&#x200B;을(를) 입력하십시오. 원하는 **[!UICONTROL Robots]** 옵션을 선택하고 HTML `<head>` 섹션에 대해 원하는 사용자 지정 콘텐츠를 입력합니다. **[!UICONTROL Save]**&#x200B;을(를) 클릭합니다.
+1. 페이지의 **[!UICONTROL Title]**, **[!UICONTROL Keywords]** 및 **[!UICONTROL Description]**&#x200B;을(를) 입력하십시오. 원하는 **[!UICONTROL Robots]** 옵션을 선택하고 HTML `<head>` 섹션에 대해 원하는 사용자 지정 콘텐츠를 입력합니다. **[!UICONTROL Save]**&#x200B;를 클릭합니다.
 
    ![](assets/image2014-9-17-11-3a39-3a50.png)
 

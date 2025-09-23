@@ -1,17 +1,17 @@
 ---
 unique-page-id: 14352530
 description: 명령 센터 개요 - Marketo 문서 - 제품 설명서
-title: 관리 센터 개요
+title: Command Center 개요
 exl-id: 141fa369-9ef9-48c7-a7ff-f5265d0e9ca5
 feature: Marketo Sales Connect
-source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '556'
-ht-degree: 0%
+ht-degree: 1%
 
 ---
 
-# 관리 센터 개요 {#command-center-overview}
+# Command Center 개요 {#command-center-overview}
 
 Comcommend Center는 다음 단계를 파악하는 데 도움이 되는 통합된 단일 뷰이며, 이때 어떤 것도 중단되지 않도록 합니다.
 

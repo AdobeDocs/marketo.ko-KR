@@ -1,16 +1,16 @@
 ---
 description: 인력에 대한 대량 작업 - Marketo 문서 - 제품 설명서
-title: 사람에 대한 대량 작업
+title: 사용자에 대한 일괄 작업
 exl-id: fcd89688-6905-4714-9254-42873eca8428
 feature: Sales Insight Actions
-source-git-commit: 03f3824f67a2b72ad164bf5ecc0bfcf9748db3ff
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '129'
-ht-degree: 2%
+ht-degree: 8%
 
 ---
 
-# 사람에 대한 대량 작업 {#bulk-actions-on-people}
+# 사용자에 대한 일괄 작업 {#bulk-actions-on-people}
 
 시간을 절약하기 위해 연락처를 대량으로 사용하여 수행할 수 있는 몇 가지 작업이 있습니다.
 

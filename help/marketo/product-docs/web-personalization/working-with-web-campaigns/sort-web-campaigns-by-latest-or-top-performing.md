@@ -1,17 +1,17 @@
 ---
 unique-page-id: 2951252
 description: 최신 또는 최고 실적을 기준으로 웹 캠페인 정렬 - Marketo 문서 - 제품 설명서
-title: 최신 성과 또는 최고 성과별로 웹 캠페인 정렬
+title: 최신순 또는 최고 성과순으로 웹 캠페인 정렬
 exl-id: af4483b5-6ac6-404e-9ea6-be0d4edffdc6
 feature: Web Personalization
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '84'
-ht-degree: 0%
+ht-degree: 19%
 
 ---
 
-# 최신 성과 또는 최고 성과별로 웹 캠페인 정렬 {#sort-web-campaigns-by-latest-or-top-performing}
+# 최신순 또는 최고 성과순으로 웹 캠페인 정렬 {#sort-web-campaigns-by-latest-or-top-performing}
 
 두 가지 방법으로 웹 캠페인을 정렬할 수 있습니다.
 

@@ -4,10 +4,10 @@ description: SEO - 필터 키워드 결과 - Marketo 문서 - 제품 설명서
 title: SEO - 키워드 결과 필터링
 exl-id: 8f237814-09b7-4041-9fe7-bb9a6ce016ca
 feature: SEO
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
-source-wordcount: '146'
-ht-degree: 0%
+source-wordcount: '142'
+ht-degree: 5%
 
 ---
 
@@ -17,7 +17,7 @@ ht-degree: 0%
 
 ## 목록으로 필터링 {#filter-by-list}
 
-1. **[!UICONTROL 키워드]** 섹션으로 이동합니다.
+1. **[!UICONTROL Keywords]** 섹션으로 이동합니다.
 
    ![](assets/image2014-9-18-11-3a55-3a8.png)
 
@@ -33,7 +33,7 @@ ht-degree: 0%
 
 ## SERP 등급으로 필터링 {#filter-by-serp-rank}
 
-1. [!UICONTROL 키워드] 섹션으로 이동합니다.
+1. [!UICONTROL Keywords] 섹션으로 이동합니다.
 
    ![](assets/image2014-9-18-12-3a0-3a10.png)
 
@@ -47,10 +47,10 @@ ht-degree: 0%
 
 오른쪽 상단의 검색 필드를 사용하여 원하는 키워드를 찾을 수도 있습니다.
 
-1. **[!UICONTROL 키워드]** 섹션으로 이동합니다.
+1. **[!UICONTROL Keywords]** 섹션으로 이동합니다.
 
    ![](assets/image2014-9-18-12-3a0-3a50.png)
 
-1. **[!UICONTROL 검색]** 필드에 키워드를 입력하십시오.
+1. **[!UICONTROL Search]** 필드에 키워드를 입력하십시오.
 
    ![](assets/image2014-9-18-12-3a1-3a7.png)

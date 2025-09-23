@@ -4,10 +4,10 @@ description: 스마트 목록 필터 연산자 용어집 - Marketo 문서 - 제�
 title: 스마트 목록 필터 연산자 용어집
 exl-id: 5a370482-f214-4909-bb49-801c1a36b153
 feature: Smart Lists
-source-git-commit: 4bf27f7eb534ec76983a898d020f0b8c336a36dc
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
-source-wordcount: '616'
-ht-degree: 11%
+source-wordcount: '603'
+ht-degree: 14%
 
 ---
 
@@ -92,12 +92,12 @@ ht-degree: 11%
   </tr>
   <tr>
     <td>비어 있음</td>
-    <td>없음</td>
+    <td>None</td>
     <td>날짜가 없는 모든 레코드</td>
   </tr>
   <tr>
     <td>비어 있지 않음</td>
-    <td>없음</td>
+    <td>None</td>
     <td>모든 날짜가 포함된 모든 레코드</td>
   </tr>
 </tbody></table>
@@ -118,7 +118,7 @@ ht-degree: 11%
 
 >[!CAUTION]
 >
->날짜 필드 필터(예: 생년월일, SFDC 생성 날짜)를 사용하여 스마트 목록을 만들고 **[!UICONTROL 이전]**, **[!UICONTROL 다음 또는 이전]** 또는 **[!UICONTROL 이전]**&#x200B;의 제약 조건을 사용하는 경우 스마트 목록에는 해당 날짜 필드에 값이 없는 사람도 포함됩니다.
+>날짜 필드 필터(예: 생년월일, SFDC 생성 날짜)를 사용하여 스마트 목록을 만들고 **[!UICONTROL before]**, **[!UICONTROL on or before]** 또는 **[!UICONTROL in past before]** 제약 조건을 사용하면 해당 날짜 필드에 값이 없는 사람도 스마트 목록에 포함됩니다.
 
 다음 다이어그램을 사용하여 날짜 연산자 간의 차이점을 이해합니다.
 
@@ -130,11 +130,11 @@ ht-degree: 11%
 >
 >과거 및 미래 이벤트로 작업할 때 날짜 필드가 까다로워질 수 있습니다. 여기 몇 가지 예가 있습니다.
 >
->**[!UICONTROL 이전]**
+>**[!UICONTROL In past before]**
 >
 >새 프로모션을 위해 이 연산자를 사용하여 1년 이내에 서비스에 가입하거나 서비스를 갱신하지 않은 사람 또는 아직 가입하지 않은 사람에게만 이메일을 보냅니다.
 >
->**[!UICONTROL 다음 이후]**
+>**[!UICONTROL In future after]**
 >
 >90일 후에 재계약을 체결하는 고객을 확인하고자 합니다. 두 개의 별도 필터를 사용합니다. 먼저 &quot;In Future After 90 Days&quot;를 사용하고 두 번째 &quot;In Future 91 Days&quot;를 사용합니다. 그러면 지금으로부터 90일 후에 날짜를 갖는 모든 사람이 캡처됩니다.
 

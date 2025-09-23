@@ -1,17 +1,17 @@
 ---
 unique-page-id: 4719404
 description: AB 웹 캠페인 테스트 - Marketo 문서 - 제품 설명서
-title: AB 웹 캠페인 테스트
+title: 웹 캠페인 AB 테스트
 exl-id: 65d61b96-d39b-4388-971d-260c9c0aff93
 feature: Web Personalization
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '301'
-ht-degree: 1%
+ht-degree: 4%
 
 ---
 
-# AB 웹 캠페인 테스트 {#ab-test-your-web-campaign}
+# 웹 캠페인 AB 테스트 {#ab-test-your-web-campaign}
 
 테스트는 더 나은 참여를 위해 웹 캠페인을 최적화하는 좋은 방법입니다. 시작하는 방법은 다음과 같습니다.
 
@@ -31,7 +31,7 @@ ht-degree: 1%
    >
    >원하는 캠페인을 더 쉽게 찾으려면 [필터 기능](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/filter-web-campaigns.md)을 사용하세요.
 
-1. A/B 테스트를 수행할 첫 번째 캠페인을 선택합니다. **[!UICONTROL Edit]**&#x200B;을(를) 클릭합니다.
+1. A/B 테스트를 수행할 첫 번째 캠페인을 선택합니다. **[!UICONTROL Edit]**&#x200B;를 클릭합니다.
 
    ![](assets/image2016-11-4-13-3a46-3a37.png)
 
@@ -51,7 +51,7 @@ ht-degree: 1%
 
 1. 두 번째 캠페인으로 위의 프로세스를 반복합니다.
 
-1. A/B 테스트를 수행할 두 번째 캠페인을 선택합니다. **[!UICONTROL Edit]**&#x200B;을(를) 클릭합니다.
+1. A/B 테스트를 수행할 두 번째 캠페인을 선택합니다. **[!UICONTROL Edit]**&#x200B;를 클릭합니다.
 
    ![](assets/image2016-11-4-13-3a51-3a39.png)
 

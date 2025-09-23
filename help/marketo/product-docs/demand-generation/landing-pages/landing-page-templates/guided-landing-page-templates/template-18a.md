@@ -4,16 +4,16 @@ description: 템플릿 18A - Marketo 문서 - 제품 설명서
 title: 템플릿 18A
 exl-id: fe3008b5-cef3-4b9e-a0a1-7e596d855a8f
 feature: Landing Pages, Guided Landing Page Templates
-source-git-commit: 21bcdc10fe1f3517612efe0f8e2adaf2f4411a70
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '49'
-ht-degree: 0%
+ht-degree: 8%
 
 ---
 
 # 템플릿 18A {#template-18a}
 
-마우스 오른쪽 단추를 클릭하여 [템플릿 18A 다운로드](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-18a.html?lang=ko)
+마우스 오른쪽 단추를 클릭하여 [템플릿 18A 다운로드](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-18a.html)
 
 ![](assets/image2015-8-17-17-3a57-3a23.png)
 
@@ -29,4 +29,4 @@ ht-degree: 0%
 
 **이 서식 파일을 다운로드하려면 아래를 마우스 오른쪽 단추로 클릭하세요.**
 
-[템플릿 18A.html](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-18a.html?lang=ko)
+[템플릿 18A.html](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-18a.html)

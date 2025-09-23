@@ -1,17 +1,17 @@
 ---
 unique-page-id: 6848782
 description: 구독 취소 메시지를 동적인 언어 - Marketo 문서 - 제품 설명서로 만들기
-title: 언어에 대해 구독 취소 메시지를 동적으로 만들기
+title: 구독 취소 메시지를 언어에 따라 동적으로 만들기
 exl-id: 953a7fd8-b1f2-4f3f-b889-87d1f0471e0d
 feature: Email Setup
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
-source-wordcount: '491'
-ht-degree: 1%
+source-wordcount: '434'
+ht-degree: 6%
 
 ---
 
-# 언어에 대해 구독 취소 메시지를 동적으로 만들기 {#make-your-unsubscribe-message-dynamic-for-languages}
+# 구독 취소 메시지를 언어에 따라 동적으로 만들기 {#make-your-unsubscribe-message-dynamic-for-languages}
 
 기본 구독 취소 메시지 및 링크는 영어입니다. 다이내믹 콘텐츠를 사용하여 다른 언어로 표시할 수 있습니다.
 
@@ -29,15 +29,15 @@ ht-degree: 1%
 
 ## 세분화 만들기 {#create-segmentation}
 
-1. **[!UICONTROL 데이터베이스]**(으)로 이동합니다.
+1. **[!UICONTROL Database]**(으)로 이동합니다.
 
    ![](assets/make-your-unsubscribe-message-dynamic-for-languages-1.png)
 
-1. **[!UICONTROL 새로 만들기]** 드롭다운에서 **[!UICONTROL 새 세분화]**&#x200B;을 클릭합니다.
+1. **[!UICONTROL New]** 드롭다운에서 **[!UICONTROL New Segmentation]**&#x200B;을(를) 클릭합니다.
 
    ![](assets/make-your-unsubscribe-message-dynamic-for-languages-2.png)
 
-1. 세분화 이름을 **[!UICONTROL 기본 언어]**&#x200B;로 지정합니다. **[!UICONTROL 세그먼트 추가]**&#x200B;를 클릭합니다. 언어를 입력합니다.
+1. 세분화 이름을 **[!UICONTROL Preferred Language]**&#x200B;로 지정합니다. **[!UICONTROL Add Segment]**&#x200B;을(를) 클릭합니다. 언어를 입력합니다.
 
    ![](assets/make-your-unsubscribe-message-dynamic-for-languages-3.png)
 
@@ -45,7 +45,7 @@ ht-degree: 1%
    >
    >기본 세그먼트는 영어입니다.
 
-1. 모든 언어가 표시될 때까지 세그먼트를 계속 추가합니다. **[!UICONTROL 만들기]**&#x200B;를 클릭합니다.
+1. 모든 언어가 표시될 때까지 세그먼트를 계속 추가합니다. **[!UICONTROL Create]**&#x200B;를 클릭합니다.
 
    ![](assets/make-your-unsubscribe-message-dynamic-for-languages-4.png)
 
@@ -53,7 +53,7 @@ ht-degree: 1%
 
    ![](assets/make-your-unsubscribe-message-dynamic-for-languages-5.png)
 
-1. **[!UICONTROL 스마트 목록]** 탭으로 이동합니다. 검색 필드에 **[!UICONTROL 기본 언어]**&#x200B;를 입력합니다. 필터를 캔버스에 드래그하여 놓습니다.
+1. **[!UICONTROL Smart List]** 탭으로 이동합니다. 검색 필드에 **[!UICONTROL Preferred Language]**&#x200B;을(를) 입력합니다. 필터를 캔버스에 드래그하여 놓습니다.
 
    ![](assets/make-your-unsubscribe-message-dynamic-for-languages-6.png)
 
@@ -61,21 +61,21 @@ ht-degree: 1%
 
    ![](assets/make-your-unsubscribe-message-dynamic-for-languages-7.png)
 
-1. 다른 모든 언어에 대해 이 작업을 반복합니다. 그런 다음 **[!UICONTROL 세그먼테이션 작업]** 드롭다운을 선택하고 **[!UICONTROL 승인]**&#x200B;을 클릭합니다.
+1. 다른 모든 언어에 대해 이 작업을 반복합니다. 그런 다음 **[!UICONTROL Segmentation Actions]** 드롭다운을 선택하고 **[!UICONTROL Approve]**&#x200B;을(를) 클릭합니다.
 
    ![](assets/make-your-unsubscribe-message-dynamic-for-languages-8.png)
 
-## 코드 조각 만들기 {#create-a-snippet}
+## 스니펫 만들기 {#create-a-snippet}
 
-1. **[!UICONTROL 디자인 스튜디오]**(으)로 이동합니다.
+1. **[!UICONTROL Design Studio]**(으)로 이동합니다.
 
    ![](assets/make-your-unsubscribe-message-dynamic-for-languages-9.png)
 
-1. **[!UICONTROL 새로 만들기]** 드롭다운에서 **[!UICONTROL 새 코드 조각]**&#x200B;을 클릭합니다.
+1. **[!UICONTROL New]** 드롭다운에서 **[!UICONTROL New Snippet]**&#x200B;을(를) 클릭합니다.
 
    ![](assets/make-your-unsubscribe-message-dynamic-for-languages-10.png)
 
-1. 코드 조각 이름을 **구독 취소 메시지**&#x200B;로 지정합니다. **[!UICONTROL 만들기]**&#x200B;를 클릭합니다.
+1. 코드 조각 이름을 **구독 취소 메시지**&#x200B;로 지정합니다. **[!UICONTROL Create]**&#x200B;를 클릭합니다.
 
    ![](assets/make-your-unsubscribe-message-dynamic-for-languages-11.png)
 
@@ -83,15 +83,15 @@ ht-degree: 1%
 
    ![](assets/make-your-unsubscribe-message-dynamic-for-languages-12.png)
 
-1. 이 토큰: `{{system.unsubscribeLink}}`을(를) 복사하여 **[!UICONTROL URL]** 필드에 붙여넣으십시오. **[!UICONTROL 삽입]**&#x200B;을 클릭합니다.
+1. 이 토큰: `{{system.unsubscribeLink}}`을(를) 복사하여 **[!UICONTROL URL]** 필드에 붙여넣으십시오. **[!UICONTROL Insert]**&#x200B;를 클릭합니다.
 
    ![](assets/make-your-unsubscribe-message-dynamic-for-languages-13.png)
 
-1. **[!UICONTROL 세그먼테이션]** 섹션에서 **[!UICONTROL 세그먼트별]**&#x200B;을(를) 선택합니다.
+1. **[!UICONTROL Segment By]** 섹션에서 **[!UICONTROL Segmentation]** 선택.
 
    ![](assets/make-your-unsubscribe-message-dynamic-for-languages-14.png)
 
-1. **[!UICONTROL 세그먼테이션]** 드롭다운에서 **[!UICONTROL 기본 언어]**&#x200B;를 입력하고 **[!UICONTROL 기본 언어]**&#x200B;를 선택합니다. **[!UICONTROL 저장]**&#x200B;을 클릭합니다.
+1. **[!UICONTROL Segmentation]** 드롭다운에서 **[!UICONTROL Preferred]**&#x200B;을(를) 입력하고 **[!UICONTROL Preferred Language]**&#x200B;을(를) 선택합니다. **[!UICONTROL Save]**&#x200B;를 클릭합니다.
 
    ![](assets/make-your-unsubscribe-message-dynamic-for-languages-15.png)
 
@@ -99,11 +99,11 @@ ht-degree: 1%
 
    ![](assets/make-your-unsubscribe-message-dynamic-for-languages-16.png)
 
-1. `{{system.unsubscribeLink}}`이(가) **[!UICONTROL URL]** 필드에 있는지 확인하십시오. 선택한 언어와 일치하도록 **[!UICONTROL 텍스트 표시]**&#x200B;를 편집하세요. **[!UICONTROL 적용]**&#x200B;을 클릭합니다.
+1. `{{system.unsubscribeLink}}`이(가) **[!UICONTROL URL]** 필드에 있는지 확인하십시오. 선택한 언어와 일치하도록 **[!UICONTROL Display Text]**&#x200B;을(를) 편집합니다. **[!UICONTROL Apply]**&#x200B;를 클릭합니다.
 
    ![](assets/make-your-unsubscribe-message-dynamic-for-languages-17.png)
 
-1. 모든 세그먼트에 대해 이 작업을 반복합니다. 그런 다음 **[!UICONTROL Design Studio]**(으)로 돌아가서 **[!UICONTROL 코드 조각 작업]** 드롭다운을 클릭한 다음 **[!UICONTROL 승인]**&#x200B;을 클릭합니다.
+1. 모든 세그먼트에 대해 이 작업을 반복합니다. 그런 다음 **[!UICONTROL Design Studio]**(으)로 돌아가서 **[!UICONTROL Snippet Actions]** 드롭다운을 클릭하고 **[!UICONTROL Approve]**&#x200B;을(를) 클릭합니다.
 
    ![](assets/make-your-unsubscribe-message-dynamic-for-languages-18.png)
 
@@ -111,19 +111,19 @@ ht-degree: 1%
 
 ## 이메일에 코드 조각 사용 {#use-snippet-in-an-email}
 
-1. 이메일 편집기 내에서 편집 가능한 요소를 클릭합니다. 그런 다음 톱니바퀴 아이콘을 클릭하고 **[!UICONTROL 조각으로 바꾸기]**&#x200B;를 선택합니다. 편집 가능한 코드 조각 요소를 선택하는 경우 톱니바퀴 아이콘을 클릭하고 **[!UICONTROL 편집]**&#x200B;을 선택합니다.
+1. 이메일 편집기 내에서 편집 가능한 요소를 클릭합니다. 그런 다음 톱니바퀴 아이콘을 클릭하고 **[!UICONTROL Replace with Snippet]**&#x200B;을(를) 선택합니다. 편집 가능한 코드 조각 요소를 선택하는 경우 톱니바퀴 아이콘을 클릭하고 **[!UICONTROL Edit]**&#x200B;을(를) 선택합니다.
 
    ![](assets/make-your-unsubscribe-message-dynamic-for-languages-19.png)
 
-1. 드롭다운에서 코드 조각을 찾아 선택하고 **[!UICONTROL 저장]**&#x200B;을 클릭합니다.
+1. 드롭다운에서 코드 조각을 찾아 선택하고 **[!UICONTROL Save]**&#x200B;을(를) 클릭합니다.
 
    ![](assets/make-your-unsubscribe-message-dynamic-for-languages-20.png)
 
-1. 테스트하려면 **[!UICONTROL 뒤로]**...
+1. 테스트하려면 **[!UICONTROL Back]**&#x200B;을(를) 클릭하십시오.
 
    ![](assets/make-your-unsubscribe-message-dynamic-for-languages-21.png)
 
-1. ...그런 다음 **[!UICONTROL 동적]** 탭을 클릭합니다.
+1. ...그런 다음 **[!UICONTROL Dynamic]** 탭을 클릭합니다.
 
    ![](assets/make-your-unsubscribe-message-dynamic-for-languages-22.png)
 
@@ -139,7 +139,7 @@ ht-degree: 1%
 
 사용자가 기본 언어로 구독 취소 페이지를 방문하도록 하려면 랜딩 페이지 및 확인 페이지에서 동적 콘텐츠를 사용할 수 있습니다.
 
-1. **[!UICONTROL 디자인 스튜디오]**(으)로 이동합니다.
+1. **[!UICONTROL Design Studio]**(으)로 이동합니다.
 
    ![](assets/make-your-unsubscribe-message-dynamic-for-languages-24.png)
 
@@ -147,15 +147,15 @@ ht-degree: 1%
 
    ![](assets/make-your-unsubscribe-message-dynamic-for-languages-25.png)
 
-1. **[!UICONTROL 초안 편집]**&#x200B;을 클릭합니다.
+1. **[!UICONTROL Edit Draft]**&#x200B;를 클릭합니다.
 
    ![](assets/make-your-unsubscribe-message-dynamic-for-languages-26.png)
 
-1. **[!UICONTROL 세그먼트별]**&#x200B;을(를) 선택하십시오.
+1. **[!UICONTROL Segment By]**&#x200B;를 선택합니다.
 
    ![](assets/make-your-unsubscribe-message-dynamic-for-languages-27.png)
 
-1. **[!UICONTROL 기본 언어]** 세그먼트를 찾습니다. **[!UICONTROL 저장]**&#x200B;을 클릭합니다.
+1. **[!UICONTROL Preferred Language]** 세그먼트를 찾습니다. **[!UICONTROL Save]**&#x200B;를 클릭합니다.
 
    ![](assets/make-your-unsubscribe-message-dynamic-for-languages-28.png)
 

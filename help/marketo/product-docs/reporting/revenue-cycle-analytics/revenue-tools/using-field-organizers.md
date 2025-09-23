@@ -1,17 +1,17 @@
 ---
 unique-page-id: 3571892
 description: 필드 이끌이 사용 - Marketo 문서 - 제품 설명서
-title: 필드 이끌이 사용
+title: 필드 조직자 사용
 exl-id: 578969f7-9380-4019-9b86-85c659a216b3
 feature: Reporting, Revenue Cycle Analytics
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '155'
-ht-degree: 1%
+ht-degree: 5%
 
 ---
 
-# 필드 이끌이 사용 {#using-field-organizers}
+# 필드 조직자 사용 {#using-field-organizers}
 
 필드 구성자는 모든 가능한 값 중에서 특정 필드를 지정하는 데 도움이 됩니다. 예를 들어 Territory 필드에 대해 West Coast 및 East Coast 와 같은 의미 있는 그룹을 생성할 수 있습니다. 이렇게 하면 보고서가 더 빨리 실행됩니다.
 
@@ -25,7 +25,7 @@ ht-degree: 1%
 
 ## 필드 이끌이를 만드는 방법 {#how-to-create-field-organizers}
 
-1. **[!UICONTROL Database]**&#x200B;을(를) 클릭합니다.
+1. **[!UICONTROL Database]**&#x200B;를 클릭합니다.
 
    ![](assets/db.png)
 
@@ -37,11 +37,11 @@ ht-degree: 1%
 
    ![](assets/three-1.png)
 
-1. **[!UICONTROL Create]**&#x200B;을(를) 클릭합니다.
+1. **[!UICONTROL Create]**&#x200B;를 클릭합니다.
 
    ![](assets/image2015-9-3-16-3a36-3a31.png)
 
-1. 그룹 이름을 지정하고 적절한 데이터를 입력합니다(선택한 필드의 데이터 유형에 따라 다름). **[!UICONTROL Add Group]**&#x200B;을(를) 클릭합니다.
+1. 그룹 이름을 지정하고 적절한 데이터를 입력합니다(선택한 필드의 데이터 유형에 따라 다름). **[!UICONTROL Add Group]**&#x200B;를 클릭합니다.
 
    ![](assets/image2015-9-3-16-3a40-3a45.png)
 

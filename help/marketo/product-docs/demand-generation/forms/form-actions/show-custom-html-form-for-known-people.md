@@ -1,17 +1,17 @@
 ---
 unique-page-id: 2359644
 description: 알려진 사용자를 위한 사용자 지정 HTML 양식 표시 - Marketo 문서 - 제품 설명서
-title: 알려진 사용자에 대한 사용자 지정 HTML 양식 표시
+title: 알려진 사용자에 대한 사용자 정의 HTML 양식 표시
 exl-id: 668216ea-7c2b-4204-81a5-56547c3baf1d
 feature: Forms
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '234'
-ht-degree: 1%
+ht-degree: 7%
 
 ---
 
-# 알려진 사용자에 대한 사용자 지정 HTML 양식 표시 {#show-custom-html-form-for-known-people}
+# 알려진 사용자에 대한 사용자 정의 HTML 양식 표시 {#show-custom-html-form-for-known-people}
 
 과거에 방문자가 전체 이름과 이메일 주소를 제공했지만 전체 양식을 받지 못하게 하려는 경우, 일부 사용자 지정 HTML을 표시하는 방법(예: 다운로드 버튼만)을 배웁니다.
 
@@ -52,11 +52,11 @@ ht-degree: 1%
    >
    >위의 네 가지 토큰만 사용할 수 있습니다. 다른 토큰은 여기에서 사용할 수 없습니다.
 
-1. **[!UICONTROL Finish]**&#x200B;을(를) 클릭합니다.
+1. **[!UICONTROL Finish]**&#x200B;를 클릭합니다.
 
    ![](assets/image2014-9-15-12-3a27-3a25.png)
 
-1. **[!UICONTROL Approve and Close]**&#x200B;을(를) 클릭합니다.
+1. **[!UICONTROL Approve and Close]**&#x200B;를 클릭합니다.
 
    >[!NOTE]
    >

@@ -1,12 +1,12 @@
 ---
 description: Salesforce - Marketo 문서 - 제품 설명서와 미리 알림 작업 동기화
-title: Salesforce과 작업 동기화 알림
+title: Salesforce와 알림 작업 동기화
 exl-id: 4de933db-4626-4845-be70-8ad55d03a18e
 feature: Marketo Sales Connect
-source-git-commit: 21bcdc10fe1f3517612efe0f8e2adaf2f4411a70
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '483'
-ht-degree: 0%
+ht-degree: 1%
 
 ---
 

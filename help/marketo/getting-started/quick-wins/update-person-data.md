@@ -4,10 +4,10 @@ description: 개인 데이터 업데이트 - Marketo 문서 - 제품 설명서
 title: 개인 데이터 업데이트
 exl-id: e4fe0df7-5744-41e6-821f-942d247123fc
 feature: Getting Started
-source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '180'
-ht-degree: 0%
+ht-degree: 17%
 
 ---
 
@@ -52,15 +52,15 @@ ht-degree: 0%
 
 >[!CAUTION]
 >
->* 이메일 주소에 ASCII 문자만 포함되어 있는지 확인하십시오.
+>* 이메일 주소에 ASCII 문자만 포함되어 있는지 확인합니다.
 >
->* Marketo은 이모지가 포함된 이메일 주소를 **지원하지 않습니다**.
+>* Marketo는 이모지가 포함된 이메일 주소를 지원하지 **않습니다**.
 
 >[!NOTE]
 >
 >데이터를 변경하면 스마트 목록 및 스마트 캠페인이 새 정보를 즉시 인식합니다.
 
-## 임무 완료 {#mission-complete}
+## 미션 완료 {#mission-complete}
 
 잘했어! 개인 데이터를 업데이트했습니다.
 

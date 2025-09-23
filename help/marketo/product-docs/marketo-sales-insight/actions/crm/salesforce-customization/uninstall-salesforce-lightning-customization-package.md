@@ -3,7 +3,7 @@ description: Salesforce Lightning 사용자 지정 패키지 제거 - Marketo �
 title: Salesforce Lightning 사용자 지정 패키지 제거
 exl-id: 4af89222-22b1-4c08-8081-3dab89d1985b
 feature: Sales Insight Actions
-source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '993'
 ht-degree: 11%
@@ -20,7 +20,7 @@ MSI 작업 패키지 사용을 시작하면 [!DNL Sales Connect] 계정에서 Ma
 
    ![](assets/uninstall-salesforce-lightning-customization-package-1.png)
 
-1. **[!UICONTROL Object Manager]**&#x200B;을(를) 클릭합니다.
+1. **[!UICONTROL Object Manager]**&#x200B;를 클릭합니다.
 
    ![](assets/uninstall-salesforce-lightning-customization-package-2.png)
 
@@ -28,11 +28,11 @@ MSI 작업 패키지 사용을 시작하면 [!DNL Sales Connect] 계정에서 Ma
 
    ![](assets/uninstall-salesforce-lightning-customization-package-3.png)
 
-1. **[!UICONTROL Page Layouts]**&#x200B;을(를) 클릭합니다.
+1. **[!UICONTROL Page Layouts]**&#x200B;를 클릭합니다.
 
    ![](assets/uninstall-salesforce-lightning-customization-package-4.png)
 
-1. **[!UICONTROL Lead Layout]**&#x200B;을(를) 클릭합니다.
+1. **[!UICONTROL Lead Layout]**&#x200B;를 클릭합니다.
 
    ![](assets/uninstall-salesforce-lightning-customization-package-5.png)
 
@@ -98,7 +98,7 @@ MSI 작업 패키지 사용을 시작하면 [!DNL Sales Connect] 계정에서 Ma
 
    ![](assets/uninstall-salesforce-lightning-customization-package-14.png)
 
-1. **[!UICONTROL Object Manager]**&#x200B;을(를) 클릭합니다.
+1. **[!UICONTROL Object Manager]**&#x200B;를 클릭합니다.
 
    ![](assets/uninstall-salesforce-lightning-customization-package-15.png)
 
@@ -106,7 +106,7 @@ MSI 작업 패키지 사용을 시작하면 [!DNL Sales Connect] 계정에서 Ma
 
    ![](assets/uninstall-salesforce-lightning-customization-package-16.png)
 
-1. **[!UICONTROL Search Layouts]**&#x200B;을(를) 클릭합니다.
+1. **[!UICONTROL Search Layouts]**&#x200B;를 클릭합니다.
 
    ![](assets/uninstall-salesforce-lightning-customization-package-17.png)
 
@@ -124,13 +124,13 @@ MSI 작업 패키지 사용을 시작하면 [!DNL Sales Connect] 계정에서 Ma
 
 1. [!DNL Salesforce Lightning]에서 톱니바퀴 아이콘을 클릭하고 **[!UICONTROL Setup]**&#x200B;을(를) 선택합니다.
 
-1. **[!UICONTROL Object Manager]**&#x200B;을(를) 클릭합니다.
+1. **[!UICONTROL Object Manager]**&#x200B;를 클릭합니다.
 
 1. 아래로 스크롤하여 **[!UICONTROL Contact]**&#x200B;을(를) 선택합니다.
 
-1. **[!UICONTROL Page Layouts]**&#x200B;을(를) 클릭합니다.
+1. **[!UICONTROL Page Layouts]**&#x200B;를 클릭합니다.
 
-1. **[!UICONTROL Contact Layout]**&#x200B;을(를) 클릭합니다.
+1. **[!UICONTROL Contact Layout]**&#x200B;를 클릭합니다.
 
 1. 세 섹션 모두에서 단계를 반복합니다.
 
@@ -138,13 +138,13 @@ MSI 작업 패키지 사용을 시작하면 [!DNL Sales Connect] 계정에서 Ma
 
 1. [!DNL Salesforce Lightning]에서 톱니바퀴 아이콘을 클릭하고 **[!UICONTROL Setup]**&#x200B;을(를) 선택합니다.
 
-1. **[!UICONTROL Object Manager]**&#x200B;을(를) 클릭합니다.
+1. **[!UICONTROL Object Manager]**&#x200B;를 클릭합니다.
 
 1. 아래로 스크롤하여 **[!UICONTROL Opportunity]**&#x200B;을(를) 선택합니다.
 
-1. **[!UICONTROL Page Layouts]**&#x200B;을(를) 클릭합니다.
+1. **[!UICONTROL Page Layouts]**&#x200B;를 클릭합니다.
 
-1. **[!UICONTROL Opportunity Layout]**&#x200B;을(를) 클릭합니다.
+1. **[!UICONTROL Opportunity Layout]**&#x200B;를 클릭합니다.
 
 Opportunity 보기에는 &quot;MSE Email 보내기&quot; 버튼 및 다음 필드만 있습니다.
 
@@ -154,13 +154,13 @@ Opportunity 보기에는 &quot;MSE Email 보내기&quot; 버튼 및 다음 필�
 
 1. [!DNL Salesforce Lightning]에서 톱니바퀴 아이콘을 클릭하고 **[!UICONTROL Setup]**&#x200B;을(를) 선택합니다.
 
-1. **[!UICONTROL Object Manager]**&#x200B;을(를) 클릭합니다.
+1. **[!UICONTROL Object Manager]**&#x200B;를 클릭합니다.
 
 1. 아래로 스크롤하여 **[!UICONTROL Account]**&#x200B;을(를) 선택합니다.
 
-1. **[!UICONTROL Page Layouts]**&#x200B;을(를) 클릭합니다.
+1. **[!UICONTROL Page Layouts]**&#x200B;를 클릭합니다.
 
-1. **[!UICONTROL Account Layout]**&#x200B;을(를) 클릭합니다.
+1. **[!UICONTROL Account Layout]**&#x200B;를 클릭합니다.
 
 계정 보기에는 &quot;MSE 이메일 보내기&quot; 버튼과 다음 필드만 있습니다.
 
@@ -170,7 +170,7 @@ Opportunity 보기에는 &quot;MSE Email 보내기&quot; 버튼 및 다음 필�
 
 1. [!DNL Salesforce]에서 화면 상단의 **+** 탭을 클릭합니다.
 
-1. **[!UICONTROL Customize My Tabs]**&#x200B;을(를) 클릭합니다.
+1. **[!UICONTROL Customize My Tabs]**&#x200B;를 클릭합니다.
 
 1. 오른쪽에서 Marketo Sales Outbox 옵션을 선택합니다. [!UICONTROL Remove] 화살표를 클릭한 다음 **[!UICONTROL Save]**&#x200B;을(를) 클릭합니다.
 

@@ -1,17 +1,17 @@
 ---
 unique-page-id: 1147124
 description: Assets 탭 사용 - Marketo 문서 - 제품 설명서
-title: Assets 탭 사용
+title: 자산 탭 사용
 exl-id: 7e7679bb-f83d-4b7f-adfb-2733259eeac2
 feature: Programs
-source-git-commit: 86f9e9f13b24a82deb50ec4c398035d7d7479d20
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
-source-wordcount: '137'
-ht-degree: 0%
+source-wordcount: '136'
+ht-degree: 8%
 
 ---
 
-# Assets 탭 사용 {#using-the-assets-tab}
+# 자산 탭 사용 {#using-the-assets-tab}
 
 에셋 캔버스는 기본 또는 이벤트 프로그램을 시각적으로 표현한 것입니다. 로컬 자산을 추가하고 기존 자산과 상호 작용하는 데 사용할 수 있습니다.
 
@@ -25,9 +25,9 @@ ht-degree: 0%
 
 프로그램에 자산이 있으면 여기에 나열된 자산이 표시됩니다.
 
-| 주황 | 캠페인 트리거 |
+| 주황 | 트리거 캠페인 |
 |---|---|
-| 녹색 | 일괄 캠페인 |
+| 녹색 | 배치 캠페인 |
 
 해당 에셋과 상호 작용하려면 헤더를 마우스 오른쪽 버튼으로 클릭할 수 있습니다.
 

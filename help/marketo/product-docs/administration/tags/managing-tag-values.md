@@ -4,10 +4,10 @@ description: 태그 값 관리 - Marketo 문서 - 제품 설명서
 title: 태그 값 관리
 exl-id: cb733007-fc8b-4d7a-a341-b40ea5d4febe
 feature: Tags
-source-git-commit: 02b2e39580c5eac63de4b4b7fdaf2a835fdd4ba5
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
-source-wordcount: '177'
-ht-degree: 0%
+source-wordcount: '158'
+ht-degree: 8%
 
 ---
 
@@ -25,27 +25,27 @@ ht-degree: 0%
 
 ## 태그 값 추가 {#adding-tag-values}
 
-1. **[!UICONTROL 관리자]** 영역으로 이동합니다.
+1. **[!UICONTROL Admin]** 영역으로 이동합니다.
 
    ![](assets/managing-tag-values-1.png)
 
-1. **[!UICONTROL 태그]**&#x200B;를 클릭합니다.
+1. **[!UICONTROL Tags]**&#x200B;를 클릭합니다.
 
    ![](assets/managing-tag-values-2.png)
 
-1. **[!UICONTROL 새로 만들기]**&#x200B;를 클릭한 다음 **[!UICONTROL 새 태그 값]**&#x200B;을 클릭합니다.
+1. **[!UICONTROL New]**&#x200B;을(를) 클릭한 다음 **[!UICONTROL New Tag Value]**&#x200B;을(를) 클릭합니다.
 
    ![](assets/managing-tag-values-3.png)
 
-1. **[!UICONTROL 태그 형식]**&#x200B;을(를) 선택하십시오.
+1. **[!UICONTROL Tag Type]**&#x200B;을(를) 선택합니다.
 
    ![](assets/managing-tag-values-4.png)
 
-1. **[!UICONTROL 값]**&#x200B;을 입력하고 **[!UICONTROL 다른 값 추가]**&#x200B;를 클릭하세요. 원하는 만큼 값을 추가할 수 있습니다.
+1. **[!UICONTROL Value]**&#x200B;을(를) 입력하고 **[!UICONTROL Add Another]**&#x200B;을(를) 클릭합니다. 원하는 만큼 값을 추가할 수 있습니다.
 
    ![](assets/managing-tag-values-5.png)
 
-1. 나머지 값을 추가하고 **[!UICONTROL 만들기]**&#x200B;를 클릭합니다.
+1. 나머지 값을 추가하고 **[!UICONTROL Create]**&#x200B;을(를) 클릭합니다.
 
    ![](assets/managing-tag-values-6.png)
 
@@ -57,11 +57,11 @@ ht-degree: 0%
 
 태그는 이전 프로그램에서 사용할 수 있습니다. 태그 유형을 숨겨서 나중에 사용할 수 있도록 더 이상 사용하지 않을 수 있습니다.
 
-1. **[!UICONTROL 태그]**&#x200B;를 선택하고 숨길 **[!UICONTROL 값]**&#x200B;을(를) 선택하십시오.
+1. **[!UICONTROL Tag]**&#x200B;을(를) 선택하고 숨길 **[!UICONTROL Value]**&#x200B;을(를) 선택합니다.
 
    ![](assets/managing-tag-values-8.png)
 
-1. **[!UICONTROL 태그 작업]**&#x200B;에서 **[!UICONTROL 숨기기]**&#x200B;를 선택합니다.
+1. **[!UICONTROL Tag Actions]**&#x200B;에서 **[!UICONTROL Hide]**&#x200B;을(를) 선택합니다.
 
    ![](assets/managing-tag-values-9.png)
 
@@ -69,7 +69,7 @@ ht-degree: 0%
 
 숨겨진 값을 다시 보려면 다음을 수행하십시오.
 
-1. **[!UICONTROL 숨김 표시]** 확인란을 선택하십시오. 선택하면 숨겨진 값을 볼 수 있습니다.
+1. **[!UICONTROL Show Hidden]** 확인란을 선택합니다. 선택하면 숨겨진 값을 볼 수 있습니다.
 
    ![](assets/managing-tag-values-10.png)
 

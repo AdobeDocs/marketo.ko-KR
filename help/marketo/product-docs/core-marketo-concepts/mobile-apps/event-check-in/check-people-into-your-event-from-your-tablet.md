@@ -1,17 +1,17 @@
 ---
 unique-page-id: 2949839
 description: 태블릿에서 이벤트 직원 확인 - Marketo 문서 - 제품 설명서
-title: 태블릿에서 다른 사람을 내 이벤트에 체크 인
+title: 태블릿에서 이벤트에 사용자 체크인
 exl-id: b48f5f95-8e36-441f-a785-1651f42f9f60
 feature: Mobile Marketing
-source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '818'
-ht-degree: 0%
+ht-degree: 2%
 
 ---
 
-# 태블릿에서 다른 사람을 내 이벤트에 체크 인 {#check-people-into-your-event-from-your-tablet}
+# 태블릿에서 이벤트에 사용자 체크인 {#check-people-into-your-event-from-your-tablet}
 
 사람들이 이벤트에 나타나면 앱에서 해당 정보를 찾을 수 있습니다. 체크인 후 Marketo에 동기화하면 출석됨 상태로 승격됩니다.
 
@@ -87,7 +87,7 @@ ht-degree: 0%
 
 Marketo 데이터베이스에 기존 사람이 아닌 게스트를 수동으로 추가할 수 있습니다. Marketo과 동기화할 때 자동으로 체크인되고 데이터베이스에 추가됩니다.
 
-1. **[!UICONTROL Add]**&#x200B;을(를) 클릭합니다.
+1. **[!UICONTROL Add]**&#x200B;를 클릭합니다.
 
    **[!DNL iPad]**
 

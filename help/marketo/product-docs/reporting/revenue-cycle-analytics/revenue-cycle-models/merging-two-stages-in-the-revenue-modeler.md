@@ -1,17 +1,17 @@
 ---
 unique-page-id: 4718685
 description: 매출 Modeler - Marketo 문서 - 제품 설명서의 두 단계 병합
-title: 매출 Modeler의 두 단계 병합
+title: Revenue Modeler에서 두 단계 병합
 exl-id: d4798f50-5c3e-469f-b3ae-0a7e6977a116
 feature: Reporting, Revenue Cycle Analytics
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '99'
-ht-degree: 1%
+ht-degree: 15%
 
 ---
 
-# 매출 Modeler의 두 단계 병합 {#merging-two-stages-in-the-revenue-modeler}
+# Revenue Modeler에서 두 단계 병합 {#merging-two-stages-in-the-revenue-modeler}
 
 모델을 승인한 후에는 초안을 편집할 때 단계를 삭제할 수 없습니다. 대신 해당 단계를 다른 단계와 병합할 수 있습니다.
 

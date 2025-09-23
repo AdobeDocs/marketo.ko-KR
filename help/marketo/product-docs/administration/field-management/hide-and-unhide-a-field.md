@@ -4,10 +4,10 @@ description: 필드 숨기기 및 숨기기 취소 - Marketo 문서 - 제품 설
 title: 필드 숨기기 및 숨기기 취소
 exl-id: 14395c31-d0f4-4aec-8592-a60a764a7263
 feature: Field Management
-source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '162'
-ht-degree: 2%
+ht-degree: 13%
 
 ---
 
@@ -25,7 +25,7 @@ Marketo Engage에서 더 이상 필드를 사용할 수 없는 경우 애플리�
 
    ![](assets/hide-and-unhide-a-field-1.png)
 
-1. **[!UICONTROL Field Management]**&#x200B;을(를) 클릭합니다.
+1. **[!UICONTROL Field Management]**&#x200B;를 클릭합니다.
 
    ![](assets/hide-and-unhide-a-field-2.png)
 
@@ -53,7 +53,7 @@ Marketo Engage에서 더 이상 필드를 사용할 수 없는 경우 애플리�
 
    ![](assets/hide-and-unhide-a-field-6.png)
 
-1. **[!UICONTROL Field Management]**&#x200B;을(를) 클릭합니다.
+1. **[!UICONTROL Field Management]**&#x200B;를 클릭합니다.
 
    ![](assets/hide-and-unhide-a-field-7.png)
 

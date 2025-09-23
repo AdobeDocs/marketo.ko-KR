@@ -1,17 +1,17 @@
 ---
 unique-page-id: 5472678
 description: 라틴어가 아닌 문자 목록 가져오기 - Marketo 문서 - 제품 설명서
-title: 라틴어가 아닌 문자 목록 가져오기
+title: 라틴 문자가 아닌 문자 목록 가져오기
 exl-id: 11519e2c-ab01-4164-8ce3-0717e4c13ae6
 feature: Email Programs
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '292'
-ht-degree: 0%
+ht-degree: 15%
 
 ---
 
-# 라틴어가 아닌 문자 목록 가져오기 {#import-a-non-latin-characters-list}
+# 라틴 문자가 아닌 문자 목록 가져오기 {#import-a-non-latin-characters-list}
 
 영어가 아닌 파일을 가져오려고 합니까? Excel로 목록을 열면 목록이 완벽해 보입니다.
 
@@ -69,6 +69,6 @@ Marketo에서 라틴어가 아닌 모든 문자를 인식하도록 파일이 제
 
    >[!NOTE]
    >
-   >가져오는 모든 날짜/시간 필드는 중앙 시간으로 처리됩니다. 다른 시간대에 날짜/시간 필드가 있는 경우 Excel 공식을 사용하여 중부 표준시(아메리카/시카고)로 변환할 수 있습니다.
+   >가져오는 모든 날짜/시간 필드는 중부 표준시로 처리됩니다. 다른 시간대의 날짜/시간 필드가 있는 경우 Excel 수식을 사용하여 중부 표준시(아메리카/시카고)로 변환할 수 있습니다.
 
 우리는 이것이 이상하다는 것을 알지만, 그것은 효과가 있습니다. 해피 가져오기!

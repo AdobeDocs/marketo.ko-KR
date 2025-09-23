@@ -4,14 +4,14 @@ description: 릴리스 노트 - 2019년 8월 - Marketo 문서 - 제품 설명서
 title: 릴리스 노트 - 2019년 8월
 exl-id: 992af312-863c-419c-b6d4-cf5dd3b3e46c
 feature: Release Information
-source-git-commit: ecd225af3ecfd7cb9159faf5a9d384d47ee6312c
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
-source-wordcount: '327'
-ht-degree: 0%
+source-wordcount: '325'
+ht-degree: 1%
 
 ---
 
-# 릴리스 노트: 2019년 8월 {#release-notes-august}
+# 릴리스 정보: 2019년 8월 {#release-notes-august}
 
 다음 기능은 2019년 8월 릴리스에 포함되어 있습니다. Marketo 버전에서 사용 가능한 기능이 있는지 확인하십시오.
 
@@ -50,4 +50,4 @@ ht-degree: 0%
 >
 >**Marketo Engage 액세스를 유지하려면 2019년 12월 13일 이전에 모든 클라이언트 시스템이 TLS 1.2를 준수하는지 확인**&#x200B;하십시오. 자세한 내용은 [여기](https://nation.marketo.com/docs/DOC-7059-tls-10-11-deprecation-faq)를 참조하세요.
 
-**_제품 릴리스 웨비나_** [참여하기](https://engage.marketo.com/August_19_Release_Webinar.html) 8월 28일 오후 1시(PT 기준)/오후 4시(ET 기준)에 제품 팀이 호스팅하는 라이브 웨비나에 대해 알아보고 이 릴리스에 포함된 기능에 대해 자세히 알아보십시오.
+**_제품 릴리스 웨비나_** [참여하기](https://engage.marketo.com/August_19_Release_Webinar.html) 8월 28일 오전 1:00PMPT/4:00PM에 제품 팀이 호스팅하는 라이브 웨비나에 대해 ET로 참여하여 이 릴리스에 포함된 기능에 대해 자세히 알아보십시오.

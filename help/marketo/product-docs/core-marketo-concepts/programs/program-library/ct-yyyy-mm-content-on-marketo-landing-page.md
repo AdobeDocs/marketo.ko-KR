@@ -1,16 +1,16 @@
 ---
 description: Marketo 랜딩 페이지의 CT-YYYY-MM-Content - Marketo 문서 - 제품 설명서
-title: Marketo 랜딩 페이지의 CT-YYYY-MM-Content
+title: CT-YYYY-MM-Marketo 랜딩 페이지의 콘텐츠
 feature: Programs
 exl-id: 638c4d6a-a8c7-4f03-9dae-07fecfb1302b
-source-git-commit: 21bcdc10fe1f3517612efe0f8e2adaf2f4411a70
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '474'
-ht-degree: 6%
+ht-degree: 9%
 
 ---
 
-# Marketo 랜딩 페이지의 CT-YYYY-MM-Content {#ct-yyyy-mm-content-on-marketo-landing-page}
+# CT-YYYY-MM-Marketo 랜딩 페이지의 콘텐츠 {#ct-yyyy-mm-content-on-marketo-landing-page}
 
 이 예제는 Marketo Engage 기본 프로그램을 활용하여 Marketo Engage 양식과 함께 Marketo Engage 랜딩 페이지를 활용하는 컨텐츠 프로그램으로 설계되었습니다. 양식은 콘텐츠/오퍼에 액세스하는 것입니다. 오퍼에 대한 링크는 감사 인사 페이지에 표시하거나, 감사 인사 전자 메일로 전송하거나, 둘 다에 표시할 수 있습니다.
 

@@ -4,10 +4,10 @@ description: 캠페인 활동 보고서 필터링 - Marketo 문서 - 제품 설�
 title: 캠페인 활동 보고서 필터링
 exl-id: c34d6dfa-c635-4ca8-ad4f-bfa5cadaef2d
 feature: Reporting
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '121'
-ht-degree: 0%
+ht-degree: 9%
 
 ---
 
@@ -27,7 +27,7 @@ ht-degree: 0%
 
    ![](assets/filter-a-campaign-activity-report-2.png)
 
-1. 보고서에 포함할 폴더 및 특정 스마트 캠페인을 선택합니다. **[!UICONTROL Apply]**&#x200B;을(를) 클릭합니다.
+1. 보고서에 포함할 폴더 및 특정 스마트 캠페인을 선택합니다. **[!UICONTROL Apply]**&#x200B;를 클릭합니다.
 
    ![](assets/filter-a-campaign-activity-report-3.png)
 

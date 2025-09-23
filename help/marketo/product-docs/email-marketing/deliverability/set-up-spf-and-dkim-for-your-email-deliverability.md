@@ -4,10 +4,10 @@ description: 이메일 전달성을 위한 SPF 및 DKIM 설정 - Marketo 문서 
 title: 이메일 전달성을 위한 SPF 및 DKIM 설정
 exl-id: a0f88e94-3348-4f48-bbd2-963e2af93dc0
 feature: Deliverability
-source-git-commit: b95458ffab422901ef5e674756ae5e413ec542fd
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '421'
-ht-degree: 0%
+ht-degree: 4%
 
 ---
 

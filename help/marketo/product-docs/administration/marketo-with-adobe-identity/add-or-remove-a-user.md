@@ -3,10 +3,10 @@ description: 사용자 추가 또는 제거 - Marketo 문서 - 제품 설명서
 title: 사용자 추가 또는 제거
 exl-id: b1087d41-b548-47bd-91b7-282dc902cba3
 feature: Marketo with Adobe Identity
-source-git-commit: 471a777041361cfebdc8b7139b618ff4dc03e8a8
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
-source-wordcount: '240'
-ht-degree: 2%
+source-wordcount: '232'
+ht-degree: 6%
 
 ---
 
@@ -18,7 +18,7 @@ ht-degree: 2%
 
    ![](assets/add-or-remove-a-user-1.png)
 
-1. **Marketo Engage**&#x200B;을 클릭합니다.
+1. **Marketo Engage**&#x200B;을(를) 클릭합니다.
 
    ![](assets/add-or-remove-a-user-2.png)
 
@@ -26,11 +26,11 @@ ht-degree: 2%
 
    ![](assets/add-or-remove-a-user-3.png)
 
-1. **[!UICONTROL 사용자]** 탭을 클릭합니다.
+1. **[!UICONTROL Users]** 탭을 클릭합니다.
 
    ![](assets/add-or-remove-a-user-4.png)
 
-1. **[!UICONTROL 사용자 추가]** 단추를 클릭합니다.
+1. **[!UICONTROL Add User]** 단추를 클릭합니다.
 
    ![](assets/add-or-remove-a-user-5.png)
 
@@ -46,15 +46,15 @@ ht-degree: 2%
    >
    >Marketo Engage에 액세스하려면 제품 프로필에 _을(를) 추가해야_&#x200B;합니다.
 
-1. **[!UICONTROL 저장]**&#x200B;을 클릭합니다.
+1. **[!UICONTROL Save]**&#x200B;를 클릭합니다.
 
    ![](assets/add-or-remove-a-user-8.png)
 
-그러면 Marketo Engage에 로그인하기 위한 이메일을 받게 됩니다.
+그러면 Marketo Engage에 로그인할 수 있는 이메일이 전송됩니다.
 
 >[!NOTE]
 >
->사용자가 Adobe Admin Console을 통해 Marketo Engage에 추가되면 구독의 기본 작업 영역 내에서 &quot;표준 사용자&quot; 역할이 부여됩니다. 작업 영역 내에서 사용자의 역할을 조정해야 하는 경우 [여기에 설명된 대로 Marketo Engage에서 수행됩니다](/help/marketo/product-docs/administration/users-and-roles/managing-user-roles-and-permissions.md){target="_blank"}.
+>사용자가 Adobe Admin Console을 통해 Marketo Engage에 추가되면 구독의 기본 작업 영역 내에서 &quot;표준 사용자&quot; 역할이 부여됩니다. 작업 영역에서 사용자의 역할을 조정해야 하는 경우 [여기에 설명된 대로 Marketo Engage에서 수행됩니다](/help/marketo/product-docs/administration/users-and-roles/managing-user-roles-and-permissions.md){target="_blank"}.
 
 ## 사용자 제거 {#remove-a-user}
 
@@ -66,7 +66,7 @@ ht-degree: 2%
 
    ![](assets/add-or-remove-a-user-9.png)
 
-1. **Marketo Engage**&#x200B;을 클릭합니다.
+1. **Marketo Engage**&#x200B;을(를) 클릭합니다.
 
    ![](assets/add-or-remove-a-user-10.png)
 
@@ -74,15 +74,15 @@ ht-degree: 2%
 
    ![](assets/add-or-remove-a-user-11.png)
 
-1. **[!UICONTROL 사용자]** 탭을 클릭합니다.
+1. **[!UICONTROL Users]** 탭을 클릭합니다.
 
    ![](assets/add-or-remove-a-user-12.png)
 
-1. 제거할 사용자를 선택하고 **[!UICONTROL 제거]** 단추를 클릭합니다.
+1. 제거할 사용자를 선택하고 **[!UICONTROL Remove]** 단추를 클릭합니다.
 
    ![](assets/add-or-remove-a-user-13.png)
 
-1. 확인하려면 **[!UICONTROL 사용자 제거]**&#x200B;를 클릭하세요.
+1. **[!UICONTROL Remove User]**&#x200B;을(를) 클릭하여 확인합니다.
 
    ![](assets/add-or-remove-a-user-14.png)
 

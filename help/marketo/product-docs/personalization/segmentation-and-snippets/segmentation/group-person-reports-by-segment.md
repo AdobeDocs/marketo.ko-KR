@@ -1,17 +1,17 @@
 ---
 unique-page-id: 2359492
 description: 세그먼트별 개인 보고서 그룹화 - Marketo 문서 - 제품 설명서
-title: 세그먼트별 개인 보고서 그룹화
+title: 세그먼트별 그룹 사용자 보고서
 exl-id: 38c77548-3bfd-484e-ba0a-ccedc2ed6205
 feature: Segmentation
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '106'
-ht-degree: 0%
+ht-degree: 9%
 
 ---
 
-# 세그먼트별 개인 보고서 그룹화 {#group-person-reports-by-segment}
+# 세그먼트별 그룹 사용자 보고서 {#group-person-reports-by-segment}
 
 세분화에서 정의한 모든 세그먼트를 기준으로 개인 보고서를 그룹화할 수 있습니다.
 

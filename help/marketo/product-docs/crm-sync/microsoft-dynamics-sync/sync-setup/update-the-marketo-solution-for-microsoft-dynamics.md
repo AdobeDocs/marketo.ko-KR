@@ -4,10 +4,10 @@ description: ' [!DNL Microsoft Dynamics] 용 Marketo 솔루션 업데이트 - Ma
 title: ' [!DNL Microsoft Dynamics]에 대한 Marketo 솔루션 업데이트'
 exl-id: 76bd722a-f2bf-46df-84e2-827fbbee4ab2
 feature: Microsoft Dynamics
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '156'
-ht-degree: 1%
+ht-degree: 3%
 
 ---
 
@@ -27,7 +27,7 @@ ht-degree: 1%
 
    ![](assets/admin.png)
 
-1. **[!DNL Microsoft Dynamics]**&#x200B;을(를) 클릭합니다.
+1. **[!DNL Microsoft Dynamics]**&#x200B;를 클릭합니다.
 
    ![](assets/image2015-3-16-10-3a51-3a25.png)
 

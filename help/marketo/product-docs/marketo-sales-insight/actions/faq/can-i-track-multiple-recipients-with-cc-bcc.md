@@ -3,10 +3,10 @@ description: CC/BCC - Marketo 문서 - 제품 설명서를 통해 여러 수신�
 title: CC/BCC로 여러 수신자를 추적할 수 있습니까?
 exl-id: cc14cbb5-6c1f-470c-9836-dd853ef7befc
 feature: Sales Insight Actions
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '86'
-ht-degree: 0%
+ht-degree: 9%
 
 ---
 

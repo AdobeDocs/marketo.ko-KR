@@ -1,12 +1,12 @@
 ---
 description: 판매 Insight 작업 계정을 Salesforce - Marketo 문서 - 제품 설명서에 연결
-title: 판매 Insight 작업 계정을 Salesforce에 연결
+title: Sales Insight Actions 계정을 Salesforce에 연결
 exl-id: 5d84d0f0-7867-45a8-b966-5088dca1bfca
 feature: Sales Insight Actions
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '109'
-ht-degree: 1%
+ht-degree: 9%
 
 ---
 
@@ -28,7 +28,7 @@ ht-degree: 1%
 
    ![](assets/connect-your-marketo-sales-account-to-salesforce-3.png)
 
-1. **[!UICONTROL OK]**&#x200B;을(를) 클릭합니다.
+1. **[!UICONTROL OK]**&#x200B;를 클릭합니다.
 
    ![](assets/connect-your-marketo-sales-account-to-salesforce-4.png)
 
@@ -46,7 +46,7 @@ ht-degree: 1%
 
    ![](assets/connect-your-marketo-sales-account-to-salesforce-7.png)
 
-1. **[!UICONTROL OK]**&#x200B;을(를) 클릭합니다.
+1. **[!UICONTROL OK]**&#x200B;를 클릭합니다.
 
    ![](assets/connect-your-marketo-sales-account-to-salesforce-8.png)
 

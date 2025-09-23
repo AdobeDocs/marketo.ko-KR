@@ -3,10 +3,10 @@ description: Salesforce 동기화 상태 - Marketo 문서 - 제품 설명서
 title: Salesforce 동기화 상태
 exl-id: 61197808-7812-4e0a-8ac6-4a60af0f7979
 feature: Salesforce Integration
-source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '542'
-ht-degree: 5%
+ht-degree: 7%
 
 ---
 
@@ -22,7 +22,7 @@ ht-degree: 5%
 
 ## 동기화 상태 보기 {#view-sync-status}
 
-1. **[!UICONTROL Admin]**&#x200B;을(를) 클릭합니다.
+1. **[!UICONTROL Admin]**&#x200B;를 클릭합니다.
 
    ![](assets/salesforce-sync-status-1.png)
 
@@ -44,7 +44,7 @@ ht-degree: 5%
 
    ![](assets/salesforce-sync-status-5.png)
 
-1. **[!UICONTROL Apply]**&#x200B;을(를) 클릭합니다.
+1. **[!UICONTROL Apply]**&#x200B;를 클릭합니다.
 
    ![](assets/salesforce-sync-status-6.png)
 
@@ -92,7 +92,7 @@ ht-degree: 5%
    <td colspan="1">성공, 실패, 미완료, 진행 중, 정리됨*</td>
   </tr>
   <tr>
-   <td colspan="1">새로운 기능</td>
+   <td colspan="1">신규 용어</td>
    <td colspan="1">새 레코드 수</td>
    <td colspan="1"></td>
   </tr>

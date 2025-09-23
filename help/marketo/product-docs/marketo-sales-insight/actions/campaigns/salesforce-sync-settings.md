@@ -3,10 +3,10 @@ description: Salesforce 동기화 설정 - Marketo 문서 - 제품 설명서
 title: Salesforce 동기화 설정
 exl-id: fa13ced2-6184-485f-a0ef-813ccab4f0fe
 feature: Sales Insight Actions
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '574'
-ht-degree: 1%
+ht-degree: 2%
 
 ---
 
@@ -75,7 +75,7 @@ ht-degree: 1%
 1. **[!UICONTROL My Email to Salesforce]**&#x200B;를 선택합니다.
 1. 이 페이지에는 &quot;[!UICONTROL Email to Salesforce Address]&quot;(이)라는 필드가 표시됩니다. 그 옆에 채워진 항목이 없으면 &quot;[!UICONTROL My Acceptable Email Addresses]&quot;(으)로 스크롤합니다.
 1. 숨은 참조를 보낼 이메일 주소를 입력합니다.
-1. **[!UICONTROL Save Changes]**&#x200B;을(를) 클릭합니다.
+1. **[!UICONTROL Save Changes]**&#x200B;를 클릭합니다.
 
 **내 설정에서 [!DNL Salesforce]에게 보낸 내 전자 메일을 찾을 수 없습니다**
 
@@ -85,12 +85,12 @@ ht-degree: 1%
 >
 >이를 설정하려면 관리자 권한이 필요합니다.
 
-1. **[!UICONTROL Setup]**&#x200B;을(를) 클릭합니다.
-1. **[!UICONTROL Email Administration]**&#x200B;을(를) 클릭합니다.
-1. **[!UICONTROL Email to Salesforce]**&#x200B;을(를) 클릭합니다.
-1. **[!UICONTROL Edit]**&#x200B;을(를) 클릭합니다.
+1. **[!UICONTROL Setup]**&#x200B;를 클릭합니다.
+1. **[!UICONTROL Email Administration]**&#x200B;를 클릭합니다.
+1. **[!UICONTROL Email to Salesforce]**&#x200B;를 클릭합니다.
+1. **[!UICONTROL Edit]**&#x200B;를 클릭합니다.
 1. &quot;활성&quot; 옆에 있는 상자를 선택합니다.
-1. **[!UICONTROL Save]**&#x200B;을(를) 클릭합니다.
+1. **[!UICONTROL Save]**&#x200B;를 클릭합니다.
 
 ## [!DNL Sales Insight Actions]개 작업/미리 알림을 [!DNL Salesforce]개 작업에 동기화 {#sync-sales-insight-actions-tasks-reminders-to-salesforce-tasks}
 

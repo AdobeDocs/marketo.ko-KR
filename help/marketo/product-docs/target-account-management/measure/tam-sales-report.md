@@ -1,17 +1,17 @@
 ---
 unique-page-id: 11385183
 description: TAM 영업 보고서 - Marketo 설명서 - 제품 설명서
-title: TAM 영업 보고서
+title: TAM 세일즈 보고서
 exl-id: db4680df-74fd-41a4-9e9c-bf405da97bf0
 feature: Target Account Management
-source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '126'
-ht-degree: 1%
+ht-degree: 9%
 
 ---
 
-# TAM 영업 보고서 {#tam-sales-report}
+# TAM 세일즈 보고서 {#tam-sales-report}
 
 상위 계정 및 주간 트렌드가 포함된 주간 이메일을 수신합니다.
 
@@ -33,7 +33,7 @@ ht-degree: 1%
 <table>
  <tbody>
   <tr>
-   <td><strong><span class="uicontrol">계정 스코어</span></strong></td>
+   <td><strong><span class="uicontrol">계정 점수</span></strong></td>
    <td>
     <div>
       계정 점수별 주별 트렌드(설정에서 선택됨), 현재 계정 점수 뒤

@@ -1,11 +1,11 @@
 ---
-description: 내 캠페인이 종료된 이유는 무엇입니까? - Marketo 문서 - 제품 설명서
+description: 내 캠페인이 종료된 이유는 무엇입니까? - Marketo 설명서 - 제품 설명서
 title: 내 캠페인이 종료된 이유는 무엇입니까?
 exl-id: db53f9ea-9ee2-40c2-a0c5-67b0e916a36d
-source-git-commit: c16081143588ebc0793f5b6e2630b58348e27124
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '81'
-ht-degree: 0%
+ht-degree: 17%
 
 ---
 

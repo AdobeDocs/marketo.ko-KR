@@ -1,11 +1,11 @@
 ---
 description: Salesforce의 판매 Insight 작업 구성 - Marketo 문서 - 제품 설명서
-title: Salesforce의 영업 Insight 작업 구성
+title: Salesforce의 Sales Insight Actions 구성
 exl-id: 2d842886-3501-4aca-96fb-0d6763ab2b01
-source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '207'
-ht-degree: 0%
+ht-degree: 3%
 
 ---
 
@@ -14,7 +14,7 @@ ht-degree: 0%
 >[!PREREQUISITES]
 >
 >* [ 인스턴스에서 ](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/installation/install-marketo-sales-insight-package-in-salesforce-appexchange.md)설치[ 또는 ](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/upgrading/upgrading-your-msi-package.md)업그레이드[!DNL Salesforce] Sales Insight 패키지
->* [Enterprise/Unlimited에서 Marketo Sales Insight 구성 [!DNL Salesforce] 2&rbrace;](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/configuration/configure-marketo-sales-insight-in-salesforce-enterprise-unlimited.md)
+>* [Enterprise/Unlimited에서 Marketo Sales Insight 구성 [!DNL Salesforce] 2}](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/configuration/configure-marketo-sales-insight-in-salesforce-enterprise-unlimited.md)
 
 ## [!DNL Salesforce]에 새 원격 사이트 추가 {#add-new-remote-site-in-salesforce}
 
@@ -22,10 +22,10 @@ ht-degree: 0%
 
    ![](assets/msi-actions-configuration-in-salesforce-1.png)
 
-1. &quot;[!UICONTROL remote site]&quot;을(를) 검색하고 **[!UICONTROL Remote Site Settings]**&#x200B;을(를) 선택합니다.
+1. &quot;[!UICONTROL remote site]&quot;을(를) 검색하고 **[!UICONTROL Remote Site Settings]**을(를) 선택합니다.
    ![](assets/msi-actions-configuration-in-salesforce-2.png)
 
-1. **[!UICONTROL New Remote Site]**&#x200B;을(를) 클릭합니다.
+1. **[!UICONTROL New Remote Site]**&#x200B;를 클릭합니다.
 
    ![](assets/msi-actions-configuration-in-salesforce-3.png)
 

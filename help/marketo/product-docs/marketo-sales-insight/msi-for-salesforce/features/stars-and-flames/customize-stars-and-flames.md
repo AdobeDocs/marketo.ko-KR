@@ -1,17 +1,17 @@
 ---
 unique-page-id: 2360303
 description: 별과 불꽃의 사용자 지정 - Marketo 문서 - 제품 설명서
-title: 별과 불꽃 사용자 지정
+title: Stars 및 Flames 사용자 정의
 exl-id: f8936ee9-a976-45f7-84cc-c95e93bdddc8
 feature: Marketo Sales Insights
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '162'
-ht-degree: 0%
+ht-degree: 4%
 
 ---
 
-# 별과 불꽃 사용자 지정 {#customize-stars-and-flames}
+# Stars 및 Flames 사용자 정의 {#customize-stars-and-flames}
 
 [!DNL Marketo Sales Insight]은(는) 별과 불꽃을 사용하여 잠재 고객의 우선 순위를 지정합니다. Marketo은 자동으로 1-2-3개의 별/불꽃을 받는 사용자를 결정합니다. 그러나 공식을 수정할 수 있습니다. 방법은 다음과 같습니다.
 

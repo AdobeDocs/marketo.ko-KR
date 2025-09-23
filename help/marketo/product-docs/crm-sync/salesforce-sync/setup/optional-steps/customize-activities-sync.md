@@ -1,17 +1,17 @@
 ---
 unique-page-id: 4719294
 description: 활동 동기화 사용자 지정 - Marketo 문서 - 제품 설명서
-title: 활동 동기화 사용자 지정
+title: 활동 동기화 사용자 정의
 exl-id: 938d83dc-b9b1-41d8-bf98-04548b074ec4
 feature: Salesforce Integration
-source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '253'
-ht-degree: 1%
+ht-degree: 3%
 
 ---
 
-# 활동 동기화 사용자 지정 {#customize-activities-sync}
+# 활동 동기화 사용자 정의 {#customize-activities-sync}
 
 Marketo Sales Insight을 사용하지 않는 경우 Marketo Engage에서 특정 이벤트에 대한 Salesforce 활동 기록 레코드를 만들 수 있습니다. 활성화 방법은 다음과 같습니다.
 

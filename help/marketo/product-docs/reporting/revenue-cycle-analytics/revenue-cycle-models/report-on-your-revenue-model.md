@@ -1,17 +1,17 @@
 ---
 unique-page-id: 2360429
 description: 수익 모델에 대한 보고서 - Marketo 문서 - 제품 설명서
-title: 수익 모델에 대한 보고서
+title: 수익 모델 보고서
 exl-id: a9abbfcb-b4ee-402c-9092-c2e0d388f7a4
 feature: Reporting, Revenue Cycle Analytics
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '129'
-ht-degree: 0%
+ht-degree: 8%
 
 ---
 
-# 수익 모델에 대한 보고서 {#report-on-your-revenue-model}
+# 수익 모델 보고서 {#report-on-your-revenue-model}
 
 각 수익 주기 모델에 대해 각 단계에 있는 잠재 고객 수에 대한 보고서를 생성할 수 있습니다.
 
@@ -23,7 +23,7 @@ ht-degree: 0%
 
    ![](assets/image2015-4-29-16-3a8-3a14.png)
 
-1. **[!UICONTROL Leads by Revenue Stage]**&#x200B;을(를) 클릭합니다.
+1. **[!UICONTROL Leads by Revenue Stage]**&#x200B;를 클릭합니다.
 
    ![](assets/image2015-4-29-16-3a15-3a3.png)
 

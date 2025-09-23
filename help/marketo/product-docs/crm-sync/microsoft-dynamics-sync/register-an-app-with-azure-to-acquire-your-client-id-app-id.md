@@ -1,17 +1,17 @@
 ---
 unique-page-id: 12983390
 description: Azure에 앱을 등록하여 클라이언트 ID/앱 ID 획득 - Marketo 문서 - 제품 설명서
-title: Azure에 앱을 등록하여 클라이언트 ID/앱 ID를 얻습니다.
+title: Azure에 앱을 등록하여 클라이언트 ID/앱 ID 얻기
 exl-id: 006cd130-a2fc-41ce-b5ee-890ef6167b34
 feature: Microsoft Dynamics
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '294'
-ht-degree: 0%
+ht-degree: 8%
 
 ---
 
-# Azure에 앱을 등록하여 클라이언트 ID/앱 ID를 얻습니다. {#register-an-app-with-azure-to-acquire-your-client-id-app-id}
+# Azure에 앱을 등록하여 클라이언트 ID/앱 ID 얻기 {#register-an-app-with-azure-to-acquire-your-client-id-app-id}
 
 Azure Active Directory는 온-프레미스 디렉터리를 클라우드로 확장하여 온-프레미스 ADFS 인증을 사용하는 [!DNL MS Dynamics 365] CRM을 지원합니다.
 

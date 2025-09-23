@@ -4,10 +4,10 @@ description: 사용자 역할 및 권한 관리 - Marketo 문서 - 제품 설명
 title: 사용자 역할 및 권한 관리
 exl-id: e0213c5f-04e0-41a9-ac7b-873e2e39ac79
 feature: Users and Roles
-source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '455'
-ht-degree: 1%
+ht-degree: 7%
 
 ---
 
@@ -31,7 +31,7 @@ Marketo은 다양한 액세스 수준을 갖는 몇 가지 기본 제공 역할�
 
 관리자 및 표준 사용자 역할은 편집할 수 없지만 다른 역할은 편집할 수 있습니다. 회사의 특정 조직 구조와 일치하도록 새 사용자 정의 역할을 만들 수도 있습니다.
 
-## Adobe ID가 포함된 Marketo {#marketo-with-adobe-identity}
+## Adobe Identity를 사용한 Marketo {#marketo-with-adobe-identity}
 
 Adobe ID와 함께 Marketo을 사용하는 경우 프로필 설명 목록 [은(는) 여기에서 찾을 수 있습니다](/help/marketo/product-docs/administration/marketo-with-adobe-identity/adobe-identity-management-overview.md#profile-levels).
 
@@ -43,7 +43,7 @@ Adobe ID와 함께 Marketo을 사용하는 경우 프로필 설명 목록 [은(�
 
    ![](assets/managing-user-roles-and-permissions-1.png)
 
-1. **[!UICONTROL Users & Roles]**&#x200B;을(를) 클릭합니다.
+1. **[!UICONTROL Users & Roles]**&#x200B;를 클릭합니다.
 
    ![](assets/managing-user-roles-and-permissions-2.png)
 
@@ -67,7 +67,7 @@ Adobe ID와 함께 Marketo을 사용하는 경우 프로필 설명 목록 [은(�
 
    ![](assets/managing-user-roles-and-permissions-5.png)
 
-1. **[!UICONTROL Users & Roles]**&#x200B;을(를) 클릭합니다.
+1. **[!UICONTROL Users & Roles]**&#x200B;를 클릭합니다.
 
    ![](assets/managing-user-roles-and-permissions-6.png)
 
@@ -75,7 +75,7 @@ Adobe ID와 함께 Marketo을 사용하는 경우 프로필 설명 목록 [은(�
 
    ![](assets/managing-user-roles-and-permissions-7.png)
 
-1. **[!UICONTROL New Role]**&#x200B;을(를) 클릭합니다.
+1. **[!UICONTROL New Role]**&#x200B;를 클릭합니다.
 
    ![](assets/managing-user-roles-and-permissions-8.png)
 
@@ -91,7 +91,7 @@ Adobe ID와 함께 Marketo을 사용하는 경우 프로필 설명 목록 [은(�
 
    ![](assets/managing-user-roles-and-permissions-10.png)
 
-1. **[!UICONTROL Users & Roles]**&#x200B;을(를) 클릭합니다.
+1. **[!UICONTROL Users & Roles]**&#x200B;를 클릭합니다.
 
    ![](assets/managing-user-roles-and-permissions-11.png)
 
@@ -119,7 +119,7 @@ Adobe ID와 함께 Marketo을 사용하는 경우 프로필 설명 목록 [은(�
 
    ![](assets/managing-user-roles-and-permissions-15.png)
 
-1. **[!UICONTROL Users & Roles]**&#x200B;을(를) 클릭합니다.
+1. **[!UICONTROL Users & Roles]**&#x200B;를 클릭합니다.
 
    ![](assets/managing-user-roles-and-permissions-16.png)
 

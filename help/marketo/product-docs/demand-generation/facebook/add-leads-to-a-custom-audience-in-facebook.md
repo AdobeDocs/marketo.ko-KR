@@ -1,13 +1,13 @@
 ---
 unique-page-id: 11376700
 description: Facebook - Marketo 문서 - 제품 설명서에서 사용자 정의 대상에게 리드 추가
-title: Facebook에서 사용자 정의 대상자에 리드 추가
+title: Facebook의 사용자 정의 대상자에 리드 추가
 exl-id: cb8a81bf-2645-4500-8c54-03b8da09f245
 feature: Integrations
-source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '144'
-ht-degree: 0%
+ht-degree: 9%
 
 ---
 
@@ -29,7 +29,7 @@ ht-degree: 0%
 
    ![](assets/two-1.png)
 
-1. **[!UICONTROL Facebook]**&#x200B;을(를) 선택하고 **[!UICONTROL Next]**&#x200B;을(를) 클릭합니다.
+1. **[!UICONTROL Facebook]**&#x200B;으로 선택하고 **[!UICONTROL Next]**&#x200B;를 클릭합니다.
 
    ![](assets/three.png)
 

@@ -4,10 +4,10 @@ description: 계정 트리거 - Marketo 문서 - 제품 설명서
 title: 계정 트리거
 exl-id: cf8d49ed-58c4-49d0-95e2-e5df8c9bef50
 feature: Target Account Management
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '88'
-ht-degree: 2%
+ht-degree: 6%
 
 ---
 
@@ -23,7 +23,7 @@ ht-degree: 2%
 
 ![](assets/two-1.png)
 
-원하는 트리거를 캔버스로 드래그합니다. 이 예제에서는 _[!UICONTROL Added to Named Account]_&#x200B;을(를) 사용합니다.
+원하는 트리거를 캔버스로 드래그합니다. 이 예제에서는 _[!UICONTROL Added to Named Account]_을(를) 사용합니다.
 
 ![](assets/three-1.png)
 

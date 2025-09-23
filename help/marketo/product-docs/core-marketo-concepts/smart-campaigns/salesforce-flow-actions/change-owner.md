@@ -4,10 +4,10 @@ description: 소유자 변경 - Marketo 문서 - 제품 설명서
 title: 소유자 변경
 exl-id: b22c5cd8-1b53-4802-8b49-7f607c8a601b
 feature: Smart Campaigns, Salesforce Integration
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '165'
-ht-degree: 0%
+ht-degree: 2%
 
 ---
 

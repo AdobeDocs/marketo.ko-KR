@@ -4,10 +4,10 @@ description: Sales Connect 개요 - Marketo 문서 - 제품 설명서
 title: Sales Connect 개요
 exl-id: b14c950f-653f-4909-b33a-7e099c6ae4bf
 feature: Marketo Sales Connect
-source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '234'
-ht-degree: 4%
+ht-degree: 9%
 
 ---
 
@@ -25,7 +25,7 @@ Marketo Sales Connect는 다양한 기능을 갖춘 다각적인 판매 지원 �
 
 ![](assets/engagement.jpg)
 
-## 개인 세부 사항 보기 {#person-detail-view}
+## 사용자 세부 정보 보기 {#person-detail-view}
 
 [자세한 사용자 통계](/help/marketo/product-docs/marketo-sales-connect/people/person-detail-view.md)에 액세스합니다.
 

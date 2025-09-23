@@ -4,7 +4,7 @@ description: 3단계 중 3단계 - Marketo 및 Salesforce 연결(전문가) - Ma
 title: 3단계/3단계 - Marketo 및 Salesforce 연결(Professional)
 exl-id: a35e22ef-6378-45e0-be7e-687b0832ecf3
 feature: Salesforce Integration
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '353'
 ht-degree: 0%
@@ -34,7 +34,7 @@ ht-degree: 0%
 
    ![](assets/image2014-12-9-9-3a52-3a42.png)
 
-1. **[!UICONTROL Reset Security Token]**&#x200B;을(를) 클릭합니다.
+1. **[!UICONTROL Reset Security Token]**&#x200B;를 클릭합니다.
 
    ![](assets/image2015-5-21-14-3a13-3a5.png)
 
@@ -76,7 +76,7 @@ ht-degree: 0%
    >
    >Marketo은 [!DNL Salesforce] 동기화에 대해 자동으로 중복 제거되지 않습니다. 또는 잠재 고객을 수동으로 입력하는 경우.
 
-1. **[!UICONTROL Start Sync]**&#x200B;을(를) 클릭합니다.
+1. **[!UICONTROL Start Sync]**&#x200B;를 클릭합니다.
 
    ![](assets/image2014-12-9-9-3a53-3a32.png)
 

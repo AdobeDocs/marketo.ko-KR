@@ -1,17 +1,17 @@
 ---
 unique-page-id: 2359463
 description: 코드 조각 승인 - Marketo 문서 - 제품 설명서
-title: 코드 조각 승인
+title: 스니펫 승인
 exl-id: 9dd123dc-6a8c-483e-ba2b-e7dde2c97f5f
 feature: Snippets
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '50'
-ht-degree: 4%
+ht-degree: 16%
 
 ---
 
-# 코드 조각 승인 {#approve-a-snippet}
+# 스니펫 승인 {#approve-a-snippet}
 
 >[!PREREQUISITES]
 >

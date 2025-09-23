@@ -1,16 +1,16 @@
 ---
 description: 프로그램 구성원 사용자 정의 필드 동기화 - Marketo 문서 - 제품 설명서
-title: 프로그램 구성원 사용자 정의 필드 동기화
+title: 프로그램 멤버 사용자 정의 필드 동기화
 exl-id: 7facfc79-a411-4ad9-b847-2002763af5bb
 feature: Programs
-source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '331'
-ht-degree: 6%
+ht-degree: 9%
 
 ---
 
-# 프로그램 구성원 사용자 정의 필드 동기화 {#program-member-custom-field-sync}
+# 프로그램 멤버 사용자 정의 필드 동기화 {#program-member-custom-field-sync}
 
 >[!PREREQUISITES]
 >
@@ -85,7 +85,7 @@ ht-degree: 6%
 
    ![](assets/program-member-custom-field-sync-10.png)
 
-1. 이제 매핑이 제거됩니다. **[!UICONTROL Save]**&#x200B;을(를) 클릭합니다.
+1. 이제 매핑이 제거됩니다. **[!UICONTROL Save]**&#x200B;를 클릭합니다.
 
    ![](assets/program-member-custom-field-sync-11.png)
 

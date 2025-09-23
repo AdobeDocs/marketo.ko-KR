@@ -1,17 +1,17 @@
 ---
 unique-page-id: 2360240
 description: Opportunity Influence Analyzer 구성 - Marketo 문서 - 제품 설명서
-title: Opportunity Influence Analyzer 구성
+title: 기회 영향 분석기 구성
 exl-id: 9165c7ac-5b8e-48d2-bbe7-1f9074848724
 feature: Reporting, Revenue Cycle Analytics
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '152'
-ht-degree: 1%
+ht-degree: 8%
 
 ---
 
-# Opportunity Influence Analyzer 구성 {#configure-an-opportunity-influence-analyzer}
+# 기회 영향 분석기 구성 {#configure-an-opportunity-influence-analyzer}
 
 [영업 기회 영향 분석기를 만듭니다](/help/marketo/product-docs/reporting/revenue-cycle-analytics/opportunity-influence-analyzer/create-an-opportunity-influence-analyzer.md). 포함된 [관심 있는 순간](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/features/tabs-in-the-msi-panel/interesting-moments/interesting-moments-overview.md)의 유형을 구성할 수 있습니다.
 
@@ -19,7 +19,7 @@ ht-degree: 1%
 >
 >[영업 기회 영향 분석기 만들기](/help/marketo/product-docs/reporting/revenue-cycle-analytics/opportunity-influence-analyzer/create-an-opportunity-influence-analyzer.md)
 
-1. **[!UICONTROL Analytics]**&#x200B;을(를) 클릭합니다.
+1. **[!UICONTROL Analytics]**&#x200B;를 클릭합니다.
 
    ![](assets/login-to-analytics.png)
 

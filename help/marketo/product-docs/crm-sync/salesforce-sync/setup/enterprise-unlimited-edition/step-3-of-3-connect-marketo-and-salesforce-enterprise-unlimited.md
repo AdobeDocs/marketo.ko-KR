@@ -4,7 +4,7 @@ description: 3단계 중 3단계 - Marketo 및 Salesforce 연결(Enterprise/Unli
 title: 3단계/3 - Marketo 및 Salesforce 연결(Enterprise/Unlimited)
 exl-id: ef74bc53-9dc9-43c7-a9aa-565463fdd2e5
 feature: Salesforce Integration
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '423'
 ht-degree: 0%
@@ -34,7 +34,7 @@ ht-degree: 0%
 
    ![](assets/image2015-6-12-9-3a13-3a39.png)
 
-1. **[!UICONTROL Reset Security Token]**&#x200B;을(를) 클릭합니다.
+1. **[!UICONTROL Reset Security Token]**&#x200B;를 클릭합니다.
 
    ![](assets/image2014-12-9-9-3a52-3a50.png)
 
@@ -76,7 +76,7 @@ ht-degree: 0%
    >
    >Marketo은 [!DNL Salesforce] 동기화에 대해 자동으로 중복 제거되지 않습니다. 또는 잠재 고객을 수동으로 입력하는 경우.
 
-1. **[!UICONTROL Start Sync]**&#x200B;을(를) 클릭합니다.
+1. **[!UICONTROL Start Sync]**&#x200B;를 클릭합니다.
 
    ![](assets/image2014-12-9-9-3a53-3a32.png)
 
@@ -107,4 +107,4 @@ Marketo의 가장 강력한 기능 중 하나를 구성했습니다. 바로 여�
 >* [3단계 중 1단계:  [!DNL Salesforce] (Enterprise/Unlimited)에 Marketo 필드 추가](/help/marketo/product-docs/crm-sync/salesforce-sync/setup/enterprise-unlimited-edition/step-1-of-3-add-marketo-fields-to-salesforce-enterprise-unlimited.md)
 >* [3단계 중 2단계:  [!DNL Salesforce] Marketo용 사용자 만들기(Enterprise/Unlimited)](/help/marketo/product-docs/crm-sync/salesforce-sync/setup/enterprise-unlimited-edition/step-2-of-3-create-a-salesforce-user-for-marketo-enterprise-unlimited.md)
 >* [Marketo Sales Insight 패키지 설치 [!DNL Salesforce] AppExchange](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/installation/install-marketo-sales-insight-package-in-salesforce-appexchange.md)
->* [Enterprise/Unlimited에서 Marketo Sales Insight 구성 [!DNL Salesforce] 2&rbrace;](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/configuration/configure-marketo-sales-insight-in-salesforce-enterprise-unlimited.md)
+>* [Enterprise/Unlimited에서 Marketo Sales Insight 구성 [!DNL Salesforce] 2}](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/configuration/configure-marketo-sales-insight-in-salesforce-enterprise-unlimited.md)

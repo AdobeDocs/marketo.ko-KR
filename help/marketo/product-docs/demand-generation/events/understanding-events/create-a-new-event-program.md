@@ -4,10 +4,10 @@ description: 새 이벤트 프로그램 만들기 - Marketo 문서 - 제품 설�
 title: 새 이벤트 프로그램 만들기
 exl-id: 095d59d7-a4d7-4e0a-b34b-7d25074e6959
 feature: Events
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '165'
-ht-degree: 0%
+ht-degree: 8%
 
 ---
 
@@ -19,7 +19,7 @@ ht-degree: 0%
 
    ![](assets/ma.png)
 
-1. 새 프로그램의 폴더를 선택합니다. **[!UICONTROL New]**&#x200B;을(를) 선택하고 **[!UICONTROL New Program]**&#x200B;을(를) 클릭합니다.
+1. 새 프로그램의 폴더를 선택합니다. **[!UICONTROL New]**&#x200B;으로 선택하고 **[!UICONTROL New Program]**&#x200B;를 클릭합니다.
 
    ![](assets/image2015-2-26-14-3a24-3a30.png)
 
@@ -35,7 +35,7 @@ ht-degree: 0%
 
    ![](assets/image2015-2-26-14-3a29-3a3.png)
 
-1. **[!UICONTROL Create]**&#x200B;을(를) 클릭합니다.
+1. **[!UICONTROL Create]**&#x200B;를 클릭합니다.
 
    ![](assets/image2015-2-26-14-3a33-3a17.png)
 

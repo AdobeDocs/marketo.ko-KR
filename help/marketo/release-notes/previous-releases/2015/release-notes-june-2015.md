@@ -4,14 +4,14 @@ description: 릴리스 노트 - 2015년 6월 - Marketo 문서 - 제품 설명서
 title: 릴리스 노트 - 2015년 6월
 exl-id: 5a26121f-a168-4bb6-b471-aca1f343e4c2
 feature: Release Information
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '102'
-ht-degree: 0%
+ht-degree: 3%
 
 ---
 
-# 릴리스 노트: 2015년 6월 {#release-notes-june}
+# 릴리스 정보: 2015년 6월 {#release-notes-june}
 
 다음 기능은 2015년 6월 릴리스에 포함되어 있습니다. Marketo 버전에서 사용 가능한 기능이 있는지 확인하십시오. 릴리스 후에 다시 돌아와 각 기능에 대한 자세한 문서에 대한 링크를 찾으십시오.
 

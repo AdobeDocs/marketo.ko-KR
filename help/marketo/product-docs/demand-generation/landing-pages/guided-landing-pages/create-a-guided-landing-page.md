@@ -4,10 +4,10 @@ description: 가이드 랜딩 페이지 만들기 - Marketo 문서 - 제품 설�
 title: 가이드 랜딩 페이지 만들기
 exl-id: 876735b7-1e71-4fd0-b5de-63e239bcfa30
 feature: Landing Pages
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '172'
-ht-degree: 2%
+ht-degree: 13%
 
 ---
 
@@ -41,7 +41,7 @@ ht-degree: 2%
 
    ![](assets/four.png)
 
-1. 랜딩 페이지 이름을 지정합니다. **[!UICONTROL Template]** 드롭다운을 클릭하고 **[!UICONTROL Guided Template]**&#x200B;을(를) 선택합니다.
+1. 랜딩 페이지 이름을 지정합니다. **[!UICONTROL Template]** 드롭다운을 클릭하고 **[!UICONTROL Guided Template]**&#x200B;를 선택합니다.
 
    >[!NOTE]
    >
@@ -59,11 +59,11 @@ ht-degree: 2%
 
    ![](assets/seven.png)
 
-1. 랜딩 페이지 이름을 지정합니다. **[!UICONTROL Template]** 드롭다운을 클릭하고 **[!UICONTROL Guided Template]**&#x200B;을(를) 선택합니다.
+1. 랜딩 페이지 이름을 지정합니다. **[!UICONTROL Template]** 드롭다운을 클릭하고 **[!UICONTROL Guided Template]**&#x200B;를 선택합니다.
 
    ![](assets/image2015-5-26-9-3a27-3a34.png)
 
-1. **[!UICONTROL Create]**&#x200B;을(를) 클릭합니다.
+1. **[!UICONTROL Create]**&#x200B;를 클릭합니다.
 
    ![](assets/image2015-5-26-9-3a28-3a8.png)
 

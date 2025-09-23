@@ -1,16 +1,16 @@
 ---
 unique-page-id: 14352613
 description: Campaign에 직원 추가 - Marketo 문서 - 제품 설명서
-title: 캠페인에 사람 추가
+title: 캠페인에 사용자 추가
 exl-id: ef88ee07-6d33-40aa-9b0b-ccef12829345
-source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '445'
-ht-degree: 0%
+ht-degree: 3%
 
 ---
 
-# 캠페인에 사람 추가 {#add-people-to-your-campaign}
+# 캠페인에 사용자 추가 {#add-people-to-your-campaign}
 
 Campaign에 사용자를 추가하는 방법은 여러 가지가 있습니다.
 
@@ -26,7 +26,7 @@ Gmail 또는 Outlook 받은 편지함에서 잠재 고객 또는 고객을 후�
 
 이메일에 회신하고 플러그인에서 캠페인을 선택하십시오.
 
-## 캠페인에서 사람 제거 {#remove-people-from-a-campaign}
+## 캠페인에서 사용자 제거 {#remove-people-from-a-campaign}
 
 수신자가 답장을 보내면 자동으로 캠페인을 종료할 수 있습니다. 또한 해당 수신자를 위한 &#39;성공&#39;으로 캠페인을 표시하도록 선택할 수 있습니다.
 

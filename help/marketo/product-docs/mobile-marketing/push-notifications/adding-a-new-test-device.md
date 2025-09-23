@@ -1,17 +1,17 @@
 ---
 unique-page-id: 8783146
 description: 새 테스트 장치 추가 - Marketo 문서 - 제품 설명서
-title: 새 테스트 장치 추가
+title: 새 테스트 디바이스 추가
 exl-id: b7adfad7-c699-4840-a77a-8bdf3ff16f60
 feature: Mobile Marketing
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '121'
-ht-degree: 0%
+ht-degree: 8%
 
 ---
 
-# 새 테스트 장치 추가 {#adding-a-new-test-device}
+# 새 테스트 디바이스 추가 {#adding-a-new-test-device}
 
 새 테스트 장치를 추가하여 알림을 푸시할 수 있습니다.
 

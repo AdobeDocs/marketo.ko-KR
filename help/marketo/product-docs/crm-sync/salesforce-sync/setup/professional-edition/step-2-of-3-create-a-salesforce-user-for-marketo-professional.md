@@ -4,7 +4,7 @@ description: 3단계 중 2단계 - Marketo용 Salesforce 사용자 만들기(전
 title: 2/3단계 - Marketo용 Salesforce 사용자 만들기(Professional)
 exl-id: 7eb4bf89-b6e4-45e0-adee-e2976cb01dd3
 feature: Salesforce Integration
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '344'
 ht-degree: 0%
@@ -102,7 +102,7 @@ Marketo에서 [!DNL Salesforce]에 액세스하려면 자격 증명이 필요합
 
    ![](assets/image2014-12-9-12-3a57-3a42.png)
 
-1. **[!UICONTROL New User]**&#x200B;을(를) 클릭합니다.
+1. **[!UICONTROL New User]**&#x200B;를 클릭합니다.
 
    ![](assets/image2014-12-9-12-3a58-3a1.png)
 

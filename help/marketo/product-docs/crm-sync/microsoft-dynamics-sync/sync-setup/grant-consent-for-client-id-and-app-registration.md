@@ -1,16 +1,16 @@
 ---
 description: 클라이언트 Id 및 앱 등록에 대한 동의 - Marketo 문서 - 제품 설명서
-title: 클라이언트 Id 및 앱 등록에 동의 부여
+title: 클라이언트 ID 및 앱 등록에 대한 동의 권한 부여
 exl-id: d0c851d7-24a1-4b17-9daa-f0ceed39d040
 feature: Microsoft Dynamics
-source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '255'
-ht-degree: 0%
+ht-degree: 6%
 
 ---
 
-# 클라이언트 Id 및 앱 등록에 동의 부여 {#grant-consent-for-client-id-and-app-registration}
+# 클라이언트 ID 및 앱 등록에 대한 동의 권한 부여 {#grant-consent-for-client-id-and-app-registration}
 
 필요한 동의/권한을 부여하는 방법을 배우려면 아래 단계를 따르십시오.
 
@@ -65,7 +65,7 @@ ht-degree: 0%
    >
    >다른 탭에서 관리자로 Azure에 이미 로그인한 경우 다른 브라우저 또는 시크릿 모드를 사용하여 동기화 사용자로 로그인해야 합니다.
 
-1. **[!UICONTROL Accept]**&#x200B;을(를) 클릭합니다.
+1. **[!UICONTROL Accept]**&#x200B;를 클릭합니다.
 
    ![](assets/grant-consent-for-client-id-app-registration-3.png)
 

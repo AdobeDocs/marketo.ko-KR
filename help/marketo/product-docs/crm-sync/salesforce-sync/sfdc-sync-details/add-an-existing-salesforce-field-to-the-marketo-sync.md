@@ -1,13 +1,13 @@
 ---
 unique-page-id: 4719308
 description: 기존 Salesforce 필드를 Marketo 동기화 - Marketo 문서 - 제품 설명서에 추가
-title: Marketo 동기화에 기존 Salesforce 필드 추가
+title: 기존 Salesforce 필드를 Marketo 동기화에 추가
 exl-id: 6030aedd-9c4b-411f-89c7-f35fd39b0066
 feature: Salesforce Integration
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '146'
-ht-degree: 0%
+ht-degree: 6%
 
 ---
 
@@ -35,7 +35,7 @@ ht-degree: 0%
 
    ![](assets/add-an-existing-salesforce-field-to-the-marketo-sync-4.png)
 
-1. **[!UICONTROL Edit]**&#x200B;을(를) 클릭합니다.
+1. **[!UICONTROL Edit]**&#x200B;를 클릭합니다.
 
    ![](assets/add-an-existing-salesforce-field-to-the-marketo-sync-5.png)
 

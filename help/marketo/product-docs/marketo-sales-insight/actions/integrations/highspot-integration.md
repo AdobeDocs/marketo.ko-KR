@@ -3,22 +3,22 @@ description: Highspot 통합 - Marketo 문서 - 제품 설명서
 title: Highspot 통합
 exl-id: d864fa56-5cab-409f-9256-9819204f8853
 feature: Sales Insight Actions
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '334'
-ht-degree: 0%
+ht-degree: 1%
 
 ---
 
 # Highspot 통합 {#highspot-integration}
 
-Sales Insight Actions에서 Highspot 기능에 액세스하여 영업 주기 전반에 걸쳐 가시성, 효율성 및 성능을 향상시킬 수 있습니다. Sales Insight Action 사용자는 Highspot 및 Sales Insight Actions 내에서 컨텐츠 추적 및 분석을 캡처하는 동시에, Highspot 의 Sales Enablement 플랫폼에 저장된 판매 컨텐츠를 선택하고 이메일, 이메일 템플릿 및 판매 캠페인에 직접 삽입할 수 있습니다.
+영업 팀은 Sales Insight Actions에서 Highspot 기능을 활용하여 영업 주기 전반에 걸쳐 가시성, 효율성 및 성과를 높일 수 있습니다. Sales Insight Action 사용자는 Highspot 및 Sales Insight Actions 내에서 컨텐츠 추적 및 분석을 캡처하는 동시에 Highspot 의 Sales Enablement 플랫폼에 저장된 판매 컨텐츠를 선택하고 이메일, 이메일 템플릿 및 판매 캠페인에 직접 삽입할 수 있습니다.
 
 ## Highspot 통합 활성화 {#enabling-highspot-integration}
 
 >[!NOTE]
 >
->Sales Insight Actions 인스턴스에 대해 Highspot 을 활성화하려면 관리자 권한이 있어야 합니다.
+>Sales Insight 작업 인스턴스에 대해 Highspot 을 활성화하려면 관리자 권한이 있어야 합니다.
 
 1. 톱니바퀴 아이콘을 클릭하고 **설정**&#x200B;을 선택합니다.
 
@@ -38,7 +38,7 @@ Sales Insight Actions에서 Highspot 기능에 액세스하여 영업 주기 전
 
 ## Highspot 콘텐츠에 액세스하고 이메일을 통해 콘텐츠 공유 {#accessing-highspot-content}
 
-Sales Insight Actions 작성 창, 템플릿 편집기 및 판매 캠페인 이메일 편집기에서 Highspot에 액세스하여 이메일에 컨텐츠를 추가합니다. 다음은 작성 창에서 콘텐츠에 액세스하는 방법에 대한 단계입니다.
+Sales Insight 작업 작성 창, 템플릿 편집기 및 Sales Campaign 이메일 편집기에서 Highspot에 액세스하고 이메일에 콘텐츠를 추가합니다. 다음은 작성 창에서 콘텐츠에 액세스하는 방법에 대한 단계입니다.
 
 1. 이메일 초안을 만듭니다. 이 방법에는 헤더에서 **작성**&#x200B;을 선택하는 것과 같이 여러 가지가 있습니다.
 

@@ -4,7 +4,7 @@ description: 등록 코드 - Marketo 문서 - 제품 설명서와 함께  [!DNL 
 title: 등록 코드를 사용하여  [!DNL Outlook] 용 Marketo 이메일 추가 기능 설치
 exl-id: d7a877c2-f71e-44da-b323-04f6cdb44eb0
 feature: Marketo Sales Insights
-source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '522'
 ht-degree: 4%
@@ -126,7 +126,7 @@ ht-degree: 4%
    >
    >보안 경고를 받으면 걱정하지 마십시오! **실행**&#x200B;을 클릭하세요.
 
-1. **[!UICONTROL Next]**&#x200B;을(를) 클릭합니다.
+1. **[!UICONTROL Next]**&#x200B;를 클릭합니다.
 
    ![](assets/welcome-to-the-setup-wizard-hand.png)
 
@@ -142,7 +142,7 @@ ht-degree: 4%
 
    ![](assets/select-installation-folder-hand.png)
 
-1. **[!UICONTROL Next]**&#x200B;을(를) 클릭합니다.
+1. **[!UICONTROL Next]**&#x200B;를 클릭합니다.
 
    ![](assets/confirm-installation-hand.png)
 

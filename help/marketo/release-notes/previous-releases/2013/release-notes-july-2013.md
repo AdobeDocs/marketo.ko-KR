@@ -4,14 +4,14 @@ description: 릴리스 노트 - 2013년 7월 - Marketo 설명서 - 제품 설명
 title: 릴리스 노트 - 2013년 7월
 exl-id: efff413f-99fe-4db6-839b-1a922f8581d9
 feature: Release Information
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '202'
-ht-degree: 0%
+ht-degree: 1%
 
 ---
 
-# 릴리스 노트: 2013년 7월 {#release-notes-july}
+# 릴리스 정보: 2013년 7월 {#release-notes-july}
 
 다음 기능은 7월 26일 금요일에 롤아웃이 예정된 7월 릴리스에 포함되어 있습니다.
 
@@ -41,4 +41,4 @@ ht-degree: 0%
 
 ## WYSIWYG 편집기의 맞춤법 검사 변경 사항 {#changes-to-spell-check-in-wysiwyg-editor}
 
-WYSIWYG 편집기에서 맞춤법 검사에 사용한 서비스가 중단되었습니다. 대체물을 찾을 때까지 편집기에서 맞춤법 검사 단추를 제거했습니다.
+맞춤법 검사를 위해 WYSIWYG 편집기에서 사용한 서비스가 중단되었습니다. 대체물을 찾을 때까지 편집기에서 맞춤법 검사 단추를 제거했습니다.

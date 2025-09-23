@@ -4,10 +4,10 @@ description: 웹 페이지에서 이미지 가져오기 - Marketo 문서 - 제�
 title: 웹 페이지에서 이미지 가져오기
 exl-id: 5dd406da-082e-43cf-9d5e-3da2b960927d
 feature: Image Editor
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '158'
-ht-degree: 0%
+ht-degree: 8%
 
 ---
 

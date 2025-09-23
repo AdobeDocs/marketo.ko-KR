@@ -4,10 +4,10 @@ description: 세그먼트 규칙 정의 - Marketo 문서 - 제품 설명서
 title: 세그먼트 규칙 정의
 exl-id: e6631848-aa8c-4709-b182-4c88abbd365b
 feature: Segmentation
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '367'
-ht-degree: 0%
+ht-degree: 1%
 
 ---
 
@@ -51,7 +51,7 @@ ht-degree: 0%
 
    ![](assets/image2017-3-28-14-3a20-3a15.png)
 
-1. **[!UICONTROL Segmentation Actions]**(으)로 이동합니다. **[!UICONTROL Approve]**&#x200B;을(를) 클릭합니다.
+1. **[!UICONTROL Segmentation Actions]**(으)로 이동합니다. **[!UICONTROL Approve]**&#x200B;를 클릭합니다.
 
    ![](assets/image2014-9-15-11-3a36-3a7.png)
 

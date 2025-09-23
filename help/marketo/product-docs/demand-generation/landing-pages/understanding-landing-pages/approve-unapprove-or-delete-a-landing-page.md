@@ -4,10 +4,10 @@ description: 랜딩 페이지 승인, 승인 취소 또는 삭제 - Marketo 문�
 title: 랜딩 페이지 승인, 승인 취소 또는 삭제
 exl-id: ecd964e2-8363-495f-aaf0-e5ba452cb280
 feature: Landing Pages
-source-git-commit: 40f7cc71d816505149ee56b8dca34b5e17ae75b7
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '234'
-ht-degree: 0%
+ht-degree: 10%
 
 ---
 
@@ -49,7 +49,7 @@ ht-degree: 0%
 
 ## 랜딩 페이지 삭제 {#delete-a-landing-page}
 
-1. 원하는 랜딩 페이지를 선택합니다. **[!UICONTROL Landing Page Actions]** 드롭다운을 클릭하고 **[!UICONTROL Delete]**&#x200B;을(를) 선택합니다.
+1. 원하는 랜딩 페이지를 선택합니다. **[!UICONTROL Landing Page Actions]** 드롭다운을 클릭하고 **[!UICONTROL Delete]**&#x200B;를 선택합니다.
 
    ![](assets/approve-unapprove-or-delete-a-landing-page-5.png)
 
@@ -67,7 +67,7 @@ ht-degree: 0%
 
    ![](assets/approve-unapprove-or-delete-a-landing-page-7.png)
 
-1. 원하는 랜딩 페이지를 선택합니다. **[!UICONTROL Landing Page Actions]** 드롭다운을 클릭하고 **[!UICONTROL Delete]**&#x200B;을(를) 선택합니다.
+1. 원하는 랜딩 페이지를 선택합니다. **[!UICONTROL Landing Page Actions]** 드롭다운을 클릭하고 **[!UICONTROL Delete]**&#x200B;를 선택합니다.
 
    ![](assets/approve-unapprove-or-delete-a-landing-page-8.png)
 

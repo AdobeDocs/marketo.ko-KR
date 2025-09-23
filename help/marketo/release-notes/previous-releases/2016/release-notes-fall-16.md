@@ -3,14 +3,14 @@ unique-page-id: 11384018
 description: 릴리스 노트 - 16년 가을 - Marketo 문서 - 제품 설명서
 title: 릴리스 노트 - 16년 가을
 exl-id: da935951-162e-426c-acf2-12c55ff706b4
-source-git-commit: 2b72932606a93d061eb2f57c0ff3256b94a0c20c
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '647'
 ht-degree: 0%
 
 ---
 
-# 릴리스 노트: 16년 가을 {#release-notes-fall}
+# 릴리스 정보: 2016년 가을 {#release-notes-fall}
 
 다음 기능은 16년 가을 릴리스에 포함되어 있습니다. Marketo 버전에서 사용 가능한 기능이 있는지 확인하십시오. 각 기능에 대한 자세한 문서를 보려면 제목 링크를 클릭하십시오.
 

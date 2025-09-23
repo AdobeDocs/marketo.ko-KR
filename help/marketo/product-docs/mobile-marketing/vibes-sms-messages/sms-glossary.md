@@ -3,16 +3,16 @@ description: SMS 용어집 - Marketo 문서 - 제품 설명서
 title: SMS 용어집
 feature: Mobile Marketing
 exl-id: 0c23ca9f-f994-42ae-bd72-7d37289b7a94
-source-git-commit: dae00c6877e638ae60305122f3f3e17b3c922e10
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '734'
-ht-degree: 0%
+ht-degree: 1%
 
 ---
 
 # SMS 용어집 {#sms-glossary}
 
-다음은 Marketo Engage 시 Vibes SMS 메시지를 사용할 때 접하게 되는 몇 가지 일반적인 용어입니다.
+다음은 Marketo Engage에서 Vibes SMS 메시지를 사용할 때 접하게 되는 몇 가지 일반적인 용어입니다.
 
 <table>
 <thead>
@@ -35,7 +35,7 @@ ht-degree: 0%
     <td>company_key 는 플랫폼 계정에 대한 고유한 영숫자 식별자입니다. Vibes 플랫폼에 여러 회사 계정(예: 하위 계정)이 있는 경우 여러 company_key가 있을 수 있습니다. Marketo Engage의 각 인스턴스는 하나의 Vibes company_key에만 매핑될 수 있습니다.</td>
   </tr>
   <tr>
-    <td>CTA(클릭 유도 문안)</td>
+    <td>CTA(call to action)</td>
     <td>반복되는 문자 메시지 프로그램 또는 구독 목록으로 구독자를 가져오기 위한 디지털 또는 물리적 간판 또는 구두 스크립트. 온라인, 소셜 미디어, 이메일, 인쇄 등에 배치할 수 있습니다.</td>
   </tr>
   <tr>
@@ -58,7 +58,7 @@ ht-degree: 0%
   </tr>
   <tr>
     <td>이벤트</td>
-    <td>이벤트는 Vibes 플랫폼에 제출할 수 있고, 메시지 전송을 포함하여 API가 트리거하는 작업을 트리거하는 데 사용할 수 있는 정의된 발생 횟수입니다. 각 이벤트에는 event_type을 포함하여 해당 이벤트와 관련된 데이터가 포함됩니다. 이 데이터는 해당 이벤트가 해당되는 API 트리거 메시지 캠페인을 결정하는 데 사용됩니다. Marketo Engage 시 Webhook을 통해 이벤트 API를 트리거할 수 있습니다. <a href="https://developer-platform.vibes.com/reference/event-api">이벤트 API 참조</a>를 통해 자세히 알아보세요.</td>
+    <td>이벤트는 Vibes 플랫폼에 제출할 수 있고, 메시지 전송을 포함하여 API가 트리거하는 작업을 트리거하는 데 사용할 수 있는 정의된 발생 횟수입니다. 각 이벤트에는 event_type을 포함하여 해당 이벤트와 관련된 데이터가 포함됩니다. 이 데이터는 해당 이벤트가 해당되는 API 트리거 메시지 캠페인을 결정하는 데 사용됩니다. 이벤트 API는 Marketo Engage에서 Webhook을 통해 트리거할 수 있습니다. <a href="https://developer-platform.vibes.com/reference/event-api">이벤트 API 참조</a>를 통해 자세히 알아보세요.</td>
   </tr>
   <tr>
     <td>키워드</td>

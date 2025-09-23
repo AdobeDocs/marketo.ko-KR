@@ -3,10 +3,10 @@ unique-page-id: 2953243
 description: 알림 유형 - Marketo 문서 - 제품 설명서
 title: 알림 유형
 exl-id: 384cea0a-6252-4600-9211-aa5d6a7e875c
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '235'
-ht-degree: 1%
+ht-degree: 3%
 
 ---
 
@@ -60,4 +60,4 @@ Marketo에서 3회 시도 후에도 새 대상자, 로그인 또는 푸시 이�
 
 >[!NOTE]
 >
->오류 코드 중 일부는 [개발자 설명서](https://experienceleague.adobe.com/ko/docs/marketo-developer/marketo/rest/error-codes)에 요약되어 있습니다.
+>오류 코드 중 일부는 [개발자 설명서](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/rest/error-codes)에 요약되어 있습니다.

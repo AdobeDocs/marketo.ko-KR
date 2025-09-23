@@ -4,10 +4,10 @@ description: Sales Connect 계정을 Salesforce - Marketo 문서 - 제품 설명
 title: Sales Connect 계정을 Salesforce에 연결
 exl-id: de1ab4f8-8ca5-4fd1-9a9f-61471645d90b
 feature: Marketo Sales Connect
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '113'
-ht-degree: 1%
+ht-degree: 14%
 
 ---
 
@@ -21,7 +21,7 @@ ht-degree: 1%
 
    ![](assets/one.png)
 
-1. [!UICONTROL &#x200B; Admin Settings]에서 **[!UICONTROL Salesforce]**&#x200B;을(를) 클릭합니다.
+1. [!UICONTROL  Admin Settings]에서 **[!UICONTROL Salesforce]**&#x200B;을(를) 클릭합니다.
 
    ![](assets/six.png)
 
@@ -29,7 +29,7 @@ ht-degree: 1%
 
    ![](assets/seven.png)
 
-1. **[!UICONTROL OK]**&#x200B;을(를) 클릭합니다.
+1. **[!UICONTROL OK]**&#x200B;를 클릭합니다.
 
    ![](assets/four.png)
 
@@ -49,7 +49,7 @@ ht-degree: 1%
 
    ![](assets/three.png)
 
-1. **[!UICONTROL OK]**&#x200B;을(를) 클릭합니다.
+1. **[!UICONTROL OK]**&#x200B;를 클릭합니다.
 
    ![](assets/four.png)
 

@@ -4,14 +4,14 @@ description: SFDC 동기화 - 사용자 지정 개체 동기화 - Marketo 문서
 title: SFDC 동기화 - 사용자 지정 개체 동기화
 exl-id: e491e0bc-04a9-4e78-97c3-a25b945d546a
 feature: Salesforce Integration
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '277'
-ht-degree: 1%
+ht-degree: 2%
 
 ---
 
-# SFDC 동기화: 사용자 지정 개체 동기화 {#sfdc-sync-custom-object-sync}
+# SFDC 동기화: 사용자 정의 오브젝트 동기화 {#sfdc-sync-custom-object-sync}
 
 [!DNL Salesforce] 인스턴스에서 만든 사용자 지정 개체도 Marketo의 일부일 수 있습니다.  설정 방법은 다음과 같습니다.
 
@@ -37,7 +37,7 @@ ht-degree: 1%
 
    ![](assets/rtaimage-2.png)
 
-1. **[!UICONTROL Disable Global Sync]**&#x200B;을(를) 클릭합니다.
+1. **[!UICONTROL Disable Global Sync]**&#x200B;를 클릭합니다.
 
    ![](assets/image2015-4-22-10-3a45-3a0.png)
 
@@ -55,7 +55,7 @@ ht-degree: 1%
    >
    >사용자 지정 개체에는 고유한 이름이 있어야 합니다. Marketo은 이름이 같은 두 개의 서로 다른 사용자 지정 개체를 지원하지 않습니다.
 
-1. **[!UICONTROL Enable Sync]**&#x200B;을(를) 클릭합니다.
+1. **[!UICONTROL Enable Sync]**&#x200B;를 클릭합니다.
 
    ![](assets/image2015-4-22-10-3a45-3a50.png)
 
@@ -71,7 +71,7 @@ ht-degree: 1%
 
    ![](assets/image2015-4-22-10-3a46-3a25.png)
 
-1. **[!UICONTROL Enable Sync]**&#x200B;을(를) 클릭합니다.
+1. **[!UICONTROL Enable Sync]**&#x200B;를 클릭합니다.
 
    ![](assets/image2015-4-22-10-3a50-3a26.png)
 

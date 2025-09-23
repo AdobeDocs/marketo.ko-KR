@@ -4,10 +4,10 @@ description: 인앱 메시지 대상 설정 - Marketo 문서 - 제품 설명서
 title: 인앱 메시지 대상자 설정
 exl-id: 696ae5b6-7063-41bc-bcef-27879182ff1e
 feature: Mobile Marketing
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '266'
-ht-degree: 1%
+ht-degree: 4%
 
 ---
 
@@ -15,7 +15,7 @@ ht-degree: 1%
 
 첫 번째 단계는 인앱 메시지를 수신할 사용자를 결정하는 것입니다. 스마트 목록을 설정해야 합니다.
 
-1. **[!UICONTROL Edit Smart List]**&#x200B;을(를) 클릭합니다.
+1. **[!UICONTROL Edit Smart List]**&#x200B;를 클릭합니다.
 
    ![](assets/image2016-5-9-15-3a15-3a7.png)
 

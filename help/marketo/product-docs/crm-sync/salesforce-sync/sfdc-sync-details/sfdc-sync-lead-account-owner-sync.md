@@ -4,10 +4,10 @@ description: SFDC 동기화 - 리드/계정 소유자 동기화 - Marketo 문서
 title: SFDC 동기화 - 잠재 고객/계정 소유자 동기화
 exl-id: b9effcc2-f426-4390-aef1-42f4e525b182
 feature: Salesforce Integration
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '212'
-ht-degree: 0%
+ht-degree: 2%
 
 ---
 

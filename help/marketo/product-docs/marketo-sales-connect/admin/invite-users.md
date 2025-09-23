@@ -4,10 +4,10 @@ description: 사용자 초대 - Marketo 문서 - 제품 설명서
 title: 사용자 초대
 exl-id: 0d8cfbf5-ec34-498d-a51e-29935442b0cd
 feature: Marketo Sales Connect
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '51'
-ht-degree: 3%
+ht-degree: 11%
 
 ---
 
@@ -23,7 +23,7 @@ ht-degree: 3%
 
    ![](assets/invite-team-members-2.png)
 
-1. **[!UICONTROL Invite Users]**&#x200B;을(를) 클릭합니다.
+1. **[!UICONTROL Invite Users]**&#x200B;를 클릭합니다.
 
    ![](assets/invite-team-members-3.png)
 
@@ -35,6 +35,6 @@ ht-degree: 3%
    >
    >기본적으로 모든 새 멤버가 모든 사용자 팀에 추가됩니다.
 
-1. **[!UICONTROL OK]**&#x200B;을(를) 클릭합니다.
+1. **[!UICONTROL OK]**&#x200B;를 클릭합니다.
 
    ![](assets/five.png)

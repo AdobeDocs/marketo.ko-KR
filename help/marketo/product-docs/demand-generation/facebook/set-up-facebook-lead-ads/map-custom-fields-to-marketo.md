@@ -1,17 +1,17 @@
 ---
 unique-page-id: 12983101
 description: 사용자 정의 필드를 Marketo - Marketo 문서 - 제품 설명서에 매핑
-title: Marketo에 사용자 정의 필드 매핑
+title: 사용자 정의 필드를 Marketo에 매핑
 exl-id: c52c9bcb-6448-4ebe-b87f-9e3a48e3d27d
 feature: Integrations
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '234'
-ht-degree: 1%
+ht-degree: 5%
 
 ---
 
-# Marketo에 사용자 정의 필드 매핑 {#map-custom-fields-to-marketo}
+# 사용자 정의 필드를 Marketo에 매핑 {#map-custom-fields-to-marketo}
 
 온라인 게재 서비스를 사용하는 빈도와 같이 기본적으로 표준 정보 [!DNL Facebook] 이상의 스토어를 수집할 수 있습니다. [ 리드 광고에서 ](https://www.facebook.com/business/help/774623835981457?helpref=uf_permalink)사용자 지정 질문 만들기[!DNL Facebook]를 통해 이를 수행할 수 있습니다.
 
@@ -27,15 +27,15 @@ ht-degree: 1%
 
    ![](assets/image2017-10-24-9-3a32-3a16.png)
 
-1. **[!UICONTROL Next]**&#x200B;을(를) 클릭합니다.
+1. **[!UICONTROL Next]**&#x200B;를 클릭합니다.
 
    ![](assets/image2017-10-24-14-3a55-3a13.png)
 
-1. 승인된 계정을 그대로 둡니다. **변경하지 마십시오**. **[!UICONTROL Next]**&#x200B;을(를) 클릭합니다.
+1. 승인된 계정을 그대로 둡니다. **변경하지 마십시오**. **[!UICONTROL Next]**&#x200B;를 클릭합니다.
 
    ![](assets/image2017-10-24-14-3a56-3a48.png)
 
-1. 이전처럼 선택한 페이지를 그대로 둡니다. **변경하지 마십시오**. **[!UICONTROL Next]**&#x200B;을(를) 클릭합니다.
+1. 이전처럼 선택한 페이지를 그대로 둡니다. **변경하지 마십시오**. **[!UICONTROL Next]**&#x200B;를 클릭합니다.
 
    ![](assets/image2017-10-24-15-3a0-3a54.png)
 

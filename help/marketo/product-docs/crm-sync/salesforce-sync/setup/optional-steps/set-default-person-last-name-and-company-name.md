@@ -1,17 +1,17 @@
 ---
 unique-page-id: 4719291
 description: 기본 사용자 성 및 회사 이름 설정 - Marketo 문서 - 제품 설명서
-title: 기본 사용자의 성 및 회사 이름 설정
+title: 기본 사용자 성 및 회사 이름 설정
 exl-id: 0216fb41-adf0-4ccf-be22-c064e90be65a
 feature: Salesforce Integration
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '127'
-ht-degree: 0%
+ht-degree: 13%
 
 ---
 
-# 기본 사용자의 성 및 회사 이름 설정 {#set-default-person-last-name-and-company-name}
+# 기본 사용자 성 및 회사 이름 설정 {#set-default-person-last-name-and-company-name}
 
 [!DNL Salesforce]에는 리드 및 연락처에 성과 회사 이름이 필요합니다(최소). 불완전한 레코드가 [!DNL Salesforce]에 동기화되지 않습니다. 부분 레코드를 동기화하려면 Marketo에서 [!DNL Salesforce]에 사용할 기본값을 설정해야 합니다.
 
@@ -19,7 +19,7 @@ ht-degree: 0%
 
    ![](assets/image2014-12-9-13-3a41-3a58.png)
 
-1. **[!UICONTROL Edit Sync Options]**&#x200B;을(를) 클릭합니다.
+1. **[!UICONTROL Edit Sync Options]**&#x200B;를 클릭합니다.
 
    ![](assets/image2014-12-9-13-3a42-3a6.png)
 

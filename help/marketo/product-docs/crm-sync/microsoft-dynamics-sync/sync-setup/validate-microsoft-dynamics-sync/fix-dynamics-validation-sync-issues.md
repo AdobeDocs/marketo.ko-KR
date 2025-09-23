@@ -4,10 +4,10 @@ description: Dynamics 유효성 검사 동기화 문제 해결 - Marketo 문서 
 title: Dynamics 유효성 검사 동기화 문제 해결
 exl-id: 1a300249-65b7-49b1-bf50-82236916298f
 feature: Microsoft Dynamics
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '487'
-ht-degree: 0%
+ht-degree: 2%
 
 ---
 
@@ -83,7 +83,7 @@ Dynamics Validate Sync를 실행하면 보고서가 생성됩니다. 단계 옆�
 
 ## Marketo 솔루션이 올바르게 설치됨 {#marketo-solution-is-properly-installed}
 
-여기에 ![x](assets/delete.png)이(가) 있는 경우 Microsoft Dynamics로 이동하여 Marketo 설치가 있는지 확인하십시오. Microsoft Dynamics 설정 설명서의 1단계를 참조하십시오.
+여기에 ![x](assets/delete.png)이(가) 있는 경우 Microsoft Dynamics으로 이동하여 Marketo 설치가 완료되었는지 확인하십시오. Microsoft Dynamics 설정 설명서의 1단계를 참조하십시오.
 
 1. Dynamics에서 설정 아이콘을 클릭하고 **고급 설정**&#x200B;을 선택합니다.
 

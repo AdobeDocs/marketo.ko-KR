@@ -1,13 +1,13 @@
 ---
 unique-page-id: 14352486
-description: 내 연락처 중 Sales Connect에 푸시되는 연락처가 없는 이유는 무엇입니까? - Marketo 문서 - 제품 설명서
-title: 내 연락처 중 Sales Connect에 푸시되는 연락처가 없는 이유는 무엇입니까?
+description: 내 연락처 중 Sales Connect에 푸시되는 연락처가 없는 이유는 무엇입니까? - Marketo 설명서 - 제품 설명서
+title: 내 연락처가 Sales Connect로 푸시되지 않는 이유는 무엇입니까?
 exl-id: a3659c14-356b-4b25-8aa7-251fd213290b
 feature: Marketo Sales Connect
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '78'
-ht-degree: 0%
+ht-degree: 19%
 
 ---
 

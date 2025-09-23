@@ -4,10 +4,10 @@ description: Microsoft Dynamics - Marketo 문서 - 제품 설명서에서 연락
 title: Microsoft Dynamics에서 연락처 만들기
 exl-id: 66cb26c0-f383-4d1e-be22-e7f8c6b266fb
 feature: Microsoft Dynamics
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '100'
-ht-degree: 1%
+ht-degree: 7%
 
 ---
 
@@ -21,7 +21,7 @@ ht-degree: 1%
 
    ![](assets/two.png)
 
-1. **[!UICONTROL Sync As]**&#x200B;을(를) 클릭하고 **[!UICONTROL Contact]**&#x200B;을(를) 선택합니다. **[!UICONTROL Run Now]**&#x200B;을(를) 클릭합니다.
+1. **[!UICONTROL Sync As]**&#x200B;을(를) 클릭하고 **[!UICONTROL Contact]**&#x200B;을(를) 선택합니다. **[!UICONTROL Run Now]**&#x200B;를 클릭합니다.
 
    ![](assets/three.png)
 

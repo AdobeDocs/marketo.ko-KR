@@ -4,10 +4,10 @@ description: 감사 추적 활성화 - Marketo 문서 - 제품 설명서
 title: 감사 추적 활성화
 exl-id: 3ab2d7b2-1be1-4b3f-a9cc-d3edfa963679
 feature: Audit Trail
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
-source-wordcount: '245'
-ht-degree: 1%
+source-wordcount: '212'
+ht-degree: 5%
 
 ---
 
@@ -21,15 +21,15 @@ ht-degree: 1%
 
 ## 역할에 대한 감사 추적 활성화 {#enable-audit-trail-for-a-role}
 
-1. **[!UICONTROL 관리자]**&#x200B;를 클릭합니다.
+1. **[!UICONTROL Admin]**&#x200B;를 클릭합니다.
 
    ![](assets/enable-audit-trail-1.png)
 
-1. **[!UICONTROL 사용자 및 역할]**&#x200B;을 선택하고 **[!UICONTROL 역할]**&#x200B;을 클릭합니다.
+1. **[!UICONTROL Users & Roles]**&#x200B;으로 선택하고 **[!UICONTROL Roles]**&#x200B;를 클릭합니다.
 
    ![](assets/enable-audit-trail-2.png)
 
-1. 감사 추적을 활성화할 역할을 선택하고 **[!UICONTROL 역할 편집]**&#x200B;을 클릭합니다.
+1. 감사 추적을 활성화할 역할을 선택하고 **[!UICONTROL Edit Role]**&#x200B;을(를) 클릭합니다.
 
    ![](assets/enable-audit-trail-3.png)
 
@@ -37,7 +37,7 @@ ht-degree: 1%
    >
    >또한 여기에 새 역할을 만들고 감사 추적 액세스 권한을 부여할 수 있는 옵션이 있습니다.
 
-1. **[!UICONTROL 관리자 액세스]** 권한을 확장합니다. 필요에 따라 **[!UICONTROL 감사 추적 액세스]** 및/또는 **[!UICONTROL 로그인 기록 액세스]**&#x200B;를 선택하십시오. **[!UICONTROL 저장]**&#x200B;을 클릭합니다.
+1. **[!UICONTROL Access Admin]** 권한을 확장합니다. 필요에 따라 **[!UICONTROL Access Audit Trail]** 및/또는 **[!UICONTROL Access Login History]**&#x200B;을(를) 선택하십시오. **[!UICONTROL Save]**&#x200B;를 클릭합니다.
 
    ![](assets/enable-audit-trail-4.png)
 
@@ -45,9 +45,9 @@ ht-degree: 1%
    >
    >**정의**
    >
-   >**[!UICONTROL 감사 추적 액세스]**: 사용자에게 [!UICONTROL 자산 감사 추적] 및 [!UICONTROL 관리자 감사 추적]에 대한 액세스 권한을 제공합니다.
+   >**[!UICONTROL Access Audit Trail]**: 사용자에게 [!UICONTROL Asset Audit Trail]과(와) [!UICONTROL Admin Audit Trail]에 모두 액세스할 수 있는 권한을 제공합니다.
    >
-   >**[!UICONTROL 로그인 기록 액세스]**: 사용자에게 [사용자 로그인 기록](/help/marketo/product-docs/administration/audit-trail/user-login-history.md)에 대한 액세스 권한을 부여합니다.
+   >**[!UICONTROL Access Login History]**: 사용자에게 [사용자 로그인 기록](/help/marketo/product-docs/administration/audit-trail/user-login-history.md)에 대한 액세스 권한을 부여합니다.
 
 ## 사용자에게 감사 추적 역할 할당 {#assign-audit-trail-role-to-a-user}
 
@@ -55,11 +55,11 @@ ht-degree: 1%
 >
 >기존 역할을 [만들기](/help/marketo/product-docs/administration/users-and-roles/create-delete-edit-and-change-a-user-role.md#create-a-role) 또는 [활성화](#enable-audit-trail)하여 감사 추적 권한을 부여합니다.
 
-1. **[!UICONTROL 사용자 및 역할]**&#x200B;에서 **[!UICONTROL 사용자]**&#x200B;를 클릭합니다.
+1. **[!UICONTROL Users & Roles]**&#x200B;에서 **[!UICONTROL Users]**&#x200B;을(를) 클릭합니다.
 
    ![](assets/enable-audit-trail-5.png)
 
-1. 감사 추적 액세스 권한을 부여할 사용자를 선택하고 **[!UICONTROL 사용자 편집]**&#x200B;을 클릭합니다.
+1. 감사 추적 액세스 권한을 부여할 사용자를 선택하고 **[!UICONTROL Edit User]**&#x200B;을(를) 클릭합니다.
 
    ![](assets/enable-audit-trail-6.png)
 
@@ -75,6 +75,6 @@ ht-degree: 1%
    >
    >작업 영역이 활성화되어 있으면 모든 작업 영역을 선택하는 역할의 확인란을 선택해야 합니다. 개별 작업 영역을 선택 해제하면 감사 추적이 숨겨집니다. 즉, 모든 작업 공간에 대한 감사 추적 데이터를 보게 됩니다. [필터링](/help/marketo/product-docs/administration/audit-trail/filtering-in-audit-trail.md)할 때 작업 영역을 숨길 수 있습니다.
 
-1. **[!UICONTROL 저장]**&#x200B;을 클릭합니다.
+1. **[!UICONTROL Save]**&#x200B;를 클릭합니다.
 
    ![](assets/enable-audit-trail-8.png)

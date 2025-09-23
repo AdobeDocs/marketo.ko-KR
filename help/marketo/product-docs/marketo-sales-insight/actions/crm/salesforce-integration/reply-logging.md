@@ -1,18 +1,18 @@
 ---
 description: 회신 로깅 - Marketo 문서 - 제품 설명서
-title: 회신 로깅
+title: 답변 로깅
 hide: true
 hidefromtoc: true
 exl-id: a89e8212-83cb-4987-abc9-76c5fd74c152
 feature: Sales Insight Actions
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '237'
-ht-degree: 0%
+ht-degree: 2%
 
 ---
 
-# 회신 로깅 {#reply-logging}
+# 답변 로깅 {#reply-logging}
 
 영업 Insight 액션은 잠재 고객의 답글을 [!DNL Salesforce]에 자동으로 기록하는 기능을 지원합니다. 이를 수행할 수 있는 구조는 이메일 회신 추적을 기반으로 합니다. 잠재 고객의 회신을 추적할 수 있는 경우 해당 회신을 [!DNL Salesforce]에 기록할 수 있습니다.
 
@@ -36,7 +36,7 @@ ht-degree: 0%
 [!DNL Salesforce] 보고서에서 의미 있는 데이터를 가져오는 것이 중요합니다. 유형 필드를 &#39;회신&#39;으로 채우게 하면 보고서를 통해 해당 데이터를 가져올 수 있습니다. 이 설정을 사용하려면 `[!DNL Salesforce] admin`과(와) 협력하세요.
 
 1. **[!UICONTROL Setup]** > **[!UICONTROL Customize]** > **[!UICONTROL Activities]** > **[!UICONTROL Task Fields]**(으)로 이동합니다.
-1. **[!UICONTROL Type]**&#x200B;을(를) 클릭합니다.
+1. **[!UICONTROL Type]**&#x200B;를 클릭합니다.
 1. [!UICONTROL Task Type Picklist Values]에서 **[!UICONTROL New]**&#x200B;을(를) 클릭합니다.
 1. 빈 상자에 &quot;Reply&quot;를 입력합니다. &#39;R&#39;을 대문자로 사용하고 **[!UICONTROL Save]**&#x200B;을(를) 클릭합니다.
 

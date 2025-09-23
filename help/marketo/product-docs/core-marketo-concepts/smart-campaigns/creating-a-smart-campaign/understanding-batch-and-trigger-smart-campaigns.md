@@ -1,21 +1,21 @@
 ---
 unique-page-id: 2953132
 description: 일괄 처리 및 트리거 스마트 캠페인 이해 - Marketo 문서 - 제품 설명서
-title: 일괄 처리 및 트리거 스마트 캠페인 이해
+title: 배치 및 트리거 스마트 캠페인 이해
 exl-id: 84a7b38c-b79c-4360-bd0b-3beb8ca35ac7
 feature: Smart Campaigns
-source-git-commit: 9e51ece12742152040dbbcb6a1584fba28e863ff
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
-source-wordcount: '266'
-ht-degree: 0%
+source-wordcount: '264'
+ht-degree: 6%
 
 ---
 
-# 일괄 처리 및 트리거 스마트 캠페인 이해 {#understanding-batch-and-trigger-smart-campaigns}
+# 배치 및 트리거 스마트 캠페인 이해 {#understanding-batch-and-trigger-smart-campaigns}
 
 스마트 캠페인에는 일괄 처리와 트리거의 두 가지 유형이 있습니다.
 
-## 일괄 캠페인 {#batch-campaign}
+## 배치 캠페인 {#batch-campaign}
 
 >[!NOTE]
 >
@@ -27,7 +27,7 @@ ht-degree: 0%
 
 ![](assets/understanding-batch-and-trigger-smart-campaigns-1.png)
 
-**[!UICONTROL 일정]** 탭을 클릭하면 스마트 캠페인이 &quot;일괄 처리&quot;로 설정되어 있는지 확인합니다.
+**[!UICONTROL Schedule]** 탭을 클릭하면 Smart Campaign이 &quot;일괄 처리&quot;로 설정되어 있는지 확인합니다.
 
 ![](assets/understanding-batch-and-trigger-smart-campaigns-2.png)
 
@@ -38,7 +38,7 @@ ht-degree: 0%
 
 <br> 
 
-## 캠페인 트리거 {#trigger-campaign}
+## 트리거 캠페인 {#trigger-campaign}
 
 >[!NOTE]
 >
@@ -50,7 +50,7 @@ ht-degree: 0%
 
 ![](assets/understanding-batch-and-trigger-smart-campaigns-3.png)
 
-**[!UICONTROL 일정]** 탭을 클릭하면 스마트 캠페인이 &quot;트리거됨&quot;으로 설정되어 있는지 확인합니다.
+**[!UICONTROL Schedule]** 탭을 클릭하면 스마트 캠페인이 &quot;트리거됨&quot;으로 설정되어 있는지 확인합니다.
 
 ![](assets/understanding-batch-and-trigger-smart-campaigns-4.png)
 

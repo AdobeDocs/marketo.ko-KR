@@ -3,7 +3,7 @@ description: 3단계/4단계 - MS [!DNL Dynamics]  - Marketo 문서 - 제품 설
 title: 3단계/4단계 - MS [!DNL Dynamics]에서 클라이언트 앱 설정
 exl-id: e7897174-3303-4c3b-8832-3e10f34fca96
 feature: Microsoft Dynamics
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '296'
 ht-degree: 0%
@@ -29,7 +29,7 @@ ht-degree: 0%
 
    ![](assets/step-3-of-4-set-up-client-app-ms-dynamics-ropc-1.png)
 
-1. **[!UICONTROL New client secret]**&#x200B;을(를) 클릭합니다.
+1. **[!UICONTROL New client secret]**&#x200B;를 클릭합니다.
 
    ![](assets/step-3-of-4-set-up-client-app-ms-dynamics-ropc-2.png)
 

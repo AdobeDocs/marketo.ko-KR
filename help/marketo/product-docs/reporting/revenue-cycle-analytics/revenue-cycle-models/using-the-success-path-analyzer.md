@@ -4,10 +4,10 @@ description: 성공 경로 분석기 사용 - Marketo 문서 - 제품 설명서
 title: 성공 경로 분석기 사용
 exl-id: f816b7ac-a158-46bd-9d00-09ef4cc8b381
 feature: Reporting, Revenue Cycle Analytics
-source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '340'
-ht-degree: 0%
+ht-degree: 3%
 
 ---
 
@@ -43,7 +43,7 @@ ht-degree: 0%
 
    **[!UICONTROL To]** 날짜는 원래 기간의 길이와 일치하도록 자동으로 설정됩니다.
 
-1. **[!UICONTROL Compare]**&#x200B;을(를) 클릭합니다.
+1. **[!UICONTROL Compare]**&#x200B;를 클릭합니다.
 
    ![](assets/image2015-6-12-17-3a44-3a8.png)
 

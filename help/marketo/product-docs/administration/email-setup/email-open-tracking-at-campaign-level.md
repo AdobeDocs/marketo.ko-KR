@@ -1,16 +1,16 @@
 ---
 description: Campaign 수준에서 이메일 열기 추적 - Marketo 문서 - 제품 설명서
-title: 캠페인 수준에서 이메일 열기 추적
+title: 캠페인 수준 이메일 열람 추적
 feature: Email Setup
 exl-id: 23cd6ba8-5e3f-44f1-af8d-da03f4b038f2
-source-git-commit: f0f95604ba3b033fbbf0e4fcd3b502142ef16134
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '104'
-ht-degree: 1%
+ht-degree: 13%
 
 ---
 
-# 캠페인 수준에서 이메일 열기 추적 {#email-open-tracking-at-campaign-level}
+# 캠페인 수준 이메일 열람 추적 {#email-open-tracking-at-campaign-level}
 
 이 기능을 사용하면 캠페인에서 열린 각 이메일에 대해 한 번씩 또는 다른 캠페인에서 사용된 횟수에 관계없이 각 이메일에 대해 한 번씩 이메일 열기 추적을 제어할 수 있습니다.
 

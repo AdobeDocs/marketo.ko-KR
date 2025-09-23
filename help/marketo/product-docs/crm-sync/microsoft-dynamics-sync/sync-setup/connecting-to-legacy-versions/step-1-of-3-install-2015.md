@@ -4,7 +4,7 @@ description: Microsoft Dynamics 2015용 Marketo 설치 온-프레미스 단계 1
 title: Marketo Microsoft Dynamics 2015 온-프레미스 단계 1/3
 exl-id: c9b6d365-15c1-4eff-938c-8433b1fe7f24
 feature: Microsoft Dynamics
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '261'
 ht-degree: 1%
@@ -39,11 +39,11 @@ ht-degree: 1%
 
    ![](assets/image2015-3-19-8-33-3.png)
 
-1. **[!UICONTROL Import]**&#x200B;을(를) 클릭합니다.
+1. **[!UICONTROL Import]**&#x200B;를 클릭합니다.
 
    ![](assets/image2015-3-19-8-34-8.png)
 
-1. **[!UICONTROL Browse]**&#x200B;을(를) 클릭하고 [다운로드한](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/download-the-marketo-lead-management-solution.md) 솔루션을 선택합니다. **[!UICONTROL Next]**&#x200B;을(를) 클릭합니다.
+1. **[!UICONTROL Browse]**&#x200B;을(를) 클릭하고 [다운로드한](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/download-the-marketo-lead-management-solution.md) 솔루션을 선택합니다. **[!UICONTROL Next]**&#x200B;를 클릭합니다.
 
    ![](assets/image2015-3-19-9-20-56.png)
 
@@ -59,7 +59,7 @@ ht-degree: 1%
 
    ![](assets/image2015-3-19-9-21-50.png)
 
-1. SDK 옵션 확인란이 선택되어 있는지 확인합니다. **[!UICONTROL Import]**&#x200B;을(를) 클릭합니다.
+1. SDK 옵션 확인란이 선택되어 있는지 확인합니다. **[!UICONTROL Import]**&#x200B;를 클릭합니다.
 
    ![](assets/image2015-3-19-9-19-12.png)
 

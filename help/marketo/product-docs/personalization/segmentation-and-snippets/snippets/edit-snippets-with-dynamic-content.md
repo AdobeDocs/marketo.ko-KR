@@ -1,17 +1,17 @@
 ---
 unique-page-id: 2359466
 description: 다이내믹 콘텐츠를 사용하여 코드 조각 편집 - Marketo 문서 - 제품 설명서
-title: 다이내믹 콘텐츠를 사용하여 코드 조각 편집
+title: 동적 콘텐츠로 스니펫 편집
 exl-id: 44fa65b0-bc3c-4b7f-90af-0af99da73337
 feature: Snippets
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '111'
-ht-degree: 0%
+ht-degree: 9%
 
 ---
 
-# 다이내믹 콘텐츠를 사용하여 코드 조각 편집 {#edit-snippets-with-dynamic-content}
+# 동적 콘텐츠로 스니펫 편집 {#edit-snippets-with-dynamic-content}
 
 >[!PREREQUISITES]
 >

@@ -1,17 +1,17 @@
 ---
 unique-page-id: 2360217
 description: Analytics에 대한 속성 설정 변경 - Marketo 문서 - 제품 설명서
-title: Analytics에 대한 속성 설정 변경
+title: 분석용 속성 설정 변경
 exl-id: 4740b0fa-ddaf-46ed-87d6-8b3f8d35afe3
 feature: Administration
-source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '171'
-ht-degree: 0%
+ht-degree: 8%
 
 ---
 
-# Analytics에 대한 속성 설정 변경 {#change-attribution-settings-for-analytics}
+# 분석용 속성 설정 변경 {#change-attribution-settings-for-analytics}
 
 Marketo에서 첫 번째 및 다중 접점 속성, 잠재 고객 전환 지표 및 마케팅에 영향을 주는 영업 기회 플래그에 연락처를 연결하는 방식을 변경할 수 있습니다.
 
@@ -21,7 +21,7 @@ Marketo에서 첫 번째 및 다중 접점 속성, 잠재 고객 전환 지표 �
 
    ![](assets/change-attribution-settings-for-analytics-1.png)
 
-1. **[!UICONTROL Revenue Cycle Analytics]**&#x200B;을(를) 클릭합니다.
+1. **[!UICONTROL Revenue Cycle Analytics]**&#x200B;를 클릭합니다.
 
    ![](assets/change-attribution-settings-for-analytics-2.png)
 

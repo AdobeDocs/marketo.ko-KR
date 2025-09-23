@@ -2,14 +2,15 @@
 description: 이메일 보고서에서 병합/삭제된 레코드 필터링 - Marketo 문서 - 제품 설명서
 title: 이메일 보고서에서 병합/삭제된 레코드 필터링
 feature: Reporting
-source-git-commit: 26c97890c945978a37d98ca7e3f04e28ca41ea19
+exl-id: f62047cf-35a4-4b63-9328-3d5f7b778711
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '122'
-ht-degree: 0%
+ht-degree: 7%
 
 ---
 
-# 전자 메일 성능 보고서에서 삭제/병합된 레코드 필터링 {#filter-deleted-merged-records-in-an-email-performance-report}
+# 이메일 성과 보고서에서 삭제/병합된 레코드 필터링 {#filter-deleted-merged-records-in-an-email-performance-report}
 
 이메일 성과 보고서는 프로그램의 이메일(&#39;로컬 자산&#39;), Design Studio의 이메일(&#39;글로벌 자산&#39;) 또는 보관된 이메일에 중점을 둡니다.
 

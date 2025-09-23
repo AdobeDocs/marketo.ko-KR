@@ -4,10 +4,10 @@ description: 숨겨진 양식 필드 값 설정 - Marketo 문서 - 제품 설명
 title: 숨겨진 양식 필드 값 설정
 exl-id: acec7de1-8567-42c0-a6ce-a91b0bf69f41
 feature: Forms
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '255'
-ht-degree: 1%
+ht-degree: 6%
 
 ---
 
@@ -83,10 +83,10 @@ ht-degree: 1%
    >
    >레퍼러 매개 변수를 찾을 수 없는 경우 **[!UICONTROL Default Value]**&#x200B;을(를) 입력할 수 있습니다.
 
-1. **[!UICONTROL Finish]**&#x200B;을(를) 클릭합니다.
+1. **[!UICONTROL Finish]**&#x200B;를 클릭합니다.
 
    ![](assets/image2014-9-15-13-3a10-3a26.png)
 
-1. **[!UICONTROL Approve and Close]**&#x200B;을(를) 클릭합니다.
+1. **[!UICONTROL Approve and Close]**&#x200B;를 클릭합니다.
 
    ![](assets/image2014-9-15-13-3a10-3a43.png)

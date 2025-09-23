@@ -1,17 +1,17 @@
 ---
 unique-page-id: 2360235
 description: 영업 기회 영향 분석기 만들기 - Marketo 문서 - 제품 설명서
-title: Opportunity Influence Analyzer 만들기
+title: 기회 영향 분석기 만들기
 exl-id: a1ae4407-3668-4289-b177-fad1aee6c876
 feature: Reporting, Revenue Cycle Analytics
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '197'
-ht-degree: 1%
+ht-degree: 6%
 
 ---
 
-# Opportunity Influence Analyzer 만들기 {#create-an-opportunity-influence-analyzer}
+# 기회 영향 분석기 만들기 {#create-an-opportunity-influence-analyzer}
 
 Opportunity Influence Analyzer 를 사용하여 중요한 딜에 대한 마케팅의 기여를 보여 줍니다. 프로그램 및 이벤트 성공, 그리고 기회의 삶에서 흥미로운 순간을 살펴보십시오.
 
@@ -19,11 +19,11 @@ Opportunity Influence Analyzer 를 사용하여 중요한 딜에 대한 마케�
 >
 >Opportunity Influence Analyzer에서 유용한 정보를 얻으려면 연락처가 CRM의 Opportunity에 연결되어 있는지 확인하십시오.
 
-1. **[!UICONTROL Analytics]**&#x200B;을(를) 클릭합니다.
+1. **[!UICONTROL Analytics]**&#x200B;를 클릭합니다.
 
    ![](assets/analytics.png)
 
-1. **[!UICONTROL Opportunity Influence Analyzer]**&#x200B;을(를) 클릭합니다.
+1. **[!UICONTROL Opportunity Influence Analyzer]**&#x200B;를 클릭합니다.
 
    ![](assets/two.png)
 

@@ -4,10 +4,10 @@ description: 시스템 관리 필드 이해 - Marketo 문서 - 제품 설명서
 title: 시스템 관리 필드 이해
 exl-id: 4a58d41f-c2f5-4bcc-93ef-10a31e5475fd
 feature: Field Management
-source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '523'
-ht-degree: 8%
+ht-degree: 11%
 
 ---
 

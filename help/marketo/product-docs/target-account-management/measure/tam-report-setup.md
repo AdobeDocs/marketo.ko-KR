@@ -4,10 +4,10 @@ description: TAM 보고서 설정 - Marketo 문서 - 제품 설명서
 title: TAM 보고서 설정
 exl-id: fc451b05-12a2-4761-a273-2c71f92f2284
 feature: Target Account Management
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '144'
-ht-degree: 3%
+ht-degree: 7%
 
 ---
 
@@ -17,11 +17,11 @@ TAM Sales Report 는 계정 팀에게 매주 전송되는 개인화된 이메일
 
 ## 보고서 설정 {#report-setup}
 
-1. **[!UICONTROL Admin]**&#x200B;을(를) 클릭합니다.
+1. **[!UICONTROL Admin]**&#x200B;를 클릭합니다.
 
    ![](assets/one-3.png)
 
-1. **[!UICONTROL Target Account Management]**&#x200B;을(를) 클릭합니다.
+1. **[!UICONTROL Target Account Management]**&#x200B;를 클릭합니다.
 
    ![](assets/tam-report-setup-2.png)
 
@@ -45,7 +45,7 @@ TAM Sales Report 는 계정 팀에게 매주 전송되는 개인화된 이메일
    >
    >알림은 계정 소유자 또는 팀원에게만 전송됩니다.
 
-1. **[!UICONTROL Save]**&#x200B;을(를) 클릭합니다.
+1. **[!UICONTROL Save]**&#x200B;를 클릭합니다.
 
    ![](assets/seven-2.png)
 
@@ -59,11 +59,11 @@ TAM Sales Report 는 계정 팀에게 매주 전송되는 개인화된 이메일
 
 ## 재가입 방법 {#how-to-resubscribe}
 
-1. **[!UICONTROL Admin]**&#x200B;을(를) 클릭합니다.
+1. **[!UICONTROL Admin]**&#x200B;를 클릭합니다.
 
    ![](assets/one-3.png)
 
-1. **[!UICONTROL Target Account Management]**&#x200B;을(를) 클릭합니다.
+1. **[!UICONTROL Target Account Management]**&#x200B;를 클릭합니다.
 
    ![](assets/tam-report-setup-10.png)
 

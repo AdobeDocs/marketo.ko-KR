@@ -3,10 +3,10 @@ description: 제품 관리자 - Marketo 문서 - 제품 설명서 추가 또는 
 title: 제품 관리자 추가 또는 제거
 exl-id: 9c48b830-cce6-48bd-88c4-4d02e3ada2b1
 feature: Marketo with Adobe Identity
-source-git-commit: 02b2e39580c5eac63de4b4b7fdaf2a835fdd4ba5
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
-source-wordcount: '286'
-ht-degree: 2%
+source-wordcount: '275'
+ht-degree: 6%
 
 ---
 
@@ -26,7 +26,7 @@ ht-degree: 2%
 
    ![](assets/add-or-remove-a-product-admin-1.png)
 
-1. **Marketo Engage**&#x200B;을 클릭합니다.
+1. **Marketo Engage**&#x200B;을(를) 클릭합니다.
 
    ![](assets/add-or-remove-a-product-admin-2.png)
 
@@ -34,15 +34,15 @@ ht-degree: 2%
 
    ![](assets/add-or-remove-a-product-admin-3.png)
 
-1. **[!UICONTROL 관리자]** 탭을 클릭합니다.
+1. **[!UICONTROL Admins]** 탭을 클릭합니다.
 
    ![](assets/add-or-remove-a-product-admin-4.png)
 
-1. **[!UICONTROL 관리자 추가]** 단추를 클릭합니다.
+1. **[!UICONTROL Add Admin]** 단추를 클릭합니다.
 
    ![](assets/add-or-remove-a-product-admin-5.png)
 
-1. 추가하려는 관리자의 이메일 주소 또는 사용자 이름을 입력합니다. 이름과 성은 선택 사항입니다. **[!UICONTROL 저장]**&#x200B;을 클릭합니다.
+1. 추가하려는 관리자의 이메일 주소 또는 사용자 이름을 입력합니다. 이름과 성은 선택 사항입니다. **[!UICONTROL Save]**&#x200B;를 클릭합니다.
 
    ![](assets/add-or-remove-a-product-admin-6.png)
 
@@ -50,7 +50,7 @@ ht-degree: 2%
 
    ![](assets/add-or-remove-a-product-admin-7.png)
 
-1. Products에서 세 점 메뉴를 클릭하고 **[!UICONTROL 편집]**&#x200B;을 선택합니다.
+1. Products에서 세 점 메뉴를 클릭하고 **[!UICONTROL Edit]**&#x200B;을(를) 선택합니다.
 
    ![](assets/add-or-remove-a-product-admin-8.png)
 
@@ -58,15 +58,15 @@ ht-degree: 2%
 
    ![](assets/add-or-remove-a-product-admin-9.png)
 
-1. **[!UICONTROL 저장]**&#x200B;을 클릭합니다.
+1. **[!UICONTROL Save]**&#x200B;를 클릭합니다.
 
    ![](assets/add-or-remove-a-product-admin-10.png)
 
-그러면 사용자는 두 개의 이메일을 받게 됩니다. 첫 번째 이메일은 Marketo Engage에 대한 제품 관리자 권한이 부여되었음을 알려줍니다. 두 번째 이메일은 Marketo Engage에 로그인하도록 초대합니다.
+그러면 사용자는 두 개의 이메일을 받게 됩니다. 첫 번째 이메일은 Marketo Engage에 제품 관리자 권한이 부여되었음을 알려줍니다. 두 번째 이메일은 사용자를 Marketo Engage에 로그인하도록 초대합니다.
 
 >[!NOTE]
 >
->제품 관리자 사용자가 Adobe Admin Console을 통해 Marketo Engage에 추가되면 사용자는 구독 내에서 Adobe 제품 관리자 역할이 부여됩니다.
+>Adobe Admin Console을 통해 Marketo Engage에 제품 관리자 사용자를 추가하면 해당 사용자는 구독 내에서 Adobe 제품 관리자 역할이 부여됩니다.
 
 ## 관리자 제거 {#remove-a-user}
 
@@ -74,7 +74,7 @@ ht-degree: 2%
 
    ![](assets/add-or-remove-a-product-admin-11.png)
 
-1. **Marketo Engage**&#x200B;을 클릭합니다.
+1. **Marketo Engage**&#x200B;을(를) 클릭합니다.
 
    ![](assets/add-or-remove-a-product-admin-12.png)
 
@@ -82,16 +82,16 @@ ht-degree: 2%
 
    ![](assets/add-or-remove-a-product-admin-13.png)
 
-1. **[!UICONTROL 관리자]** 탭을 클릭합니다.
+1. **[!UICONTROL Admins]** 탭을 클릭합니다.
 
    ![](assets/add-or-remove-a-product-admin-14.png)
 
-1. 제거할 관리자를 선택하고 **[!UICONTROL 관리자 제거]** 단추를 클릭합니다.
+1. 제거할 관리자를 선택하고 **[!UICONTROL Remove Admin]** 단추를 클릭합니다.
 
    ![](assets/add-or-remove-a-product-admin-15.png)
 
-1. 확인하려면 **[!UICONTROL 관리자 제거]**&#x200B;를 클릭하세요.
+1. **[!UICONTROL Remove Admin]**&#x200B;을(를) 클릭하여 확인합니다.
 
    ![](assets/add-or-remove-a-product-admin-16.png)
 
-그러면 사용자는 더 이상 Marketo Engage에 대한 제품 관리자 액세스 권한이 없음을 알리는 이메일을 받게 됩니다.
+그러면 사용자는 Marketo Engage에 대한 제품 관리자 액세스 권한이 더 이상 없음을 알리는 이메일을 받게 됩니다.

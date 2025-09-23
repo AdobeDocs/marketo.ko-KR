@@ -1,17 +1,17 @@
 ---
 unique-page-id: 14352476
 description: 작업(SFDC)의 활동 유형 필드 - Marketo 문서 - 제품 설명서
-title: 작업의 활동 유형 필드(SFDC)
+title: 작업의 활동 유형 필드 (SFDC)
 exl-id: b291e641-d3af-4667-a01c-cd491cd87add
 feature: Marketo Sales Connect
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '245'
-ht-degree: 2%
+ht-degree: 7%
 
 ---
 
-# 작업의 활동 유형 필드(SFDC) {#activity-type-field-on-tasks-sfdc}
+# 작업의 활동 유형 필드 (SFDC) {#activity-type-field-on-tasks-sfdc}
 
 [!DNL Sales Connect]을(를) 통해 [!DNL Salesforce]의 활동으로 전자 메일 및 호출을 기록할 수 있습니다. [!DNL Salesforce]에 중요한 데이터가 있는 핵심 부분에 [!UICONTROL Type] 필드가 올바른 값을 채우는 중입니다.
 
@@ -31,10 +31,10 @@ ht-degree: 2%
 먼저 올바른 선택 목록 값이 있는지 확인합니다. 선택 목록을 변경하려면 [!DNL Salesforce] 관리자의 도움이 필요합니다.
 
 1. [Salesforce.com](https://salesforce.com)&#x200B;(으)로 이동하여 오른쪽 상단의 설치 프로그램을 클릭합니다.
-1. **[!UICONTROL Customize]**&#x200B;을(를) 클릭합니다.
-1. **[!UICONTROL Activities]**&#x200B;을(를) 클릭합니다.
-1. **[!UICONTROL Task Fields]**&#x200B;을(를) 클릭합니다.
-1. **[!UICONTROL Type]**&#x200B;을(를) 클릭합니다.
+1. **[!UICONTROL Customize]**&#x200B;를 클릭합니다.
+1. **[!UICONTROL Activities]**&#x200B;를 클릭합니다.
+1. **[!UICONTROL Task Fields]**&#x200B;를 클릭합니다.
+1. **[!UICONTROL Type]**&#x200B;를 클릭합니다.
 1. 이제 작업 유형 선택 목록에 있습니다. &#39;기본값&#39;이 선택되어 있지 않은지 확인하십시오.
 1. [!UICONTROL Type], [!UICONTROL Email] 및 [!UICONTROL Call]에 대해 [!UICONTROL Reply] 값이 나열되어 있는지 확인하십시오.
 

@@ -1,17 +1,17 @@
 ---
 unique-page-id: 2952636
 description: 사용자 지정 논리 - Marketo 문서 - 제품 설명서로 중복 사용자 찾기
-title: 사용자 지정 논리로 중복 사용자 찾기
+title: 사용자 정의 논리로 중복 사용자 찾기
 exl-id: e268ca34-03a3-403a-8869-4e2b60bba05c
 feature: Smart Lists
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '124'
-ht-degree: 0%
+ht-degree: 19%
 
 ---
 
-# 사용자 지정 논리로 중복 사용자 찾기 {#find-duplicate-people-with-custom-logic}
+# 사용자 정의 논리로 중복 사용자 찾기 {#find-duplicate-people-with-custom-logic}
 
 Marketo Engage에는 이메일 주소를 일치시켜 중복 사용자를 찾는 시스템 스마트 목록이 있습니다. 다른 필드를 사용하여 와(과) 중복되는 항목을 찾으려면 다음 방법을 사용하십시오.
 

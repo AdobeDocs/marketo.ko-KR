@@ -3,10 +3,10 @@ description: 사용자 및 관리자 초대 - Marketo 문서 - 제품 설명서
 title: 사용자 및 관리자 초대
 exl-id: 00a6ea00-f8ba-4079-86dc-def44599b3ea
 feature: Sales Insight Actions
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '170'
-ht-degree: 0%
+ht-degree: 6%
 
 ---
 
@@ -48,7 +48,7 @@ ht-degree: 0%
 
    ![](assets/invite-users-and-admins-6.png)
 
-1. **[!UICONTROL OK]**&#x200B;을(를) 클릭합니다.
+1. **[!UICONTROL OK]**&#x200B;를 클릭합니다.
 
    ![](assets/invite-users-and-admins-7.png)
 

@@ -1,17 +1,17 @@
 ---
 unique-page-id: 11384661
 description: 예측 콘텐츠의 제목 승인 - Marketo 문서 - 제품 설명서
-title: 예측 콘텐츠에 대한 제목 승인
+title: 예측 콘텐츠 제목 승인
 exl-id: 158ab21d-f5d6-452d-976e-8b50b2670b1a
 feature: Predictive Content
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '117'
-ht-degree: 0%
+ht-degree: 14%
 
 ---
 
-# 예측 콘텐츠에 대한 제목 승인 {#approve-a-title-for-predictive-content}
+# 예측 콘텐츠 제목 승인 {#approve-a-title-for-predictive-content}
 
 [!UICONTROL All Content] 페이지 또는 [!UICONTROL All Content] 팝업에서 승인하여 [!UICONTROL Edit Content] 페이지의 제목을 예측 콘텐츠에 추가할 수 있습니다.
 
@@ -21,7 +21,7 @@ ht-degree: 0%
 
    ![](assets/image2017-10-3-9-3a9-3a47.png)
 
-1. **[!UICONTROL Content Actions]** 드롭다운을 클릭하고 **[!UICONTROL Approve for Predictive Content]**&#x200B;을(를) 선택합니다.
+1. **[!UICONTROL Content Actions]** 드롭다운을 클릭하고 **[!UICONTROL Approve for Predictive Content]**&#x200B;를 선택합니다.
 
    ![](assets/image2017-10-3-9-3a10-3a31.png)
 

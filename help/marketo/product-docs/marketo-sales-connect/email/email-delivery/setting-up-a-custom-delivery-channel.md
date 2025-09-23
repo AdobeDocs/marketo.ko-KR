@@ -1,17 +1,17 @@
 ---
 unique-page-id: 14746470
 description: 사용자 지정 게재 채널 설정 - Marketo 문서 - 제품 설명서
-title: 사용자 지정 게재 채널 설정
+title: 사용자 정의 게재 채널 설정
 exl-id: a31f7bfd-a4ee-4948-9bdc-b49d47054d40
 feature: Marketo Sales Connect
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '353'
-ht-degree: 0%
+ht-degree: 4%
 
 ---
 
-# 사용자 지정 게재 채널 설정 {#setting-up-a-custom-delivery-channel}
+# 사용자 정의 게재 채널 설정 {#setting-up-a-custom-delivery-channel}
 
 [!DNL Marketo Sales Connect]을(를) 사용하면 전자 메일 배달을 위해 사용자 지정 SMTP 서버와 통합할 수 있습니다. Gmail 또는 [!DNL Exchange] 배달 채널에서 대량 전자 메일을 보내지 않으려는 사용자에게 적합한 옵션입니다.
 
@@ -33,7 +33,7 @@ ht-degree: 0%
 
    ![](assets/setting-up-a-custom-delivery-channel-2.png)
 
-1. **[!UICONTROL Custom Delivery Channel]**&#x200B;을(를) 클릭합니다.
+1. **[!UICONTROL Custom Delivery Channel]**&#x200B;를 클릭합니다.
 
    ![](assets/setting-up-a-custom-delivery-channel-3.png)
 
@@ -57,7 +57,7 @@ ht-degree: 0%
 
    ![](assets/setting-up-a-custom-delivery-channel-7.png)
 
-1. [!UICONTROL Channel] 드롭다운을 클릭하고 방금 추가한 사용자 지정 게재 채널을 선택합니다. **[!UICONTROL Save]**&#x200B;을(를) 클릭합니다.
+1. [!UICONTROL Channel] 드롭다운을 클릭하고 방금 추가한 사용자 지정 게재 채널을 선택합니다. **[!UICONTROL Save]**&#x200B;를 클릭합니다.
 
    ![](assets/setting-up-a-custom-delivery-channel-8.png)
 
@@ -79,7 +79,7 @@ ht-degree: 0%
 
    ![](assets/setting-up-a-custom-delivery-channel-10.png)
 
-1. **[!UICONTROL Team Delivery Channel]**&#x200B;을(를) 클릭합니다.
+1. **[!UICONTROL Team Delivery Channel]**&#x200B;를 클릭합니다.
 
    ![](assets/setting-up-a-custom-delivery-channel-11.png)
 

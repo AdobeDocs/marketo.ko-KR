@@ -1,17 +1,17 @@
 ---
 unique-page-id: 7512105
 description: 보고서를 그룹 보고서에 복제 - Marketo 문서 - 제품 설명서
-title: 보고서를 그룹 보고서에 복제
+title: 그룹 보고서에 보고서 복제
 exl-id: e5587d17-9ff6-4a38-ae50-1fe8c2685a72
 feature: Reporting
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '94'
-ht-degree: 2%
+ht-degree: 14%
 
 ---
 
-# 보고서를 그룹 보고서에 복제 {#clone-a-report-to-group-reports}
+# 그룹 보고서에 보고서 복제 {#clone-a-report-to-group-reports}
 
 **[!UICONTROL My Reports]**&#x200B;의 모든 보고서는 귀하에게만 표시됩니다. 다른 모든 보고서에 액세스할 수 있도록 하려면 어떻게 해야 합니까? 이를 수행하는 방법은 다음과 같습니다.
 

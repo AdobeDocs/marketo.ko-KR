@@ -4,10 +4,10 @@ description: 로그인 및 사용자 관리 - Marketo 문서 - 제품 설명서
 title: 로그인 및 사용자 관리
 exl-id: 3cf5a50a-1926-4fb6-a1fe-39ba5eb2560f
 feature: Web Personalization
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '267'
-ht-degree: 0%
+ht-degree: 3%
 
 ---
 
@@ -19,7 +19,7 @@ ht-degree: 0%
 
    ![](assets/image2015-4-28-19-3a50-3a49.png)
 
-1. **[!UICONTROL Roles]**&#x200B;을(를) 클릭합니다.
+1. **[!UICONTROL Roles]**&#x200B;를 클릭합니다.
 
    ![](assets/image2015-4-28-19-3a57-3a58.png)
 
@@ -27,7 +27,7 @@ ht-degree: 0%
    >
    >웹 Personalization(WP) 사용자 역할이 이미 있는 경우 4단계와 같이 구성되어 있는지 확인하십시오.
 
-1. **[!UICONTROL New Role]**&#x200B;을(를) 클릭합니다.
+1. **[!UICONTROL New Role]**&#x200B;를 클릭합니다.
 
    ![](assets/three-1.png)
 

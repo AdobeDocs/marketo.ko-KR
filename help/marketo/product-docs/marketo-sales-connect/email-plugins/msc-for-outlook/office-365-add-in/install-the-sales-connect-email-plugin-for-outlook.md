@@ -4,14 +4,14 @@ description: Outlook용 Sales Connect 이메일 플러그인 - Marketo 문서 - 
 title: Outlook용 Sales Connect 이메일 플러그인 설치
 exl-id: ff741d1b-caa5-49c3-b1e0-afd69c283e8c
 feature: Marketo Sales Connect
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '183'
-ht-degree: 0%
+ht-degree: 6%
 
 ---
 
-# Outlook용 Sales Connect 이메일 플러그인 설치(온라인, Mac 및 Windows) {#install-the-sales-connect-email-plugin-for-outlook}
+# Outlook용 Sales Connect 이메일 플러그인 설치 (온라인, Mac, Windows) {#install-the-sales-connect-email-plugin-for-outlook}
 
 [!DNL Outlook Web Apps]과(와) 통합을 만들었습니다. [!DNL Outlook Web Apps]은(는) [!DNL Outlook] 구독과 함께 제공된 [!DNL Office 365] 버전입니다. 브라우저 기반이므로 통합은 Mac 및 [!DNL Windows] 모두에서 작동합니다. [전체 설치 가이드를 보려면 여기를 클릭하세요](https://s3.amazonaws.com/tout-user-store/outlook-mac/assets/install_tout_add-in_outlook_mac.pdf).
 

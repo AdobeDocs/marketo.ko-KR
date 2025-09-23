@@ -3,10 +3,10 @@ description: MSI 보기 설정 - Marketo 문서 - 제품 설명서
 title: MSI 보기 설정
 exl-id: 8a45c006-73d4-4af8-ad62-b084056d1f7d
 feature: Marketo Sales Insights
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '236'
-ht-degree: 0%
+ht-degree: 3%
 
 ---
 
@@ -18,7 +18,7 @@ Dynamics에서 [!DNL Sales Insight] 플러그인을 설치하면 사이트 맵�
 
 1. 화면 왼쪽 상단에서 **[!UICONTROL Settings]**&#x200B;을(를) 클릭합니다. 사용자 지정에서 **[!UICONTROL Customizations]**&#x200B;을(를) 선택합니다.
 
-1. **[!UICONTROL Customize the System]**&#x200B;을(를) 클릭합니다.
+1. **[!UICONTROL Customize the System]**&#x200B;를 클릭합니다.
 
 1. 왼쪽의 트리에서 **[!UICONTROL Client Extensions]**&#x200B;을(를) 클릭하고 **[!UICONTROL Site Map]**&#x200B;을(를) 두 번 클릭합니다.
 

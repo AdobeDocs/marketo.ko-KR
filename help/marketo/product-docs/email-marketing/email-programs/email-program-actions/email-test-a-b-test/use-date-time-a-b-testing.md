@@ -1,17 +1,17 @@
 ---
 unique-page-id: 2359520
 description: '"날짜/시간" A/B 테스트 - Marketo 문서 - 제품 설명서 사용'
-title: '"날짜/시간" A/B 테스트 사용'
+title: “날짜/시간” A/B 테스트 사용
 exl-id: ee686d46-9427-4f8b-a16f-858c5109cabd
 feature: Email Programs, A/B Testing
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 65d607e279fb86b0816ccaec2f4bf3c69e309cb9
 workflow-type: tm+mt
 source-wordcount: '249'
-ht-degree: 0%
+ht-degree: 4%
 
 ---
 
-# &quot;날짜/시간&quot; A/B 테스트 사용 {#use-date-time-a-b-testing}
+# “날짜/시간” A/B 테스트 사용 {#use-date-time-a-b-testing}
 
 이메일을 쉽게 A/B 테스트할 수 있습니다. 하나의 테스트는 **[!UICONTROL Date/Time]** 테스트입니다. 이메일을 보내는 데 하루 또는 요일이 가장 적합한 시간을 테스트합니다. 설정 방법은 다음과 같습니다.
 

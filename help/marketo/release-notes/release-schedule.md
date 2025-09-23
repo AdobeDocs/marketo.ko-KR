@@ -4,8 +4,8 @@ description: 릴리스 일정 - Marketo 설명서 - 제품 설명서
 title: 릴리스 일정
 exl-id: 38bd10e3-7f47-46f7-b9b0-83e1ab50014c
 feature: Release Information
-source-git-commit: 015ece7d2ad38f6e0c957298bce432316e8d9efa
-workflow-type: ht
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+workflow-type: tm+mt
 source-wordcount: '136'
 ht-degree: 100%
 

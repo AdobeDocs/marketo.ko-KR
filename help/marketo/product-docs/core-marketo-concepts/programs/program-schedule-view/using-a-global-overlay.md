@@ -4,10 +4,10 @@ description: 글로벌 오버레이 사용 - Marketo 문서 - 제품 설명서
 title: 글로벌 오버레이 사용
 exl-id: b4e69f20-f1a7-43c4-92f7-e8802b4ce322
 feature: Programs
-source-git-commit: b21f955bf98063e11f8ed3fdc6f164134ee4f5aa
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
-source-wordcount: '147'
-ht-degree: 0%
+source-wordcount: '145'
+ht-degree: 5%
 
 ---
 
@@ -25,7 +25,7 @@ ht-degree: 0%
 
    ![](assets/image2014-9-24-10-16-4.png)
 
-1. 오른쪽 아래 모서리에서 **[!UICONTROL 오버레이]**&#x200B;를 선택합니다.
+1. 오른쪽 아래 모서리에서 **[!UICONTROL Overlay]**&#x200B;을(를) 선택합니다.
 
    ![](assets/image2014-9-24-10-3a16-3a9.png)
 
@@ -41,7 +41,7 @@ ht-degree: 0%
 
 [마케팅 일정에 필터를 저장](/help/marketo/product-docs/core-marketo-concepts/marketing-calendar/working-with-the-calendar/saving-a-filter-definition-in-the-marketing-calendar.md){target="_blank"}한 경우 프로그램 일정 보기에서 오버레이로 사용할 수 있습니다.
 
-1. **[!UICONTROL 오버레이]** 드롭다운을 클릭하고 필터 정의를 선택합니다.
+1. **[!UICONTROL Overlay]** 드롭다운을 클릭하고 필터 정의를 선택합니다.
 
    ![](assets/image2014-9-24-10-3a16-3a26.png)
 

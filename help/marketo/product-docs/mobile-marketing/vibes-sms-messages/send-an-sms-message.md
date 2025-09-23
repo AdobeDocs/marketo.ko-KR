@@ -3,10 +3,10 @@ description: SMS 메시지 보내기 - Marketo 문서 - 제품 설명서
 title: SMS 메시지 보내기
 feature: Mobile Marketing
 exl-id: 2c863ded-f441-4217-9541-6dcc442d9831
-source-git-commit: dae00c6877e638ae60305122f3f3e17b3c922e10
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '321'
-ht-degree: 0%
+ht-degree: 2%
 
 ---
 
@@ -18,7 +18,7 @@ ht-degree: 0%
 >
 >SMS 메시지를 보낼 때:
 >
->* Marketo Engage이 전화 번호별로 중복 제거됩니다. 따라서 여러 사람이 동일한 전화 번호를 사용하는 경우 한 사람만 Vibes 구독 목록에 가입되어 있는 경우 메시지를 받게 됩니다. 데이터 중복 제거는 Marketo 프로그램 수준이 아닌 Vibes 구독 목록 수준에서 수행됩니다.
+>* Marketo Engage은 전화 번호로 중복 제거됩니다. 따라서 여러 사람이 동일한 전화 번호를 사용하는 경우 한 사람만 Vibes 구독 목록에 가입되어 있는 경우 메시지를 받게 됩니다. 데이터 중복 제거는 Marketo 프로그램 수준이 아닌 Vibes 구독 목록 수준에서 수행됩니다.
 >* Marketo은 차단 목록에 추가된 또는 마케팅 중단 대상자에게 보내지 않습니다.
 >* Vibes 모바일 데이터베이스 목록에 없는 경우 구독을 취소한 사용자에게는 SMS 메시지가 전송되지 않습니다.
 

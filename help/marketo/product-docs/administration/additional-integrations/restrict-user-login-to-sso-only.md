@@ -4,10 +4,10 @@ description: SSO로만 사용자 로그인 제한 - Marketo 문서 - 제품 설�
 title: SSO로만 사용자 로그인 제한
 exl-id: 74915871-dcf5-478d-a5ae-b20c3d2de553
 feature: Administration
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '228'
-ht-degree: 1%
+ht-degree: 8%
 
 ---
 
@@ -27,11 +27,11 @@ ht-degree: 1%
 
    ![](assets/restrict-user-login-to-sso-only-1.png)
 
-1. **[!UICONTROL Login Settings]**&#x200B;을(를) 클릭합니다.
+1. **[!UICONTROL Login Settings]**&#x200B;를 클릭합니다.
 
    ![](assets/restrict-user-login-to-sso-only-2.png)
 
-1. **[!UICONTROL Edit Security Settings]**&#x200B;을(를) 클릭합니다.
+1. **[!UICONTROL Edit Security Settings]**&#x200B;를 클릭합니다.
 
    ![](assets/restrict-user-login-to-sso-only-3.png)
 

@@ -4,10 +4,10 @@ description: 목록에서 제거 - Marketo 문서 - 제품 설명서
 title: 목록에서 제거
 exl-id: ec837329-f904-47ea-b276-a0f7becdcc75
 feature: Smart Campaigns
-source-git-commit: 12f2399859c784095cc2c1df772c66c649106ba3
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '47'
-ht-degree: 0%
+ht-degree: 12%
 
 ---
 

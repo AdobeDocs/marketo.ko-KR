@@ -1,13 +1,13 @@
 ---
 unique-page-id: 10099167
 description: Sales Insight - Marketo 문서 - 제품 설명서에서 작업 선택
-title: 영업 Insight에서 작업 선택
+title: Sales Insight에서 작업 선택
 exl-id: 0e9d3bc0-ac0a-415b-9931-382c3c68cfe2
 feature: Marketo Sales Insights
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '187'
-ht-degree: 0%
+ht-degree: 3%
 
 ---
 

@@ -1,17 +1,17 @@
 ---
 unique-page-id: 2359594
 description: 양식에 필드 세트 추가 - Marketo 문서 - 제품 설명서
-title: 양식에 필드 집합 추가
+title: 양식에 FieldSet 추가
 exl-id: c549781f-f61b-4963-8f9e-58d3e7346fd1
 feature: Forms
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '95'
-ht-degree: 0%
+ht-degree: 12%
 
 ---
 
-# 양식에 필드 집합 추가 {#add-a-fieldset-to-a-form}
+# 양식에 FieldSet 추가 {#add-a-fieldset-to-a-form}
 
 필드 세트는 훌륭합니다. 그들은 여러 밭을 함께 모은다. 한 번에 전체 블록을 제어할 수도 있습니다!
 

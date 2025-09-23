@@ -1,17 +1,17 @@
 ---
 unique-page-id: 10100266
 description: 사용자 지정 활동 이해 - Marketo 문서 - 제품 설명서
-title: 사용자 지정 활동 이해
+title: 사용자 정의 활동 이해
 exl-id: 0bb74d9d-3a9d-4ef7-8c8c-2de36cd6190b
 feature: Custom Activities
-source-git-commit: 2b610cc3486b745212b0b1f36018a83214d7ecd7
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '259'
-ht-degree: 0%
+ht-degree: 3%
 
 ---
 
-# 사용자 지정 활동 이해 {#understanding-custom-activities}
+# 사용자 정의 활동 이해 {#understanding-custom-activities}
 
 사용자 지정 활동으로 사용자가 비즈니스에 대해 수행한 작업을 추적합니다.
 
@@ -29,7 +29,7 @@ ht-degree: 0%
 
 **필드** 활동에 연결할 [추가 필드](/help/marketo/product-docs/administration/marketo-custom-activities/add-edit-delete-marketo-custom-activity-fields.md)를 추가할 수 있습니다. 기본 필드와 마찬가지로 스마트 목록에서 필터링 기준으로 사용할 수 있습니다.
 
-**시작**
+**시작하기**
 
 사용자 지정 활동은 표준 활동과 동일하게 작동합니다. 단, 두 부분으로 구성된 프로세스입니다.
 

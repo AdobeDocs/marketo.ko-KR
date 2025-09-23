@@ -3,7 +3,7 @@ description: ' [!DNL Microsoft Dynamics] 2016/[!DNL Dynamics] 365 온-프레미�
 title: ' [!DNL Microsoft Dynamics] 2016/[!DNL Dynamics] 365 온-프레미스 단계 3/3에 대한 Marketo 설치'
 exl-id: ae801a59-8e29-479c-84c5-a18c7511f21f
 feature: Microsoft Dynamics
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '379'
 ht-degree: 1%
@@ -27,7 +27,7 @@ ht-degree: 1%
 
    ![](assets/login-admin.png)
 
-1. **[!UICONTROL CRM]**&#x200B;을(를) 클릭합니다.
+1. **[!UICONTROL CRM]**&#x200B;를 클릭합니다.
 
    ![](assets/image2015-3-16-9-47-34.png)
 
@@ -63,7 +63,7 @@ ht-degree: 1%
 
    ![](assets/image2015-3-16-9-51-28.png)
 
-1. Marketo에 동기화할 필드를 선택하면 미리 선택됩니다. **[!UICONTROL Save]**&#x200B;을(를) 클릭합니다.
+1. Marketo에 동기화할 필드를 선택하면 미리 선택됩니다. **[!UICONTROL Save]**&#x200B;를 클릭합니다.
 
    ![](assets/image2016-8-25-15-3a14-3a28.png)
 
@@ -83,7 +83,7 @@ ht-degree: 1%
 
    ![](assets/image2015-10-9-9-3a52-3a23.png)
 
-1. 필드로 스크롤하여 확인합니다. 실제 이름은 new_synctomkto여야 하지만 표시 이름은 무엇이든 될 수 있습니다. **[!UICONTROL Save]**&#x200B;을(를) 클릭합니다.
+1. 필드로 스크롤하여 확인합니다. 실제 이름은 new_synctomkto여야 하지만 표시 이름은 무엇이든 될 수 있습니다. **[!UICONTROL Save]**&#x200B;를 클릭합니다.
 
    ![](assets/image2016-8-25-15-3a15-3a35.png)
 

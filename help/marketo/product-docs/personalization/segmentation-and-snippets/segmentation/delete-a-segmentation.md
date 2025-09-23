@@ -4,10 +4,10 @@ description: 세그먼테이션 삭제 - Marketo 문서 - 제품 설명서
 title: 세분화 삭제
 exl-id: d8d9b435-ced1-45cf-8615-d6a12a85bfcd
 feature: Segmentation
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '95'
-ht-degree: 0%
+ht-degree: 6%
 
 ---
 

@@ -1,17 +1,17 @@
 ---
 unique-page-id: 2360227
 description: 캠페인 이메일 보고서에서 Assets 필터링 - Marketo 문서 - 제품 설명서
-title: 캠페인 이메일 보고서에서 Assets 필터링
+title: 캠페인 이메일 보고서에서 자산 필터링
 exl-id: 8e5e9ddc-b456-4802-a2a1-24d53d23117f
 feature: Reporting
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '154'
-ht-degree: 0%
+ht-degree: 9%
 
 ---
 
-# 캠페인 이메일 보고서에서 Assets 필터링 {#filter-assets-in-a-campaign-email-reports}
+# 캠페인 이메일 보고서에서 자산 필터링 {#filter-assets-in-a-campaign-email-reports}
 
 [캠페인 이메일 성과](/help/marketo/product-docs/reporting/basic-reporting/report-types/campaign-email-performance-report.md) 보고서를 프로그램(&#39;로컬 자산&#39;)의 특정 [스마트 캠페인](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/creating-a-smart-campaign/understanding-batch-and-trigger-smart-campaigns.md) 또는 보관된 캠페인에 집중하십시오.
 

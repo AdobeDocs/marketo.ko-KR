@@ -1,17 +1,17 @@
 ---
 unique-page-id: 30081230
 description: 인력에 대한 대량 작업 - Marketo 문서 - 제품 설명서
-title: 사람에 대한 대량 작업
+title: 사용자에 대한 일괄 작업
 exl-id: 5956444c-8839-4f8f-97d0-20ed35a395aa
 feature: Marketo Sales Connect
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '140'
-ht-degree: 2%
+ht-degree: 8%
 
 ---
 
-# 사람에 대한 대량 작업 {#bulk-actions-on-people}
+# 사용자에 대한 일괄 작업 {#bulk-actions-on-people}
 
 시간을 절약하기 위해 연락처를 대량으로 사용하여 수행할 수 있는 몇 가지 작업이 있습니다.
 
@@ -35,7 +35,7 @@ ht-degree: 2%
 >
 >소스를 사용자 지정할 수 없습니다.
 
-## 인증 {#authorization}
+## Authorization {#authorization}
 
 [GDPR](https://eugdpr.org/)을(를) 준수하는 경우 권한 부여를 사용하여 해당 연락처에 참여할 수 있는 권한을 받은 방법을 지정하십시오.
 

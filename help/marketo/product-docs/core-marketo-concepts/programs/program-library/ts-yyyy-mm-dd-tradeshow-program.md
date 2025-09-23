@@ -1,16 +1,16 @@
 ---
 description: TS-YYYY-MM-DD-Tradeshow 프로그램 - Marketo 문서 - 제품 설명서
-title: TS-YYYY-MM-DD-Tradeshow 프로그램
+title: TS-YYYY-MM-DD-무역 박람회 프로그램
 feature: Programs
 exl-id: 39ef8d6e-392b-456e-a925-b1f6c2cb81d8
-source-git-commit: 21bcdc10fe1f3517612efe0f8e2adaf2f4411a70
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '410'
-ht-degree: 7%
+ht-degree: 10%
 
 ---
 
-# TS-YYYY-MM-DD-Tradeshow 프로그램 {#ts-yyyy-mm-dd-tradeshow-program}
+# TS-YYYY-MM-DD-무역 박람회 프로그램 {#ts-yyyy-mm-dd-tradeshow-program}
 
 Marketo Engage 이벤트 프로그램을 활용하는 초대 및 후속 이메일이 포함된 박람회 프로그램의 예입니다.
 

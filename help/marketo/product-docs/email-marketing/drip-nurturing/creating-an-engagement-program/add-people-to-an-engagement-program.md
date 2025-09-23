@@ -1,17 +1,17 @@
 ---
 unique-page-id: 2359782
 description: 참여 프로그램에 사람 추가 - Marketo 문서 - 제품 설명서
-title: 참여 프로그램에 사람 추가
+title: 참여 프로그램에 사용자 추가
 exl-id: b589b566-a61f-48c2-afb5-a2d82b2a28c4
 feature: Engagement Programs
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '99'
-ht-degree: 0%
+ht-degree: 12%
 
 ---
 
-# 참여 프로그램에 사람 추가 {#add-people-to-an-engagement-program}
+# 참여 프로그램에 사용자 추가 {#add-people-to-an-engagement-program}
 
 사람들이 참여 프로그램의 구성원이 될 수 있는 방법에는 여러 가지가 있습니다.
 

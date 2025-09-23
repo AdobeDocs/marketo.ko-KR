@@ -3,10 +3,10 @@ description: 활동 로그 - Marketo 문서 - 제품 설명서
 title: 활동 로그
 feature: Dynamic Chat
 exl-id: cddeccc3-3093-48b4-9b8a-13269b5b51e5
-source-git-commit: 3788898496c50ebc3a5a8bf6adbd79a270024be7
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
-source-wordcount: '51'
-ht-degree: 0%
+source-wordcount: '47'
+ht-degree: 8%
 
 ---
 
@@ -14,11 +14,11 @@ ht-degree: 0%
 
 이름, 소유자, 유형, 편집한 사용자 및 시점을 포함하여 모든 작업 및 관련 세부 정보 목록을 확인합니다.
 
-1. 생성 AI에서 **[!UICONTROL 지원 응답]**&#x200B;을 클릭합니다.
+1. 생성 AI에서 **[!UICONTROL Assisted responses]**&#x200B;을(를) 클릭합니다.
 
    ![](assets/activity-log-1.png)
 
-1. **[!UICONTROL 활동 로그]** 탭을 클릭합니다.
+1. **[!UICONTROL Activity log]** 탭을 클릭합니다.
 
    ![](assets/activity-log-2.png)
 

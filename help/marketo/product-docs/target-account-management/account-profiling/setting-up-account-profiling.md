@@ -4,10 +4,10 @@ description: 계정 프로파일링 설정 - Marketo 문서 - 제품 설명서
 title: 계정 프로파일링 설정
 exl-id: 6f3af2e7-f820-473b-8ed6-ff0982672e54
 feature: Target Account Management
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '157'
-ht-degree: 3%
+ht-degree: 8%
 
 ---
 
@@ -38,7 +38,7 @@ ht-degree: 3%
 
    ![](assets/two-1.png)
 
-1. 기본적으로 모델(Model) 탭이 열립니다. **[!UICONTROL Get Started]**&#x200B;을(를) 클릭합니다.
+1. 기본적으로 모델(Model) 탭이 열립니다. **[!UICONTROL Get Started]**&#x200B;를 클릭합니다.
 
    ![](assets/three.png)
 

@@ -1,17 +1,17 @@
 ---
 unique-page-id: 2359705
 description: 자유 형식 랜딩 페이지에 새 양식 추가 - Marketo 문서 - 제품 설명서
-title: 자유 양식 랜딩 페이지에 새 양식 추가
+title: 자유 형식 랜딩 페이지에 새 양식 추가
 exl-id: cfdcf4b1-5391-4eff-b4dd-ebeb6670a933
 feature: Landing Pages
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '132'
-ht-degree: 0%
+ht-degree: 14%
 
 ---
 
-# 자유 양식 랜딩 페이지에 새 양식 추가 {#add-a-new-form-to-a-free-form-landing-page}
+# 자유 형식 랜딩 페이지에 새 양식 추가 {#add-a-new-form-to-a-free-form-landing-page}
 
 양식, 랜딩 페이지 충족 랜딩 페이지, 모임 양식.
 
@@ -48,7 +48,7 @@ ht-degree: 0%
    >
    >후속 페이지는 양식을 제출한 후 표시되는 페이지입니다.
 
-1. **[!UICONTROL Insert]**&#x200B;을(를) 클릭합니다.
+1. **[!UICONTROL Insert]**&#x200B;를 클릭합니다.
 
    ![](assets/image2014-9-16-14-3a44-3a38.png)
 

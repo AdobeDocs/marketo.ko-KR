@@ -1,17 +1,17 @@
 ---
 unique-page-id: 14352613
 description: Campaign에 직원 추가 - Marketo 문서 - 제품 설명서
-title: 캠페인에 사람 추가
+title: 캠페인에 사용자 추가
 exl-id: ef88ee07-6d33-40aa-9b0b-ccef12829345
 feature: Marketo Sales Connect
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '181'
-ht-degree: 0%
+ht-degree: 5%
 
 ---
 
-# 캠페인에 사람 추가 {#add-people-to-your-campaign}
+# 캠페인에 사용자 추가 {#add-people-to-your-campaign}
 
 Campaign에 사용자를 추가하는 방법은 여러 가지가 있습니다.
 

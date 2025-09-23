@@ -1,16 +1,16 @@
 ---
 description: 이메일 열 및 이메일 페이지 레이아웃 - Marketo 문서 - 제품 설명서
-title: 전자 메일 열 및 전자 메일 페이지 레이아웃
+title: 이메일 열 및 이메일 페이지 레이아웃
 exl-id: 004c9cdf-7ab1-4476-ba72-9074d978b887
 feature: Sales Insight Actions
-source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '468'
-ht-degree: 0%
+ht-degree: 2%
 
 ---
 
-# 전자 메일 열 및 전자 메일 페이지 레이아웃 {#email-columns-and-email-page-layout}
+# 이메일 열 및 이메일 페이지 레이아웃 {#email-columns-and-email-page-layout}
 
 [명령 센터](/help/marketo/product-docs/marketo-sales-insight/actions/email/command-center/command-center-overview.md)의 전자 메일 섹션에 사용 가능한 열을 표시하도록 구성할 수 있습니다. 구성 설정은 각 이메일 하위 폴더(예: 게재, 실패, 예약됨 등)에 대해 저장됩니다.
 

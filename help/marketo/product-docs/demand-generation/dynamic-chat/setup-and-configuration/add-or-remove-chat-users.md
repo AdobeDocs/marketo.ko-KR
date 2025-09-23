@@ -3,10 +3,10 @@ description: 채팅 사용자 추가 또는 제거 - Marketo 문서 - 제품 설
 title: 채팅 사용자 추가 또는 제거
 feature: Dynamic Chat
 exl-id: 2f5237f7-edb2-4332-97f1-c5b904ce2d92
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '233'
-ht-degree: 3%
+ht-degree: 8%
 
 ---
 
@@ -24,7 +24,7 @@ ht-degree: 3%
 
    ![](assets/add-or-remove-chat-users-1.png)
 
-1. **[!UICONTROL Dynamic Chat]**&#x200B;을(를) 클릭합니다.
+1. **[!UICONTROL Dynamic Chat]**&#x200B;를 클릭합니다.
 
    ![](assets/add-or-remove-chat-users-2.png)
 
@@ -48,7 +48,7 @@ ht-degree: 3%
 
    ![](assets/add-or-remove-chat-users-6.png)
 
-1. **[!UICONTROL Save]**&#x200B;을(를) 클릭합니다.
+1. **[!UICONTROL Save]**&#x200B;를 클릭합니다.
 
    ![](assets/add-or-remove-chat-users-7.png)
 
@@ -72,7 +72,7 @@ ht-degree: 3%
 
    ![](assets/add-or-remove-chat-users-10.png)
 
-1. **[!UICONTROL Access Dynamic Chat]**&#x200B;을(를) 선택하고 **[!UICONTROL Save]**&#x200B;을(를) 클릭합니다.
+1. **[!UICONTROL Access Dynamic Chat]**&#x200B;으로 선택하고 **[!UICONTROL Save]**&#x200B;를 클릭합니다.
 
    ![](assets/add-or-remove-chat-users-11.png)
 
@@ -82,7 +82,7 @@ ht-degree: 3%
 
    ![](assets/add-or-remove-chat-users-12.png)
 
-1. **[!UICONTROL Dynamic Chat]**&#x200B;을(를) 클릭합니다.
+1. **[!UICONTROL Dynamic Chat]**&#x200B;를 클릭합니다.
 
    ![](assets/add-or-remove-chat-users-13.png)
 

@@ -1,13 +1,13 @@
 ---
 unique-page-id: 11380774
 description: 계정 점수 - Marketo 문서 - 제품 설명서
-title: 계정 스코어
+title: 계정 점수
 exl-id: 68fb5f41-f715-4a4d-b4da-9db4dc38d67d
 feature: Target Account Management
-source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '334'
-ht-degree: 0%
+ht-degree: 1%
 
 ---
 
@@ -47,9 +47,9 @@ B2B 구매 프로세스가 복잡한 환경에서는 한 개인이 구매 결정
 >계정 점수를 계산하려면 먼저 리드 점수를 생성해야 합니다. Marketo TAM은 자동으로 리드 점수를 계정 점수로 집계합니다. 예를 들어 위의 두 가지 예(_계정 제품 관심도 점수_ 및 _계정 웹 참여 점수_)를 사용합니다.
 >
 >먼저 대상 계정의 각 잠재 고객의 관련 세부 정보를 캡처하는 잠재 고객 스코어 필드를 만듭니다.
->&#x200B;>그런 다음 해당 리드 점수를 해당 계정 점수에 할당합니다.
->&#x200B;>계정 제품 이자 점수 = SUM(잠재 고객 제품 이자 점수)
->&#x200B;>계정 웹 참여 점수 = SUM(잠재 고객 웹 참여 점수)
+>>그런 다음 해당 리드 점수를 해당 계정 점수에 할당합니다.
+>>계정 제품 이자 점수 = SUM(잠재 고객 제품 이자 점수)
+>>계정 웹 참여 점수 = SUM(잠재 고객 웹 참여 점수)
 
 >[!NOTE]
 >
@@ -57,11 +57,11 @@ B2B 구매 프로세스가 복잡한 환경에서는 한 개인이 구매 결정
 
 잠재 고객 점수를 구성한 후 아래 단계를 따라 진행하십시오.
 
-1. **[!UICONTROL Admin]**&#x200B;을(를) 클릭합니다.
+1. **[!UICONTROL Admin]**&#x200B;를 클릭합니다.
 
    ![](assets/account-score-1.png)
 
-1. **[!UICONTROL Target Account Management]**&#x200B;을(를) 클릭합니다.
+1. **[!UICONTROL Target Account Management]**&#x200B;를 클릭합니다.
 
    ![](assets/account-score-2.png)
 

@@ -1,12 +1,12 @@
 ---
 description: Sales Insight 액세스 제거 - Marketo 문서 - 제품 설명서
-title: 판매 Insight 액세스 제거
+title: Sales Insight 액세스 제거
 exl-id: 3cda112a-524e-469b-a222-c0192b2f5301
 feature: Marketo Sales Insights
-source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '329'
-ht-degree: 3%
+ht-degree: 4%
 
 ---
 
@@ -77,7 +77,7 @@ ht-degree: 3%
 
 1. [!DNL Salesforce] 계정에 로그인합니다.
 
-1. **[!UICONTROL Setup]**&#x200B;을(를) 클릭합니다.
+1. **[!UICONTROL Setup]**&#x200B;를 클릭합니다.
 
    ![](assets/remove-sales-insight-access-1.png)
 
@@ -109,7 +109,7 @@ ht-degree: 3%
    * 값
    * WebActivityCache
 
-1. &quot;[!UICONTROL Enabled Apex Class Access]&quot; 섹션까지 아래로 스크롤합니다. **[!UICONTROL Edit]**&#x200B;을(를) 클릭합니다.
+1. &quot;[!UICONTROL Enabled Apex Class Access]&quot; 섹션까지 아래로 스크롤합니다. **[!UICONTROL Edit]**&#x200B;를 클릭합니다.
 
 1. &quot;[!UICONTROL Enabled Apex Classes]&quot; 섹션에서 &quot;mkto_si&quot;로 시작하는 모든 클래스를 선택합니다. 최대 159개의 클래스가 추가되어야 합니다.
 
@@ -117,7 +117,7 @@ ht-degree: 3%
 
    ![](assets/remove-sales-insight-access-4.png)
 
-1. &quot;[!UICONTROL Enabled Visualforce Page Access]&quot; 섹션까지 아래로 스크롤합니다. **[!UICONTROL Edit]**&#x200B;을(를) 클릭합니다.
+1. &quot;[!UICONTROL Enabled Visualforce Page Access]&quot; 섹션까지 아래로 스크롤합니다. **[!UICONTROL Edit]**&#x200B;를 클릭합니다.
 
 1. &quot;[!UICONTROL Enabled Visualforce Pages]&quot; 섹션에서 &quot;mkto_si&quot;로 시작하는 모든 페이지를 선택합니다. 최대 64페이지까지 추가할 수 있습니다.
 
@@ -125,7 +125,7 @@ ht-degree: 3%
 
    ![](assets/remove-sales-insight-access-5.png)
 
-1. &quot;[!UICONTROL Enabled Custom Setting Definitions Access]&quot; 섹션까지 아래로 스크롤합니다. **[!UICONTROL Edit]**&#x200B;을(를) 클릭합니다.
+1. &quot;[!UICONTROL Enabled Custom Setting Definitions Access]&quot; 섹션까지 아래로 스크롤합니다. **[!UICONTROL Edit]**&#x200B;를 클릭합니다.
 
 1. &quot;Marketo Sales Insight.mkto_si.Marketo 설정&quot; 및 &quot;Marketo Sales Insight.mkto_si.사용자 환경 설정&quot;을 선택합니다.
 

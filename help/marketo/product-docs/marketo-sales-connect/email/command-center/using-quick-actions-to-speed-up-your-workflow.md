@@ -1,17 +1,17 @@
 ---
 unique-page-id: 37357306
 description: 빠른 작업을 사용하여 워크플로우 속도 높이기 - Marketo 문서 - 제품 설명서
-title: 빠른 작업을 사용하여 워크플로우 속도 높이기
+title: 신속한 워크플로를 위한 빠른 작업 사용
 exl-id: 8cfc2fb4-d7b1-4a12-bf4e-37613345e65b
 feature: Marketo Sales Connect
-source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '315'
-ht-degree: 1%
+ht-degree: 6%
 
 ---
 
-# 빠른 작업을 사용하여 워크플로우 속도 높이기 {#using-quick-actions-to-speed-up-your-workflow}
+# 신속한 워크플로를 위한 빠른 작업 사용 {#using-quick-actions-to-speed-up-your-workflow}
 
 이메일 그리드에는 두 가지 유형의 빠른 작업 열이 있습니다. 이메일에 대한 작업을 수행할 수 있는 이메일 작업 및 몇 번의 빠른 클릭으로 참여 작업을 수행할 수 있는 후속 작업
 

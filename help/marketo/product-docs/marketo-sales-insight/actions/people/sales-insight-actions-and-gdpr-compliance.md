@@ -1,16 +1,16 @@
 ---
 description: 영업 Insight 작업 및 GDPR 준수 - Marketo 문서 - 제품 설명서
-title: 영업 Insight 작업 및 GDPR 준수
+title: Sales Insight Actions 및 GDPR 규정 준수
 exl-id: 1ede23b5-97ff-465a-95b7-a3262cd25bb8
 feature: Sales Insight Actions
-source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '1307'
-ht-degree: 0%
+ht-degree: 1%
 
 ---
 
-# 영업 Insight 작업 및 GDPR 준수 {#sales-insight-actions-and-gdpr-compliance}
+# Sales Insight Actions 및 GDPR 규정 준수 {#sales-insight-actions-and-gdpr-compliance}
 
 GDPR(General Data Protection Regulation)은 2018년 5월 25일에 발효된 유럽 연합 법률입니다.
 

@@ -4,10 +4,10 @@ description: 보고서 이메일의 URL 만료 시간 변경 - Marketo 문서 - 
 title: 보고서 이메일의 URL 만료 시간 변경
 exl-id: fcce8cb7-816d-46de-b3de-37908bea5097
 feature: Reporting
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '99'
-ht-degree: 1%
+ht-degree: 19%
 
 ---
 
@@ -27,7 +27,7 @@ ht-degree: 1%
 
    ![](assets/image2014-9-16-14-3a45-3a1.png)
 
-1. 드롭다운 메뉴에서 링크가 만료될 때까지 남은 일 수를 선택합니다. **[!UICONTROL Save]**&#x200B;을(를) 클릭합니다.
+1. 드롭다운 메뉴에서 링크가 만료될 때까지 남은 일 수를 선택합니다. **[!UICONTROL Save]**&#x200B;를 클릭합니다.
 
    ![](assets/image2014-9-16-14-3a45-3a5.png)
 

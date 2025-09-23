@@ -1,17 +1,17 @@
 ---
 unique-page-id: 1147140
 description: 잠정/확정 일자 이해 - Marketo 문서 - 제품 설명서
-title: 미정/확정 일자 이해
+title: 잠정적/확정 날짜 이해
 exl-id: af6b907f-e4d8-432f-b1da-dd7c04376ba8
 feature: Programs
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '206'
-ht-degree: 0%
+ht-degree: 4%
 
 ---
 
-# 미정/확정 일자 이해 {#understanding-tentative-confirmed-dates}
+# 잠정적/확정 날짜 이해 {#understanding-tentative-confirmed-dates}
 
 스마트 캠페인 및 전자 메일 프로그램에는 **[!UICONTROL Tentative]** 또는 **[!UICONTROL Confirmed]**(으)로 표시할 수 있는 강력한 기능이 있습니다. 작동 방식은 다음과 같습니다.
 

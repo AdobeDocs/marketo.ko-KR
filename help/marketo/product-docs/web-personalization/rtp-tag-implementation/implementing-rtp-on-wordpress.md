@@ -1,13 +1,13 @@
 ---
 unique-page-id: 4720149
 description: Wordpress에서 RTP 구현 - Marketo 설명서 - 제품 설명서
-title: Wordpress에서 RTP 구현
+title: Wordpress에 RTP 구현
 exl-id: f010942b-02bb-447b-a272-c4237782b2d7
 feature: Web Personalization
-source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '172'
-ht-degree: 0%
+ht-degree: 2%
 
 ---
 
@@ -43,4 +43,4 @@ ht-degree: 0%
 
 1. 랜딩 페이지 및 하위 도메인을 포함한 모든 페이지에 표시되는지 확인합니다.
 
-   a. 웹 사이트의 페이지를 마우스 오른쪽 버튼으로 클릭하여 이 작업을 수행할 수 있습니다. **[!UICONTROL View Page Source] (으)로 이동합니다.** 태그를 찾으려면 **RTP**&#x200B;을 검색합니다.
+   a. 웹 사이트의 페이지를 마우스 오른쪽 버튼으로 클릭하여 이 작업을 수행할 수 있습니다. **[!UICONTROL View Page Source](으)로 이동합니다.** 태그를 찾으려면 **RTP**&#x200B;을 검색합니다.

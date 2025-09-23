@@ -4,10 +4,10 @@ description: 이메일 프로그램 예약 - Marketo 문서 - 제품 설명서
 title: 이메일 프로그램 예약
 exl-id: c125166f-3e0d-49a5-ad83-7abac51da713
 feature: Email Programs
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '128'
-ht-degree: 0%
+ht-degree: 7%
 
 ---
 

@@ -4,10 +4,10 @@ description: 양식이 포함된 랜딩 페이지 - Marketo 문서 - 제품 설�
 title: 양식이 있는 랜딩 페이지
 exl-id: 4ae6df7c-96d0-4bfe-962c-e14ecb877a6a
 feature: Getting Started
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
-source-wordcount: '552'
-ht-degree: 0%
+source-wordcount: '498'
+ht-degree: 7%
 
 ---
 
@@ -21,15 +21,15 @@ ht-degree: 0%
 
 ## 1단계: 프로그램 만들기 {#step-create-a-program}
 
-1. **[!UICONTROL 마케팅 활동]** 영역으로 이동합니다.
+1. **[!UICONTROL Marketing Activities]** 영역으로 이동합니다.
 
    ![](assets/landing-page-with-a-form-1.png)
 
-1. [이전 빠른 성공](/help/marketo/getting-started/quick-wins/send-an-email.md){target="_blank"}에서 만든 **학습** 폴더를 선택하십시오. **[!UICONTROL 새로 만들기]**&#x200B;에서 **[!UICONTROL 새 프로그램]**&#x200B;을 클릭하세요.
+1. **이전 빠른 성공**&#x200B;에서 만든 [학습](/help/marketo/getting-started/quick-wins/send-an-email.md){target="_blank"} 폴더를 선택하십시오. **[!UICONTROL New]**&#x200B;에서 **[!UICONTROL New Program]**&#x200B;을(를) 클릭합니다.
 
    ![](assets/landing-page-with-a-form-2.png)
 
-1. **[!UICONTROL 이름]** 프로그램을 입력하고 **[!UICONTROL 채널]**&#x200B;을 선택한 다음 **[!UICONTROL 만들기]**&#x200B;를 클릭하세요.
+1. **[!UICONTROL Name]** 프로그램을 입력하고 **[!UICONTROL Channel]**&#x200B;을(를) 선택한 다음 **[!UICONTROL Create]**&#x200B;을(를) 클릭합니다.
 
    ![](assets/landing-page-with-a-form-3.png)
 
@@ -45,31 +45,31 @@ ht-degree: 0%
 
 ## 2단계: 양식 만들기 {#step-create-a-form}
 
-1. 프로그램을 선택한 상태에서 **[!UICONTROL 새로 만들기]** 드롭다운을 클릭하고 **[!UICONTROL 새 로컬 자산]**&#x200B;을 선택합니다.
+1. 프로그램을 선택한 상태에서 **[!UICONTROL New]** 드롭다운을 클릭하고 **[!UICONTROL New Local Asset]**&#x200B;을(를) 선택합니다.
 
    ![](assets/landing-page-with-a-form-4.png)
 
-1. **[!UICONTROL 양식]**&#x200B;을 선택하세요.
+1. **[!UICONTROL Form]**&#x200B;를 선택합니다.
 
    ![](assets/landing-page-with-a-form-5.png)
 
-1. **[!UICONTROL 이름]** 양식을 입력하고 **[!UICONTROL 만들기]**&#x200B;를 클릭합니다.
+1. **[!UICONTROL Name]** 양식을 입력하고 **[!UICONTROL Create]**&#x200B;을(를) 클릭합니다.
 
    ![](assets/landing-page-with-a-form-6.png)
 
    >[!NOTE]
    >
-   >**[!UICONTROL 편집기에서 열기]** 상자가 선택되어 있는지 확인하십시오. 그렇지 않은 경우 **[!UICONTROL 양식 편집]** 탭을 클릭해야 합니다.
+   >**[!UICONTROL Open in editor]** 상자를 선택했는지 확인하십시오. 그렇지 않으면 **[!UICONTROL Edit Form]** 탭을 클릭해야 합니다.
 
    >[!TIP]
    >
    >양식 편집기가 표시되지 않습니까? 브라우저가 창을 차단했을 수 있습니다. 브라우저에서 `app.marketo.com`의 팝업을 사용하도록 설정하고 상단 메뉴 모음에서 [초안 편집]을 클릭합니다.
 
-1. **[!UICONTROL 전자 메일 주소]** 필드를 선택하고 **[!UICONTROL 필수]**&#x200B;을(를) 확인합니다.
+1. **[!UICONTROL Email Address]** 필드를 선택하고 **[!UICONTROL Is Required]**&#x200B;을(를) 확인합니다.
 
    ![](assets/landing-page-with-a-form-7.png)
 
-1. **[!UICONTROL 다음]**&#x200B;을 클릭합니다.
+1. **[!UICONTROL Next]**&#x200B;를 클릭합니다.
 
    ![](assets/landing-page-with-a-form-8.png)
 
@@ -77,11 +77,11 @@ ht-degree: 0%
 
    ![](assets/landing-page-with-a-form-9.png)
 
-1. **[!UICONTROL 다음]**&#x200B;을 클릭합니다.
+1. **[!UICONTROL Next]**&#x200B;를 클릭합니다.
 
    ![](assets/landing-page-with-a-form-10.png)
 
-1. 감사 페이지 섹션에서 **[!UICONTROL 다음 작업을 수행]**&#x200B;할 **[!UICONTROL 외부 URL]**&#x200B;을(를) 선택합니다.
+1. 감사 페이지 섹션에서 **[!UICONTROL External URL]**&#x200B;에 대해 **[!UICONTROL Follow Up With]**&#x200B;을(를) 선택합니다.
 
    ![](assets/landing-page-with-a-form-11.png)
 
@@ -93,11 +93,11 @@ ht-degree: 0%
    >
    >후속 페이지는 방문자가 양식을 작성한 후 리디렉션되는 페이지입니다. 외부 URL은 한 가지 옵션이지만 더 있습니다. [감사 인사 페이지 설정](/help/marketo/product-docs/demand-generation/forms/creating-a-form/set-a-form-thank-you-page.md){target="_blank"}을 참조하세요.
 
-1. **[!UICONTROL 마침]**&#x200B;을 클릭합니다.
+1. **[!UICONTROL Finish]**&#x200B;를 클릭합니다.
 
    ![](assets/landing-page-with-a-form-13.png)
 
-1. **[!UICONTROL 승인 및 닫기]**&#x200B;를 클릭합니다.
+1. **[!UICONTROL Approve and Close]**&#x200B;를 클릭합니다.
 
    ![](assets/landing-page-with-a-form-14.png)
 
@@ -105,15 +105,15 @@ ht-degree: 0%
 
 ## 3단계: 랜딩 페이지 만들기 및 양식 추가 {#step-create-a-landing-page-and-add-your-form}
 
-1. 프로그램을 선택한 상태에서 **[!UICONTROL 새로 만들기]** 드롭다운을 클릭하고 **[!UICONTROL 새 로컬 자산]**&#x200B;을 선택합니다.
+1. 프로그램을 선택한 상태에서 **[!UICONTROL New]** 드롭다운을 클릭하고 **[!UICONTROL New Local Asset]**&#x200B;을(를) 선택합니다.
 
    ![](assets/landing-page-with-a-form-15.png)
 
-1. **[!UICONTROL 랜딩 페이지]**&#x200B;를 선택하세요.
+1. **[!UICONTROL Landing Page]**&#x200B;를 선택합니다.
 
    ![](assets/landing-page-with-a-form-16.png)
 
-1. **[!UICONTROL 이름]** 페이지를 입력하고 템플릿을 선택한 다음 **[!UICONTROL 만들기]**&#x200B;를 클릭합니다.
+1. **[!UICONTROL Name]** 페이지를 입력하고 템플릿을 선택한 다음 **[!UICONTROL Create]**&#x200B;을(를) 클릭합니다.
 
    >[!NOTE]
    >
@@ -125,7 +125,7 @@ ht-degree: 0%
 
    ![](assets/landing-page-with-a-form-18.png)
 
-1. 양식을 찾아 선택한 다음 **[!UICONTROL 삽입]**&#x200B;을 클릭합니다.
+1. 양식을 찾아 선택하고 **[!UICONTROL Insert]**&#x200B;을(를) 클릭합니다.
 
    ![](assets/landing-page-with-a-form-19.png)
 
@@ -141,7 +141,7 @@ ht-degree: 0%
 
 ## 4단계: 랜딩 페이지 승인 {#step-approve-your-landing-page}
 
-1. 랜딩 페이지를 선택하고 **[!UICONTROL 초안 승인]**&#x200B;을 클릭합니다.
+1. 랜딩 페이지를 선택하고 **[!UICONTROL Approve draft]**&#x200B;을(를) 클릭합니다.
 
    ![](assets/landing-page-with-a-form-22.png)
 
@@ -155,15 +155,15 @@ ht-degree: 0%
 
 ## 5단계: 양식 테스트 {#step-test-your-form}
 
-1. 랜딩 페이지를 선택하고 **[!UICONTROL 승인된 페이지 보기]**&#x200B;를 클릭합니다.
+1. 랜딩 페이지를 선택하고 **[!UICONTROL View Approved Page]**&#x200B;을(를) 클릭합니다.
 
    ![](assets/landing-page-with-a-form-24.png)
 
-1. 고유한 정보를 사용하여 양식을 작성하고 **[!UICONTROL 제출]**&#x200B;을 클릭합니다.
+1. 고유한 정보로 양식을 작성하고 **[!UICONTROL Submit]**&#x200B;을(를) 클릭합니다.
 
    ![](assets/landing-page-with-a-form-25.png)
 
-1. **[!UICONTROL 데이터베이스]** 영역으로 이동합니다.
+1. **[!UICONTROL Database]** 영역으로 이동합니다.
 
    ![](assets/landing-page-with-a-form-26.png)
 
@@ -175,7 +175,7 @@ ht-degree: 0%
 
    ![](assets/landing-page-with-a-form-28.png)
 
-## 임무 완료! {#mission-complete}
+## 미션 완료 {#mission-complete}
 
 <br> 
 

@@ -4,10 +4,10 @@ description: 수익 모델 승인/승인 취소 - Marketo 문서 - 제품 설명
 title: 수익 모델 승인/승인 취소
 exl-id: 2b0818c7-8a4e-4f92-bb95-1f6f77be1a90
 feature: Reporting, Revenue Cycle Analytics
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '142'
-ht-degree: 1%
+ht-degree: 14%
 
 ---
 
@@ -33,7 +33,7 @@ ht-degree: 1%
 
    ![](assets/image2015-4-28-14-3a6-3a3.png)
 
-1. 선택을 확인하는 대화 상자가 나타납니다. **[!UICONTROL Approve]**&#x200B;을(를) 클릭합니다.
+1. 선택을 확인하는 대화 상자가 나타납니다. **[!UICONTROL Approve]**&#x200B;를 클릭합니다.
 
    ![](assets/image2015-4-28-14-3a6-3a49.png)
 

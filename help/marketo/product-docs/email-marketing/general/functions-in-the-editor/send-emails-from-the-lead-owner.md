@@ -1,17 +1,17 @@
 ---
 unique-page-id: 1147340
 description: 리드 소유자로부터 이메일 보내기 - Marketo 문서 - 제품 설명서
-title: 잠재 고객 소유자로부터 이메일 보내기
+title: 리드 소유자에게 이메일 보내기
 exl-id: b7ceb976-f52f-4134-8b7e-1c18d09af5de
 feature: Email Editor
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '183'
-ht-degree: 0%
+ht-degree: 7%
 
 ---
 
-# 잠재 고객 소유자로부터 이메일 보내기 {#send-emails-from-the-lead-owner}
+# 리드 소유자에게 이메일 보내기 {#send-emails-from-the-lead-owner}
 
 잠재 고객 소유자를 대신하여 잠재 고객에게 이메일을 보내려면 어떻게 해야 합니까?  방법은 다음과 같습니다.
 

@@ -1,17 +1,17 @@
 ---
 unique-page-id: 4718648
 description: Opportunity Influence Analyzer 이해 - Marketo 문서 - 제품 설명서
-title: Opportunity Influence Analyzer 이해
+title: 기회 영향 분석기 이해
 exl-id: 87f85fed-1fb5-4906-bfdb-a9fda7ddd295
 feature: Reporting, Revenue Cycle Analytics
-source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '255'
-ht-degree: 0%
+ht-degree: 3%
 
 ---
 
-# Opportunity Influence Analyzer 이해 {#understanding-the-opportunity-influence-analyzer}
+# 기회 영향 분석기 이해 {#understanding-the-opportunity-influence-analyzer}
 
 각각의 기회는 하나의 이야기입니다. 어디서 단서를 만났니? 마케팅/판매 프로세스 동안 어떤 마케팅 기회가 영향을 미쳤습니까?
 

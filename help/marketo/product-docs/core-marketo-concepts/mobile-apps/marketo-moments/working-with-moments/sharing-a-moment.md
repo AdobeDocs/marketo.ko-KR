@@ -1,17 +1,17 @@
 ---
 unique-page-id: 8783559
 description: 순간 공유 - Marketo 문서 - 제품 설명서
-title: 순간 공유
+title: Moments 공유
 exl-id: e149f8d8-1405-43d2-aa0b-900796328a92
 feature: Mobile Marketing
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '143'
-ht-degree: 1%
+ht-degree: 5%
 
 ---
 
-# 순간 공유 {#sharing-a-moment}
+# Moments 공유 {#sharing-a-moment}
 
 팀에 업데이트를 제공하시겠습니까? 공유를 선택할 수 있는 두 가지 선택 사항이 있습니다.
 

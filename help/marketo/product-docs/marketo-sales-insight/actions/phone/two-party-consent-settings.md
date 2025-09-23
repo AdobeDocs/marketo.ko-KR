@@ -1,16 +1,16 @@
 ---
 description: 서드파티 동의 설정 - Marketo 문서 - 제품 설명서
-title: 타사 동의 설정
+title: 양 당사자 동의 설정
 exl-id: 47634441-c396-4f0c-a9ea-d4f6872b6bf5
 feature: Sales Insight Actions
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '136'
-ht-degree: 0%
+ht-degree: 5%
 
 ---
 
-# 타사 동의 설정 {#two-party-consent-settings}
+# 양 당사자 동의 설정 {#two-party-consent-settings}
 
 통화 기록 시 미국 양사 동의 법을 준수하도록 하기 위해 관리자는 통화 기록 시 통화 시작 시 선택한 사전 녹음된 메시지를 재생할 수 있습니다.
 
@@ -30,7 +30,7 @@ ht-degree: 0%
 
    ![](assets/two-party-consent-settings-3.png)
 
-1. **[!UICONTROL Import Recording]**&#x200B;을(를) 클릭합니다.
+1. **[!UICONTROL Import Recording]**&#x200B;를 클릭합니다.
 
    ![](assets/two-party-consent-settings-4.png)
 

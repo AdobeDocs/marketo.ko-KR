@@ -1,16 +1,16 @@
 ---
 description: OP-Scoring-Demographic - Marketo 문서 - 제품 설명서
-title: OP-점수-인구 통계
+title: OP-채점-인구 통계
 feature: Programs
 exl-id: ed11616e-b587-4d03-b293-9cc9fa3c1699
-source-git-commit: 21bcdc10fe1f3517612efe0f8e2adaf2f4411a70
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '310'
-ht-degree: 24%
+ht-degree: 25%
 
 ---
 
-# OP-점수-인구 통계 {#op-scoring-demographic}
+# OP-채점-인구 통계 {#op-scoring-demographic}
 
 이는 인구 통계 점수를 위해 Marketo Engage 기본 프로그램을 활용하는 고급(토큰화된) 운영 프로그램의 예입니다. 프로그램의 &quot;내 토큰&quot; 탭에서 점수 값을 보고 편집합니다. &quot;인구 통계학적 점수&quot;라는 사용자 정의 점수 필드가 필요합니다.
 

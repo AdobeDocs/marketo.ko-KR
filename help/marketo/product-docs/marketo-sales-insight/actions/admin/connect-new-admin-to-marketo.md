@@ -1,16 +1,16 @@
 ---
 description: 새 관리자를 Marketo에 연결 - Marketo 문서 - 제품 설명서
-title: Marketo에 새 관리자 연결
+title: 새 관리자를 Marketo에 연결
 exl-id: ef405bca-a29a-40fc-9efa-eccff5f45956
 feature: Sales Insight Actions
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '478'
-ht-degree: 0%
+ht-degree: 2%
 
 ---
 
-# Marketo에 새 관리자 연결 {#connect-new-admin-to-marketo}
+# 새 관리자를 Marketo에 연결 {#connect-new-admin-to-marketo}
 
 다른 관리자가 Marketo에 이미 연결되어 있는 경우 1단계만 수행하면 됩니다.
 
@@ -56,7 +56,7 @@ Marketo 연결을 설정한 관리자를 제거하려면 먼저 다른 관리자
 
 1. **Marketo**&#x200B;을(를) 클릭합니다.
 
-1. **[!UICONTROL User Access]**&#x200B;을(를) 클릭합니다.
+1. **[!UICONTROL User Access]**&#x200B;를 클릭합니다.
 
 1. 새 Marketo 연결을 설정할 관리자를 검색합니다.
 
@@ -70,7 +70,7 @@ Marketo 연결을 설정한 관리자를 제거하려면 먼저 다른 관리자
 
 1. **Marketo**&#x200B;을(를) 클릭합니다.
 
-1. **[!UICONTROL Disconnect]**&#x200B;을(를) 클릭합니다.
+1. **[!UICONTROL Disconnect]**&#x200B;를 클릭합니다.
 
 **관리자 A에 대한 Marketo 통합 연결 끊기**
 
@@ -80,6 +80,6 @@ Marketo 연결을 설정한 관리자를 제거하려면 먼저 다른 관리자
 
 1. **Marketo**&#x200B;을(를) 클릭합니다.
 
-1. **[!UICONTROL Disconnect]**&#x200B;을(를) 클릭합니다.
+1. **[!UICONTROL Disconnect]**&#x200B;를 클릭합니다.
 
 새 관리자가 Marketo에 대한 연결을 설정하고 원래 관리자의 연결이 끊겼으므로 원래 연결된 관리자는 [!DNL Sales Connect]/Actions 인스턴스에서 안전하게 제거할 수 있습니다.

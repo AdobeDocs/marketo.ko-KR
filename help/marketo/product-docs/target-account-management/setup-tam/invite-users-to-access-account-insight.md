@@ -4,7 +4,7 @@ description: '[!UICONTROL Account Insight]에 액세스하도록 사용자 초�
 title: '[!UICONTROL Account Insight]에 액세스하도록 사용자 초대'
 exl-id: 772e50d6-4ae8-4d3e-9d6a-9bc075bd4a06
 feature: Target Account Management
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '143'
 ht-degree: 1%
@@ -15,7 +15,7 @@ ht-degree: 1%
 
 사용자에게 [!UICONTROL Account Insight]에 대한 액세스 권한을 제공하려면 다음 단계를 따르십시오.
 
-1. **[!UICONTROL Admin]**&#x200B;을(를) 클릭합니다.
+1. **[!UICONTROL Admin]**&#x200B;를 클릭합니다.
 
    ![](assets/admin-1.png)
 
@@ -41,7 +41,7 @@ ht-degree: 1%
 
    ![](assets/four-5.png)
 
-1. **[!UICONTROL Next]**&#x200B;을(를) 클릭합니다.
+1. **[!UICONTROL Next]**&#x200B;를 클릭합니다.
 
    ![](assets/five-5.png)
 

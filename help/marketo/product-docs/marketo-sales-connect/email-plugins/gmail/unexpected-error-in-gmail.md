@@ -4,10 +4,10 @@ description: Gmail - Marketo 문서 - 제품 설명서에 예기치 않은 오�
 title: Gmail에서 예기치 않은 오류 발생
 exl-id: fdf87562-b127-4f7e-b11e-8452b428ed16
 feature: Marketo Sales Connect
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '80'
-ht-degree: 1%
+ht-degree: 11%
 
 ---
 
@@ -17,7 +17,7 @@ ht-degree: 1%
 
 1. **[!UICONTROL Settings]** > **[!UICONTROL Email Tracking]** > **[!UICONTROL Manage]**(으)로 이동합니다.
 
-1. **[!UICONTROL Disconnect from Gmail]**&#x200B;을(를) 클릭합니다.
+1. **[!UICONTROL Disconnect from Gmail]**&#x200B;를 클릭합니다.
 
 1. 연결을 끊은 후 **[!UICONTROL Connect to Google]**&#x200B;을(를) 클릭합니다.
 

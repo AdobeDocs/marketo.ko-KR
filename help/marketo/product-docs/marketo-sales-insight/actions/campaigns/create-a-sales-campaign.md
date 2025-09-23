@@ -1,16 +1,16 @@
 ---
 description: 판매 캠페인 만들기 - Marketo 문서 - 제품 설명서
-title: 판매 캠페인 만들기
+title: 세일즈 캠페인 만들기
 exl-id: 12969d09-529d-4cba-a419-7a3be52d3e96
 feature: Sales Insight Actions
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '302'
-ht-degree: 0%
+ht-degree: 2%
 
 ---
 
-# 판매 캠페인 만들기 {#create-a-sales-campaign}
+# 세일즈 캠페인 만들기 {#create-a-sales-campaign}
 
 Sales Campaign 은 이메일, 전화, InMail 및 사용자 정의 작업 등 일련의 멀티채널 단계입니다. 이를 통해 잠재 고객 및 기존 고객과의 커뮤니케이션을 간소화할 수 있습니다.
 
@@ -38,7 +38,7 @@ Sales Campaign 을 통해 다음과 같은 작업을 수행할 수 있습니다.
 
    ![](assets/create-a-sales-campaign-3.png)
 
-1. **[!UICONTROL Add a Step]**&#x200B;을(를) 클릭합니다.
+1. **[!UICONTROL Add a Step]**&#x200B;를 클릭합니다.
 
    ![](assets/create-a-sales-campaign-4.png)
 

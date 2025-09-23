@@ -4,10 +4,10 @@ description: 이벤트 프로그램에 멤버 추가 - Marketo 문서 - 제품 �
 title: 이벤트 프로그램에 멤버 추가
 exl-id: 05bd4807-3ab8-452d-a389-b22477cf7445
 feature: Events
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '165'
-ht-degree: 0%
+ht-degree: 9%
 
 ---
 
@@ -47,7 +47,7 @@ ht-degree: 0%
 
    ![](assets/eight.png)
 
-1. **[!UICONTROL Run Now]**&#x200B;을(를) 선택하고 **[!UICONTROL Run]**&#x200B;을(를) 클릭합니다.
+1. **[!UICONTROL Run Now]**&#x200B;으로 선택하고 **[!UICONTROL Run]**&#x200B;를 클릭합니다.
 
    ![](assets/nine.png)
 

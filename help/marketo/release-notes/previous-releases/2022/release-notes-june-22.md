@@ -3,20 +3,20 @@ description: 릴리스 노트 - 2022년 6월 - Marketo 문서 - 제품 설명서
 title: 릴리스 노트 - 2022년 6월
 exl-id: f4438ea8-1657-4955-9f9f-640b3ecf5caa
 feature: Release Information
-source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '600'
-ht-degree: 0%
+ht-degree: 4%
 
 ---
 
 # 릴리스 노트: 2022년 6월 {#release-notes-june-22}
 
-아래에는 2022년 6월 릴리스에 포함된 모든 기능이 있습니다. Adobe Marketo Engage 버전에서 사용 가능한 기능이 있는지 확인하십시오.
+아래에는 2022년 6월 릴리스에 포함된 모든 기능이 있습니다. 기능 가용성에 대해 Adobe Marketo Engage 에디션을 확인하십시오.
 
 >[!AVAILABILITY]
 >
->별(![별](assets/yellow-star.png))로 표시되는 기능은 유료 추가 기능입니다. 자세한 내용은 Marketo Engage 담당자에게 문의하십시오.
+>별표(![별표](assets/yellow-star.png))로 표시된 기능은 유료 추가 기능입니다. 자세한 내용은 Marketo Engage 담당자에게 문의하십시오.
 
 다음 기능은 **2022년 6월 24일**&#x200B;에 릴리스되기 시작하며, 이후 몇 주 동안 남은 기능의 단계적 롤아웃이 적용됩니다(달리 지정되지 않은 경우).
 

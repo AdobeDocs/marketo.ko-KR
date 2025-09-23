@@ -3,7 +3,7 @@ description: 4단계/4단계 - 리소스 소유자 암호 제어 연결과 Marke
 title: 4단계/4단계 - 리소스 소유자 암호 제어 연결과 Marketo 솔루션 연결
 exl-id: 71a52a3e-f31e-45ee-8196-d536528e42ca
 feature: Microsoft Dynamics
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '391'
 ht-degree: 0%
@@ -68,7 +68,7 @@ ht-degree: 0%
 
    ![](assets/image2015-3-16-9-3a51-3a28.png)
 
-1. Marketo에 동기화할 필드를 선택하면 미리 선택됩니다. **[!UICONTROL Save]**&#x200B;을(를) 클릭합니다.
+1. Marketo에 동기화할 필드를 선택하면 미리 선택됩니다. **[!UICONTROL Save]**&#x200B;를 클릭합니다.
 
    ![](assets/image2016-8-25-15-3a6-3a11.png)
 
@@ -88,7 +88,7 @@ ht-degree: 0%
 
    ![](assets/image2015-10-9-9-3a52-3a23.png)
 
-1. 필드로 스크롤하여 확인합니다. 실제 이름은 new_synctomkto여야 하지만 표시 이름은 무엇이든 될 수 있습니다. **[!UICONTROL Save]**&#x200B;을(를) 클릭합니다.
+1. 필드로 스크롤하여 확인합니다. 실제 이름은 new_synctomkto여야 하지만 표시 이름은 무엇이든 될 수 있습니다. **[!UICONTROL Save]**&#x200B;를 클릭합니다.
 
    ![](assets/image2016-8-25-15-3a7-3a35.png)
 

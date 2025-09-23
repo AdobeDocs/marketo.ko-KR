@@ -3,14 +3,14 @@ unique-page-id: 12977439
 description: 릴리스 노트 - 2017년 봄 - Marketo 문서 - 제품 설명서
 title: 릴리스 노트 - 2017년 봄
 exl-id: 61873d1f-41dd-4f5c-94d0-65f0bcacff75
-source-git-commit: ecd225af3ecfd7cb9159faf5a9d384d47ee6312c
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '633'
 ht-degree: 0%
 
 ---
 
-# 릴리스 노트: 2017년 봄 {#release-notes-spring}
+# 릴리스 정보: 2017년 봄 {#release-notes-spring}
 
 2017년 봄 릴리스에는 다음과 같은 기능이 포함되어 있습니다. Marketo 버전에서 사용 가능한 기능이 있는지 확인하십시오.
 
@@ -68,7 +68,7 @@ ht-degree: 0%
 
 페이지를 닫기 전에 방문자의 관심을 사로잡습니다. 마우스 동작이 방문자가 페이지를 나가는 것을 나타낼 때만 표시하도록 개인화된 [!UICONTROL Web Campaigns]을(를) 설정하십시오.
 
-[!UICONTROL Web Campaigns][&#128279;](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/create-a-new-dialog-web-campaign.md)**에 대한**&#x200B;애니메이션 효과
+**[에 대한[!UICONTROL Web Campaigns]](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/create-a-new-dialog-web-campaign.md)**&#x200B;애니메이션 효과
 
 웹 페이지를 입력하거나 종료할 때 캠페인이 표시되는 방식을 사용자 지정하려면 대화 상자 웹 캠페인에 대한 애니메이션 효과를 설정하십시오. 6가지 효과 중에서 선택하고 대화 상자의 타이밍과 방향을 제어할 수 있습니다.
 

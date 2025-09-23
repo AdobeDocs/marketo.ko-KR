@@ -3,10 +3,10 @@ description: 호출 이유 - Marketo 문서 - 제품 설명서
 title: 통화 이유
 exl-id: 82533d6b-a373-49c7-9cee-271e36916111
 feature: Sales Insight Actions
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '164'
-ht-degree: 0%
+ht-degree: 2%
 
 ---
 
@@ -84,5 +84,5 @@ ht-degree: 0%
 
 >[!MORELIKETHIS]
 >
->* [Salesforce에 통화 이유 및 통화 결과를 기록합니다](/help/marketo/product-docs/marketo-sales-insight/actions/phone/log-call-reasons-and-call-outcomes-to-salesforce.md)
+>* [통화 이유 및 통화 결과를 Salesforce에 기록](/help/marketo/product-docs/marketo-sales-insight/actions/phone/log-call-reasons-and-call-outcomes-to-salesforce.md)
 >* [통화 결과](/help/marketo/product-docs/marketo-sales-insight/actions/phone/call-outcomes.md)

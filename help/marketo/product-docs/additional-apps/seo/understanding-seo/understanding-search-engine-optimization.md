@@ -4,7 +4,7 @@ description: 검색 엔진 최적화 이해 - Marketo 문서 - 제품 설명서
 title: 검색 엔진 최적화 이해
 exl-id: f5036487-e18e-495e-84ba-235f21e99fb2
 feature: SEO
-source-git-commit: 0c0dd3355f979577ec194f9e8f935615515905c0
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '402'
 ht-degree: 1%

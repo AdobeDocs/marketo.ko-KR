@@ -1,16 +1,16 @@
 ---
 description: Marketo 영업 암호 변경 - Marketo 문서 - 제품 설명서
-title: Marketo 영업 암호 변경
+title: Marketo Sales 암호 변경
 exl-id: c63c007a-8f3e-433e-8f3a-9426da303cdb
 feature: Sales Insight Actions
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '159'
-ht-degree: 1%
+ht-degree: 8%
 
 ---
 
-# Marketo 영업 암호 변경 {#change-your-marketo-sales-password}
+# Marketo Sales 암호 변경 {#change-your-marketo-sales-password}
 
 암호를 변경하시겠습니까? 방법은 다음과 같습니다.
 
@@ -43,7 +43,7 @@ ht-degree: 1%
 
    ![](assets/change-your-marketo-sales-password-4.png)
 
-1. **[!UICONTROL Forgot password]**&#x200B;을(를) 클릭합니다.
+1. **[!UICONTROL Forgot password]**&#x200B;를 클릭합니다.
 
    ![](assets/change-your-marketo-sales-password-5.png)
 
@@ -51,7 +51,7 @@ ht-degree: 1%
 
    ![](assets/change-your-marketo-sales-password-6.png)
 
-1. 계정 소유자가 암호를 변경하고자 하는지 확인하기 위해 이메일을 보내드리겠습니다. **[!UICONTROL Reset Password]**&#x200B;을(를) 클릭합니다.
+1. 계정 소유자가 암호를 변경하고자 하는지 확인하기 위해 이메일을 보내드리겠습니다. **[!UICONTROL Reset Password]**&#x200B;를 클릭합니다.
 
    ![](assets/change-your-marketo-sales-password-7.png)
 

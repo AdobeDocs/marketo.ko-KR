@@ -1,17 +1,17 @@
 ---
 unique-page-id: 1147120
 description: 스프레드시트에서 프로그램으로 구성원 가져오기 - Marketo 문서 - 제품 설명서
-title: 스프레드시트에서 프로그램으로 구성원 가져오기
+title: 스프레드시트에서 프로그램으로 멤버 가져오기
 exl-id: 09c597bb-d28a-463b-8340-ff22d2e0fa02
 feature: Programs
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '154'
-ht-degree: 1%
+ht-degree: 11%
 
 ---
 
-# 스프레드시트에서 프로그램으로 구성원 가져오기 {#import-members-from-a-spreadsheet-into-a-program}
+# 스프레드시트에서 프로그램으로 멤버 가져오기 {#import-members-from-a-spreadsheet-into-a-program}
 
 프로그램의 구성원이 자동으로 되는 사람 목록을 가져올 수 있습니다. 할 일이 있습니다.
 
@@ -31,7 +31,7 @@ ht-degree: 1%
 
    ![](assets/image2014-9-18-15-3a3-3a57.png)
 
-1. **[!UICONTROL Import Members]**&#x200B;을(를) 클릭합니다.
+1. **[!UICONTROL Import Members]**&#x200B;를 클릭합니다.
 
    ![](assets/image2014-9-18-15-3a38-3a14.png)
 
@@ -51,7 +51,7 @@ ht-degree: 1%
 
    ![](assets/image2014-9-18-15-3a41-3a32.png)
 
-1. **[!UICONTROL Import]**&#x200B;을(를) 클릭합니다.
+1. **[!UICONTROL Import]**&#x200B;를 클릭합니다.
 
    ![](assets/image2014-9-18-15-3a44-3a19.png)
 

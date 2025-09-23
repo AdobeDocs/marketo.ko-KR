@@ -1,29 +1,29 @@
 ---
 unique-page-id: 1146933
 description: 지금 일괄 처리 스마트 캠페인 실행 | 예약 탭 - Marketo 문서 - 제품 설명서
-title: 지금 일괄 처리 스마트 캠페인 실행 | 예약 탭
+title: 배치 스마트 캠페인 지금 실행 | 일정 탭
 exl-id: a9014ab4-12a4-44ae-a361-72f95bb62e27
 feature: Smart Campaigns
-source-git-commit: 47bc93665a7efa0d64cd4d5f34b868895d407527
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
-source-wordcount: '104'
-ht-degree: 0%
+source-wordcount: '97'
+ht-degree: 16%
 
 ---
 
-# 지금 일괄 처리 스마트 캠페인 실행 | 예약 탭 {#run-a-batch-smart-campaign-now-schedule-tab}
+# 배치 스마트 캠페인 지금 실행 | 일정 탭 {#run-a-batch-smart-campaign-now-schedule-tab}
 
 배치 캠페인 빌드가 완료되면 지금 실행하거나 나중에 실행하도록 선택할 수 있습니다. 다음은 즉시 실행하는 방법입니다.
 
-1. 일괄 캠페인을 선택하고 **[!UICONTROL 일정]** 탭으로 이동한 다음 **[!UICONTROL 한 번 실행]**&#x200B;을 클릭합니다.
+1. 일괄 처리 캠페인을 선택하고 **[!UICONTROL Schedule]** 탭으로 이동한 다음 **[!UICONTROL Run Once]**&#x200B;을(를) 클릭합니다.
 
    ![](assets/run-a-batch-smart-campaign-now-schedule-tab-1.png)
 
-1. **[!UICONTROL 지금 실행]**&#x200B;을 선택하고 **[!UICONTROL 실행]**&#x200B;을 클릭하세요.
+1. **[!UICONTROL Run Now]**&#x200B;이(가) 선택되어 있는지 확인하고 **[!UICONTROL Run]**&#x200B;을(를) 클릭합니다.
 
    ![](assets/run-a-batch-smart-campaign-now-schedule-tab-2.png)
 
-1. **[!UICONTROL 실행]**&#x200B;을 한 번 더 클릭하여 확인합니다.
+1. **[!UICONTROL Run]**&#x200B;을(를) 한 번 더 클릭하여 확인합니다.
 
    ![](assets/run-a-batch-smart-campaign-now-schedule-tab-3.png)
 

@@ -1,13 +1,13 @@
 ---
 unique-page-id: 37355602
 description: Microsoft Dynamics Online에서 Marketo Sales Insight 설치 및 구성 - Marketo 설명서 - 제품 설명서
-title: Microsoft Dynamics Online에서 Marketo Sales Insight 설치 및 구성
+title: Microsoft Dynamics Online에 Marketo Sales Insight 설치 및 구성
 exl-id: 3b58b109-96f9-427e-be5c-a8db270ffe69
 feature: Marketo Sales Insights
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '405'
-ht-degree: 2%
+ht-degree: 4%
 
 ---
 
@@ -35,7 +35,7 @@ ht-degree: 2%
 
    ![](assets/image2015-4-29-14-3a22-3a1-1.png)
 
-1. **[!UICONTROL Solutions]**&#x200B;을(를) 클릭합니다.
+1. **[!UICONTROL Solutions]**&#x200B;를 클릭합니다.
 
    ![](assets/image2014-12-12-9-3a5-3a17-1.png)
 
@@ -43,7 +43,7 @@ ht-degree: 2%
    >
    >계속 진행하기 전에 Marketo 솔루션을 이미 설치 및 구성했어야 합니다.
 
-1. **[!UICONTROL Import]**&#x200B;을(를) 클릭합니다.
+1. **[!UICONTROL Import]**&#x200B;를 클릭합니다.
 
    ![](assets/image2014-12-12-9-3a5-3a27-1.png)
 
@@ -53,11 +53,11 @@ ht-degree: 2%
 
 1. 컴퓨터에서 방금 다운로드한 솔루션을 찾아 설치합니다.
 
-1. **[!UICONTROL Next]**&#x200B;을(를) 클릭합니다.
+1. **[!UICONTROL Next]**&#x200B;를 클릭합니다.
 
    ![](assets/seven.png)
 
-1. 솔루션이 업로드됩니다. 원한다면 패키지 콘텐츠를 볼 수 있습니다. **[!UICONTROL Next]**&#x200B;을(를) 클릭합니다.
+1. 솔루션이 업로드됩니다. 원한다면 패키지 콘텐츠를 볼 수 있습니다. **[!UICONTROL Next]**&#x200B;를 클릭합니다.
 
    ![](assets/image2014-12-12-9-3a6-3a10-1.png)
 
@@ -73,7 +73,7 @@ ht-degree: 2%
 
    ![](assets/eleven.png)
 
-1. **[!UICONTROL Publish Customization]**&#x200B;을(를) 클릭합니다.
+1. **[!UICONTROL Publish Customization]**&#x200B;를 클릭합니다.
 
    >[!NOTE]
    >
@@ -121,7 +121,7 @@ Marketo 인스턴스를 [!DNL Sales Insight]의 [!DNL Dynamics]에 연결합니�
 
    ![](assets/image2014-12-12-9-3a7-3a34-1.png)
 
-1. **[!UICONTROL New]**&#x200B;을(를) 클릭합니다.
+1. **[!UICONTROL New]**&#x200B;를 클릭합니다.
 
    ![](assets/image2014-12-12-9-3a8-3a8-1.png)
 
@@ -139,7 +139,7 @@ Marketo 인스턴스를 [!DNL Sales Insight]의 [!DNL Dynamics]에 연결합니�
 
    ![](assets/enable-two.png)
 
-1. **[!UICONTROL Enable Sync]**&#x200B;을(를) 클릭합니다.
+1. **[!UICONTROL Enable Sync]**&#x200B;를 클릭합니다.
 
    ![](assets/enable-three.png)
 
@@ -163,7 +163,7 @@ Marketo 인스턴스를 [!DNL Sales Insight]의 [!DNL Dynamics]에 연결합니�
 
    ![](assets/image2015-4-29-14-3a56-3a33-1.png)
 
-1. **[!UICONTROL Users]**&#x200B;을(를) 클릭합니다.
+1. **[!UICONTROL Users]**&#x200B;를 클릭합니다.
 
    ![](assets/image2015-4-29-14-3a57-3a46-1.png)
 

@@ -1,17 +1,17 @@
 ---
 unique-page-id: 4719400
 description: 새 In Zone Web Campaign 만들기 - Marketo 문서 - 제품 설명서
-title: Zone Web Campaign에서 새로운 기능 만들기
+title: 새 내부 영역 웹 캠페인 만들기
 exl-id: 5cbe80a2-5e20-4e35-a722-b4cb479b4df7
 feature: Web Personalization
-source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '673'
-ht-degree: 0%
+ht-degree: 4%
 
 ---
 
-# Zone Web Campaign에서 새로운 기능 만들기 {#create-a-new-in-zone-web-campaign}
+# 새 내부 영역 웹 캠페인 만들기 {#create-a-new-in-zone-web-campaign}
 
 웹 캠페인은 특정 세그먼트와 연계된 사용자 지정 반응으로, 웹 사이트의 [대화 상자](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/create-a-new-dialog-web-campaign.md), 영역 내 대체, [위젯 기능](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/create-a-new-widget-web-campaign.md) 또는 이메일 알림이 될 수 있습니다. 영역 내 웹 캠페인은 영역 ID를 기반으로 하는 웹 사이트의 요소를 콘텐츠 또는 그래픽 배너로 대체합니다.
 

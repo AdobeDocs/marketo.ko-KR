@@ -1,17 +1,17 @@
 ---
 unique-page-id: 2953348
 description: 마케팅 달력 - Marketo 문서 - 제품 설명서에서 바로 항목 만들기
-title: 마케팅 달력에서 바로 항목 만들기
+title: 마케팅 캘린더에서 직접 항목 만들기
 exl-id: 114b94e8-39f0-4e5d-abb0-27515957b33f
 feature: Marketing Calendar
-source-git-commit: 02b2e39580c5eac63de4b4b7fdaf2a835fdd4ba5
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
-source-wordcount: '122'
-ht-degree: 0%
+source-wordcount: '118'
+ht-degree: 15%
 
 ---
 
-# 마케팅 달력에서 바로 항목 만들기 {#create-entries-directly-in-the-marketing-calendar}
+# 마케팅 캘린더에서 직접 항목 만들기 {#create-entries-directly-in-the-marketing-calendar}
 
 Marketo에서는 프로그램 포커스 모드를 사용하여 마케팅 캘린더에서 바로 항목을 만들 수 있습니다. 다음 항목 유형을 생성할 수 있습니다.
 
@@ -20,11 +20,11 @@ Marketo에서는 프로그램 포커스 모드를 사용하여 마케팅 캘린�
 * 이메일 프로그램
 * 스마트 캠페인
 
-1. **[!UICONTROL 달력]** 타일을 클릭합니다.
+1. **[!UICONTROL Calendar]** 타일을 클릭합니다.
 
    ![](assets/2017-05-10-15-30-47-2.png)
 
-1. 이전 항목을 선택하고 **[!UICONTROL 프로그램 포커스 표시]**&#x200B;를 클릭합니다.
+1. 이전 항목을 선택하고 **[!UICONTROL Show Program Focus]**&#x200B;을(를) 클릭합니다.
 
    ![](assets/image2014-10-20-13-3a7-3a55.png)
 

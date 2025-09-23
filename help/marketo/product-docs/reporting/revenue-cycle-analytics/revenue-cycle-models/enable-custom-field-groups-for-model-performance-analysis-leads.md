@@ -1,17 +1,17 @@
 ---
 unique-page-id: 3571890
 description: 모델 성능 분석에 대한 사용자 정의 필드 그룹 활성화(리드) - Marketo 문서 - 제품 설명서
-title: 모델 성능 분석에 대한 사용자 정의 필드 그룹 활성화(잠재 고객)
+title: 모델 성과 분석용 사용자 정의 필드 그룹 활성화 (리드)
 exl-id: 417fd74f-d8f5-477b-b633-0fdfdd68b22b
 feature: Reporting, Revenue Cycle Analytics
-source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '325'
-ht-degree: 0%
+ht-degree: 6%
 
 ---
 
-# 모델 성능 분석에 대한 사용자 정의 필드 그룹 활성화(잠재 고객) {#enable-custom-field-groups-for-model-performance-analysis-leads}
+# 모델 성과 분석용 사용자 정의 필드 그룹 활성화 (리드) {#enable-custom-field-groups-for-model-performance-analysis-leads}
 
 >[!PREREQUISITES]
 >
@@ -42,11 +42,11 @@ ht-degree: 0%
 
 [!UICONTROL Model Performance Analysis (Leads)] 영역에서 보고할 사용자 지정 필드 그룹을 활성화하려면 다음 단계를 따르십시오.
 
-1. **[!UICONTROL Admin]**&#x200B;을(를) 클릭합니다.
+1. **[!UICONTROL Admin]**&#x200B;를 클릭합니다.
 
    ![](assets/one-1.png)
 
-1. **[!UICONTROL Revenue Cycle Analytics]**&#x200B;을(를) 클릭합니다.
+1. **[!UICONTROL Revenue Cycle Analytics]**&#x200B;를 클릭합니다.
 
    ![](assets/two-1.png)
 
@@ -62,6 +62,6 @@ ht-degree: 0%
    >
    >이 예제에서는 표준 필드(상태)에 대한 사용자 정의 필드 그룹을 활성화했습니다. 따라서 [!UICONTROL Model Performance Analysis (Leads)] 영역만 영향을 받았습니다. 사용자 정의 사용자 또는 회사 필드에 대한 사용자 정의 필드 그룹이 활성화된 경우 활성화된 그룹이 동기화 요약 탭의 [!UICONTROL Model Performance Analysis (Leads)] 섹션에 표시되고 잠재 고객, 캠페인 및 영업 기회 분석에 대한 사용자 정의 필드 수가 하나씩 증가합니다.
 
-1. **[!UICONTROL Save]**&#x200B;을(를) 클릭합니다.
+1. **[!UICONTROL Save]**&#x200B;를 클릭합니다.
 
    ![](assets/five-1.png)

@@ -1,17 +1,17 @@
 ---
 unique-page-id: 1147358
 description: 이메일에 코드 조각 추가 - Marketo 문서 - 제품 설명서
-title: 이메일에 코드 조각 추가
+title: 이메일에 스니펫 추가
 exl-id: 609130a7-c309-4f9d-99bc-c752047ce0f4
 feature: Email Editor
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '146'
-ht-degree: 0%
+ht-degree: 8%
 
 ---
 
-# 이메일에 코드 조각 추가 {#add-a-snippet-to-an-email}
+# 이메일에 스니펫 추가 {#add-a-snippet-to-an-email}
 
 스니펫은 이메일 및 랜딩 페이지에서 사용할 수 있는 서식 있는 텍스트 및 그래픽의 재사용 가능한 블록입니다.
 

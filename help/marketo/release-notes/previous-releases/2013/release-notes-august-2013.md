@@ -4,14 +4,14 @@ description: 릴리스 노트 - 2013년 8월 - Marketo 문서 - 제품 설명서
 title: 릴리스 노트 - 2013년 8월
 exl-id: c7af3af8-c51e-49dd-8ebf-803cb4350024
 feature: Release Information
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '209'
-ht-degree: 0%
+ht-degree: 3%
 
 ---
 
-# 릴리스 노트: 2013년 8월 {#release-notes-august}
+# 릴리스 정보: 2013년 8월 {#release-notes-august}
 
 다음 기능은 2013년 8월 릴리스에 포함되어 있습니다.
 
@@ -47,7 +47,7 @@ ht-degree: 0%
 
 ![](assets/image2014-9-22-16-3a35-3a38.png)
 
-## 캠페인 자동 정리 트리거 {#automatic-trigger-campaign-cleanup}
+## 자동 트리거 캠페인 정리 {#automatic-trigger-campaign-cleanup}
 
 이제 Marketo에서 주기적으로 알림을 보내고 지난 6개월 동안 실행되지 않은 [자동으로 트리거 캠페인을 비활성화](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/using-smart-campaigns/automatic-trigger-campaign-cleanup.md)합니다.
 

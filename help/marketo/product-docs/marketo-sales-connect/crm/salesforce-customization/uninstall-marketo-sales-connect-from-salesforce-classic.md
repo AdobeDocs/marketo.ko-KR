@@ -2,10 +2,10 @@
 description: Salesforce Classic - Marketo 문서 - 제품 설명서에서 Marketo Sales Connect 제거
 title: Salesforce Classic에서 Marketo Sales Connect 제거
 exl-id: 17078054-a615-4f2f-bfde-f28fd3ff6f48
-source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '1025'
-ht-degree: 9%
+ht-degree: 11%
 
 ---
 
@@ -137,7 +137,7 @@ Sales Insight 작업 사용을 시작한 후 Salesforce 계정에서 Marketo Sal
 
 1. [!DNL Salesforce]에서 화면 상단의 **+** 탭을 클릭합니다.
 
-1. **[!UICONTROL Customize My Tabs]**&#x200B;을(를) 클릭합니다.
+1. **[!UICONTROL Customize My Tabs]**&#x200B;를 클릭합니다.
 
 1. 오른쪽에서 Marketo Sales Outbox 옵션을 선택합니다. [!UICONTROL Remove] 화살표를 클릭한 다음 **[!UICONTROL Save]**&#x200B;을(를) 클릭합니다.
 

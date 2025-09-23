@@ -1,18 +1,18 @@
 ---
 description: 개인 세부 사항 보기 - Marketo 문서 - 제품 설명서
-title: 개인 세부 사항 보기
+title: 사용자 세부 정보 보기
 hide: true
 hidefromtoc: true
 exl-id: 3d172daa-745d-44f9-8460-40866d0247a1
 feature: Sales Insight Actions
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '283'
-ht-degree: 0%
+ht-degree: 3%
 
 ---
 
-# 개인 세부 사항 보기 {#person-detail-view}
+# 사용자 세부 정보 보기 {#person-detail-view}
 
 개인 세부 정보 보기는 [!DNL Marketo Sales] 계정의 각 사용자에 대한 자세한 프로필을 제공합니다.
 

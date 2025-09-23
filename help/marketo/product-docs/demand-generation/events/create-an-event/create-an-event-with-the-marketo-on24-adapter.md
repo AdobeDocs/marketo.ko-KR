@@ -1,17 +1,17 @@
 ---
 unique-page-id: 10096656
 description: Marketo ON24 어댑터 - Marketo 문서 - 제품 설명서를 사용하여 이벤트 만들기
-title: Marketo ON24 어댑터를 사용하여 이벤트 만들기
+title: Marketo ON24 어댑터로 이벤트 만들기
 exl-id: a240ff72-b12f-4e3a-8e14-94fddb02f944
 feature: Events
-source-git-commit: 2b610cc3486b745212b0b1f36018a83214d7ecd7
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '284'
-ht-degree: 0%
+ht-degree: 6%
 
 ---
 
-# Marketo ON24 어댑터를 사용하여 이벤트 만들기 {#create-an-event-with-the-marketo-on-adapter}
+# Marketo ON24 어댑터로 이벤트 만들기 {#create-an-event-with-the-marketo-on-adapter}
 
 Marketo에서 이벤트를 만드는 데 권장되는 구성 요소 및 시퀀스에 익숙해야 합니다. 다음 Marketo 개념에 대한 작업 지식도 있어야 합니다.
 
@@ -24,7 +24,7 @@ Marketo에서 이벤트를 만드는 데 권장되는 구성 요소 및 시퀀�
 >
 >Marketo API에 대한 자세한 내용은 [Marketo API 설명서](https://experienceleague.adobe.com/ko/docs/marketo-developer/marketo/rest/rest-api){target="_blank"}를 참조하십시오.
 
-## 필요 조건 {#prerequisites}
+## 사전 요구 사항 {#prerequisites}
 
 Marketo ON24 통합을 사용하려면 다음이 필요합니다.
 

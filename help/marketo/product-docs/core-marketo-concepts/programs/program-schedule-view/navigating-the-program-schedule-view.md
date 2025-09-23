@@ -4,10 +4,10 @@ description: 프로그램 일정 보기 탐색 - Marketo 문서 - 제품 설명�
 title: 프로그램 일정 보기 탐색
 exl-id: 31623f95-f956-44f6-9b6e-5595fb6e62d5
 feature: Programs
-source-git-commit: b21f955bf98063e11f8ed3fdc6f164134ee4f5aa
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
-source-wordcount: '184'
-ht-degree: 0%
+source-wordcount: '177'
+ht-degree: 6%
 
 ---
 
@@ -17,11 +17,11 @@ ht-degree: 0%
 
 ## 일정 보기 찾기 {#find-the-schedule-view}
 
-1. **[!UICONTROL 마케팅 활동]**(으)로 이동합니다.
+1. **[!UICONTROL Marketing Activities]**(으)로 이동합니다.
 
    ![](assets/login-marketing-activities.png)
 
-1. 프로그램을 선택합니다. **[!UICONTROL 보기]** 드롭다운을 클릭합니다. **[!UICONTROL 일정]**&#x200B;을 선택하세요.
+1. 프로그램을 선택합니다. **[!UICONTROL View]** 드롭다운을 클릭합니다. **[!UICONTROL Schedule]**&#x200B;를 선택합니다.
 
    ![](assets/image2014-9-17-11-3a38-3a3.png)
 
@@ -51,7 +51,7 @@ ht-degree: 0%
 
 ## 모드 간 변경 {#changing-between-modes}
 
-1. **[!UICONTROL 3주]** 또는 **[!UICONTROL 월]**&#x200B;을 클릭하면 화면에 표시되는 날짜가 변경됩니다.
+1. **[!UICONTROL 3 Weeks]** 또는 **[!UICONTROL Month]**&#x200B;을(를) 클릭하면 화면에 표시되는 날짜가 변경됩니다.
 
    ![](assets/image2014-9-17-11-3a40-3a19.png)
 

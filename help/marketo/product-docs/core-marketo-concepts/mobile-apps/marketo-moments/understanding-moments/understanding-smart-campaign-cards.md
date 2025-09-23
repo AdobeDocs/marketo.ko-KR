@@ -4,10 +4,10 @@ description: 스마트 캠페인 카드 이해 - Marketo 문서 - 제품 설명�
 title: 스마트 캠페인 카드 이해
 exl-id: 2d7476aa-d33d-4c82-aef8-b340766b9526
 feature: Mobile Marketing
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '549'
-ht-degree: 0%
+ht-degree: 2%
 
 ---
 
@@ -47,7 +47,7 @@ Marketo 모먼트 를 사용하여 스마트 폰 또는 iPad에서 스마트 캠
 
    ![](assets/image2015-9-22-15-3a8-3a12.png)
 
-1. **[!UICONTROL Email Summary]**&#x200B;을(를) 클릭합니다.
+1. **[!UICONTROL Email Summary]**&#x200B;를 클릭합니다.
 
    ![](assets/image2015-9-21-13-3a51-3a7.png)
 

@@ -4,7 +4,7 @@ description: MS [!DNL Dynamics] 인스턴스 - Marketo 문서 - 제품 설명서
 title: MS [!DNL Dynamics] 인스턴스에서 MSI 제거
 exl-id: 86e8dbc9-236f-42ad-96e8-cdb1b4c3bed2
 feature: Marketo Sales Insights
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '131'
 ht-degree: 3%
@@ -23,11 +23,11 @@ MS [!DNL Dynamics] 인스턴스에서 MSI를 제거하려면 Marketo 및 MS [!DN
 
    ![](assets/one-1.png)
 
-1. **[!UICONTROL Sales Insight]**&#x200B;을(를) 클릭합니다.
+1. **[!UICONTROL Sales Insight]**&#x200B;를 클릭합니다.
 
    ![](assets/six.png)
 
-1. **[!UICONTROL Edit Field Sync]**&#x200B;을(를) 클릭합니다.
+1. **[!UICONTROL Edit Field Sync]**&#x200B;를 클릭합니다.
 
    ![](assets/seven.png)
 
@@ -41,9 +41,9 @@ MS [!DNL Dynamics] 인스턴스에서 MSI를 제거하려면 Marketo 및 MS [!DN
 
 ## MS [!DNL Dynamics] 인스턴스에서 다음 단계를 수행합니다. {#the-following-steps-take-place-in-your-ms-dynamics-instance}
 
-1. **[!UICONTROL Advanced Settings]**&#x200B;을(를) 클릭합니다.
+1. **[!UICONTROL Advanced Settings]**&#x200B;를 클릭합니다.
 
-1. **[!UICONTROL Solutions]**&#x200B;을(를) 클릭합니다.
+1. **[!UICONTROL Solutions]**&#x200B;를 클릭합니다.
 
 1. **[!UICONTROL Marketo Sales Insight]**&#x200B;을(를) 선택하고 삭제 아이콘을 클릭합니다.
 

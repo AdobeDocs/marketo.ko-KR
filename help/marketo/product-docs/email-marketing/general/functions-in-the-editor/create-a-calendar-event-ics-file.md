@@ -1,17 +1,17 @@
 ---
 unique-page-id: 1900563
 description: 달력 이벤트(.ics) 파일 만들기 - Marketo 문서 - 제품 설명서
-title: 달력 이벤트(.ics) 파일 만들기
+title: 캘린더 이벤트(.ics) 파일 만들기
 exl-id: 17b5d99d-94ce-4122-8928-4290cc253d11
 feature: Email Editor
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '90'
-ht-degree: 0%
+ht-degree: 13%
 
 ---
 
-# 달력 이벤트(.ics) 파일 만들기 {#create-a-calendar-event-ics-file}
+# 캘린더 이벤트(.ics) 파일 만들기 {#create-a-calendar-event-ics-file}
 
 달력 파일 토큰을 사용하면 달력 이벤트(.ics) 링크를 Marketo 이메일 및 랜딩 페이지에 추가할 수 있습니다.
 

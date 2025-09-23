@@ -1,17 +1,17 @@
 ---
 unique-page-id: 7512979
 description: 리드 피드 사용 - Marketo 문서 - 제품 설명서
-title: 가망 고객 피드 사용
+title: 리드 피드 사용
 exl-id: cdb10fe4-3006-4bae-b485-f7bfa95f1226
 feature: Marketo Sales Insights
-source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '328'
-ht-degree: 1%
+ht-degree: 3%
 
 ---
 
-# 가망 고객 피드 사용 {#using-the-lead-feed}
+# 리드 피드 사용 {#using-the-lead-feed}
 
 리드 피드는 리드가 수행하는 흥미로운 이벤트의 최신 목록입니다. Marketo 탭을 클릭하면 오른쪽에서 찾을 수 있습니다. RSS 또는 [!DNL Twitter] 피드와 같습니다. 최신 업데이트가 목록 맨 위에 있습니다. 당신이 그들의 마음에 아직 새로움을 느낄 때 리드 위로 점프하기 위해 이것을 사용합니다.
 
@@ -49,7 +49,7 @@ ht-degree: 1%
   </tr>
   <tr>
    <td><p>C. 계정 이름</p></td>
-   <td><p>회사명</p></td>
+   <td><p>회사 이름</p></td>
   </tr>
   <tr>
    <td><p>D. 시간</p></td>

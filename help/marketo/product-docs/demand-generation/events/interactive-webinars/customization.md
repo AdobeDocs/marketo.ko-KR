@@ -3,7 +3,7 @@ description: 대화형 웨비나 사용자 지정 - Marketo 문서 - 제품 설�
 title: 대화형 웨비나 사용자 지정
 feature: Interactive Webinars
 exl-id: 52933cb6-7bce-4c81-ba3f-68eaf211e8eb
-source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '715'
 ht-degree: 0%
@@ -27,7 +27,7 @@ ht-degree: 0%
 
 조직의 사용자가 대화형 웨비나를 사용자 정의할 수 있으려면 먼저 Marketo Engage 관리자가 원하는 역할에 액세스 권한을 추가해야 합니다.
 
-1. Marketo Engage에서 **[!UICONTROL Admin]**&#x200B;을(를) 클릭합니다.
+1. Marketo Engage에서 **[!UICONTROL Admin]**&#x200B;을 클릭합니다.
 
    ![](assets/interactive-webinars-customization-1.png)
 

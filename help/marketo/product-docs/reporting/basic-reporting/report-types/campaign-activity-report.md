@@ -4,10 +4,10 @@ description: 캠페인 활동 보고서 - Marketo 문서 - 제품 설명서
 title: 캠페인 활동 보고서
 exl-id: 13904129-c7e2-4bfa-b545-c85656d4262e
 feature: Reporting
-source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '220'
-ht-degree: 2%
+ht-degree: 5%
 
 ---
 

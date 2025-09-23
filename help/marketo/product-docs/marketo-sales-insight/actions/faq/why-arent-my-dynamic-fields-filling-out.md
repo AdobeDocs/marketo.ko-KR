@@ -1,16 +1,16 @@
 ---
-description: 동적 필드를 채우지 않는 이유는 무엇입니까? - Marketo 문서 - 제품 설명서
-title: 동적 필드를 채우지 않는 이유는 무엇입니까?
+description: 동적 필드를 채우지 않는 이유는 무엇입니까? - Marketo 설명서 - 제품 설명서
+title: 내 동적 필드가 채워지지 않는 이유는 무엇입니까?
 exl-id: 4e1d133f-8314-4e64-b50b-f3e824c3bef4
 feature: Sales Insight Actions
-source-git-commit: 21bcdc10fe1f3517612efe0f8e2adaf2f4411a70
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '294'
-ht-degree: 0%
+ht-degree: 6%
 
 ---
 
-# 동적 필드를 채우지 않는 이유는 무엇입니까? {#why-arent-my-dynamic-fields-filling-out}
+# 내 동적 필드가 채워지지 않는 이유는 무엇입니까? {#why-arent-my-dynamic-fields-filling-out}
 
 동적 필드는 템플릿을 사용하는 경우에만 작동합니다. 작성한 개별 일회성 이메일은 작성되지 않습니다.
 

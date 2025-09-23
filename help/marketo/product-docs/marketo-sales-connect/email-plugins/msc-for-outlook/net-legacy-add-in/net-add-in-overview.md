@@ -4,10 +4,10 @@ description: .NET 추가 기능 개요 - Marketo 문서 - 제품 설명서
 title: .NET 추가 기능 개요
 exl-id: fa40377e-e70b-46d3-a75f-5fa791f9275b
 feature: Marketo Sales Connect
-source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '201'
-ht-degree: 0%
+ht-degree: 6%
 
 ---
 
@@ -17,13 +17,13 @@ ht-degree: 0%
 >
 >이전 추가 기능입니다. 이미 설치되어 있는 경우 2020년까지 계속 작동합니다. 새 사용자인 경우 새 [Office 365 추가 기능](https://s3.amazonaws.com/tout-user-store/outlook-mac/assets/install_tout_add-in_outlook_mac.pdf)을 설치하십시오.
 
-## 컨텐츠 첨부 {#attaching-a-piece-of-content}
+## 콘텐츠 첨부 {#attaching-a-piece-of-content}
 
 **[!UICONTROL Content]** 단추를 클릭하고 파일을 업로드하여 추적 가능한 콘텐츠를 추가하십시오.
 
 이전에 업로드한 모든 콘텐츠는 다시 업로드하지 않고도 팝업 창에서 선택할 수 있게 표시됩니다.
 
-## 달력 기능 {#calendar-functionality}
+## 캘린더 기능 {#calendar-functionality}
 
 **[!UICONTROL Calendar]** 단추를 눌러 사용 가능한 시간을 수신자에게 알립니다.
 

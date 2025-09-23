@@ -4,18 +4,18 @@ description: 릴리스 노트 - 2015년 3월 - Marketo 문서 - 제품 설명서
 title: 릴리스 노트 - 2015년 3월
 exl-id: aa3c738a-2e5c-41c3-b1d7-95869dd10b02
 feature: Release Information
-source-git-commit: ecd225af3ecfd7cb9159faf5a9d384d47ee6312c
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '287'
-ht-degree: 0%
+ht-degree: 2%
 
 ---
 
-# 릴리스 노트: 2015년 3월 {#release-notes-march}
+# 릴리스 정보: 2015년 3월 {#release-notes-march}
 
 다음 기능은 2015년 3월 릴리스에 포함되어 있습니다. Marketo 버전에서 사용 가능한 기능이 있는지 확인하십시오. 릴리스 후에 다시 돌아와 각 기능에 대한 세부 문서에 대한 링크를 찾으십시오.
 
-## 달력 HD {#calendar-hd}
+## 캘린더 HD {#calendar-hd}
 
 달력의 새 프레젠테이션 모드로 팀의 마케팅 활동을 표시합니다. 이것들은 사무실 주변의 TV나 거대한 모니터에 아주 좋습니다! 스마트 목록 또는 사용자 지정 지표를 기반으로 목표를 설정하고 표시합니다.
 
@@ -37,7 +37,7 @@ ht-degree: 0%
 
 ## 새 자산 REST API {#new-asset-rest-apis}
 
-[새 자산 REST API](https://experienceleague.adobe.com/ko/docs/marketo-developer/marketo/rest/assets/assets)
+[새 자산 REST API](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/rest/assets/assets)
 
 이제 API를 통해 [전자 메일, 템플릿, 내 토큰, 파일 및 코드 조각을 만들고 편집할 수 있습니다](https://developer.adobe.com/marketo-apis/api/asset/)!
 

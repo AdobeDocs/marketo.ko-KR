@@ -1,17 +1,17 @@
 ---
 unique-page-id: 1146980
 description: 흐름 단계에서 선택 항목 추가 사용 - Marketo 문서 - 제품 설명서
-title: 흐름 단계에서 선택 항목 추가 사용
+title: 플로우 단계에서 선택 항목 추가 사용
 exl-id: 50ffcd60-48ee-4341-94d8-170c63bc9ecb
 feature: Smart Campaigns
-source-git-commit: 12f2399859c784095cc2c1df772c66c649106ba3
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
-source-wordcount: '195'
-ht-degree: 0%
+source-wordcount: '192'
+ht-degree: 7%
 
 ---
 
-# 흐름 단계에서 선택 항목 추가 사용 {#use-add-choice-in-a-flow-step}
+# 플로우 단계에서 선택 항목 추가 사용 {#use-add-choice-in-a-flow-step}
 
 >[!PREREQUISITES]
 >
@@ -19,7 +19,7 @@ ht-degree: 0%
 
 &quot;선택 항목 추가&quot;를 사용하면 플로우 단계를 사용하여 세부 정보를 선택할 때 &#39;종속됨&#39;이라고 말할 수 있습니다.
 
-1. 스마트 캠페인의 **[!UICONTROL 흐름]** 탭에서 흐름 단계를 추가한 다음 **[!UICONTROL 선택 항목 추가]**&#x200B;를 클릭합니다.
+1. 스마트 캠페인의 **[!UICONTROL Flow]** 탭에서 흐름 단계를 추가한 다음 **[!UICONTROL Add Choice]**&#x200B;을(를) 클릭합니다.
 
    ![](assets/use-add-choice-in-a-flow-step-1.png)
 

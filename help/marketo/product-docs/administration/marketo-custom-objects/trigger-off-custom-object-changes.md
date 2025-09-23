@@ -1,17 +1,17 @@
 ---
 unique-page-id: 11378713
 description: 사용자 지정 개체 변경 트리거 - Marketo 문서 - 제품 설명서
-title: 사용자 지정 개체 변경 트리거
+title: 사용자 정의 오브젝트 변경 사항 트리거
 exl-id: a2a3d82f-33ae-4191-b114-dbbf944a66c8
 feature: Custom Objects
-source-git-commit: acaf2b421ed65f74bedf18b121ce54e30c19c721
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
-source-wordcount: '183'
-ht-degree: 0%
+source-wordcount: '179'
+ht-degree: 6%
 
 ---
 
-# 사용자 지정 개체 변경 트리거 {#trigger-off-custom-object-changes}
+# 사용자 정의 오브젝트 변경 사항 트리거 {#trigger-off-custom-object-changes}
 
 >[!NOTE]
 >
@@ -28,7 +28,7 @@ ht-degree: 0%
 >
 >사용자 지정 개체 레코드를 변경할 때 활동 로그 항목이 만들어지지 않습니다.
 
-1. Marketo Engage에서 **[!UICONTROL 마케팅 활동]**(으)로 이동합니다.
+1. Marketo Engage에서 **[!UICONTROL Marketing Activities]**(으)로 이동합니다.
 
    ![](assets/trigger-off-custom-object-changes-1.png)
 
@@ -40,7 +40,7 @@ ht-degree: 0%
 
    ![](assets/trigger-off-custom-object-changes-3.png)
 
-1. [!UICONTROL 트리거 특성]을(를) 선택하십시오.
+1. [!UICONTROL trigger attribute]을(를) 선택합니다.
 
    ![](assets/trigger-off-custom-object-changes-4.png)
 

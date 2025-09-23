@@ -1,27 +1,27 @@
 ---
 unique-page-id: 4720314
 description: 영업 Insight 이메일 성과 보고서 - Marketo 문서 - 제품 설명서
-title: 영업 Insight 이메일 성과 보고서
+title: Sales Insight 이메일 성과 보고서
 exl-id: eadce9f8-0ba2-4e0c-947c-50ff74003b8e
 feature: Marketo Sales Insights
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '137'
-ht-degree: 2%
+ht-degree: 9%
 
 ---
 
-# 영업 Insight 이메일 성과 보고서 {#sales-insight-email-performance-report}
+# Sales Insight 이메일 성과 보고서 {#sales-insight-email-performance-report}
 
 [!DNL Salesforce], [!DNL Microsoft Dynamics], Gmail 또는 [!DNL Outlook] 플러그인을 통해 보낸 전자 메일의 성능을 봅니다.
 
 ## 보고서 생성 {#generate-a-report}
 
-1. **[!UICONTROL Analytics]**&#x200B;을(를) 클릭합니다.
+1. **[!UICONTROL Analytics]**&#x200B;를 클릭합니다.
 
    ![](assets/mainnav-analyticshand-small.png)
 
-1. **[!UICONTROL Sales Insight Email Performance]**&#x200B;을(를) 클릭합니다.
+1. **[!UICONTROL Sales Insight Email Performance]**&#x200B;를 클릭합니다.
 
    ![](assets/analytics-salesemailreporthand.png)
 
@@ -55,7 +55,7 @@ ht-degree: 2%
 
    ![](assets/image2014-12-9-12-3a16-3a42.png)
 
-1. **[!UICONTROL Save]**&#x200B;을(를) 클릭합니다.
+1. **[!UICONTROL Save]**&#x200B;를 클릭합니다.
 
    ![](assets/image2014-12-9-12-3a17-3a39.png)
 

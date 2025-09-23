@@ -4,10 +4,10 @@ description: Facebook 오프라인 전환 설정 - Marketo 문서 - 제품 설�
 title: Facebook 오프라인 전환 설정
 exl-id: e1974943-8fc8-41f6-be7e-1b594de13db6
 feature: Integrations
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '281'
-ht-degree: 1%
+ht-degree: 3%
 
 ---
 
@@ -34,7 +34,7 @@ ht-degree: 1%
 
    ![](assets/image2016-11-29-13-3a10-3a43.png)
 
-1. 원하는 경우 오프라인 전환을 포함하도록 **[!UICONTROL Display Name]**&#x200B;을(를) 편집하세요. **[!UICONTROL Next]**&#x200B;을(를) 클릭합니다.
+1. 원하는 경우 오프라인 전환을 포함하도록 **[!UICONTROL Display Name]**&#x200B;을(를) 편집하세요. **[!UICONTROL Next]**&#x200B;를 클릭합니다.
 
    ![](assets/image2016-11-29-13-3a12-3a19.png)
 
@@ -42,11 +42,11 @@ ht-degree: 1%
 
    ![](assets/image2016-11-29-13-3a13-3a32.png)
 
-1. **[!UICONTROL Next]**&#x200B;을(를) 클릭합니다.
+1. **[!UICONTROL Next]**&#x200B;를 클릭합니다.
 
    ![](assets/image2016-11-29-13-3a14-3a17.png)
 
-1. **[!UICONTROL Save]**&#x200B;을(를) 클릭합니다.
+1. **[!UICONTROL Save]**&#x200B;를 클릭합니다.
 
    ![](assets/image2016-11-29-13-3a14-3a52.png)
 

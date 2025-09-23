@@ -4,10 +4,10 @@ description: 릴리스 노트 - 2020년 1월 - Marketo 문서 - 제품 설명서
 title: 릴리스 노트 - 2020년 1월
 exl-id: 7b011c1a-1161-42f8-8bd0-4ee273928b59
 feature: Release Information
-source-git-commit: ecd225af3ecfd7cb9159faf5a9d384d47ee6312c
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
-source-wordcount: '794'
-ht-degree: 0%
+source-wordcount: '792'
+ht-degree: 1%
 
 ---
 
@@ -57,12 +57,12 @@ ht-degree: 0%
 
 ## [!DNL Marketo Sky] {#marketo-sky}
 
-* [이미지 편집](https://experienceleague.adobe.com/docs/marketo/sky/design-studio/marketo-image-editor.html?lang=ko#design-studio): Marketo Engage에서 나가지 않고 Adobe의 편집 기능에 액세스합니다. 이 새로운 기능을 사용하면 [!UICONTROL Design Studio]에서 이미지에 텍스트를 직접 보강, 자르기 및 추가하는 등의 작업을 쉽게 수행할 수 있습니다.
+* [이미지 편집](https://experienceleague.adobe.com/docs/marketo/sky/design-studio/marketo-image-editor.html?lang=en#design-studio): Marketo Engage에서 나가지 않고 Adobe의 편집 기능에 액세스합니다. 이 새로운 기능을 사용하면 [!UICONTROL Design Studio]에서 이미지에 텍스트를 직접 보강, 자르기 및 추가하는 등의 작업을 쉽게 수행할 수 있습니다.
 
 ## [!DNL Sales Insight] {#sales-insight}
 
 * **[!DNL Salesforce Lightning]일괄 작업**: 판매 효율성을 높이고 구매자가 캠페인에 최대 200개의 연락처/리드를 추가하고 [!DNL Salesforce Lightning]과(와) 함께 Marketo Engage 이메일을 일괄적으로 보낼 수 있는 기능을 계속 사용할 수 있도록 합니다.
-* [!DNL Salesforce1]&#x200B;**에 대한**&#x200B;모바일 지원: 이제 [!DNL Salesforce1] 앱에서 바로 관심 있는 순간, 웹 활동 및 전자 메일과 같은 모든 [!DNL Sales Insight] 기능에 대한 이동 중 모바일 액세스 권한을 갖습니다.
+* **에 대한[!DNL Salesforce1]**&#x200B;모바일 지원: 이제 [!DNL Sales Insight] 앱에서 바로 관심 있는 순간, 웹 활동 및 전자 메일과 같은 모든 [!DNL Salesforce1] 기능에 대한 이동 중 모바일 액세스 권한을 갖습니다.
 * **UI 개선 사항**: 가독성 및 [!DNL Marketo Sky] 경험과 일치하는 디자인을 개선하여 인터페이스를 업데이트했습니다.
 
 ## [!DNL Sales Connect] {#sales-connect}
@@ -76,4 +76,4 @@ ht-degree: 0%
 >
 >* **ITP 2.1+ [!DNL Munchkin] 업데이트**: [!DNL Safari]에 대한 쿠키 정책이 변경되어 [!DNL Munchkin]의 동일한 도메인에서 세션 간 사용자 추적 기능은 방문자가 사용하는 브라우저 및 브라우저 버전에 따라 ITP에 의해 1일 또는 7일로 제한됩니다. 이를 위해 HTTP 응답을 통해 Munchkin 쿠키를 Set-Cookie 헤더로 설정할 수 있도록 새 웹 서비스를 구현하고 있습니다. 이 새 서비스를 구현하는 방법에 대한 자세한 내용은 [여기](https://nation.marketo.com/docs/DOC-7351)를 참조하십시오.
 
-**_제품 릴리스 웨비나_** [참여하기](https://engage.marketo.com/Jan_Feb_20_Release_Webinar_Registration.html) 3월 3일 오전 11시(PT 기준)/오후 2시(ET 기준) 제품 팀이 호스팅하는 라이브 웨비나에 대해 알아보고 이 릴리스에 포함된 기능에 대해 자세히 알아보십시오.
+**_제품 릴리스 웨비나_** [참여하기](https://engage.marketo.com/Jan_Feb_20_Release_Webinar_Registration.html) 3월 3일 오전 11시:00AM분(PT/2:00PM)에 제품 팀이 호스팅하는 라이브 웨비나에 대해 ET에 참여하여 이 릴리스에 포함된 기능에 대해 자세히 알아보십시오.

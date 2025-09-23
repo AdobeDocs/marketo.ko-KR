@@ -1,17 +1,17 @@
 ---
 unique-page-id: 2359734
 description: 다이내믹 콘텐츠를 사용하여 랜딩 페이지 미리보기 - Marketo 문서 - 제품 설명서
-title: 다이내믹 콘텐츠를 사용하여 랜딩 페이지 미리 보기
+title: 동적 콘텐츠를 포함한 랜딩 페이지 미리보기
 exl-id: 638db767-bb20-4eef-8edd-8a7be4178d28
 feature: Landing Pages
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '86'
-ht-degree: 0%
+ht-degree: 16%
 
 ---
 
-# 다이내믹 콘텐츠를 사용하여 랜딩 페이지 미리 보기 {#preview-a-landing-page-with-dynamic-content}
+# 동적 콘텐츠를 포함한 랜딩 페이지 미리보기 {#preview-a-landing-page-with-dynamic-content}
 
 다이내믹 콘텐츠를 추가한 후 랜딩 페이지를 미리 확인하여 모든 것이 원래대로 보이는지 확인하십시오.
 

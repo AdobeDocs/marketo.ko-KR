@@ -1,17 +1,17 @@
 ---
 unique-page-id: 14352470
 description: Sales Connect 데이터를 사용하여 Salesforce 우선 순위 호출 보고서 만들기 - Marketo 문서 - 제품 설명서
-title: Sales Connect 데이터를 사용하여 Salesforce 우선 순위 호출 보고서 만들기
+title: Sales Connect 데이터로 Salesforce 우선순위 통화 보고서 만들기
 exl-id: eede4c34-d570-4dbc-beaf-6960cf80af89
 feature: Marketo Sales Connect
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '156'
-ht-degree: 0%
+ht-degree: 12%
 
 ---
 
-# Sales Connect 데이터를 사용하여 Salesforce 우선 순위 호출 보고서 만들기 {#create-a-salesforce-priority-call-report-with-sales-connect-data}
+# Sales Connect 데이터로 Salesforce 우선순위 통화 보고서 만들기 {#create-a-salesforce-priority-call-report-with-sales-connect-data}
 
 [!DNL Salesforce] 이메일 참여 데이터를 사용하여 [!DNL Sales Connect] 보고서/통화 목록을 만들어 모멘텀이 있는 사람 또는 기회에 집중하는 방법을 알아봅니다.
 

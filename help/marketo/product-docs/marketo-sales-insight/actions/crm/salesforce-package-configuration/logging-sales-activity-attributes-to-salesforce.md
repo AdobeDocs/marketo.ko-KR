@@ -1,11 +1,11 @@
 ---
 description: Salesforce에 판매 활동 속성 로깅 - Marketo 문서 - 제품 설명서
-title: Salesforce에 판매 활동 속성 로깅
+title: 세일즈 활동 속성을 Salesforce에 로깅
 exl-id: fdefe53b-eb99-48ce-a04e-3666be33fea4
-source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '225'
-ht-degree: 12%
+ht-degree: 14%
 
 ---
 
@@ -17,7 +17,7 @@ Salesforce 관리자는 사용자 지정 활동 필드를 [!DNL Salesforce]에 �
 
 1. 빠른 검색 필드에서 &quot;활동 사용자 정의 필드&quot;를 검색하고 클릭합니다.
 
-1. **[!UICONTROL New]**&#x200B;을(를) 클릭합니다.
+1. **[!UICONTROL New]**&#x200B;를 클릭합니다.
 
 1. 아래 표에 따라 추가할 필드에 해당하는 데이터 형식을 선택하고 **[!UICONTROL Next]**&#x200B;을(를) 클릭합니다.
 

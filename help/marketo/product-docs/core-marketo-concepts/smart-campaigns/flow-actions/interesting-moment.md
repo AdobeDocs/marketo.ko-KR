@@ -4,24 +4,24 @@ description: 즐거운 순간 - Marketo 문서 - 제품 설명서
 title: 즐거운 순간
 exl-id: fa1a45b8-1e62-497e-9441-bf6859addb42
 feature: Smart Campaigns
-source-git-commit: 12f2399859c784095cc2c1df772c66c649106ba3
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
-source-wordcount: '96'
-ht-degree: 0%
+source-wordcount: '94'
+ht-degree: 4%
 
 ---
 
 # 즐거운 순간 {#interesting-moment}
 
-Marketo Sales Insight가 있는 경우 **관심 있는 순간** 흐름 단계를 사용하여 직원들이 수행하는 멋진 작업에 대한 영업 팀의 가시성을 제공할 수 있습니다.
+Marketo Sales Insight이 있는 경우 **관심 있는 순간** 흐름 단계를 사용하여 직원들이 수행하는 멋진 작업에 대한 영업 팀의 가시성을 제공할 수 있습니다.
 
 ![](assets/interesting-moment-1.png)
 
-1. 사용할 **[!UICONTROL 유형]**&#x200B;을(를) 선택하세요.
+1. 사용할 **[!UICONTROL type]** 즐거운 순간을 선택하세요.
 
    ![](assets/interesting-moment-2.png)
 
-1. 영업팀에 즐거운 시간을 설명하는 **[!UICONTROL 설명]**&#x200B;을(를) 만듭니다.
+1. 영업팀에 즐거운 순간을 설명하는 **[!UICONTROL description]**&#x200B;을(를) 만듭니다.
 
    ![](assets/interesting-moment-3.png)
 

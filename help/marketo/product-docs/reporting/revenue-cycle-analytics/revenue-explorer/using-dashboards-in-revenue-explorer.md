@@ -1,13 +1,13 @@
 ---
 unique-page-id: 10094959
 description: 매출 탐색기 - Marketo 문서 - 제품 설명서에서 대시보드 사용
-title: 수익 탐색기에서 대시보드 사용
+title: Revenue Explorer에서 대시보드 사용
 exl-id: ff81d48f-524e-4425-acb4-b62428f7a375
 feature: Reporting, Revenue Cycle Analytics
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '212'
-ht-degree: 1%
+ht-degree: 3%
 
 ---
 
@@ -17,7 +17,7 @@ ht-degree: 1%
 
 ## 새 대시보드 만들기 {#creating-a-new-dashboard}
 
-1. **[!UICONTROL Revenue Explorer]**&#x200B;을(를) 클릭합니다.
+1. **[!UICONTROL Revenue Explorer]**&#x200B;를 클릭합니다.
 
    ![](assets/one.png)
 
@@ -67,7 +67,7 @@ ht-degree: 1%
 
 ## 대시보드 편집 {#editing-a-dashboard}
 
-1. **[!UICONTROL Revenue Explorer]**&#x200B;을(를) 클릭합니다.
+1. **[!UICONTROL Revenue Explorer]**&#x200B;를 클릭합니다.
 
    ![](assets/one.png)
 
@@ -81,7 +81,7 @@ ht-degree: 1%
 
 ## 대시보드 삭제 {#deleting-a-dashboard}
 
-1. **[!UICONTROL Revenue Explorer]**&#x200B;을(를) 클릭합니다.
+1. **[!UICONTROL Revenue Explorer]**&#x200B;를 클릭합니다.
 
    ![](assets/one.png)
 

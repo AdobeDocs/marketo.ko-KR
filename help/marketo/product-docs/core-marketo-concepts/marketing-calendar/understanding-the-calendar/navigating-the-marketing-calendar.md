@@ -1,17 +1,17 @@
 ---
 unique-page-id: 1147257
 description: 마케팅 달력 탐색 - Marketo 문서 - 제품 설명서
-title: 마케팅 달력 탐색
+title: 마케팅 캘린더 탐색
 exl-id: 0a70def5-d98e-4efd-ac3a-36c52c1cbc45
 feature: Marketing Calendar
-source-git-commit: afdf59729f16d27a548fa60a8156c941be54a8a7
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
-source-wordcount: '173'
-ht-degree: 0%
+source-wordcount: '168'
+ht-degree: 6%
 
 ---
 
-# 마케팅 달력 탐색 {#navigating-the-marketing-calendar}
+# 마케팅 캘린더 탐색 {#navigating-the-marketing-calendar}
 
 마케팅 캘린더를 탐색하는 것은 쉽습니다. 방법은 다음과 같습니다.
 
@@ -33,7 +33,7 @@ ht-degree: 0%
 
 ## 모드 간 변경 {#change-between-modes}
 
-1. 모드 간에 전환하려면 **[!UICONTROL 3주]** 또는 **[!UICONTROL 월]** 탭을 클릭하십시오.
+1. 모드 간에 전환하려면 **[!UICONTROL 3 weeks]** 또는 **[!UICONTROL Month]** 탭을 클릭하십시오.
 
    ![](assets/image2014-9-15-16-3a46-3a16.png)
 
@@ -41,11 +41,11 @@ ht-degree: 0%
 
 주제 보기에는 모든 항목이 목록으로 표시됩니다.
 
-1. **[!UICONTROL 필터]** 드롭다운을 클릭합니다.
+1. **[!UICONTROL Filter]** 드롭다운을 클릭합니다.
 
    ![](assets/image2014-9-26-10-3a29-3a6.png)
 
-1. **[!UICONTROL 주제]** 보기를 선택하십시오.
+1. **[!UICONTROL Agenda]** 보기를 선택하십시오.
 
    ![](assets/image2014-9-26-10-3a29-3a36.png)
 

@@ -4,7 +4,7 @@ description: SFDC 동기화 - 필드 동기화 - Marketo 문서 - 제품 설명�
 title: SFDC 동기화 - 필드 동기화
 exl-id: fbd66829-53cb-47fd-a530-149d12baee0e
 feature: Salesforce Integration
-source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '403'
 ht-degree: 0%

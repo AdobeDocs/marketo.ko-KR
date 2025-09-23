@@ -1,17 +1,17 @@
 ---
 unique-page-id: 4718666
 description: 수익 모델 재고 단계 사용 - Marketo 문서 - 제품 설명서
-title: 수익 모델 재고 단계 사용
+title: 수익 모델 인벤토리 단계 사용
 exl-id: 7df10e8c-5e25-4cb4-970c-e23d92a3dfb7
 feature: Reporting, Revenue Cycle Analytics
-source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '239'
-ht-degree: 0%
+ht-degree: 5%
 
 ---
 
-# 수익 모델 재고 단계 사용 {#using-revenue-model-inventory-stages}
+# 수익 모델 인벤토리 단계 사용 {#using-revenue-model-inventory-stages}
 
 알려진 모든 리드 및 계정은 처음에 재고 단계에 있습니다. 영업 준비가 완료될 때까지 잠재 고객을 육성합니다. 인벤토리 단계에는 시간 제한이 없습니다.
 
@@ -29,7 +29,7 @@ ht-degree: 0%
 
    ![](assets/image2015-4-27-14-3a31-3a53.png)
 
-1. **[!UICONTROL Edit Draft]**&#x200B;을(를) 클릭합니다.
+1. **[!UICONTROL Edit Draft]**&#x200B;를 클릭합니다.
 
    ![](assets/image2015-4-27-12-3a10-3a49.png)
 
@@ -67,7 +67,7 @@ ht-degree: 0%
 
    ![](assets/image2015-4-28-13-3a1-3a17.png)
 
-1. 두 삭제 방법 모두 선택을 확인하라는 메시지가 표시됩니다. **[!UICONTROL Delete]**&#x200B;을(를) 클릭합니다.
+1. 두 삭제 방법 모두 선택을 확인하라는 메시지가 표시됩니다. **[!UICONTROL Delete]**&#x200B;를 클릭합니다.
 
    ![](assets/image2015-4-28-13-3a5-3a26.png)
 

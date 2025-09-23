@@ -1,17 +1,17 @@
 ---
 unique-page-id: 14352608
 description: Campaign에서 직원 제거 - Marketo 문서 - 제품 설명서
-title: 캠페인에서 사람 제거
+title: 캠페인에서 사용자 제거
 exl-id: 700bf1eb-2e8d-46e6-9f93-704708b57543
 feature: Marketo Sales Connect
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '255'
-ht-degree: 0%
+ht-degree: 3%
 
 ---
 
-# 캠페인에서 사람 제거 {#remove-people-from-a-campaign}
+# 캠페인에서 사용자 제거 {#remove-people-from-a-campaign}
 
 수신자가 답장을 보내면 자동으로 캠페인을 종료할 수 있습니다. 또한 해당 수신자를 위한 &#39;성공&#39;으로 캠페인을 표시하도록 선택할 수 있습니다.
 

@@ -3,26 +3,26 @@ description: 릴리스 노트 - 2024년 7월 - Marketo 설명서 - 제품 설명
 title: 릴리스 정보 - 2024년 7월
 feature: Release Information
 exl-id: ff63af41-2d33-40f8-abca-3fd9493e7916
-source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '521'
-ht-degree: 3%
+ht-degree: 22%
 
 ---
 
 # 릴리스 노트: 2024년 7월 {#release-notes-july-24}
 
-아래에는 2024년 7월 릴리스에 포함된 모든 기능이 있습니다. Adobe Marketo Engage 버전에서 사용 가능한 기능이 있는지 확인하십시오.
+아래에는 2024년 7월 릴리스에 포함된 모든 기능이 있습니다. 기능 가용성에 대해 Adobe Marketo Engage 에디션을 확인하십시오.
 
-Adobe Dynamic Chat [에 대한 릴리스 정보는 여기에서 찾을 수 있습니다](/help/marketo/release-notes/dynamic-chat.md){target="_blank"}.
+Adobe Dynamic Chat에 대한 릴리스 정보는 [여기에서 확인](/help/marketo/release-notes/dynamic-chat.md){target="_blank"}할 수 있습니다.
 
 >[!AVAILABILITY]
 >
->별(![별](assets/yellow-star.png))로 표시되는 기능은 유료 추가 기능입니다. 자세한 내용은 Marketo Engage 담당자에게 문의하십시오.
+>별표(![별표](assets/yellow-star.png))로 표시된 기능은 유료 추가 기능입니다. 자세한 내용은 Marketo Engage 담당자에게 문의하십시오.
 
 ## 표준 릴리스 주기 기능 {#standard-release-cycle-features}
 
-다음 기능은 표준 릴리스 주기에 해당하며 **2024년 7월 26일**&#x200B;에 릴리스되기 시작합니다. 이후 몇 주에 걸쳐 나머지 기능의 단계적인 롤아웃이 시작됩니다. 릴리스 기능 및 날짜는 변경될 수 있습니다. 각 기능 옆에 있는 상태를 확인하십시오.
+다음 기능은 표준 릴리스 주기에 포함되며, **2024년 7월 26일 토요일**&#x200B;부터 출시되기 시작하고 나머지 기능은 이후 몇 주에 걸쳐 단계적으로 출시될 예정입니다. 릴리스 기능 및 날짜는 변경될 수 있습니다. 각 기능 옆에서 상태를 확인합니다.
 
 <table style="table-layout:auto">
  <tbody>
@@ -33,7 +33,7 @@ Adobe Dynamic Chat [에 대한 릴리스 정보는 여기에서 찾을 수 있�
   </tr>
      <tr>
    <td><strong>대화형 웨비나에 대한 참여 대시보드</strong>: 웨비나 동안 전체 웨비나 성과 보기와 각 참석자에 대한 포괄적인 참여 보기를 가져와 Marketo Engage 오케스트레이션 도구를 통해 어느 것이 대상으로 이어지는지 결정할 수 있습니다.</td>
-    <td>배송됨</td>
+    <td>출시됨</td>
    <td><a href="/help/marketo/product-docs/demand-generation/events/interactive-webinars/engagement-dashboard.md" target="_blank">참여 대시보드</a></td>
   </tr>
   <tr>
@@ -44,7 +44,7 @@ Adobe Dynamic Chat [에 대한 릴리스 정보는 여기에서 찾을 수 있�
   </tr>
      <tr>
    <td><strong>대화형 웨비나를 위한 Room 관리</strong>: 만들어진 개별 Room에 액세스하고(필요한 경우 수정), 콘텐츠 및 녹화에 액세스합니다(필요한 경우 지우기를 통해 저장소 최적화).</td>
-    <td>배송됨</td>
+    <td>출시됨</td>
    <td><a href="/help/marketo/product-docs/demand-generation/events/interactive-webinars/room-management.md" target="_blank">룸 관리</a></td>
   </tr>
   <tr>
@@ -55,7 +55,7 @@ Adobe Dynamic Chat [에 대한 릴리스 정보는 여기에서 찾을 수 있�
   </tr>
      <tr>
    <td><strong>대화형 웨비나에 대한 웨비나 사용자 지정</strong>: 웨비나 전략이 브랜드 전략에 보다 쉽게 부합할 수 있도록 공용 룸 인터페이스, 중간 화면(예: 참석자 시작 화면 배경) 및 사용자 지정 비디오 배경을 사용하여 조직에서 승인한 균일한 브랜드 경험을 제공합니다.</td>
-    <td>배송됨</td>
+    <td>출시됨</td>
    <td><a href="/help/marketo/product-docs/demand-generation/events/interactive-webinars/customization.md" target="_blank">대화형 웨비나 사용자 지정</a></td>
   </tr>
   <tr>
@@ -66,7 +66,7 @@ Adobe Dynamic Chat [에 대한 릴리스 정보는 여기에서 찾을 수 있�
   </tr>
      <tr>
    <td><strong>Marketo REST API 변경</strong>: <a href="https://developers.marketo.com/rest-api/user-management/">사용자 관리 API</a>에 약간의 변경 사항을 도입했습니다. 이제 <a href="https://developers.marketo.com/rest-api/user-management/#browse_users">사용자 찾아보기</a> 및 <a href="https://developers.marketo.com/rest-api/user-management/#delete_user">사용자 삭제</a> 엔드포인트가 모두 <a href="/help/marketo/product-docs/target-account-management/setup-tam/target-account-management-overview.md">Target 계정 관리</a> 사용자를 지원합니다.</td>
-   <td>배송됨</td>
+   <td>출시됨</td>
    <td>해당 사항 없음</td>
   </tr>
  </tbody>
@@ -80,7 +80,7 @@ Adobe Dynamic Chat [에 대한 릴리스 정보는 여기에서 찾을 수 있�
 * **소셜 기능 사용 중단**: 2024년 7월 31일 수요일에 Marketo Engage은 제품 내에서 다음 소셜 기능의 사용 중단을 시작합니다.
 
    * 투표
-   * 소셜 단추
+   * 소셜 버튼
    * 추천 시 제공 경품
    * 동영상 공유
    * 경품 추첨

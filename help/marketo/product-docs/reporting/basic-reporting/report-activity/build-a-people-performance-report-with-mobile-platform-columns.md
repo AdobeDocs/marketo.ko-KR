@@ -1,17 +1,17 @@
 ---
 unique-page-id: 2951220
 description: 모바일 플랫폼 열을 사용하여 직원 성과 보고서 작성 - Marketo 문서 - 제품 설명서
-title: 모바일 플랫폼 열을 사용하여 사람 성과 보고서 작성
+title: 모바일 플랫폼 열을 사용하여 사용자 성과 보고서 만들기
 exl-id: 93fb6cb4-a6ca-4b35-b8bf-c6657eb9343b
 feature: Reporting
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '255'
-ht-degree: 1%
+ht-degree: 8%
 
 ---
 
-# 모바일 플랫폼 열을 사용하여 사람 성과 보고서 작성 {#build-a-people-performance-report-with-mobile-platform-columns}
+# 모바일 플랫폼 열을 사용하여 사용자 성과 보고서 만들기 {#build-a-people-performance-report-with-mobile-platform-columns}
 
 모바일 플랫폼(iOS/Android) 열을 사용하여 사람 성과 보고서를 만들려면 다음 단계를 따르십시오.
 
@@ -29,7 +29,7 @@ ht-degree: 1%
 
    ![](assets/three-1.png)
 
-1. **[!UICONTROL Smart List]**&#x200B;을(를) 클릭합니다.
+1. **[!UICONTROL Smart List]**&#x200B;를 클릭합니다.
 
    ![](assets/four-1.png)
 
@@ -73,7 +73,7 @@ ht-degree: 1%
 
    ![](assets/eleven.png)
 
-1. **[!UICONTROL Report]**&#x200B;을(를) 클릭합니다.
+1. **[!UICONTROL Report]**&#x200B;를 클릭합니다.
 
    ![](assets/twelve.png)
 
@@ -81,7 +81,7 @@ ht-degree: 1%
 
    ![](assets/thirteen.png)
 
-1. **[!UICONTROL Create]**&#x200B;을(를) 클릭합니다.
+1. **[!UICONTROL Create]**&#x200B;를 클릭합니다.
 
    ![](assets/fourteen.png)
 

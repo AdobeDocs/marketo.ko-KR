@@ -1,17 +1,17 @@
 ---
 unique-page-id: 1147114
 description: 프로그램의 내 토큰 이해 - Marketo 문서 - 제품 설명서
-title: 프로그램의 내 토큰 이해
+title: 프로그램에서 내 토큰 이해
 exl-id: 01b42272-c419-4cd5-ad30-87413ceb2032
 feature: Tokens
-source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '422'
-ht-degree: 1%
+ht-degree: 4%
 
 ---
 
-# 프로그램의 내 토큰 이해 {#understanding-my-tokens-in-a-program}
+# 프로그램에서 내 토큰 이해 {#understanding-my-tokens-in-a-program}
 
 토큰은 이메일, 랜딩 페이지 및 스마트 캠페인에 사용하여 생활을 편리하게 할 수 있는 변수입니다.
 
@@ -46,7 +46,7 @@ ht-degree: 1%
   </tr>
   <tr>
    <td>이메일 스크립트 <img alt="--" src="assets/image2014-9-25-16-3a45-3a4.png" data-linked-resource-id="3083232" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="1147114"></td>
-   <td>이 토큰을 사용하여 이메일에서 Velocity 스크립트를 실행하십시오. <a href="https://experienceleague.adobe.com/ko/docs/marketo-developer/marketo/email-scripting" title="링크 따라가기" rel="nofollow">여기</a>에서 자세히 알아보세요. </td>
+   <td>이 토큰을 사용하여 이메일에서 Velocity 스크립트를 실행하십시오. <a href="https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/email-scripting" title="링크 따라가기" rel="nofollow">여기</a>에서 자세히 알아보세요. </td>
   </tr>
   <tr>
    <td>번호<span> <img alt="--" src="assets/image2014-9-25-16-3a45-3a25.png" data-linked-resource-id="3083233" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="1147114"></span></td>

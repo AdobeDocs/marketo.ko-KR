@@ -1,29 +1,29 @@
 ---
 unique-page-id: 1147235
 description: 태그로 프로그램 보고서 필터링 - Marketo 문서 - 제품 설명서
-title: 태그로 프로그램 보고서 필터링
+title: 태그별로 프로그램 보고서 필터링
 exl-id: 6517cceb-c809-487a-a40f-2b24f3f3510e
 feature: Programs
-source-git-commit: b21f955bf98063e11f8ed3fdc6f164134ee4f5aa
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
-source-wordcount: '89'
-ht-degree: 0%
+source-wordcount: '80'
+ht-degree: 16%
 
 ---
 
-# 태그로 프로그램 보고서 필터링 {#filter-a-program-report-by-tag}
+# 태그별로 프로그램 보고서 필터링 {#filter-a-program-report-by-tag}
 
-특정 [태그](/help/marketo/product-docs/core-marketo-concepts/programs/working-with-programs/understanding-tags.md){target="_blank"}에 [프로그램 성과 보고서](/help/marketo/product-docs/core-marketo-concepts/programs/program-performance-report/create-a-program-performance-report.md)의 초점을 맞추십시오.
+특정 [태그](/help/marketo/product-docs/core-marketo-concepts/programs/program-performance-report/create-a-program-performance-report.md)에 [프로그램 성과 보고서](/help/marketo/product-docs/core-marketo-concepts/programs/working-with-programs/understanding-tags.md){target="_blank"}의 초점을 맞추십시오.
 
-1. **[!UICONTROL 마케팅 활동]**(또는 **[!UICONTROL 분석]**)으로 이동합니다.
+1. **[!UICONTROL Marketing Activities]**(또는 **[!UICONTROL Analytics]**)(으)로 이동합니다.
 
    ![](assets/login-marketing-activities.png)
 
-1. **[!UICONTROL 프로그램 성과]** 보고서를 선택하십시오.
+1. **[!UICONTROL Program Performance]** 보고서를 선택하십시오.
 
    ![](assets/image2014-9-23-16-3a12-3a36.png)
 
-1. **[!UICONTROL 설정]** 탭을 클릭하고 **[!UICONTROL 태그]** 필터 중 하나로 끌어서 놓습니다.
+1. **[!UICONTROL Setup]** 탭을 클릭하고 **[!UICONTROL Tags]** 필터 중 하나로 끕니다.
 
    ![](assets/prospects.jpg)
 
@@ -31,11 +31,11 @@ ht-degree: 0%
 
    ![](assets/prospect1.jpg)
 
-1. **[!UICONTROL 적용]**&#x200B;을 클릭합니다.
+1. **[!UICONTROL Apply]**&#x200B;를 클릭합니다.
 
    ![](assets/prospect2.jpg)
 
-1. 완료! **[!UICONTROL 보고서]** 탭을 클릭하면 보고서에서 선택한 태그와 일치하는 _프로그램만_&#x200B;을(를) 볼 수 있습니다.
+1. 완료! 보고서에서 선택한 태그와 일치하는 **[!UICONTROL Report]** just _프로그램을 보려면_ 탭을 클릭하십시오.
 
    ![](assets/image2014-9-23-16-3a14-3a42.png)
 

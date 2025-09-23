@@ -4,10 +4,10 @@ description: ON24 - Marketo 문서 - 제품 설명서에서 웨비나 이벤트 
 title: ON24에서 웨비나 이벤트 만들기
 exl-id: a5211f11-c099-44a0-95eb-b43f10fa5c91
 feature: Events
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '170'
-ht-degree: 0%
+ht-degree: 7%
 
 ---
 

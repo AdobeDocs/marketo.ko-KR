@@ -1,13 +1,13 @@
 ---
 unique-page-id: 4720275
 description: Facebook - Marketo 문서 - 제품 설명서에서 사용자 지정 대상 만들기
-title: Facebook에서 사용자 지정 대상 만들기
+title: Facebook에서 사용자 정의 대상자 만들기
 exl-id: a2c8d89c-16b3-44f6-a2c6-c52fe78ab39c
 feature: Integrations
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '219'
-ht-degree: 0%
+ht-degree: 6%
 
 ---
 
@@ -30,11 +30,11 @@ ht-degree: 0%
 
    ![](assets/create-a-custom-audience-in-facebook-2.png)
 
-1. **[!UICONTROL Facebook]**&#x200B;을(를) 선택하고 **[!UICONTROL Next]**&#x200B;을(를) 클릭합니다.
+1. **[!UICONTROL Facebook]**&#x200B;으로 선택하고 **[!UICONTROL Next]**&#x200B;를 클릭합니다.
 
    ![](assets/create-a-custom-audience-in-facebook-3.png)
 
-1. **[!UICONTROL Audience]** 드롭다운을 클릭하고 **[!UICONTROL + New Audience]**&#x200B;을(를) 선택합니다.
+1. **[!UICONTROL Audience]** 드롭다운을 클릭하고 **[!UICONTROL + New Audience]**&#x200B;를 선택합니다.
 
    ![](assets/create-a-custom-audience-in-facebook-4.png)
 
@@ -42,7 +42,7 @@ ht-degree: 0%
    >
    >Facebook API를 사용하면 Facebook 광고 계정당 최대 500개의 사용자 지정 대상을 사용할 수 있습니다.
 
-1. **[!UICONTROL Audience Name]**&#x200B;을(를) 입력합니다. **[!UICONTROL Update]**&#x200B;을(를) 클릭합니다.
+1. **[!UICONTROL Audience Name]**&#x200B;을(를) 입력합니다. **[!UICONTROL Update]**&#x200B;를 클릭합니다.
 
    ![](assets/create-a-custom-audience-in-facebook-5.png)
 

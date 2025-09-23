@@ -1,18 +1,18 @@
 ---
-description: Salesforce - Marketo 문서 - 제품 설명서에 통화 이유 및 통화 결과 기록
-title: Salesforce에 호출 사유 및 호출 결과 기록
+description: Salesforce - Marketo 문서 - 제품 설명서에 호출 이유 및 호출 결과 기록
+title: Salesforce에 통화 이유 및 통화 결과 기록
 exl-id: cfe71388-282b-45e5-a817-45a951f613bc
 feature: Sales Insight Actions
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '461'
-ht-degree: 0%
+ht-degree: 5%
 
 ---
 
-# Salesforce에 호출 사유 및 호출 결과 기록 {#log-call-reasons-and-call-outcomes-to-salesforce}
+# Salesforce에 통화 이유 및 통화 결과 기록 {#log-call-reasons-and-call-outcomes-to-salesforce}
 
-보고 또는 가시성을 위해 호출 결과 및 호출 사유를 Salesforce에 기록하려는 경우 각각에 대해 사용자 지정 활동 필드를 만들 수 있습니다. 각 필드는 특정 API 이름(Salesforce에서는 &quot;필드 이름&quot;이라고 함)을 사용해야 합니다.
+보고 또는 가시성 목적으로 호출 결과 및 호출 사유를 Salesforce에 기록하려는 경우 각각에 대해 사용자 지정 활동 필드를 생성할 수 있습니다. 각 필드는 특정 API 이름(Salesforce에서는 &quot;필드 이름&quot;이라고 함)을 사용해야 합니다.
 
 * 통화 결과 필드 이름: mktosales_call_result
 * 통화 이유 필드 이름: mktosales_call_reason
@@ -57,7 +57,7 @@ ht-degree: 0%
 
    >[!NOTE]
    >
-   >사용자 정의 필드가 사용자가 사용하는 프로필에 표시되고, 원하는 다른 항목도 표시되는지 확인하십시오.
+   >사용자 지정 필드가 원하는 다른 항목과 함께 Sales Insight 작업 사용자가 사용하는 프로필에 표시되는지 확인합니다.
 
 1. 필드를 추가할 페이지 레이아웃을 선택하고 **저장**&#x200B;을(를) 클릭합니다(선택적으로 **저장 및 새로 만들기**&#x200B;를 클릭하고 호출 사유 필드에 대한 프로세스를 반복할 수 있음).
 
@@ -93,7 +93,7 @@ ht-degree: 0%
 
    ![](assets/log-call-reasons-and-call-outcomes-to-salesforce-15.png)
 
-## Salesforce Lightning {#salesforce-lightning}
+## Salesforce 라이트닝 {#salesforce-lightning}
 
 ### Salesforce Lightning에서 사용자 지정 활동 필드 만들기 {#create-custom-activity-field-in-salesforce-lightning}
 

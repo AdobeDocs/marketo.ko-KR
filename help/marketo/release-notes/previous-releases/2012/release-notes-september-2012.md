@@ -4,14 +4,14 @@ description: 릴리스 노트 - 2012년 9월 - Marketo 설명서 - 제품 설명
 title: 릴리스 노트 - 2012년 9월
 exl-id: c81da5ef-11ec-4015-a820-691fa314f369
 feature: Release Information
-source-git-commit: ecd225af3ecfd7cb9159faf5a9d384d47ee6312c
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '302'
-ht-degree: 0%
+ht-degree: 1%
 
 ---
 
-# 릴리스 노트: 2012년 9월 {#release-notes-september}
+# 릴리스 정보: 2012년 9월 {#release-notes-september}
 
 이 릴리스에는 크게 기대되는 통합 소셜 기능과 리드 관리 제품이 포함되어 있습니다. 참고: 소셜 기능은 추가 기능이나 선택한 번들의 일부로 사용할 수 있습니다.
 

@@ -1,10 +1,10 @@
 ---
 description: 프로필 관리 - Marketo 문서 - 제품 설명서
 title: 프로필 관리
-source-git-commit: 66baa3063b2f6798f04f1b81d6ea52a484975174
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '258'
-ht-degree: 0%
+ht-degree: 2%
 
 ---
 

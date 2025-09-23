@@ -1,25 +1,25 @@
 ---
 description: Salesforce - Marketo 문서 - 제품 설명서에 활동을 기록할 때 활동 유형 필드 업데이트
-title: Salesforce에 활동을 기록할 때 활동 유형 필드 업데이트
+title: Salesforce에 활동 기록 시 활동 유형 필드 업데이트
 exl-id: 800323cb-2b99-42f1-ae30-0f87a9a1b4be
-source-git-commit: c16081143588ebc0793f5b6e2630b58348e27124
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '420'
-ht-degree: 1%
+ht-degree: 6%
 
 ---
 
-# Salesforce에 활동을 기록할 때 활동 유형 필드 업데이트 {#update-activity-type-field-when-logging-activities-to-salesforce}
+# Salesforce에 활동 기록 시 활동 유형 필드 업데이트 {#update-activity-type-field-when-logging-activities-to-salesforce}
 
-작업은 보고에 사용하도록 이메일 및 호출 활동을 Salesforce에 자동으로 동기화하여 활동 내역에 대한 가시성을 높일 수 있습니다. 활동을 기록할 때 활동 유형 필드가 기록되는 활동 유형에 따라 이메일, 호출 또는 회신으로 제대로 업데이트되었는지 확인하십시오.
+작업은 보고에 사용할 이메일 및 호출 활동을 Salesforce에 자동으로 동기화하여 활동 내역에 대한 가시성을 높일 수 있습니다. 활동을 기록할 때 활동 유형 필드가 기록되는 활동 유형에 따라 이메일, 호출 또는 회신으로 제대로 업데이트되었는지 확인하십시오.
 
 >[!NOTE]
 >
->BCC를 통해 이메일을 로깅하면 작업 유형 선택 목록이 표시되지 않고, BCC 주소를 통해 Salesforce로 전달되므로 대신 유형 필드를 &quot;이메일&quot;로 자동으로 채웁니다.
+>BCC를 통해 이메일을 로깅하면 작업 유형 선택 목록이 표시되지 않고, BCC 주소를 통해 Salesforce으로 전달되므로 대신 유형 필드가 자동으로 &quot;이메일&quot;로 채워집니다.
 
-## 알아야 할 사항 {#things-to-know}
+## 알아 두어야 할 항목 {#things-to-know}
 
-* 작업 유형을 업데이트하려면 Salesforce와의 연결이 필요합니다.
+* 작업 유형을 업데이트하려면 Salesforce과의 연결이 필요합니다.
 * 작업 유형 선택 목록에 기본 유형 값이 선택되어 있지 않아야 합니다.
 * 호출, 회신 및 이메일은 모두 작업 유형 선택 목록에 있어야 합니다(대소문자 구분 안 함).
 * 작업 유형 필드를 업데이트하는 Salesforce의 워크플로우 또는 트리거가 이 프로세스를 방해할 수 있습니다.
@@ -41,7 +41,7 @@ ht-degree: 1%
 1. 누락된 작업 유형 선택 목록 값의 이름을 입력합니다(&quot;Email, &quot;Call&quot;, &quot;Reply&quot;).
 1. **저장**&#x200B;을 클릭합니다.
 
-### Salesforce Classic에서 {#salesforce-classic}
+### Salesforce 클래식 {#salesforce-classic}
 
 1. [Salesforce.com](https://salesforce.com){target="_blank"}(으)로 이동합니다.
 1. **설정** > **빌드** > **사용자 지정** > **활동** > **작업 필드**&#x200B;를 클릭합니다.
@@ -50,7 +50,7 @@ ht-degree: 1%
 1. 누락된 작업 유형 선택 목록 값의 이름을 입력합니다(&quot;Email, &quot;Call&quot;, &quot;Reply&quot;).
 1. **저장**&#x200B;을 클릭합니다.
 
-이제 이 기능이 제대로 작동했으므로 유형 필드가 기록된 이메일, 호출 및 답글에 대한 해당 값을 채우는 것을 볼 수 있습니다. 이 값은 Sales Insight Actions 미리 알림 작업에 _not_&#x200B;됩니다.
+이제 이 기능이 제대로 작동했으므로 유형 필드가 기록된 이메일, 호출 및 답글에 대한 해당 값을 채우는 것을 볼 수 있습니다. 이 값은 Sales Insight 작업 미리 알림 작업에 _not_&#x200B;됩니다.
 
 >[!NOTE]
 >

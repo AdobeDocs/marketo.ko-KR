@@ -1,15 +1,15 @@
 ---
 description: 트랜잭션 판매 이메일 템플릿 - Marketo 문서 - 제품 설명서
-title: 트랜잭션 판매 이메일 템플릿
+title: 트랜잭션 세일즈 이메일 템플릿
 feature: Marketo Sales Connect
-source-git-commit: 7c8703059d7d28afbf57f4f285ac972fb9d8fbef
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '173'
-ht-degree: 0%
+ht-degree: 4%
 
 ---
 
-# 트랜잭션 판매 이메일 템플릿 {#transactional-sales-email-templates}
+# 트랜잭션 세일즈 이메일 템플릿 {#transactional-sales-email-templates}
 
 팀이 트랜잭션 또는 비상업적 이메일을 보내는 경우 이메일 템플릿을 비상업으로 표시하여 구독 취소를 우회할 수 있습니다.
 

@@ -1,16 +1,16 @@
 ---
 description: 명령 센터 개요 - Marketo 문서 - 제품 설명서
-title: 관리 센터 개요
+title: Command Center 개요
 exl-id: d7441f28-a432-4443-8eb8-ca6a685524ae
 feature: Sales Insight Actions
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '472'
-ht-degree: 0%
+ht-degree: 4%
 
 ---
 
-# 관리 센터 개요 {#command-center-overview}
+# Command Center 개요 {#command-center-overview}
 
 [!UICONTROL Command Center]은(는) 다음 단계를 이해하는 데 도움이 되는 통합된 단일 보기입니다. 문제가 발생하지 않도록 주의하십시오.
 
@@ -87,4 +87,4 @@ ht-degree: 0%
 >
 >* 작업
 >* 고급 검색 개요
->* Select 및 Send를 사용하여 일괄 이메일 작성
+>* 선택 및 보내기 기능으로 일괄 이메일 작성

@@ -2,20 +2,20 @@
 description: 릴리스 노트 - 2022년 8월 - Marketo 문서 - 제품 설명서
 title: 릴리스 정보 - 2022년 8월
 exl-id: 7a224fa7-0aec-4d0d-9535-c35241a45654
-source-git-commit: 2b72932606a93d061eb2f57c0ff3256b94a0c20c
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '506'
-ht-degree: 0%
+ht-degree: 6%
 
 ---
 
 # 릴리스 노트: 2022년 8월 {#release-notes-aug-22}
 
-아래에는 2022년 8월 릴리스에 포함된 모든 기능이 있습니다. Adobe Marketo Engage 버전에서 사용 가능한 기능이 있는지 확인하십시오.
+아래에는 2022년 8월 릴리스에 포함된 모든 기능이 있습니다. 기능 가용성에 대해 Adobe Marketo Engage 에디션을 확인하십시오.
 
 >[!AVAILABILITY]
 >
->별(![별](assets/yellow-star.png))로 표시되는 기능은 유료 추가 기능입니다. 자세한 내용은 Marketo Engage 담당자에게 문의하십시오.
+>별표(![별표](assets/yellow-star.png))로 표시된 기능은 유료 추가 기능입니다. 자세한 내용은 Marketo Engage 담당자에게 문의하십시오.
 
 다음 기능은 **2022년 8월 26일**&#x200B;에 단계적으로 롤아웃을 시작했습니다.
 
@@ -23,9 +23,9 @@ ht-degree: 0%
 
 * [!DNL Dynamic Chat]에 대해 게시된 모든 대화 상자를 한 번에 활성화/비활성화**: 단추를 눌러 [구성] 페이지에서 게시된 모든 대화 상자를 한 번에 전체적으로 활성화/비활성화합니다.
 
-* [!DNL Dynamic Chat]&#x200B;**에 대한**&#x200B;사용자 지정 아바타: 사용자 지정 챗봇 아바타를 업로드하여 내 브랜드에 맞게 개인화할 수 있습니다.
+* **에 대한[!DNL Dynamic Chat]**&#x200B;사용자 지정 아바타: 사용자 지정 챗봇 아바타를 업로드하여 내 브랜드에 맞게 개인화할 수 있습니다.
 
-* [!DNL Dynamic Chat]&#x200B;**에 대한**&#x200B;채팅 트랜스크립트: 모든 대화에 대한 채팅 트랜스크립트를 보고 각 웹 방문자가 관심을 갖는 내용에 대해 더 자세한 insight을 얻습니다.
+* **에 대한[!DNL Dynamic Chat]**&#x200B;채팅 트랜스크립트: 모든 대화에 대한 채팅 트랜스크립트를 보고 각 웹 방문자가 관심을 갖는 내용에 대해 더 자세한 insight을 얻습니다.
 
 ## 차세대 경험
 
@@ -68,7 +68,7 @@ ht-degree: 0%
 
 ![(별)](assets/yellow-star.png)
 
-* **[[!DNL Sales Insight] 와 통합 [!DNL Dynamic Chat]](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/features/dynamic-chat-integration.md){target="_blank"}**: [!DNL Sales Insight] 패널에서 [!DNL Dynamic Chat]의 활동을 보고 예측에 이 새로운 데이터 포인트를 활용하십시오.
+* **[[!DNL Sales Insight] 와 통합 [!DNL Dynamic Chat]](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/features/dynamic-chat-integration.md){target="_blank"}**: [!DNL Dynamic Chat] 패널에서 [!DNL Sales Insight]의 활동을 보고 예측에 이 새로운 데이터 포인트를 활용하십시오.
 
 ## 공지 {#announcements}
 

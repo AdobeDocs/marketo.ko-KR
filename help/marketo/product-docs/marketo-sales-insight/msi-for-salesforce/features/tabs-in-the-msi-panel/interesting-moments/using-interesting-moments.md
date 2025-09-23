@@ -4,10 +4,10 @@ description: 즐거운 순간 사용 - Marketo 문서 - 제품 설명서
 title: 즐거운 순간 사용
 exl-id: ccf7664b-08e1-490a-a3f9-5fa3bd8fb05f
 feature: Marketo Sales Insights
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '416'
-ht-degree: 0%
+ht-degree: 1%
 
 ---
 
@@ -85,7 +85,7 @@ ht-degree: 0%
 
 1. 알림을 보낼 이메일 주소를 선택합니다(본인/팀원).
 
-1. **[!UICONTROL Subscribe]**&#x200B;을(를) 클릭합니다.
+1. **[!UICONTROL Subscribe]**&#x200B;를 클릭합니다.
 
 >[!NOTE]
 >

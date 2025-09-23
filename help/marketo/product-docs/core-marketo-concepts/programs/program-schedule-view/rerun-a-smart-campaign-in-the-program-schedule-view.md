@@ -4,10 +4,10 @@ description: 프로그램 예약 보기 - Marketo 문서 - 제품 설명서에�
 title: 프로그램 일정 보기에서 스마트 캠페인 다시 실행
 exl-id: 59ef61f5-cd7d-440e-afcf-54a79d1225ae
 feature: Programs, Smart Campaigns
-source-git-commit: b21f955bf98063e11f8ed3fdc6f164134ee4f5aa
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
-source-wordcount: '135'
-ht-degree: 0%
+source-wordcount: '133'
+ht-degree: 13%
 
 ---
 
@@ -15,7 +15,7 @@ ht-degree: 0%
 
 프로그램 일정 보기에서 직접 기존 Smart Campaign의 새 실행을 쉽게 만들 수 있습니다.
 
-1. **[!UICONTROL 마케팅 활동]**(으)로 이동합니다.
+1. **[!UICONTROL Marketing Activities]**(으)로 이동합니다.
 
    ![](assets/login-marketing-activities-3.png)
 

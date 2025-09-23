@@ -1,17 +1,17 @@
 ---
 unique-page-id: 2359573
 description: 양식 감사 페이지 설정 - Marketo 문서 - 제품 설명서
-title: 양식 감사 인사 페이지 설정
+title: 감사 페이지 양식 설정
 exl-id: ed221b1c-d6f0-4ee1-b9d3-41112490e070
 feature: Forms
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '321'
-ht-degree: 1%
+ht-degree: 5%
 
 ---
 
-# 양식 감사 인사 페이지 설정 {#set-a-form-thank-you-page}
+# 감사 페이지 양식 설정 {#set-a-form-thank-you-page}
 
 누군가 양식을 작성할 때 어떻게 됩니까? 어디로 전달됩니까? 구성 방법은 다음과 같습니다.
 
@@ -71,7 +71,7 @@ ht-degree: 1%
 
 여러 옵션을 추가하고 응답에 따라 다양한 팔로우업을 표시하는 선택 사항을 구축할 수 있습니다.
 
-1. **[!UICONTROL Add Choice]**&#x200B;을(를) 클릭합니다.
+1. **[!UICONTROL Add Choice]**&#x200B;를 클릭합니다.
 
    ![](assets/image2014-9-15-17-3a38-3a6.png)
 
@@ -131,11 +131,11 @@ ht-degree: 1%
 
    ![](assets/image2014-9-15-17-3a40-3a34.png)
 
-1. **[!UICONTROL Finish]**&#x200B;을(를) 클릭합니다.
+1. **[!UICONTROL Finish]**&#x200B;를 클릭합니다.
 
    ![](assets/image2014-9-15-17-3a40-3a42.png)
 
-1. **[!UICONTROL Approve and Close]**&#x200B;을(를) 클릭합니다.
+1. **[!UICONTROL Approve and Close]**&#x200B;를 클릭합니다.
 
    ![](assets/image2014-9-15-17-3a41-3a0.png)
 

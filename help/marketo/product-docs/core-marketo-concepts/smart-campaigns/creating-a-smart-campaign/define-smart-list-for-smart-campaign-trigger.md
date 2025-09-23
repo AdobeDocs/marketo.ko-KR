@@ -1,17 +1,17 @@
 ---
 unique-page-id: 1146942
 description: 스마트 캠페인을 위한 스마트 목록 정의 | 트리거 - Marketo 문서 - 제품 설명서
-title: 스마트 캠페인을 위한 스마트 목록 정의 | 트리거
+title: 스마트 캠페인에 대한 스마트 목록 정의 | 트리거
 exl-id: 14d9b15e-864a-47ef-8f39-3d65e6036a82
 feature: Smart Campaigns
-source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '251'
-ht-degree: 0%
+ht-degree: 5%
 
 ---
 
-# 스마트 캠페인을 위한 스마트 목록 정의 | 트리거 {#define-smart-list-for-smart-campaign-trigger}
+# 스마트 캠페인에 대한 스마트 목록 정의 | 트리거 {#define-smart-list-for-smart-campaign-trigger}
 
 트리거를 추가하여 실시간 이벤트를 기반으로 한 한 번에 한 명씩 스마트 캠페인을 실행합니다.
 

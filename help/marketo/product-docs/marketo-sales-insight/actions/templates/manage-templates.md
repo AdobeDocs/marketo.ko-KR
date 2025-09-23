@@ -3,10 +3,10 @@ description: 템플릿 관리 - Marketo 문서 - 제품 설명서
 title: 템플릿 관리
 exl-id: a18e7112-91e8-462c-9d1a-3a0f43c1b1cf
 feature: Sales Insight Actions
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '498'
-ht-degree: 0%
+ht-degree: 3%
 
 ---
 
@@ -18,7 +18,7 @@ ht-degree: 0%
 
    ![](assets/manage-templates-1.png)
 
-1. **[!UICONTROL Create Template]**&#x200B;을(를) 클릭합니다.
+1. **[!UICONTROL Create Template]**&#x200B;를 클릭합니다.
 
    ![](assets/manage-templates-2.png)
 
@@ -103,7 +103,7 @@ ht-degree: 0%
 
    ![](assets/manage-templates-12.png)
 
-## 템플릿 보기 사용자 지정 {#customize-template-view}
+## 템플릿 보기 맞춤화 {#customize-template-view}
 
 **[!UICONTROL View]** 드롭다운에서 모든 템플릿, 템플릿, 즐겨찾기 템플릿, 공유 템플릿, 공유되지 않은 템플릿 또는 사용되지 않은 템플릿(지난 90일 동안 사용되지 않은 템플릿)을 표시하도록 선택할 수 있습니다.
 
@@ -121,7 +121,7 @@ ht-degree: 0%
 
    ![](assets/manage-templates-14.png)
 
-1. **[!UICONTROL Archive]**&#x200B;을(를) 클릭합니다.
+1. **[!UICONTROL Archive]**&#x200B;를 클릭합니다.
 
    ![](assets/manage-templates-15.png)
 
@@ -147,7 +147,7 @@ ht-degree: 0%
 
    ![](assets/manage-templates-17.png)
 
-1. **[!UICONTROL Delete]**&#x200B;을(를) 클릭합니다.
+1. **[!UICONTROL Delete]**&#x200B;를 클릭합니다.
 
    ![](assets/manage-templates-18.png)
 

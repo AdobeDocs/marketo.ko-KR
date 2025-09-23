@@ -1,13 +1,13 @@
 ---
 unique-page-id: 7511512
 description: Salesforce1 - Marketo 설명서 - 제품 설명서에서 Marketo Sales Insight 설치 및 구성
-title: Salesforce1에서 Marketo Sales Insight 설치 및 구성
+title: Salesforce1에 Marketo Sales Insight 설치 및 구성
 exl-id: 9f26e90b-3199-4ef8-92bc-95e8bd81f1c5
 feature: Marketo Sales Insights
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '284'
-ht-degree: 4%
+ht-degree: 7%
 
 ---
 
@@ -33,7 +33,7 @@ ht-degree: 4%
 
 >[!NOTE]
 >
->[!DNL Marketo Sales Insight]의 [!DNL Salesforce1]에는 [!DNL B최고의 베팅], 리드 피드, 즐거운 순간 및 Marketo 캠페인에 추가 기능이 포함됩니다.
+>[!DNL Marketo Sales Insight]의 [!DNL Salesforce1]에는 [!DNLB최고의 베팅], 리드 피드, 즐거운 순간 및 Marketo 캠페인에 추가 기능이 포함됩니다.
 
 ## [!DNL Salesforce1] 모바일 앱 사용 {#enable-the-salesforce1-mobile-app}
 
@@ -41,19 +41,19 @@ ht-degree: 4%
 
    ![](assets/image2015-4-21-15-3a29-3a22.png)
 
-1. **[!UICONTROL Salesforce1]**&#x200B;을(를) 클릭합니다.
+1. **[!UICONTROL Salesforce1]**&#x200B;를 클릭합니다.
 
    ![](assets/image2015-4-21-15-3a30-3a51.png)
 
-1. **[!UICONTROL Salesforce1 Settings]**&#x200B;을(를) 클릭합니다.
+1. **[!UICONTROL Salesforce1 Settings]**&#x200B;를 클릭합니다.
 
    ![](assets/image2015-4-21-15-3a32-3a21.png)
 
-1. **[!UICONTROL Enable the Salesforce1 mobile browser app]**&#x200B;을(를) 클릭합니다.
+1. **[!UICONTROL Enable the Salesforce1 mobile browser app]**&#x200B;를 클릭합니다.
 
    ![](assets/image2015-4-21-15-3a34-3a27.png)
 
-1. **[!UICONTROL Save]**&#x200B;을(를) 클릭합니다.
+1. **[!UICONTROL Save]**&#x200B;를 클릭합니다.
 
    ![](assets/image2015-4-21-15-3a42-3a48.png)
 
@@ -61,7 +61,7 @@ ht-degree: 4%
 
    ![](assets/image2015-4-22-11-3a10-3a14.png)
 
-1. **[!UICONTROL Manage the mobile navigation menu]**&#x200B;을(를) 클릭합니다.
+1. **[!UICONTROL Manage the mobile navigation menu]**&#x200B;를 클릭합니다.
 
    ![](assets/image2015-4-22-11-3a13-3a10.png)
 
@@ -75,7 +75,7 @@ ht-degree: 4%
 
 ## 오래된 Marketo 사용자 지정 개체 숨기기 {#hide-outdated-marketo-custom-object}
 
-1. **[!UICONTROL Setup]**&#x200B;을(를) 클릭합니다.
+1. **[!UICONTROL Setup]**&#x200B;를 클릭합니다.
 
    ![](assets/image2015-4-22-15-3a13-3a48.png)
 
@@ -109,7 +109,7 @@ ht-degree: 4%
 
    ![](assets/image2015-4-22-17-3a14-3a49.png)
 
-1. **[!UICONTROL Customize My Tabs]**&#x200B;을(를) 클릭합니다.
+1. **[!UICONTROL Customize My Tabs]**&#x200B;를 클릭합니다.
 
    ![](assets/image2015-4-22-17-3a16-3a22.png)
 
@@ -123,7 +123,7 @@ ht-degree: 4%
 
 ## 페이지 레이아웃 사용자 지정 {#customize-page-layouts}
 
-1. **[!UICONTROL Setup]**&#x200B;을(를) 클릭합니다.
+1. **[!UICONTROL Setup]**&#x200B;를 클릭합니다.
 
    ![](assets/image2015-4-22-17-3a26-3a56.png)
 
@@ -155,7 +155,7 @@ ht-degree: 4%
    >
    >Marketo Campaign에 추가를 쉽게 찾을 수 있도록 빠른 찾기에 &quot;추가&quot;를 입력합니다.
 
-1. **[!UICONTROL Save]**&#x200B;을(를) 클릭합니다.
+1. **[!UICONTROL Save]**&#x200B;를 클릭합니다.
 
    ![](assets/image2015-4-22-18-3a1-3a56.png)
 

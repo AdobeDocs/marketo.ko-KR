@@ -1,17 +1,17 @@
 ---
 unique-page-id: 11380785
 description: 지정된 계정 인사이트 - Marketo 문서 - 제품 설명서
-title: 명명된 계정 인사이트
+title: 지정 계정 인사이트
 exl-id: 2bd9497e-ca5f-4fd6-8fd2-241419e97cba
 feature: Target Account Management
-source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '385'
-ht-degree: 0%
+ht-degree: 2%
 
 ---
 
-# 명명된 계정 인사이트 {#named-account-insights}
+# 지정 계정 인사이트 {#named-account-insights}
 
 명명된 계정 대시보드는 대상 계정에 대한 360도 보기를 제공합니다.
 
@@ -36,7 +36,7 @@ ht-degree: 0%
 <table>
  <tbody>
   <tr>
-   <td><strong><span class="uicontrol">계정 스코어</span></strong></td>
+   <td><strong><span class="uicontrol">계정 점수</span></strong></td>
    <td><p><span class="uicontrol">관리자</span>에서 만든 모든 계정 점수를 기반으로 주별 참여를 확인하십시오. 이러한 계정 점수를 나란히 비교할 수 있습니다. 주별 참여를 결정하기 위해 해당 주의 모든 요일에서 최대 참여를 선택합니다.</p></td>
   </tr>
   <tr>

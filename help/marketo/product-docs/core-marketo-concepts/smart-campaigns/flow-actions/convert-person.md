@@ -4,10 +4,10 @@ description: 사용자 전환 - Marketo 문서 - 제품 설명서
 title: 사용자 전환
 exl-id: b0ff0b63-a6a3-48c5-92ef-7ece5c182d28
 feature: Smart Campaigns
-source-git-commit: 12f2399859c784095cc2c1df772c66c649106ba3
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
-source-wordcount: '103'
-ht-degree: 0%
+source-wordcount: '100'
+ht-degree: 6%
 
 ---
 
@@ -29,10 +29,10 @@ ht-degree: 0%
    >
    >Marketo의 사용자를 전환하면 [!DNL Salesforce]에 새 계정과 기회가 생깁니다. 중복 계정을 사용하지 않으려면 [!DNL Salesforce]을(를) 사용하여 전환하세요.
 
-1. **[!UICONTROL 알림]**&#x200B;을(를) 소유자에게 보낼지 여부를 선택합니다.
+1. **[!UICONTROL notification]**&#x200B;을(를) 소유자에게 보낼지 여부를 선택합니다.
 
    ![](assets/convert-person-3.png)
 
-1. **[!UICONTROL 변환된 상태]**&#x200B;를 선택하십시오.
+1. **[!UICONTROL converted status]**&#x200B;을(를) 선택합니다.
 
    ![](assets/convert-person-4.png)

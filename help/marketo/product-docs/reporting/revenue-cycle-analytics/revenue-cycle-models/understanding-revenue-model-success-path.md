@@ -4,10 +4,10 @@ description: 수익 모델 성공 경로 이해 - Marketo 문서 - 제품 설명
 title: 수익 모델 성공 경로 이해
 exl-id: aeb85e5e-0377-40b5-a7c9-ee9c1322ee66
 feature: Reporting, Revenue Cycle Analytics
-source-git-commit: d20a9bb584f69282eefae3704ce4be2179b29d0b
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '224'
-ht-degree: 0%
+ht-degree: 5%
 
 ---
 
@@ -35,7 +35,7 @@ ht-degree: 0%
 
 ## 우회로 {#detours}
 
-모든 리드가 선형의 &quot;성공 경로&quot;를 따르는 것은 아니라는 점을 인식하고, 자격이 없거나 준비되기 전에 몇 번의 양육이 필요한 리드를 포착하기 위해 &quot;우회 단계&quot;를 정의해야 합니다. For example:
+모든 리드가 선형의 &quot;성공 경로&quot;를 따르는 것은 아니라는 점을 인식하고, 자격이 없거나 준비되기 전에 몇 번의 양육이 필요한 리드를 포착하기 위해 &quot;우회 단계&quot;를 정의해야 합니다. 예:
 
 | **우회 단계 이름** | **정의** |
 |---|---|

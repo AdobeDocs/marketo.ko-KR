@@ -1,17 +1,17 @@
 ---
 unique-page-id: 14352540
 description: 자체 보기 방지 - Marketo 문서 - 제품 설명서
-title: 자기 뷰 방지
+title: 자체 보기 방지
 exl-id: c18715fc-4ca2-4a6b-8f63-a9406f30c0d8
 feature: Marketo Sales Connect
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '261'
-ht-degree: 0%
+ht-degree: 3%
 
 ---
 
-# 자기 뷰 방지 {#preventing-self-views}
+# 자체 보기 방지 {#preventing-self-views}
 
 ## 개요 {#overview}
 
@@ -33,7 +33,7 @@ ht-degree: 0%
 
    ![](assets/win-1.png)
 
-1. **[!UICONTROL Options]**&#x200B;을(를) 클릭합니다.
+1. **[!UICONTROL Options]**&#x200B;를 클릭합니다.
 
    ![](assets/win-2.png)
 

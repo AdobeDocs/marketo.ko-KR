@@ -4,14 +4,14 @@ description: 챔피언/챌린저 - 보낸 사람 주소 - Marketo 문서 - 제�
 title: 챔피언/챌린저 - 보낸 주소
 exl-id: 0debb7d3-358b-4054-989f-526d5c434c14
 feature: Email Editor
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '268'
-ht-degree: 0%
+ht-degree: 2%
 
 ---
 
-# 챔피언/챌린저: 보낸 주소 {#champion-challenger-from-address}
+# 챔피언/챌린저: 보낸 사람 주소 {#champion-challenger-from-address}
 
 소란 없이 From Address를 사용해 보고 싶으신가요? 방법은 다음과 같습니다.
 
@@ -47,7 +47,7 @@ ht-degree: 0%
 
    통계적 신뢰도를 얻으려면 테스트가 유효할 만큼 충분한 사람을 포함하는 백분율을 선택해야 합니다. 결론이 나지 않는 결과에 속지 마라.
 
-1. **[!UICONTROL Next]**&#x200B;을(를) 클릭합니다.
+1. **[!UICONTROL Next]**&#x200B;를 클릭합니다.
 
    ![](assets/image2014-9-15-12-3a53-3a15.png)
 

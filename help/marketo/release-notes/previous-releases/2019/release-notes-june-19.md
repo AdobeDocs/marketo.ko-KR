@@ -4,14 +4,14 @@ description: 릴리스 노트 - 2019년 6월 - Marketo 문서 - 제품 설명서
 title: 릴리스 노트 - 2019년 6월
 exl-id: 292710f4-0072-4355-93c1-115c9b0ef723
 feature: Release Information
-source-git-commit: 21bcdc10fe1f3517612efe0f8e2adaf2f4411a70
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '616'
 ht-degree: 0%
 
 ---
 
-# 릴리스 노트: 2019년 6월 {#release-notes-june}
+# 릴리스 정보: 2019년 6월 {#release-notes-june}
 
 다음 기능은 2019년 6월 릴리스에 포함되어 있습니다. Marketo 버전에서 사용 가능한 기능이 있는지 확인하십시오.
 
@@ -68,4 +68,4 @@ ht-degree: 0%
 * **드리프트 통합**: 드리프트 대화가 고객의 여정에 미치는 영향을 이해합니다. [!DNL Bizible]은(는) 대화에서 전자 메일 주소를 가져와서 새 리드를 만들거나 터치포인트를 기존 리드에 연결합니다.
 * **로컬라이제이션**: [!DNL Bizible]은(는) 이제 모든 Marketo 지원 언어(영어, 일본어, 독일어, 스페인어, 프랑스어 및 포르투갈어)로 제공됩니다.
 
-_&#x200B;**제품 릴리스 웨비나**&#x200B;_ 2019년 6월 릴리스 혁신 웨비나 녹화를 시청하십시오 [여기](https://engage.marketo.com/Marketo-June-Product-Release-2019-On-Demand.html).
+_**제품 릴리스 웨비나**_ 2019년 6월 릴리스 혁신 웨비나 녹화를 시청하십시오 [여기](https://engage.marketo.com/Marketo-June-Product-Release-2019-On-Demand.html).

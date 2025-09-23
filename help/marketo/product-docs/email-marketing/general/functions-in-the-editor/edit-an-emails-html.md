@@ -4,10 +4,10 @@ description: 이메일의 HTML - Marketo 문서 - 제품 설명서 편집
 title: 이메일의 HTML 편집
 exl-id: 9dc8e44d-d9da-4bc2-950f-3ffbb976f5d5
 feature: Email Editor
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '330'
-ht-degree: 0%
+ht-degree: 2%
 
 ---
 
@@ -21,7 +21,7 @@ ht-degree: 0%
 
    ![](assets/teamspidey.jpg)
 
-1. **[!UICONTROL Edit Code]**&#x200B;을(를) 클릭합니다.
+1. **[!UICONTROL Edit Code]**&#x200B;를 클릭합니다.
 
    ![](assets/two-4.png)
 

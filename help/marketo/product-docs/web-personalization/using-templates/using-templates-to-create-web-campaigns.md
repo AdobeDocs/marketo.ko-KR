@@ -4,10 +4,10 @@ description: 템플릿을 사용하여 웹 캠페인 만들기 - Marketo 문서 
 title: 템플릿을 사용하여 웹 캠페인 만들기
 exl-id: 1d4f24c7-27c7-4eb6-9377-dc6853d13fa3
 feature: Web Personalization
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '132'
-ht-degree: 2%
+ht-degree: 11%
 
 ---
 
@@ -23,7 +23,7 @@ ht-degree: 2%
 
    ![](assets/web-campaigns-hand.jpg)
 
-1. **[!UICONTROL Create New Web Campaign]**&#x200B;을(를) 클릭합니다.
+1. **[!UICONTROL Create New Web Campaign]**&#x200B;를 클릭합니다.
 
    ![](assets/create-new-web-campaign-create-hand.jpg)
 
@@ -35,7 +35,7 @@ ht-degree: 2%
 
    ![](assets/set-web-campaign-education.jpg)
 
-1. **[!UICONTROL Templates]**&#x200B;을(를) 클릭합니다.
+1. **[!UICONTROL Templates]**&#x200B;를 클릭합니다.
 
    ![](assets/templates.png)
 
@@ -55,7 +55,7 @@ ht-degree: 2%
 
    ![](assets/customize-template.jpg)
 
-1. **[!UICONTROL Save]**&#x200B;을(를) 클릭합니다.
+1. **[!UICONTROL Save]**&#x200B;를 클릭합니다.
 
    ![](assets/click-save-hand.jpg)
 

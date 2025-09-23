@@ -1,17 +1,17 @@
 ---
 unique-page-id: 1147354
 description: 이메일 작동 방식 - Marketo 문서 - 제품 설명서
-title: 이메일을 작동 상태로 만들기
+title: 이메일을 운영화
 exl-id: e36c6a7b-2c50-4d9f-9e6d-0828ab3af5a8
 feature: Email Editor
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '155'
-ht-degree: 0%
+ht-degree: 5%
 
 ---
 
-# 이메일을 작동 상태로 만들기 {#make-an-email-operational}
+# 이메일을 운영화 {#make-an-email-operational}
 
 운영 이메일은 구독 취소 및 마케팅 중단 상태를 무시합니다. 또한 통신 제한을 받지 않습니다. 그들은 무슨 일이 있어도 보낸다.
 

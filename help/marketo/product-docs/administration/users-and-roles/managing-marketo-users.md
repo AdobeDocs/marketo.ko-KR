@@ -4,10 +4,10 @@ description: Marketo 사용자 관리 - Marketo 문서 - 제품 설명서
 title: Marketo 사용자 관리
 exl-id: 40506d3c-a7cb-45fb-bc10-021bd0c70806
 feature: Users and Roles
-source-git-commit: ab4358ac1d3e1aa1d3733fa5191c5d59022bdf9f
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
-source-wordcount: '402'
-ht-degree: 0%
+source-wordcount: '368'
+ht-degree: 7%
 
 ---
 
@@ -15,31 +15,31 @@ ht-degree: 0%
 
 >[!IMPORTANT]
 >
->이 문서는 Adobe ID가 있는 [Marketo](/help/marketo/product-docs/administration/marketo-with-adobe-identity/adobe-identity-management-overview.md){target="_blank"}을(를) _사용 안 함_&#x200B;하는 사용자를 위한 것입니다. 그럴 경우 [이 문서](/help/marketo/product-docs/administration/marketo-with-adobe-identity/add-or-remove-a-user.md){target="_blank"}의 단계를 따르세요.
+>이 문서는 Adobe Identity가 있는 _Marketo_&#x200B;을(를) [사용 안 함](/help/marketo/product-docs/administration/marketo-with-adobe-identity/adobe-identity-management-overview.md){target="_blank"}하는 사용자를 위한 것입니다. 그럴 경우 [이 문서](/help/marketo/product-docs/administration/marketo-with-adobe-identity/add-or-remove-a-user.md){target="_blank"}의 단계를 따르세요.
 
 ## 사용자 만들기 {#create-users}
 
-1. **[!UICONTROL 관리자]** 영역으로 이동합니다.
+1. **[!UICONTROL Admin]** 영역으로 이동합니다.
 
    ![](assets/managing-marketo-users-1.png)
 
-1. **[!UICONTROL 사용자 및 역할]**&#x200B;을 클릭합니다.
+1. **[!UICONTROL Users & Roles]**&#x200B;를 클릭합니다.
 
    ![](assets/managing-marketo-users-2.png)
 
-1. **[!UICONTROL 새 사용자 초대]**&#x200B;를 클릭합니다.
+1. **[!UICONTROL Invite New User]**&#x200B;를 클릭합니다.
 
    ![](assets/managing-marketo-users-3.png)
 
-1. **[!UICONTROL 전자 메일]**, **[!UICONTROL 이름]**, **[!UICONTROL 성]**&#x200B;을 입력하세요.
+1. **[!UICONTROL Email]**, **[!UICONTROL First Name]** 및 **[!UICONTROL Last Name]**&#x200B;을(를) 입력하십시오.
 
    ![](assets/managing-marketo-users-4.png)
 
-1. 필요한 경우 초대하는 이유를 입력하고 날짜 선택기를 사용하여 **[!UICONTROL 만료 액세스]** 필드에서 만료 날짜를 선택합니다.
+1. 필요한 경우 초대하는 이유를 입력하고 날짜 선택기를 사용하여 **[!UICONTROL Access Expires]** 필드에서 만료 날짜를 선택합니다.
 
    ![](assets/managing-marketo-users-5.png)
 
-1. **[!UICONTROL 다음]**&#x200B;을 클릭합니다.
+1. **[!UICONTROL Next]**&#x200B;를 클릭합니다.
 
    ![](assets/managing-marketo-users-6.png)
 
@@ -51,7 +51,7 @@ ht-degree: 0%
    >
    >만료 날짜가 되면 사용자는 만료 알림을 받고 계정이 잠깁니다.
 
-1. 선택한 **[!UICONTROL 역할]**&#x200B;을(를) 선택하고 **[!UICONTROL 다음]**&#x200B;을(를) 클릭합니다.
+1. 선택한 **[!UICONTROL Role]**&#x200B;을(를) 선택하고 **[!UICONTROL Next]**&#x200B;을(를) 클릭합니다.
 
    ![](assets/managing-marketo-users-7.png)
 
@@ -75,39 +75,39 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->삭제하려는 사용자가 Dynamic Chat 사용자이기도 한 경우 Marketo Engage에서 삭제하려면 먼저 Dynamic Chat의 [Admin Console에서 제거](/help/marketo/product-docs/demand-generation/dynamic-chat/setup-and-configuration/add-or-remove-chat-users.md#remove-a-chat-user){target="_blank"}해야 합니다.
+>삭제하려는 사용자가 Dynamic Chat 사용자이기도 한 경우 Marketo Engage에서 삭제하려면 먼저 Admin Console에서 [Dynamic Chat에서 제거](/help/marketo/product-docs/demand-generation/dynamic-chat/setup-and-configuration/add-or-remove-chat-users.md#remove-a-chat-user){target="_blank"}해야 합니다.
 
-1. **[!UICONTROL 관리자]** 영역으로 이동합니다.
+1. **[!UICONTROL Admin]** 영역으로 이동합니다.
 
    ![](assets/managing-marketo-users-10.png)
 
-1. **[!UICONTROL 사용자 및 역할]**&#x200B;을 클릭합니다.
+1. **[!UICONTROL Users & Roles]**&#x200B;를 클릭합니다.
 
    ![](assets/managing-marketo-users-11.png)
 
-1. 제거할 사용자를 선택하고 **[!UICONTROL 사용자 삭제]**&#x200B;를 클릭합니다.
+1. 제거할 사용자를 선택하고 **[!UICONTROL Delete User]**&#x200B;을(를) 클릭합니다.
 
    ![](assets/managing-marketo-users-12.png)
 
-1. **[!UICONTROL 확인]**&#x200B;을 클릭하여 확인합니다.
+1. **[!UICONTROL OK]**&#x200B;을(를) 클릭하여 확인합니다.
 
    ![](assets/managing-marketo-users-13.png)
 
 ## 사용자 암호 재설정 {#reset-user-passwords}
 
-1. **[!UICONTROL 관리자]** 영역으로 이동합니다.
+1. **[!UICONTROL Admin]** 영역으로 이동합니다.
 
    ![](assets/managing-marketo-users-14.png)
 
-1. **[!UICONTROL 사용자 및 역할]**&#x200B;을 클릭합니다.
+1. **[!UICONTROL Users & Roles]**&#x200B;를 클릭합니다.
 
    ![](assets/managing-marketo-users-15.png)
 
-1. 사용자를 선택하고 **[!UICONTROL 암호 재설정]**&#x200B;을 클릭하세요.
+1. 사용자를 선택하고 **[!UICONTROL Reset Password]**&#x200B;을(를) 클릭합니다.
 
    ![](assets/managing-marketo-users-16.png)
 
-1. 프롬프트를 닫으려면 **[!UICONTROL 닫기]**&#x200B;를 클릭하십시오.
+1. 프롬프트를 닫으려면 **[!UICONTROL Close]**&#x200B;을(를) 클릭하십시오.
 
    ![](assets/managing-marketo-users-17.png)
 
@@ -119,19 +119,19 @@ ht-degree: 0%
 
 ## 권한 변경 및 사용자 정보 편집 {#change-permissions-and-edit-user-information}
 
-1. **[!UICONTROL 관리자]** 영역으로 이동합니다.
+1. **[!UICONTROL Admin]** 영역으로 이동합니다.
 
    ![](assets/managing-marketo-users-18.png)
 
-1. **[!UICONTROL 사용자 및 역할]**&#x200B;을 클릭합니다.
+1. **[!UICONTROL Users & Roles]**&#x200B;를 클릭합니다.
 
    ![](assets/managing-marketo-users-19.png)
 
-1. 사용자를 선택하고 **[!UICONTROL 사용자 편집]**&#x200B;을 클릭합니다.
+1. 사용자를 선택하고 **[!UICONTROL Edit User]**&#x200B;을(를) 클릭합니다.
 
    ![](assets/managing-marketo-users-20.png)
 
-1. 사용자 정보를 편집하고 관련 역할을 변경할 수 있습니다. **[!UICONTROL 저장]**&#x200B;을 클릭합니다.
+1. 사용자 정보를 편집하고 관련 역할을 변경할 수 있습니다. **[!UICONTROL Save]**&#x200B;를 클릭합니다.
 
    ![](assets/managing-marketo-users-21.png)
 

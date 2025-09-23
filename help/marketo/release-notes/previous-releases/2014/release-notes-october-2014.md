@@ -4,14 +4,14 @@ description: 릴리스 노트 - 2014년 10월 - Marketo 설명서 - 제품 설�
 title: 릴리스 노트 - 2014년 10월
 exl-id: 698b4efd-ee14-459e-83a9-d06652099040
 feature: Release Information
-source-git-commit: ecd225af3ecfd7cb9159faf5a9d384d47ee6312c
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '256'
-ht-degree: 0%
+ht-degree: 1%
 
 ---
 
-# 릴리스 노트: 2014년 10월 {#release-notes-october}
+# 릴리스 정보: 2014년 10월 {#release-notes-october}
 
 Marketo 버전에서 사용 가능한 기능이 있는지 확인하십시오. 설명서는 릴리스 시점에 제공됩니다.
 
@@ -30,21 +30,21 @@ API를 사용하여 잠재 고객에 대한 새 활동 또는 변경 사항을 �
 * 활동 유형 가져오기
 * 페이징 토큰 가져오기
 
-전체 세부 정보는 [https://experienceleague.adobe.com/ko/docs/marketo-developer/marketo/rest/rest-api](https://experienceleague.adobe.com/ko/docs/marketo-developer/marketo/rest/rest-api)에 릴리스된 후에 사용할 수 있습니다.
+전체 세부 정보는 [https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/rest/rest-api](https://experienceleague.adobe.com/ko/docs/marketo-developer/marketo/rest/rest-api)에 릴리스된 후에 사용할 수 있습니다.
 
 ## MSI - [!DNL Microsoft Dynamics]에 대한 Marketo 이메일 보내기 {#msi-send-marketo-email-for-microsoft-dynamics}
 
-[!DNL Microsoft Dynamics]의 잠재 고객 및 연락처로 [판매 전자 메일을 보내고 추적](/help/marketo/product-docs/marketo-sales-insight/msi-for-microsoft-dynamics/setting-up-and-using/send-a-marketo-sales-email-from-microsoft-dynamics.md)합니다.
+[의 잠재 고객 및 연락처로 ](/help/marketo/product-docs/marketo-sales-insight/msi-for-microsoft-dynamics/setting-up-and-using/send-a-marketo-sales-email-from-microsoft-dynamics.md)판매 전자 메일을 보내고 추적[!DNL Microsoft Dynamics]합니다.
 
 ![](assets/image2014-10-20-11-3a49-3a25.png)
 
 ## MSI - [!DNL Microsoft Dynamics]에 대한 Marketo 캠페인에 추가 {#msi-add-to-marketo-campaigns-for-microsoft-dynamics}
 
-[!DNL Microsoft Dynamics] 내에서 직접 [Marketo 스마트 캠페인에 리드 및 연락처 추가](/help/marketo/product-docs/marketo-sales-insight/msi-for-microsoft-dynamics/setting-up-and-using/add-a-lead-contact-to-a-marketo-campaign-from-microsoft-dynamics.md). 마케팅은 영업에 사용할 수 있는 Marketo 캠페인을 선택할 수 있습니다.
+[ 내에서 직접 ](/help/marketo/product-docs/marketo-sales-insight/msi-for-microsoft-dynamics/setting-up-and-using/add-a-lead-contact-to-a-marketo-campaign-from-microsoft-dynamics.md)Marketo 스마트 캠페인에 리드 및 연락처 추가[!DNL Microsoft Dynamics]. 마케팅은 영업에 사용할 수 있는 Marketo 캠페인을 선택할 수 있습니다.
 
 ## [!DNL Microsoft Dynamics] 동기화에 대한 사용자 지정 엔터티 지원 {#custom-entity-support-for-microsoft-dynamics-sync}
 
-스마트 목록, 스마트 캠페인, 프로그램에서 필터링 및 트리거하려면 [!DNL Microsoft Dynamics]의 사용자 지정 개체 데이터를 [사용합니다](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/microsoft-dynamics-sync-details/enable-sync-for-a-custom-entity.md)...
+스마트 목록, 스마트 캠페인, 프로그램에서 필터링 및 트리거하려면 [의 사용자 지정 개체 데이터를 ](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/microsoft-dynamics-sync-details/enable-sync-for-a-custom-entity.md)사용합니다[!DNL Microsoft Dynamics]...
 
 ## [!DNL Microsoft Dynamics] 동기화에 대한 주주 지원 {#shareholder-support-for-microsoft-dynamics-sync}
 
@@ -70,4 +70,4 @@ API를 사용하여 잠재 고객에 대한 새 활동 또는 변경 사항을 �
 * 다음에 관심이 있는 제품
 * 본 RTP 캠페인
 
-자세한 내용을 보려면 [https://experienceleague.adobe.com/ko/docs/marketo-developer/marketo/javascriptapi/rich-media-recommendation](https://experienceleague.adobe.com/ko/docs/marketo-developer/marketo/javascriptapi/rich-media-recommendation)을(를) 방문하십시오.
+자세한 내용을 보려면 [https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/javascriptapi/rich-media-recommendation](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/javascriptapi/rich-media-recommendation)을(를) 방문하십시오.

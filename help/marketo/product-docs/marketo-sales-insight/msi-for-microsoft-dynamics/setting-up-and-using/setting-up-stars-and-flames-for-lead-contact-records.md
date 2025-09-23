@@ -1,17 +1,17 @@
 ---
 unique-page-id: 42762244
 description: 리드/연락처 레코드에 대한 Stars 및 Flames 설정 - Marketo 문서 - 제품 설명서
-title: Lead/Contact Records에 Stars 및 Flames 설정
+title: 리드/연락처 레코드에 대한 Stars 및 Flames 설정
 exl-id: 696b2551-0627-4da1-a64e-d3ef91596442
 feature: Marketo Sales Insights
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '154'
-ht-degree: 0%
+ht-degree: 11%
 
 ---
 
-# Lead/Contact Records에 Stars 및 Flames 설정 {#setting-up-stars-and-flames-for-lead-contact-records}
+# 리드/연락처 레코드에 대한 Stars 및 Flames 설정 {#setting-up-stars-and-flames-for-lead-contact-records}
 
 리드/연락처 레코드의 별 및 불꽃은 [!UICONTROL Lead Score], [!UICONTROL Relative Score], [!UICONTROL Urgency] 및 [!UICONTROL Priority] 필드에 따라 달라집니다. 이러한 필드는 MSI 솔루션을 설치 및 구성한 후 기본적으로 사용할 수 있습니다. Stars 및 Flames가 없는 경우 이전 설정/사용자 지정으로 별이 제거될 수 있습니다. 아래 단계에 따라 추가하십시오.
 

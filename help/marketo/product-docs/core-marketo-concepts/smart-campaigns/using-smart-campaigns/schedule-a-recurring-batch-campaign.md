@@ -4,22 +4,22 @@ description: 반복 배치 캠페인 예약 - Marketo 문서 - 제품 설명서
 title: 반복 배치 캠페인 예약
 exl-id: b7a931b0-5061-4c4f-8084-4938254a4d9c
 feature: Smart Campaigns
-source-git-commit: 47bc93665a7efa0d64cd4d5f34b868895d407527
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
-source-wordcount: '142'
-ht-degree: 0%
+source-wordcount: '133'
+ht-degree: 11%
 
 ---
 
 # 반복 배치 캠페인 예약 {#schedule-a-recurring-batch-campaign}
 
-반복을 사용하면 배치 캠페인을 정기적으로 실행할 수 있습니다. 예를 들어 일주일에 한 번, 화요일 오전 10시.
+반복을 사용하면 배치 캠페인을 정기적으로 실행할 수 있습니다. 예를 들어 매주 한 번, 화요일 오전 10:00입니다.
 
-1. 스마트 캠페인을 선택하고 **[!UICONTROL 예약]** 탭으로 이동한 다음 **[!UICONTROL 반복 예약]**&#x200B;을 클릭합니다.
+1. 스마트 캠페인을 선택하고 **[!UICONTROL Schedule]** 탭으로 이동한 다음 **[!UICONTROL Schedule Recurrence]**&#x200B;을(를) 클릭합니다.
 
    ![](assets/schedule-a-recurring-batch-campaign-1.png)
 
-1. **[!UICONTROL 일정]** 드롭다운을 클릭하고 **[!UICONTROL 주별]**&#x200B;을 선택합니다.
+1. **[!UICONTROL Schedule]** 드롭다운을 클릭하고 **[!UICONTROL Weekly]**&#x200B;를 선택합니다.
 
    ![](assets/schedule-a-recurring-batch-campaign-2.png)
 
@@ -31,13 +31,13 @@ ht-degree: 0%
 
    ![](assets/schedule-a-recurring-batch-campaign-4.png)
 
-1. &quot;[!UICONTROL 매일 반복]&quot;을(를) 1로 두고 화요일을 선택한 다음 **[!UICONTROL 저장]**&#x200B;을 클릭하세요.
+1. &quot;[!UICONTROL Repeat every]&quot;을(를) 1로 두고 화요일을 선택한 다음 **[!UICONTROL Save]**&#x200B;을(를) 클릭합니다.
 
    ![](assets/schedule-a-recurring-batch-campaign-5.png)
 
    >[!NOTE]
    >
-   >특정 실행 길이의 경우 **[!UICONTROL 종료 날짜]** 옆에 있는 달력 아이콘을 클릭하고 종료 날짜를 선택할 수 있습니다.
+   >특정 실행 길이의 경우 **[!UICONTROL End on]** 옆에 있는 달력 아이콘을 클릭하고 종료 날짜를 선택할 수 있습니다.
 
 예약된 반복은 [예약] 탭의 맨 아래에 표시됩니다.
 

@@ -1,16 +1,16 @@
 ---
 description: NUR-YYYY-MM-Advanced Grooth - Marketo 문서 - 제품 설명서
-title: NUR-YYYY-MM-Advanced Gurture
+title: NUR-YYYY-MM-고급 육성
 feature: Programs
 exl-id: bd9c6605-a13f-4c73-aaa8-eca43cfcc950
-source-git-commit: 21bcdc10fe1f3517612efe0f8e2adaf2f4411a70
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '490'
-ht-degree: 6%
+ht-degree: 10%
 
 ---
 
-# NUR-YYYY-MM-Advanced Gurture {#nur-yyyy-mm-advanced-nurture}
+# NUR-YYYY-MM-고급 육성 {#nur-yyyy-mm-advanced-nurture}
 
 다음은 Marketo Engage Engagement Program을 활용한 고급 육성 프로그램의 예입니다. 중첩된 이메일 프로그램은 사용자가 이미 사용한 콘텐츠를 수신하지 못하도록 하거나 각 스트림에서 소비해야 하는 콘텐츠 유형을 제어합니다. 각각의 중첩된 이메일 프로그램에 대해 속성 보고를 실행할 수 있습니다. 채널: 중첩된 이메일 프로그램에 대한 &quot;Grooth&quot; 및 전용 &quot;Grooth Email&quot; 채널은 Marketo Engage 이메일 프로그램을 사용하여 뉴스레터 이메일 1개를 전송합니다. 이메일에는 A/B 테스트가 포함되거나 포함되지 않을 수 있습니다.
 

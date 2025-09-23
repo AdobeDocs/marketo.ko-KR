@@ -4,10 +4,10 @@ short-description: Adobe Marketo Engage를 처음 사용하십니까? 본격적�
 title: 설정 단계
 feature: Getting Started
 exl-id: 5f37da48-b2ed-4e48-a5a2-429149745085
-source-git-commit: 21bcdc10fe1f3517612efe0f8e2adaf2f4411a70
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '1663'
-ht-degree: 2%
+ht-degree: 3%
 
 ---
 
@@ -62,7 +62,7 @@ Marketo 추적 링크를 찾으려면 **[!UICONTROL Admin]** 영역으로 이동
 
 ![](assets/setup-steps-1.png)
 
-**[!UICONTROL Email]**&#x200B;을(를) 클릭합니다.
+**[!UICONTROL Email]**&#x200B;를 클릭합니다.
 
 ![](assets/setup-steps-2.png)
 
@@ -80,7 +80,7 @@ Marketo 추적 링크를 찾으려면 **[!UICONTROL Admin]** 영역으로 이동
 
 이제 요청을 IT에 보내는 데 필요한 모든 정보가 준비되었습니다!
 
-## CNAME으로 랜딩 페이지 URL 사용자 지정 {#customize-your-landing-page-urls-with-a-cname}
+## CNAME을 사용하여 랜딩 페이지 URL 사용자 정의 {#customize-your-landing-page-urls-with-a-cname}
 
 >[!NOTE]
 >
@@ -147,7 +147,6 @@ IT 관리자에게,
 허용 목록에 추가하다 `3)` Marketo.
 
     * 전자 메일 허용 목록에 IP 주소를 사용하는 경우 아래 나열된 IP를 추가하십시오.
-
     199.15.212.0/22
     
     192.28.144.0/20
@@ -240,7 +239,7 @@ IT 담당자가 작업을 완료하면 다음 단계에 따라 랜딩 페이지 
 
 도메인 필드에 이메일 추적 도메인을 입력합니다. 형식은 다음과 같아야 합니다.
 
-`[EmailTrackingCNAME].[CompanyDomain].com` 질문에 답합니다. **[!UICONTROL Save]**&#x200B;을(를) 클릭합니다.
+`[EmailTrackingCNAME].[CompanyDomain].com` 질문에 답합니다. **[!UICONTROL Save]**&#x200B;를 클릭합니다.
 
 ![](assets/setup-steps-13.png)
 
@@ -271,7 +270,7 @@ Marketo Engage에는 웹 페이지에서 개인 활동을 추적하는 데 사�
 
 ## 성능 기대치 {#performance-expectations}
 
-Marketo의 성능 측면에서 기대할 수 있는 사항은 무엇입니까? 마케팅 캠페인의 크기와 복잡성에 따라 달라질 수 있습니다. 그러나 [Marketo Engage 제품 설명](https://helpx.adobe.com/kr/legal/product-descriptions/adobe-marketo-engage---product-description.html){target="_blank"}에 있는 여러 표의 &quot;표준&quot; 열에 요약된 내용과 동등한 성능 수준을 기대할 수 있습니다. &quot;성능&quot; 및 &quot;성능 플러스&quot; 열은 [더 높은 성능 수준](https://nation.marketo.com/t5/product-documents/marketo-engage-performance-tiers/ta-p/328835){target="_blank"}을 제공하는 성능 계층 패키지를 나타냅니다.
+Marketo의 성능 측면에서 기대할 수 있는 사항은 무엇입니까? 마케팅 캠페인의 크기와 복잡성에 따라 달라질 수 있습니다. 그러나 [Marketo Engage 제품 설명](https://helpx.adobe.com/legal/product-descriptions/adobe-marketo-engage---product-description.html){target="_blank"}에 있는 여러 표의 &quot;표준&quot; 열에 요약된 내용과 동등한 성능 수준을 기대할 수 있습니다. &quot;성능&quot; 및 &quot;성능 플러스&quot; 열은 [더 높은 성능 수준](https://nation.marketo.com/t5/product-documents/marketo-engage-performance-tiers/ta-p/328835){target="_blank"}을 제공하는 성능 계층 패키지를 나타냅니다.
 
 >[!MORELIKETHIS]
 >

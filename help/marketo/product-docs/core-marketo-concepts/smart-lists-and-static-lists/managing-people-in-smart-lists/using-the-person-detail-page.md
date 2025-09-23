@@ -1,17 +1,17 @@
 ---
 unique-page-id: 2953415
 description: 개인 세부 정보 페이지 사용 - Marketo 문서 - 제품 설명서
-title: 개인 세부 정보 페이지 사용
+title: 개인 정보 페이지 사용
 exl-id: 8476ed02-6d94-4aa5-91f6-55c81a87f745
 feature: Smart Lists
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '525'
-ht-degree: 23%
+ht-degree: 26%
 
 ---
 
-# 개인 세부 정보 페이지 사용 {#using-the-person-detail-page}
+# 개인 정보 페이지 사용 {#using-the-person-detail-page}
 
 개인 세부 정보 페이지에는 Marketo이 개인에 대해 알고 있는 모든 정보가 포함되어 있습니다. 이 페이지에서 직접 데이터를 편집할 수 있습니다.
 
@@ -60,7 +60,7 @@ ht-degree: 23%
 
 >[!NOTE]
 >
->CRM과 동기화되지 않은 인스턴스에 대한 영업 기회 정보 [API를 통해 삽입됨](https://experienceleague.adobe.com/ko/docs/marketo-developer/marketo/rest/lead-database/opportunities)도 볼 수 있습니다.
+>CRM과 동기화되지 않은 인스턴스에 대한 영업 기회 정보 [API를 통해 삽입됨](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/rest/lead-database/opportunities)도 볼 수 있습니다.
 
 ## 필드 편집 {#editing-a-field}
 
@@ -75,7 +75,7 @@ ht-degree: 23%
 | 주소 | 연매출 | 익명 IP | 청구지 주소 | 청구지 시 |
 | 청구지 국가 | 청구지 우편번호 | 청구지 주 | 구/군/시 | 회사 이름 |
 | 국가 | 생성 위치 | 출생일 | 부서 | 두 낫 콜 |
-| 원인 호출 안 함 | 두 낫 콜 이유 | 이메일 주소 | 이메일 잘못됨 | 잘못된 이메일 원인 |
+| 원인 호출 안 함 | 두 낫 콜 이유 | 이메일 주소 | 잘못된 이메일 | 잘못된 이메일 원인 |
 | 외부 회사 ID | 외부 영업 사원 ID | 팩스 번호 | 이름 | 전체 이름 |
 | 업종 | 추론된 시 | 추론된 회사 | 추론된 국가 | 대도시 지역 유추 |
 | 전화번호 지역코드 유추 | 추론된 우편번호 | 유추된 주 지역 | 익명 | 고객 |
@@ -88,7 +88,7 @@ ht-degree: 23%
 | Marketo Social [!DNL Twitter] 사진 URL | Marketo Social [!DNL Twitter] 프로필 URL | Marketo Social [!DNL Twitter] 도달 | Marketo Social [!DNL Twitter] 참조 등록 | Marketo Social [!DNL Twitter] 참조 방문 |
 | 중간 이름 | 휴대 전화 번호 | 직원 수 | 전화 번호 | 우편번호 |
 | 우선순위 | 상대 스코어 | 역할 | 인사말 | SIC 코드 |
-| 사이트 | 주/도 | 주소 삭제 | 주소 삭제 이유 | 업데이트 시간 |
+| 사이트 | 주/도 | 구독 취소 | 주소 삭제 이유 | 업데이트 시간 |
 | 긴급도 | 웹 사이트 |  |  |  |
 
 >[!NOTE]

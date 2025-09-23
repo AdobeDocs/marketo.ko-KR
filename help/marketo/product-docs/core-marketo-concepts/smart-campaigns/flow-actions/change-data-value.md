@@ -4,16 +4,16 @@ description: 데이터 값 변경 - Marketo 문서 - 제품 설명서
 title: 데이터 값 변경
 exl-id: cdfa7632-87e2-407f-9891-3697771b5687
 feature: Smart Campaigns
-source-git-commit: 12f2399859c784095cc2c1df772c66c649106ba3
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
-source-wordcount: '110'
-ht-degree: 0%
+source-wordcount: '103'
+ht-degree: 5%
 
 ---
 
 # 데이터 값 변경 {#change-data-value}
 
-Marketo을 사용하여 필드의 값을 업데이트할 수 있습니다. 이를 위해 **[!UICONTROL 데이터 값 변경]** 흐름 작업을 사용합니다.
+Marketo을 사용하여 필드의 값을 업데이트할 수 있습니다. 이를 위해 **[!UICONTROL Change Data Value]** 흐름 동작을 사용합니다.
 
 ![](assets/change-data-value-1.png)
 
@@ -31,11 +31,11 @@ Marketo을 사용하여 필드의 값을 업데이트할 수 있습니다. 이�
 
    >[!NOTE]
    >
-   >**[!UICONTROL 새 값]**&#x200B;에서도 토큰을 사용할 수 있습니다.
+   >**[!UICONTROL New Value]**&#x200B;에서 토큰을 사용할 수도 있습니다.
 
    >[!TIP]
    >
-   >**[!UICONTROL 새 값]**&#x200B;에 &#39;NULL&#39;(따옴표 없음, 모두 대문자)을 입력하여 필드를 지울 수 있습니다. 자세한 내용은 [필드 값 지우기](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/clear-field-values.md){target="_blank"}를 참조하십시오.
+   >**[!UICONTROL New Value]**&#x200B;에 &#39;NULL&#39;(따옴표 없음, 모두 대문자)을 입력하여 필드를 지울 수 있습니다. 자세한 내용은 [필드 값 지우기](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/clear-field-values.md){target="_blank"}를 참조하십시오.
 
    >[!NOTE]
    >

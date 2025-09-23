@@ -4,10 +4,10 @@ description: 소셜 양식 채우기 비활성화 - Marketo 문서 - 제품 설�
 title: 소셜 양식 채우기 비활성화
 exl-id: 69b66a7e-c6c9-4e29-a5b3-688da9cae505
 feature: Forms
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '71'
-ht-degree: 2%
+ht-degree: 14%
 
 ---
 
@@ -35,11 +35,11 @@ ht-degree: 2%
 
    ![](assets/image2016-4-28-16-3a49-3a23.png)
 
-1. **[!UICONTROL Finish]**&#x200B;을(를) 클릭합니다.
+1. **[!UICONTROL Finish]**&#x200B;를 클릭합니다.
 
    ![](assets/image2014-9-15-16-3a36-3a26.png)
 
-1. **[!UICONTROL Approve and Close]**&#x200B;을(를) 클릭합니다.
+1. **[!UICONTROL Approve and Close]**&#x200B;를 클릭합니다.
 
    ![](assets/image2014-9-15-16-3a36-3a33.png)
 

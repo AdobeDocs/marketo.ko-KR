@@ -4,10 +4,10 @@ description: 이메일 링크 성과 보고서 - Marketo 문서 - 제품 설명�
 title: 이메일 링크 성과 보고서
 exl-id: 216af37d-561f-42ad-9f2c-3d9ee5dfd9d7
 feature: Email Programs
-source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '217'
-ht-degree: 1%
+ht-degree: 5%
 
 ---
 
@@ -19,7 +19,7 @@ ht-degree: 1%
 
    ![](assets/image2017-3-29-9-3a10-3a41.png)
 
-1. **[!UICONTROL Setup]**&#x200B;을(를) 클릭합니다.
+1. **[!UICONTROL Setup]**&#x200B;를 클릭합니다.
 
    ![](assets/image2015-5-20-11-3a18-3a0.png)
 
@@ -27,11 +27,11 @@ ht-degree: 1%
 
    ![](assets/image2015-5-20-11-3a18-3a59.png)
 
-1. 보고서에 적합한 시간대를 설정합니다. **[!UICONTROL Save]**&#x200B;을(를) 클릭합니다.
+1. 보고서에 적합한 시간대를 설정합니다. **[!UICONTROL Save]**&#x200B;를 클릭합니다.
 
    ![](assets/image2015-5-20-11-3a20-3a52.png)
 
-1. **[!UICONTROL Report]**&#x200B;을(를) 클릭합니다.
+1. **[!UICONTROL Report]**&#x200B;를 클릭합니다.
 
    ![](assets/image2015-5-20-11-3a22-3a24.png)
 

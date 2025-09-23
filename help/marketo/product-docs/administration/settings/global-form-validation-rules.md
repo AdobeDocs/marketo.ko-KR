@@ -3,10 +3,10 @@ description: 글로벌 양식 유효성 검사 규칙 - Marketo 문서 - 제품 
 title: 글로벌 양식 유효성 검사 규칙
 exl-id: a44db893-00b5-40d2-8be3-41d52b2fd7b5
 feature: Administration
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '240'
-ht-degree: 1%
+ht-degree: 4%
 
 ---
 
@@ -22,7 +22,7 @@ ht-degree: 1%
 
    ![](assets/global-form-validation-rules-1.png)
 
-1. **[!UICONTROL Users & Roles]**&#x200B;을(를) 클릭합니다.
+1. **[!UICONTROL Users & Roles]**&#x200B;를 클릭합니다.
 
    ![](assets/global-form-validation-rules-2.png)
 
@@ -52,11 +52,11 @@ ht-degree: 1%
 
    ![](assets/global-form-validation-rules-7.png)
 
-1. **[!UICONTROL Global Form Validation Rule]**&#x200B;을(를) 클릭합니다.
+1. **[!UICONTROL Global Form Validation Rule]**&#x200B;를 클릭합니다.
 
    ![](assets/global-form-validation-rules-8.png)
 
-1. **[!UICONTROL New Form Validation Rule]**&#x200B;을(를) 클릭합니다.
+1. **[!UICONTROL New Form Validation Rule]**&#x200B;를 클릭합니다.
 
    ![](assets/global-form-validation-rules-9.png)
 

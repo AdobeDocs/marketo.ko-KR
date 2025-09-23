@@ -1,12 +1,12 @@
 ---
 description: 최상의 선택 - Marketo 문서 - 제품 설명서
-title: 최상의 선택
+title: Best Bets
 exl-id: 748e2ad8-9d01-4e44-a0b4-c6869456a799
 feature: Marketo Sales Insights
-source-git-commit: 21bcdc10fe1f3517612efe0f8e2adaf2f4411a70
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '55'
-ht-degree: 0%
+ht-degree: 3%
 
 ---
 
@@ -19,6 +19,6 @@ ht-degree: 0%
 * [!UICONTROL Send Marketo Email]
 * [!UICONTROL Add to Marketo Campaign]
 
-[!DNL Best Bets] 탭에서 여러 리드를 선택하고 _[!UICONTROL Send Marketo Email]_&#x200B;또는&#x200B;_[!UICONTROL Add to Marketo Campaign]_&#x200B;을(를) 선택할 수도 있습니다.
+[!DNL Best Bets] 탭에서 여러 리드를 선택하고 _[!UICONTROL Send Marketo Email]_또는_[!UICONTROL Add to Marketo Campaign]_&#x200B;을(를) 선택할 수도 있습니다.
 
 ![](assets/best-bets-1.png)

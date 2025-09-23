@@ -4,10 +4,10 @@ description: 선택 목록 값 추가/제거 - Marketo 문서 - 제품 설명서
 title: 선택 목록 값 추가/제거
 exl-id: f1230c43-10cb-47ff-89d7-9f835b034db0
 feature: Salesforce Integration
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '225'
-ht-degree: 0%
+ht-degree: 3%
 
 ---
 

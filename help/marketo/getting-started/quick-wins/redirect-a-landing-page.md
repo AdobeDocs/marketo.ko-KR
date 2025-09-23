@@ -4,10 +4,10 @@ description: 랜딩 페이지 리디렉션 - Marketo 문서 - 제품 설명서
 title: 랜딩 페이지 리디렉션
 exl-id: 5c9205aa-e970-4d72-a4e3-48593da4181c
 feature: Getting Started
-source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '127'
-ht-degree: 0%
+ht-degree: 15%
 
 ---
 
@@ -56,7 +56,7 @@ ht-degree: 0%
 
    ![](assets/redirect-a-landing-page-6.png)
 
-## 임무 완료 {#mission-complete}
+## 미션 완료 {#mission-complete}
 
 축하합니다! 랜딩 페이지를 정상적으로 리디렉션했습니다.
 

@@ -1,17 +1,17 @@
 ---
 unique-page-id: 7514224
 description: 히트그리드 사용자 정의 및 표시 - Marketo 문서 - 제품 설명서
-title: 열 그리드 사용자 정의 및 표시
+title: 히트 그리드 사용자 정의 및 표시
 exl-id: c3354b08-3850-4862-becf-f9222b75e1eb
 feature: Reporting, Revenue Cycle Analytics
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '66'
-ht-degree: 0%
+ht-degree: 15%
 
 ---
 
-# 열 그리드 사용자 정의 및 표시 {#customize-and-display-heat-grids}
+# 히트 그리드 사용자 정의 및 표시 {#customize-and-display-heat-grids}
 
 히트 그리드는 좋은 패턴과 나쁜 패턴을 보다 쉽고 빠르게 식별할 수 있도록 데이터를 컬러 그리드로 시각적으로 나타냅니다.
 

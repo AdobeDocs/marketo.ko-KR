@@ -4,10 +4,10 @@ description: 익명 활동 및 사용자 이해 - Marketo 문서 - 제품 설명
 title: 익명 활동 및 사용자 이해
 exl-id: 1676e8f3-9138-42ed-8bb4-40e195391fc4
 feature: Smart Lists
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '263'
-ht-degree: 0%
+ht-degree: 3%
 
 ---
 

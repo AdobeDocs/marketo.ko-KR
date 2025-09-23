@@ -4,10 +4,10 @@ description: 프로그램 상태 변경 - Marketo 문서 - 제품 설명서
 title: 프로그램 상태 변경
 exl-id: ca6076a6-10f4-4687-8486-1bbcb6ea9255
 feature: Smart Campaigns
-source-git-commit: 934bb5f197f801e48cf8e7554335eb2d07289037
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
-source-wordcount: '129'
-ht-degree: 0%
+source-wordcount: '124'
+ht-degree: 4%
 
 ---
 
@@ -19,11 +19,11 @@ ht-degree: 0%
 >
 >참여 프로그램에서 프로그램 상태를 변경하면 첫 번째 스트림에 자동으로 추가됩니다. 콘텐츠를 받기 시작합니다.
 
-1. **[!UICONTROL 프로그램 상태 변경]** 흐름 단계에서 드래그합니다.
+1. **[!UICONTROL Change Program Status]** 흐름 단계에서 드래그합니다.
 
    ![](assets/change-program-status-1.png)
 
-1. 설정할 **[!UICONTROL 새 상태]**&#x200B;를 선택하십시오. 대상이 아직 없는 경우에도 프로그램의 회원이 됩니다.
+1. 설정할 **[!UICONTROL New Status]**&#x200B;을(를) 선택하십시오. 대상이 아직 없는 경우에도 프로그램의 회원이 됩니다.
 
    ![](assets/change-program-status-2.png)
 

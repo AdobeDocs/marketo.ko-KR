@@ -4,10 +4,10 @@ description: 양식 점진적 프로파일링 구성 - Marketo 문서 - 제품 �
 title: 양식 점진적 프로파일링 구성
 exl-id: 72afe3dc-0688-45ec-ab70-4dc9accf4fc8
 feature: Forms
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '307'
-ht-degree: 0%
+ht-degree: 3%
 
 ---
 
@@ -86,11 +86,11 @@ ht-degree: 0%
    >* 이메일 주소(미리 입력됨)
    >* 국가(비어 있음)
 
-1. **[!UICONTROL Finish]**&#x200B;을(를) 클릭합니다.
+1. **[!UICONTROL Finish]**&#x200B;를 클릭합니다.
 
    ![](assets/image2014-9-15-12-3a33-3a35.png)
 
-1. **[!UICONTROL Approve and Close]**&#x200B;을(를) 클릭합니다.
+1. **[!UICONTROL Approve and Close]**&#x200B;를 클릭합니다.
 
    ![](assets/image2014-9-15-12-3a33-3a45.png)
 

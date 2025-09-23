@@ -3,10 +3,10 @@ description: Salesforce 동기화 오류 - Marketo 문서 - 제품 설명서
 title: Salesforce 동기화 오류
 exl-id: 4819f423-30c6-48e3-8cec-5d298ceb7b56
 feature: Salesforce Integration
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '173'
-ht-degree: 1%
+ht-degree: 3%
 
 ---
 
@@ -20,7 +20,7 @@ ht-degree: 1%
 
 ## 동기화 오류 보기 {#view-sync-errors}
 
-1. **[!UICONTROL Admin]**&#x200B;을(를) 클릭합니다.
+1. **[!UICONTROL Admin]**&#x200B;를 클릭합니다.
 
    ![](assets/salesforce-sync-errors-1.png)
 

@@ -3,7 +3,7 @@ description: Stream Designer - Marketo 문서 - 제품 설명서
 title: 스트림 디자이너
 feature: Dynamic Chat
 exl-id: 310b1dff-dd93-48a6-85c2-64c58494ce48
-source-git-commit: 11006e3244fd7a145a955dd08b669a897dae826b
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '1175'
 ht-degree: 1%
@@ -109,7 +109,7 @@ ht-degree: 1%
 
    ![](assets/stream-designer-6.png)
 
-1. _[!UICONTROL Question]_&#x200B;카드를 끌어서 놓습니다.
+1. _[!UICONTROL Question]_카드를 끌어서 놓습니다.
 
    ![](assets/stream-designer-7.png)
 
@@ -145,7 +145,7 @@ ht-degree: 1%
 
    ![](assets/stream-designer-11.png)
 
-1. 목표이므로 _[!UICONTROL Goal]_&#x200B;카드를 모임 예약 아래로 끌어 놓으십시오.
+1. 목표이므로 _[!UICONTROL Goal]_카드를 모임 예약 아래로 끌어 놓으십시오.
 
    ![](assets/stream-designer-12.png)
 
@@ -177,7 +177,7 @@ ht-degree: 1%
 
    ![](assets/stream-designer-18.png)
 
-1. 전자 메일 수집이 목표이므로 _[!UICONTROL Goal]_&#x200B;카드를 정보 캡처 아래에 끌어 놓으십시오.
+1. 전자 메일 수집이 목표이므로 _[!UICONTROL Goal]_카드를 정보 캡처 아래에 끌어 놓으십시오.
 
    ![](assets/stream-designer-19.png)
 

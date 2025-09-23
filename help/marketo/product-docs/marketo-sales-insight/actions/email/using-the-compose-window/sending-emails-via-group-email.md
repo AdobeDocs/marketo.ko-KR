@@ -3,10 +3,10 @@ description: 그룹 이메일을 통한 이메일 보내기 - Marketo 문서 - �
 title: 그룹 이메일을 통해 이메일 보내기
 exl-id: 0099c0ee-dff2-4d7d-91cd-7d619405bac5
 feature: Sales Insight Actions
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '154'
-ht-degree: 0%
+ht-degree: 6%
 
 ---
 

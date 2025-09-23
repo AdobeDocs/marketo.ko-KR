@@ -1,18 +1,18 @@
 ---
 description: Select 및 Send를 사용하여 벌크 이메일 작성 - Marketo 문서 - 제품 설명서
-title: Select 및 Send를 사용하여 일괄 이메일 작성
+title: 선택 및 보내기 기능으로 일괄 이메일 작성
 hide: true
 hidefromtoc: true
 exl-id: 8d9d0c78-1f01-48ad-93ac-5c353173c4f3
 feature: Sales Insight Actions
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '385'
-ht-degree: 0%
+ht-degree: 3%
 
 ---
 
-# Select 및 Send를 사용하여 일괄 이메일 작성 {#composing-bulk-emails-with-select-and-send}
+# 선택 및 보내기 기능으로 일괄 이메일 작성 {#composing-bulk-emails-with-select-and-send}
 
 [!UICONTROL Select] 및 [!UICONTROL Send] 옵션을 사용하여 전자 메일을 보내거나 편집하는 방법은 다음과 같습니다.
 

@@ -1,17 +1,17 @@
 ---
 unique-page-id: 10093188
 description: Marketo 사용자 지정 개체 이해 - Marketo 문서 - 제품 설명서
-title: Marketo 사용자 지정 개체 이해
+title: Marketo 사용자 정의 오브젝트 이해
 exl-id: f18b1689-c7bc-4da0-8326-7b29733d527d
 feature: Custom Objects
-source-git-commit: 7fd4d4e12b348ad4d0d69cd3f62cf441eda258b8
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '689'
-ht-degree: 0%
+ht-degree: 2%
 
 ---
 
-# Marketo 사용자 지정 개체 이해 {#understanding-marketo-custom-objects}
+# Marketo 사용자 정의 오브젝트 이해 {#understanding-marketo-custom-objects}
 
 사용자 지정 개체를 사용하여 비즈니스와 관련된 지표를 추적합니다.
 
@@ -19,12 +19,12 @@ ht-degree: 0%
 >
 >모든 Marketo Engage 사용자가 이 기능을 구입한 것은 아닙니다. 자세한 내용은 Adobe 계정 팀(계정 관리자)에 문의하십시오.
 
-사용자 지정 개체를 스마트 캠페인의 필터 및 트리거로 사용합니다. For example:
+사용자 지정 개체를 스마트 캠페인의 필터 및 트리거로 사용합니다. 예:
 
 * **필터**: 특정 차량 브랜드의 소유자에게만 전자 메일을 보냅니다.
 * **트리거**: 사용자 지정 개체가 개인 또는 회사에 추가되면 전자 메일을 보냅니다.
 
-일대다 또는 다대다 관계에서 사용자 지정 개체를 설정할 수 있습니다. For example:
+일대다 또는 다대다 관계에서 사용자 지정 개체를 설정할 수 있습니다. 예:
 
 * **일대다**: 한 사람이 여러 대의 자동차를 소유합니다.
 * **다대다**: 과정 카탈로그에서 여러 과정에 여러 학생이 등록되었습니다
@@ -47,7 +47,7 @@ ht-degree: 0%
 
    ![](assets/understanding-marketo-custom-objects-1.png)
 
-1. **[!UICONTROL Marketo Custom Objects]**&#x200B;을(를) 클릭합니다.
+1. **[!UICONTROL Marketo Custom Objects]**&#x200B;를 클릭합니다.
 
    ![](assets/understanding-marketo-custom-objects-2.png)
 

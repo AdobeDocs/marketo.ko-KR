@@ -1,17 +1,17 @@
 ---
 unique-page-id: 2359641
 description: 웹 사이트에 양식 포함 - Marketo 문서 - 제품 설명서
-title: 웹 사이트에 양식 포함
+title: 웹 사이트에 양식 임베드
 exl-id: ead46100-7af8-48fe-a37f-74e5bdc4328c
 feature: Forms
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '201'
-ht-degree: 0%
+ht-degree: 6%
 
 ---
 
-# 웹 사이트에 양식 포함 {#embed-a-form-on-your-website}
+# 웹 사이트에 양식 임베드 {#embed-a-form-on-your-website}
 
 Marketo을 사용하면 자신의 웹 사이트에 양식을 임베드할 수 있습니다. 포함 코드에 대한 액세스 권한을 받는 방법은 다음과 같습니다.
 
@@ -47,6 +47,6 @@ Marketo을 사용하면 자신의 웹 사이트에 양식을 임베드할 수 �
 
 >[!NOTE]
 >
->개발자가 디자인을 사용자 지정하거나 고급 API 함수에 액세스하려면 [Forms 2.0 개발자 페이지](https://experienceleague.adobe.com/ko/docs/marketo-developer/marketo/javascriptapi/forms-api-reference)를 표시하십시오.
+>개발자가 디자인을 사용자 지정하거나 고급 API 함수에 액세스하려면 [Forms 2.0 개발자 페이지](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/javascriptapi/forms-api-reference)를 표시하십시오.
 
 좋습니다! [포함 코드에 Lightbox 코드](/help/marketo/product-docs/demand-generation/forms/form-actions/use-a-form-in-a-lightbox.md)을 포함하시겠습니까? 그것도 쉬워!

@@ -1,17 +1,17 @@
 ---
 unique-page-id: 11385940
 description: 리치 미디어에 대한 예측 콘텐츠 편집 - Marketo 문서 - 제품 설명서
-title: 리치 미디어에 대한 예측 콘텐츠 편집
+title: 리치 미디어용 예측 콘텐츠 편집
 exl-id: 6c1161dd-cefe-4b0f-8942-396d4b7db701
 feature: Predictive Content
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '208'
-ht-degree: 0%
+ht-degree: 6%
 
 ---
 
-# 리치 미디어에 대한 예측 콘텐츠 편집 {#edit-predictive-content-for-rich-media}
+# 리치 미디어용 예측 콘텐츠 편집 {#edit-predictive-content-for-rich-media}
 
 다음은 리치 미디어에 대한 예측 콘텐츠를 설정하는 방법입니다.
 
@@ -23,7 +23,7 @@ ht-degree: 0%
 
    ![](assets/image2017-10-3-9-3a40-3a38.png)
 
-1. **[!UICONTROL Rich Media]**&#x200B;을(를) 클릭합니다.
+1. **[!UICONTROL Rich Media]**&#x200B;를 클릭합니다.
 
    ![](assets/image2017-10-3-9-3a41-3a33.png)
 
@@ -55,6 +55,6 @@ ht-degree: 0%
 
    ![](assets/six-1.png)
 
-1. **[!UICONTROL Save]**&#x200B;을(를) 클릭합니다.
+1. **[!UICONTROL Save]**&#x200B;를 클릭합니다.
 
    ![](assets/save.png)

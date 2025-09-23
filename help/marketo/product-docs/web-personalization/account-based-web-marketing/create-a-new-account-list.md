@@ -4,10 +4,10 @@ description: 새 계정 목록 만들기 - Marketo 문서 - 제품 설명서
 title: 새 계정 목록 만들기
 exl-id: 644c5b3b-852a-4dd9-8e55-b434505504ea
 feature: Web Personalization
-source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '392'
-ht-degree: 0%
+ht-degree: 4%
 
 ---
 
@@ -29,7 +29,7 @@ ht-degree: 0%
 
    ![](assets/create-new-account-list-hand.jpg)
 
-1. **[!UICONTROL Browse]**&#x200B;을(를) 선택하고 CSV 파일을 업로드합니다(csv 파일이 조건을 충족하는지 확인). **[!UICONTROL List Name]** 및 **[!UICONTROL Description]**&#x200B;을(를) 추가합니다. **[!UICONTROL Save]**&#x200B;을(를) 클릭합니다.
+1. **[!UICONTROL Browse]**&#x200B;을(를) 선택하고 CSV 파일을 업로드합니다(csv 파일이 조건을 충족하는지 확인). **[!UICONTROL List Name]** 및 **[!UICONTROL Description]**&#x200B;을(를) 추가합니다. **[!UICONTROL Save]**&#x200B;를 클릭합니다.
 
    ![](assets/create-account-list-hands.jpg)
 
@@ -80,7 +80,7 @@ CSV 파일이 기존 파일을 대체합니다. 새 파일의 처리가 완료�
 
    ![](assets/create-new-account-list-delete.jpg)
 
-1. 목록을 삭제할 것인지 확인하는 메시지가 나타납니다. **[!UICONTROL OK]**&#x200B;을(를) 클릭합니다.
+1. 목록을 삭제할 것인지 확인하는 메시지가 나타납니다. **[!UICONTROL OK]**&#x200B;를 클릭합니다.
 
    ![](assets/delete-notification-hand.jpg)
 

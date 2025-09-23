@@ -3,10 +3,10 @@ description: 공유 설정 - Marketo 문서 - 제품 설명서
 title: 공유 설정
 exl-id: 151d64da-7a36-4da2-8041-ebcdcd016a50
 feature: Sales Insight Actions
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '217'
-ht-degree: 0%
+ht-degree: 2%
 
 ---
 
@@ -36,7 +36,7 @@ Sales Insight Actions 계정이 처음 만들어지면 공유 설정이 활성�
 
    ![](assets/sharing-settings-4.png)
 
-1. **[!UICONTROL Add Teams for Access]**&#x200B;을(를) 클릭합니다.
+1. **[!UICONTROL Add Teams for Access]**&#x200B;를 클릭합니다.
 
    ![](assets/sharing-settings-5.png)
 

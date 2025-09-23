@@ -1,17 +1,17 @@
 ---
 unique-page-id: 10093159
 description: Content Analytics 이해 - Marketo 문서 - 제품 설명서
-title: Content Analytics 이해
+title: 콘텐츠 분석 이해
 exl-id: 9266fdfe-2a12-43b0-84ad-d12eb8589ed4
 feature: Web Personalization
-source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '357'
-ht-degree: 0%
+ht-degree: 3%
 
 ---
 
-# Content Analytics 이해 {#understanding-content-analytics}
+# 콘텐츠 분석 이해 {#understanding-content-analytics}
 
 Content Analytics 페이지에는 웹 사이트에서 검색된 기존 콘텐츠(사례 연구, 블로그 게시물, 비디오, 보도 자료 등)가 표시됩니다. 또한 방문자가 콘텐츠를 사용할 때 생성되는 사용자 및 콘텐츠의 성능도 표시됩니다.
 
@@ -86,13 +86,13 @@ Analytics 테이블은 다음 세부 정보를 제공합니다.
 
 * **[!UICONTROL Views]**: 선택한 시간 범위에 대한 해당 콘텐츠 조각 보기
 * **[!UICONTROL Direct Conversions]**: 같은 방문에서 콘텐츠를 보고 양식을 작성한 웹 방문자입니다.
-* **[!UICONTROL Conversion Rate]**&#x200B;**:** 직접 전환으로 계산된 전환율을 클릭수로 나눈 비율입니다.
+* **[!UICONTROL Conversion Rate]****:** 직접 전환으로 계산된 전환율을 클릭수로 나눈 비율입니다.
 
 **[!UICONTROL Trends]**
 
 * 특정 콘텐츠 조각의 마지막 30일 보기를 보여 주는 **[!UICONTROL Trends]** 그래프입니다. 라인 그래프 위로 마우스를 가져가면 특정 날짜의 콘텐츠 보기 수를 볼 수 있습니다
 
-## 컨텐츠 삭제 {#delete-content}
+## 콘텐츠 삭제 {#delete-content}
 
 ![](assets/six.png)
 

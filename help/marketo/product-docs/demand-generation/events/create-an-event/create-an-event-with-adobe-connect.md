@@ -1,17 +1,17 @@
 ---
 unique-page-id: 2949865
 description: Adobe Connect - Marketo 문서 - 제품 설명서를 사용하여 이벤트 만들기
-title: Adobe Connect으로 이벤트 만들기
+title: Adobe Connect로 이벤트 만들기
 exl-id: 196b1640-9cfd-4485-9bc4-e907d3ac1f16
 feature: Events
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '383'
-ht-degree: 0%
+ht-degree: 3%
 
 ---
 
-# Adobe Connect으로 이벤트 만들기 {#create-an-event-with-adobe-connect}
+# Adobe Connect로 이벤트 만들기 {#create-an-event-with-adobe-connect}
 
 Adobe Connect과 동기화하면 Marketo 내에서 웨비나 등록 및 출석을 관리할 수 있으므로 참여가 추적 취소되지 않습니다.
 
@@ -48,7 +48,7 @@ Adobe Connect에서 만드는 모임 및 세미나는 Marketo에 자격 증명�
 
    ![](assets/event-settings-select-event-adobe-connect.png)
 
-1. **[!UICONTROL Save]**&#x200B;을(를) 클릭합니다.
+1. **[!UICONTROL Save]**&#x200B;를 클릭합니다.
 
    ![](assets/event-settings-overview.png)
 

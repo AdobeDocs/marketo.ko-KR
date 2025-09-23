@@ -4,10 +4,10 @@ description: 시스템 토큰 용어집 - Marketo 문서 - 제품 설명서
 title: 시스템 토큰 용어집
 exl-id: 8a7694af-4edb-4b32-b408-19d2e7bd596e
 feature: Tokens
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
-source-wordcount: '248'
-ht-degree: 0%
+source-wordcount: '249'
+ht-degree: 2%
 
 ---
 
@@ -32,7 +32,7 @@ ht-degree: 0%
 
 ## system.time {#system-time}
 
-`{{system.time}}` 토큰은 런타임에 현재 시간을 렌더링합니다. 예: **04:34 PM (GMT -0700)**
+`{{system.time}}` 토큰은 런타임에 현재 시간을 렌더링합니다. 예: **04:34 오후(GMT -0700)**
 
 **다음 위치에서 작동:**
 

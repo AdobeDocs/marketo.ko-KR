@@ -1,17 +1,17 @@
 ---
 unique-page-id: 2360018
 description: 리드 보고서에 영업 기회 열 추가 - Marketo 문서 - 제품 설명서
-title: 가망 고객 보고서에 기회 열 추가
+title: 리드 보고서에 기회 열 추가
 exl-id: 446befcd-a2fe-478b-9f36-288a6a31adbd
 feature: Reporting
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '240'
-ht-degree: 0%
+ht-degree: 8%
 
 ---
 
-# 가망 고객 보고서에 기회 열 추가 {#add-opportunity-columns-to-a-lead-report}
+# 리드 보고서에 기회 열 추가 {#add-opportunity-columns-to-a-lead-report}
 
 개인 보고서에서 기회에 대한 통계를 보려면 기회 열을 추가할 수 있습니다.
 

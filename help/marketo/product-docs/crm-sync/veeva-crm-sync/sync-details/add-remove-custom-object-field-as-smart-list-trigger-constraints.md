@@ -1,16 +1,16 @@
 ---
 description: 사용자 지정 개체 필드를 스마트 목록/트리거 제한으로 추가/제거 - Marketo 문서 - 제품 설명서
-title: 사용자 지정 개체 필드를 스마트 목록/트리거 제한으로 추가/제거
+title: 스마트 목록/트리거 제약 조건으로 사용자 정의 오브젝트 필드 추가/제거
 exl-id: b01923be-c307-4788-afb9-0eb4eb018a6d
 feature: Veeva CRM
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '165'
-ht-degree: 0%
+ht-degree: 12%
 
 ---
 
-# 사용자 지정 개체 필드를 스마트 목록/트리거 제한으로 추가/제거 {#add-remove-custom-object-field-as-smart-list-trigger-constraints}
+# 스마트 목록/트리거 제약 조건으로 사용자 정의 오브젝트 필드 추가/제거 {#add-remove-custom-object-field-as-smart-list-trigger-constraints}
 
 Marketo Engage은 [!DNL Veeva] 사용자 지정 개체 동기화에 대한 특정 컨트롤을 제공합니다. 이렇게 하면 사용자 지정 개체 필터의 제약 조건으로 사용할 수 있는 필드를 선택하고 스마트 캠페인의 트리거로 사용할 수 있습니다.
 
@@ -26,7 +26,7 @@ Marketo Engage은 [!DNL Veeva] 사용자 지정 개체 동기화에 대한 특�
 
    ![](assets/add-remove-custom-object-field-as-smart-list-trigger-constraints-2.png)
 
-1. **[!UICONTROL Edit Visible Fields]**&#x200B;을(를) 클릭합니다.
+1. **[!UICONTROL Edit Visible Fields]**&#x200B;를 클릭합니다.
 
    ![](assets/add-remove-custom-object-field-as-smart-list-trigger-constraints-3.png)
 

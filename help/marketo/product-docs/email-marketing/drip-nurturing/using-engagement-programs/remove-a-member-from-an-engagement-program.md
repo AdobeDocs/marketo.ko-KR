@@ -1,17 +1,17 @@
 ---
 unique-page-id: 2359951
 description: 참여 프로그램에서 구성원 제거 - Marketo 문서 - 제품 설명서
-title: 참여 프로그램에서 구성원 제거
+title: 참여 프로그램에서 멤버 제거
 exl-id: c97f15cc-b01a-4148-a150-84901ee2567e
 feature: Engagement Programs
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '128'
-ht-degree: 0%
+ht-degree: 12%
 
 ---
 
-# 참여 프로그램에서 구성원 제거 {#remove-a-member-from-an-engagement-program}
+# 참여 프로그램에서 멤버 제거 {#remove-a-member-from-an-engagement-program}
 
 죄송합니다. 그 사람들은 어떻게 들어갔지? **[!UICONTROL Change Program Status]** 흐름 단계를 사용하여 참여 프로그램에서 구성원을 제거할 수 있습니다.
 
@@ -19,7 +19,7 @@ ht-degree: 0%
 >
 >이 항목을 사용하여 개인용 콘텐트를 일시 중지하지 마십시오. 그러면 분석의 모든 속성이 제거됩니다. [참여 프로그램에서 사용자를 일시 중지](/help/marketo/product-docs/email-marketing/drip-nurturing/using-engagement-programs/pause-people-in-an-engagement-program.md)하는 방법에 대해 자세히 알아보세요.
 
-## 흐름 단계 {#flow-step}
+## 플로우 단계 {#flow-step}
 
 1. **[!UICONTROL Change Program Status]** 흐름 단계에서 드래그합니다.
 

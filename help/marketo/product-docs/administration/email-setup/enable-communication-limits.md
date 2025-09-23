@@ -4,10 +4,10 @@ description: 통신 제한 활성화 - Marketo 문서 - 제품 설명서
 title: 통신 제한 활성화
 exl-id: c69c083c-08fe-49fc-91d4-5b1ff82a2e52
 feature: Email Setup
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '141'
-ht-degree: 3%
+ht-degree: 10%
 
 ---
 
@@ -23,11 +23,11 @@ ht-degree: 3%
 
    ![](assets/enable-communication-limits-1.png)
 
-1. **[!UICONTROL Communication Limits]**&#x200B;을(를) 클릭합니다.
+1. **[!UICONTROL Communication Limits]**&#x200B;를 클릭합니다.
 
    ![](assets/enable-communication-limits-2.png)
 
-1. **[!UICONTROL Edit]**&#x200B;을(를) 클릭합니다.
+1. **[!UICONTROL Edit]**&#x200B;를 클릭합니다.
 
    ![](assets/enable-communication-limits-3.png)
 
@@ -55,7 +55,7 @@ ht-degree: 3%
    >
    >[작동 중인 전자 메일](/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/make-an-email-operational.md)에 대해 자세히 알아보세요.
 
-1. **[!UICONTROL Save]**&#x200B;을(를) 클릭합니다.
+1. **[!UICONTROL Save]**&#x200B;를 클릭합니다.
 
    ![](assets/enable-communication-limits-7.png)
 

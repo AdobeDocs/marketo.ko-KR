@@ -1,17 +1,17 @@
 ---
 unique-page-id: 2359953
 description: 콘텐츠를 많이 사용한 사용자 - Marketo 문서 - 제품 설명서
-title: 콘텐츠가 소진된 사람
+title: 콘텐츠를 소진한 사용자
 exl-id: d32dfbc0-cac9-4df9-a8f6-45ebdd4a9f79
 feature: Engagement Programs
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '167'
-ht-degree: 0%
+ht-degree: 6%
 
 ---
 
-# 콘텐츠가 소진된 사람 {#people-who-have-exhausted-content}
+# 콘텐츠를 소진한 사용자 {#people-who-have-exhausted-content}
 
 한 사람이 스트림의 모든 콘텐츠를 수신하면 모든 가능성이 고갈되어 더 추가될 때까지 유휴 상태로 대기합니다. 여러 가지 방법으로 &#39;지친&#39; 사람을 찾을 수 있다.
 

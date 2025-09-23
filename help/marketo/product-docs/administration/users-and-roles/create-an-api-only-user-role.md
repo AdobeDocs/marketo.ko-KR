@@ -4,10 +4,10 @@ description: API 전용 사용자 역할 만들기 - Marketo 문서 - 제품 설
 title: API 전용 사용자 역할 만들기
 exl-id: 731e3e85-8f3d-4c76-91be-1506697211a1
 feature: Users and Roles
-source-git-commit: 2b610cc3486b745212b0b1f36018a83214d7ecd7
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
-source-wordcount: '123'
-ht-degree: 0%
+source-wordcount: '116'
+ht-degree: 15%
 
 ---
 
@@ -19,19 +19,19 @@ ht-degree: 0%
 >
 >**관리자 권한 필요**
 
-1. **[!UICONTROL 관리자]** 영역으로 이동합니다.
+1. **[!UICONTROL Admin]** 영역으로 이동합니다.
 
    ![](assets/create-an-api-only-user-role-1.png)
 
-1. **[!UICONTROL 사용자 및 역할]**&#x200B;을 클릭합니다.
+1. **[!UICONTROL Users & Roles]**&#x200B;를 클릭합니다.
 
    ![](assets/create-an-api-only-user-role-2.png)
 
-1. **[!UICONTROL 역할]** 탭을 클릭한 다음 **[!UICONTROL 새 역할]**&#x200B;을 클릭합니다.
+1. **[!UICONTROL Roles]** 탭을 클릭한 다음 **[!UICONTROL New Role]**&#x200B;을(를) 클릭합니다.
 
    ![](assets/create-an-api-only-user-role-3.png)
 
-1. 역할 이름을 입력하고 부여할 API 액세스 권한을 선택한 다음 **[!UICONTROL 만들기]**&#x200B;를 클릭합니다.
+1. 역할 이름을 입력하고 부여할 API 액세스 권한을 선택한 다음 **[!UICONTROL Create]**&#x200B;을(를) 클릭합니다.
 
    ![](assets/create-an-api-only-user-role-4.png)
 

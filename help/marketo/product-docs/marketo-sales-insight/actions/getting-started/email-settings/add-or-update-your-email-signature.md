@@ -1,16 +1,16 @@
 ---
 description: 이메일 서명 추가 또는 업데이트 - Marketo 문서 - 제품 설명서
-title: 전자 메일 서명 추가 또는 업데이트
+title: 이메일 서명 추가 또는 업데이트
 exl-id: 5a8c2ca2-2f27-4478-984b-f6b7c62b178d
 feature: Sales Insight Actions
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '105'
-ht-degree: 0%
+ht-degree: 11%
 
 ---
 
-# 전자 메일 서명 추가 또는 업데이트 {#add-or-update-your-email-signature}
+# 이메일 서명 추가 또는 업데이트 {#add-or-update-your-email-signature}
 
 Marketo Sales에서 이메일을 보내면 이메일 클라이언트에서 이메일을 보낼 때 원활한 경험을 느낄 수 있습니다. 이렇게 하는 가장 좋은 방법은 전자 메일 서명을 추가하는 것입니다.
 

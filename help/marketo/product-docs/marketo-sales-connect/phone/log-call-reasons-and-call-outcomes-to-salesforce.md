@@ -1,12 +1,12 @@
 ---
 description: Salesforce - Marketo 문서 - 제품 설명서에 호출 이유 및 호출 결과 기록
-title: Salesforce에 호출 이유 및 호출 결과 기록
+title: Salesforce에 통화 이유 및 통화 결과 기록
 exl-id: b35acdc2-8ec7-4dec-92b8-58ba7a1ad858
 feature: Marketo Sales Connect
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '415'
-ht-degree: 2%
+ht-degree: 4%
 
 ---
 
@@ -31,11 +31,11 @@ ht-degree: 2%
 
    ![](assets/log-call-reasons-and-call-outcomes-to-salesforce-2.png)
 
-1. **[!UICONTROL Activity Custom Fields]**&#x200B;을(를) 클릭합니다.
+1. **[!UICONTROL Activity Custom Fields]**&#x200B;를 클릭합니다.
 
    ![](assets/log-call-reasons-and-call-outcomes-to-salesforce-3.png)
 
-1. **[!UICONTROL New]**&#x200B;을(를) 클릭합니다.
+1. **[!UICONTROL New]**&#x200B;를 클릭합니다.
 
    ![](assets/log-call-reasons-and-call-outcomes-to-salesforce-4.png)
 
@@ -77,7 +77,7 @@ ht-degree: 2%
 
    ![](assets/log-call-reasons-and-call-outcomes-to-salesforce-11.png)
 
-1. **[!UICONTROL Task Page Layouts]**&#x200B;을(를) 클릭합니다.
+1. **[!UICONTROL Task Page Layouts]**&#x200B;를 클릭합니다.
 
    ![](assets/log-call-reasons-and-call-outcomes-to-salesforce-12.png)
 
@@ -89,7 +89,7 @@ ht-degree: 2%
 
    ![](assets/log-call-reasons-and-call-outcomes-to-salesforce-14.png)
 
-1. **[!UICONTROL Save]**&#x200B;을(를) 클릭합니다.
+1. **[!UICONTROL Save]**&#x200B;를 클릭합니다.
 
    ![](assets/log-call-reasons-and-call-outcomes-to-salesforce-15.png)
 
@@ -101,7 +101,7 @@ ht-degree: 2%
 
    ![](assets/log-call-reasons-and-call-outcomes-to-salesforce-16.png)
 
-1. **[!UICONTROL Object Manager]**&#x200B;을(를) 클릭합니다.
+1. **[!UICONTROL Object Manager]**&#x200B;를 클릭합니다.
 
    ![](assets/log-call-reasons-and-call-outcomes-to-salesforce-17.png)
 
@@ -113,11 +113,11 @@ ht-degree: 2%
 
    ![](assets/log-call-reasons-and-call-outcomes-to-salesforce-19.png)
 
-1. **[!UICONTROL Fields & Relationships]**&#x200B;을(를) 클릭합니다.
+1. **[!UICONTROL Fields & Relationships]**&#x200B;를 클릭합니다.
 
    ![](assets/log-call-reasons-and-call-outcomes-to-salesforce-20.png)
 
-1. **[!UICONTROL New]**&#x200B;을(를) 클릭합니다.
+1. **[!UICONTROL New]**&#x200B;를 클릭합니다.
 
    ![](assets/log-call-reasons-and-call-outcomes-to-salesforce-21.png)
 
@@ -127,7 +127,7 @@ ht-degree: 2%
 
    ![](assets/log-call-reasons-and-call-outcomes-to-salesforce-22.png)
 
-1. **[!UICONTROL Object Manager]**&#x200B;을(를) 클릭합니다.
+1. **[!UICONTROL Object Manager]**&#x200B;를 클릭합니다.
 
    ![](assets/log-call-reasons-and-call-outcomes-to-salesforce-23.png)
 
@@ -139,7 +139,7 @@ ht-degree: 2%
 
    ![](assets/log-call-reasons-and-call-outcomes-to-salesforce-25.png)
 
-1. **[!UICONTROL Page Layouts]**&#x200B;을(를) 클릭합니다.
+1. **[!UICONTROL Page Layouts]**&#x200B;를 클릭합니다.
 
    ![](assets/log-call-reasons-and-call-outcomes-to-salesforce-26.png)
 
@@ -151,7 +151,7 @@ ht-degree: 2%
 
    ![](assets/log-call-reasons-and-call-outcomes-to-salesforce-28.png)
 
-1. **[!UICONTROL Save]**&#x200B;을(를) 클릭합니다.
+1. **[!UICONTROL Save]**&#x200B;를 클릭합니다.
 
    ![](assets/log-call-reasons-and-call-outcomes-to-salesforce-29.png)
 

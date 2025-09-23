@@ -4,10 +4,10 @@ description: 챔피언/챌린저 - 챔피언 기준 정의 - Marketo 문서 - �
 title: 챔피언/챌린저 - 챔피언 기준 정의
 exl-id: 6b2d2568-caf3-41fc-9d50-f7f561cc4865
 feature: Email Editor
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '166'
-ht-degree: 0%
+ht-degree: 4%
 
 ---
 
@@ -51,7 +51,7 @@ ht-degree: 0%
 
    Marketo에서는 이 이메일 프로그램에서 이메일을 보낸 사람에 대해서만 트리거를 사용할 수 있습니다. &quot;[!UICONTROL Was Sent Email]&quot; 필터를 추가할 필요가 없습니다.
 
-1. **[!UICONTROL Close]**&#x200B;을(를) 클릭합니다.
+1. **[!UICONTROL Close]**&#x200B;를 클릭합니다.
 
    ![](assets/image2014-9-15-13-3a4-3a7.png)
 

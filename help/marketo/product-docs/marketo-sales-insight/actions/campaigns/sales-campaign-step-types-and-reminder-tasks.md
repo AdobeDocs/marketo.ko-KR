@@ -1,16 +1,16 @@
 ---
 description: 판매 캠페인 단계 유형 및 미리 알림 작업 - Marketo 문서 - 제품 설명서
-title: 판매 캠페인 단계 유형 및 미리 알림 작업
+title: 세일즈 캠페인 단계 유형 및 알림 작업
 exl-id: 41b19452-ba1a-4ca7-bf22-29314072a346
 feature: Sales Insight Actions
-source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '312'
-ht-degree: 0%
+ht-degree: 5%
 
 ---
 
-# 판매 캠페인 단계 유형 및 미리 알림 작업 {#sales-campaign-step-types-and-reminder-tasks}
+# 세일즈 캠페인 단계 유형 및 알림 작업 {#sales-campaign-step-types-and-reminder-tasks}
 
 ## 판매 캠페인 단계 유형 {#sales-campaign-step-types}
 

@@ -1,17 +1,17 @@
 ---
 unique-page-id: 4720215
 description: Wordpress Enterprise에서 RTP 구현 - Marketo 설명서 - 제품 설명서
-title: Wordpress Enterprise에서 RTP 구현
+title: Wordpress Enterprise에 RTP 구현
 exl-id: 61cfd3f8-0811-4352-9752-0081ce19257b
 feature: Web Personalization
-source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '95'
-ht-degree: 1%
+ht-degree: 11%
 
 ---
 
-# Wordpress Enterprise에서 RTP 구현 {#implementing-rtp-on-wordpress-enterprise}
+# Wordpress Enterprise에 RTP 구현 {#implementing-rtp-on-wordpress-enterprise}
 
 [!UICONTROL RTP tag]을(를) 구현하려면 아래 설치 지침을 따르십시오.
 
@@ -45,4 +45,4 @@ b. 기존 코드 바로 뒤에 RTP Javascript 태그를 붙여 넣습니다.
    >
    >스크립트 자체만 삽입합니다.
 
-1. **[!UICONTROL Update]**&#x200B;을(를) 클릭합니다.
+1. **[!UICONTROL Update]**&#x200B;를 클릭합니다.

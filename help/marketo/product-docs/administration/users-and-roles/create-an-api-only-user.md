@@ -4,10 +4,10 @@ description: API 전용 사용자 만들기 - Marketo 문서 - 제품 설명서
 title: API 전용 사용자 만들기
 exl-id: 23c92255-07a8-41c2-b7b8-8e495d135671
 feature: Users and Roles
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '172'
-ht-degree: 2%
+ht-degree: 12%
 
 ---
 
@@ -31,15 +31,15 @@ ht-degree: 2%
 
    ![](assets/create-an-api-only-user-1.png)
 
-1. **[!UICONTROL Users & Roles]**&#x200B;을(를) 클릭합니다.
+1. **[!UICONTROL Users & Roles]**&#x200B;를 클릭합니다.
 
    ![](assets/create-an-api-only-user-2.png)
 
-1. **[!UICONTROL Invite New User]**&#x200B;을(를) 클릭합니다.
+1. **[!UICONTROL Invite New User]**&#x200B;를 클릭합니다.
 
    ![](assets/create-an-api-only-user-3.png)
 
-1. API 전용 사용자에 대한 이메일, 이름 및 성을 입력합니다. **[!UICONTROL Next]**&#x200B;을(를) 클릭합니다.
+1. API 전용 사용자에 대한 이메일, 이름 및 성을 입력합니다. **[!UICONTROL Next]**&#x200B;를 클릭합니다.
 
    ![](assets/create-an-api-only-user-4.png)
 
@@ -47,11 +47,11 @@ ht-degree: 2%
    >
    >선택적 [!UICONTROL Reason] 또는 [!UICONTROL Access Expiration] 날짜를 추가합니다. 액세스 만료일은 단기 사원에게 편리합니다.
 
-1. **[!UICONTROL API Only]** 역할을 선택하고 **[!UICONTROL API Only]** 확인란을 선택합니다. **[!UICONTROL Next]**&#x200B;을(를) 클릭합니다.
+1. **[!UICONTROL API Only]** 역할을 선택하고 **[!UICONTROL API Only]** 확인란을 선택합니다. **[!UICONTROL Next]**&#x200B;를 클릭합니다.
 
    ![](assets/create-an-api-only-user-5.png)
 
-1. **[!UICONTROL Send]**&#x200B;을(를) 클릭합니다.
+1. **[!UICONTROL Send]**&#x200B;를 클릭합니다.
 
    ![](assets/create-an-api-only-user-6.png)
 

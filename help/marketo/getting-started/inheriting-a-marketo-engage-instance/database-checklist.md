@@ -3,14 +3,14 @@ description: 상속된 인스턴스 데이터베이스 검사 목록 - Marketo �
 title: 상속된 인스턴스 데이터베이스 검사 목록
 feature: Getting Started
 exl-id: 278a6a2f-7b68-4003-8727-129e0dc96c12
-source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '420'
-ht-degree: 2%
+ht-degree: 5%
 
 ---
 
-# 상속된 인스턴스: 데이터베이스 검사 목록 {#inherited-instance-database-checklist}
+# 상속된 인스턴스: 데이터베이스 체크리스트 {#inherited-instance-database-checklist}
 
 구독의 총 인원 수, 마케팅 가능한 사람 및 인기 사용자 확보 소스를 파악합니다. [확인 목록을 다운로드](/help/marketo/getting-started/inheriting-a-marketo-engage-instance/assets/adobe-marketo-engage-inherited-instance-admin-checklist.xlsx)하고 진행 상황을 추적하는 것이 좋습니다.
 

@@ -4,10 +4,10 @@ description: 사람 페이지 열 - Marketo 문서 - 제품 설명서
 title: 사용자 페이지 열
 exl-id: e7d7bae5-dca9-435b-80b8-262b969135af
 feature: Marketo Sales Connect
-source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '232'
-ht-degree: 6%
+ht-degree: 8%
 
 ---
 
@@ -59,7 +59,7 @@ ht-degree: 6%
   </tr>
   <tr>
    <td>[!UICONTROL Company (default)]</td>
-   <td>회사명</td>
+   <td>회사 이름</td>
   </tr>
   <tr>
    <td>[!UICONTROL Campaign (default)]</td>

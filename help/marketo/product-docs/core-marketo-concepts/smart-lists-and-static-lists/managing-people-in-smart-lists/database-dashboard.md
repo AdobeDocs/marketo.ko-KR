@@ -4,10 +4,10 @@ description: 데이터베이스 대시보드 - Marketo 문서 - 제품 설명서
 title: 데이터베이스 대시보드
 exl-id: 44b00d28-a224-4f09-8307-468c14ddb0df
 feature: Smart Lists
-source-git-commit: a3a75e5eaebc081a96ff9a9e1490d520b40ae4ec
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
-source-wordcount: '170'
-ht-degree: 0%
+source-wordcount: '169'
+ht-degree: 2%
 
 ---
 
@@ -21,7 +21,7 @@ ht-degree: 0%
 >
 >* 각 작업 공간에는 자체 데이터베이스 대시보드가 있습니다.
 
-내 Marketo에서 **[!UICONTROL 데이터베이스]**&#x200B;을(를) 선택하십시오.
+내 Marketo에서 **[!UICONTROL Database]**&#x200B;을(를) 선택하십시오.
 
 ![](assets/database-dashboard-1.png)
 

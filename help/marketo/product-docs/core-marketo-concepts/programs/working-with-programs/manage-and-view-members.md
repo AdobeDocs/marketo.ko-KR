@@ -1,17 +1,17 @@
 ---
 unique-page-id: 1147122
 description: 구성원 관리 및 보기 - Marketo 문서 - 제품 설명서
-title: 구성원 관리 및 보기
+title: 멤버 관리 및 보기
 exl-id: 8d6ad815-4022-4d4b-a258-2bc048ca48f9
 feature: Programs
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '238'
-ht-degree: 0%
+ht-degree: 5%
 
 ---
 
-# 구성원 관리 및 보기 {#manage-and-view-members}
+# 멤버 관리 및 보기 {#manage-and-view-members}
 
 멤버 탭을 사용하여 프로그램에서 멤버를 관리하고 볼 수 있습니다.
 
@@ -49,7 +49,7 @@ ht-degree: 0%
 
 ## 그리드에 표시할 열 선택 {#choose-which-columns-are-visible-in-the-grid}
 
-1. **[!UICONTROL View]** 드롭다운을 클릭하고 **[!UICONTROL Create View]**&#x200B;을(를) 선택합니다.
+1. **[!UICONTROL View]** 드롭다운을 클릭하고 **[!UICONTROL Create View]**&#x200B;를 선택합니다.
 
    ![](assets/image2014-10-1-16-3a32-3a43.png)
 
@@ -57,7 +57,7 @@ ht-degree: 0%
 
    ![](assets/image2014-10-1-16-3a36-3a52.png)
 
-1. **[!UICONTROL Create]**&#x200B;을(를) 클릭합니다.
+1. **[!UICONTROL Create]**&#x200B;를 클릭합니다.
 
    ![](assets/image2014-10-1-16-3a38-3a7.png)
 

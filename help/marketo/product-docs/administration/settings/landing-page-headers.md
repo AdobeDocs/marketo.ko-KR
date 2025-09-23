@@ -3,10 +3,10 @@ description: 랜딩 페이지 헤더 - Marketo 문서 - 제품 설명서
 title: 랜딩 페이지 헤더
 exl-id: 58eaa0cd-2a2b-4abe-9180-f60a2a1dcc87
 feature: Administration, Landing Pages
-source-git-commit: 02b2e39580c5eac63de4b4b7fdaf2a835fdd4ba5
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
-source-wordcount: '131'
-ht-degree: 0%
+source-wordcount: '122'
+ht-degree: 5%
 
 ---
 
@@ -14,19 +14,19 @@ ht-degree: 0%
 
 랜딩 페이지 도메인에서 HTTP 헤더 중 일부를 사용자 지정하려면 아래 단계를 따르십시오.
 
-1. Marketo에서 **[!UICONTROL 관리자]**&#x200B;를 클릭합니다.
+1. Marketo에서 **[!UICONTROL Admin]**&#x200B;을(를) 클릭합니다.
 
    ![](assets/landing-page-headers-1.png)
 
-1. **[!UICONTROL 랜딩 페이지]**&#x200B;를 클릭합니다.
+1. **[!UICONTROL Landing Pages]**&#x200B;를 클릭합니다.
 
    ![](assets/landing-page-headers-2.png)
 
-1. 랜딩 페이지 HTTP 헤더 옆의 **[!UICONTROL 편집]**&#x200B;을 클릭합니다.
+1. 랜딩 페이지 HTTP 헤더 옆의 **[!UICONTROL Edit]**&#x200B;을(를) 클릭합니다.
 
    ![](assets/landing-page-headers-3.png)
 
-1. 원하는 설정을 선택하고 완료되면 **[!UICONTROL 저장]**&#x200B;을 클릭하세요.
+1. 원하는 설정을 선택하고 완료되면 **[!UICONTROL Save]**&#x200B;을(를) 클릭합니다.
 
    ![](assets/landing-page-headers-4.png)
 
@@ -37,7 +37,7 @@ ht-degree: 0%
  </tr>
  <tr>
   <td><strong>[!UICONTROL X-Frame-Options]</strong></td>
-  <td>호스팅된 Marketo Engage 에셋을 외부 웹 페이지에 임베드할 수 있는지 여부를 정의할 수 있습니다</td>
+  <td>Marketo Engage에서 호스팅하는 자산을 외부 웹 페이지에 포함할 수 있는지 여부를 정의할 수 있습니다</td>
  </tr>
 </table>
 

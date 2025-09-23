@@ -4,10 +4,10 @@ description: 이벤트 채널 편집 - Marketo 문서 - 제품 설명서
 title: 이벤트 채널 편집
 exl-id: 250cc42b-5d83-4741-8b2b-56134171f3a9
 feature: Events
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '175'
-ht-degree: 1%
+ht-degree: 5%
 
 ---
 
@@ -41,7 +41,7 @@ ht-degree: 1%
 
    ![](assets/tradeshowchange.png)
 
-1. **[!UICONTROL Save]**&#x200B;을(를) 클릭합니다.
+1. **[!UICONTROL Save]**&#x200B;를 클릭합니다.
 
    ![](assets/2017-06-13-09-35-53.png)
 
@@ -61,7 +61,7 @@ ht-degree: 1%
 
    ![](assets/tradeshowchange.png)
 
-1. **[!UICONTROL Save]**&#x200B;을(를) 클릭합니다.
+1. **[!UICONTROL Save]**&#x200B;를 클릭합니다.
 
    ![](assets/2017-06-13-09-35-53.png)
 

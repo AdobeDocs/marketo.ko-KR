@@ -4,7 +4,7 @@ description: Marketo [!UICONTROL Sales Insight] 플러그 인 관리자 지정 -
 title: Marketo [!UICONTROL Sales Insight] 플러그 인 관리자 지정
 exl-id: 63d8d611-5ce7-4216-9e97-6051dcfcb948
 feature: Marketo Sales Insights
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '76'
 ht-degree: 2%
@@ -23,7 +23,7 @@ ht-degree: 2%
 
    ![](assets/image2016-7-25-14-3a2-3a53.png)
 
-1. **[!UICONTROL Specify Plugin Contact]**&#x200B;을(를) 클릭합니다.
+1. **[!UICONTROL Specify Plugin Contact]**&#x200B;를 클릭합니다.
 
    ![](assets/image2016-7-25-14-3a7-3a27.png)
 
@@ -31,7 +31,7 @@ ht-degree: 2%
 
    ![](assets/image2016-8-25-11-3a21-3a38.png)
 
-1. **[!UICONTROL Save]**&#x200B;을(를) 클릭합니다.
+1. **[!UICONTROL Save]**&#x200B;를 클릭합니다.
 
    ![](assets/image2016-8-25-11-3a17-3a7.png)
 

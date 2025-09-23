@@ -4,14 +4,14 @@ description: 릴리스 노트 - 2012년 4월 - Marketo 문서 - 제품 설명서
 title: 릴리스 노트 - 2012년 4월
 exl-id: 2568911a-071f-42b3-a4be-e951c9fc2ac5
 feature: Release Information
-source-git-commit: ecd225af3ecfd7cb9159faf5a9d384d47ee6312c
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '364'
-ht-degree: 0%
+ht-degree: 1%
 
 ---
 
-# 릴리스 노트: 2012년 4월 {#release-notes-april}
+# 릴리스 정보: 2012년 4월 {#release-notes-april}
 
 ## 세그먼테이션 필터 및 트리거 {#segmentation-filters-and-triggers}
 

@@ -4,7 +4,7 @@ description: 인앱 메시지 배경 설정 - Marketo 문서 - 제품 설명서
 title: 인앱 메시지 배경 설정
 exl-id: 0cb10432-5611-4efe-a605-9a5a57f1bc7c
 feature: Mobile Marketing
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '296'
 ht-degree: 0%
@@ -35,7 +35,7 @@ ht-degree: 0%
 
    ![](assets/image2016-5-9-8-3a52-3a43.png)
 
-1. Design Studio에 업로드된 파일 중에서 선택합니다. **[!UICONTROL Select]**&#x200B;을(를) 클릭합니다.
+1. Design Studio에 업로드된 파일 중에서 선택합니다. **[!UICONTROL Select]**&#x200B;를 클릭합니다.
 
    ![](assets/image2016-5-9-9-3a0-3a2.png)
 

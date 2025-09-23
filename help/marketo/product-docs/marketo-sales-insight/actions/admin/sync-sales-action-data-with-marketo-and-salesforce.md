@@ -1,15 +1,15 @@
 ---
 description: 판매 작업 데이터를 Marketo 및 Salesforce과 동기화 - Marketo 문서 - 제품 설명서
-title: 영업 활동 데이터를 Marketo 및 Salesforce과 동기화
+title: Sales Action 데이터를 Marketo 및 Salesforce와 동기화
 exl-id: bb213d50-be22-492d-b74c-b8cfb834b2ca
-source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '1068'
-ht-degree: 1%
+ht-degree: 3%
 
 ---
 
-# 영업 활동 데이터를 Marketo 및 Salesforce과 동기화 {#sync-sales-action-data-with-marketo-and-salesforce}
+# Sales Action 데이터를 Marketo 및 Salesforce와 동기화 {#sync-sales-action-data-with-marketo-and-salesforce}
 
 판매 Insight 작업에 대한 데이터 통합 필드 동기화를 사용하면 시스템에서 개인 정보를 Marketo Engage 데이터베이스에서 판매 Insight 작업 데이터베이스로 가져올 수 있습니다.
 

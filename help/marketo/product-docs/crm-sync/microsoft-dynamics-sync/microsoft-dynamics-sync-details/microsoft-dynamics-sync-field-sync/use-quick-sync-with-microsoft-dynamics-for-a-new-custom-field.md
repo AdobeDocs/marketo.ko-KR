@@ -1,13 +1,13 @@
 ---
 unique-page-id: 10098379
 description: 새 사용자 정의 필드 - Microsoft Dynamics 문서 - 제품 설명서에 대해 Marketo과 빠른 동기화 사용
-title: 새 사용자 정의 필드에 대해 Microsoft Dynamics과 빠른 동기화 사용
+title: 새 사용자 정의 필드에 Microsoft Dynamics와 빠른 동기화 사용
 exl-id: c98f1443-c0dd-40e1-919b-f8110088b38a
 feature: Microsoft Dynamics
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '336'
-ht-degree: 1%
+ht-degree: 5%
 
 ---
 
@@ -27,7 +27,7 @@ ht-degree: 1%
 
    ![](assets/image2016-8-19-11-3a14-3a5.png)
 
-1. **[!UICONTROL Microsoft Dynamics]**&#x200B;을(를) 클릭합니다.
+1. **[!UICONTROL Microsoft Dynamics]**&#x200B;를 클릭합니다.
 
    ![](assets/image2016-8-19-11-3a15-3a8.png)
 
@@ -55,7 +55,7 @@ ht-degree: 1%
 
 기존 필드를 동기화하되, 제한된 데이터 세트에만 동기화하려면 어떻게 해야 합니까? 방법은 다음과 같습니다.
 
-1. 기존 필드에 대한 확인란의 선택을 취소합니다. **[!UICONTROL Save]**&#x200B;을(를) 클릭합니다.
+1. 기존 필드에 대한 확인란의 선택을 취소합니다. **[!UICONTROL Save]**&#x200B;를 클릭합니다.
 
    ![](assets/image2016-8-25-16-3a16-3a32.png)
 
@@ -63,11 +63,11 @@ ht-degree: 1%
 
    ![](assets/select-field-reselect-hand.png)
 
-1. **[!UICONTROL Advanced Sync]**&#x200B;을(를) 클릭합니다.
+1. **[!UICONTROL Advanced Sync]**&#x200B;를 클릭합니다.
 
    ![](assets/image2016-8-25-15-3a52-3a9.png)
 
-1. **[!UICONTROL Updated]**&#x200B;을(를) 선택하고 날짜 선택기를 사용하여 날짜 범위를 선택하십시오. **[!UICONTROL Save]**&#x200B;을(를) 클릭합니다.
+1. **[!UICONTROL Updated]**&#x200B;을(를) 선택하고 날짜 선택기를 사용하여 날짜 범위를 선택하십시오. **[!UICONTROL Save]**&#x200B;를 클릭합니다.
 
    ![](assets/image2016-8-25-16-3a0-3a3.png)
 

@@ -1,16 +1,16 @@
 ---
 description: Sales Insight 작업 사용 온보딩 안내서 - Marketo 문서 - 제품 설명서
-title: Sales Insight Actions 사용 온보딩 안내서
+title: Sales Insight Actions 사용자 온보딩 안내서
 exl-id: ace517b6-3a06-4e2e-b545-8c95ad0cf457
 feature: Sales Insight Actions
-source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '299'
-ht-degree: 2%
+ht-degree: 6%
 
 ---
 
-# Sales Insight Actions 사용 온보딩 안내서 {#sales-insight-actions-user-onboarding-guide}
+# Sales Insight Actions 사용자 온보딩 안내서 {#sales-insight-actions-user-onboarding-guide}
 
 >[!NOTE]
 >
@@ -27,7 +27,7 @@ ht-degree: 2%
 
    ![](assets/sales-insight-actions-user-onboarding-guide-1.png)
 
-1. **[!UICONTROL Activate Account with Salesforce]**&#x200B;을(를) 클릭합니다.
+1. **[!UICONTROL Activate Account with Salesforce]**&#x200B;를 클릭합니다.
 
    ![](assets/sales-insight-actions-user-onboarding-guide-2.png)
 
@@ -39,15 +39,15 @@ ht-degree: 2%
 >
 >[!DNL Salesforce] 전자 메일 ID와 판매 계정 전자 메일 ID는 같아야 합니다.
 
-1. **[!UICONTROL Allow]**&#x200B;을(를) 클릭합니다.
+1. **[!UICONTROL Allow]**&#x200B;를 클릭합니다.
 
    ![](assets/sales-insight-actions-user-onboarding-guide-4.png)
 
-1. **[!UICONTROL Start]**&#x200B;을(를) 클릭합니다.
+1. **[!UICONTROL Start]**&#x200B;를 클릭합니다.
 
    ![](assets/sales-insight-actions-user-onboarding-guide-5.png)
 
-1. **[!UICONTROL Next]**&#x200B;을(를) 클릭합니다.
+1. **[!UICONTROL Next]**&#x200B;를 클릭합니다.
 
    ![](assets/sales-insight-actions-user-onboarding-guide-6.png)
 
@@ -63,7 +63,7 @@ ht-degree: 2%
 
    ![](assets/sales-insight-actions-user-onboarding-guide-9.png)
 
-1. **[!UICONTROL Continue]**&#x200B;을(를) 클릭합니다.
+1. **[!UICONTROL Continue]**&#x200B;를 클릭합니다.
 
    ![](assets/sales-insight-actions-user-onboarding-guide-10.png)
 
@@ -79,7 +79,7 @@ ht-degree: 2%
 
    ![](assets/sales-insight-actions-user-onboarding-guide-12.png)
 
-1. **[!UICONTROL Finish]**&#x200B;을(를) 클릭합니다.
+1. **[!UICONTROL Finish]**&#x200B;를 클릭합니다.
 
    ![](assets/sales-insight-actions-user-onboarding-guide-13.png)
 

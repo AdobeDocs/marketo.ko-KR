@@ -1,17 +1,17 @@
 ---
 unique-page-id: 10094404
 description: Field Organizer - Marketo 문서 - 제품 설명서를 사용하여 사용자 정의 필드 그룹 만들기
-title: Field Organizer를 사용하여 사용자 정의 필드 그룹 만들기
+title: 필드 조직자를 사용하여 사용자 정의 필드 그룹 만들기
 exl-id: 0425a446-2c92-4a2a-85c4-e05c22118035
 feature: Reporting, Revenue Cycle Analytics
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '951'
-ht-degree: 3%
+ht-degree: 5%
 
 ---
 
-# Field Organizer를 사용하여 사용자 정의 필드 그룹 만들기 {#create-custom-field-groups-using-the-field-organizer}
+# 필드 조직자를 사용하여 사용자 정의 필드 그룹 만들기 {#create-custom-field-groups-using-the-field-organizer}
 
 수익 주기 탐색기의 모델 성과 분석(리드) 영역에서 보고를 위해 사용자 정의 필드 그룹을 활성화하려면 먼저 Marketo 리드 관리의 필드 구성 관리자를 통해 표준 또는 사용자 정의 필드를 보고용 그룹으로 분류해야 합니다. 리드 및 회사 속성에만 적용됩니다.
 새 필드 구성자 대화 상자의 필드 드롭다운에서 표준 또는 사용자 정의 필드를 선택하면 그룹화할 필드와 연결된 Marketo Lead Management 데이터 유형이 필드 구성자에서 사용할 수 있는 세 개의 편집기(문자열, 정수 또는 날짜) 중 하나와 매핑됩니다.
@@ -25,10 +25,10 @@ ht-degree: 3%
 | URL | 문자열 |
 | 참조 | 지원되지 않음 |
 | 통화 | 정수 |
-| 날짜/시간 | 일자 |
+| 날짜/시간 | Date |
 | 부울 | 지원되지 않음 |
 | 전화 | 문자열 |
-| 일자 | 일자 |
+| Date | Date |
 | 부동 | 정수 |
 | 계산됨 | 지원되지 않음 |
 
@@ -36,7 +36,7 @@ ht-degree: 3%
 
 ## 사용자 정의 필드 그룹 만들기 - 문자열 편집기 {#create-custom-field-group-string-editor}
 
-1. **[!UICONTROL Lead Database]**&#x200B;을(를) 클릭합니다.
+1. **[!UICONTROL Lead Database]**&#x200B;를 클릭합니다.
 
    ![](assets/one.png)
 
@@ -48,7 +48,7 @@ ht-degree: 3%
 
    ![](assets/three.png)
 
-1. **[!UICONTROL Create]**&#x200B;을(를) 클릭합니다.
+1. **[!UICONTROL Create]**&#x200B;를 클릭합니다.
 
    ![](assets/four.png)
 
@@ -92,7 +92,7 @@ ht-degree: 3%
 
 ## 사용자 정의 필드 그룹 만들기 - 정수 편집기 {#create-custom-field-group-integer-editor}
 
-1. **[!UICONTROL Lead Database]**&#x200B;을(를) 클릭합니다.
+1. **[!UICONTROL Lead Database]**&#x200B;를 클릭합니다.
 
    ![](assets/one.png)
 
@@ -104,7 +104,7 @@ ht-degree: 3%
 
    ![](assets/nine.png)
 
-1. **[!UICONTROL Create]**&#x200B;을(를) 클릭합니다.
+1. **[!UICONTROL Create]**&#x200B;를 클릭합니다.
 
    ![](assets/9.5.png)
 
@@ -112,13 +112,13 @@ ht-degree: 3%
 
    ![](assets/9.6.png)
 
-1. 정수 편집기 위의 기본 사용자 지정 그룹 이름을 클릭하여 이름을 사용자 지정합니다. 예를 들어 &quot;Annual Revenue Group&quot;의 이름을 &quot;Annual Revenue by Size&quot;로 바꿀 수 있습니다. **[!UICONTROL Save]**&#x200B;을(를) 클릭합니다.
+1. 정수 편집기 위의 기본 사용자 지정 그룹 이름을 클릭하여 이름을 사용자 지정합니다. 예를 들어 &quot;Annual Revenue Group&quot;의 이름을 &quot;Annual Revenue by Size&quot;로 바꿀 수 있습니다. **[!UICONTROL Save]**&#x200B;를 클릭합니다.
 
    ![](assets/eleven.png)
 
    정수 편집기를 사용하면 여러 하위 그룹을 만들어 크기별로 각 하위 그룹을 정의할 수 있습니다. 이 예에서는 Small, Medium 및 Enterprise 비즈니스에 대해 세 개의 그룹이 생성됩니다.
 
-1. 첫 번째 그룹을 추가하려면 **[!UICONTROL Group Name]** 필드에 이름을 입력하고(예: Small) **[!UICONTROL Group Range]** 필드에 최대값을 입력합니다(예: 200000). **[!UICONTROL Add Group]**&#x200B;을(를) 클릭합니다.
+1. 첫 번째 그룹을 추가하려면 **[!UICONTROL Group Name]** 필드에 이름을 입력하고(예: Small) **[!UICONTROL Group Range]** 필드에 최대값을 입력합니다(예: 200000). **[!UICONTROL Add Group]**&#x200B;를 클릭합니다.
 
    ![](assets/twelve.png)
 
@@ -146,7 +146,7 @@ ht-degree: 3%
 
 ## 사용자 정의 필드 그룹 만들기 - 날짜 편집기 {#create-custom-field-group-date-editor}
 
-1. **[!UICONTROL Lead Database]**&#x200B;을(를) 클릭합니다.
+1. **[!UICONTROL Lead Database]**&#x200B;를 클릭합니다.
 
    ![](assets/one.png)
 
@@ -158,7 +158,7 @@ ht-degree: 3%
 
    ![](assets/fourteen.png)
 
-1. **[!UICONTROL Create]**&#x200B;을(를) 클릭합니다.
+1. **[!UICONTROL Create]**&#x200B;를 클릭합니다.
 
    ![](assets/14.5.png)
 
@@ -166,13 +166,13 @@ ht-degree: 3%
 
    ![](assets/14.6.png)
 
-1. 날짜 편집기 위의 기본 사용자 지정 그룹 이름을 클릭하여 이름을 사용자 지정합니다. 예를 들어 &quot;획득 날짜 그룹&quot;의 이름을 &quot;획득 날짜 카테고리&quot;로 변경할 수 있습니다. **[!UICONTROL Save]**&#x200B;을(를) 클릭합니다.
+1. 날짜 편집기 위의 기본 사용자 지정 그룹 이름을 클릭하여 이름을 사용자 지정합니다. 예를 들어 &quot;획득 날짜 그룹&quot;의 이름을 &quot;획득 날짜 카테고리&quot;로 변경할 수 있습니다. **[!UICONTROL Save]**&#x200B;를 클릭합니다.
 
    ![](assets/fifteen.png)
 
    날짜 편집기를 사용하면 여러 하위 그룹을 만들고 날짜별로 각 하위 그룹을 정의할 수 있습니다. 이 예에서는 Q1-15 리드, Q2-15 리드 및 Q3-15 리드의 세 가지 그룹이 만들어집니다.
 
-1. 첫 번째 그룹을 추가하려면 **[!UICONTROL Group Name]** 필드에 이름을 입력하고(예: Q1-15 리드) 날짜 필드에 리드를 획득한 날짜 또는 그 이전 날짜를 입력합니다(예: Q1-15의 마지막 날 2015/3/31). **[!UICONTROL Add Group]**&#x200B;을(를) 클릭합니다.
+1. 첫 번째 그룹을 추가하려면 **[!UICONTROL Group Name]** 필드에 이름을 입력하고(예: Q1-15 리드) 날짜 필드에 리드를 획득한 날짜 또는 그 이전 날짜를 입력합니다(예: Q1-15의 마지막 날 2015/3/31). **[!UICONTROL Add Group]**&#x200B;를 클릭합니다.
 
    ![](assets/sixteen.png)
 

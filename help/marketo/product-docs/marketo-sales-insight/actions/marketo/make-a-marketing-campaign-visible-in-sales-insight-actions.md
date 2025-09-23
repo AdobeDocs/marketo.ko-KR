@@ -1,20 +1,20 @@
 ---
-description: 마케팅 캠페인을 판매 통찰력 작업 - Marketo 문서 - 제품 설명서에 표시
-title: 마케팅 캠페인을 판매 통찰력 작업에 표시
+description: 마케팅 캠페인을 판매 Insight 작업 - Marketo 문서 - 제품 설명서에 표시
+title: 마케팅 캠페인을 판매 Insight 작업에 표시
 exl-id: 223baca3-159e-4f0d-b26f-f4c924a39fc3
 feature: Sales Insight Actions
-source-git-commit: c6132bf5b393df38700ad9dd6f0c6414860e8bb6
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '300'
 ht-degree: 0%
 
 ---
 
-# 마케팅 캠페인을 판매 통찰력 작업에 표시 {#make-a-marketing-campaign-visible-in-sales-insight-actions}
+# 마케팅 캠페인을 판매 Insight 작업에 표시 {#make-a-marketing-campaign-visible-in-sales-insight-actions}
 
 캠페인이 표시되는 경우에만 공유할 수 있습니다.
 
-Sales Insight Actions 를 사용하면 toutapp.com 이라는 새 영업 앱에 액세스할 수 있습니다. 이 앱은 사용자에게 새 작업 기능 집합을 제공하지만 핵심 버전의 Sales Insights에서 사용할 수 있는 _Marketing Campaign에 추가_ 기능도 상속합니다. 사용자가 마케팅 캠페인에 추가 기능(toutapp.com 또는 MSI SFDC 패키지 경험)에 액세스할 수 있는 위치에 따라 Marketo 캠페인을 다르게 구성해야 하므로 이를 염두에 두어야 합니다. 자세한 내용은 4단계의 참고 사항을 참조하십시오.
+Sales Insight Actions 을 사용하면 사용자가 toutapp.com 이라는 새 sales 앱에 액세스할 수 있습니다. 이 앱은 사용자에게 새 작업 기능 집합을 제공하지만 핵심 버전의 Sales Insights에서 사용할 수 있는 _Marketing Campaign에 추가_ 기능도 상속합니다. 사용자가 마케팅 캠페인에 추가 기능(toutapp.com 또는 MSI SFDC 패키지 경험)에 액세스할 수 있는 위치에 따라 Marketo 캠페인을 다르게 구성해야 하므로 이를 염두에 두어야 합니다. 자세한 내용은 4단계의 참고 사항을 참조하십시오.
 
 1. 공유할 캠페인을 선택(또는 생성)합니다.
 
@@ -34,7 +34,7 @@ Sales Insight Actions 를 사용하면 toutapp.com 이라는 새 영업 앱에 �
 
    >[!NOTE]
    >
-   >toutapp.com 웹 앱에서 _마케팅 캠페인에 추가_&#x200B;를 사용하는 사용자에게 마케팅 캠페인을 표시하려면(Marketo Sales Outbox 개체를 통해 CRM에 웹 앱을 임베드한 경우도 포함) 캠페인 요청 소스를 &quot;웹 서비스 API&quot;로 설정하십시오. 사용자가 잠재 고객, 연락처, 계정 페이지의 Salesforce에 있는 MSI 패널에서 작업을 사용하거나 잠재 고객 및 연락처 목록 보기의 대량 작업 버튼을 사용할 때 마케팅 캠페인이 표시되도록 하려면 캠페인 요청 소스를 &quot;Sales Insight&quot;로 업데이트하십시오
+   >toutapp.com 웹 앱에서 _마케팅 캠페인에 추가_&#x200B;를 사용하는 사용자에게 마케팅 캠페인을 표시하려면(Marketo Sales Outbox 개체를 통해 CRM에 웹 앱을 임베드한 경우도 포함) 캠페인 요청 소스를 &quot;웹 서비스 API&quot;로 설정하십시오. 사용자가 잠재 고객, 연락처, 계정 페이지의 Salesforce에 있는 MSI 패널에서 작업을 사용하거나 잠재 고객 및 연락처 목록 보기의 대량 작업 버튼을 사용할 때 마케팅 캠페인이 표시되도록 하려면 캠페인 요청 소스를 &quot;판매 Insight&quot;로 업데이트하십시오
 
 1. **흐름** 탭을 클릭합니다.
 

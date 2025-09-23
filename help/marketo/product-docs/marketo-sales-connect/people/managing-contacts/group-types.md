@@ -4,10 +4,10 @@ description: 그룹 유형 - Marketo 문서 - 제품 설명서
 title: 그룹 유형
 exl-id: 70b59c5d-f753-4b0d-b861-b2de379839a2
 feature: Marketo Sales Connect
-source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '84'
-ht-degree: 2%
+ht-degree: 7%
 
 ---
 

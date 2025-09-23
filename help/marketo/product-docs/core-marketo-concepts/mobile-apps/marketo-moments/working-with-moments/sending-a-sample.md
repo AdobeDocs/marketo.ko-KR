@@ -1,17 +1,17 @@
 ---
 unique-page-id: 8783561
 description: 샘플 보내기 - Marketo 문서 - 제품 설명서
-title: 샘플 보내기
+title: 샘플 전송
 exl-id: 9b4cdb6b-9969-4427-9ae3-f6d08430f10f
 feature: Mobile Marketing
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '125'
-ht-degree: 1%
+ht-degree: 6%
 
 ---
 
-# 샘플 보내기 {#sending-a-sample}
+# 샘플 전송 {#sending-a-sample}
 
 이메일 순간 샘플을 다른 사람과 직접 공유할 수 있습니다. 두 가지 방법이 있습니다.
 

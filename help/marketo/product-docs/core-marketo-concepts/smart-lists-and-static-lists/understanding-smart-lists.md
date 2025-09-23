@@ -4,10 +4,10 @@ description: 스마트 목록 이해 - Marketo 문서 - 제품 설명서
 title: 스마트 목록 이해
 exl-id: 8b7fd845-96d8-4b53-9ad0-118cf55be24a
 feature: Smart Lists
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '209'
-ht-degree: 0%
+ht-degree: 2%
 
 ---
 

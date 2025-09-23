@@ -1,17 +1,17 @@
 ---
 unique-page-id: 2359424
 description: 영업 담당자에게 알림 - Marketo 문서 - 제품 설명서
-title: 영업 담당자에게 알림
+title: 영업 담당자에게 경고
 exl-id: 4ad7d7b8-ee1e-4605-b4e0-e72a7e573c05
 feature: Getting Started
-source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '348'
-ht-degree: 0%
+ht-degree: 8%
 
 ---
 
-# 영업 담당자에게 알림 {#alert-the-sales-rep}
+# 영업 담당자에게 경고 {#alert-the-sales-rep}
 
 ## 임무: 웹 사이트에서 양식을 작성하는 경우 영업 담당자에게 알립니다. {#mission-alert-the-sales-rep-when-a-person-fills-out-a-form-on-your-web-site}
 
@@ -31,7 +31,7 @@ ht-degree: 0%
 
    ![](assets/alert-the-sales-rep-2.png)
 
-1. **[!UICONTROL Email]**&#x200B;을(를) 클릭합니다.
+1. **[!UICONTROL Email]**&#x200B;를 클릭합니다.
 
    ![](assets/alert-the-sales-rep-3.png)
 
@@ -63,11 +63,11 @@ ht-degree: 0%
    >
    >{{SP_Send_Alert_Info}}은(는) 경고 전자 메일에 대한 특수 토큰입니다. 자세한 내용은 [경고 정보 보내기 토큰 사용](/help/marketo/product-docs/email-marketing/general/using-tokens/use-the-send-alert-info-token.md){target="_blank"}{target="_blank"}을 참조하세요.
 
-1. **[!UICONTROL Save]**&#x200B;을(를) 클릭합니다.
+1. **[!UICONTROL Save]**&#x200B;를 클릭합니다.
 
    ![](assets/alert-the-sales-rep-10.png)
 
-1. **[!UICONTROL Email Actions]** 드롭다운을 클릭하고 **[!UICONTROL Approve and Close]**&#x200B;을(를) 선택합니다.
+1. **[!UICONTROL Email Actions]** 드롭다운을 클릭하고 **[!UICONTROL Approve and Close]**&#x200B;를 선택합니다.
 
    ![](assets/alert-the-sales-rep-11.png)
 
@@ -109,7 +109,7 @@ ht-degree: 0%
    >
    >같은 사람이 경고를 여러 번 트리거할 수 있도록 하려면 **[!UICONTROL Qualification Rules]**&#x200B;을(를) **[!UICONTROL every time]**(으)로 설정하십시오(스마트 캠페인 편집).
 
-1. 확인 화면에서 **[!UICONTROL Activate]**&#x200B;을(를) 클릭합니다.
+1. 확인 화면에서 **[!UICONTROL Activate]**&#x200B;를 클릭합니다.
 
    ![](assets/alert-the-sales-rep-20.png)
 
@@ -133,7 +133,7 @@ ht-degree: 0%
    >
    >연락처 정보를 보려면 Marketo에서 **[!UICONTROL Person Info]** 탭을 클릭하십시오.
 
-## 임무 완료! {#mission-complete}
+## 미션 완료 {#mission-complete}
 
 <br> 
 

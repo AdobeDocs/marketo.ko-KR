@@ -4,14 +4,14 @@ description: 릴리스 노트 - 2014년 8월 - Marketo 문서 - 제품 설명서
 title: 릴리스 노트 - 2014년 8월
 exl-id: 789af65d-f42a-4500-bebc-fc4dd709379d
 feature: Release Information
-source-git-commit: ecd225af3ecfd7cb9159faf5a9d384d47ee6312c
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
-source-wordcount: '399'
-ht-degree: 0%
+source-wordcount: '398'
+ht-degree: 1%
 
 ---
 
-# 릴리스 노트: 2014년 8월 {#release-notes-august}
+# 릴리스 정보: 2014년 8월 {#release-notes-august}
 
 다음 기능은 2014년 8월 릴리스에 포함되어 있습니다. Marketo 버전에서 사용 가능한 기능이 있는지 확인하십시오. 자세한 기능 설명서에 대한 링크를 보려면 릴리스 이후 다시 돌아오십시오.
 
@@ -69,7 +69,7 @@ ht-degree: 0%
 
 ![](assets/image2014-9-16-12-3a23-3a43.png)
 
-## Enhanced 1:1 세그멘테이션 및 타깃팅 {#enhanced-segmentation-and-targeting}
+## 향상된 1:1 세분화 및 타깃팅 {#enhanced-segmentation-and-targeting}
 
 이제 알려진 방문자를 타깃팅하는 데 고급 필터 연산자를 사용할 수 있습니다.
 

@@ -1,41 +1,41 @@
 ---
 unique-page-id: 2360337
 description: 연결된 문자열(수식) 필드 만들기 및 사용 - Marketo 문서 - 제품 설명서
-title: 연결된 문자열(공식) 필드 만들기 및 사용
+title: 연결된 문자열(수식) 필드 만들기 및 사용
 exl-id: 779fbc56-a913-422a-a778-d86cc3ed7d48
 feature: Field Management
-source-git-commit: 9181a599ae715e9ffcfd84d8316dfa1c094329a6
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
-source-wordcount: '170'
-ht-degree: 0%
+source-wordcount: '158'
+ht-degree: 13%
 
 ---
 
-# 연결된 문자열(공식) 필드 만들기 및 사용 {#create-and-use-a-concatenated-string-formula-field}
+# 연결된 문자열(수식) 필드 만들기 및 사용 {#create-and-use-a-concatenated-string-formula-field}
 
-여러 필드의 값을 결합하거나 Marketo Engage 수식 필드를 사용하여 조건부 값을 만들 수 있습니다.
+여러 필드의 값을 결합하거나 Marketo Engage 공식 필드를 사용하여 조건부 값을 작성할 수 있습니다.
 
-1. **[!UICONTROL 관리자]** 영역으로 이동합니다.
+1. **[!UICONTROL Admin]** 영역으로 이동합니다.
 
    ![](assets/create-and-use-a-concatenated-string-formula-field-1.png)
 
-1. **[!UICONTROL 필드 관리]**&#x200B;를 클릭합니다.
+1. **[!UICONTROL Field Management]**&#x200B;를 클릭합니다.
 
    ![](assets/create-and-use-a-concatenated-string-formula-field-2.png)
 
-1. **[!UICONTROL 새 사용자 지정 필드]**&#x200B;를 클릭합니다.
+1. **[!UICONTROL New Custom Field]**&#x200B;를 클릭합니다.
 
    ![](assets/create-and-use-a-concatenated-string-formula-field-3.png)
 
-1. **[!UICONTROL Type]**&#x200B;에 대해 **[!UICONTROL 수식]**&#x200B;을 선택하세요.
+1. **[!UICONTROL Formula]**&#x200B;에 대해 **[!UICONTROL Type]**&#x200B;을(를) 선택합니다.
 
    ![](assets/create-and-use-a-concatenated-string-formula-field-4.png)
 
-1. 필드에 **[!UICONTROL 이름]**&#x200B;을 입력한 다음 **[!UICONTROL 만들기]**&#x200B;를 클릭합니다.
+1. 필드에 **[!UICONTROL Name]**&#x200B;을(를) 입력한 다음 **[!UICONTROL Create]**&#x200B;을(를) 클릭합니다.
 
    ![](assets/create-and-use-a-concatenated-string-formula-field-5.png)
 
-1. 수식 필드를 찾아 선택한 다음 **[!UICONTROL 규칙 편집]**&#x200B;을 클릭합니다.
+1. 수식 필드를 찾아 선택한 다음 **[!UICONTROL Edit Rules]**&#x200B;을(를) 클릭합니다.
 
    ![](assets/create-and-use-a-concatenated-string-formula-field-6.png)
 
@@ -45,7 +45,7 @@ ht-degree: 0%
 
    >[!TIP]
    >
-   >흐름 단계[&#128279;](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/use-tokens-in-flow-steps.md)에 대한 토큰에 대해 자세히 알아보세요.
+   >흐름 단계[에 대한 ](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/use-tokens-in-flow-steps.md)토큰에 대해 자세히 알아보세요.
 
 1. 이제 공식 필드를 이메일에 토큰으로 추가할 수 있습니다.
 

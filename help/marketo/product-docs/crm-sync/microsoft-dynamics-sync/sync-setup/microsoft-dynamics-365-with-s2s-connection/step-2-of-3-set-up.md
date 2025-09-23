@@ -4,7 +4,7 @@ description: 2단계/3단계 - 서버 간 연결을 통해 Marketo 솔루션 설
 title: 2/3단계 - 서버 간 연결을 통해 Marketo 솔루션 설정
 exl-id: 324e2142-2aa2-4548-9a04-683832e3ba69
 feature: Microsoft Dynamics
-source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '496'
 ht-degree: 0%
@@ -72,7 +72,7 @@ ht-degree: 0%
    >
    >설정 메뉴에 &quot;Marketo 구성&quot;이 표시되지 않으면 페이지를 새로 고치십시오. 그래도 작동하지 않으면 [Marketo 솔루션을 다시 게시](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/microsoft-dynamics-365-with-s2s-connection/step-1-of-3-install.md){target="_blank"}하거나 로그아웃했다가 다시 로그인하세요.
 
-1. **[!UICONTROL Default]**&#x200B;을(를) 클릭합니다.
+1. **[!UICONTROL Default]**&#x200B;를 클릭합니다.
 
    ![](assets/fifteen.png)
 

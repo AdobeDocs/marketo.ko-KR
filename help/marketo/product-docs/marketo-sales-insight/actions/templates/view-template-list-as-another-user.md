@@ -5,10 +5,10 @@ hide: true
 hidefromtoc: true
 exl-id: c0d8d0c4-17a1-4f0e-86f2-a0d19fab5d36
 feature: Sales Insight Actions
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '72'
-ht-degree: 1%
+ht-degree: 18%
 
 ---
 
@@ -20,7 +20,7 @@ ht-degree: 1%
 >
 >**관리자 권한 필요**
 
-1. **[!UICONTROL Templates]**&#x200B;을(를) 클릭합니다.
+1. **[!UICONTROL Templates]**&#x200B;를 클릭합니다.
 
    ![](assets/view-template-list-as-another-user-1.png)
 
@@ -34,4 +34,4 @@ ht-degree: 1%
 
    >[!NOTE]
    >
-   >필터 또는 검색 기능을 _[!UICONTROL View As]_&#x200B;과(와) 함께 사용하여 본인과 가장 관련이 있는 항목을 볼 수도 있습니다.
+   >필터 또는 검색 기능을 _[!UICONTROL View As]_과(와) 함께 사용하여 본인과 가장 관련이 있는 항목을 볼 수도 있습니다.

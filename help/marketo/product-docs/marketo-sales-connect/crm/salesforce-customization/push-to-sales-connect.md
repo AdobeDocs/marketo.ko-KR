@@ -1,10 +1,10 @@
 ---
 unique-page-id: 14352477
 description: ' [!DNL Sales Connect] (으)로 푸시 - Marketo 문서 - 제품 설명서'
-title: ' [!DNL Sales Connect] (으)로 푸시'
+title: ' [!DNL Sales Connect](으)로 푸시'
 exl-id: 8fb99d28-d6c6-47c3-b4d2-c416251aff47
 feature: Marketo Sales Connect
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '146'
 ht-degree: 2%
@@ -27,7 +27,7 @@ ht-degree: 2%
 
 1. **[!UICONTROL Lead/Contact]**&#x200B;에서 [!DNL Salesforce] 탭을 클릭합니다.
 1. [!DNL Sales Connect] 단추 옆에 있는 [!UICONTROL Go]&#x200B;(으)로 푸시할 목록 보기로 전환합니다.
-1. **[!UICONTROL Go]**&#x200B;을(를) 클릭합니다.
+1. **[!UICONTROL Go]**&#x200B;를 클릭합니다.
 1. Tout으로 푸시할 리드/연락처를 모두 선택합니다.
 1. **[!UICONTROL Push to MSE]**&#x200B;를 선택합니다.
 1. 푸시할 리드/연락처 수를 확인하는 새 창이 나타납니다. **[!UICONTROL Proceed to Group]**&#x200B;를 선택합니다.[!DNL Sales Connect]이(가) [!UICONTROL Email Opt Out]의 [!DNL Salesforce] 또는 [!UICONTROL Unsubscribed]의 [!DNL Sales Connect]&#x200B;(으)로 표시된 연락처를 푸시하지 않습니다.

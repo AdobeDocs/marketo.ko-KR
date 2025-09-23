@@ -3,24 +3,24 @@ description: 릴리스 노트 - 2023년 9월 - Marketo 설명서 - 제품 설명
 title: 릴리스 정보 - 2023년 9월
 feature: Release Information
 exl-id: c1197141-3822-404d-b9d4-3e37fc5330b6
-source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '337'
-ht-degree: 2%
+ht-degree: 27%
 
 ---
 
 # 릴리스 노트: 2023년 10월 {#release-notes-oct-23}
 
-아래에는 2023년 10월 릴리스에 포함된 모든 기능이 있습니다. Adobe Marketo Engage 버전에서 사용 가능한 기능이 있는지 확인하십시오.
+아래에는 2023년 10월 릴리스에 포함된 모든 기능이 있습니다. 기능 가용성에 대해 Adobe Marketo Engage 에디션을 확인하십시오.
 
 >[!AVAILABILITY]
 >
->별(![별](assets/yellow-star.png))로 표시되는 기능은 유료 추가 기능입니다. 자세한 내용은 Marketo Engage 담당자에게 문의하십시오.
+>별표(![별표](assets/yellow-star.png))로 표시된 기능은 유료 추가 기능입니다. 자세한 내용은 Marketo Engage 담당자에게 문의하십시오.
 
 ## 표준 릴리스 주기 기능 {#standard-release-cycle-features}
 
-다음 기능은 표준 릴리스 주기에 해당하며 **2023년 10월 6일**&#x200B;에 릴리스되기 시작합니다. 이후 몇 주에 걸쳐 나머지 기능이 단계적으로 롤아웃됩니다. 릴리스 기능 및 날짜는 변경될 수 있습니다. 각 기능 옆에 있는 상태를 확인하십시오.
+다음 기능은 표준 릴리스 주기에 포함되며, **2023년 10월 6일 토요일**&#x200B;부터 출시되기 시작하고 나머지 기능은 이후 몇 주에 걸쳐 단계적으로 출시될 예정입니다. 릴리스 기능 및 날짜는 변경될 수 있습니다. 각 기능 옆에서 상태를 확인합니다.
 
 <table style="table-layout:auto">
  <tbody>
@@ -31,7 +31,7 @@ ht-degree: 2%
   </tr>
   <tr>
    <td><strong>최신 UX의 보고서 구성에 대한 새 디자인</strong>: 보고서 자산을 설정할 때 구성 메뉴에 <a href="https://nation.marketo.com/t5/product-blogs/analytic-modal-updates/ba-p/340321" target="_blank">새 자산 트리</a>가 생기고 생성 및 수정 날짜를 필터링할 수 있습니다.</td>
-   <td>배송됨</td>
+   <td>출시됨</td>
    <td>해당 사항 없음</td>
   </tr>
    <tr>
@@ -42,7 +42,7 @@ ht-degree: 2%
   </tr>
    <tr>
    <td><strong>수식 흐름 단계 서비스 계산</strong>: 수식 계산은 Adobe 스마트 캠페인에 사용할 수 있도록 Marketo Engage의 IO 런타임 플랫폼에 구축된 흐름 단계 서비스입니다. IO 런타임이 있는 사용자는 서비스를 배포하고 Marketo Engage 구독에 설치하여 Marketo Engage 스마트 캠페인에서 Excel과 유사한 공식을 계산할 수 있습니다.</td>
-   <td>배송됨</td>
+   <td>출시됨</td>
    <td><a href="https://nation.marketo.com/t5/product-documents/compute-formula-user-guide/ta-p/340633" target="_blank">계산 공식 사용 안내서</a></td>
   </tr>
   <tr>
@@ -53,7 +53,7 @@ ht-degree: 2%
   </tr>
    <tr>
    <td><strong>대화형 웨비나에서 녹화 다운로드 및 공동 호스트 할당</strong>: 이제 원래 호스트를 사용할 수 없는 경우 웨비나에 대한 외부 공동 호스트를 추가할 수 있습니다. 이제 웨비나 녹화를 다운로드할 수도 있습니다.</td>
-   <td>배송됨</td>
+   <td>출시됨</td>
    <td><li><a href="/help/marketo/product-docs/demand-generation/events/interactive-webinars/event-workflows.md#webinar-recording" target="_blank">레코딩 다운로드</a></li>
    <li><a href="/help/marketo/product-docs/demand-generation/events/interactive-webinars/create-an-interactive-webinar.md" target="_blank">대화형 웨비나 만들기</a></li></td>
   </tr>

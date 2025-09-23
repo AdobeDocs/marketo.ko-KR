@@ -1,17 +1,17 @@
 ---
 unique-page-id: 2953384
 description: 사용자 지정 엔터티에 대해 동기화 활성화 - Marketo 문서 - 제품 설명서
-title: 사용자 지정 엔터티에 대해 동기화 활성화
+title: 사용자 정의 엔티티에 대한 동기화 활성화
 exl-id: 4b075bf3-f10b-4725-8c8e-a6ecee63d756
 feature: Microsoft Dynamics
-source-git-commit: 4f36194fb76fd8e26c2fd6fe49526d88d355a24a
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '299'
-ht-degree: 0%
+ht-degree: 5%
 
 ---
 
-# 사용자 지정 엔터티에 대해 동기화 활성화 {#enable-sync-for-a-custom-entity}
+# 사용자 정의 엔티티에 대한 동기화 활성화 {#enable-sync-for-a-custom-entity}
 
 Marketo Engage에서 사용할 수 있도록 [!DNL Dynamics]의 사용자 지정 엔터티 데이터가 필요한 경우 이에 대한 동기화를 사용하도록 설정하는 방법은 다음과 같습니다.
 
@@ -32,7 +32,7 @@ Marketo Engage에서 사용할 수 있도록 [!DNL Dynamics]의 사용자 지정
 
    ![](assets/enable-sync-for-a-custom-entity-1.png)
 
-1. **[!UICONTROL Microsoft Dynamics]**&#x200B;을(를) 선택하고 **[!UICONTROL Disable Sync]**&#x200B;을(를) 클릭합니다.
+1. **[!UICONTROL Microsoft Dynamics]**&#x200B;으로 선택하고 **[!UICONTROL Disable Sync]**&#x200B;를 클릭합니다.
 
    ![](assets/enable-sync-for-a-custom-entity-2.png)
 

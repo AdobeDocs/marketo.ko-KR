@@ -1,17 +1,17 @@
 ---
 unique-page-id: 11377958
 description: 사용자 로그인 내역 - Marketo 문서 - 제품 설명서
-title: 사용자 로그인 내역
+title: 사용자 로그인 기록
 exl-id: 4ae3f755-28af-48b5-abe1-377c6952d00a
 feature: Audit Trail
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
-source-wordcount: '179'
-ht-degree: 1%
+source-wordcount: '169'
+ht-degree: 9%
 
 ---
 
-# 사용자 로그인 내역 {#user-login-history}
+# 사용자 로그인 기록 {#user-login-history}
 
 사용자 로그인 기록은 로그인 시도 실패 등 구독에 로그인한 사용자를 정확하게 표시함으로써 책임과 보안을 유지하는 데 도움이 됩니다.
 
@@ -29,15 +29,15 @@ ht-degree: 1%
 
 사용자 로그인 기록을 보려면 다음 작업을 수행하십시오.
 
-1. **[!UICONTROL 관리자]** 영역으로 이동합니다.
+1. **[!UICONTROL Admin]** 영역으로 이동합니다.
 
    ![](assets/user-login-history-1.png)
 
-1. 보안에서 **[!UICONTROL 사용자 및 역할]**&#x200B;을 클릭합니다.
+1. 보안에서 **[!UICONTROL Users & Roles]**&#x200B;을(를) 클릭합니다.
 
    ![](assets/user-login-history-2.png)
 
-1. **[!UICONTROL 로그인 기록]** 탭을 클릭합니다. 목록에는 가장 최근 로그인이 표시됩니다.
+1. **[!UICONTROL Login History]** 탭을 클릭합니다. 목록에는 가장 최근 로그인이 표시됩니다.
 
    ![](assets/user-login-history-3.png)
 
@@ -53,15 +53,15 @@ ht-degree: 1%
 
    ![](assets/user-login-history-6.png)
 
-1. **[!UICONTROL 사용자]** 드롭다운에서 사용자를 선택하십시오.
+1. **[!UICONTROL Users]** 드롭다운에서 사용자를 선택하십시오.
 
    ![](assets/user-login-history-7.png)
 
-1. **[!UICONTROL 실패한 로그인만]** 상자를 선택하여 실패한 로그인만 검색에 표시합니다.
+1. 검색에 실패한 로그인만 표시하려면 **[!UICONTROL Only Failed Logins]** 상자를 선택합니다.
 
    ![](assets/user-login-history-8.png)
 
-1. **[!UICONTROL 적용]**&#x200B;을 클릭합니다.
+1. **[!UICONTROL Apply]**&#x200B;를 클릭합니다.
 
    ![](assets/user-login-history-9.png)
 

@@ -1,17 +1,17 @@
 ---
 unique-page-id: 2360309
 description: 작업 공간 및 개인 파티션 이해 - Marketo 문서 - 제품 설명서
-title: 작업 공간 및 개인 분할 영역 이해
+title: 작업 영역 및 개인 파티션 이해
 exl-id: 27d00a0d-ebf1-4dff-b41e-1644ec9dbd28
 feature: Partitions, Workspaces
-source-git-commit: 91b6460bf0fa7fed85d48887ec38203f2ee7440f
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
-source-wordcount: '538'
-ht-degree: 0%
+source-wordcount: '528'
+ht-degree: 4%
 
 ---
 
-# 작업 공간 및 개인 분할 영역 이해 {#understanding-workspaces-and-person-partitions}
+# 작업 영역 및 개인 파티션 이해 {#understanding-workspaces-and-person-partitions}
 
 ## 작업 공간 {#workspaces}
 
@@ -44,15 +44,15 @@ ht-degree: 0%
 >
 >에셋을 포함하는 상위 폴더는 하위 폴더가 아니라 공유할 수 있는 유일한 폴더입니다.
 
-1. **[!UICONTROL 데이터베이스]**&#x200B;를 클릭합니다.
+1. **[!UICONTROL Database]**&#x200B;를 클릭합니다.
 
    ![](assets/understanding-workspaces-and-person-partitions-1.png)
 
-1. 세분화 폴더를 마우스 오른쪽 단추로 클릭하고 **[!UICONTROL 새 폴더]**&#x200B;를 클릭합니다.
+1. 세분화 폴더를 마우스 오른쪽 단추로 클릭하고 **[!UICONTROL New Folder]**&#x200B;을(를) 클릭합니다.
 
    ![](assets/understanding-workspaces-and-person-partitions-2.png)
 
-1. 폴더 이름을 지정하고 **[!UICONTROL 만들기]**&#x200B;를 클릭합니다.
+1. 폴더 이름을 지정하고 **[!UICONTROL Create]**&#x200B;을(를) 클릭합니다.
 
    ![](assets/understanding-workspaces-and-person-partitions-3.png)
 
@@ -60,11 +60,11 @@ ht-degree: 0%
 
    ![](assets/understanding-workspaces-and-person-partitions-4.png)
 
-1. 폴더를 마우스 오른쪽 단추로 클릭하고 **[!UICONTROL 폴더 공유]**&#x200B;를 선택합니다.
+1. 폴더를 마우스 오른쪽 단추로 클릭하고 **[!UICONTROL Share Folder]**&#x200B;을(를) 선택합니다.
 
    ![](assets/understanding-workspaces-and-person-partitions-5.png)
 
-1. 폴더를 공유할 작업 영역을 선택하고 **[!UICONTROL 저장]**&#x200B;을 클릭합니다. 폴더 공유 대화 상자에는 보기 권한이 있는 작업 공간만 표시됩니다.
+1. 폴더를 공유할 작업 영역을 선택하고 **[!UICONTROL Save]**&#x200B;을(를) 클릭합니다. 폴더 공유 대화 상자에는 보기 권한이 있는 작업 공간만 표시됩니다.
 
    ![](assets/understanding-workspaces-and-person-partitions-6.png)
 
@@ -79,8 +79,8 @@ ht-degree: 0%
 * 모델
 * 스마트 캠페인
 * [스마트 목록](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/using-smart-lists/reference-a-list-or-smart-list-across-workspaces.md)
-* [세그먼트화](/help/marketo/product-docs/administration/workspaces-and-person-partitions/share-segmentations-across-workspaces-and-partitions.md)
-* 코드 조각
+* [세분화](/help/marketo/product-docs/administration/workspaces-and-person-partitions/share-segmentations-across-workspaces-and-partitions.md)
+* 스니펫
 
 ## 작업 영역 간 복제 {#cloning-across-workspaces}
 
@@ -89,7 +89,7 @@ ht-degree: 0%
 * 프로그램
 * 이메일
 * 랜딩 페이지
-* Forms
+* 양식
 
 >[!IMPORTANT]
 >
@@ -113,9 +113,9 @@ ht-degree: 0%
 
 다음 구성에서 [작업 공간](create-a-new-workspace.md)에 개인 파티션을 할당할 수 있습니다.
 
-* 1개의 작업 영역과 1개의 개인 파티션(1:1)
+* 한 작업 영역과 한 명의 사용자 파티션(1:1)
 * 한 작업 공간에서 여러 사용자 파티션(1:x)
-* 한 사람에 대한 많은 작업 공간 파티션(x:1)
+* 한 사람에 대한 많은 작업 영역 파티션(x:1)
 
 >[!NOTE]
 >

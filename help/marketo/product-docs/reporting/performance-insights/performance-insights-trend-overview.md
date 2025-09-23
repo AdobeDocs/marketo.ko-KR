@@ -1,13 +1,13 @@
 ---
 unique-page-id: 12979010
 description: 성능 통찰력 트렌드 개요 - Marketo 문서 - 제품 설명서
-title: Performance Insights 트렌드 개요
+title: 성과 인사이트 트렌드 개요
 exl-id: f6590a13-2eba-44b3-b832-fd352b67ab5e
 feature: Reporting
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '160'
-ht-degree: 0%
+ht-degree: 2%
 
 ---
 

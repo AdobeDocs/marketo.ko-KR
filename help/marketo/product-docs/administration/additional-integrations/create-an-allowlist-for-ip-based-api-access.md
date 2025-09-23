@@ -4,7 +4,7 @@ description: IP 기반 API용 허용 목록에 추가하다 만들기 - Marketo 
 title: IP 기반 API 액세스에 대한 허용 목록 만들기
 exl-id: 1a2f2216-07ee-4d37-b883-458ea39fc452
 feature: Administration
-source-git-commit: 5d6269ca9b229311ed4260d5340aad6cd1ea0067
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '158'
 ht-degree: 12%
@@ -22,8 +22,8 @@ ht-degree: 12%
 >[!NOTE]
 >
 >이 기능은 Marketo Engage IP 기반 로그인 제한 사항( Admin Console의 IP 액세스 목록*으로 대체됨)과 독립적으로 작동하며 [Adobe IMS 마이그레이션](/help/marketo/product-docs/administration/marketo-with-adobe-identity/adobe-identity-management-overview.md) 후에도 계속 작동합니다.
->&#x200B;> 
->&#x200B;>&#42;IP 액세스 목록의 일반 가용성은 2025년 4분기에 예정되어 있습니다.
+>> 
+>>&#42;IP 액세스 목록의 일반 가용성은 2025년 4분기에 예정되어 있습니다.
 
 1. **[!UICONTROL Admin]** 영역으로 이동합니다.
 

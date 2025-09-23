@@ -3,7 +3,7 @@ description: 릴리스 노트 - 2025년 3월 - Marketo 문서 - 제품 설명서
 title: 릴리스 정보 - 2025년 3월
 feature: Release Information
 exl-id: a0e45d8e-6b74-4ab0-a1ba-4dae3754bc8f
-source-git-commit: 29c1b59c9d2598626f546554a8bdc1b26b9e1590
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '468'
 ht-degree: 38%
@@ -44,7 +44,7 @@ Adobe Dynamic Chat에 대한 릴리스 정보는 [여기에서 확인](/help/mar
   <tr>
    <td><strong>대화형 웨비나의 GenAI 기능</strong>: 이제 챕터를 생성하고 온디맨드 웨비나에 대한 요약을 작성할 수 있습니다. 데이터의 HTML 파일을 편집하고 내보냅니다.</td>
    <td>출시됨</td>
-   <td><a href="https://experienceleague.adobe.com/ko/docs/marketo/using/product-docs/demand-generation/events/interactive-webinars/gen-ai">GenAI의 특징</a></td>
+   <td><a href="https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/demand-generation/events/interactive-webinars/gen-ai">GenAI의 특징</a></td>
   </tr>
   <tr>
    <td> </td>

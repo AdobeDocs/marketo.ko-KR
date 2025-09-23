@@ -4,14 +4,14 @@ description: 릴리스 노트 - 2017년 4월 ABM 개선 사항 - Marketo 문서 
 title: 릴리스 노트 - 2017년 4월 ABM 개선 사항
 exl-id: 2b8b1ed2-de57-42c2-a3f5-3b49895d7595
 feature: Release Information
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '133'
-ht-degree: 0%
+ht-degree: 4%
 
 ---
 
-# 릴리스 노트: 2017년 4월 ABM 개선 사항 {#release-notes-april-abm-enhancements}
+# 릴리스 정보: 2017년 4월 ABM 개선 사항 {#release-notes-april-abm-enhancements}
 
 다음 기능은 2017년 4월 ABM 개선 릴리스에 포함되어 있습니다. Marketo 버전에서 사용 가능한 기능이 있는지 확인하십시오.
 

@@ -1,12 +1,12 @@
 ---
 description: Sales Insight 권한 집합 추가 - Marketo 문서 - 제품 설명서
-title: 판매 Insight 권한 집합 추가
+title: Sales Insight 권한 집합 추가
 exl-id: b93ddf2e-0f7b-41e0-ba88-7363f5e34970
 feature: Marketo Sales Insights
-source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '335'
-ht-degree: 1%
+ht-degree: 3%
 
 ---
 
@@ -85,7 +85,7 @@ ht-degree: 1%
 
 1. [!DNL Salesforce] 계정에 로그인합니다.
 
-1. **[!UICONTROL Setup]**&#x200B;을(를) 클릭합니다.
+1. **[!UICONTROL Setup]**&#x200B;를 클릭합니다.
 
    ![](assets/add-sales-insight-permission-set-1.png)
 
@@ -97,11 +97,11 @@ ht-degree: 1%
 
    ![](assets/add-sales-insight-permission-set-3.png)
 
-1. **[!UICONTROL Edit Assignments]**&#x200B;을(를) 클릭합니다.
+1. **[!UICONTROL Edit Assignments]**&#x200B;를 클릭합니다.
 
    ![](assets/add-sales-insight-permission-set-4.png)
 
-1. 사용 가능한 권한 집합에서 **[!UICONTROL Marketo App Access]**&#x200B;을(를) 선택한 다음 **[!UICONTROL Add]**&#x200B;을(를) 선택합니다. **[!UICONTROL Save]**&#x200B;을(를) 클릭합니다.
+1. 사용 가능한 권한 집합에서 **[!UICONTROL Marketo App Access]**&#x200B;을(를) 선택한 다음 **[!UICONTROL Add]**&#x200B;을(를) 선택합니다. **[!UICONTROL Save]**&#x200B;를 클릭합니다.
 
    ![](assets/add-sales-insight-permission-set-5.png)
 

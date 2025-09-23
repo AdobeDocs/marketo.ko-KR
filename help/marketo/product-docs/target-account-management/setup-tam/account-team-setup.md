@@ -4,10 +4,10 @@ description: 계정 팀 설정 - Marketo 문서 - 제품 설명서
 title: 계정 팀 설정
 exl-id: a4aee37f-5e39-4296-b720-b1c73c98df9e
 feature: Target Account Management
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '169'
-ht-degree: 1%
+ht-degree: 4%
 
 ---
 
@@ -15,11 +15,11 @@ ht-degree: 1%
 
 계정 팀은 명명 계정에 대해 함께 작업하는 관련자 그룹입니다. 다음 단계에 따라 추가해야 하는 CRM 계정 역할을 선택하십시오.
 
-1. **[!UICONTROL Admin]**&#x200B;을(를) 클릭합니다.
+1. **[!UICONTROL Admin]**&#x200B;를 클릭합니다.
 
    ![](assets/one-3.png)
 
-1. **[!UICONTROL Target Account Management]**&#x200B;을(를) 클릭합니다.
+1. **[!UICONTROL Target Account Management]**&#x200B;를 클릭합니다.
 
    ![](assets/account-team-setup-2.png)
 

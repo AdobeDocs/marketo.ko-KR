@@ -1,16 +1,16 @@
 ---
 description: 트리거 캠페인에 대한 우선 순위 재정의 - Marketo 문서 - 제품 설명서
-title: 트리거 캠페인에 대한 우선 순위 재정의
+title: 트리거 캠페인에 대한 우선순위 재정의
 exl-id: cf9b4d27-0e4c-40cf-accd-4f4a102160cc
 feature: Smart Campaigns
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '222'
-ht-degree: 0%
+ht-degree: 4%
 
 ---
 
-# 트리거 캠페인에 대한 우선 순위 재정의 {#priority-override-for-trigger-campaigns}
+# 트리거 캠페인에 대한 우선순위 재정의 {#priority-override-for-trigger-campaigns}
 
 관리자는 트리거 캠페인에 대해 Marketo Engage이 결정한 우선 순위를 재정의하여 비즈니스 목표에 더 잘 부합하는 우선 순위를 설정할 수 있습니다.
 
@@ -36,7 +36,7 @@ ht-degree: 0%
 
    ![](assets/priority-override-for-trigger-campaigns-2.png)
 
-1. **[!UICONTROL Access Marketing Activities]**&#x200B;에서 **[!UICONTROL Edit Trigger Campaign Priority]**&#x200B;을(를) 선택합니다. **[!UICONTROL Save]**&#x200B;을(를) 클릭합니다.
+1. **[!UICONTROL Access Marketing Activities]**&#x200B;에서 **[!UICONTROL Edit Trigger Campaign Priority]**&#x200B;을(를) 선택합니다. **[!UICONTROL Save]**&#x200B;를 클릭합니다.
 
    ![](assets/priority-override-for-trigger-campaigns-3.png)
 

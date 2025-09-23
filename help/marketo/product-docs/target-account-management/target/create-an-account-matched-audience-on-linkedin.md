@@ -4,10 +4,10 @@ description: ' [!DNL LinkedIn] 의 대상자와 일치하는 계정 만들기 - 
 title: ' [!DNL LinkedIn]에 일치하는 계정 만들기'
 exl-id: 55f2106d-6078-4a47-ab00-6b6dc950a206
 feature: Target Account Management
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '165'
-ht-degree: 0%
+ht-degree: 3%
 
 ---
 
@@ -27,7 +27,7 @@ ht-degree: 0%
 
    ![](assets/create-a-matched-audience-on-linkedin-2.png)
 
-1. **[!UICONTROL Account List Actions]** 드롭다운을 클릭하고 **[!UICONTROL Send via AdBridge]**&#x200B;을(를) 선택합니다.
+1. **[!UICONTROL Account List Actions]** 드롭다운을 클릭하고 **[!UICONTROL Send via AdBridge]**&#x200B;를 선택합니다.
 
    ![](assets/create-a-matched-audience-on-linkedin-3.png)
 

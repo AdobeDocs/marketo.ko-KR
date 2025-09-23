@@ -4,10 +4,10 @@ description: 모바일 앱 추가 - Marketo 문서 - 제품 설명서
 title: 모바일 앱 추가
 exl-id: 79edf8cb-4d8b-440a-aa8a-6ead1a93b95a
 feature: Mobile Marketing
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '185'
-ht-degree: 2%
+ht-degree: 6%
 
 ---
 
@@ -22,19 +22,19 @@ ht-degree: 2%
 >
 >모든 Marketo Engage 사용자가 이 기능을 구입한 것은 아닙니다. 자세한 내용은 Adobe 계정 팀(계정 관리자)에 문의하십시오.
 
-1. **[!UICONTROL Admin]**&#x200B;을(를) 클릭합니다.
+1. **[!UICONTROL Admin]**&#x200B;를 클릭합니다.
 
    ![](assets/image2015-4-22-16-3a12-3a32.png)
 
-1. **[!UICONTROL Mobile Apps & Devices]**&#x200B;을(를) 클릭합니다.
+1. **[!UICONTROL Mobile Apps & Devices]**&#x200B;를 클릭합니다.
 
    ![](assets/image2016-1-12-15-3a42-3a30.png)
 
-1. **[!UICONTROL New Mobile App]**&#x200B;을(를) 클릭합니다.
+1. **[!UICONTROL New Mobile App]**&#x200B;를 클릭합니다.
 
    ![](assets/image2015-4-22-16-3a17-3a15.png)
 
-1. 이름을 입력합니다. **[!UICONTROL Type]** 드롭다운에서 사용 중인 환경 유형—[!UICONTROL Sandbox] 또는 [!UICONTROL Production]을(를) 선택합니다. **[!UICONTROL Save]**&#x200B;을(를) 클릭합니다.
+1. 이름을 입력합니다. **[!UICONTROL Type]** 드롭다운에서 사용 중인 환경 유형—[!UICONTROL Sandbox] 또는 [!UICONTROL Production]을(를) 선택합니다. **[!UICONTROL Save]**&#x200B;를 클릭합니다.
 
    ![](assets/image2015-11-18-15-3a52-3a15.png)
 

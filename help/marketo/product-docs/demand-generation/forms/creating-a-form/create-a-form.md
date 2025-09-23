@@ -4,10 +4,10 @@ description: 양식 만들기 - Marketo 문서 - 제품 설명서
 title: 양식 만들기
 exl-id: ab0f2700-99e5-4ceb-b9df-80016f30fc85
 feature: Forms
-source-git-commit: f27b520544583b9511428b0bc3a41cc1527cc332
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '98'
-ht-degree: 1%
+ht-degree: 7%
 
 ---
 

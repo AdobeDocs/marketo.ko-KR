@@ -3,10 +3,10 @@ description: NL-YYYY-MM-Newsletter - Marketo 문서 - 제품 설명서
 title: NL-YYYY-MM-뉴스레터
 feature: Programs
 exl-id: bce05e0f-e288-4614-9d05-c14844615454
-source-git-commit: 21bcdc10fe1f3517612efe0f8e2adaf2f4411a70
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '273'
-ht-degree: 5%
+ht-degree: 8%
 
 ---
 

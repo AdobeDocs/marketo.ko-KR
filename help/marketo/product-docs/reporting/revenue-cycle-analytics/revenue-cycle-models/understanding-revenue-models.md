@@ -4,10 +4,10 @@ description: 수익 모델 이해 - Marketo 문서 - 제품 설명서
 title: 수익 모델 이해
 exl-id: e8d1e7e9-caea-43a0-b87a-428a649e95d2
 feature: Reporting, Revenue Cycle Analytics
-source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '564'
-ht-degree: 0%
+ht-degree: 1%
 
 ---
 
@@ -47,7 +47,7 @@ Modeler은 물이 담긴 일련의 양동이와 같다. 양동이의 바닥에 �
 >
 >익명의 무대는 특별하다. 여러분의 웹 사이트를 방문하는 모든 사람들이지만, 그들이 누구인지는 확실하지 않습니다. 이 단계는 수정할 수 없습니다.
 
-## 사용자 지정 {#customization}
+## 사용자 정의 {#customization}
 
 회사마다 다릅니다. 오른쪽 상단에서 를 드래그하여 모델에 항목을 추가할 수 있습니다.
 

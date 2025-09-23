@@ -4,10 +4,10 @@ description: 구독 취소 메시지 편집 - Marketo 문서 - 제품 설명서
 title: 구독 취소 메시지 편집
 exl-id: 68a3ebc1-b2c9-4e6c-bb13-e5a94c9596d2
 feature: Email Setup
-source-git-commit: a9f880bd32d533613020d0472c0e1bee07ab388c
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
-source-wordcount: '139'
-ht-degree: 0%
+source-wordcount: '127'
+ht-degree: 8%
 
 ---
 
@@ -21,11 +21,11 @@ ht-degree: 0%
 
 ## 편집할 위치 {#where-to-make-the-edit}
 
-1. **[!UICONTROL 관리자]** 섹션으로 이동합니다.
+1. **[!UICONTROL Admin]** 섹션으로 이동합니다.
 
    ![](assets/edit-the-unsubscribe-message-1.png)
 
-1. **[!UICONTROL 전자 메일]**&#x200B;을 클릭하세요.
+1. **[!UICONTROL Email]**&#x200B;를 클릭합니다.
 
    ![](assets/edit-the-unsubscribe-message-2.png)
 
@@ -36,7 +36,7 @@ ht-degree: 0%
    >* `%mkt_opt_out_prefix%`
    >* `mkt_unsubscribe=1&mkt_tok=##MKT_TOK##`
 
-1. **[!UICONTROL 구독 취소]** HTML 및 **[!UICONTROL 텍스트 구독 취소]** 버전을 원하는 대로 편집하고 **[!UICONTROL 변경 내용 저장]**&#x200B;을 클릭하세요.
+1. **[!UICONTROL Unsubscribe HTML]** 및 **[!UICONTROL Unsubscribe Text]** 버전을 원하는 대로 편집하고 **[!UICONTROL Save Changes]**&#x200B;을(를) 클릭합니다.
 
    ![](assets/edit-the-unsubscribe-message-3.png)
 
@@ -50,8 +50,8 @@ ht-degree: 0%
 
 기본 시스템 구독 취소로 되돌리려면 다음을 복사하여 붙여넣습니다.
 
-[!UICONTROL HTML 구독 취소]:
-`<p><font face="Verdana" size="1">If you no longer wish to receive these emails, click on the following link: <a href="%mkt_opt_out_prefix%UnsubscribePage.html?mkt_unsubscribe=1&mkt_tok=##MKT_TOK##">Unsubscribe</a><br/></font></p>` [!UICONTROL 텍스트 구독 취소]:
+[!UICONTROL Unsubscribe HTML]:
+`<p><font face="Verdana" size="1">If you no longer wish to receive these emails, click on the following link: <a href="%mkt_opt_out_prefix%UnsubscribePage.html?mkt_unsubscribe=1&mkt_tok=##MKT_TOK##">Unsubscribe</a><br/></font></p>` [!UICONTROL Unsubscribe Text]:
 `%mkt_opt_out_prefix%UnsubscribePage.html?mkt_unsubscribe=1&mkt_tok=##MKT_TOK##`
 
 >[!MORELIKETHIS]

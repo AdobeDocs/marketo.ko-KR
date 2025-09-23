@@ -4,14 +4,14 @@ description: 릴리스 노트 - 2014년 1월 - Marketo 설명서 - 제품 설명
 title: 릴리스 노트 - 2014년 1월
 exl-id: 1507aa40-9bd7-42be-8c85-deae8dd45234
 feature: Release Information
-source-git-commit: ecd225af3ecfd7cb9159faf5a9d384d47ee6312c
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '297'
-ht-degree: 0%
+ht-degree: 1%
 
 ---
 
-# 릴리스 노트: 2014년 1월 {#release-notes-january}
+# 릴리스 정보: 2014년 1월 {#release-notes-january}
 
 다음 기능은 2014년 1월 릴리스에 포함되어 있습니다. [Marketo 버전](https://www.marketo.com/pricing/)에서 사용 가능한 기능을 확인하십시오.
 

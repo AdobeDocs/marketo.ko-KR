@@ -4,10 +4,10 @@ description: 대기 - Marketo 문서 - 제품 설명서
 title: 대기
 exl-id: 58f43c4b-6f20-4740-9a25-e09c7ea31dcf
 feature: Smart Campaigns
-source-git-commit: 12f2399859c784095cc2c1df772c66c649106ba3
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '188'
-ht-degree: 0%
+ht-degree: 15%
 
 ---
 
@@ -29,6 +29,6 @@ ht-degree: 0%
 
 대기 흐름 단계를 사용하는 세 가지 주요 방법은 다음과 같습니다.
 
-1. [대기 흐름 단계에서 기간 사용](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/wait/use-a-duration-in-a-wait-flow-step.md)
-1. [대기 흐름 단계의 특정 날짜 사용](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/wait/use-a-specific-date-in-a-wait-flow-step.md)
-1. [대기 흐름 단계에서 날짜 토큰 사용](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/wait/use-a-date-token-in-a-wait-flow-step.md)
+1. [대기 플로우 단계에서 기간 사용](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/wait/use-a-duration-in-a-wait-flow-step.md)
+1. [대기 플로우 단계에서 특정 날짜 사용](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/wait/use-a-specific-date-in-a-wait-flow-step.md)
+1. [대기 플로우 단계에서 날짜 토큰 사용](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/wait/use-a-date-token-in-a-wait-flow-step.md)

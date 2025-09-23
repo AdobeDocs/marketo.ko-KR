@@ -1,17 +1,17 @@
 ---
 unique-page-id: 2360405
 description: 잠재 고객을 나열하는 프로그램 멤버십 분석 보고서 작성 - Marketo 문서 - 제품 설명서
-title: 잠재 고객을 나열하는 프로그램 멤버십 분석 보고서 작성
+title: 리드를 나열하는 프로그램 멤버십 분석 보고서 작성
 exl-id: 52fa9808-a3d6-48b9-9a6a-93d262591c2b
 feature: Reporting, Revenue Cycle Analytics
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '135'
-ht-degree: 0%
+ht-degree: 15%
 
 ---
 
-# 잠재 고객을 나열하는 프로그램 멤버십 분석 보고서 작성 {#build-a-program-membership-analysis-report-that-lists-leads}
+# 리드를 나열하는 프로그램 멤버십 분석 보고서 작성 {#build-a-program-membership-analysis-report-that-lists-leads}
 
 다음 단계에 따라 모든 프로그램 멤버 이름을 보여 주는 프로그램 멤버십 분석 보고서를 만듭니다.
 
@@ -27,7 +27,7 @@ ht-degree: 0%
 
    ![](assets/two.png)
 
-1. **[!UICONTROL Program Membership Analysis]**&#x200B;을(를) 선택하고 **[!UICONTROL OK]**&#x200B;을(를) 클릭합니다.
+1. **[!UICONTROL Program Membership Analysis]**&#x200B;으로 선택하고 **[!UICONTROL OK]**&#x200B;를 클릭합니다.
 
    ![](assets/three.png)
 
@@ -47,7 +47,7 @@ ht-degree: 0%
 
 ![](assets/seven.png)
 
-_[!UICONTROL Full Name]_&#x200B;과(와) 같은 잠재 고객 특성을 빠르게 추가하여 구성원이 누구인지 확인할 수 있습니다.
+_[!UICONTROL Full Name]_과(와) 같은 잠재 고객 특성을 빠르게 추가하여 구성원이 누구인지 확인할 수 있습니다.
 
 >[!TIP]
 >

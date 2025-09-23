@@ -4,10 +4,10 @@ description: Sales Insight - Marketo 문서 - 제품 설명서에 이메일 게�
 title: Sales Insight에 이메일 게시
 exl-id: 59b6821f-cbed-427f-942f-0a67cbd4e2df
 feature: Marketo Sales Insights
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '188'
-ht-degree: 0%
+ht-degree: 3%
 
 ---
 
@@ -35,7 +35,7 @@ ht-degree: 0%
    >
    >만료 날짜(설정한 경우)가 오후 11:59(CST)이면 [!DNL Sales Insight]과(와) 해당 추가 기능에서 사용 가능한 이메일이 사라집니다. 물론 Marketo에서 계속 액세스할 수 있습니다.
 
-1. **[!DNL Save]**&#x200B;을(를) 클릭합니다.
+1. **[!DNL Save]**&#x200B;를 클릭합니다.
 
    ![](assets/five.png)
 

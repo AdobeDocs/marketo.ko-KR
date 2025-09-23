@@ -1,17 +1,17 @@
 ---
 unique-page-id: 12982909
 description: 수신자 시간대와 함께 참여 프로그램 예약 - Marketo 문서 - 제품 설명서
-title: 수신자 시간대와 참여 프로그램 예약
+title: 수신자 시간대에 맞춰 참여 프로그램 예약
 exl-id: 818615be-3c7e-4051-adc7-2341783484b9
 feature: Engagement Programs
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '190'
-ht-degree: 0%
+ht-degree: 7%
 
 ---
 
-# 수신자 시간대와 참여 프로그램 예약 {#schedule-engagement-programs-with-recipient-time-zone}
+# 수신자 시간대에 맞춰 참여 프로그램 예약 {#schedule-engagement-programs-with-recipient-time-zone}
 
 참여 프로그램 스트림을 예약하고 받는 사람 시간대가 활성화되면 프로그램 캐스트가 첫 번째 시간대(UTC +14:00)의 자정에 실행됩니다. 전 세계 모든 시간대에 캐스팅 자격을 갖춘 사람이 있을 수 있으므로 **향후 최소 25시간**&#x200B;에 첫 번째 캐스팅을 예약해야 합니다. 첫 번째 시간대에서 이 시간에 처리를 시작하면 모든 수신자에 대해 예약된 날짜와 시간에 이메일을 전달할 수 있습니다.
 
@@ -19,7 +19,7 @@ ht-degree: 0%
 
    ![](assets/image2017-12-5-13-3a36-3a21.png)
 
-1. [평소대로 케이던스 설정을 설정](/help/marketo/product-docs/email-marketing/drip-nurturing/engagement-program-streams/set-stream-cadence.md)한 다음 **[!UICONTROL Recipient Time Zone]** 상자를 선택합니다. 첫 출연은 최소한 25시간 이상 있어야 한다는 것을 기억하세요. **[!UICONTROL Save]**&#x200B;을(를) 클릭합니다.
+1. [평소대로 케이던스 설정을 설정](/help/marketo/product-docs/email-marketing/drip-nurturing/engagement-program-streams/set-stream-cadence.md)한 다음 **[!UICONTROL Recipient Time Zone]** 상자를 선택합니다. 첫 출연은 최소한 25시간 이상 있어야 한다는 것을 기억하세요. **[!UICONTROL Save]**&#x200B;를 클릭합니다.
 
    ![](assets/image2017-12-5-13-3a50-3a32.png)
 

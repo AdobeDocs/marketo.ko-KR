@@ -1,17 +1,17 @@
 ---
 unique-page-id: 2359746
 description: CNAME으로 랜딩 페이지 URL 사용자 지정 - Marketo 문서 - 제품 설명서
-title: CNAME으로 랜딩 페이지 URL 사용자 지정
+title: CNAME을 사용하여 랜딩 페이지 URL 사용자 정의
 exl-id: 2cd87785-61e5-46cd-b1e0-6fbc145014d4
 feature: Landing Pages
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '228'
-ht-degree: 0%
+ht-degree: 7%
 
 ---
 
-# CNAME으로 랜딩 페이지 URL 사용자 지정 {#customize-your-landing-page-urls-with-a-cname}
+# CNAME을 사용하여 랜딩 페이지 URL 사용자 정의 {#customize-your-landing-page-urls-with-a-cname}
 
 Marketo이 랜딩 페이지를 호스팅하지만 URL을 완전히 사용자 지정할 수 있습니다. CNAME 제외:
 

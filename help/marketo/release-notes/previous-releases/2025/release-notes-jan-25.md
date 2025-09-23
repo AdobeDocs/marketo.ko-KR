@@ -3,7 +3,7 @@ description: 릴리스 노트 - 2025년 1월 - Marketo 설명서 - 제품 설명
 title: 릴리스 정보 - 2025년 1월
 feature: Release Information
 exl-id: fd816b9c-9e06-4292-87d6-9fa991c4681f
-source-git-commit: 29c1b59c9d2598626f546554a8bdc1b26b9e1590
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '551'
 ht-degree: 34%
@@ -73,7 +73,7 @@ Adobe Dynamic Chat에 대한 릴리스 정보는 [여기에서 확인](/help/mar
 
 그 이후로는 사용자가 Marketo Engage에서 이러한 소셜 기능을 생성, 복제 또는 포함할 수 없습니다. 기존 소셜 자산은 2025년 1월 31일까지 계속 작동합니다. 2025년 2월 1일, 소셜 자산은 기능이 중단됩니다. 랜딩 페이지에 임베드된 소셜 기능은 제거해야 합니다. [자세히 알아보기](https://nation.marketo.com/t5/employee-blogs/marketo-engage-social-features-deprecation/ba-p/351977){target="_blank"}
 
-* **프로그램 구성원 API 업데이트 가져오기**: 프로그램 구성원의 식별자를 검색하는 기능을 지원하도록 [프로그램 구성원 가져오기](https://experienceleague.adobe.com/ko/docs/marketo-developer/marketo/rest/lead-database/program-members#query){target="_blank"} API를 개선했습니다. 이 작업은 API 요청의 필드 매개 변수에 지정된 필드 목록에 ID를 추가하여 수행합니다.
+* **프로그램 구성원 API 업데이트 가져오기**: 프로그램 구성원의 식별자를 검색하는 기능을 지원하도록 [프로그램 구성원 가져오기](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/rest/lead-database/program-members#query){target="_blank"} API를 개선했습니다. 이 작업은 API 요청의 필드 매개 변수에 지정된 필드 목록에 ID를 추가하여 수행합니다.
 
 * **REST API &#39;access_token&#39; 매개변수 사용 중단**: Marketo REST API 호출을 인증하는 데 사용되는 `access_token` 쿼리 매개변수는 사용 중단될 예정이며 2025년 10월 31일 이후에는 사용할 수 없습니다. 모든 신규 및 기존 통합은 [여기에 설명된 대로](https://experienceleague.adobe.com/ko/docs/marketo-developer/marketo/rest/authentication){target="_blank"} &#39;Authorization&#39; 헤더를 사용하여 REST API 호출을 인증해야 합니다.
 

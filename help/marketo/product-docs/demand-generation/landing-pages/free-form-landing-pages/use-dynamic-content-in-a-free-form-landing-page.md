@@ -4,10 +4,10 @@ description: 자유 형식 랜딩 페이지에서 동적 콘텐츠 사용 - Mark
 title: 자유 형식 랜딩 페이지에서 동적 콘텐츠 사용
 exl-id: 76441566-96be-43fb-91da-4c0c520cc9e1
 feature: Landing Pages
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '191'
-ht-degree: 0%
+ht-degree: 8%
 
 ---
 
@@ -31,7 +31,7 @@ ht-degree: 0%
 
    ![](assets/landingpageeditdraft-1.jpg)
 
-1. **[!UICONTROL Segment By]**&#x200B;을(를) 클릭합니다.
+1. **[!UICONTROL Segment By]**&#x200B;를 클릭합니다.
 
    ![](assets/image2014-9-17-12-3a8-3a46.png)
 

@@ -1,16 +1,16 @@
 ---
 description: 컨텐츠 및 파일 첨부 파일 FAQ - Marketo 문서 - 제품 설명서
-title: 컨텐츠 및 파일 첨부 파일 FAQ
+title: 콘텐츠 및 파일 첨부 FAQ
 exl-id: 53374ab8-c41e-4cf3-91ed-8ce47f06fbc8
 feature: Sales Insight Actions
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '260'
-ht-degree: 0%
+ht-degree: 3%
 
 ---
 
-# 컨텐츠 및 파일 첨부 파일 FAQ {#content-and-file-attachment-faq}
+# 콘텐츠 및 파일 첨부 FAQ {#content-and-file-attachment-faq}
 
 ## 컨텐츠와 파일 첨부 파일의 차이점은 무엇입니까? {#what-is-the-difference-between-content-and-a-file-attachment}
 

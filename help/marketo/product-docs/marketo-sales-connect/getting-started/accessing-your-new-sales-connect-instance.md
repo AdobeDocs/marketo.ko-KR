@@ -3,10 +3,10 @@ description: 새 Sales Connect 인스턴스에 액세스 - Marketo 문서 - 제�
 title: 새 Sales Connect 인스턴스에 액세스
 exl-id: 0add0841-8909-4cb2-9db7-08a5e79b0ed8
 feature: Marketo Sales Connect
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '114'
-ht-degree: 0%
+ht-degree: 11%
 
 ---
 
@@ -22,7 +22,7 @@ Sales Connect를 구매하면 Marketo 인스턴스에 새 통합 페이지가 �
 
    ![](assets/accessing-your-new-sales-connect-instance-1.png)
 
-1. **[!UICONTROL Sales Connect]**&#x200B;을(를) 클릭합니다.
+1. **[!UICONTROL Sales Connect]**&#x200B;를 클릭합니다.
 
    ![](assets/accessing-your-new-sales-connect-instance-2.png)
 

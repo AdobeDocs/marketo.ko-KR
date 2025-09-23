@@ -4,10 +4,10 @@ description: 프로그램 멤버십 분석 영역 이해 - Marketo 문서 - 제�
 title: 프로그램 멤버십 분석 영역 이해
 exl-id: dab55802-9a6c-447c-99fc-bc4fece6d674
 feature: Reporting, Revenue Cycle Analytics
-source-git-commit: d20a9bb584f69282eefae3704ce4be2179b29d0b
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '236'
-ht-degree: 5%
+ht-degree: 13%
 
 ---
 
@@ -29,7 +29,7 @@ ht-degree: 5%
 
 ![](assets/three-2.png)
 
-## 프로그램 멤버십 분석 Dimension 및 측정값 {#program-membership-analysis-dimensions-and-measures}
+## 프로그램 멤버십 분석 차원 및 측정값 {#program-membership-analysis-dimensions-and-measures}
 
 >[!NOTE]
 >
@@ -40,7 +40,7 @@ ht-degree: 5%
 | 측정 | 설명 |
 |---|---|
 | % 새 이름 | 프로그램에서 획득한 잠재 고객의 비율 |
-| 구성원 | 프로그램의 총 잠재 고객 |
+| 멤버 | 프로그램의 총 잠재 고객 |
 | 새 이름 | 프로그램에서 획득한 총 새 이름 |
 
 ### 프로그램 속성 {#program-attributes}
@@ -54,11 +54,11 @@ ht-degree: 5%
 
 | 차원 | 설명 |
 |---|---|
-| 년 | 프로그램 멤버십 일정 |
+| Year | 프로그램 멤버십 일정 |
 | 분기 | 프로그램 멤버십 일정 |
-| 월 | 프로그램 멤버십 일정 |
+| Month | 프로그램 멤버십 일정 |
 | 주 | 프로그램 멤버십 일정 |
-| 날짜 | 프로그램 멤버십 일정 |
+| Date | 프로그램 멤버십 일정 |
 
 ### 성공 {#success}
 

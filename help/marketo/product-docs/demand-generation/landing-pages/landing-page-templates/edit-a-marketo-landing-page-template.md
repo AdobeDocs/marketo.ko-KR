@@ -4,10 +4,10 @@ description: Marketo 랜딩 페이지 템플릿 편집 - Marketo 문서 - 제품
 title: Marketo 랜딩 페이지 템플릿 편집
 exl-id: 247e057f-6da2-4415-a0b6-c0ffae3089fe
 feature: Landing Pages
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '86'
-ht-degree: 1%
+ht-degree: 15%
 
 ---
 
@@ -23,7 +23,7 @@ Marketo 내에서 모든 랜딩 페이지 템플릿을 편집할 수 있습니�
 
    ![](assets/image2015-5-21-12-3a40-3a3.png)
 
-1. 편집할 **[!UICONTROL Template]**&#x200B;을(를) 선택하십시오. **[!UICONTROL Edit Draft]**&#x200B;을(를) 클릭합니다.
+1. 편집할 **[!UICONTROL Template]**&#x200B;을(를) 선택하십시오. **[!UICONTROL Edit Draft]**&#x200B;를 클릭합니다.
 
    ![](assets/image2015-5-21-12-3a37-3a54.png)
 

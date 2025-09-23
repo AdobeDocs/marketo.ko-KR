@@ -3,10 +3,10 @@ description: ID 추가 - Marketo 문서 - 제품 설명서
 title: ID 추가
 exl-id: a85937c3-aa15-4900-a42b-950ab2ae1776
 feature: Sales Insight Actions
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '174'
-ht-degree: 1%
+ht-degree: 3%
 
 ---
 
@@ -22,11 +22,11 @@ ht-degree: 1%
 
    ![](assets/add-identity-1.png)
 
-1. **[!UICONTROL Email Settings]**&#x200B;을(를) 클릭합니다.
+1. **[!UICONTROL Email Settings]**&#x200B;를 클릭합니다.
 
    ![](assets/add-identity-2.png)
 
-1. **[!UICONTROL Add Identity]**&#x200B;을(를) 클릭합니다.
+1. **[!UICONTROL Add Identity]**&#x200B;를 클릭합니다.
 
    ![](assets/add-identity-3.png)
 

@@ -1,17 +1,17 @@
 ---
 unique-page-id: 10093192
 description: Marketo 사용자 지정 개체 만들기 - Marketo 문서 - 제품 설명서
-title: Marketo 사용자 지정 개체 만들기
+title: Marketo 사용자 정의 오브젝트 만들기
 exl-id: d68b41e1-a12b-436f-aad7-42c7264cd901
 feature: Custom Objects
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '616'
-ht-degree: 1%
+ht-degree: 5%
 
 ---
 
-# Marketo 사용자 지정 개체 만들기 {#create-marketo-custom-objects}
+# Marketo 사용자 정의 오브젝트 만들기 {#create-marketo-custom-objects}
 
 Marketo의 사용자 지정 개체를 사용하여 비즈니스와 관련된 지표를 추적합니다. 이는 자동차, 교육 과정 등 캠페인을 실행하기 위해 Marketo에서 모델링하려는 모든 것이 될 수 있습니다.
 
@@ -31,11 +31,11 @@ Marketo의 사용자 지정 개체를 사용하여 비즈니스와 관련된 지
 
    ![](assets/create-marketo-custom-objects-1.png)
 
-1. **[!UICONTROL Marketo Custom Objects]**&#x200B;을(를) 클릭합니다.
+1. **[!UICONTROL Marketo Custom Objects]**&#x200B;를 클릭합니다.
 
    ![](assets/create-marketo-custom-objects-2.png)
 
-1. **[!UICONTROL New Custom Object]**&#x200B;을(를) 클릭합니다.
+1. **[!UICONTROL New Custom Object]**&#x200B;를 클릭합니다.
 
    ![](assets/create-marketo-custom-objects-3.png)
 
@@ -51,7 +51,7 @@ Marketo의 사용자 지정 개체를 사용하여 비즈니스와 관련된 지
    >
    >이러한 필드를 만들 때는 편집할 수 있지만 저장한 후에는 [!UICONTROL Plural Name] 필드와 **[!UICONTROL Show in Lead Detail]** 슬라이더만 편집할 수 있습니다.
 
-1. 데이터베이스 페이지에서 사용자 지정 개체 데이터를 보려면 **[!UICONTROL Show in Lead Detail]** 슬라이더를 가져와서 **[!UICONTROL Show]**&#x200B;을(를) 표시합니다. **[!UICONTROL Save]**&#x200B;을(를) 클릭합니다.
+1. 데이터베이스 페이지에서 사용자 지정 개체 데이터를 보려면 **[!UICONTROL Show in Lead Detail]** 슬라이더를 가져와서 **[!UICONTROL Show]**&#x200B;을(를) 표시합니다. **[!UICONTROL Save]**&#x200B;를 클릭합니다.
 
    ![](assets/create-marketo-custom-objects-5.png)
 
@@ -77,11 +77,11 @@ Marketo의 사용자 지정 개체를 사용하여 비즈니스와 관련된 지
 
    ![](assets/create-marketo-custom-objects-7.png)
 
-1. **[!UICONTROL Marketo Custom Objects]**&#x200B;을(를) 클릭합니다.
+1. **[!UICONTROL Marketo Custom Objects]**&#x200B;를 클릭합니다.
 
    ![](assets/create-marketo-custom-objects-8.png)
 
-1. **[!UICONTROL New Custom Object]**&#x200B;을(를) 클릭합니다.
+1. **[!UICONTROL New Custom Object]**&#x200B;를 클릭합니다.
 
    ![](assets/create-marketo-custom-objects-9.png)
 
@@ -93,7 +93,7 @@ Marketo의 사용자 지정 개체를 사용하여 비즈니스와 관련된 지
    >
    >이러한 필드를 만들 때는 편집할 수 있지만 저장한 후에는 [!UICONTROL Plural Name] 필드와 **[!UICONTROL Show in Lead Detail]** 슬라이더만 편집할 수 있습니다.
 
-1. 데이터베이스 페이지에서 사용자 지정 개체 데이터를 보려면 **[!UICONTROL Show in Lead Detail]** 슬라이더를 가져와서 **[!UICONTROL Show]**&#x200B;을(를) 표시합니다. **[!UICONTROL Save]**&#x200B;을(를) 클릭합니다.
+1. 데이터베이스 페이지에서 사용자 지정 개체 데이터를 보려면 **[!UICONTROL Show in Lead Detail]** 슬라이더를 가져와서 **[!UICONTROL Show]**&#x200B;을(를) 표시합니다. **[!UICONTROL Save]**&#x200B;를 클릭합니다.
 
    ![](assets/create-marketo-custom-objects-11.png)
 
@@ -119,11 +119,11 @@ Marketo의 사용자 지정 개체를 사용하여 비즈니스와 관련된 지
 
    ![](assets/create-marketo-custom-objects-13.png)
 
-1. **[!UICONTROL Marketo Custom Objects]**&#x200B;을(를) 클릭합니다.
+1. **[!UICONTROL Marketo Custom Objects]**&#x200B;를 클릭합니다.
 
    ![](assets/create-marketo-custom-objects-14.png)
 
-1. **[!UICONTROL New Custom Object]**&#x200B;을(를) 클릭합니다.
+1. **[!UICONTROL New Custom Object]**&#x200B;를 클릭합니다.
 
    ![](assets/create-marketo-custom-objects-15.png)
 

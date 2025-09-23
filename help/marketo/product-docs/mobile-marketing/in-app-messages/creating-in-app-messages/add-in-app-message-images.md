@@ -4,10 +4,10 @@ description: 인앱 메시지 이미지 추가 - Marketo 문서 - 제품 설명�
 title: 인앱 메시지 이미지 추가
 exl-id: b4617338-04bc-4235-bff1-7ec89a9b2c6a
 feature: Mobile Marketing
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '334'
-ht-degree: 0%
+ht-degree: 2%
 
 ---
 
@@ -31,7 +31,7 @@ ht-degree: 0%
 
    ![](assets/image2016-5-3-16-3a53-3a23.png)
 
-1. **[!UICONTROL Select Image]**&#x200B;을(를) 클릭합니다.
+1. **[!UICONTROL Select Image]**&#x200B;를 클릭합니다.
 
    ![](assets/image2016-5-6-8-3a53-3a55.png)
 

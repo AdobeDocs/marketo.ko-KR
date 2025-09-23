@@ -4,10 +4,10 @@ description: 특정 세그먼트를 사용하는 웹 캠페인 찾기 - Marketo 
 title: 특정 세그먼트를 사용하는 웹 캠페인 찾기
 exl-id: 3d180fdf-dfd3-4e56-b50d-faad9b0dc93a
 feature: Web Personalization
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '86'
-ht-degree: 0%
+ht-degree: 20%
 
 ---
 

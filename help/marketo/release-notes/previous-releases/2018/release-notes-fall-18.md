@@ -4,14 +4,14 @@ description: 릴리스 노트 - 18년 가을 - Marketo 문서 - 제품 설명서
 title: 릴리스 노트 - 2018년 가을
 exl-id: a3cc4cc5-38a6-4648-91f2-092daa9b0113
 feature: Release Information
-source-git-commit: 21bcdc10fe1f3517612efe0f8e2adaf2f4411a70
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '814'
 ht-degree: 0%
 
 ---
 
-# 릴리스 노트: 2018년 가을 {#release-notes-fall}
+# 릴리스 정보: 2018년 가을 {#release-notes-fall}
 
 다음 기능은 18년 가을 릴리스에 포함되어 있습니다. Marketo 버전에서 사용 가능한 기능이 있는지 확인하십시오.
 

@@ -4,10 +4,10 @@ description: Facebook 리드 광고 설정 - Marketo 문서 - 제품 설명서
 title: Facebook 리드 광고 설정
 exl-id: 24cb74da-6b46-45de-ba4a-66e3d490afd7
 feature: Integrations
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '298'
-ht-degree: 0%
+ht-degree: 3%
 
 ---
 
@@ -51,7 +51,7 @@ ht-degree: 0%
 
    ![](assets/set-up-facebook-lead-ads-6.png)
 
-1. 이제 권한이 부여되었음을 알 수 있습니다. **[!UICONTROL Next]**&#x200B;을(를) 클릭합니다.
+1. 이제 권한이 부여되었음을 알 수 있습니다. **[!UICONTROL Next]**&#x200B;를 클릭합니다.
 
    ![](assets/set-up-facebook-lead-ads-7.png)
 

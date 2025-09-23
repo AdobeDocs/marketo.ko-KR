@@ -1,17 +1,17 @@
 ---
 unique-page-id: 2360407
 description: 잠재 고객을 나열하는 이메일 분석 보고서 구축 - Marketo 문서 - 제품 설명서
-title: 잠재 고객을 나열하는 이메일 분석 보고서 작성
+title: 리드를 나열하는 이메일 분석 보고서 작성
 exl-id: f431610c-6570-4df0-9d64-d37d21010604
 feature: Reporting, Revenue Cycle Analytics
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '193'
-ht-degree: 0%
+ht-degree: 9%
 
 ---
 
-# 잠재 고객을 나열하는 이메일 분석 보고서 작성 {#build-an-email-analysis-report-that-lists-leads}
+# 리드를 나열하는 이메일 분석 보고서 작성 {#build-an-email-analysis-report-that-lists-leads}
 
 다음 단계에 따라 특정 이메일을 전송한 모든 잠재 고객을 보여 주는 이메일 분석 보고서를 생성하십시오. 이 보고서에는 클릭 및 열기 상태도 포함됩니다.
 
@@ -31,7 +31,7 @@ ht-degree: 0%
 
    ![](assets/report-that-lists-leads-2.png)
 
-1. **[!UICONTROL Email Analysis]**&#x200B;을(를) 선택하고 **[!UICONTROL OK]**&#x200B;을(를) 클릭합니다.
+1. **[!UICONTROL Email Analysis]**&#x200B;으로 선택하고 **[!UICONTROL OK]**&#x200B;를 클릭합니다.
 
    ![](assets/report-that-lists-leads-3.png)
 

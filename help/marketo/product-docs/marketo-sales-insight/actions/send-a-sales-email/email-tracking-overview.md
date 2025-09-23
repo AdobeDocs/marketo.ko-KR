@@ -3,10 +3,10 @@ description: 이메일 추적 개요 - Marketo 문서 - 제품 설명서
 title: 이메일 추적 개요
 exl-id: 89437d22-d739-45ea-8a2e-046a7de80379
 feature: Sales Insight Actions
-source-git-commit: 21bcdc10fe1f3517612efe0f8e2adaf2f4411a70
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '482'
-ht-degree: 0%
+ht-degree: 5%
 
 ---
 
@@ -57,7 +57,7 @@ ht-degree: 0%
 * 이메일에 이미지(로고 등)를 포함시키면 수신자는 이미지를 통해 메시지를 볼 수 있습니다.
 * 이메일에 링크를 call to action으로 포함합니다.
 
-## 테스트 이메일이 조회함으로 표시되지 않음 {#test-email-not-showed-as-viewed}
+## 테스트 이메일이 조회됨으로 표시되지 않음 {#test-email-not-showed-as-viewed}
 
 다른 이메일 주소로 메시지를 보낸 경우에도 Live Feed에 자신에게 보낸 이메일을 보는 것으로 기록되지 않습니다. 추적은 장치를 기반으로 합니다. [!DNL Sales Connect]에 로그인한 컴퓨터를 사용하는 한 해당 활동은 필터링됩니다.
 

@@ -3,10 +3,10 @@ description: 보고 개요 - Marketo 문서 - 제품 설명서
 title: 보고 개요
 exl-id: 62b4b9fc-a4fe-4298-947b-1ff453321464
 feature: Reporting
-source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '387'
-ht-degree: 0%
+ht-degree: 2%
 
 ---
 
@@ -22,7 +22,7 @@ Marketo은 다양한 요구 사항에 맞는 다양한 보고 모듈을 제공�
 
 분석 및 전송 기능을 사용하여 이전 데이터에서 이메일에 대한 [강력한 인사이트](/help/marketo/product-docs/reporting/email-insights/email-insights-overview.md){target="_blank"}를 얻을 수 있습니다.
 
-## 성능 인사이트 {#performance-insights}
+## 성과 인사이트 {#performance-insights}
 
 [성능 인사이트](/help/marketo/product-docs/reporting/performance-insights/performance-insights-overview.md){target="_blank"}는 참여, 파이프라인 및 수익 창출에 대한 채널 성능 및 프로그램 성능을 다룹니다.
 

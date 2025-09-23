@@ -1,16 +1,16 @@
 ---
 description: Marketo - Marketo 문서 - 제품 설명서와 ON24 통합 설정
-title: Marketo과 ON24 통합 설정
+title: Marketo와 ON24 통합 설정
 exl-id: 395ffa37-b87d-4eb4-bf9f-72aa96dc819c
 feature: Events
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '205'
-ht-degree: 1%
+ht-degree: 8%
 
 ---
 
-# Marketo과 ON24 통합 설정{#set-up-the-on24-integration-with-marketo}
+# Marketo와 ON24 통합 설정{#set-up-the-on24-integration-with-marketo}
 
 다음은 ON24 이벤트 통합을 설정하는 방법입니다.
 
@@ -28,7 +28,7 @@ ht-degree: 1%
 
    ![](assets/set-up-the-on24-integration-with-marketo-3.png)
 
-1. [!UICONTROL Role Name] 입력. **[!UICONTROL Access API]** 메뉴를 열고 &quot;[!UICONTROL Read-Write Custom Object]&quot; 및 &quot;[!UICONTROL Read-Write Person]&quot;을(를) 선택합니다. **[!UICONTROL Create]**&#x200B;을(를) 클릭합니다.
+1. [!UICONTROL Role Name] 입력. **[!UICONTROL Access API]** 메뉴를 열고 &quot;[!UICONTROL Read-Write Custom Object]&quot; 및 &quot;[!UICONTROL Read-Write Person]&quot;을(를) 선택합니다. **[!UICONTROL Create]**&#x200B;를 클릭합니다.
 
    ![](assets/set-up-the-on24-integration-with-marketo-4.png)
 
@@ -42,11 +42,11 @@ ht-degree: 1%
 
    ![](assets/set-up-the-on24-integration-with-marketo-6.png)
 
-1. 방금 만든 [!UICONTROL ON24 API Only Role (all workspaces)]을(를) 선택합니다. **[!UICONTROL API Only]** 확인란을 선택합니다. **[!UICONTROL Next]**&#x200B;을(를) 클릭합니다.
+1. 방금 만든 [!UICONTROL ON24 API Only Role (all workspaces)]을(를) 선택합니다. **[!UICONTROL API Only]** 확인란을 선택합니다. **[!UICONTROL Next]**&#x200B;를 클릭합니다.
 
    ![](assets/set-up-the-on24-integration-with-marketo-7.png)
 
-1. **[!UICONTROL Send]**&#x200B;을(를) 클릭합니다.
+1. **[!UICONTROL Send]**&#x200B;를 클릭합니다.
 
    ![](assets/set-up-the-on24-integration-with-marketo-8.png)
 
@@ -64,7 +64,7 @@ ht-degree: 1%
 
    ![](assets/set-up-the-on24-integration-with-marketo-10.png)
 
-1. [!UICONTROL display name] 선택. **[!UICONTROL Service]** 드롭다운을 클릭하고 **[!UICONTROL Custom]**&#x200B;을(를) 선택합니다. [!UICONTROL description] 입력. [!UICONTROL API Only User] 드롭다운을 클릭하고 위의 단계[에서 ](#create-a-new-user)을(를) 만든 사용자를 선택합니다. **[!UICONTROL Create]**&#x200B;을(를) 클릭합니다.
+1. [!UICONTROL display name] 선택. **[!UICONTROL Service]** 드롭다운을 클릭하고 **[!UICONTROL Custom]**&#x200B;을(를) 선택합니다. [!UICONTROL description] 입력. [!UICONTROL API Only User] 드롭다운을 클릭하고 위의 단계[에서 ](#create-a-new-user)을(를) 만든 사용자를 선택합니다. **[!UICONTROL Create]**&#x200B;를 클릭합니다.
 
    ![](assets/set-up-the-on24-integration-with-marketo-11.png)
 

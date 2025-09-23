@@ -4,10 +4,10 @@ description: 스마트 캠페인 결과 보기 - Marketo 문서 - 제품 설명�
 title: 스마트 캠페인 결과 보기
 exl-id: a883b2da-fbce-49f9-b18d-d75a90bd9c51
 feature: Smart Campaigns
-source-git-commit: 4bf27f7eb534ec76983a898d020f0b8c336a36dc
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
-source-wordcount: '115'
-ht-degree: 0%
+source-wordcount: '113'
+ht-degree: 8%
 
 ---
 
@@ -19,7 +19,7 @@ Smart Campaign에서 발생한 모든 사항의 분류를 보시겠습니까? �
 >
 >[캠페인 구성원 보기](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/smart-campaign-data/view-smart-campaign-members.md){target="_blank"}를 클릭하면 Smart Campaign에서 처리한 사람 목록을 볼 수 있습니다.
 
-1. 스마트 캠페인에서 **[!UICONTROL 결과]**&#x200B;를 클릭합니다.
+1. 스마트 캠페인에서 **[!UICONTROL Results]**&#x200B;을(를) 클릭합니다.
 
    ![](assets/view-smart-campaign-results-1.png)
 

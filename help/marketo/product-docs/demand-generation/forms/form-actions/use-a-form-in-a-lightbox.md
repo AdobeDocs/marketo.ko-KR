@@ -1,17 +1,17 @@
 ---
 unique-page-id: 2359677
 description: Lightbox에서 양식 사용 - Marketo 문서 - 제품 설명서
-title: Lightbox에서 양식 사용
+title: 라이트박스에서 양식 사용
 exl-id: 4cbb6ae7-acd4-4979-8825-fa983fdc8fb5
 feature: Forms
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '93'
-ht-degree: 0%
+ht-degree: 15%
 
 ---
 
-# Lightbox에서 양식 사용 {#use-a-form-in-a-lightbox}
+# 라이트박스에서 양식 사용 {#use-a-form-in-a-lightbox}
 
 Lightbox는 표시하려는 콘텐츠 앞에 폼을 여는 기술입니다. 방법은 다음과 같습니다.
 

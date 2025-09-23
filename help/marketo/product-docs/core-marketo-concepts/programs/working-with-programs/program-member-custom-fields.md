@@ -4,10 +4,10 @@ description: 프로그램 멤버 사용자 정의 필드 - Marketo 문서 - 제�
 title: 프로그램 멤버 사용자 정의 필드
 exl-id: 66b5dac6-015f-4907-8c82-78c932102463
 feature: Programs
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '403'
-ht-degree: 1%
+ht-degree: 4%
 
 ---
 
@@ -21,11 +21,11 @@ ht-degree: 1%
 
    ![](assets/one.png)
 
-1. **[!UICONTROL Field Management]**&#x200B;을(를) 클릭합니다.
+1. **[!UICONTROL Field Management]**&#x200B;를 클릭합니다.
 
    ![](assets/two.png)
 
-1. **[!UICONTROL New Custom Field]**&#x200B;을(를) 클릭합니다.
+1. **[!UICONTROL New Custom Field]**&#x200B;를 클릭합니다.
 
    ![](assets/three.png)
 
@@ -60,7 +60,7 @@ ht-degree: 1%
 
 ![](assets/six.png)
 
-## 알아야 할 사항 {#things-to-know}
+## 알아 두어야 할 항목 {#things-to-know}
 
 * 프로그램 멤버 사용자 정의 필드는 로컬 에셋에서만 사용할 수 있습니다. 특정 프로그램에 연결할 방법이 없으므로 Design Studio에서 지원되지 않습니다.
 * 프로그램 멤버 사용자 정의 필드가 포함된 양식(또는 양식이 있는 랜딩 페이지)은 Design Studio로 복제/이동할 수 없습니다.

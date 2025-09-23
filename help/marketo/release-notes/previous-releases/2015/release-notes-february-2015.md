@@ -4,14 +4,14 @@ description: 릴리스 노트 - 2015년 2월 - Marketo 문서 - 제품 설명서
 title: 릴리스 노트 - 2015년 2월
 exl-id: a7ce88dc-a4d2-4ccb-9fe5-61130334d24d
 feature: Release Information
-source-git-commit: ecd225af3ecfd7cb9159faf5a9d384d47ee6312c
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '325'
-ht-degree: 0%
+ht-degree: 1%
 
 ---
 
-# 릴리스 노트: 2015년 2월 {#release-notes-february}
+# 릴리스 정보: 2015년 2월 {#release-notes-february}
 
 다음 기능은 2015년 2월 릴리스에 포함되어 있습니다. Marketo 버전에서 사용 가능한 기능이 있는지 확인하십시오. 릴리스 후에 다시 돌아와 각 기능에 대한 세부 문서에 대한 링크를 찾으십시오. 드럼 롤...
 

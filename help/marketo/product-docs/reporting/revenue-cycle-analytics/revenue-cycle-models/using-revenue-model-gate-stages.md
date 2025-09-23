@@ -4,10 +4,10 @@ description: 수익 모델 게이트 단계 사용 - Marketo 문서 - 제품 설
 title: 수익 모델 게이트 단계 사용
 exl-id: a69a4efd-76de-4bfa-81f2-6e74048f30f7
 feature: Reporting, Revenue Cycle Analytics
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '246'
-ht-degree: 0%
+ht-degree: 6%
 
 ---
 
@@ -29,7 +29,7 @@ ht-degree: 0%
 
    ![](assets/image2015-4-27-15-3a6-3a30.png)
 
-1. **[!UICONTROL Edit Draft]**&#x200B;을(를) 클릭합니다.
+1. **[!UICONTROL Edit Draft]**&#x200B;를 클릭합니다.
 
    ![](assets/image2015-4-27-12-3a10-3a49.png)
 
@@ -75,7 +75,7 @@ ht-degree: 0%
 
    ![](assets/image2015-4-28-12-3a56-3a28.png)
 
-1. 두 삭제 방법 모두 선택을 확인하라는 메시지가 표시됩니다. **[!UICONTROL Delete]**&#x200B;을(를) 클릭합니다.
+1. 두 삭제 방법 모두 선택을 확인하라는 메시지가 표시됩니다. **[!UICONTROL Delete]**&#x200B;를 클릭합니다.
 
    ![](assets/image2015-4-28-12-3a52-3a22.png)
 

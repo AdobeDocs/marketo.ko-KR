@@ -4,14 +4,14 @@ description: 릴리스 노트 - 2012년 12월 - Marketo 설명서 - 제품 설�
 title: 릴리스 노트 - 2012년 12월
 exl-id: d9d09c4b-6764-4638-9cb1-2882fb0947cc
 feature: Release Information
-source-git-commit: ecd225af3ecfd7cb9159faf5a9d384d47ee6312c
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '367'
-ht-degree: 0%
+ht-degree: 1%
 
 ---
 
-# 릴리스 노트: 2012년 12월 {#release-notes-december}
+# 릴리스 정보: 2012년 12월 {#release-notes-december}
 
 12월 릴리스에는 많은 기대를 모은 **친구에게 전달** 기능과 여러 가지 다른 기능이 포함됩니다. 별표(&#42;)로 표시된 기능은 Select Edition 및 RCA(Revenue Cycle Analytics)에서만 사용할 수 있습니다.
 
@@ -43,9 +43,9 @@ Marketo [!UICONTROL BrightTALK] 어댑터를 사용하면 라이브 또는 온�
 
 ![](assets/image2014-9-23-10-3a51-3a31.png)
 
-## [!DNL Microsoft Dynamics]용 Marketo [!DNL Sales Insight] {#marketo-sales-insight-for-microsoft-dynamics}
+## [!DNL Sales Insight]용 Marketo [!DNL Microsoft Dynamics] {#marketo-sales-insight-for-microsoft-dynamics}
 
-이제 [!DNL Microsoft Dynamics] 고객이 [!DNL Sales Insight]을(를) 사용할 수 있습니다!
+이제 [!DNL Sales Insight] 고객이 [!DNL Microsoft Dynamics]을(를) 사용할 수 있습니다!
 
 ## [!DNL Dynamics] 영업 기회 동기화 {#dynamics-opportunity-sync}
 
@@ -66,7 +66,7 @@ Marketo과 [!DNL Microsoft Dynamics] 간 영업 기회 데이터를 동기화합
 
 ![](assets/image2014-9-23-10-3a52-3a23.png)
 
-## 캠페인 검사자 {#campaign-inspector}
+## 캠페인 검사기 {#campaign-inspector}
 
 [!UICONTROL Change Score] 또는 [!UICONTROL Request Campaign]과(와) 같은 특정 흐름 작업을 사용하는 캠페인에 대해 생각해 본 적이 있습니까? 아니면 특정 필터가 사용되는 위치입니까? 새 [!UICONTROL Campaign Inspector]&#x200B;(Treasure Chest에서 사용 가능)을 사용하면 이러한 캠페인과 오류가 있는 활성 캠페인 및 캠페인을 식별할 수 있습니다.
 

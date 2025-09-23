@@ -1,15 +1,15 @@
 ---
 description: Salesforce - Marketo 문서 - 제품 설명서에서 Sales Campaign에 일괄 추가 사용
-title: Salesforce에서 판매 캠페인에 일괄 추가 사용
+title: Salesforce에서 세일즈 캠페인에 일괄 추가 사용
 exl-id: e518fe82-e37d-4edd-8a31-19268f6fd4b1
-source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '580'
-ht-degree: 0%
+ht-degree: 2%
 
 ---
 
-# Salesforce에서 판매 캠페인에 일괄 추가 사용 {#using-bulk-add-to-sales-campaign-in-salesforce}
+# Salesforce에서 세일즈 캠페인에 일괄 추가 사용 {#using-bulk-add-to-sales-campaign-in-salesforce}
 
 Salesforce에서 판매 캠페인에 일괄 추가하여 판매 작업을 사용하여 아웃바운드 커뮤니케이션을 확장하는 방법을 알아봅니다.
 

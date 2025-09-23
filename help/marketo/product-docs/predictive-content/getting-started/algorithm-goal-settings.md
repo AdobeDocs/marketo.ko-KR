@@ -4,10 +4,10 @@ description: 알고리즘 목표 설정 - Marketo 문서 - 제품 설명서
 title: 알고리즘 목표 설정
 exl-id: b07a5b71-c6f3-47e8-bc31-10ba64483ad0
 feature: Predictive Content
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '99'
-ht-degree: 0%
+ht-degree: 6%
 
 ---
 

@@ -3,14 +3,14 @@ unique-page-id: 11380218
 description: 릴리스 노트 - 2016년 여름 - Marketo 문서 - 제품 설명서
 title: 릴리스 노트 - 2016년 여름
 exl-id: 3843668e-c729-42aa-b05c-55c33ee0d783
-source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '773'
 ht-degree: 0%
 
 ---
 
-# 릴리스 노트: 2016년 여름 {#release-notes-summer}
+# 릴리스 정보: 2016년 여름 {#release-notes-summer}
 
 다음 기능은 16년 여름 릴리스에 포함되어 있습니다. Marketo 버전에서 사용 가능한 기능이 있는지 확인하십시오. 각 기능에 대한 자세한 문서를 보려면 제목 링크를 클릭하십시오.
 
@@ -99,7 +99,7 @@ Marketo 내에서 SMS 메시지를 쉽게 만들 수 있습니다. 풍부한 Mar
 
 컨텐츠 분석 및 권장 사항 데이터를 오프라인으로 봅니다.
 
-## [전자 메일 편집기 2.0에 대한 API 지원](https://developers.marketo.com/documentation/asset-api/) {#api-support-for-email-editor}
+## 전자 메일 편집기 2.0에 대한 [API 지원](https://developers.marketo.com/documentation/asset-api/) {#api-support-for-email-editor}
 
 이전에 v1.0 이메일 및 템플릿과만 호환되는 기존 에셋 API가 이제 v2.0 이메일 에셋에 대해 활성화됩니다.
 

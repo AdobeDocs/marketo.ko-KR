@@ -4,7 +4,7 @@ description: 관리자 계정을 사용하는 매출 모델에서  [!DNL Google 
 title: 관리자 계정을 사용하여 수익 모델에서  [!DNL Google AdWords] 전환 설정
 exl-id: 8c9f50cf-0a8b-4f9a-a0bd-bb57eeac24cf
 feature: Reporting, Revenue Cycle Analytics
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '374'
 ht-degree: 1%
@@ -50,7 +50,7 @@ ht-degree: 1%
 
    ![](assets/image2015-3-27-17-3a18-3a58.png)
 
-1. **[!UICONTROL Save]**&#x200B;을(를) 클릭합니다.
+1. **[!UICONTROL Save]**&#x200B;를 클릭합니다.
 
    ![](assets/image2015-3-27-17-3a21-3a15.png)
 
@@ -74,7 +74,7 @@ ht-degree: 1%
 
    ![](assets/image2015-3-27-17-3a23-3a13.png)
 
-1. **전환 이름**&#x200B;을 입력하십시오. **[!UICONTROL Save]**&#x200B;을(를) 클릭합니다.
+1. **전환 이름**&#x200B;을 입력하십시오. **[!UICONTROL Save]**&#x200B;를 클릭합니다.
 
    ![](assets/image2015-3-27-17-3a24-3a49.png)
 

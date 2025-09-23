@@ -1,17 +1,17 @@
 ---
 unique-page-id: 12976798
 description: LinkedIn 리드 세대 Forms - Marketo 문서 - 제품 설명서 설정
-title: LinkedIn 리드 세대 Forms 설정
+title: LinkedIn 리드 생성 양식 설정
 exl-id: 554a546c-adeb-4132-830d-ff15ba5cf9a1
 feature: Social
-source-git-commit: 7a8f5146126d6e8a4902be9337eef4d51e108cf0
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '496'
-ht-degree: 0%
+ht-degree: 3%
 
 ---
 
-# LinkedIn 리드 세대 Forms 설정 {#set-up-linkedin-lead-gen-forms}
+# LinkedIn 리드 생성 양식 설정 {#set-up-linkedin-lead-gen-forms}
 
 LinkedIn 리드 세대 Forms을 사용하여 LinkedIn에서 광고 캠페인을 실행하고 Marketo에 대한 리드를 생성합니다.
 
@@ -55,7 +55,7 @@ LinkedIn 리드 세대 Forms을 사용하여 LinkedIn에서 광고 캠페인을 
 
    ![](assets/set-up-linkedin-lead-gen-forms-6.png)
 
-1. 이제 권한이 부여되었음을 알 수 있습니다. **[!UICONTROL Next]**&#x200B;을(를) 클릭합니다.
+1. 이제 권한이 부여되었음을 알 수 있습니다. **[!UICONTROL Next]**&#x200B;를 클릭합니다.
 
    ![](assets/set-up-linkedin-lead-gen-forms-7.png)
 

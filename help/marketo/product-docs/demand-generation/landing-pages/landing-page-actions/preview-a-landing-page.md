@@ -4,10 +4,10 @@ description: 랜딩 페이지 미리보기 - Marketo 문서 - 제품 설명서
 title: 랜딩 페이지 미리보기
 exl-id: fa786e68-9dd6-479d-9e9b-5acd3e323cef
 feature: Landing Pages
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '129'
-ht-degree: 1%
+ht-degree: 10%
 
 ---
 

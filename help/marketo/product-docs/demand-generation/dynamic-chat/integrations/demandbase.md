@@ -3,16 +3,16 @@ description: Demandbase - Marketo 문서 - 제품 설명서
 title: Demandbase
 feature: Dynamic Chat
 exl-id: 2623eef2-0b15-4821-a23e-12eed613d6b6
-source-git-commit: 14bf3ca81a3732c2687f66ca71ac832ae3177623
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '179'
-ht-degree: 2%
+ht-degree: 12%
 
 ---
 
 # Demandbase {#demandbase}
 
-Demandbase 사용자는 Dynamic Chat에서 대화 상자 타겟팅, 조건부 브랜딩 및 사용자 지정 라우팅에 Demandbase 개인 속성을 사용할 수 있습니다.
+Demandbase 사용자는 Dynamic Chat에서 Demandbase 사용자 속성을 사용하여 대화 타기팅, 조건부 브랜딩 및 사용자 정의 라우팅을 수행할 수 있습니다.
 
 ## Dynamic Chat용 API 키 액세스 {#access-the-api-key-for-dynamic-chat}
 

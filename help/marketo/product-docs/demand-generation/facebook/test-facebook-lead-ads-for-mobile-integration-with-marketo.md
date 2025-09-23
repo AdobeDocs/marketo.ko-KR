@@ -1,13 +1,13 @@
 ---
 unique-page-id: 10098759
 description: Marketo과의 모바일 통합을 위한 Facebook 리드 광고 테스트 - Marketo 설명서 - 제품 설명서
-title: Marketo과의 모바일 통합을 위해 Facebook 리드 광고 테스트
+title: Marketo와 모바일 통합을 위한 Facebook 리드 광고 테스트
 exl-id: 0c381c53-f97a-4e1d-b44d-5ee6521ac990
 feature: Integrations
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '199'
-ht-degree: 0%
+ht-degree: 5%
 
 ---
 
@@ -25,7 +25,7 @@ ht-degree: 0%
 
    ![](assets/image2016-5-13-15-3a2-3a38.png)
 
-1. 승인된 계정으로 모바일 장치에서 액세스할 수 있는 [!DNL Facebook] 계정으로 새 알림이 전송됩니다. **[!UICONTROL OK]**&#x200B;을(를) 클릭합니다.
+1. 승인된 계정으로 모바일 장치에서 액세스할 수 있는 [!DNL Facebook] 계정으로 새 알림이 전송됩니다. **[!UICONTROL OK]**&#x200B;를 클릭합니다.
 
    ![](assets/image2016-3-11-8-3a35-3a7.png)
 

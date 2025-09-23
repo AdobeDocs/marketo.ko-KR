@@ -4,14 +4,14 @@ description: 릴리스 노트 - 2015년 4월 - Marketo 문서 - 제품 설명서
 title: 릴리스 노트 - 2015년 4월
 exl-id: 754e3abf-d5e7-447f-a032-6ed66723f837
 feature: Release Information
-source-git-commit: ecd225af3ecfd7cb9159faf5a9d384d47ee6312c
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '310'
-ht-degree: 0%
+ht-degree: 1%
 
 ---
 
-# 릴리스 노트: 2015년 4월 {#release-notes-april}
+# 릴리스 정보: 2015년 4월 {#release-notes-april}
 
 다음 기능은 2015년 4월 릴리스에 포함되어 있습니다. Marketo 버전에서 사용 가능한 기능이 있는지 확인하십시오. 릴리스 후에 다시 돌아와 각 기능에 대한 자세한 문서에 대한 링크를 찾으십시오.
 
@@ -41,11 +41,11 @@ Marketo Mobile Engagement를 사용하면 매력적인 모바일 경험을 쉽�
 
 [[!DNL LinkedIn] 리드 가속기 통합](/help/marketo/product-docs/demand-generation/social/social-functions/use-a-marketo-list-or-smart-list-as-a-linkedin-audience-segment.md)
 
-리드 육성 전략을 유료 디스플레이 및 소셜 광고로 확장하십시오. [!DNL LinkedIn] 리드 가속기와 [광고 네트워크 통합](/help/marketo/product-docs/demand-generation/ad-network-integrations/add-linkedin-matched-audiences-as-a-launchpoint-service.md)을(를) 사용하면 모든 스마트 또는 정적 목록의 구성원을 기반으로 [!DNL LinkedIn] 내에 대상 세그먼트를 안전하게 만들 수 있습니다. 그런 다음 [!DNL LinkedIn] 대상 세그먼트 내의 구성원을 관련 광고 시퀀스로 육성할 수 있습니다.
+리드 육성 전략을 유료 디스플레이 및 소셜 광고로 확장하십시오. [ 리드 가속기와 ](/help/marketo/product-docs/demand-generation/ad-network-integrations/add-linkedin-matched-audiences-as-a-launchpoint-service.md)광고 네트워크 통합[!DNL LinkedIn]을(를) 사용하면 모든 스마트 또는 정적 목록의 구성원을 기반으로 [!DNL LinkedIn] 내에 대상 세그먼트를 안전하게 만들 수 있습니다. 그런 다음 [!DNL LinkedIn] 대상 세그먼트 내의 구성원을 관련 광고 시퀀스로 육성할 수 있습니다.
 
 ![](assets/image2015-4-20-11-3a3-3a27.png)
 
-## [!DNL Salesforce1]용 Marketo [!DNL Sales Insight] {#marketo-sales-insight-for-salesforce}
+## [!DNL Sales Insight]용 Marketo [!DNL Salesforce1] {#marketo-sales-insight-for-salesforce}
 
 [!DNL Sales Insight] 기능(리드 피드, 최고의 선택, 즐거운 순간 및 Marketo 캠페인에 추가)을 모두 [!DNL Salesforce1] 앱에서 사용할 수 있습니다.
 

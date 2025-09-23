@@ -1,17 +1,17 @@
 ---
 unique-page-id: 17728401
 description: Gmail 사용자를 위한 이메일 연결 - Marketo 문서 - 제품 설명서
-title: Gmail 사용자를 위한 전자 메일 연결
+title: Gmail 사용자를 위한 이메일 연결
 exl-id: 024461f1-b1c0-40ff-bb1c-49846c57dabe
 feature: Marketo Sales Connect
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '163'
-ht-degree: 1%
+ht-degree: 9%
 
 ---
 
-# Gmail 사용자를 위한 전자 메일 연결 {#email-connection-for-gmail-users}
+# Gmail 사용자를 위한 이메일 연결 {#email-connection-for-gmail-users}
 
 Gmail에 연결하면 회신 추적을 받고, Gmail 게재 채널에 액세스하고, Gmail에서 이메일을 예약하고, 규정 준수를 보낼 수 있습니다.
 
@@ -31,15 +31,15 @@ Gmail에 연결하면 회신 추적을 받고, Gmail 게재 채널에 액세스�
 
    ![](assets/three.png)
 
-1. **[!UICONTROL Get Started]**&#x200B;을(를) 클릭합니다.
+1. **[!UICONTROL Get Started]**&#x200B;를 클릭합니다.
 
    ![](assets/four.png)
 
-1. **[!UICONTROL I use Gmail to send emails]**&#x200B;을(를) 선택하고 **[!UICONTROL Next]**&#x200B;을(를) 클릭합니다.
+1. **[!UICONTROL I use Gmail to send emails]**&#x200B;으로 선택하고 **[!UICONTROL Next]**&#x200B;를 클릭합니다.
 
    ![](assets/five.png)
 
-1. **[!UICONTROL OK]**&#x200B;을(를) 클릭합니다.
+1. **[!UICONTROL OK]**&#x200B;를 클릭합니다.
 
    ![](assets/six.png)
 
@@ -51,7 +51,7 @@ Gmail에 연결하면 회신 추적을 받고, Gmail 게재 채널에 액세스�
 
    ![](assets/eight.png)
 
-1. **[!UICONTROL Allow]**&#x200B;을(를) 클릭합니다.
+1. **[!UICONTROL Allow]**&#x200B;를 클릭합니다.
 
    ![](assets/nine.png)
 

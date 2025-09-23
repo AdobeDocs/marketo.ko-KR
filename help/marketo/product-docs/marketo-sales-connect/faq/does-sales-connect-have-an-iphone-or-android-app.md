@@ -1,13 +1,13 @@
 ---
 unique-page-id: 14352507
-description: Sales Connect에 iPhone 또는 Android 앱이 있습니까? - Marketo 문서 - 제품 설명서
+description: Sales Connect에 iPhone 또는 Android 앱이 있습니까? - Marketo 설명서 - 제품 설명서
 title: Sales Connect에 iPhone 또는 Android 앱이 있습니까?
 exl-id: 94f1106a-69fe-44ea-bb57-beba51cee576
 feature: Marketo Sales Connect
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '49'
-ht-degree: 0%
+ht-degree: 26%
 
 ---
 

@@ -1,17 +1,17 @@
 ---
 unique-page-id: 8159286
 description: 영업 기회 필터 및 트리거 - Marketo 문서 - 제품 설명서
-title: 영업 기회 필터 및 트리거
+title: 기회 필터 및 트리거
 exl-id: 5b372c00-1553-4ac3-a495-53e208371d8d
 feature: Smart Lists
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '473'
-ht-degree: 0%
+ht-degree: 1%
 
 ---
 
-# 영업 기회 필터 및 트리거 {#opportunity-filters-and-triggers}
+# 기회 필터 및 트리거 {#opportunity-filters-and-triggers}
 
 영업 기회 필터 및 트리거를 사용하여 [!DNL Salesforce]의 영업 기회 이벤트를 추적할 수 있습니다. 다른 필터 및 트리거와 비교하면 약간 다릅니다.
 

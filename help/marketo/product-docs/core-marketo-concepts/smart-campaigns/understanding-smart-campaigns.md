@@ -4,10 +4,10 @@ description: 스마트 캠페인 이해 - Marketo 문서 - 제품 설명서
 title: 스마트 캠페인 이해
 exl-id: 94675059-cc04-4dc2-989f-aaf81e1260d3
 feature: Smart Campaigns
-source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '249'
-ht-degree: 14%
+ht-degree: 17%
 
 ---
 
@@ -43,7 +43,7 @@ Marketo Engage가 자동차라면 Smart Campaign은 자동차의 엔진입니다
 
 다양한 방법으로 필터를 결합할 수 있을 뿐만 아니라 트리거와 함께 사용할 수도 있습니다. 이 도구는 강력한 도구입니다. 이를 실험해 보십시오.
 
-## 흐름 {#flow}
+## 플로우 {#flow}
 
 이 흐름에는 대기 단계 및 분할 선택 사항을 포함하여 스마트 캠페인이 수행할 단계가 포함됩니다.
 

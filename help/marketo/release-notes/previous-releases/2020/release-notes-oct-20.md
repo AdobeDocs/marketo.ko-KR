@@ -4,10 +4,10 @@ description: 릴리스 노트 - 2020년 10월 - Marketo 설명서 - 제품 설�
 title: 릴리스 노트 - 2020년 10월
 exl-id: da6a3de5-5ef0-4ce3-8ee1-6ca3dd482fdc
 feature: Release Information
-source-git-commit: ecd225af3ecfd7cb9159faf5a9d384d47ee6312c
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '936'
-ht-degree: 0%
+ht-degree: 2%
 
 ---
 
@@ -21,7 +21,7 @@ ht-degree: 0%
 
 **_분기별 릴리스_** 다음 기능은 **2020년 10월 16일**&#x200B;에 릴리스됩니다.
 
-## 타겟 계정 관리 {#target-account-management}
+## Target 계정 관리 {#target-account-management}
 
 ![(별)](assets/yellow-star.png)
 

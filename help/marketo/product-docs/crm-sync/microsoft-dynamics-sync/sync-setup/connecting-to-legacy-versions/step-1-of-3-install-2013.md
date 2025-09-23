@@ -4,7 +4,7 @@ description: 1단계/3단계 - Dynamics(2013 온-프레미스)에 Marketo 솔루
 title: 1단계/3단계 - Dynamics에서 Marketo 솔루션 설치(2013 온-프레미스)
 exl-id: 89f90bca-b459-447f-bbdd-363f232a1059
 feature: Microsoft Dynamics
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '250'
 ht-degree: 1%
@@ -39,11 +39,11 @@ ht-degree: 1%
 
    ![](assets/image2014-12-11-10-3a39-3a51.png)
 
-1. **[!UICONTROL Import]**&#x200B;을(를) 클릭합니다.
+1. **[!UICONTROL Import]**&#x200B;를 클릭합니다.
 
    ![](assets/image2015-3-26-9-3a52-3a10.png)
 
-1. **[!UICONTROL Browse]**&#x200B;을(를) 클릭하고 [다운로드한 솔루션](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/download-the-marketo-lead-management-solution.md)을(를) 선택합니다. **[!UICONTROL Next]**&#x200B;을(를) 클릭합니다.
+1. **[!UICONTROL Browse]**&#x200B;을(를) 클릭하고 [다운로드한 솔루션](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/download-the-marketo-lead-management-solution.md)을(를) 선택합니다. **[!UICONTROL Next]**&#x200B;를 클릭합니다.
 
    ![](assets/image2015-3-26-9-3a54-3a1.png)
 
@@ -59,7 +59,7 @@ ht-degree: 1%
 
    ![](assets/image2015-3-26-9-3a55-3a17.png)
 
-1. SDK 옵션이 선택되어 있는지 확인합니다. **[!UICONTROL Import]**&#x200B;을(를) 클릭합니다.
+1. SDK 옵션이 선택되어 있는지 확인합니다. **[!UICONTROL Import]**&#x200B;를 클릭합니다.
 
    ![](assets/image2015-3-26-10-3a3-3a11.png)
 

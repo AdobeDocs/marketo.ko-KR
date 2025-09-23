@@ -1,13 +1,13 @@
 ---
 unique-page-id: 17727591
 description: Outlook 사용자용 이메일 연결 - Marketo 문서 - 제품 설명서
-title: Outlook 사용자용 전자 메일 연결
+title: Outlook 사용자를 위한 이메일 연결
 exl-id: e694915c-39a6-4476-a643-080acb758de7
 feature: Marketo Sales Connect
-source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '268'
-ht-degree: 1%
+ht-degree: 5%
 
 ---
 
@@ -35,11 +35,11 @@ ht-degree: 1%
 
    ![](assets/three.png)
 
-1. **[!UICONTROL Get Started]**&#x200B;을(를) 클릭합니다.
+1. **[!UICONTROL Get Started]**&#x200B;를 클릭합니다.
 
    ![](assets/four.png)
 
-1. **[!UICONTROL I use Outlook to send emails]**&#x200B;을(를) 선택하고 **[!UICONTROL Next]**&#x200B;을(를) 클릭합니다.
+1. **[!UICONTROL I use Outlook to send emails]**&#x200B;으로 선택하고 **[!UICONTROL Next]**&#x200B;를 클릭합니다.
 
    ![](assets/five-a.png)
 
@@ -64,7 +64,7 @@ ht-degree: 1%
    >
    >현재 Marketo에서는 [!DNL Exchange Hybrid] 계정을 지원하지 않습니다.
 
-1. **[!UICONTROL OK]**&#x200B;을(를) 클릭합니다.
+1. **[!UICONTROL OK]**&#x200B;를 클릭합니다.
 
    ![](assets/seven-a.png)
 
@@ -72,7 +72,7 @@ ht-degree: 1%
 
    ![](assets/eight-a.png)
 
-1. **[!UICONTROL Accept]**&#x200B;을(를) 클릭합니다.
+1. **[!UICONTROL Accept]**&#x200B;를 클릭합니다.
 
    ![](assets/nine-a.png)
 
@@ -98,11 +98,11 @@ ht-degree: 1%
 
    ![](assets/three.png)
 
-1. **[!UICONTROL Get Started]**&#x200B;을(를) 클릭합니다.
+1. **[!UICONTROL Get Started]**&#x200B;를 클릭합니다.
 
    ![](assets/four.png)
 
-1. **[!UICONTROL I use Outlook to send emails]**&#x200B;을(를) 선택하고 **[!UICONTROL Next]**&#x200B;을(를) 클릭합니다.
+1. **[!UICONTROL I use Outlook to send emails]**&#x200B;으로 선택하고 **[!UICONTROL Next]**&#x200B;를 클릭합니다.
 
    ![](assets/five-a.png)
 

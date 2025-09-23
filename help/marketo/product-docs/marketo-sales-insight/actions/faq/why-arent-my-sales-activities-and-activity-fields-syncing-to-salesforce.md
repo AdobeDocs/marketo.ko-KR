@@ -1,15 +1,15 @@
 ---
-description: 영업 활동 및 활동 필드가 Salesforce과 동기화되지 않는 이유는 무엇입니까? - Marketo 문서 - 제품 설명서
-title: 영업 활동 및 활동 필드가 Salesforce과 동기화되지 않는 이유는 무엇입니까?
+description: 영업 활동 및 활동 필드가 Salesforce과 동기화되지 않는 이유는 무엇입니까? - Marketo 설명서 - 제품 설명서
+title: 내 세일즈 활동 및 활동 필드가 Salesforce와 동기화되지 않는 이유는 무엇입니까?
 exl-id: 5da855f2-18c6-456a-9e5d-ef4499596b3c
-source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '327'
-ht-degree: 0%
+ht-degree: 7%
 
 ---
 
-# 영업 활동 및 활동 필드가 Salesforce과 동기화되지 않는 이유는 무엇입니까? {#why-arent-my-sales-activities-and-activity-fields-syncing-to-salesforce}
+# 내 세일즈 활동 및 활동 필드가 Salesforce와 동기화되지 않는 이유는 무엇입니까? {#why-arent-my-sales-activities-and-activity-fields-syncing-to-salesforce}
 
 **Salesforce에 동기화된 전자 메일 또는 통화 활동이 표시되지 않습니다.**
 

@@ -4,10 +4,10 @@ description: 템플릿에 자동 구독 취소 추가 - Marketo 문서 - 제품 
 title: 템플릿에 자동 구독 취소 추가
 exl-id: 82319fb8-75d5-4f24-87dc-d14814a06224
 feature: Marketo Sales Connect
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '72'
-ht-degree: 0%
+ht-degree: 13%
 
 ---
 

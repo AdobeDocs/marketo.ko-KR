@@ -1,17 +1,17 @@
 ---
 unique-page-id: 2360201
 description: 개인 보고서에 사용자 정의 열 추가 - Marketo 문서 - 제품 설명서
-title: 개인 보고서에 사용자 정의 열 추가
+title: 사용자 보고서에 사용자 정의 열 추가
 exl-id: 8604b3dc-fc8c-491e-8ffd-a5d5a9597ae1
 feature: Reporting
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '90'
-ht-degree: 0%
+ht-degree: 15%
 
 ---
 
-# 개인 보고서에 사용자 정의 열 추가 {#add-custom-columns-to-a-person-report}
+# 사용자 보고서에 사용자 정의 열 추가 {#add-custom-columns-to-a-person-report}
 
 [스마트 목록](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/understanding-smart-lists.md)을 사용자 지정 열로 사용하여 개인 보고서에서 지표를 추가로 필터링할 수 있습니다.
 

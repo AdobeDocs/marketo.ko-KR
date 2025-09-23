@@ -4,14 +4,14 @@ description: 릴리스 노트 - 2014년 5월 - Marketo 문서 - 제품 설명서
 title: 릴리스 노트 - 2014년 5월
 exl-id: c7b5b2c1-ea3d-483b-8a65-c4d6313bfe31
 feature: Release Information
-source-git-commit: ecd225af3ecfd7cb9159faf5a9d384d47ee6312c
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '453'
-ht-degree: 0%
+ht-degree: 1%
 
 ---
 
-# 릴리스 노트: 2014년 5월 {#release-notes-may}
+# 릴리스 정보: 2014년 5월 {#release-notes-may}
 
 다음 기능은 2014년 5월 릴리스에 포함되어 있습니다. Marketo 버전에서 사용 가능한 기능이 있는지 확인하십시오. 릴리스 후에 다시 돌아와 각 기능에 대한 자세한 기술 자료 문서에 대한 링크를 찾으십시오.
 
@@ -73,7 +73,7 @@ AppExchange에서 최신 버전의 [!UICONTROL Sales Insight]을(를) 다운로�
 
 ## [!UICONTROL Email Analysis]의 A/B 테스트 전자 메일 {#a-b-test-emails-in-email-analysis}
 
-[!UICONTROL Email Analysis]의 각 [A/B 테스트 전자 메일 변형](/help/marketo/product-docs/reporting/revenue-cycle-analytics/email-analysis/build-an-email-analysis-report-that-shows-program-information.md)에 대해 보고합니다.
+[의 각 ](/help/marketo/product-docs/reporting/revenue-cycle-analytics/email-analysis/build-an-email-analysis-report-that-shows-program-information.md)A/B 테스트 전자 메일 변형[!UICONTROL Email Analysis]에 대해 보고합니다.
 
 ## Analytics 패키징 변경 사항 {#analytics-packaging-changes}
 

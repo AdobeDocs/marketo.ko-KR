@@ -4,7 +4,7 @@ description: 웹 세그먼트 - Marketo 문서 - 제품 설명서
 title: 웹 세그먼트
 exl-id: ec62c1ae-579a-4753-9b2d-18c7c2fa1ff5
 feature: Web Personalization
-source-git-commit: 21bcdc10fe1f3517612efe0f8e2adaf2f4411a70
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '1980'
 ht-degree: 0%
@@ -187,7 +187,7 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->명명된 계정 목록 이름 옆에 있는 대괄호 안의 숫자는 웹 Personalization [API 읽기](https://experienceleague.adobe.com/ko/docs/marketo-developer/marketo/javascriptapi/web-personalization)에 대한 목록에 대한 인덱스 참조로 사용됩니다.
+>명명된 계정 목록 이름 옆에 있는 대괄호 안의 숫자는 웹 Personalization [API 읽기](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/javascriptapi/web-personalization)에 대한 목록에 대한 인덱스 참조로 사용됩니다.
 
 **ISP 제외**
 
@@ -286,7 +286,7 @@ ht-degree: 0%
 
 **사용자 컨텍스트 API**
 
-웹 Personalization API 호출 [자세한 내용은 여기를 참조하십시오.](https://experienceleague.adobe.com/ko/docs/marketo-developer/marketo/javascriptapi/web-personalization)
+웹 Personalization API 호출 [자세한 내용은 여기를 참조하십시오.](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/javascriptapi/web-personalization)
 
 >[!TIP]
 >
@@ -302,7 +302,7 @@ ht-degree: 0%
 
 1. **[!UICONTROL Segments]** 테이블에서 편집할 세그먼트의 편집 아이콘(![](assets/segment-edit.png))을 클릭합니다. 선택한 세그먼트로 **[!UICONTROL Set Segment]** 페이지가 열립니다.
 1. 세그먼트에 적용할 편집 또는 변경 사항을 적용합니다.
-1. **[!UICONTROL Save]**&#x200B;을(를) 클릭합니다.
+1. **[!UICONTROL Save]**&#x200B;를 클릭합니다.
 
 ## 세그먼트 삭제 {#delete-segments}
 

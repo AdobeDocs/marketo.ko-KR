@@ -1,17 +1,17 @@
 ---
 unique-page-id: 2359537
 description: 랜딩 페이지에 코드 조각 추가 - Marketo 문서 - 제품 설명서
-title: 랜딩 페이지에 코드 조각 추가
+title: 랜딩 페이지에 스니펫 추가
 exl-id: 35290bef-cb6f-4477-995c-d4571712b866
 feature: Landing Pages
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '103'
-ht-degree: 0%
+ht-degree: 13%
 
 ---
 
-# 랜딩 페이지에 코드 조각 추가 {#add-a-snippet-to-a-landing-page}
+# 랜딩 페이지에 스니펫 추가 {#add-a-snippet-to-a-landing-page}
 
 스니펫은 규칙을 따르고 개인화된 콘텐츠를 보관할 수 있는 HTML의 작은 부분입니다.
 

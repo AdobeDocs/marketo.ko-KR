@@ -3,10 +3,10 @@ description: 이메일 확인 - Marketo 문서 - 제품 설명서
 title: 이메일 확인
 exl-id: 4ee9a45a-53c3-48ca-9f47-90f007b7f9b9
 feature: Sales Insight Actions
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '91'
-ht-degree: 1%
+ht-degree: 7%
 
 ---
 
@@ -26,7 +26,7 @@ ht-degree: 1%
 
    ![](assets/verify-your-email-3.png)
 
-1. **[!UICONTROL Resend]**&#x200B;을(를) 클릭합니다.
+1. **[!UICONTROL Resend]**&#x200B;를 클릭합니다.
 
    ![](assets/verify-your-email-4.png)
 

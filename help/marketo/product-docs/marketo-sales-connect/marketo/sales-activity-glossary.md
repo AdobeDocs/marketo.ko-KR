@@ -1,16 +1,16 @@
 ---
 description: 영업 활동 용어집 - Marketo 문서 - 제품 설명서
-title: 영업 활동 용어집
+title: 세일즈 활동 용어집
 exl-id: c7805642-07b6-4697-9efe-5c673ae9ca53
 feature: Marketo Sales Connect
-source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '327'
-ht-degree: 6%
+ht-degree: 8%
 
 ---
 
-# 영업 활동 용어집 {#sales-activity-glossary}
+# 세일즈 활동 용어집 {#sales-activity-glossary}
 
 Sales Connect에서 판매자: 판매 케이던스에 잠재 고객을 추가하거나 이메일을 보내거나 활동을 호출하면 Marketo 활동 내역에 기록됩니다. 또한 잠재 고객이 이메일에 참여하면 열고, 클릭하고, 답장도 기록됩니다.
 

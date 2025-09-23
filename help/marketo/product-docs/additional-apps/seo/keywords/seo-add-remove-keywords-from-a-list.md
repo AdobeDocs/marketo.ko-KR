@@ -4,10 +4,10 @@ description: SEO - 목록에서 키워드 추가/제거 - Marketo 문서 - 제�
 title: SEO - 목록에서 키워드 추가/제거
 exl-id: c03416b6-796b-4255-8f19-2087b215be05
 feature: SEO
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
-source-wordcount: '196'
-ht-degree: 0%
+source-wordcount: '182'
+ht-degree: 8%
 
 ---
 
@@ -17,11 +17,11 @@ ht-degree: 0%
 
 ## 목록에 추가 {#add-to-a-list}
 
-1. **[!UICONTROL 키워드]** 섹션으로 이동합니다.
+1. **[!UICONTROL Keywords]** 섹션으로 이동합니다.
 
    ![](assets/image2014-9-18-11-3a48-3a36.png)
 
-1. 목록에 추가할 키워드 위로 마우스를 가져갑니다. **[!UICONTROL 목록에서 추가/제거]**&#x200B;를 클릭합니다.
+1. 목록에 추가할 키워드 위로 마우스를 가져갑니다. **[!UICONTROL Add/Remove from list]**&#x200B;를 클릭합니다.
 
    ![](assets/image2014-9-18-11-3a48-3a42.png)
 
@@ -31,7 +31,7 @@ ht-degree: 0%
 
    >[!TIP]
    >
-   >키워드에 대한 새 목록을 만들 수도 있습니다. **[!UICONTROL 새 목록 만들기]**&#x200B;에 이름을 입력하세요.
+   >키워드에 대한 새 목록을 만들 수도 있습니다. **[!UICONTROL Create a new list]**&#x200B;에 이름을 입력하세요.
 
    ![](assets/image2014-9-18-11-3a49-3a16.png)
 
@@ -41,11 +41,11 @@ ht-degree: 0%
 
 목록에서 키워드를 제거할 수도 있습니다.
 
-1. **[!UICONTROL 키워드]** 섹션으로 이동합니다.
+1. **[!UICONTROL Keywords]** 섹션으로 이동합니다.
 
    ![](assets/image2014-9-18-11-3a49-3a55.png)
 
-1. 목록에서 제거할 키워드 위로 마우스를 가져갑니다. **[!UICONTROL 목록에서 추가/제거]**&#x200B;를 클릭합니다.
+1. 목록에서 제거할 키워드 위로 마우스를 가져갑니다. **[!UICONTROL Add/Remove from list]**&#x200B;를 클릭합니다.
 
    ![](assets/image2014-9-18-11-3a50-3a4.png)
 

@@ -1,17 +1,17 @@
 ---
 unique-page-id: 2359502
 description: '"전체 이메일" A/B 테스트 - Marketo 문서 - 제품 설명서 사용'
-title: '"전체 이메일" A/B 테스트 사용'
+title: “전체 이메일” A/B 테스트 사용
 exl-id: 28e5f0e0-702d-4e1d-add8-6bf61752ca5b
 feature: Email Programs, A/B Testing
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 65d607e279fb86b0816ccaec2f4bf3c69e309cb9
 workflow-type: tm+mt
 source-wordcount: '259'
-ht-degree: 0%
+ht-degree: 6%
 
 ---
 
-# &quot;전체 이메일&quot; A/B 테스트 사용 {#use-whole-email-a-b-testing}
+# “전체 이메일” A/B 테스트 사용 {#use-whole-email-a-b-testing}
 
 이메일을 쉽게 A/B 테스트할 수 있습니다. 좋은 테스트 중 하나는 **전체 이메일** 테스트입니다. 설정 방법은 다음과 같습니다.
 
@@ -23,7 +23,7 @@ ht-degree: 0%
 
 ![](assets/image2014-9-12-15-3a22-3a12.png)
 
-1. 새 창이 열립니다. **[!UICONTROL Test Type]** 드롭다운을 클릭하고 **[!UICONTROL Whole Emails]**&#x200B;을(를) 선택합니다.
+1. 새 창이 열립니다. **[!UICONTROL Test Type]** 드롭다운을 클릭하고 **[!UICONTROL Whole Emails]**&#x200B;를 선택합니다.
 
    ![](assets/image2014-9-12-15-3a22-3a27.png)
 
@@ -45,11 +45,11 @@ ht-degree: 0%
 
 1. 두 번째 이메일을 선택합니다.
 
-   [&#128279;](assets/image2014-9-12-15-3a23-3a49.png)
+   [](assets/image2014-9-12-15-3a23-3a49.png)
 
 1. **[!UICONTROL Add]**&#x200B;을(를) 클릭하여 두 번째 전자 메일을 적용합니다. 슬라이더를 드래그하여 A/B 테스트를 받을 대상자의 백분율을 선택하고 **[!UICONTROL Next]**&#x200B;을(를) 클릭합니다.
 
-   [&#128279;](assets/image2014-9-12-15-3a24-3a1.png)
+   [](assets/image2014-9-12-15-3a24-3a1.png)
 
    >[!NOTE]
    >

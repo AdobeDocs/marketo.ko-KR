@@ -1,27 +1,27 @@
 ---
 unique-page-id: 1147102
 description: 프로그램 일정 보기 - Marketo 문서 - 제품 설명서에서 항목 만들기
-title: 프로그램 스케줄 뷰에서 입력 생성
+title: 프로그램 일정 보기에 항목 만들기
 exl-id: 7d15d110-17f4-4434-bf1c-0343c3a7f176
 feature: Programs
-source-git-commit: b21f955bf98063e11f8ed3fdc6f164134ee4f5aa
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
-source-wordcount: '175'
-ht-degree: 0%
+source-wordcount: '167'
+ht-degree: 10%
 
 ---
 
-# 프로그램 스케줄 뷰에서 입력 생성 {#creating-an-entry-in-the-program-schedule-view}
+# 프로그램 일정 보기에 항목 만들기 {#creating-an-entry-in-the-program-schedule-view}
 
 기존 프로그램을 보완하기 위해 프로그램 스케줄 보기 내에서 항목을 생성할 수 있습니다.
 
 ## 기본 항목 만들기 {#create-a-basic-entry}
 
-1. **[!UICONTROL 마케팅 활동]**(으)로 이동합니다.
+1. **[!UICONTROL Marketing Activities]**(으)로 이동합니다.
 
    ![](assets/login-marketing-activities-1.png)
 
-1. 프로그램을 선택합니다. **[!UICONTROL 보기]** 드롭다운을 클릭합니다. **[!UICONTROL 일정]**&#x200B;을 선택하세요.
+1. 프로그램을 선택합니다. **[!UICONTROL View]** 드롭다운을 클릭합니다. **[!UICONTROL Schedule]**&#x200B;를 선택합니다.
 
    ![](assets/image2014-9-16-9-3a22-3a7.png)
 
@@ -29,7 +29,7 @@ ht-degree: 0%
 
    ![](assets/image2014-9-16-9-3a22-3a33.png)
 
-1. 항목의 이름을 지정합니다. 이름을 확인하려면 **[!UICONTROL Enter]**&#x200B;를 누르십시오.
+1. 항목의 이름을 지정합니다. 이름을 확인하려면 **[!UICONTROL Enter]**&#x200B;을(를) 누르십시오.
 
    ![](assets/image2014-9-16-9-3a22-3a59.png)
 
@@ -41,7 +41,7 @@ ht-degree: 0%
 
    ![](assets/image2014-9-16-9-3a25-3a23.png)
 
-1. 설명을 입력하고 **[!UICONTROL 저장]**&#x200B;을 클릭하세요.
+1. 설명을 입력하고 **[!UICONTROL Save]**&#x200B;을(를) 클릭합니다.
 
    ![](assets/image2014-9-16-9-3a25-3a39.png)
 
@@ -51,7 +51,7 @@ ht-degree: 0%
 
 ## 항목 유형 변경 {#change-entry-type}
 
-1. **[!UICONTROL 주제]** 보기에서 기본 항목을 선택하십시오.
+1. **[!UICONTROL Agenda]** 보기에서 기본 항목을 선택하십시오.
 
    ![](assets/image2014-9-16-9-3a26-3a5.png)
 

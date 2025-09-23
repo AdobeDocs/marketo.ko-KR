@@ -4,7 +4,7 @@ description: Professional Edition 고객을 위한  [!DNL Salesforce] 사용자 
 title: Professional Edition 고객을 위한  [!DNL Salesforce] 사용자 지정 설치
 exl-id: dc004a28-b580-4449-9fde-e744681ac53a
 feature: Marketo Sales Connect
-source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '211'
 ht-degree: 0%
@@ -54,7 +54,7 @@ ht-degree: 0%
    >
    >[!DNL Sales Engage]은(는) [!DNL Sales Connect]의 이전 이름입니다.
 
-## Guides {#guides}
+## 안내서 {#guides}
 
 [Salesforce Classic 설치 안내서](https://s3.amazonaws.com/tout-user-store/salesforce/assets/Marketo+Sales+Engage+For+Salesforce_+Installation+and+Success+Guide.pdf)
 

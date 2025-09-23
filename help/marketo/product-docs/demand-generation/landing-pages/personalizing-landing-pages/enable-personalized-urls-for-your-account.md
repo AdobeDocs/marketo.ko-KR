@@ -1,17 +1,17 @@
 ---
 unique-page-id: 2359810
 description: 계정에 대해 개인화된 URL 활성화 - Marketo 문서 - 제품 설명서
-title: 계정에 대해 개인화된 URL 활성화
+title: 계정에 대한 개인화된 URL 활성화
 exl-id: 3964db0c-8f86-40aa-a3d7-da59824bdc4c
 feature: Landing Pages
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '93'
-ht-degree: 4%
+ht-degree: 17%
 
 ---
 
-# 계정에 대해 개인화된 URL 활성화 {#enable-personalized-urls-for-your-account}
+# 계정에 대한 개인화된 URL 활성화 {#enable-personalized-urls-for-your-account}
 
 개인화된 URL은 인쇄 메일 캠페인에 적합합니다.
 
@@ -23,7 +23,7 @@ ht-degree: 4%
 
    ![](assets/image2014-9-18-13-3a29-3a49.png)
 
-1. **[!UICONTROL Edit]**&#x200B;을(를) 클릭합니다.
+1. **[!UICONTROL Edit]**&#x200B;를 클릭합니다.
 
    ![](assets/image2014-9-18-13-3a29-3a58.png)
 

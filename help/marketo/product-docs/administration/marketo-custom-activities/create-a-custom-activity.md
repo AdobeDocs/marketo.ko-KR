@@ -1,17 +1,17 @@
 ---
 unique-page-id: 10098479
 description: 사용자 지정 활동 만들기 - Marketo 문서 - 제품 설명서
-title: 사용자 지정 활동 만들기
+title: 사용자 정의 활동 만들기
 exl-id: 5b83663e-8578-4a45-b8f8-4db8c2346372
 feature: Custom Activities
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '97'
-ht-degree: 2%
+ht-degree: 14%
 
 ---
 
-# 사용자 지정 활동 만들기 {#create-a-custom-activity}
+# 사용자 정의 활동 만들기 {#create-a-custom-activity}
 
 다음 단계에 따라 새 사용자 지정 활동을 만듭니다.
 
@@ -23,11 +23,11 @@ ht-degree: 2%
 
    ![](assets/create-a-custom-activity-1.png)
 
-1. **[!UICONTROL Marketo Custom Activities]**&#x200B;을(를) 클릭합니다.
+1. **[!UICONTROL Marketo Custom Activities]**&#x200B;를 클릭합니다.
 
    ![](assets/create-a-custom-activity-2.png)
 
-1. **[!UICONTROL New Custom Activity]**&#x200B;을(를) 클릭합니다.
+1. **[!UICONTROL New Custom Activity]**&#x200B;를 클릭합니다.
 
    ![](assets/create-a-custom-activity-3.png)
 

@@ -3,7 +3,7 @@ description: 고급 BI Analytics 개요 - Marketo 문서 - 제품 설명서
 title: 고급 BI 분석 개요
 feature: Reporting
 exl-id: 120663ef-abcd-4cfe-aac1-64b57ff47258
-source-git-commit: 94f8ed13720ead55696572be211889d36789a0bd
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '1038'
 ht-degree: 1%
@@ -98,7 +98,7 @@ ht-degree: 1%
 
    ![](assets/export-a-visualization-2.png){width="600" zoomable="yes"}
 
-1. &#39;기타&#39; 아이콘(**..**)을 클릭합니다.
+1. &#39;기타&#39; 아이콘(**`...`**)을 클릭합니다.
 
    ![](assets/export-a-visualization-3.png)
 
@@ -125,7 +125,7 @@ ht-degree: 1%
 
 다음 비디오를 통해 다중 페이지 드릴스루 보고서 경험의 예를 확인하십시오.
 
->[!VIDEO](https://video.tv.adobe.com/v/3451689/?quality=12&learn=on&captions=kor){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3451681/?quality=12&learn=on){transcript=true}
 
 ## 고급 BI Analytics의 표준 보고서 {#standard-reports}
 
@@ -237,7 +237,6 @@ ht-degree: 1%
 ## 유의할 사항 {#note}
 
 * 사용자 지정 보고서는 아래의 [새 경험 학습](#learning-the-new-experience) 섹션에 언급된 주목할 만한 동작 변경 사항과 함께 클래식 경험에서 새 경험으로 복제되었습니다.
-
 * 클래식 경험의 대시보드는 새 경험에서 전송할 수 없으며 필요한 레크리에이션입니다. 새 경험의 보고서로 다시 만들 수 있으며 새 경험의 필터는 자동으로 가능한 값을 가져옵니다.
 
   >[!NOTE]
@@ -251,9 +250,7 @@ ht-degree: 1%
   >매출 탐색기에 700개가 넘는 보고서가 있는 경우 일부 보고서는 다른 보고서와 결합되고 보고서 내의 페이지를 통해 통합되었습니다.
   >
   >* 보고서에 이메일 구독이 있는 경우 구독이 결합되지 않았습니다.
-  >
   >* _동일한 폴더_&#x200B;에 있는 나머지 보고서는 보고 영역별로 하나 이상의 보고서로 결합되었습니다. 신고지역에 대한 신고가 5개보다 많으면 1개보다 많은 취합신고로 통합하였다.
-  >
   >* 결합된 각 보고서에는 5페이지를 넘지 않습니다.
 
 * 주어진 시각화에 대해 쿼리당 100만 개의 행으로 제한됩니다. 쿼리가 이를 초과하면 다음 오류가 발생합니다. `The resultset of a query to external data source has exceeded the maximum allowed size of '1000000' rows`. 이 문제를 해결하려면 날짜 범위를 줄이거나 보고서에서 필터를 조정하여 쿼리 결과의 행 수를 줄입니다.

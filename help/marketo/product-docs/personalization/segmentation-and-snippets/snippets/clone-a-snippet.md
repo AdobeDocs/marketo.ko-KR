@@ -1,17 +1,17 @@
 ---
 unique-page-id: 2359514
 description: 코드 조각 복제 - Marketo 문서 - 제품 설명서
-title: 코드 조각 복제
+title: 스니펫 복제
 exl-id: 9f5045d8-0dbf-4bb1-ac8c-3747bd130f36
 feature: Snippets
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '63'
-ht-degree: 0%
+ht-degree: 9%
 
 ---
 
-# 코드 조각 복제 {#clone-a-snippet}
+# 스니펫 복제 {#clone-a-snippet}
 
 필요에 따라 수정할 수 있는 스니펫의 사본을 만들려면 스니펫을 복제하십시오.
 

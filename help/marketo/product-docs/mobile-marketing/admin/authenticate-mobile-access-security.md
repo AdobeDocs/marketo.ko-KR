@@ -4,10 +4,10 @@ description: 모바일 액세스 보안 인증 - Marketo 문서 - 제품 설명�
 title: 모바일 액세스 보안 인증
 exl-id: c8f5f15e-c45b-4751-aa1a-d58d0fd056df
 feature: Mobile Marketing
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '128'
-ht-degree: 0%
+ht-degree: 7%
 
 ---
 
@@ -33,7 +33,7 @@ ID를 활성화하려면 코드를 획득하여 IT 부서에 제공해야 보안
 
    ![](assets/image2015-12-1-14-3a41-3a37.png)
 
-1. **[!UICONTROL Enable Security]** 확인란을 선택합니다. **[!UICONTROL Save]**&#x200B;을(를) 클릭합니다.
+1. **[!UICONTROL Enable Security]** 확인란을 선택합니다. **[!UICONTROL Save]**&#x200B;를 클릭합니다.
 
    ![](assets/image2015-12-1-14-3a54-3a0.png)
 

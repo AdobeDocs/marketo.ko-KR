@@ -1,16 +1,16 @@
 ---
 description: CT-YYYY-MM-Content Marketo 이외 랜딩 페이지 - Marketo 문서 - 제품 설명서
-title: CT-YYYY-MM-Content Marketo 이외 랜딩 페이지
+title: CT-YYYY-MM-Marketo 랜딩 페이지가 아닌 콘텐츠
 feature: Programs
 exl-id: b7cf8e52-4f3f-44d7-ab4c-ad10fa0badc9
-source-git-commit: 21bcdc10fe1f3517612efe0f8e2adaf2f4411a70
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '395'
-ht-degree: 6%
+ht-degree: 9%
 
 ---
 
-# CT-YYYY-MM-Content Marketo 이외 랜딩 페이지 {#ct-yyyy-mm-content-non-marketo-landing-page}
+# CT-YYYY-MM-Marketo 랜딩 페이지가 아닌 콘텐츠 {#ct-yyyy-mm-content-non-marketo-landing-page}
 
 다음은 Marketo Engage 기본 프로그램을 사용하여 Marketo Engage이 아닌 랜딩 페이지에서 콘텐츠를 다운로드하기 위한 Marketo Engage 양식이 있는 콘텐츠 프로그램의 예입니다. 이 프로그램은 웹 사이트에 임베드된 Marketo Engage 양식으로 작동하기 위한 것입니다. 오퍼/콘텐츠에 대한 링크는 감사 전자 메일로 보낼 수 있습니다.
 

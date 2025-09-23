@@ -1,17 +1,17 @@
 ---
 unique-page-id: 7504051
 description: 개인 데이터 관리 - Marketo 문서 - 제품 설명서
-title: 개인 데이터 관리
+title: 사용자 데이터 관리
 exl-id: 40f4aac8-c6e5-4cf3-9573-cac2fdf9bcad
 feature: Web Personalization
-source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '192'
-ht-degree: 7%
+ht-degree: 10%
 
 ---
 
-# 개인 데이터 관리 {#manage-person-data}
+# 사용자 데이터 관리 {#manage-person-data}
 
 세분화에 사용할 개인 필드를 선택하여 [!DNL Web Personalization]의 개인 데이터를 활용하십시오.
 
@@ -93,8 +93,8 @@ ht-degree: 7%
   </tr>
   <tr>
    <td><p>구독 취소됨</p></td>
-   <td><p>주소 삭제</p></td>
-   <td><p>주소 삭제</p></td>
+   <td><p>구독 취소</p></td>
+   <td><p>구독 취소</p></td>
   </tr>
  </tbody>
 </table>

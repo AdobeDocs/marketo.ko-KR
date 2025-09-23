@@ -3,14 +3,14 @@ unique-page-id: 17727823
 description: 릴리스 노트 - 19년 겨울 - Marketo 문서 - 제품 설명서
 title: 릴리스 노트 - 2019년 겨울
 exl-id: 0cb3b3a1-472e-41d4-84f4-47f06e65017c
-source-git-commit: 21bcdc10fe1f3517612efe0f8e2adaf2f4411a70
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '1050'
 ht-degree: 0%
 
 ---
 
-# 릴리스 노트: 2019년 겨울 {#release-notes-winter}
+# 릴리스 정보: 2019년 겨울 {#release-notes-winter}
 
 다음 기능은 19년 겨울 릴리스에 포함되어 있습니다. Marketo 버전에서 사용 가능한 기능이 있는지 확인하십시오.
 

@@ -1,17 +1,17 @@
 ---
 unique-page-id: 2359999
 description: 보고서 열 순서 바꾸기 - Marketo 문서 - 제품 설명서
-title: 보고서 열 순서 바꾸기
+title: 보고서 열 재정렬
 exl-id: 4906807f-f6e3-413a-b581-75bcec02019b
 feature: Reporting
-source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '87'
-ht-degree: 2%
+ht-degree: 9%
 
 ---
 
-# 보고서 열 순서 바꾸기 {#reorder-report-columns}
+# 보고서 열 재정렬 {#reorder-report-columns}
 
 보고서에서 열의 순서를 변경할 수 있습니다.
 

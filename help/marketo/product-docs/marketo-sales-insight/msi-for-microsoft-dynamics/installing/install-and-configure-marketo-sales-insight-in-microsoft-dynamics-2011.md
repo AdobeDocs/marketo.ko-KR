@@ -1,13 +1,13 @@
 ---
 unique-page-id: 3571735
 description: Microsoft Dynamics 2011 - Marketo 설명서 - 제품 설명서에서 Marketo Sales Insight 설치 및 구성
-title: Microsoft Dynamics 2011에서 Marketo Sales Insight 설치 및 구성
+title: Microsoft Dynamics 2011에 Marketo Sales Insight 설치 및 구성
 exl-id: 40622dcc-7129-4392-95dc-ca829c15c3a6
 feature: Marketo Sales Insights
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '331'
-ht-degree: 2%
+ht-degree: 5%
 
 ---
 
@@ -39,7 +39,7 @@ ht-degree: 2%
    >
    >계속 진행하기 전에 이미 Marketo 솔루션을 [설치 및 구성](/help/marketo/product-docs/marketo-sales-insight/msi-for-microsoft-dynamics/installing/install-and-configure-marketo-sales-insight-in-microsoft-dynamics-2011.md)해야 합니다.
 
-1. **[!UICONTROL Browse]**&#x200B;을(를) 클릭합니다. [!DNL Marketo Sales Insight]다운로드한[에서 ](/help/marketo/product-docs/marketo-sales-insight/msi-for-microsoft-dynamics/installing/download-the-marketo-sales-insight-solution-for-microsoft-dynamics.md) 솔루션을 선택합니다. **[!UICONTROL Next]**&#x200B;을(를) 클릭합니다.
+1. **[!UICONTROL Browse]**&#x200B;을(를) 클릭합니다. [!DNL Marketo Sales Insight]다운로드한[에서 ](/help/marketo/product-docs/marketo-sales-insight/msi-for-microsoft-dynamics/installing/download-the-marketo-sales-insight-solution-for-microsoft-dynamics.md) 솔루션을 선택합니다. **[!UICONTROL Next]**&#x200B;를 클릭합니다.
 
    ![](assets/image2015-5-4-10-3a55-3a15.png)
 
@@ -47,7 +47,7 @@ ht-degree: 2%
 
    ![](assets/image2015-5-4-10-3a57-3a31.png)
 
-1. SDK 메시지 옵션이 선택되어 있는지 확인합니다. **[!UICONTROL Next]**&#x200B;을(를) 클릭합니다.
+1. SDK 메시지 옵션이 선택되어 있는지 확인합니다. **[!UICONTROL Next]**&#x200B;를 클릭합니다.
 
    ![](assets/image2015-5-4-11-3a43-3a37.png)
 
@@ -55,7 +55,7 @@ ht-degree: 2%
 
    ![](assets/image2015-5-4-11-3a0-3a58.png)
 
-1. **[!UICONTROL Close]**&#x200B;을(를) 클릭합니다.
+1. **[!UICONTROL Close]**&#x200B;를 클릭합니다.
 
    ![](assets/crmhand.png)
 
@@ -107,7 +107,7 @@ ht-degree: 2%
 
    ![](assets/image2015-5-4-11-3a22-3a41.png)
 
-1. **[!UICONTROL Default Configuration]**&#x200B;을(를) 클릭합니다.
+1. **[!UICONTROL Default Configuration]**&#x200B;를 클릭합니다.
 
    ![](assets/image2015-5-4-11-3a26-3a10.png)
 
@@ -115,7 +115,7 @@ ht-degree: 2%
 
    ![](assets/image2015-5-4-11-3a27-3a16.png)
 
-1. **[!UICONTROL Save]**&#x200B;을(를) 클릭합니다.
+1. **[!UICONTROL Save]**&#x200B;를 클릭합니다.
 
    ![](assets/image2015-5-4-11-3a28-3a13.png)
 
@@ -131,7 +131,7 @@ ht-degree: 2%
 
    ![](assets/image2015-5-4-11-3a31-3a39.png)
 
-1. **[!UICONTROL Users]**&#x200B;을(를) 클릭합니다.
+1. **[!UICONTROL Users]**&#x200B;를 클릭합니다.
 
    ![](assets/image2015-5-4-11-3a32-3a25.png)
 

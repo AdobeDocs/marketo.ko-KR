@@ -4,14 +4,14 @@ description: 릴리스 노트 - 2013년 4월 - Marketo 문서 - 제품 설명서
 title: 릴리스 노트 - 2013년 4월
 exl-id: 5b202877-b501-4cd2-9fe2-e8663dd5792f
 feature: Release Information
-source-git-commit: ecd225af3ecfd7cb9159faf5a9d384d47ee6312c
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '201'
-ht-degree: 0%
+ht-degree: 2%
 
 ---
 
-# 릴리스 노트: 2013년 4월 {#release-notes-april}
+# 릴리스 정보: 2013년 4월 {#release-notes-april}
 
 다음 기능은 4월 릴리스에 포함되어 있습니다.
 
@@ -23,7 +23,7 @@ Marketo을 [!DNL Box] 계정에 연결하여 파일을 디자인 스튜디오로
 
 ## [!DNL Gmail] 플러그 인 {#gmail-plugin}
 
-[!DNL Gmail]뿐만 아니라 Marketo [!DNL Sales Insight]을(를) 사용하는 경우 [!DNL Chrome] 스토어를 통해 새 [!DNL Gmail] 플러그인을 설치할 수 있습니다. 플러그인을 사용하면 Marketo으로 메시지를 기록하고, Marketo 이메일 템플릿을 로드하고, Marketo 추적 기능이 포함된 메시지를 보낼 수 있습니다.
+[!DNL Sales Insight]뿐만 아니라 Marketo [!DNL Gmail]을(를) 사용하는 경우 [!DNL Gmail] 스토어를 통해 새 [!DNL Chrome] 플러그인을 설치할 수 있습니다. 플러그인을 사용하면 Marketo으로 메시지를 기록하고, Marketo 이메일 템플릿을 로드하고, Marketo 추적 기능이 포함된 메시지를 보낼 수 있습니다.
 
 ![](assets/image2014-9-22-15-3a48-3a57.png)
 

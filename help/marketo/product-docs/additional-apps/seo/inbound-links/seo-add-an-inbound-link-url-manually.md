@@ -1,29 +1,29 @@
 ---
 unique-page-id: 2949247
 description: SEO - 인바운드 링크 URL 수동 추가 - Marketo 문서 - 제품 설명서
-title: SEO - 인바운드 링크 URL 수동 추가
+title: SEO - 인바운드 링크 URL 수동으로 추가
 exl-id: 55a74540-4c18-429f-9c9b-76dbbcde0c35
 feature: SEO
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
-source-wordcount: '89'
-ht-degree: 0%
+source-wordcount: '84'
+ht-degree: 19%
 
 ---
 
-# SEO - 인바운드 링크 URL 수동 추가 {#seo-add-an-inbound-link-url-manually}
+# SEO - 인바운드 링크 URL 수동으로 추가 {#seo-add-an-inbound-link-url-manually}
 
 인바운드 링크를 수동으로 추가할 수 있습니다. 방법은 다음과 같습니다.
 
-1. **[!UICONTROL 인바운드 링크]** 섹션으로 이동합니다.
+1. **[!UICONTROL Inbound Links]** 섹션으로 이동합니다.
 
    ![](assets/image2014-9-18-13-3a40-3a3.png)
 
-1. **[!UICONTROL URL 추가]**&#x200B;를 클릭합니다.
+1. **[!UICONTROL Add URLs]**&#x200B;를 클릭합니다.
 
    ![](assets/image2014-9-18-13-3a40-3a8.png)
 
-1. URL을 입력합니다. **[!UICONTROL 추가]**&#x200B;를 클릭합니다.
+1. URL을 입력합니다. **[!UICONTROL Add]**&#x200B;를 클릭합니다.
 
    ![](assets/image2014-9-18-13-3a40-3a32.png)
 

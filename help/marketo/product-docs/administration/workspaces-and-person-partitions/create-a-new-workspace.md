@@ -1,17 +1,17 @@
 ---
 unique-page-id: 2360311
 description: 새 Workspace 만들기 - Marketo 문서 - 제품 설명서
-title: 새 Workspace 만들기
+title: 새 작업 영역 만들기
 exl-id: 04245a92-55e0-4b18-9506-aa060cc62dc6
 feature: Workspaces
-source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '194'
-ht-degree: 1%
+ht-degree: 7%
 
 ---
 
-# 새 Workspace 만들기 {#create-a-new-workspace}
+# 새 작업 영역 만들기 {#create-a-new-workspace}
 
 작업 영역은 회사를 세분화하는 데 유용합니다. 작업 영역을 설정하는 이유는 다음과 같습니다.
 
@@ -36,11 +36,11 @@ ht-degree: 1%
 
    ![](assets/create-a-new-workspace-1.png)
 
-1. **[!UICONTROL Workspaces & Partitions]**&#x200B;을(를) 클릭합니다.
+1. **[!UICONTROL Workspaces & Partitions]**&#x200B;를 클릭합니다.
 
    ![](assets/create-a-new-workspace-2.png)
 
-1. **[!UICONTROL New Workspace]**&#x200B;을(를) 클릭합니다.
+1. **[!UICONTROL New Workspace]**&#x200B;를 클릭합니다.
 
    ![](assets/create-a-new-workspace-3.png)
 
@@ -66,7 +66,7 @@ ht-degree: 1%
    >
    >생성 시 Marketo은 작업 영역에서 샘플 에셋을 시드합니다. 언어는 초기 설정된 객체를 영어가 아닌 언어로 만들 수 있습니다.
 
-1. **[!UICONTROL Create]**&#x200B;을(를) 클릭합니다.
+1. **[!UICONTROL Create]**&#x200B;를 클릭합니다.
 
    ![](assets/create-a-new-workspace-6.png)
 

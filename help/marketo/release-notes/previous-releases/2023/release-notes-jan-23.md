@@ -3,32 +3,32 @@ description: 릴리스 노트 - 2023년 1월 - Marketo 설명서 - 제품 설명
 title: 릴리스 정보 - 2023년 1월
 exl-id: 584f74e5-ed0a-4f2f-9a1e-93cb8804dec8
 feature: Release Information
-source-git-commit: 21bcdc10fe1f3517612efe0f8e2adaf2f4411a70
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '626'
-ht-degree: 8%
+ht-degree: 23%
 
 ---
 
 # 릴리스 노트: 2023년 1월 {#release-notes-jan-23}
 
-아래에는 2023년 1월 릴리스에 포함된 모든 기능이 있습니다. Adobe Marketo Engage 버전에서 사용 가능한 기능이 있는지 확인하십시오.
+아래에는 2023년 1월 릴리스에 포함된 모든 기능이 있습니다. 기능 가용성에 대해 Adobe Marketo Engage 에디션을 확인하십시오.
 
 >[!AVAILABILITY]
 >
->별(![별](assets/yellow-star.png))로 표시되는 기능은 유료 추가 기능입니다. 자세한 내용은 Marketo Engage 담당자에게 문의하십시오.
+>별표(![별표](assets/yellow-star.png))로 표시된 기능은 유료 추가 기능입니다. 자세한 내용은 Marketo Engage 담당자에게 문의하십시오.
 
 ## 표준 릴리스 주기 기능 {#standard-release-cycle-features}
 
-다음 기능은 표준 릴리스 주기에 해당하며 **2023년 1월 20일**&#x200B;에 릴리스되기 시작합니다. 이후 몇 주 동안 나머지 기능의 단계적 롤아웃이 적용됩니다. 릴리스 기능 및 날짜는 변경될 수 있습니다. 각 기능의 상태를 아래에서 확인하십시오.
+다음 기능은 표준 릴리스 주기에 포함되며, **2023년 1월 20일 토요일**&#x200B;부터 출시되기 시작하고 나머지 기능은 이후 몇 주에 걸쳐 단계적으로 출시될 예정입니다. 릴리스 기능 및 날짜는 변경될 수 있습니다. 각 기능의 상태를 아래에서 확인하십시오.
 
-### Marketo Engage 모던 UX {#modern-ux}
+### Marketo Engage 최신 UX {#modern-ux}
 
 </br>
 
 * **최신 UX에서 업데이트된 Screens**: 최신 UX(이전 차세대 경험)에서는 전환 스위치를 통해 액세스할 수 있는 업데이트된 디자인 및 유용성 개선 사항을 제공하는 새로운 추가 화면을 제공합니다.
 
-   * 코드 조각 목록 보기
+   * 스니펫 목록 보기
    * 랜딩 페이지 템플릿 목록
 
   <table>
@@ -37,8 +37,8 @@ ht-degree: 8%
    <td><b>설명서 업데이트</b></td>
   </tr>
   <tr>
-   <td>배송됨</td>
-   <td><a href="/help/marketo/product-docs/marketo-engage-modern-ux/toggle-switch.md">전환 스위치</a></td>
+   <td>출시됨</td>
+   <td><a href="/help/marketo/product-docs/marketo-engage-modern-ux/toggle-switch.md">토글 스위치</a></td>
   </tr>
   </tbody>
 
@@ -52,7 +52,7 @@ ht-degree: 8%
    <td><b>설명서 업데이트</b></td>
   </tr>
   <tr>
-   <td>배송됨</td>
+   <td>출시됨</td>
    <td>해당 사항 없음</td>
   </tr>
   </tbody>
@@ -70,7 +70,7 @@ ht-degree: 8%
    <td><b>설명서 업데이트</b></td>
   </tr>
   <tr>
-   <td>배송됨</td>
+   <td>출시됨</td>
    <td>해당 사항 없음</td>
   </tr>
   </tbody>
@@ -88,8 +88,8 @@ ht-degree: 8%
    <td><b>설명서 업데이트</b></td>
   </tr>
   <tr>
-   <td>배송됨</td>
-   <td><a href="https://experienceleague.adobe.com/docs/experience-platform/destinations/catalog/adobe/marketo-measure-ultimate.html?lang=ko">Marketo Measure Ultimate</a></td>
+   <td>출시됨</td>
+   <td><a href="https://experienceleague.adobe.com/docs/experience-platform/destinations/catalog/adobe/marketo-measure-ultimate.html">Marketo Measure Ultimate</a></td>
   </tr>
   </tbody>
 </table>
@@ -106,7 +106,7 @@ ht-degree: 8%
    <td><b>설명서 업데이트</b></td>
   </tr>
   <tr>
-   <td>배송됨</td>
+   <td>출시됨</td>
    <td><a href="/help/marketo/product-docs/administration/settings/bulk-export-api-information.md">일괄 내보내기 API 정보</a></td>
   </tr>
   </tbody>
@@ -128,7 +128,7 @@ ht-degree: 8%
    <td><b>설명서 업데이트</b></td>
   </tr>
   <tr>
-   <td>배송됨</td>
+   <td>출시됨</td>
    <td>해당 사항 없음</td>
   </tr>
   </tbody>
@@ -142,7 +142,7 @@ ht-degree: 8%
    <td><b>설명서 업데이트</b></td>
   </tr>
   <tr>
-   <td>배송됨</td>
+   <td>출시됨</td>
    <td><a href="/help/marketo/product-docs/demand-generation/dynamic-chat/setup-and-configuration/agent-settings.md">캘린더</a></td>
   </tr>
   </tbody>
@@ -156,7 +156,7 @@ ht-degree: 8%
    <td><b>설명서 업데이트</b></td>
   </tr>
   <tr>
-   <td>배송됨</td>
+   <td>출시됨</td>
    <td>해당 사항 없음</td>
   </tr>
   </tbody>
@@ -170,7 +170,7 @@ ht-degree: 8%
    <td><b>설명서 업데이트</b></td>
   </tr>
   <tr>
-   <td>배송됨</td>
+   <td>출시됨</td>
    <td>해당 사항 없음</td>
   </tr>
   </tbody>
@@ -184,7 +184,7 @@ ht-degree: 8%
    <td><b>설명서 업데이트</b></td>
   </tr>
   <tr>
-   <td>배송됨</td>
+   <td>출시됨</td>
    <td><a href="/help/marketo/product-docs/demand-generation/dynamic-chat/meeting-list.md">회의</a></td>
   </tr>
   </tbody>

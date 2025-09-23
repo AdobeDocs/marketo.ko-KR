@@ -6,7 +6,7 @@ hide: true
 hidefromtoc: true
 exl-id: ef6b7311-55ca-4384-a24c-714eae89a57d
 feature: Getting Started
-source-git-commit: 21bcdc10fe1f3517612efe0f8e2adaf2f4411a70
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '2051'
 ht-degree: 1%
@@ -60,15 +60,15 @@ Marketo 사용에 앞서 몇 가지 단계를 완료해야 합니다.
 >
 >**관리자 권한 필요**
 
-**[!UICONTROL Users & Roles]**&#x200B;을(를) 클릭합니다.
+**[!UICONTROL Users & Roles]**&#x200B;를 클릭합니다.
 
 ![](assets/setup-steps-3.png)
 
-**[!UICONTROL Invite New User]**&#x200B;을(를) 클릭합니다.
+**[!UICONTROL Invite New User]**&#x200B;를 클릭합니다.
 
 ![](assets/setup-steps-4.png)
 
-동료의 이메일 주소, 이름, 성을 입력합니다. _액세스 만료 날짜 설정은 선택 사항입니다_. **[!UICONTROL Next]**&#x200B;을(를) 클릭합니다.
+동료의 이메일 주소, 이름, 성을 입력합니다. _액세스 만료 날짜 설정은 선택 사항입니다_. **[!UICONTROL Next]**&#x200B;를 클릭합니다.
 
 ![](assets/setup-steps-5.png)
 
@@ -110,7 +110,7 @@ Marketo 지원에서 귀하를 회사의 Marketo 고객 지원 관리자임을 �
 >
 >Marketo 커뮤니티에 로그인한 사용자만 목록에 표시됩니다. 해당 사용자를 찾을 수 없는 경우 먼저 해당 사용자가 커뮤니티에 로그인했는지 확인하십시오.
 
-## CNAME으로 랜딩 페이지 URL 사용자 지정 {#customize-your-landing-page-urls-with-a-cname}
+## CNAME을 사용하여 랜딩 페이지 URL 사용자 정의 {#customize-your-landing-page-urls-with-a-cname}
 
 >[!NOTE]
 >
@@ -180,7 +180,7 @@ Marketo 추적 링크를 찾으려면 **[!UICONTROL Admin]** 영역으로 이동
 
 ![](assets/setup-steps-12.png)
 
-**[!UICONTROL Email]**&#x200B;을(를) 클릭합니다.
+**[!UICONTROL Email]**&#x200B;를 클릭합니다.
 
 ![](assets/setup-steps-13.png)
 
@@ -227,7 +227,6 @@ Marketo 추적 링크를 찾으려면 **[!UICONTROL Admin]** 영역으로 이동
 허용 목록에 추가하다 `3)` Marketo.
 
     * 전자 메일 허용 목록에 IP 주소를 사용하는 경우 아래 나열된 IP를 추가하십시오.
-
     199.15.212.0/22
     
     192.28.144.0/20
@@ -320,7 +319,7 @@ IT 담당자가 작업을 완료하면 다음 단계에 따라 랜딩 페이지 
 
 도메인 필드에 이메일 추적 도메인을 입력합니다. 형식은 다음과 같아야 합니다.
 
-`[EmailTrackingCNAME].[CompanyDomain].com` 질문에 답합니다. **[!UICONTROL Save]**&#x200B;을(를) 클릭합니다.
+`[EmailTrackingCNAME].[CompanyDomain].com` 질문에 답합니다. **[!UICONTROL Save]**&#x200B;를 클릭합니다.
 
 ![](assets/setup-steps-21.png)
 
@@ -330,8 +329,8 @@ IT 담당자가 작업을 완료하면 다음 단계에 따라 랜딩 페이지 
 
 회사에서 사용하는 CRM에 따라 다음 중에서 선택하십시오.
 
-    * [Marketo과 통합] [[!DNL Salesforce.com]](/help/marketo/product-docs/crm-sync/salesforce-sync/understanding-the-salesforce-sync.md)
-    * [Marketo과 통합] [[!DNL Microsoft Dynamics]](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/understanding-the-microsoft-dynamics-sync.md)
+    * [Marketo과 통합] [!DNL Salesforce.com](/help/marketo/product-docs/crm-sync/salesforce-sync/understanding-the-salesforce-sync.md)
+    * [Marketo과 통합] [!DNL Microsoft Dynamics](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/understanding-the-microsoft-dynamics-sync.md)
 
 >[!NOTE]
 >
@@ -351,6 +350,6 @@ Marketo에는 웹 페이지에서 개인 활동을 추적하는 데 사용할 �
 
 ## 성능 기대치 {#performance-expectations}
 
-Marketo의 성능 측면에서 기대할 수 있는 사항은 무엇입니까? 마케팅 캠페인의 크기와 복잡성에 따라 달라질 수 있습니다. 그러나 [Marketo Engage 제품 설명](https://helpx.adobe.com/kr/legal/product-descriptions/adobe-marketo-engage---product-description.html){target="_blank"}에 있는 여러 표의 &quot;표준&quot; 열에 요약된 내용과 동등한 성능 수준을 기대할 수 있습니다. &quot;성능&quot; 및 &quot;성능 플러스&quot; 열은 [더 높은 성능 수준](https://nation.marketo.com/t5/product-documents/marketo-engage-performance-tiers/ta-p/328835){target="_blank"}을 제공하는 성능 계층 패키지를 나타냅니다.
+Marketo의 성능 측면에서 기대할 수 있는 사항은 무엇입니까? 마케팅 캠페인의 크기와 복잡성에 따라 달라질 수 있습니다. 그러나 [Marketo Engage 제품 설명](https://helpx.adobe.com/legal/product-descriptions/adobe-marketo-engage---product-description.html){target="_blank"}에 있는 여러 표의 &quot;표준&quot; 열에 요약된 내용과 동등한 성능 수준을 기대할 수 있습니다. &quot;성능&quot; 및 &quot;성능 플러스&quot; 열은 [더 높은 성능 수준](https://nation.marketo.com/t5/product-documents/marketo-engage-performance-tiers/ta-p/328835){target="_blank"}을 제공하는 성능 계층 패키지를 나타냅니다.
 
 모든 설정 단계가 끝났습니다. 이제 Marketo에 다이빙해서 사용하는 일만 남았습니다!

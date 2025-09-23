@@ -4,10 +4,10 @@ description: 프로그램 멤버 사용자 정의 필드 토큰 - Marketo 문서
 title: 프로그램 멤버 사용자 정의 필드 토큰
 exl-id: 3046dec8-b885-4b08-baa9-896bcf3594b2
 feature: Tokens
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '413'
-ht-degree: 0%
+ht-degree: 5%
 
 ---
 
@@ -45,7 +45,7 @@ PMCF 토큰은 토큰 계열의 멤버 도메인에서 지원됩니다.
 
    ![](assets/program-member-custom-field-tokens-3.png)
 
-1. **[!UICONTROL Save]**&#x200B;을(를) 클릭합니다.
+1. **[!UICONTROL Save]**&#x200B;를 클릭합니다.
 
    ![](assets/program-member-custom-field-tokens-4.png)
 
@@ -79,7 +79,7 @@ PMCF 토큰은 토큰 계열의 멤버 도메인에서 지원됩니다.
 
    ![](assets/program-member-custom-field-tokens-9.png)
 
-1. **[!UICONTROL Save]**&#x200B;을(를) 클릭합니다.
+1. **[!UICONTROL Save]**&#x200B;를 클릭합니다.
 
    ![](assets/program-member-custom-field-tokens-10.png)
 
@@ -107,7 +107,7 @@ PMCF 토큰은 토큰 계열의 멤버 도메인에서 지원됩니다.
 
    ![](assets/program-member-custom-field-tokens-15.png)
 
-1. **[!UICONTROL Push Notification]**&#x200B;을(를) 클릭합니다.
+1. **[!UICONTROL Push Notification]**&#x200B;를 클릭합니다.
 
    ![](assets/program-member-custom-field-tokens-16.png)
 

@@ -1,17 +1,17 @@
 ---
 unique-page-id: 10096675
 description: 하위 캠페인 만들기 및 로컬 Assets - Marketo 문서 - 제품 설명서
-title: 하위 캠페인 및 로컬 Assets 만들기
+title: 하위 캠페인 및 로컬 자산 만들기
 exl-id: 272105e1-43d6-455c-a533-aae65e859384
 feature: Events
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '650'
-ht-degree: 1%
+ht-degree: 3%
 
 ---
 
-# 하위 캠페인 및 로컬 Assets 만들기 {#create-child-campaigns-and-local-assets}
+# 하위 캠페인 및 로컬 자산 만들기 {#create-child-campaigns-and-local-assets}
 
 Design Studio를 사용하여 하위 캠페인 및 로컬 에셋을 만듭니다.
 

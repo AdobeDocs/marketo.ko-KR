@@ -1,17 +1,17 @@
 ---
 unique-page-id: 2359996
 description: 열에 대한 보고서 정렬 - Marketo 문서 - 제품 설명서
-title: 열에 대한 보고서 정렬
+title: 열을 기준으로 보고서 정렬
 exl-id: a31383b5-bb18-400b-945a-abecd2b19340
 feature: Reporting
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '74'
-ht-degree: 0%
+ht-degree: 10%
 
 ---
 
-# 열에 대한 보고서 정렬 {#sort-report-on-columns}
+# 열을 기준으로 보고서 정렬 {#sort-report-on-columns}
 
 열을 사용하여 보고서의 데이터를 정렬하고 가장 중요한 수치를 쉽게 찾을 수 있도록 합니다.
 

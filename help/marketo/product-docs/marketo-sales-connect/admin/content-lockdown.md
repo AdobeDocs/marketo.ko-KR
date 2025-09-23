@@ -1,17 +1,17 @@
 ---
 unique-page-id: 37355755
 description: 컨텐츠 잠금 - Marketo 문서 - 제품 설명서
-title: 컨텐츠 잠금
+title: 콘텐츠 잠금
 exl-id: 9f47a6e9-5dad-4934-ba9b-70235c958a31
 feature: Marketo Sales Connect
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '95'
-ht-degree: 0%
+ht-degree: 4%
 
 ---
 
-# 컨텐츠 잠금 {#content-lockdown}
+# 콘텐츠 잠금 {#content-lockdown}
 
 콘텐츠 잠금을 활성화하여 관리자가 아닌 사용자가 템플릿 및/또는 캠페인을 편집할 수 없도록 제한합니다. 사용자는 컨텐츠를 공유, 복제, 편집 또는 삭제할 수 없습니다. 또한 템플릿을 보관할 수 있는 옵션도 없습니다.
 

@@ -1,17 +1,17 @@
 ---
 unique-page-id: 2949281
 description: Marketo 이메일 추가 기능 라이선스 발급 - Marketo 문서 - 제품 설명서
-title: Marketo 이메일 추가 기능 라이선스 발행
+title: Marketo 이메일 추가 기능 라이선스 발급
 exl-id: 179bb2b6-2e06-4e85-8f3f-2cd5d3ae3081
 feature: Marketo Sales Insights
-source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '289'
-ht-degree: 0%
+ht-degree: 4%
 
 ---
 
-# Marketo 이메일 추가 기능 라이선스 발행 {#issue-a-marketo-email-add-in-license}
+# Marketo 이메일 추가 기능 라이선스 발급 {#issue-a-marketo-email-add-in-license}
 
 Marketo 전자 메일 [!DNL Outlook] 추가 기능을 사용하려면 먼저 라이선스가 발급되어야 합니다. 라이센스를 제공하는 방법에는 두 가지가 있습니다.
 

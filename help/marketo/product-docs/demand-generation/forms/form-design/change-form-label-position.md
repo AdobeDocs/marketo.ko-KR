@@ -4,10 +4,10 @@ description: 양식 레이블 위치 변경 - Marketo 문서 - 제품 설명서
 title: 양식 레이블 위치 변경
 exl-id: b4291454-f6f8-4800-b806-6ea56d6f83cd
 feature: Forms
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '112'
-ht-degree: 2%
+ht-degree: 11%
 
 ---
 
@@ -36,11 +36,11 @@ ht-degree: 2%
    * [!UICONTROL Left]&#x200B;(기본값)
    * [!UICONTROL Above]
 
-1. **[!UICONTROL Finish]**&#x200B;을(를) 클릭합니다.
+1. **[!UICONTROL Finish]**&#x200B;를 클릭합니다.
 
    ![](assets/image2014-9-15-16-3a16-3a49.png)
 
-1. **[!UICONTROL Approve and Close]**&#x200B;을(를) 클릭합니다.
+1. **[!UICONTROL Approve and Close]**&#x200B;를 클릭합니다.
 
    >[!NOTE]
    >

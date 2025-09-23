@@ -4,16 +4,16 @@ description: TAM 시작하기 - Marketo 문서 - 제품 설명서
 title: TAM 시작하기
 exl-id: 95fd6c22-7ef8-4184-aeff-7586d12ec495
 feature: Target Account Management
-source-git-commit: f8b48bca528946095edbe0a1f724fcc0763aa4dd
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '284'
-ht-degree: 0%
+ht-degree: 2%
 
 ---
 
 # TAM 시작하기 {#getting-started-with-tam}
 
-인스턴스에 추가된 Marketo Engage TAM을 가져오시겠습니까? 잘됐네! 다음에 무엇을 해야 하는지 살펴보겠습니다.
+Marketo Engage TAM을 인스턴스에 추가하시겠습니까? 잘됐네! 다음에 무엇을 해야 하는지 살펴보겠습니다.
 
 **1단계: [라이선스 발급](/help/marketo/product-docs/target-account-management/setup-tam/issue-a-license.md){target="_blank"}** - 팀에서 TAM을 사용할 사용자를 결정합니다.
 

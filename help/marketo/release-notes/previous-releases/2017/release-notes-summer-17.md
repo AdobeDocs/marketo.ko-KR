@@ -4,14 +4,14 @@ description: 릴리스 노트 - 2017년 여름 - Marketo 문서 - 제품 설명�
 title: 릴리스 노트 - 2017년 여름
 exl-id: 81b18ecb-5870-4d16-8b7c-24ce362be62f
 feature: Release Information
-source-git-commit: ecd225af3ecfd7cb9159faf5a9d384d47ee6312c
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '387'
-ht-degree: 0%
+ht-degree: 1%
 
 ---
 
-# 릴리스 노트: 2017년 여름 {#release-notes-summer}
+# 릴리스 정보: 2017년 여름 {#release-notes-summer}
 
 다음 기능은 17년 여름 릴리스에 포함되어 있습니다. Marketo 버전에서 사용 가능한 기능이 있는지 확인하십시오.
 

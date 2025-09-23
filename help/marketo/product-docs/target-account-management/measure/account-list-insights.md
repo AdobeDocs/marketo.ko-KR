@@ -1,17 +1,17 @@
 ---
 unique-page-id: 11380787
 description: 계정 목록 통찰력 - Marketo 문서 - 제품 설명서
-title: 계정 목록 통찰력
+title: 계정 목록 인사이트
 exl-id: 27a4020b-b1e0-4f19-b676-2e6dc5fe9611
 feature: Target Account Management
-source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '158'
-ht-degree: 0%
+ht-degree: 4%
 
 ---
 
-# 계정 목록 통찰력 {#account-list-insights}
+# 계정 목록 인사이트 {#account-list-insights}
 
 계정 목록 대시보드는 해당 목록 내의 명명된 모든 계정에서 집계된 인사이트 보기를 제공합니다.
 

@@ -4,10 +4,10 @@ description: 프로그램 홈 탭 사용 - Marketo 문서 - 제품 설명서
 title: 프로그램 홈 탭 사용
 exl-id: 04c36190-d853-4900-b566-973d08316e37
 feature: Programs
-source-git-commit: 86f9e9f13b24a82deb50ec4c398035d7d7479d20
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
-source-wordcount: '158'
-ht-degree: 0%
+source-wordcount: '144'
+ht-degree: 8%
 
 ---
 
@@ -17,7 +17,7 @@ ht-degree: 0%
 
 ## 요약 보기 {#summary-view}
 
-1. **[!UICONTROL 마케팅 활동]**(으)로 이동합니다.
+1. **[!UICONTROL Marketing Activities]**(으)로 이동합니다.
 
    ![](assets/login-marketing-activities-1.png)
 
@@ -33,17 +33,17 @@ ht-degree: 0%
 
    ![](assets/image2014-9-18-17-3a2-3a53.png)
 
-1. 보고서를 다운로드하려면 요약 하단의 **[!UICONTROL 내보내기]**&#x200B;를 클릭하십시오.
+1. 보고서를 다운로드하려면 요약 하단의 **[!UICONTROL Export]**&#x200B;을(를) 클릭하십시오.
 
    ![](assets/image2014-9-18-17-3a3-3a47.png)
 
 ## 보기에서 사용됨 {#used-by-view}
 
-1. **[!UICONTROL 마케팅 활동]**&#x200B;에서 프로그램을 선택하십시오.
+1. **[!UICONTROL Marketing Activities]**&#x200B;에서 프로그램을 선택하십시오.
 
    ![](assets/image2014-9-18-17-3a4-3a24.png)
 
-1. **[!UICONTROL 보기]** 드롭다운을 클릭합니다. **[!UICONTROL 사용 주체]**&#x200B;를 선택합니다.
+1. **[!UICONTROL View]** 드롭다운을 클릭합니다. **[!UICONTROL Used By]**&#x200B;를 선택합니다.
 
    ![](assets/image2014-9-18-17-3a5-3a2.png)
 
@@ -53,11 +53,11 @@ ht-degree: 0%
 
 ## 멤버십 보기 {#membership-view}
 
-1. **[!UICONTROL 마케팅 활동]**&#x200B;에서 프로그램을 선택하십시오.
+1. **[!UICONTROL Marketing Activities]**&#x200B;에서 프로그램을 선택하십시오.
 
    ![](assets/image2014-9-18-17-3a7-3a25.png)
 
-1. **[!UICONTROL 보기]** 드롭다운을 클릭합니다. **[!UICONTROL 구성원]**&#x200B;을 선택하세요.
+1. **[!UICONTROL View]** 드롭다운을 클릭합니다. **[!UICONTROL Membership]**&#x200B;를 선택합니다.
 
    ![](assets/image2014-9-18-17-3a7-3a49.png)
 
@@ -67,7 +67,7 @@ ht-degree: 0%
 
    >[!NOTE]
    >
-   >**[!UICONTROL 기록]**&#x200B;은(는) 프로그램에 참여한 모든 사람을 나타내며, **[!UICONTROL 현재]**&#x200B;에는 현재 프로그램에 있는 사람만 포함됩니다.
+   >**[!UICONTROL Historical]**&#x200B;은(는) 프로그램을 거친 사용자를 나타내며, **[!UICONTROL Current]**&#x200B;에는 현재 프로그램에 있는 사람만 포함됩니다.
 
    >[!MORELIKETHIS]
    >

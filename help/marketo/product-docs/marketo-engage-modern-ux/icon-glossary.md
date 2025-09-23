@@ -5,16 +5,16 @@ hide: true
 hidefromtoc: true
 exl-id: 443dc653-4ecb-4daa-9a6d-e124a6be0329
 feature: Modern UX
-source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '239'
-ht-degree: 34%
+ht-degree: 92%
 
 ---
 
 # 아이콘 용어집 {#new-icon-glossary}
 
-다음은 새 Adobe Marketo Engage 인터페이스의 아이콘입니다. Marketo Classic 아이콘을 참조해야 하는 경우 [여기에서 찾을 수 있음](/help/marketo/getting-started/things-to-know/classic-icon-glossary.md).
+다음은 새 Adobe Marketo Engage 인터페이스의 아이콘입니다. Marketo Classic 아이콘이 필요한 경우 [여기](/help/marketo/getting-started/things-to-know/classic-icon-glossary.md)에서 찾을 수 있습니다.
 
 ## 일반 아이콘 {#general-icons}
 
@@ -22,7 +22,7 @@ ht-degree: 34%
  <tbody>
   <tr>
    <th>이전 아이콘</th>
-   <th> 새 아이콘</th>
+   <th> 새로운 아이콘</th>
    <th>설명</th>
   </tr>
   <tr>
@@ -33,12 +33,12 @@ ht-degree: 34%
   <tr>
    <td><img src="assets/classic-smart-campaign-active.png"></td>
    <td><img src="assets/batch-active.png"></td>
-   <td>일괄 캠페인 - 활성</td>
+   <td>배치 캠페인 - 활성</td>
   </tr>
   <tr>
    <td><img src="assets/classic-smart-campaign-inactive.png"></td>
    <td><img src="assets/batch-inactive.png"></td>
-   <td>일괄 캠페인 - 비활성</td>
+   <td>배치 캠페인 - 비활성</td>
   </tr>
   <tr>
    <td><img src="assets/classic-default-program.png"></td>
@@ -78,7 +78,7 @@ ht-degree: 34%
   <tr>
    <td><img src="assets/classic-field-organizer.png"></td>
    <td><img src="assets/field-organizer.png"></td>
-   <td>필드 구성</td>
+   <td>현장 조직자</td>
   </tr>
   <tr>
    <td><img src="assets/classic-filter.png"></td>
@@ -103,7 +103,7 @@ ht-degree: 34%
   <tr>
    <td><img src="assets/classic-shared-folder.png"></td>
    <td><img src="assets/folder-shared.png"></td>
-   <td>폴더 - 공유</td>
+   <td>폴더 - 공유됨</td>
   </tr>
   <tr>
    <td><img src="assets/classic-locked-folder.jpg"></td>
@@ -118,7 +118,7 @@ ht-degree: 34%
   <tr>
    <td><img src="assets/classic-images-and-files.png"></td>
    <td><img src="assets/images.png"></td>
-   <td>이미지(및 파일)</td>
+   <td>이미지 (및 파일)</td>
   </tr>
   <tr>
    <td><img src="assets/classic-in-app-messages.png"></td>
@@ -198,7 +198,7 @@ ht-degree: 34%
   <tr>
    <td><img src="assets/classic-social-button.png"></td>
    <td><img src="assets/social-button.png"></td>
-   <td>소셜 단추</td>
+   <td>소셜 버튼</td>
   </tr>
   <tr>
    <td><img src="assets/classic-static-list.png"></td>
@@ -244,13 +244,13 @@ ht-degree: 34%
  <tbody>
   <tr>
    <th>이전 아이콘</th>
-   <th> 새 아이콘</th>
+   <th> 새로운 아이콘</th>
    <th>설명</th>
   </tr>
   <tr>
    <td><img src="assets/classic-smart-campaign-executed.png"></td>
    <td><img src="assets/has-run-no-upcoming.png"></td>
-   <td>실행, 예정된 항목 없음</td>
+   <td>실행되었지만 예정된 항목 없음</td>
   </tr>
   <tr>
    <td><img src="assets/classic-invalid.png"></td>
@@ -260,7 +260,7 @@ ht-degree: 34%
   <tr>
    <td><img src="assets/classic-smart-campaign-never-run.png"></td>
    <td><img src="assets/never-run.png"></td>
-   <td>실행 안 함</td>
+   <td>실행된 적 없음</td>
   </tr>
   <tr>
    <td><img src="assets/classic-smart-campaign-executed.png"></td>
@@ -270,17 +270,17 @@ ht-degree: 34%
   <tr>
    <td><img src="assets/classic-smart-campaign-scheduled.png"></td>
    <td><img src="assets/scheduled-to-run.png"></td>
-   <td>실행하도록 예약됨</td>
+   <td>실행 예정</td>
   </tr>
   <tr>
    <td><img src="assets/classic-smart-campaign-scheduled-again.png"></td>
    <td><img src="assets/scheduled-to-run-again.png"></td>
-   <td>다시 실행하도록 예약됨</td>
+   <td>다시 실행 예정</td>
   </tr>
   <tr>
    <td><img src="assets/classic-used-by-nurture.png"></td>
    <td><img src="assets/used-by-nurture.png"></td>
-   <td>양육에서 사용됨</td>
+   <td>육성에 사용됨</td>
   </tr>
  </tbody>
 </table>
@@ -291,7 +291,7 @@ ht-degree: 34%
  <tbody>
   <tr>
    <th>이전 아이콘</th>
-   <th> 새 아이콘</th>
+   <th> 새로운 아이콘</th>
    <th>설명</th>
   </tr>
   <tr>
@@ -323,7 +323,7 @@ ht-degree: 34%
  <tbody>
   <tr>
    <th>이전 아이콘</th>
-   <th> 새 아이콘</th>
+   <th> 새로운 아이콘</th>
    <th>설명</th>
   </tr>
   <tr>
@@ -355,7 +355,7 @@ ht-degree: 34%
  <tbody>
   <tr>
    <th>이전 아이콘</th>
-   <th> 새 아이콘</th>
+   <th> 새로운 아이콘</th>
    <th>설명</th>
   </tr>
   <tr>
@@ -377,7 +377,7 @@ ht-degree: 34%
  <tbody>
   <tr>
    <th>이전 아이콘</th>
-   <th> 새 아이콘</th>
+   <th> 새로운 아이콘</th>
    <th>설명</th>
   </tr>
   <tr>
@@ -414,7 +414,7 @@ ht-degree: 34%
  <tbody>
   <tr>
    <th>이전 아이콘</th>
-   <th> 새 아이콘</th>
+   <th> 새로운 아이콘</th>
    <th>설명</th>
   </tr>
   <tr>
@@ -441,13 +441,13 @@ ht-degree: 34%
  <tbody>
   <tr>
    <th>이전 아이콘</th>
-   <th> 새 아이콘</th>
+   <th> 새로운 아이콘</th>
    <th>설명</th>
   </tr>
   <tr>
    <td><strong>해당 사항 없음</strong></td>
    <td><img src="assets/approved-under-calculation.png"></td>
-   <td>승인됨 - 미달 계산</td>
+   <td>승인됨 - 계산 중</td>
   </tr>
   <tr>
    <td><strong>해당 사항 없음</strong></td>

@@ -1,16 +1,16 @@
 ---
 description: 기본 Dynamics 필드 매핑 - Marketo 문서 - 제품 설명서
-title: 기본 동적 필드 매핑
+title: 기본 Dynamics 필드 매핑
 exl-id: 5f39bd0c-202e-4aa1-a0ac-49ac2554aa1e
 feature: Microsoft Dynamics
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '332'
-ht-degree: 2%
+ht-degree: 4%
 
 ---
 
-# 기본 동적 필드 매핑 {#default-dynamics-field-mapping}
+# 기본 Dynamics 필드 매핑 {#default-dynamics-field-mapping}
 
 Marketo Engage 계정을 Microsoft과 처음 동기화할 때 Marketo은 내장된 Dynamics와 Marketo 필드 간에 이러한 연결을 자동으로 만듭니다.  Marketo은 리드, 계정, 기회 및 연락처에서 사용자 정의 필드도 동기화합니다.
 

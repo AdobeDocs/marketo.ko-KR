@@ -4,10 +4,10 @@ description: 게재 채널 개요 - Marketo 문서 - 제품 설명서
 title: 게재 채널 개요
 exl-id: 432bad1e-4eaf-4be8-b856-be364c44816e
 feature: Marketo Sales Connect
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '552'
-ht-degree: 0%
+ht-degree: 1%
 
 ---
 

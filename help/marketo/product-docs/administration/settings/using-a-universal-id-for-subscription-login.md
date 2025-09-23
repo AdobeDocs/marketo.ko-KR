@@ -1,17 +1,17 @@
 ---
 unique-page-id: 10100311
 description: 구독 로그인에 범용 ID 사용 - Marketo 문서 - 제품 설명서
-title: 구독 로그인에 범용 ID 사용
+title: 구독 로그인을 위해 Universal ID 사용
 exl-id: 75cf1323-0468-49e9-83ca-e55aa30744ac
 feature: Administration
-source-git-commit: 5a8ea3c5356cb370b4e502b23eea8a457bfc97f1
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '569'
-ht-degree: 0%
+ht-degree: 2%
 
 ---
 
-# 구독 로그인에 범용 ID 사용 {#using-a-universal-id-for-subscription-login}
+# 구독 로그인을 위해 Universal ID 사용 {#using-a-universal-id-for-subscription-login}
 
 범용 ID를 사용하면 단일 로그인으로 여러 Marketo 구독에 액세스하고 구독 간을 빠르게 전환할 수 있습니다. 그러나 원하는 경우 구독에 다른 로그인을 사용할 수 있습니다.
 
@@ -65,4 +65,4 @@ ht-degree: 0%
 >
 >* [포털에 SSO(Single Sign-On) 추가](/help/marketo/product-docs/administration/additional-integrations/add-single-sign-on-to-a-portal.md){target="_blank"}
 >* [SSO로만 사용자 로그인 제한](/help/marketo/product-docs/administration/additional-integrations/restrict-user-login-to-sso-only.md){target="_blank"}
->* [Marketo 사용자를 유니버설 ID를 가진 두 개의 인스턴스에 초대](https://nation.marketo.com/t5/Knowledgebase/Inviting-Marketo-Users-to-Two-Instances-with-Universal-ID-UID/ta-p/251122){target="_blank"}
+>* [범용 ID를 사용하는 두 개의 인스턴스에 Marketo 사용자 초대](https://nation.marketo.com/t5/Knowledgebase/Inviting-Marketo-Users-to-Two-Instances-with-Universal-ID-UID/ta-p/251122){target="_blank"}

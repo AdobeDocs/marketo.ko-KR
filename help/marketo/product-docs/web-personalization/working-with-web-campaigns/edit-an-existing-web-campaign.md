@@ -4,10 +4,10 @@ description: 기존 웹 캠페인 편집 - Marketo 문서 - 제품 설명서
 title: 기존 웹 캠페인 편집
 exl-id: 2c20f57d-2ee4-4d81-a8db-7d4de319fa78
 feature: Web Personalization
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '55'
-ht-degree: 0%
+ht-degree: 18%
 
 ---
 

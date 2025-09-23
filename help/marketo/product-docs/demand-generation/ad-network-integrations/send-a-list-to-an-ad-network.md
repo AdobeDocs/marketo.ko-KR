@@ -1,16 +1,16 @@
 ---
 description: 광고 네트워크에 목록 보내기 - Marketo 문서 - 제품 설명서
-title: 광고 네트워크에 목록 보내기
+title: 광고 네트워크로 목록 보내기
 exl-id: d5c55df7-53c8-491a-9d79-ecf7c25cee08
 feature: Integrations
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '200'
-ht-degree: 1%
+ht-degree: 8%
 
 ---
 
-# 광고 네트워크에 목록 보내기 {#send-a-list-to-an-ad-network}
+# 광고 네트워크로 목록 보내기 {#send-a-list-to-an-ad-network}
 
 [!DNL LinkedIn], [!DNL Facebook] 또는 Google에 정적 목록을 보내는 방법을 알아봅니다.
 
@@ -20,7 +20,7 @@ ht-degree: 1%
 
    ![](assets/send-a-list-to-an-ad-network-1.png)
 
-1. [!DNL LinkedIn], [!DNL Facebook] 또는 Google 중에서 선택합니다(다른 옵션은 현재 사용할 수 없음). 이 예제에서는 **[!DNL LinkedIn]**&#x200B;을(를) 선택합니다. **[!UICONTROL Next]**&#x200B;을(를) 클릭합니다.
+1. [!DNL LinkedIn], [!DNL Facebook] 또는 Google 중에서 선택합니다(다른 옵션은 현재 사용할 수 없음). 이 예제에서는 **[!DNL LinkedIn]**&#x200B;을(를) 선택합니다. **[!UICONTROL Next]**&#x200B;를 클릭합니다.
 
    ![](assets/send-a-list-to-an-ad-network-2.png)
 

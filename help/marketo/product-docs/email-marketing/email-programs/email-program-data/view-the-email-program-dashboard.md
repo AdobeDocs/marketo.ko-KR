@@ -4,10 +4,10 @@ description: 이메일 프로그램 대시보드 보기 - Marketo 문서 - 제�
 title: 이메일 프로그램 대시보드 보기
 exl-id: dd05d7f6-8979-4ef1-a7d2-adaf086dd903
 feature: Email Programs
-source-git-commit: 21bcdc10fe1f3517612efe0f8e2adaf2f4411a70
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '223'
-ht-degree: 0%
+ht-degree: 4%
 
 ---
 

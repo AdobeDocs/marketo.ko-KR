@@ -4,10 +4,10 @@ description: Google의 개인화된 리마케팅 - Marketo 문서 - 제품 설�
 title: Google의 개인화된 리마케팅
 exl-id: cc733f43-161d-41e4-afdf-8b5217700810
 feature: Web Personalization
-source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '225'
-ht-degree: 2%
+ht-degree: 6%
 
 ---
 
@@ -26,7 +26,7 @@ ht-degree: 2%
 
    ![](assets/remarketing-ga-screenshots.jpg)
 
-1. **[!UICONTROL +New Audience]**&#x200B;을(를) 클릭합니다.
+1. **[!UICONTROL +New Audience]**&#x200B;를 클릭합니다.
 
    ![](assets/image2015-1-15-17-3a26-3a40.png)
 
@@ -34,7 +34,7 @@ ht-degree: 2%
 
    ![](assets/image2015-1-15-17-3a32-3a4.png)
 
-1. 대상 빌더에서 **[!UICONTROL Sequences]**, **[!UICONTROL Find the RTP Data]**, [!UICONTROL Custom Dimensions] 아래의 [!UICONTROL UICONTROL [ !] Custom Variables] 및 [!UICONTROL Events]을(를) 클릭합니다.
+1. 대상 빌더에서 **[!UICONTROL Sequences]**, **[!UICONTROL Find the RTP Data]**, [!UICONTROL Custom Dimensions] 아래의 [!UICONTROL [!]UICONTROL Custom Variables] 및 [!UICONTROL Events]을(를) 클릭합니다.
 
 >[!TIP]
 >
@@ -57,7 +57,7 @@ ht-degree: 2%
 1. **[!UICONTROL Sequences].** 클릭
 1. **[!UICONTROL Event Label].** 선택
 1. RTP에 나타나는 대로 **[!UICONTROL Name of Segmented Audience]**&#x200B;을(를) 입력합니다.
-1. **[!UICONTROL Apply]**&#x200B;을(를) 클릭합니다.
+1. **[!UICONTROL Apply]**&#x200B;를 클릭합니다.
 
 ![](assets/image2015-2-10-14-3a51-3a43.png)
 
@@ -65,11 +65,11 @@ ht-degree: 2%
 
 ![](assets/image2015-1-15-17-3a36-3a5.png)
 
-1. **[!UICONTROL Sequences]**&#x200B;을(를) 클릭합니다.
+1. **[!UICONTROL Sequences]**&#x200B;를 클릭합니다.
 1. **[!UICONTROL RTP-Industry]**&#x200B;를 선택합니다.
 1. **업계 이름**(예: [!UICONTROL Financial Services], [!UICONTROL Education]...)을 입력하십시오.
-1. **[!UICONTROL Apply]**&#x200B;을(를) 클릭합니다.
-1. **[!UICONTROL Audience Name]** 입력. **[!UICONTROL Save]**&#x200B;을(를) 클릭합니다.
+1. **[!UICONTROL Apply]**&#x200B;를 클릭합니다.
+1. **[!UICONTROL Audience Name]** 입력. **[!UICONTROL Save]**&#x200B;를 클릭합니다.
 
 ![](assets/image2015-1-15-18-3a29-3a16.png)
 

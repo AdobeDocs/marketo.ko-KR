@@ -4,10 +4,10 @@ description: 스마트 목록 목표 만들기 - Marketo 문서 - 제품 설명�
 title: 스마트 목록 목표 만들기
 exl-id: 3b6690b5-7dd1-46b2-b3f2-254439623f91
 feature: Marketing Calendar
-source-git-commit: 02b2e39580c5eac63de4b4b7fdaf2a835fdd4ba5
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
-source-wordcount: '145'
-ht-degree: 0%
+source-wordcount: '135'
+ht-degree: 8%
 
 ---
 
@@ -17,7 +17,7 @@ ht-degree: 0%
 
 프레젠테이션과 마찬가지로 [작업 영역](/help/marketo/product-docs/administration/workspaces-and-person-partitions/understanding-workspaces-and-person-partitions.md)별 목표입니다.
 
-1. **[!UICONTROL 일정]**(으)로 이동합니다.
+1. **[!UICONTROL Calendar]**(으)로 이동합니다.
 
    ![](assets/2017-05-10-15-30-47-1.png)
 
@@ -25,15 +25,15 @@ ht-degree: 0%
 
    ![](assets/image2015-3-24-12-3a2-3a55.png)
 
-1. **[!UICONTROL 목표]** 탭을 선택합니다.
+1. **[!UICONTROL Goals]** 탭을 선택합니다.
 
    ![](assets/image2015-3-26-12-3a25-3a17.png)
 
-1. **[!UICONTROL 스마트 목록 목표]**&#x200B;를 캔버스로 끌어서 놓습니다.
+1. **[!UICONTROL Smart List Goal]**&#x200B;을(를) 캔버스로 끌어서 놓습니다.
 
    ![](assets/image2015-3-24-12-3a47-3a36.png)
 
-1. 목표의 이름을 입력하고 **[!UICONTROL 목표 대상]**&#x200B;을 입력하십시오. **[!UICONTROL 만들기]**&#x200B;를 클릭합니다.
+1. 목표의 이름을 입력하고 **[!UICONTROL Goal Target]**&#x200B;을(를) 입력하십시오. 그런 다음 **[!UICONTROL Create]**&#x200B;를 클릭합니다.
 
    ![](assets/image2015-3-24-12-3a50-3a6.png)
 
@@ -41,7 +41,7 @@ ht-degree: 0%
 
    ![](assets/mql.png)
 
-1. 스마트 목록이 모두 설정되면 **[!UICONTROL 닫기]** 단추를 클릭하고 이전 탭으로 돌아갑니다.
+1. 스마트 목록이 모두 설정되면 **[!UICONTROL Close]** 단추를 클릭하고 이전 탭으로 돌아갑니다.
 
    ![](assets/mql2.png)
 

@@ -1,17 +1,17 @@
 ---
 unique-page-id: 1147082
 description: 개인 삭제 - Marketo 문서 - 제품 설명서
-title: 개인 삭제
+title: 사용자 삭제
 exl-id: 40039444-9b2a-4b80-93bc-7da3d6e9475c
 feature: Smart Campaigns
-source-git-commit: 12f2399859c784095cc2c1df772c66c649106ba3
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '113'
-ht-degree: 0%
+ht-degree: 3%
 
 ---
 
-# 개인 삭제 {#delete-person}
+# 사용자 삭제 {#delete-person}
 
 오류가 있는 사람들이 때로 데이터베이스에 들어갑니다. 개인 삭제 플로우 단계에서는 해당 항목을 제거할 수 있습니다.
 
@@ -31,4 +31,4 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->CRM에서 사용자 제거 _은(는) [!DNL Salesforce]_&#x200B;에서만 작동합니다. Marketo에서 사용자를 삭제하고 [!DNL Salesforce]에 유지하도록 선택하면 해당 [!DNL Salesforce] 레코드가 업데이트되면 Marketo에 다시 만들어집니다.
+>CRM에서 사용자 제거 _은(는)[!DNL Salesforce]_&#x200B;에서만 작동합니다. Marketo에서 사용자를 삭제하고 [!DNL Salesforce]에 유지하도록 선택하면 해당 [!DNL Salesforce] 레코드가 업데이트되면 Marketo에 다시 만들어집니다.

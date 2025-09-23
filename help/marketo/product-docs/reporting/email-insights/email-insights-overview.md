@@ -1,17 +1,17 @@
 ---
 unique-page-id: 10099408
 description: 이메일 인사이트 개요 - Marketo 문서 - 제품 설명서
-title: 이메일 통찰력 개요
+title: 이메일 인사이트 개요
 exl-id: ce261c9b-3a52-4aec-a299-0eb60026483d
 feature: Reporting
-source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '200'
-ht-degree: 0%
+ht-degree: 3%
 
 ---
 
-# 이메일 통찰력 개요 {#email-insights-overview}
+# 이메일 인사이트 개요 {#email-insights-overview}
 
 **[!UICONTROL Email Insights]**&#x200B;은(는) 이메일 마케터에게 내역 데이터를 통해 강력한 통찰력을 제공합니다. 이 섹션은 서로 다르지만 연결된 두 개의 섹션으로 구성됩니다. [!UICONTROL Analytics] 및 [!UICONTROL Sends].
 

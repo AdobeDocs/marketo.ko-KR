@@ -1,13 +1,13 @@
 ---
 unique-page-id: 14352408
-description: How Can I 허용 목록에 추가하다 Sales Connect on My Server? - Marketo 문서 - 제품 설명서
-title: How Can I 허용 목록에 추가하다 Sales Connect on My Server?
+description: How Can I 허용 목록에 추가하다 Sales Connect on My Server? - Marketo 설명서 - 제품 설명서
+title: 내 서버에서 Sales Connect를 허용 목록에 추가하는 방법은 무엇입니까?
 exl-id: ae35bf20-d708-4fc8-bd11-6427bacd965b
 feature: Marketo Sales Connect
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '69'
-ht-degree: 0%
+ht-degree: 18%
 
 ---
 

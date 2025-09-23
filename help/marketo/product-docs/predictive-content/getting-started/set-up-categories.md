@@ -1,17 +1,17 @@
 ---
 unique-page-id: 11385057
 description: 범주 설정 - Marketo 문서 - 제품 설명서
-title: 범주 설정
+title: 카테고리 설정
 exl-id: 4756e821-d90d-4148-b9c4-4912a48d26b4
 feature: Predictive Content
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '139'
-ht-degree: 0%
+ht-degree: 5%
 
 ---
 
-# 범주 설정 {#set-up-categories}
+# 카테고리 설정 {#set-up-categories}
 
 예측 콘텐츠에서 카테고리를 만들어 예측 결과를 웹 또는 이메일에 그룹화합니다. 예를 들어 블로그나 특정 언어의 콘텐츠로만 작업할 수 있습니다. 또한 페이지 보기를 검색하고 필터링할 수 있습니다.  쉽게 참조할 수 있도록 [!UICONTROL All Content] 및 [!UICONTROL Predictive Content] 페이지에 범주가 표시됩니다.
 
@@ -33,7 +33,7 @@ ht-degree: 0%
 
    ![](assets/settings-dropdown-hand-1.png)
 
-1. **[!UICONTROL Categories]**&#x200B;을(를) 클릭합니다.
+1. **[!UICONTROL Categories]**&#x200B;를 클릭합니다.
 
    ![](assets/content-discovery-categories-hand.png)
 

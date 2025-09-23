@@ -4,10 +4,10 @@ description: 이메일의 텍스트 버전 편집 - Marketo 문서 - 제품 설�
 title: 이메일의 텍스트 버전 편집
 exl-id: 6973ccdd-6ae1-4051-ab7e-ff7da40baf97
 feature: Email Editor
-source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '228'
-ht-degree: 0%
+ht-degree: 6%
 
 ---
 

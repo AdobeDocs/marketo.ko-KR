@@ -1,17 +1,17 @@
 ---
 unique-page-id: 2360253
 description: '"웹 페이지로 보기" 메시지 편집 - Marketo 문서 - 제품 설명서'
-title: '"웹 페이지로 보기" 메시지 편집'
+title: “웹 페이지로 보기” 메시지 편집
 exl-id: 5541fe6c-7297-4277-8355-ba7b4ac73e2e
 feature: Email Setup
-source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
+source-git-commit: 65d607e279fb86b0816ccaec2f4bf3c69e309cb9
 workflow-type: tm+mt
 source-wordcount: '155'
-ht-degree: 0%
+ht-degree: 16%
 
 ---
 
-# &quot;웹 페이지로 보기&quot; 메시지 편집 {#edit-the-view-as-web-page-message}
+# “웹 페이지로 보기” 메시지 편집 {#edit-the-view-as-web-page-message}
 
 &quot;[웹 페이지로 보기](/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/add-a-view-as-web-page-link-to-an-email.md)&quot; 텍스트를 편집해야 하는 경우 방법은 다음과 같습니다.
 
@@ -19,13 +19,13 @@ ht-degree: 0%
 >
 >**관리자 권한 필요**
 
-## &quot;웹 페이지로 보기&quot; 메시지 편집 {#edit-the-view-as-web-page-message-1}
+## “웹 페이지로 보기” 메시지 편집 {#edit-the-view-as-web-page-message-1}
 
 1. **[!UICONTROL Admin]** 영역으로 이동합니다.
 
    ![](assets/edit-the-view-as-web-page-message-1.png)
 
-1. **[!UICONTROL Email]**&#x200B;을(를) 클릭합니다.
+1. **[!UICONTROL Email]**&#x200B;를 클릭합니다.
 
    ![](assets/edit-the-view-as-web-page-message-2.png)
 

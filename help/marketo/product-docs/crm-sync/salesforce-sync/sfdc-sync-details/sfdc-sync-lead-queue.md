@@ -4,14 +4,14 @@ description: SFDC 동기화 - 리드 큐 - Marketo 문서 - 제품 설명서
 title: SFDC 동기화 - 리드 큐
 exl-id: b3b5e14c-f914-429c-a4b9-6b535ad8e882
 feature: Salesforce Integration
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '130'
-ht-degree: 0%
+ht-degree: 3%
 
 ---
 
-# SFDC 동기화: 리드 큐 {#sfdc-sync-lead-queue}
+# SFDC 동기화: 리드 대기열 {#sfdc-sync-lead-queue}
 
 Marketo을 사용하면 [[!DNL Salesforce] 리드 큐](https://help.salesforce.com/apex/HTViewHelpDoc?id=queues_overview.htm)에 사람을 추가하여 리드 배포에 도움을 줄 수 있습니다. 세부사항은 다음과 같습니다.
 

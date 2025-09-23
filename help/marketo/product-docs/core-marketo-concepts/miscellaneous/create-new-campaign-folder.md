@@ -3,10 +3,10 @@ unique-page-id: 2953207
 description: 새 Campaign 폴더 만들기 - Marketo 문서 - 제품 설명서
 title: 새 캠페인 폴더 만들기
 exl-id: 2899ee63-b15a-462a-bed6-8858a6b65308
-source-git-commit: 0abb315be0f9cb5f42fa41d72b446de8c2f62c1e
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
-source-wordcount: '110'
-ht-degree: 0%
+source-wordcount: '101'
+ht-degree: 9%
 
 ---
 
@@ -14,23 +14,23 @@ ht-degree: 0%
 
 Campaign 폴더를 사용하면 깔끔한 작업 영역을 유지할 수 있습니다. 다음과 같은 간단한 단계를 따르세요. 이제 자동화 마술로 넘어갑니다.
 
-1. **[!UICONTROL 마케팅 활동]**(으)로 이동합니다.
+1. **[!UICONTROL Marketing Activities]**(으)로 이동합니다.
 
    ![](assets/login-marketing-activities.png)
 
-1. **[!UICONTROL 새로 만들기]**&#x200B;를 선택합니다.
+1. **[!UICONTROL New]**&#x200B;를 선택합니다.
 
    ![](assets/image2015-2-25-7-3a57-3a18.png)
 
-1. **[!UICONTROL 새 캠페인 폴더]**&#x200B;를 선택합니다.
+1. **[!UICONTROL New Campaign Folder]**&#x200B;를 선택합니다.
 
    ![](assets/image2015-2-25-7-3a58-3a15.png)
 
-1. 캠페인 폴더의 **[!UICONTROL 이름]**&#x200B;을(를) 입력하십시오.
+1. 캠페인 폴더의 **[!UICONTROL Name]**&#x200B;을(를) 입력하십시오.
 
    ![](assets/image2015-2-25-8-3a0-3a20.png)
 
-1. 선택 사항: **[!UICONTROL 설명]**&#x200B;을 입력하고 **[!UICONTROL 만들기]**&#x200B;를 클릭합니다.
+1. 선택 사항: **[!UICONTROL Description]**&#x200B;을(를) 입력하고 **[!UICONTROL Create]**&#x200B;을(를) 클릭합니다.
 
    >[!TIP]
    >

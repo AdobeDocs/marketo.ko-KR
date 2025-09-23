@@ -1,17 +1,17 @@
 ---
 unique-page-id: 2359861
 description: 참여 프로그램의 멤버 - Marketo 문서 - 제품 설명서 참조
-title: 참여 프로그램의 멤버 참조
+title: 참여 프로그램 멤버 보기
 exl-id: c30b3333-3ea8-44e7-a911-a0b6584da7cb
 feature: Engagement Programs
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '59'
-ht-degree: 0%
+ht-degree: 23%
 
 ---
 
-# 참여 프로그램의 멤버 참조 {#see-members-of-an-engagement-program}
+# 참여 프로그램 멤버 보기 {#see-members-of-an-engagement-program}
 
 참여 프로그램의 구성원을 빠르게 볼 수 있습니다. 방법은 다음과 같습니다.
 

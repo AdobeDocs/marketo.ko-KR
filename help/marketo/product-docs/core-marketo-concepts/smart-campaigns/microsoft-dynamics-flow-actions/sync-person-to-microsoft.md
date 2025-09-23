@@ -4,10 +4,10 @@ description: 사용자를 Microsoft에 동기화 - Marketo 문서 - 제품 설�
 title: Microsoft에 사용자 동기화
 exl-id: cc6f1c03-ba74-418c-95d5-fb073a248379
 feature: Smart Campaigns, Microsoft Dynamics
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '68'
-ht-degree: 2%
+ht-degree: 14%
 
 ---
 

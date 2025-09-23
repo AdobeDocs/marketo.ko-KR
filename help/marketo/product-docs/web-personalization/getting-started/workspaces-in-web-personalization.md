@@ -1,13 +1,13 @@
 ---
 unique-page-id: 17727499
 description: 웹 Personalization의 작업 공간 - Marketo 문서 - 제품 설명서
-title: 웹 Personalization의 작업 공간
+title: 웹 개인화의 작업 영역
 exl-id: 6b80fb8d-3f6a-4503-af5b-9627e5645247
 feature: Web Personalization
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '103'
-ht-degree: 0%
+ht-degree: 3%
 
 ---
 

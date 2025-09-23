@@ -1,21 +1,21 @@
 ---
 unique-page-id: 1146966
 description: Smart Campaign - Marketo 문서 - 제품 설명서에서 적격한 사람 보기
-title: Smart Campaign에서 적격 직원 보기
+title: 스마트 캠페인에서 적격 사용자 보기
 exl-id: 84fb5c85-d794-4eb3-b74c-242c76ecdd1d
 feature: Smart Campaigns
-source-git-commit: 4bf27f7eb534ec76983a898d020f0b8c336a36dc
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
-source-wordcount: '166'
-ht-degree: 0%
+source-wordcount: '163'
+ht-degree: 8%
 
 ---
 
-# Smart Campaign에서 적격 직원 보기 {#view-qualified-people-in-a-smart-campaign}
+# 스마트 캠페인에서 적격 사용자 보기 {#view-qualified-people-in-a-smart-campaign}
 
 Smart Campaign을 실행할 때 흐름을 진행할 자격이 있는 사용자를 봅니다.
 
-1. 스마트 캠페인에서 **[!UICONTROL 일정]** 탭을 클릭합니다. Smart List Status에서 첫 번째 링크를 클릭합니다.
+1. 스마트 캠페인에서 **[!UICONTROL Schedule]** 탭을 클릭합니다. Smart List Status에서 첫 번째 링크를 클릭합니다.
 
 ![](assets/view-qualified-people-in-a-smart-campaign-1.png)
 
@@ -23,7 +23,7 @@ Smart Campaign을 실행할 때 흐름을 진행할 자격이 있는 사용자�
 >
 >트리거 캠페인은 라이브 이벤트를 기반으로 실행되므로 적격한 사람이 표시되지 않습니다.
 
-1. **[!UICONTROL 적격 사용자]** 탭에는 캠페인이 실행될 때 흐름을 진행할 자격이 있는 사용자가 나열됩니다.
+1. **[!UICONTROL Qualified People]** 탭에는 캠페인이 실행될 때 흐름을 진행할 자격이 있는 사람이 나열됩니다.
 
    ![](assets/view-qualified-people-in-a-smart-campaign-2.png)
 

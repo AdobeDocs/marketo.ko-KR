@@ -1,17 +1,17 @@
 ---
 unique-page-id: 37357302
 description: 이메일 열 및 이메일 페이지 레이아웃 - Marketo 문서 - 제품 설명서
-title: 전자 메일 열 및 전자 메일 페이지 레이아웃
+title: 이메일 열 및 이메일 페이지 레이아웃
 exl-id: 689220e1-5ace-4225-98ff-21afd97f071b
 feature: Marketo Sales Connect
-source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '457'
-ht-degree: 0%
+ht-degree: 3%
 
 ---
 
-# 전자 메일 열 및 전자 메일 페이지 레이아웃 {#email-columns-and-email-page-layout}
+# 이메일 열 및 이메일 페이지 레이아웃 {#email-columns-and-email-page-layout}
 
 [!UICONTROL Command Center]의 전자 메일 섹션에 표시할 수 있는 열을 구성할 수 있습니다. 각 전자 메일 하위 폴더(예: [!UICONTROL Delivered], [!UICONTROL Failed], [!UICONTROL Scheduled] 등)에 대해 구성 설정이 저장됩니다.
 

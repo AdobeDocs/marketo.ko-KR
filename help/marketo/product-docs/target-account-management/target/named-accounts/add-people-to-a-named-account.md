@@ -1,13 +1,13 @@
 ---
 unique-page-id: 11378816
 description: 명명된 계정에 사람 추가 - Marketo 문서 - 제품 설명서
-title: 명명된 계정에 사람 추가
+title: 지정 계정에 사용자 추가
 exl-id: 1fbe7cd2-7324-4b03-ba8b-66e35baaec03
 feature: Target Account Management
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '157'
-ht-degree: 1%
+ht-degree: 5%
 
 ---
 
@@ -17,7 +17,7 @@ TAM에서 명명 계정에 사람들을 수동으로 추가하는 방법에는 �
 
 ## 단일 흐름 작업 {#single-flow-action}
 
-1. **[!UICONTROL Database]**&#x200B;을(를) 클릭합니다.
+1. **[!UICONTROL Database]**&#x200B;를 클릭합니다.
 
    ![](assets/one-2.png)
 

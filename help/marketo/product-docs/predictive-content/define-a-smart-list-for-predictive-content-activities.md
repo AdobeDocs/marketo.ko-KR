@@ -1,17 +1,17 @@
 ---
 unique-page-id: 10097873
 description: 예측 콘텐츠 활동에 대한 스마트 목록 정의 - Marketo 문서 - 제품 설명서
-title: 예측 콘텐츠 활동을 위한 스마트 목록 정의
+title: 예측 콘텐츠 활동에 대한 스마트 목록 정의
 exl-id: 2c72b215-8c0b-48b4-8492-8e3fe832fae9
 feature: Predictive Content
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '289'
-ht-degree: 0%
+ht-degree: 5%
 
 ---
 
-# 예측 콘텐츠 활동을 위한 스마트 목록 정의 {#define-a-smart-list-for-predictive-content-activities}
+# 예측 콘텐츠 활동에 대한 스마트 목록 정의 {#define-a-smart-list-for-predictive-content-activities}
 
 스마트 캠페인에서 스마트 목록을 정의할 때 트리거 및 필터에서 예측 콘텐츠 활동을 사용할 수 있습니다. [리치 미디어 템플릿](/help/marketo/product-docs/predictive-content/enabling-predictive-content/enable-predictive-content-for-web-rich-media.md), [콘텐츠 추천 막대](/help/marketo/product-docs/predictive-content/enabling-predictive-content/enable-the-content-recommendation-bar.md) 또는 [전자 메일](/help/marketo/product-docs/predictive-content/enabling-predictive-content/enable-predictive-content-in-emails.md)을 통해 예측 콘텐츠를 클릭하는 모든 사용자에 대해 작업을 트리거할 수 있습니다.
 

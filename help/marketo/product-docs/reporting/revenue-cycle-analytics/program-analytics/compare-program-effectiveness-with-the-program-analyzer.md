@@ -1,13 +1,13 @@
 ---
 unique-page-id: 2360403
 description: 프로그램 분석기와 프로그램 효율성 비교 - Marketo 설명서 - 제품 설명서
-title: 프로그램 분석기와 프로그램 효율성 비교
+title: 프로그램 분석기로 프로그램 효과 비교
 exl-id: 6e54d0a4-3cff-46cf-be0d-1992a39d8c03
 feature: Reporting, Revenue Cycle Analytics
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '418'
-ht-degree: 0%
+ht-degree: 1%
 
 ---
 
@@ -19,7 +19,7 @@ ht-degree: 0%
 >
 >[[!UICONTROL Program Analyzer]](/help/marketo/product-docs/reporting/revenue-cycle-analytics/program-analytics/create-a-program-analyzer.md) 만들기
 
-1. **[!UICONTROL Analytics]**&#x200B;을(를) 클릭합니다.
+1. **[!UICONTROL Analytics]**&#x200B;를 클릭합니다.
 
    ![](assets/image2014-9-17-18-3a50-3a30.png)
 

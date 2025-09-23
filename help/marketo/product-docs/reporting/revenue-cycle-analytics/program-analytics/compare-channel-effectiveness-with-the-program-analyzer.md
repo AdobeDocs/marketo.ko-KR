@@ -1,13 +1,13 @@
 ---
 unique-page-id: 2360401
 description: 프로그램 분석기와 채널 효율성 비교 - Marketo 문서 - 제품 설명서
-title: 프로그램 분석기와 채널 효율성 비교
+title: 프로그램 분석기로 채널 효과 비교
 exl-id: bfe635a7-b077-4074-889d-fc2256102cd5
 feature: Reporting, Revenue Cycle Analytics
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '353'
-ht-degree: 0%
+ht-degree: 1%
 
 ---
 

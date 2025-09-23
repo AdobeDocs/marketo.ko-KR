@@ -1,13 +1,13 @@
 ---
 unique-page-id: 2360020
 description: ' [!DNL Excel] (으)로 보고서 내보내기 - Marketo 문서 - 제품 설명서'
-title: ' [!DNL Excel] (으)로 보고서 내보내기'
+title: ' [!DNL Excel](으)로 보고서 내보내기'
 exl-id: 249b5b57-6c62-46a6-bbe2-d8e0c647be29
 feature: Reporting
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '76'
-ht-degree: 0%
+ht-degree: 5%
 
 ---
 

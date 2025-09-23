@@ -3,10 +3,10 @@ description: 구독 취소 개요 - Marketo 문서 - 제품 설명서
 title: 구독 취소 개요
 exl-id: 7598efa9-9686-4dd0-840b-f8b6de4ab2be
 feature: Sales Insight Actions
-source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '328'
-ht-degree: 0%
+ht-degree: 3%
 
 ---
 
@@ -42,7 +42,7 @@ ht-degree: 0%
 
 ![](assets/unsubscribe-overview-4.png)
 
-## 가입 해지 기록 카드 {#unsubscribe-history-card}
+## 구독 취소 기록 카드 {#unsubscribe-history-card}
 
 [!UICONTROL Unsubscribe History] 카드를 사용하면 관리자와 사용자가 연락처의 구독 취소 내역에 대한 상황별 정보를 얻을 수 있습니다. [!UICONTROL People] 탭으로 이동하여 사용자를 선택하여 해당 위치로 이동합니다. 개인 세부 정보 보기의 [!UICONTROL About] 탭 하단에 있습니다.
 

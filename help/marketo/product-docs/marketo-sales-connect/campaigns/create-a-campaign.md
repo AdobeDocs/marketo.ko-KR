@@ -4,7 +4,7 @@ description: 캠페인 만들기 - Marketo 문서 - 제품 설명서
 title: 캠페인 만들기
 exl-id: 17952187-4d7e-469e-9ac8-c2611dfeac1f
 feature: Marketo Sales Connect
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '285'
 ht-degree: 2%
@@ -36,11 +36,11 @@ Campaign을 어떻게 설정합니까?
    >
    >**옆에 있는**+**[!UICONTROL Categories]**&#x200B;을(를) 클릭하여 새 범주를 만듭니다.
 
-1. 선택한 범주가 선택됩니다. 마음이 바뀌면 드롭다운을 클릭하고 다른 드롭다운을 선택합니다. 완료되면 **[!UICONTROL &#x200B; Continue]**&#x200B;을(를) 클릭합니다.
+1. 선택한 범주가 선택됩니다. 마음이 바뀌면 드롭다운을 클릭하고 다른 드롭다운을 선택합니다. 완료되면 **[!UICONTROL  Continue]**&#x200B;을(를) 클릭합니다.
 
    ![](assets/three-1.png)
 
-1. **[!UICONTROL Add a Step]**&#x200B;을(를) 클릭합니다.
+1. **[!UICONTROL Add a Step]**&#x200B;를 클릭합니다.
 
    ![](assets/four-1.png)
 

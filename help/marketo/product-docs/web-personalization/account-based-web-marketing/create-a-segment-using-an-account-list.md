@@ -4,10 +4,10 @@ description: 계정 목록을 사용하여 세그먼트 만들기 - Marketo 문�
 title: 계정 목록을 사용하여 세그먼트 만들기
 exl-id: 73179ed9-2f9b-46df-abfa-6e8ebb645cc5
 feature: Web Personalization
-source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '148'
-ht-degree: 1%
+ht-degree: 10%
 
 ---
 
@@ -23,7 +23,7 @@ ht-degree: 1%
 
    ![](assets/new-dropdown-segments-hand-no-account-list.jpg)
 
-1. **[!UICONTROL Create New]**&#x200B;을(를) 클릭합니다.
+1. **[!UICONTROL Create New]**&#x200B;를 클릭합니다.
 
    ![](assets/image2014-11-19-19-3a33-3a47.png)
 

@@ -1,17 +1,17 @@
 ---
 unique-page-id: 1146940
 description: 스마트 캠페인을 위한 스마트 목록 정의 | 일괄 처리 - Marketo 문서 - 제품 설명서
-title: 스마트 캠페인을 위한 스마트 목록 정의 | 일괄 처리
+title: 스마트 캠페인에 대한 스마트 목록 정의 | 배치
 exl-id: 0e0061a9-df24-4cf6-8f1e-09ff0ee62efa
 feature: Smart Campaigns
-source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '273'
-ht-degree: 0%
+ht-degree: 5%
 
 ---
 
-# 스마트 캠페인을 위한 스마트 목록 정의 | 일괄 처리 {#define-smart-list-for-smart-campaign-batch}
+# 스마트 캠페인에 대한 스마트 목록 정의 | 배치 {#define-smart-list-for-smart-campaign-batch}
 
 스마트 목록은 보고서, 목록 또는 스마트 캠페인인지 여부와 관계없이 포함할 &quot;사용자&quot;(사용자)를 정의하는 Marketo Engage 전체의 메커니즘입니다. 다음은 일괄 캠페인을 위한 스마트 목록을 정의하는 방법입니다.
 

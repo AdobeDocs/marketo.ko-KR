@@ -4,10 +4,10 @@ description: 랜딩 페이지 설정 편집 - Marketo 문서 - 제품 설명서
 title: 랜딩 페이지 설정 편집
 exl-id: 019b4651-3a66-46f9-8722-66af30194380
 feature: Administration, Landing Pages
-source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '203'
-ht-degree: 2%
+ht-degree: 9%
 
 ---
 
@@ -23,7 +23,7 @@ ht-degree: 2%
 
    ![](assets/edit-landing-page-settings-1.png)
 
-1. **[!UICONTROL Landing Pages]**&#x200B;을(를) 클릭합니다.
+1. **[!UICONTROL Landing Pages]**&#x200B;를 클릭합니다.
 
    ![](assets/edit-landing-page-settings-2.png)
 

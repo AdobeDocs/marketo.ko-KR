@@ -1,17 +1,17 @@
 ---
 unique-page-id: 14746184
 description: 구독 취소 기록 카드 - Marketo 문서 - 제품 설명서
-title: 가입 해지 기록 카드
+title: 구독 취소 기록 카드
 exl-id: ae44552d-7f9e-4f5c-bb22-62c55b63f3e6
 feature: Marketo Sales Connect
-source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '139'
-ht-degree: 0%
+ht-degree: 4%
 
 ---
 
-# 가입 해지 기록 카드 {#unsubscribe-history-card}
+# 구독 취소 기록 카드 {#unsubscribe-history-card}
 
 [!UICONTROL Unsubscribe History] 카드를 사용하면 관리자와 사용자가 연락처의 구독 취소 내역에 대한 상황별 정보를 얻을 수 있습니다.
 

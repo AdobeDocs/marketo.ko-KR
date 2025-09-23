@@ -4,10 +4,10 @@ description: 스마트 캠페인 체크리스트 - Marketo 문서 - 제품 설�
 title: 스마트 캠페인 체크리스트
 exl-id: 3c0d08c9-66ae-4083-ab0a-fa5a95149aba
 feature: Smart Campaigns
-source-git-commit: 9e51ece12742152040dbbcb6a1584fba28e863ff
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
-source-wordcount: '246'
-ht-degree: 0%
+source-wordcount: '234'
+ht-degree: 3%
 
 ---
 
@@ -17,7 +17,7 @@ ht-degree: 0%
 
 ## 스마트 목록 오류 제거 {#get-rid-of-smart-list-errors}
 
-스마트 캠페인에서 **[!UICONTROL 스마트 목록]**&#x200B;을 클릭합니다. 오류를 수정하여 표시되는 빨간 오글거리는 선을 제거합니다.
+스마트 캠페인에서 **[!UICONTROL Smart List]**&#x200B;을(를) 클릭합니다. 오류를 수정하여 표시되는 빨간 오글거리는 선을 제거합니다.
 
 ![](assets/smart-campaign-checklist-1.png)
 
@@ -29,11 +29,11 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->**[!UICONTROL 스마트 목록 멤버]**&#x200B;을(를) 사용하면 다른 목록에서 오류가 발생할 수 있습니다. 거기도 확인해 보세요
+>**[!UICONTROL Member of Smart List]**&#x200B;을(를) 사용하면 다른 목록에 오류가 있을 수 있습니다. 거기도 확인해 보세요
 
 ## 흐름 오류 제거 {#get-rid-of-flow-errors}
 
-스마트 캠페인에서 **[!UICONTROL 흐름]**&#x200B;을 클릭하세요. 오류를 수정하여 볼 수 있는 빨간 오글거리는 선을 제거합니다.
+스마트 캠페인에서 **[!UICONTROL Flow]**&#x200B;을(를) 클릭합니다. 오류를 수정하여 볼 수 있는 빨간 오글거리는 선을 제거합니다.
 
 ![](assets/smart-campaign-checklist-2.png)
 
@@ -43,13 +43,13 @@ ht-degree: 0%
 
 ## 예약 탭 검토 {#review-the-schedule-tab}
 
-**[!UICONTROL 일정]** 탭에서 **[!UICONTROL 스마트 목록 상태]**&#x200B;에서 수정해야 하는 스마트 캠페인에 오류가 있는지 확인하십시오.
+**[!UICONTROL Schedule]** 탭에서 **[!UICONTROL Smart List Status]**&#x200B;에서 수정해야 하는 스마트 캠페인에 오류가 있는지 확인합니다.
 
 ![](assets/smart-campaign-checklist-3.png)
 
 ## 개인 제한 사항 확인 {#check-person-restrictions-limit}
 
-**[!UICONTROL 일정]** 탭에서 자격 있는 사람의 수가 개인 제한 한도를 초과하지 않도록 합니다.
+**[!UICONTROL Schedule]** 탭에서 자격이 있는 사람의 수가 개인 제한 한도를 초과하지 않도록 합니다.
 
 ![](assets/smart-campaign-checklist-4.png)
 

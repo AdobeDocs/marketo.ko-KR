@@ -4,10 +4,10 @@ description: Microsoft Dynamics용 Marketo Sales Insight 솔루션 - Marketo 설
 title: Microsoft Dynamics용 Marketo Sales Insight 솔루션 업그레이드
 exl-id: ddc26dc6-7552-4fac-8102-657ecd8c9445
 feature: Marketo Sales Insights
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '118'
-ht-degree: 1%
+ht-degree: 12%
 
 ---
 
@@ -23,7 +23,7 @@ ht-degree: 1%
 
    ![](assets/upgrade-the-marketo-sales-insight-solution-for-microsoft-dynamics-1.png)
 
-1. **[!UICONTROL Microsoft Dynamics]**&#x200B;을(를) 클릭합니다.
+1. **[!UICONTROL Microsoft Dynamics]**&#x200B;를 클릭합니다.
 
    ![](assets/upgrade-the-marketo-sales-insight-solution-for-microsoft-dynamics-2.png)
 

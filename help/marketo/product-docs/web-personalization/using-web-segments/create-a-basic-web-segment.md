@@ -4,10 +4,10 @@ description: 기본 웹 세그먼트 만들기 - Marketo 문서 - 제품 설명�
 title: 기본 웹 세그먼트 만들기
 exl-id: 99bc3788-e04c-46a3-86e5-76d398f8a6e6
 feature: Web Personalization
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '151'
-ht-degree: 0%
+ht-degree: 7%
 
 ---
 
@@ -19,7 +19,7 @@ ht-degree: 0%
 
    ![](assets/image2016-8-18-15-3a37-3a32.png)
 
-1. **[!UICONTROL Create New]**&#x200B;을(를) 클릭합니다.
+1. **[!UICONTROL Create New]**&#x200B;를 클릭합니다.
 
    ![](assets/image2014-11-19-19-3a33-3a47.png)
 

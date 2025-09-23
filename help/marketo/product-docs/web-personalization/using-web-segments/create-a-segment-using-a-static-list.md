@@ -4,10 +4,10 @@ description: 정적 목록을 사용하여 세그먼트 만들기 - Marketo 문�
 title: 정적 목록을 사용하여 세그먼트 만들기
 exl-id: 6652c1e2-2f07-4395-8c8d-c630517eb1e8
 feature: Web Personalization
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '154'
-ht-degree: 0%
+ht-degree: 9%
 
 ---
 
@@ -19,7 +19,7 @@ ht-degree: 0%
 
    ![](assets/1.jpg)
 
-1. **[!UICONTROL Create New]**&#x200B;을(를) 클릭합니다.
+1. **[!UICONTROL Create New]**&#x200B;를 클릭합니다.
 
    ![](assets/two.png)
 

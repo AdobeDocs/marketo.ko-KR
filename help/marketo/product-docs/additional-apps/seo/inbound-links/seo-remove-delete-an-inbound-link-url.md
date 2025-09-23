@@ -4,10 +4,10 @@ description: SEO - 인바운드 링크 URL 제거/삭제 - Marketo 문서 - 제�
 title: SEO - 인바운드 링크 URL 제거/삭제
 exl-id: 102a483f-0bbd-4bac-8e63-278024d32cbf
 feature: SEO
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
-source-wordcount: '59'
-ht-degree: 0%
+source-wordcount: '56'
+ht-degree: 26%
 
 ---
 
@@ -15,7 +15,7 @@ ht-degree: 0%
 
 때로는 인바운드 링크를 제거하려 할 수도 있습니다. 방법은 다음과 같습니다.
 
-1. **[!UICONTROL 인바운드 링크]** 섹션으로 이동합니다.
+1. **[!UICONTROL Inbound Links]** 섹션으로 이동합니다.
 
    ![](assets/image2014-9-18-13-3a47-3a3.png)
 
@@ -23,7 +23,7 @@ ht-degree: 0%
 
    ![](assets/image2014-9-18-13-3a49-3a34.png)
 
-1. **[!UICONTROL 제거]**&#x200B;를 클릭합니다.
+1. **[!UICONTROL Remove]**&#x200B;를 클릭합니다.
 
    ![](assets/image2014-9-18-13-3a49-3a44.png)
 

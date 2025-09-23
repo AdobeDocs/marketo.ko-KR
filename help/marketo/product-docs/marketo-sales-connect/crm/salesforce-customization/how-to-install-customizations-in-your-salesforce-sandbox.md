@@ -1,17 +1,17 @@
 ---
 unique-page-id: 15368208
 description: Salesforce 샌드박스에 맞춤화를 설치하는 방법 - Marketo 문서 - 제품 설명서
-title: Salesforce 샌드박스에서 사용자 지정을 설치하는 방법
+title: Salesforce Sandbox에 사용자 정의 설치하는 방법
 exl-id: a3996a86-2a95-456c-96c2-b91b08fb9bc8
 feature: Marketo Sales Connect
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '68'
-ht-degree: 1%
+ht-degree: 25%
 
 ---
 
-# Salesforce 샌드박스에서 사용자 지정을 설치하는 방법 {#how-to-install-customizations-in-your-salesforce-sandbox}
+# Salesforce Sandbox에 사용자 정의 설치하는 방법 {#how-to-install-customizations-in-your-salesforce-sandbox}
 
 >[!NOTE]
 >
@@ -29,7 +29,7 @@ ht-degree: 1%
 
    ![](assets/two-3.png)
 
-1. **[!UICONTROL Install Customizations]**&#x200B;을(를) 클릭합니다.
+1. **[!UICONTROL Install Customizations]**&#x200B;를 클릭합니다.
 
    ![](assets/three-3.png)
 

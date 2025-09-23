@@ -4,10 +4,10 @@ description: 동적 필드를 삽입하는 방법 - Marketo 문서 - 제품 설�
 title: 동적 필드를 삽입하는 방법
 exl-id: e4989350-872d-47a1-84b0-210e631ae23a
 feature: Marketo Sales Connect
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '222'
-ht-degree: 0%
+ht-degree: 4%
 
 ---
 
@@ -23,7 +23,7 @@ ht-degree: 0%
 
 1. **[!UICONTROL Templates & Campaigns]**&#x200B;에서 편집할 템플릿을 찾은 다음 **[!UICONTROL Edit Template]**&#x200B;을(를) 클릭합니다.
 
-1. **[!UICONTROL Tout Dynamic Fields]**&#x200B;을(를) 클릭합니다.
+1. **[!UICONTROL Tout Dynamic Fields]**&#x200B;를 클릭합니다.
 
    >[!NOTE]
    >

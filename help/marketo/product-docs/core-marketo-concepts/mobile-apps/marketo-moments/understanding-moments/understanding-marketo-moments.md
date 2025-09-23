@@ -1,23 +1,23 @@
 ---
 unique-page-id: 8781845
 description: Marketo 순간 이해 - Marketo 문서 - 제품 설명서
-title: Marketo 모멘트 이해
+title: Marketo Moments 이해
 exl-id: bc103d25-a175-4ab1-8305-1e05b9b0dc2d
 feature: Mobile Marketing
-source-git-commit: 0abb315be0f9cb5f42fa41d72b446de8c2f62c1e
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
-source-wordcount: '604'
-ht-degree: 0%
+source-wordcount: '586'
+ht-degree: 1%
 
 ---
 
-# Marketo 모멘트 이해 {#understanding-marketo-moments}
+# Marketo Moments 이해 {#understanding-marketo-moments}
 
 이제 Marketo의 힘은 문자 그대로 여러분의 손에 달렸습니다! 휴대폰 또는 iPad에서 바로 이메일을 미리 보고 일정을 조정할 수 있습니다.
 
 >[!IMPORTANT]
 >
->2023년 10월 2일, Adobe은 모든 앱스토어에서 Marketo 모먼트 앱을 제거했습니다. 태블릿/모바일 장치에 이미 앱이 설치되어 있는 경우 당분간 앱을 계속 사용할 수 있습니다. Marketo 인증을 위해 Marketo Engage 인스턴스가 Adobe ID로 마이그레이션되면 더 이상 앱에 액세스할 수 없습니다. [자세히 알아보기](https://nation.marketo.com/t5/product-discussions/marketo-events-app-and-marketo-moments-app-end-of-life/m-p/340712/highlight/true#M193869){target="_blank"}.
+>2023년 10월 2일, Adobe은 모든 앱스토어에서 Marketo 모먼트 앱을 제거했습니다. 태블릿/모바일 장치에 이미 앱이 설치되어 있는 경우 당분간 앱을 계속 사용할 수 있습니다. Marketo 인증을 위해 Marketo Engage 인스턴스가 Adobe ID로 마이그레이션되면 더 이상 앱에 액세스할 수 없습니다. [자세히 알아보기](https://nation.marketo.com/t5/product-discussions/marketo-events-app-and-marketo-moments-app-end-of-life/m-p/340712/highlight/true#M193869){target="_blank"}
 
 >[!NOTE]
 >
@@ -33,10 +33,10 @@ ht-degree: 0%
 >
 >**정의**
 >
->* [!UICONTROL 순간]: 방금 실행되었거나 곧 실행될 모든 항목이 여기에 표시됩니다.
->* [!UICONTROL 즐겨찾기]: 즐겨찾기에 추가한 모든 항목이 여기에 포함됩니다.
->* [!UICONTROL 나중에]: 이 시간 이후에 발생하는 모든 작업이 여기에 포함됩니다.
->* [!UICONTROL 완료]: 실행을 완료했거나 완료로 표시한 모든 항목이 여기에 표시됩니다.
+>* [!UICONTROL Moments]: 방금 실행되었거나 곧 실행될 모든 항목이 여기에 표시됩니다.
+>* [!UICONTROL Favorites]: 즐겨찾기에 추가한 항목은 모두 여기에 포함됩니다.
+>* [!UICONTROL Later]: 이 시간 이후에 발생하는 모든 작업이 여기에 포함됩니다.
+>* [!UICONTROL Done]: 실행을 완료했거나 완료로 표시한 모든 항목이 여기에 표시됩니다.
 
 좋습니다. 이제 그 문제가 해결되었으므로 전화로 Marketo Moments를 살펴보도록 하겠습니다!
 
@@ -44,21 +44,21 @@ ht-degree: 0%
 
 Marketo Moments는 이메일의 진행 상황을 따라갈 수 있는 세 가지 다른 카드를 제공합니다.
 
-**[!UICONTROL 준비 중]** - 이 전자 메일이 곧 발송됩니다. 미리 보거나, 샘플을 보내거나, 취소해야 할 경우 취소할 수 있는 마지막 기회입니다.
+**[!UICONTROL On-Deck]** - 이 전자 메일이 곧 발송됩니다. 미리 보거나, 샘플을 보내거나, 취소해야 할 경우 취소할 수 있는 마지막 기회입니다.
 
 ![](assets/image2015-7-17-11-3a25-3a48.png)
 
-**[!UICONTROL 하트비트]** - 안녕하세요. 이 전자 메일이 지금 배달되고 있습니다! 그리고 여기 통계도 있습니다. 공유하세요.
+**[!UICONTROL Heart-beat]** - 안녕하세요. 이 전자 메일이 지금 배달되고 있습니다! 그리고 여기 통계도 있습니다. 공유하세요.
 
 ![](assets/image2015-7-17-11-3a27-3a22.png)
 
-**[!UICONTROL 결과]** - 전자 메일이 수행된 방식 이메일 실행이 완료되면 결과 카드에 참여 점수 및 기타 상태가 표시됩니다.
+**[!UICONTROL Results]** - 전자 메일이 수행된 방식 이메일 실행이 완료되면 결과 카드에 참여 점수 및 기타 상태가 표시됩니다.
 
 ![](assets/image2015-7-17-11-3a43-3a28.png)
 
 ## 모멘트 스트림 {#moments-stream}
 
-앱을 처음 열거나 메뉴에서 **[!UICONTROL 순간]**&#x200B;을 탭하면 관련 카드가 먼저 표시됩니다. 각 페이지에는 해당 특정 마케팅 이니셔티브와 전체 성능에 대한 정보가 포함되어 있습니다.
+앱을 처음 열거나 메뉴에서 **[!UICONTROL Moments]**&#x200B;을(를) 탭하면 관련 카드가 먼저 표시됩니다. 각 페이지에는 해당 특정 마케팅 이니셔티브와 전체 성능에 대한 정보가 포함되어 있습니다.
 
 ![](assets/image2015-7-15-10-3a46-3a19.png)
 
@@ -82,11 +82,11 @@ Marketo Moments는 이메일의 진행 상황을 따라갈 수 있는 세 가지
 >
 >**정의**
 >
->* [!UICONTROL 즐겨찾기]: 즐겨찾기로 설정할 경우 가장 시기 적절하고 중요한 항목에 쉽게 집중할 수 있습니다.
->* [!UICONTROL 완료]: 완료 를 선택하면 Marketo 모멘트 보기에서 제거됩니다(하지만 Marketo에 두면 안전하고 건전합니다).
->* [!UICONTROL 공유]: 팀에 동기부여하거나 축하하기 위해 이미지를 보냅니다.
->* [!UICONTROL 샘플 보내기] (전자 메일 전용): 전자 메일을 보내기 전에 다른 사용자가 전자 메일의 모양을 확인할 수 있도록 하려면 이 옵션을 사용합니다.
->* [!UICONTROL 미리 보기] (전자 메일 전용): 전자 메일을 미리 확인하는 것이 좋습니다.
+>* [!UICONTROL Favorite]: 가장 시기 적절하고 중요한 항목을 즐겨찾기로 설정할 경우 주의하기 쉽습니다.
+>* [!UICONTROL Done]: 완료 를 선택하면 Marketo 모멘트 보기에서 제거됩니다(하지만 안전하고 안전한 Marketo에 둡니다).
+>* [!UICONTROL Share]: 팀에 동기부여하거나 축하하기 위해 이미지를 보냅니다.
+>* [!UICONTROL Send Sample]&#x200B;(전자 메일 전용): 전자 메일을 보내기 전에 다른 사용자가 전자 메일의 모양을 확인할 수 있도록 하려면 이 옵션을 사용합니다.
+>* [!UICONTROL Preview Email]&#x200B;(전자 메일 전용): 전자 메일을 미리 확인하는 것이 좋습니다.
 
 ## 나중 순간 {#later-moments}
 
@@ -96,7 +96,7 @@ Marketo Moments는 이메일의 진행 상황을 따라갈 수 있는 세 가지
 
    ![](assets/image2015-7-15-10-3a52-3a5.png)
 
-1. **[!UICONTROL 나중에]**&#x200B;를 탭합니다.
+1. **[!UICONTROL Later]**&#x200B;을(를) 누릅니다.
 
    ![](assets/image2015-7-15-10-3a54-3a47.png)
 
@@ -134,7 +134,7 @@ Analytics Moment 카드는 지난 6개월 동안 이메일 및 이벤트가 매�
 
 ## 작업 확인 또는 취소 {#confirm-or-cancel-an-action}
 
-모든 단계에서 작업을 확인하거나 취소할 수 있습니다. 마음이 바뀌면 **[!UICONTROL 신경 쓰지 않음]**&#x200B;을 탭하세요.
+모든 단계에서 작업을 확인하거나 취소할 수 있습니다. 마음이 바뀌면 **[!UICONTROL Never Mind]**&#x200B;을(를) 탭하세요.
 
 ![](assets/image2015-7-14-17-3a11-3a29.png)
 

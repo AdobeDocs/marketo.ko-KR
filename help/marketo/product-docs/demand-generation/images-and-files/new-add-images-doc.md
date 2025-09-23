@@ -5,10 +5,10 @@ hide: true
 hidefromtoc: true
 feature: Image Editor
 exl-id: 2080327c-fef0-48d8-b5c6-21741ae4f357
-source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '246'
-ht-degree: 2%
+ht-degree: 13%
 
 ---
 
@@ -26,7 +26,7 @@ ht-degree: 2%
 
    ![](assets/add-images-and-files-to-marketo-2.png)
 
-1. **[!UICONTROL Image and file actions]** 드롭다운을 클릭하고 **[!UICONTROL Upload image or file]**&#x200B;을(를) 선택합니다.
+1. **[!UICONTROL Image and file actions]** 드롭다운을 클릭하고 **[!UICONTROL Upload image or file]**&#x200B;를 선택합니다.
 
    ![](assets/add-images-and-files-to-marketo-3.png)
 
@@ -48,7 +48,7 @@ ht-degree: 2%
 
 1. 위의 [에서 1단계 및 2단계 ](#upload-image-or-file)을(를) 따릅니다.
 
-1. **[!UICONTROL Image and file actions]** 드롭다운을 클릭하고 **[!UICONTROL Import image or file]**&#x200B;을(를) 선택합니다.
+1. **[!UICONTROL Image and file actions]** 드롭다운을 클릭하고 **[!UICONTROL Import image or file]**&#x200B;를 선택합니다.
 
    ![](assets/add-images-and-files-to-marketo-6.png)
 
@@ -70,7 +70,7 @@ PICC
 
 1. 위의 [에서 1단계 및 2단계 ](#upload-image-or-file)을(를) 따릅니다.
 
-1. **[!UICONTROL Image and file actions]** 드롭다운을 클릭하고 **[!UICONTROL Import image or file]**&#x200B;을(를) 선택합니다.
+1. **[!UICONTROL Image and file actions]** 드롭다운을 클릭하고 **[!UICONTROL Import image or file]**&#x200B;를 선택합니다.
 
    ![](assets/add-images-and-files-to-marketo-10.png)
 
@@ -100,7 +100,7 @@ PICC
 
 1. 위의 [에서 1단계 및 2단계 ](#upload-image-or-file)을(를) 따릅니다.
 
-1. **[!UICONTROL Image and file actions]** 드롭다운을 클릭하고 **[!UICONTROL Import image or file]**&#x200B;을(를) 선택합니다.
+1. **[!UICONTROL Image and file actions]** 드롭다운을 클릭하고 **[!UICONTROL Import image or file]**&#x200B;를 선택합니다.
 
    ![](assets/add-images-and-files-to-marketo-15.png)
 

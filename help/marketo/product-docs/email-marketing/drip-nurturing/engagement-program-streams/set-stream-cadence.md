@@ -4,10 +4,10 @@ description: 스트림 케이던스 설정 - Marketo 문서 - 제품 설명서
 title: 스트림 케이던스 설정
 exl-id: 589eeefa-b2f6-4131-a72b-359c97ab98c0
 feature: Engagement Programs
-source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '361'
-ht-degree: 1%
+ht-degree: 3%
 
 ---
 
@@ -27,7 +27,7 @@ ht-degree: 1%
 
 1. 케이던스를 반복할 빈도를 선택합니다. **[!UICONTROL Weekly]** 또는 **[!UICONTROL Monthly]**&#x200B;을(를) 선택할 수 있습니다.
 
-## 주간 {#weekly}
+## 매주 {#weekly}
 
 1. **[!UICONTROL Weekly]**&#x200B;를 선택합니다.
 
@@ -71,7 +71,7 @@ ht-degree: 1%
 
 됐습니다. 월간 케이던스를 설정하려면 계속 읽으십시오.
 
-## 월별 {#monthly}
+## 매월 {#monthly}
 
 1. **[!UICONTROL Monthly]**&#x200B;을(를) 선택하여 반복 빈도를 확인합니다.
 

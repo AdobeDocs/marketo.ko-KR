@@ -1,17 +1,17 @@
 ---
 unique-page-id: 10093688
 description: Marketo 사용자 지정 개체 필드 추가 - Marketo 문서 - 제품 설명서
-title: Marketo 사용자 지정 개체 필드 추가
+title: Marketo 사용자 정의 오브젝트 필드 추가
 exl-id: 6d776d97-93e2-4708-9ce5-2172e02b71c3
 feature: Custom Objects
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '277'
-ht-degree: 0%
+ht-degree: 5%
 
 ---
 
-# Marketo 사용자 지정 개체 필드 추가 {#add-marketo-custom-object-fields}
+# Marketo 사용자 정의 오브젝트 필드 추가 {#add-marketo-custom-object-fields}
 
 사용자 지정 개체를 만든 후에는 비즈니스 요구 사항에 맞게 사용자 지정 개체에 필드를 추가해야 합니다.
 
@@ -21,7 +21,7 @@ ht-degree: 0%
 
    ![](assets/add-marketo-custom-object-fields-1.png)
 
-1. **[!UICONTROL Marketo Custom Objects]**&#x200B;을(를) 클릭합니다.
+1. **[!UICONTROL Marketo Custom Objects]**&#x200B;를 클릭합니다.
 
    ![](assets/add-marketo-custom-object-fields-2.png)
 

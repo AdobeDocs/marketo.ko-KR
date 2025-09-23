@@ -3,10 +3,10 @@ description: 호출 이유 - Marketo 문서 - 제품 설명서
 title: 통화 이유
 exl-id: 79e87daf-3af6-4e62-bc76-a920867e2dd2
 feature: Marketo Sales Connect
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '148'
-ht-degree: 1%
+ht-degree: 4%
 
 ---
 
@@ -50,7 +50,7 @@ ht-degree: 1%
 
    ![](assets/call-reasons-6.png)
 
-1. **[!UICONTROL Manage call reasons]**&#x200B;을(를) 클릭합니다.
+1. **[!UICONTROL Manage call reasons]**&#x200B;를 클릭합니다.
 
    ![](assets/call-reasons-7.png)
 

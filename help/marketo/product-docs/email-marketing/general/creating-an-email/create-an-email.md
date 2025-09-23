@@ -4,10 +4,10 @@ description: 이메일 만들기 - Marketo 문서 - 제품 설명서
 title: 이메일 만들기
 exl-id: 58388c21-d3f7-4101-a375-05e9b68a278e
 feature: Email Editor
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '189'
-ht-degree: 0%
+ht-degree: 6%
 
 ---
 
@@ -21,7 +21,7 @@ Marketo에서 이메일을 만드는 방법에는 두 가지가 있습니다. �
 
    ![](assets/create-an-email-1.png)
 
-1. **[!UICONTROL New]** 드롭다운을 클릭하고 **[!UICONTROL New Email]**&#x200B;을(를) 선택합니다.
+1. **[!UICONTROL New]** 드롭다운을 클릭하고 **[!UICONTROL New Email]**&#x200B;를 선택합니다.
 
    ![](assets/create-an-email-2.png)
 
@@ -41,7 +41,7 @@ Marketo에서 이메일을 만드는 방법에는 두 가지가 있습니다. �
 
    ![](assets/create-an-email-4.png)
 
-1. **[!UICONTROL Email]**&#x200B;을(를) 클릭합니다.
+1. **[!UICONTROL Email]**&#x200B;를 클릭합니다.
 
    ![](assets/create-an-email-5.png)
 

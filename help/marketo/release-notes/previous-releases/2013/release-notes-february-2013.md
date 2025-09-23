@@ -4,20 +4,20 @@ description: 릴리스 노트 - 2013년 2월 - Marketo 문서 - 제품 설명서
 title: 릴리스 노트 - 2013년 2월
 exl-id: 9adfa676-09ea-497a-bcce-42300848b9d8
 feature: Release Information
-source-git-commit: ecd225af3ecfd7cb9159faf5a9d384d47ee6312c
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '251'
-ht-degree: 0%
+ht-degree: 1%
 
 ---
 
-# 릴리스 노트: 2013년 2월 {#release-notes-february}
+# 릴리스 정보: 2013년 2월 {#release-notes-february}
 
 2월 릴리스에는 많이 요청된 기능, [!DNL Apple Safari]에 대한 지원 및 기타 간단한 개선 사항이 포함되어 있습니다.
 
 ## [!DNL Apple Safari]에 대한 공식 지원 {#official-support-for-apple-safari}
 
-Mac 및 [!DNL Windows]용 [!DNL Apple Safari]의 최신 버전은 Marketo 리드 관리에서 사용할 수 있도록 완전히 지원됩니다. 참고: iOS의 [!DNL Safari]은(는) 완전히 호환되지 않습니다.
+Mac 및 [!DNL Apple Safari]용 [!DNL Windows]의 최신 버전은 Marketo 리드 관리에서 사용할 수 있도록 완전히 지원됩니다. 참고: iOS의 [!DNL Safari]은(는) 완전히 호환되지 않습니다.
 
 ## Webhooks 개선 사항 {#webhooks-enhancements}
 

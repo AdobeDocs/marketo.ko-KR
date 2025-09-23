@@ -3,10 +3,10 @@ unique-page-id: 10097199
 description: 릴리스 노트 - 16년 겨울 - Marketo 문서 - 제품 설명서
 title: 릴리스 정보 - 2016년 겨울
 exl-id: 1e3b9207-27fe-47b1-b709-1306ac57b93b
-source-git-commit: ecd225af3ecfd7cb9159faf5a9d384d47ee6312c
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '470'
-ht-degree: 0%
+ht-degree: 1%
 
 ---
 
@@ -26,7 +26,7 @@ ht-degree: 0%
 
 ## [Microsoft Edge 브라우저](/help/marketo/product-docs/administration/setup-administration/supported-browsers.md) {#microsoft-edge-browser}
 
-Marketo에서 지원하는 [브라우저 목록](https://docs.marketo.com/display/public/DOCS/Supported+Browsers)에 [!DNL Microsoft Edge]을(를) 추가했습니다.
+Marketo에서 지원하는 [!DNL Microsoft Edge]브라우저 목록[에 ](https://docs.marketo.com/display/public/DOCS/Supported+Browsers)을(를) 추가했습니다.
 
 ## [Microsoft Outlook 2016](/help/marketo/product-docs/marketo-sales-insight/msi-outlook-plugin/install-the-marketo-email-add-in-for-outlook-with-a-registration-code.md) {#microsoft-outlook}
 

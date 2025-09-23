@@ -3,10 +3,10 @@ description: 사용자에게 Marketo 액세스 권한 부여 - Marketo 문서 - 
 title: 사용자에게 Marketo 액세스 권한 부여
 exl-id: 0efb3e85-cc75-4810-bc67-05127f44e012
 feature: Sales Insight Actions
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '199'
-ht-degree: 0%
+ht-degree: 7%
 
 ---
 
@@ -44,7 +44,7 @@ Marketo 연결에 대한 액세스 권한이 부여된 Marketo > [[!DNL Sales In
 
    ![](assets/grant-marketo-access-to-users-5.png)
 
-1. **[!UICONTROL Connect]**&#x200B;을(를) 클릭합니다.
+1. **[!UICONTROL Connect]**&#x200B;를 클릭합니다.
 
    ![](assets/grant-marketo-access-to-users-6.png)
 

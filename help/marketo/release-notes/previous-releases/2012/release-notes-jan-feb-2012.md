@@ -4,14 +4,14 @@ description: 릴리스 노트 - 2012년 1월/2월 - Marketo 문서 - 제품 설�
 title: 릴리스 노트 - 2012년 1월/2월
 exl-id: 4d1ca9b6-e269-4982-9c0c-cf12363feafb
 feature: Release Information
-source-git-commit: ecd225af3ecfd7cb9159faf5a9d384d47ee6312c
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '432'
-ht-degree: 0%
+ht-degree: 1%
 
 ---
 
-# 릴리스 노트: 2012년 1월/2월 {#release-notes-jan-feb}
+# 릴리스 정보: 2012년 1월/2월 {#release-notes-jan-feb}
 
 다음 기능은 1월/2월 릴리스에 포함되어 있습니다. Marketo 버전에서 사용 가능한 기능이 있는지 확인하십시오. 자세한 기능 설명서에 대한 링크를 보려면 릴리스 이후 다시 돌아오십시오.
 

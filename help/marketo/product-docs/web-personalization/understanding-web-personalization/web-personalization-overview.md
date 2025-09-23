@@ -1,17 +1,17 @@
 ---
 unique-page-id: 3571900
 description: 웹 Personalization 개요 - Marketo 문서 - 제품 설명서
-title: 웹 Personalization 개요
+title: 웹 개인화 개요
 exl-id: 31445a69-9a3a-4350-a3eb-1af718e823b4
 feature: Web Personalization
-source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '775'
 ht-degree: 1%
 
 ---
 
-# 웹 Personalization 개요 {#web-personalization-overview}
+# 웹 개인화 개요 {#web-personalization-overview}
 
 ## 소개 {#introduction}
 

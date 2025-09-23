@@ -4,10 +4,10 @@ description: Microsoft - Marketo 문서 - 제품 설명서에서 작업 만들�
 title: Microsoft에서 작업 만들기
 exl-id: b9ae425b-edf1-4aae-92f4-e7c6cf647cdc
 feature: Smart Campaigns, Microsoft Dynamics
-source-git-commit: 934bb5f197f801e48cf8e7554335eb2d07289037
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
-source-wordcount: '168'
-ht-degree: 0%
+source-wordcount: '164'
+ht-degree: 4%
 
 ---
 
@@ -27,7 +27,7 @@ Microsoft의 작업 만들기 는 [!DNL Microsoft]의 사용자(잠재 고객 �
 
 >[!NOTE]
 >
->Marketo 동기화 사용자가 작업을 만들 때 **[!UICONTROL 기한]**&#x200B;은(는) 작업을 [!DNL Microsoft]에서 만드는 데 필요한 필드입니다. Marketo은 값을 입력하지 않으면 기본적으로 5일을 입력합니다.
+>Marketo 동기화 사용자가 작업을 만들 때 **[!UICONTROL Due In]**&#x200B;은(는) [!DNL Microsoft]에서 작업을 만드는 데 필요한 필드입니다. Marketo은 값을 입력하지 않으면 기본적으로 5일을 입력합니다.
 
 원하는 방식으로 작업을 만들려면 모든 필드를 사용자 지정합니다.
 
@@ -39,4 +39,4 @@ Microsoft의 작업 만들기 는 [!DNL Microsoft]의 사용자(잠재 고객 �
 
 >[!TIP]
 >
->**[!UICONTROL 제목]** 및 **[!UICONTROL 설명]**&#x200B;에서 `{{lead.tokens}}`, `{{company.tokens}}`, `{{campaign.tokens}}` 및 `{{system.tokens}}`을(를) 사용할 수 있습니다. 자세한 내용은 [흐름 단계의 토큰](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/use-tokens-in-flow-steps.md){target="_blank"}을 참조하세요.
+>`{{lead.tokens}}` 및 `{{company.tokens}}`에서 `{{campaign.tokens}}`, `{{system.tokens}}`, **[!UICONTROL Subject]** 및 **[!UICONTROL Description]**&#x200B;을(를) 사용할 수 있습니다. 자세한 내용은 [흐름 단계의 토큰](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/use-tokens-in-flow-steps.md){target="_blank"}을 참조하세요.

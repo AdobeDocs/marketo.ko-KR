@@ -4,7 +4,7 @@ title: SMS에 대한 흐름 단계 추가
 hide: true
 hidefromtoc: true
 feature: Mobile Marketing
-source-git-commit: fee2d692acd8d54f2e308e2d5edc9876d13d5a4d
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '377'
 ht-degree: 0%
@@ -19,7 +19,7 @@ Marketo Engage에는 SMS 스마트 캠페인에서 사용할 수 있는 세 가�
 <tbody>
   <tr>
     <td style="width:25%">SMS 메시지 보내기</td>
-    <td>이 흐름 작업은 Marketo Smart List에서 사용자 옵트인 Vibes 구독 목록을 구독하는 사람에게 메시지를 보냅니다. 가입 프로세스가 시작되지 않습니다. <a href="/help/marketo/product-docs/mobile-marketing/vibes-sms-messages/send-a-vibes-sms-message.md">자세히 알아보기</a>.</td>
+    <td>이 흐름 작업은 Marketo Smart List에서 사용자 옵트인 Vibes 구독 목록을 구독하는 사람에게 메시지를 보냅니다. 가입 프로세스가 시작되지 않습니다. <a href="/help/marketo/product-docs/mobile-marketing/vibes-sms-messages/send-a-vibes-sms-message.md">자세히 알아보기</a></td>
   </tr>
 
 <tr>

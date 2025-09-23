@@ -1,13 +1,13 @@
 ---
 unique-page-id: 13795534
 description: Performance Insights 대시보드 - Marketo 문서 - 제품 설명서
-title: Performance Insights 대시보드
+title: 성과 인사이트 대시보드
 exl-id: 324880d0-e3ff-4bd5-8e1b-102c4ea66c8f
 feature: Reporting
-source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '493'
-ht-degree: 0%
+ht-degree: 1%
 
 ---
 

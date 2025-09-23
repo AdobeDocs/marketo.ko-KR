@@ -1,16 +1,16 @@
 ---
 description: Adobe ID로 마이그레이션 - Marketo 문서 - 제품 설명서
-title: Adobe ID로 마이그레이션
+title: Adobe Identity로 마이그레이션
 feature: Marketo with Adobe Identity
 exl-id: a7969204-0ec9-45aa-a206-eff2df8adcd0
-source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '2319'
 ht-degree: 0%
 
 ---
 
-# Adobe ID로 마이그레이션 {#migrating-to-adobe-identity}
+# Adobe Identity로 마이그레이션 {#migrating-to-adobe-identity}
 
 Adobe에서 구독의 사용자 마이그레이션을 예약하면 Marketo Engage 제품 관리자는 마이그레이션 콘솔에 액세스할 수 있습니다. 이 콘솔은 통합 아래의 관리 영역에 있는 탐색 메뉴에 있습니다.
 

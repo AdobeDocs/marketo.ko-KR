@@ -4,7 +4,7 @@ description: 양식 미리 보기 - Marketo 문서 - 제품 설명서
 title: 양식 미리보기
 exl-id: 7d7522ef-422f-4c20-a1dc-2bcb856ac373
 feature: Forms
-source-git-commit: 2f7533b53665c137ef8edfc3630120869de3ec6f
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '64'
 ht-degree: 9%

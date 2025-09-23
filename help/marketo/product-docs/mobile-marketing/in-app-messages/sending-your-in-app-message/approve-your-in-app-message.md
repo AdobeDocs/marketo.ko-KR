@@ -4,10 +4,10 @@ description: 인앱 메시지 승인 - Marketo 문서 - 제품 설명서
 title: 인앱 메시지 승인
 exl-id: 3ebd857e-8caa-45f3-a53c-fa2df2a81d36
 feature: Mobile Marketing
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '301'
-ht-degree: 0%
+ht-degree: 2%
 
 ---
 
@@ -23,7 +23,7 @@ ht-degree: 0%
    >
    >인앱 메시지가 승인되지 않는 등 전송 프로세스의 일부가 완료되지 않은 경우, 주의 사항이 있는 영역을 나타내는 경고 메시지가 표시됩니다. 가서 고치면 2단계에서 메시지가 표시됩니다.
 
-1. **[!UICONTROL Approve and Launch]**&#x200B;을(를) 클릭합니다.
+1. **[!UICONTROL Approve and Launch]**&#x200B;를 클릭합니다.
 
    ![](assets/pasted-image-at-2016-05-31-02-08-pm.png)
 

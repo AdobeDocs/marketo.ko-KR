@@ -4,14 +4,14 @@ description: 릴리스 노트 - 2013년 5월 - Marketo 문서 - 제품 설명서
 title: 릴리스 노트 - 2013년 5월
 exl-id: 7f1a22bc-56d8-4ebf-be15-fa1b46e37928
 feature: Release Information
-source-git-commit: ecd225af3ecfd7cb9159faf5a9d384d47ee6312c
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '128'
-ht-degree: 0%
+ht-degree: 3%
 
 ---
 
-# 릴리스 노트: 2013년 5월 {#release-notes-may}
+# 릴리스 정보: 2013년 5월 {#release-notes-may}
 
 5월 릴리스에는 다음과 같은 기능이 포함되어 있습니다.
 

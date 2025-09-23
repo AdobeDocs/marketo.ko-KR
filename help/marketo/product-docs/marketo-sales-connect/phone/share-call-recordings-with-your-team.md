@@ -1,17 +1,17 @@
 ---
 unique-page-id: 14352437
 description: 통화 녹화를 팀과 공유 - Marketo 문서 - 제품 설명서
-title: 통화 녹음을 팀과 공유
+title: 팀과 통화 녹음 공유
 exl-id: fabd5fba-14a4-4885-93ba-9a3857e2a298
 feature: Marketo Sales Connect
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '165'
-ht-degree: 0%
+ht-degree: 7%
 
 ---
 
-# 통화 녹음을 팀과 공유 {#share-call-recordings-with-your-team}
+# 팀과 통화 녹음 공유 {#share-call-recordings-with-your-team}
 
 Sales Phone에서는 통화 녹음을 기록하고 저장할 수 있습니다. 통화 녹화를 팀의 다른 구성원과 공유하려면 링크를 복사할 수 있는 위치가 두 군데 있습니다.
 

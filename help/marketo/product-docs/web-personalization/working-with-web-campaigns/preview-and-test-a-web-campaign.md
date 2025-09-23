@@ -4,10 +4,10 @@ description: 웹 캠페인 미리보기 및 테스트 - Marketo 문서 - 제품 
 title: 웹 캠페인 미리보기 및 테스트
 exl-id: 6cc4ebd8-0d39-4a7d-bc3d-e8cd18157470
 feature: Web Personalization
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '369'
-ht-degree: 1%
+ht-degree: 4%
 
 ---
 
@@ -49,11 +49,11 @@ ht-degree: 1%
 
    ![](assets/4-1.png)
 
-1. 새 창/탭이 열립니다. **[!UICONTROL Add to Chrome]**&#x200B;을(를) 클릭합니다.
+1. 새 창/탭이 열립니다. **[!UICONTROL Add to Chrome]**&#x200B;를 클릭합니다.
 
    ![](assets/five.png)
 
-1. **[!UICONTROL Add Extension]**&#x200B;을(를) 클릭합니다.
+1. **[!UICONTROL Add Extension]**&#x200B;를 클릭합니다.
 
    ![](assets/six.png)
 
@@ -81,13 +81,13 @@ ht-degree: 1%
 
    ![](assets/new-dropdown-segments-hand.jpg)
 
-1. **[!UICONTROL Create New]**&#x200B;을(를) 클릭합니다.
+1. **[!UICONTROL Create New]**&#x200B;를 클릭합니다.
 
    ![](assets/image2015-9-10-10-3a42-3a39.png)
 
 1. 세그먼트 이름을 지정합니다.
 
-1. [!UICONTROL Behavioral]에서 [!UICONTROL Include Pages]을(를) 캔버스로 드래그합니다. &#42;샌드박스=1&#42; 값을 추가합니다. **[!UICONTROL Save & Define Campaign]**&#x200B;을(를) 클릭합니다.
+1. [!UICONTROL Behavioral]에서 [!UICONTROL Include Pages]을(를) 캔버스로 드래그합니다. &#42;샌드박스=1&#42; 값을 추가합니다. **[!UICONTROL Save & Define Campaign]**&#x200B;를 클릭합니다.
 
    ![](assets/segment.png)
 

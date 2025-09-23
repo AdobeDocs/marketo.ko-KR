@@ -1,17 +1,17 @@
 ---
 unique-page-id: 2359549
 description: 이메일 프로그램 대시보드 사용 - A/B 테스트 보기 - Marketo 문서 - 제품 설명서
-title: 이메일 프로그램 대시보드 사용 - A/B 테스트 보기
+title: 이메일 프로그램 대시보드 - A/B 테스트 보기 사용
 exl-id: c261bb05-db22-4f54-a30c-58963843584f
 feature: Email Programs, A/B Testing
-source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '110'
-ht-degree: 1%
+ht-degree: 18%
 
 ---
 
-# 이메일 프로그램 대시보드 사용 - A/B 테스트 보기 {#use-the-email-program-dashboard-a-b-test-view}
+# 이메일 프로그램 대시보드 - A/B 테스트 보기 사용 {#use-the-email-program-dashboard-a-b-test-view}
 
 이 대시보드를 사용하여 [전자 메일 프로그램 A/B 테스트](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/email-test-a-b-test/add-an-a-b-test.md)의 수행 방법을 확인하십시오.
 

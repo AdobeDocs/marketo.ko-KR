@@ -1,17 +1,17 @@
 ---
 unique-page-id: 14352508
 description: 사용자 정의 동적 필드 만들기 - Marketo 문서 - 제품 설명서
-title: 사용자 지정 동적 필드 만들기
+title: 사용자 정의 동적 필드 만들기
 exl-id: 860511d2-4a8a-47a4-8362-ba4e715e44e9
 feature: Marketo Sales Connect
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '223'
-ht-degree: 0%
+ht-degree: 4%
 
 ---
 
-# 사용자 지정 동적 필드 만들기 {#create-custom-dynamic-fields}
+# 사용자 정의 동적 필드 만들기 {#create-custom-dynamic-fields}
 
 사용자 지정 동적 필드를 만드는 방법에는 두 가지가 있습니다.
 
@@ -23,7 +23,7 @@ ht-degree: 0%
 
 1. 편집 페이지 아래쪽으로 스크롤합니다. 그런 다음 필드의 이름과 값을 만들 수 있습니다.
 
-1. **[!UICONTROL Save]**&#x200B;을(를) 클릭합니다.
+1. **[!UICONTROL Save]**&#x200B;를 클릭합니다.
 
 ## 여러 연락처에 대한 사용자 정의 필드 저장 {#saving-custom-fields-for-many-contacts}
 

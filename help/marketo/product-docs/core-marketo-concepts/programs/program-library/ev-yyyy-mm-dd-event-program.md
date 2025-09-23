@@ -3,10 +3,10 @@ description: EV-YYYY-MM-DD-Event 프로그램 - Marketo 문서 - 제품 설명�
 title: EV-YYYY-MM-DD-이벤트 프로그램
 feature: Programs
 exl-id: 999a82ae-6637-40bf-96c0-62183cb0a197
-source-git-commit: 21bcdc10fe1f3517612efe0f8e2adaf2f4411a70
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '561'
-ht-degree: 10%
+ht-degree: 16%
 
 ---
 

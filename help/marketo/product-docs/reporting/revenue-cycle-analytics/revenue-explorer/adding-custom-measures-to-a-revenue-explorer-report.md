@@ -1,17 +1,17 @@
 ---
 unique-page-id: 10097747
 description: 매출 탐색기 보고서에 사용자 정의 측정값 추가 - Marketo 문서 - 제품 설명서
-title: 매출 탐색기 보고서에 사용자 정의 측정값 추가
+title: Revenue Explorer 보고서에 사용자 정의 측정 항목 추가
 exl-id: 1f9230eb-4ea4-48d7-a269-76f9e589d3cd
 feature: Reporting, Revenue Cycle Analytics
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '198'
-ht-degree: 0%
+ht-degree: 8%
 
 ---
 
-# 매출 탐색기 보고서에 사용자 정의 측정값 추가 {#adding-custom-measures-to-a-revenue-explorer-report}
+# Revenue Explorer 보고서에 사용자 정의 측정 항목 추가 {#adding-custom-measures-to-a-revenue-explorer-report}
 
 경우에 따라 보고서에서 사용자 지정 측정값을 원할 수 있습니다. 나만의 것을 만드는 것은 쉽습니다.
 

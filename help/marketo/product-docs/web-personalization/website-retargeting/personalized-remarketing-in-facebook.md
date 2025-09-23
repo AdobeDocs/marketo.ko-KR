@@ -4,10 +4,10 @@ description: Facebook의 개인화된 리마케팅 - Marketo 문서 - 제품 설
 title: Facebook의 개인화된 리마케팅
 exl-id: 47636afa-49df-40ba-8948-4f2850467c2f
 feature: Web Personalization
-source-git-commit: 21bcdc10fe1f3517612efe0f8e2adaf2f4411a70
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '254'
-ht-degree: 6%
+ht-degree: 7%
 
 ---
 
@@ -18,7 +18,7 @@ ht-degree: 6%
 >[!PREREQUISITES]
 >
 >* [웹 Personalization 데이터를 사용하여 다시 타깃팅](/help/marketo/product-docs/web-personalization/website-retargeting/retargeting-with-web-personalization-data.md) 설정을 완료합니다.
->* 사용자 지정 대상[ 및 리마케팅에 대한 ](https://developers.facebook.com/docs/ads-for-websites/website-custom-audiences/getting-started#install-the-pixel) [&#128279;](https://developers.facebook.com/docs/ads-for-websites/website-custom-audiences/getting-started#install-the-pixel)Facebook 설명서를 검토하십시오.
+>* 사용자 지정 대상[ 및 리마케팅에 대한 ](https://developers.facebook.com/docs/ads-for-websites/website-custom-audiences/getting-started#install-the-pixel)[ ](https://developers.facebook.com/docs/ads-for-websites/website-custom-audiences/getting-started#install-the-pixel)Facebook 설명서를 검토하십시오.
 
 ## [!DNL Facebook]에서 대상을 만드는 중 {#creating-an-audience-in-facebook}
 
@@ -28,7 +28,7 @@ ht-degree: 6%
 
 ![](assets/one-1.png)
 
-1. **[!UICONTROL Create a Custom Audience]**&#x200B;을(를) 클릭합니다.
+1. **[!UICONTROL Create a Custom Audience]**&#x200B;를 클릭합니다.
 
 ![](assets/two-1.png)
 
@@ -48,7 +48,7 @@ ht-degree: 6%
 
 ![](assets/image2015-1-19-16-3a52-3a29.png)
 
-1. 이 예제에서는 [!UICONTROL Industry]을(를) 포함할 **[!UICONTROL Education]**&#x200B;을(를) 선택합니다. **[!UICONTROL Education]**&#x200B;을(를) 입력하고 **[!UICONTROL In the Last]**&#x200B;을(를) 180일로 편집합니다. 대상 이름 입력: **교육 산업**. **[!UICONTROL Create Audience]**&#x200B;을(를) 클릭합니다.
+1. 이 예제에서는 [!UICONTROL Industry]을(를) 포함할 **[!UICONTROL Education]**&#x200B;을(를) 선택합니다. **[!UICONTROL Education]**&#x200B;을(를) 입력하고 **[!UICONTROL In the Last]**&#x200B;을(를) 180일로 편집합니다. 대상 이름 입력: **교육 산업**. **[!UICONTROL Create Audience]**&#x200B;를 클릭합니다.
 
 ![](assets/image2015-1-19-16-3a56-3a15.png)
 

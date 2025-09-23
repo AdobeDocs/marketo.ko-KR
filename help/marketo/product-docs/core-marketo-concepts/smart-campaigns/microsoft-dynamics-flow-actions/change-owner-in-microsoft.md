@@ -4,10 +4,10 @@ description: Microsoft - Marketo 문서 - 제품 설명서에서 소유자 변�
 title: Microsoft에서 소유자 변경
 exl-id: d17cfb70-1d78-48e9-8e53-99a7abd5a647
 feature: Smart Campaigns, Microsoft Dynamics
-source-git-commit: 934bb5f197f801e48cf8e7554335eb2d07289037
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '91'
-ht-degree: 0%
+ht-degree: 9%
 
 ---
 
@@ -21,7 +21,7 @@ ht-degree: 0%
 
 ![](assets/change-owner-in-microsoft-1.png)
 
-**사용량**
+**사용**
 
 1. 간단히 변경할 소유자를 선택하고 가세요!
 

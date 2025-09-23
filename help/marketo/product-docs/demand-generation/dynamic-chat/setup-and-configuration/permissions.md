@@ -3,7 +3,7 @@ description: 권한 - Marketo 문서 - 제품 설명서
 title: 권한
 feature: Dynamic Chat
 exl-id: 06798ac4-636b-476e-bbb1-498062844406
-source-git-commit: 38e1e2d8c2fef7163f77d7774837571008075b5f
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '712'
 ht-degree: 4%
@@ -16,7 +16,7 @@ Dynamic Chat에서 편집할 수 있는 사전 정의된 권한이 있는 5개�
 
 ## 기존 권한 편집 {#edit-existing-permissions}
 
-1. [Adobe Admin Console](https://adminconsole.adobe.com/){target="_blank"}에서 **Dynamic Chat**&#x200B;을 클릭합니다.
+1. [Adobe Admin Console](https://adminconsole.adobe.com/){target="_blank"}에서 **Dynamic Chat**&#x200B;을(를) 클릭합니다.
 
    ![](assets/permissions-1.png)
 
@@ -50,7 +50,7 @@ Dynamic Chat에서 편집할 수 있는 사전 정의된 권한이 있는 5개�
 
 ## 프로필 만들기 {#create-a-profile}
 
-1. [Adobe Admin Console](https://adminconsole.adobe.com/){target="_blank"}에서 **Dynamic Chat**&#x200B;을 클릭합니다.
+1. [Adobe Admin Console](https://adminconsole.adobe.com/){target="_blank"}에서 **Dynamic Chat**&#x200B;을(를) 클릭합니다.
 
    ![](assets/permissions-8.png)
 
@@ -84,10 +84,10 @@ Dynamic Chat에서 편집할 수 있는 사전 정의된 권한이 있는 5개�
     <td>대화 관리</td>
     <td><li>대화 상자 보기</li>
     <li>대화 상자 관리(만들기, 삭제)</li>
-    <li>Publish 대화 상자</li>
+    <li>게시 대화 상자</li>
     <li>대화 흐름 보기</li>
     <li>대화 흐름 관리(만들기, 삭제)</li>
-    <li>Publish 대화 흐름</li></td>
+    <li>대화 흐름 게시</li></td>
   </tr>
   <tr>
     <td>라이브 채팅</td>
@@ -150,10 +150,10 @@ Dynamic Chat에서 편집할 수 있는 사전 정의된 권한이 있는 5개�
     <td><i>대화 관리</i>
     <li>대화 상자 보기</li>
     <li>대화 상자 관리(만들기, 삭제)</li>
-    <li>Publish 대화 상자</li>
+    <li>게시 대화 상자</li>
     <li>대화 흐름 보기</li>
     <li>대화 흐름 관리(만들기, 삭제)</li>
-    <li>Publish 대화 흐름</li>
+    <li>대화 흐름 게시</li>
     <br>
     <i>실시간 채팅</i>
     <li>해당 사항 없음</li>
@@ -238,10 +238,10 @@ Dynamic Chat에서 편집할 수 있는 사전 정의된 권한이 있는 5개�
     <td><i>대화 관리</i>
     <li>대화 상자 보기</li>
     <li>대화 상자 관리(만들기, 삭제)</li>
-    <li>Publish 대화 상자</li>
+    <li>게시 대화 상자</li>
     <li>대화 흐름 보기</li>
     <li>대화 흐름 관리(만들기, 삭제)</li>
-    <li>Publish 대화 흐름</li>
+    <li>대화 흐름 게시</li>
     <br>
     <i>실시간 채팅</i>
     <li>해당 사항 없음</li>

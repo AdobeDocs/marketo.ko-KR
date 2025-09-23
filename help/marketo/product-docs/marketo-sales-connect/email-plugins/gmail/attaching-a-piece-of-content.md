@@ -1,17 +1,17 @@
 ---
 unique-page-id: 14352442
 description: 콘텐츠 첨부 - Marketo 문서 - 제품 설명서
-title: 컨텐츠 첨부
+title: 콘텐츠 첨부
 exl-id: eb47b53e-5b6c-4473-93e0-43f6a6f3eb28
 feature: Marketo Sales Connect
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '64'
-ht-degree: 0%
+ht-degree: 15%
 
 ---
 
-# 컨텐츠 첨부 {#attaching-a-piece-of-content}
+# 콘텐츠 첨부 {#attaching-a-piece-of-content}
 
 **[!UICONTROL Content]** 단추를 클릭하고 파일을 업로드하여 추적 가능한 콘텐츠를 추가하십시오. 이전에 추적한 모든 콘텐츠는 다시 업로드하지 않고도 팝업 창에서 선택할 수 있게 표시됩니다.
 

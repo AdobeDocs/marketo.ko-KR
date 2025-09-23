@@ -1,17 +1,17 @@
 ---
 unique-page-id: 2359467
 description: 이메일 성과 보고서 - Marketo 문서 - 제품 설명서
-title: 전자 메일 성능 보고서
+title: 이메일 성과 보고서
 exl-id: 327d4c0e-951f-4782-989d-4a4c6a513ebc
 feature: Email Programs
-source-git-commit: 21bcdc10fe1f3517612efe0f8e2adaf2f4411a70
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '489'
-ht-degree: 1%
+ht-degree: 2%
 
 ---
 
-# 전자 메일 성능 보고서 {#email-performance-report}
+# 이메일 성과 보고서 {#email-performance-report}
 
 이메일이 게재됨, 열림, 클릭됨 등과 같은 통계로 얼마나 성과가 있는지 확인하려면 이메일 성과 보고서를 만듭니다.
 
@@ -59,7 +59,7 @@ ht-degree: 1%
     <td>이메일의 링크를 클릭한 이메일 수신자 수입니다.</td>
   </tr>
   <tr>
-    <td>주소 삭제</td>
+    <td>구독 취소</td>
     <td>이메일의 구독 취소 링크를 클릭하고 양식을 작성한 이메일 수신자 수입니다.</td>
   </tr>
   <tr>
@@ -76,11 +76,11 @@ ht-degree: 1%
 
 * **규칙 1**: 각 전자 메일 활동 레코드는 _배달됨_, _하드 바운스됨_, _소프트 바운스됨_ 또는 _보류 중_ 중 하나로 설정됩니다.
 
-* **규칙 2**: 전자 메일 레코드에 _[!UICONTROL Opened]_&#x200B;이(가) 표시되면_&#x200B;배달됨&#x200B;_으로 계산됩니다.
+* **규칙 2**: 전자 메일 레코드에 _[!UICONTROL Opened]_이(가) 표시되면_&#x200B;배달됨&#x200B;_으로 계산됩니다.
 
-* **규칙 3**: 전자 메일 레코드에 _[!UICONTROL Clicked Email]_&#x200B;또는&#x200B;_[!UICONTROL Unsubscribed]_&#x200B;이(가) 표시되면 _배달됨_ 및 _열림_&#x200B;으로 계산됩니다.
+* **규칙 3**: 전자 메일 레코드에 _[!UICONTROL Clicked Email]_또는_[!UICONTROL Unsubscribed]_&#x200B;이(가) 표시되면 _배달됨_ 및 _열림_&#x200B;으로 계산됩니다.
 
-* **규칙 4**: 전자 메일이 _[!UICONTROL Opened]_&#x200B;이면 바운스가 무시됩니다. 이메일을 열지 않은 경우_&#x200B;하드 바운스&#x200B;_가_&#x200B;소프트 바운스&#x200B;_및_&#x200B;배달됨&#x200B;_보다 우선합니다.
+* **규칙 4**: 전자 메일이 _[!UICONTROL Opened]_이면 바운스가 무시됩니다. 이메일을 열지 않은 경우_&#x200B;하드 바운스&#x200B;_가_&#x200B;소프트 바운스&#x200B;_및_&#x200B;배달됨&#x200B;_보다 우선합니다.
 
 * **규칙 5**: 전자 메일 활동이 전송된 후 3일 후에 수신되지 않으면 _중단됨_&#x200B;으로 간주됩니다.
 

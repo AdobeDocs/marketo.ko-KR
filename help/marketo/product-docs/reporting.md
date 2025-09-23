@@ -2,8 +2,8 @@
 unique-page-id: 557082
 description: 보고 - Marketo 설명서 - 제품 설명서
 title: 보고
-source-git-commit: 21bcdc10fe1f3517612efe0f8e2adaf2f4411a70
-workflow-type: ht
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+workflow-type: tm+mt
 source-wordcount: '91'
 ht-degree: 100%
 

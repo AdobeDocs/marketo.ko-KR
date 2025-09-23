@@ -1,17 +1,17 @@
 ---
 unique-page-id: 7514146
 description: 속성 예 2 - Marketo 문서 - 제품 설명서
-title: 속성 예 2
+title: 속성 예제 2
 exl-id: 8f00abb5-85f8-4f05-874e-57aa6442548c
 feature: Reporting, Revenue Cycle Analytics
-source-git-commit: d20a9bb584f69282eefae3704ce4be2179b29d0b
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '181'
-ht-degree: 0%
+ht-degree: 4%
 
 ---
 
-# 속성 예 2 {#attribution-example}
+# 속성 예제 2 {#attribution-example}
 
 다음 시나리오를 읽고 그리드에 있어야 하는 숫자를 결정하십시오.
 

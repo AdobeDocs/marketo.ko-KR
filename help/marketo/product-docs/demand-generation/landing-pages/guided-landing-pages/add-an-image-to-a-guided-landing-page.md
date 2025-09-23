@@ -4,10 +4,10 @@ description: 안내식 랜딩 페이지에 이미지 추가 - Marketo 문서 - �
 title: 가이드 랜딩 페이지에 이미지 추가
 exl-id: 9cf9eec9-f8b5-4ca3-a6b3-f2d7f3e742ca
 feature: Landing Pages
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '118'
-ht-degree: 0%
+ht-degree: 14%
 
 ---
 
@@ -15,7 +15,7 @@ ht-degree: 0%
 
 자유 형식의 랜딩 페이지와 달리 안내 랜딩 페이지에는 이미지를 추가할 수 있는 미리 정의된 잠긴 공간이 있습니다.
 
-1. 가이드 랜딩 페이지를 선택합니다. **[!UICONTROL Edit Draft]**&#x200B;을(를) 클릭합니다.
+1. 가이드 랜딩 페이지를 선택합니다. **[!UICONTROL Edit Draft]**&#x200B;를 클릭합니다.
 
    ![](assets/image2015-5-19-14-3a1-3a26.png)
 

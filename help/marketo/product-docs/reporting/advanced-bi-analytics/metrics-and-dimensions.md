@@ -3,10 +3,10 @@ description: 지표 및 차원 - Marketo 문서 - 제품 설명서
 title: 지표 및 차원
 feature: Reporting
 exl-id: 5f348007-ed0d-4900-ba4b-ecc9b935c6d2
-source-git-commit: 90242f8b08b0c4773ae73134d67f571f66730878
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '1040'
-ht-degree: 5%
+ht-degree: 7%
 
 ---
 
@@ -306,7 +306,7 @@ ht-degree: 5%
       </td>
       <td>
           <ul>
-            <li>고객 확보 프로그램</li>
+            <li>확보 프로그램</li>
             <li>블랙 리스트에 추가됨</li>
             <li>영업 기회로 전환됨</li>
             <li>두 낫 콜</li>
@@ -317,9 +317,9 @@ ht-degree: 5%
             <li>원본 소스 유형</li>
             <li>잠재 고객 파티션</li>
             <li>Source 유형 등록</li>
-            <li>주소 삭제</li>
+            <li>구독 취소</li>
             <li>이메일 주소</li>
-            <li>이메일 잘못됨</li>
+            <li>잘못된 이메일</li>
             <li>잠재 고객 소유자 이메일 주소</li>
             <li>잠재 고객 소유자 직책</li>
             <li>잠재 고객 소유자 이름</li>
@@ -375,7 +375,7 @@ ht-degree: 5%
           <ul>
             <li>ABM 국가</li>
             <li>ABM CRM ID</li>
-            <li>명명된 계정</li>
+            <li>지정 계정</li>
           </ul>
       </td>
       <td>MPA_C
@@ -510,11 +510,11 @@ ht-degree: 5%
     <tr>
       <td>
           <ul>
-            <li>년</li>
+            <li>Year</li>
             <li>분기</li>
-            <li>월</li>
+            <li>Month</li>
             <li>주</li>
-            <li>일자</li>
+            <li>Date</li>
           </ul>
       </td>
       <td>
@@ -620,9 +620,9 @@ ht-degree: 5%
             <li>게재됨</li>
             <li>하드 바운스</li>
             <li>열림</li>
-            <li>보냄</li>
+            <li>전송됨</li>
             <li>고유 클릭수</li>
-            <li>주소 삭제</li>
+            <li>구독 취소</li>
           </ul>
       </td>
       <td>
@@ -663,7 +663,7 @@ ht-degree: 5%
             <li>대화 비율(모든 유형)</li>
             <li>대화 비율(기존)</li>
             <li>대화 비율(신규)</li>
-            <li>흐름</li>
+            <li>플로우</li>
             <li>흐름(기존)</li>
             <li>플로우(신규 항목만)</li>
         </ul>

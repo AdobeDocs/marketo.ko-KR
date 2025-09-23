@@ -3,10 +3,10 @@ description: 템플릿 참여 - Marketo 문서 - 제품 설명서
 title: 템플릿 참여
 exl-id: b59677a9-8192-4c80-9105-42192a128ef7
 feature: Sales Insight Actions
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '176'
-ht-degree: 0%
+ht-degree: 2%
 
 ---
 

@@ -1,16 +1,16 @@
 ---
 description: 작성 창에서 템플릿 사용 - Marketo 문서 - 제품 설명서
-title: 작성 창에서 템플릿 사용
+title: Compose Window에서 템플릿 사용
 exl-id: 766cf3e6-5afa-4ccc-9093-efd06b1713cf
 feature: Sales Insight Actions
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '283'
-ht-degree: 0%
+ht-degree: 4%
 
 ---
 
-# 작성 창에서 템플릿 사용 {#using-a-template-in-the-compose-window}
+# Compose Window에서 템플릿 사용 {#using-a-template-in-the-compose-window}
 
 ## 템플릿 찾기 및 사용 {#finding-and-using-templates}
 

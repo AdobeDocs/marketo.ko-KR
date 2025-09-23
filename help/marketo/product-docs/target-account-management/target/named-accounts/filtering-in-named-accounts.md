@@ -1,13 +1,13 @@
 ---
 unique-page-id: 12615804
 description: 명명된 계정에서 필터링 - Marketo 문서 - 제품 설명서
-title: 명명 계정에서 필터링
+title: 지정 계정 필터링
 exl-id: 4592ff5e-e2bf-408c-b213-e582110b83e4
 feature: Target Account Management
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '116'
-ht-degree: 0%
+ht-degree: 12%
 
 ---
 
@@ -27,11 +27,11 @@ ht-degree: 0%
    >
    >몇 가지 검색 매개변수 조합이 있습니다. 이 예제에서는 _[!UICONTROL Industry]= Banking, [!UICONTROL Country] = United States, Max [!UICONTROL Employees] = 10000_&#x200B;을(를) 찾습니다.
 
-1. **[!UICONTROL Industry]** 드롭다운을 클릭하고 **[!UICONTROL Banking]**&#x200B;을(를) 선택합니다.
+1. **[!UICONTROL Industry]** 드롭다운을 클릭하고 **[!UICONTROL Banking]**&#x200B;를 선택합니다.
 
    ![](assets/filter-2.png)
 
-1. **[!UICONTROL Country]** 드롭다운을 클릭하고 **[!UICONTROL United States]**&#x200B;을(를) 선택합니다.
+1. **[!UICONTROL Country]** 드롭다운을 클릭하고 **[!UICONTROL United States]**&#x200B;를 선택합니다.
 
    ![](assets/filter-3.png)
 

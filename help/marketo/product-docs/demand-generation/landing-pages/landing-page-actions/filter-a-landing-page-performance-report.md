@@ -1,17 +1,17 @@
 ---
 unique-page-id: 2359742
 description: 랜딩 페이지 성능 보고서 필터링 - Marketo 문서 - 제품 설명서
-title: 랜딩 페이지 성능 보고서 필터링
+title: 랜딩 페이지 성과 보고서 필터링
 exl-id: 825bcdc9-67cc-4a06-b7c3-8a95ad74e30c
 feature: Landing Pages
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '125'
-ht-degree: 0%
+ht-degree: 9%
 
 ---
 
-# 랜딩 페이지 성능 보고서 필터링 {#filter-a-landing-page-performance-report}
+# 랜딩 페이지 성과 보고서 필터링 {#filter-a-landing-page-performance-report}
 
 [랜딩 페이지 성과 보고서](/help/marketo/product-docs/demand-generation/landing-pages/understanding-landing-pages/landing-page-performance-report.md)를 프로그램의 랜딩 페이지(로컬 자산), [!UICONTROL Design Studio]의 랜딩 페이지(전역 자산) 또는 보관된 랜딩 페이지에 포커스를 둡니다.
 

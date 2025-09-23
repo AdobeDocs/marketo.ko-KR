@@ -3,24 +3,24 @@ description: 릴리스 노트 - 2024년 3월 - Marketo 문서 - 제품 설명서
 title: 릴리스 노트 - 2024년 3월
 feature: Release Information
 exl-id: d8bc7f88-a77b-4b49-aed5-aceab9e639f0
-source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '350'
-ht-degree: 2%
+ht-degree: 28%
 
 ---
 
 # 릴리스 노트: 2024년 3월 {#release-notes-mar-24}
 
-아래에는 2024년 3월 릴리스에 포함된 모든 기능이 있습니다. Adobe Marketo Engage 버전에서 사용 가능한 기능이 있는지 확인하십시오.
+아래에는 2024년 3월 릴리스에 포함된 모든 기능이 있습니다. 기능 가용성에 대해 Adobe Marketo Engage 에디션을 확인하십시오.
 
 >[!AVAILABILITY]
 >
->별(![별](assets/yellow-star.png))로 표시되는 기능은 유료 추가 기능입니다. 자세한 내용은 Marketo Engage 담당자에게 문의하십시오.
+>별표(![별표](assets/yellow-star.png))로 표시된 기능은 유료 추가 기능입니다. 자세한 내용은 Marketo Engage 담당자에게 문의하십시오.
 
 ## 표준 릴리스 주기 기능 {#standard-release-cycle-features}
 
-다음 기능은 표준 릴리스 주기에 해당하며 **2024년 3월 8일**&#x200B;에 릴리스되기 시작합니다. 이후 주에 걸쳐 나머지 기능의 단계적인 롤아웃이 시작됩니다. 릴리스 기능 및 날짜는 변경될 수 있습니다. 각 기능 옆에 있는 상태를 확인하십시오.
+다음 기능은 표준 릴리스 주기에 포함되며, **2024년 3월 8일 토요일**&#x200B;부터 출시되기 시작하고 나머지 기능은 이후 몇 주에 걸쳐 단계적으로 출시될 예정입니다. 릴리스 기능 및 날짜는 변경될 수 있습니다. 각 기능 옆에서 상태를 확인합니다.
 
 <table style="table-layout:auto">
  <tbody>
@@ -31,8 +31,8 @@ ht-degree: 2%
   </tr>
   <tr>
    <td><strong>고급 대화 흐름 논리</strong>: 대화 흐름 후속 작업에 대한 단일 선택 항목에 평가를 위한 추가 필드를 추가합니다.</td>
-   <td>배송됨</td>
-   <td><a href="/help/marketo/product-docs/demand-generation/dynamic-chat/automated-chat/conversational-flow-settings-for-marketo-engage-forms.md" target="_blank">Marketo Engage Forms에 대한 대화 흐름 설정</a></td>
+   <td>출시됨</td>
+   <td><a href="/help/marketo/product-docs/demand-generation/dynamic-chat/automated-chat/conversational-flow-settings-for-marketo-engage-forms.md" target="_blank">Marketo Engage 양식에 대한 대화 플로우 설정</a></td>
   </tr>
    <tr>
    <td> </td>
@@ -42,8 +42,8 @@ ht-degree: 2%
    </tr>
     <tr>
    <td><strong>대화형 흐름 논리 순서 바꾸기</strong>: 이제 Marketo Engage Forms에서 삭제하고 다시 추가하는 대신 대화형 흐름 선택 항목을 다시 정렬할 수 있습니다.</td>
-   <td>배송됨</td>
-   <td><a href="/help/marketo/product-docs/demand-generation/dynamic-chat/automated-chat/conversational-flow-settings-for-marketo-engage-forms.md" target="_blank">Marketo Engage Forms에 대한 대화 흐름 설정</a></td>
+   <td>출시됨</td>
+   <td><a href="/help/marketo/product-docs/demand-generation/dynamic-chat/automated-chat/conversational-flow-settings-for-marketo-engage-forms.md" target="_blank">Marketo Engage 양식에 대한 대화 플로우 설정</a></td>
    </tr>
   <tr>
    <td> </td>
@@ -53,7 +53,7 @@ ht-degree: 2%
     <tr>
    <td><strong>API 활동 메타데이터</strong>:
    이제 사용자 에이전트, 플랫폼 및 장치와 같은 메타데이터가 웹 및 이메일 활동에 포함되어 Marketo REST API를 통해 이러한 활동에 대한 일관된 통찰력을 제공하는 데 도움이 됩니다.</td>
-   <td>배송됨</td>
+   <td>출시됨</td>
    <td>해당 사항 없음</td>
   </tr>
  </tbody>

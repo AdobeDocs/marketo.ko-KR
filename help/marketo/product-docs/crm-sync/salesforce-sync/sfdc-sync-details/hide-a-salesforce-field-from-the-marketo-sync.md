@@ -4,10 +4,10 @@ description: Marketo 동기화 - Salesforce 문서 - 제품 설명서에서 Mark
 title: Marketo 동기화에서 Salesforce 필드 숨기기
 exl-id: 5d7229f0-43b0-4232-93ed-a9ca52ace401
 feature: Salesforce Integration
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '155'
-ht-degree: 2%
+ht-degree: 7%
 
 ---
 
@@ -35,11 +35,11 @@ Salesforce의 모든 필드가 마케팅에 유용한 것은 아닙니다. 필�
 
    ![](assets/image2015-6-30-15-3a24-3a32.png)
 
-1. **[!UICONTROL Edit]**&#x200B;을(를) 클릭합니다.
+1. **[!UICONTROL Edit]**&#x200B;를 클릭합니다.
 
    ![](assets/image2015-6-30-15-3a25-3a42.png)
 
-1. 숨기려는 필드 옆의 **[!UICONTROL Visible]** 확인란의 선택을 취소합니다. **[!UICONTROL Save]**&#x200B;을(를) 클릭합니다.
+1. 숨기려는 필드 옆의 **[!UICONTROL Visible]** 확인란의 선택을 취소합니다. **[!UICONTROL Save]**&#x200B;를 클릭합니다.
 
    ![](assets/image2015-6-30-15-3a27-3a16.png)
 

@@ -4,10 +4,10 @@ description: 템플릿 목록을 다른 사용자로 보기 - Marketo 문서 - �
 title: 다른 사용자로 템플릿 목록 보기
 exl-id: 5640168d-fe87-4cb1-8262-349f8798a3da
 feature: Marketo Sales Connect
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '72'
-ht-degree: 1%
+ht-degree: 18%
 
 ---
 
@@ -19,7 +19,7 @@ ht-degree: 1%
 >
 >**관리자 권한 필요**
 
-1. **[!UICONTROL Templates]**&#x200B;을(를) 클릭합니다.
+1. **[!UICONTROL Templates]**&#x200B;를 클릭합니다.
 
    ![](assets/one.png)
 

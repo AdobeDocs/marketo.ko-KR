@@ -4,10 +4,10 @@ description: Marketo에 이미지 및 파일 추가 - Marketo 문서 - 제품 �
 title: Marketo에 이미지 및 파일 추가
 exl-id: 31462189-55fd-458e-8b28-85e525dad5b5
 feature: Image Editor
-source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '102'
-ht-degree: 0%
+ht-degree: 16%
 
 ---
 
@@ -23,7 +23,7 @@ Marketo Engage 인스턴스에 새 이미지 또는 파일을 추가하는 방�
 
    ![](assets/add-images-and-files-to-marketo-2.png)
 
-1. **[!UICONTROL Image and file actions]** 드롭다운을 클릭하고 **[!UICONTROL Upload image or file]**&#x200B;을(를) 선택합니다.
+1. **[!UICONTROL Image and file actions]** 드롭다운을 클릭하고 **[!UICONTROL Upload image or file]**&#x200B;를 선택합니다.
 
    ![](assets/add-images-and-files-to-marketo-3.png)
 

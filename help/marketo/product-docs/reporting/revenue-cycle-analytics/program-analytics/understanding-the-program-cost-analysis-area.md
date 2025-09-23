@@ -4,10 +4,10 @@ description: 프로그램 비용 분석 영역 이해 - Marketo 문서 - 제품 
 title: 프로그램 비용 분석 영역 이해
 exl-id: b59e07a2-c804-46a2-b0ca-127191fd2188
 feature: Reporting, Revenue Cycle Analytics
-source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '327'
-ht-degree: 7%
+ht-degree: 10%
 
 ---
 
@@ -83,7 +83,7 @@ ht-degree: 7%
 
 | 차원 | 설명 |
 |---|---|
-| 연도 | 프로그램 비용 일정 |
+| Year | 프로그램 비용 일정 |
 | 분기 | 프로그램 비용 시간대 |
 | Month | 프로그램 비용 일정 |
 

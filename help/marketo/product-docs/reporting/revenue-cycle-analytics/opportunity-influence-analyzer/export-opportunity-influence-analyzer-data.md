@@ -1,17 +1,17 @@
 ---
 unique-page-id: 2360394
 description: Opportunity Influence Analyzer 데이터 내보내기 - Marketo 문서 - 제품 설명서
-title: 영업 기회 영향 분석기 데이터 내보내기
+title: 기회 영향 분석기 데이터 내보내기
 exl-id: 081c94fa-8f56-489e-85d3-ca4bf4da65fa
 feature: Reporting, Revenue Cycle Analytics
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '126'
-ht-degree: 1%
+ht-degree: 9%
 
 ---
 
-# 영업 기회 영향 분석기 데이터 내보내기 {#export-opportunity-influence-analyzer-data}
+# 기회 영향 분석기 데이터 내보내기 {#export-opportunity-influence-analyzer-data}
 
 수익 주기 탐색기 보고서에서 업데이트를 수신하고 공유하려면 기존 보고서에 이메일 주소를 구독하면 됩니다.
 

@@ -4,14 +4,14 @@ description: SFDC 동기화 - Campaign 동기화 - Marketo 문서 - 제품 설�
 title: SFDC 동기화 - Campaign 동기화
 exl-id: 62435e00-9c59-4dee-a9b7-ccf1d1f41b78
 feature: Salesforce Integration
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '360'
-ht-degree: 0%
+ht-degree: 1%
 
 ---
 
-# SFDC 동기화: Campaign 동기화 {#sfdc-sync-campaign-sync}
+# SFDC 동기화: 캠페인 동기화 {#sfdc-sync-campaign-sync}
 
 Marketo 프로그램은 [!DNL Salesforce] 캠페인과 동기화할 수 있습니다. 다음은 이 기능이 작동하는 방식에 대한 개요입니다.
 

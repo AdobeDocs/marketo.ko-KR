@@ -3,16 +3,16 @@ unique-page-id: 10099167
 description: Sales Insight - Marketo 문서 - 제품 설명서에서 작업 선택
 title: Sales Insight에서 작업 선택
 exl-id: 0e9d3bc0-ac0a-415b-9931-382c3c68cfe2
-source-git-commit: 5812f447fbe22bee13060afae8408de7ca7384e5
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '192'
-ht-degree: 0%
+ht-degree: 6%
 
 ---
 
 # Sales Insight에서 작업 선택 {#choose-an-action-in-sales-insight}
 
-다음 작업은 Salesforce Classic 및 Lightning의 Sales Insight 드롭다운에서 사용할 수 있습니다.
+Salesforce Classic 및 Lightning의 판매 Insight 드롭다운에서 다음 작업을 사용할 수 있습니다.
 
 * Marketo 이메일 보내기
 * Marketo 캠페인에 추가

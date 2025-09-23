@@ -1,13 +1,13 @@
 ---
 unique-page-id: 14352514
 description: Sales Connect에서 이메일 중복 제거를 처리하는 방법 - Marketo 문서 - 제품 설명서
-title: Sales Connect에서 이메일 중복 제거를 처리하는 방법
+title: Sales Connect의 이메일 중복 제거 처리 방식
 exl-id: 1f57d943-8439-4653-a4e7-6dac65b3312d
 feature: Marketo Sales Connect
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '96'
-ht-degree: 0%
+ht-degree: 6%
 
 ---
 

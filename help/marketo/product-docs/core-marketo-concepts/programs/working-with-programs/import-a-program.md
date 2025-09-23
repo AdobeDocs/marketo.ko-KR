@@ -4,10 +4,10 @@ description: 프로그램 가져오기 - Marketo 문서 - 제품 설명서
 title: 프로그램 가져오기
 exl-id: 15e23e38-a24b-45b3-89a9-ffec85649f4a
 feature: Programs
-source-git-commit: 0adb780ea1622d12b8daafc502fd6a9151757ad3
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
-source-wordcount: '551'
-ht-degree: 0%
+source-wordcount: '536'
+ht-degree: 2%
 
 ---
 
@@ -21,11 +21,11 @@ ht-degree: 0%
 
 ## 프로그램 가져오기 {#importing-a-program}
 
-1. **[!UICONTROL 마케팅 활동]**(으)로 이동합니다.
+1. **[!UICONTROL Marketing Activities]**(으)로 이동합니다.
 
    ![](assets/import-a-program-1.png)
 
-1. **[!UICONTROL 새로 만들기]** 드롭다운을 클릭하고 **[!UICONTROL 프로그램 가져오기]**&#x200B;를 선택합니다.
+1. **[!UICONTROL New]** 드롭다운을 클릭하고 **[!UICONTROL Import Program]**&#x200B;를 선택합니다.
 
    ![](assets/import-a-program-2.png)
 
@@ -35,19 +35,19 @@ ht-degree: 0%
    >
    >* 샌드박스 계정을 실시간 구독에 연결하려면 [Marketo 지원](https://nation.marketo.com/t5/Support/ct-p/Support){target="_blank"}에 문의하세요.
 
-1. 가져올 Marketo **[!UICONTROL 구독]** 및 프로그램을 선택하십시오. **[!UICONTROL 다음]**&#x200B;을 클릭합니다.
+1. 가져올 Marketo **[!UICONTROL Subscription]** 및 프로그램을 선택하십시오. **[!UICONTROL Next]**&#x200B;를 클릭합니다.
 
    ![](assets/import-a-program-3.png)
 
-1. 가져온 프로그램에 대해 **[!UICONTROL 캠페인 폴더]**&#x200B;를 지정하십시오. **[!UICONTROL 다음]**&#x200B;을 클릭합니다.
+1. 가져온 프로그램에 대해 **[!UICONTROL Campaign Folder]**&#x200B;을(를) 지정하십시오. **[!UICONTROL Next]**&#x200B;를 클릭합니다.
 
    ![](assets/import-a-program-4.png)
 
    >[!NOTE]
    >
-   >**[!UICONTROL 기본 충돌 사용]** 규칙을 선택했는지 확인하십시오. 동일한 이름의 자산을 가진 인스턴스로 프로그램을 가져올 때 충돌 규칙이 필요합니다.
+   >**[!UICONTROL Use default conflict]** 규칙이 선택되어 있는지 확인하십시오. 동일한 이름의 자산을 가진 인스턴스로 프로그램을 가져올 때 충돌 규칙이 필요합니다.
 
-1. 원하는 충돌 세부 정보를 선택하고 **[!UICONTROL 다음]**&#x200B;을 클릭합니다.
+1. 원하는 충돌 세부 정보를 선택하고 **[!UICONTROL Next]**&#x200B;을(를) 클릭합니다.
 
    ![](assets/import-a-program-5.png)
 
@@ -55,7 +55,7 @@ ht-degree: 0%
    >
    >사용자 지정 흐름 단계를 사용하는 프로그램 또는 흐름 단계 서비스에서 파생된 스마트 목록 규칙을 호환되는 서비스 공급자가 두 개 이상 있는 대상 인스턴스로 가져오면 가져오는 사용자에게 대상 인스턴스의 올바른 서비스 공급자에 단계 또는 규칙을 할당하라는 메시지가 표시됩니다.
 
-1. 세부 정보를 미리 보고 프로그램을 **[!UICONTROL 가져오기]**&#x200B;합니다.
+1. 세부 정보를 미리 보고 프로그램을 **[!UICONTROL Import]**&#x200B;합니다.
 
    ![](assets/import-a-program-6.png)
 

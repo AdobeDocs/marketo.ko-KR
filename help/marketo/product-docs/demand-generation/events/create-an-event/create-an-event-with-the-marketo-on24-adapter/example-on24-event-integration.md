@@ -1,17 +1,17 @@
 ---
 unique-page-id: 10096679
 description: ON24 이벤트 통합 예 - Marketo 문서 - 제품 설명서
-title: ON24 이벤트 통합 예
+title: ON24 이벤트 통합 예시
 exl-id: 9d34d1bf-1ff8-4b26-906e-4a6bb9d5f3f6
 feature: Events
-source-git-commit: 21bcdc10fe1f3517612efe0f8e2adaf2f4411a70
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '361'
-ht-degree: 0%
+ht-degree: 2%
 
 ---
 
-# ON24 이벤트 통합 예 {#example-on-event-integration}
+# ON24 이벤트 통합 예시 {#example-on-event-integration}
 
 다음은 ON24 웨비나에 대한 캠페인 등 샘플 이벤트입니다. 이벤트를 작성할 때는 캠페인을 실행하기 전에 테스트해야 합니다.
 
@@ -37,7 +37,7 @@ ht-degree: 0%
 
    ![](assets/image2015-12-22-15-3a46-3a34.png)
 
-1. **[!UICONTROL Create]**&#x200B;을(를) 클릭합니다.
+1. **[!UICONTROL Create]**&#x200B;를 클릭합니다.
 
    ![](assets/image2015-12-22-15-3a48-3a20.png)
 

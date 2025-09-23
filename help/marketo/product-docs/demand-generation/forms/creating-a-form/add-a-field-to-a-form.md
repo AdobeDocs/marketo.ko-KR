@@ -4,10 +4,10 @@ description: 양식에 필드 추가 - Marketo 문서 - 제품 설명서
 title: 양식에 필드 추가
 exl-id: cda45a69-128b-4cdc-846e-637acb9555da
 feature: Forms
-source-git-commit: 92bc76d7538d24fabe7c3c69d7a4988b543edd39
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '124'
-ht-degree: 0%
+ht-degree: 12%
 
 ---
 
@@ -43,7 +43,7 @@ ht-degree: 0%
 
    ![](assets/add-a-field-to-a-form-5.png)
 
-1. **[!UICONTROL Approve and Close]**&#x200B;을(를) 클릭합니다.
+1. **[!UICONTROL Approve and Close]**&#x200B;를 클릭합니다.
 
    ![](assets/add-a-field-to-a-form-6.png)
 

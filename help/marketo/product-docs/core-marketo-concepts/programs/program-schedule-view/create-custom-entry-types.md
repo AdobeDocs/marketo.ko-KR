@@ -1,29 +1,29 @@
 ---
 unique-page-id: 1147245
 description: 사용자 지정 항목 유형 만들기 - Marketo 문서 - 제품 설명서
-title: 사용자 지정 항목 유형 만들기
+title: 사용자 정의 항목 유형 만들기
 exl-id: 75a0fb0d-a0d4-472d-9ac1-53e2f2831221
 feature: Programs
-source-git-commit: b21f955bf98063e11f8ed3fdc6f164134ee4f5aa
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
-source-wordcount: '106'
-ht-degree: 1%
+source-wordcount: '95'
+ht-degree: 15%
 
 ---
 
-# 사용자 지정 항목 유형 만들기 {#create-custom-entry-types}
+# 사용자 정의 항목 유형 만들기 {#create-custom-entry-types}
 
 프로그램 일정 보기에서 사용할 사용자 지정 항목 유형을 만들 수 있습니다. 이렇게 하면 프로그램에 영향을 주는 Marketo이 아닌 모든 의제 항목을 추적할 수 있습니다.
 
-1. **[!UICONTROL 관리자]** 섹션으로 이동하여 **[!UICONTROL 태그]**&#x200B;를 클릭합니다.
+1. **[!UICONTROL Admin]** 섹션으로 이동한 다음 **[!UICONTROL Tags]**&#x200B;을(를) 클릭합니다.
 
    ![](assets/admintags.png)
 
-1. **[!UICONTROL 일정 항목 유형]**&#x200B;을 클릭합니다.
+1. **[!UICONTROL Calendar Entry Type]**&#x200B;를 클릭합니다.
 
    ![](assets/image2014-9-15-15-3a41-3a33.png)
 
-1. **[!UICONTROL 새로 만들기]** 드롭다운을 클릭하고 **[!UICONTROL 항목 유형]**&#x200B;을 선택합니다.
+1. **[!UICONTROL New]** 드롭다운을 클릭하고 **[!UICONTROL Entry Type]**&#x200B;를 선택합니다.
 
    ![](assets/image2014-9-15-15-3a41-3a58.png)
 
@@ -31,11 +31,11 @@ ht-degree: 1%
 
    ![](assets/image2014-9-15-16-3a11-3a24.png)
 
-1. **[!UICONTROL 시작 색상]**&#x200B;을 선택하세요.
+1. **[!UICONTROL Entry Color]** 선택.
 
    ![](assets/image2014-9-15-16-3a3-3a55.png)
 
-1. **[!UICONTROL 저장]**&#x200B;을 클릭합니다.
+1. **[!UICONTROL Save]**&#x200B;를 클릭합니다.
 
    ![](assets/image2014-9-15-16-3a4-3a14.png)
 

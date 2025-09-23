@@ -1,17 +1,17 @@
 ---
 unique-page-id: 1147255
 description: 마케팅 달력 라이선스 문제/취소 - Marketo 문서 - 제품 설명서
-title: 마케팅 캘린더 라이선스 문제/취소
+title: 마케팅 캘린더 라이선스 발급/취소
 exl-id: b43cf0e4-3e3e-4034-8ecf-bda34557cfef
 feature: Marketing Calendar
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '93'
-ht-degree: 1%
+ht-degree: 16%
 
 ---
 
-# 마케팅 캘린더 라이선스 문제/취소 {#issue-revoke-a-marketing-calendar-license}
+# 마케팅 캘린더 라이선스 발급/취소 {#issue-revoke-a-marketing-calendar-license}
 
 >[!NOTE]
 >
@@ -23,7 +23,7 @@ ht-degree: 1%
 
    ![](assets/adminhand.png)
 
-1. **[!UICONTROL Users & Roles]**&#x200B;을(를) 클릭합니다.
+1. **[!UICONTROL Users & Roles]**&#x200B;를 클릭합니다.
 
    ![](assets/2.png)
 

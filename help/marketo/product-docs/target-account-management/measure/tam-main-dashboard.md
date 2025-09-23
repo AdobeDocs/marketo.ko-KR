@@ -1,17 +1,17 @@
 ---
 unique-page-id: 11380783
 description: TAM 메인 대시보드 - Marketo 문서 - 제품 설명서
-title: TAM 기본 대시보드
+title: TAM 주요 대시보드
 exl-id: f550dd99-f5b1-4d75-9e11-d9791043baea
 feature: Target Account Management
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '108'
-ht-degree: 0%
+ht-degree: 5%
 
 ---
 
-# TAM 기본 대시보드 {#tam-main-dashboard}
+# TAM 주요 대시보드 {#tam-main-dashboard}
 
 기본 대시보드는 [!UICONTROL Target Account Management] 작업에 대한 요약을 제공합니다. 성공을 보이고 있는 대상 계정 또는 계정 목록과 더 많은 주의가 필요한 계정을 볼 수 있습니다.
 

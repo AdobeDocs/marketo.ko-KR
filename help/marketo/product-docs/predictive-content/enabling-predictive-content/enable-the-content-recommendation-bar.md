@@ -1,17 +1,17 @@
 ---
 unique-page-id: 4720108
 description: 콘텐츠 권장 사항 표시줄 - Marketo 문서 - 제품 설명서 활성화
-title: 콘텐츠 추천 막대 활성화
+title: 콘텐츠 추천 바 활성화
 exl-id: f2244db1-51a9-4e26-9bf7-b2c79df25552
 feature: Predictive Content
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '314'
-ht-degree: 0%
+ht-degree: 3%
 
 ---
 
-# 콘텐츠 추천 막대 활성화 {#enable-the-content-recommendation-bar}
+# 콘텐츠 추천 바 활성화 {#enable-the-content-recommendation-bar}
 
 콘텐츠 추천 엔진은 예측 분석 및 머신 러닝 알고리즘을 사용하여 각 웹 방문자에게 관련 콘텐츠를 전달합니다. 권장 사항 엔진은 방문자당 성과가 가장 좋은 콘텐츠를 예측합니다. 엔진의 콘텐츠는 권장 사항 페이지에서 모니터링 및 제어되므로 콘텐츠 ROI를 최적화할 수 있습니다.
 
@@ -33,7 +33,7 @@ ht-degree: 0%
 
    ![](assets/settings-dropdown-hand.png)
 
-1. **[!UICONTROL Bar]**&#x200B;을(를) 클릭합니다.
+1. **[!UICONTROL Bar]**&#x200B;를 클릭합니다.
 
    ![](assets/content-settings-bar-hand.png)
 
@@ -41,7 +41,7 @@ ht-degree: 0%
 
    ![](assets/bar-enable.png)
 
-1. URL을 사용자 지정하려면 색상, 스타일, 서식, 추천 막대의 화살표, 막대를 포함하거나 제외할 페이지를 선택합니다. 웹 사이트 브랜딩에 맞게 사용자 지정합니다. **[!UICONTROL Save]**&#x200B;을(를) 클릭합니다.
+1. URL을 사용자 지정하려면 색상, 스타일, 서식, 추천 막대의 화살표, 막대를 포함하거나 제외할 페이지를 선택합니다. 웹 사이트 브랜딩에 맞게 사용자 지정합니다. **[!UICONTROL Save]**&#x200B;를 클릭합니다.
 
    ![](assets/bar-customize-details-hands.png)
 

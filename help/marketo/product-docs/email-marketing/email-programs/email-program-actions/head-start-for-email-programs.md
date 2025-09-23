@@ -1,17 +1,17 @@
 ---
 unique-page-id: 10097202
 description: 이메일 프로그램 - Marketo 문서 - 제품 설명서 헤드 시작
-title: 이메일 프로그램 헤드 시작
+title: 이메일 프로그램 시작
 exl-id: f7c8b082-4d83-4e3b-8aa4-7b252e3dacd3
 feature: Email Programs
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '393'
-ht-degree: 0%
+ht-degree: 3%
 
 ---
 
-# 이메일 프로그램 헤드 시작 {#head-start-for-email-programs}
+# 이메일 프로그램 시작 {#head-start-for-email-programs}
 
 >[!PREREQUISITES]
 >
@@ -21,7 +21,7 @@ ht-degree: 0%
 
 ## 표준 헤드 시작 {#standard-head-start}
 
-1. **[!UICONTROL Marketing Activities]**&#x200B;을(를) 클릭합니다.
+1. **[!UICONTROL Marketing Activities]**&#x200B;를 클릭합니다.
 
    ![](assets/one-1.png)
 
@@ -43,7 +43,7 @@ ht-degree: 0%
    >
    >프로그램 잠금 후 구독을 취소하는 대상자의 모든 사용자는 여전히 이메일을 받게 됩니다. 구독 취소를 처리하는 데 영업일 기준 1~2일이 소요될 수 있음을 반영하도록 구독 취소 알림을 조정하는 것이 좋습니다.
 
-1. **[!UICONTROL Approve Program]**&#x200B;을(를) 클릭합니다.
+1. **[!UICONTROL Approve Program]**&#x200B;를 클릭합니다.
 
    ![](assets/four-1.png)
 

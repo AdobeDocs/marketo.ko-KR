@@ -4,10 +4,10 @@ description: 인앱 메시지 이해 - Marketo 문서 - 제품 설명서
 title: 인앱 메시지 이해
 exl-id: afa7c974-71d9-4170-b4d9-7e37721fd931
 feature: Mobile Marketing
-source-git-commit: ea9bf2a002415936cdfb5bfb723ce80723003da5
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '241'
-ht-degree: 0%
+ht-degree: 2%
 
 ---
 
@@ -16,7 +16,7 @@ ht-degree: 0%
 >[!AVAILABILITY]
 >
 >
->일부 Marketo Engage 사용자가 이 기능을 구입한 것은 아닙니다. 자세한 내용은 Adobe 계정 팀(계정 관리자)에 문의하십시오.
+>모든 Marketo Engage 사용자가 이 기능을 구입한 것은 아닙니다. 자세한 내용은 Adobe 계정 팀(계정 관리자)에 문의하십시오.
 
 고객이 앱을 사용하는 동안 인앱 메시지를 사용하여 고객과 직접 교류합니다. 사용자가 열거나 사용자 지정 작업을 수행할 때 프로모션 오퍼를 제공할 수 있습니다. 한 번의 클릭으로 더 자세히 알고 구매할 수 있는 랜딩 페이지, 외부 웹 사이트 또는 딥링크로 이동합니다. 또는 해당 클릭으로 메시지를 간단히 닫을 수 있습니다.  인앱 메시지를 고객에게 미리 알림으로 사용하여 프로필을 완성하거나 새로운 앱 기능에 대해 알릴 수도 있습니다.
 

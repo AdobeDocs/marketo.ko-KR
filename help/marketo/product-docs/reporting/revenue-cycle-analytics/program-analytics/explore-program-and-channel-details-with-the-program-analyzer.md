@@ -1,13 +1,13 @@
 ---
 unique-page-id: 2360437
 description: 프로그램 분석기 - Marketo 문서 - 제품 설명서를 통해 프로그램 및 채널 세부 정보 탐색
-title: 프로그램 분석기를 사용하여 프로그램 및 채널 세부 정보 살펴보기
+title: 프로그램 분석기를 사용하여 프로그램 및 채널 세부 정보 탐색
 exl-id: 0d7133b6-648f-4549-ba8d-7f7abeb89a16
 feature: Reporting, Revenue Cycle Analytics
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '186'
-ht-degree: 0%
+ht-degree: 4%
 
 ---
 
@@ -23,7 +23,7 @@ ht-degree: 0%
 >
 >일부 Marketo 버전에는 이 기능이 포함되어 있지 않습니다. 자세한 내용은 계정 관리자에게 문의하십시오.
 
-1. **[!UICONTROL Analytics]**&#x200B;을(를) 클릭합니다.
+1. **[!UICONTROL Analytics]**&#x200B;를 클릭합니다.
 
    ![](assets/image2015-4-28-12-3a54-3a47.png)
 

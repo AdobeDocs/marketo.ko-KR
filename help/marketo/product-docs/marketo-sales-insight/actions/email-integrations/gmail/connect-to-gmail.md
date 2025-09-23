@@ -2,10 +2,10 @@
 description: Gmail에 연결 - Marketo 문서 - 제품 설명서
 title: Gmail에 연결
 exl-id: 40f67fbd-cb6e-4e0b-b9ad-093c432f67ed
-source-git-commit: c16081143588ebc0793f5b6e2630b58348e27124
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '177'
-ht-degree: 0%
+ht-degree: 6%
 
 ---
 
@@ -15,7 +15,7 @@ Gmail에 연결하면 회신 추적을 받고, Gmail 게재 채널에 액세스�
 
 >[!CAUTION]
 >
->Gmail 계정에서 [필터를 사용](https://support.google.com/mail/answer/6579?hl=en#zippy=%2Ccreate-a-filter%2Cedit-or-delete-filters){target="_blank"}하거나 규칙을 사용하여 전자 메일을 읽은 상태로 자동으로 표시하는 경우 회신 추적에 문제가 발생할 수 있습니다. Gmail로 회신 추적을 사용할 때 이메일을 자동으로 읽은 것으로 표시하는 규칙을 비활성화하는 것이 좋습니다.
+>Gmail 계정에서 [필터](https://support.google.com/mail/answer/6579?hl=en#zippy=%2Ccreate-a-filter%2Cedit-or-delete-filters){target="_blank"} 또는 규칙을 사용하여 전자 메일을 읽은 상태로 자동으로 표시하는 경우 회신 추적에 문제가 발생할 수 있습니다. Gmail로 회신 추적을 사용할 때 이메일을 자동으로 읽은 것으로 표시하는 규칙을 비활성화하는 것이 좋습니다.
 
 1. Marketo Sales에서 톱니바퀴 아이콘을 클릭하고 **설정**&#x200B;을 선택합니다.
 

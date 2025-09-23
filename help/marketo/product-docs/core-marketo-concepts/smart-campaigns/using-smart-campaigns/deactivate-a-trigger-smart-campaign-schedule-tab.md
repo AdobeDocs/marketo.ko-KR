@@ -1,17 +1,17 @@
 ---
 unique-page-id: 1146991
 description: 스마트 캠페인 트리거 비활성화 | 예약 탭 - Marketo 문서 - 제품 설명서
-title: 스마트 캠페인 트리거 비활성화 | 예약 탭
+title: 트리거 스마트 캠페인 비활성화 | 일정 탭
 exl-id: 59138811-c963-4c4d-9513-b3e12e8e9e38
 feature: Smart Campaigns
-source-git-commit: fec5219c599c805328d77797d2636e549e489ca5
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
-source-wordcount: '85'
-ht-degree: 0%
+source-wordcount: '83'
+ht-degree: 16%
 
 ---
 
-# 스마트 캠페인 트리거 비활성화 | 예약 탭 {#deactivate-a-trigger-smart-campaign-schedule-tab}
+# 트리거 스마트 캠페인 비활성화 | 일정 탭 {#deactivate-a-trigger-smart-campaign-schedule-tab}
 
 비활성화해야 하는 이전 트리거 캠페인이 있는 경우 다음 단계를 따르십시오.
 
@@ -19,11 +19,11 @@ ht-degree: 0%
 
    ![](assets/deactivate-a-trigger-smart-campaign-schedule-tab-1.png)
 
-1. 예약 탭에서 **[!UICONTROL 비활성화]**&#x200B;를 클릭합니다.
+1. 예약 탭에서 **[!UICONTROL Deactivate]**&#x200B;을(를) 클릭합니다.
 
    ![](assets/deactivate-a-trigger-smart-campaign-schedule-tab-2.png)
 
-1. **[!UICONTROL 비활성화]**&#x200B;를 클릭하여 확인합니다.
+1. **[!UICONTROL Deactivate]**&#x200B;을(를) 클릭하여 확인합니다.
 
    ![](assets/deactivate-a-trigger-smart-campaign-schedule-tab-3.png)
 

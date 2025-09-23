@@ -4,10 +4,10 @@ description: 프로그램 채널 숨기기/숨기기 취소 - Marketo 문서 - �
 title: 프로그램 채널 숨기기/숨기기 취소
 exl-id: 17061f87-85c9-4940-bd8e-590e4c7c04f1
 feature: Tags
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '95'
-ht-degree: 1%
+ht-degree: 15%
 
 ---
 
@@ -25,7 +25,7 @@ ht-degree: 1%
 
    ![](assets/hide-unhide-a-program-channel-1.png)
 
-1. **[!UICONTROL Tags]**&#x200B;을(를) 클릭합니다.
+1. **[!UICONTROL Tags]**&#x200B;를 클릭합니다.
 
    ![](assets/hide-unhide-a-program-channel-2.png)
 

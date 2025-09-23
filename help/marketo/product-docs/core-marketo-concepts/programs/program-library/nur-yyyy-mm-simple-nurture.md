@@ -1,16 +1,16 @@
 ---
 description: NUR-YYYY-MM-Simple Grooth - Marketo 문서 - 제품 설명서
-title: NUR-YYYY-MM-Simple Grooth
+title: NUR-YYYY-MM-단순 육성
 feature: Programs
 exl-id: aed11d75-3190-46ea-8b0b-c1494645901d
-source-git-commit: 21bcdc10fe1f3517612efe0f8e2adaf2f4411a70
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '347'
-ht-degree: 7%
+ht-degree: 11%
 
 ---
 
-# NUR-YYYY-MM-Simple Grooth {#nur-yyyy-mm-simple-nurture}
+# NUR-YYYY-MM-단순 육성 {#nur-yyyy-mm-simple-nurture}
 
 다음은 간단한 육성 프로그램의 예입니다. Marketo Engage 참여 프로그램 을 사용하면 케이던스된 콘텐츠가 데이터베이스에 지속적으로 저장되고 스트림을 활용하여 동작을 기반으로 여정을 통해 레코드를 안내할 수 있습니다.
 

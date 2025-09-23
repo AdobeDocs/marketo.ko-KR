@@ -1,17 +1,17 @@
 ---
 unique-page-id: 37357050
 description: MSI 패키지 업그레이드 - Marketo 문서 - 제품 설명서
-title: MSI 패키지 업그레이드 중
+title: MSI 패키지 업그레이드
 exl-id: 45004990-8452-4824-a9b2-89cd8302fe43
 feature: Marketo Sales Insights
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '260'
-ht-degree: 0%
+ht-degree: 3%
 
 ---
 
-# MSI 패키지 업그레이드 중 {#upgrading-your-msi-package}
+# MSI 패키지 업그레이드 {#upgrading-your-msi-package}
 
 >[!IMPORTANT]
 >

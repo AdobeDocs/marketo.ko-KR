@@ -4,10 +4,10 @@ description: Marketo On24 어댑터 이벤트 이해 - Marketo 문서 - 제품 �
 title: Marketo On24 어댑터 이벤트 이해
 exl-id: 00c3ac54-b139-4cff-af53-d4d83d2610f9
 feature: Events
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '133'
-ht-degree: 0%
+ht-degree: 7%
 
 ---
 

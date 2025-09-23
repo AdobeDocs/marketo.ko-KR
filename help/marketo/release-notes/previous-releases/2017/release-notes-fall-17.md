@@ -4,7 +4,7 @@ description: 릴리스 노트 - 17년 가을 - Marketo 문서 - 제품 설명서
 title: 릴리스 노트 - 2017년 가을
 exl-id: 329022e6-f388-4ff9-9724-62aeed76c0b9
 feature: Release Information
-source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '583'
 ht-degree: 0%
@@ -86,10 +86,10 @@ Marketo 내의 여러 채널에서 크리에이티브 에셋 및 이미지를 �
 
 ## 통합  {#integration}
 
-**[전자 메일 미리 보기 API](https://experienceleague.adobe.com/ko/docs/marketo-developer/marketo/email-scripting)**
+**[전자 메일 미리 보기 API](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/email-scripting)**
 
 이제 Marketo 외부에서 이메일을 원격으로 미리 볼 수 있으므로 이메일 콘텐츠 현지화 프로세스를 단순화하고 오류를 줄일 수 있습니다.
 
-**[HTML API 바꾸기](https://experienceleague.adobe.com/ko/docs/marketo-developer/marketo/email-scripting)**
+**[HTML API 바꾸기](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/email-scripting)**
 
 개발자는 이메일 에셋의 HTML 콘텐츠를 원격으로 업데이트할 수 있으므로 에셋을 유지 관리하기 위해 단일 시스템 내에서 작업할 수 있습니다.

@@ -1,13 +1,13 @@
 ---
 unique-page-id: 14352435
 description: 호출이 Salesforce - Marketo 문서 - 제품 설명서에 기록되지 않음
-title: 호출이 Salesforce에 로그인하지 않음
+title: 통화가 Salesforce에 기록되지 않음
 exl-id: 99528c1a-7398-442b-81d1-9b5908e35e2f
 feature: Marketo Sales Connect
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '123'
-ht-degree: 0%
+ht-degree: 4%
 
 ---
 

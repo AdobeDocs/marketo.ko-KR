@@ -1,16 +1,16 @@
 ---
 description: Sales Insight 작업 관리 설정 안내서 - Marketo 문서 - 제품 설명서
-title: Sales Insight Actions Admin Setup 안내서
+title: Sales Insight Actions 관리자 설정 안내서
 exl-id: 339d518d-445b-4634-ab81-92c9d5541927
 feature: Sales Insight Actions
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '604'
-ht-degree: 0%
+ht-degree: 3%
 
 ---
 
-# Sales Insight Actions Admin Setup 안내서 {#sales-insight-actions-admin-setup-guide}
+# Sales Insight Actions 관리자 설정 안내서 {#sales-insight-actions-admin-setup-guide}
 
 >[!NOTE]
 >
@@ -90,7 +90,7 @@ ht-degree: 0%
 
    ![](assets/msi-actions-admin-guide-5.png)
 
-1. **[!UICONTROL OK]**&#x200B;을(를) 클릭합니다.
+1. **[!UICONTROL OK]**&#x200B;를 클릭합니다.
 
    ![](assets/msi-actions-admin-guide-6.png)
 
@@ -126,7 +126,7 @@ Sales Insight Actions에 대한 데이터 통합 필드 동기화를 사용하�
 
    ![](assets/msi-actions-admin-guide-10.png)
 
-1. **[!UICONTROL Sales Insight]**&#x200B;을(를) 클릭합니다.
+1. **[!UICONTROL Sales Insight]**&#x200B;를 클릭합니다.
 
    ![](assets/msi-actions-admin-guide-11.png)
 
@@ -134,7 +134,7 @@ Sales Insight Actions에 대한 데이터 통합 필드 동기화를 사용하�
 
    ![](assets/msi-actions-admin-guide-12.png)
 
-1. 동기화할 필드의 미리 보기가 표시됩니다. **[!UICONTROL Start Sync]**&#x200B;을(를) 클릭합니다.
+1. 동기화할 필드의 미리 보기가 표시됩니다. **[!UICONTROL Start Sync]**&#x200B;를 클릭합니다.
 
    ![](assets/msi-actions-admin-guide-13.png)
 

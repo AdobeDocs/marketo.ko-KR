@@ -4,14 +4,14 @@ title: 2/3단계 - Marketo용 Salesforce 사용자 만들기(Enterprise/Unlimite
 hide: true
 hidefromtoc: true
 feature: Salesforce Integration
-source-git-commit: 989804463f44afbf35ab11c0f23c37b0d328e652
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
-source-wordcount: '422'
-ht-degree: 1%
+source-wordcount: '421'
+ht-degree: 4%
 
 ---
 
-# 2단계/3단계: Marketo용 Salesforce 사용자 만들기(Enterprise/Unlimited) {#step-of-create-a-salesforce-user-for-marketo-enterprise-unlimited}
+# 3단계 중 2단계: Marketo용 Salesforce 사용자 만들기 (엔터프라이즈/무제한) {#step-of-create-a-salesforce-user-for-marketo-enterprise-unlimited}
 
 >[!NOTE]
 >
@@ -25,7 +25,7 @@ ht-degree: 1%
 
 ## 프로필 만들기 {#create-a-profile}
 
-1. **[!UICONTROL 설치]**&#x200B;를 클릭합니다.
+1. **[!UICONTROL Setup]**&#x200B;를 클릭합니다.
 
    스크린샷
 

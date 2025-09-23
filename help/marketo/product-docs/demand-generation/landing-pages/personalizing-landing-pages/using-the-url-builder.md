@@ -4,10 +4,10 @@ description: URL 빌더 사용 - Marketo 문서 - 제품 설명서
 title: URL 빌더 사용
 exl-id: f8c1e459-f50f-4f74-bf8a-1f1b64fcf46c
 feature: Landing Pages
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '116'
-ht-degree: 0%
+ht-degree: 6%
 
 ---
 

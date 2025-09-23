@@ -3,10 +3,10 @@ description: 클래식 아이콘 용어집 - Marketo 문서 - 제품 설명서
 title: 클래식 아이콘 용어집
 feature: Getting Started
 exl-id: 05706dc2-9e8b-4f10-89cf-996a69bc4816
-source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '563'
-ht-degree: 8%
+ht-degree: 13%
 
 ---
 
@@ -195,7 +195,7 @@ ht-degree: 8%
   <tr>
    <td><img src="assets/image2015-1-8-18-3a28-3a16.png">
     </td>
-   <td>시작 지점</td>
+   <td>LaunchPoint</td>
   </tr>
   <tr>
    <td><img src="assets/image2015-1-8-18-3a44-3a51.png">
@@ -617,7 +617,7 @@ ht-degree: 8%
   <tr>
    <td><img src="assets/image2015-1-14-13-3a8-3a40.png">
     </td>
-   <td>새로운 기능</td>
+   <td>신규 용어</td>
   </tr>
   <tr>
    <td><img src="assets/image2015-1-14-13-3a8-3a47.png">
@@ -856,7 +856,7 @@ ht-degree: 8%
   <tr>
    <td><img src="assets/image2015-1-5-16-3a42-3a11.png">
     </td>
-   <td>필드 구성</td>
+   <td>현장 조직자</td>
   </tr>
   <tr>
    <td><img src="assets/image2015-1-5-14-3a43-3a28.png">
@@ -871,7 +871,7 @@ ht-degree: 8%
   <tr>
    <td><img src="assets/image2015-1-14-13-3a9-3a33.png">
     </td>
-   <td>새로운 기능</td>
+   <td>신규 용어</td>
   </tr>
   <tr>
    <td><img src="assets/image2015-1-14-13-3a9-3a39.png">

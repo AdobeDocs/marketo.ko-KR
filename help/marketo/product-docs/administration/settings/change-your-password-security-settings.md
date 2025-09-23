@@ -4,10 +4,10 @@ description: 암호 보안 설정 변경 - Marketo 문서 - 제품 설명서
 title: 암호 보안 설정 변경
 exl-id: cda7ec70-32aa-4e0a-86b2-eb9bea70ef72
 feature: Administration
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '154'
-ht-degree: 0%
+ht-degree: 11%
 
 ---
 
@@ -23,7 +23,7 @@ ht-degree: 0%
 
    ![](assets/change-your-password-security-settings-1.png)
 
-1. **[!UICONTROL Login Settings]**&#x200B;을(를) 클릭합니다.
+1. **[!UICONTROL Login Settings]**&#x200B;를 클릭합니다.
 
    ![](assets/change-your-password-security-settings-2.png)
 

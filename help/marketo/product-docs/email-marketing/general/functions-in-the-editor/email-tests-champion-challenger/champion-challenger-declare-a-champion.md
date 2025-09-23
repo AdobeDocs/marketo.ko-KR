@@ -4,14 +4,14 @@ description: 챔피언/챌린저 - 챔피언 선언 - Marketo 문서 - 제품 �
 title: 챔피언/챌린저 - 챔피언 선언
 exl-id: 04686934-6b6e-407f-8e50-bbf75139e367
 feature: Email Editor
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '112'
-ht-degree: 0%
+ht-degree: 4%
 
 ---
 
-# 챔피언/챌린저 : 챔피언 선언 {#champion-challenger-declare-a-champion}
+# 챔피언/챌린저: 챔피언 선언 {#champion-challenger-declare-a-champion}
 
 준비가 되면 이메일 테스트의 챔피언을 선언할 수 있습니다.
 

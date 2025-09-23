@@ -4,10 +4,10 @@ description: Salesforce Lightning의 일괄 작업 - Marketo 문서 - 제품 설
 title: Salesforce Lightning의 일괄 작업
 exl-id: 8e07e870-158f-4072-8122-9f4b440f5f7c
 feature: Marketo Sales Insights
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '93'
-ht-degree: 2%
+ht-degree: 7%
 
 ---
 
@@ -27,7 +27,7 @@ ht-degree: 2%
 
    ![](assets/bulk-actions-in-salesforce-lightning-3.png)
 
-1. **[!UICONTROL Search Layouts for Salesforce Classic]**&#x200B;을(를) 클릭합니다.
+1. **[!UICONTROL Search Layouts for Salesforce Classic]**&#x200B;를 클릭합니다.
 
    ![](assets/bulk-actions-in-salesforce-lightning-4.png)
 
@@ -39,7 +39,7 @@ ht-degree: 2%
 
    ![](assets/bulk-actions-in-salesforce-lightning-6.png)
 
-1. **[!UICONTROL Save]**&#x200B;을(를) 클릭합니다.
+1. **[!UICONTROL Save]**&#x200B;를 클릭합니다.
 
    ![](assets/bulk-actions-in-salesforce-lightning-7.png)
 

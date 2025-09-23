@@ -4,14 +4,14 @@ description: 릴리스 노트 - 2013년 9월 - Marketo 설명서 - 제품 설명
 title: 릴리스 노트 - 2013년 9월
 exl-id: 43428813-0405-4c35-9165-f189fbb5ffb7
 feature: Release Information
-source-git-commit: ecd225af3ecfd7cb9159faf5a9d384d47ee6312c
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '485'
 ht-degree: 0%
 
 ---
 
-# 릴리스 노트: 2013년 9월 {#release-notes-september}
+# 릴리스 정보: 2013년 9월 {#release-notes-september}
 
 9월 릴리스에는 다음 기능이 포함되어 있습니다.
 
@@ -69,7 +69,7 @@ Marketo 양식에서 회사 이름 및 직함을 [!DNL GoToWebinar]&#x200B;(으)
 
 ## 프랑스어 및 독일어로 사용 가능한 [!UICONTROL Sales Insight]&#x200B;([!DNL Salesforce]만) {#sales-insight-available-in-french-and-german-salesforce-only}
 
-[!DNL AppExchange]에서 최신 버전의 Marketo 리드 관리 및 Marketo [!UICONTROL Sales Insight]을(를) 다운로드하면 프랑스어 및 독일어 영업 사원이 선호하는 언어로 [!UICONTROL Sales Insight] 콘텐츠를 볼 수 있습니다.
+[!UICONTROL Sales Insight]에서 최신 버전의 Marketo 리드 관리 및 Marketo [!DNL AppExchange]을(를) 다운로드하면 프랑스어 및 독일어 영업 사원이 선호하는 언어로 [!UICONTROL Sales Insight] 콘텐츠를 볼 수 있습니다.
 
 ![](assets/image2014-9-22-17-3a13-3a12.png)
 

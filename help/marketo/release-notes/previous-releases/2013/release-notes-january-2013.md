@@ -4,14 +4,14 @@ description: 릴리스 노트 - 2013년 1월 - Marketo 설명서 - 제품 설명
 title: 릴리스 노트 - 2013년 1월
 exl-id: 1bdc15f4-eb86-4e29-948a-0823a583ee86
 feature: Release Information
-source-git-commit: ecd225af3ecfd7cb9159faf5a9d384d47ee6312c
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '303'
-ht-degree: 0%
+ht-degree: 1%
 
 ---
 
-# 릴리스 노트: 2013년 1월 {#release-notes-january}
+# 릴리스 정보: 2013년 1월 {#release-notes-january}
 
 1월 릴리스는 **추천 오퍼**&#x200B;로 소셜 오퍼를 확장합니다. 또한 [!DNL Marketo Lead Management] 사용자는 표준 시간대, 언어 및 로케일 기본 설정을 설정할 수 있습니다. &#42;(으)로 표시된 기능은 Select Edition에서만 사용할 수 있습니다.
 

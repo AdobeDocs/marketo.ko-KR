@@ -3,10 +3,10 @@ unique-page-id: 1147318
 description: 키보드 단축키 용어집 - Marketo 문서 - 제품 설명서
 title: 키보드 단축키 용어집
 exl-id: ca85bd0f-5ed3-4ae2-a20b-ef3151609f83
-source-git-commit: 0abb315be0f9cb5f42fa41d72b446de8c2f62c1e
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '114'
-ht-degree: 5%
+ht-degree: 17%
 
 ---
 
@@ -24,7 +24,7 @@ ht-degree: 5%
 | Alt/Opt + F | 글로벌 검색 |
 | Alt/Opt + L | 데이터베이스 |
 | Alt/Opt + M | 마케팅 활동 |
-| Opt + N | 관리자 |
+| Opt + N | 관리 |
 | Opt + O | 내 Marketo |
 
 ## 달력/예약 보기 탐색  {#calendar-schedule-view-navigation}

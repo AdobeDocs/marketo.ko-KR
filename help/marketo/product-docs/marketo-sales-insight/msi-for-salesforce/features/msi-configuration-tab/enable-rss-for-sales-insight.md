@@ -1,13 +1,13 @@
 ---
 unique-page-id: 11377005
 description: 판매 Insight - Marketo 문서 - 제품 설명서에 RSS 활성화
-title: 판매 Insight용 RSS 활성화
+title: Sales Insight용 RSS 활성화
 exl-id: 1b6c0dc7-6f24-4931-ae99-6a2cf00db99d
 feature: Marketo Sales Insights
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '81'
-ht-degree: 2%
+ht-degree: 8%
 
 ---
 

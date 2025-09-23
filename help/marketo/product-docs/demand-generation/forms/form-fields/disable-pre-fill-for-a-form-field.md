@@ -1,17 +1,17 @@
 ---
 unique-page-id: 2359675
 description: 양식 필드의 미리 채우기 비활성화 - Marketo 문서 - 제품 설명서
-title: 양식 필드에 대한 미리 채우기 비활성화
+title: 양식 필드에 대해 미리 채우기 비활성화
 exl-id: c600e0ce-1b94-4f7b-b75d-f550a2904799
 feature: Forms
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '158'
-ht-degree: 1%
+ht-degree: 8%
 
 ---
 
-# 양식 필드에 대한 미리 채우기 비활성화 {#disable-pre-fill-for-a-form-field}
+# 양식 필드에 대해 미리 채우기 비활성화 {#disable-pre-fill-for-a-form-field}
 
 웹 방문자를 알고 있으면(쿠키 사용), Marketo Forms는 기본적으로 필드에 해당 정보를 미리 채웁니다. 이 기능을 끄려면 다음 방법을 참조하십시오.
 
@@ -43,11 +43,11 @@ ht-degree: 1%
    >
    >랜딩 페이지 수준 또는 관리자 수준에서 양식 미리 채우기를 비활성화할 수도 있습니다.
 
-1. **[!UICONTROL Finish]**&#x200B;을(를) 클릭합니다.
+1. **[!UICONTROL Finish]**&#x200B;를 클릭합니다.
 
    ![](assets/image2014-9-15-14-3a27-3a1.png)
 
-1. **[!UICONTROL Approve and Close]**&#x200B;을(를) 클릭합니다.
+1. **[!UICONTROL Approve and Close]**&#x200B;를 클릭합니다.
 
    ![](assets/image2014-9-15-14-3a27-3a6.png)
 

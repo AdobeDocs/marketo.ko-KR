@@ -1,13 +1,13 @@
 ---
 unique-page-id: 3571888
 description: Revenue Cycle Analytics에 대해 사용자 정의 필드 동기화 활성화 - Marketo 문서 - 제품 설명서
-title: 수익 주기 분석에 대한 사용자 정의 필드 동기화 활성화
+title: 수익 주기 분석용 사용자 정의 필드 동기화 활성화
 exl-id: 5656db8f-fce5-47c3-b35d-4faebbdcaa44
 feature: Reporting, Revenue Cycle Analytics
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '80'
-ht-degree: 1%
+ht-degree: 11%
 
 ---
 
@@ -15,7 +15,7 @@ ht-degree: 1%
 
 다음 단계에서는 RCA 보고서의 사용자 지정 필드를 활용할 수 있습니다.
 
-1. **[!UICONTROL Admin]**&#x200B;을(를) 클릭합니다.
+1. **[!UICONTROL Admin]**&#x200B;를 클릭합니다.
 
    ![](assets/one.png)
 

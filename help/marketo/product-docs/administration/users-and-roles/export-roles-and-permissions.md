@@ -3,10 +3,10 @@ description: 역할 및 권한 내보내기 - Marketo 문서 - 제품 설명서
 title: 역할 및 권한 내보내기
 exl-id: 2c3ee917-dc8c-40e1-a6e6-f6cb059963f6
 feature: Users and Roles
-source-git-commit: 02b2e39580c5eac63de4b4b7fdaf2a835fdd4ba5
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
-source-wordcount: '84'
-ht-degree: 0%
+source-wordcount: '80'
+ht-degree: 16%
 
 ---
 
@@ -18,15 +18,15 @@ ht-degree: 0%
 >
 >관리자 권한 필요
 
-1. **[!UICONTROL 관리자]** 영역으로 이동합니다.
+1. **[!UICONTROL Admin]** 영역으로 이동합니다.
 
    ![](assets/export-roles-and-permissions-1.png)
 
-1. **[!UICONTROL 사용자 및 역할]**&#x200B;을(를) 선택하십시오.
+1. **[!UICONTROL Users & Roles]**&#x200B;를 선택합니다.
 
    ![](assets/export-roles-and-permissions-2.png)
 
-1. **[!UICONTROL 역할]** 탭을 클릭합니다.
+1. **[!UICONTROL Roles]** 탭을 클릭합니다.
 
    ![](assets/export-roles-and-permissions-3.png)
 

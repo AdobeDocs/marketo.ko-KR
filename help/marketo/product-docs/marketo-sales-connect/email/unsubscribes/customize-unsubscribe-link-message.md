@@ -1,17 +1,17 @@
 ---
 unique-page-id: 14746186
 description: 구독 취소 링크 메시지 사용자 지정 - Marketo 문서 - 제품 설명서
-title: 구독 취소 링크 메시지 사용자 지정
+title: 구독 취소 링크 메시지 사용자 정의
 exl-id: 565754ce-644c-4ba7-bb67-cd0b4dc0f7e1
 feature: Marketo Sales Connect
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '184'
-ht-degree: 0%
+ht-degree: 4%
 
 ---
 
-# 구독 취소 링크 메시지 사용자 지정 {#customize-unsubscribe-link-message}
+# 구독 취소 링크 메시지 사용자 정의 {#customize-unsubscribe-link-message}
 
 항상 팀이 구독 취소 링크 메시지를 사용자 정의할 수 있도록 했지만, 이제 관리자는 일관된 메시지를 제공하기 위해 전체 팀에 대해 구독 취소 링크 메시지를 설정할 수 있습니다.
 
@@ -41,7 +41,7 @@ ht-degree: 0%
    >
    >하이퍼링크되는 URL은 중요하지 않습니다. 이메일이 전송되면 하이퍼링크가 구독 취소 링크로 변환됩니다.
 
-1. **[!UICONTROL OK]**&#x200B;을(를) 클릭합니다.
+1. **[!UICONTROL OK]**&#x200B;를 클릭합니다.
 
    ![](assets/five.png)
 

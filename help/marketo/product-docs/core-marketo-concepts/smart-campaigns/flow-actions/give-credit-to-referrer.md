@@ -1,19 +1,19 @@
 ---
 unique-page-id: 1147040
 description: 레퍼러에 크레딧 제공 - Marketo 문서 - 제품 설명서
-title: 레퍼러에 크레딧 제공
+title: 레퍼러에게 크레딧 부여
 exl-id: d8cd9a54-53fd-4edd-8262-c63ec45a89a9
 hide: true
 hidefromtoc: true
 feature: Smart Campaigns
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '130'
-ht-degree: 1%
+ht-degree: 7%
 
 ---
 
-# 레퍼러에 크레딧 제공 {#give-credit-to-referrer}
+# 레퍼러에게 크레딧 부여 {#give-credit-to-referrer}
 
 _추천 오퍼_ 또는 _경품 행사_&#x200B;를 실행할 때 다음과 같은 다양한 방법을 사용하여 레퍼러에 크레딧을 제공할 수 있습니다.
 

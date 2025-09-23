@@ -4,14 +4,14 @@ description: 1단계/3단계 - Marketo 솔루션 설치(2011 온프레미스) - 
 title: 1/3단계 - Marketo 솔루션 설치(2011 온프레미스)
 exl-id: 6e559b10-5273-4dc2-b98d-49c509cbeff7
 feature: Microsoft Dynamics
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '253'
-ht-degree: 1%
+ht-degree: 6%
 
 ---
 
-# 1단계/3단계: Marketo 솔루션 설치(2011 온프레미스) {#step-of-install-the-marketo-solution-on-premises}
+# 3단계 중 1단계: Marketo 솔루션 설치 (2011 온프레미스) {#step-of-install-the-marketo-solution-on-premises}
 
 [!DNL Microsoft Dynamics] 온-프레미스와 Marketo을 동기화하려면 먼저 [!DNL Dynamics]에 Marketo 솔루션을 설치해야 합니다.
 
@@ -39,11 +39,11 @@ ht-degree: 1%
 
    ![](assets/image2015-4-2-11-3a35-3a28.png)
 
-1. **[!UICONTROL Import]**&#x200B;을(를) 클릭합니다.
+1. **[!UICONTROL Import]**&#x200B;를 클릭합니다.
 
    ![](assets/image2015-4-2-11-3a37-3a33.png)
 
-1. **[!UICONTROL Browse]**&#x200B;을(를) 클릭합니다. [다운로드한](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/download-the-marketo-lead-management-solution.md)Marketo 리드 관리 솔루션을 선택합니다. **[!UICONTROL Next]**&#x200B;을(를) 클릭합니다.
+1. **[!UICONTROL Browse]**&#x200B;을(를) 클릭합니다. [다운로드한](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/download-the-marketo-lead-management-solution.md)Marketo 리드 관리 솔루션을 선택합니다. **[!UICONTROL Next]**&#x200B;를 클릭합니다.
 
    ![](assets/image2015-4-2-11-3a40-3a33.png)
 
@@ -59,7 +59,7 @@ ht-degree: 1%
 
    ![](assets/image2015-4-2-11-3a41-3a48.png)
 
-1. SDK 메시지 옵션 확인란이 선택되어 있는지 확인합니다. **[!UICONTROL Next]**&#x200B;을(를) 클릭합니다.
+1. SDK 메시지 옵션 확인란이 선택되어 있는지 확인합니다. **[!UICONTROL Next]**&#x200B;를 클릭합니다.
 
    ![](assets/image2015-4-2-11-3a42-3a37.png)
 
@@ -71,7 +71,7 @@ ht-degree: 1%
 
    ![](assets/image2015-4-2-11-3a43-3a51.png)
 
-1. **[!UICONTROL Close]**&#x200B;을(를) 클릭합니다.
+1. **[!UICONTROL Close]**&#x200B;를 클릭합니다.
 
    >[!NOTE]
    >
@@ -83,7 +83,7 @@ ht-degree: 1%
 
    ![](assets/image2015-4-2-11-3a46-3a55.png)
 
-1. [!UICONTROL Marketo Lead Management]을(를) 선택하고 **[!UICONTROL Publish All Customizations]**&#x200B;을(를) 클릭합니다.
+1. [!UICONTROL Marketo Lead Management]으로 선택하고 **[!UICONTROL Publish All Customizations]**&#x200B;를 클릭합니다.
 
    ![](assets/image2015-4-2-11-3a48-3a21.png)
 

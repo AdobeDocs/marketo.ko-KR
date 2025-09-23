@@ -1,17 +1,17 @@
 ---
 unique-page-id: 1900560
 description: 웹 페이지로 보기 링크를 이메일에 추가 - Marketo 문서 - 제품 설명서
-title: 전자 메일에 웹 페이지로 보기 링크 추가
+title: 이메일에 '웹 페이지로 보기' 링크 추가
 exl-id: 0f420d1b-6c12-4e66-9dfa-3c8f6145dc89
 feature: Email Editor
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '149'
-ht-degree: 0%
+ht-degree: 13%
 
 ---
 
-# 전자 메일에 웹 페이지로 보기 링크 추가 {#add-a-view-as-web-page-link-to-an-email}
+# 이메일에 &#39;웹 페이지로 보기&#39; 링크 추가 {#add-a-view-as-web-page-link-to-an-email}
 
 이메일에는 제한된 기능이 있습니다(CSS는 제한되고 JavaScript 또는 양식은 없음). 웹 페이지로 보기 를 사용하여 브라우저에 이메일을 표시하는 링크를 제공합니다. [!DNL Munchkin]을(를) 사용하여 수신자에게 쿠키를 제공합니다.
 

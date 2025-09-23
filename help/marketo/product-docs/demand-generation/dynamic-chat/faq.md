@@ -3,7 +3,7 @@ description: Dynamic Chat FAQ - Marketo 문서 - 제품 설명서
 title: DYNAMIC CHAT FAQ
 feature: Dynamic Chat
 exl-id: 7b31afc3-77f4-46fb-9f0e-8cb9d60f3ffb
-source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '882'
 ht-degree: 0%
@@ -24,7 +24,7 @@ Dynamic Chat JavaScript 코드 조각은 Marketo 랜딩 페이지뿐만 아니�
 
 **보고에 사용할 데이터가 얼마나 오래 저장됩니까?**
 
-90일. 제한/매개 변수의 전체 목록을 보려면 Marketo Engage [제품 설명 페이지](https://helpx.adobe.com/kr/legal/product-descriptions/adobe-marketo-engage---product-description.html){target="_blank"}를 방문하세요.
+90일. 제한/매개 변수의 전체 목록을 보려면 Marketo Engage [제품 설명 페이지](https://helpx.adobe.com/legal/product-descriptions/adobe-marketo-engage---product-description.html){target="_blank"}를 방문하세요.
 
 **Dynamic Chat에서 영어 이외의 언어를 지원합니까?**
 

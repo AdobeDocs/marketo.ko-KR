@@ -1,17 +1,17 @@
 ---
 unique-page-id: 5472314
 description: 자유 형식 랜딩 페이지 - Marketo 문서 - 제품 설명서에서 이미지에 링크 추가
-title: 자유 형식 랜딩 페이지에서 이미지에 링크 추가
+title: 자유 형식 랜딩 페이지의 이미지에 링크 추가
 exl-id: ad845417-2414-407f-998b-eeebe38f328f
 feature: Landing Pages
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '111'
-ht-degree: 0%
+ht-degree: 22%
 
 ---
 
-# 자유 형식 랜딩 페이지에서 이미지에 링크 추가 {#add-a-link-to-an-image-in-a-free-form-landing-page}
+# 자유 형식 랜딩 페이지의 이미지에 링크 추가 {#add-a-link-to-an-image-in-a-free-form-landing-page}
 
 랜딩 페이지의 이미지를 다른 페이지/사이트에 대한 링크로 만들시겠습니까? 방법은 다음과 같습니다.
 

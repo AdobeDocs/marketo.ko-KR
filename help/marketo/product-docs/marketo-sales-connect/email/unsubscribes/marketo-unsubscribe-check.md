@@ -4,10 +4,10 @@ description: Marketo 구독 취소 확인 - Marketo 문서 - 제품 설명서
 title: Marketo 구독 취소 확인
 exl-id: b8bd5b38-a4f5-4ac7-a5ce-a155fce57998
 feature: Marketo Sales Connect
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '179'
-ht-degree: 0%
+ht-degree: 5%
 
 ---
 
@@ -29,7 +29,7 @@ ht-degree: 0%
 
    ![](assets/two-3.png)
 
-1. **[!UICONTROL Integrations]**&#x200B;을(를) 클릭합니다.
+1. **[!UICONTROL Integrations]**&#x200B;를 클릭합니다.
 
    ![](assets/three-3.png)
 
@@ -37,7 +37,7 @@ ht-degree: 0%
 
    ![](assets/four-2.png)
 
-## 알아야 할 사항 {#things-to-know}
+## 알아 두어야 할 항목 {#things-to-know}
 
 Marketo 구독 취소 확인...
 

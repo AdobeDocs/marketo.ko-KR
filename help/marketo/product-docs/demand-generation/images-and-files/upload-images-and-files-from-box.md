@@ -4,10 +4,10 @@ description: Box의 이미지 및 파일 업로드 - Marketo 문서 - 제품 설
 title: Box에서 이미지 및 파일 업로드
 exl-id: 08596026-ce25-4076-957a-d069aa44b85a
 feature: Image Editor
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '92'
-ht-degree: 3%
+ht-degree: 16%
 
 ---
 
@@ -23,7 +23,7 @@ Box에서 파일을 업로드하여 랜딩 페이지 및 이메일에서 사용�
 
    ![](assets/image2014-9-16-12-3a50-3a40.png)
 
-1. **[!UICONTROL Box]**&#x200B;을(를) 클릭합니다.
+1. **[!UICONTROL Box]**&#x200B;를 클릭합니다.
 
    ![](assets/image2014-9-16-12-3a50-3a56.png)
 
@@ -35,11 +35,11 @@ Box에서 파일을 업로드하여 랜딩 페이지 및 이메일에서 사용�
 
    ![](assets/image2014-9-16-12-3a51-3a28.png)
 
-1. 파일을 저장할 위치를 선택합니다. 그런 다음 업로드할 **[!DNL Box]** 폴더를 선택합니다. **[!UICONTROL Next]**&#x200B;을(를) 클릭합니다.
+1. 파일을 저장할 위치를 선택합니다. 그런 다음 업로드할 **[!DNL Box]** 폴더를 선택합니다. **[!UICONTROL Next]**&#x200B;를 클릭합니다.
 
    ![](assets/image2014-9-16-12-3a51-3a59.png)
 
-1. 업로드할 파일을 선택합니다. **[!UICONTROL Import]**&#x200B;을(를) 클릭합니다.
+1. 업로드할 파일을 선택합니다. **[!UICONTROL Import]**&#x200B;를 클릭합니다.
 
    ![](assets/image2014-9-16-12-3a52-3a15.png)
 

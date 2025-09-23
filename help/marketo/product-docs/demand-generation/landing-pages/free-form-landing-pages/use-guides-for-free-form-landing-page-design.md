@@ -1,17 +1,17 @@
 ---
 unique-page-id: 2359728
 description: 자유 형식 랜딩 페이지 디자인에 대한 안내서 사용 - Marketo 문서 - 제품 설명서
-title: 자유 형식 랜딩 페이지 디자인에 대한 안내서 사용
+title: 자유 형식 랜딩 페이지 디자인에 가이드 사용
 exl-id: 44c6a984-ae05-464c-905a-9e1b53f73f37
 feature: Landing Pages
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '102'
-ht-degree: 0%
+ht-degree: 13%
 
 ---
 
-# 자유 형식 랜딩 페이지 디자인에 대한 안내서 사용 {#use-guides-for-free-form-landing-page-design}
+# 자유 형식 랜딩 페이지 디자인에 가이드 사용 {#use-guides-for-free-form-landing-page-design}
 
 자유 형식 랜딩 페이지를 디자인할 때 안내서를 사용하여 구성 요소를 정렬할 수 있습니다.
 

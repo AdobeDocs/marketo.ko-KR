@@ -4,26 +4,26 @@ description: 기본 제공/시스템 스마트 목록 사용 - Marketo 문서 - 
 title: 기본 제공/시스템 스마트 목록 사용
 exl-id: f4db0e02-2250-4c56-ba74-f9fa8a5b9c11
 feature: Smart Lists
-source-git-commit: d087b22e84c23fea5e38fe7bf20349dc7eec09f7
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
-source-wordcount: '195'
-ht-degree: 1%
+source-wordcount: '188'
+ht-degree: 7%
 
 ---
 
 # 기본 제공/시스템 스마트 목록 사용 {#use-built-in-system-smart-lists}
 
-Marketo Engage은 매우 유용한 내장 스마트 목록을 가지고 있습니다. 확인해 보자!
+Marketo Engage에는 매우 유용한 내장 스마트 목록이 있습니다. 확인해 보자!
 
-1. **[!UICONTROL 데이터베이스]**(으)로 이동합니다.
+1. **[!UICONTROL Database]**(으)로 이동합니다.
 
    ![](assets/use-built-in-system-smart-lists-1.png)
 
-1. **[!UICONTROL 시스템 스마트 목록]** 폴더를 열어 컬렉션을 표시합니다.
+1. **[!UICONTROL System Smart Lists]** 폴더를 열어 컬렉션을 표시합니다.
 
    ![](assets/use-built-in-system-smart-lists-2.png)
 
-1. 예를 보려면 **[!UICONTROL 모든 직원]**&#x200B;을 선택한 다음 **[!UICONTROL 직원]** 탭을 클릭하세요.
+1. 예를 보려면 **[!UICONTROL All People]**&#x200B;을(를) 선택한 다음 **[!UICONTROL People]** 탭을 클릭합니다.
 
    ![](assets/use-built-in-system-smart-lists-3.png)
 

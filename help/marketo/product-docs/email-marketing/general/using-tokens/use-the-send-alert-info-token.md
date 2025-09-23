@@ -1,17 +1,17 @@
 ---
 unique-page-id: 2952678
 description: 경고 정보 보내기 토큰 {{SP_Send_Alert_Info}} 사용 - Marketo 문서 - 제품 설명서
-title: 경고 정보 보내기 토큰 사용
+title: 경고 전송 정보 토큰 사용
 exl-id: 950eb4d1-35d5-4e5c-9624-a38284bff987
 feature: Tokens
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '252'
-ht-degree: 0%
+ht-degree: 5%
 
 ---
 
-# 경고 정보 보내기 토큰 사용 {#use-the-send-alert-info-token-sp-send-alert-info}
+# 경고 전송 정보 토큰 사용 {#use-the-send-alert-info-token-sp-send-alert-info}
 
 `{{SP_Send_Alert_Info}}` 토큰은 영업 팀에 대한 경고 이메일을 만들 때 사용할 특수 토큰입니다.
 
@@ -56,7 +56,7 @@ ht-degree: 0%
 
    ![](assets/image2014-9-25-15-3a19-3a11.png)
 
-1. **[!UICONTROL Save]**&#x200B;을(를) 클릭합니다.
+1. **[!UICONTROL Save]**&#x200B;를 클릭합니다.
 
    ![](assets/image2014-9-25-15-3a19-3a24.png)
 

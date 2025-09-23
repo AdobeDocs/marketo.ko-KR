@@ -4,10 +4,10 @@ description: 계정 스마트 목록 - Marketo 문서 - 제품 설명서
 title: 계정 스마트 목록
 exl-id: fbdfb2b8-0061-467d-be89-527744a659a9
 feature: Target Account Management
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '428'
-ht-degree: 0%
+ht-degree: 2%
 
 ---
 
@@ -29,11 +29,11 @@ ht-degree: 0%
 
    ![](assets/account-smart-lists-2.png)
 
-1. **[!UICONTROL New]** 드롭다운을 클릭하고 **[!UICONTROL New Local Asset]**&#x200B;을(를) 선택합니다.
+1. **[!UICONTROL New]** 드롭다운을 클릭하고 **[!UICONTROL New Local Asset]**&#x200B;를 선택합니다.
 
    ![](assets/account-smart-lists-3.png)
 
-1. **[!UICONTROL Account Smart List]**&#x200B;을(를) 클릭합니다.
+1. **[!UICONTROL Account Smart List]**&#x200B;를 클릭합니다.
 
    ![](assets/account-smart-lists-4.png)
 
@@ -51,7 +51,7 @@ ht-degree: 0%
 
    ![](assets/account-smart-lists-6.png)
 
-1. 원하는 계정 필터를 선택합니다. 이 예제에서는 _[!UICONTROL Industry]을(를) [!UICONTROL Healthcare]_&#x200B;합니다.
+1. 원하는 계정 필터를 선택합니다. 이 예제에서는 _[!UICONTROL Industry]을(를)[!UICONTROL Healthcare]_&#x200B;합니다.
 
    ![](assets/account-smart-lists-7.png)
 
@@ -93,7 +93,7 @@ ht-degree: 0%
 
 **[!UICONTROL Send to Ad Network]**: [!DNL LinkedIn]에 일치하는 새 대상자로 목록을 보냅니다.
 
-[!UICONTROL Account Smart List] 필터를 사용하여 표준 스마트 캠페인/목록에서 _[!UICONTROL People Member of Account Smart List]_&#x200B;을(를) 참조할 수도 있습니다.
+[!UICONTROL Account Smart List] 필터를 사용하여 표준 스마트 캠페인/목록에서 _[!UICONTROL People Member of Account Smart List]_을(를) 참조할 수도 있습니다.
 
 ![](assets/account-smart-lists-12.png)
 

@@ -4,14 +4,14 @@ description: 릴리스 노트 - 2013년 10월 - Marketo 설명서 - 제품 설�
 title: 릴리스 노트 - 2013년 10월
 exl-id: f392521e-a5bd-47cd-af5c-d801718ca4e0
 feature: Release Information
-source-git-commit: e3f61755dccd9bea1378a429fc428b440fc3ecb4
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '132'
-ht-degree: 0%
+ht-degree: 3%
 
 ---
 
-# 릴리스 노트: 2013년 10월 {#release-notes-october}
+# 릴리스 정보: 2013년 10월 {#release-notes-october}
 
 다음 기능은 2013년 10월 릴리스에 포함되어 있습니다.
 

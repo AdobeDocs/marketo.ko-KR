@@ -1,17 +1,17 @@
 ---
 unique-page-id: 2953325
 description: 시작 세부 사항 보기 - Marketo 문서 - 제품 설명서
-title: 게시물 세부 정보 보기
+title: 항목 세부 사항 보기
 exl-id: bb65f7ae-5a37-4b09-8532-75d1e9a6464c
 feature: Marketing Calendar
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '74'
-ht-degree: 0%
+ht-degree: 8%
 
 ---
 
-# 게시물 세부 정보 보기 {#view-entry-details}
+# 항목 세부 사항 보기 {#view-entry-details}
 
 마케팅 달력에서 항목 세부 사항을 보면 항목에 대한 모든 종류의 멋진 내용을 볼 수 있습니다.
 

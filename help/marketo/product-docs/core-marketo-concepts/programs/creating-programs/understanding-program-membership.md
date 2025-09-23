@@ -4,10 +4,10 @@ description: 프로그램 멤버십 이해 - Marketo 문서 - 제품 설명서
 title: 프로그램 멤버십 이해
 exl-id: 02480a93-b499-4e0f-8a1c-a22f7d3b7178
 feature: Programs
-source-git-commit: 93d6e498ee69a1a9fdee7956ac351764cf18a87a
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '266'
-ht-degree: 0%
+ht-degree: 3%
 
 ---
 
@@ -19,7 +19,7 @@ ht-degree: 0%
 
 ## 사람들이 프로그램의 구성원이 되는 방법 {#how-people-become-members-of-a-program}
 
-1. 사용자가 프로그램의 랜딩 페이지[&#128279;](/help/marketo/getting-started/quick-wins/landing-page-with-a-form.md){target="_blank"}에 양식을 작성합니다.
+1. 사용자가 프로그램의 랜딩 페이지[에 ](/help/marketo/getting-started/quick-wins/landing-page-with-a-form.md){target="_blank"}양식을 작성합니다.
 
    * 개인은 자동으로 진행 중 첫 번째 상태를 갖게 됩니다.
 
@@ -54,7 +54,7 @@ ht-degree: 0%
 >
 >웨비나의 경우, 실제로 웨비나를 시청하지 않는다면 등록은 의미 있는 상호 작용이 아닙니다. 이 경우 참석은 성공입니다.
 
-## 고객 확보 프로그램 {#acquisition-program}
+## 확보 프로그램 {#acquisition-program}
 
 새 이름이 시스템에 프로그램 구성원으로 들어오면 Marketo은 해당 프로그램을 자동으로 &quot;획득&quot;으로 설정합니다. [첫 번째 터치 속성](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-tools/attribution/understanding-attribution.md){target="_blank"}에 대한 크레딧을 설정합니다.
 

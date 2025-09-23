@@ -4,10 +4,10 @@ description: 사용자에게 체크인 앱에 대한 액세스 권한 부여 - M
 title: 사용자에게 체크인 앱에 대한 액세스 권한 부여
 exl-id: 898ac49f-a708-4cdf-b341-58582740a45b
 feature: Mobile Marketing
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '245'
-ht-degree: 2%
+ht-degree: 7%
 
 ---
 
@@ -21,11 +21,11 @@ Marketo Engage에는 이벤트 체크인 앱에 대한 특수 사용자 역할�
 
 ## 모바일에 대한 새 사용자 역할 만들기 {#create-a-new-user-role-for-mobile}
 
-1. **[!UICONTROL Admin]**&#x200B;을(를) 클릭합니다.
+1. **[!UICONTROL Admin]**&#x200B;를 클릭합니다.
 
    ![](assets/image2015-6-2-10-3a39-3a31.png)
 
-1. **[!UICONTROL Users & Roles]**&#x200B;을(를) 클릭합니다.
+1. **[!UICONTROL Users & Roles]**&#x200B;를 클릭합니다.
 
    ![](assets/image2015-6-2-10-3a56-3a0.png)
 
@@ -45,7 +45,7 @@ Marketo Engage에는 이벤트 체크인 앱에 대한 특수 사용자 역할�
 
    ![](assets/image2015-6-2-11-3a10-3a42.png)
 
-1. **[!UICONTROL Invite New User]**&#x200B;을(를) 클릭합니다.
+1. **[!UICONTROL Invite New User]**&#x200B;를 클릭합니다.
 
    ![](assets/image2015-6-2-11-3a11-3a32.png)
 

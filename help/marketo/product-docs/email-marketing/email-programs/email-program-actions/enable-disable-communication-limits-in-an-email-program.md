@@ -1,17 +1,17 @@
 ---
 unique-page-id: 2359596
 description: 이메일 프로그램에서 통신 제한 활성화/비활성화 - Marketo 문서 - 제품 설명서
-title: 이메일 프로그램의 통신 제한 활성화/비활성화
+title: 이메일 프로그램에서 커뮤니케이션 제한 활성화/비활성화
 exl-id: 25427978-33a0-4153-ad66-b34f9549e794
 feature: Email Programs
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '127'
-ht-degree: 0%
+ht-degree: 12%
 
 ---
 
-# 이메일 프로그램의 통신 제한 활성화/비활성화 {#enable-disable-communication-limits-in-an-email-program}
+# 이메일 프로그램에서 커뮤니케이션 제한 활성화/비활성화 {#enable-disable-communication-limits-in-an-email-program}
 
 전자 메일 프로그램을 실행할 때 [관리자 수준의 통신 제한](/help/marketo/product-docs/administration/email-setup/enable-communication-limits.md)을 무시하거나 준수하도록 선택할 수 있습니다. 방법은 다음과 같습니다.
 

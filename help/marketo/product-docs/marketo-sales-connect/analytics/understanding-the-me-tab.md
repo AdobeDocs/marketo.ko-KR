@@ -4,7 +4,7 @@ description: '[!UICONTROL Me] 탭 이해 - Marketo 문서 - 제품 설명서'
 title: '[!UICONTROL Me] 탭 이해'
 exl-id: 5ae0e091-e315-4182-81d3-134113c8288f
 feature: Marketo Sales Connect
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '87'
 ht-degree: 0%

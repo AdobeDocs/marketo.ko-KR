@@ -3,14 +3,14 @@ unique-page-id: 14745959
 description: 릴리스 노트 - 2018년 봄 - Marketo 문서 - 제품 설명서
 title: 릴리스 노트 - 2018년 봄
 exl-id: 59bab3a9-12b3-4c87-b035-a7cde63ada1e
-source-git-commit: 2b72932606a93d061eb2f57c0ff3256b94a0c20c
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '455'
-ht-degree: 0%
+ht-degree: 1%
 
 ---
 
-# 릴리스 노트: 2018년 봄 {#release-notes-spring}
+# 릴리스 정보: 2018년 봄 {#release-notes-spring}
 
 다음 기능은 18년 봄 릴리스에 포함되어 있습니다. Marketo 버전에서 사용 가능한 기능이 있는지 확인하십시오.
 

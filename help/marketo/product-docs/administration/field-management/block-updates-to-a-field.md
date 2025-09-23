@@ -1,33 +1,33 @@
 ---
 unique-page-id: 2360291
 description: 필드 업데이트 차단 - Marketo 문서 - 제품 설명서
-title: 필드에 대한 업데이트 차단
+title: 필드에 대한 블록 업데이트
 exl-id: 763097a3-cfa0-4df7-bfd1-40332b8dda1e
 feature: Field Management
-source-git-commit: 02b2e39580c5eac63de4b4b7fdaf2a835fdd4ba5
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
-source-wordcount: '171'
-ht-degree: 0%
+source-wordcount: '158'
+ht-degree: 9%
 
 ---
 
-# 필드에 대한 업데이트 차단 {#block-updates-to-a-field}
+# 필드에 대한 블록 업데이트 {#block-updates-to-a-field}
 
-필드 업데이트를 차단하면 필드에 한 번 쓴 다음 필드의 수명 동안 원래 값을 유지할 수 있습니다. 이 기능은 [!UICONTROL 개인 Source]와 같은 필드에 유용합니다.
+필드 업데이트를 차단하면 필드에 한 번 쓴 다음 필드의 수명 동안 원래 값을 유지할 수 있습니다. [!UICONTROL Person Source]과(와) 같은 필드에 유용할 수 있습니다.
 
 >[!NOTE]
 >
 >**관리자 권한 필요**
 
-1. **[!UICONTROL 관리자]** 영역으로 이동합니다.
+1. **[!UICONTROL Admin]** 영역으로 이동합니다.
 
    ![](assets/block-updates-to-a-field-1.png)
 
-1. **[!UICONTROL 필드 관리]**&#x200B;를 클릭합니다.
+1. **[!UICONTROL Field Management]**&#x200B;를 클릭합니다.
 
    ![](assets/block-updates-to-a-field-2.png)
 
-1. 필드를 찾아 선택한 다음 **[!UICONTROL 필드 작업]**&#x200B;에서 **[!UICONTROL 필드 업데이트 차단]**&#x200B;을 클릭합니다.
+1. 필드를 찾아 선택한 다음 **[!UICONTROL Field Actions]**&#x200B;에서 **[!UICONTROL Block Field Updates]**&#x200B;을(를) 클릭합니다.
 
    ![](assets/block-updates-to-a-field-3.png)
 
@@ -35,7 +35,7 @@ ht-degree: 0%
    >
    >[프로그램 구성원 사용자 지정 필드](/help/marketo/product-docs/core-marketo-concepts/programs/working-with-programs/program-member-custom-fields.md)에 대한 업데이트도 차단할 수 있습니다.
 
-1. 차단할 **[!UICONTROL 입력 원본]**&#x200B;을 선택하고 **[!UICONTROL 적용]**&#x200B;을 클릭합니다.
+1. 차단할 **[!UICONTROL Input Sources]**&#x200B;을(를) 선택하고 **[!UICONTROL Apply]**&#x200B;을(를) 클릭합니다.
 
    ![](assets/block-updates-to-a-field-4.png)
 

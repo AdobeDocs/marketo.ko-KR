@@ -4,10 +4,10 @@ description: 스마트 목록 구독 편집 - Marketo 문서 - 제품 설명서
 title: 스마트 목록 구독 편집
 exl-id: f745c887-c8f8-44bc-a0fe-da0669155ef9
 feature: Reporting
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '182'
-ht-degree: 1%
+ht-degree: 6%
 
 ---
 
@@ -37,7 +37,7 @@ ht-degree: 1%
 
    ![](assets/image2015-9-14-10-3a30-3a37.png)
 
-1. **[!UICONTROL Columns]** 열을 열고 선택기를 사용하여 보고서에서 열을 추가하거나 제거합니다. 보고서 열에는 사용 가능한 모든 열이 포함되어 있으며 Marketo 열에는 보고서에 표시하기 위해 선택한 열만 표시됩니다. **[!UICONTROL Save]**&#x200B;을(를) 클릭합니다.
+1. **[!UICONTROL Columns]** 열을 열고 선택기를 사용하여 보고서에서 열을 추가하거나 제거합니다. 보고서 열에는 사용 가능한 모든 열이 포함되어 있으며 Marketo 열에는 보고서에 표시하기 위해 선택한 열만 표시됩니다. **[!UICONTROL Save]**&#x200B;를 클릭합니다.
 
    ![](assets/image2015-9-14-10-3a59-3a6.png)
 
@@ -45,7 +45,7 @@ ht-degree: 1%
    >
    >Marketo 열 아래의 열은 구독 보고서 탭에 사용되는 열이 아닌 보고서 열입니다.
 
-1. 종료 날짜를 편집하려면 **[!UICONTROL End Date]** 열을 클릭하십시오. **[!UICONTROL Never]** 또는 **[!UICONTROL Date]**&#x200B;을(를) 선택하십시오. 날짜의 경우 해당 날짜를 입력하거나 달력에서 선택합니다. **[!UICONTROL Approve]**&#x200B;을(를) 클릭합니다.
+1. 종료 날짜를 편집하려면 **[!UICONTROL End Date]** 열을 클릭하십시오. **[!UICONTROL Never]** 또는 **[!UICONTROL Date]**&#x200B;을(를) 선택하십시오. 날짜의 경우 해당 날짜를 입력하거나 달력에서 선택합니다. **[!UICONTROL Approve]**&#x200B;를 클릭합니다.
 
    ![](assets/image2015-9-14-11-3a6-3a38.png)
 

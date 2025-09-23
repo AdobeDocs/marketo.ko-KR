@@ -1,17 +1,17 @@
 ---
 unique-page-id: 12978906
 description: 웹 캠페인 표시 방법 설정 - Marketo 문서 - 제품 설명서
-title: 웹 캠페인이 표시되는 방식 설정
+title: 웹 캠페인 표시 방법 설정
 exl-id: fa0f2421-9536-4a3a-a28b-4f5b1b58ed56
 feature: Web Personalization
-source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '192'
-ht-degree: 0%
+ht-degree: 14%
 
 ---
 
-# 웹 캠페인이 표시되는 방식 설정 {#set-how-your-web-campaign-displays}
+# 웹 캠페인 표시 방법 설정 {#set-how-your-web-campaign-displays}
 
 웹 캠페인이 표시되는 시기/방법과 관련하여 활용할 수 있는 방법에는 몇 가지가 있습니다.
 
@@ -25,7 +25,7 @@ ht-degree: 0%
 
 웹 캠페인이 웹 사이트에서 반응할 시간 지연(총 초)을 지정합니다.
 
-1. **[!UICONTROL Display On]** 드롭다운을 클릭하고 **[!UICONTROL Delay]**&#x200B;을(를) 선택합니다.
+1. **[!UICONTROL Display On]** 드롭다운을 클릭하고 **[!UICONTROL Delay]**&#x200B;를 선택합니다.
 
    ![](assets/d1.png)
 
@@ -35,7 +35,7 @@ ht-degree: 0%
 
 ## 스크롤 {#scroll}
 
-1. **[!UICONTROL Display On]** 드롭다운을 클릭하고 **[!UICONTROL Scroll]**&#x200B;을(를) 선택합니다.
+1. **[!UICONTROL Display On]** 드롭다운을 클릭하고 **[!UICONTROL Scroll]**&#x200B;를 선택합니다.
 
    ![](assets/s1.png)
 
@@ -64,7 +64,7 @@ ht-degree: 0%
 
 종료 의도는 마우스 커서가 브라우저를 종료할 때 웹 캠페인을 표시합니다.
 
-1. **[!UICONTROL Display On]** 드롭다운을 클릭하고 **[!UICONTROL Exit Intent]**&#x200B;을(를) 선택합니다.
+1. **[!UICONTROL Display On]** 드롭다운을 클릭하고 **[!UICONTROL Exit Intent]**&#x200B;를 선택합니다.
 
    ![](assets/ei1.png)
 

@@ -4,14 +4,14 @@ description: 릴리스 노트 - 2016년 봄 - Marketo 문서 - 제품 설명서
 title: 릴리스 노트 - 2016년 봄
 exl-id: 0ca26acf-2ac2-418e-bc4e-9820f483fa71
 feature: Release Information
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '786'
 ht-degree: 0%
 
 ---
 
-# 릴리스 노트: 2016년 봄 {#release-notes-spring}
+# 릴리스 정보: 2016년 봄 {#release-notes-spring}
 
 2016년 봄 릴리스에는 다음 기능이 포함되어 있습니다. 각 기능에 대한 자세한 문서를 보려면 제목 링크를 클릭하십시오.
 

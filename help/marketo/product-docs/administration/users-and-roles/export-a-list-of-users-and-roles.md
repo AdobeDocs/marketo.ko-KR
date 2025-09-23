@@ -4,10 +4,10 @@ description: 사용자 및 역할 목록 내보내기 - Marketo 문서 - 제품 
 title: 사용자 및 역할 목록 내보내기
 exl-id: dd3c5372-4c34-438c-8f47-34ae2d14db24
 feature: Users and Roles
-source-git-commit: 02b2e39580c5eac63de4b4b7fdaf2a835fdd4ba5
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
-source-wordcount: '85'
-ht-degree: 0%
+source-wordcount: '80'
+ht-degree: 21%
 
 ---
 
@@ -19,11 +19,11 @@ ht-degree: 0%
 
 사용자 및 사용자 역할의 전체 목록을 내보내는 것은 매우 쉽습니다. 방법은 다음과 같습니다.
 
-1. **[!UICONTROL 관리자]**(으)로 이동합니다.
+1. **[!UICONTROL Admin]**(으)로 이동합니다.
 
    ![](assets/export-a-list-of-users-and-roles-1.png)
 
-1. **[!UICONTROL 사용자 및 역할]**&#x200B;을 클릭합니다.
+1. **[!UICONTROL Users & Roles]**&#x200B;를 클릭합니다.
 
    ![](assets/export-a-list-of-users-and-roles-2.png)
 
@@ -31,11 +31,11 @@ ht-degree: 0%
 
    >[!TIP]
    >
-   >역할을 내보내려면 먼저 **[!UICONTROL 역할]** 탭으로 이동한 다음 내보내십시오.
+   >역할을 내보내려면 먼저 **[!UICONTROL Roles]** 탭으로 이동한 다음 내보냅니다.
 
    ![](assets/export-a-list-of-users-and-roles-3.png)
 
-1. **[!UICONTROL 내보내기]** 아이콘을 클릭합니다.
+1. **[!UICONTROL Export]** 아이콘을 클릭합니다.
 
    ![](assets/export-a-list-of-users-and-roles-4.png)
 

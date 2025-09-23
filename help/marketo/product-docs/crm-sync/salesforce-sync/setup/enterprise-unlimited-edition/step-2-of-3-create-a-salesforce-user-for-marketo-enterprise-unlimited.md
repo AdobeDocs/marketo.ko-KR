@@ -4,7 +4,7 @@ description: 3단계 중 2단계 - Marketo용 Salesforce 사용자 만들기(Ent
 title: 2/3단계 - Marketo용 Salesforce 사용자 만들기(Enterprise/Unlimited)
 exl-id: 871f335c-7b1e-47e1-8320-a18fbf21a970
 feature: Salesforce Integration
-source-git-commit: 21bcdc10fe1f3517612efe0f8e2adaf2f4411a70
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '351'
 ht-degree: 2%
@@ -25,7 +25,7 @@ ht-degree: 2%
 
 ## 프로필 만들기 {#create-a-profile}
 
-1. **[!UICONTROL Setup]**&#x200B;을(를) 클릭합니다.
+1. **[!UICONTROL Setup]**&#x200B;를 클릭합니다.
 
    ![](assets/image2015-6-11-16-3a15-3a27.png)
 

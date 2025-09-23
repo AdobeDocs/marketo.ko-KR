@@ -4,10 +4,10 @@ description: SEO - 경쟁업체 추가 - Marketo 문서 - 제품 설명서
 title: SEO - 경쟁업체 추가
 exl-id: 62ef754d-840e-4094-9b98-d2a472523f03
 feature: SEO
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
-source-wordcount: '74'
-ht-degree: 0%
+source-wordcount: '68'
+ht-degree: 16%
 
 ---
 
@@ -19,19 +19,19 @@ ht-degree: 0%
 >
 >**관리자 권한 필요**
 
-1. **[!UICONTROL 관리자]** 영역으로 이동합니다.
+1. **[!UICONTROL Admin]** 영역으로 이동합니다.
 
    ![](assets/image2014-9-17-21-3a12-3a15.png)
 
-1. **[!UICONTROL 경쟁업체]** 탭을 클릭합니다.
+1. **[!UICONTROL Competitors]** 탭을 클릭합니다.
 
    ![](assets/image2014-9-17-21-3a12-3a31.png)
 
-1. **[!UICONTROL 경쟁업체 추가]**&#x200B;를 클릭합니다.
+1. **[!UICONTROL Add Competitor]**&#x200B;를 클릭합니다.
 
    ![](assets/image2014-9-17-21-3a12-3a38.png)
 
-1. 경쟁업체의 **[!UICONTROL 이름]** 및 **[!UICONTROL URL]**&#x200B;을(를) 입력하십시오.
+1. 경쟁업체의 **[!UICONTROL Name]** 및 **[!UICONTROL URL]**&#x200B;을(를) 입력하십시오.
 
    ![](assets/image2014-9-17-21-3a13-3a5.png)
 

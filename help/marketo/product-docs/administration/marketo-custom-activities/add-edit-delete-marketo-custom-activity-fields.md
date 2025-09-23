@@ -1,17 +1,17 @@
 ---
 unique-page-id: 10100275
 description: Marketo 사용자 지정 활동 필드 추가/편집/삭제 - Marketo 문서 - 제품 설명서
-title: Marketo 사용자 지정 활동 필드 추가/편집/삭제
+title: Marketo 사용자 정의 활동 필드 추가/편집/삭제
 exl-id: cd47f21d-c1d1-4abc-85f8-7823b28cd98a
 feature: Custom Activities
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '262'
-ht-degree: 3%
+ht-degree: 14%
 
 ---
 
-# Marketo 사용자 지정 활동 필드 추가/편집/삭제 {#add-edit-delete-marketo-custom-activity-fields}
+# Marketo 사용자 정의 활동 필드 추가/편집/삭제 {#add-edit-delete-marketo-custom-activity-fields}
 
 사용자 지정 활동 필드를 추가, 변경 또는 제거해야 할 수 있습니다. 방법은 다음과 같습니다.
 
@@ -21,11 +21,11 @@ ht-degree: 3%
 
    ![](assets/add-edit-delete-marketo-custom-activity-fields-1.png)
 
-1. **[!UICONTROL Marketo Custom Activities]**&#x200B;을(를) 클릭합니다.
+1. **[!UICONTROL Marketo Custom Activities]**&#x200B;를 클릭합니다.
 
    ![](assets/add-edit-delete-marketo-custom-activity-fields-2.png)
 
-1. **[!UICONTROL Fields]**&#x200B;을(를) 클릭합니다.
+1. **[!UICONTROL Fields]**&#x200B;를 클릭합니다.
 
    ![](assets/add-edit-delete-marketo-custom-activity-fields-3.png)
 
@@ -33,7 +33,7 @@ ht-degree: 3%
 
    ![](assets/add-edit-delete-marketo-custom-activity-fields-4.png)
 
-1. **[!UICONTROL New Field]**&#x200B;을(를) 클릭합니다.
+1. **[!UICONTROL New Field]**&#x200B;를 클릭합니다.
 
    ![](assets/add-edit-delete-marketo-custom-activity-fields-5.png)
 
@@ -57,11 +57,11 @@ ht-degree: 3%
 
    ![](assets/add-edit-delete-marketo-custom-activity-fields-8.png)
 
-1. **[!UICONTROL Marketo Custom Activities]**&#x200B;을(를) 클릭합니다.
+1. **[!UICONTROL Marketo Custom Activities]**&#x200B;를 클릭합니다.
 
    ![](assets/add-edit-delete-marketo-custom-activity-fields-9.png)
 
-1. **[!UICONTROL Fields]**&#x200B;을(를) 클릭합니다.
+1. **[!UICONTROL Fields]**&#x200B;를 클릭합니다.
 
    ![](assets/add-edit-delete-marketo-custom-activity-fields-10.png)
 
@@ -101,11 +101,11 @@ ht-degree: 3%
 
    ![](assets/add-edit-delete-marketo-custom-activity-fields-15.png)
 
-1. **[!UICONTROL Marketo Custom Activities]**&#x200B;을(를) 클릭합니다.
+1. **[!UICONTROL Marketo Custom Activities]**&#x200B;를 클릭합니다.
 
    ![](assets/add-edit-delete-marketo-custom-activity-fields-16.png)
 
-1. **[!UICONTROL Fields]**&#x200B;을(를) 클릭합니다.
+1. **[!UICONTROL Fields]**&#x200B;를 클릭합니다.
 
    ![](assets/add-edit-delete-marketo-custom-activity-fields-17.png)
 

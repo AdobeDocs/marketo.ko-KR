@@ -1,17 +1,17 @@
 ---
 unique-page-id: 2360418
 description: 수익 단계별 인원 보고서 - Marketo 문서 - 제품 설명서
-title: 수익 단계별 인력 보고서
+title: 수익 단계별 사용자 보고서
 exl-id: 1f3d605d-fa0d-4ec8-b7d6-bfd8dac93609
 feature: Reporting, Revenue Cycle Analytics
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '124'
-ht-degree: 0%
+ht-degree: 12%
 
 ---
 
-# 수익 단계별 인력 보고서 {#people-by-revenue-stage-report}
+# 수익 단계별 사용자 보고서 {#people-by-revenue-stage-report}
 
 직원들이 속한 수익 주기 모델의 단계를 보여주는 보고서를 만들 수 있습니다. 보고서의 지정된 날짜 범위에 대한 개인 누계가 있는 한 보고서에는 지정된 모델의 단계가 포함됩니다.
 

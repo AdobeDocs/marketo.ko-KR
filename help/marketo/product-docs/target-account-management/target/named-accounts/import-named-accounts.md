@@ -4,10 +4,10 @@ description: '[!UICONTROL Named Accounts] 가져오기 - Marketo 문서 - 제품
 title: '[!UICONTROL Named Accounts] 가져오기'
 exl-id: 3f40e567-9256-4efd-beea-4e818770759f
 feature: Target Account Management
-source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '440'
-ht-degree: 0%
+ht-degree: 2%
 
 ---
 
@@ -15,7 +15,7 @@ ht-degree: 0%
 
 CSV에 잠재적 대상 계정이 이미 가득 찼습니까? TAM으로 바로 가져옵니다!
 
-1. **[!UICONTROL New]** 드롭다운을 클릭하고 **[!UICONTROL Import Named Accounts]**&#x200B;을(를) 선택합니다.
+1. **[!UICONTROL New]** 드롭다운을 클릭하고 **[!UICONTROL Import Named Accounts]**&#x200B;를 선택합니다.
 
    ![](assets/inaone.png)
 
@@ -27,7 +27,7 @@ CSV에 잠재적 대상 계정이 이미 가득 찼습니까? TAM으로 바로 �
    >
    >파일에서 [가능한 많은 정보](/help/marketo/product-docs/target-account-management/target/named-accounts/named-account-overview.md#named-account-attributes)를 제공하세요. 그래픽 정보만 추가할 수 있습니다. Marketo에서 계산하는 것은 없습니다(즉, 파이프라인). CRM 계정을 기반으로 명명된 계정을 만들려면 계정 이름과 CRM의 CRM ID를 CSV 파일로 내보내고, 계정 이름 옵션을 사용하여 가져오기 프로세스 중에 CRM ID를 매핑하면 됩니다. CRM 계정을 명명된 계정에 올바르게 연결하려면 CRM 계정의 정확한 이름을 제공해야 합니다.
 
-1. 계정 이름 또는 도메인 이름, 두 가지 중복 제거 모드 중에서 선택합니다. 이 예제에서는 계정을 선택합니다. **[!UICONTROL Modes]** 드롭다운을 클릭하고 **[!UICONTROL By Account Name]**&#x200B;을(를) 선택합니다.
+1. 계정 이름 또는 도메인 이름, 두 가지 중복 제거 모드 중에서 선택합니다. 이 예제에서는 계정을 선택합니다. **[!UICONTROL Modes]** 드롭다운을 클릭하고 **[!UICONTROL By Account Name]**&#x200B;를 선택합니다.
 
    ![](assets/inathree.png)
 
@@ -47,7 +47,7 @@ CSV에 잠재적 대상 계정이 이미 가득 찼습니까? TAM으로 바로 �
 
    ![](assets/inafive-2.png)
 
-1. **[!UICONTROL Next]**&#x200B;을(를) 클릭합니다.
+1. **[!UICONTROL Next]**&#x200B;를 클릭합니다.
 
    ![](assets/inasix-2.png)
 

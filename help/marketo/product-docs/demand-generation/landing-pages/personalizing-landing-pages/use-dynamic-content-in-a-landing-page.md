@@ -4,10 +4,10 @@ description: 랜딩 페이지에서 동적 콘텐츠 사용 - Marketo 문서 - �
 title: 랜딩 페이지에서 동적 콘텐츠 사용
 exl-id: 9f71473b-1805-43ab-b2d7-e4f9854f1944
 feature: Landing Pages
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '178'
-ht-degree: 0%
+ht-degree: 8%
 
 ---
 
@@ -31,7 +31,7 @@ ht-degree: 0%
 
    ![](assets/landingpageeditdraft.jpg)
 
-   **[!UICONTROL Segment By]**&#x200B;을(를) 클릭합니다.
+   **[!UICONTROL Segment By]**&#x200B;를 클릭합니다.
 
    ![](assets/image2015-5-21-12-3a31-3a20.png)
 

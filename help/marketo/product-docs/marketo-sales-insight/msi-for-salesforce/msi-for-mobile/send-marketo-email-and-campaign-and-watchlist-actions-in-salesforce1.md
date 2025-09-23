@@ -4,10 +4,10 @@ description: Salesforce1에서 Marketo 이메일, 캠페인 및 관심 목록 �
 title: Salesforce1에서 Marketo 이메일, 캠페인 및 관심 목록 작업 보내기
 exl-id: 055754b1-4803-4ca6-aa3f-474175daad1a
 feature: Marketo Sales Insights
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '153'
-ht-degree: 0%
+ht-degree: 7%
 
 ---
 

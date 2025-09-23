@@ -1,17 +1,17 @@
 ---
 unique-page-id: 1147138
 description: 일정 보기 - Marketo 문서 - 제품 설명서에서 전체 프로그램 일정 조정
-title: 스케줄 뷰에서 전체 프로그램 스케줄 조정
+title: 일정 보기에서 전체 프로그램 일정 변경
 exl-id: 3debeff2-67ce-4b59-be5b-ce8cc198f4a0
 feature: Programs
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '118'
-ht-degree: 0%
+ht-degree: 16%
 
 ---
 
-# 스케줄 뷰에서 전체 프로그램 스케줄 조정 {#rescheduling-an-entire-program-from-the-schedule-view}
+# 일정 보기에서 전체 프로그램 일정 변경 {#rescheduling-an-entire-program-from-the-schedule-view}
 
 날짜가 있는 프로그램 또는 이벤트를 복제할 때는 모든 날짜를 한 번에 다시 예약해야 합니다. 방법은 다음과 같습니다.
 
@@ -31,7 +31,7 @@ ht-degree: 0%
 
    ![](assets/image2014-9-23-15-3a18-3a37.png)
 
-1. **[!UICONTROL Reschedule]**&#x200B;을(를) 클릭합니다.
+1. **[!UICONTROL Reschedule]**&#x200B;를 클릭합니다.
 
    ![](assets/image2014-9-23-15-3a18-3a54.png)
 

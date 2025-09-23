@@ -1,15 +1,15 @@
 ---
 description: Salesforce - Marketo 문서 - 제품 설명서에서 판매 이메일 대량 보내기
-title: Salesforce에서 판매 이메일 대량 보내기 사용
+title: Salesforce에서 일괄 세일즈 이메일 전송 사용
 exl-id: 4886109d-c2b8-4186-922b-8a15cf1e742e
-source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '596'
-ht-degree: 0%
+ht-degree: 2%
 
 ---
 
-# Salesforce에서 판매 이메일 대량 보내기 사용 {#using-bulk-send-sales-email-in-salesforce}
+# Salesforce에서 일괄 세일즈 이메일 전송 사용 {#using-bulk-send-sales-email-in-salesforce}
 
 영업 액션을 사용하여 아웃바운드 커뮤니케이션을 확장하는 데 도움이 되도록 Salesforce에서 대량 이메일을 보내는 방법에 대해 알아봅니다.
 

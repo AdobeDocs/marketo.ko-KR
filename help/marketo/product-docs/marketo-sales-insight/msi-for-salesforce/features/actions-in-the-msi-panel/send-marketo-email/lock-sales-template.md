@@ -1,17 +1,17 @@
 ---
 unique-page-id: 12981050
 description: 판매 템플릿 잠금 - Marketo 문서 - 제품 설명서
-title: 판매 템플릿 잠금
+title: 세일즈 템플릿 잠금
 exl-id: 005dde5d-ed60-444b-b7a3-b91be72a0151
 feature: Marketo Sales Insights
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '183'
-ht-degree: 1%
+ht-degree: 4%
 
 ---
 
-# 판매 템플릿 잠금 {#lock-sales-template}
+# 세일즈 템플릿 잠금 {#lock-sales-template}
 
 CRM 사용자가 판매 템플릿을 편집할 수 없도록 하기 위해 관리자는 템플릿을 잠글 수 있는 기능을 활성화하여 사용자가 이메일 편집기에서 개별적으로 템플릿을 잠글 수 있습니다.
 
@@ -33,7 +33,7 @@ CRM 사용자가 판매 템플릿을 편집할 수 없도록 하기 위해 관�
 
    ![](assets/2.png)
 
-1. **[!UICONTROL Enable ability to lock templates]** 확인. **[!UICONTROL Save]**&#x200B;을(를) 클릭합니다.
+1. **[!UICONTROL Enable ability to lock templates]** 확인. **[!UICONTROL Save]**&#x200B;를 클릭합니다.
 
    ![](assets/image2017-10-9-8-3a19-3a45.png)
 
@@ -55,7 +55,7 @@ CRM 사용자가 판매 템플릿을 편집할 수 없도록 하기 위해 관�
 
    ![](assets/6.png)
 
-1. 아직 확인하지 않은 경우 **[!UICONTROL Publish to Marketo Sales Insight]**&#x200B;을(를) 확인합니다. 이제 **[!UICONTROL Allow CRM user to edit email]**&#x200B;의 선택을 취소하여 템플릿을 잠글 수 있습니다. **[!UICONTROL Save]**&#x200B;을(를) 클릭합니다.
+1. 아직 확인하지 않은 경우 **[!UICONTROL Publish to Marketo Sales Insight]**&#x200B;을(를) 확인합니다. 이제 **[!UICONTROL Allow CRM user to edit email]**&#x200B;의 선택을 취소하여 템플릿을 잠글 수 있습니다. **[!UICONTROL Save]**&#x200B;를 클릭합니다.
 
    ![](assets/7.png)
 

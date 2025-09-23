@@ -2,8 +2,8 @@
 unique-page-id: 1147279
 description: 제품 설명서 - Marketo 설명서 - 제품 설명서
 title: 제품 설명서
-source-git-commit: 21bcdc10fe1f3517612efe0f8e2adaf2f4411a70
-workflow-type: ht
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+workflow-type: tm+mt
 source-wordcount: '154'
 ht-degree: 100%
 

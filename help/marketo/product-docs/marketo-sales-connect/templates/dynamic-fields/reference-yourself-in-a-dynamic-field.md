@@ -1,17 +1,17 @@
 ---
 unique-page-id: 14352601
 description: 동적 필드 - Marketo 문서 - 제품 설명서에서 자신을 참조합니다.
-title: 동적 필드에서 자기 자신을 참조합니다.
+title: 동적 필드에서 자체 참조
 exl-id: 89d5ad5e-e699-451c-b399-f3cc7f554100
 feature: Marketo Sales Connect
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '79'
-ht-degree: 0%
+ht-degree: 15%
 
 ---
 
-# 동적 필드에서 자기 자신을 참조합니다. {#reference-yourself-in-a-dynamic-field}
+# 동적 필드에서 자체 참조 {#reference-yourself-in-a-dynamic-field}
 
 동적 필드는 편지 병합의 형식입니다.
 

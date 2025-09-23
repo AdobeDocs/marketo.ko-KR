@@ -1,16 +1,16 @@
 ---
 description: OA-YYYY-MM-Online Advertising Marketo 랜딩 페이지 - Marketo 문서 - 제품 설명서
-title: OA-YYYY-MM-Online Advertising Marketo 랜딩 페이지
+title: OA-YYYY-MM-온라인 광고 Marketo 랜딩 페이지
 feature: Programs
 exl-id: f7f17792-cc16-4a99-8683-68796770e42c
-source-git-commit: 21bcdc10fe1f3517612efe0f8e2adaf2f4411a70
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '485'
-ht-degree: 5%
+ht-degree: 8%
 
 ---
 
-# OA-YYYY-MM-Online Advertising Marketo 랜딩 페이지 {#oa-yyyy-mm-online-advertising-marketo-landing-page}
+# OA-YYYY-MM-온라인 광고 Marketo 랜딩 페이지 {#oa-yyyy-mm-online-advertising-marketo-landing-page}
 
 이는 등록 양식이 있는 Marketo 랜딩 페이지를 포함하고 Marketo 기본 프로그램을 활용하는 온라인 광고 추적 프로그램의 예입니다. 오퍼에 대한 링크는 감사 인사 페이지에 표시하거나, 감사 인사 전자 메일로 전송하거나, 둘 다에 표시할 수 있습니다.
 

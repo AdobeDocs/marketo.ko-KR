@@ -4,10 +4,10 @@ description: 내 토큰 관리 - Marketo 문서 - 제품 설명서
 title: 내 토큰 관리
 exl-id: a2e70c17-a8d4-4723-ac7c-da1979828dc9
 feature: Tokens
-source-git-commit: f21d9356f00f8ea50819b591d15ca06d61256d8b
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '197'
-ht-degree: 1%
+ht-degree: 4%
 
 ---
 
@@ -37,7 +37,7 @@ ht-degree: 1%
 
    ![](assets/create-a-local-my-token-3.png)
 
-1. **[!UICONTROL Save]**&#x200B;을(를) 클릭합니다.
+1. **[!UICONTROL Save]**&#x200B;를 클릭합니다.
 
    ![](assets/create-a-local-my-token-4.png)
 
@@ -59,7 +59,7 @@ ht-degree: 1%
 
    ![](assets/create-a-global-my-token-3.png)
 
-1. **[!UICONTROL Save]**&#x200B;을(를) 클릭합니다.
+1. **[!UICONTROL Save]**&#x200B;를 클릭합니다.
 
    ![](assets/create-a-global-my-token-4.png)
 
@@ -85,7 +85,7 @@ ht-degree: 1%
 
    ![](assets/delete-a-my-token-1.png)
 
-1. **[!UICONTROL Delete]**&#x200B;을(를) 클릭합니다.
+1. **[!UICONTROL Delete]**&#x200B;를 클릭합니다.
 
    ![](assets/delete-a-my-token-2.png)
 

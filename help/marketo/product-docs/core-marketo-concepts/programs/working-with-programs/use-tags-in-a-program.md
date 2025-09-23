@@ -4,10 +4,10 @@ description: 프로그램에서 태그 사용 - Marketo 문서 - 제품 설명�
 title: 프로그램에서 태그 사용
 exl-id: f1bae623-a710-472a-a30f-9044ce1001f5
 feature: Programs
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '156'
-ht-degree: 3%
+ht-degree: 10%
 
 ---
 
@@ -21,7 +21,7 @@ ht-degree: 3%
 
 ## 프로그램에서 태그 사용 {#use-a-tag-in-a-program}
 
-1. 프로그램을 선택합니다. **[!UICONTROL Setup]**&#x200B;을(를) 클릭합니다.
+1. 프로그램을 선택합니다. **[!UICONTROL Setup]**&#x200B;를 클릭합니다.
 
    ![](assets/use-tags-in-a-program-1.png)
 
@@ -33,7 +33,7 @@ ht-degree: 3%
 
    ![](assets/use-tags-in-a-program-3.png)
 
-1. **[!UICONTROL Save]**&#x200B;을(를) 클릭합니다.
+1. **[!UICONTROL Save]**&#x200B;를 클릭합니다.
 
    ![](assets/use-tags-in-a-program-4.png)
 
@@ -51,7 +51,7 @@ ht-degree: 3%
 
    ![](assets/use-tags-in-a-program-7.png)
 
-1. **[!UICONTROL Save]**&#x200B;을(를) 클릭합니다.
+1. **[!UICONTROL Save]**&#x200B;를 클릭합니다.
 
    ![](assets/use-tags-in-a-program-8.png)
 

@@ -1,17 +1,17 @@
 ---
 unique-page-id: 2360205
 description: 작업 영역 간 모델 공유 - Marketo 문서 - 제품 설명서
-title: 작업 영역에서 모델 공유
+title: 작업 영역 전체에서 모델 공유
 exl-id: 3a118f63-a97d-432a-a50c-3e08d934405e
 feature: Reporting
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '105'
-ht-degree: 0%
+ht-degree: 11%
 
 ---
 
-# 작업 영역에서 모델 공유 {#share-a-model-across-workspaces}
+# 작업 영역 전체에서 모델 공유 {#share-a-model-across-workspaces}
 
 Marketo은 작업 영역에서 모델을 공유할 수 있는 기능을 제공합니다. 방법은 다음과 같습니다.
 

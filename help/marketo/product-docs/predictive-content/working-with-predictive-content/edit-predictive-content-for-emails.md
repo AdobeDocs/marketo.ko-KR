@@ -1,17 +1,17 @@
 ---
 unique-page-id: 11385938
 description: 이메일에 대한 예측 콘텐츠 편집 - Marketo 문서 - 제품 설명서
-title: 이메일에 대한 예측 콘텐츠 편집
+title: 이메일의 예측 콘텐츠 편집
 exl-id: 6f3e4e32-0318-4981-b2e9-796c3d001614
 feature: Predictive Content
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '228'
-ht-degree: 0%
+ht-degree: 4%
 
 ---
 
-# 이메일에 대한 예측 콘텐츠 편집 {#edit-predictive-content-for-emails}
+# 이메일의 예측 콘텐츠 편집 {#edit-predictive-content-for-emails}
 
 이메일에 대한 예측 콘텐츠를 설정하는 방법은 다음과 같습니다.
 
@@ -68,7 +68,7 @@ ht-degree: 0%
 
    ![](assets/nine.png)
 
-1. **[!UICONTROL Save]**&#x200B;을(를) 클릭합니다.
+1. **[!UICONTROL Save]**&#x200B;를 클릭합니다.
 
    ![](assets/save.png)
 

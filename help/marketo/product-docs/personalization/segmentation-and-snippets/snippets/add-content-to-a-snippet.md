@@ -1,17 +1,17 @@
 ---
 unique-page-id: 2359496
 description: 코드 조각에 컨텐츠 추가 - Marketo 문서 - 제품 설명서
-title: 코드 조각에 콘텐츠 추가
+title: 스니펫에 콘텐츠 추가
 exl-id: b8be61ea-016d-4aab-b1b7-a43d699c3bfe
 feature: Snippets
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '183'
-ht-degree: 0%
+ht-degree: 6%
 
 ---
 
-# 코드 조각에 콘텐츠 추가 {#add-content-to-a-snippet}
+# 스니펫에 콘텐츠 추가 {#add-content-to-a-snippet}
 
 >[!PREREQUISITES]
 >
@@ -75,7 +75,7 @@ ht-degree: 0%
 
    ![](assets/image2014-9-16-9-3a35-3a51.png)
 
-1. **[!UICONTROL Copy from HTML]**&#x200B;을(를) 클릭합니다.
+1. **[!UICONTROL Copy from HTML]**&#x200B;를 클릭합니다.
 
    ![](assets/image2014-9-16-9-3a35-3a59.png)
 

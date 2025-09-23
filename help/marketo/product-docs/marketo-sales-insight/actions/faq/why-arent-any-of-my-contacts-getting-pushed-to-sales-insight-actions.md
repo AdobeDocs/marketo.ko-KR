@@ -1,12 +1,12 @@
 ---
-description: 내 연락처 중 영업 Insight 작업에 푸시되는 사람이 없는 이유는 무엇입니까? - Marketo 문서 - 제품 설명서
-title: 내 연락처 중 영업 Insight 작업에 푸시되는 사람이 없는 이유는 무엇입니까?
+description: 내 연락처 중 영업 Insight 작업에 푸시되는 사람이 없는 이유는 무엇입니까? - Marketo 설명서 - 제품 설명서
+title: 내 연락처가 Sales Insight Actions로 푸시되지 않는 이유는 무엇입니까?
 exl-id: 04087f45-eae8-4785-8f81-f3275f4e2d73
 feature: Sales Insight Actions
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '81'
-ht-degree: 0%
+ht-degree: 19%
 
 ---
 

@@ -4,10 +4,10 @@ description: 기본 보고서 구독 - Marketo 문서 - 제품 설명서
 title: 기본 보고서 구독
 exl-id: d2550578-e576-44e6-ae56-43563f8d3d45
 feature: Reporting
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '119'
-ht-degree: 2%
+ht-degree: 14%
 
 ---
 
@@ -31,7 +31,7 @@ ht-degree: 2%
    >
    >**[!UICONTROL Analytics]** 탭에서 보고서를 구독할 수도 있습니다.
 
-1. **[!UICONTROL New Report Subscription]**&#x200B;을(를) 클릭합니다.
+1. **[!UICONTROL New Report Subscription]**&#x200B;를 클릭합니다.
 
    ![](assets/image2014-9-16-10-3a32-3a24.png)
 

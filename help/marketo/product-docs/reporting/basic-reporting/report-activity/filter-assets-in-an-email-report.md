@@ -1,17 +1,17 @@
 ---
 unique-page-id: 2360225
 description: 이메일 보고서에서 Assets 필터링 - Marketo 문서 - 제품 설명서
-title: 이메일 보고서에서 Assets 필터링
+title: 이메일 보고서에서 자산 필터링
 exl-id: c242e566-94d0-4e20-ba81-13a8f8f0b8a9
 feature: Reporting
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '164'
-ht-degree: 0%
+ht-degree: 7%
 
 ---
 
-# 이메일 보고서에서 Assets 필터링 {#filter-assets-in-an-email-report}
+# 이메일 보고서에서 자산 필터링 {#filter-assets-in-an-email-report}
 
 [전자 메일 성능](/help/marketo/product-docs/email-marketing/email-programs/email-program-data/email-performance-report.md) 또는 [전자 메일 링크 성능](/help/marketo/product-docs/email-marketing/email-programs/email-program-data/email-link-performance-report.md) 보고서를 프로그램의 전자 메일(&#39;로컬 자산&#39;), Design Studio의 전자 메일(&#39;전역 자산&#39;) 또는 보관된 전자 메일에 집중하십시오.
 

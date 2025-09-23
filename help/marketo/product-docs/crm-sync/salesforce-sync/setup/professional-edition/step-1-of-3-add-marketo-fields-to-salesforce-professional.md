@@ -4,10 +4,10 @@ description: 3단계 중 1단계 - Salesforce에 Marketo 필드 추가(Professio
 title: 1/3단계 - Salesforce에 Marketo 필드 추가(Professional)
 exl-id: 1b52825e-201d-4b55-8edf-444b1653d591
 feature: Salesforce Integration
-source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '722'
-ht-degree: 8%
+ht-degree: 9%
 
 ---
 
@@ -35,7 +35,7 @@ Marketo은 일련의 필드를 사용하여 특정 종류의 마케팅 관련 �
 
    ![](assets/image2016-5-23-13-3a15-3a21.png)
 
-1. 왼쪽의 빌드 메뉴에서 **[!UICONTROL Customize]**&#x200B;을(를) 클릭하고 **[!UICONTROL Leads]**&#x200B;을(를) 선택합니다. **[!UICONTROL Fields]**&#x200B;을(를) 클릭합니다.
+1. 왼쪽의 빌드 메뉴에서 **[!UICONTROL Customize]**&#x200B;을(를) 클릭하고 **[!UICONTROL Leads]**&#x200B;을(를) 선택합니다. **[!UICONTROL Fields]**&#x200B;를 클릭합니다.
 
    ![](assets/image2016-5-23-13-3a20-3a5.png)
 
@@ -47,7 +47,7 @@ Marketo은 일련의 필드를 사용하여 특정 종류의 마케팅 관련 �
 
    ![](assets/choose-field-type-2-hand.png)
 
-1. **[!UICONTROL Next]**&#x200B;을(를) 클릭합니다.
+1. **[!UICONTROL Next]**&#x200B;를 클릭합니다.
 
    ![](assets/image2016-5-26-14-3a51-3a14.png)
 
@@ -88,7 +88,7 @@ Marketo은 일련의 필드를 사용하여 특정 종류의 마케팅 관련 �
    <td> </td>
   </tr>
   <tr>
-   <td>고객 확보 프로그램</td>
+   <td>확보 프로그램</td>
    <td>mkto71_Acquisition_Program</td>
    <td>텍스트</td>
    <td>길이 255</td>
@@ -106,7 +106,7 @@ Marketo은 일련의 필드를 사용하여 특정 종류의 마케팅 관련 �
 >
 >텍스트 및 숫자 필드는 길이가 필요하지만 날짜/시간 필드는 길이가 필요하지 않습니다. 설명은 선택 사항입니다.
 
-1. **[!UICONTROL Next]**&#x200B;을(를) 클릭합니다.
+1. **[!UICONTROL Next]**&#x200B;를 클릭합니다.
 
    ![](assets/image2016-5-23-14-3a50-3a5.png)
 
@@ -130,7 +130,7 @@ Marketo은 일련의 필드를 사용하여 특정 종류의 마케팅 관련 �
 
    ![](assets/image2016-5-23-15-3a8-3a43.png)
 
-1. 왼쪽의 빌드 메뉴에서 **[!UICONTROL Customize]**&#x200B;을(를) 클릭하고 **[!UICONTROL Contacts]**&#x200B;을(를) 선택합니다. **[!UICONTROL Fields]**&#x200B;을(를) 클릭합니다.
+1. 왼쪽의 빌드 메뉴에서 **[!UICONTROL Customize]**&#x200B;을(를) 클릭하고 **[!UICONTROL Contacts]**&#x200B;을(를) 선택합니다. **[!UICONTROL Fields]**&#x200B;를 클릭합니다.
 1. 가망 고객 객체에 대해 수행한 것처럼 연락처 객체의 점수, 획득 일자 및 획득 프로그램 필드에 대해 단계 3부터 10까지를 수행합니다.
 1. 필요한 경우 이 테이블의 추가 사용자 정의 필드에 대해 위의 절차를 사용합니다.
 

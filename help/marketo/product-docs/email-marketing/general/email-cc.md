@@ -4,10 +4,10 @@ description: 이메일 CC - Marketo 문서 - 제품 설명서
 title: 이메일 CC
 exl-id: 00550e98-916d-4e66-91f8-7394c242a29b
 feature: Email Editor
-source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '544'
-ht-degree: 0%
+ht-degree: 1%
 
 ---
 
@@ -31,7 +31,7 @@ ht-degree: 0%
 
    ![](assets/two.png)
 
-1. **[!UICONTROL Edit Email CC Settings]**&#x200B;을(를) 클릭합니다.
+1. **[!UICONTROL Edit Email CC Settings]**&#x200B;를 클릭합니다.
 
    ![](assets/three.png)
 
@@ -45,7 +45,7 @@ ht-degree: 0%
 
    ![](assets/five.png)
 
-1. **[!UICONTROL Email Settings]**&#x200B;을(를) 클릭합니다.
+1. **[!UICONTROL Email Settings]**&#x200B;를 클릭합니다.
 
    ![](assets/six.png)
 

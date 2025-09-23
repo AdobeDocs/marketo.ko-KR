@@ -1,10 +1,10 @@
 ---
 unique-page-id: 13795492
 description: 성능 인사이트 설정 - Marketo 문서 - 제품 설명서
-title: 성능 통찰력 설정
+title: 성과 인사이트 설정
 exl-id: 894df9de-d416-44f7-8253-ebf3c2a36c90
 feature: Reporting
-source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '363'
 ht-degree: 0%

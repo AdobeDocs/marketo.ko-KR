@@ -4,10 +4,10 @@ description: 프로그램 이해 - Marketo 문서 - 제품 설명서
 title: 프로그램 이해
 exl-id: 3ba18df8-9b31-4a69-bb52-f50d3896bb47
 feature: Programs
-source-git-commit: 86f9e9f13b24a82deb50ec4c398035d7d7479d20
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '149'
-ht-degree: 0%
+ht-degree: 14%
 
 ---
 
@@ -33,7 +33,7 @@ ht-degree: 0%
 
 기본 프로그램은 이벤트, 참여 또는 이메일 프로그램이 아닌 모든 프로그램입니다. 창의력을 발휘하십시오.
 
-시작해 보겠습니다!
+그럼 시작해 보겠습니다!
 
 >[!MORELIKETHIS]
 >

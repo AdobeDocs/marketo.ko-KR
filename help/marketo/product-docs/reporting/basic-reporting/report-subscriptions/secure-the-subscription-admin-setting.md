@@ -1,17 +1,17 @@
 ---
 unique-page-id: 10095347
 description: 구독 관리 설정의 보안 - Marketo 문서 - 제품 설명서
-title: 구독 관리 설정 보안
+title: 구독 관리자 설정 보안
 exl-id: 0cc1bc36-6a97-4f8d-afea-21746e8e3d84
 feature: Reporting
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '82'
-ht-degree: 0%
+ht-degree: 12%
 
 ---
 
-# 구독 관리 설정 보안 {#secure-the-subscription-admin-setting}
+# 구독 관리자 설정 보안 {#secure-the-subscription-admin-setting}
 
 >[!NOTE]
 >

@@ -1,16 +1,16 @@
 ---
 description: 대화형 흐름 개요 - Marketo 문서 - 제품 설명서
-title: 대화 흐름 개요
+title: 대화 플로우 개요
 feature: Dynamic Chat
 exl-id: c741886d-d672-471f-8902-208d25898afa
-source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '339'
-ht-degree: 0%
+ht-degree: 3%
 
 ---
 
-# 대화 흐름 개요 {#conversational-flow-overview}
+# 대화 플로우 개요 {#conversational-flow-overview}
 
 대화형 흐름을 디자인하고 특정 작업(예: call-to-action 버튼 클릭, 페이지 로드 시, 페이지에서 보낸 시간 등)을 기반으로 방문자에게 이를 트리거합니다.
 
@@ -82,7 +82,7 @@ ht-degree: 0%
 
 >[!TIP]
 >
->작동 중인 [대화 SDK](https://experienceleague.adobe.com/tools/marketo-dynamic-chatbot/conversations-sdk/?lang=ko){target="_blank"}을 확인하세요!
+>작동 중인 [대화 SDK](https://experienceleague.adobe.com/tools/marketo-dynamic-chatbot/conversations-sdk/){target="_blank"}을 확인하세요!
 
 >[!MORELIKETHIS]
 >

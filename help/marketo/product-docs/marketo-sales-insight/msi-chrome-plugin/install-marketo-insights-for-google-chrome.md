@@ -4,10 +4,10 @@ description: Google Chrome용 Marketo 인사이트 설치 - Marketo 문서 - 제
 title: Google Chrome용 Marketo Insights 설치
 exl-id: 358b2737-52de-4d3b-a6e8-3254a8123359
 feature: Marketo Sales Insights
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '187'
-ht-degree: 0%
+ht-degree: 3%
 
 ---
 
@@ -27,7 +27,7 @@ ht-degree: 0%
 
    ![](assets/two.png)
 
-1. **[!UICONTROL Reg code]**, **[!UICONTROL Email Address]**, **[!UICONTROL First Name]** 및 **[!UICONTROL Last Name]**&#x200B;을(를) 입력하십시오. **[!UICONTROL Verify and Save]**&#x200B;을(를) 클릭합니다.
+1. **[!UICONTROL Reg code]**, **[!UICONTROL Email Address]**, **[!UICONTROL First Name]** 및 **[!UICONTROL Last Name]**&#x200B;을(를) 입력하십시오. **[!UICONTROL Verify and Save]**&#x200B;를 클릭합니다.
 
    ![](assets/three.png)
 

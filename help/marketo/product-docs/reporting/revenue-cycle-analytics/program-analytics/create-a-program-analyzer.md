@@ -4,10 +4,10 @@ description: 프로그램 분석기 만들기 - Marketo 설명서 - 제품 설�
 title: 프로그램 분석기 만들기
 exl-id: 18715682-2afe-42cc-93d2-a3537749f784
 feature: Reporting, Revenue Cycle Analytics
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '260'
-ht-degree: 0%
+ht-degree: 1%
 
 ---
 
@@ -55,7 +55,7 @@ ht-degree: 0%
 
    ![](assets/image2016-10-31-15-3a5-3a8.png)
 
-1. [!UICONTROL Save To] 및 [!UICONTROL Folder] 드롭다운을 사용하여 사용자 지정 분석기를 저장할 위치를 선택하십시오. 새 사용자 지정 분석기 이름을 지정합니다. 설명은 선택 사항입니다. **[!UICONTROL Save]**&#x200B;을(를) 클릭합니다.
+1. [!UICONTROL Save To] 및 [!UICONTROL Folder] 드롭다운을 사용하여 사용자 지정 분석기를 저장할 위치를 선택하십시오. 새 사용자 지정 분석기 이름을 지정합니다. 설명은 선택 사항입니다. **[!UICONTROL Save]**&#x200B;를 클릭합니다.
 
    ![](assets/image2016-10-31-15-3a7-3a19.png)
 

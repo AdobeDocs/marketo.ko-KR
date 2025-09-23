@@ -1,17 +1,17 @@
 ---
 unique-page-id: 2359949
 description: 참여 프로그램에서 직원 일시 중지 - Marketo 문서 - 제품 설명서
-title: 참여 프로그램에서 직원 일시 중지
+title: 참여 프로그램의 사용자 일시 중지
 exl-id: 3bf2db4f-6fa2-4ae8-a1e7-ce6c584f749d
 feature: Engagement Programs
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '118'
-ht-degree: 0%
+ht-degree: 10%
 
 ---
 
-# 참여 프로그램에서 직원 일시 중지 {#pause-people-in-an-engagement-program}
+# 참여 프로그램의 사용자 일시 중지 {#pause-people-in-an-engagement-program}
 
 사용자가 참여 프로그램의 구성원인 경우 [모든 콘텐츠를 소진](people-who-have-exhausted-content.md)할 때까지 콘텐츠를 받습니다. [[!UICONTROL Change Engagement Program Cadence]](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/program-flow-actions/change-engagement-program-cadence.md) 흐름 단계를 사용하면 아직 콘텐츠를 소진하지 않았더라도 콘텐츠를 받지 못하게 할 수 있습니다.
 
