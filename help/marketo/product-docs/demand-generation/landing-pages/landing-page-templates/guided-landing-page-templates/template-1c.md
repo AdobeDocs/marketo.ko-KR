@@ -13,7 +13,7 @@ ht-degree: 8%
 
 # 템플릿 1C {#template-1c}
 
-마우스 오른쪽 단추를 클릭하여 [템플릿 1C 다운로드](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-1c.html)
+마우스 오른쪽 단추를 클릭하여 [템플릿 1C 다운로드](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-1c.html?lang=ko)
 
 ![](assets/image2015-5-28-13-3a18-3a56.png)
 
@@ -28,4 +28,4 @@ ht-degree: 8%
 
 **이 서식 파일을 다운로드하려면 아래를 마우스 오른쪽 단추로 클릭하세요.**
 
-[템플릿 1C.html](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-1c.html)
+[템플릿 1C.html](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-1c.html?lang=ko)

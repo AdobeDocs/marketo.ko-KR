@@ -86,10 +86,10 @@ Marketo 내의 여러 채널에서 크리에이티브 에셋 및 이미지를 �
 
 ## 통합  {#integration}
 
-**[전자 메일 미리 보기 API](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/email-scripting)**
+**[전자 메일 미리 보기 API](https://experienceleague.adobe.com/ko/docs/marketo-developer/marketo/email-scripting)**
 
 이제 Marketo 외부에서 이메일을 원격으로 미리 볼 수 있으므로 이메일 콘텐츠 현지화 프로세스를 단순화하고 오류를 줄일 수 있습니다.
 
-**[HTML API 바꾸기](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/email-scripting)**
+**[HTML API 바꾸기](https://experienceleague.adobe.com/ko/docs/marketo-developer/marketo/email-scripting)**
 
 개발자는 이메일 에셋의 HTML 콘텐츠를 원격으로 업데이트할 수 있으므로 에셋을 유지 관리하기 위해 단일 시스템 내에서 작업할 수 있습니다.

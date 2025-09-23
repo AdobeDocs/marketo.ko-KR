@@ -39,7 +39,7 @@ Marketo Engage API 전용 사용자는 Marketo Engage에서 만들고 관리해�
 
 ## CSV를 통해 사용자 추가 {#add-users-via-csv}
 
-[CSV 가져오기](https://helpx.adobe.com/enterprise/using/bulk-upload-users.html#add-users){target="_blank"}
+[CSV 가져오기](https://helpx.adobe.com/kr/enterprise/using/bulk-upload-users.html#add-users){target="_blank"}
 
 ## 사용자 로그인 {#user-sign-in}
 

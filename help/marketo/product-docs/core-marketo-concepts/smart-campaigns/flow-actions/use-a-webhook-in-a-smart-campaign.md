@@ -13,7 +13,7 @@ ht-degree: 15%
 
 # 스마트 캠페인에서 웹후크 사용 {#use-a-webhook-in-a-smart-campaign}
 
-[Webhook](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/webhooks/webhooks){target="_blank"}을(를) 사용하려면 [Smart Campaign](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/add-a-flow-step-to-a-smart-campaign.md){target="_blank"}에 흐름 작업으로 추가하십시오.
+[Webhook](https://experienceleague.adobe.com/ko/docs/marketo-developer/marketo/webhooks/webhooks){target="_blank"}을(를) 사용하려면 [Smart Campaign](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/add-a-flow-step-to-a-smart-campaign.md){target="_blank"}에 흐름 작업으로 추가하십시오.
 
 >[!AVAILABILITY]
 >

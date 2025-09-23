@@ -60,7 +60,7 @@ true로 설정하면 다음 토큰 컨텍스트가 하위 캠페인(실행 중�
 
 **API 상호 작용**
 
-API[에서 ](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/rest/assets/smart-campaigns#batch) 일정 또는 요청 캠페인을 사용할 때 두 옵션을 사용하면 [내 토큰] 값을 전달할 수 있습니다. 이 값은 호출하는 캠페인의 해당 토큰에 대해 설정된 값을 재정의합니다. 그런 다음 Campaign이 다른 캠페인을 실행하고 &quot;상위 컨텍스트 사용을 True로&quot; 설정하면 애플리케이션에 설정된 값이 아니라 API를 통해 전달된 값이 사용됩니다.
+API[에서 ](https://experienceleague.adobe.com/ko/docs/marketo-developer/marketo/rest/assets/smart-campaigns#batch) 일정 또는 요청 캠페인을 사용할 때 두 옵션을 사용하면 [내 토큰] 값을 전달할 수 있습니다. 이 값은 호출하는 캠페인의 해당 토큰에 대해 설정된 값을 재정의합니다. 그런 다음 Campaign이 다른 캠페인을 실행하고 &quot;상위 컨텍스트 사용을 True로&quot; 설정하면 애플리케이션에 설정된 값이 아니라 API를 통해 전달된 값이 사용됩니다.
 
 ## 참고할 사항 {#things-to-note}
 

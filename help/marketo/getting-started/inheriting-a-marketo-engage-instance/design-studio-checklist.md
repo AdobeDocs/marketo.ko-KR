@@ -25,7 +25,7 @@ ht-degree: 3%
   <tr>
    <td>전역 랜딩 페이지</td>
    <td><li>몇 개의 전역 <a href="/help/marketo/product-docs/demand-generation/landing-pages/understanding-landing-pages/understanding-free-form-vs-guided-landing-pages.md" target="_blank">랜딩 페이지</a>가 있습니까? 프로그램에서 사용하고 있습니까?</li>
-   <li><a href="https://experienceleague.adobe.com/docs/marketo-learn/tutorials/lead-and-data-management/subscription-center-learn.html" target="_blank">구독 센터</a>를 설정했습니까?
+   <li><a href="https://experienceleague.adobe.com/docs/marketo-learn/tutorials/lead-and-data-management/subscription-center-learn.html?lang=ko" target="_blank">구독 센터</a>를 설정했습니까?
    <br/>     그렇지 않으면 새로 만드는 것이 좋습니다.</li></td>
   </tr>
   <tr>

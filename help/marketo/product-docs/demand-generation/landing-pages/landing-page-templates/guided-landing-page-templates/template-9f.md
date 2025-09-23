@@ -13,7 +13,7 @@ ht-degree: 7%
 
 # 템플릿 9F {#template-9f}
 
-마우스 오른쪽 단추를 클릭하여 [템플릿 9F 다운로드](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-9f.html)
+마우스 오른쪽 단추를 클릭하여 [템플릿 9F 다운로드](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-9f.html?lang=ko)
 
 ![](assets/image2015-7-28-16-3a1-3a25.png)
 
@@ -28,4 +28,4 @@ ht-degree: 7%
 
 **이 서식 파일을 다운로드하려면 아래를 마우스 오른쪽 단추로 클릭하세요.**
 
-[템플릿 9F.html](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-9f.html)
+[템플릿 9F.html](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-9f.html?lang=ko)

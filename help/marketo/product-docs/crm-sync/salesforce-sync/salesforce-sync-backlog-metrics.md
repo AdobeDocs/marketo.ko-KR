@@ -98,9 +98,9 @@ ht-degree: 0%
 
 **자주 업데이트되는 필드**: 일부 필드는 자주 업데이트됩니다. 예를 들어 통화 변경에 해당하는 통화 필드는 다음과 같습니다. 이러한 필드를 동기화해야 하는지 또는 필드를 다르게 디자인해야 하는지 검토합니다. 자주 업데이트되며 필요하지 않은 다른 필드가 있는 경우 동기화 사용자로부터 해당 필드를 숨깁니다. 필드를 업데이트할 수 있는 SFDC 관리 통합에 대해 논의하십시오.
 
-**사용자 지정 개체**: [사용자 지정 개체](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/crm-sync/salesforce-sync/sfdc-sync-details/sfdc-sync-custom-object-sync){target="_blank"}를 정기적으로 검토하여 더 이상 동기화할 필요가 없는 개체를 동기화하고 사용하지 않도록 설정하십시오.
+**사용자 지정 개체**: [사용자 지정 개체](https://experienceleague.adobe.com/ko/docs/marketo/using/product-docs/crm-sync/salesforce-sync/sfdc-sync-details/sfdc-sync-custom-object-sync){target="_blank"}를 정기적으로 검토하여 더 이상 동기화할 필요가 없는 개체를 동기화하고 사용하지 않도록 설정하십시오.
 
-**활동**: [동기화에서 제거할 수 있는 동기화를 사용하도록 설정한 활동이 있는지 검토](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/crm-sync/salesforce-sync/setup/optional-steps/customize-activities-sync){target="_blank"}합니다.  이러한 활동은 리드당 하루에 한 번만 동기화됩니다.
+**활동**: [동기화에서 제거할 수 있는 동기화를 사용하도록 설정한 활동이 있는지 검토](https://experienceleague.adobe.com/ko/docs/marketo/using/product-docs/crm-sync/salesforce-sync/setup/optional-steps/customize-activities-sync){target="_blank"}합니다.  이러한 활동은 리드당 하루에 한 번만 동기화됩니다.
 
 **동기화 오류 검토**: 예외 처리로 인해 동기화 속도가 느려질 수 있습니다. 사용자 알림을 검토하고 오류를 해결하면 동기화 상태를 개선할 수 있습니다.
 

@@ -13,7 +13,7 @@ ht-degree: 8%
 
 # 템플릿 20C {#template-20c}
 
-마우스 오른쪽 단추를 클릭하여 [템플릿 20C 다운로드](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-20c.html)
+마우스 오른쪽 단추를 클릭하여 [템플릿 20C 다운로드](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-20c.html?lang=ko)
 
 ![](assets/template-20c.png)
 
@@ -28,4 +28,4 @@ ht-degree: 8%
 
 **이 서식 파일을 다운로드하려면 아래를 마우스 오른쪽 단추로 클릭하세요.**
 
-[템플릿 20C.html](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-20c.html)
+[템플릿 20C.html](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-20c.html?lang=ko)

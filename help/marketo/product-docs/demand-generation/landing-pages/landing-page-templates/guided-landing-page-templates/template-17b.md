@@ -13,7 +13,7 @@ ht-degree: 8%
 
 # 템플릿 17B {#template-17b}
 
-마우스 오른쪽 단추를 클릭하여 [템플릿 17B 다운로드](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-17b.html)
+마우스 오른쪽 단추를 클릭하여 [템플릿 17B 다운로드](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-17b.html?lang=ko)
 
 ![](assets/image2015-8-17-16-3a50-3a15.png)
 
@@ -28,4 +28,4 @@ ht-degree: 8%
 
 **이 서식 파일을 다운로드하려면 아래를 마우스 오른쪽 단추로 클릭하세요.**
 
-[템플릿 17B.html](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-17b.html)
+[템플릿 17B.html](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-17b.html?lang=ko)

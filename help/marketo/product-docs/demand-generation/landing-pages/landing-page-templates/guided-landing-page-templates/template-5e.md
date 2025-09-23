@@ -13,7 +13,7 @@ ht-degree: 7%
 
 # 템플릿 5E {#template-5e}
 
-마우스 오른쪽 단추를 클릭하여 [템플릿 5E 다운로드](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-5e.html)
+마우스 오른쪽 단추를 클릭하여 [템플릿 5E 다운로드](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-5e.html?lang=ko)
 
 ![](assets/image2015-7-29-15-3a24-3a40.png)
 
@@ -29,4 +29,4 @@ ht-degree: 7%
 
 **이 서식 파일을 다운로드하려면 아래를 마우스 오른쪽 단추로 클릭하세요.**
 
-[템플릿 5E.html](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-5e.html)
+[템플릿 5E.html](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-5e.html?lang=ko)

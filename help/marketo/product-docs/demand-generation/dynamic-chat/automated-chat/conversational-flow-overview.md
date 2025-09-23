@@ -82,7 +82,7 @@ ht-degree: 3%
 
 >[!TIP]
 >
->작동 중인 [대화 SDK](https://experienceleague.adobe.com/tools/marketo-dynamic-chatbot/conversations-sdk/){target="_blank"}을 확인하세요!
+>작동 중인 [대화 SDK](https://experienceleague.adobe.com/tools/marketo-dynamic-chatbot/conversations-sdk/?lang=ko){target="_blank"}을 확인하세요!
 
 >[!MORELIKETHIS]
 >

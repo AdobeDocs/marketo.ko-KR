@@ -13,7 +13,7 @@ ht-degree: 6%
 
 # 템플릿 2B {#template-2b}
 
-마우스 오른쪽 단추를 클릭하여 [템플릿 2B 다운로드](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-2b.html)
+마우스 오른쪽 단추를 클릭하여 [템플릿 2B 다운로드](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-2b.html?lang=ko)
 
 ![](assets/image2015-6-2-15-3a32-3a38.png)
 
@@ -29,4 +29,4 @@ ht-degree: 6%
 
 **이 서식 파일을 다운로드하려면 아래를 마우스 오른쪽 단추로 클릭하세요.**
 
-[템플릿 2B.html](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-2b.html)
+[템플릿 2B.html](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-2b.html?lang=ko)
