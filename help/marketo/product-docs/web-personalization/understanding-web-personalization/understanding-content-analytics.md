@@ -86,7 +86,7 @@ Analytics 테이블은 다음 세부 정보를 제공합니다.
 
 * **[!UICONTROL Views]**: 선택한 시간 범위에 대한 해당 콘텐츠 조각 보기
 * **[!UICONTROL Direct Conversions]**: 같은 방문에서 콘텐츠를 보고 양식을 작성한 웹 방문자입니다.
-* **[!UICONTROL Conversion Rate]****:** 직접 전환으로 계산된 전환율을 클릭수로 나눈 비율입니다.
+* **[!UICONTROL Conversion Rate]**&#x200B;**:** 직접 전환으로 계산된 전환율을 클릭수로 나눈 비율입니다.
 
 **[!UICONTROL Trends]**
 

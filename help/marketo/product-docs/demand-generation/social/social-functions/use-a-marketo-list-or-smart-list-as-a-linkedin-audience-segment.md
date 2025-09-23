@@ -55,7 +55,7 @@ Marketo Engage 사용자와 LinkedIn 대상을 통합합니다.
    >
    >LinkedIn은 2018년 3월 &quot;대상자 지우기 및 리드 추가&quot; 푸시 유형에 사용되는 API를 더 이상 사용하지 않습니다. 이 옵션은 Marketo의 2018년 1분기 릴리스부터 더 이상 사용할 수 없습니다.
 
-1. _[!UICONTROL Push Type]_선택.**[!UICONTROL Update]**를 클릭합니다.
+1. _[!UICONTROL Push Type]_&#x200B;선택.**[!UICONTROL Update]**&#x200B;를 클릭합니다.
 
    ![](assets/list-as-a-linkedin-audience-segment-7.png)
 

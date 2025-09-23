@@ -19,6 +19,6 @@ ht-degree: 3%
 * [!UICONTROL Send Marketo Email]
 * [!UICONTROL Add to Marketo Campaign]
 
-[!DNL Best Bets] 탭에서 여러 리드를 선택하고 _[!UICONTROL Send Marketo Email]_또는_[!UICONTROL Add to Marketo Campaign]_&#x200B;을(를) 선택할 수도 있습니다.
+[!DNL Best Bets] 탭에서 여러 리드를 선택하고 _[!UICONTROL Send Marketo Email]_&#x200B;또는&#x200B;_[!UICONTROL Add to Marketo Campaign]_&#x200B;을(를) 선택할 수도 있습니다.
 
 ![](assets/best-bets-1.png)

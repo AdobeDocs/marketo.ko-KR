@@ -1,6 +1,6 @@
 ---
 unique-page-id: 11377945
-description: 감사 추적] 개요 - Marketo 문서 - 제품 설명서
+description: 감사 추적&rbrack; 개요 - Marketo 문서 - 제품 설명서
 title: 감사 추적 개요
 exl-id: e8aff7b7-72ca-4d4e-9159-56ff65f6345c
 feature: Audit Trail

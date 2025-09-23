@@ -23,7 +23,7 @@ ht-degree: 6%
 
 ![](assets/two-1.png)
 
-원하는 트리거를 캔버스로 드래그합니다. 이 예제에서는 _[!UICONTROL Added to Named Account]_을(를) 사용합니다.
+원하는 트리거를 캔버스로 드래그합니다. 이 예제에서는 _[!UICONTROL Added to Named Account]_&#x200B;을(를) 사용합니다.
 
 ![](assets/three-1.png)
 

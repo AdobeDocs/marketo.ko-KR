@@ -329,8 +329,8 @@ IT 담당자가 작업을 완료하면 다음 단계에 따라 랜딩 페이지 
 
 회사에서 사용하는 CRM에 따라 다음 중에서 선택하십시오.
 
-    * [Marketo과 통합] [!DNL Salesforce.com](/help/marketo/product-docs/crm-sync/salesforce-sync/understanding-the-salesforce-sync.md)
-    * [Marketo과 통합] [!DNL Microsoft Dynamics](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/understanding-the-microsoft-dynamics-sync.md)
+    * [Marketo과 통합] [[!DNL Salesforce.com]](/help/marketo/product-docs/crm-sync/salesforce-sync/understanding-the-salesforce-sync.md)
+    * [Marketo과 통합] [[!DNL Microsoft Dynamics]](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/understanding-the-microsoft-dynamics-sync.md)
 
 >[!NOTE]
 >

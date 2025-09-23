@@ -37,7 +37,7 @@ ht-degree: 10%
 
    >[!TIP]
    >
-   >숫자 값이 있는 특성(예: _[!UICONTROL Created At]_또는_[!UICONTROL Annual Revenue]_)을 선택하는 경우 오른쪽의 **[!UICONTROL Units]** 드롭다운에서 지표를 선택합니다.
+   >숫자 값이 있는 특성(예: _[!UICONTROL Created At]_&#x200B;또는&#x200B;_[!UICONTROL Annual Revenue]_)을 선택하는 경우 오른쪽의 **[!UICONTROL Units]** 드롭다운에서 지표를 선택합니다.
 
    됐습니다. 보고서를 그룹화하려면 **[!UICONTROL Report]** 탭을 클릭하십시오.
 

@@ -1,7 +1,7 @@
 ---
 unique-page-id: 14352477
 description: ' [!DNL Sales Connect] (으)로 푸시 - Marketo 문서 - 제품 설명서'
-title: ' [!DNL Sales Connect](으)로 푸시'
+title: ' [!DNL Sales Connect] (으)로 푸시'
 exl-id: 8fb99d28-d6c6-47c3-b4d2-c416251aff47
 feature: Marketo Sales Connect
 source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf

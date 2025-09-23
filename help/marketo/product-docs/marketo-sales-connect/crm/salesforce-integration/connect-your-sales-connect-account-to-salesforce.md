@@ -21,7 +21,7 @@ ht-degree: 14%
 
    ![](assets/one.png)
 
-1. [!UICONTROL  Admin Settings]에서 **[!UICONTROL Salesforce]**&#x200B;을(를) 클릭합니다.
+1. [!UICONTROL &#x200B; Admin Settings]에서 **[!UICONTROL Salesforce]**&#x200B;을(를) 클릭합니다.
 
    ![](assets/six.png)
 

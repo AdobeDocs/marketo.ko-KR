@@ -109,7 +109,7 @@ ht-degree: 1%
 
    ![](assets/stream-designer-6.png)
 
-1. _[!UICONTROL Question]_카드를 끌어서 놓습니다.
+1. _[!UICONTROL Question]_&#x200B;카드를 끌어서 놓습니다.
 
    ![](assets/stream-designer-7.png)
 
@@ -145,7 +145,7 @@ ht-degree: 1%
 
    ![](assets/stream-designer-11.png)
 
-1. 목표이므로 _[!UICONTROL Goal]_카드를 모임 예약 아래로 끌어 놓으십시오.
+1. 목표이므로 _[!UICONTROL Goal]_&#x200B;카드를 모임 예약 아래로 끌어 놓으십시오.
 
    ![](assets/stream-designer-12.png)
 
@@ -177,7 +177,7 @@ ht-degree: 1%
 
    ![](assets/stream-designer-18.png)
 
-1. 전자 메일 수집이 목표이므로 _[!UICONTROL Goal]_카드를 정보 캡처 아래에 끌어 놓으십시오.
+1. 전자 메일 수집이 목표이므로 _[!UICONTROL Goal]_&#x200B;카드를 정보 캡처 아래에 끌어 놓으십시오.
 
    ![](assets/stream-designer-19.png)
 

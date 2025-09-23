@@ -18,7 +18,7 @@ ht-degree: 4%
 >[!PREREQUISITES]
 >
 >[세분화 만들기](/help/marketo/product-docs/personalization/segmentation-and-snippets/segmentation/create-a-segmentation.md)
->>[세그먼트 규칙 정의](/help/marketo/product-docs/personalization/segmentation-and-snippets/segmentation/define-segment-rules.md)
+>&#x200B;>[세그먼트 규칙 정의](/help/marketo/product-docs/personalization/segmentation-and-snippets/segmentation/define-segment-rules.md)
 
 >[!NOTE]
 >

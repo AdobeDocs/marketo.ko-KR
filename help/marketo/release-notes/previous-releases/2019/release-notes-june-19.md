@@ -68,4 +68,4 @@ ht-degree: 0%
 * **드리프트 통합**: 드리프트 대화가 고객의 여정에 미치는 영향을 이해합니다. [!DNL Bizible]은(는) 대화에서 전자 메일 주소를 가져와서 새 리드를 만들거나 터치포인트를 기존 리드에 연결합니다.
 * **로컬라이제이션**: [!DNL Bizible]은(는) 이제 모든 Marketo 지원 언어(영어, 일본어, 독일어, 스페인어, 프랑스어 및 포르투갈어)로 제공됩니다.
 
-_**제품 릴리스 웨비나**_ 2019년 6월 릴리스 혁신 웨비나 녹화를 시청하십시오 [여기](https://engage.marketo.com/Marketo-June-Product-Release-2019-On-Demand.html).
+_&#x200B;**제품 릴리스 웨비나**&#x200B;_ 2019년 6월 릴리스 혁신 웨비나 녹화를 시청하십시오 [여기](https://engage.marketo.com/Marketo-June-Product-Release-2019-On-Demand.html).

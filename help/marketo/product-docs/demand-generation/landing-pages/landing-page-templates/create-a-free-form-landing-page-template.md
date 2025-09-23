@@ -43,7 +43,7 @@ ht-degree: 6%
 
    >[!NOTE]
    >
-   >양식을 미리 채우지 못하게 하거나 특정 페이지에서 웹 동작을 추적하지 않으려면 **[!UICONTROL Disable Munchkin Tracking]**을(를) 선택합니다.
+   >양식을 미리 채우지 못하게 하거나 특정 페이지에서 웹 동작을 추적하지 않으려면 **[!UICONTROL Disable Munchkin Tracking]**&#x200B;을(를) 선택합니다.
    >코드가 모바일 장치와 호환되는지 확인하려면 **[!UICONTROL Validate Mobile Compatibility]**&#x200B;을(를) 선택하십시오.
 
    >[!MORELIKETHIS]
