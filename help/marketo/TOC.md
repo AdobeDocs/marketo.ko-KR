@@ -3,10 +3,10 @@ audience: end-user
 user-guide-title: Marketo 안내서
 user-guide-description: Marketo 제품 설명서
 feature-set: Marketo Engage
-source-git-commit: 95dda7d6e09f0e64fbce8e5bd39613f10ebde382
-workflow-type: ht
-source-wordcount: '9304'
-ht-degree: 100%
+source-git-commit: 7082c8d573411070b279b4157b91e73fba9b0f27
+workflow-type: tm+mt
+source-wordcount: '9306'
+ht-degree: 99%
 
 ---
 
@@ -1040,6 +1040,7 @@ ht-degree: 100%
          + [사용자 정의 가능한 조각](product-docs/email-marketing/email-designer/customizable-fragments.md)
          + [Marketo Engage용 GenStudio 통합](product-docs/email-marketing/email-designer/genstudio.md)
          + [콘텐츠 잠금](product-docs/email-marketing/email-designer/content-locking.md)
+         + [이메일 Collaboration](product-docs/email-marketing/email-designer/email-collaboration.md)
          + [AI 어시스턴트](product-docs/email-marketing/email-designer/ai-assistant.md)
          + [SpamAssassin으로 이메일 스팸 신고](product-docs/email-marketing/email-designer/spam-report.md)
       + 이메일 프로그램 {#email-programs}
