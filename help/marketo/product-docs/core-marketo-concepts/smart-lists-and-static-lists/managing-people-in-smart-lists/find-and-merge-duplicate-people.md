@@ -4,9 +4,9 @@ description: 중복 사용자 찾기 및 병합 - Marketo 문서 - 제품 설명
 title: 중복 사용자 찾기 및 병합
 exl-id: a6d46096-587a-4e3a-b37a-917c0d2098b1
 feature: Smart Lists
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 3456e4d0d9fdcd4590884d9a5b15ef206fcff875
 workflow-type: tm+mt
-source-wordcount: '395'
+source-wordcount: '411'
 ht-degree: 3%
 
 ---
@@ -59,13 +59,15 @@ Marketo Engage은 새로운 사용자가 시스템에 들어오면 자동으로 
    >
    >동일한 사용자에 대해 두 개 이상의 중복 항목을 가질 수 있습니다. 모두 한 번에 선택하십시오.
 
-1. _일치하지 않는_ 레코드 사이의 값이 표시됩니다. 각 필드에 유지할 값을 선택합니다. 완료되면 **[!UICONTROL Merge]**&#x200B;을(를) 클릭합니다. 둘 중 어느 값도 원하지 않는 경우 **[!UICONTROL Custom]**&#x200B;을(를) 확인하고 원하는 값을 입력할 수 있습니다.
+1. 일치하지 않는 레코드 간의 값이 표시됩니다. _각 필드에 대해 유지할 값을 선택합니다_. 완료되면 **[!UICONTROL Merge]**&#x200B;을(를) 클릭합니다. 둘 중 어느 값도 원하지 않는 경우 **[!UICONTROL Custom]**&#x200B;을(를) 확인하고 원하는 값을 입력할 수 있습니다.
 
    ![](assets/find-and-merge-duplicate-people-4.png)
 
    >[!NOTE]
    >
-   >수동으로 사람을 병합하는 경우 처음 선택한 사람이 &quot;우승자&quot;가 됩니다. 따라서 사람 탭에서 레코드 ID 198과 199를 병합하고 먼저 199를 클릭하면 199가 병합된 사람의 레코드 ID가 됩니다. 두 개 이상의 레코드가 병합되는 경우에도 적용됩니다.
+   >* Salesforce과 달리 Marketo에서 사람들을 병합할 때 점수는 합계가 _아닌_&#x200B;입니다. 유지할 값을 선택합니다.
+   >
+   >* 수동으로 사람을 병합하는 경우 처음 선택한 사람이 &quot;우승자&quot;가 됩니다. 따라서 사람 탭에서 레코드 ID 198과 199를 병합하고 먼저 199를 클릭하면 199가 병합된 사람의 레코드 ID가 됩니다. 두 개 이상의 레코드가 병합되는 경우에도 적용됩니다.
 
    >[!TIP]
    >
