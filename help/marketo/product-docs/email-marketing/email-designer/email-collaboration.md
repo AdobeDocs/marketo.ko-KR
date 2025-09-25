@@ -5,10 +5,11 @@ level: Beginner, Intermediate
 feature: Email Designer
 hide: true
 hidefromtoc: true
-source-git-commit: 7082c8d573411070b279b4157b91e73fba9b0f27
+exl-id: 686a6950-6ca0-412f-8f47-24974c6428af
+source-git-commit: 3718ab4d6241c45b937929d253297d9d0cf1b3d4
 workflow-type: tm+mt
-source-wordcount: '312'
-ht-degree: 0%
+source-wordcount: '299'
+ht-degree: 1%
 
 ---
 
@@ -16,43 +17,50 @@ ht-degree: 0%
 
 이메일 공동 작업 및 댓글 달기 를 사용하면 마케팅 팀이 Adobe Marketo Engage 이메일 Designer 내에서 이메일 자산을 원활하게 검토, 토론 및 완료할 수 있습니다. 외부 도구(채팅, 이메일 스레드, 스프레드시트 등)를 통해 초안을 공유하는 대신 실시간으로 댓글을 달거나 편집 내용을 제안하고 피드백을 해결할 수 있습니다. 이를 통해 워크플로우를 간소화하고 오류를 줄이며 이메일 캠페인이 전송되기 전에 관련자가 일치하는지 확인합니다.
 
+## 권한 {#permissions}
 
-## Collaboration 활성화 {#enable-collaboration}
+이메일 에셋에 대한 편집 권한이 있는 사용자는 댓글을 달고, 태그를 지정하고, 댓글을 볼 수 있습니다. 이메일 에셋에 대한 읽기 전용 권한이 있는 사용자는 **댓글을 추가하거나 볼 수 없습니다**.
 
-1. 이메일 Designer에서 이메일을 만들거나 편집할 때 오른쪽에 &quot;Collaboration&quot; 옵션이 표시됩니다.
+## 댓글 추가 {#add-comments}
 
-   스크린샷
+1. 이메일 Designer에서 이메일을 만들거나 편집할 때 편집 가능한 섹션에서 구조, 열 또는 컨텐츠(텍스트, 이미지, 단추 등)를 클릭합니다.
 
-1. 이를 통해 팀 구성원은 공동 검토 모드에 들어갈 수 있습니다.
+   ![](assets/email-collaboration-1.png)
 
-   스크린샷
+1. 주석 아이콘을 클릭합니다.
 
-## 주석 추가 {#add-comments}
-
-1. 이메일 Designer의 편집 가능한 섹션 위에 있는 구조, 열 또는 컨텐츠(텍스트, 이미지, 단추 등)를 클릭합니다.
-
-   스크린샷
-
-1. 주석() 아이콘을 클릭합니다.
-
-   스크린샷
+   ![](assets/email-collaboration-2.png)
 
 1. 피드백, 질문 또는 제안을 입력합니다.
 
-   스크린샷
+   ![](assets/email-collaboration-3.png)
 
 >[!NOTE]
 >
 >팀원을 사용하여 @mentions에 태그를 지정합니다(예: &quot;@John, 겨울 뉴스레터를 업데이트하십시오&quot;).
+
+## 댓글 모두 보기 {#view-all-comments}
+
+1. 오른쪽의 _Collaboration_ 아이콘을 클릭합니다.
+
+   ![](assets/email-collaboration-4.png)
+
+1. 댓글에 빠르게 답글을 달거나 좋아요.
+
+   ![](assets/email-collaboration-5.png)
+
+1. 추가 작업을 보려면 **..** 아이콘을 클릭하십시오.
+
+   ![](assets/email-collaboration-6.png)
 
 ## 댓글 확인 {#resolve-comments}
 
 각 주석 스레드에는 다음이 포함됩니다.
 
 * 답변: 토론을 계속합니다.
-* 해결 방법: 주석을 주소로 표시합니다.
-* 확인 안 함: 추가 편집이 필요한 경우.
-* 제거: 주석을 디자인 요소에서 분리합니다(주석이 생성될 때 선택됨)
+* 해결: 주석을 해결됨으로 표시
+* 확인 안 함: 추가 편집이 필요한 경우
+* 제거: 디자인 요소에서 주석을 제거합니다.
 * 삭제: 댓글을 영구적으로 삭제합니다.
 
 >[!NOTE]
@@ -69,11 +77,7 @@ ht-degree: 0%
 * 언급(@username)
 * 해상도
 
-## 권한 {#permissions}
-
-이메일 에셋에 대한 편집 권한이 있는 사용자는 댓글을 달고, 태그를 지정하고, 댓글을 볼 수 있습니다. 이메일 에셋에 대한 읽기 전용 권한이 있는 사용자는 **댓글을 추가하거나 볼 수 없습니다**.
-
-## 우수 사례 {#best-practices}
+## 모범 사례 {#best-practices}
 
 * 피드백을 @mentions 적합한 팀원에게 빠르게 전달하려면 JavaScript를 사용하십시오.
 
