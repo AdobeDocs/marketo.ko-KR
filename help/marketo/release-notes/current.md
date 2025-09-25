@@ -6,7 +6,7 @@ feature: Release Information
 source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '654'
-ht-degree: 77%
+ht-degree: 91%
 
 ---
 
@@ -22,7 +22,7 @@ Adobe Dynamic Chat에 대한 릴리스 정보는 [여기에서 확인](/help/mar
 
 ## 표준 릴리스 주기 기능 {#standard-release-cycle-features}
 
-다음 기능은 표준 릴리스 주기에 포함되며, **2025년 9월 19일 토요일**&#x200B;부터 출시되기 시작하고 나머지 기능은 이후 몇 주에 걸쳐 단계적으로 출시될 예정입니다. 릴리스 기능 및 날짜는 변경될 수 있습니다. 각 기능 옆에서 상태를 확인합니다.
+다음 기능은 표준 릴리스 주기에 포함되며, **2025년 9월 19일**&#x200B;부터 출시되기 시작하고 나머지 기능은 이후 몇 주에 걸쳐 단계적으로 출시될 예정입니다. 릴리스 기능 및 날짜는 변경될 수 있습니다. 각 기능 옆에서 상태를 확인합니다.
 
 <table style="table-layout:auto">
  <tbody>
@@ -42,7 +42,7 @@ Adobe Dynamic Chat에 대한 릴리스 정보는 [여기에서 확인](/help/mar
    <td> </td>
   </tr>
   <tr>
-   <td><strong>이메일 Designer - 콘텐츠 Collaboration 워크플로</strong>: 이제 이메일 에셋 내에서 동료 Marketo 사용자에 대해 댓글을 달고 공동 작업을 수행할 수 있습니다. 팀 구성원(적절한 에셋 권한이 있는 Marketo 사용자)에 태그를 지정하면 이메일 또는 Pulse 알림을 받게 됩니다.</td>
+   <td><strong>이메일 Designer - 콘텐츠 Collaboration 워크플로</strong>: 이제 이메일 에셋 내에서 동료 Marketo 사용자에 대해 댓글을 달고 공동 작업을 수행할 수 있습니다. 팀원 태그 지정(적절한 자산 권한이 있는 Marketo 사용자)에 태그를 지정하면 이메일 또는 펄스 알림을 받게 됩니다.</td>
    <td><i>곧 출시 예정</i></td>
    <td><i>곧 제공 예정</i></td>
   </tr>
@@ -52,7 +52,7 @@ Adobe Dynamic Chat에 대한 릴리스 정보는 [여기에서 확인](/help/mar
    <td> </td>
   </tr>
   <tr>
-   <td><strong>Designer - AI 관리자 권한 보내기</strong>: Marketo 관리자는 특정 사용자에게 GenAI 기능에 대한 액세스 권한을 제공할 수 있습니다.</td>
+   <td><strong>이메일 디자이너 - AI 어시스턴트 권한</strong>: Marketo 관리자는 특정 사용자에게 GenAI 기능에 대한 액세스 권한을 제공할 수 있습니다.</td>
    <td><i>곧 출시 예정</i></td>
    <td><i>곧 제공 예정</i></td>
   </tr>
@@ -72,7 +72,7 @@ Adobe Dynamic Chat에 대한 릴리스 정보는 [여기에서 확인](/help/mar
    <td> </td>
   </tr>
   <tr>
-   <td><strong>이메일 Designer - 리디렉션 수정 사항</strong>: 일부 사용자에게 새 Designer을 사용하여 만든 이메일의 URL에 리디렉션 문제가 발생했습니다(예: URL을 직접 붙여넣거나 이메일 에셋을 책갈피로 표시하는 것은 항상 작동하지 않음). 이 문제는 해결되었습니다. 또한 <b>전자 메일 템플릿</b> &gt; <b>세부 정보</b> &gt; <b>사용자</b>에서 전자 메일 자산으로 연결되는 링크가 해당 전자 메일 자산으로 리디렉션됩니다.</td>
+   <td><strong>이메일 디자이너 - 리디렉션 수정 사항</strong>: 일부 사용자들은 새로운 디자이너를 사용하여 생성된 이메일의 URL을 리디렉션하는 문제가 발생하고 있었습니다 (예: URL을 직접 붙여넣거나 이메일 자산을 북마크하는 것이 항상 효과가 있었던 것은 아닙니다). 이 문제는 해결되었습니다. 또한 <b>이메일 템플릿</b> &gt; <b>세부 정보</b> &gt; <b>사용자</b>에서 이메일 자산으로 연결되는 링크가 해당 이메일 자산으로 리디렉션됩니다.</td>
    <td><i>곧 출시 예정</i></td>
    <td><i>곧 출시 예정</i></td>
   </tr>
