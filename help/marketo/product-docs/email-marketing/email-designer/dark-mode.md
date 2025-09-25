@@ -5,9 +5,9 @@ level: Beginner, Intermediate
 feature: Email Designer
 hide: true
 hidefromtoc: true
-source-git-commit: f960d7918d97a2c5e3d16673bc4c5c592004ff1e
+source-git-commit: e6aa9e921776ca635c4c234b950c173bc000a3f7
 workflow-type: tm+mt
-source-wordcount: '1252'
+source-wordcount: '1253'
 ht-degree: 1%
 
 ---
@@ -136,7 +136,7 @@ ht-degree: 1%
 
 1. 다크 모드 변경 사항에 만족하면 **[!UICONTROL Simulate Content]**&#x200B;을(를) 클릭합니다.
 
-   ![](assets/dark-mode-simulate.png)
+   스크린샷
 
 1. **[!UICONTROL Render email]**&#x200B;을(를) 선택하고 Litmus 계정에 연결합니다. 다양한 이메일 클라이언트에 대한 최종 다크 모드 렌더링을 볼 수 있습니다. [전자 메일 렌더링](/help/marketo/product-docs/email-marketing/email-designer/test-email-rendering.md)에 대해 자세히 알아보세요.
 
