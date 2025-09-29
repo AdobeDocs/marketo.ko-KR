@@ -6,20 +6,46 @@ description: Adobe의 생성형 AI 기술을 활용하여 이메일에 유용한
 level: Beginner, Intermediate
 feature: Email Designer
 exl-id: e07ed645-d8a3-483f-aa1f-f82bc9cb8634
-source-git-commit: a9be6eb2285d592bef2e350396d6e6858e53266c
+source-git-commit: 38a35f2c6b2abfca6c200fa6d8e53452dcfaeff6
 workflow-type: tm+mt
-source-wordcount: '726'
-ht-degree: 3%
+source-wordcount: '814'
+ht-degree: 9%
 
 ---
 
 # AI 어시스턴트 사용 {#use-ai-assistant}
 
-Marketo Engage 이메일 Designer의 AI 어시스턴트는 현대적이고 성능이 뛰어나며 직관적인 이메일을 만들 수 있도록 지원합니다. 이는 특정 사용자/구매 그룹, 마케팅 여정 단계, 커뮤니케이션 전략, 톤 등에 적합한 콘텐츠를 만드는 데 도움이 되는 이미지 생성을 위해 Firefly과 함께 Adobe의 생성 AI 기술 및 프롬프트 라이브러리를 통해 수행됩니다. 특정 브랜드 자산을 활용하여 콘텐츠를 만들 수도 있습니다.
+Marketo Engage 이메일 Designer의 AI 어시스턴트는 현대적이고 성능이 뛰어나며 직관적인 이메일을 만들 수 있도록 지원합니다. 이는 Adobe의 생성형 AI 기술과 프롬프트 라이브러리, 그리고 이미지 생성을 위한 Firefly를 통해 특정 페르소나/구매 그룹, 마케팅 여정 단계, 커뮤니케이션 전략, 어조 등에 적합한 콘텐츠를 생성하여 달성됩니다. 특정 브랜드 자산을 활용하여 콘텐츠를 만들 수도 있습니다.
 
 >[!PREREQUISITES]
 >
->AI Assistant는 기본적으로 활성화되어 있지 않습니다. 먼저 이메일 Designer에서 Gen-AI 기능을 사용하기 위한 핵심 Gen-AI 약관 및 보충 약관에 동의해야 합니다. 자세한 내용은 Adobe 계정 팀(계정 관리자)에 문의하십시오.
+>AI Assistant는 기본적으로 활성화되어 있지 않습니다. 먼저 이메일 Designer에서 Gen-AI 기능을 사용하려면 [핵심 Gen-AI 약관 및 추가 약관](https://www.adobe.com/legal/terms/enterprise-licensing/genai-ww.html){target="_blank"}에 동의해야 합니다. 자세한 내용은 Adobe 계정 팀(계정 관리자)에 문의하십시오.
+
+## 권한 설정 {#set-up-permissions}
+
+_위의 사전 요구 사항을 따르면_ Marketo 관리자는 사용자가 GenAI 단추를 보려면 특정 사용자/역할에 액세스 권한을 적용해야 합니다.
+
+1. Marketo Engage에서 **관리자**&#x200B;를 클릭하고 **사용자 및 역할**&#x200B;을 선택합니다.
+
+   ![](assets/use-the-ai-assistant-0a.png)
+
+1. **역할** 탭에서 원하는 역할을 두 번 클릭합니다.
+
+   ![](assets/use-the-ai-assistant-0b.png)
+
+1. _Design Studio 액세스_&#x200B;에서 **AI Assistant 액세스** 확인란을 선택하고 **저장**&#x200B;을 클릭합니다.
+
+   ![](assets/use-the-ai-assistant-0c.png)
+
+1. 사용자 탭을 클릭하고 액세스를 제공할 사용자를 선택합니다.
+
+   ![](assets/use-the-ai-assistant-0d.png)
+
+1. 3단계에서 선택한 역할과 원하는 작업 공간(해당하는 경우)을 선택합니다. **저장**&#x200B;을 클릭합니다.
+
+   ![](assets/use-the-ai-assistant-0e.png)
+
+## 사용 사례 {#use-cases}
 
 AI Assistant의 주요 사용 사례는 다음과 같이 세 가지가 있습니다.
 

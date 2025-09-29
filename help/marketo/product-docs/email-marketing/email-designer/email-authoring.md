@@ -4,7 +4,7 @@ title: 이메일 작성
 level: Beginner, Intermediate
 feature: Email Designer
 exl-id: 9d9b6cf3-f907-47d4-805d-4f9c73db5a32
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 38a35f2c6b2abfca6c200fa6d8e53452dcfaeff6
 workflow-type: tm+mt
 source-wordcount: '1721'
 ht-degree: 1%
@@ -17,7 +17,7 @@ ht-degree: 1%
 
 >[!PREREQUISITES]
 >
->새 이메일 디자이너에 액세스하려면 Marketo Engage 구독을 [Adobe IMS(Identity Management System)](https://experienceleague.adobe.com/ko/docs/marketo/using/product-docs/administration/marketo-with-adobe-identity/adobe-identity-management-overview)&#x200B;(으)로 마이그레이션해야 합니다. 아직 실행되지 않았으며 신속 처리를 요청하려면 Adobe 계정 팀(계정 관리자) 또는 [Marketo 지원](https://nation.marketo.com/t5/support/ct-p/Support)에 문의하십시오.
+>새 이메일 디자이너에 액세스하려면 Marketo Engage 구독을 [Adobe IMS(Identity Management System)](https://experienceleague.adobe.com/ko/docs/marketo/using/product-docs/administration/marketo-with-adobe-identity/adobe-identity-management-overview){target="_blank"}(으)로 마이그레이션해야 합니다. 아직 실행되지 않았으며 신속 처리를 요청하려면 Adobe 계정 팀(계정 관리자) 또는 [Marketo 지원](https://nation.marketo.com/t5/support/ct-p/Support){target="_blank"}에 문의하십시오.
 
 ## 이메일 만들기 {#create-an-email}
 
@@ -195,7 +195,7 @@ ht-degree: 1%
 >
 >조각이 전자 메일 내의 전체 가로 레이아웃을 차지하도록 하려면 1:1 열 구조를 추가한 다음 조각을 끌어서 놓습니다.
 
-전자 메일이 저장되면 조각 세부 정보 페이지의 _[!UICONTROL Used By]_&#x200B;탭에 나타납니다. 이메일 템플릿에 추가된 조각은 템플릿 내에서 편집할 수 없습니다. 소스 조각은 콘텐츠를 정의합니다.
+전자 메일이 저장되면 조각 세부 정보 페이지의 _[!UICONTROL Used By]_탭에 나타납니다. 이메일 템플릿에 추가된 조각은 템플릿 내에서 편집할 수 없습니다. 소스 조각은 콘텐츠를 정의합니다.
 
 ### Assets 추가 {#add-assets}
 
@@ -227,13 +227,13 @@ Marketo Engage 인스턴스의 [이미지 및 파일](/help/marketo/product-docs
 
 1. 캔버스에서 구조 구성 요소의 열을 직접 선택하거나 왼쪽에 표시된 _탐색 트리_&#x200B;를 사용합니다.
 
-1. 열 도구 모음에서 _[!UICONTROL Select a column]_&#x200B;도구를 클릭하고 편집할 도구를 선택합니다.
+1. 열 도구 모음에서 _[!UICONTROL Select a column]_도구를 클릭하고 편집할 도구를 선택합니다.
 
-   구조 트리에서 선택할 수도 있습니다. 해당 열에 대해 편집 가능한 매개 변수가 오른쪽의 _[!UICONTROL Settings]_&#x200B;및_[!UICONTROL Styles]_ 탭에 표시됩니다.
+   구조 트리에서 선택할 수도 있습니다. 해당 열에 대해 편집 가능한 매개 변수가 오른쪽의 _[!UICONTROL Settings]_및_[!UICONTROL Styles]_ 탭에 표시됩니다.
 
    ![](assets/authoring-layers-settings-styles-2.png)
 
-1. 열 속성을 편집하려면 오른쪽의 _[!UICONTROL Styles]_&#x200B;탭을 클릭하고 필요에 따라 변경합니다.
+1. 열 속성을 편집하려면 오른쪽의 _[!UICONTROL Styles]_탭을 클릭하고 필요에 따라 변경합니다.
 
    * **[!UICONTROL Background]**&#x200B;의 경우 필요에 따라 배경색을 변경합니다.
 
