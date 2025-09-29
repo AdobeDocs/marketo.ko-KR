@@ -3,10 +3,10 @@ description: 최신 릴리스 정보 - Marketo 설명서 - 제품 설명서
 title: 최신 릴리스 정보
 exl-id: a2eccad5-73ad-48f9-8091-51cee23824e1
 feature: Release Information
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: fb620ef951ab6d6c24e5694a8d0b398855906644
 workflow-type: tm+mt
 source-wordcount: '654'
-ht-degree: 91%
+ht-degree: 99%
 
 ---
 
@@ -42,7 +42,7 @@ Adobe Dynamic Chat에 대한 릴리스 정보는 [여기에서 확인](/help/mar
    <td> </td>
   </tr>
   <tr>
-   <td><strong>이메일 Designer - 콘텐츠 Collaboration 워크플로</strong>: 이제 이메일 에셋 내에서 동료 Marketo 사용자에 대해 댓글을 달고 공동 작업을 수행할 수 있습니다. 팀원 태그 지정(적절한 자산 권한이 있는 Marketo 사용자)에 태그를 지정하면 이메일 또는 펄스 알림을 받게 됩니다.</td>
+   <td><strong>이메일 디자이너 - 콘텐츠 공동 작업 워크플로</strong>: 이제 이메일 자산 내에서 다른 Marketo 사용자에 대해 댓글을 달고 공동 작업을 수행할 수 있습니다. 팀원 태그 지정(적절한 자산 권한이 있는 Marketo 사용자)에 태그를 지정하면 이메일 또는 펄스 알림을 받게 됩니다.</td>
    <td><i>곧 출시 예정</i></td>
    <td><i>곧 제공 예정</i></td>
   </tr>
@@ -53,8 +53,8 @@ Adobe Dynamic Chat에 대한 릴리스 정보는 [여기에서 확인](/help/mar
   </tr>
   <tr>
    <td><strong>이메일 디자이너 - AI 어시스턴트 권한</strong>: Marketo 관리자는 특정 사용자에게 GenAI 기능에 대한 액세스 권한을 제공할 수 있습니다.</td>
-   <td><i>곧 출시 예정</i></td>
-   <td><i>곧 제공 예정</i></td>
+   <td>출시됨</td>
+   <td><a href="/help\marketo\product-docs\email-marketing\email-designer\ai-assistant.md#set-up-permissions">권한 설정</a></td>
   </tr>
   <tr>
    <td> </td>
@@ -62,7 +62,7 @@ Adobe Dynamic Chat에 대한 릴리스 정보는 [여기에서 확인](/help/mar
    <td> </td>
   </tr>
   <tr>
-   <td><strong>이메일 Designer - 다크 모드</strong>: 이제 지원되는 이메일 클라이언트와 앱에서 텍스트, 단추 및 기타 UI 요소에 대해 더 어두운 배경과 더 밝은 색상의 이메일을 표시할 수 있는 다크 모드를 사용할 수 있습니다.</td>
+   <td><strong>이메일 디자이너 - 다크 모드</strong>: 이제 지원 이메일 클라이언트와 앱이 텍스트, 버튼 및 기타 UI 요소에 대해 더 어두운 배경과 밝은 색상의 이메일을 표시할 수 있는 다크 모드를 사용할 수 있습니다.</td>
    <td><i>곧 출시 예정</i></td>
    <td><i>곧 제공 예정</i></td>
   </tr>
@@ -92,6 +92,6 @@ Adobe Dynamic Chat에 대한 릴리스 정보는 [여기에서 확인](/help/mar
 
 * **_친구에게 전달_ 기능** 사용 중단: 2025년 9월 29일부터 Marketo Engage 2.0 이메일(레거시 이메일 편집기)의 _친구에게 전달_ 기능이 모든 구독에서 완전히 사용 중단됩니다. 이는 이미 토큰을 사용하여 전송되었거나 전송될 예정인 이메일의 &#39;친구에게 전달&#39; 토큰과 &#39;친구에게 전달&#39; 링크에 영향을 미치게 됩니다. [자세히 알아보기](https://nation.marketo.com/t5/product-blogs/deprecation-of-forward-to-a-friend/ba-p/358045#M2889){target="_blank"}
 
-* **REST API &#39;access_token&#39; 매개변수 사용 중단**: Marketo REST API 호출을 인증하는 데 사용되는 `access_token` 쿼리 매개변수는 사용 중단될 예정이며 2025년 10월 31일 이후에는 사용할 수 없습니다. 모든 신규 및 기존 통합은 [여기에 설명된 대로](https://experienceleague.adobe.com/ko/docs/marketo-developer/marketo/rest/authentication){target="_blank"} &#39;Authorization&#39; 헤더를 사용하여 REST API 호출을 인증해야 합니다.
+* **REST API &#39;access_token&#39; 매개변수 사용 중단**: Marketo REST API 호출을 인증하는 데 사용되는 `access_token` 쿼리 매개변수는 사용 중단될 예정이며 2026년 1월 31일 이후에는 사용할 수 없습니다. 모든 신규 및 기존 통합은 [여기에 설명](https://experienceleague.adobe.com/ko/docs/marketo-developer/marketo/rest/authentication){target="_blank"}된 대로 &#39;Authorization&#39; 헤더를 사용하여 REST API 호출을 인증해야 합니다.
 
-* **SOAP API 사용 중단**: Marketo SOAP API에 대한 지원이 2025년 10월 31일에 종료됩니다. SOAP API 기능을 사용하는 서비스는 [REST API](https://experienceleague.adobe.com/ko/docs/marketo-developer/marketo/rest/rest-api){target="_blank"}로 마이그레이션해야 합니다.
+* **SOAP API 사용 중단**: Marketo SOAP API에 대한 지원이 2026년 1월 31일에 종료됩니다. SOAP API 기능을 사용하는 서비스는 [REST API](https://experienceleague.adobe.com/ko/docs/marketo-developer/marketo/rest/rest-api){target="_blank"}로 마이그레이션해야 합니다.
