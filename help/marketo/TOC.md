@@ -1035,13 +1035,13 @@ ht-degree: 99%
          + [다크 모드](product-docs/email-marketing/email-designer/dark-mode.md)
          + [Litmus로 이메일 렌더링 테스트](product-docs/email-marketing/email-designer/test-email-rendering.md)
          + [개인화 토큰](product-docs/email-marketing/email-designer/personalization-tokens.md)
-         + [AEM 자산으로 작업](product-docs/email-marketing/email-designer/aem-assets.md)
+         + [AEM Assets로 작업](product-docs/email-marketing/email-designer/aem-assets.md)
          + [Adobe Express를 사용하여 이미지 편집](product-docs/email-marketing/email-designer/edit-images-adobe-express.md)
          + [조각](product-docs/email-marketing/email-designer/fragments.md)
          + [사용자 정의 가능한 조각](product-docs/email-marketing/email-designer/customizable-fragments.md)
          + [Marketo Engage용 GenStudio 통합](product-docs/email-marketing/email-designer/genstudio.md)
          + [콘텐츠 잠금](product-docs/email-marketing/email-designer/content-locking.md)
-         + [이메일 Collaboration](product-docs/email-marketing/email-designer/email-collaboration.md)
+         + [이메일 공동 작업](product-docs/email-marketing/email-designer/email-collaboration.md)
          + [AI 어시스턴트](product-docs/email-marketing/email-designer/ai-assistant.md)
          + [SpamAssassin으로 이메일 스팸 신고](product-docs/email-marketing/email-designer/spam-report.md)
       + 이메일 프로그램 {#email-programs}
@@ -1671,7 +1671,7 @@ ht-degree: 99%
    + 예측 콘텐츠 {#predictive-content}
       + [예측 콘텐츠 요약](product-docs/predictive-content/the-predictive-content-summary.md)
       + [예측 콘텐츠 활동에 대한 스마트 목록 정의](product-docs/predictive-content/define-a-smart-list-for-predictive-content-activities.md)
-      + [예측 콘텐츠 분석 개요](product-docs/predictive-content/predictive-content-analytics-overview.md)
+      + [예측 Content Analytics 개요](product-docs/predictive-content/predictive-content-analytics-overview.md)
       + 시작하기 {#getting-started}
          + [알고리즘 목표 설정](product-docs/predictive-content/getting-started/algorithm-goal-settings.md)
          + [콘텐츠 패턴 만들기](product-docs/predictive-content/getting-started/create-content-patterns.md)
@@ -1917,7 +1917,7 @@ ht-degree: 99%
             + [RTP를 Google Universal Analytics와 통합](product-docs/web-personalization/reporting-for-web-personalization/web-analytics-integrations/integrate-rtp-with-google-universal-analytics.md)
             + [Adobe Analytics와 통합](product-docs/web-personalization/reporting-for-web-personalization/web-analytics-integrations/integrate-with-adobe-analytics.md)
       + 웹 개인화 이해 {#understanding-web-personalization}
-         + [콘텐츠 분석 이해](product-docs/web-personalization/understanding-web-personalization/understanding-content-analytics.md)
+         + [Content Analytics 이해](product-docs/web-personalization/understanding-web-personalization/understanding-content-analytics.md)
          + [웹 개인화 용어집](product-docs/web-personalization/understanding-web-personalization/web-personalization-glossary.md)
          + [웹 개인화 개요](product-docs/web-personalization/understanding-web-personalization/web-personalization-overview.md)
       + 템플릿 사용 {#using-templates}
