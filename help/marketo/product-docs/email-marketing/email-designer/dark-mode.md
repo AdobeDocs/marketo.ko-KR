@@ -5,9 +5,9 @@ level: Beginner, Intermediate
 feature: Email Designer
 hide: true
 hidefromtoc: true
-source-git-commit: e6aa9e921776ca635c4c234b950c173bc000a3f7
+source-git-commit: 618514b786546bfc8eb91de04093791bdb41eeae
 workflow-type: tm+mt
-source-wordcount: '1253'
+source-wordcount: '1195'
 ht-degree: 1%
 
 ---
@@ -35,44 +35,44 @@ ht-degree: 1%
 * Yahoo!Mail
 * AOL
 
-다크 모드 사용자 지정 설정을 정의하든 그렇지 않든 간에 이러한 이메일 클라이언트에는 다크 모드 렌더링이 표시되지 않습니다.
+다크 모드 사용자 지정 설정을 정의하는지 여부에 관계없이 이러한 이메일 클라이언트에는 다크 모드 렌더링이 표시되지 않습니다.
 
 ### 자체 다크 모드를 적용하는 클라이언트 {#default-support}
 
-일부 이메일 클라이언트는 수신되는 모든 이메일에 대해 자체 기본 다크 모드를 체계적으로 적용합니다. 색상, 배경, 이미지 등은 해당 이메일 클라이언트별 다크 모드 설정으로 자동 조정됩니다. 외부 수정이 불가능합니다.
+일부 이메일 클라이언트는 수신되는 모든 이메일에 대해 자체 기본 다크 모드를 체계적으로 적용합니다. 색상, 배경, 이미지 등은 해당 이메일 클라이언트별 어두운 모드 설정으로 자동 조정됩니다. 외부 수정이 불가능합니다.
 
-이러한 클라이언트의 예는 다음과 같습니다.
+몇 가지 예는 다음과 같습니다.
 
 * Gmail(데스크탑 웹 메일, iOS, Android, 모바일 웹 메일)
-* 창 보기
+* Outlook Windows
 * Outlook Windows 메일
 
-이 경우 이메일 Designer에서 사용자 정의 다크 모드 설정을 정의하는 경우 해당 설정은 이메일 클라이언트 설정에 의해 재정의됩니다.
+이 경우 이메일 Designer에서 사용자 정의 다크 모드 설정을 정의하는 경우 해당 설정은 이메일 클라이언트의 설정에 의해 재정의됩니다.
 
 따라서 이러한 이메일 클라이언트가 다크 모드를 처리하는 동안 특정 다크 모드 디자인이 렌더링되지 않습니다.
 
-### 사용자 정의 다크 모드를 지원하는 클라이언트 {#custom-support}
+### 사용자 정의 다크 모드를 지원하는 클라이언트 {#custom-dark-mode}
 
-다른 이메일 클라이언트는 `@media (prefers-color-scheme: dark)` 이메일 Designer에서 사용하는 메서드인 [!DNL Marketo Engage] 쿼리를 사용하여 사용자 지정 다크 모드를 렌더링하는 옵션을 제공합니다.
+일부 이메일 클라이언트는 `@media (prefers-color-scheme: dark)` 이메일 Designer에서 사용하는 메서드인 [!DNL Marketo Engage] 쿼리를 사용하여 사용자 지정 다크 모드를 렌더링하는 옵션을 제공합니다.
 
-다음은 이 옵션을 처리하는 주 클라이언트 목록입니다.
+이 옵션을 처리하는 주 클라이언트는 다음과 같습니다.
 
 * Apple 메일 macOS
 * Apple 메일 iOS
-* macOS 보기
+* Outlook macOS
 * Outlook.com
-* iOS 보기
-* Android 보기
+* Outlook iOS
+* Outlook Android
 
-이 경우 이메일 Designer에서 정의하는 설정이 표시되어야 합니다.
+이메일 Designer에서 정의하는 설정이 표시됩니다.
 
 >[!NOTE]
 >
->[이 섹션](#define-custom-dark-mode)에서 전자 메일 Designer을 사용하여 사용자 지정 다크 모드 설정을 정의하는 방법을 알아봅니다.
+>이메일 Designer에서 [사용자 지정 어두운 모드 설정](#define-custom-dark-mode)을(를) 정의하는 방법을 알아봅니다.
 
-단, 각 이메일 클라이언트에 따라 일부 제한 사항이 적용될 수 있습니다. 예를 들어 Apple Mail 16(macOs 13)과 같은 일부 클라이언트는 이미지가 있는 경우 다크 모드를 생성하지 않습니다.
+각 이메일 클라이언트에 따라 일부 제한 사항이 적용될 수 있습니다. 예를 들어 일부 클라이언트(예: Apple Mail 16)는 이미지가 있는 경우 다크 모드를 생성하지 않습니다.
 
-최적의 결과를 얻으려면 타겟팅하는 이메일 클라이언트에서 콘텐츠를 테스트하십시오. 각 클라이언트의 최종 결과에 최대한 근접한 시뮬레이션을 보려면 이메일 Designer의 [이메일 렌더링](/help/marketo/product-docs/email-marketing/email-designer/test-email-rendering.md) 기능을 사용하십시오.
+최적의 결과를 얻으려면 타겟팅하는 이메일 클라이언트에서 콘텐츠를 테스트하십시오. 각 클라이언트에서 시뮬레이션을 보려면 전자 메일 Designer의 [전자 메일 렌더링](/help/marketo/product-docs/email-marketing/email-designer/test-email-rendering.md) 기능을 사용하십시오.
 
 ## 이메일 디자이너의 다크 모드 {#dark-mode-email-designer}
 
@@ -84,7 +84,7 @@ ht-degree: 1%
 
 ### 기본 다크 모드 미리 보기 {#preview-dark-mode}
 
-이메일 Designer에서 다크 모드에 액세스하여 기본 다크 모드 설정을 미리 보려면 아래 단계를 따르십시오.
+이메일 Designer에서 다크 모드에 액세스하고 기본 다크 모드 설정을 미리 보는 방법에 대해 알아봅니다.
 
 1. 이메일 Designer 홈 페이지에서 **[!UICONTROL Design from scratch]** 옵션을 선택합니다.
 
@@ -92,57 +92,57 @@ ht-degree: 1%
 
 1. 오른쪽 상단에서 **[!UICONTROL Dark mode]** 토글을 활성화합니다.
 
-   스크린샷
+   ![](assets/dark-mode-1.png)
 
 1. 기본 어두운 모드 미리보기가 표시됩니다.
 
-   스크린샷
+   ![](assets/dark-mode-2.png)
 
 기본적으로 이메일 Designer 어두운 모드 미리 보기는 이미지와 아이콘을 제외한 모든 요소에 &#39;전체 색상 반전&#39; 색상 스키마를 적용합니다.
 
-밝고 어두운 요소를 가진 영역을 탐지하고 반전시켜 밝은 배경은 어둡게, 어두운 텍스트는 밝게, 어두운 배경은 밝게, 밝은 텍스트는 어두워지게 하는 것을 의미한다.
+즉, 밝은 영역과 어두운 요소를 가진 영역을 탐지하고 반전시킴으로써 밝은 배경은 어둡게, 어두운 텍스트는 밝게, 어두운 배경은 밝게, 밝은 텍스트는 어두워지게 합니다.
 
 >[!CAUTION]
 >
->최종 렌더링은 수신자의 이메일 클라이언트에 따라 달라질 수 있습니다. 각 전자 메일 클라이언트에 대한 최종 결과에 최대한 가까운 시뮬레이션을 보려면 [전자 메일 렌더링](/help/marketo/product-docs/email-marketing/email-designer/test-email-rendering.md) 옵션을 사용하십시오.
+>최종 렌더링은 수신자의 이메일 클라이언트에 따라 달라질 수 있습니다. 각 전자 메일 클라이언트에 대한 시뮬레이션을 보려면 [전자 메일 렌더링](/help/marketo/product-docs/email-marketing/email-designer/test-email-rendering.md) 기능을 사용하십시오.
 
 ### 사용자 정의 다크 모드 정의 {#define-custom-dark-mode}
 
 **[!UICONTROL Dark mode]**(으)로 전환한 후에는 받는 사람의 전자 메일 클라이언트에서 다크 모드가 활성화된 경우에만 표시되는 콘텐츠의 특정 스타일 요소를 편집할 수 있습니다(해당 기능이 지원되는 경우).
 
->[!WARNING]
+>[!IMPORTANT]
 >
->다크 모드 최종 렌더링은 각 이메일 클라이언트에 따라 다르므로 결과가 서로 다를 수 있습니다. [자세히 알아보기](#guardrails)
+>다크 모드 최종 렌더링은 각 이메일 클라이언트에 따라 다르므로 한 클라이언트마다 결과가 다를 수 있습니다. [자세히 알아보기](#guardrails)
 
-이메일 Designer 사용자 지정 어두운 모드 스타일을 활용하기 위해 Journey Optimizer에서는 사용자의 이메일 클라이언트가 어두운 모드로 설정되어 있는지 검색하고 이메일에 정의된 어두운 테마 디자인을 적용하는 `@media (prefers-color-scheme: dark)` CSS 쿼리를 사용합니다.
+이메일 Designer 사용자 지정 어두운 모드 스타일을 활용하기 위해 Marketo Engage에서는 사용자의 이메일 클라이언트가 어두운 모드로 설정되어 있는지 검색하고 이메일에 정의된 어두운 테마 디자인을 적용하는 `@media (prefers-color-scheme: dark)` CSS 쿼리를 사용합니다.
 
 사용자 지정 어두운 모드 설정을 정의하려면 아래 단계를 따르십시오.
 
-1. 이메일 Designer에서 **[!UICONTROL Dark mode]** 미리 보기로 전환했는지 확인하십시오. [방법 알아보기](#preview-dark-mode)
+1. 이메일 Designer에서 [어두운 모드 미리 보기](#preview-dark-mode)(으)로 전환합니다.
 
 1. 텍스트, 배경, 단추 등의 모든 스타일 색상 속성을 편집합니다.
 
-1. 이미지와 아이콘의 색상을 변경할 수 없지만 어두운 모드에 대해서만 특정 에셋을 정의할 수 있습니다. 이렇게 하려면 이미지를 선택합니다. **[!UICONTROL Dark mode]** 창의 전용 토글을 사용하여 **[!UICONTROL Settings]**(으)로 전환하고 다른 에셋을 선택하세요.
+1. 이미지 및 아이콘의 색상을 변경할 수는 없지만 어두운 모드에 대해서만 특정 에셋을 정의할 수 있습니다. 이렇게 하려면 이미지를 선택합니다. **[!UICONTROL Dark mode]** 창의 전용 토글을 사용하여 **[!UICONTROL Settings]**(으)로 전환하고 다른 에셋을 선택하세요.
 
-   스크린샷
+   ![](assets/dark-mode-3.png)
 
-1. 언제든지 **[!UICONTROL Switch to live view]**&#x200B;하여 다양한 장치 크기에서 콘텐츠가 어떻게 렌더링되는지 확인할 수 있습니다. 이 보기에서 화면 상단의 어두운 모드 토글을 선택하여 다른 장치에서 콘텐츠의 어두운 모드 버전을 미리 봅니다.
+1. 언제든지 **[!UICONTROL Switch to live view]**&#x200B;을(를) 통해 다양한 장치 크기에서 콘텐츠가 어떻게 렌더링되는지 확인할 수 있습니다. 이 보기에서 어두운 모드 토글을 선택하여 여러 장치에서 콘텐츠의 어두운 모드 버전을 미리 봅니다.
 
-   스크린샷
+   ![](assets/dark-mode-4.png)
 
-   >[!CAUTION]
+   >[!NOTE]
    >
    >라이브 보기는 다양한 장치 크기에서 렌더링이 어떻게 표시될 수 있는지 비교하도록 설계된 일반 미리 보기입니다. 최종 렌더링은 수신자의 이메일 클라이언트에 따라 달라질 수 있습니다.
 
 1. 다크 모드 변경 사항에 만족하면 **[!UICONTROL Simulate Content]**&#x200B;을(를) 클릭합니다.
 
-   스크린샷
+   ![](assets/dark-mode-5.png)
 
 1. **[!UICONTROL Render email]**&#x200B;을(를) 선택하고 Litmus 계정에 연결합니다. 다양한 이메일 클라이언트에 대한 최종 다크 모드 렌더링을 볼 수 있습니다. [전자 메일 렌더링](/help/marketo/product-docs/email-marketing/email-designer/test-email-rendering.md)에 대해 자세히 알아보세요.
 
-   >[!WARNING]
+   >[!IMPORTANT]
    >
-   >시뮬레이션은 이메일이 다크 모드로 표시되는 방식과 거의 유사하지만 실제 렌더링은 이메일 서비스 공급자 또는 장치 수준 설정의 변경으로 인해 달라질 수 있습니다.
+   >시뮬레이션은 이메일이 다크 모드로 표시되는 방식과 거의 유사하지만 실제 렌더링은 이메일 서비스 공급자 또는 장치 설정의 변경으로 인해 달라질 수 있습니다.
 
 ## 모범 사례 {#best-practices}
 
@@ -182,4 +182,4 @@ ht-degree: 1%
 
 * 반전된 색상 구성표를 사용하여 문제를 조기에 발견하는 이메일 Designer의 [어두운 모드 미리 보기](#preview-dark-mode)를 사용하십시오.
 
-* Litmus를 활용하는 [전자 메일 렌더링](/help/marketo/product-docs/email-marketing/email-designer/test-email-rendering.md) 옵션을 사용하여 주요 전자 메일 클라이언트(Apple Mail, Gmail, Outlook)의 디자인을 시뮬레이션하고 어두운 모드에서 색상과 이미지가 어떻게 작동하는지 확인합니다.
+* Litmus를 활용하는 [전자 메일 렌더링](/help/marketo/product-docs/email-marketing/email-designer/test-email-rendering.md) 기능을 사용하여 주요 전자 메일 클라이언트에서 디자인을 시뮬레이션하고 어두운 모드에서 색상과 이미지가 어떻게 작동하는지 확인할 수 있습니다.
