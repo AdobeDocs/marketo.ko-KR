@@ -3,12 +3,10 @@ description: 다크 모드 - Marketo 문서 - 제품 설명서
 title: 다크 모드
 level: Beginner, Intermediate
 feature: Email Designer
-hide: true
-hidefromtoc: true
-source-git-commit: 618514b786546bfc8eb91de04093791bdb41eeae
+source-git-commit: 77008ff8d8f7c577f48b508737e1b8eb2ac1e5ce
 workflow-type: tm+mt
 source-wordcount: '1195'
-ht-degree: 1%
+ht-degree: 2%
 
 ---
 
