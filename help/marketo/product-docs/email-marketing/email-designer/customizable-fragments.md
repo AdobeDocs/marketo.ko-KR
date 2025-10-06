@@ -7,10 +7,10 @@ level: Beginner, Intermediate
 feature: Email Designer
 role: User
 exl-id: 3e0232c7-13bd-49e2-b7c7-cd389b5f0704
-source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
+source-git-commit: cc6c04ca8a72f6efb0bec93cba084fe2993f53f0
 workflow-type: tm+mt
-source-wordcount: '622'
-ht-degree: 0%
+source-wordcount: '409'
+ht-degree: 1%
 
 ---
 
@@ -51,29 +51,29 @@ ht-degree: 0%
 1. 완료되면 변경 사항을 저장합니다.
 
 조각을 이메일에 추가하면 사용자는 조각에 구성된 편집 가능한 모든 필드를 사용자 지정할 수 있습니다.
+<!--
+## Add editable fields in HTML components and expression fragments {#expression}
 
-## HTML 구성 요소 및 표현식 조각에서 편집 가능한 필드 추가 {#expression}
+To make portions of an HTML component or an expression fragment editable, you must use a specific syntax in the expression editor. This involves declaring a _variable_ with a default value that users can override after adding the fragment to their content.
 
-HTML 구성 요소 또는 표현식 조각의 일부를 편집할 수 있도록 하려면 표현식 편집기에서 특정 구문을 사용해야 합니다. 여기에는 콘텐츠에 조각을 추가한 후 사용자가 재정의할 수 있는 기본값으로 _변수_&#x200B;을(를) 선언하는 작업이 포함됩니다.
+For example, suppose you want to create a fragment to add to your emails, and allow users to customize a specific color used in different locations, such as frames or buttons' background colors. When creating your fragment, you need to declare a variable with a _unique ID_ (e.g., "color"), and call it at the desired locations in the fragment content where you want to apply this color. When adding the fragment to their content, users will be able to customize the color used wherever the variable is referenced.
 
-예를 들어, 이메일에 추가할 조각을 만들고 사용자가 프레임 또는 버튼의 배경색과 같이 다른 위치에서 사용되는 특정 색상을 사용자 지정할 수 있도록 허용하려고 한다고 가정합니다. 조각을 만들 때는 _고유 ID_(예: &quot;color&quot;)로 변수를 선언하고 이 색상을 적용할 조각 콘텐츠의 원하는 위치에서 호출해야 합니다. 조각을 콘텐츠에 추가하면 사용자는 변수가 참조되는 곳마다 사용되는 색상을 사용자 지정할 수 있습니다.
+For HTML components, only specific elements can become editable fields. Expand the section below for more information.
 
-HTML 구성 요소의 경우 특정 요소만 편집 가능한 필드가 될 수 있습니다. 자세한 내용을 보려면 아래 섹션을 확장하십시오.
++++Editable elements in HTML components:
 
-+++HTML 구성 요소에서 편집 가능한 요소:
+The elements below can become editable fields in an HTML component:
 
-아래 요소는 HTML 구성 요소에서 편집 가능한 필드가 될 수 있습니다.
+* A portion of text
+* A full URL for link or image (doesn't work with portion of a URL)
+* Entire CSS property (doesn't work with partial property)
 
-* 텍스트 일부
-* 링크 또는 이미지에 대한 전체 URL(URL의 일부와 작동하지 않음)
-* 전체 CSS 속성(partial 속성과 함께 작동하지 않음)
-
-예를 들어 아래 코드에서 빨간색으로 강조 표시된 각 요소는 속성이 될 수 있습니다.
+For example, in the code below, each element highlighted in red can become a property:
 
 ![](assets/fragment-html.png){width="500" zoomable="yes"}
 
 +++
-
+-->
 >[!MORELIKETHIS]
 >
 >[조각](/help/marketo/product-docs/email-marketing/email-designer/fragments.md){target="_blank"}
