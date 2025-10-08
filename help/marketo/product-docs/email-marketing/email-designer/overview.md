@@ -5,9 +5,9 @@ description: 새로운 Adobe Marketo Engage 이메일 Designer을 시작합니�
 title: 개요
 feature: Email Designer
 exl-id: d31ce148-1feb-411e-bd10-453a6c7878fb
-source-git-commit: a9be6eb2285d592bef2e350396d6e6858e53266c
+source-git-commit: 6389e9549ec8caf9d96e6524e46b61e801fc7806
 workflow-type: tm+mt
-source-wordcount: '859'
+source-wordcount: '871'
 ht-degree: 1%
 
 ---
@@ -72,7 +72,7 @@ ht-degree: 1%
 
 **이전 전자 메일 편집기가 계속 작동합니까? 그렇다면 얼마나 오래 사용하시겠습니까?**
 
-예. 이전(클래식) 이메일 편집기는 새 이메일 Designer과 함께 사용할 수 있습니다. 클래식 편집기에서 만든 이메일은 유지됩니다. 현재 클래식 편집기가 더 이상 사용되지 않는 날짜는 없지만, 2025년 내내 계속 작동합니다.
+예. 이전(클래식) 이메일 편집기는 새 이메일 Designer과 함께 사용할 수 있습니다. 클래식 편집기에서 만든 이메일은 유지됩니다. 현재 클래식 편집기가 더 이상 사용되지 않는 날짜는 없지만 2026년까지 계속 작동합니다. 이전 편집장을 사용하지 않을 때에는 몇 달 전에 통지해 드리겠습니다.
 
 **새 전자 메일 Designer 전자 메일을 사용할 수 있는 프로그램은 무엇입니까?**
 
