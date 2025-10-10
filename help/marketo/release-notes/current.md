@@ -4,9 +4,9 @@ title: 최신 릴리스 정보
 exl-id: a2eccad5-73ad-48f9-8091-51cee23824e1
 feature: Release Information
 source-git-commit: 77008ff8d8f7c577f48b508737e1b8eb2ac1e5ce
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '653'
-ht-degree: 99%
+ht-degree: 100%
 
 ---
 
@@ -42,7 +42,7 @@ Adobe Dynamic Chat에 대한 릴리스 정보는 [여기에서 확인](/help/mar
    <td> </td>
   </tr>
   <tr>
-   <td><strong>이메일 디자이너 - 콘텐츠 공동 작업 워크플로</strong>: 이제 이메일 자산 내에서 다른 Marketo 사용자에 대해 댓글을 달고 공동 작업을 수행할 수 있습니다. 팀원 태그 지정(적절한 자산 권한이 있는 Marketo 사용자)에 태그를 지정하면 이메일 또는 펄스 알림을 받게 됩니다.</td>
+   <td><strong>이메일 디자이너 - 콘텐츠 공동 작업 워크플로</strong>: 이제 이메일 자산 내에서 다른 Marketo 사용자에 대해 댓글을 달고 공동 작업을 수행할 수 있습니다. 팀원 태그 지정(적절한 자산 권한이 있는 Marketo 사용자)에 태그를 지정하면 이메일 또는 펄스 알림을 받습니다.</td>
    <td><i>곧 출시 예정</i></td>
    <td><i>곧 제공 예정</i></td>
   </tr>
