@@ -23,7 +23,7 @@ ht-degree: 7%
 
    >[!NOTE]
    >
-   >어떤 스마트 캠페인이 표시됩니까? &quot;Campaign이 요청됨&quot; 트리거가 있는 트리거입니다. &quot;캠페인이 요청됨[&quot;을(를) 사용하여 ](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/request-campaign.md)트리거된 캠페인을 설정하는 방법을 알아봅니다.
+   >어떤 스마트 캠페인이 표시됩니까? &quot;Campaign이 요청됨&quot; 트리거가 있는 트리거입니다. &quot;캠페인이 요청됨[&quot;을(를) 사용하여 &#x200B;](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/request-campaign.md)트리거된 캠페인을 설정하는 방법을 알아봅니다.
 
 좋습니다. 이제 영업사원이 마케팅 활동에 적극적으로 참여할 수 있습니다.
 

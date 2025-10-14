@@ -18,7 +18,7 @@ ht-degree: 9%
 >[!PREREQUISITES]
 >
 >* [사용자 지정 대상 만들기 [!DNL Facebook]](/help/marketo/product-docs/demand-generation/facebook/create-a-custom-audience-in-facebook.md)
->* [ 계정 내에서  [!DNL Facebook]사용자 지정 대상자 약관](https://www.facebook.com/ads/manage/customaudiences/tos.php)에 동의[!DNL Facebook]합니다.
+>* [&#x200B; 계정 내에서  [!DNL Facebook]사용자 지정 대상자 약관](https://www.facebook.com/ads/manage/customaudiences/tos.php)에 동의[!DNL Facebook]합니다.
 >
 
 1. 추가할 잠재 고객이 포함된 스마트 또는 정적 목록을 찾아 선택합니다.

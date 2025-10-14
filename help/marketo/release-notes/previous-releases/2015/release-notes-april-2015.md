@@ -41,7 +41,7 @@ Marketo Mobile Engagement를 사용하면 매력적인 모바일 경험을 쉽�
 
 [[!DNL LinkedIn] 리드 가속기 통합](/help/marketo/product-docs/demand-generation/social/social-functions/use-a-marketo-list-or-smart-list-as-a-linkedin-audience-segment.md)
 
-리드 육성 전략을 유료 디스플레이 및 소셜 광고로 확장하십시오. [ 리드 가속기와 ](/help/marketo/product-docs/demand-generation/ad-network-integrations/add-linkedin-matched-audiences-as-a-launchpoint-service.md)광고 네트워크 통합[!DNL LinkedIn]을(를) 사용하면 모든 스마트 또는 정적 목록의 구성원을 기반으로 [!DNL LinkedIn] 내에 대상 세그먼트를 안전하게 만들 수 있습니다. 그런 다음 [!DNL LinkedIn] 대상 세그먼트 내의 구성원을 관련 광고 시퀀스로 육성할 수 있습니다.
+리드 육성 전략을 유료 디스플레이 및 소셜 광고로 확장하십시오. [&#x200B; 리드 가속기와 &#x200B;](/help/marketo/product-docs/demand-generation/ad-network-integrations/add-linkedin-matched-audiences-as-a-launchpoint-service.md)광고 네트워크 통합[!DNL LinkedIn]을(를) 사용하면 모든 스마트 또는 정적 목록의 구성원을 기반으로 [!DNL LinkedIn] 내에 대상 세그먼트를 안전하게 만들 수 있습니다. 그런 다음 [!DNL LinkedIn] 대상 세그먼트 내의 구성원을 관련 광고 시퀀스로 육성할 수 있습니다.
 
 ![](assets/image2015-4-20-11-3a3-3a27.png)
 

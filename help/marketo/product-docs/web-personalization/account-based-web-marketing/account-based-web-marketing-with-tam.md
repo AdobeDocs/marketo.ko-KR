@@ -23,7 +23,7 @@ Marketo [!UICONTROL Web Personalization] 및 [!UICONTROL Target Account Manageme
 
    * **참고**: 동기화하는 데 최대 5분이 걸릴 수 있습니다.
 
-* [!UICONTROL Web Personalization]에서 TAM에서 만든 [계정 목록에서 ](/help/marketo/product-docs/web-personalization/account-based-web-marketing/create-a-new-account-list.md)세그먼트를 타겟팅하는 계정을 만들고 이러한 계정에 대한 콘텐츠를 개인화할 수 있습니다
+* [!UICONTROL Web Personalization]에서 TAM에서 만든 [계정 목록에서 &#x200B;](/help/marketo/product-docs/web-personalization/account-based-web-marketing/create-a-new-account-list.md)세그먼트를 타겟팅하는 계정을 만들고 이러한 계정에 대한 콘텐츠를 개인화할 수 있습니다
 
 ## 기존 ABWM 고객의 경우 {#for-existing-abwm-customers}
 

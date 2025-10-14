@@ -45,9 +45,9 @@ ht-degree: 3%
 통합을 사용하여 다음을 수행할 수 있습니다.
 
 * [Google [!DNL AdWords] as a [!DNL LaunchPoint] Service 추가](/help/marketo/product-docs/administration/additional-integrations/add-google-adwords-as-a-launchpoint-service.md)
-* [ [!DNL Facebook]에서 사용자 지정 대상자에 리드 추가](/help/marketo/product-docs/demand-generation/facebook/add-leads-to-a-custom-audience-in-facebook.md)
-* [ [!DNL Facebook]에서 사용자 지정 대상 만들기](/help/marketo/product-docs/demand-generation/facebook/create-a-custom-audience-in-facebook.md)
-* [ [!DNL Facebook] 오프라인 전환 설정](/help/marketo/product-docs/demand-generation/facebook/set-up-facebook-offline-conversions.md)
+* [&#x200B; [!DNL Facebook]에서 사용자 지정 대상자에 리드 추가](/help/marketo/product-docs/demand-generation/facebook/add-leads-to-a-custom-audience-in-facebook.md)
+* [&#x200B; [!DNL Facebook]에서 사용자 지정 대상 만들기](/help/marketo/product-docs/demand-generation/facebook/create-a-custom-audience-in-facebook.md)
+* [&#x200B; [!DNL Facebook] 오프라인 전환 설정](/help/marketo/product-docs/demand-generation/facebook/set-up-facebook-offline-conversions.md)
 * [Marketo 목록 또는 스마트 목록을  [!DNL LinkedIn] 대상 세그먼트로 사용](/help/marketo/product-docs/demand-generation/social/social-functions/use-a-marketo-list-or-smart-list-as-a-linkedin-audience-segment.md)
 
 |   | 대상 데이터 | 잠재 고객 수집 | 오프라인 전환 |

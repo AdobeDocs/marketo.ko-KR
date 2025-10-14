@@ -27,4 +27,4 @@ Gmail에서 이메일을 예약하려면 다음 단계를 수행합니다.
 
    >[!NOTE]
    >
-   >**[!UICONTROL Scheduled]**&#x200B;웹 응용 프로그램[의 ](https://toutapp.com/login) 폴더에서 예약된 전자 메일을 항상 확인할 수 있습니다.
+   >**[!UICONTROL Scheduled]**&#x200B;웹 응용 프로그램[의 &#x200B;](https://toutapp.com/login) 폴더에서 예약된 전자 메일을 항상 확인할 수 있습니다.

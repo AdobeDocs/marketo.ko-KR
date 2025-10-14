@@ -18,7 +18,7 @@ ht-degree: 7%
 >[!PREREQUISITES]
 >
 >* [웹 Personalization 데이터를 사용하여 다시 타깃팅](/help/marketo/product-docs/web-personalization/website-retargeting/retargeting-with-web-personalization-data.md) 설정을 완료합니다.
->* 사용자 지정 대상[ 및 리마케팅에 대한 ](https://developers.facebook.com/docs/ads-for-websites/website-custom-audiences/getting-started#install-the-pixel) [&#128279;](https://developers.facebook.com/docs/ads-for-websites/website-custom-audiences/getting-started#install-the-pixel)Facebook 설명서를 검토하십시오.
+>* 사용자 지정 대상[&#x200B; 및 리마케팅에 대한 &#x200B;](https://developers.facebook.com/docs/ads-for-websites/website-custom-audiences/getting-started#install-the-pixel) [&#128279;](https://developers.facebook.com/docs/ads-for-websites/website-custom-audiences/getting-started#install-the-pixel)Facebook 설명서를 검토하십시오.
 
 ## [!DNL Facebook]에서 대상을 만드는 중 {#creating-an-audience-in-facebook}
 

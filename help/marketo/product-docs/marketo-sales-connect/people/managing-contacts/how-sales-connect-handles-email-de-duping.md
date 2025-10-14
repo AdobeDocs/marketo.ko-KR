@@ -13,7 +13,7 @@ ht-degree: 6%
 
 # [!DNL Sales Connect]에서 전자 메일 중복 제거를 처리하는 방법 {#how-sales-connect-handles-email-de-duping}
 
-[CSV 파일을 ](/help/marketo/product-docs/marketo-sales-connect/people/managing-contacts/import-contacts-via-csv.md)에 업로드[!DNL Sales Connect]하는 경우 가져오기가 수행되기 전에 모든 유사 연락처를 CSV에 병합합니다.
+[CSV 파일을 &#x200B;](/help/marketo/product-docs/marketo-sales-connect/people/managing-contacts/import-contacts-via-csv.md)에 업로드[!DNL Sales Connect]하는 경우 가져오기가 수행되기 전에 모든 유사 연락처를 CSV에 병합합니다.
 
 저희는 비슷한 이메일 주소를 기반으로 합니다. 따라서 동일한 이메일 주소가 두 개 있는 경우 이를 하나의 연락처로 병합합니다.
 

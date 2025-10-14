@@ -23,7 +23,7 @@ ht-degree: 0%
 
 >[!CAUTION]
 >
->[!DNL Account Insight]SSO 전용[(Single Sign-On)이 활성화된 구독에서는 ](/help/marketo/product-docs/administration/additional-integrations/restrict-user-login-to-sso-only.md) 플러그인이 작동하지 않습니다.
+>[!DNL Account Insight]SSO 전용[(Single Sign-On)이 활성화된 구독에서는 &#x200B;](/help/marketo/product-docs/administration/additional-integrations/restrict-user-login-to-sso-only.md) 플러그인이 작동하지 않습니다.
 
 >[!CAUTION]
 >

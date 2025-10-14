@@ -31,7 +31,7 @@ ht-degree: 7%
 
    ![](assets/image2014-9-15-12-3a24-3a59.png)
 
-1. 알려진 사람들에게 표시될 ![을(를) 편집하려면 ](assets/image2014-9-25-14-3a1-3a26.png)—**[!UICONTROL Custom HTML]**&#x200B;을(를) 클릭하십시오.
+1. 알려진 사람들에게 표시될 ![을(를) 편집하려면 &#x200B;](assets/image2014-9-25-14-3a1-3a26.png)—**[!UICONTROL Custom HTML]**&#x200B;을(를) 클릭하십시오.
 
    ![](assets/image2014-9-15-12-3a25-3a38.png)
 

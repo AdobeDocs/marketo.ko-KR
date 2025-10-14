@@ -19,7 +19,7 @@ ht-degree: 4%
 >
 >Marketo-Microsoft 통합을 완료합니다.
 >
->[ 버전에 대해 ](/help/marketo/product-docs/marketo-sales-insight/msi-for-microsoft-dynamics/installing/download-the-marketo-sales-insight-solution-for-microsoft-dynamics.md)올바른 솔루션을 다운로드하십시오[!DNL Microsoft Dynamics CRM].
+>[&#x200B; 버전에 대해 &#x200B;](/help/marketo/product-docs/marketo-sales-insight/msi-for-microsoft-dynamics/installing/download-the-marketo-sales-insight-solution-for-microsoft-dynamics.md)올바른 솔루션을 다운로드하십시오[!DNL Microsoft Dynamics CRM].
 
 ## 솔루션 가져오기 {#import-solution}
 

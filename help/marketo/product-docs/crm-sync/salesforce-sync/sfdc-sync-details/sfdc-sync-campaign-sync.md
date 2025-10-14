@@ -64,7 +64,7 @@ Marketo **프로그램 구성원** 및 **[진행 상태](/help/marketo/product-d
 확인할 수 있는 사항은 다음과 같습니다.
 
 1. [캠페인 동기화가 활성화되었는지 확인](/help/marketo/product-docs/crm-sync/salesforce-sync/setup/optional-steps/enable-disable-campaign-sync.md).
-1. [에서 ](/help/marketo/product-docs/crm-sync/salesforce-sync/setup/enterprise-unlimited-edition/step-2-of-3-create-a-salesforce-user-for-marketo-enterprise-unlimited.md)Marketo 동기화 사용자[가 ](/help/marketo/product-docs/crm-sync/salesforce-sync/setup/optional-steps/enable-disable-campaign-sync/make-marketo-sync-user-a-marketing-user.md)마케팅 사용자[!DNL Salesforce]인지 확인하십시오.
+1. [에서 &#x200B;](/help/marketo/product-docs/crm-sync/salesforce-sync/setup/enterprise-unlimited-edition/step-2-of-3-create-a-salesforce-user-for-marketo-enterprise-unlimited.md)Marketo 동기화 사용자[가 &#x200B;](/help/marketo/product-docs/crm-sync/salesforce-sync/setup/optional-steps/enable-disable-campaign-sync/make-marketo-sync-user-a-marketing-user.md)마케팅 사용자[!DNL Salesforce]인지 확인하십시오.
 
 >[!NOTE]
 >

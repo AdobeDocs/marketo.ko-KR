@@ -190,7 +190,7 @@ Marketo Engage 인스턴스의 [이미지 및 파일](/help/marketo/product-docs
 
 1. 열 도구 모음에서 _[!UICONTROL Select a column]_&#x200B;도구를 클릭하고 편집할 도구를 선택합니다.
 
-   구조 트리에서 선택할 수도 있습니다. 해당 열에 대해 편집 가능한 매개 변수가 오른쪽의 _[!UICONTROL Settings]_&#x200B;및_[!UICONTROL Styles]_ 탭에 표시됩니다.
+   구조 트리에서 선택할 수도 있습니다. 해당 열에 대해 편집 가능한 매개 변수가 오른쪽의 _[!UICONTROL Settings]_&#x200B;및&#x200B;_[!UICONTROL Styles]_ 탭에 표시됩니다.
 
    ![](assets/authoring-layers-settings-styles-2.png)
 

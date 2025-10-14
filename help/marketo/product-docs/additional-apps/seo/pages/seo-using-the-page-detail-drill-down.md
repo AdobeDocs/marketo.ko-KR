@@ -46,7 +46,7 @@ ht-degree: 6%
 
 ## [!UICONTROL Keyword(s) that Page is Optimized For]  {#keyword-s-that-page-is-optimized-for}
 
-여기에서 [페이지를 최적화하려는 키워드를 ](/help/marketo/product-docs/additional-apps/seo/keywords/seo-optimize-specific-pages-with-targeted-keywords.md)에 선택합니다.
+여기에서 [페이지를 최적화하려는 키워드를 &#x200B;](/help/marketo/product-docs/additional-apps/seo/keywords/seo-optimize-specific-pages-with-targeted-keywords.md)에 선택합니다.
 
 >[!NOTE]
 >

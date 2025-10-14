@@ -55,7 +55,7 @@ ht-degree: 5%
    >
    >트리거가 여러 개인 경우, 트리거 중 _ANY_ 하나가 활성화되면 한 사람이 흐름을 통과합니다.
 
-사람들 집합에서 동시에 캠페인을 실행하려면 [Smart Campaign용 스마트 목록을 정의하는 방법을 알아보세요 | 일괄 처리 ](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/creating-a-smart-campaign/define-smart-list-for-smart-campaign-batch.md){target="_blank"}.
+사람들 집합에서 동시에 캠페인을 실행하려면 [Smart Campaign용 스마트 목록을 정의하는 방법을 알아보세요 | 일괄 처리 &#x200B;](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/creating-a-smart-campaign/define-smart-list-for-smart-campaign-batch.md){target="_blank"}.
 
 >[!MORELIKETHIS]
 >

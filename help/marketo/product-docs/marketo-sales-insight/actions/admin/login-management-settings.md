@@ -16,7 +16,7 @@ ht-degree: 1%
 
 >[!NOTE]
 >
->기본적으로 [!UICONTROL Salesforce Only] 인스턴스에 대해 [!DNL Sales Insight Actions] 옵션이 선택됩니다. 사용자가 [에서 ](/help/marketo/product-docs/marketo-sales-insight/actions/admin/auto-login-from-salesforce.md)자동 로그인[!DNL Salesforce]할 수 있도록 이 설정을 사용하는 것이 좋습니다.
+>기본적으로 [!UICONTROL Salesforce Only] 인스턴스에 대해 [!DNL Sales Insight Actions] 옵션이 선택됩니다. 사용자가 [에서 &#x200B;](/help/marketo/product-docs/marketo-sales-insight/actions/admin/auto-login-from-salesforce.md)자동 로그인[!DNL Salesforce]할 수 있도록 이 설정을 사용하는 것이 좋습니다.
 
 ## 로그인 관리 설정 업데이트 {#update-login-management-settings}
 

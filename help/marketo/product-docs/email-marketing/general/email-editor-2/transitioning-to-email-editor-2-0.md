@@ -15,7 +15,7 @@ ht-degree: 0%
 
 # [!DNL Email Editor 2.0]&#x200B;(으)로 전환 {#transitioning-to-email-editor}
 
-1919년 6월 릴리스부터 모든 Marketo 구독이 [!DNL Email Editor 2.0]&#x200B;(으)로 전환되었습니다. [ 사용 중단에 대해 ](https://nation.marketo.com/docs/DOC-7038)자세히 알아보세요[!DNL Email Editor 1.0].
+1919년 6월 릴리스부터 모든 Marketo 구독이 [!DNL Email Editor 2.0]&#x200B;(으)로 전환되었습니다. [&#x200B; 사용 중단에 대해 &#x200B;](https://nation.marketo.com/docs/DOC-7038)자세히 알아보세요[!DNL Email Editor 1.0].
 
 구독 내 이메일 및 이메일 템플릿에는 버전 번호가 있어야 합니다. 버전은 자산의 요약 페이지에서 찾을 수 있습니다.
 

@@ -15,7 +15,7 @@ ht-degree: 8%
 
 Marketo에서 첫 번째 및 다중 접점 속성, 잠재 고객 전환 지표 및 마케팅에 영향을 주는 영업 기회 플래그에 연락처를 연결하는 방식을 변경할 수 있습니다.
 
-이 설정은 [!UICONTROL Revenue Explorer]프로그램 영업 기회 분석[, ](/help/marketo/product-docs/reporting/revenue-cycle-analytics/program-analytics/understanding-the-program-opportunity-analysis-area.md)영업 기회 분석[ 및 잠재 고객 분석 영역에 있는 ](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-explorer/understanding-opportunity-analysis-in-revenue-explorer.md) 보고서에 영향을 줍니다. 이는 [!UICONTROL Program Analyzer] 보고서에도 영향을 줍니다.
+이 설정은 [!UICONTROL Revenue Explorer]프로그램 영업 기회 분석[, &#x200B;](/help/marketo/product-docs/reporting/revenue-cycle-analytics/program-analytics/understanding-the-program-opportunity-analysis-area.md)영업 기회 분석[&#x200B; 및 잠재 고객 분석 영역에 있는 &#x200B;](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-explorer/understanding-opportunity-analysis-in-revenue-explorer.md) 보고서에 영향을 줍니다. 이는 [!UICONTROL Program Analyzer] 보고서에도 영향을 줍니다.
 
 1. **[!UICONTROL Admin]** 영역으로 이동합니다.
 

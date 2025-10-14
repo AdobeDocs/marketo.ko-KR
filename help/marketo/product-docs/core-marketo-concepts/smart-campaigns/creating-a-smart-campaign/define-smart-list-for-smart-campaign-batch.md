@@ -51,7 +51,7 @@ ht-degree: 5%
    >
    >기본적으로 모든 스마트 목록 규칙을 충족하는 사람은 자격이 있습니다. 이는 캠페인 요구 사항에 맞게 수정할 수 있습니다. 자세히 알아보려면 [복잡한 논리에 대한 스마트 목록 규칙](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/using-smart-lists/using-advanced-smart-list-rule-logic.md){target="_blank"}을 확인하십시오.
 
-   한 번에 한 사람씩 라이브 이벤트를 트리거하려면 [Smart Campaign용 스마트 목록을 정의하는 방법을 알아보세요. | 트리거 ](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/creating-a-smart-campaign/define-smart-list-for-smart-campaign-trigger.md){target="_blank"}.
+   한 번에 한 사람씩 라이브 이벤트를 트리거하려면 [Smart Campaign용 스마트 목록을 정의하는 방법을 알아보세요. | 트리거 &#x200B;](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/creating-a-smart-campaign/define-smart-list-for-smart-campaign-trigger.md){target="_blank"}.
 
    >[!MORELIKETHIS]
    >

@@ -51,7 +51,7 @@ ht-degree: 4%
 
 >[!NOTE]
 >
->웹 토큰은 [ > ](/help/marketo/product-docs/web-personalization/using-web-segments/manage-person-data.md)에서 [!DNL Marketo Database]에서 관리되는 [!DNL Web Personalization]의 [!UICONTROL Account Settings]사람 데이터[!UICONTROL Database]를 사용합니다. 웹 토큰이 아직 [!UICONTROL Account Settings] > [!UICONTROL Database]에 없는 새 데이터베이스 필드인 경우 자동으로 추가되며 활성화하는 데 최대 24시간이 걸릴 수 있습니다.
+>웹 토큰은 [&#x200B; > &#x200B;](/help/marketo/product-docs/web-personalization/using-web-segments/manage-person-data.md)에서 [!DNL Marketo Database]에서 관리되는 [!DNL Web Personalization]의 [!UICONTROL Account Settings]사람 데이터[!UICONTROL Database]를 사용합니다. 웹 토큰이 아직 [!UICONTROL Account Settings] > [!UICONTROL Database]에 없는 새 데이터베이스 필드인 경우 자동으로 추가되며 활성화하는 데 최대 24시간이 걸릴 수 있습니다.
 
 >[!MORELIKETHIS]
 >

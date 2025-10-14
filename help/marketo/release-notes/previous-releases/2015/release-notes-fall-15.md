@@ -43,7 +43,7 @@ ht-degree: 1%
 
 ## [!DNL Google Chrome]에 대한 Marketo Insights {#marketo-insights-for-google-chrome}
 
-[ [!DNL Google Chrome]에 대한 Marketo 인사이트](/help/marketo/product-docs/marketo-sales-insight/msi-chrome-plugin/using-marketo-insights-for-google-chrome.md)
+[&#x200B; [!DNL Google Chrome]에 대한 Marketo 인사이트](/help/marketo/product-docs/marketo-sales-insight/msi-chrome-plugin/using-marketo-insights-for-google-chrome.md)
 
 [!DNL Google Mail] [!DNL Sales Insight] 확장에 대한 업데이트 릴리스를 발표하게 되어 기쁘게 생각합니다! [[!DNL Chrome Store]](https://chrome.google.com/webstore/detail/marketo-insights-for-goog/jjkfbhajlmoeegbjgjipliamplidmbjb)에서 봅니다.
 

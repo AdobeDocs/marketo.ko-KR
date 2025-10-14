@@ -21,7 +21,7 @@ ht-degree: 2%
 
 >[!PREREQUISITES]
 >
->사용자 지정 개체를 사용하려면 [의 ](/help/marketo/product-docs/crm-sync/salesforce-sync/sfdc-sync-details/sfdc-sync-field-sync.md)리드[, ](/help/marketo/product-docs/crm-sync/salesforce-sync/sfdc-sync-details/sfdc-sync-contact-sync.md)연락처[ 또는 ](/help/marketo/product-docs/crm-sync/salesforce-sync/sfdc-sync-details/sfdc-sync-account-sync.md)계정[!DNL Salesforce] 개체와 연결되어 있어야 합니다.
+>사용자 지정 개체를 사용하려면 [의 &#x200B;](/help/marketo/product-docs/crm-sync/salesforce-sync/sfdc-sync-details/sfdc-sync-field-sync.md)리드[, &#x200B;](/help/marketo/product-docs/crm-sync/salesforce-sync/sfdc-sync-details/sfdc-sync-contact-sync.md)연락처[&#x200B; 또는 &#x200B;](/help/marketo/product-docs/crm-sync/salesforce-sync/sfdc-sync-details/sfdc-sync-account-sync.md)계정[!DNL Salesforce] 개체와 연결되어 있어야 합니다.
 
 >[!IMPORTANT]
 >

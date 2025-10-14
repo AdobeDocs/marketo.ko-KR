@@ -13,7 +13,7 @@ ht-degree: 3%
 
 >[!PREREQUISITES]
 >
->* [ 인스턴스에서 ](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/installation/install-marketo-sales-insight-package-in-salesforce-appexchange.md)설치[ 또는 ](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/upgrading/upgrading-your-msi-package.md)업그레이드[!DNL Salesforce] Sales Insight 패키지
+>* [&#x200B; 인스턴스에서 &#x200B;](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/installation/install-marketo-sales-insight-package-in-salesforce-appexchange.md)설치[&#x200B; 또는 &#x200B;](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/upgrading/upgrading-your-msi-package.md)업그레이드[!DNL Salesforce] Sales Insight 패키지
 >* [Enterprise/Unlimited에서 Marketo Sales Insight 구성 [!DNL Salesforce] 2&rbrace;](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/configuration/configure-marketo-sales-insight-in-salesforce-enterprise-unlimited.md)
 
 ## [!DNL Salesforce]에 새 원격 사이트 추가 {#add-new-remote-site-in-salesforce}

@@ -43,7 +43,7 @@ ht-degree: 3%
 
 >[!NOTE]
 >
->[에서 ](/help/marketo/product-docs/core-marketo-concepts/programs/tokens/understanding-my-tokens-in-a-program.md) 또는 [!DNL Sales Insight]에 전자 메일을 보낼 때 [!DNL Microsoft Dynamics]내 토큰[!DNL Salesforce]이 확인되지 않습니다. 표준 토큰만 채워집니다(Lead, Company 등). 그러나 토큰의 기본값은 작동합니다.
+>[에서 &#x200B;](/help/marketo/product-docs/core-marketo-concepts/programs/tokens/understanding-my-tokens-in-a-program.md) 또는 [!DNL Sales Insight]에 전자 메일을 보낼 때 [!DNL Microsoft Dynamics]내 토큰[!DNL Salesforce]이 확인되지 않습니다. 표준 토큰만 채워집니다(Lead, Company 등). 그러나 토큰의 기본값은 작동합니다.
 
 >[!TIP]
 >

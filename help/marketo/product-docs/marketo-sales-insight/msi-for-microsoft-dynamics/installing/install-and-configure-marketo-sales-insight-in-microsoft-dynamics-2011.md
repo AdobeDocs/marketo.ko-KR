@@ -19,7 +19,7 @@ ht-degree: 5%
 >
 >Marketo-Microsoft 통합을 완료합니다.
 >
->[ CRM 버전에 대해 ](/help/marketo/product-docs/marketo-sales-insight/msi-for-microsoft-dynamics/installing/download-the-marketo-sales-insight-solution-for-microsoft-dynamics.md)올바른 솔루션을 다운로드하십시오[!DNL Microsoft Dynamics].
+>[&#x200B; CRM 버전에 대해 &#x200B;](/help/marketo/product-docs/marketo-sales-insight/msi-for-microsoft-dynamics/installing/download-the-marketo-sales-insight-solution-for-microsoft-dynamics.md)올바른 솔루션을 다운로드하십시오[!DNL Microsoft Dynamics].
 
 ## 솔루션 가져오기 {#import-solution}
 
@@ -39,7 +39,7 @@ ht-degree: 5%
    >
    >계속 진행하기 전에 이미 Marketo 솔루션을 [설치 및 구성](/help/marketo/product-docs/marketo-sales-insight/msi-for-microsoft-dynamics/installing/install-and-configure-marketo-sales-insight-in-microsoft-dynamics-2011.md)해야 합니다.
 
-1. **[!UICONTROL Browse]**&#x200B;을(를) 클릭합니다. [!DNL Marketo Sales Insight]다운로드한[에서 ](/help/marketo/product-docs/marketo-sales-insight/msi-for-microsoft-dynamics/installing/download-the-marketo-sales-insight-solution-for-microsoft-dynamics.md) 솔루션을 선택합니다. **[!UICONTROL Next]**&#x200B;를 클릭합니다.
+1. **[!UICONTROL Browse]**&#x200B;을(를) 클릭합니다. [!DNL Marketo Sales Insight]다운로드한[에서 &#x200B;](/help/marketo/product-docs/marketo-sales-insight/msi-for-microsoft-dynamics/installing/download-the-marketo-sales-insight-solution-for-microsoft-dynamics.md) 솔루션을 선택합니다. **[!UICONTROL Next]**&#x200B;를 클릭합니다.
 
    ![](assets/image2015-5-4-10-3a55-3a15.png)
 

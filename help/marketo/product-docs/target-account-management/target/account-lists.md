@@ -21,7 +21,7 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->[!UICONTROL Target Account Management]Web Personalization[에서 스마트 목록 및 웹 캠페인을 작성할 때 Marketo ](/help/marketo/product-docs/web-personalization/using-web-segments/web-segments.md)에서 만든 계정 목록을 자동으로 사용할 수 있습니다.
+>[!UICONTROL Target Account Management]Web Personalization[에서 스마트 목록 및 웹 캠페인을 작성할 때 Marketo &#x200B;](/help/marketo/product-docs/web-personalization/using-web-segments/web-segments.md)에서 만든 계정 목록을 자동으로 사용할 수 있습니다.
 
 ## 새 계정 목록 만들기 {#create-a-new-account-list}
 

@@ -84,7 +84,7 @@ Adobe Experience Platform(AEP)도 사용하는 Marketo Engage 고객은 AEP 대�
 
 * **사용자 초대 대화 상자에 로그인**: 3월부터 선택적 기능인 기존 &quot;사용자 초대 대화 상자에 로그인&quot;이 더 이상 사용되지 않습니다. 기능 &quot;[!UICONTROL Login in Invite User Dialog]&quot; 기능은 향후 Adobe Identity Management 시스템 통합에 필요한 유니버설 ID 기능으로 대체되었으며 모든 구독에서 2021년 8월에 활성화되었습니다. 사용 중단으로 인해 Marketo Engage에서는 구독 내 이메일 주소당 하나의 사용자만 연결하도록 강제합니다.
 
-**Marketo Engage 도메인 - [!DNL Sales Insight] 구성**: SSL 인증서가 프로비저닝되고 https://이 없는 Marketo Engage 도메인의 경우 SSL 핸드셰이크 오류로 인해 호출이 실패합니다. 따라서 이러한 도메인은 사용되지 않습니다. 따라서 이러한 도메인을 가리키는 이전 구성을 가진 [!DNL Sales Insight]명의 사용자에게 리드, 연락처, 계정, 영업 기회 패널 또는 Marketo 글로벌 페이지에서 시스템 호출 오류가 발생할 수 있습니다. 이 오류가 발생하면 [에서 ](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/configuration/configure-marketo-sales-insight-in-salesforce-enterprise-unlimited.md)Marketo Engage 구성[!DNL Salesforce]을 업데이트하는 것이 좋습니다. 문서의 &quot;[!DNL Marketo Sales Insight] 구성&quot; 섹션에서 강조 표시된 Marketo Engage 자격 증명만 업데이트하면 됩니다.
+**Marketo Engage 도메인 - [!DNL Sales Insight] 구성**: SSL 인증서가 프로비저닝되고 https://이 없는 Marketo Engage 도메인의 경우 SSL 핸드셰이크 오류로 인해 호출이 실패합니다. 따라서 이러한 도메인은 사용되지 않습니다. 따라서 이러한 도메인을 가리키는 이전 구성을 가진 [!DNL Sales Insight]명의 사용자에게 리드, 연락처, 계정, 영업 기회 패널 또는 Marketo 글로벌 페이지에서 시스템 호출 오류가 발생할 수 있습니다. 이 오류가 발생하면 [에서 &#x200B;](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/configuration/configure-marketo-sales-insight-in-salesforce-enterprise-unlimited.md)Marketo Engage 구성[!DNL Salesforce]을 업데이트하는 것이 좋습니다. 문서의 &quot;[!DNL Marketo Sales Insight] 구성&quot; 섹션에서 강조 표시된 Marketo Engage 자격 증명만 업데이트하면 됩니다.
 
 **_제품 릴리스 웨비나_**
 

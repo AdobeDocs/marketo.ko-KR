@@ -203,7 +203,7 @@ Marketo 사용자 필드를 Salesforce 연락처 필드에 매핑하여 전환�
 
 1. [Marketo의 Sales Insight 관리 페이지](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/configuration/configure-marketo-sales-insight-in-salesforce-professional-edition.md#set-up-marketo-sales-insight){target="_blank"}에 있는 Soap API 패널에서 자격 증명을 복사하여 Salesforce Sales Insight 구성 페이지의 Soap API 섹션에 붙여넣습니다.
 
-1. **[!UICONTROL Rest API]** Marketo의 Sales Insight 관리 페이지[에 있는 ](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/configuration/configure-marketo-sales-insight-in-salesforce-professional-edition.md#set-up-marketo-sales-insight){target="_blank"} 패널에서 자격 증명을 복사하여 Salesforce Sales Insight 구성 페이지의 Rest API 섹션에 붙여넣으십시오.
+1. **[!UICONTROL Rest API]** Marketo의 Sales Insight 관리 페이지[에 있는 &#x200B;](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/configuration/configure-marketo-sales-insight-in-salesforce-professional-edition.md#set-up-marketo-sales-insight){target="_blank"} 패널에서 자격 증명을 복사하여 Salesforce Sales Insight 구성 페이지의 Rest API 섹션에 붙여넣으십시오.
 
    ![](assets/configure-marketo-sales-insight-in-salesforce-professional-edition-27.png)
 

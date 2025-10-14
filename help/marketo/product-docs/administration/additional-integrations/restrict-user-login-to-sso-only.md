@@ -45,7 +45,7 @@ ht-degree: 8%
 
 >[!TIP]
 >
->**[!UICONTROL Require SSO]**&#x200B;을(를) 선택하는 경우 역할을 설정하는 동안 [ 옵션을 선택하여 ](/help/marketo/product-docs/administration/users-and-roles/create-delete-edit-and-change-a-user-role.md)사용자 역할&#x200B;**[!UICONTROL Bypass Single Sign-On]**&#x200B;을(를) 이 제한에서 제외할 수 있습니다. 이렇게 하면 사용자가 정상적으로 로그인할 수 있습니다. 예를 들어 관리자는 로그인 화면을 통해 Marketo에 로그인해야 할 수 있습니다. SSO와 Universal ID가 모두 활성화되어 있으면 구독 간에 전환하려면 &quot;단일 사인온 우회&quot; 권한이 설정되어 있어야 합니다.
+>**[!UICONTROL Require SSO]**&#x200B;을(를) 선택하는 경우 역할을 설정하는 동안 [&#x200B; 옵션을 선택하여 &#x200B;](/help/marketo/product-docs/administration/users-and-roles/create-delete-edit-and-change-a-user-role.md)사용자 역할&#x200B;**[!UICONTROL Bypass Single Sign-On]**&#x200B;을(를) 이 제한에서 제외할 수 있습니다. 이렇게 하면 사용자가 정상적으로 로그인할 수 있습니다. 예를 들어 관리자는 로그인 화면을 통해 Marketo에 로그인해야 할 수 있습니다. SSO와 Universal ID가 모두 활성화되어 있으면 구독 간에 전환하려면 &quot;단일 사인온 우회&quot; 권한이 설정되어 있어야 합니다.
 
 >[!CAUTION]
 >

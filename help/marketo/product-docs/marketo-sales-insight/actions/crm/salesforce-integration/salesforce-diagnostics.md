@@ -66,7 +66,7 @@ ht-degree: 0%
 **오류:** EXPIRED_ACCESS
 **범주:** 인증
 **메시지:** 잘못된 부여: 만료된 액세스/새로 고침 토큰
-**진행 상황:** 액세스 또는 새로 고침 토큰이 만료되었습니다. 토큰은 [ [!DNL Salesforce]의 ](https://salesforce.stackexchange.com/questions/10759/invalid-grant-expired-access-refresh-token-error-when-authenticating-access-via)세션 설정에 따라 만료됩니다.
+**진행 상황:** 액세스 또는 새로 고침 토큰이 만료되었습니다. 토큰은 [&#x200B; [!DNL Salesforce]의 &#x200B;](https://salesforce.stackexchange.com/questions/10759/invalid-grant-expired-access-refresh-token-error-when-authenticating-access-via)세션 설정에 따라 만료됩니다.
 **문제 해결 단계:** 다시 인증해야 합니다. [!DNL Salesforce] 연결을 끊고 다시 연결합니다.
 
 **오류:** FAILED_WRITE

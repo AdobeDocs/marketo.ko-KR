@@ -35,7 +35,7 @@ Marketo은 [영업 기회 연락처 역할](https://help.salesforce.com/HTViewHe
 
 ## 한 사람의 모든 기회를 어떻게 볼 수 있습니까? {#how-can-i-see-all-the-opportunities-of-a-person}
 
-**[!UICONTROL Opportunity Info]**&#x200B;개인 세부 정보[ 페이지의 ](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/managing-people-in-smart-lists/using-the-person-detail-page.md) 탭에서 기회 목록을 볼 수 있습니다.
+**[!UICONTROL Opportunity Info]**&#x200B;개인 세부 정보[&#x200B; 페이지의 &#x200B;](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/managing-people-in-smart-lists/using-the-person-detail-page.md) 탭에서 기회 목록을 볼 수 있습니다.
 
 ## 영업 기회와 관련된 트리거/필터는 무엇입니까? {#what-are-the-triggers-filters-related-to-opportunity}
 

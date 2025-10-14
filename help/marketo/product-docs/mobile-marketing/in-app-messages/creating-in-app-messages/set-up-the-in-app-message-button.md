@@ -71,7 +71,7 @@ ht-degree: 0%
    >
    >단추에는 항상 누르기 작업이 있으므로 [누르기 작업] 확인란이 자동으로 선택됩니다. 기본 메시지는 &quot;[!UICONTROL Dismiss Message]&quot;입니다.
 
-거의 다 됐어 마지막 단계는 [인앱 메시지 배경을 구성하고 ](/help/marketo/product-docs/mobile-marketing/in-app-messages/creating-in-app-messages/set-up-the-in-app-message-background.md) 단추를 해제하는 것입니다.
+거의 다 됐어 마지막 단계는 [인앱 메시지 배경을 구성하고 &#x200B;](/help/marketo/product-docs/mobile-marketing/in-app-messages/creating-in-app-messages/set-up-the-in-app-message-background.md) 단추를 해제하는 것입니다.
 
 >[!MORELIKETHIS]
 >

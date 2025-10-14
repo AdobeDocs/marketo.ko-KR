@@ -19,7 +19,7 @@ ht-degree: 3%
 
 ## 사람들이 프로그램의 구성원이 되는 방법 {#how-people-become-members-of-a-program}
 
-1. 사용자가 프로그램의 랜딩 페이지[에 ](/help/marketo/getting-started/quick-wins/landing-page-with-a-form.md){target="_blank"}양식을 작성합니다.
+1. 사용자가 프로그램의 랜딩 페이지[에 &#x200B;](/help/marketo/getting-started/quick-wins/landing-page-with-a-form.md){target="_blank"}양식을 작성합니다.
 
    * 개인은 자동으로 진행 중 첫 번째 상태를 갖게 됩니다.
 

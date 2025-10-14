@@ -21,7 +21,7 @@ ht-degree: 1%
 
 이제 랜딩 페이지 편집기 내에서 [랜딩 페이지의 모바일 보기를 빌드](/help/marketo/product-docs/demand-generation/landing-pages/free-form-landing-pages/add-a-mobile-view-for-your-free-form-landing-page.md)할 수 있습니다. 장치에 관계없이 메시지를 효과적으로 전달하고, 콘텐츠를 맞춤화하여 이동 중에도 쉽게 사용할 수 있도록 하여 참여도를 높이십시오. 이 기능은 릴리스 후 일주일 동안 점진적으로 롤아웃됩니다.
 
-[ 랜딩 페이지 워크스루 비디오-](https://youtu.be/aPQHlG2X6c0)
+[&#x200B; 랜딩 페이지 워크스루 비디오-](https://youtu.be/aPQHlG2X6c0)
 
 **새 REST API 호출**
 

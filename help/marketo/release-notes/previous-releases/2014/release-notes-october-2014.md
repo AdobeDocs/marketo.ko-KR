@@ -34,17 +34,17 @@ API를 사용하여 잠재 고객에 대한 새 활동 또는 변경 사항을 �
 
 ## MSI - [!DNL Microsoft Dynamics]에 대한 Marketo 이메일 보내기 {#msi-send-marketo-email-for-microsoft-dynamics}
 
-[의 잠재 고객 및 연락처로 ](/help/marketo/product-docs/marketo-sales-insight/msi-for-microsoft-dynamics/setting-up-and-using/send-a-marketo-sales-email-from-microsoft-dynamics.md)판매 전자 메일을 보내고 추적[!DNL Microsoft Dynamics]합니다.
+[의 잠재 고객 및 연락처로 &#x200B;](/help/marketo/product-docs/marketo-sales-insight/msi-for-microsoft-dynamics/setting-up-and-using/send-a-marketo-sales-email-from-microsoft-dynamics.md)판매 전자 메일을 보내고 추적[!DNL Microsoft Dynamics]합니다.
 
 ![](assets/image2014-10-20-11-3a49-3a25.png)
 
 ## MSI - [!DNL Microsoft Dynamics]에 대한 Marketo 캠페인에 추가 {#msi-add-to-marketo-campaigns-for-microsoft-dynamics}
 
-[ 내에서 직접 ](/help/marketo/product-docs/marketo-sales-insight/msi-for-microsoft-dynamics/setting-up-and-using/add-a-lead-contact-to-a-marketo-campaign-from-microsoft-dynamics.md)Marketo 스마트 캠페인에 리드 및 연락처 추가[!DNL Microsoft Dynamics]. 마케팅은 영업에 사용할 수 있는 Marketo 캠페인을 선택할 수 있습니다.
+[&#x200B; 내에서 직접 &#x200B;](/help/marketo/product-docs/marketo-sales-insight/msi-for-microsoft-dynamics/setting-up-and-using/add-a-lead-contact-to-a-marketo-campaign-from-microsoft-dynamics.md)Marketo 스마트 캠페인에 리드 및 연락처 추가[!DNL Microsoft Dynamics]. 마케팅은 영업에 사용할 수 있는 Marketo 캠페인을 선택할 수 있습니다.
 
 ## [!DNL Microsoft Dynamics] 동기화에 대한 사용자 지정 엔터티 지원 {#custom-entity-support-for-microsoft-dynamics-sync}
 
-스마트 목록, 스마트 캠페인, 프로그램에서 필터링 및 트리거하려면 [의 사용자 지정 개체 데이터를 ](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/microsoft-dynamics-sync-details/enable-sync-for-a-custom-entity.md)사용합니다[!DNL Microsoft Dynamics]...
+스마트 목록, 스마트 캠페인, 프로그램에서 필터링 및 트리거하려면 [의 사용자 지정 개체 데이터를 &#x200B;](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/microsoft-dynamics-sync-details/enable-sync-for-a-custom-entity.md)사용합니다[!DNL Microsoft Dynamics]...
 
 ## [!DNL Microsoft Dynamics] 동기화에 대한 주주 지원 {#shareholder-support-for-microsoft-dynamics-sync}
 

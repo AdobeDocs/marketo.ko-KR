@@ -255,7 +255,7 @@ DMARC 정렬에는 DKIM 정렬과 SPF 정렬의 두 가지 유형이 있습니�
 
 * DKIM 정렬 DMARC - DKIM 정렬 DMARC을 설정하려면 다음을 수행해야 합니다.
 
-   * 메시지의 보낸 사람: 도메인에 대한 DKIM을 설정합니다. 이 문서[의 지침 ](/help/marketo/product-docs/email-marketing/deliverability/set-up-a-custom-dkim-signature.md){target="_blank"}을(를) 사용합니다.
+   * 메시지의 보낸 사람: 도메인에 대한 DKIM을 설정합니다. 이 문서[의 지침 &#x200B;](/help/marketo/product-docs/email-marketing/deliverability/set-up-a-custom-dkim-signature.md){target="_blank"}을(를) 사용합니다.
    * 이전에 구성된 FROM:/DKIM 도메인에 대해 DMARC 구성
 
 * DMARC 정렬 SPF - 브랜드 반환 경로를 통해 DMARC 정렬 SPF를 설정하려면 다음을 수행해야 합니다.

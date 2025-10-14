@@ -45,7 +45,7 @@ ht-degree: 5%
    >
    >이것은 추가 정보 Call to action을 사용하는 예입니다. 리드 광고 단위 Call to action이 다를 수 있습니다.
 
-1. 여기서 마법이 일어나요! 양식을 제출했으면 [프로그램의 일부나 ](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/creating-a-smart-list/create-a-smart-list.md) 필터를 사용하는 잠재 고객 데이터베이스에 Marketo에서 스마트 목록을 빌드&#x200B;**[!UICONTROL Filled Out Facebook Lead Ads Form]**&#x200B;합니다. 방금 제출한 양식의 리드 광고 양식 이름을 삽입합니다.
+1. 여기서 마법이 일어나요! 양식을 제출했으면 [프로그램의 일부나 &#x200B;](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/creating-a-smart-list/create-a-smart-list.md) 필터를 사용하는 잠재 고객 데이터베이스에 Marketo에서 스마트 목록을 빌드&#x200B;**[!UICONTROL Filled Out Facebook Lead Ads Form]**&#x200B;합니다. 방금 제출한 양식의 리드 광고 양식 이름을 삽입합니다.
 
    ![](assets/image2016-3-11-8-3a59-3a34.png)
 

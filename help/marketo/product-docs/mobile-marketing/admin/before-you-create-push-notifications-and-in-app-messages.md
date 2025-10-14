@@ -25,7 +25,7 @@ ht-degree: 4%
 
 1. 개발자 [Android에 대한 서버 API 키 및 프로젝트 번호](https://experienceleague.adobe.com/ko/docs/marketo-developer/marketo/mobile/installation#how-to-install-marketo-sdk-on-android) 또는 [iOS에 대한 인증 및 암호](https://experienceleague.adobe.com/ko/docs/marketo-developer/marketo/mobile/installation#install-marketo-sdk-on-ios)를 생성하여 Marketo 관리자에게 보냅니다.
 
-1. Marketo 관리자는 푸시 알림 액세스 [서버 API 키(Android)로 ](/help/marketo/product-docs/mobile-marketing/admin/configure-mobile-app-android-push-access.md) 또는 [인증서(iOS)로 ](/help/marketo/product-docs/mobile-marketing/admin/configure-mobile-app-ios-push-access.md)을(를) 구성합니다.
+1. Marketo 관리자는 푸시 알림 액세스 [서버 API 키(Android)로 &#x200B;](/help/marketo/product-docs/mobile-marketing/admin/configure-mobile-app-android-push-access.md) 또는 [인증서(iOS)로 &#x200B;](/help/marketo/product-docs/mobile-marketing/admin/configure-mobile-app-ios-push-access.md)을(를) 구성합니다.
 
 >[!TIP]
 >

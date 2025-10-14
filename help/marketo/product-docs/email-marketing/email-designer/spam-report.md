@@ -53,4 +53,4 @@ SpamAssassin은 콘텐츠를 분석하고 다양한 기준에 따라 점수를 �
 
 >[!NOTE]
 >
->스팸 점수는 SpamAssassin을 통해 파생되며 **규칙은 Adobe이 소유하지 않습니다**. 이러한 규칙에 대한 자세한 내용은 [SpamAssassin 설명서](https://spamassassin.apache.org/#_blank){target="_blank"}에서 확인할 수 있습니다. [오류 전체 목록이 ](https://spamassassin.apache.org/old/tests_3_0_x.html){target="_blank"}에 표시됩니다.
+>스팸 점수는 SpamAssassin을 통해 파생되며 **규칙은 Adobe이 소유하지 않습니다**. 이러한 규칙에 대한 자세한 내용은 [SpamAssassin 설명서](https://spamassassin.apache.org/#_blank){target="_blank"}에서 확인할 수 있습니다. [오류 전체 목록이 &#x200B;](https://spamassassin.apache.org/old/tests_3_0_x.html){target="_blank"}에 표시됩니다.

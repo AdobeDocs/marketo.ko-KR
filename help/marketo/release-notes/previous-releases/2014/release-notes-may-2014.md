@@ -73,7 +73,7 @@ AppExchange에서 최신 버전의 [!UICONTROL Sales Insight]을(를) 다운로�
 
 ## [!UICONTROL Email Analysis]의 A/B 테스트 전자 메일 {#a-b-test-emails-in-email-analysis}
 
-[의 각 ](/help/marketo/product-docs/reporting/revenue-cycle-analytics/email-analysis/build-an-email-analysis-report-that-shows-program-information.md)A/B 테스트 전자 메일 변형[!UICONTROL Email Analysis]에 대해 보고합니다.
+[의 각 &#x200B;](/help/marketo/product-docs/reporting/revenue-cycle-analytics/email-analysis/build-an-email-analysis-report-that-shows-program-information.md)A/B 테스트 전자 메일 변형[!UICONTROL Email Analysis]에 대해 보고합니다.
 
 ## Analytics 패키징 변경 사항 {#analytics-packaging-changes}
 

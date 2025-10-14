@@ -13,7 +13,7 @@ ht-degree: 20%
 
 # 내 보고서 및 그룹 보고서 이해 {#understanding-my-reports-and-group-reports}
 
-**[!UICONTROL My Reports]** Analytics 홈&#x200B;**[!UICONTROL Group Reports]**&#x200B;에서 [ 및 ](/help/marketo/product-docs/reporting/basic-reporting/creating-reports/navigating-the-analytics-home-page.md)을(를) 만들 수 있습니다.
+**[!UICONTROL My Reports]** Analytics 홈&#x200B;**[!UICONTROL Group Reports]**&#x200B;에서 [&#x200B; 및 &#x200B;](/help/marketo/product-docs/reporting/basic-reporting/creating-reports/navigating-the-analytics-home-page.md)을(를) 만들 수 있습니다.
 
 **[!UICONTROL My Reports]**&#x200B;은(는) 귀하에게만 표시됩니다.
 

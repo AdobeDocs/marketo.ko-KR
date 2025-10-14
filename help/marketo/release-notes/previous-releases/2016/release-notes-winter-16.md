@@ -26,7 +26,7 @@ ht-degree: 1%
 
 ## [Microsoft Edge 브라우저](/help/marketo/product-docs/administration/setup-administration/supported-browsers.md) {#microsoft-edge-browser}
 
-Marketo에서 지원하는 [!DNL Microsoft Edge]브라우저 목록[에 ](https://docs.marketo.com/display/public/DOCS/Supported+Browsers)을(를) 추가했습니다.
+Marketo에서 지원하는 [!DNL Microsoft Edge]브라우저 목록[에 &#x200B;](https://docs.marketo.com/display/public/DOCS/Supported+Browsers)을(를) 추가했습니다.
 
 ## [Microsoft Outlook 2016](/help/marketo/product-docs/marketo-sales-insight/msi-outlook-plugin/install-the-marketo-email-add-in-for-outlook-with-a-registration-code.md) {#microsoft-outlook}
 

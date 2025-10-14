@@ -23,7 +23,7 @@ Gmail 연결이 끊어진 가장 일반적인 이유는 사용자의 개인 계�
 
 다른 [!DNL Chrome]명의 사용자로 로그인(권장)
 
-다른 [프로필을 만드는 방법을 보려면 ](https://support.google.com/chrome/answer/2364824?hl=en)이 링크[!DNL Chrome]를 클릭하십시오.
+다른 [프로필을 만드는 방법을 보려면 &#x200B;](https://support.google.com/chrome/answer/2364824?hl=en)이 링크[!DNL Chrome]를 클릭하십시오.
 
 **장점**: 다른 사용자로 로그인하면 [!DNL Chrome]의 새 인스턴스가 열립니다. 이 인스턴스는 [!DNL Chrome]의 완전히 새로운 창이며 이전 확장이 이 인스턴스에 존재하지 않습니다. 또한 쿠키를 보관하므로 매번 Gmail에 로그인할 필요가 없습니다.
 
