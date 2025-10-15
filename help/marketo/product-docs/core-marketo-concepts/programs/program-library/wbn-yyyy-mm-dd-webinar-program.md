@@ -14,7 +14,7 @@ ht-degree: 15%
 
 이는 등록 관리, 3개의 초대 이메일, 참석 알림 및 Marketo Engage 이벤트 프로그램을 활용하는 후속 이메일이 포함된 웨비나 프로그램의 예입니다.
 
-추가 전략 지원 또는 프로그램 사용자 지정에 도움이 필요하면 Adobe 계정 팀에 문의하거나 [Adobe Professional Services](https://business.adobe.com/customers/consulting-services/main.html){target="_blank"} 페이지를 방문하십시오.
+추가 전략 지원 또는 프로그램 사용자 지정에 도움이 필요하면 Adobe 계정 팀에 문의하거나 [Adobe Professional Services](https://business.adobe.com/kr/customers/consulting-services/main.html){target="_blank"} 페이지를 방문하십시오.
 
 ## 채널 요약 {#channel-summary}
 

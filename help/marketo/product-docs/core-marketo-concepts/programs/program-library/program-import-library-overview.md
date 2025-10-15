@@ -14,7 +14,7 @@ ht-degree: 6%
 
 Marketo Engage 참조 라이브러리에는 Marketo 인스턴스로 직접 가져와 팀을 지원하는 데 도움이 되는 프로그램 빌드를 시작할 수 있는 몇 가지 스타터 프로그램이 포함되어 있습니다.
 
-라이브러리에는 이메일, 참여, 이벤트, 점수, 전달성 및 운영과 같은 프로그램이 포함되어 있습니다. 모든 프로그램은 품질과 효과를 극대화하기 위해 Adobe 제품 팀에서 개발했으며 [글로벌 전문 서비스](https://business.adobe.com/customers/consulting-services/main.html){target="_blank"} 팀에서 검사했습니다.
+라이브러리에는 이메일, 참여, 이벤트, 점수, 전달성 및 운영과 같은 프로그램이 포함되어 있습니다. 모든 프로그램은 품질과 효과를 극대화하기 위해 Adobe 제품 팀에서 개발했으며 [글로벌 전문 서비스](https://business.adobe.com/kr/customers/consulting-services/main.html){target="_blank"} 팀에서 검사했습니다.
 
 ## 사용 가능한 프로그램 예 {#available-program-examples}
 

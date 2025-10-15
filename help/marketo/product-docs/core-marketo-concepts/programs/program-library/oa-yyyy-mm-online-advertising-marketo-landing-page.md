@@ -14,7 +14,7 @@ ht-degree: 8%
 
 이는 등록 양식이 있는 Marketo 랜딩 페이지를 포함하고 Marketo 기본 프로그램을 활용하는 온라인 광고 추적 프로그램의 예입니다. 오퍼에 대한 링크는 감사 인사 페이지에 표시하거나, 감사 인사 전자 메일로 전송하거나, 둘 다에 표시할 수 있습니다.
 
-추가 전략 지원 또는 프로그램 사용자 지정에 도움이 필요하면 Adobe 계정 팀에 문의하거나 [Adobe Professional Services](https://business.adobe.com/customers/consulting-services/main.html){target="_blank"} 페이지를 방문하십시오.
+추가 전략 지원 또는 프로그램 사용자 지정에 도움이 필요하면 Adobe 계정 팀에 문의하거나 [Adobe Professional Services](https://business.adobe.com/kr/customers/consulting-services/main.html){target="_blank"} 페이지를 방문하십시오.
 
 ## 채널 요약 {#channel-summary}
 

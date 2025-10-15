@@ -14,7 +14,7 @@ ht-degree: 25%
 
 이는 인구 통계 점수를 위해 Marketo Engage 기본 프로그램을 활용하는 고급(토큰화된) 운영 프로그램의 예입니다. 프로그램의 &quot;내 토큰&quot; 탭에서 점수 값을 보고 편집합니다. &quot;인구 통계학적 점수&quot;라는 사용자 정의 점수 필드가 필요합니다.
 
-추가 전략 지원 또는 프로그램 사용자 지정에 도움이 필요하면 Adobe 계정 팀에 문의하거나 [Adobe Professional Services](https://business.adobe.com/customers/consulting-services/main.html){target="_blank"} 페이지를 방문하십시오.
+추가 전략 지원 또는 프로그램 사용자 지정에 도움이 필요하면 Adobe 계정 팀에 문의하거나 [Adobe Professional Services](https://business.adobe.com/kr/customers/consulting-services/main.html){target="_blank"} 페이지를 방문하십시오.
 
 ## 채널 요약 {#channel-summary}
 

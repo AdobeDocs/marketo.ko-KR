@@ -14,7 +14,7 @@ ht-degree: 11%
 
 다음은 간단한 육성 프로그램의 예입니다. Marketo Engage 참여 프로그램 을 사용하면 케이던스된 콘텐츠가 데이터베이스에 지속적으로 저장되고 스트림을 활용하여 동작을 기반으로 여정을 통해 레코드를 안내할 수 있습니다.
 
-추가 전략 지원 또는 프로그램 사용자 지정에 도움이 필요하면 Adobe 계정 팀에 문의하거나 [Adobe Professional Services](https://business.adobe.com/customers/consulting-services/main.html){target="_blank"} 페이지를 방문하십시오.
+추가 전략 지원 또는 프로그램 사용자 지정에 도움이 필요하면 Adobe 계정 팀에 문의하거나 [Adobe Professional Services](https://business.adobe.com/kr/customers/consulting-services/main.html){target="_blank"} 페이지를 방문하십시오.
 
 ## 채널 요약 {#channel-summary}
 

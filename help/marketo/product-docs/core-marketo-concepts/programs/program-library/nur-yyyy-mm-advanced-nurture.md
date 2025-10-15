@@ -14,7 +14,7 @@ ht-degree: 10%
 
 다음은 Marketo Engage Engagement Program을 활용한 고급 육성 프로그램의 예입니다. 중첩된 이메일 프로그램은 사용자가 이미 사용한 콘텐츠를 수신하지 못하도록 하거나 각 스트림에서 소비해야 하는 콘텐츠 유형을 제어합니다. 각각의 중첩된 이메일 프로그램에 대해 속성 보고를 실행할 수 있습니다. 채널: 중첩된 이메일 프로그램에 대한 &quot;Grooth&quot; 및 전용 &quot;Grooth Email&quot; 채널은 Marketo Engage 이메일 프로그램을 사용하여 뉴스레터 이메일 1개를 전송합니다. 이메일에는 A/B 테스트가 포함되거나 포함되지 않을 수 있습니다.
 
-추가 전략 지원 또는 프로그램 사용자 지정에 도움이 필요하면 Adobe 계정 팀에 문의하거나 [Adobe Professional Services](https://business.adobe.com/customers/consulting-services/main.html){target="_blank"} 페이지를 방문하십시오.
+추가 전략 지원 또는 프로그램 사용자 지정에 도움이 필요하면 Adobe 계정 팀에 문의하거나 [Adobe Professional Services](https://business.adobe.com/kr/customers/consulting-services/main.html){target="_blank"} 페이지를 방문하십시오.
 
 ## 채널 요약 {#channel-summary}
 

@@ -14,7 +14,7 @@ ht-degree: 8%
 
 Marketo Engage 기본 프로그램을 활용하는 연락처 요청, 견적 요청, 데모 요청 또는 체험판 요청 양식에 적합한 예제 프로그램입니다. Marketo 랜딩 페이지와 함께 사용하거나 Marketo이 아닌 랜딩 페이지에 임베드된 양식으로 사용할 수 있습니다. 경고 이메일은 양식 제출 시 지정된 개인에게 전송됩니다.
 
-추가 전략 지원 또는 프로그램 사용자 지정에 도움이 필요하면 Adobe 계정 팀에 문의하거나 [Adobe Professional Services](https://business.adobe.com/customers/consulting-services/main.html){target="_blank"} 페이지를 방문하십시오.
+추가 전략 지원 또는 프로그램 사용자 지정에 도움이 필요하면 Adobe 계정 팀에 문의하거나 [Adobe Professional Services](https://business.adobe.com/kr/customers/consulting-services/main.html){target="_blank"} 페이지를 방문하십시오.
 
 ## 채널 요약 {#channel-summary}
 

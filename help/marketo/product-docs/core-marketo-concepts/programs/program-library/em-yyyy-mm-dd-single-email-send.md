@@ -14,7 +14,7 @@ ht-degree: 9%
 
 이 예제는 Marketo Engage 이메일 프로그램을 활용하여 하나의 이메일을 전송합니다. 이메일에는 A/B 테스트가 포함되거나 포함되지 않을 수 있습니다.
 
-추가 전략 지원 또는 프로그램 사용자 지정에 도움이 필요하면 Adobe 계정 팀에 문의하거나 [Adobe Professional Services](https://business.adobe.com/customers/consulting-services/main.html){target="_blank"} 페이지를 방문하십시오.
+추가 전략 지원 또는 프로그램 사용자 지정에 도움이 필요하면 Adobe 계정 팀에 문의하거나 [Adobe Professional Services](https://business.adobe.com/kr/customers/consulting-services/main.html){target="_blank"} 페이지를 방문하십시오.
 
 ## 채널 요약 {#channel-summary}
 

@@ -14,7 +14,7 @@ ht-degree: 15%
 
 다음은 Marketo Engage 데이터베이스 내의 레코드에 대한 데이터 일관성을 관리하는 데 도움이 되는 기본 프로그램을 사용하는 간단한 운영 데이터 관리 모범 사례 워크플로의 예입니다.
 
-추가 전략 지원 또는 프로그램 사용자 지정에 도움이 필요하면 Adobe 계정 팀에 문의하거나 [Adobe Professional Services](https://business.adobe.com/customers/consulting-services/main.html){target="_blank"} 페이지를 방문하십시오.
+추가 전략 지원 또는 프로그램 사용자 지정에 도움이 필요하면 Adobe 계정 팀에 문의하거나 [Adobe Professional Services](https://business.adobe.com/kr/customers/consulting-services/main.html){target="_blank"} 페이지를 방문하십시오.
 
 ## 채널 요약 {#channel-summary}
 

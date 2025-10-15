@@ -64,6 +64,6 @@ Adobe은 Marketo Champions의 입력을 통해 여러 Marketo Engage 상속 인�
 
 * **[Adobe Marketo Engage 커뮤니티](https://nation.marketo.com/){target="_blank"}**&#x200B;에서 동료 Marketo Engage 사용자와 연결하고 학습합니다.
 
-* Marketo Engage 인스턴스를 최대한 활용하는 데 도움이 필요하면 **[Adobe Professional Services](https://business.adobe.com/products/marketo/services-support.html){target="_blank"}**&#x200B;에 문의하세요.
+* Marketo Engage 인스턴스를 최대한 활용하는 데 도움이 필요하면 **[Adobe Professional Services](https://business.adobe.com/kr/products/marketo/services-support.html){target="_blank"}**&#x200B;에 문의하세요.
 
 * Marketo Engage의 다양한 측면에서 **[큐레이션된 튜토리얼 비디오](https://experienceleague.adobe.com/docs/marketo-learn/tutorials/overview.html?lang=ko){target="_blank"}**&#x200B;를 시청하십시오.

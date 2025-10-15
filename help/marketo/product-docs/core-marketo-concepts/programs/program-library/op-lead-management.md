@@ -18,7 +18,7 @@ ht-degree: 7%
 >
 >Marketo Engage에서 데이터베이스의 레코드는 사람/사용자라고 합니다. 이 예에서 리드 관리는 CRM의 레코드를 참조합니다.
 
-추가 전략 지원 또는 프로그램 사용자 지정에 도움이 필요하면 Adobe 계정 팀에 문의하거나 [Adobe Professional Services](https://business.adobe.com/customers/consulting-services/main.html) 페이지를 방문하십시오.
+추가 전략 지원 또는 프로그램 사용자 지정에 도움이 필요하면 Adobe 계정 팀에 문의하거나 [Adobe Professional Services](https://business.adobe.com/kr/customers/consulting-services/main.html) 페이지를 방문하십시오.
 
 ## 채널 요약 {#channel-summary}
 
