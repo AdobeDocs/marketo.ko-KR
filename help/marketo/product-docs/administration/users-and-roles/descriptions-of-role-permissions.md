@@ -4,9 +4,9 @@ description: 역할 권한 설명 - Marketo 문서 - 제품 설명서
 title: 역할 권한 설명
 exl-id: 00963cd9-2d53-455f-bc6f-42a573468ff9
 feature: Users and Roles
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 78af5df3bd62754e6c3097f0497930948bc109d8
 workflow-type: tm+mt
-source-wordcount: '1447'
+source-wordcount: '1451'
 ht-degree: 1%
 
 ---
@@ -120,7 +120,7 @@ _&#42;기존 사용자가 중단되는 것을 방지하기 위해 이 권한은 
 
 * 전자 메일 액세스
    * 이메일 편집 - 사용자에게 이메일을 편집, 생성 및 복제할 수 있는 권한을 제공합니다.
-      * 이메일을 작동 상태로 만들기 - 사용자에게 이메일을 작동 상태로 만들 수 있는 권한을 부여합니다. 참조: [전자 메일 작동 설정](/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/make-an-email-operational.md)
+      * 작업 이메일 만들기 및 편집 - 사용자에게 작업 이메일을 만들거나 편집할 수 있는 권한을 제공합니다. 참조: [전자 메일 작동 설정](/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/make-an-email-operational.md)
 
       * 이메일 승인 - 사용자가 이메일을 승인할 수 있습니다.
       * 이메일 삭제 - 사용자가 이메일을 삭제할 수 있습니다.
