@@ -18,7 +18,7 @@ ht-degree: 10%
 1. [새 스마트 캠페인을 만듭니다](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/creating-a-smart-campaign/create-a-new-smart-campaign.md){target="_blank"}. 다음 스마트 목록을 정의합니다.
 
 * 트리거: **[!UICONTROL Person is Created]**
-* 필터: **[!UICONTROL Duplicate Fields]**. 필드 이름 **[!UICONTROL is][!UICONTROL Full Name]**
+* 필터: **[!UICONTROL Duplicate Fields]**. 필드 이름 **[!UICONTROL is]&#x200B;[!UICONTROL Full Name]**
 
   ![](assets/automate-an-alert-1.png)
 
