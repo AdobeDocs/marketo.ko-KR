@@ -3,9 +3,9 @@ description: OAuth 2.0을 사용하여 로그인 - Marketo 문서 - 제품 설�
 title: OAuth 2.0을 사용하여 로그인
 exl-id: 0a70505d-d2b8-4dc9-ad11-decc86588f7f
 feature: Salesforce Integration
-source-git-commit: d51ea5140b7b4a67dbf4c18ab8a6409c08eafa7d
+source-git-commit: 7234082102356fc05c760f359ef19ca8cff375b5
 workflow-type: tm+mt
-source-wordcount: '610'
+source-wordcount: '609'
 ht-degree: 2%
 
 ---
@@ -56,11 +56,11 @@ Salesforce은 OAuth 프로토콜을 사용하여 애플리케이션 사용자가
 
    ![](assets/log-in-using-oauth-8.png)
 
-1. 새 외부 클라이언트 앱이 만들어지면 **설정** 탭을 클릭하고 **OAuth 설정** 섹션을 확장합니다.
+1. 새 외부 클라이언트 앱이 만들어지면 **설정** 탭을 선택하고 **OAuth 설정** 섹션을 확장합니다.
 
    ![](assets/log-in-using-oauth-9.png)
 
-1. **소비자 키 및 소비자 암호** 단추를 클릭하여 새 탭을 엽니다. 두 숫자를 모두 복사하여 저장합니다(나중에 Marketo Engage에서 사용하기 위해 필요함).
+1. **소비자 키 및 암호** 단추를 클릭하여 새 탭을 여십시오. 두 숫자를 모두 복사하여 저장합니다(나중에 Marketo Engage에서 사용하기 위해 필요함).
 
    ![](assets/log-in-using-oauth-10.png)
 
