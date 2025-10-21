@@ -21,7 +21,7 @@ ht-degree: 9%
 
 >[!IMPORTANT]
 >
->AAC(Adobe Admin Console)는 [IP 기반 액세스 제어](https://helpx.adobe.com/enterprise/using/ip-based-access.html){target="_blank"}를 지원합니다. 원활한 전환을 위해 이 기능이 활성화된 구독에서는 2026년 1분기까지 Adobe ID 사용자를 포함하여 기존 Marketo Engage IP 제한 사항이 활성화됩니다.
+>AAC(Adobe Admin Console)는 [IP 기반 액세스 제어](https://helpx.adobe.com/kr/enterprise/using/ip-based-access.html){target="_blank"}를 지원합니다. 원활한 전환을 위해 이 기능이 활성화된 구독에서는 2026년 1분기까지 Adobe ID 사용자를 포함하여 기존 Marketo Engage IP 제한 사항이 활성화됩니다.
 >
 >* 언제든지 AAC IP 기반 액세스를 구성할 수 있습니다.
 >* AAC 및 Marketo Engage 제한 사항은 모두 동시에 실행할 수 있습니다. 호환성을 위해 동일한 IP 허용 목록을 사용합니다.

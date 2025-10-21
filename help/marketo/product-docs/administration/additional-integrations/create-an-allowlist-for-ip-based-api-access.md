@@ -21,7 +21,7 @@ ht-degree: 13%
 
 >[!NOTE]
 >
->이 기능은 Marketo Engage의 [IP 기반 액세스 제어](https://experienceleague.adobe.com/ko/docs/marketo/using/product-docs/administration/settings/restrict-marketo-logins-based-on-ip){target="_blank"}로 대체되는 Admin Console [IP 기반 로그인 제한](https://helpx.adobe.com/enterprise/using/ip-based-access.html){target="_blank"}과 별도로 작동합니다. Adobe IMS 마이그레이션 후에도 그대로 작동합니다.
+>이 기능은 Marketo Engage의 [IP 기반 액세스 제어](https://experienceleague.adobe.com/ko/docs/marketo/using/product-docs/administration/settings/restrict-marketo-logins-based-on-ip){target="_blank"}로 대체되는 Admin Console [IP 기반 로그인 제한](https://helpx.adobe.com/kr/enterprise/using/ip-based-access.html){target="_blank"}과 별도로 작동합니다. Adobe IMS 마이그레이션 후에도 그대로 작동합니다.
 
 1. **[!UICONTROL Admin]** 영역으로 이동합니다.
 
