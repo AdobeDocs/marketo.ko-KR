@@ -5,10 +5,10 @@ hide: true
 hidefromtoc: true
 feature: Release Information
 exl-id: 0ca5e844-c30b-4c86-a23d-d8f2c1bdddf5
-source-git-commit: 7234082102356fc05c760f359ef19ca8cff375b5
+source-git-commit: 49068be70579166eaf0e90a8b2769081a873edd9
 workflow-type: tm+mt
-source-wordcount: '538'
-ht-degree: 85%
+source-wordcount: '691'
+ht-degree: 58%
 
 ---
 
@@ -34,7 +34,7 @@ Adobe Dynamic Chat에 대한 릴리스 정보는 [여기에서 확인](/help/mar
    <th style="width:25%">설명서</th>
   </tr>
   <tr>
-   <td><strong>제목</strong>: 텍스트</td>
+   <td><strong>템플릿 가져오기</strong>: 클래식 전자 메일 편집기에서 전자 메일 템플릿을 가져와서 Design Studio의 새 전자 메일 Designer과 호환되는 템플릿을 만드십시오.</td>
    <td><i>곧 출시 예정</i></td>
    <td><i>곧 제공 예정</i></td>
   </tr>
@@ -44,18 +44,7 @@ Adobe Dynamic Chat에 대한 릴리스 정보는 [여기에서 확인](/help/mar
    <td> </td>
   </tr>
   <tr>
-   <td><strong>제목</strong>: 텍스트</td>
-   <td><i>곧 출시 예정</i></td>
-   <td><i>곧 제공 예정</i></td>
-  </tr>
-  <tr>
-  <tr>
-   <td> </td>
-   <td> </td>
-   <td> </td>
-  </tr>
-  <tr>
-   <td><strong>제목</strong>: 텍스트</td>
+   <td><strong>이메일 Designer - 조건부 콘텐츠</strong>: 새로운 이메일 Designer에 대한 패리티 기능으로 토큰을 넘어 이메일 개인화를 수행할 수 있습니다.</td>
    <td><i>곧 출시 예정</i></td>
    <td><i>곧 제공 예정</i></td>
   </tr>
@@ -66,7 +55,18 @@ Adobe Dynamic Chat에 대한 릴리스 정보는 [여기에서 확인](/help/mar
    <td> </td>
   </tr>
   <tr>
-   <td><strong>제목</strong>: 텍스트</td>
+   <td><strong>이메일 Designer - A/B 테스트</strong>: 새 이메일 Designer에 대한 패리티 기능으로, A/B 테스트를 수행하여 어떤 유형의 콘텐츠가 최상의 응답을 받는지 확인할 수 있습니다.</td>
+   <td><i>곧 출시 예정</i></td>
+   <td><i>곧 제공 예정</i></td>
+  </tr>
+  <tr>
+  <tr>
+   <td> </td>
+   <td> </td>
+   <td> </td>
+  </tr>
+  <tr>
+   <td><strong>Designer - 브랜드 테마</strong>: 이제 Marketo Engage 내에서 브랜드 테마를 정의할 수 있습니다. 브랜드 일관성을 위해 이메일 템플릿 및 기타 이메일 에셋 간에 스타일 구성을 재사용 및 적용할 수 있습니다.</td>
    <td><i>곧 출시 예정</i></td>
    <td><i>곧 제공 예정</i></td>
   </tr>
@@ -77,11 +77,20 @@ Adobe Dynamic Chat에 대한 릴리스 정보는 [여기에서 확인](/help/mar
    <td> </td>
   </tr>
  <tr>
-   <td><strong>제목</strong>: 텍스트</td>
+   <td><strong>이메일 Designer - HTML 변환기에 이미지 보내기</strong>: 이제 이메일의 호환 PNG/JPEG 이미지 파일을 업로드할 수 있으며 새 이메일 Designer에서 사용할 수 있도록 자동으로 HTML으로 변환됩니다.</td>
+   <td><i>곧 출시 예정</i></td>
+   <td><i>곧 제공 예정</i></td>
+  </tr>
+  <tr>
+   <td> </td>
+   <td> </td>
+   <td> </td>
+  </tr>
+  <tr>
+   <td><strong>이메일 Designer - 이메일 복제 작업</strong>: 이제 마케팅 활동의 다른 프로그램 폴더에 이메일을 복제하여 기존 이메일을 빠르게 재사용할 수 있습니다.</td>
    <td><i>곧 출시 예정</i></td>
    <td><i>곧 출시 예정</i></td>
   </tr>
-  <tr>
   </tbody>
 </table>
 <br/>
@@ -98,7 +107,7 @@ Adobe Dynamic Chat에 대한 릴리스 정보는 [여기에서 확인](/help/mar
 
    * _Single Sign-On (SSO) 지원 중단_: [Marketo Identity SSO](https://experienceleague.adobe.com/ko/docs/marketo/using/product-docs/administration/additional-integrations/add-single-sign-on-to-a-portal){target="_blank"}에 대한 지원은 2025년 7월 30일에 중단되었습니다. 이 기능은 Adobe Identity로의 전환이 완료될 때까지 계속 작동합니다. Adobe Admin Console의 Adobe Identity에 대한 Single Sign-On은 별도로 구성해야 합니다. 설정 단계는 [ID 및 Single Sign-On 설정](https://helpx.adobe.com/kr/enterprise/using/set-up-identity.html){target="_blank"}을 참조합니다.
 
-* **_친구에게 전달_ 기능** 사용 중단: 2025년 9월 29일부터 Marketo Engage 2.0 이메일(레거시 이메일 편집기)의 _친구에게 전달_ 기능이 모든 구독에서 완전히 사용 중단됩니다. 이는 이미 토큰을 사용하여 전송되었거나 전송될 예정인 이메일의 &#39;친구에게 전달&#39; 토큰과 &#39;친구에게 전달&#39; 링크에 영향을 미치게 됩니다. [자세히 알아보기](https://nation.marketo.com/t5/product-blogs/deprecation-of-forward-to-a-friend/ba-p/358045#M2889){target="_blank"}
+* **친구에게 보내기&#x200B;_기능 사용 중단_: 2025년 9월 29일에 Marketo Engage 2.0 전자 메일(기존 전자 메일 편집기)의**&#x200B;친구에게 보내기&#x200B;_기능이 모든 구독에서 완전히 사용 중단되었습니다._ 이는 토큰을 사용하여 이미 전송되었거나 전송될 예정인 이메일의 &#39;친구에게 전달&#39; 토큰 및 &#39;친구에게 전달&#39; 링크에 영향을 주었습니다. [자세히 알아보기](https://nation.marketo.com/t5/product-blogs/deprecation-of-forward-to-a-friend/ba-p/358045#M2889){target="_blank"}
 
 * **REST API &#39;access_token&#39; 매개변수 사용 중단**: Marketo REST API 호출을 인증하는 데 사용되는 `access_token` 쿼리 매개변수는 사용 중단될 예정이며 2026년 1월 31일 이후에는 사용할 수 없습니다. 모든 신규 및 기존 통합은 [여기에 설명](https://experienceleague.adobe.com/ko/docs/marketo-developer/marketo/rest/authentication){target="_blank"}된 대로 &#39;Authorization&#39; 헤더를 사용하여 REST API 호출을 인증해야 합니다.
 
