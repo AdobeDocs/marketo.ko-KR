@@ -5,18 +5,19 @@ title: 템플릿 가져오기
 description: 클래식 편집기에서 새 이메일 Designer으로 기존 이메일 템플릿을 가져오는 방법을 알아봅니다.
 level: Beginner, Intermediate
 feature: Email Designer
+badge: Beta
 hide: true
 hidefromtoc: true
-source-git-commit: f5f5e256631b09937d97d7b70f9475f2c286676d
+source-git-commit: 316d5b59c7ea573f9246613ab3df2de86bdf4706
 workflow-type: tm+mt
-source-wordcount: '710'
-ht-degree: 0%
+source-wordcount: '723'
+ht-degree: 1%
 
 ---
 
 # 템플릿 가져오기 {#template-import}
 
-클래식 편집기의 기존 이메일 템플릿을 새로운 이메일 Designer으로 원활하게 가져와 디자인을 보존하고 익숙하고 재사용 가능한 구조로 템플릿 생성을 가속화합니다.
+클래식 편집기의 기존 이메일 템플릿을 새로운 이메일 Designer으로 원활하게 가져와 디자인을 보존하고 익숙하고 재사용 가능한 구조로 템플릿 생성을 가속화합니다. [모범 사례](#best-practices)를 검토하고 [제한 사항 및 해결 방법](#limitations-and-remedies)에 대해 알아보세요.
 
 1. **디자인 스튜디오**(으)로 이동합니다.
 
@@ -77,6 +78,8 @@ ht-degree: 0%
 * 가져온 후에는 재사용 가능한 섹션을 조각으로 저장하고 이메일 작성자가 사용하도록 승인할 수 있습니다. 브랜드 테마를 적용하여 일관성 및 규정 준수를 유지합니다.
 
 * Velocity 스크립팅을 계속 사용할 수 있으며, 유연성과 제어를 향상시키기 위해 조각과 조건부 콘텐츠의 조합을 사용하여 이전 스니펫을 다시 구현하는 것이 좋습니다.
+
+## 제한 사항 및 해결 방법 {#limitations-and-remedies}
 
 <table><thead>
   <tr>
