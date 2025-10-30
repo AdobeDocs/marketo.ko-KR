@@ -2,10 +2,10 @@
 description: 릴리스 노트 - 2025년 9월 - Marketo 설명서 - 제품 설명서
 title: 릴리스 정보 - 2025년 9월
 feature: Release Information
-source-git-commit: 49068be70579166eaf0e90a8b2769081a873edd9
+source-git-commit: 7f56808ec26ec28065cc974716a5eab66e1d38b3
 workflow-type: tm+mt
 source-wordcount: '706'
-ht-degree: 91%
+ht-degree: 98%
 
 ---
 
@@ -32,8 +32,8 @@ Adobe Dynamic Chat에 대한 릴리스 정보는 [여기에서 확인](/help/mar
   </tr>
   <tr>
    <td><strong>온디맨드 웨비나 활동 유지</strong>: 대화형 웨비나 사용자는 이제 온디맨드 웨비나 대시보드 데이터를 30일 넘게 사용할 수 있습니다(기존에는 웨비나 날짜로부터 최대 30일까지만 가능).</td>
-   <td><i>곧 출시 예정</i></td>
-   <td><i>곧 제공 예정</i></td>
+   <td>출시됨</td>
+   <td><a href="https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/demand-generation/events/interactive-webinars/event-workflows#manual-sync">수동 동기화</a></td>
   </tr>
   <tr>
    <td> </td>
@@ -81,7 +81,7 @@ Adobe Dynamic Chat에 대한 릴리스 정보는 [여기에서 확인](/help/mar
 
 ## 공지 {#announcements}
 
-* **REST API 이중 슬래시 사용 중단**: 2025년 9월 16일, Adobe은 보안 및 확장성을 추가하여 최신 기술을 활용하는 REST API URL용 최신 호스팅 인프라로 전환했습니다. 구독이 URL에서 이중 슬래시(//)가 있는 API를 사용하고 있는 경우 다음 단계에 대해 [이 국가 게시물](https://nation.marketo.com/t5/product-blogs/rest-api-double-slash-deprecation/ba-p/358616){target="_blank"}을 읽어 보십시오.
+* **REST API 이중 슬래시 사용 중단**: 2025년 9월 16일에 Adobe는 보안 및 확장성을 추가하여 최신 기술을 활용하는 REST API URL에 대해 더욱 현대화된 호스팅 인프라로 전환했습니다. URL에 이중 슬래시(//)가 포함된 API를 사용하는 구독이라면, 다음 단계를 위해 [Nation 게시물](https://nation.marketo.com/t5/product-blogs/rest-api-double-slash-deprecation/ba-p/358616){target="_blank"}을 참조하십시오.
 
 * **새로운 이메일 디자이너에서 Velocity Scripting으로 다시 전환**: Adobe Marketo Engage는 지난 6월 새로운 이메일 디자이너를 위한 _조건부 콘텐츠_ 기능을 출시했습니다. 이 기능은 Velocity Scripting에서 대신 Handlebar Scripting을 사용해 다이내믹 콘텐츠에 더 큰 유연성을 제공하기 위한 것입니다. 하지만 이로 인해 일부 토큰이 잘못 해석되는 현상이 발견되었으며 이 기능을 일시적으로 비활성화하기로 결정했습니다. [자세히 알아보기](https://nation.marketo.com/t5/product-blogs/update-on-email-scripting-in-the-new-email-designer/ba-p/358179){target="_blank"}
 
