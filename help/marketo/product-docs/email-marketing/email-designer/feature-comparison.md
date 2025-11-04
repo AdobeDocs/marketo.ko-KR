@@ -7,10 +7,10 @@ level: Beginner, Intermediate
 feature: Email Designer
 role: User
 exl-id: 37b42418-1733-447f-bab0-e1d461ef8110
-source-git-commit: 95bfc3434b1bee5b0050d628cd5f2af219597bad
+source-git-commit: e786cb9f2e8b9726743b4cd2a368252b6731b5c2
 workflow-type: tm+mt
-source-wordcount: '892'
-ht-degree: 10%
+source-wordcount: '888'
+ht-degree: 11%
 
 ---
 
@@ -223,60 +223,60 @@ ht-degree: 10%
     <td>글로벌 테마</td>
     <td>조직 전체에서 승인된 테마를 적용하여 스타일, 색상, 글꼴 크기 등과 같은 요소의 일관성을 보장할 수 있습니다.</td>
     <td>사용할 수 없음</td>
-    <td>준비 중</td>
+    <td>곧 출시 예정</td>
   </tr>
   <tr>
     <td>다이내믹 콘텐츠/조건부 콘텐츠</td>
     <td>타겟 대상자를 기반으로 이메일의 변형을 만들 수 있습니다.</td>
     <td>사용 가능</td>
-    <td>준비 중</td>
+    <td>곧 출시 예정</td>
   </tr>
   <tr>
     <td>HTML에 이미지</td>
     <td>이미지를 HTML으로 변환한 다음 을 사용하여 이메일을 만드는 기능.</td>
     <td>사용할 수 없음</td>
-    <td>준비 중</td>
+    <td>곧 출시 예정</td>
   </tr>
   <tr>
     <td>이메일 에셋이 있는 프로그램의 이동, 삭제 및 가져오기 지원</td>
     <td>이메일 에셋과 함께 이메일 프로그램을 이동, 삭제 및 가져올 수 있습니다.</td>
     <td>사용 가능</td>
-    <td>준비 중</td>
+    <td>곧 출시 예정</td>
   </tr>
   <tr>
     <td>Marketo 템플릿 변환기/가져오기</td>
     <td>기존 Marketo 템플릿을 새 이메일 Designer에 맞게 변환하는 기능.</td>
     <td>필요 없음</td>
-    <td>준비 중</td>
+    <td>곧 출시 예정</td>
   </tr>
   <tr>
     <td>역할 및 권한</td>
     <td>이메일, 이메일 템플릿 및 조각에 대한 역할 및 권한을 추가하는 기능.</td>
     <td>사용 가능</td>
-    <td>준비 중</td>
+    <td>곧 출시 예정</td>
   </tr>
   <tr>
     <td>Velocity 스크립팅</td>
     <td>이메일에서 Velocity 스크립팅을 사용하는 기능.</td>
     <td>사용 가능</td>
-    <td>곧 제공 예정</td>
-  </tr>
-  <tr>
-    <td>콘텐츠 승인 워크플로</td>
-    <td>Marketo Engage 내에 이메일에 대한 승인 워크플로우를 도입하는 기능입니다.</td>
-    <td>사용할 수 없음</td>
-    <td>2025년 4분기 계획</td>
+    <td>곧 출시 예정</td>
   </tr>
   <tr>
     <td>브랜드 키트</td>
     <td>브랜드 지침을 반영하여 이메일을 개선할 수 있습니다.</td>
     <td>사용할 수 없음</td>
-    <td>2026년 1분기 계획</td>
+    <td>곧 출시 예정</td>
   </tr>
   <tr>
     <td>실험(A/B 테스트)</td>
     <td>대상자에게 이메일을 보내기 전에 테스트하는 기능.</td>
     <td>사용 가능</td>
+    <td>곧 출시 예정</td>
+  </tr>
+  <tr>
+    <td>콘텐츠 승인 워크플로</td>
+    <td>Marketo Engage 내에 이메일에 대한 승인 워크플로우를 도입하는 기능입니다.</td>
+    <td>사용할 수 없음</td>
     <td>TBD</td>
   </tr>
   <tr>
