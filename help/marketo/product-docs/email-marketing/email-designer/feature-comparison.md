@@ -7,9 +7,9 @@ level: Beginner, Intermediate
 feature: Email Designer
 role: User
 exl-id: 37b42418-1733-447f-bab0-e1d461ef8110
-source-git-commit: e786cb9f2e8b9726743b4cd2a368252b6731b5c2
+source-git-commit: 588ec23961df42de8a8c0aed919ba9a016b61f18
 workflow-type: tm+mt
-source-wordcount: '888'
+source-wordcount: '885'
 ht-degree: 11%
 
 ---
@@ -208,6 +208,12 @@ ht-degree: 11%
     <td>Assets 참조에서 사용 가능</td>
   </tr>
   <tr>
+    <td>이메일 템플릿 변환기</td>
+    <td><a href="/help/marketo/product-docs/email-marketing/email-designer/import-template.md" target="_blank">기존 Marketo 템플릿을 새 전자 메일 Designer으로 가져오기</a> 기능.</td>
+    <td>필요 없음</td>
+    <td>사용 가능</td>
+  </tr>
+  <tr>
     <td>캔버스에 끌어서 놓기</td>
     <td>구조 및 콘텐츠를 캔버스로 끌어서 놓는 기능.</td>
     <td>모듈만</td>
@@ -241,12 +247,6 @@ ht-degree: 11%
     <td>이메일 에셋이 있는 프로그램의 이동, 삭제 및 가져오기 지원</td>
     <td>이메일 에셋과 함께 이메일 프로그램을 이동, 삭제 및 가져올 수 있습니다.</td>
     <td>사용 가능</td>
-    <td>곧 출시 예정</td>
-  </tr>
-  <tr>
-    <td>Marketo 템플릿 변환기/가져오기</td>
-    <td>기존 Marketo 템플릿을 새 이메일 Designer에 맞게 변환하는 기능.</td>
-    <td>필요 없음</td>
     <td>곧 출시 예정</td>
   </tr>
   <tr>
