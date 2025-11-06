@@ -7,9 +7,9 @@ level: Beginner, Intermediate
 feature: Email Designer
 hide: true
 hidefromtoc: true
-source-git-commit: 6f1b4b6478e95d6d8aa332622daf2f29dd794bfe
+source-git-commit: 4667062002f24cd4f09aed3f747d82cd003351f6
 workflow-type: tm+mt
-source-wordcount: '1326'
+source-wordcount: '1272'
 ht-degree: 1%
 
 ---
@@ -25,7 +25,7 @@ ht-degree: 1%
 >[!PREREQUISITES]
 >
 >* 먼저 이메일 Designer에서 Gen-AI 기능을 사용하려면 [핵심 Gen-AI 약관 및 추가 약관](https://www.adobe.com/legal/terms/enterprise-licensing/genai-ww.html){target="_blank"}에 동의해야 합니다. 자세한 내용은 Adobe 계정 팀(계정 관리자)에 문의하십시오.
->* _액세스 이름_&#x200B;과(와) _전자 메일 템플릿 액세스_ 사용 권한이 [Marketo 역할에서 사용](https://experienceleague.adobe.com/ko/docs/marketo/using/product-docs/administration/users-and-roles/managing-user-roles-and-permissions#edit-a-role)되어야 합니다.
+>* _전자 메일 템플릿 액세스_&#x200B;와 _전자 메일 템플릿 편집/생성_ 사용 권한이 [Marketo 역할에서 사용](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/administration/users-and-roles/managing-user-roles-and-permissions#edit-a-role)되어야 합니다.
 
 ## 이미지 변환 {#convert-an-image}
 
@@ -46,14 +46,6 @@ ht-degree: 1%
 1. _템플릿 이름_ 및 선택적 설명을 입력하십시오. 또한 선택적으로 브랜드 스타일을 선택할 수 있습니다. 원하는 이미지를 업로드하거나 드래그하여 놓습니다.
 
    ![](assets/image-to-html-3.png)
-
-   이 주의 태그를 DELETE 할 수 있습니까?
-
-   >[!CAUTION]
-   >
-   >전환을 위해 이미지를 업로드할 때 **현재 전자 메일에 추가된 모든 콘텐츠가 삭제되고**&#x200B;이(가) 생성된 템플릿으로 대체됩니다. 이메일에 기존 콘텐츠가 있는 경우 이미지 전환을 진행하기 전에 콘텐츠를 저장해야 합니다.
-
-   이 주의 태그를 DELETE에 추가할 수 있습니까^^^
 
 1. 아래로 스크롤하여 _업로드 파일에 포함되지 않음..._ 확인란을 선택하십시오. **변환**&#x200B;을 클릭합니다.
 
