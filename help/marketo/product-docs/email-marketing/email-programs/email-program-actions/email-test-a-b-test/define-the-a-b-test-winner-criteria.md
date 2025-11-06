@@ -4,9 +4,9 @@ description: A/B 테스트 승자 기준 정의 - Marketo 문서 - 제품 설명
 title: A/B 테스트 우승자 기준 정의
 exl-id: be8a0887-70f4-4667-93a6-d982a16cdfdb
 feature: Email Programs, A/B Testing
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: c80d25aeafe2314fcff1d99359ff146c88acad06
 workflow-type: tm+mt
-source-wordcount: '406'
+source-wordcount: '413'
 ht-degree: 21%
 
 ---
@@ -23,7 +23,7 @@ ht-degree: 21%
 
 1. 기본 **[!UICONTROL Winner Criteria]** 옵션이 먼저 나열됩니다.
 
-   ![](assets/image2014-9-12-15-3a51-3a3.png)
+   ![](assets/define-the-a-b-test-winner-criteria-1.png)
 
    <table>
    <tr>
@@ -40,7 +40,7 @@ ht-degree: 21%
    </tr>
    <tr>
    <td><b>[!UICONTROL Engagement Score]</b></td>
-   <td><a href="https://experienceleague.adobe.com/docs/marketo/using/product-docs/email-marketing/drip-nurturing/reports-and-notifications/understanding-the-engagement-score.html?lang=ko" target="_blank">참여 점수</a>를 통해 콘텐츠의 효과를 확인할 수 있습니다.</td>
+   <td><a href="https://experienceleague.adobe.com/docs/marketo/using/product-docs/email-marketing/drip-nurturing/reports-and-notifications/understanding-the-engagement-score.html" target="_blank">참여 점수</a>를 통해 콘텐츠의 효과를 확인할 수 있습니다.</td>
    </tr>
    </table>
 
@@ -50,7 +50,7 @@ ht-degree: 21%
 
 1. **[!UICONTROL Custom Conversion]**&#x200B;을(를) 선택하고 **[!UICONTROL Edit]**&#x200B;을(를) 클릭하여 조건을 사용자 지정할 수도 있습니다.
 
-   ![](assets/image2014-9-12-15-3a51-3a53.png)
+   ![](assets/define-the-a-b-test-winner-criteria-2.png)
 
    >[!NOTE]
    >
@@ -58,27 +58,25 @@ ht-degree: 21%
 
 1. 창이 열립니다. 선택한 트리거를 찾아 캔버스로 드래그합니다.
 
-   ![](assets/image2014-9-12-15-3a52-3a18.png)
+   ![](assets/define-the-a-b-test-winner-criteria-3.png)
 
 1. 트리거 정의.
 
-   ![](assets/image2014-9-12-15-3a53-3a11.png)
+   ![](assets/define-the-a-b-test-winner-criteria-4.png)
 
    >[!IMPORTANT]
    >
    >Marketo은 이 이메일 프로그램에서 이메일을 전송한 사람에 대해서만 트리거/필터를 허용하므로 &#39;전송된 이메일&#39; 필터를 추가할 필요가 없습니다. 또한 이메일 관련 트리거/필터를 사용할 때는 연산자로 &quot;is any&quot;를 사용해야 합니다.
 
-1. **[!UICONTROL Close]**&#x200B;를 클릭합니다.
+1. 열려 있는 새 창(또는 탭)을 닫습니다. Smart List가 자동으로 저장됩니다.
 
-   ![](assets/image2014-9-12-15-3a53-3a36.png)
-
-   잘됐네! 이제 승자를 결정하는 방법을 결정할 때입니다.
+이제 승자를 결정하는 방법을 결정할 때입니다.
 
 ## 우승자 선언 {#declare-winner}
 
 1. 사용 가능한 두 옵션 중 하나를 선택합니다.
 
-   ![](assets/image2014-9-12-15-3a53-3a44.png)
+   ![](assets/define-the-a-b-test-winner-criteria-5.png)
 
    >[!NOTE]
    >
@@ -88,10 +86,10 @@ ht-degree: 21%
 
 1. 자동은 굉장하며 기본 옵션입니다. **[!UICONTROL Next]**&#x200B;을(를) 클릭하세요.
 
-   ![](assets/image2014-9-12-15-3a54-3a35.png)
+   ![](assets/define-the-a-b-test-winner-criteria-6.png)
 
    >[!TIP]
    >
    >**[!UICONTROL Manual]**&#x200B;을(를) 선택하면 테스트가 전송되고 우승자를 선언할 때까지 기다립니다. 결과 보고서를 받게 됩니다.
 
-완벽해! 이제 [A/B 테스트를 예약](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/email-test-a-b-test/schedule-the-a-b-test.md){target="_blank"}하겠습니다.
+이제 [A/B 테스트를 예약](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/email-test-a-b-test/schedule-the-a-b-test.md){target="_blank"}하겠습니다.

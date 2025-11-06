@@ -4,9 +4,9 @@ description: A/B 테스트 예약 - Marketo 문서 - 제품 설명서
 title: A/B 테스트 예약
 exl-id: f50a00a3-da03-468a-89f8-0d31b69314c0
 feature: Email Programs, A/B Testing
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: c80d25aeafe2314fcff1d99359ff146c88acad06
 workflow-type: tm+mt
-source-wordcount: '202'
+source-wordcount: '201'
 ht-degree: 5%
 
 ---
@@ -25,35 +25,35 @@ ht-degree: 5%
 
 1. **[!UICONTROL Send Test]** 날짜를 선택하십시오.
 
-![](assets/image2014-9-12-15-3a59-3a54.png)
+![](assets/schedule-the-a-b-test-1.png)
 
 1. **[!UICONTROL Send Test]** 시간을 선택하십시오.
 
-   ![](assets/image2014-9-12-16-3a0-3a2.png)
+   ![](assets/schedule-the-a-b-test-2.png)
 
    >[!NOTE]
    >
    >테스트 보내기 및 우승자 보내기 는 최소 4시간 간격으로 전송해야 합니다. 그러나 더 큰 전송에서는 24시간 대기하여 좋은 결과를 얻을 수 있습니다.
 
-1. **[!UICONTROL Send Winner]**&#x200B;에 대해서도 동일한 작업을 수행합니다. 알림 수신자(선택 사항)를 입력하고 **[!UICONTROL Next]**&#x200B;을(를) 클릭합니다.
+1. _우승자 보내기_&#x200B;에 대해 1단계와 2단계를 반복합니다. 알림 수신자(선택 사항)를 입력하고 **[!UICONTROL Next]**&#x200B;을(를) 클릭합니다.
 
    >[!NOTE]
    >
    >테스트 그룹만 테스트 변형을 받습니다.
 
-   ![](assets/image2014-9-12-16-3a0-3a12.png)
+   ![](assets/schedule-the-a-b-test-3.png)
 
    >[!NOTE]
    >
    >우승자를 수동으로 선언하기로 선택한 경우 **메일링 완료** 날짜/시간 대신 **보고서 보내기** 날짜/시간을 정의합니다.
 
-   훌륭해! 모두 완료되었습니다. 요약을 검토하고 **[!UICONTROL Close]**&#x200B;을(를) 클릭하세요.
+1. 요약을 검토하고 **[!UICONTROL Close]**&#x200B;을(를) 클릭합니다.
 
-   ![](assets/image2014-9-12-16-3a1-3a23.png)
+   ![](assets/schedule-the-a-b-test-4.png)
 
    이제 **[!UICONTROL Schedule]** 타일이 업데이트되었습니다.
 
-   ![](assets/image2014-9-12-16-3a1-3a33.png)
+   ![](assets/schedule-the-a-b-test-5.png)
 
    >[!NOTE]
    >
