@@ -3,10 +3,10 @@ description: 최신 릴리스 정보 - Marketo 설명서 - 제품 설명서
 title: 최신 릴리스 정보
 exl-id: a2eccad5-73ad-48f9-8091-51cee23824e1
 feature: Release Information
-source-git-commit: 588ec23961df42de8a8c0aed919ba9a016b61f18
+source-git-commit: a53178021f3abdbfc5e1cdff76bc1f0483c4b887
 workflow-type: tm+mt
-source-wordcount: '730'
-ht-degree: 90%
+source-wordcount: '729'
+ht-degree: 99%
 
 ---
 
@@ -32,7 +32,7 @@ Adobe Dynamic Chat에 대한 릴리스 정보는 [여기에서 확인](/help/mar
    <th style="width:25%">설명서</th>
   </tr>
   <tr>
-   <td><strong>이메일 Designer - 템플릿 가져오기(Beta)</strong>: 클래식 이메일 편집기에서 이메일 템플릿을 가져와 Design Studio의 새 이메일 Designer과 호환되는 템플릿을 만듭니다.</td>
+   <td><strong>이메일 디자이너 - 템플릿 가져오기(Beta)</strong>: 클래식 이메일 편집기에서 이메일 템플릿을 가져와 Design Studio의 새 이메일 디자이너와 호환되는 템플릿을 만듭니다.</td>
    <td>출시됨</td>
    <td><a href="/help/marketo/product-docs/email-marketing/email-designer/import-template.md" target="_blank">템플릿 가져오기</a></td>
   </tr>
@@ -86,8 +86,8 @@ Adobe Dynamic Chat에 대한 릴리스 정보는 [여기에서 확인](/help/mar
   </tr>
   <tr>
    <td><strong>이메일 디자이너 - 이메일 복제 액션</strong>: 이제 마케팅 활동의 다른 프로그램 폴더에 이메일을 복제하여 기존 이메일을 빠르게 재사용할 수 있습니다.</td>
-   <td><i>곧 출시 예정</i></td>
-   <td><i>곧 출시 예정</i></td>
+   <td>출시됨</td>
+   <td>해당 사항 없음</td>
   </tr>
   </tbody>
 </table>
@@ -95,7 +95,7 @@ Adobe Dynamic Chat에 대한 릴리스 정보는 [여기에서 확인](/help/mar
 
 ## 공지 {#announcements}
 
-* **Salesforce CRM 통합 업그레이드**: 기본 CRM 통합의 새 버전이 2025년 11월 13일부터 7일 동안 기본 커넥터가 활성화된 활성 샌드박스에 배포됩니다. [이 국가 게시물](https://nation.marketo.com/t5/product-blogs/salesforce-crm-integration-upgrade/ba-p/358702){target="_blank"}에서 전체 세부 정보 가져오기
+* **Salesforce CRM 통합 업그레이드**: 기본 CRM 통합의 신규 버전이 2025년 11월 13일부터 7일 동안 기본 커넥터가 활성화된 활성 샌드박스에 배포됩니다. [이 Nation 게시물](https://nation.marketo.com/t5/product-blogs/salesforce-crm-integration-upgrade/ba-p/358702){target="_blank"}에서 전체 세부 사항에 대해 알아봅니다.
 
 * **REST API 이중 슬래시 사용 중단**: 2025년 9월 16일에 Adobe는 보안 및 확장성을 추가하여 최신 기술을 활용하는 REST API URL에 대해 더욱 현대화된 호스팅 인프라로 전환했습니다. URL에 이중 슬래시(//)가 포함된 API를 사용하는 구독이라면, 다음 단계를 위해 [Nation 게시물](https://nation.marketo.com/t5/product-blogs/rest-api-double-slash-deprecation/ba-p/358616){target="_blank"}을 참조하십시오.
 
