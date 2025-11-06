@@ -6,7 +6,7 @@ description: Adobe Express을 사용하여 Adobe Marketo Engage 이메일 편집
 level: Beginner, Intermediate
 feature: Email Designer
 exl-id: 74623a14-8eaf-4f79-952c-d10092ddc34f
-source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
+source-git-commit: 40fdd38d8ec5b63568c8ed9beeab0ef50974b7fd
 workflow-type: tm+mt
 source-wordcount: '807'
 ht-degree: 1%
@@ -145,7 +145,7 @@ Enterprise 라이선스가 없는 사용자의 경우 여전히 몇 가지 빠�
 
 #### 이미지 자르기 {#crop-image}
 
-1. **[!UICONTROL Crop Image]**&#x200B;을(를) 클릭합니다.
+1. **[!UICONTROL Crop Image]**&#x200B;를 클릭합니다.
 
 1. 이미지의 모서리를 드래그하여 원하는 자르기를 만듭니다.
 
@@ -157,11 +157,11 @@ Enterprise 라이선스가 없는 사용자의 경우 여전히 몇 가지 빠�
 
 PNG 파일을 JPEG 파일로 변환하거나 JPEG 파일을 PNG 파일로 변환합니다.
 
-1. **[!UICONTROL Convert to PNG/JPEG]**&#x200B;을(를) 클릭합니다.
+1. **[!UICONTROL Convert to PNG/JPEG]**&#x200B;를 클릭합니다.
 
 ![PNG/JPEG 창으로 변환](assets/edit-images-with-adobe-express-8.png){width="800" zoomable="yes"}
 
-1. **[!UICONTROL Apply]**&#x200B;을(를) 클릭합니다.
+1. **[!UICONTROL Apply]**&#x200B;를 클릭합니다.
 
 ## 작업 내용 저장 {#save-your-work}
 
