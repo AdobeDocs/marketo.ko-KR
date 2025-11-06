@@ -4,9 +4,9 @@ description: 세그먼테이션 승인 - Marketo 문서 - 제품 설명서
 title: 세분화 승인
 exl-id: c8b0fbe9-012c-47bf-8769-0167156b43d3
 feature: Segmentation
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: b29186ba84ec88be42432e56d1ad0e77c5b43900
 workflow-type: tm+mt
-source-wordcount: '222'
+source-wordcount: '220'
 ht-degree: 2%
 
 ---
@@ -26,22 +26,23 @@ ht-degree: 2%
 
 1. **[!UICONTROL Database]**(으)로 이동합니다.
 
-   ![](assets/image2017-3-28-14-3a25-3a49.png)
+   ![](assets/approve-a-segmentation-1.png)
 
 1. 세분화에서 **[!UICONTROL Segmentation Actions]**&#x200B;을(를) 클릭한 다음 **[!UICONTROL Approve]**&#x200B;을(를) 클릭합니다.
 
-   ![](assets/image2017-3-28-14-3a46-3a22.png)
+   ![](assets/approve-a-segmentation-2.png)
 
    >[!NOTE]
    >
-   >승인이 진행되는 동안 상태가 [!UICONTROL Approving]&#x200B;(으)로 바뀌고 회전하는 바퀴(![](assets/image2014-9-15-15-3a31-3a43.png))가 있습니다.
+   >승인이 진행되는 동안 상태가 _승인 중_(으)로 변경됩니다.
 
    >[!CAUTION]
    >
-   >승인은 데이터베이스 크기에 따라 완료하는 데 몇 분에서 하루 이상 걸릴 수 있습니다.
+   >데이터베이스 크기에 따라 승인을 완료하는 데 몇 분에서 하루나 이틀 정도 걸릴 수 있습니다.
 
-   승인되면 [!UICONTROL Status]이(가) [!UICONTROL Approving]에서 [!UICONTROL Approved]&#x200B;(으)로 변경됩니다.
-   ![](assets/image2017-3-28-14-3a46-3a44.png)
+1. 승인되면 [!UICONTROL Status]이(가) [!UICONTROL Approving]에서 [!UICONTROL Approved]&#x200B;(으)로 변경됩니다.
+
+   ![](assets/approve-a-segmentation-3.png)
 
    >[!TIP]
    >
@@ -49,7 +50,7 @@ ht-degree: 2%
 
 1. 이제 **[!UICONTROL People]**&#x200B;의 **[!UICONTROL Segment]** 탭에 세그먼트에 대한 최종 사용자 목록이 표시됩니다.
 
-   ![](assets/image2017-3-28-14-3a47-3a10.png)
+   ![](assets/approve-a-segmentation-4.png)
 
 >[!CAUTION]
 >

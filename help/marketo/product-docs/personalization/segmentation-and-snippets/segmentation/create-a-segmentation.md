@@ -4,9 +4,9 @@ description: 세그먼테이션 만들기 - Marketo 문서 - 제품 설명서
 title: 세분화 만들기
 exl-id: a7907f1d-bc78-4b63-9875-044e96609755
 feature: Segmentation
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: b29186ba84ec88be42432e56d1ad0e77c5b43900
 workflow-type: tm+mt
-source-wordcount: '214'
+source-wordcount: '215'
 ht-degree: 3%
 
 ---
@@ -17,11 +17,11 @@ ht-degree: 3%
 
 1. **[!UICONTROL Database]**(으)로 이동합니다.
 
-   ![](assets/image2017-3-28-13-3a44-3a54.png)
+   ![](assets/create-a-segmentation-1.png)
 
 1. **[!UICONTROL New]**&#x200B;을(를) 클릭한 다음 **[!UICONTROL New Segmentation]**&#x200B;을(를) 클릭합니다.
 
-   ![](assets/image2017-3-28-13-3a56-3a57.png)
+   ![](assets/create-a-segmentation-2.png)
 
    >[!TIP]
    >
@@ -29,7 +29,7 @@ ht-degree: 3%
 
 1. **[!UICONTROL Name]**&#x200B;을(를) 입력하고 **[!UICONTROL Add Segment]**&#x200B;을(를) 클릭하여 이름을 지정하십시오.
 
-   ![](assets/image2014-9-15-10-3a1-3a1.png)
+   ![](assets/create-a-segmentation-3.png)
 
    >[!NOTE]
    >
@@ -37,7 +37,7 @@ ht-degree: 3%
 
 1. 세그먼트를 원하는 만큼 추가합니다(최대 100개).
 
-   ![](assets/image2014-9-15-10-3a1-3a16.png)
+   ![](assets/create-a-segmentation-4.png)
 
    >[!CAUTION]
    >
@@ -47,7 +47,7 @@ ht-degree: 3%
 
 1. 세그먼트를 드래그 앤 드롭하여 순서를 변경합니다. 완료되면 **[!UICONTROL Create]**&#x200B;을(를) 클릭합니다.
 
-   ![](assets/image2014-9-15-10-3a1-3a30.png)
+   ![](assets/create-a-segmentation-5.png)
 
    >[!NOTE]
    >
