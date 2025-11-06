@@ -40,7 +40,7 @@ ht-degree: 21%
    </tr>
    <tr>
    <td><b>[!UICONTROL Engagement Score]</b></td>
-   <td><a href="https://experienceleague.adobe.com/docs/marketo/using/product-docs/email-marketing/drip-nurturing/reports-and-notifications/understanding-the-engagement-score.html" target="_blank">참여 점수</a>를 통해 콘텐츠의 효과를 확인할 수 있습니다.</td>
+   <td><a href="https://experienceleague.adobe.com/docs/marketo/using/product-docs/email-marketing/drip-nurturing/reports-and-notifications/understanding-the-engagement-score.html?lang=ko" target="_blank">참여 점수</a>를 통해 콘텐츠의 효과를 확인할 수 있습니다.</td>
    </tr>
    </table>
 
