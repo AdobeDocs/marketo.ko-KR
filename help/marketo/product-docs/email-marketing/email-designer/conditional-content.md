@@ -5,9 +5,9 @@ title: 조건부 콘텐츠
 description: 이메일의 조건부 콘텐츠를 사용하여 수신자에 따라 콘텐츠를 동적으로 표시할 수 있습니다.
 level: Beginner, Intermediate
 feature: Email Designer
-source-git-commit: 6b9f6d4b276115e1f3f3dac73eb64e5358a76516
+source-git-commit: 759d79fd932924b68ae2727b36cd1b9fb3b7a278
 workflow-type: tm+mt
-source-wordcount: '304'
+source-wordcount: '303'
 ht-degree: 2%
 
 ---
@@ -46,7 +46,7 @@ ht-degree: 2%
 
    ![](assets/conditional-content-6.png){width="600" zoomable="yes"}
 
-1. 새 이미지가 나타납니다. 식별이 쉽도록 변형 이름을 바꾸는 것이 좋습니다. 줄임표를 클릭하고 **이름 바꾸기**&#x200B;를 선택하면 됩니다.
+1. 새 이미지가 나타납니다. 식별이 쉽도록 변형 이름을 바꾸는 것이 좋습니다. 줄임표를 클릭하고 **이름 바꾸기**&#x200B;를 선택합니다.
 
    >[!NOTE]
    >
