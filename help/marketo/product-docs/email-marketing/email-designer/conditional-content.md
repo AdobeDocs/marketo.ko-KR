@@ -7,7 +7,7 @@ level: Beginner, Intermediate
 feature: Email Designer
 hide: true
 hidefromtoc: true
-source-git-commit: 40fdd38d8ec5b63568c8ed9beeab0ef50974b7fd
+source-git-commit: 6f2d3256f3422f1c5054dfd87db3e31c862724a5
 workflow-type: tm+mt
 source-wordcount: '233'
 ht-degree: 3%
@@ -26,15 +26,15 @@ ht-degree: 3%
 
 1. 원하는 전자 메일을 열고 **전자 메일 콘텐츠 편집**&#x200B;을 클릭합니다.
 
-   ![](assets/conditional-content-1.png){width="800" zoomable="yes"}
+   ![](assets/conditional-content-1.png)
 
 1. 조건을 지정할 콘텐츠를 선택합니다(이 예제에서는 헤더 이미지를 선택함). _조건부 콘텐츠 사용_ 아이콘을 클릭합니다.
 
    ![](assets/conditional-content-2.png)
 
-1. 상자가 주황색으로 바뀝니다. 왼쪽의 _조건 선택 아이콘_()을 클릭하여 변형을 정의합니다.
+1. 상자가 주황색으로 바뀝니다. 왼쪽에서 _조건 선택_ 아이콘을 클릭하여 변형을 정의합니다.
 
-   ![](assets/conditional-content-3.png)
+   ![](assets/conditional-content-3.png){width="700" zoomable="yes"}
 
 1. 원하는 세그먼트를 선택하고 **선택**&#x200B;을 클릭합니다.
 
@@ -46,11 +46,11 @@ ht-degree: 3%
 
 1. 적용 가능한 이미지를 선택하고 **선택**&#x200B;을 클릭합니다.
 
-   ![](assets/conditional-content-6.png)
+   ![](assets/conditional-content-6.png){width="600" zoomable="yes"}
 
 1. 새 이미지가 나타납니다. 식별이 쉽도록 변형 이름을 바꾸는 것이 좋습니다.
 
-   ![](assets/conditional-content-7.png)
+   ![](assets/conditional-content-7.png){width="600" zoomable="yes"}
 
 1. 추가 변형(선택 사항)을 추가하려면 **변형 추가**&#x200B;를 클릭하고 동일한 단계를 수행합니다.
 
