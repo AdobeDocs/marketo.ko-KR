@@ -3,9 +3,9 @@ description: 최신 릴리스 정보 - Marketo 설명서 - 제품 설명서
 title: 최신 릴리스 정보
 exl-id: a2eccad5-73ad-48f9-8091-51cee23824e1
 feature: Release Information
-source-git-commit: a53178021f3abdbfc5e1cdff76bc1f0483c4b887
+source-git-commit: fdd1cc80d215fc7dee484a9e7b9fa640a47c4519
 workflow-type: tm+mt
-source-wordcount: '729'
+source-wordcount: '728'
 ht-degree: 99%
 
 ---
@@ -43,8 +43,8 @@ Adobe Dynamic Chat에 대한 릴리스 정보는 [여기에서 확인](/help/mar
   </tr>
   <tr>
    <td><strong>이메일 디자이너 - 조건부 콘텐츠</strong>: 새로운 이메일 디자이너를 위한 패리티 기능을 통해 토큰을 넘어 이메일 개인화를 수행할 수 있습니다.</td>
-   <td><i>곧 출시 예정</i></td>
-   <td><i>곧 제공 예정</i></td>
+   <td>출시됨</td>
+   <td><a href="/help/marketo/product-docs/email-marketing/email-designer/conditional-content.md" target="_blank">조건부 콘텐츠</a></td>
   </tr>
   <tr>
   <tr>

@@ -5,9 +5,7 @@ title: 조건부 콘텐츠
 description: 이메일의 조건부 콘텐츠를 사용하여 수신자에 따라 콘텐츠를 동적으로 표시할 수 있습니다.
 level: Beginner, Intermediate
 feature: Email Designer
-hide: true
-hidefromtoc: true
-source-git-commit: 6f2d3256f3422f1c5054dfd87db3e31c862724a5
+source-git-commit: fdd1cc80d215fc7dee484a9e7b9fa640a47c4519
 workflow-type: tm+mt
 source-wordcount: '233'
 ht-degree: 3%
