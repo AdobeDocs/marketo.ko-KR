@@ -5,9 +5,9 @@ solution: Marketo Engage
 product: marketo
 level: Beginner, Intermediate
 feature: Email Designer
-source-git-commit: 6b9f6d4b276115e1f3f3dac73eb64e5358a76516
+source-git-commit: 74c8b1597bed7e2ac827bea444200dacfe4b29a5
 workflow-type: tm+mt
-source-wordcount: '1277'
+source-wordcount: '1281'
 ht-degree: 1%
 
 ---
@@ -23,7 +23,7 @@ ht-degree: 1%
 >[!PREREQUISITES]
 >
 >* 먼저 이메일 Designer에서 Gen-AI 기능을 사용하려면 [핵심 Gen-AI 약관 및 추가 약관](https://www.adobe.com/legal/terms/enterprise-licensing/genai-ww.html){target="_blank"}에 동의해야 합니다. 자세한 내용은 Adobe 계정 팀(계정 관리자)에 문의하십시오.
->* _전자 메일 템플릿 액세스_&#x200B;와 _전자 메일 템플릿 편집/생성_ 사용 권한이 [Marketo 역할에서 사용](https://experienceleague.adobe.com/ko/docs/marketo/using/product-docs/administration/users-and-roles/managing-user-roles-and-permissions#edit-a-role)되어야 합니다.
+>* _전자 메일 템플릿 액세스_&#x200B;와 _전자 메일 템플릿 편집/생성_ 사용 권한이 [Marketo 역할에서 사용](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/administration/users-and-roles/managing-user-roles-and-permissions#edit-a-role)되어야 합니다.
 
 ## 이미지 변환 {#convert-an-image}
 
@@ -53,7 +53,7 @@ ht-degree: 1%
    >
    >이미지 디자인의 복잡성과 크기에 따라 생성 프로세스에 최대 5분이 걸릴 수 있습니다. AI 처리는 백그라운드에서 수행되므로 전환이 진행되는 동안 이 화면에서 벗어나 다른 작업을 수행할 수 있습니다. 상태 변경을 보려면 _전자 메일 템플릿_ 라이브러리 화면을 새로 고쳐야 할 수 있습니다.
 
-1. 변환이 완료되면 템플릿이 자동으로 초안으로 저장됩니다. 선택..
+1. 변환이 완료되면 템플릿이 자동으로 초안으로 저장됩니다. 이름을 클릭하여 보거나 편집합니다.
 
    ![](assets/image-to-html-5.png)
 
