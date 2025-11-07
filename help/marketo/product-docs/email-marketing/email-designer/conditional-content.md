@@ -5,10 +5,10 @@ title: 조건부 콘텐츠
 description: 이메일의 조건부 콘텐츠를 사용하여 수신자에 따라 콘텐츠를 동적으로 표시할 수 있습니다.
 level: Beginner, Intermediate
 feature: Email Designer
-source-git-commit: fdd1cc80d215fc7dee484a9e7b9fa640a47c4519
+source-git-commit: 6b9f6d4b276115e1f3f3dac73eb64e5358a76516
 workflow-type: tm+mt
-source-wordcount: '233'
-ht-degree: 3%
+source-wordcount: '304'
+ht-degree: 2%
 
 ---
 
@@ -30,7 +30,7 @@ ht-degree: 3%
 
    ![](assets/conditional-content-2.png)
 
-1. 상자가 주황색으로 바뀝니다. 왼쪽에서 _조건 선택_ 아이콘을 클릭하여 변형을 정의합니다.
+1. 강조 상자가 주황색으로 바뀝니다. 왼쪽에서 _조건 선택_ 아이콘(![](assets/icon-select-condition.png))을 클릭하여 변형을 정의합니다.
 
    ![](assets/conditional-content-3.png){width="700" zoomable="yes"}
 
@@ -46,7 +46,11 @@ ht-degree: 3%
 
    ![](assets/conditional-content-6.png){width="600" zoomable="yes"}
 
-1. 새 이미지가 나타납니다. 식별이 쉽도록 변형 이름을 바꾸는 것이 좋습니다.
+1. 새 이미지가 나타납니다. 식별이 쉽도록 변형 이름을 바꾸는 것이 좋습니다. 줄임표를 클릭하고 **이름 바꾸기**&#x200B;를 선택하면 됩니다.
+
+   >[!NOTE]
+   >
+   >줄임표를 클릭하면 변형의 정의된 조건을 확인하고 복제할 수도 있습니다. 변형이 두 개 이상 있는 경우 삭제 옵션을 사용할 수 있습니다. 변형이 한 개만 있는 경우 삭제하는 방법은 _조건부 콘텐츠 활성화_ 아이콘을 다시 클릭하는 것입니다(이제 마우스로 가리키면 _조건부 콘텐츠 비활성화_&#x200B;라고 표시됨).
 
    ![](assets/conditional-content-7.png){width="600" zoomable="yes"}
 

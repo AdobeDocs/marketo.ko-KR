@@ -3,9 +3,9 @@ description: 최신 릴리스 정보 - Marketo 설명서 - 제품 설명서
 title: 최신 릴리스 정보
 exl-id: a2eccad5-73ad-48f9-8091-51cee23824e1
 feature: Release Information
-source-git-commit: fdd1cc80d215fc7dee484a9e7b9fa640a47c4519
+source-git-commit: 6b9f6d4b276115e1f3f3dac73eb64e5358a76516
 workflow-type: tm+mt
-source-wordcount: '728'
+source-wordcount: '730'
 ht-degree: 99%
 
 ---
@@ -47,6 +47,25 @@ Adobe Dynamic Chat에 대한 릴리스 정보는 [여기에서 확인](/help/mar
    <td><a href="/help/marketo/product-docs/email-marketing/email-designer/conditional-content.md" target="_blank">조건부 콘텐츠</a></td>
   </tr>
   <tr>
+   <td> </td>
+   <td> </td>
+   <td> </td>
+  </tr>
+ <tr>
+   <td><strong>이메일 디자이너 - 이미지를 HTML 전환기로</strong>: 호환되는 이메일의 PNG/JPEG 이미지 파일을 업로드하면 새 이메일 디자이너에서 사용할 수 있도록 HTML로 자동 전환됩니다.</td>
+   <td>출시됨</td>
+   <td><a href="/help/marketo/product-docs/email-marketing/email-designer/image-to-html.md" target="_blank">이미지를 HTML 템플릿으로 변환</a></td>
+  </tr>
+  <tr>
+   <td> </td>
+   <td> </td>
+   <td> </td>
+  </tr>
+  <tr>
+   <td><strong>이메일 디자이너 - 이메일 복제 액션</strong>: 이제 마케팅 활동의 다른 프로그램 폴더에 이메일을 복제하여 기존 이메일을 빠르게 재사용할 수 있습니다.</td>
+   <td>출시됨</td>
+   <td>해당 사항 없음</td>
+  </tr>
   <tr>
    <td> </td>
    <td> </td>
@@ -58,7 +77,6 @@ Adobe Dynamic Chat에 대한 릴리스 정보는 [여기에서 확인](/help/mar
    <td><i>곧 제공 예정</i></td>
   </tr>
   <tr>
-  <tr>
    <td> </td>
    <td> </td>
    <td> </td>
@@ -66,28 +84,7 @@ Adobe Dynamic Chat에 대한 릴리스 정보는 [여기에서 확인](/help/mar
   <tr>
    <td><strong>이메일 디자이너 - 브랜드 테마</strong>: 이제 Marketo Engage 내에서 브랜드 테마를 정의할 수 있습니다. 브랜드 일관성을 위해 스타일링 구성을 이메일 템플릿 및 기타 이메일 자산 전반에 걸쳐 재사용 및 적용할 수 있습니다.</td>
    <td><i>곧 출시 예정</i></td>
-   <td><i>곧 제공 예정</i></td>
-  </tr>
-  <tr>
-  <tr>
-   <td> </td>
-   <td> </td>
-   <td> </td>
-  </tr>
- <tr>
-   <td><strong>이메일 디자이너 - 이미지를 HTML 전환기로</strong>: 호환되는 이메일의 PNG/JPEG 이미지 파일을 업로드하면 새 이메일 디자이너에서 사용할 수 있도록 HTML로 자동 전환됩니다.</td>
    <td><i>곧 출시 예정</i></td>
-   <td><i>곧 제공 예정</i></td>
-  </tr>
-  <tr>
-   <td> </td>
-   <td> </td>
-   <td> </td>
-  </tr>
-  <tr>
-   <td><strong>이메일 디자이너 - 이메일 복제 액션</strong>: 이제 마케팅 활동의 다른 프로그램 폴더에 이메일을 복제하여 기존 이메일을 빠르게 재사용할 수 있습니다.</td>
-   <td>출시됨</td>
-   <td>해당 사항 없음</td>
   </tr>
   </tbody>
 </table>

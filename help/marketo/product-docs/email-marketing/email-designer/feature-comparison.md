@@ -7,9 +7,9 @@ level: Beginner, Intermediate
 feature: Email Designer
 role: User
 exl-id: 37b42418-1733-447f-bab0-e1d461ef8110
-source-git-commit: fdd1cc80d215fc7dee484a9e7b9fa640a47c4519
+source-git-commit: 6b9f6d4b276115e1f3f3dac73eb64e5358a76516
 workflow-type: tm+mt
-source-wordcount: '884'
+source-wordcount: '883'
 ht-degree: 11%
 
 ---
@@ -226,12 +226,6 @@ ht-degree: 11%
     <td>조각 드래그 앤 드롭</td>
   </tr>
   <tr>
-    <td>글로벌 테마</td>
-    <td>조직 전체에서 승인된 테마를 적용하여 스타일, 색상, 글꼴 크기 등과 같은 요소의 일관성을 보장할 수 있습니다.</td>
-    <td>사용할 수 없음</td>
-    <td>곧 출시 예정</td>
-  </tr>
-  <tr>
     <td>다이내믹 콘텐츠/조건부 콘텐츠</td>
     <td>대상 대상자를 기준으로 전자 메일 내에 <a href="/help/marketo/product-docs/email-marketing/email-designer/conditional-content.md" target="_blank">변형을 만들</a> 수 있습니다.</td>
     <td>사용 가능</td>
@@ -239,9 +233,9 @@ ht-degree: 11%
   </tr>
   <tr>
     <td>HTML에 이미지</td>
-    <td>이미지를 HTML으로 변환한 다음 을 사용하여 이메일을 만드는 기능.</td>
+    <td><a href="/help/marketo/product-docs/email-marketing/email-designer/image-to-html.md" target="_blank">이미지를 HTML으로 변환</a>한 다음 을 사용하여 전자 메일을 만드는 기능.</td>
     <td>사용할 수 없음</td>
-    <td>곧 출시 예정</td>
+    <td>사용 가능</td>
   </tr>
   <tr>
     <td>이메일 에셋이 있는 프로그램의 이동, 삭제 및 가져오기 지원</td>
@@ -264,6 +258,12 @@ ht-degree: 11%
   <tr>
     <td>브랜드 키트</td>
     <td>브랜드 지침을 반영하여 이메일을 개선할 수 있습니다.</td>
+    <td>사용할 수 없음</td>
+    <td>곧 출시 예정</td>
+  </tr>
+  <tr>
+    <td>글로벌 테마</td>
+    <td>조직 전체에서 승인된 테마를 적용하여 스타일, 색상, 글꼴 크기 등과 같은 요소의 일관성을 보장할 수 있습니다.</td>
     <td>사용할 수 없음</td>
     <td>곧 출시 예정</td>
   </tr>

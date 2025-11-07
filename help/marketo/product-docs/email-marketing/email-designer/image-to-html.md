@@ -5,9 +5,7 @@ solution: Marketo Engage
 product: marketo
 level: Beginner, Intermediate
 feature: Email Designer
-hide: true
-hidefromtoc: true
-source-git-commit: 1e067b5f5e8a989d2fc98d54a5a5720cc93c644c
+source-git-commit: 6b9f6d4b276115e1f3f3dac73eb64e5358a76516
 workflow-type: tm+mt
 source-wordcount: '1277'
 ht-degree: 1%
@@ -25,7 +23,7 @@ ht-degree: 1%
 >[!PREREQUISITES]
 >
 >* 먼저 이메일 Designer에서 Gen-AI 기능을 사용하려면 [핵심 Gen-AI 약관 및 추가 약관](https://www.adobe.com/legal/terms/enterprise-licensing/genai-ww.html){target="_blank"}에 동의해야 합니다. 자세한 내용은 Adobe 계정 팀(계정 관리자)에 문의하십시오.
->* _전자 메일 템플릿 액세스_&#x200B;와 _전자 메일 템플릿 편집/생성_ 사용 권한이 [Marketo 역할에서 사용](https://experienceleague.adobe.com/ko/docs/marketo/using/product-docs/administration/users-and-roles/managing-user-roles-and-permissions#edit-a-role)되어야 합니다.
+>* _전자 메일 템플릿 액세스_&#x200B;와 _전자 메일 템플릿 편집/생성_ 사용 권한이 [Marketo 역할에서 사용](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/administration/users-and-roles/managing-user-roles-and-permissions#edit-a-role)되어야 합니다.
 
 ## 이미지 변환 {#convert-an-image}
 
