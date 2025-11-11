@@ -1,16 +1,16 @@
 ---
 solution: Marketo Engage
 product: marketo
-title: 제목
-description: 설명.
+title: 브랜드 테마
+description: 브랜드 지침을 만들고 관리하는 방법을 알아봅니다.
 level: Beginner, Intermediate
 feature: Email Designer
 hide: true
 hidefromtoc: true
 exl-id: e6b576e5-3456-4bee-9383-b63cd6728620
-source-git-commit: 6ff95c8c3b59239586982b10996e18e942509f8d
+source-git-commit: 2f0ac66406a0e9d077ce784f8b2492cdbe21fe30
 workflow-type: tm+mt
-source-wordcount: '1226'
+source-wordcount: '1201'
 ht-degree: 0%
 
 ---
@@ -81,17 +81,13 @@ ht-degree: 0%
 
 변형을 편집하려면 연필 아이콘을 클릭합니다.
 
-![](assets/brand-themes-.png)
+![](assets/brand-themes-9.png)
 
 >[!NOTE]
 >
 >최대 6개의 변형을 만들 수 있습니다.
 
-여러 요소를 사용자 정의할 수 있습니다.
-
-![](assets/brand-themes-.png)
-
-변형 설정은 다음 카테고리로 그룹화됩니다.
+여러 요소를 사용자 정의할 수 있습니다. 변형 설정은 다음 카테고리로 그룹화됩니다.
 
 * 일반
 * 제목
@@ -102,55 +98,49 @@ ht-degree: 0%
 
 이러한 설정을 사용하면 본문, 구조, 배경, 컨테이너, 이미지 등의 색상을 설정할 수 있습니다.
 
-![](assets/brand-themes-.png)
+![](assets/brand-themes-10.png)
 
 **제목**
 
 제목 1부터 제목 6까지 각 제목 유형의 텍스트 및 테두리 색상을 설정합니다.
 
-![](assets/brand-themes-.png)
+![](assets/brand-themes-11.png)
 
 **단락**
 
 최대 3개의 단락 유형의 텍스트 및 테두리 색상을 설정합니다.
 
-![](assets/brand-themes-.png)
+![](assets/brand-themes-12.png)
 
 **단추**
 
 기본, 보조 및 3차 단추 유형에 대해 채우기, 테두리 및 텍스트 색상을 설정합니다.
 
-![](assets/brand-themes-.png)
+![](assets/brand-themes-13.png)
 
 ### 텍스트 설정 {#text-settings}
 
 글로벌, 머리글 및 단락의 글꼴 유형과 크기를 설정합니다.
 
-![](assets/brand-themes-.png)
+![](assets/brand-themes-14.png)
 
 **전역**
 
-전역 텍스트 설정에서 표준 및 Google 글꼴 라이브러리 중에서 양식 라이브러리를 선택합니다.
+표준 또는 Google 글꼴 라이브러리와 해당 글꼴 패밀리 중에서 선택합니다.
 
-![](assets/brand-themes-.png)
-
-[표준]에서 다른 글꼴 모음을 선택합니다.
-
-![](assets/brand-themes-.png)
-
-마찬가지로 Google 글꼴 아래에는 각각 지원되는 글꼴 중에서 선택할 수 있는 옵션이 표시됩니다.
+![](assets/brand-themes-15.png)
 
 **머리글**
 
-여기에서 다양한 제목 유형에 대해 글꼴 라이브러리, 패밀리, 크기, 텍스트 스타일 및 텍스트 정렬을 설정할 수 있습니다.
+다양한 제목 유형에 대해 글꼴 라이브러리, 패밀리, 크기, 텍스트 스타일 및 텍스트 정렬을 설정합니다.
 
-스크린샷
+![](assets/brand-themes-16.png)
 
 **단락**
 
-여기에서 다양한 단락 사전 설정에 대해 글꼴 라이브러리, 패밀리, 크기, 텍스트 스타일 및 텍스트 정렬을 설정할 수 있습니다.
+서로 다른 단락 사전 설정에 대해 글꼴 라이브러리, 패밀리, 크기, 텍스트 스타일 및 텍스트 정렬을 설정합니다.
 
-스크린샷
+![](assets/brand-themes-17.png)
 
 ### 간격 및 테두리 {#spacing-and-border}
 
