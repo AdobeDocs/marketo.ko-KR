@@ -6,9 +6,9 @@ description: 시각적 콘텐츠 조각을 이메일 및 이메일 템플릿에 
 level: Beginner, Intermediate
 feature: Email Designer
 exl-id: abc065a0-cd2f-4f0f-a5f2-228b833b99a8
-source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
+source-git-commit: 14c673a1cc4563b8a8066d3e72c0aec482d49e00
 workflow-type: tm+mt
-source-wordcount: '1851'
+source-wordcount: '1881'
 ht-degree: 1%
 
 ---
@@ -36,7 +36,7 @@ ht-degree: 1%
 
 ![조각 액세스](assets/access-and-manage-fragments-1.png){width="600" zoomable="yes"}
 
-기본적으로 테이블은 _[!UICONTROL Modified]_&#x200B;열을 기준으로 정렬됩니다. 테이블 정렬 기준을 변경하려면 다른 열 제목을 클릭합니다. 오름차순과 내림차순 간을 전환하려면 동일한 제목을 다시 클릭합니다.
+기본적으로 테이블은 _[!UICONTROL Modified]_열을 기준으로 정렬됩니다. 테이블 정렬 기준을 변경하려면 다른 열 제목을 클릭합니다. 오름차순과 내림차순 간을 전환하려면 동일한 제목을 다시 클릭합니다.
 
 ### 찾기 및 필터링
 
@@ -94,7 +94,7 @@ ht-degree: 1%
 </tbody>
 </table>
 
-## 조각 만들기 {#create-fragments}
+## 조각 만들기 {#create-a-fragment}
 
 1. 새 시각적 조각을 만들려면 조각 목록 페이지의 오른쪽 상단에 있는 **[!UICONTROL Create fragment]**&#x200B;을(를) 클릭합니다.
 
@@ -111,7 +111,7 @@ ht-degree: 1%
 
    ![조각 만들기 모달](assets/create-fragments-2.png){width="400" zoomable="yes"}
 
-1. **[!UICONTROL Create]**&#x200B;을(를) 클릭합니다.
+1. **[!UICONTROL Create]**&#x200B;를 클릭합니다.
 
    ![조각 만들기 모달](assets/create-fragments-3.png){width="400" zoomable="yes"}
 
@@ -119,9 +119,21 @@ ht-degree: 1%
    >
    >지금은 조각의 **Type**&#x200B;을(를) 수정할 수 없습니다.
 
-   비주얼 디자이너가 빈 캔버스로 열립니다.
+1. _전자 메일 만들기_ 모달이 나타납니다. _테마 사용_ 또는 _수동 스타일 지정_&#x200B;을 선택하세요. 이 옵션에서는 **테마 사용**&#x200B;을 선택합니다. 완료되면 **확인**&#x200B;을 클릭합니다.
 
-1. 시각적 조각 콘텐츠를 만들려면 [콘텐츠 디자인 도구](/help/marketo/product-docs/email-marketing/email-designer/email-authoring.md#add-structure-and-content){target="_blank"}를 사용하십시오.
+   ![](assets/create-fragments-4.png)
+
+   >[!NOTE]
+   >
+   >수동 스타일을 선택하는 경우 [콘텐츠 디자인 도구](/help/marketo/product-docs/email-marketing/email-designer/email-authoring.md#add-structure-and-content){target="_blank"}를 사용하여 시각적 조각 콘텐츠를 만듭니다.
+
+1. _테마_ 아이콘을 클릭합니다.
+
+   ![](assets/create-fragments-5.png)
+
+   >[!INFO]
+   >
+   >[테마 설정](/help/marketo/product-docs/email-marketing/email-designer/brand-themes.md#settings){target="_blank"}에 대해 자세히 알아보세요.
 
 1. 언제든지 **[!UICONTROL Save]**&#x200B;을(를) 클릭하여 초안 조각을 저장합니다.
 
@@ -160,7 +172,7 @@ ht-degree: 1%
 다음 방법 중 하나를 사용하여 조각을 삭제할 수 있습니다.
 
 * 오른쪽의 조각 세부 정보에서 **[!UICONTROL Delete]**&#x200B;을(를) 클릭합니다.
-* _[!UICONTROL Fragments]_&#x200B;목록 페이지에서 조각 옆에 있는 줄임표를 클릭하고&#x200B;**[!UICONTROL Delete]**&#x200B;을(를) 선택합니다.
+* _[!UICONTROL Fragments]_목록 페이지에서 조각 옆에 있는 줄임표를 클릭하고&#x200B;**[!UICONTROL Delete]**을(를) 선택합니다.
 
 이 작업을 수행하면 확인 대화 상자가 열립니다. **[!UICONTROL Cancel]**&#x200B;을(를) 클릭하여 프로세스를 중단하거나 **[!UICONTROL Delete]**&#x200B;을(를) 클릭하여 삭제를 확인할 수 있습니다.
 
@@ -178,7 +190,7 @@ ht-degree: 1%
 
 >[!TAB 초안]
 
-1. _[!UICONTROL Fragments]_&#x200B;목록 페이지에서 조각 이름을 클릭하여 엽니다.
+1. _[!UICONTROL Fragments]_목록 페이지에서 조각 이름을 클릭하여 엽니다.
 
    오른쪽에 조각 세부 사항이 있는 시각적 콘텐츠의 미리보기가 표시됩니다.
 
@@ -194,7 +206,7 @@ ht-degree: 1%
 
 >[!TAB 게시됨]
 
-1. _[!UICONTROL Fragments]_&#x200B;목록 페이지에서 조각 이름을 클릭하여 엽니다.
+1. _[!UICONTROL Fragments]_목록 페이지에서 조각 이름을 클릭하여 엽니다.
 
    오른쪽에 조각 세부 사항이 있는 시각적 콘텐츠의 미리보기가 표시됩니다.
 
@@ -218,7 +230,7 @@ ht-degree: 1%
 
 >[!TAB 초안으로 게시됨]
 
-_[!UICONTROL Fragments]_&#x200B;목록 페이지에서 편집할 초안 버전을 여는 방법에는 두 가지가 있습니다.
+_[!UICONTROL Fragments]_목록 페이지에서 편집할 초안 버전을 여는 방법에는 두 가지가 있습니다.
 
 * 조각 이름 옆의 _자세히_ 아이콘(**...**)을 클릭하고 **[!UICONTROL Open draft version]**&#x200B;을(를) 선택합니다.
 
@@ -246,12 +258,12 @@ _[!UICONTROL Fragments]_&#x200B;목록 페이지에서 편집할 초안 버전�
 
 다음 방법 중 하나를 사용하여 조각을 복제할 수 있습니다.
 
-* _[!UICONTROL Fragments]_&#x200B;목록 페이지에서 조각 이름 옆의_&#x200B;자세히&#x200B;_아이콘(**...**)을 클릭하고&#x200B;**[!UICONTROL Duplicate]**&#x200B;을(를) 선택합니다.
+* _[!UICONTROL Fragments]_목록 페이지에서 조각 이름 옆의_&#x200B;자세히&#x200B;_아이콘(**...**)을 클릭하고&#x200B;**[!UICONTROL Duplicate]**을(를) 선택합니다.
 * 조각 세부 정보 페이지의 오른쪽 상단에서 **[!UICONTROL ... More]**&#x200B;을(를) 클릭하고 **[!UICONTROL Duplicate]**&#x200B;을(를) 선택합니다.
 
 ![조각 복제](assets/fragment-details-duplicate.png){width="600" zoomable="yes"}
 
-대화 상자에서 고유한 이름과 설명(선택 사항)을 입력합니다. **[!UICONTROL Duplicate]**&#x200B;을(를) 클릭합니다.
+대화 상자에서 고유한 이름과 설명(선택 사항)을 입력합니다. **[!UICONTROL Duplicate]**&#x200B;를 클릭합니다.
 
 ![중복된 조각의 이름과 설명을 입력하십시오](assets/fragment-duplicate-dialog.png){width="400"}
 
@@ -289,7 +301,7 @@ _[!UICONTROL Fragments]_&#x200B;목록 페이지에서 편집할 초안 버전�
 >
 >조각이 전자 메일 내의 전체 가로 레이아웃을 차지하도록 하려면 [!UICONTROL 1:1 열] 구조를 추가한 다음 조각을 끌어서 놓습니다.
 
-전자 메일/전자 메일 템플릿이 저장되면 _[!UICONTROL Used By]_&#x200B;탭을 선택하면 조각 세부 정보 페이지에 표시됩니다. 추가된 조각은 이메일 또는 템플릿 내에서 편집할 수 없습니다. 게시된 소스 조각은 콘텐츠를 정의합니다.
+전자 메일/전자 메일 템플릿이 저장되면 _[!UICONTROL Used By]_탭을 선택하면 조각 세부 정보 페이지에 표시됩니다. 추가된 조각은 이메일 또는 템플릿 내에서 편집할 수 없습니다. 게시된 소스 조각은 콘텐츠를 정의합니다.
 
 ## 이메일 및 템플릿 작성 중 조각 작업 {#fragment-actions-during-email-and-template-authoring}
 
