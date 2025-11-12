@@ -3,9 +3,9 @@ description: 최신 릴리스 정보 - Marketo 설명서 - 제품 설명서
 title: 최신 릴리스 정보
 exl-id: a2eccad5-73ad-48f9-8091-51cee23824e1
 feature: Release Information
-source-git-commit: 6b9f6d4b276115e1f3f3dac73eb64e5358a76516
+source-git-commit: 6c362502c975676a635b1425393bf43e1cf0be12
 workflow-type: tm+mt
-source-wordcount: '730'
+source-wordcount: '729'
 ht-degree: 99%
 
 ---
@@ -35,6 +35,16 @@ Adobe Dynamic Chat에 대한 릴리스 정보는 [여기에서 확인](/help/mar
    <td><strong>이메일 디자이너 - 템플릿 가져오기(Beta)</strong>: 클래식 이메일 편집기에서 이메일 템플릿을 가져와 Design Studio의 새 이메일 디자이너와 호환되는 템플릿을 만듭니다.</td>
    <td>출시됨</td>
    <td><a href="/help/marketo/product-docs/email-marketing/email-designer/import-template.md" target="_blank">템플릿 가져오기</a></td>
+  </tr>
+  <tr>
+   <td> </td>
+   <td> </td>
+   <td> </td>
+  </tr>
+  <tr>
+   <td><strong>이메일 디자이너 - 브랜드 테마</strong>: 이제 Marketo Engage 내에서 브랜드 테마를 정의할 수 있습니다. 브랜드 일관성을 위해 스타일링 구성을 이메일 템플릿 및 기타 이메일 자산 전반에 걸쳐 재사용 및 적용할 수 있습니다.</td>
+   <td>출시됨</td>
+   <td><a href="/help/marketo/product-docs/email-marketing/email-designer/brand-themes.md" target="_blank">브랜드 테마</a></td>
   </tr>
   <tr>
    <td> </td>
@@ -73,16 +83,6 @@ Adobe Dynamic Chat에 대한 릴리스 정보는 [여기에서 확인](/help/mar
   </tr>
   <tr>
    <td><strong>이메일 디자이너 - A/B 테스트</strong>: 새로운 이메일 디자이너를 위한 패리티 기능으로, 어떤 유형의 콘텐츠가 최상의 응답을 받는지 확인하기 위해 A/B 테스트를 수행할 수 있습니다.</td>
-   <td><i>곧 출시 예정</i></td>
-   <td><i>곧 제공 예정</i></td>
-  </tr>
-  <tr>
-   <td> </td>
-   <td> </td>
-   <td> </td>
-  </tr>
-  <tr>
-   <td><strong>이메일 디자이너 - 브랜드 테마</strong>: 이제 Marketo Engage 내에서 브랜드 테마를 정의할 수 있습니다. 브랜드 일관성을 위해 스타일링 구성을 이메일 템플릿 및 기타 이메일 자산 전반에 걸쳐 재사용 및 적용할 수 있습니다.</td>
    <td><i>곧 출시 예정</i></td>
    <td><i>곧 출시 예정</i></td>
   </tr>

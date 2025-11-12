@@ -7,9 +7,9 @@ level: Beginner, Intermediate
 feature: Email Designer
 role: User
 exl-id: 37b42418-1733-447f-bab0-e1d461ef8110
-source-git-commit: 6b9f6d4b276115e1f3f3dac73eb64e5358a76516
+source-git-commit: 6c362502c975676a635b1425393bf43e1cf0be12
 workflow-type: tm+mt
-source-wordcount: '883'
+source-wordcount: '868'
 ht-degree: 11%
 
 ---
@@ -232,6 +232,12 @@ ht-degree: 11%
     <td>사용 가능</td>
   </tr>
   <tr>
+    <td>브랜드 테마</td>
+    <td>스타일, 색상, 글꼴 크기 등과 같은 요소의 일관성을 보장하기 위해 조직 전체에서 <a href="/help/marketo/product-docs/email-marketing/email-designer/brand-themes.md" target="_blank">승인된 테마를 적용</a>하는 기능.</td>
+    <td>사용할 수 없음</td>
+    <td>사용 가능</td>
+  </tr>
+  <tr>
     <td>HTML에 이미지</td>
     <td><a href="/help/marketo/product-docs/email-marketing/email-designer/image-to-html.md" target="_blank">이미지를 HTML으로 변환</a>한 다음 을 사용하여 전자 메일을 만드는 기능.</td>
     <td>사용할 수 없음</td>
@@ -253,18 +259,6 @@ ht-degree: 11%
     <td>Velocity 스크립팅</td>
     <td>이메일에서 Velocity 스크립팅을 사용하는 기능.</td>
     <td>사용 가능</td>
-    <td>곧 출시 예정</td>
-  </tr>
-  <tr>
-    <td>브랜드 키트</td>
-    <td>브랜드 지침을 반영하여 이메일을 개선할 수 있습니다.</td>
-    <td>사용할 수 없음</td>
-    <td>곧 출시 예정</td>
-  </tr>
-  <tr>
-    <td>글로벌 테마</td>
-    <td>조직 전체에서 승인된 테마를 적용하여 스타일, 색상, 글꼴 크기 등과 같은 요소의 일관성을 보장할 수 있습니다.</td>
-    <td>사용할 수 없음</td>
     <td>곧 출시 예정</td>
   </tr>
   <tr>

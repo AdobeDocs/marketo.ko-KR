@@ -5,10 +5,8 @@ title: 브랜드 테마
 description: 브랜드 지침을 만들고 관리하는 방법을 알아봅니다.
 level: Beginner, Intermediate
 feature: Email Designer
-hide: true
-hidefromtoc: true
 exl-id: e6b576e5-3456-4bee-9383-b63cd6728620
-source-git-commit: 14c673a1cc4563b8a8066d3e72c0aec482d49e00
+source-git-commit: 6c362502c975676a635b1425393bf43e1cf0be12
 workflow-type: tm+mt
 source-wordcount: '1097'
 ht-degree: 1%
