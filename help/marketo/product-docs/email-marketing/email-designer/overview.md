@@ -5,9 +5,9 @@ description: 새로운 Adobe Marketo Engage 이메일 Designer을 시작합니�
 title: 개요
 feature: Email Designer
 exl-id: d31ce148-1feb-411e-bd10-453a6c7878fb
-source-git-commit: 4c0c880202ea4785b157366d8d8712c830921d69
+source-git-commit: 46b832ccf64b0e9e7eae0d8b3255528db903b422
 workflow-type: tm+mt
-source-wordcount: '680'
+source-wordcount: '659'
 ht-degree: 4%
 
 ---
@@ -17,10 +17,6 @@ ht-degree: 4%
 새로운 Adobe Marketo Engage 이메일 Designer을 시작합니다.
 
 이메일 Designer은 표준 기본 템플릿과 함께 드래그 앤 드롭 편집기를 시각적으로 제공하여 생산성 및 효율성을 개선하는 개선된 이메일 및 이메일 템플릿 생성 경험을 제공하기 위한 Marketo Engage의 최신 혁신입니다. 공급업체에 비용을 들이지 않고도 맞춤형 이메일 템플릿을 손쉽게 제작할 수 있습니다.
-
->[!NOTE]
->
->모든 주요 브라우저에서 이메일 Designer에 액세스할 수 있지만 Firefox의 전체 기능은 현재 지원되지 않습니다.
 
 ## 액세스 방법 {#how-to-access}
 
