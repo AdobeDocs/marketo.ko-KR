@@ -7,10 +7,10 @@ level: Beginner, Intermediate
 feature: Email Designer
 role: User
 exl-id: 37b42418-1733-447f-bab0-e1d461ef8110
-source-git-commit: 6c362502c975676a635b1425393bf43e1cf0be12
+source-git-commit: 9b41a880ad3b4eefe4a5078265a773aadc270a0a
 workflow-type: tm+mt
-source-wordcount: '868'
-ht-degree: 11%
+source-wordcount: '865'
+ht-degree: 10%
 
 ---
 
@@ -244,22 +244,22 @@ ht-degree: 11%
     <td>사용 가능</td>
   </tr>
   <tr>
+    <td>Velocity 스크립팅</td>
+    <td>이메일에서 Velocity 스크립팅을 사용하는 기능.</td>
+    <td>사용 가능</td>
+    <td>사용 가능</td>
+  </tr>
+  <tr>
     <td>이메일 에셋이 있는 프로그램의 이동, 삭제 및 가져오기 지원</td>
     <td>이메일 에셋과 함께 이메일 프로그램을 이동, 삭제 및 가져올 수 있습니다.</td>
     <td>사용 가능</td>
-    <td>곧 출시 예정</td>
+    <td>사용 가능</td>
   </tr>
   <tr>
     <td>역할 및 권한</td>
     <td>이메일, 이메일 템플릿 및 조각에 대한 역할 및 권한을 추가하는 기능.</td>
     <td>사용 가능</td>
-    <td>곧 출시 예정</td>
-  </tr>
-  <tr>
-    <td>Velocity 스크립팅</td>
-    <td>이메일에서 Velocity 스크립팅을 사용하는 기능.</td>
     <td>사용 가능</td>
-    <td>곧 출시 예정</td>
   </tr>
   <tr>
     <td>실험(A/B 테스트)</td>
