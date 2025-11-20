@@ -4,9 +4,9 @@ description: 개인 정보 설정 이해 - Marketo 문서 - 제품 설명서
 title: 개인 정보 보호 설정 이해
 exl-id: 1fde9011-02a9-4ec9-bfa4-c56a52ce1eed
 feature: Administration
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: eccf4a66f5d3c581a82a363918b40ae37aa73576
 workflow-type: tm+mt
-source-wordcount: '500'
+source-wordcount: '479'
 ht-degree: 1%
 
 ---
@@ -68,11 +68,7 @@ Marketo은 마케터에게 웹 방문자의 추적 동의를 얻을 수 있는 �
 
 마케터는 익명화된 IP 주소를 사용하여 사용자를 추적하여 개인 정보를 보존할 수 있습니다. 이렇게 하려면 이 코드를 웹 사이트에 포함된 RTP 또는 [!DNL Munchkin] Javascript에 추가합니다.
 
-* [!DNL Munchkin]의 경우 init 함수에 {&quot;anonymizeIP&quot;,true}를 추가하십시오.
-
-  >[!NOTE]
-  >
-  >이 매개 변수를 사용하려면 [!DNL Munchkin] V2를 사용하도록 설정해야 합니다. 구독에 사용하려면 [Marketo 지원](https://nation.marketo.com/community/support_solutions)에 문의하세요.
+* [!DNL Munchkin]의 경우 `{"anonymizeIP",true}`init 함수[에 ](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/javascriptapi/leadtracking/configuration){target="_blank"}을(를) 추가하기만 하면 됩니다.
 
 * 웹 Personalization(RTP)의 경우 이를 javascript에 추가합니다.
 
