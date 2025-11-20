@@ -6,7 +6,7 @@ feature: Release Information
 source-git-commit: 6c362502c975676a635b1425393bf43e1cf0be12
 workflow-type: tm+mt
 source-wordcount: '729'
-ht-degree: 99%
+ht-degree: 100%
 
 ---
 
@@ -64,7 +64,7 @@ Adobe Dynamic Chat에 대한 릴리스 정보는 [여기에서 확인](/help/mar
  <tr>
    <td><strong>이메일 디자이너 - 이미지를 HTML 전환기로</strong>: 호환되는 이메일의 PNG/JPEG 이미지 파일을 업로드하면 새 이메일 디자이너에서 사용할 수 있도록 HTML로 자동 전환됩니다.</td>
    <td>출시됨</td>
-   <td><a href="/help/marketo/product-docs/email-marketing/email-designer/image-to-html.md" target="_blank">이미지를 HTML 템플릿으로 변환</a></td>
+   <td><a href="/help/marketo/product-docs/email-marketing/email-designer/image-to-html.md" target="_blank">이미지를 HTML 템플릿으로 전환</a></td>
   </tr>
   <tr>
    <td> </td>

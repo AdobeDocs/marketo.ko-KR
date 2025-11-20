@@ -5,7 +5,7 @@ title: Marketo Engage 용어집
 feature: Getting Started
 exl-id: 57b60323-fe4a-4de1-898d-282e5aefd3ed
 source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
-workflow-type: ht
+workflow-type: tm+mt
 source-wordcount: '4065'
 ht-degree: 100%
 
@@ -184,7 +184,7 @@ ht-degree: 100%
    <td colspan="1">(<strong><a href="#predictivecontent">예측 콘텐츠</a></strong> 참조)</td>
   </tr>
   <tr>
-   <td colspan="1"><a href="/help/marketo/product-docs/web-personalization/understanding-web-personalization/understanding-content-analytics.md" rel="nofollow"><strong>콘텐츠 분석</strong></a></td>
+   <td colspan="1"><a href="/help/marketo/product-docs/web-personalization/understanding-web-personalization/understanding-content-analytics.md" rel="nofollow"><strong>Content Analytics</strong></a></td>
    <td colspan="1"><strong>웹 개인화</strong>의 한 영역으로, 웹 사이트에서 발견된 기존 콘텐츠와 콘텐츠 성과를 표시합니다.</td>
   </tr>
   <tr>
@@ -364,7 +364,7 @@ ht-degree: 100%
   </tr>
   <tr>
    <td><a href="/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/creating-a-smart-list/find-and-add-filters-to-a-smart-list.md" rel="nofollow"><strong>필터</strong></a></td>
-   <td><strong>스마트 목록</strong>에서 사용되는 도구로, 대상자 범위를 좁히는 데 사용됩니다(예: 데이터베이스에 있는 캘리포니아 거주자 모두). 필터는 <strong>일괄</strong> 및 <strong>트리거</strong> 캠페인 모두에서 사용할 수 있습니다.</td>
+   <td><strong>스마트 목록</strong>에서 사용되는 도구로, 대상자 범위를 좁히는 데 사용됩니다(예: 데이터베이스에 있는 캘리포니아 거주자 모두). 필터는 <strong>배치</strong> 및 <strong>트리거</strong> 캠페인 모두에서 사용할 수 있습니다.</td>
   </tr>
   <tr>
    <td><strong>플로우</strong></td>
