@@ -1,12 +1,11 @@
 ---
-unique-page-id: 7512454
 description: 모바일 푸시 알림 구성 - Marketo 문서 - 제품 설명서
 title: 모바일 푸시 알림 구성
 exl-id: 10368b13-40c9-435a-847c-68aaa5a892ea
 feature: Mobile Marketing
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: f6bdae9dbf1520bd8f30b4dd774b52a36b029c45
 workflow-type: tm+mt
-source-wordcount: '430'
+source-wordcount: '449'
 ht-degree: 3%
 
 ---
@@ -33,7 +32,7 @@ ht-degree: 3%
 
    ![](assets/configure-mobile-push-notification-4.png)
 
-1. 메시지 텍스트를 입력하거나 토큰 아이콘을 선택하여 토큰을 추가하십시오. 이 편집기에서 토큰은 [과(와) 같은 형식으로 &#x200B;](/help/marketo/product-docs/demand-generation/landing-pages/personalizing-landing-pages/tokens-overview.md)됩니다. 여러 토큰을 사용할 수 있습니다. **탭 동작**&#x200B;을 선택하세요.
+1. 메시지 텍스트를 입력하거나 토큰 아이콘을 선택하여 토큰을 추가하십시오. 이 편집기에서 토큰은 [과(와) 같은 형식으로 ](/help/marketo/product-docs/demand-generation/landing-pages/personalizing-landing-pages/tokens-overview.md)됩니다. 여러 토큰을 사용할 수 있습니다. **탭 동작**&#x200B;을 선택하세요.
 
    ![](assets/configure-mobile-push-notification-5.png)
 
@@ -55,11 +54,7 @@ ht-degree: 3%
 
    ![](assets/configure-mobile-push-notification-6.png)
 
-   >[!NOTE]
-   >
-   >메시지 및 탭 작업은 두 플랫폼에서 동일하게 표시됩니다.
-
-1. iOS의 경우에만 확인란을 선택하여 메시지가 도착할 때 앱에서 사운드를 재생하도록 합니다. Android은 자동으로 사운드를 재생합니다.
+1. iOS의 경우 확인란을 선택하여 메시지가 도착할 때 앱에서 사운드를 재생하도록 합니다. Android은 자동으로 사운드를 재생합니다.
 
    ![](assets/configure-mobile-push-notification-7.png)
 
@@ -71,7 +66,13 @@ ht-degree: 3%
 
    ![](assets/configure-mobile-push-notification-9.png)
 
-축하합니다! 이제 푸시 알림을 전송할 준비가 되었습니다.
+푸시 알림을 전송할 준비가 되었습니다.
+
+오류: `Limited Access: You do not have sufficient privileges to perform this action`이(가) 발생하면 사용자에 대해 **Access Design Studio** > `Access Landing Page` 권한과 다음 중 하나 이상이 설정되어 있는지 확인하십시오.
+
+* 푸시 알림 승인
+* 푸시 알림 삭제
+* 푸시 알림 편집
 
 ## 딥링크 URI {#deep-link-uris}
 
@@ -81,7 +82,7 @@ ht-degree: 3%
 
 ![](assets/configure-mobile-push-notification-10.png)
 
-즉, 앱의 딥링크 구조는 위의 예와 다를 수 있습니다. 개발자는 딥링크 URI를 정의하는 데 여러 가지 옵션을 사용할 수 있으므로 개발자에게 사용하려는 페이지의 URI(링크)를 보내도록 요청하십시오. 이렇게 하면 푸시 메시지에 입력한 URI가 올바른 위치를 가리킵니다. 개발자는 [여기에서 추가 정보를 찾을 수 있습니다](https://experienceleague.adobe.com/ko/docs/marketo-developer/marketo/mobile/enabling-deep-links-in-your-app).
+즉, 앱의 딥링크 구조는 위의 예와 다를 수 있습니다. 개발자는 딥링크 URI를 정의하는 데 많은 옵션을 사용할 수 있으므로 개발자에게 사용하려는 페이지의 URI(링크)를 보내도록 요청하십시오. 이렇게 하면 푸시 메시지에 입력한 URI가 올바른 위치를 가리킵니다. 개발자는 [여기에서 추가 정보를 찾을 수 있습니다](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/mobile/enabling-deep-links-in-your-app).
 
 >[!MORELIKETHIS]
 >
