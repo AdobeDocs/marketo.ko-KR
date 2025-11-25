@@ -32,7 +32,7 @@ ht-degree: 3%
 
    ![](assets/configure-mobile-push-notification-4.png)
 
-1. 메시지 텍스트를 입력하거나 토큰 아이콘을 선택하여 토큰을 추가하십시오. 이 편집기에서 토큰은 [과(와) 같은 형식으로 ](/help/marketo/product-docs/demand-generation/landing-pages/personalizing-landing-pages/tokens-overview.md)됩니다. 여러 토큰을 사용할 수 있습니다. **탭 동작**&#x200B;을 선택하세요.
+1. 메시지 텍스트를 입력하거나 토큰 아이콘을 선택하여 토큰을 추가하십시오. 이 편집기에서 토큰은 [과(와) 같은 형식으로 &#x200B;](/help/marketo/product-docs/demand-generation/landing-pages/personalizing-landing-pages/tokens-overview.md)됩니다. 여러 토큰을 사용할 수 있습니다. **탭 동작**&#x200B;을 선택하세요.
 
    ![](assets/configure-mobile-push-notification-5.png)
 
