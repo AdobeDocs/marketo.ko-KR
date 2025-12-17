@@ -7,9 +7,9 @@ level: Beginner, Intermediate
 feature: Email Designer
 role: User
 exl-id: 37b42418-1733-447f-bab0-e1d461ef8110
-source-git-commit: 9b41a880ad3b4eefe4a5078265a773aadc270a0a
+source-git-commit: 278e21eb8c121cb30e55214913733bd02674e5c1
 workflow-type: tm+mt
-source-wordcount: '865'
+source-wordcount: '866'
 ht-degree: 10%
 
 ---
@@ -253,7 +253,7 @@ ht-degree: 10%
     <td>이메일 에셋이 있는 프로그램의 이동, 삭제 및 가져오기 지원</td>
     <td>이메일 에셋과 함께 이메일 프로그램을 이동, 삭제 및 가져올 수 있습니다.</td>
     <td>사용 가능</td>
-    <td>사용 가능</td>
+    <td>사용할 수 없음</td>
   </tr>
   <tr>
     <td>역할 및 권한</td>
