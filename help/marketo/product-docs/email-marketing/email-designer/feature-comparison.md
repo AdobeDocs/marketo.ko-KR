@@ -7,7 +7,7 @@ level: Beginner, Intermediate
 feature: Email Designer
 role: User
 exl-id: 37b42418-1733-447f-bab0-e1d461ef8110
-source-git-commit: 278e21eb8c121cb30e55214913733bd02674e5c1
+source-git-commit: 5c9b5d656b685d5afd8d1118268957fc7be068ee
 workflow-type: tm+mt
 source-wordcount: '866'
 ht-degree: 10%
@@ -250,12 +250,6 @@ ht-degree: 10%
     <td>사용 가능</td>
   </tr>
   <tr>
-    <td>이메일 에셋이 있는 프로그램의 이동, 삭제 및 가져오기 지원</td>
-    <td>이메일 에셋과 함께 이메일 프로그램을 이동, 삭제 및 가져올 수 있습니다.</td>
-    <td>사용 가능</td>
-    <td>사용할 수 없음</td>
-  </tr>
-  <tr>
     <td>역할 및 권한</td>
     <td>이메일, 이메일 템플릿 및 조각에 대한 역할 및 권한을 추가하는 기능.</td>
     <td>사용 가능</td>
@@ -284,6 +278,12 @@ ht-degree: 10%
     <td>이메일, 이메일 템플릿 및 조각의 HTML 콘텐츠를 수정하는 기능입니다.</td>
     <td>사용 가능</td>
     <td>TBD</td>
+  </tr>
+  <tr>
+    <td>이메일 에셋이 있는 프로그램의 이동, 삭제 및 가져오기 지원</td>
+    <td>이메일 에셋과 함께 이메일 프로그램을 이동, 삭제 및 가져올 수 있습니다.</td>
+    <td>사용 가능</td>
+    <td>사용할 수 없음</td>
   </tr>
   <tr>
     <td>예측 콘텐츠</td>
