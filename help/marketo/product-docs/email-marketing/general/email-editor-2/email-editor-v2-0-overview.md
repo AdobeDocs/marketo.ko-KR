@@ -4,16 +4,20 @@ description: 이메일 편집기 v2.0 개요 - Marketo 문서 - 제품 설명서
 title: 이메일 편집기 v2.0 개요
 exl-id: 082570d5-3d26-48f5-83f4-76ad9efc9c9d
 feature: Email Editor
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: bbb72b79d4d8b19a3aa986737651a3efa65449e2
 workflow-type: tm+mt
-source-wordcount: '390'
-ht-degree: 2%
+source-wordcount: '436'
+ht-degree: 1%
 
 ---
 
 # 이메일 편집기 v2.0 개요 {#email-editor-v2-overview}
 
-[!DNL Email Editor v2.0]을(를) 활성화하면 몇 가지 새로운 기능이 표시됩니다.
+클래식 이메일 편집기 개요.
+
+>[!IMPORTANT]
+>
+>정확한 날짜 설정이 없지만 클래식 이메일 편집기는 2026년에 더 이상 사용되지 않을 수 있습니다(정확한 날짜가 정해지면 알려드리겠습니다). 고급 [전자 메일 Designer](/help/marketo/product-docs/email-marketing/email-designer/overview.md){target="_blank"}은(는) 클래식 편집기에서 사용할 수 없는 많은 기능을 포함하고 있으므로 채택을 시작하는 것이 좋습니다.
 
 **전자 메일 템플릿 선택기**
 
