@@ -3,9 +3,9 @@ description: GenAI 기능 - Marketo 문서 - 제품 설명서
 title: GenAI의 특징
 feature: Interactive Webinars
 exl-id: 3e0a41b0-7ff3-4676-bafc-4e7a0725a737
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 6350137c2abfb46a0a8451772a8dc08391f3e4b5
 workflow-type: tm+mt
-source-wordcount: '614'
+source-wordcount: '658'
 ht-degree: 0%
 
 ---
@@ -17,6 +17,8 @@ ht-degree: 0%
 * **자동 챕터 생성**: AI 기반 기술은 웨비나 콘텐츠의 챕터를 만듭니다.
 
 * **AI 생성 요약**: 웨비나에 대한 자동화된 텍스트 요약을 가져옵니다.
+
+* **AI 기반 블로그 생성**: 웨비나에서 브랜드 내 블로그 콘텐츠를 자동으로 생성할 수 있습니다.
 
 * **편집 가능한 콘텐츠**: 수동 및 AI 기반 편집 기능을 사용하여 원하는 경우 생성된 챕터 및 요약을 수정합니다.
 
@@ -109,6 +111,8 @@ Adobe GenAI 약관에 동의한 후 다음 단계는 개별 사용자에 대해 
 * 챕터를 삭제하거나 병합하는 것은 챕터 스택에만 영향을 주고 비디오 콘텐츠 자체에는 영향을 주지 않습니다. 이러한 작업은 영구적입니다.
 
 * GenAI 기능은 유연하며 Marketo Engage의 기능뿐만 아니라 다양한 웹 페이지 편집기와 함께 사용할 수 있습니다.
+
+* 세미나실에서 열리는 세션만 블로그 세대가 사용할 수 있다. 세미나실은 이벤트 모듈 또는 세미나(공유 룸/이벤트) 라이선스가 있는 계정에서만 사용할 수 있습니다.
 
 * 항상 변경 내용을 미리보기하여 원하는 기능과 모양을 확인하십시오.
 

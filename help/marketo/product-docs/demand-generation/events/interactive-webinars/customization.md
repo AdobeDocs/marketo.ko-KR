@@ -3,9 +3,9 @@ description: 대화형 웨비나 사용자 지정 - Marketo 문서 - 제품 설�
 title: 대화형 웨비나 사용자 지정
 feature: Interactive Webinars
 exl-id: 52933cb6-7bce-4c81-ba3f-68eaf211e8eb
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 6350137c2abfb46a0a8451772a8dc08391f3e4b5
 workflow-type: tm+mt
-source-wordcount: '715'
+source-wordcount: '759'
 ht-degree: 0%
 
 ---
@@ -61,7 +61,7 @@ ht-degree: 0%
 
    ![](assets/interactive-webinars-customization-8.png)
 
-### 룸 인터페이스 사용자 정의 {#customize-the-room-interface}
+## 룸 인터페이스 사용자 정의 {#customize-the-room-interface}
 
 로고, 클릭 가능한 리디렉션 링크 및 색상을 변경하여 세션 룸의 모양을 사용자 지정할 수 있습니다. 변경 사항은 조직의 모든 이벤트와 룸에 반영됩니다.
 
@@ -134,3 +134,11 @@ Adobe Connect은 사용할 준비가 된 9개의 기본 배경을 제공합니�
 ![](assets/interactive-webinars-customization-13.png)
 
 **적용**&#x200B;을 선택하여 변경 내용을 저장하거나 **기본값으로 재설정**&#x200B;을 선택하여 기본 설정으로 재설정합니다.
+
+### 사용자 지정 가능한 테마 만들기 {#create-customizable-themes}
+
+* 관리자는 사용자 정의 로고, 색상 및 비디오 배경을 사용하여 테마를 생성/관리할 수 있습니다.
+
+* 호스트는 룸을 만드는 동안 테마를 선택하거나 나중에 룸 정보 페이지(**룸 상단 표시줄** > **추가 메뉴** > **룸 정보 보기**)에서 테마를 업데이트할 수 있습니다.
+
+[테마](https://helpx.adobe.com/adobe-connect/connect-central-admin/connect-central-ui-customization-basics.html){target="_blank"}에 대해 자세히 알아보세요.
