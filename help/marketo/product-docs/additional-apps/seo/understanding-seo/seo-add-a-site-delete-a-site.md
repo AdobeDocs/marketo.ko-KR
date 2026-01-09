@@ -4,9 +4,9 @@ description: SEO - 사이트 추가/사이트 삭제 - Marketo 문서 - 제품 �
 title: SEO - 사이트 추가/사이트 삭제
 exl-id: 1005f5a8-8744-4fb3-9a07-83bc72810820
 feature: SEO
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 7e8e947c73ae961becf3c95187ce4742e1b290d5
 workflow-type: tm+mt
-source-wordcount: '180'
+source-wordcount: '201'
 ht-degree: 8%
 
 ---
@@ -15,9 +15,14 @@ ht-degree: 8%
 
 Marketo이 사이트 페이지와 관련된 데이터(인바운드 링크 및 권장 사항)를 가져오려면 여기에서 사이트의 URL을 정의해야 합니다.
 
->[!AVAILABILITY]
+>[!IMPORTANT]
 >
->모든 Marketo Engage 사용자가 이 기능을 구입한 것은 아닙니다. 자세한 내용은 Adobe 계정 팀(계정 관리자)에 문의하십시오.
+>2026년 3월 31일에 Marketo Engage은 검색 엔진 최적화 기능을 사용하지 않습니다. 3월 30일 이전에 관련 데이터를 내보내십시오. [자세히 알아보기](https://nation.marketo.com/t5/product-blogs/marketo-engage-seo-feature-deprecation/ba-p/359060){target="_blank"}
+>
+>* [내보내기 문제](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/additional-apps/seo/pages/seo-export-issues-to-csv){target="_blank"}
+>* [키워드 결과 내보내기](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/additional-apps/seo/keywords/seo-exporting-keyword-results){target="_blank"}
+>* [키워드 트렌드 내보내기](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/additional-apps/seo/reports/seo-use-the-keyword-trends-report#exporting-data){target="_blank"}
+>* [경쟁업체 키워드 트렌드 내보내기](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/additional-apps/seo/reports/seo-use-the-competitor-kw-trends-report#exporting-data){target="_blank"}
 
 ## [!UICONTROL Add a Site] {#add-a-site}
 
