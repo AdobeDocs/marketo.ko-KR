@@ -3,7 +3,7 @@ description: 릴리스 노트 - 2024년 10월 - Marketo 설명서 - 제품 설�
 title: 릴리스 노트 - 2024년 10월
 feature: Release Information
 exl-id: 2e28ae7f-51de-4510-b3e8-79a989f0daf5
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: f806c0984cf221bd88fdf50013a8f1d2911b5d86
 workflow-type: tm+mt
 source-wordcount: '548'
 ht-degree: 20%
@@ -92,7 +92,7 @@ Adobe Dynamic Chat에 대한 릴리스 정보는 [여기에서 확인](/help/mar
 
 * **대량 추출 API 업데이트**: 내보낸 파일에 사용자 지정 열 헤더 이름을 지정할 수 있는 columnHeaderNames 옵션과 관련된 대량 추출 API의 문제를 해결했습니다. 이전에는 ASCII가 아닌 문자가 포함된 열 헤더 이름이 손상될 수 있었습니다.
 
-* **Rest API access_token 매개 변수 사용 중단**: Marketo REST API 호출을 인증하는 데 사용되는 &#39;access_token&#39; 쿼리 매개 변수는 더 이상 사용되지 않으며 2026년 1월 31일 이후에 사용할 수 없습니다. 모든 신규 및 기존 통합은 여기에 설명된 대로 [인증 헤더를 사용하여 REST API 호출을 인증해야 합니다](https://experienceleague.adobe.com/ko/docs/marketo-developer/marketo/rest/authentication#using-an-access-token).
+* **Rest API access_token 매개 변수 사용 중단**: Marketo REST API 호출을 인증하는 데 사용되는 &#39;access_token&#39; 쿼리 매개 변수는 더 이상 사용되지 않으며 2026년 3월 31일 이후에 사용할 수 없습니다. 모든 신규 및 기존 통합은 여기에 설명된 대로 [인증 헤더를 사용하여 REST API 호출을 인증해야 합니다](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/rest/authentication#using-an-access-token).
 
 * **QR 코드 사용 중단**: 2024년 10월 4일에 푸시 알림 및 인앱 메시지 에셋에 사용되는 QR 코드 기능이 더 이상 사용되지 않습니다. 여기에는 새 테스트 장치에 QR 코드를 사용하는 것은 물론 QR 코드로 새 에셋을 만드는 것이 포함됩니다. 사용량이 적은 기능의 사용 중단을 통해 해당 리소스를 Marketo Engage의 전반적인 유지 관리에 다시 할당할 수 있습니다.
 
