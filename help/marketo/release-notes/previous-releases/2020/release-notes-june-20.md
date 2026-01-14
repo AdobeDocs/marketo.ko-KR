@@ -4,7 +4,7 @@ description: 릴리스 노트 - 2020년 6월 - Marketo 문서 - 제품 설명서
 title: 릴리스 노트 - 2020년 6월
 exl-id: ffc39c9f-8c0c-45af-8ee6-f58971e230b9
 feature: Release Information
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 7595f00ac2a752afe3b471f4ff701e3206841ffd
 workflow-type: tm+mt
 source-wordcount: '1031'
 ht-degree: 1%
@@ -23,7 +23,7 @@ ht-degree: 1%
 
 ## 코어 Marketo Engage {#core-marketo-engage}
 
-* **[예측 대상](https://experienceleague.adobe.com/docs/marketo/sky/predictive-audiences/getting-started-with-predictive-audiences.html?lang=ko#predictive-audiences)** ![(별)](assets/yellow-star.png): Adobe Sensei에서 제공하는 새로운 스마트 목록 및 스마트 캠페인 필터를 사용하면 이메일, 이벤트 및 웨비나 마케팅 프로그램에 대한 AI 기반 대상 세그먼트를 만들 수 있습니다. 이벤트에 등록하거나, 이벤트에 참석하거나, 구독을 취소할 잠재 가능성을 기반으로 대상을 세그먼트화하는 데 AI를 사용할 수 있습니다. 이전 성공을 효율적으로 복제하기 위해 이전 프로그램을 기반으로 유사 대상을 작성합니다. 예측 목표 추적을 통해 전환 목표를 달성하고 이벤트 프로그램에 대한 대상 세그먼트를 세분화하는 방법에 대한 권장 사항을 얻을 수 있습니다.
+* **[예측 대상](https://experienceleague.adobe.com/docs/marketo/sky/predictive-audiences/getting-started-with-predictive-audiences.html?lang=en#predictive-audiences)** ![(별)](assets/yellow-star.png): Adobe AI에서 제공하는 새로운 스마트 목록 및 스마트 캠페인 필터를 사용하면 이메일, 이벤트 및 웨비나 마케팅 프로그램에 대한 AI 기반 대상 세그먼트를 만들 수 있습니다. 이벤트에 등록하거나, 이벤트에 참석하거나, 구독을 취소할 잠재 가능성을 기반으로 대상을 세그먼트화하는 데 AI를 사용할 수 있습니다. 이전 성공을 효율적으로 복제하기 위해 이전 프로그램을 기반으로 유사 대상을 작성합니다. 예측 목표 추적을 통해 전환 목표를 달성하고 이벤트 프로그램에 대한 대상 세그먼트를 세분화하는 방법에 대한 권장 사항을 얻을 수 있습니다.
 * **일괄 이메일 증폭** ![(별)](assets/yellow-star.png): 시간당 최대 300만 개의 일괄 이메일을 보낼 수 있는 이메일 마케팅 기능이 향상되었습니다. 당사는 이메일 프로그램 및 일괄 이메일 캠페인의 성능을 향상하기 위해 일괄 캠페인 및 이메일 보고서 처리를 다시 설계했습니다. 이렇게 하면 전송 리드 타임이 짧아지고 완료 시간도 향상됩니다. 평소대로 이메일 전송을 설정하므로 복잡성이 가중되지 않습니다. 이 개선 사항은 게재 서비스 시작 팩, 이메일 게재 도구 및 여러 전용 IP 주소를 포함하는 제품 추가 기능으로 사용할 수 있습니다.
 * **[Adobe Experience Cloud(AEC)와 대상 통합](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/static-lists/send-a-list-to-adobe-experience-cloud.md)**: Marketo Engage의 알려진 잠재 고객의 정적 목록을 여러 AEC 애플리케이션과 동기화하여 기존 프로그램을 개선하고 새로운 사용 사례를 잠금 해제하고 멀티채널 캠페인을 오케스트레이션할 수 있는 새로운 Adobe Experience Cloud(AEC) 통합입니다. 이 통합에는 Adobe Analytics, Adobe Target, Adobe Experience Manager, Adobe Audience Manager 및 Adobe Advertising Cloud가 포함됩니다.
 * **[프로그램 구성원 사용자 지정 필드](/help/marketo/product-docs/core-marketo-concepts/programs/working-with-programs/program-member-custom-fields.md)**: 프로그램 구성원에 대한 사용자 지정 필드를 캡처하고 활용합니다. Marketo Engage Forms에서 이러한 새 필드를 사용하고, 프로그램의 멤버 목록에서 보고, 스마트 목록 필터 및 트리거에서 활용하고, 향상된 자동화 및 보다 세분화된 개인화를 위해 새 스마트 캠페인 플로우 작업에 포함하십시오. UI 및 API를 통해 가져오고 내보낼 수도 있습니다. 사용자 지정 데이터 개체 및 필드 기능의 개선 사항.
@@ -53,7 +53,7 @@ ht-degree: 1%
 
 * **Marketo Engage 프로그램 통합**: 전자 메일 및 참여 프로그램을 적절히 크레딧하기 위해 Marketo Engage에서 직접 프로그램 데이터를 가져와서 [!DNL Bizible]의 속성 여정에 따라 터치포인트를 만듭니다. Marketo Engage 통합 개선 사항.
 * **Marketo Engage 활동 통합(BETA)**: Marketo Engage 활동 데이터를 [!DNL Bizible]에 직접 가져와 고객 여정 및 모든 속성 모델에서 터치포인트를 만듭니다. 예를 들면 리드 점수 변경, 흥미로운 순간, 이메일 클릭 또는 사용자 지정 활동이 있습니다. Marketo Engage 통합 개선 사항.
-* **[!DNL Bizible]B2B 고객 특성 통합(BETA)**: 선택한 Bizible 데이터를 Adobe Analytics으로 직접 가져와 보다 심층적으로 분석할 수 있는 Adobe Analytics과의 Adobe Experience Cloud 통합입니다. 회사 이름, 계정 특성, CRM 기회 및 [!DNL Bizible] 속성 매출 및 단계 단계로 정의된 고가치 개인별 계정 기반 사이트 트래픽 및 콘텐츠 분석을 예로 들 수 있습니다.
+* **[!DNL Bizible]B2B 고객 특성 통합(BETA)**: 선택한 Bizible 데이터를 Adobe Analytics으로 직접 가져와 보다 심층적으로 분석할 수 있는 Adobe Analytics과의 Adobe Experience Cloud 통합입니다. 예를 들면 회사 이름, 계정 특성, CRM 기회 및 [!DNL Bizible] 속성 매출 및 funnel 단계로 정의된 고가치 개인별 계정 기반 사이트 트래픽 및 콘텐츠 분석이 포함됩니다.
 * **[!DNL Bizible]필터 및 개선 사항 검색**: 대시보드에서 채널, 하위 채널, 캠페인 및 세그먼트 필터를 사용하여 데이터를 분석합니다. 더 많은 드릴다운 속성을 통해 데이터 가시성을 강화합니다. 이것은 검색 보드의 개선 사항입니다.
 * **에 대한[!DNL Microsoft Dynamics]**&#x200B;활동 동기화: [!DNL Microsoft Dynamics] CRM 활동을 터치포인트 여정에 가져와 판매 상호 작용을 특성화하고 잠재 고객 또는 연락처와 연결된 통화, 약속 또는 작업과 같은 이벤트를 추적합니다. [!DNL Microsoft Dynamics] CRM 통합 개선 사항.
 
