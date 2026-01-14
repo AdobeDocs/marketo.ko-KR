@@ -5,9 +5,9 @@ hide: true
 hidefromtoc: true
 feature: Release Information
 exl-id: 0ca5e844-c30b-4c86-a23d-d8f2c1bdddf5
-source-git-commit: c6b8dd17c4337b32c6bb4f0a1b9ce22c1e3b8715
+source-git-commit: 96050d108aae64bbdab377cf5e31392df177b363
 workflow-type: tm+mt
-source-wordcount: '452'
+source-wordcount: '484'
 ht-degree: 61%
 
 ---
@@ -56,6 +56,46 @@ Adobe Dynamic Chat에 대한 릴리스 정보는 [여기에서 확인](/help/mar
   <tr>
    <td><strong>기능 제목</strong>: 기능 설명.</td>
    <td><i>곧 출시 예정</i></td>
+   <td><i>곧 제공 예정</i></td>
+  </tr>
+  <tr>
+   <td> </td>
+   <td> </td>
+   <td> </td>
+  </tr>
+  <tr>
+   <td><strong>기능 제목</strong>: 기능 설명.</td>
+   <td><i>곧 출시 예정</i></td>
+   <td><i>곧 제공 예정</i></td>
+  </tr>
+  <tr>
+   <td> </td>
+   <td> </td>
+   <td> </td>
+  </tr>
+  <tr>
+   <td><strong>기능 제목</strong>: 기능 설명.</td>
+   <td><i>곧 출시 예정</i></td>
+   <td><i>곧 제공 예정</i></td>
+  </tr>
+  <tr>
+   <td> </td>
+   <td> </td>
+   <td> </td>
+  </tr>
+  <tr>
+   <td><strong>기능 제목</strong>: 기능 설명.</td>
+   <td><i>곧 출시 예정</i></td>
+   <td><i>곧 제공 예정</i></td>
+  </tr>
+  <tr>
+   <td> </td>
+   <td> </td>
+   <td> </td>
+  </tr>
+  <tr>
+   <td><strong>기능 제목</strong>: 기능 설명.</td>
+   <td><i>곧 출시 예정</i></td>
    <td><i>곧 출시 예정</i></td>
   </tr>
   </tbody>
@@ -64,7 +104,7 @@ Adobe Dynamic Chat에 대한 릴리스 정보는 [여기에서 확인](/help/mar
 
 ## Adobe Connect 기능 {#adobe-connect-features}
 
-이러한 기능은 Adobe Connect 팀에서 이미 릴리스했습니다. Marketo Engage [대화형 웨비나](https://experienceleague.adobe.com/ko/docs/marketo/using/product-docs/demand-generation/events/interactive-webinars/interactive-webinars-overview){target="_blank"}는 Adobe Connect에서 지원합니다. 따라서 아래 기능은 대화형 웨비나 사용자만 적용할 수 있습니다.
+이러한 기능은 Adobe Connect 팀에서 이미 릴리스했습니다. Marketo Engage [대화형 웨비나](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/demand-generation/events/interactive-webinars/interactive-webinars-overview){target="_blank"}는 Adobe Connect에서 지원합니다. 따라서 아래 기능은 대화형 웨비나 사용자만 적용할 수 있습니다.
 
 * **설문 조사 Pod**: Adobe Connect 12.11에서는 호스트가 라이브 세션 내에서 직접 구조화된 피드백 양식을 디자인하고 제공할 수 있는 새로운 설문 조사 Pod를 도입했습니다.
 
@@ -72,7 +112,7 @@ Adobe Dynamic Chat에 대한 릴리스 정보는 [여기에서 확인](/help/mar
 
 * **향상된 Room 인터페이스 환경**: Adobe Connect 12.11에서는 Adobe의 최신 Spectrum 2 디자인 프레임워크를 기반으로 하여 Creative Cloud 및 Experience Cloud과 같은 다른 Adobe 제품에서 사용되는 시각적 언어에 맞게 새로 고침되고 현대적인 Room 인터페이스를 도입했습니다.
 
-자세한 내용은 [Adobe Connect 12.11 릴리스 정보](https://helpx.adobe.com/kr/adobe-connect/release-note/adobe-connect-12-11-release-notes.html){target="_blank"}를 참조하세요.
+자세한 내용은 [Adobe Connect 12.11 릴리스 정보](https://helpx.adobe.com/adobe-connect/release-note/adobe-connect-12-11-release-notes.html){target="_blank"}를 참조하세요.
 
 ## 공지 {#announcements}
 
