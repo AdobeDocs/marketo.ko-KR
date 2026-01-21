@@ -3,9 +3,9 @@ description: 최신 릴리스 정보 - Marketo 설명서 - 제품 설명서
 title: 최신 릴리스 정보
 exl-id: a2eccad5-73ad-48f9-8091-51cee23824e1
 feature: Release Information
-source-git-commit: f806c0984cf221bd88fdf50013a8f1d2911b5d86
+source-git-commit: 733b85495632eaa31ce7fc08a82fb4948aadf29f
 workflow-type: tm+mt
-source-wordcount: '729'
+source-wordcount: '728'
 ht-degree: 100%
 
 ---
@@ -83,8 +83,8 @@ Adobe Dynamic Chat에 대한 릴리스 정보는 [여기에서 확인](/help/mar
   </tr>
   <tr>
    <td><strong>이메일 디자이너 - A/B 테스트</strong>: 새로운 이메일 디자이너를 위한 패리티 기능으로, 어떤 유형의 콘텐츠가 최상의 응답을 받는지 확인하기 위해 A/B 테스트를 수행할 수 있습니다.</td>
-   <td><i>곧 출시 예정</i></td>
-   <td><i>곧 출시 예정</i></td>
+   <td>출시됨</td>
+   <td>해당 사항 없음</td>
   </tr>
   </tbody>
 </table>
