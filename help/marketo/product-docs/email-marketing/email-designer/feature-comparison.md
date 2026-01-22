@@ -7,9 +7,9 @@ level: Beginner, Intermediate
 feature: Email Designer
 role: User
 exl-id: 37b42418-1733-447f-bab0-e1d461ef8110
-source-git-commit: 5c9b5d656b685d5afd8d1118268957fc7be068ee
+source-git-commit: 6bb4455f1962164f6192ee050078fc65472f7ada
 workflow-type: tm+mt
-source-wordcount: '866'
+source-wordcount: '865'
 ht-degree: 10%
 
 ---
@@ -259,7 +259,7 @@ ht-degree: 10%
     <td>실험(A/B 테스트)</td>
     <td>대상자에게 이메일을 보내기 전에 테스트하는 기능.</td>
     <td>사용 가능</td>
-    <td>곧 출시 예정</td>
+    <td>사용 가능</td>
   </tr>
   <tr>
     <td>콘텐츠 승인 워크플로</td>
