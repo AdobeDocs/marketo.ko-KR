@@ -1,13 +1,13 @@
 ---
 unique-page-id: 2359652
-description: 참여 프로그램 만들기 - Marketo 문서 - 제품 설명서
+description: 참여 프로그램 만들기 - Marketo 설명서 - 제품 설명서
 title: 참여 프로그램 만들기
 exl-id: 90f76d04-79cf-4fa1-999b-54d4ae34223f
 feature: Engagement Programs
 source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '74'
-ht-degree: 10%
+ht-degree: 100%
 
 ---
 
@@ -15,19 +15,19 @@ ht-degree: 10%
 
 Marketo의 참여 프로그램을 사용하여 간편하게 이메일 지원을 수행할 수 있습니다.
 
-1. **[!UICONTROL Marketing Activities]**(으)로 이동합니다.
+1. **[!UICONTROL Marketing Activities]** 으로 이동합니다.
 
    ![](assets/login-marketing-activities.png)
 
-1. 참여 프로그램을 만들 폴더를 선택한 다음 **[!UICONTROL New]** 및 **[!UICONTROL New Program]**&#x200B;을(를) 클릭합니다.
+1. 참여 프로그램을 만들 폴더를 선택한 다음 **[!UICONTROL New]** 및 **[!UICONTROL New Program]**&#x200B;을 클릭합니다.
 
    ![](assets/newprogramlifecycle.jpg)
 
-1. **[!UICONTROL Name]**&#x200B;을(를) 입력하고 **[!UICONTROL Engagement]**&#x200B;에 대해 **[!UICONTROL Program Type]**&#x200B;을(를) 선택한 다음 **[!UICONTROL Create]**&#x200B;을(를) 클릭합니다.
+1. **[!UICONTROL Name]**&#x200B;을 입력하고, **[!UICONTROL Engagement]**&#x200B;를 **[!UICONTROL Program Type]**&#x200B;으로 선택한 후 **[!UICONTROL Create]**&#x200B;를 클릭합니다.
 
    ![](assets/image2014-9-15-15-3a35-3a32.png)
 
-1. 좋아, 이제 네가 약혼 프로그램을 했으니 앞으로 나아가서 복장을 입도록 하자.
+1. 이제 참여 프로그램을 갖게 되었으니 다음 단계로 가보겠습니다.
 
    ![](assets/image2014-9-15-15-3a35-3a38.png)
 

@@ -5,9 +5,9 @@ title: 릴리스 일정
 exl-id: 38bd10e3-7f47-46f7-b9b0-83e1ab50014c
 feature: Release Information
 source-git-commit: 5c9b5d656b685d5afd8d1118268957fc7be068ee
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '137'
-ht-degree: 94%
+ht-degree: 100%
 
 ---
 
@@ -63,8 +63,8 @@ _릴리스 일자/기능은 변경될 수 있습니다._
    <td>일정대로 진행 중</td>
   </tr>
   <tr>
-  <td>26년 3월</td>
-   <td>2026년 3월 27일 토요일</td>
+  <td>2026년 3월</td>
+   <td>2026년 3월 27일</td>
    <td>일정대로 진행 중</td>
   </tr>
   <tr>
