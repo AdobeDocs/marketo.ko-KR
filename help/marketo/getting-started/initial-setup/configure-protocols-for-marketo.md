@@ -4,9 +4,9 @@ description: Marketo Engage에 대한 프로토콜 구성 - Marketo Engage 문�
 title: Marketo Engage에 대한 프로토콜 구성
 exl-id: cf2fd4ac-9229-4e52-bb68-5732b44920ef
 feature: Getting Started
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
-workflow-type: ht
-source-wordcount: '2131'
+source-git-commit: ee8b46179d9fe85c4d5f2ebd7c2d31b7fbf516c3
+workflow-type: tm+mt
+source-wordcount: '2129'
 ht-degree: 100%
 
 ---
@@ -63,8 +63,6 @@ ht-degree: 100%
 마케팅 그룹이 Marketo Engage를 사용하여 테스트 이메일을 전송하는 경우(이메일 알림을 전송하기 전의 모범 사례), 발신자 IP 주소를 이용하여 이메일이 유효한지 확인하는 스팸 방지 시스템에 의해 테스트 이메일이 차단되는 경우가 있습니다. 이러한 테스트 이메일이 도착하는지 확인하려면 Marketo Engage를 허용 목록에 추가하십시오.
 
 다음 IP 주소를 기업 허용 목록에 추가합니다.
-
-103.237.104.0/22
 
 130.248.172.0/24
 
@@ -300,9 +298,6 @@ Marketo Engage [Salesforce CRM 동기화](/help/marketo/product-docs/crm-sync/sa
  <tbody>
   <tr>
    <th>IP 블록 (CIDR 표기법)</th>
-  </tr>
-  <tr>
-   <td>103.237.104.0/22</td>
   </tr>
    <tr>
    <td>130.248.172.0/24</td>

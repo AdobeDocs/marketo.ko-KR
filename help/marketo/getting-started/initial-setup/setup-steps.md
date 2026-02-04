@@ -4,8 +4,8 @@ short-description: Adobe Marketo Engage를 처음 사용하십니까? 본격적�
 title: 설정 단계
 feature: Getting Started
 exl-id: 5f37da48-b2ed-4e48-a5a2-429149745085
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
-workflow-type: ht
+source-git-commit: ee8b46179d9fe85c4d5f2ebd7c2d31b7fbf516c3
+workflow-type: tm+mt
 source-wordcount: '1663'
 ht-degree: 100%
 
@@ -158,8 +158,6 @@ IT 관리자에게,
     130.248.172.0/24
     
     130.248.173.0/24
-    
-    103.237.104.0/22
     
     94.236.119.0/26
 
