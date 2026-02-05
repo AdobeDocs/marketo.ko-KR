@@ -3,10 +3,10 @@ description: 최신 릴리스 정보 - Marketo 설명서 - 제품 설명서
 title: 최신 릴리스 정보
 exl-id: a2eccad5-73ad-48f9-8091-51cee23824e1
 feature: Release Information
-source-git-commit: c353425db0dc8b08620feb68092b25c664111a03
+source-git-commit: d46ce01ca654ce17c1909d9e458cab1a8cb520f9
 workflow-type: tm+mt
-source-wordcount: '581'
-ht-degree: 47%
+source-wordcount: '479'
+ht-degree: 37%
 
 ---
 
@@ -103,18 +103,12 @@ Adobe Dynamic Chat에 대한 릴리스 정보는 [여기에서 확인](/help/mar
 
 * **향상된 Room 인터페이스 환경**: Adobe의 최신 Spectrum 2 디자인 프레임워크를 기반으로 구축된 보다 새롭고 현대적인 Room 인터페이스를 사용하여 Creative Cloud 및 Experience Cloud과 같은 다른 Adobe 제품에서 사용되는 시각적 언어에 맞게 조정할 수 있습니다.
 
-자세한 내용은 [이 페이지](https://helpx.adobe.com/kr/adobe-connect/release-note/adobe-connect-12-11-release-notes.html){target="_blank"}를 참조하세요.
+자세한 내용은 [이 페이지](https://helpx.adobe.com/adobe-connect/release-note/adobe-connect-12-11-release-notes.html){target="_blank"}를 참조하세요.
 
 ## 공지 {#announcements}
 
-* **Marketo 커뮤니티 마이그레이션 완료**: 새로운 Adobe Experience League 커뮤니티가 이제 활성화됩니다! [Marketo Community 환경을 더욱 향상시킬 수 있는 몇 가지 개선 사항](https://experienceleaguecommunities.adobe.com/community-pulse-blog-34/community-update-streamlined-ways-to-engage-and-a-redesigned-homepage-247673?profile.language=ko){target="_blank"}이 만들어졌습니다. [확인](https://experienceleaguecommunities.adobe.com/adobe-marketo-engage-26?profile.language=ko){target="_blank"}.
+* **Marketo 커뮤니티 마이그레이션 완료**: 새로운 Adobe Experience League 커뮤니티가 이제 활성화됩니다! [Marketo Community 환경을 더욱 향상시킬 수 있는 몇 가지 개선 사항](https://experienceleaguecommunities.adobe.com/community-pulse-blog-34/community-update-streamlined-ways-to-engage-and-a-redesigned-homepage-247673){target="_blank"}이 만들어졌습니다. [확인](https://experienceleaguecommunities.adobe.com/adobe-marketo-engage-26){target="_blank"}.
 
 * **REST API &#39;access_token&#39; 매개변수 사용 중단**: Marketo REST API 호출을 인증하는 데 사용되는 `access_token` 쿼리 매개변수는 사용 중단될 예정이며 2026년 3월 31일 수요일 이후에는 사용할 수 없습니다. 모든 신규 및 기존 통합은 [여기에 설명](https://experienceleague.adobe.com/ko/docs/marketo-developer/marketo/rest/authentication){target="_blank"}된 대로 &#39;Authorization&#39; 헤더를 사용하여 REST API 호출을 인증해야 합니다.
 
 * **SOAP API 사용 중단**: Marketo SOAP API에 대한 지원이 2026년 3월 31일 수요일에 종료됩니다. SOAP API 기능을 사용하는 서비스는 [REST API](https://experienceleague.adobe.com/ko/docs/marketo-developer/marketo/rest/rest-api){target="_blank"}로 마이그레이션해야 합니다.
-
-* **Marketo Engage Identity 서비스 종료**:
-
-   * _IP 기반 Marketo 로그인 제한_&#x200B;을 위한 [IP 제한 지원 중단](https://experienceleague.adobe.com/ko/docs/marketo/using/product-docs/administration/settings/restrict-marketo-logins-based-on-ip){target="_blank"}은 2025년 7월 30일에 종료되었습니다. 이 기능은 Adobe Identity로의 전환이 완료될 때까지 계속 작동합니다. Adobe Admin Console의 Adobe Identity에 대한 새로운 위치 기반 액세스 제어 기능이 곧 출시됩니다.
-
-   * _Single Sign-On (SSO) 지원 중단_: [Marketo Identity SSO](https://experienceleague.adobe.com/ko/docs/marketo/using/product-docs/administration/additional-integrations/add-single-sign-on-to-a-portal){target="_blank"}에 대한 지원은 2025년 7월 30일에 중단되었습니다. 이 기능은 Adobe Identity로의 전환이 완료될 때까지 계속 작동합니다. Adobe Admin Console의 Adobe Identity에 대한 Single Sign-On은 별도로 구성해야 합니다. 설정 단계는 [ID 및 Single Sign-On 설정](https://helpx.adobe.com/kr/enterprise/using/set-up-identity.html){target="_blank"}을 참조합니다.
