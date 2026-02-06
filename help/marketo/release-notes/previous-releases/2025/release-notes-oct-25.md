@@ -2,10 +2,11 @@
 description: 릴리스 노트 - 2025년 10월 - Marketo 설명서 - 제품 설명서
 title: 릴리스 노트 - 2025년 10월
 feature: Release Information
-source-git-commit: c353425db0dc8b08620feb68092b25c664111a03
+exl-id: 9c668de0-14d0-4d2e-8ea6-dc7db5be3ea7
+source-git-commit: 6b8733e8b67ef9f93ba16cd1589de93fe45ceb25
 workflow-type: tm+mt
 source-wordcount: '730'
-ht-degree: 98%
+ht-degree: 93%
 
 ---
 
@@ -32,7 +33,7 @@ Adobe Dynamic Chat에 대한 릴리스 정보는 [여기에서 확인](/help/mar
   </tr>
   <tr>
    <td><strong>이메일 디자이너 - 템플릿 가져오기(Beta)</strong>: 클래식 이메일 편집기에서 이메일 템플릿을 가져와 Design Studio의 새 이메일 디자이너와 호환되는 템플릿을 만듭니다.</td>
-   <td>출시됨</td>
+   <td>릴리스됨</td>
    <td><a href="/help/marketo/product-docs/email-marketing/email-designer/import-template.md" target="_blank">템플릿 가져오기</a></td>
   </tr>
   <tr>
@@ -42,7 +43,7 @@ Adobe Dynamic Chat에 대한 릴리스 정보는 [여기에서 확인](/help/mar
   </tr>
   <tr>
    <td><strong>이메일 디자이너 - 브랜드 테마</strong>: 이제 Marketo Engage 내에서 브랜드 테마를 정의할 수 있습니다. 브랜드 일관성을 위해 스타일링 구성을 이메일 템플릿 및 기타 이메일 자산 전반에 걸쳐 재사용 및 적용할 수 있습니다.</td>
-   <td>출시됨</td>
+   <td>릴리스됨</td>
    <td><a href="/help/marketo/product-docs/email-marketing/email-designer/brand-themes.md" target="_blank">브랜드 테마</a></td>
   </tr>
   <tr>
@@ -52,7 +53,7 @@ Adobe Dynamic Chat에 대한 릴리스 정보는 [여기에서 확인](/help/mar
   </tr>
   <tr>
    <td><strong>이메일 디자이너 - 조건부 콘텐츠</strong>: 새로운 이메일 디자이너를 위한 패리티 기능을 통해 토큰을 넘어 이메일 개인화를 수행할 수 있습니다.</td>
-   <td>출시됨</td>
+   <td>릴리스됨</td>
    <td><a href="/help/marketo/product-docs/email-marketing/email-designer/conditional-content.md" target="_blank">조건부 콘텐츠</a></td>
   </tr>
   <tr>
@@ -62,7 +63,7 @@ Adobe Dynamic Chat에 대한 릴리스 정보는 [여기에서 확인](/help/mar
   </tr>
  <tr>
    <td><strong>이메일 디자이너 - 이미지를 HTML 전환기로</strong>: 호환되는 이메일의 PNG/JPEG 이미지 파일을 업로드하면 새 이메일 디자이너에서 사용할 수 있도록 HTML로 자동 전환됩니다.</td>
-   <td>출시됨</td>
+   <td>릴리스됨</td>
    <td><a href="/help/marketo/product-docs/email-marketing/email-designer/image-to-html.md" target="_blank">이미지를 HTML 템플릿으로 전환</a></td>
   </tr>
   <tr>
@@ -72,7 +73,7 @@ Adobe Dynamic Chat에 대한 릴리스 정보는 [여기에서 확인](/help/mar
   </tr>
   <tr>
    <td><strong>이메일 디자이너 - 이메일 복제 액션</strong>: 이제 마케팅 활동의 다른 프로그램 폴더에 이메일을 복제하여 기존 이메일을 빠르게 재사용할 수 있습니다.</td>
-   <td>출시됨</td>
+   <td>릴리스됨</td>
    <td>해당 사항 없음</td>
   </tr>
   <tr>
@@ -82,7 +83,7 @@ Adobe Dynamic Chat에 대한 릴리스 정보는 [여기에서 확인](/help/mar
   </tr>
   <tr>
    <td><strong>이메일 디자이너 - A/B 테스트</strong>: 새로운 이메일 디자이너를 위한 패리티 기능으로, 어떤 유형의 콘텐츠가 최상의 응답을 받는지 확인하기 위해 A/B 테스트를 수행할 수 있습니다.</td>
-   <td>출시됨</td>
+   <td>릴리스됨</td>
    <td>해당 사항 없음</td>
   </tr>
   </tbody>
@@ -91,9 +92,9 @@ Adobe Dynamic Chat에 대한 릴리스 정보는 [여기에서 확인](/help/mar
 
 ## 공지 {#announcements}
 
-* **Salesforce CRM 통합 업그레이드**: 기본 CRM 통합의 신규 버전이 2025년 11월 13일부터 7일 동안 기본 커넥터가 활성화된 활성 샌드박스에 배포됩니다. [이 Nation 게시물](https://nation.marketo.com/t5/product-blogs/salesforce-crm-integration-upgrade/ba-p/358702){target="_blank"}에서 전체 세부 사항에 대해 알아봅니다.
+* **Salesforce CRM 통합 업그레이드**: 기본 CRM 통합의 신규 버전이 2025년 11월 13일부터 7일 동안 기본 커넥터가 활성화된 활성 샌드박스에 배포됩니다. [이 커뮤니티 게시물](https://nation.marketo.com/t5/product-blogs/salesforce-crm-integration-upgrade/ba-p/358702){target="_blank"}에서 전체 세부 정보 가져오기
 
-* **REST API 이중 슬래시 사용 중단**: 2025년 9월 16일에 Adobe는 보안 및 확장성을 추가하여 최신 기술을 활용하는 REST API URL에 대해 더욱 현대화된 호스팅 인프라로 전환했습니다. URL에 이중 슬래시(//)가 포함된 API를 사용하는 구독이라면, 다음 단계를 위해 [Nation 게시물](https://nation.marketo.com/t5/product-blogs/rest-api-double-slash-deprecation/ba-p/358616){target="_blank"}을 참조하십시오.
+* **REST API 이중 슬래시 사용 중단**: 2025년 9월 16일에 Adobe는 보안 및 확장성을 추가하여 최신 기술을 활용하는 REST API URL에 대해 더욱 현대화된 호스팅 인프라로 전환했습니다. 구독이 URL에서 이중 슬래시(//)가 있는 API를 사용하고 있는 경우 다음 단계에 대해 [이 커뮤니티 게시물](https://nation.marketo.com/t5/product-blogs/rest-api-double-slash-deprecation/ba-p/358616){target="_blank"}을 읽어 보십시오.
 
 * **새로운 이메일 디자이너에서 Velocity Scripting으로 다시 전환**: Adobe Marketo Engage는 지난 6월 새로운 이메일 디자이너를 위한 _조건부 콘텐츠_ 기능을 출시했습니다. 이 기능은 Velocity Scripting에서 대신 Handlebar Scripting을 사용해 다이내믹 콘텐츠에 더 큰 유연성을 제공하기 위한 것입니다. 하지만 이로 인해 일부 토큰이 잘못 해석되는 현상이 발견되었으며 이 기능을 일시적으로 비활성화하기로 결정했습니다. [자세히 알아보기](https://nation.marketo.com/t5/product-blogs/update-on-email-scripting-in-the-new-email-designer/ba-p/358179){target="_blank"}
 

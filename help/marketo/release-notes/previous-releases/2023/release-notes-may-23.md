@@ -2,7 +2,7 @@
 description: 릴리스 노트 - 2023년 5월 - Marketo 문서 - 제품 설명서
 title: 릴리스 정보 - 2023년 5월
 exl-id: beefd8ad-b0d2-4a6f-9f2e-74f03fc3abe7
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 8e72b24e18ae108ec74e6d4fa6b04f10130439a4
 workflow-type: tm+mt
 source-wordcount: '345'
 ht-degree: 26%
@@ -33,7 +33,7 @@ ht-degree: 26%
    <td><b>설명서 업데이트</b></td>
   </tr>
   <tr>
-   <td>출시됨</td>
+   <td>릴리스됨</td>
    <td><a href="/help/marketo/product-docs/adobe-experience-cloud-integrations/experience-cloud-interface-overview.md">Experience Cloud 인터페이스 개요</a></td>
   </tr>
   </tbody>
@@ -47,7 +47,7 @@ ht-degree: 26%
    <td><b>설명서 업데이트</b></td>
   </tr>
   <tr>
-   <td>출시됨</td>
+   <td>릴리스됨</td>
    <td><a href="/help/marketo/getting-started/things-to-know/help-center.md">도움말 센터</a></td>
   </tr>
   </tbody>
@@ -74,7 +74,7 @@ ht-degree: 26%
   </tr>
   <tr>
    <td>롤아웃 시작됨</td>
-   <td><a href="https://experienceleague.adobe.com/docs/marketo/using/product-docs/demand-generation/events/interactive-webinars/interactive-webinars-overview.html?lang=ko">대화형 웨비나 개요</a></td>
+   <td><a href="https://experienceleague.adobe.com/docs/marketo/using/product-docs/demand-generation/events/interactive-webinars/interactive-webinars-overview.html">대화형 웨비나 개요</a></td>
   </tr>
   </tbody>
 </table>

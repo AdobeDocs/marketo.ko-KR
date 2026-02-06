@@ -4,10 +4,10 @@ description: 릴리스 일정 - Marketo 설명서 - 제품 설명서
 title: 릴리스 일정
 exl-id: 38bd10e3-7f47-46f7-b9b0-83e1ab50014c
 feature: Release Information
-source-git-commit: 5c9b5d656b685d5afd8d1118268957fc7be068ee
-workflow-type: ht
-source-wordcount: '137'
-ht-degree: 100%
+source-git-commit: 8e72b24e18ae108ec74e6d4fa6b04f10130439a4
+workflow-type: tm+mt
+source-wordcount: '144'
+ht-degree: 91%
 
 ---
 
@@ -21,7 +21,7 @@ ht-degree: 100%
 
 * **일정대로 진행 중** - 지정된 날짜에 기능 및 개선 사항을 릴리스할 계획입니다.
 * **진행 중** - 릴리스 기능을 출시하는 중입니다.
-* **출시됨** - 릴리스가 완료되었습니다.
+* **완료** - 릴리스가 완료되었습니다.
 
 _릴리스 일자/기능은 변경될 수 있습니다._
 
@@ -33,29 +33,24 @@ _릴리스 일자/기능은 변경될 수 있습니다._
    <th width="250px">상태</th>
   </tr>
   <tr>
-   <td><a href="/help/marketo/release-notes/previous-releases/2025/release-notes-may-25.md">2025년 7월</a></td>
-   <td>2025년 7월 11일</td>
-   <td>출시됨</td>
-  </tr>
-  <tr>
    <td><a href="/help/marketo/release-notes/previous-releases/2025/release-notes-aug-25.md">2025년 8월</a></td>
    <td>2025년 8월 22일</td>
-   <td>출시됨</td>
+   <td>완료</td>
   </tr>
   <tr>
    <td><a href="/help/marketo/release-notes/previous-releases/2025/release-notes-sep-25.md">2025년 9월</a></td>
    <td>2025년 9월 19일</td>
-   <td>출시됨</td>
+   <td>완료</td>
   </tr>
   <tr>
    <td><a href="/help/marketo/release-notes/current.md">2025년 10월</a></td>
    <td>2025년 10월 31일</td>
-   <td>진행 중</td>
+   <td>완료</td>
   </tr>
   <tr>
-  <td>2026년 1월</td>
+  <td><a href="/help/marketo/release-notes/current.md">2026년 1월</a></td>
    <td>2026년 1월 30일</td>
-   <td>일정대로 진행 중</td>
+   <td>진행 중</td>
   </tr>
   <tr>
   <td>2026년 2월</td>
@@ -70,6 +65,16 @@ _릴리스 일자/기능은 변경될 수 있습니다._
   <tr>
   <td>2026년 5월</td>
    <td>2026년 5월 1일 토요일</td>
+   <td>일정대로 진행 중</td>
+  </tr>
+  <tr>
+  <td>2026년 5월(두 번째 릴리스)</td>
+   <td>2026년 5월 22일 토요일</td>
+   <td>일정대로 진행 중</td>
+  </tr>
+  <tr>
+  <td>2026년 6월</td>
+   <td>2026년 6월 26일</td>
    <td>일정대로 진행 중</td>
   </tr>
  </tbody>

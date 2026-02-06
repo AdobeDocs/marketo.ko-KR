@@ -3,7 +3,7 @@ description: 릴리스 노트 - 2024년 4월 - Marketo 설명서 - 제품 설명
 title: 릴리스 정보 - 2024년 4월
 feature: Release Information
 exl-id: d87474f8-fc47-407b-bc97-e343b56c1f8f
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 8e72b24e18ae108ec74e6d4fa6b04f10130439a4
 workflow-type: tm+mt
 source-wordcount: '447'
 ht-degree: 26%
@@ -33,7 +33,7 @@ Adobe Dynamic Chat에 대한 릴리스 정보는 [여기에서 확인](/help/mar
   </tr>
      <tr>
    <td><strong>대화형 웨비나 개선 사항</strong>: 이제 이벤트 게재 후 호스트 및 발표자에게 웨비나 제목을 추가하고, 회의실 이름을 바꾸고, 참여 데이터를 수동으로 동기화할 수 있는 기능을 제공할 수 있습니다.</td>
-   <td>출시됨</td>
+   <td>릴리스됨</td>
    <td><li><a href="/help/marketo/product-docs/demand-generation/events/interactive-webinars/create-an-interactive-webinar.md">대화형 웨비나 만들기</a></li>
    <li><a href="/help/marketo/product-docs/demand-generation/events/interactive-webinars/event-workflows.md#manual-sync">수동 동기화</a></li></td>
   </tr>
@@ -46,7 +46,7 @@ Adobe Dynamic Chat에 대한 릴리스 정보는 [여기에서 확인](/help/mar
    <td><strong>감사 추적 개선 사항</strong>:
    이제 필드 관리에서 변경한 사항, 사용자 및 역할에 대한 변경 사항, 목록 및 스마트 목록에서 내보낸 사람 수에 대한 새로운 유형의 작업을 감사 추적에서 캡처할 수 있습니다.</td>
    <td><i>곧 출시 예정</i></td>
-   <td><i>곧 제공 예정</i></td>
+   <td><i>곧 출시 예정</i></td>
   </tr>
   <tr>
    <td> </td>
@@ -66,7 +66,7 @@ Adobe Dynamic Chat에 대한 릴리스 정보는 [여기에서 확인](/help/mar
    <li>목록 만들기</li>
    <li>캠페인 활동 내보내기</li>
    </td>
-   <td>출시됨</td>
+   <td>릴리스됨</td>
    <td><a href="/help/marketo/product-docs/administration/users-and-roles/descriptions-of-role-permissions.md">역할 권한 설명</a></td>
   </tr>
  </tbody>

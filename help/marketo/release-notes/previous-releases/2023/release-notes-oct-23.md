@@ -3,7 +3,7 @@ description: 릴리스 노트 - 2023년 9월 - Marketo 설명서 - 제품 설명
 title: 릴리스 정보 - 2023년 9월
 feature: Release Information
 exl-id: c1197141-3822-404d-b9d4-3e37fc5330b6
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 8e72b24e18ae108ec74e6d4fa6b04f10130439a4
 workflow-type: tm+mt
 source-wordcount: '337'
 ht-degree: 27%
@@ -31,7 +31,7 @@ ht-degree: 27%
   </tr>
   <tr>
    <td><strong>최신 UX의 보고서 구성에 대한 새 디자인</strong>: 보고서 자산을 설정할 때 구성 메뉴에 <a href="https://nation.marketo.com/t5/product-blogs/analytic-modal-updates/ba-p/340321" target="_blank">새 자산 트리</a>가 생기고 생성 및 수정 날짜를 필터링할 수 있습니다.</td>
-   <td>출시됨</td>
+   <td>릴리스됨</td>
    <td>해당 사항 없음</td>
   </tr>
    <tr>
@@ -42,7 +42,7 @@ ht-degree: 27%
   </tr>
    <tr>
    <td><strong>수식 흐름 단계 서비스 계산</strong>: 수식 계산은 Adobe 스마트 캠페인에 사용할 수 있도록 Marketo Engage의 IO 런타임 플랫폼에 구축된 흐름 단계 서비스입니다. IO 런타임이 있는 사용자는 서비스를 배포하고 Marketo Engage 구독에 설치하여 Marketo Engage 스마트 캠페인에서 Excel과 유사한 공식을 계산할 수 있습니다.</td>
-   <td>출시됨</td>
+   <td>릴리스됨</td>
    <td><a href="https://nation.marketo.com/t5/product-documents/compute-formula-user-guide/ta-p/340633" target="_blank">계산 공식 사용 안내서</a></td>
   </tr>
   <tr>
@@ -53,7 +53,7 @@ ht-degree: 27%
   </tr>
    <tr>
    <td><strong>대화형 웨비나에서 녹화 다운로드 및 공동 호스트 할당</strong>: 이제 원래 호스트를 사용할 수 없는 경우 웨비나에 대한 외부 공동 호스트를 추가할 수 있습니다. 이제 웨비나 녹화를 다운로드할 수도 있습니다.</td>
-   <td>출시됨</td>
+   <td>릴리스됨</td>
    <td><li><a href="/help/marketo/product-docs/demand-generation/events/interactive-webinars/event-workflows.md#webinar-recording" target="_blank">레코딩 다운로드</a></li>
    <li><a href="/help/marketo/product-docs/demand-generation/events/interactive-webinars/create-an-interactive-webinar.md" target="_blank">대화형 웨비나 만들기</a></li></td>
   </tr>
@@ -63,6 +63,6 @@ ht-degree: 27%
 
 ## 공지 {#announcements}
 
-* **Marketo Engage Forms jQuery 1.x**: 2024년 1월 릴리스에서는 Marketo Engage Forms용 jQuery를 jQuery 3.x로 업데이트합니다. 이는 이전 버전의 jQuery에 의존하는 사용자 정의 양식 구현에 영향을 줄 수 있습니다. [자세히 알아보기](https://nation.marketo.com/t5/product-blogs/marketo-engage-forms-amp-forms2-js-jquery-update/ba-p/341705#M2597){target="_blank"}.
+* **Marketo Engage Forms jQuery 1.x**: 2024년 1월 릴리스에서는 Marketo Engage Forms용 jQuery를 jQuery 3.x로 업데이트합니다. 이는 이전 버전의 jQuery에 의존하는 사용자 정의 양식 구현에 영향을 줄 수 있습니다. [여기에서 자세히 알아보십시오](https://nation.marketo.com/t5/product-blogs/marketo-engage-forms-amp-forms2-js-jquery-update/ba-p/341705#M2597){target="_blank"}.
 
 * **Marketo 이벤트 및 Marketo 모멘트 사용 중단**: Adobe은 2023년 10월 2일부터 모든 앱스토어에서 [Marketo 이벤트 및 Marketo 모멘트 제거](https://nation.marketo.com/t5/product-discussions/marketo-events-app-and-marketo-moments-app-end-of-life/m-p/340712/highlight/true#M193869){target="_blank"}합니다. 기존 사용자 - Marketo Engage 인스턴스를 Adobe ID로 마이그레이션할 때까지 이러한 앱을 계속 사용할 수 있습니다. 이러한 앱은 Adobe ID 로그인을 지원하지 않습니다.

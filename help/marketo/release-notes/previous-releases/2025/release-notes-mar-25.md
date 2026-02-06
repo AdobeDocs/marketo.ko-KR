@@ -3,10 +3,10 @@ description: 릴리스 노트 - 2025년 3월 - Marketo 문서 - 제품 설명서
 title: 릴리스 정보 - 2025년 3월
 feature: Release Information
 exl-id: a0e45d8e-6b74-4ab0-a1ba-4dae3754bc8f
-source-git-commit: f806c0984cf221bd88fdf50013a8f1d2911b5d86
+source-git-commit: 8e72b24e18ae108ec74e6d4fa6b04f10130439a4
 workflow-type: tm+mt
 source-wordcount: '468'
-ht-degree: 38%
+ht-degree: 37%
 
 ---
 
@@ -33,7 +33,7 @@ Adobe Dynamic Chat에 대한 릴리스 정보는 [여기에서 확인](/help/mar
   </tr>
     <tr>
    <td><strong>모든 프로그램에서 사용할 수 있는 이메일 Designer</strong>: 이제 참여, 기본 및 이벤트 프로그램에서 새로운 이메일 Designer 이메일에 액세스할 수 있습니다(대화형 웨비나 프로그램만 제외). 이전에는 이메일 프로그램에서만 사용할 수 있었습니다.</td>
-   <td>출시됨</td>
+   <td>릴리스됨</td>
    <td>해당 사항 없음</td>
   </tr>
   <tr>
@@ -43,8 +43,8 @@ Adobe Dynamic Chat에 대한 릴리스 정보는 [여기에서 확인](/help/mar
   </tr>
   <tr>
    <td><strong>대화형 웨비나의 GenAI 기능</strong>: 이제 챕터를 생성하고 온디맨드 웨비나에 대한 요약을 작성할 수 있습니다. 데이터의 HTML 파일을 편집하고 내보냅니다.</td>
-   <td>출시됨</td>
-   <td><a href="https://experienceleague.adobe.com/ko/docs/marketo/using/product-docs/demand-generation/events/interactive-webinars/gen-ai">GenAI의 특징</a></td>
+   <td>릴리스됨</td>
+   <td><a href="https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/demand-generation/events/interactive-webinars/gen-ai">GenAI의 특징</a></td>
   </tr>
   <tr>
    <td> </td>
@@ -53,7 +53,7 @@ Adobe Dynamic Chat에 대한 릴리스 정보는 [여기에서 확인](/help/mar
   </tr>
   <tr>
    <td><strong>글로벌 및 Workspace 내 토큰</strong>: 생산성을 높이고 Marketo Engage 작업 영역 및 전체 인스턴스에서 brand 및 마케팅 자료를 제어할 수 있도록 작업 영역과 글로벌 수준에서 내 토큰을 구성합니다.</td>
-   <td>출시됨</td>
+   <td>릴리스됨</td>
    <td><a href="/help/marketo/product-docs/core-marketo-concepts/programs/tokens/managing-my-tokens.md#create-a-my-token">글로벌 내 토큰 만들기</a></td>
   </tr>
   </tbody>

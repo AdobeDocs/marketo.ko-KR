@@ -3,9 +3,9 @@ description: 최신 릴리스 정보 - Marketo 설명서 - 제품 설명서
 title: 최신 릴리스 정보
 exl-id: a2eccad5-73ad-48f9-8091-51cee23824e1
 feature: Release Information
-source-git-commit: d46ce01ca654ce17c1909d9e458cab1a8cb520f9
+source-git-commit: 8e72b24e18ae108ec74e6d4fa6b04f10130439a4
 workflow-type: tm+mt
-source-wordcount: '479'
+source-wordcount: '478'
 ht-degree: 37%
 
 ---
@@ -59,8 +59,8 @@ Adobe Dynamic Chat에 대한 릴리스 정보는 [여기에서 확인](/help/mar
   </tr>
   <tr>
    <td><strong>이메일 Designer - 글머리 기호</strong>: 이제 이메일 Designer에서 이메일을 작성할 때 여러 수준의 글머리 기호를 만들 수 있습니다.</td>
-   <td><i>곧 출시 예정</i></td>
-   <td><i>곧 출시 예정</i></td>
+   <td>릴리스됨</td>
+   <td>해당 사항 없음</td>
   </tr>
   <tr>
    <td> </td>
@@ -107,7 +107,7 @@ Adobe Dynamic Chat에 대한 릴리스 정보는 [여기에서 확인](/help/mar
 
 ## 공지 {#announcements}
 
-* **Marketo 커뮤니티 마이그레이션 완료**: 새로운 Adobe Experience League 커뮤니티가 이제 활성화됩니다! [Marketo Community 환경을 더욱 향상시킬 수 있는 몇 가지 개선 사항](https://experienceleaguecommunities.adobe.com/community-pulse-blog-34/community-update-streamlined-ways-to-engage-and-a-redesigned-homepage-247673?profile.language=ko){target="_blank"}이 만들어졌습니다. [확인](https://experienceleaguecommunities.adobe.com/adobe-marketo-engage-26?profile.language=ko){target="_blank"}.
+* **Marketo 커뮤니티 마이그레이션 완료**: 새로운 Adobe Experience League 커뮤니티가 이제 활성화됩니다! [Marketo Community 환경을 더욱 향상시킬 수 있는 몇 가지 개선 사항](https://experienceleaguecommunities.adobe.com/community-pulse-blog-34/community-update-streamlined-ways-to-engage-and-a-redesigned-homepage-247673){target="_blank"}이 만들어졌습니다. [확인](https://experienceleaguecommunities.adobe.com/adobe-marketo-engage-26){target="_blank"}.
 
 * **REST API &#39;access_token&#39; 매개변수 사용 중단**: Marketo REST API 호출을 인증하는 데 사용되는 `access_token` 쿼리 매개변수는 사용 중단될 예정이며 2026년 3월 31일 수요일 이후에는 사용할 수 없습니다. 모든 신규 및 기존 통합은 [여기에 설명](https://experienceleague.adobe.com/ko/docs/marketo-developer/marketo/rest/authentication){target="_blank"}된 대로 &#39;Authorization&#39; 헤더를 사용하여 REST API 호출을 인증해야 합니다.
 

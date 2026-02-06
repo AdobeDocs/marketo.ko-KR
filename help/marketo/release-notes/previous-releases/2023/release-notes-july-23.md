@@ -3,10 +3,10 @@ description: 릴리스 노트 - 2023년 7월 - Marketo 설명서 - 제품 설명
 title: 릴리스 정보 - 2023년 7월
 feature: Release Information
 exl-id: 4056353c-4125-4849-8350-59c58afb9e66
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 8e72b24e18ae108ec74e6d4fa6b04f10130439a4
 workflow-type: tm+mt
 source-wordcount: '655'
-ht-degree: 21%
+ht-degree: 20%
 
 ---
 
@@ -32,7 +32,7 @@ ht-degree: 21%
    <td><b>설명서 업데이트</b></td>
   </tr>
   <tr>
-   <td>출시됨</td>
+   <td>릴리스됨</td>
    <td><a href="/help/marketo/product-docs/core-marketo-concepts/engagement-map/engagement-map-overview.md" target="_blank">참여 맵 개요</a></td>
   </tr>
   </tbody>
@@ -46,7 +46,7 @@ ht-degree: 21%
    <td><b>설명서 업데이트</b></td>
   </tr>
   <tr>
-   <td>출시됨</td>
+   <td>릴리스됨</td>
    <td>해당 사항 없음</td>
   </tr>
   </tbody>
@@ -68,7 +68,7 @@ ht-degree: 21%
    <td><b>설명서 업데이트</b></td>
   </tr>
   <tr>
-   <td>출시됨</td>
+   <td>릴리스됨</td>
    <td>해당 사항 없음</td>
   </tr>
   </tbody>
@@ -82,7 +82,7 @@ ht-degree: 21%
    <td><b>설명서 업데이트</b></td>
   </tr>
   <tr>
-   <td>출시됨</td>
+   <td>릴리스됨</td>
    <td>해당 사항 없음</td>
   </tr>
   </tbody>
@@ -100,7 +100,7 @@ ht-degree: 21%
    <td><b>설명서 업데이트</b></td>
   </tr>
   <tr>
-   <td>출시됨</td>
+   <td>릴리스됨</td>
    <td><a href="/help/marketo/product-docs/marketo-sales-insight/actions/email/unsubscribes/auto-append-unsubscribe-message-setting.md" target="_blank">구독 취소 메시지 자동 추가 설정</a></td>
   </tr>
   </tbody>
@@ -114,7 +114,7 @@ ht-degree: 21%
    <td><b>설명서 업데이트</b></td>
   </tr>
   <tr>
-   <td>출시됨</td>
+   <td>릴리스됨</td>
    <td><a href="/help/marketo/product-docs/marketo-sales-insight/actions/templates/field-prompts.md" target="_blank">필드 프롬프트</a></td>
   </tr>
   </tbody>
@@ -128,7 +128,7 @@ ht-degree: 21%
    <td><b>설명서 업데이트</b></td>
   </tr>
   <tr>
-   <td>출시됨</td>
+   <td>릴리스됨</td>
    <td><a href="/help/marketo/product-docs/marketo-sales-insight/actions/templates/dynamic-fields.md" target="_blank">동적 필드</a></td>
   </tr>
   </tbody>
@@ -170,7 +170,7 @@ ht-degree: 21%
    <td><b>설명서 업데이트</b></td>
   </tr>
   <tr>
-   <td>출시됨</td>
+   <td>릴리스됨</td>
    <td><a href="/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/features/tabs-in-the-msi-panel/interesting-moments/trigger-tokens-for-interesting-moments.md" target="_blank">Dynamic Chat 트리거 토큰</a></td>
   </tr>
   </tbody>

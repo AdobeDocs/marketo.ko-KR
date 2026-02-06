@@ -2,10 +2,11 @@
 description: 릴리스 노트 - 2025년 9월 - Marketo 설명서 - 제품 설명서
 title: 릴리스 정보 - 2025년 9월
 feature: Release Information
-source-git-commit: f806c0984cf221bd88fdf50013a8f1d2911b5d86
+exl-id: fd40d9df-67ba-4fc4-891f-81aebfd07b0a
+source-git-commit: 6b8733e8b67ef9f93ba16cd1589de93fe45ceb25
 workflow-type: tm+mt
 source-wordcount: '704'
-ht-degree: 98%
+ht-degree: 97%
 
 ---
 
@@ -21,7 +22,7 @@ Adobe Dynamic Chat에 대한 릴리스 정보는 [여기에서 확인](/help/mar
 
 ## 표준 릴리스 주기 기능 {#standard-release-cycle-features}
 
-다음 기능은 표준 릴리스 주기에 포함되며, **2025년 9월 19일**&#x200B;부터 출시되기 시작하고 나머지 기능은 이후 몇 주에 걸쳐 단계적으로 출시될 예정입니다. 릴리스 기능 및 날짜는 변경될 수 있습니다. 각 기능 옆에서 상태를 확인합니다.
+다음 기능은 표준 릴리스 주기에 포함되며, **2025년 9월 19일 토요일**&#x200B;부터 출시되기 시작하고 나머지 기능은 이후 몇 주에 걸쳐 단계적으로 출시될 예정입니다. 릴리스 기능 및 날짜는 변경될 수 있습니다. 각 기능 옆에서 상태를 확인합니다.
 
 <table style="table-layout:auto">
  <tbody>
@@ -32,8 +33,8 @@ Adobe Dynamic Chat에 대한 릴리스 정보는 [여기에서 확인](/help/mar
   </tr>
   <tr>
    <td><strong>온디맨드 웨비나 활동 유지</strong>: 대화형 웨비나 사용자는 이제 온디맨드 웨비나 대시보드 데이터를 30일 넘게 사용할 수 있습니다(기존에는 웨비나 날짜로부터 최대 30일까지만 가능).</td>
-   <td>출시됨</td>
-   <td><a href="https://experienceleague.adobe.com/ko/docs/marketo/using/product-docs/demand-generation/events/interactive-webinars/event-workflows#manual-sync">수동 동기화</a></td>
+   <td>릴리스됨</td>
+   <td><a href="https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/demand-generation/events/interactive-webinars/event-workflows#manual-sync">수동 동기화</a></td>
   </tr>
   <tr>
    <td> </td>
@@ -42,7 +43,7 @@ Adobe Dynamic Chat에 대한 릴리스 정보는 [여기에서 확인](/help/mar
   </tr>
   <tr>
    <td><strong>이메일 디자이너 - AI 어시스턴트 권한</strong>: Marketo 관리자는 특정 사용자에게 GenAI 기능에 대한 액세스 권한을 제공할 수 있습니다.</td>
-   <td>출시됨</td>
+   <td>릴리스됨</td>
    <td><a href="/help/marketo/product-docs/email-marketing/email-designer/ai-assistant.md#set-up-permissions">권한 설정</a></td>
   </tr>
   <tr>
@@ -52,7 +53,7 @@ Adobe Dynamic Chat에 대한 릴리스 정보는 [여기에서 확인](/help/mar
   </tr>
   <tr>
    <td><strong>이메일 디자이너 - 다크 모드</strong>: 이제 지원 이메일 클라이언트와 앱이 텍스트, 버튼 및 기타 UI 요소에 대해 더 어두운 배경과 밝은 색상의 이메일을 표시할 수 있는 다크 모드를 사용할 수 있습니다.</td>
-   <td>출시됨</td>
+   <td>릴리스됨</td>
    <td><a href="/help/marketo/product-docs/email-marketing/email-designer/dark-mode.md">다크 모드</a></td>
   </tr>
   <tr>
@@ -62,7 +63,7 @@ Adobe Dynamic Chat에 대한 릴리스 정보는 [여기에서 확인](/help/mar
   </tr>
   <tr>
    <td><strong>이메일 디자이너 - 콘텐츠 공동 작업 워크플로</strong>: 이제 이메일 자산 내에서 다른 Marketo 사용자에 대해 댓글을 달고 공동 작업을 수행할 수 있습니다. 팀원 태그 지정(적절한 자산 권한이 있는 Marketo 사용자)에 태그를 지정하면 이메일 또는 펄스 알림을 받습니다.</td>
-   <td>출시됨</td>
+   <td>릴리스됨</td>
    <td><a href="/help/marketo/product-docs/email-marketing/email-designer/email-collaboration.md">이메일 공동 작업</a></td>
   </tr>
   <tr>
@@ -72,7 +73,7 @@ Adobe Dynamic Chat에 대한 릴리스 정보는 [여기에서 확인](/help/mar
   </tr>
   <tr>
    <td><strong>이메일 디자이너 - 리디렉션 수정 사항</strong>: 일부 사용자들은 새로운 디자이너를 사용하여 생성된 이메일의 URL을 리디렉션하는 문제가 발생하고 있었습니다 (예: URL을 직접 붙여넣거나 이메일 자산을 북마크하는 것이 항상 효과가 있었던 것은 아닙니다). 이 문제는 해결되었습니다. 또한 <b>이메일 템플릿</b> &gt; <b>세부 정보</b> &gt; <b>사용자</b>에서 이메일 자산으로 연결되는 링크가 해당 이메일 자산으로 리디렉션됩니다.</td>
-   <td>출시됨</td>
+   <td>릴리스됨</td>
    <td>해당 사항 없음</td>
   </tr>
   </tbody>

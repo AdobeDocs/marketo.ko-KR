@@ -3,10 +3,10 @@ description: 릴리스 노트 - 2024년 7월 - Marketo 설명서 - 제품 설명
 title: 릴리스 정보 - 2024년 7월
 feature: Release Information
 exl-id: ff63af41-2d33-40f8-abca-3fd9493e7916
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 8e72b24e18ae108ec74e6d4fa6b04f10130439a4
 workflow-type: tm+mt
 source-wordcount: '521'
-ht-degree: 22%
+ht-degree: 21%
 
 ---
 
@@ -33,7 +33,7 @@ Adobe Dynamic Chat에 대한 릴리스 정보는 [여기에서 확인](/help/mar
   </tr>
      <tr>
    <td><strong>대화형 웨비나에 대한 참여 대시보드</strong>: 웨비나 동안 전체 웨비나 성과 보기와 각 참석자에 대한 포괄적인 참여 보기를 가져와 Marketo Engage 오케스트레이션 도구를 통해 어느 것이 대상으로 이어지는지 결정할 수 있습니다.</td>
-    <td>출시됨</td>
+    <td>릴리스됨</td>
    <td><a href="/help/marketo/product-docs/demand-generation/events/interactive-webinars/engagement-dashboard.md" target="_blank">참여 대시보드</a></td>
   </tr>
   <tr>
@@ -44,7 +44,7 @@ Adobe Dynamic Chat에 대한 릴리스 정보는 [여기에서 확인](/help/mar
   </tr>
      <tr>
    <td><strong>대화형 웨비나를 위한 Room 관리</strong>: 만들어진 개별 Room에 액세스하고(필요한 경우 수정), 콘텐츠 및 녹화에 액세스합니다(필요한 경우 지우기를 통해 저장소 최적화).</td>
-    <td>출시됨</td>
+    <td>릴리스됨</td>
    <td><a href="/help/marketo/product-docs/demand-generation/events/interactive-webinars/room-management.md" target="_blank">룸 관리</a></td>
   </tr>
   <tr>
@@ -55,7 +55,7 @@ Adobe Dynamic Chat에 대한 릴리스 정보는 [여기에서 확인](/help/mar
   </tr>
      <tr>
    <td><strong>대화형 웨비나에 대한 웨비나 사용자 지정</strong>: 웨비나 전략이 브랜드 전략에 보다 쉽게 부합할 수 있도록 공용 룸 인터페이스, 중간 화면(예: 참석자 시작 화면 배경) 및 사용자 지정 비디오 배경을 사용하여 조직에서 승인한 균일한 브랜드 경험을 제공합니다.</td>
-    <td>출시됨</td>
+    <td>릴리스됨</td>
    <td><a href="/help/marketo/product-docs/demand-generation/events/interactive-webinars/customization.md" target="_blank">대화형 웨비나 사용자 지정</a></td>
   </tr>
   <tr>
@@ -66,7 +66,7 @@ Adobe Dynamic Chat에 대한 릴리스 정보는 [여기에서 확인](/help/mar
   </tr>
      <tr>
    <td><strong>Marketo REST API 변경</strong>: <a href="https://developers.marketo.com/rest-api/user-management/">사용자 관리 API</a>에 약간의 변경 사항을 도입했습니다. 이제 <a href="https://developers.marketo.com/rest-api/user-management/#browse_users">사용자 찾아보기</a> 및 <a href="https://developers.marketo.com/rest-api/user-management/#delete_user">사용자 삭제</a> 엔드포인트가 모두 <a href="/help/marketo/product-docs/target-account-management/setup-tam/target-account-management-overview.md">Target 계정 관리</a> 사용자를 지원합니다.</td>
-   <td>출시됨</td>
+   <td>릴리스됨</td>
    <td>해당 사항 없음</td>
   </tr>
  </tbody>

@@ -3,10 +3,10 @@ description: 릴리스 노트 - 2024년 10월 - Marketo 설명서 - 제품 설�
 title: 릴리스 노트 - 2024년 10월
 feature: Release Information
 exl-id: 2e28ae7f-51de-4510-b3e8-79a989f0daf5
-source-git-commit: f806c0984cf221bd88fdf50013a8f1d2911b5d86
+source-git-commit: 8e72b24e18ae108ec74e6d4fa6b04f10130439a4
 workflow-type: tm+mt
 source-wordcount: '548'
-ht-degree: 20%
+ht-degree: 19%
 
 ---
 
@@ -33,7 +33,7 @@ Adobe Dynamic Chat에 대한 릴리스 정보는 [여기에서 확인](/help/mar
   </tr>
     <tr>
    <td><strong>대화형 웨비나에 대한 토큰화</strong>: 이제 웨비나 세부 정보를 수동으로 추가하지 않고도 토큰을 사용하여 이메일 및 랜딩 페이지에서 대화형 웨비나를 홍보할 수 있습니다.</td>
-   <td>출시됨</td>
+   <td>릴리스됨</td>
    <td><a href="/help/marketo/product-docs/demand-generation/events/interactive-webinars/promoting-an-interactive-webinar.md#interactive-webinars-tokens" target="_blank">대화형 웨비나 홍보</a></td>
   </tr>
   <tr>
@@ -44,7 +44,7 @@ Adobe Dynamic Chat에 대한 릴리스 정보는 [여기에서 확인](/help/mar
   </tr>
    <tr>
    <td><strong>스마트 목록 "영향을 미치도록 설정" 수</strong>: 스마트 캠페인의 자격 규칙을 편집할 때 영향을 받는 사람 수를 확인합니다.</td>
-   <td>출시됨</td>
+   <td>릴리스됨</td>
    <td>해당 사항 없음</td>
   </tr>
   <tr>
@@ -55,7 +55,7 @@ Adobe Dynamic Chat에 대한 릴리스 정보는 [여기에서 확인](/help/mar
   </tr>
    <tr>
    <td><strong>탐색 레일의 내 계정 단추</strong>: Adobe Identity Management System으로 마이그레이션한 사용자의 경우 왼쪽 탐색 레일에 새 "내 계정" 단추를 사용하면 시간대를 구성하고 구독 세부 정보에 액세스할 수 있습니다.</td>
-   <td>출시됨</td>
+   <td>릴리스됨</td>
    <td>해당 사항 없음</td>
   </tr>
   <tr>
@@ -70,7 +70,7 @@ Adobe Dynamic Chat에 대한 릴리스 정보는 [여기에서 확인](/help/mar
    <li>3일 동안 응답 활동을 기다린 후 전자 메일이 이제 <i>중단됨</i>(으)로 분류됨</li>
    <li>이메일 열람수는 각 스마트 캠페인에 대해 별도로 고유 열람수로 계산됩니다</li>
    </td>
-   <td>출시됨</td>
+   <td>릴리스됨</td>
    <td><a href="/help/marketo/product-docs/email-marketing/email-programs/email-program-data/email-performance-report.md" target="_blank">이메일 성과 보고서</a></td>
   </tr>
   <tr>
@@ -81,7 +81,7 @@ Adobe Dynamic Chat에 대한 릴리스 정보는 [여기에서 확인](/help/mar
    <tr>
    <td><strong>Salesforce 동기화 백로그 지표</strong>: 최적의 동기화 환경을 위해 CRM 업데이트를 계획 및 예약하기 위해 동기화 처리량 및 백로그 트렌드를 모니터링합니다.
    </td>
-   <td>출시됨</td>
+   <td>릴리스됨</td>
    <td><a href="/help/marketo/product-docs/crm-sync/salesforce-sync/salesforce-sync-backlog-metrics.md" target="_blank">Salesforce 동기화 백로그 지표</a></td>
   </tr>
  </tbody>
@@ -92,7 +92,7 @@ Adobe Dynamic Chat에 대한 릴리스 정보는 [여기에서 확인](/help/mar
 
 * **대량 추출 API 업데이트**: 내보낸 파일에 사용자 지정 열 헤더 이름을 지정할 수 있는 columnHeaderNames 옵션과 관련된 대량 추출 API의 문제를 해결했습니다. 이전에는 ASCII가 아닌 문자가 포함된 열 헤더 이름이 손상될 수 있었습니다.
 
-* **Rest API access_token 매개 변수 사용 중단**: Marketo REST API 호출을 인증하는 데 사용되는 &#39;access_token&#39; 쿼리 매개 변수는 더 이상 사용되지 않으며 2026년 3월 31일 이후에 사용할 수 없습니다. 모든 신규 및 기존 통합은 여기에 설명된 대로 [인증 헤더를 사용하여 REST API 호출을 인증해야 합니다](https://experienceleague.adobe.com/ko/docs/marketo-developer/marketo/rest/authentication#using-an-access-token).
+* **Rest API access_token 매개 변수 사용 중단**: Marketo REST API 호출을 인증하는 데 사용되는 &#39;access_token&#39; 쿼리 매개 변수는 더 이상 사용되지 않으며 2026년 3월 31일 이후에 사용할 수 없습니다. 모든 신규 및 기존 통합은 여기에 설명된 대로 [인증 헤더를 사용하여 REST API 호출을 인증해야 합니다](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/rest/authentication#using-an-access-token).
 
 * **QR 코드 사용 중단**: 2024년 10월 4일에 푸시 알림 및 인앱 메시지 에셋에 사용되는 QR 코드 기능이 더 이상 사용되지 않습니다. 여기에는 새 테스트 장치에 QR 코드를 사용하는 것은 물론 QR 코드로 새 에셋을 만드는 것이 포함됩니다. 사용량이 적은 기능의 사용 중단을 통해 해당 리소스를 Marketo Engage의 전반적인 유지 관리에 다시 할당할 수 있습니다.
 

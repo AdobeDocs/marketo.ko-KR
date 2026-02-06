@@ -3,10 +3,10 @@ description: 릴리스 노트 - 2023년 1월 - Marketo 설명서 - 제품 설명
 title: 릴리스 정보 - 2023년 1월
 exl-id: 584f74e5-ed0a-4f2f-9a1e-93cb8804dec8
 feature: Release Information
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 8e72b24e18ae108ec74e6d4fa6b04f10130439a4
 workflow-type: tm+mt
 source-wordcount: '626'
-ht-degree: 23%
+ht-degree: 21%
 
 ---
 
@@ -37,7 +37,7 @@ ht-degree: 23%
    <td><b>설명서 업데이트</b></td>
   </tr>
   <tr>
-   <td>출시됨</td>
+   <td>릴리스됨</td>
    <td><a href="/help/marketo/product-docs/marketo-engage-modern-ux/toggle-switch.md">토글 스위치</a></td>
   </tr>
   </tbody>
@@ -52,7 +52,7 @@ ht-degree: 23%
    <td><b>설명서 업데이트</b></td>
   </tr>
   <tr>
-   <td>출시됨</td>
+   <td>릴리스됨</td>
    <td>해당 사항 없음</td>
   </tr>
   </tbody>
@@ -70,7 +70,7 @@ ht-degree: 23%
    <td><b>설명서 업데이트</b></td>
   </tr>
   <tr>
-   <td>출시됨</td>
+   <td>릴리스됨</td>
    <td>해당 사항 없음</td>
   </tr>
   </tbody>
@@ -88,8 +88,8 @@ ht-degree: 23%
    <td><b>설명서 업데이트</b></td>
   </tr>
   <tr>
-   <td>출시됨</td>
-   <td><a href="https://experienceleague.adobe.com/docs/experience-platform/destinations/catalog/adobe/marketo-measure-ultimate.html?lang=ko">Marketo Measure Ultimate</a></td>
+   <td>릴리스됨</td>
+   <td><a href="https://experienceleague.adobe.com/docs/experience-platform/destinations/catalog/adobe/marketo-measure-ultimate.html">Marketo Measure Ultimate</a></td>
   </tr>
   </tbody>
 </table>
@@ -106,7 +106,7 @@ ht-degree: 23%
    <td><b>설명서 업데이트</b></td>
   </tr>
   <tr>
-   <td>출시됨</td>
+   <td>릴리스됨</td>
    <td><a href="/help/marketo/product-docs/administration/settings/bulk-export-api-information.md">일괄 내보내기 API 정보</a></td>
   </tr>
   </tbody>
@@ -128,7 +128,7 @@ ht-degree: 23%
    <td><b>설명서 업데이트</b></td>
   </tr>
   <tr>
-   <td>출시됨</td>
+   <td>릴리스됨</td>
    <td>해당 사항 없음</td>
   </tr>
   </tbody>
@@ -142,7 +142,7 @@ ht-degree: 23%
    <td><b>설명서 업데이트</b></td>
   </tr>
   <tr>
-   <td>출시됨</td>
+   <td>릴리스됨</td>
    <td><a href="/help/marketo/product-docs/demand-generation/dynamic-chat/setup-and-configuration/agent-settings.md">캘린더</a></td>
   </tr>
   </tbody>
@@ -156,7 +156,7 @@ ht-degree: 23%
    <td><b>설명서 업데이트</b></td>
   </tr>
   <tr>
-   <td>출시됨</td>
+   <td>릴리스됨</td>
    <td>해당 사항 없음</td>
   </tr>
   </tbody>
@@ -170,7 +170,7 @@ ht-degree: 23%
    <td><b>설명서 업데이트</b></td>
   </tr>
   <tr>
-   <td>출시됨</td>
+   <td>릴리스됨</td>
    <td>해당 사항 없음</td>
   </tr>
   </tbody>
@@ -184,7 +184,7 @@ ht-degree: 23%
    <td><b>설명서 업데이트</b></td>
   </tr>
   <tr>
-   <td>출시됨</td>
+   <td>릴리스됨</td>
    <td><a href="/help/marketo/product-docs/demand-generation/dynamic-chat/meeting-list.md">회의</a></td>
   </tr>
   </tbody>

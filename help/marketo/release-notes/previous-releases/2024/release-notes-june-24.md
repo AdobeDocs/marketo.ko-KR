@@ -3,7 +3,7 @@ description: 릴리스 노트 - 2024년 6월 - Marketo 문서 - 제품 설명서
 title: 릴리스 정보 - 2024년 6월
 feature: Release Information
 exl-id: 66e34e3f-86f3-4d68-a637-98e342e0d26c
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 8e72b24e18ae108ec74e6d4fa6b04f10130439a4
 workflow-type: tm+mt
 source-wordcount: '279'
 ht-degree: 35%
@@ -33,7 +33,7 @@ Adobe Dynamic Chat에 대한 릴리스 정보는 [여기에서 확인](/help/mar
   </tr>
      <tr>
    <td><strong>대화형 웨비나용 템플릿</strong>: 이제 마케터는 대화형 웨비나에서 룸 레이아웃에 대한 사용자 지정 템플릿을 만들 수 있습니다.</td>
-   <td>출시됨</td>
+   <td>릴리스됨</td>
    <td><a href="/help/marketo/product-docs/demand-generation/events/interactive-webinars/templates.md">템플릿</a></td>
   </tr>
   <tr>
@@ -44,7 +44,7 @@ Adobe Dynamic Chat에 대한 릴리스 정보는 [여기에서 확인](/help/mar
   </tr>
      <tr>
    <td><strong>Forms의 필드 유추</strong>: 이전 웹 활동이 없는 양식 채우기를 통해 사용자를 만들 때 유추 필드를 채우는 데 사용되는 데이터 원본이 다른 사용자 수집 방법과 동일한 데이터 원본을 사용하도록 업데이트되었습니다. 이제 추론된 필드 데이터가 모든 수집 지점에서 일관됩니다.</td>
-   <td>출시됨</td>
+   <td>릴리스됨</td>
    <td>해당 사항 없음</td>
   </tr>
  </tbody>

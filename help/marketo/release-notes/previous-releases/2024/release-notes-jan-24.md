@@ -3,7 +3,7 @@ description: 릴리스 노트 - 2024년 1월 - Marketo 설명서 - 제품 설명
 title: 릴리스 정보 - 2024년 1월
 feature: Release Information
 exl-id: 64e85f6c-b746-46b6-ab51-5ad1817396b2
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 8e72b24e18ae108ec74e6d4fa6b04f10130439a4
 workflow-type: tm+mt
 source-wordcount: '782'
 ht-degree: 18%
@@ -31,7 +31,7 @@ ht-degree: 18%
   </tr>
     <tr>
    <td><strong>대화형 웨비나에 대한 온디맨드 웨비나</strong>: 온디맨드 웨비나를 사용하면 웨비나 녹화를 게시하고 해당 방문/시계를 추적할 수 있습니다. 이렇게 하면 웨비나(no-show)에 참여하지 않았지만 여전히 자세한 내용을 찾고 녹화를 보는 데 관심이 있는 등록자를 통해 더 많은 잠재 고객을 확보하는 데 도움이 됩니다.</td>
-   <td>출시됨</td>
+   <td>릴리스됨</td>
    <td><a href="/help/marketo/product-docs/demand-generation/events/interactive-webinars/on-demand-webinars.md" target="_blank">온디맨드 웨비나</a></td>
   </tr>
    <tr>
@@ -42,7 +42,7 @@ ht-degree: 18%
     <tr>
    <td><strong>대화 랜딩 페이지</strong>: 방문자가 양식을 작성하거나 챗봇과 상호 작용할 필요 없이 Dynamic Chat을 통해 회의를 예약할 수 있도록 Dynamic Chat 대화 흐름을 Marketo Engage 랜딩 페이지에 직접 포함하십시오.</td>
    <td><i>곧 출시 예정</i></td>
-   <td><i>곧 제공 예정</i></td>
+   <td><i>곧 출시 예정</i></td>
   </tr>
   <tr>
    <td> </td>
@@ -51,7 +51,7 @@ ht-degree: 18%
   </tr>
     <tr>
    <td><strong>전자 메일 보트 활동 필터링</strong>: 보트 활동 ID 필터링을 얼마나 적극적으로 수행할지 선택할 수 있도록 허용하여 전자 메일 참여에 대한 보트 활동 캡처를 개선합니다.</td>
-   <td>출시됨</td>
+   <td>릴리스됨</td>
    <td><a href="/help/marketo/product-docs/administration/email-setup/filtering-email-bot-activity.md" target="_blank">이메일 봇 활동 필터링</a></td>
   </tr>
   <tr>
@@ -61,7 +61,7 @@ ht-degree: 18%
    </tr>
     <tr>
    <td><strong>대량 잠재 고객 가져오기 API 업데이트</strong>: 작업을 만드는 동안 <b>id</b>이(가) <b>lookupField</b>(으)로 지정되면 대량 잠재 고객 가져오기 API의 동작에 약간의 조정이 발생했습니다. 입력한 <b>id</b>에 연결된 개인 레코드를 Marketo Engage 데이터베이스에서 찾을 수 없으면 레코드를 찾을 수 없으므로 레코드가 업데이트되지 않습니다. 업데이트된 동작에는 이제 응답 내의 <b>numOfRowsFailed</b> 속성에서 카운트가 증가하는 것이 포함되며, 이러한 경우 작업이 실패했음을 나타냅니다.</td>
-   <td>출시됨</td>
+   <td>릴리스됨</td>
    <td>해당 사항 없음</td>
   </tr>
   <tr>
@@ -71,7 +71,7 @@ ht-degree: 18%
    </tr>
   <tr>
    <td><strong>대화형 웨비나에 대한 공동 호스트</strong>: 대화형 웨비나의 웨비나 팀 섹션에서 공동 호스트를 사용하면 이벤트 작성자가 대화형 웨비나 프로그램에 내부 또는 외부 사용자를 추가하여 관리 및 게재 권한을 공유할 수 있습니다.</td>
-   <td>출시됨</td>
+   <td>릴리스됨</td>
    <td><a href="/help/marketo/product-docs/demand-generation/events/interactive-webinars/create-an-interactive-webinar.md#adding-a-webinar-team" target="_blank">웨비나 팀 추가</a></td>
   </tr>
   <tr>
@@ -81,7 +81,7 @@ ht-degree: 18%
   </tr>
     <tr>
    <td><strong>대화형 웨비나에서 사용자 제거</strong>: 이제 Marketo Engage 관리자가 대화형 웨비나에서 특정 사용자를 제거할 수 있습니다.</td>
-   <td>출시됨</td>
+   <td>릴리스됨</td>
    <td>해당 사항 없음</td>
   </tr>
  </tbody>
@@ -92,7 +92,7 @@ ht-degree: 18%
 
 아래의 모든 기능은 애자일 형식을 따르며, 표준 릴리스 날짜 이전 또는 이후의 다양한 날짜에 릴리스됩니다. 각 기능 옆에서 상태를 확인합니다.
 
-### 영업 Insight 작업 {#sales-insight-actions}
+### Sales Insight Actions {#sales-insight-actions}
 
 ![(별)](assets/yellow-star.png)
 
@@ -128,7 +128,7 @@ ht-degree: 18%
     <tr>
    <td><strong>대화형 Forms에 대한 챗봇 UI</strong>: 이제 웹 사이트 방문자가 대화형 흐름으로 라이브 채팅을 요청할 수 있습니다.</td>
    <td><i>곧 출시 예정</i></td>
-   <td><i>곧 제공 예정</i></td>
+   <td><i>곧 출시 예정</i></td>
   </tr>
    <tr>
    <td> </td>
@@ -139,7 +139,7 @@ ht-degree: 18%
     <tr>
    <td><strong>챗봇 글꼴 색상 옵션</strong>: 챗봇 구성에서 글꼴 색상을 사용자 지정합니다.</td>
    <td><i>곧 출시 예정</i></td>
-   <td><i>곧 제공 예정</i></td>
+   <td><i>곧 출시 예정</i></td>
   </tr>
   <tr>
    <td> </td>
@@ -150,7 +150,7 @@ ht-degree: 18%
     <tr>
    <td><strong>대화 상자 반복 옵션</strong>: 이제 방문자가 끝에 도달한 후 대화 상자를 처음부터 다시 시작할 수 있습니다.</td>
    <td><i>곧 출시 예정</i></td>
-   <td><i>곧 제공 예정</i></td>
+   <td><i>곧 출시 예정</i></td>
   </tr>
   <tr>
    <td> </td>
@@ -160,7 +160,7 @@ ht-degree: 18%
     </tr>
     <tr>
    <td><strong>수동 실시간 채팅 종료</strong>: 이제 방문자와 에이전트 모두 실시간 채팅 세션을 수동으로 종료할 수 있습니다.</td>
-   <td>출시됨</td>
+   <td>릴리스됨</td>
    <td><a href="/help/marketo/product-docs/demand-generation/dynamic-chat/live-chat/agent-inbox.md#end-a-session" target="_blank">에이전트 받은 편지함</a></td>
   </tr>
   <tr>
@@ -172,7 +172,7 @@ ht-degree: 18%
     <tr>
    <td><strong>에이전트 받은 편지함의 최근 Marketo Engage 활동</strong>: 열린 전자 메일 및 채워진 양식과 같은 최근 Marketo Engage 활동이 에이전트 받은 편지함에 잠재 고객에 대해 표시됩니다.</td>
    <td><i>곧 출시 예정</i></td>
-   <td><i>곧 제공 예정</i></td>
+   <td><i>곧 출시 예정</i></td>
   </tr>
   <tr>
    <td> </td>
@@ -194,7 +194,7 @@ ht-degree: 18%
 
 * **Sync Lead API 업데이트**: [Sync Lead API](https://developer.adobe.com/marketo-apis/api/mapi/#tag/Leads/operation/syncLeadUsingPOST){target="_blank"}의 동작이 `unsubscribed` 필드 업데이트와 관련하여 약간 조정되었습니다. 이제 `null`을(를) 값으로 전달하면 `false` 값을 전달하는 것과 같습니다.
 
-* **Marketo Engage Forms jQuery 1.x**: 2024년 1월 릴리스에서는 Marketo Engage Forms용 jQuery를 jQuery 3.x로 업데이트합니다. 이는 이전 버전의 jQuery에 의존하는 사용자 정의 양식 구현에 영향을 줄 수 있습니다. [자세히 알아보기](https://nation.marketo.com/t5/product-blogs/marketo-engage-forms-amp-forms2-js-jquery-update/ba-p/341705){target="_blank"}.
+* **Marketo Engage Forms jQuery 1.x**: 2024년 1월 릴리스에서는 Marketo Engage Forms용 jQuery를 jQuery 3.x로 업데이트합니다. 이는 이전 버전의 jQuery에 의존하는 사용자 정의 양식 구현에 영향을 줄 수 있습니다. [여기에서 자세히 알아보십시오](https://nation.marketo.com/t5/product-blogs/marketo-engage-forms-amp-forms2-js-jquery-update/ba-p/341705){target="_blank"}.
 
 * **SSO 전용 사용자에 대한 전자 메일 확인**: SSO 전용 사용자는 자동으로 확인되어 액세스할 수 없는 전자 메일 계정을 사용할 수 있습니다. 1월 중순부터 모든 기존 SSO 전용 사용자는 확인되지 않으며 이메일 계정에 보내는 링크를 통해 이메일을 다시 확인하라는 메시지가 표시됩니다. 모든 새 SSO는 앞으로 사용자만 이메일 주소를 확인해야 합니다.
 
