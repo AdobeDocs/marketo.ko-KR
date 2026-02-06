@@ -44,7 +44,7 @@ Adobe Dynamic Chat에 대한 릴리스 정보는 [여기에서 확인](/help/mar
   <tr>
    <td><strong>대화형 웨비나의 GenAI 기능</strong>: 이제 챕터를 생성하고 온디맨드 웨비나에 대한 요약을 작성할 수 있습니다. 데이터의 HTML 파일을 편집하고 내보냅니다.</td>
    <td>릴리스됨</td>
-   <td><a href="https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/demand-generation/events/interactive-webinars/gen-ai">GenAI의 특징</a></td>
+   <td><a href="https://experienceleague.adobe.com/ko/docs/marketo/using/product-docs/demand-generation/events/interactive-webinars/gen-ai">GenAI의 특징</a></td>
   </tr>
   <tr>
    <td> </td>

@@ -34,7 +34,7 @@ Adobe Dynamic Chat에 대한 릴리스 정보는 [여기에서 확인](/help/mar
   <tr>
    <td><strong>온디맨드 웨비나 활동 유지</strong>: 대화형 웨비나 사용자는 이제 온디맨드 웨비나 대시보드 데이터를 30일 넘게 사용할 수 있습니다(기존에는 웨비나 날짜로부터 최대 30일까지만 가능).</td>
    <td>릴리스됨</td>
-   <td><a href="https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/demand-generation/events/interactive-webinars/event-workflows#manual-sync">수동 동기화</a></td>
+   <td><a href="https://experienceleague.adobe.com/ko/docs/marketo/using/product-docs/demand-generation/events/interactive-webinars/event-workflows#manual-sync">수동 동기화</a></td>
   </tr>
   <tr>
    <td> </td>
