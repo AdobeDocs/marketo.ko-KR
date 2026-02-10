@@ -4,10 +4,10 @@ description: LinkedIn 리드 세대 Forms - Marketo 문서 - 제품 설명서 �
 title: LinkedIn 리드 생성 양식 설정
 exl-id: 554a546c-adeb-4132-830d-ff15ba5cf9a1
 feature: Social
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 0e164542f45045f5259b2e9c068bd3bade150656
 workflow-type: tm+mt
-source-wordcount: '496'
-ht-degree: 3%
+source-wordcount: '477'
+ht-degree: 4%
 
 ---
 
@@ -15,17 +15,13 @@ ht-degree: 3%
 
 LinkedIn 리드 세대 Forms을 사용하여 LinkedIn에서 광고 캠페인을 실행하고 Marketo에 대한 리드를 생성합니다.
 
->[!IMPORTANT]
->
->LinkedIn이 Marketo Engage LinkedIn 통합에서 사용하는 마케팅 API를 업그레이드하고 있습니다. 이러한 변경 사항을 적용하려면 2024년 6월 7일부터 12월 15일 사이에 **관리자** > **LaunchPoint** 메뉴에서 모든 LinkedIn LaunchPoint 서비스를 다시 인증해야 합니다. 자세한 내용은 [마이그레이션 FAQ](https://nation.marketo.com/t5/employee-blogs/linkedin-re-authentication-required/ba-p/347794){target="_blank"}를 참조하십시오.
-
 >[!NOTE]
 >
->**관리자 권한 필요**
-
->[!NOTE]
+>* **관리자 권한 필요**
 >
->LinkedIn 리드가 회사 API를 사용하여 만든 회사 레코드와 연결된 Marketo의 기존 사용자 레코드와 일치하고 Marketo 구독이 CRM에 연결되어 있지 않으면 Marketo Engage으로 연결되지 않습니다.
+>* LinkedIn 리드 세대 양식을 만들 때 양식 이름에 숫자만 포함되어 있지 않은지 확인하십시오. 양식 이름은 알파벳 또는 영숫자여야 합니다.
+>
+>* LinkedIn 리드가 회사 API를 사용하여 만든 회사 레코드와 연결된 Marketo의 기존 사용자 레코드와 일치하고 Marketo 구독이 CRM에 연결되어 있지 않으면 Marketo Engage으로 연결되지 않습니다.
 
 1. **[!UICONTROL Admin]** 영역으로 이동합니다.
 

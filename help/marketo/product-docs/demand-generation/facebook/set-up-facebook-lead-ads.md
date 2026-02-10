@@ -4,10 +4,10 @@ description: Facebook 리드 광고 설정 - Marketo 문서 - 제품 설명서
 title: Facebook 리드 광고 설정
 exl-id: 24cb74da-6b46-45de-ba4a-66e3d490afd7
 feature: Integrations
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 0e164542f45045f5259b2e9c068bd3bade150656
 workflow-type: tm+mt
-source-wordcount: '298'
-ht-degree: 3%
+source-wordcount: '324'
+ht-degree: 4%
 
 ---
 
@@ -17,7 +17,9 @@ ht-degree: 3%
 
 >[!NOTE]
 >
->**관리자 권한 필요**
+>* **관리자 권한 필요**
+>
+>* Facebook 리드 광고 양식을 만들 때 양식 이름에 숫자만 포함되어 있지 않은지 확인하십시오. 양식 이름은 알파벳 또는 영숫자여야 합니다.
 
 >[!AVAILABILITY]
 >
