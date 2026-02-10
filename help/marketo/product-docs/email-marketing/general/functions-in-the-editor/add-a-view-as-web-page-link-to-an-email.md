@@ -4,10 +4,10 @@ description: 웹 페이지로 보기 링크를 이메일에 추가 - Marketo 문
 title: 이메일에 '웹 페이지로 보기' 링크 추가
 exl-id: 0f420d1b-6c12-4e66-9dfa-3c8f6145dc89
 feature: Email Editor
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 555745d293928961263a2aafed431a7b9e22d407
 workflow-type: tm+mt
-source-wordcount: '149'
-ht-degree: 13%
+source-wordcount: '159'
+ht-degree: 12%
 
 ---
 
@@ -17,7 +17,9 @@ ht-degree: 13%
 
 >[!NOTE]
 >
->새 이메일을 만들 때 웹 페이지로 보기가 활성화되지 않습니다. 이 설정을 사용하고 이메일을 복제하면 이 설정이 복사됩니다.
+>* 새 이메일을 만들 때 웹 페이지로 보기가 활성화되지 않습니다. 이 설정을 사용하고 이메일을 복제하면 이 설정이 복사됩니다.
+>
+>* &quot;웹 페이지로 보기&quot; 링크는 6개월 후에 만료됩니다.
 
 1. 전자 메일을 선택하고 **[!UICONTROL Edit Draft]**&#x200B;을(를) 클릭합니다.
 
