@@ -3,9 +3,9 @@ audience: end-user
 user-guide-title: Marketo 안내서
 user-guide-description: Marketo 제품 설명서
 feature-set: Marketo Engage
-source-git-commit: 67b991264f4b31b01a2ec2ff411e71d4d5658336
+source-git-commit: ce6a748acfb25ebc90c31dbfb16cf0230ca20b73
 workflow-type: tm+mt
-source-wordcount: '9331'
+source-wordcount: '9336'
 ht-degree: 99%
 
 ---
@@ -1971,6 +1971,8 @@ ht-degree: 99%
    + [Dynamic Chat 릴리스](release-notes/dynamic-chat.md)
    + [Dynamic Chat 릴리스 (임시)](release-notes/dynamic-chat-temp.md)
    + 이전 릴리스 {#previous-releases}
+      + 2026 {#2026}
+         + [릴리스 노트: 2026년 1월](release-notes/previous-releases/2025/release-notes-jan-26.md)
       + 2025 {#2025}
          + [릴리스 정보: 2025년 1월](release-notes/previous-releases/2025/release-notes-jan-25.md)
          + [릴리스 정보: 2025년 3월](release-notes/previous-releases/2025/release-notes-mar-25.md)
