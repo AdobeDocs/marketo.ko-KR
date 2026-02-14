@@ -102,7 +102,7 @@ Adobe Dynamic Chat에 대한 릴리스 정보는 [여기에서 확인](/help/mar
 
 * **향상된 Room 인터페이스 환경**: Adobe의 최신 Spectrum 2 디자인 프레임워크를 기반으로 구축된 보다 새롭고 현대적인 Room 인터페이스를 사용하여 Creative Cloud 및 Experience Cloud과 같은 다른 Adobe 제품에서 사용되는 시각적 언어에 맞게 조정할 수 있습니다.
 
-자세한 내용은 [이 페이지](https://helpx.adobe.com/adobe-connect/release-note/adobe-connect-12-11-release-notes.html){target="_blank"}를 참조하세요.
+자세한 내용은 [이 페이지](https://helpx.adobe.com/kr/adobe-connect/release-note/adobe-connect-12-11-release-notes.html){target="_blank"}를 참조하세요.
 
 ## 공지 {#announcements}
 
