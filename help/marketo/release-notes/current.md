@@ -3,10 +3,10 @@ description: 최신 릴리스 정보 - Marketo 설명서 - 제품 설명서
 title: 최신 릴리스 정보
 exl-id: a2eccad5-73ad-48f9-8091-51cee23824e1
 feature: Release Information
-source-git-commit: ce6a748acfb25ebc90c31dbfb16cf0230ca20b73
+source-git-commit: 223e20c6c29a8392ee582c3bb69a384edfba6427
 workflow-type: tm+mt
-source-wordcount: '305'
-ht-degree: 57%
+source-wordcount: '286'
+ht-degree: 59%
 
 ---
 
@@ -64,16 +64,6 @@ Adobe Dynamic Chat에 대한 릴리스 정보는 [여기에서 확인](/help/mar
   </tr>
   <tr>
    <td><strong>이메일 Designer - API</strong>: 이제 이메일 Designer에 대한 API 호출을 사용할 수 있습니다.</td>
-   <td><i>곧 출시 예정</i></td>
-   <td><i>곧 출시 예정</i></td>
-  </tr>
-  <tr>
-   <td> </td>
-   <td> </td>
-   <td> </td>
-  </tr>
-  <tr>
-   <td><strong>선택 목록 관리</strong>: Marketo 인터페이스 내의 필드에 사용할 수 있는 값을 지정하십시오.</td>
    <td><i>곧 출시 예정</i></td>
    <td><i>곧 출시 예정</i></td>
   </tr>
