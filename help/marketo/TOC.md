@@ -3,9 +3,9 @@ audience: end-user
 user-guide-title: Marketo 안내서
 user-guide-description: Marketo 제품 설명서
 feature-set: Marketo Engage
-source-git-commit: b7904b6375be98a3794e0b6b2cd3cde0b4b0eefd
+source-git-commit: 5cf293a02d1e8c87a14c9077bef31c98e1694449
 workflow-type: tm+mt
-source-wordcount: '9336'
+source-wordcount: '9341'
 ht-degree: 99%
 
 ---
@@ -33,6 +33,7 @@ ht-degree: 99%
       + [아이콘 용어집](getting-started/things-to-know/icon-glossary.md)
       + [클래식 아이콘 용어집](getting-started/things-to-know/classic-icon-glossary.md)
       + [도움말 센터](getting-started/things-to-know/help-center.md)
+      + [제품 지식을 위한 AI 지원](getting-started/things-to-know/ai-assistant-for-product-knowledge.md)
       + [Marketing Nation 커뮤니티](getting-started/things-to-know/community.md)
    + 빠른 성공 {#quick-wins}
       + [설정 및 사용자 추가](getting-started/quick-wins/get-set-up-and-add-a-person.md)
