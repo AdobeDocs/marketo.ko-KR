@@ -4,9 +4,10 @@ title: 제품 지식을 위한 AI Assistant
 feature: Getting Started
 hide: true
 hidefromtoc: true
-source-git-commit: 18923353978a8f3e635ee7b34073d041d92a3759
+exl-id: 7e5d14fc-3131-4d83-b502-bd177931506c
+source-git-commit: a9aebd242033df4e45c3bf5cb3b5a91d80d94d0e
 workflow-type: tm+mt
-source-wordcount: '161'
+source-wordcount: '166'
 ht-degree: 0%
 
 ---
@@ -36,3 +37,7 @@ ht-degree: 0%
    >[!TIP]
    >
    >이 아이콘(여기에 있는 아이콘 이미지)을 사용하여 화면을 확장하고 이 아이콘(여기에 있는 아이콘 이미지)을 사용하여 프롬프트 내역을 볼 수 있습니다. &lt;— 얼마나 남았습니까? 세팅이 되어 있나요?
+
+## 빠른 시작: 60초 비디오 개요 {#video}
+
+>[!VIDEO](https://video.tv.adobe.com/v/3480115?learn=on){transcript=true}
