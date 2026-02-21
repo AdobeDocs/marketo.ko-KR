@@ -2,10 +2,11 @@
 description: 릴리스 노트 - 2026년 1월 - Marketo 설명서 - 제품 설명서
 title: 릴리스 노트 - 2026년 1월
 feature: Release Information
-source-git-commit: ce6a748acfb25ebc90c31dbfb16cf0230ca20b73
+exl-id: 82773c7e-7c25-4407-8283-b1ae21e470f5
+source-git-commit: 640bf88008727e1fd8d2f65bae3bf133976a944d
 workflow-type: tm+mt
-source-wordcount: '479'
-ht-degree: 34%
+source-wordcount: '477'
+ht-degree: 33%
 
 ---
 
@@ -73,8 +74,8 @@ Adobe Dynamic Chat에 대한 릴리스 정보는 [여기에서 확인](/help/mar
    <li>이제 세그먼테이션이 알파벳순으로 정렬됩니다.</li>
    </ul>
    </td>
-   <td><i>곧 출시 예정</i></td>
-   <td><i>곧 출시 예정</i></td>
+   <td>릴리스됨</td>
+   <td>해당 사항 없음</td>
   </tr>
   <tr>
    <td> </td>
@@ -83,8 +84,8 @@ Adobe Dynamic Chat에 대한 릴리스 정보는 [여기에서 확인](/help/mar
   </tr>
   <tr>
    <td><strong>이메일 Designer - 폴더</strong>: 이제 폴더를 사용하여 이메일 Designer(이메일, 이메일 템플릿, 조각)을 사용하여 만든 에셋을 구성할 수 있습니다.</td>
-   <td><i>곧 출시 예정</i></td>
-   <td><i>곧 출시 예정</i></td>
+   <td>릴리스됨</td>
+   <td>해당 사항 없음</td>
   </tr>
   </tbody>
 </table>
@@ -102,11 +103,11 @@ Adobe Dynamic Chat에 대한 릴리스 정보는 [여기에서 확인](/help/mar
 
 * **향상된 Room 인터페이스 환경**: Adobe의 최신 Spectrum 2 디자인 프레임워크를 기반으로 구축된 보다 새롭고 현대적인 Room 인터페이스를 사용하여 Creative Cloud 및 Experience Cloud과 같은 다른 Adobe 제품에서 사용되는 시각적 언어에 맞게 조정할 수 있습니다.
 
-자세한 내용은 [이 페이지](https://helpx.adobe.com/kr/adobe-connect/release-note/adobe-connect-12-11-release-notes.html){target="_blank"}를 참조하세요.
+자세한 내용은 [이 페이지](https://helpx.adobe.com/adobe-connect/release-note/adobe-connect-12-11-release-notes.html){target="_blank"}를 참조하세요.
 
 ## 공지 {#announcements}
 
-* **Marketo 커뮤니티 마이그레이션 완료**: 새로운 Adobe Experience League 커뮤니티가 이제 활성화됩니다! [Marketo Community 환경을 더욱 향상시킬 수 있는 몇 가지 개선 사항](https://experienceleaguecommunities.adobe.com/community-pulse-blog-34/community-update-streamlined-ways-to-engage-and-a-redesigned-homepage-247673?profile.language=ko){target="_blank"}이 만들어졌습니다. [확인](https://experienceleaguecommunities.adobe.com/adobe-marketo-engage-26?profile.language=ko){target="_blank"}.
+* **Marketo 커뮤니티 마이그레이션 완료**: 새로운 Adobe Experience League 커뮤니티가 이제 활성화됩니다! [Marketo Community 환경을 더욱 향상시킬 수 있는 몇 가지 개선 사항](https://experienceleaguecommunities.adobe.com/community-pulse-blog-34/community-update-streamlined-ways-to-engage-and-a-redesigned-homepage-247673){target="_blank"}이 만들어졌습니다. [확인](https://experienceleaguecommunities.adobe.com/adobe-marketo-engage-26){target="_blank"}.
 
 * **REST API &#39;access_token&#39; 매개변수 사용 중단**: Marketo REST API 호출을 인증하는 데 사용되는 `access_token` 쿼리 매개변수는 사용 중단될 예정이며 2026년 3월 31일 수요일 이후에는 사용할 수 없습니다. 모든 신규 및 기존 통합은 [여기에 설명](https://experienceleague.adobe.com/ko/docs/marketo-developer/marketo/rest/authentication){target="_blank"}된 대로 &#39;Authorization&#39; 헤더를 사용하여 REST API 호출을 인증해야 합니다.
 
