@@ -5,9 +5,9 @@ feature: Getting Started
 hide: true
 hidefromtoc: true
 exl-id: 7e5d14fc-3131-4d83-b502-bd177931506c
-source-git-commit: a9aebd242033df4e45c3bf5cb3b5a91d80d94d0e
+source-git-commit: b39db1dae33fee1a7436013845a216fa8995105e
 workflow-type: tm+mt
-source-wordcount: '166'
+source-wordcount: '163'
 ht-degree: 0%
 
 ---
@@ -22,11 +22,11 @@ ht-degree: 0%
 
 1. [Adobe Experience Cloud](https://experience.adobe.com/)를 통해 Marketo Engage에 로그인합니다.
 
-1. 헤더에서 AI Assistant 아이콘을 선택합니다.
+1. 헤더 오른쪽에 있는 AI 도우미 아이콘을 선택합니다.
 
    스크린샷
 
-1. 프롬프트 창에서 자연어를 사용하여 원하는 프롬프트를 입력합니다.
+1. 자연어를 사용하여 원하는 프롬프트를 입력합니다.
 
    스크린샷
 
@@ -36,7 +36,7 @@ ht-degree: 0%
 
    >[!TIP]
    >
-   >이 아이콘(여기에 있는 아이콘 이미지)을 사용하여 화면을 확장하고 이 아이콘(여기에 있는 아이콘 이미지)을 사용하여 프롬프트 내역을 볼 수 있습니다. &lt;— 얼마나 남았습니까? 세팅이 되어 있나요?
+   >이 아이콘(아이콘 이미지)을 사용하여 화면을 확장하고 이 아이콘(아이콘 이미지)을 사용하여 대화 내용을 보거나 새 대화를 시작할 수 있습니다.
 
 ## 빠른 시작: 60초 비디오 개요 {#video}
 
