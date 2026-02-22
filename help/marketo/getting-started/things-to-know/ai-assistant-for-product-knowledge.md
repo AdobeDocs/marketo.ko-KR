@@ -40,4 +40,4 @@ ht-degree: 0%
 
 ## 빠른 시작: 60초 비디오 개요 {#video}
 
->[!VIDEO](https://video.tv.adobe.com/v/3480115?learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3480122?captions=kor&learn=on){transcript=true}
