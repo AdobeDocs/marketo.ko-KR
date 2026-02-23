@@ -4,9 +4,9 @@ description: 프로그램 가져오기 - Marketo 문서 - 제품 설명서
 title: 프로그램 가져오기
 exl-id: 15e23e38-a24b-45b3-89a9-ffec85649f4a
 feature: Programs
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 7cf6194ba042fa47711bf9ef3b6d1d7570fe3451
 workflow-type: tm+mt
-source-wordcount: '536'
+source-wordcount: '538'
 ht-degree: 2%
 
 ---
@@ -17,11 +17,14 @@ ht-degree: 2%
 
 >[!CAUTION]
 >
->&quot;사용자 지정 개체가 업데이트됨&quot; 트리거가 포함된 스마트 목록이 있는 프로그램은 가져오기에 실패합니다. 아래 설명된 단계를 수행하기 전에 모든 스마트 목록에서 이 트리거를 제거하십시오.
+>
+>* 프로그램을 가져올 때 코드 조각 또는 [동적 콘텐츠](/help/marketo/product-docs/personalization/segmentation-and-snippets/segmentation/understanding-dynamic-content.md){target="_blank"}가 포함된 전자 메일/랜딩 페이지를 건너뜁니다.
+>
+>* &quot;사용자 지정 개체가 업데이트됨&quot; 트리거가 포함된 스마트 목록이 있는 프로그램은 가져오기에 실패합니다. 아래 설명된 단계를 수행하기 전에 모든 스마트 목록에서 이 트리거를 제거하십시오.
 
 ## 프로그램 가져오기 {#importing-a-program}
 
-1. **[!UICONTROL Marketing Activities]**(으)로 이동합니다.
+1. **[!UICONTROL Marketing Activities]** 으로 이동합니다.
 
    ![](assets/import-a-program-1.png)
 
@@ -82,7 +85,3 @@ ht-degree: 2%
 >이미지 유형 내 토큰은 프로그램 가져오기에 지원되지 않습니다. 내 토큰의 이미지 형식이 있는 프로그램을 가져오는 경우 _no_ 토큰이 전달됩니다.
 
 **프로그램 태그:** 충돌 규칙을 사용하여 대상 계정에 없는 프로그램 태그가 처리되는 방식을 제어할 수 있습니다. 기본 규칙을 사용하면 프로그램 태그가 만들어지거나 태그를 무시하도록 선택할 수 있습니다.
-
->[!CAUTION]
->
->프로그램을 가져올 때 [동적 콘텐츠](/help/marketo/product-docs/personalization/segmentation-and-snippets/segmentation/understanding-dynamic-content.md){target="_blank"}가 포함된 이메일/랜딩 페이지를 건너뜁니다.
