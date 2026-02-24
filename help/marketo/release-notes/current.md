@@ -3,10 +3,10 @@ description: 최신 릴리스 정보 - Marketo 설명서 - 제품 설명서
 title: 최신 릴리스 정보
 exl-id: a2eccad5-73ad-48f9-8091-51cee23824e1
 feature: Release Information
-source-git-commit: 223e20c6c29a8392ee582c3bb69a384edfba6427
+source-git-commit: 466f4b43124a2cb0894c4b8ce605521be1c4b4cd
 workflow-type: tm+mt
-source-wordcount: '286'
-ht-degree: 59%
+source-wordcount: '306'
+ht-degree: 56%
 
 ---
 
@@ -43,6 +43,26 @@ Adobe Dynamic Chat에 대한 릴리스 정보는 [여기에서 확인](/help/mar
    <td> </td>
   </tr>
   <tr>
+   <td><strong>이메일 Designer - API</strong>: 이제 이메일 Designer에 대한 API 호출을 사용할 수 있습니다.</td>
+   <td><i>곧 출시 예정</i></td>
+   <td><i>곧 출시 예정</i></td>
+  </tr>
+  <tr>
+   <td> </td>
+   <td> </td>
+   <td> </td>
+  </tr>
+  <tr>
+   <td><strong>이메일 Designer - 브랜드 관리(베타)</strong>: 조직/브랜드별 카피라이팅 지침을 기반으로 이메일 콘텐츠를 생성합니다.</td>
+   <td><i>곧 출시 예정</i></td>
+   <td><i>곧 출시 예정</i></td>
+  </tr>
+  <tr>
+   <td> </td>
+   <td> </td>
+   <td> </td>
+  </tr>
+  <tr>
    <td><strong>이메일 Designer - 브랜드 품질 검사기</strong>: 일반 콘텐츠 품질을 평가하여 브랜드 지침과 관계없이 가독성, 콘텐츠 응집성 및 효과성에 문제가 있을 수 있음을 식별합니다.</td>
    <td><i>곧 출시 예정</i></td>
    <td><i>곧 출시 예정</i></td>
@@ -54,16 +74,6 @@ Adobe Dynamic Chat에 대한 릴리스 정보는 [여기에서 확인](/help/mar
   </tr>
   <tr>
    <td><strong>이메일 Designer - AI Assistant 이미지 생성</strong>: 이제 Firefly 외에도 Nano Banana 모델을 사용하여 이메일 콘텐츠에 대한 AI Assistant를 사용하여 이미지를 생성할 수 있습니다.</td>
-   <td><i>곧 출시 예정</i></td>
-   <td><i>곧 출시 예정</i></td>
-  </tr>
-  <tr>
-   <td> </td>
-   <td> </td>
-   <td> </td>
-  </tr>
-  <tr>
-   <td><strong>이메일 Designer - API</strong>: 이제 이메일 Designer에 대한 API 호출을 사용할 수 있습니다.</td>
    <td><i>곧 출시 예정</i></td>
    <td><i>곧 출시 예정</i></td>
   </tr>
