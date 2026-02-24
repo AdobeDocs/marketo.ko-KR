@@ -5,10 +5,10 @@ description: 새로운 Adobe Marketo Engage 이메일 디자이너에 오신 것
 title: 개요
 feature: Email Designer
 exl-id: d31ce148-1feb-411e-bd10-453a6c7878fb
-source-git-commit: 46b832ccf64b0e9e7eae0d8b3255528db903b422
-workflow-type: ht
+source-git-commit: 735721e66b1cd2e21df5c2b85051d4bfee44d2e0
+workflow-type: tm+mt
 source-wordcount: '659'
-ht-degree: 100%
+ht-degree: 98%
 
 ---
 
@@ -88,7 +88,7 @@ API를 통해 편집되는 에셋은 현재 새 이메일 디자이너에서 지
 
 **템플릿 모듈을 사용자 정의 및 확장할 수 있도록 만들 예정입니까?**
 
-예, 물론입니다. WYSIWYG(what-you-see-is-what-you-get) 편집기로 더 자유롭게 사용자 정의할 수 있습니다.
+예, 물론입니다. WYSIWYG(보이는 것) 편집기로 더 자유롭게 사용자 지정할 수 있습니다.
 
 **새 디자이너에서는 이메일 템플릿 생성 프로세스가 어떻게 작동합니까? 이것은 WYSIWYG입니까 아니면 HTML 지식이 필요합니까?**
 
