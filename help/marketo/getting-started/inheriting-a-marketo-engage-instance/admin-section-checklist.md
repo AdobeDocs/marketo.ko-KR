@@ -293,7 +293,7 @@ ht-degree: 3%
   </tr>
   <tr>
    <td>Adobe Dynamic Chat (해당되는 경우)</td>
-<td>아래 단계를 따라 <a href="https://adminconsole.adobe.com/" target="_blank">Adobe Admin Console</a>에 액세스해야 합니다. 아직 Adobe ID을 설정하지 않은 경우 <a href="https://helpx.adobe.com/manage-account/using/create-update-adobe-id.html" target="_blank">여기에서 설정하는 방법을 알아보세요</a>.
+<td>아래 단계를 따라 <a href="https://adminconsole.adobe.com/" target="_blank">Adobe Admin Console</a>에 액세스해야 합니다. 아직 Adobe ID을 설정하지 않은 경우 <a href="https://helpx.adobe.com/kr/manage-account/using/create-update-adobe-id.html" target="_blank">여기에서 설정하는 방법을 알아보세요</a>.
 <br/>
 <li><a href="/help/marketo/product-docs/demand-generation/dynamic-chat/setup-and-configuration/initial-setup.md" target="_blank">Dynamic Chat 제품 관리자</a> 초대를 수락했습니까? Dynamic Chat이 Marketo Engage 인스턴스에서 활성화되고 사용자가 시스템 관리자로 지정되면 이메일이 전송됩니다.
 <br/>     없는 경우 받은 편지함에서 환영 이메일을 찾고 초대를 수락하여 Adobe ID을 설정합니다.</li>
