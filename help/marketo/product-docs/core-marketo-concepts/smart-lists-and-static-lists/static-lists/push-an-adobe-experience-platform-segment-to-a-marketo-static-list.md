@@ -3,7 +3,7 @@ description: Adobe Experience Platform 세그먼트를 Marketo 정적 목록에 
 title: Adobe Experience Platform 세그먼트를 Marketo 정적 목록으로 푸시
 exl-id: 8df11bf4-06f4-4927-8dfb-954414fce6dc
 feature: Static Lists
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 7f8968210659ed2c51640966115f22da47e42ebf
 workflow-type: tm+mt
 source-wordcount: '601'
 ht-degree: 4%
@@ -17,7 +17,7 @@ ht-degree: 4%
 >[!PREREQUISITES]
 >
 >* [API 역할을 편집](/help/marketo/product-docs/administration/users-and-roles/create-delete-edit-and-change-a-user-role.md#edit-an-existing-role){target="_blank"}하여 API 액세스 드롭다운에 있는 **사람 읽기-쓰기** 권한이 있는지 확인하세요.
->* Marketo에서 [API 사용자 만들기](/help/marketo/product-docs/administration/users-and-roles/create-an-api-only-user.md){target="_blank"}.
+>* Marketo에서 [API 사용자 만들기](/help/marketo/product-docs/administration/marketo-with-adobe-identity/add-api-only-user-for-adobe-ims-enabled-subscriptions.md){target="_blank"}.
 >* **[!UICONTROL Admin]** > **[!UICONTROL Launchpoint]**(으)로 이동합니다. 방금 만든 역할의 이름을 찾아 **[!UICONTROL View Details]**&#x200B;을(를) 클릭합니다. 7단계에 필요할 수 있으므로 **[!UICONTROL Client ID]** 및 **[!UICONTROL Client Secret]**&#x200B;의 정보를 복사하여 저장하십시오.
 >* Marketo에서 정적 목록을 만들거나 이미 만든 목록을 찾아 선택합니다. 신분증이 필요합니다.
 
@@ -99,7 +99,7 @@ ht-degree: 4%
 
    >[!NOTE]
    >
-   >Experience Platform의 속성을 조직이 Marketo Engage에서 액세스할 수 있는 모든 속성에 매핑할 수 있습니다. [API 요청 설명](https://experienceleague.adobe.com/ko/docs/marketo-developer/marketo/rest/lead-database/lead-database#describe){target="_blank"}을(를) 사용하여 조직에서 액세스할 수 있는 특성 필드를 검색합니다.
+   >Experience Platform의 속성을 조직이 Marketo Engage에서 액세스할 수 있는 모든 속성에 매핑할 수 있습니다. [API 요청 설명](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/rest/lead-database/lead-database#describe){target="_blank"}을(를) 사용하여 조직에서 액세스할 수 있는 특성 필드를 검색합니다.
 
 1. **[!UICONTROL Add New Mapping]**&#x200B;을(를) 다시 클릭하고 15단계를 두 번 반복하여 **[!UICONTROL lastName]**&#x200B;을(를) 선택한 다음 **[!UICONTROL companyName]**&#x200B;을(를) 선택하여 성 및 회사 이름을 매핑합니다.
 
