@@ -3,9 +3,9 @@ audience: end-user
 user-guide-title: Marketo 안내서
 user-guide-description: Marketo 제품 설명서
 feature-set: Marketo Engage
-source-git-commit: b6680c404075f13b1713ce28299e60a4d26f4a06
+source-git-commit: bf420edcc79aa551e286302fa002df9162371873
 workflow-type: tm+mt
-source-wordcount: '9336'
+source-wordcount: '9329'
 ht-degree: 99%
 
 ---
@@ -1113,7 +1113,6 @@ ht-degree: 99%
             + [이메일 템플릿 구문](product-docs/email-marketing/general/email-editor-2/email-template-syntax.md)
             + [이메일 편집기 2.0으로 전환](product-docs/email-marketing/general/email-editor-2/transitioning-to-email-editor-2-0.md)
          + 편집기의 기능 {#functions-in-the-editor}
-            + [이메일의 &#39;친구에게 전달&#39; 링크](product-docs/email-marketing/general/functions-in-the-editor/forward-to-a-friend-link-in-emails.md)
             + [이메일에 캘린더 이벤트(.ics) 포함](product-docs/email-marketing/general/functions-in-the-editor/include-a-calendar-event-ics-in-an-email.md)
             + [이메일을 운영화](product-docs/email-marketing/general/functions-in-the-editor/make-an-email-operational.md)
             + [동적 콘텐츠를 포함한 이메일 미리보기](product-docs/email-marketing/general/functions-in-the-editor/preview-an-email-with-dynamic-content.md)
