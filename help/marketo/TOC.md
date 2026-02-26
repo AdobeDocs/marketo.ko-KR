@@ -3,9 +3,9 @@ audience: end-user
 user-guide-title: Marketo 안내서
 user-guide-description: Marketo 제품 설명서
 feature-set: Marketo Engage
-source-git-commit: bf420edcc79aa551e286302fa002df9162371873
+source-git-commit: 5c82b2e793596878186256f993ed3d672152556d
 workflow-type: tm+mt
-source-wordcount: '9329'
+source-wordcount: '9334'
 ht-degree: 99%
 
 ---
@@ -29,12 +29,13 @@ ht-degree: 99%
       + [새 인스턴스 모범 사례: Analytics 체크리스트](getting-started/implementing-a-new-marketo-engage-instance/analytics-checklist.md)
       + [새 인스턴스 모범 사례: 설정 문서화](getting-started/implementing-a-new-marketo-engage-instance/document-your-setup.md)
    + 알아 두어야 할 항목 {#things-to-know}
-      + [Marketo Engage 용어집](getting-started/things-to-know/marketo-engage-glossary.md)
+      + [Marketo Engage 용어](getting-started/things-to-know/marketo-engage-glossary.md)
       + [아이콘 용어집](getting-started/things-to-know/icon-glossary.md)
       + [클래식 아이콘 용어집](getting-started/things-to-know/classic-icon-glossary.md)
       + [도움말 센터](getting-started/things-to-know/help-center.md)
-      + [제품 지식을 위한 AI 지원](getting-started/things-to-know/ai-assistant-for-product-knowledge.md)
-      + [Marketing Nation 커뮤니티](getting-started/things-to-know/community.md)
+      + [시스템 상태 알림 구독](getting-started/things-to-know/subscribe-to-system-status-notifications.md)
+      + [제품 지식을 위한 AI Assistant](getting-started/things-to-know/ai-assistant-for-product-knowledge.md)
+      + [마케팅 국가 커뮤니티](getting-started/things-to-know/community.md)
    + 빠른 성공 {#quick-wins}
       + [설정 및 사용자 추가](getting-started/quick-wins/get-set-up-and-add-a-person.md)
       + [이메일 보내기](getting-started/quick-wins/send-an-email.md)
