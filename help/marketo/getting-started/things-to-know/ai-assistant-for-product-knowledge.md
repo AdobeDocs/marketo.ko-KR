@@ -5,9 +5,9 @@ feature: Getting Started
 hide: true
 hidefromtoc: true
 exl-id: 7e5d14fc-3131-4d83-b502-bd177931506c
-source-git-commit: 3d6d689bf3983ab132dc059111aa826e7e69b2f1
+source-git-commit: b17727645a56dd4417e91ee2d94f680d4dec2ca8
 workflow-type: tm+mt
-source-wordcount: '154'
+source-wordcount: '166'
 ht-degree: 0%
 
 ---
@@ -38,6 +38,8 @@ ht-degree: 0%
    >
    >이 아이콘 ![](assets/icon-arrows.png)을(를) 사용하여 화면을 확장하고 이 아이콘 ![](assets/icon-conversation-history.png)을(를) 사용하여 대화 내용을 보거나 새 대화를 시작합니다.
 
-## 빠른 시작: 60초 비디오 개요 {#video}
+## 빠른 시작: 비디오 개요 {#video}
 
->[!VIDEO](https://video.tv.adobe.com/v/3480122?captions=kor&learn=on){transcript=true}
+제품 지식에 대한 AI Assistant가 작동하는 방식을 약 1분 안에 확인할 수 있습니다.
+
+>[!VIDEO](https://video.tv.adobe.com/v/3480115?learn=on){transcript=true}

@@ -2,12 +2,10 @@
 description: 시스템 상태 알림 구독 - Marketo Engage 문서 - 제품 설명서
 title: 시스템 상태 알림 구독
 feature: Getting Started
-hide: true
-hidefromtoc: true
 exl-id: f4404a26-3b86-4dc7-8ecb-52a24fdb09b4
-source-git-commit: 700e1c62e00ce8d8f510637233de42636e5b90cb
+source-git-commit: b17727645a56dd4417e91ee2d94f680d4dec2ca8
 workflow-type: tm+mt
-source-wordcount: '364'
+source-wordcount: '357'
 ht-degree: 1%
 
 ---
@@ -22,8 +20,6 @@ ht-degree: 1%
 
 ## 데이터 센터 식별 {#identify}
 
-+++데이터 센터 및 pod/서버 식별
-
 1. Marketo Engage의 **관리자** 섹션에서 **내 계정**&#x200B;을 클릭합니다.
 
    ![](assets/subscribe-to-system-status-notifications-1.png)
@@ -34,39 +30,19 @@ ht-degree: 1%
 
 _데이터 센터_ 필드에서 문자는 데이터 센터이고 숫자는 pod입니다. 위의 예에서, 사용자는 pod 49의 Ashburn 데이터 센터에 있습니다.
 
-[구독 만들기](#create-a-subscription)의 7단계에서 이 사용자는 지역 위치 **Marketo Ashburn** 및 pod **ab49**&#x200B;을(를) 선택합니다.
+[아래 섹션](#create-a-subscription)의 7단계에서 이 사용자는 지역 위치 **Marketo Ashburn** 및 pod **ab49**&#x200B;을(를) 선택합니다.
 
-<table style="width:300px;">
-  <tr>
-    <th colspan="2">데이터 센터 약자</th>
-  </tr>
-  <tr>
-    <td style="width:25%;">ab</td>
-    <td>애쉬번</td>
-  </tr>
-  <tr>
-    <td style="width:25%;">sj</td>
-    <td>산호세</td>
-  </tr>
-  <tr>
-    <td style="width:25%;">sn</td>
-    <td>시드니</td>
-  </tr>
-  <tr>
-    <td style="width:25%;">lon</td>
-    <td>런던</td>
-  </tr>
-  <tr>
-    <td style="width:25%;">nld</td>
-    <td>암스테르담</td>
-  </tr>
-</table>
+**데이터 센터 약어**
+
+ab: 애쉬번
+sj: 산호세
+sn: Sydney
+lon: 런던
+nld: 암스테르담
 
 >[!TIP]
 >
 >이 방법을 사용하여 구독이 있는 실시간 Personalization(RTP) pod/서버를 식별할 수도 있습니다.
-
-+++
 
 ## 구독 만들기 {#create-a-subscription}
 
