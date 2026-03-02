@@ -42,4 +42,4 @@ ht-degree: 0%
 
 제품 지식에 대한 AI Assistant가 작동하는 방식을 약 1분 안에 확인할 수 있습니다.
 
->[!VIDEO](https://video.tv.adobe.com/v/3480115?learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3480122?captions=kor&learn=on){transcript=true}
