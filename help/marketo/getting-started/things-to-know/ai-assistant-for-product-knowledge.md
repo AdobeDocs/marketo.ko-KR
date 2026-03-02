@@ -5,9 +5,9 @@ feature: Getting Started
 hide: true
 hidefromtoc: true
 exl-id: 7e5d14fc-3131-4d83-b502-bd177931506c
-source-git-commit: b39db1dae33fee1a7436013845a216fa8995105e
+source-git-commit: 3d6d689bf3983ab132dc059111aa826e7e69b2f1
 workflow-type: tm+mt
-source-wordcount: '163'
+source-wordcount: '154'
 ht-degree: 0%
 
 ---
@@ -24,20 +24,20 @@ ht-degree: 0%
 
 1. 헤더 오른쪽에 있는 AI 도우미 아이콘을 선택합니다.
 
-   스크린샷
+   ![](assets/ai-assistant-pk-1.png)
 
 1. 자연어를 사용하여 원하는 프롬프트를 입력합니다.
 
-   스크린샷
+   ![](assets/ai-assistant-pk-2.png)
 
 1. 프롬프트를 제출하려면 파란색 화살표를 클릭하십시오.
 
-   스크린샷
+   ![](assets/ai-assistant-pk-3.png)
 
    >[!TIP]
    >
-   >이 아이콘(아이콘 이미지)을 사용하여 화면을 확장하고 이 아이콘(아이콘 이미지)을 사용하여 대화 내용을 보거나 새 대화를 시작할 수 있습니다.
+   >이 아이콘 ![](assets/icon-arrows.png)을(를) 사용하여 화면을 확장하고 이 아이콘 ![](assets/icon-conversation-history.png)을(를) 사용하여 대화 내용을 보거나 새 대화를 시작합니다.
 
 ## 빠른 시작: 60초 비디오 개요 {#video}
 
->[!VIDEO](https://video.tv.adobe.com/v/3480122?captions=kor&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3480115?learn=on){transcript=true}
