@@ -83,7 +83,7 @@ Adobe Dynamic Chat에 대한 릴리스 정보는 [여기에서 확인](/help/mar
 
 ## 공지 {#announcements}
 
-* **SEO 기능 사용 중단**: 2026년 3월 31일 화요일에 Marketo Engage은 SEO(검색 엔진 최적화 기능)를 사용하지 않습니다. SEO를 적극적으로 활용하지 않는다면 아무것도 하지 않아도 된다. 최근 SEO를 사용한 경우 데이터를 내보낼 수 있습니다. [자세히 알아보기](https://experienceleaguecommunities.adobe.com/adobe-marketo-engage-27/seo-feature-deprecation-248617){target="_blank"}
+* **SEO 기능 사용 중단**: 2026년 3월 31일 화요일에 Marketo Engage은 SEO(검색 엔진 최적화 기능)를 사용하지 않습니다. SEO를 적극적으로 활용하지 않는다면 아무것도 하지 않아도 된다. 최근 SEO를 사용한 경우 데이터를 내보낼 수 있습니다. [자세히 알아보기](https://experienceleaguecommunities.adobe.com/adobe-marketo-engage-27/seo-feature-deprecation-248617?profile.language=ko){target="_blank"}
 
 * **REST API &#39;access_token&#39; 매개변수 사용 중단**: Marketo REST API 호출을 인증하는 데 사용되는 `access_token` 쿼리 매개변수는 사용 중단될 예정이며 2026년 3월 31일 수요일 이후에는 사용할 수 없습니다. 모든 신규 및 기존 통합은 [여기에 설명](https://experienceleague.adobe.com/ko/docs/marketo-developer/marketo/rest/authentication){target="_blank"}된 대로 &#39;Authorization&#39; 헤더를 사용하여 REST API 호출을 인증해야 합니다.
 
