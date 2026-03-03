@@ -3,7 +3,7 @@ description: 시스템 상태 알림 구독 - Marketo Engage 문서 - 제품 설
 title: 시스템 상태 알림 구독
 feature: Getting Started
 exl-id: f4404a26-3b86-4dc7-8ecb-52a24fdb09b4
-source-git-commit: b17727645a56dd4417e91ee2d94f680d4dec2ca8
+source-git-commit: b056173fbae44ec710ae17172b4a3fc162935dda
 workflow-type: tm+mt
 source-wordcount: '357'
 ht-degree: 1%
@@ -30,15 +30,15 @@ ht-degree: 1%
 
 _데이터 센터_ 필드에서 문자는 데이터 센터이고 숫자는 pod입니다. 위의 예에서, 사용자는 pod 49의 Ashburn 데이터 센터에 있습니다.
 
-[아래 섹션](#create-a-subscription)의 7단계에서 이 사용자는 지역 위치 **Marketo Ashburn** 및 pod **ab49**&#x200B;을(를) 선택합니다.
+[아래 섹션](#create-a-subscription)의 7단계에서 사용자는 지역 위치 **Marketo Ashburn** 및 pod **ab49**&#x200B;을(를) 선택합니다.
 
 **데이터 센터 약어**
 
-ab: 애쉬번
-sj: 산호세
-sn: Sydney
-lon: 런던
-nld: 암스테르담
+* ab: 애쉬번
+* sj: 산호세
+* sn: Sydney
+* lon: 런던
+* nld: 암스테르담
 
 >[!TIP]
 >
