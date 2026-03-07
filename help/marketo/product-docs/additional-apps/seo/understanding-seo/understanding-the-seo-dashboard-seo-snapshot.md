@@ -1,12 +1,12 @@
 ---
 unique-page-id: 2949178
-description: SEO 대시보드 이해 -SEO 스냅샷 - Marketo 문서 - 제품 설명서
+description: SEO 대시보드를 사용하여 사이트에 대한 키워드 등급 트렌드, 평균 페이지 최적화 점수 및 키워드 등급 요약을 볼 수 있습니다.
 title: SEO 대시보드 이해 - SEO 스냅샷
 exl-id: 59ff940f-368c-4e71-9e1f-a6f959811841
 feature: SEO
-source-git-commit: 7e8e947c73ae961becf3c95187ce4742e1b290d5
+source-git-commit: b42922726bebab913436bb0955557339af96d0f5
 workflow-type: tm+mt
-source-wordcount: '277'
+source-wordcount: '287'
 ht-degree: 3%
 
 ---
@@ -19,10 +19,10 @@ ht-degree: 3%
 >
 >2026년 3월 31일에 Marketo Engage은 검색 엔진 최적화 기능을 사용하지 않습니다. 3월 30일 이전에 관련 데이터를 내보내십시오. [자세히 알아보기](https://nation.marketo.com/t5/product-blogs/marketo-engage-seo-feature-deprecation/ba-p/359060){target="_blank"}
 >
->* [내보내기 문제](https://experienceleague.adobe.com/ko/docs/marketo/using/product-docs/additional-apps/seo/pages/seo-export-issues-to-csv){target="_blank"}
->* [키워드 결과 내보내기](https://experienceleague.adobe.com/ko/docs/marketo/using/product-docs/additional-apps/seo/keywords/seo-exporting-keyword-results){target="_blank"}
->* [키워드 트렌드 내보내기](https://experienceleague.adobe.com/ko/docs/marketo/using/product-docs/additional-apps/seo/reports/seo-use-the-keyword-trends-report#exporting-data){target="_blank"}
->* [경쟁업체 키워드 트렌드 내보내기](https://experienceleague.adobe.com/ko/docs/marketo/using/product-docs/additional-apps/seo/reports/seo-use-the-competitor-kw-trends-report#exporting-data){target="_blank"}
+>* [내보내기 문제](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/additional-apps/seo/pages/seo-export-issues-to-csv){target="_blank"}
+>* [키워드 결과 내보내기](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/additional-apps/seo/keywords/seo-exporting-keyword-results){target="_blank"}
+>* [키워드 트렌드 내보내기](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/additional-apps/seo/reports/seo-use-the-keyword-trends-report#exporting-data){target="_blank"}
+>* [경쟁업체 키워드 트렌드 내보내기](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/additional-apps/seo/reports/seo-use-the-competitor-kw-trends-report#exporting-data){target="_blank"}
 
 SEO 작업 개선을 위해 집중해야 할 사항을 알아보려면 이 대시보드의 [[!UICONTROL Recommendations]](/help/marketo/product-docs/additional-apps/seo/understanding-seo/understanding-the-seo-dashboard-seo-recommendations.md) 섹션을 사용하십시오.
 
