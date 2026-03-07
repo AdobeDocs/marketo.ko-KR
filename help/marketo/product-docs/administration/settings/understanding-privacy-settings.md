@@ -68,7 +68,7 @@ Marketo은 마케터에게 웹 방문자의 추적 동의를 얻을 수 있는 �
 
 마케터는 익명화된 IP 주소를 사용하여 사용자를 추적하여 개인 정보를 보존할 수 있습니다. 이렇게 하려면 이 코드를 웹 사이트에 포함된 RTP 또는 [!DNL Munchkin] Javascript에 추가합니다.
 
-* [!DNL Munchkin]의 경우 `{"anonymizeIP",true}`init 함수[에 &#x200B;](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/javascriptapi/leadtracking/configuration){target="_blank"}을(를) 추가하기만 하면 됩니다.
+* [!DNL Munchkin]의 경우 `{"anonymizeIP",true}`init 함수[에 &#x200B;](https://experienceleague.adobe.com/ko/docs/marketo-developer/marketo/javascriptapi/leadtracking/configuration){target="_blank"}을(를) 추가하기만 하면 됩니다.
 
 * 웹 Personalization(RTP)의 경우 이를 javascript에 추가합니다.
 

@@ -27,7 +27,7 @@ ReST API를 통해 Marketo과 통합하려면 사용자 지정 서비스를 만�
 
 >[!TIP]
 >
->[REST API](https://developer.adobe.com/marketo-apis/)에 대한 자세한 내용은 개발자 설명서를 확인하십시오. 필요한 경우 [SOAP API](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/soap/soap-api)도 있습니다.
+>[REST API](https://developer.adobe.com/marketo-apis/)에 대한 자세한 내용은 개발자 설명서를 확인하십시오. 필요한 경우 [SOAP API](https://experienceleague.adobe.com/ko/docs/marketo-developer/marketo/soap/soap-api)도 있습니다.
 
 ## 사용자 정의 서비스 만들기 {#create-custom-service}
 
