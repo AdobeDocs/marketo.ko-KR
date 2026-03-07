@@ -1,12 +1,12 @@
 ---
 unique-page-id: 11382122
-description: 감사 추적 활성화 - Marketo 문서 - 제품 설명서
+description: 역할에 대한 감사 추적 및 로그인 기록을 활성화하고 관리자 권한을 통해 사용자에게 역할을 할당합니다.
 title: 감사 추적 활성화
 exl-id: 3ab2d7b2-1be1-4b3f-a9cc-d3edfa963679
 feature: Audit Trail
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: e894ece3a643113fd3e1d8df9f8addefea5553f5
 workflow-type: tm+mt
-source-wordcount: '212'
+source-wordcount: '223'
 ht-degree: 5%
 
 ---

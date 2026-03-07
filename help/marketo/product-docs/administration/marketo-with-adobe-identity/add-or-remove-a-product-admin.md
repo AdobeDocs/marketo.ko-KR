@@ -1,12 +1,12 @@
 ---
-description: 제품 관리자 - Marketo 문서 - 제품 설명서 추가 또는 제거
+description: Adobe Admin Console에서 제품 관리자를 추가하거나 제거하는 절차.
 title: 제품 관리자 추가 또는 제거
 exl-id: 9c48b830-cce6-48bd-88c4-4d02e3ada2b1
 feature: Marketo with Adobe Identity
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: e894ece3a643113fd3e1d8df9f8addefea5553f5
 workflow-type: tm+mt
-source-wordcount: '275'
-ht-degree: 6%
+source-wordcount: '277'
+ht-degree: 9%
 
 ---
 

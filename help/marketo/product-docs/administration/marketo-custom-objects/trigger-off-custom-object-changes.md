@@ -1,12 +1,12 @@
 ---
 unique-page-id: 11378713
-description: 사용자 지정 개체 변경 트리거 - Marketo 문서 - 제품 설명서
+description: Marketo 사용자 지정 개체에 대한 스마트 캠페인 스마트 목록에서 트리거를 추가 또는 변경하고, 트리거를 추가하고 제한을 설정하는 단계와 함께 사용자 지정 개체를 사용하는 방법입니다.
 title: 사용자 정의 오브젝트 변경 사항 트리거
 exl-id: a2a3d82f-33ae-4191-b114-dbbf944a66c8
 feature: Custom Objects
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: e894ece3a643113fd3e1d8df9f8addefea5553f5
 workflow-type: tm+mt
-source-wordcount: '179'
+source-wordcount: '198'
 ht-degree: 6%
 
 ---

@@ -1,12 +1,12 @@
 ---
 unique-page-id: 10093688
-description: Marketo 사용자 지정 개체 필드 추가 - Marketo 문서 - 제품 설명서
+description: 표시 이름, 설명 및 데이터 유형을 포함하여 사용자 지정 개체에 필드를 추가하는 단계입니다.
 title: Marketo 사용자 정의 오브젝트 필드 추가
 exl-id: 6d776d97-93e2-4708-9ce5-2172e02b71c3
 feature: Custom Objects
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: e894ece3a643113fd3e1d8df9f8addefea5553f5
 workflow-type: tm+mt
-source-wordcount: '277'
+source-wordcount: '283'
 ht-degree: 5%
 
 ---

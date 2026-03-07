@@ -1,12 +1,12 @@
 ---
-description: Adobe Identity Management 개요 - Marketo 문서 - 제품 설명서
+description: 마이그레이션 시간, Admin Console 사용자 관리 및 프로필 수준(시스템 관리자 및 제품 관리자)을 포함한 Marketo Engage용 Adobe Identity Management의 개요입니다.
 title: Adobe Identity Management 개요
 exl-id: 18ddeebc-bc89-411c-9d2c-23df6841cb3a
 feature: Marketo with Adobe Identity
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: e894ece3a643113fd3e1d8df9f8addefea5553f5
 workflow-type: tm+mt
-source-wordcount: '445'
-ht-degree: 2%
+source-wordcount: '462'
+ht-degree: 11%
 
 ---
 
@@ -25,7 +25,7 @@ Adobe ID에 온보딩된 구독의 경우 사용자 관리에 Adobe Admin Consol
 
 >[!NOTE]
 >
->SSO를 구현하지 않고 Adobe 조직에서 SSO를 구현하지 않고 구독이 Adobe ID로 온보딩되었다면 [Marketo 지원](https://nation.marketo.com/){target="_blank"}에 티켓을 제출하고 &quot;SSO를 구현하는 Admin Console의 Marketo&quot;로 주제를 지정하십시오.
+>SSO를 구현하고자 하나 Adobe 조직에서 구현한 SSO 없이 구독이 Adobe ID로 온보딩되었다면 [Marketo 지원](https://nation.marketo.com/){target="_blank"}에 티켓을 제출하고 &quot;SSO를 구현하는 Admin Console의 Marketo&quot;로 주제를 지정하십시오.
 
 ## 프로필 수준 {#profile-levels}
 

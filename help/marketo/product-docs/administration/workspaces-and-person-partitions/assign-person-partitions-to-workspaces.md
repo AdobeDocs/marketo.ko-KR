@@ -1,13 +1,13 @@
 ---
 unique-page-id: 2360317
-description: 작업 공간에 개인 파티션 할당 - Marketo 문서 - 제품 설명서
+description: 작업 영역에 할당된 개인 파티션을 편집하는 방법을 알아봅니다.
 title: 작업 영역에 개인 파티션 할당
 exl-id: 84c539f0-ca68-4be3-a462-cbe9d191dbb6
 feature: Workspaces
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: e894ece3a643113fd3e1d8df9f8addefea5553f5
 workflow-type: tm+mt
-source-wordcount: '128'
-ht-degree: 12%
+source-wordcount: '131'
+ht-degree: 15%
 
 ---
 

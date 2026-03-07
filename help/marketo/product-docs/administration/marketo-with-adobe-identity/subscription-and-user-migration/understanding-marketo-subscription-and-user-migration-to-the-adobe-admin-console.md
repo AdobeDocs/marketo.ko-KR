@@ -1,12 +1,12 @@
 ---
-description: Adobe 관리 콘솔로 Marketo 구독 및 사용자 마이그레이션 이해 - Marketo 설명서 - 제품 설명서
+description: 구독 및 사용자가 Adobe Admin Console으로 마이그레이션할 때 변경되는 내용(시스템 관리자 및 제품 관리자 역할, Adobe ID로 로그인, URL 및 마이그레이션 타임라인 포함).
 title: Adobe 관리 콘솔로 Marketo 구독 및 사용자 마이그레이션 이해
 exl-id: 91e7b56b-2563-4986-a55c-f9760ea88b05
 feature: Marketo with Adobe Identity
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
-workflow-type: ht
-source-wordcount: '1571'
-ht-degree: 100%
+source-git-commit: e894ece3a643113fd3e1d8df9f8addefea5553f5
+workflow-type: tm+mt
+source-wordcount: '1584'
+ht-degree: 98%
 
 ---
 

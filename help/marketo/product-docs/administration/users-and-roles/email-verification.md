@@ -1,11 +1,11 @@
 ---
-description: 이메일 확인 - Marketo 문서 - 제품 설명서
+description: 필수 이유, 초대 흐름, 확인 이메일 및 여러 로그인 ID 해결 등 Marketo Engage 사용자를 위한 이메일 인증 개요입니다.
 title: 이메일 인증
 exl-id: 976e46a7-8c85-45ed-86c1-0c5cdb2d5c3e
 feature: Users and Roles
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: e894ece3a643113fd3e1d8df9f8addefea5553f5
 workflow-type: tm+mt
-source-wordcount: '462'
+source-wordcount: '478'
 ht-degree: 1%
 
 ---

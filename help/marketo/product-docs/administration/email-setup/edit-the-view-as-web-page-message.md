@@ -1,13 +1,13 @@
 ---
 unique-page-id: 2360253
-description: '"웹 페이지로 보기" 메시지 편집 - Marketo 문서 - 제품 설명서'
+description: 필수 변수를 그대로 유지하면서 관리 이메일의 웹 페이지로 보기 링크 텍스트 및 HTML을 사용자 지정합니다.
 title: “웹 페이지로 보기” 메시지 편집
 exl-id: 5541fe6c-7297-4277-8355-ba7b4ac73e2e
 feature: Email Setup
-source-git-commit: 65d607e279fb86b0816ccaec2f4bf3c69e309cb9
+source-git-commit: e894ece3a643113fd3e1d8df9f8addefea5553f5
 workflow-type: tm+mt
-source-wordcount: '155'
-ht-degree: 16%
+source-wordcount: '162'
+ht-degree: 17%
 
 ---
 

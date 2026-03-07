@@ -1,12 +1,12 @@
 ---
 unique-page-id: 11379928
-description: 감사 추적의 변경 세부 정보 - Marketo 문서 - 제품 설명서
+description: 자산 및 관리 작업에 대한 감사 추적 기록에서 변경 세부 사항을 참조합니다.
 title: 감사 추적에서 세부 사항 변경
 exl-id: 5583be62-46a6-42f9-b4b3-0df63a171b2d
 feature: Audit Trail
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: e894ece3a643113fd3e1d8df9f8addefea5553f5
 workflow-type: tm+mt
-source-wordcount: '1902'
+source-wordcount: '1906'
 ht-degree: 12%
 
 ---

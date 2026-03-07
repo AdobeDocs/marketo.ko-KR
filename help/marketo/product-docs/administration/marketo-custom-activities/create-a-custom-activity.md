@@ -1,13 +1,13 @@
 ---
 unique-page-id: 10098479
-description: 사용자 지정 활동 만들기 - Marketo 문서 - 제품 설명서
+description: 이름, API 이름, 필터 및 트리거 정의, 기본 필드를 포함하여 새 사용자 지정 활동을 만드는 단계입니다.
 title: 사용자 정의 활동 만들기
 exl-id: 5b83663e-8578-4a45-b8f8-4db8c2346372
 feature: Custom Activities
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: e894ece3a643113fd3e1d8df9f8addefea5553f5
 workflow-type: tm+mt
-source-wordcount: '97'
-ht-degree: 14%
+source-wordcount: '107'
+ht-degree: 13%
 
 ---
 

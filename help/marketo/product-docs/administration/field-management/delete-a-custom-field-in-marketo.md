@@ -1,12 +1,12 @@
 ---
 unique-page-id: 2360339
-description: Marketo - Marketo 문서 - 제품 설명서에서 사용자 정의 필드 삭제
+description: 사용자 정의 필드가 더 이상 필요하지 않을 때 사용자 인터페이스에서 숨겨 사용 중인 사용자 정의 필드를 제거하는 방법입니다.
 title: Marketo에서 사용자 정의 필드 삭제
 exl-id: 35829827-6e3c-4120-b57f-4fd68a7d4739
 feature: Field Management
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: e894ece3a643113fd3e1d8df9f8addefea5553f5
 workflow-type: tm+mt
-source-wordcount: '84'
+source-wordcount: '95'
 ht-degree: 26%
 
 ---

@@ -1,11 +1,11 @@
 ---
-description: " [!DNL Velocity Scripting] - Marketo 문서 - 제품 설명서에서 사용자 지정 개체 검색 제한 변경"
-title: " [!DNL Velocity Scripting]에서 사용자 지정 개체 검색 제한 변경"
+description: 전자 메일의  [!DNL Velocity] 스크립트에 대한 상위 사용자 지정 개체 검색 제한(10개에서 100개)을 늘리거나 줄이십시오.
+title: ' [!DNL Velocity Scripting]에서 사용자 지정 개체 검색 제한 변경'
 exl-id: ef45205e-421d-4d1d-8c9d-7d627326a90c
 feature: Email Setup
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: e894ece3a643113fd3e1d8df9f8addefea5553f5
 workflow-type: tm+mt
-source-wordcount: '246'
+source-wordcount: '232'
 ht-degree: 0%
 
 ---
@@ -22,20 +22,20 @@ ht-degree: 0%
 
 ## 한도 변경 방법 {#how-to-change-the-limit}
 
-1. **[!UICONTROL 관리자]** 섹션으로 이동합니다.
+1. **[!UICONTROL Admin]** 섹션으로 이동합니다.
 
    ![](assets/change-custom-object-retrieval-limits-in-velocity-scripting-1.png)
 
-1. **[!UICONTROL 전자 메일]**&#x200B;을 클릭하세요.
+1. **[!UICONTROL Email]**&#x200B;를 클릭합니다.
 
    ![](assets/change-custom-object-retrieval-limits-in-velocity-scripting-2.png)
 
-1. [!UICONTROL 사용자 지정 개체 검색 제한] 테이블에서 새 [!UICONTROL 상위 검색 제한]을 입력하고 **[!UICONTROL 변경 내용 저장]**&#x200B;을 클릭합니다.
+1. [!UICONTROL Custom Object Retrieval Limits] 테이블에서 새 [!UICONTROL Parent Retrieval Limit]을(를) 입력하고 **[!UICONTROL Save Changes]**&#x200B;을(를) 클릭합니다.
 
    ![](assets/change-custom-object-retrieval-limits-in-velocity-scripting-3.png)
 
 >[!NOTE]
 >
->[!UICONTROL 상위 검색 제한] 값은 10에서 100 사이여야 합니다. [!UICONTROL 하위 검색 제한]이 자동으로 설정됩니다. 이 작업은 1000을 [!UICONTROL 상위 검색 제한] (으)로 나누어서 수행됩니다. 예를 들어 상위 제한을 50으로 설정하면 하위 제한이 20(1000 ÷ 50 = 20)이 됩니다.
+>[!UICONTROL Parent Retrieval Limit] 값은 10에서 100 사이여야 합니다. [!UICONTROL Child Retrieval Limit]이(가) 자동으로 설정됩니다. 이 작업은 1000을 [!UICONTROL Parent Retrieval Limit]&#x200B;(으)로 나누어서 수행됩니다. 예를 들어 상위 제한을 50으로 설정하면 하위 제한이 20(1000 ÷ 50 = 20)이 됩니다.
 
 좋네! 이제 [!DNL Velocity script]에서 더 많은 사용자 지정 개체에 액세스할 수 있습니다.

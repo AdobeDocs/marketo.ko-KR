@@ -1,12 +1,12 @@
 ---
 unique-page-id: 2360272
-description: 새 프로그램 태그 및 태그 값 만들기 - Marketo 문서 - 제품 설명서
+description: 사용자 지정 프로그램 태그를 만들고 값을 할당하고, 프로그램 유형을 선택하고, 새 프로그램을 만들 때 태그를 필수 항목으로 지정하는 방법.
 title: 새 프로그램 태그 및 태그 값 만들기
 exl-id: 67300761-df6d-45ce-850f-4443789a3be9
 feature: Tags
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: e894ece3a643113fd3e1d8df9f8addefea5553f5
 workflow-type: tm+mt
-source-wordcount: '150'
+source-wordcount: '160'
 ht-degree: 16%
 
 ---

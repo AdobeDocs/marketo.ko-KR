@@ -1,12 +1,12 @@
 ---
-description: 필드를 중요로 표시 - Marketo 문서 - 제품 설명서
+description: 사용자 데이터를 보호하기 위해 필드에 값을 양식에 미리 입력하지 않도록 민감한 것으로 표시합니다.
 title: 필드를 민감한 항목으로 표시
 exl-id: 23af8344-4808-4f91-95e8-9c246153c8b3
 feature: Field Management
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: e894ece3a643113fd3e1d8df9f8addefea5553f5
 workflow-type: tm+mt
-source-wordcount: '90'
-ht-degree: 13%
+source-wordcount: '97'
+ht-degree: 12%
 
 ---
 

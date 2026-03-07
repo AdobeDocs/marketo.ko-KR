@@ -1,12 +1,12 @@
 ---
-description: 사용자 추가 또는 제거 - Marketo 문서 - 제품 설명서
+description: 제품 프로필을 선택하고 사용자 탭을 관리하여 Adobe Admin Console에서 Marketo Engage 사용자를 추가 또는 제거하는 방법입니다.
 title: 사용자 추가 또는 제거
 exl-id: b1087d41-b548-47bd-91b7-282dc902cba3
 feature: Marketo with Adobe Identity
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: e894ece3a643113fd3e1d8df9f8addefea5553f5
 workflow-type: tm+mt
-source-wordcount: '232'
-ht-degree: 6%
+source-wordcount: '246'
+ht-degree: 9%
 
 ---
 

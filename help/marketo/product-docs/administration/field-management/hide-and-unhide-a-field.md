@@ -1,13 +1,13 @@
 ---
 unique-page-id: 2360333
-description: 필드 숨기기 및 숨기기 취소 - Marketo 문서 - 제품 설명서
+description: 더 이상 필요하지 않은 경우 Marketo UI에서 필드를 숨기거나 다시 표시하기 위해 숨김을 해제합니다.
 title: 필드 숨기기 및 숨기기 취소
 exl-id: 14395c31-d0f4-4aec-8592-a60a764a7263
 feature: Field Management
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: e894ece3a643113fd3e1d8df9f8addefea5553f5
 workflow-type: tm+mt
-source-wordcount: '162'
-ht-degree: 13%
+source-wordcount: '169'
+ht-degree: 16%
 
 ---
 

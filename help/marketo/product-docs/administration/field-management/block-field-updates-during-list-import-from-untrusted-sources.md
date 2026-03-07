@@ -1,13 +1,13 @@
 ---
 unique-page-id: 2360335
-description: 신뢰할 수 없는 소스에서 목록 가져오기 중 필드 업데이트 차단 - Marketo 문서 - 제품 설명서
+description: 신뢰할 수 없는 소스에서 목록을 가져오는 동안 키 필드를 덮어쓰지 않도록 차단하여 기존 데이터를 보호합니다.
 title: 신뢰할 수 없는 소스에서 목록 가져오기 중 블록 필드 업데이트
 exl-id: 0fd59f0c-6cb9-442c-937b-da18a4466873
 feature: Field Management
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: e894ece3a643113fd3e1d8df9f8addefea5553f5
 workflow-type: tm+mt
-source-wordcount: '188'
-ht-degree: 13%
+source-wordcount: '191'
+ht-degree: 14%
 
 ---
 

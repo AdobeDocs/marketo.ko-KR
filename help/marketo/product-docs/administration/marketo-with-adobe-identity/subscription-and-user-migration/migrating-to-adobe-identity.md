@@ -1,12 +1,12 @@
 ---
-description: Adobe ID로 마이그레이션 - Marketo 설명서 - 제품 설명서
+description: 구독이 SSO 및 비 SSO 흐름을 포함하여 Adobe ID로 이동할 때 마이그레이션 전 날짜 선택 및 셀프서비스 사용자 마이그레이션을 위해 마이그레이션 콘솔을 사용하는 방법.
 title: Adobe Identity로 마이그레이션
 feature: Marketo with Adobe Identity
 exl-id: a7969204-0ec9-45aa-a206-eff2df8adcd0
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
-workflow-type: ht
-source-wordcount: '2319'
-ht-degree: 100%
+source-git-commit: e894ece3a643113fd3e1d8df9f8addefea5553f5
+workflow-type: tm+mt
+source-wordcount: '2337'
+ht-degree: 98%
 
 ---
 

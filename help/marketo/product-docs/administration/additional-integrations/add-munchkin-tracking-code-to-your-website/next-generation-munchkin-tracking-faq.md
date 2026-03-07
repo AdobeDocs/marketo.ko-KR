@@ -1,14 +1,14 @@
 ---
 unique-page-id: 10096583
-description: 차세대 [!DNL Munchkin] 추적 FAQ - Marketo 문서 - 제품 설명서
+description: 차세대 [!DNL Munchkin] 추적 롤아웃 및 익명 필터 변경에 대한 FAQ입니다.
 title: 다음 세대 [!DNL Munchkin] 추적 FAQ
 exl-id: 283189ac-c817-479a-b896-91233980608c
 feature: Administration, Munchkin Tracking Code
 hide: true
 hidefromtoc: true
-source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
+source-git-commit: e894ece3a643113fd3e1d8df9f8addefea5553f5
 workflow-type: tm+mt
-source-wordcount: '698'
+source-wordcount: '702'
 ht-degree: 0%
 
 ---
@@ -46,8 +46,8 @@ ht-degree: 0%
 >[!NOTE]
 >
 >**트리거**: 방문 웹 페이지, 웹 페이지가 가격 페이지임
->&#x200B;>**흐름**: 변경 점수 +10 및 관심 있는 순간
->&#x200B;>**웹**: 가격 페이지를 조회함
+>**흐름**: 변경 점수 +10 및 관심 있는 순간
+>**웹**: 가격 페이지를 조회함
 >
 >[!DNL Munchkin] V2를 사용하면 익명의 사용자가 가격 책정 페이지를 방문하는 경우 캠페인을 바로 시작하지 않습니다. 익명의 인물이 알려질 때, 우리는 그녀에 대해 이 캠페인을 실행할 것입니다. She will:
 >

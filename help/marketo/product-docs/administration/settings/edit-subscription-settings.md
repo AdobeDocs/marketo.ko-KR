@@ -1,13 +1,13 @@
 ---
 unique-page-id: 10099785
-description: 구독 설정 편집 - Marketo 문서 - 제품 설명서
+description: 여러 구독을 구분할 수 있도록 Marketo 구독에 고유한 표시 이름을 지정하는 방법.
 title: 구독 설정 편집
 exl-id: 005eaf79-60f5-45d5-bf73-e55f93553d64
 feature: Administration
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: e894ece3a643113fd3e1d8df9f8addefea5553f5
 workflow-type: tm+mt
-source-wordcount: '80'
-ht-degree: 10%
+source-wordcount: '90'
+ht-degree: 11%
 
 ---
 
@@ -17,7 +17,7 @@ ht-degree: 10%
 
 예를 들어 프로덕션 인스턴스와 샌드박스 인스턴스 둘 다에서 작업하는 경우 한 구독의 이름을 **Marketo 프로덕션**, 다른 **Marketo 샌드박스**&#x200B;로 지정할 수 있습니다.
 
-1. **[!UICONTROL Admin]**(으)로 이동합니다.
+1. **[!UICONTROL Admin]** 으로 이동합니다.
 
    ![](assets/edit-subscription-settings-1.png)
 

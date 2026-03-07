@@ -1,12 +1,12 @@
 ---
 unique-page-id: 2360360
-description: ' [!DNL Webhook] - Marketo 문서 만들기 - 제품 설명서'
+description: SMS, 개인 데이터 등을 위해 서드파티 웹 서비스를 호출하는 Admin의 웹후크를 만듭니다.
 title: ' [!DNL Webhook] 만들기'
 exl-id: 3e753d2d-6f33-4987-884e-8e13167cf3df
 feature: Administration, Webhooks
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: e894ece3a643113fd3e1d8df9f8addefea5553f5
 workflow-type: tm+mt
-source-wordcount: '181'
+source-wordcount: '191'
 ht-degree: 3%
 
 ---
@@ -51,4 +51,4 @@ ht-degree: 3%
 
 >[!NOTE]
 >
->[[!DNL Webhooks]](https://experienceleague.adobe.com/ko/docs/marketo-developer/marketo/webhooks/webhooks){target="_blank"} 심층 분석에서 자세히 알아보세요.
+>[[!DNL Webhooks]](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/webhooks/webhooks){target="_blank"} 심층 분석에서 자세히 알아보세요.

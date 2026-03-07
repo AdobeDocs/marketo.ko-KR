@@ -1,13 +1,13 @@
 ---
 unique-page-id: 2359918
-description: 랜딩 페이지 설정 편집 - Marketo 문서 - 제품 설명서
+description: 도메인 이름, 대체 페이지, 양식 미리 채우기 및 기타 랜딩 페이지 옵션을 편집하는 방법.
 title: 랜딩 페이지 설정 편집
 exl-id: 019b4651-3a66-46f9-8722-66af30194380
 feature: Administration, Landing Pages
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: e894ece3a643113fd3e1d8df9f8addefea5553f5
 workflow-type: tm+mt
-source-wordcount: '203'
-ht-degree: 9%
+source-wordcount: '209'
+ht-degree: 10%
 
 ---
 

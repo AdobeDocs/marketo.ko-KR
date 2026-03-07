@@ -1,12 +1,12 @@
 ---
 unique-page-id: 10093188
-description: Marketo 사용자 지정 개체 이해 - Marketo 문서 - 제품 설명서
+description: 일대다 및 다대다 관계, 필터, 트리거 및 관리자에서 해당 지표에 액세스할 수 있는 위치를 포함하여 비즈니스별 지표를 추적하기 위한 사용자 지정 개체의 개요입니다.
 title: Marketo 사용자 정의 오브젝트 이해
 exl-id: f18b1689-c7bc-4da0-8326-7b29733d527d
 feature: Custom Objects
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: e894ece3a643113fd3e1d8df9f8addefea5553f5
 workflow-type: tm+mt
-source-wordcount: '689'
+source-wordcount: '703'
 ht-degree: 2%
 
 ---
@@ -71,7 +71,7 @@ ht-degree: 2%
 
 사용자 지정 개체 구조를 만든 후 특정 사용자 지정 개체 데이터를 업로드하면 사용자 지정 개체의 링크 필드를 사용하여 사용자 지정 개체가 자동으로 데이터베이스의 사용자와 연결됩니다. 개인 세부 정보 페이지의 [!UICONTROL Custom Objects] 탭에서 정보를 볼 수 있습니다.
 
-1. **[!UICONTROL Database]**(으)로 이동합니다.
+1. **[!UICONTROL Database]** 으로 이동합니다.
 
    ![](assets/understanding-marketo-custom-objects-5.png)
 

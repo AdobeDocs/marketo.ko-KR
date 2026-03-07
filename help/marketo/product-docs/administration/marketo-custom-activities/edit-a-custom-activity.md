@@ -1,13 +1,13 @@
 ---
 unique-page-id: 10100269
-description: 사용자 지정 활동 편집 - Marketo 문서 - 제품 설명서
+description: 사용자 지정 활동을 편집하는 방법과 초안 또는 게시된 상태가 영향을 받는 방법에 대해 알아봅니다.
 title: 사용자 정의 활동 편집
 exl-id: bdfbf0aa-0035-46d2-80dd-21a1366c6514
 feature: Custom Activities
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: e894ece3a643113fd3e1d8df9f8addefea5553f5
 workflow-type: tm+mt
-source-wordcount: '94'
-ht-degree: 15%
+source-wordcount: '101'
+ht-degree: 14%
 
 ---
 

@@ -1,13 +1,13 @@
 ---
 unique-page-id: 2360305
-description: 개인 세부 정보 페이지에 대한 사용자 정의 탭 만들기 - Marketo 문서 - 제품 설명서
+description: 개인 세부 정보 페이지에 대한 사용자 정의 레이아웃을 만드는 방법
 title: 개인 세부 정보 페이지용 사용자 정의 탭 만들기
 exl-id: 8a8bd4a0-6a18-4576-b4a3-89c31b502cd6
 feature: Administration
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: e894ece3a643113fd3e1d8df9f8addefea5553f5
 workflow-type: tm+mt
-source-wordcount: '142'
-ht-degree: 16%
+source-wordcount: '140'
+ht-degree: 18%
 
 ---
 

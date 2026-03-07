@@ -1,13 +1,13 @@
 ---
 unique-page-id: 2360281
-description: 프로그램 채널 삭제 - Marketo 문서 - 제품 설명서
+description: 프로그램 채널이 프로그램과 연결되어 있지 않을 때 해당 채널을 삭제하거나 사용 중일 때 숨기는 절차.
 title: 프로그램 채널 삭제
 exl-id: 0a46cafb-3f9d-422a-a08c-92bcbb80da8e
 feature: Tags
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: e894ece3a643113fd3e1d8df9f8addefea5553f5
 workflow-type: tm+mt
-source-wordcount: '85'
-ht-degree: 15%
+source-wordcount: '99'
+ht-degree: 13%
 
 ---
 

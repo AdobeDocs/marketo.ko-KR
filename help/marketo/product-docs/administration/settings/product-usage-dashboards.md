@@ -1,13 +1,13 @@
 ---
-description: 제품 사용 대시보드 - Marketo 문서 - 제품 설명서
+description: 제품 사용량 대시보드에 액세스하여 제한, 활동 지표 및 주요 구독 지표에 대한 사용량을 보는 방법.
 title: 제품 사용 대시보드
 hide: true
 hidefromtoc: true
 feature: Administration
 exl-id: a0fa5cd0-a61d-4383-88c0-9f2a4b2c717a
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: e894ece3a643113fd3e1d8df9f8addefea5553f5
 workflow-type: tm+mt
-source-wordcount: '610'
+source-wordcount: '620'
 ht-degree: 1%
 
 ---

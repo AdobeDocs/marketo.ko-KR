@@ -1,12 +1,12 @@
 ---
 unique-page-id: 10100266
-description: 사용자 지정 활동 이해 - Marketo 문서 - 제품 설명서
+description: 비즈니스별 개인 작업을 추적하기 위한 사용자 지정 활동 개요, 사용자 지정 개체와 차이점 및 활동 및 API 구현을 만드는 두 단계 설정입니다.
 title: 사용자 정의 활동 이해
 exl-id: 0bb74d9d-3a9d-4ef7-8c8c-2de36cd6190b
 feature: Custom Activities
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: e894ece3a643113fd3e1d8df9f8addefea5553f5
 workflow-type: tm+mt
-source-wordcount: '259'
+source-wordcount: '278'
 ht-degree: 3%
 
 ---
@@ -37,4 +37,4 @@ ht-degree: 3%
 
 2단계: API를 사용하는 조직의 직원은 구현을 시작할 수 있습니다. 자세한 내용은 [사용자 지정 활동 API](https://developer.adobe.com/marketo-apis/api/mapi/#tag/Activities/operation/addCustomActivityUsingPOST)를 참조하세요.
 
-재밌게 놀아!
+즐겁게 사용해 보십시오!

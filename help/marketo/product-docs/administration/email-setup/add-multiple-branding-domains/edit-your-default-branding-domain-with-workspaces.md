@@ -1,12 +1,12 @@
 ---
 unique-page-id: 11377406
-description: 작업 공간 - Marketo 문서 - 제품 설명서에서 기본 브랜딩 도메인 편집
+description: Marketo에서 작업 공간을 사용할 때 일반 브랜딩 도메인을 회사 도메인으로 변경합니다.
 title: 작업 영역을 사용하여 기본 브랜딩 도메인 편집
 exl-id: f0982793-5b74-41fb-ab6b-08d4084ac9b1
 feature: Email Setup
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: e894ece3a643113fd3e1d8df9f8addefea5553f5
 workflow-type: tm+mt
-source-wordcount: '145'
+source-wordcount: '148'
 ht-degree: 13%
 
 ---

@@ -1,13 +1,13 @@
 ---
 unique-page-id: 10098433
-description: IP 기반 API용 허용 목록에 추가하다 만들기 - Marketo 문서 - 제품 설명서
+description: Admin Web Services IP 제한 사항을 통해 특정 IP 주소 또는 범위로 API 액세스를 제한합니다.
 title: IP 기반 API 액세스에 대한 허용 목록 만들기
 exl-id: 1a2f2216-07ee-4d37-b883-458ea39fc452
 feature: Administration
-source-git-commit: 3595cdc76a0f92da10dc5ddaac64c4cf83056e88
+source-git-commit: e894ece3a643113fd3e1d8df9f8addefea5553f5
 workflow-type: tm+mt
-source-wordcount: '152'
-ht-degree: 13%
+source-wordcount: '156'
+ht-degree: 15%
 
 ---
 
@@ -21,7 +21,7 @@ ht-degree: 13%
 
 >[!NOTE]
 >
->이 기능은 Marketo Engage의 [IP 기반 액세스 제어](https://experienceleague.adobe.com/ko/docs/marketo/using/product-docs/administration/settings/restrict-marketo-logins-based-on-ip){target="_blank"}로 대체되는 Admin Console [IP 기반 로그인 제한](https://helpx.adobe.com/kr/enterprise/using/ip-based-access.html){target="_blank"}과 별도로 작동합니다. Adobe IMS 마이그레이션 후에도 그대로 작동합니다.
+>이 기능은 Marketo Engage의 [IP 기반 액세스 제어](https://experienceleague.adobe.com/ko/docs/marketo/using/product-docs/administration/settings/restrict-marketo-logins-based-on-ip){target="_blank"}로 대체되는 Admin Console [IP 기반 로그인 제한](https://helpx.adobe.com/enterprise/using/ip-based-access.html){target="_blank"}과 별도로 작동합니다. Adobe IMS 마이그레이션 후에도 그대로 작동합니다.
 
 1. **[!UICONTROL Admin]** 영역으로 이동합니다.
 

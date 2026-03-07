@@ -1,13 +1,13 @@
 ---
 unique-page-id: 7512289
-description: " [!DNL GoToWebinar] as a [!DNL LaunchPoint] 서비스 - Marketo 문서 - 제품 설명서 추가"
-title: " [!DNL GoToWebinar] as a [!DNL LaunchPoint] Service 추가"
+description: Marketo에서 웨비나 등록 및 출석을 관리할 수 있도록  [!DNL GoToWebinar] 을(를) LaunchPoint 서비스로 추가합니다.
+title: ' [!DNL GoToWebinar] 서비스로  [!DNL LaunchPoint] 추가'
 exl-id: ebc845df-68e6-408f-8d0f-0c56d7e4baa3
 feature: Administration, Integrations
-source-git-commit: d20a9bb584f69282eefae3704ce4be2179b29d0b
+source-git-commit: e894ece3a643113fd3e1d8df9f8addefea5553f5
 workflow-type: tm+mt
-source-wordcount: '153'
-ht-degree: 0%
+source-wordcount: '137'
+ht-degree: 6%
 
 ---
 
@@ -27,35 +27,35 @@ Marketo에서 [!DNL GoToWebinar] 등록 및 출석을 관리합니다.
 >
 >[!DNL GoToMeeting], [!DNL GoToWebcast] 및 [!DNL GoToTraining]은(는) 현재 지원되지 않습니다.
 
-1. **[!UICONTROL 관리자]** 영역으로 이동합니다.
+1. **[!UICONTROL Admin]** 영역으로 이동합니다.
 
    ![](assets/add-gotowebinar-as-a-launchpoint-service-1.png)
 
-1. **[!UICONTROL LaunchPoint]**&#x200B;을 클릭합니다.
+1. **[!UICONTROL LaunchPoint]**&#x200B;를 클릭합니다.
 
    ![](assets/add-gotowebinar-as-a-launchpoint-service-2.png)
 
-1. **[!UICONTROL 새로 만들기]** 및 **[!UICONTROL 새 서비스]**&#x200B;를 선택하십시오.
+1. **[!UICONTROL New]** 및 **[!UICONTROL New Service]**&#x200B;을(를) 선택합니다.
 
    ![](assets/add-gotowebinar-as-a-launchpoint-service-3.png)
 
-1. **[!UICONTROL 표시 이름]**&#x200B;을 입력하십시오. **[!UICONTROL 서비스]**&#x200B;에서 **[!UICONTROL GoToWebinar]**&#x200B;을(를) 선택합니다.
+1. **[!UICONTROL Display Name]** 입력. **[!UICONTROL Service]**&#x200B;에서 **[!UICONTROL GoToWebinar]**&#x200B;을(를) 선택합니다.
 
    ![](assets/add-gotowebinar-as-a-launchpoint-service-4.png)
 
-1. **[!UICONTROL GoToWebinar에 로그인]**&#x200B;을 클릭합니다.
+1. **[!UICONTROL Log Into GoToWebinar]**&#x200B;를 클릭합니다.
 
    ![](assets/add-gotowebinar-as-a-launchpoint-service-5.png)
 
    >[!NOTE]
    >
-   >Marketo 양식의 회사 이름과 직함을 [!DNL GoToWebinar] (으)로 동기화하려면 **[!UICONTROL 추가 필드 사용]** 상자를 선택하십시오.
+   >Marketo 양식에서 회사 이름과 직함을 [!DNL GoToWebinar]&#x200B;(으)로 동기화하려면 **[!UICONTROL Enable Additional Fields]** 상자를 선택합니다.
 
-1. [!DNL GoToWebinar] 로그인 팝업 창에서 **[!UICONTROL GoToWebinar]** 전자 메일 및 암호를 입력하고 **[!UICONTROL 로그인]**&#x200B;을 클릭합니다.
+1. [!DNL GoToWebinar] 로그인 팝업 창에서 **[!UICONTROL GoToWebinar]** 전자 메일 및 암호를 입력하고 **[!UICONTROL Sign In]**&#x200B;을(를) 클릭합니다.
 
    ![](assets/add-gotowebinar-as-a-launchpoint-service-6.png)
 
-1. 창이 닫히면 **[!UICONTROL 만들기]**&#x200B;를 클릭합니다.
+1. 창을 닫은 후 **[!UICONTROL Create]**&#x200B;을(를) 클릭합니다.
 
    ![](assets/add-gotowebinar-as-a-launchpoint-service-7.png)
 

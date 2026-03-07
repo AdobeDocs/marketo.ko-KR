@@ -1,12 +1,12 @@
 ---
 unique-page-id: 10097613
-description: Marketo 사용자 지정 개체 링크 필드 추가 - Marketo 문서 - 제품 설명서
+description: 중간 개체 사용을 포함하여 일대다 및 다대다 구조를 위해 사용자 지정 개체를 사람 또는 회사에 연결하는 링크 필드를 추가하는 방법.
 title: Marketo 사용자 정의 오브젝트 링크 필드 추가
 exl-id: e7537d79-9fca-4966-881a-9d7d312008e2
 feature: Custom Objects
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: e894ece3a643113fd3e1d8df9f8addefea5553f5
 workflow-type: tm+mt
-source-wordcount: '652'
+source-wordcount: '664'
 ht-degree: 3%
 
 ---

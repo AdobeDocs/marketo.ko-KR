@@ -1,11 +1,11 @@
 ---
-description: 이메일 보트 활동 필터링 - Marketo 문서 - 제품 설명서
+description: IAB 목록 일치 및 근접 패턴을 사용하여 부풀려진 열기 및 클릭을 방지하기 위해 이메일 보트 활동을 필터링하거나 기록하십시오.
 title: 이메일 봇 활동 필터링
 exl-id: 70c97159-72bf-46e5-b29b-247615d0fa80
 feature: Email Setup
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: e894ece3a643113fd3e1d8df9f8addefea5553f5
 workflow-type: tm+mt
-source-wordcount: '456'
+source-wordcount: '467'
 ht-degree: 2%
 
 ---

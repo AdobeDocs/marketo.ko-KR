@@ -1,13 +1,13 @@
 ---
 unique-page-id: 2359909
-description: 사용자 역할 및 권한 관리 - Marketo 문서 - 제품 설명서
+description: 사용자 역할을 설정, 생성 및 편집하고, 사용자에게 역할을 할당하고, 각 Marketo 사용자가 액세스할 수 있는 영역과 기능을 제어하는 방법입니다.
 title: 사용자 역할 및 권한 관리
 exl-id: e0213c5f-04e0-41a9-ac7b-873e2e39ac79
 feature: Users and Roles
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: e894ece3a643113fd3e1d8df9f8addefea5553f5
 workflow-type: tm+mt
-source-wordcount: '455'
-ht-degree: 7%
+source-wordcount: '469'
+ht-degree: 10%
 
 ---
 

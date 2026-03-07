@@ -1,13 +1,13 @@
 ---
 unique-page-id: 2360356
-description: 포털에 SSO(Single Sign-On) 추가 - Marketo 문서 - 제품 설명서
+description: ID 공급자가 Marketo에 대한 사용자를 인증하도록 SAML 2.0 Single Sign-On을 활성화합니다(Adobe IMS에는 적용되지 않음).
 title: 포털에 Single Sign-On 추가
 exl-id: 72f96239-7252-4cbc-bbe1-84ac7ae7f92e
 feature: Administration
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: e894ece3a643113fd3e1d8df9f8addefea5553f5
 workflow-type: tm+mt
-source-wordcount: '571'
-ht-degree: 3%
+source-wordcount: '580'
+ht-degree: 5%
 
 ---
 
@@ -25,7 +25,7 @@ SSO가 활성화되면 IdP는 사용자의 자격 증명을 확인할 수 있습
 
 >[!IMPORTANT]
 >
->Adobe ID에 온보딩된 구독에는 적용되지 않습니다. Adobe ID에 온보딩된 구독의 경우 단일 사인온이 Adobe Admin Console의 Adobe 조직 수준에서 설정됩니다. Adobe Admin Console은 현재 SP로 시작하는 경우에만 지원합니다. [자세히 알아보기](https://helpx.adobe.com/kr/enterprise/using/set-up-identity.html){target="_blank"}.
+>Adobe ID에 온보딩된 구독에는 적용되지 않습니다. Adobe ID에 온보딩된 구독의 경우 단일 사인온이 Adobe Admin Console의 Adobe 조직 수준에서 설정됩니다. Adobe Admin Console은 현재 SP로 시작하는 경우에만 지원합니다. [여기에서 자세히 알아보십시오](https://helpx.adobe.com/kr/enterprise/using/set-up-identity.html){target="_blank"}.
 
 >[!NOTE]
 >

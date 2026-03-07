@@ -1,13 +1,13 @@
 ---
 unique-page-id: 2360346
-description: 목록 가져오기의 필드 별칭 편집 - Marketo 문서 - 제품 설명서
+description: 알 수 없는 열 헤더가 있는 목록 가져오기가 올바른 Marketo 필드에 매핑되도록 필드 별칭을 만들고 편집합니다.
 title: 목록 가져오기를 위한 필드 별칭 편집
 exl-id: 0cc2f4c8-6858-4b41-bae3-4a8d267efe88
 feature: Field Management
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: e894ece3a643113fd3e1d8df9f8addefea5553f5
 workflow-type: tm+mt
-source-wordcount: '120'
-ht-degree: 14%
+source-wordcount: '128'
+ht-degree: 15%
 
 ---
 

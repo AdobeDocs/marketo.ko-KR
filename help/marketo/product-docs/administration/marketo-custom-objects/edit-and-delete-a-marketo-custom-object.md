@@ -1,12 +1,12 @@
 ---
 unique-page-id: 10093690
-description: Marketo 사용자 지정 개체 편집 및 삭제 - Marketo 문서 - 제품 설명서
+description: 사용자 지정 개체를 편집하거나 삭제하는 단계입니다.
 title: Marketo 사용자 정의 오브젝트 편집 및 삭제
 exl-id: 97bae63e-f679-490b-bfa2-51d88355b29c
 feature: Custom Objects
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: e894ece3a643113fd3e1d8df9f8addefea5553f5
 workflow-type: tm+mt
-source-wordcount: '245'
+source-wordcount: '242'
 ht-degree: 10%
 
 ---

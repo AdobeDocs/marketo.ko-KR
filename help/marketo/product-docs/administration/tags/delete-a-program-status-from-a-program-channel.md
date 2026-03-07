@@ -1,13 +1,13 @@
 ---
 unique-page-id: 2360278
-description: 프로그램 채널에서 프로그램 상태 삭제 - Marketo 문서 - 제품 설명서
+description: 상태를 삭제하지 않고 숨겨야 하는 경우를 포함하여 태그에서 관리자의 채널에서 프로그램 상태를 제거하는 방법.
 title: 프로그램 채널에서 프로그램 상태 삭제
 exl-id: 01bda910-cd6d-49df-a300-8163701482cd
 feature: Tags
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: e894ece3a643113fd3e1d8df9f8addefea5553f5
 workflow-type: tm+mt
-source-wordcount: '116'
-ht-degree: 18%
+source-wordcount: '128'
+ht-degree: 16%
 
 ---
 

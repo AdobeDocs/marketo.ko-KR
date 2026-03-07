@@ -1,12 +1,12 @@
 ---
-description: 빠른 안내서 - Marketo 설명서 - 제품 설명서
+description: 시스템 관리 설정, 사용자 관리, API 전용 사용자 및 로그인을 포함하여 Adobe ID를 사용하여 Marketo Engage을 설정하는 링크가 포함된 빠른 참조입니다.
 title: 빠른 안내서
 exl-id: eb854ec8-fabb-477d-977b-9dc7e7d9f24f
 feature: Marketo with Adobe Identity
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
-workflow-type: ht
-source-wordcount: '111'
-ht-degree: 100%
+source-git-commit: e894ece3a643113fd3e1d8df9f8addefea5553f5
+workflow-type: tm+mt
+source-wordcount: '128'
+ht-degree: 82%
 
 ---
 

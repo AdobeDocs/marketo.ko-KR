@@ -1,13 +1,13 @@
 ---
 unique-page-id: 2360213
-description: 보고서 및 경고의 링크 만료 편집 - Marketo 문서 - 제품 설명서
+description: 보고서 구독 이메일의 링크가 유효하게 유지되는 기간(일)을 변경하는 방법.
 title: 보고서 및 알림에서 링크 만료 편집
 exl-id: 9be08798-c413-451b-9b67-893042668061
 feature: Administration
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: e894ece3a643113fd3e1d8df9f8addefea5553f5
 workflow-type: tm+mt
-source-wordcount: '93'
-ht-degree: 18%
+source-wordcount: '95'
+ht-degree: 21%
 
 ---
 

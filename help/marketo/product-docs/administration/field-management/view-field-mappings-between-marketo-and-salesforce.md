@@ -1,13 +1,13 @@
 ---
 unique-page-id: 2360344
-description: "Marketo과  [!DNL Salesforce] - Marketo 문서 - 제품 설명서 간의 필드 매핑 보기"
-title: "Marketo과  [!DNL Salesforce] 간의 필드 매핑 보기"
+description: 관리 필드 관리에서 Marketo 필드에 매핑된  [!DNL Salesforce] 필드를 보는 방법에 대해 알아봅니다.
+title: Marketo과  [!DNL Salesforce] 간의 필드 매핑 보기
 exl-id: a60835ec-da8f-4141-af54-0160e2531581
 feature: Field Management
-source-git-commit: 02b2e39580c5eac63de4b4b7fdaf2a835fdd4ba5
+source-git-commit: e894ece3a643113fd3e1d8df9f8addefea5553f5
 workflow-type: tm+mt
-source-wordcount: '93'
-ht-degree: 0%
+source-wordcount: '95'
+ht-degree: 8%
 
 ---
 
@@ -19,11 +19,11 @@ ht-degree: 0%
 >
 >**관리자 권한 필요**
 
-1. **[!UICONTROL 관리자]** 영역으로 이동합니다.
+1. **[!UICONTROL Admin]** 영역으로 이동합니다.
 
    ![](assets/view-field-mappings-between-marketo-and-salesforce-1.png)
 
-1. **[!UICONTROL 필드 관리]**&#x200B;를 클릭합니다.
+1. **[!UICONTROL Field Management]**&#x200B;를 클릭합니다.
 
    ![](assets/view-field-mappings-between-marketo-and-salesforce-2.png)
 

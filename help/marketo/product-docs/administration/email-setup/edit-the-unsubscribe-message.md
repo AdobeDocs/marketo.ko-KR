@@ -1,13 +1,13 @@
 ---
 unique-page-id: 2360251
-description: 구독 취소 메시지 편집 - Marketo 문서 - 제품 설명서
+description: 관리자 이메일의 마케팅 이메일에 첨부된 기본 구독 취소 텍스트 및 링크를 변경합니다.
 title: 구독 취소 메시지 편집
 exl-id: 68a3ebc1-b2c9-4e6c-bb13-e5a94c9596d2
 feature: Email Setup
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: e894ece3a643113fd3e1d8df9f8addefea5553f5
 workflow-type: tm+mt
-source-wordcount: '127'
-ht-degree: 8%
+source-wordcount: '133'
+ht-degree: 10%
 
 ---
 

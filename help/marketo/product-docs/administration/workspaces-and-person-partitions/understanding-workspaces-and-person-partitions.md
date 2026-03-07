@@ -1,13 +1,13 @@
 ---
 unique-page-id: 2360309
-description: 작업 영역 및 개인 파티션 이해 - Marketo 설명서 - 제품 설명서
+description: 작업 영역에서 마케팅 자산을 구성하는 방법과 개인 파티션이 별도의 데이터베이스로 작동하는 방법에 대해 알아봅니다.
 title: 작업 영역 및 개인 파티션 이해
 exl-id: 27d00a0d-ebf1-4dff-b41e-1644ec9dbd28
 feature: Partitions, Workspaces
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
-workflow-type: ht
-source-wordcount: '528'
-ht-degree: 100%
+source-git-commit: e894ece3a643113fd3e1d8df9f8addefea5553f5
+workflow-type: tm+mt
+source-wordcount: '533'
+ht-degree: 97%
 
 ---
 

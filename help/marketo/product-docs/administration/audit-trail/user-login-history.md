@@ -1,13 +1,13 @@
 ---
 unique-page-id: 11377958
-description: 사용자 로그인 내역 - Marketo 문서 - 제품 설명서
+description: 관리자 사용자 및 역할을 통해 구독에 로그인한 사용자와 실패한 시도를 포함한 시점을 봅니다.
 title: 사용자 로그인 기록
 exl-id: 4ae3f755-28af-48b5-abe1-377c6952d00a
 feature: Audit Trail
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: e894ece3a643113fd3e1d8df9f8addefea5553f5
 workflow-type: tm+mt
-source-wordcount: '169'
-ht-degree: 9%
+source-wordcount: '179'
+ht-degree: 8%
 
 ---
 

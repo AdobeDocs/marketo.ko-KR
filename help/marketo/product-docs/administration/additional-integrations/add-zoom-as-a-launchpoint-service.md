@@ -1,13 +1,13 @@
 ---
 unique-page-id: 17728028
-description: ' [!DNL Zoom] as a [!DNL LaunchPoint] 서비스 추가 - Marketo 문서 - 제품 설명서'
+description: Marketo에서 웨비나 등록 및 출석을 관리할 수 있도록  [!DNL Zoom] 을(를) LaunchPoint 서비스로 추가하십시오.
 title: ' [!DNL Zoom] 서비스로  [!DNL LaunchPoint] 추가'
 exl-id: f5ea016e-d4ca-4adf-be29-14810e9f509c
 feature: Administration, Integrations
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: e894ece3a643113fd3e1d8df9f8addefea5553f5
 workflow-type: tm+mt
-source-wordcount: '113'
-ht-degree: 1%
+source-wordcount: '118'
+ht-degree: 7%
 
 ---
 
@@ -27,7 +27,7 @@ Marketo에서 [!DNL Zoom] 등록 및 출석을 관리합니다.
 
    ![](assets/add-zoom-as-a-launchpoint-service-1.png)
 
-1. **[!UICONTROL LaunchPoint]**&#x200B;을(를) 클릭합니다.
+1. **[!UICONTROL LaunchPoint]**&#x200B;를 클릭합니다.
 
    ![](assets/add-zoom-as-a-launchpoint-service-2.png)
 
@@ -39,7 +39,7 @@ Marketo에서 [!DNL Zoom] 등록 및 출석을 관리합니다.
 
    ![](assets/add-zoom-as-a-launchpoint-service-4.png)
 
-1. **[!UICONTROL Log Into Zoom]**&#x200B;을(를) 클릭합니다.
+1. **[!UICONTROL Log Into Zoom]**&#x200B;를 클릭합니다.
 
    ![](assets/add-zoom-as-a-launchpoint-service-5.png)
 

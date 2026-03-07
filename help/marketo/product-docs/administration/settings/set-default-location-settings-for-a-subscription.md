@@ -1,12 +1,12 @@
 ---
 unique-page-id: 2359902
-description: 구독에 대한 기본 위치 설정 - Marketo 문서 - 제품 설명서
+description: 관리자가 언어, 로케일, 시간대 및 통화를 포함하여 구독에 대한 기본 위치 설정을 보고 편집하는 방법입니다.
 title: 구독에 대한 기본 위치 설정
 exl-id: 9181e22b-be60-4dc0-bc75-f4583ee5dbea
 feature: Administration
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: e894ece3a643113fd3e1d8df9f8addefea5553f5
 workflow-type: tm+mt
-source-wordcount: '234'
+source-wordcount: '241'
 ht-degree: 11%
 
 ---

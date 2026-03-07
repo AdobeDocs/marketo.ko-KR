@@ -1,12 +1,12 @@
 ---
 unique-page-id: 2360337
-description: 연결된 문자열(수식) 필드 만들기 및 사용 - Marketo 문서 - 제품 설명서
+description: 여러 필드의 값을 결합하거나 Marketo Engage의 공식 필드를 사용하여 조건부 값을 작성합니다.
 title: 연결된 문자열(수식) 필드 만들기 및 사용
 exl-id: 779fbc56-a913-422a-a778-d86cc3ed7d48
 feature: Field Management
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: e894ece3a643113fd3e1d8df9f8addefea5553f5
 workflow-type: tm+mt
-source-wordcount: '158'
+source-wordcount: '161'
 ht-degree: 13%
 
 ---
@@ -45,7 +45,7 @@ ht-degree: 13%
 
    >[!TIP]
    >
-   >흐름 단계[에 대한 &#x200B;](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/use-tokens-in-flow-steps.md)토큰에 대해 자세히 알아보세요.
+   >흐름 단계[에 대한 ](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/use-tokens-in-flow-steps.md)토큰에 대해 자세히 알아보세요.
 
 1. 이제 공식 필드를 이메일에 토큰으로 추가할 수 있습니다.
 

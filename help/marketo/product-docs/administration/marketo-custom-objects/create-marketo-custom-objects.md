@@ -1,12 +1,12 @@
 ---
 unique-page-id: 10093192
-description: Marketo 사용자 지정 개체 만들기 - Marketo 문서 - 제품 설명서
+description: 표시 이름, API 이름 및 잠재 고객에 표시를 포함하여 일대다 또는 다대다 구조에 대한 Marketo 사용자 지정 개체를 만드는 단계입니다.
 title: Marketo 사용자 정의 오브젝트 만들기
 exl-id: d68b41e1-a12b-436f-aad7-42c7264cd901
 feature: Custom Objects
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: e894ece3a643113fd3e1d8df9f8addefea5553f5
 workflow-type: tm+mt
-source-wordcount: '616'
+source-wordcount: '629'
 ht-degree: 5%
 
 ---

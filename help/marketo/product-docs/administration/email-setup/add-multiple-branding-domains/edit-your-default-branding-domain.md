@@ -1,12 +1,12 @@
 ---
 unique-page-id: 11377392
-description: 기본 브랜딩 도메인 편집 - Marketo 문서 - 제품 설명서
+description: 관리 이메일에서 일반 추적 도메인을 회사 브랜디드 도메인으로 바꿉니다(CNAME 설정 필요).
 title: 기본 브랜딩 도메인 편집
 exl-id: 961d4195-2c4c-4b33-81f0-dd11ec3fb500
 feature: Email Setup
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: e894ece3a643113fd3e1d8df9f8addefea5553f5
 workflow-type: tm+mt
-source-wordcount: '124'
+source-wordcount: '131'
 ht-degree: 12%
 
 ---

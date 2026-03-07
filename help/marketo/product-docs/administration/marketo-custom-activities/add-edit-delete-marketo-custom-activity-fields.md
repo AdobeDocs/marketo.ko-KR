@@ -1,10 +1,10 @@
 ---
 unique-page-id: 10100275
-description: Marketo 사용자 지정 활동 필드 추가/편집/삭제 - Marketo 문서 - 제품 설명서
+description: 사용자 지정 활동에서 필드를 추가, 편집 또는 삭제하는 방법입니다.
 title: Marketo 사용자 정의 활동 필드 추가/편집/삭제
 exl-id: cd47f21d-c1d1-4abc-85f8-7823b28cd98a
 feature: Custom Activities
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: e894ece3a643113fd3e1d8df9f8addefea5553f5
 workflow-type: tm+mt
 source-wordcount: '262'
 ht-degree: 14%

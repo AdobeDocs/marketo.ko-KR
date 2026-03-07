@@ -1,13 +1,13 @@
 ---
 unique-page-id: 2360222
-description: 통신 제한 활성화 - Marketo 문서 - 제품 설명서
+description: 상대와 과도한 커뮤니케이션을 방지하기 위해 일별 및 7일별 이메일 제한을 설정합니다.
 title: 통신 제한 활성화
 exl-id: c69c083c-08fe-49fc-91d4-5b1ff82a2e52
 feature: Email Setup
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: e894ece3a643113fd3e1d8df9f8addefea5553f5
 workflow-type: tm+mt
-source-wordcount: '141'
-ht-degree: 10%
+source-wordcount: '147'
+ht-degree: 12%
 
 ---
 

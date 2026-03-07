@@ -1,13 +1,13 @@
 ---
 unique-page-id: 45417092
-description: 필드에서 데이터에 의해 사용되는 내보내기 - Marketo 문서 - 제품 설명서
+description: 팀에 링크 해제를 위임할 수 있도록 필드를 사용하는 자산 목록을 내보냅니다.
 title: 필드의 사용 데이터 내보내기
 exl-id: 6d7aab4d-1c4d-48f8-aeea-a926628ebf0d
 feature: Field Management
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: e894ece3a643113fd3e1d8df9f8addefea5553f5
 workflow-type: tm+mt
-source-wordcount: '94'
-ht-degree: 25%
+source-wordcount: '100'
+ht-degree: 27%
 
 ---
 

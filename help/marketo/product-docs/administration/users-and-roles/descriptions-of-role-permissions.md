@@ -1,12 +1,12 @@
 ---
 unique-page-id: 6848747
-description: 역할 권한 설명 - Marketo 문서 - 제품 설명서
+description: 액세스 관리자, 액세스 API 및 역할을 만들거나 편집할 때 할당할 수 있는 기타 권한 그룹을 포함한 Marketo의 모든 역할 권한 목록을 참조하십시오.
 title: 역할 권한 설명
 exl-id: 00963cd9-2d53-455f-bc6f-42a573468ff9
 feature: Users and Roles
-source-git-commit: 78af5df3bd62754e6c3097f0497930948bc109d8
+source-git-commit: e894ece3a643113fd3e1d8df9f8addefea5553f5
 workflow-type: tm+mt
-source-wordcount: '1451'
+source-wordcount: '1468'
 ht-degree: 1%
 
 ---

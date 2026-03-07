@@ -1,13 +1,13 @@
 ---
 unique-page-id: 2360198
-description: 사용자 역할 만들기, 삭제, 편집 및 변경 - Marketo 문서 - 제품 설명서
+description: 이름 지정 역할, 권한 선택 및 변경할 수 없는 시스템 역할을 포함하여 사용자 역할을 생성, 삭제 및 편집하는 단계입니다.
 title: 사용자 역할 만들기, 삭제, 편집 및 변경
 exl-id: e5bb3184-32a6-4c5b-9d84-f3252ba5f73c
 feature: Users and Roles
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: e894ece3a643113fd3e1d8df9f8addefea5553f5
 workflow-type: tm+mt
-source-wordcount: '268'
-ht-degree: 13%
+source-wordcount: '276'
+ht-degree: 15%
 
 ---
 

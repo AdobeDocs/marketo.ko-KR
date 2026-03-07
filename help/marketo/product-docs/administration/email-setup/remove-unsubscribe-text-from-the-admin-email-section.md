@@ -1,12 +1,12 @@
 ---
 unique-page-id: 2360245
-description: 관리자 이메일 섹션 - Marketo 문서 - 제품 설명서에서 구독 취소 텍스트 제거
+description: 템플릿에 링크를 작성할 때 HTML 주석을 사용하여 관리자 이메일에서 기본 구독 취소 콘텐츠를 제거합니다.
 title: 관리자 이메일 섹션에서 구독 취소 텍스트 제거
 exl-id: 2961a9b6-8b35-4227-bf8a-a07b2664a6c4
 feature: Email Setup
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: e894ece3a643113fd3e1d8df9f8addefea5553f5
 workflow-type: tm+mt
-source-wordcount: '158'
+source-wordcount: '165'
 ht-degree: 3%
 
 ---

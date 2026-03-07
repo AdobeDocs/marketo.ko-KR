@@ -1,13 +1,13 @@
 ---
 unique-page-id: 7512272
-description: ' [!DNL Webex] as a [!DNL LaunchPoint] 서비스 추가 - Marketo 문서 - 제품 설명서'
+description: Marketo에 등록 및 참석을 동기화하려면  [!DNL Webex] 웨비나를 LaunchPoint 서비스로 추가하십시오.
 title: ' [!DNL Webex] 서비스로  [!DNL LaunchPoint] 추가'
 exl-id: 2c2cedde-d38f-4d53-a760-104b517afc4c
 feature: Administration, Integrations
-source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
+source-git-commit: e894ece3a643113fd3e1d8df9f8addefea5553f5
 workflow-type: tm+mt
-source-wordcount: '96'
-ht-degree: 3%
+source-wordcount: '101'
+ht-degree: 9%
 
 ---
 
@@ -23,7 +23,7 @@ Marketo Engage에서 [!DNL Webex] 웨비나 등록 및 출석을 관리합니다
 
    ![](assets/add-webex-as-a-launchpoint-service-1.png)
 
-1. **[!UICONTROL LaunchPoint]**&#x200B;을(를) 클릭합니다.
+1. **[!UICONTROL LaunchPoint]**&#x200B;를 클릭합니다.
 
    ![](assets/add-webex-as-a-launchpoint-service-2.png)
 
@@ -35,7 +35,7 @@ Marketo Engage에서 [!DNL Webex] 웨비나 등록 및 출석을 관리합니다
 
    ![](assets/add-webex-as-a-launchpoint-service-4.png)
 
-1. **[!UICONTROL Log Into Webex Webinars]**&#x200B;을(를) 클릭합니다.
+1. **[!UICONTROL Log Into Webex Webinars]**&#x200B;를 클릭합니다.
 
    ![](assets/add-webex-as-a-launchpoint-service-5.png)
 
@@ -43,7 +43,7 @@ Marketo Engage에서 [!DNL Webex] 웨비나 등록 및 출석을 관리합니다
 
    ![](assets/add-webex-as-a-launchpoint-service-6.png)
 
-1. 로그인에 성공하면 탭이 닫히고 Marketo Engage의 _새 서비스_ 모달에는 &quot;Webex Webinars 계정이 설정되었습니다&quot;라고 표시됩니다. **[!UICONTROL Create]**&#x200B;을(를) 클릭합니다.
+1. 로그인에 성공하면 탭이 닫히고 Marketo Engage의 _새 서비스_ 모달에는 &quot;Webex Webinars 계정이 설정되었습니다&quot;라고 표시됩니다. **[!UICONTROL Create]**&#x200B;를 클릭합니다.
 
    ![](assets/add-webex-as-a-launchpoint-service-7.png)
 

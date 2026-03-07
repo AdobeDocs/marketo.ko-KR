@@ -1,18 +1,18 @@
 ---
-description: 벌크 내보내기 API 정보 - Marketo 문서 - 제품 설명서
+description: 지난 7일 동안의 대량 추출 API 용량 사용을 확인하고 할당이 재설정되는 방법입니다.
 title: 일괄 내보내기 API 정보
 exl-id: 527c446b-d5d1-458a-bc4d-d4eb53339ed6
 feature: Administration
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: e894ece3a643113fd3e1d8df9f8addefea5553f5
 workflow-type: tm+mt
-source-wordcount: '94'
-ht-degree: 13%
+source-wordcount: '103'
+ht-degree: 12%
 
 ---
 
 # 일괄 내보내기 API 정보 {#bulk-export-api-information}
 
-지난 7일 동안 Marketo Engage 인스턴스에서 얼마나 많은 [대량 추출 API](https://experienceleague.adobe.com/ko/docs/marketo-developer/marketo/rest/bulk-extract/bulk-extract){target="_blank"} 용량을 사용했는지 확인하는 방법을 알아봅니다.
+지난 7일 동안 Marketo Engage 인스턴스에서 얼마나 많은 [대량 추출 API](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/rest/bulk-extract/bulk-extract){target="_blank"} 용량을 사용했는지 확인하는 방법을 알아봅니다.
 
 >[!NOTE]
 >

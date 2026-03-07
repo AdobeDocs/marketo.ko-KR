@@ -1,11 +1,11 @@
 ---
-description: 랜딩 페이지 헤더 - Marketo 문서 - 제품 설명서
+description: Strict-Transport-Security 및 X-Frame-Options를 포함하여 랜딩 페이지 도메인에 대한 HTTP 헤더를 사용자 지정하는 방법
 title: 랜딩 페이지 헤더
 exl-id: 58eaa0cd-2a2b-4abe-9180-f60a2a1dcc87
 feature: Administration, Landing Pages
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: e894ece3a643113fd3e1d8df9f8addefea5553f5
 workflow-type: tm+mt
-source-wordcount: '122'
+source-wordcount: '128'
 ht-degree: 5%
 
 ---

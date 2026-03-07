@@ -1,13 +1,13 @@
 ---
 unique-page-id: 2360311
-description: 새 Workspace 만들기 - Marketo 문서 - 제품 설명서
+description: 작업 영역 이름 지정, 개인 파티션 선택, 기본 브랜드 도메인 선택, 작업 영역 언어 설정을 포함하여 새 작업 영역을 만드는 단계입니다.
 title: 새 작업 영역 만들기
 exl-id: 04245a92-55e0-4b18-9506-aa060cc62dc6
 feature: Workspaces
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: e894ece3a643113fd3e1d8df9f8addefea5553f5
 workflow-type: tm+mt
-source-wordcount: '194'
-ht-degree: 7%
+source-wordcount: '208'
+ht-degree: 8%
 
 ---
 
@@ -30,7 +30,7 @@ ht-degree: 7%
 
 >[!TIP]
 >
->Workspace 모범 사례에 대한 자세한 내용은 [Marketo Professional Services](https://business.adobe.com/kr/products/marketo/services-support.html){target="_blank"}에 문의하세요.
+>Workspace 모범 사례에 대한 자세한 내용은 [Marketo Professional Services](https://business.adobe.com/products/marketo/services-support.html){target="_blank"}에 문의하세요.
 
 1. **[!UICONTROL Admin]** 영역으로 이동합니다.
 

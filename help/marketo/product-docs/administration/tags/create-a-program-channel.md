@@ -1,13 +1,13 @@
 ---
 unique-page-id: 2950682
-description: 프로그램 채널 만들기 - Marketo 문서 - 제품 설명서
+description: 프로그램 유형, 성공 상태 및 이벤트에 대한 모바일 체크인 옵션을 포함하여 상태 및 진행 단계로 프로그램 채널을 만드는 단계입니다.
 title: 프로그램 채널 만들기
 exl-id: 7b4e15db-c221-45a9-9588-99eb2510cde7
 feature: Tags
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: e894ece3a643113fd3e1d8df9f8addefea5553f5
 workflow-type: tm+mt
-source-wordcount: '387'
-ht-degree: 3%
+source-wordcount: '401'
+ht-degree: 4%
 
 ---
 

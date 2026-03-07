@@ -1,13 +1,13 @@
 ---
 unique-page-id: 10100272
-description: 사용자 지정 활동 게시 - Marketo 문서 - 제품 설명서
+description: 사용자 지정 활동을 게시하는 단계입니다.
 title: 사용자 정의 활동 게시
 exl-id: 16ac19ed-8c31-4ddf-819e-72a0ec8a3904
 feature: Custom Activities
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: e894ece3a643113fd3e1d8df9f8addefea5553f5
 workflow-type: tm+mt
-source-wordcount: '60'
-ht-degree: 30%
+source-wordcount: '58'
+ht-degree: 31%
 
 ---
 

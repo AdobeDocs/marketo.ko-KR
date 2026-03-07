@@ -1,13 +1,13 @@
 ---
 unique-page-id: 4719071
-description: 계정 설정 편집 - Marketo 문서 - 제품 설명서
+description: 계정 이메일 주소, 이름 또는 전화번호를 업데이트하는 절차.
 title: 계정 설정 편집
 exl-id: 770841b8-dbaa-4bb6-bcc0-5ea07e8f7b6c
 feature: Administration
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: e894ece3a643113fd3e1d8df9f8addefea5553f5
 workflow-type: tm+mt
-source-wordcount: '41'
-ht-degree: 29%
+source-wordcount: '45'
+ht-degree: 33%
 
 ---
 

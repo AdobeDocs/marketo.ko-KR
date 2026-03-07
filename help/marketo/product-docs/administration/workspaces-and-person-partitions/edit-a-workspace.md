@@ -1,13 +1,13 @@
 ---
 unique-page-id: 11380986
-description: Workspace 편집 - Marketo 문서 - 제품 설명서
+description: 작업 영역의 리드 파티션, 주 개인 파티션 및 주 브랜드 도메인을 변경하는 방법에 대해 알아봅니다.
 title: 작업 영역 편집
 exl-id: 4c268759-5234-465b-8666-dcb47a0d7ea4
 feature: Workspaces
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: e894ece3a643113fd3e1d8df9f8addefea5553f5
 workflow-type: tm+mt
-source-wordcount: '136'
-ht-degree: 10%
+source-wordcount: '144'
+ht-degree: 11%
 
 ---
 

@@ -1,13 +1,13 @@
 ---
 unique-page-id: 2360325
-description: Workspace - Marketo 문서 - 제품 설명서에 대한 사용자 액세스 허용
+description: 사용자에게 하나 이상의 작업 영역에 대한 액세스 권한을 부여하는 절차.
 title: 사용자에게 작업 영역에 대한 액세스 권한 허용
 exl-id: 8ccec529-ae28-4bf8-a9ba-4d9c7df809d9
 feature: Workspaces
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: e894ece3a643113fd3e1d8df9f8addefea5553f5
 workflow-type: tm+mt
-source-wordcount: '110'
-ht-degree: 15%
+source-wordcount: '111'
+ht-degree: 18%
 
 ---
 

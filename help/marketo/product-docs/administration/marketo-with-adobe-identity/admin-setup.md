@@ -1,12 +1,12 @@
 ---
-description: 관리자 설정 - Marketo 문서 - 제품 설명서
+description: Adobe Admin Console에 추가된 후 Adobe 시스템 관리자를 위한 초기 설정 단계(Marketo Engage에서 제품 프로필 만들기 포함).
 title: 관리자 설정
 exl-id: e753f61a-b2ad-4b2e-94e7-d7a391f030d8
 feature: Marketo with Adobe Identity
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: e894ece3a643113fd3e1d8df9f8addefea5553f5
 workflow-type: tm+mt
-source-wordcount: '212'
-ht-degree: 5%
+source-wordcount: '229'
+ht-degree: 4%
 
 ---
 
@@ -20,7 +20,7 @@ Adobe 조직의 Marketo Engage에 Adobe 시스템 관리자로 추가된 후 몇
 
    ![](assets/admin-setup-1.png)
 
-1. 이전에 Adobe ID으로 애플리케이션에 액세스한 경우 Adobe Admin Console으로 바로 이동합니다. 그렇지 않으면 [Adobe ID을 설정](https://helpx.adobe.com/kr/manage-account/using/create-update-adobe-id.html){target="_blank"}합니다.
+1. 이전에 Adobe ID으로 애플리케이션에 액세스한 경우 Adobe Admin Console으로 바로 이동합니다. 그렇지 않으면 [Adobe ID을 설정](https://helpx.adobe.com/manage-account/using/create-update-adobe-id.html){target="_blank"}합니다.
 
    ![](assets/admin-setup-2.png)
 

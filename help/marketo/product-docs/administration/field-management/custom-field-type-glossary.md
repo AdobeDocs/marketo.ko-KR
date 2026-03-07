@@ -1,12 +1,12 @@
 ---
 unique-page-id: 2951259
-description: 사용자 정의 필드 유형 용어집 - Marketo 문서 - 제품 설명서
+description: 부울, 통화, 날짜, 이메일, 공식 등을 포함하여 Marketo의 사용자 정의 필드 유형에 대한 참조.
 title: 사용자 정의 필드 유형 용어집
 exl-id: 495d4deb-28f1-4044-98d3-27c20756fe73
 feature: Field Management
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: e894ece3a643113fd3e1d8df9f8addefea5553f5
 workflow-type: tm+mt
-source-wordcount: '594'
+source-wordcount: '601'
 ht-degree: 3%
 
 ---
@@ -43,7 +43,7 @@ Marketo에서 사용자 정의 필드를 만들 때 선택할 수 있는 유형 
 
 **연산자**: is, is not, between, greater than, less than, least, is empty, is not empty
 
-## Date {#date}
+## 일자 {#date}
 
 **예제 이름:** 갱신 날짜 - 고객 갱신 날짜를 저장합니다.
 

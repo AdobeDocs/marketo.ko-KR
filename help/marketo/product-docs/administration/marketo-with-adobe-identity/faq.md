@@ -1,12 +1,12 @@
 ---
-description: Adobe Identity Management FAQ - Marketo 설명서 - 제품 설명서
+description: 마이그레이션, URL, SSO, 제품 관리자 대 Marketo Engage 관리자, 허용 목록에 추가 등 Adobe for Marketo ID에 대해 자주 묻는 질문입니다.
 title: Adobe Identity Management FAQ
 feature: Marketo with Adobe Identity
 exl-id: 2401def7-1696-4d77-a8a3-96c490517121
-source-git-commit: 95ed91736b7276dd7a5b9e09958c1f09832ae719
-workflow-type: ht
-source-wordcount: '1579'
-ht-degree: 100%
+source-git-commit: e894ece3a643113fd3e1d8df9f8addefea5553f5
+workflow-type: tm+mt
+source-wordcount: '1591'
+ht-degree: 98%
 
 ---
 

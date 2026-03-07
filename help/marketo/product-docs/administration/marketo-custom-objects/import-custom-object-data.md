@@ -1,13 +1,13 @@
 ---
 unique-page-id: 10099680
-description: 사용자 지정 개체 데이터 가져오기 - Marketo 문서 - 제품 설명서
+description: 사용자 지정 개체 선택, 중복 제거 모드 및 필드 매핑을 포함하여 CSV 파일을 사용하여 사용자 지정 개체 데이터를 가져오는 단계입니다.
 title: 사용자 정의 오브젝트 데이터 가져오기
 exl-id: ee11199a-57ca-47ec-8f59-8384a93ea05e
 feature: Custom Objects
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: e894ece3a643113fd3e1d8df9f8addefea5553f5
 workflow-type: tm+mt
-source-wordcount: '212'
-ht-degree: 5%
+source-wordcount: '224'
+ht-degree: 4%
 
 ---
 

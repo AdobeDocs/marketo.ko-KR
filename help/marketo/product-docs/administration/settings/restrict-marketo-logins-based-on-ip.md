@@ -1,12 +1,12 @@
 ---
 unique-page-id: 2360297
-description: IP를 기반으로 Marketo 로그인 제한 - Marketo 문서 - 제품 설명서
+description: IP 주소별 Marketo 로그인을 허용하거나 차단하는 방법에 대해 알아봅니다.
 title: IP를 기준으로 Marketo 로그인 제한
 exl-id: 5d9d0b88-b4bc-4e1b-b70c-2c2e7b4269f5
 feature: Administration
-source-git-commit: b6680c404075f13b1713ce28299e60a4d26f4a06
+source-git-commit: e894ece3a643113fd3e1d8df9f8addefea5553f5
 workflow-type: tm+mt
-source-wordcount: '220'
+source-wordcount: '221'
 ht-degree: 10%
 
 ---
@@ -21,7 +21,7 @@ ht-degree: 10%
 
 >[!IMPORTANT]
 >
->AAC(Adobe Admin Console)는 [IP 기반 액세스 제어](https://helpx.adobe.com/kr/enterprise/using/ip-based-access.html){target="_blank"}를 지원합니다. 원활한 전환을 위해 이 기능이 활성화된 구독에서는 2027년 1분기까지 Adobe ID 사용자를 포함하여 기존 Marketo Engage IP 제한 사항이 활성화됩니다.
+>AAC(Adobe Admin Console)는 [IP 기반 액세스 제어](https://helpx.adobe.com/enterprise/using/ip-based-access.html){target="_blank"}를 지원합니다. 원활한 전환을 위해 이 기능이 활성화된 구독에서는 2027년 1분기까지 Adobe ID 사용자를 포함하여 기존 Marketo Engage IP 제한 사항이 활성화됩니다.
 >
 >* 언제든지 AAC IP 기반 액세스를 구성할 수 있습니다.
 >* AAC 및 Marketo Engage 제한 사항은 모두 동시에 실행할 수 있습니다. 호환성을 위해 동일한 IP 허용 목록을 사용합니다.

@@ -1,13 +1,13 @@
 ---
 unique-page-id: 6848782
-description: 구독 취소 메시지를 동적인 언어 - Marketo 문서 - 제품 설명서로 만들기
+description: 다이내믹 콘텐츠 및 세분화를 사용하여 구독 취소 메시지와 링크를 다양한 언어로 표시합니다.
 title: 구독 취소 메시지를 언어에 따라 동적으로 만들기
 exl-id: 953a7fd8-b1f2-4f3f-b889-87d1f0471e0d
 feature: Email Setup
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: e894ece3a643113fd3e1d8df9f8addefea5553f5
 workflow-type: tm+mt
-source-wordcount: '434'
-ht-degree: 6%
+source-wordcount: '438'
+ht-degree: 7%
 
 ---
 
@@ -37,7 +37,7 @@ ht-degree: 6%
 
    ![](assets/make-your-unsubscribe-message-dynamic-for-languages-2.png)
 
-1. 세분화 이름을 **[!UICONTROL Preferred Language]**&#x200B;로 지정합니다. **[!UICONTROL Add Segment]**&#x200B;을(를) 클릭합니다. 언어를 입력합니다.
+1. 세분화 이름을 **[!UICONTROL Preferred Language]**&#x200B;로 지정합니다. **[!UICONTROL Add Segment]**&#x200B;를 클릭합니다. 언어를 입력합니다.
 
    ![](assets/make-your-unsubscribe-message-dynamic-for-languages-3.png)
 

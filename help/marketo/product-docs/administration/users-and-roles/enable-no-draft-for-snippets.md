@@ -1,13 +1,13 @@
 ---
 unique-page-id: 10095636
-description: 코드 조각에 대한 초안 없음 활성화 - Marketo 문서 - 제품 설명서
+description: 새 초안 없이도 코드 조각 변경 사항이 승인된 에셋에 적용되도록 코드 조각에 대해 초안 없음 을 활성화하는 방법을 알아봅니다.
 title: 스니펫에 대한 초안 없음 기능 활성화
 exl-id: 8a6b6f18-175f-417c-9937-4e000afd71af
 feature: Users and Roles
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: e894ece3a643113fd3e1d8df9f8addefea5553f5
 workflow-type: tm+mt
-source-wordcount: '134'
-ht-degree: 11%
+source-wordcount: '144'
+ht-degree: 12%
 
 ---
 

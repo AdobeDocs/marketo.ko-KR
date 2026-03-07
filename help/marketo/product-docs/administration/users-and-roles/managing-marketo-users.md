@@ -1,12 +1,12 @@
 ---
 unique-page-id: 2359906
-description: Marketo 사용자 관리 - Marketo 문서 - 제품 설명서
+description: Adobe Identity를 사용하지 않는 구독에 대해 사용자를 만들고 삭제하고, 암호를 재설정하고, 사용자 정보 및 권한을 편집하는 단계입니다.
 title: Marketo 사용자 관리
 exl-id: 40506d3c-a7cb-45fb-bc10-021bd0c70806
 feature: Users and Roles
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: e894ece3a643113fd3e1d8df9f8addefea5553f5
 workflow-type: tm+mt
-source-wordcount: '368'
+source-wordcount: '381'
 ht-degree: 7%
 
 ---

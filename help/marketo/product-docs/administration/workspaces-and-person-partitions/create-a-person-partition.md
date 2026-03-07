@@ -1,13 +1,13 @@
 ---
 unique-page-id: 2360315
-description: 개인 파티션 만들기 - Marketo 문서 - 제품 설명서
+description: 새 개인 분할 영역을 만들고 이름을 지정한 후 작업 공간에 할당하는 단계입니다.
 title: 개인 파티션 만들기
 exl-id: 097fd314-c3e1-4123-af47-2f7e53a658e3
 feature: Partitions
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: e894ece3a643113fd3e1d8df9f8addefea5553f5
 workflow-type: tm+mt
-source-wordcount: '66'
-ht-degree: 19%
+source-wordcount: '72'
+ht-degree: 22%
 
 ---
 

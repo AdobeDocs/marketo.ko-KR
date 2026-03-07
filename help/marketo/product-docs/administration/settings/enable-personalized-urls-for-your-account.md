@@ -1,13 +1,13 @@
 ---
 unique-page-id: 2360215
-description: 계정에 대해 개인화된 URL 활성화 - Marketo 문서 - 제품 설명서
+description: 인쇄 메일 및 기타 캠페인에서 사용할 구독에 대해 개인화된 URL을 활성화하는 단계입니다.
 title: 계정에 대한 개인화된 URL 활성화
 exl-id: 3fdf6112-f483-4a86-ba8b-43a3d733227a
 feature: Administration
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: e894ece3a643113fd3e1d8df9f8addefea5553f5
 workflow-type: tm+mt
-source-wordcount: '84'
-ht-degree: 23%
+source-wordcount: '90'
+ht-degree: 25%
 
 ---
 

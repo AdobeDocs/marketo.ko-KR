@@ -1,13 +1,13 @@
 ---
 unique-page-id: 11378041
-description: 브랜딩 도메인 삭제 - Marketo 문서 - 제품 설명서
+description: 이메일 관리 테이블에서 브랜딩 도메인을 제거합니다(기본 도메인을 삭제하는 경우 먼저 다른 기본 설정).
 title: 브랜딩 도메인 삭제
 exl-id: 12cbb8c0-4846-46cb-ba5a-d54a69523585
 feature: Email Setup
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: e894ece3a643113fd3e1d8df9f8addefea5553f5
 workflow-type: tm+mt
-source-wordcount: '56'
-ht-degree: 23%
+source-wordcount: '66'
+ht-degree: 19%
 
 ---
 

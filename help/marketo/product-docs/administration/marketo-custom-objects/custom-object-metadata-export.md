@@ -1,12 +1,12 @@
 ---
-description: 사용자 지정 개체 메타데이터 내보내기 - Marketo 문서 - 제품 설명서
+description: SOAP 또는 Munchkin API 사용을 위해 사용자 지정 개체 메타데이터 스키마를 내보내는 방법.
 title: 사용자 정의 오브젝트 메타데이터 내보내기
 exl-id: 4c23f07e-3491-43c5-8ea8-2e54c9a4b9af
 feature: Custom Objects
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: e894ece3a643113fd3e1d8df9f8addefea5553f5
 workflow-type: tm+mt
-source-wordcount: '100'
-ht-degree: 18%
+source-wordcount: '105'
+ht-degree: 17%
 
 ---
 

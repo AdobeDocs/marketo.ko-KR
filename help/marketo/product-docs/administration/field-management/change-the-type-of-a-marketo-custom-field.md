@@ -1,13 +1,13 @@
 ---
 unique-page-id: 2360331
-description: Marketo 사용자 정의 필드의 유형 변경 - Marketo 문서 - 제품 설명서
+description: 필드 관리에서 사용자 정의 필드의 데이터 유형을 변경하는 방법(점수 및 수식 필드는 변경할 수 없음).
 title: Marketo 사용자 정의 필드 유형 변경
 exl-id: b9b3dfc5-cb5f-4233-9fe6-f8fdf111d48c
 feature: Field Management
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: e894ece3a643113fd3e1d8df9f8addefea5553f5
 workflow-type: tm+mt
-source-wordcount: '94'
-ht-degree: 22%
+source-wordcount: '102'
+ht-degree: 20%
 
 ---
 

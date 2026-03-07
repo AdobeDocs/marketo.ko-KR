@@ -1,12 +1,12 @@
 ---
 unique-page-id: 10100311
-description: 구독 로그인에 범용 ID 사용 - Marketo 문서 - 제품 설명서
+description: 범용 ID를 사용하여 한 번의 로그인으로 여러 Marketo 구독에 액세스하고, 구독자 간을 전환하고, 구독 간에 암호 정책 및 프로필 데이터가 작동하는 방식을 변경할 수 있습니다.
 title: 구독 로그인을 위해 Universal ID 사용
 exl-id: 75cf1323-0468-49e9-83ca-e55aa30744ac
 feature: Administration
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: e894ece3a643113fd3e1d8df9f8addefea5553f5
 workflow-type: tm+mt
-source-wordcount: '569'
+source-wordcount: '583'
 ht-degree: 2%
 
 ---

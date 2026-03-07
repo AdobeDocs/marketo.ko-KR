@@ -1,13 +1,13 @@
 ---
 unique-page-id: 2360276
-description: 프로그램 채널 숨기기/숨기기 취소 - Marketo 문서 - 제품 설명서
+description: 프로그램 채널이 사용 중일 때 숨기거나 숨김 표시 확인란을 사용하여 숨김을 취소하는 절차.
 title: 프로그램 채널 숨기기/숨기기 취소
 exl-id: 17061f87-85c9-4940-bd8e-590e4c7c04f1
 feature: Tags
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: e894ece3a643113fd3e1d8df9f8addefea5553f5
 workflow-type: tm+mt
-source-wordcount: '95'
-ht-degree: 15%
+source-wordcount: '105'
+ht-degree: 17%
 
 ---
 

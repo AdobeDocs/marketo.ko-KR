@@ -1,12 +1,12 @@
 ---
-description: Adobe ID로 사용자 로그인 - Marketo 설명서 - 제품 설명서
+description: Adobe ID를 가진 사용자가 AdobeID로 계속 링크 및 Adobe 자격 증명을 사용하여 Marketo Engage에 로그인하는 단계입니다.
 title: Adobe ID로 사용자 로그인
 exl-id: d17f4de3-491c-45a7-b4b8-f68b9bd35124
 feature: Marketo with Adobe Identity
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
-workflow-type: ht
-source-wordcount: '91'
-ht-degree: 100%
+source-git-commit: e894ece3a643113fd3e1d8df9f8addefea5553f5
+workflow-type: tm+mt
+source-wordcount: '103'
+ht-degree: 79%
 
 ---
 

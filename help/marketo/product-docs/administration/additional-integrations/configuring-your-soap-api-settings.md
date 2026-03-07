@@ -1,13 +1,13 @@
 ---
 unique-page-id: 2360352
-description: SOAP API 설정 구성 - Marketo 문서 - 제품 설명서
+description: 개발자용 Admin Web Services에서 SOAP API 암호화 키를 설정하고 끝점 세부 정보를 가져옵니다.
 title: SOAP API 설정 구성
 exl-id: a848f5c5-b3ca-40cc-9202-467f26d3916f
 feature: Administration
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: e894ece3a643113fd3e1d8df9f8addefea5553f5
 workflow-type: tm+mt
-source-wordcount: '72'
-ht-degree: 22%
+source-wordcount: '79'
+ht-degree: 24%
 
 ---
 
@@ -39,4 +39,4 @@ ht-degree: 22%
 
 >[!MORELIKETHIS]
 >
->[SOAP API 설명서](https://experienceleague.adobe.com/ko/docs/marketo-developer/marketo/soap/soap-api)
+>[SOAP API 설명서](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/soap/soap-api)

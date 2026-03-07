@@ -1,12 +1,12 @@
 ---
 unique-page-id: 5472615
-description: 시스템 관리 필드 이해 - Marketo 문서 - 제품 설명서
+description: 개인 세부 정보 페이지에서 편집할 수 없는 시스템 관리 필드와 각 필드 유형의 의미에 대해 알아봅니다.
 title: 시스템 관리 필드 이해
 exl-id: 4a58d41f-c2f5-4bcc-93ef-10a31e5475fd
 feature: Field Management
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: e894ece3a643113fd3e1d8df9f8addefea5553f5
 workflow-type: tm+mt
-source-wordcount: '523'
+source-wordcount: '532'
 ht-degree: 11%
 
 ---

@@ -1,13 +1,13 @@
 ---
 unique-page-id: 10094188
-description: 사용자 지정 개체 승인 - Marketo 문서 - 제품 설명서
+description: 일대다, 다대다 및 중간 개체에 대한 요구 사항을 포함하여 관리자에서 새 사용자 지정 개체 또는 편집한 사용자 지정 개체를 승인하는 방법입니다.
 title: 사용자 정의 오브젝트 승인
 exl-id: 8bae94df-91fe-4722-8c75-c26df882c65d
 feature: Custom Objects
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: e894ece3a643113fd3e1d8df9f8addefea5553f5
 workflow-type: tm+mt
-source-wordcount: '259'
-ht-degree: 8%
+source-wordcount: '269'
+ht-degree: 7%
 
 ---
 

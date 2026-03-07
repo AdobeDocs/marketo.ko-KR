@@ -1,13 +1,13 @@
 ---
 unique-page-id: 2359898
-description: 보유하고 있는 권한 - Marketo 문서 - 제품 설명서 알아보기
+description: 현재 Marketo 권한을 보는 방법을 알아봅니다.
 title: 보유 권한 찾기
 exl-id: 46eb65ea-afd9-44b8-a753-f3ca74c6b74b
 feature: Administration
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: e894ece3a643113fd3e1d8df9f8addefea5553f5
 workflow-type: tm+mt
-source-wordcount: '73'
-ht-degree: 16%
+source-wordcount: '71'
+ht-degree: 19%
 
 ---
 
@@ -15,7 +15,7 @@ ht-degree: 16%
 
 Marketo에 어떤 권한이 있는지 궁금하다면 손쉽게 확인할 수 있는 방법이 있습니다.
 
-1. **[!UICONTROL Marketing Activities]**(으)로 이동합니다.
+1. **[!UICONTROL Marketing Activities]** 으로 이동합니다.
 
    ![](assets/find-out-what-permissions-you-have-1.png)
 

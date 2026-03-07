@@ -1,13 +1,13 @@
 ---
 unique-page-id: 2360185
-description: 암호 보안 설정 변경 - Marketo 문서 - 제품 설명서
+description: 템플릿, 만료 및 비활성 세션 시간 제한을 포함한 구독 암호 정책을 설정하는 방법.
 title: 암호 보안 설정 변경
 exl-id: cda7ec70-32aa-4e0a-86b2-eb9bea70ef72
 feature: Administration
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: e894ece3a643113fd3e1d8df9f8addefea5553f5
 workflow-type: tm+mt
-source-wordcount: '154'
-ht-degree: 11%
+source-wordcount: '158'
+ht-degree: 12%
 
 ---
 

@@ -1,13 +1,13 @@
 ---
 unique-page-id: 11378468
-description: 감사 추적에서 필터링 - Marketo 문서 - 제품 설명서
+description: 감사 추적을 시간대, 자산 유형, 사용자 및 작업별로 필터링하여 특정 변경 사항을 찾습니다.
 title: 감사 추적 필터링
 exl-id: 7928dfff-4d3f-42b4-94ad-0147a2fc3433
 feature: Audit Trail
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: e894ece3a643113fd3e1d8df9f8addefea5553f5
 workflow-type: tm+mt
-source-wordcount: '129'
-ht-degree: 15%
+source-wordcount: '136'
+ht-degree: 14%
 
 ---
 

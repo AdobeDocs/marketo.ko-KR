@@ -1,12 +1,12 @@
 ---
 unique-page-id: 10095453
-description: Marketo 사용자 지정 개체 필드 편집 및 삭제 - Marketo 문서 - 제품 설명서
+description: 필드 작업을 사용하여 승인되지 않은 사용자 지정 개체의 필드를 편집하거나 삭제하는 방법입니다.
 title: Marketo 사용자 정의 오브젝트 필드 편집 및 삭제
 exl-id: 42fb7a24-0669-440b-a15e-3b8f0f4c5105
 feature: Custom Objects
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: e894ece3a643113fd3e1d8df9f8addefea5553f5
 workflow-type: tm+mt
-source-wordcount: '118'
+source-wordcount: '121'
 ht-degree: 12%
 
 ---
