@@ -33,7 +33,7 @@ ht-degree: 3%
 
 1. [API 전용 사용자 역할](/help/marketo/product-docs/administration/users-and-roles/create-an-api-only-user-role.md){target="_blank"}을(를) 만듭니다.
 
-1. 4단계에서 만든 [ API 역할을 사용하여 ](/help/marketo/product-docs/administration/marketo-with-adobe-identity/add-api-only-user-for-adobe-ims-enabled-subscriptions.md){target="_blank"}API 사용자 만들기[!DNL BrightTALK].
+1. 4단계에서 만든 [&#x200B; API 역할을 사용하여 &#x200B;](/help/marketo/product-docs/administration/marketo-with-adobe-identity/add-api-only-user-for-adobe-ims-enabled-subscriptions.md){target="_blank"}API 사용자 만들기[!DNL BrightTALK].
 
 1. **[!UICONTROL Admin]** 영역으로 돌아갑니다.
 

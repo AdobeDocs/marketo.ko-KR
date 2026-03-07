@@ -96,4 +96,4 @@ ht-degree: 7%
 
    >[!MORELIKETHIS]
    >
-   >관리자 계정을 사용하여 [수익 모델에서 전환 설정 [!DNL Google AdWords] 2}](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-cycle-models/set-google-adwords-conversions-in-the-revenue-model-with-a-manager-account.md){target="_blank"}
+   >관리자 계정을 사용하여 [수익 모델에서 전환 설정 [!DNL Google AdWords] 2&rbrace;](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-cycle-models/set-google-adwords-conversions-in-the-revenue-model-with-a-manager-account.md){target="_blank"}
