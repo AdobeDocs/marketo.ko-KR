@@ -1,12 +1,12 @@
 ---
 unique-page-id: 11381917
-description: '[!UICONTROL Target Account Management] - Marketo 문서 - 제품 설명서'
+description: Marketo Target 계정 관리 및 영업 및 마케팅을 타겟 주요 계정에 통합하는 방법에 대해 알아봅니다. 라이선스 및 설정 단계를 시작합니다.
 title: '[!UICONTROL Target Account Management]'
 exl-id: ff0c37ac-7206-4346-bfb8-15c734b2a272
 feature: Target Account Management
-source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
+source-git-commit: b4fcaeab734a44bbac52c7ee7ebce2da085fa686
 workflow-type: tm+mt
-source-wordcount: '218'
+source-wordcount: '238'
 ht-degree: 0%
 
 ---
@@ -48,7 +48,7 @@ Marketo TAM은 다음 세 가지 구성 요소로 구성됩니다.
 Marketo 계정 기반 마케팅은 또한 여러 채널에서 명명된 계정 경험을 개인화할 수 있는 다양한 도구를 제공합니다.
 
 * 이메일 및 랜딩 페이지 Personalization
-* 웹 Personalization
+* 웹 개인화
 * URL [Personalization](/help/marketo/product-docs/demand-generation/landing-pages/personalizing-landing-pages/enable-personalized-urls-for-your-account.md)
 * 광고 [Personalization](/help/marketo/product-docs/demand-generation/facebook/create-a-custom-audience-in-facebook.md)
 * [개인화됨](/help/marketo/product-docs/web-personalization/website-retargeting/retargeting-with-web-personalization-data.md) 리마케팅

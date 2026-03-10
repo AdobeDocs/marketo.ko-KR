@@ -1,12 +1,12 @@
 ---
 unique-page-id: 11380732
-description: 계정 필터 - Marketo 문서 - 제품 설명서
+description: 계정 중심 필터를 사용하여 지정된 계정 및 가상 사용자를 식별하고 참여하는 방법을 알아봅니다. 스마트 캠페인에서 TAM 필터를 사용하여 올바른 계정을 타겟팅합니다.
 title: 계정 필터
 exl-id: a359f53b-c0a0-4b46-bad0-2840ba668892
 feature: Target Account Management
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: b4fcaeab734a44bbac52c7ee7ebce2da085fa686
 workflow-type: tm+mt
-source-wordcount: '152'
+source-wordcount: '170'
 ht-degree: 1%
 
 ---

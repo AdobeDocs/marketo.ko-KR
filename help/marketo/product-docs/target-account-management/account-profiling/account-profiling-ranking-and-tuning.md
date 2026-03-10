@@ -1,13 +1,13 @@
 ---
 unique-page-id: 15695924
-description: 계정 프로파일링 순위 및 조정 - Marketo 문서 - 제품 설명서
+description: 계정 프로파일링이 ICP에 의해 회사의 등급을 매기고 지정 계정에 지표 데이터를 추가하는 방법을 이해합니다. 모델을 조정하고 계정을 승격합니다.
 title: 계정 프로파일링 순위 및 조정
 exl-id: 9c5d0a03-0ebe-43cc-95ef-faab19a7f673
 feature: Target Account Management
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: b4fcaeab734a44bbac52c7ee7ebce2da085fa686
 workflow-type: tm+mt
-source-wordcount: '380'
-ht-degree: 3%
+source-wordcount: '393'
+ht-degree: 4%
 
 ---
 

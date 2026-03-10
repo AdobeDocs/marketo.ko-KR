@@ -1,13 +1,13 @@
 ---
 unique-page-id: 12615798
-description: 계정 목록에 기존의 명명된 계정 추가 - Marketo 문서 - 제품 설명서
+description: 계정 목록에 기존의 명명된 계정을 추가하는 방법을 알아봅니다. 명명된 계정 작업 을 사용하고 원하는 목록으로 계정 목록에 추가를 선택합니다.
 title: 계정 목록에 기존 지정 계정 추가
 exl-id: 5c6c535c-05da-4d7e-b764-cdbbcc7ec415
 feature: Target Account Management
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: b4fcaeab734a44bbac52c7ee7ebce2da085fa686
 workflow-type: tm+mt
-source-wordcount: '80'
-ht-degree: 17%
+source-wordcount: '93'
+ht-degree: 15%
 
 ---
 

@@ -1,13 +1,13 @@
 ---
 unique-page-id: 12615781
-description: 명명된 계정 만들기 - Marketo 문서 - 제품 설명서
+description: TAM에서 명명된 계정을 수동으로 만드는 방법을 알아봅니다. New 드롭다운을 사용하고 Create Named Account 를 선택한 다음 원하는 필드를 채웁니다.
 title: 지정 계정 만들기
 exl-id: 191ca1d2-8825-41ad-b8a0-53cf21526a91
 feature: Target Account Management
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: b4fcaeab734a44bbac52c7ee7ebce2da085fa686
 workflow-type: tm+mt
-source-wordcount: '49'
-ht-degree: 8%
+source-wordcount: '65'
+ht-degree: 6%
 
 ---
 

@@ -1,13 +1,13 @@
 ---
 unique-page-id: 12979223
-description: 계정 설정 Insight - Marketo 문서 - 제품 설명서
+description: 영업 팀을 위한 계정 Insight을 설정하는 방법에 대해 알아봅니다. 영업 탭에서 명명 계정 및 참여 직원의 우선 순위를 지정합니다.
 title: 계정 인사이트 설정
 exl-id: 50e24974-339b-4a42-b5ca-2e80ab47d313
 feature: Target Account Management
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: b4fcaeab734a44bbac52c7ee7ebce2da085fa686
 workflow-type: tm+mt
-source-wordcount: '99'
-ht-degree: 11%
+source-wordcount: '114'
+ht-degree: 9%
 
 ---
 

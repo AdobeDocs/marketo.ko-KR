@@ -1,13 +1,13 @@
 ---
 unique-page-id: 11380783
-description: TAM 메인 대시보드 - Marketo 문서 - 제품 설명서
+description: TAM 기본 대시보드 및 타겟 계정 작업에 대한 요약에 대해 알아봅니다. 계정 목록별로 필터링하고 목록 또는 명명된 계정 인사이트로 드릴다운합니다.
 title: TAM 주요 대시보드
 exl-id: f550dd99-f5b1-4d75-9e11-d9791043baea
 feature: Target Account Management
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: b4fcaeab734a44bbac52c7ee7ebce2da085fa686
 workflow-type: tm+mt
-source-wordcount: '108'
-ht-degree: 5%
+source-wordcount: '126'
+ht-degree: 4%
 
 ---
 

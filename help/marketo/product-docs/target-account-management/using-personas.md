@@ -1,13 +1,13 @@
 ---
 unique-page-id: 17727818
-description: 가상 사용자 사용 - Marketo 문서 - 제품 설명서
+description: 가상 사용자를 사용하여 ABM 대상자 및 시장을 특정 하위 집합으로 분할하는 방법을 알아봅니다. 관리자에서 가상 사용자를 추가하고 스마트 목록 필터에서 사용합니다.
 title: 페르소나 사용
 exl-id: 8c8940ab-d336-494c-b6a0-dad09ed1c888
 feature: Target Account Management
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: b4fcaeab734a44bbac52c7ee7ebce2da085fa686
 workflow-type: tm+mt
-source-wordcount: '176'
-ht-degree: 2%
+source-wordcount: '196'
+ht-degree: 5%
 
 ---
 
@@ -37,7 +37,7 @@ ht-degree: 2%
 
    ![](assets/four.png)
 
-1. 담당자의 이름을 지정하고 드롭다운에서 해당 필드를 선택합니다. 최대 2개의 가상 사용자를 추가할 수 있습니다. 완료되면 **[!UICONTROL Save]**&#x200B;을(를) 클릭합니다.
+1. 담당자의 이름을 지정하고 드롭다운에서 해당 필드를 선택합니다. 최대 2개의 가상 사용자를 추가할 수 있습니다. 완료되면 **[!UICONTROL Save]**&#x200B;를 클릭합니다.
 
    ![](assets/five.png)
 

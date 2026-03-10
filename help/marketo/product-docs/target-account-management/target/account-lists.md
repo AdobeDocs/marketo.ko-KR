@@ -1,13 +1,13 @@
 ---
 unique-page-id: 11378814
-description: '[!UICONTROL Account Lists] - Marketo 문서 - 제품 설명서'
+description: 계정 목록과 이러한 사용자가 타겟팅을 위해 명명된 계정을 그룹화하는 방법에 대해 알아봅니다. CRM 계정 보기에서 정적 목록 또는 동적 목록을 만듭니다.
 title: '[!UICONTROL Account Lists]'
 exl-id: 31bb4341-d012-4239-8f40-10a07cd4c51c
 feature: Target Account Management
-source-git-commit: 21bcdc10fe1f3517612efe0f8e2adaf2f4411a70
+source-git-commit: b4fcaeab734a44bbac52c7ee7ebce2da085fa686
 workflow-type: tm+mt
-source-wordcount: '306'
-ht-degree: 0%
+source-wordcount: '324'
+ht-degree: 5%
 
 ---
 
@@ -21,11 +21,11 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->[!UICONTROL Target Account Management]Web Personalization[에서 스마트 목록 및 웹 캠페인을 작성할 때 Marketo &#x200B;](/help/marketo/product-docs/web-personalization/using-web-segments/web-segments.md)에서 만든 계정 목록을 자동으로 사용할 수 있습니다.
+>[!UICONTROL Target Account Management]Web Personalization[에서 스마트 목록 및 웹 캠페인을 작성할 때 Marketo ](/help/marketo/product-docs/web-personalization/using-web-segments/web-segments.md)에서 만든 계정 목록을 자동으로 사용할 수 있습니다.
 
 ## 새 계정 목록 만들기 {#create-a-new-account-list}
 
-1. **[!UICONTROL New]** 드롭다운을 클릭하고 **[!UICONTROL Create New Account List]**&#x200B;을(를) 선택합니다.
+1. **[!UICONTROL New]** 드롭다운을 클릭하고 **[!UICONTROL Create New Account List]**&#x200B;를 선택합니다.
 
    ![](assets/1a.png)
 
@@ -41,7 +41,7 @@ ht-degree: 0%
 
 ## 새 동적 계정 목록 만들기 {#create-a-new-dynamic-account-list}
 
-1. **[!UICONTROL New]** 드롭다운을 클릭하고 **[!UICONTROL Create New Dynamic List]**&#x200B;을(를) 선택합니다.
+1. **[!UICONTROL New]** 드롭다운을 클릭하고 **[!UICONTROL Create New Dynamic List]**&#x200B;를 선택합니다.
 
    ![](assets/1.png)
 
@@ -49,7 +49,7 @@ ht-degree: 0%
 
    ![](assets/image2017-7-18-9-48-23.png)
 
-1. **[!UICONTROL Create]**&#x200B;을(를) 클릭합니다.
+1. **[!UICONTROL Create]**&#x200B;를 클릭합니다.
 
    ![](assets/step4.jpg)
 
@@ -85,7 +85,7 @@ ht-degree: 0%
 
    ![](assets/five.png)
 
-1. **[!UICONTROL Delete]**&#x200B;을(를) 클릭합니다.
+1. **[!UICONTROL Delete]**&#x200B;를 클릭합니다.
 
    ![](assets/six.png)
 

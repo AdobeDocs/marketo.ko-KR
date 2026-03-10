@@ -1,13 +1,13 @@
 ---
 unique-page-id: 17432598
-description: 계정 프로파일링 설정 - Marketo 문서 - 제품 설명서
+description: TAM에서 계정 프로파일링을 설정하고 이상적인 고객 프로필 모델을 만드는 방법에 대해 알아봅니다. 모델 탭을 시작하고 첫 번째 모델을 구축합니다.
 title: 계정 프로파일링 설정
 exl-id: 6f3af2e7-f820-473b-8ed6-ff0982672e54
 feature: Target Account Management
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: b4fcaeab734a44bbac52c7ee7ebce2da085fa686
 workflow-type: tm+mt
-source-wordcount: '157'
-ht-degree: 8%
+source-wordcount: '176'
+ht-degree: 10%
 
 ---
 
@@ -42,7 +42,7 @@ ht-degree: 8%
 
    ![](assets/three.png)
 
-1. 모델의 이름을 지정하고 이상적인 고객 프로필(ICP)의 기반으로 사용할 사람의 목록 유형/목록을 선택하십시오. 완료되면 **[!UICONTROL Create Model]**&#x200B;을(를) 클릭합니다.
+1. 모델의 이름을 지정하고 이상적인 고객 프로필(ICP)의 기반으로 사용할 사람의 목록 유형/목록을 선택하십시오. 완료되면 **[!UICONTROL Create Model]**&#x200B;를 클릭합니다.
 
    ![](assets/setting-up-account-profiling-4.png)
 

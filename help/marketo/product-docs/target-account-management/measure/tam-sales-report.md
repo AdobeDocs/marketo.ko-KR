@@ -1,13 +1,13 @@
 ---
 unique-page-id: 11385183
-description: TAM 영업 보고서 - Marketo 설명서 - 제품 설명서
+description: TAM Sales Report에 대해 자세히 알아보십시오. 이 보고서는 주요 계정과 동향을 담은 주간 이메일입니다. 계정 점수, 파이프라인, 페이지 보기 및 흥미로운 순간을 받습니다.
 title: TAM 세일즈 보고서
 exl-id: db4680df-74fd-41a4-9e9c-bf405da97bf0
 feature: Target Account Management
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: b4fcaeab734a44bbac52c7ee7ebce2da085fa686
 workflow-type: tm+mt
-source-wordcount: '126'
-ht-degree: 9%
+source-wordcount: '143'
+ht-degree: 8%
 
 ---
 

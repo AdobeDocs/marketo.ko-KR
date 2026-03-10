@@ -1,13 +1,13 @@
 ---
 unique-page-id: 37355609
-description: 새 계정 검색 - Marketo 문서 - 제품 설명서
+description: 이상적인 고객 프로필에서 AI 기반 권장 사항을 사용하여 타깃팅할 새 계정을 찾는 방법에 대해 알아봅니다. 계정 목록에 새 타겟 계정을 검색하여 저장합니다.
 title: 새 계정 검색
 exl-id: 0d07cd0d-abf6-4daf-b818-21b91919bd9d
 feature: Target Account Management
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: b4fcaeab734a44bbac52c7ee7ebce2da085fa686
 workflow-type: tm+mt
-source-wordcount: '284'
-ht-degree: 2%
+source-wordcount: '302'
+ht-degree: 4%
 
 ---
 

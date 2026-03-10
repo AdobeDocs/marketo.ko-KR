@@ -1,13 +1,13 @@
 ---
 unique-page-id: 11380789
-description: RCA의 지정 계정 Dimension - Marketo 문서 - 제품 설명서
+description: 수익 주기 분석에서 명명된 계정 차원을 사용하여 수익 기반 보고서를 작성하는 방법을 알아봅니다. 타겟팅된 계정으로부터 파이프라인 및 매출 영향을 측정합니다.
 title: RCA의 지정 계정 차원
 exl-id: 0c5d9fb9-94e3-4ad0-b024-26542c2d2fd3
 feature: Target Account Management
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: b4fcaeab734a44bbac52c7ee7ebce2da085fa686
 workflow-type: tm+mt
-source-wordcount: '149'
-ht-degree: 8%
+source-wordcount: '163'
+ht-degree: 7%
 
 ---
 

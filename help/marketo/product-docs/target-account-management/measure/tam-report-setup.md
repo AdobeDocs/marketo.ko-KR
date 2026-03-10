@@ -1,13 +1,13 @@
 ---
 unique-page-id: 11384438
-description: TAM 보고서 설정 - Marketo 문서 - 제품 설명서
+description: 계정 팀에 대한 주간 TAM 판매 보고서 이메일을 설정하는 방법에 대해 알아봅니다. 배달 날짜, 정렬 순서 및 받을 계정 소유자 또는 팀원을 선택합니다.
 title: TAM 보고서 설정
 exl-id: fc451b05-12a2-4761-a273-2c71f92f2284
 feature: Target Account Management
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: b4fcaeab734a44bbac52c7ee7ebce2da085fa686
 workflow-type: tm+mt
-source-wordcount: '144'
-ht-degree: 7%
+source-wordcount: '166'
+ht-degree: 6%
 
 ---
 

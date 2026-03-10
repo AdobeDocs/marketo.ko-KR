@@ -1,12 +1,12 @@
 ---
 unique-page-id: 12979282
-description: '[!DNL Account Insight] 플러그인 개요 - Marketo 문서 - 제품 설명서'
+description: 영업 팀에 TAM 통찰력을 제공하는 계정 Insight Chrome 플러그인에 대해 알아봅니다. 명명 계정, 활동 피드를 보고 계정을 효과적으로 참여시킵니다.
 title: '[!DNL Account Insight] 플러그 인 개요'
 exl-id: 0306f82d-43c8-44eb-943f-f7f01279b844
 feature: Target Account Management
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: b4fcaeab734a44bbac52c7ee7ebce2da085fa686
 workflow-type: tm+mt
-source-wordcount: '296'
+source-wordcount: '313'
 ht-degree: 0%
 
 ---
@@ -23,13 +23,13 @@ ht-degree: 0%
 
 >[!CAUTION]
 >
->[!DNL Account Insight]SSO 전용[(Single Sign-On)이 활성화된 구독에서는 &#x200B;](/help/marketo/product-docs/administration/additional-integrations/restrict-user-login-to-sso-only.md) 플러그인이 작동하지 않습니다.
+>[!DNL Account Insight]SSO 전용[(Single Sign-On)이 활성화된 구독에서는 ](/help/marketo/product-docs/administration/additional-integrations/restrict-user-login-to-sso-only.md) 플러그인이 작동하지 않습니다.
 
 >[!CAUTION]
 >
 >CRM 컨텍스트는 계정, 리드 또는 연락처에서 플러그인을 시작할 때 Salesforce에서 작동합니다. 계정, 리드 또는 연락처에서 플러그인을 시작할 때 CRM 컨텍스트가 Dynamics에 대해 작동하지 않습니다. Dynamics 사용자의 경우 [!DNL Account Insight] 플러그인을 사용하는 것이 좋습니다.
 
-## 명명된 계정 {#named-accounts}
+## 지정 계정 {#named-accounts}
 
 서로 등급 순서대로 명명 계정을 확인합니다. 이 목록은 계정 소유자에게만 제공됩니다. 계정 팀 지원이 곧 제공됩니다.
 

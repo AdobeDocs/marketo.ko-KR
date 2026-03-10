@@ -1,12 +1,12 @@
 ---
 unique-page-id: 11380787
-description: 계정 목록 통찰력 - Marketo 문서 - 제품 설명서
+description: 계정 목록 대시보드 및 명명된 계정의 집계된 인사이트에 대해 알아봅니다. 파이프라인, 수익, 최상위 계정 및 각 목록을 사용하는 자산을 봅니다.
 title: 계정 목록 인사이트
 exl-id: 27a4020b-b1e0-4f19-b676-2e6dc5fe9611
 feature: Target Account Management
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: b4fcaeab734a44bbac52c7ee7ebce2da085fa686
 workflow-type: tm+mt
-source-wordcount: '158'
+source-wordcount: '174'
 ht-degree: 4%
 
 ---

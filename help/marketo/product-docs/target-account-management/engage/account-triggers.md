@@ -1,13 +1,13 @@
 ---
 unique-page-id: 11380734
-description: 계정 트리거 - Marketo 문서 - 제품 설명서
+description: 계정 트리거를 사용하여 계정 수준 동작 활동을 수신하고 실행하는 방법에 대해 알아봅니다. 스마트 캠페인에서 명명된 계정 트리거를 사용하여 주요 계정을 연결합니다.
 title: 계정 트리거
 exl-id: cf8d49ed-58c4-49d0-95e2-e5df8c9bef50
 feature: Target Account Management
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: b4fcaeab734a44bbac52c7ee7ebce2da085fa686
 workflow-type: tm+mt
-source-wordcount: '88'
-ht-degree: 6%
+source-wordcount: '106'
+ht-degree: 5%
 
 ---
 
@@ -23,7 +23,7 @@ ht-degree: 6%
 
 ![](assets/two-1.png)
 
-원하는 트리거를 캔버스로 드래그합니다. 이 예제에서는 _[!UICONTROL Added to Named Account]_&#x200B;을(를) 사용합니다.
+원하는 트리거를 캔버스로 드래그합니다. 이 예제에서는 _[!UICONTROL Added to Named Account]_을(를) 사용합니다.
 
 ![](assets/three-1.png)
 

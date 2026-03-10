@@ -1,13 +1,13 @@
 ---
 unique-page-id: 11378809
-description: '[!UICONTROL Named Account] 개요 - Marketo 문서 - 제품 설명서'
+description: 명명 계정과 이들이 타겟팅된 회사의 직원들을 보유하는 방법에 대해 알아보십시오. 대시보드에서 이름이 지정된 모든 계정에 대한 현재 속성 데이터를 봅니다.
 title: '[!UICONTROL Named Account] 개요'
 exl-id: 6708bdd8-d0ab-49a2-a04b-4064ee5407ed
 feature: Target Account Management
-source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
+source-git-commit: b4fcaeab734a44bbac52c7ee7ebce2da085fa686
 workflow-type: tm+mt
-source-wordcount: '226'
-ht-degree: 5%
+source-wordcount: '245'
+ht-degree: 6%
 
 ---
 
@@ -36,11 +36,11 @@ ht-degree: 5%
    <td>명명된 계정의 ID 번호</td>
   </tr>
   <tr>
-   <td><strong><span class="uicontrol">명명된 계정</span></strong></td>
+   <td><strong><span class="uicontrol">지정 계정</span></strong></td>
    <td>명명된 계정 이름</td>
   </tr>
   <tr>
-   <td><strong><span class="uicontrol">사람</span></strong></td>
+   <td><strong><span class="uicontrol">사용자</span></strong></td>
    <td>명명 계정에 귀속된 사람 수</td>
   </tr>
   <tr>
@@ -72,7 +72,7 @@ ht-degree: 5%
    <td>명명 계정에 속하는 직원 수</td>
   </tr>
   <tr>
-   <td colspan="1"><strong><span class="uicontrol">계정 스코어</span></strong></td>
+   <td colspan="1"><strong><span class="uicontrol">계정 점수</span></strong></td>
    <td colspan="1">여러 리드의 리드 점수를 집계하여 계정 수준에서 점수를 제공합니다.</td>
   </tr>
   <tr>

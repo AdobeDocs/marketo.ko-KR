@@ -1,13 +1,13 @@
 ---
 unique-page-id: 11384433
-description: 계정 팀 설정 - Marketo 문서 - 제품 설명서
+description: 계정 팀을 설정하고 CRM 계정 역할을 TAM에 매핑하는 방법을 알아봅니다. 계정 팀원이 될 사용자 조회 필드를 선택합니다.
 title: 계정 팀 설정
 exl-id: a4aee37f-5e39-4296-b720-b1c73c98df9e
 feature: Target Account Management
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: b4fcaeab734a44bbac52c7ee7ebce2da085fa686
 workflow-type: tm+mt
-source-wordcount: '169'
-ht-degree: 4%
+source-wordcount: '185'
+ht-degree: 5%
 
 ---
 
@@ -39,7 +39,7 @@ ht-degree: 4%
    >
    >[!UICONTROL Account Owner]을(를) 선택할 수 없습니다. CRM의 계정 수준에서 기본적으로 선택됩니다.
 
-1. 완료되면 **[!UICONTROL Save]**&#x200B;을(를) 클릭합니다.
+1. 완료되면 **[!UICONTROL Save]**&#x200B;를 클릭합니다.
 
    ![](assets/five-2.png)
 

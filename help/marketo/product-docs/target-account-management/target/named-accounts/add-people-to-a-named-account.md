@@ -1,12 +1,12 @@
 ---
 unique-page-id: 11378816
-description: 명명된 계정에 사람 추가 - Marketo 문서 - 제품 설명서
+description: 흐름 작업, 스마트 캠페인 흐름 단계 또는 목록 가져오기를 사용하여 명명된 계정에 사람을 추가하는 방법을 알아봅니다.
 title: 지정 계정에 사용자 추가
 exl-id: 1fbe7cd2-7324-4b03-ba8b-66e35baaec03
 feature: Target Account Management
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: b4fcaeab734a44bbac52c7ee7ebce2da085fa686
 workflow-type: tm+mt
-source-wordcount: '157'
+source-wordcount: '166'
 ht-degree: 5%
 
 ---

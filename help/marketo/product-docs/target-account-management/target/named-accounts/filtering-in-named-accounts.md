@@ -1,13 +1,13 @@
 ---
 unique-page-id: 12615804
-description: 명명된 계정에서 필터링 - Marketo 문서 - 제품 설명서
+description: 명명된 계정을 필터링하여 데이터 범위를 빠르게 좁히는 방법을 알아봅니다. 필터에서 업계, 국가, 직원 및 기타 CRM 동기화 필드를 사용합니다.
 title: 지정 계정 필터링
 exl-id: 4592ff5e-e2bf-408c-b213-e582110b83e4
 feature: Target Account Management
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: b4fcaeab734a44bbac52c7ee7ebce2da085fa686
 workflow-type: tm+mt
-source-wordcount: '116'
-ht-degree: 12%
+source-wordcount: '130'
+ht-degree: 10%
 
 ---
 

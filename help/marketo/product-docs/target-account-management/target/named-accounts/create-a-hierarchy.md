@@ -1,13 +1,13 @@
 ---
 unique-page-id: 13795734
-description: 계층 만들기 - Marketo 문서 - 제품 설명서
+description: CRM을 사용하지 않을 때 명명된 계정 계층 구조를 수동으로 만드는 방법을 알아봅니다. 계층별 그룹을 사용하여 상위 명명된 계정에 계정을 연결합니다.
 title: 계층 만들기
 exl-id: ea56145b-f8c2-4b18-a50c-b547ac1102a1
 feature: Target Account Management
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: b4fcaeab734a44bbac52c7ee7ebce2da085fa686
 workflow-type: tm+mt
-source-wordcount: '132'
-ht-degree: 8%
+source-wordcount: '150'
+ht-degree: 7%
 
 ---
 

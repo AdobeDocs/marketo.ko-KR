@@ -1,13 +1,13 @@
 ---
 unique-page-id: 12615802
-description: 명명된 계정 삭제 - Marketo 문서 - 제품 설명서
+description: TAM에서 명명된 계정을 삭제하는 방법을 알아봅니다. 계정을 선택하고 명명 계정 작업 을 사용하여 삭제합니다.
 title: 지정 계정 삭제
 exl-id: 47a1ce87-43ac-4f8f-94ab-7dec2730ab21
 feature: Target Account Management
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: b4fcaeab734a44bbac52c7ee7ebce2da085fa686
 workflow-type: tm+mt
-source-wordcount: '99'
-ht-degree: 10%
+source-wordcount: '109'
+ht-degree: 9%
 
 ---
 

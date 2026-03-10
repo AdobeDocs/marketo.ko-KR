@@ -1,12 +1,12 @@
 ---
 unique-page-id: 11380785
-description: 지정된 계정 인사이트 - Marketo 문서 - 제품 설명서
+description: 명명된 계정 대시보드 및 대상 계정에 대한 360도 보기에 대해 알아봅니다. 참여, 기회, 계정 팀 및 ICP 지표를 봅니다.
 title: 지정 계정 인사이트
 exl-id: 2bd9497e-ca5f-4fd6-8fd2-241419e97cba
 feature: Target Account Management
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: b4fcaeab734a44bbac52c7ee7ebce2da085fa686
 workflow-type: tm+mt
-source-wordcount: '385'
+source-wordcount: '399'
 ht-degree: 2%
 
 ---
@@ -112,6 +112,6 @@ ht-degree: 2%
 
 ## [!UICONTROL ICP Indicators] {#icp-indicators}
 
-[!UICONTROL ICP Indicators]모델을 조정[할 때 내보내기 위해 선택한 &#x200B;](/help/marketo/product-docs/target-account-management/account-profiling/account-profiling-ranking-and-tuning.md#model-tuning)을(를) 봅니다.
+[!UICONTROL ICP Indicators]모델을 조정[할 때 내보내기 위해 선택한 ](/help/marketo/product-docs/target-account-management/account-profiling/account-profiling-ranking-and-tuning.md#model-tuning)을(를) 봅니다.
 
 ![](assets/eight.png)

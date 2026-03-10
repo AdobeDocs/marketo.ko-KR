@@ -1,12 +1,12 @@
 ---
 unique-page-id: 11378812
-description: 계정 살펴보기 - Marketo 문서 - 제품 설명서
+description: CRM 또는 Marketo 회사에서 잠재적인 타겟 계정을 검색하는 방법을 알아봅니다. 선택한 계정을 명명 계정으로 추가하고 사용자를 자동으로 연결합니다.
 title: 계정 검색
 exl-id: 90da4ae0-0a12-48bd-8bae-a7431d2cf4f4
 feature: Target Account Management
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: b4fcaeab734a44bbac52c7ee7ebce2da085fa686
 workflow-type: tm+mt
-source-wordcount: '491'
+source-wordcount: '508'
 ht-degree: 1%
 
 ---

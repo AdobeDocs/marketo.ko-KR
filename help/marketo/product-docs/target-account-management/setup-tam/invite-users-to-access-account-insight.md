@@ -1,12 +1,12 @@
 ---
 unique-page-id: 12980105
-description: '[!UICONTROL Account Insight]에 액세스하도록 사용자 초대 - Marketo 문서 - 제품 설명서'
+description: 계정 Insight에 액세스하도록 사용자를 초대하는 방법을 알아봅니다. CRM 또는 이메일로 초대하고 영업 사용자 탭에서 계정 Insight 액세스 권한을 부여합니다.
 title: '[!UICONTROL Account Insight]에 액세스하도록 사용자 초대'
 exl-id: 772e50d6-4ae8-4d3e-9d6a-9bc075bd4a06
 feature: Target Account Management
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: b4fcaeab734a44bbac52c7ee7ebce2da085fa686
 workflow-type: tm+mt
-source-wordcount: '143'
+source-wordcount: '159'
 ht-degree: 1%
 
 ---

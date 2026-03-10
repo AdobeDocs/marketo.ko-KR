@@ -1,12 +1,12 @@
 ---
 unique-page-id: 12255457
-description: TAM 시작하기 - Marketo 문서 - 제품 설명서
+description: 인스턴스에 추가된 후 TAM을 시작하는 방법을 알아봅니다. 권한을 설정하고, 계정 점수를 구성하고, 명명된 계정을 만드는 등의 작업을 수행하려면 단계를 따르십시오.
 title: TAM 시작하기
 exl-id: 95fd6c22-7ef8-4184-aeff-7586d12ec495
 feature: Target Account Management
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: b4fcaeab734a44bbac52c7ee7ebce2da085fa686
 workflow-type: tm+mt
-source-wordcount: '284'
+source-wordcount: '303'
 ht-degree: 2%
 
 ---

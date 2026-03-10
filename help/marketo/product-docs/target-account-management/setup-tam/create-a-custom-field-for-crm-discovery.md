@@ -1,13 +1,13 @@
 ---
 unique-page-id: 12978647
-description: CRM 검색을 위한 사용자 지정 필드 만들기 - Marketo 문서 - 제품 설명서
+description: 사용자 지정 명명된 계정 필드를 만들고, CRM에 매핑하고, CRM 계정 검색에 사용하는 방법을 알아봅니다. CRM 검색 그리드에서 매핑된 데이터를 참조하십시오.
 title: CRM 검색용 사용자 정의 필드 만들기
 exl-id: 16e03f6f-e3c2-443c-803e-bf35a346693a
 feature: Target Account Management
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: b4fcaeab734a44bbac52c7ee7ebce2da085fa686
 workflow-type: tm+mt
-source-wordcount: '115'
-ht-degree: 21%
+source-wordcount: '133'
+ht-degree: 18%
 
 ---
 
