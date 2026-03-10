@@ -112,6 +112,6 @@ ht-degree: 2%
 
 ## [!UICONTROL ICP Indicators] {#icp-indicators}
 
-[!UICONTROL ICP Indicators]모델을 조정[할 때 내보내기 위해 선택한 ](/help/marketo/product-docs/target-account-management/account-profiling/account-profiling-ranking-and-tuning.md#model-tuning)을(를) 봅니다.
+[!UICONTROL ICP Indicators]모델을 조정[할 때 내보내기 위해 선택한 &#x200B;](/help/marketo/product-docs/target-account-management/account-profiling/account-profiling-ranking-and-tuning.md#model-tuning)을(를) 봅니다.
 
 ![](assets/eight.png)
