@@ -48,7 +48,7 @@ ht-degree: 0%
 
    >[!NOTE]
    >
-   >Marketo [을(를) 클릭하기 전에 동기화 사용자로부터 ](/help/marketo/product-docs/crm-sync/salesforce-sync/sfdc-sync-details/hide-a-salesforce-field-from-the-marketo-sync.md){target="_blank"}필요하지 않은 모든 필드 숨기기&#x200B;**[!UICONTROL Sync Fields]**&#x200B;를 확인하십시오. 필드 동기화 를 클릭하면 사용자가 볼 수 있는 모든 필드가 Marketo에 영구적으로 만들어지며 삭제할 수 없습니다.
+   >Marketo [을(를) 클릭하기 전에 동기화 사용자로부터 &#x200B;](/help/marketo/product-docs/crm-sync/salesforce-sync/sfdc-sync-details/hide-a-salesforce-field-from-the-marketo-sync.md){target="_blank"}필요하지 않은 모든 필드 숨기기&#x200B;**[!UICONTROL Sync Fields]**&#x200B;를 확인하십시오. 필드 동기화 를 클릭하면 사용자가 볼 수 있는 모든 필드가 Marketo에 영구적으로 만들어지며 삭제할 수 없습니다.
 
 1. Salesforce 구성 2부([Professional](/help/marketo/product-docs/crm-sync/salesforce-sync/setup/professional-edition/step-2-of-3-create-a-salesforce-user-for-marketo-professional.md), [Enterprise](/help/marketo/product-docs/crm-sync/salesforce-sync/setup/enterprise-unlimited-edition/step-2-of-3-create-a-salesforce-user-for-marketo-enterprise-unlimited.md))에서 만든 Salesforce 동기화 사용자 자격 증명을 입력하고 **[!UICONTROL Sync Fields]**&#x200B;을(를) 클릭합니다.
 

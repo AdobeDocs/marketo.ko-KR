@@ -15,7 +15,7 @@ ht-degree: 1%
 
 [!DNL Microsoft Dynamics]에 처음 동기화하면 최신 버전의 Marketo Sales Insight(MSI)용 플러그인을 다운로드하여 설치합니다. Marketo은 이러한 플러그인을 정기적으로 업데이트하므로 동일한 위치로 돌아가서 새 버전을 다운로드할 수 있습니다.
 
-Marketo의 기본 CRM 동기화 솔루션을 [!DNL Dynamics]에 사용하는 경우 [ 릴리스에 해당하는 ](/help/marketo/product-docs/marketo-sales-insight/msi-for-microsoft-dynamics/installing/download-the-marketo-sales-insight-solution-for-microsoft-dynamics.md){target="_blank"}최신 플러그인을 다운로드[!DNL Dynamics]하십시오. 사용자 지정 동기화가 있고 Marketo Sales Insight을 구입한 사용자의 경우 [패키지가 여기에 있습니다](https://mktg-cdn.marketo.com/community/MarketoSalesInsight_NonNative.zip){target="_blank"}.
+Marketo의 기본 CRM 동기화 솔루션을 [!DNL Dynamics]에 사용하는 경우 [&#x200B; 릴리스에 해당하는 &#x200B;](/help/marketo/product-docs/marketo-sales-insight/msi-for-microsoft-dynamics/installing/download-the-marketo-sales-insight-solution-for-microsoft-dynamics.md){target="_blank"}최신 플러그인을 다운로드[!DNL Dynamics]하십시오. 사용자 지정 동기화가 있고 Marketo Sales Insight을 구입한 사용자의 경우 [패키지가 여기에 있습니다](https://mktg-cdn.marketo.com/community/MarketoSalesInsight_NonNative.zip){target="_blank"}.
 
 >[!NOTE]
 >

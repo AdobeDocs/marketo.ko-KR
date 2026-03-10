@@ -31,7 +31,7 @@ ht-degree: 0%
 
 ## [!DNL Dynamics]에 필드를 만들었습니다. Marketo에 동기화할 수 있습니까? {#i-created-a-field-in-dynamics-can-i-sync-it-to-marketo}
 
-예, 동기화 사용자가 [에서 해당 필드에 액세스할 수 있는 한 ](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/microsoft-dynamics-365-with-ropc-connection/step-4-of-4-connect.md#select-fields-to-sync)필드를 동기화[!DNL Dynamics]할 수 있습니다.
+예, 동기화 사용자가 [에서 해당 필드에 액세스할 수 있는 한 &#x200B;](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/microsoft-dynamics-365-with-ropc-connection/step-4-of-4-connect.md#select-fields-to-sync)필드를 동기화[!DNL Dynamics]할 수 있습니다.
 
 ## 어떤 필드가 Marketo에 동기화됩니까? {#what-fields-will-sync-to-marketo}
 

@@ -15,7 +15,7 @@ ht-degree: 0%
 
 [!DNL Microsoft Dynamics]에 처음 동기화하면 Marketo용 플러그인의 최신 버전을 다운로드합니다. Marketo은 이러한 플러그인을 정기적으로 업데이트하므로 동일한 위치로 돌아가서 새 버전을 다운로드할 수 있습니다.
 
-[ 릴리스에 해당하는 ](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/download-the-marketo-lead-management-solution.md)최신 플러그인을 다운로드합니다[!DNL Dynamics].
+[&#x200B; 릴리스에 해당하는 &#x200B;](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/download-the-marketo-lead-management-solution.md)최신 플러그인을 다운로드합니다[!DNL Dynamics].
 
 ![](assets/marketo-plugin-releases-for-microsoft-dynamics-1.png)
 

@@ -21,7 +21,7 @@ Marketo은 리드 또는 연락처와 연결된 이벤트 및 작업을 모두 �
 
 ## 활동 세부 사항이 두 시스템 간에 어떻게 동기화됩니까? {#how-are-activity-details-kept-in-sync-between-the-two-systems}
 
-동기화는 [!DNL Salesforce]에서 Marketo으로 가는 한 가지 방법입니다. [!DNL Salesforce]작업 만들기[ 흐름 단계 또는 ](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/salesforce-flow-actions/create-task.md)활동 동기화 사용자 지정[을(를) ](/help/marketo/product-docs/crm-sync/salesforce-sync/setup/optional-steps/customize-activities-sync.md)에 사용하여 [!DNL Salesforce]에서 작업을 만들 수 있습니다.
+동기화는 [!DNL Salesforce]에서 Marketo으로 가는 한 가지 방법입니다. [!DNL Salesforce]작업 만들기[&#x200B; 흐름 단계 또는 &#x200B;](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/salesforce-flow-actions/create-task.md)활동 동기화 사용자 지정[을(를) &#x200B;](/help/marketo/product-docs/crm-sync/salesforce-sync/setup/optional-steps/customize-activities-sync.md)에 사용하여 [!DNL Salesforce]에서 작업을 만들 수 있습니다.
 
 ## Marketo을 사용하여 작업을 만들 수 있습니까? {#can-i-create-a-task-using-marketo}
 

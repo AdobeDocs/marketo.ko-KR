@@ -21,7 +21,7 @@ ht-degree: 1%
 
 >[!PREREQUISITES]
 >
->ADFS(Active Directory Federation Services)가 [Active Directory Federation Services](https://learn.microsoft.com/en-us/dynamics365/customerengagement/on-premises/deploy/configure-an-internet-facing-deployment){target="_blank"} 2.0, 2.1 또는 3.0을 구성한 IFD(인터넷 연결 배포)가 [있어야 합니다. ](https://msdn.microsoft.com/en-us/library/bb897402.aspx){target="_blank"} 참고: 링크를 클릭하면 IFD 문서가 자동으로 다운로드됩니다.
+>ADFS(Active Directory Federation Services)가 [Active Directory Federation Services](https://learn.microsoft.com/en-us/dynamics365/customerengagement/on-premises/deploy/configure-an-internet-facing-deployment){target="_blank"} 2.0, 2.1 또는 3.0을 구성한 IFD(인터넷 연결 배포)가 [있어야 합니다. &#x200B;](https://msdn.microsoft.com/en-us/library/bb897402.aspx){target="_blank"} 참고: 링크를 클릭하면 IFD 문서가 자동으로 다운로드됩니다.
 >
 >시작하기 전에 [Marketo 솔루션을 다운로드합니다](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/download-the-marketo-lead-management-solution.md){target="_blank"}.
 
