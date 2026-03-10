@@ -3,10 +3,10 @@ description: 에이전트 받은 편지함 - Marketo 문서 - 제품 설명서
 title: 에이전트 받은 편지함
 feature: Dynamic Chat
 exl-id: 65f13879-36d2-4a23-a029-271f5aea1229
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: b3b62c9c73330415d11b1d19599862ae22eb453d
 workflow-type: tm+mt
-source-wordcount: '550'
-ht-degree: 0%
+source-wordcount: '581'
+ht-degree: 1%
 
 ---
 
@@ -30,7 +30,7 @@ ht-degree: 0%
 >
 >상태를 사용할 수 없음으로 설정하면 활성 채팅에 영향을 주지 않습니다.
 
-## 라이브 채팅 알림 {#live-chat-notifications}
+## Live Chat 알림 {#live-chat-notifications}
 
 [실시간 채팅 개요](/help/marketo/product-docs/demand-generation/dynamic-chat/live-chat/live-chat-overview.md#live-chat-notifications){target="_blank"}에서 알림에 대해 자세히 알아보세요.
 
@@ -90,7 +90,7 @@ ht-degree: 0%
 
    ![](assets/agent-inbox-12.png)
 
-## 활동 내역 {#activity-history}
+## 활동 기록 {#activity-history}
 
 방문자 정보 아래는 활동 기록입니다. 활동 유형 및 날짜를 보고 채팅 기록을 봅니다.
 
@@ -116,6 +116,12 @@ ht-degree: 0%
 
    ![](assets/agent-inbox-16.png)
 
+## 트랜스크립트 다운로드 {#download-transcript}
+
+실시간 채팅이 끝나면 채팅 창 아래쪽에 있는 **성적 증명서 다운로드** 단추를 클릭하고 대화의 .txt 파일을 &quot;다운로드&quot; 폴더로 자동으로 다운로드합니다.
+
+![](assets/agent-inbox-17.png)
+
 ## 대화 요약 {#conversation-summary}
 
 >[!NOTE]
@@ -124,7 +130,7 @@ ht-degree: 0%
 
 대화 요약 은 방문자가 관심을 표현한 주제를 포함하여 실시간으로 빠른 요약을 생성합니다. 모든 채팅 화면의 오른쪽 하단에서 사용할 수 있습니다.
 
-![](assets/agent-inbox-17.png)
+![](assets/agent-inbox-18.png)
 
 >[!NOTE]
 >
