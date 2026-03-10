@@ -1,12 +1,12 @@
 ---
 unique-page-id: 3571838
-description: Microsoft Dynamics 동기화 - 필드 동기화 - Marketo 문서 - 제품 설명서
+description: Microsoft Dynamics과 Marketo 간에 필드 동기화가 작동하는 방식에 대해 알아봅니다. 리드 및 연락처에 대한 양방향 동기화 및 다른 엔터티에 대한 단방향 동기화를 이해합니다.
 title: Microsoft Dynamics 동기화 - 필드 동기화
 exl-id: 78eef0eb-4086-45c5-bce3-a3399016f228
 feature: Microsoft Dynamics
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 2b29f05a27f847184e0968442012d443e9e0597d
 workflow-type: tm+mt
-source-wordcount: '320'
+source-wordcount: '335'
 ht-degree: 0%
 
 ---
@@ -31,7 +31,7 @@ ht-degree: 0%
 
 ## [!DNL Dynamics]에 필드를 만들었습니다. Marketo에 동기화할 수 있습니까? {#i-created-a-field-in-dynamics-can-i-sync-it-to-marketo}
 
-예, 동기화 사용자가 [에서 해당 필드에 액세스할 수 있는 한 &#x200B;](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/microsoft-dynamics-365-with-ropc-connection/step-4-of-4-connect.md#select-fields-to-sync)필드를 동기화[!DNL Dynamics]할 수 있습니다.
+예, 동기화 사용자가 [에서 해당 필드에 액세스할 수 있는 한 ](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/microsoft-dynamics-365-with-ropc-connection/step-4-of-4-connect.md#select-fields-to-sync)필드를 동기화[!DNL Dynamics]할 수 있습니다.
 
 ## 어떤 필드가 Marketo에 동기화됩니까? {#what-fields-will-sync-to-marketo}
 

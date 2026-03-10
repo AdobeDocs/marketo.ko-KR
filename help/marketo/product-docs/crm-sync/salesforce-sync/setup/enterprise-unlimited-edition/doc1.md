@@ -1,12 +1,12 @@
 ---
-description: 1단계/3단계 - Salesforce에 Marketo 필드 추가(Enterprise/Unlimited) - Marketo 문서 - 제품 설명서
+description: Salesforce Enterprise 또는 Unlimited Edition에 Marketo 필드를 추가하는 방법을 알아봅니다. 리드 및 연락처 개체에 점수, 획득 프로그램 및 획득 날짜를 만듭니다.
 title: 1/3단계 - Salesforce에 Marketo 필드 추가(Enterprise/Unlimited)
 hide: true
 hidefromtoc: true
 feature: Salesforce Integration
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 2b29f05a27f847184e0968442012d443e9e0597d
 workflow-type: tm+mt
-source-wordcount: '655'
+source-wordcount: '664'
 ht-degree: 1%
 
 ---

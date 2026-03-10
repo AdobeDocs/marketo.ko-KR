@@ -1,12 +1,12 @@
 ---
 unique-page-id: 2953455
-description: SFDC 동기화 - 리드 동기화 - Marketo 문서 - 제품 설명서
+description: Salesforce과 Marketo 간 리드 동기화가 작동하는 방식에 대해 알아봅니다. 양방향 동기화를 이해하고 Marketo에서 리드를 만들고 유효성 검사 규칙을 준수합니다.
 title: SFDC 동기화 - 리드 동기화
 exl-id: cf38e091-7344-4b95-b9e1-77eda751c4a9
 feature: Salesforce Integration
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 2b29f05a27f847184e0968442012d443e9e0597d
 workflow-type: tm+mt
-source-wordcount: '230'
+source-wordcount: '243'
 ht-degree: 2%
 
 ---

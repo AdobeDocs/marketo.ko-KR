@@ -1,12 +1,12 @@
 ---
 unique-page-id: 9437903
-description: 사용자 지정 [!DNL Dynamics] 동기화 필터 만들기 - Marketo 문서 - 제품 설명서
+description: 선택한 레코드만 Marketo에 동기화되도록 사용자 지정 Dynamics 동기화 필터를 만드는 방법을 알아봅니다.
 title: 사용자 지정 [!DNL Dynamics] 동기화 필터 만들기
 exl-id: 6b0d878a-9c55-4e73-9923-11140e83bb37
 feature: Microsoft Dynamics
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 2b29f05a27f847184e0968442012d443e9e0597d
 workflow-type: tm+mt
-source-wordcount: '746'
+source-wordcount: '753'
 ht-degree: 1%
 
 ---

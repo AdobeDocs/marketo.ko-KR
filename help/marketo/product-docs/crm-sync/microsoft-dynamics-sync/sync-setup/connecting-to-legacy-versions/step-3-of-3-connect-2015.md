@@ -1,13 +1,13 @@
 ---
 unique-page-id: 7504744
-description: Microsoft Dynamics용 Marketo 2015 온-프레미스 3단계/3단계 - Marketo 문서 - 제품 설명서 설치
+description: 마지막 단계에서 Marketo을 Dynamics 2015 온프레미스에 연결하는 방법을 알아봅니다. Marketo 관리자에서 동기화 사용자 자격 증명을 입력하고 동기화를 활성화합니다.
 title: Microsoft Dynamics 2015용 Marketo 온-프레미스 단계 3/3
 exl-id: 054bf725-7a80-4114-8360-2d86e2e33dd7
 feature: Microsoft Dynamics
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 2b29f05a27f847184e0968442012d443e9e0597d
 workflow-type: tm+mt
-source-wordcount: '359'
-ht-degree: 1%
+source-wordcount: '368'
+ht-degree: 2%
 
 ---
 
@@ -44,7 +44,7 @@ ht-degree: 1%
    >
    >제출 후 후속 스키마 변경 사항을 되돌릴 수 없으므로 자격 증명이 올바른지 확인하십시오. 잘못된 자격 증명을 저장하면 새 Marketo 구독을 얻어야 합니다.
 
-1. **[!UICONTROL Username]**, **[!UICONTROL Password]**, [!DNL Microsoft Dynamics] **URL** 및 **[!UICONTROL Client Id]/[!UICONTROL Client Secret]**&#x200B;을(를) 입력하십시오. 완료되면 **[!UICONTROL Save]**&#x200B;을(를) 클릭합니다.
+1. **[!UICONTROL Username]**, **[!UICONTROL Password]**, [!DNL Microsoft Dynamics] **URL** 및 **[!UICONTROL Client Id]/[!UICONTROL Client Secret]**&#x200B;을(를) 입력하십시오. 완료되면 **[!UICONTROL Save]**&#x200B;를 클릭합니다.
 
    ![](assets/step-3-of-3-5.png)
 

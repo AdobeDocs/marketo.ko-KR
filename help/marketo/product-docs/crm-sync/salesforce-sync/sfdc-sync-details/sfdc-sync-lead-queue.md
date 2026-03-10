@@ -1,13 +1,13 @@
 ---
 unique-page-id: 7516241
-description: SFDC 동기화 - 리드 큐 - Marketo 문서 - 제품 설명서
+description: Marketo에서 Salesforce 리드 큐에 사람을 할당하는 방법에 대해 알아봅니다. 리드 배포에 대해 사용자와 SFDC 동기화 또는 소유자 변경 흐름 작업을 사용합니다.
 title: SFDC 동기화 - 리드 큐
 exl-id: b3b5e14c-f914-429c-a4b9-6b535ad8e882
 feature: Salesforce Integration
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 2b29f05a27f847184e0968442012d443e9e0597d
 workflow-type: tm+mt
-source-wordcount: '130'
-ht-degree: 3%
+source-wordcount: '145'
+ht-degree: 2%
 
 ---
 

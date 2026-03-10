@@ -1,12 +1,12 @@
 ---
-description: Salesforce 동기화 오류 - Marketo 문서 - 제품 설명서
+description: Marketo에서 Salesforce 동기화 오류를 보고 필터링하는 방법을 알아봅니다. 레코드 수준 및 작업 수준 오류를 확인하고 오류 세부 정보를 사용하여 동기화 문제를 해결하십시오.
 title: Salesforce 동기화 오류
 exl-id: 4819f423-30c6-48e3-8cec-5d298ceb7b56
 feature: Salesforce Integration
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 2b29f05a27f847184e0968442012d443e9e0597d
 workflow-type: tm+mt
-source-wordcount: '173'
-ht-degree: 3%
+source-wordcount: '190'
+ht-degree: 6%
 
 ---
 
@@ -48,7 +48,7 @@ ht-degree: 3%
 
    ![](assets/salesforce-sync-errors-3.png)
 
-1. 날짜 및 시간 범위를 선택한 다음 오류 유형(작업 수준 또는 레코드 수준)별로 필터링합니다. 완료되면 **[!UICONTROL Apply]**&#x200B;을(를) 클릭합니다.
+1. 날짜 및 시간 범위를 선택한 다음 오류 유형(작업 수준 또는 레코드 수준)별로 필터링합니다. 완료되면 **[!UICONTROL Apply]**&#x200B;를 클릭합니다.
 
    ![](assets/salesforce-sync-errors-4.png)
 

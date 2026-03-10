@@ -1,12 +1,12 @@
 ---
-description: 4단계/4단계 - 리소스 소유자 암호 제어 연결과 Marketo 솔루션 연결 - Marketo 문서 - 제품 설명서
+description: ROPC 연결을 통해 Marketo 솔루션을 Dynamics 365에 연결하는 방법을 알아봅니다. Marketo 관리자에서 동기화 사용자 자격 증명을 입력하고 동기화를 활성화합니다.
 title: 4단계/4단계 - 리소스 소유자 암호 제어 연결과 Marketo 솔루션 연결
 exl-id: 71a52a3e-f31e-45ee-8196-d536528e42ca
 feature: Microsoft Dynamics
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 2b29f05a27f847184e0968442012d443e9e0597d
 workflow-type: tm+mt
-source-wordcount: '391'
-ht-degree: 0%
+source-wordcount: '397'
+ht-degree: 2%
 
 ---
 
@@ -54,7 +54,7 @@ ht-degree: 0%
    >
    >새 자격 증명을 입력하기 전에 [여기에서 유효성을 확인](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/validate-microsoft-dynamics-sync.md){target="_blank"}할 수 있습니다.
 
-1. **[!UICONTROL Username]**, **[!UICONTROL Password]**, [!DNL Microsoft Dynamics] **[!UICONTROL URL]**, **[!UICONTROL Client ID]** 및 **[!UICONTROL Client Secret]**&#x200B;을(를) 입력하십시오. 완료되면 **[!UICONTROL Save]**&#x200B;을(를) 클릭합니다.
+1. **[!UICONTROL Username]**, **[!UICONTROL Password]**, [!DNL Microsoft Dynamics] **[!UICONTROL URL]**, **[!UICONTROL Client ID]** 및 **[!UICONTROL Client Secret]**&#x200B;을(를) 입력하십시오. 완료되면 **[!UICONTROL Save]**&#x200B;를 클릭합니다.
 
    ![](assets/step-4-of-4-connect-ropc-5.png)
 

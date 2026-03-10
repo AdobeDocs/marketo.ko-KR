@@ -1,13 +1,13 @@
 ---
 unique-page-id: 2953384
-description: 사용자 지정 엔터티에 대해 동기화 활성화 - Marketo 문서 - 제품 설명서
+description: Microsoft Dynamics 및 Marketo에서 사용자 지정 엔터티에 대한 동기화를 활성화하는 방법을 알아봅니다. Admin 및 Microsoft Dynamics을 사용하여 동기화할 사용자 지정 엔터티를 선택하고 활성화합니다.
 title: 사용자 정의 엔티티에 대한 동기화 활성화
 exl-id: 4b075bf3-f10b-4725-8c8e-a6ecee63d756
 feature: Microsoft Dynamics
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 2b29f05a27f847184e0968442012d443e9e0597d
 workflow-type: tm+mt
-source-wordcount: '299'
-ht-degree: 5%
+source-wordcount: '316'
+ht-degree: 4%
 
 ---
 

@@ -1,12 +1,12 @@
 ---
 unique-page-id: 2953461
-description: SFDC 동기화 - 필드 동기화 - Marketo 문서 - 제품 설명서
+description: 어떤 Salesforce 필드가 Marketo에 동기화되는지, SFDC 유형 및 isDeleted가 어떻게 작동하는지 알아봅니다. Salesforce에 새 필드를 먼저 추가하여 Marketo에 자동으로 동기화합니다.
 title: SFDC 동기화 - 필드 동기화
 exl-id: fbd66829-53cb-47fd-a530-149d12baee0e
 feature: Salesforce Integration
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 2b29f05a27f847184e0968442012d443e9e0597d
 workflow-type: tm+mt
-source-wordcount: '403'
+source-wordcount: '422'
 ht-degree: 0%
 
 ---

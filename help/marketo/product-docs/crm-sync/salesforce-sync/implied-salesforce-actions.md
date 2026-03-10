@@ -1,13 +1,13 @@
 ---
 unique-page-id: 4719304
-description: 포함된 Salesforce 작업 - Marketo 문서 - 제품 설명서
+description: SFDC에 사용자 자동 동기화 또는 기타 작업을 트리거하는 Salesforce 흐름 단계를 이해합니다. Campaign에 추가, 소유자 변경, 작업 만들기 및 사람 변환에 대한 규칙을 알아봅니다.
 title: 암시적 Salesforce 작업
 exl-id: 88533588-77f2-465e-9644-a4f95b87f99d
 feature: Salesforce Integration
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 2b29f05a27f847184e0968442012d443e9e0597d
 workflow-type: tm+mt
-source-wordcount: '136'
-ht-degree: 27%
+source-wordcount: '157'
+ht-degree: 23%
 
 ---
 

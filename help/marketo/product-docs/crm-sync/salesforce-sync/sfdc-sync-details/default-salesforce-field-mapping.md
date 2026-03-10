@@ -1,12 +1,12 @@
 ---
 unique-page-id: 4719314
-description: 기본 Salesforce 필드 매핑 - Marketo 문서 - 제품 설명서
+description: Salesforce과 Marketo Engage 간의 기본 Salesforce 필드 매핑에 대해 알아봅니다. 가망 고객, 연락처, 계정 및 기회 필드가 자동으로 매핑되는 방법을 확인하십시오.
 title: 기본 Salesforce 필드 매핑
 exl-id: d6639733-f85d-4f4c-ac41-5d2a68a9c6b2
 feature: Salesforce Integration
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 2b29f05a27f847184e0968442012d443e9e0597d
 workflow-type: tm+mt
-source-wordcount: '138'
+source-wordcount: '151'
 ht-degree: 5%
 
 ---

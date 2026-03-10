@@ -1,12 +1,12 @@
 ---
 unique-page-id: 10092969
-description: Microsoft Dynamics 동기화 필터 - 병합 - Marketo 문서 - 제품 설명서
+description: 리드를 병합할 때 Dynamics 동기화 필터가 작동하는 방식을 이해합니다. 가장 성과가 좋은 레코드 동기화 필터 값이 레코드가 Marketo에 동기화되는지 여부를 결정하는 방법을 알아봅니다.
 title: Microsoft Dynamics 동기화 필터 - 병합
 exl-id: f8da9c3c-0f04-4f61-be03-7e7953d25afe
 feature: Microsoft Dynamics
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 2b29f05a27f847184e0968442012d443e9e0597d
 workflow-type: tm+mt
-source-wordcount: '159'
+source-wordcount: '175'
 ht-degree: 0%
 
 ---

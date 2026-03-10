@@ -1,12 +1,12 @@
 ---
 unique-page-id: 3571805
-description: 1단계/3단계 - Marketo 솔루션 설치(2011 온프레미스) - Marketo 문서 - 제품 설명서
+description: Dynamics 2011용 Marketo 솔루션을 온프레미스에 설치하는 방법을 알아봅니다. 솔루션을 가져오고 Dynamics의 설치 단계를 완료합니다.
 title: 1/3단계 - Marketo 솔루션 설치(2011 온프레미스)
 exl-id: 6e559b10-5273-4dc2-b98d-49c509cbeff7
 feature: Microsoft Dynamics
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 2b29f05a27f847184e0968442012d443e9e0597d
 workflow-type: tm+mt
-source-wordcount: '253'
+source-wordcount: '260'
 ht-degree: 6%
 
 ---
@@ -21,7 +21,7 @@ ht-degree: 6%
 
 >[!PREREQUISITES]
 >
->ADFS(Active Directory Federation Services)가 [Active Directory Federation Services](https://learn.microsoft.com/en-us/dynamics365/customerengagement/on-premises/deploy/configure-an-internet-facing-deployment){target="_blank"} 2.0, 2.1 또는 3.0을 구성한 IFD(인터넷 연결 배포)가 [있어야 합니다. &#x200B;](https://msdn.microsoft.com/en-us/library/bb897402.aspx){target="_blank"} **참고**: 링크를 클릭하면 IFD 문서가 자동으로 다운로드됩니다.
+>ADFS(Active Directory Federation Services)가 [Active Directory Federation Services](https://learn.microsoft.com/en-us/dynamics365/customerengagement/on-premises/deploy/configure-an-internet-facing-deployment){target="_blank"} 2.0, 2.1 또는 3.0을 구성한 IFD(인터넷 연결 배포)가 [있어야 합니다. ](https://msdn.microsoft.com/en-us/library/bb897402.aspx){target="_blank"} **참고**: 링크를 클릭하면 IFD 문서가 자동으로 다운로드됩니다.
 >
 >시작하기 전에 [Marketo 리드 관리 솔루션을 다운로드하십시오](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/download-the-marketo-lead-management-solution.md){target="_blank"}.
 
@@ -43,7 +43,7 @@ ht-degree: 6%
 
    ![](assets/image2015-4-2-11-3a37-3a33.png)
 
-1. **[!UICONTROL Browse]**&#x200B;을(를) 클릭합니다. [다운로드한](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/download-the-marketo-lead-management-solution.md)Marketo 리드 관리 솔루션을 선택합니다. **[!UICONTROL Next]**&#x200B;를 클릭합니다.
+1. **[!UICONTROL Browse]**&#x200B;를 클릭합니다. [다운로드한](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/download-the-marketo-lead-management-solution.md)Marketo 리드 관리 솔루션을 선택합니다. **[!UICONTROL Next]**&#x200B;를 클릭합니다.
 
    ![](assets/image2015-4-2-11-3a40-3a33.png)
 

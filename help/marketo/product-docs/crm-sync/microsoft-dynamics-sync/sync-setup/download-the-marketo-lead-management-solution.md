@@ -1,13 +1,13 @@
 ---
 unique-page-id: 6848922
-description: Marketo 리드 관리 솔루션 다운로드 - Marketo 문서 - 제품 설명서
+description: Microsoft Dynamics용 Marketo 리드 관리 솔루션을 다운로드하는 방법을 알아봅니다.
 title: Marketo 리드 관리 솔루션 다운로드
 exl-id: 2deafcfc-19f4-4cbf-8764-402a7f69c7d2
 feature: Microsoft Dynamics
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 2b29f05a27f847184e0968442012d443e9e0597d
 workflow-type: tm+mt
-source-wordcount: '98'
-ht-degree: 18%
+source-wordcount: '100'
+ht-degree: 21%
 
 ---
 

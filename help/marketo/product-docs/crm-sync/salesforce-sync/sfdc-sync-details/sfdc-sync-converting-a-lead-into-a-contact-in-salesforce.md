@@ -1,12 +1,12 @@
 ---
 unique-page-id: 2953465
-description: SFDC 동기화 - Salesforce에서 리드를 연락처로 전환 - Marketo 문서 - 제품 설명서
+description: Salesforce에서 잠재 고객을 연락처로 전환하면 어떻게 되는지 알아봅니다. Marketo에서 변경 사항을 반영하고 Lead가 Converted 트리거 및 필터인 방법을 확인합니다.
 title: SFDC 동기화 - Salesforce에서 리드를 연락처로 전환
 exl-id: 9c9dbe9a-80a6-4153-ac86-96f85025fe77
 feature: Salesforce Integration
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 2b29f05a27f847184e0968442012d443e9e0597d
 workflow-type: tm+mt
-source-wordcount: '144'
+source-wordcount: '158'
 ht-degree: 0%
 
 ---

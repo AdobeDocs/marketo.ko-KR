@@ -1,13 +1,13 @@
 ---
 unique-page-id: 4719310
-description: Salesforce 동기화 활성화/비활성화 - Marketo 문서 - 제품 설명서
+description: Marketo에서 Salesforce 동기화를 활성화하거나 비활성화하는 방법에 대해 알아봅니다. 주요 필드 또는 동기화 변경 사항을 만들 때 관리자에서 동기화를 해제한 다음 준비가 되면 다시 활성화하십시오.
 title: Salesforce 동기화 활성화/비활성화
 exl-id: 3238f149-6aa3-4207-aae9-e404cf519414
 feature: Salesforce Integration
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 2b29f05a27f847184e0968442012d443e9e0597d
 workflow-type: tm+mt
-source-wordcount: '76'
-ht-degree: 6%
+source-wordcount: '94'
+ht-degree: 5%
 
 ---
 

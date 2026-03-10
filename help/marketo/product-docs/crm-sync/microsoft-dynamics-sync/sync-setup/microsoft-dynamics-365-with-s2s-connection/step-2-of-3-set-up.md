@@ -1,12 +1,12 @@
 ---
 unique-page-id: 3571827
-description: 2단계/3단계 - 서버 간 연결을 통해 Marketo 솔루션 설정 - Marketo 문서 - 제품 설명서
+description: Dynamics 365용 서버 간 연결을 사용하여 Marketo 솔루션을 설정하는 방법을 알아봅니다. Azure AD에서 클라이언트 앱을 만들고 동기화 사용자에 대한 동의를 부여합니다.
 title: 2/3단계 - 서버 간 연결을 통해 Marketo 솔루션 설정
 exl-id: 324e2142-2aa2-4548-9a04-683832e3ba69
 feature: Microsoft Dynamics
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 2b29f05a27f847184e0968442012d443e9e0597d
 workflow-type: tm+mt
-source-wordcount: '496'
+source-wordcount: '508'
 ht-degree: 0%
 
 ---
@@ -58,7 +58,7 @@ ht-degree: 0%
 
 [!DNL Azure AD]에서 [!DNL ADFS Onprem]&#x200B;(으)로 페더레이션된 경우 특정 응용 프로그램에 대한 홈 영역 검색 정책을 만들어야 합니다. 이 정책을 사용하면 [!DNL Azure AD]이(가) 인증 요청을 페더레이션 서비스에 리디렉션합니다. 이에 대해 [!DNL AD Connect]에서 암호 해시 동기화를 사용하도록 설정해야 합니다. 자세한 내용은 [[!DNL OAuth] 함께 [!DNL ROPC]](https://docs.microsoft.com/en-us/azure/active-directory/develop/v2-oauth-ropc) 및 [응용 프로그램에 대한 hrd 정책 설정](https://docs.microsoft.com/en-us/azure/active-directory/manage-apps/configure-authentication-for-federated-users-portal#example-set-an-hrd-policy-for-an-application)을 참조하세요.
 
-추가 참조 [이(가) 여기에 있습니다](https://docs.microsoft.com/en-us/azure/active-directory/reports-monitoring/concept-all-sign-ins#:~:text=Interactive%20user%20sign%2Dins%20are,as%20the%20Microsoft%20Authenticator%20app.&text=이%20report%20also%20includes%20federated, are%20federated%20to%20Azure%20AD.){target="_blank"}.
+추가 참조 [이(가) 여기에 있습니다](https://docs.microsoft.com/en-us/azure/active-directory/reports-monitoring/concept-all-sign-ins#:~:text=Interactive%20user%20sign%2Dins%20are,as%20the%20Microsoft%20Authenticator%20app.&text=이%20report%20also%20includes%20federated,are%20federated%20to%20Azure%20AD.){target="_blank"}.
 
 ## Marketo 솔루션 구성 {#configure-marketo-solution}
 

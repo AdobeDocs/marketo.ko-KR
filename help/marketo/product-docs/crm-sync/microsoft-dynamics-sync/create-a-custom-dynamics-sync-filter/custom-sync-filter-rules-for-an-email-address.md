@@ -1,13 +1,13 @@
 ---
 unique-page-id: 10095307
-description: 이메일 주소에 대한 사용자 정의 동기화 필터 규칙 - Marketo 문서 - 제품 설명서
+description: Dynamics에서 전자 메일 주소에 대한 사용자 지정 동기화 필터 규칙을 설정하는 방법을 알아봅니다. 잠재 고객 또는 연락처에 이메일이 있는지 여부에 따라 워크플로우를 사용하여 Mkto에 동기화를 설정하십시오.
 title: 이메일 주소에 대한 사용자 정의 동기화 필터 규칙
 exl-id: d1d51310-0c59-447c-818c-b25aa281c15c
 feature: Microsoft Dynamics
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 2b29f05a27f847184e0968442012d443e9e0597d
 workflow-type: tm+mt
-source-wordcount: '195'
-ht-degree: 8%
+source-wordcount: '213'
+ht-degree: 7%
 
 ---
 

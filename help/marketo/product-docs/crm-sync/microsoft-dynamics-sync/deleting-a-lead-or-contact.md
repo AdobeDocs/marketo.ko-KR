@@ -1,12 +1,12 @@
 ---
 unique-page-id: 45417322
-description: 리드 또는 연락처 삭제 - Marketo 문서 - 제품 설명서
+description: Microsoft Dynamics과 Marketo 간에 리드 및 연락처 삭제가 작동하는 방식을 이해합니다. 필요에 따라 Microsoft이 삭제됨 플래그 및 개인 흐름 삭제 작업을 사용합니다.
 title: 리드 또는 연락처 삭제
 exl-id: d561b424-6a2b-4abe-b9bd-81eb23f1a25b
 feature: Microsoft Dynamics
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 2b29f05a27f847184e0968442012d443e9e0597d
 workflow-type: tm+mt
-source-wordcount: '150'
+source-wordcount: '166'
 ht-degree: 6%
 
 ---

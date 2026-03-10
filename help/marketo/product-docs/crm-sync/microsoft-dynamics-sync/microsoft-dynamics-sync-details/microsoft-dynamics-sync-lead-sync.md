@@ -1,12 +1,12 @@
 ---
 unique-page-id: 3571848
-description: Microsoft Dynamics 동기화 - 리드 동기화 - Marketo 문서 - 제품 설명서
+description: Microsoft Dynamics과 Marketo 간 리드 동기화가 작동하는 방식에 대해 알아봅니다. 양방향 동기화를 이해하고 사용자를 Microsoft에 동기화하여 리드를 만듭니다.
 title: Microsoft Dynamics 동기화 - 리드 동기화
 exl-id: ea04a039-32f7-41f9-85fb-18df8e236390
 feature: Microsoft Dynamics
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 2b29f05a27f847184e0968442012d443e9e0597d
 workflow-type: tm+mt
-source-wordcount: '284'
+source-wordcount: '297'
 ht-degree: 0%
 
 ---

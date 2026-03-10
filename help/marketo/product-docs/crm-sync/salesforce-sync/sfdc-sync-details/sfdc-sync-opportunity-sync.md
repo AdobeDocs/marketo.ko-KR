@@ -1,13 +1,13 @@
 ---
 unique-page-id: 2953467
-description: SFDC 동기화 - 영업 기회 동기화 - Marketo 문서 - 제품 설명서
+description: 영업 기회 동기화가 Salesforce에서 Marketo으로 작동하는 방식을 알아봅니다. 영업 기회 동기화, 연락처 연결, 영업 기회 트리거 및 필터 사용 방법을 확인합니다.
 title: SFDC 동기화 - 영업 기회 동기화
 exl-id: f8acc528-c631-43f0-8899-2f3c6fdabe9e
 feature: Salesforce Integration
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 2b29f05a27f847184e0968442012d443e9e0597d
 workflow-type: tm+mt
-source-wordcount: '279'
-ht-degree: 1%
+source-wordcount: '293'
+ht-degree: 4%
 
 ---
 
@@ -35,7 +35,7 @@ Marketo은 [영업 기회 연락처 역할](https://help.salesforce.com/HTViewHe
 
 ## 한 사람의 모든 기회를 어떻게 볼 수 있습니까? {#how-can-i-see-all-the-opportunities-of-a-person}
 
-**[!UICONTROL Opportunity Info]**&#x200B;개인 세부 정보[&#x200B; 페이지의 &#x200B;](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/managing-people-in-smart-lists/using-the-person-detail-page.md) 탭에서 기회 목록을 볼 수 있습니다.
+**[!UICONTROL Opportunity Info]**&#x200B;개인 세부 정보[ 페이지의 ](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/managing-people-in-smart-lists/using-the-person-detail-page.md) 탭에서 기회 목록을 볼 수 있습니다.
 
 ## 영업 기회와 관련된 트리거/필터는 무엇입니까? {#what-are-the-triggers-filters-related-to-opportunity}
 

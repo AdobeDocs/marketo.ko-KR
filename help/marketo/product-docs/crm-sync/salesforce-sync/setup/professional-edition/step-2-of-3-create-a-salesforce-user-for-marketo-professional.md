@@ -1,12 +1,12 @@
 ---
 unique-page-id: 3571797
-description: 3단계 중 2단계 - Marketo용 Salesforce 사용자 만들기(전문가) - Marketo 문서 - 제품 설명서
+description: Professional Edition을 사용하여 Marketo용 Salesforce 사용자를 만드는 방법을 알아봅니다. 페이지 레이아웃을 설정하고 리드 및 연락처에 대한 필드 권한으로 동기화 사용자를 만듭니다.
 title: 2/3단계 - Marketo용 Salesforce 사용자 만들기(Professional)
 exl-id: 7eb4bf89-b6e4-45e0-adee-e2976cb01dd3
 feature: Salesforce Integration
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 2b29f05a27f847184e0968442012d443e9e0597d
 workflow-type: tm+mt
-source-wordcount: '344'
+source-wordcount: '356'
 ht-degree: 0%
 
 ---

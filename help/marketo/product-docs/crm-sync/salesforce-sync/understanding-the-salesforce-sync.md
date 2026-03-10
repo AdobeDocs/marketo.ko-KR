@@ -1,13 +1,13 @@
 ---
 unique-page-id: 4719283
-description: Salesforce 동기화 이해 - Marketo 설명서 - 제품 설명서
+description: Salesforce 동기화를 통해 Marketo 및 Salesforce 데이터를 동기화하는 방법에 대해 알아봅니다. 동기화된 내용과 리드 및 연락처에 대한 양방향 동기화 작동 방식을 확인합니다.
 title: Salesforce 동기화 이해
 exl-id: 658c81ff-5fb3-4ad8-8759-da55bbf4e263
 feature: Salesforce Integration
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
-workflow-type: ht
-source-wordcount: '212'
-ht-degree: 100%
+source-git-commit: 2b29f05a27f847184e0968442012d443e9e0597d
+workflow-type: tm+mt
+source-wordcount: '229'
+ht-degree: 89%
 
 ---
 

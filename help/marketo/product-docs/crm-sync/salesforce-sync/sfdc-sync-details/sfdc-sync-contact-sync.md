@@ -1,12 +1,12 @@
 ---
 unique-page-id: 2953457
-description: SFDC 동기화 - 연락처 동기화 - Marketo 문서 - 제품 설명서
+description: Salesforce과 Marketo 간에 연락처 동기화가 작동하는 방식에 대해 알아봅니다. 양방향 동기화를 이해하고 사람을 연락처로 전환하며 흐름 액션과 강제 동기화합니다.
 title: SFDC 동기화 - 연락처 동기화
 exl-id: 537bbc95-9233-4454-892e-81f962cf729d
 feature: Salesforce Integration
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 2b29f05a27f847184e0968442012d443e9e0597d
 workflow-type: tm+mt
-source-wordcount: '229'
+source-wordcount: '244'
 ht-degree: 1%
 
 ---

@@ -1,11 +1,11 @@
 ---
-description: 통화 및 통화 키 메시지 동기화 - Marketo 문서 - 제품 설명서
+description: Veeva CRM에서 Marketo Engage으로 호출 및 호출 키 메시지 개체를 동기화하는 방법에 대해 알아봅니다. 스마트 목록 및 캠페인에서 호출 관련 트리거 및 필터를 사용합니다.
 title: 통화 및 통화 키 메시지 동기화
 exl-id: a8df5b77-e594-4e06-8194-1758a3582cda
 feature: Veeva CRM
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 2b29f05a27f847184e0968442012d443e9e0597d
 workflow-type: tm+mt
-source-wordcount: '477'
+source-wordcount: '493'
 ht-degree: 6%
 
 ---
@@ -87,10 +87,10 @@ ht-degree: 6%
     </tr>
     <tr>
       <td>콜</td>
-      <td>Date</td>
+      <td>일자</td>
       <td>처음 저장되거나 제출된 호출 날짜. 이 필드는 date 또는 datetime 필드가 제공되지 않은 경우 트리거를 통해 현재 날짜로 설정됩니다.</td>
       <td>Call_Date_vod__c</td>
-      <td>Date</td>
+      <td>일자</td>
     </tr>
     <tr>
       <td>콜</td>

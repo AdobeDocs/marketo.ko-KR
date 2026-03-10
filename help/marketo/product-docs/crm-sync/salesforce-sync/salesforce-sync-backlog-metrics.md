@@ -1,12 +1,12 @@
 ---
-description: Salesforce 동기화 백로그 지표 - Marketo 문서 - 제품 설명서
+description: Salesforce 동기화 백로그 지표 및 동기화 보류 중인 레코드를 모니터링하는 방법에 대해 알아봅니다. Admin 및 Salesforce에서 개체 유형별 백로그 트렌드 및 처리량을 봅니다.
 title: Salesforce 동기화 백로그 지표
 feature: Reporting
 exl-id: 6b58eb50-ff0d-4774-a232-3ae929948e2a
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 2b29f05a27f847184e0968442012d443e9e0597d
 workflow-type: tm+mt
-source-wordcount: '1048'
-ht-degree: 0%
+source-wordcount: '1065'
+ht-degree: 1%
 
 ---
 
@@ -92,15 +92,15 @@ ht-degree: 0%
 
 **동기화 사용자에게 표시되는 필드**: 동기화에 표시되는 필드가 동기화되어야 하고 마케팅 노력에 가치가 있는지 확인하십시오. 마지막으로 수정된 타임스탬프를 업데이트하는 Salesforce의 레코드를 업데이트하면 동기화 백로그에 레코드가 대기열에 추가되며, 동기화하지 않는 필드의 경우 동기화 중인 더 중요한 필드가 느려질 수 있습니다. 불필요한 필드가 동기화 사용자에게 표시되지 않는 경우 해당 필드를 업데이트하면 업데이트보다 훨씬 빠른 건너뛰기가 발생합니다. Salesforce 관리자와 협력하여 모범 사례 [여기](https://nation.marketo.com/t5/marketo-whisperer-blogs/best-practices-for-determining-which-fields-to-sync-with-marketo/ba-p/247449){target="_blank"}를 검토하고 Marketo 동기화 사용자에게 표시되는 필드를 업데이트합니다.
 
-**불필요한 레코드를 숨기거나 필터링합니다**: 레코드를 마케팅 가능하지 않은 경우 동기화 리소스를 낭비할 수 있습니다. 동기화 사용자가 이를 볼 수 없다면 동기화하려는 리소스를 낭비하지 않습니다. [Marketo Engage 지원](https://nation.marketo.com/t5/support/ct-p/Support#_blank){target="_blank"}에서는 추가 조건에 따라 레코드가 동기화되지 않도록 동기화 필터를 설정할 수 있습니다. 사용자 지정 동기화 필터 [을(를) 설정하는 방법에 대한 자세한 내용은 여기에서 &#x200B;](https://nation.marketo.com/t5/product-blogs/instructions-for-creating-a-custom-sync-rule/ba-p/242758){target="_blank"}을(를) 참조하십시오. Salesforce 내의 인덱스 필드를 사용하는 것이 좋습니다(자세한 내용은 Salesforce에 문의).
+**불필요한 레코드를 숨기거나 필터링합니다**: 레코드를 마케팅 가능하지 않은 경우 동기화 리소스를 낭비할 수 있습니다. 동기화 사용자가 이를 볼 수 없다면 동기화하려는 리소스를 낭비하지 않습니다. [Marketo Engage 지원](https://nation.marketo.com/t5/support/ct-p/Support#_blank){target="_blank"}에서는 추가 조건에 따라 레코드가 동기화되지 않도록 동기화 필터를 설정할 수 있습니다. 사용자 지정 동기화 필터 [을(를) 설정하는 방법에 대한 자세한 내용은 여기에서 ](https://nation.marketo.com/t5/product-blogs/instructions-for-creating-a-custom-sync-rule/ba-p/242758){target="_blank"}을(를) 참조하십시오. Salesforce 내의 인덱스 필드를 사용하는 것이 좋습니다(자세한 내용은 Salesforce에 문의).
 
 **중요하지 않은 시간에 일괄 업데이트를 예약합니다**: 데이터 동기화 패턴을 검토하여 중요하지 않은 기간을 식별하십시오. 가능한 경우 이러한 중요하지 않은 기간에 대량 업데이트를 예약할 수 있는지 검토합니다.
 
 **자주 업데이트되는 필드**: 일부 필드는 자주 업데이트됩니다. 예를 들어 통화 변경에 해당하는 통화 필드는 다음과 같습니다. 이러한 필드를 동기화해야 하는지 또는 필드를 다르게 디자인해야 하는지 검토합니다. 자주 업데이트되며 필요하지 않은 다른 필드가 있는 경우 동기화 사용자로부터 해당 필드를 숨깁니다. 필드를 업데이트할 수 있는 SFDC 관리 통합에 대해 논의하십시오.
 
-**사용자 지정 개체**: [사용자 지정 개체](https://experienceleague.adobe.com/ko/docs/marketo/using/product-docs/crm-sync/salesforce-sync/sfdc-sync-details/sfdc-sync-custom-object-sync){target="_blank"}를 정기적으로 검토하여 더 이상 동기화할 필요가 없는 개체를 동기화하고 사용하지 않도록 설정하십시오.
+**사용자 지정 개체**: [사용자 지정 개체](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/crm-sync/salesforce-sync/sfdc-sync-details/sfdc-sync-custom-object-sync){target="_blank"}를 정기적으로 검토하여 더 이상 동기화할 필요가 없는 개체를 동기화하고 사용하지 않도록 설정하십시오.
 
-**활동**: [동기화에서 제거할 수 있는 동기화를 사용하도록 설정한 활동이 있는지 검토](https://experienceleague.adobe.com/ko/docs/marketo/using/product-docs/crm-sync/salesforce-sync/setup/optional-steps/customize-activities-sync){target="_blank"}합니다.  이러한 활동은 리드당 하루에 한 번만 동기화됩니다.
+**활동**: [동기화에서 제거할 수 있는 동기화를 사용하도록 설정한 활동이 있는지 검토](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/crm-sync/salesforce-sync/setup/optional-steps/customize-activities-sync){target="_blank"}합니다.  이러한 활동은 리드당 하루에 한 번만 동기화됩니다.
 
 **동기화 오류 검토**: 예외 처리로 인해 동기화 속도가 느려질 수 있습니다. 사용자 알림을 검토하고 오류를 해결하면 동기화 상태를 개선할 수 있습니다.
 

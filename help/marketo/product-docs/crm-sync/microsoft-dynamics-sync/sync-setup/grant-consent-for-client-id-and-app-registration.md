@@ -1,12 +1,12 @@
 ---
-description: 클라이언트 Id 및 앱 등록에 대한 동의 - Marketo 문서 - 제품 설명서
+description: Dynamics 동기화에 사용되는 클라이언트 ID 및 앱 등록에 동의하는 방법을 알아봅니다. 인증 URI를 빌드하고 동기화 사용자에 대해 위임된 사용자 권한을 부여합니다.
 title: 클라이언트 ID 및 앱 등록에 대한 동의 권한 부여
 exl-id: d0c851d7-24a1-4b17-9daa-f0ceed39d040
 feature: Microsoft Dynamics
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 2b29f05a27f847184e0968442012d443e9e0597d
 workflow-type: tm+mt
-source-wordcount: '255'
-ht-degree: 6%
+source-wordcount: '272'
+ht-degree: 7%
 
 ---
 

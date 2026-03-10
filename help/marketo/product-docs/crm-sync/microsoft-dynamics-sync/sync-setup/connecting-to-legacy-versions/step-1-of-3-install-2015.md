@@ -1,12 +1,12 @@
 ---
 unique-page-id: 7504736
-description: Microsoft Dynamics 2015용 Marketo 설치 온-프레미스 단계 1/3 - Marketo 문서 - 제품 설명서
+description: Dynamics 2015용 Marketo 솔루션을 온프레미스에 설치하는 방법을 알아봅니다. 솔루션을 가져오고 Dynamics의 설치 단계를 완료합니다.
 title: Marketo Microsoft Dynamics 2015 온-프레미스 단계 1/3
 exl-id: c9b6d365-15c1-4eff-938c-8433b1fe7f24
 feature: Microsoft Dynamics
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 2b29f05a27f847184e0968442012d443e9e0597d
 workflow-type: tm+mt
-source-wordcount: '261'
+source-wordcount: '267'
 ht-degree: 1%
 
 ---

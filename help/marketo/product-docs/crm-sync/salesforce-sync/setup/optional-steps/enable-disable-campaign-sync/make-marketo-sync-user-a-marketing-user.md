@@ -1,13 +1,13 @@
 ---
 unique-page-id: 8782944
-description: Marketo 동기화 사용자를 마케팅 사용자로 만들기 - Marketo 문서 - 제품 설명서
+description: Salesforce에서 Marketo 동기화 사용자를 마케팅 사용자로 만드는 방법을 알아봅니다. Salesforce 캠페인 동기화가 제대로 작동하도록 마케팅 사용자 확인란을 활성화합니다.
 title: Marketo 동기화 사용자를 마케팅 사용자로 만들기
 exl-id: 2bbaf4d3-0bcf-4917-afe1-da9ae9b06a28
 feature: Salesforce Integration
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 2b29f05a27f847184e0968442012d443e9e0597d
 workflow-type: tm+mt
-source-wordcount: '98'
-ht-degree: 15%
+source-wordcount: '111'
+ht-degree: 16%
 
 ---
 

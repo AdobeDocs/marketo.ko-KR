@@ -1,12 +1,12 @@
 ---
 unique-page-id: 3571800
-description: 3단계 중 3단계 - Marketo 및 Salesforce 연결(전문가) - Marketo 문서 - 제품 설명서
+description: 최종 Professional 버전 단계에서 Marketo과 Salesforce을 연결하는 방법을 알아봅니다. 동기화 사용자 보안 토큰을 검색하고 Marketo 관리에서 자격 증명을 설정합니다.
 title: 3단계/3단계 - Marketo 및 Salesforce 연결(Professional)
 exl-id: a35e22ef-6378-45e0-be7e-687b0832ecf3
 feature: Salesforce Integration
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 2b29f05a27f847184e0968442012d443e9e0597d
 workflow-type: tm+mt
-source-wordcount: '353'
+source-wordcount: '365'
 ht-degree: 0%
 
 ---
@@ -48,7 +48,7 @@ ht-degree: 0%
 
    >[!NOTE]
    >
-   >Marketo [을(를) 클릭하기 전에 동기화 사용자로부터 &#x200B;](/help/marketo/product-docs/crm-sync/salesforce-sync/sfdc-sync-details/hide-a-salesforce-field-from-the-marketo-sync.md){target="_blank"}필요하지 않은 모든 필드 숨기기&#x200B;**[!UICONTROL Sync Fields]**&#x200B;를 확인하십시오. 필드 동기화 를 클릭하면 사용자가 볼 수 있는 모든 필드가 Marketo에 영구적으로 만들어지며 삭제할 수 없습니다.
+   >Marketo [을(를) 클릭하기 전에 동기화 사용자로부터 ](/help/marketo/product-docs/crm-sync/salesforce-sync/sfdc-sync-details/hide-a-salesforce-field-from-the-marketo-sync.md){target="_blank"}필요하지 않은 모든 필드 숨기기&#x200B;**[!UICONTROL Sync Fields]**&#x200B;를 확인하십시오. 필드 동기화 를 클릭하면 사용자가 볼 수 있는 모든 필드가 Marketo에 영구적으로 만들어지며 삭제할 수 없습니다.
 
 1. Salesforce 구성 2부([Professional](/help/marketo/product-docs/crm-sync/salesforce-sync/setup/professional-edition/step-2-of-3-create-a-salesforce-user-for-marketo-professional.md), [Enterprise](/help/marketo/product-docs/crm-sync/salesforce-sync/setup/enterprise-unlimited-edition/step-2-of-3-create-a-salesforce-user-for-marketo-enterprise-unlimited.md))에서 만든 Salesforce 동기화 사용자 자격 증명을 입력하고 **[!UICONTROL Sync Fields]**&#x200B;을(를) 클릭합니다.
 

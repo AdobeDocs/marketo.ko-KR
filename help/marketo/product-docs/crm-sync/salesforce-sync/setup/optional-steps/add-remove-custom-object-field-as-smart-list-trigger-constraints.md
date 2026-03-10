@@ -1,12 +1,12 @@
 ---
 unique-page-id: 4719300
-description: 사용자 지정 개체 필드를 스마트 목록/트리거 제한으로 추가/제거 - Marketo 문서 - 제품 설명서
+description: Salesforce 사용자 지정 개체 필드를 스마트 목록 필터 및 트리거 제한으로 추가하거나 제거하는 방법을 알아봅니다. 관리 및 Salesforce 개체 동기화를 사용하여 표시되는 필드를 편집합니다.
 title: 스마트 목록/트리거 제약 조건으로 사용자 정의 오브젝트 필드 추가/제거
 exl-id: 639e73eb-9a8c-4b10-8e97-892abf5c5db0
 feature: Salesforce Integration
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 2b29f05a27f847184e0968442012d443e9e0597d
 workflow-type: tm+mt
-source-wordcount: '173'
+source-wordcount: '186'
 ht-degree: 12%
 
 ---

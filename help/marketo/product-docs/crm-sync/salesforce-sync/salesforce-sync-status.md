@@ -1,11 +1,11 @@
 ---
-description: Salesforce 동기화 상태 - Marketo 문서 - 제품 설명서
+description: Salesforce 동기화 상태 대시보드 및 동기화 상태를 보는 방법에 대해 알아봅니다. 날짜, 작업 유형 또는 개체 유형별로 필터링하고 동기화 오류를 CSV로 내보냅니다.
 title: Salesforce 동기화 상태
 exl-id: 61197808-7812-4e0a-8ac6-4a60af0f7979
 feature: Salesforce Integration
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 2b29f05a27f847184e0968442012d443e9e0597d
 workflow-type: tm+mt
-source-wordcount: '542'
+source-wordcount: '562'
 ht-degree: 7%
 
 ---
@@ -135,7 +135,7 @@ ht-degree: 7%
    <td colspan="1">계정 유형</td>
   </tr>
   <tr>
-   <td colspan="1">사용자 지정 개체</td>
+   <td colspan="1">사용자 정의 오브젝트</td>
   </tr>
   <tr>
    <td colspan="1">Campaign</td>

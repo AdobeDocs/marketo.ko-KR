@@ -1,13 +1,13 @@
 ---
 unique-page-id: 4719297
-description: 사용자 지정 개체 동기화 활성화/비활성화 - Marketo 문서 - 제품 설명서
+description: Marketo Engage에서 Salesforce 사용자 지정 개체 동기화를 활성화하거나 비활성화하는 방법에 대해 알아봅니다. 관리 및 Salesforce 개체 동기화를 사용하여 개체를 선택하고 스키마를 새로 고칩니다.
 title: 사용자 정의 오브젝트 동기화 활성화/비활성화
 exl-id: f17d9135-b33e-48c0-9220-131fb437e9e5
 feature: Salesforce Integration
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 2b29f05a27f847184e0968442012d443e9e0597d
 workflow-type: tm+mt
-source-wordcount: '197'
-ht-degree: 10%
+source-wordcount: '213'
+ht-degree: 9%
 
 ---
 

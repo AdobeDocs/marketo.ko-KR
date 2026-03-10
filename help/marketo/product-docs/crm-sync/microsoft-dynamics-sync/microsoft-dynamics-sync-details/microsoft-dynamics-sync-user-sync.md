@@ -1,12 +1,12 @@
 ---
 unique-page-id: 3571840
-description: Microsoft [!DNL Dynamics] 동기화 -사용자 동기화 - Marketo 문서 - 제품 설명서
+description: 사용자 데이터를 Microsoft Dynamics에서 Marketo으로 동기화하는 방법에 대해 알아봅니다. 동기화되는 소유자 필드와 스마트 목록 및 흐름 작업에서 이를 사용하는 방법을 이해합니다.
 title: Microsoft [!DNL Dynamics] 동기화 - 사용자 동기화
 exl-id: d642d4d2-2beb-42c6-a6b2-3da5df1cd9c8
 feature: Microsoft Dynamics
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 2b29f05a27f847184e0968442012d443e9e0597d
 workflow-type: tm+mt
-source-wordcount: '145'
+source-wordcount: '164'
 ht-degree: 0%
 
 ---

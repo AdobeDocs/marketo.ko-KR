@@ -1,12 +1,12 @@
 ---
 unique-page-id: 2953463
-description: SFDC 동기화 - 리드/계정 소유자 동기화 - Marketo 문서 - 제품 설명서
+description: 리드 및 계정 소유자 필드가 Salesforce에서 Marketo으로 동기화되는 방법에 대해 알아봅니다. Marketo에서 리드 소유자를 변경하고 플로우 작업 및 스마트 목록에서 소유자 데이터를 사용합니다.
 title: SFDC 동기화 - 잠재 고객/계정 소유자 동기화
 exl-id: b9effcc2-f426-4390-aef1-42f4e525b182
 feature: Salesforce Integration
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 2b29f05a27f847184e0968442012d443e9e0597d
 workflow-type: tm+mt
-source-wordcount: '212'
+source-wordcount: '230'
 ht-degree: 2%
 
 ---

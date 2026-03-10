@@ -1,11 +1,11 @@
 ---
-description: 기본 Dynamics 필드 매핑 - Marketo 문서 - 제품 설명서
+description: Dynamics와 Marketo 간의 기본 Microsoft Dynamics 필드 매핑에 대해 알아봅니다. 가망 고객, 연락처, 계정 및 기회 필드가 자동으로 매핑되는 방법을 확인하십시오.
 title: 기본 Dynamics 필드 매핑
 exl-id: 5f39bd0c-202e-4aa1-a0ac-49ac2554aa1e
 feature: Microsoft Dynamics
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 2b29f05a27f847184e0968442012d443e9e0597d
 workflow-type: tm+mt
-source-wordcount: '332'
+source-wordcount: '345'
 ht-degree: 4%
 
 ---

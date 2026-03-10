@@ -1,12 +1,12 @@
 ---
 unique-page-id: 3571816
-description: 2단계/3단계 - Marketo용 동기화 사용자 구성(2013 온-프레미스) - Marketo 문서 - 제품 설명서
+description: Dynamics 2013 온-프레미스에서 Marketo용 동기화 사용자를 구성하는 방법을 알아봅니다. 사용자를 설정하고 Dynamics에서 Marketo 동기화 사용자 역할을 할당합니다.
 title: 2단계/3단계 - Marketo용 동기화 사용자 구성(2013 온-프레미스)
 exl-id: 27c4407e-0623-4ae0-8aa1-0b28c6c5c4f8
 feature: Microsoft Dynamics
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 2b29f05a27f847184e0968442012d443e9e0597d
 workflow-type: tm+mt
-source-wordcount: '328'
+source-wordcount: '339'
 ht-degree: 4%
 
 ---

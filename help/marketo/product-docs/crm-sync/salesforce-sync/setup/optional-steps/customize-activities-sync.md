@@ -1,13 +1,13 @@
 ---
 unique-page-id: 4719294
-description: 활동 동기화 사용자 지정 - Marketo 문서 - 제품 설명서
+description: Marketo이 Salesforce으로 푸시할 활동을 사용자 지정하는 방법을 알아봅니다. 관리 및 동기화 옵션에서 활동 유형을 활성화하여 이벤트에서 Salesforce 활동 내역을 만듭니다.
 title: 활동 동기화 사용자 정의
 exl-id: 938d83dc-b9b1-41d8-bf98-04548b074ec4
 feature: Salesforce Integration
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 2b29f05a27f847184e0968442012d443e9e0597d
 workflow-type: tm+mt
-source-wordcount: '253'
-ht-degree: 3%
+source-wordcount: '271'
+ht-degree: 4%
 
 ---
 
@@ -19,7 +19,7 @@ Marketo Sales Insight을 사용하지 않는 경우 Marketo Engage에서 특정 
 >
 >Salesforce/Marketo Engage 동기화는 사용자가 Salesforce에 푸시되기 전에 발생한 활동을 Salesforce에 푸시하지 않습니다.
 
-1. **[!UICONTROL Admin]**(으)로 이동합니다.
+1. **[!UICONTROL Admin]** 으로 이동합니다.
 
    ![](assets/customize-activities-sync-1.png)
 

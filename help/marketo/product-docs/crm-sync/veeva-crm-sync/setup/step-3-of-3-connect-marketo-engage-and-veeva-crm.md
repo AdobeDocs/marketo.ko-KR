@@ -1,12 +1,12 @@
 ---
-description: 3단계/3단계 - Marketo Engage 및 [!DNL Veeva] CRM 연결 - Marketo 문서 - 제품 설명서
+description: 마지막 설정 단계에서 Marketo Engage을 Veeva CRM에 연결하는 방법을 알아봅니다. OAuth를 구성하고, 자격 증명을 확인하고, 필드를 동기화하여 연결을 완료합니다.
 title: 3단계/3단계 - Marketo Engage 및 [!DNL Veeva] CRM 연결
 exl-id: aff91540-1d9d-448c-aae9-e6fa92a8ae01
 feature: Veeva CRM
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 2b29f05a27f847184e0968442012d443e9e0597d
 workflow-type: tm+mt
-source-wordcount: '305'
-ht-degree: 1%
+source-wordcount: '317'
+ht-degree: 2%
 
 ---
 
@@ -25,7 +25,7 @@ ht-degree: 1%
 
 ## OAuth를 사용하여 [!DNL Veeva] CRM에 연결 {#connect-to-veeva-crm-using-oauth}
 
-1. Marketo에서 **[!UICONTROL Admin]**&#x200B;을(를) 클릭합니다. **[!UICONTROL CRM]**&#x200B;을(를) 선택하고 **[!UICONTROL Sync with Veeva]**&#x200B;을(를) 클릭합니다.
+1. Marketo에서 **[!UICONTROL Admin]**&#x200B;을(를) 클릭합니다. **[!UICONTROL CRM]**&#x200B;으로 선택하고 **[!UICONTROL Sync with Veeva]**&#x200B;를 클릭합니다.
 
    ![](assets/step-3-of-3-connect-marketo-engage-1.png)
 
@@ -33,7 +33,7 @@ ht-degree: 1%
    >
    >동기화 필드 를 클릭하기 전에 동기화 사용자로부터 Marketo에서 [필요하지 않은 모든 필드를 숨기십시오](/help/marketo/product-docs/crm-sync/salesforce-sync/sfdc-sync-details/hide-a-salesforce-field-from-the-marketo-sync.md){target="_blank"}. 필드 동기화 를 클릭하면 사용자가 볼 수 있는 모든 필드가 Marketo에 영구적으로 만들어지며 삭제할 수 없습니다.
 
-1. **[!UICONTROL Login with Veeva]**&#x200B;을(를) 클릭합니다.
+1. **[!UICONTROL Login with Veeva]**&#x200B;를 클릭합니다.
 
    ![](assets/step-3-of-3-connect-marketo-engage-2.png)
 
@@ -41,7 +41,7 @@ ht-degree: 1%
    >
    >Marketo 샌드박스를 [!UICONTROL Sandbox] CRM 샌드박스와 동기화하는 경우 [!DNL Veeva]을(를) 확인하십시오.
 
-1. **[!UICONTROL Confirm Credentials]**&#x200B;을(를) 클릭합니다.
+1. **[!UICONTROL Confirm Credentials]**&#x200B;를 클릭합니다.
 
    ![](assets/step-3-of-3-connect-marketo-engage-3.png)
 
@@ -53,11 +53,11 @@ ht-degree: 1%
 
    ![](assets/step-3-of-3-connect-marketo-engage-5.png)
 
-1. 확인이 성공하면 액세스 페이지에 액세스 요청이 표시됩니다. **[!UICONTROL Allow]**&#x200B;을(를) 클릭합니다.
+1. 확인이 성공하면 액세스 페이지에 액세스 요청이 표시됩니다. **[!UICONTROL Allow]**&#x200B;를 클릭합니다.
 
    ![](assets/step-3-of-3-connect-marketo-engage-6.png)
 
-1. 몇 분 후에 Marketo Engae에 팝업이 나타납니다. **[!UICONTROL Confirm Credentials]**&#x200B;을(를) 클릭합니다.
+1. 몇 분 후에 Marketo Engae에 팝업이 나타납니다. **[!UICONTROL Confirm Credentials]**&#x200B;를 클릭합니다.
 
    ![](assets/step-3-of-3-connect-marketo-engage-7.png)
 
@@ -71,7 +71,7 @@ ht-degree: 1%
    >
    >Marketo은 [!DNL Veeva] CRM 동기화에 대해 자동으로 중복 제거되지 않습니다. 또는 수동으로 잠재 고객을 입력해도 중복 제거되지 않습니다.
 
-1. **[!UICONTROL Start Sync]**&#x200B;을(를) 클릭합니다.
+1. **[!UICONTROL Start Sync]**&#x200B;를 클릭합니다.
 
    ![](assets/step-3-of-3-connect-marketo-engage-9.png)
 

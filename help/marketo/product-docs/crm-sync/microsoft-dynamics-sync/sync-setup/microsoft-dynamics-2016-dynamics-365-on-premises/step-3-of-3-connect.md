@@ -1,11 +1,11 @@
 ---
-description: ' [!DNL Microsoft Dynamics] 2016/[!DNL Dynamics] 365 온-프레미스 3단계 중 3단계 - Marketo 문서 - 제품 설명서에 Marketo 설치'
+description: 3단계에서 Marketo을 Dynamics 2016 또는 Dynamics 365 온프레미스에 연결하는 방법을 알아봅니다. Marketo 관리자에서 동기화 사용자 자격 증명을 입력하고 동기화를 활성화합니다.
 title: ' [!DNL Microsoft Dynamics] 2016/[!DNL Dynamics] 365 온-프레미스 단계 3/3에 대한 Marketo 설치'
 exl-id: ae801a59-8e29-479c-84c5-a18c7511f21f
 feature: Microsoft Dynamics
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 2b29f05a27f847184e0968442012d443e9e0597d
 workflow-type: tm+mt
-source-wordcount: '379'
+source-wordcount: '391'
 ht-degree: 1%
 
 ---

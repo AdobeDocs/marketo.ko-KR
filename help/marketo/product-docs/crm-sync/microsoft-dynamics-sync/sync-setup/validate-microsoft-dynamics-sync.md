@@ -1,13 +1,13 @@
 ---
 unique-page-id: 8783322
-description: 유효성 검사 [!DNL Microsoft Dynamics] 동기화 - Marketo 문서 - 제품 설명서
+description: 동기화 유효성 검사 도구를 실행하여 Microsoft Dynamics 및 Marketo 설정을 확인하는 방법을 알아봅니다. 최종 연결을 수행하기 전에 관리에서 7단계 체크리스트를 확인하십시오.
 title: ' [!DNL Microsoft Dynamics] 동기화 확인'
 exl-id: 00297a8d-36c3-42f6-a9b8-4a8dd7c1f30d
 feature: Microsoft Dynamics
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 2b29f05a27f847184e0968442012d443e9e0597d
 workflow-type: tm+mt
-source-wordcount: '236'
-ht-degree: 0%
+source-wordcount: '257'
+ht-degree: 3%
 
 ---
 
@@ -33,7 +33,7 @@ ht-degree: 0%
 
    ![](assets/image2015-9-28-16-3a11-3a45.png)
 
-1. 사용자 이름, 암호 및 URL을 입력합니다(클라이언트 ID 및 클라이언트 암호는 선택 사항). 완료되면 **[!UICONTROL Next]**&#x200B;을(를) 클릭합니다.
+1. 사용자 이름, 암호 및 URL을 입력합니다(클라이언트 ID 및 클라이언트 암호는 선택 사항). 완료되면 **[!UICONTROL Next]**&#x200B;를 클릭합니다.
 
    ![](assets/four-1.png)
 

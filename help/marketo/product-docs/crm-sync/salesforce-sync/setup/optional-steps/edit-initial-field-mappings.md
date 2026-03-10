@@ -1,12 +1,12 @@
 ---
 unique-page-id: 4719287
-description: 초기 필드 매핑 편집 - Marketo 문서 - 제품 설명서
+description: 첫 번째 Salesforce 동기화 전에 초기 필드 매핑을 편집하는 방법을 알아봅니다. Marketo에서 매핑되지 않은 사용자 정의 필드를 매핑하거나 자동 리드 접촉 필드 매핑을 중단합니다.
 title: 초기 필드 매핑 편집
 exl-id: 320613d1-3845-4e05-a704-0db0f8027dc8
 feature: Salesforce Integration
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 2b29f05a27f847184e0968442012d443e9e0597d
 workflow-type: tm+mt
-source-wordcount: '259'
+source-wordcount: '275'
 ht-degree: 3%
 
 ---

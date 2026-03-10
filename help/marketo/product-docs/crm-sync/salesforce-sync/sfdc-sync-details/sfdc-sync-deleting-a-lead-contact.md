@@ -1,12 +1,12 @@
 ---
 unique-page-id: 7515131
-description: SFDC 동기화 - 리드/연락처 삭제 - Marketo 문서 - 제품 설명서
+description: Salesforce과 Marketo 간에 리드 및 연락처 삭제가 작동하는 방식을 이해합니다. SFDC 개인 삭제 및 SFDC에서 삭제 플로우 작업에 대해 알아봅니다.
 title: SFDC 동기화 - 리드/연락처 삭제
 exl-id: b859357e-09c5-48e5-940e-f5b4e955e374
 feature: Salesforce Integration
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 2b29f05a27f847184e0968442012d443e9e0597d
 workflow-type: tm+mt
-source-wordcount: '137'
+source-wordcount: '149'
 ht-degree: 4%
 
 ---

@@ -1,12 +1,12 @@
 ---
-description: Campaign 동기화 활성화 - Marketo 문서 - 제품 설명서
+description: Microsoft Dynamics과 Marketo 간에 Campaign 동기화를 활성화하는 방법을 알아봅니다. Marketo 프로그램이 Dynamics 캠페인과 동기화되도록 관리에서 옵션을 설정합니다.
 title: 캠페인 동기화 활성화
 exl-id: b33af554-b4c0-465c-a5a4-3ee3450af5e5
 feature: Microsoft Dynamics
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 2b29f05a27f847184e0968442012d443e9e0597d
 workflow-type: tm+mt
-source-wordcount: '90'
-ht-degree: 7%
+source-wordcount: '107'
+ht-degree: 9%
 
 ---
 

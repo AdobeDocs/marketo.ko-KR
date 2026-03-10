@@ -1,13 +1,13 @@
 ---
 unique-page-id: 4719306
-description: Marketo 동기화 - Salesforce 문서 - 제품 설명서에서 Marketo 필드 숨기기
+description: 성능을 최적화하기 위해 Marketo 동기화에서 Salesforce 필드를 숨기는 방법을 알아봅니다. 동기화 사용자 프로필에서 필드 수준 보안을 사용하여 불필요한 필드를 제외합니다.
 title: Marketo 동기화에서 Salesforce 필드 숨기기
 exl-id: 5d7229f0-43b0-4232-93ed-a9ca52ace401
 feature: Salesforce Integration
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 2b29f05a27f847184e0968442012d443e9e0597d
 workflow-type: tm+mt
-source-wordcount: '155'
-ht-degree: 7%
+source-wordcount: '169'
+ht-degree: 11%
 
 ---
 

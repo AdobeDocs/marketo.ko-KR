@@ -1,13 +1,13 @@
 ---
 unique-page-id: 7504770
-description: 조직 서비스 URL 보기 - Marketo 문서 - 제품 설명서
+description: Microsoft Dynamics에서 조직 서비스 URL을 찾는 방법에 대해 알아봅니다. 고급 설정 및 개발자 리소스를 사용하여 Marketo 동기화 설정에 대한 URL을 복사합니다.
 title: 조직 서비스 URL 보기
 exl-id: 37c6afa3-ae82-4134-8a00-b4dc08064f5d
 feature: Microsoft Dynamics
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 2b29f05a27f847184e0968442012d443e9e0597d
 workflow-type: tm+mt
-source-wordcount: '74'
-ht-degree: 14%
+source-wordcount: '90'
+ht-degree: 12%
 
 ---
 

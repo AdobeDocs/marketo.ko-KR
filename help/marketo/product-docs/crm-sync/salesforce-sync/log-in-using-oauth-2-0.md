@@ -1,11 +1,11 @@
 ---
-description: OAuth 2.0을 사용하여 로그인 - Marketo 문서 - 제품 설명서
+description: OAuth 2.0을 사용하여 Marketo 및 Salesforce을 연결하는 방법을 알아봅니다. Salesforce에서 외부 클라이언트 앱을 설정하고 자격 증명을 공유하지 않고 안전하게 동기화할 수 있도록 Marketo을 승인합니다.
 title: OAuth 2.0을 사용하여 로그인
 exl-id: 0a70505d-d2b8-4dc9-ad11-decc86588f7f
 feature: Salesforce Integration
-source-git-commit: 7234082102356fc05c760f359ef19ca8cff375b5
+source-git-commit: 2b29f05a27f847184e0968442012d443e9e0597d
 workflow-type: tm+mt
-source-wordcount: '609'
+source-wordcount: '627'
 ht-degree: 2%
 
 ---

@@ -1,11 +1,11 @@
 ---
-description: 사용자 지정 개체 동기화 활성화/비활성화 - Marketo 문서 - 제품 설명서
+description: Veeva CRM과 Marketo Engage 간에 사용자 지정 개체 동기화를 활성화하거나 비활성화하는 방법에 대해 알아봅니다. Admin 및 Veeva Objects Sync를 사용하여 사용자 지정 객체를 선택하고 동기화합니다.
 title: 사용자 정의 오브젝트 동기화 활성화/비활성화
 exl-id: 01417fb6-70f5-449b-ad56-42e1c0b2ff68
 feature: Veeva CRM
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 2b29f05a27f847184e0968442012d443e9e0597d
 workflow-type: tm+mt
-source-wordcount: '184'
+source-wordcount: '202'
 ht-degree: 5%
 
 ---

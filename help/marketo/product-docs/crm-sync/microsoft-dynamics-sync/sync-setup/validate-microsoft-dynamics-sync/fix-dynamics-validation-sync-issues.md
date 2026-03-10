@@ -1,13 +1,13 @@
 ---
 unique-page-id: 10095429
-description: Dynamics 유효성 검사 동기화 문제 해결 - Marketo 문서 - 제품 설명서
+description: 동기화 유효성 검사 도구가 오류를 보고할 때 Dynamics 유효성 검사 동기화 문제를 해결하는 방법을 알아봅니다. URL, 자격 증명, 동기화 사용자 역할 및 기타 설정 단계 문제를 해결합니다.
 title: Dynamics 유효성 검사 동기화 문제 해결
 exl-id: 1a300249-65b7-49b1-bf50-82236916298f
 feature: Microsoft Dynamics
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 2b29f05a27f847184e0968442012d443e9e0597d
 workflow-type: tm+mt
-source-wordcount: '487'
-ht-degree: 2%
+source-wordcount: '503'
+ht-degree: 1%
 
 ---
 

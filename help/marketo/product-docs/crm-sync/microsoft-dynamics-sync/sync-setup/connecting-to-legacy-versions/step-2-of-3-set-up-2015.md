@@ -1,12 +1,12 @@
 ---
 unique-page-id: 7504739
-description: Microsoft Dynamics 2015용 Marketo 설치 온-프레미스 단계 2/3 - Marketo 문서 - 제품 설명서
+description: Dynamics 2015용 Marketo 동기화 사용자를 온-프레미스로 설정하는 방법을 알아봅니다. 사용자를 만들고 Dynamics에서 Marketo 동기화 사용자 역할을 할당합니다.
 title: Marketo Microsoft Dynamics 2015 온-프레미스 단계 2/3
 exl-id: 39f00749-4ba3-47f1-b2e3-72cbaa7caf2e
 feature: Microsoft Dynamics
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 2b29f05a27f847184e0968442012d443e9e0597d
 workflow-type: tm+mt
-source-wordcount: '341'
+source-wordcount: '351'
 ht-degree: 1%
 
 ---

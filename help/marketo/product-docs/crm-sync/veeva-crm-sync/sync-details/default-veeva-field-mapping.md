@@ -1,11 +1,11 @@
 ---
-description: 기본 [!DNL Veeva] 필드 매핑 - Marketo 문서 - 제품 설명서
+description: Veeva CRM과 Marketo Engage 간의 기본 Veeva 필드 매핑에 대해 알아봅니다. 연락처 및 계정 필드가 매핑되는 방식과 사용자 정의 필드가 동기화되는 방식을 확인합니다.
 title: 기본 [!DNL Veeva] 필드 매핑
 exl-id: 3bf36d50-daea-431f-9537-b3007ad75945
 feature: Veeva CRM
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 2b29f05a27f847184e0968442012d443e9e0597d
 workflow-type: tm+mt
-source-wordcount: '253'
+source-wordcount: '270'
 ht-degree: 36%
 
 ---
@@ -33,7 +33,7 @@ Marketo Engage 계정을 [!DNL Veeva]과(와) 처음 동기화할 때 Marketo은
       <td>생년월일</td>
     </tr>
     <tr>
-      <td>만든 날짜</td>
+      <td>생성 일자</td>
       <td>SFDC 생성일</td>
     </tr>
     <tr>
@@ -54,7 +54,7 @@ Marketo Engage 계정을 [!DNL Veeva]과(와) 처음 동기화할 때 Marketo은
     </tr>
     <tr>
       <td>이메일 옵트아웃</td>
-      <td>주소 삭제</td>
+      <td>구독 취소</td>
     </tr>
     <tr>
       <td>삭제됨</td>
@@ -65,11 +65,11 @@ Marketo Engage 계정을 [!DNL Veeva]과(와) 처음 동기화할 때 Marketo은
       <td>성</td>
     </tr>
     <tr>
-      <td>잠재 고객 소스</td>
+      <td>리드 소스</td>
       <td>소스</td>
     </tr>
     <tr>
-      <td>잠재 고객 점수</td>
+      <td>리드 점수</td>
       <td>점수</td>
     </tr>
     <tr>
@@ -179,7 +179,7 @@ Marketo Engage 계정을 [!DNL Veeva]과(와) 처음 동기화할 때 Marketo은
     </tr>
     <tr>
       <td>계정 사이트</td>
-      <td>위치</td>
+      <td>사이트</td>
     </tr>
     <tr>
       <td>계정 유형</td>
@@ -217,7 +217,7 @@ Marketo Engage 계정을 [!DNL Veeva]과(와) 처음 동기화할 때 Marketo은
       <td>연락처. 비어 있는 경우 잠재 고객은 Marketo의 사용자로만 존재합니다</td>
     </tr>
     <tr>
-      <td>[!DNL Veeva] 만든 날짜</td>
+      <td>[!DNL Veeva] 생성 일자</td>
       <td>SFDC에서 만든 날짜 (Marketo에서 만든 날짜와 다를 수 있음)</td>
     </tr>
     <tr>

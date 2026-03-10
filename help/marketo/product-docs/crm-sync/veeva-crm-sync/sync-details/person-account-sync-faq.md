@@ -1,11 +1,11 @@
 ---
-description: 개인 계정 동기화 FAQ - Marketo 문서 - 제품 설명서
+description: Marketo Engage과 Veeva CRM 간의 개인 계정 동기화에 대한 도움말을 봅니다. 개인 계정이 회사 및 개인으로 동기화되고 개인 계정 있음 필터를 사용하는 방법을 알아봅니다.
 title: 개인 계정 동기화 FAQ
 exl-id: b77bb44f-94d0-40b2-9955-9636421ac468
 feature: Veeva CRM
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 2b29f05a27f847184e0968442012d443e9e0597d
 workflow-type: tm+mt
-source-wordcount: '472'
+source-wordcount: '492'
 ht-degree: 1%
 
 ---

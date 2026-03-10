@@ -1,11 +1,11 @@
 ---
-description: 2단계/4단계 - 리소스 소유자 암호 제어 연결을 사용하여 Marketo 솔루션 설정 - Marketo 문서 - 제품 설명서
+description: ROPC 연결을 사용하여 Marketo 솔루션을 설정하는 방법을 알아봅니다. Dynamics에서 동기화 사용자를 만들고 인증을 위해 Marketo 동기화 사용자 역할을 할당합니다.
 title: 2단계/4단계 - 리소스 소유자 암호 제어 연결을 사용하여 Marketo 솔루션 설정
 exl-id: 41c05910-d8e3-4fb7-8f68-17ee10294e57
 feature: Microsoft Dynamics
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 2b29f05a27f847184e0968442012d443e9e0597d
 workflow-type: tm+mt
-source-wordcount: '397'
+source-wordcount: '404'
 ht-degree: 1%
 
 ---

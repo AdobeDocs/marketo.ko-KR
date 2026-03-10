@@ -1,11 +1,11 @@
 ---
-description: 1단계/4단계 - 리소스 소유자 암호 제어 연결이 있는 Marketo 솔루션 설치 - Marketo 문서 - 제품 설명서
+description: Dynamics 365에서 ROPC 연결을 사용하여 Marketo 솔루션을 설치하는 방법을 알아봅니다. Office 365에서 솔루션을 가져오고 설치 단계를 완료합니다.
 title: 1/4단계 - 리소스 소유자 암호 제어 연결을 사용하여 Marketo 솔루션 설치
 exl-id: aab3bbb8-4e52-4c40-94d1-631af1d63f9f
 feature: Microsoft Dynamics
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 2b29f05a27f847184e0968442012d443e9e0597d
 workflow-type: tm+mt
-source-wordcount: '282'
+source-wordcount: '288'
 ht-degree: 3%
 
 ---
@@ -43,7 +43,7 @@ ht-degree: 3%
 
    ![](assets/image2015-3-19-8-3a34-3a8.png)
 
-1. **[!UICONTROL Choose File]**&#x200B;을(를) 클릭합니다. [다운로드한](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/download-the-marketo-lead-management-solution.md)Marketo 리드 관리 솔루션을 선택합니다. **[!UICONTROL Next]**&#x200B;를 클릭합니다.
+1. **[!UICONTROL Choose File]**&#x200B;를 클릭합니다. [다운로드한](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/download-the-marketo-lead-management-solution.md)Marketo 리드 관리 솔루션을 선택합니다. **[!UICONTROL Next]**&#x200B;를 클릭합니다.
 
    ![](assets/image2015-10-9-14-3a44-3a14.png)
 

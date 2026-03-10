@@ -1,13 +1,13 @@
 ---
 unique-page-id: 3571819
-description: 3단계 중 3단계 - Marketo 및 Dynamics 연결(2013 온프레미스) - Marketo 문서 - 제품 설명서
+description: 마지막 단계에서 Marketo 및 Dynamics 2013을 온프레미스에 연결하는 방법을 알아봅니다. Marketo Admin에서 동기화 사용자 정보를 입력하고 동기화를 활성화합니다.
 title: 3단계 중 3단계 - Marketo 및 Dynamics 연결(2013 온프레미스)
 exl-id: e28f1cc3-ee15-4981-a537-6c4a1682c4c1
 feature: Microsoft Dynamics
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 2b29f05a27f847184e0968442012d443e9e0597d
 workflow-type: tm+mt
-source-wordcount: '374'
-ht-degree: 0%
+source-wordcount: '384'
+ht-degree: 1%
 
 ---
 

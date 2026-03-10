@@ -1,13 +1,13 @@
 ---
-description: 3단계/3단계 - Marketo 및 Salesforce 연결(Enterprise/Unlimited) - Marketo 문서 - 제품 설명서
+description: 최종 Enterprise 또는 Unlimited 단계에서 Marketo 및 Salesforce을 연결하는 방법을 알아봅니다. 동기화 사용자 보안 토큰을 검색하고 Marketo 관리에서 자격 증명을 설정합니다.
 title: 3단계/3 - Marketo 및 Salesforce 연결(Enterprise/Unlimited)
 hide: true
 hidefromtoc: true
 feature: Salesforce Integration
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 2b29f05a27f847184e0968442012d443e9e0597d
 workflow-type: tm+mt
-source-wordcount: '109'
-ht-degree: 9%
+source-wordcount: '121'
+ht-degree: 8%
 
 ---
 

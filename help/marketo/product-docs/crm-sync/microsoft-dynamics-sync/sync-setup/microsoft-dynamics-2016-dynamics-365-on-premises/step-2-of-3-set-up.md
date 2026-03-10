@@ -1,11 +1,11 @@
 ---
-description: ' [!DNL Microsoft Dynamics] 2016/[!DNL Dynamics] 365 온-프레미스 단계 2/3 - Marketo 문서 - 제품 설명서에 Marketo 설치'
+description: Dynamics 2016 또는 Dynamics 365용 Marketo 동기화 사용자를 온-프레미스로 설정하는 방법을 알아봅니다. 사용자를 만들고 Dynamics에서 Marketo 동기화 사용자 역할을 할당합니다.
 title: ' [!DNL Microsoft Dynamics] 2016/[!DNL Dynamics] 365 온-프레미스 단계 2/3에 대한 Marketo 설치'
 exl-id: c789b977-7ada-4f5d-8488-e1b58963f7e3
 feature: Microsoft Dynamics
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 2b29f05a27f847184e0968442012d443e9e0597d
 workflow-type: tm+mt
-source-wordcount: '445'
+source-wordcount: '459'
 ht-degree: 1%
 
 ---
@@ -36,7 +36,7 @@ ht-degree: 1%
 
    ![](assets/step-2-of-3-marketo-on-premises-2016-4.png)
 
-1. **[!UICONTROL Add and License Users]**&#x200B;을(를) 클릭합니다. 새 탭이 열립니다.
+1. **[!UICONTROL Add and License Users]**&#x200B;를 클릭합니다. 새 탭이 열립니다.
 
    ![](assets/step-2-of-3-marketo-on-premises-2016-5.png)
 

@@ -1,12 +1,12 @@
 ---
 unique-page-id: 4719316
-description: 개인 계정 사용 - Marketo 문서 - 제품 설명서
+description: Marketo Engage에서 Salesforce 개인 계정을 처리하는 방법에 대해 알아봅니다. 개인 및 비즈니스 계정을 구분하고 스마트 목록에서 개인 계정 일치 필터를 사용합니다.
 title: 개인 계정 사용
 exl-id: 3cc67ff2-f689-4dfb-8b67-2b5b8d389aaf
 feature: Salesforce Integration
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 2b29f05a27f847184e0968442012d443e9e0597d
 workflow-type: tm+mt
-source-wordcount: '277'
+source-wordcount: '294'
 ht-degree: 2%
 
 ---

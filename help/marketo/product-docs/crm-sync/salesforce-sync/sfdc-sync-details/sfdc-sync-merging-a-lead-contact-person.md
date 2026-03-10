@@ -1,12 +1,12 @@
 ---
 unique-page-id: 7515133
-description: SFDC 동기화 - 잠재 고객/연락처/사용자 병합 - Marketo 문서 - 제품 설명서
+description: Salesforce 및 Marketo의 잠재 고객, 연락처 및 사용자 병합이 작동하는 방식을 이해합니다. 점수, 필드 값 및 활동 로그에 대한 병합 규칙에 대해 알아봅니다.
 title: SFDC 동기화 - 잠재 고객/연락처/사용자 병합
 exl-id: 0e755c80-27cd-4ba3-b540-d7918264c5f6
 feature: Salesforce Integration
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 2b29f05a27f847184e0968442012d443e9e0597d
 workflow-type: tm+mt
-source-wordcount: '192'
+source-wordcount: '203'
 ht-degree: 3%
 
 ---

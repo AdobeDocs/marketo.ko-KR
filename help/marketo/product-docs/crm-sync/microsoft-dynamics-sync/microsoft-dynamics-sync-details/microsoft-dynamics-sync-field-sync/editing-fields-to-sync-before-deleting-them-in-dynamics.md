@@ -1,11 +1,11 @@
 ---
-description: Dynamics - Marketo 문서 - 제품 설명서에서 삭제하기 전에 동기화할 필드 편집
+description: Dynamics에서 삭제하기 전에 Marketo에서 동기화할 필드를 편집하는 방법을 알아봅니다. 동기화를 비활성화하고, 스키마를 새로 고치고, 동기화 선택에서 필드를 제거합니다.
 title: Dynamics에서 필드 삭제 전 동기화할 필드 편집
 exl-id: 6fa9f6c0-c69d-478f-b333-13a5c910f577
 feature: Microsoft Dynamics
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 2b29f05a27f847184e0968442012d443e9e0597d
 workflow-type: tm+mt
-source-wordcount: '181'
+source-wordcount: '194'
 ht-degree: 5%
 
 ---

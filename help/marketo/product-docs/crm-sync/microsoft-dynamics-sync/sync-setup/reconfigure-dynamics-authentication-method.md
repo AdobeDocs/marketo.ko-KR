@@ -1,12 +1,12 @@
 ---
-description: 다시 구성 [!DNL Dynamics] 인증 방법 - Marketo 문서 - 제품 설명서
+description: Marketo에서 Dynamics 인증 방법을 다시 구성하는 방법을 알아봅니다. 동기화를 비활성화하고, 새 인증 방법 재구성을 사용하고, 웹 API 또는 ROPC에 대한 자격 증명의 유효성을 검사합니다.
 title: ' [!DNL Dynamics] 인증 방법 다시 구성'
 exl-id: 2bd6a992-3dfd-4e91-bec5-9fb3f7bbb840
 feature: Microsoft Dynamics
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 2b29f05a27f847184e0968442012d443e9e0597d
 workflow-type: tm+mt
-source-wordcount: '253'
-ht-degree: 1%
+source-wordcount: '271'
+ht-degree: 2%
 
 ---
 
@@ -16,7 +16,7 @@ ht-degree: 1%
 
 >[!PREREQUISITES]
 >
->다음 문서 중 하나에서 원하는 인증 방법을 사용하여 [!DNL Microsoft Dynamics] 및 Active Directory(Azure AD/ADFS)에서 응용 프로그램을 설정합니다.
+>다음 문서에서 원하는 인증 방법을 사용하여 [!DNL Microsoft Dynamics] 및 active directory(Azure AD/ADFS)에 응용 프로그램을 설정합니다.
 >
 >* [2단계/3단계: 서버 간 연결을 통해 Marketo 솔루션 설정](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/microsoft-dynamics-365-with-s2s-connection/step-2-of-3-set-up.md){target="_blank"}
 >* [2단계/4단계: 리소스 소유자 암호 제어 연결을 사용하여 Marketo 솔루션 설정](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/microsoft-dynamics-365-with-ropc-connection/step-2-of-4-set-up.md){target="_blank"}

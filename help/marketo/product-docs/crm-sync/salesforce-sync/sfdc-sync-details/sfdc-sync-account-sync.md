@@ -1,12 +1,12 @@
 ---
 unique-page-id: 2953459
-description: SFDC 동기화 - 계정 동기화 - Marketo 문서 - 제품 설명서
+description: 계정 정보가 Salesforce에서 Marketo으로 동기화되는 방법에 대해 알아봅니다. Convert Person을 통해 단방향 동기화, 연락처-계정 관계 및 계정 만들기를 이해합니다.
 title: SFDC 동기화 - 계정 동기화
 exl-id: 94f7a9e5-86ea-4bb4-9d78-96a09c61321d
 feature: Salesforce Integration
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 2b29f05a27f847184e0968442012d443e9e0597d
 workflow-type: tm+mt
-source-wordcount: '225'
+source-wordcount: '238'
 ht-degree: 2%
 
 ---

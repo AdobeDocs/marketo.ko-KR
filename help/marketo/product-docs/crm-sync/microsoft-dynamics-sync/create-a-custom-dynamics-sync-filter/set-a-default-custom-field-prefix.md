@@ -1,13 +1,13 @@
 ---
 unique-page-id: 10094647
-description: 기본 사용자 정의 필드 접두사 설정 - Marketo 문서 - 제품 설명서
+description: Microsoft Dynamics에서 기본 사용자 정의 필드 접두사를 new로 설정하는 방법을 알아봅니다. Marketo 소유 필드가 올바르게 동기화되도록 설정 및 사용자 지정 을 사용합니다.
 title: 기본 사용자 정의 필드 접두사 설정
 exl-id: 5608864b-356d-451b-b079-4ea11c3296e5
 feature: Microsoft Dynamics
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 2b29f05a27f847184e0968442012d443e9e0597d
 workflow-type: tm+mt
-source-wordcount: '88'
-ht-degree: 17%
+source-wordcount: '102'
+ht-degree: 14%
 
 ---
 

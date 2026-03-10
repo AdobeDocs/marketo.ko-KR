@@ -1,13 +1,13 @@
 ---
 unique-page-id: 10095389
-description: Microsoft Dynamics - Marketo 문서 - 제품 설명서에서 연락처 만들기
+description: Marketo에서 Microsoft Dynamics에 연락처를 만드는 방법을 알아봅니다. 실시간 연락처 생성을 위한 트리거 캠페인에서 개인과 Microsoft의 동기화 흐름 작업을 사용합니다.
 title: Microsoft Dynamics에서 연락처 만들기
 exl-id: 66cb26c0-f383-4d1e-be22-e7f8c6b266fb
 feature: Microsoft Dynamics
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 2b29f05a27f847184e0968442012d443e9e0597d
 workflow-type: tm+mt
-source-wordcount: '100'
-ht-degree: 7%
+source-wordcount: '117'
+ht-degree: 5%
 
 ---
 

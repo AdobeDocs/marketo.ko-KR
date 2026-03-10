@@ -1,11 +1,11 @@
 ---
-description: 3단계/4단계 - MS [!DNL Dynamics]  - Marketo 문서 - 제품 설명서에서 클라이언트 앱 설정
+description: ROPC 연결용 Microsoft Dynamics에서 클라이언트 앱을 설정하는 방법에 대해 알아봅니다. Azure AD에서 앱을 등록하고 Marketo 동기화에 대한 클라이언트 암호를 생성합니다.
 title: 3단계/4단계 - MS [!DNL Dynamics]에서 클라이언트 앱 설정
 exl-id: e7897174-3303-4c3b-8832-3e10f34fca96
 feature: Microsoft Dynamics
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 2b29f05a27f847184e0968442012d443e9e0597d
 workflow-type: tm+mt
-source-wordcount: '296'
+source-wordcount: '310'
 ht-degree: 0%
 
 ---
@@ -47,7 +47,7 @@ ht-degree: 0%
 
 [!DNL Azure] AD를 [!DNL ADFS Onprem]&#x200B;(으)로 페더레이션하려면 특정 응용 프로그램에 대한 홈 영역 검색 정책을 만들어야 합니다. 이 정책을 사용하면 [!DNL Azure] AD에서 인증 요청을 페더레이션 서비스에 리디렉션합니다. 이에 대해 [!DNL AD Connect]에서 암호 해시 동기화를 사용하도록 설정해야 합니다. 자세한 내용은 [[!DNL OAuth] 함께 [!DNL ROPC]](https://docs.microsoft.com/en-us/azure/active-directory/develop/v2-oauth-ropc) 및 [응용 프로그램에 대한 hrd 정책 설정](https://docs.microsoft.com/en-us/azure/active-directory/manage-apps/configure-authentication-for-federated-users-portal#example-set-an-hrd-policy-for-an-application)을 참조하세요.
 
-추가 참조 [이(가) 여기에 있습니다](https://docs.microsoft.com/en-us/azure/active-directory/reports-monitoring/concept-all-sign-ins#:~:text=Interactive%20user%20sign%2Dins%20are,as%20the%20Microsoft%20Authenticator%20app.&text=이%20report%20also%20includes%20federated, are%20federated%20to%20Azure%20AD.){target="_blank"}.
+추가 참조 [이(가) 여기에 있습니다](https://docs.microsoft.com/en-us/azure/active-directory/reports-monitoring/concept-all-sign-ins#:~:text=Interactive%20user%20sign%2Dins%20are,as%20the%20Microsoft%20Authenticator%20app.&text=이%20report%20also%20includes%20federated,are%20federated%20to%20Azure%20AD.){target="_blank"}.
 
 ## 4단계로 진행하기 전에 {#before-proceeding-to-step-4}
 

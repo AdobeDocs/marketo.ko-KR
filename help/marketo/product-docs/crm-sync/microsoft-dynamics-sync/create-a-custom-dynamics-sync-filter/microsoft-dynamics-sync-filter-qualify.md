@@ -1,12 +1,12 @@
 ---
 unique-page-id: 10092977
-description: Microsoft Dynamics 동기화 필터 - 적격 - Marketo 문서 - 제품 설명서
+description: 잠재 고객을 연락처로 전환할 때의 Dynamics 동기화 필터 자격 부여 프로세스에 대해 알아봅니다. 리드 및 연락처 동기화 필터 값이 Marketo 동기화에 미치는 영향을 이해합니다.
 title: Microsoft Dynamics 동기화 필터 - 선별
 exl-id: 9b26795c-fc94-478e-a7f0-ac8e602792b1
 feature: Microsoft Dynamics
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 2b29f05a27f847184e0968442012d443e9e0597d
 workflow-type: tm+mt
-source-wordcount: '108'
+source-wordcount: '125'
 ht-degree: 0%
 
 ---

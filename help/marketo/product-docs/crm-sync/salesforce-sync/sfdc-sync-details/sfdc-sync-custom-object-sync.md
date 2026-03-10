@@ -1,13 +1,13 @@
 ---
 unique-page-id: 2953471
-description: SFDC 동기화 - 사용자 지정 개체 동기화 - Marketo 문서 - 제품 설명서
+description: Salesforce에서 Marketo으로 사용자 지정 개체 동기화를 설정하는 방법에 대해 알아봅니다. 사용자 지정 개체를 활성화하고 스마트 목록, 트리거 및 캠페인에서 사용합니다.
 title: SFDC 동기화 - 사용자 지정 개체 동기화
 exl-id: e491e0bc-04a9-4e78-97c3-a25b945d546a
 feature: Salesforce Integration
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 2b29f05a27f847184e0968442012d443e9e0597d
 workflow-type: tm+mt
-source-wordcount: '277'
-ht-degree: 2%
+source-wordcount: '292'
+ht-degree: 3%
 
 ---
 
@@ -21,7 +21,7 @@ ht-degree: 2%
 
 >[!PREREQUISITES]
 >
->사용자 지정 개체를 사용하려면 [의 &#x200B;](/help/marketo/product-docs/crm-sync/salesforce-sync/sfdc-sync-details/sfdc-sync-field-sync.md)리드[, &#x200B;](/help/marketo/product-docs/crm-sync/salesforce-sync/sfdc-sync-details/sfdc-sync-contact-sync.md)연락처[&#x200B; 또는 &#x200B;](/help/marketo/product-docs/crm-sync/salesforce-sync/sfdc-sync-details/sfdc-sync-account-sync.md)계정[!DNL Salesforce] 개체와 연결되어 있어야 합니다.
+>사용자 지정 개체를 사용하려면 [의 ](/help/marketo/product-docs/crm-sync/salesforce-sync/sfdc-sync-details/sfdc-sync-field-sync.md)리드[, ](/help/marketo/product-docs/crm-sync/salesforce-sync/sfdc-sync-details/sfdc-sync-contact-sync.md)연락처[ 또는 ](/help/marketo/product-docs/crm-sync/salesforce-sync/sfdc-sync-details/sfdc-sync-account-sync.md)계정[!DNL Salesforce] 개체와 연결되어 있어야 합니다.
 
 >[!IMPORTANT]
 >

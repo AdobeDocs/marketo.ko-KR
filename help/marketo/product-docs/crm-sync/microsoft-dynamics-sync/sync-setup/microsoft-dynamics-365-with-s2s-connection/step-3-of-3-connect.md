@@ -1,13 +1,13 @@
 ---
 unique-page-id: 3571830
-description: 3단계/3단계 - Marketo 솔루션 및 서버 연결 - Marketo 문서 - 제품 설명서
+description: Marketo 솔루션을 Dynamics 365에 연결하고 서버와 서버를 연결하는 방법을 알아봅니다. Marketo Admin에서 동기화 사용자 정보를 입력하고 동기화를 활성화하기 전에 확인하십시오.
 title: 3단계/3 - Marketo 솔루션을 서버 간 연결에 연결
 exl-id: e3ede749-f787-45d3-adb4-f71ef1221208
 feature: Microsoft Dynamics
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 2b29f05a27f847184e0968442012d443e9e0597d
 workflow-type: tm+mt
-source-wordcount: '420'
-ht-degree: 0%
+source-wordcount: '430'
+ht-degree: 1%
 
 ---
 

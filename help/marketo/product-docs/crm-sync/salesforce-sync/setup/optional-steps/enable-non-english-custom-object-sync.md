@@ -1,13 +1,13 @@
 ---
 unique-page-id: 4719302
-description: 영어가 아닌 사용자 지정 개체 동기화 활성화 - Marketo 문서 - 제품 설명서
+description: Marketo 동기화 사용자가 영어가 아닌 언어를 사용할 때 사용자 지정 개체 동기화를 활성화하는 방법을 알아봅니다. Salesforce에서 동기화 사용자 언어를 영어로 설정하고 스키마를 새로 고칩니다.
 title: 영어 이외의 사용자 정의 오브젝트 동기화 활성화
 exl-id: 5d1c5b52-5323-4f68-847b-7d24e6acd6c4
 feature: Salesforce Integration
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 2b29f05a27f847184e0968442012d443e9e0597d
 workflow-type: tm+mt
-source-wordcount: '138'
-ht-degree: 8%
+source-wordcount: '157'
+ht-degree: 7%
 
 ---
 

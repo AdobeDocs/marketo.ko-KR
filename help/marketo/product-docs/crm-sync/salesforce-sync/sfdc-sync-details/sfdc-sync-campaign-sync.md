@@ -1,12 +1,12 @@
 ---
 unique-page-id: 2953469
-description: SFDC 동기화 - Campaign 동기화 - Marketo 문서 - 제품 설명서
+description: Marketo 프로그램을 Salesforce 캠페인과 동기화하는 방법에 대해 알아봅니다. 프로그램을 캠페인에 매핑하고 두 시스템 간에 구성원과 상태를 동기화합니다.
 title: SFDC 동기화 - Campaign 동기화
 exl-id: 62435e00-9c59-4dee-a9b7-ccf1d1f41b78
 feature: Salesforce Integration
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 2b29f05a27f847184e0968442012d443e9e0597d
 workflow-type: tm+mt
-source-wordcount: '360'
+source-wordcount: '374'
 ht-degree: 1%
 
 ---
@@ -64,7 +64,7 @@ Marketo **프로그램 구성원** 및 **[진행 상태](/help/marketo/product-d
 확인할 수 있는 사항은 다음과 같습니다.
 
 1. [캠페인 동기화가 활성화되었는지 확인](/help/marketo/product-docs/crm-sync/salesforce-sync/setup/optional-steps/enable-disable-campaign-sync.md).
-1. [에서 &#x200B;](/help/marketo/product-docs/crm-sync/salesforce-sync/setup/enterprise-unlimited-edition/step-2-of-3-create-a-salesforce-user-for-marketo-enterprise-unlimited.md)Marketo 동기화 사용자[가 &#x200B;](/help/marketo/product-docs/crm-sync/salesforce-sync/setup/optional-steps/enable-disable-campaign-sync/make-marketo-sync-user-a-marketing-user.md)마케팅 사용자[!DNL Salesforce]인지 확인하십시오.
+1. [에서 ](/help/marketo/product-docs/crm-sync/salesforce-sync/setup/enterprise-unlimited-edition/step-2-of-3-create-a-salesforce-user-for-marketo-enterprise-unlimited.md)Marketo 동기화 사용자[가 ](/help/marketo/product-docs/crm-sync/salesforce-sync/setup/optional-steps/enable-disable-campaign-sync/make-marketo-sync-user-a-marketing-user.md)마케팅 사용자[!DNL Salesforce]인지 확인하십시오.
 
 >[!NOTE]
 >
@@ -73,6 +73,6 @@ Marketo **프로그램 구성원** 및 **[진행 상태](/help/marketo/product-d
 >[!MORELIKETHIS]
 >
 >* [프로그램과 SFDC Campaign 동기화](/help/marketo/product-docs/core-marketo-concepts/programs/working-with-programs/sync-an-sfdc-campaign-with-a-program.md){target="_blank"}
->* [프로그램 구성원 이해](/help/marketo/product-docs/core-marketo-concepts/programs/creating-programs/understanding-program-membership.md){target="_blank"}
+>* [프로그램 멤버십 이해](/help/marketo/product-docs/core-marketo-concepts/programs/creating-programs/understanding-program-membership.md){target="_blank"}
 >* [Campaign 동기화 활성화/비활성화](/help/marketo/product-docs/crm-sync/salesforce-sync/setup/optional-steps/enable-disable-campaign-sync.md){target="_blank"}
 >* [Marketo 동기화 사용자를 마케팅 사용자로 설정](/help/marketo/product-docs/crm-sync/salesforce-sync/setup/optional-steps/enable-disable-campaign-sync/make-marketo-sync-user-a-marketing-user.md){target="_blank"}
