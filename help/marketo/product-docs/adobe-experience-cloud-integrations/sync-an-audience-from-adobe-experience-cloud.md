@@ -1,11 +1,11 @@
 ---
-description: Adobe Experience Cloud - Marketo 문서 - 제품 설명서에서 대상자 동기화
+description: Adobe Experience Cloud의 대상을 Marketo Engage으로 동기화하는 방법을 알아봅니다. 캠페인 및 프로그램에서 사용할 대상을 대상 라이브러리에서 Marketo 데이터베이스로 가져옵니다.
 title: Adobe Experience Cloud에서 대상자 동기화
 exl-id: 2288ee01-2c2e-4f33-b5c9-da3a431c1816
 feature: Integrations
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 0851dedd240b2239fd3daca43aa84d8123a4d791
 workflow-type: tm+mt
-source-wordcount: '259'
+source-wordcount: '277'
 ht-degree: 8%
 
 ---
@@ -38,7 +38,7 @@ ht-degree: 8%
 
    ![](assets/sync-an-audience-from-adobe-experience-cloud-4.png)
 
-1. 대상의 경우 기존 목록을 선택하거나 새 목록의 이름을 입력할 수 있습니다. 이 예제에서는 새 파일을 만듭니다. 완료되면 **[!UICONTROL Sync]**&#x200B;을(를) 클릭합니다.
+1. 대상의 경우 기존 목록을 선택하거나 새 목록의 이름을 입력할 수 있습니다. 이 예제에서는 새 파일을 만듭니다. 완료되면 **[!UICONTROL Sync]**&#x200B;를 클릭합니다.
 
    ![](assets/sync-an-audience-from-adobe-experience-cloud-5.png)
 

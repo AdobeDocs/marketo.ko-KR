@@ -1,12 +1,12 @@
 ---
-description: Adobe Experience Cloud 인터페이스 개요 - Marketo 설명서 - 제품 설명서
+description: 단일 인스턴스에서 Marketo Engage을 제공하는 Adobe Experience Cloud 인터페이스 및 통합 셸에 대해 알아봅니다. 이 링크를 사용하여 로그인하고 Adobe 제품 간에 전환하며 도움말 및 알림에 액세스합니다.
 title: Adobe Experience Cloud 인터페이스 개요
 exl-id: 7aaf6926-c921-4182-a8ef-d594643a5c1c
 feature: Integrations
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
-workflow-type: ht
-source-wordcount: '273'
-ht-degree: 100%
+source-git-commit: 0851dedd240b2239fd3daca43aa84d8123a4d791
+workflow-type: tm+mt
+source-wordcount: '296'
+ht-degree: 89%
 
 ---
 

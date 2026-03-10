@@ -1,12 +1,12 @@
 ---
-description: Adobe Experience Cloud 통합 개요 - Marketo 설명서 - 제품 설명서
+description: 기본 대상 동기화 및 Audience Manager을 포함하여 Marketo Engage과의 Adobe Experience Cloud 통합에 대해 알아봅니다. 통합을 설정하고 Adobe 앱 전반에 걸쳐 B2B 수요 마케팅을 잠금 해제합니다.
 title: Adobe Experience Cloud 통합 개요
 exl-id: ae75fb01-4b46-412f-b153-6f37c8de9b65
 feature: Integrations
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
-workflow-type: ht
-source-wordcount: '168'
-ht-degree: 100%
+source-git-commit: 0851dedd240b2239fd3daca43aa84d8123a4d791
+workflow-type: tm+mt
+source-wordcount: '186'
+ht-degree: 85%
 
 ---
 
