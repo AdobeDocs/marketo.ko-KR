@@ -16,11 +16,11 @@ ht-degree: 6%
 >[!PREREQUISITES]
 >
 >* 관리 섹션에서 [LaunchPoint 서비스로 사용자 지정 대상을 추가 [!DNL Facebook] 추가](/help/marketo/product-docs/demand-generation/ad-network-integrations/add-facebook-custom-audiences-as-a-launchpoint-service.md){target="_blank"}합니다.
->* [ 계정 내에서  [!DNL Facebook]사용자 지정 대상자 약관](https://www.facebook.com/ads/manage/customaudiences/tos.php){target="_blank"}에 동의[!DNL Facebook]합니다.
+>* [&#x200B; 계정 내에서  [!DNL Facebook]사용자 지정 대상자 약관](https://www.facebook.com/ads/manage/customaudiences/tos.php){target="_blank"}에 동의[!DNL Facebook]합니다.
 
 >[!TIP]
 >
->[ [!DNL Facebook]의 ](https://www.facebook.com/help/341425252616329){target="_blank"}사용자 지정 대상자에 대해 자세히 알아보세요.
+>[&#x200B; [!DNL Facebook]의 &#x200B;](https://www.facebook.com/help/341425252616329){target="_blank"}사용자 지정 대상자에 대해 자세히 알아보세요.
 
 1. 대상을 만들 잠재 고객이 포함된 스마트 또는 정적 목록을 찾아 선택합니다.
 

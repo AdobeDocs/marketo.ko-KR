@@ -46,7 +46,7 @@ ht-degree: 13%
 
 텍스트
 
-1. 위의 [에서 1단계 및 2단계 ](#upload-image-or-file)을(를) 따릅니다.
+1. 위의 [에서 1단계 및 2단계 &#x200B;](#upload-image-or-file)을(를) 따릅니다.
 
 1. **[!UICONTROL Image and file actions]** 드롭다운을 클릭하고 **[!UICONTROL Import image or file]**&#x200B;를 선택합니다.
 
@@ -68,7 +68,7 @@ PICC
 
 텍스트
 
-1. 위의 [에서 1단계 및 2단계 ](#upload-image-or-file)을(를) 따릅니다.
+1. 위의 [에서 1단계 및 2단계 &#x200B;](#upload-image-or-file)을(를) 따릅니다.
 
 1. **[!UICONTROL Image and file actions]** 드롭다운을 클릭하고 **[!UICONTROL Import image or file]**&#x200B;를 선택합니다.
 
@@ -98,7 +98,7 @@ PICC
 
 텍스트
 
-1. 위의 [에서 1단계 및 2단계 ](#upload-image-or-file)을(를) 따릅니다.
+1. 위의 [에서 1단계 및 2단계 &#x200B;](#upload-image-or-file)을(를) 따릅니다.
 
 1. **[!UICONTROL Image and file actions]** 드롭다운을 클릭하고 **[!UICONTROL Import image or file]**&#x200B;를 선택합니다.
 

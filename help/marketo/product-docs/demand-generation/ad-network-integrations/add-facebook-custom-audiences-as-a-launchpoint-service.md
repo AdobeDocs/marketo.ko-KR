@@ -63,10 +63,10 @@ ht-degree: 2%
 
    >[!CAUTION]
    >
-   >가기 전에 [ 계정 내에서  [!DNL Facebook]Accept](https://www.facebook.com/ads/manage/customaudiences/tos.php)의 사용자 지정 대상 약관[!DNL Facebook]을 확인하세요! 이렇게 하지 않으면 대상자 업데이트가 실패합니다.
+   >가기 전에 [&#x200B; 계정 내에서  [!DNL Facebook]Accept](https://www.facebook.com/ads/manage/customaudiences/tos.php)의 사용자 지정 대상 약관[!DNL Facebook]을 확인하세요! 이렇게 하지 않으면 대상자 업데이트가 실패합니다.
 
 >[!MORELIKETHIS]
 >
 >* [사용자 지정 대상 만들기 [!DNL Facebook]](/help/marketo/product-docs/demand-generation/facebook/create-a-custom-audience-in-facebook.md)
 >
->* [리드 광고 설정 [!DNL Facebook] 2}](/help/marketo/product-docs/demand-generation/facebook/set-up-facebook-lead-ads.md)
+>* [리드 광고 설정 [!DNL Facebook] 2&rbrace;](/help/marketo/product-docs/demand-generation/facebook/set-up-facebook-lead-ads.md)

@@ -65,7 +65,7 @@ Marketo Engage은 기본적으로 비보안 HTTP 프로토콜에 대해 &quot;�
 
 기존 도메인 별칭에 SSL을 활성화하려면 다음 단계를 따르십시오.
 
-1. _[!UICONTROL Admin]_영역에서 왼쪽 탐색의&#x200B;**[!UICONTROL Integration]**을(를) 확장하고&#x200B;**[!UICONTROL Landing Pages]**을(를) 선택합니다.
+1. _[!UICONTROL Admin]_&#x200B;영역에서 왼쪽 탐색의&#x200B;**[!UICONTROL Integration]**&#x200B;을(를) 확장하고&#x200B;**[!UICONTROL Landing Pages]**&#x200B;을(를) 선택합니다.
 
 1. 페이지에서 맨 위에 있는 **[!UICONTROL Rules]** 탭을 선택합니다.
 

@@ -1,7 +1,7 @@
 ---
 unique-page-id: 17728023
 description: Marketo에서 확대/축소를 사용하여 이벤트를 만드는 방법을 알아봅니다. Zoom 통합을 설정하고 이벤트 프로그램과 회의 또는 웨비나를 동기화합니다.
-title: ' [!DNL Zoom](으)로 이벤트 만들기'
+title: ' [!DNL Zoom] (으)로 이벤트 만들기'
 exl-id: 6a2aec58-902c-4e40-ab59-9cc33ec83cea
 feature: Events
 source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
