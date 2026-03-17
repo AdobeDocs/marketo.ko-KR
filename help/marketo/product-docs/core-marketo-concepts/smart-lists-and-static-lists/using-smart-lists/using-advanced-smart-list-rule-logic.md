@@ -1,12 +1,12 @@
 ---
 unique-page-id: 1146901
-description: 고급 스마트 목록 규칙 논리 사용 - Marketo 문서 - 제품 설명서
+description: 고급 스마트 목록 규칙 논리를 사용하는 방법을 알아봅니다. 복잡한 선별 작업을 위해 필터를 AND 및 OR과 결합합니다.
 title: 고급 스마트 목록 규칙 논리 사용
 exl-id: fc41b6fd-c65e-4c44-b0ee-7bb5c77c51fb
 feature: Smart Lists
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
 workflow-type: tm+mt
-source-wordcount: '294'
+source-wordcount: '302'
 ht-degree: 4%
 
 ---

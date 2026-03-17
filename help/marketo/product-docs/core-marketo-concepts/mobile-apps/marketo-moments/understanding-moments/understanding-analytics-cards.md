@@ -1,13 +1,13 @@
 ---
 unique-page-id: 8781988
-description: Analytics 카드 이해 - Marketo 문서 - 제품 설명서
+description: Marketo Moments의 Analytics 카드에 대해 알아봅니다. 모바일 앱에서 주요 지표 및 성능 통찰력을 봅니다.
 title: 분석 카드 이해
 exl-id: fc314ab8-4d29-44f5-bc45-71e6727ecc06
 feature: Mobile Marketing
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
 workflow-type: tm+mt
-source-wordcount: '260'
-ht-degree: 3%
+source-wordcount: '270'
+ht-degree: 2%
 
 ---
 

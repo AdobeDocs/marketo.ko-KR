@@ -1,12 +1,12 @@
 ---
 unique-page-id: 1146968
-description: 스마트 캠페인 결과 보기 - Marketo 문서 - 제품 설명서
+description: Smart Campaign 결과를 보는 방법을 알아봅니다. 자격 조건을 충족한 사용자, 흐름을 통해 이동한 사용자 및 수행한 작업을 확인합니다.
 title: 스마트 캠페인 결과 보기
 exl-id: a883b2da-fbce-49f9-b18d-d75a90bd9c51
 feature: Smart Campaigns
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
 workflow-type: tm+mt
-source-wordcount: '113'
+source-wordcount: '124'
 ht-degree: 8%
 
 ---

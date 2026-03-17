@@ -1,13 +1,13 @@
 ---
 unique-page-id: 1147294
-description: 마케팅 달력 필터링 - Marketo 문서 - 제품 설명서
+description: 시작 유형, 프로그램 태그 또는 작업 영역별로 마케팅 달력을 필터링하는 방법을 알아봅니다. 표시되는 예약된 자산을 제어합니다.
 title: 마케팅 캘린더 필터링
 exl-id: 94cbe35b-2b87-4c8f-86c6-11a0d12b2a12
 feature: Marketing Calendar
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
 workflow-type: tm+mt
-source-wordcount: '103'
-ht-degree: 7%
+source-wordcount: '115'
+ht-degree: 6%
 
 ---
 

@@ -1,11 +1,11 @@
 ---
-description: OP-Deliverability Management - Marketo 문서 - 제품 설명서
+description: Deliverability Management 운영 프로그램 템플릿 이메일 전달성을 유지 관리하는 데 사용합니다.
 title: OP-전달성 관리
 feature: Programs
 exl-id: 7b9bc9ee-65f4-4938-8598-6f8543042159
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
 workflow-type: tm+mt
-source-wordcount: '248'
+source-wordcount: '253'
 ht-degree: 10%
 
 ---
@@ -18,7 +18,7 @@ ht-degree: 10%
 >
 >가져오려면 사용자 지정 문자열 필드 &quot;마케팅 중단 이유&quot;가 필요합니다. [자세히 알아보기](https://nation.marketo.com/community/product_and_support/support_solutions/blog/2016/04/18/how-to-monitor-deliverability-using-marketo){target="_blank"}
 
-추가 전략 지원 또는 프로그램 사용자 지정에 도움이 필요하면 Adobe 계정 팀에 문의하거나 [Adobe Professional Services](https://business.adobe.com/kr/customers/consulting-services/main.html){target="_blank"} 페이지를 방문하십시오.
+추가 전략 지원 또는 프로그램 사용자 지정에 도움이 필요하면 Adobe 계정 팀에 문의하거나 [Adobe Professional Services](https://business.adobe.com/customers/consulting-services/main.html){target="_blank"} 페이지를 방문하십시오.
 
 ## 채널 요약 {#channel-summary}
 
@@ -118,7 +118,7 @@ ht-degree: 10%
    * 두 템플릿 모두 보관 - _권장_
    * 기존 템플릿 바꾸기
 
-## 우수 사례 {#best-practices}
+## 모범 사례 {#best-practices}
 
 * 빌드된 각 캠페인은 사용 사례에만 국한되지 않고 모범 사례 빌드에 대한 예시여야 합니다. 구체적인 해결 과제 및 데이터 문제를 해결하기 위해 스마트 캠페인을 업데이트해야 합니다.
 

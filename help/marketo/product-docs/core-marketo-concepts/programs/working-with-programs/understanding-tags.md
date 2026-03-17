@@ -1,12 +1,12 @@
 ---
 unique-page-id: 1147112
-description: 태그 이해 - Marketo 문서 - 제품 설명서
+description: 프로그램 구성 및 필터링용 태그에 대해 알아봅니다. 태그를 사용하여 프로그램을 분류하고 보고서를 필터링합니다.
 title: 태그 이해
 exl-id: af74aec2-096f-489f-adf8-388da3867fae
 feature: Programs
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
 workflow-type: tm+mt
-source-wordcount: '166'
+source-wordcount: '176'
 ht-degree: 4%
 
 ---

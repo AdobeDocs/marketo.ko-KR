@@ -1,13 +1,13 @@
 ---
 unique-page-id: 1146933
-description: 지금 일괄 처리 스마트 캠페인 실행 | 예약 탭 - Marketo 문서 - 제품 설명서
+description: 이제 예약 탭에서 일괄 처리 스마트 캠페인을 실행하는 방법을 알아봅니다. 예약하는 대신 즉시 캠페인을 실행합니다.
 title: 배치 스마트 캠페인 지금 실행 | 일정 탭
 exl-id: a9014ab4-12a4-44ae-a361-72f95bb62e27
 feature: Smart Campaigns
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
 workflow-type: tm+mt
-source-wordcount: '97'
-ht-degree: 16%
+source-wordcount: '105'
+ht-degree: 15%
 
 ---
 

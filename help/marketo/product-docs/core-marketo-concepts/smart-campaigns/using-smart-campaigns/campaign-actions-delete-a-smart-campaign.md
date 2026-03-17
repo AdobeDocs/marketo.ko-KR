@@ -1,13 +1,13 @@
 ---
 unique-page-id: 1147055
-description: Campaign 작업 - 스마트 캠페인 삭제 - Marketo 문서 - 제품 설명서
+description: 스마트 캠페인을 삭제하는 방법을 알아봅니다. 마케팅 활동에서 더 이상 필요하지 않은 캠페인을 제거합니다.
 title: Campaign 작업 - 스마트 캠페인 삭제
 exl-id: 11a210c8-3375-4e12-a97f-a70a9115a197
 feature: Smart Campaigns
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
 workflow-type: tm+mt
-source-wordcount: '110'
-ht-degree: 10%
+source-wordcount: '117'
+ht-degree: 12%
 
 ---
 

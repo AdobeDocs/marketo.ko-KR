@@ -1,13 +1,13 @@
 ---
 unique-page-id: 1147251
-description: 프로그램 일정 보기 - Marketo 문서 - 제품 설명서에서 사용자 지정 오버레이 만들기
+description: 프로그램 일정 보기에서 사용자 지정 오버레이를 만드는 방법을 알아봅니다. 일정에 추가 데이터를 표시하려면 오버레이 행을 추가하십시오.
 title: 프로그램 일정 보기에서 사용자 정의 오버레이 만들기
 exl-id: 066e7b4d-ff2c-4968-be1e-6d95d680a59a
 feature: Programs
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
 workflow-type: tm+mt
-source-wordcount: '69'
-ht-degree: 21%
+source-wordcount: '79'
+ht-degree: 18%
 
 ---
 

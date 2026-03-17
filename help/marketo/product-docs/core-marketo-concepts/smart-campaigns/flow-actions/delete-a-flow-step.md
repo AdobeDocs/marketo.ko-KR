@@ -1,12 +1,12 @@
 ---
 unique-page-id: 1146987
-description: 흐름 단계 삭제 - Marketo 문서 - 제품 설명서
+description: 스마트 캠페인에서 흐름 단계를 삭제하는 방법을 알아봅니다. 흐름에서 더 이상 필요하지 않은 작업을 제거합니다.
 title: 플로우 단계 삭제
 exl-id: 039a1e80-48cc-47f9-9e1a-459f89bf0730
 feature: Smart Campaigns
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
 workflow-type: tm+mt
-source-wordcount: '367'
+source-wordcount: '379'
 ht-degree: 2%
 
 ---

@@ -1,13 +1,13 @@
 ---
 unique-page-id: 1146956
-description: 즐거운 순간 - Marketo 문서 - 제품 설명서
+description: 흐름 단계에서 흥미로운 순간을 만드는 방법을 알아봅니다. CRM에서 판매 가시성에 대한 주요 작업을 기록합니다.
 title: 즐거운 순간
 exl-id: fa1a45b8-1e62-497e-9441-bf6859addb42
 feature: Smart Campaigns
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
 workflow-type: tm+mt
-source-wordcount: '94'
-ht-degree: 4%
+source-wordcount: '108'
+ht-degree: 3%
 
 ---
 

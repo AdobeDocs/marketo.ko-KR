@@ -1,13 +1,13 @@
 ---
 unique-page-id: 1147306
-description: Workspace으로 마케팅 달력 필터링 - Marketo 문서 - 제품 설명서
+description: 작업 영역별로 마케팅 달력을 필터링하는 방법을 알아봅니다. 필터 패널에서 특정 작업 공간에 빌드된 객체만 표시합니다.
 title: 작업 영역별로 마케팅 캘린더 필터링
 exl-id: 3f1259dd-a42d-4d9b-b2ba-1f1060f8dae6
 feature: Marketing Calendar
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
 workflow-type: tm+mt
-source-wordcount: '67'
-ht-degree: 17%
+source-wordcount: '78'
+ht-degree: 15%
 
 ---
 

@@ -1,13 +1,13 @@
 ---
 unique-page-id: 4720377
-description: 작업 영역 간 목록 또는 스마트 목록 참조 - Marketo 문서 - 제품 설명서
+description: 작업 영역 간 목록 또는 스마트 목록을 참조하는 방법을 알아봅니다. 참조와 함께 한 작업 공간의 목록을 사용합니다.
 title: 작업 영역 간 목록 또는 스마트 목록 참조
 exl-id: c390685c-e51d-4298-ba3b-8e4dd27eb85c
 feature: Smart Lists
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
 workflow-type: tm+mt
-source-wordcount: '167'
-ht-degree: 10%
+source-wordcount: '176'
+ht-degree: 12%
 
 ---
 
@@ -33,7 +33,7 @@ ht-degree: 10%
    >
    >Assets은 폴더에 중첩된 작업 영역에서만 공유할 수 있습니다.
 
-1. 폴더 이름을 지정하고 **[!UICONTROL Create]**&#x200B;을(를) 클릭합니다.
+1. 폴더 이름을 지정하고 **[!UICONTROL Create]**&#x200B;를 클릭합니다.
 
    ![](assets/reference-a-list-or-smart-list-across-workspaces-3.png)
 

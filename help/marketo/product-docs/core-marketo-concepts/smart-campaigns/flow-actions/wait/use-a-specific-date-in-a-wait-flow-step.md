@@ -1,13 +1,13 @@
 ---
 unique-page-id: 1146976
-description: 대기 흐름 단계의 특정 날짜 사용 - Marketo 문서 - 제품 설명서
+description: 대기 흐름 단계에서 특정 날짜를 사용하는 방법을 알아봅니다. 고정된 날짜 및 시간까지 흐름을 일시 중지합니다.
 title: 대기 플로우 단계에서 특정 날짜 사용
 exl-id: d6ef26a4-8c9a-4f40-9e80-dcb3921a427f
 feature: Smart Campaigns
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
 workflow-type: tm+mt
-source-wordcount: '100'
-ht-degree: 18%
+source-wordcount: '108'
+ht-degree: 16%
 
 ---
 

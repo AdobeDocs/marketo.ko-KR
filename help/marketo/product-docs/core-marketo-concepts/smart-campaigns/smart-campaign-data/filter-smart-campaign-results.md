@@ -1,12 +1,12 @@
 ---
 unique-page-id: 1147068
-description: 스마트 캠페인 결과 필터링 - Marketo 문서 - 제품 설명서
+description: 스마트 캠페인 결과를 필터링하는 방법을 알아봅니다. 캠페인 결과 보기에 표시되는 사람을 기준별로 좁힙니다.
 title: 스마트 캠페인 결과 필터링
 exl-id: 76c1b143-313b-4ef2-860f-f8b127fdfc6b
 feature: Smart Campaigns
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
 workflow-type: tm+mt
-source-wordcount: '123'
+source-wordcount: '133'
 ht-degree: 6%
 
 ---

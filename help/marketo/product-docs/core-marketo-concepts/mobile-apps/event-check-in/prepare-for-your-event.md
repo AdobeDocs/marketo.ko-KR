@@ -1,12 +1,12 @@
 ---
 unique-page-id: 10099360
-description: 이벤트 준비 - Marketo 문서 - 제품 설명서
+description: 이벤트 체크인을 사용하여 이벤트를 준비하는 방법에 대해 알아봅니다. 참석자가 도착하기 전에 앱을 설정하고 이벤트 프로그램을 동기화합니다.
 title: 이벤트 준비
 exl-id: 30754c2e-dad0-4275-b5b3-f31680a62c42
 feature: Mobile Marketing
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
 workflow-type: tm+mt
-source-wordcount: '379'
+source-wordcount: '393'
 ht-degree: 2%
 
 ---
@@ -21,7 +21,7 @@ ht-degree: 2%
 
 ## 새 Marketo 역할 만들기 {#create-a-new-marketo-role}
 
-Marketo에는 이벤트 체크인 앱에 대한 특수 사용자 역할이 있습니다. 모바일 응용 프로그램에 액세스할 수 있는 권한을 가진 [&#x200B; 또는 &#x200B;](/help/marketo/product-docs/core-marketo-concepts/mobile-apps/event-check-in/grant-users-access-to-the-check-in-app.md) 사용자에 대해 [!DNL iPad]새 Marketo 역할을 만듭니다[!DNL Android].
+Marketo에는 이벤트 체크인 앱에 대한 특수 사용자 역할이 있습니다. 모바일 응용 프로그램에 액세스할 수 있는 권한을 가진 [ 또는 ](/help/marketo/product-docs/core-marketo-concepts/mobile-apps/event-check-in/grant-users-access-to-the-check-in-app.md) 사용자에 대해 [!DNL iPad]새 Marketo 역할을 만듭니다[!DNL Android].
 
 ## 이벤트에 새 태블릿 사용자 초대 {#invite-new-tablet-users-to-the-event}
 

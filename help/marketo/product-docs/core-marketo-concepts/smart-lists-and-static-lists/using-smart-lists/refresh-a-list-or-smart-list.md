@@ -1,13 +1,13 @@
 ---
 unique-page-id: 557318
-description: 목록 또는 스마트 목록 새로 고침 - Marketo 문서 - 제품 설명서
+description: 목록 또는 스마트 목록을 새로 고치는 방법에 대해 알아봅니다. 현재 필터 결과 또는 멤버십을 반영하도록 목록의 사람을 업데이트합니다.
 title: 목록 또는 스마트 목록 새로 고침
 exl-id: f66adc0f-910f-46d4-a33c-976b061bdce2
 feature: Smart Lists
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
 workflow-type: tm+mt
-source-wordcount: '132'
-ht-degree: 9%
+source-wordcount: '144'
+ht-degree: 8%
 
 ---
 

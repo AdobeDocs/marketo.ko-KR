@@ -1,13 +1,13 @@
 ---
 unique-page-id: 1146954
-description: 목록에서 제거 - Marketo 문서 - 제품 설명서
+description: 흐름 단계가 있는 목록에서 사람을 제거하는 방법을 알아봅니다. 목록을 비헤이비어 또는 상태와 계속 동기화하도록 합니다.
 title: 목록에서 제거
 exl-id: ec837329-f904-47ea-b276-a0f7becdcc75
 feature: Smart Campaigns
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
 workflow-type: tm+mt
-source-wordcount: '47'
-ht-degree: 12%
+source-wordcount: '63'
+ht-degree: 9%
 
 ---
 

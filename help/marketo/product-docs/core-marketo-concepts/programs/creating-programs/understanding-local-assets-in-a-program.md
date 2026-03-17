@@ -1,13 +1,13 @@
 ---
 unique-page-id: 1147093
-description: 프로그램의 로컬 Assets 이해 - Marketo 문서 - 제품 설명서
+description: 프로그램의 로컬 자산에 대해 알아봅니다. 프로그램 내에서 이메일, 랜딩 페이지 및 기타 에셋이 어떻게 작동하는지 파악합니다.
 title: 프로그램에서 로컬 자산 이해
 exl-id: aa577b2b-f77c-41cc-aa47-59ce2d189530
 feature: Programs
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
 workflow-type: tm+mt
-source-wordcount: '96'
-ht-degree: 17%
+source-wordcount: '104'
+ht-degree: 16%
 
 ---
 

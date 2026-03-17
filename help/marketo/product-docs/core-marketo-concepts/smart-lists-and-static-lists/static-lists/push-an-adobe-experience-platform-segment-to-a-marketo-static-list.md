@@ -1,11 +1,11 @@
 ---
-description: Adobe Experience Platform 세그먼트를 Marketo 정적 목록에 푸시 - Marketo 문서 - 제품 설명서
+description: Adobe Experience Platform 세그먼트를 Marketo 정적 목록으로 푸시하는 방법을 알아봅니다. AEP 세그먼트를 Marketo 목록으로 동기화합니다.
 title: Adobe Experience Platform 세그먼트를 Marketo 정적 목록으로 푸시
 exl-id: 8df11bf4-06f4-4927-8dfb-954414fce6dc
 feature: Static Lists
-source-git-commit: 7f8968210659ed2c51640966115f22da47e42ebf
+source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
 workflow-type: tm+mt
-source-wordcount: '601'
+source-wordcount: '606'
 ht-degree: 4%
 
 ---
@@ -99,7 +99,7 @@ ht-degree: 4%
 
    >[!NOTE]
    >
-   >Experience Platform의 속성을 조직이 Marketo Engage에서 액세스할 수 있는 모든 속성에 매핑할 수 있습니다. [API 요청 설명](https://experienceleague.adobe.com/ko/docs/marketo-developer/marketo/rest/lead-database/lead-database#describe){target="_blank"}을(를) 사용하여 조직에서 액세스할 수 있는 특성 필드를 검색합니다.
+   >Experience Platform의 속성을 조직이 Marketo Engage에서 액세스할 수 있는 모든 속성에 매핑할 수 있습니다. [API 요청 설명](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/rest/lead-database/lead-database#describe){target="_blank"}을(를) 사용하여 조직에서 액세스할 수 있는 특성 필드를 검색합니다.
 
 1. **[!UICONTROL Add New Mapping]**&#x200B;을(를) 다시 클릭하고 15단계를 두 번 반복하여 **[!UICONTROL lastName]**&#x200B;을(를) 선택한 다음 **[!UICONTROL companyName]**&#x200B;을(를) 선택하여 성 및 회사 이름을 매핑합니다.
 

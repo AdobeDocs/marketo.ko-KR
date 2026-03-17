@@ -1,12 +1,12 @@
 ---
-description: 프로그램 구성원 데이터 변경 - Marketo 문서 - 제품 설명서
+description: 흐름 단계에서 프로그램 멤버 데이터를 변경하는 방법에 대해 알아봅니다. 프로그램의 구성원에 대한 구성원 상태 또는 사용자 정의 필드를 업데이트합니다.
 title: 프로그램 멤버 데이터 변경
 exl-id: 2ed8468e-0dbb-48c1-be60-7b51e92f9095
 feature: Smart Campaigns
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
 workflow-type: tm+mt
-source-wordcount: '132'
-ht-degree: 6%
+source-wordcount: '146'
+ht-degree: 5%
 
 ---
 

@@ -1,13 +1,13 @@
 ---
 unique-page-id: 9438139
-description: 개인 차단 목록에 추가하다 추가 - Marketo 문서 - 제품 설명서
+description: 차단 목록에 추가하다에 사용자를 추가하는 방법을 알아봅니다. 특정 사용자 또는 도메인에 이메일이 전송되지 않도록 합니다.
 title: 차단 목록에 사용자 추가
 exl-id: e4543bf9-11e9-42df-a31e-e2cebe24ad4a
 feature: Smart Lists
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
 workflow-type: tm+mt
-source-wordcount: '150'
-ht-degree: 10%
+source-wordcount: '161'
+ht-degree: 9%
 
 ---
 

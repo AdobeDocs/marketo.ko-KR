@@ -1,12 +1,12 @@
 ---
 unique-page-id: 2953415
-description: 개인 세부 정보 페이지 사용 - Marketo 문서 - 제품 설명서
+description: 개인 세부 정보 페이지를 사용하는 방법을 알아봅니다. 리드 정보, 활동 및 실행 플로우 단계를 한 곳에서 보고 편집합니다.
 title: 개인 정보 페이지 사용
 exl-id: 8476ed02-6d94-4aa5-91f6-55c81a87f745
 feature: Smart Lists
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
 workflow-type: tm+mt
-source-wordcount: '525'
+source-wordcount: '537'
 ht-degree: 26%
 
 ---
@@ -60,7 +60,7 @@ ht-degree: 26%
 
 >[!NOTE]
 >
->CRM과 동기화되지 않은 인스턴스에 대한 영업 기회 정보 [API를 통해 삽입됨](https://experienceleague.adobe.com/ko/docs/marketo-developer/marketo/rest/lead-database/opportunities)도 볼 수 있습니다.
+>CRM과 동기화되지 않은 인스턴스에 대한 영업 기회 정보 [API를 통해 삽입됨](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/rest/lead-database/opportunities)도 볼 수 있습니다.
 
 ## 필드 편집 {#editing-a-field}
 

@@ -1,11 +1,11 @@
 ---
-description: 트리거 캠페인에 대한 우선 순위 재정의 - Marketo 문서 - 제품 설명서
+description: 트리거 캠페인의 우선 순위 재정의에 대해 알아봅니다. 동일한 사용자에 대해 여러 트리거가 실행될 때 실행되는 캠페인을 제어합니다.
 title: 트리거 캠페인에 대한 우선순위 재정의
 exl-id: cf9b4d27-0e4c-40cf-accd-4f4a102160cc
 feature: Smart Campaigns
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
 workflow-type: tm+mt
-source-wordcount: '222'
+source-wordcount: '232'
 ht-degree: 4%
 
 ---

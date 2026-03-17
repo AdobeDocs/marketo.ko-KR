@@ -1,13 +1,13 @@
 ---
 unique-page-id: 1147015
-description: 참여 프로그램 스트림 변경 - Marketo 문서 - 제품 설명서
+description: 흐름 단계에서 참여 프로그램 스트림을 변경하는 방법을 알아봅니다. 참여 프로그램에서 다른 스트림으로 사용자를 이동합니다.
 title: 참여 프로그램 스트림 변경
 exl-id: 1b8dd04b-3af8-4733-b630-b06c4b06bb75
 feature: Smart Campaigns
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
 workflow-type: tm+mt
-source-wordcount: '93'
-ht-degree: 8%
+source-wordcount: '106'
+ht-degree: 7%
 
 ---
 

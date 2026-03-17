@@ -1,13 +1,13 @@
 ---
 unique-page-id: 1147142
-description: 프로그램 일정 보기 - Marketo 문서 - 제품 설명서에서 일괄 스마트 캠페인 만들기
+description: 프로그램 일정 보기에서 일괄 처리 스마트 캠페인을 만드는 방법을 알아봅니다. 일괄 캠페인 항목을 추가하고 구성합니다.
 title: 프로그램 일정 보기에서 배치 스마트 캠페인 만들기
 exl-id: 8baf07c5-d45f-4b17-9c9c-45063dd95aac
 feature: Programs
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
 workflow-type: tm+mt
-source-wordcount: '151'
-ht-degree: 13%
+source-wordcount: '157'
+ht-degree: 12%
 
 ---
 

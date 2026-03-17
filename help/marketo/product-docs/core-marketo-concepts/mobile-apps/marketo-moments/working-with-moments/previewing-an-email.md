@@ -1,13 +1,13 @@
 ---
 unique-page-id: 8783563
-description: 이메일 미리 보기 - Marketo 문서 - 제품 설명서
+description: Marketo Moments에서 이메일을 미리 보는 방법에 대해 알아봅니다. 모바일 앱에서 전송하기 전에 이메일이 어떻게 보이는지 확인합니다.
 title: 이메일 미리보기
 exl-id: 10bcedbd-553f-4ba1-b1bd-1aad2890dbd4
 feature: Mobile Marketing
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
 workflow-type: tm+mt
-source-wordcount: '124'
-ht-degree: 6%
+source-wordcount: '138'
+ht-degree: 5%
 
 ---
 

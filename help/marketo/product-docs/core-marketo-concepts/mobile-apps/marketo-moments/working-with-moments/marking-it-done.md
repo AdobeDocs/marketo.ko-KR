@@ -1,13 +1,13 @@
 ---
 unique-page-id: 8783557
-description: 완료로 표시 - Marketo 문서 - 제품 설명서
+description: Marketo 모멘트 앱에서 완료로 모멘트를 표시하는 방법을 알아봅니다. 완료되면 목록에서 항목을 지웁니다.
 title: 완료로 표시
 exl-id: 0abac320-da3b-4ab8-a1ce-28e5e17f4d15
 feature: Mobile Marketing
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
 workflow-type: tm+mt
-source-wordcount: '133'
-ht-degree: 6%
+source-wordcount: '146'
+ht-degree: 5%
 
 ---
 

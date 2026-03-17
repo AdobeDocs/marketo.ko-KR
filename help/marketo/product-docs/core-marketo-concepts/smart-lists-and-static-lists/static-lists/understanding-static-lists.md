@@ -1,13 +1,13 @@
 ---
 unique-page-id: 2949891
-description: 정적 목록 이해 - Marketo 문서 - 제품 설명서
+description: 고정된 사용자 집합에 대한 Marketo의 정적 목록에 대해 알아봅니다. 멤버십을 수동으로 관리하는 경우 정적 목록을 사용합니다.
 title: 정적 목록 이해
 exl-id: c37c1496-cf19-4e44-aaec-77b10669b9bf
 feature: Static Lists
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
 workflow-type: tm+mt
-source-wordcount: '215'
-ht-degree: 5%
+source-wordcount: '227'
+ht-degree: 4%
 
 ---
 

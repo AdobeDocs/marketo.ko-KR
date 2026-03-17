@@ -1,13 +1,13 @@
 ---
 unique-page-id: 37356426
-description: Microsoft - Marketo 문서 - 제품 설명서에서 소유자 변경
+description: 흐름 단계로 Microsoft Dynamics에서 소유자를 변경하는 방법을 알아봅니다. 사람들이 플로우를 입력할 때 새 소유자를 할당합니다.
 title: Microsoft에서 소유자 변경
 exl-id: d17cfb70-1d78-48e9-8e53-99a7abd5a647
 feature: Smart Campaigns, Microsoft Dynamics
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
 workflow-type: tm+mt
-source-wordcount: '91'
-ht-degree: 9%
+source-wordcount: '104'
+ht-degree: 8%
 
 ---
 

@@ -1,19 +1,19 @@
 ---
 unique-page-id: 1147025
-description: 스마트 캠페인에서 웹후크 사용 - Marketo 문서 - 제품 설명서
+description: Smart Campaign에서 웹후크를 사용하는 방법을 알아봅니다. 외부 URL을 호출하고 흐름 단계에서 개인 데이터를 전달합니다.
 title: 스마트 캠페인에서 웹후크 사용
 exl-id: 19dcc469-288d-4bfb-92e1-3e8db75588a6
 feature: Smart Campaigns
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
 workflow-type: tm+mt
-source-wordcount: '102'
-ht-degree: 15%
+source-wordcount: '113'
+ht-degree: 14%
 
 ---
 
 # 스마트 캠페인에서 웹후크 사용 {#use-a-webhook-in-a-smart-campaign}
 
-[Webhook](https://experienceleague.adobe.com/ko/docs/marketo-developer/marketo/webhooks/webhooks){target="_blank"}을(를) 사용하려면 [Smart Campaign](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/add-a-flow-step-to-a-smart-campaign.md){target="_blank"}에 흐름 작업으로 추가하십시오.
+[Webhook](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/webhooks/webhooks){target="_blank"}을(를) 사용하려면 [Smart Campaign](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/add-a-flow-step-to-a-smart-campaign.md){target="_blank"}에 흐름 작업으로 추가하십시오.
 
 >[!AVAILABILITY]
 >

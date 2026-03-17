@@ -1,13 +1,13 @@
 ---
 unique-page-id: 1147116
-description: 내 토큰 관리 - Marketo 문서 - 제품 설명서
+description: 프로그램에서 내 토큰을 관리하는 방법을 알아봅니다. 토큰을 만들고 사용하여 프로그램 콘텐츠와 이메일을 개인화할 수 있습니다.
 title: 내 토큰 관리
 exl-id: a2e70c17-a8d4-4723-ac7c-da1979828dc9
 feature: Tokens
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
 workflow-type: tm+mt
-source-wordcount: '197'
-ht-degree: 4%
+source-wordcount: '209'
+ht-degree: 5%
 
 ---
 
@@ -71,7 +71,7 @@ ht-degree: 4%
 
    ![](assets/edit-a-my-token-1.png)
 
-1. 원하는 대로 편집합니다. 완료되면 **[!UICONTROL Save]**&#x200B;을(를) 클릭합니다.
+1. 원하는 대로 편집합니다. 완료되면 **[!UICONTROL Save]**&#x200B;를 클릭합니다.
 
    ![](assets/edit-a-my-token-2.png)
 

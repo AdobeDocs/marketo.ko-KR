@@ -1,12 +1,12 @@
 ---
 unique-page-id: 557339
-description: 중복 사용자 찾기 및 병합 - Marketo 문서 - 제품 설명서
+description: 중복 사용자를 찾아 병합하는 방법에 대해 알아봅니다. 중복 레코드를 하나로 결합하고 데이터베이스를 정리합니다.
 title: 중복 사용자 찾기 및 병합
 exl-id: a6d46096-587a-4e3a-b37a-917c0d2098b1
 feature: Smart Lists
-source-git-commit: 3456e4d0d9fdcd4590884d9a5b15ef206fcff875
+source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
 workflow-type: tm+mt
-source-wordcount: '411'
+source-wordcount: '419'
 ht-degree: 3%
 
 ---

@@ -1,13 +1,13 @@
 ---
 unique-page-id: 1147034
-description: SFDC Campaign에 추가 - Marketo 문서 - 제품 설명서
+description: 흐름 단계를 통해 Salesforce 캠페인에 사용자를 추가하는 방법을 알아봅니다. Marketo을 동기화하는 것이 SFDC 캠페인으로 이어집니다.
 title: SFDC 캠페인에 추가
 exl-id: a5e14cc7-fd83-4a2c-aacb-e515669c9d21
 feature: Smart Campaigns, Salesforce Integration
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
 workflow-type: tm+mt
-source-wordcount: '173'
-ht-degree: 5%
+source-wordcount: '184'
+ht-degree: 4%
 
 ---
 

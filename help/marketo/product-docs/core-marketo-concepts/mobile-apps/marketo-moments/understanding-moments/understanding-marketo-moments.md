@@ -1,12 +1,12 @@
 ---
 unique-page-id: 8781845
-description: Marketo 순간 이해 - Marketo 문서 - 제품 설명서
+description: 중요한 사항을 확인하는 Marketo Moments에 대해 알아봅니다. 모바일 앱에서 주요 인사이트를 보고 조치를 취합니다.
 title: Marketo Moments 이해
 exl-id: bc103d25-a175-4ab1-8305-1e05b9b0dc2d
 feature: Mobile Marketing
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
 workflow-type: tm+mt
-source-wordcount: '586'
+source-wordcount: '600'
 ht-degree: 1%
 
 ---

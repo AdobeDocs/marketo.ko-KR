@@ -1,13 +1,13 @@
 ---
 unique-page-id: 7504120
-description: 프레젠테이션 시작 - Marketo 문서 - 제품 설명서
+description: 보기 및 순환을 설정한 후 마케팅 달력 프레젠테이션을 시작하는 방법에 대해 알아봅니다. HDTV 또는 외부 모니터에 표시합니다.
 title: 프레젠테이션 시작
 exl-id: 2726e185-c28a-44bb-b7a6-46698efcd1b4
 feature: Marketing Calendar
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
 workflow-type: tm+mt
-source-wordcount: '104'
-ht-degree: 6%
+source-wordcount: '118'
+ht-degree: 5%
 
 ---
 

@@ -1,13 +1,13 @@
 ---
 unique-page-id: 2360496
-description: 스마트 목록 필터에 여러 값 추가 - Marketo 문서 - 제품 설명서
+description: 스마트 목록 필터에 여러 값을 추가하는 방법을 알아봅니다. 유연성을 위해 하나의 필터에서 여러 값 중 하나를 일치시키십시오.
 title: 스마트 목록 필터에 여러 값 추가
 exl-id: 5f9aaf1b-a3a6-4acf-82ea-7d70d1af1763
 feature: Smart Lists
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
 workflow-type: tm+mt
-source-wordcount: '126'
-ht-degree: 12%
+source-wordcount: '135'
+ht-degree: 13%
 
 ---
 
@@ -20,7 +20,7 @@ ht-degree: 12%
 
 캘리포니아에 있는 모든 사람을 찾고 싶지만 데이터베이스에 &quot;California&quot;와 &quot;CA&quot;를 모두 저장할 수 있습니다. 적용 가능한 모든 사람을 포함하려면 두 개의 [!UICONTROL State] 필터를 사용할 수 있지만 한 개의 필터로 더 쉽게 만들 수 있습니다.
 
-1. **[!UICONTROL Marketing Activities]**(으)로 이동합니다.
+1. **[!UICONTROL Marketing Activities]** 으로 이동합니다.
 
    ![](assets/add-multiple-values-to-a-smart-list-filter-1.png)
 

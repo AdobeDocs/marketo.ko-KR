@@ -1,12 +1,12 @@
 ---
 unique-page-id: 4720779
-description: 폴더 이해 - Marketo 문서 - 제품 설명서
+description: 스마트 캠페인 및 자산을 구성하기 위한 프로그램 내의 폴더에 대해 알아봅니다. 폴더를 만들고 이름을 바꾸고 삭제합니다.
 title: 폴더 이해
 exl-id: 2ea914f6-ca64-4e87-806c-93beba075ab2
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
 workflow-type: tm+mt
-source-wordcount: '252'
-ht-degree: 4%
+source-wordcount: '262'
+ht-degree: 8%
 
 ---
 
@@ -34,7 +34,7 @@ ht-degree: 4%
 
 마음을 바꾸셔도 괜찮습니다.
 
-1. 폴더를 마우스 오른쪽 단추로 클릭하고 **[!UICONTROL Rename Folder]**&#x200B;을(를) 선택합니다.
+1. 폴더를 마우스 오른쪽 버튼으로 클릭하고 **[!UICONTROL Rename Folder]**&#x200B;를 선택합니다.
 
    ![](assets/image2015-4-20-18-3a49-3a10.png)
 
@@ -48,7 +48,7 @@ ht-degree: 4%
 >
 >삭제하기 전에 폴더가 비어 있는지 확인하십시오.
 
-1. 폴더를 마우스 오른쪽 단추로 클릭하고 **[!UICONTROL Delete Folder]**&#x200B;을(를) 선택합니다.
+1. 폴더를 마우스 오른쪽 버튼으로 클릭하고 **[!UICONTROL Delete Folder]**&#x200B;를 선택합니다.
 
    ![](assets/image2015-4-20-18-3a55-3a51.png)
 

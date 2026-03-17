@@ -1,12 +1,12 @@
 ---
-description: 프로그램 가져오기 라이브러리 개요 - Marketo 문서 - 제품 설명서
+description: 프로그램 가져오기 라이브러리 및 템플릿 프로그램에 대해 알아봅니다. 템플릿을 사용하여 모범 사례에서 프로그램을 신속하게 만들 수 있습니다.
 title: 프로그램 가져오기 라이브러리 개요
 feature: Programs
 exl-id: 1e754eed-b5e7-419f-a786-2bc9cbd1d21f
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
 workflow-type: tm+mt
-source-wordcount: '129'
-ht-degree: 6%
+source-wordcount: '139'
+ht-degree: 5%
 
 ---
 
@@ -14,7 +14,7 @@ ht-degree: 6%
 
 Marketo Engage 참조 라이브러리에는 Marketo 인스턴스로 직접 가져와 팀을 지원하는 데 도움이 되는 프로그램 빌드를 시작할 수 있는 몇 가지 스타터 프로그램이 포함되어 있습니다.
 
-라이브러리에는 이메일, 참여, 이벤트, 점수, 전달성 및 운영과 같은 프로그램이 포함되어 있습니다. 모든 프로그램은 품질과 효과를 극대화하기 위해 Adobe 제품 팀에서 개발했으며 [글로벌 전문 서비스](https://business.adobe.com/kr/customers/consulting-services/main.html){target="_blank"} 팀에서 검사했습니다.
+라이브러리에는 이메일, 참여, 이벤트, 점수, 전달성 및 운영과 같은 프로그램이 포함되어 있습니다. 모든 프로그램은 품질과 효과를 극대화하기 위해 Adobe 제품 팀에서 개발했으며 [글로벌 전문 서비스](https://business.adobe.com/customers/consulting-services/main.html){target="_blank"} 팀에서 검사했습니다.
 
 ## 사용 가능한 프로그램 예 {#available-program-examples}
 

@@ -1,13 +1,13 @@
 ---
 unique-page-id: 8781974
-description: 이벤트 카드 이해 - Marketo 문서 - 제품 설명서
+description: Marketo Moments의 이벤트 카드에 대해 알아봅니다. 모바일 앱에서 이벤트 프로그램 세부 사항을 보고 조치를 취합니다.
 title: 이벤트 카드 이해
 exl-id: 21e14ede-7b94-4580-8a4c-1b18a3734eef
 feature: Mobile Marketing
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
 workflow-type: tm+mt
-source-wordcount: '150'
-ht-degree: 5%
+source-wordcount: '161'
+ht-degree: 4%
 
 ---
 

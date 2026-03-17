@@ -1,11 +1,11 @@
 ---
-description: ' [!DNL Dynamics] Campaign - Marketo 문서 - 제품 설명서에서 사람 추가 또는 제거'
+description: 흐름 단계를 통해 Microsoft Dynamics 캠페인에서 사람을 추가하거나 제거하는 방법을 알아봅니다. Marketo을 Dynamics 캠페인과 동기화합니다.
 title: ' [!DNL Dynamics] Campaign에서 사람 추가 또는 제거'
 exl-id: 4fea2f7c-0655-4816-8640-76878f760b6e
 feature: Smart Campaigns, Microsoft Dynamics
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
 workflow-type: tm+mt
-source-wordcount: '312'
+source-wordcount: '322'
 ht-degree: 0%
 
 ---

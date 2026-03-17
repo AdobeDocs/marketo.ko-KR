@@ -1,13 +1,13 @@
 ---
 unique-page-id: 1146931
-description: 새 스마트 캠페인 만들기 - Marketo 문서 - 제품 설명서
+description: 새 스마트 캠페인을 만드는 방법을 알아봅니다. 트리거 또는 스마트 목록을 설정하고 작업을 자동화하는 흐름 단계를 추가합니다.
 title: 새 스마트 캠페인 만들기
 exl-id: c24ef00a-1f5c-4d0f-a7ff-131dcb593119
 feature: Smart Campaigns
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
 workflow-type: tm+mt
-source-wordcount: '113'
-ht-degree: 8%
+source-wordcount: '126'
+ht-degree: 9%
 
 ---
 
@@ -19,7 +19,7 @@ ht-degree: 8%
 >
 >[스마트 캠페인](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/understanding-smart-campaigns.md){target="_blank"}에 대해 자세히 알아보세요.
 
-1. **[!UICONTROL Marketing Activities]**(으)로 이동합니다.
+1. **[!UICONTROL Marketing Activities]** 으로 이동합니다.
 
    ![](assets/create-a-new-smart-campaign-1.png)
 

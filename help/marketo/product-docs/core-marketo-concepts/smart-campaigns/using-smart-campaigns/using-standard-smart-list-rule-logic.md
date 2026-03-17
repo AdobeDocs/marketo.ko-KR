@@ -1,13 +1,13 @@
 ---
 unique-page-id: 1147001
-description: 표준 스마트 목록 규칙 논리 사용 - Marketo 문서 - 제품 설명서
+description: 스마트 캠페인에서 표준 스마트 목록 규칙 논리를 사용하는 방법을 알아봅니다. 검증을 위해 필터를 AND 논리와 결합합니다.
 title: 표준 스마트 목록 규칙 논리 사용
 exl-id: 9befaa81-e50c-47d3-9edf-220cfadd00f6
 feature: Smart Campaigns
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
 workflow-type: tm+mt
-source-wordcount: '129'
-ht-degree: 9%
+source-wordcount: '139'
+ht-degree: 8%
 
 ---
 

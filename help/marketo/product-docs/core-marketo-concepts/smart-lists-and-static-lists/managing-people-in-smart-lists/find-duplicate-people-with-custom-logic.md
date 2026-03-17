@@ -1,13 +1,13 @@
 ---
 unique-page-id: 2952636
-description: 사용자 지정 논리 - Marketo 문서 - 제품 설명서로 중복 사용자 찾기
+description: 사용자 지정 논리로 중복 사용자를 찾는 방법에 대해 알아봅니다. 기준에 따른 중복을 식별하는 스마트 목록을 빌드합니다.
 title: 사용자 정의 논리로 중복 사용자 찾기
 exl-id: e268ca34-03a3-403a-8869-4e2b60bba05c
 feature: Smart Lists
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
 workflow-type: tm+mt
-source-wordcount: '124'
-ht-degree: 19%
+source-wordcount: '133'
+ht-degree: 18%
 
 ---
 

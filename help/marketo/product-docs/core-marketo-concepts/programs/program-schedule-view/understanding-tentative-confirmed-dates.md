@@ -1,12 +1,12 @@
 ---
 unique-page-id: 1147140
-description: 잠정/확정 일자 이해 - Marketo 문서 - 제품 설명서
+description: 프로그램 일정 보기에서 잠정 및 확정된 날짜에 대해 알아봅니다. 항목이 잠기는 시기와 실행되는 시기를 파악합니다.
 title: 잠정적/확정 날짜 이해
 exl-id: af6b907f-e4d8-432f-b1da-dd7c04376ba8
 feature: Programs
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
 workflow-type: tm+mt
-source-wordcount: '206'
+source-wordcount: '218'
 ht-degree: 4%
 
 ---

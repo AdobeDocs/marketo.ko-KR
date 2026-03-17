@@ -1,13 +1,13 @@
 ---
 unique-page-id: 8783561
-description: 샘플 보내기 - Marketo 문서 - 제품 설명서
+description: Marketo Moments에서 샘플 이메일을 보내는 방법에 대해 알아봅니다. 앱에서 본인에게 샘플을 전송하여 이메일을 테스트합니다.
 title: 샘플 전송
 exl-id: 9b4cdb6b-9969-4427-9ae3-f6d08430f10f
 feature: Mobile Marketing
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
 workflow-type: tm+mt
-source-wordcount: '125'
-ht-degree: 6%
+source-wordcount: '140'
+ht-degree: 5%
 
 ---
 

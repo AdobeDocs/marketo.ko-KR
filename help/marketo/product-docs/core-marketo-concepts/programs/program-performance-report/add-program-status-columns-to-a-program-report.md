@@ -1,13 +1,13 @@
 ---
 unique-page-id: 1147239
-description: 프로그램 보고서에 프로그램 상태 열 추가 - Marketo 문서 - 제품 설명서
+description: 프로그램 보고서에 프로그램 상태 열을 추가하는 방법을 알아봅니다. 보고서 열에 멤버 상태를 포함합니다.
 title: 프로그램 보고서에 프로그램 상태 열 추가
 exl-id: ab8e5be7-7ea6-4b69-b701-0c81ea556107
 feature: Programs
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
 workflow-type: tm+mt
-source-wordcount: '127'
-ht-degree: 13%
+source-wordcount: '133'
+ht-degree: 12%
 
 ---
 

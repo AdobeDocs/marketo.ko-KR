@@ -1,12 +1,12 @@
 ---
 unique-page-id: 1147009
-description: 프로그램 변경 성공 - Marketo 문서 - 제품 설명서
+description: 흐름 단계에서 프로그램 성공을 변경하는 방법을 알아봅니다. 작업을 완료하면 프로그램에서 성공으로 표시합니다.
 title: 프로그램 성공 변경
 exl-id: 5b45b6d0-0c3d-4677-8b9a-8bbf03b1209e
 feature: Smart Campaigns
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
 workflow-type: tm+mt
-source-wordcount: '129'
+source-wordcount: '144'
 ht-degree: 4%
 
 ---

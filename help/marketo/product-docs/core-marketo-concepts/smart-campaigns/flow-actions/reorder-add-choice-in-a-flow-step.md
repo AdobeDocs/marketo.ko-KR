@@ -1,12 +1,12 @@
 ---
 unique-page-id: 557333
-description: 흐름 단계에서 추가 선택 항목 순서 바꾸기 - Marketo 문서 - 제품 설명서
+description: 흐름 단계에서 선택 항목 추가 옵션을 재정렬하는 방법을 알아봅니다. 캠페인에서 선택 분기의 순서를 변경합니다.
 title: 흐름 단계에서 선택 항목 추가 순서 바꾸기
 exl-id: e76af93a-24df-48ba-b5f2-ea6e697e2f3a
 feature: Smart Campaigns
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
 workflow-type: tm+mt
-source-wordcount: '165'
+source-wordcount: '174'
 ht-degree: 0%
 
 ---

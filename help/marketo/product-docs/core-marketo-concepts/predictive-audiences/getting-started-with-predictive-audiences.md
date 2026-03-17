@@ -1,12 +1,12 @@
 ---
-description: Predictive Audiences 시작하기 - Marketo 문서 - 제품 설명서
+description: Marketo의 예측 대상 및 AI 기반 타깃팅에 대해 알아봅니다. 가능성 값과 예측 필터를 사용하여 목표에 도달합니다.
 title: Predictive Audiences 시작하기
 exl-id: d4780837-4cab-49b8-9aa4-61e6d4c43e8b
 feature: Predictive Audiences
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
 workflow-type: tm+mt
-source-wordcount: '218'
-ht-degree: 5%
+source-wordcount: '228'
+ht-degree: 4%
 
 ---
 

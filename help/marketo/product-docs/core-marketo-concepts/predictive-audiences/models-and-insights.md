@@ -1,12 +1,12 @@
 ---
-description: 모델 및 인사이트 - Marketo 문서 - 제품 설명서
+description: 예측 대상 모델 및 영향 요인에 대해 알아봅니다. AI 인사이트를 사용하여 타깃팅을 조정하고 캠페인 성과를 향상시킬 수 있습니다.
 title: 모델 및 인사이트
 exl-id: 7a01d6f0-000a-4b9a-8abb-9e7f9c4b1679
 feature: Predictive Audiences
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
 workflow-type: tm+mt
-source-wordcount: '212'
-ht-degree: 2%
+source-wordcount: '223'
+ht-degree: 3%
 
 ---
 

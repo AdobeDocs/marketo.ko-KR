@@ -1,13 +1,13 @@
 ---
 unique-page-id: 1147019
-description: 사용자 전환 - Marketo 문서 - 제품 설명서
+description: 흐름 단계에서 개인을 변환하는 방법을 알아봅니다. 익명 방문자가 전환될 때 알려진 대로 표시합니다.
 title: 사용자 전환
 exl-id: b0ff0b63-a6a3-48c5-92ef-7ece5c182d28
 feature: Smart Campaigns
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
 workflow-type: tm+mt
-source-wordcount: '100'
-ht-degree: 6%
+source-wordcount: '112'
+ht-degree: 5%
 
 ---
 

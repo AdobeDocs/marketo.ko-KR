@@ -1,13 +1,13 @@
 ---
 unique-page-id: 2953120
-description: 스마트 캠페인 이해 - Marketo 설명서 - 제품 설명서
+description: Marketo의 자동화를 위한 스마트 캠페인에 대해 알아봅니다. 트리거 및 플로우 단계를 사용하여 리드 육성 및 작업을 자동화합니다.
 title: 스마트 캠페인 이해
 exl-id: 94675059-cc04-4dc2-989f-aaf81e1260d3
 feature: Smart Campaigns
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
-workflow-type: ht
-source-wordcount: '249'
-ht-degree: 100%
+source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
+workflow-type: tm+mt
+source-wordcount: '261'
+ht-degree: 92%
 
 ---
 

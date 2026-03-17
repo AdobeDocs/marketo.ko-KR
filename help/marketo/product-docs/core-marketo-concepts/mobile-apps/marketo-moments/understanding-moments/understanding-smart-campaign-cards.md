@@ -1,13 +1,13 @@
 ---
 unique-page-id: 10093348
-description: 스마트 캠페인 카드 이해 - Marketo 문서 - 제품 설명서
+description: Marketo Moments의 스마트 캠페인 카드에 대해 알아봅니다. 모바일 앱에서 캠페인 상태를 보고 흐름 단계를 실행합니다.
 title: 스마트 캠페인 카드 이해
 exl-id: 2d7476aa-d33d-4c82-aef8-b340766b9526
 feature: Mobile Marketing
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
 workflow-type: tm+mt
-source-wordcount: '549'
-ht-degree: 2%
+source-wordcount: '560'
+ht-degree: 1%
 
 ---
 

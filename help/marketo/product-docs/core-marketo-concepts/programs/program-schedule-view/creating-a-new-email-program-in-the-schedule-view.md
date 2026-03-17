@@ -1,13 +1,13 @@
 ---
 unique-page-id: 1147144
-description: 일정 보기 - Marketo 문서 - 제품 설명서에서 새 이메일 프로그램 만들기
+description: 프로그램 일정 보기에서 새 이메일 프로그램을 만드는 방법을 알아봅니다. 이메일 프로그램 항목을 추가하고 구성합니다.
 title: 일정 보기에서 새 이메일 프로그램 만들기
 exl-id: a052d6a8-d745-4017-a22a-a7019c8432ce
 feature: Programs
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
 workflow-type: tm+mt
-source-wordcount: '111'
-ht-degree: 18%
+source-wordcount: '119'
+ht-degree: 19%
 
 ---
 
@@ -15,7 +15,7 @@ ht-degree: 18%
 
 프로그램 예약 보기 내에서 이메일 프로그램을 빌드할 수 있습니다. 방법은 다음과 같습니다.
 
-1. **[!UICONTROL Marketing Activities]**(으)로 이동합니다.
+1. **[!UICONTROL Marketing Activities]** 으로 이동합니다.
 
    ![](assets/login-marketing-activities-2.png)
 

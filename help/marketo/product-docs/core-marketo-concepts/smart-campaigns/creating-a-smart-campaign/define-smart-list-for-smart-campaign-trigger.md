@@ -1,12 +1,12 @@
 ---
 unique-page-id: 1146942
-description: 스마트 캠페인을 위한 스마트 목록 정의 | 트리거 - Marketo 문서 - 제품 설명서
+description: 스마트 캠페인 트리거에 대한 스마트 목록을 정의하는 방법을 알아봅니다. 트리거에 적합한 필터를 설정합니다.
 title: 스마트 캠페인에 대한 스마트 목록 정의 | 트리거
 exl-id: 14d9b15e-864a-47ef-8f39-3d65e6036a82
 feature: Smart Campaigns
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
 workflow-type: tm+mt
-source-wordcount: '251'
+source-wordcount: '260'
 ht-degree: 5%
 
 ---
@@ -55,7 +55,7 @@ ht-degree: 5%
    >
    >트리거가 여러 개인 경우, 트리거 중 _ANY_ 하나가 활성화되면 한 사람이 흐름을 통과합니다.
 
-사람들 집합에서 동시에 캠페인을 실행하려면 [Smart Campaign용 스마트 목록을 정의하는 방법을 알아보세요 | 일괄 처리 &#x200B;](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/creating-a-smart-campaign/define-smart-list-for-smart-campaign-batch.md){target="_blank"}.
+사람들 집합에서 동시에 캠페인을 실행하려면 [Smart Campaign용 스마트 목록을 정의하는 방법을 알아보세요 | 일괄 처리 ](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/creating-a-smart-campaign/define-smart-list-for-smart-campaign-batch.md){target="_blank"}.
 
 >[!MORELIKETHIS]
 >

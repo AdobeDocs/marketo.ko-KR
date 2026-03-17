@@ -1,12 +1,12 @@
 ---
 unique-page-id: 1147100
-description: 프로그램 일정 보기 탐색 - Marketo 문서 - 제품 설명서
+description: 프로그램 일정 보기를 탐색하는 방법을 알아봅니다. 시간을 이동하고 프로그램의 예약된 항목을 봅니다.
 title: 프로그램 일정 보기 탐색
 exl-id: 31623f95-f956-44f6-9b6e-5595fb6e62d5
 feature: Programs
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
 workflow-type: tm+mt
-source-wordcount: '177'
+source-wordcount: '186'
 ht-degree: 6%
 
 ---
@@ -17,7 +17,7 @@ ht-degree: 6%
 
 ## 일정 보기 찾기 {#find-the-schedule-view}
 
-1. **[!UICONTROL Marketing Activities]**(으)로 이동합니다.
+1. **[!UICONTROL Marketing Activities]** 으로 이동합니다.
 
    ![](assets/login-marketing-activities.png)
 

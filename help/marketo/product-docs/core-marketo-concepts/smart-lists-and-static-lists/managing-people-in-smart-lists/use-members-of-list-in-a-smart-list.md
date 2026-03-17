@@ -1,13 +1,13 @@
 ---
 unique-page-id: 2953173
-description: 스마트 목록의 목록 멤버 사용 - Marketo 문서 - 제품 설명서
+description: 스마트 목록 필터에서 목록의 구성원을 사용하는 방법에 대해 알아봅니다. 다른 목록에 있는 사람을 포함하거나 제외합니다.
 title: 스마트 목록에서 목록의 멤버 사용
 exl-id: ebd458c1-01f4-4d19-b5b2-d19ab2bad1af
 feature: Smart Lists
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
 workflow-type: tm+mt
-source-wordcount: '132'
-ht-degree: 13%
+source-wordcount: '141'
+ht-degree: 12%
 
 ---
 

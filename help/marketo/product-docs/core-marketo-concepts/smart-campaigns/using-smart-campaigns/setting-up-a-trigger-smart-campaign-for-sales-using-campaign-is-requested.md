@@ -1,13 +1,13 @@
 ---
 unique-page-id: 7514898
-description: '"캠페인이 요청됨"을 사용하여 판매용 스마트 캠페인 트리거 설정 - Marketo 문서 - 제품 설명서'
+description: Campaign이 요청됨 을 사용하여 판매용 스마트 캠페인 트리거를 설정하는 방법을 알아봅니다. CRM의 잠재 고객에 대한 영업 요청 캠페인을 허용합니다.
 title: “캠페인 요청됨”을 사용하여 영업용 트리거 스마트 캠페인 설정
 exl-id: ed6d7c27-d54b-48e3-af67-19503da4ef56
 feature: Smart Campaigns
-source-git-commit: 65d607e279fb86b0816ccaec2f4bf3c69e309cb9
+source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
 workflow-type: tm+mt
-source-wordcount: '283'
-ht-degree: 11%
+source-wordcount: '291'
+ht-degree: 10%
 
 ---
 

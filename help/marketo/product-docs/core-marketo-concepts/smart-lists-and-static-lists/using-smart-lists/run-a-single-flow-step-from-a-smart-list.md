@@ -1,13 +1,13 @@
 ---
 unique-page-id: 557322
-description: 스마트 목록에서 단일 흐름 단계 실행 - Marketo 문서 - 제품 설명서
+description: 스마트 목록에서 단일 흐름 단계를 실행하는 방법을 알아봅니다. 목록에서 선택한 사용자에 대해 하나의 흐름 작업을 실행합니다.
 title: 스마트 목록에서 단일 플로우 단계 실행
 exl-id: 1ac5795b-1906-4f94-bd0a-570d55c9357b
 feature: Smart Lists
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
 workflow-type: tm+mt
-source-wordcount: '219'
-ht-degree: 9%
+source-wordcount: '228'
+ht-degree: 10%
 
 ---
 
@@ -19,7 +19,7 @@ ht-degree: 9%
 >
 >[스마트 목록 만들기](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/creating-a-smart-list/create-a-smart-list.md){target="_blank"}
 
-1. **[!UICONTROL Marketing Activities]**(으)로 이동합니다.
+1. **[!UICONTROL Marketing Activities]** 으로 이동합니다.
 
    ![](assets/run-a-single-flow-step-from-a-smart-list-1.png)
 
@@ -31,7 +31,7 @@ ht-degree: 9%
    >
    >정적 목록과 스마트 목록 모두에 이 기능이 있습니다.
 
-1. **[!UICONTROL Select All]**&#x200B;을(를) 클릭합니다. **Ctrl/Cmd**&#x200B;을 사용하고 클릭하여 몇 개의 레코드를 수동으로 선택할 수도 있습니다.
+1. **[!UICONTROL Select All]**&#x200B;를 클릭합니다. **Ctrl/Cmd**&#x200B;을 사용하고 클릭하여 몇 개의 레코드를 수동으로 선택할 수도 있습니다.
 
    ![](assets/run-a-single-flow-step-from-a-smart-list-3.png)
 

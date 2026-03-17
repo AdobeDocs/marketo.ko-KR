@@ -1,13 +1,13 @@
 ---
 unique-page-id: 2953405
-description: Analytics 비헤이비어 설정 편집 - Marketo 문서 - 제품 설명서
+description: 프로그램에 대한 분석 비헤이비어 설정을 편집하는 방법을 알아봅니다. 프로그램 성공 및 매출을 추적하는 방법을 구성합니다.
 title: 분석 동작 설정 편집
 exl-id: 672973f9-35f7-4427-8bea-8f2e0c9d0b35
 feature: Programs
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
 workflow-type: tm+mt
-source-wordcount: '173'
-ht-degree: 6%
+source-wordcount: '183'
+ht-degree: 7%
 
 ---
 
@@ -15,7 +15,7 @@ ht-degree: 6%
 
 [채널](/help/marketo/product-docs/reporting/revenue-cycle-analytics/program-analytics/make-a-program-without-a-period-cost-available-in-revenue-explorer-and-analyzers.md){target="_blank"}의 관리자 수준에서 분석 동작을 설정할 수 있지만 프로그램 수준에서 편집할 수도 있습니다. 방법은 다음과 같습니다.
 
-1. **[!UICONTROL Marketing Activities]**(으)로 이동합니다.
+1. **[!UICONTROL Marketing Activities]** 으로 이동합니다.
 
    ![](assets/login-marketing-activities-2.png)
 

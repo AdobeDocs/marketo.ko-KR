@@ -1,12 +1,12 @@
 ---
 unique-page-id: 1147017
-description: 작업 만들기 - Marketo 문서 - 제품 설명서
+description: 흐름 단계에서 Salesforce 작업을 만드는 방법을 알아봅니다. 누군가가 플로우를 입력하면 리드 소유자를 위한 작업을 만듭니다.
 title: 작업 만들기
 exl-id: c484d913-1fd8-4716-8caa-0bf318218ca1
 feature: Smart Campaigns, Salesforce Integration
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
 workflow-type: tm+mt
-source-wordcount: '109'
+source-wordcount: '126'
 ht-degree: 3%
 
 ---

@@ -1,13 +1,13 @@
 ---
 unique-page-id: 1146935
-description: 스마트 캠페인 트리거 활성화 | 예약 탭 - Marketo 문서 - 제품 설명서
+description: '[예약] 탭에서 트리거 스마트 캠페인을 활성화하는 방법을 알아봅니다. 트리거를 수신하기 시작하도록 캠페인을 켭니다.'
 title: 트리거 스마트 캠페인 활성화 | 일정 탭
 exl-id: f9232c91-aa39-4033-bd11-865d1cbc5eb2
 feature: Smart Campaigns
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
 workflow-type: tm+mt
-source-wordcount: '83'
-ht-degree: 16%
+source-wordcount: '94'
+ht-degree: 14%
 
 ---
 

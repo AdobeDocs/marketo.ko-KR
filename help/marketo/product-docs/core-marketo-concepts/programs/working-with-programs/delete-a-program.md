@@ -1,12 +1,12 @@
 ---
 unique-page-id: 1147148
-description: 프로그램 삭제 - Marketo 문서 - 제품 설명서
+description: Marketo에서 프로그램을 삭제하는 방법을 알아봅니다. 더 이상 필요하지 않은 프로그램을 제거합니다.
 title: 프로그램 삭제
 exl-id: c13dbb4a-36ea-49ee-aee2-a4af28750b0f
 feature: Programs
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
 workflow-type: tm+mt
-source-wordcount: '170'
+source-wordcount: '177'
 ht-degree: 7%
 
 ---

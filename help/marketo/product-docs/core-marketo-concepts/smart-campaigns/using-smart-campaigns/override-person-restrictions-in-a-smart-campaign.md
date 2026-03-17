@@ -1,13 +1,13 @@
 ---
 unique-page-id: 1147066
-description: 스마트 캠페인에서 개인 제한 재정의 - Marketo 문서 - 제품 설명서
+description: Smart Campaign에서 개인 제한을 재정의하는 방법을 알아봅니다. 사람들이 통신 제한에 도달하더라도 실행할 수 있도록 허용합니다.
 title: 스마트 캠페인에서 개인 제한 재정의
 exl-id: 45ff3e36-01fd-42ea-ba74-efd98867a58a
 feature: Smart Campaigns
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
 workflow-type: tm+mt
-source-wordcount: '132'
-ht-degree: 10%
+source-wordcount: '141'
+ht-degree: 9%
 
 ---
 

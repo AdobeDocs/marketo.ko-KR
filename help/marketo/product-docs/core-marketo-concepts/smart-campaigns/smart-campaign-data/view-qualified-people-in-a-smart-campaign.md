@@ -1,12 +1,12 @@
 ---
 unique-page-id: 1146966
-description: Smart Campaign - Marketo 문서 - 제품 설명서에서 적격한 사람 보기
+description: Smart Campaign에서 자격을 갖춘 사람을 보는 방법에 대해 알아봅니다. 스마트 목록 또는 트리거 기준을 충족하는 사용자를 확인합니다.
 title: 스마트 캠페인에서 적격 사용자 보기
 exl-id: 84fb5c85-d794-4eb3-b74c-242c76ecdd1d
 feature: Smart Campaigns
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
 workflow-type: tm+mt
-source-wordcount: '163'
+source-wordcount: '171'
 ht-degree: 8%
 
 ---

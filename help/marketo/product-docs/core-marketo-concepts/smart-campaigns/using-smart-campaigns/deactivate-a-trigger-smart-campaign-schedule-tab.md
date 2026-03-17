@@ -1,13 +1,13 @@
 ---
 unique-page-id: 1146991
-description: 스마트 캠페인 트리거 비활성화 | 예약 탭 - Marketo 문서 - 제품 설명서
+description: 일정 탭에서 스마트 캠페인 트리거를 비활성화하는 방법에 대해 알아봅니다. 처리 트리거를 중지하도록 캠페인을 끕니다.
 title: 트리거 스마트 캠페인 비활성화 | 일정 탭
 exl-id: 59138811-c963-4c4d-9513-b3e12e8e9e38
 feature: Smart Campaigns
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
 workflow-type: tm+mt
-source-wordcount: '83'
-ht-degree: 16%
+source-wordcount: '93'
+ht-degree: 15%
 
 ---
 

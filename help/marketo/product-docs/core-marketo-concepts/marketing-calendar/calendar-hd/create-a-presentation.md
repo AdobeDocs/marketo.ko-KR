@@ -1,13 +1,13 @@
 ---
 unique-page-id: 7503971
-description: 프레젠테이션 만들기 - Marketo 문서 - 제품 설명서
+description: HDTV의 프로젝트 보기에 대한 마케팅 달력 프레젠테이션을 만드는 방법을 알아봅니다. 팀을 위해 작업 영역별 프레젠테이션을 설정합니다.
 title: 프레젠테이션 만들기
 exl-id: 3a591c03-2604-44be-b335-2258151beaeb
 feature: Marketing Calendar
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
 workflow-type: tm+mt
-source-wordcount: '80'
-ht-degree: 8%
+source-wordcount: '94'
+ht-degree: 7%
 
 ---
 

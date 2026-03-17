@@ -1,14 +1,14 @@
 ---
-description: 개인 세부 정보 페이지의 단일 흐름 작업 - Marketo 문서 - 제품 설명서
+description: 개인 세부 정보 페이지에서 단일 흐름 작업을 실행하는 방법을 알아봅니다. 요청 시 개인에 대해 하나의 플로우 단계를 실행합니다.
 title: 개인 정보 페이지의 단일 플로우 작업
 hide: true
 hidefromtoc: true
 exl-id: 3eeb7724-a502-4ea5-a57b-29d03133402f
 feature: Smart Campaigns
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
 workflow-type: tm+mt
-source-wordcount: '116'
-ht-degree: 12%
+source-wordcount: '127'
+ht-degree: 11%
 
 ---
 

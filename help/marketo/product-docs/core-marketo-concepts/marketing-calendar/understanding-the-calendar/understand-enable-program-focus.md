@@ -1,13 +1,13 @@
 ---
 unique-page-id: 2953364
-description: 프로그램 포커스 이해/활성화 - Marketo 문서 - 제품 설명서
+description: 프로그램 포커스를 통해 마케팅 달력 항목과 상호 작용하는 방법을 이해합니다. 프로그램에 초점을 맞추어 항목을 생성, 편집, 삭제 또는 확인할 수 있습니다.
 title: 프로그램 초점 이해/활성화
 exl-id: 90de3d93-d243-451d-8df3-5e2732919615
 feature: Marketing Calendar
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
 workflow-type: tm+mt
-source-wordcount: '148'
-ht-degree: 5%
+source-wordcount: '163'
+ht-degree: 4%
 
 ---
 

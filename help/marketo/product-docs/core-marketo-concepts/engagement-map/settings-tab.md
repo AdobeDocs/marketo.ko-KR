@@ -1,10 +1,10 @@
 ---
-description: 설정 탭 - Marketo 문서 - 제품 설명서
+description: Smart Campaign 자격 규칙, 실행 및 반복에 대한 설정 탭에 대해 알아봅니다. 사람들이 캠페인 플로우를 통해 실행하는 빈도를 설정합니다.
 title: 설정 탭
 exl-id: 622ad162-a2b1-4a37-93d8-c1dd8c6e10c8
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
 workflow-type: tm+mt
-source-wordcount: '303'
+source-wordcount: '319'
 ht-degree: 2%
 
 ---

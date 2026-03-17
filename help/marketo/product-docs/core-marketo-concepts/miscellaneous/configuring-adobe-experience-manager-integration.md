@@ -1,15 +1,15 @@
 ---
 unique-page-id: 30081815
-description: Adobe Experience Manager 통합 구성 - Marketo 문서 - 제품 설명서
+description: Marketo과 Adobe Experience Manager 통합을 구성하는 방법에 대해 알아봅니다. 에셋에 액세스하고 Design Studio로 가져올 수 있도록 AEM을 설정합니다.
 title: Adobe Experience Manager 통합 구성
 hide: true
 hidefromtoc: true
 exl-id: 06b2c214-1afb-443f-ae01-0c00fed77dce
 feature: Integrations
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
 workflow-type: tm+mt
-source-wordcount: '188'
-ht-degree: 7%
+source-wordcount: '202'
+ht-degree: 10%
 
 ---
 

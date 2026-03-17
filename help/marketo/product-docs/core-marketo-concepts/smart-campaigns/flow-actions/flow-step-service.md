@@ -1,11 +1,11 @@
 ---
-description: 흐름 단계 서비스 - Marketo 문서 - 제품 설명서
+description: 사용자 지정 흐름 단계에 대한 흐름 단계 서비스에 대해 알아봅니다. API를 통해 사용자 지정 작업으로 스마트 캠페인을 확장합니다.
 title: 플로우 단계 서비스
 exl-id: 81367562-8b27-4ec5-8a9b-b02083a2e999
 feature: Smart Campaigns
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
 workflow-type: tm+mt
-source-wordcount: '1224'
+source-wordcount: '1235'
 ht-degree: 0%
 
 ---

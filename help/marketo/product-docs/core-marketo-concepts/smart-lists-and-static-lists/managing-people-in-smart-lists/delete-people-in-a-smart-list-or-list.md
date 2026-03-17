@@ -1,13 +1,13 @@
 ---
 unique-page-id: 1146897
-description: 스마트 목록 또는 목록에서 사람 삭제 - Marketo 문서 - 제품 설명서
+description: 스마트 목록 또는 정적 목록에서 사람을 삭제하는 방법을 알아봅니다. 목록 또는 데이터베이스에서 사람을 제거합니다.
 title: 스마트 목록 또는 목록에서 사용자 삭제
 exl-id: 192e79e6-d816-44e3-84c4-212cd73eb3ce
 feature: Smart Lists
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
 workflow-type: tm+mt
-source-wordcount: '270'
-ht-degree: 6%
+source-wordcount: '279'
+ht-degree: 7%
 
 ---
 
@@ -19,7 +19,7 @@ ht-degree: 6%
 >
 >[스마트 목록 만들기](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/creating-a-smart-list/create-a-smart-list.md)
 
-1. **[!UICONTROL Marketing Activities]**(으)로 이동합니다.
+1. **[!UICONTROL Marketing Activities]** 으로 이동합니다.
 
    ![](assets/ma-1.png)
 
@@ -31,7 +31,7 @@ ht-degree: 6%
    >
    >사용자를 삭제하면 목록에서 제거만 하는 것이 아니라 데이터베이스에서 완전히 제거됩니다.
 
-1. **[!UICONTROL Select All]**&#x200B;을(를) 클릭합니다. Ctrl/Cmd를 사용하고 를 클릭하여 몇 개의 레코드를 직접 선택할 수도 있습니다.
+1. **[!UICONTROL Select All]**&#x200B;를 클릭합니다. Ctrl/Cmd를 사용하고 를 클릭하여 몇 개의 레코드를 직접 선택할 수도 있습니다.
 
    ![](assets/three-1.png)
 

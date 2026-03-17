@@ -1,13 +1,13 @@
 ---
 unique-page-id: 1146950
-description: 대기 - Marketo 문서 - 제품 설명서
+description: 스마트 캠페인의 대기 흐름 단계에 대해 알아봅니다. 계속하기 전에 특정 기간 동안 또는 특정 날짜까지 흐름을 일시 중지합니다.
 title: 대기
 exl-id: 58f43c4b-6f20-4740-9a25-e09c7ea31dcf
 feature: Smart Campaigns
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
 workflow-type: tm+mt
-source-wordcount: '188'
-ht-degree: 15%
+source-wordcount: '205'
+ht-degree: 14%
 
 ---
 

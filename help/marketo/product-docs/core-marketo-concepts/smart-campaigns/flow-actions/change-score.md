@@ -1,13 +1,13 @@
 ---
 unique-page-id: 1146962
-description: 점수 변경 - Marketo 문서 - 제품 설명서
+description: 흐름 단계에서 리드 점수를 변경하는 방법을 알아봅니다. 캠페인의 개인 점수에서 포인트를 더하거나 뺍니다.
 title: 점수 변경
 exl-id: bba77aa1-40ab-40e5-ad43-f8cf0b235d3b
 feature: Smart Campaigns
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
 workflow-type: tm+mt
-source-wordcount: '92'
-ht-degree: 4%
+source-wordcount: '107'
+ht-degree: 3%
 
 ---
 

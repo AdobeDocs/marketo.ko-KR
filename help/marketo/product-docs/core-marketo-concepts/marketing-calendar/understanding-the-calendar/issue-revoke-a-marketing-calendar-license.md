@@ -1,13 +1,13 @@
 ---
 unique-page-id: 1147255
-description: 마케팅 달력 라이선스 문제/취소 - Marketo 문서 - 제품 설명서
+description: 사용자에 대한 마케팅 캘린더 라이선스를 발급하거나 취소하는 방법에 대해 알아봅니다. 캘린더 액세스 권한을 부여하거나 제거합니다.
 title: 마케팅 캘린더 라이선스 발급/취소
 exl-id: b43cf0e4-3e3e-4034-8ecf-bda34557cfef
 feature: Marketing Calendar
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
 workflow-type: tm+mt
-source-wordcount: '93'
-ht-degree: 16%
+source-wordcount: '100'
+ht-degree: 18%
 
 ---
 

@@ -1,11 +1,11 @@
 ---
 unique-page-id: 11386358
-description: Marketo 샌드박스 - Marketo 문서 - 제품 설명서
+description: 프로덕션 전 테스트를 위한 Marketo Engage 샌드박스에 대해 알아봅니다. 샌드박스 인스턴스를 사용하여 프로덕션에 영향을 주지 않고 테스트합니다.
 title: Marketo Sandbox
 exl-id: c040fac6-2290-4de5-b27d-2c7cb28f6e30
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
 workflow-type: tm+mt
-source-wordcount: '288'
+source-wordcount: '301'
 ht-degree: 1%
 
 ---

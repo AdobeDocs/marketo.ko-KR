@@ -1,12 +1,12 @@
 ---
-description: 로컬 자산 만료 - Marketo 문서 - 제품 설명서
+description: 프로그램의 로컬 자산 만료에 대해 알아봅니다. 프로그램의 로컬 에셋이 만료되어 제거될 때 설정합니다.
 title: 로컬 자산 만료
 exl-id: 603e3eee-0531-4139-a8f5-279831ad011f
 feature: Programs
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
 workflow-type: tm+mt
-source-wordcount: '239'
-ht-degree: 4%
+source-wordcount: '250'
+ht-degree: 6%
 
 ---
 
@@ -48,7 +48,7 @@ ht-degree: 4%
 
    ![](assets/local-asset-expiration-6.png)
 
-1. 시간을 설정합니다. 미래 시간으로 최소 15분 시간을 예약해야 합니다(오전/오후 입장 잊지 마십시오). 완료되면 **[!UICONTROL Confirm]**&#x200B;을(를) 클릭합니다.
+1. 시간을 설정합니다. 미래 시간으로 최소 15분 시간을 예약해야 합니다(오전/오후 입장 잊지 마십시오). 완료되면 **[!UICONTROL Confirm]**&#x200B;를 클릭합니다.
 
    ![](assets/local-asset-expiration-7.png)
 

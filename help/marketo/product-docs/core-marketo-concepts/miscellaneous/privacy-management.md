@@ -1,10 +1,10 @@
 ---
-description: 개인 정보 관리 - Marketo 문서 - 제품 설명서
+description: GDPR, CCPA 등을 위한 Marketo Engage의 개인 정보 관리 도구에 대해 알아봅니다. 규정을 준수하도록 액세스 및 삭제 요청을 처리합니다.
 title: 개인 정보 관리
 exl-id: e18a48d7-2961-4133-8540-8512ea181fe0
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
 workflow-type: tm+mt
-source-wordcount: '377'
+source-wordcount: '393'
 ht-degree: 1%
 
 ---

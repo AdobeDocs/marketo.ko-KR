@@ -1,13 +1,13 @@
 ---
 unique-page-id: 2952402
-description: 개인의 활동 로그에서 활동 유형 필터링 - Marketo 문서 - 제품 설명서
+description: 개인의 활동 로그에서 활동 유형을 필터링하는 방법을 알아봅니다. 내역을 볼 때 특정 활동에 중점을 둡니다.
 title: 사용자의 활동 로그에서 활동 유형 필터링
 exl-id: c778aa9c-d985-43ab-9018-58f3e3fe8165
 feature: Smart Lists
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
 workflow-type: tm+mt
-source-wordcount: '112'
-ht-degree: 21%
+source-wordcount: '118'
+ht-degree: 23%
 
 ---
 
@@ -53,6 +53,6 @@ ht-degree: 21%
 
    ![](assets/seven-1.png)
 
-1. **[!UICONTROL Saved Filters]**&#x200B;을(를) 클릭합니다. 저장된 필터 목록은 다음과 같습니다.
+1. **[!UICONTROL Saved Filters]**&#x200B;를 클릭합니다. 저장된 필터 목록은 다음과 같습니다.
 
    ![](assets/eight.png)

@@ -1,13 +1,13 @@
 ---
 unique-page-id: 1147042
-description: 필드에 데이터 추가 - Marketo 문서 - 제품 설명서
+description: 흐름 단계에서 필드에 데이터를 추가하는 방법을 알아봅니다. 덮어쓰지 않고 기존 필드 값에 텍스트를 추가합니다.
 title: 필드에 데이터 추가
 exl-id: 62d68efd-b2df-48bd-925e-f9a95907f33c
 feature: Smart Campaigns
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
 workflow-type: tm+mt
-source-wordcount: '105'
-ht-degree: 13%
+source-wordcount: '116'
+ht-degree: 12%
 
 ---
 

@@ -1,13 +1,13 @@
 ---
 unique-page-id: 2953362
-description: 마케팅 달력 - Marketo 문서 - 제품 설명서에서 바로 항목 확인
+description: 마케팅 달력에서 잠정적 Smart Campaign 및 이메일 프로그램 항목을 확인하는 방법을 알아봅니다. 유효성 검사를 실행하고 캠페인이 실행되도록 확인합니다.
 title: 마케팅 캘린더에서 직접 항목 확인
 exl-id: f0074982-0cdc-44b9-b6f9-eb47407aba58
 feature: Marketing Calendar
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
 workflow-type: tm+mt
-source-wordcount: '83'
-ht-degree: 19%
+source-wordcount: '94'
+ht-degree: 17%
 
 ---
 

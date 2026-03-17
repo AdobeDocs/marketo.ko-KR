@@ -1,13 +1,13 @@
 ---
 unique-page-id: 1147064
-description: Smart Campaign에 통신 제한 적용 - Marketo 문서 - 제품 설명서
+description: Smart Campaign에 통신 제한을 적용하는 방법을 알아봅니다. 캠페인을 통해 실행할 수 있는 이메일 또는 횟수를 제한합니다.
 title: 스마트 캠페인에 커뮤니케이션 제한 적용
 exl-id: b33885ba-6811-47ab-9db9-099d35ca49df
 feature: Smart Campaigns
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
 workflow-type: tm+mt
-source-wordcount: '125'
-ht-degree: 9%
+source-wordcount: '137'
+ht-degree: 8%
 
 ---
 

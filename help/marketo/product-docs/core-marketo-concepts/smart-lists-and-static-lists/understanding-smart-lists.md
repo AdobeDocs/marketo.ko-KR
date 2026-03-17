@@ -1,12 +1,12 @@
 ---
 unique-page-id: 557130
-description: 스마트 목록 이해 - Marketo 문서 - 제품 설명서
+description: Marketo에서 필터가 있는 사람 그룹을 찾기 위한 스마트 목록에 대해 알아봅니다. 캠페인, 프로그램 및 보고서에서 스마트 목록을 만들고 사용합니다.
 title: 스마트 목록 이해
 exl-id: 8b7fd845-96d8-4b53-9ad0-118cf55be24a
 feature: Smart Lists
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
 workflow-type: tm+mt
-source-wordcount: '209'
+source-wordcount: '225'
 ht-degree: 2%
 
 ---

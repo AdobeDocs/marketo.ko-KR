@@ -1,13 +1,13 @@
 ---
 unique-page-id: 1147138
-description: 일정 보기 - Marketo 문서 - 제품 설명서에서 전체 프로그램 일정 조정
+description: '[일정 보기]에서 전체 프로그램의 일정을 조정하는 방법을 알아봅니다. 모든 항목을 한 번에 새 날짜로 이동합니다.'
 title: 일정 보기에서 전체 프로그램 일정 변경
 exl-id: 3debeff2-67ce-4b59-be5b-ce8cc198f4a0
 feature: Programs
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
 workflow-type: tm+mt
-source-wordcount: '118'
-ht-degree: 16%
+source-wordcount: '125'
+ht-degree: 15%
 
 ---
 

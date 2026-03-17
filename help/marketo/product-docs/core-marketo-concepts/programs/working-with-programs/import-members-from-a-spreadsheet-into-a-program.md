@@ -1,12 +1,12 @@
 ---
 unique-page-id: 1147120
-description: 스프레드시트에서 프로그램으로 구성원 가져오기 - Marketo 문서 - 제품 설명서
+description: 스프레드시트에서 프로그램으로 멤버를 가져오는 방법에 대해 알아봅니다.
 title: 스프레드시트에서 프로그램으로 멤버 가져오기
 exl-id: 09c597bb-d28a-463b-8340-ff22d2e0fa02
 feature: Programs
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
 workflow-type: tm+mt
-source-wordcount: '154'
+source-wordcount: '153'
 ht-degree: 11%
 
 ---

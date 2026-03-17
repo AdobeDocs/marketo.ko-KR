@@ -1,13 +1,13 @@
 ---
 unique-page-id: 7514027
-description: 사용자를 Microsoft에 동기화 - Marketo 문서 - 제품 설명서
+description: 흐름 단계를 통해 개인을 Microsoft Dynamics에 동기화하는 방법을 알아봅니다. 리드 데이터가 흐름에 들어갈 때 Dynamics에 푸시합니다.
 title: Microsoft에 사용자 동기화
 exl-id: cc6f1c03-ba74-418c-95d5-fb073a248379
 feature: Smart Campaigns, Microsoft Dynamics
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
 workflow-type: tm+mt
-source-wordcount: '68'
-ht-degree: 14%
+source-wordcount: '83'
+ht-degree: 12%
 
 ---
 

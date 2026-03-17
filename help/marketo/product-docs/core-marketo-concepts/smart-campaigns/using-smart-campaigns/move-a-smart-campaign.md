@@ -1,13 +1,13 @@
 ---
 unique-page-id: 6094949
-description: 스마트 캠페인 이동 - Marketo 문서 - 제품 설명서
+description: 스마트 캠페인을 이동하는 방법을 알아봅니다. 캠페인을 마케팅 활동의 다른 폴더로 재배치합니다.
 title: 스마트 캠페인 이동
 exl-id: e5988fba-584f-47c5-8b26-7ce6ba312c9d
 feature: Smart Campaigns
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
 workflow-type: tm+mt
-source-wordcount: '137'
-ht-degree: 6%
+source-wordcount: '146'
+ht-degree: 7%
 
 ---
 
@@ -19,7 +19,7 @@ ht-degree: 6%
 >
 >규칙이 변경되지 않으므로 캠페인의 스마트 목록 또는 흐름 단계에서 원래 프로그램을 참조하는 경우 자동으로 _업데이트되지 않음_&#x200B;되므로 이 정보를 수동으로 업데이트하여 새 프로그램을 반영해야 합니다.
 
-1. **[!UICONTROL Marketing Activities]**(으)로 이동합니다.
+1. **[!UICONTROL Marketing Activities]** 으로 이동합니다.
 
    ![](assets/move-a-smart-campaign-1.png)
 

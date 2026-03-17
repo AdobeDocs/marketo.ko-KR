@@ -1,13 +1,13 @@
 ---
 unique-page-id: 557316
-description: 스마트 목록 필터 정의 - Marketo 문서 - 제품 설명서
+description: 스마트 목록 필터를 정의하는 방법을 알아봅니다. 필터 제약 조건 및 값을 설정하여 목록에 표시할 사용자를 결정합니다.
 title: 스마트 목록 필터 정의
 exl-id: ab08c5be-0afa-46d5-9f29-99e1f6b99dea
 feature: Smart Lists
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
 workflow-type: tm+mt
-source-wordcount: '178'
-ht-degree: 5%
+source-wordcount: '189'
+ht-degree: 6%
 
 ---
 
@@ -22,7 +22,7 @@ ht-degree: 5%
 
 계속해서 예를 들어 캘리포니아에 있는 점수가 50이 넘는 모든 사람을 찾기 위해 이러한 필터를 정의해 보겠습니다.
 
-1. **[!UICONTROL Marketing Activities]**(으)로 이동합니다.
+1. **[!UICONTROL Marketing Activities]** 으로 이동합니다.
 
    ![](assets/define-smart-list-filters-1.png)
 

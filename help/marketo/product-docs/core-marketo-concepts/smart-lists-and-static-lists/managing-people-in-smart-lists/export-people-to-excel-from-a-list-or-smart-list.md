@@ -1,13 +1,13 @@
 ---
 unique-page-id: 557329
-description: 목록 또는 스마트 목록에서 Excel로 사람 내보내기 - Marketo 문서 - 제품 설명서
+description: 목록 또는 스마트 목록에서 사람을 Excel로 내보내는 방법을 알아봅니다. 보고를 위해 목록에 있는 사람을 다운로드합니다.
 title: 목록 또는 스마트 목록에서 사용자를 Excel로 내보내기
 exl-id: d2a184e2-fb22-47f7-8368-747fa803233e
 feature: Smart Lists
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
 workflow-type: tm+mt
-source-wordcount: '167'
-ht-degree: 14%
+source-wordcount: '174'
+ht-degree: 15%
 
 ---
 
@@ -15,7 +15,7 @@ ht-degree: 14%
 
 Marketo 외부에서 목록 또는 스마트 목록 결과가 필요한 경우 Excel로 쉽게 내보낼 수 있습니다. 방법은 다음과 같습니다.
 
-1. **[!UICONTROL Marketing Activities]**(으)로 이동합니다.
+1. **[!UICONTROL Marketing Activities]** 으로 이동합니다.
 
    ![](assets/ma.png)
 

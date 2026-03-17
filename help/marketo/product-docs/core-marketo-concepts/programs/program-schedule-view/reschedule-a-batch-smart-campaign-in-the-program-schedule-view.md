@@ -1,13 +1,13 @@
 ---
 unique-page-id: 7514985
-description: 프로그램 일정 보기 - Marketo 문서 - 제품 설명서에서 일괄 스마트 캠페인 일정 조정
+description: 프로그램 일정 보기에서 배치 스마트 캠페인의 일정을 조정하는 방법을 알아봅니다. 배치 캠페인이 실행되는 시점을 변경합니다.
 title: 프로그램 일정 보기에서 배치 스마트 캠페인 일정 변경
 exl-id: accae56e-36c5-4093-a72e-0882ce8e50b2
 feature: Programs, Smart Campaigns
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
 workflow-type: tm+mt
-source-wordcount: '104'
-ht-degree: 19%
+source-wordcount: '109'
+ht-degree: 18%
 
 ---
 

@@ -1,13 +1,13 @@
 ---
 unique-page-id: 1147245
-description: 사용자 지정 항목 유형 만들기 - Marketo 문서 - 제품 설명서
+description: 프로그램 일정 보기에서 사용자 지정 항목 유형을 만드는 방법을 알아봅니다. 프로세스와 일치하는 항목 유형을 추가합니다.
 title: 사용자 정의 항목 유형 만들기
 exl-id: 75a0fb0d-a0d4-472d-9ac1-53e2f2831221
 feature: Programs
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
 workflow-type: tm+mt
-source-wordcount: '95'
-ht-degree: 15%
+source-wordcount: '106'
+ht-degree: 14%
 
 ---
 

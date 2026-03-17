@@ -1,13 +1,13 @@
 ---
 unique-page-id: 1146944
-description: 스마트 Campaign에 흐름 단계 추가 - Marketo 문서 - 제품 설명서
+description: Smart Campaign에 흐름 단계를 추가하는 방법을 알아봅니다. 이메일 보내기, 데이터 값 변경 또는 목록에 추가 등의 작업을 삽입합니다.
 title: 스마트 캠페인에 플로우 단계 추가
 exl-id: bd842551-b981-4cd9-a742-321b1ceab872
 feature: Smart Campaigns
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
 workflow-type: tm+mt
-source-wordcount: '167'
-ht-degree: 9%
+source-wordcount: '178'
+ht-degree: 10%
 
 ---
 
@@ -15,7 +15,7 @@ ht-degree: 9%
 
 흐름 단계는 자격을 갖춘 사용자 그룹에 어떤 일이 발생하기를 원하는지 Marketo Engage에 알려 줍니다.
 
-1. **[!UICONTROL Marketing Activities]**(으)로 이동합니다.
+1. **[!UICONTROL Marketing Activities]** 으로 이동합니다.
 
    ![](assets/add-a-flow-step-to-a-smart-campaign-1.png)
 

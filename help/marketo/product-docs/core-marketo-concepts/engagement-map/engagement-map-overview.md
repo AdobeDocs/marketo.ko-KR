@@ -1,10 +1,10 @@
 ---
-description: Engagement Map 개요 - Marketo 문서 - 제품 설명서
+description: 스마트 캠페인을 시각화하기 위한 참여 맵에 대해 알아봅니다. 이 패널을 사용하여 Marketo에서 트리거, 필터 및 흐름 단계를 직관적으로 볼 수 있습니다.
 title: 참여 맵 개요
 exl-id: 01cb283d-06c2-4a99-86a9-39dea9550c08
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
 workflow-type: tm+mt
-source-wordcount: '742'
+source-wordcount: '757'
 ht-degree: 1%
 
 ---

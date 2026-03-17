@@ -1,13 +1,13 @@
 ---
 unique-page-id: 7516639
-description: 사용자에게 체크인 앱에 대한 액세스 권한 부여 - Marketo 문서 - 제품 설명서
+description: 사용자에게 이벤트 체크 인 앱에 대한 액세스 권한을 부여하는 방법을 알아봅니다. 참석자를 체크인할 수 있도록 모바일 이벤트 체크인 역할을 할당합니다.
 title: 사용자에게 체크인 앱에 대한 액세스 권한 부여
 exl-id: 898ac49f-a708-4cdf-b341-58582740a45b
 feature: Mobile Marketing
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
 workflow-type: tm+mt
-source-wordcount: '245'
-ht-degree: 7%
+source-wordcount: '257'
+ht-degree: 8%
 
 ---
 

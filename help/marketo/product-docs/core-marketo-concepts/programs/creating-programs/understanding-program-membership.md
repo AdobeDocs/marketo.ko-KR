@@ -1,13 +1,13 @@
 ---
 unique-page-id: 1147091
-description: 프로그램 멤버십 이해 - Marketo 문서 - 제품 설명서
+description: 프로그램 멤버십과 사람들이 프로그램을 입력하는 방법에 대해 알아봅니다. 프로그램 구성원의 상태와 성공을 파악합니다.
 title: 프로그램 멤버십 이해
 exl-id: 02480a93-b499-4e0f-8a1c-a22f7d3b7178
 feature: Programs
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
 workflow-type: tm+mt
-source-wordcount: '266'
-ht-degree: 3%
+source-wordcount: '275'
+ht-degree: 2%
 
 ---
 
@@ -19,7 +19,7 @@ ht-degree: 3%
 
 ## 사람들이 프로그램의 구성원이 되는 방법 {#how-people-become-members-of-a-program}
 
-1. 사용자가 프로그램의 랜딩 페이지[에 &#x200B;](/help/marketo/getting-started/quick-wins/landing-page-with-a-form.md){target="_blank"}양식을 작성합니다.
+1. 사용자가 프로그램의 랜딩 페이지[에 ](/help/marketo/getting-started/quick-wins/landing-page-with-a-form.md){target="_blank"}양식을 작성합니다.
 
    * 개인은 자동으로 진행 중 첫 번째 상태를 갖게 됩니다.
 

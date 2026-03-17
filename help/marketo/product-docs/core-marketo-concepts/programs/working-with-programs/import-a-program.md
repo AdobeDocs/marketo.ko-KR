@@ -1,12 +1,12 @@
 ---
 unique-page-id: 1147108
-description: 프로그램 가져오기 - Marketo 문서 - 제품 설명서
+description: Marketo으로 프로그램을 가져오는 방법을 알아봅니다. 라이브러리 또는 다른 인스턴스에서 프로그램을 가져옵니다.
 title: 프로그램 가져오기
 exl-id: 15e23e38-a24b-45b3-89a9-ffec85649f4a
 feature: Programs
-source-git-commit: 7cf6194ba042fa47711bf9ef3b6d1d7570fe3451
+source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
 workflow-type: tm+mt
-source-wordcount: '538'
+source-wordcount: '550'
 ht-degree: 2%
 
 ---

@@ -1,13 +1,13 @@
 ---
 unique-page-id: 2953348
-description: 마케팅 달력 - Marketo 문서 - 제품 설명서에서 바로 항목 만들기
+description: 프로그램 포커스를 사용하여 마케팅 달력에서 직접 항목을 만드는 방법을 알아봅니다. 기본 항목, 이메일 프로그램 또는 스마트 캠페인을 추가합니다.
 title: 마케팅 캘린더에서 직접 항목 만들기
 exl-id: 114b94e8-39f0-4e5d-abb0-27515957b33f
 feature: Marketing Calendar
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
 workflow-type: tm+mt
-source-wordcount: '118'
-ht-degree: 15%
+source-wordcount: '128'
+ht-degree: 14%
 
 ---
 

@@ -1,11 +1,11 @@
 ---
-description: 잠재 고객 관리 - Marketo 문서 - 제품 설명서
+description: Lead Management 운영 프로그램 템플릿 리드 라이프사이클 및 채점을 관리하는 데 사용합니다.
 title: OP-리드 관리
 feature: Programs
 exl-id: bde644fe-d40b-4c9c-925d-a0f522e6de01
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
 workflow-type: tm+mt
-source-wordcount: '265'
+source-wordcount: '272'
 ht-degree: 7%
 
 ---
@@ -18,7 +18,7 @@ ht-degree: 7%
 >
 >Marketo Engage에서 데이터베이스의 레코드는 사람/사용자라고 합니다. 이 예에서 리드 관리는 CRM의 레코드를 참조합니다.
 
-추가 전략 지원 또는 프로그램 사용자 지정에 도움이 필요하면 Adobe 계정 팀에 문의하거나 [Adobe Professional Services](https://business.adobe.com/kr/customers/consulting-services/main.html) 페이지를 방문하십시오.
+추가 전략 지원 또는 프로그램 사용자 지정에 도움이 필요하면 Adobe 계정 팀에 문의하거나 [Adobe Professional Services](https://business.adobe.com/customers/consulting-services/main.html) 페이지를 방문하십시오.
 
 ## 채널 요약 {#channel-summary}
 
@@ -96,7 +96,7 @@ ht-degree: 7%
    * 두 템플릿 모두 보관 - _권장_
    * 기존 템플릿 바꾸기
 
-## 우수 사례 {#best-practices}
+## 모범 사례 {#best-practices}
 
 * 조직에서 추적할 수 있는 각 라이프사이클 상태 요구 사항을 해결하기 위해 추가 스마트 캠페인을 추가하는 것이 좋습니다. 이 프로그램에 내장된 각 캠페인은 모든 사용 사례에만 적용되는 것이 아니라 모범 사례 빌드의 예시여야 합니다. Smart Campaign을 업데이트하여 특정 LEAD LIFECYCLE MANAGEMENT 프로세스를 처리해야 합니다.
 

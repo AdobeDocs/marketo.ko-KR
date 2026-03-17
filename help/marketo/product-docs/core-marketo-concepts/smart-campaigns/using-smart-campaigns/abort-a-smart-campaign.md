@@ -1,13 +1,13 @@
 ---
 unique-page-id: 1147053
-description: 스마트 캠페인 중단 - Marketo 문서 - 제품 설명서
+description: Smart Campaign을 중단하는 방법을 알아봅니다. 실행 중인 일괄 처리 캠페인을 중지하고 더 이상 사람이 들어오지 못하도록 합니다.
 title: 스마트 캠페인 중단
 exl-id: 1d80e67a-324c-4a99-bda3-57074a24ea3d
 feature: Smart Campaigns
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
 workflow-type: tm+mt
-source-wordcount: '137'
-ht-degree: 6%
+source-wordcount: '147'
+ht-degree: 8%
 
 ---
 

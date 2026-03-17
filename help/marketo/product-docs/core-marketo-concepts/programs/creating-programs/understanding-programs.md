@@ -1,13 +1,13 @@
 ---
 unique-page-id: 1147089
-description: 프로그램 이해 - Marketo 설명서 - 제품 설명서
+description: 캠페인 및 에셋 구성을 위한 Marketo의 프로그램에 대해 알아봅니다. 프로그램을 사용하여 이메일, 랜딩 페이지 및 스마트 캠페인을 그룹화합니다.
 title: 프로그램 이해
 exl-id: 3ba18df8-9b31-4a69-bb52-f50d3896bb47
 feature: Programs
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
-workflow-type: ht
-source-wordcount: '149'
-ht-degree: 100%
+source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
+workflow-type: tm+mt
+source-wordcount: '163'
+ht-degree: 87%
 
 ---
 

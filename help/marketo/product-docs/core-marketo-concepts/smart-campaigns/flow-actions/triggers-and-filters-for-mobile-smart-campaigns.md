@@ -1,13 +1,13 @@
 ---
 unique-page-id: 9437991
-description: 모바일 스마트 캠페인용 트리거 및 필터 - Marketo 문서 - 제품 설명서
+description: 모바일 스마트 캠페인의 트리거 및 필터에 대해 알아봅니다. 앱 이벤트 및 속성을 사용하여 캠페인을 트리거합니다.
 title: 모바일 스마트 캠페인에 대한 트리거 및 필터
 exl-id: 76fc7a74-b27d-4898-a8ca-85c9c2828a28
 feature: Smart Campaigns
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
 workflow-type: tm+mt
-source-wordcount: '814'
-ht-degree: 2%
+source-wordcount: '820'
+ht-degree: 3%
 
 ---
 
@@ -103,7 +103,7 @@ ht-degree: 2%
 
 모바일 앱 활동 있음/있음
 
-이렇게 하면 사용자 지정 모바일 활동을 추적할 수 있는 강력한 방법을 제공합니다. 개발자와 협력하여 Android에 대해 [추적](https://experienceleague.adobe.com/ko/docs/marketo-developer/marketo/mobile/installation#how-to-install-marketo-sdk-on-android){target="_blank"}과(와) iOS에 대해 [추적](https://experienceleague.adobe.com/ko/docs/marketo-developer/marketo/mobile/installation#install-marketo-sdk-on-ios){target="_blank"}을 설정해야 합니다.
+이렇게 하면 사용자 지정 모바일 활동을 추적할 수 있는 강력한 방법을 제공합니다. 개발자와 협력하여 Android에 대해 [추적](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/mobile/installation#how-to-install-marketo-sdk-on-android){target="_blank"}과(와) iOS에 대해 [추적](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/mobile/installation#install-marketo-sdk-on-ios){target="_blank"}을 설정해야 합니다.
 
 * 모바일 앱 활동 있음 - 트리거
 

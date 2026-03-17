@@ -1,12 +1,12 @@
 ---
 unique-page-id: 557154
-description: 스마트 목록 만들기 - Marketo 문서 - 제품 설명서
+description: Marketo에서 스마트 목록을 만드는 방법을 알아봅니다. 데이터베이스 또는 프로그램 내부에 스마트 목록을 추가하고 필터를 정의합니다.
 title: 스마트 목록 만들기
 exl-id: 3acab0f8-44c9-4346-add7-8b317aa82471
 feature: Smart Lists
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
 workflow-type: tm+mt
-source-wordcount: '72'
+source-wordcount: '87'
 ht-degree: 12%
 
 ---
@@ -15,7 +15,7 @@ ht-degree: 12%
 
 스마트 목록을 사용하면 간단한 필터를 사용하여 특정 사용자 그룹을 찾을 수 있습니다. 만드는 방법은 다음과 같습니다.
 
-1. **[!UICONTROL Marketing Activities]**(으)로 이동합니다.
+1. **[!UICONTROL Marketing Activities]** 으로 이동합니다.
 
    ![](assets/create-a-smart-list-1.png)
 

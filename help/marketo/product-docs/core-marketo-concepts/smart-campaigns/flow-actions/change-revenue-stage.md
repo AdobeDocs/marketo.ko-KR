@@ -1,13 +1,13 @@
 ---
 unique-page-id: 1147080
-description: 수익 단계 변경 - Marketo 문서 - 제품 설명서
+description: 스마트 캠페인 흐름 단계에서 수익 단계를 변경하는 방법을 알아봅니다. 플로우에 있는 사용자에 대한 수익 단계를 업데이트합니다.
 title: 수익 단계 변경
 exl-id: 267f1a7a-b849-48e4-9bc8-56dd07168d1d
 feature: Smart Campaigns
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
 workflow-type: tm+mt
-source-wordcount: '72'
-ht-degree: 11%
+source-wordcount: '86'
+ht-degree: 9%
 
 ---
 

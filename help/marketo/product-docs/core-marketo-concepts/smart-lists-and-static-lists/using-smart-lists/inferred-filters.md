@@ -1,12 +1,12 @@
 ---
 unique-page-id: 2953188
-description: 필터 유추 - Marketo 문서 - 제품 설명서
+description: 스마트 목록에서 추론된 필터에 대해 알아봅니다. Marketo이 연결된 자산에서 필터를 유추하는 방법을 이해합니다.
 title: 추론된 필터
 exl-id: 6db4ff4d-7fab-4722-94b1-1bf92ba4651d
 feature: Smart Lists
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
 workflow-type: tm+mt
-source-wordcount: '209'
+source-wordcount: '218'
 ht-degree: 1%
 
 ---

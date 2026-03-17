@@ -1,12 +1,12 @@
 ---
 unique-page-id: 1147062
-description: Smart Campaign에서 차단된 사용자 보기 - Marketo 문서 - 제품 설명서
+description: Smart Campaign에서 차단된 사용자를 보는 방법을 알아봅니다. 흐름에서 차단한 사람과 그 이유를 확인합니다.
 title: 스마트 캠페인에서 차단된 사용자 보기
 exl-id: 7adf00fe-4893-42ea-8077-b7a1bed1866f
 feature: Smart Campaigns
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
 workflow-type: tm+mt
-source-wordcount: '118'
+source-wordcount: '126'
 ht-degree: 11%
 
 ---

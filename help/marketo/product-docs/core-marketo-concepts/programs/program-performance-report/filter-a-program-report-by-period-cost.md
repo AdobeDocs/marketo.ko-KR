@@ -1,13 +1,13 @@
 ---
 unique-page-id: 1147237
-description: 프로그램 보고서를 기간 원가로 필터링 - Marketo 문서 - 제품 설명서
+description: 프로그램 보고서를 기간 원가로 필터링하는 방법을 알아봅니다. 특정 원가 기간에 대한 프로그램 성과 조회.
 title: 기간 비용별로 프로그램 보고서 필터링
 exl-id: 039041be-326d-4018-b97d-d80198cb9b84
 feature: Programs
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
 workflow-type: tm+mt
-source-wordcount: '83'
-ht-degree: 16%
+source-wordcount: '89'
+ht-degree: 15%
 
 ---
 

@@ -1,13 +1,13 @@
 ---
 unique-page-id: 2953325
-description: 시작 세부 사항 보기 - Marketo 문서 - 제품 설명서
+description: 마케팅 달력에서 시작 세부 정보를 보는 방법에 대해 알아봅니다. 항목을 선택하여 해당 정보를 확인한 다음 마우스 오른쪽 단추를 클릭하여 편집기를 탐색하거나 엽니다.
 title: 항목 세부 사항 보기
 exl-id: bb65f7ae-5a37-4b09-8532-75d1e9a6464c
 feature: Marketing Calendar
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
 workflow-type: tm+mt
-source-wordcount: '74'
-ht-degree: 8%
+source-wordcount: '92'
+ht-degree: 6%
 
 ---
 

@@ -1,13 +1,13 @@
 ---
 unique-page-id: 8782021
-description: Marketo 순간 개인화 - Marketo 문서 - 제품 설명서
+description: Marketo Moment를 개인화하는 방법을 알아봅니다. 모바일 앱 보기에 표시되는 카드 및 인사이트를 사용자 지정합니다.
 title: Marketo Moments 개인화
 exl-id: f92c9215-0ee3-4918-8194-e6d1684a71c6
 feature: Mobile Marketing
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
 workflow-type: tm+mt
-source-wordcount: '125'
-ht-degree: 6%
+source-wordcount: '135'
+ht-degree: 5%
 
 ---
 

@@ -1,13 +1,13 @@
 ---
 unique-page-id: 7504676
-description: 기간 비용 이해 - Marketo 문서 - 제품 설명서
+description: 지출 추적을 위한 프로그램의 기간 비용에 대해 알아봅니다. 보고 및 ROI를 위해 프로그램 기간에 비용을 할당합니다.
 title: 기간 비용 이해
 exl-id: 99f50eaf-28cf-4a8b-8ebd-89a4beef986a
 feature: Programs
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
 workflow-type: tm+mt
-source-wordcount: '271'
-ht-degree: 2%
+source-wordcount: '282'
+ht-degree: 3%
 
 ---
 
@@ -29,7 +29,7 @@ ht-degree: 2%
 >
 >[프로그램 이해](/help/marketo/product-docs/core-marketo-concepts/programs/creating-programs/understanding-programs.md)
 >
->[프로그램 구성원 이해](/help/marketo/product-docs/core-marketo-concepts/programs/creating-programs/understanding-program-membership.md)
+>[프로그램 멤버십 이해](/help/marketo/product-docs/core-marketo-concepts/programs/creating-programs/understanding-program-membership.md)
 
 ## 기간 비용 계산 방법 {#how-period-costs-are-calculated}
 

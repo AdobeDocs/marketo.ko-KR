@@ -1,13 +1,13 @@
 ---
 unique-page-id: 1146940
-description: 스마트 캠페인을 위한 스마트 목록 정의 | 일괄 처리 - Marketo 문서 - 제품 설명서
+description: 일괄 처리 스마트 캠페인에 대한 스마트 목록을 정의하는 방법을 알아봅니다. 필터를 사용하여 캠페인을 시작할 사용자를 선택합니다.
 title: 스마트 캠페인에 대한 스마트 목록 정의 | 배치
 exl-id: 0e0061a9-df24-4cf6-8f1e-09ff0ee62efa
 feature: Smart Campaigns
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
 workflow-type: tm+mt
-source-wordcount: '273'
-ht-degree: 5%
+source-wordcount: '281'
+ht-degree: 4%
 
 ---
 
@@ -51,7 +51,7 @@ ht-degree: 5%
    >
    >기본적으로 모든 스마트 목록 규칙을 충족하는 사람은 자격이 있습니다. 이는 캠페인 요구 사항에 맞게 수정할 수 있습니다. 자세히 알아보려면 [복잡한 논리에 대한 스마트 목록 규칙](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/using-smart-lists/using-advanced-smart-list-rule-logic.md){target="_blank"}을 확인하십시오.
 
-   한 번에 한 사람씩 라이브 이벤트를 트리거하려면 [Smart Campaign용 스마트 목록을 정의하는 방법을 알아보세요. | 트리거 &#x200B;](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/creating-a-smart-campaign/define-smart-list-for-smart-campaign-trigger.md){target="_blank"}.
+   한 번에 한 사람씩 라이브 이벤트를 트리거하려면 [Smart Campaign용 스마트 목록을 정의하는 방법을 알아보세요. | 트리거 ](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/creating-a-smart-campaign/define-smart-list-for-smart-campaign-trigger.md){target="_blank"}.
 
    >[!MORELIKETHIS]
    >

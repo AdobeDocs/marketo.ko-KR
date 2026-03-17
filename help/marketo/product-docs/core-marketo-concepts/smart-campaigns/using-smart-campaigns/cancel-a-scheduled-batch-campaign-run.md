@@ -1,13 +1,13 @@
 ---
 unique-page-id: 1147058
-description: 예약된 일괄 캠페인 실행 취소 - Marketo 문서 - 제품 설명서
+description: 예약된 일괄 캠페인 실행을 취소하는 방법을 알아봅니다. 일회성 예약된 실행을 제거하여 실행되지 않도록 합니다.
 title: 예약된 배치 캠페인 실행 취소
 exl-id: 4bdffdcc-d654-40d1-a316-5ed05fc1b7f4
 feature: Smart Campaigns
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
 workflow-type: tm+mt
-source-wordcount: '92'
-ht-degree: 13%
+source-wordcount: '101'
+ht-degree: 11%
 
 ---
 

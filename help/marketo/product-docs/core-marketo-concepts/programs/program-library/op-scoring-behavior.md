@@ -1,11 +1,11 @@
 ---
-description: OP-Scoring-Behavior - Marketo 문서 - 제품 설명서
+description: 채점 행동 운영 프로그램 템플릿. 가망 고객 점수의 작동 방식을 정의하는 데 사용합니다.
 title: OP-채점-행동
 feature: Programs
 exl-id: c564a301-0054-431a-8f0f-0299cd91b59c
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
 workflow-type: tm+mt
-source-wordcount: '347'
+source-wordcount: '355'
 ht-degree: 22%
 
 ---
@@ -14,7 +14,7 @@ ht-degree: 22%
 
 이 예는 Marketo Engage 기본 프로그램을 사용한 동작 점수에 대한 고급(토큰화된) 운영 프로그램입니다. 프로그램의 &quot;내 토큰&quot; 탭에서 점수 값을 보고 편집합니다. &quot;동작 점수&quot;라는 사용자 정의 점수 필드가 필요합니다.
 
-추가 전략 지원 또는 프로그램 사용자 지정에 도움이 필요하면 Adobe 계정 팀에 문의하거나 [Adobe Professional Services](https://business.adobe.com/kr/customers/consulting-services/main.html){target="_blank"} 페이지를 방문하십시오.
+추가 전략 지원 또는 프로그램 사용자 지정에 도움이 필요하면 Adobe 계정 팀에 문의하거나 [Adobe Professional Services](https://business.adobe.com/customers/consulting-services/main.html){target="_blank"} 페이지를 방문하십시오.
 
 ## 채널 요약 {#channel-summary}
 
@@ -261,7 +261,7 @@ ht-degree: 22%
    * 두 템플릿 모두 보관 - _권장_
    * 기존 템플릿 바꾸기
 
-## 우수 사례 {#best-practices}
+## 모범 사례 {#best-practices}
 
 * 빌드된 각 캠페인은 사용 사례에만 국한되지 않고 모범 사례 빌드의 예시여야 합니다. 구체적인 해결 과제 및 데이터 문제를 해결하기 위해 스마트 캠페인을 업데이트해야 합니다.
 

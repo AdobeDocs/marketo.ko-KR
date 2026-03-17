@@ -1,12 +1,12 @@
 ---
-description: 프로그램 구성원 사용자 정의 필드 동기화 - Marketo 문서 - 제품 설명서
+description: Salesforce과의 프로그램 구성원 사용자 정의 필드 동기화에 대해 알아봅니다. 사용자 지정 멤버 데이터를 CRM과 계속 동기화합니다.
 title: 프로그램 멤버 사용자 정의 필드 동기화
 exl-id: 7facfc79-a411-4ad9-b847-2002763af5bb
 feature: Programs
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
 workflow-type: tm+mt
-source-wordcount: '331'
-ht-degree: 9%
+source-wordcount: '340'
+ht-degree: 10%
 
 ---
 
@@ -49,7 +49,7 @@ ht-degree: 9%
 
 1. 추가 필드 매핑의 경우 검색 상자를 지우고 3~5단계를 반복합니다.
 
-1. 완료되면 **[!UICONTROL Save]**&#x200B;을(를) 클릭합니다.
+1. 완료되면 **[!UICONTROL Save]**&#x200B;를 클릭합니다.
 
    ![](assets/program-member-custom-field-sync-6.png)
 
@@ -138,8 +138,8 @@ ht-degree: 9%
       <td>URL</td>
     </tr>
     <tr>
-      <td>Date</td>
-      <td>Date</td>
+      <td>일자</td>
+      <td>일자</td>
     </tr>
     <tr>
       <td>날짜/시간</td>

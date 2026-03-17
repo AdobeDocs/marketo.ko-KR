@@ -1,12 +1,12 @@
 ---
 unique-page-id: 8783559
-description: 순간 공유 - Marketo 문서 - 제품 설명서
+description: Marketo 모멘트 앱에서 순간을 공유하는 방법을 알아봅니다. 주요 인사이트 또는 작업을 동료에게 보냅니다.
 title: Moments 공유
 exl-id: e149f8d8-1405-43d2-aa0b-900796328a92
 feature: Mobile Marketing
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
 workflow-type: tm+mt
-source-wordcount: '143'
+source-wordcount: '154'
 ht-degree: 5%
 
 ---

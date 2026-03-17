@@ -1,12 +1,12 @@
 ---
 unique-page-id: 37356429
-description: Microsoft - Marketo 문서 - 제품 설명서에서 작업 만들기
+description: 흐름 단계에서 Microsoft Dynamics에서 작업을 만드는 방법을 알아봅니다. 누군가가 플로우를 입력하면 소유자를 위한 작업을 만듭니다.
 title: Microsoft에서 작업 만들기
 exl-id: b9ae425b-edf1-4aae-92f4-e7c6cf647cdc
 feature: Smart Campaigns, Microsoft Dynamics
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
 workflow-type: tm+mt
-source-wordcount: '164'
+source-wordcount: '180'
 ht-degree: 4%
 
 ---

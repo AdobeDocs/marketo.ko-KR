@@ -1,13 +1,13 @@
 ---
 unique-page-id: 1147150
-description: 프로그램에서 태그 사용 - Marketo 문서 - 제품 설명서
+description: 프로그램에서 태그를 사용하는 방법에 대해 알아봅니다. 태그를 추가하여 프로그램을 구성하고 달력 및 보고서에서 필터링을 활성화합니다.
 title: 프로그램에서 태그 사용
 exl-id: f1bae623-a710-472a-a30f-9044ce1001f5
 feature: Programs
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
 workflow-type: tm+mt
-source-wordcount: '156'
-ht-degree: 10%
+source-wordcount: '168'
+ht-degree: 16%
 
 ---
 

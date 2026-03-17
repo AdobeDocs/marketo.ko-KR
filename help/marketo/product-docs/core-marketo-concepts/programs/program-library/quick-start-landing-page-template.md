@@ -1,11 +1,11 @@
 ---
-description: 빠른 시작 랜딩 페이지 템플릿 - Marketo 문서 - 제품 설명서
+description: 빠른 시작 랜딩 페이지 템플릿. 템플릿에서 빠르게 랜딩 페이지를 만드는 데 사용합니다.
 title: 빠른 시작 랜딩 페이지 템플릿
 feature: Programs
 exl-id: edd60476-31bc-40f1-ae9d-9fcd3d41501c
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
 workflow-type: tm+mt
-source-wordcount: '462'
+source-wordcount: '468'
 ht-degree: 2%
 
 ---
@@ -18,7 +18,7 @@ Marketo Engage 참조 라이브러리의 일부 시작 프로그램에는 여러
 >
 >[안내 랜딩 페이지 템플릿](/help/marketo/product-docs/demand-generation/landing-pages/landing-page-templates/create-a-guided-landing-page-template.md){target="_blank"}에 대해 자세히 알아보기
 
-추가 전략 지원 또는 프로그램 사용자 지정에 도움이 필요하면 Adobe 계정 팀에 문의하거나 [Adobe Professional Services](https://business.adobe.com/kr/customers/consulting-services/main.html){target="_blank"} 페이지를 방문하십시오.
+추가 전략 지원 또는 프로그램 사용자 지정에 도움이 필요하면 Adobe 계정 팀에 문의하거나 [Adobe Professional Services](https://business.adobe.com/customers/consulting-services/main.html){target="_blank"} 페이지를 방문하십시오.
 
 ## 섹션 요약 {#sections-summary}
 

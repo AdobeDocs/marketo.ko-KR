@@ -1,12 +1,12 @@
 ---
-description: OP-Acquisition-API - Marketo 문서 - 제품 설명서
+description: 획득 API 운영 프로그램 템플릿. API를 통해 리드를 캡처하는 데 사용합니다.
 title: OP-획득-API
 feature: Programs
 exl-id: abf7c4a0-c363-4e92-9a1f-197c3953c515
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
 workflow-type: tm+mt
-source-wordcount: '171'
-ht-degree: 5%
+source-wordcount: '178'
+ht-degree: 6%
 
 ---
 
@@ -80,7 +80,7 @@ ht-degree: 5%
    * 두 템플릿 모두 보관 - _권장_
    * 기존 템플릿 바꾸기
 
-## 우수 사례 {#best-practices}
+## 모범 사례 {#best-practices}
 
 * 데이터 관리를 자세히 살펴야 하는 경우 먼저 일괄 처리 캠페인을 실행합니다.
 

@@ -1,13 +1,13 @@
 ---
 unique-page-id: 7504130
-description: 사용자 지정 목표 만들기 - Marketo 문서 - 제품 설명서
+description: 마케팅 캘린더에서 사용자 지정 목표를 만드는 방법을 알아봅니다. 진행 상황을 추적하고 수동으로 업데이트한 목표를 팀에 동기부여합니다.
 title: 사용자 정의 목표 만들기
 exl-id: 5e97fb4c-c779-46c7-83ed-de07d27770c7
 feature: Marketing Calendar
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
 workflow-type: tm+mt
-source-wordcount: '97'
-ht-degree: 10%
+source-wordcount: '110'
+ht-degree: 11%
 
 ---
 
@@ -25,7 +25,7 @@ ht-degree: 10%
 
    ![](assets/image2015-3-24-12-3a2-3a55.png)
 
-1. **[!UICONTROL Goals]** 탭을 선택합니다.
+1. **[!UICONTROL Goals]** 탭을 선택합니다. 
 
    ![](assets/image2015-3-26-12-3a24-3a49.png)
 

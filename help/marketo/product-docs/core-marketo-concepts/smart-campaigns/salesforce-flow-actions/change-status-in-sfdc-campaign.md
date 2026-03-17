@@ -1,13 +1,13 @@
 ---
 unique-page-id: 1147029
-description: SFDC Campaign - Marketo 문서 - 제품 설명서의 상태 변경
+description: 흐름 단계를 사용하여 Salesforce 캠페인에서 상태를 변경하는 방법을 알아봅니다. 연결된 SFDC 캠페인의 멤버 상태를 업데이트합니다.
 title: SFDC 캠페인 상태 변경
 exl-id: 7c0082fe-204f-46d2-a835-8655dea4d0b1
 feature: Smart Campaigns, Salesforce Integration
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
 workflow-type: tm+mt
-source-wordcount: '90'
-ht-degree: 11%
+source-wordcount: '102'
+ht-degree: 9%
 
 ---
 

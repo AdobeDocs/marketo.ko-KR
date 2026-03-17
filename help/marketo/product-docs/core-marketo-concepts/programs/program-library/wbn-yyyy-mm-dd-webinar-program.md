@@ -1,11 +1,11 @@
 ---
-description: WBN-YYYY-MM-DD-Webinar 프로그램 - Marketo 문서 - 제품 설명서
+description: 웨비나 프로그램 템플릿. 표준 명명 규칙을 사용하는 웨비나에 사용합니다.
 title: WBN-YYYY-MM-DD-웨비나 프로그램
 feature: Programs
 exl-id: 0506606e-d09a-42d2-949f-a65371a29c00
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
 workflow-type: tm+mt
-source-wordcount: '591'
+source-wordcount: '597'
 ht-degree: 15%
 
 ---
@@ -14,7 +14,7 @@ ht-degree: 15%
 
 이는 등록 관리, 3개의 초대 이메일, 참석 알림 및 Marketo Engage 이벤트 프로그램을 활용하는 후속 이메일이 포함된 웨비나 프로그램의 예입니다.
 
-추가 전략 지원 또는 프로그램 사용자 지정에 도움이 필요하면 Adobe 계정 팀에 문의하거나 [Adobe Professional Services](https://business.adobe.com/kr/customers/consulting-services/main.html){target="_blank"} 페이지를 방문하십시오.
+추가 전략 지원 또는 프로그램 사용자 지정에 도움이 필요하면 Adobe 계정 팀에 문의하거나 [Adobe Professional Services](https://business.adobe.com/customers/consulting-services/main.html){target="_blank"} 페이지를 방문하십시오.
 
 ## 채널 요약 {#channel-summary}
 
@@ -308,7 +308,7 @@ ht-degree: 15%
    * 두 템플릿 모두 유지
    * 기존 템플릿 바꾸기 - _권장_
 
-## 우수 사례 {#best-practices}
+## 모범 사례 {#best-practices}
 
 * 통합 웨비나 공급자를 사용하는 경우 호스팅 시스템에서 Marketo Engage 프로그램을 웨비나에 연결하는 것을 잊지 마십시오.
 

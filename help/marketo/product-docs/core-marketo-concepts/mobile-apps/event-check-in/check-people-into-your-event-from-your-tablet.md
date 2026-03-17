@@ -1,12 +1,12 @@
 ---
 unique-page-id: 2949839
-description: 태블릿에서 이벤트 직원 확인 - Marketo 문서 - 제품 설명서
+description: 태블릿에서 사람들을 이벤트에 체크인하는 방법을 알아봅니다. 이벤트 체크인 앱을 사용하여 참석자를 스캔하고 체크인합니다.
 title: 태블릿에서 이벤트에 사용자 체크인
 exl-id: b48f5f95-8e36-441f-a785-1651f42f9f60
 feature: Mobile Marketing
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
 workflow-type: tm+mt
-source-wordcount: '818'
+source-wordcount: '828'
 ht-degree: 2%
 
 ---

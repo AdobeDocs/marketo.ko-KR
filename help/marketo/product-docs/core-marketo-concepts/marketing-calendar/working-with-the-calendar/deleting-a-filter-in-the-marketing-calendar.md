@@ -1,13 +1,13 @@
 ---
 unique-page-id: 1147302
-description: 마케팅 달력 - Marketo 문서 - 제품 설명서에서 필터 삭제
+description: 마케팅 달력에서 필터를 삭제하는 방법을 알아봅니다.
 title: 마케팅 캘린더에서 필터 삭제
 exl-id: 1c53f346-ab35-44d4-9b8a-6e31f97044ca
 feature: Marketing Calendar
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
 workflow-type: tm+mt
-source-wordcount: '56'
-ht-degree: 25%
+source-wordcount: '55'
+ht-degree: 30%
 
 ---
 

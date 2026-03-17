@@ -1,13 +1,13 @@
 ---
 unique-page-id: 1146970
-description: 나중에 실행하도록 배치 스마트 캠페인 예약 - Marketo 문서 - 제품 설명서
+description: 일괄 처리 Smart Campaign을 나중에 실행하도록 예약하는 방법을 알아봅니다. 캠페인을 한 번 실행할 날짜 및 시간을 설정합니다.
 title: 배치 스마트 캠페인 나중에 실행하도록 예약
 exl-id: b78ffed2-cf91-4860-8a94-65b35d2927e2
 feature: Smart Campaigns
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
 workflow-type: tm+mt
-source-wordcount: '124'
-ht-degree: 13%
+source-wordcount: '134'
+ht-degree: 12%
 
 ---
 

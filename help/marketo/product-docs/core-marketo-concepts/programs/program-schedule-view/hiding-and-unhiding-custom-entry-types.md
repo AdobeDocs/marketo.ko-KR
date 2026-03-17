@@ -1,13 +1,13 @@
 ---
 unique-page-id: 1147247
-description: 사용자 지정 항목 유형 숨기기 및 숨기기 취소 - Marketo 문서 - 제품 설명서
+description: 프로그램 일정 보기에서 사용자 지정 항목 유형을 숨기고 숨기는 방법을 알아봅니다. 표시할 항목 유형을 제어합니다.
 title: 사용자 정의 항목 유형 숨기기 및 숨기기 취소
 exl-id: 3e41b47d-86dd-4fb3-ab87-0be0b534fc0a
 feature: Programs
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
 workflow-type: tm+mt
-source-wordcount: '103'
-ht-degree: 11%
+source-wordcount: '112'
+ht-degree: 10%
 
 ---
 

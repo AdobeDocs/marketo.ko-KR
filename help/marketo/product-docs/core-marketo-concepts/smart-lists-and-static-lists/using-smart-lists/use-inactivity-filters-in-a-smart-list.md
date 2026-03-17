@@ -1,13 +1,13 @@
 ---
 unique-page-id: 7511477
-description: 스마트 목록 - Marketo 문서 - 제품 설명서에서 비활성 필터 사용
+description: 스마트 목록에서 비활성 필터를 사용하는 방법을 알아봅니다. 정해진 기간 동안 아무 것도 하지 않은 사람을 찾습니다.
 title: 스마트 목록에서 비활성 필터 사용
 exl-id: 9e00c864-db3f-46cd-b65d-e4fd49d89ff5
 feature: Smart Lists
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
 workflow-type: tm+mt
-source-wordcount: '120'
-ht-degree: 11%
+source-wordcount: '130'
+ht-degree: 12%
 
 ---
 
@@ -15,7 +15,7 @@ ht-degree: 11%
 
 Smart List에서 _작업을 수행하지 않은_&#x200B;명의 사용자를 찾을 수 있다는 사실을 알고 계십니까? 이러한 비활성 필터를 확인하십시오.
 
-1. **[!UICONTROL Marketing Activities]**(으)로 이동합니다.
+1. **[!UICONTROL Marketing Activities]** 으로 이동합니다.
 
    ![](assets/use-inactivity-filters-in-a-smart-list-1.png)
 

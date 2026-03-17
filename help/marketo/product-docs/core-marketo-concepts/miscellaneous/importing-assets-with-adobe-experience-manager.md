@@ -1,12 +1,12 @@
 ---
 unique-page-id: 37355768
-description: Adobe Experience Manager으로 Assets 가져오기 - Marketo 문서 - 제품 설명서
+description: AEM 에셋을 Marketo Design Studio로 가져오는 방법을 알아봅니다. 자산 선택기를 사용하여 Adobe Experience Manager에서 자산에 액세스하고 자산을 가져옵니다.
 title: Adobe Experience Manager를 사용하여 자산 가져오기
 exl-id: 56ccf38f-3c99-4018-9989-719854e37a20
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
 workflow-type: tm+mt
-source-wordcount: '224'
-ht-degree: 5%
+source-wordcount: '237'
+ht-degree: 6%
 
 ---
 
@@ -42,7 +42,7 @@ Marketo 고객은 에셋 선택기를 사용하여 AEM 에셋에 액세스하고
 
    ![](assets/importing-assets-with-adobe-experience-manager-4.png)
 
-1. 폴더를 선택합니다. 그런 다음 썸네일을 클릭하여 원하는 이미지를 선택합니다(최대 10개까지 선택할 수 있음). 완료되면 **[!UICONTROL Select]**&#x200B;을(를) 클릭합니다.
+1. 폴더를 선택합니다. 그런 다음 썸네일을 클릭하여 원하는 이미지를 선택합니다(최대 10개까지 선택할 수 있음). 완료되면 **[!UICONTROL Select]**&#x200B;를 클릭합니다.
 
    ![](assets/importing-assets-with-adobe-experience-manager-5.png)
 

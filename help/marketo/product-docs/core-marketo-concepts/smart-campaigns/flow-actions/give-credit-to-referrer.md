@@ -1,14 +1,14 @@
 ---
 unique-page-id: 1147040
-description: 레퍼러에 크레딧 제공 - Marketo 문서 - 제품 설명서
+description: 흐름 단계에서 레퍼러에 크레딧을 제공하는 방법을 알아봅니다. 참조 개인 또는 캠페인에 대한 성공 속성을 지정합니다.
 title: 레퍼러에게 크레딧 부여
 exl-id: d8cd9a54-53fd-4edd-8262-c63ec45a89a9
 hide: true
 hidefromtoc: true
 feature: Smart Campaigns
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
 workflow-type: tm+mt
-source-wordcount: '130'
+source-wordcount: '141'
 ht-degree: 7%
 
 ---

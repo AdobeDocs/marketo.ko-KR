@@ -1,13 +1,13 @@
 ---
 unique-page-id: 557331
-description: 매출 단계의 모든 사람 찾기 - Marketo 문서 - 제품 설명서
+description: 수익 단계의 모든 사람을 찾는 방법에 대해 알아봅니다. 수익 단계 필터를 사용하여 목록 또는 세그먼트를 작성하십시오.
 title: 수익 단계에 있는 모든 사용자 찾기
 exl-id: aa5b30bf-96f1-4c1f-8170-86ba808e9705
 feature: Smart Lists
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
 workflow-type: tm+mt
-source-wordcount: '137'
-ht-degree: 10%
+source-wordcount: '147'
+ht-degree: 9%
 
 ---
 

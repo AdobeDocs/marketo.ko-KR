@@ -1,12 +1,12 @@
 ---
 unique-page-id: 8781911
-description: 이메일 프로그램 카드 이해 - Marketo 문서 - 제품 설명서
+description: Marketo Moments의 이메일 프로그램 카드에 대해 알아봅니다. 이메일 프로그램 상태를 보고 모바일 앱에서 작업을 수행합니다.
 title: 이메일 프로그램 카드 이해
 exl-id: c9de8334-4c42-44e4-aa73-9e82f25e5f00
 feature: Mobile Marketing
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
 workflow-type: tm+mt
-source-wordcount: '342'
+source-wordcount: '353'
 ht-degree: 4%
 
 ---

@@ -1,13 +1,13 @@
 ---
 unique-page-id: 1146937
-description: 스마트 캠페인 멤버 보기 - Marketo 문서 - 제품 설명서
+description: Smart Campaign 구성원을 보는 방법에 대해 알아봅니다. 캠페인에 있는 사람과 흐름에서 이들의 상태를 확인합니다.
 title: 스마트 캠페인 멤버 보기
 exl-id: 027d93a9-f838-4f96-80d6-7bf6ee1cc03d
 feature: Smart Campaigns
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
 workflow-type: tm+mt
-source-wordcount: '83'
-ht-degree: 9%
+source-wordcount: '94'
+ht-degree: 10%
 
 ---
 
@@ -15,7 +15,7 @@ ht-degree: 9%
 
 스마트 캠페인 플로우를 이미 통과한 사용자를 봅니다.
 
-1. **[!UICONTROL Marketing Activities]**(으)로 이동합니다.
+1. **[!UICONTROL Marketing Activities]** 으로 이동합니다.
 
    ![](assets/view-smart-campaign-members-1.png)
 

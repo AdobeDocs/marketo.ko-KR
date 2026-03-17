@@ -1,12 +1,12 @@
 ---
 unique-page-id: 1146995
-description: 흐름 단계 - Marketo 문서 - 제품 설명서에서 토큰 사용
+description: 흐름 단계에서 토큰을 사용하는 방법을 알아봅니다. 흐름 단계 콘텐츠 및 이메일에 동적 값을 삽입합니다.
 title: 플로우 단계에서 토큰 사용
 exl-id: 9b4c3d57-5906-4d7c-8215-4ba2271be3f8
 feature: Smart Campaigns
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
 workflow-type: tm+mt
-source-wordcount: '193'
+source-wordcount: '201'
 ht-degree: 10%
 
 ---

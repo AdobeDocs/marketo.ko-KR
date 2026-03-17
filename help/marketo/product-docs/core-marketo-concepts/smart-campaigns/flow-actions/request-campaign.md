@@ -1,12 +1,12 @@
 ---
 unique-page-id: 2951703
-description: 요청 캠페인 - Marketo 문서 - 제품 설명서
+description: 캠페인 요청 흐름 단계를 사용하는 방법을 알아봅니다. 누군가 이 단계에 도달하면 다른 캠페인을 트리거하여 실행합니다.
 title: 캠페인 요청
 exl-id: 5deecb56-c25f-4e3b-bd85-f9cac1c7149e
 feature: Smart Campaigns
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
 workflow-type: tm+mt
-source-wordcount: '101'
+source-wordcount: '114'
 ht-degree: 4%
 
 ---

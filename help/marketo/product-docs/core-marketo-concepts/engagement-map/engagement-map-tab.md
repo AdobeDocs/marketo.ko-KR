@@ -1,10 +1,10 @@
 ---
-description: Engagement Map 탭 - Marketo 문서 - 제품 설명서
+description: 참여 맵 탭과 해당 트리거, 필터 및 흐름 카드에 대해 알아봅니다. 세부 정보를 보고 캠페인 요소를 편집하려면 카드를 클릭하십시오.
 title: 참여 맵 탭
 exl-id: 8c4d076a-d8aa-44ff-b538-ca6a6778697a
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
 workflow-type: tm+mt
-source-wordcount: '935'
+source-wordcount: '950'
 ht-degree: 0%
 
 ---

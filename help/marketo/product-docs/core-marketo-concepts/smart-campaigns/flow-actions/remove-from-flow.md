@@ -1,13 +1,13 @@
 ---
 unique-page-id: 1147084
-description: 플로우에서 제거 - Marketo 문서 - 제품 설명서
+description: 플로우에서 제거 단계를 사용하여 플로우에서 사람을 제거하는 방법을 알아봅니다. 선택한 사용자에 대한 추가 처리를 중지합니다.
 title: 플로우에서 제거
 exl-id: 98b3664a-dd40-4859-a74d-0a9e84113225
 feature: Smart Campaigns
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
 workflow-type: tm+mt
-source-wordcount: '141'
-ht-degree: 4%
+source-wordcount: '154'
+ht-degree: 3%
 
 ---
 

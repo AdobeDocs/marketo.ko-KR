@@ -1,11 +1,11 @@
 ---
-description: EV-YYYY-MM-DD-Event 프로그램 - Marketo 문서 - 제품 설명서
+description: 이벤트 프로그램 템플릿. 이 플러그인을 사용하여 일관된 이름 지정 구조로 웨비나 및 이벤트를 실행합니다.
 title: EV-YYYY-MM-DD-이벤트 프로그램
 feature: Programs
 exl-id: 999a82ae-6637-40bf-96c0-62183cb0a197
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
 workflow-type: tm+mt
-source-wordcount: '561'
+source-wordcount: '570'
 ht-degree: 16%
 
 ---
@@ -14,7 +14,7 @@ ht-degree: 16%
 
 다음은 Marketo Engage 이벤트 프로그램을 활용하는 등록 페이지, 3개의 초대 이메일 및 후속 이메일이 있는 이벤트 프로그램의 예입니다. 로드쇼, 점심 식사, 저녁 식사 또는 무역 박람회 행사의 프레젠테이션을 포함하여 등록이 필요한 모든 이벤트에 적합합니다.
 
-추가 전략 지원 또는 프로그램 사용자 지정에 도움이 필요하면 Adobe 계정 팀에 문의하거나 [Adobe Professional Services](https://business.adobe.com/kr/customers/consulting-services/main.html){target="_blank"} 페이지를 방문하십시오.
+추가 전략 지원 또는 프로그램 사용자 지정에 도움이 필요하면 Adobe 계정 팀에 문의하거나 [Adobe Professional Services](https://business.adobe.com/customers/consulting-services/main.html){target="_blank"} 페이지를 방문하십시오.
 
 ## 채널 요약 {#channel-summary}
 
@@ -315,7 +315,7 @@ ht-degree: 16%
    * 두 템플릿 모두 유지
    * 기존 템플릿 바꾸기 - _권장_
 
-## 우수 사례 {#best-practices}
+## 모범 사례 {#best-practices}
 
 * 웨비나 프로그램을 가져온 후 양식을 로컬 에셋에서 Design Studio에 있는 글로벌 에셋으로 이동합니다.
    * Design Studio에서 양식 수를 줄이고 더 많은 글로벌 에셋을 사용하면 프로그램 설계 및 관리 거버넌스에서 더 많은 확장성을 얻을 수 있습니다. 또한 필드, 옵트인 언어 등에 대한 정기적인 규정 준수 업데이트의 유연성을 제공합니다.

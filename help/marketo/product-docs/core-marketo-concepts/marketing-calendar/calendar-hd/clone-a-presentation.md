@@ -1,13 +1,13 @@
 ---
 unique-page-id: 7504058
-description: 프레젠테이션 복제 - Marketo 문서 - 제품 설명서
+description: 재사용을 위해 마케팅 달력 프레젠테이션을 복제하는 방법에 대해 알아봅니다. 다른 위치에서 사용할 정확한 복사본을 만듭니다.
 title: 프레젠테이션 복제
 exl-id: be013e38-734c-41d7-8623-e8f267b2799c
 feature: Marketing Calendar
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
 workflow-type: tm+mt
-source-wordcount: '51'
-ht-degree: 11%
+source-wordcount: '63'
+ht-degree: 9%
 
 ---
 

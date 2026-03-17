@@ -1,12 +1,12 @@
 ---
 unique-page-id: 557275
-description: 기본 제공/시스템 스마트 목록 사용 - Marketo 문서 - 제품 설명서
+description: 기본 제공 및 시스템 스마트 목록을 사용하는 방법을 알아봅니다. 캠페인에서 모든 사용자 또는 모든 구독 취소 목록과 같은 미리 작성된 목록을 사용합니다.
 title: 기본 제공/시스템 스마트 목록 사용
 exl-id: f4db0e02-2250-4c56-ba74-f9fa8a5b9c11
 feature: Smart Lists
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
 workflow-type: tm+mt
-source-wordcount: '188'
+source-wordcount: '199'
 ht-degree: 7%
 
 ---

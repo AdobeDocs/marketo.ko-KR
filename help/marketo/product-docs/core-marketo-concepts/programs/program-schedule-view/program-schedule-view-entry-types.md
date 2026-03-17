@@ -1,12 +1,12 @@
 ---
 unique-page-id: 1147243
-description: 프로그램 일정 보기 항목 유형 - Marketo 문서 - 제품 설명서
+description: 프로그램 일정 보기 항목 유형에 대해 알아봅니다. 이메일 프로그램, 스마트 캠페인 및 기타 입력 유형을 이해합니다.
 title: 프로그램 일정 보기 항목 유형
 exl-id: 0b53d6d3-b813-45c6-9101-191c777610bb
 feature: Programs
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
 workflow-type: tm+mt
-source-wordcount: '152'
+source-wordcount: '159'
 ht-degree: 10%
 
 ---
@@ -28,7 +28,7 @@ ht-degree: 10%
  </thead>
  <tbody>
   <tr>
-   <td colspan="1" rowspan="1">기본 항목<span> <img alt="—" src="assets/image2014-9-24-10-3a4-3a47.png" data-linked-resource-id="3082715" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="1147243"></span></td>
+   <td colspan="1" rowspan="1">기본 항목<span> <img alt="--" src="assets/image2014-9-24-10-3a4-3a47.png" data-linked-resource-id="3082715" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="1147243"></span></td>
    <td colspan="1" rowspan="1">기본 항목 유형입니다. 자리 표시자 또는 메모로 사용합니다. </td>
   </tr>
   <tr>

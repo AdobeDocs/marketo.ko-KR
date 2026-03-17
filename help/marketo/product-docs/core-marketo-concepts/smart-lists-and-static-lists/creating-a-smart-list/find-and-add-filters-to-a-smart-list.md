@@ -1,12 +1,12 @@
 ---
 unique-page-id: 557273
-description: 스마트 목록 - Marketo 문서 - 제품 설명서에 필터 찾기 및 추가
+description: 스마트 목록에서 필터를 찾아 추가하는 방법을 알아봅니다. 필터 트리에서 필터를 찾아보고 추가하여 목록 논리를 빌드합니다.
 title: 스마트 목록에 필터 찾기 및 추가
 exl-id: de9afdc5-452e-47a4-99cf-ed7374bf114f
 feature: Smart Lists
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
 workflow-type: tm+mt
-source-wordcount: '127'
+source-wordcount: '139'
 ht-degree: 18%
 
 ---
@@ -21,7 +21,7 @@ ht-degree: 18%
 >
 >오른쪽 트리 탐색 - 필터는 매우 강력하고 다양한 가능한 기능을 제공합니다.
 
-1. **[!UICONTROL Marketing Activities]**(으)로 이동합니다.
+1. **[!UICONTROL Marketing Activities]** 으로 이동합니다.
 
    ![](assets/find-and-add-filters-to-a-smart-list-1.png)
 

@@ -1,12 +1,12 @@
 ---
 unique-page-id: 1146974
-description: 스마트 캠페인에서 자격 규칙 편집 - Marketo 문서 - 제품 설명서
+description: Smart Campaign에서 자격 규칙을 편집하는 방법을 알아봅니다. 사람들이 캠페인을 실행할 수 있는 횟수를 변경합니다.
 title: 스마트 캠페인에서 자격 규칙 편집
 exl-id: 8b016fe4-8caf-4266-9f8f-2b05dae78cff
 feature: Smart Campaigns
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
 workflow-type: tm+mt
-source-wordcount: '205'
+source-wordcount: '214'
 ht-degree: 6%
 
 ---

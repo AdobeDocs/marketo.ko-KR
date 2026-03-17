@@ -1,13 +1,13 @@
 ---
 unique-page-id: 8783555
-description: 즐겨찾기 만들기 - Marketo 문서 - 제품 설명서
+description: Marketo Moments에서 즐겨찾기를 만드는 방법을 알아봅니다. 모바일 앱에서 빠른 액세스를 위해 중요한 항목을 고정합니다.
 title: 즐겨찾기 만들기
 exl-id: 017ae477-02e2-42de-a1b0-1f9a215ef73b
 feature: Mobile Marketing
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
 workflow-type: tm+mt
-source-wordcount: '91'
-ht-degree: 8%
+source-wordcount: '103'
+ht-degree: 7%
 
 ---
 

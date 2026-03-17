@@ -1,13 +1,13 @@
 ---
 unique-page-id: 2953132
-description: 일괄 처리 및 트리거 스마트 캠페인 이해 - Marketo 문서 - 제품 설명서
+description: 일괄 처리 및 트리거 스마트 캠페인에 대해 알아봅니다. 각 유형을 사용할 시기와 실행 방법을 이해합니다.
 title: 배치 및 트리거 스마트 캠페인 이해
 exl-id: 84a7b38c-b79c-4360-bd0b-3beb8ca35ac7
 feature: Smart Campaigns
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
 workflow-type: tm+mt
-source-wordcount: '264'
-ht-degree: 6%
+source-wordcount: '271'
+ht-degree: 5%
 
 ---
 

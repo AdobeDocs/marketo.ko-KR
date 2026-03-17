@@ -1,12 +1,12 @@
 ---
 unique-page-id: 1147110
-description: 프로그램 복제 - Marketo 문서 - 제품 설명서
+description: 프로그램 및 모든 에셋을 복제하는 방법을 알아봅니다. 수동으로 다시 빌드하지 않고 캠페인 폴더 또는 작업 영역에 복사본을 만듭니다.
 title: 프로그램 복제
 exl-id: 5597007c-8f58-4306-ab78-3e65d6369fbf
 feature: Programs
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
 workflow-type: tm+mt
-source-wordcount: '214'
+source-wordcount: '229'
 ht-degree: 2%
 
 ---

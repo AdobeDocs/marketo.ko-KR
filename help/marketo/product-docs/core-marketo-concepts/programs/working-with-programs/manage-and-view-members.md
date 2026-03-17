@@ -1,12 +1,12 @@
 ---
 unique-page-id: 1147122
-description: 구성원 관리 및 보기 - Marketo 문서 - 제품 설명서
+description: 프로그램 구성원을 관리하고 보는 방법에 대해 알아봅니다. 프로그램의 사용자를 확인하고 멤버 상태 및 데이터를 관리합니다.
 title: 멤버 관리 및 보기
 exl-id: 8d6ad815-4022-4d4b-a258-2bc048ca48f9
 feature: Programs
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
 workflow-type: tm+mt
-source-wordcount: '238'
+source-wordcount: '250'
 ht-degree: 5%
 
 ---

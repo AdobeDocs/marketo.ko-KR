@@ -1,13 +1,13 @@
 ---
 unique-page-id: 1147296
-description: 마케팅 달력 - Marketo 문서 - 제품 설명서에 필터 정의 저장
+description: 마케팅 캘린더에 필터 정의를 저장하는 방법을 알아봅니다. 필터를 저장하여 다른 필터 정의 간에 빠르게 전환할 수 있습니다.
 title: 마케팅 캘린더에서 필터 정의 저장
 exl-id: 66346207-6e8d-472d-971c-31417bd5210b
 feature: Marketing Calendar
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
 workflow-type: tm+mt
-source-wordcount: '84'
-ht-degree: 20%
+source-wordcount: '92'
+ht-degree: 18%
 
 ---
 

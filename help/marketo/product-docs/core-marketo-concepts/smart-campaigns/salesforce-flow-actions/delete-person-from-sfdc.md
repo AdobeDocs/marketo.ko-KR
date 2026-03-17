@@ -1,13 +1,13 @@
 ---
 unique-page-id: 1147031
-description: SFDC - Marketo 문서 - 제품 설명서에서 사람 삭제
+description: 흐름 단계를 통해 Salesforce에서 개인을 삭제하는 방법을 알아봅니다. 흐름에 들어갈 때 SFDC에서 리드 또는 연락처를 제거합니다.
 title: SFDC에서 사용자 삭제
 exl-id: 8245de35-f374-4241-946e-b4c4b87cc85e
 feature: Smart Campaigns, Salesforce Integration
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
 workflow-type: tm+mt
-source-wordcount: '117'
-ht-degree: 7%
+source-wordcount: '133'
+ht-degree: 6%
 
 ---
 

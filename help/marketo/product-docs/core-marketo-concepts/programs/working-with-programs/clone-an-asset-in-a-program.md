@@ -1,12 +1,12 @@
 ---
 unique-page-id: 1147152
-description: 프로그램에서 에셋 복제 - Marketo 문서 - 제품 설명서
+description: 프로그램 내에서 에셋을 복제하는 방법을 알아봅니다. 이메일, 랜딩 페이지 또는 기타 로컬 자산의 사본을 만듭니다.
 title: 프로그램에서 자산 복제
 exl-id: 27bc2eab-f8ca-405b-b40e-6dadff902c2f
 feature: Programs
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
 workflow-type: tm+mt
-source-wordcount: '113'
+source-wordcount: '124'
 ht-degree: 13%
 
 ---
@@ -21,7 +21,7 @@ ht-degree: 13%
 
 ## 로컬 자산 복제 {#clone-a-local-asset}
 
-1. **[!UICONTROL Marketing Activities]**(으)로 이동합니다.
+1. **[!UICONTROL Marketing Activities]** 으로 이동합니다.
 
    ![](assets/login-marketing-activities.png)
 

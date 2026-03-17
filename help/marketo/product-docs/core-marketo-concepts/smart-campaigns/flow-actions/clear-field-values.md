@@ -1,13 +1,13 @@
 ---
 unique-page-id: 1147324
-description: 필드 값 지우기 - Marketo 문서 - 제품 설명서
+description: 스마트 캠페인 흐름 단계에서 필드 값을 지우는 방법을 알아봅니다. 개인 또는 회사 필드에서 값을 제거합니다.
 title: 필드 값 지우기
 exl-id: cddc7697-4e8f-4a62-865c-efd451abea0c
 feature: Smart Campaigns
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
 workflow-type: tm+mt
-source-wordcount: '92'
-ht-degree: 6%
+source-wordcount: '104'
+ht-degree: 5%
 
 ---
 

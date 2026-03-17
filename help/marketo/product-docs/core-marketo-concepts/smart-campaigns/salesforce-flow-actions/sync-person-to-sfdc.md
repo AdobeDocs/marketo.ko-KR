@@ -1,13 +1,13 @@
 ---
 unique-page-id: 1147027
-description: 사용자를 SFDC에 동기화 - Marketo 문서 - 제품 설명서
+description: 흐름 단계를 통해 개인을 Salesforce에 동기화하는 방법을 알아봅니다. 흐름을 입력할 때 리드 또는 연락처 데이터를 SFDC으로 푸시합니다.
 title: SFDC에 사용자 동기화
 exl-id: 4284ec35-6ac5-4084-beb7-976eb6fd7e3c
 feature: Smart Campaigns, Salesforce Integration
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
 workflow-type: tm+mt
-source-wordcount: '125'
-ht-degree: 6%
+source-wordcount: '141'
+ht-degree: 5%
 
 ---
 

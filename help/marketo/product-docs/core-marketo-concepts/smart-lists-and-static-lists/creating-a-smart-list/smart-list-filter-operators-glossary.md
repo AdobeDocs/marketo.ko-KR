@@ -1,12 +1,12 @@
 ---
 unique-page-id: 557312
-description: 스마트 목록 필터 연산자 용어집 - Marketo 문서 - 제품 설명서
+description: 스마트 목록 필터 연산자에 대한 도움말을 봅니다. 필터 빌드를 위해 같음, 포함 및 기타 연산자를 이해합니다.
 title: 스마트 목록 필터 연산자 용어집
 exl-id: 5a370482-f214-4909-bb49-801c1a36b153
 feature: Smart Lists
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
 workflow-type: tm+mt
-source-wordcount: '603'
+source-wordcount: '610'
 ht-degree: 14%
 
 ---

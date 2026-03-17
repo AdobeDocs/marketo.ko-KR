@@ -1,12 +1,12 @@
 ---
 unique-page-id: 1146958
-description: 경고 보내기 - Marketo 문서 - 제품 설명서
+description: 스마트 캠페인 흐름 단계에서 경고를 보내는 방법을 알아봅니다. 누군가가 플로우를 입력하거나 기준을 충족하면 사용자에게 알립니다.
 title: 경고 보내기
 exl-id: 2016e2e7-0361-4bb2-8740-819e21fbd15b
 feature: Smart Campaigns
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
 workflow-type: tm+mt
-source-wordcount: '137'
+source-wordcount: '153'
 ht-degree: 2%
 
 ---

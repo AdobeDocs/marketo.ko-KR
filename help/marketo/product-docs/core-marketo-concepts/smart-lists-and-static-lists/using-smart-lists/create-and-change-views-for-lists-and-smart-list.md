@@ -1,12 +1,12 @@
 ---
 unique-page-id: 557337
-description: 목록 및 스마트 목록에 대한 보기 만들기 및 변경 - Marketo 문서 - 제품 설명서
+description: 목록 및 스마트 목록의 보기를 만들고 변경하는 방법을 알아봅니다. 인물 탭에 나타나는 열을 사용자 지정합니다.
 title: 목록 및 스마트 목록에 대한 보기 만들기 및 변경
 exl-id: a1661990-ae10-4f8e-9eed-ada6564136d9
 feature: Smart Lists
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
 workflow-type: tm+mt
-source-wordcount: '211'
+source-wordcount: '218'
 ht-degree: 9%
 
 ---

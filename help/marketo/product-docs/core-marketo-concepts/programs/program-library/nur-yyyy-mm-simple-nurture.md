@@ -1,12 +1,12 @@
 ---
-description: NUR-YYYY-MM-Simple Grooth - Marketo 문서 - 제품 설명서
+description: 단순 육성 프로그램 템플릿. 명확한 명명 규칙을 사용하여 기본 육성 캠페인에 사용합니다.
 title: NUR-YYYY-MM-단순 육성
 feature: Programs
 exl-id: aed11d75-3190-46ea-8b0b-c1494645901d
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
 workflow-type: tm+mt
-source-wordcount: '347'
-ht-degree: 11%
+source-wordcount: '356'
+ht-degree: 12%
 
 ---
 
@@ -14,7 +14,7 @@ ht-degree: 11%
 
 다음은 간단한 육성 프로그램의 예입니다. Marketo Engage 참여 프로그램 을 사용하면 케이던스된 콘텐츠가 데이터베이스에 지속적으로 저장되고 스트림을 활용하여 동작을 기반으로 여정을 통해 레코드를 안내할 수 있습니다.
 
-추가 전략 지원 또는 프로그램 사용자 지정에 도움이 필요하면 Adobe 계정 팀에 문의하거나 [Adobe Professional Services](https://business.adobe.com/kr/customers/consulting-services/main.html){target="_blank"} 페이지를 방문하십시오.
+추가 전략 지원 또는 프로그램 사용자 지정에 도움이 필요하면 Adobe 계정 팀에 문의하거나 [Adobe Professional Services](https://business.adobe.com/customers/consulting-services/main.html){target="_blank"} 페이지를 방문하십시오.
 
 ## 채널 요약 {#channel-summary}
 
@@ -157,7 +157,7 @@ ht-degree: 11%
    * 두 템플릿 모두 유지
    * 기존 템플릿 바꾸기 - _권장_
 
-## 우수 사례 {#best-practices}
+## 모범 사례 {#best-practices}
 
 * 현재 브랜드 템플릿을 활용하도록 가져온 프로그램의 템플릿을 업데이트하거나, 코드 조각 또는 적절한 로고/바닥글 정보에 추가하여 브랜드를 반영하도록 새로 가져온 템플릿을 업데이트하는 것이 좋습니다.
 

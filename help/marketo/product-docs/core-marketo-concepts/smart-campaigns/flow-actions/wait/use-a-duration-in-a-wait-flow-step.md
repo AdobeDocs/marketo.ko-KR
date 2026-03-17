@@ -1,12 +1,12 @@
 ---
 unique-page-id: 1146978
-description: 대기 흐름 단계에서 기간 사용 - Marketo 문서 - 제품 설명서
+description: 대기 흐름 단계에서 기간을 사용하는 방법을 알아봅니다. 다음 작업까지 설정된 일수 동안 흐름을 일시 중지합니다.
 title: 대기 플로우 단계에서 기간 사용
 exl-id: 7b13d225-78ba-4ef1-9ff5-0f6acde6e5ff
 feature: Smart Campaigns
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
 workflow-type: tm+mt
-source-wordcount: '202'
+source-wordcount: '214'
 ht-degree: 9%
 
 ---

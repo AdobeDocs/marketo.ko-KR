@@ -1,12 +1,12 @@
 ---
 unique-page-id: 8159286
-description: 영업 기회 필터 및 트리거 - Marketo 문서 - 제품 설명서
+description: Marketo의 영업 기회 필터 및 트리거에 대해 알아봅니다. CRM 영업 기회 데이터를 세그먼트화하고 트리거합니다.
 title: 기회 필터 및 트리거
 exl-id: 5b372c00-1553-4ac3-a495-53e208371d8d
 feature: Smart Lists
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
 workflow-type: tm+mt
-source-wordcount: '473'
+source-wordcount: '480'
 ht-degree: 1%
 
 ---

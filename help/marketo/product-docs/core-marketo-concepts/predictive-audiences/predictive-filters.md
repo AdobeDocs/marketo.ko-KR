@@ -1,11 +1,11 @@
 ---
-description: 예측 필터 - Marketo 문서 - 제품 설명서
+description: AI를 사용하는 대상을 타깃팅하기 위한 예측 필터에 대해 알아봅니다. 스마트 목록 및 캠페인에서 필터를 사용하여 적합한 사람에게 도달합니다.
 title: 예측 필터
 exl-id: 27736b80-cd8b-455d-9d73-c17d492d0906
 feature: Predictive Audiences
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
 workflow-type: tm+mt
-source-wordcount: '408'
+source-wordcount: '423'
 ht-degree: 0%
 
 ---

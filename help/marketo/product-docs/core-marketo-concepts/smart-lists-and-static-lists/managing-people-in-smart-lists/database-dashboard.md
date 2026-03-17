@@ -1,12 +1,12 @@
 ---
 unique-page-id: 10097447
-description: 데이터베이스 대시보드 - Marketo 문서 - 제품 설명서
+description: Marketo의 데이터베이스 대시보드에 대해 알아봅니다. 데이터베이스와 사용자에 대한 주요 지표를 한눈에 볼 수 있습니다.
 title: 데이터베이스 대시보드
 exl-id: 44b00d28-a224-4f09-8307-468c14ddb0df
 feature: Smart Lists
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
 workflow-type: tm+mt
-source-wordcount: '169'
+source-wordcount: '181'
 ht-degree: 2%
 
 ---

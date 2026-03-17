@@ -1,12 +1,12 @@
 ---
-description: OA-YYYY-MM-Online Advertising Marketo 랜딩 페이지 - Marketo 문서 - 제품 설명서
+description: 온라인 Advertising Marketo 랜딩 페이지 프로그램 템플릿. Marketo 페이지를 사용하여 유료 캠페인에 사용합니다.
 title: OA-YYYY-MM-온라인 광고 Marketo 랜딩 페이지
 feature: Programs
 exl-id: f7f17792-cc16-4a99-8683-68796770e42c
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
 workflow-type: tm+mt
-source-wordcount: '485'
-ht-degree: 8%
+source-wordcount: '491'
+ht-degree: 9%
 
 ---
 
@@ -14,7 +14,7 @@ ht-degree: 8%
 
 이는 등록 양식이 있는 Marketo 랜딩 페이지를 포함하고 Marketo 기본 프로그램을 활용하는 온라인 광고 추적 프로그램의 예입니다. 오퍼에 대한 링크는 감사 인사 페이지에 표시하거나, 감사 인사 전자 메일로 전송하거나, 둘 다에 표시할 수 있습니다.
 
-추가 전략 지원 또는 프로그램 사용자 지정에 도움이 필요하면 Adobe 계정 팀에 문의하거나 [Adobe Professional Services](https://business.adobe.com/kr/customers/consulting-services/main.html){target="_blank"} 페이지를 방문하십시오.
+추가 전략 지원 또는 프로그램 사용자 지정에 도움이 필요하면 Adobe 계정 팀에 문의하거나 [Adobe Professional Services](https://business.adobe.com/customers/consulting-services/main.html){target="_blank"} 페이지를 방문하십시오.
 
 ## 채널 요약 {#channel-summary}
 
@@ -191,7 +191,7 @@ ht-degree: 8%
 
 충돌 규칙 스크린샷
 
-## 우수 사례 {#best-practices}
+## 모범 사례 {#best-practices}
 
 * 콘텐츠 프로그램을 가져온 후 양식을 로컬 에셋에서 Design Studio에 있는 글로벌 에셋으로 이동합니다.
    * Design Studio에서 양식 수를 줄이고 더 많은 글로벌 에셋을 사용하면 프로그램 설계 및 관리 거버넌스에서 더 많은 확장성을 얻을 수 있습니다. 또한 필드, 옵트인 언어 등에 대한 정기적인 규정 준수 업데이트의 유연성을 제공합니다.

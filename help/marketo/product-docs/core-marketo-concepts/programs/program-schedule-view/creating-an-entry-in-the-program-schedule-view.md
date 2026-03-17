@@ -1,12 +1,12 @@
 ---
 unique-page-id: 1147102
-description: 프로그램 일정 보기 - Marketo 문서 - 제품 설명서에서 항목 만들기
+description: 프로그램 일정 보기에서 항목을 만드는 방법을 알아봅니다. 이메일 프로그램, 스마트 캠페인 또는 기본 항목을 일정에 추가합니다.
 title: 프로그램 일정 보기에 항목 만들기
 exl-id: 7d15d110-17f4-4434-bf1c-0343c3a7f176
 feature: Programs
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
 workflow-type: tm+mt
-source-wordcount: '167'
+source-wordcount: '177'
 ht-degree: 10%
 
 ---
@@ -17,7 +17,7 @@ ht-degree: 10%
 
 ## 기본 항목 만들기 {#create-a-basic-entry}
 
-1. **[!UICONTROL Marketing Activities]**(으)로 이동합니다.
+1. **[!UICONTROL Marketing Activities]** 으로 이동합니다.
 
    ![](assets/login-marketing-activities-1.png)
 

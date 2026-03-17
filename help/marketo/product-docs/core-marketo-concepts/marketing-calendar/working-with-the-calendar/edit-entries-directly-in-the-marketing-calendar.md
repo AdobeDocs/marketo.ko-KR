@@ -1,12 +1,12 @@
 ---
 unique-page-id: 2953352
-description: 마케팅 달력 - Marketo 문서 - 제품 설명서에서 바로 항목 편집
+description: 마케팅 달력에서 바로 항목을 편집하는 방법에 대해 알아봅니다. 프로그램 포커스를 사용하여 항목 세부 정보의 일정을 조정하거나 이름을 바꾸거나 변경합니다.
 title: 마케팅 캘린더에서 직접 항목 편집
 exl-id: a78e4637-96b4-4771-9f9e-39ff50e11d72
 feature: Marketing Calendar
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
 workflow-type: tm+mt
-source-wordcount: '181'
+source-wordcount: '190'
 ht-degree: 9%
 
 ---

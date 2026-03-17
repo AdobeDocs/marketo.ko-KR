@@ -1,12 +1,12 @@
 ---
 unique-page-id: 557326
-description: 목록 또는 스마트 목록에서 빠른 찾기 사용 - Marketo 문서 - 제품 설명서
+description: 목록 또는 스마트 목록에서 빠른 찾기를 사용하는 방법을 알아봅니다. 목록에서 특정 사용자를 이름 또는 이메일로 검색합니다.
 title: 목록 또는 스마트 목록에서 빠른 찾기 사용
 exl-id: c8ec3d13-0432-400a-acd8-13df709bc29e
 feature: Smart Lists
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
 workflow-type: tm+mt
-source-wordcount: '134'
+source-wordcount: '145'
 ht-degree: 13%
 
 ---
@@ -15,7 +15,7 @@ ht-degree: 13%
 
 빠른 찾기를 사용하여 목록 또는 스마트 목록 결과에서 사람을 찾습니다.
 
-1. **[!UICONTROL Marketing Activities]**(으)로 이동합니다.
+1. **[!UICONTROL Marketing Activities]** 으로 이동합니다.
 
    ![](assets/login-marketing-activities.png)
 

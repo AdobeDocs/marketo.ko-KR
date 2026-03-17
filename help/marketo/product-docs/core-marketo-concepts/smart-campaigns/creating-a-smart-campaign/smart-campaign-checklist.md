@@ -1,12 +1,12 @@
 ---
 unique-page-id: 1147051
-description: 스마트 캠페인 체크리스트 - Marketo 문서 - 제품 설명서
+description: Smart Campaign 검사 목록에 대한 도움말을 확인합니다. 이 목록을 사용하여 활성화하기 전에 캠페인이 올바르게 설정되었는지 확인하십시오.
 title: 스마트 캠페인 체크리스트
 exl-id: 3c0d08c9-66ae-4083-ab0a-fa5a95149aba
 feature: Smart Campaigns
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
 workflow-type: tm+mt
-source-wordcount: '234'
+source-wordcount: '247'
 ht-degree: 3%
 
 ---

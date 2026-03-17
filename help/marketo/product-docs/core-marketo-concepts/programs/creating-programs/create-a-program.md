@@ -1,13 +1,13 @@
 ---
 unique-page-id: 1147095
-description: 프로그램 만들기 - Marketo 문서 - 제품 설명서
+description: Marketo Engage에서 프로그램을 만들고 에셋을 추가하는 방법을 알아봅니다.
 title: 프로그램 만들기
 exl-id: 9767dacb-2b24-4700-ab23-c48998cb0063
 feature: Programs
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
 workflow-type: tm+mt
-source-wordcount: '52'
-ht-degree: 17%
+source-wordcount: '57'
+ht-degree: 19%
 
 ---
 
@@ -15,7 +15,7 @@ ht-degree: 17%
 
 프로그램은 Marketo에서 가장 중요한 요소 중 하나입니다. 많이 쓰실 거예요!
 
-1. **[!UICONTROL Marketing Activities]**(으)로 이동합니다.
+1. **[!UICONTROL Marketing Activities]** 으로 이동합니다.
 
    ![](assets/login-marketing-activities.png)
 

@@ -1,13 +1,13 @@
 ---
 unique-page-id: 7504128
-description: 스마트 목록 목표 만들기 - Marketo 문서 - 제품 설명서
+description: 마케팅 달력에서 스마트 목록 목표를 만드는 방법을 알아봅니다. 프레젠테이션에서 2시간마다 자동으로 업데이트되는 목표를 사용하여 진행 상황을 추적합니다.
 title: 스마트 목록 목표 만들기
 exl-id: 3b6690b5-7dd1-46b2-b3f2-254439623f91
 feature: Marketing Calendar
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
 workflow-type: tm+mt
-source-wordcount: '135'
-ht-degree: 8%
+source-wordcount: '149'
+ht-degree: 10%
 
 ---
 
@@ -25,7 +25,7 @@ ht-degree: 8%
 
    ![](assets/image2015-3-24-12-3a2-3a55.png)
 
-1. **[!UICONTROL Goals]** 탭을 선택합니다.
+1. **[!UICONTROL Goals]** 탭을 선택합니다. 
 
    ![](assets/image2015-3-26-12-3a25-3a17.png)
 

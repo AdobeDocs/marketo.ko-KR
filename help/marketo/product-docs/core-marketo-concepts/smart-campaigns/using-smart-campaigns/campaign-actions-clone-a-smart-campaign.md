@@ -1,13 +1,13 @@
 ---
 unique-page-id: 1146989
-description: Campaign 작업 - 스마트 캠페인 복제 - Marketo 문서 - 제품 설명서
+description: Smart Campaign을 복제하는 방법을 알아봅니다. 캠페인 복사본을 만들어 구조를 새 이름으로 다시 사용합니다.
 title: Campaign 작업 - 스마트 캠페인 복제
 exl-id: 47441923-5a6a-4a9e-9753-85959bd3744f
 feature: Smart Campaigns
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
 workflow-type: tm+mt
-source-wordcount: '78'
-ht-degree: 7%
+source-wordcount: '89'
+ht-degree: 6%
 
 ---
 

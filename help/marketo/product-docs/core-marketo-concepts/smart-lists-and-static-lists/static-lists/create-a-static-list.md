@@ -1,12 +1,12 @@
 ---
 unique-page-id: 11387513
-description: 정적 목록 만들기 - Marketo 문서 - 제품 설명서
+description: Marketo에서 정적 목록을 만드는 방법을 알아봅니다. 데이터베이스에 목록을 추가하고 수동으로 또는 가져오기로 사람을 추가합니다.
 title: 정적 목록 만들기
 exl-id: 93560d2a-6b36-4660-99b3-dd6209032fb0
 feature: Static Lists
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
 workflow-type: tm+mt
-source-wordcount: '95'
+source-wordcount: '109'
 ht-degree: 13%
 
 ---
@@ -15,7 +15,7 @@ ht-degree: 13%
 
 정적 목록은 데이터베이스에 이미 있는 사람 그룹입니다. 만드는 방법은 다음과 같습니다.
 
-1. **[!UICONTROL Database]**(으)로 이동합니다.
+1. **[!UICONTROL Database]** 으로 이동합니다.
 
    ![](assets/db.png)
 

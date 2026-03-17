@@ -1,13 +1,13 @@
 ---
 unique-page-id: 5472404
-description: 사용자에 대한 활동 로그 찾기 - Marketo 문서 - 제품 설명서
+description: 사용자에 대한 활동 로그를 찾는 방법을 알아봅니다. 잠재 고객에 대한 이메일, 웹 및 기타 활동 내역을 봅니다.
 title: 사용자의 활동 로그 찾기
 exl-id: c4018711-e68d-4684-ac3d-a5e10b138a86
 feature: Smart Lists
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
 workflow-type: tm+mt
-source-wordcount: '122'
-ht-degree: 15%
+source-wordcount: '131'
+ht-degree: 14%
 
 ---
 
