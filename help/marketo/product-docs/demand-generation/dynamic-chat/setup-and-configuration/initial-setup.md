@@ -24,7 +24,7 @@ Dynamic Chat을 설정하려면 아래 단계를 따르십시오.
 
    ![](assets/initial-setup-1.png)
 
-1. 이전에 Adobe ID으로 애플리케이션에 액세스한 경우 Adobe Admin Console으로 바로 이동합니다. 그렇지 않으면 [Adobe ID을 설정](https://helpx.adobe.com/manage-account/using/create-update-adobe-id.html){target="_blank"}합니다.
+1. 이전에 Adobe ID으로 애플리케이션에 액세스한 경우 Adobe Admin Console으로 바로 이동합니다. 그렇지 않으면 [Adobe ID을 설정](https://helpx.adobe.com/kr/manage-account/using/create-update-adobe-id.html){target="_blank"}합니다.
 
    ![](assets/initial-setup-2.png)
 

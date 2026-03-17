@@ -69,6 +69,6 @@ Marketo Forms의 멋진 기능 중 하나는 양식 필드 또는 [필드 집합
 
 >[!IMPORTANT]
 >
->Forms 2.0에서 [API 함수](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/javascriptapi/forms-api-reference){target="_blank"}를 사용하여 사용자 지정 스크립트를 통해 필드 값을 설정/업데이트할 때 양식 필드 동작이 원활하게 작동합니다.
+>Forms 2.0에서 [API 함수](https://experienceleague.adobe.com/ko/docs/marketo-developer/marketo/javascriptapi/forms-api-reference){target="_blank"}를 사용하여 사용자 지정 스크립트를 통해 필드 값을 설정/업데이트할 때 양식 필드 동작이 원활하게 작동합니다.
 >
 >필드 값이 Forms 2.0 JavaScript API 이외의 외부 스크립트에 의해 수정되는 경우 조건부 필드가 예상대로 작동하지 않을 수 있습니다.

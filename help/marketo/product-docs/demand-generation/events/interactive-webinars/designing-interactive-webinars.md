@@ -76,9 +76,9 @@ ht-degree: 1%
 
 **Pod**: 웨비나 중에 특정 활동을 수행하는 템플릿 내의 구성 요소입니다. 예를 들어, 투표 Pod에서 이행할 수 있는 한 활동에서 참가자의 응답을 캡처하기 위해 투표를 설정하고 전달합니다. 마찬가지로, 참여자와 대화를 나누며 메시지를 전달하거나 일상적으로 상호 작용하는 것도 채팅 팟을 통해 전달되는 활동일 수 있다. 공유, 메모, 비디오, 채팅, 참석자 목록, 파일, 웹 링크, 설문 조사 및 Q&amp;A와 같은 기타 여러 Pod를 사용할 수 있습니다.
 
-      **설문 조사 Pod**: 호스트가 실시간 세션 내에서 직접 구조화된 피드백 양식을 디자인하고 게재할 수 있도록 허용합니다. Survey Pod는 여러 질문을 함께 표시할 수 있도록 하여 기존의 Poll Pod 기능을 확장함으로써 참가자 인사이트를 보다 간소화되고 통합적으로 수집할 수 있는 방법을 제공합니다. [자세히 알아보기](https://helpx.adobe.com/adobe-connect/using/survey-pod.html){target="_blank"}
+      **설문 조사 Pod**: 호스트가 실시간 세션 내에서 직접 구조화된 피드백 양식을 디자인하고 게재할 수 있도록 허용합니다. Survey Pod는 여러 질문을 함께 표시할 수 있도록 하여 기존의 Poll Pod 기능을 확장함으로써 참가자 인사이트를 보다 간소화되고 통합적으로 수집할 수 있는 방법을 제공합니다. [자세히 알아보기](https://helpx.adobe.com/kr/adobe-connect/using/survey-pod.html){target="_blank"}
 
-      **리소스 Pod**: 이전 파일 및 웹 링크 Pod를 대체하여 라이브 세션 중에 리소스를 공유하는 통합된 단일 방법을 제공합니다. [자세히 알아보기](https://helpx.adobe.com/adobe-connect/using/resources-pod.html){target="_blank"}
+      **리소스 Pod**: 이전 파일 및 웹 링크 Pod를 대체하여 라이브 세션 중에 리소스를 공유하는 통합된 단일 방법을 제공합니다. [자세히 알아보기](https://helpx.adobe.com/kr/adobe-connect/using/resources-pod.html){target="_blank"}
 
 >[!MORELIKETHIS]
 >

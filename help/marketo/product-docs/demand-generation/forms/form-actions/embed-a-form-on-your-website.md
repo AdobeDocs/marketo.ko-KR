@@ -47,6 +47,6 @@ Marketo을 사용하면 자신의 웹 사이트에 양식을 임베드할 수 �
 
 >[!NOTE]
 >
->개발자가 디자인을 사용자 지정하거나 고급 API 함수에 액세스하려면 [Forms 2.0 개발자 페이지](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/javascriptapi/forms-api-reference)를 표시하십시오.
+>개발자가 디자인을 사용자 지정하거나 고급 API 함수에 액세스하려면 [Forms 2.0 개발자 페이지](https://experienceleague.adobe.com/ko/docs/marketo-developer/marketo/javascriptapi/forms-api-reference)를 표시하십시오.
 
 좋습니다! [포함 코드에 Lightbox 코드](/help/marketo/product-docs/demand-generation/forms/form-actions/use-a-form-in-a-lightbox.md)을 포함하시겠습니까? 그것도 쉬워!

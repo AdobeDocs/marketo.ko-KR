@@ -16,7 +16,7 @@ Marketo Sales Insight의 대화형 웨비나는 Salesforce의 Marketo Sales Insi
 
 >[!PREREQUISITES]
 >
->이 기능은 [Marketo Sales Insight](https://business.adobe.com/products/marketo/sales-intelligence-engagement.html) 추가 기능을 구입한 사용자에게만 지원됩니다.
+>이 기능은 [Marketo Sales Insight](https://business.adobe.com/kr/products/marketo/sales-intelligence-engagement.html) 추가 기능을 구입한 사용자에게만 지원됩니다.
 
 활동이 Marketo Engage에 등록되면(Adobe Connect에서 웨비나가 완료된 후) MSI 플러그인을 통해 Salesforce에 실시간으로 동기화됩니다.
 

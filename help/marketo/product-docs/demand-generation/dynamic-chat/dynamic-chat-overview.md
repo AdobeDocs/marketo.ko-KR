@@ -16,7 +16,7 @@ Dynamic Chat은 사용하기 쉬운 인터페이스를 활용하여 웹 사이�
 
 >[!TIP]
 >
->Dynamic Chat 튜토리얼 비디오를 보려면 [이 페이지](https://experienceleague.adobe.com/docs/marketo-learn/tutorials/dynamic-chat/dynamic-chat-overview.html){target="_blank"}를 방문하십시오.
+>Dynamic Chat 튜토리얼 비디오를 보려면 [이 페이지](https://experienceleague.adobe.com/docs/marketo-learn/tutorials/dynamic-chat/dynamic-chat-overview.html?lang=ko){target="_blank"}를 방문하십시오.
 
 ## 통합 {#integrations}
 
